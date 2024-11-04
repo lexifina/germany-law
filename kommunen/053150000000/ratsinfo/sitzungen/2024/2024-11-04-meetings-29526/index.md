@@ -1,0 +1,78 @@
+# 32. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-04T17:00:00+01:00
+- Ende: 2024-11-04T18:45:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29526
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29526
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Sachstand/Austausch zum Verkehrsversuch Venloer Straße
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe nach § 24 GO– „Fahrradzone Neuehrenfeld“, Aktenzeichen 152/23 - geändert beschlossen
+- TOP 3.2: Bürgereingabe nach § 24 GO – „Maßnahmen zur Gefahrenabwehr und Schulwegsicherung auf der Nußbaumerstraße in Neuehrenfeld“, AZ 59/23 - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 6.3: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.5: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Gefahr durch Rahmenbrüche bei Lastenrädern - zurückgestellt
+- TOP 6.8: Anfrage der SPD-Fraktion, betr,; Sachstand inklusive Fahrradwerkstatt im Bahnbogen Hüttenstraße - zurückgestellt
+- TOP 6.9: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Fußballplatz im Leo-Amann-Park - Sache ist erledigt
+- TOP 6.10: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - zurückgestellt
+- TOP 6.11: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Stand der Umsetzung der Entfernung von Hindernissen auf Geh- und Radwegen - zurückgestellt
+- TOP 6.12: Anfrage von Marlis Pöttgen (FDP), betr.: Rolltreppe Haltestelle Rochusplatz - Sache ist erledigt
+- TOP 6.12.1: Beantwortung einer Anfrage der FDP-Fraktion in der Bezirksvertretung Ehrenfeld aus der Sitzung vom 09.09.2024 (AN/1111/2024) betreffend "Rolltreppe Haltestelle Rochusplatz" - Kenntnis genommen
+- TOP 6.13: Anfrage von Marlis Pöttgen (FDP), betr.: Fußgänger- /Radwegebrücke Weinsbergstrasse - Sache ist erledigt
+- TOP 6.13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Anfrage der SPD-Fraktion, betr.: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport - zurückgestellt
+- TOP 6.15: Anfrage von Elke Schroeder (Klima Freunde), betr.: Kostenexplosion barrierefreier Umbau von vier Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der CDU-Fraktion, betr.: Verbindungsweg zwischen Vogelsanger Straße und Meisenweg parallel zum Zeisig Weg und zur Eisenbahntrasse der DB in 50829 Köln Vogelsang - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Soziale Einrichtungen im Stadtbezirk - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, CDU-Fraktion, Marlis Pöttgen (FDP) und Elke Schröder (Bolzplatz im Leo-Amann-Park wieder bespielbar machen - ungeändert beschlossen
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - zurückgestellt
+- TOP 8.3: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und Elke Schroeder (Klima Freunde) betr.: Mehr Sicherheit auf der Hüttenstraße - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Schulneubau Lindweiler Hof Bickendorf - zurückgestellt
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Marlis Pöttgen (FDP), betr.: Verkehrssicherheit in der Vitalisstraße jetzt herstellen - ungeändert beschlossen
+- TOP 8.6: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Kreuzungsbereich Venloer Str./Innere Kanalstr. neu strukturieren - zurückgestellt
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Marlis Pöttgen (FDP), betr.: Schulverkehr Girlitzweg: Wirksamkeit der Maßnahmen prüfen und bedarfsgerecht weiterentwickeln - geändert beschlossen
+- TOP -: Ergänzungsantrag der SPD-Fraktion zu TOP 8.7 - Sache ist erledigt
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Sicherer Schulweg für Schüler*innen: Tempo 30 auf der Rochusstraße - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der SPD-Fraktion, betr.: Überholverbot auf der Vogelsanger Straße zur Gefahrenabwehr durchsetzen - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld - Förderprogramm - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss des Räumlichen Entwicklungskonzepts für das LiebigQuartier - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.1 - Sache ist erledigt
+- TOP -: Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 10.1 - Sache ist erledigt
+- TOP 10.2: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert beschlossen
+- TOP 10.3: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert beschlossen
+- TOP 10.4: Förderprogramm "Dritte Orte" - Zweite Genehmigung für die Förderphase 2024 ff. - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB der 239. Änderung des Flächennutzungsplans, Arbeitstitel: „Gewerbegebiet Venloer Straße“ in Köln-Bocklemünd/Mengenich - Kenntnis genommen
+- TOP 12.2: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet/Pilotprojekt Schulstraßen in Köln - Kenntnis genommen
+- TOP 12.3: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 12.4: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 12.5: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 12.6: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv„ 2024 - Kenntnis genommen
+- TOP 12.7: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - Kenntnis genommen
+- TOP 12.8: Stadtbahnvorhaben Köln - Niederaußem - hier: Aktueller Sachstand zur Vorbereitung der Machbarkeitsstudie zur Verlängerung der Linie 4 - Kenntnis genommen
+- TOP 12.9: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 12.10: Abbruch Rochusstr. 79 - ehemaliges Pfarrhaus in Bickendorf - innerhalb der Erhaltungssatzung E 14 (Bickendorf) - Kenntnis genommen
+- TOP 12.11: Beabsichtigte Neufassung der Naturdenkmalverordnung (NDI-VO) - Kenntnis genommen
+- TOP 12.12: Beantwortung der mündlichen Nachfrage von BV Hanselmann, SPD-Fraktion, bezüglich der Container an der Peter-Lustig-Schule, Wilhelm-Schreiber-Straße 56, 50827 Köln - Kenntnis genommen
+- TOP 13: mündliche Anfragen
