@@ -1,0 +1,8 @@
+# TOP -: Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen
+
+- Sitzung: Sitzung der Bezirksvertretung Rodenkirchen (2024-11-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/408707
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/189218
