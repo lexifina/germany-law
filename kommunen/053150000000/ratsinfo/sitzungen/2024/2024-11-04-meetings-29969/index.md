@@ -1,0 +1,77 @@
+# 32.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-04T17:00:00+01:00
+- Ende: 2024-11-04T19:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29969
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29969
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf Aktuelle Stunde der Fraktion DIE LINKE vom 21.10.2024; Wohnungssituation in der Keupstraße/ Holweider Straße und anderen Bereichen in Mülheim Nord
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Thurner Hof
+- TOP 1.2: Umsetzung der Radpendlerroute im Bereich Kopernikusstraße in Köln-Buchforst
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO– „Verkehrsgeschehen Grafenmühlenweg“ Aktenzeichen 74/24 B - geändert beschlossen
+- TOP 2.2: "Netzwerkelement 4 - Landschaftspark Kalkberge", Bürgereingabe nach § 24 GO - Aktenzeichen 120/23 B - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe nach § 24 GO - "Schnullerbaum in Köln Mülheim" Aktenzeichen 104/24 B - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung der Bezirksvertretung Mülheim vom 29.01.2024 (AN/0128/2024) "Und jedes Jahr aufs Neue - Schneechaos im Bezirk Köln-Mülheim" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung der Bezirksvertretung Mülheim vom 03.06.2024 (AN/0800/2024) betreffend "Artenreiche Wiesen im Bezirk Köln-Mülheim" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Säuberung der Treppen an der Mülheimer Brücke in Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.2: "Hammer der Woche" Thurner Hof - Kenntnis genommen
+- TOP 7.2.3: Wir brauchen Wohnraum, keinen Leerstand! - Kenntnis genommen
+- TOP -: Beantwortung der schriftlichen Anfrage "Wir brauchen Wohnraum, keinen Leerstand" (AN/1416/2024) der Fraktion BÜNDNIS 90/DIE GRÜNEN zur Sitzung der BV Mülheim am 04.11.2024 - Kenntnis genommen
+- TOP 7.2.4: Warum sind die app-basierten KVB-Verspätungsanzeigen so schlecht? - Kenntnis genommen
+- TOP 7.2.5: Sachstand Ulrich-Haberland-Haus - Kenntnis genommen
+- TOP 7.2.6: Verkehrssituation Rüdesheimer Straße / Wiesbadener Straße verbessern - Kenntnis genommen
+- TOP 7.2.7: Auswirkungen der Wohnraumschutzsatzung Kölns vom 30.06.2021 im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Erschließung Buchholzstraße - ungeändert beschlossen
+- TOP 8.1.2: Die Buchholzstraße braucht eine Perspektive! - ungeändert beschlossen
+- TOP 8.1.3: Errichtung einer Querungshilfe auf der Kalk-Mülheimer-Straße auf Höhe des Hauses 299 (Übergang zum neu gestalteten Bolz- und Spielplatz) - ungeändert beschlossen
+- TOP 8.1.4: Errichtung eines beampelten Fußgängerüberweges an der Heidelberger Str. im Bereich Kirchhoffstr./Kopernikusstr./Rudolf-Clausius-Str. - ungeändert beschlossen
+- TOP 8.1.5: Verhinderung von möglicher Zweckentfremdung von Wohnraum in den Arbeiterhäusern an der Keupstraße / Holweider Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.6: Säuberung der aktuell begehbaren Treppe auf der nördlichen Seite der Mülheimer Brücke in Höhe der Mülheimer Freiheit - ungeändert beschlossen
+- TOP 8.1.7: Endlich den Beschluss der Geschwindigkeitsreduzierung auf dem Dünnwalder Mauspfad im Bereich des Höhenfelder Sees – Ende des Radweges bis zur Einmündung in den Kalkweg auf 50 Km pro Stunde vom 13.06.2022 umsetzen - ungeändert beschlossen
+- TOP 8.1.8: Trinkwasserbrunnen in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8.1.9: Eingeschränkte Nutzung des gesperrten Spielplatzes in der Fritz - ungeändert beschlossen
+- TOP 8.1.10: Vermietung ehemalige KHD-Hauptverwaltung nördlicher Teil - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beschluss zur Freigabe von Finanzmitteln für die Generalsanierung der Walter-Blickhäuser-Sportanlage (Kopernikusstr.) - ungeändert beschlossen
+- TOP 9.1.2: Sanierung Spielplatz Holsteinstraße/Teilbereich in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.3: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Mülheim - Förderprogramm - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert beschlossen
+- TOP -: Lärm ernst nehmen – Lärmaktionsplan nachschärfen! - endgültig abgelehnt
+- TOP 9.2.2: 294. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über Anregungen/Stellungnahmen sowie Satzungsbeschluss Bebauungsplanentwurf Nummer 69449/05 Arbeitstitel: "Östlich Reitweg (Campus Deutz der TH Köln)" in Köln-Deutz - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Anregung zum Nachpflanzen von Straßenbäumen und zum Schutz der bestehenden Bäume in der Waldecker Straße in Köln Buchforst durch die Nachbarschaftsinitiative Buchforst Mobil vom 10.09.2021 - Kenntnis genommen
+- TOP 10.2.5: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) im vereinfachten Verfahren nach § 13 BauGB, Aufhebung des Bebauungsplanes 7549/02 Arbeitstitel: Hatzfeldstraße in Köln-Dellbrück, Aufhebung - Kenntnis genommen
+- TOP 10.2.6: Prüfauftrag zur Vorlage 3326/2023 - Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim aus der Ratssitzung vom 21. März 2024 - Kenntnis genommen
+- TOP 10.2.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Benennung eines Platzes in Köln Mülheim nach Prof. Dr. Maria Mies, Az.: 108/24 - Kenntnis genommen
+- TOP 10.2.8: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - Kenntnis genommen
+- TOP 10.2.9: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 10.2.10: Beabsichtigte Neufassung der Naturdenkmalverordnung (NDI-VO) - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
