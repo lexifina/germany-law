@@ -1,0 +1,138 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-11-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8222949
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8222949
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Denkmalschutz für Schwindstraße 1a prüfen – Erhalt des Baumes als Baumdenkmal
+- TOP 6.2.: Nachfrage Studierendenwerk zum Studiwohnen in der Adalbertstr. 41
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Mietenmonitor nutzen, proaktiv Mietwucher einbremsen
+- TOP 1.2.2.: Nachfrage Leerstand Mehrfamilienhaus Gabelsbergerstr. 39
+- TOP 1.2.3.: Leerstand in München – 22.000 Wohnungen laut Presse in der 42. KW – wie ist die Maxvorstadt davon betroffen? Was wird dagegen gemacht?
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste LBK KW40, KW42, KW43
+- TOP 2.1.2.: WEB-Listen 01.-15.10.2024
+- TOP 2.1.3.: Rambergstr.6, Abriss und Neubau eines Studentenwohnheims mit Kita - VORBESCHEID
+- TOP 2.1.4.: Görresstr. 11, Nutzungsänderung 1.Obergeschoss- Dachgeschoss von Wohnen zu Studentenwohnheim sowie Anbau einer hofseitigen Notleiteranlage
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Die Wanderbaumallee in der Katharina-von-Bora-Straße (Abschnitt Sophien-/Karlsstraße)
+- TOP 2.2.2.: Barer Str. 24, Prinz-Ludwig-Str. 11, Stellungnahme zu Denkmaleigenschaft
+- TOP 2.2.3.: Adalbertstr. 55, Schraudolphstr. 17, Stellungnahme zu Denkmaleigenschaft
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Abriss und Neubau eines Studentenwohnheims mit Kita - VORBESCHEID Rambergstr. 6 Zuleitung mit der Bitte um Stellungnahme zu der beantragten Baumfällung
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Rückerstattung von Heizkosten
+- TOP 5.2.: entfällt
+- TOP 5.3.: Arnulfstr. 52, Durchführung von Baumaßnahmen
+- TOP 5.4.: Verwendungsnachweis Green City
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Verkehrssituation rund um die Schwindschule
+- TOP 1.1.2.: Schulweg und Zebrastreifen an der Görresstraße
+- TOP 1.1.3.: Verkehrssituation Schwindschule
+- TOP 1.1.4.: Lärmaktionsplan 2024
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Schnellerer Auf- und Abbau bei Veranstaltungen am Königsplatz
+- TOP 1.2.2.: Haltestreifen in der Maillingerstraße
+- TOP 1.2.3.: Änderung Sondernutzungsgebührensatzung
+- TOP 1.2.4.: Königsplatz statt Königsparkplatz
+- TOP 1.2.5.: Entwurf von Maßnahmen im Alten Botanischen Garten zur Belebung im Bezirksausschuss vorstellen – Maßnahmen der Realität anpassen – keine blinden Schnellschüsse
+- TOP 1.2.6.: Alkoholverbot im Alten Botanischen Garten
+- TOP 1.2.7.: Waffenverbot im Alten Botanischen Garten
+- TOP 1.2.8.: Kontrollierte Anwohnerversammlungen mit Einbeziehung der Gewerbetreibenden für die einzelnen Bauabschnitte in der Augustenstraße durchführen
+- TOP 1.2.9.: Bessere Ausstattung des KAD im Alten Botanischen Garten
+- TOP 1.2.10.: Cannabisverbot im Alten Botanischen Garten
+- TOP 1.2.11.: Sektenalarm in der Innenstatt – Scientology wirbt getarnt um Mitglieder – wie sieht es in der Maxvorstadt aus
+- TOP 1.2.12.: „Sexuelle Belästigungen von Schülerinnen des Luisengymnasiums durch die Kriminellen am ABG“ – Welche Zahlen sind bekannt?
+- TOP 1.2.13.: Wie kann das Spielhaus Sophienstraße, wie auch das Luisengymnasium vor der kriminellen Klientel am ABG geschützt werden? Mehr Bestreifung durch den KAD? Videoüberwachung?
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Interfraktioneller Antrag: Stadtweite Lösung für das Abstellen von E-Scootern Antrag des BA 20
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: (E) Verfall der Sitten im Viertel
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Bez. 3, Wittelsbacherplatz | Anhörungsverfahren VA auf öff. Verkehrsgrund: "Carolina Panthers Fan Fest" vom 08.11. - 09.11.2024 (Aufbau ab 04.11.; Abbau bis 11.11.2024)| Anhörungsfrist: 25.10.2024
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.4.: Unveränderte Gaststättenfortführungen
+- TOP 3.5.: Anliegerinformation, Arnulfstraße, Bau eines Radschutzstreifens
+- TOP 3.6.: Schienenbearbeitung auf diversen Abschnitten im U-Bahnnetz im 4. Quartal 2024
+- TOP 3.7.: Videoüberwachung ABG; südlicher und nördlicher Bereich
+- TOP 3.8.: Bez. 3, Feuerwerksanzeigen am 07.11.2024 in 80335 München, Lothstr. 64, Gelände der Hochschule München
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Stella Bildung bewegt e.V. Lets move the Kids vom 07.12. - 14.12.2024 675,00 Euro, Az.: 0262.0-3-0558
+- TOP 2.2.: (E) Stadtbezirksbudget Internationale Forschungsstelle für Mehrsprachigkeit e.V. Münchner Bücherschrank vom 25.11.2024 - 25.07.2025 1.000,00 Euro, Az.: 0262.0-3-0556
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Rosa Stern Space e.V. ZUCKER: Workshopreihe vom 18.11.2024 -31.01.2025 3.200,00€; Az. 0262.0-3-0554
+- TOP 2.2.: entfällt
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Behördenorchester e.V. Vorbereitung für das Konzert am 23.11.2024 vom 01.10. - 25.11.2024 850,00 Euro, Az.: 0262.0-3-0555
+- TOP 2.4.: (E) Stadtbezirksbudget Empfangshalle Jahresgaben vom 05. - 29.12.2024 2.090,00 Euro, Az.: 0262.0-3-0559
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Kunstareal München - Kunst, Kultur, Wissen Bekanntgabe Ergebnisse des Ideenwettbewerbs "Open Kunstareal" Stadtbezirk 3 - Maxvorstadt
+- TOP 4.2.: Demokratiemobil Evaluation Tour 2024
+- TOP 4.3.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Unterausschusstermine 2025
+- TOP 1.2.: Christbaum für den Josephsplatz
+- TOP 1.3.: Kinder- und Bürgerfest 2024: Präsentation und Bilanz
+- TOP 1.4.: Dankesveranstaltung für die Tafel Ausgabestelle Arcisstraße
+- TOP 1.5.: Einladung zur Bürgerversammlung 2024
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.1.1.: Widerspruch Sitzungsvorlage Nr. 20-26 / V 14547
+- TOP 1.2.4.: Eilantrag SPD vom 23.10.2024 Dringlichkeitsantrag: Schließung des Diakoniewerkes
+- TOP 1.2.5.: Eilantrag CSU vom 28.10.2024 Schließung des Diakoniewerks Maxvorstadt – Leerstand vermeiden – Pflegeplätze sichern
+- TOP 1.2.6.: Leerstand Haus Veterinärstr. 8
+- TOP 2.2.4.: Platz an der Barer Str./ Ecke Nordendstraße
+- TOP 2.2.2.: Königsplatz Änderung der Veranstaltungsrichtlinien, Vorschlag VDMK – Anhörung
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Where we are going?" Ausstellung und Katalogpräsentation vom 31.10. - 24.11.2024 950,00 Euro, Az.: 0262.0-3-0552
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative Munich Dance Tanz der Isis - eine Neuinszenierung am 15.11.2024 1.500,00 Euro, Az.: 0262.0-3-0560
