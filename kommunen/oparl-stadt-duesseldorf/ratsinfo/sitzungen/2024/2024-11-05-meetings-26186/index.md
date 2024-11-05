@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-05T17:00:00+01:00
+- Ende: 2024-11-05T19:16:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26186
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26186
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO-1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533977.pdf
+- Ergebnisprotokoll: NachtragsTO-1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533977.pdf
+- Wortprotokoll: NachtragsTO-1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533977.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 27. August 2024 - öffentlicher Teil* - mehrheitlich beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 8. Oktober 2024* - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Abschluss der Machbarkeitsstudie Geothermie Rhein, Wärme aus Tiefengeothermie für die Fernwärme in Düsseldorf und Duisburg - zur Kenntnis genommen
+- TOP 7: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 8: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - zur Kenntnis genommen
+- TOP 9: Rotterdamer Str. 141, Stadthalle – Brandschutzsanierungsmaßnahmen - Änderungsbeschluss - - zur Kenntnis genommen
+- TOP 10: Rotterdamer Str. 141, Stadthalle – Instandhaltungsmaßnahmen und Ersatzbeschaffungen - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 11: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - vertagt
+- TOP 12: Die Einbahnstraße Sankt-Göres muss im Bereich zwischen der Straße Kaiserswerther Markt und der Niederrheinstraße Fahrrad frei bleiben - vertagt
+- TOP 13: Landschaftsgerechte Gestaltung und Baumpflanzungen auf dem Parkplatz Niederrheinstraße/An Sankt Swidbert - vertagt
+- TOP 14: Grüne Welle von der Niederrheinstraße kommend und auf der Kaiserswerther Straße von Freiligrath Platz bis zum Aqua Zoo - vertagt
+- TOP 15: ÖPNV-Anbindung Stadtbahn U81 - vertagt
+- TOP 16: Wie viele Wohnungen und Häuser werden im BV 5 Gebiet an Airbnb und andere Firmen für Übernachtungen und an Gewerbetreibende als Büros/Massagesalons usw. vermietet und stehen damit - beantwortet
+- TOP 17: Schutz vor Hochwasser der Häuser am Kaiserswerther Markt - beantwortet
+- TOP 18: Kapazitäten Friedrich-von-Spee-Gemeinschaftsgrundschule Angermund - vertagt
+- TOP 19: Weltkindertag - beantwortet
+- TOP 20: Welche Belastungen mit Feinstaub, Ultrafeinstaub und Stickoxid durch den Düsseldorfer Flughafen sind der Verwaltung bekannt und wie geht die Verwaltung mit diesem Wissen um? - vertagt
+- TOP -: Neue Anfragen
+- TOP 21: Nordpark: Barrierefreiheit beim Zugang - vertagt
+- TOP 22: Wird der Oberbürgermeister diesmal beanstanden oder treibt die BV 5 erneut Bauwillige zum Verwaltungsgericht? - vertagt
+- TOP 23: Lärmschutz auf der Angermunder Straße (L 139), innerorts, durch Tempo 30? - beantwortet
+- TOP 24: Weitere Nutzung der brachliegenden Immobilie Arnheimer Straße 51 - vertagt
+- TOP 25: Warum dürfen Fahrzeuge der Stadt Düsseldorf und Wohnmobile und Fremdparker aus anderen Städten dauerhaft in der Niederrhein Straße parken? - beantwortet
+- TOP 26: Wie häufig werden die extrem schmutzigen LED Gläser bei LED Laternen von den Stadtwerken gesäubert? - beantwortet
+- TOP 27: Wie häufig werden die Fahrzeuge auf den beiden Parkplätzen in der U-Bahn Nähe Wittlaer überprüft, ob es sich um langfristig abgestellte Fahrzeuge handelt? - beantwortet
+- TOP -: Anträge
+- TOP 28: Neue Ideen für eine angemessene Gestaltung des Sicherungsgestells an der Hochwasserschutzmauer Kaiserswerth - zurückgezogen
+- TOP 29: Gemeinschaftsgrundschule Kaiserswerth - Nachhaltiges Sanierungskonzept für Toilettenanlagen! - einstimmig beschlossen
+- TOP -: Informationsvorlage
+- TOP 30: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 31: Verschiedenes
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
