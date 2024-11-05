@@ -1,0 +1,61 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-05T17:00:00+01:00
+- Ende: 2024-11-05T18:45:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25685
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25685
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533620.pdf
+- Ergebnisprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533620.pdf
+- Wortprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533620.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Neustrelitzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.3: Schulwegsicherung - weitergehende Maßnahmen am Eingangsbereich der Willi-Fährmann-Grundschule, Ricarda-Huch-Straße 1 und Aufhebung des Beschlusses BV10/129/2024 vom 01.10.2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Heimatverein Garather Jonges 1969 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Garather Tafel - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Städtebauliche Weiterentwicklung - Hellerhof Zentrum - Beschluss Leitlinien ("Aufgabenstellung") - Empfehlung einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der BV 10, Zuschuss an die Städtische Montessori Grundschule - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Sondersitzung der Bezirksvertretung 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Büdchen an der Emil-Barth-Straße in Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Wild abgestellte Einkaufswagen - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Darstellung der Schülerzahlen und Anzahl der Klassen in verschiedenen Schulformen im Stadtbezirk 10 für das Jahr 2024 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.9: Schüler in der Ganztagsbetreuung an den Grundschulen im Stadtbezirk 10 im Jahr 2024 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Klettergerüst auf dem Gelände der Willi-Fährmann-GS in Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Einladung des Schulleiters der Alfred-Herrhausen-Schule - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Mülltrennung in städtischen Unterkünften - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.4: Qualifizierung des Bolzplatzes an der Koblenzer Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.5: Parksituation Hellerhof – Kurzzeitparken an der Dresdener Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.6: Verbesserung der Verkehrssituation auf der Straße An der Kämpe zwischen Josef-Maria-Olbrich-Straße und dem parallel dazu verlaufenden Teil der Straße An der Kämpe - Antrag der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: „Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode)“ - zur Kenntnis genommen
+- TOP 8.2: Hinweisschild "JFE St.Matthäus" in Hellerhof auf der Bertha-von-Suttner-Straße - Informationsvorlage zum Beschluss BV10/130/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.3: Versetzen der Straßenlaternen im Zentrum des Kämpenviertels / Josef-Kleesattel-Straße - Informationsvorlage zum Beschluss BV10/107/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.4: Waldzugang in die Urdenbacher Kämpe auf Höhe der Emil-Barth-Straße zwischen 109 und 111 und den dahinterliegenden Grundstücken 103 - 109 - Informationsvorlage zum Beschluss BV10/128/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.5: Zufahrt Schützenplatz, defekte Fahrbahndecke Frankfurter Straße 261 - Informationsvorlage zum Beschluss BV10/125/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.6: Instandsetzung der Faltschiebetür im Arenasaal des Kulturhauses Süd - Informationsvorlage zum Beschluss BV10/131/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.7: Generalüberholung des Sonnenrades - Informationsvorlage zum Beschluss BV10/076/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.8: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2025, hier: Umrüstung von sechs Grundwassermessstellen im Stadtbezirk 10 auf funkfähige Datenlogger - Informationsvorlage der Bezirksverwaltungsstelle 10 – - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
