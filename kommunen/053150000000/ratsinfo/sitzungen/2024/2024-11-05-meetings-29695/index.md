@@ -1,0 +1,63 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-05T14:05:00+01:00
+- Ende: 2024-11-05T16:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29695
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29695
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zum Thema Lachgas durch die Drogenhilfe Köln gGmbH & den SKM Köln e.V.
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Familiendienst LR gUG" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Landesförderung plusKITA - Weiterführung des Beschlusses vom 28.01.2020 (Session-Nr.: 4066/2019) ab dem Kindergartenjahr 2025/2026 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Einbindung der Angebote und Maßnahmen der anerkannten Träger der Familienbildung in die örtliche Jugendhilfeplanung der Stadt Köln - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Planungsbeschluss auf Basis des Entwurfs EIFELWALL Parkstadt Süd - ungeändert beschlossen
+- TOP 4.2: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ungeändert beschlossen
+- TOP 4.3: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - ungeändert beschlossen
+- TOP 4.4: Neues stellvertretend beratendes Mitglied im JHA für den Träger RheinFlanke gGmbH - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Anfrage Suizidprävention - zurückgestellt
+- TOP 6.1.2: Sachstand zu den angekündigten Handreichungen für die freien Träger im Rahmen der vorläufigen Haushaltsführung - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Gemeinsame Anfrage der Stadtschulpflegschaft und des Jugendamtelternbeirats: Entgelt für Mahlzeiten in Offenen Ganztagsschulen - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Beantwortung einer mündlichen Nachfrage von Juliane Passavanti (sachkundige Einwohnerin) aus der Sitzung des Jugendhilfeausschusses vom 17.09.2024 betr. "Girls´Day und Boys´Day 2024" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer mündlichen Nachfrage des JAEB zum Elternbrief des Jugendamtes, Vorlage 2690/2024 - Kenntnis genommen
+- TOP 7.1.4: Förderung im freiwilligen Bereich tätiger Träger - Bestandssicherung bestehender Strukturen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Trägerwechsel der Kita Homarstr. 86 auf die Arbeiterwohlfahrt Kreisverband Köln e.V. - Kenntnis genommen
+- TOP 8.2.2: Sachstandsbericht zur Umsetzung der in Vorlage 2882/2023 beschlossenen Lösungsansätze zur Verbesserung der Personalsituation in der Kindertagesbetreuung - Kenntnis genommen
+- TOP 8.2.3: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.4: Sachstand Kitaversorgung Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Halbjährlicher Bericht der Verfahrenslots*innen an den JHA - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: "Tag der Jugend im Rathaus" 2024 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Bericht kommunaler Fonds Kulturelle Bildung 2022-2024 - Kenntnis genommen
+- TOP 8.5.2: "Sachstandsbericht zur Einrichtung einer Kinderfeuerwehr bei der Feuerwehr Köln", Antrag der Fraktionen CDU - Kenntnis genommen
+- TOP 8.5.3: Orange Days 2024 - Kenntnis genommen
