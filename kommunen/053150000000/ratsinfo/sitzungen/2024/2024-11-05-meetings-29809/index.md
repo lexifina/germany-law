@@ -1,0 +1,57 @@
+# 27. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-05T17:02:00+01:00
+- Ende: 2024-11-05T19:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29809
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29809
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Bestellung einer neuen Schriftführung für den Ausschuss Kunst und Kultur und die dazugehörigen Betriebsausschüsse - ungeändert beschlossen
+- TOP 2.2: Szenebericht Bildende Kunst - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktionen Bündnis 90/ Die Grünen, CDU und Volt betreffend Öffnung des römischen Hafentors für die Öffentlichkeit - ungeändert beschlossen
+- TOP 3.2: Antrag der SPD-Fraktion betreffend Portal zur Antragstellung für Kulturförderung mehrsprachig gestalten - geändert beschlossen
+- TOP 3.3: Antrag der Fraktionen Fraktion Bündnis 90/Die Grünen, CDU, FDP und Volt betreffend Weltkulturerbe stärken – Rom sichtbarer machen - ungeändert beschlossen
+- TOP 3.4: Antrag der Fraktionen SPD und FDP betreffend Unterbringung der Kunst- und Museumsbibliothek sichern - Vertragsabschluss jetzt! - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Unterbringung der Kunst- und Museumsbibliothek sichern - Vertragsabschluss jetzt! - geändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - zurückgestellt
+- TOP 4.2: Betriebskostenzuschuss für ON – Neue Musik e.V. sowie Finanzierung der Lagerung des Studio für elektronische Musik des WDR im Jahr 2024 - geändert beschlossen
+- TOP 4.3: Unterstützung Standortwechsel Film- und Medienstiftung NRW - ohne Votum behandelt
+- TOP 4.4: Zuschussgewährung für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.5: Korrekturbeschluss Atelierförderstrategie - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Weitere Forderungen aus dem Antrag (AN/0398/2023) der Fraktionen Bündnis90/Die Grünen, CDU, SPD, FDP, Volt betreffend "Einrichtung einer Planungsgruppe Kulturbauten - Kenntnis genommen
+- TOP 8.2: Evaluierungsbericht des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 8.3: Neue kulturelle Nutzung ab Oktober 2024: Alte Versteigerungshalle am Großmarkt Köln - Kenntnis genommen
+- TOP 8.4: Die rheinischen Jahrtausendfeiern 1925. Akteure, Interessen, Wahrnehmungen - zurückgestellt
+- TOP 8.5: Projektkooperation des Kölnischen Stadtmuseums - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 18. Oktober 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 9. Oktober 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 18. Oktober 2024 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Volt-Fraktion aus der Sitzung des Finanzausschuss vom 24.06.2024 betreffend Kosten von Schenkungen an städtische Kultureinrichtungen - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage der Fraktion Die Linke im Aussschuss Kunst und Kultur am 18.06.2024 zum Maßnahmenkatalog des Expertengremiums zum Umgang mit dem "Postkolonialen Erbes der Stadt Köln" - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung einer Anfrage der SPD-Fraktion vom 28.08.2024, AN/1125/2024 betr. Erhalt der Theodor Wonja Michael Bibliothek im Integrationsrat am 03.09.2024 - Kenntnis genommen
+- TOP 10.5: Beantwortung einer schriftlichen Anfrage der Fraktion VOLT aus der Sitzung des Ausschusses Kunst und Kultur vom 17.09.2024 (AN/1244/2024) betreffend „Übersicht Förderprogramme im Kulturbereich" - Kenntnis genommen
+- TOP 10.6: Beantwortung einer mündliche Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschuss Kunst und Kultur vom 17.09.2024 betreffend "Kulturfördermöglichkeiten durch die EU" - Kenntnis genommen
+- TOP 10.7: Beantwortung einer mündlichen Anfrage der Fraktion FDP aus der Sitzung des Ausschusses Kunst und Kultur vom 17.09.2024 betreffend "Sachstand TanzFaktur" - Kenntnis genommen
+- TOP 10.8: Beantwortung einer Anfrage der Fraktionen Bündnis90/Die Grünen und Volt betreffend Ausschreibung "Geschäftsführende Direktion MOK und RJM" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Sachstand Interim Kunst- und Museumsbibliothek (KMB) - Sache ist erledigt
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 11.2: Anfrage der FDP-Fraktion betreffend Einstellung der Grabungstätigkeit auf der Baustelle des MiQua und die Folgen - zurückgestellt
+- TOP 12: Mündliche Anfragen
