@@ -1,0 +1,65 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-11-05T16:00:00+01:00
+- Ende: 2024-11-05T17:03:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22053
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22053
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00339141.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00340778.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2023 Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH Solingen - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Fünfte Satzung zur Änderung der Satzung der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.2: Sechste Satzung zur Änderung der Betriebssatzung des Eigenbetriebs Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 3.3: Neufassung des Gesellschaftsvertrags der WVW Wertstoffverwertung Wuppertal GmbH - zur Beratung und Entscheidung verwiesen
+- TOP 3.4: Neue Effizienz gemeinnützige GmbH - Gesellschafterversammlung zur Wirtschaftsplanung 2025 - ungeändert beschlossen
+- TOP 3.5: Änderungen von Gesellschaftsverträgen und Satzungen städtischer Tochtergesellschaften - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Zwischennutzung eines städtischen Grundstücks - Entgegennahme ohne Beschluss
+- TOP 5.2: Neuausrichtung des Vergabewesens - Entgegennahme ohne Beschluss
+- TOP 5.3: Kostensteigerung Schloss Burg - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Überplanmäßige Mittelbereitstellung zu Umsetzung von Sicherungsmaßnahmen am Kalktrichterofen - ungeändert beschlossen
+- TOP 6.2: Containerklassenlösung ab Sommer 2025 wegen steigender Schülerzahl an Grundschulen - ungeändert beschlossen
+- TOP 6.3: Verhandlungsverfahren mit Teilnahmewettbewerb: Errichtung einer neuen Schule im Stadtbezirk Oberbarmen - geändert beschlossen
+- TOP 6.4: Überplanmäßige Mittelbereitstellung zur Zahlung der gesetzlichen Unfallversicherung - ungeändert beschlossen
+- TOP 6.5: Überplanmäßige Mittel für DV-Verfahrenswechsel im Ordnungsamt - ungeändert beschlossen
+- TOP 6.6: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Wuppertal vom 20.12.2001 - ungeändert beschlossen
+- TOP 6.7: Führerschein gegen kostenloses Deutschland-Ticket eintauschen - abgelehnt
+- TOP 6.8: Änderungsantrag zur Drucksache VO/0994/24 "Strategische Weiterentwicklung der Grundstückswirtschaft" - abgelehnt
+- TOP 6.8.1: Antrag zur Tagesordnung der SPD- Fraktionen zum Änderungsantrag der Fraktionen der CDU und der FDP vom 09.09.2024 zur Drucksache VO/0994/24 „Strategische Weiterentwicklung der Grundstückswirtschaft“ - ungeändert beschlossen
+- TOP 6.9: Gründung einer stadteigenen Schul- und Sonderbau Gesellschaft - vertagen
+- TOP 6.10: Überplanmäßige Mittelbereitstellung für die Beauftragung von Partnerschaft Deutschland mit der Durchführung von Ausschreibungsverfahren - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 24.08.2024-25.10.2024 - Entgegennahme ohne Beschluss
+- TOP 8.2: Bericht zur finanziellen Lage der Stadt Wuppertal (Finco) - Entgegennahme ohne Beschluss
+- TOP 8.3: Voraussichtliche Entwicklung der Haushaltslage 2025 ff. - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Beschluss einer Hebesatzsatzung zur Umsetzung der Grundsteuerreform zum 01.01.2025 - zur Beratung und Entscheidung verwiesen
+- TOP 9.2: Sachstand zum Projekt zur Entwicklung eines kommunalen Nachhaltigkeitshaushaltes - Entgegennahme ohne Beschluss
+- TOP 9.3: Dienstanweisung Ermächtigungsübertragungen - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW III.Quartal 2024 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Fünfte Satzung zur Änderung der Betriebssatzung des Eigenbetriebs Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
