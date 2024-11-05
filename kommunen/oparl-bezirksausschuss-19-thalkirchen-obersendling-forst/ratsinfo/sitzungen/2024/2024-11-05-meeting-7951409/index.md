@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-11-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951409
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951409
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.10.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Inklusion, Cybermobbing, Geschlechterrollen, mentale Gesundheit, Suchtprävention, 01.01.2025 bis 31.12.2025 5.025,00 €; AZ 0262.0-19-0543
+- TOP 3.3.: (E) Stadtbezirksbudget Flößer-Kulturverein München-Thalkirchen e. V. Richard Pietzsch i. V. m. Nationalsozialismus, 28.01.2025 1.733,23 €; AZ 0262.0-19-0545
+- TOP 3.4.: (E) Stadtbezirksbudget Pfarrkirchenstiftung St. Johann Baptist München Solln Konzert zum 200. Geburtstag von Anton Bruckner: Messe d-Moll & Te Deum am 24.11.2024 3.939,75€; Az. 0262.0-19-0546
+- TOP 3.5.: (E) Stadtbezirksbudget Deutscher Touring Kajak Club München 1912 e.V. Jugend- und Familienförderung durch Kajakausrüstung, besonders für Einsteiger vom 01.12.2024 -30.06.2025 3.600,00€; Az. 0262.0-19-0547
+- TOP 3.6.: (E) Stadtbezirksbudget Maibaumverein Thalkirchen e.V. Christbaum für Thalkirchen vom 22.11.2024 -11.01.2025 3.225,00€; Az. 0262.0-19-0541
+- TOP 3.7.: (E) Stadtbezirksbudget Wasserwacht München Mitte Beschaffung neuer E-Bikes, 01.12.2024 - 31.12.2024 3.838,67 €; AZ 0262.0-19-0544
+- TOP 3.8.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde München-Solln Gabriel Fauré: Requiem, 01.11. bis 23.11.2024 7.240,00 €; AZ 0262.0-19-0542
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Errichtung von Kurzzeitparkplätzen Kindergarten Munckerstraße
+- TOP 5.1.2: Wiederholung 30er-Zone am Vogelanger
+- TOP 5.1.3: Lärmschutz für die Anwohner*innen der Pognerstraße durch Einführung von Tempo 30
+- TOP 5.2.: (Antrag) Verbesserung der Fuß- und Radunterführung Bahnhof Siemenswerke Südseite
+- TOP 5.3.: Flichnerstraße-Gehwegnase
+- TOP 5.4.: (A) Streckenbezogenes Tempo30 vor dem Seniorenheim am Greinerberg 17
+- TOP 5.5.: (Antrag) Poller am Radweg beim Thalkirchner Platz
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Absolutes Halteverbot Nesselwanger Straße / Mindelheimer Straße
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Personenbezogenes Behindertenparkplatz im Bereich Goldhoferstr. 18 + 20
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Absoluten Haltverbot als Hol- und Bringzone für die Grundschule Sambergerstraße
+- TOP 5.9.: (E) Mindestkomfort bei Ersatzhaltestellen
+- TOP 5.10.: (Antrag) Weiterer Behindertenparkplatz Parkplatz Herterichstraße 139
+- TOP 5.11.: (A) Verkehrsrechtliche Anordnung: Radwegbenutzungspflicht Steinkirchner Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Herterichstraße 103
+- TOP 6.2.2: Mindelheimer Straße 1 (T)
+- TOP 6.2.3: Bellinzonastraße 6
+- TOP 6.2.4: Unterbrunner Straße 6
+- TOP 6.2.5: Wilbrechtstraße Flurnummer 540/70 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 7.1.2: Verwendung für die Ausstattung der städtischen Berufsschule für Farbe und Gestaltung sichern
+- TOP 7.2.: (Antrag) Familienzentrum (Friedenskapelle) in Neuforstenried erhalten
+- TOP 7.3.: (Antrag) Leerstand im Forum Fürstenried Ost beseitigen
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Gaststättenfortführung: Herterichstraße
+- TOP 9: Verschiedenes
