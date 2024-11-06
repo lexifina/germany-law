@@ -1,0 +1,51 @@
+# 18. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-11-06T19:00:00+01:00
+- Ende: 2024-11-06T22:00:00+01:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5754
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5754
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=408991
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Protokollbestätigung - erledigt
+- TOP 3: Fragestunde und Bürger:innenanliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: KLR – Bericht und Maßnahmen Amt für Bürgerdienste - erledigt
+- TOP 6: Zwischenstand I-Planung - erledigt
+- TOP 7: Überwiesene Drucksachen - (offen)
+- TOP 7.1: Schnelle Nutzung des Grundstücks Gotlindestraße/Siegfriedstraße ermöglichen - vertagt
+- TOP 7.2: Stadtplatz Frankfurter Allee - vertagt
+- TOP 7.3: Beleuchtung für den Rudolf-Seiffert-Park - vertagt
+- TOP 7.4: Operation Prozessoptimierung: Bürger*innen auf Mission zur Verwaltungsverbesserung! - vertagt
+- TOP 7.5: Spielplatzpatenschaften auch in Lichtenberg - vertagt
+- TOP 7.6: Lichtenberg als leuchtendes Vorbild – Drohnenshow an Silvester - vertagt
+- TOP 7.7: Nachhaltige Lösungen für die Rattenproblematik - vertagt
+- TOP 7.8: Einen barrierefreien Bereich neben Sitzbänken berücksichtigen - vertagt
+- TOP 7.9: Eine Halle für Skaterhockey in Hohenschönhausen - vertagt
+- TOP 7.10: Wege zur Schule am Tierpark kurzfristig begradigen und Vorplatz neu gestalten - vertagt
+- TOP 7.11: Regenentwässerung Siedlung Wartenberg – Verkehrssicherungspflicht gewährleisten - vertagt
+- TOP 7.12: Änderung des Investitionsprogramms 2023 – 2027 - mit Änderungen im Ausschuss beschlossen
+- TOP 7.13: Inklusion sicherstellen: Räume für soziale Träger in der Geflüchtetenunterkunft - vertagt
+- TOP 7.14: Eine Jugendfreizeiteinrichtung auf dem Gelände der Gartenarbeitsschule ab 2026 - vertagt
+- TOP 7.15: Flexible Kinderbetreuung im Bürgeramt etablieren - vertagt
+- TOP 7.16: Kunst im Park - vertagt
+- TOP 7.17: Spraydosen-Schmu: Saubere Schilder für Lichtenberg! - vertagt
+- TOP 7.18: Gehwege reparieren statt Schilder "Gehwegschäden" - vertagt
+- TOP 7.19: Einen zweiten Standort für die Gartenarbeitsschule in Herzberge - vertagt
+- TOP 7.20: Die Parks beim Namen nennen - vertagt
+- TOP 7.21: Fußgängerrampe für den Rheinsteinpark - vertagt
+- TOP 7.22: Schulhof entstauben, Boden aufwerten in der Oberseeschule - vertagt
+- TOP 7.23: Gutspark Falkenberg aufwerten: Pflege, Barrierearmut und Sanierung des Gutsteichs sicherstellen - vertagt
+- TOP 7.24: Maßnahmen zur umfassenden Verbesserung der Infrastruktur und Verkehrssicherheit im Wohnquartier "Mein Falkenberg" - vertagt
+- TOP 7.25: Der (Amateur-) Musik und Kunstschaffenden eine Bühne geben - Die Freilichtbühne im Stadtpark Lichtenberg wetterfest machen - vertagt
+- TOP 7.26: Ein Frauenzentrum für FLINTA* in Lichtenberg! - vertagt
+- TOP 7.27: Bäume für Fennpfuhl Ost - vertagt
+- TOP 7.28: Klassenfahrten für Lichtenberger Schülerinnen und Schüler retten! - vertagt
+- TOP 8: Sonstiges - erledigt
