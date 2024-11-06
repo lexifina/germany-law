@@ -62,7 +62,7 @@ Abschnitt 13
 Finanzierung und Vergütung
 | § 33 | Finanzierung durch Gebühren; Verordnungsermächtigung |
 | § 34 | Vergütung der verantwortlichen Gesundheitseinrichtungen |
-| § 35 | Vergütungsausschluss |
+| § 35 | Vergütungsminderung |
 | § 36 | Nachweispflicht |
 Abschnitt 14
 Verordnungsermächtigung

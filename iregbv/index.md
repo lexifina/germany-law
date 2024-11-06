@@ -48,6 +48,10 @@
 - [§ 22 Verfahren zur Erfüllung des Auskunftsrechts nach Artikel 15 und des Rechts auf Berichtigung nach Artikel 16 der Datenschutz-Grundverordnung](0022.md)
 - [§ 23 Verfahren zur unverzüglichen Information der Patientinnen und Patienten, die von einer Sicherheitskorrekturmaßnahme im Feld betroffen sind](0023.md)
 
+## Abschnitt 7a Vergütungsminderung
+
+- [§ 23a Vergütungsminderung](0023a.md)
+
 ## Abschnitt 8 Inkrafttreten
 
 - [§ 24 Inkrafttreten](0024.md)

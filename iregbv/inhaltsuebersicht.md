@@ -39,6 +39,9 @@ Abschnitt 7
 Weitere Verfahrensregelungen
 | § 22 | Verfahren zur Erfüllung des Auskunftsrechts nach Artikel 15 und des Rechts auf Berichtigung nach Artikel 16 der Datenschutz-Grundverordnung |
 | § 23 | Verfahren zur unverzüglichen Information der Patientinnen und Patienten, die von einer Sicherheitskorrekturmaßnahme im Feld betroffen sind |
+Abschnitt 7a
+Vergütungsminderung
+| § 23a | Vergütungsminderung |
 Abschnitt 8
 Inkrafttreten
 | § 24 | Inkrafttreten |

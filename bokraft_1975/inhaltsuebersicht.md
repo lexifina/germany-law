@@ -75,7 +75,7 @@
 | 6. | Abschnitt |
 |  | Schluß- und Übergangsvorschriften |
 | § 43 | Ausnahmen |
-| § 44 | Bundesbahn und Bundespost |
+| § 44 | (weggefallen) |
 | § 45 | Ordnungswidrigkeiten |
 | § 46 | Berlin-Klausel |
 | § 47 | Inkrafttreten, Aufhebung von Rechtsvorschriften |

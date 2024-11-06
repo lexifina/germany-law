@@ -16,6 +16,7 @@ auf dem Markt, sonstige Bestimmungen
 | § 5 | Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung |
 | § 6 | Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie |
 | § 7 | Sonderzulassung, Verordnungsermächtigung |
+| § 7a | Verfahren für die Informationspflicht nach Artikel 10a der Verordnung (EU) 2017/745 und Artikel 10a der Verordnung (EU) 2017/746 |
 | § 8 | Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen |
 | § 9 | Sondervorschriften für angepasste Produkte |
 | § 10 | Freiverkaufszertifikate |
@@ -64,10 +65,12 @@ Titel 1
 Voraussetzungen für den Beginn
 | § 31 | Beginn einer klinischen Prüfung |
 | § 31a | Beginn einer Leistungsstudie |
-| § 31b | Anzeige von Leistungsstudien mit therapiebegleitenden Diagnostika |
+| § 31b | Beginn von Leistungsstudien mit therapiebegleitenden Diagnostika unter Verwendung von Restproben |
+| § 31c | Standardvertragsklauseln für die Durchführung von klinischen Prüfungen und Leistungsstudien |
 Titel 2
 Verfahren bei der Ethik-Kommission
 | § 32 | Anforderungen an die Ethik-Kommissionen |
+| § 32a | Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen |
 | § 33 | Antrag bei der Ethik-Kommission |
 | § 34 | Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission |
 | § 35 | Ethische Bewertung der beantragten klinischen Prüfung oder Leistungsstudie |

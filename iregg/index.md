@@ -74,7 +74,7 @@
 
 - [§ 33 Finanzierung durch Gebühren; Verordnungsermächtigung](0033.md)
 - [§ 34 Vergütung der verantwortlichen Gesundheitseinrichtungen](0034.md)
-- [§ 35 Vergütungsausschluss](0035.md)
+- [§ 35 Vergütungsminderung](0035.md)
 - [§ 36 Nachweispflicht](0036.md)
 
 ## Abschnitt 14 Verordnungsermächtigung

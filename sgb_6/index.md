@@ -778,7 +778,7 @@ Beitrittsgebiet](0279a.md)
 ##### Vierter Titel Berechnungsgrundlagen
 
 - [§ 287 Beitragssatzgarantie bis 2025](0287.md)
-- [§ 287a (weggefallen)](0287a.md)
+- [§ 287a Veränderung des allgemeinen Bundeszuschusses für das Jahr 2025](0287a.md)
 - [§ 287b Ausgaben für Leistungen zur Teilhabe](0287b.md)
 - [§ 287c Förderung für sonstige Leistungen der Teilhabe](0287c.md)
 - [§ 287d Erstattungen in besonderen Fällen](0287d.md)

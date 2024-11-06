@@ -60,11 +60,13 @@
 
 - [§ 31 Beginn einer klinischen Prüfung](0031.md)
 - [§ 31a Beginn einer Leistungsstudie](0031a.md)
-- [§ 31b Anzeige von Leistungsstudien mit therapiebegleitenden Diagnostika](0031b.md)
+- [§ 31b Beginn von Leistungsstudien mit therapiebegleitenden Diagnostika unter Verwendung von Restproben](0031b.md)
+- [§ 31c Standardvertragsklauseln für die Durchführung von klinischen Prüfungen und Leistungsstudien](0031c.md)
 
 ##### Titel 2 Verfahren bei der Ethik-Kommission
 
 - [§ 32 Anforderungen an die Ethik-Kommissionen](0032.md)
+- [§ 32a Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen](0032a.md)
 - [§ 33 Antrag bei der Ethik-Kommission](0033.md)
 - [§ 34 Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission](0034.md)
 - [§ 35 Ethische Bewertung der beantragten klinischen Prüfung oder Leistungsstudie](0035.md)
