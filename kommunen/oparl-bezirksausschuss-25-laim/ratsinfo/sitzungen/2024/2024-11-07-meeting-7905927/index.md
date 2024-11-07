@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-11-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905927
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905927
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 1.4: Aktuelles zur Baumaßnahme Tram-Westtangente
+- TOP 2: Anträge
+- TOP 2.1.: Kiesstreifen am Willibaldplatz begrünen
+- TOP 2.2.: Infoveranstaltung Thomas-Wimmer-Haus
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget EFG München Hadern, Laimer Herz Anschaffungen für ein Nachbarschaftscafe 4.994,02 Euro, Az.: 0262.0-25-0343
+- TOP 3.2.: (E) Stadtbezirksbudget Initiative "Graffiti Agricolaplatz" Graffiti Trafohäuschen Agricolaplatz 7.500,00 Euro, Az.: 0262.0-25-0346
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 12.09.24: Verlängerung der U-Bahn-Linie 5 – West von Laim nach Pasing
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.10.24: Tram-Westtangente , Tektur D Teil 2
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 23.10.24: Anhörung personenbezogener Sonderparkplatz Bereich Westendstraße 266 B
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur vom 12.09.24
+- TOP 7.2.: Protokoll UA Soziales und Bildung/Gesundheit vom 18.09.24
+- TOP 7.3.: Protokoll UA Bau vom 07.10.24
+- TOP 7.4.: Protokoll BA 25-Sitzung vom 10.10.24
+- TOP 7.5.: Protokoll UA Umwelt, Klima und Baumschutz vom 07.10.24
+- TOP 7.6.: Protokoll UA Kultur vom 24.09.2024
+- TOP 7.7.: Protokoll UA Kultur vom 10.10.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisjugendring München-Stadt vom 15.10.24: Demokratiemobil Evaluation Tour 2024
+- TOP 8.2.: Schreiben Direktorium vom 15.10.24: Protokoll Planungsstand Jugendversammlung BA 25
+- TOP 8.3.: Schreiben Kommunalreferat vom 10.10.24: Laim Parkwegsperrung Burgkmairstraße 9 ab Nov 2024 w Abbruch Alte Heimat Thomas-Wimmer-Haus Burgkmairstraße 9
+- TOP 8.4.: Antwortschreiben Mobilitätsreferat vom 16.10.24: Verkehrssituation Rushaimerstraße
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 15.10.24: Abdruck VAO Baumfällungen Fürstenrieder Str. 247-229,181,202-180_Bauphase3_U_02650_24_SWM
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 14.10.24: GOT Von-der-Pfordten U 02649 24 SWM VAO komplett Abdruck
+- TOP 8.7.: Schreiben BA 20 Hadern vom 16.10.24: Interfraktioneller Antrag: Stadtweite Lösung für das Abstellen von E-Scootern
+- TOP 8.8.: Schreiben BA 6 Sendling vom 09.10.24: Aufruf des BA 6 - Sendling „Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!"
+- TOP 8.9.: Antwortschreiben Mobilitätsreferat vom 16.10.24: Ertüchtigung vorhandener Fahrradstraßen in München
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 18.10.24: Fürstenrieder Str. Camerloher Str. BP 4.1.1 Maststellung_U_02726_24_SWM_Ost_Original
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 11.10.24: WG: Bescheid VA Gotthardstr. BPh305.2 (U 02618/24)
+- TOP 8.12.: Antwortschreiben Mobilitätsreferat vom 09.10.24 und 10.10.24: Sperrung Veit-Stoß-Straße / Behamstraße
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 04.10.24: Fürstenrieder Str. zw. LAK und ABS Bph. 5.1 - Abdruck
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 04.10.24: Fürstenrieder Str. AMM Bph. 5.1_U 02538_24_SWM_VAO komplett Abdruck
+- TOP 8.15.: Antwortschreiben Mobilitätsreferat vom 02.10.24: Wohnwagen in den Straßen - Verbot aussprechen
+- TOP 8.16.: Antwortschreiben KVR vom 16.10.24 und PI 41 vom 02.10.24: Beschwerde - aggressives Betteln in Laim
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.10.24: Fällungsantrag Gaishoferstr. 30
+- TOP 8.18.: Bautenliste 16.09.24-22.09.24: A)Erstantragsverfahren 1. Camerloherstr. 67 2. Gotthardstr. 44 3. Eckermannstr. 28
+- TOP 8.19.: Bautenliste 23.09.24-29.09.24: A) Erstantragsverfahren 1. Gatterburgstr. 8 2. Elsenheimerstr. 7
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.10.24: Fällungsantrag Landsberger Str. 155
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.09.24: Infoschreiben Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.10.24: Änderungsplanfestellungsbeschluss im Verfahren Verlängerung U5 West PA 77 - Tektur C
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.10.24: Tram-Westtangente, Plangenehmigung vom 17.09.2024
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.10.24: Tram-Westtangente, Tektur E, Teil 2
+- TOP 8.25.: Schreiben SWM vom 30.09.24: SEV 19 West 07.10.-01.12.24
+- TOP 8.26.: Schreiben SWM vom 26.09.24: SWM Baumaßnahme Strom-Projekt Josef-Schick-Straße
+- TOP 8.27.: Schreiben Referat für Klima- und Umweltschutz vom 27.09.24: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV (Verlängerung)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.10.24: Rückerstattung von Heizkosten
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.24: Flächen an der Muttenthalerstraße; Behandlung einer Petition, diverser Bürgerversammlungsempfehlungen und eines Bezirksausschuss-Antrags Petition: zu Stadtentwicklungsplan Step 2040 TOP 2.6. Endgültige Ablehnung der Bauplanung Nr. 16 Auflösung Bebauungsplanverfahren A 1433 der Bürgerinitiative Klima- und Landschaftsschutz für Sollner Felder vom 11.12.2022 Behandlung der Petition der Bürgerinitiative Grüngürtel München SÜD vom 24.06.2024 Petition: Keine Bebauung des Grüngürtels München SÜD der Bürgerinitiative Grüngürtel München SÜD vom 24.06.2024
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.24: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2024 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.24: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.24: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Aufwertung des Laimer Stadtteilzentrums Fürstenrieder Straße (Weiterleitung an Mobilitätsreferat und Baureferat)
+- TOP 9.2.: Valpichlerstr./Hogenbergplatz (Weiterleitung an AWM und Mobilitätsreferat)
+- TOP 9.3.: Stöberlstr. / aufgesetztes Parken (Vertagung in UA Mobilität)
+- TOP 8.33.: Schreiben Kreisverwaltungsreferat vom 31.10.24: Mitteilung über unveränderte Fortführung eines Betriebes - Shisha-Bar "Star Cafe", Agnes-Bernauer-Str. 21
