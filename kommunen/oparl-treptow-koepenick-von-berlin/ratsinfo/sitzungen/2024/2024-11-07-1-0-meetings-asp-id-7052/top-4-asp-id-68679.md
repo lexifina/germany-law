@@ -1,0 +1,7 @@
+# TOP 4: Beratung der Synopse II
+
+- Sitzung: 13. (ordentliche, öffentliche) Sitzung des Geschäftsordnungsausschusses (B) (2024-11-07)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=68679
+- Ergebnis: vertagt
