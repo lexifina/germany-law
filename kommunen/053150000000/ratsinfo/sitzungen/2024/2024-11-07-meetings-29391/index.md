@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-07T17:00:00+01:00
+- Ende: 2024-11-07T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29391
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29391
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Annahme von Schenkungen
+- TOP 1.1: Aufwertungsmaßnahme für den Concordiaplatz in Köln-Porz Hier: Annahme einer Schenkung der Kölner Grün Stiftung - ungeändert beschlossen
+- TOP 2: Einwohner*innen Anfragen
+- TOP 3: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Porz - Mittelvergabe Session 2024/2025 - ungeändert beschlossen
+- TOP 6.2: Baubeschluss für die starkregenangepasste Entwässerung des Parkplatzes am Kellereiweg in Köln Porz-Eil - ungeändert beschlossen
+- TOP 6.3: Handlungsempfehlung für die Ferdinand-Porsche-Straße in Köln-Porz-Eil - zurückgestellt
+- TOP 6.4: Stadtklima und Stadtverschönerungsprogramm 2024 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 6.5: Haushaltsplan 2025/2026 - Veranschlagung der bezirksorientierten Haushaltsmittel nach § 37 - ungeändert beschlossen
+- TOP 6.6: Vergabe der bezirksorientierten Mittel für das Haushaltsjahr 2024 - Vergabe der Restmittel - ungeändert beschlossen
+- TOP 6.7: Projektanträge im Rahmen des Bürgerorientierten Verfügungsfonds für das Soziale-Stadt-Gebiet "Porz-Mitte" - ungeändert beschlossen
+- TOP 6.8: Genehmigung einer Dringlichkeitsentscheidung: Stadtbahn Bonn-Niederkassel-Köln - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Fortschreibung Lärmaktionsplanung" - ungeändert beschlossen
+- TOP 7.2: Förderprogramm "Dritte Orte" - Zweite Genehmigung für die Förderphase 2024 ff. - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "2025 – Der Stadtbezirk Porz wird 50 Jahre!" - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion "Instandsetzung und Erhalt der historischen Platzmauer am Efeuplatz in Poll" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen"Verbesserung der Verkehrssituation im Wendehammer Marktstr. in Porz-Zündorf" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verbesserung der Verkehrssituation entlang der Wahner Str. in Porz-Zündorf" - ungeändert beschlossen
+- TOP 8.5: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Beirat Porz Mitte" - endgültig zurückgezogen
+- TOP 8.6: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verteilung der Stadtverschönerungsmittel 2024" - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Umsetzung von 2 Bänken" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung der Anfrage der AfD-Fraktion betreffs "illegale Müllentsorgung im Bezirk Porz" vom 11.05.2023 (AN 0731/2023) - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 17.09.2024 betreffend "Platzausbau Forensik Porz" AN/1161/2024 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Platzausbau Forensik Porz" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung eines Antrags der SPD-Fraktion zu der Open Air Location "Südbrücke" in Poll - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Rathausstraße" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Organisation der Wahlen im Jahr 2025" - Sache ist erledigt
+- TOP -: Organisation der Wahlen im Jahr 2025 - Kenntnis genommen
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Baustellenverkehr Deutzer Hafen" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der SPD-Fraktion - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Qualitätsbericht 2023 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.2: Mitteilung zur alternativen Führung der RadPendlerRoute 4 im Teilabschnitt Nord - Kenntnis genommen
+- TOP 10.2.3: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Verkehrsausschusses vom 23.04.2024 betr. "Parken in Poll" (AN/0602/2024) - Kenntnis genommen
+- TOP 10.2.4: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv„ 2024 - Kenntnis genommen
+- TOP 10.2.5: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 235. Änderung des Flächennutzungsplanes (FNP) Arbeitstitel: "Östlich Im Falkenhorst" in Köln-Porz-Urbach - Kenntnis genommen
+- TOP 10.2.6: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.7: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - Kenntnis genommen
+- TOP 10.2.8: Niederschrift 21. Runder Tisch Radverkehr Porz - Kenntnis genommen
+- TOP 10.2.9: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch des Bebauungsplanentwurfes Nr. 76399/04 Arbeitstitel "Östlich Im Falkenhorst in Köln-Porz-Urbach" - Kenntnis genommen
+- TOP 10.2.10: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 10.2.11: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bündnis Porz Mitte, Az.: 134/24 - Kenntnis genommen
+- TOP 10.2.12: Sportentwicklungsplanung "Kölle Aktiv – Das Sportlabor": Neuer Standort des mobilen Pumptracks in Porz - Kenntnis genommen
+- TOP 10.2.13: Beabsichtigte Neufassung der Naturdenkmalverordnung (NDI-VO) - Kenntnis genommen
