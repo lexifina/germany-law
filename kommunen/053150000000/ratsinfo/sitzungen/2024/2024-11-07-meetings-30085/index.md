@@ -1,0 +1,92 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-07T17:00:00+01:00
+- Ende: 2024-11-07T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30085
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30085
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch der Stadtdirektorin Andrea Blome - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Damiansweg in Köln - Volkhoven/Weiler - Kenntnis genommen
+- TOP 7.1.2: Anfrage bezüglich Sicherheitsmaßnahmen an der Bushaltestelle in Köln Seeberg Herstattallee - Kenntnis genommen
+- TOP 7.1.3: Anfrage bezüglich der ehemaligen Postbank-Filiale Lyoner Passage - Kenntnis genommen
+- TOP 7.1.4: Urnengräber, Baumgräber, Bestattungsgärten und Kolumbarien im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Abbau von Umlaufsperren - Kenntnis genommen
+- TOP 7.1.6: Anfrage zur Verbesserung der Verkehrssituation in der Robert-Grosche-Straße/Herstattallee - Kenntnis genommen
+- TOP 7.1.7: S-Bahnstation Chorweiler - Kenntnis genommen
+- TOP 7.1.8: Anfrage zur Umsetzung von Stadtverschönerungsmaßnahmen durch Finanzierung und Förderung der Bezirksvertretung - Kenntnis genommen
+- TOP 7.1.9: Verkehrsunfälle in Köln-Merkenich an Straßen-Kreuzungen mit der Stadtbahn Linie 12 - Kenntnis genommen
+- TOP 7.1.10: Schul- und Kindergartenplätze im Stadtbezirk - zurückgestellt
+- TOP 7.1.11: Neue Regeln für Schottergärten am Haus - Kenntnis genommen
+- TOP 7.1.12: Anfrage bezüglich Marktöffnungszeiten und Marktstandkontrolle auf dem Chorweiler Markt - Kenntnis genommen
+- TOP 7.1.13: Sanierung Bezirkssportanlage Merianstraße - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Asbestfund im Heinrich-Mann-Gymnasium Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Aufstellung von Seitenlinien-Radar für Chorbuschstr./Johannes-Prassel-Str. sowie Orrerstr./Amselweg Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Anfrage zur Gewährleistung und Verbesserung der Barrierefreiheit auf Gehwegen im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Anfrage zur Anzahl und Verteilung der festgestellten und geahndeten Parkverstöße im Stadtbezirk Chorweiler für die Jahre 2022 und 2023 Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Anfrage zum aktuellen Stand der Maßnahmen an der Kreuzung Donatusstraße/Im Gewerbegebiet Pesch Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Sachstandsanfrage zur Sanierung von Sportplätzen im Bezirk Chorweiler Anfrage der Fraktion Bündis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.7: Teilnahme am Start-Chancen-Programm von Bund und Land Anfrage der Fraktion Bündis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.8: OGTS- Plätze im Bezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Querungsmöglichkeit Mercatorstraße - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Antrag der CDU-Fraktion, der Fraktion Bündnis`90 / Die Grünen, der Fraktion Die Linke und Lilo Heinrich und der FDP - geändert beschlossen
+- TOP 8.2.2: Zweiter Teilbeschluss zur Verwendung der Mittel des Stadtverschönerungsprogramms 2024 Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90 / Die Grünen, der Fraktion Die Linke und Lilo Heinrich und der FDP - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Nachfolge Jahresbericht gem. § 42 / Integration der BV6 in das Berichtswesen / beschluss- und projektbezogene Berichterstattung Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP -: Änderungsantrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Sachstandsbericht für alle gestellten Anträge als fester Tagesordnungspunkt in den Sitzungen der Bezirksvertretung Antrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 8.3.3: Schwimmbad für Kreuzfeld Antrag der Fraktion Bündnis`90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.4: Verkehrsberuhigung "Auf dem Driesch" in Köln Esch Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.5: Antrag zur Erstellung eines Berichts über die Monoklärschlammverbrennungsanlage in Köln-Merkenich und Maßnahmen zur Luftreinhaltung Antrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 8.3.6: Tierhaltung in der Wohneinrichtung Erbacher Weg 7 in Köln Lindweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.7: Einladung eines Vertreters des Amts 57 zur Diskussion kostengünstiger Alternativen für die Luftmessstation in Merkenich Antrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßenbaumkonzept Chorweiler - geändert beschlossen
+- TOP 9.1.2: Handlungsempfehlung für die Robert-Koch-Straße in Köln-Pesch - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - geändert beschlossen
+- TOP 9.2.2: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert beschlossen
+- TOP 9.2.3: Aufhebung des Einleitungsbeschlusses zur 3. Änderung des Bebauungsplanes 67549/04 Arbeitstitel: Causemannstraße in Köln-Merkenich, 3. Änderung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet/Pilotprojekt Schulstraßen in Köln - Kenntnis genommen
+- TOP 10.2.2: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 10.2.3: Verbraucherberatung im Quartier: Jahresbericht 2023 - Kenntnis genommen
+- TOP 10.2.4: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 10.2.5: Verkehrsrechtliche Maßnahmen aufgrund Straßenschäden - Kenntnis genommen
+- TOP 10.2.6: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 10.2.7: Einrichtung zweier Hundefreilaufflächen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.8: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv„ 2024 - Kenntnis genommen
+- TOP 10.2.9: Bildungscampus Kreuzfeld - Kenntnis genommen
+- TOP 10.2.10: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 10.2.11: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.12: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - Kenntnis genommen
+- TOP 10.2.13: Beabsichtigte Neufassung der Naturdenkmalverordnung (NDI-VO) - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Förderung des ÖPNV im Kölner Norden (AN/2620/2021) und ÖPNV-Verbindungen der KVB im SB Chorweiler (AN/0674/2024) - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Informationspolitik der KVB über Verspätungen und Ausfälle Mündliche Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 11.2.2: Vorlage 3490/2024 Mündliche Anfrage der AFD-Fraktion - Kenntnis genommen
+- TOP 11.3: Anfragen der Seniorenvertretung
