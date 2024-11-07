@@ -1,0 +1,215 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2024-11-07T19:15:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8018983
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8018983
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.1.1.: Benennung der / des stellvertretenden Vorsitzenden des Unterausschusses Mobilität
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreterinnen und Vertreter von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.1: Mobilität
+- TOP 2.1.1.: (E) Verlängerung der Grünphase für Fußgänger an der Ampelanlage Rosenheimer Straße / Wilramstraße / Kirchseeoner Straße
+- TOP 2.1.2.: (E) Anbringung von U-Bahnhinweisschildern bei den östlichen und westlichen Zugängen in der Albert-Schweitzer-Straße
+- TOP 2.2: Kultur und Stadtbezirksbudget
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget HPT Neuperlach, Verein für psychosoziale Initiativen e. V. Weidentipis für den Außenbereich, Oktober 2024 - Juli 2025 3.306,90 €; Az. 0262.0-16-0619 (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget Condrobs e. V. Neuer Kühlschrank für den Kontaktladen der Pedro Suchtfachstelle Ost, November 2024 1.112,00 €; AZ 0262.0-16-0627
+- TOP 2.2.1.3.: (E) Stadtbezirksbudget Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg e. V. fahrbarer Kleiderständer zur Aufnahme der Dienst- bzw. Einsatzkleidung 824,64 €; Az. 0262.0-16-0626
+- TOP 2.2.1.4.: (E) Stadtbezirksbudget Freundeskreis der städt. schulartunabhängigen Orientierungsstufe München e. V. Gesunde Ernährung ab 09.12.2024 900,00 €; Az. 0262.0-16-0629
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 2.7: Sonstige
+- TOP 3: Anträge
+- TOP 3.1: Mobilität
+- TOP 3.1.1.: Beleuchtung des Fußwegs entlang der Ständlerstraße; Antrag der Bündnis 90/Die Grünen Fraktion (vertagt aus der Sitzung vom 10.10.2024 - Ortstermin)
+- TOP 3.1.2.: Beleuchtung für Grünfläche Schmidbauer-/Hofangerstraße; Anliegen aus der Bürgerschaft vom 21.06.2024 (vertagt aus der Sitzung vom 10.10.2024 - Ortstermin)
+- TOP 3.1.3.: Einrichtung eines verkehrsberuhigten Bereichs in der Veronastraße; Anliegen aus der Bürgerschaft vom 02.10.2024
+- TOP 3.1.4.: Baustellenbedingte Verkehrssituation Wemdinger Straße (Müllabfuhr etc.); Anliegen aus der Bürgerschaft vom 05.10.2024
+- TOP 3.1.5.: Ampel oder Zebrastreifen für die Carl-Wery-Straße; Anliegen aus der Bürgerschaft vom 09.10.2024
+- TOP 3.1.6.: Verbesserung der Hans-Arnold-Engelhardt-Straße; Anliegen aus der Bürgerschaft vom 11.10.2024
+- TOP 3.1.7.: Lorenz-Hagen-Weg - Gefährliche Stelle für den Rad- und Fußgängerverkehr; Anliegen aus der Bürgerschaft vom 14.10.2024
+- TOP 3.1.8.: Verkehrs- und Wegesituation durch das Bauvorhaben Lidl Hoferstr. Perlach-Süd; Anliegen aus der Bürgerschaft vom 15.10.2024
+- TOP 3.1.9.: Stadtweite Lösung für das Abstellen von E-Scootern BA-Antrag Nr. 20-26 / B 07115 des BA 20 Hadern mit der Bitte um Unterstützung durch alle Bezirksausschüsse
+- TOP 3.1.10.: Scherbaumstr.: Aufstellung eines Schilds oder Anbringung einer Bodenmarkierung zum Hinweis auf die Tempo-30-Zone Anliegen aus der Bürgerschaft vom 10.10.2024
+- TOP 3.1.11.: Verlängerung der Grünphase für Fußgänger der Ampel am Pfanzeltplatz beim fab Hotel München Perlach Anliegen aus der Bürgerschaft vom 01.10.2024
+- TOP 3.1.12.: Interfraktioneller Antrag zur Aufstellung von Dialog-Displays in der Weidener Straße Interfraktioneller Antrag vom 20.10.2024
+- TOP 3.2: Kultur und Stadtbezirksbudget
+- TOP 3.3: Umwelt, Gesundheit und Grünplanung
+- TOP 3.3.1.: Lauter Lüfter Jules-Verne-Campus; Anliegen aus der Bürgerschaft vom 05.08.2024 Hierzu: Information über Lichtbelästigung durch, manchmal die ganze Nacht brennendes, Licht in Klassenräumen und weitere Details zu dem lauten Lüfter; Ergänzung vom 17.10.2024 (Wiedervorlage für die Nachfrage, wie eine Reduzierung des Lärmpegels erreicht werden könnte, aus der Sitzung am 12.09.2024)
+- TOP 3.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 3.4.1.: Antrag auf Änderung von § 4 zur eigenverantwortlichen Nutzung der Bezirkssportanlagen des Überlassungsvertrages; Anliegen aus der Bürgerschaft vom 14.10.2024
+- TOP 3.4.2.: Ersatz für die vor einigen Jahren entfernte Schaukel in der Nabburger Str. Anliegen aus der Bürgerschaft vom 10.10.2024
+- TOP 3.4.3.: Skateplatz am Annette-Kolb-Anger 6 baldmöglichst wieder öffnen; Antrag der SPD/Die Linke Fraktionsgemeinschaft
+- TOP 3.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 3.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 3.7: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.1: Mobilität
+- TOP 4.2: Kultur und Stadtbezirksbudget
+- TOP 4.2.1.: Weitergabe der Einrichtungen / Gegenstände, die mit Zuschüssen aus dem BA-Budget von „Communitiy Kitchen“ erworben wurden; Beschlussempfehlung des UA Kultur und Stadtbezirksbudget und E-Mails des Stadtbezirksbudgets vom 07.10.2024 und 11.10.2024 (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 4.3: Umwelt, Gesundheit und Grünplanung
+- TOP 4.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 4.4.1.: Demokratiemobil Evaluation Tour 2024 an BA16; Anfrage zum Einsatz 2025
+- TOP 4.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 4.5.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.5.1.1.: Karl-Marx-Ring 91 - Neubau Fernwärmestation FWST Perlach - VORBESCHEID
+- TOP 4.5.1.2.: Donarweg 3 - Erstellung eines Rückgebäudes als Anbau an ein bestehendes Wohngebäude -VORBESCHEID
+- TOP 4.5.1.3.: Hofer Str. 21 - Neubau eines Hotels mit 2 Tiefgaragen-Ebenen - VORBESCHEID - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 4.5.1.4.: Paulsdorfferstr. 23 - Neubau eines Mehrfamilienhauses (3 WE)
+- TOP 4.5.1.5.: Ottweilerstr. 15 - Abbruch DH, Neubau Mehrfamilienhaus (11 WE) mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2020-19432-31
+- TOP 4.5.1.6.: Gänselieselstr. 30 - Neubau Wohnungsbau -VORBESCHEID (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 4.5.1.7.: Sebastian-Bauer-Str. 51 - Neubau von zwei Mehrfamilienhäusern und drei Reihenhäusern mit insgesamt 16 Wohneinheiten und einer gemeinsamen Tiefgarage mit 13 Stellplätzen, Neubau eines Nebengebäudes, Abbruch eines best. Mehrfamilienhauses - mit Mobilitätskonzept
+- TOP 4.5.1.8.: Balanstr. 135 - Modernisierung mit Aufstockung ,Teilabbruch und Nachverdichtung Wohnanlage mit EOF + MMM + FF ( Ständlestr./Balanstr./Demblerstr./Görzer Str.) - mit MOBILITÄTSKONZEPT (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 4.5.1.9.: Zellerhornstr. 18 - Neubau eines Mehrfamilienhauses
+- TOP 4.5.1.10.: Mariathalstr. 9 - Neubau eines Zweifamilienhauses
+- TOP 4.5.2: Weitere Anhörungen
+- TOP 4.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 4.6.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 4.6.4: Weitere Anhörungen
+- TOP 4.6.4.1.: Anfrage zu Stadtteilbezogenen Straßenfesten
+- TOP 4.7: Sonstige
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.1.1: Fällungsanträge
+- TOP 5.1.1.1.1.: Koboldstr. 81b
+- TOP 5.1.1.1.2.: Ollenhauerstr. 19
+- TOP 5.1.1.1.3.: Josef-Beiser-Str. 3
+- TOP 5.1.1.1.4.: Koboldstr. 61
+- TOP 5.1.1.1.5.: Mariathalstr. 6
+- TOP 5.1.1.1.6.: Balanstr. 55 zu 5.1.1.1.6 Eil-Entscheidung des BA-Vorsitzenden gem. § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 5.1.1.1.7.: Rodachtalweg 8
+- TOP 5.1.1.1.8.: Ottweilerstr. 10
+- TOP 5.1.1.1.9.: Josef-Mohr-Weg 61
+- TOP 5.1.1.1.10.: Hohenaschauer Str. 27
+- TOP 5.1.1.1.11.: Balanstr. 73
+- TOP 5.1.1.1.12.: Schneewittchenstr. 29
+- TOP 5.1.1.2: Baumbestandspläne
+- TOP 5.1.1.2.1.: Karl-Marx-Ring 91 - Neubau Fernwärmestation FWST Perlach - VORBESCHEID
+- TOP 5.1.1.2.2.: Gänselieselstr. 30 - Neubau Wohnungsbau -VORBESCHEID (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 5.1.1.2.3.: Sebastian-Bauer-Str. 51 - Neubau von zwei Mehrfamilienhäusern und drei Reihenhäusern mit insgesamt 16 Wohneinheiten und einer gemeinsamen Tiefgarage mit 13 Stellplätzen, Neubau eines Nebengebäudes, Abbruch eines best. Mehrfamilienhauses - mit Mobilitätskonzept
+- TOP 5.1.1.2.4.: Zellerhornstr. 18 - Neubau eines Mehrfamilienhauses
+- TOP 5.1.1.2.5.: Balanstr. 135 - Modernisierung mit Aufstockung ,Teilabbruch und Nachverdichtung Wohnanlage mit EOF + MMM + FF ( Ständlestr./Balanstr./Demblerstr./Görzer Str.) - mit MOBILITÄTSKONZEPT (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Seniorinnen und Senioren
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 5.1.10: Internet
+- TOP 5.1.11: Handlungsraummanagement und NEBourhoods
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 5.2.1: Mobilität
+- TOP 5.2.2: Kultur und Stadtbezirksbudget
+- TOP 5.2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 5.2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 5.2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 5.2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1: Mobilität
+- TOP 6.1.1.: Inklusive Ausgestaltung der Möschenfelder Straße
+- TOP 6.1.2.: Durchgang Neubiberger Strasse zur Rudolf-Zorn-Straße; Antwortschreiben des MOR
+- TOP 6.1.3.: MVG-Leistungsprogramm 2025 - Nachtrag zur Linie 197
+- TOP 6.1.4.: Wiederherstellung und Wintersicherung Bürgersteig Ottobrunner Straße 102; Antwort des Baureferats-Tiefbau zu einer Bürgeranfrage
+- TOP 6.1.5.: Parkplatzsituation im Quartier Führichstraße / Möschenfelder Straße / Zornedinger Straße / Rupertigaustraße – Ausweisung je eines Stellplatzes für mobile Pflegekräfte in jedem Straßenzug
+- TOP 6.1.6.: Verbesserung des Fuß- und Radwegs von München nach Neubiberg/Ottobrunn entlang der Carl-Wery-Str.
+- TOP 6.1.7.: Parkplatzsituation im Bereich Gustav-Heinemann Ring/Rudolf-Zorn-Strasse/Niemöllerallee/Nailastrasse; Schaffung von Abstellplätzen für Wohnmobile außerhalb des Wohngebietes; Anliegen aus der Bürgerschaft vom 11.07.2024; Antwortschreiben der PI 24 vom 08.10.2024
+- TOP 6.2: Kultur und Stadtbezirksbudget
+- TOP 6.3: Umwelt, Gesundheit und Grünplanung
+- TOP 6.3.1.: Radikaler Kahlschlag an der Carl-Wery-Str. - Auswirkungen auf Landschaft und Schallschutz (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 6.3.2.: Interfraktioneller Antrag zur Verbesserung der Toilettenanlagen Antrag zum BA-Antrag Nr. 20-26 / B 06459
+- TOP 6.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 6.4.1.: Bitte der Kinder- und Jugendfarm Ramersdorf um Unterstützung (vertagt aus der Sitzung vom 10.10.2024).
+- TOP 6.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 6.5.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.5.2: Weitere Antworten der Verwaltung
+- TOP 6.5.2.1.: Sofortiger Erlass einer Veränderungssperre für den Pfanzeltplatz (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 6.5.2.2.: Perspektive München - Handlungsräume der Stadtentwicklung, SV Nr. 20-26 / V 12346 - BA-Anhörung bzw. Unterrichtung; Antwortschreiben des Referates für Stadtplanung und Bauordnung
+- TOP 6.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6.6.1.: Michaeliplatz - Aufwertung des Platzes zwischen Bad-Schachener-Straße, Hechtseestraße und Hofangerstraße; Anliegen aus der Bürgerschaft vom 07.07.2024
+- TOP 6.7: Sonstige
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1: Mobilität
+- TOP 7.1.1.: Hofangerstraße; Gefahrzeichen „Radfahrer“ im Bereich der Einmündung zum Ostpark; Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO
+- TOP 7.1.2.: Anordnung Haltverbot Adenauerring; Verbesserung des Linienbusverkehrs der Buslinien 139, 196 Vollzug der Straßenverkehrsordnung (StVO) gemäß § 44 Abs. 1 und § 45 StVO in Verbindung mit Art. 1 und 2 des Gesetzes zum Vollzug der StVO
+- TOP 7.1.3.: Carl-Wery-Straße (U-Bahnhof „Neuperlach Süd“); Verlängerung der Anfahrtszone sowie Einrichtung von zwei Kurzzeitparkplätzen; verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO
+- TOP 7.1.4.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Wilramstr. 51; verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 7.1.5.: Durchweg zwischen Nailastr. und Hoferstr. über Grundstück Lidl; Information zur Verkehrs- und Wegesituation während der Baustelle
+- TOP 7.2: Kultur und Stadtbezirksbudget
+- TOP 7.2.1: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.2.1.1.: MITNAND Förderverein Mittelschule Führichstraße; Verwendungsnachweis und Sachbericht
+- TOP 7.2.1.2.: Initiative Wandgestaltung, Verwendungsnachweis und Sachbericht
+- TOP 7.2.1.3.: Bewohnervertretung Altenheim Maria Ramersdorf; Verwendungsnachweis und Sachbericht
+- TOP 7.2.2: Weitere Unterrichtungen
+- TOP 7.3: Umwelt, Gesundheit und Grünplanung
+- TOP 7.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 7.4.1.: FC Perlach 1925 e.V. Verlängerung des Erbbaurechtsvertrags über ein Teilstück des Flurstücks Nr. 1500/0 Gemarkung Perlach am Krehlebogen 15, 81737 München
+- TOP 7.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 7.5.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.5.1.1.: Zu 7.5.1 Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.5.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.5.2.1.: Frankenwaldstraße 40; Bescheid vom 11.10.2024
+- TOP 7.5.2.2.: Mitterweg 14; Bescheid vom 11.10.2024
+- TOP 7.5.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.3.1.: Leinbergerstraße; Unterrichtung vom 07.10.2024
+- TOP 7.5.3.2.: Dr.-Walther-von-Miller-Str.; Unterrichtung vom 10.10.2024
+- TOP 7.5.3.3.: Jakob-Böhme-Straße; Unterrichtung vom 17.10.2024
+- TOP 7.5.4: Weitere Unterrichtungen
+- TOP 7.5.4.1.: (U) A.) Rahmenplanung Gartenstadt 2.0 - Endbericht und Evaluation der Steuerungsinstrumente B.) Anträge und Empfehlungen Stadtbezirk 16 Ramersdorf - Perlach Stadtbezirk 18 Untergiesing - Harlaching Stadtbezirk 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Stadtbezirk 20 Hadern Stadtbezirk 21 Pasing - Obermenzing Stadtbezirk 24 Feldmocing - Hasenbergl Stadtbezirk 25 Laim (vertagt aus der Sitzung vom 10.10.2024)
+- TOP 7.5.4.2.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 7.5.4.3.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2024 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 7.5.4.4.: (U) Bürgerhaus für Ramersdorf
+- TOP 7.5.4.5.: Errichtung einer Grundschule mit Sonderpädagogischem Förderzentrum: Beginn Abbrucharbeiten Bestand am Theodor-Heuss-Platz 6; Baubeginnsanzeige des RBS
+- TOP 7.5.4.6.: Entfernung der baufälligen Hütte am Südfriedhof; Information des Baureferates-Tiefbau
+- TOP 7.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 7.6.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 7.6.1.1.: SSW "Greek Stüberl", St.-Cajetan-Straße 1
+- TOP 7.6.1.2.: Vereinswirtschaft "Herzi´s Wirtschaft", Görzer Str. 201
+- TOP 7.6.2: Weitere Unterrichtungen
+- TOP 7.6.2.1.: Rückerstattung von Heizkosten
+- TOP 7.6.2.2.: Nichtverfügbarkeit des Ratsinformationssystems vom 24.10. bis 29.10.2024; Auswirkungen durch die Produktivsetzung; Informationen zum RIS-Extranet
+- TOP 7.6.2.3.: Infoschreiben zum Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln“
+- TOP 7.7: Sonstige
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.1: Mobilität
+- TOP 8.1.2: Kultur und Stadtbezirksbudget
+- TOP 8.1.3: Umwelt, Gesundheit und Grünplanung
+- TOP 8.1.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 8.1.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 8.1.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: zu 3.1.4 Information des Mobilitätsreferats, dass die Vollsperre in der Wemdinger Straße aktuell bis 15.11.2024 genehmigt ist
+- TOP 1.2.2.: zu 3.1.10 Brief zur Versendung an die Antragstellerin nach der BA-Sitzung
+- TOP 1.2.3.: zu 3.1.11 Brief zur Versendung an den Antragsteller nach der BA-Sitzung
+- TOP 1.2.4.: zu 3.1.12 Interfraktioneller Antrag Vorschlag 2; Initiative der Bündnis 90/Die Grünen Fraktion
+- TOP 1.2.5.: zu 3.3.1 Von der Tagesordnung der Sitzung am 07.11.2024 abgesetzt und auf die Tagesordnung der Sitzung am 05.12.2024 aufgenommen, da noch keine Information vorliegt, wie eine Reduzierung des Lärmpegels erreicht werden könnte.
+- TOP 1.2.6.: zu 3.4.2 Brief zur Versendung an den Antragsteller nach der BA-Sitzung
+- TOP 1.2.7.: 3.4.4 Sanierung des ehemaligen Gastronomiegebäudes an der Bert-Brecht-Allee; Antrag der SPD/Die Linke Fraktionsgemeinschaft
+- TOP 1.2.8.: 3.5.1 Wohnhochhaus Thomas-Dehler-Straße 25; Sitzung der Stadtgestaltungskommission am 26.11.2024, fehlende Informationen über das Bauprojekt; Dringlichkeitsantrag des UA Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 1.2.9.: 4.2.2 Stadtbezirksbudget Bewilligte Vermögensgegenstande der Community Kitchen Food GmbH hier: Zweckentsprechende Weiternutzung Bitte um Mitteilung, welche Einrichtung von den Gegenständen profitieren könnte zu 4.2.2 Weitere Informationen des Stadtbezirksbudgets vom 04.11.2024
+- TOP 1.2.10.: 4.4.2 Nachtspaziergang 2024; Bitte um Mitteilung des Wunschtermins bis zum 31.10.2024 und der Themen und der Orte bis spätestens zwei Wochen vor dem Termin; Fristverlängerung bis einschließlich 08.11.2024
+- TOP 1.2.11.: 4.5.2.1 Triester Str. 2-44, Wilramstr. 19-49, Fl.Nr. 16341/12, Gemarkung Sektion VIII Änderung der Denkmalliste nach Art. 2 Bayer. Denkmalschutzgesetz (BAYDSchG), Bayerische Denkmalliste – Teil A: Baudenkmäler – Landeshauptstadt München, Nachtrag in die Denkmalliste; Bitte um Rückmeldung bis zum 22.11.2024
+- TOP 1.2.12.: zu 5.1.1.1.7 Information des Referats für Stadtplanung und Bauordnung, dass es sich um einen Gefahrenbaum handelt, der zur Fällung freigegeben wurde.
