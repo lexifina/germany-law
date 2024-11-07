@@ -1,0 +1,53 @@
+# 31. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-11-07T17:07:00+01:00
+- Ende: 2024-11-07T19:43:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13847
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13847
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00558980.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Sitzbänke im Grünen Finger - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Von-Esmarch-Straße - Umsetzung eines Unfallkommissionsbeschlusses - Überplanung des Kreisverkehres hin zu einer signalisierten Kreuzung - zur Kenntnis genommen
+- TOP 5.2: Neue Bewohnerparkzonen - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.2: Wiederwahl der Schiedsperson für den Bezirk 4 Münster-Albachten/Mecklenbeck - einstimmig beschlossen
+- TOP 6.3: Straßenumbenennung - einstimmig beschlossen
+- TOP 6.4: Verkehrs- und Straßenbaumaßnahmenprogramm 2025-2026 des Amtes für Mobilität und - einstimmig beschlossen
+- TOP 6.5: Sanierung von Spielplätzen im Stadtbezirk Münster-West -Festlegung der Reihenfolge für die Haushaltsjahre 2024/2025 -Planungs- und Baubeschluss für die Spielplätze Am Pastorenbusch und Gievenbachtal - einstimmig geändert beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: 137. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 651 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.2: Verkehrs- und Straßenbaumaßnahmenprogramm 2025-2026 des Amtes für Mobilität und - einstimmig beschlossen
+- TOP 7.3: Kanalbau Im Rüschenfeld – Erschließug der Streusiedlung - Baubeschluss Kanalbau - - einstimmig beschlossen
+- TOP 7.4: Neubau einer Gymnastikhalle durch den DJK SC Nienberge e.V. - einstimmig beschlossen
+- TOP 7.5: Aufstellungsbeschluss für den Landschaftsplan 4 „Davert und Hohe Ward“ - einstimmig beschlossen
+- TOP 8: Entwurf des Haushaltsplanes 2025
+- TOP 8.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2025
+- TOP 8.1.1: Aufstellen von Abfalleimern und Beutelspendern im öffentlichen Verkehrsgrün - einstimmig beschlossen
+- TOP 8.2: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2025 unter Berücksichtigung der Anträge und Veränderungsblätter
+- TOP 8.2.1: Neue Taxibuslinie im Westen - mehrheitlich abgelehnt
+- TOP 8.2.2: Individuelle Treffmöglichkeiten für Jugendliche im Westen - Attraktivität & Aufenthaltsqualität stärken - mehrheitlich abgelehnt
+- TOP 8.2.3: "Ortsmitten" neugestalten - Attraktivität & Aufenthaltsqualität stärken - einstimmig beschlossen
+- TOP 9: Neue Anregungen/Anträge
+- TOP 9.1: Mehr Polizei-Präsenz vor Ort - Ein Büro für den Bezirks- und Schwerpunktdienst in Albachten und Mecklenbeck - eingebracht
+- TOP 9.2: Umsetzungsfahrplan zum Fahrradnetz 2.0 - Tausch von Bauabschnitten der Veloroute 6 Senden - Münster "Sendener Stiege vor Mecklenbecker Straße" - eingebracht
+- TOP 9.3: Antrag zur Übertragung der Haushalts-Restmittel - einstimmig geändert beschlossen
+- TOP 9.4: Anregung an den Rat zu Antrag A-W/0020/2023 - Kombinierter Rad- und Fußweg auf dem Gelände der Mosaikschule - einstimmig beschlossen
+- TOP 10: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 10.1: Nachnutzung Feuerwehrgerätehaus Münster-Nienberge - zur Kenntnis genommen
+- TOP 10.2: Neuer Farbanstrich für die Brücke "Schlautbogen" in Mecklenbeck - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10.3: Verkehrssicherheit an der Wartburg-Grundschule - Elterntaxis eindämmen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
