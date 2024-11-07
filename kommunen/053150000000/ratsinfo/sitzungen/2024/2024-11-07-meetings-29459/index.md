@@ -1,0 +1,100 @@
+# 31. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-07T17:30:00+01:00
+- Ende: 2024-11-07T21:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29459
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29459
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besetzung der Stelle Leitung des Bürgeramtes Nippes
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage zur Sozialen Erhaltungssatzung für den Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Beantwortung der „Einwohnerfrage zur Sozialen Erhaltungssatzung für den Stadtbezirk Nippes, 2757/2024" - Kenntnis genommen
+- TOP 1.2: Einwohnerfrage zur Umbenennung der Gustav-Nachtigal-Straße, 50733 Köln - Kenntnis genommen
+- TOP -: Einwohnerfrage zur Umebenennung der Gustav-Nachtigal-Straße, 50733 Köln - Kenntnis genommen
+- TOP 1.3: Einwohnerfrage zur Flächennutzung Johannes-Giesberts-Park, hier: Bautätigkeit - zurückgestellt
+- TOP 1.4: Einwohnerfrage zur Umbenennung der Gustav-Nachtigal-Straße, 50733 Köln - Kenntnis genommen
+- TOP -: Umbenennung Gustav-Nachtigal-Straße - Kenntnis genommen
+- TOP 1.5: Einwohnerfrage zur Hundefreilauffläche Nr. 34 im Nordpark - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO – "Motorrad-Abstellanlage Merheimer Str. 83 Köln Nippes" AZ 105/24 - endgültig abgelehnt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.3: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.4: Zweiter Zaun der Mathilde-von-Mevissen-Schule - zurückgestellt
+- TOP 7.1.5: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.6: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - zurückgestellt
+- TOP 7.1.7: Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - zurückgestellt
+- TOP 7.1.8: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - zurückgestellt
+- TOP 7.1.9: Weiterer Zebrastreifen in der Nesselrodestraße - zurückgestellt
+- TOP 7.1.10: Versiegelte Verkehrsfläche Theklastraße - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Nippes vom 20.06.2024 (AN/0942/2024) betreffend „versiegelte Verkehrsfläche Theklastraße“ - Kenntnis genommen
+- TOP 7.1.11: Bauprojekt Appartementhaus „The Flag“, Neusser Straße 159 - zurückgestellt
+- TOP 7.1.12: Fragen zur Beschlussvorlage 0740/2024 Bürgereingabe nach § 24 GO NRW Luxusmodernisierung und Mieterverdrängung stoppen. Nippes braucht eine soziale Erhaltungssatzung - Kenntnis genommen
+- TOP -: Beantwortung der „Fragen zur Beschlussvorlage 0740/2024 Bürgereingabe nach § 24 GO NRW Luxusmodernisierung und Mieterverdrängung stoppen. Nippes braucht eine soziale Erhaltungssatzung, AN/1208/2024", TOP Ö 7.2.4 der 30. Sitzung der Bezirksvertretung - Kenntnis genommen
+- TOP 7.1.13: Erneuerung und Verbreiterung des Madenburgweg in Bilderstöckchen - zurückgestellt
+- TOP 7.1.14: Entfernung des Ersatzschulbaus in Containerbauweise am Henner-Berzau-Weg - zurückgestellt
+- TOP 7.1.15: Parkraumbewirtschaftung im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.16: Überladene Müll-Container Escher Straße /Äußere Kanalstraße und Longericher Straße - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nutzung von Fahrradboxen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.2: Zustand des Parkplatzes an der Pferderennbahn - zurückgestellt
+- TOP 7.2.3: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - zurückgestellt
+- TOP 7.2.4: Ressourcen im Bereich Spielplatzangelegenheiten und Bolzplatz An den Kreutzmogren - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Errichtung einer Querungshilfe an der Einmündung Etzelstraße / Schmiedegasse - ungeändert beschlossen
+- TOP 8.1.2: Bushaltestelle "Seniorenzentrum Riehl", Zugang zum Unterstand erleichtern - geändert beschlossen
+- TOP 8.1.3: Edelweißpiratendenkmal, Errichtung durch die Initiative Nippeser Edelweißpiraten e.V. - geändert beschlossen
+- TOP 8.1.4: Weitere Stadtverschönerungsmittel für Maßnahmen von „Hey, Nippes!“ - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Gustav-Nachtigal-Straße - Ergebnisse aus Anwohner*innenbefragung und Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP -: Ergänzung zu Gustav-Nachtigal-Straße (2311/2024) - ungeändert beschlossen
+- TOP 9.1.2: Variantenentscheid auf Basis des Vorentwurfes Johannes-Giesberts-Park - ungeändert beschlossen
+- TOP 9.1.3: Verwendung der Stadtverschönerungsmittel im Rahmen des Großgruppenbeteiligungsformates „HEY Nippes! Check mit uns dein Veedel“ - Kenntnis genommen
+- TOP 9.1.4: Förderprogramm der Bezirksvertretung Nippes zur Sicherung der Veedelszüge im Stadtbezirk Köln-Nippes für das Jahr 2025 - geändert beschlossen
+- TOP -: Förderprogramm zur Sicherung der Nippeser Veedelszüge - ungeändert beschlossen
+- TOP 9.1.5: Finanzielle Unterstützung der Nippeser Veedelsumzüge 2025 - geändert beschlossen
+- TOP -: Finanzielle Unterstützung der Nippeser Veedelsumzüge - geändert beschlossen
+- TOP 9.1.6: Vergabe von Mitteln zur Förderung "Ehrenamt und Klimaschutz" an Ronald Biallas - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an das Senioren-Netzwerk Nippes - Cartitasverband - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die KKG Nippeser Bürgerwehr -1 - geändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an die KKG Nippeser Bürgerwehr -2 - geändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an die KKG Nippeser Bürgerwehr -3 - geändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an die KKG Nippeser Bürgerwehr -4 - geändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an Herrn János Buck - geändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an Über den Tellerrand kochen e.V. - geändert beschlossen
+- TOP 9.1.14: Vergabe bezirksorientierter Mittel an den Speed Skating Club Köln 1998 e.V. - endgültig abgelehnt
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an Für Nippes e.V. - geändert beschlossen
+- TOP 9.1.16: Vergabe bezirksorientierter Mittel an Zurück in die Zukunft e.V. - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Unterkunft für Geflüchtete Boltensternstr. 10a, 50735 Köln-Riehl hier: Einbau von Etagenküchen und Erhöhung der Waschkapazitäten - ungeändert empfohlen
+- TOP 9.2.2: Anhörung der Bezirksvertretung 5 (Nippes) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur 248. Änderung des Flächennutzungsplanes, Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - ungeändert empfohlen
+- TOP 9.2.3: 294. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.4: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert empfohlen
+- TOP 9.2.5: Förderprogramm "Dritte Orte" - Zweite Genehmigung für die Förderphase 2024 ff. - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Gesamtinstandsetzung Mülheimer Brücke - Verzögerte Inbetriebnahme Stadtbahn - Kenntnis genommen
+- TOP 10.2.2: Abschlussbericht Audit „Generationengerechtes Wohnen im Quartier“ in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.3: Städtebaulicher Masterplan Innenstadt - Niederschrift 35. Sitzung am 22.04.2024 - Kenntnis genommen
+- TOP 10.2.4: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 10.2.6: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - Kenntnis genommen
+- TOP 10.2.7: Ergänzende Mitteilung zur Verwendung der Stadtverschönerungsmittel im Rahmen des Großgruppenbeteiligungsformates „HEY Nippes! Check mit uns dein Veedel“ - Kenntnis genommen
+- TOP 10.2.8: Beabsichtigte Neufassung der Naturdenkmalverordnung (NDI-VO) - Kenntnis genommen
