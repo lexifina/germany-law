@@ -17,10 +17,10 @@
 - [§ 8 Agrarorganisationenregister; Verordnungsermächtigungen](0008.md)
 - [§ 9 Mitteilungen und Veröffentlichung von Daten](0009.md)
 
-## Teil 3 Geschäftsbeziehungen in der Lebensmittellieferkette
+## Teil 3 Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
 
 
-### Kapitel 1 Unlautere Handelspraktiken in der Lebensmittellieferkette
+### Kapitel 1 Unlautere Handelspraktiken in der Agrar-, Fischerei- und Lebensmittellieferkette
 
 
 #### Abschnitt 1 Unlautere Handelspraktiken
@@ -49,7 +49,8 @@
 
 #### Abschnitt 3 Befugnisse und Aufgaben der Durchsetzungsbehörde
 
-- [§ 28 Befugnisse der Durchsetzungsbehörde; Verordnungsermächtigung](0028.md)
+- [§ 28 Befugnisse der Durchsetzungsbehörde](0028.md)
+- [§ 28a Informationsaustausch mit dem Bundeskartellamt](0028a.md)
 - [§ 29 Tätigkeitsbericht der Durchsetzungsbehörde](0029.md)
 - [§ 30 Gegenseitige Amtshilfe der Durchsetzungsbehörden](0030.md)
 - [§ 31 Austausch mit anderen Durchsetzungsbehörden](0031.md)
