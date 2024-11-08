@@ -1,0 +1,58 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2024-11-08T17:00:00+01:00
+- Ende: 2024-11-08T21:10:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfva1bS8ETufehSPyzImaU0
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4979
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYHq-to4yKkLExPH1cfaCMAUgQ6VyyVjtUJK6kHA0_KX/Einladung_Rat_08.11.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVE95-pbYyM3v4wtjY3n9z2mkx9IOY--h4rcCRobAZyT/Oeffentliche_Niederschrift_Rat_08.11.2024.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 20.09.2024
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Entwurf der Haushaltssatzung 2025 und 2026 sowie mittelfristige Ergebnis- und Finanzplanung 2027 - 2029 hier: Einbringung des Entwurfs der Haushaltssatzung 2025 und 2026 mit ihren Anlagen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Stellenplan für den Doppelhaushalt 2025 und 2026 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Hebesatzsatzung für die Jahre 2025 und 2026 - Nach den zuvor dargestellten Beschlüssen ergibt sich folgender Gesamtbeschluss:
+- TOP A.10: 2. Situationsbericht zur Haushaltswirtschaft 2024
+- TOP A.11: Genehmigung von außerplanmäßigen Verpflichtungsermächtigungen für die Beschaffung von Fahrzeugen für den Rettungsdienst/Krankentransport - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Gebührenhaushalt Friedhöfe Neufassung der Gebührensatzung für die Friedhöfe der Hansestadt Herford in der Fassung der Anlage 1 mit Wirkung zum 01.01.2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: 1. Änderungssatzung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Hansestadt Herford vom 06.03.2023 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Steuerung von Drittorganisationen:
+- TOP A.14a: Beteiligungsbericht 2023/2024
+- TOP A.14b: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2024 der Beteiligungsunternehmen zum 30.06.2024
+- TOP A.14c: IAB Immobilien- und Abwasser-Betrieb Herford: Feststellung des Jahresabschlusses 2023, Ergebnisverwendung und Entlastung des Betriebsausschusses - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14d: Interkommunale Wirtschaftsförderungsgesellschaft mbH im Kreis Herford – Änderung des Gesellschaftsvertrages - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14e: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen-Lippe GmbH: Vorgezogene Darlehensaufnahme 2024 - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.14f: Westfalen Weser-Gruppe: Gründung zweier WWE-Tochtergesellschaften für Erzeugung & Handel sowie Energiespeicher und Vorratsbeschlussfassung für die Errichtung von Projektgesellschaften - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14g: Westfalen Weser-Gruppe: Errichtung einer Projektgesellschaft für das Vorhaben „Batteriespeicherpark Blomberg“ - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14h: Westfalen Weser-Gruppe: Errichtung einer Projektgesellschaft zur Umsetzung des Wasserstoff-Vorhabens „Schlafender Riese“ - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14i: Westfalen Weser-Gruppe: Beteiligung eines weiteren kommunalen Gesellschafters an der Westfalen Weser Energie GmbH & Co. KG; Änderung des Gesellschaftsvertrages der Westfalen Weser Energie GmbH & Co. KG - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14j: a) Finanzierungsbeiträge der Hansestadt Herford für die Nordwestdeutsche Philharmonie (NWD) und das Landestheater Detmold (LTD) in den Jahren 2026 bis 2031. b) Kooperationsvereinbarung der Überkreuzfinanzierung zwischen den Kreisen Herford und Lippe sowie den Städten Herford und Detmold. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14j)1: Antrag Die Linke: Prüfauftrag zur Finanzierung der NWD an die Verwaltung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14k: HVV Konzern: Entlastung der Mitglieder der Aufsichtsräte des HVV Konzerns für das Geschäftsjahr 2023 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Gremienbesetzungen
+- TOP A.15a: Sparkasse Herford: Gremienbesetzung in der Verbandsversammlung des Sparkassenzweckverbandes im Kreis Herford in 2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15b: Benennung beratender Mitglieder des Schulausschusses: Nachbesetzung der Vertretung für die Sekundarstufe II-Schulen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15c: Benennung beratender Mitglieder des Schulausschusses: Besetzung der Vertretungen für die Elternschaft (Stadtschulpflegschaft) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15d: Nachbesetzung im Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: 1. Änderung des Regionalplans OWL (Wind/Erneuerbare Energien) Hier: Stellungnahme zur 1. Änderung - Mit 31 Stimmen dafür, zehn Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16a: Ergänzungsantrag zum TOP A.16, Bündnis 90/ Die Grünen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Wasserversorgungskonzept 2024 der Stadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Familienhilfen: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Bünde, dem Kreis Herford und der Hansestadt Herford zur Durchführung des Babylotsendienstes im Mathilden Hospital Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz – Korrekturmitteilung
+- TOP A.20: Wahl einer Vertretungsperson im Schiedsamt - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Sitzungskalender 2025
+- TOP A.22: Antrag der BfH-Fraktion: Vergleich von möglichen Standorten für die Geschwister-Scholl-Schule - :
+- TOP A.23: Antrag der CDU-Fraktion: Prüfauftrag an die Verwaltung zum Neubau der Geschwister-Scholl-Schule - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.24: Mitteilungen
