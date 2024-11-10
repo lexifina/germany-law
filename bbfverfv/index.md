@@ -1,0 +1,17 @@
+# Verordnung über das Verfahren zur Feststellung und Bescheinigung individueller beruflicher Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs nach dem Berufsbildungsgesetz und der Handwerksordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Festlegung von Feststellungsinstrumenten](0002.md)
+- [§ 3 Feststellungsinstrumente](0003.md)
+- [§ 4 Auswahl der Feststellungsinstrumente](0004.md)
+- [§ 5 Verfahren zur Würdigung der Leistungen](0005.md)
+- [§ 6 Verfahren zur Dokumentation der Leistungen](0006.md)
+- [§ 7 Maßgaben zur Ausgestaltung des Zeugnisses bei Feststellung der vollständigen Vergleichbarkeit und des Bescheides bei Feststellung der überwiegenden oder teilweisen Vergleichbarkeit](0007.md)
+- [§ 8 Ergänzungsverfahren](0008.md)
+- [§ 9 Erneuter Antrag zum Zweck der Wiederholung](0009.md)
+- [§ 10 Inkrafttreten](0010.md)
+- [Anlage 1 (zu § 7 Absatz 1)Zeugnis über die Feststellung der vollständigen Vergleichbarkeit der beruflichen Handlungsfähigkeit](anlage-1.md)
+- [Anlage 2 (zu § 7 Absatz 2)Bescheid über die Feststellung der überwiegenden Vergleichbarkeit der beruflichen Handlungsfähigkeit](anlage-2.md)
+- [Anlage 3 (zu § 7 Absatz 3)Bescheid über die Feststellung der teilweisen Vergleichbarkeit der beruflichen Handlungsfähigkeit](anlage-3.md)

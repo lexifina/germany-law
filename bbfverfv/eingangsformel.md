@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 50e des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), der durch Artikel 2 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 246) eingefügt worden ist, und auf Grund des § 41e der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der durch Artikel 4 Nummer 16 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 246) eingefügt worden ist, verordnet das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz:
