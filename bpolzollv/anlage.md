@@ -1,6 +1,7 @@
 # Anlage (zu § 1)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869
+(Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1. | Schleswig-Holstein |
 |  | Niendorf |
 |  | Neustadt |
@@ -159,5 +160,4 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869
 |  | Überlingen |
 |  | Meersburg |
 |  | Friedrichshafen-Hafen |
-|  | Friedrichshafen-Löwenthal (Flughafen) |
 |  | Langenargen |
