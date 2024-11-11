@@ -1,0 +1,98 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-11-11T16:00:00+01:00
+- Ende: 2024-11-11T20:55:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22029
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22029
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00339514.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00340312.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Präventions- und Schutzmaßnahmen für Kinder und Jugendliche im Zuge der Teillegalisierung von Cannabis - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Präventions- und Schutzmaßnahmen für Kinder und Jugendliche im Zuge der Teillegalisierung von Cannabis - Antwort auf die große Anfrage der Stadtverordneten Rafrafi - Entgegennahme ohne Beschluss
+- TOP 2.2: Wahlen 2025 - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Wahlen 2025 - Antwort der Verwaltung auf die Große Anfrage - Entgegennahme ohne Beschluss
+- TOP 2.3: Situation des sozialen und barrierefreien Wohnungsbaus - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Situation des sozialen und barrierefreien Wohnungsbaus - Entgegennahme ohne Beschluss
+- TOP 2.4: Kosten des Flüsterasphalts - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Kosten des Flüsterasphalts - Entgegennahme ohne Beschluss
+- TOP 2.5: Unterhaltskosten des Schauspielhauses - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Unterhaltskosten des Schauspielhauses - Entgegennahme ohne Beschluss
+- TOP 2.6: Wohnbauflächen, Monteurs- und Ferienwohnungen - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Große Anfrage zu Wohnbauflächen, Monteurs- und Ferienwohnungen der Fraktion Linkes Bündnis Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.7: Bisherige Kosten der BuGa-Planung und Engagement des Fördervereins - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Bisherige Kosten der BuGa-Planung und Engagement des Fördervereins - Entgegennahme ohne Beschluss
+- TOP 2.8: Hängeseilbrücke: Materialität und Nachhaltigkeit - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Hängeseilbrücke: Materialität und Nachhaltigkeit - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Aufsichtsrat der BUGA 2031 gGmbH
+- TOP 4: Anträge
+- TOP 4.1: Überprüfung der Strukturen und Prozesse zur Verbesserung der Zusammenarbeit zwischen Verwaltung und Wirtschaft - abgesetzt
+- TOP 4.2: Gemeinsamer Antrag: Einführung eines Ehrenamtsstipendiums - ungeändert beschlossen
+- TOP 4.3: Rücknahme der Ausweisung von Tempo30-Abschnitten als Folge der Fortschreibung des Lärmaktionsplans - zur Vorberatung verwiesen
+- TOP 4.4: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Wuppertal vom 20.12.2001 - ungeändert beschlossen
+- TOP 4.5: Schwimmbadpersonal entlasten - Einsatz von künstlicher Intelligenz in Schwimmbädern - zur Vorberatung verwiesen
+- TOP 4.6: Respekt für obdach- und wohnungslose Menschen - zur Vorberatung verwiesen
+- TOP 4.7: Massive Kürzungen im Bundes- und Landeshaushalt verhindern - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal (VO/0799/23/1-Neuf.) - abgelehnt
+- TOP 5.2: Kurzfristige Verbesserung der Situation von Pedelec- und Elektrokleinstfahrzeugen im Verleihsystem - geändert beschlossen
+- TOP 5.3: Bezahlkarte für Leistungen aus dem Asylbewerberleistungsgesetz - abgesetzt
+- TOP 5.3.1: Einführung einer Bezahlkarte für Flüchtlinge - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 6.1.1: Änderungsantrag zu VO/1220/24, Beschluss einer Hebesatzung zur Umsetzung der Grundsteuerreform zum 01.01.2025 - abgelehnt
+- TOP 6.2: Berichtigung: Änderung des Taxentarifs / Neufassung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten und Beförderungsbedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Haushalt 2025 - Aktuelle Entwicklung der Haushaltslage 2025 - Entgegennahme ohne Beschluss
+- TOP 7.2: Überplanmäßige Mittelbereitstellung zu Umsetzung von Sicherungsmaßnahmen am Kalktrichterofen - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Mittelbereitstellung zur Zahlung der gesetzlichen Unfallversicherung - ungeändert beschlossen
+- TOP 7.4: Dienstanweisung Ermächtigungsübertragungen - ungeändert beschlossen
+- TOP 7.5: Überplanmäßige Mittel für DV-Verfahrenswechsel im Ordnungsamt - ungeändert beschlossen
+- TOP 7.6: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 24.08.2024-25.10.2024 - Entgegennahme ohne Beschluss
+- TOP 7.7: Sachstand zum Projekt zur Entwicklung eines kommunalen Nachhaltigkeitshaushaltes - Entgegennahme ohne Beschluss
+- TOP 7.8: Außerplanmäßige Mittelbereitstellung für die Beauftragung von Partnerschaft Deutschland mit der Durchführung von Ausschreibungsverfahren - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Fünfte Satzung zur Änderung der Satzung der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Sechste Satzung zur Änderung der Betriebssatzung des Eigenbetriebs Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2023 - Entlastung des Aufsichtsrates Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH Solingen - ungeändert beschlossen
+- TOP 8.4: Fünfte Satzung zur Änderung der Betriebssatzung des Eigenbetriebs Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.5: Neufassung des Gesellschaftsvertrags der WVW Wertstoffverwertung Wuppertal GmbH - ungeändert beschlossen
+- TOP 8.6: Änderungen von Gesellschaftsverträgen und Satzungen städtischer Tochtergesellschaften - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bericht zum Antrag "Änderung des Regionalplans Düsseldorf im Bereich Adolf-Vorwerk-Straße in der Stadt Wuppertal" - Entgegennahme ohne Beschluss
+- TOP 9.2: Bebauungsplan 214 - Georg-Arends-Weg - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Verhandlungsverfahren mit Teilnahmewettbewerb: Errichtung einer neuen Schule im Stadtbezirk Oberbarmen - geändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Containerklassenlösung ab Sommer 2025 wegen steigender Schülerzahl an Grundschulen - ungeändert beschlossen
+- TOP 11.2: Neuausrichtung des Vergabewesens - Entgegennahme ohne Beschluss
+- TOP 11.3: Mietspiegel 2024 - Entgegennahme ohne Beschluss
+- TOP 11.4: Umsetzung der Empfehlungen aus der Evaluation der Leitlinien Bürgerbeteiligung - ungeändert beschlossen
+- TOP 11.5: Konkretisierung der Machbarkeitsstudie für die Bundesgartenschau 2031 in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.6: Stellungnahme zum Neubau einer Maßregelvollzugsklinik an der Parkstraße - Entgegennahme ohne Beschluss
+- TOP 11.7: Antidiskriminierungsstrategie der Stadt Wuppertal, 2024 - 2027 - abgesetzt
+- TOP 11.8: Leitbild, Planungsgrundsätze und Leitsätze für ein klimaangepasstes und klimaschutzgerechtes Wuppertal - abgesetzt
+- TOP 11.9: Bericht über die Verbesserung der Aufenthaltsqualität in der Elberfelder Innenstadt - Entgegennahme ohne Beschluss
+- TOP 11.10: Gedenk- und Lernort ehemaliges Konzentrationslager Kemna - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.2: Umbesetzung im Planungsbeirat für die Klinik des Maßregelvollzugs (Forensik) des Landschaftsverbandes Rheinland (LVR) in Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 12.3: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.4: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Kommunal- und Integrationsratswahlen 2025 - geändert beschlossen
+- TOP 12.5: Umbesetzung Ausschussmitglied im Betriebsausschuss APH und KiJu - ungeändert beschlossen
+- TOP 12.6: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - Benennung der Delegierten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.7: Zweckverband Naturpark Bergisches Land - Änderung der Bestellung einer Vertretung der Verwaltung - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung Ausschuss für Schule und Bildung - abgelehnt
+- TOP 12.10: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.11: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.12: Bestellung des beratenden Mitglieds für den Betriebsausschuss Gebäudemanagement - ungeändert beschlossen
