@@ -1,0 +1,71 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-12T16:04:00+01:00
+- Ende: 2024-11-12T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29560
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29560
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch von Herrn Beigeordneten Haack in der BV Lindenthal
+- TOP -: Aktuelle Stunde zum Thema "Auswirkung der Ausdünnung des KVB-Fahrplans für den Stadtbezirk Lindenthal"
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO "Überdachung KVB-Haltestelle Gymnasium Köln-Widdersdorf" AZ 21/24 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage: der BV 3 aus Sitzung am 23.09.2024 Kirchenhof, Wendelinstraße AN/1220/2024 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Parkplätze Würselener Straße - geändert beschlossen
+- TOP 8.1.2: Einzäunung der Hundefreilauffläche Zone Nummer 20 - ungeändert beschlossen
+- TOP 8.1.3: Tempo 30 /Salzburger Weg - ungeändert beschlossen
+- TOP 8.1.4: Ergänzung des Denkmaltextes an dem kleinen Platz an der Hauptstraße in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.5: Antrag zur Aufstellung eines Straßensichtspiegels - geändert beschlossen
+- TOP 8.1.6: Errichtung von Fahrradabstellplätzen vor der Förderschule in der Zülpicher Straße - geändert beschlossen
+- TOP 8.1.7: Dringlichkeitsantrag zur Mitteilung 3055/2024 Stadtteilbibliothek - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Dringlichkeitsentscheidung nach § 36 Abs. 5 GO NRW
+- TOP -: Rüchnahme Stellung des Antrages auf Berufung - ungeändert beschlossen
+- TOP 9.1.2: Handlungsempfehlung für die Robert-Koch-Straße in Köln-Lindenthal - Alternative beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TO 9.2.1 Ost-West-Achse Bereich West - ungeändert beschlossen
+- TOP 9.2.2: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - geändert beschlossen
+- TOP -: Änderungsantrag zu TO 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: 294. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Planungsbeschluss auf Basis des Entwurfs EIFELWALL Parkstadt Süd - geändert beschlossen
+- TOP -: Ergänzungsantrag zum TO 9.2.4 Planungsbeschluss auf Basis des Entwurfs EIFELWALL Parkstadt Süd - geändert beschlossen
+- TOP 9.2.5: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert beschlossen
+- TOP 9.2.6: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ungeändert beschlossen
+- TOP 9.2.7: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - Arbeitstitel: Sicherung Gleueler Wiesen in Köln-Sülz
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Stellungnahme zu einem Antrag der BV3 zur Einrichtung einer Stadtteilbibliothek in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Errichtung zweier Wohngebäude mit 232 Wohneinheiten für studentisches Wohnen - Kenntnis genommen
+- TOP 11.3.2: Errichtung einer zusätzlichen Kleinkinderschaukel auf dem Spielplatz Nikolausplatz in Köln-Sülz - Kenntnis genommen
+- TOP 11.3.3: Mitteilung zu den Landschaftsparks im Kölner Westen - Kenntnis genommen
+- TOP 11.3.4: Städtebaulicher Masterplan Innenstadt - Niederschrift 35. Sitzung am 22.04.2024 - Kenntnis genommen
+- TOP 11.3.5: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - Kenntnis genommen
+- TOP 11.3.6: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 11.3.7: Stadtbahnvorhaben Köln - Niederaußem - hier: Aktueller Sachstand zur Vorbereitung der Machbarkeitsstudie zur Verlängerung der Linie 4 - Kenntnis genommen
+- TOP 11.3.8: Nachfragen des RM De Bellis-Olinger aus der Sitzung des Verkehrsausschusses vom 10.09.2024 betreffend "Pilotanwendung der Piktogrammkette für den Radverkehr" (2234/2024) - Kenntnis genommen
+- TOP 11.3.9: Beabsichtigte Neufassung der Naturdenkmalverordnung (NDI-VO) - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
