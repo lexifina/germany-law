@@ -1,0 +1,94 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7969222
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7969222
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Verkehrssituation Baucontainer Schrenkstraße 7
+- TOP 4.2.: Fahrradstellplätze Schießstättstraße 30
+- TOP 4.3.: Möglichkeit zur Vorstellung des Sport- und Veranstaltungskonzepts "Padel Beach"
+- TOP 4.4.: Missachtung Durchfahrverbot Trappentreustraße
+- TOP 4.5.: Wand im Westend gesucht für Hommage an verstorbene Embryomusiker
+- TOP 4.6.: Straßen in der Schwanthalerhöhe zu eng durch Falschparker und Arnulfsteg schlecht erreichbar
+- TOP 4.7.: Haltverbot für Filmaufnahmen im Max-Friedlaender-Bogen
+- TOP 4.8.: Unterbringung der gelben Wertstofftonnen auf den Grundstücken
+- TOP 4.9.: Schaffung von Fahrradstellplätzen in einer Parkbucht im Bereich Carlamaria-Heim-Str. 3+5 / August-Kühn-Str. 10
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Tulbeckstraße 13
+- TOP 6.1.2.: Freischankfläche Parkstraße 1
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Kazmairstraße 31
+- TOP 6.2.2.: Bauvorhaben Ridlerstraße 37
+- TOP 6.2.3.: Bauvorhaben Heimeranstraße 35
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Demokratiemobil Evaluation Tour 2024
+- TOP 7.3.2.: Rückerstattung von Heizkosten; Sitzungsvorlage Nr. 20-26 / V 14519
+- TOP 7.3.3.: Unterstützungsmöglichkeit durch die Abteilung Koordination für Psychiatrie und Suchthilfe
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: "Veinachtsstand der V-Partei" am Georg-Freundorfer-Platz am 01.12.24
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Nachbarschaftstag des AWM am Gollierplatz am 26.10.2024
+- TOP 8.3.2.: Netzwerktreffen Münchner Stadtgeschichte 2024 am 13.11.2024 um 18 Uhr in der LUISE, Ruppertstr. 5
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Sperrung Schneckenplatz für Fahrzeuge während Oktoberfest
+- TOP 9.1.1.1: Sperrung Schneckenplatz für Fahrzeuge während Oktoberfest; Vermittlungsschreiben des Mobilitätsreferates vor der OB-Entscheidung
+- TOP 9.1.2.: Projektplanung Verbesserung Kreuzung Westend- / Trappentreustr. sowie Fahrradabstellplätze
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Aufforderung zum Schlussbericht Oktoberfest 2024
+- TOP 9.2.2.: Baumfällung Kazmairstr. 70
+- TOP 9.2.3.: Informationen zum geplanten Nachbarschaftsviertel und integrierten Quartierskonzept; Stellungnahme des Bezirksausschusses 8
+- TOP 9.2.4.: Einrichtung eines personenbezogenen Sonderparkplatzes in der Bergmannstr. 24
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Maßnahmen zur Sicherung des Fußgängerüberwegs in der Trappentreustraße
+- TOP 9.3.2.: „Fahrradreparaturstation UMLENKEN“ verstetigen!
+- TOP 9.3.3.: Theresienhöhe; Einrichtung einer Tempo-30-Zone
+- TOP 9.3.4.: Umgestaltung der Fäustlestraße
+- TOP 9.3.5.: Meldeliste Bauvorhaben SWM
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget FabLab München e.V. MINT-hands-on für Grund-, Mittel- und RealschülerInnen -Schwanthalerhöhe vom 16.09.2024 -31.03.2025 11.204,14€; Az. 0262.0-8-0410
+- TOP 10.1.1.1: Antwortschreiben Referat für Bildung und Sport zum Budgetantrag FabLab
+- TOP 10.1.2.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté, April bis November 2025 8.938,00€; Az. 0262.0-8-0416
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative open Westend open Westend am 04.04., 05.04. und 06.04.2025 3000,00 €; Az. 0262.0-8-0419
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Das Panzerfahrerdenkmal vor der Bavaria dem kontrollierten Verfall überlassen und auch zum Volkstrauertrag zum 17. November nicht mehr bekranzen und ausschneiden
+- TOP 11.2.: Verbesserung des Zugangs für FußgängerInnen vom „Bahndeckel“ Richtung Westen/Theresienwiese
+- TOP 11.3.: Einweihungsfeier für den Jugendcontainer finanzieren; € 500,-
+- TOP 11.4.: Veranstaltung zum Thema Suchterkrankungen in der Schwanthalerhöhe
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: BA20; Stadtweite Lösung für das Abstellen von E-Scootern
+- TOP 12.3.2.: Informationsschreiben BA 03 / 2024; Voraussetzungen einer ordnungsgemäßen Ladung / Beschlussfähigkeit des Bezirksausschusses
+- TOP 12.3.3.: Aufruf des BA 6 - Sendling „Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!"
+- TOP 12.3.4.: Teilnahme des Condrobs e.V. an stadtteilbezogenen Straßenfesten
+- TOP 12.3.5.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 11.5.: Appell für Solidarität und Menschlichkeit – Gegen die Räumung der Unterführung der Theresienwiese
