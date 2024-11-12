@@ -1,0 +1,8 @@
+# TOP 4: Sachstandsbericht zu den Baumaßnahmen an den Schulen in Trägerschaft des Rhein-Kreises Neuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Schul- und Bildungsausschusses (2024-11-12)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/38694
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/14463
