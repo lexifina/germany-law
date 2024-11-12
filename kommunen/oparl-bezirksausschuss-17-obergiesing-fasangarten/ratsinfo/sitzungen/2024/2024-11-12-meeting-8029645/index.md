@@ -1,0 +1,163 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8029645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8029645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen aus der Bürgerversammlung; (FF UA MuV) Zebrastreifen Deisenhofener / Raintaler Str.
+- TOP 2.1.2.2.: Bürgeranliegen aus der Bürgerversammlung; (FF UA MuV) Umwandlung der Raintaler Straße zwischen St. -Martin Str. und Perlacher Str. in eine Fahrradstraße
+- TOP 2.1.2.3.: Bürgeranliegen aus der Bürgerversammlung; (FF UA MuV) hier: Illegaler Schwerlastverkehr am Mittleren Ring
+- TOP 2.1.2.4.: Bürgeranliegen; Einrichtung einer Fahrradstraße in Herzogstandstr./ Spixstr. (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Raintalerstr. 1
+- TOP 3.10.2.: Kronacher Str. 4
+- TOP 3.10.3.: Winlandstr. 26
+- TOP 3.10.4.: Cincinnatistr. 32-42, Pennstr. 2-12 (Borkenkäferbefall - Fällgenehmigung bereits erteilt) -Unterrichtung-
+- TOP 3.10.5.: Scharfreiterstr. 1e-5, Oberaudorfer Str. 13-17 (Genehmigung der UNB)
+- TOP 3.10.6.: Bad-Berneck-Str. 5 (Baum bereits abgestorben) -Unterrichtung-
+- TOP 3.10.7.: Hohenschwangaustr. 6
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) Foodsaving & More e.V. Übernahme der Stromkosten für den Jesajafairteiler ab 01.12.2024 2.200,00€; Az. 0262.0-17-0468
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.2.1.: (E) Benennung der Kreuzung Giesinger Berg / Ichostraße / Silberhornstraße / Martin-Luther-Straße in „Giesinger Kirchplatz“ Empfehlung Nr. 20-26 / E 01499 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 24.10.2023
+- TOP 6.1.2.2.: Umbau und Sanierung des städt. Anwesen Aignerstr. 14 für die Nutzung als KITA Beschlussvorlage
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Holtzendorffstr. 3 - Neubau eines Zweifamilienhauses mit Garage und Carport - Fristablauf 09.11.2024 (Vorabentscheidung nötig, da Fristverlängerung nicht genehmigt)
+- TOP 6.1.3.2.: Aufruf des BA 6 Sendling "Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!"
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Zeitnahe Vermietung leerstehender Wohnungen in der "Ami-Siedlung" im Fasangarten
+- TOP 6.1.4.2.: Flächen an der Muttenthalerstraße; Behandlung einer Petition, diverser Bürgerversammlungsempfehlungen und eines Bezirksausschuss-Antrags Petition: zu Stadtentwicklungsplan Step 2040 TOP 2.6. Endgültige Ablehnung der Bauplanung Nr. 16 Auflösung Bebauungsplanverfahren A 1433 der Bürgerinitiative Klima- und Landschaftsschutz für Sollner Felder vom 11.12.2022 Behandlung der Petition der Bürgerinitiative Grüngürtel München SÜD vom 24.06.2024 Petition: Keine Bebauung des Grüngürtels München SÜD der Bürgerinitiative Grüngürtel München SÜD vom 24.06.2024
+- TOP 6.1.4.3.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2024 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 6.1.4.4.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 6.1.4.5.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 6.1.4.6.: Rückerstattung von Heizkosten
+- TOP 6.1.4.7.: Vollzug der Erhaltungssatzung "Tegernseer Landstr." hier: Deisenhofener Str. 41
+- TOP 6.1.4.8.: Vollzug der Erhaltungssatzung "Tegernseer Landstr" hier: Deisenhofener Str. 112 und 110
+- TOP 6.1.4.9.: Vollzug der Erhaltungssatzung "Scharfreiterplatz" hier: Chiemgaustr. 90 und 98
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.2.1.: Umbau und Sanierung des städt. Anwesen Aignerstr. 14 für die Nutzung als KITA Beschlussvorlage
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Öffentliche Toilette Walchenseeplatz
+- TOP 6.2.4.2.: Lachgas die neue Partydroge - Welche Maßnahmen ergreift die LH München
+- TOP 6.2.4.3.: Demokratiemobil Evaluation Tour 2024
+- TOP 6.2.4.4.: Spielgeräte im Weißenseepark
+- TOP 6.2.5.: Anträge
+- TOP 6.2.5.1.: Bestellung einer städt. Leistung; hier: Bestellung von Ferienpässen für das Jahr 2025
+- TOP 6.2.6.: Sonstiges
+- TOP 6.2.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Giesinger Kirchplatz
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anhörung; Parkraummanagement in München - Umsetzung Sektor VI Sitzungsvorlage Nr. 20-26 / V 13538 (Fristverlängerung wurde genehmigt bis 09.10.24)
+- TOP 6.3.3.2.: Anhörung - Verkehrsrechtliche Anordnung nach § 45 StVO hier: Nordseite Fasangarten Haus Nr. 138d bis Haus Nr. 144 sowie Haus Nr. 150b bis Haus Nr. 166 Südseite: Haus Nr. 133 bis Haus Nr. 155 Anbringung einer Sperrfläche ( Z 298) im Bereich der sog. "Dooring-Zone "
+- TOP 6.3.3.3.: Interfraktioneller Antrag des BA 20 Hadern mit der Bitte um Unterstützung hier: Stadtweite Lösung für das Abstellen von E-Scootern (BA Antrag Nr. 20-26 / E 07115)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verhinderung von Durchgangsverkehr im neu gewidmeten Teil der St. Quirin Straße
+- TOP 6.3.4.2.: Schienenbearbeitung auf diversen Abschnitten im U-Bahnnetz im 4. Quartal 2024
+- TOP 6.3.4.3.: Antwortschreiben auf ein Bürgeranliegen; hier: Parkende Autos beim Fußgängerüberweg St. Martin- Str.
+- TOP 6.3.4.4.: Antwortschreiben auf ein Bürgeranliegen; hier: Miserabler Straßenzustand in der Eschenbachstr. Ecke Ständlerstr. und die übergehende Schloss-Berg - Str. Kreuzung Chimegaustr.
+- TOP 6.3.4.5.: Ausnahmezulassung gem. § 7 Abs. 2 der 32 BIMSchV hier: Asphaltarbeiten in Nachtarbeit vom 23.10. - 24.10.2024 Waldmünchner Str. zwischen Tirschenreuther Str. und Balanstr.
+- TOP 6.3.4.6.: Verkehrsrechtliche Anordnung nach § 45 StVO, hier: St.- Quirin-Straße 2a - Halteverbote
+- TOP 6.3.4.7.: Vormerkung und Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO hier: Oberaudorfer Straße - Neuregelung der Parkordnung im Wendehammer
+- TOP 6.3.4.8.: Verkehrsrechtliche Anordnung nach § 45 Abs.1b Nr. 2 i.V.m. § 45 Abs. 1 Nr. 11 StVO hier: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Eschenbachstr. 1
+- TOP 6.3.4.9.: Unterstützung der BA 16 und 18 zu einem Bürgeranliegen bzw. des Antrags Nr. 20-26 / B07034 Prüfung einer Express Buslinie von Neuperlach nach Harlaching (Bürgeranliegen aus der Sitzung vom 10.09.2024)
+- TOP 6.3.4.10.: Fehlender Fußgängerüberweg zur Grundschule Ichostr. zwischen Kirche und Schultor (Ziffer 2)
+- TOP 6.3.4.11.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 6.3.4.12.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs.9, § 46 StVO und des Art. 21 BayStrWG Arbeitsstelle im Straßenraum, Änderung/Ergänzung des Bescheids vom 12.09.2024 hier: Kistlerstr. 6 Vollsperre - Seite Sägstr.
+- TOP 6.3.4.13.: Sitzungsvorlage Nr. 20-26 / V 14763 Novellierung SoNuRL und SoNuGebS
+- TOP 6.3.4.14.: Sanierung der Radwege Schlierseestraße
+- TOP 6.3.4.15.: Warum keine Sanierung der Radwege in der Werinherstraße
+- TOP 6.3.4.16.: Verkehrliche Neuordnung der Tegernseer Landstraße Umgestaltung des Tegernseer Platzes Prüfauftrag zum Tegernseer Platz
+- TOP 6.3.4.17.: Verengung der Fahrbahnen und Begrünung in der Deisenhofener-, Heimgarten- und Werinherstraße
+- TOP 6.3.4.18.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs 6 und 9, § 46 StVO und des Art. 21 des BayStrWG Foto-/Film- und/oder Tonaufnahmen auf öffentlichen Verkehrsgrund hier: Untere Grasstr. 12-16 am 11.11.2024 von 7-19 Uhr
+- TOP 6.3.4.19.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs 9 StVO hier: Einrichtung einer Busspur in der Werinherstr. (Nordseite und Südseite) zwischen dem Knoten Eintrachtstr. / Schlierseestr. und der Ungsteiner Straße
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Diverse Veranstaltungsgenehmigungen auf öffentlichen Grund und Grünflächen - 5-Jahre Pöllatinsel, Grünanlage bei der Pöllatinsel am 12.10.2024 - Festival der Marionetten, Weißenseepark vom 03.10 - 07.10.2024
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: unveränderte Fortführung eines Gaststättenbetriebes hier: Effenberg`s Bar, St. Bonifatius Str. 2a
+- TOP 6.6.4.2.: unveränderte Fortführung eines Gaststättenbetriebes hier: Bumsvoll, Zugspitzstr. 19
+- TOP 6.6.4.3.: unveränderte Fortführung eines Gaststättenbetriebes hier: Solo Italia, Bergstr. 5
+- TOP 6.6.4.4.: Antwortschreiben; Wochenmarkt am Auguste - Kent Platz
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Digitale Schaukästen für die Bezirksausschüsse Antrag Nr. 20-26/ B 07002 des BA 17 vom 10.09.2024 Rückmeldung von den BAs 3, 5, 6, 9, 10, 15, 18, 20, 22, 23, 25
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
