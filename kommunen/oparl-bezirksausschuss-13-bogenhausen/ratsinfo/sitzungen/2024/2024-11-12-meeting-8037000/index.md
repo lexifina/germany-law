@@ -1,0 +1,170 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2024-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8037000
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8037000
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 15.10.2024
+- TOP 1.3.2.: Vorstellung der Leitung und des besonderen Konzepts des Flüchtlingshauses Regina-Ullmann-Str. 5-9
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Abschnitt PFA 3 Ost (2. Stammstrecke): Planänderung - Vorprüfung; Anhörung des Referats für Stadtplanung und Bauordnung - Vorstellung durch die DB -
+- TOP 2.2.1.2.: Ostpreußenstr. 49: Bauliche Umgestaltung und Nutzungsänderung, neue PV-Anlage ( Ostpreußenstr. 49 / Königsberger Str. 25) (vertagt aus der Sitzung 10/24) - Vorstellung durch Architekten -
+- TOP 2.2.1.3.: Eckbebauung an der Cosimastraße / Johanneskirchner Straße - Präsentation durch den Architekten und die Bauherrin -
+- TOP 2.2.1.4.: Felix-Dahn-Str. 9: Abbruch eines Einfamilienhauses, Neubau zweier Dreifamilienhäuser mit gemeinsamer Tiefgarage - ÄNDERUNGSANTRAG
+- TOP 2.2.1.5.: Höslstr. 18: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.1.6.: Cuvilliésstr. 25 - Variante A: Neubau eines Mehrfamilienhauses mit Tiefgarage (mit Bestand verbunden) Variante B: Neubau eines Mehrfamilienhauses mit Tiefgarage (tangiert Bestand) Variante C: Neubau eines Mehrfamilienhauses mit Tiefgarage (freistehend) - VORBESCHEID
+- TOP 2.2.1.7.: Marienburger Str. 45 - Neubau eines Einfamilienhauses mit Garage
+- TOP 2.2.1.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.9.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Felix-Dahn-Str. 9: Abbruch eines Einfamilienhauses, Neubau zweier Dreifamilienhäuser mit gemeinsamer Tiefgarage - ÄNDERUNGSANTRAG
+- TOP 2.2.2.2.: Ostpreußenstr. 49: Bauliche Umgestaltung und Nutzungsänderung, neue PV-Anlage ( Ostpreußenstr. 49 / Königsberger Str. 25)
+- TOP 2.2.2.3.: Höslstr. 18: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.2.4.: Cuvilliésstr. 25 - Variante A: Neubau eines Mehrfamilienhauses mit Tiefgarage (mit Bestand verbunden) Variante B: Neubau eines Mehrfamilienhauses mit Tiefgarage (tangiert Bestand) Variante C: Neubau eines Mehrfamilienhauses mit Tiefgarage (freistehend) - VORBESCHEID
+- TOP 2.2.2.5.: Marienburger Str. 45 - Neubau eines Einfamilienhauses mit Garage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Widderstraße 14: Einrichtung Haltverbot für Feuerwehr (Zufahrt Klinik); Anhörung des Mobilitätsreferats
+- TOP 2.3.2.: Maria-Nindl-Platz mit Salon der Gezeiten - bemusterter Platzbelag; Anhörung des Baureferats
+- TOP 2.3.3.: Ruth-Drexel-Str. 96: Kurzparkbereich für Kinderhaus; Anhörung des Mobilitätsreferats
+- TOP 2.3.4.: Lohengrinstr.: Einrichtung personenbezogener Behindertenparkplatz; Anhörung des Mobilitätsreferats
+- TOP 2.3.5.: HNO Klinik (Possartstr. 33): Pfeilwegweiser am Prinzregentenplatz; Anhörung des Mobilitätsreferats
+- TOP 2.3.6.: Gaußstr.: Einrichtung personenbezogener Behindertenparkplatz; Anhörung des Mobilitätsreferats
+- TOP 2.3.7.: Arabellapark: Sauberkeit und optische Aufwertung der U4-Eingänge - Ortstermin -
+- TOP 2.3.8.: Hohenlindener Str. 5: Herstellung öffentlicher Flächen Proben- und Werkstättenzentrum Bay. Staatsschauspiel; Anhörung des Baureferats
+- TOP 2.3.9.: Antrag zur Änderung der Gleise am Endbahnhof Johanniskirchner Bahnhof; Antrag der ÖDP-Fraktion - vertagt aus der Sitzung 08/24 -
+- TOP 2.3.10.: Einführung Tempo 30 in der Oberföhringer Straße zwischen Herkommerplatz und Sankt Emmeran; Anliegen aus der Bürgerschaft
+- TOP 2.3.11.: Optimierung der Verkehrssicherheit, insbesondere Einfahrt von der Oderstr., Havelstr., Klosestr. in die nördliche Weltenburgerstr.; Anliegen aus der Bürgerschaft
+- TOP 2.3.12.: Dauerparker in der Thomas-Mann-Allee; Anliegen aus der Bürgerschaft
+- TOP 2.3.13.: Kontrolle im verkehrsberuhigten Bereich in der Hagelstangestraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.14.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.15.: Verschiedenes, Termine
+- TOP 2.3.16.: Programm barrierefreie Bushaltestellen: Knappertsbuschstr. / Bruno-Walter-Ring, Haltestelle Knappertsbuschstr.; Beschluss des BA 13
+- TOP 2.3.17.: Prinzregentenplatz 16: Antrag für die Aufstellung eines Chanukka Leuchters; Anhörung des Kreisverwaltungsreferats
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Initiative "THE BODY" GET RID OF THE BODY am 12.12.2024 1.012,50 €; Az 0262.0-13-0476
+- TOP 2.4.2.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e. V. GMU-Adventsdult am 30.11.2024 1.470,00 €; Az. 0262.0-13-0478
+- TOP 2.4.3.: Geringe verfügbare Budgetmittel für 2024 - Information des Direktoriums
+- TOP 2.4.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.5.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Fest installierte Tischtennisplatte in der Mittelschule an der Stuntzstraße - Kostenschätzung (Bestellung städtischer Leistung); Rückmeldung des Baureferats
+- TOP 2.5.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.3.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Fitnessanlage im Odinpark - Vorstellung durch das Baureferat -
+- TOP 2.6.1.2.: Sport-Trainingsgeräte für Erwachsene; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.3.: Gestaltung des Rosenkavalierplatz; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.4.: Prüfung der Anschlussmöglichkeiten für Fernwärme in der Oberföhringer Straße; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.6.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Ismaninger Str. 63
+- TOP 2.6.2.2.: Bromberger Str. 47
+- TOP 2.6.2.3.: Mauerkirchnerstr. 168 - 170
+- TOP 2.6.2.4.: Kattowitzer Str. 65
+- TOP 2.6.2.5.: Max-Nadler-Str. 10 - 34
+- TOP 2.6.2.6.: Wahnfriedallee 1 -1b
+- TOP 2.6.2.7.: LSG Isarauen
+- TOP 2.6.2.8.: Oderstr. 12
+- TOP 2.6.2.9.: Mauerkircherstr. 52
+- TOP 2.6.2.10.: Turfstr. 8
+- TOP 2.6.2.11.: Poschingerstr. 14
+- TOP 2.6.2.12.: Englschalkinger Str. 74
+- TOP 2.6.2.13.: Silvanastr. 2 - 12
+- TOP 2.6.2.14.: Asgardstr. 50 - 52
+- TOP 2.6.2.15.: Mauerkircherstraße
+- TOP 2.6.2.16.: Pixisstr. 11
+- TOP 2.6.2.17.: Zoppoter Str. 1
+- TOP 2.6.2.18.: Neckarstr. 14
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Renovierung der Statue in der Odinstraße; Anliegen aus der Bürgerschaft
+- TOP 2.7.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.3.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 3.2.1.: Stadtweite Lösung für das Abstellen von E-Scootern - Interfraktioneller Antrag des BA 20
+- TOP 3.2.2.: „Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!“ - Aufruf des BA 6
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Finanzierung von Ferienpässen Bestellung städtischer Leistung - Beschluss notwendig
+- TOP 6.2.: Der BA13 bittet um Aufklärung, ob die Gefahr, durch einen Zeckenstich mit Borreliose oder FSM in München infiziert zu werden, mit einer Verringerung der Mahd-Zeiten erhöht wird
+- TOP 6.3.: Errichtung einer Kneipp-Anlage
+- TOP 6.4.: Gefährliche Verkehrssituation am Zebrastreifen in der Rennbahnstraße/Ecke Schichtlstraße
+- TOP 6.5.: Straßenbegleitgrün in der Wehrlestraße zurückschneiden
+- TOP 6.6.: Erneuerung der Tischtennisplatten in der Parkanlage vor der Titurelstraße / Ecke Wahnfriedalle; Anliegen aus der Bürgerschaft - Rückmeldung des Baureferats -
+- TOP 6.7.: Rückmeldung des Baureferats zur Nachfrage "Entschärfung von zwei Gefahrenstellen (Gullyabläufe) am Geh-und Radweg an der Stegmühlstraße in Höhe Wertstoffhof, BA-Antrags-Nr. 20-26 / B 05627"
+- TOP 6.8.: Genaue Turnhallennutzung durch verschiedene Schulen darlegen
+- TOP 6.9.: Lärm und nächtliche Nutzung des Spielplatzes (v.a. des Fußball-Käfigs) zwischen Gebeleschule und Bülowstraße
+- TOP 6.10.: Verbesserung der Zufahrt zur Freischützstraße 92; Anliegen aus der Bürgerschaft - Rückmeldung des Mobilitätsreferats -
+- TOP 6.11.: Garten der Kinderkrippe an der Teutonenstraße wieder nutzbar machen
+- TOP 6.12.: Projekt „Schüler machen Schule“ der Mittelschule an der Stuntzstraße
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingereichte Verwendungsnachweise
+- TOP 7.1.2.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024 - Erfahrungen der Bezirksausschüsse; Anhörung des Direktoriums - Stellungnahme des BA -
+- TOP 7.1.3.: Informationsschreiben BA 03 / 2024: Voraussetzungen einer ordnungsgemäßen Ladung /Beschlussfähigkeit des Bezirksausschusses
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Sanierung des Bolzplatzes in der Schichtlstraße
+- TOP 7.2.2.: Anregung für Abfalleimer in der Gartenstadt Johanneskirchen Rückmeldung des Baureferats auf ein Anliegen aus der Bürgerschaft
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Posener Platz (Rondell): Kurzzeitparken mit Zeitbeschränkung
+- TOP 7.3.2.: Stuckstr. 9 gegenüber: Absolutes Haltverbot mit Zusatz „Feuerwehrzufahrt“
+- TOP 7.3.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.3.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL) sowie Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS –) Sitzungsvorlage Nr. 20-26 / V 14763
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Alsenweg 18
+- TOP 7.7.2.: Abdruck von Baugenehmigungen: - Mauerkircherstr. 113 - Variante 1 - Mauerkircherstr. 113 - Variante 2
+- TOP 7.7.3.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 7.7.4.: Weltenburger Str. 9
+- TOP 7.7.5.: Meistersingerstr. 72
+- TOP 7.7.6.: Brodersenstr. 65 - 89
+- TOP 7.7.7.: Häusserstr. 28
+- TOP 7.7.8.: Plankenhofstr. 11
+- TOP 7.7.9.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2024 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 7.7.10.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 7.7.11.: Rückerstattung von Heizkosten
+- TOP 7.7.12.: 2. Stammstrecke, PFA 3 Ost – 4. Planänderung - Vorabstimmung -
+- TOP 7.7.13.: Ismaningerstr. 63
+- TOP 7.7.14.: Apenraderstr. 12
+- TOP 7.7.15.: Flemingstr. 73
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Leistungsbilanz des Sozialreferates 2024
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Suchkreismitteilung zu Mobilfunkanlagen
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.16.1.: Unterstützung Ihres Bezirksausschusses durch die Abteilung Koordination für Psychiatrie und Suchthilfe
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.18.1.: SWM Baumaßnahmen: - Strom-Projekt - Niedermayerstraße - Trinkwasser-Projekt - Bülowstraße
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
