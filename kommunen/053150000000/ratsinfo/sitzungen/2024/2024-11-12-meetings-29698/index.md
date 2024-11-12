@@ -1,0 +1,72 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-12T14:35:00+01:00
+- Ende: 2024-11-12T15:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29698
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29698
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen in der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2024 (Berichtswesen) - Kenntnis genommen
+- TOP 2.3: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Kenntnis genommen
+- TOP 2.4: Beantwortung einer mündlichen Anfrage der Volt-Fraktion aus der Sitzung des Finanzausschusses vom 24.06.2024 betreffend Kosten von Schenkungen an städtische Kultureinrichtungen - Kenntnis genommen
+- TOP 2.5: Beantwortung einer mündlichen Anfrage des Volt-RM Achtelik aus der Sitzung des Finanzausschusses vom 23.09.2024 betreffend öffentliche Zugänglichkeit eines Spielplatzes - Kenntnis genommen
+- TOP 2.6: Sachstand Green Bond Berichterstattung - Kenntnis genommen
+- TOP 2.7: Beantwortung einer mündlichen Anfrage des Ratsmitglieds Hammer in der Sitzung des Finanzausschusses am 23.09.2024 betr. "Kosten von Brandschutzmaßnahmen" - Kenntnis genommen
+- TOP 2.8: Errichtung einer Kaltlufthalle am Maximilian-Kolbe-Gymnasium, Nachtigallenstr. 19 - 21, 51147 Köln-Porz-Wahn - Kenntnis genommen
+- TOP 2.9: Anpassung der "Gebührensatzung für die Rheinische Musikschule der Stadt Köln" - Kenntnis genommen
+- TOP 2.10: Kölner Verkehrs-Betriebe AG: Bürgschaftserklärung Anschlussfinanzierung Nord-Süd-Stadtbahn-Darlehen - Kenntnis genommen
+- TOP 2.11: Monatsbericht Sanierung der Bühnen Köln September 2024 - Kenntnis genommen
+- TOP 2.12: Auswirkung der Steuerschätzung aus Oktober 2024 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Vorbereitung der Haushaltsplanberatungen - Kenntnis genommen
+- TOP 4.1.1: Beantwortung einer Anfrage (AN/1252/2024) | Vorbereitung der Haushaltsplanberatungen - Kenntnis genommen
+- TOP 4.2: Förderung im freiwilligen Bereich tätiger Träger - Bestandssicherung bestehender Strukturen - Kenntnis genommen
+- TOP 4.2.1: Förderung im freiwilligen Bereich tätiger Träger - Bestandssicherung bestehender Strukturen - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Beschluss zur Freigabe von Finanzmitteln für die Generalsanierung der Walter-Blickhäuser-Sportanlage (Kopernikusstr.) - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan 0212 Brand- und Bevölkerungsschutz, Rettungsdienst - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Unterkunft für Geflüchtete Boltensternstr. 10a, 50735 Köln-Riehl hier: Einbau von Etagenküchen und Erhöhung der Waschkapazitäten - ungeändert beschlossen
+- TOP 10.2: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP 10.3: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - zurückgestellt
+- TOP 10.4: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 10.5: Bedarfsfeststellungs- und Baubeschluss Deutzer Brücke zur grundhaften Erneuerung von Brückenbelägen auf der Südseite - ohne Votum behandelt
+- TOP 10.6: Ergänzung des Stadtbahnvertrags vom 03.09./09.09.1991 zur Übertragung der Federführung für den Ausbau zusätzlicher Haltestellen im Rahmen des Projektes Kapazitätserhöhung auf den Linien 4, 13 und 18 - ungeändert beschlossen
+- TOP 10.7: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), - ungeändert beschlossen
+- TOP 10.8: Stadtklima und Stadtverschönerungsprogramm 2024 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 10.9: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.10: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VFJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2025, 2026 und 2027 - ohne Votum behandelt
+- TOP 10.11: 17 "Ausbildungs-Universitäten" für die Fachkräfte von morgen - Leitbild, Handlungsfelder und Maßnahmenideen für die Berufskolleglandschaft Köln 2035 - Schulentwicklungsplanung für die städtischen Berufskollegs Teil 1 - zurückgestellt
+- TOP 10.12: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 10.13: Bau- und Mittelfreigabebeschluss für die Weiterführung des Rheinboulevards zwischen Hohenzollernbrücke und Tanzbrunnen auf Basis der Entwurfsplanung - zurückgestellt
+- TOP 10.14: Unterstützung Standortwechsel Film- und Medienstiftung NRW - ohne Votum behandelt
+- TOP 10.15: Feststellung des Jahresabschlusses zum 31.08.2022 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.16: Grundsteuerreform: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2025 und Beschluss über die Hebesatzsatzung - zurückgestellt
+- TOP 10.16.1: Bei der Umsetzung der Grundsteuerreform Klagewelle wegen differenzierter Hebesätze vermeiden und Aufkommensneutralität bei einem einheitlichen Hebesatz sicherstellen - zurückgestellt
+- TOP 10.17: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2025 - ungeändert beschlossen
+- TOP 10.18: Planungsaufnahme und Baubeschluss zur Erstellung eines Modulbaus für Unterrichtszwecke und einer Einfachturnhalle in Modulbauweise für das Gymnasium Kartäuserwall 40, 50676 Köln (Altstadt-Süd) - ungeändert beschlossen
+- TOP 10.19: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2025 - ungeändert beschlossen
+- TOP 10.20: Weiterentwicklung der Berichterstattung kommunaler Unternehmen vor dem Hintergrund der Umsetzung der Corporate Sustainability Reporting Directive (CSRD) - ungeändert beschlossen
+- TOP 10.21: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2024/25, Sicherung des Interimsspielbetriebs (Interim VI) - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 11.1: Stadtbahn Bonn-Niederkassel-Köln - ungeändert beschlossen
+- TOP 11.2: Generalinstandsetzung Mönchsgasse - ungeändert beschlossen
+- TOP 12: Mündliche Anfragen
