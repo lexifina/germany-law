@@ -1,0 +1,114 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-11-13T17:00:00+01:00
+- Ende: 2024-11-13T22:31:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5235
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5235
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Musikschule Neukölln - beantwortet
+- TOP 1.2: Privates Car-Sharing - beantwortet
+- TOP 1.3: Auswirkungen von Flüchtlingscontainern Sangerhauser Weg - beantwortet
+- TOP 1.4: Flüchtlingscontainer Sangerhauser Weg - beantwortet
+- TOP 1.5: Sangerhauser Weg Bebauungsplan - beantwortet
+- TOP 1.6: Kiezblock und Parkzone - schriftlich beantwortet
+- TOP 1.7: Umweltschutz - schriftlich beantwortet
+- TOP 1.8: Bebauung des Sangerhauser Wegs mit Gemeinschaftsünterkünften für Geflüchtete - beantwortet
+- TOP 1.9: Erbbaupachtsiedlungen in Berlin-Neukölln (Neuland III/IV) - beantwortet
+- TOP 1.10: Straßenführung Parkplatz Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.11: Erbauheimstätten Neuland - Zweitbebauung - Vergabe - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde "Polizei unterstützen, nicht diffamieren" - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: Drs.: 1592/XXI - Gegen jeden Antisemitismus - auch auf dem Fußballplatz! - ohne Änderungen in der BVV beschlossen
+- TOP 3.2: Drs.: 1593/XXI - Zielvereinbarung zur gesamtstädtischen Steuerung der Sauberkeit und Ordnung im öffentlichen Raum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Drs.: 1594/XXI - Wahl einer/eines Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Drs.: 1595/XXI - Wahl einer/eines stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Drs.: 1596/XXI - Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Drs.: 1597/XXI - Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Sicherung der Freizeiteinrichtungen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Solidarität mit den Betroffenen von rechtem Terror - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Gegen jeden Antisemitismus - auch auf dem Fußballplatz! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Zielvereinbarung zur gesamtstädtischen Steuerung der Sauberkeit und Ordnung im öffentlichen Raum - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Anmeldung von Gebietskulissen für eine Förderung aus dem Städtebauförderprogramm Nachhaltige Erneuerung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Fortschreibung des Integrierten Friedhofsentwicklungskonzepts für die Evangelischen Friedhöfe an der Hermannstraße („IFEK Hermannstraße 2.0“) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl einer/eines Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 9.2: Wahl einer/eines stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 9.3: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Ordnung - gewählt
+- TOP 9.4: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Ordnung - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Stadtplanerische Vorgaben für die Einrichtung von Obdachlosenunterkünften - beantwortet
+- TOP 10.2: Täuschungsversuch durch Philip Morris? - beantwortet
+- TOP 10.3: Zukunft der Kältebusse ungewiss? - beantwortet
+- TOP 10.4: Plant das Bezirksamt die Einstellung der Schulwegbeförderung gemäß Sonderpädagogikverordnung? - beantwortet
+- TOP 10.5: Amtshilfe für das Bezirksamt Reinickendorf - beantwortet
+- TOP 10.6: Kernsanierung Villa Alt-Buckow 37 - beantwortet
+- TOP 10.7: Bedrohung von Einsatzkräften des Ordnungsamtes - beantwortet
+- TOP 10.8: Nachbesetzung der Leitung der Musikschule Neukölln - schriftlich beantwortet
+- TOP 10.9: Ausschreibung des Betriebs der Rathaus-Kantine - schriftlich beantwortet
+- TOP 10.10: Vermehrte Pilzinfektionen in Neuköllner Friseurläden - schriftlich beantwortet
+- TOP 10.11: Das Park-Chaos rund um den U-Bhf. Rudow - schriftlich beantwortet
+- TOP 10.12: Barrierefreien Zugang zum Rathaus ermöglichen - schriftlich beantwortet
+- TOP 10.13: Finanzierung der Jugendarbeit, Jugendsozialarbeit und Familienförderung in 2025 - schriftlich beantwortet
+- TOP 10.14: Brand im Britzer Garten - schriftlich beantwortet
+- TOP 10.15: Soll die Kepler-Schule ohne ausreichend Unterstützung temporär ausgelagert werden? - schriftlich beantwortet
+- TOP 10.16: Zusammensetzung des Rundes Tischs zum Schutz jüdischen Lebens - schriftlich beantwortet
+- TOP 11: Mitteilungen - erledigt
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Hinter jeder Zahl steckt ein Mensch - Gesundheit in Neukölln weiterdenken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.2: Lärmschutz I: Nächtliches Tempo 30 im Bereich der Kreuzung Fritz-Erler-Allee/Neuköllner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Lärmschutz II: Nächtliches Tempo 30 im Bereich der Kreuzung Neuköllner Straße/Fritz-Erler-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Räumungstitel und Zwangsräumungen erfassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Auswirkung der Schwarz-Roten Haushaltssperre auf Neukölln - beantwortet
+- TOP 13.2: Ausgrenzung statt Integration durch den Bürgermeister und die Integrationsbeauftragte - beantwortet
+- TOP 13.3: Schuld war nur die Technik? Desaster Info-Veranstaltung zur Flüchtlingsunterkunft am Sangerhauser Weg - vertagt
+- TOP 13.4: Endlich Festanstellungen für die Lehrkräfte an Musikschule und VHS? - schriftlich beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Genehmigung der im Haushaltsjahr 2023 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Philip Morris Gelände im Sinne Neuköllns weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Soziale Infrastruktur immer mitdenken! - in der BVV abgelehnt
+- TOP 14.4: Förderzentrum Neukölln - vertagt
+- TOP 14.5: Schulentwicklungsplanung für Neukölln vorlegen - vertagt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bisherige Bilanz von Meldungen und Einsätzen des Neuköllner Ordnungsamtes aufgrund des Nahostkonfliktes - vertagt
+- TOP 15.2: Neue Straßenverkehrsordnung - vertagt
+- TOP 15.3: Wird die soziale Infrastruktur auf den Buckower Feldern auf den letzten Metern zusammengestrichen? - vertagt
+- TOP 15.4: Kinder- und Jugendfreizeiteinrichtungen Alt-Buckow bis Buckower Felder - vertagt
+- TOP 15.5: Internationaler Tag gegen Gewalt an Frauen am 25. November - vertagt
+- TOP 15.6: Klimawandel - Klimaschutz im Bezirksamt Neukölln?! - vertagt
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Defibrillatoren können Leben retten - überwiesen
+- TOP 17.2: Geflüchtetenunterkunft Sangerhauser Weg - überwiesen
+- TOP 17.3: Die ehemalige Brandenburgische Landesfrauenklinik – Gedenken schaffen an einem nicht erinnerten Orte von Verbrechen im Nationalsozialismus - überwiesen
+- TOP 17.4: Schwimmunterricht für Willkommensklassen - überwiesen
+- TOP 17.5: Schulgesundheitsfachkräfte für Neukölln - überwiesen
+- TOP 17.6: Festival 48 Stunden Neukölln - überwiesen
+- TOP 17.7: Fußgänger*innen-Sicherheit entlang der Treptower Straße verbessern! - überwiesen
+- TOP 17.8: Rathaus Kantine erneut ausschreiben - überwiesen
+- TOP 17.9: Fehlende Toiletten in der Umgebung der Hufeisensiedlung - überwiesen
+- TOP 17.10: Endlich Böllerverbot für Silvester aussprechen! - in der BVV abgelehnt
+- TOP 17.11: Mehr Sichtbarkeit von Endometriose - überwiesen
+- TOP 17.12: 80 Jahre Kriegsende würdig im Bezirk gedenken - überwiesen
+- TOP 17.13: Energieeinsparung und Klimaschutz im Bezirksamt Neukölln für 2025/2026 - überwiesen
+- TOP 17.14: Sammelstellen für Einweg-Vapes (Einweg E-Zigaretten) im Bezirk Neukölln schaffen - überwiesen
+- TOP 17.15: Erneuerung Flutlichtanlagen und Hallenbeleuchtungen mit LED mit Nutzung Bundesförderung - überwiesen
+- TOP 17.16: Sanierung Wurfanlage Britz-Süd - überwiesen
