@@ -1,3 +1,3 @@
-# (XXXX)§§ 440 bis 442 (weggefallen)
+# (XXXX) §§ 440 bis 442 (weggefallen)
 
 

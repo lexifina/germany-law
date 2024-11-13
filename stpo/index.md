@@ -716,7 +716,7 @@
 - [§ 437 Besondere Regelungen für das selbständige Einziehungsverfahren](0437.md)
 - [§ 438 Nebenbetroffene am Strafverfahren](0438.md)
 - [§ 439 Der Einziehung gleichstehende Rechtsfolgen](0439.md)
-- [(XXXX)§§ 440 bis 442 (weggefallen)](xxxx-440-bis-442.md)
+- [(XXXX) §§ 440 bis 442 (weggefallen)](xxxx-440-bis-442.md)
 - [§ 443 Vermögensbeschlagnahme](0443.md)
 
 ### Vierter Abschnitt Verfahren bei Festsetzung von Geldbußen gegen juristische Personen und Personenvereinigungen
