@@ -1,0 +1,95 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-11-13T17:00:00+01:00
+- Ende: 2024-11-13T20:44:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6888
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6888
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=526809
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - mit Änderungen in der BVV beschlossen
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 36. Sitzung der BVV am 13.11.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 36. Sitzung der BVV am 13.11.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Fixpunkt erst am Leo und jetzt auch im Schäfersee-Kiez? - beantwortet
+- TOP 3.2: Stadtteilbibliothek Schäfersee in Reinickendorf-Ost // Baustelle // Rekonstruktion - beantwortet
+- TOP 3.3: Fahrradstraße im Waldseeweg - beantwortet
+- TOP 3.4: Nichtumsetzen meiner Einwohneranfragen vom 10.7.2024 und vom 11.9.2024 - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 36. Sitzung der BVV am 13.11.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Einsatz des Fixpunkt e.V. im Schäferseepark - beantwortet
+- TOP 5.2: Sanierung Renée-Sintenis-Grundschule Frohnau - beantwortet
+- TOP 5.3: Selbstbestimmungsgesetz - beantwortet
+- TOP 5.4: Reinickendorf beim Wassertourismus ganz oben? - beantwortet
+- TOP 5.5: Wahltermin für die vorgezogene Bundestagswahl - beantwortet
+- TOP 5.6: Kältehilfe: Appell des BA an private Immobilienbesitzerinnen und Immobilienbesitzer - beantwortet
+- TOP 5.7: Vegetationsrückschnitt 2024/25 - beantwortet
+- TOP 5.8: Reparatur Fahrstuhl im Altbau des Rathauses Reinickendorf - beantwortet
+- TOP 5.9: Bekämpfung von Wohnungsleerstand in Reinickendorf - beantwortet
+- TOP 5.10: Winterquartiere für Obdachlose - schriftlich beantwortet
+- TOP 5.11: Nachnutzung Renault in der Roedernallee - schriftlich beantwortet
+- TOP 5.12: Geburtshilfe in Reinickendorf - schriftlich beantwortet
+- TOP 5.13: Baugrube Märkisches Zentrum - schriftlich beantwortet
+- TOP 5.14: Ersatzpflanzungen Glienicker Straße - schriftlich beantwortet
+- TOP 5.15: Leerstand in der Baseler Straße 27 - schriftlich beantwortet
+- TOP 5.16: Böllerei im Märkischen Zentrum - schriftlich beantwortet
+- TOP 5.17: LKW-Durchfahrtverbot Schildower Str. - schriftlich beantwortet
+- TOP 5.18: Können die Reinickendorfer noch sicher essen? - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Rettungswegsicherung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Halteverbot von Kfz über 3,5 Tonnen vor der Gemeinschaftsschule Campus Hannah-Höch (Grundstufe) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Zufahrt Koca-Sinan-Moschee sanieren und barrierefrei gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Verkehrssicherheit in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Weiterführung der Prüfgruppe "Korruptionsbekämpfung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Bericht über die geplanten, eingewilligten und eingegangenen Verpflichtungen sowie über die daraus resultierenden Vorbindungen gemäß Auflagenbeschluss Nr. 1 zum Haushalt 2024/2025 - 1. Folgebericht 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Bericht über den Flächenverbrauch und Optimierungskonzepte (Gesamtstädtischen Steuerung der Unterbringung der Verwaltung) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Krankenhausreform und deren Auswirkungen auf die Krankenhäuser im Bezirk Reinickendorf - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Resilienzstrategie umsetzen - Resilienz-Tag für Reinickendorf - in der BVV abgelehnt
+- TOP 11.2: Drittes Katheterlabor im Humboldt-Krankenhaus - in der BVV abgelehnt
+- TOP 11.3: X26 dauerhaft in Reinickendorf etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Unsere Senioren verdienen Unterstützung - Einsamkeitsbeauftragtenstelle wieder neu besetzen - in der BVV abgelehnt
+- TOP 11.5: Fuchs-Skulptur für Bad Steben - in der BVV abgelehnt
+- TOP 11.6: Fuchs-Skulptur für Melle - in der BVV abgelehnt
+- TOP 11.7: Einsatz für die Freigabe der Mittel für die Mäckeritzwiesen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittelantrag an die BVV für das Jahr 2024 - vivo-Kulturkirche am See - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittelantrag an die BVV für das Jahr 2024 - Evangelische Luther-Kirchengemeinde Alt-Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittelantrag an die BVV für das Jahr 2024 - Heiligenseer Kanu Club e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Förderverein der Otfried-Preußler-Grundschule e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittelantrag an die BVV für das Jahr 2024 - Beteiligungsfüchse gemeinnützige GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Kajak-Club Nord-West 1925 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Ausstellung des Cartoonisten Axel Hörnig in Reinickendorf unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Fortbestand der Volkshochschule in Reinickendorf (VHS) sichern - erledigt
+- TOP 11.16: Musik- und Volkshochschulangebote sichern - erledigt
+- TOP 11.17: Gedenktafel für Beate Fischer - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Einsatz von Bodycams in Verbundeinsätzen - überwiesen
+- TOP 13.2: Haushaltswirtschaft mit Augenmaß: Soziale Infrastruktur schützen und erhalten - überwiesen
+- TOP 13.3: Umfrage aktueller Sachstand zur Reinigung der Sporthallen - überwiesen
+- TOP 13.4: Sauberkeit schafft Sicherheit: Vierte Mahd für Reinickendorf - überwiesen
+- TOP 13.5: Sanierungsmaßnahme Schmitzweg / Brodersenstraße - überwiesen
+- TOP 13.6: Reinigungsmängel in Sporthallen - überwiesen
+- TOP 13.7: Kastanienbäume erhalten - überwiesen
+- TOP 13.8: Projekt zur Ausbildung von Ehrenamtlichen zu Katastrophenschützer*innen starten - überwiesen
+- TOP 13.9: Inschriften auf den Steinblöcken am historischen Ort Krumpuhler Weg restaurieren - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Schäferseepark I - Beleuchtungssituation im Schäferseepark - Augenmerk Eingangsportal "Am Schäfersee" - überwiesen
+- TOP 14.2: Jetzt die Verlängerung der U8 ermöglichen, das Märkische Viertel vor dem Verkehrschaos schützen - überwiesen
+- TOP 14.3: Schäferseepark II - Verstetigung der "Reinigungsstreife" der BVG im nördlichen Abschnitt der U8 - überwiesen
+- TOP 14.4: Schäferseepark III - Videoaufklärung am Schäferseepark - überwiesen
+- TOP 14.5: BVG-Kundenzentrum - überwiesen
+- TOP 14.6: Ordnungsamts-App optimieren - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
