@@ -1,0 +1,62 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-11-13T17:00:00+01:00
+- Ende: 2024-11-13T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4848
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4848
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Ergebnisse des Berliner Zentrengipfels im Sommer 2024 und Konsequenzen für die Schloßstraße - beantwortet
+- TOP 3.2: Vorbereitung von Bundestagsneuwahlen - beantwortet
+- TOP 3.3: Energie-Museum vor Schließung? - beantwortet
+- TOP 3.4: Trauma-Boxen zum Schutz der Zivilgesellschaft fordern Unfallchirurgen - empfiehlt sich Steglitz-Zehlendorf als Pilotbezirk? - beantwortet
+- TOP 3.5: Was wurde aus dem Beschluss zur Drucksache 0422/VI? - schriftlich beantwortet
+- TOP 3.6: Stehen Menstruationsartikel zur Verfügung? - vertagt
+- TOP 3.7: Verwendung von Geldern für Hitzeanpassungsmaßnahmen - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bildende Kunst im Rathaus Zehlendorf – höchste Zeit für ein Update - in der BVV abgelehnt
+- TOP 4.3: Grauwasserrecycling im Bezirk verbindlich einführen - in der BVV abgelehnt
+- TOP 4.4: Ein zentrales Bezirksamtsarchiv - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Entsorgung des Verpackungsmülls auf Friedhöfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Defekte Trinkbrunnen endlich reparieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Spielplatz in der Straße zum Löwen - in der BVV abgelehnt
+- TOP 4.8: Geländer am Buschgraben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Hildegard-Hamm-Brücher-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Videoüberwachung S-Bahnhof Nikolassee - überwiesen
+- TOP 5.2: Strukturen am Nymphenufer erhalten, Freizeitfreunde Nikolassee retten - überwiesen
+- TOP 5.3: Huckelpiste Zinsweilerweg wieder zu einer Straße machen und Belag dringend erneuern - überwiesen
+- TOP 5.4: Unebener Gehweg vor dem Rathaus Zehlendorf - überwiesen
+- TOP 5.5: Defekte Straßenlaternen in der Riemeisterstraße - überwiesen
+- TOP 5.6: Energie-Museum Berlin erhalten - überwiesen
+- TOP 5.7: Schild "Hanna-Renate-Laurien-Platz" säubern - überwiesen
+- TOP 5.8: Hochbeete in der Paul-Schneider-Straße - überwiesen
+- TOP 5.9: Vorplatz S-Bahnhof Lankwitz - überwiesen
+- TOP 5.10: Keine Ausreden – Begrünung der Fassade am Rathaus Zehlendorf zeitnah umsetzen - überwiesen
+- TOP 5.11: Schloßstraßen-Gipfel initiieren – lokale Wirtschaft stärken! - überwiesen
+- TOP 5.12: Bauarbeiten A115 - überwiesen
+- TOP 5.13: Ein Update für die Wilski- und Waltraudstaße - überwiesen
+- TOP 5.14: Ladestationen auch für Elektrofahrräder - überwiesen
+- TOP 5.15: Laubsauger und -bläser verbieten - für mehr Artenvielfalt und Bodenschutz - überwiesen
+- TOP 5.16: Frauen im Deutschen Widerstand gegen den Nationalsozialismus gedenken - überwiesen
+- TOP 5.17: Schließung des Energie-Museums abwenden - überwiesen
+- TOP 5.18: Barrierefreiheit wiederherstellen – Schildbürgerstreich am Strandbad Wannsee beenden - überwiesen
+- TOP 5.19: Im Winter Öffnung einzelner Schulhöfe für Klein- und Grundschulkinder mit ihren Eltern - überwiesen
+- TOP 5.20: Längere Ampelphase für Fußgänger an der Berliner Straße - überwiesen
+- TOP 5.21: Keine Kürzungen im Steglitz-Zehlendorfer Bezirkshaushalt - überwiesen
+- TOP 5.22: Fassadenbegrünung als Modellprojekt - überwiesen
+- TOP 5.23: Zebrastreifen zum Saaleckplatz und Tempo 30 für die Heinersdorfer Straße - überwiesen
+- TOP 6: Dringende Große Anfragen - erledigt
+- TOP 6.1: S-Bahnhof Zehlendorf abgehängt? - beantwortet
+- TOP 7: Kleine Anfragen - erledigt
+- TOP 7.1: Sachstand Umbau S-Bahnhof Zehlendorf - beantwortet
