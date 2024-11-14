@@ -1,0 +1,110 @@
+# 37. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-14T14:37:00+01:00
+- Ende: 2024-11-14T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29828
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29828
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der FDP-Fraktion betreffend "Kurzarbeit bei Ford" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der SPD-Fraktion betreffend "Köln braucht dringend ein alternatives Nutzungskonzept für das Pascha – Menschenwürdige Unterbringung für wohnungslose und obdachlose Menschen schaffen" - endgültig abgelehnt
+- TOP 3.1.2: Antrag der Fraktion Die Linke betreffend "Ost-West-Achse jetzt beschließen" - zurückgestellt
+- TOP 3.1.3: Antrag der AfD-Fraktion betreffend "Demografischen Wandel in der Verwaltung als Chance nutzen" - endgültig abgelehnt
+- TOP 3.1.4: Antrag der SPD-Fraktion betreffend "Armut bekämpfen, Zusammenhalt fördern: Einführung einer sozialen Folgenabschätzung" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig abgelehnt
+- TOP 3.1.5: Antrag der AfD-Fraktion betreffend "Ausländeramt bei Rückführungen aktiv in die Pflicht nehmen" - endgültig abgelehnt
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Anregung der Bezirksvertretung 3 (Lindenthal) betreffend "Befreiung zur Fällung einer Platane am Bahnhof Belvedere" - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der Fraktion Die Linke betreffend "Abschiebungen und Abschiebehaft" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.11.2024 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion Die Linke betreffend "Zentrale Ausländerbehörde Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.11.2024 - Kenntnis genommen
+- TOP 4.3: Anfrage der Gruppe KLIMA FREUNDE & GUT betreffend "Gelände zwischen Ignystraße und A4 „Garten Müller“" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.11.2024 - Kenntnis genommen
+- TOP 4.4: Anfrage der Fraktionen SPD und Die Linke betreffend "Einstellung des Zuschusses zum JobTicket für die Verwaltungsbeschäftigten der Stadt Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.11.2024 - Kenntnis genommen
+- TOP 4.5: Anfrage der AfD-Fraktion betreffend "Die 10 größten Gewerbesteuerzahler der Stadt Köln 2013 – 2018 -2023" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.11.2024 - Kenntnis genommen
+- TOP 4.6: Anfrage der SPD-Fraktion betreffend "Umgang mit der Liste der Großbauprojekte (3331/2024) – weiß die Stadt, was sie tut?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.11.2024 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4.1: Anregung des Integrationsrates zu einer Resolution "Zukunft sichern: Ausbau und Erhalt der Infrastruktur für Geflüchtete in Köln" - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - geändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP -: Änderungsantrag der Gruppe KLIMA FREUNDE & GUT - endgültig abgelehnt
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2025 - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 KomHVO
+- TOP 7.2.1: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan 0212 Brand- und Bevölkerungsschutz, Rettungsdienst
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die PARTEI - zurückgestellt
+- TOP 10.2: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - zurückgestellt
+- TOP 10.3: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - zurückgestellt
+- TOP -: Änderungsantrag der FDP-Fraktion - zurückgestellt
+- TOP 10.4: Umsetzung von Maßnahmen der Kulturentwicklungsplanung: In Vielfalt durch Vielfalt - Nachhaltige Strukturentwicklung in den städtischen Kulturinstitutionen - ungeändert beschlossen
+- TOP 10.5: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VFJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2025, 2026 und 2027 - ungeändert beschlossen
+- TOP 10.6: Bedarfsfeststellungs- und Baubeschluss Deutzer Brücke zur grundhaften Erneuerung von Brückenbelägen auf der Südseite - ungeändert beschlossen
+- TOP 10.7: 17 "Ausbildungs-Universitäten" für die Fachkräfte von morgen - Leitbild, Handlungsfelder und Maßnahmenideen für die Berufskolleglandschaft Köln 2035 - Schulentwicklungsplanung für die städtischen Berufskollegs Teil 1 - zurückgestellt
+- TOP 10.8: Ergänzung des Stadtbahnvertrags vom 03.09./09.09.1991 zur Übertragung der Federführung für den Ausbau zusätzlicher Haltestellen im Rahmen des Projektes Kapazitätserhöhung auf den Linien 4, 13 und 18 - ungeändert beschlossen
+- TOP 10.9: Zuständigkeitsübertragung der Linie SB 91 für die Streckenabschnitte auf Kölner Gebiet auf den Rhein-Erft-Kreis - ungeändert beschlossen
+- TOP 10.10: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), - ungeändert beschlossen
+- TOP 10.11: Feststellung des Jahresabschlusses zum 31.08.2022 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: Unterstützung Standortwechsel Film- und Medienstiftung NRW - ungeändert beschlossen
+- TOP 10.13: Familie-Ernst-Wendt-Stiftung, hier: Wirtschaftsplan für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 10.14: Grundsteuerreform: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2025 und Beschluss über die Hebesatzsatzung - zurückgestellt
+- TOP 10.15: Abberufung eines Mitglieds der Betriebsleitung des Gürzenich-Orchesters der Stadt Köln - ungeändert beschlossen
+- TOP 10.16: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2025 - ungeändert beschlossen
+- TOP 10.17: Eigenbetriebsähnliche Einrichtung Veranstaltungszentrum der Stadt Köln: Neubau der Bühne am Tanzbrunnen und Erweiterung der Schirme von Frei Otto - - ungeändert beschlossen
+- TOP 10.18: Eigenbetriebsähnliche Einrichtung Veranstaltungszentrum der Stadt Köln - geschäftsführende Betriebsleitung - ungeändert beschlossen
+- TOP 10.19: Weiterentwicklung der Berichterstattung kommunaler Unternehmen vor dem Hintergrund der Umsetzung der Corporate Sustainability Reporting Directive (CSRD) - ungeändert beschlossen
+- TOP 10.20: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2024/25, Sicherung des Interimsspielbetriebs (Interim VI) - geändert beschlossen
+- TOP 10.21: Planungsaufnahme und Baubeschluss zur Erstellung eines Modulbaus für Unterrichtszwecke und einer Einfachturnhalle in Modulbauweise für das Gymnasium Kartäuserwall 40, 50676 Köln (Altstadt-Süd) - ungeändert beschlossen
+- TOP 10.22: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - zurückgestellt
+- TOP 10.23: Neufassung des Vertrages über die Finanzierung der Verbraucherberatungsstelle Köln über die Finanzierung der Verbraucherzentrale Köln und der Verbraucherberatung im Quatier - geändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Beschluss über die Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 68459/02, Arbeitstitel: ICE-Terminal in Köln-Deutz, 3. Änderung (Ottoplatz-Ost) - ungeändert beschlossen
+- TOP 12.2: Beschluss über Anregungen/Stellungnahmen sowie Satzungsbeschluss Bebauungsplanentwurf Nummer 69449/05 Arbeitstitel: "Östlich Reitweg (Campus Deutz der TH Köln)" in Köln-Deutz - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: 294. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 17: Gremienbesetzungen
+- TOP 17.1: Neues stellvertretend beratendes Mitglied im JHA für den Träger RheinFlanke gGmbH - ungeändert beschlossen
+- TOP 17.2: Delegiertenversammlung der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) - zurückgestellt
+- TOP 17.3: Neubenennung der Mitglieder für die Fachausschüsse der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) - zurückgestellt
+- TOP 17.4: Delegiertenversammlung der Deutschen Sektion des RGRE am 10./11. April 2025 Neubesetzung der Sitze im Hauptausschuss und Präsdium der Deutschen Sektion des RGRE - zurückgestellt
+- TOP 17.5: Antrag der FDP-Fraktion betreffend "Benennung eines Ratsmitglieds im Hauptausschuss" - ungeändert beschlossen
+- TOP 17.6: Antrag der FDP-Fraktion betreffend "Benennung eines stimmberechtigten Mitglieds im Ältestenrat" - ungeändert beschlossen
+- TOP 17.7: Antrag der SPD-Fraktion betreffend "Umbesetzung im Unterausschuss Wohnen" - ungeändert beschlossen
+- TOP 17.8: Antrag der Fraktion Volt betreffend "TOP 17 Gremienbesetzung – Gesundheitsausschuss" - ungeändert beschlossen
+- TOP 17.9: Antrag der CDU-Fraktion betreffend "TOP 17 - Gremienbesetzung - Nachbesetzung Sachkundiger Einwohner im Ausschuss für Soziales und Senioren" - ungeändert beschlossen
+- TOP 17.10: Antrag der AfD-Fraktion betreffend "Ausschussumbesetzung" - ungeändert beschlossen
+- TOP 18: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 19: -
