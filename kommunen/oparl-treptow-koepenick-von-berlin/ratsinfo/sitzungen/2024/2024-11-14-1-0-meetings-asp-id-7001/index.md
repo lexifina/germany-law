@@ -1,0 +1,82 @@
+# 29. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2024-11-14T16:30:00+01:00
+- Ende: 2024-11-14T21:59:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7001
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7001
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=438377
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Berufung eines stellvertretenden beratenden Mitglieds des Jugendhilfeausschusses zur Vertretung der freigeistigen Verbände im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-26 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Aufwertung des Volksparks Wuhlheide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Radverkehrsinfrastruktur in der Wilhelminenhofstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Nachhaltige klimagerechte Sanierung der Grünanlage Südostallee / Zum Alten Fenn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Kreuzung Schönefelder Chaussee Ecke Dankmarsteig sicherer gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Baden in der Spree - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Interaktive Gedenkkultur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Barrierefreier Umbau des ampelgeregelten Fußübergangsweges Baumschulenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Grenzwachturm im Schlesischen Busch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Straßenbaumbestand in Treptow-Köpenick vergrößern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Zügige Renaturierung des Sportplatzes "Birkenwäldchen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Schulgrün vor dem Vertrocknen retten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Grillfläche im Landschaftspark Johannisthal attraktiver gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Gemeinwohl-Ökonomie als zentraler Bestandteil der Wirtschaftsförderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Natur erlebbar machen – Picknickgelände errichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Busspur Bahnhof Schöneweide vor Kreuzung einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Öffentliche und behindertengerechte Toilette in Müggelheim nahe Dorfanger errichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Reinigung von Spielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Inklusive Rollstuhlballsportarten für Menschen mit und ohne Handicap im Bezirk anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Baumaßnahmen in der Altstadt Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 9-68 VE ("Alte Gärtnerei") - Entwurf des vorhabenbezogenen Bebauungsplans 9-68 VE - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-68 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Wochenmärkte in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Treptower Hafenfest wiederbeleben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Flüssigbäume für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Parkplätze am Schmollerplatz erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Die Fahrradständer am Bahnhof Grünbergallee wieder einsehbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Aufwertung des Zugangs zum S-Bahnhof Oberspree - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Hitzeschutzkonzept für die Gleisschleife am Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Verkehrskollaps in der Köpenicker Altstadt verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Tempo 30 auf dem Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: BVG-Wartehäuschen nördlich und südlich der Allende-Brücke aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Illegale Autoplakatierung endlich beenden! - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Lebensqualität im Kölner Viertel (I): Vermüllung des Kölner Viertels bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Bezirkshaushaltsrechnung 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Gebärdensprachdolmetschen bei öffentlichen Veranstaltungen gewährleisten - mit Änderungen in der BVV beschlossen
+- TOP 10.15: Ortsteilkonferenz für Köpenick-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Aktion Schichtwechsel im Bezirksamt - mit Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Errichtung einer öffentlichen Toilette neben dem Spielplatz Salvador-Allende-Straße / Uferpromenade – 12559 Berlin - überwiesen
+- TOP 12.2: Pflegevertrag für den Schmollerplatz temporär fortsetzen - überwiesen
+- TOP 12.3: Absage der Senatsverkehrsverwaltung an Bürgerinformation in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Aktionsplan und Bündnis gegen illegale Graffiti - überwiesen
+- TOP 12.5: Schaffung einer Interventions- und Koordinierungsstelle gegen häusliche Gewalt - überwiesen
+- TOP 12.6: Bezirkliches Kinder- und Jugendgremium entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Errichtung einer öffentlichen Toilette neben dem Spielplatz Volkspark Köpenick / Müggelheimer Damm – 12559 Berlin - überwiesen
+- TOP 12.8: Geschwindigkeitskontrollen durch das Ordnungsamt - überwiesen
+- TOP 12.9: Lichtzeichenanlage An der Wuhlheide Ecke Rathenaustraße erhalten - überwiesen
+- TOP 12.10: Unterstützung des Vereins Dampflokfreunde Berlin e. V. in Schöneweide - überwiesen
+- TOP 12.11: Mehr Abfallbehälter für den "Schlossplatz" - überwiesen
+- TOP 12.12: Mehr Mobilitätsmix mit Jelbi im Berliner Südosten - überwiesen
+- TOP 12.13: Einmündung der Lutherstraße auf die Fürstenwalder Allee - überwiesen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Finanzlage bei den Hilfen zur Erziehung im Jugendamt - beantwortet
+- TOP 13.2: Streichung der Investitionen für insgesamt 14 Schulen im Bezirk - beantwortet
