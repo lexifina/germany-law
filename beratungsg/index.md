@@ -15,7 +15,7 @@ Beratung
 - [§ 5 Inhalt der Schwangerschaftskonfliktberatung](0005.md)
 - [§ 6 Durchführung der Schwangerschaftskonfliktberatung](0006.md)
 - [§ 7 Beratungsbescheinigung](0007.md)
-- [§ 8 Schwangerschaftskonfliktberatungsstellen](0008.md)
+- [§ 8 Schwangerschaftskonfliktberatungsstellen; Belästigungsverbot](0008.md)
 - [§ 9 Anerkennung von Schwangerschaftskonfliktberatungsstellen](0009.md)
 - [§ 10 Berichtspflicht und Überprüfung der
 Schwangerschaftskonfliktberatungsstellen](0010.md)
@@ -24,9 +24,8 @@ Schwangerschaftskonfliktberatungsstellen](0010.md)
 ## Abschnitt 3 Vornahme von Schwangerschaftsabbrüchen
 
 - [§ 12 Weigerung](0012.md)
-- [§ 13 Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen](0013.md)
-- [§ 13a Informationen über einen Schwangerschaftsabbruch](0013a.md)
-- [§ 14 Bußgeldvorschriften](0014.md)
+- [§ 13 Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen; Belästigungsverbot](0013.md)
+- [§ 14 Informationen über einen Schwangerschaftsabbruch](0014.md)
 
 ## Abschnitt 4 Bundesstatistik über Schwangerschaftsabbrüche
 
@@ -56,3 +55,11 @@ Schwangerschaftskonfliktberatungsstellen](0010.md)
 - [§ 32 Familiengerichtliches Verfahren](0032.md)
 - [§ 33 Dokumentations- und Berichtspflicht](0033.md)
 - [§ 34 Kostenübernahme](0034.md)
+
+## Abschnitt 7 Bußgeldvorschriften
+
+- [§ 35 Bußgeldvorschriften](0035.md)
+
+## Abschnitt 8 Schlussvorschrift
+
+- [§ 36 Einschränkung eines Grundrechts](0036.md)
