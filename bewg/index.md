@@ -193,8 +193,7 @@ forstwirtschaftlichen Vermögen](0069.md)
 - [§ 123 Ermächtigungen](0123.md)
 - [§ 124 (weggefallen)](0124.md)
 
-### Dritter Abschnitt Vorschriften für die Bewertung von
-Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+### Dritter Abschnitt Vorschriften für die Bewertung von Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 
 #### A. Land- und forstwirtschaftliches Vermögen
