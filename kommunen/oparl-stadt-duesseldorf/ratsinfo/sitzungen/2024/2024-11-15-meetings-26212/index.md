@@ -1,0 +1,60 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-15T14:00:00+01:00
+- Ende: 2024-11-15T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26212
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26212
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00534648.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00534648.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00534648.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 11.10.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - mehrheitlich beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vortrag Bündnis für bezahlbaren Wohnraum Düsseldorf - zur Kenntnis genommen
+- TOP 4.2: Sachstandsbericht zum Citymanagement - zur Kenntnis genommen
+- TOP 4.3: Bebauungsplan-Entwurf Nr. 01/009 - Südlich An der Piwipp - Empfehlung einstimmig beschlossen
+- TOP 4.4: Plan Nr. 01/021 - Am Wehrhahn 1/Neue Oper - Empfehlung mehrheitlich beschlossen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Ersatzneubau für das Empfangsgebäude S-Bahnhof Wehrhahn - zur Kenntnis genommen
+- TOP 4.7: Abschluss des Satzungsverfahrens zum Erlass einer Immobilien- und Standort-gemeinschaft (ISG) im Gebiet der Graf-Adolf-Straße gemäß ISGG NRW - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Ergebnisse Ortstermin Worringer Platz, Mail vom 25.07.2023 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 5.2: Zustand des Clubhauses BV 04 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Fußgänger-Querungshilfe Rotterdamer Straße / Reeser Platz - Anfrage der SPD-Fraktion
+- TOP 7: Anträge
+- TOP 7.1: Pfützenbildung nach Regenfällen auf den Wegen in der Parkanlage zwischen Hans-Böckler-Straße und Rolandstraße - einstimmig beschlossen
+- TOP 7.2: Markierung des Fußgängerüberwegs auf der Abbiegespur Pempelforter Straße in Adlerstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 7.3: Altstadt Pflaster - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.4: Unterflurcontainer an der Moltkestraße 63a in Pempelfort an der Heilig-Geist-Kirche - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.5: Antrag zur Überprüfung der Fahrradabstellmöglichkeiten auf dem Carlsplatz und umliegenden Plätzen - einstimmig beschlossen
+- TOP 7.6: Antrag zur Prüfung der Bereitstellung von Räumlichkeiten für den Düsseldorfer Schachklub 1914/25 e. V. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.7: Antrag zur Prüfung zusätzlicher Fahrradabstellmöglichkeiten auf der Königsallee - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 7.8: Antrag zur Prüfung der Errichtung einer zusätzlichen Haltestelle auf der Marc-Chagall-Straße oder der Tußmannstraße - zurückgezogen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Gefahrenstelle Baustelle Am Wehrhahn, Fußweg vom S-Bahnhof Wehrhahn zur Worringer Straße; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/209/2024 - zur Kenntnis genommen
+- TOP 8.2: Baumpflanzungen auf der Kaiserswerther Straße 5 – 47; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/208/2024 - zur Kenntnis genommen
+- TOP 8.3: Information über den Leerstand Mühlenstraße 11, 13 und Mertensgasse 2a; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/199/2024 - zur Kenntnis genommen
+- TOP 8.4: Konzept zu einer besseren Aufenthaltsmöglichkeit für Jugendliche auf dem Spichernplatz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/132/2024 - zur Kenntnis genommen
+- TOP 8.5: Stellungnahme zu den offenen Fragen aus dem Austausch mit Oberbürgermeister Dr. Keller in der Sitzung der Bezirksvertretung 1 vom 01.03.2024 - zur Kenntnis genommen
+- TOP 8.6: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.7: Einrichtung von Rechtsabbiegepfeilen; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/210/2024 - zur Kenntnis genommen
+- TOP 8.8: Aktueller Planungsstand zu den verkehrlichen Maßnahmen an der Ecke Ulmenstraße / Collenbachstraße bzw. am Spichernplatz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/138/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für die Ausstellung Pegasus Product an nails projectroom e.V. - abweichend beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Inna Rabkina für eine Partizipative Tanzmaßnahme - abweichend beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mosaik e.V. für die Ausrichtung eines Konzerts - mehrheitlich beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für zwei Ausstellungen in Fünfzehnwochen Golzheim - abweichend beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für eine St. Martin Feier im Montessori-Kinderhaus Kaiserswerther Straße - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Marketing GmbH - einstimmig beschlossen
