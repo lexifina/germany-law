@@ -167,7 +167,7 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 | 4.1.9 | synthetischen Kautschuken, | G | E |
 | 4.1.10 | Farbstoffen und Pigmenten sowie von Ausgangsstoffen für Farben und Anstrichmittel, | G | E |
 | 4.1.11 | Tensiden, | G | E |
-| 4.1.12 | Gasen wie Ammoniak, Chlor und Chlorwasserstoff, Fluor und Fluorwasserstoff, Kohlenstoffoxiden, Schwefelverbindungen, Stickstoffoxiden, Wasserstoff, Schwefeldioxid, Phosgen, | G | E |
+| 4.1.12 | Gasen wie Ammoniak, Chlor und Chlorwasserstoff, Fluor und Fluorwasserstoff, Kohlenstoffoxiden, Schwefelverbindungen, Stickstoffoxiden, Wasserstoff (sofern die Herstellung nicht durch die Elektrolyse von Wasser erfolgt), Schwefeldioxid, Phosgen, | G | E |
 | 4.1.13 | Säuren wie Chromsäure, Flusssäure, Phosphorsäure, Salpetersäure, Salzsäure, Schwefelsäure, Oleum, schwefelige Säuren, | G | E |
 | 4.1.14 | Basen wie Ammoniumhydroxid, Kaliumhydroxid, Natriumhydroxid, | G | E |
 | 4.1.15 | Salzen wie Ammoniumchlorid, Kaliumchlorat, Kaliumkarbonat, Natriumkarbonat, Perborat, Silbernitrat, | G | E |
@@ -517,4 +517,7 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 | 10.22.2 | soweit 40 Entgasungen oder mehr je Jahr gemäß TRGS 512 Nummer 5.4.3 durchzuführen sind; | V |  |
 | 10.23 | Anlagen zur Textilveredlung durch Sengen, Thermofixieren, Thermosolieren, Beschichten, Imprägnieren oder Appretieren, einschließlich der zugehörigen Trocknungsanlagen, ausgenommen Anlagen, in denen weniger als 500 Quadratmeter Textilien je Stunde behandelt werden; | V |  |
 | 10.24 | (nicht besetzt) |  |  |
-| 10.25 | Kälteanlagen mit einem Gesamtinhalt an Kältemittel von 3 Tonnen Ammoniak oder mehr. | V |  |
+| 10.25 | Kälteanlagen mit einem Gesamtinhalt an Kältemittel von 3 Tonnen Ammoniak oder mehr; | V |  |
+| 10.26 | Anlagen zur Herstellung von Wasserstoff durch die Elektrolyse von Wasser mit |  |  |
+| 10.26.1 | einer Produktionskapazität von 50 Tonnen Wasserstoff oder mehr je Tag, | G | E |
+| 10.26.2 | einer elektrischen Nennleistung von 5 Megawatt oder mehr, sofern nicht von Nummer 10.26.1 erfasst. | V |  |
