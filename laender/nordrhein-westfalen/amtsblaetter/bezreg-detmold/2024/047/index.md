@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Detmold 2024 Nr. 47 vom 18.11.2024
+
+- Herausgeber: Bezirksregierung Detmold
+- Ausgabe: 2024-11-18 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 47
+- Quelle: https://www.bezreg-detmold.nrw.de/system/files/media/document/file/amtsblatt-47_18.11.2024.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 3 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
