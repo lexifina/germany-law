@@ -1,0 +1,8 @@
+# TOP -: Ersetzungsantrag zu TOP 1.1: Sofortprogramm: Jetzt bezahlbaren Wohnraum schaffen - Sozialpolitische Katastrophe abwenden!
+
+- Sitzung: 14. Sitzung des Unterausschusses Wohnen (2024-11-18)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/410030
+- Ergebnis: ohne Votum behandelt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/189672
