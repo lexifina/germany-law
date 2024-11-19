@@ -1,0 +1,51 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-19T15:00:00+01:00
+- Ende: 2024-11-19T16:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29700
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29700
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage der SPD-Fraktion vom 28.08.2024, AN/1125/2024 betr. Erhalt der Theodor Wonja Michael Bibliothek im Integrationsrat am 03.09.2024 - Kenntnis genommen
+- TOP -: Anfrage zum Thema: Theodor Wonja Michael Bibliothek erhalten
+- TOP 3.2: Beantwortung einer Anfrage AN/1123/2024 "NRW-Landesregierung plant Kürzungen im Programm „Soziale Beratung von Geflüchteten um 63 Prozent – Auswirkungen auf Köln" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion zum Thema "NRW-Landesregierung plant Kürzungen im Programm „Soziale Beratung von Geflüchteten“ um 63 Prozent – Auswirkungen auf Köln"
+- TOP 3.3: Beantwortung einer Anfrage der Fraktion Die Linke zu "Abschiebungen und Abschiebehaft" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Anfrage der Fraktion Die Linke zur "Zentralen Ausländerbehörde Köln" (AN/1333/2024) - Kenntnis genommen
+- TOP 3.5: Beantwortung einer schriftlichen Anfrage des Integrationsratsmitgliedes Babaoglu-Marx aus der Sitzung des Integrationsrates vom 03.09.24 (AN/1126/2024) betreffend "Coron - Kenntnis genommen
+- TOP -: Anfrage von Integrationsratsmitglied Babaoglu-Marx zum Thema "Corona-Maßnahmen"
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage des Fach AK 5 betreffend Informationsvergabe durch Sicherheitspersonal der Ausländerbehörde
+- TOP 5: Mitteilungen
+- TOP 5.1: Bericht zum Antirassismusprojekt der Interkulturellen Zentren mit abschließender Bustour in 2024 - Kenntnis genommen
+- TOP 5.2: 2. Quartalsbericht 2024 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.3: Geschäftsbericht Wohnen in Köln - Fakten, Zahlen und Ergebnisse 2023, Ausblick - Kenntnis genommen
+- TOP 5.4: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.5: Auswertungsbericht zum Modellprojekt: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 5.6: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag des FachAK 4 zur Verbesserung der interkulturellen Öffnung des Senior*innenbereichs in Köln - ungeändert beschlossen
+- TOP -: Stellungnahme zu einem Antrag gem. §3 der GO des Integrationsrates FachAK 4 des Integrationsrates zur Verbesserung der interkulturellen Öffnung des Senior*innenbereichs in Köln vom 12.09.2024 (AN/1305/2024) - Kenntnis genommen
+- TOP 6.2: Antrag des Facharbeitskreises 1 betreffend "Einrichtung einer Arbeitsgruppe zur Überarbeitung der Richtlinie zur Anerkennung und Förderung von Interkulturellen Zentren" - zurückgestellt
+- TOP 6.3: Prüfantrag des Facharbeitskreises 2 zum Haushaltsplanentwurf 2025-26 (3522/2024) betreffend "Zuschuss Mindeststandards - Zuschuss für die freien Träger" - ungeändert beschlossen
+- TOP 6.4: Zusatzantrag betreffend Haushaltsplanentwurf 2025/26 (3522/2024) - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: „Mein Körper – meine Entscheidung“ - Kölner Gleichstellungsaktionsplan zum Thema Reproduktive Rechte und Gesundheit - ungeändert beschlossen
+- TOP 8.2: Weiterführung des Projektes Brückenbauer* - ungeändert beschlossen
+- TOP 8.3: Fortsetzung der Maßnahme "Willkommen und Ankommen in Köln" für Zugewanderte aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 8.4: Beratung des Haushaltsplanentwurfs 2025/26 - Kenntnis genommen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
