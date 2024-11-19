@@ -1,0 +1,6 @@
+# TOP 3.1.: Prioritätenliste der auszubauenden Straßen in dem Zeitraum von 2025 bis 2032
+
+- Sitzung: Bau- und Umweltausschuss (23. Sitzung) (2024-11-19)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/11301
