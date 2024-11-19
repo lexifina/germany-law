@@ -1,0 +1,64 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-19T16:00:00+01:00
+- Ende: 2024-11-19T19:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26429
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26429
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00535701.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00535701.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00535701.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/007/2024 vom 08.10.2024 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Umsetzung stationsbasierter Sharing-Angebote im Rahmen des Sofortprogramms im Stadtbezirk 2 - abweichend beschlossen
+- TOP 4.2: Rethelstraße zwischen Brehmplatz und Hausnummer 55: Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h aus Lärmschutzgründen - mehrheitlich beschlossen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 4.5: Radschlägermarkt an der Metro 1. HJ 2025 - einstimmig beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt- Haushaltsjahr 2024 Stadtbezirk 2 - Liste A Schulen - einstimmig beschlossen
+- TOP 4.7: Bauunterhalt sonstige städtische Einrichtungen 1111105001 52415200 (Liste B) - Übertragung von Restmitteln - abweichend beschlossen
+- TOP 4.8: Ersatzneubau für das Empfangsgebäude S-Bahnhof Wehrhahn - zur Kenntnis genommen
+- TOP 4.9: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Gutenbergschule, Errichtung einer dreizügigen Dependance am Standort Schlüterstraße 18-20 und Gründung des Gymnasiums Heinzelmännchenweg" - Empfehlung einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Markierungen der Parkplätze auf der Nordseite der Faunastraße - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 5.2: Restmittel aus bezirksbezogenen inklusive etwaiger Rückflüsse aus günstigeren Abrechnungen und nicht verausgabten bewilligten Mitteln aus dem Jahr 2024 - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 5.3: Anlegung eines Begehbaren Labyrinths - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.4: Bindung von Restmitteln für die Sanierung und Neugestaltung der Skateranlage im Stadtwerkepark - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Trinkwasserbrunnen für die Wiese vor dem Seniorenzentrum Grafental - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.8: Parkplatzbilanz für den Stadtbezirk 2- Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Parkmarkierungen auf der gesamten Faunastrasse - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Auswirkung des Starkregens im Juli 2021 auf das Starkregenpräventions-Konzept - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.5: Papiercontainer im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Verkehrssicherheit an der Schulhofeinfahrt der Anne-Frank-Realschule an der Dorotheenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Fortschrittsbericht Baustelle Mensa Brehmschule - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Schilder wegen Verbot der Fütterung von Enten und Gänsen - Beschluss der Bezirksvertretung 2, Vorlage BV2/172/2024 - zur Kenntnis genommen
+- TOP 8.2: Baustelle Lichtstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/173/2024 - zur Kenntnis genommen
+- TOP 8.3: Fahrbahnerneuerung Eythstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/212/2024 - zur Kenntnis genommen
+- TOP 8.4: Beseitigung von Schrotträdern - Beschluss der Bezirksvertretung 2, Vorlage BV2/199/2024 - zur Kenntnis genommen
+- TOP 8.5: Fahrradständer vor dem Haus Flurstraße 57 („Kloster“) - Beschluss der Bezirksvertretung 2, Vorlage BV2/170/2024 - zur Kenntnis genommen
+- TOP 8.6: Hoffeldstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/062/2024 - zur Kenntnis genommen
+- TOP 8.7: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - zur Kenntnis genommen
+- TOP 8.8: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 8.9: Bezirksvertretung 2 Sitzungstermine 2. Halbjahr 2025 - zur Kenntnis genommen
