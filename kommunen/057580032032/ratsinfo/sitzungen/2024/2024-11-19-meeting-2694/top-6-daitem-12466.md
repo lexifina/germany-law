@@ -1,0 +1,6 @@
+# TOP 6: Verschiedenes
+
+- Sitzung: Ausschuss für Brandschutz, Bau- und Immobilienmanagement (16. Sitzung) (2024-11-19)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/12466
