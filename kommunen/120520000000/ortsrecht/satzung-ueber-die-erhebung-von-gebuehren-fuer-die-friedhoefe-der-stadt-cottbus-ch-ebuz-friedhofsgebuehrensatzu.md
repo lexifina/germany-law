@@ -1,23 +1,22 @@
 # Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus/Chóśebuz (Friedhofsgebührensatzung) Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalve
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
-- Datum: 2023-11-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/FriedhofsgebA%C2%BChrensatzung-2024_-2.pdf
+- Datum: 2024-11-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://cottbus.de/satzungen/FriedhofsgebA%C2%BChrensatzung-2025-2.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus/Chóśebuz (Friedhofsgebührensatzung)
-Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung und der Einführung der Direktwahl der Landräte sowie zur Änderung sonstiger kommunalrechtlicher Vorschriften vom 18.12.2007 (GVBl Bbg Teil I S. 286 ff), in der jeweils geltenden Fassung, der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Brandenburg in der Fassung der Bekanntmachung vom 31.03.2004 (GVBl. I S. 174), in der jeweils geltenden Fassung, und der Friedhofssatzung der Stadt Cottbus/Chóśebuz vom 26.05.2021, veröffentlicht im Amtsblatt für die Stadt Cottbus/Chóśebuz vom 07.08.2021, hat die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz in ihrer Sitzung am 22.11.2023 folgende Satzung beschlossen:
+Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung und der Einführung der Direktwahl der Landräte sowie zur Änderung sonstiger kommunalrechtlicher Vorschriften vom 18.12.2007 (GVBl Bbg Teil I S. 286 ff), in der jeweils geltenden Fassung, der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Brandenburg in der Fassung der Bekanntmachung vom 31.03.2004 (GVBl. I S. 174), in der jeweils geltenden Fassung, und der Friedhofssatzung der Stadt Cottbus/Chóśebuz vom 26.05.2021, veröffentlicht im Amtsblatt für die Stadt Cottbus/Chóśebuz vom 07.08.2021, hat die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz in ihrer Sitzung am 20.11.2024 folgende Satzung beschlossen:
 § 1 Gegenstand der Gebühren
 (1) Für die Benutzung der städtischen Friedhöfe und ihrer Einrichtungen sowie für die Inanspruchnahme der im Zusammenhang stehenden Leistungen des städtischen Friedhofs- und Bestattungswesens werden Gebühren gemäß nachstehenden Bestimmungen erhoben. Die Stadt Cottbus/Chóśebuz erhebt Benutzungsgebühren und Verwaltungsgebühren.
 (2) Die Höhe der Gebühren richtet sich nach dem nachstehenden Gebührentarif, der Bestandteil dieser Satzung ist.
 § 2 Gebührenschuldner
 (1) Gebührenschuldner ist
-a. wer gemäß § 20 Brandenburgisches Bestattungsgesetz zur Bestattung/Beisetzung verpflichtet ist oder
-b. derjenige, der einen Antrag auf Benutzung der kommunalen Friedhofseinrichtungen zum Zweck der Bestattung/Beisetzung oder auf Verleihung eines unmittelbaren oder mittelbaren Grabnutzungsrechtes oder auf Durchführung sonstiger Leistungen stellt oder
-c. sich zur Übernahme der Kosten verpflichtet hat.
+a. derjenige, der einen Antrag auf Benutzung der kommunalen Friedhofseinrichtungen zum Zweck der Bestattung/Beisetzung oder auf Verleihung eines unmittelbaren oder mittelbaren Grabnutzungsrechtes oder auf Durchführung sonstiger Leistungen stellt oder
+b. sich zur Übernahme der Kosten verpflichtet hat.
 (2) Erwirbt jemand zu Lebzeiten ein Nutzungsrecht an einer Grabstätte, so ist dieser Gebührenschuldner.
 (3) Gebührenschuldner der Verwaltungsgebühr ist, wer die Leistung der Verwaltung beantragt oder wen die Leistung unmittelbar begünstigt.
 (4) Mehrere Gebührenschuldner haften jeweils als Gesamtschuldner.
@@ -58,13 +57,13 @@ Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.1.
 Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.2.
 
 Gebühren
-516,34 € 1.021,00 € 1.274,13 €
-50,97 € 1.337,54 €
-497,65 € 851,15 € 708,78 €
-1.057,62 € 2.115,24 € 1.057,62 €
-42,30 € 84,61 €
+611,32 € 1.150,78 € 1.436,44 €
+57,46 € 1.642,66 €
+591,34 € 992,38 € 868,35 €
+1.167,77 € 2.335,53 € 1.167,77 €
+46,71 € 93,42 €
 
-Gebühren 2
+2
 
 A.3.1.6. A.3.2. A.3.2.1. A.3.3. A.3.3.1. A.3.4. A.3.4.1. A.3.5. A.3.5.1.
 B B.1. B.1.1. B.1.2. B.2. B.2.1. B.2.2. B.3. B.4. B.5. B.6.
@@ -87,81 +86,93 @@ Verstorbene bis zum vollendeten 5. Lebensjahr einschl. Trägerleistung (2 Träge
 Verstorbene ab dem vollendeten 5. Lebensjahr einschl. Trägerleistung (4 Träger)
 Urnenbeisetzung einschl. Trägerleistung
 Urnenumbettung einschl. Trägerleistung
-Träger zur Trauerfeier (4 Träger, je Träger 73,92 €)
+Träger zur Trauerfeier (4 Träger, je Träger 87,32 €)
 Urnenausbettung
 
+Gebühren 46,71 €
+737,15 € 29,49 €
+849,53 € 33,98 € entfällt
+153,96 € 1.239,77 €
+49,59 €
+339,15 € 803,17 €
+485,95 € 892,60 € 168,73 €
+75,93 € 349,28 € 188,98 €
 3
-
-42,30 € 619,94 €
-24,80 € 725,08 €
-29,00 € entfällt 115,82 € 1.090,14 € 43,61 €
-287,11 € 679,92 €
-411,38 € 755,62 € 142,84 €
-64,28 € 295,68 € 159,98 € Gebühren
 
 C C.1. C.1.1.
 C.2. C.3. C.4. C.5.
 D
 E E.1. E.1.1. E.2. F F.1. F.2. F.3. F.4. F.5.
-F.6.
+
+Gebühren
 
 Benutzung sonstiger Friedhofseinrichtungen
-Benutzung Feierhallen: Südfriedhof, Nordfriedhof, Ströbitz/Strobice
+
+Benutzung Feierhallen: Südfriedhof, Nordfriedhof, Ströbitz/Strobice 181,64 €
+
 Benutzung der Feierhallen: Branitz/Rogeńc, Dissenchen/Dešank, Döbbrick/Depsk, Gallinchen/Gołynk, Groß Gaglow/Gogolow, Kahren/Kórjeń, Kiekebusch/Kibuš, Madlow/Módłej, Merzdorf/Žylowk, Saspow/Zaspy, Schlichow/Šlichow, Schmellwitz/Chmjelow, Sielow/Žylow, Skadow/Škódow, Willmersdorf/Rogozno
+
+189,84 €
+
 Benutzung des Harmoniums und Tontechnik
+
+10,66 €
+
 Benutzung des Kranzwagens
+
+65,81 €
+
 Glocke läuten
+
+84,37 €
+
 Gebühr für die Nutzung der Kühlzelle pro angebrochenen Tag
 
-178,25 €
-188,27 € 9,91 €
-55,71 € 71,42 € 11,38 €
+12,77 €
 
 Verwaltungsgebühr zur Errichtung von Grabmalen und sonstigen baulichen Anlagen je Antrag
 
-62,76 €
+65,48 €
 
 Verwaltungsgebühren zur Zulassung zur gewerblichen Tätigkeit
 Zulassungsgebühr nach § 7 der Friedhofssatzung der Stadt Cottbus/Chóśebuz für 3 Jahre
 Verlängerung der Zulassung um weitere 3 Jahre
 einmalige Zulassung für gewerbliche Tätigkeiten
 
-72,42 € 67,59 € 43,45 €
+75,55 € 70,51 € 45,33 €
 
 Verwaltungsgebühren/Urkunden/Anträge
 
 Beisetzungsgenehmigung
 
-19,31 €
+20,15 €
 
 Verleihung eines Nutzungsrechts an einer Parzelle/Erdreihengrabstätte
 
 mit Wahlgrabcharakter
 
-48,28 €
+50,37 €
 
 Verlängerung eines Nutzungsrechts an einer Parzelle/Erdreihengrabstätte
 
 mit Wahlgrabcharakter
 
-38,62 €
+40,29 €
 
 Ausstellung einer Graburkunde für eine Erdreihengrabstätte/ Urnenreihengrabstätte
 
-28,97 €
+30,22 €
 
 Verleihung eines Nutzungsrechts an einer Urnenwahl-/ Urnenfamiliengrabstätte
 
-48,28 €
+50,37 €
 
-Verlängerung eines Nutzungsrechts an einer Urnenwahl-/ 4
+4
 
-Gebühren
-
-F.7. F.8. F.9.
+F.6. F.7. F.8. F.9.
 F.9.1. F.9.2. F.9.2.1. F.10. F.10.1. F.10.2.
 
-Urnenfamiliengrabstätte
+Verlängerung eines Nutzungsrechts an einer Urnenwahl-/ Urnenfamiliengrabstätte
 Umbettung nach außerhalb
 Umbettung innerhalb der Stadt Cottbus/Chóśebuz
 Sonstige genehmigungspflichtige Ausnahmen (Antrag auf Ausbettung vor Ablauf der Ruhefristen von Erd- und Urnenbestattungen)
@@ -172,14 +183,13 @@ Umschreibung eines Nutzungsrechts/einer Graburkunde
 Umschreibung des Nutzungsrechts einschließlich Verlängerung an einer Parzelle/Erdreihengrabstätte mit Wahlgrabcharakter
 Umschreibung des Nutzungsrechts einschließlich Verlängerung an einer Urnenwahl-/Urnenfamiliengrabstätte
 
-38,62 € 50,83 € 28,97 €
-62,76 € 19,31 € 48,28 € 28,97 € 48,28 € 53,11 € 53,11 €
+Gebühren 40,29 € 52,71 € 30,22 €
+65,48 € 20,15 € 50,37 € 30,22 € 50,37 € 55,40 € 55,40 €
 
 § 5 Inkrafttreten
-Die Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus/Chóśebuz (Friedhofsgebührensatzung) tritt am 01.01.2024 in Kraft.
+Die Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus/Chóśebuz (Friedhofsgebührensatzung) tritt am 01.01.2025 in Kraft.
+Cottbus/Chóśebuz, 21.11.2024
 
-Cottbus/Chóśebuz, 24.11.2023
-gez.
 Tobias Schick Oberbürgermeister der Stadt Cottbus/Chóśebuz
 
 5
