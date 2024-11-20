@@ -1,0 +1,55 @@
+# Rat (45. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-11-20T18:00:00+01:00
+- Ende: 2024-11-20T21:20:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaUO5UE2tH2wMOiWWvKR7-c
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5876
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcP6Zurqs9mP4OW5gY9cuj_f1q7Z9UCQnc06FmgP0X9Y/Bekanntmachung_Rat_20.11.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeR0hMRsDMnKzH5FjMZTAJkCkzn3_wZ9sxfJRyxjsiR8/Oeffentliche_Niederschrift_Rat_20.11.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 09.10.2024
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion GAL / Die Linke vom 28.09.2024; "Ausschreibung der Stelle der/des Integrationsbeauftragten"
+- TOP 4.2: Antrag der Fraktion pro:Bürgerschaft vom 09.10.2024; "Verbesserung der Lebensqualität der Menschen im Bögehold-Südfeld" - Einstimmig, 0 Enthaltungen
+- TOP 4.2.1: Antrag der Fraktion pro:Bürgerschaft vom 09.10.2024; "Verbesserung der Lebensqualität der Menschen im Bögehold-Südfeld"
+- TOP 5.: Budgetbericht für das III. Quartal 2024
+- TOP 6.: Einbringung des Haushalts 2025 - Einstimmig, 0 Enthaltungen
+- TOP 7.: 1. Satzung über die Festsetzung der Steuersätze für die Grundsteuern der Stadt Gronau (Westf.) im Haushaltsjahr 2025 vom 14.10.2024 - 12 Jastimmen, 19 Neinstimmen, 11 Enthaltungen
+- TOP 7.1: 1. Satzung über die Festsetzung der Steuersätze für die Grundsteuern der Stadt Gronau (Westf.) im Haushaltsjahr 2025 vom 14.10.2024 - Antrag der CDU Fraktion
+- TOP 8.: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW - Einstimmig, 9 Enthaltungen
+- TOP 9.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2025 II. Abwassergebührenkalkulation für das Jahr 2025 III. Erlass einer Änderungssatzung zur Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - 40 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 10.: ISEK für das Germania-Quartier und den Gemeindepark im Stadtteil Epe 1. Vorstellung des Stands der Bearbeitung und der nächsten Schritte durch das bearbeitende Büro WoltersPartner 2. Schaffung der Voraussetzungen für die Beantragung der Aufnahme in das Städtebauförderungsprogramm des Landes NRW - Einstimmig, 1 Enthaltungen
+- TOP 10.1: ISEK für das Germania-Quartier und den Gemeindepark im Stadtteil Epe Präsentation des Büros WoltersPartner und Anregungen aus der Bürgerschaft
+- TOP 10.2: ISEK für das Germania-Quartier und den Gemeindepark im Stadtteil Epe Rechtliche Stellungnahme der Kanzlei Baumeister, Münster, zu der Zulässigkeit eines Gradierwerks in einem festgesetzten Überschwemmungsgebiet Aktenvermerk zum Gradierwerk Kevelaer
+- TOP 10.3: ISEK für das Germania-Quartier und den Gemeindepark im Stadtteil Epe 1. Vorstellung eines Rahmenplans für den Gemeindepark und das Germania-Areal im Vorgriff auf das Maßnahmenkonzept des ISEK 2. Antrag der WEG-Fraktion vom 05.11.2024
+- TOP 11.: Erarbeitung eines Integrierten städtebaulichen Entwickskonzeptes (ISEK) für die Innenstadt von Gronau hier: Abgrenzung des Maßnahmengebietes und Vorbereitung Vergabe an einen externen Dienstleister - Einstimmig, 0 Enthaltungen
+- TOP 11.1: Erarbeitung eines Integrierten städtebaulichen Entwicklungskonzeptes (ISEK) für die Innenstadt von Gronau hier: Antrag der WEG-Fraktion vom 05.11.2024
+- TOP 11.2: Erarbeitung eines Integrierten städtebaulichen Entwicklungskonzeptes (ISEK) für die Innenstadt von Gronau Ergänzende Begründung der WEG-Fraktion zu dem Antrag vom 05.11.2024 zur Erarbeitung eines gesamtstädtischen Entwicklungskonzepts
+- TOP 12.: Innenstadtentwicklung Gronau Ergebnisse des Realisierungswettbewerbs zur Errichtung eines Gesundheitszentrums
+- TOP 13.: 104. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Sportgebiet Eper Bülten", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 7. Planbeschluss - Einstimmig, 2 Enthaltungen
+- TOP 14.: 6. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Südlich der Zollstraße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der Wiederholung der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der Wiederholung der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 7. Planbeschluss - 36 Jastimmen, 3 Neinstimmen, 2 Enthaltungen
+- TOP 15.: Aufstellungsbeschluss des Bebauungsplans Nr. 217 „Bösinghof“ 1. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 52 „Wohnquartier Innenstadt-West", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der Wiederholung der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der Wiederholung der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 7. Satzungsbeschluss - 38 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Verlängerung des Projektes "Plan G"
+- TOP 18.: Sachstand zur Flüchtlingssituation (Stand November 2024)
+- TOP 19.: Organisatorische Veränderungen im Bereich Digitalisierung
+- TOP 20.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreter/innen in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 21.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Bezahlkarte für Geflüchtete
+- TOP 22.2: Verzicht auf Wahlleitung für die Kommunalwahlen 2025
+- TOP 22.3: Beginn letzte Ratssitzung des Jahres
+- TOP 23.: Anfragen
+- TOP 23.1: Fahrradbügel am Sportplatz im Eper Park (Anfrage von RM Doetkotte)
+- TOP 23.2: Livestreaming von Ratssitzungen (Anfrage von RM Hüsing-Hackfort)
+- TOP 23.3: Fahrradbügel am Reitweg am Drilandsee (Anfrage von RM Buchholz)
