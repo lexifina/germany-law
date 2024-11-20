@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-11-20T19:00:00+01:00
+- Ende: 2024-11-20T20:53:00+01:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22105
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22105
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00340597.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00341044.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Schließfächer für Obdachlose - Bericht der Verwaltung
+- TOP 4: Kooperation Elberfeld 2030: Vorstellung und Bericht des Projektmanagements
+- TOP 5: Integrierte Städtebauliche Entwicklungskonzepte (ISEKs) - Veränderung der Höhe der akquirierbaren Fördermittel und Konkretisierung der Fördererwartung - ungeändert beschlossen
+- TOP 6: Bürgerantrag gem. § 24 GO NRW: Versetzung der Poller Friedrichstraße/Willy-Brandt-Platz - ungeändert beschlossen
+- TOP 7: Bürgerantrag gem. § 24 GO NRW: Aufhebung Einbahnstraße Schlossbleiche - vertagen
+- TOP 8: Bürgerantrag gem. § 24 GO NRW: Gehwegparken Hombüchel - geändert beschlossen
+- TOP 8.1: Ergänzungsantrag der SPD Fraktion zu VO/1123/24 - Bürgerantrag gem § 24 GO NRW: Gehwegparken Hombüchel - geändert beschlossen
+- TOP 9: Veranstaltung "Wintergrillen" auf dem Helene-Weber-Platz am 04.12.2024 - ungeändert beschlossen
+- TOP 10: Auswahl des Veranstalters für die Organisation und Durchführung der Weihnachtsmärkte in Wuppertal-Elberfeld und Wuppertal-Barmen für die Jahre 2025 - 2029 - vertagen
+- TOP 11: Umwidmung der Erholungsstraße zur Fußgängerzone - ungeändert beschlossen
+- TOP 12: Straßen- und Wegekonzept für den Stadtbezirk Elberfeld - ungeändert beschlossen
+- TOP 13: Digitaler Straßenhierarchieplan - ungeändert beschlossen
+- TOP 14: Aufgabe einer kommunalen Sportstätte - Sportplatz Friedrichsberg - ungeändert beschlossen
+- TOP 15: Erneuerung des Kunstrasenbelages auf der Bezirkssportanlage Am Freudenberg - ungeändert beschlossen
+- TOP 16: Abschluss der Sanierungsarbeiten im Außengelände der Station Natur und Umwelt: Bau der Wuppitzhöhle mit Wuppitzgarten - ungeändert beschlossen
+- TOP 17: Verbesserungen für die Nahmobilität auf der Briller Straße - ungeändert beschlossen
+- TOP 18: Bedarfsplan für Betreuungsangebote für Kinder bis zur Einschulung (Tageseinrichtungen für Kinder und Kindertagespflege) - 9. Fortschreibung - Entgegennahme ohne Beschluss
+- TOP 19: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 20: Anträge
+- TOP 20.1: Erweiterung der Behindertenparkplätze am Wall vor der Bäckerei Dahlmann - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 20.2: Kontrolle des Abstellens von Mülltonnen auf der Neumarktstraße - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 21: Große Anfragen
+- TOP 21.1: Evaluation des einmonatigen Versuchs zur Verbesserung der Aufenthaltsqualität in der Elberfelder Innenstadt - Große Anfrage der Fraktion Linkes Bündnis Wuppertal - Entgegennahme ohne Beschluss
+- TOP 21.1.1: Bericht über die Verbesserung der Aufenthaltsqualität in der Elberfelder Innenstadt - Entgegennahme ohne Beschluss
+- TOP 21.2: Große Anfrage Wohnungsbau Elberfeld - Entgegennahme ohne Beschluss
+- TOP 21.2.1: Große Anfrage zum Wohnungsbau der Fraktion Linkes Bündnis Wuppertal in der BV Elberfeld - Entgegennahme ohne Beschluss
+- TOP 21.3: Zustand und Investitionsbedarf für die Zufahrt zur Nordbahntrasse über die Straße Unterer Dorrenberg - Große Anfrage der SPD Fraktion - Entgegennahme ohne Beschluss
+- TOP 21.3.1: Antwort auf "Große Anfrage Zufahrt zur Nordbahntrasse über die Straße Unterer Dorrenberg" - Entgegennahme ohne Beschluss
+- TOP 22: Freie Mittel
+- TOP 22.1: Antrag des Kunst- und Kulturzentrums LOCH gUG
+- TOP 22.2: Antrag der Alten Feuerwache gGmbH
+- TOP 22.3: Antrag des Projekts "MITWIRKECK"
+- TOP 23: Verteilung der GFG Mittel
+- TOP 23.1: Verwendung der GFG Mittel - Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/Die Grünen und CDU - ungeändert beschlossen
