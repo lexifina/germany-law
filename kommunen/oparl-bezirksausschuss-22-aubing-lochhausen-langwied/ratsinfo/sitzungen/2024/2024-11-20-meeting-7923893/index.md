@@ -1,0 +1,140 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2024-11-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7923893
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7923893
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 1.5.1.: Vorstellung der Ansprechpartner*innen des Landesbunds für Vogelschutz mit der Gebietsbetreuung für die naturschutzfachlich wertvollen Bereiche im 22. Stadtbezirk
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Pflanzen von Obst- und Nussbäumen
+- TOP 2.1.2.: Rettet unseren Verein; Verein benötigt Hilfe, OG München West e.V.
+- TOP 2.1.3.: Zugang zur S-Bahn Neuaubing verbessern
+- TOP 2.1.4.: Sportplatzsuche Sportverein
+- TOP 2.1.5.: Sichtbehinderung durch Hecken Kronwinklerstraße
+- TOP 2.1.6.: Parkprobleme in der Radolfzeller Straße
+- TOP 2.1.7.: Kurve Wiesentfelser Str. / Ende Grünband: Kleidercontainer verdeckt Sicht auf Autos
+- TOP 2.1.8.: Baumrückschnitt
+- TOP 2.1.9.: Verkehrsfläche Henschelstraße 21-27
+- TOP 2.1.10.: Verkehrssituation in Freiham
+- TOP 2.1.11.: Freiham Fußgängerzone wird missachtet
+- TOP 2.1.12.: (N) - Wegeschaden Negrellistraße
+- TOP 2.1.13.: (N) - Laub beseitigen
+- TOP 2.1.14.: (N) - Parkbänke frisch lackieren
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Aubinger Str. 145 - Ravensburger Ring 5 - Ravensburger Ring 4 - Aubing-Ost-Str. 95 - Altostr. 99 - Schwojerstr. 30 a - Schwojerstr. 30 - Freienfelsstr. 11 - Ravensburger Ring 65 - Wiesentfelser Str. 16 - Gilchinger Str. 4 - Wildenrother Str. 15 - Hoheneckstr. 32 - Aubinger Str. 130 - Germeringer Str. 250 - Erlbachstr. 1 - Limesstr. 10 (N) - Riesenburgstr. 60 (N) - Ostermoosstr. 17
+- TOP 3.1.2.: Baumfällungsbescheid: - Kleiberweg 23, Schr. Planungsreferat vom 16.10.24 - Eschenrieder Str. 25, Schr. Planungsreferat vom 29.10.24 - Erlbachstr. 45, Schr. Planungsreferat vom 31.10.24 - Dilsberger Str. 6, Schr. Planungsreferat vom 04.11.24
+- TOP 4.: Anträge
+- TOP 4.1.: Sanierung des ehemaligen NS-Zwangsarbeiterlagers Neuaubing - Beschilderung an den S-Bahnhöfen Neuaubing und Freiham sowie Wegweisung zum Erinnerungsort (Interfraktioneller Antrag)
+- TOP 4.2.: Verbesserung der Situation für Menschen mit Behinderung durch Abbau von Barrieren (Interfraktioneller Antrag)
+- TOP 4.3.: Junge Menschen fördern - Sporteinheiten in Form des Hood Trainingskonzeptes im 22. Stadtbezirk ausweiten (Arning)
+- TOP 4.4.: Aufzug S-Bahnhof Langwied (Spannagl, Kriesel, Stockmann, Weber)
+- TOP 4.5.: Klarheit schaffen über das Grundwasser in Aubing-Lochhausen-Langwied (Kriesel, Stockmann, Spannagl, Weber)
+- TOP 4.6.: Modernisierung des S-Bahnhofs Lochhausen - Die Historie nicht vergessen (Kriesel, Stockmann, Götz-Schubach, Spannagl)
+- TOP 4.7.: Maßnahmen Limesunterführung (Interfraktioneller Antrag)
+- TOP 4.8.: Verkehrssicherheit auf der Eichenauer Straße/ Ecke Gotzmannstraße (Siegfried Liedl)
+- TOP 4.9.: Helle Limesunterführung ohne Werbetafeln (Interfraktioneller Antrag)
+- TOP 4.10.: Sicherheitsmaßnahmen am Hörweg im Bereich der archäologischen Grabungen (Bündnis 90/ Die Grünen)
+- TOP 4.11.: Start des Parkraummanagements Freiham (Bündnis 90/ Die Grünen)
+- TOP 4.12.: S4 als Opfer der neuen S5? (Bündnis 90/ Die Grünen)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Bund-Länder-Städtebauförderungsprogramm „Sozialer Zusammenhalt“ Sanierungsgebiet Aubing - Neuaubing - Westkreuz Aufwertung der öffentlichen Grünflächen am Wasserturmgelände sowie Öffnung und Aufwertung des Schulsportgeländes an der Weißensteinstraße im 22. Stadtbezirk Projektkosten (Kostenobergrenze): 1.800.000 Euro 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 5.2.: (E) Stadtbezirksbudget Würmchen e.V. Erneuerung der Kindergartenstühle und -tische ab 22.11.2024 4.159,40 Euro, Az.: 0262.0-22-0271
+- TOP 5.3.: (E) Stadtbezirksbudget Feierwerk e.V. Boom-Nachwuchsmusikförderung vom 16.11.2024 - 15.02.2025 1.870,00 Euro, Az.: 0262.0-22-0270
+- TOP 5.4.: (E) Stadtbezirksbudget Haus für Kinder Aubinger Lohe - JUL gGmbH Naturerlebnistag für Vorschüler am 16. bzw. 25.01.2025 155,00 Euro, Az.: 0262.0-22-0272
+- TOP 5.5.: (E) Stadtbezirksbudget MunichWays Schulwegsicherheit - Auf besseren Radrouten zur Schule vom 15.10. - 31.12.2024 1.033,49 Euro, Az.: 0262.0-22-0269
+- TOP 5.6.: (E) Hohe Lärmbelastung durch Ballsport
+- TOP 5.7.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté von April - November 2025 8.938,00 Euro, Az.: 0262.0-22-0273
+- TOP 5.8.: (E) Tempo 30 für die Aubinger Allee während der Bauphase
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung einer Veranstaltung in der Grünanlage Freiham Folly (Marie-Luise-Jahn-Str.), Martinszug und Andacht am 08.11.24 von 17.00-19.00 Uhr, Anhörung KVR vom 30.10.24 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Glücksspielhallen und Wettbüros in Neuaubing - Hotspot im Stadtbezirk verhindern!, Schr. KVR vom 01.10.24
+- TOP 6.2.2.2.: Das Angebot Feierwerk-Boom in Freiham stärken, Schr. Sozialreferat vom 14.10.24
+- TOP 6.2.2.3.: (N) - Nachbarschaft gestalten, Stadtteil entwickeln - Lochhausen braucht eine Übergangslösung für die noch fehlende integrierte Einrichtung, Schr. Sozialreferat vom 07.11.24
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Parkraummanagement in München - Umsetzung Sektor VI, Teil 2, Beschlussvorlage für Vollversammlung am 18.12.24, Anhörung Mobilitätsreferat vom 20.09.24
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnung, hier: - Wiedehopfweg, Anpassung Haltverbote, Anhörung Mobilitätsreferat vom 25.10.24 (N) - Christel-Sembach-Krone-Straße, Südseite, ggü. Hs-Nr. 10, Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung Mobilitätsreferat vom 19.11.24
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Halteverbot Ecke Giech- und Ehrenbürgstraße, Schr. Mobilitätsreferat vom 22.10.24 und Bürgerschr. vom 22.10.24
+- TOP 6.3.2.2.: Ertüchtigung vorhandener Fahrradstraßen in München, Schr. Mobilitätsreferat vom 16.10.24
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnung, hier: - Golo-Mann-Weg/ Fahrradstraße - Ergänzung Zeichen 239 StVO; Helmut-Schmidt-Allee, Nordseite, zwischen Golo-Mann-Weg (Fahrradstraße) und Aubinger Allee Gehweg "Radfahrer frei", Schr. Mobilitätsreferat vom 24.10.24 - Hörweg, Einrichtung eines Verkehrshelferüberganges, Schr. Mobilitätsreferat vom 06.11.24 (N) - Fabrikstraße, Anordnung eines Haltverbots, Schr. Mobilitätsreferat vom 07.11.24
+- TOP 6.3.2.4.: Anliegerinformation Sanierung Feldmeierbogen vom 04.11.-06.12.24, Schr. Baureferat vom 18.10.24
+- TOP 6.3.2.5.: Barrierefreier Ausbau von Bushaltestellen, hier: Waidachanger, Haltestelle Dorfkern Langwied vom 24.09.-29.11.24, Schr. Baureferat vom 20.09.24
+- TOP 6.3.2.6.: (N) - Verbesserungsvorschläge Verkehr im 22. Stadtbezirk, Schr. PI 45 vom 23.10.24 und Schr. Baureferat vom 11.11.24
+- TOP 6.3.2.7.: S 3 München, Parken Schussenrieder Str., Schr. PI 45 vom 14.10.24
+- TOP 6.3.2.8.: Baumaßnahmen der Stadtwerke München, Stichtag: 08.10.-22.10.24
+- TOP 6.3.2.9.: Anfrage: Öffnung der privaten Bahnstraße zwischen Bergsonstraße - Rupert-Bodner-Straße, Schr. Mobilitätsreferat vom 23.10.24
+- TOP 6.3.2.10.: Ampelanlage Bodenseestraße - Fußgängerüberweg (westlich) fehlt, Schr. Mobilitätsreferat vom 29.10.24
+- TOP 6.3.2.11.: Nutzung der asphaltierten Fläche in der Anton-Böck-Straße, Schr. Kommunalreferat vom 28.10.24
+- TOP 6.3.2.12.: Arbeiten im Straßenraum; Kohlmeisenstr. 20 bis Eichelhäher Str., Verlegung der Stromleitung, Verlängerung vom 09.09.-13.12.24, Schr. Mobilitätsreferat vom 06.11.24
+- TOP 6.3.2.13.: Auswirkungen der geplanten Busbetriebshöfe/ Busabstellanlagen, Schr. Mobilitätsreferat vom 16.09.24
+- TOP 6.3.2.14.: (N) - Buslinien in Lochhausen, Schr. MVG vom 07.11.24
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Federseestr., Flst. 679/8-Langwied, Neubau eines Einfamilienhauses mit Doppelgarage, Anhörung Planungsreferat vom 21.10.24
+- TOP 6.4.1.2.: Altostr. 64, Umbau und Sanierung eines ehemaligen Bauernhauses zu einer KBO-Einrichtung im Bereich Wohnen und Appartments, Anhörung Planungsreferat vom 05.11.24
+- TOP 6.4.1.3.: (N) - Bodenseestr. 290, Neubau zweier Mehrfamilienhäuser mit insgesamt 14 Wohneinheiten und einer Tiefgarage mit 14 Stellplätzen, Anhörung Planungsreferat vom 11.11.24
+- TOP 6.4.1.4.: (N) - Heuglinstr. 34, Neubau von vier Reihenhäusern mit vier Stellplätzen, Anhörung Planungsreferat vom 12.11.24
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauanträge im 22. Stadtbezirk: 07.10.-13.10.24, 14.10.-20.10.24, 21.10.-27.10.24, 28.10.-03.11.24, (N) - 04.11.-10.11.24
+- TOP 6.4.2.2.: Hochwasser Osterangerstraße, Schr. Münchner Stadtentwässerung vom 10.10.24
+- TOP 6.4.2.3.: Vergrämung von Saatkrähen zur Verhinderung von Schäden, Schr. Ref. f. Klima- und Umweltschutz vom 10.10.24
+- TOP 6.4.2.4.: Lärmbelästigung Friedhof Aubing, Schr. Sozialreferat vom 16.10.24
+- TOP 6.4.2.5.: Glas- und Kunstoffcontainer an der Gotzmann Schule, Schr. AWM vom 16.10.24
+- TOP 6.4.2.6.: Reparatur des Brunnens am Friedhof Lochhausen, Schr. Städt. Friedhöfe vom 21.10.24
+- TOP 6.4.2.7.: Müllabfuhr Bodenseestraße, Schr. AWM vom 25.10.24
+- TOP 6.4.2.8.: Grundwasserdrainage Estinger Straße, Schr. Ref. f. Klima- und Umwelt vom 28.10.24
+- TOP 6.4.2.9.: Böllerverbot an Silvester, Schr. KVR vom 04.11.24
+- TOP 6.4.2.10.: (N) - Aufklärung über Brand- und Explosionsgefahren von Lithium-Ionen-Batterien und -Akkus sowie deren sachgerechte Entsorgung, Unterstützung der Kampagne: "Brennpunkt Batterie", Schr. Kommunalreferat vom 04.11.24
+- TOP 6.4.2.11.: (N) - Anfrage: Stand Ökokonten im 22. Stadtbezirk, Schr. Planungsreferat vom 07.11.24
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung Gaststättenbetrieb, hier: - Schank- und Speisewirtschaft "Sushi & Wok", Ranertstr. 5, Schr. KVR vom 22.10.24 - Schank- und Speisewirtschaft "Eichen Schlössl", Ranertstr. 1, Schr. KVR vom 05.11.24 (N) - Schank- und Speisewirtschaft "Piccola Locanda", Altenburgstr. 35, Schr. KVR vom 11.11.24
+- TOP 8.2.: Informationsveranstaltung "Umgang mit neuer StVO", Unterlagen zur Veranstaltung, Schr. 2. Bürgermeister vom 31.10.24
+- TOP 8.3.: Infoschreiben, Voraussetzungen einer ordnungsgemäßen Ladung / Beschlussfähigkeit des Bezirksausschusses, Schr. Direktorium vom 30.10.24
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 02.10.24 - Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 9.1.1: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 9.1.2: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2024 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 9.2.: Kreisverwaltungsausschuss vom 26.11.24 - Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München, sowie Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LH München
+- TOP 9.3.: Gemeinsamer Bildungsausschuss und Bauausschuss vom 06.11.24 - Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 9.4.: Ausschuss für Stadtplanung und Bauordnung vom 06.11.24 - Finanzbedarf des Referates für Stadtplanung und Bauordnung; Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes für die Städtebauliche Entwicklung an der Eichenauer Straße
+- TOP 9.4.1: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 9.5.: Bauausschuss vom 05.11.24 - Bebauungsplan mit Grünordnung Nr. 2068 Siedlungsschwerpunkt Freiham Freiham Nord - 1. Realisierungsabschnitt 5. Straßenendausbaupaket: Annemarie-Renger-Straße, Roman-Herzog-Straße und Albert-Camus-Straße im 22. Stadtbezirk Aubing - Lochhausen - Langwied Umsetzung des Eckdatenbeschlusses 2025 (BAU-002) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2024 - 2028
+- TOP 9.5.1: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 9.6.: Vollversammlung vom 23.10.24 - Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: Stadtweite Lösung für das Abstellen von E-Scootern, Antrag des BA 20 vom 14.10.24
+- TOP 10.2.: Aufruf des BA 6 - Sendling "Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!", Schr. BA-Süd vom 09.10.24
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 11.12.24 um 19.00 Uhr im Campus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 11.11.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 12.11.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 13.11.24, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 14.11.24, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.15.: (N) - Offener Brief an den Oberbürgermeister "Barrierefreiheit S4 Halt Aubing"
+- TOP 6.1.1.2.: (N) - Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund, hier: Mahatma-Ghandi-Platz, ZAM Eröffnung am 28.11.24 von 7.00-20.00 Uhr, Anhörung KVR vom 13.11.24
+- TOP 6.3.2.15.: (N) - Maßnahmen zur Verkehrsentlastung der Vestastraße, Schr. Mobilitätsreferat vom 11.11.24
+- TOP 6.3.2.16.: (N) - Errichtung von Parkplätzen in der Bodenseestraße, Schr. Kommunalreferat vom 12.11.24
+- TOP 6.4.1.5.: (N) - Sanierungsgebiet Aubing – Neuaubing – Westkreuz, Entwicklungsperspektive Bodenseestraße 253 - 281, Beschlussvorlage Ausschuss für Stadtplanung und Bauausschuss vom 04.12.24, Anhörung Planungsreferat vom 14.11.24
+- TOP 9.7.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
