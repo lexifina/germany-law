@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 8. Sitzung des Rechnungsprüfungsausschusses (2024-11-20)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2024-RPA-38%7Czt_0%7C2
