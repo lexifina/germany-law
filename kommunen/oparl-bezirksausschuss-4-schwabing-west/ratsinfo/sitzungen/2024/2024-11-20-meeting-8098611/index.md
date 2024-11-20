@@ -1,0 +1,131 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8098611
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8098611
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.1.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Belgradstraße 81, Genehmigung des Nutzer*innenbedarfsprogramms (Anhörung zum Beschlussentwurf)
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat des Gisela-Gymnasiums München Anschaffung einer Tuba 2.679,00 Euro, Az.: 0262.0-4-0535
+- TOP 3.2.1.: Verein für Internationale Jugendarbeit für ein Teamwochenende für ehrenamtliche Mitarbeiter*innen des ClubIn vom 05. bis 07.07.2024
+- TOP 3.2.2.: Elternbeirat der Grundschule an der Infanteriestraße für die Streitschlichterausbildung vom 11.04.2024 – 13.06.2024
+- TOP 3.2.3.: „Evocations of Noor“ im März 2024
+- TOP 3.2.4.: Modellprojekt 27 e.V. für die Anschaffung einer Tischtennisplatte für den Integrativen Jugendtreff MOP
+- TOP 3.2.5.: Casa empower gGmbH für ein Antidiskriminierungstraining vom 29.01. bis 26.07.2024
+- TOP 3.3.1.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 3.3.2.: (U) München offen und solidarisch
+- TOP 3.4.1.: Demokratiemobil Evaluation Tour 2024 und Abfrage 2025
+- TOP 3.4.2.: Unterstützung der Bezirksausschüsse durch die Abteilung Koordination für Psychiatrie und Suchthilfe
+- TOP 2.1.: Rümannstr. 60: Neubau eines Wohngebäudes mit 56 geförderten Wohnungen in Holzmodulbauweise als Parkplatzüberbauung mit Mobilitätskonzept
+- TOP 2.2.: Rümannstr. 60: Neubau eines Wohngebäudes mit 56 geförderten Wohnungen in Holzmodulbauweise als Parkplatzüberbauung mit Mobilitätskonzept - TEILBAUGENEHMIGUNG: Fällung bestehender Bäume, Entfernung der Oberfläche des Bestandsparkplatzes, Baustelleneinrichtung, Errichtung Baumschutzzäune, Kranstellung Turmdrehkran, Fundament-Erdung, Aushub für Fundamente, Bau der Grundleitungen, Errichtung der Einzelfundamente und Stahlbetonstützen, Errichtung der Gründung inkl. Bodenplatte und Perimentärdämmung, Auffüllung der Baugrube
+- TOP 2.3.: Infanteriestr. 11a: Haus E, Umbau Dachgeschoss Ost zu Büros ÄNDERUNGSANTRAG zu 1.1-2020-21079-22 – Stellplatznachweis
+- TOP 2.4.: Infanteriestr. 11a: Umbau Pavillon IV mit Hochschulnutzung und Tiefgarage ÄNDERUNGSANTRAG zu 1.1-2023-9622-22 – Stellplatznachweis
+- TOP 2.5.: Infanteriestr. 11a: Neubau Pavillon V für Hochschulnutzung mit Kantine ÄNDERUNGSANTRAG zu 1.1-2017-26408-22 - Änderung der Raumaufteilung Gastronomie im Untergeschoss
+- TOP 2.6.: Konradstr. 10: Nachverdichtung durch Rückwertige Bebauung in Form von Einzimmer-Appartements als Überbauung der bestehenden Stellplatzflächen – VORBESCHEID
+- TOP 2.7.: Destouchesstr. 83: Anbau einer erdgeschossigen Wohnung, zwei Erkern sowie zwei Gauben an ein best. Gebäude
+- TOP 2.8.: Bauerstr. 33: Aufstockung eines Bestandsgebäudes, Anbau von Balkonen, Anbau eines Fassadenaufzugs, Umnutzung Laden zu gewerblichen Wohnen
+- TOP 2.9.: Hohenzollernstr. 46: Speicherausbau zu einer Wohnung, Ertüchtigung des 2.Rettungsweges durch Feuerleitern sowie Anbau eines Aufzugs (RGB) - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.2.1.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 3.2.2.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 3.3.1.: Erstantragsverfahren KW 41 bis KW 43, Vorbescheide KW 41, Tektur KW 43
+- TOP 0.1.: Vorstellung der Radlvorrangkarte durch einen Vertreter von MunichWays
+- TOP 1.1.: Bürger: Erneuerung der Radwegmarkierung im Bereich Bonner Platz
+- TOP 1.2.: Bürgerin: Fußgängerampeln Simmernstraße/Rheinstraße und Rheinstraße/Mainzer Straße
+- TOP 2.1.: Zusätzliche Fahrradstellplätze für die Schauburg BA-Antrag Nr. 20-26 / B 06624 (Anhörung zur Antwort des Baureferats auf neuen Vorschlag des BA, vgl. TOP D 2.3 09/24)
+- TOP 2.2.: (E) Aufhebung der Einbahnstraßenregelung für den Radverkehr in der Adelheidstraße
+- TOP 2.3.: (E) Kontrollen am Radwegen
+- TOP 3.3.1.: Verlegung einer Gasleitung Scheidplatz (Ecke Belgradstraße/Parzivalstraße) und James-Loeb-Straße – 2. Verlängerung (16.10.2024 bis 08.11.2024)
+- TOP 3.3.2.: Baumaßnahmen der SWM vom 08.10.2024 bis 04.11.2024
+- TOP 3.4.1.: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-)Raums (Sitzungsvorlagen Nr. 20-26 / V 11904)
+- TOP 3.4.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 3.5.1.: Abweichungen vom Regelfahrplan aufgrund erforderlicher Schienenbearbeitungen auf verschiedenen Abschnitten im U-Bahnnetz ab ca. 22:30 Uhr bis Betriebsschluss im Zeitraum vom 13.10.2024 bis 05.12.2024
+- TOP 0.1.: Vorstellung des Konzepts für 2025 durch die Organisator*innen des Mobilitätswendecamps
+- TOP 1.1.: Bürger: Baumpflanzungen in der Viktor-Scheffel-Str.
+- TOP 1.2.: Bürger/-in: Verschmutzung Mildred-Scheel-Bogen/ Isoldenstr./ Rümannstr.
+- TOP 3.1.1.: Installation in Grünstreifen der Ansprenger-/Ecke Destouchesstraße (Antwort der Bezirksinspektion und des Baureferats; vgl. TOP A 3 03/24 und TOP A 3.2 06/24)
+- TOP 3.1.2.: Personenleitsystem Karl-Theodor-Str. 84 (Antwort der Bezirksinspektion und Polizei; vgl. TOP E 1.3 24/09 und TOP A 3.1 24/10)
+- TOP 3.2.1.: Genehmigung zur Fällung der drei Robinien Nr. 37-39 und Ablehnung der Fällung der drei Robinien Nr. 40-42 in der Schleißheimer Str. 183a - 183c
+- TOP 3.4.1.: Grünanlage am Scheidplatz: Verlängerung der Ausnahmegenehmigung vom 16.10.2024 zur Benutzung für Baustelleneinrichtung und Fußgängerumleitung bis 10.11.2024
+- TOP 3.4.2.: Interfraktioneller Antrag: Stadtweite Lösung für das Abstellen von E-Scootern (BA-Antrag Nr. 20-26/ 07115 des BA 20 Hadern)
+- TOP 2.1.1.: (E) Stadtbezirksbudget Empfangshalle Jahresgaben vom 05. - 29.12.2024 2.090,00 Euro, Az.: 0262.0-4-0540
+- TOP 2.1.2.: (E) Stadtbezirksbudget Kulturraum München e.V. Gästekino im Monopol Kino 24.01. -31.12.2025 6.000,00 Euro, Az.: 0262.0-4-0541
+- TOP 2.1.3.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté von April - November 2025 8.938,00 Euro, Az.: 0262.0-4-0542
+- TOP 2.2.1.: „Geisha - Pan Asia & Sushi Bar" Hohenzollernstr. 43: Genehmigung einer Freischankfläche (Nachholung des BA-Beschlusses von 2020 wegen Corona)
+- TOP 2.3.1.: (E) Stadtbezirksbudget Svapinga Consort e.V. Neujahrskonzert vom 16. - 19.01.2025 4.271,00 Euro, Az.: 0262.0-4-0539
+- TOP 3.2.1.: Kastner-Delphine GbR für das Theaterprojekt „Ich legte mich dem Publikum zu Füßen – Eine deutsch-französische Geschichte“ vom 09. bis 30.06.2024
+- TOP 3.2.2.: Community Kitchen gGmbH für das Bildungs- und Kunstprojekt „Tetrap-Act-on-foodwaste“ vom 27.06. bis 31.07.2024
+- TOP 3.3.1.: Fernsehproduktion "All In" am Kurfürstenpl. 2 bis 8 (ausschließlich Gehwegbereich) am 01.11.2024
+- TOP 3.4.1.: Ausschank von Getränken und/oder Abgabe von zubereiteten Speisen in einer Sauna „Schwabinger Men Sauna“, Düsseldorferstr. 7
+- TOP 3.5.1.: Genehmigungsbescheid für die Mini-Ausstellung des RKU zur kommunalen Wärmeplanung am Hohenzollernplatz vom 04.-11.11.2024
+- TOP 3.6.1.: Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL) sowie Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS –) (Sitzungsvorlage Nr. 20-26 / V 14763)
+- TOP G.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP F: Kultur und Wirtschaft
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
