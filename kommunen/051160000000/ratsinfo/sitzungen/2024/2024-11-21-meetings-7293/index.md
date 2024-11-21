@@ -1,0 +1,52 @@
+# Ausschuss für Umwelt und Mobilität
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2024-11-21T15:00:00+01:00
+- Ende: 2024-11-21T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/229
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7293
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7293
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00242151.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00242151.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00242151.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 21. Sitzung des AUM vom 19.09.2024 - öffentlicher Teil - Niederschrift ohne Einwendung
+- TOP 2: Bestellung einer Schriftführerin und eines stellvertretenden Schriftführers für die Sitzungen des Ausschusses für Umwelt und Mobilität - Einstimmiger Beschluss
+- TOP 3: Beratung des Entwurfs des Haushaltes 2025/2026; hier: fachausschussbezogene Ansätze - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Beratung des Entwurfs des Haushaltes 2025/2026; Hier: gemeinsamer Fraktionsantrag von SPD, GRÜNE und FDP vom 12.11.2024 - Mit Stimmenmehrheit beschlossen
+- TOP 3.2: Beratung des Entwurfs des Haushaltes 2025/2026 - Vom Antragsteller zurückgezogen
+- TOP 3.3: Haushaltsantrag: Ausbau Radwegenetz - Ohne Abstimmung
+- TOP 3.4: Beratung des Entwurfs des Haushaltes 2025/2026 KOS - Mit Stimmenmehrheit abgelehnt
+- TOP 3.5: Beratung des Entwurfs des Haushaltes 2025/2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Gesamtstädtisches integriertes Energiekonzept Mönchengladbach inklusive kommunaler Wärmeplanung - Einstimmiger Beschluss
+- TOP 5: Umgestaltung Brandtsgarten - Einstimmiger Beschluss
+- TOP 6: Bericht zu Boden- und Grundwasserverunreinigungen mit Chrom VI in Odenkirchen - Zur Kenntnis genommen
+- TOP 7: Bericht zur Grundwasserbelastung mit PFAS in Giesenkirchen - Zur Kenntnis genommen
+- TOP 8: Sachstandsbericht Braunkohle - Einstimmiger Beschluss
+- TOP 9: Umgesetzte Renaturierungsmaßnahmen am Knippertzbach - Zur Kenntnis genommen
+- TOP 10: Knotenpunktumbau Myllendonker Straße - Ueddinger Straße - Einstimmiger Beschluss
+- TOP 11: Prüfauftrag zur Vorlagen-Nr. 2602/X (Verbesserung für den Fuß- und Radverkehr auf der Gelderner Straße, Poststraße, Rossweide und Hochstadenstraße) - Einstimmiger Beschluss
+- TOP 11.1: Fraktionsantrag der CDU-Ratsfraktion zu Berichtsvorlage Nr. 3346/X: Prüfauftrag zur Vorlagen-Nr. 2602/X (Verbesserung für den Fuß- und Radverkehr auf der Gelderner Straße, Poststraße, Rossweide und Hochstadenstraße) - Einstimmiger Beschluss
+- TOP 12: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend – Aufwertung von Wohnstraßen (Waldhausener Str., Kaiserstr., Oskar-Kühlen-Str./Friedrichstr.) - Der Fachausschuss wurde angehört
+- TOP 13: Erschließungsplanung zum Bebauungsplan Nr. 794/N "Maria Hilf Terrassen" - Der Fachausschuss wurde angehört
+- TOP 14: Monitoring Rheindahlen - Gewerbegebiet Hamburgring - Zur Kenntnis genommen
+- TOP 15: Ausbau E-Ladeinfrastruktur für Privathaushalte im öffentlichen Raum - Zur Kenntnis genommen
+- TOP 16: Erarbeitung eines Parkraumkonzepts für die Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 16.1: Änderungsantrag zum Beschlussentwurf 3591/X „Erarbeitung eines Parkraumkonzepts für die Stadt Mönchengladbach“ - Vom Antragsteller zurückgezogen
+- TOP 17: Maßnahmen aus dem Lärmaktionsplan: Fußgängerüberweg Kleinenbroicher Straße - Einstimmiger Beschluss
+- TOP 18: Maßnahmen aus dem Lärmaktionsplan: Querungshilfe Hehnerholt - Einstimmiger Beschluss
+- TOP 19: Maßnahmen aus dem Lärmaktionsplan: Querungshilfe Mennrather Straße - In den nächsten Ratszug geschoben
+- TOP 20: Umgestaltung Dahlener Straße zwischen Hubertusstraße und Feldstraße - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 20.1: Beratungsvorlage Nr. 3540/X: Umgestaltung Dahlener Straße zwischen Hubertusstraße und Feldstraße - Ohne Abstimmung
+- TOP 21: Erweiterung Radstation Rheydt Hauptbahnhof - Mit Stimmenmehrheit beschlossen
+- TOP 22: Rahmenplanung Quartier Bettrather Straße: Zustand Bäume Franziskanerstraße und Evaluation Bewohnerparken im Quartier Am Wasserturm inkl. Betrachtung Ludwig-Weber-Straße - Kenntnisnahme
+- TOP 23: Monitoring Protected Bike Lane Hohenzollernstraße - Kenntnisnahme
+- TOP 24: Von EinkaufsSTRAßE zu StadtQUARTIER - Die Zukunft der Hindenburgstraße: Umbau Viersener/Steinmetzstraße zur Bustrasse - Einstimmiger Beschluss
+- TOP 25: Nachtfahrverbot für Mähroboter - Mit Stimmenmehrheit beschlossen
+- TOP 26: Parksituation Engelblecker Straße - Einrichtung von Stellplätzen - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Anfragen und Mitteilungen
