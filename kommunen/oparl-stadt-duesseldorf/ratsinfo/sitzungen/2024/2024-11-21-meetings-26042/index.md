@@ -1,0 +1,97 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-21T14:10:00+01:00
+- Ende: 2024-11-21T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26042
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26042
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 21.11.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00536564.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 21.11.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00536564.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 21.11.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00536564.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 27.06.2024 (SI-RAT/004/2024) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion DIE LINKE: Vermeidbare Ausgaben für gleichzeitige Planung eines Opernneubaus Am Wehrhahn und an der Heinrich-Heine-Allee - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Übersicht der gesamtstädtischen Beteiligung der Bürger*innen in Düsseldorf - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion DIE LINKE: Bauruinen der Signa GmbH in Düsseldorf - beantwortet
+- TOP 4.4: Anfrage der SPD-Ratsfraktion: „Sonderbudgets“ des Oberbürgermeisters im Haushalt 2025 - beantwortet
+- TOP 4.5: Anfrage der SPD-Ratsfraktion: Wie geht es bei der Bergischen Kaserne weiter? - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Sanierungsquote bei privaten Gebäuden gestiegen? - beantwortet
+- TOP 4.7: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Energieeinsparung in der Krise – Welche Maßnahmen haben wieviel gebracht? - schriftlich beantwortet
+- TOP 4.8: Anfrage der AfD-Ratsfraktion: Baulicher Zustand der Düsseldorfer Rheinbrücken, insbesondere der Theodor-Heuss- Brücke - schriftlich beantwortet
+- TOP 4.9: Anfrage der AfD-Ratsfraktion: Situation der Düsseldorfer Tafeln - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfrau Vorspel: Bauleitplanung, Verkehrskonzept und Baumschutz zur Open-Air-Fläche an der Messe - schriftlich beantwortet
+- TOP 4.11: Anfrage der Ratsfrau Dr. Proschmann: Nutzbarkeit Radweg Rheinuferpromenade und Burgplatz - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Born: Auswirkungen der geplanten Mittelstreichungen der NRW-Landesregierung auf Düsseldorf - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Jörres: Unterhaltsvorschuss für Ukrainer - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Kraljic: „House of Friends“ - schriftlich beantwortet
+- TOP 4.15: Anfrage der Ratsfrau Kraljic: Nachtzählung vom Oktober 2023 von Menschen mit Lebensmittelpunkt Straße - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 7: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 10: Bewerbung der Landeshauptstadt Düsseldorf für die UEFA Women's EURO 2029 - mehrheitlich beschlossen
+- TOP 11: Umsetzung des strategischen Ausbau des SAP-Systems in der zentralen Verwaltung sowie der Führungs- und Steuerungsebene - einstimmig beschlossen
+- TOP 12: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung der Beihilfesachbearbeitung - einstimmig beschlossen
+- TOP 13: Digitalisierungsoffensive 2.0: Bereitstellung von zusätzlichen finanziellen Mitteln zur Umsetzung von Digitalisierungsprojekten in der Landeshauptstadt Düsseldorf für 2025 - mehrheitlich beschlossen
+- TOP 14: Gebührenkalkulation Abfall für 2025 - mehrheitlich beschlossen
+- TOP 15: 35. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (Abfallgebührensatzung) - mehrheitlich beschlossen
+- TOP 16: 15. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landehauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 17: Gebührenkalkulation Straßenreinigung für 2025 - mehrheitlich beschlossen
+- TOP 18: 39. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 19: Aufhebung der Entgeltordnung für Sonderleistungen zur Entsorgung von Abfällen aus privaten Haushaltungen in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 20: Bebauungsplan-Entwurf Nr. 01/022 - Uerdinger Straße 67 - mehrheitlich beschlossen
+- TOP 21: Erarbeitung von Sozialen Erhaltungssatzungen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 21.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage APS/091/2024/1 - mehrheitlich abgelehnt
+- TOP 22: Rotterdamer Str. 141, Stadthalle – Brandschutzsanierungsmaßnahmen - Änderungsbeschluss - - einstimmig beschlossen
+- TOP 23: Rotterdamer Str. 141, Stadthalle – Instandhaltungsmaßnahmen und Ersatzbeschaffungen - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 24: Aufhebung der Wettbürosteuersatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 25: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Finanzierung von Hilfen zur Erziehung - mehrheitlich beschlossen
+- TOP 26: Zielkonzept Stadtbahn/Straßenbahn - mehrheitlich beschlossen
+- TOP 27: Barrierefreier Umbau des DB-Bahnhofs Düsseldorf Gerresheim - Variantenentscheidung - abweichend beschlossen
+- TOP 28: Änderungen der Taxenordnung und Taxentarifordnung - mehrheitlich beschlossen
+- TOP 29: Bestellung eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 30: Änderung der Rechnungsprüfungsordnung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 31: Änderung der Entgeltordnung für die Entleerung, Reinigung und Kontrolle von Fettabscheideranlagen zum Schutz der öffentlichen Abwasserbeseitigung in der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 32: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 33: Aufsichtsrat der Stadtwerke Düsseldorf AG - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 34: Aufsichtsrat der Neue Schauspiel – Gesellschaft mit beschränkter Haftung - Ersatzwahl - mehrheitlich beschlossen
+- TOP 35: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 36: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 37: Mitgliederversammlung des Vereins Digitale Stadt Düsseldorf -Ersatzbestellungen- - einstimmig beschlossen
+- TOP 38: Wahl eines Delegierten in die Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Ruhr-Wupper e.V. - mehrheitlich beschlossen
+- TOP 39: 66. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 40: Anträge
+- TOP 40.1: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Treibhausgasbilanzen für Kantinenessen - mehrheitlich abgelehnt
+- TOP 40.2: Antrag der Ratsfraktionen von Die PARTEI-Klima-Fraktion, SPD und DIE LINKE: Corneliusplatz autofrei
+- TOP 40.2.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/292/2024 - zurückgezogen
+- TOP 40.2.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/292/2024
+- TOP 40.2.3: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/292/2024 - mehrheitlich beschlossen
+- TOP 40.3: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Audimax mit Fruhtrunk-Fassade retten! - verwiesen
+- TOP 40.4: Antrag der SPD-Ratsfraktion: Sektoraler Bebauungsplan – Preisregulierter Wohnungsbau auch im unbeplanten Innenbereich - zurückgezogen
+- TOP 40.4.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/314/2024
+- TOP 40.4.2: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS90/ DIE GRÜNEN und SPD zur Vorlage RAT/314/2024
+- TOP 40.5: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Planungsgewinne und Kosten bei Angebotsbebauungsplänen - zurückgezogen
+- TOP 40.6: Antrag der SPD-Ratsfraktion: Unterstützung für das vielfältige ehrenamtliche Engagement in unserer Stadt durch Installation von Stromanschlüssen
+- TOP 40.6.1: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD zur Vorlage RAT/315/2024 - mehrheitlich beschlossen
+- TOP 40.7: Antrag der AfD-Ratsfraktion: Aufgabe des Worringer Platzes als Kunststandort - mehrheitlich abgelehnt
+- TOP 40.8: Antrag der AfD-Ratsfraktion: Änderungen der Fahrpläne, Fahrtstrecken und der Fahrzeugbereitstellung der Rheinbahn - mehrheitlich abgelehnt
+- TOP 40.9: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Vielfalt beim Angebot pflanzenbasierter Gerichte sicherstellen
+- TOP 40.9.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/268/2024 - mehrheitlich beschlossen
+- TOP 40.10: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Energetische Sanierung und Erneuerung der Wagenbauhalle Merowingerstraße 86-88 - einstimmig beschlossen
+- TOP 40.11: Antrag der FDP-Ratsfraktion: Dynamischer Strompreis an E-Ladesäulen - zurückgezogen
+- TOP 40.12: Antrag der Ratsfraktionen DIE LINKE und Die PARTEI-Klima-Fraktion: Satzungsänderung - Bürgerbegehren und Bürgerentscheide auch an Wahlterminen - zurückgestellt
+- TOP 40.13: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Oper der Zukunft – Jury breiter aufstellen - abweichend beschlossen
+- TOP 40.14: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Mit Klimaschutz & Naturschutz den Haushalt entlasten - Nachtabschaltung von Gaslaternen - mehrheitlich abgelehnt
+- TOP 40.15: Antrag der SPD-Ratsfraktion: Kultur- und Bürger*innenhäuser stärken - Bürger*innen mitnehmen - einstimmig beschlossen
+- TOP 40.16: Antrag der AfD-Ratsfraktion: Ausweitung der Videoüberwachung an besonders gefährdeten Plätzen - mehrheitlich abgelehnt
+- TOP 41: Aufsichtsrat der Holding der Landeshauptstadt Düsseldorf GmbH - Ersatzwahl - - mehrheitlich beschlossen
