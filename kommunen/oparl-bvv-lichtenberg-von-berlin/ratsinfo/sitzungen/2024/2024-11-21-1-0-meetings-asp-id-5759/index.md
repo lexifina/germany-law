@@ -1,0 +1,81 @@
+# 36. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-11-21T17:00:00+01:00
+- Ende: 2024-11-21T22:00:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5759
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5759
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=410550
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Schneller Bauen durch Bürger*innenbeteiligung an Bau- und Planungsvorhaben - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Planungssicherheit für Lichtenberg: Revision der Haushaltsrichtlinien - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Bezirkshaushaltsrechnung 2023 - überwiesen
+- TOP 5.3: Lichtenberger Kindertagesstättenentwicklungsplan 2024 - überwiesen
+- TOP 5.4: Vorschläge zum Bürgerhaushalt, hier: Beschlussempfehlungen des Begleitgremiums III. Quartal 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Sitzungstermine der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2026 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Zoom dich ins Bezirksamt: Digitale Sprechstunden für Lichtenberger*innen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Wir lieben Gärten – Gärten am EDEKA in der Rheinsteinstraße vor illegalem Wildpinkeln schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Keine Attestpflicht für veganes Schulmittagessen - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Entbürokratisierung für das Ehrenamt - Keine Schankgebühren auf dem Lichtermarkt - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Belastung des öffentlichen Raumes gering halten - nicht noch mehr Einschränkungen für Friedrichsfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Schaffung von Haltebuchten am Bahnhof Ostkreuz - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Ring-Tower für Lichtenberg - Planungsrechtliche Zukunft des Ring-Center III - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Gesunde Arbeitsbedingungen für das Gesundheitsamt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Leerstehende Wohnhäuser in der Andernacher Straße/Ecke Königswinterstraße und Ehrenfels-straße/Ecke Loreleystraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Leben statt Überleben – Sicherung einer gerechten und nachhaltigen Integration Geflüchteter durch soziale Infrastruktur und finanzielle Ausgleiche - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Fußgängerverbindung am Tierpark-Bistro - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Park nach Libertas Schulze-Boysen benennen - überwiesen
+- TOP 5.18: Rahmenplan Karlshorst/Ost zur Beschlussfassung vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: B.L.O.-Ateliers jetzt konkret unterstützen! - überwiesen
+- TOP 5.20: Eine Initiative für Radwege auf denen man gerne unterwegs ist - überwiesen
+- TOP 5.21: Mehr Kultur erleben – Kulturelle Teilhabe für Menschen mit geringem Einkommen in Neu-Hohenschönhausen und Fennpfuhl stärken - überwiesen
+- TOP 5.22: Insektenfreundliche Bepflanzung statt Trampelpfad in Hohenschönhausen - überwiesen
+- TOP 5.23: Information zum Kunstwerk Ruhendes Paar im Krummen Pfuhl - überwiesen
+- TOP 5.24: Standorte für weitere Dialogdisplays prüfen - überwiesen
+- TOP 5.25: Tempo-30 in der Waldowstraße sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Filterung und Regenrückhaltebecken des Ruschegrabens - überwiesen
+- TOP 5.27: Resolution: Für eine bedarfsgerechte und gesetzeskonforme Versorgung bei Schwangerschaftsabbrüchen im Bezirk - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - erledigt
+- TOP 8.1: Wahl eines Bezirksamtsmitglieds - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 9.1: Panchina Rossa - eine rote Parkbank als Mahnmal für Femizide und Gewalt an Frauen - überwiesen
+- TOP 9.2: Erhalt von Kleingärten in Karlshorst - überwiesen
+- TOP 9.3: Gefährliche Situationen beim Überqueren der Dorfstraße mit Hilfe einer Bedarfsampel vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Grundschule an der Schleizer Straße sichern - überwiesen
+- TOP 9.5: Ferdinand-Schultze-Straße 71 für eine Schulerweiterung der Grundschule Schleizer Straße sichern - überwiesen
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Leistungen von Wohnungsbaugenossenschaften wertschätzen statt abblocken - überwiesen
+- TOP 10.2: Mosaike in der Bornitzstraße retten - überwiesen
+- TOP 10.3: Mehrfachnutzung von bezirklichen Liegenschaften ermöglichen - überwiesen
+- TOP 10.4: Verstärkte Maßnahmen Berlins in Anerkennung der Flüchtlingsnotlage - in der BVV abgelehnt
+- TOP 10.5: Bebauungsplan 11-178 Trabrennbahn Karlshorst fortführen - überwiesen
+- TOP 10.6: Innenhofbebauung verhindern – Den Einwohnerinnen und Einwohner zur Seite stehen und umfassend informieren - überwiesen
+- TOP 11: Große Anfragen - (offen)
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Änderung des Investitionsprogramms 2023 – 2027 - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Ausreichend Platz auf Gehwegen schaffen - überwiesen
+- TOP 14.2: Hundekotbeutel-Spender befüllen oder abbauen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Fußballplatz an der Waldowstraße aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Gleichmäßigere Besetzungsquoten und mehr Wertschätzung für das pädagogische Personal an Schulen - in der BVV abgelehnt
+- TOP 14.5: Schulfrei am 02. und 03. Januar 2025 - in der BVV abgelehnt
+- TOP 14.6: Ausnahmeregelungen zur Straßenverkehrsordnung für ambulante Pflege- und Betreuungsdienste - überwiesen
+- TOP 14.7: Nicht schon wieder Hohenschönhausen abhängen - M4 verlängern! - überwiesen
+- TOP 15: VzK/Aufhebungsanträge - (offen)
+- TOP 15.1: Errichtung einer jüdischen Begegnungsstätte in Lichtenberg - vertagt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
