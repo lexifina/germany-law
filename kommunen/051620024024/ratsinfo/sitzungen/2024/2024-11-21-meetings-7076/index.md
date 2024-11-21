@@ -1,0 +1,52 @@
+# Haupt- und Sicherheitsausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-11-21T18:00:00+01:00
+- Ende: 2024-11-21T20:27:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/221
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7076
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7076
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00217151.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00217151.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00217151.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Motivation, Förderung und Nachteilsausgleich für ehren-amtliche Einsatzkräfte der Feuerwehr Neuss durch ein neues System finanzieller Zuwendungen - verwiesen
+- TOP 5: Neufestsetzung der Gebühren für den Rettungsdienst der Stadt Neuss ab 2025 - einstimmig zugestimmt
+- TOP 6: Standentgeltentwicklung im Bereich Kirmessen und Märkte - Kostendeckungsgrad - verwiesen
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 7: Beratung des Haushaltsplanentwurfes für das Dezernat des Bürgermeisters - einstimmig zugestimmt
+- TOP 8: Beratung des Haushaltsplanentwurfes 2025 für das Bürger- und Ordnungsamt - einstimmig zugestimmt
+- TOP 9: Beratung des Haushaltsplanentwurfes 2025 für das Amt für Brandschutz und Rettungswesen - einstimmig zugestimmt
+- TOP 10: Änderung der Sondernutzungssatzung - einstimmig zugestimmt
+- TOP 11: Rathaus-Tiefgarage - mehrheitlich abgelehnt
+- TOP 12: Kostenlose Bereitstellung von Artikeln der Monatshygiene auf städtischen Toiletten - einstimmig zugestimmt
+- TOP 13: Umsetzung der Geschäftsordnung des Gleichstellungsbeirats - mehrheitlich zugestimmt
+- TOP 13.1: Personelle Besetzung in Wasser- und Bodenverbänden, hier: Neuwahl des Erbentages des Deichverbandes Meerbusch-Lank - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 14: Antrag der CDU-Fraktion betr.: Sicherheit und Ordnung im Bereich des Stadtgartens konsequent verbessern - verwiesen
+- TOP 15: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr. Reduzierung von "Angsträumen" durch bessere Beleuchtung - mehrheitlich zugestimmt
+- TOP 16: Antrag der CDU-Fraktion betr. Problemfall nichtabgeholte gelbe Säcke: Unterstützung der Stadtverwaltung bei Gesprächen mit der Firma Schönmackers Umweltdienste GmbH & Co. KG - verwiesen
+- TOP 17: Antrag der Fraktion UWG/Freie Wähler betr.: Aufbau eines flächendeckenden Netzes von Zahnrettungsboxen im Stadtgebiet - vertagt
+- TOP 18: Antrag der Fraktion UWG/Freie Wähler betr.: Reparaturbonus als öffentlich finanziertes Förderprogramm zur Vermeidung von Elektroschrott - vertagt
+- TOP 19: Antrag der CDU-Fraktion betr. Sebastianusstraßen-Debakel: Transparenz herstellen! - einstimmig zugestimmt
+- TOP 19.1: Antrag der SPD/B90 - Die Grünen v. 28.10.2024 bzgl. "Erstellung Analyse & Umsetzungsfahrplan für Hitzeschutzmaßnahmen an Schulen und Kitas" - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 20: Transparenz des Haushaltes - Leistungs- und Aufgabenplan mit Kennzahlen - zur Kenntnis genommen
+- TOP 21: Haushaltsbegleitbeschluss 2024, Stand der Umsetzung - zur Kenntnis genommen
+- TOP 22: Fortschreibung des Gleichstellungsplans der Stadt Neuss - zur Kenntnis genommen
+- TOP 23: Energieverbräuche und -kosten für städtisch genutzte Gebäude - zur Kenntnis genommen
+- TOP 24: Einführung der elektronischen Wohnsitzanmeldung im Bürgeramt Neuss - zur Kenntnis genommen
+- TOP 25: Unterstützung humanitärer Hilfe in der Ukraine durch die Feuerwehr Neuss – hier: Überlassung eines Fahrzeuges einschließlich Einsatzmaterialien - zur Kenntnis genommen
+- TOP 26: Optimierung der Grünflächenpflege und Hartflächenreinigung - zur Kenntnis genommen
+- TOP 27: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
