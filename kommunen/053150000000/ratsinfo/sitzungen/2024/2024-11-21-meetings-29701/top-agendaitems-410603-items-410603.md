@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 3.3 – Änderung der Hauptsatzung und der Geschäftsordnungen der Stadtarbeitsgemeinschaften zur Regelung von Sitzungsgeldern
+
+- Sitzung: 28. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren (2024-11-21)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/410603
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/189898
