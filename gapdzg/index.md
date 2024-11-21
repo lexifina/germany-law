@@ -71,4 +71,4 @@
 - [§ 33 Horizontale Begriffsbestimmungen](0033.md)
 - [§ 34 Verordnungsermächtigungen](0034.md)
 - [§ 35 Bundesanstalt für Landwirtschaft und Ernährung; Verordnungsermächtigung](0035.md)
-- [§ 36 Inkrafttreten](0036.md)
+- [§ 36 Anwendungsbestimmung](0036.md)

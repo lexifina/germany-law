@@ -63,4 +63,4 @@ Weitere Bestimmungen
 | § 33 | Horizontale Begriffsbestimmungen |
 | § 34 | Verordnungsermächtigungen |
 | § 35 | Bundesanstalt für Landwirtschaft und Ernährung; Verordnungsermächtigung |
-| § 36 | Inkrafttreten |
+| § 36 | Anwendungsbestimmung |
