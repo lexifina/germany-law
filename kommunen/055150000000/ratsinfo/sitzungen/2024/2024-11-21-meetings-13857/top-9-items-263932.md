@@ -1,0 +1,8 @@
+# TOP 9: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - Chance e. V.
+
+- Sitzung: Sitzung (Etat) (2024-11-21)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/263932
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/87225
