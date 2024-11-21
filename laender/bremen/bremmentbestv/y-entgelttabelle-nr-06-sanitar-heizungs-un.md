@@ -1,0 +1,23 @@
+# Entgelttabelle Nr. 06 - Sanitär-, Heizungs- und Klimaanlagen
+Entgelttabelle Nr. 06 Sanitär-, Heizungs- und Klimaanlagen
+Diese Entgelttabelle enthält die vertraglichen Entgelte, die bei der Erbringung von Leistungen im Zusammenhang mit Sanitär-, Heizungs- und Klimaanlagen zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung des Auftragnehmers und zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung eines Nachunternehmers an die bei der Auftragsausführung eingesetzten Beschäftigten mindestens zu bezahlen sind.
+Die geltenden Mindestlöhne nach dem Mindestlohngesetz, nach dem Arbeitnehmerentsendegesetz und nach dem Arbeitnehmerüberlassungsgesetz sowie die im Land Bremen allgemeinverbindlichen Tariflöhne nach dem Tarifvertragsgesetz bleiben davon unberührt.
+1. Anwendungsbereich
+Diese Entgelttabelle, insbesondere das unter Ziffer 3 aufgeführte Lohngitter, wird auf die im Anhang dargestellte Liste von CPV-Codes/Vergabeleistungen angewandt. Diese Liste ist nicht abschließend.
+2. Entgeltmodalitäten
+2.1 Erfasst sind alle Beschäftigten eines Unternehmens, die während der Auftragsausführung eingesetzt werden. Beschäftigte sind alle Arbeitnehmerinnen und Arbeitnehmer. Leiharbeitnehmerinnen und Leiharbeitnehmer im Sinne des Arbeitnehmerüberlassungsgesetzes sind den Arbeitnehmerinnen und Arbeitnehmern gleichgestellt.
+2.2 Die bei der Auftragsausführung eingesetzte Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf ein Entgelt nach Ziffer 3 für jede geleistete Arbeitsstunde.
+2.3 Die Eingruppierung in eine der Entgeltgruppen (EG) nach Ziffer 3 richtet sich nach der im Rahmen der Auftragsausführung tatsächlich ausgeübten Tätigkeit sowie nach etwaigen weiteren Anforderungen der jeweiligen Entgeltgruppe.
+2.4 Werden mehrere entgeltgruppenübergreifende Tätigkeiten ausgeführt, ist die im Schwerpunkt ausgeübte Tätigkeit maßgeblich für die Eingruppierung.
+2.5 Für Mehrarbeit (Überstunden) fällt ein Zuschlag i.H.v. 25 % an. Individuelle Arbeitszeitregelungen sind zu berücksichtigen (z.B. Arbeitszeitkonten, Teilzeitmodelle).
+3. vertragliches Entgelt - Lohngitter
+Für die bei der Auftragsausführung eingesetzten Arbeitnehmerinnen und Arbeitnehmer gelten folgende Stundenentgelte:
+EG | Bezeichnung der Tätigkeit | ggf. weitere Anforderungen und nicht abschließende Beispiele | Entgelt in Euro | 
+1 | Helfer |  | 16,03 ab 01.01.2025 16,54 | 
+2 | Hilfsmonteure |  | 17,37 ab 01.01.2025 17,93 | 
+3 | Monteure im 1. und 2. Jahr nach der Abschlussprüfung | Monteure in den ersten zwei Jahren der tatsächlichen Berufstätigkeit und solche, die nach Einweisung Installations- und Reparaturarbeiten ausführen. Stunden- und Materialnachweise sind zu belegen. | 17,42 ab 01.01.2025 17,98 | 
+4 | Monteure im 3. und 4. Jahr nach der Abschlussprüfung | Monteure mit mindestens zwei tatsächlichen Berufsjahren, die Arbeiten verrichten, die Arbeitskenntnisse und Handfertigkeiten erfordern, wie sie durch eine abgeschlossene Berufsausbildung vermittelt werden. Die abgeschlossene Berufsausbildung kann durch gleich zu bewertendes einschlägiges Können ersetzt werden. Stunden- und Materialnachweise sind zu belegen. | 18,75 ab 01.01.2025 19,35 | 
+5 | Monteure nach spätestens 4-jähriger Tätigkeit im Beruf |  | 20,31 ab 01.01.2025 20,96 | 
+6 | Selbständige Monteure | Monteure mit erweiterten, durch die Teilnahme an betrieblich und/oder außerbetrieblich angebotenen Qualifizierungsmaßnahmen erworbenen Kenntnissen und Fertigkeiten, die selbstständig Installations-, Reparatur-, Service- und/oder Wartungsarbeiten durchführen. Im Rahmen ihrer Tätigkeit erstellen sie Nachweise und Aufmaße abrechnungsreif. | 21,56 ab 01.01.2025 22,25 | 
+7 | Obermonteure | Selbständige Monteure, die auch umfangreiche Installations-, Reparatur-, Service- oder Wartungsarbeiten methodisch, eigenständig und sicher ausführen. Die Kenntnisse und Fertigkeiten erstrecken sich nicht nur auf Material- und Verarbeitungsrichtlinien, sondern auch auf die Aktualisierung der Kenntnisse über die jeweils benötigten Regelwerke, auch vertragsrechtlich. Sie leiten und beaufsichtigen kleine Arbeitsgruppen (bis max. 5 AN) und erstellen Abrechnungsunterlagen sicher. | 22,64 ab 01.01.2025 23,36 | 
+8 | Hauptmonteure | Selbständige Monteure, die Installations-, Reparatur-, Service- oder Wartungsarbeiten eigenverantwortlich ausführen und leiten. Sie besitzen eine hohe Qualifikation, die regelmäßige Fortbildung erfordert, über die Grenzen ihrer Haupttätigkeit hinaus. Dabei leiten und beaufsichtigen sie auch größere Arbeitsgruppen und führen geplante Werkzeug- und Materialdispositionen durch. Eine zusätzliche Entscheidungsbefugnis im Rahmen der Rücksprache ist gegeben. Umfangreiche Abrechnungsunterlagen sind komplett zu erstellen. | 23,33 ab 01.01.2025 24,08 | 

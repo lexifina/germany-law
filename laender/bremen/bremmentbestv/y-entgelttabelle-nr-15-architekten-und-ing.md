@@ -1,0 +1,49 @@
+# Entgelttabelle Nr. 15 - Architekten- und Ingenieurleistungen, Planungsbüros
+Entgelttabelle Nr. 15 Architekten- und Ingenieurleistungen, Planungsbüros
+Diese Entgelttabelle enthält die vertraglichen Entgelte, die bei der Erbringung von Leistungen durch Architektur-, Ingenieur- und Planungsbüros zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung des Auftragnehmers und zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung eines Nachunternehmers an die bei der Auftragsausführung eingesetzten Beschäftigten mindestens zu bezahlen sind.
+Die geltenden Mindestlöhne nach dem Mindestlohngesetz, nach dem Arbeitnehmerentsendegesetz und nach dem Arbeitnehmerüberlassungsgesetz sowie die im Land Bremen allgemeinverbindlichen Tariflöhne nach dem Tarifvertragsgesetz bleiben davon unberührt.
+1. Anwendungsbereich
+Diese Entgelttabelle, insbesondere das unter Ziffer 3 aufgeführte Lohngitter, wird auf die im Anhang dargestellte Liste von CPV-Codes/Vergabeleistungen angewandt. Diese Liste ist nicht abschließend.
+2. Entgeltmodalitäten
+2.1 Erfasst sind alle Beschäftigten eines Unternehmens, die während der Auftragsausführung eingesetzt werden. Beschäftigte sind alle Arbeitnehmerinnen und Arbeitnehmer. Leiharbeitnehmerinnen und Leiharbeitnehmer im Sinne des Arbeitnehmerüberlassungsgesetzes sind den Arbeitnehmerinnen und Arbeitnehmer gleichgestellt.
+2.2 Die bei der Auftragsausführung eingesetzte Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf ein Entgelt nach Ziffer 3 für jede geleistete Arbeitsstunde.
+2.3 Die Eingruppierung in eine der Entgeltgruppen (EG) nach Ziffer 3 richtet sich nach der im Rahmen der Auftragsausführung tatsächlich ausgeübten Tätigkeit sowie nach etwaigen weiteren Anforderungen der jeweiligen Entgeltgruppe.
+2.4 Werden mehrere entgeltgruppenübergreifende Tätigkeiten ausgeführt, ist die im Schwerpunkt ausgeübte Tätigkeit maßgeblich für die Eingruppierung.
+2.5 Für Mehrarbeit (Überstunden) fällt ein Zuschlag i.H.v. 25 % an. Individuelle Arbeitszeitregelungen sind zu berücksichtigen (z.B. Arbeitszeitkonten, Teilzeitmodelle).
+3. vertragliches Entgelt - Lohngitter
+Für die bei der Auftragsausführung eingesetzten Arbeitnehmerinnen und Arbeitnehmer gelten folgende Stundenentgelte:
+EG | Bezeichnung der Tätigkeit | ggf. weitere Anforderungen und nicht abschließende Beispiele | Entgelt in Euro
+T 1/ K 1 | T 1: Technische Angestellte, die neben vorwiegend schematischer Tätigkeit auch eine einfache zeichnerische oder eine andere einfache technische Tätigkeit ausüben, für die keine besondere Ausbildung erforderlich ist. K1: Kaufmännische Angestellte, die neben vorwiegend schematischer Tätigkeit auch eine einfache Bürotätigkeit ausüben, für die keine besondere Ausbildung erforderlich ist. |  | 12,41* ab 01.11.2024 13,46** ab 01.02.2025 14,28***
+ |  | Ab 3. Jahr | 12,69 ab 01.11.2024 13,46** ab 01.02.2025 14,28***
+ |  | Ab 5. Jahr | 13,87 ab 01.02.2025 14,28***
+T 2/ K 2/ DV 2 | T 2: Technische Angestellte, die die Tätigkeit eines Bauzeichners oder eines technischen Zeichners nach genauer Anweisung ausüben. Beispiele: Zeichnen von Bauplänen (auch CAD), Ermitteln von Massen/Mengen für einfache Bauteile, Beschaffung und Zusammenstellung erforderlicher Unterlagen. K 2: Kaufmännische Angestellte, die eine einfache Bürotätigkeit nach genauer Anweisung ausüben. Beispiele: Telekommunikation, Aufnahme einfacher Diktate und Wiedergabe, Textverarbeitung und DV-Kenntnisse, einfache Buchhaltungsarbeiten, Registraturarbeiten. Üblicher Ausbildungsweg: Kaufmännische Berufsausbildung oder gleichwertige Berufserfahrung. DV 2: Angestellte, die Daten nach Vorgabe eingeben, einfache Programme bedienen und EDV-Arbeitsplätze einrichten. Beispiele: Dateneingabe, Programmeinstellung, Datensicherung. Üblicher Ausbildungsweg: Abgeschlossene Ausbildung in einem Ausbildungsberuf. |  | 13,09 ab 01.11.2024 13,46** ab 01.02.2025 14,28***
+ |  | Ab 3. Jahr | 13,87 ab 01.11.2024 13,46** ab 01.02.2025 14,28***
+ |  | Ab 5. Jahr | 14,85
+T 3/ K 3/ DV 3 | T 3: Technische Angestellte mit umgrenzten Aufgaben, die nach Anleitung zu erledigen sind und weitere Fachkenntnisse erfordern. Beispiele: Zeichnen von Plänen, Aufstellen von Massen, Mengenberechnungen und Abrechnungen, Überwachen von einfachen Bauausführungen, Bearbeiten von einfachen Entwürfen und Konstruktionen. Üblicher Ausbildungsweg: Abgeschlossene Ausbildung an einer anerkannten Technikerschule oder abgelegte Meisterprüfung oder abgeschlossene Ausbildung in einem technischen Ausbildungsberuf mit mindestens zweijähriger Praxis. K 3: Kaufmännische Angestellte, die nach Anleitung schwierige Aufgaben erledigen. Beispiele: Aufnahme von Diktaten, form- und stilgerechte Wiedergabe (DV), einfache (auch fremdsprachliche) Korrespondenz, Buchhaltungsarbeiten, Gehaltsabrechnungsarbeiten mit Erledigung der üblichen Formalitäten bei Einstellungen und Entlassungen. Üblicher Ausbildungsweg: wie in K 2. DV 3: Angestellte, die nach Anleitung einfache Installationen von Hard- und Software vornehmen, Datensicherungen und einfache Systeme pflegen, leichte Programmierungen unter Anleitung durchführen. Beispiele: einfache Systemanpassungen, Schnittstellen programmieren, bedienen und arbeiten mit Programmen. Üblicher Ausbildungsweg: Abgeschlossene Ausbildung in einem Ausbildungsberuf mit mindestens zweijähriger Praxis. |  | 16,21
+ |  | Ab 3. Jahr | 17,19
+ |  | Ab 5. Jahr | 18,55
+T 4/ IA 1/ DV 4 | T 4: Technische Angestellte, Ingenieure und Architekten, die gründliche Fachkenntnisse erfordernde schwierige Aufgaben nach allgemeiner Anleitung selbständig ausführen. Beispiele: Entwurfsarbeiten, Ausführungs- und Detailbearbeitung, Entwerfen und Konstruieren, Berechnungen, Vorverhandlungen mit Auftraggebern, Behörden und Fachingenieuren, Mitarbeit bei größeren Bauleitungen unter einem übergeordneten Bauleiter, Vermessungsarbeiten, Mitarbeit im wissenschaftlichen Bereich. Üblicher Ausbildungsweg: Abgeschlossene Ausbildung an einer staatlich anerkannten Ingenieurschule, Fachhochschule, Ingenieurakademie, einer Hochschule bzw. Universität, oder Arbeitnehmer mit entsprechender Berufserfahrung. DV 4: Programmierer, Informatiker, Ingenieure, die schwierige Hard- und Software installieren, einfache Netzwerke einrichten und pflegen, Datenbanken verwalten, Datensicherungssysteme einrichten und schwierige Programmierungen nach allgemeiner Anleitung selbständig durchführen. Beispiele: Planung von Systemen und Programmen und deren Realisierung, Mitarbeit bei größeren Objekten unter einem übergeordneten Leiter, Vorverhandlungen mit Auftraggebern, Lieferanten. Üblicher Ausbildungsweg: Abgeschlossene Ausbildung an einer staatlich anerkannten Akademie, Fachhochschule, Hochschule bzw. Universität, oder Arbeitnehmer mit entsprechender Berufserfahrung. |  | 19,14
+ |  | Im 2. Jahr | 19,53
+ |  | Ab 3. Jahr | 21,10
+ |  | Ab 5. Jahr | 22,46
+K4 | Kaufmännische Angestellte, die nach allgemeiner Anleitung schwierige Arbeiten selbständig erledigen. Beispiele: Sekretariatsaufgaben, schwierige fremdsprachliche Korrespondenz, Buchhaltungsarbeiten, Kontenführung mit Korrespondenz und Mahnwesen (DV), Gehaltsbuchhaltung oder deren Überwachung, Rechnungswesen. Üblicher Ausbildungsweg: wie in K 3 mit Fortbildung oder entsprechender Berufserfahrung. |  | 19,14
+ |  | Ab 3. Jahr | 20,70
+ |  | Ab 5. Jahr | 22,07
+T5/ IA2/D V 5 | T 5: Technische Angestellte, Ingenieure und Architekten, die selbständig Aufgaben ausführen, die besondere Fachkenntnisse oder Erfahrungen erfordern. Beispiele: Leiten und/oder Abrechnen von Bauausführungen, Entwurfs- und Ausführungsplanung komplexer Projekte, Verhandeln mit Auftraggebern, Behörden, Objektplanern und Fachingenieuren, Aufstellen von Kostenvoranschlägen, Kalkulationen, wissenschaftliche Tätigkeiten. Üblicher Ausbildungsweg: wie in Gruppe T 4/IA 1 DV 5: Angestellte, Informatiker und Ingenieure, die schwierige Installationen durchführen, umfangreiche Systeme selbständig einrichten und überwachen, die besondere Fachkenntnisse und Erfahrungen erfordern. Beispiele: Ausführung komplexer Systeme, Verhandlungen mit Auftraggebern und Lieferanten, Kalkulationen, wissenschaftliche Tätigkeiten. Üblicher Ausbildungsweg: wie in Gruppe DV 4. |  | 24,81
+ |  | Ab 3. Jahr | 25,98
+ |  | Ab 5. Jahr | 27,35
+K5 | Kaufmännische Angestellte, die aufgrund umfangreicher Fachkenntnisse oder langjähriger Erfahrungen ein schwieriges Aufgabengebiet selbständig bearbeiten. Beispiele: Bilanzierung, internes Controlling, Leiten einer Abteilung oder eines Büros. Üblicher Ausbildungsweg: wie in K 4, jedoch mit umfangreicher Berufserfahrung |  | 22,66
+ |  | Ab 3. Jahr | 24,22
+ |  | Ab 5. Jahr | 25,59
+T 6/ IA 3/ DV 6 | T 6/IA 3: Technische Angestellte, Ingenieure und Architekten, die bei der Ausübung der in Gruppe T 5/IA 2 beschriebenen Tätigkeiten eine besondere Verantwortung tragen. DV 6: Angestellte, Informatiker und Ingenieure, die bei der Ausübung der in der Gruppe DV 5 beschriebenen Tätigkeiten eine besondere Verantwortung tragen. |  | 29,30
+Fußnoten
+* Entspricht dem Bundesmindestlohn zum Stand 01.03.2024
+** Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
+** Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
+** Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
+** Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
+*** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+*** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+*** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+*** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+*** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
