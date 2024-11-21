@@ -1,0 +1,63 @@
+# 4. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-11-21T16:00:00+01:00
+- Ende: 2024-11-21T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13711
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13711
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00787996.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - Einbringung des Haushaltsentwurfes 2025/2026 - erledigt
+- TOP 2.1: Haushaltssatzung 2025/2026 und Wirtschaftspläne der Eigenbetriebe 2025/2026 - erledigt
+- TOP 3: Einwohner/Einwohnerinnen-Fragestunde - erledigt
+- TOP 3.1: Sperrung der Straße an 51. Grundschule - erledigt
+- TOP 3.2: Umsetzung Stadtratsbeschluss von 2002 für die Wasserskianlage - erledigt
+- TOP 3.3: Verbot von Fahrad-, Roller- und E-Bike-Verkehr auf der Prager Straße - werktags von 10 bis 20Uhr - erledigt
+- TOP 3.4: Verlängerung der S-Bahn-Linie 2 (Flughafen), statt Ausbau der Sraßenbahn-Linie 8 - erledigt
+- TOP 3.5: Maßnahmen zur Vermeidung von Nutzungskonflikten zwischen Fußgängern und Radfahrern - erledigt
+- TOP 3.6: Schulwegsicherheit zwischen Gnaschwitzer Straße und Hutbergstraße Dresden Rochwitz - erledigt
+- TOP 3.7: Maßnahmen zur Vermeidung von Verpackungsmüll - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - erledigt
+- TOP 4.1: Besetzung des Klimabeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt - Vertagung
+- TOP 4.2: Wahl der Vertreter für die Neubesetzung der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - gewählt
+- TOP 4.3: Besetzung des Beirates für Menschen mit Behinderungen gemäß § 25 Abs. 8 Hauptsatzung der Landeshauptstadt Dresden - gewählt
+- TOP 4.4: Wahl des Stellvertreters/der Stellvertreterin für die Gruppe der weiteren Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - gewählt
+- TOP 5: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 6: Vertagungen aus der Stadtratssitzung vom 24./25.10.2024 - erledigt
+- TOP 6.1: Mehr Sicherheit, Ordnung und Sauberkeit in Dresden - Vertagung durch Einreicher
+- TOP 6.2: Interkulturelles Engagement würdigen – Dresdner Integrationspreis wiederbeleben - Ablehnung
+- TOP 6.3: Nachhaltige Vergabe in der Stadtverwaltung fördern - Vertagung durch Einreicher
+- TOP 6.4: Verzicht auf die vorzeitige Abschaltung der Dresdner Brunnen - Vertagung durch Einreicher
+- TOP 7: Ergebnisprotokoll zum Abschluss des Schlichtungsverfahrens zur Einhaltung der „Vereinbarung über die Eingliederung der Gemeinde Schönfeld-Weißig in die Landeshauptstadt Dresden“ - Zustimmung
+- TOP 8: Zulassungskriterien und Entgeltordnung für das „Haus der Brücke – Interkulturelles Begegnungszentrum“ - Zustimmung
+- TOP 9: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Regelung von Eintrittspreisen am tjg.theater junge generation - Zustimmung
+- TOP 11: Nutzungsvertrag und Nutzungsentgelt Schulschwimmen - Zustimmung
+- TOP 12: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen im Wirtschaftsjahr 2023 durch Übertragung der Liegenschaft und Gebäude Luboldtstraße 18 in 01324 Dresden an die Landeshauptstadt Dresden - Zustimmung
+- TOP 13: Gewährung einer Besitzstandszulage für die Beschäftigten Sachbearbeiter/-in Schulsekretariat im Rahmen der Eingruppierung zum 1. Januar 2023 - Zustimmung
+- TOP 14: Bereitstellung weiterer Mittel in Ergänzung zur V2912/24 "Mehrbedarfe für Soziale Leistungen im Jahr 2024" - Verweisung
+- TOP 15: Bebauungsplan Nr. 31, Dresden-Leubnitz-Neuostra Nr. 2, Wilhelm-Franke-Straße - Zustimmung
+- TOP 16: Einsatz von EFRE-Fördermitteln zur Realisierung der Fernwärmeerschließung Dresden Löbtau - Zustimmung
+- TOP 17: Vorhabenbezogener Bebauungsplan Nr. 6038, Dresden-Hellerberge, Hausmann Lufttechnik - Zustimmung
+- TOP 18: Bebauungsplan Nr. 3046 a, Dresden-Hellerau Nr. 16, Rähnitz Nord - Zustimmung
+- TOP 19: Inhousevergabe von Strom- und Erdgaslieferungen an die EnergieVerbund Dresden GmbH - Zustimmung
+- TOP 20: Nutzung und Betreibung des ehemaligen Werkstattgebäudes auf dem Gelände des früheren Theaters Junge Generation (TJG) sowie die Herstellung des „Briesnitzer Park Nord“ auf dem Gelände Meißner Landstraße 4 - 6 mit dem Einsatz von EFRE-Fördermitteln - Verweisung
+- TOP 21: Veränderungen im Ergebnishaushalt 2024 des Straßen- und Tiefbauamtes für den Mehrbedarf Straßenentwässerungsentgelt sowie den Aufwand an öffentlichen Anlagen für Strom und Gas - Zustimmung
+- TOP 22: Energiewende entschlossen unterstützen – Potenzial für Windkraftanlagen auf Dresdner Stadtgebiet evaluieren und nutzen - Ablehnung
+- TOP 23: Leitfaden zur geschlechtergerechten Sprache in der Landeshauptstadt Dresden - Vertagung
+- TOP 24: Verfassungstreue der Verwaltung sichern - Vertagung durch Einreicher
+- TOP 25: Eilantrag - Verlängerung des Betriebs des Servicebereiches der Wasserski- und Wakeboard-Anlage Leuben am bisherigen Standort - Zustimmung mit Ergänzung
+- TOP 28: Ausscheiden eines Stadtrats und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 29: Einigungsverfahren Gremienbesetzung - erledigt
+- TOP 29.1: Ausschuss für Finanzen - Benennung
+- TOP 29.2: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Benennung
+- TOP 29.3: Ausschuss für Wirtschaftsförderung - Benennung
+- TOP 29.4: Ausschuss für Petitionen und Bürgerbeteiligung - Benennung
+- TOP 30: Beratende Äußerung des Sächsischen Rechnungshofes gemäß § 88 Abs. 2 SäHO zur überörtlichen Prüfung kommunaler Schulträger und zur Prüfung der Haushalts- und Wirtschaftsführung des SMK Schulhausbau in Sachsen vom März 2024 - zur Kenntnis genommen
