@@ -80,7 +80,7 @@
 
 ## Teil 4 Übergangs- und Schlussbestimmungen
 
-- [§ 34 Übergangsvorschriften](0034.md)
+- [§ 34 (weggefallen)](0034.md)
 - [§ 35 Inkrafttreten, Außerkrafttreten](0035.md)
 - [Anlage 1 (zu § 8 Absatz 1 und § 9)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)
