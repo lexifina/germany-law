@@ -1,0 +1,75 @@
+# 39. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-26T16:05:00+01:00
+- Ende: 2024-11-26T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29751
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29751
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Einrichtung weiterer TaxiBuslinien im Kölner Stadtgebiet und Vereinfachung der Buchung - geändert beschlossen
+- TOP -: Stellungnahme zu Antrag der SPD-Fraktion vom 10.10.2024 (AN/1377/2024) betr. Einrichtung weiterer TaxiBuslinien im Kölner Stadtgebiet und Vereinfachung der Buchung - Kenntnis genommen
+- TOP 1.2: Sichere Schulwege für neue Schulstandorte - zurückgestellt
+- TOP -: Stellungnahme zu Antrag der SPD-Fraktion vom 10.10.2024 in der Sitzung Verkehrsausschuss 29.10.2024, Punkt 1.3, Sichere Schulwege für neue Schulstandorte (AN/1378/2024) - zurückgestellt
+- TOP 1.3: Pendlerströme in die Stadtbahn bringen – Nachbarkommunen anbinden! - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: "Netzelement 4 - Landschaftspark Kalkberge", Bürgereingabe nach § 24 GO - Aktenzeichen 120/23 B - geändert beschlossen
+- TOP 2.2: Anregung der Bezirksvertretung Kalk zu "Für einen Haltepunkt an der Eiler Str. - S15 in Rath/Heumar halten lassen!" - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Live-Stream für die Sitzungen des Verkehrsausschusses in 2025 - ungeändert beschlossen
+- TOP 3.2: Einrichtung eines Radfahrstreifens auf der Stolberger Straße (zw. Oskar-Jäger-Straße – Eupener Straße) - geändert beschlossen
+- TOP -: Einrichtung eines Radfahrstreifens auf der Stolberger Straße (zw. Oskar-Jäger-Straße – Eupener Straße) - endgültig abgelehnt
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 4.7, Beschlussvorlage 0609/2024 - Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 4.2: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - ohne Votum behandelt
+- TOP 4.3: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ohne Votum behandelt
+- TOP 4.4: Satzung über die abweichende Herstellung der Erschließungsanlage Kölnstraße von Seniorenweg bis Am Feldrain in Köln-Sürth sowie Aufhebung der Abweichungssatzung vom 06.03.2023 - ungeändert empfohlen
+- TOP 4.5: Satzung über die abweichende Herstellung der Erschließungsanlage Godorfer Straße von Stormstraße bis Flurstück 121 (Trafo neben der Schule) einschließlich in Köln-Immendorf - ungeändert empfohlen
+- TOP 4.6: Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze - ungeändert empfohlen
+- TOP 4.7: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen - zurückgestellt
+- TOP 4.8: StadtBahn Süd – Festlegung des vorläufigen Endhaltepunktes in Meschenich - ohne Votum behandelt
+- TOP -: StadtBahn Süd – Festlegung des vorläufigen Endhaltepunktes in Meschenich - Sache ist erledigt
+- TOP -: Haltestelle „Meschenich Nord“ als Umsteigestation nördlich der Straße „Am Kölnberg“ ausbauen! - Sache ist erledigt
+- TOP 4.9: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - ohne Votum behandelt
+- TOP 4.10: ISEK Porz-Mitte - Brücke über die Hauptstraße - ungeändert empfohlen
+- TOP 4.11: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ohne Votum behandelt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 23.04.2024 (AN/0617/2024) betr. "Rodenkirchener Brücke – was tut die Stadt Köln gegen Abriss und Neubau?" - Kenntnis genommen
+- TOP 5.1.2: Interne Controllingliste - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion und der Fraktion Die Linke. aus der Sitzung am 11.06.2024 betr. Interne Controllingliste, AN/0859/2024 - zurückgestellt
+- TOP 5.1.3: Sauberkeit an der Haltestelle Hansaring - zurückgestellt
+- TOP 5.1.4: Verkehrspolitische Beschlüsse kenntlich machen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung am 10.09.2024 bertr. "Verkehrspolitische Beschlüsse kenntlich machen - zurückgestellt
+- TOP 5.1.5: Carsharing im öffentlichen Raum - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 29.10.2024 TOP 16 betr. „Carsharing im öffentlichen Raum“ (AN/1456/2024) - Kenntnis genommen
+- TOP 5.1.6: Subnetzstraßen - zurückgestellt
+- TOP 5.1.7: Beantwortung von mündlichen Zusatzfragen des SE Scherping aus der Sitzung des Verkehrsausschusses am 10.09.2024 betr. "Anregung der Bezirksvertretung Nippes, Ersatzfährverbindung von Alt-Niehl zu den Niehler Auen", 4020/2023, bzw. 2092/2024 - Kenntnis genommen
+- TOP 5.1.8: Beantwortung von Nachfragen der Fraktion "Die Linke" zur Mitteilung 3040/2024 - Kostenstand Nord-Süd Stadtbahn - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Entwicklung der Mobilitätsgarantie - zurückgestellt
+- TOP 5.2.2: Neue/r Fußverkehrsbeauftragte/r - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Interkommunaler Radverkehr: Definition des landesweiten Radvorrangnetzes und Bedarfsplan Radschnellverbindungen - Kenntnis genommen
+- TOP 6.2.2: Neugestaltung der Vorgebirgstraße in Zollstock auf dem Abschnitt zwischen „Am Vorgebirgstor“ und Raderthalgürtel durch Umwandlung der rechten Fahrspuren in eine Radverkehrsanlage/Schutzstreifen - Kenntnis genommen
+- TOP 6.2.3: Städtebaulicher Masterplan Innenstadt - Niederschrift 35. Sitzung am 22.04.2024 - Kenntnis genommen
+- TOP 6.2.4: 3. Baustufe Nord-Süd Stadtbahn - Projektstand im November 2024 - Kenntnis genommen
+- TOP 6.2.5: Förderprogramm zur Lastenradförderung der Stadt Köln - Kenntnis genommen
+- TOP 6.2.6: Sachstand zum aktuellen Vorgehen bezüglich E-Scootern - Kenntnis genommen
+- TOP 6.2.7: Anwendung der neuen Straßenverkehrsordnung - Kenntnis genommen
+- TOP 6.2.8: Mitteilung - Auszug aus der Sitzung der BV 1 am 07.11.2024 - hier: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke - PFA 1.1" in Köln-Innenstadt 2064/2024 - Kenntnis genommen
+- TOP 6.2.9: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 6.2.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - On-Demand-Angebot KVB-Isi weiter fortführen, AZ 100/24 - Kenntnis genommen
+- TOP 6.2.11: Kölner Verkehrs-Betriebe AG (KVB): Fortschreibung des öffentlichen Dienstleistungsauftrages (ÖDLA) - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
