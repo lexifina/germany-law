@@ -1,0 +1,52 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-26T16:00:00+01:00
+- Ende: 2024-11-26T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25992
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25992
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 10.09.2024 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 01.10.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Umbenennung des "Jürgensplatz" im Stadtbezirk 3 in "Platz der Polizei" - abweichend beschlossen
+- TOP 5.2: Abschluss des Satzungsverfahrens zum Erlass einer Immobilien- und Standort-gemeinschaft (ISG) im Gebiet der Graf-Adolf-Straße gemäß ISGG NRW - zur Kenntnis genommen
+- TOP 5.3: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - zur Kenntnis genommen
+- TOP 5.4: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 5.5: Umsetzung stationsbasierter Sharing-Angebote im Rahmen des Sofortprogramms im Stadtbezirk 3 - einstimmig beschlossen
+- TOP 5.6: Schulwegsicherung - Fleher Straße / Sternwartstraße - einstimmig beschlossen
+- TOP 5.7: Zuwendung an den Verein „Düsseldorfs Vielfalt erleben e.V.“ für Umbaumaßnahmen zur Errichtung des Kulturortes an der Graf-Adolf-Straße 39 - zur Kenntnis genommen
+- TOP 5.8: Zuschuss an den Verein Düsseldorfer Paddlergilde e.V. - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Flächennutzungsplanänderung Nr. 214/Bebauungsplan Vorentwurf Nr. 03/048 - Überbauung Münchener Straße - Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Bezirklicher Bauunterhalt - Haushaltsjahr 2024 Stadtbezirk 3 - Liste A Schulen - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - einstimmig beschlossen
+- TOP 7.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Ungekennzeichnete Ladesäulen im Straßenraum (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Prüfauftrag Entwicklung eines Bürgersteiges auf der Straße Im Liefeld - zur Kenntnis genommen
+- TOP 10.2: Errichtung einer Brunnenanlage auf dem Platz „De Blääk“ - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
