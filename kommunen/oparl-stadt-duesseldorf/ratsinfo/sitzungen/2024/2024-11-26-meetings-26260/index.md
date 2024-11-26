@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-26T17:00:00+01:00
+- Ende: 2024-11-26T20:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26260
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26260
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00537062.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00537062.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00537062.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 12.11.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen und nichtöffentlichen Niederschrift vom 01.10.2024 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Multifunktionale Sportfläche im Nachbarschaftspark Diepenstraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 4.2: Zentrenmanagement Heyestraße-Süd – mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.3: Umsetzung stationsbasierter Sharing-Angebote im Rahmen des Sofortprogramms im Stadtbezirk 7 - abweichend beschlossen
+- TOP 4.4: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - abweichend beschlossen
+- TOP 4.8: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Deutsches Tischtenniszentrum - Erweiterung Küche und Speiseraum" - Empfehlung einstimmig beschlossen
+- TOP 4.9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.10: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Planung und Fertigung des neuen Jugendpavillons im Diepenpark - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.3: Herrichtung der Straßen im südlichen Teil des Baugebiets: Am Quellenbusch - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Bedarfsampel an der Glashüttenstraße - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Aktueller Stand des Baugenehmigungsverfahrens und der aktuelle Zustand des Gartendenkmals Villa Sohl - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Herstellung von Pirnaer Str., Cottbusser Str. und Zittauer Straße - Anfrage der SPD-Fraktion - - vertagt
+- TOP 7.2: Neue Ladesäulen der Firma Wirelane im Bezirk 7 - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.3: Umfang und Dauer von Maßnahmen der Bodendenkmalpflege Kölner Tor 30/Synagogenweg - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Sitzungstermine der Bezirksvertretung 7 im 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 8.2: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.3: Sichere Schulwege im Stadtbezirk 7 – Standort KGS Unter den Eichen - Informationsvorlage zum Beschluss der BV 7 vom 23.05.2023 - - zur Kenntnis genommen
+- TOP 8.4: Parkplätze für das Templum an der Bergischen Landstraße - Ergänzende Stellungnahme zur Informationsvorlage BV7/132/2024 - - zur Kenntnis genommen
+- TOP 8.5: Halteverbot an Schultagen an der Luckemeyerstraße 5 - Informationsvorlage zum Beschluss der BV 7 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.6: Tempo 30 auf der Benderstraße - Informationsvorlage zum Beschluss der BV 7 vom 30.04.2024 - - zur Kenntnis genommen
