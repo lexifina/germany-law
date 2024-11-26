@@ -1,0 +1,8 @@
+# TOP -: Einrichtung eines Radfahrstreifens auf der Stolberger Straße (zw. Oskar-Jäger-Straße – Eupener Straße)
+
+- Sitzung: 39. Sitzung des Verkehrsausschusses (2024-11-26)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/410713
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/189967
