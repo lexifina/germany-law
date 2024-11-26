@@ -1,0 +1,51 @@
+# 16. Sitzung der Stadtarbeitsgemeinschaft Queerpolitik
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-26T17:00:00+01:00
+- Ende: 2024-11-26T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/186
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30090
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30090
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung Julia Pedersen, Gleichstellungsbeauftragte der Stadt Köln - zurückgestellt
+- TOP -: Mit wehenden Regenbogenfahnn untergehen?! - Kenntnis genommen
+- TOP 1: Vorträge
+- TOP 1.1: "Das Trotzdem habe ich mir bewahrt. Ältere Lesben, Schwule und trans Menschen über Einsamkeit und Verbundenheit" - Kenntnis genommen
+- TOP 1.2: Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag - Kenntnis genommen
+- TOP 2: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 2.1: Beendigung Mietvertrag Schützenbruderschaft St. Sebastianus & Afra 2012 e.V. - Kenntnis genommen
+- TOP 2.2: Beantwortung einer mündlichen Nachfrage von Maria Westphal (FDP) zur Beantwortung einer schriftlichen Anfrage der FDP-Fraktion (AN/0830/2024) aus der Sitzung der Stadtarbeitsgemeinschaft Queerpolitik vom 12.09.2024 - Kenntnis genommen
+- TOP 2.3: Anfrage aus der 15. Sitzung der Stadtarbeitsgemeinschaft Queerpolitik vom 12.09.2024 - Schulungsstatus der Mitarbeitenden des Standesamtes in Bezug auf das Selbsbestimmungsgesetz - Kenntnis genommen
+- TOP 3: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 3.1: „Mein Körper – meine Entscheidung“ - Kölner Gleichstellungsaktionsplan zum Thema Reproduktive Rechte und Gesundheit - ungeändert beschlossen
+- TOP 3.2: Nachbesetzung sachkundige Einwohner*innen aus der StadtAG Queerpolitik - ungeändert beschlossen
+- TOP 3.3: Antrag an das Budget der StadtAG Queerpolitik - ColognePride-Regenbogenfahnen mit StadtAG-Logo für die Rheinbrücken - ungeändert beschlossen
+- TOP 3.4: Antrag an das Budget der StadtAG Queerpolitik - Workshop zur Gremienarbeit für die neugewählten stimmberechtigte Mitglieder der StadtAG Queerpolitik und den sachkundigen Einwohner*innen - ungeändert beschlossen
+- TOP 3.5: Antrag an das Budget der StadtAG Queerpolitik - Workshop zur Weiterentwicklung der Geschäftsordnung der StadtAG Queerpolitik für stimmberechtigte Mitglieder und sachkundige Einwohner*innen - ungeändert beschlossen
+- TOP 3.6: Appell an die Mitglieder des Ausschusses für Soziales, Seniorinnen und Senioren, des Gesundheitsausschusses und des Jugendhilfeausschusses zum Haushaltsplanentwurf 2025/2026 - ungeändert beschlossen
+- TOP 4: Trans
+- TOP 5: LSBTI Geflüchtete
+- TOP 6: Sichtbarkeit von Lesben in Köln
+- TOP 6.1: Rückblick auf das 10jährige Dyke* March Cologne Jubiläum 2024 - zurückgestellt
+- TOP 6.2: Ausblick Lesbian Visibiliy Weeks 2025 - Kenntnis genommen
+- TOP 7: Diversity
+- TOP 7.1: Evaluierungsbericht des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 8: Bericht der Fachstelle LSBTI
+- TOP 8.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2024 - Kenntnis genommen
+- TOP 9: Sachstandsberichte und Mitteilungen
+- TOP 9.1: Bericht aus dem Arbeitskreis Schule - Kenntnis genommen
+- TOP 9.2: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - Kenntnis genommen
+- TOP 9.3: Orange Days 2024 - Kenntnis genommen
+- TOP 9.4: Vernetzungstreffen der StadtAG Queerpolitik mit Vertreter*innen weiterer queerer Organisationen sowie aus Politik und Stadtgesellschaft 2024 - Kenntnis genommen
+- TOP 9.5: Bericht der Behindertenbeauftragten der Stadt Köln 04/2024 - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen
+- TOP 10.1: Gesundheitsausschuss: Anfrage zur Mittelkürzung für HIV-/Aids- Förderung im Landeshaushaltsentwurf 2025 - Kenntnis genommen
+- TOP 10.2: Bericht aus dem Ausschuss für Soziales, Seniorinnen und Senioren zum erweiterter Bezug von Sitzungsgeld für StadtAG Mitglieder
+- TOP 11: Neue Anfragen
+- TOP 12: Themen der nächsten Stadtarbeitsgemeinschaft Queerpolitik
+- TOP 13: Verschiedenes
