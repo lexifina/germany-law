@@ -1,0 +1,89 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-11-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894743
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894743
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 29.10.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 29.10.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Linksabbiegemöglichkeiten für Fahrradfahrer in der Baumkirchner Straße / Berg-am-Laim-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Sonnwendjochstr. 39 - Neubau dreier Mehrfamilienhäuser mit Tiefgarage (Sonnwendjochstr. 39 / Waldstr. 16)
+- TOP 3.1.2.: Kreillerstr. 129 - Neubau eines Flexi-Heims Variante 1 zur Unterbringung wohnungsloser Familien mit Mobilitätskonzept
+- TOP 3.1.3.: Guffertstr. 28 - Neubau eines Mehrfamilienhauses mit Garage und 2 Stellplätzen und Neubau eines Einfamilienhauses mit Garage - VORBESCHEID
+- TOP 3.1.4.: Kreillerstraße 129: Umsetzung des genehmigten Wohnbauvorhabens anstelle eines Flexi-Heims; Antrag der CSU-Fraktion
+- TOP 3.1.5.: Die LHM soll in Berg am Laim Rückzugsorte für Igel für den Winterschlaf bauen; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.1.6.: Beleuchtung in der Schlüsselbergstr.; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Öffentliche Toilette am neuen „Campus-Spielplatz“ im Echardinger Anger; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: StVO-Novellierung 2024: Unterlagen zur Informationsveranstaltung am 22.10.2024 sowie Bitte um Rückmeldung zu Altfällen
+- TOP 3.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes, Frist bis zum 02.12.2024; Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes, Frist bis zum 09.12.2024; Anhörung des Mobilitätsreferats
+- TOP 3.2.4.: Halteverbot in der Blombergstr. Einmündung St.-Veit-Str., Frist bis zum 05.12.2024; Anhörung des Mobilitätsreferats
+- TOP 3.2.5.: Interfraktioneller Antrag vom BA 20: Stadtweite Lösung für das Abstellen von E-Scootern
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Kinderaktionen des AKA e.V. in diversen städtischen Grünanlagen, Frist bis zum 20.12.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: "Neubau Kulturzentrum, MVHS und Haus für Kinder" an der St.Michael-Straße; Anhörung des Kommunalreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget MAGs - München Aktiv für Gesundheit e. V. Selbstbehauptungskurs für Frauen vom 16.12.2024 - 05.05.2025 1.350,00 €; Az. 0262.0-14-0428
+- TOP 3.5.2.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Variete. April bis November 2025 8.938,00 €, Az. 0262.0-14-0429
+- TOP 3.5.3.: (E) Stadtbezirksbudget AKA - Aktiv für interKulturellen Austausch e. V. Formularhilfen/-service vom 01.01. - 31.12.2025 2.446,00 €; Az. 0262.0-14-0430
+- TOP 3.5.4.: (E) Stadtbezirksbudget FC Phönix München e. V. Sanierung der Gymnastikhalle und der Zuwegung zur Halle (Treppe und Flur) vom 07.01. - 17.01.2025 7.000,00 €; Az. 0262.0-14-0431
+- TOP 3.5.5.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse: Antrag der democraticArts gGmbH für die Maßnahme: democraticArts-Ferienworkshop und democrArts’Youth-Team vom 28. – 30.10.2024
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Sonnwendjochstr. 39
+- TOP 3.6.2.: Siegsdorfer Str. 8
+- TOP 3.6.3.: Hansjakobstr. 118
+- TOP 3.6.4.: Großvenedigerstr. 47a
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Oktober 2024
+- TOP 4.1.2.: Antwortschreiben zum Rückschreiben bezüglich der Vogelnistkästen in den Grünflächen von „Münchner Wohnen“
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Mitteilung Pächterwechsel
+- TOP 4.2.2.: Verkehrssituation in der Hansjakobstr.
+- TOP 4.2.3.: Schulwegsicherheit an der Schule in der St.-Veit-Str.
+- TOP 4.2.4.: Neuer Spielplatz im Echardinger Anger: Radfahrer bitte absteigen!
+- TOP 4.2.5.: Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München sowie Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München Beschlussentwurf des Kreisverwaltungsreferats
+- TOP 4.2.6.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 4.2.7.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 4.2.8.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 4.2.9.: 2. Stammstrecke, PFA 3 Ost – 4. Planänderung - Vorabstimmung -
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Antwortschreiben zum Rückschreiben bezüglich (U) Errichtung eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen in der Truderinger Straße WA1 14. Stadtbezirk Berg am Laim Genehmigung des Nutzer*innenbedarfsprogramms
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: (U) Zeitgemäße Wohnformen Älterer, Bericht zum Stand der Umsetzung
+- TOP 4.4.2.: (U) Perspektiven der Beratungsstruktur für ältere Menschen und Angehörige in München Fragenkatalog zum Thema Pflegestützpunkte Schreiben des Bezirksausschusses des Stadtbezirks 18 - Untergiesing-Harlaching vom 28.02.2024
+- TOP 4.4.3.: (U) Verlängerung von Unterkünften zur Unterbringung Geflüchteter an den Standorten • Hansastraße 55 • Gerty-Spieß-Straße. 9+11 • Maria-Goeppert-Mayer-Straße. 21 • Kronstadter Straße. 36 • Hachinger-Bach-Straße. 19 7. Stadtbezirk – Sendling - Westpark 12. Stadtbezirk - Schwabing - Freimann 13. Stadtbezirk - Bogenhausen 14. Stadtbezirk – Berg am Laim
+- TOP 4.4.4.: (U) Standortbeschluss zur Unterbringung wohnungsloser Haushalte Neubau eines Flexi-Heims Variante 1 für Familien Kreillerstraße 129 14. Stadtbezirk - Berg am Laim Beauftragung zur Durchführung von Trägerschaftsauswahlverfahren für das Flexi-Heim Kreillerstraße 129 und das Flexi-Heim im WA 19 Helmut-Schmidt-Allee 14. Stadtbezirk - Berg am Laim 22. Stadtbezirk - Aubing - Lochhausen - Langwied
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Schlechte Haushaltslage: Bezirksausschuss bei Streichung von investiven Projekten mit einbeziehen
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
