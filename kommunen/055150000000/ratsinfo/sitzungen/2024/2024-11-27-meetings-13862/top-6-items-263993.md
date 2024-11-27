@@ -1,0 +1,8 @@
+# TOP 6: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen": Erhöhung der Entgelte für städtische Sportstätten einschließlich der Tennis- und Speckbrettplätze mit wassergebundener Decke
+
+- Sitzung: Sitzung (Etat) (2024-11-27)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/263993
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/87407
