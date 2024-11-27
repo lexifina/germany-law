@@ -13,6 +13,7 @@ Der berufspraktische Teil des Studiums
 | § 5 | Kooperationsvereinbarungen |
 | § 6 | Praxiseinsätze in Krankenhäusern |
 | § 7 | Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen |
+| § 7a | Praxiseinsätze in klinischen und außerklinischen Einrichtungen im Ausland |
 | § 8 | Umfang und Inhalt der Praxiseinsätze |
 | § 9 | Praxisplan |
 | § 10 | Qualifikation der Praxisanleitung |

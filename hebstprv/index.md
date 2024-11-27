@@ -18,6 +18,7 @@
 - [§ 5 Kooperationsvereinbarungen](0005.md)
 - [§ 6 Praxiseinsätze in Krankenhäusern](0006.md)
 - [§ 7 Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen](0007.md)
+- [§ 7a Praxiseinsätze in klinischen und außerklinischen Einrichtungen im Ausland](0007a.md)
 - [§ 8 Umfang und Inhalt der Praxiseinsätze](0008.md)
 - [§ 9 Praxisplan](0009.md)
 - [§ 10 Qualifikation der Praxisanleitung](0010.md)
