@@ -1,0 +1,68 @@
+# Gemeinderat (41. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2024-11-28T18:00:00+01:00
+- Ende: 2024-11-28T21:43:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYOayJPR1SgJO1yAme57tbA
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2009
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbYEQZhgMD3oOu9JlrWPwtREJOtUXt_xOqFiLwubQxhU/Bekanntmachung_Gemeinderat_28.11.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWLzee1eIemEXNTMJMxF5OpwffOD368Wn2XPI4Udob7X/Oeffentliche_Niederschrift_Gemeinderat_28.11.2024.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Evaluierung des jährlichen Vereinszuschusses für die Fußballvereine - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 4.1: Gebührenkalkulation Abfallbeseitigung 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Gebührenkalkulation Abwasserbeseitigung 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Gebührenkalkulation Winterdienst 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.4: 7. Änderungssatzung über die Erhebung von Gebühren für die Benutzung der Friedhöfe der Gemeinde Aldenhoven (Friedhofsgebührensatzung) - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Genehmigung von Eilentscheidungen des Hauptausschusses
+- TOP 5.1: Öffentliche Auslegung der Neuaufstellung des Regionalplanes für den Regierungsbezirk Köln, zweiter Planentwurf, Stellungnahme - 22 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Neubesetzung von Ausschüssen und Gremien
+- TOP 6.1: Neubesetzung von Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Neubesetzung des Bauverwaltungsausschusses und des Partnerschaftskomitees - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Überörtliche Prüfung der Gemeindeprüfanstalt der Jahre 2022 und 2023 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Unterjährige Stellenplanergänzung/-änderung 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3: Unterjährige Stellenplanergänzung/-änderung 2024 - 15 Ja-Stimme(n), 8 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.4: Einbringung des Entwurfs der Haushaltssatzung 2025 mit ihren Anlagen
+- TOP 7.5: Grundsteuerreform 2025 Hier: differenzierter Hebesatz und Grundsteuer C - Einstimmig, 7 Enthaltung(en)
+- TOP 7.6: Lehrschwimmbecken, Turnhalle und FKS Siersdorf – Bauabschnitt 2, Bauliche Umsetzung Brandschutzkonzept - Einstimmig, 0 Enthaltung(en)
+- TOP 7.7: Instandsetzung des Dachstuhls an der Alten Schule in Dürboslar - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Schulentwicklungsplanung 2024/25 bis 2028/2029 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Naturnahe Inwertsetzung der Nordkante des zukünftigen Indesees als interkommunales Strukturwandelprojekt. - Zur Kenntnis genommen
+- TOP 10.: Entwicklungsgesellschaft indeland GmbH (EwiG) hier: Beteiligung an der NRW.URBAN Kommunale Entwicklung GmbH (NRW.URBAN) - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Preisverleihung Heimatpreis 2024 der Gemeinde Aldenhoven - Zur Kenntnis genommen
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP 14.: Vertretung im Amt gemäß § 68 Absatz 1 GO NRW hier: Bestellung des allgemeinen Vertreters des Bürgermeisters - 14 Ja-Stimme(n), 7 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Beteiligung der Regionetz GmbH an der smartOPTIMO GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Beteiligung der RURENERGIE GmbH an dem Windpark Zülpich-Rövenich - Einstimmig, 0 Enthaltung(en)
+- TOP 2.3: Ankauf durch die EWV von Gesellschaftsanteilen der Westenergie GmbH in Höhe von jeweils 49 % an verschiedenen Energiepartner Projekten - Einstimmig, 0 Enthaltung(en)
+- TOP 2.4: Beteiligung der RURENERGIE GmbH an der REA Windpark Indebogen GmbH & Co.KG - Einstimmig, 0 Enthaltung(en)
+- TOP 2.5: Änderung des Ergebnisabführungsvertrages zwischen STAWAG und Regionetz GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 2.6: Beteiligung der EWV GmbH an dem Windprojekt Baesweiler Oidtweiler - Einstimmig, 0 Enthaltung(en)
+- TOP 2.7: EWV Energie- und Wasser Versorgung GmbH hier: Gründung von je einer Netzeigentumsgesellschaft für den Hochdruckring im Kreis Heinsberg, sowie für die Strom- und Gasnetze auf dem Gebiet der Stadt Übach-Palenberg durch die Regionetz GmbH und der NEW Netz GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 2.8: Berichte aus den Gremien
+- TOP 3.: Auftragsvergaben
+- TOP 3.1: Ersatzbeschaffung eines Fahrzeuges für den Baubetriebshof gem. Haushaltsplan 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Erwerb von Grünland - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Vertragsangelegenheiten
+- TOP 5.1: Abschluss einer Nutzungsvereinbarung zwischen der Gemeinde Aldenhoven und dem BogenSport-Club Alsdorf 1997 e.V. - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Abschluss eines Gestattungs- bzw. Mietvertrages mit der Sparkasse Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Abschluss eines Pachtvertrages zur Nutzung einer gemeindlichen Fläche zur befristeten Errichtung einer provisorischen Kindertagesstätte - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
