@@ -15,7 +15,7 @@
 
 - [§ 3 Basiswert](0003.md)
 - [§ 4 Erweiterung der Definition der Biokraftstoffe](0004.md)
-- [§ 4a Regelungen für die Verpflichtungsjahre 2019 bis 2021](0004a.md)
+- [§ 4a Regelungen für die Verpflichtungsjahre 2024 bis 2027](0004a.md)
 
 ### Abschnitt 2 Straßenfahrzeuge mit Elektroantrieb
 
