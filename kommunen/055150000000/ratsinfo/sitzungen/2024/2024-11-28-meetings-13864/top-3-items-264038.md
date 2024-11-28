@@ -1,0 +1,8 @@
+# TOP 3: Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen.
+
+- Sitzung: Sitzung (Etat) (2024-11-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/264038
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/86735
