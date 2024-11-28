@@ -30,3 +30,6 @@ Amtsgericht Bremen | Alle Verbraucherinsolvenzverfahren der Abteilungen 301, 303
 Amtsgericht Bremen | Alle Familienverfahren der Abteilungen 60, 65 und 68 | 21. Oktober 2024
 Amtsgericht Bremen | Alle Familienverfahren der Abteilungen 57, 58, 59, 61, 62, 63, 64, 66, 67, 69, 70 und 71 | 18. November 2024
 Amtsgericht Bremerhaven | Alle Insolvenzverfahren der Abteilung 10, jeweils mit Ausnahme der Tabellen gemäß § 175 Insolvenzordnung | 4. November 2024
+Amtsgericht Bremerhaven | Alle Insolvenzverfahren der Abteilung 10, jeweils mit Ausnahme der Tabellen gemäß § 175 Insolvenzordnung | 4. November 2024
+Amtsgericht Bremerhaven | Alle Verfahren in Nachlasssachen der Abteilung 7 mit Ausnahme der Urkundssachen I und II | 2. Dezember 2024
+Amtsgericht Bremen- Blumenthal | Alle Verfahren in Nachlasssachen der Abteilung 50 mit Ausnahme der Urkundssachen I und II | 2. Dezember 2024
