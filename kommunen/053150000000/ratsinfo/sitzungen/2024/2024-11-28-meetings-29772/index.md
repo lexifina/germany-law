@@ -1,0 +1,78 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-28T16:00:00+01:00
+- Ende: 2024-11-28T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29772
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29772
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Präsentation Baumkataster
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "St.Sebastianus & Afra Schützenbruderschaft Köln von 2012 e.V" - zurückgestellt
+- TOP 1.1.1: Beantwortung einer schriftlichen Anfrage der Ratsgruppe Klima Freunde & Gut in der Sitzung des Ausschusses Klima, Umwelt und Grün am 25.04.2024 betreffend "St. Sebastianus & Afra Schützenbruderschaft Köln von 2012 e.V." - zurückgestellt
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betr.: "Gremberger Wäldchen – Ausbau der A4" - zurückgestellt
+- TOP 1.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Entwicklung der Kölner Straßenbäume" - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 31.10.2024 (AN/1334/2024) betreffend "Entwicklung der Kölner Straßenbäume" - Kenntnis genommen
+- TOP 1.4: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bebauungspläne und Bäume - Verbindlich. Vergesslich. Köln." - zurückgestellt
+- TOP 1.5: Anfrage der Fraktion Die Linke. betr.: "Erneuerung von zwei bzw. vier Brücken im Autobahnkreuz (AK) Köln-Gremberg 2025" - zurückgestellt
+- TOP 1.6: Anfrage der Fraktion Die Linke. betr.: "Mit laufendem Motor die Luft verschmutzen - was tut die Stadt?" - zurückgestellt
+- TOP 1.7: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Renaturierung des Grundstücks an der Erftstraße" - zurückgestellt
+- TOP 1.7.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 28.11.2024 (AN/1651/2024) betreffend „Renaturierung des Grundstücks an der Erftstraße“ - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion betr.: "Logistikkonzept der Klärschlammverbrennung überarbeiten" - endgültig abgelehnt
+- TOP -: Änderungsantrag zum Antrag der FDP-Fraktion (AN/0829/2024) - endgültig abgelehnt
+- TOP 2.1.1: Stellungnahme der Verwaltung zum Antrag der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 13.06.2024 betr.: "Logistikkonzept der Klärschlammverbrennung überarbeiten" (AN/0829/2024) - Kenntnis genommen
+- TOP 2.1.2: Stellungnahme zu einem Änderungsantrag zum Antrag AN/0829/2024der FDP-Fraktion betr.: "Logistikkonzept der Klärschlammverbrennungsanlage überarbeiten" (AN/1253/2024) - Kenntnis genommen
+- TOP 2.2: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Kölner Grüngürtelsystem: Weltkulturerbe jetzt!" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Zuschuss an die Kölner Wohnungsgenossenschaft eG für die Erstellung eines Konzepts zur energetischen Quartierssanierung - ungeändert beschlossen
+- TOP 3.2: Zuschussgewährung Stromspar-Check der Caritas (Fortführung bis 31.12.2026) - ungeändert beschlossen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Parkstadt Süd- Innerer Grüngürtel in Köln-Bayenthal,- Raderberg,- Zollstock,- Neustadt-Süd - ungeändert empfohlen
+- TOP 4.1.2: Planungsbeschluss auf Basis des Entwurfs EIFELWALL Parkstadt Süd - ungeändert empfohlen
+- TOP 4.1.3: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ohne Votum behandelt
+- TOP 4.1.4: Bau- und Mittelfreigabebeschluss für die Weiterführung des Rheinboulevards zwischen Hohenzollernbrücke und Tanzbrunnen auf Basis der Entwurfsplanung - ungeändert empfohlen
+- TOP 4.1.5: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - Arbeitstitel: Sicherung Gleueler Wiesen in Köln-Sülz - ungeändert empfohlen
+- TOP 4.1.6: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel", - ohne Votum behandelt
+- TOP 4.1.7: Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze - ungeändert empfohlen
+- TOP 4.1.8: Kalkberg, hier: Ausführung von Restarbeiten zum nutzungsunabhängigen Gebäudeverschluss und zur Sicherung der Bausubstanz in Vorbereitung einer Nachnutzung sowie Übertragung der Immobilie in das Allgemeine Liegenschaftsvermögen der Stadt Köln - ohne Votum behandelt
+- TOP 4.1.9: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - ohne Votum behandelt
+- TOP 4.1.10: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - zurückgestellt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Finanzierung eines Artenschutzprogrammes zur Erhaltung der Kammmolchpopulation im Umweltbildungszentrum Gut Leidenhausen - ungeändert beschlossen
+- TOP 4.2.2: Finanzierung von Umweltmaßnahmen der K.R.A.K.E. e.V. - ungeändert beschlossen
+- TOP 4.2.3: Finanzieller Zuschuss zur Durchführung der Erneuerung der Portalausstellung im Heideportal Leidenhausen - ungeändert beschlossen
+- TOP 4.2.4: Zuwendung für die Biologische Station Leverkusen Köln, Geräte für die Flächenpflege - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima und Stadtverschönerungsprogramm 2024 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.3: Gut Leidenhausen - Umsetzung der Ergänzung von der Bezirksvertretung Porz zum Planungsbeschluss 0311/2021 - Kenntnis genommen
+- TOP 7.4: Projektstart: Köln-Katalog Bestand - Kenntnis genommen
+- TOP 7.5: Bewirtschaftung des städtischen Waldes 2024/2025 - Kenntnis genommen
+- TOP 7.6: Mitteilung zu den Landschaftsparks im Kölner Westen - Kenntnis genommen
+- TOP 7.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Hochwasserkonzept mit Schwerpunkt Müll und Verantwortung für den Rhein, Az.: 207/23 - Kenntnis genommen
+- TOP 7.8: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.10.2020 betreffend: Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz (AN/1495/2020) - zurückgestellt
+- TOP 7.9: Sachstandsbericht zur Umsetzung eines stadtweiten Entsiegelungskatasters - Kenntnis genommen
+- TOP 7.10: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - zurückgestellt
+- TOP 7.11: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 20. November 2024 - Kenntnis genommen
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Evaluation der nachhaltigen Transformation des Kultursektors in Köln - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Sachstand der Handlungsempfehlungen für Photovoltaik-Freiflächenanlagen“ - Kenntnis genommen
+- TOP 8.4: Beantwortung einer mündlichen Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 31.10.2024 betr. "Sachstand Grundwassermanagement" - Kenntnis genommen
+- TOP 8.5: Beantwortung der mündlichen Nachfragen von RM Becker und RM Dommnich aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 31. Oktober 2024 bezüglich des Energiemanagementkonzepts 2023 - Kenntnis genommen
+- TOP 8.6: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 31.10.2024 zur Klimaschutzberichterstattung - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
