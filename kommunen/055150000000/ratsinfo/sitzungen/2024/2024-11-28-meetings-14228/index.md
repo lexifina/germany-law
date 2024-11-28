@@ -1,0 +1,14 @@
+# gemeinsame nicht öffentliche Sondersitzung des Ausschusses für Personal, Digitalisierung, Organisation, Sicherheit und Ordnung und dem Betriebsausschuss der Abfallwirtschaftsbetriebe
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-11-28T16:30:00+01:00
+- Ende: 2024-11-28T17:01:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/522
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14228
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14228
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
