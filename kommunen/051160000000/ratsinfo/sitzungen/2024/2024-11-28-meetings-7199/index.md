@@ -1,0 +1,62 @@
+# Ausschuss für Finanzen, Beteiligungen und Wirtschaft
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2024-11-28T17:25:00+01:00
+- Ende: 2024-11-28T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7199
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7199
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00243112.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00243112.pdf
+- Wortprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00243112.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Ausschusses für Finanzen, Beteiligungen und Wirtschaft vom 26.09.2024 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2023 - Einstimmiger Beschluss
+- TOP 3: Verwendung des Jahresüberschusses 2023 - Kenntnisnahme
+- TOP 4: Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden – Bericht zur Umsetzung der Ratsbeschlüsse vom 13.09.2023 - Kenntnisnahme
+- TOP 5: Bau- und Investitionsbeschluss Neues Verwaltungsgebäude Rheydt (Bauteil A) - Mit Stimmenmehrheit beschlossen
+- TOP 6: Satzung der Stadt Mönchengladbach über die Festsetzung der Hebesätze für die Grundsteuer für das Haushaltsjahr 2025 - Einstimmiger Beschluss
+- TOP 7: Wirtschaftsplan des Gebäudemanagement Mönchengladbach (gmmg) für die Jahre 2025 und 2026 - Einstimmiger Beschluss
+- TOP 8: Entwurf des Haushaltes 2025/2026; Haushaltssatzung einschließlich Anlagen - Ohne Abstimmung
+- TOP 8.1: Stellenplan 2025 / 2026 - Einstimmiger Beschluss
+- TOP 8.2: Haushaltsantrag: Aus- und Anbau von Serviceräumen an das Gymnasium Rheindahlen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 8.3: Haushaltsantrag: Ausbau Radwegenetz - Mit Stimmenmehrheit abgelehnt
+- TOP 8.4: Beratung des Entwurfs des Haushaltes 2025/2026 - Vom Antragsteller zurückgezogen
+- TOP 8.5: Beratung des Entwurfs des Haushaltes 2025/2026 - Vom Antragsteller zurückgezogen
+- TOP 8.6: Beratung des Entwurfs des Haushaltes 2025/2026 KOS - Vom Antragsteller zurückgezogen
+- TOP 8.7: Beratung des Entwurfs des Haushaltes 2025/2026; Hier: CDU-Fraktionsantrag vom 21.11.2024 - Vom Antragsteller zurückgezogen
+- TOP 8.8: Beratung des Entwurfs des Haushaltes 2025/2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 8.9: Beratung des Entwurfs des Haushaltes 2025/2026; Hier: gemeinsamer Fraktionsantrag von SPD, GRÜNE und FDP vom 12.11.2024 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 8.10: Untersuchung der Aufwandssteigerungen im städtischen Haushalt und Identifikation von Konsolidierungspotentialen; Hier: gem. Fraktionsantrag SPD, GRÜNE und FDP vom 12.11.2024 - An den Hauptausschuss verwiesen
+- TOP 9: Beteiligung der WFMG - Wirtschaftsförderung Mönchengladbach GmbH; hier: Satzungsanpassung Standort Niederrhein GmbH - Einstimmiger Beschluss
+- TOP 10: Bereitstellung von Haushaltsmitteln für die Finanzierung des Eigenanteils zu den investiven Förderanträgen der WICMG GmbH aus dem Stadtentwicklungsprogramm „Rheinisches Revier der Zukunft“ (STEP RR) - Mit Stimmenmehrheit beschlossen
+- TOP 11: Anpassung der Gesellschaftsverträge und Satzungen städtischer Beteiligungen an die geänderten Vorschriften der Gemeindeordnung NRW (GO NRW) - Einstimmiger Beschluss
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2024 (4. Nachweisung) - Kenntnisnahme
+- TOP 13: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 14.150.000 € im Bereich "Hilfe zur Erziehung" - Einstimmiger Beschluss
+- TOP 14: Bereitstellung überplanmäßiger Haushaltsmittel 2024 im Bereich Wirtschaftliche Altenhilfe, hier Leistungen an natürliche Personen innerhalb von Einrichtungen - Einstimmiger Beschluss
+- TOP 15: Schulorganisatorische Maßnahme im Sekundarbereich; Hier: Errichtung der vierzügigen „städtischen Gesamtschule Breite Straße" mit Wirkung zum 01.08.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 16: Vorschlag zur Installation eines Informationspfades Hindenburgstraße - Einstimmiger Beschluss
+- TOP 17: Kostenschätzung für die Wahl des Seniorenrates - Kenntnisnahme
+- TOP 18: Änderung des Paragraph 4 der Satzung des Seniorenrates - In den nächsten Ratszug geschoben
+- TOP 19: Fraktionsantrag Nr. 3496/X: Änderung des Paragraph 4 der Satzung des Seniorenrates, Antrag der CDU-Ratsfraktion vom 03.09.2024, hier: Wahl des Seniorenrats 2025 - Einstimmiger Beschluss
+- TOP 20: Leistungsvereinbarungen Frauenhäuser - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 21: Zuwendungsgewährung Erziehungsberatungsstelle AWO-Familienservice gGmbH - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 22: Zuwendungsgewährung Erziehungsberatungstelle Bistum Aachen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Zuwendungsgewährung Erziehungsberatungsstelle Diakonisches Werk MG gGmbH - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Zuwendungsgewährung Deutscher Kinderschutzbund e.V. Ortsverband Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 25: Zuwendungsgewährung Beratungsstelle Zornröschen e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 26: Zuwendungsgewährung Beratungsstelle Menschen im Zentrum e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: Zuwendungsgewährung Frauenberatungsstelle Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Zuwendung an die Arbeiterwohlfahrt Kreisverband Mönchengladbach e. V. für mobile Jugendarbeit und Streetwork - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Zuwendung an die Queeres Jugendzentrum Mönchengladbach gGmbH - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Zweckgebundene Zuwendung Diakonie - Frauenstreetwork - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 31: Bestandssanierung Kälteanlagen Theater Rheydt Odenkirchener Straße 78 - Einstimmiger Beschluss
+- TOP 32: Soziale Stadt Gladbach und Westend – Bauliche Ertüchtigung des städtischen Kinder- und Jugendzentrums Jukomm im STEP - Einstimmiger Beschluss
+- TOP 33: Gesamtstädtisches integriertes Energiekonzept Mönchengladbach inklusive kommunaler Wärmeplanung - Einstimmiger Beschluss
+- TOP 34: Installation eines weiteren Spielgerätes auf dem Rheydter Marktplatz - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Anfragen und Mitteilungen - Es liegen keine Wortmeldungen vor.
