@@ -1,0 +1,75 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-11-28T18:00:00+01:00
+- Ende: 2024-11-28T19:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26287
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26287
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 28.11.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00538198.pdf
+- Ergebnisprotokoll: NachtragsTO vom 28.11.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00538198.pdf
+- Wortprotokoll: NachtragsTO vom 28.11.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00538198.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 14.11.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 10.10.2024
+- TOP 4: Umsetzung stationsbasierter Sharing-Angebote im Rahmen des Sofortprogramms im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Städtebaulich-freiraumplanerischer Wettbewerb Nr. 08/009 - Schloßallee-Heidelberger Straße - einstimmig beschlossen
+- TOP 10: Verlängerung des Weihnachtsmarktes Eller im Jahr 2024 - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2024 - einstimmig beschlossen
+- TOP 12: Unterhaltung von Schulen im Stadtbezirk 8, Liste A - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - beschlossen
+- TOP 14: Kindertagesstätten - Ausstattung mit Luftfilter (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Verkehrsplanung Glashüttenviertel (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Parkregeln für E-Scooter im Stadtbezirk 08 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Parkzone für Elterntaxis an der Volker Rosin Grundschule (Anfrage SPD-Fraktion) - beantwortet
+- TOP 18: Wohn- und Geschäftsgebäude Vennhauser Allee 197 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Beleuchtung am Schulstandort GHS Am Ellerforst (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Überplanung Schlossallee (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Freundeskreis Kultur Bahnhof Eller (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Tempo 30 auf einem Teilstück der Gerresheimer Landstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 23: Kreuzung Heidelberger Straße/Karlsruher Straße/Bernburger Straße (Anfrage CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Instandsetzung Gehwegplatten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Graffiti an Unterführungen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Straßenbelag Kamper Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Schulwegsicherheit Richardstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Freigabe des westlichen Radwegs Bernburger Straße in Gegenrichtung und Stand des Radhauptnetzes in Eller/Lierenfeld (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 30: Abbau von Telefonzellen und -säulen (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 31: Aufstellung von Müllbehältern (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 32: Fahrradbügel in Unterbach (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: Kissinger Straße - Entschärfung Kurvenbereiche (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 34: Sanierung Auguste-Leven-Weg (Antrag SPD-Fraktion) - zurückgezogen
+- TOP 35: Kreuzung Vennhauser Allee / Rothenbergstraße (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 36: Barrierefreies Eller: Weiteres Vorgehen (Antrag CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 37: Kreuzung Schlesische Straße/Reisholzer Straße/Kuthsweg (Antrag CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 38: Sitzungstermine der Bezirksvertretung 8 im Jahre 2025 - zur Kenntnis genommen
+- TOP 39: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 40: Markierung Fahrradbereiche vor Ampeln - zur Kenntnis genommen
+- TOP 41: Altpapiercontainer Dillenburger Weg und Darmstädter Straße - zur Kenntnis genommen
+- TOP 42: Einfassen von Baumscheiben - zur Kenntnis genommen
+- TOP 43: Darmstädter Straße - Tempo 30-Zone - zur Kenntnis genommen
+- TOP 44: Umrüstung der Beleuchtung Karl-Frech-Straße - zur Kenntnis genommen
+- TOP 45: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Beleuchtung Auguste-Leven-Weg - zur Kenntnis genommen
+- TOP 47: Weinheimer Straße - Einmündungsbereich für Fahrradfahrer - zur Kenntnis genommen
+- TOP 48: Alt-Eller - Fußgängerüberweg - zur Kenntnis genommen
+- TOP 49: Roßbachstraße - Müllkörbe - zur Kenntnis genommen
+- TOP 50: Eller Forst – Hinweisschilder zum Gedenkstein - zur Kenntnis genommen
+- TOP 51: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 52: Anwohnerparken Schlesische Straße - zur Kenntnis genommen
+- TOP 53: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 54: Vennhauser Allee - Barrierefreier Ausbau der Haltestelle "Am Ellerforst" im Zuge des Schulneubaus Vennhauser Allee 167 - zur Kenntnis genommen
+- TOP 55: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Radverkehrsmaßnahmen bis Herbst 2025 - zur Kenntnis genommen
+- TOP 57: Wiederherstellung der Straßen Am Strasserfeld und Akazienstraße nach Durchführung der Kanalbaumaßnahme - zur Kenntnis genommen
+- TOP 58: Verschiedenes
