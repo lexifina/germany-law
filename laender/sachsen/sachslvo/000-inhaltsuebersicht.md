@@ -1,7 +1,8 @@
+## Verordnung der Sächsischen Staatsregierung über die Laufbahnen der Beamtinnen und Beamten sowie Richterinnen und Richter im Freistaat Sachsen (Sächsische Laufbahnverordnung – SächsLVO)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeines
 § 1 Geltungsbereich
-§ 2 Übernahme von früheren Beamten und von Beamten anderer Dienstherren
+§ 2 Übernahme von früheren Beamtinnen und Beamten sowie von Beamtinnen und Beamten anderer Dienstherren
 Abschnitt 2 Gestaltung der Laufbahnen
 § 3 Zuständigkeit für die Laufbahnen
 § 4 Laufbahnschwerpunkte
@@ -13,7 +14,7 @@ Abschnitt 4 Erwerb der Laufbahnbefähigung
 § 8 Dienstbezeichnung während des Vorbereitungsdienstes
 § 9 Notenstufen für Prüfungen im Vorbereitungsdienst
 § 10 Erwerb der Laufbahnbefähigung ohne Vorbereitungsdienst
-§ 11 Feststellung der Laufbahnbefähigung anderer Bewerber
+§ 11 Feststellung der Laufbahnbefähigung anderer Bewerberinnen und Bewerber
 Abschnitt 5 Anerkennung von in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem durch Abkommen gleichgestellten Staat erworbenen Berufsqualifikationen als Laufbahnbefähigung
 § 12 Anerkennung der Berufsqualifikation
 § 13 Antrag
@@ -52,9 +53,9 @@ Abschnitt 11 Besonderheiten für einzelne Fachrichtungen
 Abschnitt 12 Landespersonalausschuss
 § 37 Ausnahmebefugnisse des Landespersonalausschusses
 Abschnitt 13 Übergangs- und Schlussvorschriften
-§ 38 Überleitung von Laufbahnen und Beamten
+§ 38 Überleitung von Laufbahnen sowie Beamtinnen und Beamten
 § 39 Übergangsvorschriften für den Aufstieg
 § 40 Teilnahme am Lehrgang für Führungskräfte im Justizvollzugsdienst in der Fachrichtung Justiz vor Inkrafttreten dieser Verordnung
 § 41 Anrechnung von Dienstzeiten bei Anstellung vor dem 1. April 2009
 § 42 Übergangsvorschrift für die Führungskräftefortbildung
-Anlage: Übersicht zur Überleitung der Laufbahnen
+Anlage Übersicht zur Überleitung der Laufbahnen
