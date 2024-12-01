@@ -2,12 +2,11 @@
 
 | Der/Die Studierende der Zahnmedizin ........................... |
 | geboren am ......................... in ....................... |
-| ist im Fach ............................. |
+| ist im Fach/in der Fächergruppe ............................. |
 | am ............................... in .................................... geprüft worden. |
 | Beginn und Ende der Gruppenprüfung: ............................... |
 | Er/Sie hat die Note „...................................“ erhalten und damit die mündliche Prüfung |
 | bestanden/nicht bestanden. |
-| Tragende Gründe des Prüfungsergebnisses: ...................................... |
 |  |
 |  |
 |  |
@@ -26,4 +25,4 @@
 | Ort, Datum ........................,.............................. |  |
 |  |
 |  |  |
-| ..................................................(Unterschrift der prüfenden Person) | ...........................................(Unterschrift der beisitzenden Person) |
+| ..................................................(Unterschrift oder qualifizierte elektronische Signatur der prüfenden Person) | ...........................................(Unterschrift oder qualifizierte elektronische Signatur der beisitzenden Person) |

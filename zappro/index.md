@@ -183,6 +183,7 @@
 
 - [§ 133 Anwendung bisherigen Rechts](0133.md)
 - [§ 134 Abweichende Regelungen](0134.md)
+- [§ 135 Übergangsbestimmungen](0135.md)
 - [Anlage 1 (zu § 5 Absatz 2, § 15 Absatz 3 Satz 2,§ 20 Absatz 1 Satz 1 Nummer 4, § 82 Absatz 2 Nummer 9)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist](anlage-1.md)
 - [Anlage 2 (zu § 5 Absatz 2 und 3 Satz 1, § 20 Absatz 2 Satz 1 Nummer 3,§ 134 Absatz 1 Satz 4)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist](anlage-2.md)
 - [Anlage 3 (zu § 5 Absatz 2 und 3 Satz 2, § 16 Absatz 1 Satz 1und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist](anlage-3.md)
