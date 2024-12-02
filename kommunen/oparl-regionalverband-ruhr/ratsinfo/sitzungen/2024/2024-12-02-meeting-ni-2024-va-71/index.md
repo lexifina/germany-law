@@ -1,0 +1,101 @@
+# 16. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2024-12-02T10:00:00+01:00
+- Ende: 2024-12-02T11:50:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2024-VA-71
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2024-VA-71
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-VA-71
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-VA-71
+
+## Tagesordnung
+
+- TOP 1.: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2.: Doppelhaushalt 2025/2026
+- TOP 2.1: Verabschiedung des Haushaltsplans 2025/2026
+- TOP 2.1.1: Haushalt 2025/2026 für das Referat Mobilität
+- TOP 2.1.2: Doppelhaushalt 2025/26 für das Referat 4
+- TOP 2.1.3: Haushalt 2025-2026 für die Referate 8,9 und 15
+- TOP 2.1.4: Haushalt 2025 und 2026 - Haushalt 2025 und 2026 für die Referate VL/Büro RDin - Verbandsleitung, 5 - Euro- päische und regionale Netzwerke Ruhr, 6 - Finanzmanagement sowie 16 - Allgemeine Finanzwirtschaft
+- TOP 2.1.5: Haushalt 2025-2026 für die Referate 3, 18 und 22
+- TOP 2.1.6: Haushalt 2025-2026 für den Bereich Umwelt und Grüne Infrastruktur
+- TOP 2.1.7: Änderungsantrag zum Haushaltsplanentwurf 2025/2026
+- TOP 2.1.8: Änderungsantrag zum Haushaltsplanentwurf 2025/2026
+- TOP 2.1.9: Änderungsantrag zum Haushaltsplanentwurf 2025/2026
+- TOP 2.1.10: Änderungsantrag zum Haushaltsplanentwurf 2025/2026
+- TOP 2.1.11: Änderungsantrag zum Haushaltsplanentwurf 2025/2026
+- TOP 2.2: Benehmensherstellung zur Festsetzung des Umlagesatzes der Verbandsumlage für die Haushaltsjahre 2025 und 2026
+- TOP 2.3: Fortschreibung des Haushaltskonsolidierungsplanes 2025
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3.: Vorlagen der Bezirksregierungen
+- TOP 3.1: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. EUR Gesamtkosten (Titel 777 12): Priorisierung der Maßnahmen für das Jahr 2025
+- TOP 3.2: (Neu-)Aufstellung der verkehrlichen Bedarfspläne des Landes NRW Erstmalige Aufstellung des Bedarfsplans für Radschnellverbindungen
+- TOP 3.3: Aufnahme von Maßnahmen in den ÖPNV-Bedarfsplan: Anmeldung der Maßnahme "urbane Seilbahn in Herne" für den ÖPNV-Bedarfsplan (Übergangsregelung) und den ÖPNV-Infrastrukturfinanzierungsplan des Landes NRW
+- TOP 3.4: Aufnahme von Maßnahmen in den ÖPNV-Bedarfsplan: Anmeldung der Maßnahme "Anbindung des Wissenschaftscampus an die U42/H-Bahn in Dortmund" für den ÖPNV-Bedarfsplan (Übergangsregelung) und den ÖPNV-Infrastrukturfinanzierungsplan des Landes NRW
+- TOP 3.5: Förderprogramm 2025 zur Gefahrenermittlung und Sanierung von Altlasten sowie weiteren Maßnahmen des Bodenschutzes
+- TOP 3.6: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14): Priorisierung der Maßnahmen für das Jahr 2025
+- TOP 4.: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: 1. Änderung des Regionalplans Ruhr - Windenergie Aufstellungsbeschluss
+- TOP 4.1.1: 1. Änderung des Regionalplans Ruhr - Windenergie Hier: Aufstellungsbeschluss
+- TOP -: Ergänzung zur Drucksache Nr. 14/1759 1. Änderung des Regionalplans Ruhr - Windenergie Hier: Aufstellungsbeschluss
+- TOP 5.: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6.: Fraktionsanträge
+- TOP 7.: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8.: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2023
+- TOP 8.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2023 - Manifesta 16 Ruhr gGmbH
+- TOP 8.3: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Bürgschaftsübernahme für den Anteil der Bundesmittel des Eisenbahn-Bundesamtes - EBA (50 % der förderfähigen Kosten) für die Ersatzinvestition der Gleiserneuerung zwischen km 58,88 und 59,70 der Strecke Hattingen - Wengern-Ost
+- TOP 8.4: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Änderung der Gesellschaftervereinbarung
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH - Anpassung der Gesellschaftervereinbarungen
+- TOP 8.6: Angelegenheiten der Umweltzentrum Westfalen GmbH (UWZ) - Bauliche Weiterentwicklung der Ökologiestation des Kreises Unna in Bergkamen - Umwidmung von Investitionszuschüssen
+- TOP -: Änderungsantrag DIe Grünen Angelegenheiten der Umweltzentrum Westfalen GmbH (UWZ) - Bauliche Weiterentwicklung der Ökologiestation des Kreises Unna in Bergkamen - Umwidmung von Investitionszuschüssen
+- TOP 9.: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Regionaler Diskurs: Weiterentwicklung Beirat
+- TOP 9.2: Rahmenplanung FTK-Hotspot Haldenlandschaft Moers/Neukirchen-Vluyn, östlicher Teilraum Halde Rheinpreußen/Baerler Busch/Seen
+- TOP 10.: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Fahrradverleihsystem metropolradruhr Hier: Konzept Betriebsorganisation und Ausschreibung des metropolradruhr
+- TOP 11.: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Projektantrag im Bundesförderprogramm "chance.natur"
+- TOP 12.: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Regionale Kulturstrategie Ruhr
+- TOP 13.: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 13.1: Ruhr Futur gGmbH - Erwerb von Anteilen - Gesellschaftsvertrag
+- TOP 14.: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2025/2026
+- TOP 15.: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 15.1: Stellungnahme des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW
+- TOP 15.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.3: Bericht der Märkischen Revision GmbH des Regionalverbandes Ruhr über die Prüfung des Gesamtabschlussses zum 31.12.2022
+- TOP 16.: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Wiederwahl Markus Schlüter - Beigeordneter Bereich II - Wirtschaftsführung
+- TOP 16.2: Bildung und Besetzung des Wahlausschusses für die Wahl der Verbandsversammlung 2025
+- TOP 16.3: Benennung von Mitgliedern in den Aufsichtsrat der RuhrFutur gGmbH
+- TOP 16.4: RuhrFutur gGmbH - Bestellung einer Geschäftsführung im Nebenamt
+- TOP 16.5: Bekanntgabe der in der Zeit vom 01.07.2024 - 31.10.2024 für das Haushaltsjahr 2024 genehmigten Haushaltsüberschreitungen
+- TOP 16.6: Projekt- und Finanzberichtswesen zum 30.09.2024
+- TOP 16.7: Angelegenheiten des Referates Europa - Positionen des Ruhrgebiets zur EU-Kohäsionspolitik 2028-2034
+- TOP 17.: Fraktionsanträge/Resolutionen
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der AfD-Fraktion: 40 Bauprojekte im Ruhrgebiet - Fehler im LEP
+- TOP 18.1.2: Antwort auf die Anfrage der SPD-Fraktion zum Haushalt Mobilität
+- TOP 18.1.3: Antwort auf die Anfrage der SPD im Ruhrparlament: Förderprojekt LELINA
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
