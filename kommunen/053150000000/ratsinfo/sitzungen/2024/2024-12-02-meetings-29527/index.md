@@ -1,0 +1,82 @@
+# 33. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-02T17:00:00+01:00
+- Ende: 2024-12-02T18:45:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29527
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29527
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Erhöhung der Verkehrssicherheit im Einmündungsbereich Röntgenstraße/Ehrenfeldgürtel in Neuehrenfeld durch Schaffung von Radabstellanlagen (Az.: 02-1600-208-21) - Sache ist erledigt
+- TOP 3.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO– „Installation öffentliche Toiletten, Köln-Ehrenfeld“, Aktenzeichen 109/24 - Kenntnis genommen
+- TOP 3.3: Mitteilung zum Bürgerschreiben Umbenennung der Wißmannstraße - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 6.3: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - zurückgestellt
+- TOP 6.6: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Gefahr durch Rahmenbrüche bei Lastenrädern - zurückgestellt
+- TOP 6.8: Anfrage der SPD-Fraktion, betr,; Sachstand inklusive Fahrradwerkstatt im Bahnbogen Hüttenstraße - zurückgestellt
+- TOP 6.9: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - zurückgestellt
+- TOP 6.10: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Stand der Umsetzung der Entfernung von Hindernissen auf Geh- und Radwegen - zurückgestellt
+- TOP 6.11: Anfrage der SPD-Fraktion, betr: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport - zurückgestellt
+- TOP 6.12: Anfrage von Elke Schroeder (Klima Freunde), betr.: Kostenexplosion barrierefreier Umbau von vier Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.13: Anfrage der CDU-Fraktion, betr.: Verbindungsweg zwischen Vogelsanger Straße und Meisenweg parallel zum Zeisig Weg und zur Eisenbahntrasse der DB in 50829 Köln Vogelsang - zurückgestellt
+- TOP 6.14: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Soziale Einrichtungen im Stadtbezirk - zurückgestellt
+- TOP 6.14.1: Beantwortung einer Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Soziale Einrichtungen im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand BPD Grundstück, ehem. Toyota Autohaus - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand Aurelis Grundstück, Am Alten Güterbahnhof (Ostspitze) - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand Savvy Grundstück, ehem. Karadag - Sache ist erledigt
+- TOP 7.3.1: Beantwortung einer schriftlichen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN zur Sitzung am 02.12.2024 (AN/1666/2024) betreffend Sachstand Savvy Grundstück, ehem. Karadag - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und Elke Schroeder (Klima Freunde), betr.: Neupflanzung von Straßenbäumen an der Straße Am Alten Güterbahnhof - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Schulneubau Lindweiler Hof Bickendorf - endgültig zurückgezogen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - zurückgestellt
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Kreuzungsbereich Venloer Str./Innere Kanalstr. neu strukturieren - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Abbruch Rochusstraße 79 - Mitteilung aus der Sitzung am 04.11.2024 . TOP 12.10 - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Beratung des Haushaltsplan-Entwurfs 2025/2026 einschließlich der Finanzplanung bis 2029 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Ehrenfeld gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP 9.2: Haushaltsplan-Entwurf 2025/2026 Hier: Aufteilung der bezirksorientierten Mittel gem.§ 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.3: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld 2024/2025 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.4: Kanalsanierung des Bürgerschaftshauses Bocklemünd/Mengenich - WIRD UNTER TOP 12.11 behandelt
+- TOP 9.5: Förderprogramm über die Vergabe bezirksorientierter Mittel ab 2025 gemäß § 37 (3) GO NRW - ungeändert beschlossen
+- TOP 9.6: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Ehrenfeld 2. Vergabe - ungeändert beschlossen
+- TOP 9.7: Umgestaltung Bolzplatz 4 03 02 01 Max-Fremery-Straße Bickendorf - ungeändert beschlossen
+- TOP 9.8: Abschließende Vergabe der bezirklichen Finanzmittel 2024 gem. § 37 GO - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Einrichtung eines Radfahrstreifens auf der Stolberger Straße (zw. Oskar-Jäger-Straße – Eupener Straße) - ohne Votum behandelt
+- TOP 10.2: Feststellungsbeschluss zur 239. Änderung des Flächennutzungsplans, Arbeitstitel: „Gewerbegebiet Venloer Straße" in Köln-Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Südlich Subbelrather Straße/westlich Hackländer Straße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.4: Vorgabenbeschluss zur Ausarbeitung des Bebauungsplan-Entwurfs Nr.: 63460/05 Arbeitstitel: Max Becker-Areal in Köln Ehrenfeld - geändert beschlossen
+- TOP 10.5: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - ungeändert beschlossen
+- TOP 10.6: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ungeändert beschlossen
+- TOP 10.7: Änderung des Geltungsbereiches des Bebauungsplanes „Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg“ in Köln-Ehrenfeld und Änderung des Arbeitstitels in: „Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel" in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.2: Neubau einer überdachten Lagerfläche, Parkgürtel 24 - Kenntnis genommen
+- TOP 12.3: Bewirtschaftung des städtischen Waldes 2024/2025 - Kenntnis genommen
+- TOP 12.4: Städtebaulicher Masterplan Innenstadt - Niederschrift 35. Sitzung am 22.04.2024 - Kenntnis genommen
+- TOP 12.5: Wiederherstellung des ehemaligen Bickendorfer Dorfteiches – Kradepohl - Sachstand zur Bürgereingabe nach § 24 GO, Aktenzeichen 187/22B - Kenntnis genommen
+- TOP 12.6: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 12.7: Auswertungsbericht zum Modellprojekt: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 12.8: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024 - Kenntnis genommen
+- TOP 12.9: Verkehrsversuch Venloer Straße - Kenntnis genommen
+- TOP 12.10: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 12.11: Kanalsanierung des Bürgerschaftshauses Bocklemünd/Mengenich, Görlinger Zentrum 13-15, 50829 Köln - Kenntnis genommen
+- TOP 12.12: Bolzplatz im Leo-Amann-Park, Anfrage AN/077/2024 und Beschluss zum Antrag AN/1420/2024 - Kenntnis genommen
+- TOP 12.13: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
