@@ -1,0 +1,55 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-02T17:00:00+01:00
+- Ende: 2024-12-02T17:49:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29705
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29705
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: „Mein Körper – meine Entscheidung“ - Kölner Gleichstellungsaktionsplan zum Thema Reproduktive Rechte und Gesundheit - ungeändert beschlossen
+- TOP 2: Internationales
+- TOP 2.1: Humanitäre Hilfe für die Partnerstadt Dnipro (Ukraine): Abgabe von außerdienstgestellten Rettungswagen der Feuerwehr Köln für die Partnerstadt Dnipro (Ukraine) - ungeändert beschlossen
+- TOP 2.2: Aus der Sitzung des Integrationsausschusses vom 02.09.2024: Beantwortung einer mündlichen Anfrage betreffend "Global denken, lokal handeln: Chancen strategischer Städtepartnerschaften im globalen Süden"
+- TOP 2.3: Aus der Sitzung des Integrationsausschusses vom 02.09.2024: Beantwortung einer mündlichen Anfrage betreffend "Global denken, lokal handeln: Strategieoptimierung und Ausbau internationaler Kooperationen, AN/1149/202
+- TOP 3: Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der FDP-Fraktion betreffend "Mögliche chinesische Einflussnahme im Kölner Rathaus"
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion betreffend "Mögliche chinesische Einflussnahme im Kölner Rathaus"
+- TOP 3.2: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Unfallprävention im Straßenverkehr"
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Information zum 10-Punkte-Plan
+- TOP 4.2: Aus der Sitzung Ausschuss Soziales, Seniorinnen und Senioren: Beantwortung einer mündlichen Anfrage der SPD-Fraktion betreffend "Razzia im Pascha" (AN/0835/2024)
+- TOP 4.3: Online-Veranstaltung „Übergriffe und Gewalt gegenüber Mandatsträger*innen“
+- TOP 4.4: Auswertungsbericht zum Modellprojekt: Gebetsruf an Kölner Moscheen zum Freitagsgebet
+- TOP 4.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2024
+- TOP 4.6: Mitteilung zur Umsetzung des Beschlusses AN/0473/2023 – Nachhaltige Vergabe - zurückgestellt
+- TOP 4.7: Inklusionsbericht 2023
+- TOP 4.8: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 31. Oktober 2024
+- TOP 4.9: Leitfaden zum Umgang mit der Anmietung von öffentlichen Räumen durch extremistische, rassistische und antisemitische Gruppen - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Volt Fraktion betreffend "Sachstand Dienstvereinbarung Antidiskriminierung" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" AN/0568/2024 - zurückgestellt
+- TOP 8.2: Antrag der Fraktion Die Linke betreffend "Umgang mit wohnungslosen und kranken Menschen"
+- TOP -: Änderungsantrag zu TOP 8.2 Antrag der Fraktion Die Linke betreffend "Umgang mit wohnungslosen und kranken Menschen"
+- TOP -: Änderungsantrag der Volt-Fraktion betreffend "Umgang mit wohnungslosen und kranken Menschen“" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion betreffend "Die Funktionsfähigkeit des Kölner Taxigewerbes sicherstellen – Uber und andere Mietwagenanbieter stärker kontrollieren" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ungeändert beschlossen
+- TOP 10.2: Satzung über die Abfallentsorgung in der Stadt Köln 2025 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 10.3: 17. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ungeändert beschlossen
+- TOP 10.4: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag zum TOP 10.4 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 10.5: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - zurückgestellt
+- TOP 10.6: Satzung über die Abfallgebühren in der Stadt Köln 2025 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 10.7: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2025 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
