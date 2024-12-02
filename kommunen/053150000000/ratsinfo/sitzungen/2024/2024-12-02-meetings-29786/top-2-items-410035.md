@@ -1,0 +1,6 @@
+# TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+
+- Sitzung: 28. Sitzung des Bauausschusses (2024-12-02)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/410035
