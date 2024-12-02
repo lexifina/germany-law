@@ -1,0 +1,7 @@
+# TOP 2: Das neue Verwaltungsgebäude in Rheydt
+
+- Sitzung: Jugendparlament (2024-12-02)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/162401
+- Ergebnis: Kenntnisnahme
