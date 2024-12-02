@@ -1,0 +1,76 @@
+# 33.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-02T17:00:00+01:00
+- Ende: 2024-12-02T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29970
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29970
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Austausch mit Herrn Beigeordneten Stefan Charles, Dezernat Kunst und Kultur
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - "Schnullerbaum in Köln Mülheim" Aktenzeichen 104/24 B - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Bezirksvertretung Mülheim am 30.01.2023 betr. "Planung neuer Stadtbahntrassen" AN/0064/2023
+- TOP 7.1.2: Schikaneschaltungen bei Lichtsignalanlagen für den Kraftverkehr. Hier: Anfrage der Koalitionsfraktionen CDU und SPD sowie die FDP in der Sitzung der Bezirksvertretung Köln Mülheim vom 16.02.2024 TOP 7.2.4 aus der Sitzung vom 04.03.2024 (AN/0228/2024)
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Beantwortung einer schriftichen Anfrage der Fraktion DIE LINKE aus der Sitzung der BV 9 - Köln-Mülheim vom 30.09.2024 betr. "E-Scooter und Leihfahrräder stellen in Köln-Mülheim weiterhin eine Unfallgefahrt dar", AN/1313/2024
+- TOP 7.1.5: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE vom 26.02.2024 aus der Sitzung der BV 9 - Köln-Mülheim betr. "Nicht nur zur Vorweihnachtszeit und Silvester und auch nicht nur in der Innenstadt stellen ...", AN/0300/2024
+- TOP 7.1.6: Beantwortung der Anfrage AN/1470/2024 der Fraktion Die Linke in der Bezirksvertretung Mülheim zu Auswirkungen der Wohnraumschutzsatzung Kölns vom 30.06.2021 im Bezirk Köln-Mülheim
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Wie konsequent werden Vorrangschaltungen umgesetzt ?
+- TOP 7.2.2: Gibt es auch in Zukunft Winterhilfe und Notschlafplätze für Betroffene aus dem Stadtbezirk Köln- Mülheim ?
+- TOP -: Beantwortung einer Anfrage der Fraktion DIE LINKE in der Bezirksvertretung Mülheim vom 18.11.2024 betreffend "Gibt es auch in Zukunft Winterhilfe und Notschlafplätze für Betroffene aus dem Stadtbezirk Köln- Mülheim?"
+- TOP 7.2.3: Kann Graffitikunst an der Hochwasserschutzmauer am Stammheimer Ufer zwischen Raumannskaul und dem Gelände der Wassersportfreunde Neptun e.V offiziell stattfinden?
+- TOP 7.2.4: Steinpoller als Gefahrenquelle bewerten und gegebenenfalls abbauen oder austauschen
+- TOP 7.2.5: Fehlende Verkehrssicherheit auf der Honschaftsstr. (ab Nr. 294 bis zur Kreuzung Im Weidenbruch)
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Zu schnelles Fahren in der Keupstraße nachhaltig verhindern - endgültig abgelehnt
+- TOP 8.1.2: Einrichtung einer Querungshilfe auf der Wuppertaler Straße in Buchheim in Höhe der Fußballplätze FC Germania 1911 und dem in 2024 eingerichteten Spielplatz - geändert beschlossen
+- TOP 8.1.3: Vierteljährliche Auswertung von Geschwindigkeitsmessungen durch mobile und stationäre Blitzer im Bezirk Mülheim und eine Auflistung daraus abgeleiteter Maßnahmen zum Schutz von zu Fuß Gehenden und Fahrradfahrenden - ungeändert beschlossen
+- TOP 8.1.4: Sicherheit im öffentlichen Verkehrsraum – Höhenhaus, Bereich Wupperweg - Honschaftsstraße - ungeändert beschlossen
+- TOP 8.1.5: Es braucht jetzt eine soziale Erhaltungssatzung im Mülheimer Norden ! - endgültig abgelehnt
+- TOP 8.1.6: E-Scooter – Austausch in der Nacht - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beratung des Haushaltsplanentwurfs für den Haushalt 2025/ 2026 einschließlich der Finanzplanung bis 2029 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Mülheim gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP -: Anregungen zum Haushaltsplanentwurf 2025/2026 - ungeändert beschlossen
+- TOP 9.1.2: Haushaltsplan 2025/2026 hier: Veranschlagung der bezirksorientierten Mittel 2025/2026 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.3: Förderprogramm der Bezirksvertretung Mülheim für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW im Stadtbezirk Köln-Mülheim für das Doppelhaushaltsjahr 2025/2026 - ungeändert beschlossen
+- TOP 9.1.4: Förderung des Brauchtums in den Veedeln - Mittelvergabe Session 2024/25 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 69472/01 Arbeitstitel: Lindgens-Areal in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.2.2: Fortsetzung der Maßnahme "Willkommen und Ankommen in Köln" für Zugewanderte aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 9.2.3: Kalkberg, hier: Ausführung von Restarbeiten zum nutzungsunabhängigen Gebäudeverschluss und zur Sicherung der Bausubstanz in Vorbereitung einer Nachnutzung sowie Übertragung der Immobilie in das Allgemeine Liegenschaftsvermögen der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.4: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - ungeändert beschlossen
+- TOP 9.2.5: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - ungeändert beschlossen
+- TOP 9.2.6: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - endgültig abgelehnt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: 22. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 10.2.5: Bewirtschaftung des städtischen Waldes 2024/2025
+- TOP 10.2.6: Mitteilung über den Verfahrensstand der 2. Phase, Masterplan Stadtgrün in Mülheim
+- TOP 10.2.7: Jahresbericht 2023 der Naturschutzwacht Bezirk 9 West
+- TOP 10.2.8: 44. Bericht zur Situation Geflüchteter in Köln
+- TOP 10.2.9: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024
+- TOP 10.2.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Fuß- und Radweg Kalkweg, Köln-Mülheim, AZ 122/24
+- TOP 10.2.11: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025)
+- TOP 10.2.12: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025
+- TOP 10.3: Bemerkungen zur Niederschrift
