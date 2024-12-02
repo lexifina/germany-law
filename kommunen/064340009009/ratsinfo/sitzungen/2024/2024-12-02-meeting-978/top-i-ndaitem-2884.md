@@ -1,0 +1,6 @@
+# TOP I.: öffentliche Sitzung
+
+- Sitzung: Gemeindevertretung (31. Sitzung) (2024-12-02)
+- Körperschaft: Gemeinde Schmitten im Taunus
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/agendaitem/2884
