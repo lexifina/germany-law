@@ -1,0 +1,137 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-12-02T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7982591
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7982591
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 07.10.2024 und 04.11.2024
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Zünden von Feuerwerkskörpern und Verschmutzung auf dem Gelände des Quartiersplatzes
+- TOP 2.2.: Generalsanierung BSA Wackersbergerstraße 49
+- TOP 2.3.: Fahrradständer an der Valleystraße
+- TOP 2.4.: Verschlossenes Eingangstor zur "Stemmerwiese" (städtische Spiel- und Liegewiese)
+- TOP 2.5.: Ampelschaltung an der Alramstraße / Implerstraße
+- TOP 2.6.: Parksituation in der Leipartstraße / Fallstraße
+- TOP 2.7.: Verkehrsregeln am Harras
+- TOP 2.8.: Befahren des Gehsteigs in der Oberländerstraße mit E-Bikes, E-Rollern und Fahrrädern
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Reutbergerstraße – Entscheidung über Projektplanung Querungssituation im Zuge des Schulneubaus
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Antrag auf Baumfällung vom 24.10.2024 auf dem Grundstück der Implerstraße 90
+- TOP 4.2.2.: Antrag auf Baumfällung vom 11.10.2024 auf dem Grundstück der Schäftlarnstraße 15
+- TOP 4.2.3.: Neubau eines Wohnhauses mit Tiefgarage in der Bavariastraße 36, Abbruch eines Gebäudes - ÄNDERUNGSANTRAG zu 1.2-2022-23282-23
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Neugestaltung des Herzog-Ernst-Platz – Anbringen von Taubenschlägen
+- TOP 4.3.2.: Sendlinger Loch – möglicher Wassereintritt in nahestehendem Anwesen
+- TOP 4.3.3.: Sendlinger Loch – Ankauf des Grundstücks in der Alramstraße 14 durch das Kommunalreferat
+- TOP 4.3.4.: Neue Wertstoffinsel Lipowskystraße 4
+- TOP 4.3.5.: Schwammstadt-Prinzip ernst nehmen! Sendling entsiegeln!
+- TOP 4.3.6.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 4.3.7.: Wertstoffinsel "Am Isarkanal" umstellen / Bürgeranfrage zu Parkbegrenzungen
+- TOP 4.3.8.: Freizeiteinrichtungen Sport Sendling (Maxi Pitch)
+- TOP 4.3.9.: Antrag auf Baumfällung vom 13.11.2024 auf dem Grundstück der Daiserstraße 46
+- TOP 4.3.10.: Antrag auf Baumfällung vom 09.11.2024 auf dem Grundstück der Neuhofener Platz
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Ist das Kunst oder kann das weg? (SPD-Fraktion)
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Mehr Raum für Fußgänger*innen in der Senserstraße
+- TOP 5.1.2.: (E) Markierung des Fahrradwegs am Harras
+- TOP 5.1.3.: (E) Fahrradwegmarkierung auf Höhe der Adresse „An der Stemmerwiese 10“
+- TOP 5.1.4.: (E) Tauben in der U-Bahn-Station U6 Plinganserstr.
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Umgang mit neuer StVO
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 5.3.2.: Baukran in der Thalkirchner Straße
+- TOP 5.3.3.: Zebrastreifen & Baumersatz Hans-Klein-Straße
+- TOP 5.3.4.: Entsorgung der Fahrradständer an der Valleystraße 40
+- TOP 5.3.5.: Austausch einer Lichtsignalanlage (LSA) – Standort Albert-Roßhaupter-Straße / Meindlstraße
+- TOP 5.3.6.: Mögliche Gefahrenstelle bei der Einfahrt zur Großmarkthalle in der Schäftlarnstraße
+- TOP 5.3.7.: Vollsperre Roter-Turm-Platz
+- TOP 5.3.8.: Sperrung der Fuß- und Radwegbrücke über die Brudermühlstraße am Fuße des Neuhofener Berges für vertiefte Untersuchungen
+- TOP 5.3.9.: Fuß- und Radquerung am Greinerberg herstellen
+- TOP 5.3.10.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung Wackersberger Str. 67, Reaktivierung einer Grundwassermessstelle für U9
+- TOP 5.3.11.: Schienenwechsel auf diversen Abschnitten im U-Bahnnetz im Jahr 2025
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Verbesserung der Fußgänger-Situation am Bahndeckel Theresienwiese (Unterstützung des Antrags BA 8 - Schwanthalerhöhe)
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Bestätigung zu Fahrradständern in der Meindlstraße
+- TOP 5.5.2.: Bestätigung zu Fahrradständern in der Ganghoferstraße – Alramstraße – Oberländerstraße
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Alte Utting GmbH Kulturprogramm auf der Sternenflotte - dem Weihnachtsmarkt der Alten Utting vom 05.12.2024 - 30.12.2024 3.832,91 € / AZ: 0262.0-6-0528
+- TOP 6.1.2.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté, April bis November 2025 8.938,00 € / AZ: 0262.0-6-0529
+- TOP 6.1.3.: (E) Stadtbezirksbudget Init. „Street Art“ “Street Art: Brudermühlbrücke "Wesen der Lüfte, Himmel der Freiheit vom 24.10.2024 - 31.05.2025“ 4.105,00 € / AZ: 0262.0-6-0520
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Kunst in Sendling e.V.; offene Ateliers und Gemeindschaftsausstellung - Kunst- und Kulturwoche „Verbunden“ - 3. Internationalen Orgelwochen und Orgelmatineen in St. Margaret München 2024 - 7. KloHäuschen Biennale - Kulturator – Die Gute Dinge Striftung; Tanz für Alle- Tanz Treff im HP 8 DanceAbility - Sommer-Feier-Abend der Sendlinger Kulturschmiede am 27.07.2024 - 70 Jahre Caritas Erziehungsberatung Sendling am 18.09.2024 - Ausstellung „Synchronizität“
+- TOP 6.3.2.: Informationsschreiben BA 03 / 2024; Voraussetzungen einer ordnungsgemäßen Ladung / Beschlussfähigkeit des Bezirksausschusses
+- TOP 6.3.3.: Verlängerung einer Zuwendung aus dem Stadtbezirksbudget "Renovierung Kursräume" um zwei Monate für Fabi – Paritätische Familienbildungsstätte München e.V.
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Priorisierung der Instandsetzungen der offenen Einrichtungen für Kinder und Jugendliche sowie Familienzentren; Hansastraße 39-41 – Feierwerk; Thalkirchner Straße 96-102 – Jugendfreizeitstätte Tröpferlbad, Kafe Marat Generalsanierung des Kindergartens "Kinderkreis Sendling" Empfehlung Nr. 20-26 / E 00412 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021 Sitzungsvorlage Nr. 20-26 / V 13870
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Kinderversammlung in Sendling im Jahr 2025
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Genehmigung einer Freischankfläche in der Gotzinger Straße 48
+- TOP 8.1.2.: Genehmigung einer Freischankfläche in der Alramstraße 19
+- TOP 8.1.3.: Errichtung einer Freischankfläche in der Gotzinger Straße 19
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 4.3.11.: Weiterentwicklung des HP8-Geländes?!
+- TOP 8.3.1.: Genehmigungsbescheid zur Veranstaltung auf öffentlichem Verkehrsgrund Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras (nördliche Platzfläche) von 25.11.2024 bis 23.12.2024
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Vorzeitige Schließung des Wertstoffhof Thalkirchen am Samstag 02.11.2024
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: Terminanfrage - Johanniter-Unfall-Hilfe e.V.
+- TOP 4.5.1.: Informationsveranstaltungen zum kommunalen Wärmeplan
+- TOP 5.3.12.: Nahverkehrsplan der Landeshauptstadt München – Fortschrittsbericht Umsetzung Barrierefreiheit
+- TOP 2.9.: Parkplatzsituation Margaretenplatz
+- TOP 5.3.13.: Halteverbot in der Fritz-Endres-Straße (Westseite)
+- TOP 5.3.14.: Allgemeinverfügung Knallerverbotszone 2024/2025
+- TOP 5.3.15.: Baumaßnahmen der Stadtwerke München im Stadtbezirk
+- TOP 9.3.2.: Mehrjahresinvestitionsprogramm 2024 - 2028
+- TOP 7.3.2.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 7.3.3.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 7.3.4.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.3.5.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 5.3.16.: Antwort des Baureferats zum SWM-Stromprojekt Wackersberger Straße
+- TOP 5.3.17.: Fahrradfahrer auf dem Gehweg in der Aberlestraße
+- TOP 5.3.18.: Verkehrsmessung an der Bavariastraße
+- TOP 2.10.: Gehwegbeleuchtung Dietramszeller Platz
+- TOP 2.11.: Verkehrssicherheit an der Kreuzung Brudermühlstraße / Thalkirchnerstraße
+- TOP 4.3.12.: Baumfällung auf dem Grundstück der Thalkirchner Straße 184
+- TOP 5.3.19.: Eröffnung Pergola am Herzog-Ernst-Platz
+- TOP 8.5.1.: Lieferung Broschüre "Kulturgeschichtspfade" durch das Kulturreferat
+- TOP 2.12.: Abstimmung über das Projekt "langfristige Entsiegelung und Umbau der Schöttlstraße"
+- TOP 2.13.: Baustelle an der Urbanstraße / Schäftlarnstraße
+- TOP 2.14.: Fahrradständer an der Valleystraße 19
+- TOP 6.1.4.: Weihnachtsbäume Harras und Herzog-Ernst-Platz – 1.000,00 Euro
+- TOP 2.15.: Sicherheit der Baustelle am Sigi-Sommer-Haus
+- TOP 5.3.20.: Allgemeinverfügung über das Abbrennen von pyrotechnischen Gegenständen
