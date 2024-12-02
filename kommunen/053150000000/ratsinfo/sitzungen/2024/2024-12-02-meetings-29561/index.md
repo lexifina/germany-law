@@ -1,0 +1,69 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-02T16:00:00+01:00
+- Ende: 2024-12-02T17:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29561
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29561
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Hundewiese am Lortzingplatz, Aktenzeichen 89/24 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage zu zwei Baulücken an der Luxemburger Straße/Sülzburgstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Grünzug West - zurückgestellt
+- TOP 7.2.2: Leerstand des Hauses Aachener Straße 491 in Braunsfeld - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Eindeutige Führung des Radwegs auf der Dürener Straße zwischen Falkenburgstraße und Lindenthalgürtel / Teil 1 - ungeändert beschlossen
+- TOP 8.1.2: Eindeutige Führung des Radwegs auf der Dürener Straße zwischen Falkenburgstraße und Lindenthalgürtel / Teil 2 - ungeändert beschlossen
+- TOP 8.1.3: Beseitigung einer Gefahrenstelle im Bereich der Kreuzung Dürener Straße / Lindenthalgürtel - endgültig abgelehnt
+- TOP 8.1.4: Sicherung und Verlegung des 1967 vor dem Rathaus der Gemeinde Lövenich errichteten Gedenksteins Städtepartnerschaft - ungeändert beschlossen
+- TOP 8.1.5: Klimarobuste Umgestaltung Petersbergstraße / Hardtstraße / Breibergstraße in Köln-Klettenberg - ungeändert beschlossen
+- TOP 8.1.6: Gemeinsamer Antrag BZM - ungeändert beschlossen
+- TOP 8.1.7: Erhalt des Pflanzenbewuchses auf dem Mittelstreifen des Kringswegs - endgültig zurückgezogen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Haushaltsplan-Entwurf 2025/2026 Hier: Aufteilung der bezirksorientierten Mittel gem.§ 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.2: Beratung des Haushaltsplan-Entwurfs 2025/2026 einschließlich der Finanzplanung bis 2029 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Lindenthal gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 9.1.2 - ungeändert beschlossen
+- TOP 9.1.3: Baubeschluss für die Umgestaltung des Knotenpunktes KölnerStraße / Ottostraße / Dieselstraße im Gewerbegebiet Lövenich in einen Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 9.1.4: Straßenbaumkonzept Lindenthal - ungeändert beschlossen
+- TOP 9.1.5: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Lindenthal 2024/2025 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.1.6: Baubeschluss für die Generalsanierung des Falkenwegs von Statthalterhofallee bis Kölner Weg sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 9.1.7: Namensgebung des Städtischen Gymnasiums Leybergstraße 1, 50939 Köln - ungeändert beschlossen
+- TOP 9.1.8: Baubeschluss für die Generalsanierung des Kärntner Wegs von Statthalterhofallee bis Donauweg sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 9.1.9: Verwendung von Mittel aus dem Projekt "Ehrenamt und Klimaschutz" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Einrichtung eines Radfahrstreifens auf der Stolberger Straße (zw. Oskar-Jäger-Straße – Eupener Straße) - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: "Nördlich Stolberger Straße" in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 9.2.3: Stadtklima-/Stadtverschönerungsmittel Bezirk Lindenthal 2024 - geändert beschlossen
+- TOP 9.2.4: Vorgabenbeschluss zur Ausarbeitung des Bebauungsplan-Entwurfs Nr.: 63460/05 Arbeitstitel: Max Becker-Areal in Köln Ehrenfeld - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 9.2.4 - geändert beschlossen
+- TOP 9.2.5: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - geändert beschlossen
+- TOP 9.2.6: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.1.2: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 11.3.2: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
