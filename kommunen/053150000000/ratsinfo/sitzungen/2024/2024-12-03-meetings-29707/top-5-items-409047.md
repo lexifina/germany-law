@@ -1,0 +1,6 @@
+# TOP 5: Schriftliche Anträge aus der Politik
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2024-12-03)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/409047
