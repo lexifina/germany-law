@@ -1,0 +1,6 @@
+# TOP 2: "Machbarkeitsstudie Bergisch-Märkische-Veloroute -Präsentation der Ergebnisse"
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr (2024-12-03)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/132542
