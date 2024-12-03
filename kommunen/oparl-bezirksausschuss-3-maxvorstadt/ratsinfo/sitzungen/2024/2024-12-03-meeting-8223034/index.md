@@ -1,0 +1,145 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-12-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8223034
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8223034
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Nachfrage Studierendenwerk zum Studiwohnen in der Adalbertstr. 41
+- TOP 6.2.: Nachfrage Einhaltung des Denkmalschutzes im Baudenkmal Anwesen Theresienstraße 158
+- TOP 6.3.: Abbau Palästina-Camp
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Leerstand Mehrfamilienhäuser Adalbertstr. 23 - 25
+- TOP 1.2.2.: Pflanzung von Bäumen in der Schellingstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK KW44, KW45, KW46
+- TOP 2.1.2.: WEB-Listen der LBK: 16.10-31.10.24 + WEB-Liste: 01. - 15.11.2024
+- TOP 2.1.3.: Erweiterung und Aufstockung von Geschäfts- und Bürogebäuden - VORBESCHEID Nymphenburger Str. 3
+- TOP 2.1.4.: Erweiterung des Bestandshauses – VORBESCHEID Königinstr. 26
+- TOP 2.1.5.: Maßnahmen Task Force - Aufwertung Alter Botanischer Garten Sophienstr. 15
+- TOP 2.1.6.: Abbruch Garage und Neubau Hofhaus mit Wohn- und Büronutzung Kreittmayrstr. 30
+- TOP 2.1.7.: ÄNDERUNGSANTRAG zu 1.2-2024-15302-22 - Nutzungsänderung zu einem Kiosk mit Alko-holausschank - ( Amalienstr. 57 / Schellingstr. 16 ) - Hier: Nutzungsänderung von Laden zu Gaststätte mit 35 Gastplätzen Amalienstr. 57
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Max-Joseph-Str. 7: Nachtrag in die Denkmalliste
+- TOP 2.2.2.: Benehmensverfahren Erkennung Denkmaleigenschaft Ottostr. 19
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: entfällt
+- TOP 5.2.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 5.3.: Kanalsanierung begehbarer Kanäle < 1500; P01 Schellingstraße und Volkartstraße
+- TOP 5.4.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 5.5.: (U) Neubau Hauptbahnhof - Finanzierungsbedarf für den Bau der beiden Anlagen Fahrradgarage im Neubau Empfangsgebäude, Fahrradgarage im U1/U2-Bauwerk
+- TOP 5.6.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 5.7.: Mitteilung über Grundstücksgeschäft
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Kioske in der Maxvorstadt
+- TOP 1.1.2.: Grasbüschel an Gullys vor Erzgießereistr. 45/47
+- TOP 1.1.3.: Parkende Wohnmobile
+- TOP 1.1.4.: entfällt
+- TOP 1.1.5.: Einschränkung des wilden Parkens auf der Fahrradstraße Tengstraße
+- TOP 1.1.6.: Fahrradabstellmöglichkeiten in der Enhuberstr
+- TOP 1.1.7.: Sperrung Zentnerstraße
+- TOP 1.1.8.: entfällt
+- TOP 1.1.9.: entfällt
+- TOP 1.1.10.: Antrag: Zwischenlösung mit Radfahrstreifen in der Ludwigstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Dauerhafte Beibehaltung des temporären Linienwegs der Buslinie 58 durch die Türken- und Theresienstraße
+- TOP 1.2.2.: Schulwegsicherheit im Arnulfpark
+- TOP 1.2.3.: Müllflut in der Maxvorstadt eindämmen!
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: BA-Anhörung I Bauzeitliches Fahrradparken am Hauptbahnhof I Sitzungsvorlage Nr. 20-26 / V 12619 I Termin 17.12.2024
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Antrag für eine Warenauslage, Schleißheimer Str. 22
+- TOP 2.2.2.: Antrag für eine Warenauslage, Türkenstraße 61
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Unveränderte Gaststättenfortführungen
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: Antwort auf Anfrage: Beleuchtung Christbaum am Josephsplatz
+- TOP 3.6.: Leistungsbilanz Tiefbau und Gartenbau für den Stadtbezirk 3
+- TOP 3.7.: Videoüberwachung ABG; südlicher und nördlicher Bereich - Erweiterung um einen Videoanhänger
+- TOP 3.8.: Baumaßnahmen der SWM
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Vorschlag BA Maxvorstadt, Sportinsel
+- TOP 1.1.2.: Obdachlose
+- TOP 1.1.3.: Aufenthalt von Obdachlosen in den Propyläen
+- TOP 1.1.4.: Alten- und Pflegeheim der Diakonie in der Heßstraße
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Internationale Forschungsstelle für Mehrsprachigkeit e.V. Münchner Bücherschrank vom 25.11.2024 - 25.07.2025 1.000,00 Euro, Az.: 0262.0-3-0556
+- TOP 2.2.: (E) Verbesserung der Beleuchtung auf der Sportanlage am Alten Nordfriedhof
+- TOP 2.3.: (E) Stadtbezirksbudget KinderHOUSE e.V. Umzug und Umbau vom 15.11. - 31.12.2024 5.034,78 Euro, Az.: 0262.0-3-0563
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Zurücknahme Antrag Stadtbezirksbudget D 2.2 vom 22.12.2022
+- TOP 4.3.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 4.4.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 30.09.2024
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Umsetzung des Gewinnerentwurfs ‚Open Kunstareal‘
+- TOP 1.2.2.: Einbindung des BAs in die weiterführenden Planungen zum Kunstareal
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Anhörung Beschlussentwurf: Open Library in der Maxvorstadt I 06.12.2024
+- TOP 2.2.: (E) Stadtbezirksbudget Park Café München GmbH Neptunbrunnen Kulturbiergarten vom 02.08. - 15.09.2024 6.820,19 Euro, Az.: 0262.0-3-0553
+- TOP 2.3.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté von April - November 2025 8.938,00 Euro, Az.: 0262.0-3-0561
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 1.2.: Aufräumaktion Bürgerbüro
+- TOP 1.3.: Termin der BV 2025 ist Montag, der 20.10.2025 in der St. Markus Kirche
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.2.4.: Verlegung der Bushaltestelle Technische Universität
+- TOP 2.1.2.: Von-der-Thann-Straße- Stellungnahme des BAs Parklizenzgebiet „Schönfeldviertel“
+- TOP 2.2.3.: Königsplatz Änderung der Veranstaltungsrichtlinien, Stadtratsantrag CSU vom 26.09.2024
+- TOP 1.1.5.: Schließung des Seniorenheims in der Maxvorstadt
+- TOP 1.1.6.: Trainingsgeräte im Freien
+- TOP 2.1.8.: Maßnahmen Task Force - Aufwertung Alter Botanischer Garten Temporäre Errichtung eines Kleinfeld-Fußballfeldes inkl. Ballfangzäunen und Beleuchtung weniger Sophienstr. 15
+- TOP 2.1.9.: Nutzungsänderung zu einem Kiosk mit Alkoholausschank - ( Amalienstr. 57 / Schellingstr. 16 ) Amalienstr. 57
+- TOP 5.8.: Alter Botanischer Garten, Reduktion des Eibenbestandes
+- TOP 2.1.10.: Neuaufbau des Dachstuhles, Ausbau des Dachgeschosses mit 2 WE (20 WE Bestand), Energetische Sanierung sowie Anbau von Balkonen – ÄNDERUNGSANTRAG zu 1.2-2024-7569-22 hier: Ausbau von 3 WE im DG, Entfall Dachterrasse, Anbau eines Balkons im 5.OG, Erhöhung Pultdach, Änderung Gauben
