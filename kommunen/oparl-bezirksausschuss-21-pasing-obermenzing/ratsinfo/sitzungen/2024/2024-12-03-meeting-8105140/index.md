@@ -1,0 +1,190 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2024-12-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8105140
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8105140
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Beschwerde / Anliegen Bus / Tramampel Landsberger Straße Kreuzung Bäckerstraße Haltestelle Rathaus Pasing
+- TOP 2.2.2.: Dank Autofriedhof Donizettiweg
+- TOP 2.2.3.: PKW mit roter Plakette in der Paosostraße Höhe Paul-Abraham-Weg
+- TOP 2.2.4.: Verkehrssituation in der Irmonherstraße
+- TOP 2.2.5.: Landsberger Straße 430, Antrag auf Baugenehmigung / Denkmalschutz
+- TOP 2.2.6.: Kleinbus Linie 158
+- TOP 2.2.7.: Abstellen von E-Rollern
+- TOP 2.2.8.: Verkehrsrechtliche Anordnung zur LKW-Beschränkung in der Grandlstraße
+- TOP 2.2.9.: Vorschlag zur Rückverfolgung von mietbaren Scootern und ähnlichen Verkehrsmitteln
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Am Nymphenbad 2: 1 Kiefer
+- TOP 3.1.2.: Anna-Dandler-Str. 12: 2 Thuja
+- TOP 3.1.3.: Schuegrafstr. 9: Freiflächengestaltungsplan
+- TOP 3.1.4.: Freseniusstr. 44: 1 Kiefer, 1 Hainbuche, 2 Sommerlinden, 1 Tanne
+- TOP 3.1.5.: Schusterwolfstr. 7: 1 Thuja
+- TOP 3.1.6.: Rubensstr. 19: 1 Walnuss
+- TOP 3.1.7.: Sterrhubenweg 3: Baumbestandsplan
+- TOP 3.1.8.: Gerlichstr. 9: Baumbestandsplan
+- TOP 3.1.9.: Menzinger Str. 80: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.10.: Betzenweg 27: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.11.: Schöppingstr. 7: 1 Birke
+- TOP 3.1.12.: Lichtingerstr. 21: 1 Fichte
+- TOP 3.1.13.: Betzenweg 59: Baumbestandsplan
+- TOP 3.1.14.: Morungenstr. 8: Freiflächengestaltungsplan
+- TOP 3.1.15.: Bärmannstr. 38: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.16.: Aubinger Str. 12: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.17.: Korfiz-Holm-Str. 25: 4 Rotfichten
+- TOP 3.1.18.: Mitterfeldstr. 26: 1 Hainbuche
+- TOP 3.1.19.: Bodenseestr. 100: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung und Mobilität + Beschlussfassung über Empfehlungen
+- TOP 4.1.: Protokoll vom 19.11.24 (Baustellenkoordination Verlängerung U 5)
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen in der Maria-Eich-Straße
+- TOP 5.1.2.: Anwesen in der Petzetstraße
+- TOP 5.1.3.: Anwesen in der Nimmerfallstraße
+- TOP 6.: Bericht des UA Kultur, Heimatpflege, Organisation + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales, Bildung und Sport + Beschlussfassung über Empfehlungen
+- TOP 7.1.: Protokoll des Runden Tisches vom 13.11.24 (Sicherheitslage Pasinger Bahnhof)
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 9.1.: Protokoll der Kindersprechstunde vom 15.11.2024
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Würmchen e.V. Erneuerung der Kindergartenstühle und -tische ab 22.11.2024 4.159,40 Euro, Az.: 0262.0-21-0464 (Vertagung aus der BA-Sitzung vom 05.11.24)
+- TOP 10.2.: (E) LKW-Einfahrtsverbot (Anlieger frei) an der Einmündung Verdistr./ Grandlstraße und Pippinger Str./ Theodor-Storm-Str.
+- TOP 10.3.: (E) Stadtbezirksbudget Interessengemeinschaft Zehentstadel e.V. Kauf einer Geschirrspülmaschine 3.703,87 Euro, Az.: 0262.0-21-0469
+- TOP 10.4.: (E) Stadtbezirksbudget TSV München-Allach 1909 Turnen und Handball e.V. Deutsches Turnfest in Leipzig vom 27.05. bis 02.06.2025 1.835,00 Euro, Az.: 0262.0-21-0472
+- TOP 10.5.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté von April - November 2025 8.938,00 Euro, Az.: 0262.0-21-0471
+- TOP 10.6.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 21 Pasing-Obermenzing Umstufung einer Teilstrecke der Kaflerstraße
+- TOP 10.7.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 21 Pasing-Obermenzing Widmung der Gesamtstrecke des Josef-Osterhuber-Platzes
+- TOP 10.8.: (E) Stadtbezirksbudget Kulturverstrickungen e.V. Woll-Lust beim Sträkeln in der Stadtbibliothek in Pasing vom 03.06.2025 - 30.06.2025 1.900,00 € / AZ: 0262.0-21-0479
+- TOP 10.9.: (E) Stadtbezirksbudget Initiative "Restaurierung Trafohäusl" Restaurierung Trafohäusl Mühlheissenstraße November 2024 152,80 € / AZ: 0262.0-21-0477
+- TOP 10.10.: (E) Stadtbezirksbudget Evang.-Luth. Himmelfahrtskirche Pasing Elektroinstallation einer Kirchensitzbankheizung ab 25.11.2024 15.403,96 Euro, Az.: 0262.0-21-0466
+- TOP 10.11.: (E) Nur Pkw-Parken in der Silberdistelstraße
+- TOP 10.12.: (E) Stadtbezirksbudget Bund Naturschutz in Bayern e.V., Kreisgruppe München Mustergärten im Magdalenenpark vom 01.03.2025 - 28.02.2026 21.000,00 Euro, Az.: 0262.0-21-0470
+- TOP 11.: Anhörungen
+- TOP 11.1.: Schuegrafstr. 9: Teilnutzungsänderung zu Wohnheim für Studierende (2.OG)
+- TOP 11.2.: Sterrhubenweg 3: Neubau eines Mehrfamilienhauses (6 WE) und sechs TG Parkplätzen - Vorbescheid
+- TOP 11.3.: Gottfried-Keller-Str.: Neubau eines Studentenwohnheims mit Einzelhandel und einer bewirtschafteten Fahrradgarage - Vorbescheid
+- TOP 11.4.: Gerlichstr. 9: Zwei Wohnhauskomplexe, vier Reihenhäuser und ein Einfamilienhaus mit Nebengebäuden - Vorbescheid
+- TOP 11.5.: Menzinger Str. 80: Nbau eines Doppelhauses mit Doppelgarage
+- TOP 11.6.: Betzenweg 27: Errichtung einer Wohnbebauung mit acht Wohneinheiten und einer Tiefgarage
+- TOP 11.7.: Jugendcontainer Pasinger Stadtpark
+- TOP 11.8.: Nanette-Bald-Straße, Westseite, nördlich Einmündung Bassermannstraße; Anordnung eines absoluten Haltverbots (Zeichen 283 StVO); verkehrsrechtliche Anordnung
+- TOP 11.9.: Betzenweg 59: Abbruch eines Wohnhauses mit Garage und Neubau eines Einfamilienhauses mit Garage
+- TOP 11.10.: Morungenstr. 8: Sanierung bzw. Erweiterung eines Bestandsgebäudes
+- TOP 11.11.: Bärmannstr. 38: Neubau Wohngebäudekomplex mit Tiefgarage
+- TOP 11.12.: Kaflerstr. 8: Nutzungsänderung ehemaliger Büroflächen in eine Praxis für Orthopädie, Sportorthopädie und Unfallchirurgie
+- TOP 11.13.: Aubinger Str. 12: Neubau einer Bogenschießanlage
+- TOP 11.14.: Fahrbahnsanierung Planegger Straße
+- TOP 11.15.: Bodenseestr. 100: Neubau einer Wohnanlage mit Tiefgarage in zwei Varianten - Vorbescheid
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: CSU, Antrag: Sicherheit im Innenhof / Hochzeitshof des Pasinger Rathauses und des Parkplatzes Viktualienmarkt (Vertagung aus der BA-Sitzung vom 05.11.24)
+- TOP 12.2.: CSU, Antrag: Bedarfsampel Georg-Habel-/ Alois-Wunder-/ Anton-Pichler-Straße (Vertagung aus der BA-Sitzung vom 05.11.24)
+- TOP 12.3.: Interfraktioneller Antrag: Parklizenzgebiet Pasing Süd vordringlich behandeln und umsetzen
+- TOP 12.4.: Interfraktioneller Antrag: Sanierung Pasinger Viktualienmarkt
+- TOP 12.6.: Bündnis 90/Die Grünen, Anfrage: Wie wird die Pasinger Fabrik weiter finanziert?
+- TOP 13.: Unterrichtungen
+- TOP 13.1.: Neuerrichtung von Gaststättenbetrieben - "Trattoria L.i.a.", Verdistr. 137
+- TOP 13.2.: Unveränderte Fortführung von Gaststättenbetrieben - "Chutney on Top", Landsberger Str. 437
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Vollversammlung vom 23.10.24: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 14.2.: Vollversammlung vom 23.10.24: (U) A.) Rahmenplanung Gartenstadt 2.0 - Endbericht und Evaluation der Steuerungsinstrumente B.) Anträge und Empfehlungen Stadtbezirk 16 Ramersdorf - Perlach Stadtbezirk 18 Untergiesing - Harlaching Stadtbezirk 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Stadtbezirk 20 Hadern Stadtbezirk 21 Pasing - Obermenzing Stadtbezirk 24 Feldmocing - Hasenbergl Stadtbezirk 25 Laim
+- TOP 14.3.: Vollversammlung vom 23.10.24: (U) Überprüfung eines Erlasses einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 21 (Pasing-Obermenzing) Erhaltungssatzung reformieren V - Satzung nach neuen Kriterien als Pilotprojekt für Pasing Antrag Nr. 14-20 / A 05118 von der Stadtratsfraktion Die Grünen / Rosa Liste vom 21.03.2019 Geschäftsordnungsgemäß erledigt am 24.07.2019 Stadtbezirk 21 Pasing-Obermenzing
+- TOP 14.4.: Bauausschuss vom 05.11.24: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 14.5.: Bildungsausschuss und Bauausschuss vom 06.11.24: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 14.6.: Ausschuss für Stadtplanung und Bauordnung vom 06.11.24: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 14.7.: Ausschuss für Stadtplanung und Bauordnung vom 06.11.24: A) Bericht zu den Ergebnissen der Prüfaufträge aus dem Aufstellungsbeschluss für den Bebauungsplan mit Grünordnung Nr. 2161 – Bauseweinallee –, „Erdbeerwiese“ und weiteres Vorgehen B) Änderung des Flächennutzungsolanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2197 Mühlangerstraße (nördlich), Pasinger Heuweg (östlich), Parkfriedhof Untermenzing (westlich) - Pasinger Heuweg - - Aufstellungsbeschluss - C) Empfehlungen und Anfrage aus der Bürgerversammlung Stadtbezirk 23 Allach - Untermenzing Stadtbezirk 21 Pasing - Obermenzing
+- TOP 14.8.: Mobilitätsausschuss vom 13.11.24: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 14.9.: Sozialausschuss vom 14.11.24: (U) Perspektiven der Beratungsstruktur für ältere Menschen und Angehörige in München Fragenkatalog zum Thema Pflegestützpunkte Schreiben des Bezirksausschusses des Stadtbezirks 18 - Untergiesing-Harlaching vom 28.02.2024
+- TOP 15.: Post an den BA
+- TOP 15.1.: von der Stadtverwaltung
+- TOP 15.1.1.: Direktorium
+- TOP 15.1.1.1.: Informationsschreiben BA 03 / 2024; Voraussetzungen einer ordnungsgemäßen Ladung / Beschlussfähigkeit des Bezirksausschusses (Vertagung aus der BA-Sitzung vom 05.11.24)
+- TOP 15.1.1.2.: Stadtbezirksbudget; Verwendungsnachweis - Tetrap-Act-on Foodwaste; Community Kitchen gGmbH - Anschaffung von Krippenwägen; Spielgruppe Leo-Lei e.V.
+- TOP 15.1.1.3.: Veranstaltung des 2. Bürgermeisters zum Umgang mit neuer StVO für BAs am 22.10.24
+- TOP 15.1.2.: Baureferat
+- TOP 15.1.2.1.: Franz-Wüllner-Straße; verkehrsrechtliche Anordnung Gehweg Radfahrer frei und für Rad- und Fußverkehr durchlässige Sackgasse
+- TOP 15.1.2.2.: Neubaugebiet Neu-Pasing; Calisthenics-Park / Fitnesspark
+- TOP 15.1.2.3.: Antrag aus Kinder- und Jugendforum - barrierefreie Spielgeräte für Spielplatz an der Willibaldstraße / Senftenauerstraße: Protokoll zum Ortstermin am 10.06.24
+- TOP 15.1.2.4.: Müllproblem am Nymphenburger Kanal
+- TOP 15.1.2.5.: Trampolin vor dem Rathaus Pasing
+- TOP 15.1.2.6.: Ausführung Erdverlegung TK Pasing Arcaden
+- TOP 15.1.3.: Mobilitätsreferat
+- TOP 15.1.3.1.: S-Bahnhalt Berduxstraße ohne Verzögerungen umsetzen und Entkopplung des Projekts von einer Querung der Gleisanlagen in Richtung Nymphenburg (Vertagung aus der BA-Sitzung vom 05.11.24)
+- TOP 15.1.3.2.: Kennzeichnung der 30 km/h-Zone in der Frauendorferstraße; - Beschilderung (Ziffer 1) - Zebrastreifen vor dem Kindergarten (Ziffer 3) (Empfehlung Nr. 20-26 / E 01136 der Bürgerversammlung vom 25.04.23) (Vertagung aus der BA-Sitzung vom 05.11.24)
+- TOP 15.1.3.3.: Maria-Eich-Straße, südlich Pfeivestlstraße; Markierung von Parkständen
+- TOP 15.1.3.4.: Kindersprechstunde vom 26.04.24; Zebrastreifen Wensauerplatz Ostseite
+- TOP 15.1.3.5.: Beschwerde / Anliegen Bus / Tramampel Landsberger Straße Kreuzung Bäckerstraße Haltestelle Rathaus Pasing
+- TOP 15.1.3.6.: Parken von Leihautos vor der Arztpraxis im Kloster an der Planegger Straße
+- TOP 15.1.3.7.: Verkehrssituation Erna-Eckstein-Straße
+- TOP 15.1.3.8.: Vollzug der Straßenverkehrsordnung (StVO) - Änderung der Vorfahrtsregelung an der Einmündung der Erna-Eckstein-Straße in die Hermine-von-Parish-Straße zur Verbesserung des Linienbusverkehrs der Buslinien 161, 180 und N77; verkehrsrechtliche Anordnung
+- TOP 15.1.3.9.: Verkehrssituation Hermann-Hesse-Weg / Kaflerstraße
+- TOP 15.1.3.10.: Hermine-von-Parish-Straße, Parkbuchten zwischen Erna-Eckstein-Straße und Anwesen Nr. 12, Parken nur für PKW, Zeichen 314 StVO und Zusatzzeichen 1010-58 StVO; verkehrsrechtliche Anordnung
+- TOP 15.1.3.11.: Nimmerfallstraße, Wendehammer Westseite, südl. Bereich, Erweiterung eines absoluten Haltverbots (Zeichen 283 StVO); verkehrsrechtliche Anordnung
+- TOP 15.1.3.12.: Zwischennachricht mit Fristverlängerung: Fahrradstraße in der östlichen Bärmannstraße, BA-Antrag Nr. 20-26 / B 07185 vom 05.11.24
+- TOP 15.1.3.13.: Agnes-Bernauer-Straße, Nordseite, östlich Einmündung Lohensteinstraße, Anordnung eines absoluten Haltverbots (Zeichen 283 StVO); verkehrsrechtliche Anordnung
+- TOP 15.1.3.14.: Landsberger Straße 450, Eingeschränktes Haltverbot mit Zeitzusatz (Zeichen 286 StVO mit Zusatzzeichen); verkehrsrechtliche Anordnung
+- TOP 15.1.3.15.: Arbeiten im Straßenraum: Am Knie vom 09.10. - 31.12.2024
+- TOP 15.1.3.16.: Schienenersatzverkehr (SEV) mit Bussen wegen Trassenverlegung der Tramlinie 19, N19 im Rahmen der Bauarbeiten für die Verlängerung der U5
+- TOP 15.1.4.: Referat für Stadtplanung und Bauordnung
+- TOP 15.1.4.1.: Vollzug der Baumschutzverordnung - Gerlichstr. 19 - Hermann-Köhl-Str. 1 - Schmaedelstr. 36 - Feichthofstr. 183 - Ortolfstr. 31
+- TOP 15.1.4.2.: Heizmobil Landsberger Str. 439
+- TOP 15.1.4.3.: Bauvorhaben Dr.-Blaich-Str. 6 und Parkverbote
+- TOP 15.1.4.4.: Hochwasserüberlauf am Würmpark Weinschenkstraße mitdenken
+- TOP 15.1.5.: Kommunalreferat, Abfallwirtschaftsbetrieb
+- TOP 15.1.5.1.: Erweiterung der Aussegnungshalle im Friedhof Pasing
+- TOP 15.1.5.2.: Müllverbrennungsanlagen der Stadtwerke München, Kapazitätsplanung bis 2035
+- TOP 15.1.6.: Referat für Arbeit und Wirtschaft, MVG, SWM
+- TOP 15.1.6.1.: Linie 158 verkehrt ab 4. November 24 als Neunsitzer mit Elektrofahrzeug (E-Vito)
+- TOP 15.1.6.2.: Fernwärme und Wärmewende in München; Vortrag SWM in der Sitzung des Mieterbeirates am 21.10.24
+- TOP 15.1.6.3.: Schienenersatzverkehr (SEV) Pasing Bahnhof - Willibaldplatz (Tram 19) vom 02.12.2024 - 05.05.2025
+- TOP 15.1.7.: Sozialreferat
+- TOP 15.1.7.1.: Protokoll der AG der Kinder- und Jugendbeauftragten der BAs am 08.10.24
+- TOP 15.1.7.2.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stichtag 30.09.2024 und Implementierung der Daten über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätze im Digitalen Zwilling
+- TOP 15.1.8.: Referat für Bildung und Sport
+- TOP 15.1.8.1.: Stand der Vorbereitungen zur Ganztagsbetreuung ab 2026 an den Grundschulen in Pasing-Obermenzing
+- TOP 15.1.8.2.: Runder Tisch zu den geplanten Sprengeländerung von der GS Grandlstr. zur GS Oselstr. und von der GS Oselstr. zur GS Hermine-von-Parish-Str., zum Schuljahr 2025/26
+- TOP 15.1.9.: Kreisverwaltungsreferat
+- TOP 15.1.9.1.: Allgemeinverfügung der Landeshauptstadt München über das Verbot des Abbrennens von pyrotechnischen Gegenständen der Kategorie F2 mit ausschließlicher Knallwirkung innerhalb des Mittleren Ringes (Umweltzone)
+- TOP 15.1.10.: Stadtkämmerei
+- TOP 15.1.10.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP 15.2.: Sonstige
+- TOP 15.2.1.: Kreisjugendring München-Stadt: Ergebnisse Mädchen*workshop Pasing
+- TOP 15.2.2.: Würmchen e.V.: Nachtrag zum Antrag aus dem Stadtbezirksbudget des Würmchen e.V.
+- TOP 15.2.3.: KidsLab gGmbH: "Digitale Zukunftsnächte - The Future is Yours!" an der Anne-Frank-Realschule am 30./31.01.2025 - Gastvortrag
+- TOP 15.2.4.: ARTEC Wohnbau GmbH & Co. KG: Bauvorhaben Rhea-Lüst-Straße
+- TOP 16.: Sonstiges
+- TOP 16.1.: Termine
+- TOP 16.1.1.: - BA-Sitzung 14.01.25, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486 - BA-Sitzung 04.02.25, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486
+- TOP 16.2.: Bereits weitergeleitete Antragen, Anliegen etc.
+- TOP 16.2.1.: Wertstoffinsel Paosostraße; Antrag eines Bürgers auf Eröffnung von Ordnungswidrigkeitsverfahren wegen Müllanlagerung im öffentlichen Raum
+- TOP 16.2.2.: Entfernung von vermutlich illegalen Altkleidercontainern a) Bodenseestraße Ecke Manzingerweg b) Maria-Eich-Straße, Buswendplatte, Parkplatz vor der Kleingartenanlage c) Ausgleichsfläche in der Paosostraße vor der Bahnunterführung
+- TOP 16.2.3.: Müllverbrennungsanlagen, Kapazitätsplanung bis 2035
+- TOP 16.2.4.: Wärmeplanung im Bereich Betzenweg
+- TOP 16.2.5.: Müllproblem am Nymphenburger Kanal
+- TOP 16.2.6.: Bordsteinabsenkung Gottfried-Keller-Straße 2
+- TOP 16.2.7.: Vermüllung im Bereich Pasing Bahnhof Nord und Grünanlage Kaspar-Kerll-Straße
+- TOP 16.2.8.: Spielplatz vor dem Pasinger Rathaus; Reparatur eines Trampolins
+- TOP 16.2.9.: Mülleimerleerung Paganinistraße und Beleuchtung Bezeichnung am Pasinger Bahnhof
+- TOP 16.2.10.: Ampelschaltung Pippinger Straße Ecke Haberlandstraße
+- TOP 16.2.11.: Probleme Getränkequelle Pasing Gräfstraße wegen Baustelle U5
+- TOP 16.2.12.: Mülleimer Grünpatenfläche an der Kreuzung Wöhlerstraße / Longinusstraße / Dorfstraße
+- TOP 16.2.13.: Verkehrssituation Pasinger Marienplatz
+- TOP 12.5.: CSU, Antrag: Ampel mit Behindertensymbol
+- TOP 2.2.10.: 1. Fußgänger- und Radweg nach Norden im Neubaugebiet an der Paul-Gerhardt-Allee 2. Vorschlag für den Außenbereich des neuen Actionsport-Zentrums in der Eggenfabrik (Erna-Eckstein-Straße)
+- TOP 15.1.2.7.: Probleme Getränkequelle Pasing Gräfstraße wegen Baustelle U5
+- TOP 15.1.3.17.: Arbeiten im Straßenraum; Josef-Felder-Str. 15 (Mittelteiler im Kurvenbereich), Maßnahme für die Verlängerung der U5 (Los 2), Wendemöglichkeit (U-Turn) vom 27.11.24 bis 26.11.25; verkehrsrechtliche Anordnung
+- TOP 15.1.3.18.: Schienenersatzverkehr, Pasing Nord (05.12.24, 13.01.25, 30.01.25, 10.02.25)
