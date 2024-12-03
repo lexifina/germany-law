@@ -1,0 +1,6 @@
+# TOP 5: Mitteilungen des Eigenbetriebs
+
+- Sitzung: Sitzung des Betriebsausschusses Wallraf-Richartz-Museum & Fondation Corboud (2024-12-03)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/410180
