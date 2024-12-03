@@ -1,0 +1,64 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-03T14:00:00+01:00
+- Ende: 2024-12-03T15:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29707
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29707
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zur Spielraumplanung
+- TOP 1.3.2: Videoclip des Kölner Jugendrings
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: OGS-Finanzierung im Schuljahr 2024/2025 - Finanzmittelübertragung - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung Bolzplatz 4 03 02 01 Max-Fremery-Straße Bickendorf - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: „Mein Körper – meine Entscheidung“ - Kölner Gleichstellungsaktionsplan zum Thema Reproduktive Rechte und Gesundheit - ungeändert beschlossen
+- TOP 4.2: Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze - ungeändert beschlossen
+- TOP 4.3: Mitgliederwechsel im Jugendhilfeausschuss, hier Jugendamtselternbeirat (JAEB) - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Demokratiebildung – U16/U18 - Wahl - ungeändert beschlossen
+- TOP -: Stellungnahme zum AN/1670/2024 - Demokratiebildung - U16/U18-Wahl - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Anfrage Suizidprävention - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Jugendhilfeausschusses vom 17.09.24 (AN/1240/2024) betrefffend - Kenntnis genommen
+- TOP 6.1.2: Gemeinsame Anfrage der Stadtschulpflegschaft und des Jugendamtselternbeirats: Entgelt für Mahlzeiten in Offenen Ganztagsschulen - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage des Jugendamtelternbeirats Köln und der Stadtschulpflegschaft Köln im Ausschuss Schule und Weiterbildung am 25.10.2024 zu TOP Ö 5.5 (AN/1403/2024) bezgl. "Entgelt für Mahlzeiten in Offenen Ganztagsschulen" - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Förderung im freiwilligen Bereich tätiger Träger - Bestandssicherung bestehender Strukturen - Handreichung - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2023/24 - zurückgestellt
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 8.4.2: Sachstand Kinderschutzentwicklungsplanung - zurückgestellt
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Bericht zum Antirassismusprojekt der Interkulturellen Zentren mit abschließender Bustour in 2024 - Kenntnis genommen
+- TOP 8.5.2: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.3: Bericht der Behindertenbeauftragten der Stadt Köln 04/2024 - Kenntnis genommen
+- TOP 8.5.4: Live-Stream der Sitzungen des Jugendhilfeausschusses ab 01.01.2025 - Kenntnis genommen
+- TOP 8.5.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2024 - Kenntnis genommen
+- TOP 8.5.6: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90, CDU und Volt aus der Sitzung des Gesundheitsausschusses vom 29.10.2024 (AN/1450/2024) betreffend -d - Kenntnis genommen
