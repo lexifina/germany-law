@@ -1,0 +1,59 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-12-03T17:00:00+01:00
+- Ende: 2024-12-03T19:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26187
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26187
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 5. November 2024 - öffentlicher Teil - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Errichtung von Stadtradstationen im Stadtbezirk 5 für das kommunale Düsseldorfer Mietradsystem - abweichend beschlossen
+- TOP 10: Bebauungsplan-Entwurf Nr. 05/016 - Veranstaltungsgelände/Messeparkplatz - Empfehlung einstimmig beschlossen
+- TOP 11: - zurückgezogen -
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 - Liste A) Schulen 21 211 01 / 52415500 - einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 (Liste B), Maßnahmen an der Jugendfreizeiteinrichtung Heinrich-Walbröhl-Weg 10 und der Kindertageseinrichtung Weißdornstraße 14 - abweichend beschlossen
+- TOP 14: Haushaltsmittel 2024 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 15: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - beantwortet
+- TOP 16: Die Einbahnstraße Sankt-Göres muss im Bereich zwischen der Straße Kaiserswerther Markt und der Niederrheinstraße Fahrrad frei bleiben - beantwortet
+- TOP 17: Landschaftsgerechte Gestaltung und Baumpflanzungen auf dem Parkplatz Niederrheinstraße/An Sankt Swidbert - beantwortet
+- TOP 18: Grüne Welle von der Niederrheinstraße kommend und auf der Kaiserswerther Straße von Freiligrath Platz bis zum Aqua Zoo - beantwortet
+- TOP 19: ÖPNV-Anbindung Stadtbahn U81 - beantwortet
+- TOP 20: Kapazitäten Friedrich-von-Spee-Gemeinschaftsgrundschule Angermund - beantwortet
+- TOP 21: Welche Belastungen mit Feinstaub, Ultrafeinstaub und Stickoxid durch den Düsseldorfer Flughafen sind der Verwaltung bekannt und wie geht die Verwaltung mit diesem Wissen um? - beantwortet
+- TOP 22: Nordpark: Barrierefreiheit beim Zugang - beantwortet
+- TOP 23: Wird der Oberbürgermeister diesmal beanstanden oder treibt die BV 5 erneut Bauwillige zum Verwaltungsgericht? - vertagt
+- TOP 24: Weitere Nutzung der brachliegenden Immobilie Arnheimer Straße 51 - beantwortet
+- TOP -: Neue Anfragen
+- TOP 25: Auswirkungen des Urteils vom Bundesverwaltungsgericht vom 06. Juni 2024 (Az. BVerwG 3 C 5.23) auf die Graf-Engelbert-Straße in Düsseldorf-Angermund (BV5/028/2021, BV5/002/2022, BV5/039/2024, BV5/079/2024) - beantwortet
+- TOP 26: Rückmeldungen aus der Anwohnerschaft zur Gefahrensituation auf der Graf-Engelbert-Straße (BV5/028/2021, BV5/002/2022, BV5/039/2024, BV5/079/2024) - beantwortet
+- TOP 27: Wie geht es schneller? - Was ist in den vergangenen Jahren an Initiative in mehr Wohnraum im Düsseldorfer Norden eingebracht worden? (61/ 8/2018, 175/ 7/2018, BV5/178/2021) - beantwortet
+- TOP 28: Wohnraumschutzsatzung - Mehr Wohnraum im Düsseldorfer Norden ermöglichen! - beantwortet
+- TOP 29: Wie soll die Kaiserswerther Altstadt vor Hochwasser geschützt werden, wenn die Schotten zum Abdichten gegen Hochwasser in einem so schlechten Zustand sind? - vertagt
+- TOP 30: Warum geht es nicht schneller? - Jetzt mehr Wohnraum für Angermund durch richtige Prioritätensetzung - beantwortet
+- TOP 31: Reinigung der Fahrradwege von nassem Laub - Fahrradwege der Radleitroute 1 und ausgewiesene Radwege im Norden sind unzumutbar verschmutzt. - beantwortet
+- TOP 32: Was haben die beiden Parkgaragen für Fahrräder in Wittlaer an der U-Bahn Haltestelle und am Klemensplatz Kaiserswerth gekostet und wie hoch sind die Unterhaltungskosten? - beantwortet
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 34: Antrag für das Anbringen eines Geländers, damit gehbehinderte Menschen besser den Weg ins Museum schaffen. - einstimmig beschlossen
+- TOP 35: Ausbesserung des Fuß- und Radweges an der B8n zwischen Kalkum und Kittelbach - abweichend beschlossen
+- TOP 36: Laubsammelbehälter für den Düsseldorfer Norden - Angermund als Pilotprojekt für 2025! - einstimmig beschlossen
+- TOP 37: Pumpenhaus Kaiserswerth - Denkmal erlebbar machen, mehrere Nutzungszwecke eingriffsarm realisieren - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 38: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 39: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 40: Verschiedenes
