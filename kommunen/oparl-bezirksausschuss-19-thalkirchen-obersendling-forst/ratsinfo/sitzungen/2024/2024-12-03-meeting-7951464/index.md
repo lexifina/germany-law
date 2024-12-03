@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-12-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951464
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951464
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.11.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Versammlungsort für die Bürgerversammlung 2025
+- TOP 2.4.: Newsletter Bezirksausschuss 19
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté, April bis November 2025 8.938,00€; Az. 0262.0-19-0548
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative "Projekt SüdpART" SüdpART - Die Münchner Naturkunst Biennale, 31.05. bis 18.10.2025 2.000,00 €; Az. 0262.0-19-0549
+- TOP 3.4.: (U) Entwurf des Mehrjahresinvestitionsprogramms
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Aufklärung über Brand- und Explosionsgefahren von Lithium-Ionen-Batterien und -Akkus sowie deren sachgerechte Entsorgung, Unterstützung der Kampagne: "Brennpunkt Batterie“
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Einzelne Bäume im Parkstreifen im Bereich der Allescherstraße zwischen Spielplatz und Becker-Gundahl-Straße
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Zebrastreifen Kreuzung Rupert-Mayer-Straße/Colmarer Straße/Tölzer Straße
+- TOP 5.2.: (Antrag) Verbesserung der Fuß- und Radunterführung Bahnhof Siemenswerke Südseite
+- TOP 5.3.: Flichnerstraße-Gehwegnase
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Geschwindigkeitsbeschränkung auf 30 km/h in der Forstenrieder Allee von der Herterichstraße ca. 150m nach Süden
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Anfahrtszone Kleinstraße 30 für Ergotherapiepraxis
+- TOP 5.6.: (Antrag) Tempo 30 km/h in der Waterloostraße in München Forstenried
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.3.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Muttenthalerstr. 28
+- TOP 6.4.: (A) Sektorale Bebauungsplan Boschetsrieder Straße
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 01.12. bis 23.12.2024
+- TOP 9: Verschiedenes
+- TOP 7.1.1: Aufstockung des Personals in der künftigen Freizeitstätte im Jungen Quartier Obersendling
+- TOP 3.5.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule an der Samberger Straße e.V. und Elternbeirat der Grundschule Starke Kinder -selbstbewusst, hilfsbereit und kreativ vom 17.02.2025 -31.07.2025 8.983,00€; Az. 0262.0-19-0551
+- TOP 3.6.: (E) Stadtbezirksbudget Ensemble La Vie e.V. Hier verweile ich gern - mein Lieblingsort in Thalkirchen vom 15.01. -30.04.2025 3.600,00€; Az. 0262.0-19-0552
+- TOP 3.7.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Schlageronkel vom 01.02.2025 -31.01.2026 450,00€; Az. 0262.0-19-0555
+- TOP 3.8.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Rhythmik vom 01.02.2025 -31.01.2026 900,00€; Az. 0262.0-19-0554
