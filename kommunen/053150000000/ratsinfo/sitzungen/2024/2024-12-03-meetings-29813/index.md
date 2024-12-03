@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-03T15:45:00+01:00
+- Ende: 2024-12-03T19:49:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29813
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29813
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde betreffend "Auswirkungen der Haushaltskürzungen auf die Kölner Kultur" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Musikclubs und Livemusikspielstätten sind Kulturorte" - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Erhöhung der Eintrittspreise und Änderung der Entgelt- und Benutzungsordnung im Bereich der Puppenspiele der Stadt Köln ab der Spielzeit 2025/2026 - ungeändert beschlossen
+- TOP 4.2: Zuschuss Förderverein Römische Stadtmauer Köln e. V. und Freigabe Kulturförderabgabe 2022 - Bauliche Maßnahmen für die Sanierung und Erhaltung sowie Ergänzung von Denkmälern - ungeändert beschlossen
+- TOP 4.3: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Weiteres Vorgehen Hallen Kalk (Hallen 75-77)" - ungeändert beschlossen
+- TOP 4.4: Zusätzliche Gelder für die Musikkapellen in den Schull- un Veedelszöch - ungeändert beschlossen
+- TOP 4.5: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - ungeändert beschlossen
+- TOP 4.6: Fortführung der Strukturförderung für das Kulturwerk des Bundesverbandes Bildender Künstlerinnen und Künstler Köln (BBK Köln e.V.) - ungeändert beschlossen
+- TOP 4.7: Fortführung der institutionellen Förderung für FilmInitiativ Köln e.V./Afrika Film Festival Köln - ungeändert beschlossen
+- TOP 4.8: Vergabe der Konzeptionsförderung in der Sparte Tanz
+- TOP 4.9: Fortführung der Strukturförderung für die Internationale Photoszene Köln gUG
+- TOP 4.10: Fortführung der Strukturförderung des Temporary Gallery e.V. - ungeändert beschlossen
+- TOP 4.11: Haushaltsneutrale Umschichtung von Transferaufwendungen 2024 - ungeändert beschlossen
+- TOP 4.12: Benutzungs- und Entgeltordnung für das Historische Archiv mit Rheinischem Bildarchiv der Stadt Köln - ohne Votum behandelt
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Sonderausstellungen in den städtischen Museen 2024 - ungeändert beschlossen
+- TOP 5.2: Sonderausstellungsprogramm des Kölnischen Stadtmuseums (KSM), hier: Ankündigung einer Präsentation "Eine kölsche Krippe - Vom Stall zu Bethlehem auf dem Kölner Alter Markt" - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Die rheinischen Jahrtausendfeiern 1925. Akteure, Interessen, Wahrnehmungen - Kenntnis genommen
+- TOP 8.2: Projektkooperation des Kölnischen Stadtmuseums - Kenntnis genommen
+- TOP 8.3: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2024 - Kenntnis genommen
+- TOP 8.4: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP 8.5: Evaluation der nachhaltigen Transformation des Kultursektors in Köln - Kenntnis genommen
+- TOP 8.6: Bericht über die Verwendung der Projektmittel aus dem "Fonds Open Air" 2024 - Kenntnis genommen
+- TOP 8.7: Leitfaden zum Umgang mit der Anmietung von öffentlichen Räumen durch extremistische, rassistische und antisemitische Gruppen - zurückgestellt
+- TOP 8.8: Veranstaltungen im KSM - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 18. November 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 21. November 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 22. November 2024 - Kenntnis genommen
+- TOP 9.4: Änderung des Geltungsbereiches des Bebauungsplanes „Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg“ in Köln-Ehrenfeld und Änderung des Arbeitstitels in: „Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel" in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis90/Die Grünen, CDU-Fraktion und VOLT-Fraktion - Kenntnis genommen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der FDP-Fraktion betreffend "Einstellung der Grabungstätigkeit auf der Baustelle des MiQua und die Folgen" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion vom 28.10.2024 betr. Einstellung der Grabungstätigkeiten auf der Baustelle des MiQua und die Folgen (AN/1466/2024) - Kenntnis genommen
+- TOP 11.2: Anfrage der SPD-Fraktion betreffend "Umzug des Römisch-Germanischen Museums (RGM)" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion (AN 1672/2014) betr. Umzug des Römisch-Germanischen Museums - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
