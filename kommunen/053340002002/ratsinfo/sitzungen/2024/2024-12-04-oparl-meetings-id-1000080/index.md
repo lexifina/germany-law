@@ -1,0 +1,81 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2024-12-04T17:00:00+01:00
+- Ende: 2024-12-04T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000080
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000080
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1419611&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 09.10.2024 (öffentlicher Teil) - geändert beschlossen
+- TOP 4: Einbringung des Haushaltsplanentwurfs 2025 - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen; Haushaltsjahr 2024; Produkte 021501 Brandbekämpfung und 021701 Notfallrettung: Baumaßnahme im Rahmen des Brandschutzbedarfsplans und des Rettungsdienstbedarfsplans – Neubau Gerätehaus Freiwillige Feuerwehr Richterich und Rettungswache Richterich, Roder Weg 7 - ; Entwurf mit Kostenberechnung (Lph 3) sowie erweiterter Planungsbeschluss (Lph 4, 5, 6) - zurückgezogen
+- TOP 6: Veranstaltungen auf dem Katschhof und dem Markt im Jahr 2025 - geändert beschlossen
+- TOP 7: September Special - Interfraktioneller Ratsantrag vom 18.06.2024 - ungeändert beschlossen
+- TOP 8: Jahresabschluss Eurogress Aachen 2023 - ungeändert beschlossen
+- TOP 9: Friedhofsgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2025 - ungeändert beschlossen
+- TOP 10: Straßenreinigungsgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2025 - ungeändert beschlossen
+- TOP 11: 10. Änderungssatzung der Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen im Gebiet der Stadt Aachen (Abfallwirtschaftssatzung) vom 10.12.2008 - ungeändert beschlossen
+- TOP 12: Bericht der PKF Fasselt Partnerschaft mbB - Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft Rechtsanwälte über den Jahresabschluss zum 31.12.2023 und Lagebericht für das Wirtschaftsjahr 2023 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen sowie Entlastung der Betriebsleitung und des Betriebsausschusses für das Jahr 2023 - zurückgezogen
+- TOP 13: Anpassung der Betriebssatzung des Aachener Stadtbetriebes an Änderungen der Gemeindeordnung und Eigenbetriebsverordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 14: Abfallgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2025 - ungeändert beschlossen
+- TOP 15: 9. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 16: Jahresabschluss zum 31.12.2023 und Lagebericht 2023 - ungeändert beschlossen
+- TOP 17: Anpassung der Satzung der Volkshochschule an Änderungen der Gemeindeordnung und Eigenbetriebsverordnung NRW - ungeändert beschlossen
+- TOP 18: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2023 - ungeändert beschlossen
+- TOP 19: Anpassung der Betriebssatzung des Gebäudemanagement der Stadt Aachen an Änderungen der Gemeindeordnung und Eigenbetriebsverordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 20: Anpassung der Betriebssatzung für Stadttheater und Musikdirektion Aachen an Änderungen der Gemeindeordnung und Eigenbetriebsverordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 21: Anpassung der Betriebssatzung des Kulturbetriebs der Stadt Aachen an Änderungen der Gemeindeordnung und Eigenbetriebsverordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 22: Sonntagsöffnung und Organisationskonzept Stadtbibliothek - ungeändert beschlossen
+- TOP 23: Fortschreibung des Brandschutzbedarfsplanes der Stadt Aachen 2025 - ungeändert beschlossen
+- TOP 24: Fortschreibung des Wasserversorgungskonzeptes der Stadt Aachen - ungeändert beschlossen
+- TOP 25: 28. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 26: 24. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 27: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen Büchel, Kleinkölnstraße, Großkölnstraße und Mefferdatisstraße einschließlich Antoniusstraße
+- TOP 27.1: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen Büchel, Kleinkölnstraße, Großkölnstraße und Mefferdatisstraße einschließlich Antoniusstraße - Ergänzungsvorlage - ungeändert beschlossen
+- TOP 28: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für die östliche Innenstadt
+- TOP 28.1: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für die östliche Innenstadt -Ergänzungsvorlage - ungeändert beschlossen
+- TOP 29: Bebauungsplan Nr. 1009 - Haaren Ortsmitte / Stadthäuser - hier: - Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 30: Wahl des Wahlaussschusses für die Kommunalwahl am 14.09.2025 - ungeändert beschlossen
+- TOP 31: Benennung von vier stimmberechtigten Delegierten für die 43. ordentliche Hauptversammlung des Deutschen Städtetages vom 13.05. bis 15.05.2025 in Hannover - ungeändert beschlossen
+- TOP 32: Anfragen
+- TOP 32.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 32.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 33: Ratsanträge - ungeändert beschlossen
+- TOP 34: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 34.1: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 34.2: Umbesetzungsantrag der Fraktion DIE Zukunft vom 02.12.2024 - ungeändert beschlossen
+- TOP 34.3: Umbesetzungsantrag der Fraktion DIE LINKE vom 03.12.2024 - ungeändert beschlossen
+- TOP 34.4: Umbesetzungsantrag der SPD-Fraktion vom 03.12.2024 - ungeändert beschlossen
+- TOP 34.5: Umbesetzungsantrag der FDP-Fraktion vom 03.12.2024 - ungeändert beschlossen
+- TOP 35: Mitteilungen der Verwaltung
+- TOP 36: 1. Nachtrag zur Hebesatzsatzung - Grundsteuerreform - ungeändert beschlossen
+- TOP 37: Resolution "Kürzungen des Landes im Sozialbereich zurücknehmen!" hier: Gemeinsamer Tagesordnungsantrag der Fraktionen von GRÜNE, SPD, DIE Zukunft, FDP und DIE LINKE vom 20.11.2024 - ungeändert beschlossen
+- TOP 38: Erhalt des Hauses Levy hier: Tagesordnungsantrag der Fraktionen DIE Zukunft und DIE LINKE vom 20.11.2024 - vertagt
+- TOP 39: Preisanpassungen von Stadttheater und Musikdirektion Aachen ab der Spielzeit 2025/2026 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.2: nicht öffentlicher Tagesordnungspunkt
