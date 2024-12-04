@@ -13,19 +13,14 @@ Teil 1
 Sicherheitsanforderungen für den Bau,
 die Ausrüstung und den Betrieb von Fahrgastschiffen
 1 Anwendungsbereich
-1.1 Dieser Teil gilt für Fahrgastschiffe in der Inlandfahrt, die die Bundesflagge führen und die nicht der Richtlinie 2009/45/EG unterliegen, einschließlich der Bäderboote und Sportanglerfahrzeuge. Dies sind insbesondere
-  a) vorhandene Schiffe der Klassen A bis D im Sinne der Richtlinie 2009/45/EG mit einer Länge von weniger als 24 m,
-  b) Schiffe, auf die wegen des verwendeten Werkstoffes die Richtlinie 2009/45/EG keine Anwendung findet,
-  c) vor 1965 entworfene und hauptsächlich mit den Originalwerkstoffen gebaute historische Fahrgastschiffe im Original oder als Einzelnachbildung, soweit sie nicht den Anforderungen für Traditionsschiffe nach Teil 3 unterliegen.
-1.2 Soweit nicht die Bestimmungen des Anhangs der Richtlinie 2009/45/EG anzuwenden sind, gilt dieser Teil ferner für
-  a) vorhandene Schiffe der Klassen C und D nach Artikel 6 Absatz 3 Buchstabe c der Richtlinie 2009/45/EG,
-  b) neue Schiffe im Sinne der Richtlinie 2009/45/EG mit einer Länge von weniger als 24 m.
+1.1 Dieser Teil gilt für Fahrgastschiffe in der Inlandfahrt, die die Bundesflagge führen und die nicht der Richtlinie 2009/45/EG unterliegen, einschließlich der Bäderboote und Sportanglerfahrzeuge. Weiterhin gilt dieser Teil insbesondere auch für vor 1965 entworfene und hauptsächlich mit den Originalwerkstoffen gebaute historische Fahrgastschiffe im Original oder als Einzelnachbildung, soweit sie nicht den Anforderungen für Traditionsschiffe nach Teil 3 unterliegen.
+1.2 Soweit nicht die Bestimmungen des Anhangs der Richtlinie 2009/45/EG anzuwenden sind, gilt dieser Teil ferner für vorhandene Schiffe der Klassen C und D nach Artikel 6 Absatz 3 Buchstabe c der Richtlinie 2009/45/EG.
 1.3 Dieser Teil gilt nicht für
   a) Schiffe der Bundeswehr und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
   b) Binnenschiffe, mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
   c) Sportboote, sofern sie
     aa) nicht über eine Besatzung verfügen oder verfügen sollen und
-    bb) zu gewerblichen Zwecken mehr als zwölf Fahrgäste befördern.
+    bb) zu gewerbsmäßigen Zwecken mehr als zwölf Fahrgäste befördern.
 2 Begriffsbestimmungen
   Im Sinne dieses Teils ist
 2.1 Fahrgastschiff: ein Schiff, das mehr als 12 Fahrgäste befördert oder das für die Beförderung von mehr als 12 Fahrgästen zugelassen ist;
@@ -53,7 +48,7 @@ die Ausrüstung und den Betrieb von Fahrgastschiffen
   g) das Wattenmeer zwischen dem Festland vom Hindenburgdamm bis zur dänischen Grenze;
 2.15 Berufsgenossenschaft: die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 3 Grundsätzliche Sicherheitsanforderungen
-3.1 Die Richtlinie 2009/45/EG gilt für Fahrgastschiffe nach Regel 1.1 dieses Teils entsprechend, soweit nicht in den folgenden Vorschriften etwas anderes bestimmt ist.
+3.1 Die Richtlinie 2009/45/EG gilt für Fahrgastschiffe nach Regel 1.1 dieses Teils entsprechend, soweit nicht in den folgenden Vorschriften etwas anderes bestimmt ist. Für Fahrgastschiffe mit einer Länge von weniger als 24 m gelten die Regeln 2 bis 8 des Kapitels II-1, Teil B-2 sowie die Regel 13 des Kapitels II-2, Teil B des Abschnitt 1 des Anhangs I der Richtlinie 2009/45/EG entsprechend, auch wenn deren Kiel am oder nach dem 19. September 2021 gelegt wurde oder sie sich vor diesem Zeitpunkt in einem entsprechenden Bauzustand befanden.
 3.2 Vorbehaltlich der nachfolgenden Vorschriften müssen vorhandene Fahrgastschiffe der Klassen C und D mit Ausnahme von Sportanglerfahrzeugen und Bäderbooten in allem, was nicht unter die besonderen Anforderungen für die Klassen C und D nach der Richtlinie 2009/45/EG fällt, die Anforderungen der Kapitel II-1 und II-2 der Anlage zum SOLAS-Übereinkommen erfüllen. Soweit darin ausdrücklich Regelungen für den Umbau vorhandener Schiffe vorgesehen sind, müssen abweichend von Satz 1 mindestens die Anforderungen der Kapitel II-1und II-2 der Anlage zum SOLAS-Übereinkommen in der in der nach Maßgabe der 6. SOLAS-Änderungsverordnung vom 20. September 1994 (BGBl. II S. 2458) geänderten Fassung eingehalten werden.
 3.3 Dem Verantwortlichen im Sinne des § 2 Absatz 2 ist bei der Anwendung der in Betracht kommenden Bestimmungen dieses Teils freigestellt, im Rahmen seiner Verpflichtungen nach § 3 des Schiffssicherheitsgesetzes nachzuweisen, dass er den sicheren Betrieb des Schiffes hinsichtlich der dem Flaggenstaat überlassenen Anforderungen auch abweichend von diesem Teil in gleichwertiger Weise sicherstellt.
 4 Besichtigung und Zeugniserteilung
@@ -125,6 +120,215 @@ die Ausrüstung und den Betrieb von Fahrgastschiffen
   Für vorhandene Fahrgastschiffe der Klassen C und D, die ausschließlich Tagesfahrten durchführen, kann die Nachrüstung einer Feuerlöschanlage für Unterkunfts- und Wirtschaftsräume, Treppenschächte und Gänge in erleichterter Form durch eine nicht selbsttätig auslösende Anlage oder mobile Brandbekämpfungseinheiten, die strategisch günstig in Brandabschnitten platziert werden und aktiv durch die Besatzungen zum Einsatz kommen können, vorgenommen werden. Feuerlöschanlagen sind so auszulegen, dass eine gleichwertige Sicherheit gegenüber dem festen Einbau einer Sprinkleranlage erfüllt wird.
 12 Zeugnismuster
   Die Muster des Sicherheitszeugnisses für Fahrgastschiffe und der Fahrterlaubnis in besonderen Fällen werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
+Teil 1a
+Sicherheitsanforderungen für den Bau, die Ausrüstung und
+den Betrieb von Fahrgastschiffen im Hafengebiet der Insel Helgoland
+Kapitel 1
+Allgemeine Bestimmungen
+1 Anwendungsbereich
+1.1 Dieser Teil gilt für Fahrgastschiffe, die die Bundesflagge führen und ausschließlich im Hafengebiet der Insel Helgoland verkehren.
+1.2 Dieser Teil gilt nicht für Fahrgastschiffe, die ein Zeugnis nach dem SOLAS-Übereinkommen, der Richtlinie 2009/45/EG oder Teil 1 dieser Anlage führen.
+2 Begriffsbestimmungen
+2.1 Im Sinne dieses Teils ist:
+2.1.1 Fahrgastschiff: ein Schiff, das mehr als 12 Fahrgäste befördert oder das für die Beförderung von mehr als 12 Fahrgästen zugelassen ist;
+2.1.2 Fahrgast: jede Person mit Ausnahme
+  a) des Kapitäns und der Mitglieder der Schiffsbesatzung oder anderer Personen, die in einer Eigenschaft an Bord eines Schiffes für dessen Belange angestellt, beschäftigt oder sonst tätig sind, und
+  b) von Kindern unter einem Jahr;
+2.1.3 Hafengebiet der Insel Helgoland: die Wasserfläche zwischen der Hauptinsel Helgoland und der Düne, nördlich begrenzt durch die Verbindungslinie zwischen den Koordinaten 54° 11,38´ N 007° 53‘ E (Helgoland Mole Nord-Ost) und 54° 11,36´ N 007° 54´ E (Dünendamm-West) und südlich begrenzt durch die Verbindungslinie zwischen den Koordinaten 54° 10,24´ N 007° 54´ E (Helgoland Südmole) und 54° 10,84´ N 007° 55´ E (Düne Mole Süd-Ost);
+2.1.4 Börteboot: ein traditionelles offenes Fischerboot in Helgoländer Bauweise, das als Fahrgastschiff im Anlandungsdienst auf der Helgoländer Reede und im Personenverkehr im Hafengebiet der Insel Helgoland eingesetzt wird;
+2.1.5 Neues Fahrgastschiff: ein Fahrgastschiff, dessen Kiel am oder nach 30. November 2024 gelegt wurde;
+2.1.6 Vorhandenes Fahrgastschiff: ein Fahrgastschiff, das kein neues Fahrgastschiff ist;
+2.1.7 Anerkannte Organisation: eine nach der Verordnung (EG) Nr. 391/2009 anerkannte Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne des Artikels 5 Absatz 2 der Richtlinie 2009/15/EG begründet worden ist;
+2.1.8 Berufsgenossenschaft: die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation;
+2.2 Soweit dieser Teil auf bestimmte Vorschriften verweist, bedeutet
+2.2.1 SOLAS-Übereinkommen: Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See mit Protokollen von 1978 und 1988 (BGBl. 1979 II S. 141, 142; 1980 II S. 525; 1983 II S. 784; 1994 II S. 2458, Anlageband zum BGBl. II Nr. 44 vom 27. September 1994 S. 43) in der jeweils geltenden Fassung;
+2.2.2 Code über Intaktstabilität: Entschließung MSC.267(85) über den Internationalen Code über Intaktstabilität von 2008 (VkBl. 2009, S. 724) in der jeweils geltenden Fassung;
+2.2.3 HSC-Code: Internationaler Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen (HSC-Code 2000, Entschließung MSC.97(73)), angenommen am 5. Dezember 2000 (VkBl. 2002, S. 449) in der jeweils geltenden Fassung;
+2.2.4 Schiffsausrüstungsverordnung: Schiffsausrüstungsverordnung vom 1. Oktober 2008 (BGBl. I S. 1913), die zuletzt durch Artikel 6 der Verordnung vom 3. März 2020 (BGBl. I S. 412) geändert worden ist, in der jeweils geltenden Fassung;
+2.2.5 Richtlinie 2009/15/EG: Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.5.2009, S. 47), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung;
+2.2.6 Richtlinie 2009/45/EG: Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (Neufassung) (ABl. L 163 vom 25.6.2009, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/1180 (ABl. L. 184 vom 11.7.2022, S. 1) geändert worden ist, in der jeweils geltenden Fassung;
+2.2.7 Verordnung (EG) Nr. 391/2009: Verordnung (EG) Nr. 391/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen (ABl. L 131 vom 28.5.2009, S. 11; L 74 vom 22.3.2010, S. 1), die durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung;
+2.2.8 DIN ISO 12216: DIN EN ISO 12216:2019-04, Kleine Wasserfahrzeuge – Fenster, Bullaugen, Luken, Seeschlagblenden und Türen – Anforderungen an die Festigkeit und Wasserdichtheit (ISO 12216:2002) in der Fassung vom April 2019;
+3 Sicherheitsanforderungen
+3.1 Sofern nicht nachfolgend etwas anderes geregelt ist, gelten
+  a) für Fahrgastschiffe die Anforderungen des Kapitels 2;
+  b) abweichend von Buchstabe a, für Börteboote die Anforderungen des Kapitels 3.
+3.2 Bau und Ausrüstung
+3.2.1 Fahrgastschiffe müssen in ihrer Bauart und Festigkeit sowie der Konstruktion der Maschinen und elektrischen Anlagen so beschaffen und ausgestattet sein und sich in einem solchen Erhaltungszustand befinden, dass sie den auftretenden Beanspruchungen genügen, die der beabsichtigte Verwendungszweck erfordert.
+3.2.2 Soweit Kapitel 2 oder Kapitel 3 keine besonderen Anforderungen an Bauausführungen, Anordnungen, Einrichtungen, Anlagen, Ausrüstung, Werkstoffe, deren Einbau und den Betrieb enthalten, sind die allgemein anerkannten Regeln der Technik einzuhalten.
+3.2.3 Die nach Kapitel 2 oder Kapitel 3 vorgeschriebene Ausrüstung muss nach der Schiffsausrüstungsverordnung zugelassen sein, wenn nicht in den nachfolgenden Regeln etwas anderes bestimmt ist. Ausrüstung, die nicht der Schiffsausrüstungsverordnung unterliegt, muss durch die Berufsgenossenschaft oder das Bundesamt für Seeschifffahrt und Hydrographie zugelassen sein oder den Anforderungen einer anerkannten Organisation genügen.
+3.3 Vorgeschriebene Ausrüstung, die in einem anderen Mitgliedstaat der Europäischen Union oder der Türkei oder einem EFTA-Staat, der Vertragspartei des EWR-Abkommens ist, rechtmäßig hergestellt oder in Verkehr gebracht wurde, wird als gleichwertig anerkannt.
+3.4 Notfall- und Rettungskonzept
+  Der für den Schiffsbetrieb Verantwortliche muss ein Notfall- und Rettungskonzept erstellen, in dem die potentiellen Gefahrensituationen und die geeigneten Rettungsmaßnahmen beschrieben sind. Das Notfall- und Rettungskonzept ist der Berufsgenossenschaft zur Genehmigung vorzulegen. Es soll sich an den Kriterien orientieren, die vom Bundesministerium für Digitales und Verkehr im Verkehrsblatt veröffentlicht werden.
+3.5 Qualitätssicherungssystem
+  Für Fahrgastschiffe ist der Betrieb und die Instandhaltung mit Hilfe eines Qualitätssicherungssystems nach Regel 1.2.1.2 des HSC-Code zu überwachen. Das Notfall- und Rettungskonzept muss Bestandteil des Qualitätssicherungssystems sein.
+4 Besichtigung und Zeugniserteilung
+4.1 Besichtigung
+4.1.1 Fahrgastschiffe sind nach Maßgabe des Kapitels I Regel 7 des SOLAS-Übereinkommens zu besichtigen. Für die Besichtigung der Außenseite des Schiffsbodens gilt Kapitel I Regel 10 Buchstabe a Unterbuchstabe v des SOLAS-Übereinkommens entsprechend.
+4.1.2 Abweichend von Regel 4.1.1 unterliegen Börteboote einer erstmaligen Besichtigung vor der Indienststellung und einer regelmäßigen Besichtigung, die alle zwölf Monate durchzuführen ist. Eine Besichtigung der Außenseite des Schiffsbodens ist alle 24 Monate durchzuführen. Im Übrigen gilt, soweit anwendbar, Regel 4.1.1 hinsichtlich des Besichtigungsumfangs entsprechend.
+4.1.3 Von der Besichtigung fertigt der Besichtiger einen Besichtigungsbericht an und übergibt diesen dem Schiffseigner. Ein Muster des Besichtigungsberichts wird von der Berufsgenossenschaft veröffentlicht. Der Besichtigungsbericht der letzten Besichtigung ist an Bord mitzuführen. Die Besichtigungsberichte für Börteboote können auch beim Brückenkapitän hinterlegt werden.
+4.1.4 Nach einer Besichtigung dürfen an der Konstruktion, den Einrichtungen, der Maschinenanlage, der Ausrüstung und den sonstigen Gegenständen, auf die sich die Besichtigung erstreckt hat, ohne Genehmigung der Berufsgenossenschaft keine Änderungen vorgenommen werden.
+4.2 Zeugniserteilung
+4.2.1 Wenn die Besichtigung die Übereinstimmung mit den anwendbaren Vorschriften dieses Teils ergeben hat, erteilt die Berufsgenossenschaft:
+  a) für Fahrgastschiffe ein Sicherheitszeugnis für Fahrgastschiffe,
+  b) abweichend von Buchstabe a, für Börteboote ein Börtedienstzeugnis.
+4.2.2 Die Muster eines Sicherheitszeugnisses für Fahrgastschiffe und eines Börtedienstzeugnisses nach dieser Verordnung werden im Verkehrsblatt bekannt gemacht.
+4.2.3 Die Berufsgenossenschaft hat die höchstzulässige Anzahl der Fahrgäste im Sicherheitszeugnis oder in dem Börtedienstzeugnis festzusetzen. Zu berücksichtigen sind dabei insbesondere die nachgewiesenen Stabilitätswerte, Flucht- und Rettungswege und die Decksflächen auf und unter Deck, die für die Unterbringung von Fahrgästen geeignet sind. Für Börteboote darf die Zahl der Fahrgäste nicht mehr als 50 betragen.
+4.3 Gültigkeitsdauer
+  Das Sicherheitszeugnis für Fahrgastschiffe und das Börtedienstzeugnis werden in der Regel für die Dauer von zwei Jahren erteilt. In einem besonders gelagerten Einzelfall kann auch eine angemessene kürzere Frist bestimmt werden. Im Übrigen gilt Kapitel I Regel 14 des SOLAS-Übereinkommens entsprechend.
+4.4 Vorläufige Entscheidung
+  Über die Erteilung eines Sicherheitszeugnisses für Fahrgastschiffe oder eines Börtedienstzeugnisses kann vorläufig entschieden werden, wenn
+  a) zur Feststellung der Voraussetzungen voraussichtlich längere Zeit erforderlich ist,
+  b) die nach Regel 4.1 erforderlichen Besichtigungen abgeschlossen sind,
+  c) nach dem Ergebnis dieser Besichtigungen die Voraussetzungen für die Erteilung mit hinreichender Wahrscheinlichkeit vorliegen und
+  d) der Antragsteller die Umstände, die einer abschließenden Entscheidung entgegenstehen, nicht zu vertreten hat.
+  Die Gültigkeit eines vorläufigen Zeugnisses oder einer vorläufigen Bescheinigung nach Satz 1 darf in Abhängigkeit von der Möglichkeit, ergänzend gestellte Anforderungen zu erfüllen, fünf Monate nicht überschreiten.
+4.5 Besichtigungs- und Zeugnispflichten aus anderen Rechtsvorschriften bleiben unberührt.
+Kapitel 2
+Fahrgastschiffe
+1 Anwendungsbereich und grundsätzliche Sicherheitsanforderungen
+1.1 Dieses Kapitel gilt für neue Fahrgastschiffe mit einer Länge von weniger als 24 m.
+1.2 Soweit in diesem Teil nichts anderes bestimmt ist, gelten für Fahrgastschiffe nach diesem Kapitel die Anforderungen des HSC-Code für Fahrgastfahrzeuge der Kategorie A entsprechend.
+1.3 Der Bau und die Instandhaltung des Schiffskörpers, der Haupt- und Hilfsmaschinen sowie der elektrischen und automatischen Anlagen müssen dem Standard entsprechen, den die Klassifikationsregeln einer anerkannten Organisation vorschreiben.
+1.4 Abhängig von der nachgewiesenen baulichen Beschaffenheit und der vorhandenen Ausrüstung kann die Berufsgenossenschaft Auflagen für den Betrieb erteilen. Eine Betriebserlaubnis nach Regel 1.9 des HSC-Code ist nicht erforderlich.
+2 Auftrieb, Stabilität und Unterteilung
+2.1 Allgemeines
+  Die Regeln 2.1.6 und 2.1.7 des HSC-Code sind nicht anzuwenden.
+2.2 Süllhöhen und Verschlüsse
+  Die Regeln 2.2.1.2, 2.2.2.6, 2.2.2.7 und 2.2.5 des HSC-Code sind nicht anzuwenden. Die Wetterdichtigkeit im Sinne von Regel 2.2.7 HSC-Code gilt als erfüllt, wenn die betrachteten Verschlusseinrichtungen die Anforderungen der DIN ISO 12216 erfüllen. Alle Öffnungen sind in einem Verschlussplan zu dokumentieren.
+2.3 Intaktstabilität
+2.3.1 Regel 2.3 des HSC-Code ist in Verbindung mit den Vorgaben der Regeln 2.10 bis 2.11 des HSC-Code anzuwenden.
+2.3.2 Die Regeln 2.4, 2.5 und 2.12 bis 2.14 des HSC-Code sind nicht anzuwenden.
+2.3.3 Wenn permanenter Ballast verwendet wird, ist Regel 3.2 des Codes über Intaktstabilität anzuwenden.
+2.4 Leckstabilität
+  Die Regeln 2.6.7 bis 2.6.12 des HSC-Code sind nicht anzuwenden. Die in Regel 2.13 des HSC-Code festgelegten Anforderungen an die Hebelarmkurve sind nur für folgende Leckfälle anzuwenden:
+  a) Seitenlecks mit 1-Abteilungsstatus: Lecklänge 0,375 ∙ ∇¹/³, Eindringtiefe 0,2 ∙ ∇¹/³, volle vertikale Höhe des Schiffes;
+  b) Bodenlecks mit 1-Abteilungsstatus: Lecklänge 0,375 ∙ ∇¹/³, Eindringtiefe normal zur Außenhaut 0,02 ∙ ∇¹/³, Breite des Lecks 0,2 ∙ ∇¹/³;
+  c) Kollisionsleckfälle: Lecklänge 0,2 ∙ ∇¹/³ gemessen ab dem vordersten bzw. hintersten Punkt des Rumpfes, gesamte Schiffsbreite und höhe.
+  Sollte der Abstand zweier benachbarter Schotten kleiner sein als die zugehörige Mindestlecklänge, so muss eines der beiden Schotten als beschädigt angenommen werden (2-Abteilungsstatus).
+2.5 Krängungsversuch und Stabilitätsunterlagen
+2.5.1 Der Krängungsversuch ist nach den Vorgaben des Code über Intaktstabilität durchzuführen.
+2.5.2 Die nach Regel 2.7 des HSC-Code zu erstellenden Stabilitätsunterlagen müssen durch eine anerkannte Organisation geprüft, mit einem Prüfvermerk versehen und der Berufsgenossenschaft zur Genehmigung vorgelegt werden. Abweichend von Regel 2.14.2 des HSC-Code betragen die Toleranzen einer möglichen Gewichtsrechnung 4 % bezogen auf das Leerschiffsgewicht und 2 % bezogen auf den Längenschwerpunkt.
+2.5.3 Regel 2.8 des HSC-Code ist nicht anzuwenden.
+3 Festigkeitsverbände
+  Kapitel 3 des HSC-Code ist ohne Abweichung anzuwenden.
+4 Fahrgasträume und Fluchtwege
+4.1 Die Regel 4.2.4 und die Regeln 4.3 bis 4.6 des HSC-Code sind nicht anzuwenden.
+4.2 Als zweiter Fluchtweg im Sinne der Regel 4.7.4 des HSC-Code kann auch eine Seitentür anerkannt werden, durch die Retter Zugang zu den Fahrgasträumen erlangen und eine Evakuierung nach außenbords stattfinden kann. Die Regeln 4.7.5, 4.7.17 und die Regeln 4.9 und 4.10 des HSC-Code sind nicht anzuwenden.
+4.3 Die lichte Breite aller Fluchtwege im Sinne der Regel 4.7.13 des HSC-Code darf 600 mm nicht unterschreiten. In der direkten Nähe der Seitentür sind von außen erreichbare Klampen oder Poller vorzusehen.
+5 Kurs- und Steuereinrichtungen
+5.1 Abweichend von Regel 5.2.2 des HSC-Code kann bei zwei gegenläufig steuerbaren Propellern oder einem Propeller in Kombination mit einem Bugstrahlruder auf den Einbau eines Hilfsrudersystems verzichtet werden, wenn im Versuch nachgewiesen werden kann, dass unter ungünstigsten Umständen das Schiff noch sicher manövriert werden kann. Der Versuch muss im Beisein eines Besichtigers der Berufsgenossenschaft oder einer anerkannten Organisation erfolgen.
+5.2 Eine Fehlermöglichkeits- und Einfluss-Analyse (FMEA) nach Regel 5.2.5 des HSC-Code ist nicht erforderlich
+5.3 Die Regeln 2 und 3 der Anlage 9 des HSC-Code sind nicht anzuwenden.
+5.4 Regel 5.4.3 des HSC-Code ist nicht anzuwenden.
+6 Ankern, Schleppen und Festmachen
+  Kapitel 6 des HSC-Code ist ohne Abweichung anzuwenden.
+7 Brandschutz
+7.1 Der Fahrgastbereich (Bereich mit geringer Brandgefahr Kategorie C) darf direkt an den Brückenbereich (Kontrollstation Kategorie D) angrenzen.
+7.2 Abweichend von Regel 7.7.1 des HSC-Code werden für die Brücke und den Fahrgastbereich keine Feuermelder benötigt, wenn beide Bereiche einen Raum bilden. Ebenso entfallen die manuellen Feuermeldepunkte. Anstelle der in Regel 7.7.1 geforderten Videoüberwachung kann die Dienststelle Schiffssicherheit auch andere geeignete Maßnahmen anerkennen.
+7.3 Abweichend von Regel 7.9.2 des HSC-Code kann ein Doppel des Brandschutzplans auch bei der Landfeuerwehr aufbewahrt werden.
+8 Rettungsmittel und -vorrichtungen
+8.1 Kapitel 8 des HSC-Code ist mit Ausnahme der folgenden Regeln nicht anzuwenden.
+8.2 Regel 8.2.3.2 des HSC-Code gilt mit der Maßgabe, dass drei Fallschirm-Leuchtraketen, sechs Handfackeln und zwei Rauchtöpfe ausreichend sind.
+8.3 Zusätzliche Rettungswesten nach den Regeln 8.3.5.2 und 8.3.5.3 des HSC-Code sind nicht erforderlich. Die Rettungswesten nach Regel 8.3.6 des HSC-Code sind unter jedem Sitzplatz leicht zugänglich zu lagern. Eintauchanzüge nach Regel 8.3.7 und 8.3.8 sind nicht erforderlich.
+8.4 Die Anweisungen für den Notfall nach Regel 8.4 des HSC-Code sind in Form einer Sicherheitskarte an jedem Sitzplatz vorzusehen. Eine Sicherheitsrolle und ein Ausbildungshandbuch sind nicht erforderlich.
+8.5 Auf ein Bereitschaftsboot nach Regel 8.10.1.4 kann verzichtet werden, wenn Mittel zur Bergung hilfloser im Wasser treibender Personen an Bord vorhanden sind.
+9 Maschinenanlagen
+9.1 Eine Fehlermöglichkeits- und Einfluss-Analyse (FMEA) nach Regel 9.1.10 des HSC-Code ist nicht erforderlich.
+9.2 Regel 9.2.3 des HSC-Code ist nicht anzuwenden, sofern ein Not-Ausschalter direkt an der Maschine vorgesehen ist.
+10 Hilfsanlagen
+10.1 Regel 10.2.4.3 des HSC-Code ist nicht anzuwenden. Abweichend von Regel 10.2.4.4 in Verbindung mit Regel 7.5.6.1 des HSC-Code dürfen Brennstofftanks in die Schiffstruktur integriert werden. Sie dürfen an Maschinenräume anschließen, sofern das Maschinenraumschott zum Maschinenraum hin mit einer A60-Isolierung versehen ist.
+10.2 Abweichend von Regel 10.3.5 und 10.3.6 ist ein leistungsfähiges Lenzpumpensystem vorzusehen, mit dem unter allen Bedingungen jede wasserdichte Abteilung, ausgenommen Tanks, Leerzellen oder permanent ausgeschäumte Abteilungen, gelenzt werden kann.
+11 Fernsteuerungen, Alarm- und Sicherheitseinrichtungen
+11.1 Regel 11.2.4 des HSC-Code ist nicht anzuwenden.
+11.2 Regel 11.3.2 des HSC-Code ist nicht anzuwenden.
+11.3 Regel 11.4.1.3 des HSC-Code ist nicht anzuwenden.
+11.4 Regel 11.4.3 des HSC-Code ist nicht anzuwenden.
+12 Elektrische Anlagen
+12.1 Abweichend von Regel 12.1.1 des HSC-Code kann auf eine Fehlermöglichkeits- und Einfluss-Analyse (FMEA) verzichtet werden. Die Hauptstromquelle kann abweichend von Regel 12.2.1 des HSC-Code auch aus einem entsprechend ausgelegten Batteriepaket bestehen.
+12.2 Regel 12.3.9 des HSC-Code ist nicht anzuwenden.
+12.3 Abweichend von Regel 12.5.1 des HSC-Code kann auf ein zweites Batteriepaket verzichtet werden, wenn die Notstromversorgung so ausgelegt ist, dass die Steuerung oder Stabilisierung eines Fahrzeugs damit im Notbetrieb weiter funktioniert.
+12.4 Die Notstromquelle muss abweichend von Regel 12.7.3 des HSC-Code in der Lage sein, alle an die Notschalttafel angeschlossenen Verbraucher sowie die GMDSS-Anlage, die Navigationssysteme und den Positionssensor für mindestens 30 Minuten mit Strom zu versorgen.
+12.5 Regel 12.7.1 des HSC-Code ist nicht anzuwenden.
+13 Bordgestützte Navigationsausrüstung und Schiffsdatenschreiber
+  Die Regeln 13.1, 13.2.6, 13.3, 13.5.2, 13.5.4 und 13.7.1, sowie die Regeln 13.8, 13.9.1, 13.10, 13.12, 13.14 und 13.16 des HSC-Code sind nicht anzuwenden. Die Regel 13.5.3 des HSC-Code gilt mit der Maßgabe, dass eine Automatische Zielverfolgung und eine Geschwindigkeitsstabilisierung durch ein Elektronisches Positionssystem (EPFS) ausreicht.
+14 Funkausrüstung
+14.1 Regel 14.15.8 des HSC-Code gilt mit der Maßgabe, dass die Sicherstellung der Betriebsbereitschaft mittels eines Vertrages über landgestützte Wartung erfolgt. Im Übrigen ist Kapitel 14 des HSC-Code nicht anzuwenden.
+14.3 Es ist eine frei aufschwimmbare Satelliten-Notfunkbake (EPIRB) mit integralem globalen Navigationssatellitensystem (GNSS) in einer Selbstauslösungseinrichtung zu installieren.
+15 Gestaltung des Fahrstandraums
+15.1 Mit Ausnahme der Regel 15.7.1 ist Kapitel 15 des HSC-Code nicht anzuwenden.
+15.2 Der Fahrstand muss so gestaltet sein, dass eine freie Sicht nach vorne bis 1 Strich achterlicher als querab sichergestellt ist. Die für den Betrieb relevanten Anzeige- und Bedienelemente müssen vom Steuerstand gut einsehbar und bedienbar sein.
+16 Stabilisierungsanlagen
+  Kapitel 16 des HSC-Code ist nicht anzuwenden.
+17 Handhabung, Beherrschbarkeit und Leistungsanforderungen
+  Kapitel 17 des HSC-Code ist nicht anzuwenden.
+18 Betriebsvorschriften
+18.1 Mit Ausnahme der Regel 18.2.5.1 ist Kapitel 18 des HSC-Code nicht anzuwenden.
+18.2 Anstelle der Regel 18.5 des HSC-Code gilt:
+18.2.1 Allgemeine Notfallanweisungen
+  Notfallanweisungen in deutscher und englischer Sprache müssen in den für Fahrgäste zugänglichen Bereichen angezeigt werden. Die Notfallanweisungen beinhalten einen Fluchtwegeplan sowie Illustrationen über das Anlegen der Rettungswesten.
+18.2.2 Notfallübungen an Bord
+  Notfallübungen sollen regelmäßig durchgeführt werden. Das Notfallszenario soll dabei variieren, um auf unterschiedliche Notfälle vorzubereiten. Die Notfallübungen müssen zudem im Schiffstagebuch dokumentiert werden.
+18.2.3 Evakuierungsübungen mit externer Hilfe
+  Evakuierungsübungen sollen für jede Art der externen Rettung, die für das Schiff vorgesehen ist, halbjährlich durchgeführt werden. Die Evakuierungsübung muss mit einer ausreichenden Zahl an Fahrgästen durchgeführt werden. Die Evakuierungsübungen müssen im Schiffstagebuch dokumentiert werden.
+19 Anforderungen an Besichtigung und Wartung
+  Kapitel 19 des HSC-Code ist nicht anzuwenden.
+Kapitel 3
+Börteboote
+1 Anwendung
+  Dieses Kapitel gilt für neue und vorhandene Börteboote, soweit nicht nachfolgend etwas anderes geregelt ist.
+2 Bauart und Bauweise
+2.1 Börteboote sind als offene Fahrzeuge auszuführen, die im Bereich unterhalb der Wasserlinie in Karweel und oberhalb der Wasserlinie in Klinker beplankt sind. Die Klinker des Überwasserschiffs sollen in der Regel aus vier Plankengängen bestehen. Die Planken sollen eine Breite von 20 bis 30 cm aufweisen. Die Stärke der Planken soll nicht weniger als 24 mm betragen.
+2.2 Als Bauwerkstoff sind die Holzarten Eiche, Kambala oder andere gleichwertige Holzarten zulässig.
+2.3 Der Abstand der Spanten soll nicht mehr als 50 cm betragen.
+2.4 Es sollen mindestens drei Querduchten als Aussteifungen in Querrichtung des Börtebootes vorhanden sein. Entlang der Dollborde sind Längsduchten vorzusehen, die sowohl zur Quer- als auch zur Längsfestigkeit des Börtebootes beitragen müssen. Die Breite der Längsduchten muss ausreichende Sitzflächen für die Fahrgäste bieten und beim Ein- und Ausbooten ausreichende Trittsicherheit für ein- und aussteigende Personen gewährleisten.
+2.5 Bei neuen Schiffen ist unter der vorderen Querducht ein Kollisionsschott vorzusehen.
+2.6 Außenhautdurchbrüche müssen auf das technisch Notwendige begrenzt werden. Für jede Lenzpumpe, den Kühlwasser-Ein- und -Austritt sowie die Abgasleitung des Motors sind Außenhautarmaturen aus zähen metallischen Werkstoffen vorzusehen. Die Außenhautdurchbrüche müssen nach dem Stand der Technik ausgelegt und ausreichend abgedichtet und konserviert werden.
+2.7 Es ist eine angemessene Anzahl von ausreichend starken Klampen, mindestens jedoch vier Klampen pro Boot zum sicheren Festmachen des Börtebootes sowie zum Belegen der Ankerkleine vorzusehen. Für das Festmachen am Fahrgastschiff auf Reede ist im Bugbereich des Börtebootes ein Haken vorzusehen, der so am Vorsteven gehaltert und befestigt ist, dass die auftretenden statischen und dynamischen Lasten der Vorleine des voll besetzten Börtebootes gefahrlos in den Bootskörper eingeleitet werden.
+2.8 Die Bughöhe muss so ausgelegt sein, dass dem Schiffsführer sowohl eine ausreichende Voraussicht und gleichzeitig auch ausreichend Schutz vor überkommendem Wasser gewährleistet wird.
+2.9 Der Auftrieb muss abhängig von der Größe des Börtebootes für die Anzahl von Personen, die es transportieren soll, ausreichend sein.
+3 Ruderanlage, Manövrierfähigkeit
+3.1 Als Ruderanlage ist ein angehängtes Ruder, bestehend aus Pinne, Ruderblatt und Ruderbeschlägen vorzusehen.
+3.2 Die Dimensionierung der Ruderanlage muss dem Boot eine für den geplanten Einsatz ausreichende Manövrierfähigkeit gewährleisten.
+4 Maschinenanlage
+4.1 Börteboote müssen über einen Antriebsmotor verfügen, der über Getriebe, Drucklager und Welle auf den Propeller wirkt. Bei Börtebooten mit Elektroantrieb kann das Getriebe entfallen.
+4.2 Ist der Antriebsmotor ein Dieselmotor, so ist für eine ausreichende Tankkapazität für den geplanten Einsatz auch bei widrigen Umweltbedingungen auszulegen. Es muss mindestens eine Betriebsdauer von fünf Stunden gewährleistet sein. Dabei ist von einem Verbrauch von mindestens 10 l/h für einen Motor mit 50 kW Leistung auszugehen. Bei stärkerer Motorenleistung ist der Mehrverbrauch entsprechend zu berücksichtigen. Die Tanks sind gegen Auslaufen zu schützen und müssen in Bereichen gehaltert werden, die gegen Kraftstoffaustritt nach außenbords abgedichtet sind. Kraftstoffzufuhr, Abgasleitung sowie Kühlwasserversorgung sind so zu installieren und auszulegen, dass ein sicherer Betrieb auch unter widrigen Bedingungen aufrechterhalten werden kann und die anerkannten Regeln der Technik im Bootsbau eingehalten werden. Sie sind vor Kontakt zu schützen.
+4.3 Die Abgasanlage soll grundsätzlich als Nass-Ausgasanlage ausgeführt sein.
+4.4 Ist der Antriebsmotor ein elektrischer Motor, so ist dessen Energieversorgung so auszulegen, dass eine ausreichende Kapazität für den geplanten Einsatz auch bei widrigen Umweltbedingungen vorhanden ist. Es muss eine Mindestreichweite von sechs Seemeilen unter Regelgeschwindigkeit auch bei widrigen Umweltbedingungen gewährleistet werden. Die Akkumulatoren sind in vor eindringendem Wasser geschützten Bereichen fest zu installieren. Anschlüsse und Schalter sind wassergeschützt auszuführen und gegen versehentliches Beschädigen und Berühren zu schützen.
+4.5 Die Leistung des Antriebsmotors soll auch bei widrigen Umweltbedingungen Rumpfgeschwindigkeit ermöglichen.
+4.6 Auf neuen Schiffen sind Füllstandsanzeigen für die Kraftstofftanks oder Kapazitätsanzeigen für die Akkumulatoren vorzusehen.
+4.7 Die Antriebswelle ist aus hochfestem Stahl auszuführen. Als Schmierung ist eine Wasser- oder Fettschmierung vorzusehen.
+5 Lenzeinrichtungen
+5.1 Es sind mindestens zwei kraftbetriebene Bilgenpumpen zu installieren. Diese müssen jeweils durch einen Schwimmerschalter aktiviert werden können. Die Förderleistung jeder Pumpe muss mindestens 2,0 m³/Std. betragen. Die Energieversorgung der elektrischen Bilgenpumpen muss so ausgelegt sein, dass ein paralleler Betrieb der Pumpen für mindestens zwei Stunden gewährleistet ist. Die Anschlüsse und Schalter sind wassergeschützt auszuführen.
+5.2 Eine der beiden kraftbetriebenen Pumpen kann durch eine manuelle Handlenzpumpe mit gleicher Förderleistung wie die die elektrische Lenzpumpe ersetzt werden.
+6 Elektrische Anlagen
+6.1 Die elektrische Versorgung eines Börtebootes muss ausreichend gegen Überlastung abgesichert sein. Das Boot ist mit einer Erdungsplatte zu erden.
+6.2 Die stromführenden Leitungen sowie Bauteile müssen so verlegt sein, dass sie nicht durch die Besatzung oder Fahrgäste beschädigt werden können. Sie müssen so installiert werden, dass sie vor Umwelteinflüssen geschützt sind und sollten grundsätzlich nicht in der Bilge verlegt sein.
+7 Ausrüstung
+7.1 Folgende Mindestausrüstung muss an Bord vorhanden sein:
+7.1.1 Sprechfunk:
+  ein tragbares UKW-Sprechfunkgerät mit einer Sende- und Empfangseinheit für Überlebensfahrzeuge mit Reservebatterie für Notfälle, die über ein nicht ersetzbares Siegel verfügt.
+7.1.2 Navigation:
+  a) ein fest mit dem Börteboot verbundener Magnet-Steuerkompass der Klasse IV für Rettungsboote, sowie
+  b) ein Mundhorn oder ein Schallsignal mit Druckluftbehälter, die nicht nach der Schiffsausrüstungsverordnung zugelassen sein müssen.
+7.1.3 Rettungsmittel:
+  a) ein Rettungsring mit 30 m schwimmfähiger Leine und Nachtrettungslicht, sowie
+  b) Feststoff-Rettungswesten für jede an Bord befindliche Person.
+7.1.4 Zubehör:
+  a) Nach den allgemein anerkannten Regeln der Technik ein Anker von ausreichender Größe und Haltekraft sowie passender Leine oder Kette,
+  b) vier Festmacherleinen in nach den allgemein anerkannten Regeln der Technik ausreichender Stärke und Qualität, um die sichere Durchführung sämtlicher dem normalen Schiffsbetrieb zuzuordnender Schlepp- und Festmacharbeiten zu ermöglichen,
+  c) vier Fender, sowie
+  d) zwei Bootshaken.
+7.2 Anstelle der Ausrüstung mit Feststoffrettungswesten für jeden Fahrgast können die Duchten mit Auftriebskörpern versehen und frei aufschwimmend gelagert werden. Der Auftrieb der Duchten ist zu dokumentieren. Die Anzahl der als Schwimmkörper dienenden Duchten sowie deren gesamter Auftrieb muss ausreichend für die maximale Anzahl der an Bord befindlichen Personen ausgelegt und nachgewiesen werden.
+7.3 Die alternative Ausrüstung nach Regel 7.2 setzt voraus, dass die Längsfestigkeit des Börtebootes durch andere Schiffsverbände gewährleistet wird und bedarf der Genehmigung durch die Berufsgenossenschaft.
+8 Brandschutz
+  Auf jedem Börteboot ist ein 6 kg-ABC-Pulverfeuerlöscher vorzuhalten.
+9 Wartung und Instandhaltung
+9.1 Der Zustand des Börtebootes und seiner Ausrüstung muss so erhalten werden, dass er den Bestimmungen dieser Verordnung entspricht. Es muss sichergestellt sein, dass das Börteboot in jeder Hinsicht stets ohne Gefahr für das Börteboot und die an Bord befindlichen Personen eingesetzt werden kann.
+9.2 Die Erprobung und Wartung der nachfolgenden Anlagen und Ausrüstungsgegenstände ist in geeigneter Form aufzuzeichnen und zu belegen.
+9.2.1 Die Ruderanlage ist in regelmäßigen Abständen auf ihren Zustand hin zu kontrollieren.
+9.2.2 Seeventile, Schraubenwellendurchführungen und Lenzeinrichtungen müssen regelmäßig überprüft werden.
+9.2.3 Hauptmaschinen, Lenzpumpen und Feuerlöscher sind nach Herstellerangaben zu warten und zu überholen
 Teil 2
 Sicherheitsanforderungen für Binnenschiffe,
 die in dem Bereich nach § 9 Absatz 5 verkehren
@@ -294,6 +498,9 @@ Allgemeine Bestimmungen
 13.3 Traditionsschiffe, die nach dem 14. März 2018 erstmalig einen Erneuerungsantrag stellen, müssen die Anforderungen der Kapitel 2 bis 11 hinsichtlich
   a) der Ausrüstung und des Betriebssicherheitssystems innerhalb eines Jahres und
   b) hinsichtlich der baulichen Anforderungen bis zur nächsten Zwischenbesichtigung
+  erfüllen. Abweichend von Satz 1 müssen Traditionsschiffe, für die bis zum Ablauf des 31. Dezember 2024 erstmalig ein Erneuerungsantrag gestellt wird, die Anforderungen der Kapitel 2 bis 11 hinsichtlich
+  a) der Ausrüstung und des Betriebssicherheitssystems innerhalb von drei Jahren und
+  b) hinsichtlich der baulichen Anforderungen bis zur nächsten Erneuerungsbesichtigung
   erfüllen.
 13.4 Die Anforderungen nach Kapitel 3 Regel 13.1 sind spätestens fünf Jahre nach dem 14. März 2018 zu erfüllen, soweit sie die Ausrüstung mit Pressluftatmern betreffen.
 13.5 Die Anforderungen nach Regel 12.5, 12.6 und Kapitel 11 Regel 3 sind spätestens fünf Jahre nach dem 14. März 2018 zu erfüllen.
@@ -991,399 +1198,388 @@ Teil 6
 Sicherheitsanforderungen an Frachtschiffe
 Kapitel 1
 Allgemeine Bestimmungen
-1. Anwendungsbereich
+1 Anwendungsbereich
 1.1 Dieser Teil gilt für:
   1. Frachtschiffe in der Inlandfahrt, unabhängig von der Bruttoraumzahl;
-  2. Frachtschiffe in der Auslandfahrt, soweit das SOLAS-Übereinkommen keine Anwendung findet.
+  2. Frachtschiffe in der Auslandfahrt, soweit das SOLAS-Übereinkommen nicht anzuwenden ist.
 1.2 Dieser Teil gilt nicht für
-  1. Schiffe der Bundesmarine und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
-  2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
+  1. Schiffe der Bundeswehr und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
+  2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 21.September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
   3. Fischereifahrzeuge;
   4. Sportboote im Sinne der See-Sportbootverordnung;
-  5. Kleinfahrzeuge, die nicht gewerbsmäßig und ausschließlich für Sport- oder Erholungszwecke verwendet werden;
-  6. Traditionsschiffe, die Teil 3 unterliegen;
-  7. Arbeitsboote bis zu einer Länge von 8 m.
-2. Begriffsbestimmungen
+  5. Kleinfahrzeuge, die nicht gewerbsmäßig und für Sport- und Freizeitzwecke verwendet werden. Das Erfordernis nach § 15 Absatz 3 Satz 2 der Verordnung über Sportboote und Wassermotorräder und § 1 der See-Sportbootverordnung bleiben unberührt;
+  6. Kleinfahrzeuge im Einsatz zu ideellen Zwecken, es sei denn ein Antrag nach § 9 Absatz 3 Satz 1 Nummer 2 wird gestellt;
+  7. Traditionsschiffe, die Teil 3 unterliegen;
+  8. Frachtschiffe mit einer Länge unter 3,60 m;
+  9. die in Artikel 2 Absatz 2 Buchstabe a Ziffer i bis iv der Richtlinie 2013/53/EU genannten Wasserfahrzeuge;
+  10. Sportausbildungsfahrzeuge mit einer Rumpflänge unter 8 m.
+  Für Kleinfahrzeuge im Sinne des Satzes 1 Nummer 6, für die kein Antrag nach § 9 Absatz 3 Satz 1 Nummer 2 gestellt wird, bescheinigt die Berufsgenossenschaft auf Antrag, dass diese von der Zeugnispflicht ausgenommen sind. Das Bundesministerium für Digitales und Verkehr oder in seinem Auftrag die Berufsgenossenschaft veröffentlicht für Kleinfahrzeuge im Sinne des Satzes 1 Nummer 6 Sicherheitsempfehlungen im Verkehrsblatt.
+2 Begriffsbestimmungen
 2.1 Im Sinne dieses Teils ist
   1. Frachtschiff: ein Schiff, das kein Fahrgastschiff ist;
-  2. Kleinfahrzeug: ein Frachtschiff bis zu einer Bruttoraumzahl von 100;
-  3. Sonderfahrzeug: ein Frachtschiff mit einer Bruttoraumzahl über 100 für einen besonderen Einsatzzweck, unterteilt in
+  2. Fahrgastschiff: Ein Schiff, das mehr als 12 Fahrgäste befördert oder das für die Beförderung von mehr als 12 Fahrgästen zugelassen ist;
+  3. Fahrgast: jede Person mit Ausnahme
+    a) des Kapitäns und der Mitglieder der Schiffsbesatzung oder anderer Personen, die in irgendeiner Eigenschaft an Bord des Schiffes für dessen Belange angestellt, beschäftigt oder sonst tätig sind, und
+    b) von Kindern unter einem Jahr;
+  4. Kleinfahrzeug: ein Frachtschiff mit einer Länge unter 24 m;
+  5. Sonderfahrzeug: ein Frachtschiff, einschließlich eines Kleinfahrzeuges, für einen besonderen Einsatzzweck, unterteilt in
     a) Schlepper: ein Frachtschiff, das zum Ziehen und Schieben von Wasserfahrzeugen, schwimmenden Arbeitsgeräten und anderen schwimmenden Objekten gebaut und bestimmt ist;
-    b) Behördenfahrzeug: ein Frachtschiff, das zu hoheitlichen Zwecken eingesetzt ist und nicht Handelszwecken dient, insbesondere ein Dienstschiff im Sinne des § 3 Buchstabe c des Flaggenrechtsgesetzes;
+    b) Behördenfahrzeug: ein Frachtschiff im Sinne des § 3 Buchstabe c des Flaggenrechtsgesetzes oder das zur Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines Landes oder einer Gemeinde oder eines Gemeindeverbandes eingesetzt ist und nicht Handelszwecken dient;
     c) Wasserfahrzeug ohne eigenen Antrieb: ein Frachtschiff, das gebaut ist, um von anderen Fahrzeugen gezogen oder geschoben zu werden, insbesondere Schuten oder Pontons;
     d) Schwimmendes Arbeitsgerät: ein Frachtschiff, das so gebaut ist, dass es nur ein bestimmtes Arbeitsgerät aufnehmen kann und keine anderweitige Lademöglichkeit aufweist, insbesondere Bagger, Schwimmkrane, Rammen, Hebefahrzeuge, Bohr- und Hubinseln und Produktionsplattformen;
     e) Errichterschiff: ein Frachtschiff, das zum Transport und zur Errichtung von Bauwerken auf See gebaut und bestimmt ist;
-  4. Spezialschiff: ein Frachtschiff mit mechanischem Antrieb, das aufgrund seiner Funktion mehr als zwölf Personen Spezialpersonal im Sinne des SPS-Codes befördert;
-  5. Offshore-Versorger: ein Frachtschiff, das hauptsächlich für die Beförderung von Vorräten, Material und Ausrüstung zu meerestechnischen Einrichtungen (Offshore-Anlagen) eingesetzt wird und das so entworfen ist, dass sich der Aufbau mit den Unterkünften und der Brücke im vorderen Bereich des Schiffes und ein dem Wetter ausgesetztes Ladedeck für die Handhabung oder Behandlung von Ladung auf See im hinteren Teil befinden;
-  6. Offshore-Servicefahrzeug: ein Frachtschiff oder ein Hochgeschwindigkeitsfahrzeug, das dazu eingesetzt wird, Offshore-Servicepersonal zu befördern, das nicht an Bord arbeitet, wobei die Zahl der Personen an Bord einschließlich der Besatzung nicht mehr als 60 und die Zahl der Fahrgäste, die nicht Offshore-Servicepersonal sind, nicht mehr als zwölf betragen darf;
-  7. Offshore-Servicepersonal: Personen, die bei Errichtung, Betrieb und Wartung von Offshore-Windparks und anderer Offshore-Bauwerke tätig sind;
-  8. Sicherheitsschulung: eine Schulung in Bezug auf Sicherheitsverfahren, die Bedienung der persönlichen Schutzausrüstung und der Schutzausrüstung eines Schiffes auf der Grundlage der Entschließung A.891(21) (VkBl. 2000 S. 129) der IMO-Vollversammlung;
-  9. Seediensttauglichkeit: die medizinische Tauglichkeit für den Decksdienst nach Maßgabe der Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen vom 14. August 2014 (BGBl. I S. 1383) in der jeweils geltenden Fassung;
-  10. Hochgeschwindigkeitsfahrzeug: ein Fahrzeug, das eine Höchstgeschwindigkeit in m pro Sekunde (m/s) erreicht, die gleich oder größer ist als:
-    3,7 ∇⁰,¹⁶⁶⁷
-    hierbei ist:
-    ∇ = Volumen der Verdrängung entsprechend der Konstruktionswasserlinie (m³) mit Ausnahme von Fahrzeugen, deren Rumpf im Nicht-Verdrängerzustand durch aerodynamische Kräfte, die durch den Bodeneffekt erzeugt werden, vollständig über der Wasseroberfläche gehalten werden;
-  11. Bewegliche Offshore-Bohrplattform (MODU): ein Fahrzeug, das für Bohrtätigkeiten zur Erforschung oder zum Abbau von Bodenschätzen unterhalb des Meeresbodens, wie z. B. flüssige oder gasförmige Kohlenwasserstoffe, Schwefel oder Salz geeignet ist;
-  12. Arbeitsboot: ein offenes oder teilgedecktes Fahrzeug zum Transport-, Rettungs-, Berge- und Arbeitseinsatz und ähnlichen Einsatzzwecken in begrenztem Umfang und auf kurzen Strecken in Küstennähe oder als Beiboot zum Einsatz in Sichtweite des Mutterschiffs;
-  13. Küstennähe: eine Entfernung von nicht mehr als 5 Seemeilen bei mittlerem Hochwasser von der Küstenlinie;
+  6. Spezialschiff: ein Frachtschiff mit mechanischem Antrieb, das aufgrund seiner Funktion mehr als zwölf Personen Spezialpersonal im Sinne des SPS-Codes befördert;
+  7. Offshore-Versorger: ein Frachtschiff, das hauptsächlich für die Beförderung von Vorräten, Material und Ausrüstung zu meerestechnischen Einrichtungen (Offshore-Anlagen) eingesetzt wird und das so entworfen ist, dass sich der Aufbau mit den Unterkünften und der Brücke im vorderen Bereich des Schiffes und ein dem Wetter ausgesetztes Ladedeck für die Handhabung oder Behandlung von Ladung auf See im hinteren Teil befinden;
+  8. Offshore-Servicefahrzeug: ein Frachtschiff oder ein Hochgeschwindigkeitsfahrzeug, das dazu eingesetzt wird, Offshore-Servicepersonal zu befördern, das nicht an Bord arbeitet, wobei die Zahl der Personen an Bord einschließlich der Besatzung nicht mehr als 60 und die Zahl der Fahrgäste, die nicht Offshore-Servicepersonal sind, nicht mehr als zwölf betragen darf;
+  9. Offshore-Servicepersonal: Personen, die zum Zweck von Offshore-Servicetätigkeiten, die an Bord anderer Schiffe oder Offshore-Einrichtungen ausgeübt werden, an Bord befördert oder untergebracht werden;
+  10. Sicherheitsschulung: eine Schulung in Bezug auf Sicherheitsverfahren, die Bedienung der persönlichen Schutzausrüstung und der Schutzausrüstung eines Schiffes auf der Grundlage der vom Schiffssicherheitsausschuss der IMO mit der Entschließung MSC.418(97) angenommenen vorläufigen Empfehlungen für die sichere Beförderung von mehr als 12 Personen Offshore-Servicepersonal an Bord von Schiffen in der internationalen Fahrt, angenommen am 16. Februar 2017 (VkBl. 2017 S. 208);
+  11. Seediensttauglichkeit: die medizinische Tauglichkeit für den Dienst an Bord von Schiffen im Sinne des § 11 des Seearbeitsgesetzes;
+  12. Hochgeschwindigkeitsfahrzeug: ein Fahrzeug, das eine Höchstgeschwindigkeit in m pro Sekunde (m/s) erreicht, die gleich oder größer ist als:
+    3,7 ∇⁰,¹⁶⁶⁷.
+    Hierbei ist:
+    ∇ = Volumen der Verdrängung entsprechend der Konstruktionswasserlinie (m³) mit Ausnahme von Fahrzeugen, deren Rumpf im Nicht-Verdrängerzustand durch aerodynamische Kräfte, die durch den Bodeneffekt erzeugt werden, vollständig über der Wasseroberfläche gehalten werden
+  13. Bewegliche Offshore-Bohrplattform (MODU): ein Fahrzeug, das für Bohrtätigkeiten zur Erforschung oder zum Abbau von Bodenschätzen unterhalb des Meeresbodens, wie z. B. flüssige oder gasförmige Kohlenwasserstoffe, Schwefel oder Salz geeignet ist;
   14. Inlandfahrt: eine Fahrt in Seegebieten von einem deutschen Hafen zu demselben oder einem anderen deutschen Hafen;
   15. Auslandfahrt: die Fahrt von einem deutschen Hafen zu einem Hafen außerhalb Deutschlands oder umgekehrt;
-  16. Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand,
+  16. gewerbsmäßig: die öffentlich einem unbestimmten Personenkreis mit einer gewissen Regelmäßigkeit angebotene Beförderung von Personen oder Ladung gegen Entgelt oder die Erbringung von Dienstleistungen gegen Entgelt, eine Gewinnerzielungsabsicht ist nicht erforderlich;
+  17. Sport- und Freizeitzwecke: der nicht gewerbsmäßige Einsatz eines Fahrzeugs zu wassersportlichen Aktivitäten, zur Fortbewegung, zur Erholung oder zum Vergnügen an Bord; Sport und Freizeitzwecke liegen nicht vor bei kommunikativen, kulturellen, politischen, religiösen, wissenschaftlichen, künstlerischen, wohltätigen und humanitären Aktivitäten oder vergleichbaren ideellen Zwecken;
+  18. Gewerbsmäßige Fahrgastbeförderung: die öffentlich einem unbestimmten Personenkreis mit einer gewissen Regelmäßigkeit angebotene Beförderung von Fahrgästen gegen Entgelt, eine Gewinnerzielungsabsicht ist nicht erforderlich;
+  19. Länge: Die Länge nach Maßgabe des Artikels 2 Absatz 8 des Londoner Schiffsvermessungsübereinkommens;
+  20. Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand,
     a) der den Baubeginn eines bestimmten Schiffes oder Fahrzeugs erkennen lässt, und
     b) in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
-  17. Vorhandenes Schiff: ein Schiff, das kein neues Schiff ist;
-  18. SOLAS-Übereinkommen: Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See mit Protokollen von 1978 und 1988 (BGBl. 1979 II S. 141; 1980 II S. 525; 1983 II S. 784; 1994 II S. 2458, Anlageband) in der jeweils geltenden Fassung;
-  19. Freibord-Übereinkommen: Internationales Freibord-Übereinkommen von 1966 mit Anlage und Protokoll von 1988 (LL 66, BGBl. 1969 II S. 249; 1977 II S. 164; 1994 II S. 2457, Anlageband) in der jeweils geltenden Fassung;
-  20. SPS-Code: Code über die Sicherheit von Spezialschiffen
-    a) für Schiffe, die vor dem 1. Januar 2009 gebaut oder als Spezialschiffe zugelassen worden sind: Code über die Sicherheit von Spezialschiffen (Entschl. A.534(13)), angenommen am 17. November 1983 (VkBl. 1993 S. 671), in der jeweils geltenden Fassung;
-    b) für Schiffe, die am oder nach dem 1. Januar 2009 gebaut oder als Spezialschiffe zugelassen worden sind: Code über die Sicherheit von Spezialschiffen (Entschl. MSC.266(84)), angenommen am 13. Mai 2008 (VkBl. 2009 S. 84), in der jeweils geltenden Fassung;
-  21. MODU-Code: Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen
-    a) für Plattformen, deren Kiellegung vor dem 1. Januar 2012 erfolgt ist und die sich am 1. Januar 2012 nicht in einem entsprechenden Bauzustand befinden: Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen (MODU-Code 89, Entschl. A.649(16), BAnz. 1997 Nr. 121a) angenommen am 19. Oktober 1989, in der jeweils geltenden Fassung;
-    b) für Plattformen, deren Kiellegung am oder nach dem 1. Januar 2012 erfolgt oder die sich zu diesem Zeitpunkt in einem entsprechenden Bauzustand befinden: Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen (MODU-Code 2009, Entschl. A.1023(26)), angenommen am 2. Dezember 2009 (VkBl. 2011 S. 747, Sonderdruck B 8150), in der jeweils geltenden Fassung;
-  22. HSC-Code: Internationaler Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen
-    a) für Schiffe, die vor dem 1. Januar 2002 gebaut worden sind: Internationaler Code für Hochgeschwindigkeitsfahrzeuge (HSC-Code 1994, Entschl. MSC.36(63)), angenommen am 20. Mai 1994 (BAnz. Nr. 21a vom 31. Januar 1996), in der jeweils geltenden Fassung;
-    b) für Schiffe, die am oder nach dem 1. Januar 2002 gebaut worden sind: Internationaler Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen (HSC-Code 2000, Entschl. MSC.97(73)), angenommen am 5. Dezember 2000 (VkBl. 2002 S. 449), in der jeweils geltenden Fassung;
-  23. Code über Intaktstabilität: Die Entschließung MSC.267(85) über den Internationalen Code über Intaktstabilität von 2008 (VkBl. 2009 S. 724) in der jeweils geltenden Fassung;
-  24. OSV-Richtlinie: Richtlinie von 2006 für den Entwurf und den Bau von Offshore-Versorgern (MSC.235(82)), angenommen am 1. Dezember 2006 (VkBl. 2010 S. 451), in der jeweils geltenden Fassung;
-  25. Richtlinie 2009/15/EG: Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.5.2009, S. 47) in der jeweils geltenden Fassung;
-  26. Verordnung (EG) Nr. 391/2009: Verordnung (EG) Nr. 391/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen (ABl. L 131 vom 28.5.2009, S. 11) in der jeweils geltenden Fassung;
-  27. Richtlinie 2014/90/EU: Richtlinie 2014/90/EU des Europäischen Parlaments und des Rates vom 23. Juli 2014 über Schiffsausrüstung und zur Aufhebung der Richtlinie 96/98/EG des Rates (Schiffsausrüstungsrichtlinie) (ABl. L 257 vom 28.8.2014, S. 146) in der jeweils geltenden Fassung;
-  28. Berufsgenossenschaft: Die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation;
-  29. Anerkannte Organisation: Eine nach der Verordnung (EG) Nr. 391/2009 anerkannte Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne des Artikels 5 Absatz 2 der Richtlinie 2009/15/EG begründet worden ist;
-  30. RO-Code: Code für anerkannte Organisationen im Sinne des SOLAS-Übereinkommens Kapitel XI-1, Regel 1 (MSC.349(92) und MEPC.237(65)), angenommen am 17. Mai 2013 (VkBl. 2014 S. 942), in der jeweils geltenden Fassung;
-2.2 Im Übrigen werden die im SOLAS-Übereinkommen festgelegten Begriffsbestimmungen angewendet.
-2.3 DIN-, DIN EN- und DIN EN ISO-Normen, auf die in diesem Teil verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin und Köln, erschienen.
-3. Sicherheitsanforderungen
-3.1 Neue und vorhandene Frachtschiffe müssen den Anforderungen des Kapitels 2 dieses Teils entsprechen, sofern nicht nachfolgend etwas anderes geregelt ist.
-3.2 Für neue und vorhandene Kleinfahrzeuge gelten die Anforderungen des Kapitels 2 nur, wenn nicht in Kapitel 3 etwas Abweichendes geregelt ist.
-3.3 Für neue und vorhandene Sonderfahrzeuge sind ergänzend die Vorschriften des Kapitels 4 anzuwenden.
-3.4 Für neue und vorhandene Arbeitsboote gelten die Vorschriften des Kapitels 5.
-3.5 Für Errichterschiffe kann die Berufsgenossenschaft ergänzend die Vorschriften des SPS-Codes und des MODU-Codes heranziehen, soweit dies erforderlich ist, um den besonderen Anforderungen dieser Schiffe Rechnung zu tragen. Die Berufsgenossenschaft bestimmt im Einzelfall, welche Bestimmungen angewendet werden.
-3.6 Für Spezialschiffe und für Offshore-Servicefahrzeuge, die keine Hochgeschwindigkeitsfahrzeuge sind, kann die Berufsgenossenschaft anstelle der Bestimmungen dieses Teils die Vorschriften des SPS-Codes heranziehen, soweit dies erforderlich ist, um den besonderen Anforderungen dieser Schiffe Rechnung zu tragen. Die Berufsgenossenschaft bestimmt im Einzelfall, welche Bestimmungen angewendet werden.
-3.7 Für Offshore-Servicefahrzeuge, die nach ihrer Bauart Hochgeschwindigkeitsfahrzeuge sind, gelten die Anforderungen des Kapitels 6.
-3.8 Für Offshore-Versorger sind die Bestimmungen der OSV-Richtlinie anzuwenden. Soweit nach der OSV-Richtlinie die Anforderungen der Berufsgenossenschaft einzuhalten sind, gelten die Vorschriften des Kapitels 2.
-3.9 Für Hochgeschwindigkeitsfahrzeuge gelten die Anforderungen des HSC-Codes, soweit nicht Regel 3.7 Anwendung findet.
-3.10 Für bewegliche Offshore-Bohrplattformen gelten die Anforderungen des MODU-Codes.
-4. Besichtigung und Zeugniserteilung
-4.1 Frachtschiffe sind nach Kapitel I Regel 8 bis 10 des SOLAS-Übereinkommens zu besichtigen. Für die Besichtigung von Hochgeschwindigkeitsfahrzeugen gilt Regel 1.5 des HSC-Codes. Bewegliche Offshore-Bohrplattformen unterliegen den Besichtigungen nach Regel 1.6 des MODU-Codes.
-4.2 Arbeitsboote, mit Ausnahme von Beibooten, unterliegen
-  a) einer erstmaligen Besichtigung vor Indienststellung,
-  b) einer Zwischenbesichtigung zwischen dem zweiten und dritten Jahr vor dem Ablaufdatum des Sicherheitszeugnisses, wenn das Zeugnis für einen Zeitraum von mehr als drei Jahren ausgestellt ist, und
-  c) einer Erneuerungsbesichtigung innerhalb von drei Monaten vor dem Ablaufdatum der Gültigkeit des Sicherheitszeugnisses.
-4.3 Beiboote und deren Aussetzvorrichtungen sind nach Kapitel III Regel 20 des SOLAS-Übereinkommens zu prüfen.
+  21. Vorhandenes Schiff: ein Schiff, das kein neues Schiff ist;
+  22. Berufsgenossenschaft: Die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation;
+  23. Anerkannte Organisation: Eine nach der Verordnung (EG) Nr. 391/2009 anerkannte Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne des Artikels 5 Absatz 2 der Richtlinie 2009/15/EG begründet worden ist;
+  24. Benannte Stelle: eine nach einem staatlichen Benennungsverfahren berechtigte Stelle, die aufgrund der produktspezifisch geltenden europäischen Richtlinien (EU-Richtlinien) in das Konformitätsbewertungsverfahren zur CE-Kennzeichnung eingebunden werden muss;
+  25. Gedecktes Schiff: Ein Fahrzeug mit einem durchgehenden wasserdichten Wetterdeck, das bei allen Beladungszuständen oberhalb der Wasserlinie liegt und mit Aufbau und Deckhaus versehen sein kann;
+  26. Teilgedecktes Schiff: Ein Fahrzeug mit einem nicht durchgehenden wasserdichten Wetterdeck, das bei allen Beladungszuständen oberhalb der Wasserlinie liegt; auf dem Wetterdeck können Aufbauten oder Deckshäuser angeordnet sein;
+  27. Offenes Schiff: Ein Schiff, das kein gedecktes oder teilgedecktes Fahrzeug ist;
+  28. Beiboot: Ein Wasserfahrzeug, das vom Mutterschiff mitgeführt wird und nur im Einsatzfall zum Verrichten von Arbeiten in unmittelbarer Nähe des Mutterschiffs mit eigenem Antrieb fortbewegt wird.
+  29. Sportausbildungsfahrzeug: Ein Kleinfahrzeug, das für die Ausbildung zum Führen von Sportbooten auf Grundlage eines schriftlichen Lehrprogramms eingesetzt wird, insbesondere zum Erwerb des Sportbootführerscheins nach der Sportbootführerscheinverordnung oder eines Befähigungsnachweises nach der Sportseeschifferscheinverordnung.
+  30. Rumpflänge: Rumpflänge LH nach DIN EN ISO 8666:2021-04.
+2.2 Soweit dieser Teil auf bestimmte Vorschriften verweist, bedeutet
+  1. SOLAS-Übereinkommen: Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See mit Protokollen von 1978 und 1988 (BGBl. 1979 II S. 141; 1980 II S. 525; 1983 II S. 784; 1994 II S. 2458, Anlageband zum BGBl. II Nr. 44 vom 27. September 1994 S. 43) in der jeweils geltenden Fassung;
+  2. Freibord-Übereinkommen: Internationales Freibord-Übereinkommen von 1966 mit Anlage und Protokoll von 1988 (LL 66, BGBl. 1969 II S. 249; 1977 II S. 164; 1994 II S. 2457, Anlageband) in der jeweils geltenden Fassung;
+  3. Londoner Schiffsvermessungsübereinkommen: Internationales Schiffsvermessungs-Übereinkommen vom 23. Juni 1969 (BGBl. 1975 II S. 67) in der jeweils geltenden Fassung;
+  4. SPS-Code: Code über die Sicherheit von Spezialschiffen
+    a) für Schiffe, die vor dem 1. Januar 2009 gebaut oder als Spezialschiffe zugelassen worden sind: Code über die Sicherheit von Spezialschiffen (Entschließung A.534(13)), angenommen am 17. November 1983 (VkBl. 1993 S. 671), in der jeweils geltenden Fassung;
+    b) für Schiffe, die am oder nach dem 1. Januar 2009 gebaut oder als Spezialschiffe zugelassen worden sind: Code über die Sicherheit von Spezialschiffen (Entschließung MSC.266(84)), angenommen am 13. Mai 2008 (VkBl. 2009 S. 84), in der jeweils geltenden Fassung;
+  5. MODU-Code: Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen
+    a) für Plattformen, deren Kiellegung vor dem 1. Januar 2012 erfolgt ist und die sich am 1. Januar 2012 nicht in einem entsprechenden Bauzustand befinden: Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen (MODU-Code 89, Entschließung A.649(16), BAnz. 1997 Nr. 121a) angenommen am 19. Oktober 1989, in der jeweils geltenden Fassung;
+    b) für Plattformen, deren Kiellegung am oder nach dem 1. Januar 2012 erfolgt oder die sich zu diesem Zeitpunkt in einem entsprechenden Bauzustand befinden: Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen (MODU-Code 2009, Entschließung 1023(26)), angenommen am 2. Dezember 2009 (VkBl. 2011 S. 747, Sonderdruck B 8150), in der jeweils geltenden Fassung;
+  6. HSC-Code: Internationaler Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen
+    a) für Schiffe, die vor dem 1. Januar 2002 gebaut worden sind: Internationaler Code für Hochgeschwindigkeitsfahrzeuge (HSC-Code 1994, Entschließung MSC.36(63)), angenommen am 20. Mai 1994 (BAnz. Nr. 21a vom 31. Januar 1996), in der jeweils geltenden Fassung;
+    b) für Schiffe, die am oder nach dem 1. Januar 2002 gebaut worden sind: Internationaler Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen (HSC-Code 2000, Entschließung MSC.97(73)), angenommen am 5. Dezember 2000 (VkBl. 2002 S. 449), in der jeweils geltenden Fassung;
+  7. LSA-Code: Internationaler Rettungsmittel-Code (Entschließung MSC.48(66)), angenommen am 4. Juni 1996 (BAnz. Nr. 118a vom 1. Juli 1998), in der jeweils geltenden Fassung;
+  8. Code über Intaktstabilität: Die Entschließung MSC.267(85) über den Internationalen Code über Intaktstabilität von 2008 (VkBl. 2009 S. 724) in der jeweils geltenden Fassung;
+  9. OSV-Richtlinie: Richtlinie von 2006 für den Entwurf und den Bau von Offshore-Versorgern (MSC.235(82)), angenommen am 1. Dezember 2006 (VkBl. 2010 S. 451), in der jeweils geltenden Fassung;
+  10. Richtlinie 2009/15/EG: Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.5.2009, S. 47), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung;
+  11. Verordnung (EG) Nr. 391/2009: Verordnung (EG) Nr. 391/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen (ABl. L 131 vom 28.5.2009, S. 11; L 74 vom 22.3.2010, S. 1), die durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung;
+  12. Richtlinie 2014/90/EU: Richtlinie 2014/90/EU des Europäischen Parlaments und des Rates vom 23. Juli 2014 über Schiffsausrüstung und zur Aufhebung der Richtlinie 96/98/EG des Rates (Schiffsausrüstungsrichtlinie) (ABl. L 257 vom 28.8.2014, S. 146; L 146 vom 11.6.2018, S. 8), die durch die Delegierte Verordnung (EU) 2021/1206 (ABl. L. 261 vom 22.7.2021, S. 45) geändert worden ist, in der jeweils geltenden Fassung;
+  13. Richtlinie 2013/53/EU: Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom 20. November 2013 über Sportboote und Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG (ABl. L 354 vom 28.12.2013, S. 90; L 297 vom 13.11.2015, S. 9);
+  14. RO-Code: Code für anerkannte Organisationen im Sinne des SOLAS-Übereinkommens Kapitel XI-1, Regel 1 (MSC.349(92) und MEPC.237(65)), angenommen am 17. Mai 2013 (VkBl. 2014 S. 942), in der jeweils geltenden Fassung;
+  15. Verordnung über Sportboote und Wassermotorräder: Zehnte Verordnung zum Produktsicherheitsgesetz vom 29. November 2016 (BGBl. I S. 2668), die durch Artikel 24 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist;
+  16. See-Sportbootverordnung: See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457), die zuletzt durch Artikel 3 der Verordnung vom 3. März 2020 (BGBl. I S. 412) geändert worden ist;
+  17. DIN-, DIN EN- und DIN EN ISO Normen: Allgemein geltende nationale oder internationale technische Vorschriften.
+2.3 Im Übrigen werden die im SOLAS-Übereinkommen festgelegten Begriffsbestimmungen angewendet.
+3 Sicherheitsanforderungen
+3.1 Frachtschiffe müssen den Anforderungen des Kapitel 2 dieses Teils entsprechen.
+3.2 Für Kleinfahrzeuge gelten die Anforderungen des Kapitel 2, soweit nicht in Kapitel 3 etwas anderes bestimmt ist.
+3.3 Für Sonderfahrzeuge sind ergänzend die Vorschriften des Kapitel 4 anzuwenden.
+3.4 Für Errichterschiffe kann die Berufsgenossenschaft ergänzend die Vorschriften des SPS-Code und des MODU-Code heranziehen, soweit dies erforderlich ist, um den besonderen Anforderungen dieser Schiffe Rechnung zu tragen. Die Berufsgenossenschaft bestimmt im Einzelfall, welche Bestimmungen angewendet werden.
+3.5 Für Spezialschiffe und für Offshore-Servicefahrzeuge, die keine Hochgeschwindigkeitsfahrzeuge sind, kann die Berufsgenossenschaft anstelle der Bestimmungen dieses Teils die Vorschriften des SPS-Code heranziehen, soweit dies erforderlich ist, um den besonderen Anforderungen dieser Schiffe Rechnung zu tragen. Die Berufsgenossenschaft bestimmt im Einzelfall, welche Bestimmungen angewendet werden.
+3.6 Für Offshore-Servicefahrzeuge, die nach ihrer Bauart Hochgeschwindigkeitsfahrzeuge sind, gelten die Anforderungen des Kapitel 5.
+3.7 Für Offshore-Versorger sind die Bestimmungen der OSV-Richtlinie anzuwenden. Soweit nach der OSV-Richtlinie die Anforderungen der Berufsgenossenschaft einzuhalten sind, gelten die Vorschriften des Kapitel 2.
+3.8 Für Hochgeschwindigkeitsfahrzeuge gelten die Anforderungen des HSC-Code, soweit nicht Regel 3.7 Anwendung findet.
+3.9 Für bewegliche Offshore-Bohrplattformen gelten die Anforderungen des MODU-Code.
+3.10 Beiboote unterliegen nicht den Anforderungen dieses Teils. Für den Einsatz von Beibooten ist der Schiffsführer des Mutterschiffes verantwortlich. Beiboote dürfen nur eingesetzt werden, wenn Beiboot und zugehörige Aussetzvorrichtungen in technisch einwandfreiem Zustand sind und die vom jeweiligen Hersteller vorgegebenen Betriebsparameter eingehalten werden. Die Berufsgenossenschaft kann bei offensichtlichen technischen Mängeln, von denen eine unmittelbare Gefahr für die Sicherheit und den Umweltschutz auf See sowie den damit unmittelbar im Zusammenhang stehenden Arbeitsschutz ausgeht, die Nutzung von Beibooten und den zugehörigen Aussetzvorrichtungen untersagen.
+4 Besichtigung und Zeugniserteilung
+4.1 Frachtschiffe sind nach Kapitel I Regel 8 bis 10 des SOLAS-Übereinkommens zu besichtigen. Für die Besichtigung von Hochgeschwindigkeitsfahrzeugen gilt Regel 1.5 des HSC-Code.
+4.2 Kleinfahrzeuge
+  1. Kleinfahrzeuge unterliegen
+    a) einer erstmaligen Besichtigung vor Indienststellung,
+    b) einer Zwischenbesichtigung zwischen dem zweiten und dritten Jahr vor dem Ablaufdatum des Sicherheitszeugnisses, wenn das Zeugnis für einen Zeitraum von mehr als drei Jahren ausgestellt ist,
+    c) einer Erneuerungsbesichtigung innerhalb von drei Monaten vor dem Ablaufdatum der Gültigkeit des Sicherheitszeugnisses und
+    d) einer jährlichen Besichtigung der Funkausrüstung.
+  2. Für Fahrzeuge mit einer Länge von weniger als 6 m erfolgt die Überprüfung der Funkausrüstung durch die Berufsgenossenschaft im Rahmen der Besichtigungen nach Regel 4.2.1 Buchstabe a bis c.
+  3. Bei Segelfahrzeugen ist die Takelage bei allen Besichtigungen nach Regel 4.2.1 Buchstabe a bis c auf ordnungsgemäßen Zustand und Funktion zu prüfen. Der Teil eines hölzernen, durch das Deck geführten Mastes, der sich unter Deck befindet, ist bei jeder Erneuerungsbesichtigung zu prüfen. Dazu muss der Mast herausgezogen werden. Bei Masten, die zum Zeitpunkt der Erneuerungsbesichtigung nicht älter als zweieinhalb Jahre sind, kann die Berufsgenossenschaft auf das Herausziehen des Mastes verzichten.
+  4. Zur Berücksichtigung besonderer Umstände kann die Berufsgenossenschaft kürzere Fristen und weitere Zwischenprüfungen festlegen. Besondere Umstände sind insbesondere das Alter des Fahrzeuges, das Baumaterial, der Erhaltungs- und Pflegezustand oder Mängel, die einer Überwachung bedürfen.
+4.3 Bei der erstmaligen Besichtigung und einer Erneuerungsbesichtigung ist das Fahrzeug auch auf dem Trockenen zu begutachten.
 4.4 Nach einer Besichtigung dürfen an der Konstruktion, den Einrichtungen, der Maschinenanlage, der Ausrüstung und den sonstigen Gegenständen, auf die sich die Besichtigung erstreckt hat, ohne Genehmigung der Berufsgenossenschaft keine Änderungen vorgenommen werden.
 4.5 Wenn die Besichtigung die Übereinstimmung mit den anwendbaren Vorschriften dieses Teils ergeben hat, erteilt die Berufsgenossenschaft ein Bau- und Ausrüstungs-Sicherheitszeugnis und ein Funk-Sicherheitszeugnis. Kapitel I Regel 12, 14 und 16 des SOLAS-Übereinkommens gelten entsprechend.
-4.6 Für Spezialschiffe und für Offshore-Servicefahrzeuge nach Regel 3.6 erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein Sicherheitszeugnis für Spezialschiffe nach dem Muster der Anlage zum SPS-Code.
+4.6 Für Spezialschiffe und für Offshore-Servicefahrzeuge nach Regel 3.5 erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein Sicherheitszeugnis für Spezialschiffe nach dem Muster der Anlage zum SPS-Code.
 4.7 Für Offshore-Versorger erteilt die Berufsgenossenschaft zusätzlich zu dem Bau- und Ausrüstungs-Sicherheitszeugnis nach Regel 4.5 eine Übereinstimmungsbescheinigung nach dem Muster des Anhangs 2 der OSV-Richtlinie.
-4.8 Für Offshore-Servicefahrzeuge nach Regel 3.7 erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein nationales Sicherheitszeugnis für Hochgeschwindigkeitsfahrzeuge und eine Erlaubnis zum Betrieb von Hochgeschwindigkeitsfahrzeugen.
-4.9 Für Hochgeschwindigkeitsfahrzeuge erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein Sicherheitszeugnis für Hochgeschwindigkeitsfahrzeuge nach Regel 1.8 des HSC-Codes und eine Genehmigung zum Betrieb von Hochgeschwindigkeitsfahrzeugen nach Regel 1.9 des HSC-Codes.
-4.10 Für bewegliche Offshore-Bohrplattformen erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein Sicherheitszeugnis für bewegliche Offshore-Bohrplattformen nach Regel 1.6 des MODU-Codes.
-4.11 Beiboote erhalten kein Sicherheitszeugnis.
-4.12 Besichtigungs- und Zeugnispflichten aus anderen Rechtsvorschriften bleiben unberührt.
-5. Nebenbestimmungen
-5.1 Abhängig von der nachgewiesenen baulichen Beschaffenheit und der vorhandenen Ausrüstung kann die Berufsgenossenschaft den Fahrtbereich einschränken oder Auflagen erteilen, soweit dies zur Wahrung der Sicherheit des Schiffes erforderlich ist.
-5.2 Zeugnisse und Bescheinigungen, die bis zum 30. September 2015 auf Grundlage der Schiffssicherheitsverordnung in der Fassung der Bekanntmachung vom 3. September 1997 (BGBl. I S. 2217), zuletzt geändert durch die Verordnung vom 19. Juni 1998 (BGBl. I S. 1431) erteilt worden sind, bleiben bis zum Ablauf ihrer Gültigkeit wirksam.
-5.3 Für vorhandene Schiffe kann die Berufsgenossenschaft abweichend von Regel 3 Bestandsschutz gewähren, soweit diese Schiffe den bisher für sie geltenden Vorschriften und technischen Regeln entsprechen. Ein auf dieser Grundlage erteiltes Sicherheitszeugnis kann mit Nebenbestimmungen verbunden werden, wenn der Zweck dieses Teils es erforderlich macht.
+4.8 Für Offshore-Servicefahrzeuge nach Regel 3.6 erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein nationales Sicherheitszeugnis für Hochgeschwindigkeitsfahrzeuge und eine Erlaubnis zum Betrieb von Hochgeschwindigkeitsfahrzeugen.
+4.9 Für Hochgeschwindigkeitsfahrzeuge erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein Sicherheitszeugnis für Hochgeschwindigkeitsfahrzeuge nach Regel 1.8 des HSC-Code und eine Genehmigung zum Betrieb von Hochgeschwindigkeitsfahrzeugen nach Regel 1.9 des HSC-Code.
+4.10 Für bewegliche Offshore-Bohrplattformen erteilt die Berufsgenossenschaft anstelle des Bau- und Ausrüstungs-Sicherheitszeugnisses nach Regel 4.5 ein Sicherheitszeugnis für bewegliche Offshore-Bohrplattformen nach Regel 1.6 des MODU-Code.
+4.11 Besichtigungs- und Zeugnispflichten aus anderen Rechtsvorschriften bleiben unberührt.
+5 Nachweise
+5.1 Soweit ein Schiff nach diesem Teil den Anforderungen einer anerkannten Organisation entsprechen muss, ist der Nachweis durch Vorlage eines gültigen Klassezeugnisses zu führen.
+5.2 Soweit nach diesem Teil die Konformität mit produktspezifisch geltenden europäischen Richtlinien erforderlich ist, ist der Nachweis durch Vorlage einer Konformitätserklärung zu führen. Das Konformitätsbewertungsverfahren muss durch eine benannte Stelle durchgeführt worden sein. Es müssen die Prüfmodule in der Kombination B+D, B+E oder B+F, oder die Module G oder H nachgewiesen werden.
+6 Bestehende Rechte
+6.1 Zeugnisse, Bescheinigungen und Prüflisten, die bis zum 30. November 2024 ausgestellt worden sind, bleiben bis zum Ablauf ihrer Gültigkeit wirksam, soweit in diesem Teil nichts anderes bestimmt ist.
+6.2 Wird ein Zeugnis im Sinne der Regel 6.1 erneuert, müssen die Anforderungen der Regel 3 nicht erfüllt werden, soweit das Schiff den für das abgelaufene Zeugnis geltenden Vorschriften und technischen Regeln weiterhin entspricht. Dies gilt nicht, wenn seit dem Ablauf der Gültigkeit des letzten Zeugnisses mehr als ein Jahr vergangen ist oder soweit in diesem Teil etwas anderes bestimmt ist.
+6.3 Umbauten, Instandsetzungen, Erneuerungen und Ergänzungen sowie Einrichtungs- und Ausrüstungsgegenstände, die neu beschafft werden, müssen den Anforderungen der Regel 3 entsprechen. Bei größeren Umbauten, Instandsetzungen, Erneuerungen und Ergänzungen ist Regel 3 für das ganze Schiff anzuwenden.
+7 Nebenbestimmungen
+  Das Sicherheitszeugnis kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der Voraussetzungen sicherzustellen. Abhängig von der nachgewiesenen baulichen Beschaffenheit und der vorhandenen Ausrüstung kann die Berufsgenossenschaft den Fahrtbereich einschränken oder die Fahrt nur unter herabgesetzten Einsatz- und Wetterbedingungen zulassen, soweit dies zur Wahrung der Sicherheit des Schiffes erforderlich ist.
 Kapitel 2
 Frachtschiffe
-1. Grundsätze
-1.1 Die Kapitel II-1, II-2, III, IV, V, VI, VII und XI-1 der Anlage zum SOLAS-Übereinkommen und Abschnitt C. I (SOLAS) der Anlage 1 zu dieser Verordnung gelten für Frachtschiffe nach diesem Teil entsprechend, soweit nicht in den folgenden Vorschriften etwas anderes bestimmt ist.
+1 Grundsätze
+1.1 Die Kapitel II-1, II-2, III, IV, V, VI, VII und XI-1 der Anlage zum SOLAS-Übereinkommen und Abschnitt C.I (SOLAS) der Anlage 1 zu dieser Verordnung gelten für Frachtschiffe nach diesem Teil entsprechend, soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
 1.2 Können die Anforderungen einer der nach Regel 1.1 anzuwendenden Vorschriften des SOLAS-Übereinkommens oder dieses Teils im Einzelfall nicht erfüllt werden, kann die Berufsgenossenschaft unter Berücksichtigung von Fahrtbereich, Schiffstyp und Schiffsgröße gleichwertige Einrichtungen, Hilfsmittel und Maßnahmen festlegen.
-1.3 Auf Frachtschiffe mit einer Bruttoraumzahl unter 150 finden die Regeln V/15, 20 bis 26 der Anlage zum SOLAS-Übereinkommen keine Anwendung.
+1.3 Auf Frachtschiffe mit einer Bruttoraumzahl unter 150 sind die Regeln V/15, 20 bis 26 der Anlage zum SOLAS-Übereinkommen nicht anzuwenden.
 1.4 Bau und Instandhaltung des Schiffskörpers, der Haupt- und Hilfsmaschinen sowie der elektrischen und automatischen Anlagen müssen dem Standard entsprechen, den die Klassifikationsregeln einer anerkannten Organisation für den jeweiligen Schiffstyp vorschreiben, wenn nicht in den nachfolgenden Regeln etwas anderes bestimmt ist.
-1.5 Die vorgeschriebene Ausrüstung in den Bereichen Brandschutz, Rettungsmittel, Funk und Navigation muss nach der Richtlinie 2014/90/EU zugelassen sein, wenn nicht in den nachfolgenden Regeln etwas anderes bestimmt ist. Vorgeschriebene Ausrüstung sowie freiwillige und zusätzliche Ausrüstung nach SOLAS Kapitel V Regel 18.7, die nicht Artikel 3 der Richtlinie 2014/90/EU unterliegt, muss durch die Berufsgenossenschaft, das Bundesamt für Seeschifffahrt und Hydrographie (BSH) oder eine anerkannte Organisation zugelassen sein.
+1.5 Die vorgeschriebene Ausrüstung in den Bereichen Brandschutz, Rettungsmittel, Funk und Navigation muss nach der Richtlinie 2014/90/EU zugelassen sein, wenn nicht in den nachfolgenden Regeln etwas anderes bestimmt ist. Vorgeschriebene Ausrüstung sowie freiwillige und zusätzliche Ausrüstung nach Kapitel V Regel 18.7 des SOLAS-Übereinkommens, die nicht Artikel 3 der Richtlinie 2014/90/EU unterliegt, muss durch die Berufsgenossenschaft, das Bundesamt für Seeschifffahrt und Hydrographie (BSH) oder eine anerkannte Organisation zugelassen sein.
 1.6 Vorgeschriebene Ausrüstung, die in einem anderen Mitgliedstaat der Europäischen Union oder der Türkei oder einem EFTA-Staat, der Vertragspartei des EWR-Abkommens ist, rechtmäßig hergestellt oder in Verkehr gebracht wurde, wird als gleichwertig anerkannt.
-2. Maschinen und elektrische Anlagen
+2 Maschinen und elektrische Anlagen
   Die Berufsgenossenschaft kann auf Antrag die Speisung der elektrischen oder elektrohydraulischen Hauptruderanlage durch einen von der Hauptschalttafel ausgehenden Stromkreis genehmigen, wenn nach Kapitel II-1 Regel 29 des SOLAS-Übereinkommens eine Hilfsruderanlage ohne Kraftantrieb ausreichend ist.
-3. Brandschutz
-3.1 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300, mit Ausnahme von Tankschiffen, darf die nach Regel II-2/10 SOLAS vorgeschriebene Feuerlöschpumpe an die Hauptantriebsmaschine angehängt werden, wenn die Wellenleitung leicht von der Hauptantriebsmaschine getrennt werden kann. Die Leistung dieser Pumpe und des dazugehörigen Leitungssystems muss so bemessen sein, dass mindestens ein kräftiger Wasserstrahl an jede Stelle des Schiffes gegeben werden kann.
-3.2 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300 müssen so viele Feuerlöschanschlussstutzen vorhanden und so verteilt sein, dass mit einem von einer einzigen Schlauchlänge gespeisten Wasserstrahl jede Stelle des Schiffes erreicht werden kann. In Maschinenräumen ist kein Anschlussstutzen und kein internationaler Landanschluss nach SOLAS Regel II-2/10.2.1.7 erforderlich.
+3 Brandschutz
+3.1 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300, mit Ausnahme von Tankschiffen, darf die nach Kapitel II-2 Regel 10 des SOLAS-Übereinkommens vorgeschriebene Feuerlöschpumpe an die Hauptantriebsmaschine angehängt werden, wenn die Wellenleitung leicht von der Hauptantriebsmaschine getrennt werden kann. Die Leistung dieser Pumpe und des dazugehörigen Leitungssystems muss so bemessen sein, dass mindestens ein kräftiger Wasserstrahl mit mindestens 5 l /m² je Minute an jede Stelle des Schiffes gegeben werden kann.
+3.2 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300 müssen so viele Feuerlöschanschlussstutzen vorhanden und so verteilt sein, dass mit einem von einer einzigen Schlauchlänge gespeisten Wasserstrahl jede Stelle des Schiffes erreicht werden kann. In Maschinenräumen ist kein Anschlussstutzen und kein internationaler Landanschluss nach Kapitel II-2 Regel 10.2.1.7 des SOLAS-Übereinkommens erforderlich.
 3.3 Jedes Frachtschiff mit einer Bruttoraumzahl von weniger als 500 muss mindestens je drei Feuerlöschschläuche, Mehrzweck-Strahlrohre und Kupplungsschlüssel mitführen. Die einzelne Schlauchlänge darf 15 m, in Maschinenräumen 10 m nicht überschreiten. Als Schlauch- und Strahlrohrkupplungen sind nur genormte 52-mm-Storz-Anschlüsse zu verwenden.
 3.4 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300 müssen im Unterkunftsbereich mindestens drei tragbare 6-kg-Feuerlöscher für die Brandklassen ABC vorhanden sein.
-3.5 In Maschinenräumen sind die tragbaren Schaumlösch-Einheiten nach Regel II-2/5.3.2.1 und 5.3.2.2 nicht erforderlich. Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300 ist in Räumen mit Verbrennungskraftmaschinen ein Schaumfeuerlöscher von mindestens 45 l Inhalt oder ein anderes gleichwertiges Gerät nur bei einer Gesamtleistung von 746 kW oder mehr erforderlich; eine fest eingebaute Feuerlöschanlage ist nicht erforderlich.
-3.6 Auf allen Frachtschiffen mit einer Bruttoraumzahl von mehr als 250, aber weniger als 500, müssen zwei Brandschutzausrüstungen mitgeführt werden. Es müssen Reserve-Druckluftflaschen mit einer Gesamtluftmenge von mindestens 3 200 l mitgeführt werden.
-3.7 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 250 ist ein Rauchmeldesystem für Gänge, Treppen und Fluchtwege, das Regel II-2/7.2.1 SOLAS entspricht, nicht erforderlich.
-3.8 Die Abzüge der Küchenherde brauchen nicht Regel II-2/7 SOLAS zu entsprechen; sie müssen jedoch aus Stahl gebaut und gefährdete Bereiche müssen gegen Wärmeeinwirkung geschützt sein.
-3.9 In Räumen, Verschlägen und Schränken für entzündbare Flüssigkeiten (einschließlich Farben) ist eine fest eingebaute Feuerlöscheinrichtung nicht erforderlich, wenn an den Zugängen ein tragbarer Feuerlöscher (6 kg, Brandklasse ABC) angeordnet ist.
-3.10 Die Flüssiggasanlage für Haushaltszwecke muss den Technischen Regeln der DVGW entsprechen.
-4. Ausrüstung mit Rettungsmitteln
+3.5 In Maschinenräumen sind die tragbaren Schaumlösch-Einheiten nach Kapitel II-2 Regel 5.3.2.1 und 5.3.2.2 des SOLAS-Übereinkommens nicht erforderlich. Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300 ist in Räumen mit Verbrennungskraftmaschinen ein Schaumfeuerlöscher von mindestens 45 l Inhalt oder ein anderes gleichwertiges Gerät nur bei einer Gesamtleistung von 746 kW oder mehr erforderlich; eine fest eingebaute Feuerlöschanlage ist nicht erforderlich.
+3.6 Auf allen Frachtschiffen mit einer Bruttoraumzahl von 300 bis weniger als 500 müssen zwei Brandschutzausrüstungen mitgeführt werden. Es müssen Reserve-Druckluftflaschen mit einer Gesamtluftmenge von mindestens 3 200 l mitgeführt werden.
+3.7 Auf Frachtschiffen mit einer Bruttoraumzahl von weniger als 300 ist ein Rauchmeldesystem für Gänge, Treppen und Fluchtwege, das Kapitel II-2 Regel 7.2.1 des SOLAS-Übereinkommens entspricht, nicht erforderlich.
+3.8 Die Abzüge der Küchenherde brauchen nicht Kapitel II-2 Regel 7 des SOLAS-Übereinkommens zu entsprechen; sie müssen jedoch aus Stahl gebaut und gefährdete Bereiche müssen gegen Wärmeeinwirkung geschützt sein.
+3.9 In Räumen, Verschlägen und Schränken für entzündbare Flüssigkeiten, einschließlich Farben, ist eine fest eingebaute Feuerlöscheinrichtung nicht erforderlich, wenn an den Zugängen ein tragbarer 6-kg-Feuerlöscher für die Brandklassen ABC angeordnet ist.
+3.10 Die Flüssiggasanlage für Haushaltszwecke muss die Vorgaben der DIN EN ISO 10239:2015-05 in Verbindung mit dem Arbeitsblatt G 608, Ausgabe März 2012, des Deutschen Vereins des Gas- und Wasserfaches (DVGW) erfüllen, das beim DVGW e. V., 53123 Bonn, zu beziehen ist. Der Betrieb und die wiederkehrenden Prüfungen der Anlage müssen gemäß dem vorgenannten DVGW Arbeitsblatt G 608 erfolgen. Die wiederkehrenden Prüfungen sollen im Abstand von nicht mehr als 2 Jahren erfolgen.
+4 Ausrüstung mit Rettungsmitteln
 4.1 Frachtschiffe mit einer Bruttoraumzahl von weniger als 500 müssen folgende Rettungsmittel mitführen:
-  a) auf jeder Schiffsseite ein oder mehrere automatisch aufblasbare Rettungsflöße nach Absatz 4.2 des Internationalen Rettungsmittel-(LSA-)Codes für alle Personen an Bord in einer Aufstellung, dass sie frei aufschwimmen können,
-  b) zusätzlich auf einer Schiffsseite ein Bereitschaftsboot nach Absatz 5.1 des Internationalen Rettungsmittel-(LSA-)Codes unter einer Aussetzvorrichtung. Erfüllt das Bereitschaftsboot auch die Anforderungen an Rettungsboote nach Absatz 4.4 des Internationalen Rettungsmittel-(LSA-)Codes und ist das Fassungsvermögen ausreichend für alle Personen an Bord, können Rettungsflöße auf der Seite, auf der das Boot aufgestellt ist, entfallen; sofern die verbleibenden, vorgeschriebenen Rettungsflöße nicht schnell von der anderen Schiffsseite herüberbefördert werden können, müssen auch auf dieser Seite automatisch aufblasbare Rettungsflöße für alle Personen an Bord vorhanden sein.
-4.2 Abweichend von Regel 4.1 Buchstabe a müssen Tankschiffe folgende Rettungsmittel mitführen:
-  a) an jeder Seite ein Motorrettungsboot nach Absatz 4.9 des Internationalen Rettungsmittel-(LSA-)Codes unter Aussetzvorrichtungen, deren Fassungsvermögen auf jeder Seite für alle an Bord befindlichen Personen ausreicht. Erfüllt eines dieser Rettungsboote auch die Anforderungen an ein Bereitschaftsboot nach Absatz 5.1 des Internationalen Rettungsmittel-(LSA-)Codes, kann auf das separate Bereitschaftsboot nach Absatz 1 Nummer 2 verzichtet werden,
-  b) ein oder mehrere automatisch aufblasbare Rettungsflöße mit einem Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen,
+  a) auf jeder Schiffsseite mindestens ein automatisch aufblasbares Rettungsfloß nach Absatz 4.2 des LSA-Code, sodass auf jeder Schiffsseite alle an Bord befindlichen Personen aufgenommen werden können, und in einer Aufstellung, dass die Rettungsflöße frei aufschwimmen können,
+  b) zusätzlich auf einer Schiffsseite ein Bereitschaftsboot nach Absatz 5.1 des LSA-Code unter einer Aussetzvorrichtung.
+  Erfüllt das Bereitschaftsboot nach Satz 1 Buchstabe b auch die Anforderungen an Rettungsboote nach Absatz 4.4 des LSA-Code und ist das Fassungsvermögen ausreichend für alle Personen an Bord, können Rettungsflöße auf der Seite, auf der das Boot aufgestellt ist, entfallen; sofern die verbleibenden, vorgeschriebenen Rettungsflöße nicht schnell von der anderen Schiffsseite herüberbefördert werden können, müssen auch auf dieser Seite automatisch aufblasbare Rettungsflöße für alle Personen an Bord vorhanden sein.
+4.2 Abweichend von Regel 4.1 Satz 1 Buchstabe a müssen Tankschiffe folgende Rettungsmittel mitführen:
+  a) an jeder Seite ein Motorrettungsboot nach Absatz 4.9 des LSA-Code unter Aussetzvorrichtungen, deren Fassungsvermögen auf jeder Seite für alle an Bord befindlichen Personen ausreicht,
+  b) ein oder mehrere automatisch aufblasbare Rettungsflöße mit einem Gesamtfassungsvermögen hinreichend zur Aufnahme aller an Bord befindlichen Personen,
   c) sofern die in Buchstabe b vorgeschriebenen Rettungsflöße nicht schnell von einer Seite des Schiffes auf die andere Seite befördert werden können, zusätzliche Rettungsflöße, damit das auf jeder Seite vorhandene Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen ausreicht.
+  Erfüllt eines der Rettungsboote nach Satz 1 Buchstabe a auch die Anforderungen an ein Bereitschaftsboot nach Absatz 5.1 des LSA-Code, kann auf das separate Bereitschaftsboot nach Absatz 5.1.1.1 Satz 2 des LSA-Code verzichtet werden.
 4.3 Frachtschiffe im Sinne der Regeln 4.1 und 4.2 können anstelle der dort vorgeschriebenen Ausrüstung folgende Rettungsmittel mitführen:
-  a) ein vollständig geschlossenes Rettungsboot nach Absatz 4.6 des Internationalen Rettungsmittel-(LSA-)Codes mit einem Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen, das
+  a) ein vollständig geschlossenes Rettungsboot nach Absatz 4.6 des LSA-Code mit einem Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen, das
     aa) so aufgestellt ist, dass es bemannt im freien Fall über das Heck ausgesetzt werden kann,
-    bb) bei Tankschiffen auch die Anforderungen nach Absatz 4.9 des Internationalen Rettungsmittel-(LSA-)Codes erfüllt,
+    bb) bei Tankschiffen auch die Anforderungen nach Absatz 4.9 des LSA-Codes erfüllt,
     cc) unter einer Aussetzvorrichtung zum kontrollierten Zuwasserlassen und Wiedereinsetzen in die Einbootungsposition versehen ist,
-  b) zusätzlich ein oder mehrere automatisch aufblasbare Rettungsflöße mit einem Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen,
+  b) zusätzlich mindestens ein automatisch aufblasbares Rettungsfloß, sodass alle an Bord befindlichen Personen aufgenommen werden können,
   c) sofern die in Buchstabe b vorgeschriebenen Rettungsflöße nicht schnell von einer Seite des Schiffes auf die andere Seite befördert werden können, müssen zusätzliche automatisch aufblasbare Rettungsflöße vorhanden sein, damit das auf jeder Seite vorhandene Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen ausreicht,
-  d) zusätzlich auf einer Schiffsseite ein Bereitschaftsboot nach Absatz 5.1 des Internationalen Rettungsmittel-(LSA-)Codes unter einer Aussetzvorrichtung.
-4.4 Bei Schiffen im Sinne der Regeln 4.1 bis 4.3 müssen für jede Person an Bord eine Rettungsweste mit Leuchte, bei Schiffen von 50 m Länge oder mehr müssen außerdem sechs Rettungsringe, bei weniger als 50 m Länge mindestens vier Rettungsringe vorhanden sein; zwei Rettungsringe sind mit selbstzündenden Lichtern, zwei weitere mit je einer 30 m langen, schwimmfähigen Rettungsleine zu versehen.
-4.5 Wenn sich das Deck, von dem aus die im Wasser befindlichen Rettungsflöße bei leichtestem Betriebszustand auf See bestiegen werden können, mehr als 4,50 m über der Wasseroberfläche befindet, sind anstelle der in den Absätzen 1 bis 3 vorgeschriebenen Rettungsflöße bemannt aussetzbare Rettungsflöße mit Aussetzvorrichtungen vorzusehen, die aber so aufzustellen sind, dass sie frei aufschwimmen und abgeworfen werden können.
-4.6 Frachtschiffe mit einer Bruttoraumzahl von 250 und mehr, jedoch weniger als 500 in der Wattfahrt, müssen mit einem oder mehreren automatisch aufblasbaren Rettungsflößen mit einem Gesamtfassungsvermögen für alle Personen an Bord und einem Bereitschaftsboot unter Aussetzvorrichtung oder einem von der ehemaligen See-Berufsgenossenschaft zugelassenen motorisierten Boot ausgerüstet sein. Außerdem müssen mindestens vier Rettungsringe und für jede Person an Bord eine Rettungsweste mit Leuchte vorhanden sein; zwei Rettungsringe sind mit selbstzündenden Lichtern, die beiden anderen mit je einer 30 m langen, schwimmfähigen Rettungsleine zu versehen.
-4.7 Frachtschiffe mit einer Bruttoraumzahl von weniger als 250 in der Wattfahrt müssen mit einem Bereitschaftsboot unter Aussetzvorrichtung ausgerüstet sein, das Platz für die Regelbesatzung bietet. Vorhandene motorisierte Boote mit einer Zulassung der ehemaligen See-Berufsgenossenschaft können weiter verwendet werden. Sollen weitere Personen befördert werden, ist zusätzlicher automatisch aufblasbarer Rettungsfloßraum mitzuführen. Außerdem müssen mindestens zwei Rettungsringe, einer davon mit selbstzündendem Licht, der andere mit einer 30 m langen, schwimmfähigen Rettungsleine, sowie für jede Person an Bord eine Rettungsweste mit Leuchte vorhanden sein.
+  d) zusätzlich auf einer Schiffsseite ein Bereitschaftsboot nach Absatz 5.1 des LSA-Codes unter einer Aussetzvorrichtung.
+4.4 Bei Schiffen im Sinne der Regeln 4.1 bis 4.3 müssen für jede Person an Bord eine Rettungsweste mit Leuchte, bei Schiffen mit einer Länge von 50 m oder mehr müssen außerdem sechs Rettungsringe, bei Schiffen mit weniger als 50 m Länge mindestens vier Rettungsringe vorhanden sein; zwei Rettungsringe sind mit selbstzündenden Lichtern, zwei weitere mit je einer schwimmfähigen Rettungsleine von 30 m Länge zu versehen.
+4.5 Wenn sich das Deck, von dem aus die im Wasser befindlichen Rettungsflöße bei leichtestem Betriebszustand auf See bestiegen werden können, mehr als 4,50 m über der Wasseroberfläche befindet, sind anstelle der in den Regeln 4.1 bis 4.3 vorgeschriebenen Rettungsflöße bemannt aussetzbare Rettungsflöße mit Aussetzvorrichtungen vorzusehen, die aber so aufzustellen sind, dass sie frei aufschwimmen und abgeworfen werden können.
+4.6 Frachtschiffe mit einer Bruttoraumzahl von 300 und mehr, jedoch weniger als 500 in der Wattfahrt, müssen mit mindestens einem automatisch aufblasbaren Rettungsfloß mit einem Gesamtfassungsvermögen hinreichend zur Aufnahme aller an Bord befindlichen Personen und einem Bereitschaftsboot unter Aussetzvorrichtung oder einem von der ehemaligen See-Berufsgenossenschaft zugelassenen motorisierten Boot ausgerüstet sein. Es kann auf die Ausrüstung mit einem solchen Boot verzichtet werden, wenn eine alternative Vorrichtung zur Fremdrettung an Bord vorhanden ist und die Rundumsicht von der Position des Schiffsführers eine direkte Ansteuerung von Personen im Wasser zulässt. Im Übrigen gilt Regel 4.4.
+4.7 Frachtschiffe mit einer Bruttoraumzahl von weniger als 300 in der Wattfahrt müssen mit einem Bereitschaftsboot unter Aussetzvorrichtung, das Platz für die Regelbesatzung bietet, ausgerüstet sein. Vorhandene motorisierte Boote mit einer Zulassung der ehemaligen See-Berufsgenossenschaft können weiterverwendet werden. Sollen weitere Personen befördert werden, ist zusätzlicher automatisch aufblasbarer Rettungsfloßraum mitzuführen. Außerdem müssen mindestens zwei Rettungsringe, einer davon mit selbstzündendem Licht, der andere mit einer 30 m langen, schwimmfähigen Rettungsleine, sowie für jede Person an Bord eine Rettungsweste mit Leuchte vorhanden sein. Es kann auf die Ausrüstung mit einem solchen Boot verzichtet werden, wenn ein automatisch aufblasbares Rettungsfloß mit mindestens einem Gesamtfassungsvermögen hinreichend zur Aufnahme aller an Bord befindlichen Personen sowie eine alternative Vorrichtung zur Fremdrettung an Bord vorhanden ist und die Rundumsicht von der Position des Schiffsführers eine direkte Ansteuerung von Personen im Wasser und deren Aufnahme zulässt. Im Übrigen gilt Regel 4.4.
 4.8 Ein Leinenwurfgerät braucht nicht mitgeführt zu werden.
-5. Unterteilung und Stabilität
+5 Unterteilung und Stabilität
 5.1 Vorhandene genehmigte Stabilitätsunterlagen bleiben weiter gültig, soweit sich an den Voraussetzungen für deren Genehmigung nichts geändert hat.
-5.2 Wird eine Änderung des Leerschiffsgewichtes, des Längenschwerpunktes oder des Höhenschwerpunktes festgestellt, müssen weiterhin mindestens die bis dahin für dieses Schiff geltenden Intakt- und Leckstabilitätskriterien eingehalten werden.
-5.3 Werden Umbauten vorgenommen, die die Hydrostatik des Schiffes beeinflussen, sind neue Stabilitätsunterlagen auf der Basis neuer Leerschiffsdaten und der neuen Hydrostatik zu erstellen. Es sind die zum Zeitpunkt des Umbaus gültigen Intakt- und Leckstabilitätskriterien einzuhalten.
-5.4 Werden für ein Schiff neue Stabilitätsunterlagen nach dem Code über die Intaktstabilität erstellt, darf der Krängungsversuch zur Ermittlung der Leerschiffsdaten nicht länger als fünf Jahre zurückliegen.
-6. Beförderung von Ladung
+5.2 Wird eine Änderung des Leerschiffsgewichtes, des Längenschwerpunktes oder des Höhenschwerpunktes von der Berufsgenossenschaft festgestellt und liegt die Veränderung außerhalb der durch den Code für Intaktstabilität vorgegebenen Grenzen, so muss ein neuer Krängungsversuch durchgeführt werden. Das Stabilitätsbuch ist entsprechend des neuen Schwerpunktes zu korrigieren.
+5.3 Werden Umbauten vorgenommen, die die Hydrostatik des Schiffes beeinflussen, sind neue Stabilitätsunterlagen auf der Grundlage neuer Leerschiffsdaten und der neuen Hydrostatik zu erstellen. Es sind die zum Zeitpunkt des Umbaus gültigen Intakt- und Leckstabilitätskriterien einzuhalten.
+5.4 Werden für ein Schiff neue Stabilitätsunterlagen nach dem Code über Intaktstabilität erstellt, darf der Krängungsversuch zur Ermittlung der Leerschiffsdaten nicht länger als fünf Jahre zurückliegen.
+5.5 Für die Nutzung von Hebezeugen auf See sind die Anforderungen für „Schiffe im Hebebetrieb“ aus Teil B Regel 2.9 des Code über Intaktstabilität einzuhalten. Können diese Anforderungen nicht eingehalten werden, so kann die Berufsgenossenschaft die Anwendung entsprechender Regeln der anerkannten Organisation, deren Überwachung das Schiff unterliegt, genehmigen.
+6 Beförderung von Ladung
 6.1 Die Berufsgenossenschaft kann auf Antrag Schiffe, die nach diesem Teil dem Kapitel VI Regel 5.6 des SOLAS-Übereinkommens unterliegen, von der Ausrüstung mit einem Ladungssicherungshandbuch befreien.
 6.2 Getreide darf als Schüttladung nur befördert werden, wenn eine Genehmigung nach Kapitel VI Regel 9 der Anlage zum SOLAS-Übereinkommen vorliegt und die Beladung den Getreideladeplänen entspricht oder die Beladung nach Abschnitt A 9 Regel 9.1.1 bis 9.1.5 des Internationalen Codes für die sichere Beförderung von Schüttgetreide (IMO Resolution MSC.23(59); VkBl. 1993 S. 835) erfolgt, wobei Regel 9.1.1 nicht für Schiffe gilt, deren Kiel vor dem 25. Mai 1980 gelegt wurde.
 6.3 Die Genehmigung zur Beförderung von Getreide wird von der Berufsgenossenschaft erteilt, die auch für die Genehmigung der Nachweise nach Kapitel VI der Anlage zum SOLAS-Übereinkommen und insbesondere die Erteilung der Erlaubnis nach Abschnitt A 9 des Internationalen Codes für die sichere Beförderung von Schüttgetreide zuständig ist.
 6.4 Die Unterlagen nach Nr. A 3.4 des Internationalen Codes für die sichere Beförderung von Schüttgetreide müssen an Bord mitgeführt werden und sind auf Verlangen der zuständigen Behörde im Ladehafen vorzulegen.
 Kapitel 3
 Kleinfahrzeuge
-1. Bauart und schiffbauliche Einrichtungen
-1.1 Das Kleinfahrzeug muss eine Schiffslänge [L] von mindestens 8 m haben und darf höchstens eine Bruttoraumzahl von 100 aufweisen. Für Fahrzeuge mit einer Freibordlänge von weniger als 24 m ist die Schiffslänge [L] als Rumpflänge entsprechend der Längendefinition nach DIN EN-ISO 8666, Ausgabe April 2003, zu bestimmen. Die Freibordlänge ist nach dem Internationalen Freibord-Übereinkommen zu bestimmen. Die Rumpf- oder Freibordlänge [L] ist zur Bemessung von Bauteilen heranzuziehen und/oder wird für die Ausstellung von Zeugnissen, sofern erforderlich, verwendet.
-1.2 Die Festigkeit des Schiffskörpers sowie der Schiffsverbände müssen dem vorhandenen Tiefgang und beantragten Fahrtbereich sowie den Anforderungen einer anerkannten Organisation entsprechen. Es muss ein Kollisionsschott vorhanden sein, das wasserdicht bis zum Hauptdeck (Schottendeck) ausgeführt ist. Dieses Schott muss in einem Abstand von mindestens 5 % der Schiffslänge und, sofern die Berufsgenossenschaft nichts anderes zulässt, von höchstens 8 % der Schiffslänge vom vorderen Lot angeordnet sein. Das Kollisionsschott darf höchstens durch eine Rohrleitung zum Lenzen und Fluten der Vorpiek durchbrochen werden und das Absperrventil muss von einer Stelle oberhalb des Hauptdecks (Schottendecks) bedient werden können. Im Kollisionsschott dürfen keine Türen, Mannlöcher, Zugangsöffnungen, Lüftungsschächte oder sonstige Öffnungen angeordnet sein. Soweit durchführbar und mit der Bauart und dem ordnungsgemäßen Betrieb des Schiffes vereinbar, sind weitere Schotte (z. B. Stopfbuchsenschott, vorderes und hinteres Maschinenraumbegrenzungsschott) und ein Doppelboden vorzusehen.
-1.3 Der Verschlusszustand des Fahrzeuges muss dem beantragten Fahrtbereich entsprechen. Das Kleinfahrzeug muss vollkommen gedeckt sein.
-2. Brandschutz
+1 Anwendungsbereich
+1.1 Dieses Kapitel gilt für vorhandene und neue Kleinfahrzeuge, die den Sicherheitsanforderungen an Frachtschiffe unterliegen.
+1.2 Dieses Kapitel gilt nicht für:
+  a) Offshore-Versorger;
+  b) Offshore-Servicefahrzeuge.
+2 Grundsätzliche Sicherheitsanforderungen
+2.1 Vorbehaltlich der nachfolgenden Vorschriften müssen Kleinfahrzeuge in ihrer Gesamtheit
+  a) den für den Verwendungszweck maßgeblichen Klassifikationsregeln einer anerkannten Organisation oder
+  b) den Anforderungen des Anhangs I der Richtlinie 2013/53/EU nach der für das beantragte Fahrtgebiet maßgeblichen Entwurfskategorie
+  entsprechen. Im Fall der Regel 2.1 Buchstabe b findet Artikel 14 der Richtlinie 2013/53/EU entsprechende Anwendung.
+2.2 Kleinfahrzeuge, die zur gewerbsmäßigen Fahrgastbeförderung eingesetzt werden, müssen für das Vorliegen der Regel 2.1 Buchstabe b den Anforderungen mindestens der Entwurfskategorie „B“ nach Anhang I der Richtlinie 2013/53/EU entsprechen.
+3 Bauart und Bauweise
+3.1 Die Festigkeit des Schiffskörpers sowie der Schiffsverbände müssen dem vorhandenen Tiefgang, dem beantragten Fahrtbereich und dem beabsichtigten Verwendungszweck entsprechen.
+3.2 Regel 3.1 gilt als erfüllt bei Vorliegen der Regeln 2.1 und 2.2, soweit nicht in den nachfolgenden Regeln etwas anderes bestimmt ist.
+3.3 Regel 2.1 Buchstabe b gilt nicht für Kleinfahrzeuge, die Sonderfahrzeuge sind oder die besonderen Sicherheitsanforderungen unterliegen aufgrund ihres Einsatzes
+  a) für den Transport von gefährlicher Ladung oder
+  b) als Spezialschiff.
+3.4 Kleinfahrzeuge, die zur gewerbsmäßigen Fahrgastbeförderung eingesetzt werden, dürfen keine offenen Schiffe sein. Für alle Fahrgäste müssen geschützte Sitzplätze vorhanden sein. Ein freier Zugang zum ungehinderten Besetzen und Verlassen der Sitzplätze muss gewährleistet sein.
+4 Unterteilung, Stabilität
+4.1 Kleinfahrzeuge müssen in allen für das jeweilige Schiff vorgesehenen Beladungszuständen unter Berücksichtigung von Bauart, Größe, Verwendungszweck und Fahrtgebiet unter Einfluss von Wind, Wellengang und aller Personen an Bord über ausreichende Stabilität verfügen. Sie müssen entsprechend den allgemein anerkannten Regeln der Technik durch Schotte unterteilt werden, die bis zum freiliegenden Deck wasserdicht sein müssen.
+4.2 Alle Schiffe mit einer Rumpflänge über 15 m müssen mindestens die folgenden wasserdichten Querschotte haben:
+  a) ein Kollisionsschott, in einem Abstand von mindestens 0,02 LH, höchstens jedoch 0,05 LH hinter dem Vorsteven;
+  b) ein Achterpiekschott, wenn praktikabel;
+  c) zwei Schotte, die den Maschinenraum begrenzen.
+4.3 Die Anzahl der Öffnungen in wasserdichten Unterteilungen ist auf ein bauartgerechtes und sachgerechtes Minimum zu beschränken unter Berücksichtigung der Nutzungsart des Schiffes. Im Falle einer Durchdringung von wasserdichten Schotten und Innendecks für Zugang, Verrohrung, Belüftung, Elektrokabel oder ähnliches sind Vorkehrungen zu treffen, um die Wasserdichtigkeit aufrechtzuerhalten.
+4.4 Die Stabilitätsanforderungen des Teil A des Code über Intaktstabilität sind einzuhalten, soweit in diesem Kapitel nichts anderes bestimmt ist.
+4.5 Die Anfangsstabilität (GMo), korrigiert um den Effekt der freien Oberfläche von Flüssigkeit enthaltenden Tanks, darf nicht weniger als 0,35 m betragen.
+5 Freibord
+5.1 Kleinfahrzeuge müssen mit wasser- und wetterdichten Verschlussvorrichtungen ausgerüstet sein, so dass unter keinen Seeverhältnissen Wasser in das Fahrzeug eindringen kann und eine ausreichende Luftzufuhr gewährleistet ist. Maschinenraumlüfter müssen mit geeigneten Vorrichtungen ausgestattet sein, die ein ungehindertes Eindringen von Wasser verhindern. Ungedeckte Bereiche müssen selbstlenzend sein oder über eine vergleichbare Lenzmöglichkeit verfügen. Teil 7 ist auf diese Fahrzeuge nicht anzuwenden.
+5.2 Regel 5.1 gilt bei Vorliegen der Regeln 2.1 und 2.2 als erfüllt, soweit nicht in den nachfolgenden Regeln etwas anderes bestimmt ist
+5.3 Im Fall der Regel 2.1 Buchstabe b müssen Seeventile und Außenhautdurchbrüche mindestens die Anforderungen nach DIN EN ISO 9093:2021-05 erfüllen, die je nach Fahrgebiet und Einsatzart mit Bedingungen oder Auflagen verbunden werden können. Kugelhähne, die im Rahmen einer Besichtigung nach Kapitel 1 Regel 4.2 nicht überprüft werden können, dürfen hierbei nicht älter als fünf Jahre sein. Grundsätzlich sind Seeventile und Außenhautdurchbrüche aus nichtmetallischen Werkstoffen so weit wie baulich möglich zu vermeiden. Nicht am Rumpf verschließbare Außenhautdurchbrüche sind unzulässig.
+5.4 Bullaugen und Fenster auf Kleinfahrzeugen müssen mit einer Mindestsüllhöhe von 610 mm über der Entwurfswasserlinie angeordnet werden. Alle Fenster und Bullaugen müssen den höchsten zu erwartenden Wellen- und Windbedingungen im geplanten Einsatzgebiet des Fahrzeugs widerstehen können.
+5.5 Für Luken, die nicht aus Metall gefertigt sind und die vom Wetterdeck zu Räumen unterhalb führen, müssen tragbare Blenden vorgesehen werden, die im Fall des Bruchs schnell installiert werden können und das Eindringen von nicht unerheblichen Wassermengen verhindern.
+5.6 Im Fall der Regel 2.1 Buchstabe a muss die Reling mindestens 100 cm hoch sein, bei Segelfahrzeugen mindestens 60 cm. Durchzüge sollten 30 cm voneinander entfernt sein. Losnehmbare Durchzüge sollten aus nichtrostendem Drahtseil sein.
+6 Brandschutz
   Abweichend von Kapitel 2 Regel 3 gelten nachfolgende Regeln:
-2.1 Wenn bei Unterkunftsräumen, die unter Deck liegen und die keinen direkten Zugang vom freien Deck haben, die Gefahr besteht, dass bei einem Brand der Fluchtweg durch die benachbarten Räume abgeschnitten wird, so muss ein Notausstieg vorgesehen werden. Die lichte Weite des Notausstiegs muss mindestens 400 mm x 400 mm betragen. Sie sollte jedoch möglichst 600 mm x 600 mm aufweisen.
-2.2 Lüfter mit Kraftantrieb müssen von außen abgeschaltet werden können.
-2.3 Öffnungen der Lüftungseinrichtungen für Unterkunfts- und Maschinenräume müssen von außen verschließbar sein.
-2.4 Jeder Raum ist mit einem 6-kg-Feuerlöscher mit einem Löschmittel für die Brandklassen ABC auszurüsten. Bei mehreren miteinander verbundenen Räumen genügt ein Feuerlöscher. Im Ruderhaus, in der Plicht oder außen am Eingang zum Unterkunftsbereich ist ein weiterer 6-kg-Feuerlöscher der Brandklassen ABC vorzusehen. Für die Kochstelle ist ein festeingebauter 6-kg-Feuerlöscher der Brandklassen BC vorzusehen, der von außerhalb des Aufstellungsraumes auszulösen ist.
-2.5 Die Kochnische oder die Küche ist mit nicht brennbaren Platten zu verkleiden.
-2.6 Decksdurchführungen von Rauchrohren sind feuersicher auszuführen. Rauchhauben sind vorzusehen.
-2.7 Es muss eine absperrbare Belüftung mit einem Mindestquerschnitt der Rauchrohre von 150 cm² für die Kombüse und die Wohnräume vorhanden sein.
-2.8 Ölheizungen sind mit geeigneten Ölreglern auszurüsten, die längsschiffs einzubauen sind. Unterhalb von Ölbrenner u. ä. müssen Ölauffangwannen vorhanden sein. Für Öl-Heizungsanlagen, für Maschinenraumlüfter und für Brennstoff-Förderpumpen sind E-Notstoppeinrichtungen vorzusehen.
-2.9 Wandungen der Maschinenräume müssen mit nicht brennbarem Material isoliert sein, dessen Oberfläche schwer entflammbar und gegen Ölnebel dicht ist. Stahlwandungen brauchen nur an angrenzenden Räumen isoliert zu sein, wobei die Mindestdicke des Isoliermaterials bei Stahlwandungen 30 mm und bei anderen Wandungen 50 mm bei jeweils einer Mindestrohdichte von 150 kg/m³, betragen muss. Maschinenraumoberlichter müssen mit Drahtglas versehen und von außen verschließbar sein. Die Maschinenraumtür muss hinreichend gasdicht und mit einem Selbstschließer ausgerüstet sein. Brennstoff- und Lenzleitungen einschließlich der Filter und Armaturen müssen aus Stahl gefertigt sein.
-2.10 Brennstofftanks aus Aluminium sind bei Aufstellung im Maschinenraum nicht zulässig. Wenn der Brennstofftank außerhalb des Maschinenraumes und somit außerhalb des Aufstellungsbereiches von Verbrennungsmotoren aufgestellt ist, kann Aluminium unter der Voraussetzung akzeptiert werden, dass die Tankwand nicht unmittelbar an den Maschinenraum oder an den Maschinenraumfrontschott angrenzt. An den Brennstofftanks müssen von außerhalb des Maschinenraumes bedienbare und zugelassene Fernabsperreinrichtungen (Schnellschlussventile), vorhanden sein. Brennstofftanks müssen mit einem Füllstandsanzeiger ausgestattet sein.
-2.11 Flexible Schlauchverbindungen im Brennstoff- und Seewassersystem dürfen nicht länger als 500 mm sein.
-2.12 Abgasleitungen sind aus Stahl zu fertigen, zu isolieren und mit Stahlblech abzudecken.
-2.13 Der Maschinenraum muss mit einer fest eingebauten Feuerlöschanlage (z. B. CO2, Pulver, FM 200) ausgestattet sein, die von Hand von außerhalb des Maschinenraumes ausgelöst werden kann. Bei Pulverlöschanlagen beträgt die erforderliche Pulvermenge 0,5 bis 1 kg pro m³ leeren Raumes. Die Verteilung des Löschmittels muss durch Rohrleitungen und Pulverdüsen erfolgen, die insbesondere über den Antriebsaggregaten anzuordnen sind.
-2.14 Alle Isoliermaterialien müssen nicht brennbar, alle Oberflächenmaterialien schwer entflammbar sein.
-2.15 Alle Abfallbehälter müssen aus nicht brennbarem Werkstoff hergestellt sein und dürfen keine Öffnungen in Seitenwänden oder Böden haben. Papierkörbe müssen so gebaut sein, dass das Herausschlagen von Flammen verhindert wird.
-2.16 Gardinen und Vorhänge müssen schwer entflammbar sein.
-2.17 Die einzelne Schlauchlänge von Feuerlöschschläuchen darf 20 m, in Maschinenräumen 15 m nicht überschreiten.
-2.18 Eine Brandschutzausrüstung muss nicht mitgeführt werden.
-3. Rettungsmittel
-  Abweichend von Kapitel 2 Regel 4 gelten nachfolgende Regeln:
-3.1 Es müssen aufblasbare Rettungsflöße mit einem Gesamtfassungsvermögen zur Aufnahme aller an Bord befindlichen Personen mitgeführt werden. Die Flöße dürfen in geprüften Flachcontainern verpackt sein, wenn die Aufstellung runder Container aus örtlichen Gründen nicht möglich ist und die Berufsgenossenschaft im Einzelfall ausdrücklich zugestimmt hat. Die Flöße müssen an Bord so gelagert werden, dass sie frei aufschwimmen können. Zurrungen müssen mit Wasserdruckauslösern versehen sein.
-3.2 Für jede Person muss eine Rettungsweste an Bord sein, außerdem für jedes Mitglied der Wache eine nach einer EU-Norm zugelassene aufblasbare Arbeitssicherheitsweste.
-3.3 Für jedes Besatzungsmitglied muss ein Eintauch- oder Wetterschutzanzug an Bord sein.
-3.4 Beim gewerblichen Einsatz in der Offshore-Industrie muss ein Eintauch- oder Wetterschutzanzug für jede Person, die zusätzlich zur Besatzung an Bord ist, vorgesehen werden.
-3.5 Rettungsringe müssen nach folgenden Anforderungen an Bord mitgeführt werden:
-  a) Schiffslänge bis 15 m: zwei Rettungsringe, davon einer mit selbstzündendem Nachtlicht, einer mit 30 m langer schwimmfähiger Leine. Bei Ausbildungsfahrzeugen muss einer der Rettungsringe mit Treibanker, Flagge, Doppeltonpfeife und Farbbeutel versehen sein.
-  b) Schiffslänge über 15 m: vier Rettungsringe, davon einer mit selbstzündendem Licht, einer mit 30 m langer schwimmfähiger Leine. Bei Ausbildungsfahrzeugen muss einer der Rettungsringe mit Treibanker, Flagge, Doppeltonpfeife und Farbbeutel versehen sein.
-  Rettungsringe in Hufeisenform können verwendet werden.
-3.6 Eine Leiter mit festen Holmen und festen Sprossen, die beim Einsatz heruntergeklappt von Deck bis mindestens 50 cm unter die Wasseroberfläche reicht und an Deck sicher zu befestigen ist, muss vorhanden sein.
-4. Sonstige Ausrüstung
-4.1 Die Ausrüstung mit einem NAVTEX-Empfänger ist nur erforderlich, wenn der UKW-Bedeckungsbereich deutscher Küstenfunkstellen verlassen wird.
-4.2 Die Anbringung der Positionslaternen, der Schallsignalanlagen sowie die Aufstellung der Funkausrüstung, Kompasse und nautischen Geräte und Instrumente müssen vom Bundesamt für Seeschifffahrt und Hydrographie (BSH) geprüft und genehmigt sein. Es sind mitzuführen:
-  1 Ankerausrüstung nach Bauvorschrift einer Klasse,
-  1 Schleppleine von mindestens der fünffachen Schiffslänge,
-  1 Sturmfock (nur Segelfahrzeug),
-  1 Schneideapparat für stehendes Gut (nur Segelfahrzeug),
-  1 Rettungssignaltafel,
-  2 Eimer,
-  1 Sicherheitsgurt für jede an Bord befindliche Person,
-  1 Notruder oder eine Reservepinne.
-5. Fahrtbereich
-  Der Fahrtbereich wird entsprechend dem vorgesehenen Einsatz, soweit dies wegen der Besonderheiten des Fahrzeuges erforderlich ist, mit einer Wetterklausel und örtlich begrenzt, erteilt. Bei Fahrten darf ein Abstand von 10 Seemeilen von der Küstenlinie bei mittlerem Hochwasser nur dann überschritten werden, wenn durch eine anerkannte Organisation nachgewiesen wird, dass die Festigkeit des Schiffskörpers für eine entsprechend große Entfernung vom Land ausreicht. Für jeden Fahrgast muss ein Sitzplatz in seefest eingedeckten Räumen vorhanden sein.
-6. Ausnahmen und Befreiungen
+6.1 Wenn bei Unterkunftsräumen, die unter Deck liegen und die keinen direkten Zugang vom freien Deck haben, die Gefahr besteht, dass bei einem Brand der Fluchtweg durch die benachbarten Räume abgeschnitten wird, so muss ein Notausstieg vorgesehen werden unter Beachtung der Regel 2.1.
+6.2 Lüfter mit Kraftantrieb müssen von außen abstellbar sein und Öffnungen der Lüftungseinrichtungen für Unterkunfts- und Maschinenräume müssen von außen verschließbar sein unter Beachtung der Regel 2.1.
+6.3 Flüssiggasanlagen müssen die Vorgaben der DIN EN ISO 10239:2015-05 in Verbindung mit dem Arbeitsblatt G 608, Ausgabe März 2012, des Deutschen Vereins des Gas- und Wasserfaches (DVGW) erfüllen, das beim DVGW e. V., 53123 Bonn, zu beziehen ist. Der Betrieb und die wiederkehrenden Prüfungen der Anlage müssen gemäß dem vorgenannten DVGW Arbeitsblatt G 608 erfolgen. Die wiederkehrenden Prüfungen sollen im Abstand von nicht mehr als 2 Jahren erfolgen.
+6.4 Öl-Heizungsanlagen, Maschinenraumlüfter und Brennstoff-Förderpumpen müssen über Notstoppeinrichtungen außerhalb der Räume, in denen sich diese Anlagen befinden, verfügen.
+6.5 Benzin darf ausschließlich zum Betrieb von Außenbordmotoren eingesetzt werden. Andere Einsatzzwecke, insbesondere in Kochgeräten oder Heizungsanlagen, sind unzulässig.
+6.6 Kraftstoffleitungen sollen, soweit dies baulich möglich ist, aus Metall gefertigt sein. Schläuche sind in begrenzten Längen zulässig, sofern sie mindestens den Anforderungen nach DIN EN ISO 7840:2021-05 entsprechen. Nicht feuerwiderstandsfähige Kraftstoffschläuche dürfen nicht verwendet werden.
+6.7 Maschinenräume müssen mit nicht brennbarem Material isoliert sein, welches gegen Ölnebel dicht ist. Hinsichtlich des Materials ist Regel 2.1 zu beachten.
+6.8 Einrichtungsmaterialien müssen schwer entflammbar sein unter Beachtung der Regel 2.1.
+6.9 Die einzelne Schlauchlänge von Feuerlöschschläuchen darf 15 m, in Maschinenräumen 10 m nicht überschreiten. Es müssen mindestens so viele Feuerlöschschläuche vorhanden sein, dass mit einem von einer einzigen Schlauchlänge gespeisten Wasserstrahl jede Stelle des Schiffes erreicht werden kann. Fahrzeuge mit einer Länge von weniger als 12 m benötigen keine Feuerlöschpumpe und keine Feuerlöschschläuche.
+6.10 Eine persönliche Brandschutzausrüstung muss nicht mitgeführt werden.
+6.11 Feuerlöscher- und Feuerlöscheinrichtungen müssen der nachfolgenden Tabelle entsprechen:
+  |  | ABC 6 kg | CO2 5 kg | Löschdecke | Feuerlöschanlage (Co2/Aerosol) |
+  | Aufbauten L > 12 m | 3 (1 je 20 m2) |  |  |  |
+  | Aufbauten L ≤ 12 m | 1 |  |  |  |
+  | Ruderhaus | 1 | 1 |  |  |
+  | Kochstelle | 1 |  | 1 |  |
+  | Maschinenraum kleiner 120 kW installierte Leistung |  | 1 |  |  |
+  | Maschinenraum größer 120 kW installierte Leistung |  | 2 |  | 1 (alternativ zu CO2-Löschern) |
+  | Batterieraum |  | 1 |  |  |
+  | Raum mit brennbaren Flüssigkeiten | 1 |  |  |  |
+  | Schalttafel |  | 1 |  |  |
+6.12 Kleinfahrzeuge, die mit elektrischen Antriebssystemen ausgerüstet sind, müssen über eine für das spezifische Batteriesystem geeignete Löschmöglichkeit verfügen.
+7 Maschinenbauliche Einrichtungen
+7.1 Hinsichtlich der einzelnen Komponenten der maschinenbaulichen Einrichtungen ist die Regel 2.1 zu beachten. Dies gilt insbesondere für
+  a) Hauptantriebs- und Hilfsmotoren einschließlich ihrer Starteinrichtungen, Verschlussvorrichtungen sowie für Öffnung, Anordnung und Querschnitt der Zuluftleitung und Fortluftöffnung,
+  b) Lenzsysteme und kombinierten Lenz-/Seewassersysteme einschließlich Alarmeinrichtungen in geschlossenen Maschineräumen,
+  c) Brennstoffsysteme und Brennstofftanks, Brennstoffleitungen aus Stahlrohren und in begrenztem Umfang eingesetzte Schläuche,
+  d) Steuerung und Antriebsanlagen,
+  e) Propellerwellen und Getriebe,
+7.2 Hauptantriebsmotoren müssen Dieselmotoren oder Elektromotoren sein. Benzinmotoren sind nur als Außenbordmotoren zulässig.
+7.3 Hauptantriebsmotoren müssen mit einem Typenschild ausgerüstet sein. Auf dem Typenschild der Hauptantriebsmotoren sind nachstehende Angaben vorzusehen: Nennleistung als Dauerleistung und zugehörige Nenndrehzahl, Motornummer, Baujahr, Typenbezeichnung des Motors, Hersteller.
+7.4 Die in Kleinfahrzeugen verbauten Akkumulatoren müssen wartungsfrei sein.
+7.5 Anzahl und Kapazität von Lenzpumpen müssen der nachfolgenden Tabelle entsprechen, unbeschadet der Regel 9.7:
+  |  | 3,60 m ≤ L < 8 m | 8 m ≤ L < 12 m | 12 m ≤ L < 24 m |
+  | Kraftgetriebene Lenzpumpe | – | 1 | 1 |
+  | Handlenzpumpe | 1 | 1 | 1 |
+  | Kapazität | 5 m3/h | 8 m3/h | 12 m3/h |
+  Zum Abpumpen von ölhaltigen Rückständen in der Bilge ist eine Handlenzpumpe vorzusehen.
+  Sofern der Hauptantrieb über einen Elektromotor und Akkumulatoren erfolgt, sind gesonderte Bauvorschriften zu beachten, welche mit der Berufsgenossenschaft abzustimmen sind.
+7.6 Für alle Kleinfahrzeuge ist eine Notsteuermöglichkeit vorzusehen, die im Bedarfsfall schnell in Betrieb genommen werden kann. Kleinfahrzeuge, die mit einer kraftbetriebenen Hauptruderanlage ausgerüstet sind, müssen über eine Hilfsruderanlage verfügen. Die Hilfsruderanlage muss stark genug und in der Lage sein, das Kleinfahrzeug bei einer für die Steuerfähigkeit ausreichenden Geschwindigkeit steuern zu können. Bei Rudern mit Kraftantrieb muss die Ruderlage am Hauptruderstand angezeigt werden. Bei Kleinfahrzeugen mit einer mechanischen Hauptruderanlage ist eine Notpinne ausreichend. Bei Kleinfahrzeugen mit einer Länge unter 5 m ist ein Satz Paddel ausreichend.
+8 Rettungsmittel
+8.1 Abweichend von Kapitel 2 Regel 4 muss nachfolgende Ausrüstung mitgeführt werden:
+  | Länge Ausrüstung | 3,60 m ≤ L < 8 m | 8 m ≤ L < 12 m | 12 m ≤ L < 24 m |
+  | Rettungsfloß mit Kapazität für alle an Bord befindlichen Personen | – | X | X |
+  | Eintauchanzug für jedes Besatzungsmitglied | – | X | X |
+  | Rettungsweste für jede an Bord befindliche Person | X | X | X |
+  | Arbeitssicherheitsweste für jedes Besatzungsmitglied | X | X | X |
+  | Wärmeschutzhilfsmittel bei Fahrten von November bis März | 2 | 4 | 8 |
+  | Rettungsring | 1 | 2 | 4 |
+  | a) davon Rettungsring mit selbstzündendem Nachtlicht | 1 | 1 | 1 |
+  | b) davon mit 30 m schwimmfähiger Leine | – | 1 | 1 |
+  | Fallschirmsignale rot | 4 | 8 | 12 |
+  | Handfackeln rot | 2 | 4 | 8 |
+  | Rauchtöpfe orange | 2 | 2 | 2 |
+  Legende: X = Ja
+8.2 Rettungsflöße sind grundsätzlich auf dem Wetter- oder Freiborddeck anzuordnen. Dabei sind äußere Einwirkungen wie etwa Seeschlag zu berücksichtigen. Eine Lagerung in wasserdichten oder selbstlenzenden Abteilungen ist ebenfalls zulässig, sofern die Abdeckung auch unter Wasserdruck von einer Person leicht zu öffnen ist. Das Aussetzen von Rettungsflößen darf nicht durch die Anordnung oder Lagerung in geschlossenen Abteilungen behindert werden.
+8.3 Bei Sportausbildungsfahrzeugen muss für jede an Bord befindliche Person die Arbeitssicherheitsweste mit Sicherheitsgurt und Gurtleine sowie Karabinerhaken nach DIN EN ISO 12402-2:2021-04 mit einem Mindestauftrieb von 150N mitgeführt werden.
+8.4 Eine sicher an Deck befestigte Leiter mit festen Holmen und festen Sprossen muss vorhanden sein, die beim Einsatz heruntergeklappt von Deck bis mindestens 50 cm unter die Wasseroberfläche reicht. Die Leiter muss für eine im Wasser befindliche Person ohne fremde Hilfe zugänglich sein oder von ihr ohne fremde Hilfe entfaltet werden können.
+8.5 Pläne und Verfahren zur Bergung von Personen aus dem Wasser müssen vorhanden sein.
+8.6 Die für Kleinfahrzeuge vorgeschriebenen Rettungsmittel müssen nach der Richtlinie 2014/90/EU, die nach Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz anzuwenden ist, zugelassen sein.
+9 Sonstige Ausrüstung
+9.1 Funk
+  1. Die Funkausrüstung muss den Anforderungen des Kapitels IV SOLAS für das Fahrtgebiet entsprechen.
+  2. Die Ausrüstung mit einem NAVTEX-Empfänger ist nur erforderlich, wenn der UKW-Bedeckungsbereich deutscher Küstenfunkstellen verlassen wird.
+  3. Abweichend von Regel 9.1.1 muss bei Fahrzeugen mit einer Länge von weniger als 6 m
+    a) ein tragbares UKW-Sprechfunkgerät mit einer Sende- und Empfangseinheit für Überlebensfahrzeuge mit Reservebatterie für Notfälle, die über ein nicht ersetzbares Siegel verfügt, an Bord vorhanden sein und
+    b) eine Satelliten-Notfunkbake (EPIRB) mit integralem globalen Navigationssatellitensystem (GNSS) installiert sein.
+  4. Abweichend von Regel 9.1.1 können bei Sportausbildungsfahrzeugen für die Fahrtgebiete A2 und A3 auch andere Satellitenkommunikationsanlagen verwendet werden, sofern diese vom Bundesamt für Seeschifffahrt und Hydrographie als gleichwertig anerkannt sind, eine Dopplungsanforderung kann entfallen.
+  5. Bei Segelfahrzeugen, bei denen die Funkantenne am Mast angebracht ist, ist eine Notantenne vorzusehen.
+9.2 Die Anbringung der Positionslaternen und die erforderliche Schallsignalanlage müssen den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See (Kollisionsverhütungsregeln) entsprechen.
+9.3 Das Fahrzeug muss mit AIS-SART oder Radar-SART und GPS-Empfänger ausgerüstet sein sowie mit automatischem Schiffsidentifizierungssystem (AIS) der Klasse A oder B, im Fall der gewerbsmäßigen Fahrgastbeförderung der Klasse A.
+9.4 Die Navigationsausrüstung muss den Anforderungen des Abschnitt C.I.4 der Anlage 1 entsprechen:
+  a) Bei Fahrzeugen ab einer Länge von 15 m muss die Ausrüstung den Anforderungen des Abschnitt C.I.4 Nummer 1.1 und Nummer 3 der Anlage 1 entsprechen.
+  b) Bei Fahrzeugen mit einer Länge kleiner 15 m muss die Ausrüstung den Anforderungen des Abschnitt C.I.4 Nummer 1.2 und Nummer 2 der Anlage 1 entsprechen.
+  c) Bei Fahrzeugen mit einer Länge unter 6 m kann die Berufsgenossenschaft in Abhängigkeit ihrer Größe und baulichen Möglichkeiten von Teilen der Ausrüstungspflicht Abweichungen zulassen.
+9.5 Segelfahrzeuge der Entwurfskategorie „A“ oder „B“ nach Anhang I der Richtlinie 2013/53/EU müssen eine ausreichend dimensionierte Sturmbesegelung, insbesondere eine Sturmfock sowie ein Großsegel mit mindestens 2 Reffreihen, mitführen. Wenn das Großsegel mit einer Rollanlage ausgerüstet ist, muss ein unabhängig von der Rollanlage setzbares Try-Segel mitgeführt werden.
+9.6 Auf Segelfahrzeugen muss ein Schneideapparat für stehendes Gut vorhanden sein.
+9.7 Zusätzlich zu den nach Regel 7.5 geforderten (Hand-)Lenzpumpen müssen mindestens zwei Schlagpützen sowie geeignetes Material zur Leckbekämpfung an Bord vorhanden sein.
+9.8 Eine Sicherheitseinweisung für Fahrgäste und Sportbootführerscheinanwärter sowie eine Einführung in die Sicherheitsrolle hat vor jedem Fahrtantritt zu erfolgen und ist zu dokumentieren.
+10 Fahrtbereich und Fahrtbeschränkungen
+10.1 Die Berufsgenossenschaft kann den Fahrtbereich entsprechend dem vorgesehenen Einsatz örtlich begrenzt erteilen und mit einer Wetterklausel versehen soweit dies wegen der Besonderheiten des Fahrzeugs erforderlich ist. Dabei können neben dem vorgesehenen Einsatzzweck insbesondere Alter und Erhaltungszustand, verwendetes Rumpfmaterial und Ermüdungserscheinungen sowie die im vorgesehenen Fahrtgebiet zu erwartenden Wetterbedingungen berücksichtig werden.
+10.2 Im Fall der Regel 2.1 Buchstabe a darf der Fahrtbereich die von der jeweiligen Klassifikationsgesellschaft bescheinigte Auslegung des Fahrzeuges nicht überschreiten.
+10.3 Im Fall der Regel 2.1 Buchstabe b gilt ein maximaler Fahrtbereich entsprechend nachfolgender Tabelle:
+  | Entwurfskategorie Bootsart | C max. Windstärke 6 Bft. max. Wellenhöhe 2 m | B max. Windstärke 8 Bft. max. Wellenhöhe 4 m | A max. Windstärke> 8 Bft. max. Wellenhöhe> 4 m |
+  | Offen | 5 sm | – | – |
+  | Teilgedeckt | 10 sm | 20 sm | – |
+  | Gedeckt | 35 sm | 150 sm | unbeschränkt |
+  | Kleinfahrzeug zur Fahrgastbeförderung mit einer Länge von weniger als 8 m | – | 6 sm | 6 sm |
+  | Kleinfahrzeug zur Fahrgastbeförderung mit einer Länge von 8 m und mehr | – | 20 sm | 20 sm |
+10.4 Die Berufsgenossenschaft legt die höchstzulässige Anzahl der Personen an Bord fest.
+10.5 Kleinfahrzeuge, die gewerbsmäßig Fahrgäste befördern, dürfen eine Fahrt nicht antreten
+  a) wenn Eisbildung oder bestehendes Eis im Fahrtgebiet vorhergesagt ist,
+  b) bei stürmischen Winden (ab einer Windstärke von 8 Beaufort) oder Sturmwarnung,
+  c) bei auflandigem Starkwind mit einer Windstärke von 6 oder 7 Beaufort oder
+  d) bei einer Sichtweite von weniger als 500 m.
+10.6 Regel 10.5 Buchstabe d gilt nicht, wenn ein auf der Grundlage der Richtlinie 2014/90/EU zugelassenes und einwandfrei arbeitendes Radargerät vorhanden und außer dem Schiffsführer eine weitere fachkundige Person zur Bedienung des Radargerätes an Bord ist.
+10.7 Bei ablandigem Starkwind darf der Bereich der windgeschützten Küste nicht verlassen werden. Außerhalb der windgeschützten Küste müssen Kleinfahrzeuge bei aufkommendem Starkwind oder bei Sturm- oder Starkwindwarnungen unverzüglich Landschutz aufsuchen, bei aufkommendem Sturm muss unverzüglich der nächste Hafen angelaufen werden.
+10.8 Maßgeblich für die Entscheidung des Schiffsführers, eine geplante Fahrt zu unterlassen oder eine schon begonnene Fahrt zu ändern oder abzubrechen, sind die vom Deutschen Wetterdienst herausgegebenen Starkwind- und Sturmwarnungen sowie die Eisberichte und Eiskarten des Bundesamts für Seeschifffahrt und Hydrographie.
+11 Abweichende Regelung und Ausnahmen
   Die Berufsgenossenschaft kann Ausnahmen zulassen, soweit eine vergleichbare Sicherheit des Fahrzeugs auf andere Weise gewährleistet ist. Insbesondere kann für ein Kleinfahrzeug, für das aufgrund seiner geringen Größe oder besonderen Bauart die Anforderungen dieses Kapitels nicht erfüllbar sind, im Einzelfall bestimmt werden, welche Anforderungen erfüllt werden müssen, damit die an Bord befindlichen Personen und andere Verkehrsteilnehmer nicht gefährdet werden.
-7. Ergänzende Anforderungen
-  Für Fahrzeuge, die nicht den Klassifikationsregeln einer anerkannten Organisation entsprechen, gilt:
-7.1 Bauart und Bauweise
-  Ohne Inhalt.
-7.2 Maschinenbauliche Einrichtungen
-7.2.1 Hauptantriebs- und Hilfsdieselmotoren
-7.2.1.1 Hauptantriebsmotoren müssen Dieselmotoren sein. Benzinmotoren sind nur als Außenbordmotoren zulässig.
-7.2.1.2 Hauptantriebsmotoren müssen mit einem Typenschild ausgerüstet sein. Auf dem Typenschild der Hauptantriebsmotoren sind nachstehende Angaben vorzusehen: Nennleistung als Dauerleistung und zugehörige Nenndrehzahl, Motornummer, Baujahr, Typenbezeichnung des Motors, Hersteller.
-7.2.1.3 Die Hauptantriebsmotoren sind auf stählernen Motorpratzen zu lagern. Dieses gilt sowohl für die starre wie auch für die elastische Lagerung. Überlaminierte Fundamente im Bereich der Motorpratzen sind nicht zulässig.
-7.2.1.4 Hauptantriebsmotoren müssen mit Einrichtungen versehen sein, die eine selbsttätige Abstellung des Hauptantriebsmotors bei Ausfall der Schmierölversorgung sicherstellen (Schmierölmangelsicherung). Die Einstellung der Druckgeber der Schmierölmangelsicherung muss nachstehender Tabelle entsprechen:
-  | Einstellung der Druckgeber | Schaltdruck des Druckgebers | zeitliche Verzögerung |
-  | Alarm | 0,8 oder 0,9 bar | keine bzw. 2 s |
-  | Selbsttätige Abstellung | 0,6 bar | keine bzw. 2 s |
-  Im Steuerhaus kann eine Abstellmöglichkeit der Schmierölmangelsicherung vorgesehen werden. Die Abstellung muss durch eine Warnleuchte im Steuerhaus optisch angezeigt sein.
-7.2.1.5 Das Schmierölsystem der Hauptantriebsmotoren muss so ausgeführt sein, dass auch bei ungünstigsten Seegangsbedingungen die Ansaugöffnung der Saugleitung der Schmierölpumpe in das Schmieröl der Ölwanne eintaucht.
-7.2.1.6 Für wassergekühlte Hauptantriebsmotoren müssen zwei Pumpen im Seekühlwassersystem vorhanden sein. Die zweite Pumpe kann auch eine kraftbetriebene Lenz- oder Deckwaschpumpe sein. Für wassergekühlte Hauptantriebsmotoren mit einer Leistung von 75 kW und mehr müssen zwei Pumpen im Frischkühlwassersystem vorhanden sein; es genügt eine Pumpe, wenn eine Notkühlung über eine Schlauchverbindung leicht hergestellt werden kann und eine Reservepumpe zur Verfügung steht. Bei einer Leistung bis 75 kW genügt eine Pumpe, wenn eine Notkühlung über eine Schlauchverbindung leicht hergestellt werden kann. Bei Kielrohrkühlung sind im Frischkühlwassersystem Absperrschieber an der Innenseite der Bordwand vorzusehen.
-7.2.1.7 Werden auf Schiffen mit einer Bruttoraumzahl von 50 und mehr die Dieselmotoren elektrisch gestartet, so sind für Hauptantriebs- und Hilfsdieselmotoren getrennte Starterbatterien vorzusehen, die so zu schalten sind, dass jeweils der eine Motor auch mit der Batterie des anderen Motors gestartet werden kann. Starterbatterien für Dieselmotoren dürfen nicht als Batterien für das Bordnetz verwendet werden. Mit Rücksicht auf die mechanische und thermische Beanspruchung des Starters muss dabei die Kapazität der für eine bestimmte Startergröße verwendeten Batterie begrenzt werden. Bei Schiffen mit einer Bruttoraumzahl bis 50 in der Watt- und Küstenfahrt genügt eine Starterbatterie für Haupt- und Hilfsmotor. Eine weitere Batterie, die für die Versorgung des Bordnetzes vorgesehen ist, muss auch so geschaltet werden können, dass der Hauptantriebsmotor auch mithilfe dieser Batterie gestartet werden kann. Der Betrieb mit nur einer Batterie – sowohl zum Starten des Hauptmotors als auch zur Versorgung des Bordnetzes – ist nur dann zulässig, wenn eine Überwachungseinrichtung den Lade- und Kapazitätszustand der Batterie anzeigt.
-7.2.1.8 Erfolgt der Anlassvorgang mit Druckluft, so sind für Hauptantriebsmotoren mit einer Leistung von 75 kW und mehr zwei Anlassluftbehälter und zwei Anlassluftkompressoren vorzusehen. Einer der Kompressoren kann an den Hauptmotor angehängt sein. Bei Wendegetriebeanlagen oder Verstellpropelleranlagen reicht ein Anlassluftbehälter.
-7.2.1.9 Anlasseinrichtungen von nicht umsteuerbaren Hauptantriebsmotoren müssen so ausgeführt sein, dass sechs Anlassvorgänge nacheinander möglich sind.
-7.2.1.10 Hauptantriebsmotoren müssen mit umschaltbaren Schmieröl-Doppelfiltern ausgerüstet sein. Bei Hauptantriebsmotoren bis zu einer Nennleistung von 150 kW, deren Schmierölversorgung aus der Motorölwanne erfolgt, können Einfachfilter vorgesehen werden, sofern sie mit einem dem Filter nachgeschalteten Druckalarm ausgerüstet sind und einen Filterwechsel während des Betriebes ermöglichen. Zu diesem Zweck ist eine Umgehung mit handbetätigten Absperrarmaturen vorzusehen.
-7.2.1.11 Abgasleitungen von Dieselmotoren müssen vollständig asbestfrei isoliert sein. Die Isolierung der Abgasleitung im Bereich des Dieselmotors muss vollständig mit einer Stahlblechverkleidung versehen sein. Bei Dieselmotoren mit einer Nassabgasleitung ist an der höchsten Stelle der Abgasleitung eine Entlüftung oder eine gleichwertige Einrichtung vorzusehen, die sicherstellt, dass kein Seewasser in die Antriebsmotoren gelangt.
-7.2.1.12 Die Belüftung des Maschinenraumes muss durch Maschinenraumlüfter erfolgen, wobei die erforderliche Zufuhr an Verbrennungsluft der Dieselmotoren und Heizungsanlagen sowie die Luft für die Wärmeabfuhr der vorstehenden Aggregate zu berücksichtigen ist. Die Mindest-Volumenströme sind für jeden wassergekühlten Hauptantriebs- und Hilfsdieselmotor nach der nachstehenden Tabelle einzeln zu ermitteln und zu addieren; Luft für Heizungsanlagen muss nicht zusätzlich ermittelt werden.
-  | Leistung eines Hauptantriebs/ Hilfsdiesel- motors | Volumenstrom an Luft | Querschnitt der Zuluftleitung | Leistung eines Hauptantriebs/ Hilfsdiesel- motors | Volumenstrom an Luft | Querschnitt der Zuluftleitung |
-  | kW | m3/h | m2 | kW | m3/h | m2 |
-  | 10 20 30 40 50 100 150 | 270 540 800 1 080 1 350 2 700 3 800 | 0,02 0,04 0,06 0,08 0,10 0,20 0,26 | 200 250 300 350 400 450 500 | 4 800 5 800 6 600 7 400 8 100 8 900 9 600 | 0,33 0,40 0,46 0,52 0,57 0,62 0,67 |
-7.2.1.13 Werden Maschinenleistungen von mehr als 500 kW eingebaut, so ist die Maschinenraumlüftung nach DIN ISO 8861:1998-10 auszulegen. Können freie Ansaugquerschnitte nicht ausgeführt werden, müssen Drucklüfter mit den Volumenströmen nach der Tabelle der DIN ISO 8861:1998-10 vorgesehen werden. Bei dem Einsatz von Drucklüftern können die freien Ansaugquerschnitte um 40 % gegenüber den Tabellenwerten vermindert werden.
-7.2.1.14 Ausreichende Zu- und Abluftbedingungen müssen jederzeit sichergestellt sein. Die Öffnung der Zuluftleitung und die Fortluftöffnung sind so anzuordnen, dass eine gute Durchspülung des Raumes sichergestellt ist. Luftkurzschlüsse sind zu vermeiden. Es sind Fortluftöffnungen mit ausreichendem Querschnitt vorzusehen. Austrittsöffnungen von Lüfterkanälen in Maschinenräumen dürfen nicht so angeordnet sein, dass in die Kanäle eingedrungenes Seewasser auf elektrische Einrichtungen trifft. Bei luftgekühlten Hauptantriebsmotoren ist die Kühlluft direkt ins Freie abzuführen, oder es ist die errechnete Kühlluft den vorgenannten Werten zuzurechnen.
-7.2.1.15 Zu- und Fortluftöffnungen des Maschinenraumes sind mit Brandklappen, die vom freien Deck zu betätigen sein müssen, verschließbar herzurichten. Sie sind möglichst hoch anzuordnen. Einrichtungen zur Herstellung des Verschlusszustandes, insbesondere Brandklappen, und Türen müssen so angeschlagen sein, dass man die Verschlüsse bzw. Arretierungen betätigen kann, ohne in den Bereich der zu verschließenden Querschnitte treten oder hineingreifen zu müssen. Verschlüsse und Arretierungen müssen ohne Werkzeug leicht und schnell lösbar sein. Die Halterung von Verschlussdeckeln auf Stiftschrauben ist unzulässig. Scharniere und Ausrüstung von Brandklappen müssen hinsichtlich Werkstoffpaarung und Lagerspiel seewasserbeständig, wartungsfrei und zugänglich sein.
-7.2.2 Lenzeinrichtungen
-7.2.2.1 Kleinfahrzeuge müssen mit zwei kraftbetriebenen Lenzpumpen ausgerüstet sein. Eine der kraftbetriebenen Lenzpumpen kann an den Hauptantriebsmotor angehängt sein.
-7.2.2.2 Kleinfahrzeuge mit einer Bruttoraumzahl von 10 und mehr in der Watt- und Küstenfahrt müssen mit zwei Lenzpumpen ausgerüstet sein. Eine Lenzpumpe muss kraftbetrieben und kann an den Hauptantriebsmotor angehängt sein. Die zweite Lenzpumpe muss von der Hauptantriebsanlage unabhängig und kann eine fest eingebaute Handlenzpumpe sein.
-7.2.2.3 Kleinfahrzeuge mit einer Bruttoraumzahl unter 10 müssen nur mit einer Handlenzpumpe mit einem Fördervolumen von mindestens 5 m³/h ausgerüstet sein.
-7.2.2.4 Handlenzpumpen können im Maschinenraum oder an Deck aufgestellt sein. Die kraftbetriebenen Lenzpumpen und die Handlenzpumpen müssen aus allen Abteilungen des Schiffes – mit Ausnahme der Vorpiek – lenzen können. Die an den Hauptmotor angehängten Lenzpumpen müssen auskuppelbar sein.
-7.2.2.5 Transportable elektrische Tauchpumpen und transportable Lenzpumpen mit Benzinmotor können die fest eingebauten kraftbetriebenen Lenzpumpen und Handlenzpumpen nicht ersetzen.
-7.2.2.6 Das Mindest-Fördervolumen der kraftbetriebenen Lenzpumpen soll bei Schiffen mit einer Bruttoraumzahl von mehr als 50 12 m³/h und bei mehr als 10 8 m³/h sein.
-7.2.2.7 In kombinierten Lenz-/Seewassersystemen sind als Sicherheit gegen das Eindringen von Seewasser Armaturen, insbesondere Rückschlagventile oder Unterlaufhähne,
-  a) auf der Druckseite der Pumpe:
-    ein Rückschlagventil oder
-    die Austrittsleitung im Bogen hochgeführt und der Austritt ausreichend hoch über der Wasserlinie endend
-  b) auf der Saugseite der Pumpe:
-    zwei Rückschlagventile oder
-    ein Unterlaufhahn und ein Rückschlagventil oder
-    ein L-Hahn (kein T-Hahn) und ein Rückschlagventil
-  vorzusehen.
-7.2.2.8 Bei einem vom Seewassersystem getrennten Lenzsystem reicht auf der Saugseite ein Rückschlagventil aus; auf der Druckseite der Pumpen sind die Armaturen wie bei einem kombinierten Lenz- und Seewassersystem auszuführen. Schläuche in Lenz- und Seewassersystemen dürfen nur in begrenztem Umfange eingebaut sein. Die Schläuche müssen flammbeständig, von einer anerkannten Organisation baumustergeprüft und als solche gekennzeichnet sein. Die Schlauchverbindungen dürfen eine Länge von 500 mm nicht überschreiten.
-7.2.2.9 Schiffe mit kraftbetriebenen Lenzpumpen sind mit einem Ölabscheidetopf (Lenzeinrichtung zur Öl-Wasser-Trennung), oder einer zugelassenen Ölfilteranlage (15-ppm-Anlage) auszurüsten. Zum Abpumpen des Restöles in der Bilge ist bei Einsatz eines Ölabscheidetopfes eine Handlenzpumpe vorzusehen.
-7.2.2.10 Die Handräder zum Betätigen der Ventile in den Seekühlwasser-Eintrittsleitungen sind oberhalb der Flurplatten anzuordnen oder die Seeventile sind mit einer Fernbetätigung vom freien Deck aus zu versehen.
-7.2.2.11 Es ist ein Bilgen-Niveaualarm in geschlossenen Maschinenräumen vorzusehen, der so verzögert sein muss, dass Schwankungen des Wasserstandes, die durch Schiffsbewegungen hervorgerufen werden, nicht zur Auslösung führen. Der elektrische Signalgeber (Hupe) ist außen auf dem oder am Steuerhaus anzubringen. Wenn ein Ausschalter des akustischen Signals vorgesehen wird, so muss bei ausgeschaltetem Signalgeber eine Warnlampe im Steuerhaus aufleuchten.
-7.2.3 Brennstoffsystem
-7.2.3.1 Brennstofftanks müssen aus Stahlblech bestehen. Zur Brennstoffübernahme müssen fest verlegte Füllrohre oder flammenbeständige Schläuche vorhanden sein, die vom freien Deck zum Brennstofftank führen. Die Füllstutzen für die Brennstofftanks sind so anzuordnen, dass eine Ölverschmutzung bei der Bebunkerung durch besondere Schutzvorkehrungen, insbesondere durch anlaminierte Leckwannen, ausgeschlossen ist.
-7.2.3.2 Fernbetätigungen von Absperrventilen in Entnahmeleitungen von Brennstofftanks (Brennstoff-Fernabstellungen) müssen von außerhalb des Maschinenraumes erfolgen. Seilzüge für Brennstoff-Fernabstellungen müssen im Verkehrsbereich, insbesondere Treppen, durch Rohre oder Schutzbleche zur Vermeidung von Fehlauslösungen geschützt sein.
-7.2.3.3 Luftrohre von Brennstofftanks müssen auf dem freien Deck enden, gegen Eindringen von Seewasser geschützt sein und insgesamt einen freien Mindestquerschnitt vom 1,25-fachen des freien Füllrohr-Querschnitts haben.
-7.2.3.4 Brennstoffanzeiger an Tanks aus Glas, Plexiglas oder ähnlichem Material dürfen nicht verwendet werden. Hiervon sind Brennstofftanks bis 50 l Inhalt und Brennstofftanks in teilgedeckten Fahrzeugen ausgenommen. In diesem Falle müssen die Brennstoffstandanzeiger mit selbstschließenden Ventilen versehen sein. Die Schlauchverbindungen dürfen jeweils eine Länge von 500 mm nicht überschreiten.
-7.2.3.5 Brennstoffleitungen müssen aus Stahlrohren in genormter Ausführung hergestellt sein. Schläuche dürfen nur in begrenztem Umfang im Brennstoffsystem eingebaut sein. Sie müssen flammenbeständig, von einer anerkannten Organisation baumustergeprüft und als solche gekennzeichnet sein.
-7.2.3.6 An Verbrennungsmotoren müssen freiliegende Hochdruck-Brennstoffförderleitungen zwischen den Einspritzpumpen zu den Einspritzventilen durch ein Mantelrohrsystem geschützt sein. Austretender Leckagenbrennstoff ist in einem Sammler alarmüberwacht aufzufangen.
-7.2.3.7 Bauteile in Brennstoffsystemen, insbesondere Gehäuse von Brennstofffiltern und Vorpumpenkolben, dürfen nicht aus Glas, Plexiglas oder ähnlichem Material bestehen.
-7.2.3.8 Brennstofffilter sind als umschaltbare Doppelfilter auszuführen. Sie dürfen nicht über Schwungrädern von Haupt- und Hilfsdieselmotoren, die nur mit Schutzblechen abgedeckt sind, angeordnet sein.
-7.2.4 Steuerung der Antriebsanlage
-7.2.4.1 Seilzüge zur Betätigung von Hauptmotor, Wende-, Untersetzungsgetriebe und Verstellpropelleranlage sind so auszuführen, dass die Umlenkungen über Rollen von 80 mm Durchmesser erfolgen und die Seilaugen der Seilzüge mit drei Seilklemmen gesichert sind. Die Seilzüge müssen im Verkehrsbereich, insbesondere Treppen, durch Rohre oder Schutzbleche zur Vermeidung von Fehlbedienungen geschützt sein.
-7.2.4.2 Bowdenzüge zur Betätigung von Hauptmotoren, Wende-, Untersetzungsgetrieben und Verstellpropelleranlagen sind als Gleit- und Kugelzüge auszuführen. Beim Einbau sind die Hinweise des Herstellers zu beachten; insbesondere sind die nachstehenden Punkte beim Einbau zu berücksichtigen:
-  a) es dürfen keine Querkräfte (quer zur Druck- bzw. Zugrichtung) an den Enden der Bowdenzüge auftreten; daher werden z. B. die Auslenkungswinkel eingeschränkt,
-  b) die Biegeradien sind mit ihrem Mindestmaß einzuhalten,
-  c) die Rohrschellen der Hersteller müssen verwendet werden und in Abständen gemäß Einbauanweisung vorgesehen werden,
-  d) bei Einsatz von Rohrverbindern sind ggf. Montagedorne zu verwenden,
-  e) einwandfreie Halterung im Bereich der Kugelgelenke.
-7.2.4.3 Überwachungseinrichtungen am Steuerstand müssen mindestens für Schmieröl, Kühlwasser, Temperatur in der Abgassammelleitung des Hauptmotors für Motoren mit 250 kW und mehr, Anlassluft und Steuerluft vorhanden sein. Ferner muss ein Umdrehungs- und Drehrichtungsanzeiger für die Propellerwelle, bei Verstellpropelleranlagen zusätzlich eine Ist-Anzeige-Vorrichtung für die Flügelstellung, und ein Amperemeter für die Überwachung der Ladeeinrichtung der Batterien eingebaut sein. Es sind Alarme für zu niedrigen Schmieröldruck und zu hohe Kühlwassertemperatur vorzusehen.
-7.2.5 Propellerwellen und Getriebe
-7.2.5.1 Die Berechnung von Propellerwellen erfolgt nach der Formel
-  [Bild: bgbl1_2018_j0237-1_0060.jpg]
-  | d | [mm] | erforderlicher Durchmesser der Propellerwelle |
-  | P | [kW] | Leistung des Hauptantriebsmotors |
-  | nw | [U/min] | Wellendrehzahl (nw = nm/i) |
-  | nm | [U/min] | Motordrehzahl |
-  | i |  | Getriebeuntersetzung (z. B. i = 4 : 1, entspricht i = 4) |
-  | C-Werte | Aus nachstehender Tabelle: |
-  |  | C |
-  | Vergütungsstähle | C 35 | 132 |
-  | DIN EN 10083-1:2006-10 DIN EN 10083-2:2006-10 | C 45 | 126 |
-  | Nicht rostende Stähle DIN EN 10083-1:2014 | X10CrNiTi 18 9 | 131 |
-  | X10CrNiNb 18 9 | 131 |
-  | X35CrMo 17 | 117 |
-  | X22CrNi 17V | 116 |
-  Ist der Werkstoff im Einzelnen nicht bekannt, ist
-  für Vergütungsstähle C = 132
-  für nicht rostende Stähle C = 131
-  anzusetzen.
-7.2.5.2 Bei Propellerwellen von elastisch gelagerten Hauptantriebsmotoren mit mehr als 40 kW ist eine zweifache Lagerung der Welle vorzusehen. Zwischen Motor/Getriebe und der Antriebswelle ist eine ausreichend bemessene biegeelastische Kupplung einzubauen.
-7.2.5.3 Für die Auslegung und den Einbau der Getriebe sind folgende Grundsätze zu beachten:
-  a) Es ist die nicht überlastbare Motorleistung, z. B. Leistung B, DIN 6271 oder ISO 3046/1 zugrunde zu legen.
-  b) Die Nennleistung des Getriebes ist ca. 25 % größer auszulegen als die Nennleistung des Antriebsmotors.
-  c) Beim Einbau des Getriebes ist auf den erforderlichen Freigang des Schalthebels für die störungsfreie Funktion der Schaltkupplung zu achten.
-  d) Bei Getrieben mit integriertem Drucklager ist die Aufnahme des Propellerschubes bei der maschinenbaulichen Fundamentierung besonders zu berücksichtigen.
-7.3 Elektrische Einrichtungen
-7.3.1 Die elektrischen Einrichtungen müssen den allgemein anerkannten Regeln der Schiffselektrotechnik und -elektronik entsprechen. Sie sind so zu bemessen und auszuführen, dass sie unter den zu erwartenden Schräglagen, Temperaturen, Erschütterungen, Frequenz- und Spannungsabweichungen einwandfrei arbeiten. Alle elektrischen Einrichtungen müssen so gekapselt oder so eingebaut sein, dass sie nicht durch Wasser, Feuchtigkeit, Brennstoff und Öle aller Art beschädigt werden können.
-7.3.2 Kleinfahrzeuge müssen mit zwei Generatoren ausgerüstet sein, von denen einer am Hauptantriebsmotor angehängt sein kann (Wellengenerator). Einer der beiden Generatoren muss von einem Hilfsdieselmotor angetrieben werden. Die Leistung des angehängten Generators muss das 1,25-fache der Leistung des Bordnetzes betragen. Bei Kleinfahrzeugen mit einer Bruttoraumzahl bis 50 in der Watt- und Küstenfahrt genügt ein am Hauptmotor angehängter Generator.
-7.3.3 Schalttafeln und elektrische Betriebsmittel, insbesondere Steckdosen und Stecker, müssen den anerkannten Regeln der Technik entsprechen.
-7.3.4 Können die Freiräume auf kleinen Schiffen nicht eingehalten werden, so sind Schalttafeln und Schaltgeräte an gut zugänglichen Stellen anzubringen. Für gelegentliches Handhaben in Schalttafeln an einigen Bau- und Bedienelementen durch Druck- oder Drehknöpfe oder Kipphebel, insbesondere Sicherungen, Lampen, sind Schutzräume innerhalb der Schalttafel vorzusehen, um die Berührung von unter Spannung stehenden aktiven Teilen zu vermeiden. Auf Schiffen, die ohne maschinentechnische Schiffsoffiziere gefahren werden können, sollten nur Schalttafeln eingebaut werden, die das Auswechseln von Sicherungen, das Bedienen von Rückstelleinrichtungen von außen zulassen.
-7.3.5 Isolierte Leitungen und Kabel sowie deren Verlegung müssen den Klassifikationsregeln einer anerkannten Organisation entsprechen. Kabel und Leitungen sollen möglichst so verlegt werden, dass sie zugänglich und auswechselbar sind. Kabelführungen innerhalb von Raumisolierungen sind unzulässig. Schott- und Deckdurchführungen müssen wasserdicht und feuerfest entsprechend den Anforderungen an diese Schotte und Decks ausgeführt sein.
-7.3.6 Bei vertikalen Anordnungen und Schutzrohren und bei Leitungen mit kleinen Querschnitten sind Zugentlastungen vorzusehen oder durch Befestigung der Kabel sicherzustellen, dass die Zugbelastungen in zulässigen Grenzen bleiben.
-7.3.7 Anschlussklemmen von Leitungen dürfen nur bestimmungsgemäß belegt werden. Im Regelfall dürfen nur zwei Adern pro Klemme angeschlossen werden.
-7.3.8 Die Mindestschutzarten der elektrischen Geräte gemäß DIN EN 60529, VDE 0470-1:2014-09 müssen der nachstehenden Tabelle entsprechen:
-  a) | Motorenräume, Betriebsräume | IP 13 |
-  b) | Unter Deck, Wohnräume, Kajüten | IP 20 |
-  c) | Geschlossener Steuerstand | IP 23 |
-  d) | Freies Deck, offene Steuerstände | IP 55 |
-  e) | Geräte, die überflutet werden können | IP 56 |
-  f) | Lüfterschächte | IP 44 |
-  g) | Akkuräume, -schränke, -kästen | IP 44 |
-7.3.9 Für alle elektrischen Systeme mit einer Spannung von 50 V und höher ist eine Schutzerdung vorzusehen. Berührbare, leitfähige Teile von Betriebsmitteln, die nicht aktive Teile sind, jedoch im Fehlerfall unter gefährlicher Berührungsspannung stehen können, sind mit dem Schiffskörper leitend zu verbinden.
-7.3.10 Bei hölzernen Fahrzeugen und Schiffen, die aus elektrisch nicht leitendem Material gefertigt sind, sind im Fahrzeuginneren zugängliche Bolzen für die Erdung vorzusehen, die mit einem nicht einlaminierten Metallkiel oder einer Kupferplatte oder einem gleichwertigen Metall von mindestens 0,2 m² Größe verbunden sind. Erdleiter von elektrischen Verbrauchern, welche nicht schutzisoliert sind, sind an einer Erdungsplatte am Unterwasserschiff anzuschließen, sofern der Schiffsrumpf aus GFK oder Holz ist.
-7.3.11 Die Zinkanoden am Unterwasserschiff sind so anzuordnen, dass diese nicht in Höhe der Propellerspitzen am Schiffsrumpf liegen.
-7.3.12 Für den Landanschluss sind Anschlusskästen vorzusehen. Die Leitungen sind fest mit der Hauptschalttafel zu verbinden. Der schiffsseitige Anschluss ist über eine Steckverbindung herzustellen.
-7.3.13 Akkumulatoren sind in gut be- und entlüfteten Kästen, Schränken oder Räumen aufzustellen, die der Wartung gut zugänglich sind.
+12 Übergangsregelungen
+12.1 Für Kleinfahrzeuge mit einer Länge von weniger als 8 m, die vor dem 30. November 2024 erstmalig in Betrieb genommen worden sind, gilt die Zeugnispflicht und die Pflicht zur Vorführung nach § 9 Absatz 4 ab dem 1. Juni 2025, wenn das Fahrzeug zur gewerbsmäßigen Fahrgastbeförderung verwendet wird, für alle anderen Fahrzeuge ab dem 1. Juni 2026. Die Regeln 10.5, 10.6, 10.7 und 10.8 bleiben unberührt.
+12.2 Die Gültigkeit von Zeugnissen, die vor dem 30. November 2024 nach § 14 der See-Sportbootverordnung ausgestellt worden sind, bleibt unberührt. Die Erneuerung eines Zeugnisses nach Satz 1 ist zulässig, längstens jedoch bis zum 31. Dezember 2033. Bis dahin bestimmen sich die Sicherheitsanforderungen nach der Richtlinie über Sicherheitsvorschriften für gewerbsmäßig zu Ausbildungszwecken genutzte Sportfahrzeuge nach § 52a der Schiffssicherheitsverordnung 1997 (Richtlinie für Ausbildungsfahrzeuge) vom 25. August 1997 (VkBl. S. 572).
 Kapitel 4
 Sonderfahrzeuge
-1. Bauart und Bauweise
+1 Bauart und Bauweise
 1.1 Kapitel 2 Regel 1 Absatz 4 gilt nicht für Sonderfahrzeuge, die am 30. September 2015 über ein gültiges Bau- und Ausrüstungssicherheitszeugnis verfügt haben.
 1.2 Fahrzeuge nach Absatz 1 müssen in ihrer Bauart und Festigkeit, sowie der Konstruktion der Maschinen und elektrischen Anlagen so beschaffen und ausgestattet sein und sich in einem solchen Erhaltungszustand befinden, dass sie den Beanspruchungen genügen, die der beabsichtigte Verwendungszweck erfordert. Bei Umbauten, die die Festigkeit des Schiffes beeinträchtigen können, ist die genügende Festigkeit des Schiffskörpers durch einen rechnerischen Nachweis zu belegen.
-2. Schlepper
+2 Schlepper
   Für Schlepper, die auch als Hafenassistenzschlepper eingesetzt werden, gilt:
-2.1 Fahrstände auf der Brücke müssen so angeordnet und gestaltet sein, dass ein voller Überblick in jeder Manövriersituation durch den Schiffsführer gewährleistet ist. Die Sicht nach achtern von den Bedienständen für Hauptantriebsanlagen und Winden von der Brücke muss gewährleistet sein.
+2.1 Fahrstände auf der Brücke müssen so angeordnet und gestaltet sein, dass ein voller Überblick in jeder Manövriersituation durch den Schiffsführer gewährleistet ist. Die Sicht nach voraus und achtern von den Bedienständen für Hauptantriebsanlagen und Winden von der Brücke muss gewährleistet sein.
 2.2 Die Brücke ist mit einem Tagsicht-Radargerät und einem zusätzlichen Monitor mit Tagsichteigenschaften auszurüsten, wobei der Monitor so anzuordnen ist, dass auch bei Rückwärtsfahrten das Radarbild in Fahrtrichtung zu beobachten ist.
 2.3 Die in Augenhöhe vorhandenen Front-, Seiten- und Rückfenster des Ruderhauses müssen wegen der Blendfreiheit nach unten eingezogen sein.
 2.4 Es müssen durch Elektromotoren angetriebene Scheibenwischer für alle in Augenhöhe vorhandenen Ruderhausfenster vorgesehen sein – mit Ausnahme von Fenstern in Türen und verschiebbaren Fenstern an den Seiten.
-2.5 Seehafen-Assistenzschlepper müssen mit zwei Hauptantriebsanlagen ausgerüstet sein, die einschließlich der Propelleranlage voneinander unabhängig sind. Bei Ausfall einer der beiden Hauptantriebsanlagen muss die zweite ohne Einschränkung manövrierfähig bleiben. Sie sollen mit einem im vorderen Schiffsdrittel angeordneten Antrieb, insbesondere Voith-Schneider- oder Schottel-Antrieb, ausgerüstet sein.
+2.5 Hafenassistenzschlepper müssen mit zwei Hauptantriebsanlagen ausgerüstet sein, die einschließlich der Propelleranlage voneinander unabhängig sind. Bei Ausfall einer der beiden Hauptantriebsanlagen muss die zweite ohne Einschränkung manövrierfähig bleiben.
 2.6 Auf der Brücke müssen alle wichtigen Bedienungs- und Überwachungseinrichtungen für die Hauptantriebsanlagen, der dazugehörigen Aggregate sowie der sonstigen betriebswichtigen Anlagen installiert sein.
 2.7 Für die Schleppwinden sind Fahrstände auf der Brücke und für Storewinden auf der Brücke und an Deck vorzusehen. Die Fahrstände sind mit Bedienungs- und Überwachungselementen auszurüsten.
 2.8 Es müssen zwei unabhängig voneinander wirkende Vorrichtungen vorhanden sein, die das Slippen des Schlepphakens oder die Entriegelung der Schleppwinde ermöglichen. Eine dieser Vorrichtungen muss auch bei Betriebsstörungen funktionsfähig bleiben. Es sind Einrichtungen vorzusehen, um Schlepphaken und Winde von der Brücke und von Deck schnell auszulösen. Sind die Schlepper mit einem hydraulischen Schlepphaken ausgerüstet, genügt ein Auslösesystem. Auslöseelemente für den Schlepphaken müssen auf der Brücke und an Deck angeordnet sein.
 2.9 Eine Einstiegspforte ist auf jeder Seite in der Verschanzung vorzusehen, damit bei „Mensch-über-Bord“ Hilfe geleistet werden kann.
-3. Behördenfahrzeuge
-  Für Behördenfahrzeuge kann die Berufsgenossenschaft Ausnahmen von den nach diesem Teil einzuhaltenden Anforderungen zulassen, soweit dies zur Erfüllung hoheitlicher Aufgaben geboten ist.
-4. Wasserfahrzeuge ohne eigenen Antrieb
-4.1 Wasserfahrzeuge ohne eigenen Antrieb mit einer ständigen Besatzung sind hinsichtlich der Vorschriften für Intakt- und Leckstabilität, Rettungsmittel wie Fahrzeuge mit Eigenantrieb zu behandeln.
-4.2 Die GMDSS-Funkausrüstung kann durch ein Handfunksprechgerät mit DSC-Funktion ersetzt werden.
+3 Behördenfahrzeuge
+  Für Behördenfahrzeuge, für die Zeugnisse beantragt sind, kann die Berufsgenossenschaft Ausnahmen von den nach diesem Teil einzuhaltenden Anforderungen zulassen, soweit dies zur Erfüllung hoheitlicher Aufgaben geboten ist.
+4 Wasserfahrzeuge ohne eigenen Antrieb
+4.1 Wasserfahrzeuge ohne eigenen Antrieb mit einer ständigen Besatzung sind hinsichtlich der Vorschriften für Intakt- und Leckstabilität sowie Rettungsmittel wie Fahrzeuge mit Eigenantrieb zu behandeln.
+4.2 Die GMDSS-Funkausrüstung kann durch ein Handfunksprechgerät mit DSC-Funktion3 ersetzt werden.
+4.3 Wasserfahrzeuge ohne eigenen Antrieb sind entsprechend Kapitel V Regel 3.1 der Anlage zum SOLAS-Übereinkommen von dessen Regeln 15, 17, 18, 19 mit Ausnahme des Absatz 19.2.1.7 ausgenommen. Kapitel II-1, II-2, III, IV, VI, VII und XI-1 der Anlage zum SOLAS-Übereinkommen und Abschnitt C.I der Anlage 1 zu dieser Verordnung gelten für Wasserfahrzeuge ohne eigenen Antrieb nur, soweit die Berufsgenossenschaft im Einzelfall bestimmt, dass diese Anforderungen zu erfüllen sind.
 5. Schwimmende Arbeitsgeräte
   Bei schwimmenden Arbeitsgeräten bestimmt die Berufsgenossenschaft unter Berücksichtigung von Größe und Verwendungszweck, welche weiteren Anforderungen in Bezug auf Bauausführung, Ausrüstung und Betrieb zu erfüllen sind.
 Kapitel 5
-Arbeitsboote
-1. Allgemeine Bestimmungen
-1.1 Für selbstständig von Land in Sichtweite der Küste eingesetzte Arbeitsboote über 8 m Länge gelten die Anforderungen des Kapitels 3 entsprechend, soweit nicht nachfolgend etwas Abweichendes geregelt ist.
-1.2 Die Schwimmfähigkeit des mit Wasser gefüllten Bootes muss durch Auftriebskörper sichergestellt sein. Der Restauftrieb [kN] des vollgeschlagenen unbemannten Bootes muss mindestens 0,3 x LB x BB x HB betragen. Dabei ist
-  LB Länge des Bootes in m;
-  BB Breite des Bootes in m;
-  HB Seitenhöhe des Bootes in m.
-1.3 Eine GMDSS-Funkausrüstung ist nicht erforderlich, sofern ein Handfunksprechgerät mit DSC-Funktion vorhanden ist.
-1.4 Die Berufsgenossenschaft kann für ein Arbeitsboot, für das aufgrund seiner geringen Größe oder besonderen Bauart die Anforderungen der Anlage 2 nicht erfüllbar sind, im Einzelfall bestimmen, welche Anforderungen erfüllt werden müssen, damit die an Bord befindlichen Personen und andere Verkehrsteilnehmer nicht gefährdet werden.
-1.5 Arbeitsboote, die nur als Beiboot in Sichtweite des Mutterschiffs zum Einsatz kommen, müssen mindestens die Anforderungen des Kapitels V des Internationalen Rettungsmittel-(LSA-)Codes für normale oder schnelle Bereitschaftsboote erfüllen.
-2. Ergänzende Vorschriften
-  Für Fahrzeuge, die nicht den Klassifikationsregeln einer anerkannten Organisation entsprechen, gilt:
-2.1 Bauart und Bauweise
-2.1.1 Arbeitsboote müssen in ihrer Bauart und Festigkeit sowie der Konstruktion der Maschinen und elektrischen Anlagen so beschaffen und ausgestattet sein und sich in einem solchen Erhaltungszustand befinden, dass sie den Beanspruchungen genügen, die der beabsichtigte Verwendungszweck erfordert.
-2.1.2 Aufblasbare Boote und starre aufblasbare Boote müssen mindestens der Norm DIN EN ISO 6185 Teil 4:2011-10 entsprechen.
-2.1.3 Teilgedeckte Arbeitsboote müssen mit einem Kollisionsschott ausgerüstet sein. Bei Fahrzeugen mit einer Rumpflänge über 15 m muss das Kollisionsschott in einem Abstand von mindestens 0,035 x LH, höchstens jedoch 0,05 x LH hinter dem Vorsteven angebracht sein. Das Kollisionsschott ist bis zum freiliegenden Deck hoch zu führen und darf nicht mit Öffnungen versehen sein.
-2.1.4 Bei teilgedeckten Fahrzeugen müssen der Rumpf einschließlich Deck und Aufbau sowie alle anderen Teile eine wasserdichte Einheit bilden. Hauptniedergänge in Cockpits müssen, wenn sie unter die Hauptdecksebene reichen, bis zur Hauptdecksebene abgedichtet werden können. Deckshäuser und sonstige Einstiege oder Niedergänge sowie Luken auf der Hauptdecksebene müssen eine Süllhöhe von mindestens 300 mm haben. Direkte Zugänge vom Deck zum Maschinenraum müssen eine Süllhöhe von mindestens 460 mm haben.
-2.1.5 Cockpits, Plichten und alle anderen Bereiche, die nicht wasserdicht verschlossen werden können, müssen selbstlenzend oder mit anderen Vorrichtungen ausgerüstet sein, die das Eindringen von Wasser in das Bootsinnere verhindern. Sofern das Fahrzeug über ein geschlossenes Schanzkleid verfügt, sind Wasserpforten vorzusehen. Die Berechnung erfolgt nach den Vorschriften des Internationalen Freibord-Übereinkommens.
-2.1.6 Die Höhe der Schanzkleider oder Schutzgeländer muss mindestens 1 m über Deck betragen. Eine Reling muss mit mindestens zwei Durchzügen oder Längsträgern ausgestattet sein. Wird durch diese Höhe der normale Betrieb des Arbeitsbootes behindert, kann eine geringere Höhe zugelassen werden, sofern die Berufsgenossenschaft einen ausreichenden Schutz für gegeben hält. Die Genehmigung kann mit Nebenbestimmungen versehen werden.
-2.1.7 Die Intaktstabilität muss den Anforderungen der DIN EN ISO 12217-1:2002 genügen.
-2.1.8 Der Mindestfreibord, gemessen von der Oberkante des Kiels bis zur Oberkante des Dollbords an seiner niedrigsten Stelle über der Wasserlinie, beträgt 6 % der Länge über alles oder 40 % der Seitenhöhe, je nachdem, welcher Wert größer ist, jedoch nicht mehr als 800 mm. Liegt die Unterkante einer Öffnung im Schiffskörper, durch die Wasser in das Fahrzeug eindringen kann, tiefer über der Wasserlinie als die tiefste Stelle des Dollbords, ist die Seitenhöhe bis zur Unterkante der tiefsten Öffnung zu messen.
-2.2 Maschinenbauliche Einrichtungen
-2.2.1 Hauptantriebs- und Hilfsdieselmotoren
-2.2.1.1 Wassergekühlte Hauptantriebsmotoren sollen mit zwei Kühlwasserpumpen versehen sein, die zweite Pumpe kann auch eine kraftbetriebene Reservepumpe sein, die über eine Schlauchverbindung angeschlossen wird. Bei Kiehlrohrkühlung sind im Frischwasserkühlsystem Absperrschieber an der Innenseite der Bordwand vorzusehen. Luftgekühlte Motoren sind zulässig.
-2.2.1.2 Für das Schmierölsystem genügt ein Einfachfilter. Eine Schmierölmangelsicherung für Hauptantriebsmotoren ist nicht erforderlich.
-2.2.1.3 Werden die Hauptantriebsmotoren elektrisch gestartet, so muss die Kapazität der Starterbatterie ausreichend sein, um mindestens sechs aufeinanderfolgende Starts des Hauptantriebsmotors zu gewährleisten. Jedes Fahrzeug muss mindestens über eine Starterbatterie und eine Verbraucherbatterie verfügen. Die Schaltung hat so zu erfolgen, dass auch die Verbraucherbatterie zum Starten des Motors benutzt, umgekehrt jedoch die Starterbatterie nicht an den Verbraucherstromkreislauf angeschlossen werden kann.
-2.2.1.4 Es muss für ausreichend Be- und Entlüftung des Maschinenraums gesorgt werden. Lüfteröffnungen von Maschinenräumen sind mit von außen verschließbaren Brandklappen zu versehen.
-2.2.1.5 Im Maschinenraum muss ein Niveau-Bilgenalarm vorhanden sein.
-2.2.1.6 Alle Teile des Brennstoffsystems müssen so angeordnet und zugänglich sein, dass eine Sichtkontrolle auf Brennstoffleckagen leicht erfolgen kann. Auf ein Mantelrohrsystem für frei liegende Hochdruck-Brennstoffleitungen zwischen Einspritzpumpen und -ventilen kann verzichtet werden. Brennstofffilter können als Einfachfilter ausgeführt sein.
-2.2.1.7 Am Steuerstand müssen Kontrollanzeigen nach Vorgabe des Motorenherstellers, mindestens jedoch Anzeigen für Motordrehzahl, Schmieröldruck und -temperatur, Kühlwasser einschließlich der dazugehörigen optischen und akustischen Alarme, sowie der optische und akustische Signalgeber des Bilgenalarms installiert sein.
-2.2.2 Lenzeinrichtungen
-2.2.2.1 Alle Fahrzeuge müssen mit zwei Lenzpumpen ausgerüstet sein. Eine Lenzpumpe muss kraftbetrieben und kann an den Hauptantriebsmotor angehängt sein. Die zweite Lenzpumpe muss von der Hauptantriebsanlage unabhängig und kann eine Handlenzpumpe sein.
-2.2.2.2 Bei einem vom Seewassersystem getrennten Lenzsystem reicht auf der Saugseite ein Rückschlagventil aus. Auf der Druckseite der Pumpen sind die Armaturen wie bei einem kombinierten Lenz-/Seewassersystem auszuführen.
-2.3 Elektrische Einrichtungen
-2.3.1 Für die elektrische Energieversorgung genügt ein Wellengenerator.
-2.3.2 Akkumulatoren sind in gut be- und entlüfteten Kästen, Schränken oder Räumen aufzustellen, die der Wartung gut zugänglich sind. Sie müssen so beschaffen sein, dass ein Verrutschen und ein Auslaufen des Elektrolyts bis 40° Neigung verhindert werden. Bei Akkumulatoren mit einer Ladeleistung über 2 kW sind die Behälter oder Räume zum freien Deck hin zu be- und entlüften.
-2.3.3 Ein Anschlusskasten für den Landanschluss ist nicht erforderlich.
-Kapitel 6
 Offshore-Servicefahrzeuge
-1. Offshore-Servicefahrzeuge müssen so gebaut und instand gehalten werden, dass sie hinsichtlich des Schiffskörpers, der Maschinen, der Hebezeuge sowie der elektrischen und der Steuer-, Regel- und Überwachungseinrichtungen den Vorschriften einer anerkannten Organisation entsprechen.
-2. Offshore-Servicefahrzeuge, die nach ihrer Bauart Fahrgast-Hochgeschwindigkeitsfahrzeuge sind, müssen den Anforderungen des Kapitels X des SOLAS-Übereinkommens und des HSC-Codes 2000 entsprechen, soweit nicht nachfolgend etwas anderes geregelt ist.
-3. Offshore-Servicepersonal muss eine Sicherheitsschulung absolviert haben und nach seearbeitsrechtlichen Vorschriften seediensttauglich sein.
-4. Die Intaktstabilität muss den Intaktstabilitätsanforderungen des HSC-Codes 2000 in seiner jeweils geltenden Fassung für Frachtschiffe entsprechen.
-5. Die Unterteilung und Leckstabilität von Offshore-Servicefahrzeugen muss den Anforderungen des HSC-Codes 2000 für Frachtschiffe entsprechen. Regel 2.6.9 des HSC-Codes 2000 bezüglich der Ausdehnung von Bodenschäden in durch Aufschlitzen verwundbaren Bereichen finden für Offshore-Servicefahrzeuge mit einer Länge L von weniger als 45 m keine Anwendung. Für Fahrzeuge mit einer Länge bis 45 m gelten Regel 2.6.7 und 2.6.10 des HSC-Codes 2000 bezüglich der Lage der Verletzung an jeder beliebigen Stelle des Fahrzeugs nur im Bereich ein Drittel der Länge vom vorderen Lot. In den übrigen Bereichen der Länge dieser Fahrzeuge ist nur 1 Abteilungsstatus erforderlich.
-6. Für die Nutzung von Hebezeugen auf See sind die Anforderungen der anerkannten Organisation einzuhalten, deren Überwachung das Schiff nach Regel 1 unterliegt. Soweit nicht die Anforderungen der anerkannten Organisation etwas anderes regeln, gilt: Die Hebelarmkurven des Schiffes sind auf dem Wellenberg zu berechnen. Die Wellenlänge ist gleich der Schiffslänge anzunehmen und die Wellenhöhe ist mit L/20 anzusetzen. Die Differenz zwischen den Kurven der aufrichtenden und der krängenden Hebelarme durch die Last am Haken und bei seitlichem Winddruck von 300 N/m² muss mindestens 0,05 m betragen.
-  Krängendes Moment durch Last am Haken: Mk = P * y * cos (φ)
-  wobei:
-  P: = Last am Haken und
-  y: = Abstand des Aufhängepunktes der Last aus MS.
-7. Die Abschnitte C und D des Kapitels 7 des HSC-Codes 2000 finden keine Anwendung. Es gilt Kapitel II-2 Regel 17 des SOLAS-Übereinkommens.
-8. Für die Ausrüstung mit Rettungsmitteln gilt:
-  a) Regel 8.3.5.1 des HSC-Codes 2000 findet keine Anwendung.
-  b) Die Regeln 8.7.6 und 8.7.8 des HSC-Codes 2000 finden keine Anwendung.
-  c) Für die Instandhaltung der Läufer gilt Kapitel III Regel 20.4 des SOLAS-Übereinkommens.
-  d) Für alle Personen an Bord müssen Eintauchanzüge vorhanden sein.
-  e) Offene, beidseitig verwendbare Rettungsflöße nach Anlage 11 des HSC-Codes 2000 dürfen nicht eingesetzt werden.
-9. Die vorgeschriebene Ausrüstung in den Bereichen Brandschutz, Rettungsmittel, Funk und Navigation muss nach der Richtlinie 2014/90/EU (Schiffsausrüstungsrichtlinie) zugelassen sein, wenn nicht in den nachfolgenden Regeln etwas anderes bestimmt ist. Die vorgeschriebene Ausrüstung sowie freiwillige und zusätzliche Ausrüstung nach SOLAS Kapitel V Regel 18.7, die nicht der Anlage I der Richtlinie 2014/90/EU unterliegt, muss durch die Berufsgenossenschaft, das Bundesamt für Seeschifffahrt und Hydrographie (BSH) oder eine anerkannte Organisation zugelassen sein.
-10. Der Bereich, der beim Übersteigen von Offshore-Servicepersonal zum und vom Offshore-Bauwerk gegen dessen Bauteile gedrückt wird, muss so beschaffen und geschützt sein, dass die auftretenden Belastungen ertragen und Kontaktschäden vermieden werden. Es sind die Anforderungen der anerkannten Organisation einzuhalten, deren Überwachung das Schiff nach Regel 1 unterliegt.
+1 Offshore-Servicefahrzeuge müssen so gebaut und instandgehalten werden, dass sie hinsichtlich des Schiffskörpers, der Maschinen, der Hebezeuge sowie der elektrischen und der Steuer-, Regel- und Überwachungseinrichtungen den Vorschriften einer anerkannten Organisation entsprechen.
+2 Offshore-Servicefahrzeuge, die nach ihrer Bauart keine Hochgeschwindigkeitsfahrzeuge sind, müssen den Anforderungen des SPS-Code 2008 entsprechen, soweit nicht nachfolgend etwas anderes geregelt ist. Bei der Anwendung des SPS-Code 2008 sind die Personen des Offshore-Servicepersonals als Spezialpersonal zu betrachten.
+2.1 Offshore-Servicefahrzeuge, die nach ihrer Bauart keine Hochgeschwindigkeitsfahrzeuge sind, unterliegen den Besichtigungen, die der SPS-Code 2008 vorgibt.
+2.2 Für Offshore-Servicefahrzeuge, die den Anforderungen des SPS-Code 2008 entsprechen müssen, kann die Berufsgenossenschaft abweichende Anforderungen festlegen, wenn diese ein vergleichbares Sicherheitsniveau gewährleisten und die Vorgaben des SPS-Code 2008 aufgrund der Größe oder besonderer Konstruktionsmerkmale des Fahrzeuges nicht oder nur mit unverhältnismäßigem Aufwand umsetzbar sind.
+3 Offshore-Servicefahrzeuge, die nach ihrer Bauart Hochgeschwindigkeitsfahrzeuge sind, müssen den Anforderungen für Frachtfahrzeuge des HSC-Code 2000 entsprechen, soweit nicht nachfolgend etwas anderes geregelt ist.
+3.1 Offshore-Servicefahrzeuge, die nach ihrer Bauart Hochgeschwindigkeitsfahrzeuge sind, unterliegen den Besichtigungen wie sie der HSC-Code 2000 vorgibt. Für Fahrzeuge mit einer Länge von weniger als 24 m ist die Regel 1.5.1.3. des HSC-Code nicht anzuwenden
+3.2 Zusätzlich zu den unter 3.1 beschriebenen Besichtigungen ist bei Fahrzeugen mit einer Länge von weniger als 24 m mindestens eine Zwischenbesichtigung zur Überprüfung der Sicherheitsausrüstung, Funkanlagen, sonstiger Geräte und Einrichtungen zwischen dem 2. und 3. Jahresdatum des Sicherheitszeugnisses durchzuführen.
+3.3 Die Intaktstabilität muss den Intaktstabilitätsanforderungen des HSC-Code 2000 für Frachtfahrzeuge entsprechen. Bei der Berechnung der in Frage kommenden Beladungszustände sollte ein Gewicht von mindestens 90 kg für jede an Bord befindliche Person berücksichtigt werden. Dieses Gewicht soll lediglich das Körpergewicht sowie die am Körper getragene Kleidung berücksichtigen. Gepäck und durch das Offshore-Personal mitgeführte Verbrauchsstoffe sind gesondert in den dafür an Bord vorgesehenen Räumen zu berücksichtigen.
+3.4 Bei der Unterteilung und Leckstabilität von Offshore-Servicefahrzeugen mit einer Länge von 45 m und weniger können folgende Abweichungen angewendet werden:
+3.4.1 Die Regel 2.6.7 des HSC-Code 2000 bezüglich der Ausdehnung von Seitenschäden ist nur im Fall des vorderen Drittels der Länge L anzuwenden. Die Ausdehnung des Schadens ist in diesem Bereich an jedem Punkt entlang des Fahrzeuges anzunehmen. In den hinteren zwei Dritteln der Länge L ist ein Schaden jeweils zwischen den wasserdichten Hauptquerschotten anzunehmen. Seine Ausdehnung ist hier vom Kiel bis zum Deck sowie von der Schiffsseite bis zur Mittschiffslinie zu berücksichtigen.
+3.4.2 Die Regel 2.6.8.1.2 des HSC-Code 2000 über die Ausdehnung von Heckschäden ist nicht anzuwenden.
+3.4.3 Die Regel 2.6.9 des HSC-Code 2000 bezüglich der Ausdehnung von Bodenschäden in durch Aufschlitzen verwundbaren Bereichen ist nur im Fall des vorderen Drittels der Länge L anzuwenden. Die Ausdehnung des Schadens ist in diesem Bereich an jedem Punkt entlang des Fahrzeuges anzunehmen. In den hinteren zwei Dritteln der Länge L ist der Schaden nach 2.6.9 des HSC-Code 2000 nicht anzunehmen.
+3.4.4 Die Regel 2.6.10 des HSC-Code 2000 bezüglich der Ausdehnung von Bodenschäden in durch Aufschlitzen nicht verwundbaren Bereichen ist nur im Fall des vorderen Drittels der Länge L anzuwenden. Die Ausdehnung des Schadens ist in diesem Bereich nach den Vorgaben der Regel 2.6.10.2 des HSC-Code 2000 zu berechnen und anzunehmen. In den hinteren zwei Dritteln der Länge L ist der Schaden nach Regel 2.6.10 des HSC-Code 2000 nicht anzunehmen.
+3.4.5 Die Regel 2.6.11 des HSC-Code 2000 bezüglich der Ermittlung gleichzeitiger Beschädigungen mehrerer Rümpfe durch ein 7 m breites Hindernis ist, nach Maßgabe der Schadensannahmen zu den Regeln 2.6.9 und 2.6.10 des HSC-Code 2000, nur im vorderen Drittel der Länge L anzuwenden.
+3.5 Die Abschnitte C und D des Kapitels 7 des HSC-Code 2000 sind nicht anzuwenden. Es gilt Kapitel II-2 Regel 17 des SOLAS-Übereinkommens.
+3.6 Für die Ausrüstung mit Rettungsmitteln gilt:
+  1. Die Regeln 8.3.5.1, 8.7.4, 8.7.6, 8.7.7, 8.7.8, 8.7.9, 8.7.10, 8.7.11 und 8.10 des HSC-Code 2000 sind für Fahrzeuge kleiner 30 m nicht anzuwenden.
+  2. Bei Fahrtantritt müssen für alle Besatzungsmitglieder, Offshore-Servicepersonal und Spezialpersonal an Bord Eintauchanzüge vorhanden sein.
+  3. Offene, beidseitig verwendbare Rettungsflöße nach Anlage 11 des HSC-Code 2000 dürfen nicht eingesetzt werden.
+3.7 Die vorgeschriebene Ausrüstung in den Bereichen Brandschutz, Rettungsmittel, Verhütung der Meeresverschmutzung, Funk und Navigation muss nach der Richtlinie 2014/90/EU zugelassen sein, wenn nicht in den nachfolgenden Regeln etwas anderes bestimmt ist. Die vorgeschriebene Ausrüstung sowie freiwillige und zusätzliche Ausrüstung nach SOLAS Kapitel V Regel 18.7, die nicht der Richtlinie 2014/90/EU unterliegt, muss durch das Bundesamt für Seeschifffahrt und Hydrographie oder eine andere benannte Stelle zugelassen sein.
+3.8 Offshore-Servicefahrzeuge mit einer Länge von weniger als 30 m, die nach ihrer Bauart Hochgeschwindigkeitsfahrzeuge sind, sind befreit von der Ausrüstungspflicht mit einer Schallsignalempfangsanlage gemäß HSC Code 2000.
+3.9 Wird ein Zeugnis für ein vorhandenes Offshore-Servicefahrzeug erneuert, das nach seiner Bauart ein Fahrgast-Hochgeschwindigkeitsfahrzeug ist, müssen die Anforderungen der Regel 3 nicht erfüllt werden, soweit das Schiff den für das abgelaufene Zeugnis geltenden Vorschriften und technischen Regeln weiterhin entspricht. Dies gilt nicht, wenn seit dem Ablauf der Gültigkeit des letzten Zeugnisses mehr als ein Jahr vergangen ist.
+4 Der Bereich, der beim Übersteigen von Offshore-Servicepersonal zum und vom Offshore-Bauwerk gegen dessen Bauteile gedrückt wird, muss so beschaffen und geschützt sein, dass die auftretenden Belastungen ertragen und Kontaktschäden vermieden werden. Es sind die Anforderungen der anerkannten Organisation einzuhalten, deren Überwachung das Schiff nach Regel 1 unterliegt.
+5 Offshore-Servicepersonal muss eine Sicherheitsschulung entsprechend der einschlägigen Industriestandards absolviert haben und nach seearbeitsrechtlichen Vorschriften seediensttauglich sein.
+Kapitel 6
+Zeugnismuster
+Die Muster folgender Zeugnisse und Bescheinigungen werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht:
+1. Bau- und Ausrüstungs-Sicherheitszeugnis,
+2. Funk-Sicherheitszeugnis,
+3. Sicherheitszeugnis für Spezialschiffe,
+4. Übereinstimmungsbescheinigung nach OSV-Richtlinie,
+5. Sicherheitszeugnis für Hochgeschwindigkeitsfahrzeuge,
+6. Sicherheitszeugnis für bewegliche Offshore-Bohrplattformen
+7. Bescheinigung für Ausnahme von der Zeugnispflicht für Kleinfahrzeuge im Einsatz zu ideellen Zwecken.
 Kapitel 7
 Zeugnismuster
 Die Muster folgender Zeugnisse und Bescheinigungen werden nach dieser Verordnung im Verkehrsblatt bekannt gemacht:
@@ -1400,13 +1596,12 @@ Anforderungen an den Freibord
   1. Frachtschiffe und Fahrgastschiffe in der Inlandfahrt unabhängig von der Länge;
   2. Frachtschiffe und Fahrgastschiffe in der Auslandfahrt, soweit das Freibord-Übereinkommen keine Anwendung findet.
 1.2 Dieser Teil gilt nicht für:
-  1. Schiffe der Bundesmarine und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
+  1. Schiffe der Bundeswehr und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
   2. Binnenschiffe mit einer technischen Zulassung für Wasserstraßen der Zonen 1 und 2 nach Anhang 1 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung im Verkehr auf diesen Wasserstraßen;
   3. Sportboote im Sinne der See-Sportbootverordnung;
-  4. Kleinfahrzeuge, die nicht gewerbsmäßig und ausschließlich für Sport- oder Erholungszwecke verwendet werden;
+  4. Kleinfahrzeuge
   5. Traditionsschiffe, die Teil 3 unterliegen;
-  6. Arbeitsboote bis zu einer Länge von 8 m;
-  7. Fischereifahrzeuge.
+  6. Fischereifahrzeuge.
 2. Begriffsbestimmungen
 2.1 Im Sinne dieses Teils ist
   1. Fahrgastschiff: ein Schiff, das mehr als zwölf Fahrgäste befördert oder das für die Beförderung von mehr als zwölf Fahrgästen zugelassen ist;
@@ -1417,7 +1612,7 @@ Anforderungen an den Freibord
     ∇ = Volumen der Verdrängung entsprechend der Konstruktionswasserlinie (m³)
     mit Ausnahme von Fahrzeugen, deren Rumpf im Nicht-Verdrängerzustand durch aerodynamische Kräfte, die durch den Bodeneffekt erzeugt werden, vollständig über der Wasseroberfläche gehalten werden;
   4. Schwimmbagger: ein bemanntes Schiff mit Eigenantrieb, das zum Laden von Baggergut auf See geeignet und mit Bodenklappen ausgestattet oder aufklappbar ist;
-  5. Kleinfahrzeug: ein Frachtschiff bis zu einer Bruttoraumzahl von 100;
+  5. Kleinfahrzeug: ein Frachtschiff mit einer Länge unter 24 m;
   6. Arbeitsboot: ein offenes oder teilgedecktes Fahrzeug zum Transport-, Rettungs-, Berge- und Arbeitseinsatz und ähnlichen Einsatzzwecken in begrenztem Umfang und auf kurzen Strecken in Küstennähe oder als Beiboot in Sichtweite des Mutterschiffs;
   7. Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand. Der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand,
     a) der den Baubeginn eines bestimmten Schiffes oder Fahrzeugs erkennen lässt und
@@ -1437,20 +1632,21 @@ Anforderungen an den Freibord
   18. Anerkannte Organisation: Eine nach der Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.5.2009, S. 47), in der jeweils geltenden und anzuwendenden Fassung, anerkannte Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne des Artikels 5 Absatz 2 der Richtlinie 2009/15/EG begründet worden ist.
 2.2 Im Übrigen werden die im Freibord-Übereinkommen festgelegten Begriffsbestimmungen angewendet.
 3. Anforderungen an den Freibord
-3.1 Artikel 10 und die Anlagen I und II des Freibord-Übereinkommens gelten für Frachtschiffe und Fahrgastschiffe nach Regel 1.1 dieses Teils entsprechend, soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
-3.2 Für Schiffe mit einer Freibordlänge von weniger als 24 m gelten für Süllhöhen von Verschlüssen, die zu Räumen unterhalb des Wetterdecks (Freiborddecks) führen und für die Ausführung von Geländern, Fenstern, sülllosen Montageöffnungen und Glattdeckluken die Anforderungen des Anhangs zu diesem Teil.
-3.3 Für Schiffe mit einer Freibordlänge von weniger als 18 m wird der Freibord auf Grundlage der Stabilitätsanforderungen ermittelt. Kapitel III der Anlage I des Freibord-Übereinkommens ist nicht anzuwenden.
+3.1 Für alle Schiffe ist ein wirksamer wetterdichter Verschlusszustand Voraussetzung für die Erteilung des Freibordes. Der Verschlusszustand und die Übereinstimmung mit den Regeln dieses Teils sind in einem Verschlussplan zu dokumentieren.
+3.2 Artikel 10 und die Anlagen I und II des Freibord-Übereinkommens gelten für Frachtschiffe und Fahrgastschiffe nach Regel 1.1 dieses Teils entsprechend, soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
+3.3 Für Schiffe mit einer Freibordlänge von weniger als 24 m gelten für Süllhöhen von Verschlüssen, die zu Räumen unterhalb des Wetterdecks (Freiborddecks) führen und für die Ausführung von Geländern, Fenstern, sülllosen Montageöffnungen und Glattdeckluken die Anforderungen des Anhangs zu diesem Teil.
 3.4 Für Frachtschiffe in der Inlandfahrt kann die Mindestbughöhe um höchstens 50 % reduziert werden.
 3.5 Für Hochgeschwindigkeitsfahrzeuge gelten abweichend von Regel 3.1 bis 3.3 die Anforderungen des HSC-Codes.
-4. Besondere Regeln für Fahrgastschiffe
-  Für Fahrgastschiffe in der Inlandfahrt gehen die Regelungen der Richtlinie 2009/45/EG und des Teils 1 entgegenstehenden Bestimmungen dieses Teils vor.
+4. Besondere Regeln für Fahrgastschiffe und Offshore-Servicefahrzeuge
+  4.1 Für Fahrgastschiffe in der Inlandfahrt gehen die Regelungen der Richtlinie 2009/45/EG und des Teils 1 entgegenstehenden Bestimmungen dieses Teils vor.
+  4.2 Für Offshore-Servicefahrzeuge, die nach ihrer Bauart Hochgeschwindigkeitsfahrzeuge sind und eine Länge von weniger als 24 m haben, gelten abweichend von den Regeln des HSC-Code 2000 bezüglich der Besichtigungen die Vorgaben der Regel 3.1 in Kapitel 5 des Teil 6 der Anlage 1a.
 5. Mindestfreibord und Freibordmarke
-5.1 Für alle Schiffe ist ein wirksamer wetterdichter Verschlusszustand Voraussetzung für die Erteilung des Freibordes. Der Verschlusszustand und die Übereinstimmung mit den Regeln dieses Teils sind in einem Verschlussplan zu dokumentieren.
-5.2 Die Berufsgenossenschaft erteilt einen Mindestfreibord. Für Fahrzeuge, die ein Freibordzeugnis erhalten, erteilt die Berufsgenossenschaft eine Freibordmarke. Die Freibordmarke entspricht der Form im Nationalen Freibordzeugnis nach dem Muster entsprechend Regel 9 dieses Teils. Sie ist auf der halben Freibordlänge am Fahrzeug anzubringen.
+5.1 Die Berufsgenossenschaft erteilt einen Mindestfreibord. Für Fahrzeuge, die ein Freibordzeugnis erhalten, erteilt die Berufsgenossenschaft eine Freibordmarke. Für Schiffe mit einer Freibordlänge von weniger als 18 m wird der Freibord auf Grundlage der Stabilitätsanforderungen sowie der strukturellen Festigkeit des Rumpfes ermittelt. Kapitel III der Anlage I des Freibord-Übereinkommens ist nicht anzuwenden.
+5.2 Die Freibordmarke entspricht der Form im Nationalen Freibordzeugnis nach dem Muster entsprechend Regel 9 dieses Teils. Sie ist auf der halben Freibordlänge an beiden Fahrzeugseiten in Kontrastfarbe zum Rumpf permanent anzubringen. Der Mindestfreibord nach Regel 5.1 ist auf halber Schiffslänge an beiden Fahrzeugseiten zu markieren. Die Markierung ist durch einen Strich von 300 mm Breite und 25 mm Höhe, in Kontrastfarbe zum Rumpf vorzunehmen.
 5.3 Die Berufsgenossenschaft kann auf Antrag für Schwimmbagger und andere Frachtschiffe, die Baggergut befördern, einen Baggerfreibord unter den Voraussetzungen der Schwimmbaggerrichtlinie erteilen.
 6. Befreiungen und gleichwertiger Ersatz
 6.1 Die Berufsgenossenschaft kann ein Schiff, das neuartige Merkmale aufweist, von Bestimmungen dieses Teils befreien, deren Anwendung die Erprobung und Entwicklung dieser Neuerungen und ihren Einbau auf Schiffen ernstlich behindern könnte. Diese Schiffe müssen jedoch den Sicherheitsvorschriften entsprechen, die nach Ansicht der Berufsgenossenschaft im Hinblick auf den vorgesehenen Dienst des Schiffes angemessen sind und die Gesamtsicherheit des Schiffes gewährleisten.
-6.2 Erachtet die Berufsgenossenschaft in Anbetracht der geringen Gefahr und der besonderen Bedingungen der Reise die Anwendung bestimmter Vorschriften dieses Teils für unzweckmäßig oder unnötig, so kann sie einzelne Schiffe, die sich im Verlauf ihrer Reise nicht weiter als 3 Seemeilen vom nächstgelegenen Land entfernen, von der Befolgung dieser Vorschriften befreien.
+6.2 Erachtet die Berufsgenossenschaft in Anbetracht der geringen Gefahr und der besonderen Bedingungen des Einsatzes des Schiffes die Anwendung bestimmter Vorschriften dieses Teils für unzweckmäßig oder unnötig, so kann sie einzelne Schiffe, die sich im Verlauf ihres Einsatzes nicht weiter als fünf Seemeilen vom nächstgelegenen Land entfernen oder nur unter eingeschränkten Wetter- und Seegangsverhältnissen betrieben werden, von der Befolgung dieser Vorschriften befreien.
 6.3 Die Berufsgenossenschaft kann gestatten, dass auf einem Schiff andere Einrichtungen, Werkstoffe, Vorrichtungen oder Geräte eingebaut werden oder dass eine andere Vorkehrung getroffen wird, als in diesem Teil vorgeschrieben, wenn sie durch Erprobungen oder auf andere Weise davon überzeugt ist, dass die betreffenden Einrichtungen, Werkstoffe, Vorrichtungen oder Geräte oder die betreffende Vorkehrung mindestens ebenso wirksam sind, wie die in diesem Teil vorgeschriebenen.
 7. Bestehende Rechte
 7.1 Für vorhandene Schiffe kann die Berufsgenossenschaft abweichend von Regel 3 Bestandsschutz gewähren, soweit diese Schiffe den bisher für sie geltenden Vorschriften und technischen Regeln entsprechen. Ein auf dieser Grundlage erteiltes Freibordzeugnis kann mit Nebenbestimmungen verbunden werden, wenn der Zweck dieses Teils es erforderlich macht.
@@ -1475,7 +1671,7 @@ Anhang: Freibordanforderungen und Ausführungen von Verschlüssen bezogen auf di
 | verschließbare Lüfter (Reg. 17, 18) | 760 mm | 800 mm | 550 mm | 850 mm | 650 mm |
 | Lüfter die während des Betriebes nicht verschlossen werden dürfen (Maschinenraumlüfter, Reg. 19(3)) | 900 mm | 2 100 mm | 1 100 mm | 3 300 mm | 1 700 mm |
 | Geländer (Reg. 24, 25, 26, 27) | Die Mindesthöhe der Geländer muss 1 000 mm betragen. Es müssen mindestens 3 Durchzüge vorhanden sein. | Geländer müssen gemäß Freibordkonvention ausgeführt sein (z. B. DIN 81 702). |
-| Mindestfreibord | Der Freibord muss mindestens 5 % der Schiffsbreite betragen, jedoch nicht weniger als 200 mm, sofern sich aus der Einhaltung der Stabilitätskriterien kein größerer Wert ergibt. | Der Freibord ist gemäß der internationalen Freibordkonvention (ICLL 1966/88) in der jeweils geltenden Fassung zu ermitteln. |
+| Mindestfreibord | Der Freibord muss mindestens 200 mm betragen, sofern sich aus der Einhaltung der Stabilitätskriterien kein größerer Wert ergibt. | Der Freibord ist gemäß der internationalen Freibordkonvention (ICLL 1966/88) in der jeweils geltenden Fassung zu ermitteln. |
 | Mindestbughöhe (Reg. 39) |  | Die Mindestbughöhe ist gemäß den Anforderungen der internationalen Freibordkonvention (ICLL 1966/88) zu ermitteln. Im Bereich der nationalen Fahrt kann die erforderliche Bughöhe um maximal 50 % reduziert werden. |
 | Fenster (Reg. 23) | Die Fenster müssen in metallischen Rahmen gefasst sein und die Fenstergläser müssen aus Sicherheitsglas bestehen (z. B. DIN ISO 3903, 21005). Fenster mit Gummi-Klemmprofilen sind nicht zulässig. |
 | Bullaugen (Reg. 23) | Unterhalb des Freiborddecks dürfen lediglich Bullaugen mit einem maximalen Durchmesser von 250 mm angeordnet sein. Die Bullaugen müssen mit fest angebrachten Seeschlagblenden ausgerüstet sein. Der Abstand zur Wasserlinie darf in keinem Betriebszustand 300 mm unterschreiten. | Für die Anordnungen und Ausführungen (z. B. DIN ISO 1751) der Bullaugen sind die Vorschriften der internationalen Freibordkonvention (ICLL 1966/88) in der jeweils geltenden Fassung zu beachten. |

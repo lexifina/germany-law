@@ -26,8 +26,7 @@ Wassermotorrädern im Inland
 - [§ 12 Pflichten der Mieter und Bootsführer](0012.md)
 - [§ 13 Beschränkungen und Ausnahmen](0013.md)
 
-## Abschnitt 4 Gewerbsmäßige Nutzung von Sportbooten im
-Inland
+## Abschnitt 4 Gewerbsmäßige Folgenutzung im Inland
 
 - [§ 14 Sicherheitszeugnis](0014.md)
 - [§ 15 Fahrerlaubnis](0015.md)
@@ -42,7 +41,7 @@ Wassermotorräder im Inland
 Ausland
 
 - [§ 18 Vermietung im Ausland](0018.md)
-- [§ 19 Gewerbsmäßige Nutzung im Ausland](0019.md)
+- [§ 19 Gewerbsmäßige Folgenutzung im Ausland](0019.md)
 - [Anlage 1 (zu § 5)](anlage-1.md)
 - [Anlage 2 (zu § 6 Abs. 1)
 

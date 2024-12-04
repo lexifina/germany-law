@@ -1,7 +1,7 @@
 # Anlage 4 (zu § 15 Abs. 2)Besetzung von gewerbsmäßig genutzten Sportbooten
 
-Besetzung von gewerbsmäßig genutzten Sportbooten
-| Rumpflänge des Sportbootes/ Fahrtgebiet | Besetzung |
+Besetzung von gewerbsmäßig genutzten Wasserfahrzeugen
+| Rumpflänge des Wasserfahrzeuges/ Fahrtgebiet | Besetzung |
 | Bis 15 m Rumpflänge: |  |
 | –Bis zu 300 Meter Abstand vom Ufer bei entsprechender Einzelfallgenehmigung | 1 x Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen |
 | –Küstengewässer | 1 x Sportküstenschifferschein |
