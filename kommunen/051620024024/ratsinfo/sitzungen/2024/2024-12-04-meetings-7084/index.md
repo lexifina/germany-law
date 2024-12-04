@@ -1,0 +1,51 @@
+# Bezirksausschuss I - Innenstadt
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-12-04T17:00:00+01:00
+- Ende: 2024-12-04T18:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/230
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7084
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7084
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket BZA I http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00218340.pdf
+- Ergebnisprotokoll: Sitzungspaket BZA I http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00218340.pdf
+- Wortprotokoll: Sitzungspaket BZA I http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00218340.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 1.1: Verpflichtung sachkundiger Bürger
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Empfehlungen an Rat unter Beteiligungen der Bezirksausschüsse
+- TOP 4: Hammer Landstraße und Hessentordamm: Verbesserung der Querungssituation zum Wendersplatz für Fußgänger - mehrheitlich zugestimmt
+- TOP 5: Stresemannallee: Querung im Bereich des "LAGA-Zuganges Südost" - mehrheitlich zugestimmt
+- TOP 6: Erftstraße zwischen Drususallee und Zollstraße / Friedrichstraße: Straßenwiederherstellung nach Kanalbauarbeiten - einstimmig zugestimmt
+- TOP 7: Batteriestraße: Barrierefreier Umbau des Bushaltestellenpaars Hafenstraße sowie des Knotenpunktes Batteriestraße / Hafenstraße - einstimmig zugestimmt
+- TOP 8: Hammer Landstraße, barrierefreier Umbau des Bushaltestellenpaars Industriestraße; Verbreiterung der geplanten Querungsstelle über den Hessentordamm - einstimmig zugestimmt
+- TOP 9: Evaluation Buslinie 857 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 10: Antrag der Mitglieder der CDU betr.: Nachbesserung Fichtestraße - beraten ohne Abstimmung
+- TOP 10.1: Antrag der Mitglieder der CDU betr.: Angstraum Stadtgarten: Mehr Laternen aufstellen - beraten ohne Abstimmung
+- TOP 10.2: Antrag der Mitglieder der CDU betr.: Angstraum Sebastianusstraße: Jetzt handeln! - beraten ohne Abstimmung
+- TOP 10.3: Antrag der Mitglieder der CDU betr.: Angstraum Stadtwald: Mehr Laternen auf dem Fahrradweg zwischen Rheydter Straße und Morgensternsheide - beraten ohne Abstimmung
+- TOP 10.4: Antrag der Mitglieder der CDU betr.: Zebrastreifen Breitestraße / Liedmannstraße - beraten ohne Abstimmung
+- TOP 10.5: Antrag der Mitglieder von SPD/B90 Die Grünen betr.: Abbau der Telefonzelle zwischen Deichmann und dem ehemaligen Kaufhof-Gebäude - beraten ohne Abstimmung
+- TOP 10.6: Antrag der Mitglieder von SPD/B90 Die Grünen betr.: Basketballkorb für das Jahnstadion - beraten ohne Abstimmung
+- TOP 10.7: Antrag der Mitglieder von SPD/B90 Die Grünen betr.: Besserer Sicht- und Lärmschutz für die neuen Tennis-Hartplätze - beraten ohne Abstimmung
+- TOP 10.8: Antrag der Mitglieder von SPD/B90 Die Grünen betr.: Regenwasser am Quaxpfad besser versickern - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 10.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP 11: Bericht und Austausch
+- TOP -: Mitteilungen der Verwaltung
+- TOP 12: Bericht der Bezirksbeamten der Kreispolizeibehörde - zur Kenntnis genommen
+- TOP 13: Buslinie 874 - Fahrplanänderung in den Ferien - zur Kenntnis genommen
+- TOP 14: Ergebnisse von Verkehrsmessungen durch Dialog Displays - zur Kenntnis genommen
+- TOP 15: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 16: Ergebnisse zu Vorschlägen und Anregungen des Bezirksausschusses - zur Kenntnis genommen
+- TOP 17: Sitzungstermine des Bezirksausschusses in 2025 - zur Kenntnis genommen
+- TOP 18: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
