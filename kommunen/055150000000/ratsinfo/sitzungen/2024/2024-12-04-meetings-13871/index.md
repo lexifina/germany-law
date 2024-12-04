@@ -1,0 +1,70 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-12-04T17:00:00+01:00
+- Ende: 2024-12-04T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13871
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13871
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00561077.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 08.10.2024
+- TOP 4: Eingänge und Eingaben
+- TOP 5: Mitteilungen und Berichte der Verwaltung
+- TOP 6: Liegenschaften
+- TOP 6.1: Wärmeversorgung mit Kalter Nahwärme durch die Stadtwerke Münster GmbH in den Baugebieten Albachten-Ost und Handorf-Kirschgarten - ohne Beschlussfassung geschoben
+- TOP 6.1.1: Wärmeversorgung mit Kalter Nahwärme durch die Stadtwerke Münster GmbH in den Baugebieten Albachten-Ost und Handorf-Kirschgarten
+- TOP 7: Finanzen
+- TOP 7.1: Kapitalerhöhung bei der Technologieförderung Münster GmbH (TFM) - einstimmig beschlossen
+- TOP 7.2: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - von der Tagesordnung abgesetzt
+- TOP 7.3: Erlass einer Hebesatzsatzung für die Jahre 2025 ff. - mehrheitlich geändert beschlossen
+- TOP 7.3.1: Erlass einer Hebesatzsatzung für die Jahre 2025 ff.
+- TOP 7.3.2: Erlass einer Hebesatzsatzung für die Jahre 2025 ff.
+- TOP 7.4: smartOPTIMO GmbH & Co.KG: Aufnahme der Gesellschafterin Regionetz GmbH / Novellierung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 7.5: Bädermanagement Münster GmbH: Änderung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 7.6: Managementkontrakt (MMK) mit der Messe und Congress Centrum Halle Münsterland GmbH (MCC) - einstimmig beschlossen
+- TOP 7.7: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2025 - einstimmig beschlossen
+- TOP 7.8: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2025 - mehrheitlich geändert beschlossen
+- TOP 7.9: Tarifgemeinschaft Münsterland - Ruhr-Lippe GmbH und WestfalenTarif GmbH: Änderung von Gesellschaftsverträgen - einstimmig beschlossen
+- TOP 7.10: AirportPark FMO GmbH: Änderung des Gesellschaftsvertrages - mehrheitlich beschlossen
+- TOP 7.11: KonvOY GmbH: Jahresabschluss 2023; Bestellung des Abschlussprüfers für den Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.12: Konzernabschluss 2023 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 7.13: Stadtwerke Münster GmbH: Gewinnausschüttung aus dem Jahresüberschuss 2023 an die Stadt Münster - einstimmig beschlossen
+- TOP 7.14: Stadtnetze Münster GmbH: Bericht zum Transformationsplan für die Stromnetze der Zukunft (Antrag A-R/0035/2023 der CDU-Ratsfraktion) - zur Kenntnis genommen
+- TOP 7.15: Kommunales Klimaschutzcontrolling - einstimmig beschlossen
+- TOP 7.16: Verordnung zum Schutz freilebender Katzen im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 7.17: Fortschreibung Einzelhandels- und Zentrenkonzept Münster (Fortschreibung des Konzepts aus dem Jahr 2018) - zur Kenntnis genommen
+- TOP 7.18: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 7.19: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 7.20: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets (01.01.2025 bis 30.06.2025) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 7.21: Strukturelle Weiterentwicklung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - einstimmig beschlossen
+- TOP 7.22: Wirtschaftsplan 2025 von Münster Marketing - mehrheitlich geändert beschlossen
+- TOP 7.23: Schulentwicklungsplanung für die Sekundarstufe I – - mehrheitlich geändert beschlossen
+- TOP 7.24: Änderung des Beschlusses: Kauf statt Anmietung von Fertigbauklassen gem. Vorlage V/0331/2024 - einstimmig beschlossen
+- TOP 7.25: Überleitung der außerunterrichtlichen Angebote der Ludgerusschule Hiltrup (OGS) - einstimmig beschlossen
+- TOP 7.26: Überleitung der außerunterrichtlichen Angebote (OGS) an der Michaelschule und der Mosaik-Schule - einstimmig beschlossen
+- TOP 7.27: Trägervergabe für die Kindertageseinrichtung am Kiesekampweg im Stadteil Coerde, Bezirk Nord - einstimmig beschlossen
+- TOP 7.28: Grundsatzbeschluss Weiterentwicklung Sportanlage Wienburgstraße - einstimmig beschlossen
+- TOP 7.29: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2025 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 7.30: Errichtungsbeschluss Hoppengarten - einstimmig beschlossen
+- TOP 7.31: Verbesserung der Situation rund um den Hauptbahnhof - von der Tagesordnung abgesetzt
+- TOP 7.32: Rathaus/ Stadtweinhaus - Barrierefreiheit über vorhandene Zuwegung und Umbau des vorhandenen Aufzugs - einstimmig geändert beschlossen
+- TOP 7.33: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 7.34: Abfallgebühren 2025 - einstimmig beschlossen
+- TOP 7.35: Straßenreinigungsgebühren 2025 - einstimmig beschlossen
+- TOP 7.36: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2025 - einstimmig beschlossen
+- TOP 7.37: Bennohaus: Beschluss zur dauerhaften Verwendung von kapitalisierten Mitteln aus ehemaligen Personalaufwendungen im Rahmen des Profilierungs- und Optimierungsprozesses - einstimmig geändert beschlossen
+- TOP 7.38: Überplanmäßige Mittelbereitstellung im Haushaltsjahr 2024 - einstimmig beschlossen
+- TOP 7.39: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt – Sofortmaßnahmen im Haushaltsplan 2025 - einstimmig beschlossen
+- TOP 8: Beratung des Haushaltsplanes 2025 (inkl. des Stellenplanes 2025) sowie der mittelfristigen Ergebnis- und Finanzplanung bis 2028
+- TOP 8.1: Beratung als Fachausschuss und als Vorberatungsgremium für den Rat
+- TOP 8.2: Haushaltsplan der Stadt Münster für das Haushaltsjahr 2025 - mehrheitlich geändert beschlossen
+- TOP 9: Anfragen und Anträge von Mitgliedern des Ausschusses
+- TOP 10: Verschiedenes
