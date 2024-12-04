@@ -1,0 +1,53 @@
+# 19. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-12-04T19:30:00+01:00
+- Ende: 2024-12-04T22:00:00+01:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5787
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5787
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=412141
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Protokollbestätigung - vertagt
+- TOP 3: Fragestunde und Bürger:innenanliegen - erledigt
+- TOP 4: Schwerpunktthema: KLR - Bericht und Manahmen SGA (Grünflächen) - erledigt
+- TOP 5: Bericht des Bezirksamtes - erledigt
+- TOP 6: Überwiesene Drucksachen - vertagt
+- TOP 6.1: Schnelle Nutzung des Grundstücks Gotlindestraße/Siegfriedstraße ermöglichen - vertagt
+- TOP 6.2: Stadtplatz Frankfurter Allee - vertagt
+- TOP 6.3: Beleuchtung für den Rudolf-Seiffert-Park - vertagt
+- TOP 6.4: Operation Prozessoptimierung: Bürger*innen auf Mission zur Verwaltungsverbesserung! - vertagt
+- TOP 6.5: Spielplatzpatenschaften auch in Lichtenberg - vertagt
+- TOP 6.6: Lichtenberg als leuchtendes Vorbild – Drohnenshow an Silvester - vertagt
+- TOP 6.7: Nachhaltige Lösungen für die Rattenproblematik - vertagt
+- TOP 6.8: Einen barrierefreien Bereich neben Sitzbänken berücksichtigen - vertagt
+- TOP 6.9: Eine Halle für Skaterhockey in Hohenschönhausen - vertagt
+- TOP 6.10: Wege zur Schule am Tierpark kurzfristig begradigen und Vorplatz neu gestalten - vertagt
+- TOP 6.11: Regenentwässerung Siedlung Wartenberg – Verkehrssicherungspflicht gewährleisten - vertagt
+- TOP 6.12: Inklusion sicherstellen: Räume für soziale Träger in der Geflüchtetenunterkunft - vertagt
+- TOP 6.13: Eine Jugendfreizeiteinrichtung auf dem Gelände der Gartenarbeitsschule ab 2026 - vertagt
+- TOP 6.14: Flexible Kinderbetreuung im Bürgeramt etablieren - vertagt
+- TOP 6.15: Kunst im Park - vertagt
+- TOP 6.16: Spraydosen-Schmu: Saubere Schilder für Lichtenberg! - vertagt
+- TOP 6.17: Gehwege reparieren statt Schilder "Gehwegschäden" - vertagt
+- TOP 6.18: Einen zweiten Standort für die Gartenarbeitsschule in Herzberge - vertagt
+- TOP 6.19: Die Parks beim Namen nennen - vertagt
+- TOP 6.20: Panchina Rossa - eine rote Parkbank als Mahnmal für Femizide und Gewalt an Frauen - vertagt
+- TOP 6.21: Fußgängerrampe für den Rheinsteinpark - vertagt
+- TOP 6.22: Schulhof entstauben, Boden aufwerten in der Oberseeschule - vertagt
+- TOP 6.23: Gutspark Falkenberg aufwerten: Pflege, Barrierearmut und Sanierung des Gutsteichs sicherstellen - vertagt
+- TOP 6.24: Die Margaretenhöhe im Fokus: Renaturierung voranbringen, ÖPNV-Anschluss ermöglichen und "Park-and-Ride" einrichten - vertagt
+- TOP 6.25: Maßnahmen zur umfassenden Verbesserung der Infrastruktur und Verkehrssicherheit im Wohnquartier "Mein Falkenberg" - vertagt
+- TOP 6.26: Der (Amateur-) Musik und Kunstschaffenden eine Bühne geben - Die Freilichtbühne im Stadtpark Lichtenberg wetterfest machen - vertagt
+- TOP 6.27: Ein Frauenzentrum für FLINTA* in Lichtenberg! - vertagt
+- TOP 6.28: Bäume für Fennpfuhl Ost - vertagt
+- TOP 6.29: Klassenfahrten für Lichtenberger Schülerinnen und Schüler retten! - vertagt
+- TOP 6.30: B.L.O.-Ateliers jetzt konkret unterstützen! - vertagt
+- TOP 6.31: Mosaike in der Bornitzstraße retten - vertagt
+- TOP 7: Sonstiges - erledigt
