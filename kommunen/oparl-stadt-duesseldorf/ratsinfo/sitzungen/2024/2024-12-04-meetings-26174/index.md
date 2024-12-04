@@ -1,0 +1,54 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-12-04T17:26:00+01:00
+- Ende: 2024-12-04T18:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26174
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26174
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00538422.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00538422.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00538422.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 02.10.2024 - vertagt
+- TOP -: Anfragen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfrage der SPD-Fraktion: Pfandringe im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 5: Anfrage des Jörg Graf (SPD): Neubau REWE Markt An der Piwipp - schriftlich beantwortet
+- TOP 6: Anfrage der SPD-Fraktion: Fußgängerüberweg Westfalenstraße - Ergebnisse Verkehrszählung - vertagt
+- TOP 7: Anfrage der CDU-Fraktion: Verkehrssituation auf der Oberrather Straße - Abfahrt von der Brücke zur Sankt-Franziskus-Straße - vertagt
+- TOP -: Anträge (wurden bereits übersandt)
+- TOP 8: Antrag der SPD-Fraktion: Tempo 30 "An der Piwipp" - abweichend beschlossen
+- TOP 8.1: Änderungsantrag der CDU-Fraktion zur Vorlage BV6/195/2024 - Tempo 30 „An der Piwipp" - zurückgezogen
+- TOP -: Anträge
+- TOP 9: Antrag der SPD-Fraktion: Schwimmbad Unterrath jetzt bauen! - abweichend beschlossen
+- TOP 10: Antrag der CDU-Fraktion: Fußgängerfurten An der Piwipp - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 11: Grünordnungsrahmenplan für den Stadtbezirk 6 (GOP II) - abweichend beschlossen
+- TOP 12: Aufstellort für "Bunte Bank für Toleranz und Sicherheit" - einstimmig beschlossen
+- TOP 13: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Bürger-Schützenverein 1925 e. V. Düsseldorf-Rath - Vereinschronik "100 Jahre Bürger-Schützenverein 1925 e. V." - einstimmig beschlossen
+- TOP 14: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des SG Unterrath e. V. Abteilung Handball - Ausstattung der Sporthalle Borbecker Str. mit Trainingsmaterial - einstimmig beschlossen
+- TOP 15: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Gaststätte "Zum Faselbusch" - Faselbuscher Weihnachtsmarkt - einstimmig abgelehnt
+- TOP 16: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Ongerod e. V. - Ausstellung "Das vergessene Kloster" in der Stadtbücherei Unterrath - einstimmig beschlossen
+- TOP 17: Bauunterhaltungsmittel 2024 Teil A "Schulen" - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 18: Bauunterhaltungsmittel 2024 Teil A "Schulen" - Anschaffung und Montage Tonanlage für die Joachim-Neander-Grundschule - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 19: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 20: Bebauungsplan-Entwurf Nr. 01/009 - Südlich An der Piwipp - zur Kenntnis genommen
+- TOP 21: Baumfällungen im Stadtbezirk 6 ab der 44. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 22: Bäume Fußgängerzone Matthiaskirchweg - Vorlage BV6/103/2024 - zur Kenntnis genommen
+- TOP 23: Baumfällungen im Stadtbezirk 6 ab der 46. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 24: Sitzungstermine der Bezirksvertretung 6 im Jahr 2025 - 2. Halbjahr - zur Kenntnis genommen
+- TOP 25: Verfügungsmittel 2024 - Zuschussvergabe 2024: Zuschuss für den Tierschutzverein Düsseldorf und Umgebung e. V. 1873 - Erweiterungsbau der "Kinderstube" - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2024: Jahresempfang der Bezirksvertretung 6 2025 "50-Jahre Bezirksvertretung 6" - einstimmig beschlossen
+- TOP 27: Verfügungsmittel 2024: Repräsentationsmittel - einstimmig beschlossen
+- TOP 28: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" - Hitzeschutzmaßnahmen für verschiedene Sportstätten im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 29: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" - Verbesserung der technischer Ausstattung des Sitzungssaals der Bezirksvertretung 6 - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2024 Teil C "Förderung Dritter" - Umbaumaßnahmen des Allgemeinen Rather Turnverein 1877/90 Düsseldorf e.V. - einstimmig beschlossen
+- TOP 31: Baumfällungen im Stadtbezirk 6 ab der 48. Kalenderwoche 2024 - zur Kenntnis genommen
