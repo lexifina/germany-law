@@ -1,0 +1,7 @@
+# TOP 14: Verschiedenes (u. a. Sitzungsplanung 2025)
+
+- Sitzung: 36. öffentliche Sitzung des Hauptausschusses (2024-12-04)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=74223
+- Ergebnis: im Ausschuss abgelehnt
