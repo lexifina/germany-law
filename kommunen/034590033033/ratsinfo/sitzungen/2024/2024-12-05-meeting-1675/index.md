@@ -1,0 +1,51 @@
+# Rat (17. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2024-12-05T17:30:00+01:00
+- Ende: 2024-12-05T19:45:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZY5Kfa1TCCuug0CLSQS3hFo
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1675
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRb-vdyv_Pvi-41RmbDmotLzuuJHypVKjkCG2YYsxa31/Bekanntmachung_Rat_05.12.2024.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfkXil5sD_fyDgRC8P2DN8LuOc5MzHhLZbp6odkYaP4T/Oeffentliches_Beschlussprotokoll_Rat_05.12.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 01.10.2024
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Bürger-Reise nach Stawiguda
+- TOP 3.2: Versetzung der Schulleiterin der Johannisschule
+- TOP 3.3: Fortführung des Mietpreisspiegels der Gemeinde Wallenhorst
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Neubildung des Ausschusses für Kindergärten, Schulen und Bildung hier: Stellvertretende Elternvertretung für den Primarbereich - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 4.2: Bildung des Aufsichtsrates der Wasserversorgung Wallenhorst GmbH hier: Berufung stellvertretender Mitglieder - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) - mehrheitlich mit 19 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.: Kämmereiangelegenheiten
+- TOP 6.1: Jahresabschluss für das Haushaltsjahr 2023 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Beratung und Entscheidung über die Entlastung des Bürgermeisters für das Haushaltsjahr 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Haushaltswirtschaft für das Jahr 2025 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 17 Ja-Stimme(n), 15 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.4: Genehmigungen der Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Wirtschaftsangelegenheiten
+- TOP 7.1: Audit "Ausgezeichneter Wohnort für Fachkräfte" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Liegenschaften
+- TOP 8.1: Flächenankäufe Gemeinde Wallenhorst - Genehmigung überplanmäßige Auszahlung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Umwelt- und Energieangelegenheiten
+- TOP 9.1: Zertifizierung „Fahrradfreundliche Kommune“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Errichtung eines Pumptracks in Wallenhorst - einstimmig, mit 3 Enthaltung(en) gefasst:
+- TOP 10.2: Sanierung „Maria-Montessori-Straße“ hier: Beschluss der Ausführungsplanung - mehrheitlich mit 28 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.3: Beschluss des Durchführungsvertrags zum vorhabenbezogenen Bebauungsplan Nr. 289 „Alte Feuerwache Rulle“ mit Vorhaben- und Erschließungsplan - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 10.4: Vorhabenbezogener Bebauungsplan Nr. 289 „Alte Feuerwache Rulle“ hier: Bericht über die Ergebnisse der Beteiligungsverfahren gem. §§ 3, 4 BauGB und Abwägungsbeschluss; Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan Nr. 289 mit Vorhaben- und Erschließungsplan gem. § 10 Abs. 1 BauGB - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 11.: Schulangelegenheiten
+- TOP 11.1: Antrag der Fraktion Bündnis 90/Die Grünen vom 29.08.2024 auf Errichtung einer Photovoltaikanlage, einer Regenwassersammelanlage mit der Möglichkeit der Einspeisung von Brauchwasser und eines Gründaches auf dem Neubau der Katharinaschule - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 11.2: Antrag der Fraktion Bündnis 90/Die Grünen vom 29.08.2024 auf Ergänzung und Erweiterung der Lehr- und Lernmittelfreiheit an den Wallenhorster Schulen - mehrheitlich mit 25 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 11.3: Umsetzung des Radverkehrskonzeptes hier: Erneuerung der Radabstellanlagen an der Katharinaschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 12.1: 8. Änderung der "Satzung über die Gewährung von Aufwandsentschädigung und Auslagenersatz der Ehrenbeamten und sonstigen Funktionsträgerinnen und Funktionsträger in der Freiwilligen Feuerwehr der Gemeinde Wallenhorst" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
