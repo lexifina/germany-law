@@ -1,0 +1,73 @@
+# 30. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-05T16:00:00+01:00
+- Ende: 2024-12-05T19:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29857
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29857
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohneranfrage - Baumaßnahmen KVB aus der Sitzung 07.11.2024
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.3 Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt ( 1037/2024), Änderungsantrag B90/Die Grünen - zurückgestellt
+- TOP 3.2: Beratung des Haushaltsplan-Entwurfs 2025/2026 einschließlich der Finanzplanung bis 2029 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Innenstadt gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.2 Beratung des Haushaltsplan-Entwurfs 2025/2026, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP -: Bürgerzentren ausreichend und langfristig finanzieren zu TOP 3., gem. Änderungsantrag Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 3.3: Haushaltsplan 2025/2026 hier: Veranschlagung der bezirksorientierten Mittel 2025/2026 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 3.4: Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze - ungeändert beschlossen
+- TOP -: Änderunsgantrag zu TOP 3.4 Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze, gem. Änderungsantrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - Kenntnis genommen
+- TOP 3.5: Einrichtung und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Brügelmannstr. 10, 50679 Köln - Deutz - ungeändert beschlossen
+- TOP 3.6: Errichtung eines "Offenen Bücherschrankes" - geändert beschlossen
+- TOP 3.7: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - ungeändert beschlossen
+- TOP 3.8: Feierabendmarkt auf dem Chlodwigplatz - geändert beschlossen
+- TOP 3.9: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ungeändert beschlossen
+- TOP 3.10: Baubeschluss für die Generalinstandsetzung der rechtsrheinischen Auf- und Abfahrtstrecken zur Deutzer Brücke (Mindener Straße und Siegburger Straße) in Köln-Deutz sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 3.11: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Ergänzung der Förderrichtlinie - ungeändert beschlossen
+- TOP 3.12: Masterplan Sauberkeit - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, Verkehrssituation am Ottoplatz in Deutz (Az.: 26/24 B) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: "Bushalteplatz entlang des Rheinufers vor den alten Messehallen" Az.: 193/23 - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr. "Schutz des denkmalgeschützten Platzes vor St. Gereon - Einfahrt von der Christophstraße verhindern" AZ 49/24 - zurückgestellt
+- TOP 4.4: Bürgereingabe nach § 24 GO "Lärmschutz ernst nehmen - Tempo 30 für die Riehler und Neusser Straße im Agnesviertel" AZ 91/23 - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe nach § 24 GO - „Zweiter Zugang zur KVB-Haltestelle Suevenstraße“ - geändert beschlossen
+- TOP 4.6: Bürgereingabe gemäß § 24 GO, betr.: „Satzung für den Erhalt des Belgischen Viertels“ Aktenzeichen 86/24 B - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Einrichtung einer umzäunten Hundespielwiese am Hansaplatz Ecke Adolf-Fischer-Str. / Gereonswall, gem. Antrag CDU, B90/Die Grünen und FDP - zurückgestellt
+- TOP 5.1.2: Deutz braucht eine soziale Erhaltungssatzung, gem. Antrag Die Linke, B90/Die Grünen und SPD - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Pilot bezirkliche Jugendbeteiligung gem. Antrag B90/Die Grünen, SPD, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP -: Pilot Jugendvertreter*innen in der BV gem. Ersetzungsantrag B90/Die Grünen, SPD, CDU, FDP, Die Linke, KlimaFreunde, Die Partei - geändert beschlossen
+- TOP 5.2.2: Beleuchtung Park am Theodor-Heuss-Ring, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.3: Umgestaltung Jean-Claude-Letist-Platz, gem. Antrag B90/Die Grünen, Die Linke und KlimaFreunde - zurückgestellt
+- TOP 5.2.4: Beleuchtung August-Sander-Park und Media Park, Antrag CDU - zurückgestellt
+- TOP 5.2.5: Luxemburger Straße im Bereich Innenstadt, gem. Antrag B90/Die Grünen, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.2: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.3: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.4: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Initiativen zum Severinsviertel, Anfrage der SPD - zurückgestellt
+- TOP 6.1.6: Sachstand Teppichvlies/Mögliche Gesundheitsgefährdung – Bolzplatz Agrippinaufer in Köln-Neustadt/Süd, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP 6.1.6.1: Beantwortung der Anfrage AN/1500/2024 von Bündnis 90/Die Grünen zum Sachstand Teppichvlies/Mögliche Gesundheitsgefährdung - Bolzplatz Agrippinaufer in Köln-Neustadt/Süd - Kenntnis genommen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Niederschrift zur 11. Sitzung des Gestaltungsbeirates in der Wahlpersiode 2023/2029 vom 24.09.2024 - Kenntnis genommen
+- TOP 9.2: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.3: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024 - Kenntnis genommen
+- TOP 9.4: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 9.5: Deutzer Hafen – Baufeld 05 - Kenntnis genommen
+- TOP 9.6: Sachstandsbericht - Kenntnis genommen
+- TOP 9.7: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
