@@ -1,0 +1,108 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-12-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905967
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905967
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.2.1.: Supermarkt Valpichlerstraße
+- TOP 1.2.2.: Kreuzung Inderstorferstraße /Jörgstraße
+- TOP 1.2.3.: Laim Vorschlag Boul und Fitness Option
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Schrotträder in der Laimer Röhre abräumen
+- TOP 2.2.: Bessere Sicherheit für Fußgänger/innen am Hönigschmidplatz
+- TOP 2.3.: E-Ladeinfrastruktur in ÖPNV-Bauprojekten vorsehen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté von April - November 2025 8.938,00 Euro, Az.: 0262.0-25-0349
+- TOP 3.1.1: Schreiben foolpool GbR vom 24.10.24: Antrag Zuwendung Stadtbezirksbudget - VerWunderLand - Open-Air-Varieté
+- TOP 3.2.: (E) Stadtbezirksbudget Veteranen- und Kriegerverein Laim von 1890/2010 e.V. Gedenkfeier zum Volkstrauertag am 16.11.2024 705,00 Euro; Az. 0262.0-25-0351
+- TOP 3.3.: (E) Stadtbezirksbudget Bürgertreff Laim e.V. Sommerfest auf dem Laimer Anger vom 25.07. - 27.07., 08.08. - 10.08. und 22.08. - 24.08.2025 39.000,00 Euro, Az.: 0262.0-25-0347
+- TOP 3.4.: (E) Stadtbezirksbudget Faschingsclub Laim e.V. Laimer Faschingstreiben 2025 am 01.03.2025 4.155,00 Euro; Az. 0262.0-25-0352
+- TOP 3.5.: (E) Stadtbezirksbudget SV München-Laim e.V. - Abteilung Handball Anschaffung neuer Laptops für das Schiedsgericht beim Handball 989,98 Euro; Az. 0262.0-25-0350
+- TOP 3.6.: (E) Stadtbezirksbudget Initiative "Wandmalerei" Wandmalerei am Spielplatz Laimer Anger "Meer und Piratenwelt" vom 01.03.2025 bis 01.11.2025 8.000,00 Euro; Az. 0262.0-25-0353
+- TOP 3.7.: (E) Stadtbezirksbudget Initiative "Bücherschrank Laim" Betreuung und Instandhaltung des Bücherschranks 100,00 Euro, Az.: 0262.0-25-0345
+- TOP 3.8.: (E) Stadtbezirksbudget CultureClouds e.V. Zirkuslust vom 01.01. - 31.10.2025 3.000,00 Euro, Az.: 0262.0-25-0348
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben AWM vom 23.10.24: Wertstoffinsel Friedenheimer Str. ggü. 27
+- TOP 4.3.: Abstimmung // Machbarkeitsstudie B+R-Anlage Laim - 13.11.2024 - Zusendung der Präsentation
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Geyerspergerstr. 58, Grundstück 203/54-Laim Neubau eines Wohnhauses (10 WE) mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2022-18447-23
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben BA 20 Hadern vom 16.10.24: Interfraktioneller Antrag: Stadtweite Lösung für das Abstellen von E-Scootern
+- TOP 6.2.: Schreiben BA 6 Sendling vom 09.10.24: Aufruf des BA 6 - Sendling „Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!"
+- TOP 6.3.: Aufenthaltsqualität am S-Bahnhof Hirschgarten
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Mobilität vom 23.10.24
+- TOP 7.2.: Protokoll UA Umwelt, Klima und Baumschutz vom 04.11.24
+- TOP 7.3.: Protokoll BA-Sitzung vom 07.11.24
+- TOP 7.4.: Protokoll UA Kultur vom 07.11.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 30.10.2024: Informationsschreiben BA 03/2024: Voraussetzungen einer ordnungsgemäßen Ladung / Beschlussfähigkeit des Bezirksausschusses
+- TOP 8.2.: Schreiben Büro 2. Bürgermeister vom 31.10.24: Unterlagen zur Veranstaltung Umgang mit neuer StVO für BAs am 22.10.24
+- TOP 8.3.: Schreiben Münchner Stadtentwässerung vom 29.10.24: Projekt Kanalsanierung
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.10.24: Information Öffentlichkeitsbeteiligung Bauleitpläne
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.10.24: Fällungsantrag Gotthardstr. 40 - 42
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.10.24: Fällungsantrag Agnes-Bernauer-Str. 86
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.10.24: Fällungsantrag St.-Ulrich-Str. 24
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.10.24: Tram-Westtangente, Tektur E Teil 2, Vorläufige Anordnung
+- TOP 8.9.: Bautenliste 14.10.-20.10.24 A) Änderungsverfahren zu genehmigten Bauvorhaben 1. Geyerspergerstr. 58
+- TOP 8.10.: Bautenliste 21.10.-27.10.24: A) Erstantragsverfahren 1. Camerloherstr. 61b 2. Elsenheimerstr. 7 3. Junkerstr. 55
+- TOP 8.11.: Bautenliste 28.10.-03.11.24: A) Erstantragsverfahren 1. Elsenheimerstr. 65 2. Justinus-Kerner-Str. 5
+- TOP 8.12.: Bautenliste 04.11.24-10.11.24: A) Erstantragsverfahren 1. Landsberger STr. 187 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Junkerstr. 99
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.11.24: Tram-Westtangente, Tektur D Teil 2, Änderungsplanfeststellungsbeschluss
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.11.24: Fällungsantrag Reutterstr. 76 - 80
+- TOP 8.15.: Antwortschreiben SWM vom 04.11.24: Tram Westtangente aktuell
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 24.10.24: Sitzungsvorlage Nr. 20-26 / V 14763; Novellierung SoNuRL und SoNuGebS
+- TOP 8.17.: Schreiben Kreisverwaltungsreferat vom 31.10.24: Mitteilung über unveränderte Fortführung eines Betriebes - Shisha-Bar "Star Cafe", Agnes-Bernauer-Str. 21
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 10.09.24: Inforaum / Infocontainer Baustelle Tram-Westtangente
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 04.11.24 Fürstenrieder Str._Gotthardstr._Bph. 4.2.1_4.2.2_U_02925_24_SWM - VAO komplett Abdruck
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 31.10.24: Aufhebung personenbezogener Sonderparkplatz Ludwig-Richter-Str. 25
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 23.10.24: DG "Aktenzeichen XY ungelöst", Riegerhofweg 5 mit Vollsperre
+- TOP 8.22.: Schreiben Mobilitätsreferat vom 23.10.24: Fürstenrieder Str. AMM-AIN Bhp. 5.1_U_02793_24_SWM_VAO Abdruck
+- TOP 8.23.: Schreiben Mobilitätsreferat vom 25.10.24: Fürstenrieder Str. zw. Hohenw. und GOT_Bph 4.2.1_U 02830_24_SWM - VAO Abdruck
+- TOP 8.24.: Schreiben Mobilitätsreferat vom 28.10.24: Fürstenrieder Str. AMM Bph. 4.1_U 02856_24_Änderung und VL_SWM_VAO komplett Abdruck
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 28.10.24: VAO Fürstenrieder Str. Bereich AMM - MHB_BA_III_BPH_1_U_02843_24
+- TOP 8.26.: Schreiben Mobilitätsreferat vom 13.11.24: VAO Fürstenrieder Str. Bereich MHB - EHR, BA III_U_03032_24_SWM
+- TOP 8.27.: Antwortschreiben Mobilitätsreferat vom 11.11.24: Aufwertung des Laimer Stadtteilzentrums Fürstenrieder Straße
+- TOP 8.28.: Schreiben Direktorium vom Oktober 2024: Verwendungsnachweise
+- TOP 8.29.: Beschluss der Vollversammlung des Stadtrates vom 23.10.24: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 8.30.: Bekanntgabe in der Sitzung des Bauausschusses vom 05.11.24: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 8.31.: Beschluss des Bauausschusses vom 05.11.24: (U) Laimer Unterführung - „Umweltverbundröhre“ im 9. Stadtbezirk Neuhausen - Nymphenburg und im 25. Stadtbezirk Laim Umsetzung des Eckdatenbeschlusses 2025 (BAU-003) 1. Projektaktualisierung seitens der DB 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2024 - 2028
+- TOP 8.32.: Beschluss des Sozialausschusses vom 14.11.24: (U) Perspektiven der Beratungsstruktur für ältere Menschen und Angehörige in München Fragenkatalog zum Thema Pflegestützpunkte Schreiben des Bezirksausschusses des Stadtbezirks 18 - Untergiesing-Harlaching vom 28.02.2024
+- TOP 8.33.: Beschluss des Sozialausschusses vom 14.11.24: (U) Verbot der Zweckentfremdung von Wohnraum Genehmigung einer Zweckentfremdung von Wohnraum zur Unterbringung von vulnerable Geflüchteten aufgrund vorrangiger öffentlicher Belange für das Anwesen in der Joergstraße 78 25. Stadtbezirk - Laim
+- TOP 8.34.: Beschluss des Bildungsausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 06.11.24: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 8.35.: Beschluss der Vollversammlung des Stadtrates vom 23.10.24: (U) A.) Rahmenplanung Gartenstadt 2.0 - Endbericht und Evaluation der Steuerungsinstrumente B.) Anträge und Empfehlungen Stadtbezirk 16 Ramersdorf - Perlach Stadtbezirk 18 Untergiesing - Harlaching Stadtbezirk 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Stadtbezirk 20 Hadern Stadtbezirk 21 Pasing - Obermenzing Stadtbezirk 24 Feldmocing - Hasenbergl Stadtbezirk 25 Laim
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.11.24: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.24: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2153 Riegerhofstraße (westlich), Gotthardstraße (nördlich), Sportanlage Riegerhofstraße (östlich), Lukas-Schule (südlich) - Schulerweiterungsbau mit unterirdischer Dreifachsporthalle - (Teiländerung des vorhabenbezogenen Bebauungsplans mit Grünordnung Nr. 2001) - Satzungsbeschluss - Stadtbezirk 25 Laim
+- TOP 8.38.: Beschluss des Mobilitätsausschusses vom 13.11.24: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Müllabfuhr in Theodor-Fischer-Siedlung (Weiterleitung an AWM)
+- TOP 9.2.: Planung von E-Rollern-Abstellplätzen in der Rechpacherstraße 28 (Antwort an Bürger*in)
+- TOP 9.3.: Wertstoffinsel Friedenheimer Str. (Antwort an Bürger*in)
+- TOP 9.4.: Situation der Wertstoffinseln im Bereich Laim (Antwort an Bürger*in)
+- TOP 9.5.: Parklizenzgebiet Laim (Antwort an Bürger*in)
+- TOP 9.6.: Parklizenzgebiet Laim - weiterhin hohe Dringlichkeit (Antwort an Bürger*in)
+- TOP 9.7.: Parklizenzgebiet Laim (Antwort an Bürger*in)
+- TOP 9.8.: Agricolastraße Bereich Agnes-Bernauerstrasse/ Valpicherlstraße Antrag zur Erneuerung der Fahrbahndecke (Weiterleitung an Baureferat)
+- TOP 9.9.: Baustellenbeschilderung Hans-Thonauer-Straße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.10.: Verkehr in Laim (Kenntnisnahme)
+- TOP 9.11.: Gefährliche Kreuzung Camerloherstr/Guido-Schneble-Str Vorfahrtsregelung (Weiterleitung an Mobilitätsreferat)
+- TOP 9.12.: Neuer Spielplatz Laimer Platz / Gotthardstrasse (Weiterleitung an Baureferat/Gartenbau)
+- TOP 9.13.: Einführung einer gelben Tonne (Weiterleitung an AWM)
+- TOP 9.14.: Wilhelm-Riehl-Str- 23 - 25 (Weiterleitung an Polizeiinspektion 41 und kurze Antwort an Bürger*in)
+- TOP 9.15.: Dialog-Display Guido-Schneble-Strasse (Weiterleitung an Vorsitzenden UA Mobilität)
+- TOP 5.2.: Landsberger Str. 364, Grundstück 240/13-Laim Ausbau eines Spitzbodens (WE 14) sowie Ausbau eines Kellergeschosses (WE 15)
+- TOP 5.3.: Sandrartstr. 22, Grundstück 296/102-Laim ÄNDERUNGSANTRAG zu 1.2.2024-2697-23 - Neubau eines Mehrfamilienhauses (5 WE), Vierfach-Parker und Garage - jetzt: Neubau eines Mehrfamilienhauses mit 4 WE, Garage und Stellplätzen
+- TOP 5.4.: Eringerstr. 42, Grundstück 1585/22-Pasing Um- und Anbau eines Einfamilienhauses - ÄNDERUNGSANTRAG zu 1.23-2024-20161-23
+- TOP 5.5.: Kiem-Pauli-Weg 1, Grundstück 396/0-Laim "Alte Heimat" - Neubauschritt 3 + 4: Neubau von 7 Wohngebäuden mit 2 Tiefgaragen (Kiem-Pauli-Weg 1-69/Zschokkestr. 41 - 49) - ÄNDERUNGSANTRAG zu 1.2-2020-22219-23
