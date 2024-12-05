@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-05T17:00:00+01:00
+- Ende: 2024-12-05T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30086
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30086
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch des Dezernenten Robert Voigtsberger - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Weniger freie Grundschulplätze für die Einschulung - Kenntnis genommen
+- TOP 7.1.2: Kita Geranienweg 27 - Kenntnis genommen
+- TOP 7.1.3: Sanierung Bezirkssportanlage Merianstraße - Kenntnis genommen
+- TOP 7.1.4: Schul- und Kindergartenplätze im Stadtbezirk - Kenntnis genommen
+- TOP 7.1.5: Marode Sitzbänke - Kenntnis genommen
+- TOP 7.1.6: Poller an der Zufahrt zum Blackfoot Beach - Kenntnis genommen
+- TOP 7.1.7: Förderungen des Sozialen Wohnungsbau in Chorweiler - Kenntnis genommen
+- TOP 7.1.8: Teilnahme am Start-Chancen-Programm von Bund und Land - Kenntnis genommen
+- TOP 7.1.9: Unterstützung des Strukturwandels für Betriebe im Kölner Norden - Kenntnis genommen
+- TOP 7.1.10: Probleme mit S-Bahnlinie S11 in Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.11: Anfrage zum Einbau neuer Spielgeräte in der Olof-Palme-Park Spielplatzanlage - Kenntnis genommen
+- TOP 7.1.12: Anfrage zur Anzahl und Verteilung der festgestellten und geahndeten Parkverstöße im Stadtbezirk Chorweiler für die Jahres 2022 und 2023 - Kenntnis genommen
+- TOP 7.1.13: Insel im Pescher See - Kenntnis genommen
+- TOP 7.1.14: Geplante Klärschlammverbrennung in Merkenich - Kenntnis genommen
+- TOP 7.1.15: OGTS-Plätze im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Einrichtung einer Einbahnstraße Mohlenweg in Köln-Langel Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Entwicklung der Kfz-Zulassungszahlen und infrastrukturelle Maßnahmen im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung des Brauchtums in den Veedeln- Sicherung der Durchführung im Stadtbezirk Chorweiler 2025 - Mittelvergabe Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90/Die Grünen, der Fraktion Die Linke und Lilo Heinrich und - ungeändert beschlossen
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Einrichtung eines Zebrastreifens am Sportplatz in Merkenich Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Errichtung eines Radwegs auf dem neuen Kanal Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.3.3: Wieder mehr Wahllokale in Worringen Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Haushaltsplan-Entwurf Doppelhaushalt 2025/2026 hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.2: Beratung der Haushaltsplan-Entwurfs 2025/2026 einschließlich der Finanzplanung bis 2029 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Chorweiler gem. § 37 Abs. 4 - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortsetzung der Maßnahme "Willkommen und Ankommen in Köln" für Zugewanderte aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 9.2.2: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, Hier: Qualitätsstandards - ungeändert beschlossen
+- TOP 9.2.3: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ungeändert beschlossen
+- TOP 9.2.4: Masterplan Sauberkeit - Sache ist erledigt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bewirtschaftung des städtischen Waldes 2024/2025 - Kenntnis genommen
+- TOP 10.2.2: Sachstand Kitaversorgung Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.3: Mitteilung über die Veröffentlichung gemäß §3 Abs. 2 BauGB der 242. Änderung des Flächennutzungsplanes Arbeitstitel: "Hotelneubau am Freizeitbad Aqualand" in Köln-Chorweiler - Kenntnis genommen
+- TOP 10.2.4: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.5: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024 - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bushaltestelle Arenzhof in Köln-Fühlingen, Aktenzeichen 65/24 - Kenntnis genommen
+- TOP 10.2.7: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 63552/01 Arbeitstitel: "Hotelneubau am Freizeitbad Aqualand" in Köln-Chorweiler - Kenntnis genommen
+- TOP 10.2.8: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 10.2.9: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 60537/02, Arbeitstitel: "Volkhovener Straße" in Köln-Esch/Auweiler - Kenntnis genommen
+- TOP 10.2.10: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 10.2.11: Verlängerung des Unterkunftsstandortes P5 an der Merianstraße - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Baustellenverkehr Südl. Baptiststr. in Roggendorf - Thenhoven - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
