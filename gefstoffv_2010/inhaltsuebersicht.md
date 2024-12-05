@@ -10,6 +10,7 @@ Gefahrstoffinformation
 | § 3 | Gefahrenklassen |
 | § 4 | Einstufung, Kennzeichnung und Verpackung |
 | § 5 | Sicherheitsdatenblatt und sonstige Informationspflichten |
+| § 5a | Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen |
 Abschnitt 3
 Gefährdungsbeurteilung
 und Grundpflichten
@@ -19,9 +20,11 @@ Abschnitt 4
 Schutzmaßnahmen
 | § 8 | Allgemeine Schutzmaßnahmen |
 | § 9 | Zusätzliche Schutzmaßnahmen |
-| § 10 | Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen und reproduktionstoxischen Gefahrstoffen der Kategorie 1A und 1B |
-| § 11 | Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen |
-| § 12 | (weggefallen) |
+| § 10 | Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B |
+| § 10a | Besondere Aufzeichnungs-, Mitteilungs- und Unterrichtungspflichten bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B |
+| § 11 | Verwendungs- und Tätigkeitsbeschränkungen für Asbest |
+| § 11a | Anforderungen an Tätigkeiten mit Asbest |
+| § 12 | Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen |
 | § 13 | Betriebsstörungen, Unfälle und Notfälle |
 | § 14 | Unterrichtung und Unterweisung der Beschäftigten |
 | § 15 | Zusammenarbeit verschiedener Firmen |
@@ -56,25 +59,23 @@ Ordnungswidrigkeiten, Straftaten und Übergangsvorschriften
 | § 24 | Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen |
 | § 25 | Übergangsvorschrift |
 Anhang I
-(zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)
-Besondere Vorschriften
-für bestimmte Gefahrstoffe und Tätigkeiten
+(zu § 8 Absatz 8, § 11a Absatz 1 bis 6, § 12 Absatz 1 und 4, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)
+Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 | Nummer 1 | Brand- und Explosionsgefährdungen |
 | Nummer 2 | Partikelförmige Gefahrstoffe |
-| Nummer 3 | (weggefallen) |
+| Nummer 3 | Asbest |
 | Nummer 4 | Biozid-Produkte und Begasung mit Biozid-Produkten oder Pflanzenschutzmitteln |
 | Nummer 5 | Ammoniumnitrat |
 Anhang II
-(zu § 16 Absatz 2)
-Besondere Herstellungs- und
-Verwendungsbeschränkungen für bestimmte
-Stoffe, Gemische und Erzeugnisse
-| Nummer 1 | Asbest |
+(zu § 10 Absatz 1, § 16 Absatz 2)
+Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe,
+Gemische und Erzeugnisse
+| Nummer 1 | (weggefallen) |
 | Nummer 2 | 2-Naphthylamin, 4-Aminobiphenyl, Benzidin, 4-Nitrobiphenyl |
-| Nummer 3 | Pentachlorphenol und seine Verbindungen |
+| Nummer 3 | (weggefallen) |
 | Nummer 4 | Kühlschmierstoffe und Korrosionsschutzmittel |
 | Nummer 5 | Biopersistente Fasern |
 | Nummer 6 | Besonders gefährliche krebserzeugende Stoffe |
-| Anhang III (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden |
+| Anhang III (zu § 12 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden |
 | Nummer 1 | Anwendungsbereich und Begriffsbestimmungen |
 | Nummer 2 | Tätigkeiten mit organischen Peroxiden |

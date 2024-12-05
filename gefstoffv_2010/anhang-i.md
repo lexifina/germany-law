@@ -1,15 +1,15 @@
-# Anhang I (zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
+# Anhang I (zu § 8 Absatz 8, § 11a Absatz 1 bis 6, § 12 Absatz 1 und 4, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
 Inhaltsübersicht
 | Nummer 1 | Brand- und Explosionsgefährdungen |
 | Nummer 2 | Partikelförmige Gefahrstoffe |
-| Nummer 3 | (weggefallen) |
+| Nummer 3 | Asbest |
 | Nummer 4 | Biozid-Produkte und Begasung mit Biozid-Produkten oder Pflanzenschutzmitteln |
 | Nummer 5 | Ammoniumnitrat |
 Nummer 1
 Brand- und Explosionsgefährdungen
 1.1 Anwendungsbereich
-Nummer 1 gilt für Maßnahmen nach § 11 bei Tätigkeiten mit Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können.
+Nummer 1 gilt für Maßnahmen nach § 12 bei Tätigkeiten mit Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können.
 1.2 Grundlegende Anforderungen zum Schutz vor Brand- und Explosionsgefährdungen
 (1)
 Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung nach § 6 die organisatorischen und technischen Schutzmaßnahmen nach dem Stand der Technik festzulegen, die zum Schutz von Gesundheit und Sicherheit der Beschäftigten oder anderer Personen vor Brand- und Explosionsgefährdungen erforderlich sind.
@@ -61,7 +61,7 @@ Bereiche, in denen brennbare Gefahrstoffe in solchen Mengen gelagert werden, das
 Soweit nach der Gefährdungsbeurteilung erforderlich, sind zu Lagerorten von Gefahrstoffen Schutz- und Sicherheitsabstände einzuhalten. Dabei ist ein Sicherheitsabstand der erforderliche Abstand zwischen Lagerorten und zu schützenden Personen, ein Schutzabstand ist der erforderliche Abstand zum Schutz des Lagers gegen gefährliche Einwirkungen von außen.
 1.6 Mindestvorschriften für den Explosionsschutz bei Tätigkeiten in Bereichen mit gefährlichen explosionsfähigen Gemischen
 (1)
-Bei der Festlegung von Schutzmaßnahmen nach § 11 Absatz 2 Nummer 1 sind insbesondere Maßnahmen nach folgender Rangfolge zu ergreifen:
+Bei der Festlegung von Schutzmaßnahmen nach § 12 Absatz 2 Nummer 1 sind insbesondere Maßnahmen nach folgender Rangfolge zu ergreifen:
 1. es sind Stoffe und Gemische einzusetzen, die keine explosionsfähigen Gemische bilden können, soweit dies nach dem Stand der Technik möglich ist,
 2. ist dies nicht möglich, ist die Bildung von gefährlichen explosionsfähigen Gemischen zu verhindern oder einzuschränken, soweit dies nach dem Stand der Technik möglich ist,
 3. gefährliche explosionsfähige Gemische sind gefahrlos nach dem Stand der Technik zu beseitigen.
@@ -110,20 +110,14 @@ Für explosionsgefährdete Bereiche, die nicht nach Nummer 1.7 in Zonen eingetei
 Nummer 2
 Partikelförmige Gefahrstoffe
 2.1 Anwendungsbereich
-Nummer 2 gilt für Tätigkeiten mit Exposition gegenüber allen alveolengängigen und einatembaren Stäuben. Nummer 2.4 gilt ergänzend für Tätigkeiten, bei denen Asbeststaub oder Staub von asbesthaltigen Materialien freigesetzt wird oder freigesetzt werden kann. Abweichungen von den Nummern 2.4.2 bis 2.4.5 sind möglich, sofern es sich um Tätigkeiten handelt, die nur zu einer geringen Exposition führen.
+Nummer 2 gilt für Tätigkeiten mit Exposition gegenüber allen alveolengängigen und einatembaren Stäuben.
 2.2 Begriffsbestimmungen
 (1)
 Stäube, einschließlich Rauche, sind disperse Verteilungen fester Stoffe in der Luft, die insbesondere durch mechanische, thermische oder chemische Prozesse oder durch Aufwirbelung entstehen.
 (2)
 Einatembar ist derjenige Anteil von Stäuben im Atembereich von Beschäftigten, der über die Atemwege aufgenommen werden kann. Alveolengängig ist derjenige Anteil von einatembaren Stäuben, der die Alveolen und Bronchiolen erreichen kann.
 (3)
-Asbest im Sinne von Nummer 2 und Anhang II Nummer 1 sind folgende Silikate mit Faserstruktur:
-1. Aktinolith, CAS-Nummer 77536-66-4,
-2. Amosit, CAS-Nummer 12172-73-5,
-3. Anthophyllit, CAS-Nummer 77536-67-5,
-4. Chrysotil, CAS-Nummer 12001-29-5 und CAS-Nummer 132207-32-0,
-5. Krokydolith, CAS-Nummer 12001-28-4,
-6. Tremolit, CAS-Nummer 77536-68-6.
+(weggefallen)
 2.3 Ergänzende Schutzmaßnahmen für Tätigkeiten mit Exposition gegenüber einatembaren Stäuben
 (1)
 Die Gefährdungsbeurteilung nach § 6 bei Tätigkeiten mit Stoffen, Gemischen und Erzeugnissen, die Stäube freisetzen können, ist unter Beachtung ihres Staubungsverhaltens vorzunehmen.
@@ -141,7 +135,7 @@ Ablagerungen von Stäuben sind zu vermeiden. Ist dies nicht möglich, so sind di
 Einrichtungen zum Abscheiden, Erfassen und Niederschlagen von Stäuben müssen dem Stand der Technik entsprechen. Bei der ersten Inbetriebnahme dieser Einrichtungen ist deren ausreichende Wirksamkeit zu überprüfen. Die Einrichtungen sind mindestens jährlich auf ihre Funktionsfähigkeit zu prüfen, zu warten und gegebenenfalls in Stand zu setzen. Die niedergelegten Ergebnisse der Prüfungen nach den Sätzen 2 und 3 sind aufzubewahren.
 (8)
 Für staubintensive Tätigkeiten sind geeignete organisatorische Maßnahmen zu ergreifen, um die Dauer der Exposition so weit wie möglich zu verkürzen. Ergibt die Gefährdungsbeurteilung nach § 6, dass die in Absatz 2 in Bezug genommenen Arbeitsplatzgrenzwerte nicht eingehalten werden können, hat der Arbeitgeber geeignete persönliche Schutzausrüstung, insbesondere zum Atemschutz, zur Verfügung zu stellen. Diese ist von den Beschäftigten zu tragen. Den Beschäftigten sind getrennte Aufbewahrungsmöglichkeiten für die Arbeitskleidung und für die Straßenkleidung sowie Waschräume zur Verfügung zu stellen.
-2.4 Ergänzende Vorschriften zum Schutz gegen Gefährdung durch Asbest
+2.4 (weggefallen)
 2.4.1 Ermittlung und Beurteilung der Gefährdung durch Asbest
 Der Arbeitgeber hat bei der Gefährdungsbeurteilung nach § 6 festzustellen, ob Beschäftigte bei Tätigkeiten Asbeststaub oder Staub von asbesthaltigen Materialien ausgesetzt sind oder ausgesetzt sein können. Dies gilt insbesondere für Abbruch-, Sanierungs- und Instandhaltungsarbeiten mit asbesthaltigen Erzeugnissen oder Materialien. Vor allem hat der Arbeitgeber zu ermitteln, ob Asbest in schwach gebundener Form vorliegt.
 2.4.2 Anzeige an die Behörde
@@ -192,7 +186,89 @@ Gegenstand der Unterweisung sind insbesondere folgende Punkte:
 6. sachgerechte Abfallbeseitigung,
 7. arbeitsmedizinische Vorsorgeuntersuchungen nach der Verordnung zur arbeitsmedizinischen Vorsorge.
 Nummer 3
-(weggefallen)
+Asbest
+3.1 Anwendungsbereich
+Nummer 3 gilt ergänzend zu Nummer 2 für Tätigkeiten, bei denen Asbestfasern freigesetzt werden oder freigesetzt werden können.
+3.2 Arbeitsplan
+Im Arbeitsplan nach § 11a Absatz 1 Nummer 6 hat der Arbeitgeber insbesondere Folgendes zu beschreiben:
+1. Arbeitsverfahren und verwendete Arbeitsmittel,
+2. technische, organisatorische und persönliche Schutzmaßnahmen,
+3. das Verfahren, nach dem überprüft wird, dass im Arbeitsbereich nach Abschluss der Tätigkeiten keine Gefährdung durch Asbest mehr besteht.
+Bei Durchführung der Tätigkeiten mit einem anerkannten emissionsarmen Verfahren nach § 2 Absatz 4b kann die dem Verfahren zugrundeliegende Beschreibung den Arbeitsplan ersetzen.
+3.3 Schutzmaßnahmen
+(1)
+Bei der Festlegung und Umsetzung risikobezogener Schutzmaßnahmen nach § 11a Absatz 2 hat der Arbeitgeber sicherzustellen, dass
+1. die Schutzmaßnahmen geeignet sind, die Ausbreitung von asbesthaltigem Staub aus dem Arbeitsbereich zu verhindern; geeignete Schutzmaßnahmen sind insbesondere
+  a) staubdichte Abtrennung des Arbeitsbereichs,
+  b) Lüftungseinrichtung mit ausreichender Unterdruckhaltung,
+  c) Personenschleuse mit Dusche,
+  d) Materialschleuse,
+2. die erforderlichen Hygienemaßnahmen ergriffen und eingehalten werden,
+3. Arbeitsbereiche sowie Arbeitsmittel nach Abschluss der Tätigkeiten fachgerecht gereinigt werden; vor Freigabe der Arbeitsbereiche ist der Erfolg der Reinigung zu prüfen oder nachzuweisen.
+(2)
+Der Arbeitgeber hat den Beschäftigten geeignete Atemschutzgeräte, Schutzanzüge und, soweit erforderlich, weitere persönliche Schutzausrüstung zur Verfügung zu stellen. Der Arbeitgeber hat sicherzustellen, dass die Beschäftigten die zur Verfügung gestellte persönliche Schutzausrüstung verwenden.
+(3)
+Vor dem Rückbau von baulichen oder technischen Anlagen sind asbesthaltige Materialien zu entfernen, soweit dies möglich ist.
+3.4 Zulassung
+(1)
+Die Zulassung nach § 11a Absatz 3 wird erteilt, wenn
+1. der Arbeitgeber nachgewiesen hat, dass
+  a) die für die Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung gegeben ist und
+  b) die Einhaltung der einschlägigen Arbeitsschutzvorschriften gewährleistet ist und
+2. keine Bedenken gegen die Zuverlässigkeit des Arbeitgebers bestehen.
+(2)
+Der Arbeitgeber hat dem Zulassungsantrag Folgendes beizufügen:
+1. eine Beschreibung der auszuführenden Tätigkeiten,
+2. den Nachweis, dass die sicherheitstechnische Ausstattung des Betriebs für die Tätigkeiten ausreichend und geeignet ist,
+3. die Angabe zu den sachkundigen Personen sowie die entsprechenden Sachkundenachweise,
+4. die Zahl der fachkundigen Beschäftigten, die Tätigkeiten mit Asbest durchführen sollen.
+3.5 Anzeige
+(1)
+Die Anzeige nach § 11a Absatz 4 erfolgt unternehmens- oder objektbezogen. Die Anzeige ist vor einer Änderung der Arbeitsbedingungen, die zu einer erheblichen Erhöhung der Exposition der Beschäftigten führen kann, erneut vorzunehmen. Der Anzeige ist die Dokumentation der Gefährdungsbeurteilung einschließlich des Arbeitsplans sowie der Nachweis der Qualifikation der verantwortlichen und aufsichtführenden Personen beizufügen.
+(2)
+Tätigkeiten im Bereich niedrigen oder mittleren Risikos sind unternehmensbezogen anzuzeigen. In der unternehmensbezogenen Anzeige hat der Arbeitgeber anzugeben:
+1. Ort der Betriebsstätte,
+2. Art und Menge der asbesthaltigen Materialien, die gehandhabt werden,
+3. ausgeübte Tätigkeiten und angewendete Arbeitsverfahren,
+4. Angabe des Risikobereichs einschließlich der Art der Expositionsermittlung,
+5. Anzahl der fachkundigen Beschäftigten,
+6. Maßnahmen zur Begrenzung der Asbestexposition der Beschäftigten,
+7. Angaben zur verantwortlichen und aufsichtführenden Person.
+Unternehmensbezogene Anzeigen sind spätestens nach sechs Jahren erneut vorzunehmen.
+(3)
+Bei wechselnden Arbeitsstätten
+1. sind bei Tätigkeiten im Bereich mittleren Risikos ergänzend zur unternehmensbezogenen Anzeige der Ort der Arbeitsstätte sowie Beginn und Dauer der Tätigkeiten anzuzeigen oder
+2. ist bei Tätigkeiten im Bereich hohen Risikos eine objektbezogene Anzeige mit Angaben nach Absatz 2 erforderlich; ergänzend sind der Ort der Arbeitsstätte und Beginn und Dauer der Tätigkeiten anzuzeigen sowie eine Kopie der Zulassung nach § 11a Absatz 3 beizufügen.
+Für anerkannte emissionsarme Verfahren kann in den nach § 20 Absatz 4 bekannt gegebenen Regeln zusätzlich festgelegt werden, dass ergänzend zur unternehmensbezogenen Anzeige der Ort der Arbeitsstätte sowie Beginn und Dauer der Tätigkeit anzuzeigen sind.
+3.6 Fachkunde
+(1)
+Die Fachkunde nach § 11a Absatz 5 Nummer 3 umfasst die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um Tätigkeiten mit Asbest fachgerecht durchzuführen. Hinsichtlich Inhalt, Umfang und Bescheinigung der erforderlichen Fachkenntnisse sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
+(2)
+Die spezifische praxisbezogene Fortbildungsmaßnahme für eine aufsichtführende Person nach § 11a Absatz 5 Satz 3 ist von einer Körperschaft des öffentlichen Rechts oder einem gewerkespezifischen Fachverband durchzuführen. Sie bedarf keiner behördlichen Anerkennung. Der Lehrgangsträger hat der zuständigen Behörde die Durchführung entsprechender Qualifizierungsmaßnahmen einmal vor Beginn des jeweils ersten Lehrgangs mitzuteilen. Die Qualifikationsmaßnahme umfasst keine abschließende Prüfung. Die Teilnahme wird durch einen Qualifikationsnachweis bescheinigt. Der Qualifikationsnachweis ist zeitlich nicht befristet.
+3.7 Sachkunde
+(1)
+Der Nachweis der nach § 11a Absatz 5 erforderlichen Sachkunde wird erbracht durch die erfolgreiche Teilnahme an einem behördlich anerkannten Sachkundelehrgang.
+(2)
+Der Sachkundelehrgang hat die Kenntnisse und Fähigkeiten zu vermitteln, die erforderlich sind, um die jeweiligen Aufgaben und Tätigkeiten sachgerecht durchführen zu können. Die Inhalte des Lehrgangs können gewerkespezifisch ausgerichtet werden. Teil des Lehrgangs ist eine theoretische Prüfung über dessen wesentliche Inhalte. Bei den Inhalten des Lehrgangs und der theoretischen Prüfung sind die Bekanntmachungen nach § 20 Absatz 4 zu berücksichtigen.
+(3)
+Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Wird während der Geltungsdauer des Sachkundenachweises ein behördlich anerkannter Fortbildungslehrgang besucht, verlängert sich die Geltungsdauer um jeweils sechs Jahre, gerechnet ab dem Datum des Nachweises über den Abschluss des Fortbildungslehrgangs.
+(4)
+Die Anerkennung eines Sachkundelehrgangs gemäß Absatz 1 wird für einen Zeitraum von maximal sechs Jahren erteilt und kann mit Auflagen sowie mit dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden.
+3.8 Übergangsfristen für Verbote für das Inverkehrbringen asbesthaltiger Zubereitungen und Erzeugnisse gemäß Abschnitt 2 des Anhangs zu § 1 der Chemikalien-Verbotsverordnung vom 14. Oktober 1993 (BGBl. I S. 1720)
+Die Verbote galten bis zum 20. April 1994 nicht für Stoffe, Zubereitungen und Erzeugnisse, die vor dem 20. Oktober 1993 hergestellt worden sind. Dies galt nicht für:
+1. Fertigerzeugnisse in Pulverform, die im Einzelhandel öffentlich verkauft wurden,
+2. katalytische Siebe und Isoliervorrichtungen, die für mit Flüssiggas betriebene Heizgeräte bestimmt oder in solche Heizgeräte eingebaut waren,
+3. Anstrichstoffe,
+4. Stoffe und Zubereitungen zum Aufsprühen oder Aufspritzen,
+5. Krokydolith oder krokydolithhaltige Zubereitungen und Erzeugnisse.
+Die Verbote galten bis zum 31. Dezember 1994 nicht für folgende chrysotilhaltige Zubereitungen und Erzeugnisse einschließlich der zu ihrer Herstellung benötigten Rohstoffe:
+1. Kanal- und Druckrohrleitungen für den Tiefbau, ausgenommen unbeschichtete Trinkwasserrohre,
+2. Brunnenrohre für die Entwässerung von Braunkohletagebauten,
+3. Kupplungsbeläge für Fahrzeuge und Bremsklotzsohlen für schienengebundene Fahrzeuge, soweit keine sicherheitstechnisch geeigneten asbestfreien Kupplungsbeläge oder verkehrsrechtlich zugelassenen asbestfreien Bremsklotzsohlen auf dem Markt angeboten wurden,
+4. duroplastische Formmassen zur Herstellung von Kommutatoren,
+5. statische Dichtungen, dynamische Dichtungen, Packungen und Zylinderkopfdichtungen für Fahrzeuge und gewerbliche Anwendung,
+6. Reibbeläge für gewerbliche Anwendungen.
+Das Verbot erstreckte sich nicht auf natürlich vorkommende mineralische Rohstoffe, die freie Asbestfasern mit einem Massengehalt von nicht mehr als 0,1 Prozent enthielten.
 Nummer 4
 Biozid-Produkte und Begasung mit
 Biozid-Produkten oder Pflanzenschutzmitteln
@@ -236,11 +312,11 @@ In der Anzeige nach § 15d Absatz 3 hat der Arbeitgeber
 Die Fachkunde nach § 15b Absatz 3 und § 15f Absatz 2 umfasst die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um die verwendeten Biozid-Produkte bestimmungsgemäß und fachgerecht verwenden zu können. Hinsichtlich des Inhalts und des Umfangs der Fachkunde sind die nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
 4.4 Sachkunde
 (1)
-Die erforderliche Sachkunde wird durch Vorlage einer Bescheinigung über die erfolgreiche Teilnahme an einem Sachkundelehrgang nachgewiesen. Der Sachkundelehrgang muss die Anforderungen der Absätze 3 und 4 erfüllen und von der zuständigen Behörde anerkannt sein. Die zuständige Behörde kann eine anderweitige Aus- oder Weiterbildung als gleichwertig mit einem Sachkundelehrgang anerkennen, wenn die erforderlichen praktischen und theoretischen Kenntnisse und Fertigkeiten im Sinne von Absatz 3 erworben wurden, um die jeweiligen Biozid-Produkte bestimmungsgemäß und sachgerecht verwenden zu können. Werden die entsprechenden Kenntnisse aufgrund anderer Rechtsvorschriften zum Beispiel nach dem Pflanzenschutzrecht erworben, gelten die Sachkundeanforderungen als erfüllt.
+Die erforderliche Sachkunde wird durch Vorlage einer Bescheinigung über die erfolgreiche Teilnahme an einem Sachkundelehrgang nachgewiesen. Der Sachkundelehrgang muss die Anforderungen der Absätze 3 und 4 erfüllen und von der zuständigen Behörde anerkannt sein. Die zuständige Behörde kann eine anderweitige Aus- oder Weiterbildung als gleichwertig mit einem Sachkundelehrgang anerkennen, wenn die erforderlichen praktischen und theoretischen Kenntnisse und Fertigkeiten im Sinne von Absatz 3 erworben wurden, um die jeweiligen Biozid-Produkte bestimmungsgemäß und sachgerecht verwenden zu können.
 (2)
-Beschränkt sich die vorgesehene Verwendung der Biozid-Produkte auf bestimmte Anwendungsbereiche, so kann auch eine Sachkunde anerkannt werden, die auf diese Bereiche bezogen ist. Dies gilt
-1. für Aus- und Weiterbildungsabschlüsse, die in einer Bekanntmachung nach § 20 Absatz 4 genannt sind sowie
-2. hinsichtlich der jeweiligen Bereiche der Schädlingsbekämpfung für
+Beschränkt sich die vorgesehene Verwendung der Biozid-Produkte auf bestimmte Anwendungsbereiche, so kann auch eine Sachkunde anerkannt werden, die auf diese Bereiche bezogen ist. Einer Sachkunde gleichgestellt sind
+1. Aus- und Weiterbildungsabschlüsse, die in einer Bekanntmachung nach § 20 Absatz 4 genannt sind hinsichtlich der dort genannten Anwendungsbereiche, sowie
+2. hinsichtlich der jeweiligen Bereiche der Schädlingsbekämpfung
   a) Abschlüsse nach der Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin vom 15. Juli 2004 (BGBl. I S. 1638),
   b) Prüfungen nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Schädlingsbekämpfer/Geprüfte Schädlingsbekämpferin vom 19. März 1984 (BGBl. I S. 468) und
   c) Prüfungen zum Gehilfen oder Meister für Schädlingsbekämpfung nach nicht mehr geltendem Recht in der Bundesrepublik Deutschland oder nach dem Recht der Deutschen Demokratischen Republik.
@@ -257,7 +333,7 @@ Der Sachkundelehrgang hat die erforderlichen praktischen und theoretischen Kennt
 (4)
 Teil des Lehrgangs ist eine theoretische und praktische Prüfung über die wesentlichen Inhalte des Sachkundelehrgangs. Dabei sind die Bekanntmachungen nach § 20 Absatz 4 zu berücksichtigen.
 (5)
-Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Die Geltungsdauer verlängert sich um sechs Jahre ab dem Datum der Erteilung eines Nachweises über den Abschluss eines behördlich anerkannten Fortbildungslehrgangs.
+Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Die Geltungsdauer verlängert sich um jeweils sechs Jahre ab dem Datum der Erteilung eines Nachweises über den Abschluss eines behördlich anerkannten Fortbildungslehrgangs.
 4.5 Befähigungsschein
 (1)
 Ein Befähigungsschein nach § 15d Absatz 4 kann von der zuständigen Behörde auf Antrag erteilt werden, wenn der Antragsteller

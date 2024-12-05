@@ -1,4 +1,4 @@
-# Anhang III (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
+# Anhang III (zu § 12 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
 
 Inhaltsübersicht
 | Nummer 1 | Anwendungsbereich und Begriffsbestimmungen |

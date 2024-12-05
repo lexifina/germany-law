@@ -12,6 +12,8 @@
 - [§ 3 Gefahrenklassen](0003.md)
 - [§ 4 Einstufung, Kennzeichnung, Verpackung](0004.md)
 - [§ 5 Sicherheitsdatenblatt und sonstige Informationspflichten](0005.md)
+- [§ 5 Sicherheitsdatenblatt und sonstige Informationspflichten](0005-2.md)
+- [§ 5a Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen](0005a.md)
 
 ## Abschnitt 3 Gefährdungsbeurteilung und Grundpflichten
 
@@ -22,9 +24,11 @@
 
 - [§ 8 Allgemeine Schutzmaßnahmen](0008.md)
 - [§ 9 Zusätzliche Schutzmaßnahmen](0009.md)
-- [§ 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen und reproduktionstoxischen Gefahrstoffen der Kategorie 1A und 1B](0010.md)
-- [§ 11 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen](0011.md)
-- [§ 12 (weggefallen)](0012.md)
+- [§ 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B](0010.md)
+- [§ 10a Besondere Aufzeichnungs-, Mitteilungs- und Unterrichtungspflichten bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B](0010a.md)
+- [§ 11 Verwendungs- und Tätigkeitsbeschränkungen für Asbest](0011.md)
+- [§ 11a Anforderungen an Tätigkeiten mit Asbest](0011a.md)
+- [§ 12 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen](0012.md)
 - [§ 13 Betriebsstörungen, Unfälle und Notfälle](0013.md)
 - [§ 14 Unterrichtung und Unterweisung der Beschäftigten](0014.md)
 - [§ 15 Zusammenarbeit verschiedener Firmen](0015.md)
@@ -59,6 +63,6 @@
 - [§ 23 (weggefallen)](0023.md)
 - [§ 24 Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen](0024.md)
 - [§ 25 Übergangsvorschriften](0025.md)
-- [Anhang I (zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten](anhang-i.md)
-- [Anhang II (zu § 16 Absatz 2)Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse](anhang-ii.md)
-- [Anhang III (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden](anhang-iii.md)
+- [Anhang I (zu § 8 Absatz 8, § 11a Absatz 1 bis 6, § 12 Absatz 1 und 4, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten](anhang-i.md)
+- [Anhang II (zu § 10 Absatz 1, § 16 Absatz 2)Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse](anhang-ii.md)
+- [Anhang III (zu § 12 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden](anhang-iii.md)
