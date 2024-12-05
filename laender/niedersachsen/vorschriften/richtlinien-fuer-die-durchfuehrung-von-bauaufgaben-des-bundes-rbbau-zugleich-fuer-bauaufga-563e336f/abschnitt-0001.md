@@ -3,5 +3,6 @@
 In der Anlage wird die redaktionell überarbeitete 12. Austauschlieferung der Richtlinien für die Durchführung von Bauaufgaben des Landes Niedersachsen (RLBau), Stand Januar 2024, bekannt gegeben.
 Es handelt sich bei dieser Überarbeitung der RLBau lediglich um redaktionelle Anpassungen, die kurzfristig aufgrund des Beschlusses des Ausschusses für Haushalt und Finanzen in der 37. Sitzung am 22.11.2023 (Wertgrenzenerhöhung für KNUE), der Stiftungsgründung Leibniz Universität Hannover zum 01.01.2024 und zur Anpassung an aktuelle Titelstrukturen notwendig geworden sind.
 Die 12. Austauschlieferung der Richtlinien für die Durchführung von Bauaufgaben des Landes Niedersachsen (RLBau) ist ab sofort anzuwenden. Die Änderungen sind gelb unterlegt.
+Abschnitt K 14 der Richtlinien für die Durchführung von Bauaufgaben des Landes Niedersachsen (RLBau), Stand Januar 2024, wird mit Wirkung vom 05.12.2024 redaktionell überarbeitet und ist ab diesem Termin in der überarbeiteten Fassung anzuwenden. Die Änderungen sind gelb unterlegt.
 Dieser RdErl. tritt mit Wirkung vom 01.01.2024 in Kraft. Der Bezugserlass tritt mit Ablauf des 31.12.2023 außer Kraft.
 An die Dienststellen des Staatlichen Baumanagements übrigen Dienststellen der Landesverwaltung
