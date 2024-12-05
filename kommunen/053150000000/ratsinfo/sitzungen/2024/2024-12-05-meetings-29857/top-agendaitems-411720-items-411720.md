@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 3.2 Beratung des Haushaltsplan-Entwurfs 2025/2026, Antrag B90/Die Grünen
+
+- Sitzung: 30. Sitzung der Bezirksvertretung Innenstadt (2024-12-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/411720
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/190262
