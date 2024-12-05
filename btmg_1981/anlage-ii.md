@@ -35,10 +35,12 @@
 | - | APICA (SDB-001, 2NE1) | N-(Adamantan-1-yl)-1-pentyl-1H-indol-3-carboxamid |
 | - | BB-22 (QUCHIC) | Chinolin-8-yl[1-(cyclohexylmethyl)-1H-indol-3-carboxylat] |
 | - | Benzylpiperazin (BZP) | 1-Benzylpiperazin |
+| - | Bromazolam | 8-Brom-1-methyl-6-phenyl-4H-[1,2,4]triazol[4,3-a][1,4]benzodiazepin |
 | - | Brorphin | 1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-on |
 | - | Buphedron | 2-(Methylamino)-1-phenylbutan-1-on |
 | Butalbital | - | 5-Allyl-5-isobutylbarbitursäure |
 | - | Butobarbital | 5-Butyl-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion |
+| - | Butonitazen (Butoxynitazen) | N,N-Diethyl-2-{2-[(4-butoxyphenyl)methyl]-5-nitro-1H-benzimidazol-1-yl}ethan-1-amin |
 | - | Butylon | 1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)butan-1-on |
 | - | Butyrfentanyl (Butyrylfentanyl) | N-Phenyl-N-[1-(2-phenylethyl) piperidin-4-yl]butanamid |
 | Cetobemidon | Ketobemidon | 1-[4-(3-Hydroxyphenyl)-1-methyl-4-piperidyl]propan-1-on |
@@ -73,6 +75,7 @@
 | - | Dimethocain(DMC, Larocain) | (3-Diethylamino-2,2-dimethylpropyl)-4-aminobenzoat |
 | - | 2,5-Dimethoxy-4-iodamfetamin (DOI) | 1-(4-Iod-2,5-dimethoxyphenyl)propan-2-amin |
 | - | 3,4-Dimethylmethcathinon (3,4-DMMC) | 1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-on |
+| - | N,N-Dimethylpentylon(Dipentylon, bk-DMBDP) | 1-(1,3-Benzodioxol-5-yl)-2-(dimethylamino)pentan-1-on |
 | - | Diphenidin (1,2-DEP, DPD, DND, 1,2-Diphenylethylpiperidin) | 1-(1,2-Diphenylethyl)piperidin |
 | Diphenoxylat | - | Ethyl[1-(3-cyan-3,3-diphenylpropyl)-4-phenylpiperidin-4-carboxylat] |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 0,25 vom Hundert oder je abgeteilte Form bis zu 2,5 mg Diphenoxylat, berechnet als Base, und, bezogen auf diese Mengen, mindestens 1 vom Hundert Atropinsulfat enthalten - |
@@ -102,6 +105,7 @@
 | - | Flualprazolam (2-Fluor-Alprazolam, SCHEMBL7327360, Flu-Alp) | 8-Chlor-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepin |
 | - | Flubromazepam | 7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
 | - | Flubromazolam | 8-Brom-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin |
+| - | 2-Fluordeschlorketamin(2-Fluorketamin, 2-FDCK, 2-FL-2‘-OXO-PCM) | 2-(2-Fluorphenyl)-2-(methylamino)cyclohexan-1-on |
 | - | 4-Fluorisobutyrfentanyl (4-Fluorisobutyrylfentanyl, 4F-iBF, p-FIBF) | N-(4-Fluorphenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamid |
 | - | 4-Fluormethamfetamin (4-FMA) | 1-(4-Fluorphenyl)-N-methylpropan-2-amin |
 | - | 3-Fluormethcathinon (3-FMC) | 1-(3-Fluorphenyl)-2-(methylamino)propan-1-on |
