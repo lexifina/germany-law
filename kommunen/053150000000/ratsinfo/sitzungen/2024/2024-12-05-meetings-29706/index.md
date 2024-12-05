@@ -1,0 +1,96 @@
+# 30. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-05T15:04:00+01:00
+- Ende: 2024-12-05T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29706
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29706
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen SE Vietzke aus der Sitzung des Stadtentwicklungsausschusses vom 19.09.2024 (1778/2024) betreffend Planfeststellungsverfahren für die Erneuerung der EÜ Höhenhauser Ring - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage von SE Vietzke aus der Sitzung des Stadtentwicklungsausschusses vom 19.09.2024 betreffend „Planfeststellungsverfahren für das Vorhaben Ausbau S 11/S-Bahn-Stammstrecke" (Vorlagen-Nr. 2064/2024) - Kenntnis genommen
+- TOP 1.3: Parkstadt Süd - Beantwortung einer mündlichen Anfrage - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Städtisches Grundstück im Planungsgebiet Brück - Rather Steinweg bereits verkauft? - Kenntnis genommen
+- TOP 2.1.1: Städtisches Grundstück im Planungsgebiet Brück - Rather Steinweg bereits verkauft? (AN/1501/2024) - Kenntnis genommen
+- TOP 2.2: Anfrage bzgl. Kölner Wohnbedarfe im Bezug auf Kreuzfeld - Kenntnis genommen
+- TOP 2.2.1: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 07.11.2024 (Session-Nr. AN/1503/2024) bzgl. Kölner Wohnbedarfe in Bezug auf Kreuzfeld - zurückgestellt
+- TOP 2.3: Wie steht es um den Domsockel? - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg - zurückgestellt
+- TOP 3.1.1: Stellungnahme zum Antrag AN/1970/2023 der Ratsgruppe KLIMA FREUNDE & GUT betreffend: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP 3.1.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP 3.2: „Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln“ präzisieren - zurückgestellt
+- TOP 3.3: Einsatz des Instruments der Sozialen Erhaltungssatzung - geändert beschlossen
+- TOP 3.3.1: "Einsatz des Instruments der Sozialen Erhaltungssatzung", Stellungnahme - Kenntnis genommen
+- TOP 3.4: Umsetzung des StEK Wohnen hier: das Instrument Erhaltungssatzung vermehrt nutzen - Sache ist erledigt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bedarfsfeststellungsbeschluss: Vergabe eines Gutachtens zur Ermittlung von Potentialen interkommunaler und regionaler Zusammenarbeit für die Stadt Köln - zurückgestellt
+- TOP 5.2: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke - PFA 1.1" in Köln-Innenstadt - ungeändert beschlossen
+- TOP 5.3: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - zurückgestellt
+- TOP 5.4: Planfeststellungsverfahren für das Vorhaben "Ultranet-Höchstspannungsleitung" - Änderung des Beschlusses vom 07.11.2024 - ungeändert beschlossen
+- TOP 5.5: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel", - zurückgestellt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - ohne Votum behandelt
+- TOP 6.2: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - ohne Votum behandelt
+- TOP 6.3: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - mit Änderungen empfohlen
+- TOP 6.3.1: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - abgelehnt (in der Vorberatung)
+- TOP 6.3.2: Hier: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - ungeändert beschlossen
+- TOP 6.4: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - zurückgestellt
+- TOP 6.5: Bau- und Mittelfreigabebeschluss für die Weiterführung des Rheinboulevards zwischen Hohenzollernbrücke und Tanzbrunnen auf Basis der Entwurfsplanung - ohne Votum behandelt
+- TOP 6.6: Planungsbeschluss auf Basis des Entwurfs EIFELWALL Parkstadt Süd - ungeändert empfohlen
+- TOP 6.7: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ohne Votum behandelt
+- TOP 6.8: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - ohne Votum behandelt
+- TOP 6.8.1: Wohnungsbau stärken- Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - ohne Votum behandelt
+- TOP 6.9: Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze - ungeändert empfohlen
+- TOP 6.10: StadtBahn Süd – Festlegung des vorläufigen Endhaltepunktes in Meschenich - ohne Votum behandelt
+- TOP 6.10.1: StadtBahn Süd – Festlegung des vorläufigen Endhaltepunktes in Meschenich - ohne Votum behandelt
+- TOP 6.10.2: Haltestelle „Meschenich Nord„ als Umsteigestation nördlich der Straße „Am Kölnberg“ ausbauen! - Sache ist erledigt
+- TOP 6.11: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, Hier: Qualitätsstandards - ohne Votum behandelt
+- TOP 6.11.1: Änderungsantrag von SKE Intveen zu 3408/2024 betreffend "Regelwerk zur Anordnung und Gestaltung der Außengastronomie" - Sache ist erledigt
+- TOP 6.12: ISEK Porz-Mitte - Brücke über die Hauptstraße - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: Feststellungsbeschluss zur 239. Änderung des Flächennutzungsplans, Arbeitstitel: „Gewerbegebiet Venloer Straße" in Köln-Bocklemünd/Mengenich - ungeändert empfohlen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Bebauungsplan mit dem Arbeitstitel "Roddergasse" in Köln-Humboldt/Gremberg; hier: Beschluss über die Verfahrensumstellung und Vorgabenbeschluss - ungeändert beschlossen
+- TOP 9.2: Anhörung der Bezirksvertretung Rodenkirchen zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes Nr. 68383/02 Arbeitstitel: Falkenweg in Köln-Rondorf - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: "Nördlich Stolberger Straße" in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 10.2: Vorgabenbeschluss zur Ausarbeitung des Bebauungsplan-Entwurfs Nr.: 63460/05 Arbeitstitel: Max Becker-Areal in Köln Ehrenfeld - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Südlich Subbelrather Straße/westlich Hackländer Straße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Kalker Hauptstraße/ Barcelona-Allee in Köln-Kalk - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - Arbeitstitel: Sicherung Gleueler Wiesen in Köln-Sülz - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 69472/01 Arbeitstitel: Lindgens-Areal in Köln-Mülheim - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 65412/02 –Arbeitstitel: Integrative Quartiersentwicklung am Kalscheurer Weg in Köln-Zollstock - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Änderung des Geltungsbereiches des Bebauungsplanes „Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg“ in Köln-Ehrenfeld und Änderung des Arbeitstitels in: „Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel" in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betr.: Beschluss über die Aufstellung eines Bebauungsplanes - zurückgestellt
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: Mitteilung über die Veröffentlichung gemäß §3 Abs. 2 BauGB der 242. Änderung des Flächennutzungsplanes Arbeitstitel: "Hotelneubau am Freizeitbad Aqualand" in Köln-Chorweiler - Kenntnis genommen
+- TOP 17.2: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 63552/01 Arbeitstitel: "Hotelneubau am Freizeitbad Aqualand" in Köln-Chorweiler - Kenntnis genommen
+- TOP 17.3: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 60537/02, Arbeitstitel: "Volkhovener Straße" in Köln-Esch/Auweiler - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Abschlussbericht der Maßnahme "Büro für Quartiersmanagement und Aktivierung" im Soziale-Stadt-Gebiet Ostheim und Neubrück - Kenntnis genommen
+- TOP 18.2: Priorität Wohnungsbau - Neue Kompetenzen der Projektkonferenz Wohnungsbau | Wohnungsbauleitstelle - Kenntnis genommen
+- TOP 18.3: Einsatz des Instruments der Sozialen Erhaltungssatzung - Kenntnis genommen
+- TOP 18.4: Niederschrift zur 11. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 vom 24.09.2024 - Kenntnis genommen
+- TOP 18.5: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel", hier: Projektergebnis und Beschluss über das weitere Vorgehen
+- TOP 18.6: Deutzer Hafen – Baufeld 05 - Kenntnis genommen
+- TOP 18.7: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - Kenntnis genommen
+- TOP 18.8: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
