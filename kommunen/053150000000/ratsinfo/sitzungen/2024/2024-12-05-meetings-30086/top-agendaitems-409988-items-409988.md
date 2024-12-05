@@ -1,0 +1,7 @@
+# TOP -: Besuch des Dezernenten Robert Voigtsberger
+
+- Sitzung: Sitzung der Bezirksvertretung Chorweiler (2024-12-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/409988
+- Ergebnis: Kenntnis genommen
