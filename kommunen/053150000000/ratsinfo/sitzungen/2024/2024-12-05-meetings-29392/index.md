@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-05T17:06:00+01:00
+- Ende: 2024-12-05T18:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29392
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29392
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A -Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Annahme von Schenkungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Beratung des Haushaltsplanentwurfs 2025/2026 einschließlich der Finanzplanung bis 2029 und der sonstigen Anlagen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Haushaltsplanentwurf - Stadtverschönerungsmittel" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Haushaltsplanberatungen - Streetworker" - ungeändert beschlossen
+- TOP 6.2: Handlungsempfehlung für die Ferdinand-Porsche-Straße in Köln-Porz-Eil - zurückgestellt
+- TOP 6.3: Anpassung des Radverkehrshauptnetzes - geändert beschlossen
+- TOP 6.4: Gewährung eines Zuschusses an den Partnerschaftsverein e.V. Köln-Porz im Jahr 2024 - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Planungsbeschluss: Neubau Feuer- und Rettungswache 7 und Feuerwehrgerätehaus Löschgruppe Eil - geändert beschlossen
+- TOP 7.2: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel", - zurückgestellt
+- TOP 7.3: Regelwerk zur Anordnung und Gestaltung der Außengastronomie,Hier: Qualitätsstandards - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Außengastronomie" - ungeändert beschlossen
+- TOP 7.4: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ungeändert beschlossen
+- TOP 7.5: ISEK Porz-Mitte - Brücke über die Hauptstraße - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfrage der Fraktionen CDU, SPD und GRÜNE "Erweiterter Planungsbeschluss zur Aufwertung der Verbindungsachse Rheinboulevard zur Neuen Mitte Porz" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.6: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf Flur 8 des Friedhofs Leidenhausen - ungeändert empfohlen
+- TOP 7.7: Masterplan Sauberkeit - endgültig abgelehnt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Sachstand über Forderungen und Ausführungen der Ersatzpflanzungen sowie deren Mittelverwendung" - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion "Verkehrliche Neuordnung des Rolshover Kirchwegs von der Kreuzung An den Maien bis Am Altenberger Kreuz" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU, SPD und Grüne "Ortsteilbeschilderung an Leinpfad und Fußwegen im Rahmen der Gleichberechtigung des Verkehrs" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Neuer Gestattungsvertrags mit der Gemeinschaft der Zündorfer Ortsvereine" - ungeändert beschlossen
+- TOP 8.5: Dringlichkeitsantrag CDU, SPD, Grüne, FDP "Unterstützung von Aktionen zu 50 Jahren Porz in Köln" - ungeändert beschlossen
+- TOP -: Stellungnahme zu AN/1696/2024 - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Dringlichkeitsantrag der SPD-Fraktion "Open Air Location - Südbrücke" - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der BV Porz vom 01.09.2024 (AN/1163/2024) betreffend "Abriss des Brückenbauwerks Gilgaustraße" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Abriss des Brückenbauwerks Gilgaustraße" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage von der AfD in der Bezirksvertretung Porz am 14.02.2024 (AN/0444/2024) betreffend den "Tag des guten Lebens" - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Situation Grundstück Poller Kirchweg 106 – 116, Bauprojekt „Beherbergungsbetriebe“"
+- TOP -: Situation Grundstück Poller Kirchweg 106 - 116
+- TOP 9.2.2: Anfrage der SPD-Fraktion "KVB-Räder im Stadtbezirk Porz" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Umgehungsstraße Porz/Zündorf L82n" - zurückgestellt
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Ausbau der Frankfurter Straße einschließlich ÖPNV" - zurückgestellt
+- TOP 9.2.5: Anfrage der CDU-Fraktion "Maßnahmenkatalog für Porz-Finkenberg" - zurückgestellt
+- TOP 9.2.6: Anfrage der CDU-Fraktion "Treppenabgang Ohmstraße" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bewirtschaftung des städtischen Waldes 2024/2025 - Kenntnis genommen
+- TOP 10.2.2: Niederschrift zur 11. Sitzung des Gestaltungsbeirates in der Wahlpersiode 2023/2029 vom 24.09.2024 - Kenntnis genommen
+- TOP 10.2.3: Jahresbericht 2023 der Naturschutzwacht Bezirk Wahner Heide - Kenntnis genommen
+- TOP 10.2.4: Beschluss aus der Sitzung der Bezirksvertretung Porz vom 02.02.2023 "Bewirtschaftung des Parkplatzes Rosenhügel in Zündorf", AN/0089/2023 - Kenntnis genommen
+- TOP 10.2.5: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.6: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2024 - Kenntnis genommen
+- TOP 10.2.7: Niederschrift für das Fachgespräch zur Anpassung des Radverkehrshauptnetzes - Kenntnis genommen
+- TOP 10.2.8: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 10.2.9: Instandsetzung des Ensener Weg (zwischen Pumpwerk und Hausnummer 20) in Köln-Porz - Kenntnis genommen
+- TOP 10.2.10: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 10.2.11: Erteilung einer Baugenehmigung für die Errichtung von baulichen Anlagen für kulturelle Veranstaltungen und Märkte - Kenntnis genommen
+- TOP 10.2.12: Stellungnahme zum Beschluss der Bezirksvertretung Porz Vorlage 4033/2023 aus der Sitzung des SteA vom 14.03.2024 betreffend "Schulstandort Urbacher Weg in Köln-Porz" - Kenntnis genommen
