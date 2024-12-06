@@ -16,6 +16,7 @@
 - [§ 14 Festsetzung der Arbeitnehmer-Sparzulage, Anwendung der Abgabenordnung, Verordnungsermächtigung, Rechtsweg](0014.md)
 - [§ 15 Elektronische Vermögensbildungsbescheinigung, Verordnungsermächtigungen, Haftung, Anrufungsauskunft, Außenprüfung](0015.md)
 - [§ 16 Berlin-Klausel](0016.md)
+- [§ 16a Gleichstellung der Wertpapierinstitute](0016a.md)
 - [§ 17 Anwendungsvorschriften](0017.md)
 - [§ 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags
 und der Mitgliedschaft in einer Genossenschaft
