@@ -1,0 +1,52 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-12-06T14:00:00+01:00
+- Ende: 2024-12-06T16:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26213
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26213
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00537278.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00537278.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00537278.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 15.11.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Austausch zur Maßnahme: KGS Max-Schule, Citadellstraße 2a – Fenstersanierung Hofseite - zur Kenntnis genommen
+- TOP 4.2: Trödelmärkte auf dem Gelände des Großmarktes im 1. Halbjahr 2025 - einstimmig beschlossen
+- TOP 4.3: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 4.4: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2024 Liste A Schulen 2121101/52415100 - einstimmig beschlossen
+- TOP 4.6: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2024 - einstimmig beschlossen
+- TOP 4.7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Sitzungstermine der Bezirksvertretung 1 für das 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen - zurückgezogen
+- TOP 6: Anfragen
+- TOP 6.1: Zustand der Radwege Kaiserswerther Straße zwischen Kennedydamm und Reeser Platz - Anfrage der SPD-Fraktion
+- TOP 6.2: Radweg Jacobistraße vor dem Goethe Museum - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.3: Zeitplan Neubau REWE Markt an der Piwipp - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Versetzung der Litfaßsäule Kaiserswerther Straße/Felix Klein Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Errichtung von Fahrradabstellanlagen an den Eingängen des Nordfriedhofs - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 7.3: Schwimmbad Unterrath jetzt bauen! - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 7.4: Zebrastreifen auf der Roßstraße am Übergang Frankenplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.5: Fahrbahnerneuerung Parkstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 7.6: Kontrollen in Bahnen zwischen Pempelforter Straße und Hauptbahnhof - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Ortstermin am 10.10.2024 - Konzept zur langfristigen Erhaltung und Ausbau der Vegetation am Spee'schen Graben/Berger Allee; Beschluss der Bezirksvertretung 1 vom 26.04.2024; BV1/078/2024 - Informationsvorlage BV1/121/2024 - zur Kenntnis genommen
+- TOP 8.2: Unterflurcontainer an der Moltkestraße 63a, 114013 in Pempelfort an der Heilig-Geist-Kirche; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/239/2024 - zur Kenntnis genommen
+- TOP 8.3: Beseitigung von Wildwuchs am Tritonenbrunnen; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/205/2024 - zur Kenntnis genommen
+- TOP 8.4: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an vision:teilen e.V. für Schlafsäcke - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein St. Benedikt Schule für den Schulgarten - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an CVJM e.V. für eine Weihnachtsfeier für alleinstehende Männer - abweichend beschlossen
