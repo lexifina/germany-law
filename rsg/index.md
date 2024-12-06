@@ -13,6 +13,7 @@
 - [§ 5 Bemessung des Zielkapitals](0005.md)
 - [§ 6 Sicherheitsleistungen](0006.md)
 - [§ 7 Entgelte](0007.md)
+- [§ 7a Entgelte](0007a.md)
 
 ## Abschnitt 3 Geschäftsorganisation des Reisesicherungsfonds
 
