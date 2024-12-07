@@ -4,10 +4,12 @@
   a) Harte Kernkapitalquote
   b) Gesamtkapitalquote
   c) Verschuldungsquote
+  d) Quote oder Quoten der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 2. Liquiditätsindikatoren
   a) Liquiditätsdeckungsquote
   b) Strukturelle Liquiditätsquote
-  c) Kosten der Refinanzierung am Interbankengeldmarkt
+  c) Verfügbare zentralbankfähige unbelastete Vermögenswerte
+  d) Liquiditätsposition
 3. Rentabilitätsindikatoren
   a) Kapitalrendite oder Eigenkapitalrendite
   b) Bedeutende operative Verluste

@@ -27,6 +27,7 @@
 - [§ 14 Indikatoren](0014.md)
 - [§ 15 Handlungsoptionen](0015.md)
 - [§ 16 Belastungsanalyse](0016.md)
+- [§ 16a Kommunikations- und Informationsplan](0016a.md)
 - [§ 17 Frist zur Einreichung und Aktualisierung von Sanierungsplänen](0017.md)
 
 ## Abschnitt 4 Anforderungen an die Erstellung von Sanierungsplänen durch institutsbezogene Sicherungssysteme
@@ -39,13 +40,13 @@
 - [§ 23 Interner Prozess](0023.md)
 - [§ 24 Indikatoren](0024.md)
 - [§ 25 Handlungsoptionen](0025.md)
-- [§ 26 Kommunikations- und Informationsplan](0026.md)
-- [§ 27 Vorbereitungsmaßnahmen](0027.md)
-- [§ 28 Informationsaustausch](0028.md)
-- [§ 29 Aktualisierung](0029.md)
+- [§ 26 Vorbereitungsmaßnahmen](0026.md)
+- [§ 27 Informationsaustausch](0027.md)
+- [§ 28 Aktualisierung](0028.md)
+- [§ 29 Inkrafttreten](0029.md)
 
 ## Abschnitt 5 Schlussvorschriften
 
-- [§ 30 Inkrafttreten](0030.md)
+- [§ 30 (weggefallen)](0030.md)
 - [Anlage 1 Liste der Indikatoren des Sanierungsplans](anlage-1.md)
 - [Anlage 2 Liste zusätzlicher Indikatoren des Sanierungsplans](anlage-2.md)

@@ -8,7 +8,7 @@
   b) Kosten der Gesamtfinanzierung (Einlagenrefinanzierung und Refinanzierung am Interbankengeldmarkt)
   c) Durchschnittliche Position der Refinanzierung am Interbankengeldmarkt
   d) Inkongruenz bei der vertraglichen Laufzeit
-  e) Verfügbare unbelastete Vermögenswerte
+  e) Kosten der Refinanzierung am Interbankengeldmarkt
 3. Rentabilitätsindikatoren
   a) Aufwand-Ertrag-Verhältnis (Betriebskosten/Betriebseinkommen)
   b) Nettozinsspanne

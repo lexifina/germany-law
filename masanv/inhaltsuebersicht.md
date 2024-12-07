@@ -23,6 +23,7 @@ Vereinfachte Anforderungen
 | § 14 | Indikatoren |
 | § 15 | Handlungsoptionen |
 | § 16 | Belastungsanalyse |
+| § 16a | Kommunikations- und Informationsplan |
 | § 17 | Frist zur Einreichung und Aktualisierung von Sanierungsplänen |
 Abschnitt 4
 Anforderungen an die
@@ -36,12 +37,12 @@ durch institutsbezogene Sicherungssysteme
 | § 23 | Interner Prozess |
 | § 24 | Indikatoren |
 | § 25 | Handlungsoptionen |
-| § 26 | Kommunikations- und Informationsplan |
-| § 27 | Vorbereitungsmaßnahmen |
-| § 28 | Informationsaustausch |
-| § 29 | Aktualisierung |
+| § 26 | Vorbereitungsmaßnahmen |
+| § 27 | Informationsaustausch |
+| § 28 | Aktualisierung |
+| § 29 | Inkrafttreten |
 Abschnitt 5
 Schlussvorschriften
-| § 30 | Inkrafttreten |
+| § 30 | (weggefallen) |
 | Anlage 1 | Liste der Indikatoren des Sanierungsplans |
 | Anlage 2 | Liste zusätzlicher Indikatoren des Sanierungsplans |
