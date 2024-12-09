@@ -1,0 +1,80 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-09T14:35:00+01:00
+- Ende: 2024-12-09T15:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29709
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29709
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: 44. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.3: Kölner Verkehrs-Betriebe AG (KVB): Fortschreibung des öffentlichen Dienstleistungsauftrages (ÖDLA) - Kenntnis genommen
+- TOP 2.4: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen sowie der CDU-Fraktion aus dem Finanzausschuss vom 12.11.2024: "Überplanmäßiger Aufwand im Teilergebnisplan 0212 Brand- und Bevölkerungsschutz, Rettungsdienst - Kenntnis genommen
+- TOP 2.5: Monatsbericht Sanierung der Bühnen Köln Oktober 2024 - Kenntnis genommen
+- TOP 2.6: Auswirkungen des Jahressteuergesetzes 2024 des Bundes - Kenntnis genommen
+- TOP 2.7: Grundsteuerreform: Aktueller aufkommensneutraler einheitlicher Hebesatz - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Anonymer Krankenschein - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mitteilung zur Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2024 beim Bau des Sportlabors in Köln Müngersdorf - Kenntnis genommen
+- TOP 6.3: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 6.4: Haushaltsrechtliche Unterrichtung des Rates gemäß § 62 Abs. 4 Gemeindeordnung NRW - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Einrichtungs- und Mittelfreigabebeschluss - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Umgestaltung des Knotenpunktes KölnerStraße / Ottostraße / Dieselstraße im Gewerbegebiet Lövenich in einen Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 7.3: Baubeschluss für die Generalsanierung des Kärntner Wegs von Statthalterhofallee bis Donauweg sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 7.4: Baubeschluss für die Generalsanierung des Falkenwegs von Statthalterhofallee bis Kölner Weg sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Grundsteuerreform: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2025 und Beschluss über die Hebesatzsatzung - ohne Votum behandelt
+- TOP 10.1.1: Bei der Umsetzung der Grundsteuerreform Klagewelle wegen differenzierter Hebesätze vermeiden und Aufkommensneutralität bei einem einheitlichen Hebesatz sicherstellen - ohne Votum behandelt
+- TOP 10.2: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - ohne Votum behandelt
+- TOP 10.3: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - ohne Votum behandelt
+- TOP 10.4: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert beschlossen
+- TOP 10.5: Planungsbeschluss: Neubau Feuer- und Rettungswache 7 und Feuerwehrgerätehaus Löschgruppe Eil - geändert beschlossen
+- TOP 10.6: 17 "Ausbildungs-Universitäten" für die Fachkräfte von morgen - Leitbild, Handlungsfelder und Maßnahmenideen für die Berufskolleglandschaft Köln 2035 - Schulentwicklungsplanung für die städtischen Berufskollegs Teil 1 - ungeändert beschlossen
+- TOP 10.7: Weiterführung des Projektes Brückenbauer* - ohne Votum behandelt
+- TOP 10.8: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ohne Votum behandelt
+- TOP 10.9: Bau- und Mittelfreigabebeschluss für die Weiterführung des Rheinboulevards zwischen Hohenzollernbrücke und Tanzbrunnen auf Basis der Entwurfsplanung - ungeändert beschlossen
+- TOP 10.10: Einrichtung und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Brügelmannstr. 10, 50679 Köln - Deutz - ungeändert beschlossen
+- TOP 10.11: Änderung des Förderprogramms "Niedrigschwellige Suchthilfe" durch den Betrieb des Drogenkonsumraums in Kalk - geändert beschlossen
+- TOP 10.12: Fortsetzung der Maßnahme "Willkommen und Ankommen in Köln" für Zugewanderte aus den südosteuropäischen Mitgliedsstaaten der EU - ohne Votum behandelt
+- TOP 10.13: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ungeändert beschlossen
+- TOP 10.14: Jahresabschluss 2022 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.15: Stadtklima-/Stadtverschönerungsmittel Bezirk Lindenthal 2024 - geändert beschlossen
+- TOP 10.16: Humanitäre Hilfe für die Partnerstadt Dnipro (Ukraine): Abgabe von außerdienstgestellten Rettungswagen der Feuerwehr Köln für die Partnerstadt Dnipro (Ukraine) - ungeändert beschlossen
+- TOP 10.17: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - zurückgestellt
+- TOP 10.18: Kalkberg, hier: Ausführung von Restarbeiten zum nutzungsunabhängigen Gebäudeverschluss und zur Sicherung der Bausubstanz in Vorbereitung einer Nachnutzung sowie Übertragung der Immobilie in das Allgemeine Liegenschaftsvermögen der Stadt Köln - zurückgestellt
+- TOP 10.19: Stadtklima / Stadtverschönerungsprogramm 2024 im Stadtbezirk Chorweiler - ungeändert beschlossen
+- TOP 10.20: Erhöhung der Eintrittspreise und Änderung der Entgelt- und Benutzungsordnung im Bereich der Puppenspiele der Stadt Köln ab der Spielzeit 2025/2026 - ungeändert beschlossen
+- TOP 10.21: Generalsanierung der Schulaula Realschule, Neusser Straße 421 in 50733 Köln-Nippes – Kostenfortschreibungsbeschluss gemäß § 13 IV Satz 2 der Betriebssatzung der Gebäudewirtschaft in Verbindung mit § 16 V Satz 1 der Eigenbetriebsverordnung NRW - ungeändert beschlossen
+- TOP 10.22: Bildungslandschaft Altstadt Nord (BAN) - Baufeld C - Generalinstandsetzung Abendgymnasium Gereonsmühlengasse - Kostenfortschreibungsbeschluss gemäß § 13 IV S.2 Betriebssatzung GW iVm § 16 V S. 1 EigVO NRW und haushaltsrechtliche Mitteilung - ungeändert beschlossen
+- TOP 10.23: 17. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ungeändert beschlossen
+- TOP 10.24: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Ehrenfeld 2. Vergabe - ungeändert beschlossen
+- TOP 10.25: ISEK Porz-Mitte - Brücke über die Hauptstraße - ohne Votum behandelt
+- TOP 10.26: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.27: Baubeschluss für die Generalinstandsetzung der rechtsrheinischen Auf- und Abfahrtstrecken zur Deutzer Brücke (Mindener Straße und Siegburger Straße) in Köln-Deutz sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 10.28: Praktisches Jahr für Studierende der Humanmedizin im Gesundheitsamt - ungeändert beschlossen
+- TOP 10.29: Satzung über die Abfallgebühren in der Stadt Köln 2025 - ungeändert beschlossen
+- TOP 10.30: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2025 - ungeändert beschlossen
+- TOP 10.31: Benutzungs- und Entgeltordnung für das Historische Archiv mit Rheinischem Bildarchiv der Stadt Köln - ungeändert beschlossen
+- TOP 10.32: Nationales Bewerbungsverfahren des Deutschen Fußball-Bundes zur Ausrichtung der UEFA Women´s EURO 2029 - ungeändert beschlossen
+- TOP 10.33: Masterplan Sauberkeit - ohne Votum behandelt
+- TOP 10.34: Förderung Bündnis Kommunale Nachhaltigkeit Köln 2025-2026 - ohne Votum behandelt
+- TOP 10.35: Sicherstellung Betrieb Vertretungsstützpunkte in der Kindertagespflege nach § 23 Abs. 4 SGB VIII - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
