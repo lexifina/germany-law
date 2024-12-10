@@ -1,0 +1,94 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7969278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7969278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Fahrradstellplätze Schießstättstraße 30
+- TOP 4.2.: Schaffung von Fahrradstellplätzen in einer Parkbucht im Bereich Carlamaria-Heim-Str. 3+5 / August-Kühn-Str. 10
+- TOP 4.3.: Parksituation im Westend; Einrichtung Gemeinschaftsviertel
+- TOP 4.4.: Baustelleneinrichtung Höhe Bushaltestelle Gollierplatz
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ligsalzstraße 4
+- TOP 6.2.2.: Bauvorhaben Bergmannstraße 62
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Einladung zur Ausstellungseröffnung "Wir bauen Bildung" 10 Jahre Bildungsbauoffensive München am 11.12.2024
+- TOP 6.3.3.: Informationsveranstaltungen zum kommunalen Wärmeplan
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: Projektplanung - Errichtung einer Fitnessanlage für alle Altersgruppen am Georg-Freundorfer-Platz
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Schießstättstraße am 23.11.2024
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Legalisierung der Querung der „Theresienhöhe“ für Fahrradfahrende an der Bavaria
+- TOP 9.1.2.: (E) Maßnahme zur Klimaanpassung: Taschenparks in Lücken und auf versiegelten Flächen bauen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Kazmairstr. 70
+- TOP 9.2.2.: Baumpflanzungsprojekt in der Fäustlestraße; Beeinträchtigung des derzeitigen Lieferbereichs durch einen Baumstandort
+- TOP 9.2.3.: Personenbezogener Behindertenparkplatz an der Ganghoferstr. gegenüber Nr. 84 (Ostseite)
+- TOP 9.2.4.: BA15; Keine Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Fußgängergrünphase Ampelanlage Kreuzung Trappentreustraße / Landsberger Str.
+- TOP 9.3.2.: Allgemeinverfügung Knallerverbotszone 2024/2025
+- TOP 9.3.3.: Projekt des KJR „Auf Herz und Rampen prüfen“, Untersuchung der Barrierefreiheit des Westends
+- TOP 9.3.4.: Wartezeit auf die Fußgängergrünphase an den Kreuzungen Bergmannstraße / Landsbergerstraße sowie Schrenkstraße / Landsbergerstraße
+- TOP 9.3.5.: Meldeliste Bauvorhaben SWM
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Mischwald e.V. Reparatur eines defekten Videobeamers ab 20.12.2024 -30.06.2025 500,00€; Az. 0262.0-8-0418
+- TOP 10.1.2.: (E) Stadtbezirksbudget FabLab München e.V. MINT-hands-on für Grund-, Mittel- und RealschülerInnen -Schwanthalerhöhe vom 16.09.2024 -31.03.2025 11.204,14€; Az. 0262.0-8-0410
+- TOP 10.1.2.1: Antwortschreiben Referat für Bildung und Sport zum Budgetantrag FabLab
+- TOP 10.1.3.: (E) Stadtbezirksbudget CultureClouds e.V. Zirkuslust vom 01.01. -31.10.2025 3.075,00€; Az. 0262.0-8-0415
+- TOP 10.1.4.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V. Rad-Reparaturstation vom 01.12.2024 -31.10.2025 975,00€; Az. 0262.0-8-0421
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Bessere Betreuung von Gewaltopfern sicherstellen
+- TOP 11.2.: Bestellung städtischer Leistungen – Aufstellung eines Schaukastens zur Information für Jugendliche
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Entwurf Mehrjahresinvestitionsprogramm 2024 - 2028
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.3.2.: Kulturfestival und Barrio Latino Festival auf dem Georg-Freundorfer-Platz
+- TOP 10.1.5.: (E) Stadtbezirksbudget Gesundheitsladen München e.V. Maßnahmen rund um die Einführung der elektronischen Patientenakte ePA im Westend vom 20.11.2024 -30.05.2025 1.000,00€; Az. 0262.0-8-0422
+- TOP 6.2.3.: Bauvorhaben Schwanthalerstraße 142
+- TOP 6.3.4.: Unveränderte Fortführung Gaststätte Theresienhöhe 5
+- TOP 8.3.3.: Versammlung Schießstättstraße gegenüber Nr. 14 am 07.12.2024 (Änderung; jetzt 21.12.2024)
+- TOP 10.1.6.: (E) Stadtbezirksbudget Init. "Männer*spaziergang" Männer*spaziergang #decolonizemunich vom 15.01. -01.05.2025 625,00€; Az. 0262.0-8-0423
+- TOP 9.3.6.: Präsentation zum Informationsgespräch der BAs mit dem Baureferat am 28.11.2024; Themen: LED-Umrüstung, Nachtspaziergänge und Dialog-Displays
+- TOP 10.1.7.: Bestellung städtischer Leistung; Errichtung von 2-3 Sitzbänken (€ 2.713,20 pro Bank) und zusätzlich von 2-3 Liegebänken (Einsitzer € 5.152,70 / Zweisitzer € 8.645,35 pro Bank) im Bavariapark Ostseite
+- TOP 12.2.1.: Antrag BA9; Ehrenamt muss abgesichert sein - Erhöhung des Steuerfreibetrages
+- TOP 2.1.: Errichtung eines Trinkwasserbrunnens am Standort Heimeranstraße / Franziska-Bilek-Weg
+- TOP 10.1.7.1: Bestellung städtischer Leistung; Errichtung von 2-3 Sitzbänken und zusätzlich von 2-3 Liegebänken im Bavariapark Ostseite
