@@ -6,6 +6,7 @@
 - [§ 3 Schutzzweck](0003.md)
 - [§ 4 Schutzzweck des Bereiches I](0004.md)
 - [§ 5 Schutzzweck des Bereiches II](0005.md)
+- [§ 5a Schutzzweck des Bereiches III](0005a.md)
 - [§ 6 Verbote](0006.md)
 - [§ 7 Zulässigkeit von bestimmten Projekten und Plänen](0007.md)
 - [§ 8 Ausnahmen und Befreiungen](0008.md)
@@ -13,4 +14,4 @@
 - [§ 10 Weitergehende Vorschriften](0010.md)
 - [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
 - [Anlage 1 (zu § 2 Absatz 2, 4 und 5)](anlage-1.md)
-- [Anlage 2 (zu § 2 Absatz 6)Übersichtskarte des Naturschutzgebietes](anlage-2.md)
+- [Anlage 2 (zu § 2 Absatz 6) Übersichtskarte des Naturschutzgebietes "Sylter Außenriff - Östliche Deutsche Bucht"](anlage-2.md)
