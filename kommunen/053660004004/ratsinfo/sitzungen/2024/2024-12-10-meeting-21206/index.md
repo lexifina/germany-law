@@ -1,0 +1,65 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2024-12-10T18:00:00+01:00
+- Ende: 2024-12-10T21:18:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdSPqLViFM685hPEFAzwRZs
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21206
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVuGRbDRnt10Of1Krw-r97LfRoiiC7zLBecepOp8NZW7/Bekanntmachung_Rat_10.12.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYfWA0N17xkP7Oi7XyR45N4fNb7Qxsv7MEk49YBwMU-b/Oeffentliche_Niederschrift_Rat_10.12.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 29.10.2024 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Sachstandsbericht durch die Bahn hier: Antrag der SPD-Fraktion -    
+- TOP 5.: Schutz von Igeln und anderen Kleintieren vor Mährobotern hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 19.10.2024 - Beschluss siehe 1514-XI/Z-1
+- TOP -: Schutz von Igeln und anderen Kleintieren vor Mährobotern hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 19.10.2024 hier: Ausarbeitung der Verwaltung - Beschluss mit 11 Ja-Stimmen, 6 Enthaltungen und 15 Nein-Stimmen, somit abgelehnt
+- TOP 6.: Bestellung eines weiteren Vertreters der Bürgermeisterin - Einstimmiger BeschlussHier wirkt die Bürgermeisterin nicht mit
+- TOP 7.: Kindergartensituation im Stadtgebiet - Einstimmiger Beschluss
+- TOP -: Kindergartensituation im Stadtgebiet hier: Prüfung Waldkita Eschweiler - Kein Beschluss erforderlich
+- TOP -: Kindergartensituation im Stadtgebiet hier: Schreiben der IG KiTa/Grundschule Houverath und des Elternbeirates KiTa Houverath sowie Antwortschreiben der Verwaltung - Kein Beschluss erforderlich
+- TOP -: Kindergartensituation im Stadtgebiet hier: Erweiterung der Kindertagesstätte Houverath durch einen Anbau einer Gruppe sowie durch die Bereitstellung eines Wichtelwagens als Waldgruppe - Mehrheitlicher Beschluss mit 1 Nein-Stimme
+- TOP 8.: Rechtzeitige Erweiterung der ortsansässigen Grundschule aufgrund des geplanten Neubaugebietes "Ohndorfer Gärten" im Ortsteil Kirspenich hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 11.11.2024 - Beschluss 
+- TOP -: Rechtzeitige Erweiterung der ortsansässigen Grundschule aufgrund des geplanten Neubaugebietes "Ohndorfer Gärten" im Ortsteil Kirspenich hier: Ausführung der Verwaltung -    
+- TOP 9.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil)Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss
+- TOP 10.: Mängelbeseitigung an Sportgeräten in den Turn- Sporthallen hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss
+- TOP 11.: Schülerbeförderungskosten hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss
+- TOP 12.: Betriebskostenabrechnungen Kindertagesstätten; hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss
+- TOP 13.: Änderung des Gesellschaftsvertrags der Nordeifel Tourismus GmbH infolge des 3. NKFWG (NKFWeiterentwicklungsgesetz) - Einstimmiger Beschluss
+- TOP 14.: St. Michael-Gymnasium hier: G9 Erweiterung, Vorstellung der Prüfungsergebnisse und weiteres Vorgehen - Einstimmiger Beschluss
+- TOP 15.: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Vorstellung der Machbarkeitsanalyse eines möglichen Schulneubaus und weiteres Vorgehen - Beschluss RD 1269-XI/Z-6
+- TOP -: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Vorstellung der Machbarkeitsanalyse eines möglichen Schulneubaus und weiteres Vorgehen, Empfehlung der Variante 1. - Einstimmiger Beschluss mit 2 Enthaltungen
+- TOP 16.: Zuwendungen zum Ausbau ganztägiger Bildungs- und Betreuungsangebote im Primarbereich nach der Förderrichtlinie Ganztagsausbau - Einstimmiger Beschluss mit 1 Enthaltung
+- TOP 17.: Dachsanierung eifelbad hier: Bestandsaufnahme, notwendige Dachsanierung, Vergabe von Planungsleistungen, weitere Untersuchungen - Beschluss mit 16 Ja-Stimmen, 3 Enthaltungen und 12 Nein-Stimmen
+- TOP -: Dachsanierung eifelbad hier: Masterplan eifelbad, Antrag der CDU-Fraktion vom 10.12.2024 - Beschluss siehe RD 1530-XI
+- TOP 18.: Genehmigung einer überplanmäßigen Leistung hier: Mittel für die Inanspruchnahme externer Dienstleister für Rettungsschwimmer - Einstimmiger Beschluss
+- TOP 19.: Wiederinbetriebnahme städt. Wohnmobilhafen hier: Genehmigung einer außerplanmäßigen Ausgabe - Einstimmiger Beschluss
+- TOP 20.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern des Haushaltsjahres 2025 (Hebesatzsatzung) - Beschluss mit 28 Ja-Stimmen, 3 Enthaltungen und 1 Nein-Stimme
+- TOP 21.: 27. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss
+- TOP 22.: 38. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss
+- TOP 23.: 7. Satzung zur Änderung der Satzung über die Zweitwohnungssteuer in der Stadt Bad Münstereifel vom 21.12.1999 - Einstimmiger Beschluss
+- TOP 24.: Anpassung von Gesellschaftsverträgen zu § 108 Abs.1 I Nr. 8 GO NRW; hier: Gesellschaftsverträge der e-regio – Unternehmensgruppe, der Energie Rur-Erft GmbH & Co. KG und der Energie Rur-Erft Verwaltungs-GmbH - Einstimmiger Beschluss
+- TOP 25.: Kalkulation Entsorgungsgebühren Grundstücksentwässerungsanlagen 2025 (abflusslose Gruben und Kleinkläranlagen) - Einstimmiger Beschluss
+- TOP 26.: 46. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung; hier: Abwassergebühren (Kanalbenutzungsgebühren) 2025 - Einstimmiger Beschluss
+- TOP 27.: 28. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung hier: Wassergebühren 2025 - Einstimmiger Beschluss
+- TOP 28.: Widmung der "Anton-Nücken-Straße" in Bad Münstereifel-Houverath - Bebauungsplangebiet Nr. 24 (Mühlenberg) - - Einstimmiger Beschluss
+- TOP 29.: Widmung der Straßen im Neubaugebiet Hardtburgstraße in Kirspenich I - Bebauungsplangebiet Nr. 54 - - Einstimmiger Beschluss
+- TOP 30.: Widmung der "Ludger-Steinmann-Straße" in Bad Münstereifel - Einstimmiger Beschluss
+- TOP 31.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Arloff/Kirspenich hier: aktueller Statusbericht zum Sachstand der Linksabbiegespur L 11 und zum beabsichtigten Wiederaufbau / Optimierung der Brücken Floting und Hubertuskapelle - Einstimmiger Beschluss
+- TOP -: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Arloff/Kirspenich hier: aktueller Statusbericht zum Sachstand der Linksabbiegespur L 11 und zum beabsichtigten Wiederaufbau / Optimierung der Brücken Floting und Hubertuskapelle - Einstimmiger Beschluss
+- TOP 32.: Erlass der Wirtschaftspläne 2025 des Eigenbetriebs Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser; hier: Feststellung - Einstimmiger Beschluss
+- TOP 33.: Anfragen und Mitteilungen
+- TOP 33.1: Sachstand Haushaltseinbringung
+- TOP 33.2: Bericht zum 30.11.2024 im Rahmen des Finanzcontrollings
+- TOP 33.3: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Besetzung der Einigungsstelle gemäß § 67 LPVG - Beschluss siehe RD 1529-XI
+- TOP -: Besetzung der Einigungsstelle gemäß § 67 LPVG hier: Sachstand nach Empfehlungsbeschluss des Haupt- und Finanzausschuss - Einstimmiger Beschluss
+- TOP 2.: Anfragen und Mitteilungen
