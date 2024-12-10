@@ -1,0 +1,167 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8029773
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8029773
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Pinguinbrunnen (FF UA Umwelt)
+- TOP 2.1.2.2.: Bürgeranliegen; Kein Carsharing im Stadtbezirk 17 (FF UA MuV)
+- TOP 2.1.2.3.: Bürgeranliegen; Verkehrsbehinderung und Stau durch Popup Radspur Kreuzung Martin-Lutherstr. /Ichostr. (FF UA MuV)
+- TOP 2.1.2.4.: Bürgeranliegen; Verkehrssituation Maxlrainstr. /Schlierseestr. (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Bantingstr. 9
+- TOP 3.10.2.: Wirtstr. 19 (z. Kt. Baum bereits abgestorben) - Unterrichtung -
+- TOP 3.10.3.: Winlandstraße 26 - Genehmigung der UNB -
+- TOP 3.10.4.: Winlandstr. 24
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur) Freunde Giesings e. V. / Kulturzentrum Giesinger Bahnhof Amis in der McGraw-Kaserne, 1945-1992, Ausstellung, 11.03. - 30.03.2025 8.550,00 €; AZ 0262.0-17-0469
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté, April bis November 2025 8.938,00€; Az. 0262.0-17-0470
+- TOP 5.1.3.: (E) Stadtbezirksbudget Init. "Kunstwerk Lebe" Restaurierung und Wiederinstandsetzung der Plastik "Lebe" in der TeLa vom 28.02. -30.05.2025 504,82€; Az. 0262.0-17-0471
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Kapellenfeldstr. 19 - Neubau eines Einfamilienhauses mit Garage
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung "Tegernseer Landstr." hier: Raintalerstr.
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung "Trauchberg/ Forggenseestr. hier: Perlacher Str. 120 und Forggenseestr. 6, 18, 26. 60 -
+- TOP 6.1.4.3.: Dauerhafte Sicherung von Baustellen
+- TOP 6.1.4.4.: Zwischennachricht - Bürgeranliegen; Nachverdichtung Siedlung am Perlacher Forst
+- TOP 6.1.4.5.: Perspektive München - Handlungsräume der Stadtentwicklung Sachstand und Weiterentwicklung
+- TOP 6.1.4.6.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 6.1.4.7.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 6.1.4.8.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 6.1.4.9.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 6.1.4.10.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Allgemeine Sicherheit um den Tegernseer Platz (FF UA FSA und MuV) Bürgeranliegen aus der November- Sitzung
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 6.2.4.2.: Stand des Bauprozesses der Skateranlage beim AWO Freizeittreff Red Dragon
+- TOP 6.2.4.3.: Sicherheitsrisiko Methadon-Praxis am Tegernseer Platz (Ziffer 1)
+- TOP 6.2.4.4.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand: 30.09.2024
+- TOP 6.2.4.5.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 6.2.4.6.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.2.4.7.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 6.2.4.8.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Bürgeranliegen aus der Bürgerversammlung; (FF UA MuV) Umwandlung der Raintaler Straße zwischen St. -Martin Str. und Perlacher Str. in eine Fahrradstraße
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Umgang mit der neuen StVO (Unterlagen zur Veranstaltung am 22.10.2024
+- TOP 6.3.4.2.: Antrag CSU-Fraktion Beleuchtung für Fuß- und Radweg an der Tegernseer Landstraße zwischen Fasangartenstraße und Emersonstraße
+- TOP 6.3.4.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 6.3.4.4.: Verkehrssituation am Tegernseer Platz
+- TOP 6.3.4.5.: Verengung der Fahrbahnen und Begrünung in der Deisenhofener-, Heimgarten- und Werinherstraße
+- TOP 6.3.4.6.: Nahverkehrsplan der Landeshauptstadt München - Fortschrittsbericht Umsetzung Barrierefreiheit Beschluss des Mobilitätsausschusses vom 11.12.2024 Sitzungsvorlage Nr. 20-26 / V14175
+- TOP 6.3.4.7.: a) Verbesserung der Sicherheit für Verkehrsteilnehmer in Höhe Schwanseestraße 61 b) Verbesserung der Übersichtlichkeit an der Einmündung Scharfreiterstraße in die Schwanseestraße in Richtung Stadelheimer Straße
+- TOP 6.3.4.8.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs.9, § 46 StVO und des Art. 21 BayStrWG Arbeitsstelle im Straßenraum, Änderung/Ergänzung des Bescheids vom 12.09.2024 hier: Kistlerstr. 6 Vollsperre - Seite Sägstr.
+- TOP 6.3.4.9.: Fahrradständer Ecke Werinherstraße - Untersbergstraße
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Hundekot und freilaufende Hunde auf Spielplätzen
+- TOP 6.4.4.2.: Müllprobleme in Giesing - und Aussaat von Wildblumen
+- TOP 6.4.4.3.: Allgemeinverfügung der Landeshauptstadt München über das Verbot des Abbrennens von pyrotechnischen Gegenständen der Kategorie F2 mit ausschließlicher Knallwirkung innerhalb des mittleren Rings (Umweltzone)
+- TOP 6.4.4.4.: Bescheid zum Vollzug der Baumschutzverordnung hier: Hohenschwangaustr. 6
+- TOP 6.4.4.5.: Bescheid zum Vollzug der Baumschutzverordnung hier; Kronacherstr. 6
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Standortpläne bei Veranstaltungen
+- TOP 6.5.4.2.: Veranstaltung auf öffentlichen Verkehrsgrund – Genehmigung hier: Tegernseer Platz „Öffentliches Weihnachtsbaumschmücken“ am 01.12.2024
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: unveränderte Fortführung eines Gaststättenbetriebes hier: Effenberg`s Bar, St. Bonifatius Str. 2a
+- TOP 6.6.4.2.: unveränderte Fortführung eines Gaststättenbetriebes hier: Bumsvoll, Zugspitzstr. 19
+- TOP 6.6.4.3.: unveränderte Fortführung eines Gaststättenbetriebes hier: Solo Italia, Bergstr. 5
+- TOP 6.6.4.4.: Antwortschreiben; Wochenmarkt am Auguste - Kent Platz
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) 1. Vorberatungen in der BA-Satzungskommission vom 18.09.2024 a) BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes b) Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen c) Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse d) Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung e) Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen f) MVG-Zeitkarten für Bezirksausschussmitglieder g) Neues Verfahren zur Berechnung der Mitglieder der Bezirksausschüsse 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 7.3.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP 7.3.3.: Digitale Schaukästen für die Bezirksausschüsse Antrag Nr. 20-26 / B 07002 des BA 17 vom 10.09.2024 Rückmeldung der BAs 12, 16 und 21
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachtrag siehe TOP 6.1.3.2 Nachverdichtung - Siedlung am Perlacher Forst
+- TOP 1.2.2.: Nachtrag siehe TOP 6.1.3.3 A) Sektoraler Bebauungsplan Nr. 2173 der Landeshauptstadt München Tegernseer Landstr., Raintaler Str., Perlacher Str.; Kesselbergstr. B) TeLA 101 sektorale Bebauung nach dem Baulandmobilisierungsgesetz BV - Empfehlung Nr. 20-26 / 00457 vom 26.10.2021
+- TOP 1.2.3.: Nachtrag siehe TOP 6.2.2.1 BSL - Bestellung von Familien- und Ferienpässen
+- TOP 6.1.3.2.: Nachverdichtung - Siedlung am Perlacher Forst
+- TOP 6.1.3.3.: A) Sektoraler Bebauungsplan Nr. 2173 der Landeshauptstadt München Tegernseer Landstr., Raintaler Str., Perlacher Str.; Kesselbergstr. B) TeLA 101 sektorale Bebauung nach dem Baulandmobilisierungsgesetz BV - Empfehlung Nr. 20-26 / 00457 vom 26.10.2021
+- TOP 6.2.2.1.: BSL - Bestellung von Familien- und Ferienpässen
+- TOP 1.2.4.: Nachtrag siehe TOP 4 Antrag auf Förderung von Kinderveranstaltungen im Jahr 2025 als BA-eigene Veranstaltung
+- TOP 4.1.: Antrag auf Förderung von Kinderveranstaltungen im Jahr 2025 als BA-eigene Veranstaltung
+- TOP 6.3.4.5.1: (E) Verengung der Fahrbahnen und Begrünung in der Deisenhofener-, Heimgarten- und Werinherstraße
