@@ -1,6 +1,7 @@
 # Abgabenordnung
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Erster Teil Einleitende Vorschriften
 
@@ -305,6 +306,7 @@ und Vermögensmassen](0137.md)
 - [§ 139b Identifikationsnummer](0139b.md)
 - [§ 139c Wirtschafts-Identifikationsnummer](0139c.md)
 - [§ 139d Verordnungsermächtigung](0139d.md)
+- [§ 139e Direktauszahlungsmechanismus](0139e.md)
 
 ### Zweiter Abschnitt Mitwirkungspflichten
 
@@ -317,7 +319,7 @@ Aufzeichnungen
 - [§ 142 Ergänzende Vorschriften für Land- und Forstwirte](0142.md)
 - [§ 143 Aufzeichnung des Wareneingangs](0143.md)
 - [§ 144 Aufzeichnung des Warenausgangs](0144.md)
-- [§ 145 Allgemeine Anforderungen an Buchführung und Aufzeichnungen](0145.md)
+- [§ 145 Allgemeine Anforderungen an die Buchführung und Aufzeichnungen](0145.md)
 - [§ 146 Ordnungsvorschriften für die Buchführung und für Aufzeichnungen](0146.md)
 - [§ 146a Ordnungsvorschrift für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme; Verordnungsermächtigung](0146a.md)
 - [§ 146b Kassen-Nachschau](0146b.md)

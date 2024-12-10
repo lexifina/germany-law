@@ -23,8 +23,7 @@ einer Kapitalgesellschaft in eine Personengesellschaft
 ## Dritter Teil Verschmelzung oder Vermögensübertragung
 (Vollübertragung) auf eine andere Körperschaft
 
-- [§ 11 Wertansätze in der steuerlichen Schlussbilanz der übertragenden
-Körperschaft](0011.md)
+- [§ 11 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft](0011.md)
 - [§ 12 Auswirkungen auf den Gewinn der übernehmenden Körperschaft](0012.md)
 - [§ 13 Besteuerung der Anteilseigner der übertragenden Körperschaft](0013.md)
 - [§ 14 (weggefallen)](0014.md)
