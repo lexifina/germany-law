@@ -1,0 +1,6 @@
+# TOP 1.: Bauleitplanung der Gemeinde Willingen (Upland), Ortsteil Schwalefeld, Änderung des Flächennutzungsplanes „Imkerei - Am Burgring“ und vorhabenbezogener Bebauungsplan „Imkerei – Am Burgring"
+
+- Sitzung: Bauausschuss (18. Sitzung) (2024-12-10)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/3449
