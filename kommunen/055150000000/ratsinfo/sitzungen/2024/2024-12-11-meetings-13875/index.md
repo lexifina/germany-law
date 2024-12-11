@@ -1,0 +1,88 @@
+# 29. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-12-11T16:04:00+01:00
+- Ende: 2024-12-11T20:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13875
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13875
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00562180.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (institutionelle Förderung 2025) - einstimmig beschlossen
+- TOP 3: Stadtnetze Münster GmbH: Bericht zum Transformationsplan für die Stromnetze der Zukunft (Antrag A-R/0035/2023 der CDU-Ratsfraktion) - zur Kenntnis genommen
+- TOP 4: Ortsmitte Gremmendorf: Umgestaltung des öffentlichen Raumes - Gestaltungskonzept und Verkehrstechnischer Entwurf (Planungsbeschluss) - mehrheitlich geändert beschlossen
+- TOP 5: Grundsatzbeschluss Weiterentwicklung Sportanlage Wienburgstraße - einstimmig beschlossen
+- TOP 6: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2025 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Haushaltssatzung 2025 - ohne Beschlussfassung geschoben
+- TOP 8: Erlass einer Hebesatzsatzung für die Jahre 2025 ff. - ohne Beschlussfassung geschoben
+- TOP 8.1: Erlass einer Hebesatzsatzung für die Jahre 2025 ff.
+- TOP 8.1.1: Erlass einer Hebesatzsatzung für die Jahre 2025 ff.
+- TOP 9: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt – Sofortmaßnahmen im Haushaltsplan 2025 - einstimmig beschlossen
+- TOP 9.1: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt – Sofortmaßnahmen im Haushaltsplan 2025
+- TOP 10: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 10.1: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2025 - ohne Beschlussfassung geschoben
+- TOP 10.1.1: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2025
+- TOP 10.2: Tarifmaßnahmen 2025 im WestfalenTarif für das Münsterland (Tarifgemeinschaft Münsterland - Ruhr-Lippe) zum 01.08.2025 - zur Kenntnis genommen
+- TOP 10.3: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 10.4: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 10.5: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen": Erhöhung der Entgelte für städtische Sportstätten einschließlich der Tennis- und Speckbrettplätze mit wassergebundener Decke - einstimmig beschlossen
+- TOP 10.6: Abfallgebühren 2025 - einstimmig beschlossen
+- TOP 10.7: Straßenreinigungsgebühren 2025 - einstimmig beschlossen
+- TOP 10.8: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2025 - einstimmig beschlossen
+- TOP 11: Wirtschaftspläne von Gesellschaften
+- TOP 11.1: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2025 - einstimmig beschlossen
+- TOP 11.2: Wirtschaftsplan 2025 von Münster Marketing - ohne Beschlussfassung geschoben
+- TOP 11.3: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 12: Gesellschaftsverträge
+- TOP 12.1: smartOPTIMO GmbH & Co.KG: Aufnahme der Gesellschafterin Regionetz GmbH / Novellierung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 12.2: Bädermanagement Münster GmbH: Änderung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 12.3: AirportPark FMO GmbH: Änderung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 12.4: Tarifgemeinschaft Münsterland - Ruhr-Lippe GmbH und WestfalenTarif GmbH: Änderung von Gesellschaftsverträgen - einstimmig beschlossen
+- TOP 13: Kommunales Klimaschutzcontrolling - einstimmig beschlossen
+- TOP 14: Zwischenbericht zum Gleichstellungsplan 2022-2025 - zur Kenntnis genommen
+- TOP 15: Verordnung zum Schutz freilebender Katzen im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 16: Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen - zur Kenntnis genommen
+- TOP 17: Managementkontrakt (MMK) mit der Messe und Congress Centrum Halle Münsterland GmbH (MCC) - einstimmig beschlossen
+- TOP 18: Kapitalerhöhung bei der Technologieförderung Münster GmbH (TFM) - einstimmig beschlossen
+- TOP 19: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - von der Tagesordnung abgesetzt
+- TOP 20: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2021 - einstimmig beschlossen
+- TOP 21: Überplanmäßige Mittelbereitstellung im Haushaltsjahr 2024 - einstimmig beschlossen
+- TOP 22: Stiftung Vereinigte Pfründnerhäuser | Projekt "Engagement in Coerde stärken“ - einstimmig beschlossen
+- TOP 23: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets (01.01.2025 bis 30.06.2025) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 23.1: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets (01.01.2025 bis 30.06.2025) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“
+- TOP 24: Strukturelle Weiterentwicklung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - einstimmig beschlossen
+- TOP 25: Schulentwicklungsplanung für die Sekundarstufe I – - ohne Beschlussfassung geschoben
+- TOP 26: Änderung des Beschlusses: Kauf statt Anmietung von Fertigbauklassen gem. Vorlage V/0331/2024 - einstimmig beschlossen
+- TOP 27: Überleitung der außerunterrichtlichen Angebote der Ludgerusschule Hiltrup (OGS) - einstimmig beschlossen
+- TOP 28: Überleitung der außerunterrichtlichen Angebote (OGS) an der Michaelschule und der Mosaik-Schule - einstimmig beschlossen
+- TOP 29: Trägervergabe für die Kindertageseinrichtung am Kiesekampweg im Stadteil Coerde, Bezirk Nord - einstimmig beschlossen
+- TOP 30: Anpassung der Richtlinien Sonderfonds "Hilfen für Schwangere, Eltern und Kinder" - einstimmig beschlossen
+- TOP 30.1: Anpassung der Richtlinien Sonderfonds "Hilfen für Schwangere, Eltern und Kinder"
+- TOP 31: Anpassung der Richtlinie "Auszeichnungen für besondere Leistungen auf dem Gebiet des Sports" - einstimmig beschlossen
+- TOP 32: Errichtungsbeschluss Hoppengarten - einstimmig beschlossen
+- TOP 33: Bennohaus: Beschluss zur dauerhaften Verwendung von kapitalisierten Mitteln aus ehemaligen Personalaufwendungen im Rahmen des Profilierungs- und Optimierungsprozesses - ohne Beschlussfassung geschoben
+- TOP 34: Kommunaler Pflegebedarfsplan 2024-2027 - einstimmig beschlossen
+- TOP 35: Anpassung der Angebotsstruktur aufgrund veränderter Rahmenbedingungen im Jobcenter der Stadt Münster - einstimmig beschlossen
+- TOP 36: Rathaus/ Stadtweinhaus - Barrierefreiheit über vorhandene Zuwegung und Umbau des vorhandenen Aufzugs - ohne Beschlussfassung geschoben
+- TOP 37: Wärmeversorgung mit Kalter Nahwärme durch die Stadtwerke Münster GmbH in den Baugebieten Albachten-Ost und Handorf-Kirschgarten - einstimmig beschlossen
+- TOP 37.1: Wärmeversorgung mit Kalter Nahwärme durch die Stadtwerke Münster GmbH in den Baugebieten Albachten-Ost und Handorf-Kirschgarten
+- TOP 38: Aufstellungsbeschluss für den Landschaftsplan 4 „Davert und Hohe Ward“ - einstimmig beschlossen
+- TOP 39: Befreiung nach § 67 Bundesnaturschutzgesetz zum geplanten Ausbau der L529 / K22 - ohne Beschlussfassung geschoben
+- TOP 40: Errichtung eines Zwischenlagers für gefährliche Abfälle im Entsorgungszentrum Münster (EZM) - Baubeschluss - - einstimmig beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Mitte
+- TOP 41.1.1: 1. 138. Änderung des Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Mitte im Bereich zwischen Düesbergweg, Sternbusch, Bahntrasse und Düesbergpark Beschluss zur Änderung 2. Bebauungsplan Nr. 652: Düesbergweg 143/145 Beschluss zur Aufst - einstimmig beschlossen
+- TOP 41.2: Stadtbezirk West
+- TOP 41.2.1: 137. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 651 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 41.3: Stadtbezirk Südost
+- TOP 41.3.1: Bebauungsplan Nr. 378, 1. Änderung: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 41.3.2: Bebauungsplan Nr. 629: Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 42: Verschiedenes
