@@ -1,0 +1,116 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2024-12-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7923958
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7923958
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Verkehrsanbindung ÖPNV Clara-Schumann-Str./ Maria-Arndts-Str.
+- TOP 2.1.2.: Provisorischer Bücherschrank Wiesentfelser Straße
+- TOP 2.1.3.: Umbaumaßnahmen Feldmeierbogen
+- TOP 2.1.4.: Stopp-Schilder zur Erhöhung der Schulwegsicherheit Fahrradstraße Freiham
+- TOP 2.1.5.: Briefkasten ersetzen Limesstr. / Ecke Aufseßer Str.
+- TOP 2.1.6.: Umsetzung des Fußgängerüberweges in der Aubing-Ost-Straße (2 Bürgeranliegen)
+- TOP 2.1.7.: Sanierung Feldmeierbogen
+- TOP 2.1.8.: Aufstellung Dialogdisplay Lochhausen
+- TOP 2.1.9.: Fuß- und Radwege in Aubing
+- TOP 2.1.10.: Fehlende Bordsteinabsenkung in der Lochhausener Straße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.2.: Baumfällungsbescheide: - Aubinger Str. 130, Schr. Planungsreferat vom 22.11.24 (N) - Germeringer Weg 250, Schr. Planungsreferat vom 03.12.24 (N) - Schwojerstr. 30. Schr. Planungsreferat vom 04.12.24
+- TOP 4.: Anträge
+- TOP 4.1.: Errichtung einer neuen Bushaltestelle in Aubing an der Kreuzung Altostraße / Ubostraße und Am Langwieder Bach (Kriesel, Weber, Zeilermeier, Spannagl)
+- TOP 4.2.: Start des Parkraummanagements Freiham (Bündnis 90/ Die Grünen) (vertagt aus 11/24)
+- TOP 4.3.: Neugestaltung der Wandflächen in der Unterführung des S-Bahnhofes Aubing (Brenner)
+- TOP 4.4.: Neubaugebiet Osteranger adäquat an das ÖPNV-Netz anschließen (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.5.: Interkommunales Fuß- und Radwegenetz: Lochhausen und Gröbenzell besser vernet-zen und die Nahmobilität stärken (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.6.: Verkehrssicherheit auf der Eichenauer Straße/Ecke Gotzmannstraße (Liedl)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Vereinsheim für den Verein "spiel raum e. V." in Freiham
+- TOP 5.2.: (E) Erhalt des Bürgersaals am Westkreuz für die Vereine
+- TOP 5.3.: (E) Tempo 30 für die Aubinger Allee während der Bauphase (vertagt aus 11/24)
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Neueröffnung einer Unterkunft zur Unterbringung Geflüchteter an dem Standort Lochhausener Str. (Flst. 709, Gem. Langwied), Beschlussvorlage Sozialausschuss, Anhörung Sozialreferat vom 18.11.24
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Schr. Sozialreferat vom 19.11.24
+- TOP 6.2.2.2.: Kostenfreiheit Grundschulweg, Schr. Ref. f. Bildung u. Sport vom 18.11.24
+- TOP 6.2.2.3.: Schulmediation im Stadtbezirk 22 - Konzept und Finanzierung, Schr. Sozialreferat vom 27.11.24
+- TOP 6.2.2.4.: Ausschreibung REGSAM-Schwerpunktarbeit 2025, Schr. Sozialreferat vom 27.11.24
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Sanierung Bodenseestr. 146-237, Anhörung Baureferat vom 18.11.24
+- TOP 6.3.1.2.: Parkraummanagement in München - Umsetzung Sektor VI, Teil 2, Beschlussvorlage für Vollversammlung am 18.12.24, Anhörung Mobilitätsreferat vom 20.09.24 (vertagt aus 11/24)
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnungen, hier: - Henschelstraße, Einrichtung eines Fußgängerüberweges, Anhörung Mobilitätsreferat vom 22.11.24 (N) - Lochhausener Straße 250, Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen, hier: Erneute Anordnung, Anhörung Mobilitätsreferat vom 28.11.24
+- TOP 6.3.1.4.: Straßenbenennung Stichstraße östlich Schussenrieder Straße, Anhörung Kommunalreferat vom 15.11.24
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Grundschule Limesstraße Baustellenkonzept aktualisiert, Schr. Ref. f. Bildung u. Sport vom 21.11.24
+- TOP 6.3.2.2.: Arbeiten im Straßenraum, Aubinger Allee 54-86, Grete-Weil-Str. 26-32, Baumaßnahme U5, Vorhaltebahnhof Freiham, Umverlegung Gehweg Aubinger Allee, Sperre Grete-Weil-Str. vom 20.11.24-08.09.25, Schr. Mobilitätsreferat vom 20.11.24
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnungen, hier: - Riesenburgstraße, Ostseite, Höhe Hausnr. 44, Einrichtung eines absoluten Haltverbotes, Schr. Mobilitätsreferat vom 22.11.24
+- TOP 6.3.2.4.: Schulwegsicherheit Gotzmannschule, Schr. Mobilitätsreferat vom 15.11.24
+- TOP 6.3.2.5.: Baumaßnahmen der Stadtwerke, Stichtag: 04.11.-19.11.24, (N) - 19.11.-03.12.24
+- TOP 6.3.2.6.: Parkraummanagement Freiham - Ausweisung von Behindertenparkplätzen, Schr. Mobilitätsreferat vom 19.11.24
+- TOP 6.3.2.7.: Schulweg Fabrikstraße, Schr. Mobilitätsreferat vom 15.11.24
+- TOP 6.3.2.8.: Regenrinne / Gefahr für Fahrradfahrer
+- TOP 6.3.2.9.: Bahnhof Neuaubing - Aktueller Zustand, Schr. Baureferat vom 14.11.24
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 11.11.-17.11.24, 18.11.-24.11.24
+- TOP 6.4.2.2.: Allgemeinverfügung: Knallerverbotszone 2024/2025, Schr. KVR vom 20.11.24
+- TOP 6.4.2.3.: Entwicklung Gewerbegebiet Rupert-Bodner-Straße II - zukünftige Nutzung ehemaliges Bahnbetriebswerk, Schr. Planungsreferat vom 14.11.24
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2024 bis 2028, Schr. Stadtkämmerei vom 20.11.24
+- TOP 8.2.: Mitteilung über ein Grundstücksgeschäft; Kauf eines Grundstückes, Flst. 2948 Gem. Langwied An der Osterangerstraße / Am Fischbach, Schr. Kommunalreferat vom 19.11.24
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Sozialausschuss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschussses und des Sozialausschusses vom 03.12.24 - Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 9.1.1: - Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 9.1.2: - Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 9.2.: Kinder- und Jugenhilfeausschuss und Sozialausschuss in der gemeinsamen Sitzung vom 03.12.24 - Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 04.12.24 - Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 9.3.1: - Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 9.3.2: - Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 9.3.3: - Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 9.3.4: - Sanierungsgebiet Aubing - Neuaubing - Westkreuz Entwicklungsperspektive "Produktives Stadtquartier Bodenseestraße" und Fortschreibung Sanierungsziele Bodenseestraße
+- TOP 9.4.: Bauausschuss vom 03.12.24 - Siedlungsschwerpunkt Freiham Freiham Nord - Öffentliche Grünanlage Roman-Herzog-Straße (ÖG 5) Bebauungsplan mit Grünordnung Nr. 2068 Freihamer Park - weitere Projektentwicklung im 22. Stadtbezirk Aubing - Lochhausen - Langwied A) Öffentliche Grünanlage Roman-Herzog-Straße (ÖG 5) Umsetzung des Eckdatenbeschlusses 2025 (BAU-004) 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2024 - 2028 B) Freihamer Park - Strukturkonzept Strukturkonzept zur Realisierbarkeit der neuen, zusätzlichen Anforderungen an den Park C) Freihamer Park - Interimsmaßnahme Vorgezogene Herstellung eines ersten Teilbereichs als Interimsmaßnahme
+- TOP 9.5.: Kinder- und Jugendhilfeausschuss vom 03.12.24 - Umzug, Mietkosten und Erstausstattung SOS-Familienzentrum Neuaubing Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms Umsetzung des Eckdatenbeschlusses 2025 22. Stadtbezirk - Aubing - Lochhausen - Langwied
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 22.01.25 um 19.00 Uhr im Campus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 02.12.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 03.12.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 04.12.24, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 05.12.24, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 6.3.2.10.: (N) - Stand Planung Geh- und Radweg Gräfelfing - Freiham, Schr. 3. Bürgermeister Gem. Gräfelfing vom 28.11.24
+- TOP 6.3.2.11.: (N) - Wegeschaden Negrellistraße, Schr. Mobilitätsreferat vom 29.11.24
+- TOP 6.3.2.12.: (N) - Antrag für mehr Sicherheit unserer Kinder, Schr. Mobilitätsreferat vom 02.12.24
+- TOP 9.6.: (N) Bildungsausschuss und Bauausschuss in der gemeinsamen Sitzung vom 04.12.24 - Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 9.7.: (N) Mobilitätsausschuss vom 11.12.24 - Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 10.1.: (N) - Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen, Antrag BA 15 vom 14.11.24
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Aubinger Str. 77a - Leienfelsstr. 24 (N) - Aubinger Str. 176 (N) - Ravensburger Ring 32
+- TOP 5.4.: (N) - Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr e.V. Renovierung des Spritzenwagens ab 01.12.2024 2.069,37 Euro, Az.: 0262.0-22-0275
+- TOP 5.5.: (N) - Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr e.V. Materialbeschaffung ab 01.12.2024 8.942,72 Euro, Az.: 0262.0-22-0274
+- TOP 6.3.2.13.: (N) - Baumaßnahme der SWM, Fernwärme-Projekt Kunreuthstraße ab 3. KW 2025 - 14.KW 2025, Schr. SWM vom 03.12.24
+- TOP 6.3.2.14.: (N) - Kurve Wiesentfelser Str. / Ende Grünband: Kleidercontainer verdeckt Sicht auf Autos, Schr. AWM vom 28.11.24
+- TOP 6.4.1.1.: (N) - Wertstoffcontainerstandort: Aufstellung Wertstoffinsel Industriestraße ggü. 28, Anhörung AWM vom 02.12.24
+- TOP 6.4.1.2.: (N) - Verkauf oder Erbbaurechtsvergabe einer städt. Immobilie, hier: Flst.: 3737, 3738, 3741, 3741/2, 1211/22 Gemarkung Aubing (Freiham Nord), Anhörung Kommunalreferat vom 13.11.24
+- TOP 9.8.: Ausschuss für Stadtplanung und Bauordnung vom 06.11.24 - Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 4.7.: (N) - Sicherheit Gehweg und Fahrradstraße Freiham (Interfraktioneller Antrag)
