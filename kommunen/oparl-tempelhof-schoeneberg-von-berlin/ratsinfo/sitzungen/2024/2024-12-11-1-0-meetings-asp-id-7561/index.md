@@ -1,0 +1,113 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2024-12-11T17:00:00+01:00
+- Ende: 2024-12-11T20:45:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7561
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7561
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=458594
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen
+- TOP 2: Einwohneranfragen
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments
+- TOP 3.1: Fahrradweg für die Laubacher Straße
+- TOP 3.2: Zebrastreifen für die Halker Zeile (nahe der Hausnummer 138A)
+- TOP 3.3: Errichtung eines Zebrastreifens vor der Mascha-Kaleko-Grundschule
+- TOP 3.4: Die Kiezgemeinschaft stärken
+- TOP 3.5: Zebrastreifen für die Rehagener Straße
+- TOP 4: je eine Priorität pro Fraktion
+- TOP 4.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV
+- TOP 4.2: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV
+- TOP 4.3: Wahl der Bürgerdeputierten für den Ausschuss für Partizipation und Integration
+- TOP 4.4: Wahl von stellvertretenden Bürgerdeputierten für den Ausschuss für Partizipation und Integration
+- TOP 4.5: Wahl eines Bürgerdeputierten
+- TOP 4.6: Haus der Jugend – ohne Beteiligung, ohne Finanzierung?
+- TOP 4.7: Gegen das verantwortungslose Kaputtsparen unserer Stadt
+- TOP 4.8: Auswirkungen der Sparmaßnahmen auf die Bezirkshaushalte
+- TOP 4.9: Erhalt des 9 Euro-Tickets für die sozialen Leistungsbeziehende
+- TOP 4.10: Sicherstellung der Einsatzfähigkeit der Berliner Feuerwehr bei Radverkehrsanlagen
+- TOP 5: Vorlagen des Vorstehers
+- TOP 5.1: Silvesterböllerei
+- TOP 6: Vorlagen zur Beschlussfassung
+- TOP 6.1: Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2023
+- TOP 7: Protokollgenehmigung
+- TOP 8: Mündliche Anfragen zur BVV
+- TOP 9: Anträge
+- TOP 9.1: Ausstellung von Gästeparkausweisen online
+- TOP 9.2: Städtebauförderung transparent darstellen
+- TOP 9.3: Aufenthaltsqualität für Fußgänger am Richard-von-Weizsäcker-Platz verbessern
+- TOP 9.4: Informationen über Angebote der Kältehilfe
+- TOP 9.5: Campus der Generationen: Versprechen gegenüber den Menschen im Schöneberger Norden einhalten
+- TOP 9.6: Feierlichkeiten zum 650. Jubiläum Lichtenrades – transparent planen, Bürger informieren, angemessen finanzieren
+- TOP 9.7: Anwohnerinformationsveranstaltung zum Radfahrstreifen Grunewaldstraße in angemessener Form erneut durchführen
+- TOP 9.8: Änderung der Geschäftsordnung – Ablehnung von Beschlussempfehlungen
+- TOP 9.9: umfassendes Toilettenkonzept für den Breslauer Platz
+- TOP 9.10: Mahntafeln „Orte des Schreckens“ säubern und sanieren
+- TOP 9.11: Zukunft des Tempelhofer Damms offenlegen
+- TOP 9.12: Ein Zusatzsignal für Fahrradampel an Kreuzung Haupt- und Kolonnenstraße!
+- TOP 9.13: Rettet die Gartenarbeitsschulen – Umweltbildung darf nicht sterben
+- TOP 9.14: Baumscheiben-Patenschaften unterstützen
+- TOP 9.15: Keine Verdrängung der Wohnbevölkerung durch (möbliertes) Zeitwohnen
+- TOP 9.16: Mehr Transparenz bei der Umgestaltung von Flächen
+- TOP 9.17: Ersatz für den Kletterfelsen schaffen
+- TOP 9.18: Tarifvorsorge im Land Berlin erhalten
+- TOP 9.19: Bezahlbaren Wohnraum bei Nachverdichtungsvorhaben sicherstellen
+- TOP 9.20: Sackgasse Dörfelweg/Eisnerstraße kenntlich machen
+- TOP 9.21: Der Goldene Saal und seine Geschichte
+- TOP 9.22: Bedarfsgerechten Wohnraum bei Nachverdichtungsvorhaben sicherstellen
+- TOP 9.23: Königskolonnaden am Kleistpark sichern
+- TOP 9.24: Erweiterung des Tramnetzes nicht stoppen
+- TOP 9.25: Hilfe, statt Strafe bei Schulschwänzen
+- TOP 9.26: Sportstätten sichern, Sport für alle ermöglichen – gegen den Kahlschlag des Sportstättensanierungsprogramms
+- TOP 9.27: LKW-Parkverbot in der Säntisstraße
+- TOP 10: Große Anfragen
+- TOP 10.1: Umsetzung Onlinezugangsgesetz (OZG)
+- TOP 10.2: Solaranlagen auf Schuldächer: Fällt der Klimaschutz in Tempelhof-Schöneberg hinten runter?
+- TOP 10.3: Finanzielle Auswirkungen des Zusammenbruchs der Ampel-Regierung auf den Bezirk Tempelhof-Schöneberg
+- TOP 10.4: Zukunftssichere Schulplanung: Integration von Willkommensklassen und Kapazitätsbedarf transparent gestalten
+- TOP 10.5: Wird der Glasfaserausbau in Tempelhof-Schöneberg verschleppt?
+- TOP 11: Beschlussempfehlungen
+- TOP 11.1: City West – Eingang Ost: Leerstand Bayreuther Str. 42
+- TOP 11.2: Tempelhof-Schöneberg zum Pflücken - Nachhaltig, gesund und für alle da
+- TOP 11.3: Maaßenstraße endlich fertig bauen!
+- TOP 11.4: Queere Obdachlose im Blick
+- TOP 11.5: Leitlinien zur Genehmigung von Packstationen anpassen
+- TOP 11.6: Rad- und Fußverkehr konsequenter voneinander trennen
+- TOP 11.7: Website für Raumvergabe im Bezirk schnellstmöglich wieder freischalten
+- TOP 11.8: Fahrbahnquerung an der Hauptstraße ermöglichen
+- TOP 11.9: Stationsgebundene Carsharing-Parkplätze für die Außenbezirke schaffen
+- TOP 11.10: „Fußgängerzone – Radfahrende zu Gast“-Zeichen auch in Tempelhof-Schöneberg
+- TOP 11.11: Zukunft des Tempelhofer Parkfriedhofs
+- TOP 11.12: Ampel an der Bahnunterführung Bahnhofstraße
+- TOP 11.13: Errichtung einer öffentlichen Toilette auf dem Breslauer Platz
+- TOP 11.14: Vorlage eines Konzeptes zur besseren touristischen Sichtbarmachung des Regenbogenkiezes
+- TOP 11.15: Fahrradbügel auf der Fahrbahn nur in Kreuzungsbereichen aufstellen
+- TOP 11.16: Rotlichtblitzer an der Ampel Goebenstraße / Steinmetzstraße
+- TOP 11.17: Ausstellung „Spurensuche Demokratie“ dauerhaft zeigen
+- TOP 11.18: Karstadt-Gebäude am Tempelhofer Damm mit Anrainern entwickeln
+- TOP 11.19: Städtepartnerschaft Mykolajiw
+- TOP 11.20: Toilettenaufstellung Nähe des noch zu errichtenden Spielplatzes im Volkspark Mariendorf
+- TOP 11.21: Tempelhof-Schöneberg aktiv gegen Einsamkeit
+- TOP 11.22: Fortschreibung des Soziale Infrastruktur-Konzeptes (SIKo) für den Bezirk Tempelhof-Schöneberg 2021/22
+- TOP 11.23: Container für Verpackungsabfall auf städtischen Friedhöfen
+- TOP 11.24: Bänke in Marienfelde erneuern
+- TOP 11.25: Änderung der Geschäftsordnung der BVV
+- TOP 12: Mitteilungen zur Kenntnisnahme
+- TOP 12.1: Ausreichend Hundeauslaufplätze für Tempelhof-Schöneberg
+- TOP 12.2: Wiederherstellung und Inbetriebnahme der Brunnenanlage auf dem Bayerischen Platz
+- TOP 12.3: Brunnenanlagen im Bezirk wieder instand setzen
+- TOP 12.4: Interessensbekundung für eine Einbindung in die Jubiläums-Berlinale 2025
+- TOP 12.5: Seniorinnenarbeit stärken: Mehr Angebote für queere Frauen
+- TOP 12.6: „Einfach mal machen“ - Rekommunalisierung der Schulreinigung endlich vorantreiben
+- TOP 12.7: Jüdische Geschichte in Mariendorf sichtbarer machen
+- TOP 12.8: Eine Gedenktafel für die Schöneberger Widerstandskämpferin Hedwig Neumann
+- TOP 12.9: Zielvereinbarung Sauberkein und Ordnung (ZV 4) für die Jahre 2024 und 2025
+- TOP 12.10: Schulnetz- und Schulstandortplanung Tempelhof-Schöneberg im Rahmen der Fortschreibung der bezirklichen Schulentwicklungsplanung
+- TOP 12.11: Aufstellung des vorhabenbezogenen Bebauungsplans 7-105 VE für das Grundstück Sachsendamm 90 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg und Änderung des Geltungsbereichs des sich im Verfahren befindlichen Bebauungsplans XI-231aa für die Grundstücke Ella-Barowsky-Straße 65-70A, Sachsendamm 90, 93 sowie das nördlich anschließende Bahngelände im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg
+- TOP 13: Termin der nächsten Sitzung
