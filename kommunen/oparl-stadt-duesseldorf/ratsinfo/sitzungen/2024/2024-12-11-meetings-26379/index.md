@@ -1,0 +1,57 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-12-11T15:00:00+01:00
+- Ende: 2024-12-11T16:43:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26379
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26379
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/007/2024 vom 09.10.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 4: Errichtung von Stadtradstationen im Stadtbezirk 4 für das kommunale Düsseldorfer Mietradsystem - abweichend beschlossen
+- TOP 5: Urbane Miniwälder - zur Kenntnis genommen
+- TOP 6: Gefällte Rotbuche an der Leostraße 98 in Niederkassel, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 7: Stand der Arbeiten auf dem Grundstück Leostraße 98, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 8: Sachstand zur geplanten Weinbar an der Sonderburgstraße 2, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 9: Nutria Monitoring am linksrheinischen Rheinufer, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 10: Stellplatzschwund im Bezirk 4?, Anfrage der FDP-Fraktion
+- TOP 11: Stadtbahnversorgung verbessern: Taktung optimieren, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 12: Freiräume nutzen: Einrichtung von Pocketparks im linksrheinischen Düsseldorf, Anfrage der CDU-Fraktion
+- TOP 13: Termine im Bürgerbüro - keine Online-Buchung möglich, nur unbeantwortete Terminwünsche möglich, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 14: Kinderbetreuung für unter Dreijährige, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 15: Wohnbebauung Niederkasseler Lohweg und Hansaallee, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 16: Sachstandsbericht zum Lärmaktionsplan IV - zur Kenntnis genommen
+- TOP 17: Information zum Erlass einer neuen Wasserschutzgebietsverordnung für die Wassergewinnungsanlage Lörick der Stadtwerke Düsseldorf AG; Ankündigung der öffentlichen Auslegung für die Ausweisung des Wasserschutzgebietes - zur Kenntnis genommen
+- TOP 18: Namensänderung der Städtischen Gesamtschule Aldekerkstraße - Empfehlung einstimmig beschlossen
+- TOP 19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste A) Schulen SAP-Konten 2121101/52415400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 21: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste B) Sonstige Gebäude 1.10.11.111.05.001. 52415400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 22: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste B) Sonstige Gebäude 1.10.11.111.05.001. 52415400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 23: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 und Liste C) Förderung Dritter 1.10.11.111.05.001 53175400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 24: Zweckbestimmung der Ausgabenreste 2024 auf dem Sachkonto 1111114 / 1000 / 1000 / 54990400 - einstimmig beschlossen
+- TOP 25: Neuer Haupteingang des Comenius-Gymnasiums - Verkehrssicherheit für Schülerinnen und Schüler umsetzen, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 26: Unfallrisiko bei der Treppenbenutzung im Dunkeln minimieren - Lichtkonzept installieren, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 27: Gestaltung Heerdterhof-Garten, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 28: Tempo 30 für die Belsenstraße, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 29: Bedarfsampel Heerdter Landstraße, Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 30: Verkehrssicherheit Pariser Straße, Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 31: Poller Kreuzungsbereich Kribbenstraße, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 32: Einrichtung der Sozialen Erhaltungssatzung im Stadtbezirk 4, Antrag des Bezirksvertreters Georg Blanchard - mehrheitlich abgelehnt
+- TOP 33: Fahrradwege Rheinkniebrücke - zur Kenntnis genommen
+- TOP 34: Barrierefreiheit schaffen - Verkehrssicherheit für Anwohner erhöhen - zur Kenntnis genommen
+- TOP 35: Bauvorhaben St. Anna - ein zentraler Dorfplatz für Niederkassel - zur Kenntnis genommen
+- TOP 36: Deichradweg renovieren - Schäden beseitigen - zur Kenntnis genommen
+- TOP 37: Gehwege Steffenstraße und Barmer Straße - zur Kenntnis genommen
+- TOP 38: Umstieg leicht machen - ÖPNV-Geschwindigkeit erhöhen - zur Kenntnis genommen
+- TOP 39: Fußgängerüberweg Aldekerkstraße - zur Kenntnis genommen
+- TOP 40: Fahrspuren Brücke Heerdter Lohweg - zur Kenntnis genommen
+- TOP 41: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 42: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Bauunterhaltungsmittel 2024 - laufende Maßnahmen - Schulen - einstimmig beschlossen
+- TOP 43: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Bauunterhaltungsmittel 2024 - laufende Maßnahmen - Sonstige Gebäude - einstimmig beschlossen
