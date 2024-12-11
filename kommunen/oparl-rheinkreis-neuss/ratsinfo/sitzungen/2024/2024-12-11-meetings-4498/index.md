@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2024-12-11T15:05:00+01:00
+- Ende: 2024-12-11T17:23:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/4498
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/4498
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreistag 11.12.2024 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00104747.pdf
+- Ergebnisprotokoll: Einladung Kreistag 11.12.2024 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00104747.pdf
+- Wortprotokoll: Einladung Kreistag 11.12.2024 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00104747.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Bestellung einer Schriftführerin - einstimmig beschlossen
+- TOP 3: Tischvorlage: Umbesetzung von Ausschüssen und Gremien - einstimmig beschlossen
+- TOP 4: Wahl der Mitglieder für das Kuratorium der Stiftung Rheinisches Schützen-Museum mit Joseph Lange Schützenarchiv - einstimmig beschlossen
+- TOP 5: Tischvorlage: Neubenennung der Mitglieder der RGRE-Ausschüsse und des AK "Junge und lokale Mandatsträger/innen" 2025-2028 - einstimmig beschlossen
+- TOP 6: Über-/ und außerplanmäßige Aufwendungen/Auszahlungen gemäß § 53 KrO NRW in Verbindung mit § 83 GO NRW - einstimmig beschlossen
+- TOP 7: Einbringung des Entwurfs der Haushaltssatzung des Rhein-Kreises Neuss für das Jahr 2025 - einstimmig beschlossen
+- TOP 7.1: Tischvorlage: Einbringung des Entwurfs der Haushaltssatzung des Rhein-Kreises Neuss für das Jahr 2025
+- TOP 8: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2023 - einstimmig beschlossen
+- TOP 8.1: Tischvorlage: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2023
+- TOP 9: Haushaltsentwicklung 2024 - zur Kenntnis genommen
+- TOP 9.1: Tischvorlage: Haushaltsentwicklung 2024
+- TOP 10: Beschlusskontrolle Finanzausschüsse 2023 und 2024 - zur Kenntnis genommen
+- TOP 11: Feststellung des Jahresabschlusses 2022, Behandlung des Jahresüberschusses und Entlastung des Landrates - einstimmig beschlossen
+- TOP 12: Verbindliche Bedarfsplanung für den Rhein-Kreis Neuss für das Jahr 2025 - einstimmig beschlossen
+- TOP 13: Einrichtung einer Kommission "Bevölkerungsschutzzentrum / Kreisleitstelle"
+- TOP 13.1: Tischvorlage: Besetzung der Kommission "Bevölkerungsschutzzentrum / Kreisleitstelle" - einstimmig beschlossen
+- TOP 14: Interkommunale Zusammenarbeit auf dem Gebiet des Hinweisgeberschutzes - einstimmig beschlossen
+- TOP 15: Abfallgebühren 2025 - einstimmig beschlossen
+- TOP 16: Satzungsänderung der Musikschule Rhein-Kreis Neuss, hier: Gebührenerhöhung - einstimmig beschlossen
+- TOP 17: Förderrichtlinie für die Durchführung von Fahrten zu Gedenkstätten politischer Gewaltherrschaft, insbesondere der nationalsozialistischen, im Inland und europäischen Ausland - mehrheitlich beschlossen
+- TOP 18: Verlagerung der Bestände des Stadtarchivs Jüchen an den Hauptstandort des Archivs nach Dormagen-Zons und Neufassung der öffentlich-rechtlichen Vereinbarung zwischen der Stadt Jüchen und dem Rhein-Kreis Neuss über die Betreuung des Archivguts - einstimmig beschlossen
+- TOP 19: Wahl zum Kreistag und zum Landrat des Rhein-Kreises Neuss im Jahr 2025
+- TOP 19.1: Tischvorlage: Wahl zum Kreistag und zum Landrat des Rhein-Kreises Neuss im Jahr 2025 - Besetzung Wahlausschuss - einstimmig beschlossen
+- TOP 20: Jahresabschluss und Lagebericht der Gesellschaften mit beschränkter Haftung, an denen der Rhein-Kreis Neuss unmittelbar oder mittelbar beteiligt ist - einstimmig beschlossen
+- TOP 21: Anträge
+- TOP 21.1: Tischvorlage: Interfraktioneller Antrag vom 03.12.2024 zum Thema Unterzeichnung der Deklaration #positivarbeiten - einstimmig beschlossen
+- TOP 22: Mitteilungen
+- TOP 22.1: Tischvorlage: Antwortschreiben Wüst zu Resolution und Antrag vom 18.09.2024
+- TOP 23: Anfragen
+- TOP 23.1: Anfrage der SPD-Kreistagsfraktion vom 19.11.2024 zum Thema Kürzungen der Landesregierung im sozialen Bereich - Auswirkungen im Rhein-Kreis Neuss
+- TOP 23.2: Tischvorlage: Interfraktionelle Anfrage vom 03.12.2024 zum Thema Sachstand externe Prüfung der Personalausstattung der Kreisleitstelle
+- TOP 24: Bericht der Verwaltung/ Beschlusskontrolle
+- TOP 25: Einwohnerfragestunde
