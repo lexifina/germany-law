@@ -1,0 +1,141 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-12-11T17:00:00+01:00
+- Ende: 2024-12-11T20:12:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6889
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6889
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=533233
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 37. Sitzung der BVV am 11.12.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Baumfällungen in der Ollenhauer Str. - beantwortet
+- TOP 3.2: Erforderliche Befestigung der Gehwegober- und -unterstreifen der Hochjagdstraße zwischen Bondickstraße und Waidmannsluster Damm - beantwortet
+- TOP 3.3: Verkehrssicherheit an der Kreuzung Roedernallee / Lindauer Allee / Teichstraße - beantwortet
+- TOP 3.4: Alles "besch...eiden schön" mit der Toilette auf dem Franz-Neumann-Platz?! - beantwortet
+- TOP 3.5: "Ausweitung des Milieuschutzgebietes in Reinickendorf-Ost" - beantwortet
+- TOP 3.6: Verkehrswidrige Autofahrten durch die Baustelle auf der Schildower Straße - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 37. Sitzung der BVV am 11.12.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Veranstaltung "Wir alle machen neu - Man(n)" am Franz-Neumann-Platz" - in der BVV zurückgezogen
+- TOP 5.2: Beginn der Bauarbeiten beim Parkhaus in der Cité Foch - beantwortet
+- TOP 5.3: Pavillons Gorkistr. - beantwortet
+- TOP 5.4: Anschlag auf Reinickendorfer Spielplatz - beantwortet
+- TOP 5.5: Droht Leerstand und Verfall im alten C&A in Alt-Tegel? - beantwortet
+- TOP 5.6: Auswirkungen der aktuellen Kürzungen des CDU-SPD-Senats auf Reinickendorf - beantwortet
+- TOP 5.7: Informationsseite Friseur und Barbershop - beantwortet
+- TOP 5.8: Freigabe des Teilstücks der Avenue Charles de Gaulle am nördlichen Eingang (Verlängerung Hochjagdstraße) - beantwortet
+- TOP 5.9: fehlende Vorlage zur Kenntnisnahme für Drucksache 0990/XXI - beantwortet
+- TOP 5.10: Machbarkeitsstudie zum Kiosk am Schäfersee - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Qualitative Aufwertung des Wanderweges Tegeler Fließtal im Bereich Mühlenfeldstraße - überwiesen
+- TOP 8.2: Neuen Kreisverkehr in Heiligensee standortgerecht, ressourcenschonend und trockenverträglich bepflanzen - überwiesen
+- TOP 8.3: Behindertenparkplatz bei Nahkauf im Ortsteil Konradshöhe etablieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Seniorengerechte Sitzbänke für den Fellbacher Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Barrierefreiheit bei der Buslinie 125 in der Quäkersiedlung unterstützen (I und II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Parkplatz an der Sportanlage Königshorster Straße 15 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Ausstellung über das Leben und Wirken von Emil Krebs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: ParkYourBike in Reinickendorf nutzbar machen - überwiesen
+- TOP 8.10: Querung der Ziekowstr. für Radfahrende sicherer machen - überwiesen
+- TOP 8.11: Sichere Querungsmöglichkeit in der Hennigsdorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: "Waldparkplatz" an der Seidelstraße ertüchtigen - überwiesen
+- TOP 8.13: Lichtanlage auf der Wegeverbindung nahe der "Klixarena" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Automatisierung von Prozessen in der Verwaltung - überwiesen
+- TOP 8.15: Zulassung weiterer freier Träger und Einrichtung einer Beratungsstelle auf dem Gelände der Flüchtlingsunterkunft TXL - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Ersatzkleidung und Reinigungsstellen in der Geflüchtetenunterkunft TXL - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.17: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) sowie der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB am Bebauungsplanentwurf 12-57 für die Grundstücke Berliner Straße 35, 36-37, Am Borsigturm 142, 160, 162, 168, 170, 172, Gemarkung Tegel Gemeinde, Flur 2, Flurstücke 623, 624, 625, 628, 629, 630, 635, 636, 637, 638, 639, 678, 679, 734, 761, 863, ... - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Wahl ehrenamtlicher Mitglieder in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2023 Berichterstatterin: Bezirksbürgermeisterin Emine Demirbüken-Wegner - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Neue Kommunale Ausstellungsfläche - erledigt
+- TOP 11.2: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sportplatz Borsigwalder Grundschule - erledigt
+- TOP 11.4: Kasinoturm Frohnau - erledigt
+- TOP 11.5: Grüne Bäume trotz Hitze - Regenwasser von Dachflächen der bezirklichen Liegenschaften zur Bewässerung nutzen - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Mehr bienenfreundliche Bepflanzung in Hermsdorf - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Senheimer Str. - erledigt
+- TOP 11.8: Ertüchtigung Radroute 4 in Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Erschließung Haus C des Rathaus Reinickendorf für Besucher*innen - mit Änderungen in der BVV beschlossen
+- TOP 11.10: Gehweg im Gralsburgsteig befestigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Jelbi-Standorte - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Querungshilfe für Grundschulkinder - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Kontrolle der Gesundheitsstandards in der Geflüchtetenunterkunft in Tegel - in der BVV abgelehnt
+- TOP 11.14: Entwicklung eines Schutzkonzeptes für Kinder in der Geflüchtetenunterkunft TXL - erledigt
+- TOP 11.15: Drogenszene am Kiosk am Schäfersee verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Neue Beschilderung im Senftenberger Ring - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Emmentaler Str. in Reinickendorf-Ost - Teilabschnitt zwischen Residenzstraße und Reginhardstraße - erledigt
+- TOP 11.18: Tempo 30 vor der Hermann-Schulz-Grundschule - mit Änderungen in der BVV beschlossen
+- TOP 11.19: Mobilitätskonzept Cité Foch: Parkplätze Jean-Jaurès-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Bauprojekt Cité Foch (II): Sperrung Avenue Charles de Gaulle - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Bauprojekt Cité Foch (I): Parkplätze - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Einfriedung der Ringelnatz-Grundschule instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Maßregelvollzug nur unter ärztlicher Leitung - erledigt
+- TOP 11.24: Schutz vor Raben und Waschbären: öffentliche Mülleimer mit Deckel ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 11.25: Sichere Abstellmöglichkeiten für Fahrräder auf dem Schulhof des Thomas-Mann-Gymnasiums - ohne Änderungen in der BVV beschlossen
+- TOP 11.26: BSR-Kieztag in Frohnau jährlich durchführen - mit Änderungen in der BVV beschlossen
+- TOP 11.27: Wasserspiel am Poppele-Platz - in der BVV abgelehnt
+- TOP 11.28: 00-Toleranz für Toiletten-Vandalismus - in der BVV zurückgezogen
+- TOP 11.29: Orts-Hinweisschild Konradshöhe - in der BVV abgelehnt
+- TOP 11.30: Ausstattung der Fahrzeuge des OA mit Dashcams - in der BVV abgelehnt
+- TOP 11.31: Parkplatzangebot in der Cité Foch der Realität anpassen - in der BVV abgelehnt
+- TOP 11.32: Wir machen Reinickendorfer Schüler fit für das Leben - in der BVV zurückgezogen
+- TOP 11.33: Cité Foch: Bessere Erreichbarkeit des Parkhauses - in der BVV abgelehnt
+- TOP 11.34: Cité Foch: Anlage von Kfz-Stellplätzen in der Jean-Jaurès-Straße - in der BVV abgelehnt
+- TOP 11.35: Cité Foch: Avenue Charles de Gaulle für den MIV offen lassen und die Hochjagdstraße in Waidmannslust "anpassen" - in der BVV abgelehnt
+- TOP 11.36: Cité Foch besser an den S-Bahnhof Waidmannslust anschließen - in der BVV abgelehnt
+- TOP 11.37: Cité Foch: Anmietungen von Kfz-Stellplätzen in Tiefgaragen und auf Grundstücksparkplätzen für alle ermöglichen - in der BVV zurückgezogen
+- TOP 11.38: Cité Foch mit der Buslinie 322 gut erschließen - in der BVV abgelehnt
+- TOP 11.39: Liga- und Pokalspiele auch in der Finsterwalder Straße - in der BVV abgelehnt
+- TOP 11.40: Begrünte Sitzgruppe für den Borsigwalder Kiez - in der BVV abgelehnt
+- TOP 11.41: Elektromotoren auch im Wassersport - überwiesen
+- TOP 11.42: Stadion Finsterwalder Straße für Kinder- und Jugendfußball nutzbar machen - in der BVV abgelehnt
+- TOP 11.43: Sicherheit für die Reinickendorfer Schulen stärken - in der BVV abgelehnt
+- TOP 11.44: Optimierung der Straßenbeleuchtung in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 11.45: Schließfächer/Schränke für Sportler Sportanlage Reginhardstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.46: Mehr Sicherheit für die Kommunalpolitik - ohne Änderungen in der BVV beschlossen
+- TOP 11.47: Maßnahmen zur Reduzierung des Drogen- und Alkoholkonsums sowie Eindämmung der illegalen Prostitution in der geschützten Grünanlage am "Paddenpuhl" (Breitkopfbecken) - ohne Änderungen in der BVV beschlossen
+- TOP 11.48: Maßnahmen zur Verbesserung der Situation am Schäfersee - in der BVV abgelehnt
+- TOP 11.49: Parksituation in der Wittestraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 11.50: Es reicht: Kinder-, Jugendhilfe und Familienförderung sind #unkürzbar! - ohne Änderungen in der BVV beschlossen
+- TOP 11.51: Jugendarbeit im Haus der Jugend erhalten - überwiesen
+- TOP 11.52: Rue Racine - ohne Änderungen in der BVV beschlossen
+- TOP 11.53: Schulbau Reinickendorf Ost II - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Fahrräder sicherer an Bahnhöfen abstellen I - überwiesen
+- TOP 13.2: Soziale Angebote auf dem Franz-Neumann-Platz nachhaltig sichern - überwiesen
+- TOP 13.3: Abenteuer Beruf - überwiesen
+- TOP 13.4: Wendemöglichkeit vor Kreuzung Roedernallee/Am Nordgraben - überwiesen
+- TOP 13.5: Temporäre 30er-Strecken-Beschilderung sichtbarer machen! - überwiesen
+- TOP 13.6: S-Bahnverkehr auf der S1 auch attraktiv bei Bauarbeiten - überwiesen
+- TOP 13.7: Berufspat*innen - überwiesen
+- TOP 13.8: Mehr Schallschutz in der Humboldt-Bibliothek - überwiesen
+- TOP 13.9: Zusatzschild Badestelle Sandhauser Straße - überwiesen
+- TOP 13.10: Baumpflanzung auf dem Platz vor dem Borsigtor - überwiesen
+- TOP 13.11: Initiativrecht für das Kinder- und Jugendparlament - überwiesen
+- TOP 13.12: Fahrradweg in Alt-Heiligensee - überwiesen
+- TOP 13.13: Kapitelmarken in den Videos des Livestreams der BVV - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Fahrräder sicherer an Bahnhöfen abstellen II - überwiesen
+- TOP 14.2: Brückenwiderlager an der Nordbahn in Frohnau von Graffiti befreien - überwiesen
+- TOP 14.3: Neubau der Münchhausen Grundschule in der Rue Racine - überwiesen
+- TOP 14.4: BVG Kundenzentrum in Tegel erhalten - überwiesen
+- TOP 14.5: Firmen-Ticket - jetzt digital! - überwiesen
+- TOP 14.6: Transparenz und Arbeitsfähigkeit der BVV stärken - überwiesen
+- TOP 14.7: Neubau der Münchhausen-Grundschule umsetzen - überwiesen
+- TOP 14.8: Kultur stärken - Wilhelm Hallen sichtbarer machen - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
