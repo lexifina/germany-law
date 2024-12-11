@@ -1,0 +1,25 @@
+# Lückenschluss Fahrradverbindung Eschweg-Innenstadt Gronau
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 172/2024 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-12-11
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZf7bfovMW2TGaAESvdUn6wM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17818
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Lückenschluss Fahrradverbindung Eschweg-Innenstadt Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYkrv8ePYIc-yU65YZTf_7EtDri2Ux6FutWaG5ZBCkKG/Beschlussvorlage_172-2024_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 6 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdTyR0Wb2K_ksY0kDJ4ZjLzEUsrw4b16HiMmtqUBSb6Y/Anlage_TOP_6_-_Auszug_MUK.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZde7TiyLs6yXeJ4pXd_kONwEltgruK4owfOmdwojQ9j6/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_1.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 2) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRqgGMb_dL1lLS1oS4JB-6vKpqkOTJ8q9Jkzg_4sVcB3/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_2.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 2a) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXNFwtHAGvMvGyuj0woBJ_uXtzNtc9KCURFtCwecQ-yz/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_2a.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 3) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa7MkDQL23X2Ae9oD-nXDxmu6GWX2UcCNNbpdPAxKpGK/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_3.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 4a) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTKByzwwFSN-f9ntSxHQpK-lsVq6vY59pq1fkQmtkqtj/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_4a.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 5) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYPs8oJLrhLHqIVGqjrpeOu2U9NqRjYFn5_Rcx47-FMb/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_5.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 6) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfUwwhouVHfxIcGrs8iJgtf-ruQjggq2AuuSMklAiWjI/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_6.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 7) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRFBS1GEMhOva7VUfBXQjizMkz9hOiQcOx0xxgX80ADD/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_7.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 8) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY7qsE_vW1rPBFmtfHkjXCLrkezmMqzwi-Zek-puahJ1/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_8.pdf
+- Anlage: Beschlussvorlage (Übersichtsplan Radverbindungen Stadtpark Gronau-Variante 9) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWiX_41HZMIJfAs4edinbuJ2NlLrrXeb0QlJubBC_YNo/Uebersichtsplan_Radverbindungen_Stadtpark_Gronau-Variante_9.pdf
+- Anlage: Beschlussvorlage (Anlage 12 Vergleich der Varianten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW3oaNB_IoPuHlO24CD4aB8ckqzMZrrzyYs23gr4VIJs/Anlage_12_Vergleich_der_Varianten.pdf
+- Anlage: Beschlussvorlage (Auszug MUK 03.12.2024 TOP 8) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZL-LFZrbuhAaA6KebszUI9ojZWZgPQ4ehCe0VPpKzrH/Auszug_MUK_03.12.2024_TOP_8.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5880 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5884 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
