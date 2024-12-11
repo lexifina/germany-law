@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2024-03-08 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/gem_erlass_bebauungsplaene
+- Datum: 2024-12-11 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/go_lpa_2010
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,103 +26,180 @@ A |
 |
 
 Aktuelle Fassung
-Änderungshistorie
+Anlagen (1)                    Änderungshistorie
 
-Gemeinsamer Erlass des Ministeriums für Infrastruktur und Raumordnung und des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz zur Anwendung des § 8 Abs. 2 Satz 3 des Waldgesetzes des Landes Brandenburg auf Bebauungspläne
+Geschäftsordnung des Landespersonalausschusses Brandenburg (GO-LPA)
 
-vom 14. August 2008
+vom 14. April 2010
 
-(ABl./08, [Nr. 38], S.2189)
+(ABl./10, [Nr. 20], S.835)
 
-geändert durch Bekanntmachung des MLUK und MIL vom 8. März 2024
+zuletzt geändert durch Beschluss des Landespersonalausschusses vom 11. Dezember 2024
 
-(ABl./24, [Nr. 14], S.244)
+(ABl./25, [Nr. 2], S.39)
 
-Im Rahmen der kommunalen Planungshoheit sind die Kommunen befugt, bewaldete Flächen durch die Bauleitplanung zu überplanen und dadurch für eine andere Nutzungsart vorzusehen. Stehen der Waldumwandlung (das heißt Änderung der Nutzungsart) keine öffentlichen und/oder privaten Belange entgegen, werden die dafür erforderlichen Maßnahmen zum Ausgleich der Schutz- und Erholungsfunktion des Waldes entweder bereits im Bebauungsplan festgesetzt oder sind Gegenstand des späteren Zulassungsverfahrens (zum Beispiel Baugenehmigungsverfahren). Nachstehende Erläuterungen beziehen sich vorrangig auf die Umsetzung im qualifizierten Bebauungsplan gemäß § 30 des Baugesetzbuches (BauGB). Dieses Verfahren bietet die Möglichkeit, bereits im Vorfeld umfassende Regelungen festzulegen. Das hat den Vorteil, dass Investoren, Bauherren und die planende Gemeinde bereits in der Planungsphase genau wissen, welche Kompensationsmaßnahmen bei einer Inanspruchnahme des Waldes erforderlich werden. Da die Kompensationsmaßnahmen Teil der Investitionskosten sind, ist es von erheblicher Bedeutung, präzise Angaben dazu vorzulegen.
+Aufgrund des § 128 des Landesbeamtengesetzes (LBG) vom 3. April 2009 (GVBl. I S. 26) gibt sich der Landespersonalausschuss folgende Geschäftsordnung:
 
-1 Rechtsgrundlage
+§ 1
 
-Wird Wald im Plangebiet in Anspruch genommen, bedarf es gemäß § 8 Abs. 1 Satz 1 des Waldgesetzes des Landes Brandenburg (LWaldG) der Genehmigung der unteren Forstbehörde. Dieser Genehmigung steht gleich, wenn nach § 8 Abs. 2 Satz 3 LWaldG in einem rechtsgültigen Bebauungsplan nach § 30 BauGB eine anderweitige Nutzung vorgesehen ist, sofern darin die hierfür erforderlichen forstrechtlichen Kompensationen zum Ausgleich der nachteiligen Wirkungen festgesetzt sind. In diesem Fall werden alle Aussagen zu forstrechtlichen Kompensationsmaßnahmen im Bebauungsplan getroffen. Dadurch wird die Beteiligung der Forstbehörde im Zulassungsverfahren (Baugenehmigungsverfahren) entbehrlich.
+Stellvertretung der oder des Vorsitzenden
 
-Der Träger der Bauleitplanung muss sich bereits zum Beginn der Planungen entscheiden, wie er die Vorschriften zum Umweltschutz umsetzen möchte. In der Bauleitplanung ist nicht nur darüber zu entscheiden, ob sich die Eingriffe in Natur und Landschaft im Planbereich rechtfertigen lassen, sondern auch darüber, ob und in welchem Umfang angesichts vorrangiger städtebaulicher Erfordernisse für unvermeidbare Beeinträchtigungen Ausgleich und Ersatz zu leisten ist (vgl. BATTIS/KRAUTZBERGER/LÖHR Kommentar BauGB, 10. Auflage, § 1a, Rn 23). Das Baugesetzbuch versteht unter Ausgleichsmaßnahmen auch Ersatzmaßnahmen, vgl. § 200a Satz 1 BauGB. Diese müssen nicht in unmittelbarem räumlichen Zusammenhang mit dem Eingriff in Natur und Landschaft stehen.
+Der Landespersonalausschuss wählt aus der Mitte seiner ordentlichen Mitglieder eine Stellvertreterin beziehungsweise einen Stellvertreter. Im Falle der Verhinderung der Vorsitzenden oder des Vorsitzenden und der stellvertretenden Vorsitzenden oder des stellvertretenden Vorsitzenden obliegen dem dienstältesten Mitglied die Sitzungsleitung sowie die sonstigen, nach der Geschäftsordnung der oder dem Vorsitzenden vorbehaltenen Befugnisse.
 
-Gemäß § 1a Abs. 3 Satz 2 bis 4 BauGB erfolgt der Ausgleich durch geeignete Darstellungen und Festsetzungen nach den §§ 5 und 9 BauGB als Flächen oder Maßnahmen. Soweit dies mit einer nachhaltigen städtebaulichen Entwicklung und den Zielen der Raumordnung sowie des Naturschutzes und der Landschaftspflege vereinbar ist, können die Darstellungen und Festsetzungen auch an anderer Stelle als am Ort des Eingriffs erfolgen. Anstelle von Darstellungen und Festsetzungen können auch vertragliche Vereinbarungen gemäß § 11 BauGB getroffen werden. Die Kommune muss durch die vertraglichen Regelungen sicherstellen, dass der tatsächliche Erfolg der Kompensation hierdurch ebenso sichergestellt wird wie durch eine ansonsten mögliche bauplanerische Festsetzung (BATTIS/KRAUTZBERGER/ LÖHR a. a. O., § 1a, Rn 27).
+§ 2
 
-2 Bebauungspläne gemäß § 30 BauGB und forstrechtliche Kompensationsanforderungen
+Befugnisse der Mitglieder
 
-Damit ein Bebauungsplan[1] die Anforderungen zur Waldumwandlung und deren Kompensation gemäß § 8 Abs. 2 Satz 3 LWaldG erfüllt, muss er zu nachfolgend genannten Inhalten Aussagen enthalten. Die Kompensationsmaßnahmen für die Waldinanspruchnahme werden im B-Plan nach Art und Umfang geregelt. Die zeitliche Abfolge der Maßnahmen, die besonderen Genehmigungstatbestände (hier nach Naturschutzrecht, UVP-Recht) werden ebenfalls abschließend im B-Plan dargelegt.
+(1) Die Mitglieder des Landespersonalausschusses sind im Rahmen der ihnen gesetzlich übertragenen Aufgaben berechtigt,
 
-Art und Umfang der Kompensationsmaßnahme - nach Forstrecht
+die dem Landespersonalausschuss zur Entscheidung oder zur Mitwirkung vorgelegten Akten einzusehen,
 
+von der oder dem Vorsitzenden oder der Geschäftsstelle Auskünfte zu verlangen, soweit sie für ihre Mitwirkung im Landespersonalausschuss von Bedeutung sind,
 
-Erstaufforstungsfläche
+Beratungsgegenstände auf die Tagesordnung einer Sitzung setzen zu lassen.
 
-und/oder Waldumbaufläche
+(2) Die stellvertretenden Mitglieder vertreten diejenigen ordentlichen Mitglieder, als deren Stellvertreterinnen oder Stellvertreter sie berufen worden sind. Im Übrigen sind sie berechtigt, mit beratender Stimme an allen Sitzungen teilzunehmen.
 
-und/oder Waldrandgestaltung
+(3) Alle den Mitgliedern zur Kenntnis gelangten Angelegenheiten des Landespersonalausschusses unterliegen der Verpflichtung zur Amtsverschwiegenheit. Über das Abstimmungsverhalten einzelner Mitglieder und deren Äußerungen in den Beratungen ist Stillschweigen zu wahren (Beratungsgeheimnis).
 
-gegebenenfalls weitere Maßnahmen mit Flächenangabe oder anderer geeigneter Bezugsgrößen
+(4) Die allgemeinen Bestimmungen über den Datenschutz sind zu beachten.
 
-Maßnahmebeschreibung
+§ 3
 
+Geschäftsstelle
 
-Pflanzenanzahl
+(1) Die Geschäftsstelle des Landespersonalausschusses führt die Bezeichnung „Geschäftsstelle des Landespersonalausschusses beim Ministerium des Innern und für Kommunales des Landes Brandenburg“.
 
-und Baumart(en)
+(2) Die Geschäftsstelle führt die laufenden Geschäfte des Landespersonalausschusses und seiner Unterausschüsse nach Weisung der oder des Vorsitzenden. Sie hat die Vorsitzende oder den Vorsitzenden laufend über wichtige Fragen, die Angelegenheiten des Landespersonalausschusses betreffen, zu unterrichten.
 
-und Kulturpflege bis zur gesicherten Kultur
+(3) Die Geschäftsstelle berät die antragstellenden Behörden. Auskünfte über die im Landespersonalausschuss behandelten Anträge werden ausschließlich der antragstellenden Behörde erteilt.
 
-und Nachbesserung
+(4) Die Geschäftsstelle stellt Informationen über die Tätigkeit des Landespersonalausschusses im Internet zur Verfügung.
 
-Fristsetzung für Maßnahmedurchführung
+§ 4
 
-Zeitpunkte für Zwischen- und Schlussabnahmen
+Antragstellung
 
-Besondere Genehmigungstatbestände
+(1) Für Anträge an den Landespersonalausschuss ist das in der Anlage beigefügte Muster zu verwenden. Der Antrag ist in 18facher Ausfertigung der Geschäftsstelle zuzuleiten. Dies gilt nicht für die Beantragung eines Grundsatzbeschlusses. Anträge für Gruppen von Beamtinnen und Beamten, denen keine grundsätzliche Bedeutung zukommt, werden wie einzeln gestellte Anträge behandelt. Sofern eingereichte Schriftstücke personenbezogene Daten Dritter beinhalten, sind diese zu schwärzen.
 
+(2) Anträge und sonstige Schriftstücke können elektronisch übermittelt werden, soweit dem rechtliche Gründe oder andere Umstände nicht entgegenstehen. Personenbezogene Daten nach § 3 Absatz 1 des Brandenburgischen Datenschutzgesetzes dürfen auf elektronischem Wege nur verschlüsselt oder über eine besonders gesicherte Verbindung übermittelt werden.
 
-Entlassung beziehungsweise Ausnahmegenehmigungen für Schutzgebiete nach Naturschutzrecht oder Biotope gemäß § 32 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG)
+(3) Es werden grundsätzlich nur Anträge behandelt, die der nach Absatz 1 vorgeschriebenen Form entsprechen und die spätestens vier Wochen vor dem Sitzungstermin bei der Geschäftsstelle eingegangen sind.
 
-Prüfpflichten gemäß dem Gesetz über die Umweltverträglichkeitsprüfung (UVPG) und dem Brandenburgischen Gesetz über die Umweltverträglichkeitsprüfung (BbgUVPG) bei Erreichen der Schwellenwerte für Waldrodung und/oder Erstaufforstung
+§ 5
 
-Erstaufforstungsgenehmigung für Ausgleichs- und Ersatzflächen
+Vorbereitung und Verlauf der Sitzungen, Ladung der Mitglieder
 
-Flächenverfügbarkeit durch unwiderrufliche Sicherung der Ersatz- und Ausgleichsflächen bis zum Zeitpunkt der Inanspruchnahme.
+(1) Die Sitzungen des Landespersonalausschusses finden in der Regel am jeweils zweiten Mittwoch der Monate Februar, April, Juni, Oktober und Dezember statt.
 
-3 Flächenbereitstellung und Umsetzung der Maßnahmen
+(2) Die Geschäftsstelle bereitet die Sitzungen vor und lädt die Mitglieder und die stellvertretenden Mitglieder des Landespersonalausschusses unter Übersendung einer Tagesordnung schriftlich zu den Sitzungen ein. Zwischen der Absendung der Einladung und dem Sitzungstermin soll eine Frist von mindestens zehn Tagen liegen. In dringenden Fällen kann auch mit kürzerer Frist geladen werden.
 
-3.1 Flächenbereitstellung
+(3) Sind Mitglieder an der Teilnahme verhindert, so unterrichten sie unverzüglich ihre Stellvertreterinnen oder Stellvertreter und die Geschäftsstelle.
 
-Die planende Gemeinde hat verschiedene Möglichkeiten, Flächen für die Kompensation einer Waldinanspruchnahme bereitzustellen.
+(4) Die Geschäftsstelle veranlasst die Ladung der Beauftragten der beteiligten Verwaltungen, von Beschwerdeführern, Vertretern von Gewerkschaften und Berufsverbänden sowie von anderen Personen, soweit ihre Anwesenheit notwendig erscheint oder nach §128 Absatz 4 des Landesbeamtengesetzes (LBG) zu gestatten ist. Beteiligte, Zeugen und Sachverständige, deren Anhörung von der oder dem Vorsitzenden vorgesehen ist, hat die Geschäftsstelle unter Mitteilung des Verhandlungsgegenstandes, über den sie gehört werden sollen, schriftlich zu laden.
 
-Die Flächen liegen im B-Plangebiet selbst. Die erforderlichen Flächen werden festgesetzt und textlich in der Begründung beziehungsweise durch den Umweltbericht näher beschrieben.
+(5) Der Landespersonalausschuss lässt sich vor seiner Entscheidung die Sach- und Rechtslage von der Geschäftsstelle vortragen und entscheidet - soweit notwendig nach  Anhörung der in § 128 Absatz 2 LBG genannten Beteiligten, der von den Verwaltungen Beauftragten oder von Dritten - durch Einzel- oder Grundsatzbeschluss.
 
-Die Flächen liegen im Gemeindegebiet, aber außerhalb des Geltungsbereiches des B-Planes. Hier ist gegebenenfalls ein Rückgriff auf den Flächennutzungsplan der Gemeinde oder eine Änderung des Flächennutzungsplanes angezeigt.
+(6) Ist die Behandlung eines Antrages, zum Beispiel wegen besonderer Dringlichkeit, nicht in einer Sitzung des Landespersonalausschusses möglich, kann die oder der Vorsitzende durch die Geschäftsstelle die Zustimmung der Mitglieder des Landespersonalausschusses ohne Beratung einholen lassen. Erfolgt die Zustimmung mündlich, ist sie unverzüglich schriftlich zu bestätigen. Ist ein Mitglied verhindert, so ist die Zustimmung der Stellvertreterin oder des Stellvertreters einzuholen. Stimmen nicht alle Mitglieder dem Antrag zu, muss in einer Sitzung des Landespersonalausschusses darüber entschieden werden.
 
-Die Flächen liegen außerhalb der Gemeinde. Hierbei ist eine Beteiligung der betroffenen anderen Gemeinden erforderlich. Die Flächen müssen über vertragliche Regelungen gesichert werden. Außerdem ist die potenzielle Genehmigungsfähigkeit für Erstaufforstungen seitens der unteren Naturschutzbehörde und der unteren Forstbehörde vorab abschließend zu klären.
+(7) Die den Mitgliedern zur Verfügung gestellten Beratungsunterlagen, die personenbezogene Anträge betreffen, werden nach der abschließenden Behandlung eines Vorgangs der Geschäftsstelle übergeben.
 
-Eine unwiderrufliche Sicherung der Ausgleichs- und Ersatzflächen ist im Zusammenhang mit dem B-Plan erforderlich. Das kann entweder durch zivilrechtliche Verträge oder öffentlich-rechtliche Verträge erfolgen. Die tatsächliche Verfügbarkeit der Flächen muss gewährleistet sein. Hierbei sind gegebenenfalls langfristige Pachtverträge und deren Kündigungsmodalitäten zu berücksichtigen.
+§ 6
 
-3.2 Umsetzung der Ersatzmaßnahmen
+Ausschluss und Befangenheit von Mitgliedern
 
-Eine parzellenweise Umsetzung ist zielführend bei einer schrittweisen Inanspruchnahme des Waldes. Jeder einzelne Vorhabensträger erbringt seine Kompensationsmaßnahme und erhält dafür eine Fristsetzung zur Durchführung der Maßnahmen.
+Für den Ausschluss von Mitgliedern von der Beratung und Beschlussfassung oder beim Vorliegen eines Grundes über die Besorgnis der Befangenheit gelten die Vorschriften der §§ 20 und 21 des Verwaltungsverfahrensgesetzes des Bundes in Verbindung mit den §§ 1 und 3 des Verwaltungsverfahrensgesetzes für das Land Brandenburg entsprechend.
 
-Eine Einmalleistung ist gerechtfertigt, wenn der Wald zeitgleich in Anspruch genommen wird. Das kommt in Betracht bei gewerblichen Planungen. Die planende Gemeinde oder der Investor erbringt die Kompensation gemäß Fristsetzung in zeitlichem und räumlichem Zusammenhang.
+§ 7
 
-Eine Einmalleistung ist auch als Vorleistung (vorgezogene Maßnahme) möglich. Falls es allerdings nicht zur Inanspruchnahme der Waldflächen kommt, wurde gegebenenfalls zuviel erbracht. Dieser Nachteil könnte durch eine Weitergabe der Flächen an andere Kompensationspflichtige aufgewogen werden.
+Unterausschüsse
 
-4 Verfahrenshinweise
+(1) Für die Durchführung des Verfahrens zur Feststellung der Laufbahnbefähigung kann der Landespersonalausschuss zur Vorbereitung seiner Entscheidung Unterausschüsse bestellen.
 
-Werden im B-Plan nur teilweise, unvollständige beziehungsweise nicht hinreichende Regelungen zur Waldkompensation getroffen, darf von § 8 Abs. 2 Satz 3 LWaldG kein Gebrauch gemacht werden. In diesem Fall ist über die Waldumwandlung im anschließenden konkreten Genehmigungsverfahren zu entscheiden (zum Beispiel Baugenehmigungsverfahren) und die untere Forstbehörde muss beteiligt werden.
+(2) Ein Unterausschuss besteht aus drei Mitgliedern, die mindestens der jeweils angestrebten Laufbahngruppe der Beamtin oder des Beamten beziehungsweise der anderen Bewerberin oder des anderen Bewerbers angehören. Er setzt sich aus zwei Mitgliedern des Landespersonalausschusses (ständige Mitglieder des Unterausschusses) und einer Vertreterin oder einem Vertreter der antragstellenden Behörde (nicht ständiges Mitglied des Unterausschusses) zusammen. Das nicht ständige Mitglied des Unterausschusses soll durch die antragstellende Behörde für das jeweilige Feststellungsverfahren benannt werden. Einer Bestellung bedarf es nicht. Ein ständiges Mitglied des Unterausschusses ist Beamtin oder Beamter des höheren Dienstes.
 
-Beabsichtigt die Gemeinde in einem Bebauungsplan die Kompensation einer geplanten Waldumwandlung umfassend zu regeln, ist bereits in der Phase der frühzeitigen TÖB-Beteiligung gegenüber der unteren Forstbehörde eine entsprechende Erklärung zielführend. Dann kann die Gemeinde auf Hinweis der Forstbehörde gegebenenfalls noch unvollständige Planungsunterlagen nachbessern und den Planentwurf vervollständigen.
+(3) Die ständigen Mitglieder des Unterausschusses werden für die Dauer ihrer Amtszeit als Mitglied des Landespersonalausschusses bestellt. Für jedes Mitglied ist ein stellvertretendes Mitglied zu bestellen.
 
-Außerdem sind durch die Regelungen der Kompensation einer Waldinanspruchnahme andere Behörden ebenfalls fachlich betroffen (zum Beispiel untere Naturschutzbehörde). Daher müssen spätestens zu Beginn der öffentlichen Auslegung und der Behördenbeteiligung die Unterlagen vollständig vorliegen, um einer Beurteilung zugängig zu sein. Das sichert außerdem die Einhaltung des zeitlichen Ablaufes für den Träger der Planung.
+(4) Der Landespersonalausschuss bestimmt den Vorsitz und die Stellvertretung im Unterausschuss.
 
-[1] Dazu zählen:
+(5) Das nicht ständige Mitglied muss die Befähigung für die von der Beamtin oder dem Beamten beziehungsweise der anderen Bewerberin oder dem anderen Bewerber angestrebte Laufbahn besitzen. Benennt die antragstellende Behörde kein nicht ständiges Mitglied, welches die Befähigung für die angestrebte Laufbahn besitzt, soll abweichend von Absatz 2 Satz 4 das nicht ständige Mitglied im Wege der Amtshilfe nach § 129 Absatz 2 Satz 2 LBG von der zuständigen Laufbahnordnungsbehörde gestellt werden.
 
-qualifizierter Bebauungsplan (§ 30 Abs. 1 BauGB)
+(6) Die nichtständigen Mitglieder werden vor der Ausübung ihrer Tätigkeit durch den Vorsitzenden des Unterausschusses gesondert zur Amtsverschwiegenheit sowie zur Wahrung des Beratungsgeheimnisses und des Datenschutzes verpflichtet.
 
-vorhabenbezogener Bebauungsplan (§ 30 Abs. 2 BauGB)
+§ 8
 
-einfacher Bebauungsplan (§ 30 Abs. 3 BauGB).
+Befugnisse des Unterausschusses
+
+(1) Der Unterausschuss ist zuständig für die Vorbereitung der Entscheidung über die Feststellung der Laufbahnbefähigung der Beamtin oder des Beamten beziehungsweise der anderen Bewerberin oder des anderen Bewerbers.
+
+(2) Der Unterausschuss lädt die Beamtin oder den Beamten beziehungsweise die andere Bewerberin oder den anderen Bewerber zu einem Vorstellungstermin ein.
+
+(3) Die Geschäftsstelle stellt dem Unterausschuss Unterlagen zur Verfügung, des Weiteren kann der Unterausschuss weitere Unterlagen anfordern.
+
+(4) Der Unterausschuss beschließt mit Stimmenmehrheit; bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Zur Beschlussfassung ist die Anwesenheit von mindestens zwei Mitgliedern erforderlich.
+
+(5) Die oder der Vorsitzende des Unterausschusses teilt dem Landespersonalausschuss das Ergebnis mit einem Vorschlag für die Entscheidung mit. Der Landespersonalausschuss kann von der oder dem Vorsitzenden des Unterausschusses einen mündlichen Bericht erbitten.
+
+(6) Der Landespersonalausschuss entscheidet auf Grund des Vorschlags des Unterausschusses.
+
+(7) Die dem Unterausschuss zur Verfügung gestellten Unterlagen werden nach dem Abschluss eines Vorgangs der Geschäftsstelle übergeben.
+
+§ 9
+
+Datenschutz
+
+(1) Denjenigen Personen, die bei ihrer Tätigkeit für den Landespersonalausschuss dienstlichen Zugang zu personenbezogenen Daten haben, ist es untersagt, solche Daten unbefugt zu einem anderen als dem zur jeweiligen rechtmäßigen Aufgabenerfüllung gehörenden Zweck zu verarbeiten oder zu offenbaren. Diese Personen sind verpflichtet, das Datengeheimnis auch nach Beendigung ihrer Tätigkeit zu wahren.
+
+(2) Die Geschäftsstelle hat alle entscheidungserheblichen Akten und Daten zu abgeschlossenen Vorgängen spätestens nach fünf Jahren zu vernichten bzw. zu löschen.
+
+§  10
+
+Niederschrift
+
+(1) Über jede Sitzung des Landespersonalausschusses ist von der Protokollführerin oder dem Protokollführer der Geschäftsstelle eine Niederschrift zu fertigen, die von der Leiterin oder dem Leiter der Geschäftsstelle und der Protokollführerin oder dem Protokollführer zu unterschreiben ist. Die Niederschrift wird der oder dem Vorsitzenden oder der oder dem stellvertretenden Vorsitzenden zur Schlusszeichnung vorgelegt.
+
+(2) In die Niederschrift sind aufzunehmen:
+
+die Namen aller Personen, die an der Sitzung teilgenommen haben,
+
+Tag, Beginn und Ende der Sitzung,
+
+die Beratungsgegenstände,
+
+als Anlage die gefassten Beschlüsse; bei ablehnenden Beschlüssen und bei Beschlüssen, denen der Landespersonalausschuss grundsätzliche Bedeutung beimisst, ist eine Begründung in die Niederschrift aufzunehmen.
+
+Wenn Mitglieder des Landespersonalausschusses dies ausdrücklich wünschen, sind ihre Wortbeiträge sinngemäß in die Niederschrift aufzunehmen.
+
+(3) Die Niederschrift soll nach Unterzeichnung durch die Vorsitzende oder den Vorsitzenden jedem Mitglied des Ausschusses und jedem stellvertretenden Mitglied mit der Einladung für die nächste Sitzung übersandt werden, sie ist spätestens in der nächsten Sitzung auszuhändigen.
+
+§  11
+
+Mitteilung und Veröffentlichung der Beschlüsse
+
+(1) Beschlüsse und Stellungnahmen des Landespersonalausschusses sind den beantragenden Behörden durch die Geschäftsstelle mitzuteilen. Sie können von der oder dem Vorsitzenden in der Sitzung den gegebenenfalls anwesenden Vertreterinnen oder Vertretern der beantragenden Behörde bekannt gegeben werden.
+
+(2) Die Beschlüsse, die nach 128 Absatz 6 LBG bekannt zu machen sind, werden im Amtsblatt für Brandenburg veröffentlicht.
+
+§  12
+
+Erlass von Verfahrensregelungen
+
+Verfahrensregelungen, zu deren Erlass der Landespersonalausschuss auf Grund laufbahnrechtlicher Vorschriften ermächtigt ist, werden im Amtsblatt für das Land Brandenburg veröffentlicht und treten am Tage nach der Bekanntmachung in Kraft.
+
+§ 13
+
+Übergangsregelung
+
+In Fällen der Änderung der Geschäftsordnung oder der Verfahrensordnungen sind Anträge an den Landespersonalausschuss nach dem Recht zu behandeln, welches zum Zeitpunkt der Antragstellung galt.
+
+§  14
+
+Schlussvorschriften
+
+Die Geschäftsordnung wird im Amtsblatt für Brandenburg veröffentlicht und tritt am 14. April 2010 in Kraft. Gleichzeitig wird die Geschäftsordnung vom 1. Dezember 1999 (ABl. 2000 S. 4) aufgehoben.
+
+Anlagen
+
+1
+
+Anlage - Antrag an den Landespersonalausschuss 107.9 KB
