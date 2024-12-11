@@ -1,0 +1,108 @@
+# 27. Sitzung (Verabschiedung Haushalt 2025)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-12-11T16:22:00+01:00
+- Ende: 2024-12-11T21:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13876
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13876
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00561051.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Ständige Schausammlung im Stadtmuseum Münster - 200 Jahre Protestanten-Verbot
+- TOP 2.2: Aufhebung der Radwegebenutzungspflicht - Sachstand zu einzelnen Maßnahmen
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Sperrungen Coerheide, Coermühle (Verkehrsregelung im Bereich der Rieselfelder) - verwiesen
+- TOP 7.2: Kombinierter Rad- und Fußweg auf dem Gelände der Mosaikschule - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12.1: Stärkung der Wirtschaft in den Fokus kommunalen Handels nehmen! - mehrheitlich beschlossen
+- TOP 12.2: Münster lehnt Bezahlkarte für Geflüchtete ab und beschließt die Nutzung der Opt-Out-Regelung - mehrheitlich beschlossen
+- TOP -: Beratungen zum Haushalt 2025 - Reden der Vorsitzenden der Fraktionen, der Gruppe und des Einzelmitgliedes
+- TOP 13: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt – Sofortmaßnahmen im Haushaltsplan 2025 - mehrheitlich beschlossen
+- TOP 13.1: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt – Sofortmaßnahmen im Haushaltsplan 2025
+- TOP 14: Haushaltssatzung 2025 - mehrheitlich beschlossen
+- TOP 15: Erlass einer Hebesatzsatzung für die Jahre 2025 ff. - mehrheitlich geändert beschlossen
+- TOP 15.1: Erlass einer Hebesatzsatzung für die Jahre 2025 ff.
+- TOP 15.1.1: Erlass einer Hebesatzsatzung für die Jahre 2025 ff.
+- TOP 16: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 16.1: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2025 - mehrheitlich beschlossen
+- TOP 16.1.1: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2025
+- TOP 16.2: Tarifmaßnahmen 2025 im WestfalenTarif für das Münsterland (Tarifgemeinschaft Münsterland - Ruhr-Lippe) zum 01.08.2025 - zur Kenntnis genommen
+- TOP 16.3: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 16.4: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 16.5: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen": Erhöhung der Entgelte für städtische Sportstätten einschließlich der Tennis- und Speckbrettplätze mit wassergebundener Decke - mehrheitlich beschlossen
+- TOP 16.6: Abfallgebühren 2025 - einstimmig beschlossen
+- TOP 16.7: Straßenreinigungsgebühren 2025 - mehrheitlich beschlossen
+- TOP 16.8: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2025 - mehrheitlich beschlossen
+- TOP 17: Wirtschaftspläne von Gesellschaften
+- TOP 17.1: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2025 - einstimmig beschlossen
+- TOP 17.2: Wirtschaftsplan 2025 von Münster Marketing - mehrheitlich geändert beschlossen
+- TOP 17.3: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 18: Gesellschaftsverträge
+- TOP 18.1: smartOPTIMO GmbH & Co.KG: Aufnahme der Gesellschafterin Regionetz GmbH / Novellierung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 18.2: Bädermanagement Münster GmbH: Änderung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 18.3: AirportPark FMO GmbH: Änderung des Gesellschaftsvertrages - mehrheitlich beschlossen
+- TOP 18.4: Tarifgemeinschaft Münsterland - Ruhr-Lippe GmbH und WestfalenTarif GmbH: Änderung von Gesellschaftsverträgen - einstimmig beschlossen
+- TOP 19: Kommunales Klimaschutzcontrolling - mehrheitlich beschlossen
+- TOP 20: Zwischenbericht zum Gleichstellungsplan 2022-2025 - zur Kenntnis genommen
+- TOP 21: Verordnung zum Schutz freilebender Katzen im Stadtgebiet Münster - mehrheitlich beschlossen
+- TOP 22: Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen - zur Kenntnis genommen
+- TOP 23: Managementkontrakt (MMK) mit der Messe und Congress Centrum Halle Münsterland GmbH (MCC) - einstimmig beschlossen
+- TOP 24: Kapitalerhöhung bei der Technologieförderung Münster GmbH (TFM) - einstimmig beschlossen
+- TOP 25: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - von der Tagesordnung abgesetzt
+- TOP 26: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2021 - einstimmig beschlossen
+- TOP 27: Überplanmäßige Mittelbereitstellung im Haushaltsjahr 2024 - einstimmig beschlossen
+- TOP 28: Stiftung Vereinigte Pfründnerhäuser | Projekt "Engagement in Coerde stärken“ - einstimmig beschlossen
+- TOP 29: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster - Vorlage eingebracht
+- TOP 30: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets (01.01.2025 bis 30.06.2025) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 30.1: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets (01.01.2025 bis 30.06.2025) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“
+- TOP 31: Strukturelle Weiterentwicklung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - einstimmig beschlossen
+- TOP 32: Schulentwicklungsplanung für die Sekundarstufe I – - mehrheitlich geändert beschlossen
+- TOP 33: Änderung des Beschlusses: Kauf statt Anmietung von Fertigbauklassen gem. Vorlage V/0331/2024 - einstimmig beschlossen
+- TOP 34: Überleitung der außerunterrichtlichen Angebote der Ludgerusschule Hiltrup (OGS) - einstimmig beschlossen
+- TOP 35: Überleitung der außerunterrichtlichen Angebote (OGS) an der Michaelschule und der Mosaik-Schule - einstimmig beschlossen
+- TOP 36: Trägervergabe für die Kindertageseinrichtung am Kiesekampweg im Stadteil Coerde, Bezirk Nord - mehrheitlich beschlossen
+- TOP 37: Anpassung der Richtlinien Sonderfonds "Hilfen für Schwangere, Eltern und Kinder" - mehrheitlich beschlossen
+- TOP 37.1: Anpassung der Richtlinien Sonderfonds "Hilfen für Schwangere, Eltern und Kinder"
+- TOP 38: Anpassung der Richtlinie "Auszeichnungen für besondere Leistungen auf dem Gebiet des Sports" - einstimmig beschlossen
+- TOP 39: Errichtungsbeschluss Hoppengarten - einstimmig beschlossen
+- TOP 40: Bennohaus: Beschluss zur dauerhaften Verwendung von kapitalisierten Mitteln aus ehemaligen Personalaufwendungen im Rahmen des Profilierungs- und Optimierungsprozesses - einstimmig geändert beschlossen
+- TOP 41: Kommunaler Pflegebedarfsplan 2024-2027 - einstimmig beschlossen
+- TOP 42: Anpassung der Angebotsstruktur aufgrund veränderter Rahmenbedingungen im Jobcenter der Stadt Münster - einstimmig geändert beschlossen
+- TOP 43: Rathaus/ Stadtweinhaus - Barrierefreiheit über vorhandene Zuwegung und Umbau des vorhandenen Aufzugs - einstimmig geändert beschlossen
+- TOP 44: Wärmeversorgung mit Kalter Nahwärme durch die Stadtwerke Münster GmbH in den Baugebieten Albachten-Ost und Handorf-Kirschgarten - mehrheitlich beschlossen
+- TOP 44.1: Wärmeversorgung mit Kalter Nahwärme durch die Stadtwerke Münster GmbH in den Baugebieten Albachten-Ost und Handorf-Kirschgarten
+- TOP 45: Aufstellungsbeschluss für den Landschaftsplan 4 „Davert und Hohe Ward“ - einstimmig beschlossen
+- TOP 46: Befreiung nach § 67 Bundesnaturschutzgesetz zum geplanten Ausbau der L529 / K22 - mehrheitlich abgelehnt
+- TOP 47: Errichtung eines Zwischenlagers für gefährliche Abfälle im Entsorgungszentrum Münster (EZM) - Baubeschluss - - einstimmig beschlossen
+- TOP 48: Bauleitplanung
+- TOP 48.1: Stadtbezirk Münster-Mitte
+- TOP 48.1.1: 1. 138. Änderung des Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Mitte im Bereich zwischen Düesbergweg, Sternbusch, Bahntrasse und Düesbergpark Beschluss zur Änderung 2. Bebauungsplan Nr. 652: Düesbergweg 143/145 Beschluss zur Aufst - einstimmig geändert beschlossen
+- TOP 48.2: Stadtbezirk Münster-West
+- TOP 48.2.1: 137. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 651 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 48.3: Stadtbezirk Münster-Südost
+- TOP 48.3.1: Bebauungsplan Nr. 378, 1. Änderung: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 48.3.2: Bebauungsplan Nr. 629: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 49: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 49.1: Igel besser vor Mährobotern schützen - Fahrzeiten besser regulieren - verwiesen
+- TOP 49.2: Einrichtung von Biodiversitäts-Photovoltaik in Form von "Weideenergie"-Anlagen auf Münsteraner Stadtgebiet zur Erreichung der Biodiversitäts- und Klimaziele - verwiesen
+- TOP 49.3: Die Kommunikation der Stadt Münster barrierefrei und verständlich ausrichten - Leichte und Einfache Sprache bedarfsgerecht anwenden - verwiesen
+- TOP 49.4: Effiziente Nutzung von Sporthallen smart(er) gestalten - verwiesen
+- TOP 50: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes Obere Stever Nottuln sowie des Wasserverbandes Amelsbüren-Hiltrup - einstimmig beschlossen
+- TOP 51: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien 2. Verlängerung der Wahlzeit der Mitglieder des Ausschusses des Unterhaltungsverbandes St. Mauritz-Altenberge - einstimmig beschlossen
+- TOP 51.1: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien 2. Verlängerung der Wahlzeit der Mitglieder des Ausschusses des Unterhaltungsverbandes St. Mauritz-Altenberge
+- TOP 52: Verschiedenes
