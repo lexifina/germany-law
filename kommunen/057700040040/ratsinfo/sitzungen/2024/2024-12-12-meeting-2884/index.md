@@ -1,0 +1,56 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2024-12-12T17:00:00+01:00
+- Ende: 2024-12-12T19:40:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTYp1zwAewLLmx4hPE9D1NM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2884
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZmiSpbRD8j2jtXTvFiu2R7qlvgQKwkFvd-Boev3rChd/Bekanntmachung_Rat_12.12.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc0dToKu5ANRhTMQUnR10nQI2_t7oqQySdLzrf9O-I9_/Oeffentliche_Niederschrift_Rat_12.12.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.: Antrag auf Positivplanung für Windenergie im Bereich „Nuttelner Bruch“ und „Kleinendorf“ - 30 Stimmen dafür, 0 dagegen, 2 Enthaltungen
+- TOP 6.: Planerische Steuerung der Windkraftnutzung - Einstimmig, 0 Enthaltungen
+- TOP 7.: Aufstellung des Bebauungsplanes Nr. 106 " Gewerbegebiet Rahden-West" sowie 90. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange b) Beratung und Beschlussfassung über die Veröffentlichung des Bebauungsplanes Nr. 106 "Gewerbegebiet Rahden-West“ sowie des Änderungsplanes für die 90. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 8.: Einstellung des Verfahrens zur Aufstellung des Bebauungsplanes Nr. 107 "Varl - Alter Kirchweg" und zur 91. Änderung des Flächennutzungsplanes der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: Zukünftige Nutzung der Friedhofskapellen in der Stadt Rahden - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 10.: Grundsteuer A/B und Gewerbesteuer hier: Antrag der CDU-Fraktion zur Festsetzung von Hebesätzen - 21 Stimmen dafür, 7 dagegen, 4 Enthaltungen
+- TOP 11.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Rahden (Hebesatzsatzung) - 26 Stimmen dafür, 2 dagegen, 4 Enthaltungen
+- TOP 12.: Entwurf der Haushaltssatzung 2025 mit Haushaltsplan und Anlagen - Ohne Abstimmung
+- TOP 13.: Übertragung von Geschäftsanteilen der Radio Minden-Lübbecke GmbH & Co.KG - Einstimmig, 0 Enthaltungen
+- TOP 14.: Fortschreibung des Einzelhandelskonzeptes der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Gebühreneinführung für den Wohnmobilstellplatz - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 16.: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Minden und der Stadt Rahden hier: Übertrag von Schulträgeraufgaben sowie Kostenbeteiligung - 25 Stimmen dafür, 5 dagegen, 2 Enthaltungen
+- TOP 17.: Übernahme der Trägeranteile für die Kindertageseinrichtungen in kirchlicher Trägerschaft - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bildung von Eingangsklassen im Schuljahr 2025/26 und Verteilung auf die Grundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 19.: Fortschreibung des Medienentwicklungsplanes für die Schulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Ausrüstungsprogramm der Freiwilligen Feuerwehr der Stadt Rahden für das Jahr 2025 (Finanzplan) - Einstimmig, 0 Enthaltungen
+- TOP 21.: Beschaffung, Wartung und Reparatur von persönlichen und sächlichen Ausrüstungsgegenständen im Jahr 2025 für die Freiwillige Feuerwehr und Jugendfeuerwehr der Stadt Rahden (Ergebnisplan) - Einstimmig, 0 Enthaltungen
+- TOP 22.: Umbenennung der Schiedsamtsbezirke - Einstimmig, 0 Enthaltungen
+- TOP 23.: Aufwandsentschädigung für Schiedsamtspersonen - Einstimmig, 0 Enthaltungen
+- TOP 24.: Erlass der 17. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung der öffentlichen Abfallentsorgung in der Stadt Rahden vom 19.12.1994 - Einstimmig, 0 Enthaltungen
+- TOP 25.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltungen
+- TOP 27.: Betriebssatzung für den "Straßenbetrieb Stadt Rahden", 3. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 28.: Betriebssatzung "Abwasserentsorgung Stadt Rahden", 3. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 29.: Betriebssatzung "Wasserwerk der Stadt Rahden und städtische Bäder", 4. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 30.: Wasserversorgungskonzept Stadt Rahden - Fortschreibung 2024 - Einstimmig, 0 Enthaltungen
+- TOP 31.: Radwege an Landesstraßen in Rahden - 29 Stimmen dafür, 0 dagegen, 3 Enthaltungen
+- TOP 32.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 33.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 34.: Grundstücksangelegenheiten
+- TOP 34.1: Erwerb einer Grünfläche in der Ortschaft Varl - Einstimmig, 0 Enthaltungen
+- TOP 34.2: Erwerb einer Ausgleichsfläche in der Ortschaft Varl - Einstimmig, 0 Enthaltungen
+- TOP 35.: Vertragsangelegenheit - 25 Stimmen dafür, 7 dagegen, 0 Enthaltungen
+- TOP 36.: Bekanntgaben und Anfragen
