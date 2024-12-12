@@ -1,0 +1,56 @@
+# Gemeinderat (26. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2024-12-12T19:00:00+01:00
+- Ende: 2024-12-12T21:35:00+01:00
+- Ort: Haus des Gastes, Pemberville Platz 1, 32289 Rödinghausen, Raum 12 - Großer Saal
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaKrFgwh4qhrwpqk0C2e1aA
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1962
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfwl6LNVXHj6Cvr-mI8rhYa0_uQ35f9Ua10AmMSKx1HS/Bekanntmachung_Gemeinderat_12.12.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbjP7uOlWJ-tFi4KE3KLyzLw8OUSR1kKlJOWtGqxD_5I/Oeffentliche_Niederschrift_Gemeinderat_12.12.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Klaus-Hermann Pörtner
+- TOP 2.2: Klaus-Hermann Pörtner
+- TOP 2.3: Klaus-Hermann Pörtner
+- TOP 2.4: Dr. Dieter Doss
+- TOP 2.5: Roland Neubert
+- TOP 2.6: Jutta Hensiek
+- TOP 2.7: Marcel Vogtländer
+- TOP 3.: Anregung nach § 24 GO NRW zur Herbeiführung eines Ratsbürgerentscheides - Beratungsergebnis:26 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD120012CDU7007B90/Grüne5005FDP1203Bürgermeister1001Summe262028
+- TOP 4.: Anträge
+- TOP 4.1: Antrag der CDU-Fraktion vom 28.11.2024 auf - Sofortige Wiederbesetzungssperre - Entwicklung eines Konzeptes zur nachhaltigen Reduzierung der Personalkosten und - Erstellung eines Personal- und Organisationsberichtes - Beratungsergebnis:Einstimmig
+- TOP 4.2: Antrag der CDU-Fraktion vom 28.11.2024 auf Änderung der Geschäftsordnung - Beratungsergebnis:Einstimmig
+- TOP 5.: Zahl und Verteilung der Eingangsklassen auf die Schulen für das Schuljahr 2025/2026 - Beratungsergebnis:Einstimmig
+- TOP 5.1: Zahl und Verteilung der Eingangsklassen auf die Schulen für das Schuljahr 2025/2026 - Beratungsergebnis:Einstimmig
+- TOP 6.: Feststellung des Jahresabschlusses der Gemeinde Rödinghausen nebst Anhang und Lagebericht auf den 31.12.2023 - Beratungsergebnis:Einstimmig
+- TOP 7.: Gesamtabschluss zum 31.12.2023 der Gemeinde Rödinghausen nebst Gesamtlagebericht für das Haushaltsjahr 2023 - Beratungsergebnis:Einstimmig
+- TOP 8.: Satzung über die Festsetzung der Hebesätze für die Realsteuern der Gemeinde Rödinghausen - Beratungsergebnis:17 Ja-Stimme(n), 10 Gegenstimme(n), 1 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD120012CDU0707B90/Grüne4015FDP0303Bürgermeister1001Summe1710128
+- TOP 9.: Erlass einer 1. Änderungssatzung zur Hundesteuersatzung der Gemeinde Rödinghausen - Beratungsergebnis:23 Ja-Stimme(n), 3 Gegenstimme(n), 2 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD110112CDU6017B90/Grüne5005FDP0303Bürgermeister1001Summe233228
+- TOP 10.: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2025 und Erlass einer 5. Änderungssatzung zur Gebührensatzung für die Abfallentsorgung - Beratungsergebnis:25 Ja-Stimme(n), 0 Gegenstimme(n), 3 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD120012CDU4037B90/Grüne5005FDP3003Bürgermeister1001Summe250328
+- TOP 11.: Neuaufstellung des Generalentwässerungsplanes - Beratungsergebnis:Einstimmig
+- TOP 12.: 7. Fortschreibung des Abwasserbeseitigungskonzeptes - Beratungsergebnis:Einstimmig
+- TOP 13.: Wirtschaftsplan 2025 und Finanzplanung 2024 - 2028 für das Sondervermögen Abwasserbeseitigung der Gemeinde Rödinghausen - Beratungsergebnis:Einstimmig
+- TOP 14.: Kalkulation der Kanalbenutzungsgebühren für das Jahr 2025 - Beratungsergebnis:Einstimmig
+- TOP 15.: Kalkulation der Benutzungsgebühren sowie Erlass einer 3. Änderungssatzung zur Benutzungs- und Gebührensatzung der Gemeinde Rödinghausen über die Einrichtung und den Betrieb von Unterkünften für Flüchtlinge und Obdachlose (Benutzungs- und Gebührensatzung) vom 18.05.2018 - Beratungsergebnis:Einstimmig
+- TOP 16.: Einstellung des Förderprogrammes „Jung kauft Alt“ - Beratungsergebnis:23 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD120012CDU7007B90/Grüne0505FDP3003Bürgermeister1001Summe235028
+- TOP 17.: Zweite Gemeinsame Erklärung zum geplanten Neubau einer ICE-Trasse zwischen Bielefeld und Hannover - Beratungsergebnis:Einstimmig
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: Ablauf des "Häckseltag" auf dem Grünabfallsammelplatz
+- TOP 18.2: Umsetzung des Spielplatzkonzeptes ab 2025
+- TOP 18.3: Förderantrag für den Bereich der OGS in Rödinghausen
+- TOP 18.4: Neue Öffnungszeiten der Gemeindeverwaltung
+- TOP 19.: Anfragen von Ratsmitgliedern
+- TOP 19.1: Ratsmitglied Dirk Kleinweber
+- TOP 19.2: Ratsmitglied Dirk Kleineweber
+- TOP 19.3: Ratsmitglied Tanja Maron
+- TOP 19.4: Ratsmitglied Thomas Lübeck
+- TOP 19.5: Ratsmitglied Reinhard Uthoff
+- TOP 19.6: Ratsmitglied Dirk Blank
