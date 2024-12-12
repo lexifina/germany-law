@@ -1,0 +1,51 @@
+# 5. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-12-12T16:00:00+01:00
+- Ende: 2024-12-12T21:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13712
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13712
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU_2024_12_04 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00793359.pdf
+- Ergebnisprotokoll: Niederschrift_SR_öffentlich http://oparl.dresden.de/bodies/0001/downloadfiles/a/00805972.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Aktuelle Stunde zum Thema „Haushaltsentwurf 2025/26“ - erledigt
+- TOP 3: Bericht des Oberbürgermeisters
+- TOP 4: Einigungsverfahren Gremienbesetzung
+- TOP 4.1: Besetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt Dresden - gewählt
+- TOP 4.2: Wahl eines sachkundigen Einwohners in den Ausschuss für Soziales und Wohnen - gewählt
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Mehrbedarf Personalaufwendungen und -auszahlungen 2024 - Zustimmung mit Änderung
+- TOP 7: Bereitstellung weiterer Mittel in Ergänzung zur V2912/24 "Mehrbedarfe für Soziale Leistungen im Jahr 2024" - Zustimmung mit Änderung
+- TOP 8: Förderung von Angeboten nach Fachförderrichtlinie Soziales vom 24. März 2022, in der Fassung der 1. Änderung vom 16. Mai 2024, in den Haushaltsjahren 2025 und 2026 - Zustimmung
+- TOP 9: Förderung von Angeboten nach Fachförderrichtlinie Gesundheitshilfe vom 10. Dezember 2020 sowie nach Fachförderrichtlinie Gesundheitsamt PsySu vom 3. Februar 2016, in dem Haushaltsjahr 2025 - Ersetzung
+- TOP 10: Sicherstellung der Finanzierung der energetischen und klimagerechten Instandsetzung des Objektes Technische Sammlungen Dresden im Rahmen des Bundesförderprogrammes „Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“ - Zustimmung
+- TOP 11: B0010 - Brücke im Zuge der Fabricestraße über die Anlagen der DB AG - Ersatzneubau des Bauwerkes und Anpassung der angrenzenden Kreuzungen - Zustimmung
+- TOP 12: Sicherstellung der Gesamtfinanzierung zur Revitalisierung der ehemaligen Robotronkantine im Rahmen des Bundesförderprogrammes „Nationale Projekte des Städtebaus 2024“ - Ablehnung
+- TOP 13: Mehrbedarfe für Energieaufwendungen im Ergebnishaushalt des Amtes für Hochbau und Immobilienverwaltung im Haushaltsjahr 2024 - Zustimmung
+- TOP 14: Nutzung und Betreibung des ehemaligen Werkstattgebäudes auf dem Gelände des früheren Theaters Junge Generation (TJG) sowie die Herstellung des „Briesnitzer Park Nord“ auf dem Gelände Meißner Landstraße 4 - 6 mit dem Einsatz von EFRE-Fördermitteln - Zustimmung mit Änderung
+- TOP 15: Einordnung von Fördermitteln auf Grundlage der Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur investiven Förderung von Einrichtungen, Diensten und Angeboten für Menschen mit Behinderungen - Zustimmung
+- TOP 16: Vertagungen aus der Stadtratssitzung vom 21.11.2024
+- TOP 16.1: Leitfaden zur geschlechtergerechten Sprache in der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 16.2: Verfassungstreue der Verwaltung sichern - Zustimmung
+- TOP 17: Schließung der kommunalen Kindertageseinrichtung Jessener Straße 40a in 01257 Dresden - Zustimmung
+- TOP 18: Schließung der kommunalen Kindertageseinrichtung Moritzburger Weg 67c in 01109 Dresden - Zustimmung
+- TOP 19: Neuer Einrichtungstermin für das Berufliche Gymnasium, Fachrichtung Wirtschaftswissenschaften, am Berufsschulzentrum "Franz Ludwig Gehe", (Standort Freiberger Straße) - Vertagung
+- TOP 20: Eintrittspreise der Dresdner Philharmonie ab der Spielzeit 2025/2026 - Zustimmung
+- TOP 21: Planverfahren für Bebauungspläne und vorhabenbezogene Bebauungspläne in den Gemarkungen Dresden Altstadt I, Dresden-Altstadt II und Dresden-Friedrichstadt (Stadtbezirk Altstadt) sowie Dresden-Neustadt und Loschwitz (Stadtbezirk Neustadt) - Zustimmung
+- TOP 22: Ergänzungssatzung Nr. 447, Dresden-Wilschdorf Nr. 3, Am Sportplatz - Zustimmung
+- TOP 23: Erhaltungssatzung H-53, Dresden-Löbtau/Weißeritzknick und Dresden-Friedrichstadt/Altona; hier: Satzungsbeschluss - Ablehnung
+- TOP 24: Dresdens Märkte und Veranstaltungen plastikfrei - Änderung städtischer Satzungen - Vertagung
+- TOP 25: Dresdens Wochenmärkte rekommunalisieren und zu Stadtteilplätzen beleben - Vertagung
+- TOP 26: Erwerb von Flächen zur Schaffung einer Rad- und Fußwegeverbindung parallel zur Gostritzer Straße - Zustimmung
+- TOP 27: Haushaltslage ernst nehmen: Keine Fortführung der Planungen für eine Richard-Wagner-Akademie - Ersetzung - punktweise Abstimmung
+- TOP 28: Eilantrag: Umgang mit vorliegenden Gutachten und Prüfberichten der letzten 10 Jahre zum Zustand der Carolabrücke - punktweise Zustimmung
+- TOP 29: Einsturz der Carolabrücke: Gutachten öffentlich machen - Ablehnung
+- TOP 35: Widersprüche des Oberbürgermeisters gegen Beschlüsse
+- TOP 35.1: Widerspruch gegen den Beschluss zur Beschlussvorlage „Nachrücken einer Ersatzperson in den Ortschaftsrat Schönfeld-Weißig“ (V-SW0015/24) - Zustimmung
