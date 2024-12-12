@@ -1,0 +1,33 @@
+# Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2025 - Anträge zum Haushalt -
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 284/2024 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-12-12
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZciQw_etDXVCFidSvFAkLFI
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/11193
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2025
+- Anträge zum Haushalt -) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-wgvZdz4tMjVSSNIet59MztxfYDNrqCy_ynhoA6u1-/Beschlussvorlage_284-2024_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Kosten PyrmontCard 365) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZoZ4SPSTRIA7aevUq_XfwSQr5IwgQpErgoyRLZ5_5y2/Antrag_INTAKT_Kosten_PyrmontCard_365.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Werbungsetat BPT) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRaM8G2VOXuLxdJUWt589JNo6bdg8VCAnNlpC2SwUcHS/Antrag_INTAKT_Werbungsetat_BPT.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Realschule) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZwCmrduGpn4FGjlUTDMdFsbywCBBK_6-Ri77CSpETK-/Antrag_INTAKT_Realschule.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT behindertengerechte WC Anlage) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIqE_zylEObLnmtD814wPQvQiaj5mkNLA0TZdKxb8wq/Antrag_INTAKT_behindertengerechte_WC_Anlage.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP Aufstockung Ansatz An- und Verkauf) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfpPLIkm-9bNQdcdmHdXr5yMVeh5i9zLo_nYar_UHSMq/Antrag_CDU_Kueppers_FDP_Aufstockung_Ansatz_An-_und_Verkauf.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP Prüfung zur Anschaffung Protokollsoftware) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSheb-WRFMKRhX6hYMAIZLgZRIUHKASWoWwVTNN0BvKo/Antrag_CDU_Kueppers_FDP_Pruefung_zur_Anschaffung_Protokollsoftware.pdf
+- Anlage: Beschlussvorlage (Anträge SPD Grüne WIR BOLDT) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRNnG4Y0tBP051aMXOyjd6677YOmGdsnE8C1BU2mB2fk/Antraege_SPD_Gruene_WIR_BOLDT.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Ersatzparkplätze) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXRt6urtqONuyIfUHEDiAp32MZaCGLthG0eQrWCl_ahT/Antrag_INTAKT_Ersatzparkplaetze.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP Brandschutzkonzept Schlosshof) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZwDXdFC9qiFqIwvAU4u0FNhl6k3yTbRPEaDisTTlZGg/Antrag_CDU_Kueppers_FDP_Brandschutzkonzept_Schlosshof.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Kreisel am Bahnhof) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbzHi_UBteSRRPZEYUiixsGDY1uMa1zSdUJ8KtPbSSTQ/Antrag_INTAKT_Kreisel_am_Bahnhof.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Stelle Stadtmarketing BPT) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdveSrmxGDGw8ADsDxGBeIBm0uSLA0LvVlp703MrcCWR/Antrag_INTAKT_Stelle_Stadtmarketing_BPT.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Reparatur Innentür BPT) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR35RlF99oGpZ6k2dyfZoNIO2O5tyPOpvqPM7iWykoKl/Antrag_INTAKT_Reparatur_Innentuer_BPT.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Kriegerdenkmal u. a.) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeG-MmTD9KayDLyFD61kR_A4Ocdy10VUh7cxOQ71VLc_/Antrag_INTAKT_Kriegerdenkmal_u._a..pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP Änderungsanträge) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQdNCvOtibpH4TTBMEaEiPsH8F8NQqO5HWzs2o88UY83/Antrag_CDU_Kueppers_FDP_Aenderungsantraege.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Max-Born-Realschule) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZREb3Qg_HJv4Pp3UaNyyor9KJ3P8A-3w5I3eHP7mIk2X/Antrag_INTAKT_Max-Born-Realschule.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Parkplatz Welger) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-fcNsM0-AjDAwLey80_41WixTb1RxV_NNkpIvrJwiW/Antrag_INTAKT_Parkplatz_Welger.pdf
+- Anlage: Beschlussvorlage (Antrag SPD Grüne WIR Seniorenbeauftragter) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbcqlur6eN1HejaSvkAjxjvdoxi6t5N4MK9NIb0Jy0Rv/Antrag_SPD_Gruene_WIR_Seniorenbeauftragter.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP Realschule) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW9gXL7r8IE4YP3yJ4F2moRwO88yFC68mmnyBDXus__n/Antrag_CDU_Kueppers_FDP_Realschule.pdf
+- Anlage: Beschlussvorlage (Antrag SPD Grüne WIR Boldt 2. Aktionsplan) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYlAjLx8RZvICdTeEmU0FTbHzM-wSX9C2tqC7zJjUra1/Antrag_SPD_Gruene_WIR_Boldt_2._Aktionsplan.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20965 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20932 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
