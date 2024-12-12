@@ -9,13 +9,14 @@
 | jährlich je Garage oder ähnlichen Einstellplatz | 68 Euro |
 | 3. | Mietausfallwagnis |
 | jährlicher Rohertrag | 2 Prozent |
-| II. | Bewirtschaftungskosten für gewerbliche Nutzung |
+| II. | Bewirtschaftungskosten für Nichtwohnnutzung |
 | 1. | Verwaltungskosten |
 | jährlicher Rohertrag | 3 Prozent |
 | 2. | Instandhaltungskosten |
 | jährlich je Quadratmeter Nutzfläche (alle Gebäudearten der Anlage 24, Teil II., mit Ausnahme der nachfolgend genannten Gebäudearten) | 100 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2 |
 | jährlich je Quadratmeter Nutzfläche (Gebäudeart 13 der Anlage 24, Teil II.) | 50 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2 |
 | jährlich je Quadratmeter Nutzfläche (Gebäudearten 15 bis 16 und 18 der Anlage 24, Teil II.) | 30 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2 |
+| jährlich je Garage oder ähnlichem Einstellplatz | 100 Prozent der Instandhaltungskosten je Garage oder ähnlichem Einstellplatz gemäß Nummer I.2 |
 | 3. | Mietausfallwagnis |
 | jährlicher Rohertrag | 4 Prozent |
-Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit dem Prozentsatz, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Stichtag der Ermittlung des Liegenschaftszinssatzes vorausgeht, erhöht oder verringert hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro zu runden.
+Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit dem Prozentsatz, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Bewertungsstichtag vorausgeht, erhöht oder verringert hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro zu runden.

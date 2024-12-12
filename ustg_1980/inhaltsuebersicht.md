@@ -92,6 +92,7 @@
 |  | § 27b | Umsatzsteuer-Nachschau |
 |  | § 28 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
 |  | § 29 | Umstellung langfristiger Verträge |
+|  | § 30 | Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union |
 | Anlage 1 (zu § 4 Nr. 4a) |
 |  | Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können |
 | Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14) |

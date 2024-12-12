@@ -81,9 +81,9 @@
 | 45 | Tierische oder pflanzliche Düngemittel mit Ausnahme von Guano, auch untereinander gemischt, jedoch nicht chemisch behandelt; durch Mischen von tierischen oder pflanzlichen Erzeugnissen gewonnene Düngemittel | aus Position 3101 00 00 |
 | 46 | Mischungen von Riechstoffen und Mischungen (einschließlich alkoholischer Lösungen) auf der Grundlage eines oder mehrerer dieser Stoffe, in Aufmachungen für den Küchengebrauch | aus Unterposition 3302 10 |
 | 47 | Gelatine | aus Position 3503 00 |
-| 48 | Holz, und zwara)Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen, | Unterposition 4401 10 00 |
-| b)Sägespäne, Holzabfälle und Holzausschuss, auch zu Pellets, Briketts, Scheiten oder ähnlichen Formen zusammengepreßt, | Unterposition 4401 30 |
-| 49 | Bücher, Zeitungen und andere Erzeugnisse des grafischen Gewerbes mit Ausnahme der Erzeugnisse, für die Beschränkungen als jugendgefährdende Trägermedien bzw. Hinweispflichten nach § 15 Abs. 1 bis 3 und 6 des Jugendschutzgesetzes in der jeweils geltenden Fassung bestehen, sowie der Veröffentlichungen, die überwiegend Werbezwecken (einschließlich Reisewerbung) dienen, und zwara)Bücher, Broschüren und ähnliche Drucke, auch in Teilheften, losen Bogen oder Blättern, zum Broschieren, Kartonieren oder Binden bestimmt, sowie Zeitungen und andere periodische Druckschriften kartoniert, gebunden oder in Sammlungen mit mehr als einer Nummer in gemeinsamem Umschlag (ausgenommen solche, die überwiegend Werbung enthalten), | aus Positionen 4901, 9705 00 00 und 9706 00 00 |
+| 48 | Holz, und zwara)Brennholz in Form von Plättchen oder Schnitzeln, Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen, | aus Position 4401 |
+| b)Sägespäne, Holzabfälle und Holzausschuss, auch zu Pellets, Briketts, Scheiten oder ähnlichen Formen zusammengepresst | Unterpositionen4401 3100,4401 3200,4401 3900,4401 4100 und4401 4900 |
+| 49 | Bücher, Zeitungen und andere Erzeugnisse des grafischen Gewerbes mit Ausnahme der Erzeugnisse, für die Beschränkungen als jugendgefährdende Trägermedien bzw. Hinweispflichten nach § 15 Abs. 1 bis 3 und 6 des Jugendschutzgesetzes in der jeweils geltenden Fassung bestehen, sowie der Veröffentlichungen, die überwiegend Werbezwecken (einschließlich Reisewerbung) dienen, und zwara)Bücher, Broschüren und ähnliche Drucke, auch in Teilheften, losen Bogen oder Blättern, zum Broschieren, Kartonieren oder Binden bestimmt, sowie Zeitungen und andere periodische Druckschriften kartoniert, gebunden oder in Sammlungen mit mehr als einer Nummer in gemeinsamem Umschlag (ausgenommen solche, die überwiegend Werbung enthalten), | aus Positionen 4901, 9705 und 9706 |
 | b)Zeitungen und andere periodische Druckschriften, auch mit Bildern oder Werbung enthaltend (ausgenommen Anzeigenblätter, Annoncen-Zeitungen und dergleichen, die überwiegend Werbung enthalten), | aus Position 4902 |
 | c)Bilderalben, Bilderbücher und Zeichen- oder Malbücher, für Kinder, | aus Position 4903 00 00 |
 | d)Noten, handgeschrieben oder gedruckt, auch mit Bildern, auch gebunden, | aus Position 4904 00 00 |
@@ -96,14 +96,14 @@
 | c)Prothesen, ausgenommen Teile und Zubehör, | aus Unterpositionen 9021 21, 9021 29 00 und 9021 39 |
 | d)Schwerhörigengeräte, Herzschrittmacher und andere Vorrichtungen zum Beheben von Funktionsschäden oder Gebrechen, zum Tragen in der Hand oder am Körper oder zum Einpflanzen in den Organismus, ausgenommen Teile und Zubehör | Unterpositionen 9021 40 00 und 9021 50 00, aus Unterposition 9021 90 |
 | 53 | Kunstgegenstände, und zwara)Gemälde und Zeichnungen, vollständig mit der Hand geschaffen, sowie Collagen und ähnliche dekorative Bildwerke, | Position 9701 |
-| b)Originalstiche, -schnitte und -steindrucke, | Position 9702 00 00 |
-| c)Originalerzeugnisse der Bildhauerkunst, aus Stoffen aller Art | Position 9703 00 00 |
-| 54 | Sammlungsstücke,a)zoologische, botanische, mineralogische oder anatomische, und Sammlungen dieser Art, | aus Position 9705 00 00 |
-| b)von geschichtlichem, archäologischem, paläontologischem oder völkerkundlichem Wert, | aus Position 9705 00 00 |
+| b)Originalstiche, -schnitte und -steindrucke, | Position 9702 |
+| c)Originalerzeugnisse der Bildhauerkunst, aus Stoffen aller Art | Position 9703 |
+| 54 | Sammlungsstücke,a)zoologische, botanische, mineralogische oder anatomische, und Sammlungen dieser Art, | aus Position 9705 |
+| b)von geschichtlichem, archäologischem, paläontologischem oder völkerkundlichem Wert, | aus Position 9705 |
 | c)von münzkundlichem Wert, und zwar |  |
-| aa)kursungültige Banknoten einschließlich Briefmarkengeld und Papiernotgeld, | aus Position 9705 00 00 |
-| bb)Münzen aus unedlen Metallen, | aus Position 9705 00 00 |
-| cc)Münzen und Medaillen aus Edelmetallen, wenn die Bemessungsgrundlage für die Umsätze dieser Gegenstände mehr als 250 Prozent des unter Zugrundelegung des Feingewichts berechneten Metallwerts ohne Umsatzsteuer beträgt | aus Positionen 7118, 9705 00 00 und 9706 00 00 |
+| aa)kursungültige Banknoten einschließlich Briefmarkengeld und Papiernotgeld, | aus Position 9705 |
+| bb)Münzen aus unedlen Metallen, | aus Position 9705 |
+| cc)Münzen und Medaillen aus Edelmetallen, wenn die Bemessungsgrundlage für die Umsätze dieser Gegenstände mehr als 250 Prozent des unter Zugrundelegung des Feingewichts berechneten Metallwerts ohne Umsatzsteuer beträgt | aus Positionen 9705 und 9706 |
 | 55 | Erzeugnisse für Zwecke der Monatshygiene, und zwara)hygienische Binden (Einlagen) und Tampons aus Stoffen aller Art, | aus Position 9619 |
 | b)Hygienegegenstände aus Kunststoffen (Menstruationstassen, Menstruationsschwämmchen), | aus Unterposition 3924 90 |
 | c)Waren zu hygienischen Zwecken aus Weichkautschuk (Menstruationstassen), | aus Unterposition 4014 90 |

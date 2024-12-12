@@ -7,7 +7,7 @@
 | 4 | Abfälle, Schnitzel und Bruch von Kunststoffen | Position 3915 |
 | 5 | Abfälle, Bruch und Schnitzel von Weichkautschuk, auch zu Pulver oder Granulat zerkleinert | Unterposition 4004 00 00 |
 | 6 | Bruchglas und andere Abfälle und Scherben von Glas | Unterposition 7001 00 10 |
-| 7 | Abfälle und Schrott von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, von der hauptsächlich zur Wiedergewinnung von Edelmetallen verwendeten Art | Position 7112 |
+| 7 | Abfälle und Schrott von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, von der hauptsächlich zur Wiedergewinnung von Edelmetallen verwendeten Art; ausgenommen Waren der Position 8549 | Position 7112 |
 | 8 | Abfälle und Schrott, aus Eisen oder Stahl; Abfallblöcke aus Eisen oder Stahl | Position 7204 |
 | 9 | Abfälle und Schrott, aus Kupfer | Position 7404 |
 | 10 | Abfälle und Schrott, aus Nickel | Position 7503 |
@@ -16,4 +16,5 @@
 | 13 | Abfälle und Schrott, aus Zink | Position 7902 |
 | 14 | Abfälle und Schrott, aus Zinn | Position 8002 |
 | 15 | Abfälle und Schrott, aus anderen unedlen Metallen | aus Positionen 8101 bis 8113 |
-| 16 | Abfälle und Schrott, von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren | Unterposition 8548 10 |
+| 16 | Abfälle und Schrott, von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren | Unterposition 8549 11, Unterposition 8549 12, Unterposition 8549 13, Unterposition 8549 14 und Unterposition 8549 19 |
+| 17 | Abfälle oder Schrott von elektrischen und elektronischen Geräten von der hauptsächlich zur Wiedergewinnung von Edelmetallen verwendeten Art | Unterpositionen 8549 21 und 8549 29 |

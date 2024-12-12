@@ -5,12 +5,14 @@
 
 - [§ 1 Grundsatz](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
-- [§ 2a Definition von Krankenhausstandorten](0002a.md)
+- [§ 2a Krankenhausstandort](0002a.md)
 - [§ 3 Anwendungsbereich](0003.md)
 - [§ 4](0004.md)
 - [§ 5 Nicht förderungsfähige Einrichtungen](0005.md)
 - [§ 6 Krankenhausplanung und Investitionsprogramme](0006.md)
-- [§ 6a](0006a.md)
+- [§ 6a Zuweisung von Leistungsgruppen](0006a.md)
+- [§ 6b Zuweisung von Koordinierungs- und Vernetzungsaufgaben](0006b.md)
+- [§ 6c Bestimmung als sektorenübergreifende Versorgungseinrichtung](0006c.md)
 - [§ 7 Mitwirkung der Beteiligten](0007.md)
 
 ## 2. Abschnitt Grundsätze der Investitionsförderung
@@ -21,6 +23,7 @@
 - [§ 11 Landesrechtliche Vorschriften über die Förderung](0011.md)
 - [§ 12 Förderung von Vorhaben zur Verbesserung von Versorgungsstrukturen](0012.md)
 - [§ 12a Fortführung der Förderung zur Verbesserung der Versorgungsstrukturen ab dem Jahr 2019](0012a.md)
+- [§ 12b Transformationsfonds, Verordnungsermächtigung](0012b.md)
 - [§ 13 Entscheidung zu den förderungsfähigen Vorhaben](0013.md)
 - [§ 14 Auswertung der Wirkungen der Förderung](0014.md)
 - [§ 14a Krankenhauszukunftsfonds](0014a.md)
@@ -59,13 +62,26 @@
 
 ## 5. Abschnitt Sonstige Vorschriften
 
+
+### Unterabschnitt 1 Zuständigkeiten, Statistik, Darlehen
+
 - [§ 27 Zuständigkeitsregelung](0027.md)
 - [§ 28 Auskunftspflicht und Statistik](0028.md)
 - [§ 29](0029.md)
 - [§ 30 Darlehen aus Bundesmitteln](0030.md)
+
+### Unterabschnitt 2 Institut für das Entgeltsystem im Krankenhaus
+
 - [§ 31 Beleihung des Instituts für das Entgeltsystem im Krankenhaus](0031.md)
 - [§ 32 Eignung zur Aufgabenwahrnehmung](0032.md)
 - [§ 33 Aufsicht über den Beliehenen](0033.md)
 - [§ 34 Rückgriff](0034.md)
 - [§ 35 Finanzierung](0035.md)
 - [§ 36 Unterstützung und Beratung durch das Institut für das Entgeltsystem im Krankenhaus](0036.md)
+- [§ 37 Aufgaben des Instituts für das Entgeltsystem im Krankenhaus im Zusammenhang mit der Ermittlung der Vergütung eines Vorhaltebudgets](0037.md)
+- [§ 38 Aufgaben des Instituts für das Entgeltsystem im Krankenhaus im Zusammenhang mit Zuschlägenzur Förderung von Koordinierungs- und Vernetzungsaufgaben und zur Finanzierung der speziellen Vorhaltung von Hochschulkliniken](0038.md)
+
+### Unterabschnitt 3 Förderbeträge und Förderung der Spezialisierung
+
+- [§ 39 Förderbeträge für die Bereiche Pädiatrie, Geburtshilfe, Stroke Unit, Spezielle Traumatologie und Intensivmedizin](0039.md)
+- [§ 40 Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte und des Instituts für das Entgeltsystem im Krankenhaus hinsichtlich der Förderung der Spezialisierung bei der Erbringung von onkochirurgischen Leistungen](0040.md)

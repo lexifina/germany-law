@@ -11,6 +11,9 @@
 | § 4a | Ermittlung eines Erlösvolumens für die Versorgung von Kindern und Jugendlichen |
 | § 5 | Vereinbarung und Abrechnung von Zu- und Abschlägen |
 | § 6 | Vereinbarung sonstiger Entgelte |
+| § 6a | Vereinbarung eines Pflegebudgets |
+| § 6b | Vergütung eines Vorhaltebudgets |
+| § 6c | Vergütung von sektorenübergreifenden Versorgungseinrichtungen |
 | Abschnitt 3 |
 |  | Entgeltarten und Abrechnung |
 | § 7 | Entgelte für allgemeine Krankenhausleistungen |

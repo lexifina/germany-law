@@ -15,6 +15,8 @@
 - [§ 5 Vereinbarung und Abrechnung von Zu- und Abschlägen](0005.md)
 - [§ 6 Vereinbarung sonstiger Entgelte](0006.md)
 - [§ 6a Vereinbarung eines Pflegebudgets](0006a.md)
+- [§ 6b Vergütung eines Vorhaltebudgets](0006b.md)
+- [§ 6c Vergütung von sektorenübergreifenden Versorgungseinrichtungen](0006c.md)
 
 ## Abschnitt 3 Entgeltarten und Abrechnung
 
