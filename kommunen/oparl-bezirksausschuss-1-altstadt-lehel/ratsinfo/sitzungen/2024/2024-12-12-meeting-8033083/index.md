@@ -1,0 +1,116 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2024-12-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8033083
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8033083
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: GO Antrag auf Redezeitbegrenzung 3 Minuten
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürgeranliegen 11/2024: Zweckentfremdung ehemaligen Pension Beck und Rückgebäude Thierschstrasse 42
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Färbergraben 14 Errichtung von Iglus im Außenbereich des Lokals 60 seconds to Napoli (Färbergraben 14-18 / Hofstatt 1); Frist: 20.12.2024
+- TOP 3.1.2.: Oettingenstr. 74 Neubau eines Wohnhauses mit Quartiersraum und ergänzender gewerblicher Nutzung im Erdgeschoss (Gaststätte, Laden) + Tiefgarage - VORBESCHEID (Oettingenstr. 74 / Theodorparkstr.); Frist: 05.01.2025
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Seitzstraße 9, Nachtrag in die Denkmalliste - Benehmensverfahren
+- TOP 3.2.2.: Baumfällungsantrag, Himmelreichstr.
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Bericht "Umgang mit neuer StVO“
+- TOP 0.2.: Bericht Termin Baureferat LED-Umrüstung, Nachtspaziergänge und Dialog-Displays
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag der Fraktion Bündnis 90 /Die Grünen: Verschönerung Baucontainer, TOP 24.11 C 1.4
+- TOP 1.2.: Bürger*innenanliegen Sperrung der Maximilianstrasse zwischen Altstadtring und Oper
+- TOP 1.3.: Bürger*innenanliegen Lärmbelästigung Hofstatt
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Behindertenparkplatz Rumfordstr. 23 (Garagenausfahrt)
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Anhörung verkehrsrechtliche Anordnung Sonnenstraße
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Aufstellung Sitzgelegenheiten Oettingenstr. 26; Frist: 19.01.2025
+- TOP 3.2.2.: Erläuterungsschild Lion-Feuchtwanger-Platz
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Theresia-Gerhardinger-Kindergarten am Anger "Stark wie ein Löwe" -Resilienz- und Konfliktpräventionstraining vom 20.01. -29.01.2025 825,00€; Az. 0262.0-1-0384
+- TOP 2.1.2.: (E) Stadtbezirksbudget FREIRaumViertel gUG inkludierende Sitzgruppe Weihnachtsmarkt vom 15.11.2024 -15.01.2025 500,00€; Az. 0262.0-1-0385
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "We Won&#039;t Shut Up!" We Won&#039;t Shut up! vom 03.03.2025 - 20.05.2025 2.000,00 € / Az. 0262.0-1-0387
+- TOP 2.1.4.: (E) Stadtbezirksbudget Hofspielhaus gGmbH Hofspielhaus Jugendclub / Connection Lost vom 15.01. -30.06.2025 5.925,00€; Az. 0262-0-1-0388
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Inthronisation des Narrhalla-Prinzenpaars am 11.01.2025 – Termin: 03.01.2025
+- TOP 3.2.: Deutscher Filmball am 25.01.2025 Promenadeplatz Bayer. Hof (Termin: 30.12.2024)
+- TOP 3.3.: Fasching München Narrisch Karlsplatz bis Marienplatz 02.03.-04.03.2025 (Termin: 08.01.2025)
+- TOP 3.4.: Benefizlauf Giro di Monaco mit Straßenfest Altstadtring, Blumenstraße am 11.05.2025 (Termin: 28.02.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP B 4.4.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP B 4.5.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP B 4.6.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP B 4.7.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP B 4.8.: Perspektive München - Handlungsräume der Stadtentwicklung Sachstand und Weiterentwicklung
+- TOP B 4.9.: Info: Baustelle Ludwigsbrücken
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Pilotprojekt Gelber Sack, TOP 2024.10 C 1.9, Antwortschreiben
+- TOP C 4.3.: Auflösung eines Stellplatzes an der Gehwegnase an der Bruderstraße Ecke Unsöldstraße und Einrichtung einer Radabstellanlage
+- TOP C 4.4.: Auflösung eines Stellplatzes für Lastenfahrradstellplätze Frauenstraße 18
+- TOP C 4.5.: Allgemeinverfügung der LHM über das Verbot des Abbrennens von pyrotechnischen Gegenständen der Kategorie F 2 mit ausschließlicher Knallwirkung innerhalb des Mittleren Ringes (Umweltzone)
+- TOP C 4.6.: Vorgezogene Mülleinsammlung durch den AWM; Verlängerung bestehender Ausnahmezulassungen gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) bis 31.12.2025
+- TOP C 4.7.: Zusammenfassung der Ergebnisse der Mediation zwischen Anwohnenden/Anliegenden und dem Club Filmcasino
+- TOP C 4.8.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Reinigung an U-Bahnhöfen im ganzen Stadtgebiet
+- TOP C 4.9.: Bürger*innenanliegen Herzog-Rudolf-Straße, TOP 22024.10 C 1.7, Antwortschreiben Baureferat
+- TOP C 4.10.: Bürger*innenanliegen Taktung der Buslinie 100, TOP 2024.09 C 1.5, Antwortschreiben MVG
+- TOP C 4.11.: Zebrastreifen/Verkehr: Hirschauer Str. bzw. Tivoli, Antwortschreiben Mobilitätsreferat
+- TOP C 4.12.: Information: Sanierung der U-Bahn und Arbeiten an Tramgleisen
+- TOP C 4.13.: Bürger*innenanliegen Fehlbelegung E-Ladesäulen / 2. Öffentliche Ladestationen, Antwortschreiben Mobilitätsreferat
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: (U) Verlängerung einer Unterkunft zur Unterbringung Geflüchteter an dem Standort Blumenstraße 51 1. Stadtbezirk - Altstadt-Lehel
+- TOP D 4.5.: Eilentscheidung Radwegeinweihung Maximiliansplatz am 02.12.24; Termin: 22.11.2024
+- TOP D 4.6.: Eilentscheidung Fahrzeugsegnung am 15.12.24 am Frauenplatz; Termin: 05.12.2024
+- TOP D 4.7.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP D 4.8.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP D 4.9.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP D 4.10.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP D 4.11.: Mehrjahresinvestitionsprogramm (MIP) 2024 - 2028 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff 2. Stellungnahmen der Bezirksausschüsse
+- TOP D 4.12.: Blindenleitlinie: Christkindlmarkt am Sendlinger Tor Platz 25.11.-22.12.2024, Antwort Kreisverwaltungsreferat
+- TOP 2.3.1.: Umwidmung Projektmittel beantragt durch Terry Swartzberg
+- TOP 2.3.2.: Bestellung einer städtischer Leistung: Bank neben Bücherschrank Lerchenfeld/Paradiesstraße
