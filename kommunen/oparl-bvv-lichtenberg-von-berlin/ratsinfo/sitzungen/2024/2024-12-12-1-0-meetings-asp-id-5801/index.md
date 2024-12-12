@@ -1,0 +1,70 @@
+# 37. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-12-12T17:00:00+01:00
+- Ende: 2024-12-12T21:05:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5801
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5801
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=412362
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Änderung der Geschäftsordnung - vertagt
+- TOP 4.2: Schneller Bauen durch Bürger*innenbeteiligung an Bau- und Planungsvorhaben - zurückgezogen
+- TOP 4.3: Solare Straßenbeleuchtung für die Verbindungswege zwischen der Rudolf-Seiffert-Straße und Paul-Junius-Straße - zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahlvorschlag zur Abberufung eines Mitgliedes aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlvorschlag zur Berufung eines Mitgliedes für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Errichtung einer jüdischen Begegnungsstätte in Lichtenberg - überwiesen
+- TOP 5.4: Mehr Sport für Senior:innen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Nachtfahrverbot für Mähroboter - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Erfolgsprojekt "LichtPunkt" ausweiten - Ring-Center für Nachbarschaft attraktiv halten - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Sicherer Schulweg für die Kinder in der Wohnsiedlung „Mein Falkenberg“ - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Beteiligung beim Bauvorhaben Vincent-van-Gogh-Straße ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Barrierefreiheit im Altenhofer Dreieck - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Kein Birkholzer „See“ – Birkholzer Weg wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Straßenteile der Arnimstraße auch optisch voneinander trennen – Fußgängerverkehr sichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Miethaien die Zähne ziehen - Mieter*innenberatung bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Tempo 30 für die Irenenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Roller-Rowdys den Stecker ziehen - Keine E-Scooter auf dem Anton-Saefkow-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Verbesserung der Regenentwässerung im Fennpfuhlweg in Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Halteverbot in der Genslerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Infrastruktur frühzeitig absichern - Bebauungsplanung entlang der Vulkanstraße jetzt - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Schulstraße auch in Lichtenberg - überwiesen
+- TOP 5.19: Gehweg in der Paul-Junius-Straße - Lücke schließen - überwiesen
+- TOP 5.20: Den Trimm-Dich-Pfad im Quartierspark Rosenfelder Ring noch vor Beginn der Bauarbeiten umsetzen - überwiesen
+- TOP 5.21: Den Gehweg im Grafenauer Weg instand halten! - überwiesen
+- TOP 5.22: Zusätzliche Sitzmöglichkeiten in der Schalkauer Straße sicherstellen - überwiesen
+- TOP 5.23: Verbessertes Lichtkonzept am Warnitzer Bogen - überwiesen
+- TOP 5.24: Sicheren Übergang auf der Klützer Straße schaffen - überwiesen
+- TOP 5.25: Verantwortungsvolle Entwicklung im Kiez Frankfurter Allee Süd – Veränderungssperre vorbereiten und Bebauungsplan 11-176 zügig vorantreiben - überwiesen
+- TOP 5.26: Ferienschwimmen in der Schwimmhalle der Carl-von-Linné-Schule ermöglichen - überwiesen
+- TOP 5.27: Neue Räume für die Tiertafel - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - erledigt
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Faire Verteilung von Parkplatzflächen in Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wohnen auf Zeit und möbliertes Wohnen regulieren - Zweckentfremdung von Wohnraum effektiv bekämpfen - überwiesen
+- TOP 10.3: Den BVV-Beschluss zur Drehscheibenschule Bernhard-Bästlein-Straße nicht weiter verzögern! - überwiesen
+- TOP 10.4: Remigration - aber vernünftig - in der BVV abgelehnt
+- TOP 10.5: Resolution - Lichtenberg hält zusammen: wir lassen uns nicht kaputt sparen! - in der BVV abgelehnt
+- TOP 10.6: Resolution: Den Dienst an der Gemeinschaft schützen und würdigen – nicht nur zu Silvester! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Stau ist keine Mobilität - Mehr freier Verkehr für Lichtenberg! - beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 14: Anträge zur Beschlussfassung - erledigt
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
