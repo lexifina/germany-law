@@ -1,0 +1,157 @@
+# 38. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-12-12T14:15:00+01:00
+- Ende: 2024-12-12T21:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29385
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29385
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktion Die PARTEI betreffend "Ehrenamtliches Engagement in der Flüchtlingshilfe – Unterstützung und Zukunft der Mindeststandards" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, FDP und Volt betreffend "Virtuelles Bürger*innenbüro" - ungeändert beschlossen
+- TOP 3.1.2: Antrag der AfD-Fraktion betreffend "Verbal Abrüsten – keine öffentlichen Erklärungen der OB zu militärstrategischen Entscheidungen der Bundesrepublik Deutschland" - endgültig abgelehnt
+- TOP 3.1.3: Antrag der Fraktion Die PARTEI betreffend "Schutz statt Stau! Trankgasse-Tiefgarage wird Lebensretter" - zurückgestellt
+- TOP 3.1.4: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend "Dat Jeld es fott - Einsparungen transparent machen" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 3.1.5: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt betreffend "Wohnraum für Köln" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig abgelehnt
+- TOP -: Änderungsantrag der Gruppe KLIMA FREUNDE & GUT - endgültig abgelehnt
+- TOP 3.1.6: Antrag der Fraktion Die Linke betreffend "Ost-West-Achse jetzt beschließen" - endgültig zurückgezogen
+- TOP 3.1.7: Antrag der FDP-Fraktion betreffend "Neue Priorisierung der Großbauprojekte" - endgültig abgelehnt
+- TOP 3.1.8: Antrag AfD-Fraktion betreffend "180 Grad Wende in der Wirtschafts- und Energiepolitik herbeiführen" - endgültig abgelehnt
+- TOP 3.1.9: Antrag der Fraktionen SPD, Die Linke, FDP und der Gruppe KLIMA FREUNDE & GUT betreffend "Kommunen brauchen eine Zukunft mit höheren Einnahmen und Steueranteilen!" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, FDP, Volt, der Gruppe KLIMA FREUNDE & GUT und von RM Zimmermann - ungeändert beschlossen
+- TOP 3.1.10: Dringlichkeitsantrag der Fraktionen SPD, Die Linke und FDP betreffend "Köln bleibt sozial - Soziale Strukturen erhalten" - ungeändert beschlossen
+- TOP 3.1.11: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt betreffend "Ausbau des Sozialen Zentrum Lino-Club e.V. zu einem generationsübergreifenden Bürgerhaus (Mehrgenerationenhaus)" - ungeändert beschlossen
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Anregung der Bezirksvertretung 3 (Lindenthal) betreffend die Befreiung zur Fällung einer Platane am Bahnhof Belvedere - zurückgestellt
+- TOP -: Änderungsantrag der Gruppe KLIMA FREUNDE & GUT - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der Fraktion Die Linke betreffend "Müllgebühren" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 12.12.2024 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion Die PARTEI betreffend "Stellungnahme der Oberbürgermeisterin zur Lieferung von Taurus-Marschflugkörpern an die Ukraine und deren Bezug zu Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.12.2024 - Kenntnis genommen
+- TOP 4.3: Anfrage von RM Zimmermann betreffend "Ost-West-Achse ­ Planung auf Null gesetzt?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 12.12.2024 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4.1: Anregung des Integrationsrates zu: "Chancengerechtigkeit auf dem Wohnungsmarkt – Handeln gegen rassistische Diskriminierung bei der Wohnungsvergabe" - ungeändert beschlossen
+- TOP 5.4.2: Anregung des Integrationsrates betreffend "Zusatzantrag betreffend Haushaltsplanentwurf 2025/26 (AN/1593/2024)" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag der SPD-Fraktion - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen SPD und Die Linke sowie der Gruppe KLIMA FREUNDE & GUT und von RM Zimmermann - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.4.3: Anregung des Integrationsrates betreffend "Prüfantrag des Facharbeitskreises 2 zum Haushaltsplanentwurf 2025-26 - "Zuschuss Mindeststandards - Zuschuss für die freien Träger"" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag der SPD-Fraktion - Sache ist erledigt
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: 17. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ungeändert beschlossen
+- TOP 6.1.2: Satzung über die Abfallentsorgung in der Stadt Köln 2025 - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2025 - ungeändert beschlossen
+- TOP 6.2.2: Satzung über die Abfallgebühren in der Stadt Köln 2025 - ungeändert beschlossen
+- TOP 6.2.3: Erhöhung der Eintrittspreise und Änderung der Entgelt- und Benutzungsordnung im Bereich der Puppenspiele der Stadt Köln ab der Spielzeit 2025/2026 - ungeändert beschlossen
+- TOP 6.2.4: Benutzungs- und Entgeltordnung für das Historische Archiv mit Rheinischem Bildarchiv der Stadt Köln - ungeändert beschlossen
+- TOP 6.2.5: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 KomHVO
+- TOP 7.2.1: Bau des Sportlabors in Köln Müngersdorf - Kenntnis genommen
+- TOP 7.3: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 7.4: Haushaltsrechtliche Unterrichtung des Rates gemäß § 62 Abs. 4 Gemeindeordnung NRW - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - verwiesen in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die PARTEI - verwiesen in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die Linke - verwiesen in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Bündnis 90 / Die Grünen - verwiesen in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und FDP - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - verwiesen in nachfolgende Gremien
+- TOP -: Änderungsantrag von RM Zimmermann - verwiesen in nachfolgende Gremien
+- TOP 10.2: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen Die Linke und Die PARTEI und der Gruppe KLIMA FREUNDE & GUT - endgültig abgelehnt
+- TOP 10.3: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Köln und dem Oberbergischen Kreis über Leistungen im Rettungsdienst - ungeändert beschlossen
+- TOP 10.4: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - geändert beschlossen
+- TOP 10.5: Flächendeckende Umsetzung der Systematischen Öffentlichkeitsbeteiligung ab 1. November 2025 - ungeändert beschlossen
+- TOP 10.6: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - zurückgestellt
+- TOP 10.7: Weiterführung des Projektes Brückenbauer* - ungeändert beschlossen
+- TOP 10.8: ISEK Porz-Mitte - Brücke über die Hauptstraße, hier: Erweiterter Planungsbeschluss zur Aufwertung der Verbindungsachse Rheinboulevard zur Neuen Mitte Porz - zurückgestellt
+- TOP 10.9: Planungsbeschluss auf Basis des Entwurfs EIFELWALL Parkstadt Süd - ungeändert beschlossen
+- TOP 10.10: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - verwiesen in nachfolgende Gremien
+- TOP -: Änderungsantrag der CDU-Fraktion - verwiesen in nachfolgende Gremien
+- TOP 10.11: Bau- und Mittelfreigabebeschluss für die Weiterführung des Rheinboulevards zwischen Hohenzollernbrücke und Tanzbrunnen auf Basis der Entwurfsplanung - ungeändert beschlossen
+- TOP 10.12: Baubeschluss für die Generalinstandsetzung der rechtsrheinischen Auf- und Abfahrtstrecken zur Deutzer Brücke (Mindener Straße und Siegburger Straße) in Köln-Deutz sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 10.13: Einrichtung und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Brügelmannstr. 10, 50679 Köln - Deutz - ungeändert beschlossen
+- TOP 10.14: Änderung des Förderprogramms "Niedrigschwellige Suchthilfe" durch den Betrieb des Drogenkonsumraums in Kalk - geändert beschlossen
+- TOP 10.15: Jahresabschluss 2022 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.16: Grundsteuerreform: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2025 und Beschluss über die Hebesatzsatzung - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, FDP und Volt - ungeändert empfohlen
+- TOP 10.17: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2024/25, Sicherung des Interimsspielbetriebs (Interim VI) - zurückgestellt
+- TOP 10.18: Eigenbetriebsähnliche Einrichtung Veranstaltungszentrum der Stadt Köln - Wirtschaftsplan für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 10.19: Baubeschluss öffentlicher Freiraum Deutzer Hafen Köln, hier: Promenade, Parks und Plätze - ungeändert beschlossen
+- TOP 10.20: Fortsetzung der Maßnahme "Willkommen und Ankommen in Köln" für Zugewanderte aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 10.21: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert beschlossen
+- TOP 10.22: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert beschlossen
+- TOP 10.23: Praktisches Jahr für Studierende der Humanmedizin im Gesundheitsamt - ungeändert beschlossen
+- TOP 10.24: Planungsbeschluss: Neubau Feuer- und Rettungswache 7 und Feuerwehrgerätehaus Löschgruppe Eil - geändert beschlossen
+- TOP 10.25: 17 "Ausbildungs-Universitäten" für die Fachkräfte von morgen - Leitbild, Handlungsfelder und Maßnahmenideen für die Berufskolleglandschaft Köln 2035 - Schulentwicklungsplanung für die städtischen Berufskollegs Teil 1 - ungeändert beschlossen
+- TOP 10.26: Kalkberg, hier: Ausführung von Restarbeiten zum nutzungsunabhängigen Gebäudeverschluss und zur Sicherung der Bausubstanz in Vorbereitung einer Nachnutzung sowie Übertragung der Immobilie in das Allgemeine Liegenschaftsvermögen der Stadt Köln - zurückgestellt
+- TOP 10.27: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - zurückgestellt
+- TOP 10.28: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig zurückgezogen
+- TOP 10.29: Bildungslandschaft Altstadt Nord (BAN) - Baufeld C - Generalinstandsetzung Abendgymnasium Gereonsmühlengasse - Kostenfortschreibungsbeschluss gemäß § 13 IV S.2 Betriebssatzung GW iVm § 16 V S. 1 EigVO NRW und haushaltsrechtliche Mitteilung - ungeändert beschlossen
+- TOP 10.30: StadtBahn Süd – Festlegung des vorläufigen Endhaltepunktes in Meschenich - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die PARTEI - endgültig abgelehnt
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 10.31: Generalsanierung der Schulaula Realschule, Neusser Straße 421 in 50733 Köln-Nippes – Kostenfortschreibungsbeschluss gemäß § 13 IV Satz 2 der Betriebssatzung der Gebäudewirtschaft in Verbindung mit § 16 V Satz 1 der Eigenbetriebsverordnung NRW - ungeändert beschlossen
+- TOP 10.32: „Mein Körper – meine Entscheidung“ - Kölner Gleichstellungsaktionsplan zum Thema Reproduktive Rechte und Gesundheit - ungeändert beschlossen
+- TOP 10.33: Humanitäre Hilfe für die Partnerstadt Dnipro (Ukraine): Abgabe von außerdienstgestellten Rettungswagen der Feuerwehr Köln für die Partnerstadt Dnipro (Ukraine) - ungeändert beschlossen
+- TOP 10.34: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, Hier: Qualitätsstandards - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, FDP und der Gruppe KLIMA FREUNDE & GUT - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 10.35: Nationales Bewerbungsverfahren des Deutschen Fußball-Bundes zur Ausrichtung der UEFA Women´s EURO 2029 - ungeändert beschlossen
+- TOP 10.36: Masterplan Sauberkeit - ungeändert beschlossen
+- TOP 10.37: Förderung Bündnis Kommunale Nachhaltigkeit Köln 2025-2026 - ungeändert beschlossen
+- TOP 10.38: Sicherstellung Betrieb Vertretungsstützpunkte in der Kindertagespflege nach § 23 Abs. 4 SGB VIII - ungeändert beschlossen
+- TOP 10.39: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - ungeändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 11.1: Feststellungsbeschluss zur 239. Änderung des Flächennutzungsplans, Arbeitstitel: „Gewerbegebiet Venloer Straße" in Köln-Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 69472/01 Arbeitstitel: Lindgens-Areal in Köln-Mülheim - zurückgestellt
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 65412/02 –Arbeitstitel: Integrative Quartiersentwicklung am Kalscheurer Weg in Köln-Zollstock - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: Satzung über die abweichende Herstellung der Erschließungsanlage Kölnstraße von Seniorenweg bis Am Feldrain in Köln-Sürth sowie Aufhebung der Abweichungssatzung vom 06.03.2023 - ungeändert beschlossen
+- TOP 16.2: Satzung über die abweichende Herstellung der Erschließungsanlage Godorfer Straße von Stormstraße bis Flurstück 121 (Trafo neben der Schule) einschließlich in Köln-Immendorf - ungeändert beschlossen
+- TOP 17: Gremienbesetzungen
+- TOP 17.1: Neubenennung eines beratenden Mitglieds nach § 58 Absatz 4 GO NRW in den Ausschuss Schule und Weiterbildung - ungeändert beschlossen
+- TOP 17.2: Delegiertenversammlung der Deutschen Sektion des RGRE am 10./11. April 2025 Neubesetzung der Sitze im Hauptausschuss und Präsdium der Deutschen Sektion des RGRE - geändert beschlossen
+- TOP -: Änderungsantrag Bündnis 90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 17.3: Delegiertenversammlung der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) - geändert beschlossen
+- TOP 17.4: Neubenennung der Mitglieder für die Fachausschüsse der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) - geändert beschlossen
+- TOP 17.5: Mitgliederwechsel im Jugendhilfeausschuss, hier Jugendamtselternbeirat (JAEB) - ungeändert beschlossen
+- TOP 17.6: Zweckverband "Naturpark Rheinland" hier: Wahl eines Mitglieds - ungeändert beschlossen
+- TOP 17.7: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend "Umbesetzung im Ausschuss Schule und Weiterbildung" - ungeändert beschlossen
+- TOP 17.8: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "TOP 17 Wahlen: Umbesetzung Aufsichtsrat Flughafen Köln/Bonn GmbH" - ungeändert beschlossen
+- TOP 17.9: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "TOP 17 Wahlen:Umbesetzung Sachkundige Einwohnerin Digitalisierungssausschuss" - ungeändert beschlossen
+- TOP 17.10: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "TOP 17 Wahlen: Umbesetzung Sachkundige Einwohner Wirtschaftsausschuss" - ungeändert beschlossen
+- TOP 18: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 18.1: Aufruf des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen (MAGS NRW) zur Einreichung von Interessenbekundungen für den Aufbau von "Gesundheitsregionen in Nordrhein-Westfalen" - ungeändert beschlossen
+- TOP 19: -
