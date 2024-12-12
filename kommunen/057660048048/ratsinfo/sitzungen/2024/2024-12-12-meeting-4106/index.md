@@ -1,0 +1,52 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2024-12-12T18:30:00+01:00
+- Ende: 2024-12-12T20:18:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe16oVgydAFClferhJr-yYU
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4106
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbEjvsFig_-eiZPpFt1Z1w0AucGCBuJswpbvhgwMUhOt/Bekanntmachung_Rat_12.12.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXnidAgY61_QIrss-TxMHZvyNCeoy7kokBhnd3N5fudH/Oeffentliche_Niederschrift_Rat_12.12.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter/Vertreterinnen aus den Verbänden und sonstigen Gremien
+- TOP 5.: Umbesetzungen in Ausschüssen und Gremien
+- TOP 5.1: Besetzung von Gremien hier: Benennung von beratenden Mitgliedern für den Ausschuss für Bildung und Kultur - - einstimmig -
+- TOP 6.: Handlungsbedarf nach B-Hard Cyber-Sicherheitsanalyse
+- TOP 7.: Vergabe von gemeindeeigenen Gewerbegrundstücken unter Berücksichtigung von Vergabekriterien
+- TOP 8.: Querungshilfen für Fußgänger*innen und Radfahrer*innen aus und nach Evenhausen über die Straßen "Hauptstraße" und "An der Windwehe" - Antrag Bündnis 90/Die Grünen vom 29.10.2024
+- TOP 9.: Ausweisung der Fettpottstraße und der Dorfstraße als Einbahnstraßen - Antrag Bündnis 90/Die Grünen vom 29.10.2024
+- TOP 10.: Vorhabenbezogener Bebauungsplan Nr. 06-001 „Lebensmittel- und Drogeriemarkt Krentruper Straße“ hier: Beschluss über den Durchführungsvertrag zum vorhabenbezogenen Bebauungsplan Nr. 06-001 „Lebensmittel- und Drogeriemarkt Krentruper Straße“ - - 24 Ja-Stimme(n), 8 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 11.: Vorhabenbezogener Bebauungsplan Nr. 06-001 „Lebensmittel- und Drogeriemarkt Krentruper Straße“ - Beschluss über die Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Beschluss über die Stellungnahmen aus der Veröffentlichung im Internet / Offenlage - Beschluss über die Stellungnahmen aus der erneuten Veröffentlichung im Internet / Offenlage - Satzungsbeschluss zum Vorhabenbezogenen Bebauungsplan - - 26 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 12.: 27. Änderung des Flächennutzungsplanes (Bereich „Lebensmittel- und Drogeriemarkt Krentruper Straße“) - Beschluss über die Stellungnahmen die Stellungnahmen aus der Veröffentlichung im Internet / Offenlage - Beschluss zur Empfehlung zur Fassung des Feststellungsbeschlusses an den Rat über die 27. Änderung des Flächennutzungsplanes - - 26 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 13.: 16. Änderung des Bebauungsplanes Nr. 01/02 „Barkhauser Bruch“ im Ortsteil Asemissen im Bereich der Grundschule als Bebauungsplan der Innenentwicklung im beschleunigten Verfahren gem. §13a BauBG - Beratung und Beschluss über die eingegangenen Stellungnahmen aus der Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Satzungsbeschluss zur 16. Änderung des Bebauungsplanes Nr. 01/02 „Barkhauser Bruch“ - - einstimmig -
+- TOP 14.: 5. Änderung des Bebauungsplanes Nr. 04/04 „Osterheide“ - Beratung und Beschluss über die während der Beteiligung eingegangenen Stellungnahmen der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Satzungsbeschluss zur 5. Änderung des Bebauungsplanes Nr. 04/04 „Osterheide“ - - 30 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP -: 2. Änderung des Bebauungsplanes Nr. 01/05 „Krähenholz“ 26. Änderung des Flächennutzungsplanes - Beschluss über die Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Beschluss über die Stellungnahmen aus der Veröffentlichung im Internet / Offenlage - Satzungsbeschluss zur 2. Änderung des Bebauungsplanes Nr. 01/05 „Krähenholz“ - Feststellungsbeschluss über die 26. Änderung des Flächennutzungsplanes - - einstimmig -
+- TOP 15.: 2. Änderung des Bebauungsplanes Nr. 01/05 „Krähenholz“ 26. Änderung des Flächennutzungsplanes - Beschluss über die Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Beschluss über die Stellungnahmen aus der Veröffentlichung im Internet / Offenlage - Satzungsbeschluss zur 2. Änderung des Bebauungsplanes Nr. 01/05 „Krähenholz“ - Feststellungsbeschluss über die 26. Änderung des Flächennutzungsplanes
+- TOP 16.: Aufstellung des Bebauungsplanes Nr. 08/12 „Brunsheide Süd-Ost“ im Ortsteil Schuckenbaum; 25. Änderung des Flächennutzungsplanes - Beschluss über die Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Beschluss über die Stellungnahmen aus der Veröffentlichung im Internet / Offenlage - Beratung und Beschluss über die Stellungnahmen aus der erneuten Veröffentlichung im Internet / Offenlage - Satzungsbeschluss zum Bebauungsplan Nr. 08/12 „Brunsheide Süd-Ost“ - Feststellungsbeschluss über die 25. Änderung des Flächennutzungsplanes - - 22 Ja-Stimme(n), 3 Nein-Stimme(n), 7 Enthaltung(en) -
+- TOP 17.: Wirtschaftspläne Wasserwerk Leopoldshöhe und Abwasserwerk Leopoldshöhe
+- TOP 17.1: Feststellung des Wirtschaftsplanes des Wasserwerkes Leopoldshöhe für das Wirtschaftsjahr 2025 - - einstimmig -
+- TOP 17.2: Feststellung des Wirtschaftsplanes des Abwasserwerks Leopoldshöhe für das Wirtschaftsjahr 2025 - - einstimmig -
+- TOP 18.: Ortsrecht / Satzungsangelegenheiten
+- TOP 18.1: Gebührenkalkulation Wasser 2025 und Neufassung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung der Gemeinde Leopoldshöhe - - 30 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 18.2: Ortsrecht hier: 2. Änderung der Abwasserbeseitigungssatzung der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 18.3: Gebührenkalkulation Abwasser 2025 und 4. Änderung der Satzung über Kanalanschlussbeiträge und Abwassergebühren - - 30 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 18.4: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2025 und Informationen zur Nachkalkulation für das Jahr 2023 - - einstimmig -
+- TOP 19.: Weiteres Vorgehen zum Hinnaksteich - - 30 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 20.: Personalkosten 2024: Genehmigung von überplanmäßigen Aufwendungen und Auszahlungen gemäß § 83 GO NRW in dem produktübergreifenden Budget "Personal und Versorgung" - - einstimmig -
+- TOP 21.: Einbringung des Entwurfs des Haushaltes für das Jahr 2025
+- TOP 22.: Stellenplan 2025
+- TOP 23.: "Hausmeisterpool" und zu berücksichtigende Auswirkungen auf den Stellenplan 2025 - - 24 Ja-Stimme(n), 8 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 24.: Neubesetzung Büchereileitung – weiteres Vorgehen - - 21 Ja-Stimme(n), 7 Nein-Stimme(n), 4 Enthaltung(en) -
+- TOP 25.: Entwurf der Wirtschaftspläne Kommunales Gebäudemanagement Leopoldshöhe und Leopoldshöher Immobilien- und Liegenschaftsverwaltung
+- TOP 25.1: Entwurf des Wirtschaftsplans des Kommunalen Gebäudemanagements Leopoldshöhe 2025
+- TOP 25.2: Entwurf des Wirtschaftsplans der Leopoldshöher Immobilien- und Liegenschaftsverwaltung 2025
