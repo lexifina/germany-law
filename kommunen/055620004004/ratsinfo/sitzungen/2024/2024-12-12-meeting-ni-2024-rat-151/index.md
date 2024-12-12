@@ -1,0 +1,80 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2024-12-12T17:08:00+01:00
+- Ende: 2024-12-12T20:29:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RAT-151
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RAT-151
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-RAT-151
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RAT-151
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RAT-151
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bürgerantrag gemäß § 24 GO NRW vom 04.10.2024_Nutzung von Mährobotern
+- TOP 3: Bürgerantrag gemäß §24 GO NRW vom 11.11.2024_Tempo 30 auf der Recklinghauser Straße
+- TOP 4: Entwurf der Haushaltssatzung und des Haushaltsplans für die Haushaltsjahre 2025 und 2026 (Doppelhaushalt) sowie Entwurf des Haushaltssicherungskonzepts für die Jahre 2025 und 2026 einschließlich der jeweiligen Anlagen.
+- TOP 5: Stellenplan 2025/2026
+- TOP 6: Satzung zur Festsetzung der Hebesätze der Grundsteuer in Castrop-Rauxel ab dem 01.01.2025
+- TOP 6.1: Antrag der FWI-Fraktion vom 05.12.2024_Änderungsantrag Satzung zur Festsetzung der Hebesätze der Grundsteuer in Castrop-Rauxel ab dem 01.01.2025
+- TOP 7: Entwurf des Jahresabschlusses zum 31.12.2023
+- TOP 8: Feststellung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2022
+- TOP 9: Beteiligungsbericht 2021
+- TOP 10: Neufassung der Benutzungs- und Entgeltordnung für die Räume im Bürgerhaus sowie des Nutzungsvertrags
+- TOP 11: 3. Änderung zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013
+- TOP 12: Änderung des Gesellschaftsvertrages der FORUM Betriebsgesellschaft mbH
+- TOP 13: Änderung des Gesellschaftsvertrages der Stadtwerke Castrop-Rauxel GmbH
+- TOP 14: Änderung des Gesellschaftsvertrages der Entwicklungsgesellschaft Castrop-Rauxel GmbH
+- TOP 15: Änderung des Gesellschaftsvertrages der Wirtschaft und Marketing Castrop-Rauxel GmbH
+- TOP 16: Änderung der Kommunalunternehmenssatzung
+- TOP 17: Gebührenbedarfsberechnung 2025 -Gewässerunterhaltung- und Beschluss über die Gebührensatzung zur Umlage der Kosten der Gewässerunterhaltung
+- TOP 18: Gebührenbedarfsberechnung 2025 -Straßenreinigung- und Erlass einer Satzung über die Straßenreinigungsgebühren in der Stadt Castrop-Rauxel
+- TOP 19: Gebührenbedarfsberechnung 2025 und Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel -Wochenmarktsatzung-
+- TOP 20: Gebührenbedarfsberechnung 2025 -Abfallentsorgung- und Beschluss über die Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 21: Gebührenbedarfsberechnung 2025 -Stadtentwässerung- und Beschluss über die Entwässerungsgebühren in der Stadt Castrop-Rauxel
+- TOP 22: Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel für 2025
+- TOP 23: Sachstandsbericht Haushaltssicherungskonzept (Berichtsstichtag 30.09.2024)
+- TOP 24: Öffnungszeiten Bürgerbüro
+- TOP 24.1: Antrag der CDU-Fraktion vom 02.12.2024_Änderungsantrag Bürgerbüro
+- TOP 25: Antrag der FDP-Fraktion vom 04.11.2024_Nutzungs- und Verwertungsrechte an Kunstobjekten im öffentlichen Raum
+- TOP 26: Antrag der FDP-Fraktion vom 04.11.2024_Sperrmüll
+- TOP 27: Einrichtung von Waffenverbotszonen; Sachstandsbericht der Verwaltung
+- TOP 28: Antrag der CDU-Fraktion vom 15.11.2024_Maßnahmen gegen Messerkriminalität
+- TOP 29: Antrag der CDU-Fraktion vom 15.11.2024_Erweiterung der Service-Dienstleistungen im Bürgerbüro
+- TOP 30: Antrag der Fraktionen SPD und B90/Die Grünen vom 19.11.2024_Prüfauftrag zur Einrichtung von Fahrrad-Zonen im Stadtgebiet
+- TOP 31: Antrag der CDU-Fraktion vom 15.11.2024_Verkehrsberuhigung Dammstraße
+- TOP 32: Einzelhandelskonzept Hier: Beschluss der Fortschreibung
+- TOP 33: Bebauungsplan Nr. 268 "Südlicher Abschnitt Westring" hier: Beschluss zur Aufstellung des Bebauungsplans nach § 2 Abs. 1 BauGB
+- TOP 34: Nahmobilitätskonzept: Zwischenevaluation 2024
+- TOP 35: ISEK Stadtmittelpunkt - Sachstand, Städtebauförderantrag zum Stadterneuerungsprogramm 2025 sowie Antragsverfahren Nationale Projekte des Städtebaus
+- TOP 36: Antrag der FDP-Fraktion vom 04.11.2024_Antrag den Fahrradweg vor dem Bringhof Ickern zukünftig farbig zu markieren
+- TOP 37: Einführung des Fahrradverleihsystems Metropolradruhr in Castrop-Rauxel
+- TOP 38: Antrag der FDP-Fraktion vom 04.11.2024_Zukünftige Einrichtung von Umleitungen bei Straßensperrungen
+- TOP 39: Breitbandausbau im Kreis Recklinghausen: Bundesförderprogramm "Graue Flecken"
+- TOP 40: Sachstandsbericht zu den Fördermaßnahmen aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm "Gute Schule 2020" des Landes
+- TOP 41: Antrag der SPD-Fraktion vom 19.11.2024_Städtepartnerschaften im Stadtbild
+- TOP 42: Delegation von Aufgaben an den EUV Stadtbetrieb (AöR) sowie Teilbetriebsübergang des Bereichs 67 (Stadtgrün und Friedhofswesen) an den EUV Stadtbetrieb (AöR) zum 01.01.2025 hier: Abschluss eines Delegationsvertrages zwischen der Stadt Castrop-Rauxel und dem EUV Stadtbetrieb (AöR)
+- TOP 43: Überplanmäßige Mittelbereitstellung im Budget 36.03 - Hilfen für junge Menschen und ihre Familien, Kostenträger 360302, Kostenstelle 50540, Sachkonto 5339400 - Leistungen nach dem Unterhaltsvorschussgesetz hier: Genehmigung der Dringlichkeitsentscheidung vom 20.11.2024
+- TOP 44: Überplanmäßige Mittelbereitstellungen im Budget 36.04 - Hilfen zur Erziehung; hier: Genehmigung der Dringlichkeitsentscheidung vom 21.10.2024
+- TOP 45: Verwendung des finanziellen Ausgleichs gemäß Gesetz zur Regelung des Belastungsausgleichs zum Gesetz zur Neuregelung der Dauer der Bildungsgänge im Gymnasium (Belastungsausgleichsgesetz G9 - BAG-G9)
+- TOP 46: 43. Hauptversammlung des Deutschen Städtetages 13. bis 15. Mai 2025 in Hannover; Benennung von Delegierten
+- TOP 47: Benennung eines Vertreters der Stadt Castrop-Rauxel für das Beratungsgremium der Uniper Wärme GmbH
+- TOP 48: Antrag der SPD-Fraktion vom 19.11.2024_Ausschussumbesetzungen
+- TOP 49: Umbesetzung des Jugendhilfeausschusses
+- TOP 50: Umbesetzung Jugendhilfeausschusses nach Neuwahl des Kinder-und Jugendparlaments
+- TOP 51: Überplanmäßige Mittelbereitstellung im Budget 11.34 - Digitale Transformation
+- TOP 52: Verwendung der Landes- und Bundeszuwendung zur Beteiligung an den Kosten der Kommunen für die Schaffung, Unterhaltung und Herrichtung von Unterbringungsmöglichkeiten für Geflüchtete
+- TOP 53: Antrag der SPD-Fraktion vom 10.12.2024_Ausschussumbesetzung
+- TOP 54: Antrag Bündnis Sahra Wagenknecht vom 11.12.2024_Ausschussumbesetzung AGID
+- TOP 55: Antrag der Fraktion B90/Die Grünen vom 11.12.2024_Ausschussumbesetzungen
+- TOP 56: Anfragen der Ratsmitglieder
+- TOP 57: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
