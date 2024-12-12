@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-12-12T09:06:00+01:00
+- Ende: 2024-12-12T20:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26043
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26043
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 12.12.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00539259.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 12.12.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00539259.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 12.12.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00539259.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Wiederwahl von Herrn Beigeordneten Christian Zaum - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 4: Anfragen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 8: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 9: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Unterstützung der Partnerstadt Haifa - einstimmig beschlossen
+- TOP 10: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2023 - Feststellung des Jahresabschlusses und Entlastung des Oberbürgermeisters - - einstimmig beschlossen
+- TOP 11: Neubildung der Einigungsstelle gemäß § 67 Landespersonalvertretungsgesetz (LPVG) - einstimmig beschlossen
+- TOP 12: Projektfinanzierungen zur Niederschwelligen Unterbringung und Beratung (NUB) und für soziale Maßnahmen zur Entlastung des öffentlichen Raums - mehrheitlich beschlossen
+- TOP 13: Umbenennung des "Jürgensplatz" im Stadtbezirk 3 in "Platz der Polizei" - zurückgezogen
+- TOP 13.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage APS/087/2024
+- TOP 13.2: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage APS/087/2024
+- TOP 14: Flächennutzungsplanänderung Nr. 178 (Entwurf) - Südlich An der Piwipp - einstimmig beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 01/009 - Südlich An der Piwipp - einstimmig beschlossen
+- TOP 16: Rahmenplan Einzelhandel 2016, 5. Änderung - Zentrum Kalkumer Straße / Ulmenstraße & Sonderstandort Nahversorgung An der Piwipp“ (Entwurf) - einstimmig beschlossen
+- TOP 17: Städtebauliche Entwicklungsmaßnahme (09/033) – Südlich Hildener Straße (Benrather Gärten) - Vorbereitende Untersuchungen gemäß § 165 Abs. 4 BauGB in Verbindung mit § 141 BauGB - einstimmig beschlossen
+- TOP 18: Neuausrichtung des Hochhausbeirats als Beirat für Baukultur - Beschluss der Geschäftsordnung - mehrheitlich beschlossen
+- TOP 19: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf: Änderung der Richtlinie 2024 - mehrheitlich beschlossen
+- TOP 20: Kommunale Entwicklungszusammenarbeit – Konzept zur Verwirklichung des Nachhaltigkeitsziels 17 durch die Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 21: Gründung des Vereins Retail+ DUS und Mitgliedschaft der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 22: Abschluss des Satzungsverfahrens zum Erlass einer Immobilien- und Standort-gemeinschaft (ISG) im Gebiet der Graf-Adolf-Straße gemäß ISGG NRW - zur Kenntnis genommen
+- TOP 23: Ehrenhof 1, Tonhalle – Erneuerung der Sicherheitsbeleuchtung und Allgemeinbeleuchtung ohne Bürotrakt - einstimmig beschlossen
+- TOP 24: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - mehrheitlich beschlossen
+- TOP 24.1: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD und FDP zur Vorlage KUA/157/2024 - abweichend beschlossen
+- TOP 25: Plan Nr. 01/021 - Am Wehrhahn 1/Neue Oper - mehrheitlich beschlossen
+- TOP 26: Preisträgerinnen des Bernd-und-Hilla-Becher-Preises 2025 - zur Kenntnis genommen
+- TOP 27: Errichtung der unselbständigen "Jiny Lan Kunststiftung" - einstimmig beschlossen
+- TOP 28: Modellvorhaben „KI für eine Stadtverträgliche Signalsteuerung in Düsseldorf (KISSiD)“ im Rahmen der Fördermaßnahme "Digitalisierung kommunaler Verkehrssysteme" im Förderbereich „Förderlinie II – Städtische Räume“ des BMDV - einstimmig beschlossen
+- TOP 29: Bestellung einer Prüferin für das Amt für kommunale Prüfung - einstimmig beschlossen
+- TOP 30: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau Einfeldsporthalle Theodor-Litt-Realschule, Theodor-Litt-Straße 5-11, 40593 Düsseldorf" - einstimmig beschlossen
+- TOP 31: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Gutenbergschule, Errichtung einer dreizügigen Dependance am Standort Schlüterstraße 18-20 und Gründung des Gymnasiums Heinzelmännchenweg" - einstimmig beschlossen
+- TOP 32: Namensänderung der Städtischen Gesamtschule Aldekerkstraße - einstimmig beschlossen
+- TOP 33: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2025 - Beschluss - - einstimmig beschlossen
+- TOP 34: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2024-2028 - Beschluss - - einstimmig beschlossen
+- TOP 35: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2025 bis 31.12.2025 - Beschluss - - einstimmig beschlossen
+- TOP 36: Jahresabschluss zum 31.12.2023 und Lagebericht für das Wirtschaftsjahr 2023 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 37: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Deutsches Tischtenniszentrum - Erweiterung Küche und Speiseraum" - einstimmig beschlossen
+- TOP 38: Vorstand des Bergisch-Rheinischen Wasserverbandes - Benennung eines stellvertretenden Mitglieds der Landeshauptstadt Düsseldorf - - einstimmig beschlossen
+- TOP 39: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 40: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland -Ersatzbestellungen- - mehrheitlich beschlossen
+- TOP 41: Wahlordnung für die Wahl der direkt in den Integrationsrat zu wählenden Mitglieder (IRWahlO) - einstimmig beschlossen
+- TOP 42: Etatberatung 2025
+- TOP 42.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2025 mit Anlagen - mehrheitlich beschlossen
+- TOP 42.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2025 ff. - mehrheitlich beschlossen
+- TOP 42.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Jahr 2025 mit Anlagen - zur Kenntnis genommen
+- TOP 42.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2025 - mehrheitlich beschlossen
+- TOP 43: Überarbeitung der Beteiligungsrichtlinien der Landeshauptstadt Düsseldorf (LHD) und des Public Corporate Governance Kodex für die Beteiligungen der LHD (Düsseldorfer Kodex) - einstimmig beschlossen
+- TOP 44: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 45: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 46: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 47: Beirat des Vereins Retail+ DUS -Bestellungen- - einstimmig beschlossen
+- TOP 48: Initiative zur Stärkung der/des Antisemitismusbeauftragten und Förderung eines starken Netzwerks zur Antisemitismusbekämpfung und Förderung jüdischen Lebens in Düsseldorf - einstimmig beschlossen
