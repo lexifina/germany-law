@@ -1,0 +1,89 @@
+# 30. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2024-12-12T16:30:00+01:00
+- Ende: 2024-12-12T20:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7002
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7002
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=440463
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Abberufung eines beratenden und eines stellvertretenden beratenden Mitgliedes sowie Berufung eines beratenden Mitgliedes und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-27 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Öffentliches WLAN im Bezirksamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Bedarfsfußgängerampel Bulgarische Straße / Erwin-Bennewitz-Weg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Leihfahrräder und Leih-E-Roller nur stationsgebunden oder in GPS-Parkzonen zulassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Beteiligung an der Entwicklung des ehemaligen Güterbahnhofs Köpenick ermöglichen und transparenter gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Sondermittel für den Verein "Partner Treptow-Köpenick e. V." (SM 23-10) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Tempo 30 auf dem Adlergestell in Schmöckwitz ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Mehr Erholungsräume und Treffpunkte im Stadtraum durch Parklets - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Schulwegsicherheit - Fußgängerampel in der Salvador-Allende-Straße - zurückgezogen
+- TOP 7.2.7: Berliner Bezirke an den Erlösen der Stromproduktion von Windenergieanlagen beteiligen - überwiesen
+- TOP 7.2.8: Illegale Autoplakatierung endlich beenden! - überwiesen
+- TOP 8: Mündliche Anfragen - schriftlich beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplan 9-48 ("Mellowpark") - Entwurf des Bebauungsplans 9-48 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-48 im Bezirk Treptow-Köpenick von Berlin, Ortsteile Oberschöneweide und Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Nutzung von Teilen des Mellowparks für Bau der TVO verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Frei und sicherer spielen: Spielplatzpatenschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Förderung inklusiver Tanzveranstaltungen für alle Generationen und Bedürfnisse - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Ordnungsamt-App durch Meldefunktion für Barrierefreiheit erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Freifläche am Kaisersteg - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Wünsche der Jugendlichen ernst nehmen - Bedarfsgerechte Informationen ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Lichtzeichenanlage in Bohnsdorf übersichtlicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Staufalle auf dem Adlergestell entschärfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Keine Enteignung des Uferweges zwischen HTW und Kaisersteg in Schöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Lebensqualität im Kölner Viertel (III): Lademöglichkeiten für Elektrofahrzeuge im Kölner Viertel schaffen - mit Änderungen in der BVV beschlossen
+- TOP 10.11: Lebensqualität im Kölner Viertel (IV): Hundegarten im Coloniapark prüfen - überwiesen
+- TOP 10.12: Genehmigung der im Haushaltsjahr 2023 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Vorhabenbezogener Bebauungsplan 9-68 VE ("Alte Gärtnerei") - Entwurf des vorhabenbezogenen Bebauungsplans 9-68 VE - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-68 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Pflegevertrag für den Schmollerplatz temporär fortsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Unterstützung des Vereins Dampflokfreunde Berlin e. V. in Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Mehr Mobilitätsmix mit Jelbi im Berliner Südosten - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - überwiesen
+- TOP 11.1: Einstellung des Bebauungsplanverfahrens XVI-56 ("Kaulsdorfer Straße") - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Konzept zum Schutz und zur Entwicklung der biologischen Vielfalt im Bezirk Treptow-Köpenick - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Ausflugslokal Spreeschlößchen wieder nutzbar machen - überwiesen
+- TOP 12.2: Walk of Sport in Treptow-Köpenick - überwiesen
+- TOP 12.3: BVG-Wartehäuschen an der Haltestelle "Sterndamm / Schule" - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: "X" wieder für die Öffentlichkeitsarbeit des Bezirksamtes nutzen - überwiesen
+- TOP 12.5: Resolution: Kürzungen treffen Treptow-Köpenick - Von der Grünpflege bis zur sozialen Infrastruktur Kahlschlag verhindern - zurückgezogen
+- TOP 12.6: Tierschutz und Tierethik in Schulen durch Projekttage und Unterrichtseinheiten fördern - überwiesen
+- TOP 12.7: Bundestagswahl 2025: Briefwahlstelle an einem Samstag öffnen - in der BVV abgelehnt
+- TOP 12.8: Weitere Forschungen zu Bordell-Baracken in der Königsheide - überwiesen
+- TOP 12.9: Mülleimer am Europaradweg in Spindlersfeld - überwiesen
+- TOP 12.10: Sportbox attraktiver gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Erneuerung der Fahrbahnmarkierung auf dem Müggelheimer Damm, 12559 Berlin - überwiesen
+- TOP 12.12: Sitzbänke in der Baumschulenstraße instand setzen - überwiesen
+- TOP 12.13: Gewerbebrache Friedrichshagener Straße 9A endlich entwickeln - überwiesen
+- TOP 12.14: Sterndamm am Bahnhof Schöneweide beidseitig öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Flächen rund um den S-Bahnhof Spindlersfeld gestalten und besser pflegen - überwiesen
+- TOP 12.16: Gewerbe in der Dörpfeldstraße schützen - Umgestaltung bis zur Klärung der Belieferung stoppen - überwiesen
+- TOP 12.17: Skaterpark unter der Minna-Todenhagen-Brücke - überwiesen
+- TOP 12.18: Konzept gegen illegale Müllablagen – "Soko Müll" - überwiesen
+- TOP 12.19: Barrierefreie Straßenquerungen während Bauarbeiten sicherstellen - überwiesen
+- TOP 12.20: Neue Bürgerbeteiligung zum Freiraumkonzept Schmollerplatz - überwiesen
+- TOP 12.21: Freie Träger nicht im Stich lassen - zurückgezogen
+- TOP 12.22: Prioritätenliste Kiezblock Alt-Treptow - BVV beteiligen und Beschluss zur Grundlage der Umsetzung machen - überwiesen
+- TOP 12.23: Gezielte Aufklärung zur Wohnungssuche für Wohnungslose - überwiesen
+- TOP 12.24: Verbesserung der Anbindung von Wendenschloß durch verlängerten Fährbetrieb der Linie F12 - überwiesen
+- TOP 12.25: Verbesserung der Straßenbeleuchtung in der Birkenstraße, 12559 Berlin - überwiesen
+- TOP 12.26: Bedarfsgerechte Ausstattung der Hilfen zur Erziehung einfordern - strukturelle Defizite endlich beheben - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Keine Kürzungen in den Projekten nach § 11, § 13 und § 16 des SGB VIII - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Illegale Plakatierung zum Auto- und Schmuckankauf - im Ältestenrat zurückgezogen
+- TOP 13.2: Schmollerplatz - beantwortet
