@@ -1,0 +1,129 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-12-12T18:36:00+01:00
+- Ende: 2024-12-12T23:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00157643.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00157643.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00157643.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Zuleitung des Entwurfs des Jahresabschlusses 2023 und seiner Anlagen an den Rat - einstimmig beschlossen
+- TOP 7: Befreiung von der Aufstellung des Gesamtabschlusses für das Jahr 2023 gem. § 116a GO NRW - einstimmig beschlossen
+- TOP 8: Gebührensatzungen
+- TOP 8.1: Gebührenbedarfsberechnung für die Erhebung von Straßenreinigungsgebühren 2025 - einstimmig beschlossen
+- TOP 8.2: Gebührenbedarfsberechnung für die Erhebung von Abfallentsorgungsgebühren 2025 - einstimmig beschlossen
+- TOP 8.3: Abwassergebührenkalkulation 2025 - einstimmig beschlossen
+- TOP 8.4: 25. Änderung Gebührensatzung - einstimmig beschlossen
+- TOP 9: Haushalt 2025
+- TOP 9.1: Reden der Fraktionsvorsitzenden
+- TOP 9.2: Grundsteuerreform: Hebesatzsatzung 2025 - mehrheitlich beschlossen
+- TOP 9.3: Haushalt 2025 - mehrheitlich beschlossen
+- TOP 10: 1. Änderung Vorkaufsrechtsatzung Innenstadt - mehrheitlich beschlossen
+- TOP 11: Gigabitförderung 2.0 - von der Tagesordnung abgesetzt
+- TOP 12: Lärmaktionsplan der Stadt Grevenbroich - mehrheitlich beschlossen
+- TOP 13: Beratungspunkte Ausschüsse
+- TOP 13.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 13.1.1: Festlegung Stadtumbaugebiet ISEK Flutgrabenquartier - einstimmig beschlossen
+- TOP 13.1.2: Entwicklung der PSW-Flächen Kraftwerk Neurath - Beschluss des Strukturkonzeptes - einstimmig beschlossen
+- TOP 13.1.3: Beschluss Rahmenplan Bahnhofsquartier - einstimmig beschlossen
+- TOP 13.1.4: 1. vereinf. Änd. G 170A - ern. Aufstellung - einstimmig beschlossen
+- TOP 13.2: Entscheidung über Beratungspunkte aus dem Ausschuss für Soziales, Inklusion, Integration, Gleichstellung und Demografie
+- TOP 13.2.1: Aufnahme des Vorsitzenden / der Vorsitzenden des Inklusionsbeirates als beratendes Mitglied in den Ausschuss für Soziales, Inklusion, Integration, Gleichstellung und Demografie - einstimmig beschlossen
+- TOP 13.3: Entscheidung über Beratungspunkte aus dem Betriebsausschuss Abwasseranlagen
+- TOP 13.3.1: Bestellung Betriebsleitung - einstimmig beschlossen
+- TOP 13.3.2: Erlass einer Betriebssatzung für den Eigenbetrieb Abwasseranlagen - einstimmig beschlossen
+- TOP 13.3.3: Wirtschaftsplan 2025 - einstimmig beschlossen
+- TOP 13.4: Entscheidung über Beratungspunkte aus dem Ausschuss für Strukturwandel, Arbeit, Digitalisierung und Innovation
+- TOP 13.4.1: Smart-City-Strategie Grevenbroich - mehrheitlich beschlossen
+- TOP 13.5: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 13.5.1: Verzicht auf Rückzahlungen von Betriebskostenzuschüssen der Deutschordens Jugend- und Familienhilfe Elsen gem. GmbH - einstimmig beschlossen
+- TOP 13.5.2: Einmalige Bezuschussung zu den Betriebskosten der Lebenshilfe Rhein-Kreis Neuss gGmbH; hier Familienzentrum Blumenwiese - einstimmig beschlossen
+- TOP 13.6: Entscheidung über Beratungspunkte aus dem Sport- und Bäderausschuss
+- TOP 13.6.1: Benennung der Sportanlage in Grevenbroich Neukirchen in „Bahndamm Stadion“ - einstimmig beschlossen
+- TOP 14: Einigungsstelle - einstimmig beschlossen
+- TOP 15: Beteiligungsbericht 2022 - einstimmig beschlossen
+- TOP 16: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 16.1: Anfrage zu "Cannabis Social Clubs" (Anfrage Nr.:76/2024) - Kenntnisnahme
+- TOP 16.2: Anfrage zur Sicherheit im Bahnhof Grevenbroich (Anfrage Nr.:77/2024) - Kenntnisnahme
+- TOP 16.3: Anfrage zum Datenschutz in der Smart City (Anfrage Nr.:91/2024) - Kenntnisnahme
+- TOP 16.4: Anfrage Elsbachtunnel (Anfrage Nr.:73/2024) - Kenntnisnahme
+- TOP 16.5: Pflege von öffentlichen Grünflächen/Spielplätzen/Straßenbegleitgrün durch die Stadtbetriebe Grevenbroich (Anfrage Nr.:71/2024) - Kenntnisnahme
+- TOP 16.6: Blindenleitsystem Rheydter Straße / Dechant-Schütz-Straße - Kenntnisnahme
+- TOP 16.7: Hebräische Erweiterung der Beschilderung des Synagogenplatzes in der Stadtmitte (Antrag Nr.:82/2023) - Kenntnisnahme
+- TOP 16.8: Instandhaltung und Reinigung von Sportanlagen (Anfrage Nr.:84/2024) - Kenntnisnahme
+- TOP 16.9: Fahrradboxen am Bahnhof (Antrag Nr.:94/2024) - Kenntnisnahme
+- TOP 16.10: Anfragen zu Sporthallenkapazitäten (Anfrage Nr.:79/2024) - Kenntnisnahme
+- TOP 16.11: Förderung des Ehrenamts - mehrheitlich beschlossen
+- TOP 17: Schriftliche Anträge
+- TOP 17.1: Anträge der SPD-Fraktion
+- TOP 17.2: Anträge der CDU-Fraktion
+- TOP 17.2.1: Ausstattung der städtischen Kindertageseinrichtungen mit mobilen Endgeräten für Erzieherinnen und Erzieher (Antrag Nr.:146/2024) - einstimmig beschlossen
+- TOP 17.2.2: Beachvolleyballanlagen für die Öffentlichkeit zugänglich machen (Antrag Nr.:147/2024) - einstimmig beschlossen
+- TOP 17.2.3: Errichtung eines Bevölkerungsschutzzentrums im Stadtgebiet (Antrag Nr.:148/2024) - einstimmig beschlossen
+- TOP 17.2.4: Mehr Sitzungen des Sportausschusses ansetzen (Antrag Nr.:149/2024) - einstimmig beschlossen
+- TOP 17.2.5: Reha-Sport im Schlossbad ermöglichen (Antrag Nr.:150/2024) - einstimmig beschlossen
+- TOP 17.2.6: WLAN in städtischen Kindertageseinrichtungen einrichten (Antrag Nr.:151/2024) - einstimmig beschlossen
+- TOP 17.2.7: Wieder Zähneputzen in städtischen Kindertageseinrichtungen ermöglichen (Antrag Nr.:152/2024) - einstimmig beschlossen
+- TOP 17.2.8: Ausschussumbesetzung (Antrag Nr.:153/2024) - einstimmig beschlossen
+- TOP 17.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 17.3.1: Igel besser vor Mährobotern schützen - Fahrzeiten regulieren (Antrag Nr.:131/2024) - einstimmig beschlossen
+- TOP 17.3.2: Umbesetzung (Antrag Nr.:132/2024) - einstimmig beschlossen
+- TOP 17.3.3: Prüfauftrag Mobilitätslabor (Antrag Nr.:134/2024) - einstimmig beschlossen
+- TOP 17.4: Anträge der FDP-Fraktion
+- TOP 17.4.1: Ein Jahr Tempolimit auf der A46: Zeit für eine Evaluation (Antrag Nr.:100/2024)
+- TOP 17.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 17.5.1: Umfeldverbesserung Grevenbroich Südstadt (Antrag Nr.:136/2024) - einstimmig beschlossen
+- TOP 17.5.2: Berichterstattung zur Entwicklung des Rheinlandklinikums (Antrag Nr.:137/2024) - einstimmig beschlossen
+- TOP 17.5.3: Ausschussumbesetzung (Antrag Nr.:138/2024) - einstimmig beschlossen
+- TOP 17.5.4: Wilde Müllablagerungen und Sperrmüll im Stadtgebiet (Antrag Nr.:139/2024) - einstimmig beschlossen
+- TOP 17.5.5: Entwendete Einkaufswagen im Stadtgebiet (Antrag Nr.:141/2024) - einstimmig beschlossen
+- TOP 17.6: Anträge der UWG-Fraktion
+- TOP 17.6.1: Glasfaserversorgung in den nördlichen Stadtteilen insbesondere in Gruissem (Antrag Nr.:102/2024) - einstimmig beschlossen
+- TOP 18: Gemeinschaftsanträge
+- TOP 19: Schriftliche Anfragen
+- TOP 19.1: Anfragen der SPD-Fraktion
+- TOP 19.2: Anfragen der CDU-Fraktion
+- TOP 19.2.1: Fitness Locations im Stadtgebiet einrichten (Anfrage Nr.:143/2024) - Kenntnisnahme
+- TOP 19.2.2: Stand zur Partnerschaft mit der spanischen Stadt Cangas de Onis (Anfrage Nr.:144/2024) - Kenntnisnahme
+- TOP 19.2.3: Sanierung zweier Tennisplätze des TC Gustorf 1980 e.V. auf Grund von Bergsenkungsschäden (Anfrage Nr.:145/2024) - Kenntnisnahme
+- TOP 19.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 19.3.1: Notfallversorgung in Grevenbroich (Anfrage Nr.:104/2024) - Kenntnisnahme
+- TOP 19.3.2: Beteiligungsverfahren zur Definition des landesweiten Radvorrangnetzes des Landes Nordrhein-Westfalen (Anfrage Nr.:128/2024) - Kenntnisnahme
+- TOP 19.3.3: Sachstand Antrag 74/2023 "Naturschutzgebiet An der Schwarzen Brücke vergrößern" (Anfrage Nr.:133/2024) - Kenntnisnahme
+- TOP 19.3.4: Situation der Radstation (Anfrage Nr.:135/2024)
+- TOP 19.4: Anfragen der FDP-Fraktion
+- TOP 19.4.1: Sanierung der Straße Auf dem Mergendahl (Anfrage Nr.:96/2024)
+- TOP 19.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 19.5.1: Sachstand Abfall- und Sperrmüllentsorgung durch die Firma Schoenmakers (Anfrage Nr.:140/2024) - Kenntnisnahme
+- TOP 19.6: Anfragen der UWG-Fraktion
+- TOP 19.7: Anfragen von Einzelratsmitgliedern
+- TOP 19.7.1: Anfrage Sozialer Wohnungsbau (Anfrage Nr.:97/2024) - Kenntnisnahme
+- TOP 19.7.2: Soziale Kürzungen (Anfrage Nr.:127/2024) - Kenntnisnahme
+- TOP 19.7.3: Anfrage Verkehrslenkung (Anfrage Nr.:98/2024) - Kenntnisnahme
+- TOP 19.7.4: Anfrage zu Bushaltestelle Goethestr. in GV-Elsen (Anfrage Nr.:105/2024) - Kenntnisnahme
+- TOP 19.7.5: Anfrage zum Kauf von einem Gießroboter für städtische Friedhöfe (Anfrage Nr.:106/2024) - Kenntnisnahme
+- TOP 19.7.6: Anfrage zu Hilfsangeboten der Stadt Grevenbroich für Obdachlose (Anfrage Nr.:107/2024) - Kenntnisnahme
+- TOP 19.7.7: Anfrage zur kommunalen Wärmeplanung (Anfrage Nr.:108/2024) - Kenntnisnahme
+- TOP 19.7.8: Anfrage zu Arbeitsgelegenheiten für Asylbewerber (Anfrage Nr.:126/2024) - Kenntnisnahme
+- TOP 19.7.9: Anfrage zur Einführung von Videoüberwachung an städtischen Schulen (Anfrage Nr.:129/2024) - Kenntnisnahme
+- TOP 19.7.10: Anfrage zu Smart City (Anfrage Nr.:130/2024) - Kenntnisnahme
+- TOP 19.7.11: Anfrage zur Unterbringung von Obdachlosen (Anfrage Nr.:142/2024) - Kenntnisnahme
+- TOP 20: Mitteilungen des Bürgermeisters
+- TOP 20.1: Aktuelle Flüchtlingssituation in den Kommunen - Kenntnisnahme
+- TOP 20.2: Notfallversorgung in Grevenbroich - mündlicher Bericht - Kenntnisnahme
+- TOP 20.3: Aktueller Stand Gesellschaftsgründung Frimmersdorf GmbH - mündlicher Bericht
