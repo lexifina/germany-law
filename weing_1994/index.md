@@ -118,3 +118,5 @@
 - [§ 57 Fortbestehen anderer Vorschriften](0057.md)
 - [§ 57a Ermächtigung zur Aufhebung von Rechtsvorschriften](0057a.md)
 - [§ 57b Geändertes Unionsrecht](0057b.md)
+- [Anlage 1 (zu § 7d Absatz 1c)Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159](anlage-1.md)
+- [Anlage 2 (zu § 7d Absatz 1d)Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2146](anlage-2.md)

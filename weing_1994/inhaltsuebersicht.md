@@ -107,3 +107,5 @@
 | § 57 | Fortbestehen anderer Vorschriften |
 | § 57a | Ermächtigung zur Aufhebung von Rechtsvorschriften |
 | § 57b | Geändertes Unionsrecht |
+| Anlage 1(zu § 7d Absatz 1c) | Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159 |
+| Anlage 2(zu § 7d Absatz 1d) | Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2146 |
