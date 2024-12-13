@@ -1,0 +1,18 @@
+# Gesetz zur Durchsetzung tiergesundheitsrechtlicher und bestimmter kontrollrechtlicher Vorschriften der Europäischen Union
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 576/2013](0002.md)
+- [§ 3 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/429](0003.md)
+- [§ 4 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2019/1602](0004.md)
+- [§ 5 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2019/2035](0005.md)
+- [§ 6 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/686](0006.md)
+- [§ 7 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/687](0007.md)
+- [§ 8 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/688](0008.md)
+- [§ 9 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/691](0009.md)
+- [§ 10 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/692](0010.md)
+- [§ 11 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/990](0011.md)
+- [§ 12 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2021/520](0012.md)
+- [§ 13 Höhe der Geldbuße](0013.md)
+- [§ 14 Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union](0014.md)
+- [Anlage (zu § 14)Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union](anlage.md)
