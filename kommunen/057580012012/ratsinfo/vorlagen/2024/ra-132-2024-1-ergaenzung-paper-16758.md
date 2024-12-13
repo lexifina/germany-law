@@ -1,0 +1,26 @@
+# HVV-Konzern: Wirtschaftspläne 2025 und Mittelfristpläne des HVV-Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH
+
+- Körperschaft: Stadt Herford
+- Drucksache/Vorlage: RA/132/2024 1. Ergänzung
+- Art: Vorlage
+- Datum: 2024-12-13
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZY67XTIdw1nKVOCIu24ddVk
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16758
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage (HVV-Konzern:
+Wirtschaftspläne 2025 und Mittelfristpläne des HVV-Verbundes: 
+Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcWEFphH4Nap5eGnt8li4mBF-O2jobwRKsphFisGAyZ2/Vorlage_RA-132-2024_1._Ergaenzung.pdf
+- Anlage: Vorlage (Anlage 1: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der WWS) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTGwNIWITUaRldHU5FLXLp0uX7gabnGOYPI7fs53eNrP/Anlage_1-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_WWS.pdf
+- Anlage: Vorlage (Anlage 2: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der Elsbach Objektgesellschaft) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfmPkf-8FcZ-wYtV5tbQUpJ5OKc7HpQYUeWvNseByY1H/Anlage_2-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_Elsbach_Objektgesellschaft.pdf
+- Anlage: Vorlage (Anlage 3: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der Elsbach Verwaltungsgesellschaft) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVBl_aN8KEpxXphhN-FfGD5bAFpR5-G8agGXhamMuJkz/Anlage_3-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_Elsbach_Verwaltungsgesellschaft.pdf
+- Anlage: Vorlage (Anlage 4: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der FSH) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeW8SKLDBCT07-NmhdoDrut5_ZjH_VdgMU0DWpUtQ2DI/Anlage_4-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_FSH.pdf
+- Anlage: Vorlage (Anlage 5: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der SWH) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY8rnjccNr94dX1tO34c7-jnccqgi0SbwdW3OPIk_B2Z/Anlage_5-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_SWH.pdf
+- Anlage: Vorlage (Anlage 6: geänderter Wirtschaftsplan 2024, Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der HAG) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVNkx6Clwg5OJDbO3SwvOlDwF2OxgMcQbDNdTQZybPKb/Anlage_6-_geaenderter_Wirtschaftsplan_2024-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_HAG.pdf
+- Anlage: Vorlage (Anlage 7: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der SWK) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTK99hDZHyibxbjV27juQAKgbNR4qbrI2xtj6MsaiE2Q/Anlage_7-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_SWK.pdf
+- Anlage: Vorlage (Anlage 8: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der Marta Herford) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb1li__NkJoTluS8rUkqTBMCNCrFg3IJW3Sc6Bghy6Z9/Anlage_8-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_Marta_Herford.pdf
+- Anlage: Vorlage (Anlage 9: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der Kultur Herford) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeCFwFbsSjYb7LZCjaeffsR9nSEyJo6P-fOPf8wQFIoF/Anlage_9-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_Kultur_Herford.pdf
+- Anlage: Vorlage (Anlage 10: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der HSS) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaJwrLEaUPjWDxsHnVq-uhk20uJU23pKGE39Mmv5jVrC/Anlage_10-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_HSS.pdf
+- Anlage: Vorlage (Anlage 11: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der SVH) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdphvs2Nr1eJ7QtlmMZt6-_A9rwUDgeugrrxvicTIOY6/Anlage_11-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_SVH.pdf
+- Anlage: Vorlage (Anlage 12: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 der HVV) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTG67VTJgi7wIu50Zw_KOsyefHrvXkWSIEzVvcxYlCE9/Anlage_12-_Wirtschaftsplan_2025_und_Mittelfristplan_2026-2029_der_HVV.pdf
+- Beratung:  https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4995 https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-259
