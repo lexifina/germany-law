@@ -35,7 +35,7 @@
 - [§ 19 Kennzeichen, Kennzeichnung](0019.md)
 - [§ 19a Kodierung und Eintragung von 406 MHz-Notsendern](0019a.md)
 
-## Zweiter Abschnitt (weggefallen)
+## Zweiter Abschnitt (§§ 20 bis 37 weggefallen)
 
 - [(XXXX) §§ 20 bis 37 (weggefallen)](xxxx-20-bis-37.md)
 
