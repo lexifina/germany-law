@@ -1,0 +1,59 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2024-12-13T17:00:00+01:00
+- Ende: 2024-12-13T20:40:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSP3yXRPaNY2xnd2ENmMwIY
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4995
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfvlbhPHk84m6JfJTtvQ8SjRaxnz1DEpz4qTuZLqOj0M/Einladung_Rat_13.12.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf7YUt0bZTl4cnbYtJSpL9YG57TdwimpPSH4jEo8aKG6/Oeffentliche_Niederschrift_Rat_13.12.2024.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 08.11.2024
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Prüfung und Feststellung des Jahresabschlusses 2023, Ergebnisverwendung und Entlastung des Bürgermeisters hier: Einbringung des Jahresabschlusses 2023 in den Rat
+- TOP A.8: Haushalt 2025/2026 Behandlung der Bilanzierungshilfe gem. § 6 Abs. 2 NKF-CUIG für die 2020 bis 2023 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Stellenplan für den Doppelhaushalt 2025 und 2026 - Mit 29 Stimmen dafür, elf Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst.
+- TOP A.10: Haushaltssatzung 2025 und 2026 sowie mittelfristige Ergebnis- und Finanzplanung 2027 - 2029 hier: Verabschiedung der Haushaltssatzung 2025 und 2026 mit ihren Anlagen
+- TOP A.10a: Haushaltssatzung 2025 und 2026 sowie mittelfristige Ergebnis- und Finanzplanung 2027 - 2029 hier: Verabschiedung der Haushaltssatzung 2025 und 2026 mit ihren Anlagen
+- TOP A.10b: Haushaltssatzung 2025 und 2026 sowie mittelfristige Ergebnis- und Finanzplanung 2027 - 2029 hier: Verabschiedung der Haushaltssatzung 2025 und 2026 mit ihren Anlagen - Mit 29 Stimmen dafür, elf Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10c: Änderungsantrag der Fraktion Freie Wähler/ UWG Herforder Bürger Bündnis zum Haushalt - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10d: Fraktion Die Linke: Änderungsantrag zum Haushalt 2025/2026 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10e: Antrag zum Haushalt der FDP-Fraktion - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10f: Gemeinsamer Antrag zum Haushalt 2025/ 2026 der Fraktionen SPD, Union für Herford und Bündnis 90/ Die Grünen - Mit 29 Stimmen dafür, zehn Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst.
+- TOP A.11: Prüfung und Bestätigung des Gesamtabschlusses 2020 der Hansestadt Herford hier: Einbringung des Gesamtabschlusses 2020 in den Rat
+- TOP A.11a: Prüfung und Bestätigung des Gesamtabschlusses 2020 der Hansestadt Herford hier: Einbringung des Gesamtabschlusses 2020 in den Rat
+- TOP A.12: Gebührenhaushalt Straßenreinigung 14. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Mit 39 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Gebührenhaushalt Abfallentsorgung a) 4. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Hansestadt Herford vom 12.12.2017 b) 11. Satzung zu Änderung der Satzung über die Kostendeckung der Abfallentsorgung vom 10.10.2012 - Mit 37 Stimmen dafür, drei Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Änderung der Entwässerungsgebührensatzung - Mit 38 Stimmen dafür, zwei Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Aufhebung der Gebührensatzung Rettungsdienst der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15a: Aufhebung der Gebührensatzung Rettungsdienst der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Neubau Geschwister-Scholl-Realschule: Untersuchung alternativer Standorte
+- TOP A.17: Bebauungsplan Nr. 12.39 "Vlothoer Straße-Süd/ Wentworth Kaserne" Hier: Satzungsbeschluss - Mit 33 Stimmen dafür, fünf Stimmen dagegen und einer Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.18: Flächennutzungsplanänderung Nr.1.16 „Kasernen auf dem Stiftberg“ Teil B Hier: Feststellungsbeschluss - Mit 34 Stimmen dafür, fünf Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst: 
+- TOP A.19: Bahnprojekt Hannover-Bielefeld-Deutschlandtakt hier: Stellungnahme zu den von der Bahn vorgestellten 12 Trassenvarianten - Mit 32 Stimmen dafür, keine Stimme dagegen und sieben Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.20: Gremienbesetzungen
+- TOP A.20a: Geschäftsführung: Wahl einer Vertretung und einer Stellvertretung des neuen Jugendamtselternbeirates als ordentliches beratendes Mitglied und persönliche Stellvertretung im Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20b: Antrag Die Linke: Gremienumbesetzungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Steuerung von Drittorganisationen:
+- TOP A.21a: HVV-Konzern: Wirtschaftspläne 2025 und Mittelfristpläne des HVV-Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21a)1: HVV-Konzern: Wirtschaftspläne 2025 und Mittelfristpläne des HVV-Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21b: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: Wirtschaftsplan 2025 Mittelfristplan 2026-2029 - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21c: Pro Herford GmbH: Wirtschaftsplan 2025 Mittelfristplan 2026-2029 - Mit 26 Stimmen dafür, vier Stimmen dagegen und neun Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21d: IAB Immobilien- und Abwasser-Betrieb Herford: Wirtschaftsplan 2025 Mittelfristplanung 2026-2029 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21e: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen Lippe GmbH: Wirtschaftsplan 2025 und Mittelfristplan 2026-2029 - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21f: Interkommunale Wirtschaftsförderungsgesellschaft mbH im Kreis Herford: Wirtschaftsplan 2025 und Mittelfristplanung 2026 - 2029 - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.21g: Ausweitung des Geltungsumfangs des Herforder Klimatickets/Klimaabos auf das Anruf- Sammel- Taxi ab dem 01.02.2025
+- TOP A.21h: Minden-Herforder Verkehrsgesellschafts mbH: – Änderung des Gesellschaftsvertrages - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21i: a) Finanzierungsbeiträge der Hansestadt Herford für die Nordwestdeutsche Philharmonie (NWD) und das Landestheater Detmold (LTD) in den Jahren 2026 bis 2031. b) Kooperationsvereinbarung der Überkreuzfinanzierung zwischen den Kreisen Herford und Lippe sowie den Städten Herford und Detmold. - Mit 37 Stimmen dafür und zwei Stimmen dagegen wird folgender Beschluss gefasst:
+- TOP A.22: Mitteilungen
