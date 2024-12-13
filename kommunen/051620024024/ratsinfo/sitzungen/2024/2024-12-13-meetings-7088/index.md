@@ -1,0 +1,98 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-12-13T16:00:00+01:00
+- Ende: 2024-12-13T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7088
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7088
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 13.12.2024 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00219428.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 13.12.2024 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00219428.pdf
+- Wortprotokoll: Sitzungspaket RAT 13.12.2024 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00219428.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 5: Brücke über den Verschiebebahnhof - Sicherungsmaßnahmen an den östlichen Spannbetonästen und Teilrückbau von Ast 1 - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 6: Klimaanpassungskonzept der Stadt Neuss - einstimmig zugestimmt
+- TOP 7: Satzung zur Festsetzung der Friedhofsgebühren ab 2025 - mehrheitlich zugestimmt
+- TOP -: Schulausschuss
+- TOP 8: Anträge Berufsförderung an Neusser Schulen 2025/26 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V - Norf
+- TOP 9: Vellbrüggener Straße, Bushaltestellenpaar St. Andreasstraße: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 10: Neufassung der Satzung der VHS Neuss/Alte Post - einstimmig zugestimmt
+- TOP 11: Änderung Entgeltordnung der VHS Neuss und der Alten Post - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 12: Bebauungsplan Nr. 512 - Grefrath, Lüttenglehner Straße -, Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 13: Bebauungsplan Nr. 485/1 - Holzheim, Kreitzer Straße -, Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 14: Vorhabenbezogener Bebauungsplan Nr. 143/6 - Gnadental, St.Konradquartier -, Beschluss über die Abwägung der Stellungnahmen, Satzungsbeschluss - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 15: Motivation, Förderung und Nachteilsausgleich für ehren-amtliche Einsatzkräfte der Feuerwehr Neuss durch ein neues System finanzieller Zuwendungen - einstimmig zugestimmt
+- TOP 16: Neufestsetzung der Gebühren für den Rettungsdienst der Stadt Neuss ab 2025 - zurückgezogen
+- TOP 17: Änderung der Sondernutzungssatzung - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 18: Feststellung des Jahresabschlusses 2023 der Liegenschaften und Vermessung Neuss (LVN) und Gewinnverwendungsbeschluss 2023, sowie Beschluss über die Entlastung der Betriebsleitung - mehrheitlich zugestimmt
+- TOP 19: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2025 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 20: Umbau des Tennenhalbfeldes in ein Kunstrasenhalbfeld auf der BSA Rosellen unter Aufgabe des Tennengroßfeldes - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 21: Wirtschaftsplan 2025 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Verwaltungsrat der InfraStruktur Neuss AöR
+- TOP 22: Fortschreibung des Abwasserbeseitigungskonzeptes für den Zeitraum 2025 bis 2030 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 23: Nixhütter Weg, Bushaltestellenpaar Gnadentaler Mühle: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 24: Hainbuchenweg: Straßenerneuerung nach Arbeiten an Versorgungsleitungen - einstimmig zugestimmt
+- TOP 25: Radweglückenschluss Bonner Straße - mehrheitlich zugestimmt
+- TOP -: Finanzausschuss
+- TOP 26: Wirtschaftsplan 2025 für "Stadtgrün Neuss" - einstimmig zugestimmt
+- TOP 27: Standentgeltentwicklung im Bereich Kirmessen und Märkte - Kostendeckungsgrad - mit Änderungen einstimmig zugestimmt
+- TOP 28: Angebote der Drogenhilfe in der Stadt Neuss ab 2025 ff. - einstimmig zugestimmt
+- TOP 29: Festsetzung von Gebühren 2025 für den Bereich "Abfallentsorgung" - einstimmig zugestimmt
+- TOP 30: Beratung des Haushaltsplan-Entwurfes 2025 - einstimmig zugestimmt
+- TOP 31: Erlass einer Hebesatzsatzung - mehrheitlich zugestimmt
+- TOP 32: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 33: Hammer Landstraße und Hessentordamm: Verbesserung der Querungssituation zum Wendersplatz für Fußgänger - einstimmig zugestimmt
+- TOP 34: Stresemannallee: Querung im Bereich des "LAGA-Zuganges Südost" - mehrheitlich zugestimmt
+- TOP 35: Erftstraße zwischen Drususallee und Zollstraße: Straßenwiederherstellung nach Kanalbauarbeiten - einstimmig zugestimmt
+- TOP 36: Batteriestraße: Barrierefreier Umbau des Bushaltestellenpaars Hafenstraße sowie des Knotenpunktes Batteriestraße / Hafenstraße - einstimmig zugestimmt
+- TOP 37: Hammer Landstraße, barrierefreier Umbau des Bushaltestellenpaars Industriestraße; Verbreiterung der geplanten Querungsstelle über den Hessentordamm - einstimmig zugestimmt
+- TOP 38: Evaluation Buslinie 857 - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss VII - Uedesheim
+- TOP 39: Vertretung der Stadt Neuss in Drittgremien - zurückgezogen
+- TOP 40: Spielraumplanung: Ausbauplanung und Entwurfsplanung Kinderspielplatzprogramm 2024/25 - einstimmig zugestimmt
+- TOP 41: Umgestaltung des Knotenpunktes Rheinfährstraße/ Macherscheider Straße nach Erneuerung der Ver- und Entsorgungsleitungen - einstimmig zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 42: Prüfung des Jahresabschlusses 2022 sowie der Jahresabschlüsse 2022 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 43: Wasser- und Bodenverband Nordkanal – Satzungsänderung, hier: Änderung der Verbandsorganisation - einstimmig zugestimmt
+- TOP 44: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 45: Benennung von Delegierten für die 43. Hauptversammlung des Deutschen Städtetages vom 13.- 15. Mai 2025 in Hannover - einstimmig zugestimmt
+- TOP 46: Landesgartenschau Neuss 2026 – Kombiticket mit dem ÖPNV - mehrheitlich zugestimmt
+- TOP 47: Landesgartenschau Neuss 2026 - Ausweitung des ÖPNV-Angebotes für 2026 (Linien 709 und 842) - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 48: Antrag der Fraktion Neuss-Jetzt! betr.: Richtlinie Resolutionen - verwiesen
+- TOP -: Anfragen
+- TOP 49: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 51: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer vom IV. Quartal 2023 bis II. Quartals 2024 genehmigt hat - zur Kenntnis genommen
+- TOP 52: Nachnutzung der Räumlichkeiten der ehemaligen Realschule Holzheim - zur Kenntnis genommen
+- TOP 53: Optimierung der Grünflächenpflege und Hartflächenreinigung - zur Kenntnis genommen
+- TOP 54: Fortschreibung des Gleichstellungsplans der Stadt Neuss - zur Kenntnis genommen
+- TOP 55: Vermarktung von Baugrundstücken im Neubaugebiet Kreuzfeld/Uedesheim im Höchstgebotsverfahren - zur Kenntnis genommen
+- TOP 56: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 57: Rathaus-Tiefgarage - verwiesen
+- TOP 58: Bericht zur Immobilie am Konvent - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - beraten ohne Abstimmung
