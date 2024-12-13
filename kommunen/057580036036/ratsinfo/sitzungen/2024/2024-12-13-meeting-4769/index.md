@@ -1,0 +1,51 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2024-12-13T15:30:00+01:00
+- Ende: 2024-12-13T17:41:00+01:00
+- Ort: Jugendhof Vlotho, Oeynhausener Str. 1, 32602 Vlotho, Saal 1
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYMg-vwc_gQL3vd6oQJvfiM
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4769
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcLzDHsyqTF3hu3pU3KqO1ryxV_9y4V_JBTNibIDKQ8h/Oeffentliche_Niederschrift_Rat_13.12.2024.pdf
+
+## Tagesordnung
+
+- TOP A: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die 32. Sitzung vom 31.10.2024 - öffentlicher Teil -
+- TOP 2.: Jahresrückblick 2024 / Ausblick 2025
+- TOP 3.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 4.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 5.: Fragestunde für Einwohner*innen
+- TOP 6.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 6.1: Einstellung des Komm-an-Programms des Landes NRW (Fördermittelprogramm) ab 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Feststellung des Jahresabschlusses zum 31.12.2020 und Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Beteiligung an der Gründung einer Interkommunalen Entwicklungsgenossenschaft Absichtserklärung - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Maßnahmebeschluss zur Restaurierung und Instandsetzung der Hammerschmiede Gnuse - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Verordnung über das Offenhalten von Verkaufsstellen im Jahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Neufestsetzung der Einsatzentschädigung für die Mitglieder der Freiwilligen Feuerwehr der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Anmeldeverfahren Grundschulen zum Schuljahr 2025/26 - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: 1. Satzung zur Änderung der "Satzung über die Erhebung von Beiträgen nach § 8 KAG für straßenbauliche Maßnahmen der Stadt Vlotho vom 14.12.2005" - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Fortschreibung des Straßen- und Wegekonzeptes (Zeitraum 2024-2028) - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Abwasser - für das Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Personal - für das Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Service - für das Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Straßen - für das Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Gebührenbedarfsberechnung Abfallbeseitigung 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Gebührenbedarfsberechnung Bestattungswesen 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Gebührenbedarfsberechnung Straßenreinigung 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Gebührenbedarfsberechnung Abwasser für das Jahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Gebührenbedarfsberechnung für die Übergangsheime und Notunterkünfte für das Jahr 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Änderung der Beitrags- und Gebührensatzungen der Stadt Vlotho hier: Artikelsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Unterstützung der Klagegemeinschaft Werra-Weser - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 26.1: Beschluss zur Haushaltssatzung für das Jahr 2025 - 24 Ja-Stimme(n), 9 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 26.2: Ratsverkleinerung ab 2025 - Abgesetzt
+- TOP 26.3: Prüfung zusätzlicher Einnahmequellen durch Steuern und Abgaben - 29 Ja-Stimme(n), 2 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 27.: Stellenplan 2025 - 24 Ja-Stimme(n), 9 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 28.: Haushaltssatzung/Haushaltsplan der Stadt Vlotho für das Jahr 2025 - 24 Ja-Stimme(n), 9 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 29.: Zweite Gemeinsame Erklärung zum geplanten Neubau einer ICE-Trasse zwischen Bielefeld und Hannover - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Bildung, Zusammensetzung und personelle Besetzung der Ausschüsse und Gremien nach den Kommunalwahlen vom 13.09.2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 31.: Anfragen nach § 17 der Geschäftsordnung und Mitteilungen
