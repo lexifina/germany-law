@@ -50,6 +50,7 @@
 ## Abschnitt 6 Überwachung
 
 - [§ 27 Zuständigkeit und Zusammenarbeit](0027.md)
+- [§ 27a Durchführung der Überwachung](0027a.md)
 - [§ 28 Aufgaben der Marktüberwachungsbehörden](0028.md)
 - [§ 29 Marktüberwachungsmaßnahmen](0029.md)
 - [§ 30 Adressaten der Marktüberwachungsmaßnahmen](0030.md)
