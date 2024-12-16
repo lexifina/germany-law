@@ -1,0 +1,93 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973830
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973830
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 11.11.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Parkplatzsituation in der Borstei durch Veranstaltungen im SAP Garden
+- TOP 2.2.: Fehlendes Parklizenzgebiet Pelkovenstraße
+- TOP 2.3.: Verkehrssituation Ecke Gleißmüllerstraße Hugo-Troendle-Straße sowie Templestraße Ecke Welzenbachstraße
+- TOP 2.4.: Parksituation und Durchgangsbereich Kapellenäckerstraße Bunzlauer Straße
+- TOP 2.5.: Verbesserung der Verkehrssituation in der Pelkovenstraße durch das Anbringen von Tempo-30-Schilder
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Pelkovenstr. 47
+- TOP 3.3.1.2.: Quedlinburger Str. 20
+- TOP 3.3.1.3.: Triebstr. 41
+- TOP 3.3.1.4.: Bunzlauer Str. 1
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Sanierungsmaßnahmen Sozialer Zusammhalt, Beleuchtungsanlage für die Sportflächen im Amphionpark
+- TOP 4.1.2.: Sicher im Verkehr unterwegs – Roteinfärbung der Radverkehrsfurten der Zweirichtungsradwege im Kreuzungsbereich Hanauer Str. / Pelkovenstr.
+- TOP 4.1.3.: Grundwasserproblematik in Moosach
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Elternbeirat Gymnasium München Moosach Mehr Medienkompetenz am 27. /28.01.2025 822,90€; Az. 0262.0-10-0401
+- TOP 5.2.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté, April bis November 2025 8.938,00€; Az. 0262.0-10-0400
+- TOP 5.3.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches Projekt "My Fertility Matters" MFM für die 5. Klassen vom 20.02. -25.03.2025 1.248,52€; Az. 0262.0-10-0402
+- TOP 5.4.: (E) Bürgeranregungen zur Verbesserung des Radverkehrs im 10. Stadtbezirk Moosach
+- TOP 5.5.: (E) Bordsteinabsenkungen für Fahrradwege
+- TOP 5.6.: (E) Neuasphaltierung der Fahrbahndecken in der Scharnhorststraße und in der Quedlinburger Straße sowie Bordsteinabsenkung am Fußweg zwischen Hanauer Straße und Scharnhorststraße als Verbesserung für Fahrradfahrer
+- TOP 5.7.: (E) + (U) Finanzielle Entlastung für Geschädigte von Heizkostenwucher
+- TOP 6.: Anhörungen
+- TOP 6.1.: Antrag des BA15 zur Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 6.2.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 6.3.: Wirksame Bekämpfung von Leerstand/ Sitzungsvorlage Nr. 20-26 / V 15290
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Ausbau der Fernwärme- bzw. Gasleitung in der Templestr.
+- TOP 7.2.: Ruhender Verkehr - Ausweitung der begrenzten Parkzeit
+- TOP 7.3.: Sachstand zum Umschlagterminal am Güterbahnhof
+- TOP 7.4.: Schulwegsicherheit: Parksituation in der Dresdner Straße, Merseburger Straße und Unteren Krautstraße; insbes. Gefährdung von Kindern an der Kreuzung Dresdner Straße/Untere Krautstraße
+- TOP 7.5.: Sperrung der Dachauer Str. wegen des Neubaus der Bahnunterführung
+- TOP 7.6.: Entscheidung und Ausführung des Fernwärme-Untersuchungsgebiets
+- TOP 7.7.: Verkehrssituation am Memminger Platz - Nachfrage zu Nr. 20-26 / Q00218
+- TOP 7.8.: Park- und Verkehrssituation Sapporobogen
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Dachauer Straße Bahnunterführung Ergänzung Bauphase 200
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Arbeiten im Straßenraum; Hannoverstraße 2-8, Braunschweiger Straße 7-11
+- TOP 8.3.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 8.4.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Beseitigung höhengleicher Bahnübergänge Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung höhengleicher Bahnübergänge - Bekanntgabe -
+- TOP 8.5.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 8.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Zusatzzeichen Feuerwehranfahrtzone; Seydlitzplatz 15
+- TOP 8.7.: Verkehrsrechtliche Anordnung nach § 45 StVO: Errichtung von Tempo 30 in der Hanauer Straße im Abschnitt zwischen Dachauer Straße und Georg-Brauchle-Ring
+- TOP 8.8.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP 8.9.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 8.10.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.11.: Unveränderte Fortführung eines Gaststättenbetriebes: Baubergerstr. 16c
+- TOP 8.12.: Unveränderte Fortführung eines Gaststättenbetriebes: Triebstr. 11e
+- TOP 8.13.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 8.14.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 8.15.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 8.16.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 8.17.: Sanierungsgebiet Moosach Verlängerung des Stadtteilmanagements der Münchner Gesellschaft für Stadterneuerung mbH bis 31.12.2026
+- TOP 8.18.: BA-Unterrichtung EH24-19432 Ehrenbreitsteiner Str. -nicht öffentlich-
+- TOP 8.19.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 8.20.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2024 - 2028 Einzelbereich 4 / Jugendamtsbereich Ergänzende Konsolidierungsvorschläge der Jahre 2025 – 2027 Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff.
+- TOP 8.22.: BA-Unterrichtung EH24-19750 Prochintalstr. -nicht öffentlich-
+- TOP 8.23.: Einstellung Vorkaufsrecht -nicht öffentlich-
+- TOP 8.24.: Einstellung Vorkaufsrecht -nicht öffentlich-
+- TOP 1.2.: Nachbenennung eines Beauftragten gegen Rechtsextremismus
+- TOP 6.4.: Veranstaltung "Moosach Narrisch Straßenfasching 2025" am Bunzlauer Platz 5-7
+- TOP 7.9.: Bitte um Überprüfung des Bauvorhabens an der Pelkovenstr. 47
+- TOP 3.3.2.1.: Netzerstr. 71-75
+- TOP 3.3.2.2.: Jakob-Hagenbucher-Str. 10
+- TOP 3.3.2.3.: Scharnhorststr. 15
+- TOP 3.3.2.4.: Mondscheinweg 7
+- TOP 8.21.: Güternordring – Stellungnahme des BA 10 – Moosach
