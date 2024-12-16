@@ -1,0 +1,21 @@
+# Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2025
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-213/2024 5. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-12-16
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfdDUrusTOk7-m8w5yYPyhI
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3216
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2025) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUD4OjPAUzm5KBABVtdXRX-gqW5o-UIA7AvWdP8_Zx_W/Beschlussvorlage_VL-213-2024_5._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Bürgermeisterin Simke Ried zur StVV 12.11.2024 - Erlass HH-Satzung 2025) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcWAO7jPUWbOtNihGbwY-tFWB36VPBVHfdZSWBzUePmr/Antrag_Buergermeisterin_Simke_Ried_zur_StVV_12.11.2024_-_Erlass_HH-Satzung_2025.pdf
+- Anlage: Beschlussvorlage (241126 Rechtsänderungen ab 2024 -11.11.24 Finanzplanungserlass 2025.final RPARechtsgrundlagen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZcfbYTUBKvr61RJOfIDRgEL1Ij_Yfiyf26H6DB5euU3/241126_Rechtsaenderungen_ab_2024_-11.11.24_Finanzplanungserlass_2025.final_RPARechtsgrundlagen.pdf
+- Anlage: Beschlussvorlage (Antrag zum Haushalt CDU-Fraktion) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR_fpf0mxDNFe932v6qPtiyaBm5oc4u9wktiNy3OnjRT/Antrag_zum_Haushalt_CDU-Fraktion.pdf
+- Anlage: Beschlussvorlage (Antrag zum Haushalt GRÜNEN-Fraktion) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWd5qqYvFIbmf5a8U8x7OmCYa5OhchfLW4QWa91wdfIq/Antrag_zum_Haushalt_GRUeNEN-Fraktion.pdf
+- Anlage: Beschlussvorlage (Antrag zum Haushalt Fraktion BÜRGERFORUM) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZch7EV8JaTntxPxcQbkbiEv3q9jpru-uHLEk_iIlj9az/Antrag_zum_Haushalt_Fraktion_BUeRGERFORUM.pdf
+- Anlage: Beschlussvorlage (Haushalt 2025) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVed43QKsjjCQ1LsnDiUfNP3TThvnz7iP8Dg8JmkTxRz/Haushalt_2025.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1261 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1266 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1267 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1280 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-13
