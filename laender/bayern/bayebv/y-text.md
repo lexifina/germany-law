@@ -1,0 +1,1 @@
+Auf Grund von Art. 95 Abs. 4, Art. 123 Abs. 1 Nrn. 9 und 10 der Gemeindeordnung (GO), Art. 82 Abs. 4, Art. 109 Abs. 1 Nrn. 9 und 10 der Landkreisordnung und Art. 80 Abs. 4, Art. 103 Abs. 1 Nrn. 9 und 10 der Bezirksordnung erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
