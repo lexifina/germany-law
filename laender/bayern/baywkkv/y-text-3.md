@@ -1,0 +1,1 @@
+erlässt das Bayerische Staatsministerium des Innern im Einvernehmen mit den Bayerischen Staatsministerien für Arbeit und Sozialordnung, Familie, Frauen und Gesundheit sowie der Finanzen folgende Verordnung:
