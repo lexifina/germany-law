@@ -1,0 +1,157 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7952854
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7952854
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Initiative Restaurierung Kunstwerk "Lebe" Restaurierung und Wiederinstandsetzung der Plastik "Lebe" in der TeLa vom 28.02.2025 - 30.05.2025 504,82 € / AZ: 0262.0-18-0407
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Z Pertsem e.V. Finanzierung der Spiegel und Miete des Ballettsaals für Extra-Training vom 20.12.2024 bis 01.03.2025 3.987,50 € / AZ: 0262.0-18-0406
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP 3.1.6.2.: Verwendungsnachweise für vom BA 18 geförderte Budgetanträge
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Trainingszeiten für den Breitensport auf alternativen Trainingsflächen; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Gottesdienst am Heiligen Abend auf der Grünanlage Rosengarten in der Sachsenstraße
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Marktfestsetzung, Sondernutzungserlaubnis und Gestattung für den Weihnachtsmarkt am Hexenhäusl in der Pilgersheimer Straße vom 21.11. - 31.12.2024
+- TOP 3.2.6.2.: Erlaubnis, Gestattung und Festsetzung des Weihnachtsmarkts am Mangfallplatz vom 29.11 - 01.12.2024
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Weitere Fahrradständer an der Haltestelle Menterschwaige; Bürgeranliegen
+- TOP 3.3.3.2.: Einrichtung einer Einbahnstraßenregelung für die Konradinstraße im Abschnitt zwischen Arminiusstraße und Agilolfingerstraße; Bürgeranliegen
+- TOP 3.3.3.3.: Reduktion des Park- und Verkehrsaufkommens in der Alois-Wolmuth-Straße; Bürgeranliegen
+- TOP 3.3.3.4.: Umgestaltung der Sankt-Magnus-Straße; Bürgeranliegen
+- TOP 3.3.3.5.: Tempo 30 in der Karolingerallee; Interfraktioneller Antrag Grüne/SPD
+- TOP 3.3.3.6.: Umsetzung der Dialog Displays im Stadtbezirk 18; Interfraktioneller Antrag Grüne/SPD
+- TOP 3.3.3.7.: Zebrastreifen im Stadtbezirk 18; Interfraktioneller Antrag Grüne/SPD
+- TOP 3.3.3.8.: Gehwegparken in der Mondstraße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Klausener Straße 22 - Anhörung zur verkehrsrechtlichen Anordnung
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Radweg Seybothstraße
+- TOP 3.3.5.2.: Fehlende Wartehäuschen bei der Tramlinie 25 - Antwort des Mobilitätsreferats zum Schreiben der BA-Vorsitzenden an den OB
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Nahverkehrsplan der Landeshauptstadt München – Fortschrittsbericht Umsetzung Barrierefreiheit Sitzungsvorlage Nr. 20-26 / V 14175
+- TOP 3.3.6.2.: Verkehrsrechtliche Anordnung zu einer Beschilderung in der Freibadstraße (Höhe Pilgersheimer Straße)
+- TOP 3.3.6.3.: Vollsperre Lindenstraße 19 vom 02.12. bis 20.12.2024
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Fernwärmeanbindung des 18. Stadtbezirks Untergiesing-Harlaching; SPD-Antrag
+- TOP 3.4.3.2.: Müllsituation nach einem Spiel im Grünwalder Stadion; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Autharistr. 50 - Grünwalder Str. 42 - Harthauser Str. 27 - Lindenstr. 31a - Meraner Str. 21 - Willroiderstr. 12 - Tegelbergstr. 3
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Weyarner Str. 4
+- TOP 3.4.6.2.: Baumfällung in der Jollystr. 5
+- TOP 3.4.6.3.: Baumfällung in der Benediktenwandstr. 42
+- TOP 3.4.6.4.: Baumfällung in der Harthauser Str. 81-85
+- TOP 3.4.6.5.: Knallerverbot in der Umweltzone der Landeshauptstadt München 2024/2025
+- TOP 3.4.6.6.: Instandsetzung des Flaucherstegs
+- TOP 3.4.6.7.: Ausnahmezulassung für den Betrieb von Geräten und Maschinen im Rahmen von Reinigungsarbeiten im Auftrag der SWM (U-Bahnhöfe) nach § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4.7: Sonstiges
+- TOP 3.4.7.1.: Bitte um Unterstützung: Antrag des BA 15 zur Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Errichtung einer Feuerwache für Giesing und Harlaching; Bürgeranliegen
+- TOP 3.5.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 3.5.6.2.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.5.6.3.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 3.5.6.4.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.5.6.5.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 3.5.6.6.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Leerstand von Häusern in Harlaching; Bürgeranliegen
+- TOP 3.6.3.2.: Erweiterung des Umgriffs der Erhaltungssatzung „Untere Au / Untergiesing“; Grünen-Antrag
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Prüfung der Anträge zum Bauvorhaben Candid-Tor Entwurf der Sitzungsvorlage Nr. 20-26 V 15064
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Faistenbergerstraße 4 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.6.4.1.2.: Bezoldstraße 14: Abbriss und Neubau Doppelhaushälfte alternativ Nutzungsänderung, Umbau mit Dachgeschossneubau im Bestand und Garagenneubau - Vorbescheid
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 3.6.6.2.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 3.6.6.3.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.4.3.3.: Hummelkasten an einem öffentlichen Ort im Stadtbezirk 18; Bürgeranliegen
+- TOP 3.3.3.9.: Ersatzhaltestellen der Trambahnlinie 25; Bürgeranliegen
+- TOP 3.3.4.2.: Beteiligungsverfahren: Straßenunterhalt für Isenschmidstr. 8-12/Lindenstr. 31-33
+- TOP 3.3.5.3.: Antwort der MVG zur Nachfrage nach Wartehäuschen für die Trambahnlinie 25
+- TOP 3.5.3.3.: Die Stadt München möge prüfen, warum die Wohnungen des Anwesens Säbener Str. 88 nicht vermietet sind bzw. leer stehen und ggf. handeln; SPD-Antrag
+- TOP 3.1.3.1.: Förderung von Veranstaltungen zur Sport-Vernetzung und sowie für Kinder und Jugendliche in Höhe von 8.759 Euro im 18. Stadtbezirk; Antrag Grüne/SPD
