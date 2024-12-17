@@ -1,0 +1,31 @@
+# Gesetz über die Rechtsverhältnisse der Mitglieder der Staatsregierung
+(Bayerisches Ministergesetz – BayMinG)
+Vom 4. Dezember 1961
+(BayRS II S. 72)
+BayRS 1102-1-F
+Bayerisches Ministergesetz (BayMinG) in der in der Bayerischen Rechtssammlung (BayRS 1102-1-F) veröffentlichten bereinigten Fassung, das zuletzt durch § 2 des Gesetzes vom 28. April 2025 (GVBl. S. 102) geändert worden ist
+Änderungen
+1. Art. 56 G über den Bayerischen Verfassungsgerichtshof vom 10.5.1990 (GVBl. S. 122)
+2. § 1 ÄndG des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung vom 23.12.1993 (GVBl. S. 1042)
+3. § 5 Zwölftes ÄndG vom 23.7.1994 (GVBl. S. 611)
+4. § 1 ÄndG des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung vom 24.6.1997 (GVBl. S. 170)
+5. § 1 ÄndG des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung vom 24.6.1997 (GVBl. S. 171)
+6. § 1 G zur Anpassung von Landesrecht an die Änderungen der Verfassung des Freistaates Bayern vom 10.7.1998 (GVBl. S. 385)
+7. § 1 ÄndG vom 29.12.1998 (GVBl. S. 1014)
+8. § 3 Zweites Bayerisches G zur Anpassung des Landesrechts an den Euro vom 24.4.2001 (GVBl. S. 140)
+9. § 1 ÄndG des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung vom 8.11.2002 (GVBl. S. 622)
+10. § 16 G zur Stärkung elektronischer Verwaltungstätigkeiten vom 24.12.2002 (GVBl. S. 962)
+11. § 5 NachtragshaushaltsG vom 24.3.2004 (GVBl. S. 84)
+12. § 1 ÄndG des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung und des Bayerischen AbgeordnetenG vom 24.6.2004 (GVBl. S. 224)
+13. § 3 G zur Änd. des Bayerischen BeamtenG, des Bayerischen RichterG und des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung vom 7.12.2004 (GVBl. S. 489)
+14. § 7 G zur Anpassung von LandesG an das Bayerische BeamtenG vom 27.7.2009 (GVBl. S. 400)
+15. § 15 DienstrechtneuregelungsG vom 5.8.2010 (GVBl. S. 410)
+16. § 1 Nr. 2 V zur Anpassung des LandesR an die geltende Geschäftsverteilung vom 22.7.2014 (GVBl. S. 286)
+17. § 3 G zur Änd. des G über kommunale Wahlbeamte und Wahlbeamtinnen, des Bayerischen Abgeordnetengesetzes und des G über die Rechtsverhältnisse der Mitglieder der Staatsregierung vom 24.4.2017 (GVBl. S. 81)
+18. § 1 G zur Änd. personalaktenrechtlicher und weiterer dienstrechtlicher Vorschriften vom 18.5.2018 (GVBl. S. 286)
+19. § 1 Abs. 4 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 26.3.2019 (GVBl. S. 98)
+20. § 1 G zur Änderung des Bayerischen Ministergesetzes und des Bayerischen Lobbyregistergesetzes vom 23.12.2021 (GVBl. S. 661)
+21. § 5 G zur Neuausrichtung orts- und familienbezogener Besoldungsbestandteile vom 10.3.2023 (GVBl. S. 80)
+22. § 10 BezügeanpassungsG 2024/2025 vom 8.7.2024 (GVBl. S. 170)
+23. § 3 G zur Erleichterung des Ehrenamts vom 9.12.2024 (GVBl. S. 570)
+24. § 2 Gesetz zur Änderung des Gesetzes über die Errichtung der Bayerischen Forschungsstiftung und des Bayerischen Ministergesetzes vom 28.4.2025 (GVBl. S. 102)

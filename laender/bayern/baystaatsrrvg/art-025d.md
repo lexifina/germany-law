@@ -1,0 +1,2 @@
+# Art. 25d Übergangsregelungen zu dem bis 31. Dezember 2003 geltenden Recht
+Unbeschadet der Art. 24 bis 25c findet für die am 1. Januar 2004 vorhandenen ehemaligen Mitglieder der Staatsregierung und ihre Hinterbliebenen Art. 15 Abs. 1 in der bis dahin geltenden Fassung Anwendung. Das Gleiche gilt für die am 1. Januar 2004 vorhandenen Mitglieder der Staatsregierung, soweit sie zu diesem Zeitpunkt die in Art. 15 Abs. 1 Satz 2 in der bis zum 31. Dezember 2003 geltenden Fassung bestimmte Amtszeit vollendet haben.

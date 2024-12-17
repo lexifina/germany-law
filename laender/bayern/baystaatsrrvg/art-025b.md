@@ -1,0 +1,3 @@
+# Art. 25b Übergangsregelungen zu dem bis 31. Dezember 1998 geltenden Recht
+(1) Für die am 1. Januar 1999 vorhandenen ehemaligen Mitglieder der Staatsregierung findet Art. 15 Abs. 1 Satz 2 in der bis dahin geltenden Fassung Anwendung. Das gleiche gilt für die am 1. Januar 1999 vorhandenen Mitglieder der Staatsregierung, wenn sie zu diesem Zeitpunkt eine Amtszeit von insgesamt mindestens vier Jahren vollendet haben.
+(2) Art. 22 Abs. 6 findet auf die am 1. Januar 1999 vorhandenen ehemaligen Mitglieder der Staatsregierung und ihre Hinterbliebenen in der bisher geltenden Fassung Anwendung, längstens jedoch für weitere sieben Jahre.
