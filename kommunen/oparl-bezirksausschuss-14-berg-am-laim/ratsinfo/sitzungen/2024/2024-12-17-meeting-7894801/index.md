@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-12-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894801
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894801
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 26.11.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Nachbesetzung folgender Unterausschüsse: 1. UA Budget und Organisation 2. UA Soziales, Integration, Senioren, Familie
+- TOP 2.3.: Mitgliederwechsel im UA städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 2.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Gisela-Stein-Straße
+- TOP 2.5.: (E) Bessere Versorgung für ältere Menschen in Berg am Laim schaffen
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Stromanschluss in der Kleingartenanlage SO1
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: StVO-Novellierung 2024: Unterlagen zur Informationsveranstaltung am 22.10.2024 sowie Bitte um Rückmeldung zu Altfällen -vertagt aus der Plenumssitzung vom 26.11.2024-
+- TOP 3.2.2.: Antrag des BA 15 zur Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 3.2.3.: Antragsentwurf für die Schulwegsicherheit an der Grundschule St.-Veit-Straße
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Umsetzungsmöglichkeiten des BA 14 Antrags zum Aufstellen von senior*innen gerechten Bänken -vertagt aus der Plenumssitzung vom 29.10.2024-
+- TOP 3.5.2.: (E) Stadtbezirksbudget FC Phönix München e. V. Sanierung der Gymnastikhalle und der Zuwegung zur Halle (Treppe und Flur) vom 07.01. - 17.01.2025 7.000,00 €; Az. 0262.0-14-0431 -vertagt aus der Plenumssitzung vom 26.11.2024-
+- TOP 3.5.3.: (E) Stadtbezirksbudget Initiative Kinderyoga Kinderyoga vom 13.01. - 17.02.2025 465,00 Euro; Az. 0262.0-14-0432
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Ellingerweg 86
+- TOP 3.6.2.: Dornbergstr. 27
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten November 2024
+- TOP 4.1.2.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 4.1.3.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 4.1.4.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 4.1.5.: Allgemeinverfügung Knallerverbotszone 2024/2025
+- TOP 4.1.6.: Aktueller Stand des Pius-Spielplatzes; Rückmeldung des Baureferats
+- TOP 4.1.7.: Mülleimer mit Pfandring bzw. für Pizzakartons: Test auch in Berg am Laim
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Perspektive München - Handlungsräume der Stadtentwicklung Sachstand und Weiterentwicklung
+- TOP 4.2.2.: Piusstraße: Unnütze Fahrradbügel wieder abbauen und als Pkw-Stellplätze nutzen
+- TOP 4.2.3.: Pächterwechsel im 14. Stadtbezirk
+- TOP 4.2.4.: Suchkreismitteilung zu Mobilfunkanlage: Berg am Laim
+- TOP 4.2.5.: Tempo 30-Regelung in der Gisela-Stein-Str.
+- TOP 4.2.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 4.2.7.: (U) Nahverkehrsplan der Landeshauptstadt München – Fortschrittsbericht Umsetzung Barrierefreiheit
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.2.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.4.3.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 4.4.4.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.5.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 30.09.2024
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 4.5.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP 4.5.3.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.5.4: (E) Stadtbezirksbudget AKA e. V. Wintergutscheine von Dezember 2024 - Januar 2025, 9.000,00 €; Az. 0262.0-14-0435
+- TOP 3.5.4.: (E) Stadtbezirksbudget AKA e. V. Wintergutscheine von Dezember 2024 - Januar 2025 9.000,00 €; Az. 0262.0-14-0435
