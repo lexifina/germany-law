@@ -1,0 +1,4 @@
+– Art. 123 Abs. 1 Satz 1 und Satz 2 Nrn. 9 und 11 der Gemeindeordnung (GO) in der Fassung der Bekanntmachung vom 6. Januar 1993 (GVBl S. 65, BayRS 2020-1-1-I), zuletzt geändert durch § 1 des Gesetzes vom 26. Juli 1997 (GVBl S. 344),
+– Art. 109 Abs. 1 Satz 1 und Satz 2 Nrn. 9 und 11 der Landkreisordnung in der Fassung der Bekanntmachung vom 6. Januar 1993 (GVBl S. 93, BayRS 2020-3-1-I), zuletzt geändert durch § 2 des Gesetzes vom 26. Juli 1997 (GVBl S. 344),
+– Art. 103 Abs. 1 Satz 1 und Satz 2 Nrn. 9 und 11 der Bezirksordnung in der Fassung der Bekanntmachung vom 6. Januar 1993 (GVBl S. 115, BayRS 2020-4-2-I), zuletzt geändert durch § 3 des Gesetzes vom 26. Juli 1997 (GVBl S. 344), und
+– Art. 91 des Bayerischen Personalvertretungsgesetzes in der Fassung der Bekanntmachung vom 11. November 1986 (GVBl S. 349, BayRS 2035-1-F), zuletzt geändert durch Gesetz vom 2. April 1996 (GVBl S. 123),
