@@ -1,0 +1,1 @@
+Auf Grund von Art. 123 Abs. 1 Satz 3 der Gemeindeordnung (GO), Art. 109 Abs. 1 Satz 3 der Landkreisordnung (LKrO) und Art. 103 Abs. 1 Satz 3 der Bezirksordnung (BezO) erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit den Bayerischen Staatsministerien für Arbeit und Sozialordnung, Familie, Frauen und Gesundheit sowie der Finanzen folgende Verordnung:
