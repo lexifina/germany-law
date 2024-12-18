@@ -1,0 +1,143 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-12-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8098732
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8098732
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirksame Bekämpfung von Leerstand (Anhörung zum Beschlussentwurf zur Erledigung der Empfehlung Nr. 20-26 / E 02027 aus der Bürgerversammlung des Stadtbezirkes 04 am 18.06.2024)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Gestaltung und Ausstattung eines Aufenthaltsbereichs für Jugendliche im Luitpoldpark (Antwort des Baureferats; vgl. TOP B 2.4 07/24)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: CVJM e.V. für die Anschaffung eines Aeortrim-Großspielgeräts
+- TOP 3.2.2.: Eltern-Kind-Zentrum Schwabing/Maxvorstadt e.V. Mittagsbetreuung Farinelli KIDS für die Ferienbetreuung im Stadtviertel vom 29.07.2024 bis 02.08.2024
+- TOP 3.2.3.: ASZ Schwabing West für die ASZ Wiesn am 01.10.2024
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 3.3.2.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.3.3.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.3.4.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 3.3.5.: Mehrjahresinvestitionsprogramm (MIP) 2024 - 2028 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff 2. Stellungnahmen der Bezirksausschüsse
+- TOP 3.3.6.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 30.09.2024
+- TOP 3.4.2.: Auswertung und Ausschreibung 2025 der REGSAM-Schwerpunktarbeit
+- TOP 3.4.3.: Ehrenamt muss abgesichert sein (BA-Antrag Nr. 20-26 / B 07293 des BA 9)
+- TOP C: Bauen und Wohnen
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Keuslinstr. 13: ÄNDERUNGSANTRAG zu 1.2-2024-10112-22 - Errichtung von Fertigbalkonanlagen am vorh. Wohngebäude und Errichtung einer Notleiter sowie das Anbringen eines WDV-Systems
+- TOP 2.2.: Bauerstr. 33: ÄNDERUNGSANTRAG zu 1.23-2024-17999-22 - Aufstockung eines Bestandsgebäudes, Anbau von Balkonen, Anbau eines Fassadenaufzugs, Umnutzung Laden zu gewerblichem Wohnen
+- TOP 2.3.: Infanteriestr. 11a: Infanteriestr.11a Haus B2, Revitalisierung eines Büro- und Verwaltungsgebäudes
+- TOP 2.4.: Rankestr. 6a: Wohnraumerweiterung der Wohneinheit Nr. 19 beim best. Wohn- und Geschäftshaus
+- TOP 2.5.: Herzogstr. 109: Aufteilung einer Wohneinheit zu 2 Wohneinheiten im 3.OG (1. Einheit) sowie im 4.OG mit Dachgeschoss (2. Einheit) - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Energetische Sanierung Bonner Quartier, Bonner Str. und Kölner Pl. (Schreiben eines Mieters; vgl. TOP C 2.5 10/24 und TOP C 2.6 10/24)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 3.2.2.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 3.2.3.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 3.2.4.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Baulisten Erstantragsverfahren KW 44 bis KW 48 und Vorbescheide KW 47 bis KW 48
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Antrag auf Einrichtung von Fahrrad- und Lastenradabstellplätzen vor den Kindergärten in der Angererstraße 19 und 21
+- TOP 1.2.: Bürger: Kennzeichnung von Brücken mit den Brückennamen
+- TOP 1.3.: Bürger: Baustelle ehemals Karstadt am Nordbad, Ecke Elisabethstraße/Schleißheimer Straße
+- TOP 1.4.: Bürger: Bessere Idee bzw. Lösung für den Fußgängerübergang Parzivalstr./James-Loeb-Str (Scheidplatz)
+- TOP 1.5.: Bürger: Neuer Zebrastreifen bzw. Verkehrshinweis beim Knotenpunkt Karl-Theodor-Str. und Hiltenspergerstr.
+- TOP 1.6.: Bürger: Parken auf dem Gehweg Herzogstraße/Friedrich-Loy-Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Errichtung eines allgemeinen Schwerbehindertenparkplatzes in der Hagedornstraße, Ostseite, nördlich der bestehenden Feuerwehrzufahrt vor Anwesen HsNr. 17 (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.2.: Unterstützung der Radlvorrangkarte von MunichWays (vgl. TOP 0.1 24/11)
+- TOP 2.3.: Errichtung einer Ladezone für den Elisabethmarkt in der Nordendstraße (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Fußgängerampeln Simmernstraße/Rheinstraße und Rheinstraße/Mainzer (Antwort der Antragstellerin auf Stellungnahme des BA; vgl. TOP D 1.2 10/24)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Baumaßnahmen der SWM vom 04.11.2024 bis 03.12.2024
+- TOP 3.3.2.: Verlängerung der Ausnahmegenehmigung vom Verbot, Hindernisse auf die Straße zu bringen, vom 30.11.2024 bis 20.12.2024 in der Schleißheimer Straße 85-91 und Agnesstraße 58-62
+- TOP 3.3.3.: Ausnahmegenehmigung vom Verbot, Hindernisse auf die Straße zu bringen, in der Hohenzollernstr. 46 vom 06.12.2024 bis 28.02.2025
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 3.4.2.: Hinweis/Ergänzung vom 25.11.2024 zur Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums (Sitzungsvorlage Nr. 20-26 / V 11904)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger/-in: Verschmutzung Mildred-Scheel-Bogen/ Isoldenstr./ Rümannstr.
+- TOP 1.2.: Bürgerin: Anträge zum Elisabethplatz
+- TOP 1.3.: Bürger: Grünfläche an der Düsseldorfer Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Kölner Pl. 1: Antrag auf Fällung einer Rosskastanie
+- TOP 2.1.2.: Winzererstr. 134b: Antrag auf Fällung bzw. Veränderung eines japanischen Ahorns und eines Ahorns
+- TOP 2.1.3.: Winzererstr. 27: Antrag auf Fällung eines Feldahorns
+- TOP 2.1.4.: Karl-Theodor-Str. 83: Antrag auf Fällung einer Bergbirne
+- TOP 2.1.5.: Ackermannstr. 11: Antrag auf Fällung einer Linde und einer Weide
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Antwort des Stadtbezirksbudgets zur Anfrage des BAs bezüglich der Finanzierung von Baumpflanzungen
+- TOP 3.1.2.: Antrag auf Nachpflanzung Baum Kurfürstenplatz (Antwort des Baureferats; vgl. TOP A 4.1 24/10)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Grünanlage am Scheidplatz: Verlängerung der Ausnahmegenehmigung vom 16.10.2024 zur Benutzung für Baustelleneinrichtung bis 29.11.2024
+- TOP 3.4.2.: Ausnahmezulassung für den Aufbau eines Wetterschutzdachs in der Hohenzollernstraße 116 in drei Nächten zwischen 09.12.2024 und 20.12.2024
+- TOP 3.4.3.: Allgemeinverfügung Knallerverbotszone 2024/2025
+- TOP 3.4.4.: Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen (BA-Beschluss des BA 15 Trudering-Riem vom 14.11.2024)
+- TOP 3.4.5.: Ausnahmezulassungen für Reinigungsarbeiten in den U-Bahnhöfen von 20:00 bis 05:00 Uhr sowie an Sonn- und Feiertagen
+- TOP F: Kultur und Wirtschaft
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget foolpool GbR VerWunderLand. Eine kleine Kunst-Kirmes mit Varieté von April - November 2025 8.938,00 Euro, Az.: 0262.0-4-0542
+- TOP 2.1.2.: (E) Stadtbezirksbudget Institut für Kunst und Forschung Kunst und Kultur, Erinnerungs- und Geschichtsprojekte, Kunst im öffentlichen Raum vom 06.01. - 25.11.2025 3.000,00 Euro, Az.: 0262.0-4-0543
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "Common Ground" Common Ground vom 01. - 14.05.2025 7.000,00 Euro, Az.: 0262.0-4-0544
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: Theater des hölzernen Gelächters für das Wunderland-Projekt von 07.06.2024 – 08.06.2024
+- TOP 3.2.2.: Änderung des Zuwendungsbescheids für das „Offene Atelierhaus“
+- TOP 3.2.3.: Initiative „Kreativlabor OPEN“ für die gleichnamige Werkschau am 13. und 14.07.2024
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Elia", Herzogstr. 90
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Surahi Schwabing“ (ehem. „Surahi“), Hohenzollernplatz 8
+- TOP 3.4.3.: Schank- und Speisewirtschaft „La Rosa Nera“ (ehemals: L’Ancora), Schleißheimer Str. 201a
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Genehmigungsbescheid für das Winterfeuer des Jugendzentrums LIFE am 07.12.2024 auf der Grünanlage Große Wiese an der Ackermannstr./Felix-Fechenbach-Bogen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 – 2028 (Entscheidungsvorlage über die Wünsche und Anregungen der BAs von April 2024 für die Fachausschüsse)
+- TOP H: Termine
