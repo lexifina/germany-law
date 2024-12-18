@@ -111,9 +111,9 @@
 | § 75 | Zulassung der Wahlbriefe, Ermittlung undFeststellung des Briefwahlergebnisses |
 | § 76 | Ermittlung und Feststellung des Wahlergebnissesim Wahlkreis |
 | § 77 | Ermittlung und Feststellung desZweitstimmenergebnisses im Land |
-| § 78 | Abschließende Ermittlung und Feststellung desErgebnisses der Landeslistenwahl |
+| § 78 | Abschließende Ermittlung und Feststellung desErgebnisses |
 | § 79 | Bekanntmachung der endgültigen Wahlergebnisse |
-| § 80 | Benachrichtigung der gewähltenLandeslistenbewerber |
+| § 80 | Benachrichtigung der gewähltenBewerber |
 | § 81 | Überprüfung der Wahl durch die Landeswahlleiterund den Bundeswahlleiter |
 |  |
 | Fünfter Abschnitt |
