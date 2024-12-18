@@ -1,17 +1,17 @@
 # Satzung über die Erhebung von Kostenersatz für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2023-12-20 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/feuerwehrsatzung_15_12_2023.pdf
+- Datum: 2024-12-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/feuerwehrsatzung_16_12_2024.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Erhebung von Kostenersatz für die Leistungen der Berufsfeuerwehr und der
-Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung) vom 15. Dezember 2023
-- ABl StK 2024, S. 18 - Öffentliche Bekanntmachung vom 20. Dezember 2023 -
-Der Rat der Stadt Köln hat in seiner Sitzung am 07.12.2023 aufgrund der §§ 1, 3, 6, 8 und 52 des Gesetzes über den Brandschutz, die Hilfeleistung und den Katastrophenschutz (BHKG NRW) vom 17.12.2015 (SGV. NRW. 213), der §§ 7 und 77 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV. NRW. 2023) und der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land NordrheinWestfalen vom 21.10.1969 (SGV. NRW. 610) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – folgende Satzung beschlossen:
+Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung) vom 16.12.2024
+- ABl StK 2025, S.30 - Öffentliche Bekanntmachung vom 18. Dezember 2024 -
+Der Rat der Stadt Köln hat in seiner Sitzung am 12.12.2024 aufgrund der §§ 1, 3, 6, 8 und 52 des Gesetzes über den Brandschutz, die Hilfeleistung und den Katastrophenschutz (BHKG NRW) vom 17.12.2015 (SGV. NRW. 213), der §§ 7 und 77 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV. NRW. 2023) und der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land NordrheinWestfalen vom 21.10.1969 (SGV. NRW. 610) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – folgende Satzung beschlossen:
 I. Aufgaben
 § 1 Abwehrender Brandschutz (1) Die Stadt Köln unterhält eine Feuerwehr als öffentliche Einrichtung. (2) Aufgabe der Feuerwehr ist die Brandbekämpfung (Brandschutz) sowie die Hilfeleistung bei Unglücksfällen oder solchen öffentlichen Notständen, die durch Naturereignisse, Explosionen oder ähnliche Vorkommnisse verursacht werden (Pflichtaufgaben nach § 1 Abs. 1 BHKG).
 II. Kostenersatz
@@ -35,10 +35,10 @@ II. Kostenersatz
 III. Schlussvorschriften
 § 5 Auslagenersatz Besondere bare Auslagen, die im Zusammenhang mit einem kostenersatzpflichtigen Einsatz entstehen, sind zu ersetzen, auch wenn eine Befreiung von der Kostenersatzpflicht besteht.
 
-§ 6 Inkrafttreten (1) Diese Satzung tritt zum 01.01.2024 in Kraft. (2) Gleichzeitig tritt die Satzung über die Erhebung von Kostenersatz für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung) vom 02.10.2021 (Öffentliche Bekanntmachung vom 11.10.2021) außer Kraft.
+§ 6 Inkrafttreten (1) Diese Satzung tritt zum 01.01.2025 in Kraft. (2) Gleichzeitig tritt die Satzung über die Erhebung von Kostenersatz für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung) vom 15.12.2023 (Öffentliche Bekanntmachung vom 20.12.2023) außer Kraft.
 
 Kostentarif zur Satzung über die Erhebung von Kostenersatz für die Leistungen der Berufsfeuer-
-wehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung) vom 15. Dezember 2023
+wehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzung)
 
 I. Kostenersatz
 1. Stundensätze Personal 1.1 Beamte der Laufbahngruppe 1, zweites Einstiegsamt
@@ -47,7 +47,7 @@ I. Kostenersatz
 (ehemals höherer feuerwehrtechnischer Dienst)
 
 je Stunde
-56,00 € 70,00 € 93,00 €
+56,00 € 73,00 € 93,00 €
 
 2. Stundensätze Fahrzeuge
 
@@ -59,13 +59,13 @@ Löschgruppenfahrzeug (LF)
 
 Tragkraftspritzenfahrzeug-Wasser (TSF-W)
 
-6,00 €
+5,00 €
 
 2.1.2 Pulvertanklöschfahrzeug (PTLF)
 
 Tanklöschfahrzeug (TLF)
 
-5,00 €
+8,00 €
 
 2.1.3 Drehleiter (DLK)
 
@@ -93,11 +93,11 @@ inkl. Feuerwehranhänger (FWA)
 
 Rettungsbus (R-BUS)
 
-3,00 €
+2,00 €
 
 2.3.2 Kranwagen (KRAN)
 
-3,00 €
+4,00 €
 
 2.3.3 Rüstwagen (RW)
 
@@ -105,7 +105,9 @@ Rettungsbus (R-BUS)
 
 2.3.4 Gerätewagen (GW)
 
-Lastkraftwagen (LKW) Messfahrzeug (MFZ) inkl. Feuerwehranhänger (FWA) 2.3.5 Wechselladerfahrzeug (WLF) inkl. Abrollbehälter (AB) 2.4 Wasserfahrzeuge 2.4.1 Rettungsboot (RTB) inkl. Feuerwehranhänger (FWA) 2.4.2 Löschboot (LB)
+Lastkraftwagen (LKW)
+
+Messfahrzeug (MFZ) inkl. Feuerwehranhänger (FWA) 2.3.5 Wechselladerfahrzeug (WLF) inkl. Abrollbehälter (AB) 2.4 Wasserfahrzeuge 2.4.1 Rettungsboot (RTB) inkl. Feuerwehranhänger (FWA) 2.4.2 Löschboot (LB)
 
 2,00 € 1,00 €
 1,00 € 1,00 €
