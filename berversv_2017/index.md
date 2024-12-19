@@ -18,7 +18,7 @@
 - [§ 5 Gesonderte Gewinn- und Verlust-Rechnungen in besonderen Fällen](0005.md)
 - [§ 6 Gesonderte Gewinn- und Verlust-Rechnungen der Rückversicherungsunternehmen](0006.md)
 - [§ 7 Gesonderte Gewinn- und Verlust-Rechnungen der Pensionskassen](0007.md)
-- [§ 8 Einzelheiten der Formblatteinreichung einschließlich einzuhaltender Fristen](0008.md)
+- [§ 8 Fristen für die Einreichung](0008.md)
 
 ### Abschnitt 3 Formgebundene Erläuterungen
 
@@ -49,10 +49,15 @@
 - [§ 21 Abgrenzungsmerkmale](0021.md)
 - [§ 22 Anzuwendende Vorschriften](0022.md)
 
-## Kapitel 4 Formblätter und Nachweisungen
+## Kapitel 4 Ausfüllen der Formulare und Einreichung
 
 - [§ 23 Kennzahlen und Versicherungszweige](0023.md)
-- [§ 24 Anwendung der Formblätter und Nachweisungen](0024.md)
+- [§ 24 Anwendung der Formulare](0024.md)
+- [§ 24a Elektronische Einreichung](0024a.md)
+- [§ 24b Datenformate und Einreichungsvorgaben](0024b.md)
+- [§ 24c Zusammen einzureichende Formularteile](0024c.md)
+- [§ 24d Korrekturmeldungen](0024d.md)
+- [§ 24e Zurückweisung von Daten](0024e.md)
 
 ## Kapitel 5 Ordnungswidrigkeiten
 
@@ -63,5 +68,5 @@
 - [§ 26 Ausnahme von der Berichtspflicht](0026.md)
 - [§ 27 Übergangsvorschriften](0027.md)
 - [Anlage 1 (zu § 23)Kennzahlen und Versicherungszweige](anlage-1.md)
-- [Anlage 2 (zu § 24)Anwendung der Formblätter und Nachweisungen](anlage-2.md)
-- [Anlage 3 (zu § 1 Absatz 2 und § 19 Absatz 2)Formblätter und Nachweisungen](anlage-3.md)
+- [Anlage 2 (zu § 24)Anwendung der Formulare](anlage-2.md)
+- [Anlage 3 (zu § 1 Absatz 2 und § 19 Absatz 2)Formulare](anlage-3.md)

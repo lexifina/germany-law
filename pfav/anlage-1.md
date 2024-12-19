@@ -32,8 +32,8 @@
 | 61 | Rumänien |
 | 62 | Bulgarien |
 | 63 | Kroatien |
-| 70 | Europa |
-| 71 | Europäische Gemeinschaft (EG) |
+| 70 | (weggefallen) |
+| 71 | (weggefallen) |
 | 72 | Europäischer Wirtschaftsraum (EWR) |
 | 73 | Teilnehmerstaaten der Wirtschafts- und Währungsunion (WWU) |
 | 81 | USA |

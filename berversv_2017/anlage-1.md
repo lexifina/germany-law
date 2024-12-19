@@ -49,11 +49,11 @@ und die dafür zu setzenden Kennzahlen
 | 61 | Rumänien |
 | 62 | Bulgarien |
 | 63 | Kroatien |
-| 70 | Europa |
-| 71 | Europäische Union (EU) |
+| 70 | (weggefallen) |
+| 71 | (weggefallen) |
 | 72 | Europäischer Wirtschaftsraum (EWR) |
-| 73 | Teilnehmerstaaten der Wirtschafts- und Währungsunion (WWU) |
-| 81 | USA |
+| 73 | (weggefallen) |
+| 81 | (weggefallen) |
 | 99 | Ausländisches Versicherungsgeschäft (insgesamt) |
 | 00 | Gesamtes Versicherungsgeschäft |
 Abschnitt C
@@ -69,6 +69,7 @@ zu Versicherungszweigen (Vz) und die dafür zu setzenden Kennzahlen (Kz)
 | 01.1.5 | Pflegerentenversicherung | 19 |
 | 01.1.6 | übrige und nicht aufgegliederte Einzelversicherung (einschließlich der Heirats- und Geburtenversicherung), aber ohne Sonstige Lebensversicherung | 19; 20 |
 | 01.1.7 | Kapitalbildende Lebensversicherung mit überwiegendem Erlebensfallcharakter nach § 1 AltZertG | 19 |
+| 01.1.8 | Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238 in der Ansparphase0 | 19 |
 | 01.2 | Kollektivversicherung mit Überschussbeteiligung, bei der das Anlagerisiko vom Versicherungsunternehmen getragen wird (ohne Zusatzversicherungen) | 19; 20 |
 | 01.2.1 | Kapitalversicherung mit überwiegendem Todesfallcharakter (ohne Kennzahlen 01.2.2 und 01.2.3) | 19 |
 | 01.2.2 | Bausparrisikoversicherung | 19 |
@@ -76,6 +77,7 @@ zu Versicherungszweigen (Vz) und die dafür zu setzenden Kennzahlen (Kz)
 | 01.2.4 | übrige und nicht aufgegliederte Kollektivversicherung (einschließlich der Heirats- und Geburtenversicherung), aber ohne Sonstige Lebensversicherung | 19; 20 |
 | 01.2.5 | Kapitalbildende Lebensversicherung mit überwiegendem Erlebensfallcharakter nach § 1 AltZertG | 19 |
 | 01.2.6 | Reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a BetrAVG | 21 |
+| 01.2.7 | Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238 in der Ansparphase0 | 19 |
 | 01.3 | Zusatzversicherung (zu Einzel- und Kollektivversicherungen) | 19 |
 | 01.3.1 | Unfall-Zusatzversicherung | 19 |
 | 01.3.2 | Berufsunfähigkeits-, Invaliditäts-Zusatzversicherung | 19 |
@@ -88,6 +90,7 @@ zu Versicherungszweigen (Vz) und die dafür zu setzenden Kennzahlen (Kz)
 | 01.4.3 | Tontinengeschäfte | 22 |
 | 01.4.4 | Kapitalisierungsgeschäfte | 23 |
 | 01.4.5 | Lebensversicherung nach § 1 AltZertG, bei der das Anlagerisiko vom Versicherungsnehmer getragen wird | 21 |
+| 01.4.6 | Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238 in der Ansparphase0 | 19 |
 | 01.5 | Geschäfte der Verwaltung von Versorgungseinrichtungen | 24 |
 | 02 | Vz: Krankenversicherung | 2a, b |
 | 02.1 | Einzel-Krankheitskostenvollversicherung (ambulant und stationär) | 2b |
@@ -326,6 +329,9 @@ zu Versicherungszweigen (Vz) und die dafür zu setzenden Kennzahlen (Kz)
 | 25 | Vz: Luft- und Raumfahrzeug-Haftpflichtversicherung | 11 |
 | 25.1 | Luftfahrt-Haftpflichtversicherung (einschließlich der Luftfrachtführer-Haftpflichtversicherung) | 11 |
 | 25.2 | Raumfahrzeug-Haftpflichtversicherung | 11 |
+| 26 | Vz: Cyberversicherung (einschließlich der Betriebsunterbrechungsversicherung aufgrund von Cybervorfällen) | 9; 13; 16 d, e, f, i, k |
+| 26.1 | Cyberversicherung Stand alone | 9; 13; 16 d, e, f, i, k |
+| 26.2 | Cyberversicherung Cyber-Zusatzdeckungen | 9; 13; 16 d, e, f, i, k |
 | 28 | Vz: Sonstige Sachversicherung (09, 10, 11, 12, 15, 16, 17, 18, 21 und 23 insgesamt) |  |
 | 29 | Vz: Sonstige Schadenversicherung | 3; 7; 8; 9; 13; 16; 18 |
 | 29.1 | sonstige Sachschadenversicherung | 3; 8; 9 |
@@ -388,6 +394,7 @@ zu Versicherungszweigen (Vz) und die dafür zu setzenden Kennzahlen (Kz)
 | übernommenes Versicherungsgeschäft: | 1 bis 24 |
 _________________
 Anmerkungen zum Abschnitt C
+| 0 | Verträge in der Auszahlungsphase sind in der passenden allgemeinen Unterart (01.1.3, 01.2.4 oder 01.4.1) zu erfassen. |
 | 1 | Hierzu zählen alle Landfahrzeuge, deren durch die Bauart bedingte Höchstgeschwindigkeit 6 Kilometer pro Stunde nicht übersteigt oder deren Halter gemäß § 2a des Pflichtversicherungsgesetzes nicht der Pflichtversicherung in der Kraftfahrzeug-Haftpflichtversicherung unterliegen. |
 | 2 | Jeweils einschließlich der Kaskoversicherung nicht versicherungspflichtiger Landfahrzeuge (mit und ohne eigenen Antrieb) gemäß Fußnote 1. |
 | 3 | Hierzu gehören alle Versicherungen des Hausrats im In- und Ausland, unabhängig davon, nach welchen Versicherungsbedingungen sie abgeschlossen wurden und ob sie eine oder mehrere Risikoarten umfassen; einschließlich der lebenslänglichen Hausratsversicherung. |
@@ -398,7 +405,7 @@ Anmerkungen zum Abschnitt C
 | 8 | Diese Kombination einer Beistandsleistungsversicherung mit einem KH-Anteil (Mallorca-Police) kann ausschließlich dem Versicherungszweig 24 zugeordnet werden, weil der KH-Anteil nur geringfügig ist und den Gesamtcharakter der Versicherung nicht beeinflusst. Die Zuordnung kombinierter Bedingungswerke kann im Einzelfall schwierig sein und sollte stets mit der Aufsichtsbehörde abgestimmt werden. |
 | 9 | Die Schaden- und Unfallversicherung insgesamt ergibt sich wie folgt: a) im selbst abgeschlossenen Versicherungsgeschäft: Summe der Versicherungszweige gemäß den Kennzahlen 02 bis 29; b) im in Rückdeckung übernommenen Versicherungsgeschäft: Summe der Versicherungszweige gemäß den Kennzahlen 01 bis 29; c) im gesamten Versicherungsgeschäft: Summe der unter den Buchstaben a und b genannten Versicherungszweige. |
 Abschnitt D
-Bestandsgruppen,
+Bestandsgruppen
 100 Inlandsgeschäft (einschließlich Dienstleistungsgeschäft)
   110 Einzelversicherung mit Überschussbeteiligung, bei der das Anlagerisiko vom Versicherungsunternehmen getragen wird
     111 Kapitalbildende Lebensversicherung (einschließlich vermögensbildende Lebensversicherungen) mit überwiegendem Todesfallcharakter
@@ -408,6 +415,7 @@ Bestandsgruppen,
     115 Pflegerentenversicherung (einschließlich Pflegerenten-Zusatzversicherungen)
     116 Übrige Tarife, aber ohne Sonstige Lebensversicherung (130)
     117 Kapitalbildende Lebensversicherung mit überwiegendem Erlebensfallcharakter nach § 1 AltZertG
+    118 Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238 in der Ansparphase
   120 Kollektivversicherung mit Überschussbeteiligung, bei der das Anlagerisiko vom Versicherungsunternehmen getragen wird
     121 Kapitalversicherung ohne eigene Vertragsabrechnung mit überwiegendem Todesfallcharakter (ohne 122 und 123)
     122 Bausparrisikoversicherung
@@ -416,12 +424,14 @@ Bestandsgruppen,
     125 Übrige Tarife ohne eigene Vertragsabrechnung, aber ohne Sonstige Lebensversicherung (130)
     126 Kapitalbildende Lebensversicherung mit überwiegendem Erlebensfallcharakter nach § 1 AltZertG
     127 Reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a BetrAVG
+    128 Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238 in der Ansparphase
   130 Sonstige Lebensversicherung
     131 Lebensversicherung, bei der das Anlagerisiko vom Versicherungsnehmer getragen wird
     132 Lebensversicherung ohne Überschussbeteiligung, bei der das Anlagerisiko vom Versicherungsunternehmen getragen wird
     133 Tontinengeschäfte
     134 Kapitalisierungsgeschäfte
     135 Lebensversicherung nach § 1 AltZertG, bei der das Anlagerisiko vom Versicherungsnehmer getragen wird
+    136 Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238, bei dem das Anlagerisiko vom Versicherungsnehmer getragen wird, in der Ansparphase
   140 Eigenkapital und sonstige Dienstleistungen einschließlich des Geschäfts der Verwaltung von Versorgungseinrichtungen
 200 Auslandsgeschäft (Niederlassungsgeschäft)
   Die regionale Herkunft des europäischen Versicherungsgeschäfts und die dafür zu setzenden Kennzahlen ergeben sich aus Anlage 1 Abschnitt B. Diesen Kennzahlen ist die Zahl 2 voranzusetzen.

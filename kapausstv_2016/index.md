@@ -42,6 +42,11 @@
 ## Kapitel 3 Berichterstattung gegenüber der Aufsichtsbehörde
 
 - [§ 19 Solvabilitätsnachweis](0019.md)
+- [§ 19a Elektronische Einreichung](0019a.md)
+- [§ 19b Datenformate und Einreichungsvorgaben](0019b.md)
+- [§ 19c Zusammen bei der Bundesanstalt einzureichende Formularteile](0019c.md)
+- [§ 19d Korrekturmeldungen gegenüber der Bundesanstalt](0019d.md)
+- [§ 19e Zurückweisung von Daten](0019e.md)
 
 ## Kapitel 4 Schlussvorschriften
 
