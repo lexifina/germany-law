@@ -1,0 +1,176 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2024-12-19T17:30:00+01:00
+- Ende: 2024-12-19T23:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6294
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6294
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=602392
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Entmietungen und abrissbedrohte Wohnungen im Bezirk Mitte - beantwortet
+- TOP 2.2: Fahrradstraße am Charles-Corcelle-Ring - beantwortet
+- TOP 2.3: Barrierefreiheit in Wahllokalen - schriftlich beantwortet
+- TOP 2.4: Bolz- und Spielplatz Mollstraße 8-11 - schriftlich beantwortet
+- TOP 2.5: Nachfragen zur Erika-Mann-Grundschule - schriftlich beantwortet
+- TOP 2.6: Inklusion im Bezirksamt Mitte - schriftlich beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - beantwortet
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - (offen)
+- TOP 5.1: Mängel bei der Verfolgung illegaler Ferienwohnungen beseitigen - überwiesen
+- TOP 5.2: Kurfürstenstraße 62: Vorvertrag für bezahlbare Mieten in öffentlicher Hand! - überwiesen
+- TOP 5.3: Keine Kürzung bei Umweltbildung! - überwiesen
+- TOP 5.4: Messung und Erfassen von Verkehrsströmen mit einer nachfolgenden Erstellung einer Risikoanalyse - überwiesen
+- TOP 5.5: Abriss Kurfürstenstraße 75 (I): Mieter*innen schützen, Bebauungsplan anpassen - überwiesen
+- TOP 5.6: BSR rechtzeitig über Baumaßnahmen im Straßenland informieren - überwiesen
+- TOP 5.7: Abriss Kurfürstenstraße 75 (II): Anwendung Zweckentfremdungsrecht in Kerngebieten - überwiesen
+- TOP 5.8: Bargeldloses Zahlen beim öffentlichen Eislauf am Erika-Hess-Eisstadion prüfen - überwiesen
+- TOP 5.9: Am Abend wieder mehr Licht im Nikolaiviertel - überwiesen
+- TOP 5.10: Die Uferhallen erhalten! - überwiesen
+- TOP 5.11: Ist die Fußgängerzone in der Rosenstraße am Alex noch zeitgemäß? - überwiesen
+- TOP 5.12: Mieter*innen in Milieuschutzgebieten besser informieren und aufklären! - überwiesen
+- TOP 5.13: Übersicht über soziale Infrastruktur und deren Angebote - überwiesen
+- TOP 5.14: Mieter*innen in Erhaltungsgebieten niederschwellig informieren - überwiesen
+- TOP 5.15: Randsportarten fördern - überwiesen
+- TOP 5.16: Angsträume zurückdrängen – Tatsächliche Sicherheit erhöhen - überwiesen
+- TOP 5.17: Solidarität statt Ausgrenzung: Moratorium für die Räumung von obdachlosen Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Lösung für die Mensa an der Erika-Mann-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Schutz demokratischer Institutionen und politischer Akteure im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Schäden im SportPark Poststadion vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Mülleimer auf allen Toilettenkabinen unserer Sportflächen - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Wahl einer stellvertretenden Bürger*innendeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Alle sechs geplanten Pavillons in die Karl-Marx-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Teehaus im Englischen Garten - Unterstützung beim Wiederaufbau! - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Wohnungsbau und Quartiersentwicklung kiezverträglich gestalten – aber bitte auch in Mitte! - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Qualifizierung des Bolzplatzes in der Derfflingerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Bezirkliche Ausbildungsoffensive für das Standesamt - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Sport und Bewegungsangebote in den Unterkünften für Geflüchtete Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Bereitstellung von Informationen zum Themenbereich „Asyl und Flucht“ - ohne Änderungen in der BVV beschlossen
+- TOP 5.30: Bezirkliche Flächen des Rathausvorplatzes Wedding regelmäßig und gründlich reinigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: “Werbeflächen” auf Parkautomaten sinnvoll nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: Aufbau eines Arbeitskreises zur FLINTA-Sportförderung - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.33: Weihnachtsbeleuchtung ab 2025 sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: Syrische Gemeinde Rojava als Option für eine zukünftige Städtepartnerschaft prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: Zentraler Festplatz – 2.000 Wohnungen für Mitte bitte - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Gemeinsam statt Einsam: Einsame nicht allein lassen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.37: Öffentliche Räume attraktiver machen - mehr Sitzbänke für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.38: Sicherer Fußgängerüberweg in der Müller-/Ecke Burgsdorfstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.39: Sichere Wege und ausreichender Denkmalschutz, auch im Großen Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.40: Bürgerbeteiligung Baumaßnahmen Spree-Uferwände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.41: Maßnahmen zur Erhöhung der Verkehrssicherheit im Englischen Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.42: Kritische Infrastruktur– Karte für Straßenpumpen und Notwasserbrunnen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.43: Nicht nur die Friedrichstraße, sondern die ganze Friedrichstadt soll lebenswerter werden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.44: Schulwegsicherheit in der Singerstraße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.45: Tram-Baustelleneinrichtung im Kreuzungsbereich Alt Moabit, Paul- und Werftstraße: Aus-weisung als Geh- und Fahrradweg bedroht Existenz ansässiger Unternehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.46: Programm „Neustart Wirtschaft“: Wirtschaft fördern und Ungleichbehandlung beenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.47: Pfandringe für Mitte — gegen Demütigung armer Menschen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.48: Zusätzliche Entsiegelungen beim Bau der Radschnellverbindungen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.49: Sicherung des Rosengartens im Humboldthain - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.50: Östlichen Schillerpark aufwerten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.51: Perleberger Straße zur 30er-Zone — Lärm- & Umweltbelastung reduzieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.52: Straßennamen-Erläuterungsschilder - Pohlstraße und Jagowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.53: Sicheres Radfahren auf der Straße des 17. Juni - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.54: Eine Zone für den Fußverkehr am Hackeschen Markt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.55: Baumspenden für Mitte dauerhaft ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.56: Bastion im Schillerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.57: Tempolimit 30 auf der Bachstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.58: Kopfsteinpflaster barrierefrei gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.59: Tischtennisplatten für den Klara-Franke-Quartiersplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.60: Kein Parken mehr auf der Swinemünder Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.61: Faustballturnier im Schillerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.62: Fußgängerüberweg Schwedter Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.63: Hanseatenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.64: Unterstützung des Radsportvereins Wheel Divas e.V. bei der Durchführung zum 30-jährigen Jubiläum der Internationalen Kids-Tour Berlin vom 24.- 27. August 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.65: Unterstützung des Radsportvereins Wheel Divas e.V. bei der Durchführung zum 30-jährigen Jubiläum der Internationalen Kids-Tour Berlin vom 24. – 27. August 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.66: Keine obdachlosenfeindliche und ausgrenzende Architektur in Berlin Mitte! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.67: Den Weltraum in die Schulen holen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.68: Räume für Nachbarschaft und Gemeinwohl im Schillerparkcenter schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.69: ZEUS – Gemeinsam stark für Mitte! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.70: Freies WLAN auch in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.71: Zerstörtes jüdisches Mahnmal „Fenster der Erinnerung“ am U-Bahnhof Hansaplatz umgehend wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Thematische Stunde - (offen)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Geflüchtetenunterkunft am Standort Weinbergsweg 14 - beantwortet
+- TOP 7.2: Wie weiter mit dem Central Tower? - beantwortet
+- TOP 7.3: Begegnungsstätten in Moabit Ost - nicht nur für Senior:innen - beantwortet
+- TOP 7.4: Mietwucher: Bearbeitungsstand und Personalbedarf - schriftlich beantwortet
+- TOP 7.5: Engelbecken - schriftlich beantwortet
+- TOP 7.6: Neue Städtebaufördergebiete in Berlin-Mitte - schriftlich beantwortet
+- TOP 7.7: Grüner Stadtrat im Alleingang? - schriftlich beantwortet
+- TOP 7.8: Sperrung des Helgoländer Ufers - schriftlich beantwortet
+- TOP 7.9: Anti-Israel-Sticker mit Rasierklingen - schriftlich beantwortet
+- TOP 7.10: Ist Mitte auf Sylvester vorbereitet? - schriftlich beantwortet
+- TOP 7.11: Baumaßnahmen Louise-Schroeder-Platz - schriftlich beantwortet
+- TOP 7.12: Wiederaufforstung nach der Fällung von Straßenbäumen einschließlich fehlender Personalressourcen für die Wiederaufforstung - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Zentraler Festplatz - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Aus Alt wird Neu? Büroflächen in Mitte - beantwortet
+- TOP 9.2: Verschwendung von Steuergeldern im Charles-Corcelle-Ring - beantwortet
+- TOP 9.3: Wie geht das Bezirksamt mit den Prüfungen des Rechnungshofes zur Zweckentfremdung um? - beantwortet
+- TOP 9.4: Vergabe von Hallenzeiten - beantwortet
+- TOP 9.5: Verkehrsmaßnahmen im Sprengelkiez - schriftlich beantwortet
+- TOP 9.6: Beabsichtigt das Bezirksamt, Beschlüsse der BVV zu vorsätzlich missachten? - schriftlich beantwortet
+- TOP 9.7: Parkeinnahmen am Erika-Hess-Eisstadion – unlösbare Aufgabe für das Bezirksamt? - schriftlich beantwortet
+- TOP 9.8: Grüner Filz beim Panke Parcours? - schriftlich beantwortet
+- TOP 9.9: Monitoring Soziale Stadtentwicklung - schriftlich beantwortet
+- TOP 9.10: Kiezblockfree.com - schriftlich beantwortet
+- TOP 9.11: Pollerbü - wie weit reicht der Pollerirrsinn? - schriftlich beantwortet
+- TOP 9.12: Fahrradweg auf der Torstraße - schriftlich beantwortet
+- TOP 9.13: Kinder kommen seit 10 Jahren nicht auf ihren Spielplatz - schriftlich beantwortet
+- TOP 9.14: Moratorium des Senats für die südliche Luisenstadt - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Wahl von Schiedspersonen für die Schiedsamtsbezirke 4 und 6 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Wahl eines Stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Dringende Reparatur und Erweiterung der defekten Alarmanlage an der Möwensee-Grundschule umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Erhalt der Eltern-, Frauen- und Jugendintegrationskurse und der Wiederholungsstunden sowie des gestuften Angebotes an Berufssprachkursen - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Maßnahmen im Charles-Corcelle-Ring aussetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Weihnachtsmärkte ohne Barrieren - überwiesen
+- TOP 14.3: Neue Absprachen zwischen der niedrigschwelligen Drogenhilfe und der Polizei am Leopoldplatz - überwiesen
+- TOP 14.4: Transparente Beteiligung am Karstadt-Gebäude am Leopoldplatz - ohne Änderungen in der BVV beschlossen
+- TOP 15: Entschließungen - (offen)
+- TOP 15.1: Keine weiteren Kürzungen im Kinder- und Jugendbereich - überwiesen
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Alle Schulen mit Defibrillatoren ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Sonnensegel Plansche Schillerpark - in der BVV abgelehnt
+- TOP 16.3: Potentiale des bezirklichen Forderungsmanagements besser nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 16.4: Marode Bäume als Gefahr für Leib und Leben - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Jährlicher Energiebericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Seniorinnen und Senioren in Mitte stärken - Entwicklungsplan für Senior*innenarbeit auflegen - vertagt
+- TOP 17.3: Friedensstatue bewahren – Gedenken an Opfer sexualisierter Gewalt ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Jetzt beginnen! Künstler*innen-Wettbewerb für eine Friedensstatue zur Erinnerung an sexualisierte Gewalt gegenüber Frauen in kriegerischen Konflikten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Sicherheit für Friedensstatue gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Fußverkehr statt Durchgangsverkehr im Brüsseler Kiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Umbenennung Nettelbeckplatz einleiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: Keine Wohnhausabrisse und Mieter*innenvertreibung in der Tegeler Straße 2-5 sowie Tegeler Straße 6-7 und Tegeler Straße 1/Fennstraße 33/34 durch Bayer-Schering II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Tegeler Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: Kein Abriss von 140 Wohnungen in der Tegeler Straße! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.11: Mieter*innen im Mettmannkiez unterstützen – Umstrukturierungssatzung für die Fennstraße 33,34/ Tegeler Straße 1 sowie Tegeler Straße 2-7 erlassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.12: Wohngebäude Tegeler Straße - Ist die Abrissverfügung rechtsgültig? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.13: Verbesserung der Barrierefreiheit in Schule und Jugendeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.14: Sichere Fußquerung Unter den Linden - vertagt
+- TOP 17.15: Mehr Verkehrssicherheit im nördlichen Soldiner Kiez - vertagt
+- TOP 17.16: Im Haus der Statistik ein Haus der Teilhabe integrieren - vertagt
+- TOP 17.17: Rückbau-Moratorium für Schankvorgärten - vertagt
+- TOP 17.18: Entscheidungen der Unteren und Oberen Denkmalschutzbehörde transparent machen - vertagt
+- TOP 17.19: Barrierearmen Zugang zum Rathaus Tiergarten sicher ermöglichen - vertagt
+- TOP 17.20: Sozialamt im Dienst der Menschen 2 - Bedarfe beim Wohnen lebensnah berücksichtigen - vertagt
+- TOP 17.21: Wohnraum im Schillerpark-Center Müllerstr. schaffen - vertagt
+- TOP 17.22: Kein Abbau von Bildungsangeboten an Mittes Volkshoch-, Musik- und Jugendkunstschulen wegen veränderter arbeitsrechtlicher Bedingungen für seine Honorarkräfte - vertagt
+- TOP 17.23: Teilnahme an dem Bewerbungsverfahren für das Bund-Länder Förderprogramm „Nach-haltige Erneuerung“ mit dem Gebiet „Osloer Straße“ - vertagt
