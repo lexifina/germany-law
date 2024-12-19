@@ -1,0 +1,52 @@
+# Rat der Gemeinde Ladbergen (62. Sitzung)
+
+- Körperschaft: Gemeinde Ladbergen
+- Beginn: 2024-12-19T18:00:00+01:00
+- Ende: 2024-12-19T19:55:00+01:00
+- Ort: Rathaus, Jahnstraße 5, 49549 Ladbergen, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ladbergen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQTeIyr3WqiILbft3KkQqRU
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1831
+- Quelle: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZalKP4vZ1U08JYFuH2OU5DFvoPgHwGLRtl38wDrDc2Xd/Bekanntmachung_Rat_der_Gemeinde_Ladbergen_19.12.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQgjDxfhJa8SvTLQr87NsUo0rQv3xysYFaTCm06tNpVO/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Ladbergen_19.12.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Bericht der Verwaltung über die Durchführung von Beschlüssen
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Haushalt
+- TOP 3.1: Antrag der FDP - Fraktion hier: Antrag zum Haushaltsplan 2025 der Gemeinde Ladbergen - 2 Ja, 20 Nein, 1 Enthaltung(en)
+- TOP 3.2: Antrag der CDU - Fraktion hier: Antrag zum Haushalt 2025 - 8 Ja, 13 Nein, 2 Enthaltung(en)
+- TOP 3.3: Antrag der Fraktion Bündnis 90/Die Grünen hier: Antrag Hebesatz Gewerbesteuer - 12 Ja, 10 Nein, 1 Enthaltung(en)
+- TOP 3.4: Antrag der CDU - Fraktion hier: Antrag zum Haushalt 2025 - 13 Ja, 10 Nein, 0 Enthaltung(en)
+- TOP 3.5: Antrag der FDP - Fraktion hier: Antrag zum Haushaltsplan bzw. Stellenplan 2025 der Gemeinde Ladbergen - 10 Ja, 13 Nein, 0 Enthaltung(en)
+- TOP 3.6: Antrag der Fraktion Bündnis 90/Die Grünen hier: Antrag Hausmeisterstelle
+- TOP 3.7: Antrag der SPD - Fraktion hier: Antrag Höhergruppierungen
+- TOP 3.7.1: Antrag der SPD - Fraktion hier: Antrag Höhergruppierungen - 9 Ja, 14 Nein, 0 Enthaltung(en)
+- TOP 3.8: Antrag der FDP-Fraktion hier: Antrag auf Anhebung des Hebesatzes für die Vergnügungssteuer 3. Satzung zur Änderung der Satzung über die Erhebung von Vergnügungssteuer in der Gemeinde Ladbergen (Vergnügungssteuersatzung) vom 18.12.2009 - Einstimmig
+- TOP 3.9: Grundsteuerhebesatzsatzung für das Haushaltsjahr 2025 - Einstimmig
+- TOP 3.10: 7. Änderungssatzung über die Abfallentsorgung in der Gemeinde Ladbergen - Einstimmig
+- TOP 3.11: 12. Änderungssatzung zur Erhebung von Kanalanschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse - 22 Ja, 0 Nein, 1 Enthaltung(en)
+- TOP 3.12: 17. Änderungssatzung über die Entsorgung von Grundstücksentwässerungsanlagen - 16 Ja, 7 Nein, 0 Enthaltung(en)
+- TOP 3.13: 10. Änderungssatzung über die Straßenreinigung in der Gemeinde Ladbergen - Einstimmig
+- TOP 3.14: Antrag der SPD - Fraktion hier: Antrag auf Streichung der Haushaltsmittel für die Maßnahme 361.010-0003
+- TOP 3.14.1: Antrag der SPD - Fraktion hier: Antrag auf Streichung der Haushaltsmittel für die Maßnahme 361.010-0003 - Einstimmig
+- TOP 3.15: Antrag der SPD - Fraktion hier: Antrag Errichtung öffentlicher Toiletten - 16 Ja, 4 Nein, 3 Enthaltung(en)
+- TOP 3.16: Antrag der SPD - Fraktion hier: Antrag Gestaltung Durchfahrt Friedenspark - 22 Ja, 0 Nein, 1 Enthaltung(en)
+- TOP 3.17: Antrag der SPD - Fraktion hier: Antrag Radweg an der Grevener Straße - Einstimmig
+- TOP 3.18: Haushaltssatzung nebst Anlagen für das Haushaltsjahr 2025 - 21 Ja, 2 Nein, 0 Enthaltung(en)
+- TOP 3.19: Genehmigung bzw. Bekanntgabe des über- und außerplanmäßigen Aufwandes bzw. der über- und außerplanmäßigen Auszahlungen für das III. Quartal 2024 - Einstimmig
+- TOP 4: Wohnhäuser Königsberger Straße / Breslauer Straße Neubau & Umbau der Unterkunft für geflüchtete Menschen - Einstimmig
+- TOP 5: Bauleitplanung
+- TOP 5.1: 4. Änderung des Bebauungsplanes Nr. 21 „Lütke Rott“ der Gemeinde Ladbergen hier: Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB und Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig
+- TOP 5.2: 47. Änderung des Flächennutzungsplanes der Gemeinde Ladbergen hier: Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB und Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig
+- TOP 5.3: Errichtung einer Freiflächen-Photovoltaikanlage in der Gemeinde Ladbergen; 51. Änderung des Flächennutzungsplanes und Aufstellung des Bebauungsplanes Nr. 127 „Freiflächen-Photovoltaikanlage zur Königsbrücke“ hier: Aufstellungsbeschluss - 18 Ja, 5 Nein, 0 Enthaltung(en)
+- TOP 6: Anpassung der Gesellschaftsverträge der Tochtergesellschaften der SWL - Einstimmig
+- TOP 7: Anpassung der Gesellschaftsverträge der Beteiligungen der SWL - Einstimmig
+- TOP 8: Anpassung des Gesellschaftsvertrags der smart optimo GmbH & Co. KG - Einstimmig
+- TOP 9: Anpassung des Gesellschaftsvertrages der Teutoburger Planungs- und Dienstleistungsgesellschaft mbH (TPDG) - Einstimmig
+- TOP 10: Audit Familiengerechte Kommune Gemeinde Ladbergen - Zielvereinbarung - Einstimmig
+- TOP 11: Mitteilungen und Anfragen
