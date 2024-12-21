@@ -30,7 +30,8 @@
 ## Abschnitt 4 Zuständige Behörde und Verfahren
 
 - [§ 17 Zuständige Behörde](0017.md)
-- [§ 18 Befugnisse der Bundesanstalt](0018.md)
+- [§ 18 Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2017/1129 und dieses Gesetzes](0018.md)
+- [§ 18a Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2023/2631](0018a.md)
 - [§ 19 Verschwiegenheitspflicht](0019.md)
 - [§ 20 Sofortige Vollziehung](0020.md)
 
@@ -40,6 +41,7 @@
 - [§ 22 Elektronische Einreichung, Aufbewahrung](0022.md)
 - [§ 23 (weggefallen)](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)
+- [§ 24a Bußgeldvorschriften zur Verordnung (EU) 2023/2631](0024a.md)
 - [§ 25 Maßnahmen bei Verstößen](0025.md)
 - [§ 26 Datenschutz](0026.md)
 - [§ 27 Übergangsbestimmungen zur Aufhebung des Verkaufsprospektgesetzes](0027.md)
