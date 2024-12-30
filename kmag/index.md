@@ -59,20 +59,26 @@
 - [§ 23 Abberufung von Mitgliedern des Leitungsorgans; Übertragung von Organbefugnissen auf Sonderbeauftragte](0023.md)
 - [§ 24 Weitere Maßnahmen gegen Mitglieder des Leitungsorgans](0024.md)
 - [§ 25 Ergänzende Bestimmungen zur Übernahme von Instituten](0025.md)
-- [§ 26 (zukünftig in Kraft)](0026.md)
+- [§ 26 Digitale operationale Resilienz](0026.md)
 
 ### Abschnitt 2 Sonderbestimmungen für Emittenten vermögenswertreferenzierter Token und E-Geld-Token
 
 - [§ 27 Mindeststückelung; Betragsbegrenzung](0027.md)
 - [§ 28 Ergänzende Bestimmungen zum Reservevermögen und zur Sicherung entgegengenommener Geldbeträge](0028.md)
 
-### Abschnitt 3 (zukünftig in Kraft)
+### Abschnitt 3 Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen
 
 - [(XXXX) §§ 29 und 30 (zukünftig in Kraft)](xxxx-29-und-30.md)
+- [§ 29 Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114](0029.md)
+- [§ 30 Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen](0030.md)
 
 ### Abschnitt 4 Handel auf Handelsplattformen für Kryptowerte und Verhinderung von Marktmissbrauch auf Handelsplattformen für Kryptowerte
 
-- [(XXXX) §§ 31 bis 35 (zukünftig in Kraft)](xxxx-31-bis-35.md)
+- [§ 31 Verfolgung von Marktmissbrauch](0031.md)
+- [§ 32 Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114](0032.md)
+- [§ 33 Anzeige straftatbegründender Tatsachen](0033.md)
+- [§ 34 Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate](0034.md)
+- [§ 35 Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte](0035.md)
 - [§ 36 Übermittlung von Insiderinformationen; Verordnungsermächtigung](0036.md)
 
 ## Kapitel 5 Rechnungslegung, Vorlage von Rechnungslegungsunterlagen, Bestellung des Abschlussprüfers und Abschlussprüfung
@@ -88,7 +94,7 @@
 - [§ 42 Maßnahmen bei organisatorischen Mängeln](0042.md)
 - [§ 43 Einstweilige Maßnahmen bei Gefahr](0043.md)
 - [§ 44 Insolvenz](0044.md)
-- [§ 45 (zukünftig in Kraft)](0045.md)
+- [§ 45 Zuordnung verwahrter Kryptowerte, Kosten der Aussonderung](0045.md)
 
 ## Kapitel 7 Straf- und Bußgeldvorschriften
 

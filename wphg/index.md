@@ -18,6 +18,7 @@
 - [§ 8 Übermittlung und Herausgabe marktbezogener Daten; Verordnungsermächtigung](0008.md)
 - [§ 9 Verringerung und Einschränkung von Positionen oder offenen Forderungen](0009.md)
 - [§ 10 Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088, der Verordnung (EU) 2020/852 und der Verordnung (EU) 2020/1503](0010.md)
+- [§ 10a Besondere Befugnisse nach der Verordnung (EU) 2022/2554](0010a.md)
 - [§ 11 Anzeige straftatbegründender Tatsachen](0011.md)
 - [§ 12 Adressaten einer Maßnahme wegen möglichen Verstoßes gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014](0012.md)
 - [§ 13 Sofortiger Vollzug](0013.md)
@@ -62,7 +63,7 @@
 - [§ 32c Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503](0032c.md)
 - [§ 32d Haftung für Angaben im Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503](0032d.md)
 - [§ 32e Sonstige Regelungen hinsichtlich der Ansprüche nach den §§ 32c und 32d](0032e.md)
-- [§ 32f Überwachung und Prüfung der Pflichten nach der Verordnung (EU) 2020/1503; Verordnungsermächtigung](0032f.md)
+- [§ 32f Überwachung und Prüfung der Pflichten der Schwarmfinanzierungsdienstleister nach der Verordnung (EU) 2020/1503 und nach der Verordnung (EU) 2022/2554; Verordnungsermächtigung](0032f.md)
 
 ## Abschnitt 6 Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister
 
@@ -202,11 +203,12 @@
 - [§ 120b Bußgeldvorschriften zur Delegierten Verordnung (EU) 2017/2154](0120b.md)
 - [§ 120c Bußgeldvorschriften zur Verordnung (EU) 2019/1238](0120c.md)
 - [§ 120d Bußgeldvorschriften zur Verordnung (EU) 2020/1503](0120d.md)
+- [§ 120e Bußgeldvorschriften zur Verordnung (EU) 2022/2554](0120e.md)
 - [§ 121 Zuständige Verwaltungsbehörde](0121.md)
 - [§ 122 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0122.md)
 - [§ 123 Bekanntmachung von Maßnahmen](0123.md)
 - [§ 124 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen Transparenzpflichten](0124.md)
-- [§ 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365 und die Verordnung (EU) 2016/1011](0125.md)
+- [§ 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 und die Verordnung (EU) 2022/2554](0125.md)
 - [§ 126 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen Vorschriften der Abschnitte 9 bis 11 und gegen die Verordnung (EU) Nr. 600/2014](0126.md)
 
 ## Abschnitt 18 Übergangsbestimmungen

@@ -47,22 +47,22 @@ Allgemeine Maßnahmen
 | § 23 | Abberufung von Mitgliedern des Leitungsorgans; Übertragung von Organbefugnissen auf Sonderbeauftragte |
 | § 24 | Weitere Maßnahmen gegen Mitglieder des Leitungsorgans |
 | § 25 | Ergänzende Bestimmungen zur Übernahme von Instituten |
-| § 26 | (zukünftig in Kraft) |
+| § 26 | Digitale operationale Resilienz |
 Abschnitt 2
 Sonderbestimmungen für Emittenten vermögenswertreferenzierter Token und E-Geld-Token
 | § 27 | Mindeststückelung; Betragsbegrenzung |
 | § 28 | Ergänzende Bestimmungen zum Reservevermögen und zur Sicherung entgegengenommener Geldbeträge |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 29 | (zukünftig in Kraft) |
-| § 30 | (zukünftig in Kraft) |
+Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen
+| § 29 | Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114 |
+| § 30 | Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen |
 Abschnitt 4
 Handel auf Handelsplattformen für Kryptowerte und Verhinderung von Marktmissbrauch auf Handelsplattformen für Kryptowerte
-| § 31 | (zukünftig in Kraft) |
-| § 32 | (zukünftig in Kraft) |
-| § 33 | (zukünftig in Kraft) |
-| § 34 | (zukünftig in Kraft) |
-| § 35 | (zukünftig in Kraft) |
+| § 31 | Verfolgung von Marktmissbrauch |
+| § 32 | Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114 |
+| § 33 | Anzeige straftatbegründender Tatsachen |
+| § 34 | Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate |
+| § 35 | Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte |
 | § 36 | Übermittlung von Insiderinformationen; Verordnungsermächtigung |
 Kapitel 5
 Rechnungslegung, Vorlage von Rechnungslegungsunterlagen, Bestellung
@@ -77,7 +77,7 @@ Maßnahmen in besonderen Fällen
 | § 42 | Maßnahmen bei organisatorischen Mängeln |
 | § 43 | Einstweilige Maßnahmen bei Gefahr |
 | § 44 | Insolvenz |
-| § 45 | (zukünftig in Kraft) |
+| § 45 | Zuordnung verwahrter Kryptowerte, Kosten der Aussonderung |
 Kapitel 7
 Straf- und Bußgeldvorschriften
 | § 46 | Strafvorschriften |
