@@ -36,7 +36,7 @@ und Steuerbevollmächtigte
 - [§ 29 Überdenken der Prüfungsbewertung](0029.md)
 - [§ 30 Nichtteilnahme an der mündlichen Prüfung](0030.md)
 - [§ 31 Niederschrift über die mündliche Prüfung](0031.md)
-- [§ 32 Aufbewahrungsfristen](0032.md)
+- [§ 32 Aufbewahrungspflichten](0032.md)
 - [§ 33](0033.md)
 
 ## Zweiter Teil Bestellung als Steuerberater oder
@@ -75,8 +75,3 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 - [§ 55 Nachweis des Versicherungsabschlusses](0055.md)
 - [§ 56 Anzeige von Veränderungen](0056.md)
 - [§ 57](0057.md)
-
-## Siebter Teil Übergangs- und Schlußvorschriften
-
-- [§ 58 Übergangsregelung](0058.md)
-- [§ 59](0059.md)
