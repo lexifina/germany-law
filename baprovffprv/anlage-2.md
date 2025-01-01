@@ -1,0 +1,22 @@
+# Anlage 2 (zu § 17)Zeugnisinhalte
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
+5. Bezeichnung und Fundstelle dieser Fortbildungsprüfungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich
+1. Benennung der Prüfungsteile,
+2. Bewertung des Prüfungsteils „Kundenbedarfsfelder“,
+3. Bewertung des Prüfungsteils „Kernprozesse, Steuerung und Zusammenarbeit“,
+4. Bewertung der im Prüfungsteil „Kundenbedarfsfelder“ erbrachten Prüfungsleistungen nach § 11,
+5. Bewertung der im Prüfungsteil „Kernprozesse, Steuerung und Zusammenarbeit“ erbrachten Prüfungsleistungen nach § 12,
+6. Benennung des Themas der schriftlichen Praxistransferarbeit nach § 13 Absatz 2,
+7. Bewertungen der im Prüfungsteil „Kernprozesse, Steuerung und Zusammenarbeit“ erbrachten Prüfungsleistungen nach § 13,
+8. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+9. die Gesamtnote als Dezimalzahl,
+10. die Gesamtnote in Worten und
+11. Befreiungen nach § 16

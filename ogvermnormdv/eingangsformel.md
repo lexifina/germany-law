@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund des § 6a Absatz 1, des § 15 in Verbindung mit § 16, des § 31 Absatz 2 Satz 1 Nummer 3 sowie des § 38 Absatz 3 Satz 3 Nummer 2 des Marktorganisationsgesetzes, von denen § 31 Absatz 2 Satz 1 Nummer 3 zuletzt durch Artikel 11a des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1174) geändert worden ist, auch in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176), im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz:
