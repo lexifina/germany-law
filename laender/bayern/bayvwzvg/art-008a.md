@@ -1,0 +1,2 @@
+# Art. 8a Zustellung an Ehegatten und Lebenspartner
+Betrifft ein zusammengefaßter schriftlicher Bescheid Ehegatten oder Ehegatten mit ihren Kindern oder Alleinstehende mit ihren Kindern, so reicht es für die Zustellung an alle Beteiligten aus, wenn ihnen eine Ausfertigung unter ihrer gemeinsamen Anschrift zugestellt wird. Der Bescheid ist den Beteiligten einzeln zuzustellen, soweit sie dies beantragt haben. Sätze 1 und 2 gelten entsprechend für Lebenspartner im Sinn des Lebenspartnerschaftsgesetzes.
