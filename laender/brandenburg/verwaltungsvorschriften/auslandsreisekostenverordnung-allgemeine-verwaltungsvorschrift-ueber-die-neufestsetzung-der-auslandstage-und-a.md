@@ -1,8 +1,8 @@
 # Auslandsreisekostenverordnung - Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder
 
 - Herausgeber: Land Brandenburg
-- Datum: 2024-01-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/arv_2023
+- Datum: 2025-01-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/arv_2024
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -10,25 +10,25 @@
 
 Auslandsreisekostenverordnung - Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder
 
-vom 27. Oktober 2023
+vom 6. November 2024
 
-(ABl./23, [Nr. 46], S.1119)
+(ABl./24, [Nr. 47], S.1187)
 
-Als Anlage wird die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder (ARVVwV) des Bundesministeriums des Innern und für Heimat vom 17. Oktober 2023, die am 1. Januar 2024 in Kraft treten wird, bekannt gegeben.
+Als Anlage wird die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder (ARVVwV) des Bundesministeriums des Innern und für Heimat vom 22. Oktober 2024, die am 1. Januar 2025 in Kraft treten wird, bekannt gegeben.
 
 Die Anlage zur ARVVwV berücksichtigt das durch die Wechselkurs- und Verbraucherpreisentwicklung veränderte Preisniveau für die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder.
 
-Für den Landesbereich gilt die ARVVwV mit der Maßgabe, dass die durch die erhöhten Auslandstage- und Auslandsübernachtungsgelder bedingten Mehrausgaben ab 1. Januar 2024 weiterhin durch entsprechende Einsparungen innerhalb der bei dem Reisekosten-Titel verfügbaren Ausgaben zu decken sind.
+Für den Landesbereich gilt die ARVVwV mit der Maßgabe, dass die durch die erhöhten Auslandstage- und Auslandsübernachtungsgelder bedingten Mehrausgaben ab 1. Januar 2025 weiterhin durch entsprechende Einsparungen innerhalb der bei dem Reisekosten-Titel verfügbaren Ausgaben zu decken sind.
 
-Für im Jahr 2023 durchgeführte Dienstreisen, die erst im Jahr 2024 abgerechnet werden, gelten die Auslandstage- und Auslandsübernachtungsgelder, die bis zum 31. Dezember 2023 festgesetzt sind.
+Für im Jahr 2024 durchgeführte Dienstreisen, die erst im Jahr 2025 abgerechnet werden, gelten die Auslandstage- und Auslandsübernachtungsgelder, die bis zum 31. Dezember 2024 festgesetzt sind.
 
 Anlage 1
 
 zum MdFE-Rundschreiben
 
-- 12-FD 2762.24/2023#01#01 -
+- 12-12-FD 2762/2024#01#01 -
 
-vom 27. Oktober 2023
+vom 6. November 2024
 
 Allgemeine Verwaltungsvorschrift
 
@@ -38,7 +38,7 @@ und Auslandsübernachtungsgelder
 
 (ARVVwV)
 
-Vom 17. Oktober 2023
+Vom 22. Oktober 2024
 
 Nach § 16 des Bundesreisekostengesetzes (BRKG) wird im Einvernehmen mit dem Auswärtigen Amt folgende allgemeine Verwaltungsvorschrift zu § 3 Absatz 1 Satz 1 der Auslandsreisekostenverordnung (ARV) vom 21. Mai 1991 (BGBl. I S. 1140), zuletzt geändert durch Artikel 1 der Verordnung vom 27. März 2021 (BGBl. I S. 660), erlassen:
 
@@ -54,11 +54,11 @@ Artikel 2
 
 Artikel 3
 
-(1) Diese Verwaltungsvorschrift tritt am 1. Januar 2024 in Kraft.
+(1) Diese Verwaltungsvorschrift tritt am 1. Januar 2025 in Kraft.
 
-(2) Zum gleichen Zeitpunkt tritt die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder vom 13. Oktober 2022 (GMBl 2022 S. 849) außer Kraft.
+(2) Zum gleichen Zeitpunkt tritt die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder vom 17. Oktober 2023 (GMBl. 2023 S. 1044) außer Kraft.
 
-Berlin, den 17. Oktober 2023
+Berlin, den 22. Oktober 2024
 
 Bundesministerium des Innern und für Heimat
 
@@ -70,9 +70,9 @@ Anlage 2
 
 zum MdFE-Rundschreiben
 
-- 12-FD 2762.24/2023#01#01-
+- 12-12-FD 2762/2024#01#01 -
 
-vom 27. Oktober 2023
+vom 6. November 2024
 
 | 
 
@@ -87,9 +87,7 @@ Auslandstagegeld
 | 
 
 
-Auslandsüber-
-
-nachtungsgeld
+Auslandsübernachtungsgeld
 
 bis zu … Euro
 
@@ -198,12 +196,12 @@ Angola
 | 
 
 
-43
+33
 
 | 
 
 
-299
+368
 
 | 
 
@@ -243,12 +241,12 @@ Armenien
 | 
 
 
-20
+24
 
 | 
 
 
-59
+107
 
 | 
 
@@ -273,12 +271,12 @@ Aserbaidschan
 | 
 
 
-32
+36
 
 | 
 
 
-130
+159
 
 | 
 
@@ -294,7 +292,7 @@ Australien
 | 
 
 
-Canberra
+ Canberra
 
 | 
 
@@ -309,7 +307,7 @@ Canberra
 | 
 
 
-Sydney
+ Sydney
 
 | 
 
@@ -324,7 +322,7 @@ Sydney
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -359,12 +357,12 @@ Bangladesch
 | 
 
 
-41
+38
 
 | 
 
 
-165
+189
 
 | 
 
@@ -380,6 +378,21 @@ Barbados
 
 
 206
+
+| 
+
+
+Belarus
+
+| 
+
+
+16
+
+| 
+
+
+98
 
 | 
 
@@ -404,12 +417,27 @@ Benin
 | 
 
 
-43
+33
 
 | 
 
 
-115
+168
+
+| 
+
+
+Bhutan
+
+| 
+
+
+22
+
+| 
+
+
+176
 
 | 
 
@@ -429,9 +457,7 @@ Bolivien
 | 
 
 
-Bosnien und
-
-Herzegowina
+Bosnien und Herzegowina
 
 | 
 
@@ -472,7 +498,7 @@ Brasilien
 | 
 
 
-Brasilia
+ Brasilia
 
 | 
 
@@ -487,7 +513,7 @@ Brasilia
 | 
 
 
-Rio de Janeiro
+ Rio de Janeiro
 
 | 
 
@@ -502,7 +528,7 @@ Rio de Janeiro
 | 
 
 
-Sao Paulo
+ Sao Paulo
 
 | 
 
@@ -517,7 +543,7 @@ Sao Paulo
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -537,12 +563,12 @@ Brunei
 | 
 
 
-43
+37
 
 | 
 
 
-106
+110
 
 | 
 
@@ -618,7 +644,7 @@ China
 | 
 
 
-Chengdu
+ Chengdu
 
 | 
 
@@ -633,7 +659,7 @@ Chengdu
 | 
 
 
-Hongkong
+ Hongkong
 
 | 
 
@@ -648,7 +674,7 @@ Hongkong
 | 
 
 
-Kanton
+ Kanton
 
 | 
 
@@ -663,7 +689,7 @@ Kanton
 | 
 
 
-Peking
+ Peking
 
 | 
 
@@ -678,7 +704,7 @@ Peking
 | 
 
 
-Shanghai
+ Shanghai
 
 | 
 
@@ -693,7 +719,7 @@ Shanghai
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -713,17 +739,17 @@ Costa Rica
 | 
 
 
-39
+50
 
 | 
 
 
-93
+127
 
 | 
 
 
-Côte d‘Ivoire
+Côte d'Ivoire
 
 | 
 
@@ -818,12 +844,12 @@ Eritrea
 | 
 
 
-41
+38
 
 | 
 
 
-91
+78
 
 | 
 
@@ -884,13 +910,7 @@ Frankreich
 | 
 
 
-Paris sowie die
-
-Départements
-
-der Île de
-
-France (1)
+Paris sowie die Départements der Île de France (1)
 
 | 
 
@@ -905,7 +925,7 @@ France (1)
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -925,12 +945,12 @@ Gabun
 | 
 
 
-43
+53
 
 | 
 
 
-183
+263
 
 | 
 
@@ -975,7 +995,7 @@ Ghana
 | 
 
 
-148
+203
 
 | 
 
@@ -991,7 +1011,7 @@ Griechenland
 | 
 
 
-Athen
+ Athen
 
 | 
 
@@ -1006,7 +1026,7 @@ Athen
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -1026,12 +1046,12 @@ Guatemala
 | 
 
 
-28
+38
 
 | 
 
 
-90
+124
 
 | 
 
@@ -1107,7 +1127,37 @@ Indien
 | 
 
 
-Chennai
+ Bangalore
+
+| 
+
+
+35
+
+| 
+
+
+155
+
+| 
+
+
+ Chennai
+
+| 
+
+
+18
+
+| 
+
+
+80
+
+| 
+
+
+ Kalkutta
 
 | 
 
@@ -1117,67 +1167,52 @@ Chennai
 | 
 
 
-85
+167
 
 | 
 
 
-Kalkutta
+ Mumbai
 
 | 
 
 
-29
+44
 
 | 
 
 
-145
+218
 
 | 
 
 
-Mumbai
+ Neu Delhi
 
 | 
 
 
-41
+38
 
 | 
 
 
-146
+211
 
 | 
 
 
-Neu Delhi
+ im Übrigen
 
 | 
 
 
-31
+18
 
 | 
 
 
-185
-
-| 
-
-
-im Übrigen
-
-| 
-
-
-26
-
-| 
-
-
-85
+80
 
 | 
 
@@ -1187,12 +1222,12 @@ Indonesien
 | 
 
 
-30
+37
 
 | 
 
 
-134
+179
 
 | 
 
@@ -1268,7 +1303,7 @@ Italien
 | 
 
 
-Mailand
+ Mailand
 
 | 
 
@@ -1283,7 +1318,7 @@ Mailand
 | 
 
 
-Rom (2)
+ Rom (2)
 
 | 
 
@@ -1298,7 +1333,7 @@ Rom (2)
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -1339,7 +1374,7 @@ Japan
 | 
 
 
-Tokio
+ Tokio
 
 | 
 
@@ -1354,17 +1389,32 @@ Tokio
 | 
 
 
-im Übrigen
+ Osaka
 
 | 
 
 
-43
+27
 
 | 
 
 
-190
+141
+
+| 
+
+
+ im Übrigen
+
+| 
+
+
+27
+
+| 
+
+
+141
 
 | 
 
@@ -1404,12 +1454,12 @@ Kambodscha
 | 
 
 
-31
+35
 
 | 
 
 
-94
+108
 
 | 
 
@@ -1440,7 +1490,7 @@ Kanada
 | 
 
 
-Ottawa
+ Ottawa
 
 | 
 
@@ -1455,7 +1505,7 @@ Ottawa
 | 
 
 
-Toronto
+ Toronto
 
 | 
 
@@ -1470,7 +1520,7 @@ Toronto
 | 
 
 
-Vancouver
+ Vancouver
 
 | 
 
@@ -1485,7 +1535,7 @@ Vancouver
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -1520,12 +1570,12 @@ Kasachstan
 | 
 
 
-37
+27
 
 | 
 
 
-111
+108
 
 | 
 
@@ -1580,29 +1630,27 @@ Kolumbien
 | 
 
 
-38
+28
 
 | 
 
 
-115
+123
 
 | 
 
 
-Kongo,
-
-Demokratische Republik
+Kongo, Demokratische Republik
 
 | 
 
 
-58
+54
 
 | 
 
 
-190
+337
 
 | 
 
@@ -1622,9 +1670,7 @@ Kongo, Republik
 | 
 
 
-Korea,
-
-Demokratische Volksrepublik
+Korea, Demokratische Volksrepublik
 
 | 
 
@@ -1674,12 +1720,12 @@ Kroatien
 | 
 
 
-29
+38
 
 | 
 
 
-107
+191
 
 | 
 
@@ -1770,6 +1816,21 @@ Libanon
 
 
 146
+
+| 
+
+
+Liberia
+
+| 
+
+
+54
+
+| 
+
+
+173
 
 | 
 
@@ -1884,12 +1945,12 @@ Malediven
 | 
 
 
-43
+58
 
 | 
 
 
-170
+200
 
 | 
 
@@ -2079,12 +2140,12 @@ Myanmar
 | 
 
 
-29
+19
 
 | 
 
 
-155
+103
 
 | 
 
@@ -2265,7 +2326,7 @@ Pakistan
 | 
 
 
-Islamabad
+ Islamabad
 
 | 
 
@@ -2280,7 +2341,7 @@ Islamabad
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -2305,7 +2366,7 @@ Palau
 | 
 
 
-179
+193
 
 | 
 
@@ -2396,77 +2457,47 @@ Polen
 | 
 
 
-Breslau
+ Breslau
 
 | 
 
 
-27
+28
 
 | 
 
 
-117
+124
 
 | 
 
 
-Danzig
+ Warschau
 
 | 
 
 
-25
+33
 
 | 
 
 
-84
+143
 
 | 
 
 
-Krakau
+ im Übrigen
 
 | 
 
 
-22
+28
 
 | 
 
 
-86
-
-| 
-
-
-Warschau
-
-| 
-
-
-24
-
-| 
-
-
-109
-
-| 
-
-
-im Übrigen
-
-| 
-
-
-24
-
-| 
-
-
-60
+124
 
 | 
 
@@ -2512,7 +2543,7 @@ Rumänien
 | 
 
 
-Bukarest
+ Bukarest
 
 | 
 
@@ -2527,7 +2558,7 @@ Bukarest
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -2542,9 +2573,7 @@ im Übrigen
 | 
 
 
-Russische
-
-Föderation
+Russische Föderation
 
 | 
 
@@ -2555,22 +2584,7 @@ Föderation
 | 
 
 
-Jekaterinburg
-
-| 
-
-
-23
-
-| 
-
-
-84
-
-| 
-
-
-Moskau
+ Moskau
 
 | 
 
@@ -2580,37 +2594,37 @@ Moskau
 | 
 
 
-110
+235
 
 | 
 
 
-St. Petersburg
+ St. Petersburg
 
 | 
 
 
-21
+23
 
 | 
 
 
-114
+133
 
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
 
-20
+23
 
 | 
 
 
-58
+133
 
 | 
 
@@ -2665,12 +2679,12 @@ Sao Tomé und Principe
 | 
 
 
-39
+30
 
 | 
 
 
-80
+147
 
 | 
 
@@ -2686,7 +2700,7 @@ Saudi Arabien
 | 
 
 
-Djidda
+ Djidda
 
 | 
 
@@ -2701,7 +2715,7 @@ Djidda
 | 
 
 
-Riad
+ Riad
 
 | 
 
@@ -2716,7 +2730,7 @@ Riad
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -2757,7 +2771,7 @@ Schweiz
 | 
 
 
-Genf
+ Genf
 
 | 
 
@@ -2772,7 +2786,7 @@ Genf
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -2837,12 +2851,12 @@ Simbabwe
 | 
 
 
-37
+52
 
 | 
 
 
-140
+198
 
 | 
 
@@ -2852,19 +2866,17 @@ Singapur
 | 
 
 
-45
+59
 
 | 
 
 
-197
+277
 
 | 
 
 
-Slowakische
-
-Republik
+Slowakische Republik
 
 | 
 
@@ -2905,7 +2917,7 @@ Spanien
 | 
 
 
-Barcelona
+ Barcelona
 
 | 
 
@@ -2920,9 +2932,7 @@ Barcelona
 | 
 
 
-Kanarische
-
-Inseln
+ Kanarische Inseln
 
 | 
 
@@ -2937,7 +2947,7 @@ Inseln
 | 
 
 
-Madrid
+ Madrid
 
 | 
 
@@ -2952,9 +2962,7 @@ Madrid
 | 
 
 
-Palma de
-
-Mallorca
+ Palma de Mallorca
 
 | 
 
@@ -2969,7 +2977,7 @@ Mallorca
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -3025,7 +3033,7 @@ Südafrika
 | 
 
 
-Kapstadt
+ Kapstadt
 
 | 
 
@@ -3040,7 +3048,7 @@ Kapstadt
 | 
 
 
-Johannesburg
+ Johannesburg
 
 | 
 
@@ -3055,7 +3063,7 @@ Johannesburg
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -3110,7 +3118,7 @@ Tadschikistan
 | 
 
 
-118
+85
 
 | 
 
@@ -3120,12 +3128,12 @@ Taiwan
 | 
 
 
-38
+42
 
 | 
 
 
-143
+174
 
 | 
 
@@ -3150,12 +3158,12 @@ Thailand
 | 
 
 
-31
+30
 
 | 
 
 
-110
+114
 
 | 
 
@@ -3180,19 +3188,17 @@ Tonga
 | 
 
 
-32
+24
 
 | 
 
 
-94
+102
 
 | 
 
 
-Trinidad und
-
-Tobago (4)
+Trinidad und Tobago (4)
 
 | 
 
@@ -3222,9 +3228,7 @@ Tschad
 | 
 
 
-Tschechische
-
-Republik
+Tschechische Republik
 
 | 
 
@@ -3250,12 +3254,27 @@ Türkei
 | 
 
 
-Istanbul
+ Ankara
 
 | 
 
 
-21
+26
+
+| 
+
+
+110
+
+| 
+
+
+ Izmir
+
+| 
+
+
+36
 
 | 
 
@@ -3265,32 +3284,17 @@ Istanbul
 | 
 
 
-Izmir
+ im Übrigen
 
 | 
 
 
-24
+20
 
 | 
 
 
-55
-
-| 
-
-
-im Übrigen
-
-| 
-
-
-14
-
-| 
-
-
-95
+107
 
 | 
 
@@ -3315,12 +3319,12 @@ Turkmenistan
 | 
 
 
-27
+23
 
 | 
 
 
-108
+135
 
 | 
 
@@ -3375,12 +3379,12 @@ Uruguay
 | 
 
 
-40
+33
 
 | 
 
 
-90
+113
 
 | 
 
@@ -3415,9 +3419,7 @@ Venezuela
 | 
 
 
-Vereinigte
-
-Arabische Emirate
+Vereinigte Arabische Emirate
 
 | 
 
@@ -3443,7 +3445,7 @@ Vereinigte Staaten von Amerika (USA)
 | 
 
 
-Atlanta
+ Atlanta
 
 | 
 
@@ -3458,7 +3460,7 @@ Atlanta
 | 
 
 
-Boston
+ Boston
 
 | 
 
@@ -3473,7 +3475,7 @@ Boston
 | 
 
 
-Chicago
+ Chicago
 
 | 
 
@@ -3488,7 +3490,7 @@ Chicago
 | 
 
 
-Houston
+ Houston
 
 | 
 
@@ -3503,7 +3505,7 @@ Houston
 | 
 
 
-Los Angeles
+ Los Angeles
 
 | 
 
@@ -3518,7 +3520,7 @@ Los Angeles
 | 
 
 
-Miami
+ Miami
 
 | 
 
@@ -3533,7 +3535,7 @@ Miami
 | 
 
 
-New York City
+ New York City
 
 | 
 
@@ -3548,7 +3550,7 @@ New York City
 | 
 
 
-San Francisco
+ San Francisco
 
 | 
 
@@ -3563,7 +3565,7 @@ San Francisco
 | 
 
 
-Washington, D. C.
+ Washington, D. C.
 
 | 
 
@@ -3578,7 +3580,7 @@ Washington, D. C.
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -3593,11 +3595,7 @@ im Übrigen
 | 
 
 
-Vereinigtes
-
-Königreich von Großbritannien
-
-und Nordirland
+Vereinigtes Königreich von Großbritannien und Nordirland
 
 | 
 
@@ -3608,7 +3606,7 @@ und Nordirland
 | 
 
 
-London
+ London
 
 | 
 
@@ -3623,7 +3621,7 @@ London
 | 
 
 
-im Übrigen
+ im Übrigen
 
 | 
 
@@ -3643,27 +3641,12 @@ Vietnam
 | 
 
 
-34
+30
 
 | 
 
 
-86
-
-| 
-
-
-Weißrussland
-
-| 
-
-
-16
-
-| 
-
-
-98
+111
 
 | 
 
@@ -3697,10 +3680,10 @@ Zypern
 
 * Darüber hinaus Erstattung gemäß § 3 Absatz 1 Satz 3 ARV.
 
-(1) Hierzu zählen die Départements 75 - Paris, 77 - Seine-et-Marne, 78 - Yvelines, 91 - l’Essonne, 92 - Hauts-de-Seine, 93 - Seine-Saint-Denis, 94 - Val-de-Marne, 95 - Val-d’Oise
+1) Hierzu zählen die Départements 75 - Paris, 77 - Seine-et-Marne, 78 - Yvelines, 91 - l’Essonne, 92 - Hauts-de-Seine, 93 - Seine-Saint-Denis, 94 - Val-de-Marne, 95 - Val-d’Oise.
 
-(2) Die für Rom festgesetzten Beträge gelten auch für Vatikanstaat.
+2) Die für Rom festgesetzten Beträge gelten auch für Vatikanstadt.
 
-(3) Die für die Philippinen festgesetzten Beträge gelten auch für Mikronesien.
+3) Die für die Philippinen festgesetzten Beträge gelten auch für Mikronesien.
 
-(4) Die für Trinidad und Tobago festgesetzten Beträge gelten auch für die zu dessen Amtsbezirk gehörenden Staaten Antigua und Barbuda, Dominica, Grenada, Guyana, St. Kitts und Nevis, St. Lucia, St. Vincent und Grenadinen sowie Suriname.
+4) Die für Trinidad und Tobago festgesetzten Beträge gelten auch für die zu dessen Amtsbezirk gehörenden Staaten Antigua und Barbuda, Dominica, Grenada, Guyana, St. Kitts und Nevis, St. Lucia, St. Vincent und Grenadinen sowie Suriname.
