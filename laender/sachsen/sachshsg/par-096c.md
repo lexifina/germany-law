@@ -1,0 +1,4 @@
+# § 96c Prodirektorin oder Prodirektor
+(1) Jede Studienakademie kann über bis zu zwei Prodirektorinnen oder Prodirektoren verfügen. Sie bilden gemeinsam mit der Direktorin oder dem Direktor ein Direktorat. Bei Stimmengleichheit entscheidet die Direktorin oder der Direktor.
+(2) Prodirektorinnen und Prodirektoren werden vom Studienakademierat auf Vorschlag der Direktorin oder des Direktors aus den der Studienakademie angehörenden Professorinnen und Professoren gewählt. Ihre Amtszeit endet spätestens mit der Amtszeit der Direktorin oder des Direktors.
+(3) Die Direktorin oder der Direktor bestimmt eine Prodirektorin oder einen Prodirektor zu ihrer oder seiner Stellvertretung. Ist nur eine Prodirektorin oder ein Prodirektor vorhanden, ist diese oder dieser Stellvertreterin oder Stellvertreter der Direktorin oder des Direktors.
