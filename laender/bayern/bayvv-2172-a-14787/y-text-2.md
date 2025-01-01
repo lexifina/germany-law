@@ -1,0 +1,2 @@
+## Leistungen der „Landesstiftung Hilfe für Mutter und Kind“ an Schwangere in Not
+1Die „Landesstiftung Hilfe für Mutter und Kind“ gewährt privatrechtliche Leistungen an Schwangere und Mütter auf der Grundlage von Zuwendungsvereinbarungen nach Maßgabe dieser Grundsätze. 2Auf diese Leistungen, die im Rahmen des Stiftungszwecks nach § 2 Abs. 1 Nr. 2 der Stiftungssatzung und der hierfür vorhandenen Mittel vergeben werden, besteht kein Rechtsanspruch.
