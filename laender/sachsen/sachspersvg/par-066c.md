@@ -1,0 +1,4 @@
+# § 66c Weitere Vorschriften für Referendariatsvertretungen
+(1) Abweichend von § 7 Absatz 1 können sich die Präsidentin oder der Präsident des Oberlandesgerichts sowie die Leiterinnen und Leiter der Stammdienststellen sowie der Landesdirektion Sachsen auch von der Ausbildungsleiterin oder dem Ausbildungsleiter vertreten lassen.
+(2) Arbeitsgemeinschaften, denen kein Mitglied einer Referendariatsvertretung angehört, können jeweils eine Vertrauensperson bestimmen. Die Leiterin oder der Leiter der Stammdienststelle und die Präsidentin oder der Präsident des Oberlandesgerichts können die Vertrauenspersonen zu Besprechungen mit der Referendariatsvertretung hinzuziehen.
+(3) § 27 Absatz 4 und 5 Satz 2, § 46 Absatz 2 Satz 2 und Absatz 3 bis 5, § 47, § 48 Absatz 1 und 3, § 49 Absatz 4, § 50 Absatz 1, § 51 Absatz 2, § 79 Absatz 4 und 5 sowie § 85 finden keine Anwendung.
