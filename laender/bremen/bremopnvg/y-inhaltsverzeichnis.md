@@ -10,10 +10,10 @@ Zweiter Teil Aufgabenverantwortung
 § 6 | Aufgabenträger
 § 7 | Überörtliche Zusammenschlüsse
 § 8 | Plan für den Schienenpersonennahverkehr
-Dritter Teil Finanzierung
 § 9 | Nahverkehrsplan
+Dritter Teil Finanzierung, Sicherstellung von Ausbildungsverkehren
 § 10 | Verwendung der Regionalisierungsmittel
-§ 11 | Zuständigkeitsregelung
-Vierter Teil Schlußvorschriften
-§ 12 | (aufgehoben)
+§ 11 | Sicherstellung des Ausbildungsverkehrs im straßengebundenen öffentlichen Personennahverkehr; Verordnungsermächtigung
+Vierter Teil Schlussvorschriften
+§ 12 | Zuständigkeitsregelung
 § 13 | Inkrafttreten
