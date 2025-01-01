@@ -1,0 +1,1 @@
+Auf Grund von Art. 24 Abs. 1 und 3 des Kostengesetzes (KG) vom 20. Februar 1998 (GVBl S. 43, BayRS 2013-1-1-F), zuletzt geändert durch Art. 16 des Gesetzes vom 14. April 2011 (GVBl S. 150), erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
