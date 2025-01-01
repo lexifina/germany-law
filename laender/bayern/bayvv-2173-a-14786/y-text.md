@@ -1,0 +1,1 @@
+I. Der Stiftungsrat der „Landesstiftung Hilfe für Mutter und Kind“ hat nach § 8 Abs. 1 Nr. 4 der Stiftungssatzung vom 31. Juli 1987 in der Fassung vom 14. Dezember 2012 eine Neufassung der Vergabegrundsätze für die Gewährung von Leistungen an Familien in Not beschlossen, die nachfolgend bekanntgegeben werden:
