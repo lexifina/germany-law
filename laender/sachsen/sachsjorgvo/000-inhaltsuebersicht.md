@@ -51,7 +51,7 @@ Teil 3 Verwaltungsaufgaben
 § 27 Anerkennung ausländischer Entscheidungen in Ehesachen
 § 28 Befugnisse nach dem Gesetz über internationale Patentübereinkommen
 § 29 Übertragbarkeit des Nießbrauchs bei juristischer Person oder rechtsfähiger Personengesellschaft
-§ 29a Zuständigkeiten nach dem Rechtsdienstleistungs- und dem Geldwäschegesetz
+§ 29a Zuständigkeiten nach dem Geldwäschegesetz
 § 29b Zuständigkeiten nach dem Justizbeitreibungsgesetz
 § 29c Disziplinargericht für Notarinnen und Notare
 § 29d Zuständigkeiten auf dem Gebiet der Rechtshilfe in Zivilsachen
