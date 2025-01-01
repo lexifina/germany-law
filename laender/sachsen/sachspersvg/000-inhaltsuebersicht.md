@@ -74,8 +74,12 @@ Abschnitt 1 Jugend- und Auszubildendenvertretungen
 § 63 Entsprechende Anwendung von Vorschriften
 § 64 Stufenvertretungen und Gesamt-Jugend- und Auszubildendenvertretung
 § 65 Jugend- und Auszubildendenversammlung
-§ 66 (weggefallen)
-Abschnitt 2 Sonstige besondere Vertretungen
+Abschnitt 2 Referendariatsvertretungen in der Justiz
+§ 66 Referendariatsvertretungen
+§ 66a Wahl und Geschäftsführung der Referendariatsvertretungen
+§ 66b Rechtsstellung der Referendariatsvertretungen und ihrer Mitglieder
+§ 66c Weitere Vorschriften für Referendariatsvertretungen
+Abschnitt 3 Sonstige besondere Vertretungen
 § 67 Schulen und Lehrkräfte
 § 68 Polizeivollzugsdienst
 § 69 Arbeitsgemeinschaft der Hauptpersonalräte
