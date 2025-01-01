@@ -56,6 +56,7 @@ Teil 4 Forschung und Entwicklung
 § 49 Entwicklungsvorhaben und künstlerische Vorhaben
 Teil 5 Mitgliedschaft und Mitwirkung
 § 50 Mitglieder und Angehörige der Hochschulen
+§ 50a Duale Praxispartner an der Dualen Hochschule Sachsen
 § 51 Mitgliedergruppen
 § 52 Wahlen
 § 53 Wahlperioden und Amtszeiten
@@ -97,15 +98,25 @@ Abschnitt 1 Zentrale Organe
 § 86 Erweiterter Senat
 § 87 Rektorin oder Rektor
 § 88 Rektorat
+§ 88a Direktorenversammlung an der Dualen Hochschule Sachsen
 § 89 Prorektorinnen und Prorektoren
+§ 89a Fachbereichskommissionen an der Dualen Hochschule Sachsen
 § 90 Kanzlerin oder Kanzler
 § 91 Hochschulrat
 Abschnitt 2 Organisationseinheiten unterhalb der zentralen Ebene
+Unterabschnitt 1 Universitäten, Hochschulen für angewandte Wissenschaften und Kunsthochschulen
 § 92 Fakultät
 § 93 Fakultätsrat
 § 94 Dekanin oder Dekan
 § 95 Dekanat
 § 96 Studiendekanin oder Studiendekan und Studienkommission
+Unterabschnitt 2 Duale Hochschule Sachsen
+§ 96a Studienakademie
+§ 96b Direktorin oder Direktor
+§ 96c Prodirektorin oder Prodirektor
+§ 96d Studienakademierat
+§ 96e Erweiterter Studienakademierat
+§ 96f Studienleiterin, Studienleiter und Studienkommission
 Abschnitt 3 Hochschulallianzen, Zentrale Einrichtungen, An-Institute, Forschungszentren an Hochschulen für angewandte Wissenschaften
 § 97 Hochschulallianzen
 § 98 Zentrale Einrichtungen
@@ -138,3 +149,4 @@ Teil 10 Studentenwerke
 Teil 11 Schlussbestimmungen
 § 122 Namensschutz, Ordnungswidrigkeiten
 § 123 Übergangsbestimmungen
+§ 124 Übergangsbestimmungen aus Anlass der Errichtung der Dualen Hochschule Sachsen
