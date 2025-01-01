@@ -1,0 +1,1 @@
+Auf Grund von Art. 80 Abs. 4 der Bayerischen Bauordnung (BayBO) in der Fassung der Bekanntmachung vom 14. August 2007 (GVBl S. 588, BayRS 2132-1-I) und Art. 7 Abs. 2 des Bayerischen Abgrabungsgesetzes (BayAbgrG) vom 27. Dezember 1999 (GVBl S. 532, 535, BayRS 2132-2-I) erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
