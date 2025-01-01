@@ -22,7 +22,7 @@
 - [§ 13 Rechtszustand vor der Eintragung](0013.md)
 - [§ 14 Errichtung einer Zweigniederlassung](0014.md)
 - [§ 14a (weggefallen)](0014a.md)
-- [§ 15 Beitrittserklärung](0015.md)
+- [§ 15 Erwerb der Mitgliedschaft](0015.md)
 - [§ 15a Inhalt der Beitrittserklärung](0015a.md)
 - [§ 15b Beteiligung mit weiteren Geschäftsanteilen](0015b.md)
 - [§ 16 Änderung der Satzung](0016.md)
@@ -112,8 +112,7 @@ Genossenschaft und ihrer Mitglieder
 - [§ 65 Kündigung des Mitglieds](0065.md)
 - [§ 66 Kündigung durch Gläubiger](0066.md)
 - [§ 66a Kündigung im Insolvenzverfahren](0066a.md)
-- [§ 67 Beendigung der Mitgliedschaft wegen Aufgabe des
-Wohnsitzes](0067.md)
+- [§ 67 Beendigung der Mitgliedschaft wegen Aufgabe des Wohnsitzes](0067.md)
 - [§ 67a Außerordentliches Kündigungsrecht](0067a.md)
 - [§ 67b Kündigung einzelner Geschäftsanteile](0067b.md)
 - [§ 67c Kündigungsausschluss bei Wohnungsgenossenschaften](0067c.md)
@@ -235,3 +234,4 @@ Nachschusspflicht der Mitglieder
 - [§ 174 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0174.md)
 - [§ 175 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0175.md)
 - [§ 176 Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften](0176.md)
+- [§ 177 Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz](0177.md)

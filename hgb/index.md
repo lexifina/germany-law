@@ -316,9 +316,7 @@ Jahresabschluß
 #### Dritter Unterabschnitt Aufbewahrung und
 Vorlage
 
-- [§ 257 Aufbewahrung von Unterlagen
-
-Aufbewahrungsfristen](0257.md)
+- [§ 257 Aufbewahrung von UnterlagenAufbewahrungsfristen](0257.md)
 - [§ 258 Vorlegung im Rechtsstreit](0258.md)
 - [§ 259 Auszug bei Vorlegung im Rechtsstreit](0259.md)
 - [§ 260 Vorlegung bei Auseinandersetzungen](0260.md)

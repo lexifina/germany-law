@@ -101,4 +101,3 @@ Datentransparenz
 - [§ 64 Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Krankenversicherung](0064.md)
 - [§ 65 Übergangsregelung](0065.md)
 - [§ 66 Bestandsbereinigung bei der freiwilligen Versicherung](0066.md)
-- [§ 67 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0067.md)

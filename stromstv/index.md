@@ -47,7 +47,7 @@
 - [§ 14 Wasserfahrzeuge und Schifffahrt](0014.md)
 - [§ 14a Steuerentlastung für die Landstromversorgung](0014a.md)
 
-## - Zu § 2 Nummer 3 bis 6 und den §§ 9a bis 10 des Gesetzes
+## - Zu § 2 Nummer 3 bis 6 und den §§ 9a und 9b des Gesetzes
 
 - [§ 15 Zuordnung von Unternehmen](0015.md)
 - [§ 16 (weggefallen)](0016.md)
@@ -75,10 +75,10 @@
 
 - [§ 17g Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)](0017g.md)
 
-## - zu § 10 des Gesetzes
+## - (weggefallen)
 
-- [§ 18 Begriffsbestimmungen zu § 10 des Gesetzes](0018.md)
-- [§ 19 Erlass, Erstattung oder Vergütung der Steuer in Sonderfällen](0019.md)
+- [§ 18 (weggefallen)](0018.md)
+- [§ 19 (weggefallen)](0019.md)
 
 ## - Zu § 156 Absatz 1 der Abgabenordnung
 

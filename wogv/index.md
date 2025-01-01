@@ -35,9 +35,4 @@
 - [§ 20 Weiterverwendung der Antwortdatensätze](0020.md)
 - [§ 21 Verfahrensgrundsätze](0021.md)
 - [§ 22 Kosten](0022.md)
-
-## Teil 5 Fortschreibung des Wohngeldes
-
-- [§ 23 Fortschreibung der Höchstbeträge für Miete und Belastung und Neufassung der Anlage 1 zu § 12 Absatz 1 des Wohngeldgesetzes](0023.md)
-- [§ 24 Fortschreibung der Werte für „b“ und „c“ und Neufassung der Anlage 2 zu § 19 Absatz 1 des Wohngeldgesetzes](0024.md)
 - [Anlage (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2023](anlage.md)

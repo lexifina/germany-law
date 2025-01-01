@@ -12,7 +12,7 @@
 | Dritter Abschnitt |
 | Flugplätze |
 | 1. Flughäfen .............................. | §§ 38 bis 48 |
-| 2. Lärmbedingte Betriebsbeschränkungen von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen an Flughäfen ........................... | §§ 48a bis 48f |
+| 2. (weggefallen).......................... |  |
 | 3. Landeplätze ............................ | §§ 49 bis 53 |
 | 4. Segelfluggelände ....................... | §§ 54 bis 60 |
 |  |

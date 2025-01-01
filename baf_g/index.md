@@ -113,7 +113,7 @@
 - [§ 63 (weggefallen)](0063.md)
 - [§ 64 (weggefallen)](0064.md)
 - [§ 65 Weitergeltende Vorschriften](0065.md)
-- [§ 66 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0066.md)
+- [§ 66 (weggefallen)](0066.md)
 - [§ 66a Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung](0066a.md)
 - [§ 66b Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft](0066b.md)
 - [§ 67 (weggefallen)](0067.md)

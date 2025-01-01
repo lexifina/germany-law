@@ -1,38 +1,27 @@
 # Anlage 8 Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind
 
-Gefördert wird die Umsetzung aller Maßnahmen zur Verbesserung der Energieeffizienz am Heizsystem, soweit sich aus den nachfolgenden Sätzen keine Einschränkungen ergeben.
-Mindestens ist durchzuführen: der Heizungscheck nach DIN EN 15378 oder der hydraulische Abgleich nach Verfahren A beim wassergeführten Heizungssystem. Verfahren B ist zulässig. Die Durchführung ist auf dem aktuellen Bestätigungsformular für Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) nachzuweisen.
-Förderfähige Pumpen müssen mindestens folgende Anforderungen erfüllen:
-– Nassläufer-Umwälzpumpen: Energieeffizienzindex EEI ≤ 0,2 gemäß Verordnung (EU) Nr. 641/2009;
-– Trinkwarmwasser-Zirkulationspumpen: Energieeffizienzindex EEI ≤ 0,2 in Anlehnung an Verordnung (EU) Nr. 641/2009;
+Maßnahmen zur Verbesserung der Anlageneffizienz
+Von der Steuerermäßigung umfasst sind Maßnahmen zur Optimierung bestehender Heizungsanlagen, sofern die Heizungsanlagen älter als zwei Jahre sind. Dazu zählen Maßnahmen, mit denen die Energieeffizienz des Systems erhöht wird, Maßnahmen zur Emissionsminderung von Biomasseheizungen sowie die geringinvestive Umstellung von wasserstofffähigen Heizungen auf den 100-prozentigen Wasserstoffbetrieb.
+Zu den Maßnahmen gehören
+– der hydraulische Abgleich der Heizungsanlage inklusive der Einstellung der Heizkurve,
+– der Ersatz von Heizungs-Umwälzpumpen (Nass- und Trockenläuferpumpen) und Warmwasser-Zirkulationspumpen durch hocheffiziente Pumpen,
+– die Anpassung der Vorlauftemperatur und der Pumpenleistung,
+– die Installation von Armaturen beziehungsweise Technik zur Volumenstromregelung wie voreinstellbare Thermostatventile, Einzelraumtemperaturregler, Strangregulierventile und Differenzdruckregler, Strangdifferenzdruckregler, Volumenstromregler, in Einrohrsystemen Maßnahmen zur Volumenstromregelung und der Umbau von Ein- in Zweirohrsysteme,
+– die Wärmedämmung ungedämmter oder unzureichend gedämmter Wärmeverteilleitungen,
+– Maßnahmen zur Absenkung der Rücklauftemperatur bei Gebäudenetzen,
+– der Einbau von Flächenheizungen und Heizleisten (System-Vorlauftemperaturen ≤ 35 °C), von Niedertemperaturheizkörpern (Vorlauftemperatur ≤ 55 °C) und von Wärmespeichern im Gebäude oder gebäudenah (auf dem Gebäudegrundstück),
+– der Einbau von Mess-, Steuer- und Regelungstechniken,
+– die Umstellung des Trinkwarmwassersystems, das heißt, seine Integration in die Heizungsanlage,
+– elektronisch geregelte Durchlauferhitzer,
+– Rohrinnensanierungen,
+– Filter, Schmutzfänger, Abscheider zur Erhaltung der Funktionalität, Effizienz und Lebensdauer von Heizungsanlagen (Schwerkraftfilter, Schlammabscheider, Magnetitabscheider, Entgasungsgeräte).
+Die Steuerermäßigung setzt bei wassergeführten Heizungssystemen ein hydraulisch abgeglichenes Heizungssystem voraus. Sofern ein Heizungssystem nicht abgeglichen ist, muss ein hydraulischer Abgleich nach Verfahren B gemäß Bestätigungsformular des hydraulischen Abgleichs sowie der zugehörigen Fachregel der „VdZ – Wirtschaftsvereinigung Gebäude und Energie e. V.“ (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) durchgeführt werden. Es ist nicht ausreichend, den hydraulischen Abgleich nur für einen Teil des Heizsystems, beispielsweise eine einzelne Wohneinheit in einem Mehrfamilienhaus mit Zentralheizung, durchzuführen. Weiterhin ist bei luftheizenden Systemen zu bestätigen, dass die Luftvolumenströme gemäß den rechnerisch ermittelten Einstellwerten einreguliert wurden.
+Pumpen müssen mindestens folgende Anforderungen erfüllen:
+– Nassläufer-Umwälzpumpen: Energieeffizienzindex EEI ≤ 0,2 gemäß Verordnung (EU) Nr. 641/2009 in geltender Fassung;
+– Trinkwarmwasser-Zirkulationspumpen: Energieeffizienzindex EEI ≤ 0,2 in Anlehnung an die Verordnung (EU) Nr. 641/2009 in geltender Fassung;
 – Trockenläufer-Umwälzpumpen: Elektromotor der Klasse IE4 und Pumpeneffizienz MEI ≥ 0,6 gemäß Verordnung (EU) Nr. 547/2012.
-Nicht förderfähig innerhalb der Maßnahme „Heizungsoptimierung“ ist der Einbau bzw. Austausch von Wärmeerzeugern.
+Für den Ersatz und erstmaligen Einbau von Pufferspeichern gilt: Wärmespeicher sind von der Steuerermäßigung umfasst, wenn sie Effizienzklasse A oder A+ gemäß Verordnung (EU) Nr. 812/2013 erreichen oder ihre Warmhalteverluste S in Watt in Abhängigkeit vom Speichervolumen V in Litern weniger als 8,5 W + 4,25 W/l V0,4 gemäß Verordnung (EU) Nr. 814/2013 betragen.
+Nicht umfasst ist der Einbau beziehungsweise Austausch von Wärme- oder Stromerzeugern.
 Anlagen zur Trinkwarmwassererwärmung (zum Beispiel solarthermische Warmwasserbereitung) sind Bestandteil der Heizungsanlage.
-Ersatz, Erweiterung und erstmaliger Einbau von Pufferspeichern:
-– Wärmespeicher sind förderfähig, wenn sie Effizienzklasse A oder A+ gemäß Verordnung (EU) Nr. 811/2013 erreichen oder ihre Warmhalteverluste S in Watt in Abhängigkeit vom Speichervolumen V weniger als 8,5 + 4,25 • V⁰,⁴ gemäß Verordnung (EU) Nr. 813/2013 betragen.
-Die nachfolgende Liste weist typische förderfähige Maßnahmen aus. Die Liste ist nicht abschließend. Förderfähig sind weiterhin alle sonstigen Maßnahmen, die zur vollen Funktion und für den energieeffizienten Betrieb der Heizungsanlage erforderlich sind.
-– Heizkörper/Heizflächen:
-  – Austausch von Heizkörpern mit dem Ziel der Systemtemperaturreduzierung, inklusive der erforderlichen Anpassung oder Erneuerung von Rohrleitungen;
-  – erstmaliger Einbau oder Austausch von Flächenheizsystemen, inklusive der erforderlichen Anpassung oder Erneuerung von Rohrleitungen, inklusive Estrich, Trittschalldämmung, Bodenbelag bzw. bei Wandheizung inklusive Putzarbeiten.
-– Heizkörperregelung:
-  – Einbau voreinstellbarer Heizkörperthermostatventile (auch im Austausch);
-  – Einbau oder Austausch von Einzelraum-Temperaturregelung einschließlich aller dazu erforderlichen Komponenten;
-  – Aufrüstung eines Niedertemperaturkessels zu einem Brennwertkessel durch Einbau von zusätzlichen Wärmetauschern einschließlich notwendiger Schornsteinanpassungen.
-– Leitungen, Armaturen, hydraulischer Abgleich:
-  – Durchführung des hydraulischen Abgleichs;
-  – Umsetzung technischer Maßnahmen zur Volumenstromregelung, zum Beispiel Einbau von Strangregulierventilen, Differenzdruckreglern, Volumenstromreglern;
-  – hydraulischer Umbau der Wärmeverteilung/des Rohrleitungssystems zur Optimierung der Wasserumlaufmengen bzw. zur Systemtemperaturreduzierung, zum Beispiel Schließen von Bypässen;
-  – Umbau von Einrohrsystemen in Zweirohrsysteme;
-  – Erweiterung und Sanierung von Nahwärmenetzen, die sich zu 100 Prozent auf der zu den Gebäuden gehörenden Grundstücksfläche oder Grundstücksflächen befinden.
-– Hocheffiziente Heizungs- bzw. Trinkwasserzirkulationspumpen:
-  – Nassläufer-Umwälzpumpen: Energieeffizienzindex EEI ≤ 0,2 gemäß Verordnung (EU) Nr. 641/2009;
-  – Trinkwarmwasser-Zirkulationspumpen: Energieeffizienzindex EEI ≤ 0,2 in Anlehnung an Verordnung (EU) Nr. 641/2009;
-  – Trockenläufer-Umwälzpumpen: Elektromotor der Klasse IE4 und Pumpeneffizienz MEI ≥ 0,6 gemäß Verordnung (EU) Nr. 547/2012.
-– Dämmung der Verteilleitungen:
-  – Wärmedämmung ungedämmter oder unzureichend gedämmter Wärmeverteilleitungen und Armaturen;
-  – schallreduzierende Maßnahmen für Geräusche der Heizungsanlage in schutzbedürftigen Räumen.
-– Umstellung des Warmwassersystems, das heißt Integration in die Heizungsanlage, inklusive notwendiger Sanitärarbeiten wie Austausch der Armaturen;
-– elektronisch geregelte Durchlauferhitzer;
-– Rohrinnensanierungen;
-– Filter, Schmutzfänger, Abscheider zur Erhaltung der Funktionalität, Effizienz und Lebensdauer von Heizungsanlagen (zum Beispiel Schwerkraftfilter, Schlammabscheider, Magnetitabscheider, Entgasungsgeräte).
-Fördervoraussetzung ist der Nachweis des hydraulischen Abgleichs unter Verwendung des Bestätigungsformulars für Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik e. V. VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich).
+Maßnahmen zur Emissionsminderung von Biomasseheizungen
+Umfasst sind Maßnahmen zur Reduzierung der Staubemissionen von Feuerungsanlagen für feste Biomasse mit einer Nennwärmeleistung von 4 kW oder mehr, die älter als zwei Jahre sind, ausgenommen Einzelraumfeuerungsanlagen. Weitere Voraussetzung ist, dass die Reduzierung der Staubemissionen mindestens 80 Prozent im Vergleich zum Ausgangswert beträgt (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent im Normzustand [273 K, 1013 hPa]) sowie dass die Einhaltung der nach § 25 Absatz 1 in Verbindung mit § 5 Absatz 1 Satz 1 1. BImSchV geforderten Grenzwerte gewährleistet ist und zuvor bereits die Anforderungswerte der Stufe 1 nach § 5 Absatz 1 Satz 1 1. BImSchV eingehalten wurden.

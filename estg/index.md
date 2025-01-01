@@ -96,6 +96,7 @@
 
 - [§ 13 Einkünfte aus Land- und Forstwirtschaft](0013.md)
 - [§ 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen](0013a.md)
+- [§ 13b Gemeinschaftliche Tierhaltung](0013b.md)
 - [§ 14 Veräußerung des Betriebs](0014.md)
 - [§ 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe](0014a.md)
 

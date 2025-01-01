@@ -47,7 +47,7 @@
 #### Unterabschnitt 1 Zahlung für Mutterschafe und -ziegen
 
 - [§ 18 Geplante Einheitsbeträge für die Zahlung für Mutterschafe und -ziegen](0018.md)
-- [§ 19 Mindest- und Höchstzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen](0019.md)
+- [§ 19 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen](0019.md)
 
 #### Unterabschnitt 2 Zahlung für Mutterkühe
 

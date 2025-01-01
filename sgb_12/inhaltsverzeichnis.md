@@ -326,6 +326,5 @@
 | § 144 | Einmalzahlung für den Monat Juli 2022 |
 | § 145 | Sofortzuschlag |
 | § 146 | Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung |
-| § 147 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
 Anlage zu § 28
 Anlage zu § 34

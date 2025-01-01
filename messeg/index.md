@@ -60,7 +60,7 @@
 ### Unterabschnitt 1 Verwenden von Messgeräten und Messwerten
 
 - [§ 31 Anforderungen an das Verwenden von Messgeräten](0031.md)
-- [§ 32 Anzeigepflicht](0032.md)
+- [§ 32 (weggefallen)](0032.md)
 - [§ 33 Anforderungen an das Verwenden von Messwerten](0033.md)
 - [§ 34 Vermutungswirkung](0034.md)
 - [§ 35 Ausnahmen für geschlossene Grundstücksnutzungen](0035.md)

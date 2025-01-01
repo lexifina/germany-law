@@ -26,62 +26,65 @@
 
 - [§ 11 Gebietskulisse](0011.md)
 - [§ 12 Anbau von Paludikulturen](0012.md)
+- [§ 12a Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen](0012a.md)
 - [§ 13 Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen](0013.md)
 
 ### Abschnitt 3 Weitere GLÖZ-Standards
 
 - [§ 14 Verbot des Abbrennens von Stoppelfeldern](0014.md)
-- [§ 15 Schaffung von Pufferstreifen entlang von Wasserläufen](0015.md)
+- [§ 15 Schaffung von Pufferstreifen entlang von Gewässern](0015.md)
 - [§ 16 Bodenbearbeitung zur Begrenzung von Erosion](0016.md)
 - [§ 17 Mindestanforderungen an die Bodenbedeckung in den sensibelsten Zeiten](0017.md)
 - [§ 18 Fruchtwechsel auf Ackerland](0018.md)
 
-### Abschnitt 4 Mindestanteil von nichtproduktiven Flächen und Landschaftselementen an Ackerland
+### Abschnitt 4 Landschaftselemente
 
-- [§ 19 Anpassung des Mindestanteils von nichtproduktiven Flächen und Landschaftselementen an Ackerland nach § 11 Absatz 2 des GAP-Konditionalitäten-Gesetzes](0019.md)
-- [§ 20 Anrechnung von nichtproduktiven Flächen und Landschaftselementen](0020.md)
-- [§ 21 Anforderungen an nichtproduktive Flächen](0021.md)
-- [§ 22 Ausnahmen für bestimmte Begünstigte](0022.md)
-- [§ 23 Keine Beseitigung von Landschaftselementen](0023.md)
+- [§ 19 Keine Beseitigung von Landschaftselementen](0019.md)
 
 ### Abschnitt 5 Umweltsensibles Dauergrünland
 
-- [§ 24 Anzeigepflicht für Maßnahmen zur Grasnarbenerneuerung bei umweltsensiblem Dauergrünland](0024.md)
-- [§ 25 Fälle, in denen eine Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 12 Absatz 6 des GAP-Konditionalitäten-Gesetzes nicht erforderlich ist](0025.md)
-- [§ 26 Antrag nach § 12 Absatz 6 des GAP-Konditionalitäten-Gesetzes](0026.md)
-- [§ 27 Geltungsdauer der Aufhebung nach § 12 Absatz 6 des GAP-Konditionalitäten-Gesetzes](0027.md)
-- [§ 28 Rückumwandlung von umweltsensiblen Dauergrünlandflächen](0028.md)
+- [§ 20 Anzeigepflicht für Maßnahmen zur Grasnarbenerneuerung bei umweltsensiblem Dauergrünland](0020.md)
+- [§ 21 Rückumwandlung von umweltsensiblen Dauergrünlandflächen](0021.md)
 
-## Kapitel 3 Kontrollen und Sanktionen
+## Kapitel 3 Vorschriften der sozialen Konditionalität
+
+- [§ 22 Vorschriften der sozialen Konditionalität](0022.md)
+
+## Kapitel 4 Kontrollen, Mitteilungen und Sanktionen
 
 
 ### Abschnitt 1 Allgemeine Vorschriften
 
-- [§ 29 Anzuwendende Vorschriften und Zuständigkeiten](0029.md)
+- [§ 23 Anzuwendende Vorschriften und Zuständigkeiten](0023.md)
 
 ### Abschnitt 2 Kontrollen
 
-- [§ 30 Systematische Vor-Ort-Kontrollen](0030.md)
-- [§ 31 Mindestkontrollsatz](0031.md)
-- [§ 32 Auswahl der Kontrollstichprobe](0032.md)
-- [§ 33 Verwaltungskontrollen](0033.md)
-- [§ 34 Anlassbezogene Vor-Ort-Kontrollen](0034.md)
-- [§ 35 Kontrollbericht](0035.md)
+- [§ 24 Systematische Vor-Ort-Kontrollen](0024.md)
+- [§ 25 Mindestkontrollsatz](0025.md)
+- [§ 26 Auswahl der Kontrollstichprobe](0026.md)
+- [§ 27 Verwaltungskontrollen](0027.md)
+- [§ 28 Anlassbezogene Vor-Ort-Kontrollen](0028.md)
+- [§ 29 Kontrollbericht](0029.md)
 
-### Abschnitt 3 Sanktionen
+### Abschnitt 3 Mitteilungen über Verstöße gegen Vorschriften der sozialen Konditionalität
 
-- [§ 36 Sanktionierung bei Übertragung](0036.md)
-- [§ 37 Ausnahmen von Verwaltungssanktionen](0037.md)
-- [§ 38 Frühwarnsystem bei geringfügigen Verstößen](0038.md)
-- [§ 39 Abweichungen vom Regelsatz für Verwaltungssanktionen](0039.md)
+- [§ 30 Inhalt und Zeitpunkt der Mitteilung](0030.md)
 
-## Kapitel 4 Schlussbestimmungen
+### Abschnitt 4 Sanktionen
 
-- [§ 40 Inkrafttreten](0040.md)
+- [§ 31 Sanktionierung bei Übertragung](0031.md)
+- [§ 32 Ausnahmen von Verwaltungssanktionen](0032.md)
+- [§ 33 Frühwarnsystem bei geringfügigen Verstößen](0033.md)
+- [§ 34 Abweichungen vom Regelsatz für Verwaltungssanktionen](0034.md)
+
+## Kapitel 5 Schlussbestimmungen
+
+- [§ 35 Inkrafttreten](0035.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 11)Klassenzeichen für Bodenarten für Feuchtgebiete und Moore](anlage-1.md)
 - [Anlage 2 (zu § 11)Bodentypen und Legendeneinheiten nach aktueller deutscher Bodensystematik und daran angelehnten Kartenwerken](anlage-2.md)
 - [Anlage 3 (zu § 16)Bestimmung der potenziellen Erosionsgefährdung durch Wasser](anlage-3.md)
 - [Anlage 4 (zu § 16)Bestimmung der potenziellen Erosionsgefährdung durch Wind](anlage-4.md)
-- [Anlage 5 (zu § 17)Frühe Sommerkulturen](anlage-5.md)
+- [Anlage 5 (zu den §§ 16 und 17)Frühe Sommerkulturen](anlage-5.md)
 - [Anlage 6 (zu § 17)Klassenzeichen für Bodenarten für schwere Böden](anlage-6.md)
+- [Anlage 7 (zu § 22)Vorschriften der sozialen Konditionalität](anlage-7.md)

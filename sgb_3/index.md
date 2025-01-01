@@ -652,9 +652,9 @@ zum Erlass von Verwaltungsvorschriften
 ## Dreizehntes Kapitel Sonderregelungen
 
 
-### Erster Abschnitt Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands
+### Erster Abschnitt (weggefallen)
 
-- [§ 408 Besondere Bezugsgröße und Beitragsbemessungsgrenze](0408.md)
+- [§ 408 (weggefallen)](0408.md)
 - [(XXXX) §§ 409 u. 410 (weggefallen)](xxxx-409-u-410.md)
 - [§ 411 (weggefallen)](0411.md)
 - [§ 412 (weggefallen)](0412.md)
@@ -729,3 +729,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0456.md)
 - [§ 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0457.md)
 - [§ 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung](0458.md)
+- [§ 459 Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024](0459.md)

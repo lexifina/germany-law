@@ -3,8 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Teil 1 Berufsberatung nach § 3a des
-Soldatenversorgungsgesetzes
+## Teil 1 Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
 
 - [§ 1 Maßnahmen der schulischen und beruflichen Bildung](0001.md)
 - [§ 1a Zuständigkeiten](0001a.md)
@@ -12,16 +11,14 @@ Soldatenversorgungsgesetzes
 - [§ 2a Erstattung von Aufwendungen für die Berufsberatung](0002a.md)
 - [§ 3 Förderungsplan](0003.md)
 
-## Teil 2 Dienstzeitbegleitende Förderung der schulischen und
-beruflichen Bildung nach § 4 des Soldatenversorgungsgesetzes
+## Teil 2 Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 6 des Soldatenversorgungsgesetzes
 
 - [§ 4 Voraussetzungen der Förderungsfähigkeit](0004.md)
 - [§ 5 Durchführung der dienstzeitbegleitenden Förderung](0005.md)
 - [§ 6 Erstattung von Kosten](0006.md)
-- [§ 7 Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes](0007.md)
+- [§ 7 Bestandteile der Bewilligungen nach § 6 des Soldatenversorgungsgesetzes](0007.md)
 
-## Teil 3 Förderung der schulischen Bildung nach § 5 des
-Soldatenversorgungsgesetzes
+## Teil 3 Förderung der schulischen Bildung nach § 7 des Soldatenversorgungsgesetzes
 
 - [§ 8 Grundsatz zur Förderung der schulischen Bildung](0008.md)
 - [§ 9 Lehrgänge an Bundeswehrfachschulen](0009.md)
@@ -31,8 +28,7 @@ Soldatenversorgungsgesetzes
 - [§ 13 Form und Fristen](0013.md)
 - [§ 14 Versetzung und Prüfung](0014.md)
 
-## Teil 4 Förderung der beruflichen Bildung nach § 5 des
-Soldatenversorgungsgesetzes
+## Teil 4 Förderung der beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes
 
 - [§ 15 Gegenstand der beruflichen Bildung](0015.md)
 - [§ 16 Durchführung der Förderung der beruflichen Bildung](0016.md)
@@ -48,19 +44,19 @@ Soldatenversorgungsgesetzes
 - [§ 26 Zuschuss zu den Umzugsauslagen](0026.md)
 - [§ 27 Verbrauch und Verlängerung der Förderungszeiten](0027.md)
 - [§ 28 Pflichten der Förderungsberechtigten](0028.md)
-- [§ 29 Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes](0029.md)
+- [§ 29 Bestandteile der Bewilligungen nach § 7 des Soldatenversorgungsgesetzes](0029.md)
 
-## Teil 5 Eingliederung nach § 7 des Soldatenversorgungsgesetzes
+## Teil 5 Eingliederung nach § 9 des Soldatenversorgungsgesetzes
 
 - [§ 30 Unterstützung zur Erlangung eines Arbeitsplatzes](0030.md)
 - [§ 31 Eingliederungshilfen](0031.md)
 - [§ 32 Einarbeitungszuschuss](0032.md)
 - [§ 32a Lohnkostenzuschuss](0032a.md)
 - [§ 33 Erstattung von Kosten für Vorstellungsreisen](0033.md)
-- [§ 34 Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes](0034.md)
-- [§ 35 Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes](0035.md)
+- [§ 34 Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes](0034.md)
+- [§ 35 Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes](0035.md)
 - [§ 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen](0036.md)
-- [§ 36a Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes](0036a.md)
+- [§ 36a Eingliederungsseminar nach § 9 Absatz 5 des Soldatenversorgungsgesetzes](0036a.md)
 - [§ 37 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung](0037.md)
 
 ## Teil 6 Schlussvorschriften

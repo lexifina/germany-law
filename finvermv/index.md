@@ -40,7 +40,7 @@
 ## Abschnitt 5 Sonstige Pflichten
 
 - [§ 20 Unzulässigkeit der Annahme von Geldern und Anteilen von Anlegern](0020.md)
-- [§ 21 Anzeigepflicht](0021.md)
+- [§ 21 (weggefallen)](0021.md)
 - [§ 22 Aufzeichnungspflicht](0022.md)
 - [§ 23 Aufbewahrung](0023.md)
 - [§ 24 Prüfungspflicht](0024.md)

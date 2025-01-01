@@ -1,3 +1,8 @@
-# Anlage 7 Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“
+# Anlage 7 (zu § 70 Absatz 1 Nummer 3)ZABILC3 Zahlungen für den Reiseverkehr (Karten-Umsätze) im Außenwirtschaftsverkehr nach § 70 Abs. 1 Nr. 3 der Außenwirtschaftsverordnung
 
-
+| Meldeinhalte |
+| Angaben zum Meldepflichtigen |
+| Angaben zum Einreicher |
+| Kontaktdaten für Rückfragen |
+| Meldedatum |
+| Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern: •Transaktionsrichtung•Kennzahl laut Leistungsverzeichnis•Betrag•Land |

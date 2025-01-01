@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 4 Satz 1 und 2)Reinheitskriterien für Extraktionslösungsmittel
+# Anlage 4 (zu § 4 Absatz 1)Reinheitskriterien für Extraktionslösungsmittel
 
 | Stoff | höchstzulässiger Gehalt im Extraktionslösungsmittel |
 | Arsen Blei | 1 mg/kg 1 mg/kg |

@@ -111,6 +111,7 @@ Organisation des Berufs
 | § 57h | Qualitätskontrolle bei Prüfungsstellen der Sparkassen- und Giroverbände |
 | § 58 | Mitgliedschaft |
 | § 58a | Mitgliederakten |
+| § 58b | Elektronische Kommunikation mit den Mitgliedern |
 | § 59 | Organe; Kammerversammlungen |
 | § 59a | Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle |
 | § 59b | Ehrenamtliche Tätigkeit |

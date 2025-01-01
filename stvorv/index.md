@@ -33,7 +33,6 @@ Eingliederungsschein
 
 ## Abschnitt 6 Schlußvorschriften
 
-- [§ 13 Verbleib des Eingliederungsscheins, des Zulassungsscheins
-oder der Bestätigung](0013.md)
+- [§ 13 Verbleib des Eingliederungsscheins, des Zulassungsscheins oder der Bestätigung](0013.md)
 - [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
 - [Schlußformel](schlussformel.md)

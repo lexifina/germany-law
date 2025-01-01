@@ -93,11 +93,11 @@
 
 - [§ 39 Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung](0039.md)
 
-### Abschnitt 5 (zukünftig in Kraft)
+### Abschnitt 5 Tilgung von Eintragungen im Bundeszentralregister
 
-- [§ 40 (zukünftig in Kraft)](0040.md)
-- [§ 41 (zukünftig in Kraft)](0041.md)
-- [§ 42 (zukünftig in Kraft)](0042.md)
+- [§ 40 Tilgungsfähige Eintragungen im Bundeszentralregister](0040.md)
+- [§ 41 Feststellung der Tilgungsfähigkeit von Eintragungen im Bundeszentralregister](0041.md)
+- [§ 42 Verfahren zur Tilgung von Eintragungen aus dem Bundeszentralregister](0042.md)
 
 ## Kapitel 8 Schlussvorschriften
 

@@ -155,14 +155,14 @@ Gebühren der Behörden im Landesbereich
 |  | 1. | Fahrerlaubnis, Führerschein und Fahrberechtigung |  |
 | 201 |  | Prüfung eines Antrags auf Erteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis oder einer Fahrerlaubnis zur Fahrgastbeförderung durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung des Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen, durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung einer Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 5,10 |
 | 202 |  | Erteilung einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, Erteilung einer Fahrberechtigung, Erteilung des Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen, und/oder Ausfertigung des Führerscheins |  |
-| 202.1 |  | Ersterteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis, Ersterteilung oder Erweiterung einer Fahrerlaubnis zur Fahrgastbeförderung | 34,50 |
+| 202.1 |  | Ersterteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis, Ersterteilung oder Erweiterung einer Fahrerlaubnis zur Fahrgastbeförderung | 35,70 |
 |  |  | bei anlassbezogener Eignungsbegutachtung zusätzlich | 10,20 bis 35,80 |
-| 202.2 |  | auf Grund einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie aus einem in Anlage 11 zur Fahrerlaubnis-Verordnung aufgeführten Staat, sofern keine Prüfung verlangt wird | 26,90 |
-| 202.3 |  | nach vorangegangener Versagung oder Entziehung der in- oder ausländischen Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, nach vorangegangenem Verzicht auf die in- oder ausländische Fahrerlaubnis oder nach Verhängung einer Sperrfrist | 34,50 bis 257,30 |
-| 202.4 |  | als Ersatz | 19,20 bis 37,10 |
-| 202.5 |  | bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV) | 24,30 |
+| 202.2 |  | auf Grund einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie aus einem in Anlage 11 zur Fahrerlaubnis-Verordnung aufgeführten Staat, sofern keine Prüfung verlangt wird | 28,10 |
+| 202.3 |  | nach vorangegangener Versagung oder Entziehung der in- oder ausländischen Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, nach vorangegangenem Verzicht auf die in- oder ausländische Fahrerlaubnis oder nach Verhängung einer Sperrfrist | 35,70 bis 258,50 |
+| 202.4 |  | als Ersatz | 20,40 bis 38,30 |
+| 202.5 |  | bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV) | 25,50 |
 | 202.6 |  | bei besonders hohem Aufwand der Feststellung des Besitzstandes | 10,20 bis 30,70 |
-| 202.7 |  | Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst | 9,00 |
+| 202.7 |  | Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst | 10,20 |
 | 202.8 |  | Ausfertigung einer Prüfungsbescheinigung nach § 48a FeV | 7,70 |
 | 202.9 |  | Überprüfung einer Begleitperson nach § 48a Absatz 5 Satz 2 FeV | 1,50 bis 10,00 |
 | 202.10 |  | Erteilung einer Fahrberechtigung für Mitglieder der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 19,20 |
@@ -371,9 +371,9 @@ Gebühren der Behörden im Landesbereich
 | 343 |  | Fahrerqualifizierungsnachweis |  |
 | 343.1 |  | Prüfung eines Antrags auf Ausstellung eines Fahrerqualifizierungsnachweises oder eines neuen Fahrerqualifizierungsnachweises bei Änderungen oder Beschädigung sowie Entscheidung über den Antrag (§§ 8 und 9 BKrFQV) | 15,80 |
 | 343.2 |  | Prüfung eines Antrags auf Ausstellung eines neuen Fahrerqualifizierungsnachweises bei Verlust oder Diebstahl sowie Entscheidung über den Antrag (§ 9 Absatz 2 BKrFQV) | 20,20 |
-| 343.3 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand innerhalb Deutschlands | 11,70 |
-| 343.4 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand in EU-Mitgliedstaaten | 12,80 |
-| 343.5 |  | Ausstellung eines Fahrerqualifizierungsnachweises im Expressverfahren sowie Aushändigung des Fahrerqualifizierungsnachweises | 17,10 |
+| 343.3 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand innerhalb Deutschlands | 14,20 |
+| 343.4 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand in EU-Mitgliedstaaten | 15,60 |
+| 343.5 |  | Ausstellung eines Fahrerqualifizierungsnachweises im Expressverfahren sowie Aushändigung des Fahrerqualifizierungsnachweises | 20,60 |
 | 344 |  | Prüfung eines Antrags auf Anrechnung anderer abgeschlossener spezieller Aus- und Weiterbildungsmaßnahmen sowie Entscheidung über den Antrag (§ 2 Absatz 5, § 4 Absatz 4 BKrFQV) | 7,00 |
 | 345 |  | Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG | 51,10 bis 511,00 |
 | 346 |  | Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG | 30,70 bis 511,00 |

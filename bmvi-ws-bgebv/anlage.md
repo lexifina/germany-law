@@ -362,11 +362,9 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenomm
 | 48 | Entzug der Fahrerlaubnis oder des Befähigungsnachweises (See und Binnen) | § 13 Absatz 1 SpFV | 768 |
 | 49 | Anordnung des Ruhens der Fahrerlaubnis (See und Binnen) | § 14 Absatz 1 Satz 1 Absatz 3 SpFV | 768 |
 | 50 | Vorläufige Sicherstellung des Sportbootführerscheins beziehungsweise des Befähigungszeugnisses (See und Binnen) | § 15 Absatz 1 SpFV | 768 |
-| 51 | Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge | § 2 Absatz 2 KüSchV | 69,30 |
-| 52 | Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge bei Erteilung einer Jahresgenehmigung | § 2 Absatz 2 KüSchV | 831 |
-| 53 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots mit einfacher Feststellung des Verschuldens | § 50 Absatz 1 bis 4 SUG | 923 |
-| 54 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots nach einem Unfall mit aufwändiger Feststellung des Verschuldens (z. B. bei mehreren Beteiligten) | § 50 Absatz 1 bis 4 SUG | 2 241 – 4 836 |
-| 55 | Fertigung eines feststellenden Verwaltungsakts |  | nach Zeitaufwand |
+| 51 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots mit einfacher Feststellung des Verschuldens | § 50 Absatz 1 bis 4 SUG | 923 |
+| 52 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots nach einem Unfall mit aufwändiger Feststellung des Verschuldens (z. B. bei mehreren Beteiligten) | § 50 Absatz 1 bis 4 SUG | 2 241 – 4 836 |
+| 53 | Fertigung eines feststellenden Verwaltungsakts |  | nach Zeitaufwand |
 Abschnitt 4
 Gebühren des Bundesamtes für Seeschifffahrt und Hydrographie
 Vorbemerkungen

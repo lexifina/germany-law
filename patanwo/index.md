@@ -57,7 +57,8 @@
 - [§ 32 Zustellung](0032.md)
 - [§ 33 Bestellung eines Vertreters im Verwaltungsverfahren](0033.md)
 - [§ 34 Ermittlung des Sachverhalts und Übermittlung von Daten](0034.md)
-- [(XXXX) §§ 35 bis 38 (weggefallen)](xxxx-35-bis-38.md)
+- [§ 35 Ersetzung der Schriftform](0035.md)
+- [(XXXX) §§ 36 bis 38 (weggefallen)](xxxx-36-bis-38.md)
 
 ## Dritter Teil Rechte und Pflichten des Patentanwalts und berufliche Zusammenarbeit der Patentanwälte
 
@@ -321,5 +322,6 @@
 
 - [§ 161 Maßgabe nach dem Einigungsvertrag](0161.md)
 - [§ 162 Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften](0162.md)
+- [§ 163 Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft](0163.md)
 - [Anlage 1 (zu § 52a Absatz 4 Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
 - [Anlage 2 (zu § 146 Satz 1 und § 148 Satz 1)Gebührenverzeichnis](anlage-2.md)

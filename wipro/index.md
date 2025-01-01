@@ -125,6 +125,7 @@
 - [§ 57h Qualitätskontrolle bei Prüfungsstellen der Sparkassen- und Giroverbände](0057h.md)
 - [§ 58 Mitgliedschaft](0058.md)
 - [§ 58a Mitgliederakten](0058a.md)
+- [§ 58b Elektronische Kommunikation mit den Mitgliedern](0058b.md)
 - [§ 59 Organe; Kammerversammlungen](0059.md)
 - [§ 59a Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle](0059a.md)
 - [§ 59b Ehrenamtliche Tätigkeit](0059b.md)

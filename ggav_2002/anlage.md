@@ -64,7 +64,7 @@ Inhaltsverzeichnis
 | Ausnahme 30 | – offen – |
 | Ausnahme 31 (S) | Prüfungsfahrten bei technischen Untersuchungen |
 | Ausnahme 32 (S, E) | Beförderung durch zivile Unternehmen im Auftrag und unter der Verantwortung der Bundeswehr |
-| Ausnahme 33 (M) | Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt betreiben |
+| Ausnahme 33 (M) | Beförderung gefährlicher Güter auf Fährschiffen |
 | Ausnahme 34 (M) | Beförderung gefährlicher Güter zur Offshore-Versorgung |
 Ausnahme 1
 – offen –
@@ -478,8 +478,8 @@ Beförderungen durch zivile Unternehmen im Auftrag und unter der Verantwortung d
 2 Angaben im Beförderungspapier
   Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: „Ausnahme 32 (BwXX)“, wobei XX der Nummer der Allgemeinen Ausnahmegenehmigung der Bundeswehr gemäß Nummer 1 Buchstabe a bis h entspricht.
 Ausnahme 33 (M)
-Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt betreiben
-1 Abweichend von § 3 Absatz 1 der GGVSee dürfen gefährliche Güter auf Fährschiffen, die Küstenschifffahrt im Sinne des § 1 der Verordnung über die Küstenschifffahrt vom 5. Juli 2002 (BGBl. I S. 2555), die zuletzt durch Artikel 176 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, betreiben, sowie auf der Fährstrecke Eemshaven/Borkum befördert werden, wenn die nachfolgenden Bestimmungen beachtet werden.
+Beförderung gefährlicher Güter auf Fährschiffen
+1 Abweichend von § 3 Absatz 1 der GGVSee dürfen gefährliche Güter auf Fährschiffen, die Fahrgäste oder Güter an einem Ort im Gebiet der Bundesrepublik Deutschland an Bord nehmen und sie gegen Entgelt an einen Bestimmungsort in diesem Gebiet befördern, sowie auf der Fährstrecke Eemshaven/Borkum befördert werden, wenn die nachfolgenden Bestimmungen beachtet werden.
 2 Anwendungsbereich
   Mit Ausnahme der unter Nummer 3 genannten gefährlichen Güter dürfen gefährliche Güter in CTU nur befördert werden, wenn
   a) sie den Klassen 1 bis 9 ADR oder IMDG-Code zugeordnet und zur Beförderung zugelassen sind und

@@ -28,7 +28,7 @@
 - [§ 14 Aufzeichnungs- und Aufbewahrungspflicht](0014.md)
 - [§ 15 Außerordentliche Prüfungen](0015.md)
 - [§ 16 Rechte und Pflichten der an der außerordentlichen Prüfung Beteiligten](0016.md)
-- [§ 17 Anzeigepflicht](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 
 ## Abschnitt 5 Grenzüberschreitende Verwaltungszusammenarbeit
 

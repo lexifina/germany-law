@@ -3,7 +3,7 @@
 Gliederung
 Teil 1 Gebühren
 Hauptabschnitt 1 Register- und Grundbuchangelegenheiten
-| Abschnitt 1 | Rechtsdienstleistungsregister |
+| Abschnitt 1 | (weggefallen) |
 | Abschnitt 2 | (weggefallen) |
 | Abschnitt 3 | Bundeszentral- und Gewerbezentralregister |
 | Abschnitt 4 | (weggefallen) |
@@ -12,6 +12,7 @@ Hauptabschnitt 1 Register- und Grundbuchangelegenheiten
 Hauptabschnitt 2 Verfahren des Bundesamts für Justiz
 | Abschnitt 1 | Ordnungsgeldverfahren |
 | Abschnitt 2 | Schlichtung nach § 57a LuftVG |
+| Abschnitt 3 | Rechtsdienstleistungsregister |
 Hauptabschnitt 3 Justizverwaltungsangelegenheiten mit Auslandsbezug
 | Abschnitt 1 | Beglaubigungen und Bescheinigungen |
 | Abschnitt 2 | Rechtshilfeverkehr in zivilrechtlichen Angelegenheiten |
@@ -27,11 +28,9 @@ Teil 1
 Gebühren
 | Nr. | Gebührentatbestand | Gebührenbetrag |
 | Hauptabschnitt 1 Register- und Grundbuchangelegenheiten |
-| Abschnitt 1 Rechtsdienstleistungsregister |
-| 1110 | Registrierung nach dem RDG .......... Bei Registrierung einer juristischen Person oder einer rechtsfähigen Personengesellschaft wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten. | 150,00 € |
-| 1111 | Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 1110 abgegolten ist: je Person .......... | 150,00 € |
-| 1112 | Widerruf oder Rücknahme der Registrierung .......... | 75,00 € |
-| Abschnitt 2(weggefallen) |
+| Abschnitt 1 (weggefallen) |
+|  |  |  |
+| Abschnitt 2 (weggefallen) |
 |  |
 | Abschnitt 3 Bundeszentral- und Gewerbezentralregister |
 | Vorbemerkung 1.1.3: Die Gebühr 1130 wird nicht erhoben, wenn ein Führungszeugnis zur Ausübung einer ehrenamtlichen Betreuung (§ 19 Abs. 1, § 21 BtOG) oder einer ehrenamtlichen Tätigkeit benötigt wird, die für eine gemeinnützige Einrichtung, für eine Behörde oder im Rahmen eines der in § 32 Abs. 4 Nr. 2 Buchstabe d EStG genannten Dienste ausgeübt wird. |
@@ -59,6 +58,13 @@ Gebühren
 | 1222 | Beendigung des gesamten Verfahrens vor Absendung des Schlichtungsvorschlags an die Beteiligten in anderen als den in Nummer 1221 genannten Fällen: Die Gebühr 1220 ermäßigt sich auf | 150,00 € |
 | 1223 | Anspruchsteller sind in einem Verfahren mehrere Fluggäste: Die Verfahrensgebühr erhöht sich für jeden weiteren Fluggast um.......... | 30,00 € |
 | 1224 | Auferlegung einer Gebühr nach § 57a Absatz 3 LuftVG.......... | 30,00 € |
+|  |  |  |
+| Abschnitt 3 Rechtsdienstleistungsregister |
+| 1230 | Registrierung nach dem RDG .......... | 300,00 € |
+|  | Bei Registrierung einer juristischen Person oder einer rechtsfähigen Personengesellschaft wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten. |  |
+| 1231 | Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 1230 abgegolten ist:je Person .......... | 150,00 € |
+| 1232 | Widerruf oder Rücknahme der Registrierung .......... | 300,00 € |
+|  |  |  |
 | Hauptabschnitt 3 Justizverwaltungsangelegenheiten mit Auslandsbezug |
 | Abschnitt 1 Beglaubigungen und Bescheinigungen |
 | 1310 | Beglaubigung von amtlichen Unterschriften für den Auslandsverkehr .......... | 25,00 € |
@@ -117,7 +123,6 @@ Gebühren
 | 1437 | eines Berichts zur Gleichstellung und Entgeltgleichheit nach § 22 Abs. 4 EntgTranspG .......... | 55,00 € |
 | 1438 | eines gesonderten nichtfinanziellen Berichts nach § 289b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB oder eines gesonderten nichtfinanziellen Konzernberichts nach § 315b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB .......... | 55,00 € |
 | 1439 | eines Ertragsteuerinformationsberichts nach § 342m HGB .......... | 220,00 € |
-|  |  |  |
 | Abschnitt 4Sonstige Gebühren |
 | 1440 | Übermittlung zur Einsichtnahme von Unterlagen, die nach § 326 Abs. 2 Satz 1 oder § 325 Abs. 2b Nr. 3 HGB zur dauerhaften Hinterlegung eingestellt wurden:für jede übermittelte Unterlage .......... | 1,00 € |
 | 1441 | Verfahren zur Registrierung nach § 3 Abs. 2, § 3a URV; die Identitätsprüfung erfolgt unter Verwendung |  |

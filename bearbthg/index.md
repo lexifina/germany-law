@@ -27,6 +27,7 @@
 
 - [§ 8](0008.md)
 - [§ 8a](0008a.md)
+- [§ 8b](0008b.md)
 
 ## V. Abschnitt Schlußvorschriften
 

@@ -78,10 +78,10 @@ Abschnitt 4
 Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung
 | § 39 | Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung |
 Abschnitt 5
-(zukünftig in Kraft)
-| § 40 | (zukünftig in Kraft) |
-| § 41 | (zukünftig in Kraft) |
-| § 42 | (zukünftig in Kraft) |
+Tilgung von Eintragungen im Bundeszentralregister
+| § 40 | Tilgungsfähige Eintragungen im Bundeszentralregister |
+| § 41 | Feststellung der Tilgungsfähigkeit von Eintragungen im Bundeszentralregister |
+| § 42 | Verfahren zur Tilgung von Eintragungen aus dem Bundeszentralregister |
 Kapitel 8
 Schlussvorschriften
 | § 43 | Evaluation des Gesetzes |

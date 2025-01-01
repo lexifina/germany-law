@@ -49,4 +49,5 @@ medizinischer Bademeister
 - [§ 16](0016.md)
 - [§ 17](0017.md)
 - [§ 18](0018.md)
+- [§ 18a](0018a.md)
 - [§ 19](0019.md)

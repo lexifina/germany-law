@@ -279,8 +279,8 @@
 | Zu § 53a des Gesetzes |
 |  |  |
 | § 99a | Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme |
-| § 99b | Nachweis der Hocheffizienz |
-| § 99c | Betriebsgewöhnliche Nutzungsdauer |
+| § 99b | (weggefallen) |
+| § 99c | (weggefallen) |
 | § 99d | (weggefallen) |
 |  |
 | Zu § 54 des Gesetzes |
@@ -288,9 +288,9 @@
 | § 100 | Steuerentlastung für Unternehmen |
 | § 100a | Verwendung von Wärme durch andere Unternehmen |
 |  |
-| Zu § 55 des Gesetzes |
+| Zu § 55 des Gesetzes (weggefallen) |
 |  |  |
-| § 101 | Steuerentlastung für Unternehmen in Sonderfällen |
+| § 101 | (weggefallen) |
 |  |
 | Zu § 56 des Gesetzes |
 |  |  |

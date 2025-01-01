@@ -1,6 +1,6 @@
 # Anlage (zu § 8 Absatz 4 Satz 1) Muster für die Widerrufsbelehrung
 
-(Fundstelle: BGBl I 2021, 1687 – 1690)
+(Fundstelle: BGBl I 2021, 1687 – 1690, bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Widerrufsbelehrung |
 | Abschnitt 1Widerrufsrecht, Widerrufsfolgen und besondere Hinweise |
 | Widerrufsrecht |
@@ -70,10 +70,9 @@
 | Gestaltungshinweise: |
 |  | Für die Lebensversicherung lautet der Klammerzusatz: „30“. |
 |  | Bei Versicherungsprodukten, für die nach der Verordnung (EU) Nr. 1286/2014 ein Basisinformationsblatt zu erstellen ist, sind hier die Wörter „das Basisinformationsblatt zur Verfügung gestellt worden ist und“ einzusetzen. Bei Versicherungsprodukten, bei denen nach der Verordnung (EU) 2019/1238 ein PEPP-Basisinformationsblatt zu erstellen ist, sind hier die Wörter „das PEPP-Basisinformationsblatt zur Verfügung gestellt worden ist und“ einzusetzen. |
-|  | Der Punkt „der Versicherungsschein,“ entfällt bei Belehrung der versicherten Person eines Vertrages gemäß § 7d des Versicherungsvertragsgesetzes (VVG). |
+|  | Der Punkt „der Versicherungsschein,“ entfällt bei Belehrung der versicherten Person eines Vertrages gemäß § 7a Absatz 5 Satz 3 und 4 des Versicherungsvertragsgesetzes (VVG). |
 |  | Der Punkt „das Informationsblatt zu Versicherungsprodukten“ ist nur aufzunehmen, wenn ein Informationsblatt zu Versicherungsprodukten nach § 4 der VVG-Informationspflichtenverordnung zur Verfügung zu stellen ist. Bei Altersvorsorge- und Basisrentenverträgen, für die ein individuelles Produktinformationsblatt nach § 7 Absatz 1 des Altersvorsorgeverträge-Zertifizierungsgesetzes zu erstellen ist, sind die Wörter „das Informationsblatt zu Versicherungsprodukten“ durch die Wörter „das Produktinformationsblatt“ zu ersetzen. |
-|  | Bei Restschuldversicherungen, die als Nebenprodukt oder als Teil eines Pakets oder derselben Vereinbarung angeboten werden (§ 7a Absatz 5 VVG), sowie bei Belehrung der versicherten Person eines Vertrages gemäß § 7d VVG ist folgender Satz einzufügen: |
-|  | „Die Widerrufsfrist beginnt zudem nicht, bevor Ihnen mindestens eine Woche nach Abgabe Ihrer Vertragserklärung die Belehrung über das Widerrufsrecht und das Informationsblatt zu Versicherungsprodukten erneut in Textform zugegangen sind.“ |
+|  | (weggefallen) |
 |  | Hier sind einzusetzen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn die Versicherungsnehmerin oder der Versicherungsnehmer eine Bestätigung ihrer oder seiner Widerrufserklärung an den Versicherer erhält, auch eine Internetadresse. |
 |  | Der Betrag kann auch in anderen Unterlagen, zum Beispiel im Antrag, ausgewiesen sein; dann lautet der Klammerzusatz je nach Ausgestaltung: „den im Antrag/im … auf Seite …/unter Nummer … ausgewiesenen Betrag“. |
 |  | Bei der Lebensversicherung ist gegebenenfalls folgender Satz einzufügen: |
@@ -85,5 +84,5 @@
 |  | Die Information unter Nummer 7 ist nur einzufügen bei der fondsgebundenen Lebens- oder Berufsunfähigkeitsversicherung oder der fondsgebundenen Unfallversicherung mit Prämienrückgewähr. Die Information unter Nummer 9 ist nur einzufügen bei Lebens- und Berufsunfähigkeitsversicherungsverträgen, die Versicherungsschutz für ein Risiko bieten, bei dem der Eintritt der Verpflichtung des Versicherers gewiss ist. Bei Übernahme der Informationen unter Nummer 7 oder Nummer 9 entfällt der Kursivdruck. |
 |  | Werden Informationen gemäß den vorstehenden Vorgaben nicht aufgenommen, ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 7 nicht übernommen, wird Nummer 8 zu Nummer 7 etc.). Die letzte in die Widerrufsbelehrung aufgenommene Information in diesem Unterabschnitt soll mit dem Satzzeichen „.“ abschließen. |
 |  | Dieser Unterabschnitt ist nur einzufügen bei der substitutiven Krankenversicherung. Handelt es sich um den zweiten Unterabschnitt, so ist die Überschrift „Unterabschnitt 3“ durch die Überschrift „Unterabschnitt 2“ zu ersetzen. |
-|  | Bei Belehrung der versicherten Person eines Vertrages nach § 7d VVG lautet der Klammerzusatz „der versicherten Person“. |
+|  | Bei Belehrung der versicherten Person eines Vertrages nach § 7a Absatz 5 Satz 3 und 4 VVG lautet der Klammerzusatz „der versicherten Person“. |
 |  | Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind die Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) [einsetzen: Firma des Versicherers]“ zu ersetzen. |

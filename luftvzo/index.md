@@ -62,14 +62,9 @@
 - [§ 47 Aufsicht](0047.md)
 - [§ 48 Rücknahme und Widerruf der Genehmigung](0048.md)
 
-### 2. Lärmbedingte Betriebsbeschränkungen von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen an Flughäfen
+### 2. (§§ 48a bis 48f weggefallen)
 
-- [§ 48a Begriffsbestimmungen](0048a.md)
-- [§ 48b Lärmbedingte Betriebsbeschränkungen an einem Flughafen](0048b.md)
-- [§ 48c Prüfung für die Einführung von lärmbedingten Betriebsbeschränkungen](0048c.md)
-- [§ 48d Fristen zur Einführung von lärmbedingten Betriebsbeschränkungen](0048d.md)
-- [§ 48e Verfahren zur Einführung von lärmbedingten Betriebsbeschränkungen](0048e.md)
-- [§ 48f Ausnahmegenehmigungen](0048f.md)
+- [(XXXX) §§ 48a bis 48f (weggefallen)](xxxx-48a-bis-48f.md)
 
 ### 3. Landeplätze
 

@@ -9,7 +9,7 @@
 | § 3 | Befreiung von der Versicherungspflicht |
 | § 4 | Freiwillige Versicherung |
 | § 5 | Freiwillige Weiterversicherung |
-| § 6 | Verordnungsermächtigung |
+| § 6 | (weggefallen) |
 |  |
 | Zweites Kapitel |
 | Leistungen |
@@ -115,13 +115,12 @@
 | § 32 | Anspruchsvoraussetzungen |
 | § 33 | Berechnung |
 | § 34 | Fälligkeit, Beginn und Änderung von Beitragszuschüssen |
-| § 35 | Verordnungsermächtigung |
+| § 35 | (weggefallen) |
 |  |
 | Zweiter Titel |
 | Zuschuss zum Beitrag zur Krankenversicherung |
 |  |
 | § 35a | Zuschuß zum Beitrag zur Krankenversicherung |
-| § 35b | (weggefallen) |
 |  |
 | Dritter Abschnitt |
 | Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft |
@@ -375,6 +374,7 @@
 | § 107 | Beitragszuschüsse |
 | § 107a | Ausfertigung von Einkommensteuerbescheiden |
 | § 107b | Neuregelung des Zuschusses zum Beitrag zum 1. April 2021 |
+| § 107c | Neuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025 |
 |  |
 | Siebter Unterabschnitt |
 | Rentenauskunft |
@@ -426,7 +426,7 @@
 |  |
 | § 128 | Versicherungsfreiheit |
 | § 129 | Kürzung der Renten |
-| § 130 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
+| § 130 | (weggefallen) |
 |  |
 | Anlage 1 | (weggefallen) |
 |  |

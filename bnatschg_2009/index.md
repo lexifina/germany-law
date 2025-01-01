@@ -106,7 +106,7 @@
 
 ### Abschnitt 6 Ermächtigungen
 
-- [§ 54 Ermächtigung zum Erlass von Rechtsverordnungen](0054.md)
+- [§ 54 Ermächtigung zum Erlass von Rechtsverordnungen; Erlass von Verwaltungsvorschriften](0054.md)
 - [§ 55 Durchführung gemeinschaftsrechtlicher oder internationaler Vorschriften; Ermächtigung zum Erlass von Rechtsverordnungen](0055.md)
 
 ## Kapitel 6 Meeresnaturschutz

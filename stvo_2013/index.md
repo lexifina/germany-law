@@ -59,7 +59,7 @@
 - [§ 44 Sachliche Zuständigkeit](0044.md)
 - [§ 44a Besondere sachliche Zuständigkeit des Fernstraßen-Bundesamtes](0044a.md)
 - [§ 45 Verkehrszeichen und Verkehrseinrichtungen](0045.md)
-- [§ 46 Ausnahmegenehmigung und Erlaubnis](0046.md)
+- [§ 46 Ausnahmegenehmigungen, Erlaubnisse und Bewohnerparkausweise](0046.md)
 - [§ 47 Örtliche Zuständigkeit](0047.md)
 - [§ 48 Verkehrsunterricht](0048.md)
 - [§ 49 Ordnungswidrigkeiten](0049.md)

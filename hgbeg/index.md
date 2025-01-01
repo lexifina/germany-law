@@ -278,3 +278,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Fünfundfünfzigster Abschnitt Übergangsvorschrift zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs
 
 - [Art 94](art-94.md)
+
+## Sechsundfünfzigster Abschnitt Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+
+- [Art 95](art-95.md)

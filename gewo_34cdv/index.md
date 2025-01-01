@@ -8,7 +8,7 @@
 - [§ 6 Getrennte Vermögensverwaltung](0006.md)
 - [§ 7 Ausnahmevorschrift](0007.md)
 - [§ 8 Rechnungslegung](0008.md)
-- [§ 9 Anzeigepflicht](0009.md)
+- [§ 9 (weggefallen)](0009.md)
 - [§ 10 Buchführungspflicht](0010.md)
 - [§ 11 Informationspflicht und Werbung](0011.md)
 - [§ 12 Unzulässigkeit abweichender Vereinbarungen](0012.md)

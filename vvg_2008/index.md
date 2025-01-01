@@ -22,7 +22,7 @@
 - [§ 7a Querverkäufe](0007a.md)
 - [§ 7b Information bei Versicherungsanlageprodukten](0007b.md)
 - [§ 7c Beurteilung von Versicherungsanlageprodukten; Berichtspflicht](0007c.md)
-- [§ 7d Beratung, Information und Widerruf bei bestimmten Gruppenversicherungen](0007d.md)
+- [§ 7d (weggefallen)](0007d.md)
 - [§ 8 Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung](0008.md)
 - [§ 9 Rechtsfolgen des Widerrufs](0009.md)
 - [§ 10 Beginn und Ende der Versicherung](0010.md)

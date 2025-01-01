@@ -45,5 +45,5 @@
 ## Teil 5 Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
 
 - [§ 18 Umgang mit personenbezogenen Daten; Verordnungsermächtigung](0018.md)
-- [§ 19 Zuständigkeit und Übertragung von Befugnissen](0019.md)
+- [§ 19 (weggefallen)](0019.md)
 - [§ 20 Bußgeldvorschriften](0020.md)

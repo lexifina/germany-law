@@ -1,7 +1,7 @@
 # Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher
 
 - [§ 1 Geltungsbereich der Erlaubnis](0001.md)
-- [§ 2 Anzeige](0002.md)
+- [§ 2 (weggefallen)](0002.md)
 - [§ 3 Buchführung](0003.md)
 - [§ 4](0004.md)
 - [§ 5 Annahme des Pfandes](0005.md)
@@ -11,7 +11,7 @@
 - [§ 9 Verwertung](0009.md)
 - [§ 10 Zinsen und Vergütung](0010.md)
 - [§ 11 Überschüsse aus der Verwertung](0011.md)
-- [§ 12 Aushang](0012.md)
+- [§ 12 (weggefallen)](0012.md)
 - [§ 12a Ordnungswidrigkeiten](0012a.md)
 - [§ 13 (weggefallen)](0013.md)
 - [§ 14 (weggefallen)](0014.md)

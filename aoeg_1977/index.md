@@ -11,8 +11,7 @@ Gebiet des Finanzwesens
 ### Art 1 bis 6
 
 
-### Art 7 Hauptfeststellung der Einheitswerte der
-Mineralgewinnungsrechte
+### Art 7 Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte
 
 
 ### Art 8 bis 38

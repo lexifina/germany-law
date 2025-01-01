@@ -14,8 +14,6 @@ Gruppe A:
 | Cerastium semidecandrum | Fünfmänniges Hornkraut |
 | Crepis capillaris | Kleinköpfiger Pippau |
 | (weggefallen) |  |
-| Descurainia sophia | Gewöhnliche Besenrauke |
-| Erysimum cheiranthoides | Acker-Schöterich |
 | Euphorbia exigua | Kleine Wolfsmilch |
 | Euphorbia helioscopia | Sonnenwend-Wolfsmilch |
 | Euphorbia peplus | Garten-Wolfsmilch |
@@ -40,13 +38,11 @@ Gruppe A:
 | Myosurus minimus | Kleines Mäuseschwänzchen |
 | Odontites vulgaris | Roter Zahntrost |
 | Ornithopus perpusillus | Kleiner Vogelfuß |
-| Papaver argemone | Sand-Mohn |
 | Papaver dubium | Saat-Mohn |
 | Phacelia tanacetifolia | Rainfarn-Phazelie |
 | Polygonum arenastrum | Gleichblättriger Vogelknöterich |
 | Raphanus sativus | Ölrettich |
 | Reseda lutea | Gelber Wau |
-| Sisymbrium officinale | Wege-Rauke |
 | Spergula arvensis | Acker-Spergel |
 | Spergularia rubra | Rote Schuppenmiere |
 | Teesdalia nudicaulis | Bauernsenf |
@@ -54,7 +50,6 @@ Gruppe A:
 | Trifolium arvense | Hasen-Klee |
 | Trifolium campestre | Feld-Klee |
 | Trifolium dubium | Kleiner Klee |
-| Turritis glabra | Turmkraut |
 | Valerianella carinata | Gekieltes Rapünzchen |
 | Valerianella locusta | Gewöhnliches Rapünzchen |
 | Veronica agrestis | Acker-Ehrenpreis |
@@ -64,7 +59,6 @@ Gruppe B:
 | Achillea millefolium | Gewöhnliche Schafgarbe |
 | Agrimonia eupatoria | Kleiner Odermennig |
 | Agrimonia procera | Großer Odermennig |
-| Ajuga reptans | Kriech-Günsel |
 | Allium oleraceum | Gemüse-Lauch |
 | Allium scorodoprasum | Schlangen-Lauch |
 | Allium vineale | Weinbergs-Lauch |
@@ -73,23 +67,17 @@ Gruppe B:
 | Anthriscus sylvestris | Wiesen-Kerbel |
 | Arctium lappa | Große Klette |
 | Arctium minus | Kleine Klette |
-| Arctium tomentosum | Filz-Klette |
 | Asparagus officinalis | Gemüse-Spargel |
 | Astragalus glycyphyllos | Süßer Tragant |
 | Ballota nigra | Gewöhnliche Schwarznessel |
 | Bellis perennis | Ausdauerndes Gänseblümchen |
 | Bistorta officinalis | Schlangen-Wiesenknöterich |
 | Bryonia dioica | Rotbeerige Zaunrübe |
-| Campanula persicifolia | Pfirsichblättrige Glockenblume |
 | Campanula rapunculoides | Acker-Glockenblume |
 | Cardamine pratensis | Wiesen-Schaumkraut |
-| Carduus crispus | Krause Distel |
-| Carduus nutans | Nickende Distel |
-| Carlina vulgaris | Kleine Eberwurz |
 | Carum carvi | Kümmel |
 | Cerastium arvense | Acker-Hornkraut |
 | Cerastium holosteoides | Gewöhnliches Hornkraut |
-| Chaerophyllum bulbosum | Rüben-Kälberkropf |
 | Chelidonium majus | Schöllkraut |
 | Chondrilla juncea | Großer Knorpellattich |
 | Cichorium intybus | Gewöhnliche Wegwarte |
@@ -97,7 +85,6 @@ Gruppe B:
 | Crepis biennis | Wiesen-Pippau |
 | Cruciata laevipes | Gewimpertes Kreuzlabkraut |
 | Daucus carota | Wilde Möhre |
-| Digitalis purpurea | Roter Fingerhut |
 | Dipsacus fullonum | Wilde Karde |
 | Dipsacus pilosus | Behaarte Karde |
 | Echium vulgare | Gewöhnlicher Natternkopf |
@@ -111,7 +98,6 @@ Gruppe B:
 | Euphorbia esula | Esels-Wolfsmilch |
 | Filipendula ulmaria | Echtes Mädesüß |
 | Foeniculum vulgare | Fenchel |
-| Gagea pratensis | Wiesen-Goldstern |
 | Galium album | Weißes Labkraut |
 | Galium verum | Echtes Labkraut |
 | Geranium pratense | Wiesen-Storchschnabel |
@@ -126,8 +112,6 @@ Gruppe B:
 | Hieracium pilosella | Kleines Habichtskraut |
 | Hieracium piloselloides | Florentiner Habichtskraut |
 | Hieracium umbellatum | Doldiges Habichtskraut |
-| Hypericum hirsutum | Behaartes Hartheu |
-| Hypericum perforatum | Tüpfel-Hartheu |
 | Hypochaeris radicata | Gewöhnliches Ferkelkraut |
 | Knautia arvensis | Wiesen-Witwenblume |
 | Lamium album | Weiße Taubnessel |
@@ -158,7 +142,6 @@ Gruppe B:
 | Origanum vulgare | Gewöhnlicher Dost |
 | Ornithogalum umbellatum | Dolden-Milchstern |
 | Pastinaca sativa | Gewöhnlicher Pastinak |
-| Petasites hybridus | Gewöhnliche Pestwurz |
 | Picris hieracioides | Gewöhnliches Bitterkraut |
 | Pimpinella major | Große Pimpinelle |
 | Pimpinella saxifraga | Kleine Pimpinelle |
@@ -175,10 +158,6 @@ Gruppe B:
 | Securigera varia | Bunte Beilwicke |
 | Sedum acre | Scharfer Mauerpfeffer |
 | Sedum sexangulare | Milder Mauerpfeffer |
-| Silene dioica | Rote Lichtnelke |
-| Silene latifolia | Breitblättrige Lichtnelke |
-| Silene nutans | Nickendes Leimkraut |
-| Silene vulgaris | Gemeines Leimkraut |
 | Solidago virgaurea | Gewöhnliche Goldrute |
 | Stachys sylvatica | Wald-Ziest |
 | Stellaria aquatica | Wasser-Sternmiere |
@@ -200,5 +179,4 @@ Gruppe B:
 | Vicia cracca | Vogel-Wicke |
 | Vicia sepium | Zaun-Wicke |
 | Vicia tenuifolia | Feinblättrige Wicke |
-| Vincetoxicum hirundinaria | Weiße Schwalbenwurz |
 | Viola hirta | Behaartes Veilchen |

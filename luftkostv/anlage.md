@@ -413,9 +413,7 @@ VI. Verwendung und Betrieb von Luftfahrtgerät
   | 5. | Zulassung einer Abweichung von den Flugdienst- und Ruhezeiten (§ 8 Abs. 4 und § 12 der 2. DV LuftBO) | 100 bis 1 400 EUR |
   | 6. | Erteilung einer Flugliniengenehmigung (§ 21 Abs. 1 LuftVG) | 110 bis 1 125 EUR |
   | 7. | Erteilung einer allgemeinen Ausflugerlaubnis (§ 2 Abs. 6 und 8 LuftVG) | 50 bis 700 EUR |
-  | 8. | Zulassung von Ausnahmen für Flüge von und zu bestimmten Flugplätzen (§ 24 Absatz 2 LuftVO) |  |
-  |  | a) | allgemein | 800 EUR |
-  |  | b) | im Einzelfall | 80 EUR |
+  | 8. | (weggefallen) |  |
   | 9. | Genehmigung von Luftfahrtveranstaltungen (§ 24 LuftVG, § 75 LuftVZO) | 50 bis 10 300 EUR |
   | 10. | Zulassung von Ausnahmen zur Unterschreitung der Sicherheitsmindesthöhe oder der Mindesthöhe bei Überlandflügen nach Sichtflugregeln (§ 37 LuftVO) | 50 bis 500 EUR |
   | 11. | Zulassung von Ausnahmen zum Abwerfen von Gegenständen (§ 13 Absatz 2 LuftVO) | 60 bis 170 EUR |

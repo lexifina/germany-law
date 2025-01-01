@@ -285,8 +285,8 @@
 ## - Zu § 53a des Gesetzes
 
 - [§ 99a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme](0099a.md)
-- [§ 99b Nachweis der Hocheffizienz](0099b.md)
-- [§ 99c Betriebsgewöhnliche Nutzungsdauer](0099c.md)
+- [§ 99b (weggefallen)](0099b.md)
+- [§ 99c (weggefallen)](0099c.md)
 - [§ 99d (weggefallen)](0099d.md)
 
 ### - Zu § 54 des Gesetzes
@@ -294,9 +294,9 @@
 - [§ 100 Steuerentlastung für Unternehmen](0100.md)
 - [§ 100a Verwendung von Wärme durch andere Unternehmen](0100a.md)
 
-### - Zu § 55 des Gesetzes
+### - (weggefallen)
 
-- [§ 101 Steuerentlastung für Unternehmen in Sonderfällen](0101.md)
+- [§ 101 (weggefallen)](0101.md)
 
 ### - Zu § 56 des Gesetzes
 
@@ -360,10 +360,7 @@
 - [§ 112 Übergangsregelung](0112.md)
 - [Anlage 1 (zu den §§ 55, 74 und 84a)Verzicht auf förmliche Einzelerlaubnis](anlage-1.md)
 - [Anlage 2 (zu § 110 Satz 1 Nr. 7)Verfahren zur Bestimmung des Rotfarbstoffgehalts in leichtem Heizöl oder in Gemischen von leichtem Heizöl mit nicht gekennzeichnetem Gasöl mittels Hochdruckflüssigkeitschromatographie (HPLC-Verfahren)](anlage-2.md)
-- [Anlage 3 (zu § 110 Satz 1 Nr. 8)
-
-Harmonisiertes Euromarker - Referenzanalyseverfahren der Gemeinschaft zur 
-Ermittlung des Markierstoffs Solvent Yellow 124 in Gasölen](anlage-3.md)
+- [Anlage 3 (weggefallen)](anlage-3.md)
 - [Anlage 4 (zu § 110 Satz 1 Nr. 9)
 
 Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen](anlage-4.md)

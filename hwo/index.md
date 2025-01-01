@@ -268,7 +268,7 @@ zulassungspflichtigen Handwerk
 - [§ 123](0123.md)
 - [§ 123a](0123a.md)
 - [§ 124](0124.md)
-- [§ 124a](0124a.md)
+- [§ 124a (weggefallen)](0124a.md)
 - [§ 124b](0124b.md)
 - [§ 124c](0124c.md)
 

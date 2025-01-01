@@ -7,7 +7,7 @@ B. Rechtsverordnungen
 2. Berufsförderungsverordnung in der jeweils geltenden Fassung
 3. Bundeswehrfachschulprüfungsverordnung in der jeweils geltenden Fassung
 4. Stellenvorbehaltsverordnung in der jeweils geltenden Fassung
-5. Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes in der jeweils geltenden Fassung
+5. Verordnung über die einmalige Unfallentschädigung gemäß § 84 des Soldatenversorgungsgesetzes in der jeweils geltenden Fassung
 C. Verwaltungsvorschriften
 Allgemeine Verwaltungsvorschriften zum Soldatenversorgungsgesetz in der jeweils geltenden Fassung
 D. Richtlinien:

@@ -95,7 +95,7 @@ für einzelne Renten
 - [§ 38 Altersrente für besonders langjährig Versicherte](0038.md)
 - [§ 39 (weggefallen)](0039.md)
 - [§ 40 Altersrente für langjährig unter Tage beschäftigte Bergleute](0040.md)
-- [§ 41 Altersrente und Kündigungsschutz](0041.md)
+- [§ 41 Altersrente und Ende des Arbeitsverhältnisses](0041.md)
 - [§ 42 Vollrente und Teilrente](0042.md)
 
 ##### Zweiter Titel Renten wegen verminderter
@@ -324,8 +324,7 @@ Beschäftigte](0133.md)
 - [§ 135 Nachversicherung](0135.md)
 - [§ 136 Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See](0136.md)
 - [§ 136a Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene der knappschaftlichen Rentenversicherung](0136a.md)
-- [§ 137 Besonderheit bei der Durchführung der Versicherung und bei den
-Leistungen](0137.md)
+- [§ 137 Besonderheit bei der Durchführung der Versicherung und bei den Leistungen](0137.md)
 
 #### Unterabschnitt 3a Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
 
@@ -369,7 +368,6 @@ Versicherungsträger
 - [§ 151 Auskünfte der Deutschen Post AG](0151.md)
 - [§ 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt](0151a.md)
 - [§ 151b Automatisiertes Abrufverfahren beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0151b.md)
-- [§ 151c Auskunftsrechte zur Überprüfung von Einkünften aus Kapitalvermögen beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0151c.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 
 ## Viertes Kapitel Finanzierung
@@ -430,6 +428,7 @@ und Sozialbeirat
 - [§ 176 Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen](0176.md)
 - [§ 176a Beitragszahlung und Abrechnung bei Pflegepersonen](0176a.md)
 - [§ 176b Beitragszahlung und Abrechnung für Bezieher von Übergangsgebührnissen](0176b.md)
+- [§ 176c Beitragszahlung und Abrechnung für Bezieher von Erwerbsschadensausgleich](0176c.md)
 - [§ 177 Beitragszahlung für Kindererziehungszeiten](0177.md)
 - [§ 178 Verordnungsermächtigung](0178.md)
 
@@ -472,6 +471,7 @@ besonderen Fällen
 - [§ 192 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst](0192.md)
 - [§ 192a Meldepflicht für Zeiten einer besonderen Auslandsverwendung](0192a.md)
 - [§ 192b Meldepflichten bei Bezug von Übergangsgebührnissen](0192b.md)
+- [§ 192c Meldepflichten bei Bezug von Erwerbsschadensausgleich](0192c.md)
 - [§ 193 Meldung von sonstigen rechtserheblichen Zeiten](0193.md)
 - [§ 194 Gesonderte Meldung und Hochrechnung](0194.md)
 - [§ 195 Verordnungsermächtigung](0195.md)
@@ -560,7 +560,7 @@ Aufwendungen
 #### Erster Unterabschnitt Grundsatz
 
 - [§ 228 Grundsatz](0228.md)
-- [§ 228a Besonderheiten für das Beitrittsgebiet](0228a.md)
+- [§ 228a (weggefallen)](0228a.md)
 - [§ 228b Maßgebende Werte in der Anpassungsphase](0228b.md)
 
 #### Zweiter Unterabschnitt Versicherter
@@ -729,8 +729,8 @@ Knappschaft-Bahn-See](0273.md)
 
 ##### Zweiter Titel Beiträge
 
-- [§ 275a Beitragsbemessungsgrenzen im Beitrittsgebiet für die Zeit bis zum 31. Dezember 2024](0275a.md)
-- [§ 275b Verordnungsermächtigung](0275b.md)
+- [§ 275a (weggefallen)](0275a.md)
+- [§ 275b (weggefallen)](0275b.md)
 - [§ 275c (weggefallen)](0275c.md)
 - [§ 276 Übergangsregelung für Auszubildende in einer außerbetrieblichen Einrichtung](0276.md)
 - [§ 276a Arbeitgeberanteil bei Versicherungsfreiheit](0276a.md)
@@ -740,13 +740,12 @@ Knappschaft-Bahn-See](0273.md)
 - [§ 277a Durchführung der Nachversicherung im Beitrittsgebiet](0277a.md)
 - [§ 278 Mindestbeitragsbemessungsgrundlage
 für die Nachversicherung](0278.md)
-- [§ 278a Mindestbeitragsbemessungsgrundlage für die Nachversicherung
-im Beitrittsgebiet](0278a.md)
+- [§ 278a Mindestbeitragsbemessungsgrundlage für die Nachversicherung im Beitrittsgebiet](0278a.md)
 - [§ 279 Beitragspflichtige Einnahmen bei
 Hebammen und Handwerkern](0279.md)
 - [§ 279a Beitragspflichtige Einnahmen mitarbeitender Ehegatten im
 Beitrittsgebiet](0279a.md)
-- [§ 279b Beitragsbemessungsgrundlage für freiwillig Versicherte](0279b.md)
+- [§ 279b (weggefallen)](0279b.md)
 - [§ 279c Beitragstragung im Beitrittsgebiet](0279c.md)
 - [§ 279d Beitragszahlung im Beitrittsgebiet](0279d.md)
 - [§ 279e (weggefallen)](0279e.md)
@@ -914,7 +913,7 @@ für Renten nach den Vorschriften des Beitrittsgebiets
 
 - [§ 320 Bußgeldvorschriften](0320.md)
 - [§ 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0321.md)
-- [§ 322 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0322.md)
+- [§ 322 (weggefallen)](0322.md)
 - [Anlage 1 Durchschnittsentgelt in Euro/DM/RM](anlage-1.md)
 - [Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM](anlage-2.md)
 - [Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM](anlage-2a.md)

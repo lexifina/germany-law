@@ -18,7 +18,7 @@
     | Geplanter Einheitsbetrag Stufe 1 | 900 Euro | 900 Euro | 900 Euro | 900 Euro |
     | Geplanter Einheitsbetrag Stufe 2 | 400 Euro | 400 Euro | 400 Euro | 400 Euro |
     | Geplanter Einheitsbetrag Stufe 3 | 200 Euro | 200 Euro | 200 Euro | 200 Euro |
-    Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 1 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche bis zum Umfang von 3 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3 angewendet.
+    Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird der geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.4.1 Satz 4 genannten Fall im Umfang von bis zu 1 Hektar begünstigungsfähiger Fläche auch dann angewendet, wenn diese Fläche größer ist als 1 Prozent des förderfähigen Dauergrünlands des Betriebs. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche bis zum Umfang von 3 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3 angewendet.
 2. § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes
   |  | Antragsjahr 2023 | Antragsjahr 2024 | Antragsjahr 2025 | Antragsjahr 2026 |
   | Geplanter Einheitsbetrag | 45 Euro | 60 Euro | 60 Euro | 60 Euro |

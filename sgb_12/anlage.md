@@ -15,6 +15,7 @@
 | 1. Januar 2022 | 449 | 404 | 360 | 376 | 311 | 285 |
 | 1. Januar 2023 | 502 | 451 | 402 | 420 | 348 | 318 |
 | 1. Januar 2024 | 563 | 506 | 451 | 471 | 390 | 357 |
+| 1. Januar 2025 | 563 | 506 | 451 | 471 | 390 | 357 |
 Regelbedarfsstufe 1:
 Für jede erwachsene Person, die in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt und für die nicht Regelbedarfsstufe 2 gilt.
 Regelbedarfsstufe 2:

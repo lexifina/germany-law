@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 7)Auswahl-Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur
+# Anlage 2 (zu § 7)Auswahl-Richtlinie des Bundesministeriums für Digitales und Verkehr
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote

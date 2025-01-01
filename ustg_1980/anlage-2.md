@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
+# Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
 
 | Lfd.Nr. | Warenbezeichnung | Zolltarif(Kapitel, Position,Unterposition) |
 | 1 | Lebende Tiere, und zwara)(weggefallen) |  |

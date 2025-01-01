@@ -35,7 +35,7 @@
   Saarbrücken
   Stuttgart
   Sylt
-2. Flugplätze, an denen Flugplatzinformationsdienst notwendig ist:
+2. Flugplätze, an denen Flugplatz-Fluginformationsdienst notwendig ist:
   Allendorf/Eder
   Bamberg-Breitenau
   Bautzen
@@ -45,11 +45,13 @@
   Donauwörth HEL
   Eggenfelden
   Emden
+  Frankfurt-Egelsbach
   Giebelstadt
   Hassfurt-Schweinfurt
   Kiel-Holtenau
   Leipzig-Altenburg Airport
   Magdeburg/City
+  Magdeburg/Cochstedt
   Mengen-Hohentengen
   Neubrandenburg
   Schönhagen

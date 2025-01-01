@@ -26,6 +26,7 @@
 ## IV. Abschnitt Übergangsvorschriften
 
 - [§ 8](0008.md)
+- [§ 8a](0008a.md)
 
 ## V. Abschnitt Anwendung des Verwaltungsverfahrensgesetzes
 

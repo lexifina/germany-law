@@ -1,45 +1,45 @@
 # Anlage 1 (zu § 12 Absatz 1)
 
 | Anzahl der zu berücksichtigenden Haushaltsmitglieder | Mietenstufe | Höchstbetrag in Euro |
-| 1 | I | 338 |
-|  | II | 381 |
-|  | III | 426 |
-|  | IV | 478 |
-|  | V | 525 |
-|  | VI | 575 |
-|  | VII | 633 |
-| 2 | I | 409 |
-|  | II | 461 |
-|  | III | 516 |
-|  | IV | 579 |
-|  | V | 636 |
-|  | VI | 697 |
-|  | VII | 767 |
-| 3 | I | 487 |
-|  | II | 549 |
-|  | III | 614 |
-|  | IV | 689 |
-|  | V | 757 |
-|  | VI | 830 |
-|  | VII | 912 |
-| 4 | I | 568 |
-|  | II | 641 |
-|  | III | 716 |
-|  | IV | 803 |
-|  | V | 884 |
-|  | VI | 968 |
-|  | VII | 1 065 |
-| 5 | I | 649 |
-|  | II | 732 |
-|  | III | 818 |
-|  | IV | 918 |
-|  | V | 1 010 |
-|  | VI | 1 106 |
-|  | VII | 1 217 |
-| Mehrbetrag für jedes weitere zu berücksichtigende Haushaltsmitglied | I | 77 |
-| II | 88 |
-| III | 99 |
-| IV | 111 |
-|  | V | 121 |
-|  | VI | 139 |
-|  | VII | 153 |
+| 1 | I | 361 |
+| II | 408 |
+| III | 456 |
+| IV | 511 |
+| V | 562 |
+| VI | 615 |
+| VII | 677 |
+| 2 | I | 437 |
+| II | 493 |
+| III | 551 |
+| IV | 619 |
+| V | 680 |
+| VI | 745 |
+| VII | 820 |
+| 3 | I | 521 |
+| II | 587 |
+| III | 657 |
+| IV | 737 |
+| V | 809 |
+| VI | 887 |
+| VII | 975 |
+| 4 | I | 608 |
+| II | 686 |
+| III | 766 |
+| IV | 858 |
+| V | 946 |
+| VI | 1 035 |
+| VII | 1 139 |
+| 5 | I | 694 |
+| II | 782 |
+| III | 875 |
+| IV | 982 |
+| V | 1 080 |
+| VI | 1 183 |
+| VII | 1 302 |
+| Mehrbetrag für jedes weitere zu berücksichtigende Haushaltsmitglied | I | 82 |
+| II | 94 |
+| III | 106 |
+| IV | 119 |
+| V | 129 |
+| VI | 149 |
+| VII | 163 |

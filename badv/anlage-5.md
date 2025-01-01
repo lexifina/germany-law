@@ -43,19 +43,6 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 | 7.1 | Be- und Enttanken | 2 | 4 |
 | 7.2 | Nachfüllen von Öl und anderen Flüssigkeiten | unbegrenzt | unbegrenzt |
 Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
-Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Tegel (TXL) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
-|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
-| 3 | Gepäckabfertigung | 2 | 2 |
-| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
-| 5.1 | Lotsen |  |  |
-| 5.2 | Unterstützen beim Parken |
-| 5.3 | Kommunikation Flugzeug/Abfertiger |
-| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck |
-| 5.5 | Anlassen/Triebwerke |
-| 5.6 | Bewegen des Flugzeugs/Bereitstellen |
-| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 3 |
-| 7 | Betankungsdienste | 2 | 8 |
-Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hamburg (HAM) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 |  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
 | 3 | Gepäckabfertigung | 2 | 2 |
@@ -135,7 +122,7 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 | 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 2 |
 | 7 | Betankungsdienste | unbegrenzt | unbegrenzt |
 Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im Einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
-Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Schönefeld (SXF) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Brandenburg (BER) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 |  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
 | 3 | Gepäckabfertigung | 3 | 3 |
 | 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 3 | 3 |

@@ -390,7 +390,7 @@ pharmazeutischen Unternehmern
 - [§ 129a Krankenhausapotheken](0129a.md)
 - [§ 130 Rabatt](0130.md)
 - [§ 130a Rabatte der pharmazeutischen Unternehmer](0130a.md)
-- [§ 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel, Verordnungsermächtigung](0130b.md)
+- [§ 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel](0130b.md)
 - [§ 130c Verträge von Krankenkassen mit pharmazeutischen Unternehmern](0130c.md)
 - [§ 130d Preise für Arzneimittel zur Therapie von Gerinnungsstörungen bei Hämophilie](0130d.md)
 - [§ 130e Kombinationsabschlag](0130e.md)

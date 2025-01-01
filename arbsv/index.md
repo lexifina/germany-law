@@ -10,8 +10,7 @@ nach dem Arbeitssicherstellungsgesetz
 - [§ 6 Verteilung der Arbeitskräfte](0006.md)
 - [§ 7 Entscheidung der Agentur für Arbeit](0007.md)
 - [§ 8 Arbeitskräfteausschuss bei der Agentur für Arbeit](0008.md)
-- [§ 9 Arbeitskräfteausschüsse bei den durch den Vorstand der Bundesagentur
-für Arbeit beauftragten Stellen](0009.md)
+- [§ 9 Arbeitskräfteausschüsse bei den durch den Vorstand der Bundesagentur für Arbeit beauftragten Stellen](0009.md)
 - [§ 10 Weitere Aufgaben der Arbeitskräfteausschüsse und
 der Bundesagentur für Arbeit](0010.md)
 - [§ 11 Entschädigung und Auslagenerstattung](0011.md)

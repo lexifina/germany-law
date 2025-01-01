@@ -87,6 +87,7 @@ und für die Luftfahrt](0018.md)
 unterliegen](0032.md)
 - [§ 33 Rechnungen über Kleinbeträge](0033.md)
 - [§ 34 Fahrausweise als Rechnungen](0034.md)
+- [§ 34a Rechnungen von Kleinunternehmern](0034a.md)
 
 ## - Zu § 15 des Gesetzes
 

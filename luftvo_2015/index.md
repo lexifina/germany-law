@@ -56,7 +56,7 @@
 
 - [§ 22 Regelung des Flugplatzverkehrs](0022.md)
 - [§ 23 Flugbetrieb auf einem Flugplatz und in dessen Umgebung](0023.md)
-- [§ 24 Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle](0025.md)
 - [§ 26 Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken](0026.md)
 

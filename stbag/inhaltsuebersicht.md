@@ -8,5 +8,5 @@
 | § 6 | Aufstieg in höhere Laufbahnen |
 | § 7 | Bundesfinanzakademie |
 | § 8 | Ausbildungs- und Prüfungsordnung |
-| § 9 | Ausnahmen wegen der COVID-19-Pandemie |
+| § 9 | (weggefallen) |
 | § 10 | Übergangsvorschrift zu § 9 |

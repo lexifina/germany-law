@@ -4,6 +4,7 @@ Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1 und Abs
 | Stoff | Restgehalt im verzehrfertigen aromatisierten Lebensmittel höchstens |
 | Diethylether |  | 2 mg/kg |
 | Hexan |  | 1 mg/kg |
+| 2-Methyloxolan |  | 1 mg/kg |
 | Methylacetat |  | 1 mg/kg |
 | Butan-1-ol |  | 1 mg/kg |
 | Butan-2-ol |  | 1 mg/kg |

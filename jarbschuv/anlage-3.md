@@ -1,4 +1,34 @@
 # Anlage 3 Ärztliche Mitteilung an den Personensorgeberechtigten
 
-[Bild: pdf_grafik_jarbschuv_b0351.jpg]
-[Bild: pdf_grafik_jarbschuv_b0352.jpg]
+Erstuntersuchung nach § 32 Absatz 1 und Nachuntersuchungen nach §§ 33 bis 35 und § 42 Jugendarbeitsschutzgesetz (JArbSchG)
+|  |  |  |  |
+|  | Name, Vorname, Geburtsdatum des Jugendlichen (Versichertenstammdaten) | Aufgrund der Untersuchung halte ich die Gesundheit des Jugendlichen durch die Ausübung nachstehend angekreuzter Arbeiten für gefährdet. Nach § 40 Absatz 1 JArbSchG darf der Jugendliche mit diesen Arbeitennicht beschäftigt werden. |  |
+|  |  |  |  |
+Zutreffendes bitte ⊠ ankreuzen.
+| ☐ Erstuntersuchung (gem. § 32 Abs. 1 JArbschG) |  |
+| ☐ Erste Nachuntersuchung (gem. § 33 Abs. 1 JArbSchG) | ☐ Weitere Nachuntersuchung (gem. § 34 JArbSchG) |
+| ☐ Außerordentliche Nachuntersuchung (gem. § 35 JArbSchG) | ☐ Angeordnete Nachuntersuchung (gem. § 42 JArbSchG) |
+Folgende Arbeiten müssen vermieden werden:
+| ☐ | Überwiegendes Stehen. |
+| ☐ | Überwiegendes Gehen. |
+| ☐ | Überwiegendes Sitzen. |
+| ☐ | Häufiges Einnehmen einer Zwangshaltung (z. B. Bücken, Hocken, Knien) _____________________________ |
+| ☐ | Häufiges Heben, Tragen oder Bewegen von Lasten ohne mechanische Hilfsmittel. |
+| ☐ | Arbeiten mit erhöhter Absturzgefahr. |
+| ☐ | Arbeiten mit besonderen klimatischen Belastungen (z. B. Kälte, Hitze, Nässe, Zugluft, starke Temperaturschwankungen) _________________________________ |
+| ☐ | Arbeiten mit physikalischen Belastungen (z. B. Lärm, mechanische Schwingungen/Erschütterungen) _________________________________________ |
+| ☐ | Arbeiten mit chemischer Belastung für die Haut oder der Schleimhäute durch Gase, Stäube, Dämpfe, Rauch ___________________________________________________________________________________ |
+| ☐ | Arbeiten, die die volle Sehkraft ohne Sehhilfe erfordern. |
+| ☐ | Arbeiten, die die Farbtüchtigkeit erfordern. |
+| ☐ | Sonstige Arbeiten: _________________________________________________________________________ |
+Das wesentliche Ergebnis der Untersuchung ist
+| ☐ | Normalbefund |
+| ☐ | Eine außerordentliche Nachuntersuchung nach § 35 Absatz 1 JArbSchG wird angeordnet: |
+|  |  | nach Ablauf von Monaten __________________________ |
+|  |  | spätestens bis zum _______________________________ |
+| ☐ | Es wird empfohlen, dass der Jugendliche sich möglichst bald einem Arzt/Zahnarzt vorstellt, wegen _______________________________________________________________________________________ |
+| Empfehlungen: ________________________________________________________________________________ |
+|  |  |  |
+| (Ort, Datum der abschließenden Beurteilung) |  | (Unterschrift des untersuchenden Arztes) |
+Zur Beachtung: Vor Ablauf des ersten Beschäftigungsjahres vor dem 18. Geburtstag ist eine Nachuntersuchung erforderlich. Falls die öffentliche Berufsberatung in Anspruch genommen wird, sollte ihr von dem Personensorgeberechtigten im Interesse des Jugendlichen das vorstehende Untersuchungsergebnis mitgeteilt werden.
+__________

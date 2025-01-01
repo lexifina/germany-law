@@ -10,5 +10,5 @@
 | Rosa rugosa | Kartoffel-Rose |
 | Symphoricarpos albus | Gewöhnliche Schneebeere |
 | Quercus rubra | Roteiche |
-| Paulownia tomentosa | Blauglockenbaum |
-Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angelegt werden.
+| Paulownia tomentosa und ihre Hybriden, sofern sie nicht steril sind | Blauglockenbaum |
+Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angelegt werden. Der Ausschluss nicht steriler Hybride von Paulownia tomentosa gilt für Agroforstsysteme, die nach dem 31. Dezember 2024 angelegt werden.

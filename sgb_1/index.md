@@ -44,6 +44,7 @@ und zuständige Leistungsträger
 - [§ 22 Leistungen der gesetzlichen Unfallversicherung](0022.md)
 - [§ 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte](0023.md)
 - [§ 24 Leistungen der Sozialen Entschädigung](0024.md)
+- [§ 24a Leistungen der Soldatenentschädigung](0024a.md)
 - [§ 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe](0025.md)
 - [§ 26 Wohngeld](0026.md)
 - [§ 27 Leistungen der Kinder- und Jugendhilfe](0027.md)
@@ -115,4 +116,4 @@ Leistungsberechtigten
 - [§ 69 Stadtstaaten-Klausel](0069.md)
 - [§ 70 Überleitungsvorschrift zum Verjährungsrecht](0070.md)
 - [§ 71 Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung](0071.md)
-- [§ 72 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0072.md)
+- [§ 72 (weggefallen)](0072.md)

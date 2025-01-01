@@ -60,6 +60,7 @@
 |  | § 18j | Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen |
 |  | § 18k | Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro |
 |  | § 19 | Besteuerung der Kleinunternehmer |
+|  | § 19a | Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat |
 |  | § 20 | Berechnung der Steuer nach vereinnahmten Entgelten |
 |  | § 21 | Besondere Vorschriften für die Einfuhrumsatzsteuer |
 |  | § 21a | Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro |
@@ -95,8 +96,10 @@
 |  | § 30 | Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union |
 | Anlage 1 (zu § 4 Nr. 4a) |
 |  | Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können |
-| Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14) |
+| Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2 und 14) |
 |  | Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände |
 | Anlage 3 (zu § 13b Absatz 2 Nummer 7) |
 |  | Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7 |
 | Anlage 4 (zu § 13b Absatz 2 Nummer 11) |
+| Anlage 5 (zu § 24 Absatz 5) |
+|  | Berechnung des Durchschnittssatzes für Land- und Forstwirte im Sinne des § 24 Absatz 1 Satz 1 Nummer 3 |

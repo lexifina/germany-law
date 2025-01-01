@@ -10,7 +10,7 @@
 - [§ 3 Befreiung von der Versicherungspflicht](0003.md)
 - [§ 4 Freiwillige Versicherung](0004.md)
 - [§ 5 Freiwillige Weiterversicherung](0005.md)
-- [§ 6 Verordnungsermächtigung](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 
 ## Zweites Kapitel Leistungen
 
@@ -110,7 +110,7 @@ von Renten
 - [§ 32 Anspruchsvoraussetzungen](0032.md)
 - [§ 33 Berechnung](0033.md)
 - [§ 34 Fälligkeit, Beginn und Änderung von Beitragszuschüssen](0034.md)
-- [§ 35 Verordnungsermächtigung](0035.md)
+- [§ 35 (weggefallen)](0035.md)
 
 ##### Zweiter Titel Zuschuss zum Beitrag zur
 Krankenversicherung
@@ -353,6 +353,7 @@ Renten mit Einkommen
 - [§ 107 Beitragszuschüsse](0107.md)
 - [§ 107a Ausfertigung von Einkommensteuerbescheiden](0107a.md)
 - [§ 107b Neuregelung des Zuschusses zum Beitrag zum 1. April 2021](0107b.md)
+- [§ 107c Neuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025](0107c.md)
 
 #### Siebter Unterabschnitt Rentenauskunft
 
@@ -404,7 +405,7 @@ von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung
 
 - [§ 128 Versicherungsfreiheit](0128.md)
 - [§ 129 Kürzung der Renten](0129.md)
-- [§ 130 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0130.md)
+- [§ 130 (weggefallen)](0130.md)
 - [Anlage 1](anlage-1.md)
 - [Anlage 2](anlage-2.md)
 - [Anlage 3](anlage-3.md)

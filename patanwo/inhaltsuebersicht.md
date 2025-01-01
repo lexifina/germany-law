@@ -51,7 +51,8 @@ Verwaltungsverfahren
 | § 32 | Zustellung |
 | § 33 | Bestellung eines Vertreters im Verwaltungsverfahren |
 | § 34 | Ermittlung des Sachverhalts und Übermittlung von Daten |
-| §§ 35 bis 38 | (weggefallen) |
+| § 35 | Ersetzung der Schriftform |
+| §§ 36 bis 38 | (weggefallen) |
 Dritter Teil
 Rechte und Pflichten des Patentanwalts
 und berufliche Zusammenarbeit der Patentanwälte
@@ -299,5 +300,6 @@ Elfter Teil
 | § 160 | Inhaber von Erlaubnisscheinen |
 | § 161 | Maßgabe nach dem Einigungsvertrag |
 | § 162 | Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften |
+| § 163 | Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft |
 | Anlage 1 (zu § 52a Absatz 4 Satz 1) | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen |
 | Anlage 2 (zu § 146 Satz 1 und § 148 Satz 1) | Gebührenverzeichnis |

@@ -37,5 +37,4 @@
 
 - [§ 18 Übergangsvorschrift](0018.md)
 - [§ 19 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes](0019.md)
-- [§ 20 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0020.md)
 - [Anlage (zu § 9)Kostenverzeichnis](anlage.md)

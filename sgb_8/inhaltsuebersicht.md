@@ -299,6 +299,6 @@
 | Elftes Kapitel |
 | Übergangs- und Schlussvorschriften |
 | § 106 | Einschränkung eines Grundrechts |
-| § 107 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
+| § 107 | (weggefallen) |
 | § 108 | Übergangsregelung |
 |  |  |

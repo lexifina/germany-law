@@ -9,6 +9,6 @@
 - [§ 6 Registrierungsverfahren](0006.md)
 - [§ 7 Aufbewahrungsfristen](0007.md)
 - [§ 8 Öffentliche Bekanntmachungen im Rechtsdienstleistungsregister](0008.md)
-- [§ 9 Löschung von Veröffentlichungen](0009.md)
+- [§ 9 (weggefallen)](0009.md)
 - [§ 10 Inkrafttreten](0010.md)
 - [Schlussformel](schlussformel.md)

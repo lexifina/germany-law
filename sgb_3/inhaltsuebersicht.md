@@ -647,8 +647,8 @@
 | Sonderregelungen |
 |  |  |
 | Erster Abschnitt |
-| Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands |
-| § 408 | Besondere Bezugsgröße und Beitragsbemessungsgrenze |
+| (weggefallen) |
+| § 408 | (weggefallen) |
 | §§ 409 bis 416a | (weggefallen) |
 |  |  |
 | Zweiter Abschnitt |
@@ -713,3 +713,4 @@
 | § 456 | Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes |
 | § 457 | Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |
 | § 458 | Gesetz zur Stärkung der Aus- und Weiterbildungsförderung |
+| § 459 | Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024 |

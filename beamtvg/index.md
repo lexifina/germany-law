@@ -134,6 +134,7 @@
 - [§ 69l Übergangsregelung zu § 55](0069l.md)
 - [§ 69m Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0069m.md)
 - [§ 69n Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen](0069n.md)
+- [§ 69o Übergangsregelungen zu Unfallfürsorgeleistungen](0069o.md)
 
 ## Abschnitt 11 Anpassung der Versorgungsbezüge
 

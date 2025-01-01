@@ -19,26 +19,26 @@
 - [§ 8 Register der Hersteller](0008.md)
 - [§ 9 Einwegkunststoffprodukte von nicht oder nicht ordnungsgemäß registrierten Herstellern](0009.md)
 - [§ 10 Beauftragung von Bevollmächtigten; Drittbeauftragung](0010.md)
-- [§ 11 (zukünftig in Kraft)](0011.md)
+- [§ 11 Jährliche Meldung der Hersteller](0011.md)
 
 ## Teil 4 Einwegkunststoffabgabe
 
 - [§ 12 Abgabepflicht](0012.md)
-- [§ 13 (zukünftig in Kraft)](0013.md)
+- [§ 13 Festsetzung, Fälligkeit und Säumnis](0013.md)
 - [§ 14 Festlegung der Abgabesätze, Verordnungsermächtigung](0014.md)
 
 ## Teil 5 Register der Anspruchsberechtigten, Pflichten der Anspruchsberechtigten
 
 - [§ 15 Registrierung der Anspruchsberechtigten](0015.md)
 - [§ 16 Register der Anspruchsberechtigten](0016.md)
-- [§ 17 (zukünftig in Kraft)](0017.md)
-- [§ 18 (zukünftig in Kraft)](0018.md)
+- [§ 17 Jährliche Meldung der Anspruchsberechtigten](0017.md)
+- [§ 18 Kontrolle der Angaben](0018.md)
 
 ## Teil 6 Auszahlung
 
 - [§ 19 Punktesystem, Verordnungsermächtigung](0019.md)
-- [§ 20 (zukünftig in Kraft)](0020.md)
-- [§ 21 (zukünftig in Kraft)](0021.md)
+- [§ 20 Bekanntgabe und Berechnung des Punktewertes](0020.md)
+- [§ 21 Festsetzung und Auszahlung der Mittel](0021.md)
 
 ## Teil 7 Feststellungsbefugnisse
 

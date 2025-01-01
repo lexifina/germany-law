@@ -19,6 +19,7 @@ Haushaltsplan
 - [§ 6a Budgetierung](0006a.md)
 - [§ 7 Grundsatz der Gesamtdeckung](0007.md)
 - [§ 7a Grundsätze der staatlichen Doppik](0007a.md)
+- [§ 7b Periodengerechte Aufteilung von Zinskosten im Haushalt des Bundes](0007b.md)
 
 ### Abschnitt II Aufstellung des Haushaltsplans
 

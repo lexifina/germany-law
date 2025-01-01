@@ -31,7 +31,7 @@ Sonstige Vorschriften
 | § 9 | Vergütung |
 | § 9a | Erfolgshonorar |
 | § 10 | Übermittlung von Daten |
-| § 10a | Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen |
+| § 10a | (weggefallen) |
 | § 10b | Vorwarnmechanismus |
 | § 11 | Verarbeitung personenbezogener Daten |
 | § 12 | Hilfeleistung im Abgabenrecht fremder Staaten |
@@ -285,7 +285,7 @@ Sechster Abschnitt
 | § 155 | Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung des Steuerberatungsgesetzes |
 | § 156 | Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes |
 | § 157 | Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater |
-| § 157a | Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes |
+| § 157a | Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft |
 | § 157b | Anwendungsvorschrift |
 | § 157d | Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe |
 Siebenter Abschnitt

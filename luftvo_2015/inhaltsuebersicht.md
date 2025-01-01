@@ -48,7 +48,7 @@ Abschnitt 6
 Flugplatzverkehr
 | § 22 | Regelung des Flugplatzverkehrs |
 | § 23 | Flugbetrieb auf einem Flugplatz und in dessen Umgebung |
-| § 24 | Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen |
+| § 24 | (weggefallen) |
 | § 25 | Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle |
 | § 26 | Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken |
 Abschnitt 7

@@ -6,6 +6,7 @@
 ## Erster Abschnitt Allgemeine Vorschriften
 
 - [§ 1 Geltungsbereich](0001.md)
+- [§ 1a Formvorgaben](0001a.md)
 - [§ 2 Kind, Jugendlicher](0002.md)
 - [§ 3 Arbeitgeber](0003.md)
 - [§ 4 Arbeitszeit](0004.md)
@@ -81,7 +82,7 @@ Arbeitgebers
 ### Erster Titel Aushänge und Verzeichnisse
 
 - [§ 47 Bekanntgabe des Gesetzes und der Aufsichtsbehörde](0047.md)
-- [§ 48 Aushang über Arbeitszeit und Pausen](0048.md)
+- [§ 48 Information über Arbeitszeit und Pausen](0048.md)
 - [§ 49 Verzeichnisse der Jugendlichen](0049.md)
 - [§ 50 Auskunft, Vorlage der Verzeichnisse](0050.md)
 

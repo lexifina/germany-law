@@ -82,6 +82,7 @@
 | § 32 | Rechnungen über Umsätze, die verschiedenen Steuersätzen unterliegen |
 | § 33 | Rechnungen über Kleinbeträge |
 | § 34 | Fahrausweise als Rechnungen |
+| § 34a | Rechnungen von Kleinunternehmern |
 |  |
 | Zu § 15 des Gesetzes |
 |  |  |

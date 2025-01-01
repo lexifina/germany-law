@@ -221,4 +221,4 @@
 
 - [§ 129 Verordnungsermächtigung](0129.md)
 - [§ 130 Übergangsregelung für bestehende Jugend- und Auszubildendenvertretungen und Personalvertretungen](0130.md)
-- [§ 131 Übergangsregelung für die Personalvertretungen in den Ländern](0131.md)
+- [§ 131 (weggefallen)](0131.md)

@@ -262,9 +262,9 @@
 - [§ 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
 - [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
 - [§ 108b Unbedenklichkeitsbescheinigungen der Einzugsstellen](0108b.md)
-- [§ 109 Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber](0109.md)
+- [§ 109 Meldung der Arbeitsunfähigkeitszeiten an den Arbeitgeber](0109.md)
 - [§ 109a Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit](0109a.md)
-- [§ 110 (weggefallen)](0110.md)
+- [§ 110 Meldungen der Arbeitgeber an gemeinsame Einrichtungen im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes](0110.md)
 
 ## Neunter Abschnitt Aufbewahrung von Unterlagen
 
@@ -289,7 +289,7 @@
 - [§ 119 Berücksichtigung von Versorgungskrankengeld](0119.md)
 - [§ 120 (weggefallen)](0120.md)
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
-- [§ 122 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0122.md)
+- [§ 122 (weggefallen)](0122.md)
 - [§ 123 Übergangsregelung](0123.md)
 - [§ 124 Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches](0124.md)
 - [§ 125 Übergangsregelung zum Erstattungsanspruch nach § 55 Absatz 3d Satz 1 des Elften Buches und zur Verzinsung dieses Erstattungsanspruchs](0125.md)
@@ -301,7 +301,7 @@
 - [§ 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren](0131.md)
 - [§ 132 (weggefallen)](0132.md)
 - [§ 133 Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger](0133.md)
-- [§ 134 Übergangsregelung zum Übergangsbereich](0134.md)
+- [§ 134 (weggefallen)](0134.md)
 - [§ 135 Bericht zur Einführung eines Betriebsstättenverzeichnisses](0135.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 

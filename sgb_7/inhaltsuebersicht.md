@@ -398,7 +398,7 @@
 | § 213 | Versicherungsschutz |
 | § 214 | Geltung auch für frühere Versicherungsfälle |
 | § 215 | Sondervorschriften für Versicherungsfälle in dem in Artikel 3 des Einigungsvertrages genannten Gebiet |
-| § 216 | Bezugsgröße (Ost) |
+| § 216 | (weggefallen) |
 | § 217 | Bestandsschutz |
 | § 218 | (weggefallen) |
 | § 218a | Leistungen an Hinterbliebene |
@@ -420,6 +420,6 @@
 | § 222 | Neuorganisation der gewerblichen Berufsgenossenschaften |
 | § 223 | Neuorganisation der landesunmittelbaren Unfallversicherungsträger der öffentlichen Hand |
 | § 224 | Umstellung der Mitgliedsnummer auf die Unternehmernummer |
-| § 225 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
+| § 225 | (weggefallen) |
 | Anlage 1 | Gewerbliche Berufsgenossenschaften |
 | Anlage 2 | (weggefallen) |

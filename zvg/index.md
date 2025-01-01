@@ -136,6 +136,7 @@ Versteigerungsbedingungen
 - [§ 92](0092.md)
 - [§ 93](0093.md)
 - [§ 94](0094.md)
+- [§ 94a](0094a.md)
 
 #### VII. Beschwerde
 

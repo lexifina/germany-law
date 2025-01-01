@@ -396,5 +396,6 @@ Dreizehnter Teil
 | § 209a | Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften |
 | § 210 | Bestehenbleiben von Rechtsanwaltskammern |
 | § 211 | Befreiung von der Voraussetzung der Befähigung zum Richteramt |
+| § 212 | Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft |
 | Anlage 1 (zu § 59a Absatz 4 Satz 1) | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen |
 | Anlage 2 (zu § 193 Satz 1 und § 195 Satz 1) | Gebührenverzeichnis |

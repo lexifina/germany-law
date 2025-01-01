@@ -32,44 +32,19 @@
 
 #### A. Allgemeines
 
-- [§ 19 Feststellung von Einheitswerten](0019.md)
-- [§ 20 Ermittlung des Einheitswerts](0020.md)
-- [§ 21 Hauptfeststellung](0021.md)
-- [§ 22 Fortschreibungen](0022.md)
-- [§ 23 Nachfeststellung](0023.md)
-- [§ 24 Aufhebung des Einheitswerts](0024.md)
-- [§ 24a Änderung von Feststellungsbescheiden](0024a.md)
-- [§ 25 Nachholung einer Feststellung](0025.md)
-- [§ 26 Umfang der wirtschaftlichen Einheit bei Ehegatten oder Lebenspartnern](0026.md)
-- [§ 27 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen](0027.md)
-- [§ 28 Erklärungspflicht](0028.md)
-- [§ 29 Auskünfte, Erhebungen und Mitteilungen](0029.md)
+- [§ 19 (weggefallen)](0019.md)
+- [§ 20 Abweichende Feststellung von Besteuerungsgrundlagen aus Billigkeitsgründen](0020.md)
+- [(XXXX) §§ 21 bis 29 (weggefallen)](xxxx-21-bis-29.md)
 - [§ 30 Abrundung](0030.md)
 - [§ 31 Bewertung von ausländischem Sachvermögen](0031.md)
-- [§ 32 Bewertung von inländischem Sachvermögen](0032.md)
+- [§ 32 (weggefallen)](0032.md)
 
 #### B. Land- und forstwirtschaftliches Vermögen
 
 
 ##### I. Allgemeines
 
-- [§ 33 Begriff des land- und forstwirtschaftlichen Vermögens](0033.md)
-- [§ 34 Betrieb der Land- und Forstwirtschaft](0034.md)
-- [§ 35 Bewertungsstichtag](0035.md)
-- [§ 36 Bewertungsgrundsätze](0036.md)
-- [§ 37 Ermittlung des Ertragswerts](0037.md)
-- [§ 38 Vergleichszahl, Ertragsbedingungen](0038.md)
-- [§ 39 Bewertungsstützpunkte](0039.md)
-- [§ 40 Ermittlung des Vergleichswerts](0040.md)
-- [§ 41 Abschläge und Zuschläge](0041.md)
-- [§ 42 Nebenbetriebe](0042.md)
-- [§ 43 Abbauland](0043.md)
-- [§ 44 Geringstland](0044.md)
-- [§ 45 Unland](0045.md)
-- [§ 46 Wirtschaftswert](0046.md)
-- [§ 47 Wohnungswert](0047.md)
-- [§ 48 Zusammensetzung des Einheitswerts](0048.md)
-- [§ 48a Einheitswert bestimmter intensiv genutzter Flächen](0048a.md)
+- [(XXXX) §§ 33 bis 48a (weggefallen)](xxxx-33-bis-48a.md)
 - [§ 49 (weggefallen)](0049.md)
 
 ##### II. Besondere Vorschriften
@@ -77,97 +52,63 @@
 
 ##### a) Landwirtschaftliche Nutzung
 
-- [§ 50 Ertragsbedingungen](0050.md)
-- [§ 51 Tierbestände](0051.md)
-- [§ 51a Gemeinschaftliche Tierhaltung](0051a.md)
-- [§ 52 Sonderkulturen](0052.md)
+- [(XXXX) §§ 50 bis 52 (weggefallen)](xxxx-50-bis-52.md)
 
 ##### b) Forstwirtschaftliche Nutzung
 
-- [§ 53 Umlaufende Betriebsmittel](0053.md)
-- [§ 54 Bewertungsstichtag](0054.md)
-- [§ 55 Ermittlung des Vergleichswerts](0055.md)
+- [(XXXX) §§ 53 bis 55 (weggefallen)](xxxx-53-bis-55.md)
 
 ##### c) Weinbauliche Nutzung
 
-- [§ 56 Umlaufende Betriebsmittel](0056.md)
-- [§ 57 Bewertungsstützpunkte](0057.md)
-- [§ 58 Innere Verkehrslage](0058.md)
+- [(XXXX) §§ 56 bis 58 (weggefallen)](xxxx-56-bis-58.md)
 
 ##### d) Gärtnerische Nutzung
 
-- [§ 59 Bewertungsstichtag](0059.md)
-- [§ 60 Ertragsbedingungen](0060.md)
-- [§ 61 Anwendung des vergleichenden Verfahrens](0061.md)
+- [(XXXX) §§ 59 is 61 (weggefallen)](xxxx-59-is-61.md)
 
 ##### e) Sonstige land- und forstwirtschaftliche
 Nutzung
 
-- [§ 62 Arten und Bewertung der sonstigen land- und
-forstwirtschaftlichen Nutzung](0062.md)
+- [§ 62 (weggefallen)](0062.md)
 
 ##### III. Bewertungsbeirat, Gutachterausschuß
 
-- [§ 63 Bewertungsbeirat](0063.md)
-- [§ 64 Mitglieder](0064.md)
-- [§ 65 Aufgaben](0065.md)
-- [§ 66 Geschäftsführung](0066.md)
-- [§ 67 Gutachterausschuß](0067.md)
+- [(XXXX) §§ 63 bis 67 (weggefallen)](xxxx-63-bis-67.md)
 
 #### C. Grundvermögen
 
 
 ##### I. Allgemeines
 
-- [§ 68 Begriff des Grundvermögens](0068.md)
-- [§ 69 Abgrenzung des Grundvermögens vom land- und
-forstwirtschaftlichen Vermögen](0069.md)
+- [(XXXX) §§ 68 und 69 (weggefallen)](xxxx-68-und-69.md)
 - [§ 70 Grundstück](0070.md)
-- [§ 71 Gebäude und Gebäudeteile für den Zivilschutz](0071.md)
+- [§ 71 (weggefallen)](0071.md)
 
 ##### II. Unbebaute Grundstücke
 
-- [§ 72 Begriff](0072.md)
-- [§ 73 Baureife Grundstücke](0073.md)
+- [(XXXX) §§ 72 und 73 (weggefallen)](xxxx-72-und-73.md)
 
 ##### III. Bebaute Grundstücke
 
 
 ##### a) Begriff und Bewertung
 
-- [§ 74 Begriff](0074.md)
-- [§ 75 Grundstücksarten](0075.md)
-- [§ 76 Bewertung](0076.md)
-- [§ 77 Mindestwert](0077.md)
+- [(XXXX) §§ 74 bis 77 (weggefallen)](xxxx-74-bis-77.md)
 
 ##### b) Verfahren
 
 
 ##### 1. Ertragswertverfahren
 
-- [§ 78 Grundstückswert](0078.md)
-- [§ 79 Jahresrohmiete](0079.md)
-- [§ 80 Vervielfältiger](0080.md)
-- [§ 81 Außergewöhnliche Grundsteuerbelastung](0081.md)
-- [§ 82 Ermäßigung und Erhöhung](0082.md)
+- [(XXXX) §§ 78 bis 82 (weggefallen)](xxxx-78-bis-82.md)
 
 ##### 2. Sachwertverfahren
 
-- [§ 83 Grundstückswert](0083.md)
-- [§ 84 Bodenwert](0084.md)
-- [§ 85 Gebäudewert](0085.md)
-- [§ 86 Wertminderung wegen Alters](0086.md)
-- [§ 87 Wertminderung wegen baulicher Mängel und Schäden](0087.md)
-- [§ 88 Ermäßigung und Erhöhung](0088.md)
-- [§ 89 Wert der Außenanlagen](0089.md)
-- [§ 90 Angleichung an den gemeinen Wert](0090.md)
+- [(XXXX) §§ 83 bis 90 (weggefallen)](xxxx-83-bis-90.md)
 
 ##### IV. Sondervorschriften
 
-- [§ 91 Grundstücke im Zustand der Bebauung](0091.md)
-- [§ 92 Erbbaurecht](0092.md)
-- [§ 93 Wohnungseigentum und Teileigentum](0093.md)
-- [§ 94 Gebäude auf fremdem Grund und Boden](0094.md)
+- [(XXXX) §§ 91 bis 94 (weggefallen)](xxxx-91-bis-94.md)
 
 #### D. Betriebsvermögen
 
@@ -188,8 +129,8 @@ forstwirtschaftlichen Vermögen](0069.md)
 
 - [(XXXX) §§ 110 bis 120 (weggefallen)](xxxx-110-bis-120.md)
 - [§ 121 Inlandsvermögen](0121.md)
-- [§ 121a Sondervorschrift für die Anwendung der Einheitswerte 1964](0121a.md)
-- [§ 122 Besondere Vorschriften für Berlin (West)](0122.md)
+- [§ 121a (weggefallen)](0121a.md)
+- [§ 122 (weggefallen)](0122.md)
 - [§ 123 Ermächtigungen](0123.md)
 - [§ 124 (weggefallen)](0124.md)
 
@@ -198,60 +139,38 @@ forstwirtschaftlichen Vermögen](0069.md)
 
 #### A. Land- und forstwirtschaftliches Vermögen
 
-- [§ 125 Land- und forstwirtschaftliches Vermögen](0125.md)
-- [§ 126 Geltung des Ersatzwirtschaftswerts](0126.md)
-- [§ 127 Erklärung zum Ersatzwirtschaftswert](0127.md)
-- [§ 128 Auskünfte, Erhebungen, Mitteilungen, Abrundung](0128.md)
+- [(XXXX) §§ 125 bis 128 (weggefallen)](xxxx-125-bis-128.md)
 
 #### B. Grundvermögen
 
-- [§ 129 Grundvermögen](0129.md)
-- [§ 129a Abschläge bei Bewertung mit einem Vielfachen der Jahresrohmiete](0129a.md)
-- [§ 130 Nachkriegsbauten](0130.md)
-- [§ 131 Wohnungseigentum und Teileigentum, Wohnungserbbaurecht
-und Teilerbbaurecht](0131.md)
-- [§ 132 Fortschreibung und Nachfeststellung der
-Einheitswerte 1935](0132.md)
-- [§ 133 Sondervorschrift für die Anwendung der
-Einheitswerte 1935](0133.md)
+- [(XXXX) §§ 129 bis 133 (weggefallen)](xxxx-129-bis-133.md)
 
 #### C. Betriebsvermögen
 
 - [(XXXX) §§ 134 bis 136 (weggefallen)](xxxx-134-bis-136.md)
-- [§ 137 Bilanzposten nach dem D-Markbilanzgesetz](0137.md)
+- [§ 137 (weggefallen)](0137.md)
 
 ### Vierter Abschnitt Vorschriften für die Bewertung von Grundbesitz für die Grunderwerbsteuer ab 1. Januar 1997
 
 
 #### A. Allgemeines
 
-- [§ 138 Feststellung von Grundbesitzwerten](0138.md)
-- [§ 139 Abrundung](0139.md)
+- [(XXXX) §§ 138 und 139 (weggefallen)](xxxx-138-und-139.md)
 
 #### B. Land- und forstwirtschaftliches Vermögen
 
-- [§ 140 Wirtschaftliche Einheit und Umfang des land- und
-forstwirtschaftlichen Vermögens](0140.md)
-- [§ 141 Umfang des Betriebs der Land- und Forstwirtschaft](0141.md)
-- [§ 142 Betriebswert](0142.md)
-- [§ 143 Wert der Betriebswohnungen und des Wohnteils](0143.md)
-- [§ 144 Zusammensetzung des land- und forstwirtschaftlichen Grundbesitzwerts](0144.md)
+- [(XXXX) §§ 140 bis 144 (weggefallen)](xxxx-140-bis-144.md)
 
 #### C. Grundvermögen
 
 
 ##### I. Unbebaute Grundstücke
 
-- [§ 145 Unbebaute Grundstücke](0145.md)
+- [§ 145 (weggefallen)](0145.md)
 
 ##### II. Bebaute Grundstücke
 
-- [§ 146 Bebaute Grundstücke](0146.md)
-- [§ 147 Sonderfälle](0147.md)
-- [§ 148 Erbbaurecht](0148.md)
-- [§ 148a Gebäude auf fremdem Grund und Boden](0148a.md)
-- [§ 149 Grundstücke im Zustand der Bebauung](0149.md)
-- [§ 150 Gebäude und Gebäudeteile für den Zivilschutz](0150.md)
+- [(XXXX) §§ 146 bis 150 (weggefallen)](xxxx-146-bis-150.md)
 
 ### Fünfter Abschnitt Gesonderte Feststellungen
 
@@ -450,28 +369,7 @@ forstwirtschaftlichen Vermögens](0140.md)
 - [§ 264 Bekanntmachung](0264.md)
 - [§ 265 Anwendungsvorschriften](0265.md)
 - [§ 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils](0266.md)
-- [Anlage 1 (zu § 51)Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf](anlage-1.md)
-- [Anlage 2 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit](anlage-2.md)
-- [Anlage 3 Mietwohngrundstücke
-
-Vervielfältiger](anlage-3.md)
-- [Anlage 4 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
-Jahresrohmiete bis zu 50 v. H.
-
-Vervielfältiger](anlage-4.md)
-- [Anlage 5 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
-Jahresrohmiete von mehr als 50 v. H.
-
-Vervielfältiger](anlage-5.md)
-- [Anlage 6 Geschäftsgrundstücke
-
-Vervielfältiger](anlage-6.md)
-- [Anlage 7 Einfamilienhäuser
-
-Vervielfältiger](anlage-7.md)
-- [Anlage 8 Zweifamilienhäuser
-
-Vervielfältiger](anlage-8.md)
+- [Anlage 1 bis 8 (weggefallen)](anlage-1-bis-8.md)
 - [Anlage 9 (weggefallen)](anlage-9.md)
 - [Anlage 9a (zu § 13)Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro](anlage-9a.md)
 - [(XXXX) Anlagen 10 bis 13 (weggefallen)](xxxx-anlagen-10-bis-13.md)

@@ -16,19 +16,16 @@ Flurbereinigungsgesetz](0005.md)
 
 ## 2. Teil Mitteilungen
 
-- [§ 8 Form und Inhalt der Mitteilungen](0008.md)
-- [§ 9 Empfänger der Mitteilungen](0009.md)
-- [§ 10](0010.md)
+- [§ 8 Form, Inhalt und Zeitpunkt der Mitteilungen](0008.md)
+- [(XXXX) §§ 9 und 10 (weggefallen)](xxxx-9-und-10.md)
 
 ## 3. Teil Unterrichtung des Betroffenen
 
-- [§ 11 Pflicht zur Unterrichtung](0011.md)
-- [§ 12 Inhalt der Unterrichtung](0012.md)
+- [(XXXX) §§ 11 und 12 (weggefallen)](xxxx-11-und-12.md)
 
-## 4. Teil Besondere Vorschriften
+## 4. Teil Anwendungsbestimmung und Besondere Vorschriften
 
-- [§ 13 Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise](0013.md)
+- [§ 13 Anwendungszeitpunkt](0013.md)
 - [§ 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm](0013a.md)
-- [§ 14 Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung](0014.md)
-- [§ 15 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021](0015.md)
+- [§ 14 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021](0014.md)
 - [Schlußformel](schlussformel.md)

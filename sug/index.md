@@ -70,49 +70,17 @@
 - [§ 37 Arbeit zur Verbesserung der Sicherheit im Seeverkehr](0037.md)
 - [§ 38 Beteiligung am Such- und Rettungsdienst](0038.md)
 
-## Abschnitt 4 Normvollzug gegenüber einzelnen an Bord verantwortlichen Personen im Verwaltungsverfahren
-
-
-### Unterabschnitt 1 Grundsätze, Vorprüfung
-
-- [§ 39 Sachlicher Geltungsbereich des Abschnitts 4, Verwaltungsverfahren](0039.md)
-- [§ 40 Internationale Untersuchungsregelungen im Sinne des Abschnitts 4](0040.md)
-- [§ 41 Öffentliches Untersuchungsinteresse](0041.md)
-- [§ 42 Pflicht zur Durchführung oder Einstellung der Untersuchung nach Abschnitt 4](0042.md)
-
-### Unterabschnitt 2 Organe der seeamtlichen Untersuchung
-
-- [§ 43 Zuständigkeit der Seeämter](0043.md)
-- [§ 44 Besetzung der Seeämter](0044.md)
-- [§ 45 Ehrenamtliche Beisitzer](0045.md)
-
-### Unterabschnitt 3 Seeamtsverfahren
-
-- [§ 46 Beweisaufnahme](0046.md)
-- [§ 47 Auskunfts-, Herausgabe- und Aufbewahrungspflichten](0047.md)
-- [§ 48 Mündliche Verhandlung](0048.md)
-- [§ 49 Spruch des Seeamtes](0049.md)
-- [§ 50 Entzug und Beschränkung der Ausübung von Berechtigungen](0050.md)
-
-### Unterabschnitt 4 Gebühren und Auslagen
-
-- [§ 51 (weggefallen)](0051.md)
-
-### Unterabschnitt 5 Rechtsbehelfe
-
-- [§ 52 Widerspruchsverfahren](0052.md)
-
-## Abschnitt 5 Bußgeld-, Schluss- und Übergangsvorschriften
+## Abschnitt 4 Bußgeld-, Schluss- und Übergangsvorschriften
 
 
 ### Unterabschnitt 1 Bußgeldvorschriften
 
-- [§ 53 Bußgeldvorschriften](0053.md)
+- [§ 39 Bußgeldvorschriften](0039.md)
 
 ### Unterabschnitt 2 Schlussvorschriften
 
-- [§ 54 Vollzugsvereinbarungen zwischen Bund und Küstenländern](0054.md)
-- [§ 55 Einschränkung von Grundrechten](0055.md)
-- [§ 56 Verordnungsermächtigung](0056.md)
-- [§ 57 Übergangsregelung](0057.md)
-- [Anlage (zu den §§ 2, 3, 10, 20 Absatz 4, §§ 40 und 41 Absatz 2)](anlage.md)
+- [§ 40 Vollzugsvereinbarungen zwischen Bund und Küstenländern](0040.md)
+- [§ 41 Einschränkung von Grundrechten](0041.md)
+- [§ 42 Verordnungsermächtigung](0042.md)
+- [§ 43 Übergangsregelung](0043.md)
+- [Anlage (zu den §§ 2, 3, 10, 20 Absatz 4)](anlage.md)

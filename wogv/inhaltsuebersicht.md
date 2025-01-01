@@ -31,11 +31,6 @@
 | § 21 | Verfahrensgrundsätze |
 | § 22 | Kosten |
 |  |
-| Teil 5 |
-| Fortschreibung des Wohngeldes |
-| § 23 | Fortschreibung der Höchstbeträge für Miete und Belastung und Neufassung der Anlage 1 zu § 12 Absatz 1 des Wohngeldgesetzes |
-| § 24 | Fortschreibung der Werte für „b“ und „c“ und Neufassung der Anlage 2 zu § 19 Absatz 1 des Wohngeldgesetzes |
-|  |  |
 | Anlage |
 | (zu § 1 Absatz 3) |
 | Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020 |

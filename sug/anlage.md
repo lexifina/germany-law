@@ -1,4 +1,4 @@
-# Anlage (zu den §§ 2, 3, 10, 20 Absatz 4, §§ 40 und 41 Absatz 2)
+# Anlage (zu den §§ 2, 3, 10, 20 Absatz 4)
 
 Internationale seefahrtbezogene Untersuchungsregelungen
 A. Allgemein anerkannte völkerrechtliche Vorschriften über Verpflichtungen zur Durchführung von Untersuchungen von Seeunfällen und zur internationalen Zusammenarbeit
@@ -15,10 +15,5 @@ C. Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A und 
   1. Code für die Untersuchung von Unfällen und Vorkommnissen auf See der Internationalen Seeschifffahrts-Organisation (IMO), Entschließung A.849(20) vom 27. November 1997, geändert durch Entschließung A.884(21) vom 25. November 1999 (VkBl. 2000 S. 128, Anlagenband B 8124 S. 21)
   2. Entschließung A.987(24) der Internationalen Seeschifffahrts-Organisation (IMO), angenommen am 1. Dezember 2005 (Leitlinien über die faire Behandlung von Seeleuten bei einem Seeunfall (VkBl. 2010 S. 506))
     – Leitlinien über die faire Behandlung von Seeleuten bei einem Seeunfall (IMO-Rundschreiben Nr. 2711 vom 26. Juni 2006 (VkBl. 2010 S. 506))
-D. Allgemein anerkannte völkerrechtliche Regeln der Untersuchung
-  1. Verpflichtungen zu Untersuchungsmaßnahmen
-    1.1 Artikel 94 Absatz 6 Satz 2 – auch in Verbindung mit Artikel 58 Absatz 2 – SRÜ
-    1.2 Regel I/5 Absatz 1 der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW) (BGBl. 1982 II S. 297; 1988 II S. 1118)
-  2. Schranken der Untersuchung Artikel 97 Absatz 3 SRÜ
-E. Richtlinienbestimmungen der Europäischen Gemeinschaft über den Berechtigungsentzug
-  – Artikel 9 Absatz 1 der Richtlinie 2008/106/EG vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33)
+D. (weggefallen)
+E. (weggefallen)
