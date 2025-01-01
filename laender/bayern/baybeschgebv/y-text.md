@@ -1,0 +1,1 @@
+Auf Grund des Art. 21 Abs. 1 Satz 1 des Kostengesetzes (KG) vom 20. Februar 1998 (GVBl S. 43, BayRS 2013-1-1-F), zuletzt geändert durch Art. 16 des Gesetzes vom 14. April 2011 (GVBl S. 150), erlässt das Bayerische Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
