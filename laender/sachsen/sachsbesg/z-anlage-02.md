@@ -65,8 +65,6 @@ Direktorin, Direktor der Deutschen Rentenversicherung Mitteldeutschland
 Generaldirektorin, Generaldirektor der Sächsischen Landesbibliothek – Staats- und Universitätsbibliothek Dresden
 Geschäftsführerin, Geschäftsführer des Staatsbetriebs Landestalsperrenverwaltung
 Inspekteurin, Inspekteur der Polizei
-Kanzlerin, Kanzler der Technischen Universität Dresden
-Kanzlerin, Kanzler der Universität Leipzig
 Landesforstpräsidentin, Landesforstpräsident
 – als Geschäftsführerin oder Geschäftsführer des Staatsbetriebs Sachsenforst –
 Polizeipräsidentin, Polizeipräsident
@@ -87,6 +85,8 @@ Direktorin, Direktor der Deutschen Rentenversicherung Mitteldeutschland
 – als stellvertretende Geschäftsführerin oder stellvertretender Geschäftsführer, wenn die Erste Direktorin oder der Erste Direktor in Besoldungsgruppe B 6 eingestuft ist –
 Erste Direktorin, Erster Direktor der Deutschen Rentenversicherung Mitteldeutschland
 – als Geschäftsführerin oder Geschäftsführer –
+Kanzlerin, Kanzler der Technischen Universität Dresden
+Kanzlerin, Kanzler der Universität Leipzig
 Ministerialdirigentin1), Ministerialdirigent1)
 Vizepräsidentin, Vizepräsident bei der Landesdirektion Sachsen2)
 __________

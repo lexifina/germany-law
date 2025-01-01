@@ -172,6 +172,7 @@ __________
 Besoldungsgruppe A 16
 Direktorin, Direktor der Unfallkasse Sachsen
 – als stellvertretende Geschäftsführerin oder stellvertretender Geschäftsführer –
+Kanzlerin, Kanzler der Dualen Hochschule Sachsen
 Kanzlerin, Kanzler einer Fachhochschule
 Kanzlerin, Kanzler einer Hochschule für angewandte Wissenschaften
 Landesbeauftragte, Landesbeauftragter für Ausländerfragen

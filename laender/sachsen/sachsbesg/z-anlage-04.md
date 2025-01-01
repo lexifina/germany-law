@@ -5,6 +5,7 @@ Akademische Assistentin, Akademischer Assistent
 Juniorprofessorin, Juniorprofessor
 Besoldungsgruppe W 2
 Professorin1), Professor1)
+– an der Dualen Hochschule Sachsen –
 – an einer Fachhochschule –
 – an einer Hochschule für angewandte Wissenschaften –
 – an einer Kunsthochschule –
