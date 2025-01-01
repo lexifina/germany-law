@@ -155,7 +155,7 @@ Nummer | Kostentatbestand | Kosten in EUR |
 121.10 | Einfache Melderegisterauskunft nach §§ 44, 49 BMG zum Zwecke der Vermittlung einer Stammzellenspende | gebührenfrei | 
 121.11 | Gebühr Melderegisterauskunft für Parteien nach § 50 Absatz 1 BMG | Grundgebühr bei einer Gruppe von Wahlberechtigten i. S. d. § 50 Absatz 1 Satz 1 BMG 75 | 
  |  | zuzüglich je weiterer Gruppe von Wahlberechtigten i. S. d. § 50 Absatz 1 Satz 1 BMG 43 | 
- |  | zuzüglich je Person, über die Auskunft erteilt wird, 1 | 
+ |  | zuzüglich je Person, über die Auskunft erteilt wird, 0,2 | 
 121.12 | Schriftliche Datenübermittlungen nach § 34 Absatz 6 Satz 2 BMG i.V.m. § 34 Absatz 2 Satz 5 1. Alt. BMG | 13 je Datenübermittlung/Auskunft | 
 121.13 | Eintragung eines Künstlernamens gem. § 4 Absatz 1 Satz 2 Nummer 4 Passgesetz (PassG) und § 5 Absatz 2 Nummer 12 Personalausweisgesetz (PAuswG) | 146 bis 566 | 
 121.14 | Eintragung eines Ordensnamens gem. § 4 Absatz 1 Satz 2 Nummer 4 PassG und § 5 Absatz 2 Nummer 12 PAuswG | 146 bis 529 | 
