@@ -1,0 +1,3 @@
+# Art. 27a Bekanntmachung im Internet
+(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche Bekanntmachung angeordnet, so ist diese dadurch zu bewirken, dass der Inhalt der Bekanntmachung auch auf einer Internetseite der Behörde oder ihres Verwaltungsträgers zugänglich gemacht wird. Soweit durch Rechtsvorschrift nichts anderes bestimmt ist, ist für die Einhaltung einer vorgeschriebenen Frist die Zugänglichmachung im Internet nach Satz 1 maßgeblich.
+(2) Abs. 1 gilt nicht, wenn eine Zugänglichmachung im Internet, insbesondere aus technischen Gründen, nicht möglich ist.

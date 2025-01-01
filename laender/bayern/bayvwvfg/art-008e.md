@@ -1,0 +1,2 @@
+# Art. 8e Anwendbarkeit
+Die Regelungen dieses Abschnitts sind mit Inkrafttreten des jeweiligen Rechtsakts der Europäischen Union, wenn dieser unmittelbare Wirkung entfaltet, im Übrigen mit Ablauf der jeweiligen Umsetzungsfrist anzuwenden. Sie gelten auch im Verhältnis zu den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, soweit Rechtsakte der Europäischen Union auch auf diese Staaten anzuwenden sind.

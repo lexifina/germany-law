@@ -1,0 +1,2 @@
+# Art. 8c Kosten der Hilfeleistung
+Ersuchende Behörden anderer Mitgliedstaaten der Europäischen Union haben Verwaltungsgebühren oder Auslagen nur zu erstatten, soweit dies nach Maßgabe von Rechtsakten der Europäischen Union verlangt werden kann.

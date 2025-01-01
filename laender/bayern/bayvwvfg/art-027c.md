@@ -1,0 +1,6 @@
+# Art. 27c Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
+(1) Ist durch Rechtsvorschrift eine Erörterung, insbesondere ein Erörterungstermin, eine mündliche Verhandlung oder eine Antragskonferenz angeordnet, kann sie ersetzt werden
+1. durch eine Onlinekonsultation oder
+2. mit Einwilligung der zur Teilnahme Berechtigten durch eine Video- oder Telefonkonferenz.
+(2) Bei einer Onlinekonsultation ist den zur Teilnahme Berechtigten innerhalb einer vorher bekannt zu machenden Frist Gelegenheit zu geben, sich schriftlich oder elektronisch zu äußern. Die Frist soll mindestens eine Woche betragen. Werden für die Onlinekonsultation Informationen zur Verfügung gestellt, so gilt Art. 27b Abs. 4 entsprechend.
+(3) Sonstige Regelungen, die die Durchführung einer Erörterung nach Abs. 1 betreffen, bleiben unberührt.
