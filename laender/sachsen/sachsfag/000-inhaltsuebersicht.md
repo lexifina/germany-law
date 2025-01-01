@@ -35,25 +35,21 @@ Unterabschnitt 2 Gewässerlastenausgleich
 § 20c Gewässerlastenausgleich
 Unterabschnitt 3 Kulturlastenausgleich
 § 21 Kulturlastenausgleich
-Abschnitt 7 Zuweisungen zum Ausgleich besonderer Bedarfe
-§ 22 Zuweisungen zum Ausgleich besonderer Bedarfe
+Abschnitt 7 Zuweisungen zum Ausgleich besonderen Bedarfs
+§ 22 Allgemeines
 § 22a Bedarfszuweisungen
-§ 22b Zuweisungen für die Schaffung digitaler Infrastruktur und zur Digitalisierung
-§ 22c Zuweisungen zur Überwindung der Belastungen durch die COVID-19-Pandemie
 Abschnitt 8 Kommunales Vorsorgevermögen
 § 23 Kommunaler Vorsorgefonds
-§ 23a Kommunaler Strukturfonds
 Abschnitt 9 Zweckzuweisungen zur Förderung von kommunalen Investitionen
 § 24 Investive Zweckzuweisungen
 Abschnitt 10 Interkommunaler Finanzausgleich
 § 25 Grundsätze
 § 25a Finanzausgleichsumlage
 § 26 Kreisumlage
-§ 26a (aufgehoben)
 § 27 Kulturumlage
 § 28 Sozialumlage
-Abschnitt 11 Gemeinsame Zahlungsverpflichtungen des Freistaates Sachsen und seiner Kommunen
-§ 29 (aufgehoben)
+Abschnitt 11 Gemeinsame Zahlungsverpflichtungen
+§ 29 Zuweisungen für herausgehobene Maßnahmen
 § 29a (aufgehoben)
 § 29b Sanktionszahlungen
 Abschnitt 12 Gemeinsame Vorschriften, Verfahren und Inkrafttreten
