@@ -6,7 +6,7 @@
 - [§ 4 Statistik des Steueraufkommens, der Hebesätze und der Umlagen](0004.md)
 - [§ 5 Statistik über die Schulden, Sicherheiten für Schulden und Finanzaktiva](0005.md)
 - [§ 6 Statistik über das Personal im öffentlichen Dienst (Personalstandstatistik)](0006.md)
-- [§ 7 Versorgungsempfängerstatistik](0007.md)
+- [§ 7 Versorgungsempfänger- und Altersgeldstatistik](0007.md)
 - [§ 8 (weggefallen)](0008.md)
 - [§ 9 Zusätzliche Erhebungsmerkmale](0009.md)
 - [§ 9a Datenbank Berichtskreismanagement](0009a.md)
