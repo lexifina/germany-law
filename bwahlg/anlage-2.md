@@ -263,7 +263,7 @@
 |  |  |  | Amt Malchin am Kummerower See |
 |  |  |  | die Gemeinden Basedow, Faulenrost, Gielow, Kummerow, Malchin, Neukalen |
 |  |  |  | Amt Malchow |
-|  |  |  | die Gemeinden Alt Schwerin, Fünfseen, Göhren-Lebbin, Malchow, Nossentiner Hütte, Penkow, Silz, Walow, Zislow |
+|  |  |  | die Gemeinden Alt Schwerin, Fünfseen, Göhren-Lebbin, Malchow, Nossentiner Hütte, Silz, Walow, Zislow |
 |  |  |  | Amt Mecklenburgische Kleinseenplatte |
 |  |  |  | die Gemeinden Mirow, Priepert, Wesenberg, Wustrow |
 |  |  |  | Amt Neustrelitz-Land |
@@ -277,7 +277,7 @@
 |  |  |  | Amt Stavenhagen |
 |  |  |  | die Gemeinden Bredenfelde, Briggow, Grammentin, Gülzow, Ivenack, Jürgenstorf, Kittendorf, Knorrendorf, Mölln, Ritzerow, Rosenow, Stavenhagen, Zettemin |
 |  |  |  | Amt Treptower Tollensewinkel |
-|  |  |  | die Gemeinden Altenhagen, Altentreptow, Bartow, Breesen, Breest, Burow, Gnevkow, Golchen, Grapzow, Grischow, Groß Teetzleben, Gültz, Kriesow, Pripsleben, Röckwitz, Siedenbollentin, Tützpatz, Werder, Wildberg, Wolde |
+|  |  |  | die Gemeinden Altenhagen, Altentreptow, Bartow, Breesen, Burow, Gnevkow, Golchen, Grapzow, Grischow, Groß Teetzleben, Gültz, Kriesow, Pripsleben, Röckwitz, Siedenbollentin, Tützpatz, Werder, Wildberg, Wolde |
 |  |  | (Übrige Gemeinden s. Wkr. 16) |
 |  |  | vom Landkreis Rostock |
 |  |  |  | amtsfreie Gemeinden Güstrow, Teterow |
@@ -897,12 +897,12 @@
 | 156 | Görlitz | Landkreis Görlitz |
 | 157 | Sächsische Schweiz-Osterzgebirge | Landkreis Sächsische Schweiz-Osterzgebirge |
 | 158 | Dresden I | Von der kreisfreien Stadt Dresden |
-|  |  |  | die Ortsamtsbereiche Altstadt, Blasewitz, Leuben, Plauen, Prohlis |
-|  |  | (Übrige Ortsamtsbereiche und Ortschaften s. Wkr. 159) |
+|  |  |  | die Stadtbezirke Altstadt, Blasewitz, Leuben, Plauen, Prohlis |
+|  |  | (Übrige Stadtbezirke und Ortschaften s. Wkr. 159) |
 | 159 | Dresden II – Bautzen II | Von der kreisfreien Stadt Dresden |
-|  |  |  | die Ortsamtsbereiche Cotta, Klotzsche, Loschwitz, Neustadt, Pieschen |
+|  |  |  | die Stadtbezirke Cotta, Klotzsche, Loschwitz, Neustadt, Pieschen |
 |  |  |  | die Ortschaften Altfranken, Cossebaude, Gompitz, Langebrück, Mobschatz, Oberwartha, Schönborn, Schönfeld-Weißig, Weixdorf |
-|  |  | (Übrige Ortsamtsbereiche s. Wkr. 158) |
+|  |  | (Übrige Stadtbezirke s. Wkr. 158) |
 |  |  | vom Landkreis Bautzen |
 |  |  |  | die Gemeinden Arnsdorf, Großröhrsdorf, Ottendorf-Okrilla, Radeberg, Wachau |
 |  |  | (Übrige Gemeinden s. Wkr. 155) |
