@@ -173,6 +173,7 @@
 | § 147a | Verbotener Erwerb von Edelmetallen und Edelsteinen |
 | § 147b | Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen |
 | § 147c | Verstoß gegen Wohlverhaltenspflichten bei der Vermittlung von Versicherungsanlageprodukten |
+| § 147d | Verletzung von Vorschriften über die digitale operationale Resilienz durch Versicherungsvermittler nach § 34d Absatz 1, Versicherungsberater nach § 34d Absatz 2 und Versicherungsvermittler in Nebentätigkeit nach § 34d Absatz 6 |
 | § 148 | Strafbare Verletzung gewerberechtlicher Vorschriften |
 | § 148a | Strafbare Verletzung von Prüferpflichten |
 | § 148b | Fahrlässige Hehlerei von Edelmetallen und Edelsteinen |

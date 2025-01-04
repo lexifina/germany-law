@@ -211,4 +211,5 @@
 - [§ 131 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0131.md)
 - [§ 132 Übergangsregelung zur Minderung der Förderungsdauer](0132.md)
 - [§ 133 Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen](0133.md)
+- [§ 134 Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit](0134.md)
 - [Anlage Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags](anlage.md)

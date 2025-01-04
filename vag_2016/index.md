@@ -514,6 +514,7 @@
 - [§ 308a Maßnahmen gegenüber PRIIP-Herstellern und PRIIP-Verkäufern](0308a.md)
 - [§ 308b Maßnahmen hinsichtlich der Vergabe von Wohnimmobilien-Darlehen; Verordnungsermächtigung](0308b.md)
 - [§ 308c Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402](0308c.md)
+- [§ 308d Besondere Befugnisse nach der Verordnung (EU) 2022/2554](0308d.md)
 - [§ 309 Verschwiegenheitspflicht](0309.md)
 - [§ 310 Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung](0310.md)
 - [§ 310a Elektronische Übermittlung; Verordnungsermächtigung](0310a.md)
@@ -532,7 +533,7 @@
 
 - [§ 318 Veröffentlichungen](0318.md)
 - [§ 319 Bekanntmachung von Maßnahmen](0319.md)
-- [§ 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402](0319a.md)
+- [§ 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554](0319a.md)
 
 ### Kapitel 4 Zuständigkeit
 
@@ -588,6 +589,7 @@
 - [§ 357 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0357.md)
 - [§ 358 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0358.md)
 - [§ 359 Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften](0359.md)
+- [§ 360 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz](0360.md)
 - [Anlage 1 Einteilung der Risiken nach Sparten](anlage-1.md)
 - [Anlage 2 Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird](anlage-2.md)
 - [Anlage 3 Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)](anlage-3.md)

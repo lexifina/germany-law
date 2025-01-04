@@ -79,7 +79,7 @@
 - [§ 37 Anspruch auf Erwerbsschadensausgleich](0037.md)
 - [§ 38 Derzeitiges Einkommen](0038.md)
 - [§ 39 Referenzeinkommen](0039.md)
-- [§ 40 Dauer des Bezug von Erwerbsschadensausgleich](0040.md)
+- [§ 40 Dauer des Bezugs von Erwerbsschadensausgleich](0040.md)
 - [§ 41 Soziale Sicherung der Erwerbsschadensausgleichsempfänger](0041.md)
 
 ## Kapitel 7 Leistungen an Hinterbliebene
@@ -160,3 +160,5 @@
 - [§ 85 Wahlrecht](0085.md)
 - [§ 86 Neufeststellung](0086.md)
 - [§ 87 Anrechnungsvorschrift](0087.md)
+- [§ 88 Pflegeausgleich](0088.md)
+- [§ 89 Ausgleichszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod](0089.md)

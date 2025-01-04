@@ -141,7 +141,7 @@
 |  |
 | § 26a | Offenlegung durch die Institute |
 |  |  |
-|  | 5d.Besondere Pflichten bei Kryptoverwahrung |
+|  | 5d.Besondere Pflichten bei qualifizierter Kryptoverwahrung |
 |  |  |
 | § 26b | Vermögenstrennung |
 |  |
@@ -202,8 +202,9 @@
 | § 46f | Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge |
 | § 46g | Moratorium, Einstellung des Bank- und Börsenverkehrs |
 | § 46h | Wiederaufnahme des Bank- und Börsenverkehrs |
-| § 46i | Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung |
+| § 46i | Zuordnung verwahrter kryptografischer Instrumente, Kosten der Aussonderung |
 | § 47 | Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014 |
+| § 47a | Besondere Befugnisse nach der Verordnung (EU) 2022/2554 |
 | § 48 | Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402 |
 |  |
 |  | 4a.Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems |
@@ -282,7 +283,7 @@
 | § 60 | Zuständige Verwaltungsbehörde |
 | § 60a | Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen |
 | § 60b | Bekanntmachung von Maßnahmen |
-| § 60c | Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402 |
+| § 60c | Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554 |
 | § 60d | Bekanntmachung von Sanktionen und Maßnahmen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten |
 |  |
 | Achter Abschnitt |
@@ -318,3 +319,4 @@
 | § 64w | (weggefallen) |
 | § 64x | Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz |
 | § 65 | Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren |
+| § 65a | Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz |

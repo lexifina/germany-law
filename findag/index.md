@@ -35,7 +35,7 @@
 - [§ 10a Stellenzulage](0010a.md)
 - [§ 10b Personalgewinnungs- und Personalbindungsprämie](0010b.md)
 - [§ 11 Verschwiegenheitspflicht](0011.md)
-- [§ 11a Private Finanzgeschäfte der Beschäftigten der Bundesanstalt](0011a.md)
+- [§ 11a Regelungen zur Integrität; Verordnungsermächtigung](0011a.md)
 
 ## Vierter Abschnitt Haushaltsplan, Rechnungslegung,
 Deckung des Verwaltungsaufwands

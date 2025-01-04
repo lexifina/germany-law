@@ -139,3 +139,5 @@ Kapitel 15
 | § 85 | Wahlrecht |
 | § 86 | Neufeststellung |
 | § 87 | Anrechnungsvorschrift |
+| § 88 | Pflegeausgleich |
+| § 89 | Ausgleichszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod |

@@ -116,9 +116,6 @@ Sicherheit der ehemaligen Deutschen Demokratischen Republik](0044c.md)
 
 - [§ 53 Fraktionsbildung](0053.md)
 - [§ 54 Rechtsstellung](0054.md)
-
-## Zwölfter Abschnitt (weggefallen)
-
 - [§ 55 Aufgaben](0055.md)
 - [§ 56 Organisation](0056.md)
 - [§ 57 Geheimhaltungspflicht der Fraktionsangestellten](0057.md)

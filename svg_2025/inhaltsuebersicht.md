@@ -202,4 +202,5 @@ Schlussvorschriften
 | § 131 | Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes |
 | § 132 | Übergangsregelung zur Minderung der Förderungsdauer |
 | § 133 | Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen |
+| § 134 | Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit |
 | Anlage | Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags |

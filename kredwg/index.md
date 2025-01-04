@@ -142,7 +142,7 @@
 
 - [§ 26a Offenlegung durch die Institute](0026a.md)
 
-### 5d. Besondere Pflichten bei Kryptoverwahrung
+### 5d. Besondere Pflichten bei qualifizierter Kryptoverwahrung
 
 - [§ 26b Vermögenstrennung](0026b.md)
 
@@ -203,8 +203,9 @@
 - [§ 46f Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge](0046f.md)
 - [§ 46g Moratorium, Einstellung des Bank- und Börsenverkehrs](0046g.md)
 - [§ 46h Wiederaufnahme des Bank- und Börsenverkehrs](0046h.md)
-- [§ 46i Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung](0046i.md)
+- [§ 46i Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung](0046i.md)
 - [§ 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014](0047.md)
+- [§ 47a Besondere Befugnisse nach der Verordnung (EU) 2022/2554](0047a.md)
 - [§ 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402](0048.md)
 
 ### 4a. Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
@@ -279,7 +280,7 @@
 - [§ 60 Zuständige Verwaltungsbehörde](0060.md)
 - [§ 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0060a.md)
 - [§ 60b Bekanntmachung von Maßnahmen](0060b.md)
-- [§ 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402](0060c.md)
+- [§ 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554](0060c.md)
 - [§ 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten](0060d.md)
 
 ## Achter Abschnitt Übergangs- und Schlußvorschriften
@@ -311,6 +312,7 @@
 - [§ 64v Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz](0064v.md)
 - [§ 64w (weggefallen)](0064w.md)
 - [§ 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz](0064x.md)
-- [§ 64y Übergangsvorschriften zum Gesetz zur Umsetzung der Änderungsrichtlinie zur Vierten EU-Geldwäscherichtlinie](0064y.md)
+- [§ 64y (weggefallen)](0064y.md)
 - [§ 65 Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren](0065.md)
+- [§ 65a Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz](0065a.md)
 - [Anhang I Informationsbogen für den Einleger](anhang-i.md)

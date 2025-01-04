@@ -31,7 +31,7 @@
 | § 10a | Stellenzulage |
 | § 10b | Personalgewinnungszuschlag |
 | § 11 | Verschwiegenheitspflicht |
-| § 11a | Private Finanzgeschäfte der Beschäftigten der Bundesanstalt |
+| § 11a | Regelungen zur Integrität; Verordnungsermächtigung |
 | Vierter Abschnitt |
 |  | Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands |
 | § 12 | Haushaltsplan, Rechnungslegung |

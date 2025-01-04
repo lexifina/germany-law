@@ -27,6 +27,7 @@
 - [§ 13 Verfahren zur Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung](0013.md)
 - [§ 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung](0014.md)
 - [§ 15 Verstärkte Sorgfaltspflichten, Verordnungsermächtigung](0015.md)
+- [§ 15a Verstärkte Sorgfaltspflichten bei der Übertragung von Kryptowerten von einer selbst gehosteten oder an eine selbst gehostete Adresse](0015a.md)
 - [§ 16 Besondere Vorschriften für das Glücksspiel im Internet](0016.md)
 - [§ 16a Verbot der Barzahlung beim Erwerb von Immobilien](0016a.md)
 - [§ 17 Ausführung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung](0017.md)

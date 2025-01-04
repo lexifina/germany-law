@@ -203,6 +203,7 @@ Handwerkskammern, Innungsverbände
 - [§ 147a Verbotener Erwerb von Edelmetallen und Edelsteinen](0147a.md)
 - [§ 147b Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen](0147b.md)
 - [§ 147c Verstoß gegen Wohlverhaltenspflichten bei der Vermittlung von Versicherungsanlageprodukten](0147c.md)
+- [§ 147d Verletzung von Vorschriften über die digitale operationale Resilienz durch Versicherungsvermittler nach § 34d Absatz 1, Versicherungsberater nach § 34d Absatz 2 und Versicherungsvermittler in Nebentätigkeit nach § 34d Absatz 6](0147d.md)
 - [§ 148 Strafbare Verletzung gewerberechtlicher Vorschriften](0148.md)
 - [§ 148a Strafbare Verletzung von Prüferpflichten](0148a.md)
 - [§ 148b Fahrlässige Hehlerei von Edelmetallen und Edelsteinen](0148b.md)

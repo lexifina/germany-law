@@ -1,6 +1,5 @@
 # Gesetz über Maßnahmen zur Förderung des deutschen Films
 
-- [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Aufbau und Organisation der Filmförderungsanstalt
@@ -9,7 +8,6 @@
 ### Kapitel 1 Rechtsform und Aufgaben der Filmförderungsanstalt
 
 - [§ 1 Filmförderungsanstalt](0001.md)
-- [Schlussformel](schlussformel.md)
 - [§ 2 Aufgaben der Filmförderungsanstalt](0002.md)
 - [§ 3 Aufgabenerfüllung](0003.md)
 - [§ 4 Dienstleistungen für andere Einrichtungen](0004.md)

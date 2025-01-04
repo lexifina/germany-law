@@ -13,6 +13,7 @@
 - [§ 3 Für Institute zugelassene Tätigkeiten und verbotene Geschäfte](0003.md)
 - [§ 4 Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen](0004.md)
 - [§ 4a Elektronische Bekanntgabe oder Zustellung von Verwaltungsakten; Verordnungsermächtigung](0004a.md)
+- [§ 4b Besondere Befugnisse nach der Verordnung (EU) 2022/2554](0004b.md)
 - [§ 5 Zusammenarbeit mit anderen Behörden](0005.md)
 - [§ 6 Verschwiegenheitspflicht](0006.md)
 
@@ -142,9 +143,11 @@
 - [§ 63 Strafvorschriften](0063.md)
 - [§ 64 Bußgeldvorschriften](0064.md)
 - [§ 65 Mitteilung in Strafsachen](0065.md)
+- [§ 65a Bekanntmachung von Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554](0065a.md)
 
 ## Abschnitt 14 Übergangsvorschriften
 
 - [§ 66 Übergangsvorschriften für Zahlungsinstitute, die bereits über eine Erlaubnis verfügen](0066.md)
 - [§ 67 Übergangsvorschriften für E-Geld-Institute, die bereits über eine Erlaubnis verfügen](0067.md)
 - [§ 68 Übergangsvorschriften für bestimmte Zahlungsdienste und für die starke Kundenauthentifizierung](0068.md)
+- [§ 69 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz](0069.md)

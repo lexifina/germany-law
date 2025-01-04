@@ -16,6 +16,7 @@
 ### Abschnitt 2 Aufgaben und grundlegende Befugnisse der Bundesanstalt
 
 - [§ 5 Aufgaben und allgemeine Befugnisse der Bundesanstalt](0005.md)
+- [§ 5a Besondere Befugnisse nach der Verordnung (EU) 2022/2554](0005a.md)
 - [§ 6 Sofortige Vollziehbarkeit](0006.md)
 - [§ 7 Grenzüberschreitende Auskünfte und Prüfungen](0007.md)
 - [§ 8 Befugnis zur Erstreckung der Verordnung (EU) Nr. 575/2013 auf bestimmte Wertpapierinstitute](0008.md)
@@ -132,6 +133,10 @@
 - [§ 68 Befugnis für einzelfallbezogene Anzeigepflichten; Verordnungsermächtigung](0068.md)
 - [§ 69 Bewertung der Aufsicht im Drittstaat und andere Aufsichtstechniken](0069.md)
 
+### Abschnitt 6 Besondere Vorgaben bei qualifizierter Kryptoverwahrung
+
+- [§ 69a Vermögenstrennung](0069a.md)
+
 ## Kapitel 6 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr
 
 
@@ -164,14 +169,17 @@
 - [§ 79 Maßnahmen bei Gefahr](0079.md)
 - [§ 80 Sonderbeauftragter](0080.md)
 - [§ 81 Abwicklung laufender Geschäfte; Ausnahmen; Verbot der Zwangsvollstreckung](0081.md)
+- [§ 81a Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung](0081a.md)
 
 ## Kapitel 9 Straf- und Bußgeldvorschriften, öffentliche Bekanntmachung und Mitteilungen in Strafsachen
 
 - [§ 82 Strafvorschriften](0082.md)
 - [§ 83 Bußgeldvorschriften](0083.md)
 - [§ 84 Öffentliche Bekanntmachung von Verwaltungssanktionen und -maßnahmen](0084.md)
+- [§ 84a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554](0084a.md)
 - [§ 85 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0085.md)
 
 ## Kapitel 10 Übergangsvorschriften
 
 - [§ 86 Übergangsvorschriften für bestehende Wertpapierinstitute](0086.md)
+- [§ 87 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz](0087.md)
