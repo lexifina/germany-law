@@ -1,7 +1,6 @@
 # Abgabenordnung
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Erster Teil Einleitende Vorschriften
 
@@ -677,7 +676,7 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 340 Wegnahmegebühr](0340.md)
 - [§ 341 Verwertungsgebühr](0341.md)
 - [§ 342 Mehrheit von Schuldnern](0342.md)
-- [§ 343](0343.md)
+- [§ 343 (weggefallen)](0343.md)
 - [§ 344 Auslagen](0344.md)
 - [§ 345 Reisekosten und Aufwandsentschädigungen](0345.md)
 - [§ 346 Unrichtige Sachbehandlung, Festsetzungsfrist](0346.md)
