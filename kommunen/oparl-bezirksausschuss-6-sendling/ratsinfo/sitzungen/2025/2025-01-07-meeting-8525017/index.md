@@ -1,0 +1,133 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-01-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525017
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525017
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Mehr Raum für Fußgänger*innen in der Senserstraße – Bürgeranfrage zu BV-Empfehlung 20-26 / E 00422
+- TOP 2.2.: Vorschlag zur Sanierung der Karwendelstraße
+- TOP 2.3.: Verunreinigter Weg entlang der S-Bahn-Gleise Richtung Harras
+- TOP 2.4.: Problematik um den Quartiersplatz
+- TOP 2.5.: Delikte im Stadtbezirk
+- TOP 2.6.: Parkplatzsituation um das HP8
+- TOP 2.7.: Lärm- und Sichtschutz für die Fußgänger:innen auf der Brudermühlbrücke
+- TOP 2.8.: Anliegen zum Flauchergelände Richtung Innenstadt
+- TOP 2.9.: Bau des neuen Bahnhofs in der Implerstraße
+- TOP 2.10.: Implerstraße 11 (KVR) – versiegelte Fläche vs. Biodiversität
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Reutberger Straße – Entscheidung über Projektplanung Querungssituation im Zuge des Schulneubaus
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Meindlstraße 14: Neubau einer Senioren-/ Mehrgenerationen Wohnanlage mit 68 WE, ASZ, Gemeinschaftsraum und Tiefgarage mit 27 Stellplätzen - mit Mobilitätskonzept
+- TOP 4.2.2.: Antrag auf Baumfällung vom 09.12.2024 auf dem Grundstück Thalkirchner Straße 276
+- TOP 4.2.3.: Ausweisung von Vorranggebieten für Windenergie – Vorabeinbindung der Bezirksausschüsse
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Kein Abriss der Häuser Dietramszellerstraße 2, 4, 6! Antwort zu BA-Antrag 20-26 / B 07080
+- TOP 4.3.2.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 4.3.3.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 4.3.4.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 4.3.5.: Bauzaun am Sendlinger Loch
+- TOP 4.3.6.: Vorgezogene Mülleinsammlung durch den AWM – Verlängerung bestehender Ausnahmezulassungen
+- TOP 4.3.7.: Sicherheit der Baustelle am Sigi-Sommer-Haus
+- TOP 4.3.8.: Lärmaktionsplan 2024
+- TOP 4.3.9.: Unterrichtung zu einer beantragten Baumfällung in der Lagerhausstraße 5 – Vorbescheid
+- TOP 4.3.10.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Antrag des BA15 zur Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 4.5.2.: Meldung von Baumfällungen und / oder pflegerisch notwendigen Maßnahmen in Gehölzbe-ständen auf Grundlage der Bezirksausschussatzung durch das Baureferat
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Zulassung für Mofas auf dem Radweg der Brudermühlbrücke
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Verlegung eines personenbez. Behindertenparkplatz gegenüber Ganghoferstraße 84
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: H/E Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums V 11904
+- TOP 5.3.2.: Dauer der Ampelschaltung für Fußgänger am Harras
+- TOP 5.3.3.: Ausnahmezulassung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 5.3.4.: Verkehrsmessung an der Lindwurmstraße
+- TOP 5.3.5.: Schöttlstraße – Sommerstraßen in Sendling
+- TOP 5.3.6.: U3/U6: 40 Maßnahmen – eine Baustelle. Ersatzverkehr vom 17.2. – 30.5.2025
+- TOP 5.3.7.: Fahrradständer an der Valleystraße
+- TOP 5.3.8.: Lärmschutz in der Schäftlarnstraße
+- TOP 5.3.9.: Neu-Aufstellung einer Sitzbank an der Ecke Lindenschmitstraße / Danklstraße
+- TOP 5.3.10.: Taubenpopulation am Harras
+- TOP 5.3.11.: Verwaiste Fahrzeuge im Stadtbezirk
+- TOP 5.3.12.: Schranke oder umklappbare Poller für den Fußgängerbereich beim Postgebäude
+- TOP 5.3.13.: Geplante Radabstellanlagen Poccistraße/Implerstraße
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradabstellanlagen im Bereich Alramstraße (Fraktionen B 90 / Die Grünen und SPD)
+- TOP 5.4.2.: Antrag auf Sitzbänke bei Spielplätzen (Fraktion B 90 / Die Grünen)
+- TOP 5.4.3.: Anbringen eines Spiegels auf Verkehrsinsel vor Brudermühlstraße (Seniorenbeirat)
+- TOP 5.4.4.: Neu-Aufstellung einer Sitzbank an der Ecke Abelestraße / Danklstraße (Seniorenbeirat)
+- TOP 5.4.5.: Neu-Aufstellung einer Sitzbank an der Ecke Roter-Turm-Platz / Esswurmstraße (Seniorenbeirat)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Igelchen e.V. Ergonomisches Sitzen in unserer Kindertagesstätte vom 15.01.2025 - 31.01.2025 1.439,20 € / AZ: 0262.0-6-0532
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Schöttlsommer 2024 vom 30.06.2024 bis 30.09.2024 - Bilderfries vom 01.03.2024 bis 31.08.2024 - Sommerfest der Teestube „Komm“ am 09.08.2024 - Kartoffelakademie: Rechte Ideologien in der Landwirtschaft - JR MIROOL e.V. – Mini-EM-Turnier Munich Cup 24
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Kunst in Sendling e.V. „offene Ateliertage 2025“ - Budgetvoranmeldung
+- TOP 6.5.2.: Anfrage des BA 9 – Ehrenamt muss abgesichert sein
+- TOP 6.5.3.: Veranstaltung Märkte München – Lesung mit musikalischer Begleitung in der Großmarkthalle
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Fristverlängerung für „Kinderrechte stärken - Partizipation auf Augenhöhe leben“ Nr. des Antrags/der Anfrage: 20-26 / B 06072
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Stadtbibliothek und MVHS am Harras
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Sirenen zum Katastrophenschutz in Sendling
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: Bestellung Waldkranz für den Jahrtag des H.u.V.T.V. Schmied von Kochel am 22.12.2024
+- TOP 2.11.: Bebauungsplan Nr. 2177 - Öffentlichkeitsbeteiligung Stellungnahme/Einspruch einer Wohnungseigentümergemeinschaft bzgl. Bauleitplanverfahren
+- TOP 4.3.11.: Wechsel von Gas zu Fernwärme im Umgriff des Harras
+- TOP 5.3.14.: Schaffung einer Fußgängerunterführung unter dem Bahndamm Höhe Sylvensteinstraße / Johann-Clanze-Straße (Anfrage zum Sachstand)
+- TOP 5.3.15.: Antrag für Fahrradstellplätze am Gotzinger Platz 3-6
+- TOP 5.3.16.: Instandsetzung der Kreuzung am Pullacher Platz
+- TOP 5.3.17.: Pilotprojekt zur „Bedarfsgerechten Grünzeitverlängerung für Fußgänger*innen“
+- TOP 5.3.18.: Rückmeldung zur Stellungnahme des Bezirksausschuss 06 - Sendling „Parklizenzgebiete - Beschlussvorlage verabschieden!“
+- TOP 6.1.2.: (E) Stadtbezirksbudget We Won&#039;t Shut Up! We Won&#039;t Shut up! vom 03.03.2025 - 20.05.2025 2.000,00 € / AZ: 0262.0-6-0531
+- TOP 7.3.2.: Kinderversammlung in Sendling 2025?
+- TOP 8.3.1.: Vorplanungsauftrag zum Neubau des Sportbetriebsgebäudes und zur Modernisierung der Freisportanlagen an der Bezirkssportanlage Demleitnerstraße 2 im 6.
+- TOP 8.3.2.: Erhalt der Vereinsgaststätte "Zum Blaustern" auf dem Gelände des FC Wacker - Zwischennachricht -
+- TOP 8.3.3.: Erhalt der Vereinsgaststätte nach Neubau der Sportanlage Demleitnerstraße 2 / Wackersberger Straße 65; BA-Antrag 20-26 / B 06329 - Zwischennachricht -
+- TOP 1.1.: Protokoll der Sitzung vom 02.12.2024
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Fraktionsgemeinschaft zwischen B 90 / Die Grünen & ÖDP
+- TOP 1.5.: Besetzung der Unterausschusssitze - Kultur und Freizeit - Planen – Bauen – Wohnen - Bildung und Soziales
+- TOP 1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.12.: Schließung des Postamts am Harras
+- TOP 4.3.12.: Sachstand zum Abriss und Neubau des Gebäudes an der Dietramszeller Straße 2, 4 und 6 Antwort zu BV-Anfrage 20-26 / Q 00570
+- TOP 5.3.19.: Geschwindigkeitsbegrenzung in der Implerstraße
+- TOP 5.4.6.: Fahrradabstellanlagen im Bereich Oberländerstraße (Fraktionen B 90 / Die Grünen und SPD)
+- TOP 6.3.2.: Haushaltsbeschluss 2025; Stadtbezirksbudgets für 2025
+- TOP 8.3.4.: Weiterführung einer Schank- und Speisewirtschaft in der Alramstraße 7
