@@ -33,3 +33,6 @@ Amtsgericht Bremerhaven | Alle Insolvenzverfahren der Abteilung 10, jeweils mit 
 Amtsgericht Bremerhaven | Alle Insolvenzverfahren der Abteilung 10, jeweils mit Ausnahme der Tabellen gemäß § 175 Insolvenzordnung | 4. November 2024
 Amtsgericht Bremerhaven | Alle Verfahren in Nachlasssachen der Abteilung 7 mit Ausnahme der Urkundssachen I und II | 2. Dezember 2024
 Amtsgericht Bremen- Blumenthal | Alle Verfahren in Nachlasssachen der Abteilung 50 mit Ausnahme der Urkundssachen I und II | 2. Dezember 2024
+Amtsgericht Bremen | Alle Verfahren in Zwangsversteigerungs- und Zwangsverwaltungsverfahren der Abteilung 26 mit Ausnahme der Verfahren, die vor dem 8. April 2022 eingegangen sind | 13. Januar 2025
+Amtsgericht Bremerhaven | Alle Verfahren in Zwangsversteigerungs- und Zwangsverwaltungsverfahren der Abteilungen 11a und 11b | 20. Januar 2025
+Amtsgericht Bremen- Blumenthal | Alle Verfahren in Zwangsversteigerungs- und Zwangsverwaltungsverfahren der Abteilung 4 | 20. Januar 2025
