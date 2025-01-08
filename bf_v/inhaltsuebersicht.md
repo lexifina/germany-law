@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 
 | Teil 1 |
-| Berufsberatung nach § 5 des Soldatenversorgungsgesetzes |
+| Allgemeine Vorschriften und Berufsberatung nach § 5 des Soldatenversorgungsgesetzes |
 | § 1 | Maßnahmen der schulischen und beruflichen Bildung |
 | § 1a | Zuständigkeiten |
 | § 2 | Berufsberatung |
@@ -50,10 +50,10 @@
 | § 32 | Einarbeitungszuschuss |
 | § 32a | Lohnkostenzuschuss |
 | § 33 | Erstattung von Kosten für Vorstellungsreisen |
-| § 34 | Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes |
-| § 35 | Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes |
+| § 34 | Berufsorientierungspraktika nach § 9 Absatz 2 des Soldatenversorgungsgesetzes |
+| § 35 | Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes |
 | § 36 | Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen |
-| § 36a | Eingliederungsseminar nach § 9 Absatz 8 des Soldatenversorgungsgesetzes |
+| § 36a | Eingliederungsseminar nach § 9 Absatz 5 des Soldatenversorgungsgesetzes |
 | § 37 | Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung |
 |  |
 | Teil 6 |

@@ -14,7 +14,7 @@ Leistungen zur Sicherung des Einkommens
 | § 6 | Leistungen an Selbständige |
 | § 7 | Zusammentreffen mehrerer Leistungen |
 | § 8 | Mindestleistung |
-| § 9 | Leistungen für Versorgungsempfänger |
+| § 9 | Leistungen für Versorgungsempfängerinnen und Versorgungsempfänger |
 Abschnitt 2
 Prämien, Dienstgeld, Zuschläge
 | § 10 | Kaufkraftausgleich |

@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Teil 1 Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
+## Teil 1 Allgemeine Vorschriften und Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
 
 - [§ 1 Maßnahmen der schulischen und beruflichen Bildung](0001.md)
 - [§ 1a Zuständigkeiten](0001a.md)
