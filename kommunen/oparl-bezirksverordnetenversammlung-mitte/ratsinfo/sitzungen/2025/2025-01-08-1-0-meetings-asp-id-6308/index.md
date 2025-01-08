@@ -1,0 +1,52 @@
+# 31. öffentliche Sitzung des Ausschusses für Verkehr und Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2025-01-08T17:30:00+01:00
+- Ende: 2025-01-08T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=60
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6308
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6308
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=605028
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=618363
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Protokollgenehmigungen (Derzeit liegen keine Protokolle zur Genehmigung vor) - erledigt
+- TOP 3: Mitteilungen - im Ausschuss abgelehnt
+- TOP 3.1: der Vorsitzenden - erledigt
+- TOP 3.2: des Bezirksamtes - erledigt
+- TOP 3.3: der Seniorenvertretung - erledigt
+- TOP 3.4: des Behindertenbeirats - erledigt
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Aktuelle Themen - (offen)
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Parkplatzsituation für Angestellte des öffentlichen Diestes- Abwanderung/Kündigungen oder Kompromisse suchen? - Parkplatzsituation Polizeiniederlassung Kruppstr. (Parkraumbewirtschaftung und Parkplatzrückbau) - Schulen- hier ein Beispiel- Parkraumbewirtschaftung „Heinrich-von-Stephan-Gemeinschaftsschule- Neues Ufer 6“ - hierzu Anlage „Beantragung von Betriebsvignetten bzw. Schaffen anderer bezahlbarer Parkmöglichkeiten für pädagogisches Personal an Schulen ohne Schulparkplatz“ - erledigt
+- TOP 6: Beratung von Drucksachen - (offen)
+- TOP 6.1: Angsträume zurückdrängen – Tatsächliche Sicherheit erhöhen - vertagt
+- TOP 6.2: Mahnmale schützen, Antisemitismus wirksam entgegentreten! - vertagt
+- TOP 6.3: Rechtmäßige Nutzung des Friedrich-Ebert-Platzes sichern - vertagt
+- TOP 6.4: Regelmäßige Informationen zu den Daten, die Parkraumbewirtschaftung in Mitte begründen - vertagt
+- TOP 6.5: Freier Toilettenzugang für Taxifahrer - vertagt
+- TOP 6.6: Crack-Konferenz Berlin Mitte - vertagt
+- TOP 6.7: Mehr Fahrradbügel und Intermodalität an zentralen U-Bahnhöfen in Mitte - vertagt
+- TOP 6.8: Unfallstatistik für Fahrradstraßen im Bezirk - vertagt
+- TOP 6.9: Fahrradstraßen der Wallstraße sinnvoll miteinander verknüpfen - vertagt
+- TOP 6.10: Kiezblock Schillerpark einrichten - vertagt
+- TOP 6.11: E-Scooter im öffentlichen Raum - vertagt
+- TOP 6.12: Dein Kiez – kein Müll: Entsorgungsangebote vor Ort - vertagt
+- TOP 6.13: Mehr Grünflächen für den Bezirk! Straßenrand der Soldiner Straße zwischen Freienwalderstraße und Grüntaler Straße entsiegeln - vertagt
+- TOP 6.14: Unterführung Leipziger Straße - vertagt
+- TOP 6.15: „Soko Müll“ auch im Bezirk Mitte einführen - vertagt
+- TOP 6.16: Mülleimer in der Singerstraße - vertagt
+- TOP 6.17: Messung und Erfassen von Verkehrsströmen mit einer nachfolgenden Erstellung einer Risikoanalyse - vertagt
+- TOP 6.18: Weihnachtsmärkte ohne Barrieren - vertagt
+- TOP 6.19: BSR rechtzeitig über Baumaßnahmen im Straßenland informieren - vertagt
+- TOP 6.20: Am Abend wieder mehr Licht im Nikolaiviertel - vertagt
+- TOP 6.21: Ist die Fußgängerzone in der Rosenstraße am Alex noch zeitgemäß? - vertagt
+- TOP 7: Themen der nächsten Sitzung - erledigt
+- TOP 8: Verschiedenes - (offen)
+- TOP 8.1: Zusatztermin für die Behandlung von Drucksachen - erledigt
