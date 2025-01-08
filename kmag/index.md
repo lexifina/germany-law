@@ -68,7 +68,6 @@
 
 ### Abschnitt 3 Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen
 
-- [(XXXX) §§ 29 und 30 (zukünftig in Kraft)](xxxx-29-und-30.md)
 - [§ 29 Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114](0029.md)
 - [§ 30 Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen](0030.md)
 

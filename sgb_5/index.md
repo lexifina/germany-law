@@ -874,7 +874,8 @@ von Leistungsdaten, Datentransparenz
 - [§ 323 Betriebsleistungen](0323.md)
 - [§ 324 Zulassung von Anbietern von Betriebsleistungen](0324.md)
 - [§ 325 Zulassung von Komponenten und Diensten der Telematikinfrastruktur](0325.md)
-- [§ 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung](0326.md)
+- [§ 326 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0326.md)
+- [§ 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung](0326-2.md)
 - [§ 327 Nutzung von Diensten der Telematikinfrastruktur durch weitere Dienste und Anwendungen; Bestätigungsverfahren](0327.md)
 - [§ 328 Gebühren und Auslagen; Verordnungsermächtigung](0328.md)
 
@@ -1039,7 +1040,6 @@ von Leistungsdaten, Datentransparenz
 - [§ 411 (weggefallen)](0411.md)
 - [§ 412 (weggefallen)](0412.md)
 - [§ 413 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung](0413.md)
-- [§ 413 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0413-2.md)
 - [§ 414 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0414.md)
 - [§ 415 (weggefallen)](0415.md)
 - [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
