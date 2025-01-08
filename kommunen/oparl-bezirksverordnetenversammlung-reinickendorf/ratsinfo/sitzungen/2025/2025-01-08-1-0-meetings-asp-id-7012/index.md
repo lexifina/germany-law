@@ -1,0 +1,97 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-01-08T17:00:00+01:00
+- Ende: 2025-01-08T22:25:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7012
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7012
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=538462
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Müllbeseitigung auf dem Gelände Parkplatz Königshorster Str. 10 - beantwortet
+- TOP 3.2: Maßnahmen zur Verhinderung des weiteren Ausspülens der unbefestigten Gehwegoberstreifen und -unterstreifen in der Hochjagdstraße zwischen Bondickstraße und Waidmannsluster Damm - beantwortet
+- TOP 3.3: Kampf gegen EINSAMKEIT - beantwortet
+- TOP 3.4: Die Resi, eine Straße der Geschäftevielfalt? - beantwortet
+- TOP 3.5: Plastiktüten - beantwortet
+- TOP 3.6: Baustellenumleitung in der Schildower Straße - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 38. Sitzung der BVV am 08.01.2025 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Verkehrsgefährdungen durch Gehwegüberfahrten Ernst- Ecke Schubartstraße in Borsigwalde - beantwortet
+- TOP 5.2: Kündigung der Sportflächen für den Reitsportverein am Waidmannsluster Damm 10 - beantwortet
+- TOP 5.3: Einsätze zu Silvester - beantwortet
+- TOP 5.4: Jugendkriminalität - beantwortet
+- TOP 5.5: Schneckentempo bei der Tempo-30-Abschaffung - beantwortet
+- TOP 5.6: Straftaten zum Nachteil von Mitarbeitenden des OA Reinickendorf in 2024 - beantwortet
+- TOP 5.7: Stand der Umsetzung des Pilotprojektes "Bürohunde" im Bezirksamt Reinickendorf - beantwortet
+- TOP 5.8: Wahlkampf - Plakatierungsstart - beantwortet
+- TOP 5.9: Residenzstraße endlich aufwerten - beantwortet
+- TOP 5.10: Drittes Katheterlabor im Humboldt-Krankenhaus - beantwortet
+- TOP 5.11: Verschlammung im Teich im Steinbergpark - beantwortet
+- TOP 5.12: Auswirkungen Mittelkürzungen für Rad- und Fußverkehr für Reinickendorf - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Öffentliche Toilette im Dorfkern Lübars "begrünen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Mülleimer am Nordgraben wieder aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Finanzmittel für Machbarkeitsstudie Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Ausweisung von Parkplätzen für Schwerbehinderte (Verkehrszeichen 314) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: PFAS-Kontamination im Grundwassereinzugsgebiet - Wasserwerk Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Beleuchtung zwischen Mittelfeldbecken und Skaterpark im MV verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Seniorenbänke mit ausreichend Sitzfläche aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Mobilitätskonzept Cité Foch: Parkplätze Jean-Jaurès-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) sowie die Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB zum Bebauungsplanverfahren 12-49a im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 8.10: Auswertung der eingegangenen Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-49c im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Abriss auf Raten? - Wie geht es weiter mit der Sporthalle der Bettina-von Arnim-Schule - beantwortet
+- TOP 9.2: Warum stockt der Wohnungsbau in Reinickendorf - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Aufstellung einer Traglufthalle - überwiesen
+- TOP 11.2: Neubau eines Kultur- und Bildungszentrums am Standort der Stadtteilbibliothek Reinickendorf-West (KuBiZ) - erledigt
+- TOP 11.3: Parkzonen in Frohnau wieder etablieren - in der BVV abgelehnt
+- TOP 11.4: Spielstätte für ein Kinder- und Jugendtheater schaffen - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Stationen für Mieträder und Miet-Scooter - in der BVV abgelehnt
+- TOP 11.6: Reinigungsmängel in Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Umfrage aktueller Sachstand zur Reinigung der Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Missbilligung des Bezirksamts - in der BVV abgelehnt
+- TOP 12.2: Resolution: Für ein geeintes und friedliches Miteinander - Gegen Polarisierung und Extremismus - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Unterstützung bei der Suche nach einem alternativen Standort für Berliner Help Stiftung (Teen Challange) - überwiesen
+- TOP 13.2: Städtepartnerschaft zwischen Reinickendorf und Kartal (Istanbul) - überwiesen
+- TOP 13.3: Kriterien für zukünftige Genehmigungsverfahren für das Tegeler Hafenfest - überwiesen
+- TOP 13.4: Mehr System im Sharing-Netz - überwiesen
+- TOP 13.5: Wärmeplanung für das TetraPak Gelände - überwiesen
+- TOP 13.6: Stelle der Koordinatorin/des Koordinators für kommunale Entwicklungspolitik verstetigen! - überwiesen
+- TOP 13.7: Gefahrentreppe am Mattersburger Weg - überwiesen
+- TOP 13.8: Regenwasserrückhalt und Dachbegrünung für das TetraPak Gelände - überwiesen
+- TOP 13.9: Gegen häusliche Gewalt - Unternehmen gegen Gewalt - überwiesen
+- TOP 13.10: Schulplätze und Freizeiteinrichtungen für ältere Jugendliche in Heiligensee - überwiesen
+- TOP 13.11: Abordnung Gehwegparken vor der Schule am Park - überwiesen
+- TOP 13.12: "StoP - Stadtteile ohne Partnergewalt Reinickendorf" - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Wirtschaft stärken: Intensiver Austausch mit der Bundesverwaltung für Reinickendorfs Zukunft - vertagt
+- TOP 14.2: Haltestellenverlängerung am Zeltinger Platz mit Bus-Zeichen markieren und nicht mehr gültige Markierungen entfernen - überwiesen
+- TOP 14.3: Bedarfsgerechte Ausstattung der Hilfen zur Erziehung einfordern - überwiesen
+- TOP 14.4: Buslinie 124 für mehr Inklusion. - überwiesen
+- TOP 14.5: Supervision für Patientenfürsprechende - überwiesen
+- TOP 14.6: Verbesserung der Beleuchtung in der Baseler Straße und im Bereich des "Schwarzen Grabens" - überwiesen
+- TOP 14.7: Mobilitätsangebot für das TetraPak Gelände - überwiesen
+- TOP 14.8: Günstigere Einkaufsmöglichkeiten für Patienten im Maßregelvollzug - überwiesen
+- TOP 14.9: Migration managen. Sicherheit stärken. - vertagt
+- TOP 14.10: Bus 124 - überwiesen
+- TOP 14.11: Zebrastreifen Hennigsdorfer Straße - überwiesen
+- TOP 14.12: Radverkehrsanlage RSV 10 und Teilstück Karolinenstraße - überwiesen
+- TOP 14.13: Bürgerbeteiligung zur Ausgestaltung der sozialen Flächen des B-Plans 12-70 VE TetraPak Gelände - überwiesen
+- TOP 14.14: Abbiegespur und Ampelschaltung Hennigsdorfer Str./Ruppiner Chaussee - überwiesen
+- TOP 14.15: Kartenanzeige bei Betriebsstörungen der Berliner Wasserbetriebe - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
