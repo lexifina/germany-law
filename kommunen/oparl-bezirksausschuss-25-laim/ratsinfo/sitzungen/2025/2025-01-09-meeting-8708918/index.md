@@ -1,0 +1,113 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8708918
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8708918
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Bessere Sicherheit für Fußgänger/innen am Hönigschmidplatz
+- TOP 2.2.: Gehwegparken reduzieren - gemeinsam mit Mobilitätsreferat und Polizei
+- TOP 2.3.: Optimierung der Bürgerversammlung durch Einbindung der Fachreferate
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Initiative "Männer*spaziergang" Männer*spaziergang #decolonizemunich vom 15.01. - 01.05.2025 625,00 Euro, Az.: 0262.0-25-0354
+- TOP 3.2.: (E) Stadtbezirksbudget Helferkreis für Gefüchtetenunterkünfte in den Stadtbezirken 7, 8 und 25 Jahresprogramm 2025 des Helferkreises vom 15.01. - 31.12.2025 2.500,00 Euro, Az.: 0262.0-25-0357
+- TOP 3.3.: (E) Stadtbezirksbudget Laimer Maibaumfreunde e.V. Laimer Maifest 2025 am 01.05.2025 5.400,00 Euro, Az.: 0262.0-25-0358
+- TOP 3.4.: (E) Keine Verlegung der Bushaltestelle am Hönigschmidplatz
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Sozialreferat vom 27.11.24: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 4.3.: Schreiben Kommunalreferat vom 12.12.24: Benennung U-Bahnhof
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.12.24: Benehmensverfahren Denkmaleigenschaft Agnes-Bernauer-Str. 100
+- TOP 4.5.: Schreiben Baureferat vom 06.12.24: Trinkwasserbrunnen Stadtteilzentrum 1054 - Standort Fürstenrieder Straße (Frist 13.01.25)
+- TOP 4.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.12.24: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für Windenergie; Vorabeinbindung der Bezirksausschüsse
+- TOP 4.7.: Schreiben Mobilitätsreferat vom 18.12.24: Anhörung personenbezogener Sonderparkplatz im Bereich Reindlstr. 45 (Laim - 25)
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Antrag des BA15: Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 6.2.: Anfrage des BA 9: Ehrenamt muss abgesichert sein
+- TOP 6.3.: Schreiben Baureferat vom 16.12.24: Dialog-Display Guido-Schneble-Straße, 80689 München
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Umwelt, Klima und Baumschutz vom 02.12.24
+- TOP 7.2.: Protokoll UA Bau vom 03.12.24
+- TOP 7.3.: Protokoll BA-Sitzung vom 05.12.24
+- TOP 7.4.: Protokoll UA Mobilität vom 26.11.24
+- TOP 7.5.: Protokoll UA Kultur vom 05.12.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Oberbürgermeister vom 22.11.24: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Antrag auf Genehmigung einer Kleinst-Freischankfläche; OB-Entscheidung, BA 25, Erlaubnisfreie Gaststätte / Einzelhandel „One Shop 1“, Inderstorferstr. 15, 80689 München
+- TOP 8.2.: Schreiben Oberbürgermeister vom 16.12.24: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Antrag auf Erteilung einer sondernutzungsrechtlichen Erlaubnis für eine Freischankfläche in der Parkbucht Seite Landsberger Str. (Schanigarten); OB-Entscheidung, BA 25, Landsberger Str. 331, Freischankfläche
+- TOP 8.3.: Schreiben Kinder- und Jugendrathaus vom 11.12.24: Jugendversammlung im BA 25 Laim - Aktueller Stand
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 20.11.24: Allgemeinverfügung über das Abbrennen von pyrotechnischen Gegenständen
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 06.12.24: Mitteilungen über unveränderte Fortführung - "Cafe Arkadas" und "Mini Bar", Landsberger Str. 214
+- TOP 8.6.: Schreiben Sozialreferat vom 19.11.24: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 30.09.2024
+- TOP 8.7.: Schreiben des Behindertenbeirats vom 10.12.24: Gehwegparken
+- TOP 8.8.: Schreiben Stadtkämmerei vom 18.11.24: MIP-Entwurf 2024-2028
+- TOP 8.9.: Antwortschreiben Mobilitätsreferat vom 05.12.24: Gefährliche Kreuzung Camerloherstr/Guido-Schneble-Str Vorfahrtsregelung
+- TOP 8.10.: Antwortschreiben Mobilitätsreferat vom 11.12.24: Baustellenbeschilderung Hans-Thonauer-Straße
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 25.11.24: Bescheid VA Gotthardstr. 89-93 Agricolastr. U 03162/24; 7. Zwischenphase zu BPh305.2
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 20.11.24: Abdruck VAO Fürstenrieder Str. LAK - ABS Bph. 5.1.2 U 03098/24
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 19.11.24: U_03114_24_Fürstenrieder Str_AMM_LKR_BPH3.2_4.1_Bereich HOG_VL_swm_wei
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 22.11.24: Fürstenrieder Str. AMM Bph. 4.1.3_U 03152_24 Änderung und VL_SWM - VAO komplett Abdruck
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 27.11.24: Fürstenrieder Str._ABS Bph. 5.2_U 03198_24_SWM_VAO komplett Abdruck
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 27.11.24: Fürstenrieder Str._ABS - GOT Bph. 5.3_U 03202_24_SWM_VAO komplett Abdruck
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 27.11.24: Fürstenrieder Str._ABS - GOT Bph. 5.3_U 03202_24_SWM_VAO komplett Abdruck
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 05.12.24: Fürstenrieder Str. LAK - ABS Bph. 5_VS Perhamer_Helmpert_U 03309_24_SWM - VAO komplett Abdruck
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 06.12.24: Fürstenrieder Str. AMM Bph. 4.1.3.1_U 03313_24 Änderung_SWM_wei_VAO komplett Abdruck
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 06.12.24: Bescheid VA Gotthardstr. Hauptbaumaßnahme BPh310 Ost und West (U 03311/24); West ab 09.12.2024, Ost ab 17.12.2024
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 09.12.24: Fürstenrieder Str. AMM-AIN Bhp. 5.1.3_U_03328_24_SWM_VAO komplett Abdruck
+- TOP 8.22.: Schreiben Mobilitätsreferat vom 09.12.24: AMM - Süd_Kreuzhofbrücken Nordteil_Baumfällungen_U_03212_24_SWM_Ost
+- TOP 8.23.: Antwortschreiben Mobilitätsreferat vom 13.12.24: Stöberlstr. / aufgesetztes Parken
+- TOP 8.24.: Schreiben Mobilitätsreferat vom 13.12.24: Laimer Bürger und Bürgerinnen ausreichend und gut informieren über Tram-West-Tangente
+- TOP 8.25.: Antwortschreiben AWM vom 11.12.24: Einführung einer gelben Tonne
+- TOP 8.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.12.24: Geyerspergerstr. 26, Fällungsantrag
+- TOP 8.27.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.12.24: Camerloherstr. 167, Fällungsantrag
+- TOP 8.28.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.11.24: Gatterburgstr. 15, Fällungsantrag
+- TOP 8.29.: Bautenliste 11.11.24-17.11.24: A) Erstantragsverfahren 1. Landsberger Str. 364 2. Elsenheimerstr. 15 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Eringerstr. 42 2. Kiem-Pauli-Weg 1 3. Sandratstr. 22 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Willibaldstr. 115
+- TOP 8.30.: Bautenliste 25.11.24-01.12.24: A) Erstantragsverfahren 1. Agnes-Bernauer-Str. 77 2. Landsberger Str. 187 3. Hönlestr. 19
+- TOP 8.31.: Bautenliste A) Erstantragsverfahren 1. Droste-Hülshoff-Str. 5 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Droste-Hülshoff-Str. 5
+- TOP 8.32.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.11.24: Elsenheimerstr. 59, Fl.Nr. 8480/4
+- TOP 8.33.: Schreiben Baureferat vom 02.12.24: Baumfällmeldungen der Grünflächen
+- TOP 8.34.: Schreiben Baureferat vom 03.12.24: Präsentation vom Treffen der BAs zu den Themen: LED-Umrüstung, Nachtspaziergänge und Dialog-Displays
+- TOP 8.35.: Schreiben Baureferat vom 25.11.24: Kiesstreifen am Willibaldplatz begrünen
+- TOP 8.36.: Schreiben Referat für Bildung und Sport vom 25.11.24: Erläuterungstafel für Fürstenrieder Schule
+- TOP 8.37.: Schreiben Referat für Klima- und Umweltschutz vom 12.12.24: Lärmaktionsplan 2024
+- TOP 8.38.: Schreiben Referat für Klima- und Umweltschutz vom 28.11.24 und 05.12.24: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Reinigung U-Bahnhöfe
+- TOP 8.39.: Schreiben SWM vom 19.11.24: Baumaßnahmen
+- TOP 8.40.: Schreiben Direktorium November und Dezember 2024: Verwendungsnachweise
+- TOP 8.41.: Beschluss des Bildungsausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 04.12.2024: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 8.42.: Beschluss des Mobilitätsausschusses vom 11.12.24: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 8.43.: Beschluss des Sozialausschusses vom 14.11.24: (U) Verbot der Zweckentfremdung von Wohnraum Genehmigung einer Zweckentfremdung von Wohnraum zur Unterbringung von vulnerable Geflüchteten aufgrund vorrangiger öffentlicher Belange für das Anwesen in der Joergstraße 78 25. Stadtbezirk - Laim
+- TOP 8.44.: Beschluss des Sozialausschusses vom 12.12.24: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 8.45.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.24: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.46.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.24: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 8.47.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.24: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.48.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.11.24: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 8.49.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.24: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 8.50.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.12.24: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 8.51.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.12.24: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 8.52.: Beschluss der Vollversammlung vom 18.12.24: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Unter- oder Überquerung Fürstenrieder Str. in Höhe des alten Tunnels beim ehemaligen Karstadt oder Valpichlerstr (Nicht in BV anwesend, Weiterleitung an Mobilitätsreferat und Baureferat)
+- TOP 9.2.: Parklizenzgebiet (Nicht in BV anwesend, Antwortschreiben an Bürger*in)
+- TOP 9.3.: Anwohnerparkplätze (Nicht in BV anwesend, Antwortschreiben an Bürger*in)
+- TOP 9.4.: Aindorferstr.137/ Carsharing- Parkplätze (Vertagung in UA Mobilität)
+- TOP 9.5.: Parkplatzprobleme (Vertagung in UA Mobilität mit Einladung Mobilitätsreferat)
+- TOP 9.6.: Dauerhafte geparkte Autos / Landsberger Str. (Vertagung in UA Soziales)
+- TOP 9.7.: Müllabfuhr in Theodor-Fischer-Siedlung (Weiterleitung an AWM und evtl. Ortstermin)
+- TOP 9.8.: Parkplatzprobleme (Vertagung in UA Mobilität mit Einladung Mobilitätsreferat)
+- TOP 9.9.: Verbesserung der Parksituation rund um den Agricolaplatz im Stadtteil Laim (Vertagung UA Mobilität)
+- TOP 9.10.: Willibaldplatz Müllhalde (Weiterleitung an Baureferat, Abt. Gartenbau)
+- TOP 9.11.: Willibaldstraße (Weiterleitung an Mobilitätsreferat und Baureferat)
+- TOP 9.12.: Probleme mit Müllabfuhr in der Hörkherstraße (Weiterleitung an AWM und evtl. Ortstermin)
+- TOP 9.13.: Unterführung Laimer S-Bahnhof (Antwort an Bürger*in)
+- TOP 2.1.1: Schreiben PI 41 vom 23.12.24: Stellungnahme PI 41 zum Hönigschmidplatz
