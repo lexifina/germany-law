@@ -1,0 +1,8 @@
+# TOP 5: Beschluss zur Bereitstellung von Verfügungsmitteln zur Anschaffung von Prospektboxen für die Ortsnachrichten
+
+- Sitzung: 6. Sitzung des Ortschaftsrates Mobschatz (2025-01-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/213644
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/64794
