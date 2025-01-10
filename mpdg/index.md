@@ -14,6 +14,7 @@
 - [§ 5 Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung](0005.md)
 - [§ 6 Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie](0006.md)
 - [§ 7 Sonderzulassung, Verordnungsermächtigung](0007.md)
+- [§ 7a Verfahren für die Informationspflicht nach Artikel 10a der Verordnung (EU) 2017/745 und Artikel 10a der Verordnung (EU) 2017/746](0007a.md)
 - [§ 8 Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen](0008.md)
 - [§ 9 Sondervorschriften für angepasste Produkte](0009.md)
 - [§ 10 Freiverkaufszertifikate](0010.md)
