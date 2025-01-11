@@ -54,3 +54,8 @@ Nummer | Gericht, Staatsanwaltschaft oder Bußgeldbehörde
 50. | Staatsanwaltschaft Chemnitz
 51. | Jobcenter Chemnitz, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
 52. | Jobcenter Mittelsachsen, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
+53. | Staatsanwaltschaft Dresden
+54. | Jobcenter Dresden, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
+55. | Jobcenter Sächsische Schweiz-Osterzgebirge, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
+56. | Staatsanwaltschaft Leipzig
+57. | Staatsanwaltschaft Görlitz.
