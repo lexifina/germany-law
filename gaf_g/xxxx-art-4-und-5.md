@@ -1,3 +1,3 @@
-# (XXXX) Art 4 und 5 Änderungsvorschriften
+# (XXXX) Art 4 und 5 (Änderungsvorschriften)
 
 
