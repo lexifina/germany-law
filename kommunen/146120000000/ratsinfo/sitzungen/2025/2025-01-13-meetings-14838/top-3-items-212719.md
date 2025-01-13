@@ -1,0 +1,7 @@
+# TOP 3: Kenntnisnahme der Niederschrift zur 3. Sitzung des Stadtbezirksbeirates am 25.11.2024
+
+- Sitzung: 5. Sitzung des Stadtbezirksbeirates Neustadt (2025-01-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/212719
+- Ergebnis: zur Kenntnis genommen
