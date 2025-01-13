@@ -1,0 +1,65 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780193
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780193
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 16.12.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag auf Hitze- bzw. Klimaresistentes Bauen im Zuge der Stadtteilsanierung durch konsequentes Anbringen eines außenliegenden Sonnenschutzes
+- TOP 2.2.: Verkehrssicherheit an der Grundschule Haldenbergerstaße
+- TOP 2.3.: Verkehrssituation in der Eininger Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Elternbeirat der städt. Artur Kutscher Realschule München-Moosach Digitaltag 2025 für mehr Medienkompetenz: Workshops 5. Klassen: Sicher im Internet am 28.01.2025 704,16€; Az. 0262.0-10-0404
+- TOP 5.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R. Demokratie im Einsatz -Demokratiemobil München 20.02 -22.02.2025 3.012,40 € / AZ: 0262.0-10-0405
+- TOP 5.3.: (E) Errichtung von Parksperren im Halteverbot bei OEZ- Parkplatzausfahrten
+- TOP 5.4.: (E) Schutz der Fußgänger beim Betreten eines Gehwegs durch Markierung
+- TOP 5.5.: (E) Jährlicher Rückschnitt am Fuß- und Radweg in der Jakob-Hagenbucher-Straße
+- TOP 5.6.: (E) Aufforstung Stadtwerkepark
+- TOP 5.7.: (E) Verkehrskonzept für Feldmochinger Straße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anfrage - Antrag des BA 09 mit der Bitte um Unterstützung durch die anderen Bezirksausschüsse - Ehrenamt muss abgesichert sein
+- TOP 6.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Schulwegsicherheit Gleißmüllerstr., Zusatzzeichen
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 b Nr. 2 i.V.m. § 46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 6.4.: Parksituation Baldurstr. / Homerstr., Dantebad
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Aufwertung des Stadtteilzentrums Moosacher Bahnhof und Erhöhung der Sicherheit für Fußgänger*innen und Radfahrer*innen durch Ausweisung des Straßenzuges Bunzlauer Platz, Bunzlauer Straße und Breslauer Straße als "Verkehrsberuhigter Geschäftsbereich" gemäß StVO § 45 Abs. 1d.
+- TOP 7.2.: Winterfeste Gestaltung des Interims-Durchgangs der Eisenbahnüberführung Dachauer Str.
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 8.2.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Änderungsbescheid Feldmochinger Str. 12, Gärtnerstr., Seydlitzplatz
+- TOP 8.4.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 8.5.: Lärmaktionsplan 2024 - Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse
+- TOP 8.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Baldurstr. 28 ff., Generalsanierung Westfriedhof
+- TOP 8.7.: Verkehrsrechtliche Anordnung nach § 45 StVO: Tempo-30-Zone "Moosacher Bahnhof"
+- TOP 8.8.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für Windenergie
+- TOP 8.9.: Unveränderte Fortführung eines Gaststättenbetriebes: Bunzlauer Str. 22
+- TOP 8.10.: Güternordring – Bürgerversammlungsempfehlungen; Gütergleis 5566: rechtliche Zulässigkeit der Verlegung; Erweiterung des Rangierbahnhofes; Frühzeitige Einbeziehung der betroffenen Gemeinden / Bürger*innen und ortsnahe Informationsmöglichkeit für Bürger*innen; Stellungnahme des BA 10 – Moosach zur Sitzungsvorlage Nr. 20-26 / V 14395
+- TOP 8.11.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 8.12.: Ausnahmezulassung gem. § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 8.13.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.14.: Mehrjahresinvestitionsprogramm 2024 – 2028 Maßnahmen im Bereich des Kommunalreferates Programmentwurf Konsolidierungsvorschläge zur Ausgabenreduzierung der Jahre 2028 ff. Änderung des Mehrjahresinvestitionsprogramms 2024 - 2028 Umsetzung des Eckdatenbeschlusses 2025 (KOMZ-008)
+- TOP 8.15.: Einstellung Vorkaufsrecht -nicht öffentlich-
+- TOP 6.5.: Wintergrillen auf dem Simmerleinplatz am 21.02.2025
+- TOP 6.6.: Pflanzentauschbörse auf dem Simmerleinplatz am 10.05.2025
