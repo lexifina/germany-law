@@ -1,0 +1,164 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2025-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8396697
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8396697
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 10.12.2024
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Arabellastr. 34: Neubau für Büro- / Gewerbenutzung mit Teil-Erhalt der Bestandsstrukturen für Wohnen und Tiefgarage - VORBESCHEID (Arabellastr. 34 / Denninger Str. 35 + 37)
+- TOP 2.2.1.2.: Gumppenbergstr. 5: Neubau zweier Mehrfamilienhäuser (43 WE) mit Tiefgarage
+- TOP 2.2.1.3.: Holbeinstr. 36: Umbau und Erweiterung der DG-Wohnung ( DG links), Umbau der Kammern und der Speicherabteile zu einer Wohnung (DG rechts) - ÄNDERUNGSANTRAG zu 1.2-2021-18134-31 hier: Vorbau von 3 Balkonen auf der Hofseite sowie Änderung des 2. Rettungswegs im Dachbereich und Änderung der Lage der Notleiteranlage
+- TOP 2.2.1.4.: Hohensalzaer Str. 5: Neubau zweier Einfamilienhäuser mit Garagen
+- TOP 2.2.1.5.: Johanneskirchner Str. 7 - Errichtung eines Einfamilienhauses mit Carport - VORBESCHEID
+- TOP 2.2.1.6.: Regionaler Planungsverband München (RPV): Ausweisung von Vorranggebieten für Windenergie - Vorabeinbindung der Bezirksausschüsse; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.7.: Vollzug des § 4 Abs. 2 BauGB i. V. m. § 3 Abs. 2 BauGB: Bebauungsplanes Nr. 92/21, Wohnen und nicht störendes Gewerbe im „Neuen Mitterfeld“ der Gemeinde Unterföhring; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.9.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Holbeinstr. 36: Umbau und Erweiterung der DG-Wohnung ( DG links), Umbau der Kammern und der Speicherabteile zu einer Wohnung (DG rechts) - ÄNDERUNGSANTRAG zu 1.2-2021-18134-31 hier: Vorbau von 3 Balkonen auf der Hofseite sowie Änderung des 2. Rettungswegs im Dachbereich und Änderung der Lage der Notleiteranlage
+- TOP 2.2.2.2.: Arabellastr. 34: Neubau für Büro- / Gewerbenutzung mit Teil-Erhalt der Bestandsstrukturen für Wohnen und Tiefgarage - VORBESCHEID (Arabellastr. 34 / Denninger Str. 35 + 37)
+- TOP 2.2.2.3.: Gumppenbergstr. 5: Neubau zweier Mehrfamilienhäuser (43 WE) mit Tiefgarage
+- TOP 2.2.2.4.: Hohensalzaer Str. 5: Neubau zweier Einfamilienhäuser mit Garagen
+- TOP 2.2.2.5.: Johanneskirchner Str. 7 - Errichtung eines Einfamilienhauses mit Carport - VORBESCHEID
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) Verkürzung der Reaktionszeit der Fußgängerampel an der Straßenbahnhaltestelle Bundesfinanzhof
+- TOP 2.3.2.: (E) Befestigung/Asphaltierung Fußweg-Teilstrecke durch den Odinpark
+- TOP 2.3.3.: (E) Prüfung der aufgestellten Verkehrsschilder in der Freischützstraße
+- TOP 2.3.4.: (E) Antrag auf Verschattung an der Kreuzung Möhl-/Höchlstraße
+- TOP 2.3.5.: ExpressBus X30 auch an Sonn- und Feiertagen zum Arabellapark; Antrag der CSU-Fraktion
+- TOP 2.3.6.: Bülowstraße: Einrichtung einer Schulbushaltestelle (Grundschule Gebelestraße); Anhörung des Mobilitätsreferats
+- TOP 2.3.7.: Schulwegsicherheit: Verkehrsregulierung in der Meistersingerstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.8.: Anregungen zur Verbesserung der Barrierefreiheit am S-Bahnhof Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: Überfüllung der Buslinien 149 und 190/191; Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.11.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.3.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: (E) Entfernung der Wertstoffinsel in der Johanneskirchner Straße 21 wegen Müll und Rattenplage Empfehlung Nr. 20-26 / E 02332 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 24.10.202
+- TOP 2.6.1.2.: Ruth-Drexel-Str.: Einrichtung einer Wertstoffinsel (zwei Varianten); Anhörung des AWM
+- TOP 2.6.1.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.5.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Oberföhringer Str. 112 - 114a
+- TOP 2.6.2.2.: Traberstr. 8
+- TOP 2.6.2.3.: Kolbergerstr. 11 - 14
+- TOP 2.6.2.4.: Freischützstr. 4
+- TOP 2.6.2.5.: Oberschlesische Str. 26
+- TOP 2.6.2.6.: Dalandstr. 6
+- TOP 2.6.2.7.: Oberföhringer Str
+- TOP 2.6.2.8.: Normannenpl. 17
+- TOP 2.6.2.9.: Pfistermeisterstr. 1
+- TOP 2.6.2.10.: Pfistermeisterstr. 2 - 12
+- TOP 2.6.2.11.: Steinhauser Str. 21 - 25
+- TOP 2.6.2.12.: Gotthelfstr. 101
+- TOP 2.6.2.13.: Oberföhringer Str. 98
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025; Anhörung des Sozialreferats
+- TOP 2.7.2.: Postfiliale Meistersingerstraße 77 in Bogenhausen erhalten; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.3.: Anschaffung von weiteren 20 Ferienpässen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.5.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 3.2.1.: Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen - Antrag des BA 15
+- TOP 3.2.2.: Ehrenamt muss abgesichert sein; Anfrage des BA 9
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Prüfauftrag zum Projekt "Urbaner Waldgarten"
+- TOP 6.2.: Ausbesserung der Radwegfurten auf der Nordwestseite der Bülowstraße
+- TOP 6.3.: Vermietung der Sporthalle der Ruth-Drexel-Schule
+- TOP 6.4.: Aktueller Stand bei der Umrüstung des HKW Nord
+- TOP 6.5.: Standortvorschläge für die Installation von zusätzlichen Trinkwasserbrunnen in Bogenhausen
+- TOP 6.6.: Sportbauprogramm, Vernichtung von Sportgaststätten, hier: Taverna „Pyrsos“ und Sportgaststätte Bezirkssportanlage Johanneskirchner Straße (Rot-Weiß Oberföhring), Sitzungsvorlage 20-26 / V 11285
+- TOP 6.7.: Erhalt der Gastronomie in der Bezirkssportanlage an der Westpreußenstraße 60
+- TOP 6.8.: Modernisierung der Bezirkssportanlage an der Westpreußenstraße 60: Gaststätte erhalten!
+- TOP 6.9.: Umdenken bei der Planung der Bezirkssportanlage
+- TOP 6.10.: Umbau der Bezirkssportanlage Westpreußenstraße
+- TOP 6.11.: Zweite Tischtennisplatte im Rienzipark
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingereichte Verwendungsnachweise
+- TOP 7.1.2.: Haushaltsbeschluss 2025 - Stadtbezirksbudgets für 2025
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Bevorstehende Entfernung von Gefahrenbäume
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 7.3.2.: Denninger Str. 4: Einrichtung einer Ladezone
+- TOP 7.3.3.: Widderstr. 14: Absolutes Haltverbot mit Zusatz „Feuerwehranfahrt“
+- TOP 7.3.4.: Dauerparker in der Thomas-Mann-Allee; Anliegen aus der Bürgerschaft - Rückmeldung der PI -
+- TOP 7.3.5.: Querung von Schulkindern vor der Grundschule Knappertsbuschstraße - Rückmeldung des Mobilitätsreferats -
+- TOP 7.3.6.: Optimierung der Verkehrssicherheit, insbesondere Einfahrt von der Oderstr., Havelstr., Klosestr. in die nördliche Weltenburgerstr.; Anliegen aus der Bürgerschaft - Rückmeldung des Mobilitätsreferats -
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Mehrjahresinvestitionsprogramm 2024 – 2028 Maßnahmen im Bereich des Kommunalreferates Programmentwurf Konsolidierungsvorschläge zur Ausgabenreduzierung der Jahre 2028 ff. Änderung des Mehrjahresinvestitionsprogramms 2024 - 2028 Umsetzung des Eckdatenbeschlusses 2025 (KOMZ-008)
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unveränderte Fortführung eines Gaststättenbetriebs: - Fritz-Meyer-Weg 55
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Neckarstr. 14
+- TOP 7.7.2.: (U) Erstattung von Heizkosten bei fehlendem Wärmemengenzähler für Warmwasser Antrag und Empfehlungen
+- TOP 7.7.3.: Pixistr. 11
+- TOP 7.7.4.: Bau eines Hochhauses am Isarring 11 ablehnen Empfehlung Nr. 20-26 / E 02152 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 08.07.2024
+- TOP 7.7.5.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 7.7.6.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 7.7.7.: Feldkirchener Str. 14 - Rückmeldung des Referats für Stadtplanung und Bauordnung
+- TOP 7.7.8.: Donaustr. 6
+- TOP 7.7.9.: Marienburger Str. 84
+- TOP 7.7.10.: Savitsstr. 25a
+- TOP 7.7.11.: SEM Geländemodell; Anliegen aus der Bürgerschaft - Rückmeldung des Referats für Stadtplanung und Bauordnung -
+- TOP 7.7.12.: St 2088 zweibahniger Ausbau des Föhringer Rings, Planänderungsbeschluss, 3. Planänderung vom 15.04.2024
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2024 - 2028 Einzelbereich 4 / Jugendamtsbereich Ergänzende Konsolidierungsvorschläge der Jahre 2025 – 2027 Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff.
+- TOP 7.9.2.: (U) Verlängerung von Unterkünften zur Unterbringung Geflüchteter an den Standorten • Hansastraße 55 • Gerty-Spieß-Straße. 9+11 • Maria-Goeppert-Mayer-Straße. 21 • Kronstadter Straße. 36 • Hachinger-Bach-Straße. 19 7. Stadtbezirk – Sendling - Westpark 12. Stadtbezirk - Schwabing - Freimann 13. Stadtbezirk - Bogenhausen 14. Stadtbezirk – Berg am Laim
+- TOP 7.9.3.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 7.9.4.: Vollzug der Zweckentfremdungssatzung: - Saalestr. 13
+- TOP 7.9.5.: Schreiben des Behindertenbeirats zum Thema "Gehwegparken"
+- TOP 7.9.6.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 7.9.7.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 7.9.8.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Ausnahmezulassungen gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 7.15.2.: Lärmaktionsplan 2024 – Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse
+- TOP 7.15.3.: Suchkreismitteilung zu Mobilfunkanlagen
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.1.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e. V. Bildungs- und Begegnungsveranstaltungen vom 10.02. - 10.12.2025 7.931,25 €; Az. 0262.0-13-0483
+- TOP 2.3.6.1: Bülowstraße: Einrichtung einer Schulbushaltestelle (Grundschule Gebelestraße); Antrag der CSU-Fraktion
+- TOP 2.6.1.1.1: Entfernung der Wertstoffinsel in der Johanneskirchner Straße 21 wegen Müll und Rattenplage; Antrag der CSU-Fraktion
+- TOP 2.6.1.3.: Errichtung eines Fitnessparcours im Odinpark - Projektplanung; Beschluss des BA 13
+- TOP 2.3.5.1: X30-Angebot für Bogenhausen umfassend ergänzen; Antrag der SPD-Fraktion, FDP-Fraktion und Fraktion Bündnis90/DIE GRÜNEN
