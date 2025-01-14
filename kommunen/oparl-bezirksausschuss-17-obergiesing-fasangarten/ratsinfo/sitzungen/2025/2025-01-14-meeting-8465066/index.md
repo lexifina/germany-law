@@ -1,0 +1,145 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2025-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8465066
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8465066
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Tempo 30-Zonen
+- TOP 2.1.2.2.: Bürgeranliegen; Schandfleck Tegernseer Platz
+- TOP 2.1.2.3.: Bürgeranliegen; Antrag für einen Zebrastreifen im Bereich der Kreuzung Minnewit /Cincinnatistr.
+- TOP 2.1.2.4.: Bürgeranliegen; Anbringung eines Briefkastens auf dem Platz Zugspitzstraße/Ecke Alpenstraße/Ecke St.-Martin-Straße
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Bad-Berneck-Str. 4
+- TOP 3.10.2.: Rotwandstr. 4
+- TOP 3.10.3.: Winlandstr. 14
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget kairosis gUG Wiederaufnahme 2025 "Bar jeden Mitgefühls" vom 15.03. -30.04.2025 5.000,00€; Az. 0262.0-17-0474
+- TOP 5.1.2.: (E) Stadtbezirksbudget kairosis gUG Später Besuch Giesinger Sonntagsmatinee vom 01.04. -15.05.2025 600,00€; Az. 0262.0-17-0475
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Haushaltsbeschluss 2025; Stadtbezirksbudgets für 2025
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Perlacher Str. 17 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID (2 Var.)
+- TOP 6.1.3.2.: Tegernseer Landstr. 80 - Nutzungsänderung eines Ladens zu einer Gaststätte mit Errichtung einer Freischankfläche, sowie Ausbau des Dachgeschosses zu einer Wohnung
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Regelmäßige Information zu den Fortschritten bei der Zwischenvermietung in der "Ami-Siedlung"
+- TOP 6.1.4.2.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung "Tegernseer Landstr." hier: Deisenhofener Str. 41
+- TOP 6.1.4.4.: Schaffung von Fahrradabstellplätzen in Wohnanlagen Antwort auf unsere Schreiben vom 18.09.2024 zum BA - Antrag Nr. 20-26 / B 06879 vom 09.07.2024
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung "Trauchbergstr.- Forggenseestr." hier: Perlacher Str.
+- TOP 6.1.4.6.: Vollzug der Erhaltungssatzung "Trauchbergstr.- Forggenseestr." hier: Weißenseestraße
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.2.1.: (E) Wiederherstellung der Spielfläche des Sandfußballplatzes am Katzenbuckel (Weißenseepark)
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 6.2.4.2.: Drogenprobleme in Obergiesing - Fasangarten
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Mögliche Aufstellung von Dialog Displays (Vertagung von der Dez.- Sitzung)
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Änderung der Vorfahrtsregelung an der Kreuzung St.-Martin-Straße und Herzogstandstraße
+- TOP 6.3.2.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO im Zusammenhang BV - Empfehlung Nr. 20-26 / E 02243 hier: St. Martin- Str. /Herzogstandstr Zugspitzstr. / Alpenstr. Zugspitzstr. / Watzmannstr.
+- TOP 6.3.2.3.: (E) Verbesserung der Straßenbeleuchtung auf öffentlichen Straßen des Stadtbezirks 17
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 6.3.4.2.: Präsentation vom Treffen der BAs zu den Themen; LED Umwandlung - Adaptive Beleuchtung - Nachtspaziergänge - Dialog Displays
+- TOP 6.3.4.3.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 der Straßenverkehrsordnung (StVO) hier: Arbeiten im Straßenraum - Terminverlängerung - Vollsperre Kreuzung Weinbauernstr. / Tegernseer Landstr. Winterphase - Halbseitige Sperrung Kreuzung Kesselbergstr / Tegernseer Landstr. - Arbeiten im Straßenraum Weinbauernstr. / Kesselbergstr. /Zehentbauernstr.
+- TOP 6.3.4.4.: Verkehrsrechtliche Anordnung nach § 45 StVO hier: Lizenzgebiet Walchenseeplatz (Neu)
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Klimafreundliche Gestaltung des Auguste-Kent- Platzes
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Unterstützung BA 15 Trudering - Riem Realisierung von Mobilfunksendeanlagen in öffentlichen Grünanlagen
+- TOP 6.4.3.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für Windenergie; Vorabinformation der Bezirksausschüsse (Frist bis 27.01.2025)
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Meldung von Baumfällungen und/ oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der Bezirksausschusssatzung im Stadtbezirks 17 Obergiesing - Fasangarten
+- TOP 6.4.4.2.: Lärmaktionsplan für München - Runde 4 Beteiligung der Bezirksausschüsse Behandlung der Stellungnahmen der Bezirksausschüsse
+- TOP 6.4.4.3.: Vollzug des Bundes-Immissionsschutzgesetztes (BImSchG) und der Geräte-und Maschinenlärmschutzverordnung (32. BImSchV) Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV, hier: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.2.1.: (E) Einrichtung einer Beleuchtung am Beton Fußballplatz im Weißenseepark
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: (E) Einrichtung eines Christkindlmarkts im Stadtbezirk 17
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Unterstützung des BA 9 Antrag Nr. 20-26 / B 7239 Ehrenamt muss abgesichert sein
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachtrag zur TOP 5.4.2 Stadtbezirksbudget weiteres Vorgehen; Mehr Mittel bewilligt als dem BA 17 für das Haushaltsjahr 2024 zur Verfügung steht.
+- TOP 1.2.2.: Nachtrag TOP 6.4.5.1 Antrag; Anbringung eines Verkehrsspiegel
+- TOP 1.2.3.: Nachtrag TOP 6.6.5.1 Antrag; Postfiliale am Tegernseer Platz
+- TOP 6.4.4.4.: Antrag; Anbringung eines Verkehrsspiegel
+- TOP 6.6.5.1.: Antrag; Postfiliale am Tegernseer Platz
