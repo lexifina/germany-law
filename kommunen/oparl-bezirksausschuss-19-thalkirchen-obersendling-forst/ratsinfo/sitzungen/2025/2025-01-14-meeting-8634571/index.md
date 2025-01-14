@@ -1,0 +1,81 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-01-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634571
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634571
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 03.12.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Ensemble La Vie e.V. Hier verweile ich gern - mein Lieblingsort in Thalkirchen vom 15.01. -30.04.2025 3.600,00€; Az. 0262.0-19-0552
+- TOP 3.3.: (E) Stadtbezirksbudget amanda -für Mädchen und junge Frauen - Verein für psychosoziale Initiativen e.V. Ausbau Ausstattung digit. Arbeitsplätze, Server, Stühle, Fachbibliothek 2.694,88€; Az. 0262.0-19-0553
+- TOP 3.4.: (E) Stadtbezirksbudget Jugendzentrum Treibhaus Förderung Sozialer Teilhabe - durch erlebnisorientierte Ausflüge vom 15.01.2025 -31.12.2025 2.607,27€; Az. 0262.0-19-0559
+- TOP 3.5.: (E) Stadtbezirksbudget Trägerverein Bürgersaal Fürstenried Kindertheater im Bürgersaal vom 01.02. -01.07.2025 7.300,00€; Az. 0262.0-19-0556
+- TOP 3.6.: (E) Stadtbezirksbudget TSV Forstenried e.V. Tore für die Handballer des TSV Forstenried ab 15.01.2025 1.613,97€; Az. 0262.0-19-0560
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Das Antwortschreiben des Referats für Klima und Umwelt zur Stellungnahme des Bezirkausschuss 19 zum Lärmaktionsplan 2024
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Ausweisung von Vorranggebieten für Windenergie
+- TOP 4.4.: (E) Verbot von Laubbläsern mit Verbrennungsmotor
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Tempolimit auf der A95
+- TOP 5.2.: (E) Parkraummangel an der Forsten-Kasten-Allee entlang des Waldfriedhofs
+- TOP 5.3.: (E) Verkehrssicherheit im Bereich des Rewe-Marktes in der Züricher Str. 92
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hunkelestraße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot östlich Irminsulstraße auf der Fritz-Baer-Straße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot nördlich Melchiorstraße auf der Wilhelm-Leibl-Straße
+- TOP 5.7.: (U) Verkehrstechnische Untersuchung Solln
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Erleichterte streckenbezogene Anordnung von 30 km/h in der Aidenbachstraße
+- TOP 5.9.: (E) Einhaltung von Tempo 30 in Solln
+- TOP 5.10.: (A) Umgestaltung der Bahntrasse Heizkraftwerk Obersendling
+- TOP 5.11.: (A) Austausch von fünf Lichtsignalanlagen an der Boschetsrieder Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Grünbauerstraße 29
+- TOP 6.2.2: Ziehrerstraße 3 (VB)
+- TOP 6.2.3: Heinleinstraße 45
+- TOP 6.2.4: Geisenhausenerstraße 7
+- TOP 6.2.5: Pfeilweg 2
+- TOP 6.2.6: Wolfratshauser Straße 68 / Schaidlerstraße 1
+- TOP 6.2.7: Rupert-Mayer-Straße 46
+- TOP 6.2.8: Hofbrunnstraße 465/4 (T)
+- TOP 6.2.9: Stridbeckstraße 12
+- TOP 6.2.10: -abgesetzt-
+- TOP 6.2.11: Oberbrunner Straße 3 (VB)
+- TOP 6.2.12: Wolfratshauser Straße 270 (VB)
+- TOP 6.3.: (E) + (U) Antrag auf Ensembleschutz und Ensembleerweiterung für die Herterichstraße in München Solln
+- TOP 6.4.: (A) Bebauungsplan Nr.43 „Mäuseburg“ Gemeinde Pullach
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Leerstand im Forum Fürstenried Ost beseitigen
+- TOP 7.2.: (E) Ersatz-Skatepark nach Schließung der Skateanlage im Sugar-Mountain-Gelände z.B. im Hermann-von-Siemens- Sportpark
+- TOP 7.3.: (A) Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 7.4.: (E) Erneuerung der Spielplätze Pippinplatz und Waldspielplatz Forstenrieder Park
+- TOP 7.5.: (E) Geeignete neue Räumlichkeiten für das Familienzentrum in der Kemptener Str. 73
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: 38. Forstenrieder Volkslauf am 29.03.2025
+- TOP 8.3.: (U) Gaststättenfortführung: Königswieser Straße
+- TOP 8.4.: (U) Gaststättenfortführung: Wolfratshauser Straße
+- TOP 9: Verschiedenes
+- TOP 8.5.: (A) Veranstaltung: Fahrradsicherheitscheck Thalkirchner Platz am 16.04.2025 und Schweizer Platz am 03.04.2025
+- TOP 0.1.: null
