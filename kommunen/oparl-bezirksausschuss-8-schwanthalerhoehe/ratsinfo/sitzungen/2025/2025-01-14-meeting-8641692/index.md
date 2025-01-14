@@ -1,0 +1,94 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8641692
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8641692
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Möglichkeit zur Vorstellung des Sport- und Veranstaltungskonzepts "Padel Beach"
+- TOP 4.2.: Tempo-30 in der Westendstraße zwischen Bergmann- und Trappentreustraße
+- TOP 4.3.: Umgestaltung von Grünflächen zu blühenden, artenreichen Biodiversitätsflächen
+- TOP 4.4.: Ehrenamtliche Unterstützung des Ankunftszentrums Garmischer Str. 2-12 / Mietpreise freier Wohnungsmarkt
+- TOP 4.5.: Beachtung des Zebrastreifens über die Ganghoferstraße Ecke Anglerstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Appell für Solidarität und Menschlichkeit – Gegen die Räumung der Unterführung der Theresienwiese - Fristverlängerung
+- TOP 7.2.2.: Kinderrechte stärken - Partizipation auf Augenhöhe leben - Fristverlängerung
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Aufstellung Jugendcontainer Linus-Pauling-Straße
+- TOP 7.3.2.: Informationsveranstaltung zur elektronischen Patientenakte am 20.02.2025, 17:00 - 19:00 Uhr
+- TOP 7.3.3.: Save the Date: Münchner Bildungskongress am 22. Mai 2025
+- TOP 7.3.4.: Bestellung von 2 Zweisitzer-Liegebänken für den Bavariapark Ostteil; Bestätigung Baureferat-Gartenbau
+- TOP 7.3.5.: Stadtratshearing haus- und kinderärztliche Versorgung am 19.03.2025
+- TOP 7.3.6.: Beleuchtung des Bolz- und Basketballplatzes der IG-Feuerwache in der Ganghoferstraße 41
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Führung des Kulturreferates zum Denkmal des Oktoberfest-Attentats vom 26.09.1980
+- TOP 8.3.2.: Versammlung Landsberger Straße 36 am 17.12.2024
+- TOP 8.3.3.: Open Air Party „Pineapple Express“ auf dem Platz am Bavariapark am 24.08.2024 - Antwort des KVR
+- TOP 8.3.4.: Versammlung Am Bavariapark 5 am 30.12.2024
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumpflanzungsprojekt in der Fäustlestraße; Beeinträchtigung des derzeitigen Lieferbereichs durch einen Baumstandort
+- TOP 9.2.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für Windenergie - Vorabeinbindung der Bezirksausschüsse
+- TOP 9.2.3.: Parkverbot in zweiter Reihe vor den Wertstoffcontainern Höhe Westendstraße 157
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Baumfällungen auf öffentlichem Grund
+- TOP 9.3.2.: Aufhebung temporärer personenbezogener Sonderparkplätze für Behinderte in der Karl-Spengler-Straße 7
+- TOP 9.3.3.: Lärmaktionsplan für München
+- TOP 9.3.4.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.5.: Stellungnahme des Behindertenbeirates zur verstärkten Ahndung des Gehwegparkens
+- TOP 9.3.6.: Unterbringung der Wertstofftonnen auf den Grundstücken
+- TOP 9.3.7.: (U) Generalinstandsetzung Hackerbrücke mit Vorlandbrücke (BW 40/6 A und B) im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 3. Stadtbezirk Maxvorstadt und im 8. Stadtbezirk Schwanthalerhöhe 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget West and Hell e.V. West and Hell Straßenfest am 26.07.2025 2.265,00€; Az. 0262.0-8-0425
+- TOP 10.1.2.: (E) Stadtbezirksbudget United Cultures Initiative e.V. Sidewalk Cultures Festival vom 25. -27.07.2025 5.500,00€; Az. 0262.0-8-0424
+- TOP 10.1.3.: (E) Stadtbezirksbudget Helferkreis für Geflüchtetenunterkünfte in den Stadtbezirken 7, 8 und 25 Jahresprogramm 2025 des Helferkreises, 15.01. - 31.12.2025 2.500,00 €; Az. 0262.0-8-0426
+- TOP 10.1.4.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V. Rad-Reparaturstation vom 01.12.2024 -31.10.2025 975,00€; Az. 0262.0-8-0421
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Informationsschreiben zum Haushaltsbeschluss; Kürzung der Stadtbezirksbudgets für 2025
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Bessere Betreuung von Gewaltopfern sicherstellen
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.3.5.: Mahn-Denkmal am Sinti-Roma-Platz Beschlussvorlage Nr. 20-26 / V 14158
+- TOP 8.3.6.: Versammlung Heimeranstraße 31 am 10.01.2025
+- TOP 9.3.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Bergmannstr. 24
+- TOP 12.2.1.: BA4; Kennzeichnung von Brücken mit den Brückennamen
+- TOP 12.3.1.: Oberbürgermeister; Kampagne "Wählen gehen für Demokratie und Menschenrechte!"
+- TOP 7.2.1.1: Appell für Solidarität und Menschlichkeit – Gegen die Räumung der Unterführung der Theresienwiese - Fristverlängerung
+- TOP 7.2.2.1: Kinderrechte stärken - Partizipation auf Augenhöhe leben - Fristverlängerung
+- TOP 2.1.: Baustopp in der Ligsalzstraße 25 – Wie weiter mit dem „Schwanthaler Loch“?
