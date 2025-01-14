@@ -1,0 +1,166 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8737633
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8737633
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Abriss Strafjustizzentrum
+- TOP 6.2.: Nachfragen zur Maillingerstraße
+- TOP 6.3.: Baustelle Ecke Theresienstraße / Amalienstraße
+- TOP 6.4.: Lärm durch Gebläse
+- TOP 6.5.: Verkehr in der Linprunstraße zwischen Sand- und Erzgießereistraße
+- TOP 6.6.: Mülltonnen auf der Straße
+- TOP 6.7.: Nachfrage Leerstand Mehrfamilienhaus Gabelsbergerstr. 39
+- TOP 6.8.: Mietenmonitor nutzen, proaktiv Mietwucher einbremsen
+- TOP 6.9.: Schaffung einer Kaltluftfläche am Marsplatz durch erweiterten Baumbestand
+- TOP 6.10.: Eröffnung und Einweisung in die neuen Sportmöglichkeiten im Maßmannpark
+- TOP 6.11.: Planung Ausbau Finanzamt
+- TOP 6.12.: Mehr Bäume für die Maxvorstadt auf Flächen des Freistaates Bayern I
+- TOP 6.13.: Mehr Bäume für die Maxvorstadt auf Flächen des Freistaates Bayern-II
+- TOP 6.14.: Antrag UA SB: Hallenzeiten des TSC Maxvorstadt
+- TOP 6.15.: Schaffung weiterer Flächen für Baumpflanzungen an der Marsstraße
+- TOP 6.16.: Leerstand Haus Veterinärstr. 8
+- TOP 6.17.: Einnahme des öffentlichen Raums durch die Baustellensituation Türkenstraße 50 bis 54
+- TOP 6.18.: Diakoniewerk insolvent, wie werden die Gebäude und Grundstücke künftig genutzt Anfrage Nr. 20-26 / Q 00552
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nachfrage Leerstand Mehrfamilienhaus Steinheilstr. 1
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten LBK KW47, KW48, KW49
+- TOP 2.1.2.: WEB-Listen der LBK 16.-30.11.2024
+- TOP 2.1.3.: Neubau eines Mansarddaches mit 3 Gauben und einer Dachterrasse - GENEHMIGUNGSVERLÄNGERUNG Arcisstr. 38
+- TOP 2.1.4.: Trinkwasserbrunnen Stadtteilzentrum 338 - Standort Josephsplatz
+- TOP 2.1.5.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für Windenergie; Vorabeinbindung der Bezirksausschüsse
+- TOP 2.1.6.: Kreittmayrstr. 30, Neuaufbau des Dachstuhles, Ausbau des Dachgeschosses mit 2 WE (20 WE Bestand), Energetische Sanierung sowie Anbau von Balkonen – ÄNDERUNGSANTRAG zu 1.2-2024-7569-22 hier: Ausbau von 3 WE im DG, Entfall Dachterrasse, Anbau eines Balkons im 5.OG, Erhöhung Pultdach, Änderung Gauben
+- TOP 2.1.7.: Kreittmayerstr. 30, Abbruch Garage und Neubau Hofhaus mit Wohn- und Büronutzung
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Baumfällung Türkenstraße 11
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.4: Budgetanträge
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Vorgezogene Mülleinsammlung durch den AWM; Verlängerung bestehender Ausnahmezulassungen gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) bis 31.12.2025
+- TOP 5.2.: Allgemeinverfügung Knallerverbotszone 2024/2025
+- TOP 5.3.: Feuerwerksanzeige am 01.01.2025 in 80333 München, Sophienstr. 28, Dach des Charles Hotels
+- TOP 5.4.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 5.5.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Firma MTC
+- TOP 5.6.: Lärmaktionsplan 2024 – Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse
+- TOP 5.7.: entfällt
+- TOP 5.8.: entfällt
+- TOP 5.9.: Sektoraler Bebauungsplan für das Karree Schellingstraße, Amalienstraße, Adalbertstraße, Türkenstraße
+- TOP 5.10.: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 5.11.: Sektoraler Bebauungsplan Nr. 2199 Arcisstraße (westlich), Heßstraße (nördlich), Luisenstraße (östlich), Schellingstraße (südlich) - Aufstellungsbeschluss – Dringlichkeitsantrag: Schließung des Diakoniewerkes Stadtbezirk 03 – Maxvorstadt
+- TOP 5.12.: Perspektive München - Handlungsräume der Stadtentwicklung Sachstand und Weiterentwicklung
+- TOP 5.13.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 5.14.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Gestaltung von Straßen, öffentlicher Raum
+- TOP 1.1.2.: Unfallschwerpunkt Barerstr. / Ecke Blütenstr.
+- TOP 1.1.3.: entfällt
+- TOP 1.1.4.: Parkplatzkiller und Schanigärten
+- TOP 1.1.5.: Lärmbelästigung Eisstockschiessen Max Emanuel Brauerei Adalbertstr.
+- TOP 1.1.6.: Fußgänger- Übergang Leopoldstraße an der Georgenstraße- Schulkinder
+- TOP 1.1.7.: Grundstückszufahrt zum Anwesen Heßstr. 30
+- TOP 1.2: Anträge
+- TOP 1.2.1.: WC-Anlage im U-Bahnhof Josephsplatz – eine unendliche Geschichte?
+- TOP 1.2.2.: Anfrage zur barrierefreien Lade-Infrastruktur in der Maxvorstadt
+- TOP 1.2.3.: „Teenie – Strich“ im Alten Botanischen Garten und Umfeld
+- TOP 1.2.4.: „Trixi-Spiegel“ an der Kreuzung Adalbert-/Arcisstraße – Unendliche Geschichte Teil 1
+- TOP 1.2.5.: U-Bahn-Toilette Josephsplatz – freier Zugang für Kinder
+- TOP 1.2.6.: U-Bahn-Toilette Josephsplatz – genannter Termin auf der Bürgerversammlung verstrichen. Unendliche Geschichte Teil 2
+- TOP 1.2.7.: Fertigstellung des Umbaus Maßmannpark? Wird es zur unendlichen Geschichte Teil 3?
+- TOP 1.2.8.: Forderungen des Spielhaus Sophienstraße zu den Maßnahmen im Alten Botanischen Garten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anhörung zu verkehrsrechtlicher Anordnung
+- TOP 2.1.2.: Anfrage Motorradstellplätze
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schellingstr. 18, Antrag auf Erteilung einer Freischankfläche
+- TOP 2.3.2.: Augustenstr. 16, Neuantrag Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.4.: Unveränderte Gaststättenfortführungen
+- TOP 3.5.: Antwort der Stadtverwaltung auf Bürger*innenanliegen - Parkende Wohnmobile TOP C 1.1.3/ 12 2024
+- TOP 3.6.: Baumaßnahmen der Stadtwerke
+- TOP 3.7.: (U) Neubau Hauptbahnhof - Finanzierungsbedarf für den Bau der beiden Anlagen Fahrradgarage im Neubau Empfangsgebäude, Fahrradgarage im U1/U2-Bauwerk
+- TOP 3.8.: (U) Generalinstandsetzung Hackerbrücke mit Vorlandbrücke (BW 40/6 A und B) im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 3. Stadtbezirk Maxvorstadt und im 8. Stadtbezirk Schwanthalerhöhe 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Türkenstraße Tanzprojekt für die 2. Klassen vom 13.01. - 30.04.2025 1.808,00 Euro, Az.: 0262.0-3-0566
+- TOP 2.2.: Ausschreibung REGSAM-Schwerpunktarbeit 2025
+- TOP 2.4.: Antrag des BA 9 Neuhausen-Nymphenburg (BA-Antrags-Nr. 20-26 / B 07293) mit der Bitte um Unterstützung durch die anderen Bezirksausschüsse
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.3.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 4.4.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.5.: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.6.: (U) Verlängerung bestehender Unterkünfte für Geflüchtete an den Standorten • Seidlstraße 2 • Stahlgruberring 28 • Rambergstraße 6 3. Stadtbezirk - Maxvorstadt 15. Stadtbezirk - Trudering-Riem
+- TOP 4.7.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 4.8.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 4.9.: Mehrjahresinvestitionsprogramm (MIP) 2024 - 2028 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff 2. Stellungnahmen der Bezirksausschüsse
+- TOP 4.10.: Schreiben Luisengymnasium
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Aufwertung der U-Bahn-Galerie im Sperrengeschoss der Haltestelle Universität
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget CultureClouds e.V. Rampenlichter DemokrARTie vom 20.01. - 31.12.2025 3.375,00 Euro, Az.: 0262.0.3.0568
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Ausstellung botanischer Garten" Ausstellung "+/_schauen" vom 27.01. - 16.02.2025 1.250,00 Euro, Az.: 0262.0-3-0564
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Beschlussentwurf: Open Library in der Maxvorstadt
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Entwurf des Mehrjahresinvestitionsprogramms 2024-2028
+- TOP 1.2.: Beschriftung des Bürgerbüros
+- TOP 1.3.: Aufräumaktion Bürgerbüro (vertagt aus 12/24)
+- TOP 1.4.: Haushaltsbeschluss 2025; Stadtbezirksbudgets für 2025
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.2.2.: Eilantrag der CSU vom 08.01.2025 Prüfung Denkmalschutz Augustenstraße
+- TOP 3.2.2.: Amalienstraße 87, Fällungsantrag
+- TOP 2.2.1.: Lothstraße, Zeichen 283 StVO, Stadtbezirk 3
+- TOP 2.3.: Ausschreibung REGSAM-Schwerpunktarbeit 2025
+- TOP 2.5.: Antrag des BA 9 Neuhausen-Nymphenburg (BA-Antrags-Nr. 20-26 / B 07293) mit der Bitte um Unterstützung durch die anderen Bezirksausschüsse
