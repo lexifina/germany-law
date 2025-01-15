@@ -1,0 +1,75 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2025-01-15T17:00:00+01:00
+- Ende: 2025-01-15T21:15:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7745
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7745
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=460113
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - (offen)
+- TOP 4: je eine Priorität pro Fraktion - (offen)
+- TOP 4.1: Verstoß gegen das Parteiengesetz wegen Nutzung öffentlichen Eigentums durch die CDU? - beantwortet
+- TOP 4.2: Wer zahlt für das Defizit des Kita-Eigenbetriebes Süd-West ? - beantwortet
+- TOP 4.3: Wohnraum statt Leerstand - beantwortet
+- TOP 4.4: Notfallwasserversorgung zugänglich machen! - mit Änderungen in der BVV beschlossen
+- TOP 4.5: Mietwucher verfolgen – Information der Öffentlichkeit verbessern / Personal bereitstellen - mit Änderungen in der BVV beschlossen
+- TOP 4.6: Dem öffentlichen Drogenkonsum in Tempelhof entgegentreten - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Silvesterböllerei - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Besetzung eines beratenden Mitglieds im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Besetzung eines beratenden Mitglieds als Stellvertretung im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Feststellung der vorzeitigen Beendigung des Amtes als stellv. Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Feststellung der vorzeitigen Beendigung des Amtes als stellv. Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bericht über den Abschluss der Machbarkeitsstudie zur Parkraumbewirtschaftung der Parkzone 97 "Schillerplatz" in Friedenau West, der Erweiterungen der Parkzone 27 "Rathaus Friedenau" und der Zone 28 "S-Bahnhof Friedenau" in Richtung Norden bis zur A100 sowie Vorlage zur Beschlussfassung an die BVV zur Einführung der neuen Zone 97 und Erweiterung der beiden Zonen 27 und 28. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Protokollgenehmigung - vertagt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Sicherstellung der Einsatzfähigkeit der Berliner Feuerwehr bei Radverkehrsanlagen - vertagt
+- TOP 9.2: Aufenthaltsqualität für Fußgänger am Richard-von-Weizsäcker-Platz verbessern - vertagt
+- TOP 9.3: Informationen über Angebote der Kältehilfe - im Ältestenrat zurückgezogen
+- TOP 9.4: Anwohnerinformationsveranstaltung zum Radfahrstreifen Grunewaldstraße in angemessener Form erneut durchführen - in der BVV abgelehnt
+- TOP 9.5: Tarifvorsorge im Land Berlin erhalten - im Ältestenrat zurückgezogen
+- TOP 9.6: Sportstätten sichern, Sport für alle ermöglichen – gegen den Kahlschlag des Sportstättensanierungsprogramms - überwiesen
+- TOP 9.7: Kein Stellplatzabbau in Parkraumbewirtschaftungsgebieten mit „negativer Stellplatzbilanz“ - vertagt
+- TOP 9.8: Genug ist genug – stadtweites Böllerverbot für Berlin jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Nachhaltig und sicher zur Schule: Mehr Fahrradbügel und Gehwegvorschub für die Sophie-Scholl-Schule! - überwiesen
+- TOP 9.10: Einsatz von künstlicher Intelligenz (KI) in der Verwaltung - in der BVV abgelehnt
+- TOP 9.11: Vermögensabschöpfung im Kampf gegen organisierte Kriminalität auch in Tempelhof-Schöneberg - überwiesen
+- TOP 9.12: Cannabis-Modellprojekt auch in Tempelhof-Schöneberg - überwiesen
+- TOP 9.13: Leerstehende Räume des Wenckebach-Klinikums als Unterkunft obdachloser Menschen - vertagt
+- TOP 9.14: Einstellung des Sportbox-Angebots am Grazer Platz - in der BVV abgelehnt
+- TOP 9.15: Flächenverbrauch und die dazugehörigen Optimierungskonzepte im Bezirk - vertagt
+- TOP 9.16: Service für Hochzeitspaare - überwiesen
+- TOP 9.17: Verzicht auf einen Strafantrag bei Fahren ohne gültigen Fahrschein - überwiesen
+- TOP 9.18: Priorität zur Einrichtung der Katastrophenschutz-Leuchttürme im Bezirk - überwiesen
+- TOP 9.19: 10. Todestag und 80 Jahre nach Ende des Zweiten Weltkriegs: Erinnerung an das Wirken des großen deutschen Staatsmanns Richard von Weizsäcker - überwiesen
+- TOP 9.20: Permanente Müllablagerungen verhindern, Reinigung ermöglichen - Baken an der Halker Zeile/Kettinger Straße entfernen - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Solaranlagen auf Schuldächer: Fällt der Klimaschutz in Tempelhof-Schöneberg hinten runter? - vertagt
+- TOP 10.2: Umsetzung Onlinezugangsgesetz (OZG) - schriftlich beantwortet
+- TOP 10.3: Zukunftssichere Schulplanung: Integration von Willkommensklassen und Kapazitätsbedarf transparent gestalten - vertagt
+- TOP 10.4: Wird der Glasfaserausbau in Tempelhof-Schöneberg verschleppt? - vertagt
+- TOP 10.5: Konsequenzen der OVG-Grundsatzurteile: Solaranlagen auf denkmalgeschützten Gebäu-den in Tempelhof-Schöneberg - vertagt
+- TOP 10.6: Knappen Wohnraum schützen – aber wie? - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: „Fußgängerzone – Radfahrende zu Gast“-Zeichen auch in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Zukunft des Tempelhofer Parkfriedhofs - vertagt
+- TOP 11.3: Fahrradbügel auf der Fahrbahn nur in Kreuzungsbereichen aufstellen - vertagt
+- TOP 11.4: Toilettenaufstellung Nähe des noch zu errichtenden Spielplatzes im Volkspark Mariendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Integrationsfonds sichern und wieder in die bezirklichen Haushalte bringen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: Schulbescheide in einfacher Sprache - überwiesen
+- TOP 12.2: Aufhebung der Prüfkriterien in Milieuschutzgebieten - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
