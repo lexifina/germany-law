@@ -1,0 +1,7 @@
+# TOP 2: Aufstellung des Bebauungsplanes "Solarpark Weltersburg/Guckheim". Beratung und Beschlussfassung über die während der Öffentlichkeitsbeteiligung (§3 Abs. 2 und §4 Abs. 2 Baugesetzbuch) eingegangenen Stellungnahmen, sowie Beratung und Beschlussfassung über den Satzungsbeschluss nach §10 Baugesetzbuch.
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Guckheim (2025-01-16)
+- Körperschaft: Ortsgemeinde Guckheim
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2025-9-144%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 2 https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-9-144%7Czt_0%7C1
