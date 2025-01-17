@@ -36,3 +36,7 @@ Amtsgericht Bremen- Blumenthal | Alle Verfahren in Nachlasssachen der Abteilung 
 Amtsgericht Bremen | Alle Verfahren in Zwangsversteigerungs- und Zwangsverwaltungsverfahren der Abteilung 26 mit Ausnahme der Verfahren, die vor dem 8. April 2022 eingegangen sind | 13. Januar 2025
 Amtsgericht Bremerhaven | Alle Verfahren in Zwangsversteigerungs- und Zwangsverwaltungsverfahren der Abteilungen 11a und 11b | 20. Januar 2025
 Amtsgericht Bremen- Blumenthal | Alle Verfahren in Zwangsversteigerungs- und Zwangsverwaltungsverfahren der Abteilung 4 | 20. Januar 2025
+Amtsgericht Bremen | Alle Insolvenzverfahren der Abteilungen 500 bis 533 sowie der Abteilung 40, jeweils mit Ausnahme der Tabellen gemäß § 175 Insolvenzordnung | 3. Februar 2025
+Amtsgericht Bremen | Alle Verfahren in Nachlasssachen der Abteilung 31-37, 31, 32 ,33, 34, 35, 36, 37, 351 und 352 mit Ausnahme der Urkundssachen I und II | 17. Februar 2025
+Amtsgericht Bremen-Blumenthal | Alle Familienverfahren der Abteilungen 71a, 71b, 72, 75 und 76 | 3. März 2025
+Amtsgericht Bremerhaven | Alle Familienverfahren der Abteilungen 150, 151, 152, 153 und 154. | 17. März 2025
