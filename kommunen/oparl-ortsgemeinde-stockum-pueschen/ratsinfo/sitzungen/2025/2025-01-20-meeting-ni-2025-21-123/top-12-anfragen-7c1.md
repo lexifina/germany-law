@@ -1,0 +1,6 @@
+# TOP 12: Anfragen und Mitteilungen des Bürgermeisters
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Stockum-Püschen (2025-01-20)
+- Körperschaft: Ortsgemeinde Stockum-Püschen
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2025-21-123%7CAnfragen%7C1
