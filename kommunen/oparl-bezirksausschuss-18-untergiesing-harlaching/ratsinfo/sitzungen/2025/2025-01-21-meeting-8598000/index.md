@@ -1,0 +1,150 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2025-01-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8598000
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8598000
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 17.12.2024
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.5.1.: Antrag aus dem Stadtbezirksbudget des Bezirksausschusses 18; hier: Verwendung für eigene Veranstaltungen zum Thema "Sport-Vernetzung sowie für Kinder und Jugendliche"
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Unterrichtung über die Kürzung des Stadtbezirksbudgets für 2025
+- TOP 3.1.6.2.: Verwendungsnachweise für vom BA 18 geförderte Budget-Anträge
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Problematik für die Fußballabteilung des TSV Turnerbund München e.V.; Bürgeranliegen
+- TOP 3.2.3.2.: Öffnung des Schulsportplatzes „Albert-Einstein-Gymnasium“ für den Breitensport; Antrag der Sportvereine FC Alemannia München und FC Sportfreunde München
+- TOP 3.2.3.3.: Den Sportplatz des staatlichen Albert-Einstein-Gymnasium für gemeinnützige Sportvereine und sportorientierte Organisationen zur Verfügung zu stellen; SPD-Antrag
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Ausstattung der Flutlichtanlage auf der städtischen Sportanlage an der Säbener Straße mit einer LED-Beleuchtung
+- TOP 3.2.5.2.: Informationen über die Skulptur "Progromnacht" an der Hochleite (Ecke Isenschmidstraße)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Maßnahmen gegen illegales Gehwegparken in der Berg-Isel-Straße
+- TOP 3.3.2.2.: (E) Ahndung von Falschparken auf Geh- und Radwegen
+- TOP 3.3.2.3.: (E) Regelmäßige Verkehrsüberwachung der 30er-Zone in der Naupliastraße
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Geschwindigkeitsanzeigetafeln in der Humboldtstraße; Bürgeranliegen
+- TOP 3.3.3.2.: Ampelschaltung St.Magnus-Straße/Tiroler Platz; Bürgeranliegen
+- TOP 3.3.3.3.: Parkplatz-Situation in der Oberbiberger Straße; Bürgeranliegen
+- TOP 3.3.3.4.: Führung des Fahrradwegs in der Humboldtstr. 32 wegen Baustelle; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Zebrastreifen Schönstraße/Lebscheestraße und Ampelschaltung Candidplatz
+- TOP 3.3.5.2.: Probleme für Fußgänger an der Josef-Vötter-Straße; Punkt 6: Am Waldhaupteingang Ecke Perlacher Forst / Säbenerplatz noch NICHT bearbeiten !!!
+- TOP 3.3.5.3.: Die Sachsenstraße soll von der Nummer 25 bis zur Gabelung Teutoburger- /Agilolfingerstraße in eine Fahrradstraße umgewandelt werden BA-Antrag-Nr. 20-26 / B 06886
+- TOP 3.3.5.4.: Zwischennachrichten der Referate zu Anträgen aus dem Bereich Mobilität
+- TOP 3.3.5.5.: Radweg Seybothstraße
+- TOP 3.3.5.6.: Anfrage zu Parksonderrecht für Anwohner in der Theodolindenstraße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Schreiben des Behindertenbeirats zum Thema "Gehwegparken" an alle Bezirksausschüsse
+- TOP 3.3.6.2.: Verkehrsrechtliche Anordnung zu Maßnahmen nach dem Umbau in der St.-Magnus-Straße
+- TOP 3.3.6.3.: Arbeitsstelle im Straßenraum vor der Sommerstraße 47-49: Terminverschiebung der Ausnahmegenehmigung
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Baumfällungen in der Schellenbergstraße; Bürgeranliegen
+- TOP 3.4.3.2.: Arten- und Biotopschutz in München; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Candidplatz 9 - Geiselgasteigstr. 127 - Geiselgasteigstr. 89 - Naupliastr. 74 - Pistorinistr. 22 - Schellenbergstr. 8 - Waldschmidtstr. 3
+- TOP 3.4.4.2.: Regionaler Planungsverband München (RPV): Ausweisung von Vorranggebieten für Windenergie - Vorabeinbindung der Bezirksausschüsse
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Lärmaktionsplan 2024 – Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse
+- TOP 3.4.5.2.: Bekanntgabe der Endpunkte der Fernwärmeleitungen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Ausnahmezulassungen für den Betrieb von Geräten und Maschinen im Rahmen von Reinigungsarbeiten (U-Bahnhöfe und oberirdische Verkehrsanlagen) im Auftrag der SWM im Jahr 2025 nach § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4.6.2.: Meldungen von Baumfällungen und/oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen des 18. Stadtbezirks auf Grundlage der Bezirksausschusssatzung
+- TOP 3.4.6.3.: Mülleinsammlung durch die rororecycle GmbH im Stadtgebiet München - Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 3.5.6.2.: City Kebaphaus - Antrag auf unveränderte Fortführung des Gaststättenbetriebes
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Säbener Str. 51: Neubau des Profi-Leistungszentrums des FC Bayern München (inkl. Tiefgarage, Betriebshof & Umbau Außenanlagen/Rasenplätze)
+- TOP 3.6.4.1.2.: Bezoldstr. 4a: Neubau Doppelhaushälfte mit Garage
+- TOP 3.6.4.1.3.: Winterstr. 3: Abbruch einer Garage mit 6 Stellplätzen und Neubau von vier Reihenhäusern
+- TOP 3.6.4.1.4.: Reinekestr. 15a: Neubau eines unterkellerten Einfamilienhauses mit Garage
+- TOP 3.6.4.1.5.: Über der Klause 1a: Umbau und energetische Sanierung einer Villa mit Einliegerwohnung und Neubau einer Garage
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Ehrenamt muss abgesichert sein: Antrag des BA 9 mit der Bitte um Unterstützung durch die anderen Bezirksausschüsse
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.2.4.1.: TSV 1860 Fan-Treffen am Candidplatz ab Januar 2025 vor den jeweiligen Spielen - Ausnahmegenehmigung
+- TOP 3.3.4.1.: Maßnahme zum Straßenunterhalt am Harlachinger Berg
+- TOP 3.3.4.2.: Sanierungsmaßnahme in der Stresemannstraße
+- TOP 3.3.4.3.: Sanierung der Perathoner-, Aggensteiner- und Widdersteinstraße
+- TOP 3.5.4.1.: Zukunft gestalten im Quartier - Unterstützung bei der Quartiersauswahl
+- TOP 3.6.3.1.: Dringlichkeitsantrag zur Prüfung alternativer Baustellenzufahrten für den Erweiterungsbau des FC Bayern; Bürgeranliegen
