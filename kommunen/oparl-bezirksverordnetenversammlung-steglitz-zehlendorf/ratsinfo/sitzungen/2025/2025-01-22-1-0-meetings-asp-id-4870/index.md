@@ -1,0 +1,52 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-01-22T17:00:00+01:00
+- Ende: 2025-01-22T20:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4870
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4870
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Aktueller Stand des Sportentwicklungsplans - beantwortet
+- TOP 3.2: Silvester in Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Hilferuf: „Schon Elfjährige laufen mit Messer rum“ – auch in Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 3.4: Setzt das Bezirksamt den „Leitfaden für das Verkehrsmanagement zur Sicherung des Fuß- und Radverkehrs bei temporären Verkehrsmaßnahmen“ verpflichtend voraus? - beantwortet
+- TOP 3.5: Kitaplätze für Geflüchtete - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl einer stellvertretenden Bürgerdeputierten im Gesundheitsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für den Ruderklub am Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Den Stangenpfuhl-Teich in der Thermometersiedlung sicherer gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: NS-Täter und Stalinismus-Opfer: Informationstafeln für die Walter-Linse-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Strukturen am Nymphenufer erhalten, Freizeitfreunde Nikolassee retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Hochbeete in der Paul-Schneider-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Frauen im Deutschen Widerstand gegen den Nationalsozialismus gedenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Schließung des Energie-Museums abwenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Transparenz bei den Planungen der Baumaßnahmen am S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Namen für die Straßenbenennungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Nach 30 Jahren immer noch keine neuen Kacheln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Wassersperre im Bezirksamt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Sanierung/Instandsetzung des Radwegs in der Malteserstraße zwischen Friedrichrodaer Straße bis Kamenzer Damm - überwiesen
+- TOP 5.2: Den glühenden Hitler-Verehrer Sven Hedin kenntlich machen und Sven-Hedin-Platz umbenennen - überwiesen
+- TOP 5.3: Verkehrssicherheit in der Lichterfelder Karwendelstraße erhöhen, Verkehrslärm reduzieren - überwiesen
+- TOP 5.4: Mietwucher in Steglitz-Zehlendorf nachhaltig bekämpfen - überwiesen
+- TOP 5.5: Digitale Workflows für die BVV - überwiesen
+- TOP 5.6: Ein Wärmecontainer für Steglitz für den Winter 2025/2026 - überwiesen
+- TOP 5.7: Unterstützung für alternative Standorte der Ausstellung "The Vicious Circle" im Bezirk - überwiesen
+- TOP 5.8: Straßenumbenennung sichtbar gestalten - überwiesen
+- TOP 5.9: Böllerverbot - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Welche Dokumente müssen Bürger*innen bei einer Straßenumbenennung wirklich ändern? - beantwortet
+- TOP 6.2: Berliner No-Go-Areas: Gefahr für Homosexuelle und Juden - Welche Entwicklung nimmt Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Im Winter Öffnung einzelner Schulhöfe für Klein- und Grundschulkinder mit ihren Eltern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Umbenennung der Treitschkestraße in Betty-Katz-Straße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
