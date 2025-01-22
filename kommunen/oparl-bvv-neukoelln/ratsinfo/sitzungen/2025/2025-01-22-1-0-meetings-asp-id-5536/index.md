@@ -1,0 +1,145 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-01-22T17:00:00+01:00
+- Ende: 2025-01-22T22:25:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5536
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5536
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Containerdorf Sangerhäuser Weg - schriftlich beantwortet
+- TOP 1.2: Containerdorf Sangershauser Weg - schriftlich beantwortet
+- TOP 1.3: Zustände in der Pfarr-Siedlung in Rudow - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde "Herausforderungen bei der Verwaltungsdigitalisierung" - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: Drs.: 1667/XXI - Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Kostenfreie Menstruationsartikel in den Schulen - überwiesen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Abenteuerspielplatz Wildhüterweg unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Poller stoppen, Mobilität fördern: Für eine bürgernahe Verkehrspolitik in Neukölln - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: Zielvereinbarung zur gesamtstädtischen Steuerung der Freiwilligenagenturen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.6: Zielvereinbarung zur Optimierung der Zusammenarbeit im Amtlichen Vermessungswesen und zur Qualitätssicherung von Kernprozessen des Amtlichen Vermessungswesens für das Jahr 2025 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.7: Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Soziale Infrastruktur-Konzept 2023/2024 – Bezirk Neukölln (SIKo Neukölln) - überwiesen
+- TOP 8.2: Ferienzeiten der BVV Neukölln von Berlin im Jahr 2025 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 9.2: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Park & Ride Rudower Spinne - beantwortet
+- TOP 10.2: Schließfächer für das Hab und Gut obdachloser Menschen - beantwortet
+- TOP 10.3: Heiraten im SchwuZ - beantwortet
+- TOP 10.4: Mietwucher endlich verfolgen - beantwortet
+- TOP 10.5: Bewertung der Ereignisse an Silvester 2024/2025 durch das Bezirksamt. - beantwortet
+- TOP 10.6: Weniger Stress durch bessere Koordination - beantwortet
+- TOP 10.7: Müll in der Boddinstraße - beantwortet
+- TOP 10.8: Hilfe nach Brand auf dem Abenteuerspielplatz Wildhüterweg - schriftlich beantwortet
+- TOP 10.9: Hochhaus Ruth: Wirkt die Rückführungsanordnung? - schriftlich beantwortet
+- TOP 10.10: Was passiert mit dem Grundstück Silbersteinstraße 16? - schriftlich beantwortet
+- TOP 10.11: Metallbauzaun am Akazienwäldchen - schriftlich beantwortet
+- TOP 10.12: Grundschule am Teltowkanal - schriftlich beantwortet
+- TOP 10.13: Wie steht es um die Zukunft des Jugendclubs Ufo? - schriftlich beantwortet
+- TOP 10.14: Sperrung von Neuköllner Sporthallen - schriftlich beantwortet
+- TOP 10.15: Parkverbot Alt-Britz - schriftlich beantwortet
+- TOP 10.16: Wohnungsbau in Neukölln 2024 - schriftlich beantwortet
+- TOP 10.17: Verwendung der Verstärkungsmittel in 2024 - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Kleingärten statt Neuköllner Sumpflandschaft - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: SOKO Müll am Sasarsteig einsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Fahrradbügel für die VHS Kurt-Löwenstein-Haus - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Sicheres Einbiegen in die Straße im Rosengrund - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.5: Soziale Nutzung der Hobrechtstraße 67 ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.6: Trinkbrunnen funktionsfähig machen – Hitzeschutzplan M I-5 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.7: Wuchermieten in den Peters-Problemimmobilien ahnden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: 2-jährige Leistungsverträge im Jugendbereich einführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.2: Umbau Fahrradstellplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.3: BVG Häuschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Tempo 30 im Ortolanweg sichtbarer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Pflegestützpunkt für die Gropiusstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Radabstellmöglichkeiten rund um die "Jungfernmühle" in der Gropiusstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Schuld war nur die Technik? Desaster Info-Veranstaltung zur Flüchtlingsunterkunft am Sangerhauser Weg - beantwortet
+- TOP 13.2: Förderzentrum Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Schulentwicklungsplanung für Neukölln vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Bisherige Bilanz von Meldungen und Einsätzen des Neuköllner Ordnungsamtes aufgrund des Nahostkonfliktes - beantwortet
+- TOP 13.5: Neue Straßenverkehrsordnung - beantwortet
+- TOP 13.6: Wird die soziale Infrastruktur auf den Buckower Feldern auf den letzten Metern zusammengestrichen? - schriftlich beantwortet
+- TOP 13.7: Kinder- und Jugendfreizeiteinrichtungen Alt-Buckow bis Buckower Felder - schriftlich beantwortet
+- TOP 13.8: Internationaler Tag gegen Gewalt an Frauen am 25. November - schriftlich beantwortet
+- TOP 13.9: Klimawandel - Klimaschutz im Bezirksamt Neukölln?! - beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Modellprojekt zum „Gesetz zum Umgang mit Konsumcannabis (KCanG)“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Erneuerung Flutlichtanlagen und Hallenbeleuchtungen mit LED mit Nutzung Bundesförderung - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Umbenennung des Puschkin-Zimmers im Rathaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Versammlungsfreiheit gilt auch in Neukölln - in der BVV abgelehnt
+- TOP 14.5: Fußgänger*innen-Sicherheit entlang der Treptower Straße verbessern! - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Fehlende Toiletten in der Umgebung der Hufeisensiedlung - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Verkehrssicherheit im Eichenauer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Installation von Ladesäulen für Elektrofahrzeuge im Frauenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Lastenfahrradparken auf der Kienitzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Ehrendes Gedenken an Jutta Limbach - in der BVV abgelehnt
+- TOP 14.11: Neuköllner Schifffahrtskanal für den Kiez weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Umbenennung "Straße 645" - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: 80 Jahre Kriegsende würdig im Bezirk gedenken - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Rathaus Kantine erneut ausschreiben - in der BVV abgelehnt
+- TOP 14.15: Mehr Sichtbarkeit von Endometriose - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Am Gender-Budgeting-Wettbewerb teilnehmen - Bolzplatz für Mädchenfußball mit Lichtflutern ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Leistungsverträge im Jugendbereich: ausreichend finanzieren & besser kommunizieren - vertagt
+- TOP 14.18: Geflüchtetenunterkunft Sangerhauser Weg - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Neukölln und der Parkplatzmangel - in der BVV abgelehnt
+- TOP 14.20: Halteverbot Kurve Rhodeländerweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Transparenz bei Kiezblocks - vertagt
+- TOP 14.22: Demokratisierung des Worts des Bürgermeisters - in der BVV abgelehnt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Autoplatz oder Wohnungsbau? - vertagt
+- TOP 15.2: Welche Folgen hat das Auslaufen der Mietpreisbremse und des Umwandlungsverbotes für Neukölln? - vertagt
+- TOP 15.3: Was sind die Gründe für das Sporthallen-Desaster? - vertagt
+- TOP 15.4: Eröffnung von kommerziellen Cannabis-Verkaufsstellen, sogenannten Coffeeshops im Bezirk Neukölln - vertagt
+- TOP 15.5: Klimafolgenanpassung - Was macht das Bezirksamt Neukölln? - vertagt
+- TOP 16: Große Anfragen - schriftlich - (offen)
+- TOP 16.1: Mittelverwendung bei der letztjährigen Feier zu 650 Jahren Rudow - schriftlich beantwortet
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Einwohner*innenantrag: Perspektiven für die Fritz-Karsen-Schule schaffen - überwiesen
+- TOP 17.2: Sitzgelegenheiten Haltestellen U Rudow - überwiesen
+- TOP 17.3: KI-gestützte Software Unterstützung bei Wohngeldanträgen in Neukölln - überwiesen
+- TOP 17.4: Webseite zur Flüchtlingsunterkunft Sangerhauser Weg - überwiesen
+- TOP 17.5: Gedenkensemble auf dem Garnisonsfriedhof Columbiadamm umgestalten – Völkermörderstein ins Museum bringen - ohne Änderungen in der BVV beschlossen
+- TOP 17.6: Nutzung der Sporthalle an der Leonardo da Vinci-Schule schnellstmöglich sicherstellen - überwiesen
+- TOP 17.7: Piktogramme zur besseren Erkennbarkeit - überwiesen
+- TOP 17.8: Gute Arbeit der Werkschule Löwenherz fortführen - überwiesen
+- TOP 17.9: Abenteuerspielplatz Wildhüterweg - Brandschaden beheben - ohne Änderungen in der BVV beschlossen
+- TOP 17.10: Kommunale Angebote der Kinder- und Jugendarbeit erhalten - überwiesen
+- TOP 17.11: Pflege der Grünanlage - überwiesen
+- TOP 17.12: Elektromüll leicht entsorgt - überwiesen
+- TOP 17.13: Bessere Beleuchtung des Verbindungsweges parallel zur Schule am Sandsteinweg - überwiesen
+- TOP 17.14: Endlich Böllerverbot umsetzen: Silvester 2025 friedlich feiern! - überwiesen
+- TOP 17.15: Das Zentrum für Sprache und Bewegung auf dem Campus Efeuweg - überwiesen
+- TOP 17.16: Keine Kürzung bei der Jugendsozialarbeit - überwiesen
+- TOP 17.17: Pflege der Grünanlage der Feuerwehrzufahrt zur Schule am Sandsteinweg - überwiesen
+- TOP 17.18: Bessere Beleuchtung der Feuerwehrzufahrt zur Schule am Sandsteinweg - überwiesen
+- TOP 17.19: Fahrradabstellplatz zentral beim Bürgeramt Blaschkoallee - überwiesen
+- TOP 17.20: Preisgekrönten Dokumentarfilm No Other Land im Rahmen der Neuköllner Kultur- und Bildungsarbeit vorführen - überwiesen
+- TOP 17.21: 3. Seniorensommer in Neukölln - überwiesen
+- TOP 17.22: Jumelage-Gedenksteine reinigen und aufarbeiten! - überwiesen
+- TOP 17.23: Neukölln für Frieden! Flagge Hissen für eine Welt ohne Atomwaffen am 8. Juli öffentlichkeitswirksam und mit Beteiligung der Zivilgesellschaft - überwiesen
+- TOP 17.24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.25: Halteverbot vor Bushaltestelle Lieselotte-Berger-Platz - überwiesen
+- TOP 17.26: Durchfahrtssperren Richardplatz aufheben - überwiesen
+- TOP 17.27: Gedenkensemble auf dem Garnisonsfriedhof Columbiadamm umgestalten - gegenstandslos
+- TOP 17.28: Verkehrssicherheit auf dem Wildmeisterdamm verbessern - überwiesen
