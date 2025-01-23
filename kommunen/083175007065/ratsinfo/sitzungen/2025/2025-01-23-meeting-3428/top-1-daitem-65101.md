@@ -1,0 +1,6 @@
+# TOP 1.: Niederschrift über die öffentliche Sitzung des Ortschaftsrates am 5. Dezember 2024
+
+- Sitzung: Ortschaftsrat Hugsweier (1. Sitzung) (2025-01-23)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/65101
