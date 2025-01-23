@@ -1,0 +1,62 @@
+# 29. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-23T14:06:00+01:00
+- Ende: 2025-01-23T16:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31684
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31684
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtpflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Antrag auf Berücksichtigung der Studie Grenzen der Gleichheit: Rassismus und Armutsgefährdung beim Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 2.1.2: Beschluss der Stadtarbeitsgemeinschaft Behindertenpolitik zum Haushaltsplanentwurf 2025/2026 - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 2.3.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2024 - Kenntnis genommen
+- TOP 2.3.2: Zweites Kölner Diskriminierungsmonitoring - Kenntnis genommen
+- TOP 2.3.3: Beschluss der StadtAG Queerpolitik zum Haushaltsplanentwurf 2025/2026 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6.1: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - zurückgestellt
+- TOP 6.2: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ungeändert empfohlen
+- TOP 6.3: Priorisierung von Pflege in Verfahren von Stadtentwicklung und Stadtplanung - zurückgestellt
+- TOP 7: Wohnen
+- TOP 7.1: Sofortmaßnahmen gegen die Wohnungsnot von Studierenden: Zwischennutzung städtischer Flächen für Wohnraum und sofortiger Ausbau alternativer Wohnformen - ohne Votum behandelt
+- TOP 7.2: Zuzüge, Fortzüge und Umzüge in Köln 2023 - Über kleinräumige Muster beim Wanderungsgeschehen - Kenntnis genommen
+- TOP 7.3: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - Kenntnis genommen
+- TOP 8: Arbeit
+- TOP 8.1: Jobcenter Köln
+- TOP 8.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Arbeitsmarktförderung
+- TOP 8.2.1: Kommunale Eingliederungsleistungen ab dem Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Einführung eines Gebärdensprach-Avatars in Köln - Sache ist erledigt
+- TOP -: AN/1369/2024 Einführung eines Gebärdensprach-Avatars in Köln - Kenntnis genommen
+- TOP 10.1.2: Geplante Sanierung und Wiederinbetriebnahme der Flüchtlingsunterkunft in Köln-Ostheim - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion und Volt-Fraktion vom 19.09.2024 (AN1298/2024) betreffend „Geplante Sanierung und Wiederinbetriebnahme der Flüchtlingsunterkunft in Köln-Ostheim" - Kenntnis genommen
+- TOP 10.1.3: Strukturförderfonds - zurückgestellt
+- TOP 10.1.4: Datengrundlagen für altersgerechtes / barrierearmes Wohnen in Köln - Kenntnis genommen
+- TOP 10.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Inklusionsbericht 2023 - Kenntnis genommen
+- TOP 12.2: Positionspapier „Entbürokratisierung und Transformation des deutschen Sozialstaates“ – Gemeinsame Initiative der Sozialämter der großen Großstädte - zurückgestellt
+- TOP 12.3: Ratsbeschluss vom 12.12.2024 zum Antrag AN/1689/2024 betreffend "Dat Jeld es fott - Einsparungen transparent machen" - Kenntnis genommen
+- TOP 12.4: Stellungnahme zum Antrag der Faktionen von SPD und FDP vom 24.05.2024 betreffend: Köln prüft die Einführung der YouCard - Mehr Bildung und Teilhabe für Kinder und Jugendliche in Köln - Kenntnis genommen
+- TOP 12.5: Mitteilung Praktisches Jahr für Studierende der Humanmedizin im Gesundheitsamt - Kenntnis genommen
+- TOP 12.6: Mitteilung zum Aufruf des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen (MAGS NRW) zur Einreichung von Interessensbekundungen für den Aufbau von "Gesundheitsregionen in Nordrhein-Westfalen" - Kenntnis genommen
