@@ -1,0 +1,63 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-01-23T18:00:00+01:00
+- Ende: 2025-01-23T20:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27940
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27940
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 23.01..2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00542446.pdf
+- Ergebnisprotokoll: NachtragsTO 23.01..2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00542446.pdf
+- Wortprotokoll: NachtragsTO 23.01..2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00542446.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 09.01.2025 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 12.09.2024 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift vom 28.11.2024 - einstimmig beschlossen
+- TOP 4: Vorstellung des Modellvorhabens „KI für eine Stadtverträgliche Signalsteuerung in Düsseldorf (KISSiD)" (Bericht der Verwaltung)
+- TOP 5: Bericht und Jahresausblick zum Zentrenmanagement Gumbertstraße (Bericht der Verwaltung)
+- TOP 6: Ersatzneubau der Rad- und Gehwegbrücke Reichenbacher Weg (BW 8041) - Kostenbeteiligung der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 7: Kunst am Bau Wettbewerb Gymnasium Bernburgerstrasse - Empfehlung einstimmig beschlossen
+- TOP 8: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Implementierung Städtisches Gymnasium Bernburger Straße als vierzügiges Gymnasium mit Dreifeldhalle am Standort Düsseldorf Eller“ - Empfehlung einstimmig beschlossen
+- TOP 9: Weiterentwicklung des On Demand-Verkehrs flexy - zur Kenntnis genommen
+- TOP 10: Bauvorbescheid Hasseler Richtweg 66, 68, 70, 72 ,74, 76, 78 – Neubau von Mehrfamilienhäusern, Stellplätzen und einer Jugendeinrichtung - vertagt
+- TOP 11: Sportanlage Deutzer Straße (Kikweg) – Sanierung Kunststoffbelag Wettkampfanlage - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2025 - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahre 2025 - beschlossen
+- TOP 14: Bolzplätze im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Wochenmarkt Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Gebäude Werstener Feld 203 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Zufahrt Parkplatz Eller Mitte / Umbau S-Bahnhof Eller Mitte (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Bebauung Sodener Weg (Alter Schützenplatz) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Reisholzer Straße 36 (Alte Sparkasse) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Nutzung Riehl-Kolleg Am Hackenbruch (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Parkstände Sandträger Weg (Anfrage CDU-Fraktion) - beantwortet
+- TOP 22: Baugrundstück Königsberger Straße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 23: Autoposer Königsberger Straße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 24: Nachfrage zur Anfrage "Freundeskreis Kultur Bahnhof Eller" (BV8/208/2024) (Anfrage SPD-Fraktion) - beantwortet
+- TOP 25: Alt-Eller Fußgängerquerung (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Antrag Kreuzung Rathelbeckstraße / Rothenbergstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Sanierung Auguste-Leven-Weg (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 28: Gedenkort für das sog. „Kommunale Zigeunerlager Höherweg“ (Antrag CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Wohn- und Geschäftsgebäude Vennhauser Allee 197 - zur Kenntnis genommen
+- TOP 30: Kamper Weg - Straßenbelag - zur Kenntnis genommen
+- TOP 31: Abbau von Telefonzellen und -säulen - zur Kenntnis genommen
+- TOP 32: Instandsetzungen Gehwegplatten - zur Kenntnis genommen
+- TOP 33: Aufstellung von Müllbehältern - zur Kenntnis genommen
+- TOP 34: Kissinger Straße – Entschärfung Kurvenbereiche - zur Kenntnis genommen
+- TOP 35: Fahrradbügel in Unterbach - zur Kenntnis genommen
+- TOP 36: Schulwegsicherung Richardstraße - zur Kenntnis genommen
+- TOP 37: Kreuzung Vennhauser Allee / Rothenbergstraße - zur Kenntnis genommen
+- TOP 38: Vennhauser Allee – In den Kötten - zur Kenntnis genommen
+- TOP 39: Krippstraße – halbhüftiges Parken - zur Kenntnis genommen
+- TOP 40: Bernburger Straße – Freigabe Radweg und Stand Radhauptnetz in Eller/Lierenfeld - zur Kenntnis genommen
+- TOP 41: Altkleidercontainer in Eller - zur Kenntnis genommen
+- TOP 42: Kreuzung Schlesische Straße / Reisholzer Straße / Kuthsweg - zur Kenntnis genommen
+- TOP 43: Kreuzung Heidelberger Straße/Karlsruher Straße/Bernburger Straße - zur Kenntnis genommen
+- TOP 44: Barrierefreies Eller: Weiteres Vorgehen - zur Kenntnis genommen
