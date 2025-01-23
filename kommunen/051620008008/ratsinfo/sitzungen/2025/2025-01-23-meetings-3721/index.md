@@ -1,0 +1,63 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-01-23T18:38:00+01:00
+- Ende: 2025-01-23T19:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3721
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3721
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00158708.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00158708.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00158708.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Förderung von Demokratie und Ehrenamt in Grevenbroich - Würdigung der ausgezeichneten Vereine und Institutionen
+- TOP 3: Mittelbereitstellungen
+- TOP 3.1: Bekanntmachung über- und außerplanmäßige Mittelbereitstellung in den Monaten September bis Dezember 2024 - Kenntnisnahme
+- TOP 4: Gigabitförderung 2.0 - vertagt
+- TOP 5: Tätigkeitsbericht der Gleichstellungsstelle - Kenntnisnahme
+- TOP 6: Vergleichsbericht 2023 - Ertrags- und Aufwandslage im interkommunalen Vergleich - Kenntnisnahme
+- TOP 7: Zukunfts. Kraftwerk Frimmersdorf Strategie GmbH - einstimmig beschlossen
+- TOP 8: Standortkonzept Altkleidersammelcontainer und Vergabe einer Dienstleistungskonzession - einstimmig beschlossen
+- TOP 9: Beratungspunkte Ausschüsse
+- TOP 9.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 9.1.1: Stellungnahme zur Neuaufstellung des Regionalplans Köln - Kenntnisnahme
+- TOP 10: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 10.1: Anfrage zu Smart City (Anfrage Nr.:130/2024) - Kenntnisnahme
+- TOP 10.2: Anfrage zu Starkregenereignisse "Überflutung Elsbach Tunnel" (Anfrage Nr.:72/2024) - Kenntnisnahme
+- TOP 10.3: Anfrage zur kommunalen Wärmeplanung (Anfrage Nr.:108/2024) - Kenntnisnahme
+- TOP 10.4: Glasfaserversorgung in den nördlichen Stadtteilen insbesondere in Gruissem (Antrag Nr.:102/2024)
+- TOP 10.5: Beantwortung der Anfragen zur Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Juni bis Mitte September 2024 - Kenntnisnahme
+- TOP 10.6: Anfrage zu Bushaltestelle Goethestr. in GV-Elsen (Anfrage Nr.:105/2024) - Kenntnisnahme
+- TOP 10.7: Anfrage Verkehrslenkung (Anfrage Nr.:98/2024) - Kenntnisnahme
+- TOP 10.8: Anfrage zum Kauf von einem Gießroboter für städtische Friedhöfe (Anfrage Nr.:106/2024) - Kenntnisnahme
+- TOP 11: Schriftliche Anträge
+- TOP 11.1: Anträge der SPD-Fraktion
+- TOP 11.2: Anträge der CDU-Fraktion
+- TOP 11.2.1: Errichtung eines Bolzplatzes und eines Basketballkorbes in Noithausen (Antrag Nr.:07/2025) - einstimmig beschlossen
+- TOP 11.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 11.4: Anträge der FDP-Fraktion
+- TOP 11.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 11.5.1: Beleuchtung im Bereich der Wechselausstellung im Museum der niederrheinischen Seele Villa Erckens (Antrag Nr.:08/2025) - einstimmig beschlossen
+- TOP 11.6: Anträge der UWG-Fraktion
+- TOP 11.7: Gemeinschaftsanträge
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der SPD-Fraktion
+- TOP 12.2: Anfragen der CDU-Fraktion
+- TOP 12.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 12.3.1: Textilentsorgung in Grevenbroich (Anfrage Nr.:05/2025) - Kenntnisnahme
+- TOP 12.3.2: Fehlendes Verkehrszeichen (Anfrage Nr.:06/2025) - Kenntnisnahme
+- TOP 12.4: Anfragen der FDP-Fraktion
+- TOP 12.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 12.6: Anfragen der UWG-Fraktion
+- TOP 12.7: Anfragen von Einzelratsmitgliedern
+- TOP 12.7.1: Anfrage zur Förderung des Ehrenamtes durch Einführung einer neu geschaffenen "Gala für das Ehrenamt" im Jahre 2025 (Anfrage Nr.:01/2025) - Kenntnisnahme
+- TOP 12.7.2: Anfrage zur Einbruchssicherheit in Feuerwehrgerätehäusern (Anfrage Nr.:02/2025) - Kenntnisnahme
+- TOP 12.7.3: Anfrage zur möglichen Einführung von "Taxigutscheine für Frauen" (Anfrage Nr.:003/2025) - Kenntnisnahme
+- TOP 12.7.4: Anfrage zur Abwehr von Terroranschlägen auf Weihnachtsmarkt und Volks-/Heimatfesten (Anfrage Nr.:04/2025) - Kenntnisnahme
+- TOP 13: Mitteilungen des Bürgermeisters
