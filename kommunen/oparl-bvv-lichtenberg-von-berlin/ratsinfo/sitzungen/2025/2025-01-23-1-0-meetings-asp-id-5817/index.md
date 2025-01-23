@@ -1,0 +1,81 @@
+# 38. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-01-23T17:00:00+01:00
+- Ende: 2025-01-23T21:35:00+01:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5817
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5817
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=415225
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 3.1: Poller abbauen - Verkehrskonzept erarbeiten - Sicherheit wiederherstellen - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Schutz der Innenhöfe - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Berufungen der Mitglieder für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Die Geburtsurkunde kommt mit Gratisanleitung für Eltern- und Kindergeld - in der BVV abgelehnt
+- TOP 5.3: Rückbau von Parkplätzen in Rummelsburg aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Sportvereine in Integration Geflüchteter einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Lichtenberg sucht die schönste Baumscheibe - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Mobilitätsrat gesetzeskonform besetzen und Zuständigkeiten von Beiräten klären - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Grundschule an der Schleizer Straße sichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Ferdinand-Schultze-Straße 71 für eine Schulerweiterung der Grundschule Schleizer Straße sichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Lichtenberger Kindertagesstättenentwicklungsplan 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Bebauungsplan 11-178 Trabrennbahn Karlshorst fortführen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Eine Initiative für Radwege auf denen man gerne unterwegs ist - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Standorte für weitere Dialogdisplays prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Nicht schon wieder Hohenschönhausen abhängen - M4 verlängern! - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Den BVV-Beschluss zur Drehscheibenschule Bernhard-Bästlein-Straße nicht weiter verzögern! - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Änderung der Geschäftsordnung - überwiesen
+- TOP 5.16: Überdachung der Sitzplatztribüne in der HOWOGE-Arena „Hans Zoschke“ - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Ticketpreise für den öffentlichen Nahverkehr zukünftig nicht weiter erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Änderung des Flächennutzungsplans (FNP) für die Trabrennbahn Karlshorst anpassen - überwiesen
+- TOP 5.19: Mauritiuskirchstraße entwidmen - überwiesen
+- TOP 5.20: Sperrgitter Wegeeinmündung zum Kyllburger Weg / Ecke Bitburger Straße - überwiesen
+- TOP 5.21: Sicherer Heimweg: Sicherheitslage am und rund um den S-Bahnhof Karlshorst sowie im Carlsgarten verbessern - überwiesen
+- TOP 5.22: Überholverbot auf der Gehrenseebrücke - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Mehr sichere Fahrradabstellmöglichkeiten am Bahnhof Ostkreuz - überwiesen
+- TOP 5.24: Raum für Gespräche in Bibliotheken - überwiesen
+- TOP 5.25: Ehemalige Friedhofskapelle ertüchtigen - überwiesen
+- TOP 5.26: Sauberkeit und Sicherheit auf dem Parkplatz an der Josef-Höhn-Straße umsetzen - überwiesen
+- TOP 5.27: Gemeinsame Nutzung des Fußweges Wartenberger Weg - überwiesen
+- TOP 5.28: Anpassung der Kriterien für den Lichtenberger Frauen*preis - überwiesen
+- TOP 5.29: Flächen mit Waldcharakter auf der Trabrennbahn Karlshorst prüfen lassen - überwiesen
+- TOP 5.30: Alternative Einnahmequellen für das Bezirksamt, Parkraumbewirtschaftung erneut prüfen - überwiesen
+- TOP 5.31: Löschung des Eintrags KGA Falkenhöhe 1932 [Wartenberg] in der Anwendung Ordnungsamt-Online - überwiesen
+- TOP 5.32: Bis das der Putz uns scheidet? Schul- und Sporthallensanierung jetzt! - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - erledigt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Monatliche Verkehrsvorschau für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Resolution: 2 Milliarden Euro sparen, Verkehrschaos vermeiden, Menschen & Klima schützen: A100 stoppen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bürger*innenhaushaltsvorschlag umsetzen – endlich wirksame Verkehrsberuhigung im Quartier Lindenhof - überwiesen
+- TOP 10.4: Resolution: Gedenkveranstaltungen würdig begehen – keine Störungen zulassen - in der BVV abgelehnt
+- TOP 10.5: Schulcontainer in der Salzmannstraße nutzen - überwiesen
+- TOP 10.6: Gefahr im Verzug – Poller als Gefahrenquelle ausschließen! - überwiesen
+- TOP 11: Große Anfragen - überwiesen
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 12.1: Zusammensetzung des Mobilitätsrats - mit Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Vielfalt Lichtenbergs auf Fußgängerampeln verdeutlichen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Endlich Nachtruhe für Anwohner der Rhinstraße - mit Änderungen in der BVV beschlossen
+- TOP 13.3: Angemessene Beschulung und gutes Ankommen für geflüchtete Kinder und Jugendliche sicherstellen - in der BVV abgelehnt
+- TOP 13.4: Kein Zwei(gehalts)klassensystem in der sozialen Trägerschaft! - überwiesen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: POSTdemokratische Gefahren lauern - Auf verkürzte Briefwahlfrist aufmerksam machen! - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Neutralitätsgebot einhalten - Kriterien der Raumvergabe im Rathaus Lichtenberg für nicht in der BVV vertretene politische Vereinigungen festlegen - in der BVV abgelehnt
+- TOP 14.3: Den Rufbus MUVA retten - überwiesen
+- TOP 15: VzK/Aufhebungsanträge - im Ausschuss abgelehnt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - (offen)
