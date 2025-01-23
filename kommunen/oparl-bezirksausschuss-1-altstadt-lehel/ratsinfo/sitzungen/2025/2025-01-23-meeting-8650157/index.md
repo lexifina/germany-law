@@ -1,0 +1,121 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-01-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8650157
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8650157
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Anfrage – Ehrenamt muss abgesichert sein (BA-Antrags-Nr. 20-26 / B 07293 des BA 09)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Wahl 1. Stellvertretende*r Vorsitzende*r und Vorstand
+- TOP 5.3.: Benennung Vorsitz Unterausschuss Planen, Bauen, Wohnen
+- TOP 5.4.: Benennung externer Rechtsextremismusbeauftragter
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Oettingenstr. 74 Neubau eines Wohnhauses mit Quartiersraum und ergänzender gewerblicher Nutzung im Erdgeschoss (Gaststätte, Laden) + Tiefgarage – VORBESCHEID (Oettingenstr. 74 / Theodorparkstr.), TOP 2024.12 B 3.1.2; Frist: 27.01.2025
+- TOP 3.1.2.: Frauenpl. 12 Errichtung einer Freischankfläche mit 70,12 m² / 50 Sitzplätze; Frist: 27.01.2025
+- TOP 3.1.3.: Residenzstr. 24 Abbruch u. Neuerrichtung des Daches mit Neubau einer Whg. im DG (I.u. II Dachebene), Rekonstruktion der hist. Segmentbogengaube sowie 2er Gauben (Str.-Seite), Errichtung von 2 Gauben u. einer Dachloggia auf den Dachflächen zum Innenhof, Sanierung der best. NE im 2. und 3. OG u. Einbau von jeweils einer barrierfreien WC-Anlage, Nutzungsänd. u. Umbau der NE im 1. OG von Büro zu Verkaufsfläche (Laden), Zusammenlegung der NE im EG (Verkaufsfläche) u. der Ne im 1. OG (Büro) durch Einbau einer internen Treppe, Vergrößerung des Aufzugschachtes zur Herstellung eines barrierfreien Aufzuges, Sanierung der Fassade inkl. Austausch der Schaufenster im EG sowie Restaurierung der historischen Fenster; Frist: 27.01.2025
+- TOP 3.1.4.: Hofgartenstr. 8 Nutzungsänderung der Hausmeisterwohnung zur Bürofläche im 1.Obergeschoß; Frist: 13.02.2025
+- TOP 3.1.5.: Sendlinger Str. 43 Einbau eines Aufzugs, Rekonstruktion des Daches mit Dachgeschossausbau u.Nutzungsänderungen von Büro zu Wohnen im 1.OG, sowie Abriss und Neubau eines Hinterhauses -VORBESCHEID; Frist: 13.02.2025
+- TOP 3.1.6.: Prinzregentenstr. 14 Stellplatzreduzierung Verwaltungsgebäude Bezirk Oberbayern i. Z. m. geplanter Begrünung des Innenhofes; Frist: 13.02.2025
+- TOP 3.1.7.: Maximilianstr. 12/ RGB Umnutzung eines bestehenden Hotel- und Wohngebäudes in ein Bürogebäude und Umbau der Innenräume.(Maximilianstr. 12 + 14 / Falkenturmstr.); Frist: 13.02.2025
+- TOP 3.1.8.: Oettingenstr. 42a ÄNDERUNGSANTRAG zu 1.23-2024-16080-21- Neubau eines Wohnhauses mit Eisdiele; Frist: 13.02.2025
+- TOP 3.1.9.: Marienstr. 10 Instandsetzung eines denkmalgeschützten Mehrfamilienhauses, einschließlich Abbruch und Erneuerung von Teilbereichen des Dachstuhls sowie der Nutzungsänderung von Gewerbeflächen in ein Stadthaus;Frist: 13.02.2025
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Herzog-Wilhelm-Str. 8, Nachtrag in die Denkmalliste – Benehmensverfahren (Frist: 21.02.2025)
+- TOP 3.2.2.: Übernahme der Benko-Signa-Immobilien durch die Stadt und Umwandlung in Seniorenresidenzen, Empfehlung Nr. 20-26 / E 01909 der Bürgerversammlung des Stadtbezirkes 01 –Altstadt-Lehel vom 11.04.2024, Sitzungsvorlage Nr. 20-26 / V 15416, Beschluss des Kommunalausschusses vom 03.04.2025 (Termin: 25.02.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Kennzeichnung von Brücken mit den Brückennamen ( Anliegen aus dem BA 04)
+- TOP 1.2.: Bürger*innenanliegen Feldherrenhalle-Renovierung
+- TOP 1.3.: Bürger*innenanliegen Panoramaweg in der Altstadt
+- TOP 1.4.: Interfraktioneller Antrag des BA1 Änderung der BA Satzung Anhörungsrecht für die Bezirksausschüsse / Sondernutzungsrichtlinien
+- TOP 2: Entscheidungen
+- TOP 2.1.: Verkehr, Fahrradparkplätze Supermärkte
+- TOP 2.2.: (E) Bauliche Verhinderung von Befahren der Geh- und Radwege im mittleren Lehel
+- TOP 2.3.: (E) Rotlichtblitzer Lerchenfeldstr. / Wagmüllerstr. Kreuzung Prinzregentenstr.
+- TOP 2.4.: (E) Rotmarkierung des Radwegs in der Sonnenstraße am Übergang Karlsplatz / Prielmayerstraße
+- TOP 2.5.: (E) Schwerpunktkontrollen gegen Radfahrer auf dem Fußweg in der Oettingenstraße
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Maßnahmen Fahrradabstellsituation Mittleres Lehel Maßnahmen Parklizenzgebiet Mittleres Lehel
+- TOP 3.2.2.: Ausweisung von Vorranggebieten für Windenergie; Vorabeinbindung der Bezirksausschüsse (Frist: 27.01.2025)
+- TOP 3.2.3.: Erläuterungsschild Lion-Feuchtwanger-Platz, TOP 2024.12 C 3.2.2
+- TOP 3.2.4.: SONU Aufbauten für MSC Bayerischer Hof am Promenadeplatz etc., 14.02.- 16.02.2025 (Termin: 31.01.2025)
+- TOP 3.2.5.: PKW-Parkplatzentfall zugunsten von Fahrradparkplätzen und Baumstandorten in der Adelgundenstaße
+- TOP 3.2.6.: Verkehrliche Funktionen der Brienner Str. östlich des Oskar-von-Miller-Rings, ... Sitzungsvorlage Nr. 20-26 / V 15606 (Termin 12.02.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e. V. Unterlagen-Check 15.01.2025 bis 15.12.2025 4.116,64€; Az. 0262.0-1-0386
+- TOP 2.1.2.: (E) Stadtbezirksbudget Stella Bildung Bewegt e. V. MOVE AND EXPAND KIDS am 04.04.2025 427,00 €; Az.: 0262.0-1-0392
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "CREATIVE WOMEN CIRCLE" CREATIVE WOMEN CIRCLE am 01.04., 02.04. und 07.04.2025 975,00 €; Az.: 0262.0-1-0391
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Genehmigung einer Freischankfläche: Residenzstr. 21
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: Umwidmung Projektmittel, TOP 2024.12 D 2.3.1
+- TOP 3: Anhörungen
+- TOP 3.1.: Strandveranstaltung am Vater-Rhein-Brunnen 01.05. - 15.09.2025 (Termin: 31.01.2025)
+- TOP 3.2.: Faschingsumzug der Damischen Ritter in der Münchner Altstadt(fußgängerzone) am 23.02.2025 (Termin: 24.01.2025)
+- TOP 3.3.: "Tanz der Marktfrauen" am 04.03.2025 (Faschingsdienstag) (Termin: 03.02.2025)
+- TOP 3.4.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse, TOP 2024.12 A 4.1
+- TOP 3.5.: Italienischer Markt vom 20.02.-23.02.2025 (Termin: 10.02.2025)
+- TOP 3.6.: Zukunft gestalten im Quartier: Unterstützung bei der Quartiersauswahl (Termin: 31.01.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Vollzug der Grünanlagensatzung vom 15.06.2012 – Baustelleneinrichtung, Ausnahmegenehmigung
+- TOP B 4.4.: (U) Neubau Hauptbahnhof - Finanzierungsbedarf für den Bau der beiden Anlagen Fahrradgarage im Neubau Empfangsgebäude, Fahrradgarage im U1/U2-Bauwerk
+- TOP B 4.5.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP B 4.6.: Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024, TOP 24.10 B 3.2.1, Antwortschreiben Baureferat
+- TOP B 4.7.: Meldung von Baumfällungen und/oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der Bezirksausschusssatzung
+- TOP B 4.8.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Abstellflächen Motorräder Lion-Feuchtwanger-Platz, TOP 24.07 A3, Antwortschreiben Baureferat
+- TOP C 4.3.: Bürger*innenanliegen Funkmast Liebigstraße, TOP 2024.10 C 1.10, Antwortschreiben Referat für Klima- und Umwelt
+- TOP C 4.4.: Bürger*innenanliegen Verkehrsschild Kreuzung Zweibrücken-Steinsdorfstr., TOP 2024.11 A3.1, Antwortschreiben Mobilitätreferat
+- TOP C 4.5.: Bürger*innenanliegen Erhöhung Leerungsfrequenz Container Knöbelstrasse, TOP 24.10 C 1.8, Antwortschreiben AWM
+- TOP C 4.6.: Bürger*innenanliegen Verkehrssituation in der Herzogspitalgasse, Antwortschreiben Mobilitätsreferat
+- TOP C 4.7.: immissionsschutzrechtlichen Ausnahmezulassung gem. § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.8.: Abschlussbericht Sommerstraße 2024
+- TOP C 4.9.: Lärmaktionsplan 2024 – Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse
+- TOP C 4.10.: Vorgezogene Mülleinsammlung durch den AWM; Verlängerung bestehender Ausnahmezulassungen gem. § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.11.: Bürger*innenanliegen städtischen Mitarbeiter-Explosion und der nicht funktionierenden Stadtreinigung, Antwortschreiben Baureferat
+- TOP C 4.12.: Eilentscheidung Anhörung des Bezirksausschusses 1 gem. § 9 der BA-Satzung Projektname: Prielmayerstraße/ Karlsplatz Vergrößerung der Fußgängerquerung Projekt-Nr.: 108220
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Eilentscheidung Prozession und Gewässerweihe Salvatorplatz bis Hofgarten am 06.01.25; Termin: 27.12.2024
