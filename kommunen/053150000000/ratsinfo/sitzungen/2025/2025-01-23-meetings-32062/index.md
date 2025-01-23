@@ -1,0 +1,66 @@
+# 29. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-23T17:00:00+01:00
+- Ende: 2025-01-23T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32062
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32062
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion: "Durchwegungen in Kalk Nord sichern" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen: "Durchwegung Vietorstrasse offen lassen" - endgültig abgelehnt
+- TOP 7.3: Antrag der Fraktion Bündnis 90/Die Grünen: "Benennung der Orte und Flächen für Graffiti Kunst im Stadtbezirk Kalk" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/ Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 23.01.2025: "Prüfung und Freigabe der Orte und Flächen für Graffiti Kunst im Stadtbezirk Kalk" - ungeändert beschlossen
+- TOP 7.4: Antrag der CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 23.01.2025: "Ersatz der maroden Tischtennisplatte auf dem Spielplatz Flehbachaue in Köln-Brück" - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Mehr Sicherheit für die Kita Vietorstraße durch Schließung von Zuwegungen - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 23.01.2025: "Mehr Sicherheit für die Kita Vietorstraße durch Schließungen von Zuwegungen" - geändert beschlossen
+- TOP 8.1.2: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - geändert beschlossen
+- TOP -: Antrag der Rats-Partei Die Partei: "Änderungsantrag zur Beschlussvorlage Nr. 1037/2024" - Kenntnis genommen
+- TOP -: Antrag der Rats-Partei Die LINKE.: "Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen" - Kenntnis genommen
+- TOP -: Antrag der Rats-Partei Parteilos: "Ratsbürgerentscheid zur Ost-West-Achse" - Kenntnis genommen
+- TOP -: Antrag der Rats-Partei Bündnis 90/Die Grünen: "Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt" - Kenntnis genommen
+- TOP -: Antrag der Rats-Partei Volt."Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt" - Kenntnis genommen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 23.01.2025: " Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt" - Sache ist erledigt
+- TOP 8.2.2: TOP 8.2.2 1674/2024/4) wurde verschoben zu TOP 10.2.7
+- TOP 8.2.3: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - endgültig abgelehnt
+- TOP 8.2.4: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Kalker Hauptstraße/ Barcelona-Allee in Köln-Kalk - ungeändert beschlossen
+- TOP 8.2.5: Ordnungsbehördliche Verordnung für das Jahr 2025 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 8.2.6: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - ungeändert beschlossen
+- TOP 8.2.7: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - endgültig abgelehnt
+- TOP 8.2.8: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN aus der Sitzung der Bezirksvertretung 8 (Kalk) vom 10.10.2024 (AN/1320/2024) betreffend "Räumliche Perspektiven in der Usinger Straße" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/ Die Grünen in der Sitzung der Bezirksvertretung Kalk am 23.01.2025: "Ersatzbuslinien für stark frequentierte Bahnstrecken" (AN/0036/2025) - Kenntnis genommen
+- TOP 9.2.2: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 23.01.2025:" Sachstand Instandsetzung der Abgrenzung des Bachbetts in der Abshofstraße" (AN/0040/2025) - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/ Die Grünen in der Sitzung der Bezirksvertretung Kalk am 23.01.2025: "Lichtemissionen Kalker Hauptstraße (Stadtgarten)" (AN/0037/2025) - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Bündnis 90/ Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 23.01.2025: "Grünflächenanteil" (AN/0038/2025) - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Abschlussbericht der Maßnahme "Büro für Quartiersmanagement und Aktivierung" im Soziale-Stadt-Gebiet Ostheim und Neubrück - Kenntnis genommen
+- TOP 10.2.2: Einbringung der Beschlussvorlage zum Konzept „Misch MIT! – Kinder- und Jugendbeteiligung in Köln" im 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 10.2.3: 2. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 10.2.4: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 10.2.5: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.6: 1. Nachtrag des Städtebaulichen Vertrags zum Bebauungsplan Nr. 69450/08 - Arbeitstitel „Ehemaliges CFK-Gelände“ in Köln-Kalk - - Kenntnis genommen
+- TOP 10.2.7: Masterplan Sauberkeit (wurde von TOP 8.2.2 verschoben) - Sache ist erledigt
+- TOP 10.2.8: Informationen zu einem Aufstellungsbeschluss einer Sozialen Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet Kalk Mitte - Kenntnis genommen
