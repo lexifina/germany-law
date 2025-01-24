@@ -1,0 +1,67 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-01-24T14:00:00+01:00
+- Ende: 2025-01-24T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27637
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27637
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00541849.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00541849.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00541849.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 06.12.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung des Projekts "Demokratie Lernen" - zur Kenntnis genommen
+- TOP 4.2: Vorstellung des Projekts "1000 Bäume" - zur Kenntnis genommen
+- TOP 4.3: Stadtbaumkonzept, Handlungsfeld 2 „Sanierung vorhandener Baumstandorte unter Erhalt des Baumbestandes“, hier: Berty-Albrecht-Park - zur Kenntnis genommen
+- TOP 4.4: RadLeitRoute 2, West-Ost, von Hansaallee/Böhlerstraße bis Neusser Tor, Gerresheim – Teil 2: Cantadorstraße bis Dieselstraße / Hellweg - Empfehlung mehrheitlich beschlossen
+- TOP 4.5: Weiterentwicklung des On Demand-Verkehrs flexy - zur Kenntnis genommen
+- TOP 4.6: Betriebskonzept Hubpolleranlage Mühlenstraße - Empfehlung einstimmig beschlossen
+- TOP 4.7: An der Piwipp – Erneuerung Öffentliche Beleuchtung; Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 4.8: Unterbringung von wohnungslosen Menschen in der Unterkunft Am Wehrhahn 38 - zur Kenntnis genommen
+- TOP 4.9: Trödelmarkt auf dem Gelände des Blumengroßmarktes am 09.03.2025 - einstimmig beschlossen
+- TOP 4.10: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2025 - einstimmig beschlossen
+- TOP 4.11: Repräsentationsaufwendungen der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 4.12: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 4.13: Veranstaltungen auf dem Burgplatz – Jahresprogramm 2025 - Empfehlung einstimmig beschlossen
+- TOP 4.14: Mündlicher Bericht über Silvester in der Altstadt - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Radweg Jacobistraße vor dem Goethe Museum - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Böllerverbot Hofgarten - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Konsequente Tempo 30 Beschilderung auf der Nordstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Parkhaus unter dem Gustaf-Gründgens-Platz - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.3: Austausch von Abfallbehältern in der Düsseldorfer Altstadt - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Pfützenbildung nach Regenfällen auf den Wegen in der Parkanlage zwischen Hans-Böckler-Straße und Rolandstraße; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/235/2024 - zur Kenntnis genommen
+- TOP 8.3: Alt-Pempelfort – Freigabe für den Radverkehr in Gegenrichtung; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/203/2024 - zur Kenntnis genommen
+- TOP 8.4: Fahrbahnerneuerung Parkstraße; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/265/2024 - zur Kenntnis genommen
+- TOP 8.5: Zebrastreifen auf der Roßstraße am Übergang Frankenplatz; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/264/2024 - zur Kenntnis genommen
+- TOP 8.6: Errichtung von Fahrradabstellanlagen an den Eingängen des Nordfriedhofs; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/258/2024 - zur Kenntnis genommen
+- TOP 8.7: Tempo 30 auf der Worringer Straße von 22:00-6:00 Uhr; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/206/2024 - zur Kenntnis genommen
+- TOP 8.8: Anschluss des Radweges von der Jülicher Straße in die Eulerstraße; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/202/2024 - zur Kenntnis genommen
+- TOP 8.9: Antrag zur Überprüfung der Fahrradabstellmöglichkeiten auf dem Carlsplatz und umliegenden Plätzen; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/240/2024 - zur Kenntnis genommen
+- TOP 8.10: Antrag zur Prüfung der Bereitstellung von Räumlichkeiten für den Düsseldorfer Schachklub 1914/25 e. V.; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/241/2024 - zur Kenntnis genommen
+- TOP 8.11: Altstadtpflaster; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/238/2024 - zur Kenntnis genommen
+- TOP 8.12: Markierung des Fußgängerüberweges auf der Abbiegespur Pempelforter Straße in Adlerstraße; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/236/2024 - zur Kenntnis genommen
+- TOP 8.13: Schwimmbad Unterrath jetzt bauen!; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/262/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für drei Ausstellungen in Fünfzehnwochen Golzheim in 2025 - abweichend beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Rinde am Rhein - abweichend beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Gedok A46 e.V. - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Max Wetter für die Ausstellungsreihe b10b.series - einstimmig abgelehnt
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an G.O.E.K. e.V. für das Afrika Conga Festival 2025 - abweichend beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Ballspielverein 04 e. V. für diverse Veranstaltungen - einstimmig beschlossen
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Bernadette Niehaus für einen Kippensauger - einstimmig beschlossen
