@@ -1,0 +1,55 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-27T15:05:00+01:00
+- Ende: 2025-01-27T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31685
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31685
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag von KLIMAFREUNDE & GUT vom 13.11.2024 betreffend "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP -: Stellungnahme zum Antrag AN/1970/2023 der Ratsgruppe KLIMA FREUNDE & GUT betreffend: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP -: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP 3.2: Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion SPD vom 25.11.2024 betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - zurückgestellt
+- TOP 3.3: Antrag der Fraktion SPD vom 27.08.2024 betreffend "Zukünftiger Schulstandort Urbacher Weg in Porz-Ensen" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion der SPD vom 10.12.2024 betreffend "Zukünftiger Schulstandort Urbacher Weg in Porz-Ensen" - ungeändert beschlossen
+- TOP -: Potenzieller Schulstandort Urbacher Weg - Kenntnis genommen
+- TOP 3.4: Dringlichkeitsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU, Volt vom 23.01.2025 betreffend "Fortführung des KLASSE-Projektes" - geändert beschlossen
+- TOP 3.5: Dringlichkeitsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU, Volt vom 24.01.2025 betreffend "Schulhofnutzung wieder zulassen!" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion SPD vom 27.01.2025 zu Top 3.5 "Schulhofnutzung wieder zulassen!" - geändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion SPD vom 09.12.2024 betreffend "Waldklasse der Förderschule Berliner Str." - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 13.12.2024 - Kenntnis genommen
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion SPD vom 04.06.2024 betreffend "Abriss und Neubau der Montessori-Grundschule Höhenberg - Standort Schulstr." - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion SPD vom 20.11.2024 betreffend "Förderprogramm Infrastrukturausbau im Ganztag" - zurückgestellt
+- TOP 5.3: Antrag der Fraktion SPD vom 14.01.2025 betreffend "KVB-Schülerticket für Köln und Umgebung als Wahlmodell wieder einführen" - endgültig abgelehnt
+- TOP 6: Empfehlungen
+- TOP 6.1: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - ohne Votum behandelt
+- TOP 6.2: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ohne Votum behandelt
+- TOP 6.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Sanierung am Schulstandort Fühlinger Weg 4, Köln-Chorweiler - ungeändert empfohlen
+- TOP 6.4: Planungs- und Baubeschluss zur Erstellung eines Modulbaus für Unterrichtszwecke und einer Mensa in Modulbauweise für das Gymnasium Rondorf am Standort Eygelshovenerstr. 19, 50999 Köln - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 7.1: Beschluss über die kommunale Klassenrichtzahl, die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2024 - Kenntnis genommen
+- TOP 8.3: Zweites Kölner Diskriminierungsmonitoring - Kenntnis genommen
+- TOP 8.4: Beantwortung einer mündlichen Anfrage von Dr. Helge Schlieben, CDU-Fraktion, aus der Sitzung des Ausschusses Schule und Weiterbildung vom 28.10.2024 bezüglich eines Zeitplans für Sanierungen an der Kaiserin-Theophanu-Schule, Kantstraße 3, 51103 Köln - Kenntnis genommen
+- TOP 8.5: Mündliche Anfrage von RM Seeck bezüglich Verzögerungen beim Neubau für das Gymnasium Kreuzgasse - Kenntnis genommen
+- TOP 8.6: GL-Schulen in freier Trägerschaft im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 8.7: Beantwortung einer mündlichen Anfrage von RM Schlieben aus der Sitzung des Ausschusses Schule und Weiterbildung vom 28.10.2024 bezüglich eines Zeitplans für die Interimsbauten am Kaiserin-Theophanu-Gymnasium, Kantstraße 3, 51103 Köln - Kenntnis genommen
+- TOP 8.8: Beantwortungen von mündlichen Anfragen aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 08.10.2024 bezgl. "Umgang mit dem Beschluss des Oberverwaltungsgerichts NRW, AZ: 19 B 457/24 vom 19.08.2024" - Kenntnis genommen
+- TOP 8.9: Beantwortung einer mündlichen Anfrage von RM Seeck aus der Sitzung des Ausschusses Schule und Weiterbildung vom 18.09.2023 bezüglich Verzögerungen am Gymnasium Kreuzgasse - Kenntnis genommen
+- TOP 8.10: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend „Dat Jeld es fott - Einsparungen transparent machen" (12.12.2024) - AN/1689/2024 - Kenntnis genommen
+- TOP 8.11: Beantwortung einer mündlichen Anfrage von RM Seeck, SPD-Fraktion, aus der Sitzung des Ausschusses Schule und Weiterbildung vom 22.01.2024 bezüglich der Schulsituation in Köln-Worringen - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
