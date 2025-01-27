@@ -1,0 +1,62 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-27T16:00:00+01:00
+- Ende: 2025-01-27T17:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32051
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32051
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zur Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Fahrradfahrer*innenfreundlichere Gestaltung der Zuwege zum Georg-Büchner-Gymnasium (Ostlandstraße, 50858 Köln), Aktenzeichen 64/24 - Kenntnis genommen
+- TOP 5.2: Bürgereingaben
+- TOP 5.2.1: Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO– Petition zur Bewahrung des Namens „Ernst Simons“, Aktenzeichen 124/24 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung 3 aus der Sitzung vom 02.12.2024 (AN/1660/2024) betreffend "Grünzug West" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Maßnahmen Luxemburger Str. im Stadtbezirk Lindenthal - geändert beschlossen
+- TOP 8.1.2: Barrierefrei Übergänge-Lichtsignalanlagen in Weiden - ungeändert beschlossen
+- TOP 8.1.3: Verbesserung der Schneeräumung in Köln Widdersdorf - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Ostlandstraße in Köln-Weiden - Alternative beschlossen
+- TOP 9.1.2: Baubeschluss für die Generalsanierung des Steyrer Wegs von Statthalterhofallee bis Donauweg sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 9.1.3: Baubeschluss für die Generalsanierung der Horbeller Straße von Toyota Alle bis Zufahrt Haus.-Nr. 10-14 sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 9.1.4: Masterplan Sauberkeit - ungeändert beschlossen
+- TOP 9.1.5: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Lindenthal - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Ordnungsbehördliche Verordnung für das Jahr 2025 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.2: Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße/Militärringstraße - ungeändert beschlossen
+- TOP 9.2.3: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert beschlossen
+- TOP 9.2.4: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - ohne Votum behandelt
+- TOP 9.2.5: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 9.2.6: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Neubau eines Schulgebäudes in Holzbauweise (Gemeinschaftsgrundschule) - Kenntnis genommen
+- TOP 11.3.2: 2. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 11.3.3: Veröffentlichung gemäß § 3 Absatz 2 BauGBder 1. Änderung (Teilaufhebung) des Bebauungsplanes 65439/04 (6442 Nb/04) Arbeitstitel: Greinstraße in Köln - Sülz - Kenntnis genommen
+- TOP 11.3.4: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 11.3.5: Erteilung eines Vorbescheides nach §34 BauGB auf dem Grundstück Heckgasse 7 - Kenntnis genommen
+- TOP 11.3.6: Sachstand zum Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe (1349/2020) - Kenntnis genommen
+- TOP 11.3.7: Sachstand zum Beschluss "Sofortentsiegelung" (AN/1365/2023) aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 24.08.2023 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
