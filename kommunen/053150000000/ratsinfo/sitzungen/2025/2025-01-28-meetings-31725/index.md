@@ -1,0 +1,82 @@
+# 42. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-28T16:00:00+01:00
+- Ende: 2025-01-28T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31725
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31725
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Gleichstellungsrelevante Angelegenheiten
+- TOP -: B Vorstellung der neuen Fußverkehrsbeauftragten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Sichere Schulwege für neue Schulstandorte - endgültig abgelehnt
+- TOP -: Stellungnahme zum Antrag der SPD-Fraktion vom 10.10.2024 in der Sitzung Verkehrsausschuss 29.10.2024, Punkt 1.3, Sichere Schulwege für neue Schulstandorte (AN/1378/2024) - Kenntnis genommen
+- TOP -: Beantwortung der mündlichen Anfragen aus der Sitzung des Verkehrsausschusses vom 26.11.2024 (TOP 1.2.) - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 3.2: Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - im ersten Durchgang verwiesen
+- TOP -: Änderungsantrag zu TOP 3.2, Beschlussvorlage 3789/2024 - Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - zurückgestellt
+- TOP 3.3: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 3.4: Partizipative Entwicklung einer stadtweiten Konzeption "Mobil im lebenswerten Quartier" unter Erprobung des Formats "Bürgerrat" - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 4.7, Beschlussvorlage 0609/2024 - Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - ungeändert empfohlen
+- TOP -: Änderungsantrag MIV-Grundnetz - endgültig abgelehnt
+- TOP 4.2: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu Vorlage Nr. 1151/2024 - Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen - ungeändert empfohlen
+- TOP 4.3: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - zurückgestellt
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024 - zurückgestellt
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen - zurückgestellt
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP -: Ratsbürgerentscheid zur Ost-West-Achse - zurückgestellt
+- TOP 4.4: Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße/Militärringstraße - ungeändert empfohlen
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung am 10.09.2024 bertr. "Verkehrspolitische Beschlüsse kenntlich machen - Sache ist erledigt
+- TOP 5.1.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion und der Fraktion Die Linke. aus der Sitzung am 11.06.2024 betr. Interne Controllingliste, AN/0859/2024 - Sache ist erledigt
+- TOP 5.1.3: Sauberkeit an der Haltestelle Hansaring - zurückgestellt
+- TOP 5.1.4: Neue/r Fußverkehrsbeauftragte/r - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 26.11.2024 betr. "Neue/r Fußverkehrsbeauftragte/r, AN/1619/2024 - Kenntnis genommen
+- TOP 5.1.5: Entwicklung der Mobilitätsgarantie - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 26.11.2024 (AN/1546/2024) betr. "Entwicklung der Mobilitätsgarantie" - Kenntnis genommen
+- TOP 5.1.6: Subnetzstraßen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage gem. § 4 der Geschäftsordnung des Rates der Volt-Fraktion aus der Sitzung des Verkehrsausschusses am 29.10.2024 betr. „Subnetzstraßen“ (AN/1459/2024) - Kenntnis genommen
+- TOP 5.1.7: Beantwortung einer mündlichen Anfrage von Herrn SE Dr. Herrndorf aus der Sitzung des Verkehrsausschusses (VA) vom 10.09.2024 (zu TOP 6.2.19) betreffend „Verkehrsrechtliche Maßnahmen aufgrund Straßenschäden“ - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: 20 % mehr Fahrten in die Stadt – Scheitert die Kölner Verkehrswende? - zurückgestellt
+- TOP 5.2.2: Ausbau der Barrierefreiheit bei der KVB - zurückgestellt
+- TOP 5.2.3: Hier: Eisenbahnkreuzungsmaßnahmen Deutz-Mülheimer Straße - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i. V. m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Baubeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr, Sitzung des Verkehrsausschusses vom 22.08.2023, TOP 4.5 (Vorlagennummer 0515/2023) - Kenntnis genommen
+- TOP 6.2.2: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.10.2020 betreffend: Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz (AN/1495/2020) - Kenntnis genommen
+- TOP 6.2.3: Wirtschaftszonen für Handwerks-, Pflege- und Lieferdienste - Kenntnis genommen
+- TOP 6.2.4: Berücksichtigung des Radverkehrskonzeptes bei der Generalinstandsetzung des Perlengraben - Kenntnis genommen
+- TOP 6.2.5: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - Kenntnis genommen
+- TOP 6.2.6: Niederschrift zum Fachgespräch Radfahrstreifen auf der Kölner Straße (Porz) - Kenntnis genommen
+- TOP 6.2.7: Beantwortung einer Anfrage der Stadtarbeitsgemeinschaft Behindertenpolitik - zurückgestellt
+- TOP 6.2.8: Festbeleuchtung zur Ramadanzeit entlang der Venloer Straße - Kenntnis genommen
+- TOP 6.2.9: Beantwortung einer schriftlichen Anfrage der Fraktionen CDU, SPD und GRÜNE aus der Sitzung der BV Porz vom 05.12.2024 (AN/1732/2024) betreffend "Erweiterter Planungsbeschluss zur Aufwertung der Verbindungsachse Rheinboulevard zur Neuen Mitte Porz" - Kenntnis genommen
+- TOP 6.2.10: ÖPNV-Bedarfsplan NRW - Neuaufstellung - hier: Information zum Beschluss des Regionalrats vom 11.10.2024 - Kenntnis genommen
+- TOP 6.2.11: ÖPNV-Netzentwicklung - Sachstand 2024 - zurückgestellt
+- TOP 6.2.12: Schienenpersonennahverkehr (SPNV) im Rheinland - Baumaßnahmen 2025 - Kenntnis genommen
+- TOP 6.2.13: Stadtradeln 2025 - Kenntnis genommen
+- TOP 6.2.14: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Radwege in Köln, Az.: 07/24 - Kenntnis genommen
+- TOP 6.2.15: Sachstand zum Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe (1349/2020) - Kenntnis genommen
+- TOP 6.2.16: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend "Dat Jeld es fott - Einsparungen transparent machen" (12.12.2024) - AN/1689/2024 Stellungnahme des Dezernates für Mobilität - zurückgestellt
+- TOP 6.2.17: Sachstand zum Beschluss "Sofortentsiegelung" (AN/1365/2023) aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 24.08.2023 - Kenntnis genommen
+- TOP 6.2.18: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: ADAC-Studie "Rotlichtverstöße" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: Großbaustelle auf der A4 - Schleichverkehre durch Brück - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Sanierung der Zoobrücke - Sache ist erledigt
