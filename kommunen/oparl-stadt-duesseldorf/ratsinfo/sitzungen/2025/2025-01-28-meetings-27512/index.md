@@ -1,0 +1,54 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-01-28T17:00:00+01:00
+- Ende: 2025-01-28T18:55:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27512
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27512
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00542749.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00542749.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00542749.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Garath 2.0 - Bericht Quartiersmanagement und Citymanagement - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Repräsentationsfonds des Bezirksbürgermeisters - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 – - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung der Ausstellung „Das bessere Deutschland: Widerstand gegen das NS-Regime in Garath und Hellerhof“ - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Seebohm-Kreis-Düsseldorf, Bezirk 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig abgelehnt
+- TOP 4.7: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im Jahr 2025 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Beteiligung der Stadt Düsseldorf bei der Planung des Edeka-Marktes in Monheim-Baumberg - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Schäden an der A59 zwischen dem Dreieck Düsseldorf-Süd und Monheim - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Stand der Planung zum Um- und Ausbau der Bezirkssportanlage Koblenzer Straße - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: „protected bike lane“ auf der Koblenzer Straße im Kämpenviertel - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Errichtung eines vorläufigen Wetterschutzes für die Bushaltestelle des SB 57 am Hellerhofer S-Bahnhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Einhaltung der Geschwindigkeitsbeschränkung auf der A59 - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.4: Instandsetzung des Kreuzungsbereiches Emil-Barth Straße/Koblenzer Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Längsparkplätze Rene-Schickele-Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Anpassung Liniennetz Monheim - Auswirkungen auf Düsseldorf - zur Kenntnis genommen
+- TOP 8.2: Spielstraßen-Piktogramm auf der Ringstraße Elsa-Brandström-Straße von und zur Graf-von-Stauffenberg-Straße - Informationsvorlage zum Beschluss BV10/124/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.3: Qualifizierung des Bolzplatzes an der Koblenzer Straße- Informationsvorlage zum Beschluss BV10/158/2024 vom 05.11.2024 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
