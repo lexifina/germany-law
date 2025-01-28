@@ -1,0 +1,83 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-01-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8351865
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8351865
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 26.11.2024 und 17.12.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 17.12.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Erika-Köth-Str. - ÄNDERUNGSANTRAG zu 1.1-2024-14646-32 - Werksviertel WA2 (3) BA 1, Neubau einer Wohnanlage mit Tiefgarage und zwei Gewerbeeinheiten (gemischte Nutzung) - mit Mobilitätskonzept
+- TOP 3.1.2.: Gammelsdorfer Str. 2 - Energetische Sanierung und Dachaufstockung von 4 best. zusammenhängenden Mehrfamilienhäusern mit Anbau von 4 Aufzügen, sowie Rückbau des Bestandsdachstuhls
+- TOP 3.1.3.: Verunreinigung wegen Feuerwerk und Müll; Anliegen aus der Bürgerschaft
+- TOP 3.1.4.: Benehmensverfahren Erkennung Denkmaleigenschaft Wasnerhaus (Josephsburgstr. 20 a); Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.1.5.: Pilotversuch Gelbe Tonne: Machbarkeitsstudie vorstellen; Antrag der FDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Berg-am-Laim-Str. 64 - 1 x digitaler Werbemonitor an der Fassade befestigt
+- TOP 3.2.2.: Unterstützung der BAs bei Bürgeranliegen Kennzeichnung von Brücken mit den Brückennamen
+- TOP 3.2.3.: Foodtrucks für die Stadtviertel; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Digitale Schule der Zukunft; Anliegen aus der Bürgerschaft
+- TOP 3.3.2.: Zukunft gestalten im Quartier, Unterstützung bei der Quartiersauswahl; Anhörung des Referats für Bildung und Sport
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse -vertagt aus der Plenumssitzung vom 17.12.2024-
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget CultureClouds e. V. DIE RAUMVERÄNDERER vom 24.01. - 31.12.2025 5.467,00 €; Az. 0262.0-14-0436
+- TOP 3.5.2.: Stadtbezirksbudget; Weiteres Vorgehen: Mehr Mittel bewilligt als dem BA 14 für das Haushaltsjahr 2024 zur Verfügung stehen
+- TOP 3.5.3.: Ehrenamt muss abgesichert sein; Antrag BA 9 mit der Bitte um Unterstützung
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Neumarkter Str. 35
+- TOP 3.6.2.: Mühldorfstr. 15
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Dezember 2024
+- TOP 4.1.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum - Abbruchanzeigen a) Kranzhornstr. 9 b) Risserkogelstr. 7
+- TOP 4.1.3.: Technisches Rathaus: Aussichtspunkt für Berg am Laim wieder für die Öffentlichkeit zugänglich machen
+- TOP 4.1.4.: Mülleimer mit Pfandring bzw. für Pizzakartons: Test auch in Berg am Laim -vertagt aus der Plenumssitzung vom 17.12.2024-
+- TOP 4.1.5.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für Windenergie; Vorabeinbindung der Bezirksausschüsse
+- TOP 4.1.6.: Grafinger Str. 31 - Vorbescheid
+- TOP 4.1.7.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Fahrbahnverengungen in der Hansjakobstraße zur Reduzierung der Geschwindigkeit
+- TOP 4.2.2.: (U) 2. Stammstrecke München - Station Ostbahnhof; Zusätzliches barrierefreies Zugangsbauwerk im Bereich Friedenstraße (Ostbahnhof); Ergebnis der Nachverhandlungen zur Realisierung und Finanzierung
+- TOP 4.2.3.: Lärmaktionsplan 2024 – Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse
+- TOP 4.2.4.: 2. Stammstrecke München – Station Ostbahnhof
+- TOP 4.2.5.: Schreiben des Behindertenbeirats zum Thema "Gehwegparken" an alle Bezirksausschüsse
+- TOP 4.2.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 4.2.7.: Zustand und Sanierung der Eisenbahnüberführung am S-Bahnhof Berg am Laim (Truderinger Straße)
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Unterrichtung des Bezirksausschusses bei Änderungen der Trägerschaft von Kindertageseinrichtungen im Stadtbezirk
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 4.5.3.: Haushaltsbeschluss 2025; Stadtbezirksbudgets für 2025
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Lödenseestr. 12
+- TOP 4.6.2.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
