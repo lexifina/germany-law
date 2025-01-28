@@ -1,0 +1,79 @@
+# öffentliche Sitzung des Ausschusses für Mobilität und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-01-28T17:00:00+01:00
+- Ende: 2025-01-28T19:02:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7215
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7215
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=548167
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschriften der Sitzungen vom 24.09., 16.10. und 26.11.2024 - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Mehr Schulwegsicherheit für die Schülerinnen und Schüler der Gustav-Dreyer-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.2: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - vertagt
+- TOP 3.3: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - vertagt
+- TOP 3.4: ParkYourBike in Reinickendorf nutzbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.5: Querung der Ziekowstr. für Radfahrende sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.6: Verkehrssicherheit in der Friedrich-Wilhelm-Straße erhöhen - im Ausschuss abgelehnt
+- TOP 3.7: Durchsetzung der Verkehrsberuhigung im Luisenweg - vertagt
+- TOP 3.8: Verkehrssicherheit am Öschelbronner Weg / Ecke Wittenauer Straße erhöhen - im Ausschuss abgelehnt
+- TOP 3.9: Durchsetzung des nächtlichen LKW-Durchfahrtsverbotes in der Straße Alt-Reinickendorf - mit Änderungen im Ausschuss beschlossen
+- TOP 3.10: Hinweisschild auf Fahrbahnverengung - vertagt
+- TOP 3.11: Lebensgefahr für Fahrradfahrer und Fußgänger beseitigen - vertagt
+- TOP 3.12: Neugestaltung Knotenpunkt "Ruppiner Chaussee/Hennigsdorfer Straße" - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.13: Maßnahmen zur Sicherung von Fußgängerüberwegen am Zeltinger Platz - im Ausschuss abgelehnt
+- TOP 3.14: UN-Kinderrechtskonventionen - Umsetzung im Bezirk gewährleistet? - im Ausschuss abgelehnt
+- TOP 3.15: Lichtmast erneuern - erledigt
+- TOP 3.16: Kein LKW Verkehr in der Schildower Straße - vertagt
+- TOP 3.17: Runder Tisch zur Sanierung der Senheimer Straße starten - erledigt
+- TOP 3.18: Fußgängerüberweg Falkenplatz - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.19: S-Bahnpause auf der Nordbahn im S-Bahnhof Wittenau und nicht in Waidmannslust - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.20: Mobilitätskonzept für das TetraPak-Gelände aktualisieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.21: Barrierefreiheit am S-Bahnhof Wittenau (Eingang Göschenplatz) herstellen - vertagt
+- TOP 3.22: Einrichtung von Abstellflächen für E-Scooter und Mieträder am U-Bahnhof Kurt-Schumacher-Platz - vertagt
+- TOP 3.23: Granatenstraße: ruhenden und rollenden Verkehr neu ordnen - vertagt
+- TOP 3.24: Aroser Allee: Einhaltung der Tempolimits, Verhinderung von illegalen Auto- und Motorradrennen - vertagt
+- TOP 3.25: Halteordnung für BVG-Linienbusse am U-Bahnhof Alt-Tegel Richtung Norden einhalten - vertagt
+- TOP 3.26: Schlaglochmelder einrichten - vertagt
+- TOP 3.27: Radweg am Hermsdorfer Damm erneuern - vertagt
+- TOP 3.28: Sicherer Schulüberweg in der Avenue Charles de Gaulle / Rue Lamartine - vertagt
+- TOP 3.29: Barrierefreier Ausbau des quartiersinternen Weges von der Rue Montesquieu zur Nimrodstraße - vertagt
+- TOP 3.30: BVG-Wartehäuschen für die Haltestelle Maienwerder Weg - vertagt
+- TOP 3.31: Prüfung der Einrichtung eines Busparkplatzes am Hermsdorfer Damm in Höhe Dohnensteig - vertagt
+- TOP 3.32: Gehweg für die Kinder und Jugendlichen der Carl-Bosch-Schule Hermsdorf - vertagt
+- TOP 3.33: Erschütterungstest beenden: Radroute 4 in Frohnau ertüchtigen - vertagt
+- TOP 3.34: Mauerweg verbinden - vertagt
+- TOP 3.35: Radstreifen für die Kinder der Carl-Bosch-Schule Hermsdorf - vertagt
+- TOP 3.36: Sicher durch die Elsenbruchstraße kurven - vertagt
+- TOP 3.37: BVG-Kundenzentrum - vertagt
+- TOP 3.38: Sanierungsmaßnahme Schmitzweg / Brodersenstraße - vertagt
+- TOP 3.39: Jetzt die Verlängerung der U8 ermöglichen, das Märkische Viertel vor dem Verkehrschaos schützen - vertagt
+- TOP 3.40: BVG Kundenzentrum in Tegel erhalten - vertagt
+- TOP 3.41: Wendemöglichkeit vor Kreuzung Roedernallee/Am Nordgraben - vertagt
+- TOP 3.42: Fahrräder sicherer an Bahnhöfen abstellen I - vertagt
+- TOP 3.43: Fahrräder sicherer an Bahnhöfen abstellen II - vertagt
+- TOP 3.44: Firmen-Ticket - jetzt digital! - vertagt
+- TOP 3.45: Temporäre 30er-Strecken-Beschilderung sichtbarer machen! - vertagt
+- TOP 3.46: Zusatzschild Badestelle Sandhauser Straße - vertagt
+- TOP 3.47: Fahrradweg in Alt-Heiligensee - vertagt
+- TOP 3.48: Soziale Angebote auf dem Franz-Neumann-Platz nachhaltig sichern - vertagt
+- TOP 3.49: S-Bahnverkehr auf der S1 auch attraktiv bei Bauarbeiten - vertagt
+- TOP 3.50: Brückenwiderlager an der Nordbahn in Frohnau von Graffiti befreien - vertagt
+- TOP 3.51: Haltestellenverlängerung am Zeltinger Platz mit Bus-Zeichen markieren und nicht mehr gültige Markierungen entfernen - vertagt
+- TOP 3.52: Bus 124 - vertagt
+- TOP 3.53: Zebrastreifen Hennigsdorfer Straße - vertagt
+- TOP 3.54: Radverkehrsanlage RSV 10 und Teilstück Karolinenstraße - vertagt
+- TOP 3.55: Abbiegespur und Ampelschaltung Hennigsdorfer Str./Ruppiner Chaussee - vertagt
+- TOP 3.56: Abordnung Gehwegparken vor der Schule am Park - vertagt
+- TOP 3.57: Mehr System im Sharing-Netz - vertagt
+- TOP 3.58: Buslinie 124 für mehr Inklusion. - vertagt
+- TOP 3.59: Umbenennung der Walderseestraße - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
