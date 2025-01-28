@@ -1,0 +1,8 @@
+# TOP 8: Partnerschaftsaktivitäten zwischen Neuss und Châlons-en-Champagne
+
+- Sitzung: Komitee für Partnerschaften, Europa und internationale Angelegenheiten (2025-01-28)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/247616
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/36526
