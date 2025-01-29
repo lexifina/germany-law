@@ -1,0 +1,101 @@
+---
+ecli: "ECLI:DE:BVerwG:2025:290125B10B6.24.0"
+court: "Bundesverwaltungsgericht"
+aktenzeichen: "10 B 6/24"
+decided: "2025-01-29"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/WBRE202500207.xml"
+neuris_doknr: "WBRE202500207"
+---
+
+# Bundesverwaltungsgericht, 10 B 6/24 vom 2025-01-29
+
+## Tenor
+
+Die Beschwerde der Klägerin gegen die Nichtzulassung der Revision in dem Urteil des Oberverwaltungsgerichts Berlin-Brandenburg vom 18. Oktober 2023 wird zurückgewiesen.
+
+Die Klägerin trägt die Kosten des Beschwerdeverfahrens.
+
+Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf 135 000 € festgesetzt.
+
+## Gründe
+
+I
+
+1 Die Klägerin ist Landwirtin. Sie begehrt vom beklagten Land Brandenburg im Wesentlichen, Maßnahmen zur Renaturierung der Müggelspree und ihrer Niederung rückgängig zu machen. Die ohne Planfeststellung oder -genehmigung durchgeführten Maßnahmen des Beklagten hätten die Entwässerung im Bereich der von ihr bewirtschafteten Eigentums- und Pachtflächen erheblich verschlechtert.
+
+2 Der Beklagte hat ihren Antrag auf Beseitigung der Vernässung abgelehnt. Die Klage dagegen blieb in den Vorinstanzen erfolglos. Das Oberverwaltungsgericht hat einen im Hauptantrag geltend gemachten Anspruch auf Rückgängigmachung der Maßnahmen wegen Illegalität eines einzigen, umfassenden Gewässerausbauvorhabens verneint. Eine Rückgängigmachung der jeweils benannten Einzelmaßnahmen sowie die mit weiteren Hilfsanträgen begehrten Maßnahmen, eine Entschädigung oder eine Feststellung der Rechtswidrigkeit von Maßnahmen könne die Klägerin ebenfalls nicht beanspruchen. Das Oberverwaltungsgericht hat die Revision gegen sein Urteil nicht zugelassen.
+
+II
+
+3 Die dagegen gerichtete, allein auf den Revisionszulassungsgrund der grundsätzlichen Bedeutung der Rechtssache (§ 132 Abs. 2 Nr. 1 VwGO) gestützte Beschwerde hat keinen Erfolg.
+
+4 Eine Zulassung der Revision wegen grundsätzlicher Bedeutung setzt voraus, dass die Rechtssache eine Frage des revisiblen Rechts aufwirft, die der - gegebenenfalls erneuten oder weitergehenden - höchstrichterlichen Klärung bedarf, sofern diese Klärung in dem angestrebten Revisionsverfahren zu erwarten steht und dies zu einer Fortentwicklung der Rechtsprechung über den Einzelfall hinaus führen wird. Der Rechtsmittelführer hat darzulegen, dass diese Voraussetzungen vorliegen (§ 133 Abs. 3 Satz 3 VwGO). Diesen Anforderungen genügt die Beschwerde nicht.
+
+5 1. Die Frage,
+
+"ob eine konzeptionelle Verknüpfung mehrerer Maßnahmen zu einem Gesamtvorhaben davon abhängig ist, dass die Verwirklichung eines vollständigen Gesamtkonzepts Voraussetzung für die Sinnhaftigkeit der einzelnen Maßnahmen ist",
+
+ist durch die Rechtsprechung des Bundesverwaltungsgerichts geklärt.
+
+6 Danach kommt es darauf an, ob die mit mehreren Maßnahmen verfolgten verschiedenen Ziele unabhängig voneinander verwirklicht werden können, ohne dass die Erreichung der Ziele einer Maßnahme durch den Verzicht auf die anderen Maßnahmen auch nur teilweise vereitelt würde. Ist dies der Fall, so handelt es sich um mehrere Vorhaben (vgl. BVerwG, Urteil vom 11. August 2016 - 7 A 1.15 - BVerwGE 156, 20 Rn. 35). Dies gilt auch dann, wenn - wie hier - in Rede steht, dass die Maßnahmen schon wegen fehlender Planfeststellung oder -genehmigung formell und damit auch materiell illegal sind (vgl. BVerwG, Urteil vom 17. Dezember 2021 - 7 C 9.20 - BVerwGE 174, 322 Rn. 16).
+
+7 Die von der Klägerin aufgeworfene Frage lässt keinen hierüber hinausgehenden, entscheidungserheblichen Klärungsbedarf erkennen. Das Oberverwaltungsgericht hat den zitierten Maßstab für die fachplanungsrechtliche Vorhabenbestimmung zugrunde gelegt. Es hat festgestellt, dass der Beklagte sich nur selektiv an einem vorab von einem Planungsbüro vorgelegten Konzept zur Renaturierung der Müggelspree und deren Niederung orientiert habe und dabei zeitlich schrittweise und gegenständlich tastend vorgegangen sei, indem erst nach Umsetzung bestimmter Maßnahmen über weitere Maßnahmen entschieden werden sollte. Die Maßnahmen, deren Rückgängigmachung die Klägerin erstrebe, seien nicht konzeptionell zu einem einzigen Vorhaben verknüpft. Selbst unterstellt, er habe alle Maßnahmen von Anfang an so umgesetzt wissen wollen, fehle es an einem Gesamtziel, mit dem ein bestimmtes Ausmaß an Renaturierung hätte erreicht werden sollen, welches den jeweiligen Einzelmaßnahmen ihre Sinnhaftigkeit verliehen hätte. Vielmehr seien diese mit Blick auf das jeweils durch sie angestrebte Renaturierungsziel je für sich als wirksame und sinnvolle "Schritte in die richtige Richtung" anzusehen.
+
+8 Damit war für das Berufungsgericht die Erwägung entscheidungstragend, dass eine Verbindung der jeweils für sich auf ein Ziel ausgerichteten Einzelmaßnahmen zu einem Gesamtvorhaben nicht anzunehmen sei, weil es dafür an einem übergreifenden, den einzelnen Schritten der Renaturierung erst ihren Sinn verleihenden Ziel fehlte. Die dies aufgreifende Frage der Klägerin lässt sich mit der vorhandenen Rechtsprechung unter der darin genannten Voraussetzung, dass die Maßnahmen unabhängig voneinander verwirklicht werden können und jeweils einem eigenen Planungs- oder Maßnahmenziel folgen, bejahen. Dem steht nicht entgegen, dass es in der genannten Entscheidung des Bundesverwaltungsgerichts zur Weservertiefung um eine im Ergebnis rechtswidrige Zusammenfassung mehrerer Vorhaben zu einem Vorhaben durch den Vorhabenträger ging, während hier die Klägerin Einzelmaßnahmen zu einem Vorhaben zusammengefasst sehen möchte. Beide Konstellationen können an dem dargestellten Grundsatz der höchstrichterlichen Rechtsprechung zu den gesetzlichen Grenzen für die Vorhabenbestimmung gemessen werden.
+
+9 2. Eine Zulassung der Revision wegen rechtsgrundsätzlicher Bedeutung rechtfertigt auch die von der Klägerin aufgeworfene Frage,
+
+"ob die Regelungen über kumulierende Vorhaben (§ 10 UVPG) den fachplanungsrechtlichen Vorhabenbegriff verdrängen und von einem Gesamtvorhaben auszugehen ist, wenn die Rückgängigmachung einer Mehrzahl in einem engen Zusammenhang stehender, bereits vollzogener Maßnahmen verlangt wird",
+
+nicht. Die Frage ist in der Rechtsprechung des Bundesverwaltungsgerichts bereits geklärt. Danach knüpft der Vorhabenbegriff des § 2 Abs. 4 UVPG mit Rücksicht auf die Funktion der Umweltverträglichkeitsprüfung, die fachplanerische Sachentscheidung durch Ermittlung, Beschreibung und Bewertung des Vorhabens vorzubereiten, an den fachplanerischen Vorhabenbegriff an; grundsätzlich ist ein Vorhaben im Sinne des Fachplanungsrechts auch ein Vorhaben im Sinne des Gesetzes über die Umweltverträglichkeitsprüfung (vgl. BVerwG, Urteil vom 11. August 2016 - 7 A 1.15 - BVerwGE 156, 20 Rn. 34). Auch bei Komplexvorhaben, die einer Umweltverträglichkeitsprüfung zu unterziehen sind, wird der fachplanungsrechtliche Vorhabenbegriff nicht modifiziert (BVerwG, Urteil vom 19. Februar 2015 - 7 C 11.12 - BVerwGE 151, 213 Rn. 28 f.). Danach führen auch mehrere kumulierende Vorhaben nur unter den fachplanungsrechtlichen Voraussetzungen zu einem Gesamtvorhaben.
+
+10 Unabhängig davon fehlt es auch an Tatsachenfeststellungen des Oberverwaltungsgerichts zum Vorliegen der tatbestandlichen Voraussetzungen kumulierender Vorhaben. Gemäß § 10 Abs. 4 Satz 1 UVPG liegen kumulierende Vorhaben nur vor, wenn mehrere Vorhaben derselben Art durchgeführt werden. Voraussetzung hierfür ist, dass sich die Vorhaben durch eine entsprechende technische oder bauliche Beschaffenheit und Betriebsweise sowie durch vergleichbare Umweltauswirkungen auszeichnen und die angegebenen Größen- oder Leistungswerte addierbar, d. h. in derselben Messeinheit ausgewiesen sind (BVerwG, Urteil vom 25. Januar 2024 - 7 A 4.23 - UPR 2024, 300 Rn. 22 unter Hinweis auf BT-Drs. 18/11499 S. 82 f.). Für das Oberverwaltungsgericht kam es auf die Frage der Annahme kumulierender Vorhaben nicht an, weil es den Vorhabenbegriff des Gesetzes über die Umweltverträglichkeitsprüfung in Übereinstimmung mit der höchstrichterlichen Rechtsprechung in Anknüpfung an den fachplanerischen Vorhabenbegriff bestimmt hat. Zudem ging es für die Vorinstanz nicht um die Erreichung oder Überschreitung von Größen-, Leistungs- oder Prüfwerten. Hat das Berufungsgericht Tatsachen nicht festgestellt, die vorliegen müssten, damit sich die mit der Nichtzulassungsbeschwerde geltend gemachte Rechtsfrage in einem Revisionsverfahren stellen würde, und besteht lediglich die Möglichkeit, dass sie nach Zurückverweisung der Sache aufgrund weiterer Sachverhaltsaufklärung entscheidungserheblich werden könnte, kann die Revision nicht nach § 132 Abs. 2 Nr. 1 VwGO zugelassen werden (BVerwG, Beschluss vom 5. September 1996 - 9 B 387.96 - juris Rn. 6 m. w. N.).
+
+11 3. Die weitere von der Klägerin in ihrer Beschwerde formulierte Rechtsfrage,
+
+"ob das Eigentumsgrundrecht des Art. 14 Abs. 1 GG erst bei einem spürbaren Eingriff in den Schutzbereich der Norm betroffen ist",
+
+zeigt ebenfalls keinen rechtsgrundsätzlichen Klärungsbedarf auf. In Betracht kommt hier nur ein faktisch-mittelbarer Eingriff in das Eigentum bzw. Pachtrecht der Klägerin an von den Maßnahmen des Beklagten betroffenen Grundstücken. Davon ist auch das Berufungsgericht ausweislich seines Verweises auf hierauf bezogene Kommentierungen ausgegangen (UA S. 65). Die Maßstäbe für die Annahme eines Grundrechtseingriffs einschließlich des Grundrechts auf Eigentum sind in der Rechtsprechung des Bundesverfassungsgerichts geklärt (s. auch BVerwG, Beschluss vom 25. Mai 2022 - 3 BN 3.22 - juris Rn. 10). Danach können auch staatliche Maßnahmen, die eine mittelbare oder faktische Wirkung entfalten, Grundrechte beeinträchtigen und müssen daher von Verfassungs wegen hinreichend gerechtfertigt sein. Entscheidend ist, ob die faktische oder mittelbare Beeinträchtigung mit Blick auf die Zielsetzung der staatlichen Maßnahme (Finalität), deren Auswirkungen auf den Grundrechtsträger (Intensität) und den Kausalzusammenhang zwischen staatlichem Handeln und Grundrechtsbeeinträchtigung (Unmittelbarkeit) mit einem Eingriff im herkömmlichen Sinne vergleichbar ist (vgl. BVerfG, Beschluss vom 27. April 2021 - 2 BvR 206/14 - BVerfGE 158, 1 Rn. 54 m. w. N.). Das Ausmaß der Auswirkungen staatlichen Handelns auf den Grundrechtsträger ist nach diesem verfassungsrechtlichen Maßstab bei der Bewertung, ob ein Grundrechtseingriff vorliegt, mit einzubeziehen. Hierüber hinausgehender rechtsgrundsätzlicher Klärungsbedarf ergibt sich nicht daraus, dass das Berufungsgericht sich für die in seine Prüfung mit einzubeziehende Intensität der Auswirkungen des Begriffs der Spürbarkeit einer Beeinträchtigung bedient.
+
+12 4. Rechtsgrundsätzliche Bedeutung kommt auch der von der Klägerin formulierten Frage,
+
+"ob der Private den Vorhabenträger bei von vornherein oder nach gerichtlicher Aufhebung fehlender Zulassungsentscheidung dann nicht auf der Grundlage von § 4 Abs. 3 Satz 1 Nr. 1 i. V. m. Abs. 1 Satz 1 Nr. 1 UmwRG unmittelbar auf tatsächliche Unterlassung oder Rückgängigmachung der Vorhabenverwirklichung in Anspruch nehmen kann, wenn der Vorhabenträger ein Hoheitsträger ist",
+
+nicht zu. Sie lässt sich auf der Grundlage des Gesetzeswortlauts mit Hilfe der üblichen Regeln sachgerechter Interpretation ohne Weiteres beantworten. § 4 Abs. 3 Satz 1 Nr. 1 UmwRG verweist unter anderem auch für Rechtsbehelfe Privater auf § 4 Abs. 1 UmwRG. Aufgrund dieses Verweises können auch natürliche Personen die Aufhebung einer Entscheidung über die Zulässigkeit eines Vorhabens nach § 1 Abs. 1 Satz 1 Nr. 1 bis 2b UmwRG verlangen, wenn - unter anderem - eine nach den Bestimmungen des Gesetzes über die Umweltverträglichkeitsprüfung erforderliche Umweltverträglichkeitsprüfung oder erforderliche Vorprüfung des Einzelfalls zur Feststellung der UVP-Pflichtigkeit weder durchgeführt noch nachgeholt worden ist (§ 4 Abs. 1 Satz 1 Nr. 1 UmwRG). Die Geltung dieser Regelung führt dazu, dass die Verfahrensfehler von aus anderen Gründen nach § 42 Abs. 2 VwGO klagebefugten Individualklägern unabhängig vom Vorliegen einer subjektiven Rechtsverletzung, also abweichend von § 113 Abs. 1 Satz 1 VwGO, zur Begründetheit der Klage führen (stRspr, vgl. BVerwG, Urteil vom 18. Dezember 2014 - 4 C 36.13 - BVerwGE 151, 138 Rn. 34). Mit § 4 Abs. 3 UmwRG wollte der Gesetzgeber Art. 10a der durch die Richtlinie 2003/35/EG geänderten UVP-Richtlinie ordnungsgemäß umsetzen (vgl. BT-Drs. 16/2495 S. 14). Danach werden Mitglieder der betroffenen Öffentlichkeit zu Sachwaltern der Einhaltung des UVP-Rechts gemacht. Dass Individualkläger bei von vornherein oder ex tunc fehlender Zulassungsentscheidung gemäß § 4 Abs. 3 Satz 1 Nr. 1 i. V. m. Abs. 1 Satz 1 Nr. 1 UmwRG einen Anspruch auf Unterlassung oder Rückgängigmachung der Maßnahmen ohne eigene Rechtsverletzung haben könnten, lässt sich weder Wortlaut und Systematik noch der Gesetzesbegründung ansatzweise entnehmen.
+
+13 5. Auf Grundlage der tatsächlichen Feststellungen des Oberverwaltungsgerichts kommt auch eine Zulassung der Revision mit Blick auf die weitere in der Beschwerdebegründung aufgeworfene Frage,
+
+"ob de[n] Kläger die Beweislast dafür trifft, dass bei mehreren möglichen Faktoren für einen Schadenseintritt der von ihm benannte Faktor kausal ist, oder ob sich die Beweislast jedenfalls dann umkehrt, wenn das vom Kläger als schadensauslösender Faktor benannte Vorhaben planfeststellungsbedürftig ist, ein Planfeststellungsverfahren aber ebenso wenig durchgeführt worden ist, wie eine UVP-Vorprüfung oder eine FFH-Verträglichkeitsprüfung",
+
+nicht in Betracht. Die Frage wäre im angestrebten Revisionsverfahren nicht klärungsfähig, weil das Berufungsgericht einen Schadenseintritt bezüglich der von der Klägerin bewirtschafteten Grundstücke im Wirkbereich der - zu Unrecht nicht planfestgestellten - Altarmanschlüsse nicht festgestellt hat und sich ihm die von der Beschwerde aufgeworfene Frage somit nicht gestellt hat. Vielmehr hat es etwaige Beweiserleichterungen zugunsten der Klägerin bereits deshalb nicht in Betracht gezogen, weil sie es trotz entsprechender Hinweise des Beklagten und einer gerichtlichen Verfügung unterlassen habe, Auswirkungen dieser Maßnahmen auf die konkrete Bewirtschaftungsfähigkeit der klägerischen Flächen im Einflussbereich der altarmanschlussbedingten Wasserstandserhöhungen durch Vortrag von Tatsachen aus ihrer eigenen Sphäre substantiiert darzutun (UA S. 83 f.).
+
+14 6. Aus diesem Grund kommt auch der Frage,
+
+"ob der Temperaturanstieg wegen des anthropogen verursachten Klimawandels bei der Ermittlung der situationsbedingten Vorbelastung von Grundeigentum relevant ist",
+
+keine rechtsgrundsätzliche Bedeutung zu, weil das Oberverwaltungsgericht nicht entscheidungstragend auf sie abgestellt hat. Zwar hat es den Temperaturanstieg infolge des Klimawandels als einen von mehreren möglichen Einflussfaktoren unter anderem auf Grundstücke im Wirkungsbereich der Altarmanschlüsse erörtert und ihn der Situationsgebundenheit des Eigentums zugerechnet. Es hat jedoch - wie dargelegt - wegen fehlender Substantiierung der Klägerin schon keine Beeinträchtigung der Bewirtschaftungsmöglichkeit dieser klägerischen Flächen angenommen. In der Konsequenz trifft die angegriffene Entscheidung keine Feststellung zur konkreten Kausalität der Altarmanschlüsse - in Abgrenzung oder im Zusammenwirken mit den weiteren von ihm erwogenen Einflussfaktoren - für eine Vernässung dieser Grundstücke.
+
+15 7. Eine Zulassung der Revision wegen Grundsatzbedeutung kommt auch nicht im Hinblick auf die von der Beschwerde aufgeworfene Frage in Betracht,
+
+"ob die Verjährungsfrist im Falle der Geltendmachung eines Anspruchs auf Beseitigung einer Störungsquelle mit jeder neuen von der Störungsquelle ausgehenden Störung neu oder mit der Schaffung der Störungsquelle und der erstmaligen Erkennbarkeit des störenden Charakters einmalig zu laufen beginnt".
+
+16 Soweit das Oberverwaltungsgericht eine Verjährung eines Anspruchs auf Störungsquellenbeseitigung in Bezug auf Wiederanschlüsse der Altarme in Betracht gezogen hat (UA S. 68 f., 84 ff.), handelt es sich nicht um eine - wie die Klägerin meint - allein entscheidungstragende Erwägung. Vielmehr stützt die Vorinstanz die Ablehnung eines Beseitigungsanspruchs hinsichtlich aller Altarmanschlüsse darauf, dass sie keine Rechtsverletzung der Klägerin feststellen könne (UA S. 71 ff.). Zu dieser Erwägung hat die Beschwerde keinen durchgreifenden Revisionszulassungsgrund dargelegt.
+
+17 Bei einer kumulativen Mehrfachbegründung kann die Revision nur zugelassen werden, wenn hinsichtlich jeder dieser Begründungen ein Revisionszulassungsgrund aufgezeigt wird und vorliegt (BVerwG, Beschluss vom 24. August 2023 - 7 B 5.23 - UWP 2023, 284 Rn. 29 m. w. N.). Es kann deshalb dahinstehen, ob die berufungsgerichtlichen Ausführungen zur Verjährung eines Beseitigungsanspruchs betreffend die Altarme Mönchwinkel I und Stäbchen-Sieverslake eine selbständig tragende Zweitbegründung darstellen. Hinsichtlich einer Beseitigung des Wiederanschlusses des Altarms Freienbrink III hat das Berufungsgericht die Frage der Verjährung eines Beseitigungsanspruchs ausdrücklich offen gelassen und für den Altarmanschluss Mönchwinkel II eine Verjährung verneint; jedenfalls insoweit stellt es ohnedies allein entscheidungstragend auf das Fehlen einer Rechtsverletzung ab, so dass die von der Klägerin formulierte Rechtsfrage nicht entscheidungserheblich war.
+
+18 8. Schließlich führen auch die weiteren, von der Klägerin im Zusammenhang mit der von ihr hilfsweise begehrten Verurteilung des Beklagten zur Zahlung einer angemessenen Entschädigung aufgeworfenen Rechtsfragen,
+
+"ob es der Erhebung einer Verpflichtungsklage gegen die Planfeststellungsbehörde auch dann bedarf, wenn der Vorhabenträger in derselben Behörde angesiedelt ist wie die Planfeststellungsbehörde und sich die Klage gegen die Behörde und nicht einzelne Abteilungen der Behörde richtet",
+
+sowie
+
+"ob auch mittelbar eingetretene adäquate Folgen im Wege eines Folgenbeseitigungsanspruchs ausgeglichen werden können",
+
+nicht zur Zulassung der Revision gegen das angegriffene Urteil, soweit dieses den betreffenden Hilfsantrag für unbegründet erachtet hat.
+
+19 Soweit das Urteil einen unmittelbar gegen den Vorhabenträger einzuklagenden Anspruch auf Entschädigungszahlung aus § 70 Abs. 1 Satz 1 Halbs. 1 i. V. m. § 14 Abs. 3 Satz 3 WHG verneint, weil es eine gegebenenfalls durch Verpflichtungsklage zu erstreitende Regelung der Planbehörde für erforderlich hält, ist auch dies nicht die allein entscheidungstragende Erwägung. Die Entscheidung ist vielmehr auch auf die Begründung gestützt, es sei nichts dafür ersichtlich, dass der Klägerin ein Anspruch auf Folgenbeseitigung zustünde, dessen Erfüllung dem Beklagten - erforderlichenfalls nach Planfeststellung oder Genehmigung der Beseitigung des "Schwarzbaus" - unzumutbar wäre (UA S. 104 f., 66 ff.). Auch insoweit ist kein durchgreifender Revisionszulassungsgrund dargelegt. Mit der Frage des Ausgleichs mittelbarer Folgen hat sich das Oberverwaltungsgericht schließlich nicht auseinander gesetzt; sie wäre deshalb schon mangels Entscheidungserheblichkeit für das Berufungsgericht im angestrebten Revisionsverfahren nicht klärungsfähig. In jedem Falle würde eine Verpflichtung des Beklagten zur Zahlung einer Entschädigung die tatsächliche Feststellung eines Schadens oder einer nachteiligen Rechtsbeeinträchtigung der Klägerin voraussetzen (vgl. Knopp/​Müller, in: Siedler/​Zeitler/​Dahme/​Knopp, WHG, Stand August 2024, § 14 Rn. 96; Czychowski/​Reinhardt, WHG, 13. Aufl. 2023, § 14 Rn. 114), die das Berufungsgericht hier gerade nicht getroffen hat. Der Vortrag der Klägerin, es habe die Anspruchsvoraussetzungen für eine Entschädigung bejaht, trifft nicht zu.
+
+20 9. Soweit in dem Schriftsatz der Klägerin vom 21. Mai 2024 eine Rüge der Aktenwidrigkeit der tatrichterlichen Feststellung zu einem von der Ordnungsbehörde zu trennenden Vorhabenträger zu sehen sein sollte, wäre diese nach Ablauf der Begründungsfrist des § 133 Abs. 3 VwGO erhoben worden und damit nicht zu berücksichtigen. Sie war in der fristwahrend eingereichten Beschwerdebegründung noch nicht enthalten.
+
+21 Die Kostenentscheidung folgt aus § 154 Abs. 2 VwGO. Die Festsetzung des Streitwerts beruht auf § 47 Abs. 1 Satz 1 und Abs. 3 i. V. m. § 52 Abs. 1 GKG.
