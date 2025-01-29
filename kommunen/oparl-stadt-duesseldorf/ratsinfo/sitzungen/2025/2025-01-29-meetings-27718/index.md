@@ -1,0 +1,54 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-01-29T17:00:00+01:00
+- Ende: 2025-01-29T17:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27718
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27718
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 02.10.2024 - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 06.11.2024 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift vom 04.12.2024 - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Aktueller Bericht des Quartiersmanagement Rath/Mörsenbroich - zur Kenntnis genommen
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfrage der SPD-Fraktion: Fußgängerüberweg Westfalenstraße - Ergebnisse Verkehrszählung - vertagt
+- TOP 9: Anfrage der CDU-Fraktion: Verkehrssituation auf der Oberrather Straße - Abfahrt von der Brücke zur Sankt-Franziskus-Straße - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 10: Anfrage der SPD-Fraktion: Leerstand Oberrather Straße 10 - schriftlich beantwortet
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Schließung der Kita Eugen-Richter-Straße - schriftlich beantwortet
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Aktueller Stand zu ungenehmigten Flughafenparkplätzen auf unbefestigten Flächen - vertagt
+- TOP -: Anträge
+- TOP 13: Antrag der FDP-Fraktion: Einrichtung eines Zebrastreifens an der Fußgängerinsel auf der Oberrather Straße - vertagt
+- TOP 14: Antrag der CDU-Fraktion: Fußgängerfurten Thewissenweg - einstimmig beschlossen
+- TOP 15: Antrag der SPD-Fraktion: Wetterschutz - Unterstand für die Pump-Track-Anlage an der St. Franziskus-Str. 215 - einstimmig beschlossen
+- TOP 16: Antrag der SPD-Fraktion: Zebrastreifen "In den Diken" - abweichend beschlossen
+- TOP 17: Antrag der SPD-Fraktion: Gehwegqualität Rather Korso - zurückgezogen
+- TOP 18: Antrag der Fraktion BÜ90/Die Grünen: Ampelzeiten für den Fußverkehr auf der Oberrather Straße/Tevernstraße verlängern - vertagt
+- TOP -: Verwaltungsvorlagen
+- TOP 19: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der KGS Rather Kreuzweg - "Die große Nein-Tonne" & "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 20: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des GKG "Elf von Dörp" e. V. 1929 - 8. Seniorennachmittag - einstimmig beschlossen
+- TOP 21: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des VGS (Verein für Gesundheitssport & Sporttherapie) Düsseldorf e. V. - Anschaffung eines Defibrillators - vertagt
+- TOP 22: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Friedrich-Rückert-Gymnasiums - Gedenkstättenfahrt nach Auschwitz und Krakau - einstimmig beschlossen
+- TOP 23: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der Marine-Tambour-Korps Düsseldorf-Unterrath - Fußballturnier Schützenbruderschaft Unterrath - einstimmig beschlossen
+- TOP 24: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des RKG Rather Aape 1950 e. V. - Anschaffung eines Bühnenvorhangs - einstimmig beschlossen
+- TOP 25: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Bürgerverein Mörsenbroich 1928 e. V. - Veedelszoch 2025 - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der Jugend der Sankt-Franziskus-Xaverius Kirche - Mörsenbroicher Veedelszoch 2025 - einstimmig abgelehnt
+- TOP -: Informationsvorlagen
+- TOP 27: Weiterentwicklung des On Demand-Verkehrs flexy - zur Kenntnis genommen
+- TOP 28: Neukonzeption des Walderlebnispfades Aaper Wald - zur Kenntnis genommen
+- TOP 29: Ergebnis der Beratungen zur Aufstellung des Haushaltsplans 2025 - zur Kenntnis genommen
+- TOP 30: Parken auf dem Gehweg "Am Röttchen" - Vorlage BV6/189/2024 - zur Kenntnis genommen
+- TOP 31: Befestigung der Fußwegeverbindungen am Ratherbroicher Grenzgraben - Vorlage BV6/034/2024 - zur Kenntnis genommen
+- TOP 32: Baumfällungen im Stadtbezirk 6 ab der 2. Kalenderwoche 2025 - zur Kenntnis genommen
+- TOP 33: Sanierung öffentlicher Weg beim KGV Volkardey e.V. - Vorlage BV6/104/2024 - zur Kenntnis genommen
+- TOP 34: Geschwindigkeitsmessung "Am Röttchen" - Vorlage BV6/191/2024 - zur Kenntnis genommen
+- TOP 35: Sachstand der Renaturierung des Kittelbachs - Retentionsraum schaffen und Artenschutz fördern - Vorlage - zur Kenntnis genommen
