@@ -1,0 +1,151 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2025-01-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8646845
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8646845
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Belgradstraße 81, Genehmigung des Nutzer*innenbedarfsprogramms (Antwortschreiben des Referats für Bildung und Sport auf Stellungnahme des BA, vgl. TOP B 2.1 11/24)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Mobil und sicher e.V. für eine Sozialraumkarte vom 16.12.2022 bis 31.03.2023
+- TOP 3.2.2.: Mittagsbetreuung 5 am Ackermannbogen, Gertrud-Bäumer-Schule e.V. für das Theaterprojekt „Friedliches Miteinander“ vom 01.bis 30.11.2024
+- TOP 3.2.3.: Eltern-Kind-Initiative Stadtpiraten e.V. für die Anschaffung eines Wärmepumpentrockners und eines Staubsaugers
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 3.3.2.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen in der Belgradstraße 81 im 4. Stadtbezirk Schwabing-West Genehmigung des Nutzer*innenbedarfspogramms
+- TOP 3.3.3.: Mehrjahresinvestitionsprogramm (MIP) 2024 - 2028 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff 2. Stellungnahmen der Bezirksausschüsse
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Dienststellenverständigung Kölner Platz 1, Haus 47, Interimspavillon Schule für Kranke
+- TOP 3.4.2.: Mädchen an den Ball 2026 im Bezirk 4 Schwabing West
+- TOP C: Bauen und Wohnen
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Römerstr. 1: Nutzungsänderung Rückgebäude Büroflächen in Wohnen
+- TOP 2.2.: Agnesstr. 10: Anbau von 5 Balkonen auf der Ostseite mit Notleiter
+- TOP 2.3.: Belgradstr. 109: Neubau eines Wohnhauses mit Mobilitätskonzept (32 Wohneinheiten) mit Café und Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2022-2189-22
+- TOP 2.4.: Bauerstr. 37: ÄNDERUNGSANTRAG zu 1.2-2024-2554-22 - Abbruch und Neubau größerer Balkone sowie Ergänzung eines Balkons im 1.OG
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Haus in der Herzogstraße 86 zu sozialem Ertragswert erwerben Antrag Nr. 20-26 / A 04947 von der Die Linke / Die PARTEI Stadtratsfraktion München vom 21.06.2024 Ankauf des Anwesens Herzogstr. 86 durch die Stadt Empfehlung Nr. 20-26 / E 02022 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 18.06.2024
+- TOP 3.2.2.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 3.2.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2024 – 2028 mit verbindlicher Planung für 2029 für das Baureferat Ergänzende Konsolidierungsvorschläge der Jahre 2025 – 2027 Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff.
+- TOP 3.2.4.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Baulisten Vorbescheide KW 49 bis KW 02 und Erstantragsverfahren KW 51 bis KW 02
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Jahresbericht 2024 „Erhaltungssatzungen in München“
+- TOP D: Mobilität und Verkehr
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Neuer Zebrastreifen bzw. Verkehrshinweis beim Knotenpunkt Karl-Theodor-Str. und Hiltenspergerstr.
+- TOP 1.2.: Bürger: Parken auf dem Gehweg Herzogstraße/Friedrich-Loy-Straße
+- TOP 1.3.: Bürgerin: Antrag auf Einrichtung von Fahrrad- und Lastenradabstellplätzen vor den Kindergärten in der Angererstraße 19 und 21 (Stellungnahme auf Schreiben des BA, vgl. TOP D 1.1 12/24)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Konsequente Ahndung von Parkverstößen
+- TOP 2.2.: Fahrradabstellplätze in der Düsseldorfer/ Prinz-Eugen-Straße (Anhörung zum Umsetzungsvorschlag des Baureferats, vgl. TOP D 1.5 07/24)
+- TOP 2.3.: Projektplangenehmigung für den barrierefreien Umbau einer Bushaltestelle in der Herzogstraße, Haltestelle Pündterplatz
+- TOP 2.4.: Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen (Priorisierung der wichtigsten Vorgänge durch die BAs)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Erneuerung der Radwegmarkierung im Bereich Bonner Platz (Antwortschreiben des Baureferats; vgl. TOP D 1.1 11/24)
+- TOP 3.1.2.: Beheizung von Bussen und Trambahnen (Antwortschreiben der MVG; vgl. TOP A 3.2 12/24)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Mildred-Scheel-Bogen 64 auf gegenüber: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze und Lastenradstellplätze
+- TOP 3.2.2.: Hohenstaufenstraße 8 und Habsburgerstraße 3 Seite Hohenstaufenstraße: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 3.2.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Herzogstr. 61
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Baumaßnahmen der SWM vom 03.12.2024 bis 14.01.2025
+- TOP 3.3.2.: Kanalsanierungsmaßnahme Neuhausen-Nymphenburg, Milbertshofen - Am Hart, Schwabing-West und Schwabing-Freimann (Inspektionsgebiete 1036-07, 1059-42)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Haushalt 2025 des Mobilitätsreferats • Produkte • Ziele • Haushaltssicherungskonzept (HSK) • Teilergebnis- und Teilfinanzhaushalt
+- TOP 3.4.2.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Einbahnregelung Hohenzollernstr. 46 (Antwort des Mobilitätsreferats auf die Anfrage eines Bürgers)
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 0.: Gäste im Unterausschuss
+- TOP 0.1.: Vorabinformation der Telekom zum Glasfaserausbau
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Krähenplage und ihre Folgen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Zentnerstr. 39: Antrag auf Fällung einer Robinie
+- TOP 2.1.2.: Tengstr. 16: Antrag auf Fällung einer Robinie
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Regionaler Planungsverband München (RPV), Ausweisung von Vorranggebieten für Windenergie (Vorabeinbindung der Bezirksausschüsse)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Lärmaktionsplan 2024 – Antwortschreiben des RKU zu den Stellungnahmen der Bezirksausschüsse (vgl. TOP E 2.1.1 09/24)
+- TOP 3.1.2.: Baumpflanzungen in der Rankestraße (Antwortschreiben des Baureferats auf eine Nachfrage)
+- TOP 3.1.3.: Antwortschreiben des Baureferats zur Anfrage des BA bezüglich der Finanzierung von Baumpflanzungen
+- TOP 3.1.4.: Anträge zum Elisabethplatz (Antwortschreiben des Mobilitätsreferats, vgl. TOP E 1.2 12/24)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällung eines Spitzahorns Erich-Kästner-Str. 43
+- TOP 3.2.2.: Fällung von fünf Eschen Rümannstr. 53 - 57
+- TOP 3.2.3.: Fällung eines japanischen Ahorns und Veränderung eines Ahorns Winzererstr. 134b - 140
+- TOP 3.2.4.: Meldung von Baumfällungen und/oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der Bezirksausschusssatzung
+- TOP 3.2.5.: Fällung eines Gefahrenbaums Kleingartenanlage NW 6, Schleißheimerstr. 280b
+- TOP 3.2.6.: Fällung einer Linde und einer Weide Ackermannstr. 11 - 15
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Olympiapark München; Bewerbungsverfahren zur Aufnahme in die UNESCO-Welterbeliste; Deutsche Vorschlagsliste (Tentativliste) für die Nominierung; Aktueller Zwischenstand
+- TOP 3.3.2.: Perspektive München - Handlungsräume der Stadtentwicklung Sachstand und Weiterentwicklung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Verlängerung der Ausnahmezulassung bis zum 31.12.2025 für die Mülleinsammlung Partie 01-059 in der Barbarastraße, Elisabethstraße, Winzererstraße, Heßstraße, Infanteriestraße und Schwere-Reiter-Straße
+- TOP 3.4.2.: Verlängerung der Ausnahmezulassung bis zum 31.12.2025 für den Betrieb von fünf Müllsammelfahrzeugen im regulären Betrieb und zwei Müllfahrzeugen in Ausnahmefällen werktags ab 6:00 Uhr im Stadtgebiet München
+- TOP 3.4.3.: Ausnahmegenehmigung zur Errichtung und Belassung eines Hochbeets am Elisabethpl. 3 vom 01.01.2025 - 31.12.2025
+- TOP 3.4.4.: Aktueller Stand der Pläne für die Toilette am Hohenzollernplatz
+- TOP F: Kultur und Wirtschaft
+- TOP 0.: Gäste im Unterausschuss
+- TOP 0.1.: Sprecher des Elisabethmarkts zur aktuellen Situation der Markthändlerinnen und Markthändler
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget CultureClouds e.V. Rampenlichter DemokrARTie vom 20.01. - 31.12.2025 4.500,00 Euro, Az.: 0262.0-4-0545
+- TOP 2.1.2.: (E) Stadtbezirksbudget Theater Perlach e.V. Karussell (AT), Mai – September 2025 4.640,00 Euro, Az.: 0262.0-4-0549
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: „Kim’s Sushi“ Herzogstr. 91: Genehmigung einer Freischankfläche (Nachholung des BA-Beschlusses wegen Corona)
+- TOP 2.3: Veranstaltungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: Initiative „Fast Fashion“ für das Fast-Fashion Tanztheater vom 28.09. – 09.10.2024
+- TOP 3.2.2.: Initiative 84 GHz Raum für Gestaltung für „Kunst im Karrée 2024 - Offene Ateliers in Schwabing und Maxvorstadt“ vom 12. bis 14.07.2024
+- TOP 3.2.3.: MORGEN e.V. (Netzwerk Münchner Migrantenorganisationen) für das MORGEN Kulturfestival am 30.06.2024
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Filmaufnahmen für die Produktion „Game In“ am 03.01.2025 im Luitpoldpark
+- TOP 3.3.2.: Jahresgenehmigung „Aktenzeichen XY … ungelöst“
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Kleingaststätte „Saigon Social“, Elisabethstr. 4
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Tira Tardi“, Kurfürstenstr. 41
+- TOP 3.4.3.: Café (ehemalig Speiseeiswirtschaft) „Cafe Bar Amiri" (ehemalig „Funnygelo“), Hohenzollernstr. 154
+- TOP 3.4.4.: Schank- und Speisewirtschaft „Jadou“ (ehemalig „El Mirador“), Clemensstr. 83
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Grünanlage Petuelpark Nähe Barlachstraße 36: Fahrradsicherheitscheck am 27.01.2025 (Eilentscheidung)
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 – 2028 (Entscheidungsvorlage über die Wünsche und Anregungen der BAs von April 2024 für die Fachausschüsse)(Antwort der Stadtkämmerei auf Schreiben des BA)
+- TOP G.2.: Zukunft gestalten im Quartier (ZiQ); Unterstützung bei der Quartiersauswahl durch die Erfahrungen und Einschätzung der Bezirksausschüsse
+- TOP G.3.: Budgetmittel des BA 4 für das Jahr 2025 aus dem Stadtbezirksbudget
+- TOP H: Termine
