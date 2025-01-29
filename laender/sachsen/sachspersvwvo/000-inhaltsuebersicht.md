@@ -1,7 +1,8 @@
+## Verordnung der Sächsischen Staatsregierung zu den Wahlen nach dem Sächsischen Personalvertretungsgesetz (Sächsische Personalvertretungswahlenverordnung – SächsPersVWVO)
 # Inhaltsübersicht
 Teil 1 Wahl des Personalrats
 Abschnitt 1 Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wahl
-§ 1 Wahlvorstand, Wahlhelfer
+§ 1 Wahlvorstand, Wahlhelferinnen und Wahlhelfer
 § 2 Feststellung der Wahlberechtigten, Wählerverzeichnis
 § 3 Einsprüche gegen das Wählerverzeichnis
 § 4 Vorabstimmungen
@@ -22,17 +23,17 @@ Abschnitt 1 Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wah
 § 19 Anordnung der Briefwahl
 § 20 Feststellung des Wahlergebnisses
 § 21 Wahlniederschrift
-§ 22 Benachrichtigung der gewählten Bewerber
+§ 22 Benachrichtigung der gewählten Bewerberinnen und Bewerber
 § 23 Bekanntmachung des Wahlergebnisses
 § 24 Aufbewahrung der Wahlunterlagen
 Abschnitt 2 Wahlverfahren bei Listenwahl
 § 25 Voraussetzungen, Stimmzettel, Stimmabgabe
-§ 26 Ermittlung der gewählten Gruppenvertreter bei Gruppenwahl
-§ 27 Ermittlung der gewählten Gruppenvertreter bei gemeinsamer Wahl
+§ 26 Ermittlung der gewählten Gruppenvertreterinnen und Gruppenvertreter bei Gruppenwahl
+§ 27 Ermittlung der gewählten Gruppenvertreterinnen und Gruppenvertreter bei gemeinsamer Wahl
 Abschnitt 3 Wahlverfahren bei Personenwahl
 § 28 Voraussetzungen, Stimmzettel und Stimmabgabe bei Vorliegen einer Vorschlagsliste
-§ 29 Ermittlung der gewählten Bewerber
-§ 30 Voraussetzungen, Stimmzettel und Stimmabgabe bei Wahl eines Personalratsmitglieds oder eines Gruppenvertreters
+§ 29 Ermittlung der gewählten Bewerberinnen und Bewerber
+§ 30 Wahl eines Personalratsmitglieds, einer Gruppenvertreterin oder eines Gruppenvertreters
 Teil 2 Wahl der Stufenvertretungen und des Gesamtpersonalrats
 Abschnitt 1 Wahl des Bezirkspersonalrats
 § 31 Anzuwendende Vorschriften
@@ -51,9 +52,10 @@ Abschnitt 2 Wahl des Hauptpersonalrats
 § 43 Durchführung der Wahl nach Bezirken
 Abschnitt 3 Wahl des Gesamtpersonalrats
 § 44 Anzuwendende Vorschriften
-Teil 3 Wahl der Jugend- und Auszubildendenvertretung
+Teil 3 Wahl der Jugend- und Auszubildendenvertretung sowie Referendariatsräte
 § 45 Vorbereitung und Durchführung der Wahl
 § 46 Wahl der Jugend- und Auszubildendenstufenvertretung
+§ 47 Wahl der Referendariatsräte
 Teil 4 Sonstige Vorschriften, Schlussbestimmungen
-§ 47 Berechnung von Fristen
-§ 48 Inkrafttreten und Außerkrafttreten
+§ 48 Berechnung von Fristen
+§ 49 (Inkrafttreten und Außerkrafttreten)
