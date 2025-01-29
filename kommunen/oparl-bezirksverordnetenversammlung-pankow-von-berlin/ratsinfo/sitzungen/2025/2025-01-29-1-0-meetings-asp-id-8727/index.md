@@ -1,0 +1,80 @@
+# 28. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2025-01-29T17:30:00+01:00
+- Ende: 2025-01-29T21:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8727
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8727
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=323396
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Benennung Ashkelon-Platz und Aufstellung Hinweistafel - beantwortet
+- TOP 1.5.2: Katastrophenschutz Leuchttürme - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.9: Nachwahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Schule und Sport der Bezirksverordnetenversammlung für die IX. Wahlperiode für die Fraktion Bündnis90/ Die Grünen - gewählt
+- TOP 1.10: Bebauungsplan 3-53 für das Grundstück Hansastraße 173 und eine Teilfläche des Flurstücks 199 der Gemarkung Weißensee, Flur 253, im Bezirk Pankow, Ortsteil Weißensee (KGA Hansastraße) - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Nachberufung eines beratenden Mitglieds für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die IX. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Förderprogramm Nachhaltige Erneuerung - überwiesen
+- TOP 1.13: Für eine zukunftsfähige Stadtentwicklung im Norden von Pankow: das Kiezgebiet - überwiesen
+- TOP 1.14: Keine "Bärenhitze" in Pankow – mit Abkühlung durch Wasserwände - in der BVV abgelehnt
+- TOP 1.15: Integration durch Bildung. Gezielte Werbung in Flüchtlingseinrichtungen für freie Kitaplätze in Pankow. - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Kostenerstattungen in den Eingliederungshilfen nutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Zurück zur Prävention - Kooperation mit Krankenkassen erneuern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Nie wieder ist jetzt. Demokratie stärken, Antisemitismus entschieden entgegentreten I - Gründung eines Bündnisses gegen Antisemitismus in Berlin-Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Wahl von Bürgerdeputierten in den Partizipations- und Integrationsausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.21: Leben retten! Verbesserung der Notarztversorgung im Pankower Norden - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Nutzer*innen beteiligen - Sozialräumliche Öffnung von Schulen stärken und ganzheitlich evaluieren - überwiesen
+- TOP 1.23: Ausweitung der Tempo 30 Zone vor der Grundschule in Rosenthal - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Strandbad Weißensee bei der Bewältigung der erhöhten Grundsteuer unterstützen - überwiesen
+- TOP 1.25: Kostendeckende Gebühren in der Parkraumbewirtschaftung - überwiesen
+- TOP 1.26: Am Multifunktionsbad Pankow festhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Kulturgeschichte sichtbar machen - Umbenennung der Straße 76 in Französisch Buchholz in Bärbel Wachholz Straße - überwiesen
+- TOP 1.28: Entwicklung der Neuen Stadtquartiere in Pankow nicht durch Haushaltseinsparungen gefährden! - überwiesen
+- TOP 1.29: Kostenlose Mieterberatung des Bezirks stärken und bekannter machen - überwiesen
+- TOP 1.30: Überdachung der Bushaltestelle Binzstraße/Prenzlauer Promenade - überwiesen
+- TOP 1.31: Mehr Sicherheit für unsere Kinder - Bahnhofstraße in Karow entschleunigen - überwiesen
+- TOP 1.32: Insolvenzen von hilfesuchenden Antragsstellern beim Amt für Soziales abwenden – neue Wege aus der Krise beschreiten - in der BVV abgelehnt
+- TOP 1.33: Straßenbahn M1 beschleunigen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: vertagte Drucksachen aus der 27. BVV - (offen)
+- TOP 2.1.1: Bepflanzung von Gebäuden und Hausfassaden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.2: Erste Schritte zur Wohnumfeldverbesserung im Sanierungsgebiet Langhansstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.3: Sportplatz- und Hallenzeiten online einsehen und buchen - vertagt
+- TOP 2.1.4: Barrierefreies Standesamt - vertagt
+- TOP 2.1.5: Sichere Querung über den Karower Damm in Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.6: Heidekrautbahn in überwiegendem öffentlichen Interesse - vertagt
+- TOP 2.1.7: S-Bahnhof Schönerlinder Straße - vertagt
+- TOP 2.1.8: Kofinanzierung Neubau JFE Maxim - vertagt
+- TOP 2.2: Mobilitätsstudie des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Entwicklung des Gewerbegebietes Pankow-Nord - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Sicher durch die Mühlenstraße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Pankow erklärt den Klimanotstand - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Orientierung für Menschen mit Sehbehinderungen im Bezirksamt verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Hitzeresistente Infrastruktur aufbauen – vulnerable Gruppen schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Roadmap zum Ausbau von Solarenergie in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Miteinander des Fuß- und Radverkehrs am S-Bahnhof Prenzlauer Allee gewährleisten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Pilotprojekt nutzen - Freibad Pankow ganzjährig für Bewegungs- und Sportangebote öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Verkehrssicherheit auf der Brücke der Bucher Straße in Richtung Französisch Buchholz erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Schulwegsicherheit für die Kinder der 49. Grundschule in der Rennbahnstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Gelder für neue Trinkwasserbrunnen in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Benennung einer öffentlichen Grünanlage im Ortsteil Niederschönhausen in „Rapoport Park“ - vertagt
+- TOP 2.15: Benennung eines öffentlichen Platzes im Ortsteil Prenzlauer Berg in „Marion-Seelig-Platz“ - vertagt
+- TOP 2.16: Benennung einer öffentlichen Grünanlage im Ortsteil Prenzlauer Berg in „Emmi-und Wilhelm-Blank-Platz“ - vertagt
+- TOP 2.17: Bebauungsplan 3-53 für das Grundstück Hansastraße 173 und eine Teilfläche des Flur-stücks 199 der Gemarkung Weißensee, Flur 253, im Bezirk Pankow, Ortsteil Weißensee (KGA Hansastraße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Verteilung der Erträge der Sammelstiftung Kreuzberg 2025 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.19: Umbenennung der Stichstraße Eberswalder Straße im Ortsteil Prenzlauer Berg in „Emilie-Mosse-Straße“ - vertagt
+- TOP 2.20: Bericht über den Stand der geplanten, eingewilligten und eingegangenen Verpflichtungen und über die Auflösung der Pauschalen Minderausgaben in 2024 - vertagt
