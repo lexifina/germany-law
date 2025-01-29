@@ -1,3 +1,4 @@
-# Verordnung des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz über die Landesschiedsstelle gemäß § 111b Absatz 5 des Fünften Buches Sozialgesetzbuch (Sächsische Landesschiedsstellenverordnung Rehabilitation – SächsLSchiedRehaVO)
+# Verordnung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt über die Landesschiedsstelle gemäß § 111b Absatz 5 des Fünften Buches Sozialgesetzbuch (Sächsische Landesschiedsstellenverordnung Rehabilitation – SächsLSchiedRehaVO)
 Vom 7. Januar 2015
+Rechtsbereinigt mit Stand vom 29. Januar 2025
 Aufgrund von § 111b Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung – (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), das zuletzt durch Artikel 5 des Gesetzes vom 23. Dezember 2014 (BGBl. I S. 2462) geändert worden ist, in Verbindung mit § 4 Absatz 2 des Sächsischen Gesetzes zur Ausführung des Sozialgesetzbuches vom 6. Juni 2002 (SächsGVBl. S. 168), das zuletzt durch Gesetz vom 2. April 2014 (SächsGVBl. S. 230) geändert worden ist, wird verordnet:
