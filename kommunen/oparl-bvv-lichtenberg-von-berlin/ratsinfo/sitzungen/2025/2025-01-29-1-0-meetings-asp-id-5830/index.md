@@ -1,0 +1,56 @@
+# 20. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-01-29T19:00:00+01:00
+- Ende: 2025-01-29T22:00:00+01:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5830
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5830
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=415692
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Protokollbestätigung - erledigt
+- TOP 3: Fragestunde und Bürger:innenanliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: Überwiesene Drucksachen - (offen)
+- TOP 5.1: Schnelle Nutzung des Grundstücks Gotlindestraße/Siegfriedstraße ermöglichen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.2: Stadtplatz Frankfurter Allee - mit Änderungen im Ausschuss beschlossen
+- TOP 5.3: Beleuchtung für den Rudolf-Seiffert-Park - vertagt
+- TOP 5.4: Operation Prozessoptimierung: Bürger*innen auf Mission zur Verwaltungsverbesserung! - im Ausschuss abgelehnt
+- TOP 5.5: Spielplatzpatenschaften auch in Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 5.6: Lichtenberg als leuchtendes Vorbild – Drohnenshow an Silvester - im Ausschuss abgelehnt
+- TOP 5.7: Nachhaltige Lösungen für die Rattenproblematik - zurückgezogen
+- TOP 5.8: Einen barrierefreien Bereich neben Sitzbänken berücksichtigen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.9: Eine Halle für Skaterhockey in Hohenschönhausen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.10: Wege zur Schule am Tierpark kurzfristig begradigen und Vorplatz neu gestalten - mit Änderungen im Ausschuss beschlossen
+- TOP 5.11: Regenentwässerung Siedlung Wartenberg – Verkehrssicherungspflicht gewährleisten - mit Änderungen im Ausschuss beschlossen
+- TOP 5.12: Inklusion sicherstellen: Räume für soziale Träger in der Geflüchtetenunterkunft - mit Änderungen im Ausschuss beschlossen
+- TOP 5.13: Eine Jugendfreizeiteinrichtung auf dem Gelände der Gartenarbeitsschule ab 2026 - im Ausschuss abgelehnt
+- TOP 5.14: Kunst im Park - vertagt
+- TOP 5.15: Spraydosen-Schmu: Saubere Schilder für Lichtenberg! - mit Änderungen im Ausschuss beschlossen
+- TOP 5.16: Gehwege reparieren statt Schilder "Gehwegschäden" - im Ausschuss abgelehnt
+- TOP 5.17: Einen zweiten Standort für die Gartenarbeitsschule in Herzberge - mit Änderungen im Ausschuss beschlossen
+- TOP 5.18: Die Parks beim Namen nennen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.19: Panchina Rossa - eine rote Parkbank als Mahnmal für Femizide und Gewalt an Frauen - vertagt
+- TOP 5.20: Fußgängerrampe für den Rheinsteinpark - vertagt
+- TOP 5.21: Schulhof entstauben, Boden aufwerten in der Oberseeschule - mit Änderungen im Ausschuss beschlossen
+- TOP 5.22: Gutspark Falkenberg aufwerten: Pflege, Barrierearmut und Sanierung des Gutsteichs sicherstellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.23: Die Margaretenhöhe im Fokus: Renaturierung voranbringen, ÖPNV-Anschluss ermöglichen und "Park-and-Ride" einrichten - vertagt
+- TOP 5.24: Maßnahmen zur umfassenden Verbesserung der Infrastruktur und Verkehrssicherheit im Wohnquartier "Mein Falkenberg" - vertagt
+- TOP 5.25: Der (Amateur-) Musik und Kunstschaffenden eine Bühne geben - Die Freilichtbühne im Stadtpark Lichtenberg wetterfest machen - vertagt
+- TOP 5.26: Ein Frauenzentrum für FLINTA* in Lichtenberg! - mit Änderungen im Ausschuss beschlossen
+- TOP 5.27: Bäume für Fennpfuhl Ost - im Ausschuss abgelehnt
+- TOP 5.28: Klassenfahrten für Lichtenberger Schülerinnen und Schüler retten! - im Ausschuss abgelehnt
+- TOP 5.29: Mosaike in der Bornitzstraße retten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.30: Gehweg in der Paul-Junius-Straße - Lücke schließen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.31: Den Trimm-Dich-Pfad im Quartierspark Rosenfelder Ring noch vor Beginn der Bauarbeiten umsetzen - vertagt
+- TOP 5.32: Den Gehweg im Grafenauer Weg instand halten! - mit Änderungen im Ausschuss beschlossen
+- TOP 5.33: Ferienschwimmen in der Schwimmhalle der Carl-von-Linné-Schule ermöglichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Sondermittel - (offen)
+- TOP 6.1: Sondermittel für den 28. Hohenschönhauser Gartenlauf - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Sonstiges - im Ausschuss abgelehnt
