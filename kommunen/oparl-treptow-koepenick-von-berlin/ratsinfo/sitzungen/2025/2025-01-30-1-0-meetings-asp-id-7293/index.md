@@ -1,0 +1,101 @@
+# 31. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-01-30T16:30:00+01:00
+- Ende: 2025-01-30T20:18:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7293
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7293
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=442621
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-28 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Partnerstadt Cajamarca bei Neugestaltung des Umfelds des Bahnhofs Schöneweide und des Cajamarcaplatzes berücksichtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Querungshilfe auf dem Müggelheimer Damm / Ecke Ludwigshöheweg errichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Berücksichtigung der freizeitorientierten Bedürfnisse von Jugendlichen und Senioreninnen bzw. Senioren auf den Freiflächen bei der Bauausführung im Plangebiet des Bebauungsplans 9-34 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Sondermittel für das Katzengrabenfestkomitee (SM 16-37) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Uferweg für Radverkehr freigeben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Sondermittel für "Stadtorchester Cöpenick" (SM 17-12) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Bürgerinformation im Zuge von Gehölzpflegemaßnahmen oder Fällungen in Treptow-Köpenick optimieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Instandsetzung des Weges am Görlitzer Bahndamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Vorübergehende Nutzung des Gebäudes in der Willi-Sänger-Straße durch die Sophie-Brahe-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Krafttanken auf Parkbänken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Partizipative Verfahren bei der Schaffung von Fahrradabstellanlagen etablieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Sondermittel für den Verein "Köpenicker Kanusportclub e. V." (SM 22-11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Mitarbeiterinnen und Mitarbeiter des Bezirksamtes im Umgang mit Antisemitismus unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Tempolimit für die Tram in der Karl-Ziegler-Straße und der Hermann-Dorner-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Sanierung der Sanitäranlagen auf dem Waldfriedhof Oberschöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Änderung § 12 der Geschäftsordnung - vertagt
+- TOP 10.2: Bedarfsermittlung von Schulplätzen für autistische Kinder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Gegen Mietpreisüberhöhung (§ 5 WiStG) wirksam vorgehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: BVV Treptow-Köpenick: Vereinbarkeit von Mandat mit Familie und Beruf stärken - vertagt
+- TOP 10.5: Kostenlose Mieterberatung evaluieren und bedarfsgerecht ausbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Berliner Bezirke an den Erlösen der Stromproduktion von Windenergieanlagen beteiligen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Jährlicher Gedenk- und Aktionstag für die afrikanische Geschichte und Gemeinschaft im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Fuß- und Radweg Am Studio / Köpenicker Straße schnellstmöglich freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Verkehrssicherheit auf der Waltersdorfer Straße verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Mehr Sicherheit zwischen Kanal und Autobahn - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Illegale Autoplakatierung endlich beenden! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.12: Einrichtung von "Kiss-and-Ride"-Zonen für Elterntaxis prüfen – Sicherheit vor Schulen verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Errichtung einer öffentlichen Toilette neben dem Spielplatz Salvador-Allende-Straße / Uferpromenade – 12559 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Geschwindigkeitskontrollen durch das Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Errichtung einer öffentlichen Toilette neben dem Spielplatz Volkspark Köpenick / Müggelheimer Damm – 12559 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Lichtzeichenanlage An der Wuhlheide Ecke Rathenaustraße erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Skaterpark unter der Minna-Todenhagen-Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Weitere Forschungen zu Bordell-Baracken in der Königsheide - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Mülleimer am Europaradweg in Spindlersfeld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.20: Gewerbebrache Friedrichshagener Straße 9A endlich entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Aktionsplan und Bündnis gegen illegale Graffiti - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.22: "X" wieder für die Öffentlichkeitsarbeit des Bezirksamtes nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Neueinrichtung der Urnenwandgrabstätten in Form von Urnenwänden in der Abteilung B 1 auf dem landeseigenen Friedhof Baumschulenweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Neueinrichtung der Erdwahlgrabstätten in der Abteilung E 19 auf dem landeseigenen Friedhof Adlershof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Neueinrichtung der Urnenwahlgrabstätten in der Abteilung U 11 auf dem landeseigenen Friedhof Adlershof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Vorhabenbezogener Bebauungsplan 9-100 VE ("Kaserne Hessenwinkel") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.5: Bund-Länder-Förderprogramm "Lebendige Zentren und Quartiere (LZQ)" – Beschluss zum integrierten Stadtentwicklungskonzept Fortschreibung 2024 für die Förderkulisse Dörpfeldstraße - überwiesen
+- TOP 11.6: Belegungsplan für die Erdwahlgrabstätten in der Abt. B III auf dem landeseigenen Friedhof Altglienicke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.7: Bebauungsplan XVI-25 "Ost-West-Trasse 1. Abschnitt (Wuhlheide, Union Stadion)" und Bebauungsplan XVI-26 "Ost-West-Trasse 1. Abschnitt (Straße Am Bahndamm)" hier: Einstellung der Bebauungsplanverfahren - überwiesen
+- TOP 11.8: Benennung der 32. Schule (Grundschule), Stillerzeile 100, 12587 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Anwohnerinformation statt Ignoranz - überwiesen
+- TOP 12.2: Einwohnerversammlung zum Bauvorhaben "Kaserne Hessenwinkel" - überwiesen
+- TOP 12.3: Eingangsbestätigung für E-Mails versenden - überwiesen
+- TOP 12.4: Betonflächen an der Hilde-Archenhold-Brücke künstlerisch gestalten - überwiesen
+- TOP 12.5: BVV-Sitzung im Rathaus Köpenick - überwiesen
+- TOP 12.6: Änderung der mit Beschluss 0201/15/23, Drs. IX/0416 bestätigten Geschäftsordnung vom 04.11.2021 - vertagt
+- TOP 12.7: Mittelinsel in der Wegedornstraße - überwiesen
+- TOP 12.8: Gedenkstätte Köpenicker Blutwoche - überwiesen
+- TOP 12.9: Straßenbahnverbindung von Johannisthal nach Neukölln - überwiesen
+- TOP 12.10: Syrern die Rückkehr in die Heimat erleichtern - überwiesen
+- TOP 12.11: Querungshilfen für Fußgängerinnen und Fußgänger barrierefrei gestalten - überwiesen
+- TOP 12.12: Eine Regenbogenbank auch für Treptow-Köpenick - überwiesen
+- TOP 12.13: "Quartier der Vielfalt" statt vielfältige Risiken - überwiesen
+- TOP 12.14: Sanitäranlagen auf dem Friedhof Baumschulenweg sanieren - im Ältestenrat zurückgezogen
+- TOP 12.15: Zukunft Schulstraße im Blick - überwiesen
+- TOP 12.16: Kleingartenanlagen in Plänterwald erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Sicherstellung der Funktion von Dialogdisplays im Bezirk durch Bestandsaufnahme und Reparatur - überwiesen
+- TOP 12.18: Parkplätze unter dem Brückenbauwerk An der Wuhlheide legalisieren - überwiesen
+- TOP 12.19: Verbesserung der Akustik in den Räumlichkeiten des Rathauses Treptow - überwiesen
+- TOP 12.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.21: Sicherer zur Schule - Dialog-Display in der Dahmestraße - überwiesen
+- TOP 12.22: Temposchwellen rund um die Spielplätze auf der Griechischen Allee installieren - überwiesen
+- TOP 12.23: Sicherstellung der Funktion von Dialogdisplays im Bezirk durch Wartungsvertrag - überwiesen
+- TOP 12.24: 25 Jahre Treptow-Köpenick - überwiesen
+- TOP 12.25: Überholverbot von Fahrrädern durch Kraftfahrzeuge in der Griechischen Allee - überwiesen
+- TOP 12.26: Wohn- und Schrottboote in der Alten Spree Köpenick - überwiesen
+- TOP 13: Große Anfragen - (offen)
