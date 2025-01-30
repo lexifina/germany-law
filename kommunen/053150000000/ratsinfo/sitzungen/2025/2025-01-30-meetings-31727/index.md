@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-30T16:00:00+01:00
+- Ende: 2025-01-30T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31727
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31727
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Bestellung eines Schriftführers des Ausschusses Umwelt, Klima und Grün und seine Stellvertretung - ungeändert beschlossen
+- TOP -: B Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: C Präsentation Schaugewächshäuser im Botanischen Garten
+- TOP -: D Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "St.Sebastianus & Afra Schützenbruderschaft Köln von 2012 e.V" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Ratsgruppe Klima Freunde & Gut in der Sitzung des Ausschusses Klima, Umwelt und Grün am 25.04.2024 betreffend "St. Sebastianus & Afra Schützenbruderschaft Köln von 2012 e.V." - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betr.: "Gremberger Wäldchen – Ausbau der A4" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktionen - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Linke. betr.: "Erneuerung von zwei bzw. vier Brücken im Autobahnkreuz (AK) Köln-Gremberg 2025" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 31.10.2024 betrf. "Erneuerung von zwei bzw. vier Brücken im Autobahnkreuz (AK) Köln-Gremberg" (AN/1475/2024) - Kenntnis genommen
+- TOP 1.4: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bebauungspläne und Bäume - Verbindlich. Vergesslich. Köln." - zurückgestellt
+- TOP 1.5: Anfrage der Fraktion Die Linke. betr.: "Mit laufendem Motor die Luft verschmutzen - was tut die Stadt?" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke betreffend "Mit laufendem Motor die Luft verschmutzen - was tut die Stadt?" (AN/1477/2024) - Kenntnis genommen
+- TOP 1.6: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Renaturierung des Grundstücks an der Erftstraße" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 28.11.2024 (AN/1651/2024) betreffend „Renaturierung des Grundstücks an der Erftstraße“ - Kenntnis genommen
+- TOP 1.7: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Ausbreitung der Nil- und Kanadagänse in Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Ausschuss Klima Umwelt und Grün vom 30.01.2025 (AN/1674/2024) betreffend "Ausbreitung der Nil- und Kanadagänse in Köln" - Kenntnis genommen
+- TOP 1.8: Anfrage der FDP-Fraktion betr.: "Naturschutzwacht in Köln" - zurückgestellt
+- TOP 1.9: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Trinkbrunnen in Köln" - zurückgestellt
+- TOP 1.10: Anfrage der SPD-Fraktion betr.: "Hochwasserschutz in Köln-Dünnwald" - zurückgestellt
+- TOP 1.11: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Mitteilung zum Flughafen" - zurückgestellt
+- TOP 1.12: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Stand Klimaschutz Monitoring" - zurückgestellt
+- TOP 1.13: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Photovoltaik auf denkmalgeschützten Gebäuden" - zurückgestellt
+- TOP 1.14: Anfrage der CDU-Fraktion: Förderanträge für Photovoltaikanlagen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betr.: "Regenwassernutzung in Kölle" - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Linke betr.: "Netto Null Versiegelung" - zurückgestellt
+- TOP 2.3: Kölner Grüngürtelsystem: Weltkulturerbe jetzt! - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung zum Antrag der Ratsgruppe KLIMA FREUNDE & GUT in der Sitzung des AKUG vom 12.09.2024 "Kölner Grüngürtelsystem: Weltkulturerbe jetzt" (AN/1032/2024) - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - mit Änderungen empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 55 des Friedhofs Süd - ungeändert beschlossen
+- TOP 4.2.2: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf Flur 8 des Friedhofs Leidenhausen - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima-/Stadtverschönerungsmittel 2024 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Ehrenfeld 2. Vergabe - Kenntnis genommen
+- TOP 7.4: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.5: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - Kenntnis genommen
+- TOP 7.6: Stadtradeln 2025 - Kenntnis genommen
+- TOP 7.7: Geräusche unbekannter Herkunft in Dünnwald und Dellbrück - Sachstand - Kenntnis genommen
+- TOP 7.8: Mitteilung zu "Beschaffung von Allee-, Obst- und Forstbäumen " (AN/0245/2022) aus der Sitzung des Ausschuss Klima Umwelt und Grün 17.02.2022 - Kenntnis genommen
+- TOP 7.9: Sachstand zum Beschluss "Sofortentsiegelung" (AN/1365/2023) aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 24.08.2023 - Kenntnis genommen
+- TOP 7.10: Sachstand zu den Straßenbaumkonzepten für alle Kölner Stadtbezirke - Kenntnis genommen
+- TOP 7.11: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend „Dat Jeld es fott - Einsparungen transparent machen" (12.12.2024) - AN/1689/2024 Beantwortung für Dezernat Klima, Umwelt, Grün und Liegenschaften - Kenntnis genommen
+- TOP 7.12: Sachstand Bahnhof Belvedere - Fällung der Platane 1 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der Stadtarbeitsgemeinschaft Queerpolitik - Ausschuss Klima, Umwelt und Grün vom 31.10.2024 betr.: "Sachstand der Monoklärschlammverbrennungsanlage in Köln-Merkenich" - Kenntnis genommen
+- TOP 9: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
