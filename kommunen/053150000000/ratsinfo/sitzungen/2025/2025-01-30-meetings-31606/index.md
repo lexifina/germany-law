@@ -1,0 +1,80 @@
+# 31. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-01-30T16:00:00+01:00
+- Ende: 2025-01-30T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31606
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31606
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gedenkminute zum 80. Jahrestag der Befreiung von Auschwitz/Birkenau
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - geändert beschlossen
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024, Antrag Rat - Die Partei - Sache ist erledigt
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen, Antrag Rat - Die Linke - Sache ist erledigt
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt, Antrag Rat B90/Die Grünen - Sache ist erledigt
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt, Antrag Rat - Volt - Sache ist erledigt
+- TOP -: Ratsbürgerentscheid zur Ost-West-Achse, Antrag Rat - Thor Zimmermann - Sache ist erledigt
+- TOP 3.2: Aufhebung des Einleitungsbeschlusses (VEP) Arbeitstitel: Antonsgasse (neu) in Köln-Atstadt/Nord, Aufstellung und Einleitung eines VEP Arbeitstitel: Weltstadthaus in Köln-Altstadt/Nord, Frühzeitige Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 3.3: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) Arbeitstitel: "Koelnmesse/Messeverwaltung" in Köln-Deutz - ungeändert beschlossen
+- TOP 3.4: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert beschlossen
+- TOP 3.5: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ungeändert beschlossen
+- TOP 3.6: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.7: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 3.8: Ordnungsbehördliche Verordnung für das Jahr 2025 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 3.9: Ersatzpflanzungen an der Kragplatte hier: Auswahl der Baumart - Alternative beschlossen
+- TOP 3.10: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Altstadt - ungeändert beschlossen
+- TOP 3.11: Genehmigung Dringlichkeitsentscheidung - Masterplan Sauberkeit - ungeändert beschlossen
+- TOP 3.11.1: Masterplan Sauberkeit - erledigt durch Dringlichkeitsentscheidung TOP 3.11 (1674/2024/6) - Sache ist erledigt
+- TOP 3.12: Benennung der Jugendvertreter*innen in der Bezirksvertretung Innenstadt im ersten Halbjahr 2025 - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, Verkehrssituation am Ottoplatz in Deutz (Az.: 26/24 B) - geändert beschlossen
+- TOP -: ÄA zur Vorlage 1398/2024 Bürgereingabe gem. § 24 GO, Verkehrssituation am Ottoplatz in Deutz (Az.: 26/24 B), gem. Änderungsantrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: "Bushalteplatz entlang des Rheinufers vor den alten Messehallen" Az.: 193/23 - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr. "Schutz des denkmalgeschützten Platzes vor St. Gereon - Einfahrt von der Christophstraße verhindern" AZ 49/24 - geändert beschlossen
+- TOP -: ÄA zur Vorlage 2911/2024 "Schutz des denkmalgeschützten Platzes vor St. Gereon - Einfahrt von der Christophstraße verhindern" AZ 49/24, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe gemäß § 24 GO, betr.: „Satzung für den Erhalt des Belgischen Viertels“ Aktenzeichen 86/24 B - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Einrichtung einer umzäunten Hundespielwiese am Hansaplatz Ecke Adolf-Fischer-Str. / Gereonswall, gem. Antrag CDU, B90/Die Grünen und FDP - zurückgestellt
+- TOP 5.1.2: Umgestaltung Jean-Claude-Letist-Platz, gem. Antrag B90/Die Grünen, Die Linke und KlimaFreunde - zurückgestellt
+- TOP 5.1.3: Beleuchtung August-Sander-Park und Media Park, Antrag CDU - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Baumscheiben Bernhard Letterhaus Straße, gem. Antrag KlimaFreunde, SPD und Die Linke - ungeändert beschlossen
+- TOP 5.2.2: Aufstellung des Mahnmals "Friedensstatue" vor dem NS Dokumentationszentrums, gem. Antrag B90/Die Grünen, SPD, CDU, DIe Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.3: Geplante Fällungen von 37 Bäumen an der Betzdorfer Str. 2, 50679 Köln (TH Deutz Campus), Antrag B90/Die Grünen - endgültig zurückgezogen
+- TOP 5.2.4: Dringlichkeitsantrag Brüsseler Platz, gem. Antrag B90/Die Grünen, SPD, Die Linke und KlimaFreunde - nachträglich schriftlich eingestellt - - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.2: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.3: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.4: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Initiativen zum Severinsviertel, Anfrage der SPD - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Maßnahmen zum Lärmschutz am Brüsseler Platz - Kenntnis genommen
+- TOP 9.2: Berücksichtigung des Radverkehrskonzeptes bei der Generalinstandsetzung des Perlengraben - Kenntnis genommen
+- TOP 9.3: 2. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zur Bürgereingabe "Wiederherstellung des Bouleplatzes am Fort X - 139/23 B" (3286/2023) - Kenntnis genommen
+- TOP 9.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bewohnerparken Kreutzerstraße, Aktenzeichen 03/22 - Kenntnis genommen
+- TOP 9.6: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 9.7: Mitteilung zum Bürgerschreiben Umbenennung der Mohrenstraße - Kenntnis genommen
+- TOP 9.8: Mitteilung zur Bürgereingabe Bürgereingabe nach § 24 GO– Verbesserung der Tempo-30 -Zone in der Kleingedankstraße, Aktenzeichen 151/24 - Kenntnis genommen
+- TOP 9.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Lärmschutz am Aachener Weiher, Aktenzeichen 50/24 - Kenntnis genommen
+- TOP 9.10: Sachstandsberichte - Kenntnis genommen
+- TOP 9.11: Vorbescheid zur Aufstockung eines bestehenden Parkhauses um ein zweigeschossiges Bürogebäude - Kenntnis genommen
+- TOP 9.12: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 30.09.2024) - Kenntnis genommen
+- TOP 9.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.14: Sachstand zum Beschluss "Sofortentsiegelung" (AN/1365/2023) aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 24.08.2023 - Kenntnis genommen
+- TOP 9.15: Unterrichtung über Mehrkosten gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2024 bis 2027 zur Erweiterung des Wallraf-Richartz-Museums (WRM) & Fondation Corboud einschließlich Randbebauung - Kenntnis genommen
