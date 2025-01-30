@@ -1,0 +1,21 @@
+# Antrag der GRÜNEN-Fraktion auf Beschattung öffentlicher Plätze, insbesondere Spielplätze
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-387/2021 7. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-01-30
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZb_OhtGqIM2BlKrWo9TQ7-8
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3283
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der GRÜNEN-Fraktion auf Beschattung öffentlicher Plätze, insbesondere Spielplätze) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSCCi9kpnnG57PGJTYApZhvz2yxi-lmZTTtPYdxsAGod/Beschlussvorlage_VL-387-2021_7._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag GRÜNEN-Fraktion - Beschattung öffentlicher Plätze, insbesondere Spielplätze) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSKQubDTwFh4zUJvqut-hN-CTMqU5CvbbuZWQfkiqj16/Antrag_GRUeNEN-Fraktion_-_Beschattung_oeffentlicher_Plaetze-_insbesondere_Spielplaetze.pdf
+- Anlage: Beschlussvorlage (230427  E-Mail Hess. Umweltministerium - Klima-Richtlinie) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRXNuyrHcq9FvKNt5DI46xk-taFhhva3cMKSoU7tA8eL/230427__E-Mail_Hess._Umweltministerium_-_Klima-Richtlinie.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1018 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1032 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1103 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1127 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1240 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1276 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1319 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-22
