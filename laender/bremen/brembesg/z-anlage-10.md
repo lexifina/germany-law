@@ -1,20 +1,20 @@
 # Anlage 10 - Besoldungsordnung C
 Anlage 10
-Gültig ab 1. November 2024
+Gültig ab 1. Februar 2025
 Besoldungsordnung C
 Grundgehaltssätze
 (Monatsbeträge in Euro)
 Besoldungsgruppe | Erfahrungsstufe | Besoldungsgruppe |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  | 
-C 1 | 4.139,02 | 4.269,43 | 4.399,99 | 4.530,54 | 4.661,81 | 4.794,98 | 4.928,14 | 5.061,32 | 5.194,49 | 5.327,68 | 5.460,85 | 5.594,01 | 5.727,22 | 5.860,39 |  | C 1
-C 2 | 4.146,99 | 4.355,07 | 4.563,14 | 4.774,13 | 4.986,37 | 5.198,59 | 5.410,85 | 5.623,08 | 5.835,30 | 6.047,59 | 6.259,78 | 6.472,02 | 6.684,26 | 6.896,51 | 7.108,75 | C 2
-C 3 | 4.524,03 | 4.762,31 | 5.002,62 | 5.242,96 | 5.483,29 | 5.723,59 | 5.963,90 | 6.204,21 | 6.444,54 | 6.684,82 | 6.925,15 | 7.165,49 | 7.405,76 | 7.646,10 | 7.886,39 | C 3
-C 4 | 5.653,35 | 5.894,95 | 6.136,51 | 6.378,09 | 6.619,68 | 6.861,23 | 7.102,86 | 7.344,38 | 7.585,98 | 7.827,55 | 8.069,13 | 8.310,69 | 8.552,27 | 8.793,84 | 9.035,41 | C 4
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  | 
+C 1 | 4.290,09 | 4.425,26 | 4.560,59 | 4.695,90 | 4.831,97 | 4.970,00 | 5.108,02 | 5.246,06 | 5.384,09 | 5.522,14 | 5.660,17 | 5.798,19 | 5.936,26 | 6.074,29 |  | C 1
+C 2 | 4.298,36 | 4.514,03 | 4.729,69 | 4.948,39 | 5.168,37 | 5.388,34 | 5.608,35 | 5.828,32 | 6.048,29 | 6.268,33 | 6.488,26 | 6.708,25 | 6.928,24 | 7.148,23 | 7.368,22 | C 2
+C 3 | 4.689,16 | 4.936,13 | 5.185,22 | 5.434,33 | 5.683,43 | 5.932,50 | 6.181,58 | 6.430,66 | 6.679,77 | 6.928,82 | 7.177,92 | 7.427,03 | 7.676,07 | 7.925,18 | 8.174,24 | C 3
+C 4 | 5.859,70 | 6.110,12 | 6.360,49 | 6.610,89 | 6.861,30 | 7.111,66 | 7.362,11 | 7.612,45 | 7.862,87 | 8.113,26 | 8.363,65 | 8.614,03 | 8.864,43 | 9.114,82 | 9.365,20 | C 4
 Zulagen C-Besoldung (Monatsbeträge in Euro)
-Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil |  |  |  | 
+Dam Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil |  |  |  | 
 Bundesbesoldungsordnung C |  | Nummer 3 |  | Nummer 5 |  |  |  |  | 
-Vorbemerkungen |  |  | Die Zulage beträgt |  |  | wenn ein Amt ausgeübt wird |  |  | 
-Nummer 2 b | 107,84 |  |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*) |  | der Besoldungsgruppe R 1 | 205,54 |  | 
+Vorbemerkungen |  |  | Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*) |  | wenn ein Amt ausgeübt wird |  |  | 
+Nummer 2 b | 111,78 |  |  |  | der Besoldungsgruppe R 1 | 205,54 |  |  | 
  |  |  |  |  | der Besoldungsgruppe R 2 | 230,08 |  |  | 
  |  |  | für Beamte der |  |  |  |  |  | 
  |  |  | Besoldungsgruppe(n) |  | Besoldungsgruppe | Fußnote |  |  | 
