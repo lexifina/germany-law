@@ -1,0 +1,1 @@
+Auf Grund des Art. 3 Abs. 4 des Bayerischen Land- und Amtsarztgesetzes (BayLArztG) vom 23. Dezember 2019 (GVBl. S. 722, BayRS 2122-7-G) verordnet das Staatsministerium für Gesundheit und Pflege im Einvernehmen mit dem Staatsministerium für Wissenschaft und Kunst:
