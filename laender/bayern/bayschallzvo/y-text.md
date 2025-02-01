@@ -1,0 +1,1 @@
+Auf Grund des Art. 22 Abs. 1 des Landesstraf- und Verordnungsgesetzes (LStVG) – BayRS 2011-2-I-I, zuletzt geändert durch § 6 des Gesetzes vom 26. Juli 1997 (GVBl S. 323), erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
