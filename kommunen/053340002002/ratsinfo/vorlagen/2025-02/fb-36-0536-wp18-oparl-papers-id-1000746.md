@@ -1,0 +1,23 @@
+# Kommunale Wärmeplanung – Beschluss über die Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange am Planverfahren gemäß § 13 Abs. 2 Wärmeplanungsgesetz (WPG)
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 36/0536/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2025-02-03
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=1000746
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=1000746
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1285604&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000089 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000087 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000088 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000161 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000140 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000147 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000090 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000232 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000270 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=105
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000085 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=105
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000217 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000255 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=36
