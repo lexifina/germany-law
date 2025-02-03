@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-03T17:00:00+01:00
+- Ende: 2025-02-03T18:49:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31688
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31688
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der Volt-Fraktion betreffend „Sachstand Dienstvereinbarung Antidiskriminierung"
+- TOP -: Beantwortung einer schriftlichen Anfrage der Volt-Fraktion vom 02.12.2024: Sachstand Dienstvereinbarung Antidiskriminierung (AN/1671/2024) - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung zur Umsetzung des Beschlusses AN/0473/2023 – Nachhaltige Vergabe - Kenntnis genommen
+- TOP 4.2: Leitfaden zum Umgang mit der Anmietung von öffentlichen Räumen durch extremistische, rassistische und antisemitische Gruppen - Kenntnis genommen
+- TOP 4.3: Bericht für das 4. Quartal des Zentrums für Kriminalprävention und Sicherheit (ZKS) - Kenntnis genommen
+- TOP 4.4: Maßnahmen zum Lärmschutz am Brüsseler Platz, hier: Verwaltung stellt Maßnahmenkatalog nach Rechtskraft des Urteils des Oberverwaltungsgerichts NRW vor - Kenntnis genommen
+- TOP 4.5: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend "Dat Jeld es fott - Einsparungen transparent machen" (12.12.2024) - AN/1689/2024 Beantwortung für Dezernat Allgemeine Verwaltung und Ordnung - Kenntnis genommen
+- TOP 4.6: Ratsbeschluss vom 12.12.2024 zum Antrag AN/1689/2024 betreffend "Dat Jeld es fott - Einsparungen transparent machen" - Kenntnis genommen
+- TOP 4.7: Zweites Kölner Diskriminierungsmonitoring - Kenntnis genommen
+- TOP 4.8: Porzer Volksfeste 2025 - 2027 - Auswahlverfahren - Kenntnis genommen
+- TOP 4.9: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Gesundheitsausschusses vom 26.11.2024 (AN/1644/2024) betreffend "Auswirkungen des Drogenkonsumraums auf die Situation am Neumarkt" - zurückgestellt
+- TOP 4.10: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 31. Dezember 2024 - Kenntnis genommen
+- TOP 4.11: Stellenplan für die Jahre 2025/2026 - Kenntnis genommen
+- TOP 4.12: Tätigkeitsbericht 2024 Büro für Europa und Internationales - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend Flächendeckende Einführung von Bodycams und weitere Sicherheitsmaßnahmen bei KVB, Rettungsdienst und Ordnungsamt - zurückgestellt
+- TOP 6.2: Anfrage der Volt-Fraktion betreffend "Alternative Freifläche für Karneval 2025/2026"
+- TOP -: Beantwortung einer schriftlichen Anfrage der Volt-Fraktion betreffend "Alternative Freifläche für Karneval 2025/2026" - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der CDU-Fraktion hinsichtlich
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend „Die Funktionsfähigkeit des Kölner Taxigewerbes sicherstellen – Uber und andere Mietwagenanbieter stärker kontrollieren - geändert beschlossen
+- TOP -: TOP 8.1: Änderungsantrag zu AN/1573/2024 - ungeändert beschlossen
+- TOP 8.2: Antrag der Seniorenvertretung betreffend „Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen - zurückgestellt
+- TOP 8.3: Dringlichkeitsantrag der SPD-Fraktion betreffend „Brüsseler Platz: Geeignete und verhältnismäßige Lärmschutzmaßnahmen zur Sicherstellung der Nachtruhe einführen - geändert beschlossen
+- TOP -: TOP 8.3: Änderungsantrag zu AN/0027/2025 - ungeändert beschlossen
+- TOP -: Stellungnahme Dringlichkeitsantrag der SPD-Fraktion Brüsseler Platz - Kenntnis genommen
+- TOP 8.4: Antrag der FDP-Fraktion betreffend „Kartenzahlung bei städtischen Versteigerungen ermöglichen" - Sache ist erledigt
+- TOP -: Stellungnahme zum Antrag der FDP-Fraktion betreffend "Kartenzahlung bei städtischen Versteigerungen ermöglichen" - Kenntnis genommen
+- TOP 8.5: Antrag der Fraktion Klima Freunde & Gut betreffend Vermietung städtischer Räumlichkeiten an Parteien öffentlich machen" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - geändert beschlossen
+- TOP 10.2: Ordnungsbehördliche Verordnung für das Jahr 2025 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 10.3: Unterstützung des Hilfsdienstes für ehemalige Zwangsarbeiter*innen in Wolgograd für 2025-2027 - zurückgestellt
+- TOP 10.4: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ohne Votum behandelt
+- TOP 10.5: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2025 - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
