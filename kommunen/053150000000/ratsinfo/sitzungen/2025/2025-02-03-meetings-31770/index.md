@@ -1,0 +1,89 @@
+# 34. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-03T17:00:00+01:00
+- Ende: 2025-02-03T18:55:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31770
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31770
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Lichtsignalanlagen an der Venloer Straße rund um die Rochuskapelle, Aktenzeichen 149/24 - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - Sache ist erledigt
+- TOP 6.3: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - zurückgestellt
+- TOP 6.6: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Gefahr durch Rahmenbrüche bei Lastenrädern - zurückgestellt
+- TOP 6.8: Anfrage der SPD-Fraktion, betr,; Sachstand inklusive Fahrradwerkstatt im Bahnbogen Hüttenstraße - Sache ist erledigt
+- TOP 6.9: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - zurückgestellt
+- TOP 6.10: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Stand der Umsetzung der Entfernung von Hindernissen auf Geh- und Radwegen - zurückgestellt
+- TOP 6.11: Anfrage der SPD-Fraktion, betr.: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport - zurückgestellt
+- TOP 6.12: Anfrage von Elke Schroeder (Klima Freunde), betr.: Kostenexplosion barrierefreier Umbau von vier Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.13: Anfrage der CDU-Fraktion, betr.: Verbindungsweg zwischen Vogelsanger Straße und Meisenweg parallel zum Zeisig Weg und zur Eisenbahntrasse der DB in 50829 Köln Vogelsang - zurückgestellt
+- TOP 6.14: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Soziale Einrichtungen im Stadtbezirk - zurückgestellt
+- TOP 6.15: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand BPD Grundstück, ehem. Toyota Autohaus - zurückgestellt
+- TOP 6.16: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand Aurelis Grundstück, Am Alten Güterbahnhof (Ostspitze) - Sache ist erledigt
+- TOP 6.16.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen Betr. Sachstand Aurelis Grundstück, Am Alten Güterbahnhof - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzung Straßenbaumkonzept im Melatener Weg - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr,; Wohnraumzweckentfremdung in Ehrenfeld - zurückgestellt
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Konzeption für den Kulturbaustein auf dem Heliosgelände - zurückgestellt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Takustraße von Subbelrather Straße bis Iltisstraße - zurückgestellt
+- TOP 7.5: Anfrage der SPD-Fraktion, betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche AN/0769/2023 - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Nachhaltige Stadtentwicklung: Schaffung von Grünflächen auf Max Becker-Areal - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Entfernung der Halteverbotsschilder vor Subbelrather Straße 211-217 - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - zurückgestellt
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Nachhaltige Stadtentwicklung: Durchgehende Fuß- und Radwegtrasse auf Max Becker-Areal - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Zweiter Ausgang für U-Bahnhaltestelle „Akazienweg“ - geändert beschlossen
+- TOP 8.6: Antrag der CDU-Fraktion, betr.: Vogelsanger Straße im Abschnitt zwischen Wilhelm -Mauser-Straße und Vitalis Straße in Köln Ehrenfeld zur absoluten Halteverbotszone zu erklären. - geändert beschlossen
+- TOP -: Änderungsantrag von Bezirksvertreterin Pöttgen (FDP) zu TOP 8.6 - geändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Schulhöfe wieder öffnen! und Gemeinsamer Ersetzungsantrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion Die Linke/DIE PARTEI, CDU-Fraktion und Marlis Pöttgen (FDP) zu TOP 8.7, Sch - geändert beschlossen
+- TOP -: Gemeinsamer Ersetzungsantrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion Die Linke/DIE PARTEI, CDU-Fraktion, Marlis Pöttgen (FDP) - geändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Einbahnstraße Bertha-Sander-Str. - ungeändert beschlossen
+- TOP 8.9: Antrag der CDU-Fraktion, betr.: Behelfs- und Notfallstraße für die Schulen, Gewerbe- und Unterhaltungsbetriebe am Girlitzweg, dem Wasseramsel Campus Vogelsang in Köln Ehrenfeld (Vogelsang). - endgültig zurückgezogen
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Bürger*inneneingabe Herkulesstraße endlich umsetzen - ungeändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion, betr.: Einbahnstraße Erlenweg Bickendorf - geändert beschlossen
+- TOP -: Änderungsantrag von Bezirksvertreterin Pöttgen (FDP) zu TOP 8.11 - Sache ist erledigt
+- TOP 8.12: Antrag der SPD-Fraktion, betr.: Sichere Verkehrsführung im Gebiet Vitalisstraße/Girlitzweg/Widdersdorfer Straße und Teichrohrsängerweg - endgültig zurückgezogen
+- TOP 9: Entscheidungen
+- TOP 9.1: Genehmigung einer Dringlichkeitsentscheidung, betr.: Vergabe der bezirksorientierten Finanzmittel gemäß § 37 GO für das Jahr 2024 - ungeändert beschlossen
+- TOP 9.2: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 9.3: Baubeschluss für die provisorische Herstellung des Teichrohrsängerwegs zwischen Sporthallenzugang und Vitalisstraße - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Genehmigung einer Dringlichkeitsentscheidung, betr.: Masterplan Sauberkeit - ungeändert beschlossen
+- TOP 10.2: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - Alternative beschlossen
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024 - Sache ist erledigt
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen - Sache ist erledigt
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - Sache ist erledigt
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - Sache ist erledigt
+- TOP -: Ratsbürgerentscheid zur Ost-West-Achse - Sache ist erledigt
+- TOP 10.3: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - zurückgestellt
+- TOP -: Ergänzungsantrag der SPD-Fraktion zu TOP 10.3 - zurückgestellt
+- TOP 10.4: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert beschlossen
+- TOP 10.5: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 10.6: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Festbeleuchtung zur Ramadanzeit entlang der Venloer Straße - Kenntnis genommen
+- TOP 12.2: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - Kenntnis genommen
+- TOP 12.3: 2. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 12.4: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 12.5: Rochusstr. 145-147, Antrag auf Vorbescheid für Schulerweiterungsbau (Grundstück > 3.000m²) - Kenntnis genommen
+- TOP 12.6: Sachstand zum Baubeschluss für den Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe (1349/2020) - Kenntnis genommen
+- TOP 12.7: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.8: Zeitnahe Realisierung des Anschlusses Stolberger Str. an die Militärringstraße und Ertüchtigung des Knotens Militärring / Aachener Str. - Kenntnis genommen
+- TOP 12.9: Verkehrsversuch Einbahnstraße Venloer Straße - Kenntnis genommen
+- TOP 13: mündliche Anfragen
