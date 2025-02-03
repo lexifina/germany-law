@@ -1,0 +1,95 @@
+# 34.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-03T17:00:00+01:00
+- Ende: 2025-02-03T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32069
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32069
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Mülheim gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP -: Antrag auf Aktuelle Stunde der Fraktion DIE LINKE vom 02.02.2025 Wohnungssituation der Mieterinnen und Mieter der LEG Immobiliengesellschaft in Höhenhaus und anderen Veedeln des Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP -: Austausch mit Herrn Beigeordneten Ascan Egerer, Dezernat Mobilität
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Wege und Flächen im Jugendpark
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO NRW - Mülheimer Brücke: Fahrspuren nach Abschluss der Sanierung umwidmen, LKW-Verkehr sperren, rechts-/linksrheinische Anschlusspunkte neu gestalten, Az.: 59/24 - geändert beschlossen
+- TOP 2.2: Bürgereingabe nach § 24 GO - Radwege in Köln, Az.: 07/24 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung der Bezirksvertretung 9 vom 22.04.2024 (AN/0524/2024) betreffend "Aufstellen von Dixi-Toiletten und Installation einer Trinkwasserstelle im Böcking Park und in anderen Pa - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion BÜNDNIS /DIE GRÜNEN aus der Sitzung der BV9 vom 18.11.2024 („AN/1596/2024") betreffend „Wie konsequent werden Vorrangsschaltungen umgesetzt?" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage der Fraktion DIE LINKE in der Bezirksvertretung Mülheim aus der Sitzung vom 22.09.2021 (AN/1312/2022) betreffend "Rolltreppen am Wiener Platz – ein Quell des Unmutes und ewige Baustelle" - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer mündlichen Nachfrage der Fraktion DIE LINKE zur Beantwortung der Anfrage "Toilettensituation am Wiener Platz" (3957/2023) - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion zur Sitzung der Bezirksvertretung Mülheim vom - Kenntnis genommen
+- TOP 7.1.6: Beantwortung von mündlichen Nachfrage in der Bezirksvertretung Mülheim aus der Sitzung vom 04.11.2024 (2515/2024) betreffend "Sanierung Spielplatz Holsteinstraße/Teilbereich in Köln-Mülheim" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Inklusive Bildung und Schulwegsicherung an Schulen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.2: Förderschule Berliner Straße in Dünnwald - Nebenstelle Am Jungholz - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0002/2025 der SPD-Fraktion, der CDU-Fraktion und der FDP-Fraktion bezüglich der Nutzung der Nebenstelle Am Jungholz der Förderschule Berliner Straße - Kenntnis genommen
+- TOP 7.2.3: Leerstehende LEG Wohnungen in Köln-Höhenhaus - Kenntnis genommen
+- TOP 7.2.4: Aktueller Sachstand der Arbeiterhäuser an der Keupstraße/ Holweiderstraße - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE vom 20.01.2025 (AN/0086/2025) betreffend "Aktueller Sachstand der Arbeiterhäuser an der Keupstraße/Holweiderstr. in Köln-Mülheim und ihrer Bewohner*innen" - Kenntnis genommen
+- TOP 7.2.5: Abriss und Neubau durch die GAG Immobilien AG in Wohngebieten des Bezirks Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.6: Trennungen der KVB-Linien 3 und 4 - Kenntnis genommen
+- TOP 7.2.7: Fehlende durchgehende Fußwege im Bezirk - Kenntnis genommen
+- TOP 7.2.8: Situation auf der Guilleaumestraße/Ecke Frankfurter Straße - Kenntnis genommen
+- TOP 7.2.9: Straßenbäume und Leitungen - Kenntnis genommen
+- TOP 7.2.10: Dellbrück - Situation an St. Joseph / Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sicherheit im öffentlichen Verkehrsraum Höhenhaus und Holweide im Bereich Thuleweg, Höhenfelder Mauspfad, Wasserwerkstraße - ungeändert beschlossen
+- TOP 8.1.2: Verbreiterung Radweg Stammheimer Ufer Höhe Gymnasium Düsseldorfer Straße - ungeändert beschlossen
+- TOP 8.1.3: Kalk-Mülheimer Straße Bauminseln - ungeändert beschlossen
+- TOP 8.1.4: Befestigung und ganzjährige Nutzbarmachung des Verbindungsweges zwischen Lippeweg (Höhe Am Rosenmaar) und Mainweg in Höhenhaus - geändert beschlossen
+- TOP 8.1.5: Einrichtung eines Zebrastreifens auf dem Lippeweg in Höhenhaus - ungeändert beschlossen
+- TOP 8.1.6: Aufbringen von roten Bodenmarkierungen beim Übergang vom Fahrradweg auf die Fahrbahn und im Bereich des Verkehrskreisels sowie dessen Ausfahrten am Neurather Ring nahe des Kleingartenvereins Köln-Mülheim Ost e.V. - ungeändert beschlossen
+- TOP 8.1.7: Die dreckigste Unterführung Kölns - Bahnunterführung Sonderburger Str. - ungeändert beschlossen
+- TOP 8.1.8: Barrierefreies Gehwegparken im Stadtbezirk Müllheim - ungeändert beschlossen
+- TOP 8.1.9: 50 Prozent sozialer Wohnungsbau im Otto-Langen-Quartier - geändert beschlossen
+- TOP 8.1.10: Zweirichtungsverkehr in Einbahnstraßen konsequent durchsetzen - ungeändert beschlossen
+- TOP 8.1.11: Tempo 30 an der Waldecker Straße / Hertzstraße - ungeändert beschlossen
+- TOP 8.1.12: Umwandlung Parkplätze auf der Düsseldorfer Str. für Fahrräder und Roller der GGS Mülheimer Freiheit - ungeändert beschlossen
+- TOP 8.1.13: Wohnungssituation der Mieterinnen und Mieter der LEG Immobiliengesellschaft in Höhenhaus kurz, mittel- und langfristig verbessern und die bestehende Zweckentfremdung schnellstmöglich zu beenden - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Masterplan Sauberkeit - geändert beschlossen
+- TOP 9.1.2: Baubeschluss für die Generalinstandsetzung des Mainwegs zwischen Honschaftsstraße und Birkenweg sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 9.1.3: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - geändert beschlossen
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt
+- TOP -: Ratsbürgerentscheid zur Ost-West-Achse
+- TOP 9.2.2: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - geändert beschlossen
+- TOP 9.2.3: verschoben nach 10.2.8
+- TOP 9.2.4: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert beschlossen
+- TOP 9.2.5: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Wasserwerk in Holweide als Jugendzentrum, Aktenzeichen 115/24 - Kenntnis genommen
+- TOP 10.2.6: Fahrradfreundliche Anpassung der Aufpflasterungen auf der Düsseldorfer Straße - Testfläche - Kenntnis genommen
+- TOP 10.2.7: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 75501/02 Arbeitstitel: "Möhl-Areal in Köln-Dellbrück" - Kenntnis genommen
+- TOP 10.2.8: 2. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 10.2.9: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - zurückgestellt
+- TOP 10.2.10: Geräusche unbekannter Herkunft in Dünnwald und Dellbrück - Sachstand - Kenntnis genommen
+- TOP 10.2.11: Sachstandsmitteilung zu den von der Bezirksvertretung Mülheim priorisierten Straßenbaumaßnahmen - zurückgestellt
+- TOP 10.2.12: Verbesserung der Straßenoberfläche für den Radverkehr in der Straße "Am Pulverturm" (Mülheimer Hafen) - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
