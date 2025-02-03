@@ -1,0 +1,6 @@
+# TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+
+- Sitzung: 29. Sitzung des Betriebsausschusses Gebäudewirtschaft (2025-02-03)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/413093
