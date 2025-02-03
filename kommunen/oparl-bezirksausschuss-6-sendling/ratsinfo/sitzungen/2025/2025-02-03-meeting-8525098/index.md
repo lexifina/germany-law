@@ -1,0 +1,118 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-02-03T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525098
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525098
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 02.12.2024 und 07.01.2025
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Besetzung der Unterausschusssitze - Kultur und Freizeit - Planen – Bauen – Wohnen - Bildung und Soziales
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Sitzbänke auf dem Fußballplatz an der Valleystraße
+- TOP 2.2.: Parkplätze für die Alte Utting
+- TOP 2.3.: Geschwindigkeitskontrollen in der Plinganserstraße
+- TOP 2.4.: Geschwindigkeitskontrollen am Harras
+- TOP 2.5.: Müllablagerung im Bereich der Plinganserstraße 5-9
+- TOP 2.6.: Situation um den Quartiersplatz
+- TOP 2.7.: Tempo 30 in der Schäftlarnstraße
+- TOP 2.8.: Austausch der Abfallbehälter im Stadtbezirk
+- TOP 2.9.: Briefkasten der Deutschen Post an der Plinganserstraße 16
+- TOP 2.10.: Sicherung der Baustelle am Flauchersteg
+- TOP 2.11.: Schließung eines städt. Kindergartens
+- TOP 2.12.: Mechanische Absperrung für Sperrflächen in der Plinganserstraße
+- TOP 2.13.: Abbruch des Firmengebäudes in der Berlepschstraße 8
+- TOP 2.14.: Dauerlärm am Busparkplatz hinter Feierwerk
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Umgang mit hohen Grundwasserständen - Rechtlicher Rahmen, Verantwortlichkeiten und Handlungsmöglichkeiten der öffentlichen Hand Sitzungsvorlage Nr. 20-26 / V 1551
+- TOP 4.2.2.: Antrag auf Baumfällung vom 17.01.2025 auf dem Grundstück Hans-Preißinger-Straße 16
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Sendlinger Loch – bezahlbares Wohnen und Badespaß jetzt; Erwerb des Grundstücks zum bezahlbaren Wohnungsbau in kommunaler oder genossenschaftlicher Hand BV Empfehlung Nr. 20-26 / E 01653 - Zwischenmitteilung -
+- TOP 4.3.2.: Reutberger Straße – Entscheidung über Projektplanung Querungssituation im Zuge des Schulneubaus
+- TOP 4.3.3.: Aktuelle Hochwassersitutation in der Kleingartenanlage SW 24 Stellungnahme des Baureferats zum BA-Antrag 20-26 / B 07085
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Beratung durch die Kommission für Stadtgestaltung am 21.01.2025
+- TOP 4.5.2.: Unterstützung der BAs bei Bürgeranliegen – Kennzeichnung von Brücken mit Brückennamen; Beschluss des BA 4 – Schwabing-West
+- TOP 4.5.3.: Unterstützung des BA 17 – Obergiesing-Fasangarten; Antrag zur Schließung von Postfilialen im Stadtgebiet
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Pfandsammelstationen im öffentlichen Raum im Stadtbezirk Sendling
+- TOP 5.1.2.: (E) Herstellung des Geländers am Alois-Johannes-Lippl-Weg
+- TOP 5.1.3.: (E) Verstärkte Verkehrskontrollen zu Falschparkern
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Potenzielle Tempo 30 Anordnungen im Stadtbezirk
+- TOP 5.2.2.: Ring Brudermühlbrücke Süd Seite 2025
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Immissionsschutzrechtliche Ausnahmezulassung - Betrieb von Müllsammelfahrzeugen
+- TOP 5.3.2.: Tempo 30 Brudermühlstraße; BV-Empfehlung 20-26/ E 02463 vom 21.11.2024 - Zwischennachricht -
+- TOP 5.3.3.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 5.3.4.: Trinkbrunnen am Valley-Spieplatz BA-Antrag-Nr. 20-26 / B 07182
+- TOP 5.3.5.: Antrag für Fahrradstellplätze am Gotzinger Platz 3-6
+- TOP 5.3.6.: Wiederöffnung der Fuß-Radwegbrücke über die Brudermühlstraße am 07.01.2025
+- TOP 5.3.7.: Pilotprojekt zur „Bedarfsgerechten Grünzeitverlängerung für Fußgänger*innen“
+- TOP 5.3.8.: Baumaßnahme – Fernwärmeprojekt Karwendelstraße
+- TOP 5.3.9.: Parksituation in der Leipartstraße / Fallstraße
+- TOP 5.3.10.: Verkehrssicherheit Brudermühlstraße
+- TOP 5.3.11.: Unterrichtung der Bezirksausschüsse über Projektgenehmigung zur Kanalsanierungsmaßnahme Au-Haidhausen
+- TOP 5.3.12.: Parkplatzsituation Margaretenplatz
+- TOP 5.3.13.: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-) Raums
+- TOP 5.3.14.: Einrichtung eines „kostenlosen halbjährlichen Abholservices für Sperrmüll“ und „Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen“
+- TOP 5.3.15.: Taubenbefall im U-Bahnhof Harras
+- TOP 5.3.16.: Sperrung der Fuß- und Radwegbrücke über die Brudermühlstraße am Fuße des Neuhofener Berges für vertiefte Untersuchungen
+- TOP 5.3.17.: SWM Fernwärme Projekt – Schanzenbachstraße
+- TOP 5.3.18.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram, Stadtwerke München GmbH
+- TOP 5.3.19.: Versammlungsanzeige zu einer Versammlung am Harras 5 Jahre Hanau Erinnern am 19.02.2025
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Die Leipartstraße soll sauberer werden (B 90 / Die Grünen & CSU)
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Schreiben des Behindertenbeirats zum Thema "Gehwegparken" an alle Bezirksausschüsse
+- TOP 5.5.2.: Rassistische Schmierereien und verschmierte Wahlplakate am Herzog-Ernst-Platz
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. Bilderfries 3 (Titel der Ausstellung: "Ist das wichtig?") vom 01.02.2025 - 31.08.2025 2.550,00 € / AZ: 0262.0-6-0533
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - BRK Wasserwacht München Mitte, Beschaffung neuer E-Bikes - Kirchenmusik St. Margaret; Orgelsoireen
+- TOP 6.3.2.: Verlängerung der Projektzeit "Jüdisches Leben in Sendling Begehbare Karte"
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Fördermöglichkeit des Ausstellungsprojekts »Common Ground« durch den Sendlinger Bezirksausschuss
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Zukunft gestalten im Quartier (ZiQ) – ein Projekt des Referats für Bildung und Sport der Landeshauptstadt München
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Wie geht es weiter mit demstädtischen Kindergarten in der Aberlestraße? (Dringlichkeitsantrag B 90 / Die Grünen & SPD)
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO; Hier: Festumzug Frühlingsfest inkl. Freibierausschank am 25.04.2025
+- TOP 8.2.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO; Hier: Squisitissimo Italian Food - Italienischer Markt, Am Harras vom 18.03. - 26.03.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Abschlussbericht Sommerstraße 2024
+- TOP 8.3.2.: Weiterführung der Schank- und Speisewirtschaft „Sabbia“ in der Fallstraße 38
+- TOP 8.3.3.: Weiterführung der Schank- und Speisewirtschaft „Moments“ in der Leipartstraße 19
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: „Gebäude der Stadtbibliothek und MVHS am Harras: Wie ist der Planungsstand?“; BA-Antrag Nr. 20 – 26 / B 07076 Bitte um Fristverlängerung
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
