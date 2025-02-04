@@ -1,0 +1,6 @@
+# TOP 3: Allgemeine Vorlagen
+
+- Sitzung: Sitzung des Betriebsausschusses Gürzenich-Orchester (2025-02-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/414168
