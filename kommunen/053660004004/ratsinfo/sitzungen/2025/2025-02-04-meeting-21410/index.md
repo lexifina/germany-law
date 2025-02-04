@@ -1,0 +1,56 @@
+# Rat (Haushalt) (34. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2025-02-04T18:00:00+01:00
+- Ende: 2025-02-04T23:03:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZt3sxNtB3wBcgf8cjjU_GY
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21410
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSR09zU1FRUI8UbuMY4L6xmZUpghuqyZ-cG-avhKHFEY/Bekanntmachung_Rat_04.02.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXZHLOuBq7FVH2TaaAlrtdoK2WYVpFnirX_nDvW1gRgg/Oeffentliche_Niederschrift_Rat_04.02.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 10.12.2024 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Sachstandsbericht durch die Bahn hier: Ausführungen durch Vertreter der Bahn - Beschluss
+- TOP 5.: Umbesetzung Betriebsausschuss "Stadtwerke Bad Münstereifel" und Bau- und Feuerwehrausschuss hier: Antrag der UWV-Fraktion vom 21.01.2025 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. §§ 50 Abs. 3 und 58 Abs. 3 GO NRW nicht mit.
+- TOP 6.: 8. Satzung zur Änderung der Satzung über die Zweitwohnungssteuer in der Stadt Bad Münstereifel vom 21.12.1999 - Einstimmiger Beschluss:
+- TOP 7.: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss s. RD-Nr. 1427-XI/Z-4.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss s. RD-Nr. 1427-XI/Z-4.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss s. RD-Nr. 1427-XI/Z-4.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Aktueller Sachstand und weiteres Vorgehen vor der Beratung und Beschlussfassung über die Abwägungsbeschlüsse und den abschließenden Beschluss (Feststellungsbeschluss) - Beschluss s. RD-Nr. 1427-XI/Z-4.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Aktueller Sachstand sowie Beratung und Beschlussfassung über die Abwägungsbeschlüsse und den abschließenden Beschluss (Feststellungsbeschluss) - Die Abwägungsbeschlüsse (= Anlage 1 der Niederschrift) werden alle mit 22 Ja- und 10 Nein-Stimmen gefasst:
+- TOP 8.: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss s. RD-Nr. 1428-XI/Z-4.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss s. RD-Nr. 1428-XI/Z-4.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss s. RD-Nr. 1428-XI/Z-4.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Aktueller Sachstand und weiteres Vorgehen vor der Beratung und Beschlussfassung über die Abwägungsbeschlüsse und den Satzungsbeschluss - Beschluss s. RD-Nr. 1428-XI/Z-4.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Aktueller Sachstand sowie Beratung und Beschlussfassung über die Abwägungsbeschlüsse und den Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Niederschrift) werden alle mit 22 Ja- und 10 Nein-Stimmen gefasst:
+- TOP 9.: Verwaltungsvereinbarung zwischen dem Landesbetrieb Straßenbau NRW über die Sanierung der L 234 Kölner Straße/Schleidtalstraße mit dem Bau eines Minikreisverkehrsplatzes - Einstimmiger Beschluss:
+- TOP 10.: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Auswertung und Beschlussfassung zur Klausurtagung vom 18.01.2025 - Beschluss s. RD-Nr. 1561-XI/Z-5, Z-6, Z-7, Z-8, Z-11 und Z-9.
+- TOP 10.1: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Antrag der CDU-Fraktion vom 22.01.2025 mit Einsparvorschlägen für den Haushaltsentwurf 2025 - Beschluss s. RD-Nr. 1561-XI/Z-5.
+- TOP 10.2: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Stellungnahme der Verwaltung zum Antrag der CDU-Fraktion vom 22.01.2025 mit Einsparvorschlägen für den Haushaltsentwurf 2025 - Einstimmiger Beschluss:
+- TOP 10.3: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Antrag der FDP-Fraktion vom 23.01.2025 zum Haushalt 2025 - Beschluss s. RD-Nr. 1561-XI/Z-6.
+- TOP 10.4: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Stellungnahme der Verwaltung zum Antrag der FDP-Fraktion vom 23.01.2025 zum Haushalt 2025 - Einstimmiger Beschluss:
+- TOP 10.5: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Antrag der UWV-Fraktion vom 24.01.2025 zum Haushalt 2025 - Beschluss s. RD-Nr. 1561-XI/Z-7.
+- TOP 10.6: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Stellungnahme der Verwaltung zum Antrag der UWV-Fraktion vom 24.01.2025 zum Haushalt 2025 - Mehrheitlicher Beschluss mit 2 Nein-Stimmen und 1 Enthaltung:
+- TOP 10.7: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Anregungen der Fraktion Bündnis 90/Die Grünen vom 24.01.2025 zum Haushalt 2025 - Beschluss s. RD-Nr. 1561-XI/Z-8.
+- TOP 10.8: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Stellungnahme zu den Anregungen der Fraktion Bündnis 90/Die Grünen vom 24.01.2025 zum Haushalt 2025 - Einstimmiger Beschluss:
+- TOP 10.9: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Antrag der SPD-Fraktion vom 30.01.2025 für den Haushaltsentwurf 2025 - Beschluss s. RD-Nr. 1561-XI/Z-11.
+- TOP 10.10: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Stellungnahme der Verwaltung zum Antrag der SPD-Fraktion vom 30.01.2025 für den Haushaltsentwurf 2025 - Einstimmiger Beschluss:
+- TOP 10.11: Vorberatungen und Beschlüsse zur Aufstellung des Haushaltsplanes 2025 und Fortschreibung des Haushaltssicherungskonzeptes bis 2033; hier: Stellungnahme der Verwaltung zu den Vorschlägen aus der Klausurtagung mit den Ratsmitgliedern zum Haushalt 2025 und Beschlussfassung - Beschluss mit 9 Ja- und 12 Nein-Stimmen und damit abgelehnt:
+- TOP 11.: Steuerung des Starkregenrisikomanagements für die Kommunen durch den Kreis Euskirchen; hier: Steuerung der Phase 2 und Phase 3 durch den Kreis Euskirchen - Einstimmiger Beschluss:
+- TOP 12.: Anfragen und Mitteilungen
+- TOP 12.1: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 12.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i. V. m. § 17 Abs. 2 der Hauptsatzung der Stadt Bad Münstereifel für das Jahr 2024
+- TOP 12.3: Steuerung des Starkregenrisikomanagements für die Kommunen durch den Kreis Euskirchen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung von Windenergieanlagen hier: Sachstand und Vertragsmodalitäten - Einstimmiger Beschluss:
+- TOP 2.: Mietverhältnisse im Gebäude Kölner Straße 13 - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Haushalt 2025 und Haushaltssicherungskonzept hier: Anfrage des Stadtverordneten Christof Milischewski
