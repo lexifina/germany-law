@@ -1,0 +1,51 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-02-05T17:00:00+01:00
+- Ende: 2025-02-05T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000102
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000102
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1419612&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 06.11.2024 - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 04.12.2024 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Vorstellung des Bürger*innengutachtens 2024
+- TOP 5.1: Bürger*innenrats-Gutachten 2024: Entgegennahme und Beschluss zur weiteren Bearbeitung des Bürger*innenratsgutachten 2024 - ungeändert beschlossen
+- TOP 6: Ständiger Aachener Bürger*innenrat: Ergebnisse der Evaluation und Konzept zur optimierten Verstetigung - ungeändert beschlossen
+- TOP 7: Haus der Neugier - geändert beschlossen
+- TOP 8: Baustopp Uniklinikum Aachen und Auswirkungen auf die Stadt Aachen hier: Gemeinsamer Tagesordnungsantrag der Fraktionen von GRÜNE und SPD vom 18.12.2024 - geändert beschlossen
+- TOP 9: Baumaßnahme im Rahmen des Brandschutzbedarfsplans und des Rettungsdienstbedarfsplans Neubau Gerätehaus Freiwillige Feuerwehr Richterich und Rettungswache Richterich, Roder Weg 7 Entwurf mit Kostenberechnung (Lph 3) sowie erweiterter Planungsbeschluss (Lph 4, 5, 6) - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan 2025 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 11: Bericht der PKF Fasselt Partnerschaft mbB - Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft Rechtsanwälte über den Jahresabschluss zum 31.12.2023 und Lagebericht für das Wirtschaftsjahr 2023 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen sowie Entlastung der Betriebsleitung und des Betriebsausschusses für das Jahr 2023 - ungeändert beschlossen
+- TOP 12: Wirtschaftsplan 2025 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 13: Benehmensherstellung für die differenzierte Regionsumlage 2025 - ungeändert beschlossen
+- TOP 14: Querbeet für erwerbsunfähige suchtkranke Menschen in der StädteRegion Aachen - ungeändert beschlossen
+- TOP 15: Anfragen
+- TOP 15.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 15.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 16: Ratsanträge - ungeändert beschlossen
+- TOP 17: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 17.1: Umbesetzungsantrag der AfD-Ratsgruppe vom 03.01.2025 - ungeändert beschlossen
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
