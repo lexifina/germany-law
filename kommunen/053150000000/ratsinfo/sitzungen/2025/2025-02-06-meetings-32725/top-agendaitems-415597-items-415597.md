@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 1.1: Stadtentwicklungskonzept für die produzierende Wirtschaft (StEK Wirtschaft)
+
+- Sitzung: 4. Sondersitzung des Wirtschaftsausschusses (2025-02-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/415597
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/191791
