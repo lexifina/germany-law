@@ -1,0 +1,91 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8708973
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8708973
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 1.3.1: Bericht über Sicherheitswacht in Laim
+- TOP 2: Anträge
+- TOP 2.1.: Erweiterung des M-WLAN-Netzes im Zuge des Baus der Tram-Westtangente
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Bereitstellung von mehr Mülleimern und Hundekotbeutelspendern
+- TOP 3.2.: (E) Friedenheimer Straße; -Müllproblematik in der Friedenheimer Straße -Wertstoffcontainer in der Friedenheimer Straße
+- TOP 3.3.: (E) Münchner Wohnen: Generelle Rückzahlung unzulässig abgerechneter Heizkosten
+- TOP 3.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Beschluss des Bezirksausschusses des Stadtbezirkes 25 Laim vom 06.02.2025 Versetzung eines Zeitungskiosks (bisheriger Standplatz: Agnes-Bernauer-Str. 73 Ecke Fürstenrieder Str.), Agnes-Bernauer-Str. 89 Ecke Laimer Anger
+- TOP 3.5.: (E) Stadtbezirksbudget laim_up e.V. Ausstellung „Die Wurzeln berühren“ vom 20.02. – 17.04.2025 1.400,00 Euro, Az.: 0262.0-25-0359
+- TOP 3.6.: (E) Stadtbezirksbudget Terra Media Akademie e.V. Workshop "Wie tickst denn Du" zwischen 28.04. und 25.06.2025 2.400,00 Euro, Az.: 0262.0-25-0360
+- TOP 3.6.1: Schreiben Terra Media Akademie e.V. vom 23.12.23: Mittelanfrage für Kreativ-Workshop
+- TOP 3.7.: (E) Stadtbezirksbudget Helferkreis für Gefüchtetenunterkünfte in den Stadtbezirken 7, 8 und 25 Jahresprogramm 2025 des Helferkreises vom 15.01. - 31.12.2025 2.500,00 Euro, Az.: 0262.0-25-0357
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 07.01.25: Bez. 25 Anhörung, Am Laimer Anger, Laimer Maifest am 01.05.2025 | Frist: 20.03.2025
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 07.01.25: Bez. 25 Anhörung: Laimer Platz, Frühlingsflohmarkt Drachenburg e.V. am 22.03.2025 / Termin: 11.02.2025
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 14.01.25: Veranstaltung im Freien in städtischer Grünanlage; hier: Laimer Faschingstreiben Am Laimer Anger am Sa 01.03.2025;
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 16.01.25: Veranstaltung im Freien in städtischer Grünanlage; hier: Hogenbergplatz; Familien-Flohmarkt der Laimer Strolche e.V. am 22.03.25, (Ersatz 29.03.25);
+- TOP 4.6.: Schreiben Sozialreferat vom 27.11.24: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 4.7.: Schreiben Mobilitätsreferat vom 14.01.25: Novellierung der Straßenverkehrsordnung - Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 4.8.: Schreiben Baureferat vom 20.01.25: Trinkwasserbrunnen
+- TOP 4.9.: Schreiben Mobilitätsreferat vom 22.01.25: Kurven-Haltverbot Schrobenhausener Straße/Ilse-Weber-Straße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Hans-Thonauer-Str. 5, Grundstück 8487/17-Sektion V Neubau WBO 2.0 Werkswohnbebauung mit Kindertagesstätte und Tiefgarage auf dem Areal Westend-/Zschokkestraße WA1 in München-Laim - mit Mobilitätskonzept
+- TOP 5.2.: Hans-Thonauer-Str., Grundstück 8485/15-Sektion V Neubauprojekt WZebm auf dem Areal Westend- / Zschokkestraße WA1 in München Laim mit Mobilitätskonzept
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben BA 4 Schwabing West vom 08.01.25: Unterstützung der BAs bei Bürgeranliegen Kennzeichnung von Brücken mit den Brückennamen
+- TOP 6.2.: Schreiben BA 20 Hadern vom 20.01.25: Krähenplage und ihre Folgen
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Umwelt, Klima und Baumschutz vom 07.01.25
+- TOP 7.2.: Protokoll BA-Sitzung vom 09.01.25
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 20.12.24: Haushaltsbeschluss 2025; Stadtbezirksbudgets für 2025
+- TOP 8.2.: Schreiben Baureferat vom 23.12.24: Aufenthaltsqualität am S-Bahnhof Hirschgarten
+- TOP 8.3.: Schreiben Baureferat vom 04.03.24: Straßenbeleuchtung historische Stadtlohnerstraße
+- TOP 8.4.: Antwortschreiben Mobilitätsreferat vom 09.01.25: Willibaldstraße
+- TOP 8.5.: Antwortschreiben Mobilitätsreferat vom 02.01.25: Parksituation Valpichler-/Stroblstraße
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 11.12.24: Verkehrskonzept für die Burgkmairstraße während dem Neubau des Thomas-Wimmer-Hauses
+- TOP 8.7.: Antwortschreiben Mobilitätsreferat vom 10.01.25: Supermarkt Valpichlerstr.
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 15.01.25: Radwegverbindung vom Laimer Platz zum Nymphenburger Schlosspark
+- TOP 8.9.: Antwortschreiben SWM vom 09.01.25: Unter- oder Überquerung Fürstenrieder Str. in Höhe des alten Tunnels beim ehemaligen Karstadt oder Valpichlerstr (nicht in BV anwesend)
+- TOP 8.10.: Schreiben FK Mobilität vom 22.11.24: Gehwegparken
+- TOP 8.11.: Bautenliste 09.12.24-15.12.24: A) Erstantragsverfahren 1. Hans-Thonauer-Str. 2. Hans-thonauer-Str. 5 3. Junkerstr. 27
+- TOP 8.12.: Bautenliste 16.12.-22.12.24: A) Erstantragsverfahren 1. Vohburger Str. 8 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Burgkmairstr. 9
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.12.24: Verwahrlostes Grundstück in der Camerloherstraße, Höhe Ilmmünsterstraße
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.01.25: Fällungsantrag Lina-Meittinger-Str. 9
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.01.25: Ersatzpflanzungsbescheid Stöberlstr. 56
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.01.25: Fällungsanträge Dreyerstr. 3 - 11, Aindorferstr. 132 - 134, Rushaimerstr. 16 - 22, hier: bei Rushaimerstr. 22
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.01.25: Jahresbericht Erhaltungssatzungen in München online
+- TOP 8.18.: Schreiben SWM vom 14.01.25: Baumaßnahmen
+- TOP 8.19.: Schreiben Stadtkämmerei vom 15.01.25: MIP-Entwurf 2024-2028
+- TOP 8.20.: Schreiben Referat für Klima- und Umweltschutz vom 27.12.24: Mülleinsammlung Stadtgebiet München, Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 8.21.: Antwortschreiben Sozialreferat vom 12.12.2024: Leerstand von Wohnhäusern am Agricolaplatz und in der Rapotostraße
+- TOP 8.22.: Antwortschreiben Kreisverwaltungsreferat vom 13.12.24: Schutz vor aggressiven Bettler*innen
+- TOP 8.23.: Schreiben Direktorium vom 23.12.24 und 17.01.25: Verwendungsnachweis
+- TOP 8.24.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.12.24: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2023 - 31.07.2024
+- TOP 8.25.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.12.24: Bekanntgabe der Ergebnisse der Erwerbstätigen- und Flächenbedarfsprognose für die Planungsregion 14 (Landeshauptstadt München und Landkreise der Region)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.01.25: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 8.27.: Beschluss des Kommunalausschusses vom 05.12.24: Mehrjahresinvestitionsprogramm 2024 – 2028 Maßnahmen im Bereich des Kommunalreferates Programmentwurf Konsolidierungsvorschläge zur Ausgabenreduzierung der Jahre 2028 ff. Änderung des Mehrjahresinvestitionsprogramms 2024 - 2028 Umsetzung des Eckdatenbeschlusses 2025 (KOMZ-008)
+- TOP 8.28.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.24: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 8.29.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.24: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.30.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 03.12.24: (U) Haushaltsplan 2025 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.31.: Beschluss der Vollversammlung des Stadtrates vom 18.12.24: (U) Haushaltsplan 2025 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2025 Vollzug des Haushaltsplanes 2025 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 8.32.: Beschluss der Vollversammlung des Stadtrates vom 18.12.24: (U) Perspektiven der Beratungsstruktur für ältere Menschen und Angehörige in München
+- TOP 8.33.: Beschluss der Vollversammlung des Stadtrates vom 18.12.24: Haushalt 2025 des Mobilitätsreferats • Produkte • Ziele • Haushaltssicherungskonzept (HSK) • Teilergebnis- und Teilfinanzhaushalt
+- TOP 8.34.: Beschluss der Vollversammlung des Stadtrates vom 18.12.24: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 8.35.: Beschluss der Vollversammlung des Stadtrates vom 24.07.24: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 8.36.: Beschluss des Mobilitätsausschusses vom 29.01.25: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Lärmbelästigung in 80687 Laim (Weiterleitung an RKU)
+- TOP 9.2.: Überquerungsmöglichkeit Senftenauerstr. (Vertagung in UA Mobilität)
+- TOP 9.3.: Sicherheit am Hönigschmidplatz (Vertagung in UA Mobilität)
+- TOP 9.4.: Feuerwerk an Silvester (Antwort an Bürger*in mit Hinweis auf das letzte BA-Protokoll)
+- TOP 9.5.: Parken in der Hörkherstraße in Laim (Vertagung in UA Mobilität und Ortstermin im März 2025)
