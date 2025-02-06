@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-06T17:00:00+01:00
+- Ende: 2025-02-06T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31878
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31878
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Aufstellung von Seitenlinien-Radar für Chorbuschstr./Johannes-Prassen-Str. sowie Orrerstr./Amselweg - Kenntnis genommen
+- TOP 7.1.2: Anfrage zum aktuellen Stand der Maßnahmen an der Kreuzung Donatusstraße/Im Gewerbegebiet Pesch - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Öffentlichkeitsarbeit und Informationsweitergabe im Rahmen der Gesundheitsregion Kölner Norden Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Anfrage zum fachärztlichen Bedarf im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Ausfälle S6 und S11 im Stadtbezirk Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Anfrage zum Bestand und Zustand älterer Straßenlaternen im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Photovoltaik auf dem Dach des Bezirksrathaus Chorweiler Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.6: Sanierung Krebelshof Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Wieder mehr Wahlräume in Worringen - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Weiterführung des erfolgreichen "Taubenprojekt Chorweiler" Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Prüfantrag Einrichtung einer stationären öffentlichen Toilette am Einkaufszentrum (EKZ) Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Baubeschluss für die Herstellung eines barrierefreien Buskaps an der Haltestelle Heinering in Köln-Pesch sowie für die Erneuerung der Fahrbahndeckschicht im Teilbereich der Schulstraße - ungeändert beschlossen
+- TOP 9.1.2: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Chorweiler - geändert beschlossen
+- TOP -: Zusatzantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrsausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Ratsbürgerentscheid zur Ost-West-Achse - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 9.2.2: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 9.2.3: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ungeändert beschlossen
+- TOP 9.2.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Sanierung am Schulstandort Fühlinger Weg 4, Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.2.5: Anpassung der Entgeltordnung für das Erheben von Tauchentgelten am Fühlinger See - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Prinzenempfang im City Center Chorweiler - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssituation Aqualand, Aktenzeichen 123/24 - Kenntnis genommen
+- TOP 10.2.2: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 10.2.3: Veränderungsnachweis 2 zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 10.2.4: Bürgereingabe nach § 24 GO NRW "Ausweitung der Parkplätze Elvira-Tuszik-Str. 17- 25 und weitere" AZ 33/24 - Kenntnis genommen
+- TOP 10.2.5: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.6: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2025 - Sportboxen - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Chorweilerbad - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
