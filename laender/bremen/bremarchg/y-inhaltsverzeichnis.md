@@ -4,8 +4,9 @@ Abschnitt 1 | - Berufsaufgaben und Berufsbezeichnung -
 § 1 | Berufsaufgaben
 § 2 | Geschützte Berufsbezeichnungen
 § 3 | Voraussetzungen für die Eintragung in die Architekten- oder die Stadtplanerliste
-§ 3a | Europäischer Berufsausweis
-§ 3b | Vorwarnmechanismus
+§ 3a | Voraussetzungen für die Eintragung in die Liste der Juniormitglieder
+§ 3b | Europäischer Berufsausweis
+§ 3c | Vorwarnmechanismus
 § 4 | Eintragungsvoraussetzungen für Gesellschaften
 § 5 | Versagung der Eintragung
 § 6 | Eintragungs- und Löschungsverfahren

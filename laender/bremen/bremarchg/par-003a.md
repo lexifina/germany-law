@@ -1,5 +1,8 @@
-# § 3a Europäischer Berufsausweis
-(1) Der Europäische Berufsausweis ist eine elektronische Bescheinigung entweder zum Nachweis, dass die Berufsangehörige oder der Berufsangehörige sämtliche notwendigen Voraussetzungen für die vorübergehende und gelegentliche Erbringung von Dienstleistungen in einem Aufnahmemitgliedstaat erfüllt oder zum Nachweis der Anerkennung von Berufsqualifikationen für die Niederlassung in einem Aufnahmemitgliedstaat.
-(2) Die Architektenkammer ist zuständige Behörde im Sinne der Artikel 4a bis 4e der Richtlinie 2005/36/EG. Das Verfahren richtet sich nach den Artikeln 4a bis 4e der Richtlinie 2005/36/EG und den hierzu erlassenen Durchführungsrechtsakten.
-(3) Der Europäische Berufsausweis stellt die Meldung nach § 8 Absatz 2 dar. Für die Zwecke der Niederlassung begründet die Ausstellung eines Europäischen Berufsausweises kein automatisches Recht zur Führung der in § 2 Absatz 1 genannten Berufsbezeichnungen.
-(4) Der Senat wird ermächtigt, durch Rechtsverordnung Vorschriften über den Inhalt und das Verfahren zur Ausstellung Europäischer Berufsausweise einschließlich der Erstellung von Dateien im Binnenmarkt-Informationssystem (IMI-Dateien) und dem Umgang mit diesen im Sinne des Artikels 4a Absatz 5 der Richtlinie 2005/36/EG zu erlassen.
+# § 3a Voraussetzungen für die Eintragung in die Liste der Juniormitglieder
+(1) In die Liste der Juniormitglieder des Landes Bremen ist mit einer Fachrichtung nach § 1 Absatz 1 bis 4 auf Antrag einzutragen (Juniormitglied), wer
+1. die Voraussetzungen nach § 3 Absatz 1 Nummer 1 erfüllt,
+2. ein der Fachrichtung entsprechendes Studium abgeschlossen hat, das zur Aufnahme der berufspraktischen Tätigkeiten nach § 3 Absatz 1 Nummer 2 und Absatz 1a bis 1c berechtigt, und
+3. eine berufspraktische Tätigkeit in dieser Fachrichtung begonnen hat.
+(2) Für das Eintragungsverfahren gilt § 6 Absatz 1 bis 3.
+(3) Für die Versagung der Eintragung gilt § 5 Absatz 1 entsprechend.
+(4) Juniormitglieder sind zum Führen einer Berufsbezeichnung im Sinne des § 2 nicht berechtigt.
