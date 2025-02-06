@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-02-06T14:04:00+01:00
+- Ende: 2025-02-06T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27825
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27825
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag RAT 06.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00543844.pdf
+- Ergebnisprotokoll: 1. Nachtrag RAT 06.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00543844.pdf
+- Wortprotokoll: 1. Nachtrag RAT 06.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00543844.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 19.09.2024 (SI-RAT/005/2024) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Einhaltung gesetzlicher Fristen im Zusammenhang der Open-Air-Fläche auf dem Messeparkplatz - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Schulbegleitungen für Kinder mit einer körperlichen, geistigen oder seelischen Behinderung - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Inobhutnahme von Kindern und Jugendlichen - beantwortet
+- TOP 4.3: Anfrage der FDP-Ratsfraktion: Gescheiterte Durchsetzung des Böllerverbots auf dem Burgplatz und Umgebung - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen der Düsseldorfer Ausländerbehörde 2024 - beantwortet
+- TOP 4.5: Anfrage des Ratsherrn Lemmer: Sitzungen und Aufwendungen der Fraktionen und Gruppen des Rates sowie an die Fraktionen der Bezirksvertretungen im Zeitraum 1.1.2024 bis 31.12.2024 - beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Lemmer: Beleuchtung im öffentlichen Raum anlässlich des islamischen Fastenmonats Ramadan, 28.02. bis 30.03.2025 - beantwortet
+- TOP 4.7: Anfrage der Ratsfrau Krüger: Tierversuche in Düsseldorf - zurückgezogen
+- TOP 4.8: Anfrage der Ratsfrau Krüger: Unfälle, durch die Tiere verletzt oder getötet wurden - beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 7: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW - mehrheitlich beschlossen
+- TOP 8: Wohnungsbau befördernde Erbbaurechtskonditionen - einstimmig beschlossen
+- TOP 8.1: Ergänzungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/119/2024 - mehrheitlich beschlossen
+- TOP 8.2: Änderungsantrag der CDU-Ratsfraktion zur Vorlage APS/119/2024 - einstimmig beschlossen
+- TOP 9: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Baureifmachung einer städtischen Fläche im Bereich „Nach den Mauresköthen“ - einstimmig beschlossen
+- TOP 10: Entsendung von Mitgliedern des Behindertenrates als sachkundige Einwohnerinnen/Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 11: Entsendung von Vertretern der Landeshauptstadt Düsseldorf in die Ausschüsse der Deutschen Sektion sowie zur Delegiertenversammlung des Rates der Gemeinden und Regionen Europas (RGRE)“ - mehrheitlich beschlossen
+- TOP 12: Entwurf des NKF-Gesamtabschlusses 2021 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 13: Zweckverband Verkehrsverbund Rhein Ruhr; Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2025 - einstimmig beschlossen
+- TOP 14: Bilanzierungshilfe - einstimmig beschlossen
+- TOP 15: Neufassung der Satzung über die Erhebung von Elternbeiträgen für die Betreuung von Kindern in Tageseinrichtungen, in Tagespflege und im Rahmen der Offenen Ganztagsschule im Primarbereich - einstimmig beschlossen
+- TOP 16: Satzung der Kommission Fotostadt Düsseldorf - mehrheitlich beschlossen
+- TOP 17: Änderungsbeschluss – Mehrkosten - Erneuerung der Beleuchtungsanlage des Rheinufertunnels - einstimmig beschlossen
+- TOP 18: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Implementierung Städtisches Gymnasium Bernburger Straße als vierzügiges Gymnasium mit Dreifeldhalle am Standort Düsseldorf Eller“ - einstimmig beschlossen
+- TOP 19: Entsendung von Mitgliedern des Seniorenrates als sachkundige Einwohnerinnen und Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 20: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 21: Bestellung stimmberechtigter Delegierter zur Teilnahme an der 43. ordentlichen Hauptversammlung des Deutschen Städtetages in Hannover - mehrheitlich beschlossen
+- TOP 22: Neufassung der Satzung der Landeshauptstadt Düsseldorf über die Durchführung von Bürgerbegehren und Bürgerentscheiden - mehrheitlich beschlossen
+- TOP 22.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/014/2025
+- TOP 22.2: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/014/2025 - mehrheitlich beschlossen
+- TOP 23: Anträge
+- TOP 23.1: Antrag der Ratsfraktion DIE LINKE: Kauf von Rheinbahn-Tickets mit Bargeld muss möglich bleiben - verwiesen
+- TOP 23.1.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/015/2025 - verwiesen
+- TOP 23.2: Antrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN, SPD, DIE LINKE und Die PARTEI-Klima-Fraktion: Opt-Out-Regelung zur Bezahlkarte für Geflüchtete - mehrheitlich beschlossen
+- TOP 23.3: Antrag der Ratsfraktion DIE LINKE: Feuerwerksverbotszone ausweiten - mehrheitlich abgelehnt
+- TOP 23.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Zentrale Drohnen- oder Feuerwerk-Show - mehrheitlich beschlossen
+- TOP 23.4.1: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage RAT/025/2025 - mehrheitlich abgelehnt
+- TOP 23.5: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: 1.000 zusätzliche Bäume für die Stadt - mehrheitlich beschlossen
+- TOP 23.5.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/026/2025 - mehrheitlich abgelehnt
+- TOP 23.6: Antrag der SPD-Ratsfraktion: „Silvester am Rhein – bunt, sicher, gemeinsam“ – Ein neues Konzept für einen sicheren Jahreswechsel - mehrheitlich abgelehnt
+- TOP 24: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
