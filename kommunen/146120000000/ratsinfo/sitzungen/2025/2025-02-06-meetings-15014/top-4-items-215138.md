@@ -1,0 +1,6 @@
+# TOP 4: Bauablaufplan zu anstehenden Sanierungsarbeiten Dorfklub Mobschatz
+
+- Sitzung: 7. Sitzung des Ortschaftsrates Mobschatz (2025-02-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/215138
