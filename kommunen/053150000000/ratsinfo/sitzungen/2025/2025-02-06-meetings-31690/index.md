@@ -1,0 +1,83 @@
+# 31. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-06T15:03:00+01:00
+- Ende: 2025-02-06T17:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31690
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31690
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Wie steht es um den Domsockel? - Kenntnis genommen
+- TOP 2.1.1: Beantwortung einer Anfrage der Fraktion FDP im Stadtentwicklungsausschuss aus der Sitzung vom 05.12.2024 (AN/1683/2024) "Wie steht es um den Domsockel?" - Kenntnis genommen
+- TOP 2.2: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 07.11.2024 (Session-Nr. AN/1503/2024) bzgl. Kölner Wohnbedarfe in Bezug auf Kreuzfeld - Kenntnis genommen
+- TOP 2.2.1: Beantwortung einer mündlichen Anfrage der AfD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses am 5. Dezember 2024 betreffend Kölner Wohnbedarfe in Bezug auf Kreuzfeld (AN/1503/2024) - Kenntnis genommen
+- TOP 2.3: Siedlung Egonstraße im Zusammenhang mit der Regionalplan-Neuaufstellung - Kenntnis genommen
+- TOP 2.3.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (AN/0066/2025) betreffend "Siedlung Egonstraße im Zusammenhang mit der Regionalplan-Neuaufstellung" - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: „Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln“ präzisieren - zurückgestellt
+- TOP 3.1.1: Stellungnahme zu AN/1194/2024 der Fraktion DIE LINKE betreffend "„Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln präzisieren" aus dem Stadtentwicklungsausschuss vom 07.11.2024 - zurückgestellt
+- TOP 3.2: Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg - zurückgestellt
+- TOP 3.2.1: Stellungnahme zum Antrag AN/1970/2023 der Ratsgruppe KLIMA FREUNDE & GUT betreffend: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP 3.2.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP 3.3: Sofortmaßnahmen gegen die Wohnungsnot von Studierenden: Zwischennutzung städtischer Flächen für Wohnraum und sofortiger Ausbau alternativer Wohnformen - ohne Votum behandelt
+- TOP 3.3.1: Sofortmaßnahmen gegen die Wohnungsnot von Studierenden: Zwischennutzung städtischer Flächen für Wohnraum und sofortiger Ausbau alternativer Wohnformen - ohne Votum behandelt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert beschlossen
+- TOP 4.1.1: Höhenentwicklungskonzept nachhaltig gestalten: 60 Meter als Obergrenze - Sache ist erledigt
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel", - ungeändert beschlossen
+- TOP 5.2: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - ohne Votum behandelt
+- TOP 5.3: Bedarfsfeststellungsbeschluss: Vergabe eines Gutachtens zur Ermittlung von Potentialen interkommunaler und regionaler Zusammenarbeit für die Stadt Köln - zurückgestellt
+- TOP 5.4: Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße/Militärringstraße - ungeändert beschlossen
+- TOP 5.5: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert empfohlen
+- TOP 5.6: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - mit Änderungen empfohlen
+- TOP 6.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - mit Änderungen empfohlen
+- TOP 6.2: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - zurückgestellt
+- TOP 6.3: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ohne Votum behandelt
+- TOP 6.4: Priorisierung von Pflege in Verfahren von Stadtentwicklung und Stadtplanung - zurückgestellt
+- TOP 6.5: Stadtentwicklungskonzept für die produzierende Wirtschaft (StEK Wirtschaft) - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Ablehnung eines Antrags auf Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) mit dem Arbeitstitel: Ludwigstraße / Weißer Hauptstraße - Einzelhandel und Wohnen - in Köln-Weiß - endgültig zurückgezogen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: „Parkstadt Süd – Quartiersentwicklung“ in Köln Rodenkirchen, in den Stadtteilen Köln-Bayenthal, - geändert beschlossen
+- TOP 10.3: Aufhebung des Einleitungsbeschlusses (VEP) Arbeitstitel: Antonsgasse (neu) in Köln-Atstadt/Nord, Aufstellung und Einleitung eines VEP Arbeitstitel: Weltstadthaus in Köln-Altstadt/Nord, Frühzeitige Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Aufstellungsbeschlusses zur 3. Änderung des Bebauungsplanes Nr. 62450/04 (62450/04-03) - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplanentwurf Nr. 76380/03, Blatt 3, Arbeitstitel "Südlich Friedensstraße - Ostteil" in Köln-Porz-Elsdorf - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nummer 77359/04, Arbeitstitel: Senkelsgraben in Köln-Porz-Lind - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) Arbeitstitel: "Koelnmesse/Messeverwaltung" in Köln-Deutz - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betr.: Beschluss über die Aufstellung eines Bebauungsplanes - zurückgestellt
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 248. Änderung des Flächennutzungsplanes (FNP), Arbeitstitel: ''Am Bilderstöckchen'' in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 17.2: Veröffentlichung gemäß § 3 Absatz 2 BauGBder 1. Änderung (Teilaufhebung) des Bebauungsplanes 65439/04 (6442 Nb/04) Arbeitstitel: Greinstraße in Köln - Sülz - Kenntnis genommen
+- TOP 17.3: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 75501/02 Arbeitstitel: "Möhl-Areal in Köln-Dellbrück" - Kenntnis genommen
+- TOP 17.4: Mitteilung über die Veröffentlichung nach § 3 Abs. 2 BauGB des Bebauungsplan-Entwurfes Nummer 64492/01, Arbeitstitel: Am Bilderstöckchen in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 30.09.2024) - Kenntnis genommen
+- TOP 18.2: Maßnahmen zum Lärmschutz am Brüsseler Platz - Kenntnis genommen
+- TOP 18.3: Zuzüge, Fortzüge und Umzüge in Köln 2023 - Über kleinräumige Muster beim Wanderungsgeschehen - Kenntnis genommen
+- TOP 18.4: Förderprogramm Digitales Baupotentialregister - Kenntnis genommen
+- TOP 18.5: Förderung Bündnis Kommunale Nachhaltigkeit Köln 2025-2026 - Kenntnis genommen
+- TOP 18.6: 1. Nachtrag des Städtebaulichen Vertrags zum Bebauungsplan Nr. 69450/08 - Arbeitstitel „Ehemaliges CFK-Gelände“ in Köln-Kalk - - Kenntnis genommen
+- TOP 18.7: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend „Dat Jeld es fott - Beantwortung für Dezernat für Stadtentwicklung, Wirtschaft, Digitalisierung und Regionales - Kenntnis genommen
+- TOP 18.8: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend „Dat Jeld es fott - Einsparungen transparent machen" (12.12.2024) - AN/1689/2024 Beantwortung für Dezernat Planen und Bauen - Kenntnis genommen
+- TOP 18.9: Mitteilung zu Satzungsbeschlüssen von Bebauungsplänen im Jahr 2024 - Kenntnis genommen
+- TOP 18.10: Mitteilung über die partizipative Entwicklung einer stadtweiten Konzeption "Mobil im lebenswerten Quartier" unter Erprobung des Formats "Bürgerrat" - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
