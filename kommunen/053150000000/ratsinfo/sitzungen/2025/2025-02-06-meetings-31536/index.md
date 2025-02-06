@@ -1,0 +1,113 @@
+# 33. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-06T17:30:00+01:00
+- Ende: 2025-02-06T22:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31536
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31536
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Baumfällungen auf dem Gelände der Edith-Stein-Realschule - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage zum Bolzplatz Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.2: Einwohnerfrage zu vermehrten Giftköder-Vorfällen im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung einer Einwohneranfrage - Giftköder Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.3: Einwohnerfrage zum Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung einer Einwohneranfrage zur Sitzung der BV 5 am 07.11.2024 (3254/2024) betreffend Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.4: Einwohnerfrage zum Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung der Einwohneranfrage 3792/2024 - Kenntnis genommen
+- TOP 1.5: Einwohnerfrage zum Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.6: Einwohnerfrage zum Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.7: Einwohnerfrage zu einer Sozialen Erhaltungssatzung für den Stadtteil Nippes - zurückgestellt
+- TOP -: Beantwortung der Einwohnerfrage zu einer Sozialen Erhaltungssatzung für den Stadtteil Nippes vom 28.11.2024, Nummer 3827/2024, TOP Ö 1.10 der 32. Sitzung der Bezirksvertretung Nippes vom 05.12.2024 - zurückgestellt
+- TOP 1.8: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - Radwege in Köln, Az.: 07/24 - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe nach § 24 GO NRW - Mülheimer Brücke: Fahrspuren nach Abschluss der Sanierung umwidmen, LKW-Verkehr sperren, rechts-/linksrheinische Anschlusspunkte neu gestalten, Az.: 59/24 - ungeändert beschlossen
+- TOP -: Ersetzungsantrag zu Ö.2.2, BV5-Sitzung 6.2.2025, AN 3719/2024, Mülheimer Brücke
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.3: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.4: Zweiter Zaun der Mathilde-von-Mevissen-Schule - zurückgestellt
+- TOP 7.1.5: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.6: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - zurückgestellt
+- TOP 7.1.7: Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - zurückgestellt
+- TOP 7.1.8: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - zurückgestellt
+- TOP 7.1.9: Weiterer Zebrastreifen in der Nesselrodestraße - zurückgestellt
+- TOP 7.1.10: Bauprojekt Appartementhaus „The Flag“, Neusser Straße 159 - zurückgestellt
+- TOP 7.1.11: Erneuerung und Verbreiterung des Madenburgweg in Bilderstöckchen - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der BV 5 vom 19.09.2024 (AN1235/2024) betr. "Erneuerung und Verbreiterung des Madenburgweg in Bilderstöckchen" - Kenntnis genommen
+- TOP 7.1.12: Entfernung des Ersatzschulbaus in Containerbauweise am Henner-Berzau-Weg - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1241/2024 der Fraktion Bündnis 90/die Grünen bezüglich der Entfernung des Ersatzschulbaus in Containerbauweise am Henner-Berzau-Weg - Kenntnis genommen
+- TOP 7.1.13: Überladene Müll-Container Escher Straße /Äußere Kanalstraße und Longericher Straße - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.14: Parkraumbewirtschaftung im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 Die Grünen aus der Sitzung der Bezirksvertretung Nippes vom 19.09.2024 betr. "Parkraumbewirtschaftung im Stadtbezirk Nippes" (AN/1245/2024) - Kenntnis genommen
+- TOP 7.1.15: Nutzung von Fahrradboxen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.16: Zustand des Parkplatzes an der Pferderennbahn - Kenntnis genommen
+- TOP -: Zustand des Parkplatzes an der Rennbahn - Kenntnis genommen
+- TOP 7.1.17: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Begrenzung der Silvester-Feuerwerke - zurückgestellt
+- TOP 7.2.2: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Stadtverschönerungsmittel für Bäume, Sportgeräte und Sitzbänke im Bezirk Nippes - ungeändert beschlossen
+- TOP 8.1.2: Wartehäuschen an der KVB-Linie 147 - ungeändert beschlossen
+- TOP 8.1.3: Neubenennung der Gustav-Nachtigal-Straße in Köln-Nippes - ungeändert beschlossen
+- TOP 8.1.4: Tadsch Mahal (Taj Mahal) auf dem Wilhelmplatz erhalten und verbessern - geändert beschlossen
+- TOP 8.1.5: Veedelsparkplatz Kuseler Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 9.1.2: Erzberger Platz in Köln-Nippes - ungeändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an den Cologne Cycling Club e.V. - geändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an die North Brigade e.V. - geändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an ConAction e.V. - ungeändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an Wipe-A-Tear - geändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an den Speed Skating Club Köln 1998 e.V. - geändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an Reinhold Kruse - geändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an den Verein der Freunde und Förderer der GGS Alzeyer Straße e.V. - geändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an Freedom Sounds e.V. - geändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an die Gesamtschule Weidenpesch - ungeändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an ev-angel-isch e.V. - ungeändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an die Initiative 100 Jahre Siedlung Mauenheim
+- TOP 9.1.14: Weiterplanungs- und Baubeschluss auf Basis der Entwurfsplanung Johannes-Giesberts-Park - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert empfohlen
+- TOP 9.2.2: Städtebaulicher Masterplan Innenstadt Beschluss eines Höhenentwicklungskonzepts für die Innere Stadt Kölns - ungeändert empfohlen
+- TOP 9.2.3: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - mit Änderungen empfohlen
+- TOP -: Priorisierung von Spielraum-Maßnahmen im Bezirk Nippes
+- TOP -: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030
+- TOP 9.2.4: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag Ost-West-Achse, Ö 9.2.4, BV5-Sitzung 6.2.2025, AN 1037/2024
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt
+- TOP -: Ratsbürgerentscheid zur Ost-West-Achse
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Planstellen zur Koordination ehrenamtlicher Geflüchtetenarbeit - Kenntnis genommen
+- TOP 10.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baubeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr, Sitzung des Verkehrsausschusses vom 22.08.2023, TOP 4.5 (Vorlagennummer 0515/2023) - Kenntnis genommen
+- TOP 10.2.2: Jahresbericht 2024 Naturschutzwart Bezirk 5 - Kenntnis genommen
+- TOP 10.2.3: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 248. Änderung des Flächennutzungsplanes (FNP), Arbeitstitel: ''Am Bilderstöckchen'' in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.4: Mindeststandards zur Betreuung geflüchteter Menschen - Fortführung der Maßnahmen in 2025 und 2026 - Kenntnis genommen
+- TOP 10.2.5: 2. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2025/2026 - Kenntnis genommen
+- TOP 10.2.6: Mitteilung über die Veröffentlichung nach § 3 Abs. 2 BauGB des Bebauungsplan-Entwurfes Nummer 64492/01, Arbeitstitel: Am Bilderstöckchen in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.7: Sachstandsmitteilung zu den von der Bezirksvertretung Nippes priorisierten Straßenbaumaßnahmen - Kenntnis genommen
