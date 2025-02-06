@@ -1,0 +1,67 @@
+---
+ecli: "ECLI:DE:BVerwG:2025:060225B11B4.24.0"
+court: "Bundesverwaltungsgericht"
+aktenzeichen: "11 B 4/24"
+decided: "2025-02-06"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/WBRE202500175.xml"
+neuris_doknr: "WBRE202500175"
+---
+
+# Bundesverwaltungsgericht, 11 B 4/24 vom 2025-02-06
+
+## Leitsatz
+
+Für eine Klage gegen eine behördliche Streitwert- und Kostenfestsetzung hinsichtlich der Erstattung von notwendigen Rechtsanwaltskosten im Verfahren der vorzeitigen Besitzeinweisung gemäß § 44b EnWG ist nach § 40 Abs. 1 Satz 1 VwGO der Verwaltungsrechtsweg eröffnet. 6
+
+## Tenor
+
+Die Beschwerde des Beklagten gegen den Beschluss des Oberverwaltungsgerichts für das Land Nordrhein-Westfalen vom 14. August 2024 wird zurückgewiesen.
+
+Der Beklagte trägt die Kosten des Beschwerdeverfahrens.
+
+## Gründe
+
+I
+
+1 Die Klägerin wendet sich gegen eine behördliche Streitwert- und Kostenfestsetzung für die Erstattung notwendiger Rechtsanwaltskosten im Besitzeinweisungsverfahren nach § 44b EnWG. Der Beklagte verlangt, den Rechtsstreit an eine Kammer für Baulandsachen zu verweisen.
+
+2 Die Klägerin, die Vorhabenträgerin für den Neubau einer Erdgasfernleitung, beantragte bei dem Beklagten gegen den Beigeladenen die vorzeitige Besitzeinweisung gemäß § 44b EnWG. Der Beigeladene beauftragte zur Rechtsverteidigung einen Rechtsanwalt. Mit Beschluss vom 14. September 2021 wies die Bezirksregierung die Klägerin in den Besitz der Grundstücke des Beigeladenen ein, legte der Klägerin die Kosten des Besitzeinweisungsverfahrens einschließlich der dem Beigeladenen im Zusammenhang damit entstandenen Rechtsvertretungskosten auf und erklärte die Hinzuziehung eines Bevollmächtigten zur zweckentsprechenden Rechtsverfolgung im Besitzeinweisungsverfahren für notwendig. Die Rechtsbehelfsbelehrung verwies auf das Verwaltungsgericht Münster.
+
+3 Mit Streitwert- und Kostenfestsetzungsbeschluss vom 29. März 2023 setzte die Bezirksregierung Münster den Streitwert für das Besitzeinweisungsverfahren fest und verpflichtete die Klägerin, die Rechtsanwaltskosten des Beigeladenen in bestimmter Höhe zu zahlen. Die Rechtsbehelfsbelehrung verwies auf die Möglichkeit, bei dem Landgericht Arnsberg - Kammer für Baulandsachen - einen Antrag auf gerichtliche Entscheidung zu stellen.
+
+4 Die Klägerin hat vor dem Verwaltungsgericht Klage gegen die behördliche Streitwert- und Kostenfestsetzung erhoben. Das Verwaltungsgericht hat mit Beschluss vom 26. September 2023 vorab entschieden, dass der beschrittene Verwaltungsrechtsweg zulässig ist. Mit Beschluss vom 14. August 2024 hat das Oberverwaltungsgericht die dagegen gerichtete Beschwerde des Beklagten zurückgewiesen und wegen grundsätzlicher Bedeutung die Beschwerde an das Bundesverwaltungsgericht zugelassen.
+
+II
+
+5 1. Die weitere Rechtswegbeschwerde des Beklagten nach § 152 Abs. 1 und § 173 Satz 1 VwGO in Verbindung mit § 17a Abs. 4 Satz 4 und 5 GVG ist zulässig, aber nicht begründet.
+
+6 Das Oberverwaltungsgericht ist zu Recht davon ausgegangen, dass für eine Klage gegen eine behördliche Streitwert- und Kostenfestsetzung hinsichtlich der Erstattung von notwendigen Rechtsanwaltskosten im Verfahren der vorzeitigen Besitzeinweisung gemäß § 44b des Gesetzes über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz - EnWG) der Verwaltungsrechtsweg nach § 40 Abs. 1 Satz 1 VwGO eröffnet ist.
+
+7 a) Der Verwaltungsrechtsweg ist gemäß § 40 Abs. 1 Satz 1 VwGO in allen öffentlich-rechtlichen Streitigkeiten nichtverfassungsrechtlicher Art gegeben, soweit die Streitigkeiten nicht durch Bundesgesetz einem anderen Gericht ausdrücklich zugewiesen sind.
+
+8 Ob eine Streitigkeit öffentlich-rechtlicher Art ist, richtet sich nach der Natur der Rechtsnormen, die das Rechtsverhältnis prägen, aus dem der geltend gemachte Anspruch hergeleitet wird (stRspr, vgl. BVerwG, Beschluss vom 21. März 2024 - 3 B 12.23 - NVwZ 2024, 933 Rn. 6 m. w. N.). Dies sind hier für das durch die vorzeitige Besitzeinweisung geschaffene Rechtsverhältnis § 44b EnWG i. V. m. § 121 Abs. 2 und 4 Satz 2 BauGB analog, also öffentlich-rechtliche Vorschriften des Bundesrechts. Daher eröffnet die Generalklausel des § 40 Abs. 1 Satz 1 VwGO den Verwaltungsrechtsweg.
+
+9 Nach § 44b Abs. 5 Satz 1 EnWG hat der Träger des Vorhabens für die durch die vorzeitige Besitzeinweisung entstehenden Vermögensnachteile Entschädigung zu leisten, soweit die Nachteile nicht durch die Verzinsung der Geldentschädigung für die Entziehung oder Beschränkung des Eigentums oder eines anderen Rechts ausgeglichen werden. § 44b Abs. 5 Satz 1 EnWG selbst regelt die Erstattung notwendiger Rechtsanwaltskosten nicht. Die Kosten, die infolge der Beauftragung eines Rechtsanwalts anfallen, um die vorzeitige Besitzeinweisung abzuwenden, sind keine "durch" die Besitzeinweisung entstehenden Vermögensnachteile. Die notwendigen Rechtsanwaltskosten bilden eine eigenständige Kategorie. § 44b Abs. 5 EnWG verweist auch nicht auf andere bundes- oder landesrechtliche Anspruchsgrundlagen. Die übrigen Absätze des § 44b EnWG in der zum Zeitpunkt der Rechtshängigkeit der Klage gültigen Fassung enthalten ebenfalls keinen solchen Verweis (vgl. Art. 1 Nr. 48 des Gesetzes zur Anpassung des Energiewirtschaftsrechts an unionsrechtliche Vorgaben und zur Änderung weiterer energierechtlicher Vorschriften vom 22. Dezember 2023, BGBl. I Nr. 405 S. 2).
+
+10 Die so entstehende Lücke wird nach der zum Bundesfernstraßenrecht entwickelten Rechtsprechung des Bundesverwaltungsgerichts im Wege der analogen Anwendung des § 121 Abs. 2 und 4 Satz 2 BauGB geschlossen. Davon ist der Beklagte sowohl in seiner Kostengrundentscheidung als auch in dem Streitwert- und Kostenfestsetzungsbeschluss vom 29. März 2023 zutreffend ausgegangen. Kosten sind nach § 121 Abs. 2 Satz 1 BauGB die Kosten des Verfahrens und die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen der Beteiligten. Die Gebühren und Auslagen eines Rechtsanwalts oder eines sonstigen Bevollmächtigten sind gemäß § 121 Abs. 2 Satz 2 BauGB erstattungsfähig, wenn die Zuziehung eines Bevollmächtigten notwendig war. Der Bundesgesetzgeber hat mit dem außerhalb der Entschädigungsregelungen normierten § 121 Abs. 2 Satz 1 und 2 BauGB eine grundlegende Systementscheidung getroffen. Der unabhängig vom Verfahrensausgang geltende Erstattungsanspruch stellt sicher, dass die Rechtsverteidigungskosten auch erstattet werden, wenn die Enteignung abgelehnt wird und damit die Kosten nicht als Teil einer Entschädigung geltend gemacht werden können. Es ist kein Grund dafür ersichtlich, dass der Bundesgesetzgeber an der davon abweichenden, früheren, aber als unbillig empfundenen und durch die Neufassung des § 121 BauGB a. F. überwundenen Rechtslage im Fachplanungsrecht hätte festhalten wollen (vgl. zu § 18f Abs. 5 Satz 1 FStrG a. F.: BVerwG, Beschluss vom 8. Mai 2014 - 9 B 3.14 - NVwZ-RR 2014, 622 Rn. 6 f. unter Verweis auf BT-Drs. 7/2496 S. 61).
+
+11 Diese Erwägungen gelten auch für § 44b Abs. 5 Satz 1 EnWG. Es ist nichts dafür ersichtlich, dass der Bundesgesetzgeber im Anwendungsbereich dieser Vorschrift die Kostenerstattung hätte anders regeln wollen. Dass die Gesetzgebungsmaterialien zu § 44b EnWG keinen ausdrücklichen Hinweis auf die analoge Anwendung des § 121 Abs. 2 und 4 Satz 2 BauGB enthalten, steht dem nicht entgegen, weil die Entscheidung über die Erstattung der notwendigen Rechtsanwaltskosten dem Grunde sowie der Höhe nach innerhalb der Materie der vorzeitigen Besitzeinweisung ein Nebenaspekt ist. Damit sind die Verwaltungsgerichte für die Klage gegen einen hierauf beruhenden Streitwert- und Kostenfestsetzungsbeschluss - ebenso wie für die Klage gegen die zugrundeliegende Sachentscheidung der vorzeitigen Besitzeinweisung (vgl. BVerwG, Urteil vom 26. Oktober 2023 - 7 A 2.23 - BVerwGE 180, 363 Rn. 12 ff. m. w. N. sowie BR-Drs. 157/24 (B) S. 12 f. und BT-Drs. 20/11558 S. 7) - zuständig.
+
+12 Entwicklungen in anderen Gesetzen des Fachplanungsrechts führen auf kein anderes Ergebnis. Zwar hat der Bundesgesetzgeber inzwischen in einer Reihe von Infrastrukturgesetzen für die vorzeitige Besitzeinweisung angeordnet, dass im Übrigen die Enteignungsgesetze der Länder gelten sollen, namentlich mit Wirkung zum 10. Dezember 2020 in § 21 Abs. 9 AEG n. F. und § 29a Abs. 9 PBefG n. F. sowie mit Wirkung zum 1. Juli 2021 in § 18f Abs. 8 FStrG n. F. (vgl. BGBl. I 2020 S. 2694 <2696 und 2701> sowie BGBl. I 2021 S. 1221). Die genannten Novellierungen hat er indes nicht zum Anlass genommen, auch § 44b EnWG zu ergänzen, sondern hat diesen unverändert beibehalten.
+
+13 b) Eine abdrängende Sonderzuweisung durch Bundesgesetz im Sinne von § 40 Abs. 1 Satz 1 VwGO besteht nicht.
+
+14 Neben § 44b EnWG i. V. m. § 121 Abs. 2 und 4 Satz 2 BauGB analog gelangt nicht zusätzlich § 217 Abs. 1 Satz 4 BauGB analog zur Anwendung, wonach das Landgericht - Kammer für Baulandsachen - über den Antrag auf gerichtliche Entscheidung entscheidet. Denn gemäß § 40 Abs. 1 Satz 1 VwGO müssen Streitigkeiten durch Bundesgesetz einem anderen Gericht ausdrücklich zugewiesen sein. Für die analoge Anwendung der Sonderzuweisung besteht auch in der Sache kein Anlass. Die dem § 217 Abs. 1 Satz 4 BauGB zugrundeliegende Interessenlage ist nicht vergleichbar. Im Fall des § 217 Abs. 1 Satz 4 BauGB sind die Baulandkammern sowohl für Streitigkeiten hinsichtlich der Sachentscheidung über die vorzeitige Besitzeinweisung als auch für Entscheidungen über die Kosten nach § 121 BauGB zuständig. Denn nach § 217 Abs. 1 Satz 1 BauGB können unter anderem Verwaltungsakte nach dem Fünften Teil des Ersten Kapitels des Baugesetzbuchs durch Antrag auf gerichtliche Entscheidung angefochten werden. Dagegen sind Streitigkeiten hinsichtlich der Sachentscheidung über die vorzeitige Besitzeinweisung gemäß § 44b EnWG den Verwaltungsgerichten zugewiesen. § 44b Abs. 7 Satz 2 EnWG setzt die Anwendung der Verwaltungsgerichtsordnung und damit die Zuständigkeit der Verwaltungsgerichte voraus. Eine analoge Anwendung des § 217 Abs. 1 Satz 4 BauGB auf Streitwert- und Kostenfestsetzungsbeschlüsse würde im Besitzeinweisungsverfahren nach § 44b EnWG somit zu einer Rechtswegspaltung für die Kostengrundentscheidung einerseits und die Kostenfestsetzung andererseits führen.
+
+15 c) Der Rechtsweg zu den Baulandkammern und damit den ordentlichen Gerichten ist auch nicht nach § 40 Abs. 1 Satz 2 VwGO i. V. m. § 50 Abs. 1 des Gesetzes über Enteignung und Entschädigung für das Land Nordrhein-Westfalen (vgl. GVBl. NW 1989 S. 366, im Folgenden: Landesenteignungs- und -entschädigungsgesetz - EEG NW) eröffnet.
+
+16 Zwar enthält das Landesenteignungs- und -entschädigungsgesetz eine dem § 121 BauGB vergleichbare Regelung. § 44 Abs. 2 Satz 1 und 2 EEG NW regelt, dass neben den Kosten des Verfahrens auch die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen der Beteiligten, darunter die notwendigen Rechtsanwaltskosten, erstattungsfähig sind. Allerdings gilt nach § 1 Satz 1 EEG NW das Gesetz für alle Enteignungs- und Besitzeinweisungsverfahren und die damit verbundenen Entschädigungs- und Übernahmeverfahren im Land Nordrhein-Westfalen, wenn und soweit nicht Bundesrecht anzuwenden ist. Im Fall der vorzeitigen Besitzeinweisung nach § 44b EnWG gelangt Bundesrecht zur Anwendung. Denn der Bundesgesetzgeber hat bei Gesamtwürdigung des Normkomplexes für den Bereich des Energiewirtschaftsgesetzes seine Gesetzgebungszuständigkeit für die Energiewirtschaft gegenüber den Ländern abschließend ausgeschöpft (vgl. BT-Drs. 13/7274 S. 13 und BT-Drs. 15/3917 S. 47).
+
+17 Damit steht auch § 40 Abs. 1 Satz 2 VwGO einer abdrängenden Sonderzuweisung durch Landesrecht entgegen. Danach können öffentlich-rechtliche Streitigkeiten "auf dem Gebiet des Landesrechts" gemäß § 40 Abs. 1 Satz 2 VwGO einem anderen Gericht auch durch Landesgesetz zugewiesen werden. Auf dem Gebiet des Bundesrechts eröffnet § 40 Abs. 1 Satz 2 VwGO diese Möglichkeit nicht.
+
+18 2. Für den Senat bestand kein Anlass für eine Vorlage nach § 2 Abs. 1 des Gesetzes zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe des Bundes. Nach dieser Vorschrift entscheidet der Gemeinsame Senat, wenn ein oberster Gerichtshof in einer Rechtsfrage von der Entscheidung eines anderen obersten Gerichtshofs oder des Gemeinsamen Senats abweichen will. Die Rechtsfrage muss sich auf der Grundlage von Vorschriften entscheidungserheblich stellen, die in ihrem Regelungsgehalt gänzlich übereinstimmen und nach denselben Prinzipien auszulegen sind (vgl. BVerwG, Urteil vom 9. Mai 2019 - 4 C 2.18 und 4 C 3.18 - BVerwGE 165, 299 Rn. 18). Daran fehlt es. Das von dem Beklagten angeführte Revisionsurteil des Bundesgerichtshofs zur Erstattung von im Besitzeinweisungsverfahren entstandenen Rechtsanwaltskosten erging auf der Grundlage von § 96 Abs. 1 BBauG a. F. (vgl. BGBl. I 1960 S. 341 <365>: "Wegen anderer durch die Enteignung eintretender Vermögensnachteile") und damit einer anderen Vorschrift als die hier zur Anwendung gelangten Vorschriften (vgl. BGH, Urteil vom 27. September 1973 - III ZR 131/71 - NJW 1973, 2202 <2205>).
+
+19 Die Kostenentscheidung folgt aus § 154 Abs. 2 sowie § 162 Abs. 3 VwGO.
+
+20 Der Festsetzung eines Streitwerts für das Verfahren der weiteren Rechtswegbeschwerde bedarf es nicht, da für derartige Beschwerden nach Nr. 5502 der Anlage 1 zu § 3 Abs. 2 GKG eine Festgebühr in Höhe von 66,00 € erhoben wird.
