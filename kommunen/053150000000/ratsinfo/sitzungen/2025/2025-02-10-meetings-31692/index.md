@@ -1,0 +1,54 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-02-10T14:34:00+01:00
+- Ende: 2025-02-10T15:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31692
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31692
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 30.09.2024) - Kenntnis genommen
+- TOP 2.3: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007 - Kenntnis genommen
+- TOP 2.4: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2023 - Beteiligungsbericht 2023 - Kenntnis genommen
+- TOP 2.5: Monatsbericht Sanierung der Bühnen Köln November und Dezember 2024 - Kenntnis genommen
+- TOP 2.6: Grundsteuerreform und Veranlagung der Grundsteuer für das Jahr 2025 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i. V. m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 6.2.2: Unterrichtung über Mehrkosten gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2024 bis 2027 zur Erweiterung des Wallraf-Richartz-Museums (WRM) & Fondation Corboud einschließlich Randbebauung - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Generalsanierung des Steyrer Wegs von Statthalterhofallee bis Donauweg sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Generalinstandsetzung des Mainwegs zwischen Honschaftsstraße und Birkenweg sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 7.3: Baubeschluss für die Generalsanierung der Horbeller Straße von Toyota Alle bis Zufahrt Haus.-Nr. 10-14 sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 7.4: Weiterplanungs- und Baubeschluss auf Basis der Entwurfsplanung Johannes-Giesberts-Park - geändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (kurz: Parkgebührenordnung 2025) - ohne Votum behandelt
+- TOP 10.2: Kalkberg, hier: Ausführung von Restarbeiten zum nutzungsunabhängigen Gebäudeverschluss und zur Sicherung der Bausubstanz in Vorbereitung einer Nachnutzung sowie Übertragung der Immobilie in das Allgemeine Liegenschaftsvermögen der Stadt Köln - ohne Votum behandelt
+- TOP 10.3: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - zurückgestellt
+- TOP 10.4: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2025 - ungeändert beschlossen
+- TOP 10.5: Planungs- und Baubeschluss zur Erstellung eines Modulbaus für Unterrichtszwecke und einer Mensa in Modulbauweise für das Gymnasium Rondorf am Standort Eygelshovenerstr. 19, 50999 Köln - ungeändert beschlossen
+- TOP 10.6: Akademie der Künste der Welt/Köln, gGmbH; Liquidation - ohne Votum behandelt
+- TOP 10.6.1: Änderungsantrag zu TOP 10.6 - "Akademie der Künste der Welt/Köln, gGmbH; Liquidation“; 3630/2024 - ohne Votum behandelt
+- TOP 10.7: AchtBrücken GmbH - Liquidation - ohne Votum behandelt
+- TOP 10.8: Neu-Festsetzung Kartenpreise für Konzerte des Gürzenich-Orchesters in der Kölner Philharmonie ab 2025/26 - ungeändert beschlossen
+- TOP 10.9: Circular.Culture: Übernhame eines Eigenanteils im Rahmen des EFRE-Förderaufrufs Circular Economy - Circular Cirities.NRW - ungeändert beschlossen
+- TOP 10.10: Sicherung des Interimsspielbetriebs der Oper / "Interim VII – vorgezogene Maßnahmen" / Koexistenz am Staatenhaus - ohne Votum behandelt
+- TOP 10.11: Generalinstandsetzung des Wallraf-Richartz-Museums (WRM) & Fondation Corboud - Weiterplanungs- und Baubeschluss - ungeändert beschlossen
+- TOP 10.12: Anpassung der Entgeltordnung für das Erheben von Tauchentgelten am Fühlinger See - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
