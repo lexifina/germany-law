@@ -1,0 +1,157 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8737719
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8737719
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: Vorstellung der Abteilung Koordination für Psychiatrie und Suchthilfe, GSR
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: 10 Jahre Bürgergutachten, 5 Jahre Masterplan
+- TOP 6.2.: Nachfrage Leerstand Mehrfamilienhaus Theresienstraße 150a
+- TOP 6.3.: Einbahnstraßenregelung Gabelsbergerstraße/ Theresienstraße
+- TOP 6.4.: Planungsstand Umgestaltung Augustenstraße
+- TOP 6.5.: Verkehrsberuhigung Luisengymnasium
+- TOP 6.6.: Antrag Gorillas
+- TOP 6.7.: Antrag UA SB: Hallenzeiten des TSC Maxvorstadt
+- TOP 6.8.: Anmerkung des BA 3 auf Antwortschreiben zu BA-Antrag Nr. 20-26 / B 05858
+- TOP 6.9.: Antwort der LBK auf Nachfrage des BAs zu A 6.17 aus 01/25
+- TOP 6.10.: Antrag des Elternbeirats auf Verbesserung der Schulwegsicherheit Grundschule Dachauer Straße 98 TOP E 3.1.2/ 07 2024
+- TOP 6.11.: Erhöhung des Flaschenpfands auf 0,50 Euro
+- TOP 6.12.: Erhöhung des Flaschenpfands auf 0,50 Euro, Schreiben
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Verpackungsabgabe auch in München verlangen
+- TOP 1.2.2.: Nachfrage Gutachten Strafjustizzentrum
+- TOP 1.2.3.: Auskunft über erfolgte Maßnahmen der Müllreduzierung in der Maxvorstadt
+- TOP 1.2.4.: Anwohnerworkshop zur Umgestaltung des Arnulfparks
+- TOP 1.2.5.: Baumaßnahme „Paul-Heyse-Villa“ – Strenge Begleitung durch die untere Denkmalschutzbehörde
+- TOP 1.2.6.: Ergänzungsantrag zu den Anträgen Nr. 20-26 / B 03606 vom 08.02.2022 und BA-Antrags-Nr. 20-26 / B 07100 vom 08.10.2024 sowie Antwortschreiben vom Sozialreferat an den BA3 vom 27.12.2024: Leerstand Theresienstraße 150
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten LBK KW50, KW51, KW01, KW03, KW04
+- TOP 2.1.2.: WEB-Listen der LBK KW 49-50, KW 01-03
+- TOP 2.1.3.: Theresienstraße 18, 1.7-2024-20220-22 Nutzungsänderung von Büronutzung in Wohnnutzung und Dachgeschossausbau für zwei zusätzliche Wohneinheiten sowie Ergänzung | 17.02.2025
+- TOP 2.1.4.: Königinstr. 35, 1.7-2024-20523-22 , Neubau einer Remise mit Wohnnutzung sowie eines Kellers - VORBESCHEID
+- TOP 2.1.5.: Augustenstraße 63, 1.7-2024-20742-22 Aufstockung Rückgebäude mit Wohnungen - VORBESCHEID
+- TOP 2.1.6.: Hiltensperger Str. 11, 1.1-2024-20342-22, Nutzungsänderung von Büro zu Pension
+- TOP 2.1.7.: Linprunstr. 44, 1.2-2024-20745-22 , Schaffung von Wohnraum durch Nutzungsänderung von Büro in Wohnung. Das 3-Zimmer Büro/Atelier (Nr.6) im Erdgeschoss hat Küche, Bad, WC, Tageslicht, barrierefreien Zugang. Der Grundriss Nr.6 entspricht den darüber liegenden Woh-nungen Nr. 13, 20, 27.
+- TOP 2.2: BV-Empfehlungen
+- TOP 2.2.1.: (E) Lärmaktionsplan 2024
+- TOP 2.2.2.: (E) Baumneupflanzungen
+- TOP 2.2.3.: (E) + (U) Erhalt der Eckbebauung an der Schellingstraße 25/27 bis Türkenstraße 64/66
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Mülleinsammlung durch die rororecycle GmbH, Stadtgebiet München, Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 5.2.: Abfallwirtschaftsbetrieb München (AWM); Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen
+- TOP 5.3.: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Halbjährliche kostenlose Sperrmüllabfuhr
+- TOP 5.4.: Meldung von Baumfällungen im Stadtbezirk 3
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Vorschlag für neue Fahrradabstellanlage
+- TOP 1.1.2.: Bürgerbegehren Tempo 30 Arcisstr. nördlicher Teil
+- TOP 1.1.3.: Anpassung der Parkflächenmarkierung
+- TOP 1.1.4.: Starke Verschmutzung U-Bahnhof Theresienstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Forderungen des Spielhaus Sophienstraße zu den Maßnahmen im Alten Botanischen Garten (vertagt aus 01/25)
+- TOP 1.2.2.: entfällt
+- TOP 1.2.3.: Reinigung der Unterführung unter der Ludwigstraße
+- TOP 1.2.4.: Hinweisschilder auf das Taubenfütterungsverbot – Verständigungsmöglichkeit der Straßenreinigung
+- TOP 1.2.5.: Nach dem Anschlag auf den Weihnachtsmarkt in Magdeburg – Sind die Veranstaltungen in der Maxvorstadt auf dem aktuellen Sicherheitsstand oder muss nachgebessert werden?
+- TOP 1.2.6.: Dringlichkeitsantrag der SPD vom 06.02.2025 Begehung der Freischankflächen in der Amalien-/ Schelling-/ Türkenstraße mit der Bezirksin-spektion
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Zirkus Krone Straße; Wredestraße, Zeichen 283 StVO, Aufhebung Befristung
+- TOP 2.1.2.: Anhörung Verkehrsrechtliche Anordnung Kardinal-Döpfner-Straße
+- TOP 2.1.3.: BA-Anhörung I Verkehrliche Funktionen der Brienner Str. östlich des Oskar-von-Miller-Rings, ... I Sitzungsvorlage Nr. 20-26 / V 15606 I Termin 12.02.2025
+- TOP 2.1.4.: Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 2.1.5.: Brienner Straße, Aufhebung des Zeichens 209-30 StVO
+- TOP 2.1.6.: (E) Aufhebung der Einbahnstraßenregelung für Fahrradfahrer in der Gabelsbergerstraße
+- TOP 2.1.7.: (E) Einführung von Tempolimits in der Maxvorstadt
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: entfällt
+- TOP 2.2.2.: (E) Anzahl Spätis, Müllverschmutzung, Plastikbecher, Glasscherben auf Straßen und Gehwegen
+- TOP 2.2.3.: Türkenstr. 92, Einzelhandel der "Bazaar Noir UG (HRB: 244099, AG München)", Neuantrag Warenauslagen
+- TOP 2.2.4.: Krähenplage und ihre Folgen; alle Bezirksausschüsse
+- TOP 2.2.5.: Antrag (Radentscheid München) für eine Fahrradabstellanlage In der Georgenstraße, Isabellastraße und Adalbertstraße, Verfahrensvorschlag Baureferat
+- TOP 2.2.6.: Sanierung Fahrbahndecke Luisenstraße/ Bitte um Stellungnahme
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Palmi Cafe, Königinstr. 37, Änderung der Freischankfäche
+- TOP 2.3.2.: Türkenstr. 38, Gasthaus FUX, Freischankfläche und Schanigarten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Bez. 3, Wittelsbacherplatz | Anhörungsverfahren Marktfestsetzung und VA auf öff. Verkehrsgrund: "Italienischer Markt" vom 27.02. - 02.03.2025 | Anhörungsfrist: 12.02.2025
+- TOP 2.4.2.: Anhörung: Parade zum St.Patricks-Day (Start: Feilitzschstraße) am 16.03.2025 und Veranstaltung auf dem Odeonsplatz am 15./16.03.2025 - Termin: 03.03.2025
+- TOP 2.4.3.: Bez. 3, 4, 10, 11, 23, 24 (Start Olympiapark) | Anhörungsverfahren für öff. Verkehrsgrund | "Wings for Life 2025" am 04.05.2025 | A: 31.03.2025
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Unveränderte Gaststättenfortführungen
+- TOP 3.3.: Verkehrsrechtliche Anordnungen
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: Baumaßnahmen der Stadtwerke München
+- TOP 3.6.: Eilentscheid Projekt SWM Baumaßnahmen Stachus, Querung Prielmayerstraße
+- TOP 3.7.: (U) IAA MOBILITY – Rückblick auf die IAA 2023, Ausblick auf die IAA MOBILITY 2025 und das Festival of Lights und Verbleib der IAA MOBILITY in München Keine weitere IAA in der Maxvorstadt Antrag Nr. 20-26 / B 07102 des Bezirksausschusses des Stadtbezirkes 03 – Maxvorstadt vom 08.10.2024 Keine IAA in der Altstadt Antrag Nr. 20-26 / B 07167 des Bezirksausschusses des Stadtbezirkes 01 – Altstadt-Lehel vom 17.10.2024 Klares Bekenntnis zur Internationalen Automobilausstellung (IAA) Antrag Nr. 20-26 / A 05175 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Manuel Pretzl, Herrn Stadtrat Thomas Schmid, Frau Stadträtin Ulrike Grimm, Herrn Stadtrat Sebastian Schall, Herrn Stadtrat Hans-Peter Mehling vom 17.10.2024 IAA Open Spaces, Verkleinerung der maximalen Fläche Empfehlung Nr. 20-26 / E 02407 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 12.11.2024 Königsplatz- Grünfläche nach der IAA wieder herstellen Empfehlung Nr. 20-26 / E 02406 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 12.11.2024
+- TOP 3.8.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 3.9.: (U) Neubau Hauptbahnhof - Finanzierungsbedarf für den Bau der beiden Anlagen Fahrradgarage im Neubau Empfangsgebäude, Fahrradgarage im U1/U2-Bauwerk
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Seilbahn Spielplatz Tengstraße
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP 4.2.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Münchner Behördenorchester e.V. Konzert in der LMU München am 17.05.2025 2.800,00 Euro, Az.: 0262.0-3-0570
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "TiltSpin" TiltSpin Kunstareal vom 01.05. - 01.08.2025 1.999,70 Euro, Az.: 0262.0-3-0569
+- TOP 2.3.: (E) Stadtbezirksbudget TIP Theory in Practice TIP Halbjahresprogramm vom 25.02. - 15.08.2025 9.700,00 Euro, Az.: 0262.0-3-0572
+- TOP 2.4.: (E) Stadtbezirksbudget Theaterkollektiv Futur.X GbR Performance „rememory“ vom 31.01. – 14.02.2025 2.000,00 Euro, Az.: 0262.0-3-0571
+- TOP 2.5.: (E) Stadtbezirksbudget CultureClouds e.V. Rampenlichter DemokrARTie vom 20.01. - 31.12.2025 3.375,00 Euro, Az.: 0262.0.3.0568
+- TOP 2.6.: (E) Stadtbezirksbudget Künstlerverbund im Haus der Kunst e.V. Archivausstellung Künstlerverbund im Zentralinstitut für Kunstgeschichte vom 20.03. – 04.07.2025 6.000,00 Euro, Az.: 0262.0-3-0573
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Unterstützung der BAs bei Bürgeranliegen Kennzeichnung von Brücken mit den Brückennamen
+- TOP 1.2.: Zukunft gestalten im Quartier (ZiQ); Unterstützung bei der Quartiersauswahl durch die Erfahrungen und Einschätzung der Bezirksausschüsse
+- TOP 1.3.: Aufräumaktion Bürgerbüro (vertagt aus 12/24 und 01/25)
+- TOP 1.4.: Termin Kassenprüfung
+- TOP 1.5.: Stadtbezirksbudget 2025
+- TOP 1.6.: BA Veranstaltungen
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
