@@ -1,0 +1,79 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-02-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634631
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634631
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 14.01.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (Anfrage) Entwicklung Grundsteueraufkommen im Stadtbezirk 19
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Condrobs e. V. Neue Bettwäsche und Bettzeug für das Integrationsprojekt Kistlerhofstraße, 01.02. - 30.06.2025 3.217,08 €; Az.: 0262.0-19-0561
+- TOP 3.3.: (E) Stadtbezirksbudget Trägerverein Bürgersaal Fürstenried Beschilderung des Bürgersaals 2.019,00 €; Az. 0262.0-19-0562
+- TOP 3.4.: (Antrag) Bestellung städtischer Leistungen: Spielgerät
+- TOP 3.5.: (E) Stadtbezirksbudget Förderverein der Grundschule Boschetsrieder Straße e.V. Zirkus Projektwochen vom 14. -25.07.2025 12.000,00€; Az. 0262.0-19-0558
+- TOP 3.6.: (E) Stadtbezirksbudget Förderverein der Grundschule Herterichstraße e.V. Schulzirkus an der Herterichschule vom 23.06. -04.07.2025 13.710,00€; Az. 0262.0-19-0557
+- TOP 3.7.: (E) Stadtbezirksbudget Init. "Ferienfilmworkshop" Ferienfilmworkshop "Let&#039;s make it short" vom 16. -20.06.2025 3.450,00€; Az. 0262.0-19-0566
+- TOP 3.8.: (E) Stadtbezirksbudget QuarterM gGmbH /Nachbarschaftstreff Südpark Lesung: "Steck mal in meiner Haut - Antirassismus, Aufklärung und Empowerment" am 28.03.2025 450,00€; Az. 0262.0-19-0565
+- TOP 3.9.: (E) Stadtbezirksbudget Schützengesellschaft Falkenhorst Forstenried 1904 e.V. Sonder-Trainingslager der Abteilung Bogenschießen vom 12.04. -01.06.2025 697,00€; Az. 0262.0-19-0564
+- TOP 3.10.: (E) Stadtbezirksbudget Fürstenrieder Konzert und Kultur e.V. Klassisches Konzert am 22. oder 23.11.2025 4.573,75€; Az. 0262.0-19-0563
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Mobilfunk-Suchkreismeldung Aidenbachstraße
+- TOP 4.4.: (A) Mobilfunk-Suchkreismeldung Siemenswerke
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Errichtung Fahrradabstellfläche Allescherstraße
+- TOP 5.2.: (A) Neubau der Lichtsignalanlage in der Limmat-/Züricherstraße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Zeitlich beschränktes absolutes Haltverbot in der DrygalskiAllee
+- TOP 5.4.: (A) Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 5.5.: (E) Lärmschutzmaßnahmen Garmischer Autobahn (A95)
+- TOP 5.6.: (E) Erhalt des Obst- und Gemüsestandes am Fellerer Platz Empfehlung Nr. 20-26 / E 02287 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 17.10.2024
+- TOP 5.7.: (Antrag) Fahrradständer Bushaltestelle Waldfriedhof Solln
+- TOP 5.8.: (E) Beendigung des verkehrsbehindernden Abstellens von E-Scootern
+- TOP 5.9.: (E) Ausbau von Ladestationen für E-Autos in Solln
+- TOP 5.10.: (A) Verkehrsrechtliche Anordnung: Sichthaltverbot vor der Supermarktzufahrt in der Kistlerhofstraße
+- TOP 5.11.: (A) Verkehrsrechtliche Anordnung: PKW-Parken in der Stäblistraße
+- TOP 5.12.: (A) Verkehrsrechtliche Anordnung: Haltverbotsregelung Kandinskystraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Schäftlarnstraße 158 (VB)
+- TOP 6.2.2: Krennerweg 11a
+- TOP 6.2.3: Schultheißstraße 18
+- TOP 6.2.4: Auf der Falkenbeiz 2
+- TOP 6.2.5: Am Vogelherd 19
+- TOP 6.2.6: Geisenhausenerstraße 6
+- TOP 6.2.7: Mühlthaler Straße 83
+- TOP 6.2.8: Traubinger Straße Flurnr. 448/281
+- TOP 6.2.9: Mindelheimer Straße Flurnr. 551/23 (VB)
+- TOP 6.2.10: Meglingerstraße 7 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Familienzentrum (Friedenskapelle) in Neuforstenried erhalten
+- TOP 7.2.: Zukunft gestalten im Quartier - Quartiersauswahl
+- TOP 7.3.: (E) Sanierung und Erweiterung des bestehenden Spielplatzes am Begasweg / Ecke Plattlinger Straße als nachhaltige Alternative zur Errichtung eines neuen Spielplatzes am Hermann-Hahn-Platz Bedarfs- und Kostenanalyse zur Errichtung eines Spielplatzes am Hermann-Hahn-Platz unter Berücksichtigung Daten, Fakten und alternativen Standorten
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Kistlerhofstraße
+- TOP 8.3.: (U) Gaststättenfortführung: Graubündener Straße
+- TOP 9: Verschiedenes
+- TOP 1.5.: null
