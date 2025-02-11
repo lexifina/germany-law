@@ -1,0 +1,6 @@
+# TOP -: Beschlussempfehlungen an den Rat unter Beteiligung der Bezirksausschüsse
+
+- Sitzung: Ausschuss für Planung, Stadtentwicklung und Mobilität (2025-02-11)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/248325
