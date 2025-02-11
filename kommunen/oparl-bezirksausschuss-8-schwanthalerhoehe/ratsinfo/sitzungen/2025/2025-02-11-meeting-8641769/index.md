@@ -1,0 +1,101 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8641769
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8641769
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Neuigkeiten aus dem Alten- und Service-Zentrum Westend
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Parken in der Zufahrt zum Kinderhaus St. Rupert
+- TOP 4.2.: Verkehrsgefährdung am Fußgängerübergang Anglerstraße / Ganghoferstraße
+- TOP 4.3.: Pfützenbildung am Fußweg auf Höhe Landsberger Str. 137
+- TOP 4.4.: Errichtung eines Zebrastreifens östlich der Ecke Ligsalzstraße / Heimeranstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Anschreiben der Haushalte für die Einladung zur Bürgerversammlung
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: (E) + (U) Gewerbehof Westend: Ostfassade sanieren Empfehlung Nr. 20-26 / E 01170 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 02.05.2023 Fassadenbegrünung Gewerbehof Westend Empfehlung Nr. 20-26 / E 01951 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 18.04.2024
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ligsalzstraße 36
+- TOP 6.2.2.: Bauvorhaben Landsberger Str. 137
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststätten
+- TOP 6.3.3.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 6.3.4.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 6.3.5.: Neuerrichtung und Gaststättenerlaubnis Hans-Fischer-Str. 40
+- TOP 6.3.6.: Informationsschreiben zur Genehmigung von Foodtrucks auf dezentralen Plätzen
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Projekt "Zukunft gestalten im Quartier" - Unterstützung bei der Quartiersauswahl
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Ehrenamtliche Unterstützung der Unterkunft Ridlerstr 13-15; Mietpreise freier Wohnungsmarkt
+- TOP 7.3.2.: Beleuchtung des Bolz- und Basketballplatzes der IG-Feuerwache in der Ganghoferstraße 41
+- TOP 7.3.3.: Veranstaltung zum Thema Suchterkrankungen in der Schwanthalerhöhe
+- TOP 7.3.4.: Möglichkeit zur Vorstellung des Sport- und Veranstaltungskonzepts "Padel Beach"
+- TOP 7.3.5.: Vorstellung Allparteiliches Konfliktmanagement München (AKIM)
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Festumzug mit Freibierausschank zum Frühlingsfest auf der Theresienwiese am 25.04.2025
+- TOP 8.2.2.: Tanzserenade auf dem Platz am Bavariapark am 25.05.2025
+- TOP 8.2.3.: Nachbarschaftsflohmärkte in 2025 am Georg-Freundorfer-Platz und Gollierplatz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlungen Schießstättstraße 14 am 24.01.2025, 01.02.2025 und 08.02.2025
+- TOP 8.3.2.: Versammlung Georg-Freundorfer-Platz am 08.03.2025
+- TOP 8.3.3.: Projekt „Coffee with a Jew“
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einrichtung von Fahrradstellplätzen und Baumpflanzungen vor dem Anwesen Ligsalzstraße 8
+- TOP 9.3.2.: Verbesserung der Anbindung der Theresienwiese zur Schwanthalerhöhe für den Fuß- und Radverkehr BV-Anfrage 20-26 / Q 00121 vom 25.04.2022
+- TOP 9.3.3.: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen
+- TOP 9.3.4.: Meldeliste Bauvorhaben SWM; - Fernwärme-Projekt Gollierstraße 5 - Fernwärme-Projekt Heimeranstraße 52c - Fernwärme-Projekt Schießstättstraße 27 - 29
+- TOP 9.3.5.: Stromprojekt u.a. Oda-Schäfer-Weg - Antwortschreiben und Präsentation
+- TOP 9.3.6.: Realisierung eines Rasengleises auf der Trambahnstrecke in der Landsberger Straße zwischen dem Mittleren Ring und der Friedenheimer Brücke
+- TOP 9.3.7.: Informationstisch zur kommunalen Wärmeplanung im Rahmen der Bürgerversammlung
+- TOP 9.3.8.: Fahrradstraße Bergmannstraße - Fristverlängerung BV-Empfehlung E 01966
+- TOP 9.3.9.: Parkraummanagement in München - Umsetzung Sektor VI, Teil 2
+- TOP 9.3.10.: (U) MVV-Tarifanpassung 2025 Freistaat soll Schüler*innen ein 29-Euro-Ticket ermöglichen! Antrag Nr. 20-26 / A 05110 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste, Die Linke / Die PARTEI Stadtratsfraktion München vom 17.09.2024, eingegangen am 17.09.2024 365-Euro-MVV-Ticket für Feuerwehr-Auszubildende Antrag Nr. 20-26 / A 04941 von der Fraktion ÖDP/München-Liste vom 20.06.2024, eingegangen am 20.06.2024 Sonderpreis im MVV und ÖPNV für Senioren Empfehlung Nr. 20-26 / E 01990 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 13.06.2024 29-Euro-Ticket auch für Schülerinnen und Schüler Empfehlung Nr. 20-26 / E 01968 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 18.04.2024
+- TOP 9.3.11.: Verbesserung des Zugangs für FußgängerInnen vom „Bahndeckel“ Richtung Westen/Theresienwiese
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Hobbits e. V. Geräteschrank für Spielzeug und Fahrgeräte der Kinder, 25.02. - 25.03.2025 374,99 €; Az.: 0262.0-8-0428
+- TOP 10.1.2.: Bestellung städtischer Leistungen – Aufstellung eines Schaukastens zur Information für Jugendliche; € 1.212,-
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. "Druckgraphiken" Ausstellungsprojekt: Petroglyphs vom 15.3. -05.04.2025 990,00€; Az. 0262.0-8-0430
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Die Höhe des BA-Budgets in 2025 beträgt € 80.955,17
+- TOP 10.3.2.: Stadtbezirksbudget - Aktualisierung Richtlinien und Antragsformular
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Bessere Betreuung von Gewaltopfern sicherstellen
+- TOP 11.2.: Wiederherstellung des Grünstreifens am Oda-Schäfer-Weg
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Bewerbung um den Münchner Nachbarschaftspreis
+- TOP 12.2.2.: Antrag BA17; Prüfung der Auswirkungen vor Schließung von Postfilialen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Informationsschreiben BA 01 / 2025; Kommunalwahl 2026: - neues Verfahren zur Feststellung der BA-Größe - Zeitpunkt für die konkrete Berechnung der jeweiligen BA-Größen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
