@@ -1,0 +1,69 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-02-11T16:00:00+01:00
+- Ende: 2025-02-11T16:58:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23380
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23380
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00344324.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00346163.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2023 der APH Service GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.2.1: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2023 - Entlastung des Betriebsausschusses - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2023/2024 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2023/2024 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2023/2024 - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Aufsichtsrates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2023/2024 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Betrauung der Gemeinnnützigen Wohnungsbaugesellschaft mbH Wuppertal (gwg) hier: Höhe des Betrauungszuschusses für 2024 ff. - ungeändert beschlossen
+- TOP 3.2: Abberufung und Bestellung der stellvertretenden Vertretung in der Gesellschafterversammlung der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 3.3: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichsfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2025 bis 31.12.2025 - ungeändert beschlossen
+- TOP 3.4: Ergänzungsvereinbarung für die Alten- und Altenpflegeheime der Stadt Wuppertal zur bestehenden Vergütungsvereinbarung vom 28.12.2022 - ungeändert beschlossen
+- TOP 3.5: QUARTALSREPORT für Q4/2024 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Personalausstattung von Wirtschaftsförderungen in NRW - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Umnutzung der Galeria Kaufhof Immobilie mit kommunalen Nutzungen Zentralbibliothek und Erwachsenenbildung - geändert beschlossen
+- TOP 6.2: Überplanmäßige Bereitstellung von Mitteln für die Brücke Brändströmstraße - ungeändert beschlossen
+- TOP 6.3: ISEK Elberfeld - Durchführungsbeschluss Ausschreibung Innenstadtmanagement - ungeändert beschlossen
+- TOP 6.4: Ausschreibung zur Fortführung des Innenstadtmanagements Barmen – „BarmenUrban“ - ungeändert beschlossen
+- TOP 6.5: Anmietung des Gebäudes Hoeftstraße 35/41 42103 Wuppertal für das WupperTalentZentrum (WTZ) - ungeändert beschlossen
+- TOP 6.6: Zuschüsse zur Förderung der Jugendverbandsarbeit 2025 - ungeändert beschlossen
+- TOP 6.7: Darstellung der finanziellen Auswirkungen der Bundesgartenschau im Jahr 2031 zur Vorbereitung der Haushaltsberatung für die Jahre 2026/2027 - ungeändert beschlossen
+- TOP 6.8: Gründung einer stadteigenen Schul- und Sonderbau Gesellschaft - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.8.1: Gemeinsamer Antrag, Ersetzungsantrag zur Drucksache VO/0817/24, „Gründung einer stadteigenen Schul- und Sonderbau Gesellschaft“, - ungeändert beschlossen
+- TOP 6.9: Erstellung eines erweiterten / ergänzenden Personalberichtes; Gemeinsamer Antrag - geändert beschlossen
+- TOP 6.9.1: Ergänzungsantrag zu VO/0137/25 - Erstellung eines erweiterten / ergänzenden Personalberichtes - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.10: Mehr Sauberkeit durch Mehrweg-Förderung - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 30.11.2024-24.01.2025 - Entgegennahme ohne Beschluss
+- TOP 8.2: Bericht zur finanziellen Lage der Stadt Wuppertal (Finco) - Entgegennahme ohne Beschluss
+- TOP 8.3: Klage gegen die Festsetzungsbescheide für die Zuweisungen aus dem Gemeindefinanzierungsgesetz 2025 und für die Zahlung der Landschaftsumlage 2025 - Entgegennahme ohne Beschluss
+- TOP 8.4: Erfolglose Verfassungsbeschwerde gegen Tübinger Verpackungssteuersatzung - Entgegennahme ohne Beschluss
+- TOP 8.5: Bericht Zins- und Schuldenmanagement zum 31.12.2024 - Entgegennahme ohne Beschluss
+- TOP 8.6: Nachtragsplan 2025 - Veränderung der Anlage 11 - Entwicklung des Eigenkapitals - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Einbringung des Entwurfs der Haushalts-Nachtragssatzung für das Haushaltsjahr 2025 - ungeändert beschlossen
+- TOP 9.2: Satzungsänderung der Dr. Alfred-Springorum-Stiftung - ungeändert beschlossen
+- TOP 9.3: Errichtung einer unselbstständigen Stiftung - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW IV. Quartal 2024 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
