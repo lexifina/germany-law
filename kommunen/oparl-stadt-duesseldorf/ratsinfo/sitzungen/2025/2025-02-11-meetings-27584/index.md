@@ -1,0 +1,58 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-02-11T16:00:00+01:00
+- Ende: 2025-02-11T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27584
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27584
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00544189.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00544189.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00544189.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/008/2024 vom 19.11.2024 - zurückgezogen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Weiterentwicklung des On Demand-Verkehrs flexy - zur Kenntnis genommen
+- TOP 4.2: RadLeitRoute 2, West-Ost, von Hansaallee/Böhlerstraße bis Neusser Tor, Gerresheim – Teil 2: Cantadorstraße bis Dieselstraße / Hellweg - Empfehlung mehrheitlich abgelehnt
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Verwendung von Haushaltsmittel 2025 hier: Zuwendungsantrag vom ASG-Bildungsforum „Textiles Sammelfieber“ - mehrheitlich beschlossen
+- TOP 4.7: Verwendung von Haushaltsmittel 2025 hier: Zuwendungsantrag vom Café Kausal "Kunstausstellung" - mehrheitlich abgelehnt
+- TOP 4.8: Verwendung von Haushaltsmittel 2025 hier: Nails projectroom - vertagt
+- TOP 4.9: Verwendung von Haushaltsmittel 2025 hier: Zuwendungsantrag vom ASG-Bildungsforum „Lesung zur Purim Feier“ - einstimmig beschlossen
+- TOP 4.10: Zuschuss an den Tanzsportclub Düsseldorf Rot-Weiss e.V. - einstimmig beschlossen
+- TOP 4.11: Sportanlage Altenbergstraße 103 – Erneuerung Kunststoffbelag Kleinspielfeld - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2025 Liste A Schulen 2121101/52415200 - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Fahrradständer auf der Beethovenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 5.2: Runder Tisch Flurstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 5.3: Drogenhilfezentrum verrlegen - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 5.4: Öffentliche Papiercontainer im Stadtbezirk 2 wieder aufstellen - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.5: Bänke für die Weseler- und Mülheimer-Straße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 5.6: Einrichtung eines Zebrastreifens für die Kinder der Heinrich-Heine Gesamtschule an der Graf-Recke-Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6: Anfrage aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Berücksichtigung Vorgartensatzung Gebäude Grafenberger Allee 250/250a/Sohnstr 6-10 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7.2: Mobilfunkmast Degerstr. 38 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Quartiersgaragen - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Kosten und Erlöse Anwohnerparkausweiszonen im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Betreuter Taubenschlag Krahestraße/Ecke Mettmanner Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/222/2022 - zur Kenntnis genommen
+- TOP 8.2: repräsentative Parkraumerhebung zum Anwohnerparken - Beschluss der Bezirksvertretung 2, Vorlage BV2/017/2024 - zur Kenntnis genommen
+- TOP 8.3: Anlegung eines begehbaren Labyrinths - Beschluss der Bezirksvertretung 2, Vorlage BV2/227/2024 - zur Kenntnis genommen
+- TOP 8.4: Trainingsstätte für den Düsseldorfer Schachklub 1914/25 e.V. - Beschluss der Bezirksvertretung 2, Vorlage - zur Kenntnis genommen
+- TOP 8.5: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 8.6: Ergebnisse der Haushaltsbegleitanträge der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 8.7: Trinkwasserbrunnen für die Wiese vor dem Seniorenzentrum Grafental - Beschluss der Bezirksvertretung 2, Vorlage BV2/237/2024 - zur Kenntnis genommen
