@@ -1,0 +1,166 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2025-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8396784
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8396784
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 14.01.2025
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Warthestr. 1 - Neubau einer Wohnanlage mit Tiefgarage und Gewerbe im Ergdeschoss - VORBESCHEID - Vorstellung durch die Antragsteller -
+- TOP 2.2.1.2.: Hohensalzaer Str. 5: Neubau zweier Einfamilienhäuser mit Garagen - Rückmeldung des Antragstellers -
+- TOP 2.2.1.3.: Saalestr. 11: Neubau eines Einfamilienhauses mit Garage und Abbruch des Bestandes
+- TOP 2.2.1.4.: (E) + (U) Abstellen von Schimmel und Leerstand in der Walpurgisstraße 13
+- TOP 2.2.1.5.: (E) + (U) BV-Empfehlungen zur Tram Nordtangente und Johanneskirchner Straße
+- TOP 2.2.1.6.: Seeligerstr. 4: Neubau einer Wohnanlage mit Errichtung zweier Mehrfamilienhäuser (je 7 WE) mit einer gemeinsamen Tiefgarage in offener Bauweise, Errichtung von 14 Stellplätzen für Kfz, davon 12 unterirdisch und 2 oberirdisch auf dem Grundstück sowie von 32 Fahrradstellplätzen, davon 10 unterirdisch und 22 oberirdisch auf dem Grundstück
+- TOP 2.2.1.7.: Hoyerweg 21: Neubau einer Doppelhaushälfte mit Garage
+- TOP 2.2.1.8.: Undinestr. 1: Errichtung eines Mehrfamilienhauses (5 WE) mit Duplexgarage und Stellplatz
+- TOP 2.2.1.9.: Knappertsbuschstr. 43: Schulbauoffensive - Errichtung einer MRE mit 2 Lernhäusern, WTG-Raum, Mensa, Küche und Verwaltungsräumen
+- TOP 2.2.1.10.: Pienzenauerstr. 83: Neubau eines Wohnhauses mit zweigeschossiger Tiefgarage, Außenpool mit Poolhaus
+- TOP 2.2.1.11.: Wimmerstr. 17: Sanierung einer Doppelhaushälfte zu zwei Wohneinheiten
+- TOP 2.2.1.12.: Nettelbeckstr. 22: Neubau eines Doppelhauses mit Garage
+- TOP 2.2.1.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.14.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Warthestr. 1 - Neubau einer Wohnanlage mit Tiefgarage und Gewerbe im Ergdeschoss - VORBESCHEID
+- TOP 2.2.2.2.: Saalestr. 11: Neubau eines Einfamilienhauses mit Garage und Abbruch des Bestandes
+- TOP 2.2.2.3.: Hohensalzaer Str. 5 - Neubau zweier Einfamilienhäuser mit Garagen
+- TOP 2.2.2.4.: Seeligerstr. 4: Neubau einer Wohnanlage mit Errichtung zweier Mehrfamilienhäuser (je 7 WE) mit einer gemeinsamen Tiefgarage in offener Bauweise, Errichtung von 14 Stellplätzen für Kfz, davon 12 unterirdisch und 2 oberirdisch auf dem Grundstück sowie von 32 Fahrradstellplätzen, davon 10 unterirdisch und 22 oberirdisch auf dem Grundstück
+- TOP 2.2.2.5.: Turfstr. 5 - Neubau eines Mehrfamilienhauses mit 4 Wohneinheiten und Parkliftanlage
+- TOP 2.2.2.6.: Hoyerweg 21: Neubau einer Doppelhaushälfte mit Garage
+- TOP 2.2.2.7.: Knappertsbuschstr. 43: Schulbauoffensive - Errichtung einer MRE mit 2 Lernhäusern, WTG-Raum, Mensa, Küche und Verwaltungsräumen
+- TOP 2.2.2.8.: Pienzenauerstr. 83: Neubau eines Wohnhauses mit zweigeschossiger Tiefgarage, Außenpool mit Poolhaus
+- TOP 2.2.2.9.: Wimmerstr. 17: Sanierung einer Doppelhaushälfte zu zwei Wohneinheiten
+- TOP 2.2.2.10.: Nettelbeckstr. 22: Neubau eines Doppelhauses mit Garage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Stegmühlstraße - Verlängerung des Fahrradwegs; Beschluss des BA 13
+- TOP 2.3.2.: Prinzregentenstraße 91-161: Lärmaktionsprogramm - Erinnerungsverfahren; Anhörung des Baureferats
+- TOP 2.3.3.: Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen; Anhörung des Mobilitätsreferats
+- TOP 2.3.4.: Widderstraße (Ausfahrt Richard-Strauss-Straße): Anordnung eines Stoppschild; Anhörung des Mobilitätsreferat
+- TOP 2.3.5.: Problematische Parksituation in der Oberschlesische Straße, Kattowitzer Straße und Lublinitzer Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.6.: Eugen-Jochum-Straße 1 - 3: Aufhebung eines Parkplatzes und Bitte nach Gehwegabsenkung; Anliegen aus der Bürgerschaft
+- TOP 2.3.7.: Verkehrssicherheit in der Muspillistraße erhöhen; Antrag der CSU-Fraktion
+- TOP 2.3.8.: Aufstellen von Geschwindigkeits-Dialog-Displays in den Tempo-30-Bereichen der Mauerkircherstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: Verbesserung der Schulwegsicherheit an der Ernst-Reuter-Grundschule; Anliegen aus der Bürgerschaft - Ortstermin -
+- TOP 2.3.10.: Ortstermin: Kreuzung Prinzregenten-/Grillparzerstraße - Sichere Querung Fußgänger und Radfahrer gewährleisten; Antrag der Fraktion Bündnis90/DIE GRÜNEN - Ortstermin -
+- TOP 2.3.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.12.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e. V. Bildungs- und Begegnungsveranstaltungen vom 10.02. - 10.12.2025 7.931,25 €; Az. 0262.0-13-0483
+- TOP 2.4.2.: (E) Stadtbezirksbudget Schützengesellschaft Oberföhring-Priel e. V. v. 1899 Anschaffung Verkaufszelt für Getränkeverkauf u. a. im Rahmen des Faschingstreibens 311,17 €; Az. 0262.0-13-0484
+- TOP 2.4.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.4.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Mobile Raumeinheit an der Knappertsbuschstraße - Vorstellung der Planungen durch das Referat für Bildung und Sport
+- TOP 2.5.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.3.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.2.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Effnerstr. 75f
+- TOP 2.6.2.2.: Waffenschmiedstr. 6a
+- TOP 2.6.2.3.: Englschalkinger Straße 136 - 146
+- TOP 2.6.2.4.: Stuntzstr. 3 - 15
+- TOP 2.6.2.5.: Bruno-Walter-Ring 8 - 20
+- TOP 2.6.2.6.: Rosenkavalierpl. 8 - 10
+- TOP 2.6.2.7.: Schichtlstr. 8
+- TOP 2.6.2.8.: Opitzstr. 12 -14
+- TOP 2.6.2.9.: Ismaninger Str. 67
+- TOP 2.6.2.10.: Apenrader Str. 12
+- TOP 2.6.2.11.: Oberföhringer Str. 14 - 16
+- TOP 2.6.2.12.: Flemingstr. 158
+- TOP 2.6.2.13.: Kurzmannweg 2
+- TOP 2.6.2.14.: Seiffertstr. 3 - 107
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Faschingszug 2025 (Gaudiwurm) am 02.03.2025; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.2.: Sommerfest vom Kindergarten PhorMinis am 25.07.2025 im Bürgermeistergarten (Ismaninger Str. 95); Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.3.: Zukunft gestalten im Quartier - Unterstützung bei der Quartiersauswahl; Anhörung des Referats für Bildung und Sport
+- TOP 2.7.4.: Unterkünfte für Geflüchtete in Englschalking/Daglfing Nicht noch mehr Migrantenheime in Englschalking oder Daglfing, Empfehlung Nr. 20-26 / E 02319 der Bürgerversammlung des Stadtbezirks 13 - Bogenhausen am 24.10.2024 Sitzungsvorlage Nr. 20-26 / V 15604; Anhörung des Sozialreferats
+- TOP 2.7.5.: Anfrage bzgl. Nutzung des Objekts Preziosastr. 43; Anliegen aus der Bürgerschaft
+- TOP 2.7.6.: Komplette künstlerische Gestaltung der Lärmschutzwand am Isarring; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.7.: Legale Spraypaintwand für die Internationalen Wochen gegen Rassismus
+- TOP 2.7.8.: Baulicher Zustand des Höchl-Schlössls - Ortstermin -
+- TOP 2.7.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.10.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 3.2.1.: Erhalt Postfiliale Tegernseer Platz - Antrag des BA 17 mit der Bitte um Unterstützung
+- TOP 3.2.2.: Austausch in krähensichere Abfallbehälter - Anliegen aus der Bürgerschaft des BA 20 mit der Bitte um Unterstützung
+- TOP 3.2.3.: Kennzeichnung von Brücken mit den Brückennamen - Anliegen aus der Bürgerschaft des BA 4 mit der Bitte um Unterstützung
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Prüfung von grünen Rechtsabbiegepfeilen für den Radverkehr
+- TOP 6.2.: Renovierung der Statue in der Odinstraße
+- TOP 6.3.: Kostensteigerung Tram Johanneskirchen
+- TOP 6.4.: Tram-Trasse / Wegfall Parkplätze
+- TOP 6.5.: Sport-Trainingsgeräte für Erwachsene
+- TOP 6.6.: Heizkraftwerk Nord: Stand der Umstellung von Kohle auf Alternative
+- TOP 6.7.: Anforderungszeit für die Fußgängerampel an der Taimerhofstraße reduzieren
+- TOP 6.8.: Grünphase Fußgängerüberweg Cosimastraße/Wesendonkstraße deutlich verlängern
+- TOP 6.9.: Verbesserung der Überquerung des Galileiplatz entlang der Richtung Nord-Süd für Fußgänger und Fahrradfahrer
+- TOP 6.10.: Verbesserung der Verkehrssicherheit an der Kreuzung Weltenburger Straße / Eggenfeldener Straße
+- TOP 6.11.: Beschleunigung des Verfahrens zur Umbenennung von hochbelasteten Straßennamen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Festlegung der Höhe des Stadtbezirksbudget 2025
+- TOP 7.1.2.: Eingereichte Verwendungsnachweise
+- TOP 7.2: Baureferat
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Haushalt 2025 des Mobilitätsreferats • Produkte • Ziele • Haushaltssicherungskonzept (HSK) • Teilergebnis- und Teilfinanzhaushalt
+- TOP 7.3.2.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 7.3.3.: Konzept für geteilte Mobilität im Stadtbezirk 13 - weitere Standorte Mikromobilität
+- TOP 7.3.4.: Stadtweite Lösung für das Abstellen von E-Scootern - Interfraktioneller Antrag des BA 20 - Rückmeldung des Mobilitätsreferats zur Anfrage des BA 13 -
+- TOP 7.3.5.: Ruth-Drexel-Str. 96 (Kinderhaus): Kurzzeitparken mit Zeitbeschränkung
+- TOP 7.3.6.: Mauerkircher Str. 4. Einrichtung Ladezone (Z. 286 StVO) mit zeitlicher Beschränkung
+- TOP 7.3.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.3.8.: Aufhebung Benutzungspflicht des Radwegs in der Ismaninger Straße; Anhörung des Mobilitätsreferats
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Fehlende Wertstoffcontainer an der Bezirkssportanlage Westpreußenstr. 60 - Rückmeldung der Entsorgungsfirma Wittmann -
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unveränderte Fortführung eines Gaststättenbetriebs: - Prinzregentenplatz 12
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 7.7.2.: Brucknerstr. 11 - 27
+- TOP 7.7.3.: Oberföhringerstr. 112 - 114a
+- TOP 7.7.4.: Oberföhringer Str.
+- TOP 7.7.5.: Mehrjahresinvestitionsprogramm für die Jahre 2024 - 2028 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff. • Stellungnahmen zu den Anträgen der Bezirksausschüsse 7, 16 und 21
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Kinderkrippe an der Jankstraße 13 im 13. Stadtbezirk Bogenhausen Leistung eines Baukostenzuschusses
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2024 - 2028 Einzelbereich 4 / Jugendamtsbereich Ergänzende Konsolidierungsvorschläge der Jahre 2025 – 2027 Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff.
+- TOP 7.9.2.: Vollzug der Zweckentfremdungssatzung: - Feldkirchener Str. 14
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Suchkreismitteilung zu Mobilfunkanlagen
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.3.9.1: Ampelregelung Kreuzung Prinzregentenstraße / Versailler Str.; Antrag der CSU-Fraktion
+- TOP 2.6.2.15.: Felix-Dahn-Str. 2a (Gefahrenbaum)
