@@ -1,0 +1,8 @@
+# TOP 6: Baumbericht der Stadt Neuss
+
+- Sitzung: Ausschuss für Umwelt, Grünflächen und Klimaschutz (2025-02-12)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/248445
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/36753
