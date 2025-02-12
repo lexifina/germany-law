@@ -1,0 +1,7 @@
+# TOP 3: Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2025, Investitionsprogramm 2024-2028
+
+- Sitzung: Ausschuss für Soziales und Integration, Sport und Kultur (23. Sitzung) (2025-02-12)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/9217
+- Beratung: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/consultation/3878
