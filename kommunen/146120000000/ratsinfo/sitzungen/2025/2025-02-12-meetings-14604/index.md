@@ -1,0 +1,67 @@
+# 7. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-02-12T16:00:00+01:00
+- Ende: 2025-02-12T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14604
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14604
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00803825.pdf
+- Ergebnisprotokoll: Niederschrift_SR_öffentlich http://oparl.dresden.de/bodies/0001/downloadfiles/a/00812849.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtrats und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (1. Runde)
+- TOP 3.1: Weiteres Vorgehen ehemalige Malzfabrik
+- TOP 3.2: 80. Jahrestag der Befreiung Deutschlands vom faschistischen Regime
+- TOP 3.3: Aktueller Stand der Erfüllung des Beschlusses A0045/25 "Erlebnisbad Elbamare erhalten. In städtischer Hand."
+- TOP 3.4: Kunstrasenplätze
+- TOP 3.5: Gegen das Vergessen
+- TOP 3.6: Vergabe der Dienstleistungen für den Abriss der Carolabrücke
+- TOP 3.7: Grundsteuer
+- TOP 3.8: Zukunft der Kultur- und Nachbarschaftszentren in Dresden
+- TOP 3.9: Hotel Stadt Rom
+- TOP 4: Fragestunde der Mitglieder des Stadtrates (2. Runde)
+- TOP 4.1: Ausstattung und Zukunft der Sportstätten in Dresden
+- TOP 4.2: Aktueller Stand Zahlungsmittel
+- TOP 4.3: Winterdienst am Kleinzschachwitzer Ufer
+- TOP 4.4: Golden Oval
+- TOP 4.5: Jugendkriminalität
+- TOP 4.6: Verkehrsplanung Hauptstraße
+- TOP 4.7: Umsetzung der Istanbul Konvention in Dresden
+- TOP 4.8: Sozialleistungen an Personen ohne deutsche Staatsbürgerschft im Dezember 2024
+- TOP 4.9: Alter Leipziger Bahnhof
+- TOP 4.10: Sanierung und Sicherung der Elbquerung "Blaues Wunder"
+- TOP 5: Einigungsverfahren Gremienbesetzung
+- TOP 5.1: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 5.2: Benennung von zwei Mitgliedern des Dresdner Stadtrates in den Beirat des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Satzung zur Änderung der Hauptsatzung - Vertagung
+- TOP 8: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 9: Einwendungen gegen den Entwurf der Haushaltssatzung 2025/2026 gemäß § 76 SächsGemO - Vertagung
+- TOP 10: Haushaltssatzung 2025/2026 und Wirtschaftspläne der Eigenbetriebe 2025/2026 - Vertagung
+- TOP 11: Sicherstellung der Erbringung von öffentlichen Personenverkehrsdiensten durch die Dresdner Verkehrsbetriebe AG - Vertagung
+- TOP 12: Eilantrag: ÖPNV im gesamten Stadtgebiet sichern – notwendige Konsolidierung solidarisch realisieren! - Zustimmung mit Änderung
+- TOP 13: Keine Erhöhung der Elternbeiträge - Zustimmung - Petition teilweise abgeholfen
+- TOP 14: Verordnung der Landeshauptstadt Dresden über Parkgebühren (Parkgebührenverordnung) - Vertagung
+- TOP 15: "Vertagungen aus der Stadtratssitzung 23.01.2025
+- TOP 15.1: Leitfaden zur geschlechtergerechten Sprache in der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 16: Bertolt-Brecht-Gymnasium Dresden, Lortzingstraße 1 in 01307 Dresden - Ersatzneubau beider Schulgebäude einschließlich Neugestaltung Außenanlagen - Zustimmung
+- TOP 17: Satzung zur Neufassung der Satzung der Landeshauptstadt Dresden für die Kostensatzung der Landeshauptstadt Dresden für das städtische Tierheim Dresden (Tierheimkostensatzung) - Zustimmung
+- TOP 18: Ausbuchung Forderung zu Behandlungskosten - Zustimmung
+- TOP 19: Abschluss des Mietvertrages zum Objekt Stadtforum mit der Kommunalen Immobilien Dresden GmbH & Co. KG zum Zwecke der Verwaltungsunterbringung der Landeshauptstadt Dresden - Zustimmung
+- TOP 20: Errichtung eines Fahrradparkhauses am Bahnhof Dresden-Neustadt, Schlesischer Platz (Baubeschluss nebst Grundstückserwerb) - Vertagung
+- TOP 21: Zustandsüberwachung Brücke Budapester Straße und Finanzierung - Zustimmung
+- TOP 22: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2025 - Zustimmung
+- TOP 23: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus Anlass besonderer regionaler Ereignisse im Jahr 2025 - Zustimmung
+- TOP 24: Änderungsverordnung zur Polizeiverordnung der Landeshauptstadt Dresden zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Zusammenhang mit Fußballspielen im Stadion an der Lennéstraße (PolVO Lennéstraße) - Zustimmung
+- TOP 25: Keine militärischen Waffen zum Dresdner Stadtfest! - Vertagung durch Einreicher
+- TOP 26: Kein Kriegsgerät zum Dresdner Stadtfest! - Vertagung
+- TOP 27: Satzung zur Änderung der Spielautomatensteuersatzung der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 28: Dresdens Wochenmärkte rekommunalisieren und zu Stadtteilplätzen beleben - Vertagung
+- TOP 29: Beteiligungsbericht 2023 der Landeshauptstadt Dresden - zur Kenntnis genommen
