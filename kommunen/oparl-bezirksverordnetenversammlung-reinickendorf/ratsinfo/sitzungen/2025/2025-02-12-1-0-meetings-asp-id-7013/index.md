@@ -1,0 +1,116 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-02-12T17:00:00+01:00
+- Ende: 2025-02-12T20:45:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7013
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7013
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=544766
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Breite Bürgerbeteiligung vor Einführung neuer Milieuschutzgebiete im Bezirk Reinickendorf - beantwortet
+- TOP 3.2: Parkverbot - beantwortet
+- TOP 3.3: Städtebauliche Leitlinien bei der Befreiung vom Baunutzungsplan - beantwortet
+- TOP 3.4: Einbahnstraßensystem im Waldseeviertel - beantwortet
+- TOP 3.5: Anordnen von Z 209-20 StVO an der Einmündung Düsterhauptstraße/ Waidmannsluster Damm, um weitere Unfälle zu vermeiden - beantwortet
+- TOP 3.6: Einschnitte im Landeshaushalt Berlin - Konsequenzen für Reinickendorf - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 39. Sitzung der BVV am 12.02.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Bundestagswahl 2025 - beantwortet
+- TOP 5.2: Neuer Stand beim Waldhotel Frohnau? - beantwortet
+- TOP 5.3: Bücherboxx auf dem Fellbacher Platz - beantwortet
+- TOP 5.4: Zukunft des LRV Tegel e.V. - beantwortet
+- TOP 5.5: Wie weiter im Märkisches Zentrum? - beantwortet
+- TOP 5.6: Mängelbeseitigung in dem Hochhaus von Deutsche Wohnen in der Blunckstraße 10 - beantwortet
+- TOP 5.7: Einsatznachsorge im OA Reinickendorf - beantwortet
+- TOP 5.8: Neuigkeiten zum Einzelhandelsgutachten Märkisches Quartier? - beantwortet
+- TOP 5.9: Priorisierung Maßnahmen Radverkehr - beantwortet
+- TOP 5.10: Umbauarbeiten am Franz-Neumann-Platz - schriftlich beantwortet
+- TOP 5.11: Platzhalter - (offen)
+- TOP 5.12: Instandhaltung und Reinigung des Kurt-Schumacher-Denkmales - schriftlich beantwortet
+- TOP 5.13: Frohnauer Wasserrohrbruch erfolgreich repariert? - schriftlich beantwortet
+- TOP 5.14: Ersatzpflanzungen im Kienhorstpark - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Wirtschaft stärken: Intensiver Austausch mit der Bundesverwaltung für Reinickendorfs Zukunft (Empfehlung) - überwiesen
+- TOP 6.2: Migration managen. Sicherheit stärken. (Empfehlung) - überwiesen
+- TOP 7: Feststellungen - (offen)
+- TOP 7.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Spielplatz im Steinbergpark erneuern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Verschönerung des Toilettenhäuschens am Spielplatz in der Auguste-Viktoria-Straße/Ilse-Kassel-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Neues Therapie-und Bewegungsbad im Humboldt Klinikum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Mehr Sportangebote für Kinder und Jugendliche mit Behinderungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Städtebauliche Integration und Erhöhung der Verkehrssicherheit im Kreuzungsbereich Habicht-/Specht-/Dohlenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Sichtschutzfolien für den Nichtschwimmerbereich im Schwimmbad im MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Mehr Fahrradabstellmöglichkeiten am S-Bhf. Tegel schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Entlastung des Humboldt-Klinikums - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Krankenhaus Maßregelvollzug Berlin (Bereich Psychiatrie) für das Jahr 2024 - überwiesen
+- TOP 8.10: Tourismuskonzept für den Bezirk Reinickendorf - überwiesen
+- TOP 8.11: Jährlicher Erfahrungsbericht der Patientenfürsprecherin des Vivantes Humboldt-Klinikums (Psychiatrie) für das Jahr 2024 - überwiesen
+- TOP 8.12: Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Medical Park Berlin Humboldtmühle für das Jahr 2024 - überwiesen
+- TOP 8.13: Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Vivantes Humboldt-Klinikum (Somatik) für das Jahr 2024 - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Zukunft der Residenzstraße - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2025 - Änderung für den Monat Oktober - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wahl eines Patientenfürsprechenden für den Bereich Psychiatrie im Vivantes Humboldt-Klinikum - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Bürgeramt-Termine für Krankenhaus- und Pflegeheimpersonal - erledigt
+- TOP 11.2: Aufklärung und Beratungsangebot zu Vaping (E-Zigaretten und E-Shishas) - in der BVV abgelehnt
+- TOP 11.3: Ausweisung eines Landschaftsschutzgebietes für das KaBoN-Gelände - überwiesen
+- TOP 11.4: Neugestaltung Knotenpunkt "Ruppiner Chaussee/Hennigsdorfer Straße" - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Turmuhr am Frohnauer Kasinoturm wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Lichtmast erneuern - erledigt
+- TOP 11.7: Fußgängerüberweg Falkenplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: S-Bahnpause auf der Nordbahn im S-Bahnhof Wittenau und nicht in Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Gedenkstele für Alfred Döblin errichten - überwiesen
+- TOP 11.10: Grillplätze erhalten - überwiesen
+- TOP 11.11: Maßnahmen zur Erhöhung von Sauberkeit und Sicherheit in der geschützten Grünanlage am Breitkopfbecken "Paddenpuhl" - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Runder Tisch zum Thema Drogenkriminalität, Drogenprävention und Alkoholismus im Schäferseepark - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Spielplatz Mittelbruchzeile - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Spielplatz am Schäfersee - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Instandsetzung Gehweg / Radweg am Seggeluchbecken - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Tartanbahnen im Herbst - vertagt
+- TOP 11.17: Schäferseepark I - Beleuchtungssituation im Schäferseepark - Augenmerk Eingangsportal "Am Schäfersee" - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Einsatz von Bodycams in Verbundeinsätzen - überwiesen
+- TOP 11.19: Schäferseepark II - Verstetigung der "Reinigungsstreife" der BVG im nördlichen Abschnitt der U8 - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Schäferseepark III - Videoaufklärung am Schäferseepark - überwiesen
+- TOP 11.21: Sauberkeit schafft Sicherheit: Vierte Mahd für Reinickendorf - überwiesen
+- TOP 11.22: Ordnungsamts-App optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Kastanienbäume erhalten - mit Änderungen in der BVV beschlossen
+- TOP 11.24: Inschriften auf den Steinblöcken am historischen Ort Krumpuhler Weg restaurieren - erledigt
+- TOP 11.25: Kultur stärken - Wilhelm Hallen sichtbarer machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.26: Kapitelmarken in den Videos des Livestreams der BVV - mit Änderungen in der BVV beschlossen
+- TOP 11.27: Transparenz und Arbeitsfähigkeit der BVV stärken - in der BVV zurückgezogen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Schnelle Nachnutzung des "C&A"-Gebäudes sicherstellen - überwiesen
+- TOP 13.2: Geruchsbeseitigung am Flachwasserbecken des Tegeler Hafens - überwiesen
+- TOP 13.3: Nachhaltige Textilentsorgung - überwiesen
+- TOP 13.4: Keine Verdrängung der Wohnbevölkerung durch (möbliertes) Zeitwohnen in den sozialen Erhaltungsgebieten in Reinickendorf - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Bodycams für den Allgemeinen Ordnungsdienst in Reinickendorf - überwiesen
+- TOP 14.2: Abriss der defekten Telefonzelle am U-Bahnhof Wittenau - überwiesen
+- TOP 14.3: Vermüllung durch Altkleider-Container - überwiesen
+- TOP 14.4: Konfliktzone beseitigen - überwiesen
+- TOP 14.5: Sanierung Frisch-und Abwasserleitung Zabel-Krüger-Damm - überwiesen
+- TOP 14.6: Verpackungssteuer einführen - überwiesen
+- TOP 14.7: Hässliche Groß- und Dauerbaustellen im Bezirk in Zukunft vermeiden - überwiesen
+- TOP 14.8: Entschlammung des Sees im Steinbergpark - überwiesen
+- TOP 14.9: Gefahr und Schäden durch massiv wachsende Wildschweinrotten - Anwohner, Landwirtschaft und Grünflächen in Heiligensee schützen! - überwiesen
+- TOP 14.10: Säuberung der Baumscheiben an den Bushaltestellen am S+U Wittenau - überwiesen
+- TOP 14.11: Ablehnung der Pläne einer neuen Unterkunft für die dauerhafte Unterbringung von bis zu 3000 Flüchtlingen in Tegel - überwiesen
+- TOP 14.12: Provisorische Fußwegebeziehung zwischen Bushaltestelle Alt-Tegel und der Ersatzhaltestelle U 6 (stadteinwärts) - überwiesen
+- TOP 14.13: Stellplätze in Heiligensee - überwiesen
+- TOP 14.14: Recyclinghofinfos einfach und aktuell online abrufen! - überwiesen
+- TOP 14.15: Verkehrsschau an der Heiligenseestraße - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
