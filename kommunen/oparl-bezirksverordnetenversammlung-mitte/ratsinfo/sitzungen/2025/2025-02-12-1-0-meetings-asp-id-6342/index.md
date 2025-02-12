@@ -1,0 +1,55 @@
+# 32. öffentliche Sitzung des Ausschusses für Verkehr und Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2025-02-12T17:30:00+01:00
+- Ende: 2025-02-12T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=60
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6342
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6342
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=614750
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=637821
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - erledigt
+- TOP 2: Protokollgenehmigungen - (offen)
+- TOP 2.1: Genehmigung der Standardprotokolle der 7.-11. Sitzung der VI. WP - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.2: Genehmigung der Standardprotokolle der 12.,13.- 15.-22. Sitzung der VI. WP - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: der Vorsitzenden - erledigt
+- TOP 3.2: des Bezirksamtes - erledigt
+- TOP 3.3: der Seniorenvertretung - erledigt
+- TOP 3.4: des Behindertenbeirats - erledigt
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Aktuelle Themen - erledigt
+- TOP 6: Beratung von Drucksachen - (offen)
+- TOP 6.1: Angsträume zurückdrängen – Tatsächliche Sicherheit erhöhen - vertagt
+- TOP 6.2: Mahnmale schützen, Antisemitismus wirksam entgegentreten! - mit Änderungen im Ausschuss beschlossen
+- TOP 6.3: Rechtmäßige Nutzung des Friedrich-Ebert-Platzes sichern - mit Änderungen im Ausschuss beschlossen
+- TOP 6.4: Regelmäßige Informationen zu den Daten, die Parkraumbewirtschaftung in Mitte begründen - im Ausschuss abgelehnt
+- TOP 6.5: Freier Toilettenzugang für Taxifahrer - im Ausschuss abgelehnt
+- TOP 6.6: Crack-Konferenz Berlin Mitte - mit Änderungen im Ausschuss beschlossen
+- TOP 6.7: Mehr Fahrradbügel und Intermodalität an zentralen U-Bahnhöfen in Mitte - vertagt
+- TOP 6.8: Unfallstatistik für Fahrradstraßen im Bezirk - im Ausschuss abgelehnt
+- TOP 6.9: Fahrradstraßen der Wallstraße sinnvoll miteinander verknüpfen - vertagt
+- TOP 6.10: Kiezblock Schillerpark einrichten - vertagt
+- TOP 6.11: E-Scooter im öffentlichen Raum - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.12: Dein Kiez – kein Müll: Entsorgungsangebote vor Ort - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.13: Mehr Grünflächen für den Bezirk! Straßenrand der Soldiner Straße zwischen Freienwalderstraße und Grüntaler Straße entsiegeln - vertagt
+- TOP 6.14: Unterführung Leipziger Straße - vertagt
+- TOP 6.15: „Soko Müll“ auch im Bezirk Mitte einführen - vertagt
+- TOP 6.16: Mülleimer in der Singerstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 6.17: Messung und Erfassen von Verkehrsströmen mit einer nachfolgenden Erstellung einer Risikoanalyse - vertagt
+- TOP 6.18: Weihnachtsmärkte ohne Barrieren - vertagt
+- TOP 6.19: BSR rechtzeitig über Baumaßnahmen im Straßenland informieren - vertagt
+- TOP 6.20: Am Abend wieder mehr Licht im Nikolaiviertel - mit Änderungen im Ausschuss beschlossen
+- TOP 6.21: Ist die Fußgängerzone in der Rosenstraße am Alex noch zeitgemäß? - vertagt
+- TOP 6.22: Charles-Corcelle-Ring - vertagt
+- TOP 6.23: Lehrkräfte an der Heinrich-von-Stephan-Schule entlasten - vertagt
+- TOP 6.24: Kein Stellplatzabbau in Parkraumbewirtschaftungszonen mit negativer Stellplatzbilanz - vertagt
+- TOP 6.25: Maßnahmen zur Verkehrsberuhigung um die Seestraße herum während der Rohrsanierung aussetzen - vertagt
+- TOP 7: Themen der nächsten Sitzung - vertagt
+- TOP 8: Verschiedenes - vertagt
