@@ -1,0 +1,91 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-02-13T16:03:00+01:00
+- Ende: 2025-02-13T16:20:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23359
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23359
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00344315.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.04.2023 bis 31.03.2025
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kostenvergleich von „Clean-Air-Asphalt“ versus „Tempo-30“-Zonen
+- TOP 2.1.1: Antwort auf Anfrage von "Linkes Bündnis": Kostenvergleich von Clean-Air-Asphalt versus Tempo-30-Zonen
+- TOP 2.2: Kulturbüro: Kürzungen im Kulturbereich
+- TOP 2.2.1: Antwort auf Anfrage der Fraktion Linkes Bündnis Wuppertal
+- TOP 2.3: BUGA31: Soziale und ökologische Vergabekriterien
+- TOP 2.3.1: BUGA31: Soziale und ökologische Vergabekriterien
+- TOP 2.4: Aufrechterhaltung von Angeboten im sozialen Bereich
+- TOP 2.4.1: Aufrechterhaltung von Angeboten im sozialen Bereich - Antwort auf die großen Anfrage der Fraktion Linkes Bündnis VO/0097/25
+- TOP 2.5: Busbeschleunigung an Lichtsignalanlagen (LSA)
+- TOP 2.6: Große Anfrage der FDP zum Budget der nicht eingeplanten Lohnerhöhungen
+- TOP 2.6.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 10.02.2025 zum Budget der nicht eingeplanten Lohnerhöhungen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Ersetzungsantrag zur Drucksache VO/0817/24, „Gründung einer stadteigenen Schul- und Sonderbau Gesellschaft“, - ungeändert beschlossen
+- TOP 4.2: Mehr Sauberkeit durch Mehrweg-Förderung - ungeändert beschlossen
+- TOP 4.3: Erstellung eines erweiterten / ergänzenden Personalberichtes; Gemeinsamer Antrag - geändert beschlossen
+- TOP 4.3.1: Ergänzungsantrag zu VO/0137/25 - Erstellung eines erweiterten / ergänzenden Personalberichtes - ungeändert beschlossen
+- TOP 4.4: Bezahlkarte für Leistungen aus dem Asylbewerberleistungsgesetz - zur Beratung und Entscheidung verwiesen
+- TOP 4.5: Umbenennung des Platzes an Hubertusallee in Friedhelm-Runge-Platz - zur Beratung und Entscheidung verwiesen
+- TOP 4.6: Antrag der FDP zur Einstellung des Bebauungsplanverfahrens für die Moschee an der Gathe (VO/0637/13) - abgelehnt
+- TOP 4.7: Entschließungsantrag der FDP zum Haushalt - zur Beratung und Entscheidung verwiesen
+- TOP 4.8: Grundsatzantrag zum Haushalt - zur Beratung und Entscheidung verwiesen
+- TOP 4.9: Ergänzungsantrag zur Drucksache VO/0086/25 - Haushalts-Nachtragssatzung für das Haushaltsjahr 2025: Position der CDU-Fraktion zum Nachtragshaushalt - zur Beratung und Entscheidung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Einführung einer Bezahlkarte für Flüchtlinge - zur Beratung und Entscheidung verwiesen
+- TOP 5.1.1: Ersetzungsantrag zu TOP 5.1, VO/0200/24, „Einführung einer Bezahlkarte für Flüchtlinge“, Gemeinsamer Antrag der Fraktionen von SPD, CDU, FDP und Freie Wähler - zur Beratung und Entscheidung verwiesen
+- TOP 5.2: Prüfauftrag Bevorzugung ÖPNV vor MIV - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungsänderung der Dr. Alfred-Springorum-Stiftung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 30.11.2024-24.01.2025 - Entgegennahme ohne Beschluss
+- TOP 7.2: Überplanmäßige Bereitstellung von Mitteln für die Brücke Brändströmstraße - ungeändert beschlossen
+- TOP 7.3: Nachtragsplan 2025 - Veränderung der Anlage 11 - Entwicklung des Eigenkapitals - Entgegennahme ohne Beschluss
+- TOP 7.4: Empfehlungen der Bezirksvertretungen und Ratsgremien zum Entwurf des Haushalts-Nachtragsplans 2025
+- TOP 7.5: Empfehlungen der Bezirksvertretungen und Ratsgremien zum Entwurf des Haushalts-Nachtragsplans 2025
+- TOP 7.6: Haushalts-Nachtragssatzung für das Haushaltsjahr 2025
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2023 des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2023 des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) - Entlastung des Betriebsausschusses - ungeändert beschlossen
+- TOP 8.3: Ergänzungsvereinbarung zur bestehenden Vergütungsvereinbarung vom 28.12.2022 - ungeändert beschlossen
+- TOP 8.4: Gemeinnnützige Wohnungsbaugesellschaft mbH Wuppertal (GWG) - Erhöhung des Betrauungszuschusses - ungeändert beschlossen
+- TOP 8.5: Errichtung einer unselbstständigen Stiftung - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1137 - Hans-Böckler-Straße / Am Deckershäuschen - Satzungsbeschluss - Bebauungsplan 1137V Hans-Böckler-Straße / Am Deckershäuschen - Satzungsbeschluss zur Teilaufhebung - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplanes 774 - westlich Spitzenstraße – und Bebauungsplan 1246 Süd - Langerfelder Straße / ehemalige Henkels Fabrik - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 398 - Erbschlöer Straße - 4. Änderung - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1241/2A - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 295 - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Umnutzung der Galeria Kaufhof Immobilie mit kommunalen Nutzungen „Stadtbibliothek“ und „Erwachsenenbildung/Bergisches Weiterbildungskolleg“ - zur Beratung und Entscheidung verwiesen
+- TOP 11.2: ISEK Elberfeld - Durchführungsbeschluss Ausschreibung Innenstadtmanagement - ungeändert beschlossen
+- TOP 11.3: Ausschreibung zur Fortführung des Innenstadtmanagements Barmen – „BarmenUrban“ - zur Beratung und Entscheidung verwiesen
+- TOP 11.4: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichsfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2025 bis 31.12.2025 - ungeändert beschlossen
+- TOP 11.5: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2025/2026 - ungeändert beschlossen
+- TOP 11.6: Zuschüsse zur Förderung der Jugendverbandsarbeit 2025 - ungeändert beschlossen
+- TOP 11.7: Straßen- und Wegekonzept für den Stadtbezirk Uellendahl-Katernberg - ungeändert beschlossen
+- TOP 11.8: Gestaltung des Platz Ost mit Integration des NSU-Denkmals (10+1 Bäume) – Platz Ost - ungeändert beschlossen
+- TOP 11.9: Anmietung des Gebäudes Hoeftstraße 35/41 42103 Wuppertal für das WupperTalentZentrum (WTZ) - ungeändert beschlossen
+- TOP 11.10: Gremientätigkeiten von Herrn Oberbürgermeister Prof. Dr. Uwe Schneidewind - Entgegennahme ohne Beschluss
+- TOP 11.11: Zwischenbericht zu dem Antrag VO/1481/24 „Steigerung der Aufenthaltsqualität in der Innenstadt“ - ungeändert beschlossen
+- TOP 11.12: Anregung gem. § 24 GO NRW: Unterstützung des Nichtverbreitungsvertrags für fossile Energien
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Nachwahl von Mitgliedern / Vertreter/innen für den Beirat bei der unteren Naturschutzbehörde - ungeändert beschlossen
+- TOP 12.2: Abberufung und Bestellung der stellvertretenden Vertretung in der Gesellschafterversammlung der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 12.3: Benennung des Vertreters der Gemeinde in den Aufsichtsräten GWG GmbH und GWG-SPE GmbH - ungeändert beschlossen
+- TOP 12.4: Bestellung der Vorsitzenden des Verwaltungsrates der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.6: Verwaltungsausschuss der Agentur für Arbeit Solingen-Wuppertal - Nachfolgeregelung - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.8: Anmeldung zum Deutschen Städtetag 2025 - ungeändert beschlossen
+- TOP 12.9: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.10: Gremienumbesetzung; Antrag der SPD-Fraktion - ungeändert beschlossen
