@@ -1,0 +1,190 @@
+# BR-Drs. 7/25(B)(neu): Entwurf eines Gesetzes zur Modernisierung des Berufsrechts der Wirtschaftsprüfer
+
+- Herausgeber: Bundesrat
+- Drucksache: 7/25(B)(neu)
+- Datum: 2025-02-14
+- Art: Stellungnahme
+- Vorgang: Gesetz zur Modernisierung des Berufsrechts der Wirtschaftsprüfer (DIP 319058)
+- PDF: https://dserver.bundestag.de/brd/2025/0007-25B(neu).pdf
+- Quelle: DIP, Deutscher Bundestag/Bundesrat (search.dip.bundestag.de, Drucksache 278790)
+- Text: Text der PDF-Datei aus DIP, unverändert
+
+---
+
+[Bundesrat Drucksache  7/25 (Beschluss) (neu)
+14.02.25 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Stellungnahme 
+des Bundesrates 
+Entwurf eines Gesetzes zur Modernisierung des Berufsrechts der 
+Wirtschaftsprüfer 
+Der Bundesrat hat in seiner 1051. Sitzung am 14. Februar 2025 beschlossen, zu dem 
+Gesetzentwurf gemäß Artikel 76 Absatz 2 des Grundgesetzes wie folgt Stellung zu 
+nehmen: 
+1. Zu Artikel 1 Nummer 7 (§ 20 Absatz 1 WPO), Nummer 11 (§ 34 Absatz 1
+WPO)
+Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob § 20
+Absatz 1 WPO und § 34 Absatz 1 WPO jeweils um eine Ermessensregelung
+ergänzt oder zumindest als Soll-Ermessensvorschriften ausgestaltet werden
+sollten.
+Begründung: 
+Nach der Rechtsprechung des Bundesverfassungsgerichts stellt die Rücknahme 
+beziehungsweise der Widerruf der Anwaltszulassung nach § 14 BRAO einen 
+Eingriff in die Berufswahlfreiheit nach Artikel 12 Absatz 1 GG dar (vgl. 
+BVerfG, Beschluss vom 15. März 2007 – 1 BvR 1887/06 –, juris Rn. 12; 
+BVerfG, Beschluss vom 9. August 1995 – 1 BvR 2263/94 –, juris Rn. 46; 
+BVerfG, Beschluss vom 12. Februar 1986 – 1 BvR 1770/83 –, juris Rn. 21). 
+Für die Rücknahme der Bestellung zum Wirtschaftsprüfer nach § 20 Absatz 1 
+WPO dürfte nichts Anderes gelten, zumal § 20 Absatz 1 WPO ausdrücklich 
+dem § 14 Absatz 1 BRAO nachempfunden worden ist (vgl. BT-Drucksache 
+12/5685, S. 23, Zu Nummer 15). Ein solcher Eingriff ist nur zum Schutz eines 
+besonders wichtigen Gemeinschaftsguts und unter strikter Beachtung des 
+Grundsatzes der Verhältnismäßigkeit zulässig (vgl. BVerfG, Beschluss vom 
+15. März 2007 – 1 BvR 1887/06 –, juris Rn. 12).
+Drucksache 7/25 (Beschluss) (neu) - 2 -
+Da es für die Rücknahme allein darauf ankommt, dass die Bestellung – im 
+Zeitpunkt ihrer Vornahme – hätte versagt werden müssen, sind Fälle denkbar, 
+in denen die Rücknahme ausgesprochen werden müsste, obwohl
+Versicherungsschutz nur im Zeitpunkt der Bestellung und gegebenenfalls kurze Zeit
+danach fehlte beziehungsweise nicht nachgewiesen war, anschließend aber
+jahrelang bis heute unterhalten worden ist (§ 20 Absatz 1 WPO i. V. m. § 16
+Absatz 1 Nummer 3 WPO). Es bestehen Zweifel, ob die Verhältnismäßigkeit in 
+einer solchen Fallkonstellation angesichts des erheblichen Gewichts der
+Berufswahlfreiheit noch gewahrt ist. Die Regelung des § 14 Absatz 1 Satz 2 
+BRAO trägt solchen besonderen Fallkonstellationen bei der Rücknahme, an die 
+in vergleichbarer Weise etwa auch im Fall der späteren Wiedererlangung aller 
+Grundrechte (vgl. § 14 Absatz 1 BRAO i. V. m. § 7 Satz 1 Nummer 1 BRAO 
+beziehungsweise § 20 Absatz 1 WPO i.V.m. § 16 Absatz 1 Nummer 1 WPO), 
+der Wiedererlangung der Fähigkeit zur Bekleidung öffentlicher Ämter (§ 14 
+Absatz 1 BRAO i. V. m. § 7 Satz 1 Nummer 2 BRAO beziehungsweise § 20 
+Absatz 1 WPO i. V. m. § 16 Absatz 1 Nummer 2 WPO) oder der späteren
+Aufgabe eines mit der Tätigkeit unvereinbaren anderen Berufs (§ 14 Absatz 1 
+BRAO i. V. m. § 7 Satz 1 Nummer 8 BRAO beziehungsweise § 20 Absatz 1 
+WPO i. V. m. § 16 Absatz 1 Nummer 6 WPO) zu denken ist (vgl. Vossebürger, 
+in: Weyland, BRAO, 11. Aufl. 2024, § 14 Rn. 11 ff.), dadurch Rechnung, dass 
+von der Rücknahme der Zulassung abgesehen werden kann, wenn die Gründe, 
+aus denen die Zulassung hätte versagt werden müssen, nicht mehr bestehen.  
+Eine solche Möglichkeit dürfte im Bereich der WPO jedoch nicht bestehen, 
+weil es dort an einer vergleichbaren Vorschrift fehlt und der Behörde bei der 
+Rücknahmeentscheidung nach § 20 Absatz 1 WPO („ist … zurückzunehmen“) 
+kein Ermessen eingeräumt ist. Die betreffende Person könnte deshalb allein auf 
+das Wiederbestellungsverfahren nach § 23 Absatz 1 Nummer 3 WPO
+verwiesen werden: Danach kann ein ehemaliger Wirtschaftsprüfer wiederbestellt
+werden, wenn die Bestellung zurückgenommen oder widerrufen ist und die
+Gründe, die für die Rücknahme oder den Widerruf maßgeblich gewesen sind, nicht 
+mehr bestehen. Auch diese Vorschrift dürfte aber nicht genügen, um dem 
+Grundsatz der Verhältnismäßigkeit bei der Rücknahme der Bestellung in jedem 
+Einzelfall zu genügen. Verfügt die betreffende Person nämlich im Zeitpunkt 
+der Rücknahmeentscheidung unzweifelhaft (wieder) über den notwendigen 
+Versicherungsschutz (oder die anderen Voraussetzungen, aus denen die
+Bestellung hätte versagt werden müssen) und liegen auch sonst keine
+Versagungsgründe vor, so dürfte das Ermessen nach § 23 Absatz 1 Nummer 3 WPO
+angesichts des verfassungsrechtlichen Gewichts der Berufswahlfreiheit regelmäßig 
+auf Null reduziert sein und die Wiederbestellung dementsprechend zwingend 
+zu erfolgen haben. In diesem Fall an der (vorherigen) Rücknahme festzuhalten 
+und auf das Wiederbestellungsverfahren zu verweisen, würde insbesondere 
+dem Rechtsgedanken „dolo facit, qui petit, quod redditurus est“ (vgl. auch die 
+Wertung des § 49 Absatz 1 VwVfG, wonach ein Verwaltungsakt nicht
+widerrufen werden darf, wenn ein Verwaltungsakt gleichen Inhalts erneut erlassen 
+werden müsste) widersprechen (vgl. zu § 14 Absatz 1 Satz 2 BRAO
+Vossebürger, in: Weyland, BRAO, 11. Aufl. 2024, § 14 Rn. 10; vgl. allgemein zur 
+Rücknahme eines nachträglich rechtmäßig gewordenen Verwaltungsakts nach 
+§ 48 Absatz 1 VwVfG auch Sachs, in: Stelkens/Bonk/Sachs, VwVfG, 10. Aufl.
+- 3 - Drucksache 7/25 (Beschluss) (neu) 
+2023, § 48 Rn. 55, der in einem solchen Fall die Rücknahme als
+unverhältnismäßig bezeichnet). Es bestünde – abgesehen von den mit dem
+Wiederbestellungsverfahren verbundenen Kosten und dem Zeitaufwand – zudem die
+Gefahr, dass die Rücknahme die Betroffenen in diesem Fall auch zum
+allgemeinen Schaden ihres Berufsstands unnötig bloßstellt und schädigt (vgl. zu diesem 
+Aspekt Vossebürger, a.a.O.). 
+Es könnte sich deshalb anbieten, eine mit § 14 Absatz 1 Satz 2 BRAO
+vergleichbare Regelung in § 20 Absatz 1 WPO aufzunehmen oder das Wort „ist“ 
+in § 20 Absatz 1 WPO durch das Wort „kann“ oder das zumindest für
+atypische Sonderfälle Raum lassende Wort „soll“ zu ersetzen. 
+Aus ähnlichen Erwägungen heraus könnte es im Hinblick auf besondere
+Rücknahmekonstellationen empfehlenswert sein, auch in § 34 Absatz 1 WPO-E das 
+Wort „ist“ durch das Wort „kann“ oder zumindest „soll“ zu ersetzen. 
+2. Zu Artikel 1 Nummer 7 Buchstabe b (§ 20 Absatz 7 Satz 3 WPO), Nummer 11
+(§ 34 Absatz 4 WPO)
+Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob § 20 
+Absatz 7 Satz 3 WPO und – soweit es dort um die Rücknahme geht – § 34
+Absatz 4 WPO erforderlich sind. 
+Begründung: 
+Die Begründung des Gesetzentwurfs zieht auf Seite 29 zur Erläuterung von 
+§ 20 Absatz 7 Satz 3 WPO-E den Erst-Recht-Schluss, dass, wenn bereits von
+Anfang an kein Versicherungsschutz der oder des Berufsangehörigen bestand,
+erst recht ein Schutzbedürfnis besteht, sicherzustellen, dass die oder der
+Berufsangehörige nicht ohne Versicherungsschutz weiter tätig ist. Diese
+Begründung dürfte nicht hinreichend berücksichtigen, dass es für die Rücknahme nach
+§ 20 Absatz 1 WPO allein auf nachträgliche Tatsachen ankommt, die belegen,
+dass die Bestellungsvoraussetzungen (§ 16 WPO) im Zeitpunkt der Bestellung
+nicht vorlagen (siehe zum vergleichbaren § 14 Absatz 1 BRAO etwa AGH
+Hamm, Beschluss vom 17. Juni 2005 – 1 ZU 1/05 –, juris Rn. 22 m.w.N.) und
+die Bestellung deshalb schon anfänglich nicht hätte erfolgen dürfen. Es ist also
+auf einen Zeitpunkt in der Vergangenheit abzustellen. Ob die betreffende
+Person auch im Zeitpunkt der Rücknahmeentscheidung (weiterhin) ohne
+Versicherungsschutz tätig ist, dürfte danach unerheblich sein.
+Ein gesteigertes Bedürfnis, Mandanten durch die sofortige Vollziehbarkeit der 
+Aufhebung der Bestellung vor der akuten Gefahr zu schützen,
+unwiederbringliche Vermögensschäden zu erleiden (vgl. zu diesem Zweck der sofortigen
+Vollziehbarkeit im ähnlich gelagerten Kontext des § 14 Absatz 2 Nummer 9 BRAO 
+Vossebürger, in: Weyland, BRAO, 11. Aufl. 2024, § 14 Rn. 82), dürfte indes 
+nur bestehen, wenn auch gegenwärtig (d. h. aus Behördensicht: im Zeitpunkt 
+der Rücknahmeentscheidung) kein Versicherungsschutz besteht. Durch die so-
+Drucksache 7/25 (Beschluss) (neu) - 4 -
+fortige Vollziehbarkeit können nämlich solche Vermögensschäden nicht 
+(mehr) verhindert werden, die auf einer bereits in der Vergangenheit liegenden 
+Wirtschaftsprüfertätigkeit und dem dabei fehlenden Versicherungsschutz
+beruhen. Der Fall der Aufhebung der Bestellung mit Wirkung für die Zukunft
+wegen eines gegenwärtig fehlenden Versicherungsschutzes dürfte aber bereits von 
+der spezielleren – weil an zusätzliche Voraussetzungen geknüpfte (vgl. § 20 
+Absatz 4 Satz 1 WPO bis § 20 Absatz 4 Satz 3 WPO) – (Widerrufs-)Vorschrift 
+des § 20 Absatz 2 Nummer 4 WPO erfasst sein, für die nach § 20 Absatz 7 
+Satz 2 WPO die sofortige Vollziehbarkeit kraft Gesetzes bereits angeordnet ist. 
+Die sofortige Vollziehung (auch) im Fall der Rücknahme der Bestellung aus 
+Gründen des fehlenden Versicherungsschutzes dürfte – weil allein der
+Zeitpunkt der Bestellung maßgeblich ist – vor diesem Hintergrund zur
+Zweckerreichung unnötig sein. 
+Ähnlich verhält es sich im Hinblick auf § 34 Absatz 4 Alternative 1 WPO-E. 
+Auch wenn sich der für Rücknahmeentscheidung maßgebliche
+Betrachtungszeitpunkt dort nicht ausdrücklich entnehmen lässt, dürfte auch insoweit –
+entsprechend der allgemeinen Rücknahmedogmatik (vgl. § 48 Absatz 1 VwVfG) 
+– gelten, dass es für die Rücknahme (allein) auf die anfängliche
+Rechtswidrigkeit des zurückzunehmenden Verwaltungsakts (hier der Anerkennung als
+Wirtschaftsprüfungsgesellschaft) ankommt (vgl. Sachs, in: Stelkens/Bonk/Sachs,
+VwVfG, 10. Aufl. 2023, § 48 Rn. 49). Mit dieser Perspektive dürfte ein – hier
+– auf die Abwendung gegenwärtiger (Vermögens-)Gefahren zielender
+Ausschluss der aufschiebenden Wirkung aus den bereits oben dargelegten Gründen
+nicht vereinbar sein. Besteht aktuell kein Versicherungsschutz, kann nach § 34
+Absatz 1 Nummer 2 Halbsatz 1 Alternative 2 WPO-E der Widerruf
+vorgenommen werden und es dürfte genügen, für diesen Fall – wie in § 34 Absatz 4
+Alternative 2 WPO-E vorgesehen – den Ausschluss der aufschiebenden
+Wirkung anzuordnen.
+3. Zu Artikel 1 Nummer 16 (§ 43a Absatz 2 Nummer 3a WPO), Nummer 19
+(§ 44c WPO)
+a) Der Bundesrat begrüßt die Fortentwicklung des Berufsrechts der
+Wirtschaftsprüfer und das Vorhaben der Bundesregierung, auch für
+Wirtschaftsprüfer die Berufsausübung als Syndikus bei einem außerberuflichen
+Arbeitgeber zu ermöglichen.
+b) Der Bundesrat stellt fest, dass nach dem vorliegenden Gesetzentwurf eine
+grundsätzlich verfassungswidrige doppelte gesetzlich angeordnete
+Zwangsmitgliedschaft für angestellte Syndikus-Wirtschaftsprüfer sowohl in der
+Deutschen Rentenversicherung als auch in den zuständigen
+berufsständischen Versorgungswerken droht. Die Mitgliedschaft im zuständigen
+berufsständischen Versorgungswerk ist gesetzlich an die Zulassung zum Berufs-
+- 5 - Drucksache 7/25 (Beschluss) (neu) 
+bild und Anerkennung als (Syndikus-) Wirtschaftsprüfer gekoppelt. Daran 
+anschließend folgt dann eine Befreiung von der Deutschen
+Rentenversicherung zur Vermeidung einer doppelten Zwangsmitgliedschaft. Bereits bei 
+Einführung des Syndikus-Rechtsanwalts hat sich gezeigt, dass eine
+Befreiung durch die Deutsche Rentenversicherung erst nach Einführung einer
+gesetzlichen Regelung in § 231 Absatz 4a SGB VI erfolgte. Eindeutige
+Befreiungstatbestände sind trotz dieser Erfahrungen im Gesetzentwurf der 
+Bundesregierung nicht vorgesehen. 
+c) Der Bundesrat bittet zu prüfen, in § 231 Absatz 4a SGB VI und
+gegebenenfalls zusätzlich in der Wirtschaftsprüferordnung eine den Syndikus-
+Rechtsanwälten vergleichbare ausdrückliche Befreiungsregelung von der
+Deutschen Rentenversicherung auch für Syndikus-Wirtschaftsprüfer zu
+schaffen.]
