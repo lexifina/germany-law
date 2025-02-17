@@ -1,0 +1,79 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-02-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780242
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780242
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 16.12.2024
+- TOP 1.2.: Protokoll (Entwurf) der Sitzung am 13.01.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag auf Hitze- bzw. Klimaresistentes Bauen im Zuge der Stadtteilsanierung durch konsequentes Anbringen eines außenliegenden Sonnenschutzes
+- TOP 2.2.: Winterliche Verkehrssicherungspflicht beim Anwesen Pelkovenstraße 47
+- TOP 2.3.: Abfallproblem durch stadtweite Krähenplage
+- TOP 2.4.: Neubau Karlingersiedlung 1. und 2. Bauabschnitt: Antrag auf Vervollständigen der Wärmedämmung an den Stahlbetongebäuden
+- TOP 2.5.: Alle wesentlichen Daten vorhanden – Antrag auf Auswertung der Energieausweise für die vermieteten Gebäude im Sanierungsgebiet westlich der Dachauer Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Hugo-Troendle-Str. 10
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage zum Gestüt Ludwigsfeld
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Antrag zur Realisierung von Trinkbrunnen bei städtischen sowie privaten Großbauprojekten
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Init. "MOM-MenschObjektMusik" Das kleine gelbe Haus vom 16. -17.03.2025 1.800,00€; Az. 0262.0-10-0406
+- TOP 5.2.: (E) Stadtbezirksbudget Netzwerk Erinnern, Verändern, Aufklären (NEVA) e.V. Eröffnung des neuen Erinnerungs-Raums in Moosach am 09.03.2025 4.750,00€; Az. 0262.0-10-0409
+- TOP 5.3.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Moosach e.V. Sommerfahrt der Jugendfeuerwehr Moosach nach Berlin und Umgebung vom 16.08. -24.08.2025 4.982,00€; Az. 0262.0-10-0408
+- TOP 5.4.: (E) Neue Trinkbrunnen für Moosach
+- TOP 5.5.: (E) + (U) Generelle Rückzahlung unzulässig abgerechneter Heizkosten durch die Münchener Wohnen
+- TOP 5.6.: (E) Überprüfung Ampelschaltung in der Allacher Straße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Unterstützung der BAs beim Bürgeranliegen Kennzeichnung von Brücken mit den Brückennamen
+- TOP 6.2.: Umgang mit hohen Grundwasserständen - Rechtlicher Rahmen, Verantwortlichkeiten und Handlungsmöglichkeiten der öffentlichen Hand
+- TOP 6.3.: Moosacher Maibaumfest vom 29.04. - 04.05.2025 auf dem St.-Martins-Platz
+- TOP 6.4.: Schreiben des Mobilitätsreferenten zu potenziellen Tempo 30 Anordnungen
+- TOP 6.5.: Unterstützung der BAs beim Antrag zur Erhaltung von Postfilialen
+- TOP 6.6.: Wings for Life Word Run 2025 am 04.05.2025
+- TOP 6.7.: Müllfreie Meile 2025 am 10.05.2025
+- TOP 6.8.: Aktion Richtig Mülltrennen (Teil der Müllfrei Meile 2025) am 14.05.2025
+- TOP 3.2.2.: Konzept für geteilte Mobilität im Stadtbezirk 10
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sicher im Verkehr unterwegs – Roteinfärbung der Radverkehrsfurten der Zweirichtungsradwege im Kreuzungsbereich Hanauer Str. / Pelkovenstr.
+- TOP 7.2.: Zweirichtungsradweg nördlich des Georg-Brauchle-Rings
+- TOP 7.3.: Keine weiteren finanziellen Mittel für genderneutrale Unterlagen
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: (U) Güternordring - Bürgerversammlungsempfehlungen
+- TOP 8.2.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung, Bepflanzung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 8.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2024 – 2028 mit verbindlicher Planung für 2029 für das Baureferat Ergänzende Konsolidierungsvorschläge der Jahre 2025 – 2027 Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff.
+- TOP 8.4.: Haushalt 2025 des Mobilitätsreferats • Produkte • Ziele • Haushaltssicherungskonzept (HSK) • Teilergebnis- und Teilfinanzhaushalt
+- TOP 8.5.: Veranstaltung Straßenfasching "Moosach Narrisch" am Bunzlauer Platz 5-7
+- TOP 8.6.: (U) Olympiapark München; Bewerbungsverfahren zur Aufnahme in die UNESCO-Welterbeliste; Deutsche Vorschlagsliste (Tentativliste) für die Nominierung; Aktueller Zwischenstand
+- TOP 8.7.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 8.8.: (U) Mehrjahresinvestitionsprogramm (MIP) 2024 - 2028 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen Konsolidierungsvorschläge zur Ausgabenbegrenzung der Jahre 2028 ff 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.9.: Abfallwirtschaftsbetrieb München (AWM); Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen
+- TOP 8.10.: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Halbjährliche kostenlose Sperrmüllabfuhr
+- TOP 8.11.: (U) Sanierungsgebiet Moosach Verlängerung des Stadtteilmanagements der Münchner Gesellschaft für Stadterneuerung mbH bis 31.12.2026
+- TOP 8.12.: Stadtbezirksbudget - Aktualisierung der Richtlinien und des Antragsformulars
+- TOP 8.13.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 8.14.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 8.15.: Modernisierungsmaßnahmen in Erhaltungssatzungsgebieten -nicht öffentlich-
+- TOP 8.16.: Einstellung Vorkaufsrecht -nicht öffentlich-
+- TOP 8.17.: Suche eines Mobilfunkstandortes -nicht öffentlich-
+- TOP 3.3.2.1.: Karlingerstr. 32-40, Gubestr. 11-25
+- TOP 3.2.1.: Bericht über den Ortstermin vom 13.02.2025 in der Borstei sowie zum Sachstand Duales Parken am Dantebad
+- TOP 1.3.: Information zur Änderung der Fraktionssprecher der SPD-Fraktion
