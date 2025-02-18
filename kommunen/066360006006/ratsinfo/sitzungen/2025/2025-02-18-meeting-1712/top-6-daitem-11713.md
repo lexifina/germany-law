@@ -1,0 +1,6 @@
+# TOP 6.: Kandidatensuche für die Ortsbeiratswahl 2026
+
+- Sitzung: Ortsbeirat Fürstenhagen (20. Sitzung) (2025-02-18)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/11713
