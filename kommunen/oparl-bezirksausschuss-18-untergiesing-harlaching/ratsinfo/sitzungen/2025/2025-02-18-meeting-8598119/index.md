@@ -1,0 +1,173 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2025-02-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8598119
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8598119
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 21.01.2025
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Bürgervereinigung Maibaum Untergiesing e.V. Platzfest für alle Bürgerinnen und Bürger am 01.05.2025 5.378,25 € / AZ: 0262.0-18-0410
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget QuarterM GmbH / Stadtteilladen Giesing Frühlingsspektakel am 28.03.2024 6.775,70 Euro; Az. 0262.0-18-0409
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. DIE GESCHICHTENSTUNDE - Ein Erzählprojekt für die ersten Klassen der Fromundschule vom 01.03.2025 - 23.12.2025 900,00€; Az. 0262.0-18-0408
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.5.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2024 - 2028
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise für vom BA 18 geförderte Budgetanträge
+- TOP 3.1.6.2.: Stadtbezirksbudget - Aktualisierung der Richtlinien und des Antragsformulars
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Münchner Straßenfeste für die Zukunft stärken!; SPD-Antrag
+- TOP 3.2.3.2.: Die "Geschenke-Ecke" in der Au - Suche nach einer neuen Tauschstation; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: TSV 1860 Fan-Treffen am Candidplatz ab 01/2025 vor den jeweiligen Spielen - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.2.: Protokoll zum Ortstermin "Runder Tisch Schwimmen" vom 29.01.2025
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Nachtabschaltung der Ampeln nach 22 Uhr entlang der Hauptader Grünwalder Str. - Geiselgasteigstr. – Naupliastr. - Seybothstr.
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Einbahnstraßenregelung in der Agilolfingerstraße (zwischen Konradinstraße und Candidstraße); Bürgeranliegen
+- TOP 3.3.3.2.: Parkmöglichkeiten in Alt-Harlaching; Bürgeranliegen
+- TOP 3.3.3.3.: Unfallstatistik an der Ecke Säbener / Klausener Straße sowie an der Parkplatzeinfahrt zum Bad Giesing-Harlaching; Bürgeranliegen
+- TOP 3.3.3.4.: Einrichtung eines Fußgängerüberweges zur Überquerung der Hans-Mielich-Straße (Ecke Jamnitzerstraße); Bürgeranliegen
+- TOP 3.3.3.5.: Errichtung von Pollern am Gehsteigrand an der Kreuzung Hans-Mielich-Straße / Jamnitzerstraße; Bürgeranliegen
+- TOP 3.3.3.6.: Parkplatzsituation am Hans-Mielich-Platz; Bürgeranliegen
+- TOP 3.3.3.7.: Bitte um Erneuerung des Straßenbelags in der Bezoldstraße; Bürgeranliegen
+- TOP 3.3.3.8.: Problematik des Wendens auf der Sankt-Magnus-Straße; Bürgeranliegen
+- TOP 3.3.3.9.: Sanierung des Pflasterbelages in der Agilolfinger Straße und der Konradinstraße; Grünen-Antrag
+- TOP 3.3.3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Schreiben des Mobilitätsreferenten zu potenziellen Tempo 30-Anordnungen
+- TOP 3.3.4.2.: Allgemeine Behindertenstellplätze in der Unteren Weidenstraße
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Humboldtstraße als Quartierszentrum stärken: Gehwegbreite dem Bedarf anpassen
+- TOP 3.3.5.2.: Antwortschreiben der Münchner Wohnen zur beantragten Mobilitätsstation
+- TOP 3.3.5.3.: Antwortschreiben des Mobilitätsreferats zum Umbau der Sankt-Magnus-Straße
+- TOP 3.3.5.4.: Auskunft der MRG zum Nutzungsrecht für das Parkdeck an der Seybothstraße
+- TOP 3.3.5.5.: Modernisierung und barrierefreier Ausbau der Haltestelle Stettner Straße (MVV-Regionalbus 220)
+- TOP 3.3.5.6.: Ampelschaltung St.Magnus-Straße / Tiroler Platz
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Verkehrsrechtliche Anordnung zur Entfernung einer Kurzparkzone in der Autharistraße 6
+- TOP 3.3.6.2.: Verkehrsrechtliche Anordnung zur Verlängerung der bestehenden Kurzparkzone südlich des Theodolindenplatzes
+- TOP 3.3.7: Sonstiges
+- TOP 3.3.7.1.: Kennzeichnung von Brücken mit den Brückennamen - Bitte um Unterstützung eines Bürgeranliegens aus dem BA 4
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Geschützte Bäume auf Grundstücken in der Mailänder Straße; Bürgeranliegen
+- TOP 3.4.3.2.: Nahwärme als Alternative zu Fernwärme - Kommunale Wärmeplanung; Bürgeranliegen
+- TOP 3.4.3.3.: Probleme mit dem Wertstoffinsel-Standort Gerhardstraße 16; Bürgeranliegen
+- TOP 3.3.3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.4.: Installation eines städtischen Mülleimers mit regelmäßiger Leerung an der Autharistraße / Ecke Am Perlacher Forst; Grünen-Antrag
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Benediktenwandstr. 29 - Griechenplatz 12 - Grünwalder Str. 262 - Heinrich-Kröller-Str. 11 - Hochederstr. 12 - Josef-Vötter-Str. - Lautererstr. 14 - Pechdellerstr. 13 - Ritterspornweg 7 - Schönchenstr. 15 - Schönchenstr. 23 - Seybothstr. 75 - Stresemannstr. 1 - Stresemannstr. 22 - Terhallestr. 14 - Tierparkstr. 30
+- TOP 3.4.4.2.: Ausschreibung für erste Prüfgebiets-Cluster im Rahmen der kommunalen Wärmeplanung der LHM
+- TOP 3.4.4.3.: Versetzung der Wertstoffinsel in der Gerhardstraße 16 an einen neuen Standort
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Antwortschreiben der AWM zu Problemen mit der Wertstoffinsel am Standort Gerhardstraße 16
+- TOP 3.4.5.2.: Absperrung der Baustelle am Flauchersteg
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Bozzarisstr. 35a
+- TOP 3.4.6.2.: Abfallwirtschaftsbetrieb München (AWM); Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen
+- TOP 3.4.6.3.: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Halbjährliche kostenlose Sperrmüllabfuhr
+- TOP 3.4.6.4.: Baumfällung auf dem Grundstück mit der Flächennummer 12938/1, Gemarkung Sektion VII
+- TOP 3.4.6.5.: Arbeiten an Anlagen des ÖPNV (Fahrleitung Tram) für die Stadtwerke München GmbH - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4.6.6.: Baumfällung in der Pistorinistr. 22
+- TOP 3.4.6.7.: Projektgenehmigung der Kanalsanierungsmaßnahme Au-Haidhausen
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Vorfälle am Männerwohnheim und am Kolumbusplatz; Bürgeranliegen
+- TOP 3.5.3.2.: Postfiliale am Tegernseer Platz für Giesing und Harlaching erhalten!; SPD-Antrag
+- TOP 3.5.3.3.: Leerstand in der Säbener Straße 88; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Zukunft gestalten im Quartier - Unterstützung bei der Quartiersauswahl
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Inklusive Gestaltung des Osram-Spielplatzes in den Isarauen (Stadtbezirk 18 Untergiesing-Harlaching)
+- TOP 3.5.5.2.: Antwortschreiben der Polizei zur Einbruchsserie in Harlaching
+- TOP 3.5.5.3.: Häuser-Leerstände in Harlaching
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Ausschreibung REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 3.5.6.2.: Antrag auf unveränderte Fortführung der Gaststätte "Quzi" und "Quzino" in der Waltramstraße 1
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Postfiliale Tegernseer Platz - Antrag des BA 17 mit der Bitte um Unterstützung
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Hertlingstraße 15 - Vorbescheid: Herstellung von ebenerdigen Besucherparkplätzen auf dem Grundstück, Auffüllung Abfahrtsrampe, Änderung der Nutzung des Untergeschosses (Hertlingstr. 15 / Säckingenstr. 11)
+- TOP 3.6.4.1.2.: Isenschmidstraße 14: Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.6.4.1.3.: Bezoldstraße 14 - Vorbescheid: Abriss und Neubau Doppelhaushälfte alternativ Nutzungsänderung, Umbau mit Dachgeschossneubau Bestand und Garagenneubau
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 3.6.6.2.: (U) Prüfung der Anträge zum Bauvorhaben Candid-Tor Stadtbezirk 18 - Untergiesing-Harlaching
+- TOP 3.6.7: Sonstiges
+- TOP 3.6.7.1.: Personalplanung der Deutschen Post; hier: Anfrage zu Neubauten
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Sitzungstermine des BA 18 sowie Bürgerversammlungs-Termin 2026
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.2.4.1.: Skateboard Mobil und Kurse High Five (Stadtbezirke 05, 15, 16, 18, 22, 24) im Zeitraum vom 31.03. - 30.10.2025
+- TOP 3.2.4.2.: Jubiläumsfeier FEZI des KJR am 28.03.2025 von 15:00 bis 18:00 Uhr in der Fromundstraße
+- TOP 3.2.4.3.: Harlachinger Frühlingsspektakel 2025 am 28.03.2025 am Laurinplatz
+- TOP 3.4.3.5.: Schnellstmögliche Entfernung von Misteln an zahlreich befallenen Bäumen im 18. Stadtbezirk; CSU-Antrag
