@@ -1,0 +1,8 @@
+# TOP 4: Lärmaktionsplan - Gesamtstrategie Tempo 30 und Lärmschutz
+
+- Sitzung: Beirat Bauen (2025-02-19)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/149947
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/25689
