@@ -1,0 +1,62 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-02-19T17:00:00+01:00
+- Ende: 2025-02-19T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4886
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4886
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - im Ausschuss abgelehnt
+- TOP 3.1: Aktueller Stand Haus Gardeschützenweg - beantwortet
+- TOP 3.2: Gesundheitliche Auswirkungen der Handynutzung auf Kinder und Jugendliche - beantwortet
+- TOP 3.3: Antisemitismusprävention im Bezirk - beantwortet
+- TOP 3.4: Wie steht es um die Sicherheit an der Fichtenberg-Oberschule? - beantwortet
+- TOP 3.5: Dauerbaustelle auf dem Hindenburgdamm – wie geht es den Gewerbetreibenden? - beantwortet
+- TOP 3.6: Nachfragen zur Schriftlichen Anfrage 297/VI - schriftlich beantwortet
+- TOP 3.7: Die Quadratur des Kreisels, oder: Wie geht es weiter mit dem Großprojekt im Steglitzer Zentrum? - vertagt
+- TOP 3.8: Was wird aus dem Kulturkiosk an der Dorfaue? - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Nachwahl von Patientenfürsprecherinnen und Patientenfürsprechern für die VI. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stimmberechtigten Mitglieds des Jugendhilfeausschusses für die VI. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Erweiterung Museumsdorf Düppel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Sitzbank in der Schubertstraße in Lichterfelde-West erneuern und Mülleimer im Kiez ergänzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wartehäuschen für die Bushaltestelle Charité - Campus B. Franklin – jetzt aber richtig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Verkehr flüssiger gestalten - Fußgängerbedarfsampel Birkbusch-/ Sedanstraße jetzt! - in der BVV abgelehnt
+- TOP 4.7: Mehr Sauberkeit am S-Bahnhof Wannsee gegen Verwahrlosung öffentlicher Plätze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Vorplatz Bahnhof Wannsee endlich aufwerten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Platz nach Elise Taube benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Naturschutz an Schlachtensee und Krumme Lanke - damit das schöne Ausflugsgebiet erhalten bleibt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Flexible Verkehrsflächen stärken - Verkehrsbeziehungen für Sicherheits- und Rettungskräfte sicherstellen - in der BVV abgelehnt
+- TOP 4.12: Parkregelung Holbeinstraße - in der BVV abgelehnt
+- TOP 4.13: Den Einsatz von Laubsaugern und -bläsern reduzieren - für mehr Artenvielfalt und Bodenschutz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Längere Ampelphase für Fußgänger an der Berliner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Endlich geeignete Mülleimer vor dem Bahnhof Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Baumaßnahmen am S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Öffentliche Toiletten im LiO auch am Sonntag - in der BVV abgelehnt
+- TOP 4.18: Böllerverbot - in der BVV abgelehnt
+- TOP 4.19: Berliner No-Go-Areas: Gefahr für Homosexuelle und Juden - Welche Entwicklung nimmt Steglitz-Zehlendorf? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Einen Platz nach Jürgen Bischof benennen - überwiesen
+- TOP 5.2: Die Spiegelwand als Gedenkort schützen - überwiesen
+- TOP 5.3: Baumscheibenparken in der Ringstraße beenden - überwiesen
+- TOP 5.4: Regelmäßige Berichte des Bezirksamtes - überwiesen
+- TOP 5.5: 30 Jahre Spiegelwand auf dem Hermann-Ehlers-Platz - überwiesen
+- TOP 5.6: Möglichkeiten des CO2-Rechners des Umweltbundesamtes nutzen - überwiesen
+- TOP 5.7: Queere Angebote und Awareness im Sport im Bezirk stärken - überwiesen
+- TOP 5.8: Haltelinien Berliner Straße Ecke Charlottenburger Straße - überwiesen
+- TOP 5.9: Pilotprojekt Altspeiseöl-Sammelstelle - überwiesen
+- TOP 5.10: Bezirkskulturbericht regelmäßig jährlich im Ausschuss für Bildung und Kultur vorstellen - überwiesen
+- TOP 5.11: Literatur gegen Antisemitismus - überwiesen
+- TOP 5.12: Teilhabe von Menschen mit Behinderungen - überwiesen
+- TOP 5.13: Vorplatz S-Bahnhof Lankwitz - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Regelmäßige Brandstiftungen in Lichterfelde-Süd – was weiß das Bezirksamt und was tut es? - beantwortet
+- TOP 6.2: 2025/2026 kalte Schulter statt Kältehilfeplätze im Bezirk? - beantwortet
