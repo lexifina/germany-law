@@ -1,0 +1,116 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2025-02-19T17:00:00+01:00
+- Ende: 2025-02-19T21:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7749
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7749
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=463290
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Einwohneranfragen - im Ausschuss abgelehnt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - (offen)
+- TOP 3.1: Änderung der Ampelschaltung an der Welserstraße Ecke Geisbergstraße - überwiesen
+- TOP 3.2: Längere Grünphasen für Fußgänger_innen am Mariendorfer Damm/Glärnischweg - überwiesen
+- TOP 3.3: Verlängerung der Grünphasen aller Fußgängerampeln am Attilaplatz - überwiesen
+- TOP 3.4: Größere Busse auf und kürzerer Takt der Linie 204 - überwiesen
+- TOP 3.5: Ampelschaltung vor der Havelland-Grundschule - überwiesen
+- TOP 4: je eine Priorität pro Fraktion - (offen)
+- TOP 4.1: Kein Stellplatzabbau in Parkraumbewirtschaftungsgebieten mit „negativer Stellplatzbilanz“ - in der BVV abgelehnt
+- TOP 4.2: Wann wird Tempelhof-Schöneberg eine kinderfreundliche Kommune? - beantwortet
+- TOP 4.3: Zukunft des Tempelhofer Parkfriedhofs - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Leben retten! Sanierung und Finanzierung der Berliner Bäder - beantwortet
+- TOP 4.5: Sicherstellung der Einsatzfähigkeit der Berliner Feuerwehr bei Radverkehrsanlagen - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - (offen)
+- TOP 5.1: Jahresberichte der Patientenfürsprecher_innen für das Jahr 2024 gemäß §30 (3) des Landeskrankenhausgesetzes (LKG) und §12 des Gesetzes über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (PsychKG) - überwiesen
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Wahl der Sozialkommissionen / Sonderkommissions-Mitglieder (Ehrenamtliche) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Preis für queere Vielfalt in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Aufenthaltsqualität für Fußgänger am Richard-von-Weizsäcker-Platz verbessern - in der BVV zurückgezogen
+- TOP 9.2: Gegen die politische Verrohung in unserem Land - für die Verteidigung unserer Demokratie - in der BVV zurückgezogen
+- TOP 9.3: Leben retten durch Schwimmen! Infrastruktur jetzt schaffen! - überwiesen
+- TOP 9.4: Sachstand und zeitliche Planungen zu den Beschlüssen der Bezirksverordnetenversammlung betreffs der Benennungen von Straßen, Plätzen und Grünflächen nach Frauen - überwiesen
+- TOP 9.5: Vor gefälschten QR-Codes an Parkscheinautomaten öffentlich warnen - im Ältestenrat zurückgezogen
+- TOP 9.6: Handyverbot an Schulen unterstützen - überwiesen
+- TOP 9.7: Infektionsschutz gewährleisten: Barbershops und Friseursalons kontrollieren! - überwiesen
+- TOP 9.8: Betroffene von Eigenbedarfskündigungen unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 9.9: Glascontainer an der Einmündung des Südwestkorso in die Bundesallee - mit Änderungen in der BVV beschlossen
+- TOP 9.10: Beteiligung am Projekt „gegen Wohnungsnot durch Eigenbedarf und Umwandlung“ - in der BVV zurückgezogen
+- TOP 9.11: Wappen für alle Ortsteile des Bezirks festlegen - in der BVV abgelehnt
+- TOP 9.12: „Kriegstüchtig“ macht „kriegssüchtig“: Kein Werben fürs Verderben! - vertagt
+- TOP 9.13: Vorlage eines bezirklichen Sicherheits- und Präventionskonzepts rund um den Nollendorfplatz - vertagt
+- TOP 9.14: Maßnahmen zur Sensibilisierung und Prävention von Antisemitismus in Kindertagesstätten - überwiesen
+- TOP 9.15: Newsletter für Senior*innenarbeit - mit Änderungen in der BVV beschlossen
+- TOP 9.16: Wegweiser für soziale Angebote im Bezirk - überwiesen
+- TOP 9.17: Fußgängersicherheit stärken: Fahrradampeln in der Goebenstraße - vertagt
+- TOP 9.18: Poller abbauen – Leben retten - vertagt
+- TOP 9.19: Ehemalige Hausmeisterwohnung im Rathaus Tempelhof sinnvoll nutzen - vertagt
+- TOP 9.20: Sachstand und zeitliche Planungen zu den Beschlüssen der Bezirksverordnetenversammlung betreffs der Herstellung und Errichtung von Gedenktafeln und Stelen in Tempelhof Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Warnbaken in Teilen Neutempelhofs zeitnah entfernen - überwiesen
+- TOP 9.22: Info-Kampagne zur verantwortlichen und umweltschonenden Parknutzung - überwiesen
+- TOP 9.23: Vermietung von bezirkseigenen Immobilien transparent gestalten - überwiesen
+- TOP 9.24: Beleuchtung auch tagsüber am S-Bahnhof Lichtenrade - mit Änderungen in der BVV beschlossen
+- TOP 9.25: Kampagne zum Kampf gegen K.O. Tropfen - überwiesen
+- TOP 9.26: Die öffentliche Toilette auf dem Pfarrer-Lütkehaus-Platz umgehend wieder freigeben - überwiesen
+- TOP 9.27: Spurenführung an der Kreuzung Mariendorfer Damm / Alt-Mariendorf korrigieren - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Solaranlagen auf Schuldächer: Fällt der Klimaschutz in Tempelhof-Schöneberg hinten runter? - vertagt
+- TOP 10.2: Zukunftssichere Schulplanung: Integration von Willkommensklassen und Kapazitätsbedarf transparent gestalten - vertagt
+- TOP 10.3: Wird der Glasfaserausbau in Tempelhof-Schöneberg verschleppt? - vertagt
+- TOP 10.4: Konsequenzen der OVG-Grundsatzurteile: Solaranlagen auf denkmalgeschützten Gebäu-den in Tempelhof-Schöneberg - vertagt
+- TOP 10.5: Knappen Wohnraum schützen – aber wie? - vertagt
+- TOP 10.6: Kann oder will das Straßen- und Grünflächenamt die Beschlüsse der BVV nicht realisieren? - vertagt
+- TOP 10.7: Umsetzung E-Government-Gesetz Berlin (EGovG Bln) - schriftlich beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Fahrradbügel auf der Fahrbahn nur in Kreuzungsbereichen aufstellen - vertagt
+- TOP 11.2: Teilfortschreibung des Einzelhandels- und Zentrenkonzeptes für den Bereich "Marienhöfe" - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Initiative des Bezirks gegen explodierende Zahl Wohnungs- und Obdachloser - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: B-Plan 7-76 umsetzen und städtebauliche Entwicklung im Sinne der BVV-Beschlüsse einleiten - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.6: Öffentliche Orte für Tischtennis, Skateboard, Basketball und Bolzplätze übersichtlich darstellen - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Proaktiv: Lange leerstehende Büroflächen erfassen - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Ausstellung von Gästeparkausweisen online - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Errichtung kostenloser Toiletten bei Spielplätzen in Tempelhof-Schöneberg - vertagt
+- TOP 11.10: Frauen im Deutschen Widerstand gegen den Faschismus gedenken - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Gedenktafel für Frieda Krüger - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Feierlichkeiten zum 650. Jubiläum Lichtenrades – transparent planen, Bürger informieren, angemessen finanzieren - vertagt
+- TOP 11.13: Königskolonnaden am Kleistpark sichern - vertagt
+- TOP 11.14: Hilfe, statt Strafe bei Schulschwänzen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: LKW-Parkverbot in der Säntisstraße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Information über Vermögensabschöpfung im Kampf gegen organisierte Kriminalität in Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 11.17: Cannabis-Modellprojekt auch in Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Priorität zur Einrichtung der Katastrophenschutz-Leuchttürme im Bezirk - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Erinnerung an das Wirken des großen deutschen Staatsmanns Richard von Weizsäcker - mit Änderungen in der BVV beschlossen
+- TOP 11.20: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 01 / 2025 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Keine Verdrängung der Wohnbevölkerung durch (möbliertes) Zeitwohnen - mit Änderungen in der BVV beschlossen
+- TOP 11.22: Ersatz für den Kletterfelsen schaffen - mit Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: Lichtenrader Graben aufwerten und begehbar machen - überwiesen
+- TOP 12.2: Lorenzweg 5 – Erinnerung an einen geschichtsträchtigen Ort wachhalten - überwiesen
+- TOP 12.3: Erinnerungstafeln in Lichtenrade – gegen das Vergessen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Geschwindigkeitsreduzierung in der südlichen Gotenstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Ausstellung „Spurensuche Demokratie“ dauerhaft zeigen - überwiesen
+- TOP 12.6: Beschulung in Kleinklassen an Regelschulstandorten gewährleisten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.7: Silvesterböllerei - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.8: Mahntafeln „Orte des Schreckens“ säubern und sanieren - überwiesen
+- TOP 12.9: Rettet die Gartenarbeitsschulen – Umweltbildung darf nicht sterben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.10: Genug ist genug – stadtweites Böllerverbot für Berlin jetzt! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.11: Flächenverbrauch und die dazugehörigen Optimierungskonzepte im Bezirk - überwiesen
+- TOP 12.12: Zielvereinbarung zur gesamtstädtischen Steuerung der Familienservicebüros - überwiesen
+- TOP 12.13: Zielvereinbarung zur Förderung der Freiwilligenagentur im Bezirk Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.14: Abwägungsbericht über das Ergebnis der öffentlichen Auslegung gem. § 12 Abs. 6 Berliner Naturschutzgesetz zum Entwurf des Landschaftsplanes 7-L- 6 „Landschaftspark Marienfelde“ - überwiesen
+- TOP 12.15: Zielvereinbarung zur gesamtstädtischen Steuerung zur Stabilisierung des Bestandes an Straßenbäumen in bezirklicher Verwaltung - überwiesen
+- TOP 12.16: Funktionslosigkeit des Baunutzungsplans, Baustufe V/3, für das Kerngebiet im Bereich Wittenbergplatz - überwiesen
+- TOP 12.17: Neue Mitglieder in der Kunstkommission - überwiesen
+- TOP 12.18: Regelung zur Vergabe von Stellplätzen an allgemeinbildenden Schulen in bezirklicher Trägerschaft im Bezirk Tempelhof-Schöneberg - überwiesen
+- TOP 13: Termin der nächsten Sitzung - im Ausschuss abgelehnt
