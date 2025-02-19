@@ -1,59 +1,55 @@
-# Polizeiverordnung der Landeshauptstadt Dresden zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Zusammenhang mit Fußballspielen im Stadion an der Lennéstraße (3.6 PolVO Lennéstraße)
+# Polizeiverordnung der Landeshauptstadt Dresden zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Zusammenhang mit Fußballspielen im Stadion an der Lennéstraße (PolVO Lennéstraße)
 
 - Gemeinde: Landeshauptstadt Dresden (ARS 146120000000)
-- Datum: 2018-05-31 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.dresden.de/media/pdf/satzungen/verordnung_polizei_lennee.pdf
+- Datum: 2025-02-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.dresden.de/media/pdf/satzungen/Polizeiverordnung-Lennestrasse.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
+3.6
+
 Polizeiverordnung der Landeshauptstadt Dresden zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Zusammenhang mit Fußballspielen im Stadion an der Lennéstraße
-(3.6 PolVO Lennéstraße)
+(PolVO Lennéstraße)
 Vom 17. Mai 2018
-Veröffentlicht im Dresdner Amtsblatt Nr. 22/2018 vom 31.05.2018
+Veröffentlicht im Dresdner Amtsblatt Nr. 22/2018 vom 31.05.2018 und zuletzt geändert in Nr. e27-02-2025 vom 19.02.2025
 
 Auf der Grundlage des § 9 Abs. 1 in Verbindung mit § 1 Abs. 1, § 14 und § 17 Abs. 1 des Polizeigesetzes des Freistaates Sachsen (SächsPolG) in der Fassung der Bekanntmachung vom 13. August 1999 (SächsGVBl. S. 466), das zuletzt durch Artikel 1 des Gesetzes vom 17. Dezember 2013 (Sächs GVBl. S. 890) geändert worden ist, hat der Stadtrat der Landeshauptstadt Dresden in seiner Sitzung vom 17. Mai 2018 folgende Polizeiverordnung erlassen:
-Inhaltsverzeichnis § 1 Geltungsbereich und -zeit § 2 Gewährleistung der Sicherheit und Ordnung durch die Veranstalterin/den Veran-
+
+Inhaltsverzeichnis
+§ 1 Geltungsbereich und -zeit § 2 Gewährleistung der Sicherheit und Ordnung durch die Veranstalterin/den Veran-
 stalter § 3 Verhaltensregeln für Besucherinnen/Besucher § 4 Ausnahmen § 5 Ordnungswidrigkeiten § 6 Inkrafttreten
 
 §1 Geltungsbereich und -zeit
 (1) Diese Polizeiverordnung gilt für den Bereich des Stadions an der Lennéstraße. Dieser Bereich umfasst das gesamte umfriedete Gelände des Stadions einschließlich der Gebäude und Versammlungsstätten des Stadions sowie alle nicht eingefriedeten Flächen innerhalb nachfolgend beschriebenen Gebietes (Anlage):
 - Lennéplatz, - Parkstraße in westlicher Richtung bis Einmündung Blüherstraße, - Blüherstraße in nordöstlicher Richtung bis zur Grunaer Straße, - Grunaer Straße in landwärtiger Richtung bis Straßburger Platz sowie - Lennéstraße ab Straßburger Platz bis Lennéplatz.
-Die genannten Straßenzüge und Plätze selbst gehören zum Geltungsbereich dieser Polizeiverordnung.
 
-54. EL, 2018
+66. EL, 2025
 
 1
 
+3.6
+
 Polizeiverordnung Lennéstraße
 
+Die genannten Straßenzüge und Plätze selbst gehören zum Geltungsbereich dieser Polizeiverordnung.
 (2) Diese Polizeiverordnung gilt für die öffentliche Austragung von Fußballspielen im Stadion an der Lennéstraße in der Zeit von zwei Stunden vor planmäßigem Spielbeginn bis zwei Stunden nach Abpfiff des Spieles.
-
 §2 Gewährleistung der Sicherheit und Ordnung durch die Veranstalterin/den Veranstalter
-
 (1) Die Veranstalterin/der Veranstalter hat die beabsichtigte öffentliche Austragung von Fußballspielen gegenüber der Ortspolizeibehörde, spätestens 14 Tage vorher, anzuzeigen. Ist eine Anzeige nicht oder nicht fristgerecht erfolgt, so gilt der gastgebende Verein als Veranstalter im Sinne dieser Polizeiverordnung.
-
 (2) Die Veranstalterin/der Veranstalter hat innerhalb des umfriedeten Geländes des Stadions einschließlich der Gebäude und Versammlungsstätten des Stadions während des in § 1 Abs. 2 normierten Geltungszeitraumes die erforderlichen Maßnahmen zu treffen, um Schädigungen von Personen und/oder Sachen zu verhindern.
-
 (3) Zu den erforderlichen Maßnahmen im Sinne von Abs. 2 zählt insbesondere die Pflicht der Veranstalterin/des Veranstalters, während des gesamten zeitlichen Geltungsbereiches dieser Polizeiverordnung einen Ordnerdienst zu stellen. Die Veranstalterin/der Veranstalter gewährleistet die Volljährigkeit und die persönliche Zuverlässigkeit der eingesetzten Ordnerinnen/Ordner. Sie/er gewährleistet ferner eine im Hinblick auf die zu erwartenden Besucherzahlen und das sonstige im Zusammenhang mit dem jeweiligen Fußballspiel für die Veranstalterin/den Veranstalter erkennbare Gefahrenpotenzial ausreichende Anzahl von Ordnerinnen/Ordner. Die Übertragung von Sicherheitsaufgaben an Dritte befreit die Veranstalterin/den Veranstalter nur dann von der Pflicht, die Zuverlässigkeit der einzelnen Ordnerinnen/Ordner zu gewährleisten, wenn diese Dritten Sicherheitsfirmen sind, die über eine Erlaubnis nach § 34 a Gewerbeordnung verfügen. Auch bei Übertragung von Sicherheitsaufgaben an Dritte hat die Veranstalterin/der Veranstalter zu gewährleisten, dass eine ausreichende Anzahl von Ordnerinnen/Ordner zum Einsatz kommt. Die Ordnerinnen/Ordner müssen als solche für jedermann deutlich erkennbar sein, z. B. durch entsprechende Kleidungsstücke bzw. Beschriftung der Kleidung.
-
 (4) Die Veranstalterin/der Veranstalter hat im Rahmen der Einlasskontrolle dafür Sorge zu tragen, dass erkennbar erheblich unter Alkohol- oder Drogeneinfluss stehenden Personen kein Zutritt zum Stadion gewährt wird. Gleiches gilt für Personen, bei denen sonstige Tatsachen die Annahme begründen, dass sie sich innerhalb des Stadions an gegen Personen oder Sachen gerichteten Schädigungshandlungen beteiligen werden, sowie für Personen, bezüglich derer ein Stadionverbot gilt.
 
-(5) Die Veranstalterin/der Veranstalter hat im Rahmen der Einlasskontrolle ferner sicher-
-
-zustellen, dass Hunde, mit Ausnahme von Blindenhunden, oder gefährliche Gegenstände
-
-nicht in das Stadion eingebracht werden dürfen. Gefährliche Gegenstände sind insbe-
-
-sondere
+66. EL, 2025
 
 2
 
-54. EL, 2018
-
 Polizeiverordnung Lennéstraße
 
+3.6
+
+(5) Die Veranstalterin/der Veranstalter hat im Rahmen der Einlasskontrolle ferner sicherzustellen, dass Hunde, mit Ausnahme von Blindenhunden, oder gefährliche Gegenstände nicht in das Stadion eingebracht werden dürfen. Gefährliche Gegenstände sind insbesondere
 1. Feuerwerkskörper, Fackeln, Rauchkerzen, Leuchtkugeln, bengalische Feuer oder sonstige pyrotechnische Gegenstände,
 2. ätzende, leicht entzündliche, färbende oder die Gesundheit gefährdende oder schädigende feste, flüssige oder gasförmige Substanzen,
 3. Waffen im Sinne des Waffengesetzes, 4. Gegenstände, die als Waffen oder Wurfgeschosse verwendet werden können, 5. sperrige Gegenstände, wie Leitern, Hocker, Kisten, Stangen oder Fahnen mit ei-
@@ -67,80 +63,64 @@ oder Organisationen oder solchen, die eine ausländerfeindliche und/oder nationa
 (1) Besucherinnen/Besucher haben sich im Geltungsbereich dieser Polizeiverordnung so zu verhalten, dass andere Personen nicht geschädigt, gefährdet oder mehr als nach den Umständen unvermeidbar belästigt oder behindert werden.
 (2) Jede Besucherin/jeder Besucher ist beim Betreten des umfriedeten Bereiches verpflichtet, dem Ordnerdienst seine Eintrittskarte oder den Berechtigungsausweis unaufgefordert vorzuzeigen und auf Verlangen zur Überprüfung auszuhändigen.
 (3) Die Besucherinnen/Besucher sind verpflichtet, auf Anweisung der Polizei oder des Ordnerdienstes andere Plätze als auf ihrer Eintrittskarte vermerkt – auch in anderen Blöcken – einzunehmen.
-(4) Alle Auf- und Abgänge sowie Rettungswege sind freizuhalten.
 
-54. EL, 2018
+66. EL, 2025
 
 3
 
+3.6
+
 Polizeiverordnung Lennéstraße
 
+(4) Alle Auf- und Abgänge sowie Rettungswege sind freizuhalten.
 (5) Die Besucherinnen/Besucher haben den Anordnungen der Polizei, der Feuerwehr und des Rettungsdienstes, des Ordnerdienstes sowie der Stadionsprecherin/des Stadionsprechers Folge zu leisten.
-
 (6) Den Besucherinnen/Besuchern ist es verboten
-
 1. Lieder mit rassistischem, diskriminierendem oder beleidigendem Inhalt zu singen, 2. das Stadion unter erheblichem Einfluss von Alkohol oder Drogen zu betreten, 3. mit Gegenständen zu werfen, 4. Feuer zu entfachen, Feuerwerkskörper, Fackeln, Rauchkerzen, Leuchtkugeln,
 bengalische Feuer oder sonstige pyrotechnische Gegenstände abzubrennen oder abzuschießen, 5. Hunde, mit Ausnahme von Blindenhunden, gefährliche Gegenstände oder Gegenstände im Sinne von § 2 Abs. 5 Satz 3 in das Stadion einzubringen, 6. nicht für die allgemeine Benutzung vorgesehene Bauten oder Einrichtungen, insbesondere Fassaden, Zäune, Mauern, Umfriedungen der Spielfläche, Absperrungen, Beleuchtungsanlagen, Kamerapodeste, Bäume, Masten aller Art oder Dächer zu besteigen oder zu übersteigen.
-
 §4 Ausnahmen
-
 Von den Vorschriften der §§ 2 und 3 kann im Einzelfall durch die Landeshauptstadt Dresden auf Antrag eine Ausnahme zugelassen werden, wenn
-
 a) für die Betroffene/den Betroffenen/die Betroffenen eine unzumutbare Härte entsteht und kein öffentliches Interesse entgegen steht,
 b) es im öffentlichen Interesse steht.
-
 §5 Ordnungswidrigkeiten
+Ordnungswidrig im Sinne von § 39 Abs. 1 SächsPBG ¹) handelt, wer vorsätzlich oder fahrlässig
+1. entgegen § 2 Abs. 1 eine beabsichtigte öffentliche Austragung von Fußballspielen nicht oder nicht fristgemäß anzeigt,
+2. entgegen § 2 Abs. 2 nicht die erforderlichen Maßnahmen trifft um Schädigungen von Personen und/oder Sachen zu verhindern,
+¹) Änderung, Dresdner Amtsblatt Nr. e27-02-25 vom 19.02.2025
 
-Ordnungswidrig im Sinne des § 17 Abs. 1 SächsPolG handelt, wer vorsätzlich oder fahrlässig
-
-1. entgegen § 2 Abs. 1 eine beabsichtigte öffentliche Austragung von Fußballspielen
-
-nicht oder nicht fristgemäß anzeigt,
-
-2. entgegen § 2 Abs. 2 nicht die erforderlichen Maßnahmen trifft um Schädigungen
-
-von Personen und/oder Sachen zu verhindern,
-
-3. entgegen § 2 Abs. 3 Satz 1 keinen Ordnerdienst einsetzt,
-
-4. entgegen § 2 Abs. 3 Satz 2 Ordnerinnen/Ordner einsetzt, die nicht volljährig sind
-
-oder nicht über die erforderliche persönliche Zuverlässigkeit verfügen,
-
-5. entgegen § 2 Abs. 3 Satz 6 Ordnerinnen/Ordner einsetzt, die nicht als solche er-
-
-kennbar sind,
+66. EL, 2025
 
 4
 
-54. EL, 2018
+Polizeiverordnung Lennéstraße
+
+3.6
+
+3. entgegen § 2 Abs. 3 Satz 1 keinen Ordnerdienst einsetzt, 4. entgegen § 2 Abs. 3 Satz 2 Ordnerinnen/Ordner einsetzt, die nicht volljährig sind
+oder nicht über die erforderliche persönliche Zuverlässigkeit verfügen, 5. entgegen § 2 Abs. 3 Satz 6 Ordnerinnen/Ordner einsetzt, die nicht als solche er-
+kennbar sind, 6. entgegen § 2 Abs. 4 nicht hinreichend dafür Sorge getragen hat, dass den dort
+genannten Personen kein Einlass gewährt wird, 7. entgegen § 2 Abs. 5 im Rahmen der Einlasskontrolle nicht ausreichend sicher-
+stellt, dass Hunde, mit Ausnahme von Blindenhunden, oder gefährliche Gegenstände oder Gegenstände im Sinne von § 2 Abs. 5 Satz 3 nicht in das Stadion eingebracht werden, 8. entgegen § 3 Abs. 1 sich im Geltungsbereich dieser Polizeiverordnung so verhält, dass andere Personen geschädigt, gefährdet, oder mehr als nach den Umständen unvermeidbar belästigt oder behindert werden, 9. entgegen § 3 Abs. 5 Anweisungen der Polizei, der Feuerwehr und des Rettungsdienstes, des Ordnerdienstes sowie der Stadionsprecherin/des Stadionsprechers nicht Folge leistet, 10. entgegen § 3 Abs. 6 Nr. 1 Lieder mit rassistischem, diskriminierendem oder beleidigendem Inhalt singt, 11. entgegen § 3 Abs. 6 Nr. 2 das Stadion unter erheblichem Einfluss von Alkohol oder Drogen betritt, 12. entgegen § 3 Abs. 6 Nr. 3 mit Gegenständen wirft, 13. entgegen § 3 Abs. 6 Nr. 4 Feuer entfacht oder Feuerwerkskörper, Fackeln, Rauchkerzen, Leuchtkugeln, bengalische Feuer oder sonstige pyrotechnische Gegenstände abbrennt oder abschießt, 14. entgegen § 3 Abs. 6 Nr. 5 Hunde, mit Ausnahmen von Blindenhunden, gefährliche Gegenstände oder Gegenstände im Sinne von § 2 Abs. 5 Satz 3 in das Stadion einbringt, 15. entgegen § 3 Abs. 6 Nr. 6 nicht für die allgemeine Benutzung vorgesehene Bauten oder Einrichtungen, insbesondere Fassaden, Zäune, Mauern, Umfriedungen der Spielfläche, Absperrungen, Beleuchtungsanlagen, Kamerapodeste, Bäume, Masten aller Art oder Dächer besteigt oder übersteigt.
+Diese Ordnungswidrigkeiten können gemäß § 39 Abs. 2 SächsPBG und § 17 Abs. 1 und 2 des Gesetzes über Ordnungswidrigkeiten (OWiG) bei vorsätzlicher Zuwiderhandlung mit Geldbuße bis zu 5.000 Euro und bei fahrlässiger Zuwiderhandlung mit höchstens 2.500 Euro geahndet werden. ¹)
+
+¹) Änderung, Dresdner Amtsblatt Nr. e27-02-2025 vom 19.02.2025
+
+66. EL, 2025
+
+5
+
+3.6
 
 Polizeiverordnung Lennéstraße
 
-6. entgegen § 2 Abs. 4 nicht hinreichend dafür Sorge getragen hat, dass den dort genannten Personen kein Einlass gewährt wird,
-7. entgegen § 2 Abs. 5 im Rahmen der Einlasskontrolle nicht ausreichend sicherstellt, dass Hunde, mit Ausnahme von Blindenhunden, oder gefährliche Gegenstände oder Gegenstände im Sinne von § 2 Abs. 5 Satz 3 nicht in das Stadion eingebracht werden,
-8. entgegen § 3 Abs. 1 sich im Geltungsbereich dieser Polizeiverordnung so verhält, dass andere Personen geschädigt, gefährdet, oder mehr als nach den Umständen unvermeidbar belästigt oder behindert werden,
-9. entgegen § 3 Abs. 5 Anweisungen der Polizei, der Feuerwehr und des Rettungsdienstes, des Ordnerdienstes sowie der Stadionsprecherin/des Stadionsprechers nicht Folge leistet,
-10. entgegen § 3 Abs. 6 Nr. 1 Lieder mit rassistischem, diskriminierendem oder beleidigendem Inhalt singt,
-11. entgegen § 3 Abs. 6 Nr. 2 das Stadion unter erheblichem Einfluss von Alkohol oder Drogen betritt,
-12. entgegen § 3 Abs. 6 Nr. 3 mit Gegenständen wirft, 13. entgegen § 3 Abs. 6 Nr. 4 Feuer entfacht oder Feuerwerkskörper, Fackeln, Rauch-
-kerzen, Leuchtkugeln, bengalische Feuer oder sonstige pyrotechnische Gegenstände abbrennt oder abschießt, 14. entgegen § 3 Abs. 6 Nr. 5 Hunde, mit Ausnahmen von Blindenhunden, gefährliche Gegenstände oder Gegenstände im Sinne von § 2 Abs. 5 Satz 3 in das Stadion einbringt, 15. entgegen § 3 Abs. 6 Nr. 6 nicht für die allgemeine Benutzung vorgesehene Bauten oder Einrichtungen, insbesondere Fassaden, Zäune, Mauern, Umfriedungen der Spielfläche, Absperrungen, Beleuchtungsanlagen, Kamerapodeste, Bäume, Masten aller Art oder Dächer besteigt oder übersteigt.
-
-Diese Ordnungswidrigkeiten können mit einer Geldbuße bis zu 1.000 Euro geahndet werden.
-
 §6 Inkrafttreten
-
 Diese Polizeiverordnung tritt am Tag nach ihrer Verkündung in Kraft. Gleichzeitig tritt die Polizeiverordnung vom 3. Juli 2008 außer Kraft.
-
 Dresden, 22. Mai 2018
-
 gez. Detlef Sittel Erster Bürgermeister der Landeshauptstadt Dresden
-
 Anlage
 
-54. EL, 2018
+66. EL, 2025
 
-5
+6
 
 Polizeiverordnung Lennéstraße
 
@@ -148,6 +128,6 @@ Anlage
 
 Geltungsbereich der PolVO gemäß § 1
 
-54. EL, 2018
+66. EL, 2025
 
-6
+7
