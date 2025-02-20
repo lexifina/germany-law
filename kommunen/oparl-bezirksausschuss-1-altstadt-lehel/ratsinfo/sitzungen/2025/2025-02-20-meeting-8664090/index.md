@@ -1,0 +1,132 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-02-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664090
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664090
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget; Frist: 20.03.2025
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Benennung stellvertretende*r Vorsitzende*r Unterausschuss KSGB
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: St.-Anna-Str. 6 Neubau eines Wohngebäudes (RGB) / 3 WE) mit einer erdgeschossigen Gewerbeeinheit - ÄNDERUNGSANTRAG zu 1.2-2023-10422-21 - jetzt: Neubau eines Wohngebäudes (RGB) / 3 WE, davon eine Maisonette) mit einer erdgeschossigen Gewerbeeinheit; Frist: 07.03.2025
+- TOP 3.1.2.: Unsöldstr. 13 Neubau von 2 Wohngebäude mit Tiefgarage – VORBESCHEID; Frist: 07.03.2025
+- TOP 3.1.3.: Pacellistr. 4 Nutzungsänderung des 5 OGs von Wohnfläche zu Bürofläche und Errichtung einer gemeinschaftlich genutzten Dachterrasse. Errichten einer Notleiteranlage mit Anschluss an Notleiteranlage Bestand. Austausch der Fassade im 5. OG und DG. Erneuerung der Fenster; Frist: 10.03.2025
+- TOP 3.1.4.: Residenzstr. 7 Umbau und Sanierung des 1. und 2. Dachgeschosses mit Nutzungsänderung in Bürofläche; Frist: 10.03.2025
+- TOP 3.1.5.: Tal 29 Nutzungsänderung eines Fachmarktes für Elektroartikel in einen Lebensmittelmarkt (Tal 29 / Marienstr. 10) – ÄNDERUNGSANTRAG; Frist: 10.03.2025
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Baumfällungsantrag Maximilianstr. 14, Frist: 24.02.2025
+- TOP 3.2.2.: Baumfällungsantrag Maxburgstr. 1
+- TOP 3.2.3.: Baumfällungsantrag Sparkassenstr. 15
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Krähenplage und ihre Folgen (Anliegen aus dem BA 20)
+- TOP 1.2.: Bürger*innenanliegen Feldherrenhalle-Renovierung, TOP 2025.01 C 1.2
+- TOP 1.3.: Bürger*innenanliegen Panoramaweg in der Altstadt, TOP 2025.01 C 1.3
+- TOP 1.4.: Bürger*innenanliegen Mobiler Kaffeestand im Sommer und Warmwasserboote im Winter an der Isar (Anliegen aus dem BA 05)
+- TOP 1.5.: Bürger*innenanliegen Unterstützungsanfrage "Bank der Begegnung“
+- TOP 1.6.: Bürger*innenanliegen Sicherung der Kreuzung Liebigstraße – Widenmayerstraße durch eine Ampelanlage mit gleichberechtigter Ampelschaltung
+- TOP 1.7.: Bürger*innenanliegen starke Verschmutzung um die Grundschule an der Herrnstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Empfehlungen zum Masterplan Gehen
+- TOP 2.2.: (E) Taxistand Anfang Bräuhausstraße
+- TOP 2.3.: (E) Tempo 30 in der Maximilianstraße zwischen Sternstraße und Altstadtring
+- TOP 2.4.: (E) E-Scooter im Winter
+- TOP 2.5.: (E) Optimierung der Ampelschaltung am Altstadtring
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Lieferzone Triftstraße 2
+- TOP 3.1.2.: Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Fahrradständer Odeonsplatz 12
+- TOP 3.2.2.: Sammelbeschluss zur Behandlung von Bürgerversammlungsempfehlungen; Anhörung zur Beschlussvorlage zur Erledigung der Empfehlung Nr. 20-26 / E 01919 der Bürgerversammlung des Stadtbezirks 1 – Altstadt-Lehel vom 11.04.2020 (Schaffung einer Stelle einer/eines Fußgängerbeauftragten); Frist: 20.03.2025
+- TOP 3.2.3.: Parklizenzgebiet Mittleres und Nördliches Lehel: Erhöhung der anteiligen Bewohner*innenstellplätze, BA-Antrag Nr. 20-26 / B 06975
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: BA-Antrag: Erläuterungsschild Lion-Feuchtwanger-Platz, TOP 2024.12 C 3.2.2, 2025.01 C 3.2.3
+- TOP 1.2.: Bürger*innenanliegen Freischankfläche am Sendlinger-Tor - Anfrage Sondernutzung
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Elternbeirat St. Anna Grundschule Percussion im Klassenzimmer Mitte Februar -Mitte Juli 2025 3.240,00€; Az. 0262.0-1-0389
+- TOP 2.1.2.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Straßenfest von der Glockenbachwerkstatt und Bellevue die Monaco am 11.05. oder 18.05.2025 1.637,50€; Az. 0262.0-1-0393
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "Ausstellung in EAREAR" Kunstausstellung Schwerpunkt vom 13.03. -27.03.2025 3.000,00€; Az. 0262.0-1-0394
+- TOP 2.1.4.: (E) Stadtbezirksbudget Init. "Musik" 33 RPM vom 03.04. -20.11.2025 2.480,00€; Az. 0262.0-1-0396
+- TOP 2.1.5.: (E) Stadtbezirksbudget Elternbeirat St. Anna Grundschule Fokus Tanz von März -Juni 2025 3.070,00€; Az. 0262.0-1-0390
+- TOP 2.1.6.: (E) Stadtbezirksbudget Theaterkollektiv Futur.X GbR rememory Wiederaufnahme vom 03.02. -14.02.2025 2.000,00€; Az. 0262.0-1-0398
+- TOP 2.1.7.: (E) Stadtbezirksbudget Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e. V. 21. Konzertreihe des Vereins der Freunde und Förderer des Vincentinum e. V., 06.04.2025 - 01.01.2026 3.150,00 €; Az. 0262.0-1-0397
+- TOP 2.1.8.: (E) Stadtbezirksbudget Elternbeirat St. Anna Grundschule Percussion im Klassenzimmer von Mitte Februar 2026 -Mitte Juli 2026 3.240,00€; Az. 0262.0-1-0395
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Rumfordstr. 7: Erweiterung einer bestehende Freischankfläche
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Marienplatz (Bez.1) Traditionelles Geldbeutelwaschen am 05.03.2025 (Aschermittwoch) (Termin 25.02.2025)
+- TOP 3.2.: Parade zum St.Patricks-Day (Start: Feilitzschstraße) am 16.03.2025 und Veranstaltung auf dem Odeonsplatz am 15./16.03.2025 (Termin: 03.03.2025)
+- TOP 3.3.: Verlängerung der temporären Kunstaktion "Schild-#JulietToo" vor dem alten Rathaus an der Julia-Capulet-Statue bis zum 07.07.2027(Termin 17.02.2025)
+- TOP 3.4.: Gedenken am Platz der Opfer des Nationalsozialismus am 13.03.2025; (Termin 21.02.2025)
+- TOP 3.5.: Italienischer Markt vom 28.03. – 05.04.2025 (Termin: 18.03.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Kassenbericht 2024
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Bürger*innenanliegen Nutzungsänderung Liebherrstr. 16, Antwortschreiben Sozialreferat
+- TOP B 4.4.: Bürger*innenanliegen Zweckentfremdung ehemaligen Pension Beck und Rückgebäude Thierschstrasse 42, Antwortschreiben Sozialreferat
+- TOP B 4.5.: Hofgarten 8, Nutzungsänderung der Hausmeisterwohnung zur Bürofläche im 1. OG, Antwort Sozialreferat
+- TOP B 4.6.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP B 4.7.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP B 4.8.: Bürger*innenanliegen Straßenbäume Steinsdorfstraße, TOP 2024.11 B 1.1, Antwortschreiben Baureferat
+- TOP B 4.9.: Maximiliansplatz: Fällung Gefahrenbäume - Notmaßnahme
+- TOP B 4.10.: Protokoll der Sitzung der Stadtgestaltungskommission vom 26.11.2024
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Ampel für den Radverkehr am Übergang Thomas-Wimmer-Ring
+- TOP C 4.3.: Bürger*innenanliegen Brand Vincentinum – Schadstoffmessung, Antwortschreiben Referat für Klima und Umwelt
+- TOP C 4.4.: Bürger*innenanliegen Baumpflanzungen Herrenstraße, TOP 2024.10 C 1.1, Antwortschreiben Baureferat
+- TOP C 4.5.: Bürger*innenanliegen Verschmutzung Verkehrsschild Färbergasse 1, Antwortschreiben Baureferat
+- TOP C 4.6.: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-)Raums, Sitzungsvorlage Nr. 20-26 / V 11904
+- TOP C 4.7.: Information über Fahrplan-Anpassung bei den U-Bahn-Linien U4 und U7 aufgrund eingeschränkter Fahrzeugverfügbarkeit ab 03.02.2025
+- TOP C 4.8.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram
+- TOP C 4.9.: Hildegardstraße 1; Kanalsanierung in Nachtarbeit vom 28.01. bis 29.01.2025; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.10.: Herzogspitalstraße 6; Montage eines Baukrans in Nachtarbeit vom 10.02. bis 12.02.2025; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.11.: Eilentscheid Verkehrliche Funktionen der Brienner Str. östlich des Oskar-von-Miller-Rings, ... Sitzungsvorlage Nr. 20-26 / V 15606 (Termin 12.02.2025)
+- TOP C 4.12.: Mitteilung über Entfernung von Spielgeräten durch das Baureferat
+- TOP C 4.13.: Abfallwirtschaftsbetrieb München (AWM); Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen
+- TOP C 4.14.: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Halbjährliche kostenlose Sperrmüllabfuhr
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget - Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführung
+- TOP D 4.4.: Informationsschreiben bezüglich der Genehmigung von Foodtrucks auf dezentralen Plätzen außerhalb des Altstadtrings
+- TOP D 4.5.: Stadtbezirksbudget - Aktualisierung Richtlinien und Antragsformular
+- TOP 1.3.: Antrag Bündnis90/Die Grünen und SPD/ÖDP Fraktion: Den öffentlichen Raum in unseren Stadtvierteln neu gestalten: Falckenbergstraße als „Sommerstraße 2025“
+- TOP 3.2.4.: Anhörung Sondernutzung, hier: "Radl-Sicherheitschecks & mobile Radl-Werkstätten" ab März 2025 (Termin: 09.03.2025)
+- TOP 3.6.: Infoveranstaltung am Karlsplatz am 19.03.2025 gem. §29 der StVO (Termin: 07.03.2025)
+- TOP B 4.11.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
