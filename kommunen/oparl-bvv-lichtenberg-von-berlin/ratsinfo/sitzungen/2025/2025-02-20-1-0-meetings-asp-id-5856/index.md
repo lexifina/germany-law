@@ -1,0 +1,88 @@
+# 39. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-02-20T17:00:00+01:00
+- Ende: 2025-02-20T22:00:00+01:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5856
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5856
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=418120
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Wahlvorschlag zur Berufung der Mitglieder für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Wahlvorschlag zur Abberufung eines Mitgliedes aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Schnelle Nutzung des Grundstücks Gotlindestraße/Siegfriedstraße ermöglichen (in Fassung des Austauschexemplars) - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Operation Prozessoptimierung: Bürger*innen auf Mission zur Verwaltungsverbesserung! - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Spielplatzpatenschaften auch in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Lichtenberg als leuchtendes Vorbild – Drohnenshow an Silvester (in Fassung des Austauschexemplares) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Einen barrierefreien Bereich neben Sitzbänken berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Wege zur Schule am Tierpark kurzfristig begradigen und Vorplatz neu gestalten (in Fassung des Austauschexemplars) - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Regenentwässerung Siedlung Wartenberg – Verkehrssicherungspflicht gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Inklusion sicherstellen: Räume für soziale Träger in der Geflüchtetenunterkunft - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Eine Jugendfreizeiteinrichtung auf dem Gelände der Gartenarbeitsschule ab 2026 (in Fassung des Austauschexemplars) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Spraydosen-Schmu: Saubere Schilder für Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Gehwege reparieren statt Schilder "Gehwegschäden" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Areal Allee-Center weiterentwickeln – gemeinsam den Herausforderungen stellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Eine zusätzliche Gemeinschaftsschule für Alt-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Einen zweiten Standort für die Gartenarbeitsschule in Herzberge - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Die Parks beim Namen nennen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Schulhof entstauben, Boden aufwerten in der Oberseeschule - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Gutspark Falkenberg aufwerten: Pflege, Barrierearmut und Sanierung des Gutsteichs sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Ein Frauenzentrum für FLINTA* in Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Bäume für Fennpfuhl Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.22: Klassenfahrten für Lichtenberger Schülerinnen und Schüler retten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Mehrfachnutzung von bezirklichen Liegenschaften ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Mosaike in der Bornitzstraße retten - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Leistungen von Wohnungsbaugenossenschaften wertschätzen statt abblocken - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Gehweg in der Paul-Junius-Straße - Lücke schließen - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Den Gehweg im Grafenauer Weg instand halten! - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Sicheren Übergang auf der Klützer Straße schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Verantwortungsvolle Entwicklung im Kiez Frankfurter Allee Süd – Veränderungssperre vorbereiten und Bebauungsplan 11-176 zügig vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 5.30: Ferienschwimmen in der Schwimmhalle der Carl-von-Linné-Schule ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Sondermittel für den 28. Hohenschönhauser Gartenlauf - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: Poller abbauen - Verkehrskonzept erarbeiten - Sicherheit wiederherstellen - überwiesen
+- TOP 5.33: Die Arbeit des KiezKinderLadens mit einem Lagerraum sichern - überwiesen
+- TOP 5.34: 50 Cent pro Hundehaufen - in der BVV abgelehnt
+- TOP 5.35: Auflistung der Schulbibliotheken auf der Homepage - überwiesen
+- TOP 5.36: Feuerwerke nur noch auf vorherigen Antrag genehmigen - in der BVV abgelehnt
+- TOP 5.37: Schulbibliotheken unterstützen - überwiesen
+- TOP 5.38: Einkommen und Unterkunftsart bei der Unterbringungsgebührenordnung berücksichtigen - überwiesen
+- TOP 5.39: Sicher zur Schule - Zebrastreifen in der Nöldnerstraße verstetigen - überwiesen
+- TOP 5.40: Sicherere Fahrradbügel für Lichtenberg - überwiesen
+- TOP 5.41: Für eine saubere Nachbarschaft: Mehr Mülleimer im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 5.42: Mehr Fahrradbügel am Hegemeisterweg - ohne Änderungen in der BVV beschlossen
+- TOP 5.43: Barrierefreie Zebrastreifen durch Bordsteinabsenkungen - überwiesen
+- TOP 5.44: Persönliche Gratulationen zum Spottpreis? - Ehrenamt und Alter würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.45: „Wer hat an der Uhr gesprayt?“ – Sonnenuhr in Hohenschönhausen von Verschmutzungen befreien (in Fassung des ÄA) - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - erledigt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Transparenz bei der Tiefbauunterhaltung (in Fassung des Austauschexemplars) - überwiesen
+- TOP 10.2: Eine Halle für Skaterhockey in Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Unterstützung des Projekts "Integration statt Ausgrenzung - Kleider-Werkstatt" (IsA-K) zur Vermeidung von Ersatzfreiheitsstrafen für Frauen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Anreize und Entlastung für Lehrkräfte - in der BVV abgelehnt
+- TOP 10.5: Bedarfsgerechte Ausstattung der Hilfen zur Erziehung einfordern - strukturelle Defizite endlich beheben - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: "Kriegstüchtig" macht "kriegssüchtig": Kein Werben fürs Verderben! - in der BVV abgelehnt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Schutz der Innenhöfe - schriftlich beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Stadtplatz Frankfurter Allee - mit Änderungen in der BVV beschlossen
+- TOP 13.2: Innenhofbebauung verhindern – Den Einwohnerinnen und Einwohner zur Seite stehen und umfassend informieren - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Corona-Maßnahmen auch in Lichtenberg aufarbeiten - überwiesen
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
