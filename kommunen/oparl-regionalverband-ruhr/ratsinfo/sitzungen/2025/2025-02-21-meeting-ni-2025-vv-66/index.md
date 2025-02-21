@@ -1,0 +1,77 @@
+# 17. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2025-02-21T10:00:00+01:00
+- Ende: 2025-02-21T11:20:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2025-VV-66
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2025-VV-66
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-VV-66
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-VV-66
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-VV-66
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.2.1: Ersatzwahl eines beratenden Mitgliedes der Verbandsversammlung
+- TOP 1.2.2: Gremienumbesetzung der AfD-Fraktion Zielke
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Förderprogramm "Kommunaler Straßenbau 2025" hier: Unterrichtung und Beschlussfassung
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP -: Anfrage der Koalition: Windenergie auf Halde Hoheward
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH (TER) Bürgschaftsübernahme für den Anteil der Bundesmittel des Eisenbahn-Bundesamtes - EBA (50 % der förderfähigen Kosten) für die Ersatzinvestition der Gleiserneuerung zwischen km 58,88 und 59,70 der Strecke Hattingen - Wengern-Ost
+- TOP 8.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2023 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 8.3: Angelegenheiten der Business Metropole Ruhr GmbH - Hydrogen Metropole Ruhr (HyMR) - Sachstandsbericht und Beschluss zur Übertragung der Aufgaben der HyMR an die Business Metropole Ruhr GmbH
+- TOP 8.4: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet GmbH - Änderung der Gesellschaftsverträge der - Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - AGR Betriebsführung GmbH - AGR-KAKO GmbH - AGR-Personalservice-Ruhr GmbH - LAMBDA Gesellschaft für Klimaschutz und regenerative Energien mbH - ÖKODATA GmbH - RZR II Herten GmbH
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.6: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.7: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.8: Angelegenheiten der Umweltzentrum Westfalen GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.9: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.10: Angelegenheiten der Business Metropole Ruhr GmbH - Verkauf der Anteile an der european centre for creative economy GmbH
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Wanderlandschaft Ruhr Hier: Lückenschlüsse Wanderwegenetz
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Ersetzungsvorlage Regionales Radwegenetz für die Metropole Ruhr Hier: Integration des Freizeitnetzes in das Regionale Radwegenetz
+- TOP 10.2: Mobilitätskonferenz.RUHR 2025
+- TOP 10.3: Parkraumstrategie für Standorte des Regionalverbandes Ruhr und Freizeitstandorte aus dem Freizeit- und Tourismuskonzept
+- TOP 10.3.1: Parkraumstrategie für Standorte des Regionalverbandes Ruhr und Freizeitstandorte aus dem Freizeit- und Tourismuskonzept - Ergänzungsantrag zu Drs. 14/1909
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Wiederwahl Nina Frense - Beigeordnete Bereich IV - Umwelt und Grüne Infrastruktur
+- TOP 16.2: Bestellung der Betriebsleitung RVR Ruhr Grün
+- TOP 16.2.1: Bestellung der Betriebsleitung RVR Ruhr Grün
+- TOP 16.3: Änderung des § 1 der Geschäftsordnung
+- TOP 16.4: EKOCity Abfallwirtschaftsverband - Wechsel des stellvertretenden Mitglieds in der Verbandsversammlung des EKOCity Abfallwirtschaftsverbandes
+- TOP 16.5: Ermächtigungsübertragungen gem. § 22 KomHVO NRW
+- TOP 16.6: Bekanntgabe der in der Zeit vom 01.11.2024 - 31.12.2024 für das Haushaltsjahr 2024 genehmigten Haushaltsüberschreitungen
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 17.1: Antrag Die Grünen Nahverkehrsplanung im Ruhrgebiet neu aufstellen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
