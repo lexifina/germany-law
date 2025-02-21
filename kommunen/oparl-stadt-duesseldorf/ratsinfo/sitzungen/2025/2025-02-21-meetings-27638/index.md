@@ -1,0 +1,57 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-02-21T14:00:00+01:00
+- Ende: 2025-02-21T16:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27638
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27638
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00544503.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00544503.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00544503.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 24.01.2025 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Bericht über die Erfahrungen vom Weihnachtsmarkt 2024 und Ausblick 2025 - zur Kenntnis genommen
+- TOP 4.2: Mündlicher Bericht über Leerungsfrequenzen, Umgang mit der Wertstofftonne und Altkleidercontainer - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Umgang mit dem 39er-Denkmal auf dem Reeser Platz - Handlungsempfehlung der Kunstkommission - Empfehlung einstimmig beschlossen
+- TOP 4.6: Ausführungs- und Finanzierungsbeschluss Geländerertüchtigung Oberkasseler Brücke - Empfehlung einstimmig beschlossen
+- TOP 4.7: Freigabe Verkaufsoffener Sonntagnachmittage im Jahre 2025 in den Stadtteilen Benrath, Eller, Kaiserswerth, Oberkassel, Pempelfort - Empfehlung mehrheitlich beschlossen
+- TOP 4.8: Bereitstellung finanzieller Mittel für Stadtbezirkskarten - einstimmig beschlossen
+- TOP 4.9: Einrichtung von Radfahrstreifen auf der Duisburger Straße und Vagedesstraße zwischen Nordstraße und Prinz-Georg-Straße - Empfehlung mehrheitlich beschlossen
+- TOP 4.10: Evaluation des velosicheren Gleises auf der Nordstraße - zur Kenntnis genommen
+- TOP 4.11: Worringer Platz – Rückbau der Glasbausteinbänke und Umsetzung von Ersatz- und Beleuchtungsmaßnahmen - Empfehlung einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2025 - einstimmig beschlossen
+- TOP 4.13: Fischmärkte auf dem Tonhallenufer im Jahre 2025 - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Personal für Schultoiletten - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.3: Wohnbebauung auf vormals gewerblich genutzten Flächen - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Prüfung zur Einrichtung eines weiteren Anwohnerparkgebietes in Golzheim - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Prüfung der Wegebeziehung westliche Worringer Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Verbesserung des Anschlusses der Toulouser Allee bzw. des Berty-Albrecht-Parks an die Schirmerstraße für den Rad- und Fußverkehr - einstimmig beschlossen
+- TOP 7.4: Vorstellung der Pläne zur Errichtung eines Cafés im Hetjens Museum/Deutsches Keramikmuseum - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.5: Essbare Stadt / Anpflanzung von Obstbäumen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Versetzung der Litfaßsäule Kaiserswerther Straße/Felix Klein Straße; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/259/2024 - zur Kenntnis genommen
+- TOP 8.3: Barrierefreier Ausbau von Straßenbahn-Haltestellen; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/211/2024 - zur Kenntnis genommen
+- TOP 8.4: „Grüne Welle“ für Kölner Straße und in Verlängerung Pempelforter Straße; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/201/2024 - zur Kenntnis genommen
+- TOP 8.5: Konsequente Tempo 30-Beschilderung auf der Nordstraße; Beschluss der Bezirksvertretung 1 vom 24.01.2025; BV1/016/2025 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Iranisch-Jüdische Hochschulgruppe für Öffentlichkeitsarbeit - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Katholische Hauptschule St. Benedikt (Schüler*innenvertretung) für die SV-Fahrt 2025 - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an das evangelische Familienbildungswerk Düsseldorf e.V. zur Sicherung und Erweiterung von Veranstaltungen und Kursangeboten - abweichend beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an KG Tills Freunde Düsseldorf-Derendorf 1962 e.V. für die Seniorensitzung - einstimmig beschlossen
