@@ -1,0 +1,69 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-02-21T16:00:00+01:00
+- Ende: 2025-02-21T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7521
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7521
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 21.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00222565.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 21.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00222565.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 21.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00222565.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Einführung und Verpflichtung eines Ratsmitgliedes
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 6: Antrag des ZIN e.V. auf Erlass einer ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte in der Innenstadt für die Jahre 2025 - 2027 gemäß Ladenöffnungsgesetz NRW - mehrheitlich zugestimmt
+- TOP 7: Satzungsänderungen für die Feuerwehr der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 8: Ueckerather Straße, Bushaltestelle Ueckerather Str. (FR Rosellerheide / Neuenbaum): barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 9: Instandsetzung der Entwässerung an den Stahlbauteilen der Brücke über den Verschiebebahnhof - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 10: Nachhaltigkeitsstrategie der Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 11: Bebauungsplan Nr. 485/1 - Holzheim, Kreitzer Straße: Realisierung der Ringofenstraße - einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 12: Jakob-Koch-Straße, Bushaltestellenpaar Eissporthalle: barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 13: Anpassung der OGS-Budgets zum Schuljahr 2025/26 - einstimmig zugestimmt
+- TOP 14: Maßnahmen an Schulen im Rahmen des OGS-Rechtsanspruches - einstimmig zugestimmt
+- TOP 15: Zahlung eines Mensazuschusses ab dem Schuljahr 2024/2025 - mit Änderungen einstimmig zugestimmt
+- TOP 16: Raumbedarf Gesamtschule an der Erft - einstimmig zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 17: Instandsetzung der Entwässerung an den Spannbetonbauteilen der Brücke über den Verschiebebahnhof, hier: Aufhebung des Beschlusses vom 16.06.2023 - einstimmig zugestimmt
+- TOP 18: Daimlerstraße, Bushaltestellenpaar Furtherhofstraße: barrierefreier Umbau - mehrheitlich zugestimmt
+- TOP -: Bezirkausschuss VII - Uedesheim
+- TOP 19: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP -: Beschlussfassungen des Rates
+- TOP 20: Wiederwahl eines Beigeordneten - einstimmig zugestimmt
+- TOP 21: Jahresabschluss 2023 - einstimmig zugestimmt
+- TOP 22: Benennung von Delegierten für die Delegiertenversammlung der Deutschen Sektion des Rates der Gemeinden und Regionen Europas am 10./11. April 2025 in Jena - einstimmig zugestimmt
+- TOP 23: Wahl von Schiedspersonen und stellvertretenden Schiedspersonen - einstimmig zugestimmt
+- TOP 24: Delegationsreise nach Nevsehir (Türkei) vom 11.04. bis 14.04.2025 - einstimmig zugestimmt
+- TOP 25: Delegationsreise nach Weert (Niederlande) vom 22.04. bis 23.04.2025 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 26: Antrag der AfD-Fraktion betr.: Rückbau der Fahrstreifentrennung Augustinusstraße / Einmündung Nordkanalallee - beraten ohne Abstimmung
+- TOP 27: Antrag der CDU-Fraktion betr.: Berichterstattung PFOS im Rhein - verwiesen
+- TOP 28: Antrag der CDU-Fraktion betr.: Grimlinghausen neu denken - Kurzfristige, priorisierte Aufstellung von zwei Bebauungsplänen zur Modernisierung des Stadtteils Grimlinghausen - beraten ohne Abstimmung
+- TOP 29: Antrag der Fraktion UWG/Freie Wähler betr.: Förderprogramm Gigabitförderung 2.0 - mit Änderungen einstimmig zugestimmt
+- TOP 29.1: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Grimlinghausen behutsam entwickeln: Pestalozzischule und Sportplatz am Standort sanieren - mehrheitlich zugestimmt
+- TOP 29.2: Antrag der Fraktion Die PARTEI / Linke betr.: Töten ist keine Arbeit - Militärwerbung in öffentlichen Einrichtungen verhindern - zurückgezogen
+- TOP 29.3: Antrag der Fraktion DIE LINKE / Tierschutz betr.: Keine Umlage der Grundsteuer-Erhöhung auf Mieter des Bauvereins - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 29.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 30: aktueller Sachstand zum Klimabeirat - zur Kenntnis genommen
+- TOP 31: Mitteilung über das Förderprogramm "Gigabitförderung 2.0" - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
