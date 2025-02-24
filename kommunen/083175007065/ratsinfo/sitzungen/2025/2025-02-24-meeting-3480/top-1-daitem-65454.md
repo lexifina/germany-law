@@ -1,0 +1,10 @@
+# TOP 1.: Neubau Klinikum Lahr - Verkehrliche Erschließung
+
+- Sitzung: Gemeinderat (2. Sitzung) (2025-02-24)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/65454
+- Ergebnis: 21	Ja-Stimme(n)
+4	Nein-Stimme(n)
+0	Enthaltung(en)
+- Beratung: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/10145
