@@ -1,0 +1,27 @@
+# Neubau Klinikum Lahr - Verkehrliche Erschließung
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 220/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-02-24
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQ_rYYbjXrXUwaHfXRKsis0
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/4958
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Neubau Klinikum Lahr
+- Verkehrliche Erschließung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY81drY2a-FaQR2xh-Pw-OZF8QvPGslCPoY4QjN5CPGW/Beschlussvorlage_220-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 0) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-8a_bg2l0Oy6pzgR-_F6ObfhcY8Z8271PUu6TKOaaq/Anlage_0.pdf
+- Anlage: Beschlussvorlage (Anlage 1.1: Erste Stellungnahme Fichtner Water & Transportation) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfmkkRq9jrHOohv8lqNzenIjr0RXBRKpurNROa09Dirr/Anlage_1.1-_Erste_Stellungnahme_Fichtner_Water_-_Transportation.pdf
+- Anlage: Beschlussvorlage (Anlage 1.2: Zweite Stellungnahme Fichtner Water & Transportation) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-cc_L0tbReFFrfuFPnBBq-UpdBsx81u3qPih05OCV4/Anlage_1.2-_Zweite_Stellungnahme_Fichtner_Water_-_Transportation.pdf
+- Anlage: Beschlussvorlage (Anlage 1.3: Dritte Stellungnahme Fichtner Water & Transportation) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSmR9E3teBTxyPAnj8ozg5_gtXRFrLsq-7T95f-aF11A/Anlage_1.3-_Dritte_Stellungnahme_Fichtner_Water_-_Transportation.pdf
+- Anlage: Beschlussvorlage (Anlage 1.4: Vierte Stellungnahme Fichtner Water & Transportation) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeepbEWKuo62SU-DCvD8O2M0wvF6O1Cl3HnJj9dgF3Ar/Anlage_1.4-_Vierte_Stellungnahme_Fichtner_Water_-_Transportation.pdf
+- Anlage: Beschlussvorlage (Anlage 2.1: Lageplan Variante 1 RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbN6-aZ1xT3zJtq7S-EF4e-oyXKNm95TP0DqJjM683xo/Anlage_2.1-_Lageplan_Variante_1_RS_Ingenieure.pdf
+- Anlage: Beschlussvorlage (Anlage 2.2: Lageplan Variante 2 RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRcUNF0kq-5U-8vc-tQlSeN3baQDWzT6thCydWC6cgqe/Anlage_2.2-_Lageplan_Variante_2_RS_Ingenieure.pdf
+- Anlage: Beschlussvorlage (Anlage 2.3: Lageplan Variante 3 RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWb6LzmMs4gwrZNeW7CQndnLeOD8gXAml5AVLRZzT84D/Anlage_2.3-_Lageplan_Variante_3_RS_Ingenieure.pdf
+- Anlage: Beschlussvorlage (Anlage 2.4: Lageplan Variante 4 RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSUJvw-7IV4kqgqb96xey8sQ0m-tC6oy-xaHijEcPlo_/Anlage_2.4-_Lageplan_Variante_4_RS_Ingenieure.pdf
+- Anlage: Beschlussvorlage (Anlage 3.1: Fünfte Stellungnahme Fichtner Water & Transportation) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSTXz2wsp7v64ONmt3HJoLKTBhXNOnBXwYKDnOoL2CZg/Anlage_3.1-_Fuenfte_Stellungnahme_Fichtner_Water_-_Transportation.pdf
+- Anlage: Beschlussvorlage (Anlage 3.2: Lageplan Variante 5 RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWVER8FDqZTMGaLpb0FkkgDpmedeHdty-EfsKk4d-kNG/Anlage_3.2-_Lageplan_Variante_5_RS_Ingenieure.pdf
+- Anlage: Beschlussvorlage (Anlage 3.3: Machbarkeitsstudie Erschließung IG West RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaFclMsnxDGt64oApkH_ZTOlP7pzFy2p2Ptvv7YLF8Hb/Anlage_3.3-_Machbarkeitsstudie_Erschliessung_IG_West_RS_Ingenieure.pdf
+- Anlage: Beschlussvorlage (Anlage 4.4: Lageplan Variante 6 RS Ingenieure) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRTZder6YcO0K0w_0R31tXYU3JbY9IAFDaREWH6z6Bry/Anlage_4.4-_Lageplan_Variante_6_RS_Ingenieure.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3543 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-33
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3480 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-70
