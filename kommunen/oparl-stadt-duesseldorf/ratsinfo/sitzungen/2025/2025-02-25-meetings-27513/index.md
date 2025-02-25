@@ -1,0 +1,61 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-02-25T17:00:00+01:00
+- Ende: 2025-02-25T19:20:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27513
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27513
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00545311.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00545311.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00545311.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 2.1: Genehmigung der Niederschrift vom 28.01.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Sportring Düsseldorf-Süd Garath e.V.- Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Stand der Planung zum Um- und Ausbau der Bezirkssportanlage Koblenzer Straße - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Veränderungen des Grundsteueraufkommens im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.2: Anmeldungen in den Kindertageseinrichtungen/ Ganztagesplätze im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Verunreinigungen der Parkplätze gegenüber der Frankfurter Str. 231 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Sachstandbericht zum Angebot an stationären Pflegeplätzen, Tagespflegeplätzen, Kurzzeitpflegeplätzen und ambulanten Pflegeplätzen im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Einladung LEG - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Quartiersentwicklung Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Neugestaltung des Quartiersplatz Hellerhof an der Ingeborg-Bachmann-Straße - Antrag der Fraktion (BÜ90/DIE GRÜNEN) - - einstimmig beschlossen
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Energetische Ertüchtigung Vereinsheim Hellerhofer Sportverein - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Stellungnahme zum Beschluss des Kinderparlamentes Garath vom 06.11.2024 - Erneuerung des Spielplatzes an der Emil-Barth-Straße – Prüfantrag - Informationsvorlage zur Beschlussvorlage BV10/170/2024 vom 03.12.2024 - - zur Kenntnis genommen
+- TOP 8.2: Stellungnahme zur Nachfrage der Bezirksvertretung 10 zum Thema: „Urbane Miniwälder“, Informationsvorlage AÖE/053/2024 - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.3: „Sicherheit auf dem Seilspielplatz“, Informationsvorlage zum Beschluss BV10/173/2024, vom 03.12.2024 - zur Kenntnis genommen
+- TOP 8.4: Einrichtung eines vorläufigen Wetterschutzes für die Bushaltestelle des SB 57 am Hellerhofer S-Bahnhof - Informationsvorlage zum Beschluss BV10/008/2025 vom 28.01.2025 - - zur Kenntnis genommen
+- TOP 8.5: Längsparkplätze Rene-Schickele-Straße - Informationsvorlage zum Beschluss BV10/015/2025 vom 28.01.2025 - - zur Kenntnis genommen
+- TOP 8.6: Instandsetzung des Kreuzungsbereiches Emil-Barth-Straße/Koblenzer Straße - Informationsvorlage zum Beschluss BV10/011/2025 vom 28.01.2025 - - zur Kenntnis genommen
+- TOP 8.7: Mülltrennung un städtischen Unterkünften - Informationsvorlage zum Beschluss BV10/157/2024 vom 05.11.2024 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 9.1: Anfrage des Kinderparlamentes Garath vom 06.11.2024, Kostenloser Zugriff auf die digitalen Schulbücher den Schülerinnen und Schülern zur Verfügung stellen - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 10: Verschiedenes
