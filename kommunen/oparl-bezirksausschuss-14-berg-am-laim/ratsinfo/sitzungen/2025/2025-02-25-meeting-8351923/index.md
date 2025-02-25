@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-02-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8351923
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8351923
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 28.01.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 28.01.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Mühldorfstr. 15 - Neubau eines Büro, Labor , Schulungs und Gewerbegebäudes mit Betriebskantine und Rechenzentrum (Ampfingstr. 31-33 / Mühldorfstr. 15 / Trausnitzstr. 6) 2. Tektur zu 1.1-2010-21826-32
+- TOP 3.1.2.: Rosenheimer Str. 139 - ÄNDERUNGSANTRAG zu 1.1-2024-14160-32 - Neubau eines Büro- und Geschäftsgebäudes mit Tiefgarage als Ersatzbau für ein Verwaltungsgebäudes
+- TOP 3.1.3.: Verunreinigung wegen Feuerwerk und Müll - vertagt aus der Plenumssitzung vom 28.01.2025 -
+- TOP 3.1.4.: Ausreichende Beleuchtung im Behrpark sicherstellen; Antrag der CSU-Fraktion
+- TOP 3.1.5.: Austausch aller Abfallbehälter zu krähensicheren Pendants
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Novellierung der Straßenverkehrsordnung: Priorisierung von potenziellen Tempo 30 Anordnungen
+- TOP 3.2.2.: Baumkirchen Mitte: Reduzierung des „Mobilitätspunktes“ und Rückumwandlung in Kfz-Stellplätze; Antrag der CSU-Fraktion
+- TOP 3.2.3.: Evaluation der Nutzung der in Berg am Laim eingerichteten „Mobilitätspunkte“, Carsharing-Flächen und „Geteilten Abstellflächen für Mikromobilität“ sowie der zu „Fahrradparken“ und „Lastenradparken“ umgewandelten Stellplätze; Antrag der CSU-Fraktion
+- TOP 3.2.4.: Ampelanlage Aschheimer Str./Ludwig-Jung-Str.: Überquerung für Fußgänger und Radfahrer in Betrieb nehmen; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.5.: Barrierefreier Haltestellenausbau Kreillerstraße: sicher, begrünt und mit unauffälligem Schutzgeländer; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.6.: Gehwegparken an der Großvendigerstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.7.: Verkehrssituation an der Josephsburgstr. Kreuzung Else-Rosenfeld-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.8.: Pilotprojekt der Stadt München zu Schulstraßen; Anliegen aus der Bürgerschaft
+- TOP 3.2.9.: Erhebung über die negativen Auswirkungen auf die Bevölkerung im Stadtteil bei Schließung von Postfilialen
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Wildtierwaisen-Schutz e. V. Wildtiere Berg am Laim 2025 unterstützen vom 15.03. - 31.12.2025 1.500,00 €; Az. 0262.0-14-0437
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Str. München e. V. Zirkus Projekt Woche vom 19.05. - 23.05.2025 9.467,50 €; Az. 0262.0-14-0438
+- TOP 3.5.3.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 Theateraufführung an der Grundschule Grafinger Straße im Dezember 2024 Az. 0262.0-14-0433; 240,00 €
+- TOP 3.5.4.: (E) Stadtbezirksbudget Init. Kinderyoga Kinderyoga vom 28.04. - 02.06.2025 380,00 €; Az. 0262.0-14-0441
+- TOP 3.5.5.: (E) Stadtbezirksbudget Förderverein der Grundschule Grafinger Str. 71 Kinderkonzert "Wohin mit der Wut?" am 18.03.2025 3.598,00 €, Az. 0262.0-14-0440
+- TOP 3.5.6.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde München-Sophie Scholl Interkultureller Kindertag am 22.03.2025 724,68 €; Az. 0262.0-14-0442
+- TOP 3.5.7.: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget, Frist bis zum 20.03.2025; Anhörung des Mobilitätsreferats
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kraiburger Str. 43
+- TOP 3.6.2.: Pachemstr. 2
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Januar 2025
+- TOP 4.1.2.: Hochbunker Sonnwendjochstraße: Telekom-Mobilfunksender trotz Denkmalschutz
+- TOP 4.1.3.: Öffentliche Toilette am neuen „Campus-Spielplatz“ im Echardinger Anger
+- TOP 4.1.4.: Kreillerstraße 129: Umsetzung des genehmigten Wohnbauvorhabens anstelle eines Flexi-Heims
+- TOP 4.1.5.: Rückmeldung bezüglich der Beleuchtung an der Ostseite der Schlüsselbergstr.
+- TOP 4.1.6.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 4.1.7.: Die LHM soll in Berg am Laim Rückzugsorte für Igel für den Winterschlaf bauen
+- TOP 4.1.8.: Abfallwirtschaftsbetrieb München (AWM); Wertstoffcontainer aus öffentlichen Anlagen zurück an Verkaufsstellen verlegen
+- TOP 4.1.9.: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Halbjährliche kostenlose Sperrmüllabfuhr
+- TOP 4.1.10.: Rückmeldung bezüglich der Beleuchtung des Fitnessparks am Michaelianger
+- TOP 4.1.11.: Bürgerbegehren "Grünflächen erhalten" Bekanntgabe der Evaluierung der Auswirkungen der durch den Stadtrat übernommenen Forderung des Bürgerbegehrens
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Information über einen Pächterwechsel
+- TOP 4.2.2.: Änderungen bei der Umsetzung des Schutzstreifens in der Sankt-Veit-Straße
+- TOP 4.2.3.: Einrichtung von Ladezonen in der Neumarkter Str. 21-23
+- TOP 4.2.4.: Arbeiten im Straßenraum: a) Tunnelkette Mittlerer Ring Ost vom 10.03.2025 bis 14.03.2025 in Nachtarbeit b) Haager Str. 11 vom 24.02.2025-23.02.2026
+- TOP 4.2.5.: Prüfung des automatischen Öffnens aller Türen in der U-Bahn und Tram
+- TOP 4.2.6.: Anstehende Maßnahme gegen Aufsetzparker ab 03.02.2025
+- TOP 4.2.7.: Informationsschreiben bezüglich der Genehmigung von Foodtrucks auf dezentralen Plätzen außerhalb des Altstadtrings
+- TOP 4.2.8.: Suchkreismitteilung zu Mobilfunkanlage: Waldstraße-Hochbunker
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Rückmeldung zur Errichtung einer „Schaukelanlage“ im Michaelianger
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Stadtbezirksbudget: Aktualisierung der Richtlinien und des Antragformulars
+- TOP 4.5.3.: BA 14 Termine 2026
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Baumfällungen an der August-Everding-Straße
+- TOP 4.6.2.: Baumentfernung und Gehölzmaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
