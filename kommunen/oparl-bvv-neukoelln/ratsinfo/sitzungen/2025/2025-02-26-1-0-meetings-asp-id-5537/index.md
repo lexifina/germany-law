@@ -1,0 +1,109 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-02-26T17:00:00+01:00
+- Ende: 2025-02-26T22:25:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5537
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5537
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Bebauung Sangerhauser Weg - beantwortet
+- TOP 1.2: Wohncontainer Sangerhauser Weg I - beantwortet
+- TOP 1.3: Wohncontainer Sangerhauser Weg II - schriftlich beantwortet
+- TOP 1.4: Zunehmende Vermüllung der Uthmannstrasse - beantwortet
+- TOP 1.5: Bebauung des Sangerhauser Wegs mit Unterkünften für Geflüchtete - schriftlich beantwortet
+- TOP 1.6: Baugenehmigung für das Flüchtlingsheim im Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.7: Trainingsmöglichkeiten für Spitzensport aus Neukölln - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde "Grenzüberschreitung im Wahlkampf!" - erledigt
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: UFO in aktueller Form beibehalten - überwiesen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Queere Räume schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Demokratie leben in Neukölln: Für eine demokratische Diskussionskultur im Wahlkampf - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Abschluss der Zielvereinbarung zur gesamtstädtischen Steuerung „Stabilisierung des Bestandes an Straßenbäumen in bezirklicher Verwaltung“ (Fortschreibung 2024/2025) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bezirkliche Kitaentwicklungsplanung (Jahresplanung 2024) - überwiesen
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Nachwahl eines stellvertretenden Mitgliedes des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Wo spart der Geschäftsbereich Jugend 300.000€ ein? - beantwortet
+- TOP 10.2: Behebung der Mängel in der Weißen Siedlung - beantwortet
+- TOP 10.3: Aus für das Puppentheatermuseum Neukölln - was macht das Bezirksamt? - beantwortet
+- TOP 10.4: Personalbedarf für Mietwucher-Verfahren - beantwortet
+- TOP 10.5: Entstandene Kosten durch Absage von Podiumsdiskussionen der „demokratischen“ Direktkandidaten zur Bundestagswahl an öffentlichen Einrichtungen im Bezirk Neukölln - beantwortet
+- TOP 10.6: Sport Center Buschkrug - beantwortet
+- TOP 10.7: U 18-Wahlen zum Deutschen Bundestag 2025 - schriftlich beantwortet
+- TOP 10.8: Umgestaltung Jahn-Denkmal - wie ist der Stand? - schriftlich beantwortet
+- TOP 10.9: Illegaler Leerstand im Hochhaus Ruth: Wie lange lässt sich das Bezirksamt noch hinhalten? - schriftlich beantwortet
+- TOP 10.10: Das Baugerüst der Schande in der Karl-Marx-Straße - schriftlich beantwortet
+- TOP 10.11: Wird es eine Neufassung des Leitfadens Obdachlosigkeit geben? - schriftlich beantwortet
+- TOP 10.12: Landesmittel zur Bekämpfung von Kinder- und Familienarmut - schriftlich beantwortet
+- TOP 10.13: Bezirksamt im Verzug – Wann kommt die Antwort? - schriftlich beantwortet
+- TOP 10.14: Nimmt der Bezirk die erhöhte Förderung für Gründächer in Anspruch? - schriftlich beantwortet
+- TOP 10.15: Weitere Haushalts-Kürzungen bei den Bibliotheken - schriftlich beantwortet
+- TOP 10.16: Warum wird die neu gebaute Sporthalle am Leonardo-da-Vinci-Gymnasium Jahr um Jahr nicht zur Nutzung übergeben und es wird nicht offen und transparent gegenüber der Schulleitung kommuniziert? - schriftlich beantwortet
+- TOP 10.17: Wann bekommt die Leonardo da Vinci-Schule Planungssicherheit bezüglich ihrer Sporthalle? - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Information zu Hitzeschutz und Hitzevorsorge in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Prävention von Wohnungsverlust durch Kooperation mit Wohnungsbaugesellschaften - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Webseite zur Flüchtlingsunterkunft Sangerhauser Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Schlichtungsstelle Jobcenter Neukölln einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Zentrum nördliche Sonnenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Straßenbahn zum Hermannplatz weiterverfolgen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Querung für Fußgänger*innen am Hermannplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Unabhängiges Schlichtungsverfahren für das Jobcenter Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Am Gender-Budgeting-Wettbewerb teilnehmen - Bolzplatz für Mädchenfußball mit Lichtflutern ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Philip Morris Gelände im Sinne Neuköllns weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Leistungsverträge im Jugendbereich: ausreichend finanzieren & besser kommunizieren - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Transparenz bei Kiezblocks - in der BVV abgelehnt
+- TOP 13.3: Autoplatz oder Wohnungsbau? - beantwortet
+- TOP 13.4: Welche Folgen hat das Auslaufen der Mietpreisbremse und des Umwandlungsverbotes für Neukölln? - beantwortet
+- TOP 13.5: Was sind die Gründe für das Sporthallen-Desaster? - vertagt
+- TOP 13.6: Eröffnung von kommerziellen Cannabis-Verkaufsstellen, sogenannten Coffeeshops im Bezirk Neukölln - vertagt
+- TOP 13.7: Klimafolgenanpassung - Was macht das Bezirksamt Neukölln? - schriftlich beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Energieeinsparung und Klimaschutz im Bezirksamt Neukölln für 2025/2026 - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Endlich Böllerverbot umsetzen: Silvester 2025 friedlich feiern! - vertagt
+- TOP 14.3: Neukölln für Frieden! Flagge Hissen für eine Welt ohne Atomwaffen am 8. Juli öffentlichkeitswirksam und mit Beteiligung der Zivilgesellschaft - vertagt
+- TOP 14.4: Reform der Kosten-Leistungs-Rechnung für den Schulbereich - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Festival 48 Stunden Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Die ehemalige Brandenburgische Landesfrauenklinik – Gedenken schaffen an einen nicht erinnerten Ort von Verbrechen im Nationalsozialismus - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Kubus Jobcoaching auch in 2025 - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Halteverbot vor Bushaltestelle Lieselotte-Berger-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Durchfahrtssperren Richardplatz aufheben - in der BVV abgelehnt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Kinderarmutsprävention - Was folgte aus der Kinderarmutskonferenz im Oktober 2024? - vertagt
+- TOP 15.2: Wie kann die Schulwegbeförderung im Bezirk sichergestellt werden? - vertagt
+- TOP 15.3: Anwohnerproteste ignoriert? – Bezirksamt muss zur geplanten Flüchtlingsunterkunft am Sangerhauser Weg Stellung beziehen! - vertagt
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Park & Ride wieder möglich machen I - überwiesen
+- TOP 17.2: Ampelschaltung Rufacher Weg während der Bauarbeiten in Buckow - überwiesen
+- TOP 17.3: Puppentheatermuseum Neukölln erhalten! - überwiesen
+- TOP 17.4: Unhaltbarer Zustand an der Bushaltestelle 171 S/U Neukölln: Immobilienbesitzer in die Pflicht nehmen - überwiesen
+- TOP 17.5: Park & Ride wieder möglich machen II - überwiesen
+- TOP 17.6: Bezirkliche Räume für unsere Demokratie - überwiesen
+- TOP 17.7: Atelierhaus Hobrecht 31 erhalten und langfristig sichern! - überwiesen
+- TOP 17.8: SiKo Neukölln: Alle Infrastrukturbedarfe berücksichtigen - überwiesen
+- TOP 17.9: Bürgeramt- digital, flexibel und bürgerfreundlich - überwiesen
+- TOP 17.10: Gute Luft – gutes Lernen - überwiesen
+- TOP 17.11: Verschattungsmöglichkeiten und Trinkwasserbrunnen auf Neuköllner Spielplätze - überwiesen
+- TOP 17.12: Spielfeldmarkierungen im Eisstadion sichtbar machen! - überwiesen
+- TOP 17.13: Großen Abfallbehälter installieren - überwiesen
+- TOP 17.14: Verkehrssicherheit auf dem südlichen Buckower Damm - überwiesen
+- TOP 17.15: Schwerpunktkontrollen der Verkehrsüberwachung einführen, Falschparken verringern - überwiesen
+- TOP 17.16: Vorschlag zum Besetzungsverfahren Runde Tische - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17.17: Zu schmale Gehwege in der Jahnstraße - überwiesen
+- TOP 17.18: Sicherheit und Bewegungsraum vor Spielplatz und Familienzentrum Silbersteinstraße - überwiesen
