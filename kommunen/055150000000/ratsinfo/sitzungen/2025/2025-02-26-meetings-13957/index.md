@@ -1,0 +1,76 @@
+# 28. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-02-26T16:17:00+01:00
+- Ende: 2025-02-26T19:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13957
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13957
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00564514.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Maßnahmen zur Reduzierung der CO2-Emissionen
+- TOP 1.2: Nutzung des "LVM-Grundstücks" am Stadthafen
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 10.1: Barrierefreier Ausbau der Haltestelle "Wolbeck Ehrenmal", Fahrtrichtung (nächste Haltestelle) Grenkuhlenweg - verwiesen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Planungsprozesse straffen und priorisieren - mehrheitlich abgelehnt
+- TOP 11.2: Verpackungssteuer für ein sauberes Münster - verwiesen
+- TOP 11.3: Gewalt gegen Frauen* in Münster sichtbar machen - Rote Bank als Mahnmal - mehrheitlich geändert beschlossen
+- TOP 11.4: Willkommenskultur für den Einzelhandelsstandort stärken, auf Parkgebührenerhöhung verzichten - mehrheitlich abgelehnt
+- TOP 12: Abschlussbericht zum 4. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern - zur Kenntnis genommen
+- TOP 13: Kommunale Seniorenvertretung Münster – Verlängerung der Amtszeit und Wahl in 2026 - einstimmig beschlossen
+- TOP 14: Ergänzende Maßnahmen zur Verkehrsregelung im Bereich der Rieselfelder - mehrheitlich geändert beschlossen
+- TOP 15: Wirtschaftsplan 2025 der citeq - einstimmig beschlossen
+- TOP 16: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - von der Tagesordnung abgesetzt
+- TOP 16.1: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung
+- TOP 17: Novellierung der Vergnügungssteuersatzung - einstimmig beschlossen
+- TOP 18: Westfälische Verkehrsgesellschaft mbH (WVG), Verkehrsbetrieb Kipp GmbH (VBK) sowie Westfälische Landes-Eisenbahn GmbH (WLE): Änderung von Gesellschaftsverträgen - einstimmig beschlossen
+- TOP 19: Neuausrichtung des Wirtschaftspreises der Stadt Münster Antrag der Fraktion Bündnis 90/Die Grünen/GAL, der SPD-Fraktion und der Ratsgruppe Volt an den Rat Nr. A-R/0052/2023 - von der Tagesordnung abgesetzt
+- TOP 20: Migrationsleitbild 2025-2030 - mehrheitlich beschlossen
+- TOP 21: Innenstadt stärken: Umgestaltung von Domplatz und -quartier - Ergebnisse des partizipativen Planungsprozesses - einstimmig geändert beschlossen
+- TOP 22: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster - mehrheitlich beschlossen
+- TOP 22.1: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster
+- TOP 22.1.1: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster
+- TOP 23: ÖRV Machbarkeitsstudie F35+ - einstimmig beschlossen
+- TOP 24: Wirtschaftliche Verwertung der Namensrechte am städtischen Stadion an der Hammer Straße - einstimmig beschlossen
+- TOP 25: Errichtung des Bildungsgangs "Staatlich geprüfte Sozialassistentin/Staatlich geprüfter Sozialassistent, Schwerpunkt Erziehung, Bildung und Betreuung für Grundschulkinder" am Anne-Frank-Berufskolleg - einstimmig beschlossen
+- TOP 26: Grundsatzentscheidung zum Abstimmungsverfahren über die Bestimmung der Schulart von Grundschulen - einstimmig beschlossen
+- TOP 27: Umbau der ehemaligen Dyckburgschule, Im Sundern 61, für die zukünftige Nutzung der Kindertageseinrichtung Mariä Himmelfahrt im Wohnbereich Gelmer-Dyckburg im Bezirk Ost - einstimmig beschlossen
+- TOP 28: Überleitung der außerunterrichtlichen Angebote (OGS) an der Erich Kästner-Schule - einstimmig beschlossen
+- TOP 29: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Barbara-Renz-Weg im Wohnbereich Albachten-Ost im Bezirk West - mehrheitlich beschlossen
+- TOP 30: Verlagerung der Kita Hand in Hand (derzeit Else-Scheuer-Weg 7) in die Räumlichkeiten der fertiggestellten Kita am Standort Sonja-Kutner-Weg - einstimmig beschlossen
+- TOP 31: Verbesserung der Situation rund um den Hauptbahnhof - mehrheitlich geändert beschlossen
+- TOP 32: Teilnahme der Stadt Münster am Förderprojekt Kommunales Zirkuläres Ökosystem im Bauwesen - mehrheitlich beschlossen
+- TOP 33: Neubau einer städtischen EAE - Baubeschluss - mehrheitlich beschlossen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Münster-Nord
+- TOP 34.1.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 134 II (Neufassung) - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.2: Stadtbezirk Münster-Südost
+- TOP 34.2.1: Bebauungsplan Nr. 517 - 2. Änderung - Beschluss zur Änderung [Topraks] - einstimmig beschlossen
+- TOP 34.3: Stadtbezirk Münster-Ost
+- TOP 34.3.1: 91. FNP-Änderung - Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 34.3.2: Bebauungsplan Nr. 619 - Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 35: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 35.1: Ein modernes Baustellenmanagement für weniger Staus - verwiesen
+- TOP 35.2: Mehr aus dem Sportbudget herausholen, Kunstrasenplätze in Regie der Sportvereine entwickeln - verwiesen
+- TOP 35.3: Parkleitsystem anstatt Parkleidsystem - verwiesen
+- TOP 35.4: Planungsprozesse entrümpeln - verwiesen
+- TOP 36: Besetzung einer frei werdenden Position im Beirat für Stadtgestaltung - einstimmig beschlossen
+- TOP 37: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien 2. Neubenennungen für die Fachausschüsse und den Arbeitskreis der Dt. Sektion des RGRE - einstimmig beschlossen
+- TOP 37.1: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien 2. Neubenennungen für die Fachausschüsse und den Arbeitskreis der Dt. Sektion des RGRE
+- TOP 38: Verschiedenes
