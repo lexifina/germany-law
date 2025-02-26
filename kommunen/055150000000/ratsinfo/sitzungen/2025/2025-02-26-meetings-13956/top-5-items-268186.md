@@ -1,0 +1,8 @@
+# TOP 5: Abschlussbericht zum 4. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern
+
+- Sitzung: 30. Sitzung (2025-02-26)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/268186
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/87793
