@@ -1,0 +1,86 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-02-26T14:00:00+01:00
+- Ende: 2025-02-26T19:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27826
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27826
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 26.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00545633.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 26.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00545633.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 26.02.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00545633.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 21.11.2024 (SI-RAT/006/2024) - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Nach über 100 Jahren aus für Löwensenf in Düsseldorf - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Videowürfel im PSD BANK DOME am DEG-Platz 1 - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: Weggang der Firma Löwensenf - beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: Planungen Bertha-von-Suttner-Platz - beantwortet
+- TOP 3.5: Anfrage aus aktuellem Anlass der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Kein Platz für Löwensenf-Produktion in Düsseldorf? - schriftlich beantwortet
+- TOP 3.6: Anfrage aus aktuellem Anlass der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Verlagerung des Dezentralen Suchthilfezentrums Flurstraße 45 - schriftlich beantwortet
+- TOP 3.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Bundestagswahl am 23.02.2025, Durchführung und Ergebnisse - schriftlich beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Tierversuche in Düsseldorf - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Stand der Planungen bzw. dem Start der RRX-Bauarbeiten in Düsseldorf - beantwortet
+- TOP 4.3: Anfrage der FDP-Ratsfraktion: Zukunft der Königsallee - beantwortet
+- TOP 4.4: Anfrage der FDP-Ratsfraktion: Beherbergungssteuer - beantwortet
+- TOP 4.5: Anfrage der SPD-Ratsfraktion: Bestand und Potenzial von Werkswohnungen - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion DIE LINKE: Kurzstreckenflüge vom und zum Flughafen Düsseldorf - beantwortet
+- TOP 4.7: Anfrage der SPD-Ratsfraktion: Wie geht es weiter mit dem tanzhaus NRW? - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Umsetzung der Grundsteuerreform in Düsseldorf - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Hochwasserschutz und Naturschutz – warum wurden die Varianten zur Deichrückverlegung im Himmelgeister Rheinbogen verworfen? - schriftlich beantwortet
+- TOP 4.10: Anfrage der AfD-Ratsfraktion: Wie effizient schiebt Düsseldorf ab? - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Lemmer: Baumfällungen in Düsseldorf - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Lemmer: Fahrrad-Abstellmöglichkeiten an den über 200 Düsseldorfer Schulen - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfrau Krüger: Wasservögel im Hofgarten im Zeitraum 01.01.2023 und 31.12.2024 - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Krüger: finanzielle Unterstützung für Tierhalter - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Schwenk: Wohnen statt Brache - Bewegung bei den strategischen Flächen? - schriftlich beantwortet
+- TOP 4.16: Anfrage der Ratsfrau Kraljic: Feierabend-Parken in Düsseldorf - schriftlich beantwortet
+- TOP 4.17: Anfrage der Ratsfrau Kraljic: Versorgung und Ausstattung in Flüchtlingsunterkünften - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau Opelt: Gesundheitliche Auswirkungen durch den massiven Ausbau von 5G-Standorten in Düsseldorf - schriftlich beantwortet
+- TOP 4.19: Anfrage der Ratsfrau Dr. Proschmann: Aktuelle Zahlen zur Schwimmfähigkeit von Kindern und diesbezüglichen Förderangeboten der Landeshauptstadt Düsseldorf - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 6: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 7: Erlass einer neuen Prüfungssatzung für den Verwaltungslehrgang I - einstimmig beschlossen
+- TOP 8: Plan Nr. 03/049 - Soziale Erhaltungssatzung Bilk-Mitte - mehrheitlich beschlossen
+- TOP 8.1: Änderungsantrag der Ratsfraktionen DIE LINKE und Die PARTEI-Klima-Fraktion zur Vorlage APS/010/2025 - mehrheitlich abgelehnt
+- TOP 8.2: Ergänzungsantrag der CDU-Ratsfraktion zur Vorlage APS/010/2025 - zurückgezogen
+- TOP 9: Beteiligung zum Instrument Soziale Erhaltungssatzung - zur Kenntnis genommen
+- TOP 10: Zukunftspreis der Landeshauptstadt Düsseldorf (Arbeitstitel) - mehrheitlich beschlossen
+- TOP 11: Entwurf - Kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus - mehrheitlich beschlossen
+- TOP 11.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage GLA/004/2025/1 - mehrheitlich abgelehnt
+- TOP 11.2: mündlicher Ergänzungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 11.3: mündlicher Änderungsantrag der AfD-Ratsfraktion - mehrheitlich abgelehnt
+- TOP 12: D.LIVE GmbH & Co. KG - Zuschüsse zur Finanzierung von Investitionen und Betriebskosten in Bezug auf die verschiedenen Veranstaltungsstätten - mehrheitlich beschlossen
+- TOP 13: Neufassung der Taxentarifordnung - mehrheitlich beschlossen
+- TOP 14: Aufhebung des Betrauungsaktes einer städtischen Beteiligungsgesellschaft - einstimmig beschlossen
+- TOP 15: Umgang mit dem 39er-Denkmal auf dem Reeser Platz - Handlungsempfehlung der Kunstkommission - mehrheitlich beschlossen
+- TOP 15.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage KUA/022/2025 - mehrheitlich abgelehnt
+- TOP 16: Jahnstraße 3, Sanierung und Umbau der Räumlichkeiten für die Freie Tanz- und Theaterszene - mehrheitlich beschlossen
+- TOP 17: Berufung in die Ankaufskommission der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 18: Freigabe Verkaufsoffener Sonntagnachmittage im Jahre 2025 in den Stadtteilen Benrath, Eller, Kaiserswerth, Oberkassel, Pempelfort - mehrheitlich beschlossen
+- TOP 19: Ausführungs- und Finanzierungsbeschluss Geländerertüchtigung Oberkasseler Brücke - einstimmig beschlossen
+- TOP 20: RadLeitRoute 2, West-Ost, von Hansaallee/Böhlerstraße bis Neusser Tor, Gerresheim – Teil 2: Cantadorstraße bis Dieselstraße / Hellweg - mehrheitlich beschlossen
+- TOP 20.1: Ergänzungsantrag der CDU-Ratsfraktion zur Vorlage OVA/130/2024/1 - mehrheitlich beschlossen
+- TOP 21: Bestellung einer Prüferin für das Amt für kommunale Prüfung - einstimmig beschlossen
+- TOP 22: Medienentwicklungsplanung der städtischen Schulen für die Jahre 2025 bis 2029 (MEP 2.0) - einstimmig beschlossen
+- TOP 23: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau von 2 Mensen mit Ausgabeküche für den Doppelstandort Fleher Straße 70 und Im Dahlacker 15, 40223 Düsseldorf" - einstimmig beschlossen
+- TOP 24: Vereinssportanlage Fährstraße/Völklinger Straße – Umbau Tennenspielfeld in Kunstrasen - mehrheitlich beschlossen
+- TOP 25: Einkünfte aus Nebentätigkeiten im Jahr 2024 für Herrn Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 26: Aufsichtsrat der AWISTA Kommunal GmbH - Wahl der städtischen Vertreter*innen
+- TOP 27: Düsseldorfer Gesundheitskonferenz – Bestellung eines ordentlichen Mitglieds - - einstimmig beschlossen
+- TOP 28: Umbesetzung von Ausschüssen und sonstigen Gremien - zurückgezogen
+- TOP 29: Anträge
+- TOP 29.1: Antrag der Ratsfraktion DIE LINKE: Umnutzung des ehemaligen Kaufhof-Gebäudes Am Wehrhahn – ein Bürgerhaus im Zentrum? - mehrheitlich abgelehnt
+- TOP 29.2: Antrag der SPD-Ratsfraktion: Mieter*innen schützen: Weitere Soziale Erhaltungssatzungen für Düsseldorf - mehrheitlich abgelehnt
+- TOP 29.2.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/057/2025 - mehrheitlich abgelehnt
+- TOP 29.3: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Verpackungssteuer prüfen
+- TOP 29.3.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/058/2025 - verwiesen
+- TOP 29.4: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Klimaschutz-App für die Klimahauptstadt
+- TOP 29.4.1: Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/059/2025 - mehrheitlich abgelehnt
