@@ -1,0 +1,55 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-02-26T16:05:00+01:00
+- Ende: 2025-02-26T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13956
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13956
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00564116.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weiterführung Filmservice Münster.Land - von der Tagesordnung abgesetzt
+- TOP 3: Evaluation der Zulassung von Solaranlagen in Gebieten mit einer städtebaulichen Erhaltungssatzung - zur Kenntnis genommen
+- TOP 4: Arbeitsmarkt- und Integrationsprogramm 2025 des Jobcenters der Stadt Münster - mehrheitlich beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Abschlussbericht zum 4. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern - zur Kenntnis genommen
+- TOP 6: Kommunale Seniorenvertretung Münster – Verlängerung der Amtszeit und Wahl in 2026 - einstimmig beschlossen
+- TOP 7: Ergänzende Maßnahmen zur Verkehrsregelung im Bereich der Rieselfelder - ohne Beschlussfassung geschoben
+- TOP 8: Wirtschaftsplan 2025 der citeq - einstimmig beschlossen
+- TOP 9: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - ohne Beschlussfassung geschoben
+- TOP 9.1: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung
+- TOP 10: Novellierung der Vergnügungssteuersatzung - einstimmig beschlossen
+- TOP 11: Westfälische Verkehrsgesellschaft mbH (WVG), Verkehrsbetrieb Kipp GmbH (VBK) sowie Westfälische Landes-Eisenbahn GmbH (WLE): Änderung von Gesellschaftsverträgen - einstimmig beschlossen
+- TOP 12: Neuausrichtung des Wirtschaftspreises der Stadt Münster Antrag der Fraktion Bündnis 90/Die Grünen/GAL, der SPD-Fraktion und der Ratsgruppe Volt an den Rat Nr. A-R/0052/2023 - von der Tagesordnung abgesetzt
+- TOP 13: Migrationsleitbild 2025-2030 - einstimmig beschlossen
+- TOP 14: Innenstadt stärken: Umgestaltung von Domplatz und -quartier - Ergebnisse des partizipativen Planungsprozesses - ohne Beschlussfassung geschoben
+- TOP 15: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster - ohne Beschlussfassung geschoben
+- TOP 15.1: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster
+- TOP 15.1.1: Standortentwicklungsstrategie 2030+ für den Wirtschaftsstandort Münster
+- TOP 16: ÖRV Machbarkeitsstudie F35+ - einstimmig beschlossen
+- TOP 17: Wirtschaftliche Verwertung der Namensrechte am städtischen Stadion an der Hammer Straße - ohne Beschlussfassung geschoben
+- TOP 18: Errichtung des Bildungsgangs "Staatlich geprüfte Sozialassistentin/Staatlich geprüfter Sozialassistent, Schwerpunkt Erziehung, Bildung und Betreuung für Grundschulkinder" am Anne-Frank-Berufskolleg - einstimmig beschlossen
+- TOP 19: Grundsatzentscheidung zum Abstimmungsverfahren über die Bestimmung der Schulart von Grundschulen - einstimmig beschlossen
+- TOP 20: Umbau der ehemaligen Dyckburgschule, Im Sundern 61, für die zukünftige Nutzung der Kindertageseinrichtung Mariä Himmelfahrt im Wohnbereich Gelmer-Dyckburg im Bezirk Ost - einstimmig beschlossen
+- TOP 21: Überleitung der außerunterrichtlichen Angebote (OGS) an der Erich Kästner-Schule - einstimmig beschlossen
+- TOP 22: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Barbara-Renz-Weg im Wohnbereich Albachten-Ost im Bezirk West - einstimmig beschlossen
+- TOP 23: Verlagerung der Kita Hand in Hand (derzeit Else-Scheuer-Weg 7) in die Räumlichkeiten der fertiggestellten Kita am Standort Sonja-Kutner-Weg - einstimmig beschlossen
+- TOP 24: Verbesserung der Situation rund um den Hauptbahnhof - ohne Beschlussfassung geschoben
+- TOP 25: Teilnahme der Stadt Münster am Förderprojekt Kommunales Zirkuläres Ökosystem im Bauwesen - ohne Beschlussfassung geschoben
+- TOP 26: Neubau einer städtischen EAE - Baubeschluss - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Nord
+- TOP 27.1.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 134 II (Neufassung) - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk Südost
+- TOP 27.2.1: Bebauungsplan Nr. 517 - 2. Änderung - Beschluss zur Änderung [Topraks] - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Ost
+- TOP 27.3.1: 91. FNP-Änderung - Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 27.3.2: Bebauungsplan Nr. 619 - Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 28: Verschiedenes
