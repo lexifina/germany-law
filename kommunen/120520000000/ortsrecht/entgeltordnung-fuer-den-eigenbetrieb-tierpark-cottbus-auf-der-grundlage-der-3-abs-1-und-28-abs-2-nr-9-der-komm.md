@@ -1,15 +1,17 @@
 # Entgeltordnung für den Eigenbetrieb Tierpark Cottbus Auf der Grundlage der §§ 3 Abs. 1 und 28 Abs. 2 Nr. 9 der Kommunalverfassung des Landes Brandenburg (BbgKVerf)
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
-- Datum: 2021-12-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/Amtsblatt_Entgeltordnung_Tierpark_2022-2.pdf
+- Datum: 2025-02-26 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://cottbus.de/satzungen/Entgeltordnung-Tierpark-2025-2.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Entgeltordnung für den Eigenbetrieb Tierpark Cottbus
-Auf der Grundlage der §§ 3 Abs. 1 und 28 Abs. 2 Nr. 9 der Kommunalverfassung des Landes Brandenburg (BbgKVerf) vom 18. Dezember 2007 (GVBl. I/07, [Nr. 19], S.286), zuletzt geändert durch Artikel 1 des Gesetzes vom 23. Juni 2021 (GVBl. I/21, [Nr. 21]), und § 9 der Betriebssatzung des Eigenbetriebes Tierpark Cottbus hat die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz in ihrer Tagung am 22.12.2021 folgende Entgeltordnung für den Tierpark Cottbus beschlossen:
+Auf der Grundlage der §§ 3 Abs. 1 und 28 Abs. 2 Nr. 9 der Kommunalverfassung des Landes
+Brandenburg (BbgKVerf) vom 5. März 2024 (GVBl.I/24, [Nr. 10], S., ber. [Nr. 38]) und § 9 der
+Betriebssatzung des Eigenbetriebes Tierpark Cottbus hat die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz in ihrer Tagung am 26.02.2025 folgende Entgeltordnung für den Tierpark Cottbus beschlossen:
 
 § 1 Entgelt
 Der Tierpark ist eine öffentliche Einrichtung der Stadt Cottbus/Chóśebuz. Für die Benutzung der Leistungen des Tierparks Cottbus werden Entgelte auf privatrechtlicher Basis nach dieser Entgeltordnung erhoben.
@@ -30,13 +32,13 @@ Der Tierpark ist eine öffentliche Einrichtung der Stadt Cottbus/Chóśebuz. Fü
 
 Einzelkarte Erwachsene
 
-9,00 €
+10,00 €
 
 2.
 
 Einzelkarte Ermäßigungsberechtigte
 
-7,20 €
+8,00 €
 
 Auszubildende, Studenten, Teilnehmer an einem freiwilligen sozialen oder
 
@@ -51,6 +53,8 @@ von Wohngeld jeweils nach Vorlage der entsprechenden Nachweise/Ausweise.
 Für anspruchsberechtigte schwerbehinderte Menschen (mit Merkzeichen „B“ im
 
 Schwerbehindertenausweis) erhält die Begleitperson freien Eintritt.
+
+Entgeltordnung für den Eigenbetrieb Tierpark Cottbus
 
 1
 
@@ -70,7 +74,7 @@ Kinder nach Vollendung des 3. Lebensjahres bis zum vollendeten
 
 hinaus bei Vorlage entsprechender Ausweise
 
-4,50 €
+5,00 €
 
 5.
 
@@ -78,7 +82,7 @@ Familienkarte I
 
 (1 Erwachsener und bis zu 3 Kinder)
 
-16,00 €
+18,00 €
 
 6.
 
@@ -86,7 +90,7 @@ Familienkarte II
 
 (2 Erwachsene und bis 4 Kinder)
 
-25,00 €
+28,00 €
 
 7.
 
@@ -96,13 +100,13 @@ gültig für Erwachsene als Teil einer Besuchergruppe von
 
 mindestens 15 Personen
 
-7,20 € pro Person
+8,00 € pro Person
 
 8.
 
 Gruppenkarte Ermäßigungsberechtigte
 
-5,80 € pro Person
+6,40 € pro Person
 
 gültig für Ermäßigungsberechtigte (Auszubildende, Studenten, Teilnehmer
 
@@ -130,7 +134,7 @@ im Schwerbehindertenausweis) erhält die Begleitperson freien Eintritt.
 
 Gruppenkarte Kind
 
-3,60 € pro Person
+4,00 € pro Person
 
 Kinder nach Vollendung des 3. Lebensjahres bis zum vollendeten
 
@@ -150,11 +154,11 @@ freien Eintritt
 
 10. Jahreskarte Erwachsene (personengebunden – nicht übertragbar)
 
-40,00 €
+45,00 €
 
 11. Jahreskarte Ermäßigungsberechtigte
 
-32,00 €
+36,00 €
 
 (personengebunden -nicht übertragbar)
 
@@ -172,15 +176,17 @@ Für anspruchsberechtigte schwerbehinderte Menschen (mit Merkzeichen „B“ im
 
 Schwerbehindertenausweis) erhält die Begleitperson freien Eintritt.
 
+Entgeltordnung für den Eigenbetrieb Tierpark Cottbus
+
 2
 
 12. Jahreskarte Kinder (personengebunden – nicht übertragbar) Kinder nach Vollendung des 3. Lebensjahres bis zum vollendeten 16. Lebensjahr, sowie Schüler auch über das vollendete 16. Lebensjahr hinaus bei Vorlage entsprechender Ausweise
 
-20,00 €
+22,50 €
 
 13. Familienjahreskarte I
 
-65,00 €
+75,00 €
 
 (personengebunden – nicht übertragbar, unter Vorlage eines geeigneten Nachweises)
 
@@ -190,7 +196,7 @@ bzw. Beendigung der schulischen Bildung
 
 14. Familienjahreskarte II
 
-100,00 €
+120,00 €
 
 (personengebunden – nicht übertragbar, unter Vorlage eines geeigneten Nachweises)
 
@@ -204,6 +210,10 @@ bzw. Beendigung der schulischen Bildung
 
 16. Über Entgelte für spezielle Bildungsangebote, Sonderveranstaltungen, Führungen sowie die Minderung und den Erlass der Entgelte in besonders begründeten Fällen entscheidet der Werkleiter des Tierparks
 
-§ 5 Inkrafttreten Die Entgeltordnung tritt nach ihrer Veröffentlichung zum 01.02.2022 in Kraft. Cottbus/Chóśebuz, 04.01.2022 gez. Holger Kelch Oberbürgermeister der Stadt Cottbus/Chóśebuz
+§ 5 Inkrafttreten Die Entgeltordnung tritt nach ihrer Veröffentlichung zum 01.04.2025 in Kraft. Cottbus/Chóśebuz, 07.03.2025
+
+Tobias Schick Oberbürgermeister der Stadt Cottbus/Chóśebuz
+
+Entgeltordnung für den Eigenbetrieb Tierpark Cottbus
 
 3
