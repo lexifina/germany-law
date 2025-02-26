@@ -1,0 +1,52 @@
+# 39. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung und Facility Management
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2025-02-26T17:30:00+01:00
+- Ende: 2025-02-26T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=57
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6354
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6354
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=617857
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=618699
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung - mit Änderungen im Ausschuss beschlossen
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: Beratung von vorgezogenen Drucksachen - (offen)
+- TOP 5.1: Abriss Kurfürstenstraße 75 (I): Mieter*innen schützen, Bebauungsplan anpassen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2: Abriss Kurfürstenstraße 75 (II): Anwendung Zweckentfremdungsrecht in Kerngebieten - im Ausschuss abgelehnt
+- TOP 5.3: Beschluss der BVV zum Hochhausprojekt "Central Tower" umsetzen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 6: Aktuelle Themen - (offen)
+- TOP 6.1: ISEK Karl-Marx-Allee, II. Bauabschnitt mit anschließender Beratung der Drs.-Nr. 1654/VI „Fortschreibung des Integrierten Städtebaulichen Entwicklungskonzepts für das Fördergebiet Karl-Marx-Allee, II. Bauabschnitt als städtebaulichen Rahmenplan – ISEK 2023“ - erledigt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: Protokollgenehmigungen - (offen)
+- TOP 7.1: Genehmigung der "Standard"-Protokolle der 7., 11.-15. und 18.-28. Sitzung der VI: Wahlperiode - erledigt
+- TOP 7.2: Genehmigung des Protokolls der 35. Sitzung vom 09.10.2024 - erledigt
+- TOP 7.3: Genehmigung des Protokolls der 36. Sitzung vom 27.11.2024 - erledigt
+- TOP 7.4: Genehmigung des Protokolls der 37. Sitzung vom 05.12.2024 - erledigt
+- TOP 8: Mitteilungen - (offen)
+- TOP 8.1: der Vorsitzenden - erledigt
+- TOP 8.2: des Bezirksamts - erledigt
+- TOP 8.3: der Senior:innenvertretung - erledigt
+- TOP 9: Aktuelle Viertelstunde - erledigt
+- TOP 10: Beratung von Drucksachen - (offen)
+- TOP 10.1: Belegungs- und Mietpreisbindungen sichern - vertagt
+- TOP 10.2: Fortschreibung des Integrierten Städtebaulichen Entwicklungskonzepts für das Fördergebiet Karl-Marx-Allee, II. Bauabschnitt als städtebaulichen Rahmenplan – ISEK 2023 - vertagt
+- TOP 10.3: Probenraum für das Atze-Musiktheater - vertagt
+- TOP 10.4: Den Fachausschuss über die Verwendung der bezirklichen Sanierungsmittel regelmäßig und vor endgültiger Festlegung informieren - vertagt
+- TOP 10.5: Umbauten im atze Musiktheater ermöglichen - vertagt
+- TOP 10.6: Kurfürstenstraße 62: Vorvertrag für bezahlbare Mieten in öffentlicher Hand! - vertagt
+- TOP 10.7: Die Uferhallen erhalten! - vertagt
+- TOP 10.8: Mieter*innen in Milieuschutzgebieten besser informieren und aufklären! - vertagt
+- TOP 10.9: Mieter*innen in Erhaltungsgebieten niederschwellig informieren - vertagt
+- TOP 10.10: Vorlage zur Kenntnisnahme Drs. 1029/VI „Entscheidungen der Unteren und Oberen Denkmalschutzbehörde transparent machen“ zurückziehen und komplett überarbeiten - vertagt
+- TOP 10.11: Über Bebauungspläne fortlaufend informieren - vertagt
+- TOP 10.12: Mietwucherkampagne 2025 - vertagt
+- TOP 10.13: Containerlösung Poststadion - vertagt
+- TOP 11: Verschiedenes Themenspeicher: - Städtebauliche Kriminalprävention – Beteiligung im B-Plan-Verfahren - WBM – Wohnungen Haus der Statistik - Aktueller Stand zu M25 am Leopoldplatz - Humboldthafen – geplante Bebauung durch SenSBW - Luisenblock Ost - Zentraler Festplatz - Klimaschutz in der Bauleitplanung - Gartendenkmalpflege - Prozess zur Aufstellung eines Bebauungsplanes - Klimaschutz und Denkmalschutz - Kaufland/Nahversorgung Brunnenviertel - erledigt
