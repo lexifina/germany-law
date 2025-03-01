@@ -1,8 +1,8 @@
 # Vollzitat: VwV Kostenverfügung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-09-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.6
+- Datum: 2025-03-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.09.2024
+01.03.2025
 bis
-28.02.2025
+31.12.2025
 
 VwV Kostenverfügung
 
@@ -41,7 +41,7 @@ In Kostenangelegenheiten gilt die in der Anlage beigefügte Kostenverfügung mit
 1.
 
 
-Die Kostenverfügung gilt für die Gerichte der ordentlichen Gerichtsbarkeit, der Arbeits-, Sozial- und Verwaltungsgerichtsbarkeit, für das Finanzgericht sowie für die Staatsanwaltschaften, soweit nicht die Besonderheiten des jeweiligen Verfahrensrechts Abweichungen erfordern. Sie gilt auch in Angelegenheiten der beim Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz, soweit Kosten nach dem Justizverwaltungskostengesetz erhoben werden.            
+Die Kostenverfügung gilt für die Gerichte der ordentlichen Gerichtsbarkeit, der Arbeits-, Sozial- und Verwaltungsgerichtsbarkeit, für das Finanzgericht sowie für die Staatsanwaltschaften, soweit nicht die Besonderheiten des jeweiligen Verfahrensrechts Abweichungen erfordern. Sie gilt auch in Angelegenheiten der beim Staatsministerium der Justiz angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz, soweit Kosten nach dem Justizverwaltungskostengesetz erhoben werden.            
 
 2.
 
@@ -176,7 +176,7 @@ f)
 
 
 Zu den §§ 39, 41, 42 der Kostenverfügung:
-Dem Kostenprüfungsbeamten sind im automatisierten Kostenbearbeitungsverfahren im Grundbuchabrufverfahren auf Anforderung Ausdrucke der an die Landesjustizkasse Chemnitz übermittelten Datensätze zur Verfügung zu stellen. Der Dienstvorgesetzte des Prüfungsbeamten bestimmt im Einvernehmen mit der Leitung der beim Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz
+Dem Kostenprüfungsbeamten sind im automatisierten Kostenbearbeitungsverfahren im Grundbuchabrufverfahren auf Anforderung Ausdrucke der an die Landesjustizkasse Chemnitz übermittelten Datensätze zur Verfügung zu stellen. Der Dienstvorgesetzte des Prüfungsbeamten bestimmt im Einvernehmen mit der Leitung der beim Staatsministerium der Justiz angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz
 
 Zeit und Reihenfolge der dort stattfindenden Prüfungen.
 
@@ -637,7 +637,7 @@ Heranziehung steuerlicher Werte und Auskünfte der Finanzverwaltung
 
 – zu § 40 Abs. 6, § 46 Abs. 3 Satz 1 Nr. 3, § 48 GNotKG –
 
-(1)  Wird auf einen für Zwecke der Steuererhebung festgesetzten Wert (§ 46 Abs. 3 Satz 1 Nr. 3 GNotKG) oder den Einheitswert von Grundbesitz (§ 48 GNotKG) zurückgegriffen, genügt als Nachweis die Vorlage des Steuerbescheides (Feststellungsbescheides, Einheitswertbescheides), sofern sich der Einheitswert des Grundbesitzes nicht schon aus der steuerlichen Unbedenklichkeitsbescheinigung ergibt.  Das Finanzamt ist um Auskunft über die Höhe der für Zwecke der Steuererhebung festgesetzten Werte, die Höhe des Einheitswertes oder um Erteilung einer Abschrift des entsprechenden Steuerbescheides nur zu ersuchen, wenn der Kostenschuldner den Steuerbescheid nicht vorlegt, ausnahmsweise auch dann, wenn die Wertermittlung besonders schwierig ist.  Für die Aufbewahrung des Einheitswertbescheides gilt § 3 Abs. 8 der Aktenordnung entsprechend.
+(1)  Wird auf einen für Zwecke der Steuererhebung festgesetzten Wert (§ 46 Abs. 3 Satz 1 Nr. 3 GNotKG oder § 48 GNotKG)  zurückgegriffen, genügt als Nachweis die Vorlage des Steuerbescheides (etwa des Feststellungsbescheides), sofern sich  der Wert des Grundbesitzes nicht schon aus der steuerlichen Unbedenklichkeitsbescheinigung ergibt. Das Finanzamt ist um  Auskunft über die Höhe der für Zwecke der Steuererhebung festgesetzten Werte oder um Erteilung einer Abschrift des  entsprechenden Steuerbescheides nur zu ersuchen, wenn der Kostenschuldner den Steuerbescheid nicht vorlegt,  ausnahmsweise auch dann, wenn die Wertermittlung besonders schwierig ist. Für die Aufbewahrung dieser Bescheide gilt  § 3 Abs. 8 der Aktenordnung entsprechend.
 
 (2) Das Finanzamt ist für die Ermittlung des Nachlasswertes und der Zusammensetzung des Nachlasses gemäß § 40 Abs. 6 GNotKG nur in Einzelfällen nachrangig um Auskunft zu ersuchen, z. B. wenn die Beteiligten keine für die Wertermittlung erforderlichen Angaben mitteilen oder Anhaltspunkte dafür bestehen, dass diese Angaben unrichtig sind. War bereits ein Kostenansatz aufgestellt und gibt die Auskunft des Finanzamts Anlass, den Kostenansatz zu ändern, ist dessen Änderung durch den Kostenbeamten zu veranlassen; wird dabei eine Nacherhebung von Kosten erforderlich, ist diese unter Beachtung des § 20 GNotKG vorzunehmen. Ist bereits eine Festsetzung des Geschäftswerts erfolgt, ist die Auskunft des Finanzamts zunächst dem für die Wertfestsetzung zuständigen Richter oder Rechtspfleger vorzulegen, damit dieser prüfen kann, ob eine Änderung des festgesetzten Geschäftswerts innerhalb der Frist des § 79 Abs. 2 Satz 2 GNotKG veranlasst ist.
 
@@ -1210,9 +1210,9 @@ Fsn-Nr.: 32-V14.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. September 2024
+Fassung gültig ab:  1. März 2025
 
-Fassung gültig bis: 28. Februar 2025
+Fassung gültig bis: 31. Dezember 2025
 
 Drucken/Speichern
 
@@ -1237,7 +1237,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14004.6
+https://www.revosax.sachsen.de/vorschrift/14004.7
 Stand vom
 18.11.2026
 
