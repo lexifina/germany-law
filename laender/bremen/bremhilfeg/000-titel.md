@@ -1,1 +1,1 @@
-# Bremisches Hilfeleistungsgesetz (BremHilfeG) vom 21. Juni 2016
+# Bremisches Hilfeleistungsgesetz (BremHilfeG) vom 1. April 2025

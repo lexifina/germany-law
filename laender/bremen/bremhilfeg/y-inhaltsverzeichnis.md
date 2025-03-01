@@ -1,8 +1,8 @@
 # Inhaltsverzeichnis
 Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
-§ 1 | Ziel und Anwendungsbereich des Gesetzes
-§ 2 | Integrierte Einsatzleitstellen
+§ 1 | Begriffsbestimmung und Anwendungsbereich des Gesetzes
+§ 2 | Integrierte Leitstellen
 § 3 | Einsatzleitung
 § 4 | Pflichten der Bevölkerung
 § 5 | Heranziehung von Personen und Sachen
@@ -16,16 +16,15 @@ Kapitel 2 Berufsfeuerwehren
 § 10 | Angehörige der Berufsfeuerwehren
 § 11 | Leitung
 § 12 | Aufgaben im vorbeugenden Gefahrenschutz
-§ 12a | Unabhängige Beauftragte oder unabhängiger Beauftragter für die Feuerwehr Bremen
+§ 13 | Unabhängige Beauftragte oder unabhängiger Beauftragter für die Feuerwehr Bremen
 Kapitel 3 Freiwillige Feuerwehren
-§ 13 | Verwaltung, Leitung und Mitgliedschaft
-§ 14 | Bereitschaftsführung und Bereichsführung
-§ 15 | Versicherungsschutz
-§ 16 | Aufwandsentschädigung
-§ 17 | Ersatz von Auslagen, Reisekosten
+§ 14 | Verwaltung, Leitung und Mitgliedschaft
+§ 15 | Bereitschaftsführung und Bereichsführung
+§ 16 | Versicherungsschutz
+§ 17 | Aufwandsentschädigung
 Kapitel 4 Pflichtfeuerwehren
 § 18 | Aufstellung
-Kapitel 5 Werkfeuerwehren
+Kapital 5 Werkfeuerwehren und Flughafenfeuerwehr
 § 19 | Anerkennung, Aufstellung und Auflösung, Aufsicht
 § 20 | Zusammenwirken mit öffentlichen Feuerwehren
 § 21 | Einsatz außerhalb des Betriebsgeländes
@@ -40,63 +39,81 @@ Kapitel 2 Durchführung des Rettungsdienstes
 § 27 | Bodengebundener Rettungsdienst
 § 28 | Rettungsdienstbedarfsplan
 § 29 | Mitwirkung anderer Stellen
-§ 29a | Organisierte Erste Hilfe
-§ 30 | Besetzung der Rettungsmittel
-§ 30a | Besetzung von Rettungsmitteln
-§ 30b | Experimentierklausel
-§ 31 | Ärztliche Leitung Rettungsdienst
-§ 32 | Fortbildung
-§ 33 | Qualitätsmanagement und Dokumentation im Rettungsdienst
+§ 30 | Organisierte Erste Hilfe
+§ 31 | Rettungsmittel
+§ 32 | Besetzung von Rettungsmitteln; Verordnungsermächtigung
+§ 33 | Experimentierklausel
+§ 34 | Ärztliche Leitung Rettungsdienst
+§ 35 | Fortbildung
+§ 36 | Qualitätsmanagement und Dokumentation im Rettungsdienst
 Kapitel 3 Private Unternehmen
-§ 34 | Betätigung im Krankentransport
-Kapitel 4 Regelungen für den Massenanfall von Verletzten und Erkranken
-§ 35 | Massenanfall verletzter oder erkrankter Personen, Schnell-Einsatz-Gruppen
-§ 35a | Schnelleinsatzgruppen
-§ 36 | Leitende Notärztin, Leitender Notarzt, Organisatorische Leitung Rettungsdienst
+§ 37 | Betätigung im Krankentransport; Verordnungsermächtigung
+Kapitel 4 Regelungen für den Massenanfall von Verletzten und Erkrankten
+§ 38 | Massenanfall verletzter oder erkrankter Personen
+§ 39 | Schnelleinsatzgruppen
+§ 40 | Leitende Notärztin, Leitender Notarzt, Organisatorische Leitung Rettungsdienst
 Teil 4 Katastrophenschutz
 Kapitel 1 Allgemeine Vorschriften
-§ 37 | Aufgabe
-§ 37a | Unterbringung und Versorgung von Asylbegehrenden und Flüchtlingen
-§ 38 | Aufgabenträger
-§ 39 | Mitwirkung im Katastrophenschutz
-§ 40 | Öffentliche Träger mit ihren Einheiten und Einrichtungen
-§ 41 | Private Träger mit ihren Einheiten und Einrichtungen
-§ 42 | Helferinnen und Helfer im Katastrophenschutz
-§ 43 | Rechtsverhältnisse der Helferinnen und Helfer
-§ 44 | Entschädigung der Helferinnen und Helfer
-Kapitel 2 Vorbereitende Maßnahmen
-§ 45 | Aufgaben der Katastrophenschutzbehörden
-§ 46 | Auskunftspflicht
-§ 47 | Externe Notfallpläne für schwere Unfälle mit gefährlichen Stoffen
-Kapitel 3 Abwehrender Katastrophenschutz
-§ 48 | Aufgaben der Katastrophenschutzbehörden
-Teil 5 Überörtliche Hilfe
-§ 49 | Nachbarliche Hilfe im Brandschutz und bei technischer Hilfeleistung
-§ 50 | Bereichsübergreifender Rettungsdienst
-§ 51 | Überörtliche Katastrophenschutzhilfe
-Teil 6 Rechtsverhältnisse der ehrenamtlich tätigen Mitglieder der Freiwilligen Feuerwehren und Helferinnen und Helfer im Katastrophenschutz
-§ 52 | Freistellung, Lohnfortzahlung, Verdienstausfall
-§ 53 | Schadensersatzleistungen an die ehrenamtlich Tätigen
-§ 54 | Haftung der ehrenamtlich Tätigen
+§ 41 | Katastrophenschutz, Begriffsbestimmungen
+§ 42 | Katastrophenschutzbehörden
+§ 43 | Aufsicht
+§ 44 | Mitwirkung im Katastrophenschutz
+§ 45 | Mitwirkung der Leistungsträger nach dem Fünften, Elften und Zwölften Buch Sozialgesetzbuch im Katastrophenschutz
+Kapitel 2 Organisation
+§ 46 | Öffentliche Träger mit ihren Einheiten und Einrichtungen
+§ 47 | Private Träger mit ihren Einheiten und Einrichtungen
+§ 48 | Helferinnen und Helfer im Katastrophenschutz
+§ 49 | Rechtsverhältnisse der Helferinnen und Helfer
+§ 50 | Katastrophenschutzeinheiten
+Kapitel 3 Vorbeugender Katastrophenschutz
+§ 51 | Aufgaben der Katastrophenschutzbehörden; Verordnungsermächtigungen
+§ 52 | Aufgaben der übrigen Behörden
+§ 53 | Befragung und Auskunftspflicht
+§ 54 | Externe Notfallpläne für schwere Unfälle mit gefährlichen Stoffen
+Kapitel 4 Abwehrender Katastrophenschutz
+§ 55 | Feststellung des Katastrophenfalls
+§ 56 | Aufgaben der Katastrophenschutzbehörden
+§ 57 | Zentrale Leitung
+§ 58 | Nachbarschaftshilfe und überörtliche Hilfe
+§ 59 | Weisungsrecht
+§ 60 | Hilfeleistungspflichten
+§ 61 | Sperrgebiet
+Kapitel 5 Außergewöhnliches Ereignis, Krise, Unterstützung
+§ 62 | Feststellung eines außergewöhnlichen Ereignisses
+§ 63 | Aufgaben der Katastrophenschutzbehörde bei einem außergewöhnlichen Ereignis
+§ 64 | Zentrale Koordinierung
+§ 65 | Nachbarschaftshilfe und überörtliche Hilfe bei einem außergewöhnlichen Ereignis
+§ 66 | Weisungsrecht bei einem außergewöhnlichen Ereignis
+§ 67 | Hilfeleistungspflichten bei einem außergewöhnlichen Ereignis
+§ 68 | Sperrgebiet
+§ 69 | Krise
+§ 70 | Unterstützung
+Teil 5 Überörtliche Hilfe außerhalb des Katastrophenschutzes
+§ 71 | Nachbarliche Hilfe im Brandschutz und bei technischer Hilfeleistung
+§ 72 | Bereichsübergreifender Rettungsdienst
+Teil 6 Rechtsverhältnis der aktiven ehrenamtlich tätigen Mitglieder der Freiwilligen Feuerwehren, der Einsatzkräfte im Rettungsdienst sowie der Helferinnen und Helfer im Katastrophenschutz
+§ 73 | Freistellung, Lohnfortzahlung und Verdienstausfall
+§ 74 | Erstattungsansprüche von Arbeitgebern
+§ 75 | Auslagen und Schadensersatz
+§ 76 | Haftung der ehrenamtlich Tätigen
 Teil 7 Entschädigung für Vermögensschäden
-§ 55 | Entschädigungsregelung
+§ 77 | Entschädigungsregelung
 Teil 8 Kosten der Hilfeleistung
-§ 56 | Kostenträger
-§ 57 | Gebühren bei Brand- und Hilfeleistungseinsätzen der Feuerwehr und im Katastrophenschutz
-§ 58 | Gebühren und Entgelte des Rettungsdienstes
-§ 59 | Kostenersatz
+§ 78 | Kostenträger
+§ 79 | Gebühren bei Brand- und Hilfeleistungseinsätzen der Feuerwehr und im Katastrophenschutz
+§ 80 | Gebühren und Entgelte des Rettungsdienstes
+§ 81 | Kostenersatz
 Teil 9 Ordnungswidrigkeiten
-§ 60 | Bußgeldvorschrift
-Teil 10 Datenschutzregelungen
-§ 61 | Datenverarbeitung
-§ 62 | Datenverarbeitung für das Qualitätsmanagement in Rettungsdienst
-§ 63 | Datenerhebung und Zweckbindung
-§ 64 | Datenübermittlung
-§ 65 | Rechtsverordnung zu Datenschutzregelungen
+§ 82 | Bußgeldvorschriften
+Teil 10 Datenverarbeitung
+§ 83 | Datenverarbeitung
+§ 84 | Datenverarbeitung für das Qualitätsmanagement im Rettungsdienst
+§ 85 | Datenerhebung und Zweckbindung
+§ 86 | Datenübermittlung
+§ 87 | Verordnungsermächtigung zu Datenschutzregelungen
 Teil 11 Schlussvorschriften
-§ 66 | Einschränkung von Grundrechten
-§ 67 | Zuständigkeiten anderer Behörden
-§ 68 | Erlass von Verwaltungsvorschriften
-§ 69 | Übergangsregelungen
-§ 70 | Aufteilung der Feuerschutzsteuer
-§ 71 | Inkrafttreten, Außerkrafttreten
+§ 88 | Einschränkung von Grundrechten
+§ 89 | Zuständigkeiten anderer Behörden
+§ 90 | Erlass von Verwaltungsvorschriften
+§ 91 | Aufteilung der Feuerschutzsteuer
+§ 92 | Übergangsvorschrift
