@@ -1,0 +1,1 @@
+das Bayerische Staatsministerium für Gesundheit, Ernährung und Verbraucherschutz, soweit erforderlich im Einvernehmen mit den Bayerischen Staatsministerien für Landwirtschaft und Forsten sowie für Wissenschaft, Forschung und Kunst,
