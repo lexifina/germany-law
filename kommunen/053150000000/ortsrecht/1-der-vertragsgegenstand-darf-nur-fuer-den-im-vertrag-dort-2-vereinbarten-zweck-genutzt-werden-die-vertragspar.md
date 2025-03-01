@@ -1,14 +1,15 @@
 # 1. Der Vertragsgegenstand darf nur für den im Vertrag (dort § 2) vereinbarten Zweck genutzt werden. Die Vertragspartei ist insbesondere nicht berechtigt, den Vertragsgegenstand ganz oder teilweise an Dritte zur Nutzung zu überlassen.
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2023-05-01 (Datum im Dateinamen)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/nutzungsbedingungen_kölnbäder_vom_01.05.2023.pdf
+- Datum: 2025-03-01 (Datum im Dateinamen)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/nutzungsbedingungen_koelnbaeder_20250301.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Allgemeine Nutzungsbedingungen für die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie der städtischen Nutzungszeiten in den Bädern der KölnBäder GmbH und des Schwimmleitungszentrums
+Allgemeine Nutzungsbedingungen für die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie der städtischen Nutzungszeiten in den Bädern der KölnBäder
+GmbH und des Schwimmleitungszentrums
 
 A. Allgemeiner Teil
 
@@ -30,7 +31,7 @@ I. Allgemeine Verhaltenspflichten
 
 8. Die Vertragspartei hat dafür Sorge zu tragen, dass Hunde auf der Sportanlage an der Leine geführt werden. Hunde dürfen grundsätzlich in Gebäude und Räumlichkeiten nicht mitgenommen oder hereingelassen werden. Ausnahmen obliegen der Prüfung der zuständigen Sportsachbearbeitung (Kontaktdaten siehe Anlage 1).
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 1 von 7
 
@@ -47,7 +48,7 @@ II. Informationspflichten der Vertragspartei
 III. Schlüssel
 Soweit die Vertragspartei Schlüssel für den Vertragsgegenstand erhalten hat, dürfen diese nur zu den vertraglich vereinbarten Nutzungszeiten eingesetzt werden. Die Schlüssel sind sicher aufzubewahren und bei Vertragsende zurückzugeben. Eine Nachfertigung der Schlüssel ist nicht statthaft. Ein etwaiger Verlust ist unverzüglich der Stadt zu melden. Bei Verlust von Schlüsseln kann die Stadt auf Kosten der Vertragspartei neue Schlüssel anfertigen lassen oder den kompletten Austausch der gesamten Schließanlage veranlassen, soweit nicht davon auszugehen ist, dass ein Missbrauch des verlorenen Schlüssels ausgeschlossen ist.
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 2 von 7
 
@@ -68,7 +69,7 @@ b) die Vertragspartei sich mit der Entrichtung des Nutzungsentgeltes oder eines 
 c) die Vertragspartei den Vertragsgegenstand zu einem anderen als dem vertraglich genannten Zweck nutzt oder in anderer Weise grob gegen eine Vertragsbestimmung verstößt,
 d) die Vertragspartei den Vertragsgegenstand ganz oder teilweise einem Dritten zur Nutzung überlässt
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 3 von 7
 
@@ -89,9 +90,9 @@ d) auf dem Fehlen einer zugesicherten Eigenschaft des Vertragsgegenstands oder
 e) auf einer zwingenden gesetzlichen Haftung der Stadt oder ihrer Erfüllungsgehilf*innen beruhen.
 3. Die Vertragspartei stellt die Stadt von etwaigen Haftpflichtansprüchen Dritter für Schäden frei, die im Zusammenhang mit der Nutzung des Vertragsgegenstands stehen.
 4. Die Vertragspartei trägt die Verkehrssicherungspflicht für die Durchführung ihres Sportbetriebs oder ihrer Veranstaltung. Im Rahmen ihrer Verkehrssicherungspflicht stellt die Vertragspartei sicher, dass Teilnehmer*innen sowie Besucher*innen ihres Sportbetriebs oder ihrer Veranstaltung vor Risiken und Gefahren in diesem Zusammenhang geschützt werden.
-5. Die Vertragspartei verpflichtet sich, vor Nutzungsbeginn eine ausreichende Haftpflichtversicherung (über Personen-, Sach-, Mietsach- und Vermögensschäden) abzuschließen, durch welche auch die Freistellungsansprüche der Stadt gedeckt werden. Diese ist durch die Mitgliedschaft im Stadtsportbund Köln gegeben. Kommt die Vertragspartei dieser Nachweispflicht nicht nach, entspricht dies einer nicht unerheblichen Vertragsverletzung. Dieser Nachweis ist auf Verlangen vorzulegen.
+5. Die Vertragspartei verpflichtet sich, vor Nutzungsbeginn eine ausreichende Haftpflichtversicherung (über Personen-, Sach-, Mietsach- und Vermögensschäden) abzuschließen, durch welche auch die Freistellungsansprüche der Stadt gedeckt werden. Diese ist durch die Mitgliedschaft im Landessportbund Nrodrhein-Westfalen gegeben. Kommt die Vertragspartei dieser Nachweispflicht nicht nach, entspricht dies einer nicht unerheblichen Vertragsverletzung. Dieser Nachweis ist auf Verlangen vorzulegen.
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 4 von 7
 
@@ -105,7 +106,7 @@ I. Besondere Bestimmungen zur Nutzung ungedeckter Sportstätten (zum Beispiel Te
 6. Kunstrasenplätze dürfen nur mit sauberen Schuhen betreten werden. Als Sportschuhe sind die handelsüblichen Nocken, Multinocken- und Noppenschuhe (insbesondere sog. „Tausendfüßler“) zugelassen. Sportschuhe mit Schraubstollen sowie mit spitzen Absätzen sind verboten. Ausnahmen für Leichtathlet*innen sind die im Handel erhältlichen Sportschuhe mit Spikes, die speziell auf Kunststoffflächen angewendet werden können. Das Betreten der Spielfelder und der Laufbahnen durch Zuschauer*innen ist nicht gestattet.
 7. Die mobilen Tore müssen während des Trainings- oder Spielbetrieb mit den bereitgestellten Gewichten beschwert werden. Diese dürfen nicht umgelegt werden. Nach dem Training oder nach Spielen müssen die Tore und Gewichte außerhalb des Platzes auf den dafür vorgesehenen Flächen abgestellt werden. Der Transport der Tore und Gewichte muss dabei mit äußerster Vorsicht erfolgen, damit Beschädigungen an Personen, Toren und Sportstätten vermieden werden. Die Tore dürfen aufgrund der hohen Verletzungsgefahr keinesfalls von Kindern und Jugendlichen transportiert werden, sondern nur mit Unterstützung erwachsener Personen.
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 5 von 7
 
@@ -124,13 +125,13 @@ II. Besondere Bestimmungen für die Benutzung von Schulschwimmbädern
 
 3. Bei Benutzung der Bäder der KölnBäder GmbH in den der Stadt Köln eingeräumten Nutzungszeiten ist zudem die Benutzungsordnung der KölnBäder GmbH einzuhalten.
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 6 von 7
 
 4. Die Vertragspartei stellt sicher, dass Personen, die unter Einfluss von berauschenden Mitteln stehen, Personen, die Tiere mit sich führen, Personen, die an einer meldepflichtigen, übertragbaren Krankheit im Sinne des Bundesseuchengesetzes oder an Hautveränderungen (zum Beispiel Schuppen, Schorf) leiden, die sich ablösen und in das Wasser übergehen können, sowie Personen mit offenen Wunden (im Zweifelsfall kann die Vorlage einer ärztlichen Bescheinigung gefordert werden) nicht ins Wasser gelangen.
 5. Der Vertragspartei ist bewusst, dass Personen, die sich ohne fremde Hilfe nicht sicher fortbewegen können, den Vertragsgegenstand nur zusammen mit einer geeigneten Begleitperson betreten dürfen. Personen, die auf Grund ihrer körperlichen oder geistigen Verfassung nicht in der Lage sind, den Vertragsgegenstand ohne Unterstützung oder Hilfe Dritter zu nutzen, ist der Zutritt und der Aufenthalt im Vertragsgegenstand nur gemeinsam mit einer verantwortlichen Begleitperson gestattet, welche zu jedem Zeitpunkt die erforderliche Personensorge sicherstellt.
 
-Stand 01.05.2023
+Stand 01.03.2025
 
 Seite 7 von 7
