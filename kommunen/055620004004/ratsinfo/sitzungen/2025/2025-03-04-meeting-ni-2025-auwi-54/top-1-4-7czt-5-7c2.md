@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ausschusses für Wirtschaftsentwicklung und Digitalisierung (2025-03-04)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-AuWi-54%7Czt_5%7C2
