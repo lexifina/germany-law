@@ -1,0 +1,6 @@
+# TOP 5.: Jahresbericht über die Situation der Geflüchteten in Leopoldshöhe
+
+- Sitzung: Ausschuss für Generationen, Soziales, Gleichstellung und Sport (14. Sitzung) (2025-03-05)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/16608
