@@ -1,0 +1,7 @@
+# TOP 6: Arbeitskreis Barrierefreiheit - Berichte und Beschlussfassungen
+
+- Sitzung: 1. Sitzung des Behindertenbeirates (2025-03-05)
+- Körperschaft: Stadt Bad Kreuznach
+- Öffentlich: ja
+- OParl: https://bad-kreuznach-stadt.gremien.info/oparl/agendaItem/ni_2025-BB-13%7Czt_16%7C1
+- Beschluss (Datei): Beschluss - Top 6 https://bad-kreuznach-stadt.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-BB-13%7Czt_16%7C1
