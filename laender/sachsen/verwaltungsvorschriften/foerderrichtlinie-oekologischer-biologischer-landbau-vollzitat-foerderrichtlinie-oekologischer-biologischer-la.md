@@ -1,8 +1,8 @@
 # Förderrichtlinie Ökologischer/Biologischer Landbau Vollzitat: Förderrichtlinie Ökologischer/Biologischer Landbau
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-08-23 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19908.3
+- Datum: 2025-03-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19908.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-23.08.2024
+06.03.2025
 bis
-05.03.2025
+14.12.2025
 
 Förderrichtlinie Ökologischer/Biologischer Landbau
 
@@ -149,7 +149,7 @@ Die Teilnahme am Öko-Kontrollverfahren nach Verordnung (EU) 2018/848 erfolgt w�
 
 b)
 
-Die Mindestschlaggröße der geförderten Bruttoschläge beträgt 0,3000 Hektar.
+Die Mindestschlaggröße der geförderten Bruttoschläge beträgt 0,1000 Hektar.
 
 
 c)
@@ -255,7 +255,7 @@ Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Öko-Regelu
 Kombination mit Förderrichtlinie AUK/2023
 
 
-Geförderte Flächen nach dieser Förderrichtlinie sind nach den Maßgaben der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen (Förderrichtlinie AUK/2023) vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 12. März 2024 (SächsABl. S. 364) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, förderfähig.
+Geförderte Flächen nach dieser Förderrichtlinie sind nach den Maßgaben der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen (Förderrichtlinie AUK/2023) vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 27. August 2024 (SächsABl. S. 1042) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, förderfähig.
 
 5.1.3
 
@@ -321,7 +321,7 @@ Für nachfolgende Flächen werden keine Zuwendungen nach dieser Förderrichtlini
 
 a)
 
-aus der Erzeugung genommene Flächen, Brachen und Stilllegungsflächen sowie Flächen, die überwiegend der Landschaftspflege dienen, soweit es sich hierbei nicht um die Flächen handelt, die zur Erfüllung der Verpflichtungen nach §19 GAPKondV dienen und dementsprechend angemeldet werden,
+aus der Erzeugung genommene Flächen, Brachen und Stilllegungsflächen sowie Flächen, die überwiegend der Landschaftspflege dienen,
 
 
 b)
@@ -442,13 +442,13 @@ einzuhalten.
 
 5.10
 
-Anwendung Konditionalität
+Anwendung Konditionalität und soziale Konditionalität
 
 
-Das System zur Durchführung und Kontrolle der Einhaltung verbindlicher Grundanforderungen gilt gemäß Artikel 83 Absatz 1 Buchstabe b der Verordnung (EU) 2021/2116 auch für die Flächenförderung nach Artikel 70 der Verordnung (EU) 2021/2115 und daher ebenso für Umwelt-, Klima- und andere Bewirtschaftungsverpflichtungen.
+Das System zur Durchführung und Kontrolle der Einhaltung verbindlicher Grundanforderungen gilt gemäß Artikel 83 Absatz 1 Buchstabe b der Verordnung (EU) 2021/2116 und die Anforderungen bezüglich geltender Arbeits- und Beschäftigungsbedingungen oder Arbeitgeberverpflichtungen gemäß Artikel 14 Absatz 1 der Verordnung (EU) 2021/2115 auch für die Flächenförderung nach Artikel 70 der Verordnung (EU) 2021/2115 und daher ebenso für Umwelt-, Klima- und andere Bewirtschaftungsverpflichtungen.
 
 
-Damit sind durch die Begünstigten die Grundanforderungen an die Betriebsführung gemäß dem Unionsrecht und die im GAP-Strategieplan in Verbindung mit dem GAP-Konditionalitäten-Gesetz (GAPKondG) und der GAP-Konditionalitäten-Verordnung (GAPKondV) festgelegten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 einzuhalten.
+Damit sind durch die Begünstigten die Grundanforderungen an die Betriebsführung gemäß dem Unionsrecht und die im GAP-Strategieplan in Verbindung mit dem GAP-Konditionalitäten-Gesetz (GAPKondG) und der GAP-Konditionalitäten-Verordnung (GAPKondV) festgelegten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 sowie die Anforderungen an die soziale Konditionalität nach Artikel 14 in Verbindung mit Anhang IV der Verordnung (EU) 2021/2115 einzuhalten.
 
 5.11
 
@@ -620,7 +620,7 @@ Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des InVeKoS.
 Ablehnung, Kürzung, Sanktionierung, Rückforderung und Verzinsung
 
 
-Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere der Artikel 57, 59, 62, 84 und 85 der Verordnung (EU) 2021/2116 und die Artikel 7 ff. der delegierten Verordnung (EU) 2022/1172 sowie die nationalen Umsetzungsregelungen und § 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den §§ 48 und 49 des Verwaltungsverfahrensgesetzes, in der jeweils geltenden Fassung.
+Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere der Artikel 57, 59, 62, 84 f. und 88 f. der Verordnung (EU) 2021/2116 und die Artikel 7 ff. der delegierten Verordnung (EU) 2022/1172 sowie die nationalen Umsetzungsregelungen und § 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den §§ 48 und 49 des Verwaltungsverfahrensgesetzes, in der jeweils geltenden Fassung.
 
 
 Stellt die Bewilligungsbehörde fest, dass die Begünstigten nicht alle Flächen gemäß Artikel 8 der Durchführungsverordnung (EU) 2022/1173 angegeben haben oder liegen Übererklärungen vor, wird entsprechend §§ 46 und 47 GAPInVeKoSV die Auszahlung ganz oder teilweise abgelehnt oder die Förderung ganz oder teilweise zurückgenommen.
@@ -629,7 +629,7 @@ Stellt die Bewilligungsbehörde fest, dass die Begünstigten nicht alle Flächen
 Stellt die Bewilligungsbehörde fest, dass andere Fördervoraussetzungen oder Förderverpflichtungen als Größe der Fläche nicht erfüllt sind, wird auf der Grundlage des Artikels 57 Absatz 1 der Verordnung (EU) 2021/2116 die Auszahlung abgelehnt oder die Förderung ganz oder teilweise gemäß § 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit §§ 48 und 49 des Verwaltungsverfahrensgesetzes zurückgenommen. Dabei sind nach Artikel 59 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2021/2116 Schwere, Ausmaß, Dauer und Häufigkeit des Verstoßes zu berücksichtigen.
 
 
-Ein Verstoß gegen die Grundanforderungen an die Betriebsführung (GAB) gemäß Unionsrecht und die auf nationaler Ebene aufgestellten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 aufgrund einer unmittelbar der begünstigten Person anzulastenden Handlung oder Unterlassung führt nach den Artikeln 12 Absatz 2 der Verordnung (EU) 2021/2115, den Artikeln 83 ff. der Verordnung (EU) 2021/2116, der Artikel 6 ff. der delegierten Verordnung (EU) 2022/1172, den §§ 19 ff. GAPKondG und §§ 36 ff. GAPKondV dazu, dass der Gesamtbetrag der in dem betreffenden Kalenderjahr zu gewährenden Förderung gekürzt oder keinerlei Zahlung geleistet wird.
+Ein Verstoß gegen die Grundanforderungen an die Betriebsführung (GAB) gemäß Unionsrecht und die auf nationaler Ebene aufgestellten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 oder gegen die Anforderungen bezüglich geltender Arbeits- und Beschäftigungsbedingungen oder Arbeitgeberverpflichtungen nach Artikel 14 Absatz 1 in Verbindung mit Anhang IV der Verordnung (EU) 2021/2115 aufgrund einer unmittelbar der begünstigten Person anzulastenden Handlung oder Unterlassung führt nach den Artikeln 12 Absatz 2 bzw. Artikel 14 Absatz 3 der Verordnung (EU) 2021/2115, den Artikeln 83 ff. sowie 87 ff. der Verordnung (EU) 2021/2116, der Artikel 6 ff. der delegierten Verordnung (EU) 2022/1172, den §§ 21 ff. GAPKondG und §§ 31 ff. GAPKondV dazu, dass der Gesamtbetrag der in dem betreffenden Kalenderjahr zu gewährenden Förderung gekürzt oder keinerlei Zahlung geleistet wird.
 
 
 Neben der Rückforderung von zu Unrecht gezahlten Beträgen werden Zinsen gemäß § 49 a Absatz 3 des Verwaltungsverfahrensgesetzes erhoben.
@@ -708,7 +708,7 @@ das Öko-Landbaugesetz vom 7. Dezember 2008 (BGBl. I S. 2358), das zuletzt durch
 
 4.
 
-die Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rates vom 18. Juli 2018 über die Haushaltsordnung für den Gesamthaushaltsplan der Union, zur Änderung der Verordnungen (EU) Nr. 1296/2013, (EU) Nr. 1301/2013, (EU) Nr. 1303/2013, (EU) Nr. 1304/2013, (EU) Nr. 1309/2013, (EU) Nr. 1316/2013, (EU) Nr. 223/2014, (EU) Nr. 283/2014 und des Beschlusses Nr. 541/2014/EU sowie zur Aufhebung der Verordnung (EU, Euratom) Nr. 966/2012 (ABl. L 193 vom 30.7.2018, S. 1),
+die Verordnung (EU, Euratom) 2024/2509 des Europäischen Parlaments und des Rates vom 23. September 2024 über die Haushaltsordnung für den Gesamthaushaltsplan der Union,
 
 5.
 
@@ -716,7 +716,7 @@ die Verordnung (EWG, EuroATOM) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festle
 
 6.
 
-die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1), die durch die Delegierte Verordnung (EU) 2022/648 der Kommission vom 15. Februar 2022 (ABl. L 119 vom 21.4.2022, S. 1, EU-GAP-Strategieplan-Verordnung) geändert worden ist,
+die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1), die zuletzt durch die Verordnung (EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L 1468 vom 24.5.2024, S. 1) geändert worden ist,
 
 7.
 
@@ -724,27 +724,27 @@ GAP-Strategieplan 2023–2027 für die Bundesrepublik Deutschland, genehmigt mit
 
 8.
 
-die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013, die durch die Delegierte Verordnung (EU) 2022/1408 der Kommission vom 16. Juni 2022 (ABl. L 216 vom 19.8.2022, S. 1) geändert worden ist,
+die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013, die zuletzt durch die Verordnung (EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L 1468 vom 24.5.2024, S. 1) geändert worden ist,
 
 9.
 
-die Delegierte Verordnung (EU) 2022/127 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95),
+die Delegierte Verordnung (EU) 2022/127 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95), die zuletzt durch die Delegierte Verordnung (EU) 2023/1448 der Kommission vom 10. Mai 2023 (ABl. L 179 vom 14.7.2023, S. 2) geändert worden ist,
 
 10.
 
-die Delegierte Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik und der Verhängung und Berechnung von Verwaltungssanktionen im Bereich der Konditionalität (ABl. L 183 vom 8.7.2022, S. 12),
+die Delegierte Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik und der Verhängung und Berechnung von Verwaltungssanktionen im Bereich der Konditionalität (ABl. L 183 vom 8.7.2022, S. 12), die durch die Delegierte Verordnung (EU) 2023/744 der Kommission vom 2. Februar 2023 (ABl. L 99 vom 12.4.2023, S. 1) geändert worden ist,
 
 11.
 
-die Durchführungsverordnung (EU) Nr. 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131),
+die Durchführungsverordnung (EU) Nr. 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131), die durch die Durchführungsverordnung (EU) 2023/2773 der Kommission vom 13. Dezember 2023 (ABl. L 2773 vom 14.12.2023, S. 1) geändert worden ist,
 
 12.
 
-die Durchführungsverordnung (EU) Nr. 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (ABl. L 183 vom 8.7.2022, S. 23),
+die Durchführungsverordnung (EU) Nr. 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (ABl. L 183 vom 8.7.2022, S. 23), die durch die Durchführungsverordnung (EU) 2024/2202 der Kommission vom 4. September 2024 (ABl. L 2202 vom 5.9.2024, S. 1) geändert worden ist,
 
 13.
 
-die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der VO (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197),
+die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der VO (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197), geändert durch die Durchführungsverordnung (EU) 2024/194 der Kommission vom 8. Januar 2024 (ABl. L vom 9.1.2024, S. 1),
 
 14.
 
@@ -756,19 +756,19 @@ die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsyste
 
 16.
 
-das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022 I S. 2262),
+das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022 I S. 2262), das durch Artikel 1a des Gesetzes vom 18. November 2024 (BGBl. 2024 I Nr. 356) geändert worden ist,
 
 17.
 
-die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 4. Dezember 2023 (BGBl. 2023 I Nr. 343) geändert worden ist,
+die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2024 (BGBl. 2024 I Nr. 396) geändert worden ist,
 
 18.
 
-das GAP-Konditionalitäten-Gesetz (GAPKondG) vom 16. Juli 2021 (BGBl. I S. 2996; 2022 I S. 2262),
+das GAP-Konditionalitäten-Gesetz (GAPKondG) vom 16. Juli 2021 (BGBl. I S. 2996; 2022 I S. 2262), das durch Artikel 1 des Gesetzes vom 18. November 2024 (BGBl. 2024 I Nr. 356) geändert worden ist,
 
 19.
 
-die GAP-Konditionalitäten-Verordnung (GAPKondV) vom 7. Dezember 2022 (BGBl. I S. 2244), die durch Artikel 1 des Gesetzes vom 9. Dezember 2022 (BGBl. I S. 2273) geändert worden ist,
+die GAP-Konditionalitäten-Verordnung (GAPKondV) vom 7. Dezember 2022 (BGBl. I S. 2244), die zuletzt durch Artikel 1 der Verordnung vom 16. Dezember 2024 (BGBl. 2024 I Nr. 417) geändert worden ist,
 
 20.
 
@@ -784,7 +784,8 @@ das Gesetz über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und 
 
 23.
 
-§ 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist.
+§ 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist.  
+
 
 Verweis auf Bundesgesetze
 
@@ -796,9 +797,9 @@ Fsn-Nr.: 5563-V23.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 23. August 2024
+Fassung gültig ab:  6. März 2025
 
-Fassung gültig bis:  5. März 2025
+Fassung gültig bis: 14. Dezember 2025
 
 Drucken/Speichern
 
@@ -823,7 +824,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19908.3
+https://www.revosax.sachsen.de/vorschrift/19908.4
 Stand vom
 18.11.2026
 
