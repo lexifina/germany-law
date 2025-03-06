@@ -1,0 +1,22 @@
+# Antrag der GRÜNEN-Fraktion auf Verkehrszählung in der Häuserstraße Nieder-Ofleiden
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-388/2021 6. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-03-06
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZam1hyPBuBfB5i3OSQQVcwo
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3366
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der GRÜNEN-Fraktion auf Verkehrszählung in der Häuserstraße Nieder-Ofleiden) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTId-yN4m-sQI4ImDvXZo57nJX485SRvwJvYDMgOhnM0/Beschlussvorlage_VL-388-2021_6._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag GRÜNEN-Fraktion - Verkehrszählung in der Häuserstraße Nieder-Ofleiden) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXkWacGxv5_xAg73XylZSnrIeHmSk0UrlTYhf53IMwvr/Antrag_GRUeNEN-Fraktion_-_Verkehrszaehlung_in_der_Haeuserstrasse_Nieder-Ofleiden.pdf
+- Anlage: Beschlussvorlage (Beschluss VL-388-2021 Bau- und Umweltausschuss 25.01.22) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRt6DSn9V7CCD_Pr4kyP6vaKRkmEX7EoyZj9sUc7dt68/Beschluss_VL-388-2021_Bau-_und_Umweltausschuss_25.01.22.pdf
+- Anlage: Beschlussvorlage (Verkehrszählung Häuserstraße Nieder-Ofleiden -Auswertung mit Anlagen und Erläuterung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTrbxWtSCOHo6cGbFiUNal1cM8H3EnTQUdtOEzcOrKyu/Verkehrszaehlung_Haeuserstrasse_Nieder-Ofleiden_-Auswertung_mit_Anlagen_und_Erlaeuterung.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/861 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/887 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1142 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1149 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1276 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1290 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1328 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-1
