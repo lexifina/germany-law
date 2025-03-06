@@ -1,0 +1,22 @@
+# VHS-Angebote auf Englisch ausbauen
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Drucksache/Vorlage: IX-0745
+- Art: Vorlage zur Kenntnisnahme § 13 BezVG /SB
+- Datum: 2025-03-06
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6687
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/papers.asp?id=6687
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=130&id=291704
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7740 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8008 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8240 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8256 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8233 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=124
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8249 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=124
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8266 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=124
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7816 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7844 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8725 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8728 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=at&id=4
