@@ -1,8 +1,8 @@
 # Förderrichtlinie Agrarumwelt- und Klimamaßnahmen Vollzitat: Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-08-27 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.4
+- Datum: 2025-03-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-27.08.2024
+06.03.2025
 bis
-05.03.2025
+14.12.2025
 
 Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
@@ -305,7 +305,7 @@ Begünstigte im Sinne dieser Förderrichtlinie sind natürliche oder juristische
 
 2.
 
-Unternehmen in Schwierigkeiten im Sinne von Artikel 2 Nummer 59 der Verordnung (EU) 2022/2472 sind von einer Förderung ausgeschlossen.
+Unternehmen in Schwierigkeiten im Sinne von Randnummer 33 Nummer 63 des Agrarrahmens sind von einer Förderung ausgeschlossen.
 
 3.
 
@@ -375,7 +375,7 @@ Für Maßnahmen auf Ackerland sind Bestandslücken durch Vernässung, Trockenhei
 Bei den Maßnahmen AL 1, AL 2, AL 3, AL 4, AL 5c, AL 6a, AL 6b, AL 7, AL 8, AL 9 und AL 11 sind Herbstaussaaten von der Maßnahme entsprechenden Winterkulturen vor Beginn des Verpflichtungszeitraumes beziehungsweise vor Beginn des relevanten Verpflichtungsjahres zulässig.
 
 
-Für die Maßnahmen AL 5a, AL 5b, AL 5c, AL 6a, AL 6b, AL 7, AL 13 sowie für Maßnahmen auf Grünland sind Ausnahmen von einzelnen Förderverpflichtungen, die über die in den einzelnen Maßnahmen genannten Ausnahmen hinausgehen, nur in begründeten Einzelfällen möglich, wenn die Zielstellung der ursprünglichen Förderverpflichtung weiterhin gegeben ist. Voraussetzung ist die Bestätigung der Ausnahme im Hinblick auf die Zielstellung der ursprünglichen Förderverpflichtung durch die zuständige Naturschutzfachbehörde gemäß § 46 Absatz 2 des Sächsischen Naturschutzgesetzes vom 6. Juni 2013 (SächsGVBl. S. 451), das zuletzt durch Artikel 6 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung, beziehungsweise durch die zuständige Wasserfachbehörde gemäß § 109 Absatz 2 Nummer 1 des Sächsischen Wassergesetzes vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung.
+Für die Maßnahmen AL 5a, AL 5b, AL 5c, AL 6a, AL 6b, AL 7, AL 13 sowie für Maßnahmen auf Grünland sind Ausnahmen von einzelnen Förderverpflichtungen, die über die in den einzelnen Maßnahmen genannten Ausnahmen hinausgehen, nur in begründeten Einzelfällen möglich, wenn die Zielstellung der ursprünglichen Förderverpflichtung weiterhin gegeben ist. Voraussetzung ist die Bestätigung der Ausnahme im Hinblick auf die Zielstellung der ursprünglichen Förderverpflichtung durch die zuständige Naturschutzfachbehörde gemäß § 46 Absatz 2 des Sächsischen Naturschutzgesetzes vom 6. Juni 2013 (SächsGVBl. S. 451), das zuletzt durch das Gesetz vom 22. Juli 2024 (SächsGVBl. S. 672) geändert worden ist, in der jeweils geltenden Fassung, beziehungsweise durch die zuständige Wasserfachbehörde gemäß § 109 Absatz 2 Nummer 1 des Sächsischen Wassergesetzes vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 3 des Gesetzes vom 19. Juni 2024 (SächsGVBl. S. 636) geändert worden ist, in der jeweils geltenden Fassung.
 
 
 Bei Maßnahmen auf Grünland können zusätzlich ungenutzte Bereiche rotieren und dürfen sich höchstens in zwei aufeinanderfolgenden Jahren auf derselben Stelle befinden.
@@ -401,7 +401,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha und
+Mindestschlaggröße: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -456,7 +456,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -483,7 +483,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha und
+Mindestschlaggröße: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -514,7 +514,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -757,7 +757,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha und
+Mindestschlaggröße: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -807,7 +807,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha und
+Mindestschlaggröße: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -858,7 +858,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße dazugehöriger Bruttoschlag: 0,3000 ha und
+Mindestschlaggröße dazugehöriger Bruttoschlag: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -966,7 +966,7 @@ Mindestschlaggröße: 0,1000 ha,
 b)
 
 
-Maßnahme muss auf allen sächsischen Ackerflächen des Betriebes eingehalten werden, die auf Feldblöcken mit mindestens einem Prozent Überschneidung mit FFH-Gebieten liegen, sofern diese Flächen nicht gleichzeitig in der Gebietskulisse für Schutzgebiete mit Bezug auf die Regelungen der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), zuletzt geändert durch Artikel 2 der Verordnung vom 1. Juni 2022 (BGBl. I S. 867), in der jeweils geltenden Fassung, liegen;
+Maßnahme muss auf allen sächsischen Ackerflächen des Betriebes eingehalten werden, die auf Feldblöcken mit mindestens einem Prozent Überschneidung mit FFH-Gebieten liegen, sofern diese Flächen nicht gleichzeitig in der Gebietskulisse für Schutzgebiete mit Bezug auf die Regelungen der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), zuletzt geändert durch Artikel 3 der Verordnung vom 24. Juni 2024 (BGBl. 2024 I Nr. 216), in der jeweils geltenden Fassung, liegen;
 ausgenommen sind Flächen mit den gleich- oder höherwertigen Maßnahmen AL 4, AL 5a, AL 5b, AL 5c, AL 6a, AL 6b, AL 14 gemäß dieser Förderrichtlinie sowie sonstige nichtproduktive Flächen und
 
 
@@ -1016,7 +1016,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha und
+Mindestschlaggröße: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -1047,7 +1047,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße dazugehöriger Bruttoschlag: 0,3000 ha,
+Mindestschlaggröße dazugehöriger Bruttoschlag: 0,1000 ha,
 
 
 b)
@@ -1088,7 +1088,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße dazugehöriger Bruttoschlag: 0,3000 ha,
+Mindestschlaggröße dazugehöriger Bruttoschlag: 0,1000 ha,
 
 
 b)
@@ -1143,12 +1143,12 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
 
-geförderte Erstaufforstung nach der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
+geförderte Erstaufforstung nach der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), geändert durch die Richtlinie vom 16. August 2024 (SächsABl. S. 1027), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
 
 
 c)
@@ -1172,7 +1172,7 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
-Die Maßnahme wird nach Maßgabe und unter Einhaltung der Voraussetzungen von Artikel 41 der Verordnung (EU) 2022/2472 umgesetzt. Bewilligungen kommen nur unter Beachtung der einschlägigen Veröffentlichungs- und Informationspflichten in Betracht.
+Die Maßnahme wird auf der Grundlage des Agrarrahmens erbracht. Die Europäische Kommission hat die Maßnahme per Beschluss vom 21.11.2024 in dem Verfahren SA.116256 (2024/N) zum Betreff „Sachsen: Entwicklung standortgerechter und klimaresilienter Mischwälder auf vormals als Ackerland (AL 14) bzw. Grünland (GL 10) genutzten Flächen nach einer Erstaufforstung“ genehmigt. Die jeweils einschlägige beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
 
 4.1.18
 
@@ -1184,7 +1184,7 @@ Folgende Fördervoraussetzung muss vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha und
+Mindestschlaggröße: 0,1000 ha und
 
 
 folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
@@ -1229,7 +1229,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -1278,7 +1278,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -1327,7 +1327,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -1386,7 +1386,7 @@ Mindestschlaggröße: 0,1000 ha,
 
 b)
 
-geförderte Umwandlung von Ackerland in Dauergrünland über die Förderrichtlinie Natürliches Erbe (FRL NE/2023) vom 20. Juni 2023 (SächsABl. S. 878), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
+geförderte Umwandlung von Ackerland in Dauergrünland über die Förderrichtlinie Natürliches Erbe (FRL NE/2023) vom 20. Juni 2023 (SächsABl. S. 878), geändert durch die Richtlinie vom 10. Juni 2024 (SächsABl. S. 675), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
 
 
 c)
@@ -1678,7 +1678,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -2338,7 +2338,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße des dazugehörigen Bruttoschlages: 0,3000 ha,
+Mindestschlaggröße des dazugehörigen Bruttoschlages: 0,1000 ha,
 
 
 b)
@@ -2383,7 +2383,7 @@ Folgende Fördervoraussetzungen müssen vorliegen:
 
 a)
 
-Mindestschlaggröße: 0,3000 ha,
+Mindestschlaggröße: 0,1000 ha,
 
 
 b)
@@ -2412,9 +2412,10 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
-Die Fläche muss in einem Vorrang- oder Vorbehaltsgebiet „Waldmehrung“ entsprechend der aktuellen Regionalplanung oder in einem festgesetzten „Hochwasserentstehungsgebiet“ gemäß § 76 Absatz 1 Satz 2 des Sächsischen Wassergesetzes, in Verbindung mit § 78d Absatz 2 Satz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, liegen.
+Die Fläche muss in einem Vorrang- oder Vorbehaltsgebiet „Waldmehrung“ entsprechend der aktuellen Regionalplanung oder in einem festgesetzten „Hochwasserentstehungsgebiet“ gemäß § 76 Absatz 1 Satz 2 des Sächsischen Wassergesetzes, in Verbindung mit § 78d Absatz 2 Satz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, liegen.  
 
-Die Maßnahme wird nach Maßgabe und unter Einhaltung der Voraussetzungen von Artikel 41 der Verordnung (EU) 2022/2472 umgesetzt. Bewilligungen kommen nur unter Beachtung der einschlägigen Veröffentlichungs- und Informationspflichten in Betracht.
+
+Die Maßnahme wird auf der Grundlage des Agrarrahmens erbracht. Die Europäische Kommission hat die Maßnahme per Beschluss vom 21.11.2024 in dem Verfahren SA.116256 (2024/N) zum Betreff „Sachsen: Entwicklung standortgerechter und klimaresilienter Mischwälder auf vormals als Ackerland (AL 14) bzw. Grünland (GL 10) genutzten Flächen nach einer Erstaufforstung“ genehmigt. Die jeweils einschlägige beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
 
 
 V.
@@ -2493,7 +2494,7 @@ Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Öko-Regelu
 Kombination mit Förderrichtlinie ÖBL/2023
 
 
-Eine Kombination von Maßnahmen dieser Förderrichtlinie mit einer Bewirtschaftung nach der Förderrichtlinie Ökologischer/Biologischer Landbau vom 4. Oktober 2022 (SächsABl. 2023, S. 334), die durch die Richtlinie vom 16. Oktober 2023 (SächsABl. S. 1420) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, ist möglich. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Maßnahmen der Förderrichtlinie ÖBL/2023 sind unter https://www.lsnq.de/auk2023 veröffentlicht. Die Bemessung der Zuwendungen erfolgt in Abhängigkeit der Maßnahmen.
+Eine Kombination von Maßnahmen dieser Förderrichtlinie mit einer Bewirtschaftung nach der Förderrichtlinie Ökologischer/Biologischer Landbau vom 4. Oktober 2022 (SächsABl. 2023, S. 334), die zuletzt durch die Richtlinie vom 23. August 2024 (SächsABl. S. 1041) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, ist möglich. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Maßnahmen der Förderrichtlinie ÖBL/2023 sind unter https://www.lsnq.de/auk2023 veröffentlicht. Die Bemessung der Zuwendungen erfolgt in Abhängigkeit der Maßnahmen.
 
 1.2.3
 
@@ -2650,8 +2651,6 @@ Transparenz
 
 Bei Maßnahmen, die aus Mitteln des Europäischen Garantiefonds für die Landwirtschaft (EGFL) oder des Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) finanziert werden, veröffentlicht der Freistaat Sachsen aufgrund von Artikel 98 der Verordnung (EU) 2021/2116 und der Artikel 58 sowie Artikel 59 der Durchführungsverordnung (EU) 2022/128 die Informationen zu Namen und Gemeinde der Begünstigten, gegebenenfalls einschließlich der Informationen über Gruppen, denen die Begünstigten gemäß Artikel 59 Absatz 4 der Verordnung (EU) 2021/2116 angehören, den Maßnahmencode, maßnahmenbezogen das spezifische Ziel, das Anfangs- und das Enddatum, die Beträge für den EGFL, den ELER einschließlich der Kofinanzierung sowie die entsprechenden Gesamtbeträge einschließlich des EU-Gesamtbetrages.
 
-Zusätzlich sind bei den Maßnahmen AL 14 und GL 10, die auf der Grundlage der Verordnung (EU) 2022/2472 gewährt werden, die beihilferechtlichen Transparenzpflichten für Einzelbeihilfen zu beachten.
-
 Teil B
 GAK-finanzierte Maßnahmen
 
@@ -2694,7 +2693,8 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 
 f)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist,  
+
 
 g)
 
@@ -3291,7 +3291,8 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 
 f)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist,  
+
 
 g)
 
@@ -3312,7 +3313,7 @@ Ein Anspruch der Begünstigten auf Gewährung des Erschwernisausgleichs besteht 
 II.
 Gegenstand der Förderung/des Erschwernisausgleichs
 
-Förder-/ausgleichsfähig ist der in § 4 Absatz 1 der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), die zuletzt durch Artikel 2 der Verordnung vom 1. Juni 2022 (BGBl. I S. 867) geändert worden ist, in der jeweils geltenden Fassung festgelegte Verzicht auf die Anwendung bestimmter Pflanzenschutzmittel in Naturschutzgebieten, Nationalparks, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 5 des Gesetzes vom 8. Mai 2024 (BGBl. 2024 I Nr. 153) geändert worden ist.
+Förder-/ausgleichsfähig ist der in § 4 Absatz 1 der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), die zuletzt durch Artikel 3 der Verordnung vom 24. Juni 2024 (BGBl. 2024 I Nr. 216) geändert worden ist, in der jeweils geltenden Fassung festgelegte Verzicht auf die Anwendung bestimmter Pflanzenschutzmittel in Naturschutzgebieten, Nationalparks, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist.
 
 III.
 Begünstigte
@@ -3655,14 +3656,16 @@ Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des InVeKoS.
 Ablehnung, Kürzung, Sanktionierung, Rückforderung und Verzinsung
 
 
-Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere der Artikel 57, 59, 62, 84 und 85 der Verordnung (EU) 2021/2116 und die Artikel 7 ff. der delegierten Verordnung (EU) 2022/1172 sowie die nationalen Umsetzungsregelungen und § 1 Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den §§ 48 und 49 des Verwaltungsverfahrensgesetzes in der jeweils geltenden Fassung.
+Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere der Artikel 57, 59, 62, 84 f. und 88 f. der Verordnung (EU) 2021/2116 und die Artikel 7 ff. der delegierten Verordnung (EU) 2022/1172 sowie die nationalen Umsetzungsregelungen und § 1 Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den §§ 48 und 49 des Verwaltungsverfahrensgesetzes in der jeweils geltenden Fassung.  
+
 
 Stellt die Bewilligungsbehörde fest, dass die Begünstigten nicht alle Flächen gemäß Artikel 8 der Durchführungsverordnung (EU) 2022/1173 angegeben haben oder liegen Übererklärungen vor, wird entsprechend § 46 f. GAPInVeKoSV die Auszahlung ganz oder teilweise abgelehnt oder die Förderung ganz oder teilweise zurückgenommen.
 
 
-Stellt die Bewilligungsbehörde fest, dass andere Fördervoraussetzungen oder Förderverpflichtungen als Größe der Fläche nicht erfüllt sind, wird auf der Grundlage des Artikels 57 Absatz 1 der Verordnung (EU) 2021/2116 die Auszahlung abgelehnt oder die Förderung ganz oder teilweise gemäß § 1 SächsVwVfZG in Verbindung mit §§ 48 und 49 des Verwaltungsverfahrensgesetzes zurückgenommen. Dabei sind nach Artikel 59 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2021/2116 Schwere, Ausmaß, Dauer und Häufigkeit des Verstoßes zu berücksichtigen.
+Stellt die Bewilligungsbehörde fest, dass andere Fördervoraussetzungen oder Förderverpflichtungen als Größe der Fläche nicht erfüllt sind, wird auf der Grundlage des Artikels 57 Absatz 1 der Verordnung (EU) 2021/2116 die Auszahlung abgelehnt oder die Förderung ganz oder teilweise gemäß § 1 SächsVwVfZG in Verbindung mit §§ 48 und 49 des Verwaltungsverfahrensgesetzes zurückgenommen. Dabei sind nach Artikel 59 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2021/2116 Schwere, Ausmaß, Dauer und Häufigkeit des Verstoßes zu berücksichtigen.  
 
-Ein Verstoß gegen die Grundanforderungen an die Betriebsführung (GAB) gemäß Unionsrecht und die auf nationaler Ebene aufgestellten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 aufgrund einer unmittelbar der begünstigten Person anzulastenden Handlung oder Unterlassung führt nach den Artikeln 12 Absatz 2 der Verordnung (EU) 2021/2115, den Artikeln 83 ff. der Verordnung (EU) 2021/2116, der Artikel 6 ff. der delegierten Verordnung (EU) 2022/1172, den §§ 19 ff. GAP-Konditionalitäten-Gesetz (GAPKondG) und §§ 36 ff. GAPKondV dazu, dass der Gesamtbetrag der in dem betreffenden Kalenderjahr zu gewährenden Förderung gekürzt oder keinerlei Zahlung geleistet wird.
+
+Ein Verstoß gegen die Grundanforderungen an die Betriebsführung (GAB) gemäß Unionsrecht und die auf nationaler Ebene aufgestellten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 oder gegen die Anforderungen bezüglich geltender Arbeits- und Beschäftigungsbedingungen oder Arbeitgeberverpflichtungen nach Artikel 14 Absatz 1 in Verbindung mit Anhang IV der Verordnung (EU) 2021/2115 aufgrund einer unmittelbar der begünstigten Person anzulastenden Handlung oder Unterlassung führt nach den Artikeln 12 Absatz 2 bzw. Artikel 14 Absatz 3 der Verordnung (EU) 2021/2115, den Artikeln 83 ff. sowie 87 ff. der Verordnung (EU) 2021/2116, der Artikel 6 ff. der delegierten Verordnung (EU) 2022/1172, den §§ 21 ff. GAP-Konditionalitäten-Gesetz (GAPKondG) und §§ 31 ff. GAPKondV dazu, dass der Gesamtbetrag der in dem betreffenden Kalenderjahr zu gewährenden Förderung gekürzt oder keinerlei Zahlung geleistet wird.
 
 
 Neben der Rückforderung von zu Unrecht gezahlten Beträgen werden Zinsen gemäß § 49 a Absatz 3 des Verwaltungsverfahrensgesetzes erhoben.
@@ -3865,7 +3868,7 @@ Für das ELER-Förderverfahren gelten insbesondere die nachfolgenden Bestimmunge
 
 1.
 
-die Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rates vom 18. Juli 2018 über die Haushaltsordnung für den Gesamthaushaltsplan der Union, zur Änderung der Verordnungen (EU) Nr. 1296/2013, (EU) Nr. 1301/2013, (EU) Nr. 1303/2013, (EU) Nr. 1304/2013, (EU) Nr. 1309/2013, (EU) Nr. 1316/2013, (EU) Nr. 223/2014, (EU) Nr. 283/2014 und des Beschlusses Nr. 541/2014/EU sowie zur Aufhebung der Verordnung (EU, Euratom) Nr. 966/2012 (ABl. L 193 vom 30. Juli 2018, S. 1),
+die Verordnung (EU, Euratom) 2024/2509 des Europäischen Parlaments und des Rates vom 23. September 2024 über die Haushaltsordnung für den Gesamthaushaltsplan der Union (ABl. L 239 vom 26.9.2024, S. 1),
 
 2.
 
@@ -3873,7 +3876,7 @@ Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung 
 
 3.
 
-die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (GAPSPV – ABl. L 435 vom 6.12.2021, S. 1), die durch die Delegierte Verordnung (EU) 2022/648 der Kommission vom 15. Februar 2022 (ABl. L 119 vom 21.4.2022, S. 1) geändert worden ist,
+die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (GAPSPV – ABl. L 435 vom 6.12.2021, S. 1), zuletzt geändert durch die Verordnung (EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L 1468 vom 24.5.2024, S. 1),
 
 4.
 
@@ -3881,35 +3884,35 @@ GAP-Strategieplan 2023–2027 für die Bundesrepublik Deutschland, genehmigt mit
 
 5.
 
-die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 die durch die Delegierte Verordnung (EU) 2022/1408 der Kommission vom 16. Juni 2022 (ABl. L 216 vom 19.8.2022, S. 1) geändert worden ist,
+die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013, zuletzt geändert durch die Verordnung (EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L 1468 vom 24.5.2024, S. 1),
 
 6.
 
-die Delegierte Verordnung (EU) 2022/127 der Kommission vom 7. März 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95),
+die Delegierte Verordnung (EU) 2022/127 der Kommission vom 7. März 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95), zuletzt geändert durch die Delegierte Verordnung (EU) 2023/1448 der Kommission vom 10. Mai 2023 (ABl. L 179 vom 14.7.2023, S. 2),
 
 7.
 
-die Delegierte Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik und der Verhängung und Berechnung von Verwaltungssanktionen im Bereich der Konditionalität (ABl. L 183 vom 8.7.2022, S. 12),
+die Delegierte Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik und der Verhängung und Berechnung von Verwaltungssanktionen im Bereich der Konditionalität (ABl. L 183 vom 8.7.2022, S. 12), zuletzt geändert durch die Delegierte Verordnung (EU) 2023/744 der Kommission vom 2. Februar 2023 (ABl. L 99 vom 12.4.2023, S. 1),
 
 8.
 
-die Durchführungsverordnung (EU) Nr. 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131),
+die Durchführungsverordnung (EU) Nr. 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131), zuletzt geändert durch die Durchführungsverordnung (EU) 2023/2773 der Kommission vom 13. Dezember 2023 (ABl. L 2773 vom 14.12.2023, S. 1),
 
 9.
 
-die Durchführungsverordnung (EU) Nr. 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (ABl. L 183 vom 8.7.2022, S. 23),
+die Durchführungsverordnung (EU) Nr. 2022/1173 der Kommission vom 31. Mai 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems im Rahmen der Gemeinsamen Agrarpolitik (ABl. L 183 vom 8.7.2022, S. 23), die durch die Durchführungsverordnung (EU) 2024/2202 der Kommission vom 4. September 2024 (ABl. L 2202 vom 5.9.2024, S. 1) geändert worden ist,
 
 10.
 
-die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der VO (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197–205),
+die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der VO (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197–205), geändert durch die Durchführungsverordnung (EU) 2024/194 der Kommission vom 8. Januar 2024 (ABl. L, 2024/194, 9.1.2024, S. 1),
 
 11.
 
-die Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671), aktualisiert durch die Verordnung (EU) 2021/2117 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 zur Änderung der Verordnungen (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, (EU) Nr. 1151/2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel, (EU) Nr. 251/2014 über die Begriffsbestimmung, Beschreibung, Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und (EU) Nr. 228/2013 über Sondermaßnahmen im Bereich der Landwirtschaft zugunsten der Regionen in äußerster Randlage der Union (ABl. L 453 vom 6.12.2021, S. 262),
+die Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671), aktualisiert durch die Verordnung (EU) 2021/2117 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 zur Änderung der Verordnungen (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, (EU) Nr. 1151/2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel, (EU) Nr. 251/2014 über die Begriffsbestimmung, Beschreibung, Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und (EU) Nr. 228/2013 über Sondermaßnahmen im Bereich der Landwirtschaft zugunsten der Regionen in äußerster Randlage der Union (ABl. L 453 vom 6.12.2021, S. 262), zuletzt geändert durch die Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 (ABl. L 1143 vom 23.4.2024, S. 1),
 
 12.
 
-die Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21. Dezember 2022, S.1), die zuletzt durch die Verordnung (EU) 2023/2607 der Kommission vom 22. November 2023 (ABl. L, 2023/2607, 23.11.2023) geändert worden ist,
+die Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (ABl. C 485 vom 21.12.2022, S. 1), die zuletzt durch die Mitteilung der Kommission vom 5. März 2024 (ABl. C, C/2024/1902, 5.03.2024) geändert worden ist – Agrarrahmen –,
 
 13.
 
@@ -3922,19 +3925,19 @@ die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsyste
 
 15.
 
-das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022 I S. 2262),
+das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022 I S. 2262), das durch Artikel 1a des Gesetzes vom 18. November 2024 (BGBl. 2024 I Nr. 356) geändert worden ist,
 
 16.
 
-die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 4. Dezember 2023 (BGBl. 2023 I Nr. 343) geändert worden ist,
+die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2024 (BGBl. 2024 I Nr. 396) geändert worden ist,
 
 17.
 
-das GAP-Konditionalitäten-Gesetz (GAPKondG) vom 16. Juli 2021 (BGBl. I S. 2996; 2022 I S. 2262),
+das GAP-Konditionalitäten-Gesetz (GAPKondG) vom 16. Juli 2021 (BGBl. I S. 2996; 2022 I S. 2262), das durch Artikel 1 des Gesetzes vom 18. November 2024 (BGBl. 2024 I Nr. 356) geändert worden ist,
 
 18.
 
-die GAP-Konditionalitäten-Verordnung (GAPKondV) vom 7. Dezember 2022 (BGBl. I S. 2244), die durch Artikel 1 des Gesetzes vom 9. Dezember 2022 (BGBl. I S. 2273) geändert worden ist,
+die GAP-Konditionalitäten-Verordnung (GAPKondV) vom 7. Dezember 2022 (BGBl. I S. 2244), die zuletzt durch Artikel 1 der Verordnung vom 16. Dezember 2024 (BGBl. 2024 I Nr. 417) geändert worden ist,
 
 19.
 
@@ -3942,7 +3945,8 @@ die Sächsische GAP-Umsetzungsverordnung vom 2. Januar 2023 (SächsGVBl. S. 8),
 
 20.
 
-das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist.
+das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist.  
+
 
 Verweis auf Bundesgesetze
 
@@ -3954,9 +3958,9 @@ Fsn-Nr.: 5563-V23.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 27. August 2024
+Fassung gültig ab:  6. März 2025
 
-Fassung gültig bis:  5. März 2025
+Fassung gültig bis: 14. Dezember 2025
 
 Drucken/Speichern
 
@@ -3981,7 +3985,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19912.4
+https://www.revosax.sachsen.de/vorschrift/19912.5
 Stand vom
 18.11.2026
 
