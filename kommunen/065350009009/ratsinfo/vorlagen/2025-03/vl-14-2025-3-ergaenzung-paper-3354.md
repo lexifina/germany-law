@@ -1,0 +1,21 @@
+# Antrag Bürgermeisterin Simke Ried - Hauptsatzung der Stadt Homberg (Ohm)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-14/2025 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-03-06
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZRU7ysAaeEZeQ-eH0fdigHI
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3354
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag Bürgermeisterin Simke Ried - Hauptsatzung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR_o-bVYE-horUDvgTiKFIISEFQPDhi0xDT7N4tjRii5/Beschlussvorlage_VL-14-2025_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Bürgermeisterin Simke Ried - Hauptsatzung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcn8exbxMvQeQEV18xfT_MiMgaL0XxrWo2188MrOLhvW/Antrag_Buergermeisterin_Simke_Ried_-_Hauptsatzung_der_Stadt_Homberg_-Ohm-.pdf
+- Anlage: Beschlussvorlage (250206  25-02-01 Vermerk für HFA) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc74mWJtOLWsTxERZSv7P6rMgHWR2gSBqRBtuKDQK1js/250206__25-02-01_Vermerk_fuer_HFA.pdf
+- Anlage: Beschlussvorlage (250206 Hauptsatzung aktuell) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdf8PjxrWaWglsYGZudZ_7-bDjCATff6zSiZvCCawzL5/250206_Hauptsatzung_aktuell.pdf
+- Anlage: Beschlussvorlage (250206 HSGB_KOMPAKT_15_2024) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWh0ElbuSHkAMuOU0YzumJkOV1iYpylcghr1cFcuQfjX/250206_HSGB_KOMPAKT_15_2024.pdf
+- Anlage: Beschlussvorlage (250228 Arbeitsentwurf HFA) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYucAQ5vi0ql477ekZR-oLkkIuXdAwqCocpENjdYChc0/250228_Arbeitsentwurf_HFA.pdf
+- Anlage: Beschlussvorlage (250228 Neufassung Hauptsatzung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_IF2ZaNYxaySIMLi8tn52oQPRFkxJvk9u-uUWzbude/250228_Neufassung_Hauptsatzung.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1319 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1321 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1326 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1328 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-1
