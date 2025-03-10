@@ -1,0 +1,22 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2025, Investitionsprogramm 2024-2028
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2025-0768 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-03-10
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZP6fdiTQTvIh30OS0GYsUo
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/2251
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2025, Investitionsprogramm 2024-2028) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd55vTlXz7YtN4p3ONOuFCouXYdqSBzhjFjQNH9GMANK/Beschlussvorlage_XII-2025-0768_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1_Zusammenstellung Ansatzkorrekturen_Haushalt 2025_Ausschüsse.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcUOzFOXC1bAgFI-vm7i9fmK9ICwjc76ue2RbqOWKBa8/Anlage_1_Zusammenstellung_Ansatzkorrekturen_Haushalt_2025_Ausschuesse.pdf.pdf
+- Anlage: Beschlussvorlage (Anlage 2_Zusammenfassung der Stellungnahmen Ortsbeiräte_Kita) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMPPFMzg1RGGwEQsHPRcjOGdkmiy15cV3YxKv8m2j0Q/Anlage_2_Zusammenfassung_der_Stellungnahmen_Ortsbeiraete_Kita.pdf
+- Anlage: Beschlussvorlage (Anlage 3_ fortgeschriebene HH-Satzung 2025) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUM7OTPB-ePzTQixBzQ3l1tliz27tJRstdhQ9tEKeP9F/Anlage_3__fortgeschriebene_HH-Satzung_2025.pdf
+- Anlage: Beschlussvorlage (Anlage 4_fortgeschriebener Ergebnis_Finanzhaushalt 2025) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRw8d1WknxBE6i0_qiKf4b5jcYq_OgY1dXcp4-lxiaVY/Anlage_4_fortgeschriebener_Ergebnis_Finanzhaushalt_2025.pdf
+- Anlage: Beschlussvorlage (Anlage 5_Investitionsprogramm 2024-2028) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYruezQZlIwncUP5L94fFLlqJ3RzifstKOezN_tKuL5L/Anlage_5_Investitionsprogramm_2024-2028.pdf
+- Anlage: Beschlussvorlage (Anlage 6_Haushaltsvorbericht 2025_Stand 28.01.2025) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVhkESOZOqN3EKXnKGwGV3joPtnatqAWtPtIvmidNyyy/Anlage_6_Haushaltsvorbericht_2025_Stand_28.01.2025.pdf
+- Anlage: Beschlussvorlage (Anlage 7_Stellenplan) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWOin3w1PyfkUC1WM6y_6jiGsf8ZybiEyWfZQYKt19m5/Anlage_7_Stellenplan.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1851 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1852 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1853 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1850 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
