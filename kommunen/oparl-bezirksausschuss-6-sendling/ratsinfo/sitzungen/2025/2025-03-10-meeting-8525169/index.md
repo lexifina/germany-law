@@ -1,0 +1,123 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-03-10T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525169
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525169
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 07.01.2025 und 03.02.2025
+- TOP 1.2.: UA-Budget-Sitz von Fraktion Bündnis90/die Grünen an ÖDP
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Verunreinigter Weg entlang der S-Bahn-Gleise Richtung Harras
+- TOP 2.2.: Anliegen zum Flauchergelände Richtung Innenstadt – weiterer Vorschlag
+- TOP 2.3.: Gefährdung von Fußgängern und Hunden durch schnelle Fahrräder und E-Bikes
+- TOP 2.4.: Schlichtungsgespräch zur Nutzung des Sendlinger Kirchplatzes – Öffnung des Schulhofes in der Meindlstraße
+- TOP 2.5.: Baustelle in der Schäftlarnstraße 92 / Bruderhofstraße 43
+- TOP 2.6.: Straßenschild „Lypowskistraße“ fehlt
+- TOP 2.7.: Fahrradstellplätze in der Gotzinger Straße
+- TOP 2.8.: Fahrradstellplätze in der Sylvensteinstraße
+- TOP 2.9.: Baumaßnahme in der Lindenschmitstraße 25
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Das Herbstlaub bleibt in den städtischen Grünanlagen
+- TOP 4.1.2.: (E) + (U) Lösung zum Sendlinger Loch
+- TOP 4.1.3.: (E) Beleuchtung der Skate- und Sportanlage in den Neuhofener Anlagen Nord
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Denkmalneuerkennung Kidlerstraße 39
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 4.3.2.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 4.3.3.: Bürgerbegehren "Grünflächen erhalten" Bekanntgabe der Evaluierung der Auswirkungen der durch den Stadtrat übernommenen Forderung des Bürgerbegehrens
+- TOP 4.3.4.: Generalsanierung BSA Wackersbergerstraße 49 – aktueller Sachstand, Bauablaufplan/ Terminplan, Maßnahmen zur Kompensation des verspäteten Baubeginns
+- TOP 4.3.5.: Implerstraße 11 (KVR) – versiegelte Fläche vs. Biodiversität
+- TOP 4.3.6.: Gehölzstreifen am Sportgelände zwischen Matthias-Mayer-Straße 4 und Sportplatz
+- TOP 4.3.7.: Finanzierung des Vermieteranteils der CO2-Abgabe
+- TOP 4.3.8.: Baumfällung auf dem Grundstück der Thalkirchner Straße 276
+- TOP 4.3.9.: Baumfällung auf dem Grundstück der Hans-Preißinger-Straße 16
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Hochwassersituation Kleingartenanlage SW 24 (Dietramszeller- / Schäftlarnstraße) – gemeinsamer Ortstermin mit Frau Bürgermeisterin Dietl und der Baureferentin am 10.03.2025 um 16.30 Uhr
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Optimierung der Ampelschaltung Albert-Roßhaupter-Straße / Plinganserstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Fahrradständer Oberländerstraße Zwischen Aberlestraße und Daiserstraße
+- TOP 5.2.2.: Veranstaltung in einer städtischen Grünanlage; Sommertreff Familienzentrum/Mütterzentrum Sendling am Dietramszeller Platz (Spielplatz) vom 05.05.-22.10.2025
+- TOP 5.2.3.: MVG-Anpassungsprogramm 2026: Anhörung der Bezirksausschüsse; Stellungnahme des Fahrgastverbands PRO BAHN
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Informationsschreiben bezüglich der Genehmigung von Foodtrucks auf dezentralen Plätzen außerhalb des Altstadtrings
+- TOP 5.3.2.: Anfrage zur Plinganserstraße in Sendling BA-Antrags-Nr. 20-26 / B 03698 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 07.03.2022 - Zwischennachricht -
+- TOP 5.3.3.: Margaretenplatz Geschwindigkeitskontrolle oder Tempo-30-Anzeige
+- TOP 5.3.4.: Sammelbeschluss zur Behandlung von Bürgerversammlungsempfehlungen – Bereich Mobilität / ÖPNV
+- TOP 5.3.5.: Greinerberg 17; streckenbezogenes Tempo 30 im Bereich Seniorenheim
+- TOP 5.3.6.: Neu-Aufstellung einer Sitzbank an der Ecke Roter-Turm-Platz / Esswurmstraße
+- TOP 5.3.7.: Neu-Aufstellung einer Sitzbank an der Ecke Alramstraße / Danklstraße
+- TOP 5.3.8.: Anbringen eines Spiegels auf Verkehrsinsel vor Brudermühlstraße
+- TOP 5.3.9.: Verkehrsrechtliche Anordnungen für Carsharing im Stadtbezirk
+- TOP 5.3.10.: Parklet in der Schöttlstraße - Sommersaison 2025
+- TOP 5.3.11.: Ganghoferstraße – Verlegung personenbez. Behindertenparkplatz
+- TOP 5.3.12.: Baumaßnahmen der SWM - Stromprojekt Meindlstraße - Stromprojekt Schäftlarnstraße - Stromprojekt Plinganserstraße - Stromprojekt Karwendelstraße - Fernwärmeprojekt Wackersberger Straße
+- TOP 5.3.13.: Tempo 30 in der Brudermühlstraße zwischen Implerstraße und Schäftlarnstraße Empfehlung Nr. 20-26 / E 02464 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 21.11.2024 - Zwischennachricht -
+- TOP 5.3.14.: Radweg vor dem Volkstheater Anfrage Nr. 20-26 / Q 00568 aus der Bürgerversammlung des Stadtbezirkes 06 – Sendling am 21.11.2024
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Neue Toilettenanlage am Herzog-Ernst-Platz (Seniorenvertretung)
+- TOP 5.4.2.: Sicherheit der RadfahrerInnen gewährleisten (SPD)
+- TOP 5.4.3.: Brief bzgl. Renovierung der Mauer der Alten Sendlinger Kirche (B90 / Die Grünen, Beauftragte für Nachhaltigkeit)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. "Sommer-Feier-Abend" der Sendlinger Kulturschmiede in der Daiserstraße am 26.07.2025“ AZ: 0262.0-6-0534/ 4.110,00 €
+- TOP 6.1.2.: (E) Stadtbezirksbudget VCP Sendling - Stamm im Verband Christlicher Pfadfinder*innen Bayern „Ein und ein halbes Zelt für den VCP Sendling ab April 2025“ 2.190,00 € / AZ: 0262.0-6-0535
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Anhörung zum Beschlussentwurf: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Kantorat an der Himmelfahrtskirche – 17. Sendlinger Orgelnacht - Parklet Kochelseestraße - Kollektiv Herzfeld – 08.11.18; Diese Revolution hat kein Lied - Familienzentrum Sendling; Spielebox am Dietramszeller Platz - Kantorat an der Himmelfahrtskirche; Brahms ein deutsches Requiem
+- TOP 6.3.2.: Stadtbezirksbudget - Aktualisierung Richtlinien und Antragsformular
+- TOP 6.3.3.: Kommunalwahl 2026: Informationsschreiben BA 01 / 25; neues Verfahren zur Feststellung der BA-Größe; Zeitpunkt für die konkrete Berechnung der jeweiligen BA-Größen
+- TOP 6.3.4.: Ehrenamt muss abgesichert sein BA-Antrag Nr. 20-26 / B 07293 des Bezirksausschusses 9 – Neuhausen-Nymphenburg
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Miteinander in Sendling (B 90 / Die Grünen)
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Projekt „Coffee with a Jew“
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Priorisierung der Instandsetzungen der offenen Einrichtungen für Kinder und Jugendliche sowie Familienzentren; Hansastraße 39-41 – Feierwerk; Thalkirchner Straße 96-102 – Jugendfreizeitstätte Tröpferlbad, Kafe Marat Generalsanierung des Kindergartens „Kinderkreis Sendling“ Empfehlung Nr. 20-26 / E 00412 der Bürgerversammlung des Stadtbezirkes 06 – Sendling am 12.10.2021 Sitzungsvorlage Nr. 20-26 / 13870
+- TOP 7.3.2.: AKIM Bericht – 1. Jahreshälfte 2025
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Bekanntgabe Erfahrungsbericht über die Eignung der Theresienwiese für Großveranstaltungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.10.: Tauben und Ratten am Sendlinger Loch
+- TOP 4.3.10.: Meldung von Baumfällungen und / oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der Bezirksausschussatzung durch das Baureferat
+- TOP 5.3.15.: Verkehrssicherheit an der Kreuzung Brudermühl- / Thalkirchner Straße
+- TOP 2.11.: Sanierung der Steinerstraße und die Parksituation um das OCM
+- TOP 4.3.11.: Das Herbstlaub bleibt in den städtischen Grünanlagen
+- TOP 5.3.16.: Die Leipartstraße soll sauberer werden
+- TOP 8.1.1.: Antrag auf Genehmigung eines Schanigartens in der Implerstraße 23 für eine Gaststätte
+- TOP 2.12.: Parkplätze in der Spitzwegstraße
+- TOP 6.1.3.: (E) Stadtbezirksbudget Init. "Der fantastische Stamm der Demokratie" „Filmworkshop "Der fantastische Stamm der Demokratie" vom 22.05.2025 - 30.05.2025“ 3.500,00 € / AZ: 0262.0-6-0538
+- TOP 5.3.17.: Barrierefreier Aufgang Zechstraße/ Flößergasse BV Empfehlung Nr. 14-20 / E 00285 - Zwischennachricht -
+- TOP 5.3.18.: MVG Anpassungsprogramm 2025/26
+- TOP 2.13.: Informationen zum Sendlinger Loch
