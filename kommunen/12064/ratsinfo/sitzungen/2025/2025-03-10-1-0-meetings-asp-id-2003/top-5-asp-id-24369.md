@@ -1,0 +1,6 @@
+# TOP 5: Änderung des Nahverkehrsplanes 2025-2029 (gemäß Beschluss des Kreistages vom 12.02.2025)
+
+- Sitzung: 4. Sitzung des Ausschusses für Wirtschaft (2025-03-10)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=24369
