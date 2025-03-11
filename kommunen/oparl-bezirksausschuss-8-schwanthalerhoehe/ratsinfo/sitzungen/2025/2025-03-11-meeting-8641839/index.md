@@ -1,0 +1,113 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8641839
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8641839
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Nachbesetzung der Unterausschüsse Umwelt, Mobilität und Klimaschutz sowie Bauen, Planen, Wohnungsbau und Gewerbe durch die Fraktion Die Grünen
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Vorstellung der Arbeit in der Unterkunft Ridlerstr. 13
+- TOP 4: Bürger*innen haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Landsberger Straße 111
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ridlerstraße 38
+- TOP 6.2.2.: Bauvorhaben Theresienhöhe 5
+- TOP 6.2.3.: Bauvorhaben Schwanthalerstraße 164
+- TOP 6.2.4.: Bauvorhaben Landsberger Straße 14
+- TOP 6.2.5.: Bauvorhaben Guldeinstraße 48
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Baustopp in der Ligsalzstraße 25 – Wie weiter mit dem „Schwanthaler Loch“?
+- TOP 6.3.2.: Suchkreismeldung Mobilfunk Heimeranplatz
+- TOP 6.3.3.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.4.: Sachstand Bauvorhaben Tulbeckstraße 32
+- TOP 6.3.5.: Meldelisten Bauvorhaben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: AKIM-Bericht vom 1. Halbjahr 2025
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung für Jugendliche auf dem Georg-Freundorfer-Platz am 05.04.2025
+- TOP 8.2.2.: Bladenight 2025 mit Start-Ziel Am Bavariapark ab 05.05.2025
+- TOP 8.2.3.: Tischtennisturnier des BA8 am 21.06.2025; Grünanlage Georg‐Freundorfer‐Platz, Grünanlage Gollierplatz Grünanlage „Kazmairwiese“ und IG‐Feuerwache, Ganghoferstr. 41
+- TOP 8.2.4.: Erfahrungsbericht über die Eignung der Theresienwiese für Großveranstaltungen Sitzungsvorlage Nr. 20-26 / V 15863
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Führung des Kulturreferates durch die Dokumentation Oktoberfestattentat am 04.04.2025, 16:00 Uhr
+- TOP 8.3.2.: Versammlung am Georg-Freundorfer-Platz am 08.03.2025
+- TOP 8.3.3.: Sich fortbewegende Versammlung; Start am Georg-Freundofer-Platz am 20.02.2025
+- TOP 8.3.4.: Versammlung in der Heimeranstraße 31 am 22.02.2025
+- TOP 8.3.5.: Umbenennung des Sinti-Roma-Platzes in Sinti*zze-Rom*nja-Platz
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Färbung des neuen Zebrastreifens in der Ganghoferstraße während des Pride-Months
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Sammelbeschluss zur Behandlung von Bürgerversammlungsempfehlungen; Verbot von E-Scootern im Stadtgebiet; Empfehlung Nr. 20-26 / E 01958 vom 18.04.2024
+- TOP 9.2.2.: Anordnung von PKW-Parken am Fußgängerübergang Ganghoferstraße / Anglerstraße; bauliche Lösung zur Verbesserung der Sichtbeziehung am Fußgängerübergang
+- TOP 9.2.3.: MVG-Anpassungsprogramm 2026
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Grün statt grau: Überdimensionierte Asphaltierungen auf der Theresienwiese rückgängig machen und dauerhaft Flächen entsiegeln
+- TOP 9.3.2.: Umwandlung eines Kfz-Stellplatzes in Fahrradstellplätze an der August-Kühn-Straße 10
+- TOP 9.3.3.: Umwandlung eines Kfz-Stellplatzes in Fahrradstellplätze an der Schießstättstraße 30
+- TOP 9.3.4.: Informationsveranstaltung des Mobilitätsreferates am 13.03.2025
+- TOP 9.3.5.: Meldelisten Bauvorhaben SWM
+- TOP 9.3.6.: Verdeutlichung der Tempo-30-Zone im Bereich der Westendstraße
+- TOP 9.3.7.: Wiederherstellung des Grünstreifens am Oda-Schäfer-Weg
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. "Druckgraphiken" Ausstellungsprojekt: Petroglyphs vom 15.3. -05.04.2025 990,00€; Az. 0262.0-8-0430
+- TOP 10.1.2.: (E) Stadtbezirksbudget Lora Förderverein e.V. Westend-Perspektiven vom 01.04. -30.09.2025 2.456,40€; Az. 0262.0-8-0433
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. "Theaterbox München" Theater für Alle -Theater in deiner Kneipe vom 28.04. -30.06.2025 2.745,00€; Az. 0262.0-8-0435
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Beschlussentwurf: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 12.2.2.: Sitzungstermine BA8 in 2026
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Ehrenamt muss abgesichert sein; BA-Antrags Nr. 20-26 / B 07293 des BA9 vom 19.11.2024
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.2.5.: Kurdisches Neujahrsfest NEWROZ am Gollierplatz am 20.03.2025
+- TOP 8.3.6.: Sich fortbewegende Versammlung am Georg-Freundorfer-Platz am 08.03.2025
+- TOP 4.1.: Standortvorschlag Gratis-Sonnencreme-Spender
+- TOP 7.3.2.: Aufstellung von Equip-Boxen am Georg-Freundorfer-Platz
+- TOP 4.2.: Aufbau temporärer Beachvolleyballfelder
+- TOP 12.3.2.: Informationsschreiben 02 / 2025; Kommunalwahl 2026: Voraussetzungen für die Bildung von Fraktionszusammenschlüssen und Ausschussgemeinschaften
+- TOP 8.2.6.: Schallplattenflohmarkt am Platz Am Bavariapark am 12.07.2025
+- TOP 8.3.7.: Versammlung in der Schießstattstr. 14 am 07.03.2025
+- TOP 9.3.8.: MVG-Anpassungsprogramm 2026 - Stellungnahme Fahrgastverband PRO BAHN
+- TOP 9.3.9.: Zebrastreifen Kreuzungsbereich östlich Ligsalzstraße/Heimeranstraße
+- TOP 4.3.: Temporäre Kunstinstallation "Wasserbank und Hochbeete" am Alten Messeplatz
+- TOP 8.3.8.: Pilotbezirke Street Art und Graffiti, Flächenpool; Stadtratsantrag Nr. 20-26 A03623
+- TOP 11.1.: Wieder Kahlschlag am Rande des Bavariaparks
+- TOP 4.4.: Glascontainer Ecke Bergmannstraße/Westendstraße
+- TOP 8.2.7.: Veranstaltung am Georg-Freundorfer-Platz; Kinder-Theater im Theaterzelt - Kasperltheater vom 03.04.2025 bis 06.04.2025
+- TOP 10.1.1.1: Stadtbezirksbudget Init. "Druckgraphiken" Ausstellungsprojekt: Petroglyphs vom 15.3. -05.04.2025
+- TOP 10.1.5.: Budgetantrag "Neue Umweltmesse München 2025"; Umsetzung und Nacharbeit
+- TOP 10.1.4.: (E) Stadtbezirksbudget Init. "Umweltmesse München" „Neue Umweltmesse München am 17.04.2025“ 3.900,00 € / AZ: 0262.0-8-0432
+- TOP 2.2.: Jubiläum 60. Münchner Frühlingsfest auf der Theresienwiese; Antrag auf Verlängerung der Spielzeit Frühlingsfest 2026
+- TOP 7.3.3.: Empfehlung Nr. 20-26 / E 01967 Fahrkostenbefreiung für Schülerinnen und Schüler auf dem Schulweg, Bildungsausschuss des Stadtrates vom 02.04.2025
+- TOP 9.4.1.: Protokoll UA Budget und Finanzen 2025-03-10
+- TOP 9.4.2.: Protokoll UA Kultur und Integration 2025-03-06
