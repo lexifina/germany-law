@@ -1,0 +1,54 @@
+# Verwaltungsrat
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-03-11T18:30:00+01:00
+- Ende: 2025-03-11T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3631
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3631
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Zwischenbericht NBuS-Projektgruppe – Informationsvorlage - Kenntnisnahme
+- TOP 4: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 19.02.2025
+- TOP 4.1: Christian-Kropp-Straße in Gustorf sicherer machen - einstimmig beschlossen
+- TOP 4.2: Straßenbeleuchtung auf dem Elsener Kirmesplatz - einstimmig beschlossen
+- TOP 4.3: Parksituation "Am Eichenbroich", Langwaden - einstimmig beschlossen
+- TOP 4.4: Schülerhaltestellen-Elterntaxi - einstimmig beschlossen
+- TOP 4.5: Schulwegsicherung zur Viktoria-Grundschule in Frimmersdorf - einstimmig beschlossen
+- TOP 5: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege
+- TOP 6: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 7: Schriftliche Anträge
+- TOP 7.1: Anträge der SPD-Fraktion
+- TOP 7.1.1: Restaurierung der historischen Friedhofsmauer des Allrather Friedhofs - einstimmig beschlossen
+- TOP 7.1.2: Verbesserung der Abfall- und Kompoststation auf dem Allrather Friedhof - einstimmig beschlossen
+- TOP 7.1.3: Einrichtung einer individuellen Gedenkstelle auf dem Friedhof Allrath - einstimmig beschlossen
+- TOP 7.2: Anträge der CDU-Fraktion
+- TOP 7.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 7.4: Anträge der FDP-Fraktion
+- TOP 7.4.1: Schützenplatz in Hemmerden fit für die Zukunft machen - einstimmig beschlossen
+- TOP 7.4.2: Verkehrssicherheit durch neue Beschilderung „Zur Waldwiese", Neuenhausener Straße, "Auf der Schanze" erhöhen - einstimmig beschlossen
+- TOP 7.4.3: Gefahrenquelle an der Bushaltestelle „Mühlenstraße" im Stadtteil Gindorf beseitigen - einstimmig beschlossen
+- TOP 7.4.4: Wendehammer/Weg am Ende der St.-Leonhard-Straße in Gindorf - einstimmig beschlossen
+- TOP 7.4.5: Einführung teilanonymisierter Bestattungsformen auf dem Friedhof Hülchrath ermöglichen - einstimmig beschlossen
+- TOP 7.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 7.5.1: Umbesetzung des Beirat für Umwelt, Klimaschutz, Natur und Landschaftspflege - einstimmig beschlossen
+- TOP 7.5.2: Verkehrsberuhigende Maßnahmen in Form von 30er-Markierungen sowie Smiley-Anlagen einrichten - einstimmig beschlossen
+- TOP 7.5.3: Antrag-Prüfauftrag: Pflege/ Baumschnitt des Bahndamms an der Straße „Alte Stadtgärtnerei“ in Laach - einstimmig beschlossen
+- TOP 7.5.4: Antrag: Prüfauftrag Verkehrssicherheit aufgrund von Wasserlachen / Pfützenbildung auf der Straße „Auf der Metzenheide“ in Münchrath - einstimmig beschlossen
+- TOP 7.6: Anträge der UWG-Fraktion
+- TOP 8: Gemeinschaftsanträge
+- TOP 9: Schriftliche Anfragen
+- TOP 9.1: Anfragen der FDP-Fraktion
+- TOP 9.1.1: Instandhaltung der Wege im Tiergehege - Kenntnisnahme
+- TOP 9.1.2: Wie geht es weiter mit dem Kolumbarium am Waldfriedhof Gustorf - Kenntnisnahme
+- TOP 9.2: Anfragen der Fraktion Mein Grevenrboich
+- TOP 9.2.1: Ausschreibung der Bänke in der Innenstadt - Kenntnisnahme
+- TOP 10: Anfragen von Verwaltungsratsmitgliedern
+- TOP 11: Mitteilungen des Vorstandes
+- TOP 12: Mitteilungen des Verwaltungsratsvorsitzenden
