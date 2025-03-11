@@ -1,0 +1,7 @@
+# TOP 9: Neugestaltung Friedhof und Anschaffungen für den Friedhof
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Boden (2025-03-11)
+- Körperschaft: Ortsgemeinde Boden
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2025-02OGR-66%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 9 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2025-02OGR-66%7Czt_2%7C1
