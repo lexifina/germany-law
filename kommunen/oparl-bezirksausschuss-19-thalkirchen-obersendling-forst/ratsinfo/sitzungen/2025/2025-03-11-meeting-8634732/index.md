@@ -1,0 +1,74 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-03-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634732
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634732
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 11.02.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (A) Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 2.4.: Schließung und Sanierung des Bades Forstenrieder Park
+- TOP 2.5.: Jahresempfang 2025 des Bezirksausschuss 19
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Leocor gGmbH -Klimainitiative München Seminarreihe "Wildkräuter erkennen -verarbeiten -anwenden" vom 03.04. -25.09.2025 730,00€; Az. 0262.0-19-0567
+- TOP 3.3.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. /Münchner Kinder- und Jugendforum Abschlussveranstaltung und Ausstellung "Ran an die Stadtteil-Koffer!" vom 16.06. -31.07.2025 6.130,00€; Az. 0262.0-19-0569
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Mobilfunk-Suchkreismeldung Neuforstenried
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Tempo 30 in der Fraunbergstraße und Schäftlarnstraße am Thalkirchner Platz
+- TOP 5.2.: (A) Neubau der Lichtsignalanlage in der Limmat-/Züricherstraße
+- TOP 5.3.: (A) Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 5.4.: (E) Erhalt des Obst- und Gemüsestandes am Fellerer Platz Empfehlung Nr. 20-26 / E 02287 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 17.10.2024
+- TOP 5.5.: (E) Beendigung des verkehrsbehindernden Abstellens von E-Scootern
+- TOP 5.6.: (Antrag) Sicherung Geh- und Radweg vor der Postfiliale Herterichstraße
+- TOP 5.7.: (Antrag) Sambergerstraße als Schulstraße widmen
+- TOP 5.8.: (A) Barrierefreier Ausbau der Haltestelle Hofbrunnstraße
+- TOP 5.9.: (E) Busbetrieb 134 auf 10-Minutentakt umstellen
+- TOP 5.10.: (E) Verbesserung der Schulwegsicherheit in der Walliser Straße
+- TOP 5.11.: (A) MVG-Anpassungsprogramm 2026
+- TOP 5.12.: Bürgersteig Sicherheit in der Georg-Strebl-Straße
+- TOP 5.13.: Querungshilfe oder Geschwindigkeitsbeschränkung am Greinerberg
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Waterloostraße 45
+- TOP 6.2.2: Boschetsrieder Straße 71 (VB)
+- TOP 6.2.3: Machtlfinger Straße 28 (VB)
+- TOP 6.2.4: Neurieder Straße 4 (T)
+- TOP 6.2.5: Mühlthaler Straße 93b (VB)
+- TOP 6.2.6: Parkmeisterstraße 9 (VB)
+- TOP 6.2.7: Hofbrunnstraße 5 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Bladenight 2025 ab 05.05.2025, Start: Am Bavariapark
+- TOP 8.3.: (A) Veranstaltung: Nachbarschaftsfest mit Flohmarkt im Christel-Küpper-Platz/Eleonore-Romberg-Str am 24.05.2025
+- TOP 8.4.: (A) Veranstaltung: Megamarsch 2025 neue Strecke von München nach Garmisch von 17.05 bis 18.05.2025
+- TOP 8.5.: (U) Gaststättenfortführung: Hofmannstraße
+- TOP 8.6.: (A) Veranstaltung: Maibaumfest Thalkirchen am Thalkirchner Platz vom 01.05.2025 bis 03.05.2025
+- TOP 9: Verschiedenes
+- TOP 7.2.: (Anfrage) Flüchtlingsunterkunft Meglinger Str. 7
+- TOP 8.7.: (A) Veranstaltung: „VerWunderLand - OpenAir-Theater" Silvrettaweg am 01.05.2025
+- TOP 4.4.: (A) Mobilfunk-Suchkreismeldung Obersendling
+- TOP 8.8.: (U) Veranstaltung: "Kindertheater" Wolfratshauser / Noestraße vom 07.-16.03.2025
+- TOP 7.3.: (Antrag) Kindergarten Lollipop – Priorisierung der betroffenen Kinder
