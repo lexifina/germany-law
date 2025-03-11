@@ -1,0 +1,161 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2025-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8465310
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8465310
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Wartung 30-er Zone (FF UA MuV)
+- TOP 2.1.2.2.: Bürgeranliegen; Parklet in der Gietlstraße (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Spiegel Fußgängerbrücke Auguste-Kent Platz (FF UA MuV)
+- TOP 2.1.2.4.: Bürgeranliegen; Tempo 30 in der Chiemgaustr. (FF UA MuV)
+- TOP 2.1.2.5.: Bürgeranliegen; Verschmutzung Lincolnstr. 58 (FF UA Umwelt)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1.: Vorstellung des Projekts DaSein
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Fasangartenstr. 102
+- TOP 3.10.2.: Tegernseer Landstr. 210
+- TOP 3.10.3.: Hefnerstr. 8
+- TOP 3.10.4.: Werinherstr. 56 - Unterrichtung - Gefahrenbäume zur Fällung freigegeben
+- TOP 3.10.5.: Schwanseestr. 18
+- TOP 3.10.6.: Heimgartenstr. 21a
+- TOP 3.10.7.: Balanstr. 344
+- TOP 3.10.8.: Minnewitstr. 25
+- TOP 3.10.9.: Kiefernstr. 1
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) Elternbeirat der Grundschule an der Sankt-Martins-Straße Tanz- und Theaterprojekt Schuljahr 2024/25, 28.04. - 07.05.2025 3.030,00€; Az. 0262.0-17-0472
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA FSA) Gesellschaft für Soziale Arbeit gGmbH Deutschkurse für Anfänger:innen und Fortgeschrittene vom 25.03. -31.12.2025 3.445,00€; 0262.0-17-0479
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Kultur) Ensemble La Vie e.V. Zu Gehör.t" -Eine szenische Lesereihe zum Thema Zugehörigkeit vom 20.03. -30.12.2025 2.600,00€; Az. 0262.0-17-0477
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Umwelt) Init. "Parklet Obergiesing" Mehr Grün und Aufenthaltsqualität für die Gietlstraße vom 01.04. -31.10.2025 8.900,00€; Az. 0262.0-17-0478
+- TOP 5.1.5.: (E) Stadtbezirksbudget (FF UA FSA) Giesinger Mädchen* Treff Textilwerkstatt vom 14.04.2025 - 25.04.2025 975,00€; 0262.0-17-0480
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Stadtbezirksbudget - Aktualisierung Richtlinien und Antragsformular
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Tegernseer Landstr. 155 - Errichtung einer digitalen Werbeanlage 100 Zoll an der Hausfassade
+- TOP 6.1.3.2.: Münchberger Str. 33 - Neubau eines Einfamilienhauses mit Garage - ÄNDERUNGSANTRAG zu 1.23-2023-3412-33
+- TOP 6.1.3.3.: Aignerstr. 14 - Umbau und Sanierung des städtischen Anwesens Aignerstraße 14 für die Nutzung als KITA in München
+- TOP 6.1.3.4.: Lincolnstr. 60 - Umgestaltung der Jugendspielfläche bei der Jugendfreizeitstätte " Red Dragon " mit Errichtung einer Lärmschutzwand und einer Containerburg Für die Errichtung der Lärmschutzwände wird mit Baubeginn ein Standsicherheitsnachweis Erforderlich Für die Errichtung der Containerburg ist kein Standsicherheitsnachweis Erforderlich
+- TOP 6.1.3.5.: (E) Wiederherstellung der Spielflächen an der AWO Freizeitstätte Red Dragon
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung "Trauchberger- / Forggenseestr." - Trauchbergstr. 4 - Weißenseestr. 28 - Chiemgaustr. 71 - Deisenhofener Str. 112 - Weißenseestr. 12 - Weißenseestr. 48 - Forggenseestr. 11
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße" hier; Deisenhofener Str. 41
+- TOP 6.1.4.3.: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 6.1.4.4.: Weltstadt mit Wachstumsschmerzen: München muss das Wachstum begrenzen
+- TOP 6.1.4.5.: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Verlängerung der Grünphase für Fußgänger der Fußgängerampelschaltung über die Chiemgaustraße, Ecke Traunsteiner Straße
+- TOP 6.3.2.2.: (E) Einrichtung eines Fußgängerüberweg an der Kreuzung Stadelheimer Straße und Frasdorfer Straße
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Schwansee-/ Wallbergstr. (Frist bis 14.03.2025)
+- TOP 6.3.3.2.: MVG-Anpassungsprogramm 2026: Anhörung der Bezirksausschüsse (Frist bis 28.03.2025) Stellungnahme von PRO Bahn
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Parklizenzgebiet Giesinger Bahnhof
+- TOP 6.3.4.2.: Antwortschreiben auf ein Bürgeranliegen; Verkehrssituation Maxlrain/Schlierseestr.
+- TOP 6.3.4.3.: Vormerkung und verkehrsrechtliche Anordnung nach § 45 StvVO; Aufhebung Parken Z.314 StVO mit Zusatzschild - Lincolnstr. 26,28, 30
+- TOP 6.3.4.4.: Tempo 30 in der Tegernseer Landstraße
+- TOP 6.3.4.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: hier: In der Lincolnstraße Südseite wird westlich der Einmündung Leifstraße, (am Lichtmast 38) ein Zeichen 102 StVO (Kreuzung oder Einmündung) aufgestellt.
+- TOP 6.3.4.6.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/41 Bahnlinie München Ost - Deisenhofen (östlich), Ständlerstraße (südlich) und Lauensteinstraße (nördlich) – Erweiterung Trambahn-Betriebshof Endgültiger Beschluss Stadtbezirk 16 – Ramersdorf-Perlach Stadtbezirk 17 – Obergiesing-Fasangarten
+- TOP 6.3.4.7.: Bürgeranliegen und Antwort des Mobilitätsreferat Gestaltung Radverkehr in der Chiemgaustr.
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Antwortschreiben auf ein Bürgeranliegen; Fehlende Mülleimer in der Bayerischzeller Str.
+- TOP 6.4.4.2.: Bürgerbegehren "Grünflächen erhalten" Bekanntgabe der Evaluierung der Auswirkungen der durch den Stadtrat übernommenen Forderung des Bürgerbegehrens
+- TOP 6.4.4.3.: Lichtverschmutzung auf dem Gelände des Asam Gymnasium
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Anhörung für die Erteilung einer öffentlichen-rechtlichen Sondernutzungserlaubnis hier; Silberhornstr. / Ecke Ichostr. Fahrradsicherheitscheck (Frist: 30.03.2025)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Bürgeranliegen; Foodtrucks für die Stadtviertel
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Informationsschreiben bezüglich der Genehmigung von Foodtrucks auf dezentralen Plätzen außerhalb des Altstadtrings
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Anhörung zum Beschlussentwurf: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Rückmeldungen der Bezirksausschüsse zum Antrag Nr. 20-26 / 07422 des BA 17 Postfiliale am Tegernseer Platz
+- TOP 7.3.2.: Informationsschreiben BA 01 / 2025; Kommunalwahl 2026: • neues Verfahren zur Feststellung der BA-Größe • Zeitpunkt für die konkrete Berechnung der jeweiligen BA-Größen
+- TOP 7.3.3.: Postfiliale am Tegernseer Platz
+- TOP 7.3.4.: Anfrage - Ehrenamt muss abgesichert sein
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: Einladung zu den jeweiligen UA - Sitzungen im März
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachtrag TOP 2.1.2.6 Bürgeranliegen Reinigung von Grünflächen im Ehrenamt
+- TOP 1.2.2.: Nachtrag TOP 6.4.5.1 Antrag zur Sitzungsvorlage Nr. 20-26 /V 15617 - Grünflächen erhalten.
+- TOP 2.1.2.6.: Bürgeranliegen; Reinigung von Grünflächen im Ehrenamt
+- TOP 6.4.5.1.: Grünflachen erhalten - Ergänzung zur Sitzungsvorlage Nr. 20-26 / V 15617
