@@ -1,0 +1,52 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-03-12T17:00:00+01:00
+- Ende: 2025-03-12T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000104
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000104
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1419614&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 1.1: Einführung eines neuen Ratsmitgliedes - zur Kenntnis genommen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Bericht über die Prüfung des Jahresabschlusses 2023 - ungeändert beschlossen
+- TOP 4: Erhöhung der Verbandsumlage des Region Aachen Zweckverbands für das Haushaltsjahr 2025 - ungeändert beschlossen
+- TOP 4.1: Wirtschaftsplan für den Eigenbetrieb Kultur E 49 für das Jahr 2025 - geändert beschlossen
+- TOP 5: Haushaltsplanberatungen einschließlich Stellenplan:
+- TOP 5.1: Haushaltsreden
+- TOP 5.2: Stellenplan 2025 und Entwicklung der Personal- und Versorgungsaufwendungen 2025 - ungeändert beschlossen
+- TOP 5.3: Haushaltsplanberatungen 2025 - ungeändert beschlossen
+- TOP 6: Bereitstellung von Räumlichkeiten für die Hugo-Junkers-Realschule in dem Gebäude Eintrachtstraße 3 – außerplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 7: Bedarfsplanung für die Kindertagesbetreuung in der Stadt Aachen für das KiTa-Jahr 2025/2026 - ungeändert beschlossen
+- TOP 8: Abschlussbericht "Gute Schule 2020" - zur Kenntnis genommen
+- TOP 9: Bebauungsplan Nr. 977 - Kullenhofstraße / Neuenhofer Weg - hier: - Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Vorhabenbezogener Bebauungsplan Nr. 1005 - Kullenhofstraße / Neubau Psychiatrie - hier: - Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 11: Gefahrenabwehrplanung: Erstellung Katastrophenschutzbedarfsplan Stadt Aachen 2025 - zur Kenntnis genommen
+- TOP 12: Vereinbarung über finanzielle Zuwendungen für Baumpflanzungen - ungeändert beschlossen
+- TOP 13: Anfragen:
+- TOP 13.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 13.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 14: Ratsanträge - ungeändert beschlossen
+- TOP 15: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 15.1: Umbesetzungsantrag der GRÜNE-Fraktion vom 10.03.2025 - ungeändert beschlossen
+- TOP 15.2: Umbesetzungsantrag der Fraktion DIE Zukunft vom 12.03.2025 - ungeändert beschlossen
+- TOP 16: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
