@@ -1,0 +1,123 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8709015
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8709015
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Aufstellung einer Regenbogenbank vor der Stadtbibliothek in Laim
+- TOP 2.2.: Antrag zur Etablierung des Projekts „ Lasst uns mal ran!“
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Zeitungskiosk, Agnes-Bernauer-Str. 89 Ecke Laimer Anger
+- TOP 3.2.: Zeitungskiosk Grünanlage am Laimer Platz
+- TOP 3.3.: (E) Preisaufschlag für Feuerwerkskörper wegen Kosten für die Beseitigung von Silvestermüll einführen
+- TOP 3.4.: (E) Ruhestörung durch Biergarten der Gaststätte Laimers
+- TOP 3.5.: (E) Vergrößerung der Asphaltfläche bei der Wertstoffinsel am Agnes-Bernauer-Platz
+- TOP 3.6.: (E) Errichtung eines öffentlich zugänglichen Fußballplatzes / Basketballplatzes
+- TOP 3.7.: (E) Stadtbezirksbudget MobilSpiel e. V. MobilSpiel-Fest 2025 - Viele Projekte, ein Fest am 27.04.2025 1.970,00 €; Az. 0262.0-25-0361
+- TOP 3.8.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fürstenrieder Straße Aufbau der Schulbibliothek ab 15.01.2025 3.500,00 Euro, Az.: 0262.0-25-0356 (UA Bildung und Gesundheit)
+- TOP 3.9.: (E) Stadtbezirksbudget Machwerk e.V., Atelierwerkstatt Atelier für ALLE Spezial - Kreativität kennt keine Grenzen - Unity in Diversity am 28.03.2025 470,00 Euro, Az.: 0262.0-25-0362
+- TOP 3.10.: (E) Stadtbezirksbudget Machwerk e.V., Atelierwerkstatt Offenes Atelier für Erwachsene – Kreativität für Vielfalt am 27.03.2025 470,00 Euro, Az.: 0262.0-25-0363
+- TOP 3.11.: (E) Stadtbezirksbudget Machwerk e.V., Atelierwerkstatt Modewoche "ZukunftsFantasie" an der Grundschule Von-der-Pfordten-Straße 80 vom 12. - 16.05.2025 2.850,00 Euro, Az.: 0262.0-25-0364 (UA Bildung und Gesundheit)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 23.01.25: Veranstaltung im Freien in städtischer Grünanlage; Hier: Hogenbergplatz, Flohmarkt des Familienzentrum Laim am 05.04.2025 (Ersatztermin: 12.04.25); 11-14 Uhr; PAX 200, 60-80 Stände
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 23.01.25: Veranstaltung im Freien in städtischer Grünanlage; Hier: Am Laimer Anger (Riegerhofweg), Ökumenischer Gottesdienst „Licht am Laimer Anger“ am 09.07.2025; 18-22 Uhr; PAX 70, 30 Bänke, mit Live-Musik
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 30.01.25: Veranstaltung im Freien in städtischer Grünanlage; Hier: Weißenfelderplatz, Flohmärkte (Frühjahr+Herbst) der Kindertagesstätte "Die Bärchen e.V." mit Abgabe von Speisen und alkoholfreien Getränken am 18.5.25 + 14.9.25 (ohne Ersatztermin); 14 - 17 Uhr; PAX 200, Pavillon, 2 Tische, keine Musik
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 13.02.25: Anhörung § 29 StVO - Bladenight 2025 ab 05.05.2025, Start/Ziel: Am Bavariapark (Bez. 8) - Frist: 28.03.2025
+- TOP 4.6.: Schreiben Mobilitätsreferat vom 27.01.25: Anhörung Kurzzeitparklatz Käpflstr. 11
+- TOP 4.7.: Schreiben Direktorium vom 06.02.25: Anhörung zum Beschlussentwurf: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 4.8.: Schreiben MVG vom 21.02.25: MVG-Anpassungsprogramm 2026
+- TOP 4.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.02.25: Bebauungsplan mit Grünordnung Nr. 2147 - Paket Post-Areal; Behandlung der Empfehlungen aus den Bürgerversammlungen und der Anträge (UA Bau)
+- TOP 4.10.: Schreiben Referat für Arbeit und Wirtschaft vom 19.02.25: Finanzielle Entlastung durch Stadtwerke München für Geschädigte von Heizkostenwucher (BV-Empf. Nr. 20-26/ E 02527)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 30, Grundstück 53/0-Laim Schulbauoffensive - Errichtung von mobilen Schulraumeinheiten für 4 Klassen für eine Grundschule (Standzeit: 08/2016 - 12/2024) - ÄNDERUNGSANTRAG zu 1.1-2015-17988-23 hier: Standzeitverlängerung für 11 Jahre (Fürstenrieder Str. 30 / Mathunistr. 10)
+- TOP 5.2.: Vosslerstr. 9, Grundstück 138/13-Laim Nutzungsänderung der Lager- und Speicherflächen in Wohnungen, Balkon-Anbau
+- TOP 5.3.: Zschokkestr. 73, Grundstück 391/3-Laim 5-geschossige Überbauung (26 Appartments) über einer Apotheke - ÄNDERUNGSANTRAG zu 1.2-2019-19358-23
+- TOP 5.4.: Agnes-Bernauer-Str. 92, Grundstück 33/2-Laim Var. 6 - Wohngebäude - VORBESCHEID
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben BA 17 Obergiesing-Fasangarten vom 22.01.25: Antrag Nr. 20-26 / B 07422; Postfiliale Tegernseer Platz
+- TOP 6.2.: Vorstellung AKIM - Allparteiliches Konfliktmanagement München // BA 25
+- TOP 6.3.: Bank Am Laimer Anger
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 06.02.25
+- TOP 7.2.: Protokoll UA Kultur vom 09.01.25
+- TOP 7.3.: Protokoll UA Soziales und UA Bildung/Gesundheit vom 21.01.25
+- TOP 7.4.: Protokoll UA Bau vom 30.01.25
+- TOP 7.5.: Protokoll UA Umwelt, Klima und Baumschutz vom 03.02.25
+- TOP 7.6.: Protokoll UA Mobilität vom 28.01.25
+- TOP 7.7.: Protokoll UA Kultur vom 06.02.25
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 06.02.25: Kommunalwahl 2026: Informationsschreiben BA 01 / 25; neues Verfahren zur Feststellung der BA-Größe; Zeitpunkt für die konkrete Berechnung der jeweiligen BA-Größen
+- TOP 8.2.: Schreiben Direktorium vom 30.01.25: Stadtbezirksbudget - Aktualisierung Richtlinien und Antragsformular
+- TOP 8.3.: Schreiben Direktorium vom 11.02.25: Vierteljährliche Zuschussübersicht Budgetanträge
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.01.25: Fällungsantrag Hartelstr. 30
+- TOP 8.5.: Bautenliste 13.01.25-19.01.25: A) Erstantragsverfahren 1. Friedenheimer Str. 134 2. Vosslerstr. 9 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Fürstenrieder Str. 30 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 155
+- TOP 8.6.: Bautenliste 20.01.-26.01.25: A) Erstantragsverfahren 1. Elsenheimerstr. 65 2. Lutzstr. 25 a B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Zschokkestr. 73 2. Flotowstr. 7a
+- TOP 8.7.: Bautenliste 27.01.25-02.02.25: A) Erstantragsverfahren 1. Meister-Mathis-Weg 6 2. Schedelstr. 8 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 92
+- TOP 8.8.: Bautenliste 03.02.25-09.02.25: A) Erstantragsverfahren 1. Agnes-Bernauer-Str. 53 2. Veit-Stoß-Str. 9
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.02.25: Fällungsantrag Willibaldstr. 35
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.02.25: Elsenheimerstr. 41 - 43
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.02.25: Tram-Westtangente, Tektur E Teil 2
+- TOP 8.12.: Schreiben Baureferat vom 21.01.25: Stand Austausch und Ergänzung Lichtsignalanlage Fachner/ Westendstraße
+- TOP 8.13.: Schreiben Baureferat vom 23.01.25: Unterrichtung des Bezirksausschusses über Projektgenehmigung Kanalneubau Zschokkestraße (U-1799)
+- TOP 8.14.: Schreiben Baureferat vom 20.01.25: Schrotträder in der Laimer Röhre abräumen
+- TOP 8.15.: Schreiben SWM vom 12.02.25: Unter- oder Überquerung Fürstenrieder Str. in Höhe des alten Tunnels beim ehemaligen Karstadt oder Valpichlerstr
+- TOP 8.16.: Schreiben SWM vom 29.01.25: Baumaßnahmen
+- TOP 8.17.: Schreiben SWM vom 11.02.25: Baumaßnahmen
+- TOP 8.18.: Schreiben Kommunalreferat vom 20.02.25: Zweites Alten- und Servicezentrum (ASZ) für Laim auf dem Grundstück in der Agnes-Bernauer-Straße zeitnah einrichten
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 05.02.25: Mitteilung über unveränderte Fortführung eines Betriebs - SSW "Song&#039;s Kitchen", Landsberger Str. 214
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 06.02.25: Mitteilung über unveränderte Fortführung eines Betriebs - "FOGON Latino Bar", ehem. "Safari Chomabase", Landsberger Str. 214
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 05.02.25: Stadtratsbeschluss Foodtrucks - Infoschreiben an BA
+- TOP 8.22.: Schreiben Mobilitätsreferat vom 22.01.25: Fürstenrieder Str._SAH-AIN_6.1+5.2_U 00107_25_SWM_VAO komplett Abdruck
+- TOP 8.23.: Schreiben Mobilitätsreferat vom 24.01.25: Fürstenrieder Str._Bereich HOG Ost_U 00121_25_SWM - VAO komplett Abdruck
+- TOP 8.24.: Schreiben Mobilitätsreferat vom 28.01.25: Fürstenrieder Str._AIN-GOT_Bph 5.1_Änderung_U 00139_25_SWM - VAO komplett Abdruck
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 06.02.25: Verkehrsrechtliche Anordnung Aufhebung Schulbushaltestelle Hans-Thonauer-Straße
+- TOP 8.26.: Schreiben Mobilitätsreferat vom 31.01.25: Fürstenrieder Str. AMM Bph. 4.1.3.2 BE Kärntner Pl._U 00191_25_SWM_wei - VAO komplett Abdruck
+- TOP 8.27.: Schreiben Mobilitätsreferat vom 10.02.25: Fürstenrieder Str. LAK - ABS Bph. 5 + Baumfällarbeiten_U 00265_25_SWM_VAO komplett Abdruck
+- TOP 8.28.: Schreiben Mobilitätsreferat vom 12.02.25: Fürstenrieder Str._AIN-GOT Bph 5.1+ 4.2.3_U 00297_25_SWM_VAO komplett Abdruck
+- TOP 8.29.: Schreiben Mobilitätsreferat vom 13.02.25: Fürstenrieder Str._SAH-AIN_6.1+5.2_Änderung_U 00301_25_SWM_VAO komplett Abdruck
+- TOP 8.30.: Schreiben Mobilitätsreferat vom 23.01.25: Einrichtung von Fahrradstraßen auf Anliegerfahrbahnen der Landsberger Straße
+- TOP 8.31.: Schreiben Mobilitätsreferat vom 18.02.25: Bescheid VA Gotthardstr. BPh320 vom 03.03. bis 16.06.2025 (U 00325/25; ersetzt U 03424/24)
+- TOP 8.32.: Schreiben Mobilitätsreferat vom 18.02.25: Bescheid VA Gotthardstr. 87 bis 93 vom 24.02. bis 07.03.2025 (U 00336/25; 3. Zwischenphase zu BP310 Index A; Engstelle Agricolatr.)
+- TOP 8.33.: Schreiben Mobilitätsreferat vom 18.02.25: Fürstenrieder Str._SAH-AIN_6.1+5.2_2. Änderung_U 00329_25_SWM_VAO komplett Abdruck
+- TOP 8.34.: Schreiben Mobilitätsreferat vom 21.02.25: Abdruck VAO Fürstenrieder Str._ABS Bph. 5.2.1_u_5.2.2_U 00380_25_SWM
+- TOP 8.35.: Schreiben Mobilitätsreferat vom 21.02.25: Stöberlstr. 31 - Vollsperre
+- TOP 8.36.: Parklizenzgebiete Laim
+- TOP 8.37.: Beschluss des Mobilitätsausschusses vom 29.01.25: (U) Parkraummanagement in München - Umsetzung Sektor VI, Teil 2
+- TOP 8.38.: Beschluss des Mobilitätsausschusses vom 13.11.24: (U) Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing Baulos 1 Entscheidungsvorschlag zur Oberflächenwiederherstellung U5 Laim-Pasing - Abschnitt Gotthardstraße (von Von-der-Pfordten-Str. bis Fischer-von-Erlach-Straße) – (Stadtbezirke 21 und 25) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung
+- TOP 8.39.: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 16.01.25: Abfallwirtschaftsbetrieb München (AWM); Einrichtung eines kostenlosen halbjährlichen Abholservice für Sperrmüll Halbjährliche kostenlose Sperrmüllabfuhr
+- TOP 8.40.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 12.02.25: Bürgerbegehren "Grünflächen erhalten" Bekanntgabe der Evaluierung der Auswirkungen der durch den Stadtrat übernommenen Forderung des Bürgerbegehrens
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.02.25: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.02.25: Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS) Satzung zur Änderung der Satzung der Landeshauptstadt München über die Gestaltung und Ausstattung der unbebauten Flächen der bebauten Grundstücke und über die Begrünung baulicher Anlagen (Gestaltungs- und Begrünungssatzung)
+- TOP 8.43.: Beschluss der Vollversammlung vom 18.12.24: Schul- und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 Entnahme der Grundschule Am Mitterfeld aus dem 3. Schulbauprogramm und Erteilung des des Vorplanungsauftrags an die MRG
+- TOP 8.44.: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 12.02.2025: Weltstadt mit Wachstumsschmerzen: München muss das Wachstum begrenzen
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Containerstandplätze (Weitergabe an AWM)
+- TOP 9.2.: Agricolastraße Bereich Agnes-Bernauerstrasse/ Valpicherlstraße Antrag zur Erneuerung der Fahrbahndecke (Nachfrage beim Baureferat)
+- TOP 9.3.: Verschmutzung Straubinger Str. (Weiterleitung Remondis und Baureferat)
+- TOP 9.4.: Baustelle Ecke Camerloher-/ Stroblstr. (Weiterleitung Mobilitätsreferat)
+- TOP 9.5.: Gelbe Tonne (Weiterleitung AWM)
+- TOP 9.6.: Tauben- und Krähenproblem in Laim (Brief an Münchner Wohnen)
+- TOP 9.7.: Müllabfuhr Tuttlinger Straße 14 (Weiterleitung AWM und evtl. Ortstermin)
+- TOP 9.8.: Ausstattung Spielplätze Laim für Kinder ab 8-10 Jahren (Vertagung in den UA Soziales unter Einbeziehung der Kinder- und Jugendbeauftragten des BA 25)
+- TOP 9.9.: Autovermietung Lutzstr Ecke Landsberger Str. (Weitergabe an PI 41)
+- TOP 9.10.: Vorschlag für neue Einbahnstraße Aldegreverstraße (Vertagung in den UA Mobilität)
+- TOP 9.11.: Altmannstraße Parksitutation (Vertagung in SoSi des UA Mobilität, Termin erst ab 20.03.25, unter Einbeziehung der Bürger*innen)
+- TOP 9.12.: Gehwegparken in der Agricolastraße (Vertagung in SoSi des UA Mobilität, Termin erst ab 20.03.25, unter Einbeziehung der Bürger*innen)
+- TOP 9.13.: Parksituation Agricolastraße (Vertagung in SoSi des UA Mobilität, Termin erst ab 20.03.25, unter Einbeziehung der Bürger*innen)
+- TOP 9.14.: Parken in der Burgkmairstraße (Vertagung in SoSi des UA Mobilität, Termin erst ab 20.03.25, unter Einbeziehung der Bürger*innen)
+- TOP 9.15.: Parksituation Agricolastraße (Vertagung in SoSi des UA Mobilität, Termin erst ab 20.03.25, unter Einbeziehung der Bürger*innen)
+- TOP 9.16.: Verkehrssituation Von-der-Pfordten-Straße (Vertagung in SoSi des UA Mobilität, Termin erst ab 20.03.25, unter Einbeziehung der Bürger*innen)
+- TOP 9.17.: Containerinsel Joergstr. / Aindorferstr. (Antworten von angeschriebenen Stellen anfordern)
