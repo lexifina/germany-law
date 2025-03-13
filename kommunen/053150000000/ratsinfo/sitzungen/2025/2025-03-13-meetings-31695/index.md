@@ -1,0 +1,64 @@
+# 30. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-13T15:30:00+01:00
+- Ende: 2025-03-13T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31695
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31695
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Verpflichtung neuer Mitglieder im Ausschuss für Soziales, Seniorinnen und Senioren - Sache ist erledigt
+- TOP -: 0 Aktuelle Stunde: Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Änderung der Hauptsatzung der Stadt Köln, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu § 23 Absatz 4 Satz 2 - ungeändert empfohlen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 2.3.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2025 - Kenntnis genommen
+- TOP 2.3.2: Anstieg der Strafanzeigen wegen Queerfeindlichkeit in Köln - Kenntnis genommen
+- TOP 2.3.3: LSBTI-Förderprogramm 2025: Beginn der Antragsphase - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand - ohne Votum behandelt
+- TOP 3.2: Fortsetzung der Förderung für das Projekt „Nachtcafé“ (Träger Kalz e.V.) - geändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Bezahlkarte für Geflüchtete - ungeändert empfohlen
+- TOP 5.2: Priorisierung von Pflege in Verfahren von Stadtentwicklung und Stadtplanung - ohne Votum behandelt
+- TOP 5.3: Mindeststandards zur Betreuung geflüchteter Menschen – Weiterfinanzierung 13 halbe Stellen bei Trägern in 2025 und 2026 - ungeändert empfohlen
+- TOP 5.4: Beratung für Geflüchtete - Verteilung der Finanzmittel im Haushaltsjahr 2025/2026 - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6.1: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - ungeändert empfohlen
+- TOP 6.2: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - ohne Votum behandelt
+- TOP 7: Wohnen
+- TOP 8: Arbeit
+- TOP 8.1: Jobcenter Köln
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.3: Arbeitsmarktförderung
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Beantwortung einer Anfrage der Fraktion Die Linke aus der Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik am 18.06.2024 (AN/0897/2024) betreffend "Angebote der Bürgerhäuser und Bürgerzentren für Menschen mit Behinderungen" - Kenntnis genommen
+- TOP 10.1.2: Strukturförderfonds - Sache ist erledigt
+- TOP -: Beantwortung einer gemeinsamen schriftlichen Anfrage AN/1590/2024 der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren vom 21.11.2024 betreffend Strukturförderfonds 2024 - Kenntnis genommen
+- TOP 10.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Fragen zur Standortreduzierung des Jobcenters Köln - endgültig zurückgezogen
+- TOP 10.2.2: Aktueller Sachstand Sanierung und Neubau der Sozialhäuser - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 12.2: Positionspapier „Entbürokratisierung und Transformation des deutschen Sozialstaates“ – Gemeinsame Initiative der Sozialämter der großen Großstädte - Kenntnis genommen
+- TOP 12.3: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 12.4: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2024 und Änderungen der Wohnraumförderung im Jahr 2025 - Kenntnis genommen
+- TOP 12.5: 13. Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 12.6: Mitteilung zur Auswertung der Öffentlichkeitsbeteiligung - Freiraum Kalker Höfe - zurückgestellt
+- TOP 12.7: Zwischenbericht über die Umsetzung des Chancen- Aufenthaltsrechts nach § 104 c AufenthG - zurückgestellt
