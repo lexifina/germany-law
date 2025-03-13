@@ -1,0 +1,52 @@
+# Gemeinderat (44. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2025-03-13T18:00:00+01:00
+- Ende: 2025-03-13T19:45:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRTrqGSEF3fwyA6oEDHMg0c
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2060
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVcOGLX4L6jWgd5UBIYYc3zLXtHh6k7_Ynjmjdt1fqDK/Bekanntmachung_Gemeinderat_13.03.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdEgAU9NHogAhDGHnPoGv-yTCVgUdPIZB3YlK7PIDU5j/Oeffentliche_Niederschrift_Gemeinderat_13.03.2025.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Verabschiedung eines ausgeschiedenen Ratsmitgliedes - Vertagt
+- TOP 2.: Einführung und Verpflichtung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 3.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 4.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 5.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 5.1: Änderungen zum Haushaltsentwurf 2025 - Einstimmig, 5 Enthaltung(en)
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Beschluss der Haushaltssatzung 2025 mit ihren Anlagen - Einstimmig, 5 Enthaltung(en)
+- TOP 7.: Neubesetzung von Ausschüssen
+- TOP 7.1: Neubesetzung von Ausschüssen und Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: 13. Änderung der Hauptsatzung der Gemeinde Aldenhoven hier: Ämter mit leitender Funktion auf Probe - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: 1. Gründung der EGA Entwicklungsgesellschaft Aldenhoven GmbH & Co. KG 2. Bestellung des Vertreters der Gemeinde Aldenhoven in der EGA Entwicklungsgesellschaft Aldenhoven GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Beteiligung der Gemeinde Aldenhoven an der NRW.URBAN Kommunale Entwicklung GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Beschlussfassung Mobilitätskonzept indeland - Phase I - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Sachstand und weitere Vorgehensweise campus aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 3.1: Auftragsvergabe zur Weiterentwicklung der Machbarkeitsstudie für die Gesamtschule Aldenhoven-Linnich am Standort Aldenhoven und die Gemeinschaftsgrundschule Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: STAWAG: Verkauf von Geschäftsanteilen einer Beteiligungsgesellschaft - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: STAWAG Energie GmbH: Beschlüsse zum Erwerb der Projektgesellschaft Aldenhoven-Pattern - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: STAWAG Energie GmbH: Beschlüsse zur Gründung der Windpark Frettertal GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 4.4: STAWAG Energie GmbH: Beschlüsse zur Gründung der Windpark Wesenstedt GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 4.5: Berichte aus den Gremien
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Mitteilung des Bürgermeisters gemäß Korruptionsbekämpfungsgesetz - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Umsetzung auf die Stelle des Fachbereichsleiters III - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
