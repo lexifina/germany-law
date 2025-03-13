@@ -1,0 +1,71 @@
+---
+ecli: "ECLI:DE:BVerwG:2025:130325U2C8.24.0"
+court: "Bundesverwaltungsgericht"
+aktenzeichen: "2 C 8/24"
+decided: "2025-03-13"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/WBRE202500287.xml"
+neuris_doknr: "WBRE202500287"
+---
+
+# Bundesverwaltungsgericht, 2 C 8/24 vom 2025-03-13
+
+## Leitsatz
+
+Die Verwendung eines privaten, abstrakt gefährlichen Gegenstandes zu einem nicht bestimmungsgemäßen Gebrauch läuft den wohlverstandenen Interessen des Dienstherrn zuwider. Sie ist der Risikosphäre des Beamten zuzuordnen und steht der Anerkennung eines Unfallereignisses als Dienstunfall entgegen. 18
+
+## Tenor
+
+Die Revision des Klägers gegen das Urteil des Oberverwaltungsgerichts des Saarlandes vom 21. März 2024 wird zurückgewiesen.
+
+Der Kläger trägt die Kosten des Revisionsverfahrens.
+
+## Tatbestand
+
+1 Der Kläger erstrebt die Anerkennung eines Unfallereignisses als Dienstunfall.
+
+2 Der mittlerweile pensionierte Kläger war Polizeivollzugsbeamter im saarländischen Landesdienst. Im April 2019 erstattete er bei seiner Dienststelle eine Dienstunfallanzeige. Danach habe er am ... nach Rückkehr aus seinem Urlaub bei Dienstbeginn den ihm zugewiesenen Arbeitsraum aufgesucht. Dort habe er festgestellt, dass die sonst über der Tür hängende Wanduhr auf der Fensterbank gelegen habe. Es sei ihm aufgefallen, dass die Batterie der Uhr unsachgemäß im Batteriefach gesteckt und die Klemmfeder am Pluspol verbogen gewesen sei. Er habe mit seinem Klappmesser die verbogene Feder wieder richten wollen. Hierbei sei das Messer zugeschnappt und er habe sich einen tiefen Schnitt am kleinen Finger der rechten Hand zugezogen.
+
+3 Das Landespolizeipräsidium lehnte die Anerkennung als Dienstunfall ab, weil der Unfall nicht in Ausübung des Dienstes eingetreten sei. Widerspruch, Klage und Berufung des Klägers sind erfolglos geblieben.
+
+4 Das Oberverwaltungsgericht hat darauf abgestellt, dass der Kläger seine Verletzung nicht "in Ausübung des Dienstes" erlitten habe. Maßgeblich sei nach Sinn und Zweck der Regelung das Kriterium der Beherrschbarkeit des Risikos von Geschehnissen im Dienst durch den Dienstherrn. Der in der höchstrichterlichen Rechtsprechung entwickelte Grundsatz, dass Unfälle des Beamten während der Dienstzeit und in den Räumlichkeiten des Dienstherrn der Dienstunfallfürsorge unterfallen, gelte nicht ausnahmslos. Der Dienstherr solle ausschließlich für die eigentümlichen und spezifischen Gefahren der Beamtentätigkeit haften. Das sei bei Verhaltensweisen nicht der Fall, die mit der Dienstausübung schlechthin nicht in Zusammenhang gebracht werden könnten, insbesondere bei dem wohlverstandenen Interesse des Dienstherrn zuwiderlaufenden oder von diesem sogar ausdrücklich verbotenen Verhaltensweisen.
+
+5 Im vorliegenden Fall sei die Verwendung des privaten Klappmessers den wohlverstandenen Interessen des Dienstherrn zuwidergelaufen. Das Risiko eines unerwarteten Versagens des Arretiermechanismus sei für den Dienstherrn in keiner Weise beherrschbar gewesen und müsse daher der Sphäre des Klägers zugerechnet werden. Das Klappmesser habe nicht zur dienstlichen Ausrüstung des Klägers gehört, sondern sei dessen Privateigentum gewesen. Es sei kein alltagsgebräuchlicher Gegenstand, mit dessen Mitführen und Verwenden im Dienst der Dienstherr nach der Lebenserfahrung rechnen müsse. Nicht die Reparaturbedürftigkeit der Wanduhr, sondern die abstrakte Gefährlichkeit des Messers sei objektiv die wesentliche Ursache des Unfallgeschehens.
+
+6 Hiergegen richtet sich die vom Oberverwaltungsgericht wegen grundsätzlicher Bedeutung zugelassene Revision des Klägers, mit der er beantragt,
+
+die Urteile des Oberverwaltungsgerichts des Saarlandes vom 21. März 2024 und des Verwaltungsgerichts des Saarlandes vom 29. Juni 2022 sowie den Bescheid des Landespolizeipräsidiums vom 3. Mai 2019 in der Gestalt des Widerspruchsbescheids des Ministeriums für Inneres, Bauen und Sport vom 3. Dezember 2019 aufzuheben und den Beklagten zu verpflichten, das Unfallereignis vom 25. März 2019 als Dienstunfall anzuerkennen, und die Zuziehung eines Bevollmächtigten für das Vorverfahren für notwendig zu erklären.
+
+7 Die Beklagte verteidigt die angegriffenen Urteile und beantragt,
+
+die Revision zurückzuweisen.
+
+8 Die Vertreterin des Bundesinteresses beim Bundesverwaltungsgericht beteiligt sich in Abstimmung mit dem Bundesministerium des Innern und für Heimat an dem Verfahren und unterstützt die Rechtsauffassung des Beklagten. Sie macht insbesondere auf Tz. 31.1.1.11 BeamtVGVwV aufmerksam, wonach ein Dienstunfall nicht anerkannt werden kann, wenn es sich um ein ausschließlich auf der Person des Beamten zuzuordnendes Unfallrisiko handelt, und als Beispielsfall hierfür ein privat in den Dienst eingebrachter Gegenstand genannt wird.
+
+## Entscheidungsgründe
+
+9 Die Revision des Klägers ist unbegründet. Das Oberverwaltungsgericht hat ohne Verstoß gegen revisibles Landesrecht (§ 191 Abs. 2 VwGO, § 127 Nr. 2 BRRG und § 63 Abs. 3 Satz 2 BeamtStG) den Versuch des Klägers, die Wanduhr im Dienstzimmer mit einem mitgebrachten Klappmesser zu reparieren, bei dem er einen Körperschaden erlitten hat, nicht als Dienstunfall angesehen und demzufolge die Klage auf Anerkennung dieses Ereignisses als Dienstunfall abgelehnt. Nach den in der Senatsrechtsprechung zu § 31 BeamtVG und den landesrechtlichen Parallelvorschriften entwickelten Grundsätzen (1.) ist das Unfallereignis nicht in Ausübung des Dienstes eingetreten und damit kein Dienstunfall (2.).
+
+10 1. Gemäß § 31 Abs. 1 Satz 1 des Saarländischen Beamtenversorgungsgesetzes - SBeamtVG - in der im Zeitpunkt des Unfallereignisses geltenden und damit maßgeblichen (vgl. BVerwG, Urteil vom 13. Juli 2023 - 2 C 3.22 - BVerwGE 179, 322 Rn. 8 m. w. N.) Fassung vom 14. Mai 2008 (Amtsbl. S. 1062) ist ein Dienstunfall ein auf äußerer Einwirkung beruhendes, plötzliches, örtlich und zeitlich bestimmbares, einen Körperschaden verursachendes Ereignis, das in Ausübung oder infolge des Dienstes eingetreten ist.
+
+11 Das gesetzliche Merkmal "in Ausübung des Dienstes" verlangt eine besonders enge ursächliche Verknüpfung des Ereignisses mit dem Dienst (vgl. BVerwG, Urteil vom 17. November 2016 - 2 C 17.16 - Buchholz 239.1 § 31 BeamtVG Nr. 30 Rn. 14 m. w. N.). Maßgebend hierfür ist der Sinn und Zweck der beamtenrechtlichen Dienstunfallfürsorge. Dieser liegt in einem über die allgemeine Fürsorge hinausgehenden besonderen Schutz des Beamten bei Unfällen, die außerhalb seiner privaten (eigenwirtschaftlichen) Sphäre im Bereich der in der dienstlichen Sphäre liegenden Risiken eintreten, also in dem Gefahrenbereich, in dem der Beamte entscheidend aufgrund der Anforderungen des Dienstes tätig wird (BVerwG, Urteile vom 29. August 2013 - 2 C 1.12 - Buchholz 239.1 § 31 BeamtVG Nr. 25 Rn. 10 f., vom 17. November 2016 - 2 C 17.16 - Buchholz 239.1 § 31 BeamtVG Nr. 30 Rn. 14 und vom 13. Juli 2023 - 2 C 3.22 - BVerwGE 179, 322 Rn. 9).
+
+12 Ausgehend vom Zweck der gesetzlichen Regelung und dem Kriterium der Beherrschbarkeit des Risikos der Geschehnisse durch den Dienstherrn kommt dem konkreten Dienstort des Beamten eine herausgehobene Rolle zu. Der Beamte steht bei Unfällen, die sich innerhalb des vom Dienstherrn beherrschbaren räumlichen Risikobereichs ereignen, unter dem besonderen Schutz der beamtenrechtlichen Unfallfürsorge. Zu diesem Bereich zählt der Dienstort, an dem der Beamte seine Dienstleistung erbringen muss, wenn dieser Ort zum räumlichen Machtbereich des Dienstherrn gehört. Risiken, die sich hier während der Dienstzeit verwirklichen, sind dem Dienstherrn zuzurechnen, unabhängig davon, ob die Tätigkeit, bei der sich der Unfall ereignet hat, dienstlich geprägt ist. Eine Ausnahme gilt nur für den Fall, dass diese Tätigkeit vom Dienstherrn verboten ist oder dessen wohlverstandenen Interessen zuwiderläuft (BVerwG, Urteile vom 24. Oktober 1963 - 2 C 10.62 - BVerwGE 17, 59 <66>, vom 15. November 2007 - 2 C 24.06 - Buchholz 239.1 § 31 BeamtVG Nr. 18 Rn. 13, vom 31. Januar 2008 - 2 C 23.06 - Buchholz 239.1 § 31 BeamtVG Nr. 19 Rn. 9, vom 22. Januar 2009 - 2 A 3.08 - Buchholz 239.1 § 31 BeamtVG Nr. 21 Rn. 14, vom 29. August 2013 - 2 C 1.12 - Buchholz 239.1 § 31 BeamtVG Nr. 25 Rn. 11, vom 17. November 2016 - 2 C 17.16 - Buchholz 239.1 § 31 BeamtVG Nr. 30 Rn. 15 und vom 13. Juli 2023 - 2 C 3.22 - BVerwGE 179, 322 Rn. 10).
+
+13 Hierdurch werden die Sphären des Beamten und des Dienstherrn nach praktikablen und sachgerechten Kriterien abgegrenzt. Es wird dem Umstand Rechnung getragen, dass auch bei der Dienstausübung regelmäßig dienstliche und private Aspekte nicht streng voneinander zu trennen sind und es nur darum gehen kann, wann und unter welchen Voraussetzungen die auch bei der Ausübung des Dienstes naturgemäß gegebene "Gemengelage" eindeutig dem privaten Bereich des Beamten zuzurechnen und daher von der Dienstunfallfürsorge des Dienstherrn auszunehmen ist. Eine Interpretation, die darauf abstellte, ob der Beamte gerade im Augenblick der Einwirkung des Ereignisses auf seinen Körper mit einer spezifisch dienstlichen Verrichtung befasst war, ginge an der Lebenswirklichkeit vorbei und risse Vorgänge, die bei lebensnaher Betrachtung nur als Gesamtverhalten gewertet werden können, auseinander. Zudem stellte diese Ansicht an den Nachweis des Vorliegens eines Dienstunfalls Anforderungen, die sowohl den Dienstherrn als auch den Beamten überfordern könnten (BVerwG, Urteile vom 24. Oktober 1963 - 2 C 10.62 - BVerwGE 17, 59 <62 ff.>, vom 15. November 2007 - 2 C 24.06 - Buchholz 239.1 § 31 BeamtVG Nr. 18 Rn. 11 ff., vom 22. Januar 2009 - 2 A 3.08 - Buchholz 239.1 § 31 BeamtVG Nr. 21 Rn. 14, vom 17. November 2016 - 2 C 17.16 - Buchholz 239.1 § 31 BeamtVG Nr. 30 Rn. 16 und vom 13. Juli 2023 - 2 C 3.22 - BVerwGE 179, 322 Rn. 11).
+
+14 2. Unter Anwendung dieser Maßstäbe ist der Unfall beim Versuch, die Wanduhr mit einem Klappmesser zu reparieren, nicht in Ausübung des Dienstes eingetreten und damit kein Dienstunfall.
+
+15 a) Zwar gehörte es nicht zu den dienstpostenbezogenen Aufgaben des Klägers als Polizeioberkommissar, die Wanduhr im Dienstzimmer wieder in Gang zu setzen. Es wäre jedoch zu eng, das Kriterium "in Ausübung des Dienstes" ausschließlich auf den dienstpostenbezogenen Aufgabenkreis zu beziehen. Der Reparaturversuch an der Wanduhr im Dienstzimmer war ein sozialadäquates und dem Dienstherrn grundsätzlich willkommenes Verhalten (vgl. Kümmel, Beamtenversorgungsgesetz, Stand Mai 2024, § 31 Rn. 18). Der Beamte darf auch außerhalb des ihm auf seinem Dienstposten zugewiesenen Aufgabenbereichs dienstbezogen handeln, ohne hierbei Überlegungen zur Reichweite des Dienstunfallschutzes anstellen zu müssen.
+
+16 b) Der Unfall ereignete sich in einem Dienstraum während der Dienstzeit und ist deshalb - wie dargelegt - grundsätzlich als in Ausübung des Dienstes geschehen vom Dienstunfallschutz erfasst. Allerdings ist im vorliegenden Fall eine Ausnahme von diesem Grundsatz geboten, weil die den Unfall verursachende Tätigkeit entweder bereits vom Dienstherrn verboten war oder jedenfalls dessen wohlverstandenen Interessen zuwiderlief.
+
+17 aa) Es kann dahinstehen, ob die Benutzung des Klappmessers bereits eine gesetzlich und damit auch vom Dienstherrn verbotene Tätigkeit war. Das Führen eines Einhandmessers ist nach § 42a Abs. 1 Nr. 3 WaffG grundsätzlich verboten und gemäß § 42a Abs. 2 Nr. 3 WaffG nur erlaubt, wenn ein berechtigtes Interesse vorliegt, was nach § 42a Abs. 3 WaffG insbesondere im Zusammenhang mit der Berufsausübung in Betracht kommt. Das Berufungsgericht hat keine Feststellungen dazu getroffen, ob das vom Kläger verwendete Klappmesser ein Messer mit einhändig feststellbarer Klinge und damit ein Einhandmesser im Sinne des § 42a Abs. 1 Nr. 3 WaffG ist. Einer Zurückverweisung an das Berufungsgericht zur Nachholung dieser Feststellung bedarf es dennoch nicht, denn das Merkmal "in Ausübung des Dienstes" und damit der Anspruch des Klägers auf Anerkennung des Unfalls als Dienstunfall ist aus einem anderen Grund zu verneinen.
+
+18 bb) Die Verwendung des Klappmessers zur Reparatur der Wanduhr widersprach den wohlverstandenen Interessen des Dienstherrn. Die Verwendung eines privaten, abstrakt gefährlichen Gegenstandes - hier eines Klappmessers mit arretierender Klinge - zu einem nicht bestimmungsgemäßen Gebrauch - hier Reparaturversuch an einer Uhr - läuft den wohlverstandenen Interessen des Dienstherrn zuwider. Sie ist der Risikosphäre des Beamten zuzuordnen und steht der Anerkennung eines Unfallereignisses als Dienstunfall entgegen.
+
+19 Zwar folgt das noch nicht allein daraus, dass es sich bei dem Klappmesser um einen privaten, vom Beamten in den Dienst mitgebrachten Gegenstand handelt (zu weit deshalb Ziffer 31.1.1.11 BeamtVGVwV, wonach ein privat in den Dienst eingebrachter Gegenstand - stets - ein ausschließlich der Person des Beamten zuzuordnendes Risiko begründet, das den Dienstunfallschutz ausschließt). Bei der Nutzung von Alltagsgegenständen, die üblicherweise und damit sozialadäquat sowohl im Dienst als auch privat mitgeführt (Mobiltelefone, Haus- und Autoschlüssel etc.) und im Dienst nicht sachwidrig verwendet werden, steht der Beamte noch "im Banne des Dienstes". Ihr Mitführen und ihre nicht zweckwidrige Benutzung laufen den wohlverstandenen Interessen des Dienstherrn nicht zuwider. Verursacht eine nicht zweckwidrige Benutzung eines solchen mitgebrachten Alltagsgegenstandes einen Unfall, geschieht dies somit in Ausübung des Dienstes. Hingegen läuft die Verwendung eines privat in den Dienst mitgebrachten abstrakt gefährlichen Gegenstandes und dessen zweckwidriger Gebrauch den wohlverstandenen Interessen des Dienstherrn zuwider. Verursacht - wie hier - eine zweckwidrige Benutzung eines solchen Gegenstandes einen Unfall, ist dieser nicht als Dienstunfall anzuerkennen.
+
+20 Diese Unterscheidung folgt aus einer wertenden Betrachtung der Beherrschbarkeit des Risikos unter Berücksichtigung von Aspekten der Sozialadäquanz. Während das Mitführen und die nicht zweckwidrige Benutzung eines privaten Alltagsgegenstandes noch der Risikosphäre des Dienstherrn zugeordnet werden können, gilt dies für den zweckwidrigen Gebrauch eines privat in den Dienst mitgebrachten abstrakt gefährlichen Gegenstandes nicht.
+
+21 3. Die Kostenentscheidung folgt aus § 154 Abs. 2 VwGO.
