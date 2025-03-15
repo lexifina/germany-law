@@ -1,1 +1,1 @@
-# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen und zu den Ausgleichsmaßnahmen und den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufs
+# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen, zu den Ausgleichsmaßnahmen sowie den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufsq
