@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780293
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780293
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 17.02.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag auf Versetzung der Tempo-30-Geschwindigkeitsanzeige auf Höhe der Borstei
+- TOP 2.2.: Antrag auf Verlagerung der Wertstoffinsel in der Manzo- Ecke Waldhornstraße
+- TOP 2.3.: Antrag auf Beschilderung Fuß-/Radweg zwischen der Brieger- und Manzostraße
+- TOP 2.4.: Antrag mehrerer Anwohner wegen Ungleichbehandlung im Parklizenzgebiet Hanauer Straße
+- TOP 2.5.: Antrag zur Verkehrssicherheit in der Skagerrakstraße / Am Kapuzinerhölzl
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Bericht über die Sitzung vom 24.02.2025 zum Sachstand Shared Mobility sowie Potenzielle Tempo-30-Anordnungen im Stadtbezirk 10
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Bunzlauer Platz
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage weiterer Fußgängerübergänge im Verlauf der Straßenbahngleise, Abschnitt Kreuzungsbereich Dachauer-/Pelkovenstraße bis Dachauer-/Georg-Brauchle-Straße
+- TOP 4.1.2.: Antrag zur Aufstellung eines Mülleimers an der Sportfläche im Amphionpark
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 6.1.: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 6.2.: Einladung zur Beteiligung: Eggarten - Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/67 und Bebauungsplan mit Grünordnung Nr. 2143
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Schulwegsicherheit GS Haldenbergerstraße; Waldhornstraße
+- TOP 6.4.: MVG-Anpassungsprogramm 2026
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2a StVO: Reines Bewohnerparken in der Franz-Marc-Straße
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2a StVO: Reines Bewohnerparken in der Pickelstraße
+- TOP 6.7.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2a StVO: Reines Bewohnerparken in der Voitstraße
+- TOP 6.8.: Benehmensverfahren Hugo-Troendle-Straße 6
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Gefährliche Stelle im Straßenverkehr in der Baubergerstr.
+- TOP 7.2.: Deklarierung von Feuerwehranfahrtszonen im Straßenbereich in der Andernacher Str.
+- TOP 7.3.: Sanierungsmaßnahmen Sozialer Zusammhalt, Beleuchtungsanlage für die Sportflächen im Amphionpark
+- TOP 7.4.: Antrag auf Hitze- bzw. Klimaresistentes Bauen im Zuge der Stadtteilsanierung durch konsequentes Anbringen eines außenliegenden Sonnenschutzes
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: (E) Aufforstung Stadtwerkepark
+- TOP 8.2.: Informationsschreiben zum Stadtratsbeschluss Foodtrucks
+- TOP 8.3.: Bürgerbegehren "Grünflächen erhalten" Bekanntgabe der Evaluierung der Auswirkungen der durch den Stadtrat übernommenen Forderung des Bürgerbegehrens
+- TOP 8.4.: Weltstadt mit Wachstumsschmerzen: München muss das Wachstum begrenzen
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Schulwegsicherheit Gleißmüllerstraße
+- TOP 8.6.: Neuerrichtung eines Gaststättenbetriebes: Georg-Bräuchle-Ring 57
+- TOP 8.7.: Sondernutzung zum Projekt "Champions Innovate"
+- TOP 8.8.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 8.9.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 8.10.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 b Nr. 2 i.V.m. § 46 Abs. 1 Nr. 11 StVO: -nicht öffentlich- Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.11.: Mitteilung über ein Grundstücksgeschäft -nicht öffentlich-
+- TOP 4.2.1.: Antrag des UA Verkehr zum Dualen Parken am Dantebad
+- TOP 6.9.: Kunstaktion „Der Fahrende Raum“ in der Grünanlage am Hartmannshofer Bächl vom 30.04.-01.08.2025
+- TOP 3.3.2.1.: Baubergerstr. 26-26f, Grossbeerenstr. 6-6a
+- TOP 3.3.2.2.: Seydlitzstraße 14-22
+- TOP 3.3.1.2.: Eininger Straße
+- TOP 6.10.: Luftreinhaltung Erste Ergebnisse des Monitoring Tempo 30 Landshuter Allee
+- TOP 3.3.1.3.: Hanauer Straße 101
