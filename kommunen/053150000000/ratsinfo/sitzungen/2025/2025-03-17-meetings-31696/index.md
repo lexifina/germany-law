@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-17T15:05:00+01:00
+- Ende: 2025-03-17T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31696
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31696
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Präsentation zur Kaltlufthalle Maximilian–Kolbe-Gymnasium - Kenntnis genommen
+- TOP -: B. Präsentation der Bezirksschüler*innenvertretung - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2025 - Kenntnis genommen
+- TOP 1.2: LSBTI-Förderprogramm 2025: Beginn der Antragsphase - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - zurückgestellt
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag von KLIMAFREUNDE & GUT vom 13.11.2024 betreffend "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP -: Stellungnahme zum Antrag AN/1970/2023 der Ratsgruppe KLIMA FREUNDE & GUT betreffend: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP -: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP 3.2: Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion SPD vom 25.11.2024 betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - zurückgestellt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 06.03.2025 betreffend "Sachstand Einführung fälschungssicherer Schulbescheinigungen" - zurückgestellt
+- TOP 4.2: Anfrage der Fraktion SPD vom 07.03.2025 betreffend "Sicherer Schulweg zu den Schulen über Girlitzweg und Teichrohrsängerweg im Ge-werbegebiet Triotop-Park" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 12.03.2025 betreffend "Projekt- und Finanzlage der Kölner Schulbaugesellschaft mbH" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion SPD vom 04.06.2024 betreffend "Abriss und Neubau der Montessori-Grundschule Höhenberg - Standort Schulstr." - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion SPD vom 20.11.2024 betreffend "Förderprogramm Infrastrukturausbau im Ganztag" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 03.02.2025 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Erweiterung des Bildungsgangs "Einjährige Berufsfachschule im Fachbereich Wirtschaft und Verwaltung“ zum Schuljahr 2025/26 am Berufskolleg Südstadt - ungeändert empfohlen
+- TOP 6.2: Erweiterung des Bildungsgangs "Einjährige Berufsfachschule im Fachbereich Ernährung und Versorgungsmanagement“ am Berufskolleg Ehrenfeld zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 6.3: Einzug der Förderschule Lindweiler Hof, derzeit ausgelagert im Interimsstandort Paul-Humburg-Str.13, 50737 Köln-Longerich in das Bestandsgebäude Borsigstr. 13, 50827 Köln-Bickendorf - ungeändert empfohlen
+- TOP 6.4: Durchführung der Lernmittelfreiheit - Verzicht auf die weitere Auszahlung der hälftigen Einsparungen - zurückgestellt
+- TOP 6.5: Anpassung des Musterraumprogramms für Schulneubau- und erweiterungsbauten 2023 an die Handreichung zum Schulbau des Städtetages Nordrhein-Westfalen vom 29.11.2019 - zurückgestellt
+- TOP 7: Entscheidungen
+- TOP 7.1: Entscheidungsvorlage zur weiteren schulischen Nutzung des Schulstandorts Holzheimer Weg - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion SPD vom 11.03.2025 zu Top 7.1 "Entscheidungsvorlage zur weiteren schulischen Nutzung des Schulstandorts Holzheimer Weg" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 14.03.2025 zum TOP 7.1 "Entscheidungsvorlage zur weiteren schulischen Nut-zung des Schulstandorts Holzheimer Weg" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke vom 17.03.2025 zum Änderungsantrag der SPD Top 7.1 "Entscheidungsvorlage zur weiteren schulischen Nutzung des Schulstandorts Holzheimer Weg" - endgültig abgelehnt
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantwortung einer mündlichen Anfrage von RM Hölzing aus der Sitzung des Ausschusses Schule und Weiterbildung vom 25.11.2024 und des Betriebsausschusses Gebäudewirtschaft vom 2.12.2024 bezüglich der Containernutzung an der Schule Kunterbunt - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Anfrage von RM Hölzing aus der Sitzung des Ausschusses Schule und Weiterbildung vom 28.10.2024 bezüglich des Zustands der naturwissenschaftlichen Fachräume am Heinrich-Mann-Gymnasium am Fühlinger Weg - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 8.5: Beantwortung einer mündlichen Anfrage von RM Aengenvoort aus der Sitzung des Ausschusses Schule und Weiterbildung vom 22.01.2024 bezüglich eines Sachstands zur Fortschreitung der Umsetzungen und der Planungen aus der Task-Force Schulbau - Kenntnis genommen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Beantwortung einer mündlichen Anfrage von Constanze Aengenvoort (CDU-Fraktion) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 27.01.2025 bezgl. "Verbesserungsvorschlägen zu den fehlenden Schulräumen an der Förderschule Redwitzstraße 80" - Kenntnis genommen
+- TOP 8.8: Auswirkungen der ungeklärten Haushaltssituation auf Bundesebene für die Integrations- und Berufssprachkurse des BAMF an der VHS Köln - Kenntnis genommen
+- TOP 8.9: Evaluation "Tag der Jugend im Rathaus 2024" - Kenntnis genommen
+- TOP 8.10: Umstellung auf G9 an den Kölner Gymnasien - Kenntnis genommen
+- TOP 8.11: Beantwortung einer mündlichen Anfrage zur Containeraufstellung am Johann-Gottfried-Herder-Gymnasium, Kattowitzer Str. 52, 51065 Köln - Kenntnis genommen
+- TOP 8.12: Beantwortung einer mündlichen Anfrage von RM Lorenz und RM Hölzing aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 9. September 2024 bezüglich eines Verkehrsgutachtens und den Ergebnissen der Bodenproben am Urbacher Weg - Kenntnis genommen
+- TOP 8.13: Übersicht der mit Drittmitteln im Jahr 2024 geförderten Projekte der VHS Köln - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
