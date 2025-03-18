@@ -1,0 +1,74 @@
+# 43. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-18T16:02:00+01:00
+- Ende: 2025-03-18T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31737
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31737
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Deutzer Hafenbahn für zukünftige rechtsrheinische Gürtelbahn erhalten - zurückgestellt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Beschluss der Bezirksvertretung Innenstadt - Luxemburger Straße im Bereich der Innenstadt AN/1639/2024 - zurückgestellt
+- TOP -: Lebenswerte Luxemburger Straße - zurückgestellt
+- TOP 2.2: Beschluss der Bezirksvertretung Lindenthal - Luxemburger Straße im Bereich von Lindenthal//AN/0021/2025 - zurückgestellt
+- TOP -: Lebenswerte Luxemburger Straße - zurückgestellt
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Sitzen statt Parken - Kriterienkatalog für Außengastronomie auf Stellplätzen - geändert beschlossen
+- TOP 3.2: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Altstadt - ungeändert beschlossen
+- TOP 3.3: Grundsatz- und Bauübertragungsbeschluss für die Verlängerung der südlichen Abfahrtsrampe für den Radverkehr, von der Rheinbrücke Leverkusen bis Spoerkelhof in Köln-Merkenich und Freigabe von investiven Auszahlungsermächtig. Finanzst. 6601-1201-6-1158 - ungeändert beschlossen
+- TOP 3.4: RadPendlerRouten-Netz Köln: RadPendlerRoute Köln Innenstadt - Nippes - Chorweiler - Dormagen - ungeändert beschlossen
+- TOP 3.5: Baubeschluss für die Instandsetzung der Steinschüttungen im Bereich Niehler Damm, Ufermauern und Böschungen - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss für die externe Beauftragung der Planung einer Rad- und Gehwegbrücke über den Rhein an der Bastei in Köln - ungeändert empfohlen
+- TOP 4.2: Bedarfsfeststellungs- und Planungsbeschluss für die externe Beauftragung der Planung einer Rad- und Gehwegbrücke über den Rhein am Ubierring in Köln - ungeändert empfohlen
+- TOP 4.3: 295. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.4: Deutzer Brücke; Bedarfsfeststellungs- und Baubeschluss zur Erneuerung der Entwässerungs- und Beleuchtungsanlage auf der Nordseite - ungeändert empfohlen
+- TOP 4.5: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse erweitert um das Beratungsergebnis des Verkehrsausschusses vom 10.12.2024 zu AN/1743/2024 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zur Beschlussvorlage Nr. 1037/2024 - endgültig abgelehnt
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen - endgültig abgelehnt
+- TOP -: Änderungsantrag zu Top 1.1 Verkehrausschuss und 10.1 Rat, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - Sache ist erledigt
+- TOP -: Änderungsantrag zu 1037/2024, Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - Sache ist erledigt
+- TOP -: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - ungeändert empfohlen
+- TOP 4.6: Abschlussbericht zur Stufe 1 des nachhaltigen Mobilitätsplans "Besser durch Köln" (SUMP) - ungeändert empfohlen
+- TOP 4.7: Ebertplatz vorgezogene bauliche kriminalpräventive Maßnahmen an der Westpassage - ohne Votum behandelt
+- TOP 4.8: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestelle Junkersdorf - zurückgestellt
+- TOP -: Änderungsantrag Haltestelle Junkersdorf, Variante 10 - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Sauberkeit an der Haltestelle Hansaring - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage gem. §4 der Geschäftsordnung AN 0885/2024 betreffend Sauberkeit Hansaring - Kenntnis genommen
+- TOP 5.1.2: Ausbau der Barrierefreiheit bei der KVB - zurückgestellt
+- TOP 5.1.3: 20 % mehr Fahrten in die Stadt – Scheitert die Kölner Verkehrswende? - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses vom 28.01.2025 (AN/0025/2025) betreffend "20 % mehr Fahrten in die Stadt - Scheitert die Kölner Verkehrswende" - Kenntnis genommen
+- TOP 5.1.4: Hier: Eisenbahnkreuzungsmaßnahmen Deutz-Mülheimer Straße - zurückgestellt
+- TOP 5.1.5: Beantwortung von mündlichen Zusatzfragen des RM Wahlen und des SB Meinhardt aus der Sitzung am 28.01.2025 betr. "Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße/Militärringstraße - 1. Deckblatt", Vorlagen-Nr. 3777/20 - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Zugverbindung Köln-London - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 in analoger Anwendung - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Beantwortung einer Anfrage der Stadtarbeitsgemeinschaft Behindertenpolitik - Kenntnis genommen
+- TOP 6.2.2: ÖPNV-Netzentwicklung - Sachstand 2024 - Kenntnis genommen
+- TOP 6.2.3: Antrag der Gruppe KLIMA FREUNDE & GUT betreffend "Dat Jeld es fott - Einsparungen transparent machen" (12.12.2024) - AN/1689/2024 Stellungnahme des Dezernates für Mobilität - Kenntnis genommen
+- TOP 6.2.4: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007 - Kenntnis genommen
+- TOP 6.2.5: Beantwortung einer Anfrage der Fraktion FDP im Stadtentwicklungsausschuss aus der Sitzung vom 02.12.2024 (AN/1683/2024) "Wie steht es um den Domsockel?" - Kenntnis genommen
+- TOP 6.2.6: Zeitnahe Realisierung des Anschlusses Stolberger Str. an die Militärringstraße und Ertüchtigung des Knotens Militärring / Aachener Str. - Kenntnis genommen
+- TOP 6.2.7: Gesamtinstandsetzung Mülheimer Brücke – Sachstand Bauphase II - Kenntnis genommen
+- TOP 6.2.8: Beantwortung einer schriftlichen Anfrage des Ratsmitglieds Thor Zimmermann zur Sitzung des Rates am 13.02.2025 (AN/0209/2025) betreffend "Ost-West-Achse – Betreff: Stellungnahme der Verwaltung zum Antrag AN/1743/2024" - Kenntnis genommen
+- TOP 6.2.9: Masterplan Ingenieurbauwerke - Bauwerkszustand 2025 - zurückgestellt
+- TOP 6.2.10: Wiederaufstellung der Fahrradständer in der Trankgasse und Möblierung der vom Verkehr freigestellten Flächen - zurückgestellt
+- TOP 6.2.11: Freilaufende Rechtsabbieger an der Kreuzung Universitätsstraße/Aachener Straße - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Auswirkungen des KVB-Streiks auf die Zählstellen MIV und Radverkehr - Sache ist erledigt
+- TOP 7.2: Bahnhof Deutz/Messe - Rampe Auenweg - Sache ist erledigt
+- TOP 7.3: Parkgebührenordnung
+- TOP 7.4: Deutzer Hafen
