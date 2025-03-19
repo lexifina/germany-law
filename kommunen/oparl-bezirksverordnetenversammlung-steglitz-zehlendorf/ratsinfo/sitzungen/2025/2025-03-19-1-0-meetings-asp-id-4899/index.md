@@ -1,0 +1,73 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-03-19T17:00:00+01:00
+- Ende: 2025-03-19T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4899
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4899
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Baustellen - beantwortet
+- TOP 3.2: Die Quadratur des Kreisels, oder: Wie geht es weiter mit dem Großprojekt im Steglitzer Zentrum? - beantwortet
+- TOP 3.3: Was wird aus dem Kulturkiosk an der Dorfaue? - beantwortet
+- TOP 3.4: Bronze-Klau in Steglitz-Zehlendorf - beantwortet
+- TOP 3.5: Warum bleibt der Springbrunnen am Franz-Amrehn-Platz trocken? - beantwortet
+- TOP 3.6: Menschen ohne Obdach rund um den U-Bahnhof Schloßstraße - beantwortet
+- TOP 3.7: Wie verlief der Winterdienst auf den bezirklichen Radwegen? - beantwortet
+- TOP 3.8: Schulungen für den sicheren Umgang mit Evac-Chairs (Treppenrettungsstühle) - schriftlich beantwortet
+- TOP 3.9: Luftfilter in Schulen - schriftlich beantwortet
+- TOP 3.10: Wie geht es weiter mit dem Mittelmeerhaus des Botanischen Gartens? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Sondermittel der BVV für die Ev.-Freikirchliche Gemeinde Berlin-Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anmeldungen zum Investitionsprogramm 2025 bis 2029 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: NS- und Berliner Verwaltungs-Unrecht überwinden: Rückkauf des Grundstücks am Stölpchensee Familie Wolffsohn ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Instandhaltungsarbeiten für das Tiergehege im Gemeindepark Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Regentonnen für öffentliche Schulgebäude - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Sitzbank auch für die südliche Seite der Haltestelle Bogenstraße in Lichterfelde endlich einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Schulstationen sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Huckelpiste Zinsweilerweg wieder zu einer Straße machen und Belag dringend erneuern - in der BVV abgelehnt
+- TOP 4.10: Barrierefreiheit wiederherstellen – Schildbürgerstreich am Strandbad Wannsee beenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Insulaner-Bad braucht barrierefreien Eingang - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Ordnungsgemäße Parkplätze für den E-Roller - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Kooperation mit der BIM bei deren Green-Yard-Strategie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Sanierung/Instandsetzung des Radwegs in der Malteserstraße zwischen Friedrichrodaer Straße bis Kamenzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Ein Wärmecontainer für Steglitz für den Winter 2025/2026 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Regelmäßige Berichte des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Wartelinien Berliner Straße Ecke Charlottenburger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Weil es leider notwendig ist: Unterausschuss „Versorgung von Menschen ohne Obdach in Steglitz-Zehlendorf“ einrichten - überwiesen
+- TOP 5.2: Informationstafel zu Ehren Joachim Tiburtius an der Joachim-Tiburtius-Brücke - überwiesen
+- TOP 5.3: Ausbau des Nachtbusnetzes in Wannsee - überwiesen
+- TOP 5.4: Entlastung des Parkraums in der Chausseestraße während der Baumaßnahmen – Einbindung der Geschäftsleute und Anpassung der Busführung - überwiesen
+- TOP 5.5: Von-Luck-Straße – Gefährdung durch Straßenpoller beseitigen - überwiesen
+- TOP 5.6: 25 Jahre Steglitz-Zehlendorf - überwiesen
+- TOP 5.7: U3 mit Stammbahn verknoten - überwiesen
+- TOP 5.8: Bürgerschaftliches Engagement für die bezirkliche Erinnerungskultur mit Stolperstein-Sammlung würdigen - überwiesen
+- TOP 5.9: Dauerbaustelle Hindenburgdamm – Fuß- und Radwege freihalten - überwiesen
+- TOP 5.10: Verbesserte Straßenreinigung entlang des Hindenburgdamms notwendig - überwiesen
+- TOP 5.11: Dauerbaustelle Hindenburgdamm – Fußüberwege so anlegen, dass sie auch für Menschen mit Beeinträchtigungen, Kinderwagen und bei Regen nutzbar sind - überwiesen
+- TOP 5.12: Dauerbaustelle Hindenburgdamm – Kurzzeitparkplätze und Lieferzonen für Gewerbetreibende in den Nebenstraßen einrichten - überwiesen
+- TOP 5.13: Werbung am Baugerüsten einschränken – Mieter*inneninteressen schützen - überwiesen
+- TOP 5.14: Mitarbeiterinnen und Mitarbeiter des Bezirksamtes im Umgang mit Antisemitismus unterstützen - überwiesen
+- TOP 5.15: Ausschussanträge in der Geschäftsordnung regeln - überwiesen
+- TOP 5.16: „Säule der Gefangenen“ reinigen und schützen - überwiesen
+- TOP 5.17: Verkehrsschild Parken abordnen - überwiesen
+- TOP 5.18: Aufzeichnung BVV-Livestream - überwiesen
+- TOP 5.19: Eine Gedenktafel unserer Solidarität - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Personalführung, Stellenbesetzung und strukturelle Herausforderungen im Bezirksamt - beantwortet
+- TOP 6.2: Bürgerkoffer da, aber nicht einsatzbereit - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Das Bezirksamt muss sich mit Nachdruck um eine Ersatzfläche für die Kältehilfe in der Bergstraße bemühen - überwiesen
+- TOP 7.2: Die Kältehilfe im Bezirk retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Lösung gegen illegale Plakate erarbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
