@@ -1,0 +1,7 @@
+# TOP 4: Sonstiges
+
+- Sitzung: gemeinsame Öffentliche Sondersitzung der Ausschüsses für StaBauGe, SoSeGes, KJHA, SchuSp, MobiOrd, WeiKuStä und KliUmNat (2025-03-19)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=60633
+- Ergebnis: erledigt
