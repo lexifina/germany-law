@@ -1,0 +1,56 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-03-19T16:30:00+01:00
+- Ende: 2025-03-19T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27986
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27986
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Tagesordnung OVA 19.03.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00547855.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Tagesordnung OVA 19.03.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00547855.pdf
+- Wortprotokoll: 1. Nachtrag zur Tagesordnung OVA 19.03.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00547855.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 2.1: Bestellung eines stellvertretenden Geschäfts- und Schriftführers für den Ordnungs- und Verkehrsausschuss - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 28.08.2024 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 30.10.2024 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Umsetzung des Handlungskonzepts zur Parkraumbewirtschaftung: Erweiterung des Bewohnerparkens -Anfrage Ratsfraktion Die Linke- - zur Kenntnis genommen
+- TOP 4.2: Bewohnerparken -Anfrage FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.3: Planungsstand des priorisierten barrierefreien Ausbaus der Wehrhahnlinie -Anfrage Ratsfraktion Die LINKE- - zur Kenntnis genommen
+- TOP 4.4: Was passiert mit der Bergischen Landstraße nach den Kanalbauarbeiten? -Anfrage der SPD-Ratsfraktion- - vertagt
+- TOP 4.5: Gehwegparken und Sicherheit -Anfrage Ratsfraktion DIE PARTEI-Klima- - zur Kenntnis genommen
+- TOP 4.6: Barrierefreiheit an S-Bahnstationen -Anfrage Ratsfraktion DIE PARTEI-Klima- - zur Kenntnis genommen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktion DIE LINKE: Kauf von Rheinbahn-Tickets mit Bargeld muss möglich bleiben - mehrheitlich abgelehnt
+- TOP 5.2: Änderungsantrag der Ratsfraktion Die PARTEI-Klima zur Vorlage RAT/015/2025 - zurückgezogen
+- TOP 5.3: Grüne Welle für Radfahrende auf den Schulwegen von und nach Niederkassel -Antrag der SPD-Ratsfraktion- - abweichend beschlossen
+- TOP 5.4: Mehr Schadowstraße wagen -Antrag Ratsfraktion DIE PARTEI-Klima- - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Statusbericht Projekt SiBU
+- TOP 7.2: Bericht zur Umsetzung der Radverkehrsführung auf der Schadowstraße
+- TOP 7.3: Bericht zu Karneval 2025
+- TOP 8: Rheinbahn-Projekt Calo - zur Kenntnis genommen
+- TOP 9: Lärmaktionsplan IV - Empfehlung einstimmig beschlossen
+- TOP 10: Weitere Veranstaltungen auf dem Burgplatz 2025 - mehrheitlich beschlossen
+- TOP 11: Fischmärkte auf dem Tonhallenufer im Jahre 2025 - einstimmig beschlossen
+- TOP 12: Worringer Platz – Rückbau der Glasbausteinbänke und Umsetzung von Ersatz- und Beleuchtungsmaßnahmen - mehrheitlich beschlossen
+- TOP 13: Einrichtung von Radfahrstreifen auf der Duisburger Straße und Vagedesstraße zwischen Nordstraße und Prinz-Georg-Straße - einstimmig beschlossen
+- TOP 14: Evaluationsbericht zur Maßnahme „Roteinfärbung von Radverkehrsfurten an signalgeregelten Knotenpunkten“ und weiteres Vorgehen - einstimmig beschlossen
+- TOP 15: Zwischenbericht zum Energieeinsparungskonzept „Öffentliche Beleuchtung – Umstellung der strombetriebenen Beleuchtungsanlagen auf 100 % LED bis 2026“ - zur Kenntnis genommen
+- TOP 16: Sachstand Einrichtung Grüner Pfeil für Radfahrende (Verkehrszeichen 721) in Düsseldorf - zur Kenntnis genommen
+- TOP 17: Fünfter Bericht zum Ratsbeschluss “Saubere Luft für Düsseldorf – Reduzierung von NOx-Emissionen vorantreiben“ - zur Kenntnis genommen
+- TOP 18: Evaluation des velosicheren Gleises auf der Nordstraße - zur Kenntnis genommen
+- TOP 19: Zukunftspreis der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 20: Landpartie Grafenberg auf der Galopprennbahn im Jahre 2025 - einstimmig beschlossen
