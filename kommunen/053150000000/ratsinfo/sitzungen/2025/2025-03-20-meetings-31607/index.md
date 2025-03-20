@@ -1,0 +1,69 @@
+# 32, Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-20T16:00:00+01:00
+- Ende: 2025-03-20T21:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31607
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31607
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohneranfrage KVB
+- TOP 1.1.1: Beantwortung der Einwohneranfrage nach § 39 der Geschäftsordnung zu „KVB-Baumaßnahmen“ vom 13.09.2024 - Kenntnis genommen
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Bedarfsfeststellungs- und Planungsbeschluss für die externe Beauftragung der Planung einer Rad- und Gehwegbrücke über den Rhein an der Bastei in Köln - ungeändert beschlossen
+- TOP 3.2: Bedarfsfeststellungs- und Planungsbeschluss für die externe Beauftragung der Planung einer Rad- und Gehwegbrücke über den Rhein am Ubierring in Köln - ungeändert beschlossen
+- TOP 3.3: Deutzer Brücke; Bedarfsfeststellungs- und Baubeschluss zur Erneuerung der Entwässerungs- und Beleuchtungsanlage auf der Nordseite - ungeändert beschlossen
+- TOP 3.4: Aufhebung der Satzung über Anbringungsort, Abmessungen und Ausgestaltung von Werbeanlagen für einen Teil der Ortslage in der Kölner Altstadt im Bereich der Ringstraßen von der Straße "Konrad-Adenauer-Ufer" im Norden bis zur Straße "Am Bayenturm" im S - ungeändert beschlossen
+- TOP 3.5: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2025 - ungeändert beschlossen
+- TOP 3.6: 295. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.7: Konzept für die SeniorenNetzwerke Köln
+- TOP 3.8: Ebertplatz vorgezogene bauliche kriminalpräventive Maßnahmen an der Westpassage - geändert beschlossen
+- TOP -: Situation am Ebertplatz verbessern, Änderungsantrag Die Linke - endgültig abgelehnt
+- TOP 3.9: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2025 Teil 1 - ungeändert beschlossen
+- TOP 3.10: Lärmschutz am Brüsseler Platz, hier: Beschluss über den Erlass einer ordnungsbehördlichen Verordnung über ein Verweilverbot auf dem Brüsseler Platz - geändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gemäß § 24 GO, betr.: „Satzung für den Erhalt des Belgischen Viertels“ Aktenzeichen 86/24 B - geändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO – „Versetzen einer Bank in der Gilbachstraße, Kölner Stadtgarten“ - 125/24 - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO – Antrag zur Umbenennung eines Teilstücks der Alfred-Schütte-Allee in Mary-Bauermeister-Allee - Az: 63/24 S - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Einrichtung einer umzäunten Hundespielwiese am Hansaplatz Ecke Adolf-Fischer-Str. / Gereonswall, gem. Antrag CDU, B90/Die Grünen und FDP - geändert beschlossen
+- TOP -: Gem. ÄA zu 5.1.1 Einrichtung einer umzäunten Hundespielwiese am Hansaplatz Ecke Adolf-Fischer-Str. / Gereonswall, gem. Antrag CDU, B90/Die Grünen und FDP - ungeändert beschlossen
+- TOP 5.1.2: Umgestaltung Jean-Claude-Letist-Platz, gem. Antrag B90/Die Grünen, Die Linke und KlimaFreunde - geändert beschlossen
+- TOP 5.1.3: Beleuchtung August-Sander-Park und Media Park, Antrag CDU - endgültig zurückgezogen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.2: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.3: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.4: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Initiativen zum Severinsviertel, Anfrage der SPD - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Sachstandsmitteilung zu den von der Bezirksvertretung Innenstadt priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 9.2: Yitzhak-Rabin-Platzes: Stellungnahme zu Ortstermin am 12.06.2024 - Kenntnis genommen
+- TOP 9.3: Beantwortung einer Anfrage der Fraktion FDP im Stadtentwicklungsausschuss aus der Sitzung vom 05.12.2024 (AN/1683/2024) "Wie steht es um den Domsockel?" - Kenntnis genommen
+- TOP 9.4: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 9.5: Öffnung der Brüsseler Straße für den Radverkehr - Kenntnis genommen
+- TOP 9.6: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 9.7: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
+- TOP 9.8: Sachstandsberichte - Kenntnis genommen
+- TOP 9.9: Feierabendmärkte auf dem Chlodwigplatz 2025 - Kenntnis genommen
+- TOP 9.10: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 9.11: Beantwortung einer Anfrage gem. §4 der Geschäftsordnung AN 0885/2024 betreffend Sauberkeit Hansaring - Kenntnis genommen
+- TOP 9.12: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 9.13: Niederschrift der 14. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 11.02.2025 - Kenntnis genommen
+- TOP 9.14: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 9.15: Wiederaufstellung der Fahrradständer in der Trankgasse und Möblierung der vom Verkehr freigestellten Flächen - Kenntnis genommen
+- TOP 9.16: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
