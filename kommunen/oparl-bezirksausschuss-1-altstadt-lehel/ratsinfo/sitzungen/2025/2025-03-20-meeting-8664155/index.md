@@ -1,0 +1,100 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-03-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664155
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664155
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Mariannenstr. 5 Nutzungsänderung einer Wohnung im 2.OG, Mitte, in eine Einheit nach Art eines Beherbergungsbetriebs (Ferienwohnung); Frist: 24.03.2025
+- TOP 3.1.2.: Max-Joseph-Pl. 2 Stehausschank im Bereich des Portikus und der Freitreppe des Nationaltheaters, max. 650 Personen, Sitzbereich auf der Freitreppe des Nationaltheaters; 24.03.2025
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Moderiertes Dialogverfahren zur Barrierefreiheit des Valentin-Karlstadt-Musäum im Isartor; Frist: 21.03.2025
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Lärm und Erschütterung durch Straßenbahnen, TOP 2025.02 A 3
+- TOP 1.2.: Antrag Fraktion Bündnis 90/die Grünen: Verbesserung der Fahrradabstellsituation in der Thierschstraße
+- TOP 1.3.: Bürger*innenanliegen E-Scooter in der Altstadt/Innenstadt
+- TOP 2: Entscheidungen
+- TOP 2.1.: St.-Anna-Str. 13: Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.: Bruderstr. 5a (Eingang Unsöldstr.): Antrag auf einen mobilen Fahrradständer
+- TOP 2.3.: Erneute Beschlussfassung: Rotmarkierung des Radwegs in der Sonnenstraße am Übergang Karlsplatz /Prielmayer-straße, Empfehlung Nr. 20-26 / E 01903 der Bürgerversammlung des 01. Stadtbezirkes Altstadt-Lehel am 11.04.2024, TOP 2025.01 C 2.4, 2025.02 C 0.1
+- TOP 2.3.1: (E) Rotmarkierung des Radwegs in der Sonnenstraße am Übergang Karlsplatz / Prielmayerstraße
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Teilstrategie Shared Mobility – Stadtbezirk 1; Frist: 04.04.2025
+- TOP 3.2.2.: MVG-Anpassungsprogramm 2026: Anhörung der Bezirksausschüsse
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Wilhelm von Ockham und die Moderne
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget CultureClouds e.V. Strawanzen war unsere Lieblingsbeschäftigung vom 07.04. -30.06.2025 1.616,00€; Az. 0262.0-1-0401
+- TOP 2.1.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Herrnstraße Medienprojekt /Trickfilm zu den demokratischen Grundwerten der Herrnschule vom 05. -19.05.2025 720,00€; 0262.0-1-0403
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Dienerstr. 21: Genehmigung einer Freischankfläche
+- TOP 2.2.2.: Hackenstr. 4: Genehmigung einer Freischankfläche
+- TOP 2.2.3.: Sebastianspl. 4: Genehmigung einer Freischankfläche
+- TOP 2.2.4.: St.-Jakobs-Platz 1: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.5.: Kardinal-Faulhaber-Str. 1: Genehmigung einer Freischankfläche (Schanigarten)
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: Vorratsbeschluss Hofspielhaus "Theater für Alle“ Sommer 2025
+- TOP 2.3.2.: „Sommerstraße“ Bespielung der Falkenbergstrasse durch die Kammerspiele
+- TOP 3: Anhörungen
+- TOP 3.1.: Marienplatz Aktionstag zum 150jährigen Jubiläum des Münchner Roten Kreuzes am 10.05.2025.pdf
+- TOP 3.2.: Griech. orthodoxe Karfreitagsprozession, Auferstehungsfeier Salvatorpl. bis Marienplatz am 18. und 19.04.25. (Termin: 04.04.2025)
+- TOP 3.3.: Karfreitagsprozession Kreuzweg der Völker St. Michael bis Marienplatz am 18.04.2025 (Termin: 21.03.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Antwortschreiben zum BA- Antrag Nr. 20-26 / B 07293 - Anfrage – Ehrenamt muss abgesichert sein
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP B 4.4.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP B 4.5.: (U) Anwendung von Planungsinstrumenten zur Sicherung der Altstadt
+- TOP B 4.6.: Bürger*innenanliegen Nutzungsänderung Liebherrstr. 16/ Thierschstr. 10 in Beherbergungsbetrieb, Antwortschreiben Münchner Wohnen
+- TOP B 4.7.: Meldung von Baumfällungen und/oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der Bezirksausschusssatzung, TOP 2025.01 B 4.7, Stellungnahme Baureferat
+- TOP B 4.8.: Pacellistr. 4, Nutzungsänderung des 5 OGs von Wohnfläche zu Bürofläche und Errichtung einer gemeinschaftlich genutzten Dachterrasse. Errichten einer Notleiteranlage mit Anschluss an Notleiteranlage Bestand. Austausch der Fassade im 5. OG und DG. Erneuerung der Fenster, TOP 2025.02 B 3.1.3, Antwortschreiben Sozialreferat
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürgerbegehren "Grünflächen erhalten" Bekanntgabe der Evaluierung der Auswirkungen der durch den Stadtrat übernommenen Forderung des Bürgerbegehrens
+- TOP C 4.3.: Bürger*innenanliegen starke Verschmutzung um die Grundschule an der Herrnstraße, Schreiben Schulleitung
+- TOP C 4.4.: Informationen zum Planungsstand zu den Baumaßnahmen am Stachus durch MVG
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: AKIM Bericht 1. Jahreshälfte 2025
+- TOP D 4.5.: Information der Anwohnerschaft: Verlängerung der dU Blumenstr. 51
+- TOP D 4.6.: Eilentscheidung Infoveranstaltung am Karlsplatz am 19.03.2025 gem. §29 der StVO (Termin: 07.03.2025)
+- TOP D 4.7.: Eilentscheidung Praterinsel Anhörungsverfahren für WeinMünchen (Frühling) am 21.-23.03.2025
