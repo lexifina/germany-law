@@ -1,0 +1,8 @@
+# TOP -: Beantwortung einer Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bebauungspläne und Bäume - Verbindlich. Vergesslich. Köln."
+
+- Sitzung: Sitzung des Ausschusses Klima, Umwelt und Grün (2025-03-20)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/415091
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/189985
