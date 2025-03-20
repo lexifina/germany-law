@@ -1,0 +1,75 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-20T17:00:00+01:00
+- Ende: 2025-03-20T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31879
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31879
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage bezüglich des Zustands der Fahrradwege im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.2: Öffentlichkeitsarbeit und Informationsweitergabe im Rahmen der Gesundheitsregion Kölner Norden - Kenntnis genommen
+- TOP 7.1.3: Anfrage zum fachärztlichen Bedarf im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.4: ÖPNV-Verbindungen der KVB im SB Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Sanierung Krebelshof - Kenntnis genommen
+- TOP 7.1.6: Ausfälle S6 und S11 im Stadtbezirk - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Damiansweg: Verkehrsplanung, Parksituation, Radwege und Buscaps Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Einrichtung einer Einbahnstraße auf der Offenbachstraße in Köln Pesch Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Anfrage Maßnahmen zum Schutz der Bäume und Verbesserung der Parksituation am Fühlinger See Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Anfrage Zustand und Zukunft des Sportplatzes KSV Heimersdorf Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Zusatzantrag / Kommunale Spielraumplanung 2025-2030 - Maßnahmenplanung für den Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP -: Die Vorlage 0505/2025 wurde von der Verwaltung zurückgezogen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Jugendbeteiligung in der Bezirksvertretung Chorweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Verkehrs- und Parksituation Volkhovener Weg 209-232 in Köln Volkhoven/Weiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umgestaltung des öffentlichen Spielplatz Magnolienweg in Köln-Seeberg - ungeändert beschlossen
+- TOP 9.1.2: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Freigabe der positiv geprüften Standorte - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: RadPendlerRouten-Netz Köln: RadPendlerRoute Köln Innenstadt - Nippes - Chorweiler - Dormagen - ungeändert beschlossen
+- TOP 9.2.2: Grundsatz- und Bauübertragungsbeschluss für die Verlängerung der südlichen Abfahrtsrampe für den Radverkehr, von der Rheinbrücke Leverkusen bis Spoerkelhof in Köln-Merkenich und Freigabe von investiven Auszahlungsermächtig. Finanzst. 6601-1201-6-1158 - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - geändert beschlossen
+- TOP -: Ergänzungsantrag der SPD-Fraktion - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion - geändert beschlossen
+- TOP 9.2.4: Die Vorlage 0319/2024 "Konzept für die SeniorenNetzwerke Köln" wurde von der Verwaltung zurückgezogen
+- TOP 9.2.5: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: „Am Höfenweg" in Köln-Merkenich - ungeändert beschlossen
+- TOP 9.2.6: Entscheidungsvorlage zur weiteren schulischen Nutzung des Schulstandorts Holzheimer Weg - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 10.2.2: Änderungen zum Fahrplanwechsel 2024 (Fahrplanjahr 2025) - Kenntnis genommen
+- TOP 10.2.3: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 10.2.4: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.5: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 10.2.6: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 10.2.7: Mitteilung zur Veranstaltungsplanung am Fühlinger See 2025 - Kenntnis genommen
+- TOP 10.2.8: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 10.2.9: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Informationspolitik der KVB über Verspätungen und Ausfälle - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
+- TOP 11.3.1: Aufstellung einer Bank an der Bushaltestelle Köln-Esch Friedhof in Richtung Volkhoven Weiler - Kenntnis genommen
