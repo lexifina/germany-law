@@ -1,0 +1,64 @@
+# 8. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-03-20T16:00:00+01:00
+- Ende: 2025-03-20T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14605
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14605
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00810848.pdf
+- Ergebnisprotokoll: Niederschrift_SR_öffentlich http://oparl.dresden.de/bodies/0001/downloadfiles/a/00814485.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Mitglieder des Stadtrates (1 Runde)
+- TOP 2.1: Städtepartnerschaften
+- TOP 2.2: Ersatzneubau Nossener Brücke
+- TOP 2.3: Vorgehen beim Abriss der Carolabrücke
+- TOP 2.4: Radfahrstreifen entlang der Bautzner Straße
+- TOP 2.5: Zufahrtsschutz bei öffentlichen Veranstaltungen
+- TOP 2.6: Kinder- und Jugendnotdienst
+- TOP 2.7: Schließung von Einrichtungen bei Haushaltsbeschluss
+- TOP 2.8: Unternehmensabwanderungen und Entwicklung Arbeitslosenzahlen in Dresden
+- TOP 2.9: Stand der Planung einer großen Flusswärmepumpe
+- TOP 3: Einigungsverfahren Gremienbesetzung
+- TOP 3.1: Umbesetzung im Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Benennung
+- TOP 3.2: Umbesetzung im Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Benennung
+- TOP 3.3: Umbesetzung im Ausschuss für Soziales und Wohnen - Benennung
+- TOP 3.4: Umbesetzung im Ausschuss für Petitionen und Bürgerbeteiligung - Benennung
+- TOP 3.5: Umbesetzung Stellvertretung Jugendhilfeausschuss - gewählt
+- TOP 3.6: Umbesetzung im Aufsichtsrat Stesad - Benennung
+- TOP 3.7: Umbesetzung im Aufsichtsrat der WiD Wohnen in Dresden GmbH & Co. KG - Benennung
+- TOP 3.8: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e.V. - gewählt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Satzung zur Änderung der Hauptsatzung - Vertagung
+- TOP 6: Satzung zur Änderung der Hauptsatzung - Vertagung
+- TOP 7: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 8: Einwendungen gegen den Entwurf der Haushaltssatzung 2025/2026 gemäß § 76 SächsGemO - Vertagung
+- TOP 9: Haushaltssatzung 2025/2026 und Wirtschaftspläne der Eigenbetriebe 2025/2026 - Vertagung
+- TOP 10: Sicherstellung der Erbringung von öffentlichen Personenverkehrsdiensten durch die Dresdner Verkehrsbetriebe AG - Vertagung
+- TOP 11: Für die Erhaltung & Stärkung des ÖPNV-Angebots - Vertagung
+- TOP 12: Dresden braucht seine Kultur! - Vertagung
+- TOP 13: UNIHÖ - Erweiterung und Sanierung des Bestandsgebäudes für die Klassen 1 bis 12 der Universitätsgemeinschaftsschule mit Erneuerung der Freianlagen am Schulstandort Höckendorfer Weg 2 in 01189 Dresden - Vertagung
+- TOP 14: Verordnung der Landeshauptstadt Dresden über Parkgebühren (Parkgebührenverordnung) - Vertagung
+- TOP 15: Verordnung der LH Dresden über die Erhebung von Gebühren für das Ausstellen von Bewohnerparkausweisen (Bewohnerparkausweisgebührenverordnung) und Rahmenbeschluss zur zukünftigen Ausweitung von Bewohnerparkgebieten im Sinne einer Absichtserklärung - Vertagung
+- TOP 16: Fortsetzung der Maßnahmen zur Belebung der Innenstadt im Rahmen der Sondernutzungssatzungen – Dauerhafte Abschaffung der Sondernutzungsgebühren für Außengastronomie und eintrittsfreie Veranstaltungen sowie Veranstaltungsplakatierung - Vertagung durch Einreicher
+- TOP 17: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) vom 25. März 2022 in der Form der Änderung vom 25. Januar 2024 - Vertagung
+- TOP 18: Satzung zur Änderung der Spielautomatensteuersatzung der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 19: Satzung zur Änderung der Zweitwohnungssteuersatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 20: Vertagungen aus der Stadtratssitzung vom 12.02.2025
+- TOP 20.1: Errichtung eines Fahrradparkhauses am Bahnhof Dresden-Neustadt, Schlesischer Platz (Baubeschluss nebst Grundstückserwerb) - Zustimmung
+- TOP 20.2: Keine militärischen Waffen zum Dresdner Stadtfest! - Vertagung durch Einreicher
+- TOP 20.3: Kein Kriegsgerät zum Dresdner Stadtfest! - Vertagung
+- TOP 20.4: Dresdens Wochenmärkte rekommunalisieren und zu Stadtteilplätzen beleben - Vertagung
+- TOP 21: Beschluss der Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung der Gleichstellung der Geschlechter – Projektförderung (FFRL Gleichstellung-PF) - Vertagung durch Einreicher
+- TOP 22: Beschluss der Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung der Gleichstellung der Geschlechter – institutionelle Förderung (FFRL Gleichstellung-IF) - Vertagung durch Einreicher
+- TOP 23: Ergänzungs- und Änderungsverfahren Nr. 6, Stadtbezirk Neustadt, Teilbereich Jägerpark des Flächennutzungsplanes der Landeshauptstadt Dresden in den Stadtgrenzen vom 1. Januar 1999, rechtswirksam seit 22. Oktober 2020 - Zustimmung
+- TOP 24: Vorhabenbezogener Bebauungsplan Nr. 6041, Dresden-Trachau, Schule Leipziger Straße/Pettenkoferstraße - Zustimmung
+- TOP 25: Aufhebung des Beschlusses A0490/23 „Zweckentfremdung von Wohnraum in Dresden verbieten“ - Vertagung durch Einreicher
+- TOP 26: Ressourcen schonen – Lebensmittel retten - Ablehnung
+- TOP 28: Geplante Kürzungen im neuen Haushalt - Vertagung
