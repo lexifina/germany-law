@@ -1,0 +1,80 @@
+# 40. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-03-20T17:00:00+01:00
+- Ende: 2025-03-20T21:10:00+01:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5872
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5872
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=420258
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen die Protokolle der Sitzungen vom 23.01.2025 und 20.02.2025 - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege in der Trautenauer Straße - in der BVV zurückgezogen
+- TOP 4.2: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege in der Üderseestraße - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen
+- TOP 5.1: Schulneugründung einer ISS am Standort Römerweg 29 (Arbeitstitel Römerweg 39), 10318 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Erbe aus der Vergangenheit am Eingang des Rathauses Lichtenberg tilgen - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Panchina Rossa - eine rote Parkbank als Mahnmal für Femizide und Gewalt an Frauen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Fußgängerrampe für den Rheinsteinpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Die Margaretenhöhe im Fokus: Renaturierung voranbringen, ÖPNV-Anschluss ermöglichen und "Park-and-Ride" einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Der (Amateur-) Musik und Kunstschaffenden eine Bühne geben - Die Freilichtbühne im Stadtpark Lichtenberg wetterfest machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Den Trimm-Dich-Pfad im Quartierspark Rosenfelder Ring noch vor Beginn der Bauarbeiten umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Zusätzliche Sitzmöglichkeiten in der Schalkauer Straße sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Wohnen auf Zeit und möbliertes Wohnen regulieren - Zweckentfremdung von Wohnraum effektiv bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Sauberkeit und Sicherheit auf dem Parkplatz an der Josef-Höhn-Straße umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Anpassung der Kriterien für den Lichtenberger Frauen*preis - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Schulcontainer in der Salzmannstraße nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: BVV-Sondermittel für das Projekt CineLuzes "Städtepartnerschaften im Licht des Kino - eine Jubiläumsausgabe" von "Stadtlichter" - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Antrag auf Bewilligung von Sondermitteln für Messias-Open-Air zum Karlshorst-Jubiläum - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Schüler:innen-Club für jede Grundschule - überwiesen
+- TOP 5.16: 50 Cent pro Hundehaufen - in der BVV abgelehnt
+- TOP 5.17: Städtische Denkmale vor weiterem Verfall schützen. Die Bausubstanz der Kapelle auf dem Friedhof Gotlindestraße sichern. - überwiesen
+- TOP 5.18: Künftige Nutzung des Grundstücks Salzmannstraße 34 klären - überwiesen
+- TOP 5.19: Lokales Kiezgewerbe stärken - Schankvorgarten bei Wolke 7 - überwiesen
+- TOP 5.20: Inventar der Kiezfonds öffentlich sichtbar und für jedermann erreichbar machen - überwiesen
+- TOP 5.21: Ersatzstandorte für Glascontainer in Hohenschönhausen ermöglichen - überwiesen
+- TOP 5.22: Bordsteinabsenkung an Haltestelle Gensinger Straße Nord - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Schlagloch An der Hansekogge ausbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Barrierefreier Zugang: Umrundung des Fennpfuhls nah am Wasser für alle, erster Schritt jetzt! - überwiesen
+- TOP 5.25: Starke Qualifikation - starke Jugend(verbands)arbeit - überwiesen
+- TOP 5.26: Strategie gegen Verwahrlosung entwickeln - überwiesen
+- TOP 5.27: Beleuchtung am Bahnhof smart anpassen - überwiesen
+- TOP 5.28: Sonderprogramm "Sichere Überwege" für Lichtenberg - überwiesen
+- TOP 5.29: Eine Praxisraumbörse auch für Lichtenberg - überwiesen
+- TOP 5.30: Barrierefreiheit auf Fußwegen erhöhen - Poller sichtbar machen - überwiesen
+- TOP 5.31: Periodenartikel für alle Schulen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: Tempo 30 auf dem Wartenberger Weg - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - erledigt
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - erledigt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - in der BVV abgelehnt
+- TOP 8.3: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - gegenstandslos
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Kiezparkhäuser für lebenswerte und verkehrssichere Kieze in Lichtenberg - überwiesen
+- TOP 10.2: Ehrenamtlichen Tierschutzverein in Friedrichsfelde erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Öffentliche Diskussion um Namensgebung der Bodo-Uhse-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Politische Neutralität staatlich geförderter Organisationen und Extremismusklausel einfordern - in der BVV abgelehnt
+- TOP 10.5: Ramadan Mubarak! Solidarität mit unseren muslimischen Mitbürger*innen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Haushalts-Kummer nicht auf Kinder und Jugendliche abwälzen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - gegenstandslos
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 12.1: Anmeldung für das Investitionsprogramm 2025 – 2029 - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Maßnahmen zur umfassenden Verbesserung der Infrastruktur und Verkehrssicherheit im Wohnquartier "Mein Falkenberg" - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Finanzielle Handlungsspielräume öffnen, Umwelt schützen und Müll vermeiden: Verpackungssteuer einführen - in der BVV abgelehnt
+- TOP 14.2: Gedenkstätten zum Ende des 2. Weltkrieges wieder in einen würdevollen Zustand versetzen - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Mit der Senatorin in der Straßenbahn zum Dong Xuan Center fahren - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Förderung lokaler Wirtschaft und Kultur durch regionale Produktmärkte als Feste zu wiederkehrenden Jahreszeiten - in der BVV abgelehnt
+- TOP 15: VzK/Aufhebungsanträge - (offen)
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
