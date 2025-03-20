@@ -1,0 +1,24 @@
+# überplanmäßige Bereitstellung von Finanzmitteln für den Bau der Carport-PV-Anlage Am Waldschwimmbad
+
+- Körperschaft: Stadt Kronberg im Taunus
+- Drucksache/Vorlage: 5287/2025 1. Ergänzung
+- Art: Stadtverordnetenvorlage
+- Datum: 2025-03-20
+- Ratsinformationssystem: https://kronberg.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXNIBdYG7IlcU_qIH_d-Ass
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/9542
+- Quelle: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Stadtverordnetenvorlage (überplanmäßige Bereitstellung von Finanzmitteln für den Bau der Carport-PV-Anlage Am Waldschwimmbad) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb4iPNCpr9OQe-tI0WlD-Hg9liU2_LLfzkBcDryjzI0E/Stadtverordnetenvorlage_5287-2025_1._Ergaenzung.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 2025-03-06-I-Strom Liegenschaften Verbräuche 2024) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS3YwzQ_DqariXNvngcQUeytRJTZQGi0uRcB3r8-FOud/2025-5287_-_2025-03-06-I-Strom_Liegenschaften_Verbraeuche_2024.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 2025-03-10 Auslegung PV-Anlage_V2_250310) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYp_Tpwlzgwz7R7IFcBdpebBPBKkduhuLqsSKLjig48d/2025-5287_-_2025-03-10_Auslegung_PV-Anlage_V2_250310.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 2025-03-11-I-Aktuelle Daten Wirtschaftlichkeit und Bilanzkreis) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcO4gldwNCe2zzPrvXNjeCTOE2SSWILs13-ceG5L2l99/2025-5287_-_2025-03-11-I-Aktuelle_Daten_Wirtschaftlichkeit_und_Bilanzkreis.pdf
+- Anlage: Stadtverordnetenvorlage (2025-1-M u. 2025-5287-S Anlage Wirtschaftlichkeitsbetrachtung PV-Anlage) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMUJ6imSJwGaI39ZwN_ShTy16WhsDYxLWdiXrJ9Hm3R/2025-1-M_u._2025-5287-S_Anlage_Wirtschaftlichkeitsbetrachtung_PV-Anlage.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 01 - Wirtschaftlichkeit PV-Waldschwimmbad) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUuvgiY2aSxEXSK1YRJ5qjRmZRZcmTt560xWzxJVaMYB/2025-5287_-_01_-_Wirtschaftlichkeit_PV-Waldschwimmbad.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 02 - Kronberg Schönberger Str 38 - SGO) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSBOvVgx17_lI2QG4ldQUjEs1fhp3MY7XsgRkFoaGyWF/2025-5287_-_02_-_Kronberg_Schoenberger_Str_38_-_SGO.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 03 - Kronberg Friedhof Thalerfeld - Grundweg 5) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRLGQ4azzzsqrhMS6DNTiTfPLc9wSV6zLLoAMJsn_C8A/2025-5287_-_03_-_Kronberg_Friedhof_Thalerfeld_-_Grundweg_5.pdf
+- Anlage: Stadtverordnetenvorlage (2025-03-17 Aufklärung Darstellung Verbräuche) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb5ztbovyQwcXHNDWraKL0UR2wKqV737dQHxQ6pV4pzF/2025-03-17_Aufklaerung_Darstellung_Verbraeuche.pdf
+- Anlage: Stadtverordnetenvorlage (2025-02-13 Allgemeine Erläuterungen sowie Antworten des Büros Dörflinger) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT7acHemy75dsNwjHTmrRUjM1qLszSK1Wht3-dcKEZLx/2025-02-13_Allgemeine_Erlaeuterungen_sowie_Antworten_des_Bueros_Doerflinger.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5287 - 04 - Kronberg MFH Am Buchrain 10) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUnzgUad192diSxRKfqRnssF5iIFL1ah4nb6yqX_oWMG/2025-5287_-_04_-_Kronberg_MFH_Am_Buchrain_10.pdf
+- Anlage: Stadtverordnetenvorlage (NEU_Auslegung PV-Anlage_Bilanzkreismodell+Carport_250213) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6CU8KtMCj_KA6z3F3_LLZWOalydK8gYdPrOURU4Izg/NEU_Auslegung_PV-Anlage_Bilanzkreismodell-Carport_250213.pdf
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8264 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-30
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8279 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-218
