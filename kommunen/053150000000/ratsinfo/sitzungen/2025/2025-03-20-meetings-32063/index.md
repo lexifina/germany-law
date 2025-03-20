@@ -1,0 +1,58 @@
+# 30. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-20T17:00:00+01:00
+- Ende: 2025-03-20T18:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32063
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32063
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - Radwege in Köln, Az.: 07/24 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Antrag der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk am 20.03.2025: "Racial Profiling der Polizei Köln offenlegen" - endgültig zurückgezogen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe von Teilen der bezirksorientierten Mittel für das Jahr 2025 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Aufstellung einer Sozialen Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet Kalk Mitte in Köln-Kalk - ungeändert beschlossen
+- TOP 8.2.2: Beschluss über die Aufstellung eines Bebauungsplans und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Neubrücker Ring in Köln-Neubrück - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LINKE. zur Sitzung der Bezirksvertretung Kalk am 20.03.2025: "Gärten und Wald statt Beton und Asphalt - Aufstellung eines (Nicht-) Bebauungsplans" - endgültig abgelehnt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage von Bezirksvertreter Fischer (Die LINKE.) in der Sitzung der Bezirksvertretung Kalk vom 23.01.2025 :" Schließungen Kalker Stadtgarten" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der BV 8 vom 28.11.2024 zum Brachland auf dem Grundstück Hans-Schulten-Straße neben KiTa (AN/1595/2024) - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 01.02.2025 (AN/0040/2025) betreffend "Sachstand Instandsetzung der Abgrenzung des Bachbettes in der Abshofstraße" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion und Fraktion Bündnis 90/Die Grünen aus der BV 8 vom 28.11.2024 (AN 1616/2024) betreffend "Schulwegsicherung für die KGS Vietorstraße" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Gem. Anfrage SPD-Fraktion, Fraktionen B90 und Die LINKE. in der Sitzung der Bezirksvertretung Kalk am 20.03.2025: "Servatiusstraße in Ostheim, Tempo 30" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 20.03.2025: "Verkehrssituation auf dem Fockerweg in Köln Rath/Heumar – insbesondere im Bereich vor Haus Baden" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 20.03.2025: "Verkehrssituation auf der Kuthstraße zwischen den KVB-Haltestellen Buslinie 153 „Vingst“ und „Kampgasse“" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsmitteilung zu den von der Bezirksvertretung Kalk priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2025 - Sportboxen - Kenntnis genommen
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 10.2.4: Veröffentlichung des Bebauungsplanentwurfs Nr. 71453/02 (gem. § 3 Abs. 2 BauGB) Arbeitstitel: Kalker Hauptstraße/Wippermannstraße in Köln-Kalk - Kenntnis genommen
+- TOP 10.2.5: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.6: Anmietung der Modulbauten in der Neuerburgstraße/Dillenburger Straße - Kenntnis genommen
+- TOP 10.2.7: Mitteilung zur Auswertung der Öffentlichkeitsbeteiligung - Freiraum Kalker Höfe - Kenntnis genommen
+- TOP 10.2.8: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 10.2.9: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 10.2.10: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - zurückgestellt
+- TOP 10.2.11: Einrichtung einer Fahrradstraße auf der Thumbstraße zwischen Eythstraße und Markt - Kenntnis genommen
+- TOP 10.2.12: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - zurückgestellt
+- TOP 13.1: Übersicht Offene Anfrage Stand 20.03.2025 - Kenntnis genommen
