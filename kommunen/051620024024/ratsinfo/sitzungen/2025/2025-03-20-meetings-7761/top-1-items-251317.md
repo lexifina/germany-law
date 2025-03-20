@@ -1,0 +1,7 @@
+# TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+
+- Sitzung: Kommission Kleingartenwesen (2025-03-20)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/251317
+- Ergebnis: einstimmig zugestimmt
