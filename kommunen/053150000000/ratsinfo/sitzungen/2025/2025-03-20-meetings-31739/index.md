@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-20T16:05:00+01:00
+- Ende: 2025-03-20T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31739
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31739
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Präsentation Potential- und der Bestandsanalyse der kommunalen Wärmeplanung
+- TOP -: C Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bebauungspläne und Bäume - Verbindlich. Vergesslich. Köln." - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bebauungspläne und Bäume - Verbindlich. Vergesslich. Köln." - Kenntnis genommen
+- TOP 1.2: Anfrage der FDP-Fraktion betr.: "Naturschutzwacht in Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0009/2025) betr.: "Naturschutzwacht in Köln" - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Trinkbrunnen in Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/ Die Grünen, CDU und Volt aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 30.01.2025 (AN/0126/2025) betreffend: "Trinkbrunnen in Köln" - Kenntnis genommen
+- TOP 1.4: Anfrage der SPD-Fraktion betr.: "Hochwasserschutz in Köln-Dünnwald" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0131/2025) betreffend "Hochwasserschutz in Dünnwald" - zurückgestellt
+- TOP 1.5: Anfrage der CDU-Fraktion betr.: "Förderanträge für Photovoltaikanlagen" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0140/2025) betreffend "Förderung für Photovoltaikanlagen" - zurückgestellt
+- TOP 1.6: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Stand Klimaschutz Monitoring" - zurückgestellt
+- TOP 1.7: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Photovoltaik auf denkmalgeschützten Gebäuden" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion aus der Sitzung des Ausschusses für Klima, Umwelt und Grün vom 30.01.2025 betreffend "PV auf denkmalgeschützten Gebäuden - Kenntnis genommen
+- TOP 1.8: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Mitteilung zum Flughafen" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 30.01.2025 betreffend "Mitteilung zum Flughafen" (AN/0137/2025) - zurückgestellt
+- TOP 1.9: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses betr.: "Sauberkeit Hansaring" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Kölner Grüngürtelsystem: Weltkulturerbe jetzt! - endgültig zurückgezogen
+- TOP -: Stellungnahme der Verwaltung zum Antrag der Ratsgruppe KLIMA FREUNDE & GUT in der Sitzung des AKUG vom 12.09.2024 "Kölner Grüngürtelsystem: Weltkulturerbe jetzt" (AN/1032/2024) - Sache ist erledigt
+- TOP 2.2: Antrag der Fraktion Die Linke betr.: "Regenwassernutzung in Kölle" - zurückgestellt
+- TOP 2.3: Antrag der Fraktion Die Linke betr.: "Netto Null Versiegelung" - zurückgestellt
+- TOP 2.4: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Vom toten Pferd absteigen - JETZT?! - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Zuschuss an die heuteStadtmorgen eG für die Erstellung eines Konzepts zur energetischen Quartierssanierung - zurückgestellt
+- TOP 3.2: Klimaschutzpreis - ungeändert empfohlen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf den Fluren M und S des Friedhofs Wahn - ungeändert beschlossen
+- TOP 4.2.2: Fällung von geschützten Bäumen in der Rochusstr. 201, Köln-Ossendorf - ungeändert beschlossen
+- TOP 4.2.3: Ersatzbeschaffung von 13 Schmalspurtransportern als Elektrofahrzeuge für den Bereich der Kölner Friedhöfe - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Der Kölner Rahmen [ ] – Förderprogramm für innovative Ideen - Kenntnis genommen
+- TOP 7.2: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 24. Februar 2025 - Kenntnis genommen
+- TOP 7.3: Mitteilung zur Auswertung der Öffentlichkeitsbeteiligung - Freiraum Kalker Höfe - Kenntnis genommen
+- TOP 7.4: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 7.5: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 7.6: Kompensationszahlung für Flugreisen 2024 - Kenntnis genommen
+- TOP 7.7: Ergebnisse nächtlicher Befliegung zur Analyse der Lichtverschmutzung im Stadtgebiet - Kenntnis genommen
+- TOP 7.8: Förderprogramm Umweltbildung: Bilanz 2024 und Aktualisierung Richtlinie - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Beantwortung einer mündlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 betr.: "Schulungsmaßnahmen für Landschaftsgärtner" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
