@@ -1,0 +1,84 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-03-20T18:38:00+01:00
+- Ende: 2025-03-20T20:49:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3679
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3679
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00160305.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00160305.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00160305.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Fragestunde der Einwohnerinnen und Einwohner
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 4.1: 50 Jahre Grevenbroich und NEW-Musiksommer, Open-Air with friends - mehrheitlich beschlossen
+- TOP 5: Umbesetzungen
+- TOP 5.1: Umbesetzungen aufgrund der Neubesetzung der Stelle des Ersten Beigeordneten - einstimmig beschlossen
+- TOP 5.2: Ausschussumbesetzung, hier: Ev. Verein für Jugend- und Familienhilfe e.V. - einstimmig beschlossen
+- TOP 5.3: Beirat der Zukunfts.Kraftwerk Frimmersdorf Strategie GmbH, hier: Besetzung - mehrheitlich beschlossen
+- TOP 6: Gigabitförderung 2.0 - einstimmig beschlossen
+- TOP 7: weiteres Vorgehen ISEK Flutgrabenquartier - einstimmig beschlossen
+- TOP 8: Masterplan Seeentwicklung Garzweiler – Belange der Stadt Grevenbroich und Befürwortung des Masterplans - einstimmig beschlossen
+- TOP 9: Standortkonzept Altkleidersammelcontainer im Stadtgebiet Grevenbroich - einstimmig beschlossen
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 10.1.1: Masterplan Kraftwerksdörfer Frimmersdorf und Neurath – Beschluss des Rahmenplans - mehrheitlich beschlossen
+- TOP 10.1.2: Antrag auf Änderung des Regionalplans - einstimmig beschlossen
+- TOP 10.2: Entscheidung über Beratungspunkte aus dem Betriebsausschuss Abwasseranlagen
+- TOP 10.2.1: Bestellung einer neuen Betriebsleitung zum 01.04.2025 - einstimmig beschlossen
+- TOP 11: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 11.1: Frauenanteil in Aufsichtsräten, Verwaltungsräten und Betriebsausschüssen - Kenntnisnahme
+- TOP 11.2: Igel besser vor Mährobotern schützen - Fahrzeiten regulieren (Antrag Nr.:131/2024) - Kenntnisnahme
+- TOP 11.3: Anfragen zu Lärmschutz für die Kita Merkatorstraße (Anfrage Nr.:86/2024) - Kenntnisnahme
+- TOP 11.4: Anfrage zum Bürokratieabbau bei Unternehmen (Anfrage Nr.:59/2024) - Kenntnisnahme
+- TOP 11.5: Glasfaserversorgung in den nördlichen Stadtteilen insbesondere in Gruissem (Antrag Nr.:102/2024) - Kenntnisnahme
+- TOP 11.6: Anfrage zu Hilfsangeboten der Stadt Grevenbroich für Obdachlose (Anfrage Nr.:107/2024) - Kenntnisnahme
+- TOP 11.7: Soziale Kürzungen (Anfrage Nr.:127/2024) - Kenntnisnahme
+- TOP 11.8: Terminbuchungen für das Bürgerbüro in englischer Sprache ermöglichen (Antrag Nr.:95/2024) - Kenntnisnahme
+- TOP 11.9: Gründerpreis Grevenbroich zur Förderung von Existenzgründungen und Start-Ups einführen (Antrag Nr.:103/2024) - einstimmig beschlossen
+- TOP 11.10: Beleuchtung im Bereich der Wechselausstellung im Museum der niederrheinischen Seele Villa Erckens (Antrag Nr.:08/2025) - Kenntnisnahme
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: Anträge der SPD-Fraktion
+- TOP 12.1.1: Dauerhafte Etablierung Querer Angebote für Jugendliche (Antrag Nr.:17/2025) - einstimmig beschlossen
+- TOP 12.1.2: Etablierung eines Seniorenmittagstischs (Antrag Nr.:18/2025) - einstimmig beschlossen
+- TOP 12.2: Anträge der CDU-Fraktion
+- TOP 12.2.1: Ausschussumbesetzung (09/2025) - einstimmig beschlossen
+- TOP 12.2.2: Einführung eines digitalen "Ferienpasses" zur besseren Zugänglichkeit von Ferienangeboten für Kinder und Eltern (Antrag Nr.:27/2025) - einstimmig beschlossen
+- TOP 12.2.3: Erneuerung der Flutlichtanlage des Hauptspielfeldes des 1. FC Süd in Neuenhausen (Antrag Nr.:28/2025) - einstimmig beschlossen
+- TOP 12.2.4: Zeitnahe Begehung der städtischen Sportstätten (Antrag Nr.:29/2025) - einstimmig beschlossen
+- TOP 12.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 12.4: Anträge der FDP-Fraktion
+- TOP 12.4.1: Wann kommt die Bezahlkarte für Geflüchtete in der Stadt Grevenbroich? (Antrag Nr.:13/2025) - einstimmig beschlossen
+- TOP 12.4.2: Erweiterung des Restmüllgefäße-Systems um eine 60-Liter-Restmülltonne (Antrag Nr.:10/2025) - einstimmig beschlossen
+- TOP 12.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 12.5.1: Prüfauftrag (Antrag Nr.:20/2025) - einstimmig beschlossen
+- TOP 12.5.2: Lese-App für Kinder und pädagogische Einrichtungen (Antrag Nr.:21/2025) - einstimmig beschlossen
+- TOP 12.5.3: Runder Tisch Südstadt (Antrag Nr.:22/2025) - einstimmig beschlossen
+- TOP 12.6: Anträge der UWG-Fraktion
+- TOP 12.7: Gemeinschaftsanträge
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfragen der SPD-Fraktion
+- TOP 13.2: Anfragen der CDU-Fraktion
+- TOP 13.2.1: Baumaßnahmen an der städtischen Gemeinschaftsgrundschule am Welchenberg in Neuenhausen (Anfrage Nr.:24/2025) - Kenntnisnahme
+- TOP 13.2.2: Maßnahmen gegen den Personalmangel in den städtischen Kindertagesstätten (Anfrage Nr.:25/2025) - Kenntnisnahme
+- TOP 13.2.3: Situation der Kindertagesstätten in Kapellen (Anfrage Nr.:26/2025) - Kenntnisnahme
+- TOP 13.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 13.4: Anfragen der FDP-Fraktion
+- TOP 13.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 13.5.1: Anfrage Beachvolleyball Plätze (Anfrage Nr.:19/2025) - Kenntnisnahme
+- TOP 13.6: Anfragen der UWG-Fraktion
+- TOP 13.6.1: Erheblicher LKW-Verkehr auf der Straße/dem asphaltierten Weg entlang der Nord-Süd-Bahn (Anfrage Nr.:12/2025) - Kenntnisnahme
+- TOP 13.6.2: Errichtung eines Konverters (Anfrage Nr.:11/2025) - Kenntnisnahme
+- TOP 13.7: Anfragen von Einzelratsmitgliedern
+- TOP 13.7.1: Anfrage zu einer unterstützenden Einführung von KI im Schlossbad GV (Anfrage Nr.:14/2025) - Kenntnisnahme
+- TOP 13.7.2: Anfrage zu mehr Schutz für KITA-Kinder und städtischem Personal (Anfrage Nr.:15/2025) - Kenntnisnahme
+- TOP 13.7.3: Anfrage zur Umsetzung "Aktionsplan gegen Einsamkeit" vom Land NRW (Anfrage Nr.:16/2025) - Kenntnisnahme
+- TOP 14: Mitteilungen des Bürgermeisters - Kenntnisnahme
