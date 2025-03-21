@@ -1,0 +1,7 @@
+# TOP 1.: Feststellung der Beschlussfähigkeit
+
+- Sitzung: Rat der Gemeinde Stemwede (30. Sitzung) (2025-03-21)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15864
+- Beschluss (Datei): Beschluss (Feststellung der Beschlussfähigkeit) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYHelfwp2QCSNJJmeYUtBqfDuPZcA9voefHACPZr7uzy/Beschluss_TOP_1._-oeffentlich-_Rat_der_Gemeinde_Stemwede_21.03.2025.pdf
