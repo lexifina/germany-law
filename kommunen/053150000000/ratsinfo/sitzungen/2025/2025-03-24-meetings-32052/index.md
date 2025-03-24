@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-24T16:00:00+01:00
+- Ende: 2025-03-24T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32052
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32052
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1.1: Bürgereingabe nach § 24 GO – "Gehwegparken Zülpicher Str. 79-85" Az.: 113/24 B - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme der Schenkung "Soccercourt" durch den Förderverein an der GGS Kirchweg/Junkersdorf - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage AN/2062/2023 der Fraktion Bündnis 90/Die Grünen bezüglich Baumfällungen an der Gemeinschaftsgrundschule Braunsfeld, Geilenkircher Straße 52, 50933 Köln - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN betreffend "Direktwahllokal im Stadtbezirk Lindenthal" (AN/0267/2025) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Direktwahllokal im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.2.2: Anfrage Taktung Linie 18 - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Fußgängerüberweg Brauweiler Straße - ungeändert beschlossen
+- TOP 8.1.2: Schulwegsicherung Alter Militärring - ungeändert beschlossen
+- TOP 8.1.3: Politische Beteiligung von Jugendlichen in der Bezirksvertretung - ungeändert beschlossen
+- TOP 8.1.4: Schild Bethlehemplatz - ungeändert beschlossen
+- TOP 8.1.5: Verkehrssicherheit GGS Stenzelbergstraße - ungeändert beschlossen
+- TOP 8.1.6: Anforderung einer Liste leerstehender, wohngeeigneter Gebäude im Eigentum der Universität - ungeändert beschlossen
+- TOP 8.1.7: Antrag wurde zurückgezogen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 9.1.2: Asphaltierung der Petersbergstraße im Abschnitt zwischen dem Gottesweg und dem Klettenberggürtel, sowie Ausbesserungen im Abschnitt Klettenberggürtel bis Nassestraße - ungeändert beschlossen
+- TOP 9.1.3: Herstellung der Schulwegsicherung zwischen dem Gymnasium und der Schwimmhalle an der Zusestraße in Köln-Lövenich - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - ungeändert beschlossen
+- TOP 9.2.2: 295. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Aufhebung des Aufstellungsbeschlusses zur 3. Änderung des Bebauungsplanes Nr. 62450/04 (62450/04-03) - ungeändert beschlossen
+- TOP 9.2.4: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestelle Junkersdorf - geändert beschlossen
+- TOP -: Änderungsantrag zu 9.2.4 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Bebauungspläne und Bäume - Verbindlich. Vergesslich. Köln. - Kenntnis genommen
+- TOP 11.3.2: Kunststoffrasen Belagsreparatur auf der Sportanlage Westkampfbahn im Sportpark Müngersdorf - Kenntnis genommen
+- TOP 11.3.3: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 11.3.4: Sachstandsmitteilung zu den von der Bezirksvertretung Lindenthal priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 11.3.5: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion in der Sitzung des Sportausschusses am 05.12.2024 betreffend "Entwicklung der Disc Golf Sportstätten in Köln" (AN/1699/2024) - Kenntnis genommen
+- TOP 11.3.6: Berrenrather Str. 352 - Erweiterungsneubau Grundschule (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 11.3.7: Zeitnahe Realisierung des Anschlusses Stolberger Str. an die Militärringstraße und Ertüchtigung des Knotens Militärring / Aachener Str. - Kenntnis genommen
+- TOP 11.3.8: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 11.3.9: Schulstr. 2 (Lindenthal) - Errichtung eines zweigeschossigen Grundschulgebäudes in Containerbauweise (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 11.3.10: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 11.3.11: Neue Stadtteilbibliothek im Kölner Westen - Kenntnis genommen
+- TOP 11.3.12: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 11.3.13: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 11.3.14: Spielraumplanung 2025-2030 (2960/2024) und bezirkliche Maßnahmenplanung (2990/2024) - Kenntnis genommen
+- TOP 11.3.15: Eine Stadtteilbibliothek im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
