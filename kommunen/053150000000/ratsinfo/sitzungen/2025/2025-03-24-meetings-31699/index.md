@@ -1,0 +1,67 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-24T17:00:00+01:00
+- Ende: 2025-03-24T18:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31699
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31699
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand - Sache ist erledigt
+- TOP -: Bestellung einer Schriftführung für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2024 Büro für Europa und Internationales (zurückgestellt aus der Sitzung vom 03.02.2025; bitte halten Sie Ihre Unterlagen bereit) - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Gesundheitsausschusses vom 26.11.2024 (AN/1644/2024) betreffend Auswirkungen des Drogenkonsumraums auf die Situation am Neumarkt" - Kenntnis genommen
+- TOP 4.2: Beantwortung einer Anfrage der Fraktion FDP betreffend "Direktwahlmöglichkeiten in Köln" (AN/0193/2025) - Kenntnis genommen
+- TOP 4.3: Abschlussbericht UEFA EURO 2024 Köln - Kenntnis genommen
+- TOP 4.4: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2025 - Kenntnis genommen
+- TOP 4.5: Anstieg der Strafanzeigen wegen Queerfeindlichkeit in Köln - Kenntnis genommen
+- TOP 4.6: LSBTI-Förderprogramm 2025: Beginn der Antragsphase - Kenntnis genommen
+- TOP 4.7: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 4.8: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 28. Februar 2025 - Kenntnis genommen
+- TOP 4.9: Sachstandsbericht zum Neubau Erweiterung Wallraf-Richartz-Museum und Fondation Corboud mit Neubau Blockrandbebauung für städtische Nutzflächen, Stand: 28. Februar 2025 - Kenntnis genommen
+- TOP 4.10: 13. Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 4.11: Verpflichtendes Antidiskriminierungstraining in bürgernahen Bereichen - Kenntnis genommen
+- TOP 4.12: Kompensationszahlung für Flugreisen 2024 - Kenntnis genommen
+- TOP 4.13: Zwischenbericht über die Umsetzung des Chancen- Aufenthaltsrechts nach § 104 c AufenthG - Kenntnis genommen
+- TOP 4.14: Bericht des Zentrums für Kriminalprävention und Sicherheit (ZKS) für das 1. Quartal - Kenntnis genommen
+- TOP 4.15: Pilotprojekt Wiederinbetriebnahme Geschwindigkeitsüberwachung Zoobrücke - Kenntnis genommen
+- TOP 4.16: Mitteilung zum Beschluss des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales (AVR) betreffend "Die Funktionsfähigkeit des Kölner Taxigewerbes sicherstellen.." (AN/0183/2025) - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Flächendeckende Einführung von Bodycams und weitere Sicherheitsmaßnahmen bei KVB, Rettungsdienst und Ordnungsamt - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion betreffend "Flächendeckende Einführung von Bodycams und weitere Sicherheitsmaßnahmen bei KVB, Rettungsdienst und Ordnungsamt“ (AN/0157/2025) - zurückgestellt
+- TOP 6.2: Stellenaufwuchs, hohe Krankenstände und Azubi-Mangel: Was macht die Verwaltungsreform? - zurückgestellt
+- TOP 6.3: Digitale Einbürgerungsverfahren - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion betreffend "Digitale Einbürgerungsverfahren" (AN/0271/2025) - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion betreffend Arbeitskräftemangel bei der Stadt: Vakanzen und Überlastungsanzeigen - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend Reformansätze zur Modernisierung der Ausländerbehörde Köln - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen - zurückgestellt
+- TOP 8.2: Vermietung städtischer Räumlichkeiten an Parteien öffentlich machen - zurückgestellt
+- TOP 8.3: Einführung eines Online-Services zur Beantragung von Meldebescheinigungen - endgültig abgelehnt
+- TOP -: Stellungnahme zum Antrag der FDP-Fraktion betreffend "Einführung eines Online-Services zur Beantragung von Meldebescheinigungen" (AN/0149/2025) - Kenntnis genommen
+- TOP 8.4: Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand - ohne Votum behandelt
+- TOP -: Stellungnahme zu den Anträgen der SPD-Fraktion betreffend "Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand" (AN/0255/2024, AN/0256/2025, AN/0257/2025, AN/0248/2025) - ohne Votum behandelt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Unterstützung des Hilfsdienstes für ehemalige Zwangsarbeiter*innen in Wolgograd für 2025-2027 - geändert beschlossen
+- TOP 10.2: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion hinsichtlich Abschlussbericht und weiteres Vorgehen betreffend „Masterplan Kommunale Sicherheit (MaKoS)" (zugesetzt am 24.03.2025) - zurückgestellt
+- TOP 10.3: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2025 - ungeändert beschlossen
+- TOP 10.4: Lärmschutz am Brüsseler Platz, hier: Beschluss über den Erlass einer ordnungsbehördlichen Verordnung über ein Verweilverbot auf dem Brüsseler Platz - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion, der SPD-Fraktion, der Volt-Fraktion und der Fraktion Die Linke betreffend Lärmschutz am Brüsseler Platz (0545/2025) (zugesetzt am 24.03.2025) - ungeändert beschlossen
+- TOP 10.5: Richtlinie: Verwaltungskostenzuschuss & Anerkennung von Städtepartnerschaftsvereinen - ungeändert beschlossen
+- TOP 10.6: Ebertplatz vorgezogene bauliche kriminalpräventive Maßnahmen an der Westpassage - ohne Votum behandelt
+- TOP -: Änderungsantrag der Fraktion Die Linke betreffend „Ebertplatz vorgezogene bauliche kriminalpräventive Maßnahmen an der Westpassage“ (0420/2025) (zugesetzt am 24.03.2025) - ohne Votum behandelt
+- TOP 10.7: Neufassung der Satzung über die Erhebung von Elternbeiträgen zu Kindertageseinrichtungen, der Kindertagespflege und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
