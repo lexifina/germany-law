@@ -1,0 +1,8 @@
+# TOP -: Aktuelle Stunde: Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand
+
+- Sitzung: Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales (2025-03-24)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/417827
+- Ergebnis: Sache ist erledigt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/192186
