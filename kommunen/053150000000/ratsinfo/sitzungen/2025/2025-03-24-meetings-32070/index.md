@@ -1,0 +1,80 @@
+# 35.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-24T17:00:00+01:00
+- Ende: 2025-03-24T20:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32070
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32070
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Wohnungssituation der Mieterinnen und Mieter der LEG Immobiliengesellschaft in Höhenhaus
+- TOP -: Austausch mit Herrn Beigeordneten Robert Voigtsberger, Dezernat Bildung, Jugend und Sport
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO – „Erschließung der neugeplanten Sportanlage Kopernikusstraße und Entsiegelungsmaßnahmen“ Aktenzeichen 36/24 B - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung am 04.11.2024 (AN/1417/2024) betr.: "Warum sind die App-basierten KVB-Verspätungsanzeigen so schlecht?" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen zu den Flugkorridoren und Daten der Messstation Genoveva-Gymnasium aus der Sitzung der BV Mülheim vom 04.11.2024 betreffend Fortschreibung Lärmaktionsplanung Stufe 4 (2041/2024) - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage der Fraktion Die Linke betr. Bürgereingabe vom Oktober 2022 - Überprüfung wie Umweltschutz und Naherholung im Naturschutzgebiet Flittarder Rheinaue besser in Einklang gebracht werden können - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen zur Sitzung der Bezirksvertretung Mülheim vom 30.09.2024 betreffend "Welche Strategie verfolgt die Stadt gegen illegales Gehwegparken?, AN/1190/2024" - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer schriftlichen Anfrage der Fraktion "Die Linke" aus der BV 9 (AN/0085/2025) betreffend "Leerstehende LEG Wohnungen in Köln Höhenhaus" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sanierung Sportplatz „Im Weidenbruch“ Köln-Höhenhaus - Kenntnis genommen
+- TOP 7.2.1.1: Beantwortung einer schriftlichen Anfrage der Fraktionen CDU und SPD sowie des Einzelmandatsträgers Tücks (FDP) in der Sitzung der Bezirksvertretung Mülheim am 24.03.2025 betreffend Sanierung Sportplatz „Im Weidenbruch“ Köln-Höhenhaus - Kenntnis genommen
+- TOP 7.2.2: Bauanträge von Anwohner*innen im Bereich der Siedlung Egonstraße in Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.3: Neue Beleuchtung am Stammheimer Ufer – der zweite Versuch eine Beleuchtung zu erhalten - Kenntnis genommen
+- TOP 7.2.4: Überprüfung wie Umweltschutz und Naherholung im Naturschutzgebiet Flittarder Rheinaue besser in Einklang gebracht werden können - Kenntnis genommen
+- TOP 7.2.5: Landschaftsplan des Rheinisch Bergischen Kreises / Themen und Entwicklung der grenzübergreifenden Naturschutzgebiete - Kenntnis genommen
+- TOP 7.2.6: Holweide Barrierefreier Ausbau Bushaltestelle Colonia Allee sowie SB Mülheim Barrierefreiheit an Bushaltestellen - Kenntnis genommen
+- TOP 7.2.7: Dellbrück Verkehrsgefährdung durch baufälliges Gebäude - Kenntnis genommen
+- TOP 7.2.8: Situation rund um den Kiosk in der Guilleaumestraße in Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.9: Clevischer Ring 150: Cultopia und Reifen Gabel - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Wohnungssituation der Mieterinnen und Mieter der LEG Immobiliengesellschaft in Höhenhaus kurz, mittel- und langfristig verbessern und die bestehende Zweckentfremdung schnellstmöglich zu beenden - Kenntnis genommen
+- TOP 8.1.2: Holweide – Einrichtung einer Schulstraße für die KGS Neufelder - Kenntnis genommen
+- TOP 8.1.3: Erhöhung der Aufenthaltsqualität am Wupperplatz in Höhenhaus - Kenntnis genommen
+- TOP 8.1.4: Erweiterung des Netzes der KVB-Rad-Stationen in Höhenhaus und Dünnwald - Kenntnis genommen
+- TOP 8.1.5: Ausweitung der KVB-Räder im Bezirk Mülheim - Kenntnis genommen
+- TOP 8.1.6: Einrichtung einer sicheren Fußgängerüberquerung am Thuleweg/ Im Weidenbruch - Kenntnis genommen
+- TOP 8.1.7: Nachbesserung an der Toilette auf dem Wiener Platz - Sache ist erledigt
+- TOP 8.1.8: Fahrradnadeln auf dem hinteren Teil des Marktplatzes Berliner Straße vor dem Supermarkt"Netto" nachhaltig nutzbar machen - Kenntnis genommen
+- TOP 8.1.9: Überfüllte Abfallbehälter an der Hall of Fame „Im Bischofsacker“/ Stadtteil Buchforst - Maßnahmen prüfen und entsprechend umsetzen
+- TOP 8.1.10: Überprüfung und Umsetzung einer Nachbesserung und einer mittelfristigen, umfassenden Sanierung des Flittarder DEich - Kenntnis genommen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2025; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung des Bebauungsplans Nr. 7549/02 - Satzungsbeschluss - Arbeitstitel: Hatzfeldstraße in Köln-Dellbrück, - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke – Sachstand Bauphase II - Kenntnis genommen
+- TOP 10.2.4: Regionalplanneuaufstellung Köln, hier: Stellungnahme der Stadt Köln zum Zweiten Planentwurf eingereicht - Kenntnis genommen
+- TOP 10.2.5: 238. Änderung des Flächennutzungsplans "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.6: Sachstandsmitteilung zu den von der Bezirksvertretung Mülheim priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.7: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 10.2.8: Aufstellung einer öffentlichen Toilettenanlage Wiener Platz - Kenntnis genommen
+- TOP 10.2.9: Sachstand Deutz-Mülheimer-Str. 151-155, Otto-Langen-Quartier - Kenntnis genommen
+- TOP 10.2.10: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.11: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 10.2.12: Planfeststellungsverfahren zur Erneuerung der Eisenbahnüberführungen Höhenhauser Ring, Bauwerke E und J - Kenntnis genommen
+- TOP 10.2.13: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 10.2.14: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 in analoger Anwendung - Kenntnis genommen
+- TOP 10.2.15: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 10.2.16: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
