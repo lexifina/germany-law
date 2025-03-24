@@ -1,0 +1,83 @@
+# 35. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-24T17:00:00+01:00
+- Ende: 2025-03-24T20:05:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31772
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31772
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohneranfrage, betr.: Durchfahrtssperre Körnerstraße - zurückgestellt
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Behindertenparkplatz in der Frohnhofstraße, Aktenzeichen 143/24 - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.2: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - Sache ist erledigt
+- TOP 6.4.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE/Die PARTEI in der Sitzung der Bezirksvertretung Ehrenfeld vom 28.08.2023 "AN/1405/2023" betreffend "Anfrage zu den akustischen Ampelelementen" - Kenntnis genommen
+- TOP 6.5: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Gefahr durch Rahmenbrüche bei Lastenrädern - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - zurückgestellt
+- TOP 6.8: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Stand der Umsetzung der Entfernung von Hindernissen auf Geh- und Radwegen - zurückgestellt
+- TOP 6.9: Anfrage der SPD-Fraktion, betr.: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport - zurückgestellt
+- TOP 6.10: Anfrage von Elke Schroeder (Klima Freunde), betr.: Kostenexplosion barrierefreier Umbau von vier Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Anfrage der CDU-Fraktion, betr.: Verbindungsweg zwischen Vogelsanger Straße und Meisenweg parallel zum Zeisig Weg und zur Eisenbahntrasse der DB in 50829 Köln Vogelsang - Sache ist erledigt
+- TOP 6.11.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Ehrenfeld vom 04.11.2024 (AN/1465/2024) betreffend Verbindungsweg zwischen Vogelsanger Straße und Meisenweg in Vogelsang - Kenntnis genommen
+- TOP 6.12: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Soziale Einrichtungen im Stadtbezirk - zurückgestellt
+- TOP 6.13: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand BPD Grundstück, ehem. Toyota Autohaus - Sache ist erledigt
+- TOP 6.14: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzung Straßenbaumkonzept im Melatener Weg - zurückgestellt
+- TOP 6.15: Anfrage der Fraktion Bündnis 90/Die Grünen, betr,; Wohnraumzweckentfremdung in Ehrenfeld - Sache ist erledigt
+- TOP 6.15.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen in der BV 4 betreffend "Wohnraumzweckentfremdung in Ehrenfeld" - Kenntnis genommen
+- TOP 6.16: Anfrage der SPD-Fraktion, betr.: Konzeption für den Kulturbaustein auf dem Heliosgelände - zurückgestellt
+- TOP 6.17: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Takustraße von Subbelrather Straße bis Iltisstraße - Sache ist erledigt
+- TOP 6.17.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (AN/0146/2025) zur nächsten Sitzung der BV 4 betr. "Umgestaltung der Takustraße von Subbelrather Straße bis Iltisstraße" - Kenntnis genommen
+- TOP 6.18: Anfrage der SPD-Fraktion, betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche AN/0769/2023 - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Kurzzeitvermietungen im Stadtbezirk - Sache ist erledigt
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke/DIE PARTEI in der BV 4 betreffend „Kurzzeitvermietungen im Stadtbezirk“ - Kenntnis genommen
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Verwahrlostes Grundstück an der Vogelsanger Straße / Innere Kanalstraße - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion, Fraktion Die Linke/DIE PARTEI und der CDU-Fraktion, betr.: Illegales LKW-Parken unterbinden! - ungeändert beschlossen
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - zurückgestellt
+- TOP 8.3: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Aufenthaltsqualität im öffentlichen Raum verbessern: Dauerhaft Verweiloasen entlang der Venloer Straße - geändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Umgestaltung der Takustraße sofort angehen! - zurückgestellt
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: KVB Leihradsystem am Butzweilerhof erweitern - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion, betr.: Absenkung des Bürgersteigs Vogelsanger Markt / Ecke Rotkehlchenweg - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Die Kreuzung Vogelsanger Straße / Ehrenfeldgürtel für alle Verkehrsteilnehmer*innen sicher umgestalten - zurückgestellt
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Gefahrenpunkt Stammstraße/Hansemannstraße entschärfen - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Kommunale Spielraumplanung 2025-2030 – Maßnahmenplanung für den Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Umgestaltung Spielangebot 4 01 01 06 Spielplatz Helmholtzplatz im Bezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.3: Genehmigung einer Dringlichkeitseintscheidung, betr.: Fällung von geschützten Bäumen in der Rochusstr. 201, Köln-Ossendorf - ungeändert beschlossen
+- TOP 9.4: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Freigabe der positiv geprüften Standorte - ungeändert beschlossen
+- TOP 9.5: Erste Vergabe der bezirksorientierten Haushaltsmittel gem. § 37 Absatz 3 GO NRW für 2025 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Spielräume eröffnen – Spiel, Bewegung und Aufenthalt für Kölner Kinder und Jugendliche – Kommunale Spielraumplanung 2025-2030 - geändert beschlossen
+- TOP 10.2: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - endgültig abgelehnt
+- TOP -: Ergänzungsantrag der SPD-Fraktion zu TOP 10.2 - ungeändert beschlossen
+- TOP 10.3: Vorgabenbeschluss zur 247. Änderung des Flächennutzungsplanes (FNP) - ungeändert beschlossen
+- TOP 10.4: Einzug der Förderschule Lindweiler Hof, derzeit ausgelagert im Interimsstandort Paul-Humburg-Str.13, 50737 Köln-Longerich in das Bestandsgebäude Borsigstr. 13, 50827 Köln-Bickendorf - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2025 - Sportboxen - Kenntnis genommen
+- TOP 12.2: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 12.3: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 12.4: Umsetzung der Sozialen Erhaltungssatzung Ehrenfeld Ost - Kenntnis genommen
+- TOP 12.5: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 12.6: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 12.7: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 59499/03 - Arbeitstitel: Gewerbegebiet Venloer Straße in Köln-Bocklemünd/Mengenich, 1. Änderung - Kenntnis genommen
+- TOP 12.8: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 12.9: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 13: mündliche Anfragen
