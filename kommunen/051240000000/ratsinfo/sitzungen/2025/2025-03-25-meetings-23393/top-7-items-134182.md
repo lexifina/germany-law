@@ -1,0 +1,8 @@
+# TOP 7: Sachstand Fahrradstraße Hardtufer; Große Anfrage der SPD-Fraktion
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr (2025-03-25)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/134182
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/63203
