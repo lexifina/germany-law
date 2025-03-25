@@ -1,0 +1,84 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2025-03-25T17:00:00+01:00
+- Ende: 2025-03-25T21:30:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1772
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1772
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00066084.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00066299.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorinformation zum Haushaltsentwurf
+- TOP 2: Verwaltungshaushalt
+- TOP 2.1: Fragen der Fraktion Bündnis 90/Die Grünen
+- TOP 2.2: Beratung des Verwaltungshaushaltes 2025 mit Finanzplanung 2024 - 2028
+- TOP 2.2.1: Budgetfestlegungen für das Haushaltsjahr 2025; hier: Kenntnisnahme - Ohne Abstimmung
+- TOP 3: Vermögenshaushalt
+- TOP 3.1: Beratung des Vermögenshaushaltes 2025 mit Finanzplanung 2024 - 2028
+- TOP 3.1.1: Lfd.Nr. 3 und 288 - Haushaltsstellen 1.0241.9345 und 1.7901.9345 - Information Sachgebietsleitung Müller
+- TOP 3.1.2: Lfd.Nr. 14 - Haushaltsstelle 1.0600.9631 - Betriebstechnische Anlagen - überfr. Antrag
+- TOP 3.1.3: Lfd.Nr. 22 - Haushaltsstelle 1.0670.9351 - Erwerb von Wasserspendern - überfr. Antrag
+- TOP 3.1.4: Lfd.Nr. 24 - Haushaltsstelle 1.0670.9357 - Beschaffung eines Dienst-PKWs - Antrag Bd.90/Die Grünen - abgelehnt
+- TOP 3.1.5: Lfd.Nr. 29 - Haushaltsstelle 1.1101.9350 - Kameraüberwachung v. Abfallentsorgungsanlagen - Antrag Bd.90/Die Grünen
+- TOP 3.1.6: Lfd.Nr. 31 - Haushaltsstelle 1.1101.9359 - Kameraüberwachung v. Abfallentsorgungsanlagen - Antrag Bd.90/Die Grüne
+- TOP 3.1.7: Lfd.Nr. 33 - Haushaltsstelle 1.1146.9880 - Neubau Tierschutzverein - Antrag Bd. 90/Die Grünen
+- TOP 3.1.8: Lfd.Nr. 41 - Haushaltstelle 1300.9451 - Neubau FWGH Hohenfeld -
+- TOP 3.1.9: Lfd.Nr. 44 - Haushaltsstelle 1.1301.9450 - Einbau v. 3 PV-Anlagen gem. StR-Beschluss v. 27.07.23 - überfr. Antrag - beschlossen
+- TOP 3.1.10: Lfd.Nr. 47 - Haushaltsstelle 1.1400.9590 - Schwachstellenanalyse - überfr. Antrag
+- TOP 3.1.11: Lfd.Nr. 52 und 61 - Haushaltsstellen 1.2111.9357 und 1.2112.9359 - Anschaffung v. Fahrrädern für Grundschulen - beschlossen
+- TOP 3.1.12: Lfd.Nr. 62, 68 und 73 - Haushaltsstellen 1.2112.9359, 1.2131. 9359 und 1.2132.9359 - Aufsitzrasenmäher
+- TOP 3.1.13: Lfd.Nr. 55 und 69 - Haushaltsstellen 1.2111.9630 und 1.2131.9630 - Zufahrtsschranken - Antrag. Bd. 90 / Die Grünen
+- TOP 3.1.14: Lfd.Nr. 58 - Haushaltsstelle 1.2112.9351 - Ausstattung Schulcontainer - Wortmeldung Stadtrat Moser
+- TOP 3.1.15: Lfd.Nr. 64 - Haushaltsstelle 1.2113.9490 - Schulentwicklungsplanung - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.16: Lfd.Nr. 80 - Haushaltsstelle 1.2431.9452 Instandsetzung Friedrich-Bernbeck-Schule - Anträge Bd. 90/Die Grünen und der SPD
+- TOP 3.1.17: Lfd.Nr. 84 - Haushaltsstelle 1.3211.9450 - Erweiterung der Archivanlage - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.18: Lfd.Nr. 92 - Haushaltsstelle 1.3401.9359 - Promenadenweinfest - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.19: Lfd.Nr. 95 - Haushaltsstelle 1.3420.9630 - Technik für Altes Synagoge - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.20: Lfd.Nr. 99 - Haushaltsstelle 1.3501.9350 - Ausstattung vhs - überfr. Antrag
+- TOP 3.1.21: Lfd.Nr. 104 - Haushaltsstelle 1.3521.9350 - Bibliotheksmöbel - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.22: Lfd.Nr. 108 - Haushaltsstelle1.3601.9580 - Renaturierung Rödelbach - überfr. Antrag
+- TOP 3.1.23: Lfd.Nr. 109 - Haushaltsstelle 1.3601.9581 - Renaturierung Sickerbach - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.24: Lfd.Nr. 110 - Haushaltsstelle 13601.9582 - Komm. Wärmeplanung - überfr. Antrag
+- TOP 3.1.25: Lfd.Nr. 121 - Haushaltsstelle 1.4351.9420 - Neubau Obdachlosenunterkunft - Antrag Bd. 90 / Die Grünen und überfr. Antrag
+- TOP 3.1.26: Lfd.Nr. 139 - Haushaltsstelle 1.4647.9450 - Naturgruppe Repperndorf - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.27: Lfd.Nr. 145 - Haushaltsstelle 1.5601.9357 - Freisportanlage Sickergrund - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.28: Lfd.Nr. 149 - Haushaltsstelle 15652.9450 - Eröffnung Dreifeldsporthalle - überfr. Antrag
+- TOP 3.1.29: Lfd.Nr. 152 - Haushaltsstelle 1.5800.9550 - Parkanlagen - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.30: Lfd.Nr. 157 - Haushaltsstelle 1.5830.9501 - Park- und Grünflächen Deusterareal - Anträge Bd. 90 / Die Grünen und überfr. Antrag
+- TOP 3.1.31: Lfd.Nr. 160 - Haushaltsstelle 1.5830.9590 - Park- und Grünflächen Deusterareal - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.32: Lfd.Nr. 164 - Haushaltsstelle 1.5831.9503 - Spielplätze Marshall Heights - überfr. Antrag
+- TOP 3.1.33: Lfd.Nr. 167 - Haushaltsstelle 1.5931.9580 - Biberlehrpfad - überfr. Antrag
+- TOP 3.1.34: Lfd.Nr. 172 - Haushaltsstelle 1.6101.9650 - FNP-Änderung - überfr. Antrag
+- TOP 3.1.35: Lfd.Nr. 174 - Haushaltsstelle 1.6101.9592 - Wohnraum- und Infrastrukturkonzept - Antrag Bd. 90 / Die Grünen - abgelehnt
+- TOP 3.1.36: Lfd.Nr. 176 bis 179 - Haushaltsstellen 1.6151.9590 - 9596 - Städtebauliche Maßnahmen - überfr. Antrag
+- TOP 3.1.37: Lfd.Nr. 180 - Haushaltsstelle 1.6151.9880 - Städtebauliche Maßnahmen - überfr. Antrag
+- TOP 3.1.38: Lfd.Nr. 181 und 182 - Haushaltsstellen 1.6151.9881 und - 9883 - Städtebauliche Maßnahmen - überfr. Antrag
+- TOP 3.1.39: Lfd.Nr. 186 - Haushaltsstelle 1.6300.9350 - Parkanlagen - Antrag Bd. 90 / Die Grünen - beschlossen
+- TOP 3.1.40: Lfd.Nr. 190 bis 192 - Haushaltsstellen 1.6306.9502 - 1.6309.9321 Bahnhofsvorplatz - Antrag Bd. 90 / Die Grünen und überfr. Antrag
+- TOP 3.1.41: Lfd.Nr. 194 - Haushaltsstelle 1.6309.9581 - Nordtangente- Antrag Bd. 90 / Die Grünen und überfr. Antrag
+- TOP 3.1.42: Lfd.Nr. 198 - Haushaltsstelle 1.6315.9501 - Panzerstraße - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.43: Lfd.Nr. 199 - Haushaltsstelle 1.6340.9321 - Baugebiet Hammerstiel - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.44: Lfd. Nr. 207 - Haushaltsstelle 1.6404.9560 - Gemeindestraßen - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.45: Lfd.Nr. 209 - Antrag der CSU-Fraktion vom 18.03.2025 zum Vermögenshaushalt 2025 (1. BA Umbau Kaiserstraße) - abgelehnt
+- TOP 3.1.46: Lfd.Nr. 213 - Haushaltsstelle 1.6453.9560 - Geh- und Radwege im Stadtgebiet - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.47: Lfd.Nr. 216 - Haushaltsstelle 1.6482.9590 - Alte Mainbrücke - Antrag Bd. 90 / Die Grünen und überfr. Antrag - beschlossen
+- TOP 3.1.48: Lfd.Nr. 217 - Haushaltsstelle 1.6485.9510 - Brücke über den Sickersbach - Antrag Bd. 90 / Die Grünen - abgelehnt
+- TOP 3.1.49: Lfd.Nr. 212 - Haushaltsstelle 16709.9880 - Umstellung Straßenbeleuchtung auf LED - überfr. Antrag
+- TOP 3.1.50: Lfd.Nr. 224 und 225 - Haushaltsstellen 1.6810.9502 und 6810.9592 - Parkplätze am ZOB - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.51: Lfd.Nr. 232 - Haushaltsstelle 1.7000.9530 - Generalentwässerungsplan - überfr. Antrag
+- TOP 3.1.52: Lfd.Nr. 235 - Haushaltsstelle 1.7000.9580 - Erneuerung Schlepperwaschplatz - überfr. Antrag
+- TOP 3.1.53: Lfd.Nr. 266 und 267 - Haushaltsstellen 1.7300.9580 und 1.7300.9581 - Festplätze Bleichwasen und Sickershausen - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.54: Lfd. Nr. 270, 275 und 277 - Haushaltsstellen 1.7510.9450, 1.7513.9450 u. 1.7515.9450 barrierefreie WCs - überf. Antrag - beschlossen
+- TOP 3.1.55: Lfd. Nr. 280 Haushaltsstelle - 1.7691.9610 - barrierefreiies WC Sickerhalle - Antrag Bd. 90 / Die Grünen - beschlossen
+- TOP 3.1.56: Lfd.Nr. 296 - Haushaltsstelle 1.7902.9631 - elektr. Zahlungsverkehr Wohnmobilstellplatz - überfr. Antrag - beschlossen
+- TOP 3.1.57: Lfd.Nr. 299 - Haushaltsstelle 1.8551.9320 - Waldgrundstück "In der Klinge" - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.58: Lfd.Nr. 301 - Haushaltsstelle 1.8551.9357 - PKW für den Forst - Antrag Bd. 90 / Die Grünen
+- TOP 3.1.59: Lfd.Nr. 308 - Haushaltsstelle 1.8801.9450 - Bebauter Grundbesitz - Antrag Bd. 90 / Die Grünen
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2025 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2024 - 2028
+- TOP 5: Sonstiges
