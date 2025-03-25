@@ -1,0 +1,62 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-03-25T17:00:00+01:00
+- Ende: 2025-03-25T19:15:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548267.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548267.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548267.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen An-lagen im Stadtbezirk 10, Liste C, Haushalt 2025 - Beschlussvorlage der Bezirks-verwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Anmeldungen in den Kindertageseinrichtungen/ Ganztagesplätze im Stadtbezirk 10 - Anfrage der CDU-Fraktion -
+- TOP 5.3: Sachstandbericht zum Angebot an stationären Pflegeplätzen, Tagespflegeplätzen, Kurzzeitpflegeplätzen und ambulanten Pflegeplätzen im Stadtbezirk 10 - Anfrage der CDU-Fraktion -
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Austausch der Zähler der Stadtwerke Düsseldorf in Garath - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Schließung der Kita Julius-Raschdorff-Straße - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.4: Erkenntnisse aus der Suche zu weitergehenden einzelflächenbezogenen Prüfungen nach weiteren (städtischen) Flächen für den Wohnungsbau (Freiraumkonzept) - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.5: Schließung der Kindertageseinrichtung an der Julius-Raschdorff-Straße - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Anwohnerparken in der Emil-Barth-Straße - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.3: Vorläufiger Wetterschutz für die Bushaltestelle des SB 57 am Hellerhofer S-Bahnhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Ausweisung und Prüfung von geeigneten Standorten für Quartierswärmepumpen - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Eignung der Wiese an der Johannes-Radtke-Straße und dem Grünstreifen am Heller-hofweg als Blühwiese - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Ausbesserung der Pflasterung auf dem Fuß- und Radweg Kreuzung Dresdener Straße/ Frankfurter Straße - Antrag der Fraktion BÜ90/Die GRÜNEN - - zurückgezogen
+- TOP 7.7: Protected bike lane an der Koblenzer Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.8: Situation Schulbusverkehr an der Dependance der Willi-Fährmann-Grundschule, Ingeborg-Bachmann-Straße - Antrag der Fraktionen SPD, CDU, BÜ90/DIE GRÜNEN, Fr. Kraft-Dlangamandla (DIE LINKE), Hr. Butzke (FDP), Hr. Ries (FWG) und Fr. Schneider (Bü.De) - - einstimmig beschlossen
+- TOP 7.9: Installation von Türklingeln mit Videofunktion an Schultoren - Antrag der Fraktionen SPD, CDU, BÜ90/DIE GRÜNEN, Fr. Kraft-Dlangamandla (DIE LINKE), Hr. Butzke (FDP), Hr. Ries (FWG) und Fr. Schneider (Bü.De) - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Klettergerüst auf dem Gelände der Willi-Fährmann-Grundschule in Garath - Ergänzende Informationsvorlage zum Beschluss BV10/145/2024 vom 05.11.2024 - - zur Kenntnis genommen
+- TOP 8.2: Verbesserung der Verkehrssituation auf der Straße An der Kämpe zwischen Josef-Maria-Olbrich-Straße und dem parallel dazu verlaufenden Teil der Straße An der Kämpe - Informationsvorlage zum Beschluss BV10/162/2024 vom 05.11.2024 - - zur Kenntnis genommen
+- TOP 8.3: Beschluss des Kinderparlamentes Garath vom 06.11.2024 Spielebus und DFB-Kleinspielfeld an der Willi-Fährmann-Schule in Garath - Informationsvorlage zum Beschluss BV10/171/2024 vom 03.12.2024 - - zur Kenntnis genommen
+- TOP 8.4: Verwendung des gemäß Informationsvorlage OVA/006/2025 eingesparten Betrags von 30.000,00 € zur Stärkung der Buslinie SB 57 - Informationsvorlage zum Beschluss BV10/024/2025 vom 25.02.2025 - - zur Kenntnis genommen
+- TOP 8.5: Grünfläche zwischen Frankfurter Straße und Rostocker Straße klima- und bewohnerfreundlich gestalten - Informationsvorlage zum Beschluss BV10/122/2024 vom 01.10.2024 - - zur Kenntnis genommen
+- TOP 8.6: Neugestaltung des Quartiersplatz Hellerhof an der Ingeborg-Bachmann-Straße - Informationsvorlage zum Beschluss BV10/039/2025 vom 25.02.2025 - - zur Kenntnis genommen
+- TOP 8.7: Peter-Behrens-Straße / Hermann-Ehlers-Straße - Setzen von 5 Pfosten und 2 Fahrradständern - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 9.1: Stellungnahme zur Anfrage des Kinderparlamentes Garath vom 06.11.2025 - Skate- und Fahrradpark für Kinder und Jugendliche - zur Kenntnis genommen
+- TOP 10: Verschiedenes
