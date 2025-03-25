@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-25T15:30:00+01:00
+- Ende: 2025-03-25T16:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31906
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31906
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Filmkultur
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Vergabe der Förderungen in den Schwerpunkten "Produktionen und Sonderprojekte" und "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.2: Bestellung eines neuen Mitglieds der Jury zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 4.3: Neubesetzung des Beirats Filmkultur - ungeändert beschlossen
+- TOP 4.4: Freigabe Mittel Open Air 2025 und 2026, Projektförderung von Open-Air-Veranstaltungen - ungeändert beschlossen
+- TOP 4.5: Freigabe von Finanzmitteln 2025 und 2026 für "Fonds Festivals" - ungeändert beschlossen
+- TOP 4.6: Ebertplatz vorgezogene bauliche kriminalpräventive Maßnahmen an der Westpassage - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke zu TOP 4.6., Beschlussvorlage 0420/2025, „Ebertplatz vorgezogene bauliche kriminalpräventive Maßnahmen an der Westpassage“ - abgelehnt (in der Vorberatung)
+- TOP 4.7: Bedarfsfeststellungs-, Planungs- und Baubeschluss zur Durchführung von Instandsetzungsarbeiten der MSR-Technik - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung eines Werks von Rosemarie Trockel aus einer privaten Sammlung - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2025
+- TOP 8.2: LSBTI-Förderprogramm 2025: Beginn der Antragsphase
+- TOP 8.3: Kulturraummanagement / KRM - Jahresbericht 2024
+- TOP 8.4: Dieser Tagesordnungspunkt wird von der Verwaltung zurückgezogen - betreffend "Weltkulturerbe stärken – Roms Erbe sichtbarer machen"
+- TOP 8.5: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten/Termin-Darstellung (Zeitstrahl)
+- TOP 8.6: Sachstand Hallen Kalk - zurückgestellt
+- TOP 8.7: Konsequenzen aus dem beschlossenen weiteren Vorgehen in Bezug auf die Hallen Kalk (Hallen 75-77) - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 5. März 2025 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 20. März 2025 - zurückgestellt
+- TOP 9.3: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 17. März 2025 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 04.02.2025 betreffend „Konzept CUMULUS" (Hartung Relief I) - Kenntnis genommen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur am 04.02.2025 betreffend „Finanzberichte" - Kenntnis genommen
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der FDP-Fraktion vom 04.02.2025 betreffend "Atelierhaus an der Delmenhorster Straße" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der SPD-Fraktion betreffend "Sachstand zur Neuinstallation des Kunstbeirats und Stellungnahme der Verwaltung zum Rücktritt der stimmberechtigten Mitglieder" - zurückgestellt
+- TOP 11.2: Anfrage der SPD-Fraktion betreffend "Personalsituation im Kulturdezernat und neue räumliche Unterbringung des Kulturamtes" - zurückgestellt
+- TOP 11.3: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Sachstand zur Situation der Studiobühne" - zurückgestellt
+- TOP 11.4: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Stadtteilbibliothek im Kölner Westen" - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Stadtteilbibliothek im Kölner Westen" - zurückgestellt
+- TOP 11.5: Anfrage der Fraktion Die Linke betreffend "Prävention von und Konsequenzen aus Machtmissbrauch in Kulturbetrieben" - zurückgestellt
+- TOP 12: Mündliche Anfragen
