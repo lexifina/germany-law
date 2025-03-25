@@ -1,0 +1,64 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-03-25T16:00:00+01:00
+- Ende: 2025-03-25T20:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27585
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27585
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548071.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548071.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548071.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/008/2024 vom 19.11.2024 und SI-BV2/001/2025 vom 11.02.2025 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Workshopverfahren Nr. 02/022 - Güterbahnhof Schlüterstraße und Luise-Rainer-Straße - Empfehlung einstimmig beschlossen
+- TOP 4.2: Masterplan Jugend- und Bolzplätze, Umgestaltung Hermannplatz - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - vertagt
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Blumenoasen Pro Düsseldorf - einstimmig beschlossen
+- TOP 4.10: Verwendung von Haushaltsmittel hier: Zuwendungsantrag der Bürgerinitiative Flingern für das Kulturprogramm zum 45. Internationalen Straßenfest - einstimmig beschlossen
+- TOP 4.11: Verwendung von Haushaltsmittel - hier: Zuwendungsantrag von Kabawil e.V. für das Projekt InTransition - mehrheitlich beschlossen
+- TOP 4.12: Verwendung von Haushaltsmittel 2025 - hier: Zuwendungsantrag für die Durchführung eines Nachbarschaftsfestes auf der Wülfrather Straße - mehrheitlich beschlossen
+- TOP 4.13: Neuwahl einer Schiedsperson - Vorstellung der Kandidatin - zur Kenntnis genommen
+- TOP 4.14: Pilotprojekt Nachbarschaftszone am Paulusplatz - mehrheitlich beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Ausweitung des Bewohnerparkens auf das Quartier östlich der Dorotheenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2024 für den Stadtbezirk 2 - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 5.4: Vorstellung der amtlichen Kriminal- und Unfallstatistik 2024 für den Stadtbezirk 2 - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 5.5: Genügend Stellplätze für die geplante Wohnbebauung auf dem Metro-Gelände schaffen - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Gehwegreinigung am Brehmplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Berücksichtigung Vorgartensatzung Gebäude Grafenberger Allee 250/250a/Sohnstr 6-10 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.2: Kosten und Erlöse Anwohnerparkausweiszonen im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Schulwegsicherheit Grafental - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7.2: Leerstehendes Haus Achenbachstraße 78 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Clan-Kriminalität und häusliche Gewalt im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.5: Mieterhöhungen auf der Kiefernstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Baudenkmal Flurklinik - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7.11: Bebauungsplan Nr. 02/010 – Östl. Hanielpark/Sohnstraße; Durchgang von der Sohnstraße zum Hanielpark - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Geschwindigkeitsanzeigetafel Hohenzollernallee - Beschluss der Bezirksvertretung 2, Vorlage BV2/200/2024 - zur Kenntnis genommen
+- TOP 8.2: Fahrradständer auf der Beethovenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/012/2025 - zur Kenntnis genommen
+- TOP 8.3: Allgemeinverfügung zur Untersagung der erlaubnisfreien Grundwassernutzung im Bereich der PFAS-Grundwasserverunreinigung ausgehend vom ehemaligen Lager 61 in Gerresheim
