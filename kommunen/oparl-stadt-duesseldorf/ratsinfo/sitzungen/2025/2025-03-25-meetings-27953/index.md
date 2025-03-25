@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-03-25T17:00:00+01:00
+- Ende: 2025-03-25T19:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27953
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27953
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548231.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548231.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548231.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 11.03.2025 eingegangene Fragen - beantwortet
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen Niederschrift vom 25.02.2025 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zweiphasiger städtebaulich-landschaftsplanerischer Wettbewerb Nr. 07/008 - Zukunft Bergische Kaserne in Düsseldorf - Durchführung des Wettbewerbs - Empfehlung abweichend beschlossen
+- TOP 4.2: Flächennutzungsplanänderung Nr. 207 und Bebauungsplan - Vorentwurf Nr. 07/013 - Östlich Blanckertzstraße - Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 4.3: Allgemeinverfügung zur Untersagung der erlaubnisfreien Grundwassernutzung im Bereich der PFAS-Grundwasserverunreinigung ausgehend vom ehemaligen Lager 61 in Gerresheim - zur Kenntnis genommen
+- TOP 4.4: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Planung und Errichtung einer Oberflächenabdichtung zur Sicherung der PFAS-Eintragsstelle Lager 61" - zur Kenntnis genommen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Frühlings- und Muttertagsmarkt auf dem Gerricusplatz im Jahre 2025 - einstimmig beschlossen
+- TOP 4.7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.8: Landpartie Grafenberg auf der Galopprennbahn im Jahre 2025 - Empfehlung einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Einrichtung eines Zebrastreifens auf der Ernst-Poensgen-Allee in Höhe der Graf-Recke-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.5: Herstellung des Waldweges entlang der Straße Pöhlenweg - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Straßenmarkierung mit “30” Symbolen im Bereich Schönau- und Märkische Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.7: Schutz der Fußgänger an der Ampel Gerresheimer Bahnhof, Heyestraße/Im Brühl - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorheriger Sitzung
+- TOP 6.1: Sachstand Neubauplanung Torfbruchstr. 25 (Regenbogenland) - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Ausbau der Torfbruchstraße zwischen Pöhlenweg und Dreherstr. - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Verbesserungen Tunnel Staufenplatz - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.3: Anwohnerparken in Grafenberg - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Gymnasium Gerresheim, Am Poth 60 – Umbau und Erweiterung - zur Kenntnis genommen
+- TOP 8.2: Verkehrssicherheit in der Tempo-30-Zone im Stadtteil Knittkuhl - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2025 - - zur Kenntnis genommen
+- TOP 8.3: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.4: Reduzierung der Lärmbelastung durch den Schienenverkehr an der Haltestelle Pöhlenweg - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2025 - - zur Kenntnis genommen
