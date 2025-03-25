@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-03-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8353158
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8353158
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 25.02.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 25.02.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Mühldorfstr. 39 - Neubau Wohnanlage mit TG - VORBESCHEID
+- TOP 3.1.2.: Sonnwendjochstr. 76 - Umbau/Sanierung eines denkmalg. Bestandsg. mit Anbau eines Neubaus im rückwärtigen Garten Bereich zu gesamt 3 Wohneinheiten. Abbruch best. Garage, Neubau von 3 Carport. Umbau/Sanierung von einem best. Gartenhauses zu einem Wellnessbereich
+- TOP 3.1.3.: Erika-Köth-Str. - TEILBAUGENEHMIGUNG: Erstellung der Baugrube inkl. der Baugrubensicherung und den notwendigen Baumfällungen für das o.g Bauvorhaben. Werksviertel WA2 (3) BA 1, Neubau einer Wohnanlage mit Tiefgarage und zwei Gewerbeeinheiten - mit Mobilitätskonzept
+- TOP 3.1.4.: Sonnbergstr. 11 - Wohnhausneubau mit Stellpatz
+- TOP 3.1.5.: Elektronisches Stellwerk Ost, Herstellung des Benehmens; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 04.04.2025
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Baumkirchen Mitte: Reduzierung des „Mobilitätspunktes“ und Rückumwandlung in Kfz-Stellplätze; Antrag der CSU-Fraktion - vertagt aus der Plenumssitzung vom 25.02.2025 -
+- TOP 3.2.2.: Evaluation der Nutzung der in Berg am Laim eingerichteten „Mobilitätspunkte“, Carsharing-Flächen und „Geteilten Abstellflächen für Mikromobilität“ sowie der zu „Fahrradparken“ und „Lastenradparken“ umgewandelten Stellplätze; Antrag der CSU-Fraktion - vertagt aus der Plenumssitzung vom 25.02.2025 -
+- TOP 3.2.3.: Ampelanlage Aschheimer Str./Ludwig-Jung-Str.: Überquerung für Fußgänger und Radfahrer in Betrieb nehmen; Antrag der Fraktion Freie Wähler/ÖDP - vertagt aus der Plenumssitzung vom 25.02.2025 -
+- TOP 3.2.4.: Barrierefreier Haltestellenausbau Kreillerstraße: sicher, begrünt und mit unauffälligem Schutzgeländer; Antrag der Fraktion Freie Wähler/ÖDP - vertagt aus der Plenumssitzung vom 25.02.2025 -
+- TOP 3.2.5.: Rampe zum Piusanger; Antrag der SPD-Fraktion
+- TOP 3.2.6.: Verkehrsaufteilung im Gleisdreieck im Rahmen der Einhausung der zweigleisigen Spange Trudering-Daglfing; Antrag der Grünen-Fraktion
+- TOP 3.2.7.: Fahrradstraße Hachinger-Bach-Straße mit Zusatzschild „Kraftfahrzeuge frei“ ergänzen; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.8.: Aufstellung von stationären Blitzern in Berg am Laim; Antrag der Grünen-Fraktion
+- TOP 3.2.9.: Einrichtung einer kleinen Teilfläche für Gehwegparken in der Erika-Köth-Str.; Anhörung des Mobilitätsreferats
+- TOP 3.2.10.: verkehrsrechtliche Maßnahme: Verbindungsstraße Höhe Ampfingstr. 38/ Innsbrucker Ring; Anhörung des Mobilitätsreferats
+- TOP 3.2.11.: MVG-Anpassungsprogramm 2026; Anhörung der MVG, Frist bis zum 28.03.2025
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: BSL: Aufstellen eines Christbaums an der Baumkirchner Straße; Antrag der CSU-Fraktion
+- TOP 3.5.2.: Schaffung der Position des ,,Beauftragten gegen Linksextremismus”; Antrag der CSU-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Sonnwendjochstr. 76
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Februar 2025
+- TOP 4.1.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 4.1.3.: Rückmeldung bezüglich der Mülleimer mit Pfandring bzw. für Pizzakartons: Test auch in Berg am Laim
+- TOP 4.1.4.: Zweckentfremdung von Wohnraum
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Absolutes Halteverbot an der westlichen Einmündung St.-Veit-Str. in die Blombergstr. (Südseite)
+- TOP 4.2.2.: aktueller Stand des Verkehrskonzepts Münchner Osten
+- TOP 4.2.3.: Schreiben des Mobilitätsreferenten zu potenziellen Tempo 30 Anordnungen
+- TOP 4.2.4.: Gefahrzeichen Fußgängerüberweg an der Mühldorfstr. 15
+- TOP 4.2.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Altöttinger Str. 14
+- TOP 4.2.6.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Rückmeldung Pilotbezirke für Street Art und Graffiti
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Rückmeldung bezüglich der besseren Versorgung für ältere Menschen in Berg am Laim schaffen
+- TOP 4.4.2.: AKIM Bericht 1. Jahreshälfte 2025
+- TOP 4.4.3.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Antwortschreiben zum BA- Antrag Nr. 20-26 / B 07293 - Anfrage – Ehrenamt muss abgesichert sein
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Dornbergstr. 27
+- TOP 4.6.2.: Mühldorfstr. 15
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Sonnbergstr. 10 a
+- TOP 3.6.2.: Sonnbergstr. 10 a
