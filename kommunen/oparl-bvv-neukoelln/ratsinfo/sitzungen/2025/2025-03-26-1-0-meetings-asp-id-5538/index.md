@@ -1,0 +1,122 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-03-26T17:00:00+01:00
+- Ende: 2025-03-26T22:35:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5538
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5538
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Wohncontainer Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.2: Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - schriftlich beantwortet
+- TOP 1.3: Kompensationsfläche auf Teilflächen „Jerusalem und Kirchhof V“ - schriftlich beantwortet
+- TOP 1.4: Britzer Garten - schriftlich beantwortet
+- TOP 1.5: Katastrophenschutz im Bezirk Neukölln - beantwortet
+- TOP 1.6: Jugendclub UFO - schriftlich beantwortet
+- TOP 1.7: Der Jugendclub UFO (Gropiusstadt, Lipschitzallee 27) ist von Schließung bedroht - schriftlich beantwortet
+- TOP 1.8: Jugendzentrum UFO (Lipschitzallee 27) ist wichtiger Bestandteil des Bildungscampus Efeuweg - schriftlich beantwortet
+- TOP 1.9: Drohende Schließung des Jugendclub UFO, Lipschitzallee 27 - schriftlich beantwortet
+- TOP 1.10: Sangerhauser Weg - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde - Shrinking Spaces - kein Platz mehr für Kultur, Kunst, Kleingewerbe und Soziales in Neukölln? - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 1760 - Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Gesundheitsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Kürzungen für Schulen im Bonusprogramm zurücknehmen! - in der BVV abgelehnt
+- TOP 3.3: 1778 - Wahl von Mitgliedern des "Runden Tisches" zu Rassismus gegen muslimisch (gelesene) Menschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: 1779 - Wahl von Mitgliedern des "Runden Tisches" zur Sicherung und Förderung jüdischen Lebens in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Mehr Spielangebote für ältere Kinder auf Neuköllns Spielplätzen - überwiesen
+- TOP 5.2: Kostenfreie Menstruationsartikel in den Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 6: Einwohner*innenantrag - (offen)
+- TOP 6.1: Einwohner*innenantrag: Perspektiven für die Fritz-Karsen-Schule schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 7: Entschließungen - gegenstandslos
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Zielvereinbarung zur gesamtstädtischen Steuerung der Familienservicebüros - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.4: Trilaterale Zielvereinbarung nach §48b SGB II-2024 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.5: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: IT- Unterstützung durch Allris - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Änderung Investitionsplanung Kabinen-Neubau TSV Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2025 bis 2029 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Bebauungsplan XIV-172-1 („Rudower Straße 184 B - D“) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Anmeldung von Städtebaufördermaßnahmen im Programm Lebendige Zentren und Quartiere (Karl-Marx-Straße / Sonnenallee und Schillerpromenade) für das Programmjahr 2026 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Priorisierung und Anmeldung von Bauprojekten in Quartiersmanagement-Gebieten für eine Förderung aus dem Programm Sozialer Zusammenhalt für das Programmjahr 2026 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Wahl - (offen)
+- TOP 10.1: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 10.2: Wahl eines Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 10.3: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - gewählt
+- TOP 10.4: Wahl von Mitgliedern des "Runden Tisches" zu Rassismus gegen muslimisch (gelesene) Menschen - gewählt
+- TOP 10.5: Wahl von Mitgliedern des "Runden Tisches" zur Sicherung und Förderung jüdischen Lebens in Neukölln - gewählt
+- TOP 11: Mündliche Anfragen - (offen)
+- TOP 11.1: Blockpark 447 – Müllhotspot und Schandfleck - beantwortet
+- TOP 11.2: Strategien des Ordnungsamtes - beantwortet
+- TOP 11.3: Emmaus-Kirchhof - beantwortet
+- TOP 11.4: Anmeldungen zur Investitionsplanung - beantwortet
+- TOP 11.5: Rattenplage auf Spielplätzen – Maßnahmen des Bezirksamts - beantwortet
+- TOP 11.6: Einziehung von Straßenland - beantwortet
+- TOP 11.7: Schmilzt der Gletscher dahin? - beantwortet
+- TOP 11.8: Wie ist der Stand der Umsetzung des Antrags des Kinder- und Jugendparlaments "Bibliotheken an Neuköllner Schulen"? - beantwortet
+- TOP 11.9: Zielvereinbarung Bibliotheken - beantwortet
+- TOP 11.10: Parkverbot Alt-Britz II - schriftlich beantwortet
+- TOP 11.11: Hitzeschutzplan Maßnahme M I-4 nachgefragt - schriftlich beantwortet
+- TOP 11.12: Kürzungen beim „Produktiven Lernen“ an Schulen - schriftlich beantwortet
+- TOP 11.13: Bezirksamt im Verzug – Wann kommt die Antwort? - schriftlich beantwortet
+- TOP 11.14: Verhandlungen mit der Deutschen Rentenversicherung zur Sozialversicherungspflicht an der Musikschule - schriftlich beantwortet
+- TOP 11.15: Geheimes Fastenbrechen des Bezirks am 17.03.2025 - schriftlich beantwortet
+- TOP 11.16: Welche Zielvereinbarungen werden in 2025 umgesetzt? - schriftlich beantwortet
+- TOP 12: Mitteilungen - (offen)
+- TOP 12.1: Fahrradabstellplatz zentral beim Bürgeramt Blaschkoallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Park & Ride wieder möglich machen II - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 13.1: Evas Obdach ohne Obdach in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Mehr Sichtbarkeit von Endometriose - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 14.1: Was sind die Gründe für das Sporthallen-Desaster? - beantwortet
+- TOP 14.2: Eröffnung von kommerziellen Cannabis-Verkaufsstellen, sogenannten Coffeeshops im Bezirk Neukölln - beantwortet
+- TOP 14.3: Endlich Böllerverbot umsetzen: Silvester 2025 friedlich feiern! - in der BVV abgelehnt
+- TOP 14.4: Neukölln für Frieden! Flagge Hissen für eine Welt ohne Atomwaffen am 8. Juli öffentlichkeitswirksam und mit Beteiligung der Zivilgesellschaft - in der BVV abgelehnt
+- TOP 14.5: Kinderarmutsprävention - Was folgte aus der Kinderarmutskonferenz im Oktober 2024? - beantwortet
+- TOP 14.6: Wie kann die Schulwegbeförderung im Bezirk sichergestellt werden? - vertagt
+- TOP 14.7: Anwohnerproteste ignoriert? – Bezirksamt muss zur geplanten Flüchtlingsunterkunft am Sangerhauser Weg Stellung beziehen! - vertagt
+- TOP 15: Beschlussempfehlungen - (offen)
+- TOP 15.1: Bezirkliche Kitaentwicklungsplanung (Jahresplanung 2024) - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: UFO in aktueller Form beibehalten - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Sammelstellen für Einweg-Vapes (Einweg E-Zigaretten) im Bezirk Neukölln schaffen - überwiesen
+- TOP 15.4: Bezirkliche Räume für unsere Demokratie - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Jumelage-Gedenksteine reinigen und aufarbeiten! - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Grünanlage am Ibisweg aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Ampelschaltung Rufacher Weg während der Bauarbeiten in Buckow - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Verkehrssicherheit auf dem südlichen Buckower Damm - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: 3. Seniorensommer in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Park & Ride wieder möglich machen I - ohne Änderungen in der BVV beschlossen
+- TOP 16: Große Anfragen - (offen)
+- TOP 16.1: Kostenfalle alte Schulstandorte? - vertagt
+- TOP 16.2: Sondervermögen und Reform der Schuldenbremse – Eine Chance für Neukölln? - vertagt
+- TOP 16.3: Jugendfreizeiteinrichtung auf den Buckower Felder: Wieso brauchte es 6 Jahre, um eine Lösung zu finden? - vertagt
+- TOP 16.4: Illegalen Leerstand im Hochhaus Ruth beenden - vertagt
+- TOP 16.5: Ramadanzwang an Neuköllner Schulen - vertagt
+- TOP 16.6: Schulbau- und Sanierungsmaßnahmen in Neukölln - Werden ausreichend Schulplätze geschaffen? - vertagt
+- TOP 16.7: Einordnung der Ausstellung „Denk Mal Jahn“ im Museum Neukölln und der Diskussion um das Jahn-Denkmal in der Hasenheide - vertagt
+- TOP 17: Große Anfragen - schriftlich - (offen)
+- TOP 17.1: Kürzungen im Integrationsbereich: Welche Auswirkungen sind in Neukölln zu spüren? - schriftlich beantwortet
+- TOP 18: Anträge - (offen)
+- TOP 18.1: Einwohner*innenantrag: Keine Bebauung am Besucher-Parkplatz Sangerhauser Weg - überwiesen
+- TOP 18.2: Mehr Sauberkeit auf Neuköllns Straßen! - überwiesen
+- TOP 18.3: Ursachen der niedrigen Ausschöpfungsquote der Neuköllner Kitas genauer bestimmen - überwiesen
+- TOP 18.4: Mobilität und Teilhabe für alle sichern – keine Einsparung des VBB-Begleitservice für Menschen mit Behinderung! - ohne Änderungen in der BVV beschlossen
+- TOP 18.5: Ampelphase für Fußgänger an der Ampel Hermannstraße Ecke Karlsgartenstraße verlängern - überwiesen
+- TOP 18.6: Gymnasiale Oberstufen an Integrierten Sekundarschulen und Gemeinschaftsschulen ausbauen - überwiesen
+- TOP 18.7: bridge - Brücken zwischen Unternehmen und Geflüchteten stärken - überwiesen
+- TOP 18.8: Schulstandorte Haewererweg und Bildhauerweg für Neukölln nutzen - überwiesen
+- TOP 18.9: Schüler*innenHaushalt stabilisieren - überwiesen
+- TOP 18.10: Wachschutz beibehalten - überwiesen
+- TOP 18.11: Parkmöglichkeiten am Kombibad Gropiusstadt - überwiesen
