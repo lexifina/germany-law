@@ -1,0 +1,103 @@
+# 34. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-27T17:30:00+01:00
+- Ende: 2025-03-27T21:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31537
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31537
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Erweiterungsbau und Interim Erich- Kästner Gymnasium Niehl
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage zum Bolzplatz Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.2: Einwohnerfrage zum Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.3: Einwohnerfrage zum Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.4: Einwohnerfrage zu einer Sozialen Erhaltungssatzung für den Stadtteil Nippes - Kenntnis genommen
+- TOP -: Beantwortung der Einwohnerfrage zu einer Sozialen Erhaltungssatzung für den Stadtteil Nippes vom 28.11.2024, Nummer 3827/2024, TOP Ö 1.10 der 32. Sitzung der Bezirksvertretung Nippes vom 05.12.2024 - Kenntnis genommen
+- TOP 1.5: Flächennutzung Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.6: Beantwortung mehrerer Einwohneranfragen zur Sitzung der BV 5 am 07.11.2024 (3793/2024, 3794/2024, 3796/2024, 0341/2025) betreffend Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.7: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO – Stellwerk60 - Installation von 3 Taxiwartebänken, Aktenzeichen: 168/24 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung zur Ausarbeitung der Didaktik der Kamelienausstellung in der Flora und dem Botanischen Garten - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.3: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.4: Zweiter Zaun der Mathilde-von-Mevissen-Schule - Sache ist erledigt
+- TOP 7.1.5: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.6: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - zurückgestellt
+- TOP 7.1.7: Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - zurückgestellt
+- TOP 7.1.8: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - zurückgestellt
+- TOP 7.1.9: Weiterer Zebrastreifen in der Nesselrodestraße - zurückgestellt
+- TOP 7.1.10: Bauprojekt Appartementhaus „The Flag“, Neusser Straße 159 - Kenntnis genommen
+- TOP -: Beantwortung einer schriftliche Anfrage der SPD-Fraktion in der Sitzung der Bezirksvertretung Nippes vom 05.12.2024 „AN/0961/2024“ betreffend Bauprojekt Appartmenthaus „The Flag„ Neusser Straße 159 - Kenntnis genommen
+- TOP 7.1.11: Nutzung von Fahrradboxen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.12: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - zurückgestellt
+- TOP 7.1.13: Begrenzung der Silvester-Feuerwerke - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion betreffend "Begrenzung der Silvester - Feuerwerke" (AN/0124/2025) - Kenntnis genommen
+- TOP 7.1.14: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Errichtung von zwei Quartiersgaragen an Neusser Straße und Kempener Straße - ungeändert beschlossen
+- TOP 8.1.2: Öffnung der Schulhöfe und schulischen Sportplätze für die Nutzung durch Sportvereine und für die Freizeitnutzung - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Gartenlabor am Merheimer Platz (ehemaliges Appelmann Gelände) - ungeändert beschlossen
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Widmung der Stichstraße zum Parkgürtel in Köln-Nippes (nordöstlich Parkgürtel 26) - ungeändert beschlossen
+- TOP 9.1.4: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Freigabe der positiv geprüften Standorte - geändert beschlossen
+- TOP -: Keine Ladesäule, wo Bäume stehen - ungeändert beschlossen
+- TOP 9.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an Nachbarschaft Clouth e.V. - geändert beschlossen
+- TOP 9.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die Sozial-Betriebe-Köln - ungeändert beschlossen
+- TOP 9.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an die Gemeindebücherei Köln-Mauenheim - ungeändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an den DJK Köln-Nord von 1960 e.V. - geändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an das Büro Petrol - Diederich & Pötter GbR - geändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an den Gesellschaftskreis St. Quirinus - ungeändert beschlossen
+- TOP 9.1.14: Vergabe bezirksorientierter Mittel an Wilhelm - Der Verein e.V. - ungeändert beschlossen
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an den Kölner Flüchtlingsrat e.V. - ungeändert beschlossen
+- TOP 9.1.16: Vergabe bezirksorientierter Mittel an den Förderverein Willkommen in Nippes e.V. - geändert beschlossen
+- TOP 9.1.17: Vergabe bezirksorientierter Mittel an den DJK Löwe Köln e.V. - geändert beschlossen
+- TOP 9.1.18: Vergabe bezirksorientierter Mittel an LATIBUL Theater- und Zirkuspädagogisches Zentrum - geändert beschlossen
+- TOP 9.1.19: Vergabe bezirksorientierter Mittel an das Handwerkerinnenhaus Köln e.V. - ungeändert beschlossen
+- TOP 9.1.20: Vergabe bezirksorientierter Mittel für die Feier und Ausstellung "50 Jahre BV Nippes" - ungeändert beschlossen
+- TOP 9.1.21: Vergabe bezirksorientierter Mittel an Promo Guinee Afrika e.V. - geändert beschlossen
+- TOP 9.1.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.23: Vergabe bezirksorientierter Mittel an das Flora-Sinfonie-Orchester - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Schlenderhaner Straße in Köln-Niehl - ungeändert beschlossen
+- TOP 9.2.2: Einzug der Förderschule Lindweiler Hof, derzeit ausgelagert im Interimsstandort Paul-Humburg-Str.13, 50737 Köln-Longerich in das Bestandsgebäude Borsigstr. 13, 50827 Köln-Bickendorf - ungeändert beschlossen
+- TOP 9.2.3: Bebauungsplanverfahren "Südliche Schmiedegasse in Köln-Weidenpesch", Vorgabenbeschluss - geändert beschlossen
+- TOP -: Änderungen zu Planungskonzept "Südliche Schmiedegasse" - ungeändert beschlossen
+- TOP 9.2.4: RadPendlerRouten-Netz Köln: RadPendlerRoute Köln Innenstadt - Nippes - Chorweiler - Dormagen - geändert beschlossen
+- TOP -: Radpendlerroute 8 Ergänzung zur Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.5: Baubeschluss für die Instandsetzung der Steinschüttungen im Bereich Niehler Damm, Ufermauern und Böschungen - ungeändert beschlossen
+- TOP 9.2.6: Beschluss über die Aufstellung eines Bebauungsplanes - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Gesamtinstandsetzung Mülheimer Brücke – Sachstand Bauphase II - Kenntnis genommen
+- TOP 10.2.2: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 10.2.3: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion in der Sitzung des Sportausschusses am 05.12.2024 betreffend "Entwicklung der Disc Golf Sportstätten in Köln" (AN/1699/2024) - Kenntnis genommen
+- TOP 10.2.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Chorweiler vom 06.02.2025 (AN/0099/2025) betreffend "Öffentlichkeitsarbeit und Informationsweitergabe im Rahmen der Gesundheitsregion Kölner Norden" - Kenntnis genommen
+- TOP 10.2.5: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.6: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 10.2.7: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 10.2.8: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 10.2.9: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 10.2.10: Voranfrage zur Klärung des Planungsrechts (Bebauungsgenehmigung) für die Errichtung von einem Wohngebäude mit 60 Wohneinheiten und einem Bürogebäude auf einer bestehenden gemeinsamen Tiefgarage sowie Erweiterung der Tiefgarage - Kenntnis genommen
