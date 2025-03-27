@@ -1,0 +1,8 @@
+# TOP -: Aktuelle Stunde: Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand
+
+- Sitzung: 32. Sitzung des Stadtentwicklungsausschusses (2025-03-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/417203
+- Ergebnis: Sache ist erledigt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/192187
