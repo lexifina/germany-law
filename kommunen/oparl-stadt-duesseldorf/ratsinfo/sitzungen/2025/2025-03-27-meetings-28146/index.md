@@ -1,0 +1,62 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-03-27T18:00:00+01:00
+- Ende: 2025-03-27T19:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28146
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28146
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 27.03.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548987.pdf
+- Ergebnisprotokoll: NachtragsTO vom 27.03.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548987.pdf
+- Wortprotokoll: NachtragsTO vom 27.03.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00548987.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 13.03.2025 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Bauvorbescheid Hasseler Richtweg 66, 68, 70, 72 ,74, 76, 78 – Neubau von Mehrfamilienhäusern, Stellplätzen und einer Jugendeinrichtung - einstimmig beschlossen
+- TOP 4: Seeheimer Weg (I-2020420001) - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Errichtung einer Wasserspielanlage auf dem Kinderspielplatz Posener Straße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 7: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2025 - einstimmig beschlossen
+- TOP 8: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87 im Jahr 2025 - einstimmig beschlossen
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung gemäß § 36 Abs. 5 GO NW in Verbindung mit § 60 GO NW – Freigabe Verkaufsoffener Sonntagnachmittage im Jahre 2025 in den Stadtteilen Benrath, Eller, Kaiserswerth, Oberkassel, Pempelfort - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Haushalt 2025 Liste A Schulen - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2025 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2025 - einstimmig beschlossen
+- TOP 13: Gebäude Vennhauser Allee 248 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 14: Ausschreibung Grundstücke Reichenbacher Weg (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Baustelleneinrichtung Friedrich-Engels-Straße in Höhe 39 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Ortsumgehung Flingern, 2. BA (Anfrage CDU-Fraktion) - beantwortet
+- TOP 17: Verkehrsbehinderungen zwischen dem Stadtbezirk 8 und der Innenstadt (Anfrage CDU-Fraktion) - beantwortet
+- TOP 18: Baumpflanzungen Ronsdorfer Straße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Novellierung der Bezirkssatzung (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Grundschule Gumbertstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 21: Müllaufkommen im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Situation und Planung der Pflegeplätze im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 23: Baumfällungen Kleiner Torfbruch (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 24: Essbare Stadt (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 25: Behebung von Stolperfallen auf Gehwegen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Ehrengrabfelder Friedhof Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 27: Fußgängerüberweg Jägerstraße (Schulwegsicherung GGS Richardstraße) (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 28: Müllentfernung Gleiskörper Kuthsweg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Toiletten auf dem Unterbacher Friedhof (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 30: Sitzbänke für den DSV 04 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 31: Ehemalige Stadtsparkasse Lierenfeld (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: Ampel an der Carl Sonnenschein Schule (Antrag SPD-Fraktion)
+- TOP 33: Aufwertung Schloßallee (Antrag CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 34: Querungshilfe Reichenbacher Weg/Eller Kamp (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 35: Auffrischung/Erneuerungen Zebrastreifen, Markierungen, Piktogramme (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 36: Bücherschrank im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 37: Allgemeinverfügung zur Untersagung der erlaubnisfreien Grundwassernutzung im Bereich der PFAS-Grundwasserverunreinigung ausgehend vom ehemaligen Lager 61 in Gerresheim - zur Kenntnis genommen
+- TOP 38: Bebauung Sodener Weg (Alter Schützenplatz) - zur Kenntnis genommen
+- TOP 39: Bolzplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Graffiti an Unterführungen - zur Kenntnis genommen
+- TOP 41: Sanierung des Weges am Bahnübergang Eller Kamp zum Nachbarschaftspark Am Hackenbruch - zur Kenntnis genommen
+- TOP 42: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: E-Ladepunkte in Bordsteinen in Unterbach - Pilotprojekt - zur Kenntnis genommen
+- TOP 44: Sanierung Auguste-Leven-Weg - zur Kenntnis genommen
+- TOP 45: Situation und Planung der Pflegeplätze im Stadtbezirk 8 - zur Kenntnis genommen
