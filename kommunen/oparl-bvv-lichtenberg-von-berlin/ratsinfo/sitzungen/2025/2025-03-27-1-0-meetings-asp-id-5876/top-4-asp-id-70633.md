@@ -1,0 +1,7 @@
+# TOP 4: Bericht der und Diskussion mit den Mieterberatungen für Lichtenberg und Hohenschönhausen
+
+- Sitzung: 60. Sitzung in der IX. Wahlperiode des Ausschusses Ökologische Stadtentwicklung, Mieter:innenschutz und Facility Management (2025-03-27)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=70633
+- Ergebnis: im Ausschuss abgelehnt
