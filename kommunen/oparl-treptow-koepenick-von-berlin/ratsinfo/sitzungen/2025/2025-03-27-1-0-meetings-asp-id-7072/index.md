@@ -1,0 +1,18 @@
+# 12. (ordentliche, öffentliche) Sitzung des Rechnungsprüfungsausschusses (B)
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-03-27T18:30:00+01:00
+- Ende: 2025-03-27T18:48:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=143
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7072
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7072
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnung und Festlegung der Protokollführung - erledigt
+- TOP 2: Bezirkshaushaltsrechnung 2023 - vertagt
+- TOP 2.1: Erstellung des Jahresberichtsplanes - erledigt
+- TOP 3: Verschiedenes - gegenstandslos
