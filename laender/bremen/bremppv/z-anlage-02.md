@@ -1,9 +1,9 @@
 # Anlage 2 - Bauwerksklassen
 Anlage 2
-(zu § 38 Absatz 4 BremPPV)
+(zu § 38 Absatz 4)
 Bauwerksklassen
 Bauwerksklasse 1
-Tragwerke mit sehr geringem Schwierigkeitsgrad, insbesondere einfache statisch bestimmte ebene Tragwerke aus Holz, Stahl, Stein oder unbewehrtem Beton mit vorwiegend ruhenden Lasten, ohne Nachweis horizontaler Aussteifung;
+Tragwerke mit sehr geringem Schwierigkeitsgrad, insbesondere einfache statisch bestimmte ebene Tragwerke aus Holz, Stahl, Stein oder unbewehrtem Beton mit vorwiegend ruhenden Lasten, ohne Nachweis horizontaler Aussteifung.
 Bauwerksklasse 2
 Tragwerke mit geringem Schwierigkeitsgrad, insbesondere statisch bestimmte ebene Tragwerke in gebräuchlichen Bauarten ohne vorgespannte Konstruktionen und Verbundkonstruktionen mit vorwiegend ruhenden Lasten,
 - einfache Dach- und Fachwerkbinder,
@@ -11,7 +11,7 @@ Tragwerke mit geringem Schwierigkeitsgrad, insbesondere statisch bestimmte ebene
 - Deckenkonstruktionen mit vorwiegend ruhenden Flächenlasten, die nach gebräuchlichen Tabellen berechnet werden können,
 - Mauerwerksbauten mit bis zur Gründung durchgehenden tragenden Wänden ohne Nachweis der horizontalen Aussteifung des Gebäudes,
 - Stützwände einfacher Art,
-- Flachgründungen einfacher Art (Einzel- und Streifenfundamente);
+- Flachgründungen einfacher Art (Einzel- und Streifenfundamente).
 Bauwerksklasse 3
 Tragwerke mit durchschnittlichem Schwierigkeitsgrad, insbesondere schwierige statisch bestimmte und statisch unbestimmte ebene Tragwerke in gebräuchlichen Bauarten ohne vorgespannte Konstruktionen und ohne schwierige Stabilitätsuntersuchungen (mit Ausnahme der genannten Spannbettvorspannung),
 - einfache Verbundkonstruktionen des Hochbaus ohne Berücksichtigung des Einflusses von Kriechen und Schwinden,
@@ -48,7 +48,7 @@ Tragwerke mit überdurchschnittlichem Schwierigkeitsgrad, insbesondere statisch 
 - Maste, Schornsteine, Maschinenfundamente mit einfachen Schwingungsuntersuchungen,
 - Abspannungen von Einzelmasten oder Mastgruppen, soweit sie nicht den Bauwerksklassen 3 oder 5 zuzuordnen sind,
 - Seilbahnkonstruktionen,
-- schwierige verankerte Stützwände, schwierige statisch unbestimmte Flächengründungen, schwierige ebene oder räumliche Pfahlgründungen, besondere Gründungsverfahren, Unterfahrungen;
+- schwierige verankerte Stützwände, schwierige statisch unbestimmte Flächengründungen, schwierige ebene oder räumliche Pfahlgründungen, besondere Gründungsverfahren, Unterfahrungen,
 - Konstruktionen mit Mauerwerk nach Eignungsprüfung (Ingenieurmauerwerk).
 Bauwerksklasse 5
 Tragwerke mit sehr hohem Schwierigkeitsgrad, insbesondere statisch und konstruktiv ungewöhnlich schwierige Tragwerke und schwierige Tragwerke in neuen Bauarten,
@@ -64,3 +64,4 @@ Tragwerke mit sehr hohem Schwierigkeitsgrad, insbesondere statisch und konstrukt
 - schwierige Trägerroste und schwierige orthotrope Platten,
 - Turbinenfundamente,
 - schwierige Abspannungen von Einzelmasten oder Mastgruppen.
+Einzelansicht Seitenanfang
