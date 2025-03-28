@@ -1,0 +1,67 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-03-28T13:30:00+01:00
+- Ende: 2025-03-28T16:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27639
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27639
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00547755.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00547755.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00547755.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die gemeinsame öffentliche Sondersitzung des Bauausschusses und der Bezirksvertretung 1 vom 26.11.2024 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 21.02.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung der Pläne zur Errichtung eines Cafés im Hetjens-Museum/Deutsches Keramikmuseum - zur Kenntnis genommen
+- TOP 4.2: Bebauungsplan-Entwurf Nr. 03/034 - Südlich Haroldstraße - Stellungnahmen, Satzung - Empfehlung einstimmig beschlossen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Bereitstellung von finanziellen Mitteln für den Druck von Flyern - einstimmig beschlossen
+- TOP 4.8: Freigabe Verkaufsoffener Sonntagnachmittage im Jahre 2025 in der Innenstadt (gesamte Stadtteile Stadtmitte, Altstadt, Carlstadt) - Empfehlung mehrheitlich abgelehnt
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2025 - abweichend beschlossen
+- TOP 4.12: Schadowstraße – Umplanung zur Entschärfung des Nutzungskonflikts zwischen Rad- und Fußverkehr - Empfehlung mehrheitlich abgelehnt
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Zustand der Radwege Kaiserswerther Straße zwischen Kennedydamm und Reeser Platz - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 5.2: Fußgänger-Querungshilfe Rotterdamer Straße / Reeser Platz - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Zukunft des Musikpavillons – Anfrage der FDP-Fraktion - schriftlich beantwortet
+- TOP 6.2: Erweiterung des Görres-Gymnasiums – Anfrage der FDP-Fraktion - schriftlich beantwortet
+- TOP 6.3: Aktuelle und zukünftige Pflegeplätze im Stadtbezirk 1 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.4: Gewerbebetriebe im Stadtbezirk 1 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.5: Leerstand Poststraße 24 - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6.6: Informationen über den Leerstand Hunsrückenstraße 40, ehemals Filiale Deutsche Bank - Anfrage der CDU-Fraktion
+- TOP 7: Anträge
+- TOP 7.1: Strom und Wasser für Veranstaltungen an der Unteren Rheinwerft - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Aufwertung des Spielplatzes Poststraße / Spee’scher Graben - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Fahrradstationen oder Fahrradboxen o.Ä. in der Altstadt und Carlstadt - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Sanierung des Gehwegs Schwanenmarkt - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 7.5: Grüner Abbiegepfeil für den Radverkehr an der Ecke Wehrhahn / Adlerstraße und Adlerstraße / Schirmerstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 7.6: Vorstellung der wegebaulichen und Bepflanzungsmaßnahmen im Bereich Joachim-Erwin-Platz, Jrüne Jong bis Kreuzung Maximilian-Weyhe-Allee nach Ende der Hofgartenbaustelle - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.7: Alternative Standorte für die Container an der Moltkestraße 63 in Pempelfort an der Heilig-Geist-Kirche - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.8: Instandsetzung der Klausingstraße aufgrund erheblicher Straßenschäden - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Parkhaus unter dem Gustaf-Gründgens-Platz; Beschluss der Bezirksvertretung 1 vom 24.01.2025; BV1/014/2025 - zur Kenntnis genommen
+- TOP 8.3: Prüfung der Wegebeziehung westliche Worringer Straße; Beschluss der Bezirksvertretung 1 vom 21.02.2025; BV1/035/2025 - zur Kenntnis genommen
+- TOP 8.4: Verbesserung des Anschlusses der Toulouser Allee bzw. des Berty-Albrecht-Parks an die Schirmerstraße für den Rad- und Fußverkehr; Beschluss der Bezirksvertretung 1 vom 21.02.2025; BV1/036/2025 - zur Kenntnis genommen
+- TOP 8.5: Parkscheinregelung im Bewohnerparkgebiet B (Daimler); Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/207/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein des Leibniz-Montessori-Gymnasiums für ein theaterpädagogisches Angebot zur Gewaltprävention - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Oliver Gather für ein Kunstprojekt am Rheinufer - mehrheitlich beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein der GGS Lennéstraße für die Anschaffung eines Bewegungsparcours - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Drogenhilfe für das Projekt „Schreibwerkstatt“ - mehrheitlich beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Dr. Joachim Schröder für eine Informationstafel zum Erinnerungsort Alter Schlachthof - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an KG Düssel-Narren e.V. für das Sommerfest 2025 - abweichend beschlossen
