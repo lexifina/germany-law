@@ -1,0 +1,51 @@
+# 23. Sitzung in der IX. Wahlperiode Sitzung der Vorlagen zur Kenntnisnahme
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-03-31T00:00:00+02:00
+- Ende: 2025-03-31T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5896
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5896
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege in der Trautenauer Straße
+- TOP 2: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege in der Üderseestraße
+- TOP 3: Anbringung eines Aufzugs an der Philipp-Reis-Schule
+- TOP 4: Verkehrliche Erschließung des Vorhabens Joachimsthaler Straße eingehend prüfen
+- TOP 5: Digitale Europakarte für Lichtenberg
+- TOP 6: Denkmale auf dem Städtischen Friedhof Gotlindestraße erhalten
+- TOP 7: Digitalisierung voranbringen
+- TOP 8: BVV Sondermittel für Berliner Wohnforum: Aktionsküche – Essen verbindet
+- TOP 9: Einsehbarkeit von Einmündungen und damit Schulwegsicherheit im Gensinger Viertel erhöhen
+- TOP 10: Lebensretter gesucht: Mehr Schwung bei Blutspendeaktionen in Lichtenberg!
+- TOP 11: BVV-Sondermittel für das erste Bachfest der Ev. Paul-Gerhardt-Kirchengemeinde Lichtenberg in Karlshorst
+- TOP 12: BVV Sondermittel für Wartenberger Osterlauf
+- TOP 13: BVV-Sondermittel für den 27. Hohenschönhausener Gartenlauf des KGV Falkenhöhe-Nord
+- TOP 14: BVV-Sondermittel für den „Dance Slam“ am 06.07.2024
+- TOP 15: BVV-Sondermittel für den Förderverein Kita "Hoppetosse" für 25 Jahre Kita "Hoppetosse" an der Rummelsburger Bucht
+- TOP 16: Durchwegung sicherstellen
+- TOP 17: Die Geschichte von Anton M’bonga Egiomue und Josef Bohinge Boholle dauerhaft sichtbar machen!
+- TOP 18: BVV-Sondermittel für das Familienfest beim Familienrenntag auf der Trabrennbahn Karlshorst
+- TOP 19: BVV Sondermittel für das Sommer-Gecko-Fest der KiTa Pinocchio
+- TOP 20: BVV-Sondermittel für das Gedenkturnier des Jugendfußballclubs Berlin e.V. zum 1. Todestag von Paul Püschel
+- TOP 21: BVV Sondermittel für Pilotprojekt Selbstverteidigungskurs für Senior*innen
+- TOP 22: BVV Sondermittel für Berit Petzsch / Stadtlichter 2024
+- TOP 23: BVV-Sondermittel für den Kunstkalender 2025 „Ankunft im Miteinander“
+- TOP 24: Erfolgsprojekt "LichtPunkt" ausweiten - Ring-Center für Nachbarschaft attraktiv halten
+- TOP 25: Wartenbergs Dorfschule eigenständig etablieren
+- TOP 26: BVV Sondermittel für DNA Kultur: Gastspiel - Frantics Dance Company
+- TOP 27: BVV Sondermittel für Kulturring in Berlin e.V. / Wanderaustellung Lichtenberg in der NS-Zeit
+- TOP 28: BVV Sondermittel für die Seniorenweihnachtsfeier 2024 des Kleingartenvereins Biesenhorst II e.V.
+- TOP 29: BVV Sondermittelantrag für das 2. Mädchenfußballturnier des Bezirkssportbund Lichtenberg e. V.
+- TOP 30: BVV Sondermittel für den Deutschen Senioren-Computer-Club e.V.
+- TOP 31: BVV-Sondermittel für die Weihnachtsfeier der Bezirksgruppe Lichtenberg des Allgemeinen Blinden- und Sehbehindertenverein Berlin e.V.
+- TOP 32: POSTdemokratische Gefahren lauern - Auf verkürzte Briefwahlfrist aufmerksam machen!
+- TOP 33: Abberufung eines Mitgliedes im Beirat von und für Menschen mit Behinderungen des Bezirks Lichtenberg von Berlin
+- TOP 34: Teilung des Bebauungsplans 11-131 in die Teilpläne 11-131a und 11-131b sowie Änderung der Planungszie-le
+- TOP 35: Entscheidung über das Zustandekommen des Bürgerbegehrens unter der Überschrift „Drehscheibenschule jetzt! Infrastruktur vor Wohnbebauung“
+- TOP 36: Umsetzung des Projekts „Kinderarmut aus Kindersicht: Forschung, Partizipation und Empowerment“ im Bezirk Lichtenberg-Hohenschönhausen
+- TOP 37: Abberufungen Mitglieder im Lichtenberger Frauenbeirat
