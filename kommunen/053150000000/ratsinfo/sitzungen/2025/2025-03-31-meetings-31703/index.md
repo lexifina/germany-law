@@ -1,0 +1,58 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-03-31T14:35:00+02:00
+- Ende: 2025-03-31T15:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31703
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31703
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 2.3: Mitteilung zum Gesetzesentwurf des Landes Nordrhein-Westfalen zur anteiligen Entschuldung von Kommunen im Land Nordrhein-Westfalen (Altschuldenlösung/ Altschuldenentlastungsgesetz (ASEG NRW)) - Kenntnis genommen
+- TOP 2.4: Mitteilung zur Betrauung und Eigenkapitalstärkung der Kliniken der Stadt Köln - Kenntnis genommen
+- TOP 2.5: Monatsbericht Sanierung der Bühnen Köln Januar und Februar 2025 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 in analoger Anwendung - Kenntnis genommen
+- TOP 6.3: Genehmigung der Haushaltssatzung 2025/2026 durch die Bezirksregierung Köln - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Grundsatz- und Bauübertragungsbeschluss für die Verlängerung der südlichen Abfahrtsrampe für den Radverkehr, von der Rheinbrücke Leverkusen bis Spoerkelhof in Köln-Merkenich und Freigabe von investiven Auszahlungsermächtig. Finanzst. 6601-1201-6-1158 - ungeändert beschlossen
+- TOP 7.2: Bedarfsfeststellungs-, Planungs- und Baubeschluss zur Durchführung von Instandsetzungsarbeiten der MSR-Technik - ungeändert beschlossen
+- TOP 7.3: Ersatzbeschaffung von 13 Schmalspurtransportern als Elektrofahrzeuge für den Bereich der Kölner Friedhöfe - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Bedarfsfeststellungs- und Planungsbeschluss für die externe Beauftragung der Planung einer Rad- und Gehwegbrücke über den Rhein an der Bastei in Köln - ungeändert beschlossen
+- TOP 10.2: Bedarfsfeststellungs- und Planungsbeschluss für die externe Beauftragung der Planung einer Rad- und Gehwegbrücke über den Rhein am Ubierring in Köln - ungeändert beschlossen
+- TOP 10.3: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 10.3.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 10.4: Planung Nutzungsperspektive Kalkberg, hier: Bedarfsfeststellung und Freigabe von Planungsmitteln - ohne Votum behandelt
+- TOP 10.5: Deutzer Brücke; Bedarfsfeststellungs- und Baubeschluss zur Erneuerung der Entwässerungs- und Beleuchtungsanlage auf der Nordseite - ungeändert beschlossen
+- TOP 10.6: Durchführung der Lernmittelfreiheit - Verzicht auf die weitere Auszahlung der hälftigen Einsparungen - zurückgestellt
+- TOP 10.7: Anpassung des Musterraumprogramms für Schulneubau- und erweiterungsbauten 2023 an die Handreichung zum Schulbau des Städtetages Nordrhein-Westfalen vom 29.11.2019 - zurückgestellt
+- TOP 10.8: Beratung für Geflüchtete - Verteilung der Finanzmittel im Haushaltsjahr 2025/2026 - ungeändert beschlossen
+- TOP 10.9: Verteilung der Finanzmittel für Maßnahmen zur interkulturellen Öffnung des Gesundheitswesens in den Haushaltsjahren 2025 und 2026 - ungeändert beschlossen
+- TOP 10.10: Klimaschutzpreis - ungeändert beschlossen
+- TOP 10.11: Kölner Verkehrs-Betriebe AG (KVB AG) - Änderung der Satzung - ungeändert beschlossen
+- TOP 10.12: AWB Abfallwirtschaftsbetriebe GmbH - Änderung des Gesellschaftervertrages - ungeändert beschlossen
+- TOP 10.13: Feststellung des Jahresabschlusses zum 31.08.2023 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.14: Neufassung der Satzung über die Erhebung von Elternbeiträgen zu Kindertageseinrichtungen, der Kindertagespflege und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen - ungeändert beschlossen
+- TOP 10.15: Neubau für die Heliosschulen - Grund- und Gesamtschule mit einer Ein- und einer Dreifeldsporthalle – Zweiter Kostenfortschreibungsbeschluss - ohne Votum behandelt
+- TOP 10.16: Renovierungsprogramm für die städtischen Museen im Jahr 2025 - ungeändert beschlossen
+- TOP 10.17: Bau- und Finanzierungsbeschluss für Maßnahmen im Bereich der Hallen Kalk, hier Hallen 71 und 60 sowie Dillenburger Straße 63 - ungeändert beschlossen
+- TOP 10.18: Sonderausstellung Amazônia im Rautenstrauch-Joest-Museum 2025 - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
