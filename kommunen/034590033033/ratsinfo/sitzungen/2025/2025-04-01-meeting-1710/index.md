@@ -1,0 +1,58 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2025-04-01T17:30:00+02:00
+- Ende: 2025-04-01T21:18:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaMQlIxIay2wqVnm_KotXfQ
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1710
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRNL3yCAwW_60-7FhoR8xtjwIWdeFnpDJbh-jrAsCDMP/Bekanntmachung_Rat_01.04.2025.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe0rUA2KkvkmKxfXo42dwlxslQLPKNsV8vzZ_ym-zDeo/Oeffentliches_Beschlussprotokoll_Rat_01.04.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 23.01.2025
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Vollsperrung der Landesstraße 109 zwischen Hollage und Halen
+- TOP 3.2: Kurzinformation zum ÖPNV
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Neubildung des Ausschusses für Kindergärten, Schulen und Bildung hier: Stellvertretende Elternvertretung für den Primarbereich - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.4: Antrag der FDP-Fraktion auf Verkleinerung des Rates der Gemeinde Wallenhorst und Beschluss einer entsprechenden Satzung - mehrheitlich mit 3 Ja-Stimme(n), 25 Gegenstimme(n), 1 Stimmenthaltung(en) abgelehnt:
+- TOP 5.: Kämmereiangelegenheiten
+- TOP 5.1: Genehmigung der Annahme von Spenden - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Antrag der Fraktion Bündnis 90 / Die Grünen auf Beleuchtung des Weges der Grünanlage „Stephansring“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Ausschuss für kommunale Entwicklungszusammenarbeit der deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) hier: Benennung eines Ratsmitgliedes oder mehrerer Ratsmitglieder - mehrheitlich mit 17 Ja-Stimme(n), 8 Gegenstimme(n), 4 Stimmenthaltung(en) gefasst:
+- TOP 6.3: Antrag der Fraktion Bündnis 90 / Die Grünen auf Erstellung eines Gutachtens zur Schaffung einer geordneten städtebaulichen Struktur - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Bauleitpläne
+- TOP 7.1: Beschluss des Durchführungsvertrags zum vorhabenbezogenen Bebauungsplan Nr. 289 „Alte Feuerwache Rulle“ mit Vorhaben- und Erschließungsplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Vorhabenbezogener Bebauungsplan Nr. 289 „Alte Feuerwache Rulle“ hier: Bericht über die Ergebnisse der Beteiligungsverfahren gem. §§ 3, 4 BauGB und Abwägungsbeschluss; Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan Nr. 289 mit Vorhaben- und Erschließungsplan gem. § 10 Abs. 1 BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Straßenbau
+- TOP 8.1: Antrag der CDW-Fraktion auf Optimierung der Fahrradstraße im Ortsteil Lechtingen hier: Änderung der Vorfahrtsregelung im Kreuzungsbereich ´Boerskamp/Moorbachstraße´ - mehrheitlich mit 17 Ja-Stimme(n), 12 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.2: Antrag der CDU-Fraktion auf Verbesserung der Verkehrssicherheit am „kleinen Kreisel in Lechtingen“ - mehrheitlich mit 18 Ja-Stimme(n), 3 Gegenstimme(n), 8 Stimmenthaltung(en) gefasst:
+- TOP 8.3: Radweg Hollage und Halen: Einrichtung einer Fahrradstraße im ´Dörnter Weg´ und der ´Hermannstraße´ sowie Neubau eines Radwegs an der ´L 109´ zwischen der ´Hermannstraße´ und dem „Kreisverkehr Fürstenauer Weg“ hier: Aktualisierung der Kostenberechnung - mehrheitlich mit 17 Ja-Stimme(n), 12 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.: Umwelt- und Energieangelegenheiten
+- TOP 9.1: Antrag der Fraktion Bündnis 90 Die Grünen zum Schutz von Bäumen in der Gemeinde Wallenhorst - mehrheitlich mit 4 Ja-Stimme(n), 25 Gegenstimme(n), 0 Stimmenthaltung(en) abgelehnt:
+- TOP 9.2: Förderprogramm der Gemeinde Wallenhorst für Zuschüsse zur Umsetzung von Umwelt- und Klimaschutzmaßnahmen hier: Anpassung der Förderrichtlinie - mehrheitlich mit 26 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.: Jugendangelegenheiten
+- TOP 10.1: Einrichtung einer Zukunftswerkstatt für die Jugendfreizeitstätte Hollager Mühle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Kindertagesstätten
+- TOP 11.1: Antrag der CDW-Fraktion vom 17.09.2024 auf Prüfung der Öffnung der Kindertagesstätten für Nicht-Wallenhorster Kinder - mehrheitlich mit 26 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.: Schulangelegenheiten
+- TOP 12.1: Antrag der Fraktion Bündnis 90/Die Grünen vom 29.08.2024 auf Errichtung einer Photovoltaikanlage, einer Regenwassersammelanlage mit der Möglichkeit der Einspeisung von Brauchwasser und eines Gründaches auf dem Neubau der Katharinaschule - nicht gefasst:
+- TOP 12.2: Umstrukturierung des Ganztags an den Wallenhorster Grundschulen zum Schuljahr 2025/2026 hier: Einrichtung einer zweiten Abholzeit und Beendigung des gemeindlichen und freiwilligen Mittagessenangebotes - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Aufstellung aller Mitgliedschaften der Gemeinde Wallenhorst
+- TOP 13.2: Piktogramme und Umweltverschmutzung in Lechtingen
+- TOP 13.3: Anfragenkatalog zu den Kosten der Kindertagesstätte St. Hildegard
+- TOP 13.4: Anfrage zum Brückenbau an der L109
+- TOP 13.5: Anfrage zum Verkauf von Grundstücken in Wallenhorst
+- TOP 13.6: Nachfragen zur Jubiläumsplanung "1175 Jahre Wallenhorst"
+- TOP 13.7: Nahverkehrsplan in Wallenhorst
