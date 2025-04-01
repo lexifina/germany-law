@@ -1,0 +1,144 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2025-04-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8699929
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8699929
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Geplante Einrichtung von Haltverboten in der Alten Allee und Bergsonstraße (Vertagung aus der BA-Sitzung vom 11.03.25)
+- TOP 2.2.2.: Schmierereien im Stadtbezirk
+- TOP 2.2.3.: Bebauungsplan Obermenzing und Würmpark Menzing
+- TOP 2.2.4.: Verlegung der Bushaltestellen im Bereich S-Bahnhof Obermenzing unter die Brücke
+- TOP 2.2.5.: Peslmüllerstraße
+- TOP 2.2.6.: Abholzung durch die DB gegenüber Kreuzung der Tschaikowskystrasse / Lucia-Popp-Bogen
+- TOP 2.2.7.: Gehwegparken
+- TOP 2.2.8.: Dringende Wiederbelebung des Themas Umgestaltung des Rüttenauer Platzes und der häßlichsten (Petzet-)Straße Obermenzings
+- TOP 2.2.9.: Lärmschutz Autobahnkreisel/ Verdistraße -Pippinger Straße
+- TOP 2.2.10.: Sperrung Hermine-von-Parish-Straße; Auswirkungen auf die Berduxstraße
+- TOP 2.2.11.: Einrichtung Parkverbot in der Perlschneiderstraße
+- TOP 2.2.12.: Einbahnstraße Maierhofstrasse
+- TOP 2.2.13.: Reinigung Teich im Park südlich der Agnes-Bernauer-Straße
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Karl-Mangold-Str. 6: Baumbestandsplan (2 Varianten)
+- TOP 3.1.2.: Wiesengrund 1: Baumbestandsplan
+- TOP 3.1.3.: Wunderlichstr. 11: 1 Mammutbaum
+- TOP 3.1.4.: Eisenhartstr. 24: 1 Tanne
+- TOP 3.1.5.: Menterstr. 10: Baumbestandsplan (3 Varianten)
+- TOP 3.1.6.: August-Exter-Str. 10: Baumbestandsplan
+- TOP 3.1.7.: Apfelallee 13: 2 Haselnuss, 1 Blutpflaume, 1 Holunder, 1 Traubenkirsche, 1 Flieder, 2 Thuja, 1 Eschenahorn
+- TOP 3.1.8.: Betzenweg 6: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.9.: Willibaldstr. 42: Baumbestandsplan
+- TOP 3.1.10.: Amalienburgstr. 35: 1 Feldahorn
+- TOP 3.1.11.: Grandlstr. 22: Baumbestandsplan
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung und Mobilität + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen im Betzenweg
+- TOP 6.: Bericht des UA Kultur, Heimatpflege, Organisation + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales, Bildung und Sport + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Kindergarten Leiden Christi Kinder schnuppern Zirkusluft und werden zu Artisten vom 12. - 23.05.2025 2.000,00 Euro, Az.: 0262.0-21-0491
+- TOP 10.2.: (E) Genehmigung von Bauprojekten durch die Bezirksausschüsse
+- TOP 10.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 21 Pasing-Obermenzing Widmung der Gesamtstrecke des Angela-Molitoris-Platzes
+- TOP 11.: Anhörungen
+- TOP 11.1.: Karl-Mangold-Str. 6: Neubau eines Einfamilienhauses mit Garage / Vorbescheid
+- TOP 11.2.: Wiesengrund 1: Erhöhung des Daches für den Ausbau des DG mit Aufenthaltsräumen, Erneuerung des Anbaus, Aufstockung des Anbaus für die Nutzung als 3-Generationen-Hauses
+- TOP 11.3.: Bauseweinallee 100: Errichtung eines Wohnheims für Studierende durch Anbau und Aufstockung eines Wohnhauses mit Atelier sowie Einbau einer Gewerbeeinheit durch Nutzungsänderung im UG - Änderungsantrag, jetzt: Errichtung eines Arbeiterwohnheims durch Anbau und Aufstockung eines Wohnhauses mit Atelier
+- TOP 11.4.: Nachtrag in die Denkmalliste; Oselstr. 14
+- TOP 11.5.: Menterstr. 10: Neubau eines Wohngebäudes mit Tiefgarage / Vorbescheid (3 Varianten)
+- TOP 11.6.: August-Exter-Str. 10: Zusätzlicher Neubau eines Einfamilienhauses Gebäudeklasse 1 / Vorbescheid
+- TOP 11.7.: Thaddäus-Eck-Str. 40: Neubau eines Einfamilienhauses in Holzbauweise mit Garage
+- TOP 11.8.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2025-2029
+- TOP 11.9.: Veranstaltung auf öffentlichem Grund und in Grünanlagen; "Tanz. Die. Invasion." vom 30.06. - 02.07.25, Grünanlage bei der ehem. Kuvert-Fabrik
+- TOP 11.10.: Nimmerfallstraße, personenbezogener Sonderparkplatz; verkehrsrechtliche Anordnung
+- TOP 11.11.: Betzenweg 6: Neubau eines Wohnhauses mit 4 WE und Duplexgarage
+- TOP 11.12.: Willibaldstr. 42: Neubau von zwei Mehrfamilienhäusern mit 14 Wohneinheiten und Tiefgarage mit 16 Stellplätzen (Variante 1), Neubau eines Mehrfamilienhaus mit 14 Wohneinheiten (Variante 2) / Vorbescheid
+- TOP 11.13.: Grandlstr. 22: Neubau von zwei Doppelhäusern mit 2 Garagen und 2 Stellplätzen
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: Bündnis 90 / Die Grünen, Antrag: Orientierung geben – Informationsveranstaltung zum Stand der Vorbereitungen und künftige Umsetzung der Ganztagsbetreuung ab 2026 an den Grundschulen in Pasing-Obermenzing
+- TOP 12.2.: Bündnis 90 / Die Grünen, Anfrage: Studentenwohnen
+- TOP 12.3.: SPD, Antrag: Entenüberwege im Pasinger Stadtpark
+- TOP 12.4.: SPD, Antrag: Tempo 30 nachts auf der Verdistraße
+- TOP 13.: Unterrichtungen
+- TOP 13.1.: Unveränderte Fortführung von Gaststätten - Cafe am Rande der Stadt, Willibaldstr. 20 - Essence, Gottfried-Keller.-Str. 35
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Ausschuss für Stadtplanung und Bauordnung vom 12.02.25: Novelle der Bayerischen Bauordnung (BayBO) 2025 – Darstellung der Änderungen und deren Auswirkungen (Vertagung aus der BA-Sitzung vom 11.03.25)
+- TOP 14.2.: Ausschuss für Stadtplanung und Bauordnung vom 12.03.25: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 14.3.: Ausschuss für Stadtplanung und Bauordnung vom 12.03.25: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 14.4.: Ausschuss für Klima- und Umweltschutz vom 18.03.25: (U) Festsetzung des Überschwemmungsgebietes an der Würm von Flusskilometer 8,9 bis 19,1 und am Würmkanal von Flusskilometer 0 bis 4,1 innerhalb der Stadtgrenzen der Landeshauptstadt München durch Erlass einer Rechtsverordnung [Überschwemmungsgebietsverordnung für das Überschwemmungsgebiet an der Würm und am Würmkanal von Flusskilometer 8,9 bis 19,1 und 0 bis 4,1 innerhalb der Stadtgrenzen der Landeshauptstadt München (ÜgVO Würm/Würmkanal)]
+- TOP 14.5.: Ausschuss für Klima- und Umweltschutz vom 18.03.25: Umgang mit hohen Grundwasserständen - Rechtlicher Rahmen, Verantwortlichkeiten und Handlungsmöglichkeiten der öffentlichen Hand
+- TOP 14.6.: Gesundheitsausschuss vom 20.03.25: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024
+- TOP 15.: Post an den BA
+- TOP 15.1.: von der Stadtverwaltung
+- TOP 15.1.1.: Direktorium
+- TOP 15.1.1.1.: Kommunalwahl 2026: Informationsschreiben BA 02 / 25; Voraussetzungen für die Bildung von Fraktionszusammenschlüssen und Ausschussgemeinschaften
+- TOP 15.1.1.2.: Stadtbezirksbudget; Verwendungsnachweis - Interkulturelles Winterfest am 07.12.24; QuarterM gGmbH - Elektroinstalation einer Kirchensitzbankheizung; Himmelfahrtskirche Pasing - Street Art Song; Hidalgo gGmbH - Mädchen an den BAll 2024; BIKU gGmbH
+- TOP 15.1.1.3.: Kennzeichnung der 30 km/h-Zone in der Frauendorferstraße (Empfehlung Nr. 20-26 / E 01136 der Bürgerversammlung vom 25.04.23)
+- TOP 15.1.1.3.1: => dazu (E) + (U) Kennzeichnung der 30 km/h-Zone in der Frauendorferstr.; - Beschilderung (Ziffer 1) - Zebrastreifen vor dem Kindergarten (Ziffer 3) Empfehlung Nr. 20-26 / E 01136 der Bürgerversammlung des Stadtbezirkes 21 – Pasing- Obermenzing am 25.04.2023
+- TOP 15.1.2.: Baureferat
+- TOP 15.1.2.1.: Derzeitige Neugestaltung Kinderspielplatz Thuillestraße
+- TOP 15.1.2.2.: Bestellung einer städtischen Leistung: Umsetzung des Dialog-Displays
+- TOP 15.1.2.3.: Antrag aus Kinder- und Jugendforum - barrierefreie Spielgeräte für Spielplatz an der Willibald -/ Senftenauer Straße; Protokoll vom Ortstermin am 26.02.25
+- TOP 15.1.2.4.: Nutzung der Fläche nach Abbau der Container an der Grandlstraße
+- TOP 15.1.2.5.: Aktueller Sachstand - Neubau Kita Pippinger Str. 95
+- TOP 15.1.2.6.: Baumfällungen unterhalb der Planegger Straße / Hugo-Fey-Weg
+- TOP 15.1.2.7.: Winterdienst an Radwegen
+- TOP 15.1.2.8.: Aufstellung Jugendcontainer Pasinger Stadtpark; Ortstermin vom 27.02.25
+- TOP 15.1.3.: Mobilitätsreferat
+- TOP 15.1.3.1.: Ampel mit Behindertensymbol
+- TOP 15.1.3.2.: 1. Rechts-vor-links in Tempo 30-Zonen in allen Straßen ohne Linienbusverkehr 2. Aufbringen von Piktogrammen "30" auf der Fahrbahn in Tempo 30-Zonen in allen Straßen mit Linienbusverkehr
+- TOP 15.1.3.3.: Arbeiten im Straßenraum vom 31.03. - 23.05.25; Josef-Retzer-Straße 36, Neuverlegung eines Fernwärme-Hausanschlusses - Vollsperrung
+- TOP 15.1.3.4.: Arbeiten im Straßenraum vom 31.03. - 28.05.25; Otto-Dischner-Weg 2, Neuverlegung Fernwärme-Hausanschluss - Vollsperre
+- TOP 15.1.3.5.: Fahrradstraße Schirmerweg sicherer gestalten; Zwischenmitteilung
+- TOP 15.1.3.6.: Deutliche Verkehrszunahme / Freseniusstraße inkl. dem Wohngebiet
+- TOP 15.1.4.: Referat für Stadtplanung und Bauordnung
+- TOP 15.1.4.1.: Planfeststellungsbeschluss zur 10. Änderung des Planfeststellungsbeschlusses vom 24.08.2009, Planfeststellungsabschnitt 2 der 2. S-Bahn-Stammstrecke (Bereitstellungsfläche Strassergelände)
+- TOP 15.1.4.2.: Fällungsgenehmigungen im Stadtbezirk 21; Ersatzpflanzungen
+- TOP 15.1.4.3.: Vollzug der Baumschutzverordnung - Hillernstr. 2 - Kabastastr. 8 - Hans-Goltz-Weg 8
+- TOP 15.1.4.4.: Fortschreibung Masterplanung Landschaftspark West - Unterlagen zum Austauschtermin 22.01.25
+- TOP 15.1.4.5.: Krautgarten Pasing Süd
+- TOP 15.1.5.: Kreisverwaltungsreferat
+- TOP 15.1.5.1.: Feuerwerksfreie Zone Durchblickpark
+- TOP 15.1.6.: Referat für Klima- und Umweltschutz
+- TOP 15.1.6.1.: Dröhnendes Brummen in Obermenzing
+- TOP 15.1.6.2.: Beteiligung der Kommunen beim Mobilfunkausbau; Zuschriften der Netzbetreiberfirmen nach § 7a der Verordnung über elektromagnetische Felder (26. BImSchV)
+- TOP 15.1.7.: Referat für Arbeit und Wirtschaft, MVG, SWM
+- TOP 15.1.7.1.: Baumaßnahmen der Stadtwerke München GmbH - Fernwärmeprojekt Josef-Retzer-Straße - Fernwärmeprojekt Otto-Dirschner-Weg
+- TOP 15.1.7.2.: Informationen zur Wiedereröffnung des Westbads
+- TOP 15.1.8.: Gesundheitsreferat
+- TOP 15.1.8.1.: Absage zur Teilnahme an der Sitzung des BA mit Vorstellung der Hitzeschutzmaßnahmen
+- TOP 15.1.9.: Sozialreferat
+- TOP 15.1.9.1.: Protokoll der AG der Kinder- und Jugendbeauftragten der BAs am 23.01.25
+- TOP 15.1.9.2.: Ergebnisse der Jugendbefragung 2024 für den Stadtbezirk 21
+- TOP 15.1.10.: Kommunalreferat
+- TOP 15.1.10.1.: Skulptur für das Pasinger Kulturzentrum
+- TOP 15.2.: Sonstige
+- TOP 15.2.1.: REGSAM: Präsentation und Unterlagen Kooperationsveranstaltung Kita-Gebührenermäßigung
+- TOP 16.: Sonstiges
+- TOP 16.1.: Termine
+- TOP 16.1.1.: - BA-Sitzung 06.05.25, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486 - BA-Sitzung 03.06.25, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486
+- TOP 16.1.2.: - Bürgerversammlung Bezirksteil Pasing, 10.04.25, 19.00 Uhr, Aula Bertolt-Brecht-Gymnasium
+- TOP 16.2.: Bereits weitergeleitete Antragen, Anliegen etc.
+- TOP 16.2.1.: Fällungen im Pasinger Stadtpark
+- TOP 16.2.2.: Neuer Belag für die Sommer Stockschießbahn im Pasinger Stadtpark
+- TOP 2.2.14.: Dringender Bedarf an Kinderbetreuung Vorschulkinder
+- TOP 16.2.3.: Umweltschutz - hier: Vermüllung von Grünstreifen und Anlagen - kommerzielle E-Scooter und E-Räder
+- TOP 11.14.: Begrünung Paosostraße
+- TOP 3.1.12.: Grandlstr. 48: Baumbestandsplan / Tektur
+- TOP 11.15.: Mergenthalerstraße / Wiese; Picknick am 11.05.25
