@@ -1,0 +1,31 @@
+# Verordnung über die Aufteilung des Gemeindeanteils an der Einkommensteuer und der Umsatzsteuer und über die Abführung der Gewerbesteuerumlage
+(Ausführungsverordnung Gemeindefinanzreformgesetz – BayAVGFRG)
+Vom 23. Juni 1998
+(GVBl. S. 306)
+BayRS 605-14-F
+Ausführungsverordnung Gemeindefinanzreformgesetz (BayAVGFRG) vom 23. Juni 1998 (GVBl. S. 306, BayRS 605-14-F), die zuletzt durch Verordnung vom 11. März 2025 (GVBl. S. 78) geändert worden ist
+Änderungen
+1. ÄndV vom 5.10.1999 (GVBl. S. 432)
+2. Zweite ÄndV vom 9.5.2000 (GVBl. S. 294)
+3. Dritte ÄndV vom 31.8.2001 (GVBl. S. 614)
+4. Vierte ÄndV vom 18.6.2002 (GVBl. S. 272)
+5. Fünfte ÄndV vom 2.8.2003 (GVBl. S. 533)
+6. Sechste ÄndV vom 11.7.2004 (GVBl. S. 284)
+7. Siebte ÄndV vom 25.7.2005 (GVBl. S. 346)
+8. Achte ÄndV vom 28.7.2005 (GVBl. 2006 S. 439)
+9. Neunte ÄndV vom 21.4.2009 (GVBl. S. 124)
+10. Zehnte ÄndV vom 7.5.2011 (GVBl. S. 236)
+11. Elfte ÄndV vom 15.5.2012 (GVBl. S. 200)
+12. Zwölfte ÄndV vom 28.5.2013 (GVBl. S. 364)
+13. 13. ÄndV vom 30.6.2014 (GVBl. S. 249)
+14. § 1 Nr. 345 V zur Anpassung des LandesR an die geltende Geschäftsverteilung vom 22.7.2014 (GVBl. S. 286)
+15. § 2 Nr. 52 G zur Änd. des Bayerischen StatistikG und anderer Rechtsvorschriften vom 12.5.2015 (GVBl. S. 82)
+16. 14. ÄndV vom 20.4.2015 (GVBl. S. 87; 2018 S. 811)
+17. ÄndV vom 6.6.2017 (GVBl. S. 273)
+18. ÄndV vom 9.6.2018 (GVBl. S. 451)
+19. § 1 Abs. 309 V zur Anpassung des LandesR an die geltende Geschäftsverteilung vom 26.3.2019 (GVBl. S. 98)
+20. ÄndV vom 12.11.2020 (GVBl. S. 633)
+21. ÄndV vom 1.4.2021 (GVBl. S. 208)
+22. V zur Änd. der AusführungsV GemeindefinanzreformG vom 23.3.2023 (GVBl. S. 108)
+23. V zur Änd. der AusführungsV GemeindefinanzreformG vom 2.7.2024 (GVBl. S. 338)
+24. V zur Änd. der AusführungsV GemeindefinanzreformG vom 11.3.2025 (GVBl. S. 78)
