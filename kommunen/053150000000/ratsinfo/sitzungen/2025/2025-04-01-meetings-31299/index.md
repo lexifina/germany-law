@@ -1,0 +1,89 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-04-01T17:01:00+02:00
+- Ende: 2025-04-01T18:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31299
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31299
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 - Antrag der Fraktionen CDU, SPD und GRÜNE "Aktuelle Stunde zum Thema - Problematische Turnhallensituation am Schulzentrum Wahn“ - Sache ist erledigt
+- TOP -: Beantwortung der Fragen zur Aktuellen Stunde "Problematische Turnhallensituation am Gymnasium Wahn" - Kenntnis genommen
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohneranfrage gemäß § 48 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 1.1: Beantwortung einer Einwohneranfrage zur Änderung des Wahllokales Förderschule Berliner Straße in Köln-Porz-Westhoven - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - Radwege in Köln, Az.: 07/24 - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe nach § 24 GO – "Hafenbahn und Sicherung des Grünzuges in Köln-Poll", Aktenzeichen 158/24 B - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Hafenbahn" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Hafenbahn und Sicherung des Grünzuges in Köln-Poll" - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr 2025 - ungeändert beschlossen
+- TOP 6.2: Projektanträge im Rahmen des Zentren-Verfügungsfonds für das Soziale-Stadt-Gebiet „Porz-Mitte“ - ungeändert beschlossen
+- TOP 6.3: Projektanträge im Rahmen des Bürgerorientierten Verfügungsfonds für das Soziale-Stadt-Gebiet „Porz-Mitte“ - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf den Fluren M und S des Friedhofs Wahn - ungeändert empfohlen
+- TOP 7.2: Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - ungeändert beschlossen
+- TOP 7.3: Vermarktung der Baufelder WA 3 und nördl. WA 5 im Neubauquartier Poller Damm, Eva-Zobel-Straße in Köln-Poll für eine wohnwirtschaftliche Nutzung im Erbbaurecht für ein gemeinschaftliches Wohnbauprojekt im Rahmen eines Interessensbekundungsverfahrens - ungeändert empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion "Bennennung Empfehlungskommission" - endgültig abgelehnt
+- TOP 7.4: Feststellungsbeschluss zur 235. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz Arbeitstitel: "Östlich Im Falkenhorst" in Köln-Porz-Urbach - ungeändert empfohlen
+- TOP 7.5: Konzept "Misch MIT! – So geht Kinder- und Jugendbeteiligung in Köln! – Ergebnisse, Erkenntnisse und Empfehlungen eines partizipativen Prozesses“ - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Einrichtung der Schulstraßen für die GGS Hohe Straße" - geändert beschlossen
+- TOP 8.2: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Fahrbahnverengungen vor KGS Hinter der Kirche und Fröbel Kindergarten Clemenskids in 51143 Köln-Porz-Langel" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion "Verbesserung der neuen Toilettenanlage KVB-Haltestelle Porz Markt" - endgültig abgelehnt
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Canabisverzehr in unzulässiger Nähe zu Spielplätzen/Bolzplatz in der Dorotheenstr" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Verkehrssicherheit auf der Frankfurter Straße zwischen Wahn und Elsdorf" - zurückgestellt
+- TOP 8.6: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Zebrastreifen vor Janusz-Korczak-Schule Kath. Grundschule in 51105 Köln-Poll" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion CDU, SPD und Bündnis 90/Die Grünen "Zebrastreifen vor Janusz-Korczak-Schule Köln-Poll" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Verkehrssicherheit auf dem Rolshover Kirchweg, Poll – das Rasen unterbinden" - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Zusätzlicher Altkleidercontainer Parkplatz Mühlenstraße" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "zusätzlicher Altkleidercontainer Parkplatz Mühlenstraße und Sicherheitsbügel an beiden Containern" - endgültig zurückgezogen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der FDP aus der Sitzung vom 11.05.2023 AN/905/2023 Car-Sharing in Porz - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion SPD vom 26.11.2024 aus der Sitzung der BV 7 – Köln Porz vom 05.12.2024 betr. „KVB Räder im Stadtbe-zirk Porz“, AN/1692/2024 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "KVB-Räder im Stadtbezirk Porz" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer Anfrage der SPD-Fraktion, AN/2208/2021, "Sachstand zur Prüfung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Porz-Eil (Prüfantrag vom 16.06.2020 – AN/0742/2020)" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sachstand zur Prüfung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Porz-Eil (Prüfantrag vom 16.06.2020 – AN/0742/2020)" - Sache ist erledigt
+- TOP 9.1.4: Beantwortung einer Anfrage der SPD-Fraktion, AN/1517/2022, "Sachstand zur Prüfung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Porz-Eil (Prüfantrag vom 16.06.2020 – AN/0742/2020)" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Prüfantrag zur Errichtung eines Fußgängerschutzes an der Bonner Straße - Sache ist erledigt
+- TOP 9.1.5: Beantwortung einer Anfrage der SPD-Fraktion, AN/1445/2023, "Sachstand zur Prüfung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Porz-Eil (Prüfantrag vom 16.06.2020 – AN/0742/2020)" - Kenntnis genommen
+- TOP 9.1.6: Beantwortung der schriftlichen Anfrage der SPD-Fraktion bezüglich der Situation an der Alfred-Schütte-Allee (AN/1167/2024) - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Lärm- und Sicherheitsprobleme durch die Raser- und Poserszene an der Alfred-Schütte-Allee sowie die verkehrliche Belastung durch Veranstaltungenauf dem Festivalgelände" - Sache ist erledigt
+- TOP 9.1.7: Beantwortung einer schriftlichen Anfrage der Fraktion SPD vom 21.06.2022 aus der Sitzung der BV 7 – Köln Porz vom 01.09.2024 betr. „Sachstand Leihfahrrad-system „KVB-Rad“, AN/1425/2022 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sachstand Leihfahrradsystem KVB-Rad“ - Sache ist erledigt
+- TOP 9.1.8: Beantwortung der Anfrage der CDU-Fraktion "Maßnahmenkatalog für Porz-Finkenberg" - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Maßnahmenkatalog für Porz-Finkenberg" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Sachstand zum Antrag (An/0444/2017) Sanierung eines Fußweges in Urbach: Danziger Str. zum Marienplatz" - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Geplanter Umzug des Kölner Jobcenters in das Büroensemble „Düx“ (Hochpunkt Strabag) an der Siegburger Straße" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Drogenkonsum nahe einem städtischen Bolzplatz 7 06 03 03 an der Dorotheenstraße" - zurückgestellt
+- TOP 9.2.4: Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen "Frankfurter Straße in Porz-Wahn" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2024 des Naturschutzwartes Bezirk 7 Nord - Kenntnis genommen
+- TOP 10.2.2: Jahresbericht 2024 der Naturschutzwacht Bezirk Porz Süd - Kenntnis genommen
+- TOP 10.2.3: Mitteilung zur Bürgereingabe nach § 24 GO – Anpassung einer Beschilderung-Verbot für Fahrzeuge über 3,5 Tonnen, Aktenzeichen 137/24 - Kenntnis genommen
+- TOP 10.2.4: Ehrenamtspreis "KölnEngagiert 2025" - Kenntnis genommen
+- TOP 10.2.5: Stellungnahme zum Antrag AN/0154/2025 zur Sitzung der Bezirksvertretung Porz am 30.01.2025 der CDU Fraktion der Bezirksvertretung Porz und dem Bündnis 90 die Grünen im Stadtbezirk Köln-Porz/Poll - Kenntnis genommen
+- TOP 10.2.6: 237. Änderung des Flächennutzungsplans "Hohe Straße" in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 10.2.7: Aufstellung einer öffentlichen Toilettenanlage Porz Markt - Kenntnis genommen
+- TOP 10.2.8: Sechster Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.9: Regionalplan Köln, Sachlicher Teilplan Erneuerbare Energien – Stellungnahme Stadt Köln eingereicht - Kenntnis genommen
+- TOP 10.2.10: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe - Stellungnahme Stadt Köln zum dritten Planentwurf eingereicht - Kenntnis genommen
+- TOP 10.2.11: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 10.2.12: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 10.2.13: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte zum Stichtag 31. Dezember 2024 - Kenntnis genommen
+- TOP 10.2.14: Planungsrechtlicher Vorbescheid für die Errichtung 4 MFH - Kenntnis genommen
