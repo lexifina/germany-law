@@ -1,0 +1,1 @@
+Auf Grund des Art. 7 Abs. 4 Satz 5 des Kommunalabgabengesetzes erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit den Bayerischen Staatsministerien für Wirtschaft und Verkehr und für Arbeit, Familie und Sozialordnung folgende Verordnung:
