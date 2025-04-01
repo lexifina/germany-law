@@ -1,8 +1,8 @@
 # Förderrichtlinie Teichwirtschaft und Naturschutz Vollzitat: Förderrichtlinie Teichwirtschaft und Naturschutz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-10-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19909.2
+- Datum: 2025-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19909.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.10.2023
+01.04.2025
 bis
-31.03.2025
+14.12.2025
 
 Förderrichtlinie Teichwirtschaft und Naturschutz
 
@@ -227,7 +227,7 @@ Nachweis der Bewirtschaftung für einen Mindestertrag von circa 150 kg Nutzfisch
 
 c)
 
-keine Düngung mit Gülle bei Teichflächen mit folgendem Schutzstatus: Fauna-Flora-Habitat- und Europäische Vogelschutzgebiete (Natura2000-Gebiete), Naturschutzgebiete, Flächennaturdenkmäler, Biosphärenreservat, Nationalpark, gesetzlich geschützte Biotope im Sinne § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 3 des Gesetzes vom 8. Dezember 2022 geändert worden ist, in der jeweils geltenden Fassung.
+keine Düngung mit Gülle bei Teichflächen mit folgendem Schutzstatus: Fauna-Flora-Habitat- und Europäische Vogelschutzgebiete (Natura2000-Gebiete), Naturschutzgebiete, Flächennaturdenkmäler, Biosphärenreservat, Nationalpark, gesetzlich geschützte Biotope im Sinne § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 5 des Gesetzes vom 8. Mai 2024 (BGBl. 2024 I Nr. 153) geändert worden ist, in der jeweils geltenden Fassung.
 
 4.3.2
 
@@ -328,6 +328,13 @@ b)
 
 ökologische Karpfenproduktion mit Teilnahme am Öko-Kontrollverfahren nach Verordnung (EU) 2018/848 während des gesamten Verpflichtungszeitraumes. Der Nachweis erfolgt auf Grundlage des Zertifikates gemäß Artikel 35 Absatz 1 Verordnung (EU) 2018/848 oder des unterzeichneten Kontrollvertrages bei Betrieben, die erstmalig am Kontrollverfahren nach der Verordnung (EU) 2018/848 teilnehmen und denen noch kein Zertifikat ausgestellt wurde.
 
+
+Folgende Förderverpflichtung muss von den Begünstigten eingehalten werden:
+
+c)
+
+jährliche Vorlage des Ökokontrollblattes bei der Bewilligungsbehörde für das aktuelle Verpflichtungsjahr bis 31. Januar des Folgejahres
+
 4.3.5
 
 Tbio b – Biokarpfen Zielertrag
@@ -342,6 +349,13 @@ Teilnahme an Maßnahme T 3 und
 b)
 
 ökologische Karpfenproduktion mit Teilnahme am Öko-Kontrollverfahren nach Verordnung (EU) 2018/848 während des gesamten Verpflichtungszeitraumes. Der Nachweis erfolgt auf Grundlage des Zertifikates gemäß Artikel 35 Absatz 1 Verordnung (EU) 2018/848 oder des unterzeichneten Kontrollvertrages bei Betrieben, die erstmalig am Kontrollverfahren nach der Verordnung (EU) 2018/848 teilnehmen und denen noch kein Zertifikat ausgestellt wurde.
+
+
+Folgende Förderverpflichtung muss von den Begünstigten eingehalten werden:
+
+c)
+
+jährliche Vorlage des Ökokontrollblattes bei der Bewilligungsbehörde für das aktuelle Verpflichtungsjahr bis 31. Januar des Folgejahres
 
 4.4
 
@@ -750,7 +764,7 @@ der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. Apri
 
 c)
 
-der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
+der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
 
 
 d)
@@ -765,12 +779,12 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 
 f)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
 
 
 g)
 
-Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2022/2514 der Kommission vom 14. Dezember 2022 (ABl. L 362 vom 21.12.2022, S. 8) geändert worden ist,
+Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2023/2391 der Kommission vom 4. Oktober 2023 (ABl. L, 2023/2391, 05.10.2023) geändert worden ist,
 
 
 in den jeweils geltenden Fassungen.
@@ -1140,7 +1154,7 @@ Die Höhe der Zuwendung je Maßnahme der Förderrichtlinie ergibt sich aus Anlag
 Bagatellgrenze
 
 
-Abweichend zu Nummer 1.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung können die Maßnahmen ohne eine Mindestzuwendungssumme gefördert werden.
+Abweichend zu Nummer 1.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 1.1 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (VVK) können die Maßnahmen ohne eine Mindestzuwendungssumme gefördert werden.
 
 6.
 
@@ -1291,7 +1305,7 @@ keine Mehrfachförderung erfolgt.
 
 Die Fördervoraussetzungen und Förderverpflichtungen werden im Rahmen von Verwaltungskontrollen sowie im Rahmen des Flächenüberwachungssystems (AMS) überprüft. Die mittels Sentinel-Satellitenbildern kontrollierbaren Prüfinhalte werden flächendeckend kontrolliert. Die Prüfinhalte, die nicht mittels Sentinel-Satellitenbildern auswertbar sind, werden stichprobenbasiert innerhalb des Verpflichtungszeitraumes durch physische Vor-Ort-Kontrollen überprüft. Diese können durch Beibringung von geeigneten Nachweisen ergänzt werden.
 
-Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) auf der Grundlage der Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 204) geändert worden ist, in der jeweils geltenden Fassung.
+Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) auf der Grundlage der Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 1 der Verordnung vom 10. Mai 2024 (BGBl. 2024 I Nr. 156) geändert worden ist, in der jeweils geltenden Fassung.
 
 4.
 
@@ -1455,11 +1469,11 @@ Für den EMFAF-Förderbereich gelten insbesondere die nachfolgenden Bestimmungen
 
 1.
 
-das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen (SächsVwVfZG) vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist,
+das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen (SächsVwVfZG) vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist,
 
 2.
 
-das Verwaltungsverfahrensgesetz (VwVfG) in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
+das Verwaltungsverfahrensgesetz (VwVfG) in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
 
 3.
 
@@ -1529,8 +1543,8 @@ bis 20 ha je Bruttoschlag
 
 jeder weitere ha je Bruttoschlag
 
-| 360
-138
+| 400
+277
 
 
 | T 3a
@@ -1541,8 +1555,8 @@ bis 20 ha je Bruttoschlag
 
 jeder weitere ha je Bruttoschlag
 
-| 583
-197
+| 778
+395
 
 
 | T 3b
@@ -1553,8 +1567,8 @@ bis 20 ha je Bruttoschlag
 
 jeder weitere ha je Bruttoschlag
 
-| 577
-193
+| 770
+386
 
 
 | T 4a
@@ -1609,7 +1623,7 @@ bis 5 ha je Bruttoschlag
 | 165
 
 
-Bei Durchführung der Stauhaltungsvariante 3 „Sömmerung“ (St3) wird in dem entsprechenden Jahr keine Zuwendung für die beantragte Maßnahme T 2, T 3a, T 3b oder T 4a gewährt. Es wird eine Aufwandsentschädigung gewährt in Höhe von 575 Euro/ha für die Maßnahmen T 2, T 3a und T 3b oder in Höhe von 110 Euro/ha bei Durchführung der Maßnahme T 4a für bis zu 20 ha je Bruttoschlag.
+Bei Durchführung der Stauhaltungsvariante 3 „Sömmerung“ (St3) wird in dem entsprechenden Jahr keine Zuwendung für die beantragte Maßnahme T 2, T 3a, T 3b oder T 4a gewährt. Es wird eine Aufwandsentschädigung gewährt in Höhe von 767 Euro/ha für die Maßnahmen T 2, T 3a und T 3b oder in Höhe von 110 Euro/ha bei Durchführung der Maßnahme T 4a für bis zu 20 ha je Bruttoschlag.
 
 Verweis auf Bundesgesetze
 
@@ -1621,9 +1635,9 @@ Fsn-Nr.: 5563-V23.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. Oktober 2023
+Fassung gültig ab:  1. April 2025
 
-Fassung gültig bis: 31. März 2025
+Fassung gültig bis: 14. Dezember 2025
 
 Drucken/Speichern
 
@@ -1648,7 +1662,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19909.2
+https://www.revosax.sachsen.de/vorschrift/19909.3
 Stand vom
 18.11.2026
 
