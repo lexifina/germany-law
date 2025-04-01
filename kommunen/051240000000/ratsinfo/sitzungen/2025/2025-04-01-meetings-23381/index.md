@@ -1,0 +1,60 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-04-01T16:00:00+02:00
+- Ende: 2025-04-01T18:03:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23381
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23381
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00346829.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00348351.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss Kinder- und Jugendwohngruppen der Stadt Wuppertal 2023 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2025 - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2025 bis 31.12.2026 für die Einrichtung Wuppertaler Hof - ungeändert beschlossen
+- TOP 3.2: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2024/2025 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.3: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2024 der APH - ungeändert beschlossen
+- TOP 3.4: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2024 der APH Service GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Überplanmäßige Mittelbereitstellung für Rückstellungen bei den Personalaufwendungen - ungeändert beschlossen
+- TOP 6.2: Überplanmäßige Bereitstellung von Finanzmitteln für Komm-PC des Ordnungsamtes - ungeändert beschlossen
+- TOP 6.3: Denkmalgerechte Sanierung / Erneuerung der Jakobstreppe – Neufestsetzung der Gesamtkosten - ungeändert beschlossen
+- TOP 6.4: Sondernutzungssatzung - Anpassung - vertagen
+- TOP 6.5: Grundsatzbeschluss: Sanierung und Erweiterung des Berufskollegs am Haspel, Dependance Schluchtstr. 30 - ungeändert beschlossen
+- TOP 6.6: Kostenneufestsetzung für die Sanierung des Freibades Mählersbeck - ungeändert beschlossen
+- TOP 6.7: Kostenneufestsetzung und überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei der Planung des Neubaus der gemeinsamen Leitstelle der Städte Wuppertal Solingen - vertagen
+- TOP 6.8: Gemeinsam aktiv gegen die Hitze - Der Wuppertaler Hitzeaktionsplan - ungeändert beschlossen
+- TOP 6.9: Überplanmäßige Mittelbereitstellung im Versicherungswesen - ungeändert beschlossen
+- TOP 6.10: Grundsatzbeschluss Gedenk- und Lernort ehemaliges Konzentrationslager Kemna - ungeändert beschlossen
+- TOP 6.11: Abschluss einer öffentlich - rechtlichen Vereinbarung mit den Städten Langenfeld, Leverkusen, Remscheid, Solingen und Wuppertal zur Gründung einer gemeinsamen Koordinierungsstelle - geändert beschlossen
+- TOP 6.12: Fortführung des Deutschlandtickets Schule ab dem 01.08.2025 bis zum 31.12.2025 - ungeändert beschlossen
+- TOP 6.13: Gemeinsamer Antrag: Fortführung der zusätzlichen städtischen Zahlungen für die Träger der offenen Ganztagsschule bis zum 31.07.2026 - ungeändert beschlossen
+- TOP 6.14: Anfrage CDU-Fraktion - Entgegennahme ohne Beschluss
+- TOP 6.14.1: Antwort auf die Anfrage der CDU-Fraktion/ Grundsteuer B: Wie sind die bisherigen Erfahrungen? - Entgegennahme ohne Beschluss
+- TOP 6.15: Teilnahme am Entschuldungsprogramm NRW - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 25.01.2025-14.03.2025 - Entgegennahme ohne Beschluss
+- TOP 8.2: Gesetzentwurf zur anteiligen Übernahme der Altschulden in NRW - Entgegennahme ohne Beschluss
+- TOP 8.3: Sachstandsbericht zur Aufstellung eines Haushaltssicherungkonzeptes 2026 ff. - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Haushalts-Nachtragssatzung für das Haushaltsjahr 2025 - Korrektur des Gesamtfinanzplans - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
