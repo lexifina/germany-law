@@ -1,0 +1,52 @@
+# öffentliche Sitzung des Ausschusses für Mobilität und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-04-01T17:00:00+02:00
+- Ende: 2025-04-01T18:38:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7250
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7250
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=554113
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - vertagt
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - vertagt
+- TOP 3.2: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - vertagt
+- TOP 3.3: Verkehrssicherheit am Öschelbronner Weg / Ecke Wittenauer Straße erhöhen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.4: Erschütterungstest beenden: Radroute 4 in Frohnau ertüchtigen - vertagt
+- TOP 3.5: Firmen-Ticket - jetzt digital! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.6: Temporäre 30er-Strecken-Beschilderung sichtbarer machen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.7: Zusatzschild Badestelle Sandhauser Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Fahrradweg in Alt-Heiligensee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.9: Soziale Angebote auf dem Franz-Neumann-Platz nachhaltig sichern - vertagt
+- TOP 3.10: S-Bahnverkehr auf der S1 auch attraktiv bei Bauarbeiten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.11: Brückenwiderlager an der Nordbahn in Frohnau von Graffiti befreien - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.12: Haltestellenverlängerung am Zeltinger Platz mit Bus-Zeichen markieren und nicht mehr gültige Markierungen entfernen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.13: Bus 124 - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.14: Zebrastreifen Hennigsdorfer Straße - erledigt
+- TOP 3.15: Radverkehrsanlage RSV 10 und Teilstück Karolinenstraße - im Ausschuss abgelehnt
+- TOP 3.16: Abbiegespur und Ampelschaltung Hennigsdorfer Str./Ruppiner Chaussee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.17: Abordnung Gehwegparken vor der Schule am Park - im Ausschuss abgelehnt
+- TOP 3.18: Mehr System im Sharing-Netz - im Ausschuss abgelehnt
+- TOP 3.19: Buslinie 124 für mehr Inklusion. - erledigt
+- TOP 3.20: Sanierung Frisch-und Abwasserleitung Zabel-Krüger-Damm - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.21: Abriss der defekten Telefonzelle am U-Bahnhof Wittenau - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.22: Provisorische Fußwegebeziehung zwischen Bushaltestelle Alt-Tegel und der Ersatzhaltestelle U 6 (stadteinwärts) - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.23: Konfliktzone beseitigen - im Ausschuss zurückgezogen
+- TOP 3.24: Verkehrsschau an der Heiligenseestraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.25: Fuchssteiner Weg instand setzen - vertagt
+- TOP 3.26: Information bei Sperrung der Autobahnauffahrt Waidmannsluster Damm in Richtung Innenstadt - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.27: Beseitigung von Aufklebern und Verunreinigungen auf Verkehrsschildern im Bezirk Reinickendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.28: Abriss der Telefonzelle vor dem Märkischen Zentrum - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.29: Bodenbelag in der Wittenauer Str. / Eichhorster Weg sanieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.30: Korrektur eines fehlerhaften Hinweisschildes im Märkischen Viertel - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.31: Eingeschränktes Halteverbot Dannenwalder Weg 145-157 aufheben - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.32: Fußgängerüberweg Flottenstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Bericht aus dem Bezirksamt - (offen)
+- TOP 5: Verschiedenes - erledigt
