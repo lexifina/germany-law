@@ -1,0 +1,79 @@
+# 30. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2025-04-02T17:30:00+02:00
+- Ende: 2025-04-02T21:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8729
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8729
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=327538
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Städtepartnerschaft mit Ashkelon" auf Antrag von Denise Bittner und Sascha Groß (Fraktion der CDU) Maximilian Schirmer, Maria Bigos, Frederik Bordfeld und Oskar Lederer (Linksfraktion) Roland Schröder und Marc Lenkeit (Fraktion der SPD) Almuth Tharan, Christoph Göring, Hannah Wettig und Dr. Oliver Jütting (Fraktion Bündnis90/ Die Grünen) - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - (offen)
+- TOP 1.6.1: Warum dauert es so viele Monate, um die Stelle der/des Beauftragten für Menschen mit Behinderungen in Pankow neu und ordentlich zu besetzen? - beantwortet
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.10: Nachwahl von stellvertretenden Bürgerdeputierten für Bündnis 90/Die Grünen - gewählt
+- TOP 1.11: Anmeldung des Bezirks Pankow zum Investitionsprogramm 2025 bis 2029 - überwiesen
+- TOP 1.12: Vorhabenbezogener Bebauungsplan 3-67 VE vom 14.02.2025 für das Grundstück Triftstraße 14, 30, 32, 44, 46, 56 sowie Abschnitte der Triftstraße und Lautentaler Straße nördlich des öffentlichen Weges zwischen der Triftstraße und der Lautentaler Straße (Flurstück 256 der Flur 335) im Bezirk Pankow von Berlin, Ortsteil Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Weiterentwicklung des Bürger*innenhaushaltes hin zu Kiezkassen für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Herrenberg-Urteil jetzt umsetzen! Rechtssicherheit für Lehrkräfte an Musikschulen und Volkshochschulen gewährleisten! - in der BVV abgelehnt
+- TOP 1.15: Projekt ZEUS in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sichere Überquerung der Hauptstraße für die Schulkinder der Platanengrundschule in Blankenfelde ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Planungen zum Wischbergeweg anpassen - in der BVV abgelehnt
+- TOP 1.18: Entwicklung der Neuen Stadtquartiere in Pankow nicht durch Haushaltseinsparungen gefährden! - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Straßenbahn M1 beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Kulturgeschichte sichtbar machen - Umbenennung der Straße 76 in Französisch Buchholz in Bärbel Wachholz Straße - in der BVV abgelehnt
+- TOP 1.21: Nutzer*innen beteiligen - Sozialräumliche Öffnung von Schulen stärken und ganzheitlich evaluieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Mehr Sicherheit für unsere Kinder - Bahnhofstraße in Karow entschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Überdachung der Bushaltestelle Binzstraße/Prenzlauer Promenade - in der BVV abgelehnt
+- TOP 1.24: Parkordnung Talstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Prenzlauer Promenade sicherer machen: Fahrbahnmarkierungen für den Abbiegeverkehr Prenzlauer Promenade Ecke Binzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Mehr Verkehrssicherheit für Fußgänger*innen in der Wilhelmsruher Hauptstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Sicherstellung und Verstetigung der Grillbetreuung im Mauerpark für die Haushaltsjahre 2026/2027 und darüber hinaus - überwiesen
+- TOP 1.28: Stark durch die Menopause – Wissen und Austausch für Beruf und Alltag - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.29: Richtlinien zum Umgang mit Systemen künstlicher Intelligenz erarbeiten - überwiesen
+- TOP 1.30: Gewalt kommt uns nicht in die Tüte! - überwiesen
+- TOP 1.31: Besserer Schutz vor Feuerwerk außerhalb Silvester - überwiesen
+- TOP 1.32: Hofzeichen in Karow sichtbar machen - überwiesen
+- TOP 1.33: Vorfahrt für Fahrradfahrende in der Diesterwegstraße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: vertagt aus der 27. Sitzung der BVV - (offen)
+- TOP 2.1.1: Sportplatz- und Hallenzeiten online einsehen und buchen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.2: Barrierefreies Standesamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Heidekrautbahn in überwiegendem öffentlichen Interesse - vertagt
+- TOP 2.2: vertagt aus der 29. Sitzung der BVV - (offen)
+- TOP 2.2.1: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2.2: Die Herbert-Baum-Straße in altem Glanz erstrahlen lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2.3: Veteranentag in Pankow erlebbar machen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Entwicklung eines Verkehrskonzepts für das Gewerbegebiet Niederschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Entwicklung des Gewerbegebietes Pankow-Nord - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Wie nachhaltig ist Pankow? Eine Gemeinwohl-Bilanz für den Bezirk erstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Erste Schritte zur Wohnumfeldverbesserung im Sanierungsgebiet Langhansstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Datenprojekt zur Schulwegsicherheit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Zukunft für die Kunsthalle am Hamburger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Personal- und Organisationsentwicklung im Sozialamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Städtepartnerschaften nach Außen wertschätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Partnerschaft Pankows mit Riwne sichtbarer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Beitritt Pankows zur WHO-Initiative „Altersfreundliche Städte und Gemeinden“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Barrierefreie Räume für den Teilhabefachbereich Jugend - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Kostenerstattungen in den Eingliederungshilfen nutzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Nie wieder ist jetzt. Demokratie stärken, Antisemitismus entschieden entgegentreten II - Gedenkveranstaltung zum ersten Jahrestag des antisemitischen Massakers vom 07. Oktober 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Gelder für neue Trinkwasserbrunnen in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.18: Entwicklung und Umsetzung der Ökokontoprojekte „Hobrechtsfelde/Buch und Möllersfelde“ sowie der „Malchower Auenlandschaft“ im Rahmen der Gesamtstädtischen Ausgleichskonzeption (GAK) der Senatsverwaltung für Umwelt, Mobilität, Verkehr- und Klimaschutz (SenUMVK alt/ SenMVKU neu) im Bezirk Pankow von Berlin“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Änderung des Schulnamens, derzeit „50. Grundschule“ in „Grundschule am Campus Buch“ in Pankow, Ernst-Ludwig-Heim-Str. 14, 13125 Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Information über die dem Bezirk Pankow zusätzlich zur Verfügung gestellten Mittel (Auftragswirtschaft) im Haushaltsjahr 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Gesamtstädtische Zielvereinbarung Bürgerämter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Gesamtstädtische Zielvereinbarung Wahlen - mit Abschlussbericht zur Kenntnis genommen
