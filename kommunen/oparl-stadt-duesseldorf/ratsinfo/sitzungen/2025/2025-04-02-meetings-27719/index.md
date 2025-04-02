@@ -1,0 +1,63 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-04-02T17:00:00+02:00
+- Ende: 2025-04-02T19:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27719
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27719
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00549120.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00549120.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00549120.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 29.01.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP 4: Vorstellung Sachstand Renaturierung des Kittelbachs - BV6/020/2025
+- TOP 5: Vorstellung des Förderprojektes "KI für eine Stadtverträgliche Signalsteuerung in Düsseldorf (KISSiD)" - vertagt
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Neuwahl einer Schiedsperson - zur Kenntnis genommen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Aktueller Stand zu ungenehmigten Flughafenparkplätzen auf unbefestigten Flächen - schriftlich beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Anfrage der SPD-Fraktion: Fußgängerüberweg Westfalenstraße - Ergebnisse Verkehrszählung - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 12: Anfrage der SPD-Fraktion: Umsetzung Tempo 30 auf dem Mörsenbroicher Weg - schriftlich beantwortet
+- TOP 13: Anfrage der SPD-Fraktion: Flüchtlingsunterkunft In der Nießdonk - schriftlich beantwortet
+- TOP 14: Anfrage der Monika Growe (SPD): Pflegeplätze im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 15: Anfrage der Fraktion BÜ90/Die Grünen: Ausweisung des Nördlichen Teils des Kartäuserparks als Fläche für den Flughafen - vertagt
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Aktueller Stand zum Sparkassenautomaten in Lichtenbroich - schriftlich beantwortet
+- TOP 17: Anfrage des Lukas Mielczarek (BÜ90/Die Grünen): Umsetzung des Stadtbaumkonzepts im Bezirk 6 - schriftlich beantwortet
+- TOP 18: Anfrage des Florian Ries (BÜ90/Die Grünen): Turnhalle St. Bruno Grundschule und Zustand Turnhallen im Stadtbezirk - schriftlich beantwortet
+- TOP -: Anträge (wurden bereits übersandt)
+- TOP 19: Antrag der FDP-Fraktion: Einrichtung eines Zebrastreifens an der Fußgängerinsel auf der Oberrather Straße - abweichend beschlossen
+- TOP 20: Antrag der Fraktion BÜ90/Die Grünen: Ampelzeiten für den Fußverkehr auf der Oberrather Straße/Tevernstraße verlängern - abweichend beschlossen
+- TOP -: Anträge
+- TOP 21: Antrag der SPD-Fraktion: Hundeauslaufplatz - einstimmig beschlossen
+- TOP 22: Antrag der Fraktion BÜ90/Die Grünen: Grünschnitt am Fahrradständer an der Haltestelle Unterrath S und dauerhafte Lösung für Fahrradabstellmöglichkeiten - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen (wurden bereits übersandt)
+- TOP 23: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des VGS (Verein für Gesundheitssport & Sporttherapie) Düsseldorf e. V. - Anschaffung eines Defibrillators - vertagt
+- TOP -: Verwaltungsvorlagen
+- TOP 24: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Bürger-Schützenvereins 1925 e. V. Düsseldorf-Rath - Seniorenfrühstück am Schützenfestmontag - einstimmig beschlossen
+- TOP 25: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des TuS Düsseldorf Nord e. V. - U15 - CUP Fußballturnier - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der GGS Wrangelstraße - Die große Nein-Tonne/Mein Körper gehört mir - Präventionstheater - einstimmig beschlossen
+- TOP 27: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Bürger-Schützenverein 1925 e. V. Düsseldorf-Rath - Besucherakquise zum Rather Schützen- und Volksfest - einstimmig beschlossen
+- TOP 28: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag von Merle Forchmann - Fotokunstmagazin Rath - einstimmig beschlossen
+- TOP 29: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der JFE Ekkeharderstr. 2a - 7. Dirtbikerennen - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Projekt Blumenoasen und -schiffchen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 31: Baumfällungen im Stadtbezirk 6 in der 5. KW - zur Kenntnis genommen
+- TOP 32: Fußgängerfurten An der Piwipp - Vorlage BV6/208/2024 - zur Kenntnis genommen
+- TOP 33: Umgestaltung des Spielplatzes und Ausbesserung des Bolzplatzes Am Schorn - Vorlage BV6/193/2024 - zur Kenntnis genommen
+- TOP 34: Grünordnungsrahmenplan für den Stadtbezirk 6 (GOP II) - Vorlage BV6/058/2024 - zur Kenntnis genommen
+- TOP 35: Leerstand Oberrather Straße - Vorlage BV6/015/2025 - zur Kenntnis genommen
+- TOP 36: Baumfällungen im Stadtbezirk 6 ab der 12. Kalenderwoche 2025 - zur Kenntnis genommen
+- TOP 37: Beschlusskontrolle der Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 38: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Budgetaufstockung für die Pumptrackanlage in der Bezirkssportanlage Franz-Rennefeld-Weg - BV6/112/2024 - einstimmig beschlossen
