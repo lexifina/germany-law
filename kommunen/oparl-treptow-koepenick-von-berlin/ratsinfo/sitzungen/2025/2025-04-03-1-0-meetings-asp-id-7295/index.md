@@ -1,0 +1,83 @@
+# 33. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-04-03T17:00:00+02:00
+- Ende: 2025-04-03T20:34:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7295
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7295
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=448390
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Mitglieder des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Nachwahl eines Kiezpaten - in der BVV abgelehnt
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-30 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Fußgängerüberweg Kosmosviertel Altglienicke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Sicher Radfahren auf der Odernheimer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Ordnungsamt-App durch Meldefunktion für Barrierefreiheit erweitern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Wegeleitsystem für Sportvereine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Dauerhafte Sicherung des Projekts "Novilla" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Rekommunalisierung des Pfortendienstes und der Gebäudereinigung - überwiesen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Anmeldung zum Investitionsprogramm 2025 bis 2029 - überwiesen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Einwohnerantrag "Mobilitäts- und Infrastrukturkonzept für ein lebenswertes Plänterwald unter Beteiligung der Anwohner /-innen" - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Flächen rund um den S-Bahnhof Spindlersfeld gestalten und besser pflegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Neue Bürgerbeteiligung zum Freiraumkonzept Schmollerplatz - überwiesen
+- TOP 10.4: Prioritätenliste Kiezblock Alt-Treptow - BVV beteiligen und Beschluss zur Grundlage der Umsetzung machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Verbesserung der Anbindung von Wendenschloß durch verlängerten Fährbetrieb der Linie F12 - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Verbesserung der Straßenbeleuchtung in der Birkenstraße, 12559 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Eine Regenbogenbank auch für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Temposchwellen rund um die Spielplätze auf der Griechischen Allee installieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Überholverbot von Fahrrädern durch Kraftfahrzeuge in der Griechischen Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Betonflächen an der Hilde-Archenhold-Brücke künstlerisch gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Mittelinsel in der Wegedornstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Gedenkstätte Köpenicker Blutwoche - überwiesen
+- TOP 10.13: Straßenbahnverbindung von Johannisthal nach Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Sicherstellung der Funktion von Dialogdisplays im Bezirk durch Bestandsaufnahme und Reparatur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Parkplätze unter dem Brückenbauwerk An der Wuhlheide legalisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Sicherer zur Schule - Dialog-Display in der Dahmestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.17: Wohn- und Schrottboote in der Alten Spree Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Ausstellungsvergütungen für Bildende Künstlerinnen und Künstler - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Keine Eröffnung des 16. Bauabschnitts der A100 vor Fertigstellung der Elsenbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Reisebusse am Dokumentationszentrum NS-Zwangsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: 200 Jahre "Treptow in Flammen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.22: Parkplätze am Dorfanger Bohnsdorf erhalten - überwiesen
+- TOP 10.23: Verschmutzung in der Wasserstadt Spindlersfeld Einhalt gebieten - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Altstadt Köpenick - Erreichbarkeit sichern und Kommunikation verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Altstadt Köpenick - attraktiv und lebendig - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Aussetzung des PBN-Verfahrens zum Schutz vor stärkerem Fluglärm - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Aufenthaltsqualität auf dem Schulhof des Filialstandortes der Merian-Schule verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Gründung eines Medizinischen Versorgungszentrums - überwiesen
+- TOP 12.2: Öffentlichkeitsarbeit zur Bekanntmachung bezirklicher Angebote für Seniorinnen und Senioren verbessern - überwiesen
+- TOP 12.3: Kein "möbliertes Wohnen auf Zeit" - überwiesen
+- TOP 12.4: "Nummer gegen Kummer" erhalten (I) - in der BVV abgelehnt
+- TOP 12.5: Kinderrechte-Ausstellung nach Treptow-Köpenick holen - überwiesen
+- TOP 12.6: Weiterentwicklung des Schulstandortes Alfred-Randt-Straße voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Integriertes Konzept für die ambulante ärztliche Versorgung in Treptow-Köpenick - überwiesen
+- TOP 12.8: Aktivitäten im Gesunde Städte-Netzwerk verstärken - überwiesen
+- TOP 12.9: Hinweisschilder zum "KIEZKLUB" Baumschulenweg - überwiesen
+- TOP 12.10: Park-and-Ride-Parkplatz am S-Bahnhof Altglienicke wieder uneingeschränkt nutzbar machen - überwiesen
+- TOP 12.11: Waltersdorfer Ecke Parchwitzer Straße sicherer queren - überwiesen
+- TOP 12.12: Maßnahme gegen Schleichverkehr in Baumschulenweg: Einbahnstraße Trojanstraße - überwiesen
+- TOP 12.13: Runder Tisch "Blaulicht" - überwiesen
+- TOP 12.14: VBB-Begleitservice in Treptow-Köpenick erhalten - überwiesen
+- TOP 12.15: Sicherheit für Zufußgehende in der Siemensstraße Ecke Deulstraße in Oberschöneweide - überwiesen
+- TOP 12.16: Umsetzung des Konzeptes zum Wassersportzentrum Grünau – Vision 2035 - überwiesen
+- TOP 12.17: "Nummer gegen Kummer" erhalten (II) - mit Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Pflege von Denkmalen und Gedenksteinen - vertagt
