@@ -1,0 +1,64 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-04-04T16:00:00+02:00
+- Ende: 2025-04-04T18:31:00+02:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27544
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27544
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 21.03.2025 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 21.02.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Ersatzneubau der GGS Selma-Lagerlöf und der KGS Hermann-Gmeiner am Standort Schillstraße 7“ - Empfehlung einstimmig beschlossen
+- TOP 5.3: Deichsanierung Himmelgeister Rheinbogen, weiteres Vorgehen - Information - - zur Kenntnis genommen
+- TOP 5.4: D.Port/Reisholzer Hafen - Empfehlung einstimmig beschlossen
+- TOP 5.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - mehrheitlich beschlossen
+- TOP 5.6: Benrather Märkte im Jahre 2025 - einstimmig beschlossen
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Sachstand Reisholzer Hafen - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Situation und Planung der Pflegeplätze im Stadtbezirk 9 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Ehemaliges „BuGa“-Informationszentrum, Nutzung als Jugendtreffpunkt - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 7.5: Fußgängersicherheit an der Schnellstraßenabfahrt Paul-Thomas-Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.6: Runder Tisch für Schulleitungen der Grundschulen im Stadtbezirk 9 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.7: Hildener Straße, differenzierte Bordhöhen - Antrag der Fraktion Bündnis 90/ Die Grünen - abweichend beschlossen
+- TOP 8: Verfügungsmittel
+- TOP 8.1: Benrather Kulturkreis e.V. - „Wort und Ton im Atelier 2025“ - einstimmig beschlossen
+- TOP 8.2: Heimatgemeinschaft Groß-Benrath e.V. - Frühlingsfest 2025 - einstimmig beschlossen
+- TOP 8.3: Allgemeiner Bürgerverein Urdenbach e.V. - Digitalisierung des Archivs 2025 - einstimmig beschlossen
+- TOP 8.4: St.-Cäcilia-Schule - Präventionstheaterprojekt "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 8.5: Griechisch-orthodoxe Kirchengemeinde Düsseldorf - Fotoausstellung 2025 - einstimmig beschlossen
+- TOP 8.6: Adolf-Klarenbach-Grundschule - Projektwoche "Bunt ist die Welt" 2025 - einstimmig beschlossen
+- TOP 8.7: Stiftung "Mit Herz und Hand für Wersten" - Jubiläumsfeier zum 20jährigen Bestehen 2025 - einstimmig beschlossen
+- TOP 8.8: Wir in Wersten e.V. - Werstenrallye 2025 - einstimmig beschlossen
+- TOP 8.9: Wir in Wersten e.V. - Osterfeuer 2025 - einstimmig beschlossen
+- TOP 8.10: Wir in Wersten e.V. - Bienenlauf 2025 - einstimmig beschlossen
+- TOP 8.11: LVR-Karl-Tietenberg-Schule - paralympische Blindensportart Goalball 2025 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Wegeverbindung Paulsmühle/ Benrather Markt - Beschluss der Bezirksvertretung 9 vom 24.01.2025; BV9/018/2025 - zur Kenntnis genommen
+- TOP 9.2: Wilhelm-Rüther-Straße - Beschluss der Bezirksvertretung 9 vom 13.10.2017; 179/187/2017 - zur Kenntnis genommen
+- TOP 9.3: Kulturbunker Wersten - Beschluss der Bezirksvertretung 9 vom 24.01.2020; BV9/016/2020 - zur Kenntnis genommen
+- TOP 9.4: Schulwegsicherung an der Wiesdorfer Straße für die Henri-Dunant und Marienschule - Beschluss der Bezirksvertretung 9 vom 27.09.2024; BV9/156/2024 - zur Kenntnis genommen
+- TOP 9.5: Geschwindigkeitskontrolle ab der Urdenbacher Dorfstr. 16 bis zum Krankenhaus Benrath Urdenbacher Allee 83 - Beschluss der Bezirksvertretung 9 vom 15.03.2024; BV9/047/2024 - zur Kenntnis genommen
+- TOP 9.6: Tischtennisplatte-n auf dem Kamper Acker - Beschluss der Bezirksvertretung 9 vom 21.02.2025; BV9/035/2025 - zur Kenntnis genommen
+- TOP 9.7: Lärmbelästigung durch Straßenschäden auf der Bonner Straße - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/057/2022 - zur Kenntnis genommen
