@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-09-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.9
+- Datum: 2025-04-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.10
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.09.2024
+04.04.2025
 bis
-03.04.2025
+31.07.2025
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -613,7 +613,86 @@ VII.
 Zweitschriften
 
 
-Bei Verlust fertigt die Schule ein von ihr ausgestelltes Zeugnis erneut aus (Zweitschrift), wenn sie über die der Urschrift zu Grunde liegenden Daten verfügt. Zweitschriften werden von der Schulleiterin oder vom Schulleiter unterzeichnet und tragen das Datum der Ausfertigung.
+1.
+
+Zweitschriften von Abschlusszeugnissen und anderen Leistungsnachweisen, die selbstständig und unabhängig von einem Abschlusszeugnis den Erwerb von Kenntnissen, Fähigkeiten und Fertigkeiten nachweisen, werden insbesondere in folgenden Fällen ausgestellt:
+
+
+a)
+
+nach einer Änderung des Personenstandseintrags gemäß § 10 Absatz 2 Satz 1 Nummer 1 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG) vom 19. Juni 2024 (BGBl. 2024 I Nr. 206) in der jeweils geltenden Fassung oder
+
+
+b)
+
+bei Verlust des Originaldokuments.
+
+2.
+
+Der Anspruch auf Erstellung einer Zweitschrift setzt jeweils die Vorlage folgender Dokumente im Original voraus:
+
+
+a)
+
+der durch die neue Personenstandsurkunde erbrachte Nachweis über die Personenstandsänderung bezüglich des Geschlechts und des Vornamens sowie
+
+
+b)
+
+das zu ändernde Dokument.
+
+
+Abschriften, beglaubigte Kopien, Zweitschriften oder Ähnliches begründen keinen Anspruch auf Änderung eines Dokuments nach § 10 Absatz 2 Satz 3 SBGG. 
+
+3.
+
+Der Anspruch auf Änderung eines Originaldokumentes richtet sich an die Stelle, die dieses Dokument gestellt hat. Dies sind in der Regel die Beruflichen Schulzentren oder staatlich anerkannte Ersatzschulen. 
+
+4.
+
+
+Kann das zu ändernde Originaldokument der ausstellenden Stelle nicht vorgelegt werden, hat die den Änderungsanspruch geltend machende Person an Eides statt zu versichern, dass sie weder im Besitz des Originaldokuments ist noch Kenntnis von dessen Verbleib hat (§ 10 Absatz 2 Satz 4 SBGG in Verbindung mit § 27 VwVfG in Verbindung mit § 1 Satz 1 des Sächsischen Verwaltungszustellungsgesetzes für den Freistaat Sachsen in den jeweils geltenden Fassungen). Für die Abnahme der Versicherung an Eides statt ist der Vordruck gemäß Anlage 3 zu verwenden. 
+
+5.
+
+Sind die Voraussetzungen nach Nummer 2 erfüllt, wird das Originaldokument von der ausstellenden Stelle eingezogen und mit einem Nachtragsvermerk versehen. Der Nachtragsvermerk enthält den Hinweis auf die personenstandsrechtliche Änderung des Geschlechts und des Vornamens. Für den Nachtragsvermerk ist Anlage 1 zu verwenden. Der Nachtragsvermerk befindet sich auf einem gesonderten Blatt, das mit dem eingezogenen Originaldokument fest zu verbinden ist. Das mit dem Nachtragsvermerk versehene Originaldokument ist zu archivieren. 
+
+6.
+
+Die berechtigte Person erhält eine Zweitschrift, in der die im Personenstandsregister enthaltene Änderung berücksichtigt wird.
+
+
+a)
+
+Für die Ausstellung der Zweitschrift eines Abschlusszeugnisses und eines Leistungsnachweises sind die aktuell geltenden Formulare nach dieser Verwaltungsvorschrift zu verwenden.
+
+
+b)
+
+Das neu zu erstellende Dokument erhält die Überschrift „Zweitschrift“. Es wird auf den geänderten Vornamen der berechtigten Person ausgestellt. Enthält das Originaldokument eine Berufsbezeichnung oder berufsqualifizierende Berechtigung, ist auch diese im Originaldokument verwendete Berufsbezeichnung oder Berechtigung sprachlich anzupassen. Im Übrigen enthält die Zweitschrift sämtliche Angaben, die Gegenstand des Originaldokuments sind, inklusive des damaligen Ausstellungsdatums und der Unterschriften. Diese sind in Druckbuchstaben zu übertragen und mit dem Zusatz „gez.“ zu versehen. 
+
+
+c)
+
+Nach den übertragenen Unterschriften ist auf dem Dokument der Zweitschrift ein Beglaubigungsvermerk anzufügen. Sein Wortlaut richtet sich nach Anlage 2.
+
+7.
+
+Die Ausstellung einer Zweitschrift ist gemäß § 10 Absatz 3 Satz 2 SBGG kostenpflichtig. 
+
+8.
+
+Es gelten folgende ergänzende Regelungen:
+
+
+a)
+
+Für sonstige Personenstandsänderungen, die zu einer Änderung des Vor- oder des Nachnamens führen (außer z. B. Eheschließung) finden die Ziffern 1 bis 6 entsprechende Anwendung. 
+
+
+b)
+
+Wird bei Verlust des Originaldokuments eine Zweitschrift beantragt, setzt dies voraus, dass der Schule ein Dokument vorliegt, das inhaltlich dem Originaldokument entspricht. Sofern keine Namensänderung vorliegt, finden die Nummern 1 bis 3 und die Nummer 6 entsprechende Anwendung. Die Nummern 4 und 5 gelten nicht.
 
 
 VIII.
@@ -646,6 +725,14 @@ Muster E
 
 Muster F
 
+Anlagen zu Ziffer VII
+
+Anlage 1
+
+Anlage 2
+
+Anlage 3
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -656,9 +743,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. September 2024
+Fassung gültig ab:  4. April 2025
 
-Fassung gültig bis:  3. April 2025
+Fassung gültig bis: 31. Juli 2025
 
 Drucken/Speichern
 
@@ -685,7 +772,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.9
+https://www.revosax.sachsen.de/vorschrift/17513.10
 Stand vom
 18.11.2026
 
