@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-04-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780340
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780340
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 17.03.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag zur Verkehrsregelung im Bereich "Am Kapuzinerhölzl"
+- TOP 2.2.: Parksituation in der Leipziger-, Jenaer- und Quedlinburger Straße
+- TOP 2.3.: Antrag auf Optimierung des Parklizenzgebietes "Seydlitzplatz"
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baldurstraße 28
+- TOP 3.3.1.2.: Eggmühler Straße 33a
+- TOP 3.3.1.3.: Triebstraße 44
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Antrag auf Wiedereröffnung einer automatischen Zugangskontrolle mit Bezahlmöglichkeit ("Kassenautomat mit Drehkreuz") am Sommereingang des Dantebads
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Kultur und Spielraum e.V. Fotolabor Moosach -Pfingstferien im Fahrenden Raum (Workshop und Ausstellung) vom 11. -22.06.2025 4.597,50€; Az. 0262.0-10-0410
+- TOP 5.2.: (E) Stadtbezirksbudget Init. "Förderung der Sozialkompetenz von Kindern" Durchführung des Projekts "Komm, wir finden eine Lösung" vom 28.04. -06.06.2025 960,00€; Az. 0262.0-10-0412
+- TOP 6.: Anhörungen
+- TOP 6.1.: Moosacher Dorffest auf dem St.-Martins-Platz am 19.07.2025
+- TOP 6.2.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Allacher-/ Netzerstraße
+- TOP 6.3.: Mehrinvestitionsprogramm - Fortschreibung für die Jahre 2025 bis 2029
+- TOP 6.4.: Ausstellung des Müllmobils am 24.-25.05.2025
+- TOP 6.5.: Foolpool Straßentheater „VerWunderLand“ in der Grünanlage im Amphionpark am 24.05.2025
+- TOP 6.8.: Straßenbenennung im 10. Stadtbezirk Moosach -nicht öffentlich-
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Verkehrssituation in der Eininger Straße
+- TOP 7.2.: Winterliche Verkehrssicherungspflicht beim Anwesen Pelkovenstraße 47
+- TOP 7.3.: Grundwasserproblematik in Moosach
+- TOP 7.4.: Deklarierung von Feuerwehranfahrtszonen im Straßenbereich in der Andernacher Str.
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: (U) Wirksame Bekämpfung von Leerstand
+- TOP 8.2.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024
+- TOP 8.3.: Informationsschreiben zur Straßenbrücke Allacher Straße über die Bahntrasse (BW40/2)
+- TOP 8.4.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 8.5.: Vergabe eines Grundstücks an Baugenossenschaften bzw. genossenschaftsähnliche Wohnprojekte nach Art des Mietshäuser-Syndikats -nicht öffentlich-
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: Beteiligungsverfahren Fahrbahnsanierung Georg-Brauchle-Ring
+- TOP 3.3.1.4.: Eininger Straße 58
+- TOP 6.7.: Bezirksübergreifende Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt von Mai bis Oktober 2025
+- TOP 2.4.: Anfrage der MVHS zur Müllsituation an der Ecke Bauberger-/ Bunzlauer Straße
