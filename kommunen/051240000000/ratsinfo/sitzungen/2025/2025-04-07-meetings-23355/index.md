@@ -1,0 +1,80 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-04-07T16:00:00+02:00
+- Ende: 2025-04-07T18:45:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23355
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23355
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00347152.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00347650.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Umsetzung der Grundsteuerreform in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Umsetzung der Grundsteuerreform in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2: Gewalt an Wuppertaler Schulen - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion Freie Wähler vom 12.03.25 - Gewalt an Wuppertaler Schulen - Entgegennahme ohne Beschluss
+- TOP 2.3: Anfrage der FDP Fraktion zum Pina Bausch Zentrum - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Anfrage der FDP Fraktion zum Pina Bausch Zentrum - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anträge
+- TOP 4.1: Jugendberufsagentur für Wuppertal; Antrag der SPD-Fraktion - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.1.1: Änderungsantrag der FDP Fraktion zu VO/0295/25 "Jugendberufsagentur für Wuppertal: Antrag der SPD-Fraktion - zurückgezogen
+- TOP 4.1.2: Antrag zur Tagesordnung, TOP 4.1, VO/0295/25: „Jugendberufsagentur für Wuppertal, Antrag der SPD-Fraktion vom 11.03.2025“; Gemeinsamer Ergänzungsantrag der Fraktionen von SPD und FDP - ungeändert beschlossen
+- TOP 4.2: Gemeinsamer Antrag: Fortführung der zusätzlichen städtischen Zahlungen für die Träger der offenen Ganztagsschule bis zum 31.07.2026 - ungeändert beschlossen
+- TOP 4.3: Teilnahme am Entschuldungsprogramm NRW - ungeändert beschlossen
+- TOP 4.4: Antrag der FDP Fraktion zum Sondervermögen Infrastruktur - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Einführung einer Bezahlkarte für Flüchtlinge - vertagen
+- TOP 5.1.1: Bezahlkarte für Leistungen aus dem Asylbewerberleistungsgesetz - vertagen
+- TOP 5.1.2: Ersetzungsantrag zu TOP 5.1, VO/0200/24, „Einführung einer Bezahlkarte für Flüchtlinge“, Gemeinsamer Antrag der Fraktionen von SPD, CDU, FDP und Freie Wähler - vertagen
+- TOP 6: Ortsrecht
+- TOP 6.1: Vertagt. Vorberatung nicht abgeschlossen. Sondernutzungssatzung - Anpassung - vertagen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 01.06.2025 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.3: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - Satzungsbeschluss - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Haushalts-Nachtragssatzung für das Haushaltsjahr 2025 - Korrektur des Gesamtfinanzplans - ungeändert beschlossen
+- TOP 7.2: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 25.01.2025-14.03.2025 - Entgegennahme ohne Beschluss
+- TOP 7.3: Überplanmäßige Mittelbereitstellung im Versicherungswesen - ungeändert beschlossen
+- TOP 7.4: Überplanmäßige Mittelbereitstellung für Rückstellungen bei den Personalaufwendungen - ungeändert beschlossen
+- TOP 7.5: Überplanmäßige Bereitstellung von Finanzmitteln für Komm-PC des Ordnungsamtes - ungeändert beschlossen
+- TOP 7.6: Kostenneufestsetzung und überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei der Planung des Neubaus der gemeinsamen Leitstelle der Städte Wuppertal Solingen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2025 - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss Kinder- und Jugendwohngruppen der Stadt Wuppertal 2023 - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 8.4: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2025 bis 31.12.2026 für die Einrichtung Wuppertaler Hof - ungeändert beschlossen
+- TOP 8.5: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.04.2025 bis 31.03.2026 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Grundsatzbeschluss: Sanierung und Erweiterung des Berufskollegs am Haspel, Dependance Schluchtstr. 30 - ungeändert beschlossen
+- TOP 10.2: Denkmalgerechte Sanierung / Erneuerung der Jakobstreppe – Neufestsetzung der Gesamtkosten - ungeändert beschlossen
+- TOP 10.3: Kostenneufestsetzung für die Sanierung des Freibades Mählersbeck - ungeändert beschlossen
+- TOP 10.4: Errichtung einer Ersatztoilette für den Berliner Platz - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abschluss einer öffentlich- rechtlichen Vereinbarung mit den Städten Langenfeld, Leverkusen, Remscheid, Solingen und Wuppertal zur Gründung einer gemeinsamen Koordinierungsstelle - geändert beschlossen
+- TOP 11.2: Grundsatzbeschluss Gedenk- und Lernort ehemaliges Konzentrationslager Kemna - ungeändert beschlossen
+- TOP 11.3: Quartalsbericht IV/2024 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.4: Nachtrag zur Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 11.5: Gemeinsam aktiv gegen die Hitze - Der Wuppertaler Hitzeaktionsplan - geändert beschlossen
+- TOP 11.5.1: Ergänzungsantrag zur Drucksache VO/0204/25 - Gemeinsam aktiv gegen die Hitze - Der Wuppertaler Hitzeaktionsplan - abgelehnt
+- TOP 11.5.2: Antrag zur Tagesordnung, TOP 11.5.1, VO/0360/25: „Ergänzungsantrag zur Drucksache VO/0204/25, Gemeinsam aktiv gegen die Hitze – Der Wuppertaler Hitzeaktionsplan“; Änderungsantrag der Fraktionen von SPD und BÜNDNIS 90/DIE GRÜNEN - ungeändert beschlossen
+- TOP 11.6: Entscheidung über die Beanstandung eines Beschlusses der Bezirksvertretung Barmen vom 21. Januar 2025 (VO/1613/23) - ungeändert beschlossen
+- TOP 11.7: Bewerbung für Olympische und Paralympische Spiele Rhein-Ruhr - ungeändert beschlossen
+- TOP 11.8: Fortführung des Deutschlandtickets Schule ab dem 01.08.2025 bis zum 31.12.2025 - ungeändert beschlossen
+- TOP 11.9: Ethikrichtlinie „Charta Digitale Ethik“ der Stadt Wuppertal für den Umgang mit Künstlicher Intelligenz (KI) - zur Vorberatung verwiesen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Abberufung des ordentlichen Beiratsmitglied im Dialog-Beirat Neubau Moschee - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
+- TOP 12.3: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung im Ausschuss für Stadtentwicklung und Bauen - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung im Ausschuss für Wirtschaft, Arbeit und Nachhaltigkeit - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzung - Antrag der AfD-Fraktion vom 02.04.2025 - ungeändert beschlossen
