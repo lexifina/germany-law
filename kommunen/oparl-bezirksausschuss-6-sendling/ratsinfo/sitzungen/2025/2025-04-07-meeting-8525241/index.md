@@ -1,0 +1,151 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-04-07T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525241
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525241
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 03.02.2025 und 10.03.2025
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Anfrage Sachstand Mobilitätspunkts am Herzog-Ernst-Platz
+- TOP 2.2.: Unterbindung des Gehwegparkens in der Pfeuferstraße 14
+- TOP 2.3.: Fahrradabstellplätze Ganghoferstraße 82
+- TOP 2.4.: Situation um den Quartiersplatz
+- TOP 2.5.: Tauben und Ungeziefer am Sendlinger Loch
+- TOP 2.6.: Freizeit-/Sporteinrichtungen in Sendling (Maxi Pitch)
+- TOP 2.7.: Aktuelle Situation am Harras
+- TOP 2.8.: Verkehrssituation am Roten-Turm-Platz Ecke Demleitnerstraße
+- TOP 2.9.: Gefährliche Verkehrssituation für Schulkinder in der Bavariastraße
+- TOP 5.5.1.: Pilotphase für Foodtrucks – Suche nach einem Standort in Sendling
+- TOP 2.11.: Anfragen zur Albert-Roßhaupter-Straße 12
+- TOP 2.12.: Radfahrer auf dem Sendlinger Friedhof
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) + (U) Kein Abriss der denkmalgeschützten Wohnanlage an der Fallstraße / Zechstraße (auch kein Teilabbruch)
+- TOP 4.1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 6 Sendling Widmung einer Teilstrecke des Neuhofener Platzes
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2025 bis 2029
+- TOP 4.2.2.: 6. Planänderung PFA 3 Ost, 2. Stammstrecke, Zugangstreppe Autoreisezugverladung
+- TOP 4.2.3.: Wasserrechtliches Bewilligungsverfahren für den Weiterbetrieb des Isarwerks 3
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 4.3.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 4.3.3.: (U) Umgang mit hohen Grundwasserständen - Rechtlicher Rahmen, Verantwortlichkeiten und Handlungsmöglichkeiten der öffentlichen Hand
+- TOP 4.3.4.: Bebauungsplan Nr. 2177 - Öffentlichkeitsbeteiligung Stellungnahme/Einspruch einer Wohnungseigentümergemeinschaft bzgl. Bauleitplanverfahren
+- TOP 4.3.5.: Alramstraße 14, Fl.Nr. 10514/0, Gemarkung Sektion IV Bauzaun am Sendlinger Loch Antwort zu BA-Antrag Nr. 20-26 / B 06844, Schreiben vom 27.01.2025 Aktenzeichen: 0262-5.1-2025-1620-23
+- TOP 4.3.6.: Implerstraße 17 Flurstücke Nrn. 10441/16, 10442/5 der Gemarkung München, Sektion VI Satzung über die zweite Verlängerung der Veränderungssperre Nr. 658 Erlass nach § 17 Abs. 2 BauGB
+- TOP 4.3.7.: Stand der Planungen zur Bezirkssportanlage Wackersberger Straße
+- TOP 4.3.8.: Tauben - und Rattenplage am Sendlinger Loch
+- TOP 4.3.9.: Beteiligung der Kommunen beim Mobilfunkausbau; Zuschriften der Netzbetreiberfirmen nach § 7a der Verordnung über elektromagnetische Felder (26. BImSchV) künftig in öffentlicher Sitzung zu behandeln
+- TOP 4.3.10.: Ist das Kunst oder kann das weg?
+- TOP 4.3.11.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 4.3.12.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 4.3.13.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Verstärkte Verkehrskontrollen durch die Polizei
+- TOP 5.1.2.: (E) Erhöhte Verkehrskontrollen in Tempo-30-Zonen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Verstetigung Tempo 30 Streckenabschnitt Tumblingerstraße / Thalkirchnerstraße zwischen Ruppertstraße und Oberländerstraße
+- TOP 5.2.2.: Fahrradabstellanlagen im Bereich Oberländerstraße
+- TOP 5.2.3.: Fahrradabstellanlage im Bereich Alramstraße BA-Antrags-Nr. 20-26 / B 07380
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Arbeiten im Straßenraum; Oberländerstraße 33, Kidlerstraße / Lindenschmittstraße Verlegung Fernwärmeleitung
+- TOP 5.3.2.: Arbeiten im Straßenraum; Bruderhofstr. 43 und Dietramszeller Straße
+- TOP 5.3.3.: Haltverbot und Übergangsregelungen für Fußgänger im Bereich An der Stemmerwiese Ecke St. Margaretenplatz
+- TOP 5.3.4.: Bau eines neuen Bahnhofs in der Implerstraße
+- TOP 5.3.5.: Baumaßnahmen der SWM - Fernwärmeprojekt Bruderhofstraße 43
+- TOP 5.3.6.: Information zur Aufstellung Sitzbänken durch das Baureferat
+- TOP 5.3.7.: Infos zur Begrünung der Fläche vor Edeka Resi-Huber-Platz
+- TOP 5.3.8.: Lidl Filiale Dreimühlenstraße 42 – Parkplätze für Alte Utting
+- TOP 5.3.9.: Antrag auf Sitzbänke bei Spielplätzen
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Mit Sicherheit: Abende in den Neuhofener Anlagen (SPD-Fraktion)
+- TOP 5.4.2.: Sitzbänke in Sendling (Fraktion B90 / Die Grünen)
+- TOP 5.5.: Sonstiges
+- TOP 2.10.: Anfrage zur kulturellen Nutzung und Vermietung des Hochbunkers in Sendling
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Spiellandschaft Stadt e.V. „Vom Weltspieltag bis zum Weltkindertag vom 28.05.2025 - 20.09.2025“ 5.000,00 € / AZ: 0262.0-6-0537
+- TOP 6.1.2.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik „Bayerwaldhaus im Westpark vom 21.04.2025 - 10.05.2025“ 8.000,00 € / AZ: 0262.0-6-0536
+- TOP 6.1.3.: (E) Stadtbezirksbudget Elterninitiative Igelchen e.V. „Einrichtung eines Parklets vom 01.04.2025 - 31.10.2025“ 511,00 € / AZ: 0262.0-6-0540
+- TOP 6.1.4.: (E) Stadtbezirksbudget Katholischer Männerfürsorgeverein, Haus an der Kyreinstraße „Jubiläum & Straßenfest Haus an der Kyreinstraße am 26.06.2025“ 1.900,00 € / AZ: 0262.0-6-0539
+- TOP 6.1.5.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. „Orgelsoireen 2025 vom 26.09.2025 - 12.12.2025“ 2.150,00 € / AZ: 0262.0-6-0543
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kunst in Sendling e.V. „"Offene Ateliers und Gemeinschaftsausstellung" Kunst in Sendling e.V. vom 10.10.2025 - 12.10.2025“ 4.600,00 € / AZ: 0262.0-6-0544
+- TOP 6.1.7.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. „4. Intern. Orgelwochen & Orgelmatineen 2025 vom 30.04.2025 - 26.07.2025“ 8.000,00 € / AZ: 0262.0-6-0542
+- TOP 6.1.8.: (E) Stadtbezirksbudget Mütterzentrum Sendling e.V. (Familienzentrum Sendling) „40-jähriges Jubiläum vom 23.10.2025 - 25.10.2025“ 795,00 € / AZ: 0262.0-6-0545
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Anhörung zum Beschlussentwurf: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Kantorat an der Himmelfahrtskirche; Orgelmusik bei Kerzenschein - Igelchen e.V.; Einrichtung eines Parklets in der Schöttlstraße - Kulturspielraum e.V.; Kinder- und Jugendfonds „lasst uns mal ran!“ - BIKU gGmbH; Mädchen an den Ball - Jazzkonzert in der Bäckerei Neulinger (Sendling) am 16.11.2024 - Begehbare Karte des jüdischen Lebens in Sendling
+- TOP 6.3.2.: Anfrage Lesung Großmarkthalle
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Wie geht es weiter mit dem städtischen Kindergarten in der Aberlestraße?
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Jubiläum & Straßenfest Kath. Männerfürsorgeverein e.V. in der Kyreinstr. (HsNr. 3-6) am 26.06.2025
+- TOP 8.2.2.: Veranstaltung in einer städtischen Grünanlage; Aktion TauschTour der Re:think-Kampagne des RKU am Kidlerplatz am 17.05.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO, öffentlich-rechtliche Sondernutzungserlaubnis gem. Art. 18 BayStrWG für Märkte und Festsetzung einer Marktveranstaltung gem. § 69 GewO; Squisitissimo Italian Food - Italienischer Markt, Am Harras (nördliche Platzfläche) vom 18.03. - 26.03.2025
+- TOP 8.3.2.: Anita Augspurg Preis 2025
+- TOP 8.3.3.: Ausnahmegenehmigung – Veranstaltung in einer städtischen Grünanlage; Sommertreff Familienzentrum/Mütterzentrum Sendling am Dietramszeller Platz (Spielplatz) vom 05.05.-22.10.2025
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Voraussetzungen für die Bildung von Fraktionszusammenschlüssen und Ausschussgemeinschaften
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 5.4.3.: Gehwege müssen uneingeschränkt zugänglich bleiben (SPD Fraktion)
+- TOP 2.13.: Neue Carsharing-Parkplätze Lindenschmitstraße 9
+- TOP 5.3.10.: Neugestaltung Baumgärtner-/ Radlkoferstraße BA-Antrag Nr.: 20-26 / B 03366
+- TOP 5.3.11.: Umgestaltung der Alramstraße BA-Antrag Nr.: 20-26 / B 05317
+- TOP 6.5.1.: Der fantastische Stamm der Demokratie (0262.0-6-0538) – Vorverlegung des Termins
+- TOP 2.14.: U-Bahnstation "Am Harras" – Taubenplage
+- TOP 2.15.: Fahrradstellplätze in Untersendling
+- TOP 2.16.: Wertstoffinsel für den Umgriff der Alramstraße
+- TOP 4.2.4.: Gaißacher Str. 7 – Vorbescheid Nutzungsänderung der Gewerbefläche im Erdgeschoss in Beherbergungsräume
+- TOP 5.3.12.: Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 5.3.13.: Versammlungsanzeige: Raumpolitik am 12.04.2025
+- TOP 4.5.1.: Wohnortnahe Sammlung von Wertstoffen ermöglichen! (Anfrage der SPD-Fraktion)
+- TOP 4.5.2.: Lindenschmitstraße 25 – Nachfragen zum Bauablauf (Anfrage der SPD-Fraktion)
+- TOP 5.3.14.: Verkehrsrechtliche Anordnung zur Hans-Preißinger-Straße
+- TOP 5.5.2.: Nachfrage zur Errichtung einer festen Toilettenanlage am Bahndeckel
+- TOP 6.3.4.: Rückmeldung Bayerischen Finanzministerium zum BA-Antrag des BA 9 – Neuhausen-Nymphenburg Nr. 20-26 / B 07293 - Ehrenamt muss abgesichert sein
+- TOP 2.17.: Verkehrskreuzung am Herzog-Ernst-Platz
+- TOP 2.18.: Müllablagerung am Hang an der Thalkirchner Straße
+- TOP 4.2.5.: Antrag auf Baumfällung vom 25.03.2025 auf dem Grundstück Lindenschmitstraße 12
+- TOP 4.2.6.: Antrag auf Baumfällung vom 12.03.2025 auf dem Grundstück Thalkirchner Straße 210
+- TOP 2.19.: Verkehrssituation in der Jägerwirtstraße / An der Stemmerwiese
+- TOP 2.20.: Schließung des Stäblibads – weitere Sportangebote für Seniorinnen und Senioren
+- TOP 2.21.: Hortgründung „Die Murmeltiere“
+- TOP 2.22.: Hortgründung im Schulsprengel der Implerschule und der Gotzingerschule
+- TOP 4.3.14.: Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München Klimaresilientes München 2050 Antrag Nr. 20-26 / A 03239 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt – Fraktion vom 04.11.2022, eingegangen am 04.11.2022 Erhalt der Lebensqualität und Schutz vor Überhitzung durch klimaangepasste Gestaltung der Stadtentwicklung: Langfristige Sicherung von Münchens Frischluftschneisen! Antrag Nr. 20-26 / A 04083 von der Fraktion Die Grünen - Rosa Liste vom 10.08.2023, eingegangen am 10.08.2023
+- TOP 5.2.4.: Veranstaltungen in städtischen Grünanlagen und auf öffentlichem Verkehrsgrund sowie Privatgrund; Hier: bezirksübergreifende Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt, Mai bis Oktober 2025
+- TOP 5.3.15.: Sitzbänke auf dem Fußballplatz an der Valleystraße
+- TOP 5.3.16.: Versammlungsanzeige – "Speakers Corner" am 04.04.2025 (Am Harras)
+- TOP 6.3.3.: Verlängerung der Maßnahme „Street Art Brudermühlstraße“
+- TOP 6.3.5.: Übersicht BA 6 – Sendling zum Stadtbezirksbudget vom 1. Quartal 2025
+- TOP 2.23.: Betreuungssituation Implerschule
+- TOP 4.2.7.: Sendlinger Loch - bezahlbares Wohnen und Badespaß jetzt; Erwerb des Grundstücks zum bezahlbaren Wohnungsbau in kommunaler oder genossenschaftlicher Hand Empfehlung Nr. 20-26 / E 01653 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 22.11.2023
