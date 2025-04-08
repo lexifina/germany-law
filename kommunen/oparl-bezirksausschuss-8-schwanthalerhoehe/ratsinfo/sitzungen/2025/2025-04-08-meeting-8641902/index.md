@@ -1,0 +1,96 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8641902
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8641902
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Überfüllte Mülleimer an Wochenenden an verschiedenen Stellen im Stadtbezirk 8
+- TOP 4.2.: Rabensichere Mülleimer im Bavariapark
+- TOP 4.3.: Erneuerung der Tischplatten und Sitzplätze am Gollierplatz / Bergmannstraße, Nähe Brunnen Verdrecke Wertstoffinsel in der Bergmannstraße Zustand der "Aufbauten" auf der Zirkuswiese vor dem Eingang zum Forum Schwanthalerhöhe
+- TOP 4.4.: Überlaufender Mülleimer und Vermüllung der Bus-Haltestelle Bergmannstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 6
+- TOP 6.2.2.: Bauvorhaben Ligsalzstraße 4
+- TOP 6.2.3.: Bauvorhaben Ligsalzstraße 4 RGB
+- TOP 6.2.4.: Bauvorhaben Westendstraße 89
+- TOP 6.2.5.: Bauvorhaben Landsberger Straße 1
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Bauvorhaben Ligsalzstraße 25
+- TOP 6.3.3.: Behandlung von Mobilfunkangelegenheiten in BA-Sitzungen
+- TOP 6.3.4.: Unveränderte Fortführung der Gaststätte Heimeranplatz 1
+- TOP 6.3.5.: MGH; Baumaßnahmen an der Fassade
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: AKIM-Bericht vom 1. Halbjahr 2025
+- TOP 7.3.2.: Leistungsbilanz 2025 des Sozialreferates
+- TOP 7.3.3.: Kinderkrippen, Kindergärten, Horte, Eltern-Kind-Initiativen und Schulen im Stadtbezirk 8
+- TOP 7.3.4.: Save the date - Veranstaltung der Sozialreferentin mit den Bezirksausschüssen am 23.06.2025
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung in der Schießstättstraße 14 am 15.03.2025
+- TOP 8.3.2.: Projekt „Coffee with a Jew“
+- TOP 8.3.3.: BA2; Stellungnahme zur Eignung der Theresienwiese für Großveranstaltungen
+- TOP 8.3.4.: Sich fortbewegende Versammlung am Georg-Freundorfer-Platz am 12.04.2025
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Schwanthalerstraße 149
+- TOP 9.2.2.: Aufhebung der Ladezone in der Ganghoferstraße 23
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: U-Bahn(hof)sanierungen transparent und verständlich für alle darstellen - Fristverlängerung
+- TOP 9.3.2.: Parken in der Feuerwehrzufahrt am Kinderhaus St. Rupert, Kazmairstraße 66
+- TOP 9.3.3.: Meldeliste Bauvorhaben SWM; Flyer Fernwärmeprojekt Schwanthalerstraße 180
+- TOP 9.3.4.: Baumfällungen Grundstück Parkwärterhaus Theresienhöhe 22
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget LUMA e.V. Kulturelles Kinderprogramm von Luma e.V. im Cafe Gans am Wasser - 2025 vom 01.05.25 - 31.12.25 2.600,00€, Az.: 0262.0-8-0437
+- TOP 10.1.2.: (E) Stadtbezirksbudget DPSG Stamm St. Rupert Sommerlager in Montenegro vom 01.08. -17.08.2025 7.000,00€; Az. 0262.0-8-0431
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative Münchner Theater Woche Erzälkunst bei der Münchner Theaterwoche am 03.06.2025 1.680,00 € Az: 0262.0-8-0438
+- TOP 10.1.4.: (E) Stadtbezirksbudget Kultur und Spielraum e.V. Die Schneckenpost -der KiKS-Blog vom 06.06. -09.06.2025 3.600,00€; Az. 0262.0-8-0441
+- TOP 10.1.5.: (E) Stadtbezirksbudget InitiativGruppe Interkulturelle Begegnung und Bildung e.V. Sommerflimmern - das kleine Jugendfestival zu 25 Jahre IG Feuerwache vom 01.04. -31.10.2025 2.500,00€; Az. 0262.0-8-0440
+- TOP 10.1.6.: (E) Stadtbezirksbudget Kims Kindertanz und der Verein "wir tanzen aus der Reihe e.V Mo.Mi. Zeit Momente, Miteinander Zeit am 12.07.2025 1.920,00€ Az:0262.0-8-0439
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Beschlussentwurf: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget
+- TOP 12.2.2.: Mehrjahresinvestitionsprogramm 2024 - 2028
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Ehrenamt muss abgesichert sein; BA-Antrags-Nr. 20-26 / B 07293 des BA9; Stellungnahme des Bay. Staatsministeriums für Finanzen und für Heimat
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.2.1.: Spielaktionen Spiellandschaft Stadt; am Spielplatz Kazmairstraße, 23.-27.06.2025 am Spielplatz Theresienhöhe am Bavariapark am 11.07.2025
+- TOP 10.1.7.: (E) Stadtbezirksbudget Comicstadt München e.V. Comicfestival 2025 vom 19.06. -22.06.2025 7.000,00€; Az. 0262.0-8-0442
+- TOP 8.2.2.: Spielaktionen Straße.Oase von CultureClouds e.V.; Schaderböckstraße 2-6 (beidseitig) von 01.06. bis 03.06.2025
+- TOP 9.3.5.: Projektvorschlag: Skatepark unter der Donnersbergerbrücke
+- TOP 4.5.: Verkauf des denkmalgeschützten Mehrfamilienhauses in der Westendstraße 136
+- TOP 8.3.5.: Versammlung in der Schießstättstraße 14 am 05.04.2025
+- TOP 10.3.1.: Übersicht Budgetanträge 1. Quartal 2025
+- TOP 9.3.1.1: U-Bahn(hof)sanierungen transparent und verständlich für alle darstellen - Fristverlängerung
