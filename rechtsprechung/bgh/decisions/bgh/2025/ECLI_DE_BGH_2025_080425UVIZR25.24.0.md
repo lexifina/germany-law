@@ -1,0 +1,67 @@
+---
+ecli: "ECLI:DE:BGH:2025:080425UVIZR25.24.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "VI ZR 25/24"
+decided: "2025-04-08"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE716292025.xml"
+neuris_doknr: "KORE716292025"
+---
+
+# Bundesgerichtshof, VI ZR 25/24 vom 2025-04-08
+
+## Leitsatz
+
+1. Der Geschädigte eines Kraftfahrzeugsachschadens hat bei Ausübung der Ersetzungsbefugnis des § 249 Abs. 2 Satz 1 BGB die Wahl, ob er fiktiv nach den Feststellungen eines Sachverständigen oder konkret nach den tatsächlich aufgewendeten Kosten abrechnet. Der Geschädigte kann, wenn er seinen Fahrzeugschaden zunächst fiktiv abgerechnet hat, später - im Rahmen der rechtlichen Voraussetzungen für eine solche Schadensabrechnung und der Verjährung - grundsätzlich zur konkreten Schadensabrechnung übergehen und Ersatz der tatsächlich angefallenen Kosten einschließlich Mehrwertsteuer und (ggf. zusätzlicher) Nutzungsausfallentschädigung verlangen.8
+
+2. Berechnet der Geschädigte seinen Schaden zulässigerweise auf der Grundlage der von dem Sachverständigen ermittelten Kosten fiktiv, also ohne Durchführung der Reparatur und damit insbesondere ohne Umsatzsteuer, hat er - schon um der drohenden Verjährung zu begegnen - ein Interesse im Sinne von § 256 Abs. 1 ZPO an der Feststellung der Ersatzpflicht für zukünftige Schäden. Der Geschädigte muss nicht darlegen, dass er die Absicht hat, sein Fahrzeug zu reparieren. Vielmehr reicht die Darlegung, dass die Möglichkeit der Reparatur besteht, grundsätzlich aus. Daran fehlte es erst, wenn aus Sicht des Geschädigten bei verständiger Würdigung kein Grund bestände, mit der Reparatur wenigstens zu rechnen.9
+
+## Tenor
+
+Auf die Revision der Klägerin wird das Urteil der 1. Zivilkammer des Landgerichts Landshut vom 20. Dezember 2023 abgeändert. Die Berufung der Beklagten gegen das Urteil des Amtsgerichts Erding vom 31. März 2023 wird insgesamt zurückgewiesen.
+
+Die Kosten des Berufungsverfahrens tragen die Beklagte zu 88 % und die Klägerin zu 12 %.
+
+Die Kosten des Revisionsverfahrens trägt die Beklagte.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Die Klägerin nimmt nach einem Verkehrsunfall die Beklagte als Haftpflichtversicherer - soweit im vorliegenden Zusammenhang relevant - auf Feststellung der Verpflichtung zur Erstattung sämtlichen zukünftigen materiellen Schadens in Anspruch.
+
+2 Als das bei der Beklagten haftpflichtversicherte Fahrzeug rückwärts ausgeparkt wurde, fuhr es auf das Fahrzeug der Klägerin auf. Den Schaden an ihrem Fahrzeug rechnete die Klägerin fiktiv auf Basis eines Sachverständigengutachtens ab. Die Beklagte erhob Einwendungen gegen die Höhe des geltend gemachten Schadens und regulierte diesen zum Teil. Vorgerichtlich und gerichtlich ist die volle Haftung der Beklagten dem Grunde nach unstreitig.
+
+3 Das Amtsgericht hat die Beklagte zu weiterer Zahlung verurteilt und festgestellt, dass die Beklagte der Klägerin sämtlichen zukünftigen materiellen Schaden aus dem Unfallereignis zu erstatten hat. Im Übrigen hat es die Klage abgewiesen. Auf die Berufung der Beklagten hat das Landgericht das Urteil des Amtsgerichts abgeändert und die Klage abgewiesen, soweit die Pflicht zur Erstattung zukünftigen materiellen Schadens festgestellt worden ist. Im Übrigen hat das Berufungsgericht die Berufung der Beklagten und die Anschlussberufung der Klägerin zurückgewiesen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Klägerin ihren Antrag auf vollständige Zurückweisung der Berufung der Beklagten weiter.
+
+## Entscheidungsgründe
+
+I.
+
+4 Das Berufungsgericht hat dazu ausgeführt, soweit die Beklagte Klageabweisung bezüglich des Feststellungsantrags begehre, habe die Berufung Erfolg. Das Feststellungsinteresse werde damit begründet, dass die Klägerin bei einer Reparatur des Fahrzeugs Anspruch auf Mehrwertsteuer sowie Nutzungsausfall habe und dass das Feststellungsinteresse nicht dadurch verloren gehe, dass die Haftung dem Grunde nach unstreitig sei. Im vorliegenden Fall sei ein Feststellungsinteresse nicht gegeben, weil die Haftung dem Grunde nach unstreitig sei, die Beklagte mit ihrem gesamten Regulierungsverhalten zu keinem Zeitpunkt Anlass gegeben habe, an ihrer 100%igen Einstandspflicht zu zweifeln und das Entstehen weiterer Schadenspositionen allein von der Entscheidung der Klägerin abhänge. Die Klägerin rechne vorliegend auf fiktiver Basis ab. Die Schadenspositionen, die die Klägerin mit dem Feststellungsantrag der Verjährung entziehen wolle, seien solche der konkreten Abrechnung. Diese könnte die Klägerin nur geltend machen, wenn sie von fiktiver Abrechnung auf eine konkrete Abrechnung übergehe. Die Kriterien, nach denen der Übergang von fiktiver auf konkrete Abrechnung möglich sei, seien bislang noch nicht vollständig herausgearbeitet worden. Zwar habe der Bundesgerichtshof in den Urteilen vom 18. Oktober 2011 - VI ZR 17/11 und vom 17. Oktober 2006 - VI ZR 249/05 ausgeführt, dass ein Wechsel von fiktiver zu konkreter Abrechnung möglich sei, dieser Wechsel aber unter dem Vorbehalt der Verjährung stehe. Dieser Verjährungsvorbehalt könne nicht dazu führen, dass ein Feststellungsinteresse bestehe. Dadurch würde die abschließend geregelte Verjährungsfrist von bisher drei Jahren auf 30 Jahre erweitert. Es sei nicht zu erkennen, aus welchen Gründen dies gerechtfertigt sein könne; gerade wenn - wie im vorliegenden Fall - das Fahrzeug zum Zeitpunkt des Unfalles bereits 13 Jahre alt gewesen sei, eine Laufleistung von über 250.000 Kilometern erreicht habe und der Eintritt weiteren Schadens allein vom Willen des Geschädigten abhänge. Es sei dem Geschädigten zuzumuten, die Entscheidung, ob er sein Fahrzeug reparieren lassen und auf konkrete Abrechnung übergehen wolle, innerhalb der Verjährungsfrist von drei Jahren zu treffen.
+
+II.
+
+5 Die dagegen gerichtete Revision der Klägerin hat Erfolg und führt hinsichtlich des Feststellungsausspruches zur Wiederherstellung des Urteils des Amtsgerichts. Entgegen der Auffassung des Berufungsgerichts fehlt es nicht am Feststellungsinteresse der Klägerin.
+
+6 1. Nach § 256 Abs. 1 ZPO kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass das Rechtsverhältnis alsbald festgestellt werde. Ein solches Interesse ist gegeben, wenn dem konkreten vom Feststellungsantrag betroffenen Recht des Klägers eine gegenwärtige Gefahr der Unsicherheit droht und der erstrebte Feststellungsausspruch geeignet ist, diese Gefahr zu beseitigen (vgl. Senat, Urteil vom 5. Oktober 2021 - VI ZR 136/20, NJW-RR 2022, 23 Rn. 15 mwN). Werden nach Verletzung eines absoluten Rechts weitere zukünftige materielle Schäden befürchtet, genügt für das Feststellungsinteresse die Möglichkeit, dass diese Schäden eintreten (vgl. Senat, Urteil vom 18. November 2024 - VI ZR 10/24, BGHZ 242, 180 Rn. 48 mwN). Welche weiteren Schäden zu befürchten sind, hat der Kläger darzulegen (vgl. Senat, Urteil vom 5. Oktober 2021 - VI ZR 136/20, NJW-RR 2022, 23 Rn. 28 mwN). An der Möglichkeit weiterer Schäden fehlt es, wenn aus Sicht des Klägers bei verständiger Würdigung kein Grund besteht, mit dem Eintritt eines weiteren Schadens wenigstens zu rechnen (vgl. Senat, Urteil vom 5. Oktober 2021 - VI ZR 136/20, NJW-RR 2022, 23 Rn. 28 mwN).
+
+7 2. Danach kann die Klägerin ihr Feststellungsinteresse darauf stützen, dass sie bei einer zukünftigen Reparatur ihres beschädigten Fahrzeugs einen Anspruch auf Ersatz der dabei anfallenden Mehrwertsteuer und des dadurch verursachten Nutzungsausfalls gegen die Beklagte geltend machen könnte.
+
+8 Der Geschädigte eines Kraftfahrzeugsachschadens hat bei Ausübung der Ersetzungsbefugnis des § 249 Abs. 2 Satz 1 BGB die Wahl, ob er fiktiv nach den Feststellungen eines Sachverständigen oder konkret nach den tatsächlich aufgewendeten Kosten abrechnet (Senat, Urteile vom 28. Januar 2025 - VI ZR 300/24, NJW 2025, 1346 Rn. 12; vom 12. Oktober 2021 - VI ZR 513/19, NJW 2022, 543 Rn. 17 ff.; vom 24. Januar 2017 - VI ZR 146/16, NJW 2017, 1664 Rn. 6). Zwar hat die Klägerin den Schaden an ihrem Fahrzeug fiktiv abgerechnet. Allerdings kann der Geschädigte, wenn er seinen Fahrzeugschaden zunächst fiktiv abgerechnet hat, später - im Rahmen der rechtlichen Voraussetzungen für eine solche Schadensabrechnung und der Verjährung - grundsätzlich zur konkreten Schadensabrechnung übergehen und Ersatz der tatsächlich angefallenen Kosten einschließlich Mehrwertsteuer und (ggf. zusätzlicher) Nutzungsausfallentschädigung verlangen (vgl. Senat, Urteile vom 17. Oktober 2006 - VI ZR 249/05, BGHZ 169, 263 Rn. 7 ff.; vom 18. Oktober 2011 - VI ZR 17/11, NJW 2012, 50 Rn. 4; vom 13. September 2016 - VI ZR 654/15, NJW 2017, 1310 Rn. 18; vom 2. Oktober 2018 - VI ZR 40/18, NJW-RR 2019, 144 Rn. 9; vom 12. Oktober 2021 - VI ZR 513/19, NJW 2022, 543 Rn. 20, 25; Geigel Haftpflichtprozess/Katzenstein, 29. Aufl., Kap. 3 Rn. 7, 68, 82; siehe bereits zuvor Senatsurteil vom 20. April 2004 - VI ZR 109/03, BGHZ 158, 388, juris Rn. 9 f.).
+
+9 Berechnet der Geschädigte seinen Schaden, wie hier, zulässigerweise auf der Grundlage der von dem Sachverständigen ermittelten Kosten fiktiv, also ohne Durchführung der Reparatur und damit insbesondere ohne Umsatzsteuer, hat er - schon um der drohenden Verjährung zu begegnen - ein Interesse im Sinne von § 256 Abs. 1 ZPO an der Feststellung der Ersatzpflicht für zukünftige Schäden (vgl. zu Mängelbeseitigungskosten BGH, Urteil vom 27. Oktober 2023 - V ZR 43/23, NJW-RR 2024, 542 Rn. 25 mwN).
+
+10 3. Abweichendes ergibt sich nicht aus den Erwägungen des Berufungsgerichts und der Revisionserwiderung. Entgegen deren Auffassung entfällt das Feststellungsinteresse der Klägerin nicht bereits deshalb, weil die volle Haftung der Beklagten dem Grunde nach bislang unstreitig geblieben ist. Denn allein daraus ergibt sich keine einem gerichtlichen Feststellungsausspruch vergleichbare Sicherheit für die Klägerin (vgl. dazu Senat, Beschluss vom 13. Dezember 2016 - VI ZR 116/16, NZV 2017, 226 Rn. 9).
+
+11 Weiter ist zwar richtig, dass die von der Klägerin befürchteten weiteren Schäden von ihrer zukünftigen Entscheidung abhängen, die Reparatur durchzuführen und zur konkreten Schadensberechnung überzugehen. Allerdings setzt die Möglichkeit des Eintritts zukünftiger weiterer Schäden (siehe oben II.1.) nicht voraus, dass der Geschädigte darauf keinen Einfluss nehmen kann. Ob und inwieweit das Verhalten des Geschädigten relevant ist, bestimmt das materielle Recht, das dem Geschädigten insoweit die Wahl des nachträglichen Übergangs von der fiktiven zur konkreten Abrechnung erlaubt (siehe oben II.2.). Daher wäre es auch nicht gerechtfertigt, - wie die Revisionserwiderung meint - hier die Begründetheit des Feststellungsantrags ausnahmsweise von der Wahrscheinlichkeit des Schadenseintritts abhängig zu machen (vgl. dazu Senat, Urteil vom 17. Oktober 2017 - VI ZR 423/16, BGHZ 216, 149 Rn. 49). Der Geschädigte muss nicht darlegen, dass er die Absicht hat, sein Fahrzeug zu reparieren. Vielmehr reicht die Darlegung, dass die Möglichkeit der Reparatur besteht, grundsätzlich aus. Daran fehlte es erst, wenn aus Sicht des Geschädigten bei verständiger Würdigung kein Grund bestände, mit der Reparatur wenigstens zu rechnen. Allein aus dem Hinweis der Revisionserwiderung auf das Alter des Fahrzeugs (13 Jahre) und dessen Laufleistung (über 250.000 Kilometer) ergibt sich dies jedoch noch nicht.
+
+12 Entgegen der Auffassung der Revisionserwiderung besteht auch kein Widerspruch zur Rechtsprechung des Bundesgerichtshofs, wonach der Geschädigte kein rechtliches Interesse an der isolierten Feststellung der Verpflichtung zum Schadensersatz hat, um sich bei Geltendmachung eines Vermögensschadens nach § 826 BGB die Wahl zwischen großem und kleinem Schadensersatz offen zu halten, wenn ihm diese Entscheidung bereits bei Erhebung der Klage zumutbar ist (vgl. Senat, Urteil vom 5. Oktober 2021 - VI ZR 136/20, VersR 2022, 1184 Rn. 16 ff.). Denn aus dem materiellen Recht ergibt sich nicht, dass dem Geschädigten eine Wahl zwischen großem und kleinem Schadensersatz offengehalten werden soll. Demgegenüber hat hier die Klägerin ihren fiktiv abgerechneten Schaden durch einen Leistungsantrag geltend gemacht. Sie will durch den zusätzlichen Feststellungsantrag nur sicherstellen, dass sie entsprechend dem materiellen Recht - weiterhin im Rahmen des § 249 Abs. 2 Satz 1 BGB - später zur konkreten Schadensabrechnung übergehen kann (siehe weiter zum ergänzenden Feststellungsantrag bei Geltendmachung des großen Schadensersatzes Senat, Urteil vom 5. Oktober 2021 - VI ZR 136/20, VersR 2022, 1184 Rn. 5, 22, 34; Klein, NZV 2022, 49, 50; zur Bindungswirkung im Verhältnis von § 249 Abs. 1 und Abs. 2 Satz 1 BGB MüKoBGB/Oetker, 9. Aufl., BGB § 249 Rn. 359 - 361; Geigel Haftpflichtprozess/Katzenstein, 29. Aufl., Kap. 3 Rn. 7).
+
+13 Schließlich trifft es zwar zu, dass nach einem Feststellungsausspruch die Verjährungsfrist nicht mehr drei Jahre beträgt, sondern 30 Jahre (§§ 195, 197 Abs. 1 Nr. 3 BGB). Dies ist jedoch keine Besonderheit der vorliegenden Fallkonstellation. Es handelt sich um eine Konsequenz der gesetzgeberischen Interessenabwägungen und Grundentscheidungen.
+
+14 4. Das Urteil des Berufungsgerichts ist aufzuheben, soweit es auf die Berufung der Beklagten zum Nachteil der Geschädigten entschieden hat (§ 562 Abs. 1 ZPO). Der Senat entscheidet in der Sache selbst, da sie zur Endentscheidung reif ist (§ 563 Abs. 3 ZPO).
+
+Seiters Oehler Klein
+
+Allgayer Linder
