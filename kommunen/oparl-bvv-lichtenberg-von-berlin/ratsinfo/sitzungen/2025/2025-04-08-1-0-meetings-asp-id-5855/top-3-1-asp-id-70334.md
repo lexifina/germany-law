@@ -1,0 +1,7 @@
+# TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 7. Sitzung in der IX. Wahlperiode des Ausschusses Geschäftsordnung (2025-04-08)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=70334
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
