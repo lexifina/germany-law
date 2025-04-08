@@ -1,0 +1,160 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2025-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8396957
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8396957
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 11.03.2025
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Kattowitzer Str: Errichtung von mehreren Mehrfamilienhäusern mit Stellplätzen - VORBESCHEID - Vorstellung durch Antragsteller*in -
+- TOP 2.2.1.2.: Hohenlindner Str. 5: Fassadengestaltung Proben- und Werkstattzentrum (PWZ) Staatsschauspiel optimieren; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.2.1.3.: Sachstand Zwischennutzungskonzept Münchner Nordosten - Vorstellung durch das Referat für Stadtplanung und Bauordnung -
+- TOP 2.2.1.4.: (E) + (U) Zustand der Bauruine in der Meistersingerstraße 26 Empfehlung
+- TOP 2.2.1.5.: Vorhabenbezogener Bebauungsplanes Nr. 72c/23 „Neubruchstraße" der Gemeinde Unterföhring; Anhörung
+- TOP 2.2.1.6.: Flemingstr. 69 - Anbau an ein best. Reihenhaus - VORBESCHEID
+- TOP 2.2.1.7.: Flemingstr. 23 - Abbruch und Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 2.2.1.8.: Geibelstr. 7: Neubau eines Mehrfamilienhauses mit Tiefgarage im Innenhof eines bestehenden Stadtblocks - VORBESCHEID
+- TOP 2.2.1.9.: Cosimastr.: Neubebauung des Grundstücks mit einem Wohn- und Geschäftshaus und großflächigem Lebensmittelhandel - VORBESCHEID (Cosimastr. / Johanneskirchner Str.)
+- TOP 2.2.1.10.: Krausstr. 3 - Neubau eines Reihenhauses mit vier Einheiten
+- TOP 2.2.1.11.: Oberföhringer Str. 131 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 2.2.1.12.: Elektronisches Stellwerk Ost, Herstellung des Benehmens; Anhörung des Referats für Stadtplanung und Bauordnung (Fristverlängerung bis zum 09.04.2025)
+- TOP 2.2.1.13.: Baulicher Zustand des Höchl-Schlössls - aktueller Stand des Ortstermins -
+- TOP 2.2.1.15.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.16.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Flemingstr. 69 - Anbau an ein best. Reihenhaus - VORBESCHEID
+- TOP 2.2.2.2.: Kattowitzer Str: Errichtung von mehreren Mehrfamilienhäusern mit Stellplätzen - VORBESCHEID
+- TOP 2.2.2.3.: Flemingstr. 23 - Abbruch und Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) Einhaltung der Verkehrsordnung Englschalkinger Straße - Vollmannstraße
+- TOP 2.3.2.: 1. Installation eines Parkverbotes Ecke Stadeweg/Dominikstraße 2. Installation einer Erinnerung an die Spielstraße im hinteren Teil des Hermann-Gmeiner-Weges; Anliegen aus der Bürgerschaft
+- TOP 2.3.3.: Verbesserungen für Fußgänger und Radfahrer um das Max-Josef-Stift; Anliegen aus der Bürgerschaft
+- TOP 2.3.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.6.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Init. "Wandgestaltung" „Wandgestaltung Riedenburger Phase 3 vom 01.07.2025 - 31.08.2025“ AZ: 0262.0-13-0487/ 4.000,00 €
+- TOP 2.4.2.: (E) Stadtbezirksbudget SV Helios-Daglfing e. V. „Neue Tore für Gewährleistung des Spiel- und Trainingsbetriebs ab 15.03.2025“ 3.859,00 € / AZ: 0262.0-13-0486
+- TOP 2.4.3.: (E) Stadtbezirksbudget Förderverein Grundschule an der Stuntzstraße e.V. „Tanzprojekt vom 14.07.2025 - 18.07.2025“ 6.472,50 € / AZ: 0262.0-13-0488
+- TOP 2.4.4.: (E) Stadtbezirksbudget Verein für Stadtteilkultur in Münchner Nordosten e.V. "Ein Denkmal für Philipp Auerbach am 16.05.2025“ 1.278,75 € / AZ: 0262.0-13-0489
+- TOP 2.4.5.: (E) Stadtbezirksbudget Theater des hölzernen Gelächters „Sommertheaterproduktion 2025 im Amphitheater des Englischen Gartens vom 20.06.2025 - 31.10.2025“ 2.200,00 € / AZ: 0262.0-13-0490
+- TOP 2.4.6.: (E) Stadtbezirksbudget Blütenring e.V. „Blütenring Theatertage 2025 Commedia im Park vom 20.06.2025 - 29.06.2025“ 4.350,00 € / AZ: 0262.0-13-0492
+- TOP 2.4.7.: (E) Stadtbezirksbudget Init. "Papiertheaterfestival" „9. Münchner Papiertheaterfestival "alles papier" vom 23.10.2025 - 26.10.2025“ 5.000,00 € / AZ: 0262.0-13-0491
+- TOP 2.4.8.: (E) Stadtbezirksbudget Künstlerverein Atelierhaus FOE e.V. „40 Jahre Atelierhaus FOE vom 23.05.2025 - 12.10.2025“ 1.500,00 € / AZ: 0262.0-13-0494
+- TOP 2.4.9.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2025 bis 2029; Anhörung der Stadtkämmerei
+- TOP 2.4.10.: Anschaffung von weiteren 35 Ferienpässen - Stellungnahme notwendig -
+- TOP 2.4.11.: Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitätssicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget - Beschlussentwurf; Anhörung des Direktoriums - Rückmeldung des Direktoriums auf BA-Stellungnahme -
+- TOP 2.4.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.13.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Englschalkinger Anger – ein richtiger Name für das Grüne Band
+- TOP 2.6.1.2.: Beschilderung der Hauptzugänge als „Englschalkinger Anger“ bzw. Oberföhringer Anger“ (siehe BA-Antrag Englschalkinger Anger – ein richtiger Name für das Grüne Band); Anhörung des Baureferats
+- TOP 2.6.1.3.: Wiederbegrünung mit Hecken und Stauden entlang der Steinhauser., der Barbarossa- und der Walpurgisstr.; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.4.: Errichtung eines Bouleplatz auf der Grünfläche Savitsstraße; Anliegen aus der Bürgerschaft - eventuell Bestellung städt. Leistung -
+- TOP 2.6.1.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.6.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Normannenstr. 32
+- TOP 2.6.2.2.: Normannenstr. 32a
+- TOP 2.6.2.3.: Savitsstr. 25
+- TOP 2.6.2.4.: Mauerkircherstr. 198
+- TOP 2.6.2.5.: Mauerkircherstr. 199
+- TOP 2.6.2.6.: Siebertstr. 4
+- TOP 2.6.2.7.: Kopernikusstr. 1
+- TOP 2.6.2.8.: Stefan-George-Ring 35
+- TOP 2.6.2.9.: Amberger Str. 1 - 7
+- TOP 2.6.2.10.: Franz-Wolter-Str. 46 - 70
+- TOP 2.6.2.11.: Lamontstr. 30
+- TOP 2.6.2.12.: Kopernikusstr. 1
+- TOP 2.6.2.13.: Steinhauser Str. 7 - 19
+- TOP 2.6.2.14.: Stolzingstr. 4 - 6
+- TOP 2.6.2.15.: Schönbergstr. 12
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Bericht Runder Tisch Rosenkavalierplatz
+- TOP 2.7.2.: Temporäre Kunstaktion "Auf engstem Raum" vom 03.06.-15.07.2025 am Prinzregentenplatz; Unterrichtung des Kreisverwaltungsreferats
+- TOP 2.7.3.: Verlängerung einer bestehenden Unterkunft für Geflüchtete an dem Standort Hohenlindener Straße 8 und 8a; Sitzungsvorlage Nr. 20-26 / V 16175 - Beschlussentwurf; Anhörung des Sozialreferats
+- TOP 2.7.4.: An der Cosimastr./Englschalkinger Str.: Zirkusgastspiel vom 12.5. - 26.5.25; Anhörung des Kommunalreferats
+- TOP 2.7.5.: An der Cosimastr./Englschalkinger Str.: Gastspielanfrage: Kraichgauer Puppenbühne vom 3.6. - 22.6.25.; Anhörung des Kommunalreferats
+- TOP 2.7.6.: VerWunderLand – Open Air Theater in der Grünfläche Isabella-Braun-Weg am 10.05.2025; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.7.: Tag der offenen Tür der FFW Oberföhring am 10.05.2025 in der Muspillistr. 25; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.8.: Flohmarkt von Kindern für Kinder am 10.05.2025 im Bürgermeisterpark (Ismaninger Str. 95); Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.12.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Sicherheit für Radfahrende an der Kreuzung Englschalkinger-/Ostpreußenstraße erhöhen
+- TOP 6.2.: Einbeziehung der Bestandsbebauung in die Wärmeplanung des Entwicklungsgebiets Münchner Nordosten
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Kommunalwahl 2026: Voraussetzungen für die Bildung von Fraktionszusammenschlüssen und Ausschussgemeinschaften
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Programm Barrierefreier Ausbau von Bushaltestellen: Scheinerstraße - Haltestelle Wehrlestraße
+- TOP 7.2.2.: Möhlstraße zwischen Hompeschstraße und Neuberghauser Straße: Errichtung einer Querungsinsel; Beschluss des BA 13 - Rückmeldung des Baureferats zum BA-Beschluss -
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Ruth-Drexel-Straße: Einrichtung eines absoluten Haltverbots
+- TOP 7.3.2.: Mauerkircherstraße (Westseite) gegenüber Hausnummern 2-4: Ausweitung absolutes Haltverbot (Z. 283 StVO)
+- TOP 7.3.3.: Johanneskirchner Str. 147 (Nordseite): Ausweitung absolutes Haltverbot (Z. 28)
+- TOP 7.3.4.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 7.3.5.: Brodersenstr. 34: Anordnung Gefahrzeichen und Piktogramm an Ausgang der Flüchtlingsunterkunft - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.3.6.: Verbesserung der Schulwegsicherheit an der Ernst-Reuter-Grundschule; Anliegen aus der Bürgerschaft - Rückmeldung des Mobilitätsreferats zum BA-Beschluss -
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Sondernutzung zum Projekt Champions Innovate - Installation der Equip-Boxen; Information des Kreisverwaltungsreferats
+- TOP 7.5.2.: Unterrichtung für eine unveränderte Gaststättenfortführung: - Rappelhofstr. 4
+- TOP 7.5.3.: Fit im Park der LHM ab 01.05.2025 bis 30.09.2025 im Prinz-Eugen-Park - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 7.7.2.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 7.7.3.: Cosimastr. 234
+- TOP 7.7.4.: Neubau der Straßenbahnstrecke Tram Nordtangente Planfeststellungsabschnitt 3 Cosimastraße – S-Bahnhof Johanneskirchen; Planfeststellungsverfahren - Tektur C Abdruck der städt. Stellungnahme
+- TOP 7.7.5.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 7.7.6.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 7.7.7.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Vollzug der Satzung über das Verbot der Zweckentfremdung von Wohnraum: - Nettelbeckstr. 22 - Seeligerstr. 4, 6 und 8
+- TOP 7.9.2.: (U) Unterkünfte für Geflüchtete in Englschalking/Daglfing
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Mobilfunkmaßnahmen
+- TOP 7.15.2.: Beteiligung der Kommunen beim Mobilfunkausbau; Behandlung der Zuschriften der Netzbetreiberfirmen künftig in öffentlicher Sitzung
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.16.1.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.18.1.: Information der SWM über Baustellen: - Stromprojekt Netzerweiterung Schichtlstraße, Rennbahnstraße, Kunihohstraße - Kunihohstraße Kunihohstraße - Fernwärmeprojekt Fürkhofstraße
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.1.14.: Freischützstraße 96: Aktueller Stand der Planung; Anliegen aus der Bürgerschaft
+- TOP 2.3.4.: Isarring 29 - 125: Fahrbahnsanierung - Erinnerungsverfahren; Anhörung des Baureferats
+- TOP 2.7.9.: VerWunderLand – Open Air Theater in der Grünfläche Zahnbrecherweg am 25.05.2025; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.10.: Umgehende Instandsetzung der Freifläche des Kindertreffs Bogenhausen durch den Gartenbau; Antrag der SPD-Fraktion
