@@ -1,0 +1,82 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-04-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634803
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634803
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 11.03.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Glasfaserausbau im 19. Stadtbezirk: Die Telekom Deutschland GmbH informiert
+- TOP 5.12.: -Nachtrag- (A) Verkehrsrechtliche Anordnung: Forst-Kasten-Allee 115; Neuregelung an der Zufahrt
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: Jahresempfang 2025 des Bezirksausschuss 19
+- TOP 3.3.: (E) Stadtbezirksbudget Die Klosterspatzen e.V. „Anschaffungen für die Kinderkrippe vom 07.04. -31.08.2025“ 5.000,00 € / AZ: 0262.0-19-0570
+- TOP 3.4.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik, Lied und Tanz e.V. Bayerwaldhaus im Westpark vom 21.04. -10.05.2025 8.000,00€; Az. 0262.0-19-0568
+- TOP 3.5.: (E) Stadtbezirksbudget animato münchner orchester e.V. Konzert im Gemeindesaal Heilig Kreuz in München - Forstenried vom 15.04.25 - 15.07.25 1410,00€; Az. 0262.0-19-0573
+- TOP 3.6.: (E) Stadtbezirksbudget Interessengemeinschaft Surfen in München e.V. Mäharbeiten zur Stabilisierung der Surfwelle an der Floßlände vom 28.04.2025 - 28.09.2025 9.331,67€; Az. 0262.0-19-0571
+- TOP 3.7.: (E) Stadtbezirksbudget Mobil und sicher im Alltag e.V. Barrierefreie Stadtbezirkskarten für mehr Teilhabe von Menschen mit Behinderung vom 12.04. -30.09.2025 5.462,50€; Az. 0262.0-19-0575
+- TOP 3.8.: (E) Stadtbezirksbudget Kath. öff. Bücherei St. Johann Baptist Solln Aktualisierung des Bestandes, mit Schwerpunkt Kinder- und Jugendbücher vom 15.04.2025 - 15.07.2025 750,00€; Az. 0262.0-19-0572
+- TOP 3.9.: (A) Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2025 bis 2029
+- TOP 3.10.: (E) Stadtbezirksbudget Maibaumverein Forstenried e.V. Abbau des Maibaums im Dorfkern Forstenried vom 13. -25.10.2025 6.661,68€; Az. 0262.0-19-0576
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Weiterer Behindertenparkplatz Parkplatz Herterichstraße 139
+- TOP 5.2.: (A) Novellierung der Straßenverkehrsordnung – Prüfung von potenziellen Tempo 30 Anordnungen
+- TOP 5.3.: (E) Erhalt des Obst- und Gemüsestandes am Fellerer Platz Empfehlung Nr. 20-26 / E 02287 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 17.10.2024
+- TOP 5.4.: Bürgersteig Sicherheit in der Georg-Strebl-Straße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Gefahrzeichen „Kreuzung oder Einmündung“ nördlich der Possenhofener Straße in der Würmseestraße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Hol- und Bringzone für Kindertagesstätte in der Tölzer Straße 3a
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot im Bereich der Parkplatzzufahrt in der Graubündener Straße 100
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Hofbrunnstraße
+- TOP 5.9.: Baustellenbedingte Einbahnregelung Wolfratshauser Straße - Information
+- TOP 5.10.: Geteilte Abstellflächen für Mikromobilitätsangebote – Information
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Graubündener Straße 77
+- TOP 6.2.2: Kandinskystraße 16
+- TOP 6.2.3: Baierbrunner Straße 31
+- TOP 6.2.4: Oberstdorfer Straße 25
+- TOP 6.2.5: Am Isarkanal 36 (T)
+- TOP 6.2.6: Herterichstr. Flurnummer 117/0
+- TOP 6.2.7: Wolfratshauser Straße 205 (VB)
+- TOP 6.2.8: Bellinzonastraße 1
+- TOP 6.2.9: Bleibtreustraße 18 (VB)
+- TOP 6.2.10: Memlingstraße 17
+- TOP 6.3.: (A) Bebauungsplan Nr. 1 „Großhesselohe“ Gemeinde Pullach
+- TOP 6.4.: (A) Bebauungsplan Nr. 15 „Gartenstadt“ Gemeinde Pullach
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Bekanntgabe zur Absage der Eröffnung der dezentralen Unterkunft für Geflüchtete in der Baierbrunner Straße 30
+- TOP 7.3.: (Antrag) Sportliche Betätigung im Stadtbezirk erhalten
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Dorffest Forstenried am 13. und 14. September 2025
+- TOP 8.3.: (U) Verkaufsstand an der Forstenrieder Allee
+- TOP 8.4.: (A) Veranstaltung: „Tanz. Die. Invasion.“ vom 26.06.-Sa. 28.06.2025 am Christel-Küpper-Platz
+- TOP 8.5.: (A) Veranstaltung: "VerWunderLand - OpenAir-Theater" am 24.05.2025 auf dem Thalkirchner Platz
+- TOP 9: Verschiedenes
+- TOP 5.1.2: Sambergerstraße als Schulstraße widmen
+- TOP 2.4.: (Anfrage) Fragen zur Zukunft des Bad Forstenried
+- TOP 5.11.: (Anfrage) Umgang mit E-Scootern im Stadtbezirk 19
+- TOP 8.6.: (A) Veranstaltung: Spielaktionen Spiellandschaft Stadt im Mai bis Oktober 2025
+- TOP 5.1.3: Fahrradständer Bushaltestelle Waldfriedhof Solln
