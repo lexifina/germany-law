@@ -1,0 +1,159 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2025-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8465429
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8465429
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Parklizenzgebiet Scharfreiterplatz (FF UA MuV)
+- TOP 2.1.2.2.: Bürgeranliegen; Parklet- Schlierseestr. (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Neugestaltung Grünspitz (FF UA Umwelt)
+- TOP 2.1.2.4.: Bürgeranliegen; Beendigung Verkehrsbehinderung und Stau durch Popup Radspur Kreuzung Martin Luther-Straße/Ichostrasse (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1.: Erarbeitung eines integrierten Quartierskonzepts für das Quartier "Martin-Luther-Straße" (Wärmeplanung)
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Alzstr. 21 - 23
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA - Vertagung aus der März + April - Sitzung) Gesellschaft für Soziale Arbeit gGmbH Deutschkurse für Anfänger:innen und Fortgeschrittene vom 25.03. -31.12.2025 3.445,00€; 0262.0-17-0479
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Theaterinitiative Iones Company Triumph des Todes oder Das große Massakerspiel von Eugene Ionesco am 04. und 05.06.2025 19.625,99 €; Az. 0262.0-17-0481
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA FSA) Nachbarschaftstreff Giesing -QuarterM gGmbH Ratschbankerl vom 01.05. -31.12.2025 1.5000,00€; Az. 0262.0-17-0482
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Kultur) Inklusionat e.V. Lookbook-Muc 2025 vom 19.05. -31.12.2025 3.090,00€; Az. 0262.0-17-0484
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Tegernseer Landstr. 104 - Neubau eines temporären, eingeschossigen Verkaufskiosk mit Überdachung und Treppenanlage mit Rampe. Aufstellung eines temporären Sanitärcontainers . Erstellung eines Untergrundes für temporäre Bühnennutzung
+- TOP 6.1.3.2.: Aignerstr. 14 - Umbau und Sanierung des städtischen Anwesens Aignerstraße 14 für die Nutzung als KITA in München (vertagt in der Sitzung vom 11.03.2025)
+- TOP 6.1.3.3.: Tegernseer Landstr. 189 - Ausbau des bestehenden Rückgebäudes mit Erweiterung an der Tegernseer Landstr. 189,189a - VORBESCHEID
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung "Trauchberger-/Forggenseestr. - Forggenseestr. 64 - Chiemgaustr. 73 - Weißenseestr. 38
+- TOP 6.1.4.2.: Bürgerbeteiligung und Kommunikation ist auch nach der DRPR Richtlinie zu erfolgen (Nachverdichtung Perlacher Forst)
+- TOP 6.1.4.3.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 6.1.4.4.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 6.1.4.5.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 6.1.4.6.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 6.1.4.7.: Stellungnahme des BA 18 Untergiesing - Harlaching Temporärer Veranstaltungspavillon am Sankt-Quirin-Platz
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024 Sitzungsvorlage Nr. 20-26 / V 15446 – Unterlagen unter TOP 7.3.2.4
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP 6.3.1.1.: Evtl. Vorstellung Planungsstand Regerbrücke Teilnahme eines Vertreters des Baureferates im UA
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Einführung einer Countdown-Ampel mit eigener Grünphase für alle Fußgänger
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Raumaufteilung Martin-Luther Str. - Einschätzung des BA
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Antwortschreiben auf ein Bürgeranliegen; Umwandlung der Raintaler Str. zwischen St. Martin-Str. und Perlacher Str. in eine Fahrradstr.
+- TOP 6.3.4.2.: Parkraummanagement - Änderungen im Parklizenzgebiet St.-Martins-Platz hier: Verkehrsrechtliche Anordnung nach § 45 StVO -Maxlrainstr. -Schlierseestr. -Spitzingplatz
+- TOP 6.3.4.3.: Antwortschreiben auf ein Bürgeranliegen; Tempo 30 Zonen - Beschilderung
+- TOP 6.3.4.4.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 der Straßenverkehrs-Ordnung (StVO) hier: Arbeiten im Straßenraum; Severinstr. 2 - 6
+- TOP 6.3.4.5.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 6.3.4.6.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Verlängerung eines absoluten Halteverbots - Aignerstr.
+- TOP 6.3.4.7.: Antwortschreiben auf ein Bürgeranliegen; Illegaler Schwerlastverkehr am Mittleren Ring
+- TOP 6.3.4.8.: Verkehrsrechtliche Anhörung – Anordnung Halteverbot Feuerwehr Fockensteinstr. (Vorabentscheidung durch die BA – Vorsitzende am 27.03.2025)
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Schutz des Grünzugs Hachinger Tal bei einem Beschluss des Bebauungsplanes "Zukunftspark Neubiberg" Empfehlung Nr. 20-26 / E 02256 der Bürgerversammlung des Stadtbezirks 17 - Obergiesing-Fasangarten vom 15.10.2024 Sitzungsvorlage Nr. 20-26 / V 15927 (Frist bis 11.04.2025)
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Info zur temporären Einzäunung des Biotop Weißenseepark
+- TOP 6.4.4.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 6.4.4.3.: Erstinformation über die geplante Errichtung von Mobilfunksendeanlagen - Tassiloplatz
+- TOP 6.4.4.4.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024 Sitzungsvorlage Nr. 20-26 / V 15446 – Unterlagen unter TOP 7.3.2.4
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund; "Open Air Konzerte" ab 09.05.2025 am Giesinger Bahnhof ( Frist bis 20.04.2025)
+- TOP 6.5.3.2.: Veranstaltung auf öffentlichen Verkehrsgrund; hier; Flohmarkt am Giesinger Bahnhofsplatz
+- TOP 6.5.3.3.: Veranstaltung auf öffentlichen Verkehrsgrund; hier: "Spielaktion BiLok" am 10-12.06.2025 am Weißenseeplatz (Frist 30.04.2025)
+- TOP 6.5.3.4.: Veranstaltung auf öffentlichen Verkehrsgrund; hier: "Auferstehung Jesu Christi (Osterfest)" am 19.04.2025 - Fasangartenstr. 27A
+- TOP 6.5.3.5.: Veranstaltung auf öffentlichen Verkehrsgrund; hier; "Giesinger Bahnhofsfest" am 13/14.09.2025 - Giesinger Bahnhofsplatz (Frist bis 30.06.2025)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Genehmigung einer öffentlichen- rechtlichen Sondernutzungserlaubnis hier: Fahrradsicherheitscheck
+- TOP 6.5.4.2.: Stadtratsantrag Nr. 20-26 A03623; Pilotbezirke Street Art und Graffiti, Flächenpool - Absage
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) hier: Tegernseer Landstr. 27- Ristorante Pizziamo
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Bürgeranliegen; Foodtrucks für die Stadtviertel (FF UA Wirtschaft)
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Unveränderte Fortführung eines Gaststättenbetriebes hier: Cataley Lounge, St. Bonifatius Str.
+- TOP 6.6.4.2.: unveränderte Fortführung eines Gaststättenbetriebes hier: Playbar und Play 83, Schlierseestr. 83
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren (Frist bis 25.04.2025) Fortschreibung für die Jahr 2025-2029
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Antwortschreiben der Deutschen Post AG - Schließung der Postfiliale Tegernseer Platz
+- TOP 7.3.2.: Bebauung südlicher McGraw Graben - Info aktueller Sachstand
+- TOP 7.3.3.: Rückmeldung der Bezirksausschüsse zum Antrag Nr. 20-26 / 07422 des BA 17 Postfiliale am Tegernseer Platz
+- TOP 7.3.4.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München (FF UA FSA + UA Umwelt) im Zeitraum 2022 - 2024
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: UA - Sitzungstermine im April
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.5.3.6.: Veranstaltung auf öffentlichen Verkehrsgrund; hier: Spielaktion Spiellandschaft Stadt von Mai - Oktober (Frist 22.04.2025)
+- TOP 6.5.3.7.: Veranstaltung auf öffentlichen Grund; hier: Sondernutzung Europamobil on Tour am 23.04.2025 - Deisenhofener Str. 20(Frist 15.04.2025)
+- TOP 1.2.1.: evtl. Nachtrag; TOP 6.5.3.6 Veranstaltung auf öffentlichen Verkehrsgrund; hier: Spielaktion Spiellandschaft Stadt von Mai - Oktober (Frist 22.04.2025) TOP 6.5.3.7 Veranstaltung auf öffentlichen Grund; hier: Sondernutzung Europamobil on Tour am 23.04.2025 - Deisenhofener Str. 20 (Frist 15.04.2025) TOP 6.3.5.1 Anfrage an das Polizeipräsidium betr. illegalen Schwerlastverkehr auf dem Mittleren Ring TOP 6.3.5.2 Anfrage betr. den geplanten Nahversorger auf dem McGraw-Gelände
