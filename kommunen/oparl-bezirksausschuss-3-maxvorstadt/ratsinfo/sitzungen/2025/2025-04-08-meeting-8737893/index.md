@@ -1,0 +1,168 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8737893
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8737893
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: RAW, MMG und VDA: Vorstellung der Planungen IAA 2025
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Anfrage zur barrierefreien Lade-Infrastruktur in der Maxvorstadt
+- TOP 6.2.: Schulwegsicherheit im Arnulfpark
+- TOP 6.3.: Müllflut in der Maxvorstadt eindämmen!
+- TOP 6.4.: Antrag zur Öffnung der Schulhöfe in der Maxvorstadt in Abstimmung mit den Schulleitungen
+- TOP 6.5.: Prüfung Denkmalschutz Augustenstr. 95
+- TOP 6.6.: Nachfrage Leerstand Mehrfamilienhaus Steinheilstr. 1
+- TOP 6.7.: Luisenstraße 22, Baumaßnahme Paul-Heyse-Villa
+- TOP 6.9.: Schaffung neuer Aufenthalts- und Grünflächen in der Maxvorstadt
+- TOP 6.10.: Leistungsfähigkeit der Paul-Heyse-Unterführung noch vor Sperrung des Bahnhofsvorplatzes nachhaltig steigern.
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nachfrage Mietsituation am ehemaligen Volkstheater
+- TOP 1.2.2.: Der BA 3 fordert die LHM auf, bis zum 30.9.2025 eine neue Freiflächengestaltungssatzung auf Grundlage des neuen Art. 83 Abs. 5 Satz 1 BayBO zu erlassen.
+- TOP 1.2.3.: Stellplatzverordnung – Reduzierung von Stellplätzen und Verlagerung unter das Gebäude
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten KW09, KW10, KW11, KW12
+- TOP 2.1.2.: WEB-Listen der LBK: KW 09-11
+- TOP 2.1.3.: Theresienstr. 154 Energetische Sanierung Rückgebäude Abbruch des oberirdischen Hofgebäudes und Errichtung eines Verbindungsbaues - VORBESCHEID
+- TOP 2.1.4.: Karlstr. 44 zur Nutzungsänderung einer Gewerbeeinheit in gewerbliches Wohnen sowie Zubau einer Fluchtleiter an der Fassade - ÄNDERUNGSANTRAG zu 1.2-2023-4212-22 - Hier: Entfall der Fluchtleiter sowie Reduzierung von 6 auf 4 Wohneinheiten
+- TOP 2.1.5.: Königinstr. 35 Anbau eines Wintergartens an ein bestehendes Wohnhaus
+- TOP 2.1.6.: Erzgießereistr. 42 Nutzungsänderung von einem Kellerraum in eine Ferienwohnung
+- TOP 2.1.7.: Enhuberstr. 6, Abbruch und Neubau des Seiten- und Rückgebäudes - VORBESCHEID Enhuberstr 6 und 8
+- TOP 2.1.8.: Luisenstraße 43
+- TOP 2.1.9.: Neureuther Str. 1 a
+- TOP 2.1.10.: Barer Str. 45, Nutzungsänderung Zubereitung Metzgerei in Wohnung, Anbau Balkon 1.OG RGB
+- TOP 2.1.11.: Gabelsbergerstr. 28, Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit Tiefgarage
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Benehmensverfahren Denkmaleigenschaft Rundfunkpl. 1 (BR-Studiobau)
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag vom 05.03.2025 auf dem Grundstück Barer Str. 22 I Frist: 10.04.2025
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Mülleinsammlung durch die Partie 18-120, Einsatzgebiet Blutenburgstraße, Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 5.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahmen der Landeshauptstadt München im offiziellen Beteiligungsverfahren
+- TOP 5.3.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 5.4.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 5.5.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Verbesserung der Parkplatzsituation für Anwohner im „Akademieviertel“
+- TOP 1.1.2.: Verkehrssicherheit in der Katharina-von-Bora-Straße
+- TOP 1.1.3.: Zukunft Cabus und gegenüberliegendes Kino
+- TOP 1.1.4.: Wärmestube Nähe Dachauer Str. 17 und 13-15
+- TOP 1.1.5.: Schulwegsicherheit an der Schwindschule; hier: Antrag auf Dialogschild in der Görresstr.
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Dialogdisplays in den Münchner Stadtvierteln ohne Folgekosten ermöglichen!
+- TOP 1.2.2.: Hofflohmärkte – Josephsplatz als Abgabeort für Schrotträder
+- TOP 1.2.3.: Hofflohmärkte – Josephsplatz als offizielle Tauschbörse
+- TOP 1.2.4.: Piktogramme Radfahren verboten auf dem Gehweg Josephsstraße und Augustenstraße zur Josephsstraße bzw. zum Josephsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anpassungen Shared Mobility
+- TOP 2.1.2.: Arcisstraße Zeichen 274. Änderung der Zusatzzeichen- Anhörung
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Ausnahmegenehmigung nach Sondernutzungsrichtlinien - Pilotphase für Foodtrucks
+- TOP 2.2.2.: (E) Leerstand des ehemaligen Restaurants Cabus
+- TOP 2.2.3.: Eltern-Kind-Initiative „LMU-Rabauken e.V.“ Parklet in der Neureutherstraße
+- TOP 2.2.4.: (E) Stadtbezirksbudget LMU-Rabauken e.V. Parklet Neureutestraße 16 vom 26.04. - 25.10.2025 1.920,00€; Az. 0262.0-3-0586
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schellingstraße 91, Neuantrag Schanigarten
+- TOP 2.3.2.: Schellingstraße 59, Neuantrag Schanigarten
+- TOP 2.3.3.: Max-Joseph-Str. 5, Antrag Schanigarten
+- TOP 2.3.4.: Freischankfläche Amalienstr. 57
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Bez. 03, Wittelsbacherplatz | Anhörung Marktveranstaltung öff. Grund "Hamburger Fischmarkt" am 29.05. - 10.06.2025 | Anhörungsfrist: 02.05.2025
+- TOP 2.4.2.: Königsplatz (Bez.3) - Gedenkveranstaltung "München liest aus verbrannten Büchern" am 10.05.2025 – Termin 22.04.2025
+- TOP 2.4.3.: Anhörung: Königsplatz (Bez. 3) Fan Meeting Point und Public Viewing anlässlich des Finales der Champions League am 31.05.2025
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Unveränderte Gaststättenfortführungen
+- TOP 3.3.: Verkehrsrechtliche Anordnungen
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: Baumaßnahmen der SWM
+- TOP 3.6.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.7.: Antrag auf Sondernutzung zum Projekt Champions Innovate
+- TOP 3.8.: Antwort der Stadtverwaltung auf Rückfrage des BAs bzgl. TOP C 2.1.4 aus 02/25: Schreiben des Mobilitätsreferenten zu potenziellen Tempo 30 Anordnungen
+- TOP 3.9.: entfällt
+- TOP 3.10.: EILT: Bez. 03, Wittelsbacherplatz | Anhörung Veranstaltung auf öff. Grund "SpaceBuzz Rakete" am 29.03.2025 | Anhörungsfrist: 24.03.2025
+- TOP 3.11.: Bescheid Amalienstraße 57, Nutzungsänderung Kiosk mit Nachtausschank
+- TOP 3.12.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 3.13.: Höchstgeschwindigkeit auf 30 km/h im Bereich des Alen Nördlichen Friedhofs
+- TOP 3.14.: Antwortschreiben zu Antrag der CSU-Fraktion im BA3 "Hinweisschilder auf das Taubenfütterungsverbot - Verständigungsmöglichkeit der Straßenreinigung"
+- TOP 3.15.: Aktionen Mehr Rad im Viertel in Maxvorstadt
+- TOP 3.16.: Display Ampel Dachauer Straße zwischen Maßmann- und Heßstraße
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Beleuchtung Bolzplatz Alter Nördlicher Friedhof
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Mehrjahresinvestitionsprogramm (MIP) 2024 – 2028
+- TOP 2.2.: (E) Stadtbezirksbudget Katholische Pfarrkirchenstiftung ST.Benno Maibaum für das Benno Viertel vom 22.04.25 - 01.05.25 3.020,00€ Az:0262.0-3-0588
+- TOP 2.3.: (E) Stadtbezirksbudget Elternbeirat des Städtischen Luisengymnasiums München Wo-De Sicherheitsschulung für Schülerinnen und Schüler, 24.01. - 13.02.2025 5.136,00 €; Az. 0262.0-3-0574
+- TOP 2.4.: (E) Stadtbezirksbudget Entdeckerwerkstatt e.V. Gartensanierung vom 14.04. - 31.05.2025 9.869,83 Euro, Az.: 0262.0-3-0585
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "6th man" "6th man" ab 26.04. - Mitte Mai 2025 3.750,00 Euro, Az.: 0262.0-3-0587
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "The Story that Ends from the Beginning" "The Story that Ends from the Beginning" vom 03.05. - 30.05.2025 4.000,00 Euro, Az.: 0262.0-3-0590
+- TOP 2.3.: (E) Stadtbezirksbudget TIP Theory in Practice TIP Halbjahresprogramm vom 25.02. - 15.08.2025 9.700,00 Euro, Az.: 0262.0-3-0572
+- TOP 2.4.: (E) Stadtbezirksbudget CultureClouds e.V. Rampenlichter DemokrARTie vom 20.01. - 31.12.2025 3.375,00 Euro, Az.: 0262.0.3.0568
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: (U) Gewährung von Zuschüssen durch den Kulturbaufonds
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Aufräumaktion Bürgerbüro
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.3.5.: Gaststätte, Augustenstr. 37- FSF und Schanigarten Erweiterung
+- TOP 2.3.6.: Gaststätte, Georgenstr 103- Schanigarten
+- TOP 2.3.7.: Bäckerei, Amalienstraße 42-FSF
+- TOP 2.4.4.: Bez. 03 | Anhörungsverfahren für das VerWunderLand - OpenAir-Theater am 29.05.2025 (Ersatztermin am 01.06.2025 | Anhörungsfrist: 30.04.2025
+- TOP 1.1.6.: Parkverwarnung
+- TOP 4.3.: Stadtratsantrag Nr. 20-26 A03623; Pilotbezirke Street Art und Graffiti, Flächenpool
+- TOP 1.2.5.: Einbindung in Planung nördliche Arcisstraße
+- TOP 2.1.3.: Zukünftige Fahrradstraße Königinstraße- Bitte um Stellungnahme
+- TOP 3.17.: Information über Vorabmaßnahme U-Bahnstrecke U9
+- TOP 1.2.: BA 03 Quartalsübersicht I/2025- Stadtbezirksbudget
+- TOP 1.1.7.: Kita an der Dachauerstr- Sicherheit im Viertel
+- TOP 1.1.8.: Kita an der Dachauerstr- Sicherheit im Viertel
+- TOP 1.3.: Budget Kinder- und Jugendversammlung Maxvorstadt
+- TOP 1.2.1.: Unterstützung Kulturprogramm Alter Botanischer Garten
+- TOP 6.8.: Baumaßnahme „Paul-Heyse-Villa“ – Strenge Begleitung durch die untere Denkmalschutzbehörde
