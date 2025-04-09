@@ -34,7 +34,7 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 2.1.1 | Persönliche Einsichtnahme mit Inanspruchnahme einer Dienstkraft | 70 je Stunde Für jede angefangene halbe Stunde ist der halbe Stundensatz zu erheben. | 
  | 2.1.2 | Schriftliche Auskünfte aus dem Berechtsamsbuch, den Berechtsamsurkunden oder der Berechtsamskarte nach § 76 Abs. 2 BBergG | 70 je Stunde Für jede angefangene halbe Stunde ist der halbe Stundensatz zu erheben. | 
  | 2.2 | Ablichtungen, Ausdrucke oder Auszüge von Berechtsamsbuch, Berechtsamskarte, anderen von der Bergbehörde geführten Karten oder bei ihr vorhandenen Akten, Rissen oder sonstigen Unterlagen |  | 
- | 2.2.1 | bis Format DIN A 3 | nach Anlage 6 zu § 1 Nr. 5 | 
+ | 2.2.1 | bis Format DIN A 3 | nach Anlage 4 zu § 1 Nr. 5 | 
  | 2.2.2 | größer als Format DIN A 3 bis DIN A 1 | 3,25 bis 13 je Seite | 
  | 2.2.3 | größer als Format DIN A 1 | 13 bis 26 je Seite | 
  | 2.2.4 | bei Verwendung von Folien als Zeichenträger |  | 

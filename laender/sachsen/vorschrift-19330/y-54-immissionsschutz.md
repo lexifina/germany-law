@@ -29,7 +29,11 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 1.1.2 | über 128 000 EUR bis 256 000 EUR | 3 098, zuzüglich 1,34 Prozent der 128 000 EUR übersteigenden Errichtungskosten | 
  | 1.1.3 | über 256 000 EUR bis 511 000 EUR | 4 813, zuzüglich 0,75 Prozent der 256 000 EUR übersteigenden Errichtungskosten | 
  | 1.1.4 | über 511 000 EUR bis 2 556 000 EUR | 6 725, zuzüglich 0,33 Prozent der 511 000 EUR übersteigenden Errichtungskosten | 
- | 1.1.5 | über 2 556 000 EUR | 13 473, zuzüglich 0,05 Prozent der 2 556 000 EUR übersteigenden Errichtungskosten | 
+ | 1.1.5 | 2 556 000 EUR bis 5 000 000 EUR | 13 473, zuzüglich 0,17 Prozent der 2 556 000 EUR übersteigenden Investitionskosten | 
+ | 1.1.6 | 5 000 000 EUR bis 250 000 000 EUR | 17 629, zuzüglich 0,08 Prozent der 5 000 000 EUR übersteigenden Investitionskosten | 
+ | 1.1.7 | 250 000 000 EUR bis 750 000 000 EUR | 213 629, zuzüglich 0,04 Prozent der 250 000 000 EUR übersteigenden Investitionskosten | 
+ | 1.1.8 | 750 000 000 EUR bis 1 500 000 000 EUR | 413 629, zuzüglich 0,02 Prozent der 750 000 000 EUR übersteigenden Investitionskosten | 
+ | 1.1.9 | über 1 500 000 000 EUR | 563 629, zuzüglich 0,01 Prozent der 1 500 000 000 EUR übersteigenden Investitionskosten. | 
  | 1.2 | Genehmigung zur Errichtung und zum Betrieb von Anlagen nach § 4 Abs. 1 Satz 1 BImSchG im vereinfachten Verfahren nach § 19 Abs. 1 BImSchG | 75 Prozent der Gebühr nach Tarifstelle 1.1 | 
  | 1.3 | Teilgenehmigung nach § 8 Abs. 1 BImSchG | Gebühr nach Tarifstelle 1.1 oder 1.2, bezogen auf den jeweiligen Anlagenteil | 
  | 1.4 | Änderungsgenehmigung nach § 16 Abs. 1 Satz 1, § 16a Satz 1 oder § 23b Abs. 1 Satz 1 BImSchG | Gebühr nach Tarifstelle 1.1 oder 1.2, bezogen auf die Kosten der Änderung | 

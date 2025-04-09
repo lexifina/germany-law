@@ -54,7 +54,7 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 2.4.1 | Abkürzung der Frist zur erneuten Untersuchung auf Vorschlag des ermächtigten Arztes / der ermächtigten Ärztin für beruflich exponierte Personen der Kategorie A nach § 77 Abs. 3 StrlSchV | 70 bis 400 | 
  | 2.4.2 | Anordnung von Maßnahmen der ärztlichen Überwachung von beruflich exponierten Personen der Kategorie B nach § 77 Abs. 4 StrlSchV | 70 bis 370 | 
  | 2.4.3 | Anordnung der Untersuchung von Personen unter 18 Jahren, die eine berufliche Exposition erhalten, nach § 77 Abs. 5 StrlSchV | 70 bis 400 | 
- | 2.4.4 | Entscheidung über die vom ermächtigten Arzt / von der ermächtigten Ärztin in der ärztlichen Bescheinigung getroffene Beurteilung nach § 80 Abs.1 StrlSchV | 70 bis 400 | 
+ | 2.4.4 | Entscheidung über die vom ermächtigten Arzt / von der ermächtigten Ärztin in der ärztlichen Bescheinigung getroffene Beurteilung nach § 80 Abs. 1 StrlSchV | 70 bis 400 | 
  | 2.4.5 | Anordnung, dass eine Aufgabe nicht oder nur eingeschränkt ausgeübt werden darf, nach § 81 Abs. 2 StrlSchV | 70 bis 280 | 
  | 2.4.6 | Entscheidung über das Ergebnis der besonderen ärztlichen Überwachung nach § 81 Abs. 3 StrlSchV | 70 bis 300 | 
  | 2.5 | Sicherheit von Strahlenquellen |  | 
