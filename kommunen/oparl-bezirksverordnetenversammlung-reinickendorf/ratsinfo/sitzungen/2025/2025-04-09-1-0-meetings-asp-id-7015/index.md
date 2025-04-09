@@ -1,0 +1,114 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-04-09T17:00:00+02:00
+- Ende: 2025-04-09T19:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7015
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7015
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=553507
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Würdigung und Erhalten der Sternhäuser - beantwortet
+- TOP 3.2: Sichere Querung des Senftenberger Rings in Höhe der Bus-Haltestelle Märkische Zeile im Märkischen Viertel - zurückgezogen
+- TOP 3.3: Photovoltaikanlagen auf den bezirkseigenen Dächern, insbesondere dem Rathausdach - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 41. Sitzung der BVV am 09.04.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: "Ente" gut, alles gut? - Neues vom Entenkeller in Frohnau - beantwortet
+- TOP 5.2: Machbarkeitsstudie Heinsestraße - beantwortet
+- TOP 5.3: Maßnahmen zur Verbesserung des Radverkehrs - beantwortet
+- TOP 5.4: Ertüchtigung des Alten Bernauer Heerweg - beantwortet
+- TOP 5.5: Wie sicher sind Reinickendorfs Brücken? - beantwortet
+- TOP 5.6: Umsetzung der Auszahlung der Tarifmittel für Reinickendorfer Zuwendungsprojekte für soziale Arbeit - beantwortet
+- TOP 5.7: Reinickendorfer Gesundheitstag - beantwortet
+- TOP 5.8: Videoaufnahmen auf öffentlichen Spielflächen im Bezirk - beantwortet
+- TOP 5.9: Spielplatz Senftenberger Ring - beantwortet
+- TOP 5.10: Rathausvorplatz - beantwortet
+- TOP 5.11: Einzäunung des Hundeauslaufgebiets in Frohnau - beantwortet
+- TOP 5.12: Baustelle in der Neubrücker Straße in Frohnau - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Jugendarbeit im Haus der Jugend erhalten (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Darstellung der Bezirksverordnetenversammlung auf den Infotafeln im Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Förderung des "Zukunftstags" an Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Gegen das Vergessen: die Stolperstein Deutschland App im Bezirk Reinickendorf bekannter machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Den Weltraum in die Reinickendorfer Schulen holen- Bekanntmachung der mobilen Planetariumskuppel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Planung Tramführung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Basketballplatz auf dem Schulhof der Max-Beckmann-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Ausstellung des Cartoonisten Axel Hörnig in Reinickendorf unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Querungshilfe für Grundschulkinder - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.9: Tempo 30 vor der Hermann-Schulz-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Spielplatz am Schäfersee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Erfahrungsbericht des Patientenfürsprechers der Caritas Klinik Dominikus (Bereich Somatik) vom 10.07.-31.12.2024 - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Grundschulplätze in Reinickendorf (Ost) - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Beschluss über den Bebauungsplanentwurf 12-54 vom 15.12.2020 mit Deckblatt vom 02.09.2021 für eine Teilfläche des Golgatha-Gnaden-Friedhofs, Holländerstraße 36, 36A und einen Abschnitt der Holländerstraße im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 10.2: Anmeldung für das Investitionsprogramm 2025 bis 2029 - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Ausweisung eines Landschaftsschutzgebietes für das KaBoN-Gelände - in der BVV abgelehnt
+- TOP 11.2: Durchsetzung der Verkehrsberuhigung im Luisenweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Hinweisschild auf Fahrbahnverengung - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: UN-Kinderrechtskonventionen - Umsetzung im Bezirk gewährleistet? - in der BVV abgelehnt
+- TOP 11.5: Barrierefreiheit am S-Bahnhof Wittenau (Eingang Göschenplatz) herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Einen öffentlichen Spielplatz für das ehemalige TetraPak-Gelände - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Einrichtung von Abstellflächen für E-Scooter und Mieträder am U-Bahnhof Kurt-Schumacher-Platz - in der BVV abgelehnt
+- TOP 11.8: Granatenstraße: ruhenden und rollenden Verkehr neu ordnen - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Aroser Allee: Einhaltung der Tempolimits, Verhinderung von illegalen Auto- und Motorradrennen - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Elektromotoren auch im Wassersport - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Halteordnung für BVG-Linienbusse am U-Bahnhof Alt-Tegel Richtung Norden einhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Schlaglochmelder einrichten - erledigt
+- TOP 11.13: Stärkung der Spiel- und Sportangebote auf dem Schulhof des Thomas-Mann-Gymnasiums - mit Änderungen in der BVV beschlossen
+- TOP 11.14: Einsatz von Bodycams in Verbundeinsätzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Schäferseepark III - Videoaufklärung am Schäferseepark - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Sauberkeit schafft Sicherheit: Vierte Mahd für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Projekt zur Ausbildung von Ehrenamtlichen zu Katastrophenschützer*innen starten - in der BVV abgelehnt
+- TOP 11.18: Haushaltswirtschaft mit Augenmaß: Soziale Infrastruktur schützen und erhalten - in der BVV abgelehnt
+- TOP 11.19: Baumpflanzung auf dem Platz vor dem Borsigtor - mit Änderungen in der BVV beschlossen
+- TOP 11.20: Neubau der Münchhausen-Grundschule umsetzen - erledigt
+- TOP 11.21: Abenteuer Beruf - erledigt
+- TOP 11.22: Berufspat*innen - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2023 Berichterstatterin: Bezirksbürgermeisterin Emine Demirbüken-Wegner - ohne Änderungen in der BVV beschlossen
+- TOP 11.24: Verbesserung der Beleuchtung in der Baseler Straße und im Bereich des "Schwarzen Grabens" - ohne Änderungen in der BVV beschlossen
+- TOP 11.25: Städtepartnerschaft zwischen Reinickendorf und Kartal (Istanbul) - erledigt
+- TOP 11.26: Regenwasserrückhalt und Dachbegrünung für das TetraPak Gelände - mit Änderungen in der BVV beschlossen
+- TOP 11.27: Bürgerbeteiligung zur Ausgestaltung der sozialen Flächen des B-Plans 12-70 VE TetraPak Gelände - mit Änderungen in der BVV beschlossen
+- TOP 11.28: Schulplätze und Freizeiteinrichtungen für ältere Jugendliche in Heiligensee - mit Änderungen in der BVV beschlossen
+- TOP 11.29: Stelle der Koordinatorin/des Koordinators für kommunale Entwicklungspolitik verstetigen! - mit Änderungen in der BVV beschlossen
+- TOP 11.30: Bodycams für den Allgemeinen Ordnungsdienst in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.31: Schnelle Nachnutzung des "C&A"-Gebäudes sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 11.32: Stellplätze in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Resolution der Bezirksverordnetenversammlung Reinickendorf anlässlich der Absetzung des Bürgermeisters von Istanbul - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Hinweis auf die App "Jobcenter 2go - Ohne warten, klug beraten" - überwiesen
+- TOP 13.2: Lebenswerte neue Stadtquartiere - überwiesen
+- TOP 13.3: Graffiti-Freiflächen - überwiesen
+- TOP 13.4: Verbesserte Sicherheitsmaßnahmen am Schäfersee - überwiesen
+- TOP 13.5: Pilotprojekt "Oilette"-Toiletten auf Spielplätzen - überwiesen
+- TOP 13.6: Energetische Sanierungen - überwiesen
+- TOP 13.7: Familienfreundlliche Toiletten - überwiesen
+- TOP 13.8: Ausreichend Personal für zukünftige Bauvorhaben sicherstellen - überwiesen
+- TOP 13.9: Wirtschaftskonzept für den Bezirk Reinickendorf erstellen - überwiesen
+- TOP 13.10: Potenziale für Gemeinschaftsgärten prüfen - überwiesen
+- TOP 13.11: Querungshilfe in Reinickendorf-Ost I - überwiesen
+- TOP 13.12: Verkehrssicherheit im Zabel-Krüger-Damm verbessern - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Nachnutzungskonzept für die öffentlichen Sanitäranlagen an den Reinickendorfer Badestellen - überwiesen
+- TOP 14.2: Perspektivische Reduzierung des AKUZ Tegel - überwiesen
+- TOP 14.3: Absolutes Halteverbot Hermsdorfer Str. - überwiesen
+- TOP 14.4: Linksabbiegeverbot von den Parkplätzen Oraniendamm 6-10 und 65-66 stärker kenntlich machen - überwiesen
+- TOP 14.5: 10-Minuten-Takt für die Buslinie 220 - überwiesen
+- TOP 14.6: "Nummer gegen Kummer" erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Für ein wirksames Wildschwein-Management, um Wildschweine aus Wohngebieten fernzuhalten - überwiesen
+- TOP 14.8: Maßnahmen zur Verbesserung der Sicherheits- und Hygienesituation am Sportpark Kopenhagener Straße - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
