@@ -1,0 +1,6 @@
+# TOP 6: Vertagungen aus der Stadtratssitzung vom 20./21.03.2025
+
+- Sitzung: 10. Sitzung des Stadtrates (2025-04-10)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/218054
