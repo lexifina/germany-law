@@ -1,0 +1,58 @@
+# 10. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-04-10T16:00:00+02:00
+- Ende: 2025-04-10T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14607
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14607
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00814831.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Mitglieder des Stadtrates (1. Runde)
+- TOP 2.1: @Nachtschicht_18 2025
+- TOP 2.2: Baumaßnahmen an der Lübecker Straße
+- TOP 2.3: Konsequenzen der Haushaltssituation auf Jugendhilfe und Hilfe zur Erziehung
+- TOP 2.4: Entwicklung der Geystraße
+- TOP 2.5: Carolabrücke
+- TOP 2.6: Haushaltsausgabereste Planungs- und Investitionsmittel Schulbau
+- TOP 2.7: Satzung zur Wohnraumzweckentfremdung
+- TOP 2.8: Geplante Investitionen der DVB
+- TOP 2.9: Schulmittagessen
+- TOP 2.10: Aufstellungsbeschluss Großmoschee Marschnerstraße
+- TOP 3: Fragerunde der Mitglieder des Stadtrates (2. Runde)
+- TOP 3.1: Neuer Tempo 30 Abschnitt
+- TOP 3.2: DVB Instandhaltungskosten einordnen
+- TOP 3.3: Gewalt an Schulen
+- TOP 3.4: Kriminalitätsschwerpunkte
+- TOP 3.5: Anwendung der Übergangsregelung zum Herrenberg-Urteil in städtischen Einrichtungen
+- TOP 3.6: Ausstellung von vorläufigen Zuwendungsbescheiden an Freie Träger
+- TOP 3.7: Erfüllung SR Beschlüsse - A0371/22
+- TOP 3.8: Rathausturm
+- TOP 3.9: Zwangsräumungen
+- TOP 3.10: Müllverbrennungsanlage Sachsenenergie
+- TOP 4: Einigungsverfahren Gremienbesetzung
+- TOP 4.1: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Leuben der Landeshauptstadt Dresden - Zustimmung
+- TOP 4.2: Nachbesetzung im Seniorenbeirat gemäß § 25 Abs. 4 Hauptsatzung - gewählt
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Vertagungen aus der Stadtratssitzung vom 20./21.03.2025
+- TOP 6.1: Keine militärischen Waffen zum Dresdner Stadtfest! - Ablehnung
+- TOP 6.2: Kein Kriegsgerät zum Dresdner Stadtfest! - Zustimmung - Petition nicht abgeholfen
+- TOP 6.3: Dresdens Wochenmärkte rekommunalisieren und zu Stadtteilplätzen beleben - Verweisung und erneute Beratung
+- TOP 6.4: Beschluss der Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung der Gleichstellung der Geschlechter – Projektförderung (FFRL Gleichstellung-PF) - Verweisung und erneute Beratung
+- TOP 6.5: Beschluss der Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung der Gleichstellung der Geschlechter – institutionelle Förderung (FFRL Gleichstellung-IF) - Verweisung und erneute Beratung
+- TOP 7: Schließung von acht kommunalen Kindertageseinrichtungen in den Stadtbezirken Prohlis, Leuben, Cotta und Blasewitz - Zustimmung
+- TOP 8: Ausfinanzierung von Mehrkosten für den Um- und Ausbau des Heinz-Steyer-Stadions zur Fertigstellung des Stadions sowie Abschluss des Mietvertrages zur Einrichtung des Medical Health & Science Centers - punktweise Zustimmung
+- TOP 9: Erlass der Geschäftsordnung für den Kommunalen Präventionsrat (KPR) - Zustimmung
+- TOP 10: Elternbeiträge im Dresdner Kreuzchor - Zustimmung
+- TOP 11: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Zustimmung
+- TOP 12: Satzung zur Neufassung der Satzung der Landeshauptstadt Dresden für die Kostensatzung der Landeshauptstadt Dresden für das städtische Tierheim Dresden (Tierheimkostensatzung) - Zustimmung
+- TOP 13: Verkehrskonzeption für Dresden Löbtau - punktweise Zustimmung
+- TOP 14: Elbquerung an der Carolabrücke wiederherstellen – schnelle Interimslösung statt jahrelanger Sperrung! - Vertagung durch Einreicher
+- TOP 15: Leitfaden zur geschlechtergerechten Sprache in der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 18: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2024 - zur Kenntnis genommen
