@@ -1,0 +1,118 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-04-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664220
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664220
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2025 bis 2029; Frist: 25.04.2025
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Müllerstr. 46 Nutzungsänderung eines Ladens zu einer Gaststätte (Tagescafé) im EG rechts; Frist: 20.04.2025
+- TOP 3.1.2.: St.-Anna-Str. 6 Teilung einer Bestandswohnung zu einer Wohnung und einem Arbeitszimmer mit WC sowie Wiederherstellung des ursprünglichen Hauszugangs; Frist: 20.04.2025
+- TOP 3.1.3.: Tal 42 Nutzungsänderung der best. Verkaufsfläche in eine Gaststätte, im Erdgeschoss und Obergeschoss des Gebäudes; 20.04.2025
+- TOP 3.1.4.: Maderbräustr. 2 Antrag auf Baugenehmigung: Aktualisierung Brandschutz, Antrag auf Nutzungsänderung: Übersicht (Anlage) (Maderbräustr. 2 / Tal 7); Frist: 20.03.2025
+- TOP 3.1.5.: Blumenstr. 32 Umbau und Erweiterung des Münchner Marionettentheaters; Stellungnahme wegen Baumfällungen erbeten; Frist: 27.04.2025
+- TOP 3.1.6.: Damenstiftstr. 16 Renovierung mit Modernisierung des Bestandshotels mit Einbau von Gauben, Anbau einer Fluchtleiteranlage und eines Fluchtabstiegs, Einbau einer Aufzuganlage, Begrünung von Flachdächern und Fassadenbegrünung, Reduzierung der Zimmerzahl auf 15 Hotelzimmer / 30 Betten, Aufstockung des Rückgebäudes im Bereich der ehem. Dachterrasse 4.OG, erdgeschossige Überbauung des Innenhofs, Ausbau Dachgeschoss VGB zu einem Hotelzimmer und Errichtung einer Dachterrasse im Dachgeschoss - ÄNDERUNGSANTRAG zu 1.1-2022-130-21 - Hier: Anbau einer Fluchtleiteranlage sowie eines Fluchtabstieges, Begrünung von Flachdächern und Fassadenbegrünung; Frist: 30.04.2025
+- TOP 3.1.7.: Herrnstr. 13 Nutzungsänderung einer Arztpraxis zu einer Ferienwohnung (kurzzeitige Vermietung); Frist: 30.04.2025
+- TOP 3.1.8.: Mariannenstr. 5 Nutzungsänderung einer Wohnung im 4. OG rechts, in eine Einheit nach Art eines Beherbergungsbetrieb (Ferienwohnung); Frist: 30.04.2025
+- TOP 3.1.9.: Emil-Riedel-Str. 9 Nutzungsänderung von Laden in Gaststätte; Frist: 30.04.2025
+- TOP 3.1.10.: Fürstenfelder Str. 1 Teilabbruch eines best. Büro-, Geschäfts- und Wohngebäudes mit Tiefgarage; Frist: 30.04.2025
+- TOP 3.1.11.: Kaufingerstr. 11 Teilabbruch im rückwärtigen eines Büro-Geschäfts und Wohngebäudes mit Tiefgarage; Frist: 30.04.2025
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Baumfällungsantrag, Emil-Riedel-Str.11
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Maßnahmen zur Reduzierung des Müllaufkommens im öffentlichen Raum, insbesondere am Viktualienmarkt; TOP 2025.03 A3
+- TOP 1.2.: Bürger*innenanliegen Anfrage zur kulturellen Nutzung und Vermietung des Hochbunkers in der Hotterstraße
+- TOP 1.3.: Bürger*innenanliegen Ampelschaltungen Sendlinger Tor und Hauptfeuerwache
+- TOP 1.4.: Bürger*innenanliegen Verkehrsprobleme für Radfahrer in der Widenmayer- und Tivolistraße
+- TOP 1.5.: Bürger*innenanliegen Wallstraße Werkstoffcontainer
+- TOP 2: Entscheidungen
+- TOP 2.1.: Marienplatz 8: Aufstellung neuer Verkaufseinrichtung auf öffentlichem Grund
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Verbesserung der Fahrradabstellsituation und Verbesserung der Aufenthaltsqualität am St. Anna Gymnasium
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Theater des Hölzernen Gelächters Sommertheaterproduktion 2025 im Amphitheater des Englischen Gartens vom 20.06.25 - 31.10.25 2.200,00€ - Az: 0262.0-1-0404
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Burgstr. 10: Genehmigung einer Freischankfläche
+- TOP 2.2.2.: Rumfordstr. 5: Errichtung Parkplatzfreischankfläche (sog. Schanigarten)
+- TOP 2.2.3.: Müllerstr. 46 links: Erweiterung Freischankfläche
+- TOP 2.2.4.: Müllerstr. 46 rechts: Errichtung Freischankfläche
+- TOP 2.2.5.: Tal 38: Errichtung einer Freischankfläche
+- TOP 2.2.6.: Tal 38: Errichtung einer Parkplatzfreischankfläche (sog. Schanigarten)
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: 1. Mai - DGB-Veranstaltungen (Kulturfest und laut.stark) am 01.05.2025 auf dem Marienplatz mit Rosenstr. und Kaufingerstr. (Frist: 11.04.2025)
+- TOP 3.2.: Tag der Verkehrssicherheit der DGUV am 21.06.2025 (Termin: 30.04.2025)
+- TOP 3.3.: Info-Veranstaltung am Karlsplatz am 24.04.2025 (Termin: 14.04.2025)
+- TOP 3.4.: "Tanz. Die. Invasion." mehrere Standorte gemäß Antrag an mehreren Daten im Jahr 2025 (Termin: 20.04.2025)
+- TOP 3.5.: Fan Meeting Point und Public Viewing anlässlich des Finales der Champions League am 31.05.2025 (Start Aufbau 27.05., Abbau bis 02.06.) - (Termin: 12.05.2025)
+- TOP 3.6.: Marienplatz - Tag der offenen Tür der Landeshauptstadt München am 03.05.2025 (Termin 23.04.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Eilentscheidung Öffentlichkeitsbeteiligung der Landeshauptstadt München – Maßnahmen zur Qualitäts-sicherung und Zwischenstand zur Einführung des Pilotprojekts MünchenBudget, TOP 2025.02 A 4.1
+- TOP A 7.2.: Rückmeldung Bay. Finanzministerium zum BA-Antrag Nr. 20-26 / B 07293 - Ehrenamt muss abgesichert sein
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Hofgartenstr. 8, Nutzungsänderung der Hausmeisterwohnung zur Bürofläche im 1.Obergeschoß; Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP B 4.4.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP B 4.5.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP B 4.6.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP B 4.7.: Blumenstraße, Restherstellung Platzfläche Wallstraße
+- TOP B 4.8.: Mitteilung Mobilfunksuchkreisstandort
+- TOP B 4.9.: Vorbescheid Oettingenstr. 74
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Parklizenzgebiet Mittleres und Nördliches Lehel: Erhöhung der anteiligen Bewohner*innenstellplätze
+- TOP C 4.3.: Max-Joseph-Platz: Potential im Herzen unseres Stadtbezirks nutzen
+- TOP C 4.4.: Neue Richtungsentscheidung für das Tal - Vorabdiskussion mit dem BA 1 ermöglichen.
+- TOP C 4.5.: Verschönerung Baucontainer
+- TOP C 4.6.: Bürger*innenanliegen Feldherrenhalle-Renovierung, TOP 2025.02 C 1.2, Antwortschreiben Kulturreferat
+- TOP C 4.7.: Erhardt-/Steinsdorf-/Zweibrückenstraße/Ludwigsbrücke; Nächtliche Arbeiten im Straßenraum; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.8.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP C 4.9.: Bürger*innenanliegen Unterstützungsanfrage "Bank der Begegnung“, TOP 2025.02 C 1.5, Antwortschreiben Kreisverwaltungsreferat
+- TOP C 4.10.: OB-Entscheidung Fehlende Abfallbehälter in der Westenriederstraße, Sitzungsvorlage Nr. 20-26 / V 13797
+- TOP C 4.10.1: (E) Fehlende Abfallbehälter in der Westenriederstraße
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Eilentscheidung Praterinsel Anhörungsverfahren für WeinMünchen (Frühling) am 21.-23.03.2025
+- TOP D 4.5.: Eilentscheidung Kulturstrand am Maximiliansplatz / Grünfläche hinter dem Wittelsbacherbrunnen ab 01.05.25 -15.09.25
+- TOP 3.1.12.: Herzogspitalstr. 11 Erweiterung, Aufstockung und Umnutzung eines Bestandsgebäudes in Wohnungen, Neubau von Dachterrassen auf Bestandsgebäude - ÄNDERUNGSANTRAG zu 1.2-2023-15347-21 - jetzt: Erweiterung, Aufstockung und Umnutzung Bestandsgebäude (RGB und SGB) von Büro in Wohnen (4 WE), Neubau von Dachterrassen (SGB) mit Notleiteranlage und Errichtung von Balkonen (RGB und SGB), Verzicht auf geplante Nutzungsänderung im EG und 1. OG des Rückgebäudes und Reaktivierung der bestehenden Büroflächen in einen Multifunktionsraum und Büro für ein Friseurbedarfsgeschäft; Frist: 04.05.2025
+- TOP 1.1.: Herrnschule Antrag einer städtischen Leistung: Tischtennisplatte
+- TOP 1.2.: Hackenplatz / Radspielerbrunnen + Antrag einer städtischen Leistung: Rundbank + Antrag Hackenplatz
