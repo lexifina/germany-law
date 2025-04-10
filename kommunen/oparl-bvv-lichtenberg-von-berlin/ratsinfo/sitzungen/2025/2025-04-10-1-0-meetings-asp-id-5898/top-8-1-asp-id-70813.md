@@ -1,0 +1,7 @@
+# TOP 8.1: Frühzeitige Beteiligung der Träger öffentlicher Belange zum Bebauungsplan 11-22 “Möllendorffstraße 75 A /Alfred-Jung-Straße 10”
+
+- Sitzung: 61. Sitzung in der IX. Wahlperiode des Ausschusses Ökologische Stadtentwicklung, Mieter:innenschutz und Facility Management (2025-04-10)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=70813
+- Ergebnis: erledigt
