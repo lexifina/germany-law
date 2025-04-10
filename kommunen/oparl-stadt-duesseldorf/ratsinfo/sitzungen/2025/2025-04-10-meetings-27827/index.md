@@ -1,0 +1,86 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-04-10T14:08:00+02:00
+- Ende: 2025-04-10T19:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27827
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27827
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 10.04.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00549919.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 10.04.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00549919.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 10.04.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00549919.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitglieds
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 12.12.2024 (SI-RAT/007/2024) - einstimmig beschlossen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Auswirkungen für Düsseldorf nach der US-Zoll-Einführung - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Abschaffung der Ampelindianer bei der Puppenbühne der Polizei - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: Bedarf an stationären Pflegeplätzen in Düsseldorf - beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Autorennen am 4. April und der Verletzung eines unbeteiligten Autofahrers - beantwortet
+- TOP 4.5: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Gewaltvorfall in der U76 am 05.04.2025 - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Cannabiskonsum und seine Auswirkungen in Düsseldorf im Zeitraum 01.01.2023 bis heute - beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Rolltreppenreparatur im U-Bahnhof Steinstraße - beantwortet
+- TOP 5.3: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU: Zukünftige Nutzung der Rheinterrasse – was ist geplant und wer wird beteiligt? - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Sind die Wirtschaftsbeziehungen zu den USA gefährdet? - beantwortet
+- TOP 5.5: Anfrage der FDP-Ratsfraktion: Urheberrecht im öffentlichen Raum - beantwortet
+- TOP 5.6: Anfrage der SPD-Ratsfraktion: Angebote und Flächen für Gewerbe und Handwerk in Düsseldorf - beantwortet
+- TOP 5.7: Anfrage der SPD-Ratsfraktion: Sachstand Flurstraße 45 - beantwortet
+- TOP 5.8: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Flugbewegungen im Segment Allgemeine Luftfahrt - schriftlich beantwortet
+- TOP 5.9: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Corneliusplatz autofrei? - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfraktion DIE LINKE: Trinkwasserschutzgebiet Lohauser Deich – Am Staad - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfraktion DIE LINKE: Investitionen in den kommunalen Wohnungsbau - schriftlich beantwortet
+- TOP 5.12: Anfrage der AfD-Ratsfraktion: Schulsozialindex in Düsseldorf - schriftlich beantwortet
+- TOP 5.13: Anfrage der AfD-Ratsfraktion: Digitale Straßenzustandserfassung 2024 - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn Lemmer: tiefstehende Sonne an Lichtsignalanlagen für Fußgänger auf den Wegen von/zur Schule - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Lemmer: Absage von Brauchtum-, Karnevals-, Kirmes-, Schützen und sonstigen Veranstaltungen aller Art im Zeitraum 2020 bis 2025 - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Krüger: nicht sachgemäßer Gebrauch von Lachgas und Auswirkungen auf Menschen, Tiere und Umwelt - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau Krüger: mögliche Gesetzesänderungen kommunalrechtlicher Vorschriften mit Auswirkungen auch auf den Stadtrat Düsseldorf - schriftlich beantwortet
+- TOP 5.18: Anfrage der Bürgermeisterin Gerlach: Japan-Tag 2025 – mehr Zeit aber nicht mehr Platz? - schriftlich beantwortet
+- TOP 5.19: Anfrage des Ratsherrn Fix: Folgekosten der Klimakrise - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 12: Bebauungsplan-Entwurf Nr. 03/034 - Südlich Haroldstraße - Stellungnahmen, Satzung - mehrheitlich beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 04/001 - Ehemaliger Güterbahnhof Oberkasssel II - Stellungnahmen, Änderung, Satzung - mehrheitlich beschlossen
+- TOP 14: Fünfter Bericht zum Ratsbeschluss “Saubere Luft für Düsseldorf – Reduzierung von NOx-Emissionen vorantreiben“ - zur Kenntnis genommen
+- TOP 15: Lärmaktionsplan IV - mehrheitlich beschlossen
+- TOP 16: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Planung und Errichtung einer Oberflächenabdichtung zur Sicherung der PFAS-Eintragsstelle Lager 61" - einstimmig beschlossen
+- TOP 17: Konrad-Adenauer-Platz - 4. Rahmenvereinbarung mit der DB InfraGO AG und Weiterführung des kooperativen Verfahrens zur Entwicklung des Bahnhofsumfeldes - mehrheitlich beschlossen
+- TOP 18: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO "Neubau des Wim-Wenders-Gymnasium, Schmiedestr. 25, Oberbilk“ - einstimmig beschlossen
+- TOP 19: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Ersatzneubau der GGS Selma-Lagerlöf und der KGS Hermann-Gmeiner am Standort Schillstraße 7“ - einstimmig beschlossen
+- TOP 20: Bestellung einer Prüferin für das Amt für kommunale Prüfung - einstimmig beschlossen
+- TOP 21: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Aufsichtsrat der Tonhalle Düsseldorf gGmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 23: Aufsichtsrat der Deutsche Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH – Ersatzwahl - mehrheitlich beschlossen
+- TOP 24: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 25: Polizeibeirat -Ersatzwahl- - mehrheitlich beschlossen
+- TOP 26: Anträge
+- TOP 26.1: Antrag der FDP-Ratsfraktion: Infobox für Düsseldorfer Neubürgerinnen und Neubürger - zurückgezogen
+- TOP 26.2: Antrag der SPD-Ratsfraktion: Mitarbeiter*innenwohnen - Bezahlbares Wohnen als Standortfaktor - verwiesen
+- TOP 26.3: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Vergleich statt Urteil - mehrheitlich abgelehnt
+- TOP 26.4: Antrag der Ratsfraktion DIE LINKE: Kurznachrichtendienst X nur noch im Notfall nutzen - verwiesen
+- TOP 26.4.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/115/2025 - verwiesen
+- TOP 26.5: Antrag der Ratsfraktion DIE LINKE: Stadtsparkasse: Verzicht auf Ausschüttung an die Stadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 26.6: Antrag der Ratsfraktion DIE LINKE: Keine Rüstungsmesse in Düsseldorf! - mehrheitlich abgelehnt
+- TOP 26.7: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Glasmacherviertel ankaufen - einstimmig beschlossen
+- TOP 26.7.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/110/2025 - mehrheitlich beschlossen
+- TOP 26.7.1.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/139/2025 - mehrheitlich abgelehnt
+- TOP 26.8: Antrag der FDP-Ratsfraktion: Heinrich-Heine-Platz
+- TOP 26.8.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/126/2025 - einstimmig beschlossen
+- TOP 26.9: Antrag der Ratsfraktion DIE LINKE: Verfall der Düsseldorfer Kulturbauten stoppen - mehrheitlich abgelehnt
+- TOP 26.10: Antrag der AfD-Ratsfraktion: Konsumverbot von Cannabis in Fußgängerzonen - mehrheitlich abgelehnt
+- TOP 26.11: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: MeisterQuartier – Innovativer Handwerk-Campus am Tetelberg - einstimmig beschlossen
+- TOP 26.11.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/111/2025 - mehrheitlich abgelehnt
+- TOP 26.12: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Prüfauftrag: Möglichkeit einer städtischen Regelung zum Verbot des Verkaufs sowie der Ab- und Weitergabe von Lachgas an Minderjährige - einstimmig beschlossen
+- TOP 27: Aufsichtsrat der AWISTA Kommunal GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 28: Rhein-Ruhr-Express Planfeststellungsbeschluss für den Abschnitt 3.1 (D-Kalkum – D-Angermund) - mehrheitlich beschlossen
