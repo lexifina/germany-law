@@ -1,10 +1,10 @@
 # Inhaltsverzeichnis
 Inhaltsübersicht
-Teil 1 Geltungsbereich, Begriffsbestimmungen
+Teil 1Geltungsbereich, Begriffsbestimmungen | 
 § 1 | Geltungsbereich
 § 2 | Begriffsbestimmungen
-Teil 2 Die Schule
-Kapitel 1 Auftrag der Schule
+Teil 2Die Schule | 
+Kapitel 1Auftrag der Schule | 
 § 3 | Allgemeines
 § 4 | Allgemeine Gestaltung des Schullebens
 § 5 | Bildungs- und Erziehungsziele
@@ -16,27 +16,23 @@ Kapitel 1 Auftrag der Schule
 § 10 | Koedukation
 § 11 | Sexualerziehung
 § 12 | Zusammenarbeit mit anderen Institutionen
-Kapitel 2 Schulstruktur
-Abschnitt 1 Allgemeines
+Kapitel 2Schulstruktur | 
 § 13 | Schulversuche und Reformschulen
 § 14 | Weiterentwicklung des Schulsystems
-§ 15 | (weggefallen)
+§ 15 | Distanzunterricht
 § 16 | Schularten
 § 17 | Schulstufen
-Abschnitt 2 Allgemeinbildende Schulen
 § 18 | Grundschule
 § 19 | (weggefallen)
 § 20 | Oberschule und Gymnasium
-§ 21 | Erwerb der Abschlüsse in den allgemeinbildenden Schulen
-Abschnitt 3 Besondere Organisationsformen
-§ 22 | Zentrum für unterstützende Pädagogik
+§ 21 | Erwerb der Abschlüsse
+§ 22 | Unterstützungseinrichtungen
 § 23 | Ganztagsschule
 § 24 | Schule für Erwachsene
-Abschnitt 4 Berufsbildende Schulen
 § 25 | Berufsschule
-§ 25 | Werkschule
+§ 25a | Werkschule
 § 26 | Berufsfachschule
-§ 27 | Berufsaufbauschule
+§ 27 | (weggefallen)
 § 28 | Fachoberschule
 § 28a | Berufliches Gymnasium
 § 28b | Berufsoberschule
@@ -45,14 +41,14 @@ Abschnitt 4 Berufsbildende Schulen
 § 31 | Doppelqualifizierende Bildungsgänge
 § 32 | Weiterführende Abschlüsse
 § 33 | Zulassung und Ausbildung
-Teil 3 Die Schülerin und der Schüler
-Kapitel 1 Rechte der Schülerin und des Schülers
+Teil 3Die Schülerin und der Schüler | 
+Kapitel 1 Rechte der Schülerin und des Schülers | 
 § 34 | Bildungsanspruch
 § 35 | Sonderpädagogische Förderung
 § 36 | Einschulungsvoraussetzungen, Sprachförderung
 § 37 | Aufbauender Bildungsweg
 § 37a | Übergang von der Grundschule in weiterführende Bildungsgänge
-§ 38 | Leistungskontrollen, Zeugnisse
+§ 38 | Leistungsüberprüfungen, Nachteilsausgleich, Notenschutz, Zeugnisse
 § 39 | Zeugnisse für Externe
 § 40 | Prüfungen
 § 41 | (weggefallen)
@@ -64,10 +60,10 @@ Kapitel 1 Rechte der Schülerin und des Schülers
 § 47 | Arten der Ordnungsmaßnahmen
 § 47a | Maßnahmen zur Sicherheit der Schule
 § 48 | Ferien
-§ 49 | Schülerinnen und Schüler mit Migrationshintergrund
+§ 49 | Neu zugewanderte Schülerinnen und Schüler
 § 50 | Gastschülerinnen und Gastschüler
 § 51 | Schülereigene Medien
-Kapitel 2 Allgemeine Schulpflicht
+Kapitel 2 Allgemeine Schulpflicht | 
 § 52 | Geltungsbereich
 § 53 | Beginn der Schulpflicht
 § 54 | Dauer der Schulpflicht
@@ -76,26 +72,20 @@ Kapitel 2 Allgemeine Schulpflicht
 § 56a | Meldepflicht durch Privatschulen
 § 57 | Ausnahmen
 § 58 | Pflicht zur Teilnahme am Unterricht
-Teil 4 Rechte und Pflichten des schulischen Personals, der Erziehungsberechtigten und der Ausbildenden
+Teil 4Rechte und Pflichten des schulischen Personals, der Erziehungsberechtigten und der Ausbildenden | 
 § 59 | Aufgaben der Lehrerinnen und Lehrer
 § 59a | Aufgaben der sozialpädagogischen Fachkräfte und Betreuungskräfte
 § 59b | Aufgaben des schulischen Personals insgesamt
 § 60 | Rechte und Pflichten der Erziehungsberechtigten
 § 61 | Informations- und Hospitationsrecht der Erziehungsberechtigten
 § 62 | Rechte und Pflichten der Ausbildenden
-Teil 5 Gemeinsame Bestimmungen
+Teil 5Gemeinsame Bestimmungen | 
 § 63 | Schuljahr, Schulwoche
-Teil 6 Zwangsmaßnahmen, Bußgeld- und Strafvorschriften
+Teil 6Zwangsmaßnahmen, Bußgeld- und Strafvorschriften | 
 § 64 | Unmittelbarer Zwang
 § 65 | Ordnungswidrigkeiten
 § 66 | Strafvorschriften
 § 67 | Ermächtigung zum Erlass von Rechtsverordnungen
-Teil 7 Übergangs- und Schlussbestimmungen
-§ 68 | Sechsjährige Grundschule
-§ 69 | Gymnasien
-§ 70 | Sekundarschule, Gesamtschule, Gymnasium und Gymnasiale Oberstufe am Schulzentrum
-§ 70a | Förderzentrum
-§ 71 | Zweijähriger Bildungsgang Berufseingangsstufe/Berufsfachschule
-§ 72 | Werkschulen
-§ 72a | Schuljahre 2018/2019 und 2019/2020
-§ 73 | Inkrafttreten
+Teil 7Schlussbestimmungen | 
+§ 68 | Einschränkung von Grundrechten
+§ 69 | Inkrafttreten, Außerkrafttreten
