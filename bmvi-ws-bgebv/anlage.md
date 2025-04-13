@@ -30,28 +30,28 @@ Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der 
 | 17 | Strom- und schifffahrtspolizeiliche Genehmigung für das Einleiten von Wasser | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 703 |
 | 18 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Freizeitschifffahrt | § 31 Absatz 1 Nummer 2 WaStrG |  | 351 – 2 110 |
 | 19 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Berufsschifffahrt auf Binnenschifffahrtsstraßen | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 4 220 |
-| 20 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Berufsschifffahrt auf Seeschifffahrtsstraßen | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 11 253 |
-| 21 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Freizeitschifffahrt | § 31 Absatz 2 Nummer 2 WaStrG |  | 316 – 2 813 |
-| 22 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Berufsschifffahrt | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 4 220 |
-| 23 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootseinsatzstelle | § 31 Absatz 2 Nummer 2 WaStrG |  | 703 – 4 220 |
-| 24 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootshebeanlage | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 055 – 5 626 |
-| 25 | Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder die Grundsanierung einer Brücke | § 31 Absatz 2 Nummer 2 WaStrG |  | 3 516 – 14 066 |
-| 26 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an einer Brücke | § 31 Absatz 2 Nummer 2 WaStrG |  | 703 – 5 626 |
-| 27 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an bestehenden Anlagen | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 2 813 |
-| 28 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Rohrbrücke | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 5 626 |
-| 29 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Dalbens | § 31 Absatz 2 Nummer 2 WaStrG |  | 422 – 2 813 |
-| 30 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer unterirdischen Leitungskreuzung | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 125 – 7 033 |
-| 31 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer oberirdischen Leitungskreuzung | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 4 220 |
-| 32 | Strom- und schifffahrtspolizeiliche Genehmigung für die Verlegung einer Leitung | § 31 Absatz 2 Nummer 2 WaStrG |  | bei einer Länge von weniger als 1 km 562 – 2 813 bei einer Länge von 1 km bis 5 km 1 758 – 7 033 bei einer Länge über 5 km 1 758 – 10 550 |
-| 33 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Einleitungs- oder Entnahmebauwerks | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 8 440 |
-| 34 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines sonstigen Bauwerks an einer Bundeswasserstraße | § 31 Absatz 2 Nummer 2 WaStrG |  | 844 – 2 813 |
-| 35 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb temporärer Bauwerke mit Blendwirkung | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 844 |
-| 36 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Messstationen | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 2 110 |
-| 37 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Lichtinstallationen an Bundeswasserstraßen | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 844 |
-| 38 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Uferbefestigung | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 5 626 |
-| 39 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Wasserbauwerken | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 5 626 |
-| 40 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Tunnels | § 31 Absatz 2 Nummer 2 WaStrG |  | 3 516 – 14 066 |
-| 41 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Seilbahn | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 5 626 |
+| 20 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Berufsschifffahrt auf Seeschifffahrtsstraßen | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 11 253 |
+| 21 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Freizeitschifffahrt | § 31 Absatz 1 Nummer 2 WaStrG |  | 316 – 2 813 |
+| 22 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Berufsschifffahrt | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 4 220 |
+| 23 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootseinsatzstelle | § 31 Absatz 1 Nummer 2 WaStrG |  | 703 – 4 220 |
+| 24 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootshebeanlage | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 055 – 5 626 |
+| 25 | Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder die Grundsanierung einer Brücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 3 516 – 14 066 |
+| 26 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an einer Brücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 703 – 5 626 |
+| 27 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an bestehenden Anlagen | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 2 813 |
+| 28 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Rohrbrücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 5 626 |
+| 29 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Dalbens | § 31 Absatz 1 Nummer 2 WaStrG |  | 422 – 2 813 |
+| 30 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer unterirdischen Leitungskreuzung | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 125 – 7 033 |
+| 31 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer oberirdischen Leitungskreuzung | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 4 220 |
+| 32 | Strom- und schifffahrtspolizeiliche Genehmigung für die Verlegung einer Leitung | § 31 Absatz 1 Nummer 2 WaStrG |  | bei einer Länge von weniger als 1 km 562 – 2 813 bei einer Länge von 1 km bis 5 km 1 758 – 7 033 bei einer Länge über 5 km 1 758 – 10 550 |
+| 33 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Einleitungs- oder Entnahmebauwerks | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 8 440 |
+| 34 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines sonstigen Bauwerks an einer Bundeswasserstraße | § 31 Absatz 1 Nummer 2 WaStrG |  | 844 – 2 813 |
+| 35 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb temporärer Bauwerke | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 844 |
+| 36 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Messstationen | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 2 110 |
+| 37 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Lichtinstallationen an Bundeswasserstraßen | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 844 |
+| 38 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Uferbefestigung | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 5 626 |
+| 39 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Wasserbauwerken | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 5 626 |
+| 40 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Tunnels | § 31 Absatz 1 Nummer 2 WaStrG |  | 3 516 – 14 066 |
+| 41 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Seilbahn | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 5 626 |
 | 42 | Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens | § 34 Absatz 2 Satz 2 WaStrG |  | 246 – 844 |
 | 43 | Nachträgliche Entscheidungen zu Genehmigungen | § 31 Absatz 2 Nummer 1, Absatz 2 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG |  | 140 – 2 813 |
 | 44 | Schriftliche Einzelgenehmigung für die Benutzung von Betriebsanlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | § 3 Absatz 1 Nummer 1 WaStrBAV § 2 Absatz 1 StrandSchutzwerkSicherungsV § 2 Absatz 1 DünenSchV § 12 Schleusenbetriebsverordnung |  | 70,30 – 562 |
@@ -331,7 +331,7 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenomm
 | 19 | Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließlich der Untersuchung eines Sportbootes, das für Fahrten seewärts der Basislinie geeignet und bestimmt ist, große Sportboote | §§ 5, 6 Absatz 1 und § 18 Absatz 1 und 2 SeeSpbootV | 102 – 563 |
 | 20 | Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses für Sportboote, die durch die BG Verkehr oder eine anerkannte Klassifikationsgesellschaft untersucht wurden | § 6 Absatz 1, 2 und 3 SeeSpbootV | 95 – 144 |
 | 21 | Bescheinigung der Fahrtüchtigkeit eines Sportbootes nach Veränderungen an dem Fahrzeug | § 9 Absatz 2 SeeSpbootV | 124 – 207 |
-| 22 | Erlass von Verboten oder Geboten sowie Zulassung von Ausnahmen jeweils im Einzelfall | § 13 oder § 15 Absatz 1a SeeSpbootV | 297 – 595 |
+| 22 | Erlass von Verboten oder Geboten sowie Zulassung von Ausnahmen jeweils im Einzelfall | § 13 oder § 15 Absatz 2 SeeSpbootV | 297 – 595 |
 | 23 | Beendigung der Gültigkeit eines Bootszeugnisses aus triftigem Grund im Anschluss an eine von der Zulassungsbehörde in Auftrag gegebene und von der BG Verkehr oder einer anerkannten Klassifikationsgesellschaft durchgeführte Nachbesichtigung | § 18 Absatz 1 Satz 2 i. V. m. § 5 Absatz 4 SeeSpbootV | 446 |
 | 24 | Ersatz eines Bootszeugnisses bei Verlust |  | 38,15 – 102 |
 | 25 | Übertragung eines Bootszeugnisses bei Veräußerung oder Umschreibung |  | 49,50 – 117 |
@@ -369,10 +369,10 @@ Abschnitt 4
 Gebühren des Bundesamtes für Seeschifffahrt und Hydrographie
 Vorbemerkungen
 1. Bei den Gebühren für die Genehmigung zur Führung einer anderen Nationalflagge wird die Gebühr einer zuvor erteilten Genehmigung, deren Bewilligungszeitraum noch nicht abgelaufen ist, anteilig berücksichtigt.
-2. Bei den Gebührennummern 20-22, 24-30 sowie 32-33 werden die Reisekosten gesondert als Auslagen erhoben.
+2. Bei den Gebührennummern 20-22, 24 - 30, 32 - 33 und 145 werden die Reisekosten gesondert als Auslagen erhoben.
 3. Bei den Gebührennummern 34-43 werden die Kosten für Auslandsdienstreisen gesondert als Auslagen erhoben.
-4. Bei der Gebührennummer 147 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
-5. Bei den Gebührennummern 145-148 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
+4. Bei der Gebührennummer 150 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
+5. Bei den Gebührennummern 148 - 151 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
 | Nummer | Gegenstand | Abgekürzte Rechtsgrundlage | Gebühr in Euro |
 | 1 | Ausstellung von Flaggenzertifikaten einschließlich Verlängerung, Ersatzausstellung und Änderung | § 3 Buchstabe d FlaggRG i. V. m. §§ 14ff. FlRV | 107 |
 | 2 | Ausstellung von Flaggenscheinen für Probe- und Überführungsfahrten inklusive erneuter Ausstellung | § 10 FlaggRG | 123 |
@@ -411,9 +411,9 @@ Vorbemerkungen
 | 35 | Zulassung eines Ballastwasser-Behandlungssystems oder eines Prototyps mit aktiven Substanzen mit Beteiligung anerkannter Einrichtungen oder akkreditierter Labore | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
 | 36 | Zulassung eines sonstigen Ballastwasser-Behandlungssystems oder eines Prototyps mit Beteiligung anderer Behörden | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 85 690 |
 | 37 | Zulassung eines sonstigen Ballastwasser-Behandlungssystems mit Beteiligung anerkannter Einrichtungen oder akkreditierter Labore | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
-| 38 | Zulassung eines Ballastwasser- Behandlungssystems mit veränderter Durchflussrate aufgrund von Erprobungen an Bord und an Land | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG | 68 552 |
-| 39 | Zulassung eines Ballastwasser-Behandlungssystems mit veränderter Durchflussrate aufgrund der Überprüfung von Dokumenten | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG | nach Zeitaufwand |
-| 40 | Zulassung technischer Änderungen an zugelassenen Ballastwasser- Behandlungssystemen | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG | nach Zeitaufwand |
+| 38 | Zulassung eines Ballastwasser- Behandlungssystems mit veränderter Durchflussrate aufgrund von Erprobungen an Bord und an Land | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 68 552 |
+| 39 | Zulassung eines Ballastwasser-Behandlungssystems mit veränderter Durchflussrate aufgrund der Überprüfung von Dokumenten | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
+| 40 | Zulassung technischer Änderungen an zugelassenen Ballastwasser- Behandlungssystemen | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
 | 41 | Anerkennung einer alternativen Ballastwasser-Behandlungsmethode | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
 | 42 | Änderung oder Übertragung eines Zulassungszeugnisses für ein Ballastwasser-Behandlungssystem | § 19 Absatz 3 SeeUmwVerhV | 223 |
 | 43 | Baumusterzulassung auf Basis einer ausländischen Baumusterzulassung sowie mindestens der Überprüfung der Prüfberichte der Erprobungen an Land | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 2 571 |
@@ -524,8 +524,8 @@ Vorbemerkungen
 | 139 | Ausstellung des Dokuments zur lückenlosen Stammdatendokumentation | § 13 Absatz 2 FlaggRG | 120 |
 | 140 | Befreiung von der Meldepflicht | § 10 Absatz 6 SeeEigensichV i. V. m. Artikel 7 Verordnung (EG) Nr. 725/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Erhöhung der Gefahrenabwehr auf Schiffen und Hafenanlagen, die zuletzt durch die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden ist. | 395 |
 | 141 | Anerkennung eines Unternehmens als anerkannte Stelle zur Gefahrenabwehr | § 3 Absatz 2 SeeEigensichV | 5 103 |
-| 142 | Befreiungen nach Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS | § 4 Anlage A.I.11.1, 11.2 SchSG i. V. m. Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS | 132 |
-| 143 | Anlassbezogene Sonderbescheinigungen | § 4 Anlage A.I.11.1, 11.2 SchSG i. V. m. SOLAS Kapitel XI-1, XI-2 | 149 – 329 |
+| 142 | Befreiungen nach Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS | § 4, Anlage A.I.11.1, 11.2 SchSG i. V. m. Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS | 132 |
+| 143 | Anlassbezogene Sonderbescheinigungen | § 4, Anlage A.I.11.1, 11.2 SchSG i. V. m. SOLAS Kapitel XI-1, XI-2 | 149 – 329 |
 | 144 | Zustimmung zu einer Sicherheitserklärung, bei der Beteiligte über einen längeren Zeitraum unter unveränderten Bedingungen zusammenwirken | § 9 Absatz 3 Satz 2 SeeEigensichV | 250 |
 | 145 | Besichtigungen an Bord für das ISSC | § 8 SeeEigensichV | 750 – 2 198 |
 | 146 | Anerkennung einer juristischen Person als benannte Konformitätsbewertungsstelle | § 3 Absatz 3a Satz 1 SchAusrV | 4 195 – 14 985 |
@@ -569,8 +569,8 @@ Gebühren und Auslagen
 | 0103 | Erteilung der Erlaubnis zum Betrieb von Hochgeschwindigkeitsfahrzeugen | § 9 Absatz 1, § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. VI Nummer 23b SchSV i. V. m. Artikel 13 Absatz 3 Richtlinie 2009/45/EG oder Anlage 2 Abschnitt A. 1. I Nummer 13(a/b) SchSV i. V. m. Abschnitt 1.9 des Hochgeschwindigkeits(HSC)-Codes i. V. m. SOLAS Regel X/2, § 9 Absatz 3 SchSV | 263 |
 | C. Sicherheitszeugnisse für Frachtschiffe |
 | Sicherheitszeugnisse für Spezialschiffe und Reaktorschiffe, Bau-Sicherheitszeugnisse, Ausrüstungs-Sicherheitszeugnisse nach der Anlage zum SOLAS-Übereinkommen von 1974/88, der Schiffssicherheitsverordnung, dem HSC-Code, dem SPS-Code, dem MODU-Code und der Verordnung (EG) Nr. 789/2004 |
-| 0201 | Erteilung eines Sicherheitszeugnisses für Schiffe in der Auslandsfahrt vor Indienststellung einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 2, Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12 | 1 086 |
-| 0202 | Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe in der Auslandsfahrt einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 2, Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12 | 837 |
+| 0201 | Erteilung eines Sicherheitszeugnisses für Schiffe vor Indienststellung einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 2, Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12 | 1 086 |
+| 0202 | Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 2, Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12 | 837 |
 | D. Bau- und Ausrüstungs-Sicherheitszeugnisse und Sicherheitszeugnisse für Frachtschiffe, Spezialschiffe und Sonderfahrzeuge nach der Schiffssicherheitsverordnung |
 | 0301 | Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen für Fahrzeuge mit einer Schiffslänge größer 8 m | § 9 Absatz 3 SchSV | 1 356 |
 | 0302 | Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen für Fahrzeuge mit einer Schiffslänge größer 8 m | § 9 Absatz 3 SchSV | 1 077 |
@@ -621,17 +621,20 @@ Gebühren und Auslagen
 | B. Internationales Zeugnis über die Verhütung der Ölverschmutzung für sonstige Schiffe von 400 BRZ/BRT und mehr |
 | 2101 | Erteilung des Internationalen Zeugnisses über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) vor Indienststellung des Schiffes einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 1 i. V. m. § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 14 SchSV i. V. m. MARPOL Anlage I Regel 7 | 570 |
 | 2102 | Erteilung des Internationalen Zeugnisses über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) für vorhandene Schiffe einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 1 i. V. m. § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 14 SchSV i. V. m. MARPOL Anlage I Regel 7 | 359 |
+| 2103 | Erteilung des Internationalen Ausnahmezeugnisses für unbemannte Bargen ohne eigenen Antrieb (UNSP-Bargen) in Bezug auf die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 3 Absatz 7 | § 9 Absatz 1 und 3 Nummer 1i. V. m. § 3 Absatz 3 Nummer 2 und Anlage 2 Abschnitt A. 1. II. Nummer 14a SchSV i. V. m. MARPOL Anlage I Regel 3 Absatz 7 | 164 |
 | C. Internationales Zeugnis über die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut |
 | 2201 | Erteilung eines Internationalen Zeugnisses über die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut nach MARPOL Anlage II Regel 9 | § 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. II. Nummer 15 SchSV i. V. m. MARPOL Anlage II Regel 9 | 119 |
 | D. Internationale Zeugnisse über die Verhütung der Verschmutzung durch Abwasser oder über ein Bewuchsschutzsystem |
 | 2301 | Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor Indienststellung des Schiffes | § 9 Absatz 1 und 3 Nummer 1, § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens | 299 |
 | 2302 | Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) für vorhandene Schiffe | § 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens | 164 |
+| 2303 | Erteilung des Internationalen Ausnahmezeugnisses für unbemannte Bargen ohne eigenen Antrieb (UNSP-Bargen) in Bezug auf die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 3 Absatz 2 | § 9 Absatz 1 und 3 Nummer 1i. V. m. Anlage 2 Abschnitt A. 1. II. Nummer 16b SchSV i. V. m. MARPOL Anlage IV Regel 3 Absatz 2 | 164 |
 | E. Internationale Zeugnisse über die Verhütung der Luftverunreinigung oder der Energieeffizienz, Internationales Motorenzeugnis, Bestätigung der Übereinstimmung des Energieeffizienzplanes zur Datenerfassung der jährlichen Brennstoffverbräuche und der Übereinstimmung des Brennstoffverbrauchberichtes mit den Anforderungen des IMO-Data Collection System |
 | 2401 | Erteilung des Internationalen Zeugnisses über die Verhütung der Luftverunreinigung durch Schiffe nach MARPOL Anlage VI Regel 6 und 8 (IAPP-Zeugnis) vor Indienststellung des Schiffes einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 1, § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 17 SchSV i. V. m. MARPOL Anlage VI Regel 6 und 8 | 559 |
 | 2402 | Erteilung des Internationalen Zeugnisses über die Verhütung der Luftverunreinigung durch Schiffe nach MARPOL Anlage VI Regel 6 und 8 (IAPP-Zeugnis) für vorhandene Schiffe einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen | § 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. II. Nummer 17 SchSV i. V. m. MARPOL Anlage VI Regel 6 und 8 | 418 |
 | 2403 | Erteilung des Internationalen Zeugnisses über die Energieeffizienz nach MARPOL Anlage VI Regel 6 und 8 (IEE-Zeugnis) vor Indienststellung des Schiffes | § 9 Absatz 1 und 3 Nummer 1, § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 17a SchSV i. V. m. MARPOL Anlage VI Regel 5 und 6 | 299 |
 | 2404 | Erteilung des Internationalen Zeugnisses über die Energieeffizienz nach MARPOL Anlage VI Regel 6 und 8 (IEE-Zeugnis) für vorhandene Schiffe | § 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. II. Nummer 17a SchSV i. V. m. MARPOL Anlage VI Regel 5 und 6 | 164 |
 | 2405 | Erteilung des Internationalen Motorenzeugnisses über die Verhütung der Luftverunreinigung nach MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 (EIAPP-Zeugnis) | § 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. II. Nummer 18 SchSV i. V. m. MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 | 240 |
+| 2406 | Erteilung des Internationalen Ausnahmezeugnisses für unbemannte Bargen ohne eigenen Antrieb (UNSP-Bargen) in Bezug auf die Verhütung der Luftverunreinigung durch Schiffe nach MARPOL Anlage VI Regel 3 Absatz 4 | § 9 Absatz 1 und 3 Nummer 1i. V. m. Anlage 2 Abschnitt A. 1. II. Nummer 17b SchSV i. V. m. MARPOL Anlage VI Regel 3 Absatz 4 | 164 |
 | F. Sonstige individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Verhütung der Meeresverschmutzung |
 | 2501 | Verlängerung der Gültigkeit eines Internationalen Zeugnisses über –die Verhütung der Ölverschmut- zung (IOPP-Zeugnis),–die Verhütung der Luftverunreini- gung durch Schiffe (IAPP-Zeugnis),–die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut,–die Verhütung der Verschmutzung durch Abwasser (ISPP-Zeugnis), bis zu fünf Monaten |  | 65 |
 | 2502 | Zulassungen von Anlagen und Geräten zur Verhütung der Meeresverschmutzung | § 3 Absatz 3 Nummer 2 SchSV i. V. m. § 1 Absatz 2 Abschnitt A. II. Anlage SchSG i. V. m. MARPOL Anlagen I, II, IV, V, VI | 778 |
@@ -679,8 +682,10 @@ Gebühren und Auslagen
 | 3106 | Ausstellung einer Ersatzausfertigung eines See- oder Fischereiarbeitszeugnisses oder einer Seearbeitskonformitätserklärung | § 130 Absatz 5 Satz 2 i. V. m. § 130 Absatz 2 Satz 1 SeeArbG oder § 133 Absatz 1 Satz 2, § 130 Absatz 5 Satz 2 i. V. m. § 130 Absatz 2 Seite 1 oder § 132 Absatz 3 SeeArbG | 59,85 |
 | 3107 | Anordnungen und Maßnahmen zur Verhütung oder Beseitigung von Verstößen nach § 143 Absatz 1 des Seearbeitsgesetzes | § 143 Absatz 1 SeeArbG | 85 – 1 560 |
 | 3108 | Erteilung von Ausnahmen und Genehmigungen aufgrund des Seearbeitsgesetzes, die von anderen Tatbeständen nicht erfasst werden | § 49 Absatz 3, § 53 Absatz 6, § 54 Absatz 3, § 111 SeeArbG | 65,80 |
+| 3109 | Erteilung von Ausnahmen und Genehmigungen aufgrund der SeeUnterkunftsV | § 5 Absatz 1, § 6 Absatz 1,§ 7 Absatz 1, § 15 Absatz 2 und 4,§ 16 Absatz 2 und 8, § 17 Absatz 6,§ 18 Absatz 3, § 19 Absatz 2,§ 20 Absatz 4 und 7,§ 25 SeeUnterkunftsV | 65,80 |
 | C. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Besetzung von Schiffen nach Schiffsbesetzungsverordnung und STCW-Übereinkommen |
 | 3201 | Erteilung des Schiffsbesatzungszeugnisses | § 8 Absatz 1 SchBesV | 59,85 |
+| 3202 | Zulassung von Lehrgängen nach STCW 95 Regel A-VI/1, A-VI/2,A-VI/3 und nach Anlage 1a, Teil 3, Kapitel 11 SchSV | § 3 Absatz 4 SeeBV i. V. m. STCW 95 Regel A-VI/1, A-VI/2, A-VI/3 sowie Anlage 1a, Teil 3, Kapitel 11,Regel 3 SchSV | nach Zeitaufwand |
 | IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und Planprüfung |
 | 4001 | Schiffsbezogene Besichtigungen, Audits, Inspektionen und Beurteilungen auf Antrag | § 9 Absatz 1 und 3 SchSV | nach Zeitaufwand |
 | 4031 | Planprüfung auf Antrag im Zusammenhang mit Neubauten oder Umbauten, die nicht von einer anerkannten Klassifikationsgesellschaft durchgeführt werden | § 9 Absatz 1 und 3 SchSV | nach Zeitaufwand |
@@ -704,8 +709,8 @@ auf dem Gebiet der Befähigungen in der Sportschifffahrt
 2. Auslagen und weitergehende Regelungen
   a) Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb Deutschlands werden zusätzlich Reisekosten als Auslage je Bewerber erhoben.
   b) Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.
-  c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
-  d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag von 1,60 Euro als Auslage erhoben.
+  c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15,30 Euro als Auslage erhoben.
+  d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7,35 Euro erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag in Höhe von 1,95 Euro als Auslage erhoben.
 3. Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
 | Nummer | Gegenstand | Rechtsgrundlage | Gebühr in Euro |
 | 1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Sportbootführerscheinen |
@@ -748,14 +753,14 @@ auf dem Gebiet der Befähigungen in der Sportschifffahrt
 | 22 | Ausstellung des SHS | § 3 Absatz 2 SportSeeSchV | 28,30 |
 | 23 | Ausstellung eines Funkbetriebszeugnisses SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 1.2 SchSV | 24,65 |
 | 24 | Ausstellung eines Funkbetriebszeugnisses LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 1.2 SchSV | 28,60 |
-| 25 | Vornahme einer Zusatzeintragung oder einer Ausnahme | § 10 Absatz 2 und 3, § 12 Absatz 4,§ 11 Absatz 3 SportSeeSchV | 16,70 |
-| 26 | Ausstellung eines Befähigungsnachweises für Maschinisten | § 10 Absatz 4i. V. m. § 12 Absatz 4 SportSeeSchV | 36,20 |
-| 27 | Ausstellung i. V. m. Auflagen | § 6 Absatz 4 SportSeeSchV | 18,25 |
-| 28 | Ausstellung einer Ersatzausfertigung oder einer Ersatzbescheinigung SKS | § 12 Absatz 1 und 2 SportSeeSchV | 42 |
-| 29 | Ausstellung einer Ersatzausfertigung oder einer ErsatzbescheinigungSSS/SHS | § 12 Absatz 1 und 2 SportSeeSchV | 44,70 |
-| 30 | Ausstellung einer Ersatzausfertigung SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,15 |
-| 31 | Ausstellung einer Ersatzausfertigung LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 46,10 |
-| 32 | Ausstellung SSS/SHS | § 12 Absatz 3 SportSeeSchV | 44,70 |
-| 33 | Ausstellung SKS | § 12 Absatz 4 SportSeeSchV | 42 |
-| 34 | Umschreibung SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,15 |
-| 35 | Umschreibung LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 45,10 |
+| 25 | Vornahme einer Zusatzeintragung oder einer Ausnahme | § 10 Absatz 2 und 3, § 12 Absatz 4,§ 11 Absatz 3 SportSeeSchV | 17 |
+| 26 | Ausstellung eines Befähigungsnachweises für Maschinisten | § 10 Absatz 4i. V. m. § 12 Absatz 4 SportSeeSchV | 36,50 |
+| 27 | Ausstellung i. V. m. Auflagen | § 6 Absatz 4 SportSeeSchV | 18,55 |
+| 28 | Ausstellung einer Ersatzausfertigung oder einer Ersatzbescheinigung SKS | § 12 Absatz 1 und 2 SportSeeSchV | 42,30 |
+| 29 | Ausstellung einer Ersatzausfertigung oder einer ErsatzbescheinigungSSS/SHS | § 12 Absatz 1 und 2 SportSeeSchV | 45 |
+| 30 | Ausstellung einer Ersatzausfertigung SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,45 |
+| 31 | Ausstellung einer Ersatzausfertigung LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 46,40 |
+| 32 | Ausstellung SSS/SHS | § 12 Absatz 3 SportSeeSchV | 45 |
+| 33 | Ausstellung SKS | § 12 Absatz 4 SportSeeSchV | 42,30 |
+| 34 | Umschreibung SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,45 |
+| 35 | Umschreibung LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 45,40 |
