@@ -1,0 +1,20 @@
+# Anlage (zu § 2 Absatz 6)Anteilswerte nach § 2 Absatz 6
+
+| Anteilswerte knappschaftliche Rentenversicherung | Bereich Ost | Bereich West |
+| Zusatzversorgung nach Anlage 1 Nummer 1 – 22 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,964007 % | 0,025288 % |
+| Zusatzversorgung nach Anlage 1 Nummer 23 – 26 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,001992 % | 0,000246 % |
+| Zusatzversorgung nach Anlage 1 Nummer 27 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,039842 % | 0,001306 % |
+| Sonderversorgung nach Anlage 2 Nummer 1 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 1,041501 % | 0,046055 % |
+| Sonderversorgung nach Anlage 2 Nummer 2 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,442752 % | 0,014084 % |
+| Sonderversorgung nach Anlage 2 Nummer 3 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,028261 % | 0,000576 % |
+| Sonderversorgung nach Anlage 2 Nummer 4 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,455721 % | 0,017217 % |
+| Pensionsstatut Carl-Zeiss-Stiftung Jena nach § 1 Absatz 1 des Zusatzversorgungssystem-Gleichstellungsgesetzes | 0,013696 % | 0,000627 % |
+| Anteilswerte allgemeine Rentenversicherung | Bereich Ost | Bereich West |
+| Zusatzversorgung nach Anlage 1 Nummer 1 – 22 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 1,301967 % | 0,030701 % |
+| Zusatzversorgung nach Anlage 1 Nummer 23 – 26 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,007310 % | 0,000302 % |
+| Zusatzversorgung nach Anlage 1 Nummer 27 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,048652 % | 0,001488 % |
+| Sonderversorgung nach Anlage 2 Nummer 1 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,737330 % | 0,034741 % |
+| Sonderversorgung nach Anlage 2 Nummer 2 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,450682 % | 0,015388 % |
+| Sonderversorgung nach Anlage 2 Nummer 3 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,036188 % | 0,001171 % |
+| Sonderversorgung nach Anlage 2 Nummer 4 zum Anspruchs- und Anwartschaftsüberführungsgesetz | 0,376653 % | 0,011810 % |
+| Pensionsstatut Carl-Zeiss-Stiftung Jena nach § 1 Absatz 1 des Zusatzversorgungssystem-Gleichstellungsgesetzes | 0,026719 % | 0,001602 % |

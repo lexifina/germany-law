@@ -11,3 +11,4 @@ Sonderversorgungssystemen des Beitrittsgebiets durch den Bund
 - [§ 6 Durchführung des Erstattungsverfahrens und der Abrechnung](0006.md)
 - [§ 7 Inkrafttreten](0007.md)
 - [Schlußformel](schlussformel.md)
+- [Anlage (zu § 2 Absatz 6)Anteilswerte nach § 2 Absatz 6](anlage.md)
