@@ -4,6 +4,7 @@ Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine a
 Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch Arzneimittel, die die jeweiligen Salze oder Hydrate der nachfolgend aufgeführten Stoffe enthalten oder denen diese zugesetzt sind.
 Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
 Abacavir
+Abaloparatid
 Abamectin
 Abarelix
 Abatacept
@@ -163,6 +164,7 @@ Apramycin
 Apremilast
 Aprepitant
 Aprindin
+Aprocitentan
 Apronalid
 Aprotinin
 Ardeparin
@@ -394,6 +396,7 @@ Cantharides und ihre Zubereitungen
 - ausgenommen zum äußeren Gebrauch in Pflastern, Salben oder ähnlichen Zubereitungen -
 Cantharidin
 Capecitabin
+Capivasertib und seine Ester
 Capmatinib
 Capreomycin
 Capsaicin und seine Ester
@@ -538,6 +541,7 @@ Cinchocain
 Cinchophen und seine Ester
 Cinnarizin
 Cinoxacin
+Cipaglucosidase alfa
 Ciprofloxacin
 Cisaprid
 Cisatracurium-Salze
@@ -639,7 +643,7 @@ Cyclothiazid
 Cyproheptadin
 Cyproteron und seine Ester
 Cytarabin
-Cytisin
+Cytisiniclin
 Dabigatran und seine Ester
 Dabrafenib
 Dacarbazin
@@ -652,6 +656,7 @@ Dalteparin
 – zur parenteralen Anwendung –
 Danaparoid
 Danazol
+Danicopan
 Danofloxacin
 Dapagliflozin und seine Ester
 Dapiprazol
@@ -665,6 +670,7 @@ Darolutamid und seine Ester
 Darunavir
 Dasabuvir
 Dasatinib
+Dasiglucagon
 Datura-Arten und ihre Zubereitungen
 – ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung aus oberirdischen Teilen von Datura stramonium zur Blütezeit, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind –
 Daunorubicin
@@ -857,6 +863,7 @@ Edotreotid
 Edoxaban
 Edoxudin
 Efavirenz
+Efbemalenograstim alfa
 Efgartigimod alfa
 Eflornithin
 Eisen(III)-citrat-Hydrat, basisches
@@ -865,6 +872,7 @@ Eisen(III)-hydroxid-oxid-Sucrose-Stärke-Gemisch
 Eisen(III)-Maltol
 Eisen-Verbindungen
 - zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
+Elacestrant und seine Ester
 Elbasvir
 Eletriptan
 Elexacaftor
@@ -885,6 +893,7 @@ Encorafenib
 Endomid
 Enfluran
 Enfuvirtid
+Enmetazobactam
 Enoxacin
 Enoxaparin
 – zur parenteralen Anwendung –
@@ -986,6 +995,7 @@ Etonogestrel
 Etoposid
 Etoricoxib
 Etozolin
+Etrasimod und seine Ester
 Etravirin
 Etretinat
 Etynodiol und seine Ester
@@ -1028,6 +1038,7 @@ Ferucarbotran
 Ferumoxytol
 Fesoterodin
 Fexofenadin
+Fezolinetant
 Fibrinolysin (human)
 Fidaxomicin und seine Derivate und Analoga
 Filgrastrim
@@ -1118,6 +1129,7 @@ Fostamatinib
 Fostemsavir
 Framycetin
 Frovatriptan
+Fruquintinib
 Fulvestrant
 Furaltadon
 Furazolidon
@@ -1197,8 +1209,8 @@ Halometason
 Haloperidol und seine Ester
 Halothan
 Haloxon
-(¹³C) Harnstoff
-(¹⁴C) Harnstoff
+(¹³C)Harnstoff
+(¹⁴C)Harnstoff
 Hemoglobinglutamer
 - zur Anwendung bei Tieren -
 Heparine
@@ -1316,6 +1328,7 @@ Insulin degludec
 Insulin detemir
 Insulin glargin
 Insulin glulisin
+Insulin icodec
 Insulin lispro
 Insulin (vom Schwein)-Zink-Injektionssuspension, kristallin
 - zur Anwendung bei Tieren -
@@ -1336,6 +1349,7 @@ Ipratropiumbromid und seine Ester
 Iprazochrom
 Iproclozid
 Ipronidazol
+Iptacopan und seine Ester
 - zur Anwendung bei Tieren -
 Irbesartan
 Irinotecan
@@ -1495,6 +1509,7 @@ Luprostiol
 - zur Anwendung bei Tieren -
 Lurasidon
 Luspatercept
+(¹⁷⁷Lu)Lutetiumvipivotidtetraxetan und seine Ester
 Lutropin
 Lutropin alfa
 Lynestrenol
@@ -1658,6 +1673,7 @@ Moexipril
 Mofebutazon
 Molgramostim
 Molsidomin
+Momelotinib
 Mometason und seine Ester
 – ausgenommen Mometasonfuroat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der saisonalen allergischen Rhinitis, nach der Erstdiagnose einer saisonalen allergischen Rhinitis durch einen Arzt, in einer Tagesdosis bis zu 200 Mikrogramm Mometasonfuroat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 Monepantel
@@ -1809,6 +1825,7 @@ Olodaterol
 Olopatadin
 – ausgenommen zur Anwendung am Auge, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Erwachsene angegeben ist, es sei denn, es handelt sich um von der Europäischen Kommission als verschreibungspflichtig zugelassene Arzneimittel –
 Olsalazin
+Omaveloxolon
 Ombitasvir
 Omega-3-Säurenethylester
 - zur adjuvanten Behandlung zur Sekundärprophylaxe nach Herzinfarkt, zusätzlich zur Standard-Behandlung (z. B. Statine, Thrombozytenaggregationshemmer, Betablocker, ACE-Hemmer) -
@@ -1921,6 +1938,7 @@ Pegloticase
 Pegunigalsidase alfa
 Pegvaliase
 Pegvisomant
+Pegzilarginase
 Pemetrexed
 Pemigatinib
 Penbutolol
@@ -2001,8 +2019,8 @@ Pipemidsäure
 Pipenzolatbromid
 Piperacillin
 Piperaquin
-Piperazin, auch als Hydrat
-- als Wurmmittel -
+Piperazin
+– als Wurmmittel –
 Piperidolat
 Piperoxan
 Piperylon
@@ -2161,6 +2179,7 @@ Quinisocain
 – ausgenommen Arzneimittel zum Aufbringen auf die Haut oder Schleimhaut, außer zur Anwendung am Auge –
 Quintiofos
 Quinupristin
+Quizartinib
 Rabeprazol
 Racecadotril
 – ausgenommen in festen Zubereitungen zur symptomatischen Behandlung von akutem Durchfall für eine maximale Anwendungsdauer von drei Tagen bei
@@ -2205,6 +2224,7 @@ Retinol und seine Ester
 - ausgenommen zum äußeren Gebrauch in Zubereitungen mit einer Tagesdosis bis zu 50 000 I.E. -
 Reviparin
 – zur parenteralen Anwendung –
+Rezafungin und seine Ester
 Ribavirin
 Ribociclib
 Ribostamycin
@@ -2223,6 +2243,7 @@ Ripretinib
 Risdiplam
 Risedronsäure
 Risperidon
+Ritlecitinib
 Ritodrin
 Ritonavir
 Rivaroxaban
@@ -2323,6 +2344,7 @@ Sitaxentan
 Sofosbuvir
 Solifenacin
 Solriamfetol
+Somapacitan
 Somatorelin
 Somatostatin
 Somatrogon
@@ -2335,6 +2357,7 @@ Sotorasib und seine Ester
 Spagluminsäure
 - zur Behandlung der saisonalen Rhinitis -
 Sparfloxacin
+Sparsentan
 Spartein
 - ausgenommen zum äußeren Gebrauch -
 Spectinomycin
@@ -2510,7 +2533,7 @@ Tioguanin
 Tiomesteron
 Tiopronin
 Tiotixen
-Tiotropiumbromid und sein Hydrat
+Tiotropiumbromid
 Tipiracil
 Tipranavir
 Tiracizin
@@ -2518,6 +2541,7 @@ Tiratricol
 Tirbanibulin
 Tirofiban
 Tiropramid
+Tirzepatid
 Tivozanib
 Tixocortol und seine Ester
 Tizanidin
@@ -2528,6 +2552,7 @@ Toceranib
 Tocofersolan und seine Ester
 – bei Vitamin-E-Mangel auf Grund digestiver Malabsorption bei pädiatrischen Patienten –
 Tofacitinib
+Tofersen
 Tolazamid
 Tolbutamid
 Tolcapon
@@ -2634,6 +2659,7 @@ Valganciclovir
 Valnemulin
 Valproinsäure
 Valsartan
+Vamorolon und seine Ester
 Vancomycin
 Vandetanib
 Vardenafil
@@ -2656,6 +2682,7 @@ Vericiguat
 Vernakalant
 Verteporfin
 Vestronidase alfa
+Vibegron und seine Ester
 Vidarabin
 Vigabatrin
 Vilanterol
@@ -2696,6 +2723,7 @@ Zellen menschlicher oder tierischer Herkunft in frischem, gefrorenem oder getroc
 Zeranol
 Ziconotid
 Zidovudin
+Zilucoplan
 Zinkoxid zur oralen Anwendung
 – ausgenommen in Tagesdosen bis zu 25 mg Zink –
 Zink
@@ -2725,6 +2753,7 @@ Zubereitung aus
 Azelastin
 und
 Fluticasonpropionat
+– ausgenommen Zubereitungen aus Azelastin und Fluticasonpropionat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der mittelschweren bis schweren saisonalen allergischen Rhinitis, nach deren Erstdiagnose durch einen Arzt und wenn eine Monotherapie entweder mit einem intranasalen Antihistaminikum oder einem Glukokortikoid nicht als ausreichend erachtet wird, in einer Tagesdosis bis zu 200 Mikrogramm Fluticasonpropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 Zubereitung aus
 Colfosceril,
 1-Hexadecanol
