@@ -12,7 +12,7 @@
 - [§ 3 Zuständige Stellen](0003.md)
 - [§ 4 Antragsverfahren](0004.md)
 - [§ 5 Auswahlverfahren](0005.md)
-- [§ 5 Antragsinhalt](0005-2.md)
+- [§ 5 (doppelt)Antragsinhalt](0005-2.md)
 - [§ 6 Auswahlverfahren](0006.md)
 - [§ 7 Vorschusszahlungen und Sicherheitsleistungen](0007.md)
 - [§ 8 Förderfähigkeit von maßnahmenbezogenen Kosten](0008.md)
