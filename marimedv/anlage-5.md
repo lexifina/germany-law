@@ -10,7 +10,7 @@
 |  | Zerlegbarer Torso, mindestens zwölf Teile | X |  |
 | 3. | Medizinische Simulatoren |
 |  | AED-Trainingssystem einem Halbautomatischem Defibrillator entsprechend mit EKG-Anzeige | X |  |
-|  | Herz-, Lungenwiederbelebungs- (Reanimations-) Trainingspuppe | X |  |
+|  | Herz-, Lungenwiederbelebungs- (Reanimations-) Trainingspuppe | X | X |
 |  | Katheterisierungs-Simulator transurethrale Katheterisierung beim Mann | X |  |
 |  | Naht-Arm-Trainer oder Naht-Bein-Trainer | X |  |
 |  | Trainingsarm für intravenöse Injektionen und Infusion | X |  |
@@ -37,7 +37,7 @@
 |  |  | Einmal-Operationshandschuhe steril verpackt | X | X |
 |  |  | Einmal-Lochtuch | X |  |
 |  | c) | Mittel zur Krankenpflege |
-|  |  | Einmal-Kunststoff-Katheter | X |  |
+|  |  | Verweil-Katheter | X |  |
 |  |  | Urinbeutel | X |  |
 |  |  | Kanüle zur Blasenpunktion | X |  |
 |  |  | Einmal-Nierenschale | X |  |
@@ -49,7 +49,7 @@
 |  | f) | Verschiedene Artikel |
 |  |  | O2-Sauerstoffgerät | X |  |
 |  |  | Guedel-Tubus | X | X |
-|  |  | Wendl-Tubus | X |  |
+|  |  | Tourniquet | X | X |
 |  |  | Beatmungsbeutel mit Sauerstoffreservoir | X | X |
 |  |  | Maske für Beatmungsbeutel | X | X |
 |  |  | Gerät zur Absaugung | X | X |
