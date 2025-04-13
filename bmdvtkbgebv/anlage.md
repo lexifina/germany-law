@@ -155,6 +155,8 @@ Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 | 2 | Entgeltgenehmigung nach § 18 Absatz 2 Satz 3 TDDDG | 500 bis 20 000 |
 | 3 | Maßnahme nach § 30 Absatz 2 TDDDG zur Sicherstellung der Einhaltung der Vorschriften des Teils 2 TDDDG | nach Zeitaufwand |
 | 4 | Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TDDDG | nach Zeitaufwand |
+| 5 | Prüfung der Anerkennungsvoraussetzungen nach § 10 EinwV | nach Zeitaufwand |
+| 6 | Widerruf der Anerkennung nach § 16 EinwV | nach Zeitaufwand |
 Abschnitt 3
 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
