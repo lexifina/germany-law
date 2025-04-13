@@ -177,6 +177,7 @@ besonderen Fällen
 - [§ 133](0133.md)
 - [§ 133a Erteilung von Grundbuchabdrucken durch Notare; Verordnungsermächtigung](0133a.md)
 - [§ 134](0134.md)
+- [§ 134a Datenübermittlung bei der Entwicklung von Verfahren zur Anlegung des Datenbankgrundbuchs](0134a.md)
 
 ## Achter Abschnitt Elektronischer Rechtsverkehr und elektronische Grundakte
 

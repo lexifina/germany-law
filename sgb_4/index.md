@@ -294,7 +294,7 @@
 - [§ 124 Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches](0124.md)
 - [§ 125 Übergangsregelung zum Erstattungsanspruch nach § 55 Absatz 3d Satz 1 des Elften Buches und zur Verzinsung dieses Erstattungsanspruchs](0125.md)
 - [§ 126 Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern](0126.md)
-- [§ 127 (weggefallen)](0127.md)
+- [§ 127 Übergangsregelung für Lehrtätigkeiten](0127.md)
 - [§ 128 Außerordentliche Hemmung der Verjährung](0128.md)
 - [§ 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023](0129.md)
 - [§ 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren](0130.md)
