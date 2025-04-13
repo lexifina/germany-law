@@ -20,7 +20,7 @@
 - [§ 8 Messstelle](0008.md)
 - [§ 9 Messstellenverträge](0009.md)
 - [§ 10 Inhalt von Messstellenverträgen](0010.md)
-- [§ 11 Dokumentationspflicht; Auffangzuständigkeit für den grundzuständigen Messstellenbetrieb](0011.md)
+- [§ 11 Dokumentationspflicht; Auffangzuständigkeit für den grundzuständigen Messstellenbetrieb; Festlegungskompetenz](0011.md)
 - [§ 12 Rechte des Netzbetreibers](0012.md)
 - [§ 13 Nutzung des Verteilernetzes zur Datenübertragung](0013.md)
 
@@ -47,13 +47,13 @@
 
 ### Kapitel 4 Ergänzende Rechte und Pflichten im Zusammenhang mit dem Messstellenbetrieb mit modernen Messeinrichtungen und intelligenten Messsystemen
 
-- [§ 29 Ausstattung von Messstellen mit intelligenten Messsystemen und modernen Messeinrichtungen](0029.md)
-- [§ 30 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen; Preisobergrenzen](0030.md)
+- [§ 29 Ausstattung von Messstellen mit intelligenten Messsystemen, Steuerungseinrichtungen und modernen Messeinrichtungen](0029.md)
+- [§ 30 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen und Steuerungseinrichtungen; Preisobergrenzen; Festlegungskompetenz](0030.md)
 - [§ 31 Agiler Rollout, Anwendungsupdate](0031.md)
 - [§ 32 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit modernen Messeinrichtungen](0032.md)
-- [§ 33 Anpassungen, Aufhebungen oder Neufestlegungen bei Preisobergrenzen, agilem Rollout und Ausstattungsverpflichtungen; Verordnungsermächtigungen](0033.md)
+- [§ 33 Anpassungen, Aufhebungen oder Neufestlegungen bei Preisobergrenzen und Vermutungstatbeständen; Festlegungskompetenzen](0033.md)
 - [§ 34 Standard- und Zusatzleistungen des Messstellenbetreibers; Verordnungsermächtigung](0034.md)
-- [§ 35 Preisobergrenzen für Zusatzleistungen des grundzuständigen Messstellenbetreibers](0035.md)
+- [§ 35 Angemessenes Entgelt für Zusatzleistungen des grundzuständigen Messstellenbetreibers](0035.md)
 - [§ 36 Ausstattungspflichten und freie Wahl des Messstellenbetreibers](0036.md)
 - [§ 37 Informationspflichten des grundzuständigen Messstellenbetreibers](0037.md)
 - [§ 38 Zutrittsrecht](0038.md)

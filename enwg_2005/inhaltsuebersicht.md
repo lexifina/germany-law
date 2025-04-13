@@ -77,6 +77,7 @@
 | § 13i | Weitere Verordnungsermächtigungen |
 | § 13j | Festlegungskompetenzen |
 | § 13k | Nutzen statt Abregeln |
+| § 13l | Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels |
 | § 14 | Aufgaben der Betreiber von Elektrizitätsverteilernetzen |
 | § 14a | Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen |
 | § 14b | Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung |
