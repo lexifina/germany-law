@@ -61,6 +61,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 2114 | Gefäßschädigung der Hand durch stoßartige Krafteinwirkung (Hypothenar-Hammer-Syndrom und Thenar-Hammer-Syndrom) |
 | 2115 | Fokale Dystonie als Erkrankung des zentralen Nervensystems bei Instrumentalmusikern durch feinmotorische Tätigkeit hoher Intensität |
 | 2116 | Koxarthrose durch Lastenhandhabung mit einer kumulativen Dosis von mindestens 9 500 Tonnen während des Arbeitslebens gehandhabter Lasten mit einem Lastgewicht von mindestens 20 kg, die mindestens zehnmal pro Tag gehandhabt wurden |
+| 2117 | Läsion der Rotatorenmanschette der Schulter durch eine langjährige und intensive Belastung durch Überschulterarbeit, repetitive Bewegungen im Schultergelenk, Kraftanwendungen im Schulterbereich durch Heben von Lasten oder Hand-Arm-Schwingungen |
+| 2118 | Gonarthrose bei professionellen Fußballspielerinnen und Fußballspielern nach mindestens 13-jähriger Expositionsdauer |
 | 22 | Druckluft |
 | 2201 | Erkrankungen durch Arbeit in Druckluft |
 | 23 | Lärm |
@@ -94,6 +96,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 4114 | Lungenkrebs durch das Zusammenwirken von Asbestfaserstaub und polyzyklischen aromatischen Kohlenwasserstoffen bei Nachweis der Einwirkung einer kumulativen Dosis, die einer Verursachungswahrscheinlichkeit von mindestens 50 Prozent nach der Anlage 2 entspricht |
 | 4115 | Lungenfibrose durch extreme und langjährige Einwirkung von Schweißrauchen und Schweißgasen – (Siderofibrose) |
 | 4116 | Lungenkrebs nach langjähriger und intensiver Passivrauchexposition am Arbeitsplatz bei Versicherten, die selbst nie oder maximal bis zu 400 Zigarettenäquivalente aktiv geraucht haben |
+| 4117 | Chronische obstruktive Bronchitis einschließlich Emphysem durch Quarzstaubexposition bei Nachweis der Einwirkung einer kumulativen Dosis am Arbeitsplatz von mindestens zwei Quarz-Feinstaubjahren [(mg/m3) x Jahre] oberhalb der Konzentration von 0,1 mg/m3 |
 | 42 | Erkrankungen durch organische Stäube |
 | 4201 | Exogen-allergische Alveolitis |
 | 4202 | Erkrankungen der tieferen Atemwege und der Lungen durch Rohbaumwoll-, Rohflachs- oder Rohhanfstaub (Byssinose) |
