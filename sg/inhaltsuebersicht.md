@@ -41,10 +41,11 @@
 | § 28a | Urlaub bis zum Beginn des Ruhestandes |
 | § 29 | Personalakte |
 | § 29a | Verarbeitung von besonderen Kategorien personenbezogener Daten |
-| § 29b | Gesundheitsakte |
-| § 29c | Personalaktenführende Stelle |
-| § 29d | Aufbewahrung von Personalakten |
-| § 29e | Befugtes Offenbaren von Privatgeheimnissen |
+| § 29b | Datenverarbeitung durch und Datenübermittlung an Feldjäger |
+| § 29c | Gesundheitsakte |
+| § 29d | Personalaktenführende Stelle |
+| § 29e | Aufbewahrung von Personalakten |
+| § 29f | Befugtes Offenbaren von Privatgeheimnissen |
 | § 30 | Geld- und Sachbezüge, Versorgung |
 | § 30a | Teilzeitbeschäftigung, Familienpflegezeit und Pflegezeit |
 | § 30b | Zusammentreffen von Urlaub und Teilzeitbeschäftigung |

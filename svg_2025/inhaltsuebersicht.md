@@ -139,6 +139,7 @@ in besonderen Fällen
 | § 83 | Umzugskostenvergütung |
 | § 84 | Einmalige Unfallentschädigung für besonders gefährdete Soldatinnen und Soldaten |
 | § 85 | Einmalige Entschädigung |
+| § 85a | Kompensationszahlung für bestimmte Statusgruppen |
 | § 86 | Schadensausgleich in besonderen Fällen |
 Abschnitt 6
 Versorgung bei
@@ -203,4 +204,5 @@ Schlussvorschriften
 | § 132 | Übergangsregelung zur Minderung der Förderungsdauer |
 | § 133 | Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen |
 | § 134 | Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit |
+| § 135 | Übergangsregelung aus Anlass des Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr |
 | Anlage | Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags |

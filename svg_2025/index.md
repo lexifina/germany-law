@@ -122,7 +122,7 @@
 - [§ 65 Pfändung, Abtretung und Verpfändung](0065.md)
 - [§ 66 Rückforderung](0066.md)
 - [§ 67 Aufrechnung und Zurückbehaltung](0067.md)
-- [§ 68 Zusammentreffen von Versorgungsbezügen mit Erwerbs- und Erwerbsersatzeinkommen](0068.md)
+- [§ 68 Zusammentreffen von Versorgungsbezügen mit Erwerbs- oder Erwerbsersatzeinkommen](0068.md)
 - [§ 69 Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld](0069.md)
 - [§ 70 Zusammentreffen mehrerer Versorgungsbezüge aus dem öffentlichen Dienst](0070.md)
 - [§ 71 Zusammentreffen von Versorgungsbezügen und Renten](0071.md)
@@ -144,6 +144,7 @@
 - [§ 83 Umzugskostenvergütung](0083.md)
 - [§ 84 Einmalige Unfallentschädigung für besonders gefährdete Soldatinnen und Soldaten](0084.md)
 - [§ 85 Einmalige Entschädigung](0085.md)
+- [§ 85a Kompensationszahlung für bestimmte Statusgruppen](0085a.md)
 - [§ 86 Schadensausgleich in besonderen Fällen](0086.md)
 
 ### Abschnitt 6 Versorgung bei besonderen Auslandsverwendungen
@@ -212,4 +213,5 @@
 - [§ 132 Übergangsregelung zur Minderung der Förderungsdauer](0132.md)
 - [§ 133 Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen](0133.md)
 - [§ 134 Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit](0134.md)
+- [§ 135 Übergangsregelung aus Anlass des Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr](0135.md)
 - [Anlage Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags](anlage.md)
