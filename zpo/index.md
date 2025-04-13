@@ -367,6 +367,7 @@ Landgerichten
 - [§ 271 Zustellung der Klageschrift](0271.md)
 - [§ 272 Bestimmung der Verfahrensweise](0272.md)
 - [§ 273 Vorbereitung des Termins](0273.md)
+- [§ 273a Geheimhaltung](0273a.md)
 - [§ 274 Ladung der Parteien; Einlassungsfrist](0274.md)
 - [§ 275 Früher erster Termin](0275.md)
 - [§ 276 Schriftliches Vorverfahren](0276.md)
@@ -772,9 +773,23 @@ Amtsgerichten
 - [§ 605 Beweisvorschriften](0605.md)
 - [§ 605a Scheckprozess](0605a.md)
 
-## Buch 6 (weggefallen)
+## Buch 6 Weitere besondere Verfahren
 
-- [(XXXX) §§ 606 bis 614 (weggefallen)](xxxx-606-bis-614.md)
+
+### Abschnitt 1 Englischsprachige Verfahren
+
+- [§ 606 Klageschrift](0606.md)
+- [§ 607 Beteiligung Dritter am Rechtsstreit](0607.md)
+- [§ 608 Übersetzung](0608.md)
+- [§ 609 Rechtsmittelschrift](0609.md)
+
+### Abschnitt 2 Verfahren vor den Commercial Courts und den Commercial Chambers
+
+- [§ 610 Anwendbare Vorschriften vor den Commercial Courts; Klageschrift](0610.md)
+- [§ 611 Verweisung an den Commercial Court](0611.md)
+- [§ 612 Organisationstermin](0612.md)
+- [§ 613 Wortprotokoll](0613.md)
+- [§ 614 Rechtsmittel gegen Urteile des Commercial Courts](0614.md)
 - [(XXXX) §§ 615 bis 687 (weggefallen)](xxxx-615-bis-687.md)
 
 ## Buch 7 Mahnverfahren

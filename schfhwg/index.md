@@ -24,6 +24,7 @@
 - [§ 10 Bestellung und kommissarische Verwaltung](0010.md)
 - [§ 11 Vertretung](0011.md)
 - [§ 11a Verwaltung eines unbesetzten Bezirks](0011a.md)
+- [§ 11b Vertretung durch Betriebsangehörigen für die Feuerstättenschau](0011b.md)
 - [§ 12 Aufhebung der Bestellung](0012.md)
 - [§ 12a Haftungsausschluss](0012a.md)
 
@@ -39,7 +40,7 @@
 - [§ 18 Berufspflichten des bevollmächtigten Bezirksschornsteinfegers](0018.md)
 - [§ 19 Führung des Kehrbuchs](0019.md)
 - [§ 19a Mitteilungspflichten von Verwaltern und Wohnungseigentümern](0019a.md)
-- [§ 20 Kosten](0020.md)
+- [§ 20 Kosten; Verordnungsermächtigung](0020.md)
 - [§ 21 Aufsicht](0021.md)
 - [§ 22 Verhältnis zu Bestimmungen des Immissionsschutzrechts](0022.md)
 - [§ 23 Zuständige Behörden](0023.md)
@@ -79,7 +80,7 @@
 
 ## Teil 3 Übergangsregelungen
 
-- [§ 42 Übergangsregelungen für Bezirksschornsteinfegermeister](0042.md)
+- [§ 42 (weggefallen)](0042.md)
 - [§ 43 Ruhegeld wegen Versetzung in den Ruhestand](0043.md)
 - [§ 44 (weggefallen)](0044.md)
 - [§ 45 Anwendungsbestimmungen](0045.md)

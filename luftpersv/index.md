@@ -64,9 +64,6 @@
 
 ### Unterabschnitt 5 (weggefallen)
 
-
-### Unterabschnitt 5 Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
-
 - [(XXXX) §§ 50 bis 53 (weggefallen)](xxxx-50-bis-53.md)
 - [(XXXX) §§ 54 bis 57 (weggefallen)](xxxx-54-bis-57.md)
 - [(XXXX) §§ 58 bis 61 (weggefallen)](xxxx-58-bis-61.md)
@@ -84,6 +81,9 @@
 
 - [§ 77 Langstreckenflugberechtigung für Flugzeugführer](0077.md)
 - [(XXXX) §§ 78 bis 80 (weggefallen)](xxxx-78-bis-80.md)
+
+### Unterabschnitt 5 Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
+
 - [§ 81 (weggefallen)](0081.md)
 - [§ 82 (weggefallen)](0082.md)
 - [§ 83 (weggefallen)](0083.md)

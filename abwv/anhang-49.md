@@ -34,7 +34,7 @@ D Anforderungen an das Abwasser vor Vermischung
 An das Abwasser werden vor der Vermischung mit anderem Abwasser keine zusätzlichen Anforderungen gestellt.
 E Anforderungen an das Abwasser für den Ort des Anfalls
 (1)
-Im Abwasser ist für Kohlenwasserstoffe, gesamt, ein Wert von 20 mg/l in der Stichprobe einzuhalten. Die Anforderung gilt nicht für einen Abwasseranfall von weniger als 1 m3 je Tag.
+Im Abwasser ist für Kohlenwasserstoffe, gesamt, ein Wert von 20 mg/l in der Stichprobe einzuhalten. Die Anforderung gilt nicht für einen Abwasseranfall von weniger als 1 m³ je Tag.
 (2)
 Die Anforderung nach Absatz 1 Satz 1 gilt auch als eingehalten, wenn eine durch allgemeine bauaufsichtliche Zulassung für Anlagen zur Begrenzung von Kohlenwasserstoffen in mineralölhaltigem Abwasser oder sonst nach Landesrecht zugelassene Abwasserbehandlungsanlage entsprechend der Zulassung eingebaut, betrieben und regelmäßig gewartet sowie vor Inbetriebnahme und in regelmäßigen Abständen von nicht länger als 5 Jahren nach Landesrecht auf ihren ordnungsgemäßen Zustand überprüft wird.
 (3)

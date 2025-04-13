@@ -39,6 +39,6 @@ Evaluierung
 | § 23 | Erfahrungsbericht |
 Abschnitt 8
 Schlussvorschriften
-| § 24 | Inkrafttreten |
+| § 24 | Übergangsbestimmungen |
 | Anlage 1 | Brennstoffe |
 | Anlage 2 | Brennstoffe für die Emissionsberichterstattung in den Jahren 2021 und 2022 |

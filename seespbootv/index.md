@@ -47,4 +47,4 @@ Ausland
 
 Untersuchungsumfang](anlage-2.md)
 - [Anlage 3 (zu § 6 Abs. 2)](anlage-3.md)
-- [Anlage 4 (zu § 15 Abs. 2)Besetzung von gewerbsmäßig genutzten Sportbooten](anlage-4.md)
+- [Anlage 4 (zu § 15 Absatz 3)Besetzung von gewerbsmäßig genutzten Sportbooten](anlage-4.md)

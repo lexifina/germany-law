@@ -25,8 +25,10 @@ Bundesamt für Strahlenschutz
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 Bundesanstalt für Geowissenschaften und Rohstoffe
+Bundesanstalt für Gewässerkunde
 Bundesanstalt für Materialforschung und-prüfung
 Bundesanstalt für Straßenwesen
+Bundesanstalt für Wasserbau
 Bundesinstitut für Arzneimittel und Medizinprodukte
 Bundesinstitut für Risikobewertung
 Bundesinstitut für Sportwissenschaft
@@ -108,13 +110,23 @@ Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten, die im militäri
 Die Stellenzulage wird neben einer Stellenzulage nach den Nummern 6, 8, 9 oder 9a nur gewährt, soweit sie diese übersteigt.
 (3)
 Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
+5b. Zulage für Soldaten als Combat Controller bei den Luftlande- und Fernspähkräften der Bundeswehr
+(1)
+Eine Stellenzulage nach Anlage IX erhalten Soldaten bei Verwendung als Combat Controller in einem Großverband, einem Verband oder einer Einheit der Luftlande- und Fernspähkräfte der Bundeswehr
+1. bis zur Erlangung der Basisqualifikation der Stufe B,
+2. nach Erlangung der Basisqualifikation der Stufe B,
+3. nach Erlangung der Basisqualifikation der Stufe C.
+(2)
+Die Stellenzulage wird nicht neben einer Stellenzulage nach Nummer 5a und einer Erschwerniszulage nach den §§ 23h und 23i der Erschwerniszulagenverordnung gewährt.
+(3)
+Der Erwerb der Berechtigung nach Absatz 1 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt.
 6. Zulage für Beamte und Soldaten in fliegerischer Verwendung
 (1)
 Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten in Besoldungsgruppen der Bundesbesoldungsordnung A, wenn sie verwendet werden
 1. als Luftfahrzeugführer mit der Erlaubnis zum Führen ein- oder zweisitziger strahlgetriebener Kampf- oder Schulflugzeuge oder als Waffensystemoffizier mit der Erlaubnis zum Einsatz auf zweisitzigen strahlgetriebenen Kampf- oder Schulflugzeugen,
 2. als Luftfahrzeugführer mit der Erlaubnis zum Führen sonstiger strahlgetriebener Flugzeuge oder sonstiger Luftfahrzeuge oder als Luftfahrzeugoperationsoffizier,
-3. als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
-4. als Flugtechniker in der Bundespolizei oder als sonstige ständige Luftfahrzeugbesatzungsangehörige in der Bundeswehr.
+3. als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen oder als Waffensystemoperateur mit der Erlaubnis und Berechtigung zum Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
+4. als Flugtechniker in der Bundespolizei oder als sonstiger ständiger Luftfahrzeugbesatzungsangehöriger in der Bundeswehr und in anderen Einrichtungen des Bundes.
 Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für verantwortliche Luftfahrzeugführer, die mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2027.
 (2)
 Die zuletzt nach Absatz 1 Satz 1 gewährte Stellenzulage wird nach Beendigung der Verwendung, auch über die Besoldungsgruppe A 16 hinaus, für fünf Jahre weitergewährt, wenn der Beamte oder Soldat
@@ -132,7 +144,7 @@ Eine Stellenzulage nach Absatz 1 Satz 1 ist in Höhe von 50 Prozent ruhegehaltf�
 (5)
 Die Stellenzulage wird neben einer Stellenzulage nach Nummer 8 nur gewährt, soweit sie diese übersteigt. Abweichend von Satz 1 wird die Stellenzulage nach Absatz 1 neben einer Stellenzulage nach Nummer 8 gewährt, soweit sie deren Hälfte übersteigt.
 (6)
-Der Erwerb der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
+Der Erwerb der Erlaubnis und Berechtigung nach Absatz 1 Satz 1 Nummer 3 und der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 6a. Zulage für Beamte und Soldaten als Luftfahrttechnisches Prüfpersonal und freigabeberechtigtes Personal
 (1)
 Beamte und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie eine der folgenden Qualifikationen besitzen und entsprechend der Qualifikation verwendet werden:
@@ -155,12 +167,13 @@ Beamte und Soldaten erhalten während der Verwendung bei obersten Behörden eine
 Beamte und Soldaten erhalten, wenn sie bei den Nachrichtendiensten des Bundes oder der Länder verwendet werden, eine Stellenzulage nach Anlage IX.
 (2)
 Nachrichtendienste sind der Bundesnachrichtendienst, das Bundesamt für den Militärischen Abschirmdienst, das Bundesamt für Verfassungsschutz sowie die Einrichtungen für Verfassungsschutz der Länder.
-8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde- und elektronischen Aufklärung, der satellitengestützten abbildenden Aufklärung oder der Luftbildauswertung
+8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde- und elektronischen Aufklärung, der satellitengestützten abbildenden Aufklärung, der Luftbildauswertung oder der hydroakustischen Aufklärung
 (1)
 Beamte der Bundeswehr und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie verwendet werden in
 1. der Fernmelde- und elektronischen Aufklärung,
-2. der satellitengestützten abbildenden Aufklärung oder
-3. der Luftbildauswertung.
+2. der satellitengestützten abbildenden Aufklärung,
+3. der Luftbildauswertung oder
+4. der hydroakustischen Aufklärung.
 Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf, die einen Vorbereitungsdienst ableisten.
 (2)
 Durch die Stellenzulage werden die mit dem Dienst allgemein verbundenen Erschwernisse und Aufwendungen mit abgegolten.
@@ -546,6 +559,7 @@ Direktor und Professor
 Generalkonsul
 Gesandter
 Kurator der Museumsstiftung Post und Telekommunikation
+Leitender Polizeidirektor beim Deutschen Bundestag
 Leitender Postdirektor
 – bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost –
 – bei der Deutschen Post AG –

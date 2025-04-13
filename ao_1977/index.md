@@ -35,8 +35,7 @@
 - [§ 17 Örtliche Zuständigkeit](0017.md)
 - [§ 18 Gesonderte Feststellungen](0018.md)
 - [§ 19 Steuern vom Einkommen und Vermögen natürlicher Personen](0019.md)
-- [§ 20 Steuern vom Einkommen und Vermögen der Körperschaften,
-Personenvereinigungen, Vermögensmassen](0020.md)
+- [§ 20 Steuern vom Einkommen und Vermögen der Körperschaften, Personenvereinigungen, Vermögensmassen](0020.md)
 - [§ 20a Steuern vom Einkommen bei Bauleistungen](0020a.md)
 - [§ 21 Umsatzsteuer](0021.md)
 - [§ 22 Realsteuern](0022.md)
@@ -106,8 +105,7 @@ Personenvereinigungen, Vermögensmassen](0020.md)
 - [§ 47 Erlöschen](0047.md)
 - [§ 48 Leistung durch Dritte, Haftung Dritter](0048.md)
 - [§ 49 Verschollenheit](0049.md)
-- [§ 50 Erlöschen und Unbedingtwerden der Verbrauchsteuer,
-Übergang der bedingten Verbrauchsteuerschuld](0050.md)
+- [§ 50 Erlöschen und Unbedingtwerden der Verbrauchsteuer, Übergang der bedingten Verbrauchsteuerschuld](0050.md)
 
 ### Dritter Abschnitt Steuerbegünstigte Zwecke
 
@@ -161,15 +159,13 @@ Personenvereinigungen, Vermögensmassen](0020.md)
 - [§ 80a Elektronische Übermittlung von Vollmachtsdaten an Landesfinanzbehörden](0080a.md)
 - [§ 81 Bestellung eines Vertreters von Amts wegen](0081.md)
 
-#### 2. Unterabschnitt Ausschließung und Ablehnung
-von Amtsträgern und anderen Personen
+#### 2. Unterabschnitt Ausschließung und Ablehnung von Amtsträgern und anderen Personen
 
 - [§ 82 Ausgeschlossene Personen](0082.md)
 - [§ 83 Besorgnis der Befangenheit](0083.md)
 - [§ 84 Ablehnung von Mitgliedern eines Ausschusses](0084.md)
 
-#### 3. Unterabschnitt Besteuerungsgrundsätze,
-Beweismittel
+#### 3. Unterabschnitt Besteuerungsgrundsätze, Beweismittel
 
 
 ##### I. Allgemeines
@@ -193,8 +189,7 @@ Beweismittel
 - [§ 91 Anhörung Beteiligter](0091.md)
 - [§ 92 Beweismittel](0092.md)
 
-##### II. Beweis durch Auskünfte und
-Sachverständigengutachten
+##### II. Beweis durch Auskünfte und Sachverständigengutachten
 
 - [§ 93 Auskunftspflicht der Beteiligten und anderer Personen](0093.md)
 - [§ 93a Allgemeine Mitteilungspflichten](0093a.md)
@@ -217,15 +212,11 @@ Sachverständigengutachten
 - [§ 101 Auskunfts- und Eidesverweigerungsrecht der Angehörigen](0101.md)
 - [§ 102 Auskunftsverweigerungsrecht zum Schutz bestimmter Berufsgeheimnisse](0102.md)
 - [§ 103 Auskunftsverweigerungsrecht bei Gefahr der Verfolgung wegen einer Straftat oder einer Ordnungswidrigkeit](0103.md)
-- [§ 104 Verweigerung der Erstattung eines Gutachtens und der
-Vorlage von Urkunden](0104.md)
-- [§ 105 Verhältnis der Auskunfts- und Vorlagepflicht zur
-Schweigepflicht öffentlicher Stellen](0105.md)
-- [§ 106 Beschränkung der Auskunfts- und Vorlagepflicht bei
-Beeinträchtigung des staatlichen Wohls](0106.md)
+- [§ 104 Verweigerung der Erstattung eines Gutachtens und der Vorlage von Urkunden](0104.md)
+- [§ 105 Verhältnis der Auskunfts- und Vorlagepflicht zur Schweigepflicht öffentlicher Stellen](0105.md)
+- [§ 106 Beschränkung der Auskunfts- und Vorlagepflicht bei Beeinträchtigung des staatlichen Wohls](0106.md)
 
-##### V. Entschädigung der Auskunftspflichtigen
-und der Sachverständigen
+##### V. Entschädigung der Auskunftspflichtigen und der Sachverständigen
 
 - [§ 107 Entschädigung der Auskunftspflichtigen und der Sachverständigen](0107.md)
 
@@ -267,8 +258,7 @@ und der Sachverständigen
 - [§ 129 Offenbare Unrichtigkeiten beim Erlass eines Verwaltungsakts](0129.md)
 - [§ 130 Rücknahme eines rechtswidrigen Verwaltungsakts](0130.md)
 - [§ 131 Widerruf eines rechtmäßigen Verwaltungsakts](0131.md)
-- [§ 132 Rücknahme, Widerruf, Aufhebung und Änderung im
-Rechtsbehelfsverfahren](0132.md)
+- [§ 132 Rücknahme, Widerruf, Aufhebung und Änderung im Rechtsbehelfsverfahren](0132.md)
 - [§ 133 Rückgabe von Urkunden und Sachen](0133.md)
 
 ## Vierter Teil Durchführung der Besteuerung
@@ -283,8 +273,7 @@ Rechtsbehelfsverfahren](0132.md)
 
 #### 2. Unterabschnitt Anzeigepflichten
 
-- [§ 137 Steuerliche Erfassung von Körperschaften, Vereinigungen
-und Vermögensmassen](0137.md)
+- [§ 137 Steuerliche Erfassung von Körperschaften, Vereinigungen und Vermögensmassen](0137.md)
 - [§ 138 Anzeigen über die Erwerbstätigkeit](0138.md)
 - [§ 138a Länderbezogener Bericht multinationaler Unternehmensgruppen](0138a.md)
 - [§ 138b Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften](0138b.md)
@@ -310,8 +299,7 @@ und Vermögensmassen](0137.md)
 ### Zweiter Abschnitt Mitwirkungspflichten
 
 
-#### 1. Unterabschnitt Führung von Büchern und
-Aufzeichnungen
+#### 1. Unterabschnitt Führung von Büchern und Aufzeichnungen
 
 - [§ 140 Buchführungs- und Aufzeichnungspflichten nach anderen Gesetzen](0140.md)
 - [§ 141 Buchführungspflicht bestimmter Steuerpflichtiger](0141.md)
@@ -339,8 +327,7 @@ Aufzeichnungen
 
 - [§ 154 Kontenwahrheit](0154.md)
 
-### Dritter Abschnitt Festsetzungs- und
-Feststellungsverfahren
+### Dritter Abschnitt Festsetzungs- und Feststellungsverfahren
 
 
 #### 1. Unterabschnitt Steuerfestsetzung
@@ -360,8 +347,7 @@ Feststellungsverfahren
 - [§ 164 Steuerfestsetzung unter Vorbehalt der Nachprüfung](0164.md)
 - [§ 165 Vorläufige Steuerfestsetzung, Aussetzung der Steuerfestsetzung](0165.md)
 - [§ 166 Drittwirkung der Steuerfestsetzung](0166.md)
-- [§ 167 Steueranmeldung, Verwendung von Steuerzeichen oder
-Steuerstemplern](0167.md)
+- [§ 167 Steueranmeldung, Verwendung von Steuerzeichen oder Steuerstemplern](0167.md)
 - [§ 168 Wirkung einer Steueranmeldung](0168.md)
 
 ##### II. Festsetzungsverjährung
@@ -373,15 +359,13 @@ Steuerstemplern](0167.md)
 ##### III. Bestandskraft
 
 - [§ 172 Aufhebung und Änderung von Steuerbescheiden](0172.md)
-- [§ 173 Aufhebung oder Änderung von Steuerbescheiden wegen neuer
-Tatsachen oder Beweismittel](0173.md)
+- [§ 173 Aufhebung oder Änderung von Steuerbescheiden wegen neuer Tatsachen oder Beweismittel](0173.md)
 - [§ 173a Schreib- oder Rechenfehler bei Erstellung einer Steuererklärung](0173a.md)
 - [§ 174 Widerstreitende Steuerfestsetzungen](0174.md)
 - [§ 175 Änderung von Steuerbescheiden auf Grund von Grundlagenbescheiden und bei rückwirkenden Ereignissen](0175.md)
 - [§ 175a Umsetzung von Verständigungsvereinbarungen](0175a.md)
 - [§ 175b Änderung von Steuerbescheiden bei Datenübermittlung durch Dritte](0175b.md)
-- [§ 176 Vertrauensschutz bei der Aufhebung und Änderung von
-Steuerbescheiden](0176.md)
+- [§ 176 Vertrauensschutz bei der Aufhebung und Änderung von Steuerbescheiden](0176.md)
 - [§ 177 Berichtigung von materiellen Fehlern](0177.md)
 
 ##### IV. Kosten
@@ -389,8 +373,7 @@ Steuerbescheiden](0176.md)
 - [§ 178 Kosten bei besonderer Inanspruchnahme der Zollbehörden](0178.md)
 - [§ 178a (weggefallen)](0178a.md)
 
-#### 2. Unterabschnitt Gesonderte Feststellung
-von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
+#### 2. Unterabschnitt Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 
 
 ##### I. Gesonderte Feststellungen
@@ -439,22 +422,19 @@ von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 - [§ 203 Abgekürzte Außenprüfung](0203.md)
 - [§ 203a Außenprüfung bei Datenübermittlung durch Dritte](0203a.md)
 
-#### 2. Unterabschnitt Verbindliche Zusagen auf
-Grund einer Außenprüfung
+#### 2. Unterabschnitt Verbindliche Zusagen auf Grund einer Außenprüfung
 
 - [§ 204 Voraussetzung der verbindlichen Zusage](0204.md)
 - [§ 205 Form der verbindlichen Zusage](0205.md)
 - [§ 206 Bindungswirkung](0206.md)
-- [§ 207 Außerkrafttreten, Aufhebung und Änderung der verbindlichen
-Zusage](0207.md)
+- [§ 207 Außerkrafttreten, Aufhebung und Änderung der verbindlichen Zusage](0207.md)
 
 ### Fünfter Abschnitt Steuerfahndung (Zollfahndung)
 
 - [§ 208 Steuerfahndung (Zollfahndung)](0208.md)
 - [§ 208a Steuerfahndung des Bundeszentralamts für Steuern](0208a.md)
 
-### Sechster Abschnitt Steueraufsicht in besonderen
-Fällen
+### Sechster Abschnitt Steueraufsicht in besonderen Fällen
 
 - [§ 209 Gegenstand der Steueraufsicht](0209.md)
 - [§ 210 Befugnisse der Finanzbehörde](0210.md)
@@ -469,12 +449,10 @@ Fällen
 ## Fünfter Teil Erhebungsverfahren
 
 
-### Erster Abschnitt Verwirklichung, Fälligkeit und
-Erlöschen von Ansprüchen aus dem Steuerschuldverhältnis
+### Erster Abschnitt Verwirklichung, Fälligkeit und Erlöschen von Ansprüchen aus dem Steuerschuldverhältnis
 
 
-#### 1. Unterabschnitt Verwirklichung und Fälligkeit
-von Ansprüchen aus dem Steuerschuldverhältnis
+#### 1. Unterabschnitt Verwirklichung und Fälligkeit von Ansprüchen aus dem Steuerschuldverhältnis
 
 - [§ 218 Verwirklichung von Ansprüchen aus dem Steuerschuldverhältnis](0218.md)
 - [§ 219 Zahlungsaufforderung bei Haftungsbescheiden](0219.md)
@@ -539,8 +517,7 @@ von Ansprüchen aus dem Steuerschuldverhältnis
 - [§ 252 Vollstreckungsgläubiger](0252.md)
 - [§ 253 Vollstreckungsschuldner](0253.md)
 - [§ 254 Voraussetzungen für den Beginn der Vollstreckung](0254.md)
-- [§ 255 Vollstreckung gegen juristische Personen des öffentlichen
-Rechts](0255.md)
+- [§ 255 Vollstreckung gegen juristische Personen des öffentlichen Rechts](0255.md)
 - [§ 256 Einwendungen gegen die Vollstreckung](0256.md)
 - [§ 257 Einstellung und Beschränkung der Vollstreckung](0257.md)
 - [§ 258 Einstweilige Einstellung oder Beschränkung der Vollstreckung](0258.md)
@@ -576,8 +553,7 @@ Rechts](0255.md)
 - [§ 279 Form und Inhalt des Aufteilungsbescheids](0279.md)
 - [§ 280 Änderung des Aufteilungsbescheids](0280.md)
 
-#### 3. Unterabschnitt Vollstreckung in das
-bewegliche Vermögen
+#### 3. Unterabschnitt Vollstreckung in das bewegliche Vermögen
 
 
 ##### I. Allgemeines
@@ -614,13 +590,11 @@ bewegliche Vermögen
 - [§ 307 Anschlusspfändung](0307.md)
 - [§ 308 Verwertung bei mehrfacher Pfändung](0308.md)
 
-##### III. Vollstreckung in Forderungen und
-andere Vermögensrechte
+##### III. Vollstreckung in Forderungen und andere Vermögensrechte
 
 - [§ 309 Pfändung einer Geldforderung](0309.md)
 - [§ 310 Pfändung einer durch Hypothek gesicherten Forderung](0310.md)
-- [§ 311 Pfändung einer durch Schiffshypothek oder Registerpfandrecht
-an einem Luftfahrzeug gesicherten Forderung](0311.md)
+- [§ 311 Pfändung einer durch Schiffshypothek oder Registerpfandrecht an einem Luftfahrzeug gesicherten Forderung](0311.md)
 - [§ 312 Pfändung einer Forderung aus indossablen Papieren](0312.md)
 - [§ 313 Pfändung fortlaufender Bezüge](0313.md)
 - [§ 314 Einziehungsverfügung](0314.md)
@@ -632,8 +606,7 @@ an einem Luftfahrzeug gesicherten Forderung](0311.md)
 - [§ 320 Mehrfache Pfändung einer Forderung](0320.md)
 - [§ 321 Vollstreckung in andere Vermögensrechte](0321.md)
 
-#### 4. Unterabschnitt Vollstreckung in das
-unbewegliche Vermögen
+#### 4. Unterabschnitt Vollstreckung in das unbewegliche Vermögen
 
 - [§ 322 Verfahren](0322.md)
 - [§ 323 Vollstreckung gegen den Rechtsnachfolger](0323.md)
@@ -648,12 +621,10 @@ unbewegliche Vermögen
 
 - [§ 327 Verwertung von Sicherheiten](0327.md)
 
-### Dritter Abschnitt Vollstreckung wegen anderer
-Leistungen als Geldforderungen
+### Dritter Abschnitt Vollstreckung wegen anderer Leistungen als Geldforderungen
 
 
-#### 1. Unterabschnitt Vollstreckung wegen
-Handlungen, Duldungen oder Unterlassungen
+#### 1. Unterabschnitt Vollstreckung wegen Handlungen, Duldungen oder Unterlassungen
 
 - [§ 328 Zwangsmittel](0328.md)
 - [§ 329 Zwangsgeld](0329.md)
@@ -688,7 +659,7 @@ Handlungen, Duldungen oder Unterlassungen
 
 - [§ 347 Statthaftigkeit des Einspruchs](0347.md)
 - [§ 348 Ausschluss des Einspruchs](0348.md)
-- [§ 349](0349.md)
+- [§ 349 (weggefallen)](0349.md)
 - [§ 350 Beschwer](0350.md)
 - [§ 351 Bindungswirkung anderer Verwaltungsakte](0351.md)
 - [§ 352 Einspruchsbefugnis bei der gesonderten und einheitlichen Feststellung](0352.md)
@@ -712,9 +683,9 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 365 Anwendung von Verfahrensvorschriften](0365.md)
 - [§ 366 Form, Inhalt und Erteilung der Einspruchsentscheidung](0366.md)
 - [§ 367 Entscheidung über den Einspruch](0367.md)
-- [§ 368](0368.md)
+- [§ 368 (weggefallen)](0368.md)
 
-## Achter Teil Straf- und Bußgeldvorschriften,
+## Achter Teil Straf- und Bußgeldvorschriften, Straf- und Bußgeldverfahren
 
 
 ### Erster Abschnitt Strafvorschriften
@@ -738,8 +709,7 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 380 Gefährdung der Abzugsteuern](0380.md)
 - [§ 381 Verbrauchsteuergefährdung](0381.md)
 - [§ 382 Gefährdung der Einfuhr- und Ausfuhrabgaben](0382.md)
-- [§ 383 Unzulässiger Erwerb von Steuererstattungs- und
-Vergütungsansprüchen](0383.md)
+- [§ 383 Unzulässiger Erwerb von Steuererstattungs- und Vergütungsansprüchen](0383.md)
 - [§ 383a (weggefallen)](0383a.md)
 - [§ 383b Pflichtverletzung bei Übermittlung von Vollmachtsdaten](0383b.md)
 - [§ 384 Verfolgungsverjährung](0384.md)
@@ -772,15 +742,13 @@ Vergütungsansprüchen](0383.md)
 - [§ 398 Einstellung wegen Geringfügigkeit](0398.md)
 - [§ 398a Absehen von Verfolgung in besonderen Fällen](0398a.md)
 
-##### II. Verfahren der Finanzbehörde bei
-Steuerstraftaten
+##### II. Verfahren der Finanzbehörde bei Steuerstraftaten
 
 - [§ 399 Rechte und Pflichten der Finanzbehörde](0399.md)
 - [§ 400 Antrag auf Erlass eines Strafbefehls](0400.md)
 - [§ 401 Antrag auf Anordnung von Nebenfolgen im selbständigen Verfahren](0401.md)
 
-##### III. Stellung der Finanzbehörde im
-Verfahren der Staatsanwaltschaft
+##### III. Stellung der Finanzbehörde im Verfahren der Staatsanwaltschaft
 
 - [§ 402 Allgemeine Rechte und Pflichten der Finanzbehörde](0402.md)
 - [§ 403 Beteiligung der Finanzbehörde](0403.md)
@@ -789,8 +757,7 @@ Verfahren der Staatsanwaltschaft
 
 - [§ 404 Steuer- und Zollfahndung](0404.md)
 
-##### V. Entschädigung der Zeugen und der
-Sachverständigen
+##### V. Entschädigung der Zeugen und der Sachverständigen
 
 - [§ 405 Entschädigung der Zeugen und der Sachverständigen](0405.md)
 
@@ -807,8 +774,7 @@ Sachverständigen
 
 - [§ 409 Zuständige Verwaltungsbehörde](0409.md)
 - [§ 410 Ergänzende Vorschriften für das Bußgeldverfahren](0410.md)
-- [§ 411 Bußgeldverfahren gegen Rechtsanwälte, Steuerberater,
-Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer](0411.md)
+- [§ 411 Bußgeldverfahren gegen Rechtsanwälte, Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer](0411.md)
 - [§ 412 Zustellung, Vollstreckung, Kosten](0412.md)
 
 ## Neunter Teil Schlussvorschriften

@@ -6,7 +6,7 @@ Von der Anmeldung zur Außenhandelsstatistik sind folgende Waren und Warenverkeh
 | c) | Waren zur oder nach der vorübergehenden Verwendung (z. B. Miete, Leihe, Operational-Leasing), sofern alle folgenden Bedingungen erfüllt sind: |
 |  | – Eine Veredelung ist weder geplant noch erfolgt, |
 |  | – die erwartete Dauer der vorübergehenden Verwendung beträgt höchstens 24 Monate, |
-|  | – die Versendung/der Eingang ist nicht als Lieferung/Erwerb für Umsatzsteuerzwecke zu erfassen; |
+|  | – die Versendung/der Eingang ist nicht als Lieferung/Erwerb für Umsatzsteuerzwecke zu erfassen bzw. im Falle einer Einfuhr/Ausfuhr hat weder eine Eigentumsübertragung stattgefunden noch ist eine Eigentumsübertragung geplant; |
 | d) | Warenbewegungen zwischen |
 |  | – dem Erhebungsgebiet und den territorialen Exklaven Deutschlands in anderen Ländern, |
 |  | – dem Ausland und den exterritorialen Einheiten auf deutschem Staatsgebiet. |

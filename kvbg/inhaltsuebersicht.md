@@ -94,6 +94,7 @@ Sonstige Bestimmungen
 | § 64 | Rechtsschutz |
 | § 65 | Bußgeldvorschriften |
 | § 66 | Fristen und Termine |
+| § 67 | Übergangsbestimmung |
 | Anlage 1 (zu § 12 Absatz 3) | Südregion |
 | Anlage 2 (zu Teil 5) | Stilllegungszeitpunkte Braunkohleanlagen |
 | Anlage 3 | Vergütung Zeitlich gestreckte Stilllegung |

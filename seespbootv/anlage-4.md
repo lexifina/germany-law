@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 15 Abs. 2)Besetzung von gewerbsmäßig genutzten Sportbooten
+# Anlage 4 (zu § 15 Absatz 3)Besetzung von gewerbsmäßig genutzten Sportbooten
 
 Besetzung von gewerbsmäßig genutzten Wasserfahrzeugen
 | Rumpflänge des Wasserfahrzeuges/ Fahrtgebiet | Besetzung |

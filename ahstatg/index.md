@@ -10,7 +10,7 @@
 - [§ 8 Hilfsmerkmale](0008.md)
 - [§ 9 Auskunftspflicht](0009.md)
 - [§ 10 Anmeldestellen](0010.md)
-- [§ 11 Berichtszeitraum, Meldefrist und Erhebungszeitraum](0011.md)
+- [§ 11 Bezugszeitraum, Meldefrist und Erhebungszeitraum](0011.md)
 - [§ 12 Übermittlung von Daten und Informationen durch Behörden](0012.md)
 - [§ 13 Verzeichnis aller am Außenhandel beteiligten Personen](0013.md)
 - [§ 14 Abdeckungsgrad der Intrahandelsstatistik und Befreiungen von der Anmeldung](0014.md)

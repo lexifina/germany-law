@@ -11,4 +11,4 @@ Artikel 1 Nummer 2 und 3 tritt am 1. August 2026 in Kraft.
 (5)
 Artikel 2 tritt am 1. August 2029 in Kraft.
 (6)
-Artikel 4 tritt am 1. Januar 2026 in Kraft.
+(weggefallen)

@@ -7,7 +7,7 @@
 |  | – | „MW“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde, |
 |  | – | „JW“ der jeweilige Jahresmarktwert in Cent pro Kilowattstunde. |
 | 2. | Zeitlicher Anwendungsbereich |
-|  | Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet. |
+|  | Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet. Für Strom aus Anlagen nach Satz 1 wird abweichend von Satz 1 die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet, wenn der Anspruch nach der Abgrenzungs- oder der Pauschaloption nach § 19 Absatz 3b oder 3c geltend gemacht wird. |
 | 3. | Berechnung der Marktprämie anhand des energieträgerspezifischen Monatsmarktwertes |
 | 3.1 | Berechnungsgrundsätze |
 | 3.1.1 | Die Höhe der Marktprämie wird kalendermonatlich berechnet. Die Berechnung erfolgt rückwirkend anhand der für den jeweiligen Kalendermonat berechneten Werte. |
@@ -24,8 +24,8 @@
 |  | – | Solaranlagen der Wert „MWSolar“ |
 | 3.3.2 | Windenergie an Land |
 |  | „MWWind an Land“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird: |
-|  | – | Für jede Stunde eines Kalendermonats wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert. |
-|  | – | Die Ergebnisse für alle Stunden des Kalendermonats werden summiert. |
+|  | – | Für jede Viertelstunde eines Kalendermonats wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Viertelstunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert. |
+|  | – | Die Ergebnisse für alle Viertelstunden des Kalendermonats werden summiert. |
 |  | – | Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land. |
 | 3.3.3 | Windenergie auf See |
 |  | „MWWind auf See“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „MWWind auf See“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist. |
@@ -47,17 +47,17 @@
 |  | – | Solaranlagen der Wert „JWSolar“. |
 | 4.3.2 | Windenergie an Land |
 |  | „JWWind an Land“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird: |
-|  | – | Für jede Stunde eines Kalenderjahres wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert. |
-|  | – | Die Ergebnisse für alle Stunden des Kalenderjahres werden summiert. |
+|  | – | Für jede Viertelstunde eines Kalenderjahres wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Viertelstunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert. |
+|  | – | Die Ergebnisse für alle Viertelstunden des Kalenderjahres werden summiert. |
 |  | – | Diese Summe wird dividiert durch die Menge des in dem gesamten Kalenderjahr nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land. |
 | 4.3.3 | Windenergie auf See |
 |  | „JWWind auf See“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „JWWind auf See“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist. |
 | 4.3.4 | Solare Strahlungsenergie |
 |  | „JWSolar“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von „JWSolar“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist. |
 | 5. | Veröffentlichungen |
-| 5.1 | Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens stündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen. |
+| 5.1 | Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens viertelstündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen. |
 | 5.2 | Die Übertragungsnetzbetreiber müssen ferner für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats auf einer gemeinsamen Internetseite in einheitlichem Format und auf drei Stellen nach dem Komma gerundet folgende Daten in nicht personenbezogener Form veröffentlichen: |
-|  | a) | den Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung, |
+|  | a) | den Spotmarktpreis für jeden Kalendertag in viertelstündlicher Auflösung, |
 |  | b) | den Wert „MW“ nach der Maßgabe der Nummer 3.2, |
 |  | c) | den Wert „MWWind an Land“ nach der Maßgabe der Nummer 3.3.2, |
 |  | d) | den Wert „MWWind auf See“ nach der Maßgabe der Nummer 3.3.3 und |
@@ -71,5 +71,5 @@
 | 5.5 | Soweit Daten, die nach Nummer 5.2 oder 5.3 veröffentlicht werden müssen, nicht fristgerecht verfügbar sind, muss die Veröffentlichung unverzüglich nachgeholt werden. “ |
 | 6. | Mitteilungspflichten der Strombörsen |
 |  | Die Strombörsen müssen den Übertragungsnetzbetreibern folgende Informationen mitteilen: |
-|  | a) | bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung und |
-|  | b) | im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen für die jeweils hiervon betroffenen Stunden den an ihrer Strombörse ermittelten Preis für die Stromstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen für diese Stromstundenkontrakte; diese Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss der vortägigen Auktion erfolgen. |
+|  | a) | bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten Spotmarktpreis für jeden Kalendertag in viertelstündlicher Auflösung und |
+|  | b) | im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen für die jeweils hiervon betroffenen Viertelstunden den an ihrer Strombörse ermittelten Preis für die Stromviertelstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen für diese Stromviertelstundenkontrakte; diese Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss der vortägigen Auktion erfolgen. |

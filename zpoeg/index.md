@@ -39,6 +39,7 @@
 - [§ 36](0036.md)
 - [§ 37 Übergangsvorschrift zum Risikobegrenzungsgesetz](0037.md)
 - [§ 37a Übergangsbestimmung zur Prozesskostenhilfe](0037a.md)
+- [§ 37b Übergangsvorschrift zum Gesetz zur Stärkung des Justizstandortes Deutschland durch Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstandort-Stärkungsgesetz)](0037b.md)
 - [§ 38 Informationspflicht aus Anlass des Gesetzes zur Reform des Kontopfändungsschutzes](0038.md)
 - [§ 38a](0038a.md)
 - [§ 39](0039.md)

@@ -9,7 +9,7 @@
 - [§ 2 Datenübermittlung der Zollbehörden](0002.md)
 - [§ 3 Anmeldung von Zolllagerverkehren](0003.md)
 - [§ 4 Veredelungsverkehre](0004.md)
-- [§ 5 Befreiung der Anmeldung von Waren zur vorübergehenden Verwendung](0005.md)
+- [§ 5 Befreiung der Anmeldung von Waren zu oder nach der vorübergehenden Verwendung](0005.md)
 - [§ 6 Anmeldepflichten](0006.md)
 - [§ 7 Verfahren bei statistischen Anmeldungen/Anmeldeverfahren](0007.md)
 - [§ 8 Berichtigungen](0008.md)
@@ -32,11 +32,11 @@
 
 - [§ 20 Schiffe, Luft- und Raumfahrzeuge](0020.md)
 - [§ 21 Schiffs- und Luftfahrzeugbedarf](0021.md)
-- [§ 22 Waren für und von Einrichtungen auf hoher See](0022.md)
+- [§ 22 Waren an und von Einrichtungen auf hoher See](0022.md)
 - [§ 23 Meeresprodukte](0023.md)
 - [§ 24 Strom und Erdgas](0024.md)
 - [§ 25 Warenverkehre mit exterritorialen Einheiten](0025.md)
-- [§ 26 Abfallprodukte](0026.md)
+- [§ 26 Warenverkehre mit Abfällen](0026.md)
 
 ## Abschnitt 4 Vereinfachungen und Befreiungen
 
@@ -52,7 +52,7 @@
 - [§ 33 Datenübermittlung](0033.md)
 - [§ 34 Inkrafttreten](0034.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage 1 Kapitel 99 des Warenverzeichnisses Vereinfachte Anmeldungen und Sammelanmeldungen](anlage-1.md)
+- [Anlage 1 Kapitel 99 des Warenverzeichnisses Zusammenstellung verschiedener Waren und besondere Warenbewegungen](anlage-1.md)
 - [Anlage 2 Verzeichnis der Arten des Geschäfts](anlage-2.md)
 - [Anlage 3 Verzeichnis der Ursprungs- bzw. Bestimmungsregionen](anlage-3.md)
 - [Anlage 4 Befreiungsliste](anlage-4.md)

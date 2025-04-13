@@ -1,3 +1,3 @@
-# XXXX (§§ 60 bis 64) (weggefallen)
+# (XXXX) §§ 60 bis 64 (weggefallen)
 
 

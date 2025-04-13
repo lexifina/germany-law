@@ -6,7 +6,7 @@ Anmeldeverfahren
 | § 2 | Datenübermittlung der Zollbehörden |
 | § 3 | Anmeldung von Zolllagerverkehren |
 | § 4 | Veredelungsverkehre |
-| § 5 | Befreiung der Anmeldung von Waren zur vorübergehenden Verwendung |
+| § 5 | Befreiung der Anmeldung von Waren zu oder nach der vorübergehenden Verwendung |
 | § 6 | Anmeldepflichten |
 | § 7 | Verfahren bei statistischen Anmeldungen/Anmeldeverfahren |
 | § 8 | Berichtigungen |
@@ -29,11 +29,11 @@ Besondere Waren
 und Warenbewegungen
 | § 20 | Schiffe, Luft- und Raumfahrzeuge |
 | § 21 | Schiffs- und Luftfahrzeugbedarf |
-| § 22 | Waren für und von Einrichtungen auf hoher See |
+| § 22 | Waren an und von Einrichtungen auf hoher See |
 | § 23 | Meeresprodukte |
 | § 24 | Strom und Erdgas |
 | § 25 | Warenverkehre mit exterritorialen Einheiten |
-| § 26 | Abfallprodukte |
+| § 26 | Warenverkehre mit Abfällen |
 Abschnitt 4
 Vereinfachungen und Befreiungen
 | § 27 | Vereinfachte Anmeldungen |

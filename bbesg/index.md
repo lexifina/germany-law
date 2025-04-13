@@ -91,6 +91,7 @@
 - [§ 50a Vergütung für Soldaten mit besonderer zeitlicher Belastung](0050a.md)
 - [§ 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern](0050b.md)
 - [§ 50c Vergütung für Beamte im Einsatzdienst der Bundeswehrfeuerwehren](0050c.md)
+- [§ 50d Vergütung für Soldaten mit besonderen Alarmierungsverpflichtungen](0050d.md)
 - [§ 51 Andere Zulagen und Vergütungen](0051.md)
 
 ## Abschnitt 5 Auslandsbesoldung

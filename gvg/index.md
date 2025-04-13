@@ -154,6 +154,7 @@ und die Geschäftsverteilung
 - [§ 118](0118.md)
 - [§ 119](0119.md)
 - [§ 119a](0119a.md)
+- [§ 119b](0119b.md)
 - [§ 120](0120.md)
 - [§ 120a](0120a.md)
 - [§ 120b](0120b.md)
@@ -251,6 +252,8 @@ in Strafsachen
 ## Fünfzehnter Titel Gerichtssprache
 
 - [§ 184](0184.md)
+- [§ 184a](0184a.md)
+- [§ 184b](0184b.md)
 - [§ 185](0185.md)
 - [§ 186](0186.md)
 - [§ 187](0187.md)

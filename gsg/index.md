@@ -61,8 +61,7 @@ Krankenversicherung"
 versicherungsfreie Personen
 
 
-## Art 33
-Überleitungsvorschriften
+## Art 33 Überleitungsvorschriften
 
 
 ## Art 33

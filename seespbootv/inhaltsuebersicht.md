@@ -34,4 +34,4 @@
 | Anlage 1 | Bootszeugnis (§ 5) |
 | Anlage 2 | Untersuchungsumfang (§ 6 Abs. 1) |
 | Anlage 3 | Abnahmeprotokoll für Sportboote/Wassermotorräder (§ 6 Abs. 2) |
-| Anlage 4 | Besetzung bei gewerbsmäßiger Folgenutzung (§ 15 Abs. 2) |
+| Anlage 4 | Besetzung bei gewerbsmäßiger Folgenutzung (§ 15 Absatz 3) |

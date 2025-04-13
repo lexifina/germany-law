@@ -2,48 +2,41 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Abschnitt 1 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 850/2004
+## Abschnitt 1 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
 
-- [§ 1 Straftaten nach der Verordnung (EG) Nr. 850/2004](0001.md)
-- [§ 2 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 850/2004](0002.md)
+- [§ 1 Straftaten nach der Verordnung (EG) Nr. 1907/2006](0001.md)
+- [§ 2 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1907/2006](0002.md)
 
-## Abschnitt 2 (weggefallen)
+## Abschnitt 2 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1272/2008
 
-- [(XXXX) §§ 3 und 4 (weggefallen)](xxxx-3-und-4.md)
+- [§ 3 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1272/2008](0003.md)
 
-## Abschnitt 3 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
+## Abschnitt 3 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 528/2012
 
-- [§ 5 Straftaten nach Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006](0005.md)
-- [§ 6 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1907/2006](0006.md)
+- [§ 4 Straftaten nach der Verordnung (EU) Nr. 528/2012](0004.md)
+- [§ 5 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 528/2012](0005.md)
 
-## Abschnitt 4 (weggefallen)
+## Abschnitt 4 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 649/2012
 
-- [(XXXX) §§ 7 und 8 (weggefallen)](xxxx-7-und-8.md)
+- [§ 6 Straftaten nach der Verordnung (EU) Nr. 649/2012](0006.md)
+- [§ 7 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 649/2012](0007.md)
 
-## Abschnitt 5 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1102/2008
+## Abschnitt 5 Zuwiderhandlungen gegen die Verordnung (EU) 2017/852
 
-- [§ 9 Straftaten nach der Verordnung (EG) Nr. 1102/2008](0009.md)
-- [§ 10 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1102/2008](0010.md)
+- [§ 8 Straftaten nach der Verordnung (EU) 2017/852](0008.md)
+- [§ 9 Ordnungswidrigkeiten nach der Verordnung (EU) 2017/852](0009.md)
 
-## Abschnitt 6 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1272/2008
+## Abschnitt 6 Zuwiderhandlungen gegen die Verordnung (EU) 2019/1021
 
-- [§ 11 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1272/2008](0011.md)
+- [§ 10 Straftaten nach der Verordnung (EU) 2019/1021](0010.md)
+- [§ 11 Ordnungswidrigkeiten nach der Verordnung (EU) 2019/1021](0011.md)
 
-## Abschnitt 7 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1005/2009
+## Abschnitt 7 Zuwiderhandlungen gegen die Verordnung (EU) 2024/573
 
-- [§ 12 Straftaten nach der Verordnung (EG) Nr. 1005/2009](0012.md)
-- [§ 13 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1005/2009](0013.md)
+- [§ 12 Straftaten nach der Verordnung (EU) 2024/573](0012.md)
+- [§ 13 Ordnungswidrigkeiten nach der Verordnung (EU) 2024/573](0013.md)
 
-## Abschnitt 8 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 528/2012
+## Abschnitt 8 Zuwiderhandlungen gegen die Verordnung (EU) 2024/590
 
-- [§ 14 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 528/2012](0014.md)
-
-## Abschnitt 9 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 649/2012
-
-- [§ 15 Straftaten nach der Verordnung (EU) Nr. 649/2012](0015.md)
-- [§ 16 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 649/2012](0016.md)
-
-## Abschnitt 10 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 517/2014 und die auf ihrer Grundlage fortgeltenden Kommissionsverordnungen (EG) Nr. 1497/2007 und Nr. 1516/2007
-
-- [§ 17 Straftaten nach der Verordnung (EU) Nr. 517/2014](0017.md)
-- [§ 18 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 517/2014 und den auf ihrer Grundlage fortgeltenden Kommissionsverordnungen (EG) Nr. 1497/2007 und Nr. 1516/2007](0018.md)
+- [§ 14 Straftaten nach der Verordnung (EU) 2024/590](0014.md)
+- [§ 15 Ordnungswidrigkeiten nach der Verordnung (EU) 2024/590](0015.md)

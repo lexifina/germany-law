@@ -27,7 +27,7 @@
 
 ## Abschnitt 4 Vereinbarkeit von Familie oder Pflege mit der Berufstätigkeit
 
-- [§ 15 Arbeitszeiten und sonstige Rahmenbedingungen](0015.md)
+- [§ 15 Arbeitszeiten, sonstige Rahmenbedingungen und Erstattung von Betreuungskosten in besonderen Fällen](0015.md)
 - [§ 16 Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben](0016.md)
 - [§ 17 Wechsel zur Vollzeitbeschäftigung, beruflicher Wiedereinstieg](0017.md)
 - [§ 18 Verbot von Benachteiligungen](0018.md)

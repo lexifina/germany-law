@@ -10,7 +10,8 @@
 - [§ 2 Vermarktung durch die Übertragungsnetzbetreiber](0002.md)
 - [§ 3 Transparenz der Vermarktungstätigkeiten](0003.md)
 - [§ 4 Anreize zur bestmöglichen Vermarktung](0004.md)
-- [§ 5 Preislimitierung in Ausnahmefällen](0005.md)
+- [§ 4a Ermittlung der voraussichtlichen Strommengen aus fernsteuerbaren Anlagen](0004a.md)
+- [§ 5 Preislimitierung](0005.md)
 - [§ 6 (weggefallen)](0006.md)
 
 ## Abschnitt 3 Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien

@@ -20,6 +20,8 @@
 ### Abschnitt 1 Allgemeine Bestimmungen
 
 - [§ 8 Anschluss](0008.md)
+- [§ 8a Flexible Netzanschlussvereinbarungen](0008a.md)
+- [§ 8b Mitteilung des Einspeiseortes](0008b.md)
 - [§ 9 Technische Vorgaben](0009.md)
 - [§ 10 Ausführung und Nutzung des Anschlusses](0010.md)
 - [§ 10a Messstellenbetrieb; Übergangsregelung für Steckersolargeräte](0010a.md)
@@ -65,7 +67,7 @@
 - [§ 23c Anteilige Zahlung](0023c.md)
 - [§ 24 Zahlungsansprüche für Strom aus mehreren Anlagen](0024.md)
 - [§ 25 Beginn, Dauer und Beendigung des Anspruchs](0025.md)
-- [§ 26 Abschläge und Fälligkeit](0026.md)
+- [§ 26 Abschläge, Fälligkeit und Endabrechnung](0026.md)
 - [§ 27 Aufrechnung](0027.md)
 
 ### Abschnitt 3 Ausschreibungen
@@ -186,7 +188,9 @@
 
 - [§ 51 Verringerung des Zahlungsanspruchs bei negativen Preisen](0051.md)
 - [§ 51a Verlängerung des Vergütungszeitraums bei negativen Preisen](0051a.md)
+- [§ 51b Verringerung des Zahlungsanspruchs für Biogasanlagen in Ausschreibungen bei schwach positiven und negativen Preisen](0051b.md)
 - [§ 52 Zahlungen bei Pflichtverstößen](0052.md)
+- [§ 52a Netztrennung oder Unterbindung der Einspeisung durch andere Maßnahmen bei schweren Pflichtverstößen](0052a.md)
 - [§ 53 Verringerung der Einspeisevergütung](0053.md)
 - [§ 53a (weggefallen)](0053a.md)
 - [§ 53b Verringerung des Zahlungsanspruchs bei Regionalnachweisen](0053b.md)
@@ -269,7 +273,7 @@
 - [§ 91 Verordnungsermächtigung zum Ausgleichsmechanismus](0091.md)
 - [§ 92 Verordnungsermächtigung zu Herkunftsnachweisen und Regionalnachweisen](0092.md)
 - [§ 93 Verordnungsermächtigung zu Anforderungen an Grünen Wasserstoff](0093.md)
-- [§ 94 (weggefallen)](0094.md)
+- [§ 94 Verordnungsermächtigung zu systemdienlichem Anlagenbetrieb](0094.md)
 - [§ 95 Weitere Verordnungsermächtigungen](0095.md)
 - [§ 96 Gemeinsame Bestimmungen](0096.md)
 

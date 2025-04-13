@@ -1,7 +1,7 @@
-# Anlage 1 Kapitel 99 des Warenverzeichnisses Vereinfachte Anmeldungen und Sammelanmeldungen
+# Anlage 1 Kapitel 99 des Warenverzeichnisses Zusammenstellung verschiedener Waren und besondere Warenbewegungen
 
 Vorbemerkungen
-Die Warennummern dieses Kapitels dienen der statistischen Erfassung des Außenhandels von Warenzusammenstellungen, die in den Kapiteln 01 bis 98 des Warenverzeichnisses nicht erfasst sind. Zum Teil dürfen die Warennummern bei der Anmeldung nur mit besonderer Genehmigung des Statistischen Bundesamtes benutzt werden; im Übrigen sind die jeweiligen Hinweise zu beachten. Diese Warennummern kommen nicht in Betracht, wenn aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der Einzelwaren in die Kombinierte Nomenklatur erforderlich ist; beispielsweise sind sie für genehmigungspflichtige Waren nicht zulässig, selbst wenn ihrer statistischen Verwendung nichts im Wege steht.
+Die Warennummern dieses Kapitels dienen der statistischen Erfassung des Außenhandels von Zusammenstellungen verschiedener Waren und besonderer Warenbewegungen, die in den Kapiteln 01 bis 98 des Warenverzeichnisses nicht erfasst sind. Zum Teil dürfen die Warennummern bei der Anmeldung nur mit besonderer Genehmigung des Statistischen Bundesamtes benutzt werden; im Übrigen sind die jeweiligen Hinweise zu beachten. Diese Warennummern kommen nicht in Betracht, wenn aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der Einzelwaren in die Kombinierte Nomenklatur erforderlich ist; beispielsweise sind sie für außenwirtschaftsrechtlich genehmigungspflichtige Waren nicht zulässig, selbst wenn ihrer statistischen Verwendung nichts im Wege steht.
 | Waren, ausschließlich für den Zweck der Zollanmeldung (nach Verordnung (EG) Nr. 1186/2009 des Rates vom 16. November 2009 über das gemeinschaftliche System der Zollbefreiungen (ABl. L 324 vom 10.12.2009, S. 23))(Einfuhr und Ausfuhr): |
 | Warenbezeichnung | Warennummer |
 | –Übersiedlungsgut von natürlichen Personen, die ihren gewöhnlichen Wohnsitz verlegen | 9905 00 00 |
@@ -39,6 +39,4 @@ Die Warennummern dieses Kapitels dienen der statistischen Erfassung des Außenha
 | Zusammenstellungen (Sortimente) von Luftfahrzeugteilen: |  |
 | –für zivile Luftfahrzeuge | 9990 88 02 |
 | –andere | 9990 88 09 |
-| Zusammenstellungen (Sortimente) von Kleinwaren aus unedlen Metallen | 9990 99 23 |
-| Zusammenstellungen (Sortimente) von Schreib‑ und Zeichenmitteln | 9990 99 24 |
 | Andere Zusammenstellungen (Sortimente) nach § 30 | 9990 99 25 |

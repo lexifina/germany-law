@@ -13,18 +13,18 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 § 5
 Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft
 1. an – den – die – das – … (Bezeichnung einer juristischen Person des öffentlichen Rechts oder einer anderen steuerbegünstigten Körperschaft), – der – die – das – es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
-oder
+  oder
 2. an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für … (Angabe eines bestimmten gemeinnützigen, mildtätigen oder kirchlichen Zwecks, z. B. Förderung von Wissenschaft und Forschung, Erziehung, Volks- und Berufsbildung, der Unterstützung von Personen, die im Sinne von § 53 der Abgabenordnung wegen … bedürftig sind, Unterhaltung des Gotteshauses in …).
 Weitere Hinweise
 Bei Betrieben gewerblicher Art von juristischen Personen des öffentlichen Rechts, bei den von einer juristischen Person des öffentlichen Rechts verwalteten unselbständigen Stiftungen und bei geistlichen Genossenschaften (Orden, Kongregationen) ist folgende Bestimmung aufzunehmen:
-§ 3 Abs. 2:
-„Der – die – das … erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als – seine – ihre – eingezahlten Kapitalanteile und den gemeinen Wert seiner – ihrer – geleisteten Sacheinlagen zurück. “
+§ 3 Absatz 2:
+„Der – die – das … erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als – seine – ihre – eingezahlten Kapitalanteile und den gemeinen Wert seiner – ihrer – geleisteten Sacheinlagen zurück.“
 Bei Stiftungen ist diese Bestimmung nur erforderlich, wenn die Satzung dem Stifter einen Anspruch auf Rückgewähr von Vermögen einräumt. Fehlt die Regelung, wird das eingebrachte Vermögen wie das übrige Vermögen behandelt.
 Bei Kapitalgesellschaften sind folgende ergänzende Bestimmungen in die Satzung aufzunehmen:
-1. § 3 Abs. 1 Satz 2:
-  „Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten. “
-2. § 3 Abs. 2:
-  „Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück. “
+1. § 3 Absatz 1 Satz 2:
+  „Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten.”
+2. § 3 Absatz 2:
+  „Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück.”
 3. § 5:
-  „Bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft, soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt, ...“.
-§ 3 Abs. 2 und der Satzteil „soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt,“ in § 5 sind nur erforderlich, wenn die Satzung einen Anspruch auf Rückgewähr von Vermögen einräumt.
+  „Bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft, soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt, ...”.
+§ 3 Absatz 2 und der Satzteil „soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt,“ in § 5 sind nur erforderlich, wenn die Satzung einen Anspruch auf Rückgewähr von Vermögen einräumt.

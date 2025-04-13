@@ -85,6 +85,7 @@ Zulagen, Prämien, Zuschläge, Vergütungen
 | § 50a | Vergütung für Soldaten mit besonderer zeitlicher Belastung |
 | § 50b | Vergütung für Bereitschaftsdienst und Rufbereitschaft von Sanitätsoffizieren in Bundeswehrkrankenhäusern |
 | § 50c | Vergütung für Beamte im Einsatzdienst der Bundeswehrfeuerwehren |
+| § 50d | Vergütung für Soldaten mit besonderen Alarmierungsverpflichtungen |
 | § 51 | Andere Zulagen und Vergütungen |
 Abschnitt 5
 Auslandsbesoldung

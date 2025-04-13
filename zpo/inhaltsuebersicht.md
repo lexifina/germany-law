@@ -356,6 +356,7 @@
 | § 271 | Zustellung der Klageschrift |
 | § 272 | Bestimmung der Verfahrensweise |
 | § 273 | Vorbereitung des Termins |
+| § 273a | Geheimhaltung |
 | § 274 | Ladung der Parteien; Einlassungsfrist |
 | § 275 | Früher erster Termin |
 | § 276 | Schriftliches Vorverfahren |
@@ -756,9 +757,24 @@
 | § 605a | Scheckprozess |
 |  |
 | Buch 6 |
-| (weggefallen) |
-| § 606 bis 687 | (weggefallen) |
-|  |
+| Weitere besondere Verfahren |
+|  |  |
+| Abschnitt 1 |  |
+| Englischsprachige Verfahren |  |
+| § 606 | Klageschrift |
+| § 607 | Beteiligung Dritter am Rechtsstreit |
+| § 608 | Übersetzung |
+| § 609 | Rechtsmittelschrift |
+|  |  |
+| Abschnitt 2 |  |
+| Verfahren vor den Commercial Courts und den Commercial Chambers |
+| § 610 | Anwendbare Vorschriften vor den Commercial Courts; Klageschrift |
+| § 611 | Verweisung an den Commercial Court |
+| § 612 | Organisationstermin |
+| § 613 | Wortprotokoll |
+| § 614 | Rechtsmittel gegen Urteile des Commercial Courts |
+| §§ 615 bis 687 | (weggefallen) |
+|  |  |
 | Buch 7 |
 | Mahnverfahren |
 | § 688 | Zulässigkeit |

@@ -9,8 +9,7 @@
 - [§ 3 Honorare der Rundfunkanstalten](0003.md)
 - [§ 4 Wegfall oder Einschränkung einer steuerlichen Vergünstigung](0004.md)
 - [§ 4a Ordnungsgelder nach § 335 des Handelsgesetzbuchs](0004a.md)
-- [§ 5 Ausgleichs- und Abfindungszahlungen nach dem
-Flurbereinigungsgesetz](0005.md)
+- [§ 5 Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz](0005.md)
 - [§ 6 Gewerberechtliche Erlaubnisse und Gestattungen](0006.md)
 - [§ 7 Ausnahmen von der Mitteilungspflicht über Zahlungen](0007.md)
 
@@ -27,5 +26,5 @@ Flurbereinigungsgesetz](0005.md)
 
 - [§ 13 Anwendungszeitpunkt](0013.md)
 - [§ 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm](0013a.md)
-- [§ 14 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021](0014.md)
+- [§ 14 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021](0014.md)
 - [Schlußformel](schlussformel.md)

@@ -49,6 +49,6 @@
 
 ## Abschnitt 8 Schlussvorschriften
 
-- [§ 24 Inkrafttreten](0024.md)
+- [§ 24 Übergangsbestimmungen](0024.md)
 - [Anlage 1 (zu § 2 Absatz 1)Brennstoffe](anlage-1.md)
 - [Anlage 2 (zu § 7 Absatz 2)Brennstoffe für die Emissionsberichterstattung in den Jahren 2021 und 2022](anlage-2.md)
