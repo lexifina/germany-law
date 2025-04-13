@@ -7,7 +7,7 @@
 - [§ 4 Befreiung von der Zahlung der Gebühren und von der Erstattung der Auslagen](0004.md)
 - [§ 5 Höhe der Grundgebühr](0005.md)
 - [§ 6 Höhe der Zusatzgebühr für Datenauswertung und Datenbereitstellung](0006.md)
-- [§ 7 Höhe der Gebühr bei Ablehnung eines Antrags](0007.md)
+- [§ 7 Höhe der Gebühr für Beratung, Erstellung vorläufiger Auswertungen und Zwischenergebnisse](0007.md)
 - [§ 8 Höhe der Gebühr bei Rücknahme des Antrags](0008.md)
 - [§ 9 Erstattung von Auslagen](0009.md)
 - [§ 10 Höhe der Gebühr für Schulungen](0010.md)
