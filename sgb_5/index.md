@@ -897,7 +897,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 334 Anwendungen der Telematikinfrastruktur](0334.md)
 - [§ 335 Diskriminierungsverbot](0335.md)
 - [§ 336 Zugriffsrechte der Versicherten](0336.md)
-- [§ 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten](0337.md)
+- [§ 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung und Verwehrung von Zugriffsberechtigungen auf Daten](0337.md)
 - [§ 338 Komponenten zur Wahrnehmung der Versichertenrechte](0338.md)
 - [§ 339 Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen](0339.md)
 - [§ 340 Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen](0340.md)
@@ -911,15 +911,15 @@ von Leistungsdaten, Datentransparenz
 - [§ 342 Angebot und Nutzung der elektronischen Patientenakte](0342.md)
 - [§ 342a Ombudsstellen](0342a.md)
 - [§ 343 Informationspflichten der Krankenkassen](0343.md)
-- [§ 344 Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte](0344.md)
+- [§ 344 Widerspruch der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und die Anbieter der elektronischen Patientenakte](0344.md)
 - [§ 345 Angebot und Nutzung zusätzlicher Inhalte und Anwendungen](0345.md)
 
 ##### Zweiter Untertitel Nutzung der elektronischen Patientenakte durch den Versicherten
 
 - [§ 346 Unterstützung bei der elektronischen Patientenakte](0346.md)
-- [§ 347 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer](0347.md)
-- [§ 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser](0348.md)
-- [§ 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte](0349.md)
+- [§ 347 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer](0347.md)
+- [§ 348 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch zugelassene Krankenhäuser](0348.md)
+- [§ 349 Übertragung von Daten in die elektronische Patientenakte durch weitere Zugriffsberechtigte; Anspruch der Versicherten auf Übertragung des elektronischen Medikationsplans und der elektronischen Notfalldaten in die elektronische Patientenakte](0349.md)
 - [§ 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte](0350.md)
 - [§ 350a Anspruch der Versicherten auf Digitalisierung von in Papierform vorliegenden medizinischen Informationen; Übertragung in die elektronische Patientenakte](0350a.md)
 - [§ 351 Übertragung von Daten aus Anwendungen nach § 33a in die elektronische Patientenakte; Bereitstellung von Daten der elektronischen Patientenakte im grenzübergreifenden Austausch](0351.md)
@@ -927,7 +927,7 @@ von Leistungsdaten, Datentransparenz
 ##### Dritter Untertitel Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte
 
 - [§ 352 Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen](0352.md)
-- [§ 353 Erteilung der Einwilligung](0353.md)
+- [§ 353 Erklärung des Widerspruchs; Erteilung der Einwilligung](0353.md)
 
 ##### Vierter Untertitel Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
 
