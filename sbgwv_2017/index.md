@@ -47,7 +47,7 @@
 - [§ 35 Bekanntgabe des Wahlergebnisses](0035.md)
 - [§ 36 Wahlunterlagen](0036.md)
 
-### Abschnitt 2 Wahl der Vertrauenspersonenausschüsse der militärischen Organisationsbereiche
+### Abschnitt 2 Wahl der Vertrauenspersonenausschüsse
 
 - [§ 37 Wahlvorstand](0037.md)
 - [§ 38 Leitung der Wahl](0038.md)

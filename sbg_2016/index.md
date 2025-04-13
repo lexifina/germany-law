@@ -63,9 +63,9 @@
 
 - [§ 37 Bildung von Vertrauenspersonenausschüssen](0037.md)
 - [§ 38 Gesamtvertrauenspersonenausschuss](0038.md)
-- [§ 39 Vertrauenspersonenausschüsse der militärischen Organisationsbereiche](0039.md)
+- [§ 39 Vertrauenspersonenausschüsse bei den unmittelbar dem Bundesministerium der Verteidigung nachgeordneten Kommandos](0039.md)
 - [§ 40 Wahl des Gesamtvertrauenspersonenausschusses](0040.md)
-- [§ 41 Wahl der Vertrauenspersonenausschüsse der militärischen Organisationsbereiche](0041.md)
+- [§ 41 Wahl der Vertrauenspersonenausschüsse bei den unmittelbar dem Bundesministerium der Verteidigung nachgeordneten Kommandos](0041.md)
 - [§ 42 Amtszeit, Rechtsstellung der Mitglieder der Vertrauenspersonenausschüsse](0042.md)
 - [§ 43 Pflichten der Dienststellen](0043.md)
 - [§ 44 Nachrücken, Ersatzmitglied](0044.md)

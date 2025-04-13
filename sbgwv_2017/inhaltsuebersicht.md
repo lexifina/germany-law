@@ -43,8 +43,7 @@ Wahl des Gesamtvertrauenspersonenausschusses
 | § 35 | Bekanntgabe des Wahlergebnisses |
 | § 36 | Wahlunterlagen |
 Abschnitt 2
-Wahl der Vertrauenspersonen-
-ausschüsse der militärischen Organisationsbereiche
+Wahl der Vertrauenspersonenausschüsse
 | § 37 | Wahlvorstand |
 | § 38 | Leitung der Wahl |
 | § 39 | Unterstützung |
