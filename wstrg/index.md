@@ -71,5 +71,5 @@ militärische Pflichten
 - [§ 44 Wachverfehlung](0044.md)
 - [§ 45 Pflichtverletzung bei Sonderaufträgen](0045.md)
 - [§ 46 Rechtswidriger Waffengebrauch](0046.md)
-- [§ 47](0047.md)
+- [§ 47 Tätigkeit für eine fremde Macht](0047.md)
 - [§ 48 Verletzung anderer Dienstpflichten](0048.md)

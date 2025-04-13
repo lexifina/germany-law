@@ -60,5 +60,5 @@
 |  |  | Wachverfehlung | § 44 |
 |  |  | Pflichtverletzung bei Sonderaufträgen | § 45 |
 |  |  | Rechtswidriger Waffengebrauch | § 46 |
-|  |  | weggefallen | § 47 |
+|  |  | Tätigkeit für eine fremde Macht | § 47 |
 |  |  | Verletzung anderer Dienstpflichten | § 48 |
