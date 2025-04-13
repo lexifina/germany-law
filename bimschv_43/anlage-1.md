@@ -16,7 +16,7 @@ Tabelle B
 | – | Schwermetalle (Cd, Hg, Pb) |
 | – | POP (PAK insgesamt, HCB, PCB, Dioxine/Furane) |
 | – | Ruß (falls verfügbar) |
-| Emissionsprognose nach aggregierten NFR-Sektoren | – | SO2, NOx, NMVOC, NH3, PM2,5 und, falls verfügbar, Ruß | Alle zwei Jahre für die Prognosejahre 2020, 2025 und 2030 sowie, sofern verfügbar, für die Prognosejahre 2040 und 2050 ab dem Jahr 2017 | 15. März |
+| Emissionsprognose nach Quellkategorien gemäß der Nomenklatur für die Berichterstattung (NFR) | – | SO2, NOx, NMVOC, NH3, PM2,5 und, falls verfügbar, Ruß | Alle zwei Jahre für die Prognosejahre 2020, 2025 und 2030 sowie, sofern verfügbar, für die Prognosejahre 2040 und 2050 ab dem Jahr 2017 | 15. März |
 Tabelle C
 |  | Schadstoffe | Zeitreihe/Zieljahre | Berichterstattungs- frist gegenüber der Europäischen Kommission und der Europäischen Umweltagentur |
 | Informativer Inventar- bericht | – | SO2, NOx, NMVOC, CO, NH3, PM10, PM2,5 | Jährlich(wie in den Tabellen A bis C angegeben) | 15. März |
