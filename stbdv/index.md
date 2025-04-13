@@ -74,4 +74,3 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 - [§ 54 Anerkennung anderer Berufshaftpflichtversicherungen](0054.md)
 - [§ 55 Nachweis des Versicherungsabschlusses](0055.md)
 - [§ 56 Anzeige von Veränderungen](0056.md)
-- [§ 57](0057.md)
