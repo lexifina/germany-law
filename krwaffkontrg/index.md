@@ -59,6 +59,4 @@ Ausnahmevorschriften
 - [§ 27 Zwischenstaatliche Verträge](0027.md)
 - [§ 28 Gebühren](0028.md)
 - [§ 29 Inkrafttreten](0029.md)
-- [Anlage (zu § 1 Abs. 1)
-
-Kriegswaffenliste](anlage.md)
+- [Anlage (zu § 1 Abs. 1)Kriegswaffenliste](anlage.md)
