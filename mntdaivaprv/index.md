@@ -6,7 +6,6 @@
 ## Abschnitt 1 Allgemeines
 
 - [§ 1 Vorbereitungsdienst](0001.md)
-- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Ziele der Ausbildung](0002.md)
 - [§ 3 Dienstbehörden, Dienstaufsicht](0003.md)
 - [§ 4 Auswahlverfahren](0004.md)

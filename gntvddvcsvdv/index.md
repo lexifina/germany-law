@@ -6,7 +6,6 @@
 ## Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 1 Studium](0001.md)
-- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Ziele des Studiums](0002.md)
 - [§ 3 Dienstbehörde](0003.md)
 - [§ 4 Ausbildungsbehörden](0004.md)
@@ -56,7 +55,7 @@
 - [§ 33 Ausbildende](0033.md)
 - [§ 34 Ausbildungsplan](0034.md)
 - [§ 35 Bewertung der Praktika](0035.md)
-- [§ 36 Rangpunktzahl der Praktika](0036.md)
+- [§ 36 (weggefallen)](0036.md)
 
 ## Abschnitt 4 Laufbahnprüfung
 
@@ -77,7 +76,7 @@
 - [§ 45 Zweck](0045.md)
 - [§ 46 Gegenstände der Zwischenprüfung](0046.md)
 - [§ 47 Prüfende für die Zwischenprüfung](0047.md)
-- [§ 48 Zulassung zu den Modulprüfungen der Zwischenprüfung des zweiten Semesters](0048.md)
+- [§ 48 (weggefallen)](0048.md)
 - [§ 49 Rangpunktzahl für die Zwischenprüfung](0049.md)
 - [§ 50 Bestehen der Zwischenprüfung](0050.md)
 - [§ 51 Zwischenprüfungszeugnis](0051.md)
@@ -88,7 +87,7 @@
 
 - [§ 54 Gegenstand der Modulprüfungen des Hauptstudiums](0054.md)
 - [§ 55 Prüfende für die Modulprüfungen des Hauptstudiums](0055.md)
-- [§ 56 Bestehen der Modulprüfungen des Hauptstudiums](0056.md)
+- [§ 56 (weggefallen)](0056.md)
 - [§ 57 Rangpunktzahl der Modulprüfungen des Hauptstudiums](0057.md)
 - [§ 58 Wiederholung einer Modulprüfung des Hauptstudiums](0058.md)
 
@@ -128,4 +127,4 @@
 
 ## Abschnitt 6 Schlussvorschrift
 
-- [§ 81 Inkrafttreten](0081.md)
+- [§ 81 Übergangsvorschrift](0081.md)

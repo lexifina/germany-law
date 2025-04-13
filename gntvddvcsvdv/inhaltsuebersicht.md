@@ -3,7 +3,6 @@
 Abschnitt 1
 Allgemeine Vorschriften
 | § 1 | Studium |
-| § 1a | Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie |
 | § 2 | Ziele des Studiums |
 | § 3 | Dienstbehörde |
 | § 4 | Ausbildungsbehörden |
@@ -48,7 +47,7 @@ Berufspraktische Studienzeiten
 | § 33 | Ausbildende |
 | § 34 | Ausbildungsplan |
 | § 35 | Bewertung der Praktika |
-| § 36 | Rangpunktzahl der Praktika |
+| § 36 | (weggefallen) |
 Abschnitt 4
 Laufbahnprüfung
 Unterabschnitt 1
@@ -66,7 +65,7 @@ Zwischenprüfung
 | § 45 | Zweck |
 | § 46 | Gegenstände der Zwischenprüfung |
 | § 47 | Prüfende für die Zwischenprüfung |
-| § 48 | Zulassung zu den Modulprüfungen der Zwischenprüfung des zweiten Semesters |
+| § 48 | (weggefallen) |
 | § 49 | Rangpunktzahl für die Zwischenprüfung |
 | § 50 | Bestehen der Zwischenprüfung |
 | § 51 | Zwischenprüfungszeugnis |
@@ -76,7 +75,7 @@ Unterabschnitt 3
 Modulprüfungen des Hauptstudiums
 | § 54 | Gegenstand der Modulprüfungen des Hauptstudiums |
 | § 55 | Prüfende für die Modulprüfungen des Hauptstudiums |
-| § 56 | Bestehen der Modulprüfungen des Hauptstudiums |
+| § 56 | (weggefallen) |
 | § 57 | Rangpunktzahl der Modulprüfungen des Hauptstudiums |
 | § 58 | Wiederholung einer Modulprüfung des Hauptstudiums |
 Unterabschnitt 4
