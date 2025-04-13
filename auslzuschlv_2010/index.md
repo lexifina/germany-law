@@ -8,6 +8,7 @@
 - [§ 4 Erhöhter Auslandszuschlag](0004.md)
 - [§ 5 Erhöhter Auslandszuschlag für Verheiratete](0005.md)
 - [§ 5a Anrechnung des Nettoerwerbseinkommens der Ehegattin oder des Ehegatten](0005a.md)
+- [§ 5b Geltung der §§ 5 und 5a in den Fällen des § 53 Absatz 6 Satz 7 des Bundesbesoldungsgesetzes](0005b.md)
 - [§ 6 Erhöhter Auslandszuschlag für weitere Berechtigte](0006.md)
 - [Anlage 1 (zu § 1 Absatz 2 Satz 1)](anlage-1.md)
 - [Anlage 2 (zu § 1 Absatz 2 Satz 3)](anlage-2.md)

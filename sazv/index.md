@@ -13,7 +13,7 @@
 ## Abschnitt 2 Grundbetrieb
 
 - [§ 5 Regelmäßige wöchentliche Arbeitszeit](0005.md)
-- [§ 5a Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten als fliegende Besatzung](0005a.md)
+- [§ 5a Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten](0005a.md)
 - [§ 6 Regelmäßige tägliche Arbeitszeit](0006.md)
 - [§ 7 Ruhepausen und Ruhezeiten](0007.md)
 - [§ 8 Dienstfreie Tage](0008.md)

@@ -1,44 +1,91 @@
 # Anlage (zu § 1 Absatz 2)
 
-| Nr. | Internationale oder supranationale militärische Stelle | Staat |
-| 1 | Air Operations Coordination Centre Multi National Corps Northeast | Polen |
-| 2 | BALTIC Defense College | Estland |
-| 3 | Centre de Formation à l´Appui Aérien Nancy-Ochey | Frankreich |
-| 4 | Centre of Excellence Counter Improvised Explosive Devices | Spanien |
-| 5 | Civil-Military Cooperation Centre of Excellence | Niederlande |
-| 6 | Combined Air Operations Centre Torrejon | Spanien |
-| 7 | Combined Joint Operations from the Sea Centre of Excellence | Vereinigte Staaten |
-| 8 | Commander Strike Force Training Atlantic USA | Vereinigte Staaten |
-| 9 | Deployable Air Command and Control Centre Poggio Renatico | Italien |
-| 10 | Escadron de Transport Évreux | Frankreich |
-| 11 | European Air Group | Großbritannien |
-| 12 | European Air Transport Command | Niederlande |
-| 13 | European Centre of Excellence for Countering Hybrid Threats | Finnland |
-| 14 | European Union Military Committee | Belgien |
-| 15 | Headquarters Supreme Allied Command Transformation | Vereinigte Staaten |
-| 16 | Internationales Zentrum für Humanitäres Minenräumen | Schweiz |
-| 17 | Joint Air Power Competence Centre | Deutschland |
-| 18 | Joint Allied Lessons Learned Centre | Portugal |
-| 19 | Joint Chemical Biological Radiological Nuclear Defence Centre of Excellence | Tschechien |
-| 20 | Joint Force Command Naples | Italien |
-| 21 | Joint Force Command Norfolk | Vereinigte Staaten |
-| 22 | Joint Forces Training Centre | Polen |
-| 23 | Joint Warfare Centre | Norwegen |
-| 24 | Land Command Headquarters Izmir | Türkei |
-| 25 | Maritime Command Headquarters Northwood | Großbritannien |
-| 26 | Multinational Multirole Tanker Transport Fleet | Niederlande |
-| 27 | NATO Airborne Early Warning and Control Force | Deutschland |
-| 28 | NATO Alliance Ground Surveillance Force | Italien |
-| 29 | NATO Allied Joint Force Command Brunssum | Niederlande |
-| 30 | NATO Centre of Excellence for Military Medicine | Ungarn |
-| 31 | NATO Communications and Information Agency (Anteil Norfolk) | Vereinigte Staaten |
-| 32 | NATO Defence College | Italien |
-| 33 | NATO Military Committee | Belgien |
-| 34 | NATO Special Operations Headquarters | Belgien |
-| 35 | NATO Strategic Communications Centre of Excellence | Lettland |
-| 36 | Organisation für Sicherheit und Zusammenarbeit in Europa | Österreich |
-| 37 | Special Operations Command | Vereinigte Staaten |
-| 38 | Strike Forces NATO Headquarters | Portugal |
-| 39 | Supreme Headquarters Allied Powers Europe | Belgien |
-| 40 | Tactical Leadership Programme | Spanien |
-| 41 | Zentrum für Sicherheitspolitik | Schweiz |
+| Nr. | Internationale oder supranationale militärische Stelle | Staat (Kurzform) |
+| 1 | 4th Psychological Operation (Airborne) | Vereinigte Staaten |
+| 2 | Air Operations Coordination Centre Headquarters NATO Rapid Deployable Corps | Türkei |
+| 3 | Air Operations Coordination Centre Multi National Corps Northeast | Polen |
+| 4 | BALTIC Defense College | Estland |
+| 5 | BICES Group Executive | Belgien |
+| 6 | Canadian Forces College | Kanada |
+| 7 | Centre de Formation à l´Appui Aérien Nancy-Ochey | Frankreich |
+| 8 | Centre of Excellence Counter Improvised Explosive Devices | Spanien |
+| 9 | Chemical, Biological, Radiological and Nuclear Centre of Excellence | Tschechien |
+| 10 | Civil-Military Cooperation Centre of Excellence | Niederlande |
+| 11 | Combined Air Operations Centre Torrejon | Spanien |
+| 12 | Combined Joint Operations from the Sea Centre of Excellence | Vereinigte Staaten |
+| 13 | Commander Strike Force Training Atlantic USA | Vereinigte Staaten |
+| 14 | Deployable Air Command and Control Centre Poggio Renatico | Italien |
+| 15 | Deputy Commanding Officer United States Army John F. Kennedy Special Warfare Centre and School | Vereinigte Staaten |
+| 16 | Escadron de Transport Évreux | Frankreich |
+| 17 | EUROCONTROL | Belgien |
+| 18 | European Air Group | Großbritannien |
+| 19 | European Air Transport Command | Niederlande |
+| 20 | European Centre of Excellence for Countering Hybrid Threats | Finnland |
+| 21 | European Commission - Directorate-General for Defence Industry and Space | Belgien |
+| 22 | European Defence Agency | Belgien |
+| 23 | European External Action Service | Belgien |
+| 24 | European Union Military Staff | Belgien |
+| 25 | Headquarters Department of the Army | Vereinigte Staaten |
+| 26 | Headquarters Joint Logistic Support Group Brunssum | Niederlande |
+| 27 | Headquarters Joint Support and Enabling Command | Deutschland |
+| 28 | Headquarters Supreme Allied Command Transformation | Vereinigte Staaten |
+| 29 | Internationales Zentrum für Humanitäres Minenräumen | Schweiz |
+| 30 | Joint Air Power Competence Centre | Deutschland |
+| 31 | Joint Allied Lessons Learned Centre | Portugal |
+| 32 | Joint Deployable Exploitation and Analysis Laboratority | Niederlande |
+| 33 | Joint Electronic Warfare Core Staff | Großbritannien |
+| 34 | Joint Force Command Naples | Italien |
+| 35 | Joint Force Command Norfolk | Vereinigte Staaten |
+| 36 | Joint Forces Training Centre | Polen |
+| 37 | Joint Warfare Centre | Norwegen |
+| 38 | Land Command Headquarters Izmir | Türkei |
+| 39 | Land Warfare Center Amersfoort | Niederlande |
+| 40 | Maritime Command Headquarters Northwood | Großbritannien |
+| 41 | Ministery of Defense | Litauen |
+| 42 | Ministery of Defense | Niederlande |
+| 43 | Movement Coordination Centre Europe | Niederlande |
+| 44 | Multinational Multirole Tanker Transport Fleet | Niederlande |
+| 45 | National Defense Headquarters | Kanada |
+| 46 | NATO Airborne Early Warning and Control Force | Deutschland |
+| 47 | NATO Allied Joint Force Command Brunssum | Niederlande |
+| 48 | NATO Centre of Excellence for Military Medicine | Ungarn |
+| 49 | NATO Communications and Information Agency Lissabon | Portugal |
+| 50 | NATO Communications and Information Agency Brüssel | Belgien |
+| 51 | NATO Communications and Information Agency Brunssum | Niederlande |
+| 52 | NATO Communications and Information Agency Norfolk | Vereinigte Staaten |
+| 53 | NATO Communications and Information Agency Ramstein | Deutschland |
+| 54 | NATO Communications and Information Agency The Hague | Niederlande |
+| 55 | NATO Communications and Information Agency Uedem | Deutschland |
+| 56 | NATO Defence College | Italien |
+| 57 | NATO Force Integration Unit | Estland |
+| 58 | NATO Force Integration Unit | Ungarn |
+| 59 | NATO Force Integration Unit | Litauen |
+| 60 | NATO Force Integration Unit | Lettland |
+| 61 | NATO Force Integration Unit | Polen |
+| 62 | NATO Force Integration Unit | Slowakei |
+| 63 | NATO Intelligence Fusion Centre Molesworth | Großbritannien |
+| 64 | NATO Intelligence, Surveillance & Reconnaissance Force | Italien |
+| 65 | NATO International Military Staff | Belgien |
+| 66 | NATO International Staff | Belgien |
+| 67 | NATO Special Operations Headquarters | Belgien |
+| 68 | NATO Strategic Communications Centre of Excellence | Lettland |
+| 69 | Naval Postgraduate School | Vereinigte Staaten |
+| 70 | Commando Landstrijdkrachten | Niederlande |
+| 71 | Office of the Assistant Secretary of Defense for Health Affairs | Vereinigte Staaten |
+| 72 | Organisation für Sicherheit und Zusammenarbeit in Europa | Österreich |
+| 73 | Special Operations Command | Vereinigte Staaten |
+| 74 | Strategic Airlift Coordination Center | Niederlande |
+| 75 | Strike Forces NATO Headquarters | Portugal |
+| 76 | Supreme Headquarters Allied Powers Europe | Belgien |
+| 77 | Tactical Leadership Programme | Spanien |
+| 78 | U.S. Army Cyber Center of Excellence | Vereinigte Staaten |
+| 79 | U.S. Army Maneuver Support Center of Excellence, Fort Leonard Wood, MO | Vereinigte Staaten |
+| 80 | U.S. Army War College | Vereinigte Staaten |
+| 81 | United States Air Force Academy | Vereinigte Staaten |
+| 82 | UNITED STATES Army Sergeants Major Academy | Vereinigte Staaten |
+| 83 | UNITED STATES Military Academy | Vereinigte Staaten |
+| 84 | UNITED STATES OF AMERICA Combined Arms Center | Vereinigte Staaten |
+| 85 | US Central Command | Vereinigte Staaten |
+| 86 | US Naval War College Newport Senior Enlisted Academy Newport | Vereinigte Staaten |
+| 87 | US-ARMY Combined Arms Center | Vereinigte Staaten |
+| 88 | Zentrum für Sicherheitspolitik | Schweiz |
