@@ -12,6 +12,7 @@
 - [§ 6 Gültigkeitsdauer des Ausweises; vorzeitige Beantragung; räumliche Beschränkungen](0006.md)
 - [§ 6a Versagung und Entziehung; Ersatz-Personalausweis](0006a.md)
 - [§ 7 Sachliche Zuständigkeit](0007.md)
+- [§ 7a Beleihung](0007a.md)
 - [§ 8 Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit](0008.md)
 
 ## Abschnitt 2 Ausstellung und Sperrung des Ausweises; elektronischer Identitätsnachweis

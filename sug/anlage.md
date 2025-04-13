@@ -15,5 +15,3 @@ C. Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A und 
   1. Code für die Untersuchung von Unfällen und Vorkommnissen auf See der Internationalen Seeschifffahrts-Organisation (IMO), Entschließung A.849(20) vom 27. November 1997, geändert durch Entschließung A.884(21) vom 25. November 1999 (VkBl. 2000 S. 128, Anlagenband B 8124 S. 21)
   2. Entschließung A.987(24) der Internationalen Seeschifffahrts-Organisation (IMO), angenommen am 1. Dezember 2005 (Leitlinien über die faire Behandlung von Seeleuten bei einem Seeunfall (VkBl. 2010 S. 506))
     – Leitlinien über die faire Behandlung von Seeleuten bei einem Seeunfall (IMO-Rundschreiben Nr. 2711 vom 26. Juni 2006 (VkBl. 2010 S. 506))
-D. (weggefallen)
-E. (weggefallen)
