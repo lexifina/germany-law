@@ -5,7 +5,6 @@
 - [§ 1b Verbot des Inverkehrbringens](0001b.md)
 - [§ 2 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere](0002.md)
 - [§ 3 Antrag auf Zulassung einer Packstelle](0003.md)
-- [§ 3a](0003a.md)
 - [§ 4 Marktnotierungen](0004.md)
 - [§ 5 Verfahren bei Direktlieferung ungekennzeichneter Eier](0005.md)
 - [§ 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern](0006.md)
