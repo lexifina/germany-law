@@ -1,6 +1,6 @@
 # A.
 
-Mit Wirkung vom 1. Januar 2024 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2025 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
   1. des Asylrechts;
   2. des Aufenthaltsrechts und der internationalen Rechtshilfe in Strafsachen;
@@ -12,9 +12,13 @@ I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfa
     b) Verfahren aus dem Rechtsbereich des Ersten Buchs, Achter Abschnitt der Strafprozessordnung (StPO);
   7. des Vollzugs von Untersuchungs- und Strafhaft und von freiheitsentziehenden Maßregeln der Sicherung und Besserung sowie der Anordnung und des Vollzugs anderer Freiheitsentziehungen;
   8. des Bußgeldverfahrens;
-  9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts,
+  9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts;
+  10. des Rechts des Versicherungswesens;
+  11. des Glücksspielrechts;
+  12. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit;
+  13. des Kreditrechts einschließlich des Rechts der Sicherungen,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus den Rechtsbereichen
   1. des Vertriebenenrechts;
   2. des Körperschaftsteuerrechts und des Umwandlungssteuerrechts;
   3. des Waffenrechts;
@@ -23,7 +27,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäf
   6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird);
   7. des sonstigen Deliktsrechts,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
   1. Allgemeines Persönlichkeitsrecht;
   2. Recht der Glaubens- und Bekenntnisfreiheit (Artikel 4 Absatz 1 und 2 GG);
   3. Recht der freien Meinungsäußerung, Informations-, Rundfunk- und Pressefreiheit (Artikel 5 GG);
@@ -37,21 +41,19 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus d
   11. Erbrecht;
   12. Miet- und Pachtrecht;
   13. Wettbewerbsrecht;
-  14. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit;
-  15. Bau- und Bodenrecht einschließlich Erschließungs- und Enteignungsrecht;
-  16. Gesellschaftsrecht einschließlich Genossenschaftsrecht;
-  17. Bank-, Börsen- und Wertpapierrecht;
-  18. Kreditrecht einschließlich des Rechts der Sicherungen;
-  19. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
-  20. Regulierungsrecht;
-  21. Anwaltsvertragsrecht;
-  22. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
-  23. Vollstreckung öffentlich-rechtlicher Forderungen;
-  24. Wohnungseigentumsrecht;
-  25. Dienst- und Werkvertragsrecht;
-  26. Kaufrecht;
-  27. Recht des Versicherungswesens,
+  14. Bau- und Bodenrecht einschließlich Erschließungs- und Enteignungsrecht;
+  15. Gesellschaftsrecht einschließlich des Genossenschaftsrechts;
+  16. Bank-, Börsen- und Wertpapierrecht;
+  17. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
+  18. Regulierungsrecht;
+  19. Anwaltsvertragsrecht;
+  20. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
+  21. Vollstreckung öffentlich-rechtlicher Forderungen;
+  22. Wohnungseigentumsrecht;
+  23. Dienst- und Werkvertragsrecht;
+  24. Kaufrecht,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
-  1. bei denen die Auslegung und Anwendung von Völkerrecht oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
+  1. bei denen die Auslegung und Anwendung von Völkerrecht
+    oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
   2. bei denen andere Fragen als solche der Auslegung und Anwendung der Artikel 1 bis 17, 19, 101 und 103 Absatz 1 GG (auch in Verbindung mit dem Rechtsstaatsprinzip) überwiegen.
