@@ -57,7 +57,7 @@
 
 - [§ 26 Zeitpunkt der Prüfung und Berichtszeitraum](0026.md)
 - [§ 27 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen](0027.md)
-- [§ 28 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009](0028.md)
+- [§ 28 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230](0028.md)
 - [§ 29 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012](0029.md)
 - [§ 29a Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751](0029a.md)
 - [§ 29b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz](0029b.md)

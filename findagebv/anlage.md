@@ -287,6 +287,7 @@ Inhaltsübersicht
 | 11.12 | Einschreiten gegen ungesetzliche Geschäfte |  |
 | 11.12.1 | Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden (§ 7 Absatz 1 Satz 1 und 2 ZAG; § 39 Absatz 3 oder 4 jeweils in Verbindung mit § 7 Absatz 1 Satz 1 und 2 ZAG) | 4 120 |
 | 11.12.2 | Verwaltungsakte im Sinne von Nummer 11.12.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben (§ 7 Absatz 1 Satz 4 ZAG in Verbindung mit § 7 Absatz 1 Satz 1 und 2 ZAG; § 39 Absatz 3 oder 4 jeweils in Verbindung mit § 7 Absatz 1 Satz 4 in Verbindung mit § 7 Absatz 1 Satz 1 und 2 ZAG) | 1 323 |
+| 11.13 | Mitteilung über Vorliegen der Voraussetzungen nach § 57a Absatz 1 Satz 1 ZAG | nach Zeitaufwand |
 | 12 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Zahlungsinstituts-Eigenkapitalverordnung (ZIEV) |  |
 | 12.1 | Bestimmung, dass die Berechnung des Eigenkapitals nach einer anderen Methode als nach der gewählten zu erfolgen hat (§ 6 Absatz 1 ZIEV) | nach Zeitaufwand |
 | 12.2 | Genehmigung des Antrages auf Anwendung einer bestimmten Berechnungsmethode außerhalb des Erlaubnisverfahrens (§ 6 Absatz 2 ZIEV) | nach Zeitaufwand |

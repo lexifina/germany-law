@@ -121,6 +121,7 @@
 
 - [§ 56 Zugang zu Zahlungskontodiensten bei CRR-Kreditinstituten](0056.md)
 - [§ 57 Zugang zu Zahlungssystemen](0057.md)
+- [§ 57a Voraussetzungen für die Beantragung der Teilnahme an benannten Zahlungssystemen; Verordnungsermächtigung](0057a.md)
 - [§ 58 Aufgaben der Bundesanstalt bei Kartenzahlverfahren, Ausnahmen für neue Zahlverfahren im Massenzahlungsverkehr; Verordnungsermächtigung](0058.md)
 
 ### Unterabschnitt 5a Technische Infrastrukturleistungen

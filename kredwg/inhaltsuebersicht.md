@@ -318,5 +318,6 @@
 | § 64v | Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz |
 | § 64w | (weggefallen) |
 | § 64x | Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz |
+| § 64y | (weggefallen) |
 | § 65 | Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren |
 | § 65a | Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz |

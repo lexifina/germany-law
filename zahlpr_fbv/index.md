@@ -45,7 +45,7 @@
 
 - [§ 15 Zeitpunkt der Prüfung und Berichtszeitraum](0015.md)
 - [§ 16 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung](0016.md)
-- [§ 16a Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009](0016a.md)
+- [§ 16a Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230](0016a.md)
 - [§ 16b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012](0016b.md)
 - [§ 16c Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751](0016c.md)
 - [§ 16d Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz](0016d.md)
