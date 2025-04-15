@@ -1,0 +1,29 @@
+# Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Umgestaltung und Erweiterung des Friedrich-Wilhelm-Platzes – mehr Aufenthaltsqualität für alle!
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Drucksache/Vorlage: 0833/XXI
+- Art: Mitteilung zur Kenntnisnahme
+- Datum: 2025-04-15
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9044
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/papers.asp?id=9044
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=432878
+- Beratung: Entscheidung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7201 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Beratung: Erledigung  https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=33
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7752 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7839 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7840 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7841 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7811 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7943 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7944 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7945 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7946 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8098 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8099 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8103 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8104 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8219 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8252 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8274 https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- underDirectionOf: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=8
