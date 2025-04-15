@@ -1,0 +1,175 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2025-04-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8598436
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8598436
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 18.03.2025
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.1.1.: Übersicht über die Zuschussanträge des Stadtbezirksbudget vom 1. Quartal 2025
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Luma e.V. „Kulturelles Kinderprogramm vom 01.05.2025 - 31.12.2025“ 8.339,00 € / AZ: 0262.0-18-0415
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Turn- und Sportverein Turnerbund München e.V. „Erwerb der Erst-Ausstattung für die neue Schwimmabteilung“ 15.375,48 € / AZ: 0262.0-18-0411
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Pfarrei Maria Immaculata, Ökumene-Arbeitskreis „Senioren-Aktivität: Ausflugs- und Besichtigungsfahrt Deggendorf und Niederaltaich am 27.06.2025“ 886,00 € / AZ: 0262.0-18-0417
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Ateliersgemeinschaft Candy „Ateliereröffnung, 3 Tage offene Ateliers, Workshop für Kinder und Jugendliche vom 10.04.2025 - 12.04.2025“ 1.260,00 € / AZ: 0262.0-18-0416
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise für vom BA 18 geförderte Budgetanträge
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Lärm durch den Stadionsprecher des TSV 1860 München; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Workshops "Parkour on Tour" an vier Wochenenden vom 30.05 - 21.09.2025 im Bereich Candidplatz - Lohstraße (unterhalb der Brücke)
+- TOP 3.2.4.2.: "Straßenfest für und mit Giesing" am 24.05.2025 in der Freibadstraße
+- TOP 3.2.4.3.: "Spielaktionen Straße.Oase" von CultureClouds e.V. auf Straßen und Plätzen vom 26.05. - 31.07.2025
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Den Sportplatz des staatlichen Albert-Einstein-Gymnasium für gemeinnützige Sportvereine und sportorientierte Organisationen zur Verfügung zu stellen
+- TOP 3.2.5.2.: Anfrage einer "Geschenke-Box" in der Humboldtstraße
+- TOP 3.2.5.3.: Sportanlage in der Sachsenstraße - Belegung durch Freizeitmannschaften
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Versammlungsanzeigen im Stadtbezirk 18
+- TOP 3.2.6.2.: Drehgenehmigungen im Stadtbezirk 18
+- TOP 3.2.6.3.: Veranstaltung "Frühlingsspektakel" am Laurinplatz am 28.03.2025 - Eilentscheidung und Genehmigung
+- TOP 3.2.6.4.: Jubiläumsfeier des FEZI am 28.03.2025 - Erlaubnis
+- TOP 3.2.6.5.: "Skateboard Mobil" und "Kurse High Five" (Stadtbezirke 05, 15, 16, 18, 22, 24) im Zeitraum vom 31.03. - 30.10.2025 - Genehmigung
+- TOP 3.2.6.6.: "Fit im Park" ab 01.05.2025 bis 30.09.2025 in diversen städtischen Grünanlagen - Genehmigung
+- TOP 3.2.6.7.: Temporäre Kunstaktion "afrodeutsche Besatzungskinder" vom 16.09.-31.10.2025 im Rosengarten in der Sachsenstraße
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Umgestaltung Kreuzung Teutoburger Straße / Agilolfingerstraße; Bürgeranliegen
+- TOP 3.3.3.2.: Änderungsvorschläge Mobilitätspunkte; Gemeinsamer Antrag aller Fraktionen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Straßenunterhaltsmaßnahme für den Radweg in der Säbener Straße
+- TOP 3.3.4.2.: Raumaufteilung Martin-Luther-Straße; Vorab-Einschätzung des BAs
+- TOP 3.3.4.3.: Anhörung zu einer verkehrsrechtlichen Anordnung in der Klausener und Gufidauner Straße
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Prüfung der Errichtung von Pollern am Gehsteigrand an der Kreuzung Hans-Mielich-Straße / Jamnitzerstraße
+- TOP 3.3.5.2.: Straßenbelag in der Bezoldstraße
+- TOP 3.3.5.3.: Einrichtung der "Pfiatdi-Bussi-Zone“ in der Naupliastraße
+- TOP 3.3.5.4.: Prüfung der Einrichtung eines Fußgängerüberweges in der Hans-Mielich-Straße (auf Höhe Jamnitzer Straße)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Zwischennachrichten der Verwaltung zu BA-Anträgen und BV-Empfehlungen aus dem Bereich Mobilität
+- TOP 3.3.6.2.: Einrichtung einer Schulbushaltestelle für den Schwimmbus und eines absoluten Halteverbots in der Klausener Straße
+- TOP 3.3.6.3.: Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums - V 11904
+- TOP 3.3.6.4.: Fahrbahn- und Gehwegsanierung in der Isenschmidstraße
+- TOP 3.3.6.5.: Fahrbahnsanierung in der Stresemannstraße
+- TOP 3.3.6.6.: Einrichtung von Flächen für Shared Mobility im Stadtbezirk 18
+- TOP 3.3.6.7.: Baumaßnahmen der Stadtwerke München mit verkehrstechnischen Auswirkungen
+- TOP 3.3.6.8.: Umwidmung "Am Hollerbusch": Textbaustein und Karte für die Elternkommunikation
+- TOP 3.3.6.9.: Fahrbahnsanierung Harlachinger Berg in Nachtarbeit; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Anpflanzung von Wildkrokussen am Kuntersweg; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällanträge (Anhörungen): - Agatharieder Str. - Alois-Wohlmuth-Str. - Geiselgasteigstr. - Goldrautenweg - Josef-Vötter-Str. - Stadelbergstr.
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Recycling-Container in der Reichenhaller Straße
+- TOP 3.4.5.2.: Umsetzung der Glascontainer in der Gerhardstraße
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällbescheide (Unterrichtungen): - Alois-Wohlmuth-Str. - Elilandstr. - Harthauser Str. - Josef-Vötter-Str. - Lautererstr. (a) - Lautererstr. (b) - Naupliastr. - Ritterspornweg - Willroiderstr.
+- TOP 3.4.6.2.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Erweiterung einer bestehenden Freischankfläche in der Säbener Straße
+- TOP 3.5.2.2.: Genehmigung einer Freischankfläche in der Reginfriedstraße
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.5.: Sparmaßnahmen für das Fanprojekt München überdenken; SPD-Antrag
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Umbau des südlichen Teils der MacGraw Kaserne; Auskunft zum aktuellen Planungsstand im Hinblick auf Nahversorgung
+- TOP 3.5.5.2.: Verbesserungen an der Grundschule in der Rotbuchenstraße
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Anträge auf unveränderte Fortführung des Gaststättenbetriebs im Stadtbezirk 18
+- TOP 3.5.6.2.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Anfrage zu Abwasserkanälen in Harlaching; Antrag FW/FDP
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Neubau eines Doppelhaushälfte mit Garage in der Wettersteinstraße
+- TOP 3.6.4.1.2.: Energetische Sanierung eines Bestandsgebäudes in der Birkenleiten mit Abbruch des bestehenden nicht ausgebauten Dachgeschosses und Neubau des Dachgeschosses zu Wohnzwecken, Anbau eines Wohngebäudes, Erschließung über die Treppenanlage des Bestandsgebäudes inkl. des Mobilitätskonzepts
+- TOP 3.6.4.1.3.: Abbruch eines erdgeschossigen Anbaus (Wohnnutzung) an einer Doppelhaushälfte in der Oberbiberger Straße und Neuerrichtung eines Anbaus (Wohnnutzung) an dessen Stelle
+- TOP 3.6.4.1.4.: Errichtung von neuen Balkonen (Ersatz für Bestandsbalkone) in der Fromundstraße
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Neubau eines Einfamilienhauses mit Carport und versenkbaren Parker (für Bestand) in der Naupliastraße
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 3.6.6.2.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 3.6.6.3.: Beteiligung der Kommunen beim Mobilfunkausbau; Zuschriften der Netzbetreiberfirmen nach § 7a der Verordnung über elektromagnetische Felder (26. BImSchV) künftig in öffentlicher Sitzung zu behandeln
+- TOP 3.6.6.4.: Mitteilung der Deutschen Telekom Technik GmbH über Modernisierungsarbeiten am Mobilfunkstandort in der Gufidauner Straße
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1.: Anhörungsverfahren zum Mehrjahresinvestitionsprogramm (MIP) 2024-2028
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.1.: Antwortschreiben des Finanzministeriums zum BA 9-Antrag Nr. 20-26 / B 07293 - Ehrenamt muss abgesichert sein
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Endgültiger Sitzungskalender des BA 18 für das Kalenderjahr 2026
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.3.3.: Umwidmung am Hollerbusch; Bürgeranliegen
+- TOP 3.5.3.6.: Anfrage zur Vorstellung der Stiftung "Daheim im Viertel"; Bürgeranliegen
+- TOP 3.6.3.2.: Sachstand zur Baugenehmigung des denkmalgeschützten Bahnwärterhauses an der Geiselgasteigstraße; SPD-Antrag
+- TOP 3.3.3.4.: Entfernung aller im Stadtbezirk angebrachten Fahrrad-Abstellflächenschilder einschließlich der seitlichen Absperrbaken; Dringlichkeitsantrag CSU
