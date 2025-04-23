@@ -65,7 +65,7 @@
 - [§ 28 Mitteilungen](0028.md)
 - [§ 29 Nicht anerkannte Erzeugerorganisationen](0029.md)
 
-## Teil 2 Geschäftsbeziehungen in der Lebensmittellieferkette
+## Teil 2 Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
 
 - [§ 30 Beschwerdeverfahren](0030.md)
 - [§ 31 Jahresbericht](0031.md)
@@ -73,6 +73,7 @@
 ## Teil 3 Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten; Ordnungswidrigkeiten
 
 - [§ 32 Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten](0032.md)
+- [§ 32a Zeugen- und Sachverständigenvernehmung](0032a.md)
 - [§ 33 Ordnungswidrigkeiten](0033.md)
 
 ## Teil 4 Übergangs- und Schlussbestimmungen

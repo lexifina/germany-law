@@ -1,7 +1,7 @@
 # Anlage (zu § 1 Absatz 1)Ergänzungen von Erzeugnisbereichen und weitere Erzeugnisbereiche
 
 |  | Vorbemerkung |  |
-|  | Im Folgenden meint KN-Code eine Position im Rahmen der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2020/2159 der Kommission vom 16. Dezember 2020 (ABl. L 431 vom 21.12.2020, S. 34) geändert worden ist, in der jeweils geltenden Fassung. |  |
+|  | Im Folgenden meint KN-Code eine Position im Rahmen der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; ABl. L 151 vom 8.6.2016, S. 22), die zuletzt durch die Durchführungsverordnung (EU) 2024/2717 (ABl. L 2024/2717 vom 25.10.2024) geändert worden ist, in der jeweils geltenden Fassung. |  |
 Abschnitt I:
 Ergänzungen von Erzeugnisbereichen
 1. Der Erzeugnisbereich Getreide umfasst auch folgende Erzeugnisse:

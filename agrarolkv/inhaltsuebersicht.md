@@ -55,13 +55,14 @@ Abschnitt 10
 | § 28 | Mitteilungen |
 | § 29 | Nicht anerkannte Erzeugerorganisationen |
 Teil 2
-Geschäftsbeziehungen in der Lebensmittellieferkette
+Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
 | § 30 | Beschwerdeverfahren |
 | § 31 | Jahresbericht |
 Teil 3
 Überwachungsbefugnisse; Duldungs-
 und Mitwirkungspflichten; Ordnungswidrigkeiten
 | § 32 | Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten |
+| § 32a | Zeugen- und Sachverständigenvernehmung |
 | § 33 | Ordnungswidrigkeiten |
 Teil 4
 Übergangs- und Schlussbestimmungen
