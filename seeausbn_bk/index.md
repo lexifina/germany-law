@@ -1,2 +1,0 @@
-# Internationales Übereinkommen von 1978 über Normen für die Ausbildung,
-die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten

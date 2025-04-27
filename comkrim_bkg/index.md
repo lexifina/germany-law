@@ -1,1 +1,0 @@
-# Gesetz zu dem Übereinkommen des Europarats vom 23. November 2001 über Computerkriminalität
