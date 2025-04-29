@@ -1,0 +1,55 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2025-04-29T18:00:00+02:00
+- Ende: 2025-04-29T21:20:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdgKxZtNC8li9jZ-bfoDf-4
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6263
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYf2vQD4gy4itIr8urgAzkRA9gxJnmMMnMRqkE7dsMfH/Einladung_Rat_29.04.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZUPRBznBRuP5_ByU0HA6YIoNsgmv99yJU1TKhcyDUcP/Oeffentliche_Niederschrift_Rat_29.04.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Entwicklung der Grundsteuer im Haushaltsjahr 2025
+- TOP 8.: 1. Änderungssatzung über die Erhebung von Gebühren für den Krankentransport und Rettungsdienst in der Stadt Wesseling - Einstimmig, 1 Enthaltung
+- TOP 9.: 2. Änderungssatzung über die Erhebung von Abwassergebühren, Kanalanschlussbeiträgen, Kostenersatz für Grundstückanschlüsse in der Stadt Wesseling in der Fassung vom 13. Dezember 2023 (Abwassergebührensatzung) - 33 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 10.: Satzung für die Seniorenvertretung der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 11.: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - Einstimmig, 0 Enthaltungen
+- TOP 12.: Aktuelle Haushaltslage – Verfügung einer Haushaltssperre
+- TOP 13.: Haushaltswirtschaft im Haushaltsjahr 2024 Bereitstellung einer überplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 14.: GGS Rheinschule; hier: Mögliche Ausbauvarianten zur Umsetzung des OGS-Rechtsanspruchs - Einstimmig, 0 Enthaltungen
+- TOP 15.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung von überplanmäßigen und außerplanmäßigen Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 16.: Einbringung des Entwurfs des Jahresabschlusses zum 31.12.2023 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Beteiligungsbericht der Stadt Wesseling für das Berichtsjahr 2017 - Einstimmig, 2 Enthaltungen
+- TOP 18.: Gesellschafterversammlung der Stadtentwicklungsgesellschaft Wesseling mbH (SEG) – Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin, hier: • Feststellung des Jahresabschlusses 2023 • Verwendung des Jahresergebnisses • Entlastung der Geschäftsführung und des Aufsichtsrats • Änderung des Gesellschaftsvertrags - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bekanntgabe der ersten Betriebsleiterin der Entsorgungsbetriebe Wesseling
+- TOP 20.: Neubau Keldenicher Straße 79-81 - Einstimmig, 0 Enthaltungen
+- TOP 20.1.: Ergänzungsantrag der Fraktionen CDU und Bündnis90/Die Grünen: Neubau Keldenicher Straße 79-81
+- TOP 21.: Bebauungsplan Nr. 4/145 "Bildungspark Urfeld" hier: Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 22.: 75. Änderung des Flächennutzungsplanes "Nördliche Kölner Straße" hier: Feststellungsbeschluss - 29 Ja-Stimmen, 2 Nein-Stimmen, 2 Enthaltungen
+- TOP 23.: Bebauungsplan Nr. 1/137 "Nördliche Kölner Straße" hier: Satzungsbeschluss - 29 Ja-Stimmen, 2 Nein-Stimmen, 2 EnthaltungenFrau Braun und Frau Kübbeler nehmen wieder an der Sitzung teil.
+- TOP 24.: Stellenanpassung im Sachgebiet Eingliederungshilfe (EGH) in der Abt. Soziale Dienste - Einstimmig, 0 Enthaltungen
+- TOP 25.: Stellenanpassungen im Amt 37/Feuerwehr und Rettungswesen - Einstimmig, 0 Enthaltungen
+- TOP 26.: Einführung einer Bezahlkarte für Leistungsempfänger aus dem Asylbewerberleistungsgesetz (AsylbLG) - Ja-Stimmen: Frau Bauer, Herr Daniel, Herr Engelmann, Frau Engels-Bremer, Frau Engels-Welter, Herr Fulda, Herr Gillet, Herr Hambach, Frau Keilhau, Frau Keller, Frau Limbach, Herr Marx, Frau Dr. Mertens, Herr Mollenhauer, Herr Nep, Herr Nürnberg, Herr Rothe
+- TOP 27.: Öffentlich-rechtliche Vereinbarung mit der Stadt Bornheim über die Beschulung von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf aus Wesseling an der Verbundschule Bornheim- Uedorf - Einstimmig, 0 Enthaltungen
+- TOP 28.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Situation der Unterführung Fußgängerzone, hier: Stellungnahme der Verwaltung
+- TOP 29.: Bestellung und Entsendung von Vertretungen der Stadt Wesseling in externe Gremien - Einstimmig, 0 Enthaltungen
+- TOP 30.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 31.: Antrag der FDP-Fraktion: Umbesetzungen in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 32.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Straßenbenennung in Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 2.: Sachstandsbericht zu einem Grundstücksgeschäft in Wesseling-Mitte
+- TOP 3.: Mitteilungen und Anfragen
+- TOP 4.: Presseveröffentlichungen
