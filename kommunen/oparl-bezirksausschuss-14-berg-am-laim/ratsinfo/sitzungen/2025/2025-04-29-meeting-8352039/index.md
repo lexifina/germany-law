@@ -1,0 +1,113 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352039
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352039
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 25.03.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 25.03.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Ludwig-Jung-Straße
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Gisela-Stein-Straße
+- TOP 2.3.: Hanne-Hiob-Str. 10 - Beschlussvorlage zur Erteilung einer Sondernutzungserlaubnis (Freischankfläche)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Mühldorfstr. 39 - Neubau Wohnanlage mit TG - VORBESCHEID - vertagt aus der Plenumssitzung vom 25.03.2025 -
+- TOP 3.1.2.: Siegsdorfer Str. 9a - Neubau einer Wohnbebauung mit Tiefgarage sowie Rückbau des Bestandes - VORBESCHEID
+- TOP 3.1.3.: Baumkirchner Str. 5 - Sanierung der Wohnungen im Altbau und Umbau der Gaststätte mit ergänzenden Neubauten sowie Wiederbelebung der historischen Hausbrauerei im Hofbau- ÄNDERUNGSANTRAG zu 1.1-2013-29552-32 hier: Umnutzung der nichtausgebauten Bereiche des bestehenden Hofgebäudes zu Ferienappartements
+- TOP 3.1.4.: Ursberger Str. 14 - Neubau eines Wohnhauses (7 WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.1.5.: Sonnwendjochstr. 22 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.1.6.: Annabrunner Str. 7 - Neubau eines Mehrfamilienhauses mit 6 Wohneinheiten und Tiefgarage - ÄNDERUNGSANTRAG zu 1.23-2024-6745-32
+- TOP 3.1.7.: Mühldorfstr. 15 - Neubau eines Büro, Labor , Schulungs und Gewerbegebäudes mit Betriebskantine und Rechenzentrum (Ampfingstr. 31 + 33 / Mühldorfstr. 15 / Trausnitzstr. 6)
+- TOP 3.1.8.: St.-Veit-Str. 4 - Errichtung eines Holzhybridhaus mit Wohnungen, Kita und Einzelhandel
+- TOP 3.1.9.: Aufstellen eines Mülleimers an der U-Bahn Haltestelle Josephsburg; Antrag der CSU-Fraktion
+- TOP 3.1.10.: Baumkirchen Mitte: Herstellung Grünflächen inkl. Kinderspielplatz gemäß Bedarfs- und Konzeptgenehmigung; Antrag der CSU-Fraktion
+- TOP 3.1.11.: Aufstellmöglichkeiten für Bienenvölker in Berg am Laim; Anliegen aus der Bürgerschaft
+- TOP 3.1.12.: Begrünung der neu asphaltierten Fläche vor der Feuerwache in der Anzinger Str.; Anliegen aus der Bürgerschaft
+- TOP 3.1.13.: Vermüllung am Innsbrucker Ring; Anliegen aus der Bürgerschaft
+- TOP 3.1.14.: Vermüllung an der Wohnanlage der Münchener Wohnen in der Seebrucker Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Verkehrsaufteilung im Gleisdreieck im Rahmen der Einhausung der zweigleisigen Spange Trudering-Daglfing; Antrag der Grünen-Fraktion - vertagt aus der Plenumssitzung vom 25.03.2025 -
+- TOP 3.2.2.: Mehr Zebrastreifen in Berg am Laim; Antrag vom UA-Städtebauliche Entwicklung, Mobilität, Wohnen, Gewerbe und Digitalisierung
+- TOP 3.2.3.: Herstellung des Fußwegs Michaeliburgstraße; Antrag der Grünen-Fraktion
+- TOP 3.2.4.: Gerlosstraße - Verkehrsrechtliche Anordnung zur Erweiterung der Hol- und Bringzone für die Grundschule St.-Veit-Straße; Anhörung des Mobilitätsreferats, Frist bis zum 30.04.2025
+- TOP 3.2.5.: Anpassung des Zeitraums für die Parkscheibenpflicht an den Kurzzeitparkplätzen an der Berg-am-Laim-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Gehwegparken in der Großvenedigerstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.7.: Ausweis der Parkplätze an der Ampfing- und Mühldorfstr. mit dem Zusatzzeichen "Parken nur für Pkw"; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung in städtischer Grünanlage: offene, kostenlose Spielaktion des BiLoks und FreizeitSports für Kids und Teens vom 16.-18.06.2025 am Piusplatz; Anhörung des Kreisverwaltungsreferats, Frist bis zum 30.04.2025
+- TOP 3.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage: Kinderfestveranstaltung am 07.06.2025 am Piusplatz; Anhörung des Kreisverwaltungsreferats, Frist bis zum 05.05.2025
+- TOP 3.3.3.: Veranstaltung im Freien in einer städtischen Grünanlage: Tag der Städtebauförderung am 10.05.25 am Piusplatz; Anhörung des Kreisverwaltungsreferats, Frist bis zum 05.05.2025
+- TOP 3.3.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Theateraufführungen im Behrpark ab dem 20.06.2025; Anhörung des Kreisverwaltungsreferats, Frist bis zum 18.05.2025
+- TOP 3.3.5.: Veranstaltung im Freien in einer städtischen Grünanlage: Grüner Markt - Maifeier am 01.05.2025; Anhörung des Kreisverwaltungsreferats, Frist bis zum 29.04.2025
+- TOP 3.3.6.: Veranstaltung im Freien in einer städtischen Grünanlage: Kinderfest des Bezirksausschusses 14 - Berg am Laim am 21.06.2025; Anhörung des Kreisverwaltungsreferats, Frist bis zum 26.05.2025
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Veränderungen im Bereich der Nachbarschaftstreffs Trägerwechsel im Nachbarschaftstreff Alte Heimat, Kiem-Pauli-Weg 26 Aufgabe der geplanten Standorte Werksviertel und Haldenseestraße; Anhörung des Sozialreferats, Frist bis zum 07.05.2025
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Stiftung Kulturator I Gute-Dinge-Stiftung Tanz für Alle/DanceAbility vom 30.04. - 31.12.2025 2.100,00 €; Az. 0262.0-14-0447
+- TOP 3.5.2.: (E) Stadtbezirksbudget ESV München-Ost e. V. Fit im Echardinger Park 2025 vom 07. - 27.08.2025 2.875,00 €; Az. 0262.0-14-0448
+- TOP 3.5.3.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e. V. Maifest am 01.05.2025 2.010,00 €; Az. 0262.0-14-0446
+- TOP 3.5.4.: (E) Stadtbezirksbudget Working in Projects gUG WERTE durch WERKE: „Das Dritte Paradies“ oder Präventiver Frieden durch Kunst vom 13. - 18.10.2025 1.200,00 €; Az. 0262.0-14-0443
+- TOP 3.5.5.: (E) Stadtbezirksbudget THW Förderverein München-Ost e. V. Erweiterung eines Fahrzeugs um einen Lichtmast 2.500,00 €; Az.: 0262.0-14-0450
+- TOP 3.5.6.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e. V. Konfliktmediation an Grundschulen vom 01.10.2025 - 31.07.2026 4.000,00 €; Az. 0262.0-14-0449
+- TOP 3.5.7.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2025 bis 2029; Anhörung der Stadtkämmerei, Frist bis zum 30.04.2025
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Mühldorfstr. 15
+- TOP 3.6.2.: Hohenbrunner Str. 9a
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten März 2025
+- TOP 4.1.2.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 4.1.3.: Die LHM soll in Berg am Laim Rückzugsorte für Igel für den Winterschlaf bauen
+- TOP 4.1.4.: Akute Lärmbelästigung durch die U - Bahn
+- TOP 4.1.5.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 4.1.6.: Neubau Elektronisches Stellwerk München Ost Rangierbahnhof
+- TOP 4.1.7.: Pilotversuch Gelbe Tonne: Machbarkeitsstudie vorstellen
+- TOP 4.1.8.: Sicherstellung der Belichtung und Belüftung am Projekt P+R Anlage Michaelibad
+- TOP 4.1.9.: Zweckentfremdungen - Gratlspitzstr. 5 - Hohenburgstr. 9
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 4.2.2.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 4.2.3.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 4.2.4.: Teilstrategie Urbane Logistik – Finanzierungsbeschluss über eine kostenneutrale Aufstockung des finanziellen Rahmens im EU Projekt metaCCAZE zum Betrieb eines innovativen Radlogistik-Hubs Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2025 – 2027
+- TOP 4.2.5.: Ampelanlage Aschheimer Str./Ludwig-Jung-Str.: Überquerung für Fußgänger und Radfahrer in Betrieb nehmen
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Sport für die Kinder in Berg am Laim
+- TOP 4.3.2.: Öffnung des Sportplatzes der Grundschule Berg am Laim für Kinder und Jugendliche
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Antwortschreibendes Bayerischen Finanzministeriums zum BA-Antrag Nr. 20-26 / B 07293 - Anfrage – Ehrenamt muss abgesichert sein
+- TOP 4.5.2.: Verwendungsnachweise
+- TOP 4.5.3.: Übersichten der Anträge des ersten Quartals 2025 des Stadtbezirksbudgets
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Pachemstr. 2
+- TOP 4.6.2.: Geigelsteinstr. 5
+- TOP 4.6.3.: Josef-Ritz-Weg 2
+- TOP 4.6.4.: Hansjakobstr. 86
+- TOP 4.6.5.: Grafinger Str. 35
+- TOP 4.6.6.: Kopernikusstr. 1
+- TOP 4.6.7.: Siegsdorfer Str. 8
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
