@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-04-29T17:00:00+02:00
+- Ende: 2025-04-29T19:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27965
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27965
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die gemeinsame Sitzung des Ausschusses für Planung und Stadtentwicklung und der Bezirksvertretung 5 am 22. Januar 2025 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 25. März 2025 - öffentlicher Teil - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Vorstellung der Projekte am Düsseldorfer Flughafen zum Masterplan 2045 - mündlicher Bericht
+- TOP -: Verwaltungsvorlagen
+- TOP 6: Bebauungsplan-Entwurf Nr. 05/016 - Veranstaltungsgelände/Messeparkplatz - Empfehlung einstimmig beschlossen
+- TOP 7: Bebauungsplan-Vorentwurf Nr. 05/015 und Flächennutzungsplanänderung (Vorentwurf) Nr. 73 - Nördlich Kalkumer Schloßallee - Empfehlung einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Trödelmarkt auf dem Messeparkplatz P1 am 22. Juni 2025 - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2025 (Liste B), Beseitigung von Graffiti und Bewuchs an Kunstgegenständen und Denkmälern im öffentlichen Straßenraum und in Grünanlagen des Stadtbezirks 5 - einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2025 (Liste B), Ersatzbeschaffung eines Spielgerätes auf dem Kinderspielplatz Heinrich-Holtschneider-Weg - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 14: Freigabe der Einbahnstraße Sankt-Göres-Straße zwischen Niederrheinstraße und Kaiserswerther Markt für Radfahrende im Gegenverkehr - vertagt
+- TOP 15: Sperrung des Weges entlang des Schwarzbachs, Verbotsschilder für Fußgänger - vertagt
+- TOP 16: Erhöhung der Sicherheit für Fußgänger und Radfahrende auf der Einbrunger Straße 3.0 - vertagt
+- TOP 17: Verzögerungen bei der U81 – mangelhafte Einbindung des Stadtbezirks 5 - vertagt
+- TOP 18: Neubau von Wohnungen am Wasserwerksweg in Wittlaer - beantwortet
+- TOP -: Neue Anfragen
+- TOP 19: Ideen zum Leerstand in Kaiserswerth - nur Luxus-Schnickschnack zu verkaufen, während alle Einwohner auf der Arbeit sind, ist auch kein erfolgreiches Business-Modell - beantwortet
+- TOP 20: Zukunft des Grundstücks Sankt-Göres-Str. 11 und Wiederherstellung angrenzender öffentlicher Flächen - vertagt
+- TOP 21: Erhalt bezahlbaren und sozialen Wohnraums in Einbrungen - beantwortet
+- TOP 22: Wie viele Wohnungen und wann wären auf der großen Baulücke (heute noch Wiese) an der Alten Landstraße möglich? - beantwortet
+- TOP 23: Bericht über Sicherheitskonzepte für Veranstaltungen im Stadtbezirk 5 - vertagt
+- TOP 24: U81: Projektbeschleunigung durch den Oberbürgermeister - politische Führung gefragt - beantwortet
+- TOP 25: Situation Einzelhandelsversorgung und Gastronomiebetriebe seit Corona in den lokalen Zentren im Stadtbezirk 5 - beantwortet
+- TOP 26: Bessere Beleuchtung für die Einbrunger Straße - beantwortet
+- TOP 27: Warum möchte der Flughafen Düsseldorf Parkhäuser abreißen und damit den Parkdruck am Flughafen erhöhen? - beantwortet
+- TOP 28: Zweckentfremdung von Garagen - vertagt
+- TOP 29: Weiterentwicklung der Infrastruktur als Voraussetzung für einen qualitätsvollen Tourismus in Kaiserswerth - vertagt
+- TOP 30: Wege am Flughafen zwischen Radar und Brücke B8 - vertagt
+- TOP -: Anträge
+- TOP 31: Neuer Standort für Fitness-/Spielplatz im westlichen Teil Angermunds - einstimmig beschlossen
+- TOP 32: Zusätzliche Parkbank auf dem Rheinuferweg zwischen den Stadtwerken Duisburg und der Höhe Roßpfad Nr. 29 - zurückgezogen
+- TOP 33: Mehr Bänke und Mülleimer am Herbert-Eulenberg-Weg aufstellen - einstimmig beschlossen
+- TOP 34: Taxi-Parkverkehr auf Stockumer Kirchstraße zu Messestoßzeiten - einstimmig beschlossen
+- TOP 35: Schulweg an der Kreuzung Wittgatt / Fritz-Köhler-Weg schnellstmöglich sichern - einstimmig beschlossen
+- TOP 36: Anpassung und gegebenenfalls Vereinheitlichung der Geschwindigkeit auf dem Gerichtsschreiberweg - mehrheitlich abgelehnt
+- TOP -: Informationsvorlage
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes
