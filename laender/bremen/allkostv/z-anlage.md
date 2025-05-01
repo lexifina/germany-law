@@ -41,9 +41,9 @@ Allgemeines Kostenverzeichnis:
 102.02 | Festsetzung von Zwangsgeld und der Kosten für vorher schriftlich angedrohte Ersatzvornahme nach dem Bremischen Verwaltungsvollstreckungsgesetz | 5 v. H. des festgesetzten Zwangsgeldes bzw. der Aufwendungen für die Ersatzvornahme mindestens 21,00 Euro
 103 | Gebührenrechnung nach Zeitaufwand | 
 103.00 | Bei Gebührenberechnungen nach dem Zeitaufwand werden unter Berücksichtigung der Regelung in § 5 Absatz 1 des Bremischen Gebühren- und Beitragsgesetzes folgende Stundensätze in Anrechnung gebracht: | 
- | Für eine Beamtin oder einen Beamten der Laufbahngruppe II zweites Einstiegsamt (A13 – A16) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 89,00 Euro
- | für eine Beamtin oder einen Beamten der Laufbahngruppe II erstes Einstiegsamt (A9 – A13S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 73,00 Euro
- | für eine Beamtin oder einen Beamten der Laufbahngruppe I zweites Einstiegsamt (A5 – A9S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 57,00 Euro
+ | Für eine Beamtin oder einen Beamten der Laufbahngruppe II zweites Einstiegsamt (A13 – A16) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 96,73 Euro
+ | für eine Beamtin oder einen Beamten der Laufbahngruppe II erstes Einstiegsamt (A9 – A13S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 79,31 Euro
+ | für eine Beamtin oder einen Beamten der Laufbahngruppe I zweites Einstiegsamt (A5 – A9S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 62,88 Euro
 103.01 | Weiterberechnung von verauslagten Rechnungen | Nach Zeitaufwand bei Anwendung der Stundensätze nach 103.00
 103.02 | Gemeinkostenzuschlag für Lagermaterial | 20 % des Nettorechnungsbetrages
 104 | Aktenversendung bzw. -aushändigung | 
