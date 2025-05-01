@@ -8,7 +8,7 @@
 ## Abschnitt 2 Wirkungen der Lebenspartnerschaft
 
 - [§ 2 Partnerschaftliche Lebensgemeinschaft](0002.md)
-- [§ 3 Lebenspartnerschaftsname](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Umfang der Sorgfaltspflicht](0004.md)
 - [§ 5 Verpflichtung zum Lebenspartnerschaftsunterhalt](0005.md)
 - [§ 6 Güterstand](0006.md)

@@ -89,7 +89,7 @@
 |  | Abschnitt 2 |
 |  | Familienrechtliche Beurkundungen |
 | § 41 | Erklärungen zur Namensführung von Ehegatten |
-| § 42 | Erklärungen zur Namensführung von Lebenspartnern |
+| § 42 | (weggefallen) |
 | § 43 | Erklärungen zur Namensangleichung |
 | § 44 | Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft |
 | § 45 | Erklärungen zur Namensführung des Kindes |

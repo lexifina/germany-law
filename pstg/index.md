@@ -94,7 +94,7 @@ Beurkundungsfälle
 ### Abschnitt 2 Familienrechtliche Beurkundungen
 
 - [§ 41 Erklärungen zur Namensführung von Ehegatten](0041.md)
-- [§ 42 Erklärungen zur Namensführung von Lebenspartnern](0042.md)
+- [§ 42 (weggefallen)](0042.md)
 - [§ 43 Erklärungen zur Namensangleichung](0043.md)
 - [§ 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft](0044.md)
 - [§ 45 Erklärungen zur Namensführung des Kindes](0045.md)

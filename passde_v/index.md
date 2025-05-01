@@ -1,7 +1,13 @@
 # Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller
 
 - [§ 1 Anwendungsbereich](0001.md)
-- [§ 2 Erfassung von Lichtbild und Fingerabdrücken; dezentrale Qualitätssicherung](0002.md)
+- [§ 1a Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren](0001a.md)
+- [§ 1b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters](0001b.md)
+- [§ 1c Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter](0001c.md)
+- [§ 1d Pflichten des Cloudanbieters](0001d.md)
+- [§ 1e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters](0001e.md)
+- [§ 1f Fertigung des Lichtbilds durch die Passbehörde](0001f.md)
+- [§ 2 Qualitätssicherung](0002.md)
 - [§ 3 Übermittlung der Daten an den Passhersteller](0003.md)
 - [§ 4 Zertifizierung](0004.md)
 - [§ 5 Qualitätsstatistik](0005.md)

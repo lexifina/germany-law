@@ -181,7 +181,7 @@
 ##### Art 47 Vor- und Familiennamen
 
 
-##### Art 48 Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
+##### Art 48 Namenswahl
 
 
 ##### Art 49 (Änderung anderer Vorschriften)

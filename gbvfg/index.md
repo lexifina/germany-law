@@ -82,6 +82,7 @@
 ## Abschnitt X Grundbucheinsicht und -abschriften
 
 - [§ 43](0043.md)
+- [§ 43a Grundbucheinsicht für Windenergieanlagen und Solaranlagen](0043a.md)
 - [§ 44](0044.md)
 - [§ 45](0045.md)
 - [§ 46](0046.md)

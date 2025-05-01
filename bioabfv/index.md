@@ -2,6 +2,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2a Anforderungen an die Fremdstoffentfrachtung](0002a.md)
 - [§ 3 Anforderungen an die hygienisierende Behandlung](0003.md)
 - [§ 3a Anforderungen an die biologisch stabilisierende Behandlung](0003a.md)
 - [§ 3b Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung](0003b.md)

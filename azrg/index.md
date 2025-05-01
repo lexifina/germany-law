@@ -80,7 +80,7 @@ anderer Staaten und über- oder zwischenstaatliche Stellen
 
 ## Kapitel 4 Rechte der betroffenen Person
 
-- [§ 34 Auskunft an die betroffene Person](0034.md)
+- [§ 34 Auskunft an die betroffene Person; Datenschutzcockpit](0034.md)
 - [§ 34a Datenschutzrechtliche Kontrolle](0034a.md)
 
 ## Kapitel 5 Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung

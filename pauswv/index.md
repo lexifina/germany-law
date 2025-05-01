@@ -11,14 +11,23 @@
 - [§ 4 Dokumentationspflichten](0004.md)
 - [§ 5 Speicherung und Löschung](0005.md)
 
-## Kapitel 2 Übermittlung der Ausweisantragsdaten
+## Kapitel 2 Übermittlung des Lichtbilds durch Dienstleister
+
+- [§ 5a Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren](0005a.md)
+- [§ 5b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters](0005b.md)
+- [§ 5c Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter](0005c.md)
+- [§ 5d Pflichten des Cloudanbieters](0005d.md)
+- [§ 5e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters](0005e.md)
+
+## Kapitel 3 Übermittlung der Ausweisantragsdaten
 
 - [§ 6 Erfassung der Anschrift](0006.md)
+- [§ 6a Fertigung des Lichtbilds durch die Personalausweisbehörde](0006a.md)
 - [§ 7 Qualitätssicherung des Lichtbildes und der Fingerabdrücke](0007.md)
 - [§ 8 Übermittlung](0008.md)
 - [§ 9 Qualitätsstatistik](0009.md)
 
-## Kapitel 3 Produktion des Personalausweises
+## Kapitel 4 Produktion des Personalausweises
 
 - [§ 10 Eingang der Antragsdaten](0010.md)
 - [§ 11 Muster für den Personalausweis](0011.md)
@@ -30,25 +39,25 @@
 - [§ 16 Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber](0016.md)
 - [§ 17 Erhalt der Geheimnummer und der Entsperrnummer](0017.md)
 
-## Kapitel 4 Ausgabe und Versand des Personalausweises; Braille-Aufkleber
+## Kapitel 5 Ausgabe und Versand des Personalausweises; Braille-Aufkleber
 
 - [§ 18 Ausgabe und Versand des Personalausweises und des Sperrkennworts](0018.md)
 - [§ 18a Aufkleber mit Brailleschrift](0018a.md)
 
-## Kapitel 5 Änderung von Daten des Personalausweises; nachträgliches Einschalten
+## Kapitel 6 Änderung von Daten des Personalausweises; nachträgliches Einschalten
 
 - [§ 19 Änderung der Anschrift](0019.md)
 - [§ 20 Neusetzung und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit dem Personalausweis](0020.md)
 - [§ 21 Nachträgliches Einschalten](0021.md)
 
-## Kapitel 6 Elektronischer Identitätsnachweis mit einem mobilen Endgerät
+## Kapitel 7 Elektronischer Identitätsnachweis mit einem mobilen Endgerät
 
 - [§ 22 Einrichtung](0022.md)
 - [§ 23 Speicherung von personenbezogenen Daten; Zugriffsschutz](0023.md)
 - [§ 23a Neusetzen und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit einem mobilen Endgerät](0023a.md)
 - [§ 23b Gültigkeitsdauer](0023b.md)
 
-## Kapitel 7 Sperrung und Entsperrung des elektronischen Identitätsnachweises
+## Kapitel 8 Sperrung und Entsperrung des elektronischen Identitätsnachweises
 
 - [§ 24 Referenzliste; allgemeine Sperrliste](0024.md)
 - [§ 25 Sperrung des elektronischen Identitätsnachweises mit dem Personalausweis](0025.md)
@@ -57,14 +66,14 @@
 - [§ 26a Entsperrung des elektronischen Identitätsnachweises mit mobilem Endgerät](0026a.md)
 - [§ 27 Auskunft über Sperrung](0027.md)
 
-## Kapitel 8 Beantragung von Berechtigungen
+## Kapitel 9 Beantragung von Berechtigungen
 
 - [§ 28 Antrag auf Erteilung einer Berechtigung für Vor-Ort-Diensteanbieter und sonstige Diensteanbieter](0028.md)
 - [§ 29 Antrag auf Erteilung einer Berechtigung für Identifizierungsdiensteanbieter; Vorgaben zu Datenschutz und Datensicherheit bei Identifizierungsdiensteanbietern](0029.md)
 - [§ 29a Einholung von Stellungnahmen der Datenschutzaufsichtsbehörden](0029a.md)
 - [§ 30 Öffentliche Liste der Berechtigungen](0030.md)
 
-## Kapitel 9 Ausgabe von Berechtigungszertifikaten
+## Kapitel 10 Ausgabe von Berechtigungszertifikaten
 
 - [§ 31 Angaben vor der Ausgabe von Berechtigungszertifikaten](0031.md)
 - [§ 32 Beachtung der Anforderungen des Inhabers der Wurzelzertifikate](0032.md)
@@ -74,14 +83,14 @@
 - [§ 36 Ausgabe von hoheitlichen Berechtigungszertifikaten](0036.md)
 - [§ 36a Ausgabe von Berechtigungszertifikaten für öffentliche Stellen anderer Mitgliedstaaten](0036a.md)
 
-## Kapitel 10 eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
+## Kapitel 11 eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
 
 - [§ 36b Entsprechende Anwendung der Vorschriften über den Personalausweis](0036b.md)
 - [§ 36c Nicht auf die eID-Karte entsprechend anwendbare Vorschriften](0036c.md)
 - [§ 36d Abweichende Regelung für die eID-Karte](0036d.md)
 - [§ 36e Muster der eID-Karte](0036e.md)
 
-## Kapitel 11 Schlussvorschriften
+## Kapitel 12 Schlussvorschriften
 
 - [§ 37 Übergangsregelungen](0037.md)
 - [§ 38 Inkrafttreten](0038.md)

@@ -39,8 +39,8 @@ Allgemeiner Datenbestand
 | c) | Vornamen | (7) | –nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes–Staatsangehörigkeits- und Vertriebenenbehörden–Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben nach dem Sanktionsdurchsetzungsgesetz |
 | d) | Schreibweise der Namen nach deutschem Recht | (7) |  |
 | e) | Geburtsdatum | (7) |  |
-| f) | Geburtsort, -*land und -*bezirk | (7) |  |
-| g) | Geschlecht | (7) |  |
+| f) | Geburtsort, -land und -bezirk | (7) |  |
+| g) | Geschlechtseintrag | (7) |  |
 | h) | Doktorgrad | (7) |  |
 | i) | Staatsangehörigkeiten | (7) |  |
 |  |
@@ -76,8 +76,8 @@ Allgemeiner Datenbestand
 | Weitere Personalien |  | I.–Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a, b, d, f und g–in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a, b, d, f und g–Bundesamt für Migration und Flüchtlinge–ermittlungsführende Polizeibehörden zu Spalte A Buchstabe a, b und d–Staatsanwaltschaften zu Spalte A Buchstabe a, b und d–Gerichte zu Spalte A Buchstabe a, b und d–Verfassungsschutzbehörden des Bundes und der Länder zu Spalte A Buchstabe a, b und d–RegistermodernisierungsbehördeII.–Bundeskriminalamt zu Spalte A Buchstabe a, b, d und g–Landeskriminalämter zu Spalte A Buchstabe a, b, d und g–Zollkriminalamt zu Spalte A Buchstabe a, b, d und g–sonstige Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a, b, d und g–Staatsangehörigkeitsbehörden zu Spalte A Buchstabe a, b und d–in Angelegenheiten der Vertriebenen, Aussiedler und Spätaussiedler zuständige Stellen zu Spalte A Buchstabe a, b und d–Bundesnachrichtendienst zu Spalte A Buchstabe a, b und d–Militärischer Abschirmdienst zu Spalte A Buchstabe a, b und d–alle öffentlichen Stellen für die Einstellung von Suchvermerken zu Spalte A Buchstabe a, b und d | I.–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden der Länder–deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis d–Registermodernisierungsbehörde zur Aufgabenerfüllung nach § 6a des AZR-Gesetzes zu Spalte A Buchstabe cII.für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–Staatsanwaltschaften–Vollzugseinrichtungen–Gerichte zu Spalte A Buchstabe a bis d, f und h–Bundesamt für Justiz zu Spalte A Buchstabe a, b und d–Zollkriminalamt zu Spalte A Buchstabe a bis d, f und g–Behörden der Zollverwaltung zu Spalte A Buchstabe a bis d, f und g–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes zu Spalte A Buchstabe a bis g–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis d–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a bis g–die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a bis d, f und g–die Jugendämter zu Spalte A Buchstabe a bis d, f und g–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a bis g und i–Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c–Statistisches Bundesamt zu Spalte A Buchstabe e und i–alle übrigen öffentlichen Stellen zu Spalte A Buchstabe c–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu Spalte A Buchstabe a bis d, f und g–Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben nach dem Sanktionsdurchsetzungsgesetz zu Spalte A Buchstabe a bis d und f |
 | a) | abweichende Namensschreibweisen – Familienname – Geburtsname – Vorname | (7) |
 | b) | andere Namen – Genanntname – Künstlername – Ordensname – nicht definierter Name | (7) |
-| c) | frühere Namen* | (7) |
-| d) | Aliaspersonalien – Familienname – Geburtsname – Vornamen – Geburtsdatum – Geburtsort und -bezirk – Geschlecht – Staatsangehörig- keiten | (7) |
+| c) | frühere Personalien aa)frühere Namenbb)frühere Geschlechtseinträge | (7) |
+| d) | Aliaspersonalien – Familienname – Geburtsname – Vornamen – Geburtsdatum – Geburtsort und -bezirk – Geschlechtseintrag – Staatsangehörigkeiten | (7) |
 | e) | Familienstand | (7) |
 | f) | Angaben zum Ausweisdokument – Dokumentenart ● Reisepass ● Identitätskarte (ID Card)/Personalausweis ● Passersatzpapier ● sonstiges Reisedokument – Seriennummer – gültig bis – ausstellender Staat – ausstellende Behörde – aufbewahrende Stelle – geprüft ● durch ● am – Ergebnis der Prüfung ● Vordruck entspricht Vergleichsmaterial, Manipulation nicht festgestellt ● ge-/verfälscht ● nicht abschließend bewertbar – Zuordnung zu ● Grundpersonalien ● Aliaspersonalie Name | (7) |
 | g) | ausländische Personenidentitätsnummer | (7) |
@@ -91,7 +91,6 @@ Allgemeiner Datenbestand
 | Weitere Personalien |
 | – wie vorstehend – |
 |  |
-* Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn eine Namensänderung gemeldet wird.
 | A | A1*) | B**) | C | D |
 | 5 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -757,15 +756,11 @@ Allgemeiner Datenbestand
 |  |  | befristet bis |  |  |
 |  | vv) | § 4 Absatz 2 AufenthG (Assoziationsrecht EWG/Türkei) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | ww) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am |  | (2)* |
-|  |  | befristet bis |  |  |
-|  | xx) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am |  | (2)* |
-|  |  | befristet bis |  |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  |  |
 | Aufenthaltserlaubnis | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
-| –wie vorstehend ohne Buchstabe e Doppelbuchstabe vv bis xx – |
+| –wie vorstehend ohne Buchstabe e Doppelbuchstabe vv – |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
-| Aufenthaltserlaubnis–wie vorstehend ohne Buchstabe e Doppelbuchstabe vv bis xx – | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
+| Aufenthaltserlaubnis–wie vorstehend ohne Buchstabe e Doppelbuchstabe vv – | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 11 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
@@ -792,27 +787,26 @@ Allgemeiner Datenbestand
 | r) | § 35 AufenthG (Kinder) erteilt am |  | (2)* |
 | s) | § 38 Absatz 1 Nummer 1 AufenthG (ehemalige Deutsche) erteilt am |  | (2)* |
 | t) | Bescheinigung nach § 51 Absatz 2 Satz 3 AufenthG erteilt am |  | (2)* |
-| u) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am |  | (2)* |
-| v) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am |  | (2)* |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) | – wie vorstehend – |  |  |
 | Niederlassungserlaubnis/unbefristeter Aufenthaltstitel | – wie vorstehend – | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
-| – wie vorstehend ohne die Buchstaben r und s – |
+| – wie vorstehend – |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (3) | – wie vorstehend – |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
 | Niederlassungserlaubnis/unbefristeter Aufenthaltstitel | – wie vorstehend – | – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
-| – wie vorstehend ohne die Buchstaben r und s – |
+|  |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 12 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-Gesetzes |
-| Aufenthaltsrechte nach dem FreizügG/EU |  |  |  |  |
+| Aufenthaltsrechte nach dem FreizügG/EU bzw. dem Freizügigkeitsabkommen EU/Schweiz |  |  |  |  |
 | a) | Aufenthaltskarte nach § 5 Absatz 1 FreizügG/EU (Angehörige von EU-/EWR-Bürgern)ausgestellt amgültig bis | (1) | (2)* | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches BundesamtII)–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Vollzugseinrichtungen–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
 | b) | Daueraufenthaltskarte nach § 5 Absatz 5 Satz 2 FreizügG/EU (Angehörige von EU-/EWR-Bürgern)ausgestellt amgültig bis | (2)* |
 | c) | Aufenthaltskarte nach § 5 Absatz 7 Satz 1 FreizügG/EU (nahestehende Personen von EU-Bürgern)ausgestellt amgültig bis | (2)* |
 | d) | Daueraufenthaltskarte nach § 5 Absatz 7 Satz 3 FreizügG/EU (nahestehende Personen von EU-Bürgern)ausgestellt amgültig bis | (2)* |
 | e) | Aufenthaltsdokument-GB nach § 16 Absatz 2 Satz 1 FreizügG/EU (britische Staatsangehörige und ihre Familienangehörigen nach Artikel 18 Absatz 4 des Austrittsabkommens)ausgestellt amgültig bis | (2)* |
 | f) | Aufenthaltsdokument für Grenzgänger-GB nach § 16 Absatz 3 FreizügG/EU (britische Staatsangehörige nach Teil Zwei Titel II Kapitel 2 des Austrittsabkommens)ausgestellt amgültig bis | (2)* |
-|  |
+| g) | Dokument nach § 78 Absatz 1 Satz 2 AufenthG (nach dem Abkommen EU/Schweiz freizügigkeitsberechtigte Schweizer Bürger)ausgestellt amausgestellt am |  | (2)* |
+| h) | Dokument nach § 78 Absatz 1 Satz 2 AufenthG (Angehörige von nach dem Abkommen EU/Schweiz freizügigkeitsberechtigten Schweizer Bürgern)ausgestellt amgültig bis |  | (2)* |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
 | Aufenthaltsrechte nach dem FreizügG/EU |  |  |  |  |
 | Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger ausgestellt amgültig bis | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
@@ -1114,7 +1108,7 @@ Visadatei
 | d) | Schreibweise derNamen nachdeutschem Recht | (7) |
 | e) | Geburtsdatum | (7) |
 | f) | Geburtsort, und -land, -bezirk | (7) |  |  |
-| g) | Geschlecht | (7) |  |  |
+| g) | Geschlechtseintrag | (7) |  |  |
 | h) | Doktorgrad | (7) |  |  |
 | i) | Weitere Personalien gemäß Abschnitt INummer 4 Spalte A | (7) |  |  |
 | j) | Staatsangehörigkeiten | (7) |  |  |

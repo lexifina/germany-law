@@ -74,7 +74,7 @@
 |  |
 | Kapitel 4 |
 |  | Rechte der betroffenen Person |
-|  | § 34 | Auskunft an die betroffene Person |
+|  | § 34 | Auskunft an die betroffene Person; Datenschutzcockpit |
 |  |
 | Kapitel 5 |
 |  | Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung |
