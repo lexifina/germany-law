@@ -1,0 +1,15 @@
+# Verordnung über den Ersatz von Aufwendungen der Intermediäre
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Allgemeine Vorschriften](0002.md)
+- [§ 3 Kostenersatz für Aufwendungen für die Übermittlung von Informationen an die Aktionäre außerhalb von § 4](0003.md)
+- [§ 4 Kostenersatz für Aufwendungen bei Mitteilungen hinsichtlich der Einberufung der Hauptversammlung](0004.md)
+- [§ 5 Kostenersatz für Aufwendungen bei Mitteilungen an die börsennotierte Gesellschaft und für den Nachweis des Anteilsbesitzes](0005.md)
+- [§ 6 Kostenersatz für Aufwendungen bei Aktionärsidentifikation](0006.md)
+- [§ 7 Beschränkung der Ersatzansprüche nach § 6](0007.md)
+- [§ 8 Kostenersatz für Aufwendungen bei der Übermittlung der Bestätigung des Zugangs der Stimmen](0008.md)
+- [§ 9 Kostenersatz für Aufwendungen bei Bestätigung über die Stimmzählung](0009.md)
+- [§ 10 Kostenersatz für die Übermittlung der Angaben bei Namensaktien](0010.md)
+- [§ 11 Ersatz der Umsatzsteuer](0011.md)
+- [§ 12 Inkrafttreten](0012.md)
