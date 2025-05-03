@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnismuster
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-11-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19743.2
+- Datum: 2025-05-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19743.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-03.11.2023
+03.05.2025
 bis
-02.05.2025
+05.11.2026
 
 VwV Zeugnismuster
 
@@ -1135,6 +1135,78 @@ In den Halbjahresinformationen und Zeugnissen wird bei Schülerinnen und Schüle
 
 
 XIII.
+Ausstellung von Zweitschriften
+
+1.
+
+Zweitschriften von Abschluss- und Abgangszeugnissen sowie Zeugnissen zur Schulentlassung und Halbjahreszeugnissen werden durch die das Originaldokument ausstellende Schule ausgestellt.
+
+2.
+
+Zweitschriften der in Nummer 1 genannten Zeugnisse werden auf Antrag ausgestellt, soweit dafür ein besonderes Interesse vorliegt. Ein besonderes Interesse liegt insbesondere vor, wenn 
+
+
+a)
+
+das Originalzeugnis verloren gegangen ist oder 
+
+
+b)
+
+eine Personenstandsänderung nach § 10 Absatz 2 Satz 1 Nummer 1 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG), in der jeweils geltenden Fassung, oder eine Namensänderung nach einer anderen gesetzlichen Vorschrift (außer bei Heirat oder Verpartnerung) in einer Zweitschrift abgebildet werden soll. 
+
+3.
+
+Eine Personenstands- und Namensänderung ist durch die Personenstandsurkunde im Original nachzuweisen.
+
+4.
+
+
+Für den Fall, dass der Antrag auf Ausstellung einer Zweitschrift wegen einer Personenstandsänderung nach § 2 Absatz 1 und 3 SBGG gestellt wird und zudem das Originalzeugnis verloren gegangen ist, hat die den Antrag stellende Person diesen Umstand eidesstattlich zu versichern gemäß § 10 Absatz 2 Satz 4 SBGG in Verbindung mit § 27 des Verwaltungsverfahrensgesetzes in Verbindung mit § 1 Satz 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen, in den jeweils geltenden Fassungen. Dafür hat die Person das Formular gemäß Anlage 10 zu verwenden, vollständig ausgefüllt bei der ausstellenden Schule einzureichen und ihre Identität mit einem Ausweisdokument nachzuweisen. 
+
+5.
+
+Ist ein Originalzeugnis noch vorhanden, wird es durch die Schule eingezogen. Es wird mit einem Nachtragsvermerk versehen und in der Schülerkartei archiviert. Der Nachtragsvermerk enthält den Hinweis auf die personenstandsrechtliche Änderung des Geschlechts und des Namens. Der Nachtragsvermerk ist in der Regel auf einem gesonderten Beiblatt einzutragen, welches dem Originalzeugnis angefügt und mit diesem fest verbunden wird, andernfalls auf einer freien Stelle im Originalzeugnis. Dabei ist der Wortlaut gemäß Abschnitt 1 der Anlage 11 zu verwenden. 
+
+6.
+
+Ist ein Originalzeugnis nicht mehr vorhanden, wird ein Nachtragsvermerk auf der in der Schülerkartei vorhandenen Zeugniskopie angebracht. Nummer 5 Satz 3 bis 5 gilt entsprechend. 
+
+7.
+
+Die Zweitschrift des Zeugnisses wird nach folgenden Maßgaben ausgestellt: 
+
+
+a)
+
+Das äußere Erscheinungsbild einer Zweitschrift soll dem zur Zeit der Erteilung des Originalzeugnisses vorgegebenen Zeugnismustern entsprechen. Ist eine diesem Zeugnismuster entsprechende Vorlage nicht nutzbar, wird stattdessen ein aktuelles Zeugnismuster verwendet, wobei Anpassungen des Erscheinungsbilds für eine zutreffende Darstellung des Inhalts zulässig sind.
+
+
+b)
+
+Das neu zu erstellende Dokument erhält die Überschrift „Zweitschrift“.
+
+
+c)
+
+Hat sich der Name der den Antrag stellenden Person geändert, wird die Zweitschrift auf den geänderten Namen ausgestellt, im Übrigen enthält sie sämtliche Angaben, die Gegenstand des Originaldokuments sind. 
+
+
+d)
+
+An der Stelle im Zeugnismuster, an der das Ausstellungsdatum des Originalzeugnisses vermerkt ist, wird dasselbe Datum auch in der Zweitschrift eingetragen. Die Übertragung der auf dem Original enthaltenen Unterschriften erfolgt mit dem Zusatz „gez.“, jeweils gefolgt von den Namen in Druckbuchstaben.
+
+
+e)
+
+Zusätzlich ist die Zweitschrift an einer freien Stelle in der Nähe der Angaben gemäß Buchstabe d, andernfalls auf einem mit der Zweitschrift fest verbundenen gesonderten Beiblatt, mit einem Beglaubigungsvermerk gemäß Abschnitt 2 der Anlage 11 zu versehen. 
+
+8.
+
+Die Schule fertigt die Zweitschrift anhand der Angaben im Originalzeugnis an oder, sofern dieses nicht mehr vorhanden ist, anhand von Kopien davon, die beglaubigt oder in der Schülerkartei der Schule vorhanden sind.
+
+
+XIII.
 Inkrafttreten und Außerkrafttreten
 
 Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig tritt die VwV Zeugnisformulare vom 6. November 2018 (MBl. SMK S. 594), die zuletzt durch die Verwaltungsvorschrift vom 27. Juli 2020 (MBl. SMK S. 138) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 3. Dezember 2021 (SächsABl. SDr. S. S 211), außer Kraft.
@@ -1164,6 +1236,10 @@ Anlagen 8.1 bis 8.2
 
 Anlagen 9.1 bis 9.4
 
+Anlage 10
+
+Anlage 11
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -1174,9 +1250,9 @@ Fsn-Nr.: 710-V22.7
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  3. November 2023
+Fassung gültig ab:  3. Mai 2025
 
-Fassung gültig bis:  2. Mai 2025
+Fassung gültig bis:  5. November 2026
 
 Drucken/Speichern
 
@@ -1203,7 +1279,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19743.2
+https://www.revosax.sachsen.de/vorschrift/19743.3
 Stand vom
 18.11.2026
 
