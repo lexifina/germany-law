@@ -1,0 +1,119 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-05-05T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525317
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525317
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 10.03.2025 und 07.04.2025
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Mechanische Absperrung für Sperrflächen in der Plinganserstraße
+- TOP 2.2.: Lärmaktionsplan Brudermühlstraße BV-Anfrage 20-26 / Q 00567
+- TOP 2.3.: Projektvorstellung „Lasst uns mal ran!“
+- TOP 2.4.: Taubenplage Alramstraße
+- TOP 2.5.: Taubenplage Implerstraße
+- TOP 2.6.: Fahrradabstellflächen in der Senserstraße
+- TOP 2.7.: Fahrradabstellplätze an der Implerstraße 23 und Wieder-Begrünung entlang der Implerstraße 29
+- TOP 2.8.: Antrag auf Einrichtung einer Tempo-30-Zone in der Thalkirchner Straße (Abschnitt Brudermühlbrücke bis Thalkirchner Brücke)
+- TOP 2.9.: Fahrradabstellmöglichkeiten im Bereich Roter-Turm-Platz
+- TOP 2.10.: Parkplätze in der Schäftlarnstraße 62
+- TOP 2.11.: Neubau der Großmarkthalle
+- TOP 2.12.: Prüfung einer Einbahnstraßenregelung für die Lenggrieser Straße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Generalsanierung und Umbau eines Gebäudes in der Albert-Roßhaupter-Str. 8 (MSB + MVHS) – Vorbescheid
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 4.3.2.: Baumaßnahme in der Lindenschmitstraße 25
+- TOP 4.3.3.: 6. Planänderung PFA 3 Ost, 2. Stammstrecke, Zugangstreppe Autoreisezugverladung; Stellungnahme des BA 2 – Ludwigsvorstadt-Isarvorstadt
+- TOP 4.3.4.: Fertigstellung der Bangfallzäune auf dem Sportgelände nahe der Matthias-Mayer-Straße
+- TOP 4.3.5.: Information zum Sendlinger Loch
+- TOP 4.3.6.: Straßensanierung Steinerstraße und Parksituation OCM
+- TOP 4.3.7.: Valleystraße 24, Gotzinger Platz/Seite Thalkirchner Straße und Viktualienmarkt auf Höhe Hausnr. 5; Nächtliche Filmdreharbeiten - 5 Nächte zwischen 30.4. und 28.5.2025; Ausnahmezulassung Immissionsschutz
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Besichtigungstermin Autoreisezuganlage Südbahnhof
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Halteverbot an der Ecke Meindlstraße/Margaratenplatz
+- TOP 5.1.2.: (E) Schwerpunktmäßige Verkehrskontrollen in der Aberlestraße und Lindenschmitstraße
+- TOP 5.1.3.: Entscheidung über Ausnahmegenehmigung nach Sondernutzungsrichtlinien Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Barrierefreier Aufgang Zechstraße / Flößergasse
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Antrag auf Einrichtung eines verkehrsberuhigten Bereichs in der Bruderhof- und Urbanstraße
+- TOP 5.3.2.: Haus für Kinder in der Wackersberger Straße 71 – Reinigung des Vorplatzes
+- TOP 5.3.3.: Mögliche Gefährdung von Schulkindern in der Bavariastraße
+- TOP 5.3.4.: Geschwindigkeitskontrollen Plinganserstraße
+- TOP 5.3.5.: Verkehrsrechtliche Anordnung zur Hans-Preißinger-Straße
+- TOP 5.3.6.: Umgestaltung der Alramstraße BA-Antrag Nr.: 20-26 / B 05317
+- TOP 5.3.7.: Neugestaltung Baumgärtner-/ Radlkoferstraße BA-Antrag Nr.: 20-26 / B 03366
+- TOP 5.3.8.: Baustelle in der Schäftlarnstraße 92 / Bruderhofstraße 43
+- TOP 5.3.9.: Sternfahrt-Autokorso: "Stoppt den Preiswahnsinn" am 28.04.25 – Streckenführungen und Anzeige
+- TOP 5.3.10.: Einzelantrag Fahrradabstellplatz am Roter Turm Platz in Sendling
+- TOP 5.3.11.: Dialog-Displays als städtische Leistung - Ende der Bestellmöglichkeit
+- TOP 5.3.12.: Straßensanierung Steinerstraße und Parksituation OCM
+- TOP 5.3.13.: Brudermühlstraße (Nordseite) zwischen Schäftlarnstraße und Großer Stadtbach / Flaucheranlagen, Beschilderung eines gemeinsamen Geh- und Radwegs in beide Richtungen
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Neue Fahrrad-Garage in der Thalkirchner Straße (Seniorenvertretung)
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Unterstützung für Dreharbeiten zur 2. Staffel „Himmel, Herrgott, Sakrament“ in Sendling
+- TOP 5.5.2.: Projekt "Saisonale Stadträume - Sommerstraßen und Parklets"
+- TOP 5.5.3.: Was ist los mit dem Sendlinger Loch? (Anfrage SPD-Fraktion)
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Init. "Miteinander in Sendling" „Miteinander in Sendling Kunststoffler (partizipatives Kunstprojekt) vom 12.05.2025 - 31.10.2025“ 2.100,00 € / AZ: 0262.0-6-0549
+- TOP 6.1.2.: (E) Stadtbezirksbudget Init. "Woodtopia" „Woodtopia vom 04.06.2025 - 27.06.2025“ 2.925,00 € / AZ: 0262.0-6-0547
+- TOP 6.1.3.: (E) Stadtbezirksbudget H-Team e.V. „Modernisierung der Küche für Besucher, Gäste, Klienten und Veranstaltungen“ 10.800,00 € / AZ: 0262.0-6-0550
+- TOP 6.1.4.: (E) Stadtbezirksbudget Tarzanmäuse e.V. „Anschaffung neuer Krippenwagen am 15.05.2025“ 1.018,95 € / AZ: 0262.0-6-0552
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Ergänzung Anhörungsrecht Sondernutzungsrichtlinien BA-Antrags-Nr. 20-26 / B 07407 des Bezirksausschusses des Stadtbezirkes 02 - Ludwigs-vorstadt-Isarvorstadt vom 14.01.2025 Novellierungen der Sondernutzungsrichtlinien BA-Antrags-Nr. 20-26 / B 07491 des Bezirksausschusses des Stadtbezirkes 01 - Altstadt-Lehel vom 23.01.2025
+- TOP 6.2.2.: Mehr Entscheidungsrechte für Bezirksausschüsse
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Hort Buntstifte e.V.: Soziale Bude vom 01.11.2024 bis 20.12.2024
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: MünchenBudget 2025: Zusendung Informations- und Werbemittel
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Hortgründung "Murmeltiere" – Rückmeldung der Schulleitung Plinganserschule
+- TOP 7.3.2.: Schlichtungsgespräch zur Nutzung des Sendlinger Kirchplatzes – Öffnung des Schulhofes in der Meindlstraße
+- TOP 7.3.3.: (E) Generalsanierung des Kindergartens "Kinderkreis Sendling" Empfehlung Nr. 20-26 / E 00412 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 7.3.4.: Generalsanierung des Kindergartens "Kinderkreis Sendling" Antwortschreiben zur BV-Empfehlung unter TOP 7.3.4
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Erweiterung einer bestehenden Freischankfläche in der Albert-Roßhaupter-Straße 3
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Veranstaltung in einer städtischen Grünanlage; Sommerfest KiGa Flaucherfüchse in den Isarauen am Flaucher (Kleine Wiese Nähe Spielplatz) am 19.07.2025 (Ersatztermin: 25.07.2025)
+- TOP 8.2.2.: Veranstaltung in einer städtischen Grünanlage; Bücher-Action am Bücherschrank, Nachbarschaftstreff Theresia am Herzog-Ernst-Platz am 20.05.2025 (Ersatztermin: 27.05.2025)
+- TOP 8.2.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Straßenfest "Sommerfeierabend Daiserstraße" in der Daiserstraße (zwischen Alramstraße und Oberländerstraße) am 26.07.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Ausnahmegenehmigung zu Veranstaltung in einer städtischen Grünanlage; Aktion TauschTour der Re:think-Kampagne des RKU am Kidlerplatz am 17.05.2025
+- TOP 8.3.2.: Ausnahmegenehmigung zu Veranstaltung in einer städtischen Grünanlage; Nachbarschaftsflohmarkt (Hausgemeinschaft Gotzinger Pl. 3-6), Grünanlage Gotzinger Platz am 17.05.2025
+- TOP 8.3.3.: Maximale Schonung der Grün und Erholungsflächen auf der Theresienwiese – Neuzuweisung der Nutzungsfläche für das Frühlingsfest Antrag des BA 2 – Ludwigsvorstadt-Isarvorstadt
+- TOP 8.3.4.: Voranfrage: Jubiläum 60. Münchner Frühlingsfest auf der Theresienwiese Antrag des BA 2 – Ludwigsvorstadt-Isarvorstadt auf Verlängerung der Spielzeit Frühlingsfest 2026
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Nutzungszeiten im Schwimmbad Berufsschule Lindwurmstraße (SPD-Fraktion)
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Antrag auf Genehmigung eines Schanigartens in der Implerstraße 23 für eine Gaststätte
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
