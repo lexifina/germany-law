@@ -1,0 +1,82 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-05-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634855
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634855
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.04.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Terminplanung BA-Sitzungen 2026
+- TOP 2.4.: (A) Satzungsänderung: Diverse Empfehlungen von Bürgerversammlungen
+- TOP 2.5.: (A) Satzungsänderung: Ergänzung Anhörungsrecht Sondernutzungsrichtlinien
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.8.: (E) Bestellung städtischer Leistungen: Spielgerät für den Waldspielplatz Achterlake
+- TOP 3.2.: (E) Stadtbezirksbudget Die Klosterspatzen e.V. „Anschaffungen für die Kinderkrippe vom 07.04. -31.08.2025“ 5.000,00 € / AZ: 0262.0-19-0570
+- TOP 3.3.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik, Lied und Tanz e.V. Bayerwaldhaus im Westpark vom 21.04. -10.05.2025 8.000,00€; Az. 0262.0-19-0568
+- TOP 3.4.: (E) Stadtbezirksbudget Mobil und sicher im Alltag e.V. Barrierefreie Stadtbezirkskarten für mehr Teilhabe von Menschen mit Behinderung vom 12.04. -30.09.2025 5.462,50€; Az. 0262.0-19-0575
+- TOP 3.5.: (E) Stadtbezirksbudget Historischer Verein Forstenried e.V. 80 Jahre Kriegsende in Forstenried vom 08.05. -13.05.2025 570,00€; Az. 0262.0-19-0578
+- TOP 3.6.: (E) Stadtbezirksbudget Trägerverein Bürgersaal Fürstenried e.V. Frieden in Freiheit! am 08.05.2025 5.275,00€; Az. 0262.0-19-0580
+- TOP 3.7.: (E) Stadtbezirksbudget SFZ München Süd KISKO- Outdoor -Selbstversorgerseminar vom 02. -06.06.2025 1.045,00€; Az. 0262.0-19-0581
+- TOP 3.9.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 6.000,00€; Az. 0262.0-19-0579
+- TOP 3.10.: (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried Restaurierung eines alten Gedenkkreuzes bei der Kirche Forstenried 626,38€ Az: 0262.0-19-0574
+- TOP 3.11.: (E) Stadtbezirksbudget Pfarrkirchenstiftung St. Karl Borromäus -Kita Verbund München Süd-West Kindergarten Sicherung der Außenfläche von unserem Kindergarten vom 26.05. -01.10.2025 2.759,61€; Az. 0262.0-19-0582
+- TOP 3.12.: (E) Stadtbezirksbudget Förderverein Grundschule Forstenried e.V. MFM (=my fertility matters) am 02.05 und 05.05.2025 605,90€; Az. 0262.0-19-0577
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunk-Modernisierungsarbeiten Obersendling-Mitte
+- TOP 4.4.: (Antrag) Unterschutzstellung einer alten Buche als Naturdenkmal in der Garatshausener Straße 10
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Bürgersteig Sicherheit in der Georg-Strebl-Straße
+- TOP 5.3.: (E) Verbesserung der Verkehrssicherheit in der Höglwörther Straße im Bereich des Südparkgeländes; Einführung von Tempo 30 km/h sowie Errichtung von zwei Ampeln oder Zebrastreifen
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Haltverbot auf dem Seitenstreifen für den Baumschutz in der Forst-Kasten-Allee
+- TOP 5.5.: Ampel an der Kreuzung Aidenbachstraße/Siemensallee
+- TOP 5.6.: Verkehrslage in der Muttenthalerstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Fatimastraße 5c
+- TOP 6.2.2: Forstenrieder Allee 246
+- TOP 6.2.3: Bichler Straße 17 (T)
+- TOP 6.2.4: Helfenriederstraße Flurnummer 378/14
+- TOP 6.2.5: Peretshofener Straße 5
+- TOP 6.2.6: Badstraße 16 (VBs)
+- TOP 6.2.7: Beuerberger Straße 9 (VB)
+- TOP 6.2.8: Helfenriederstraße Flurnummer 378/14
+- TOP 6.2.9: Wilbrechtstraße 540/70
+- TOP 6.2.10: Drygalski-Allee 29
+- TOP 6.2.11: Traubinger Straße 23
+- TOP 6.2.12: Bestelmeyerstraße 13
+- TOP 6.2.13: Wolfratshauser Straße 247
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Siemensallee
+- TOP 8.3.: (U) Verkaufsstand an der Forstenrieder Allee, Flst. 23/0 und 24/0
+- TOP 8.4.: (A) Veranstaltung: Gastspiel Circus Galliano von 20.10.-07.11.2025, Forstenrieder Allee
+- TOP 8.5.: Tag des offenen Denkmals am 14.09.2025
+- TOP 8.6.: (E) Bücherschrank am Ratzingerplatz
+- TOP 9: Verschiedenes
+- TOP 6.2.14: Karl-Haider-Straße 2
+- TOP 3.13.: (E) Stadtbezirksbudget Förderverein Berner Grundschule e.V. MFM Workshops KörperWunderWerkstatt vom 26.05. -05.06.2025 1.297,50€; Az. 0262.0-19-0583
+- TOP 7.2.: (Antrag) Möglichkeiten für die Friedenskapelle in Neuforstenried suchen
+- TOP 7.3.: (Anfrage) Flüchtlingsunterkunft Meglinger Straße 7
+- TOP 4.5.: Antrag Oasenbrunnen
