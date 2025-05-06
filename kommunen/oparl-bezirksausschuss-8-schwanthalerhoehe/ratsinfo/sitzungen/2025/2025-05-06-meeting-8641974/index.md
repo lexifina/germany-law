@@ -1,0 +1,94 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-05-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8641974
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8641974
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Nachbenennung der Fraktionssprecherin / des Fraktionssprechers durch die Fraktion Die Grünen
+- TOP 2.3.: Nachbenennung der Besetzung des Unterausschusses Kultur und Integration durch die Fraktion Die Grünen
+- TOP 2.4.: Neuwahl der / des Vorsitzenden des Unterausschusses Kultur und Intgration
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Preisanstieg und Wegfall des reinen Hallenbad-Tickets im Westbad
+- TOP 4.2.: Nicht gestellte Online-Anträge / -Anfragen aus der Bürgerversammlung vom 03.04.2025
+- TOP 4.3.: Errichtung einer Bank am Friseurgeschäft Alter Messeplatz 10
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Projekt Geroltstraße; Verbesserung der Querungssituation im Bereich der Kazmairstraße
+- TOP 6.1.2.: Erweiterung Freischankfläche Guldeinstr. 30
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Grundstückstausch Heimeranstraße 10
+- TOP 6.2.2.: Sanierung der Stützwände und der Grundwasserwanne der Straßenunterführung an der Landsberger Straße unter der DB-Brücke München-Rosenheim
+- TOP 6.2.3.: Änderung der BA-Satzung; Novellierungen der Sondernutzungsrichtlinien
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Freiflächengestaltung Parkwärterhaus Theresienhöhe 22
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Bessere Betreuung von Gewaltopfer sicherstellen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung "Ein Tag des guten Lebens im Westend"; Alter Messeplatz, Kazmairstr. sowie Parkstr. am 25.05.2025
+- TOP 8.2.2.: Sidewalk Cultures Festival auf dem Georg-Freundorfer-Platz von 25.07.25 bis 27.07.25
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Graffiti-Workshop für Jugendliche am MK2-Gelände am 09.05.2025
+- TOP 8.3.2.: Versammlungszug Georg-Freundorfer-Platz am 30.04.2025
+- TOP 8.3.3.: BA2; Stellungnahme zur Verlängerung der Spielzeit Frühlingsfest 2026
+- TOP 8.3.4.: BA2; Antrag auf Neuzuweisung der Nutzungsfläche für das Frühlingsfest
+- TOP 8.3.5.: Versammlung in der Schießstättstr. 14 am 26.04.2025
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Schwanthalerstraße 149
+- TOP 9.2.2.: Baumfällung Parkstraße 7
+- TOP 9.2.3.: Änderung der BA-Satzung; Mitentscheidungsbefugnis der BAs bei Baumschutz, Grünflächen, Frischluftschneisen und Bauvorhaben über 2.5 Mio
+- TOP 9.2.4.: Anordnung von Tempo 30 auf der Ganghoferstraße zwischen Ganghoferbrücke und Kazmairstraße
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Pfützenbildung am Fußweg auf Höhe Landsberger Str. 137 - Antwort
+- TOP 9.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.3.: Verbesserung der Verkehrsübersicht am Fußgängerübergang Ganghoferstraße / Anglerstraße
+- TOP 9.3.4.: Wiederherstellung des Grünstreifens am Oda-Schäfer-Weg
+- TOP 9.3.5.: Dialog-Displays als städtische Leistung; Ende der Bestellmöglichkeit
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Evang.-Luth. Dekanatsbezirk, Evang. Migrationszentrum im Griechischen Haus Fest der Weltoffenheit, Teil der Kunst- und Kulturtage Westend 2025 am 19.07.2025 1.670,00€; Az. 0262.0-8-0443
+- TOP 10.1.2.: (E) Stadtbezirksbudget D&#039;Schwanthalerhöh&#039; Trägerverein Kultur- und Vereinskeller e.V. Veranstaltungen während der Kunst- und Kulturtage "Westend hat ein Gesicht 2025" vom 21.06. -09.08.2025 4.900,00€; Az. 0262.0-8-0444
+- TOP 10.1.3.: (E) Stadtbezirksbudget Westendzeltlager Westendzeltlager - Diesjähriges Thema: "WZL auf dem Olymp" vom 02. -08.08.2025 1.119,13€; Az. 0262.0-8-0436
+- TOP 10.1.4.: (E) Stadtbezirksbudget DPSG Stamm St. Rupert Sommerlager in Montenegro vom 01.08. -17.08.2025 7.000,00€; Az. 0262.0-8-0431
+- TOP 10.1.5.: (E) Stadtbezirksbudget InitiativGruppe Interkulturelle Begegnung und Bildung e.V. Sommerflimmern - das kleine Jugendfestival zu 25 Jahre IG Feuerwache vom 01.04. -31.10.2025 2.500,00€; Az. 0262.0-8-0440
+- TOP 10.1.6.: (E) Stadtbezirksbudget Init. "Kunst und Kulturtage" Gemeinsam kreativ im Rahmen der Kunst und Kulturtage Westend 28.06. -19.07.2025 715,00€; Az. 0262.0-8-0445
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Münchenbudget - Projektbeschreibung
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 6.2.4.: Alter Messeplatz 6 - Nutzungsänderung von Ladenlokal des Lebensmitteleinzelhandels mit Ausschank zu Gaststätte mit 41 Sitzplätzen (25 Innenplätze 16 Außenplätze)
+- TOP 6.1.3.: Neuantrag für eine Freischankfläche vor der Bergmannstraße 28
+- TOP 4.4.: Verbesserung der Verkehrssituation in der Trappentreustraße (Ecke Westendstraße)
+- TOP 4.5.: Zunehmende Lärmstörung durch die Flüchtlingsunterkunft in der Ridlerstraße 13-15
+- TOP 9.3.6.: Schließung der Schnaderböckstraße für Kraftfahrzeuge; weitere Umgestaltung und Entsiegelung
