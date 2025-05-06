@@ -1,0 +1,155 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-05-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8737979
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8737979
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Anfrage - Ehrenamt muss abgesichert sein
+- TOP 6.2.: Ausverkauf der Maxvorstadt verhindern – Mieter*innen schützen
+- TOP 6.3.: Wegfall Parkplätze
+- TOP 6.4.: Anwohnerworkshop zur Umgestaltung des Arnulfparks
+- TOP 6.5.: Antwort der Stadtverwaltung auf Rückfrage aus dem BA 3 zu Antwortschreiben auf BA-Antrag Nr. 20-26 / B 06738 (TOP A 6.5 aus 03/25)
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Denkmalschutz Augustenstrasse 95
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Eckbebauung Schellingstr. 25/27 / Türkenstr. 66 in der Stadtgestaltungskommission einbringen
+- TOP 1.2.2.: Eckbebauung Schellingstr. 25/27 / Türkenstr. 66 – Baustelleneinrichtung rechtzeitig mit dem BA besprechen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten KW13, KW14
+- TOP 2.1.2.: Petition-Antrag auf Aufhebung einer Dienstbarkeit, Nr. 20-26 / V 14610
+- TOP 2.1.3.: Arnulfstr. 42 I 08.05.2025 Änderung, Nutzungsänderungen und Sanierung des Hochhauses des Bayerischen Rund-funks (sog. Haus 8) für Medien-, Veranstaltungs- und Büronutzung
+- TOP 2.1.4.: Arcisstr. 38 I Frist: 14.05.2025 Neubau eines Mansarddaches mit 3 Gauben, Dachterrasse und 2 Oberlichtern sowie Umbau 2er Wohnungen zu 2 Maisonette-Wohnungen - ÄNDERUNGSANTRAG zu 1.201-2020-4771-22 - Hier: 4 DFF
+- TOP 2.1.5.: Gabelsbergerstr. 77 I Frist: 14.05.2025 Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit Tiefgarage- VORBESCHEID
+- TOP 2.1.6.: Adalbertstr. 55 I Frist: 14.05.2025 Nachgenehmigung zwei best. Wohnungen im Souterrain (rechts) sowie Errichtung von zwei Lichtschächten
+- TOP 2.1.7.: Dachauer Str. 74 I Frist: 14.05.2025 Abbruch von bestehenden Garagen Neubau eines Mehrfamilienhauses mit drei Wohneinheiten und einer zweifach-Duplexgarage
+- TOP 2.1.8.: Schellingstr. 36 I Frist: 14.05.2025 Erweiterung eines bestehenden Einzelhandelsbetriebs (weiterhin nicht großflächig); Abbruch von drei Garagen für eine Erweiterung mit eingeschossigem Anbau sowie ein Durchbruch und Verbindung zur Einzelhandelsfläche Flurstück 4140/1, Schellingstr. 38
+- TOP 2.1.9.: Schellingstr. 38 I Frist: 14.05.2025 Erweiterung eines bestehenden Einzelhandelsbetriebs (weiterhin nicht großflächig); Erweiterung mit eingeschossigem Anbau sowie einen Durchbruch und Verbindung zur Einzelhandelsfläche Flurstück 4139/0, Schellingstr. 36
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 5.2.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung
+- TOP 5.3.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Änderung Parkraumbewirtschaftung Marlene-Dietrich-Straße
+- TOP 1.1.2.: Unfälle nachts Schellingstraße Ecke Schleißheimer Straße
+- TOP 1.1.3.: Rest-Park des Wittelsbacher Palais, Mobilitätsausschuss vom 09.04.2025,T0P 2, Sitzungsvorlage 20-26 / V 15606, Änderungsantrag
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Bereitstellung aller Verkehrsflächen am Oskar-von-Miller-Ring noch vor der IAA 2025
+- TOP 1.2.2.: Toilettenstandort Elisen-/ Dachauer Straße
+- TOP 1.2.3.: Leere Kioske an U-Bahnhöfen – welche Nutzungen sind möglich?
+- TOP 1.2.4.: WC-Anlage am U-Bahnhof Josephsplatz – 6 Jahre und kein Ende in Sicht
+- TOP 1.2.5.: WC-Anlage am U-Bahnhof Josephsplatz – Transparenz in der Kostensteigerung
+- TOP 1.2.6.: Priorisierung des Baus der "U29-Spange" – Entscheidung jetzt!
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anpassungen Shared Mobility jetzt Grete-Mosheim-Straße 4
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Foodtrucks in München nach § 32 "Königplatz" Entscheidung: Handelt es sich um einen dezentralen Platz, der einer Belebung bedarf?
+- TOP 2.2.2.: Foodtrucks in München nach § 32 "Professor-Huber-Platz 2" Entscheidung: Handelt es sich um einen dezentralen Platz, der einer Belebung bedarf?
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Türkenstr. 67, Neuantrag Kleinstfreischankfläche
+- TOP 2.3.2.: Türkenstr. 92, Antrag auf FSF
+- TOP 2.3.3.: Amalienstr. 59, Antrag auf FSF
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Königsplatz (Bez.3) - TUNIX Open Air 2025 vom 16.06. – 20.06.2025 – Termin: 23.05.2025
+- TOP 2.4.2.: Josephsplatz | § 29 StVO für Weinfest CSU München - Josephsplatz am 19.07.2025 (Ersatztermin 26.07.2025) | Anhörungsfrist: 08.05.2025
+- TOP 2.4.3.: vorab - Antrag - SportScheckRUN 6.7.25
+- TOP 2.4.4.: Anhörung VA öffentlicher Verkehrsgrund (Stadtbezirke 1,3,12); Zamanand / Corso Leopold am 24./25.05.25 (Aufbau in Fußgängerbereichen ab 23.05.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) – Rückmeldefrist: 13.05.25
+- TOP 2.4.5.: Anhörung: Königsplatz (Bez. 3) Konzertwochenende 90er Supershow und Billy Idol am 27./28.06.2025 – Termin: 13.06.2025
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Unveränderte Gaststättenfortführungen
+- TOP 3.3.: Verkehrsrechtliche Anordnungen
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: Baumaßnahmen der SWM
+- TOP 3.6.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.7.: Antwort der Stadtverwaltung auf Bürger*innennanliegen: Leerstand Kriegsakademie
+- TOP 3.8.: BA 3 Dialog-Displays als städtische Leistung - Ende der Bestellmöglichkeit
+- TOP 3.9.: Abdruck d. Genehmigung für ein Parklet hier: Neureutherstr. 16
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bücherschrank am Alten Nordfriedhof
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget z&#039;sam Zentrum für freiwilliges Engagement, Diakonie München und Oberbayern e.V. Freiwilligentag München Mitte vom 26.03. - 19.07.2025 3.000,00 Euro, Az.: 0262.0-3-0578
+- TOP 2.2.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 2.000,00 Euro, Az.: 0262.0-3-0592
+- TOP 2.3.: (E) Stadtbezirksbudget Kindertagesstätte Kleine Racker e.V. Neugestaltung des Waschraums, insbesondere des Wickelbereichs 3.909,80 Euro, Az.: 0262.0-3-0594
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Finanzielle Entlastung durch Stadtwerke München für Geschädigte von Heizkostenwucher Empfehlung Nr. 20-26 / E 02527 der Bürgerversammlung des Stadtbezirks 25 - Laim am 28.11.2024
+- TOP 4.3.: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2024
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Vorschlag zur besseren Sichtbarkeit und Pflege des Goethe-Denkmals an der Karlsstr.
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kulturlust e.V. // Ciné Vélo Cité CINÉ VÉLO CITÉ@DOK.FEST: Trick-Film Workshop für Kinder und Teens vom 02. - 26.05.2025 1.500,00 Euro, Az.: 0262.0-3-0591
+- TOP 2.2.: (E) Stadtbezirksbudget Katholische Kirchenstiftung St. Joseph Chor- und Orchesterkonzert am 16.11.2025 900,00 Euro, Az.: 0262.0-3-0595
+- TOP 2.3.: (E) Stadtbezirksbudget Neue Klangkunst gGmbH Tonality Theater - Raum und Zeit vom 15.11.2025 - 14.11.2026 12.500,00 Euro, Az.: 0262.0-3-0593
+- TOP 2.4.: (E) Stadtbezirksbudget Park Café München GmbH Neptun Kult(ur)Biergarten vom 23.05. bis 23.08.2025 3.800,00 Euro, Az.: 0262.0-3-0579
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Temporäre Kunstaktion "mash&heal", Schleißheimer Str. 6 im Zeitraum 05.09.2025 bis 05.09.2027
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Aufräumaktion Bürgerbüro (vertagt aus 12/24, 01/25, 02/25, 03/25 und 04/25)
+- TOP 1.2.: Ergänzung Anhörungsrecht
+- TOP 1.3.: Anhörungsschreiben, Mehr Mitentscheidungsrechte für die Bezirksausschüsse u.a.
+- TOP 1.4.: BA - Sitzungstermine für 2026
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 5.4.: Theresienstraße150, Antwort auf Rückfrage des BA 3 zu BA Antrag 07100
+- TOP 2.2: BV- Empfehlung
+- TOP 2.2.1.: Erhöhung des Flaschenpfandes auf 0,50 Euro Empfehlung Nr. 20-26 / E 02411
+- TOP 5.5.: Zuleitung vom 24.02.2025, Erhalt der Eckbebauung an der Schellingstraße 25/27 bis Türkenstraße 64/66, 20-26 / V 15542, Entscheidung des Oberbürgermeisters, BA 3
+- TOP 1.2.3.: Runder Tisch zur Rettung des Caritas-Wohnheims in der Augusten-Zieblandstraße.
+- TOP 1.2.4.: Erhalt des Caritas Wohnheims Ecke Ziebland-/Augustenstraße
+- TOP 1.2.5.: Landesbund für Vogelschutz bittet um Unterstützung zur Beschneidung der Hecke am Josephsplatz
+- TOP 1.1.4.: Problematische Lage auf dem Spielplatz Luisenstr. 20 am Königsplatz/Glyptothek
+- TOP 2.2.3.: Beschlüsse zu Toiletten - Anhörung des BA 3
+- TOP 2.4.6.: Bez. 1/3 - Anhörung VA öffentl. Grund: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienpl. über Ludwigstr. am 19.06.2025; TERMIN: 30.05.2025
+- TOP 1.1.2.: Bürger*innenanliegen Import Export
+- TOP 1.5.: Sammelantrag- Anmahnung gestellte BA-Anträge
+- TOP 3.10.: Gondel Neptunbrunnen
+- TOP 1.1.2.: Verkauf des Caritas Jugendwohnheims in der Zieblandstraße 35
+- TOP 2.5.: (E) Stadtbezirksbudget Park Café München GmbH Neptunbrunnen Kult(ur)Biergarten vom 23.05. – 23.08.2025 51.685,00 Euro, Az.: 0262.0-3-0580
+- TOP 6.6.: Begehung der Freischankflächen in der Amalien-/ Schelling-/ Türkenstraße mit der Bezirksinspektion
+- TOP 1.2.6.: Erhalt des Jugendwohnheims in der Zieblandstr. 35
+- TOP 2.2.4.: Beschlussvorlage Änderung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund - Bitte um Mitzeichnung - Termin: 02.05.2025, verlängert auf 07.05.2025
