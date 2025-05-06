@@ -1,0 +1,8 @@
+# TOP 3: Mündliche Anfrage zur Bannerwerbung an der "Museumsbrücke"
+
+- Sitzung: Ausschuss für Kultur, Volkshochschule, Freizeit und Ehrenamt (2025-05-06)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/151480
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/26131
