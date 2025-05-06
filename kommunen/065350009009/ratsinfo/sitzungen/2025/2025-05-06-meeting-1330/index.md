@@ -1,0 +1,62 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (47. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2025-05-06T20:00:00+02:00
+- Ende: 2025-05-06T22:43:00+02:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZThU9uxoxlBQEHjnBkdYYD0
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1330
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeDjBMJPVLrnjXvD2a659D1VkvoB0IV0QGDghuFDHB6g/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_06.05.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdwMScM28feTr1PePEjychGhDc0zTJSc2HiCWm2n5Fuy/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_06.05.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Ober-Ofleiden Bebauungsplan „Erbsengasse“ – Aufhebung Aufstellungsbeschluss vom 24.02.2021, Aufstellungsbeschluss Regelverfahren, Änderung des Flächennutzungsplanes in diesem Bereich - (kein Text vorhanden)
+- TOP 5.: Satzung für die Freiwillige Feuerwehr der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 6.: Anfragen
+- TOP 6.1: Anfrage Fraktion BÜRGERFORUM betreffend Anzahl der Widersprüche zu den Festsetzungen der Hebesätze bei den Grundsteuern A und B
+- TOP 6.2: Anfrage Fraktion BÜRGERFORUM betreffend Tausch von Waldflächen zwischen dem Land Hessen und der Stadt Homberg (Ohm)
+- TOP 6.3: Anfrage Fraktion BÜRGERFORUM betreffend Schlussfolgerungen aus der Ergebnispräsentation der "Befragung Landesoffensive" (Nachwuchsgewinnung Brand- und Katastrophenschutz) der Feuerwehr-Agentur
+- TOP 6.4: Anfrage Fraktion BÜRGERFORUM betreffend Kaufangebote nach der Projektrahmenvereinbarung der Stadt Homberg (Ohm) mit der Hessischen Landgesellschaft mbH zum Landerwerb im künftigen Gewerbegebiet "Am Roten Berg"
+- TOP 6.5: Anfrage Fraktion BÜRGERFORUM betreffend Auflösung des Umwelt- und Landschaftspflegeverbands Alsfeld
+- TOP 6.6: Anfrage Fraktion BÜRGERFORUM betreffend Projektierung "Teilräumliches Wasserkonzept"
+- TOP 6.7: Anfrage Fraktion BÜRGERFORUM betreffend Weiterentwicklung des Bürgerbüros
+- TOP 6.8: Anfrage Fraktion BÜRGERFORUM betreffend Reinigung der Straßeneinläufe (Sinkkasten)
+- TOP 6.9: Anfrage Fraktion BÜRGERFORUM betreffend fehlerfreie Formulierung von Stellenanzeigen
+- TOP 6.10: Anfrage Fraktion BÜRGERFORUM betreffend Umsetzung der Arbeiten in und rund um das Kapellchen
+- TOP 6.11: Anfrage Fraktion BÜRGERFORUM betreffend öffentlicher Fußweg von der Frankfurter Straße bis Zum Hohen Tor
+- TOP 6.12: Anfrage Fraktion BÜRGERFORUM betreffend Reparaturarbeiten an Gemeindestraßen
+- TOP 6.13: Anfrage der Fraktion BÜRGERFORUM betreffend Abriss der alten Ohmbrücke (Herren-/Pletschmühle) und Ausführung der Ausgleichsmaßnahmen an der neuen Ohmbrücke
+- TOP 6.14: Anfrage der Fraktion BÜRGERFORUM betreffend Umsetzung der Parkplatz-Anlage oberhalb der Pletschmühle
+- TOP 6.15: Anfrage der Fraktion BÜRGERFORUM betreffend Gestaltung des Stromtarifs für Kommunen
+- TOP 6.16: Anfrage der Fraktion BÜRGERFORUM betreffend Anstrahlung des Schlosses im Dauerbetrieb
+- TOP 6.17: Anfrage Fraktion BÜRGERFORUM betreffend Ausschreibung einer befristeten Stelle im Bereich der Wasserversorung
+- TOP 6.18: Anfrage der Fraktion BÜRGERFORUM betreffend Verpachtung des Eigenjagdbezirks "Stadtwald"
+- TOP 6.19: Anfrage der Fraktion BÜRGERFORUM betreffend Rückstufung der K 56 von einer Kreis- zu einer Gemeindestraße
+- TOP 6.20: Anfrage der Fraktion BÜRGERFORUM betreffend Bürgschaften und Ausfallbürgschaften der Stadt Homberg (Ohm)
+- TOP 6.21: Anfrage der Fraktion BÜRGERFORUM betreffend Aktualisierungen der Bilanzierungs- und Bewertungsrichtlinie sowie des Bewertungsleitfadens zur Forderungsbewertung der Stadt Homberg (Ohm)
+- TOP 6.22: Anfrage der Fraktion BÜRGERFORUM betreffend Umlage an den Abwasserverband Kirtorf und Überarbeitung von dessen Satzung
+- TOP 6.23: Anfrage der Fraktion BÜRGERFORUM betreffend Überarbeitung der Inventurrichtlinie der Stadt Homberg (Ohm)
+- TOP 6.24: Anfrage der Fraktion BÜRGERFORUM betreffend Zusammenlegung des Ortsgerichts I (Homberg Kernstadt) und des Ortsgerichts IV (Gontershausen, Haarhausen, Nieder-Ofleiden und Ober-Ofleiden)
+- TOP 7.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 06.03.2025
+- TOP 8.: Auflösung des Umwelt- und Landschaftspflegeverbandes Alsfeld im Vogelsbergkreis gemäß § 62 (1) Wasserverbandsgesetz WVG - (kein Text vorhanden)
+- TOP 9.: Vorstellung des Strategiekonzept Einzelhandel und Gastronomie in der Kernstadt in Verbindung mit dem historischen Bahnhof - (kein Text vorhanden)
+- TOP 10.: Antrag GRÜNEN-Fraktion - Anpassung der Spielapparatesteuer - (kein Text vorhanden)
+- TOP 11.: Antrag der SPD-Fraktion auf Prüfung der Machbarkeit der Südanbindung des Gewerbe- und Industriegebietes (INO) an die L 3073 - (kein Text vorhanden)
+- TOP 12.: Antrag Fraktion BÜRGERFORUM betreffend Optimierung der Verkehrssituation vom Stadthallenparkplatz bis zur Seniorenresidenz "Goldborn" - (kein Text vorhanden)
+- TOP 13.: Antrag Fraktion BÜRGERFORUM betreffend Besichtigung der gemeinsamen Stadt- und Schulbibliothek in der Gesamtschule Homberg (Ohm) - (kein Text vorhanden)
+- TOP 14.: Antrag Fraktion BÜRGERFORUM betreffend Sanierungsarbeiten an dem "Wegelchen" - (kein Text vorhanden)
+- TOP 15.: Antrag Fraktion BÜRGERFORUM betreffend jährliche Berichterstattung der ehrenamtlichen Senioren- und Behindertenbeauftragten der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 16.: Antrag Fraktion BÜRGERFORUM betreffend Vorstellung der Konzeption der Regionalen Diakonie Oberhessen - (kein Text vorhanden)
+- TOP 17.: Antrag Fraktion BÜRGERFORUM betreffend Errichtung einer Lichtzeichenanlage im Kreuzungsbereich Marburger Straße / Goethestraße / Karlstraße
+- TOP 18.: Antrag Fraktion BÜRGERFORUM betreffend akustische Aufrüstung der Lichtzeichenanlagen im gesamten Stadtgebiet - (kein Text vorhanden)
+- TOP 19.: Antrag der Fraktion BÜRGERFORUM betreffend Errichtung eines barrierefreien Zugangs vom unteren zum oberen Marktplatz
+- TOP 20.: Antrag der Fraktion BÜRGERFORUM betreffend Umgestaltung der Bushaltestelle in der Frankfurter Straße
+- TOP 21.: Antrag der Fraktion BÜRGERFORUM betreffend Überarbeitung der Vereinsförderrichtlinien - (kein Text vorhanden)
