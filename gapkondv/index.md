@@ -25,7 +25,7 @@
 ### Abschnitt 2 Mindestschutz von Feuchtgebieten und Mooren
 
 - [§ 11 Gebietskulisse](0011.md)
-- [§ 12 Anbau von Paludikulturen](0012.md)
+- [§ 12 Anbau in Paludikulturverfahren](0012.md)
 - [§ 12a Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen](0012a.md)
 - [§ 13 Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen](0013.md)
 
@@ -76,6 +76,7 @@
 - [§ 32 Ausnahmen von Verwaltungssanktionen](0032.md)
 - [§ 33 Frühwarnsystem bei geringfügigen Verstößen](0033.md)
 - [§ 34 Abweichungen vom Regelsatz für Verwaltungssanktionen](0034.md)
+- [§ 34a Kumulation von Verstößen](0034a.md)
 
 ## Kapitel 5 Schlussbestimmungen
 

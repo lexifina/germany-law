@@ -48,7 +48,7 @@
 ### Unterabschnitt 1 Allgemeine Vorschriften
 
 - [§ 28 Verwaltungskontrollen](0028.md)
-- [§ 29 Flächenvermessung und -rundung](0029.md)
+- [§ 29 Ermittlung der Flächengröße](0029.md)
 - [§ 30 Unterrichtungspflichten der Behörde](0030.md)
 - [§ 31 Kontrollbericht](0031.md)
 

@@ -19,7 +19,7 @@ Erhaltung von Dauergrünland
 Abschnitt 2
 Mindestschutz von Feuchtgebieten und Mooren
 | § 11 | Gebietskulisse |
-| § 12 | Anbau von Paludikulturen |
+| § 12 | Anbau in Paludikulturverfahren |
 | § 12a | Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen |
 | § 13 | Überprüfung der Genehmigung zur erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen |
 Abschnitt 3
@@ -61,6 +61,7 @@ Sanktionen
 | § 32 | Ausnahmen von Verwaltungssanktionen |
 | § 33 | Frühwarnsystem bei geringfügigen Verstößen |
 | § 34 | Abweichungen vom Regelsatz für Verwaltungssanktionen |
+| § 34a | Kumulation von Verstößen |
 Kapitel 5
 Schlussbestimmungen
 | § 35 | Inkrafttreten |
