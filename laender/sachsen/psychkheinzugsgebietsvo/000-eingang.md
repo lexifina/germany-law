@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt zur Festlegung von Einzugsgebieten für die psychiatrische Krankenhausversorgung (Psychisch-Kranken-Hilfe-Einzugsgebietsverordnung – PsychKHEinzugsgebietsVO)
+Vom 26. März 2025
+Auf Grund des § 12 Absatz 3 Satz 1 des Sächsischen Psychisch-Kranken-Hilfe-Gesetzes vom 22. Juli 2024 (SächsGVBl. S. 673) verordnet das Staatsministerium für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt im Benehmen mit den Krankenhausträgern und im Einvernehmen mit dem Staatsministerium des Innern sowie dem Staatsministerium der Justiz:
