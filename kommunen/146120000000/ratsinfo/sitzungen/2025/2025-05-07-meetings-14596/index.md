@@ -1,0 +1,54 @@
+# 7. Sitzung des Ausschusses für Petitionen und Bürgerbeteiligung
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-05-07T16:00:00+02:00
+- Ende: 2025-05-07T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/158
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14596
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14596
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_P_2025_05_07 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00818547.pdf
+- Ergebnisprotokoll: Niederschrift öffentlich_P_2025_05_07 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00830873.pdf
+
+## Tagesordnung
+
+- TOP 1: Petitionen zur Beschlussfassung
+- TOP 1.1: Erhalt der GERDA - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.2: GerDA muss weiterleben! Drohende Abschaffung der Beratungsstellen GerDA für Menschen mit psychischen Erkrankungen im Alter verhindern! - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.3: Erhöhung der Kitagebühren - Zustimmung - Petition nicht abgeholfen
+- TOP 1.4: Petition gegen die Erhöhung der Elternbeiträge für Kinderbetreuung in Dresden - Zustimmung - Petition nicht abgeholfen
+- TOP 1.5: Gegen Erhöhung Kita- und Schulgebühren - Zustimmung - Petition nicht abgeholfen
+- TOP 1.6: Erhöhung der Kindergartenbeiträge - Zustimmung - Petition nicht abgeholfen
+- TOP 1.7: Keine Erhöhung der Kita-Beiträge - Zustimmung - Petition nicht abgeholfen
+- TOP 1.8: Petition gegen die Erhöhung der Kita-Beiträge ab 2025 - Zustimmung - Petition nicht abgeholfen
+- TOP 1.9: Gegen Kitagebührerhöhung - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.10: Soziale Kiga-Beiträge statt Fernsehturm - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.11: Entscheidung robotron Kantine - Zustimmung - Petition abgeholfen
+- TOP 1.12: Entscheidung robotron-Kantine - Zustimmung - Petition abgeholfen
+- TOP 1.13: Angebote der Jugendkunstschule müssen um 58 % gekürzt werden - Wir fordern eine Sicherung des Angebots durch Schaffung von Personalstellen - Zustimmung - Petition nicht abgeholfen
+- TOP 1.14: Den Ersatzneubau der Schwimmhalle Klotzsche in den Doppelhaushalt 2025/26 aufnehmen! - Zustimmung - Petition nicht abgeholfen
+- TOP 1.15: E-Scooter & Co. - Vertagung
+- TOP 1.16: Aufhebung des Beschlusses zur Wiedereröffnung des Fernsehturms - Zustimmung - Petition nicht abgeholfen
+- TOP 1.17: Gegen Öffnung des Fernsehturms - Zustimmung - Petition nicht abgeholfen
+- TOP 1.18: Vorschlag für eine Erhöhung der Hundesteuer - Zustimmung - Petition nicht abgeholfen
+- TOP 1.19: Bau- und Finanzierungslücken schließen - Zustimmung - Petition nicht abgeholfen
+- TOP 1.20: Einsparung beim Ordnungsamt statt im SoziaIen - Vertagung
+- TOP 1.21: Für den Erhalt und die Finanzierung der Kinder- und Jugendsozialarbeit - Vertagung
+- TOP 1.22: Geplante Kürzungen im neuen Haushalt - erledigt
+- TOP 1.23: Kürzungen in der Kinder-, Jugend- und Gleichstellungsarbeit? Nicht mit uns! - Vertagung
+- TOP 1.24: Erhalt der Fach- und Anlaufstelle für Alleinerziehende Dresden - Vertagung
+- TOP 1.25: Geplante Erhöhung derSplelautomatensteuer in der Landeshauptstadt Dresden - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.26: MOBI-Shuttle erhalten, ÖPNV, Car-und Bikesharing im Dresdner Norden ausbauen - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.27: VERSTÄRKER VERBOT JETZT - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.28: Verhinderung der Kürzung des Angebotes der DVB - Im Besonderen der ersatzlosen Streichung der Stecke ab Altkaitz bis Mockritz der Linie 66 - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.29: Umweltziel Dresden - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.30: Keine (Verkehrs-) Diskriminierung mehr - Zustimmung - Petition abgeholfen
+- TOP 1.31: Keine einseitige Bevorzugung in der Verkehrsplanung der Stadt - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.32: Erhaltet die Niederpoyritzer Elbfähre - Zustimmung - Petition abgeholfen
+- TOP 1.33: Erhebung einer örtlichen Verbrauchssteuer auf Einweg-Takeaway-Verpackungen in Dresden - Zustimmung - Petition nicht abgeholfen
+- TOP 1.34: Abwahl Bürgermeister Stephan Kühn - Zustimmung - Petition nicht abgeholfen
+- TOP 1.35: Petition zur Kostenübernahme von Tampons und Binden am BSZ DDS - Zustimmung - Petition nicht abgeholfen
+- TOP 1.36: Rettung des Freien Musikvereins Paukenschlag e. V. und der Musikschule Goldenes Lamm e. V. durch institutionelle Förderung der Landeshauptstadt Dresden - Zustimmung - Petition teilweise abgeholfen
+- TOP 1.37: Versprechen einlösen - Zustimmung - Petition nicht abgeholfen
