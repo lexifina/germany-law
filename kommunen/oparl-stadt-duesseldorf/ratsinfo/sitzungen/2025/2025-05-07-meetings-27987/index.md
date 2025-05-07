@@ -1,0 +1,52 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-07T16:00:00+02:00
+- Ende: 2025-05-07T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27987
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27987
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00551771.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00551771.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00551771.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Anfragen
+- TOP 4.1: Was passiert mit der Bergischen Landstraße nach den Kanalbauarbeiten? -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.2: Verkehrsbaustellen im Düsseldorfer Süden -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.3: Wann kommen die Schulstraßen? -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.4: Poststraße -Anfrage der Ratsfraktionen CDU und Bündnis 90/ Die GRÜNEN- - zur Kenntnis genommen
+- TOP 4.5: Konzept Harkortstraße -Anfrage des Bürgermitglieds Holthoff- - zur Kenntnis genommen
+- TOP 4.6: Ordnung und Sicherheit -Anfrage der Ratsfraktion die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 4.7: Komfort und Information an Haltestellen -Anfrage der Ratsfraktion die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Grüne Welle im Radwegenetz -Antrag der SPD-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 5.2: Busspuren auf der Berliner Allee einführen und deren Freigabe für den Radverkehr prüfen -Antrag der Ratsfraktion Die LINKE- - mehrheitlich abgelehnt
+- TOP 5.3: Verkehrskonzept zum AC/DC Konzert auf dem Open-Air-Gelände Messeparkplatz 1 -Antrag Ratsfraktion Die LINKE- - mehrheitlich abgelehnt
+- TOP 5.4: Lücken schließen, Wege für alle! -Antrag der Ratsfraktion die PARTEI-Klima- - mehrheitlich abgelehnt
+- TOP 5.5: Toulouser Allee -Antrag der Ratsfraktion die PARTEI-Klima- - mehrheitlich abgelehnt
+- TOP 5.6: Radhauptnetz Oberbilker Allee / Gangelplatz -Antrag der Ratsfraktion die PARTEI-Klima- - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Baustelle der Autobahn GmbH auf der A59
+- TOP -: Verwaltungsvorlagen
+- TOP 8: Freiheitshagen, Ausbau der Verkehrsflächen und Entwässerungseinrichtungen - Empfehlung einstimmig beschlossen
+- TOP 9: Freigabe Verkaufsoffener Sonntagnachmittage im Jahre 2025 in der Innenstadt (gesamte Stadtteile Stadtmitte, Altstadt, Carlstadt) - passieren lassen
+- TOP 10: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 11: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 12: Schadowstraße – Umplanung zur Entschärfung des Nutzungskonflikts zwischen Rad- und Fußverkehr - mehrheitlich abgelehnt
+- TOP 12.1: Ergänzungsantrag der CDU-Ratsfraktion zu TOP 12: OVA/038/2025 Schadowstraße – Umplanung zur Entschärfung des Nutzungskonflikts zwischen Rad- und Fußverkehr - zurückgestellt
+- TOP 13: Mobilitätsstationen im Förderprojekt Multi-Mo-DUS zur Förderung von Nahmobilität und Intermodalität im Alltag – Realisierungsphase 2 -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 14: Düsseldorfer Nachhaltigkeits-Rallyes - zur Kenntnis genommen
+- TOP 15: Verkehrsbericht 2024 - Jährliche Verkehrsunfallbilanz des Polizeipräsidiums Düsseldorf -Informationsvorlage - zur Kenntnis genommen
+- TOP 16: Bericht der Unfallkommission für das Jahr 2024 - zur Kenntnis genommen
+- TOP 17: Controlling-Bericht über die Baumaßnahmen im Verkehrsbereich - 2. Halbjahr 2024 - vertagt
+- TOP 18: Ergebnisse der Mobilitätsbefragung SrV2023 in Düsseldorf - zur Kenntnis genommen
