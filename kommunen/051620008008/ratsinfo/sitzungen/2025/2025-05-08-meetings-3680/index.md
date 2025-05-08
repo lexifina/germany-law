@@ -1,0 +1,91 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-05-08T18:37:00+02:00
+- Ende: 2025-05-08T21:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3680
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3680
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00162167.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00162167.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00162167.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Verpflichtung eines neuen Ratsmitgliedes
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Wahl des 1. stv. Bürgermeisters / der 1. stv. Bürgermeisterin - mehrheitlich beschlossen
+- TOP 6: Gigabitförderung 2.0 - einstimmig beschlossen
+- TOP 7: Mittelbereitstellungen
+- TOP 7.1: Finanzielle Förderung der Nutzbarmachung des Sebastianushauses Hülchrath - einstimmig beschlossen
+- TOP 8: Antrag nach § 24 GO - Kommunale Verpackungssteuer - einstimmig beschlossen
+- TOP 9: Erlass einer neuen Wahlordnung für die Wahl der direkt zu wählenden Mitglieder des Integrationsrates - einstimmig beschlossen
+- TOP 10: Sachstand Carsharing-Angebot in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 11: Anfrage zur Einführung von Videoüberwachung an städtischen Schulen (Anfrage Nr.:129/2024) - mehrheitlich beschlossen
+- TOP 12: Neuberechnung der Fraktionszuwendungen - einstimmig beschlossen
+- TOP 13: Mitgliedschaft der GGV-Fraktion in Fachausschüssen - einstimmig beschlossen
+- TOP 14: Beratungspunkte Ausschüsse
+- TOP 14.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 14.1.1: 49. FNP Änd. Nachnutzung Kraftwrk Frimmersdorf - Aufstellung - mehrheitlich beschlossen
+- TOP 14.1.2: F 32 Zukunfts.Kraftwerk Frimmersdorf - Aufstellung und frühz. B.Bet. - mehrheitlich beschlossen
+- TOP 14.1.3: 50. FNP-Änderung "Waldkindergarten Welchenberg" - Aufstellungsbeschluss und Beschluss zur frühz. Beteiligung der Öffentlichkeit - einstimmig beschlossen
+- TOP 14.1.4: Bebauungsplan Nr. G 240 "Waldkindergarten Welchenberg" - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 14.1.5: 1. vereinf. Änd. G 170A - Satzungsbeschluss - einstimmig beschlossen
+- TOP 14.1.6: G 228 - Aufhebung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 14.1.7: Gu 38 "Industriepark Elsbachtal" - ern. Aufstellung - mehrheitlich beschlossen
+- TOP 15: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 15.1: Anfrage zur Förderung des Ehrenamtes durch Einführung einer neu geschaffenen "Gala für das Ehrenamt" im Jahre 2025 (Anfrage Nr.:01/2025) - Kenntnisnahme
+- TOP 15.2: Beantwortung der Anfrage zur Abwehr von Terroranschlägen auf Weihnachtsmarkt und Volks-/Heimatfesten (Anfrage Nr.:04/2025) - Kenntnisnahme
+- TOP 15.3: Einbruchsicherheit in Feuerwehrgerätehäusern (Anfrage 02/2025) - Kenntnisnahme
+- TOP 15.4: Anfrage zu Arbeitsgelegenheiten für Asylbewerber ( Anfrage Nr.: 126/2024) - Kenntnisnahme
+- TOP 15.5: Erheblicher LKW-Verkehr auf der Straße/dem asphaltierten Weg entlang der Nord-Süd-Bahn (Anfrage Nr.:12/2025) - Kenntnisnahme
+- TOP 15.6: Anfrage zu einer unterstützenden Einführung von KI im Schlossbad GV (Anfrage Nr.:14/2025) - Kenntnisnahme
+- TOP 15.7: Baumaßnahmen an der städtischen Gemeinschaftsgrundschule am Welchenberg in Neuenhausen (Anfrage Nr.:24/2025) - Kenntnisnahme
+- TOP 15.8: Zeitnahe Begehung der städtischen Sportstätten (Antrag Nr.:29/2025) - von der Tagesordnung abgesetzt
+- TOP 15.9: Erneuerung der Flutlichtanlage des Hauptspielfeldes des 1. FC Süd in Neuenhausen (Antrag Nr.:28/2025) - von der Tagesordnung abgesetzt
+- TOP 15.10: Beteiligungsverfahren zur Definition des landesweiten Radvorrangnetzes des Landes Nordrhein-Westfalen (Anfrage Nr.:128/2024) - Kenntnisnahme
+- TOP 15.11: Beachvolleyballanlagen für die Öffentlichkeit zugänglich machen (Antrag Nr.:147/2024) - von der Tagesordnung abgesetzt
+- TOP 15.12: Einführung von Windelsäcken prüfen und Entsorgung erleichtern (Antrag Nr.:89/2024) - Kenntnisnahme
+- TOP 15.13: Umfeldverbesserung Grevenbroich Südstadt (Antrag Nr.:136/2024) - Kenntnisnahme
+- TOP 15.14: Wilde Müllablagerungen und Sperrmüll im Stadtgebiet (Antrag Nr.:139/2024) - vertagt
+- TOP 15.15: Textilentsorgung in Grevenbroich (Anfrage Nr.:05/2025) - Kenntnisnahme
+- TOP 16: Schriftliche Anträge
+- TOP 16.1: Anträge der SPD-Fraktion
+- TOP 16.1.1: Pilotprojekt - Installation von Ladebordsteinen zur Förderung der Elektromobilität (Antrag Nr.:30/2025) - einstimmig beschlossen
+- TOP 16.1.2: Ausschussumbesetzung (Antrag Nr.:38/2025) - einstimmig beschlossen
+- TOP 16.2: Anträge der CDU-Fraktion
+- TOP 16.2.1: Zusätzlich 500.000 Euro für die Nachpflanzung von Bäumen etatisieren (Antrag Nr.:45/2025) - einstimmig beschlossen
+- TOP 16.2.2: Installierung eines öffentlich zugänglichen Defibrillators (AED) in Barrenstein (Antrag Nr.:44/2025) - einstimmig beschlossen
+- TOP 16.2.3: Konzept zur Verbesserung der Baseballsportanlage in Barrenstein (Antrag Nr.:43/2025) - einstimmig beschlossen
+- TOP 16.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 16.4: Anträge der FDP-Fraktion
+- TOP 16.4.1: Endlich "Rats-TV" auch in Grevenbroich einführen (Antrag Nr.:33/2025) - einstimmig beschlossen
+- TOP 16.4.2: Namensgebung des Kirmesplatzes Gindorf zum "St.-Sebastianus-Platz" (Antrag Nr.:39/2025) - einstimmig beschlossen
+- TOP 16.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 16.5.1: Prüfauftrag und Maßnahmenplanung Nutzungseinschränkung am Platz der deutschen Einheit (Antrag Nr.:48/2025) - einstimmig beschlossen
+- TOP 16.6: Anträge der UWG-Fraktion
+- TOP 16.6.1: Ausschussumbesetzung (Antrag Nr.:34/2025) - einstimmig beschlossen
+- TOP 16.7: Gemeinschaftsanträge
+- TOP 16.7.1: Dringlichkeits-Antrag: Rettungsdienst im Rhein Kreis Neuss - einstimmig beschlossen
+- TOP 17: Schriftliche Anfragen
+- TOP 17.1: Anfragen der SPD-Fraktion
+- TOP 17.1.1: Anfrage zum Bebauungsplan F22 (Anfrage Nr.:31/2025) - Kenntnisnahme
+- TOP 17.2: Anfragen der CDU-Fraktion
+- TOP 17.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 17.3.1: Finanzierung der Reinigung von öffentlichen Plätzen aus Mitteln des Einwegkunststofffondsgesetz (Anfrage Nr.:40/2025) - Kenntnisnahme
+- TOP 17.3.2: Lachgasmissbrauch in Grevenbroich (Anfrage Nr.:41/2025) - Kenntnisnahme
+- TOP 17.4: Anfragen der FDP-Fraktion
+- TOP 17.4.1: Änderung des Grundgesetzes / Auswirkung des "Infrastruktur-Sondervermögens" auf die Stadt Grevenbroich (Antrag Nr.:32/2025) - einstimmig beschlossen
+- TOP 17.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 17.6: Anfragen der UWG-Fraktion
+- TOP 17.7: Anfragen von Einzelratsmitgliedern
+- TOP 17.7.1: Anfrage zur Einführung eines Pilotprojektes "Quartiersmanagement" im Bahnhofsviertel GV (Anfrage Nr.:35/2025) - Kenntnisnahme
+- TOP 17.7.2: Anfrage zur kommunalen Wärmewende: "Flusswärme nutzen" (Anfrage Nr.:36/2025) - Kenntnisnahme
+- TOP 17.7.3: Anfrage nach Einführung eines neuen Sicherheitskonzeptes für Volks- und Heimatfesten und Veranstaltungen im Stadtgebiet GV (Anfrage Nr.:37/2025) - Kenntnisnahme
+- TOP 17.7.4: Anfragen zu Flächen (Anfrage Nr.:42/2025) - Kenntnisnahme
+- TOP 18: Mitteilungen des Bürgermeisters
