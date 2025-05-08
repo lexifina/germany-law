@@ -1,0 +1,74 @@
+# 33. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-08T16:00:00+02:00
+- Ende: 2025-05-08T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31608
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31608
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Erinnerung an den 08.05.1945 - Ende des Zweiten Weltkriegs
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde zur Problematik von Obdachlosigkeit im öffentlichen Raum, Fokus Friesenplatz, gem. Antrag von B90/Die Grünen, SPD, CDU und FDP - ungeändert beschlossen
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Konzept "Misch MIT! – So geht Kinder- und Jugendbeteiligung in Köln! – Ergebnisse, Erkenntnisse und Empfehlungen eines partizipativen Prozesses“ - ungeändert beschlossen
+- TOP 3.2: Einleitungsbeschluss Campus Colonius Nord (0302/2022) - ungeändert beschlossen
+- TOP 3.3: Bedarfsfeststellungs- und Planungsbeschluss für die Generalsanierung Tunnel Tunisstraße - geändert beschlossen
+- TOP -: ÄA zu 3722/2024 Bedarfsfeststellungs- und Planungsbeschluss für die Generalsanierung Tunnel Tunisstraße, Änderungsantrag B90/Die Grünen - geändert beschlossen
+- TOP 3.4: Bedarfsfeststellungs- und Baubeschluss für die Installation einer Video- Überwachungsanlage mit zugehöriger Sprachalarmierungsanlage im Rheinufertunnel - geändert beschlossen
+- TOP -: ÄA zu 3910/2024 Bedarfsfeststellungs- und Baubeschluss für die Installation einer Video- Überwachungsanlage mit zugehöriger Sprachalarmierungsanlage im Rheinufertunnel, Änderungsantrag B90/Die Grünen - ungeändert beschlossen
+- TOP 3.5: Thusneldastr. 15-17 - Neubauten und Aufstockungen für Gymnasium und Berufskolleg (Grundstück > 3.000qm), 1183/2025
+- TOP 3.6: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - geändert beschlossen
+- TOP 3.7: Ladeinfrastruktur im öffentlichen Straßenraum: Erhöhung der Ausbauobergrenze für Ladesäulen im Bezirk Innenstadt - geändert beschlossen
+- TOP 3.8: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke Köln", Planfeststellungsabschnitt 1.2 - ungeändert beschlossen
+- TOP 3.9: Aufhebung der Sanierungssatzung 'Umfeld Kölner Hauptbahnhof' - ungeändert beschlossen
+- TOP 3.10: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - ungeändert beschlossen
+- TOP 3.11: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - ungeändert beschlossen
+- TOP 3.12: Teileinziehung von Straßenteilstücken der Straße Eigelstein von Ebertplatz bis Machabäerstraße - ungeändert beschlossen
+- TOP 3.13: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2025 - ungeändert beschlossen
+- TOP 3.14: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Antrag zur Benennung der Grünfläche an den Wallarkaden in der Altstadt/Süd in Marie-Luise-Nikuta-Platz - zurückgestellt
+- TOP 4.2: Bürgereingabe nach § 24 GO NRW - Fußgängerfreundliche Umgestaltung der Gummersbacher Straße, AZ 162/24 - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Parken in der Fahrradstraße Maybachstraße, Antrag B90/Die Grünen - zurückgestellt
+- TOP 5.2.2: Anwohnerschutz bei Demonstrationen in Deutz, Antrag CDU - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.2.2 Anwohnerschutz bei Demonstrationen in Deutz, gem. Änderungsantrag B90/Die Grünen, SPD und FDP - geändert beschlossen
+- TOP 5.2.3: Heckenprogramm und Anlandezonen für den Inneren Grüngürtel gem. Antrag B90/Die Grünen, Die Linke, KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.4: Temporäre Sitzgelegenheiten in der Ehrenstraße – Maßnahmen zur Stärkung der Aufenthaltsqualität, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.2.5: Sicherung des Kreisels am Chlodwigplatz gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.6: Genehmigung des Projekts "Tanz am Ebertplatz" gem. Antrag B90/Die Grünen, SPD, CDU, KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.7: Sicherung der Stadtklima- und Stadtverschönerungsmittel trotz Verfügungsbeschränkung, gem. Dringlichkeitsantrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.8: Keine Vermietung kommunaler Räume in Schulen, Bürgerhäusern und Jugendzentren an die AfD oder ihre nahestehenden Organisationen, gem. Dringlichkeitsantrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.2: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.3: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.4: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Initiativen zum Severinsviertel, Anfrage der SPD - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Fort X - Fragen zum Zustand und den nächsten Schritten, Anfrage CDU - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Grillverbot Volksgarten, Aktenzeichen 148/24 - Kenntnis genommen
+- TOP 9.2: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 9.3: Bundesprogramm „Förderung von Investitionen in nationale Projekte des Städtebaus“ Projekte des Mantelprojektes „Via Culturalis und die Quartiere der Domumgebung“, Umgestaltung der Gürzenichstraße - Kenntnis genommen
+- TOP 9.4: Städtebaulicher Masterplan Innenstadt – Lupenraum Via Culturalis - Kenntnis genommen
+- TOP 9.5: Benennung des Platzes vor dem Schauspielhaus („kleiner Offenbachplatz“) nach Dirk-Bach - Kenntnis genommen
+- TOP 9.6: Sachstandsberichte - Kenntnis genommen
+- TOP 9.7: Thusneldastr. 15-17 - Neubauten und Aufstockungen für Gymnasium und Berufskolleg (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 9.8: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.9: Planung eines die Kölner Innenstadt umschließenden Inneren Radwegerings - Kenntnis genommen
+- TOP 9.10: Vorgehen bei Straßen mit Restfahrbahnbreiten unter 3,05m - Kenntnis genommen
+- TOP 9.11: Sachstand geplante Erstaufnahme-Einrichtung des Landes Riehler Straße (ehemalige OFD) - Kenntnis genommen
