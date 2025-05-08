@@ -1,0 +1,67 @@
+# 31. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-08T15:30:00+02:00
+- Ende: 2025-05-08T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31706
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31706
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Verpflichtung neuer Mitglieder im Ausschuss für Soziales, Seniorinnen und Senioren - Sache ist erledigt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.2.1: Bericht der Behindertenbeauftragten der Stadt Köln 01/2025 - Kenntnis genommen
+- TOP 2.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 2.3.1: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 2.3.2: Fortschreibung des LSBTI-Aktionsplans - geändert beschlossen
+- TOP 2.3.3: Maßnahmen zur Bekämpfung queerfeindlicher Straftaten - geändert beschlossen
+- TOP 2.3.4: Sachstandsbericht zum Förderprogramm NRWeltoffen 2024 - Kenntnis genommen
+- TOP 2.3.5: Dokumentation zur Konferenz Interkulturelles Köln 2024 - Kenntnis genommen
+- TOP 2.3.6: Beantwortung einer mündlichen Anfrage von Mai Grundmann (SCHLAU Köln e.V.) aus der Sitzung der Stadtarbeitsgemeinschaft Queerpolitik vom 20.02.2025 - Kenntnis genommen
+- TOP 2.3.7: EHAP Plus Projekt INKA - In Köln Ankommen - Sachstandsbericht für den Zeitraum 01.01. bis 31.12.2024 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bestellung von Ombudspersonen nach § 16 Wohn- und Teilhabegesetz NRW - ungeändert beschlossen
+- TOP 4.2: Verteilung der Fördermittel 2025 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 4.3: Integrationslots*innen-Projekt – Verteilung der Finanzmittel im Haushaltsjahr 2025/2026 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Beantwortung einer mündlichen Anfrage zum Bericht über die Lebenslage obdachloser und wohnungsloser Men-schen in Köln - Kenntnis genommen
+- TOP 7.2: Sachstand zur Umsetzung des Maßnahmenpakets „Wohnungsbau stärken“ - Kenntnis genommen
+- TOP 7.3: Priorisierung der Aufgabenerledigung im Sachgebiet Zweckentfremdung, Wohnungsaufsicht und Mietpreiskontrolle - Kenntnis genommen
+- TOP 7.4: Jahresbericht des Auszugsmanagements 2024 - Kenntnis genommen
+- TOP 8: Arbeit
+- TOP 8.1: Arbeitsmarkt Köln - Rückblick 2024, bisherige Entwicklung und Ausblick 2025: Trotz schwacher Konjunktur neuer Beschäftigungshöchststand am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 8.2: Jobcenter Köln
+- TOP 8.3: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.4: Arbeitsmarktförderung
+- TOP 8.5: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2025 - 31.12.2027 - ungeändert empfohlen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: 3. Quartalsbericht 2024 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.1.1: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.1.2: Jahresbericht Koordination Gewaltschutz in Kölner Unterbringungseinrichtungen für Geflüchtete - Zeitraum 1. Januar 2024 bis 31. Dezember 2024 - Kenntnis genommen
+- TOP 9.1.3: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2024 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.2: Aktueller Sachstand Sanierung und Neubau der Sozialhäuser - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Unterstützung und Anerkennung von pflegenden Angehörigen - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Mitteilung zur Auswertung der Öffentlichkeitsbeteiligung - Freiraum Kalker Höfe - Kenntnis genommen
+- TOP 12.2: Zwischenbericht über die Umsetzung des Chancen- Aufenthaltsrechts nach § 104 c AufenthG - Kenntnis genommen
+- TOP 12.3: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 12.4: 5-jähriges Modellprojekt der KVB für Kölner Senior*innen - Kenntnis genommen
+- TOP 12.5: Mitteilung zur Beteiligung am Modell „MISSIMO" - Kenntnis genommen
+- TOP 12.6: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2024 - zurückgestellt
