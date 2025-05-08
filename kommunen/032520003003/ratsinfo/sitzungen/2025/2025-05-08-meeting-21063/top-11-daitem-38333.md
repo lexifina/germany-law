@@ -1,0 +1,7 @@
+# TOP 11.: Einheitliche Bewertungskriterien für Kitaplatzvergabe; Einführung digitale NOLIS Kita-Anmeldung
+
+- Sitzung: Schul- und Jugendausschuss (19. Sitzung) (2025-05-08)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/38333
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/16245
