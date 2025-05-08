@@ -1,0 +1,8 @@
+# TOP 8: Aktualisierung der Verfahrensfestlegung Inanspruchnahme und Kostenübernahme einer insoweit erfahrenen Fachkraft zur Einschätzung einer Kindeswohlgefährdung.
+
+- Sitzung: 10. Sitzung des Jugendhilfeausschusses (2025-05-08)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/218037
+- Ergebnis: 1. Lesung abgeschlossen
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/65473
