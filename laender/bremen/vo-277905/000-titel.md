@@ -1,1 +1,1 @@
-# Ordnung zur staatlichen Anerkennung von Erzieherinnen und Erziehern im Lande Bremen (Erzieherinnen- und Erzieheranerkennungsverordnung) vom 16. Januar 2023
+# Bremische Verordnung zur staatlichen Anerkennung von Erzieherinnen und Erziehern (Bremische Erzieherinnen- und Erzieheranerkennungsverordnung) vom 2. Mai 2025
