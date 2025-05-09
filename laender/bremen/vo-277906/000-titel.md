@@ -1,1 +1,1 @@
-# Ordnung zur staatlichen Anerkennung von Heilerziehungspflegerinnen und Heilerziehungspflegern im Lande Bremen (Heilerziehungspflegeanerkennungsverordnung) vom 16. Januar 2023
+# Bremische Verordnung zur staatlichen Anerkennung von Heilerziehungspflegerinnen und Heilerziehungspflegern (Bremische Heilerziehungspflegeanerkennungsverordnung) vom 2. Mai 2025
