@@ -1,0 +1,79 @@
+# 36.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-12T17:00:00+02:00
+- Ende: 2025-05-12T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32071
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32071
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Herrn Beigeordneten Markus Greitemann, Dezernat Planen und Bauen
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Stadtbahnanbindung Mülheim-Süd und Stammheim/Flittard
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Wiederherstellung des Parkplatzes im Bereich Odenthaler Str. / Leuchter Str. in Köln Dünnwald - 23/25 - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen aus der Sitzung der Bezirksvertretung Mülheim vom 03.02.2025 (AN/0090/2025) betreffend "Trennungen der KVB-Linien 3 und 4 über viele Monate - aber niemand weiß Bescheid?" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Mülheim am 28.11.2022 betr. "Zukunft der Dellbrücker Hauptstraße" (AN/2043/2022). - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer schrift. Anfrage der Fraktion DIE LINKE aus der Sitzung d. Bezirksvertretung Mülheim v. 24.03.2025 betr. "Neue Beleuchtung am Stammheimer Ufer" (AN/0307/2025) u. (AN/0525/2024) - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Mülheim vom 03.02.2025 (AN/0143/2025) betreffend "Dellbrück - Situation an St. Joseph Dellbrücker Hauptstraße" - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bodenabsackungen im Fort XII in Köln-Stammheim - Kenntnis genommen
+- TOP 7.2.2: Sachstand des geplanten Windrads am Klärwerk in Köln-Stammheim - Kenntnis genommen
+- TOP 7.2.2.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion zur Sitzung der Bezirksvertretung Mülheim am 12.05.2025 (AN/0489/2025) betreffend "Sachstand zur geplanten Windenergieanlage auf dem Großklärwerk in Köln-Stammheim" - Kenntnis genommen
+- TOP 7.2.3: Wann wird der Geh- und Radweg am Peter-Baum-Weg endlich umgesetzt? - Kenntnis genommen
+- TOP 7.2.4: Wie lässt sich die Einzelhandelssituation in Stammheim und Flittard verbessern? - Kenntnis genommen
+- TOP 7.2.5: Überprüfung der Standsicherheit von Industriebauten in Mülheim-Süd - Kenntnis genommen
+- TOP 7.2.6: Container in der Nähe des Eingangsbereiches der Elly-Heuss-Knapp Realschule an der Jan-Wellem- Straße in Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.7: Mähen der Wiesen am Flittarder Deich - Kenntnis genommen
+- TOP 7.2.8: SB Mülheim - Altkleidersammelkontainer der AWB Köln - Kenntnis genommen
+- TOP 7.2.9: SB Mülheim - Rechtsstatus von „Stadtteilgrenzen“ / Begründung der Ablehnung von gesetzlich Versicherten durch Ärzte, Ablehnung von Schülern durch Schulen, Ablehnung von Kunden durch Unternehmen nach „Stadtteilgrenzen“ - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Durchgängiger Fahrradweg auf dem Höhenhauser Ring - ungeändert beschlossen
+- TOP 8.1.2: Neugestaltung des Radweges im Bereich der Bergisch Gladbacher Straße 170 (Südseite der Straße) - ungeändert beschlossen
+- TOP 8.1.3: Sicherstellung eines barrierefreien Überquerens des Clevischen Rings im Bereich der nördlichen KVB Bushaltestelle „Am Faulbach“ Richtung Esso Tankstelle / Düsseldorfer Straße - ungeändert beschlossen
+- TOP 8.1.4: Überprüfung, Rückbau bzw. erforderlicher Ersatz von Steinpfosten im Bereich der Wallstraße und Neustraße in Köln-Mülheim hinsichtlich der Barrierefreiheit und des Sicherheitsaspektes - ungeändert beschlossen
+- TOP 8.1.5: Gefasste Beschlüsse der BV Köln- Mülheim in angemessener Zeit umsetzen – ggfs. Argumente für einen erforderlichen verlängerten Zeitraum innerhalb von zwei Monaten mitteilen und mit den Mitgliedern der BV Köln-Mülheim in den Austausch zu gehen - ungeändert beschlossen
+- TOP 8.1.6: Prüfauftrag Öffnung Zwickauer Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe der bezirksorientierten Mittel für das Haushaltsjahr 2025 - ungeändert beschlossen
+- TOP 9.1.2: Beschlussvorlage für das Fahrradstraßenkonzept Mülheim - zurückgestellt
+- TOP 9.1.3: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - ungeändert beschlossen
+- TOP 9.1.4: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Mülheim gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen - geändert beschlossen
+- TOP 9.1.5: Kleinräumige Analyse und Bewertung der Herausforderungen und Ziele der Sozialplanung für das Sozialraumgebiet Mülheim-Nord/Keupstraße - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - ungeändert beschlossen
+- TOP 9.2.2: Konzept "Misch MIT! – So geht Kinder- und Jugendbeteiligung in Köln! – Ergebnisse, Erkenntnisse und Empfehlungen eines partizipativen Prozesses“ - ungeändert beschlossen
+- TOP 9.2.3: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - ungeändert beschlossen
+- TOP 9.2.4: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Niederschrift 12. Runder Tisch Radverkehr Mülheim - Kenntnis genommen
+- TOP 10.2.5: Ortswechsel der Jugendwerkstatt Berliner Straße nach Neubrück - Kenntnis genommen
+- TOP 10.2.6: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 10.2.7: Veranstaltungen zum Internationalen Frauentag 2025 - Kenntnis genommen
+- TOP 10.2.8: Austausch der Brandmeldeanlage im Kulturbunker, Berliner Straße 20, 51063 Köln - Kenntnis genommen
+- TOP 10.2.9: Umsetzung der Sozialen Erhaltungssatzung Mülheim Süd-West - Kenntnis genommen
+- TOP 10.2.10: 238. Änderung des Flächennutzungsplans "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.11: Errichtung von 3 Mehrfamilienhäusern mit insgesamt 153 Wohneinheiten, einer Kindertagesstätte und einer - Kenntnis genommen
+- TOP 10.2.12: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.13: Machbarkeitsstudie zur Verbesserung der SPNV-Verbindungen zwischen Köln und Düsseldorf über Leverkusen Opladen und Solingen (S1/S17) - Kenntnis genommen
+- TOP 10.2.14: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - zurückgestellt
+- TOP 10.3: Bemerkungen zur Niederschrift
