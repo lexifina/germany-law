@@ -1,0 +1,6 @@
+# TOP 5: Aktueller Sachstand - Projekt Klimatisierung Obergeschoss Grundschule Weißig
+
+- Sitzung: 9. Sitzung des Ortschaftsrates Schönfeld-Weißig (2025-05-12)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/220477
