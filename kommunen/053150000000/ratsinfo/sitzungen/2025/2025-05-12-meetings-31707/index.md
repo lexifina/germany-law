@@ -1,0 +1,68 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-12T15:00:00+02:00
+- Ende: 2025-05-12T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31707
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31707
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Schulplatzsituation im Primarbereich - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Beantwortung einer mündlichen Anfrage von Bodo Busch (Stadtarbeitsgemeinschaft Queerpolitik) im Ausschuss Schule und Weiterbildung am 28.10.2024 bezgl. - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage von Mai Grundmann (SCHLAU Köln e.V.) aus der Sitzung der Stadtarbeitsgemeinschaft Queerpolitik vom 20.02.2025 - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 2.2: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - ungeändert empfohlen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag von KLIMAFREUNDE & GUT vom 13.11.2024 betreffend "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - Sache ist erledigt
+- TOP -: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - Kenntnis genommen
+- TOP -: Stellungnahme zum Antrag AN/1970/2023 der Ratsgruppe KLIMA FREUNDE & GUT betreffend: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - Kenntnis genommen
+- TOP 3.2: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betr.: Beschluss über die Aufstellung eines Bebauungsplanes - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion SPD vom 25.11.2024 betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - Sache ist erledigt
+- TOP 3.3: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 07.05.2025 betreffend "Umbau des OGS-Gebäudes an der Montessorischule in der Stegerwaldsiedlung" - zurückgestellt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 30.04.2025 betreffend "Sachstand Wiederzulassung freier Nutzung von Schulhöfen" - zurückgestellt
+- TOP 4.2: Anfrage der Fraktion Die Linke vom 05.05.2025 betreffend "Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen u. CDU vom 07.05.2025 betreffend "Verbesserung der IT-Betreuung an Kölner Schulen" - zurückgestellt
+- TOP 4.4: Anfrage der Fraktion CDU vom 07.05.2025 betreffend "Islamischer Religionsunterricht an Kölner Schulen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion SPD vom 04.06.2024 betreffend "Abriss und Neubau der Montessori-Grundschule Höhenberg - Standort Schulstr." - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 13.03.2025 - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion FDP vom 06.03.2025 betreffend "Sachstand Einführung fälschungssicherer Schulbescheinigungen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 28.04.2025 - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktion SPD vom 07.03.2025 betreffend "Sicherer Schulweg zu den Schulen über Girlitzweg und Teichrohrsängerweg im Ge-werbegebiet Triotop-Park" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 09.05.2025 - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 12.03.2025 betreffend "Projekt- und Finanzlage der Kölner Schulbaugesellschaft mbH" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 16.04.2025 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Durchführung der Lernmittelfreiheit - Verzicht auf die weitere Auszahlung der hälftigen Einsparungen - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 12.05.2025 zu TOP 6.1 Durchführung der Lernmittelfreiheit – Verzicht auf die weitere Auszahlung der hälftigen Einsparungen - ungeändert beschlossen
+- TOP 6.2: Anpassung des Musterraumprogramms für Schulneubau- und erweiterungsbauten 2023 an die Handreichung zum Schulbau des Städtetages Nordrhein-Westfalen vom 29.11.2019 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 12.05.2025 zu TOP 6.2 Anpassung des Musterraumprogramms für Schulneubau- und Erweiterungsbauten 2023 - ungeändert beschlossen
+- TOP 6.3: Neue Honorarordnung und neue Entgeltordnung der Volkshochschule Köln - ohne Votum behandelt
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.2: Mitteilung zur Beteiligung am Modell „MISSIMO" - Kenntnis genommen
+- TOP 8.3: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 8.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Elternbeiträge für die Kindertagesbetreuung, Aktenzeichen: 53/24 - Kenntnis genommen
+- TOP 8.5: Sachstandsbericht zum Förderprogramm NRWeltoffen 2024 - Kenntnis genommen
+- TOP 8.6: Beantwortung einer mündlichen Anfrage von RM Kircher aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 03.02.2025 bezüglich einer Zeitschiene für die Interimsbauten für die Europaschule - Kenntnis genommen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: OGS-Finanzierung ab dem Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 8.12: Livestreaming der Sitzung des Auschusses für Schule und Weiterbildung - Kenntnis genommen
+- TOP 8.13: Beantwortung mündlicher Anfragen aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gefährdungsbeurteilung zur Kaltlufthalle Nachtigallenstraße, 51147 Köln - Kenntnis genommen
+- TOP 8.14: Sachstand Projekt "Starke Kompetenz für Kölner Pänz" - Kenntnis genommen
+- TOP 8.15: Beantwortung der mündlichen Anfragen von Ulrike Müller-Harth (Stadtarbeitsgemeinschaft Behindertenpolitik) in der Sitzung des Ausschusses Schule und Weiterbildung vom 27.01.2025 zum Themenkomplex - zurückgestellt
+- TOP 8.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - zurückgestellt
+- TOP 9: Mündliche Anfragen
