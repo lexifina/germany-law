@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2025-05-12T16:00:00+02:00
+- Ende: 2025-05-12T18:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7855
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7855
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00250420.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00250420.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00250420.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 19.02.2025 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Informationsveranstaltung für Kioskbetreiber in Mönchengladbach; Hier: CDU-Fraktionsantrag vom 29.04.2025 - Mit Stimmenmehrheit abgelehnt
+- TOP 3: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2024 bis 31.12.2024 - Kenntnisnahme
+- TOP 4: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge (Berichtszeitraum 2023) - Kenntnisnahme
+- TOP 5: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge (Berichtszeitraum 2024) - Kenntnisnahme
+- TOP 6: Beteiligung der WFMG - Wirtschaftsförderung Mönchengladbach GmbH; hier: Satzungsänderung T7 Management GmbH - Einstimmiger Beschluss
+- TOP 7: Anpassung der Gesellschaftsverträge und Satzungen städtischer Beteiligungen an die geänderten Vorschriften der Gemeindeordnung NRW (GO NRW) bei den Tochtergesellschaften der ENNI Energie & Umwelt Niederrhein GmbH hier: 3. NKF-Weiterentwicklungsgeset - Einstimmiger Beschluss
+- TOP 8: Anpassung der Gesellschaftsverträge und Satzungen städtischer Beteiligungen an die geänderten Vorschriften der Gemeindeordnung NRW (GO NRW) bei der Trianel GmbH - Einstimmiger Beschluss
+- TOP 9: Beteiligung der NEW AG über die NEW Re GmbH - Einstimmiger Beschluss
+- TOP 10: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Re GmbH an der Projektgesellschaft MLK Windpark Viersen Nr. 83 GmbH & Co. KG - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 11: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City GmbH an der NEW Smart Grevenbroich GmbH - Einstimmiger Beschluss
+- TOP 12: Berichtsvorlage zum Fraktionsantrag der Freien Demokratischen Partei (FDP) Vorlage 3840/X „Verwaltungsrat mags AöR soll öffentlich tagen“ - Kenntnisnahme
+- TOP 12.1: Verwaltungsrat mags AöR soll öffentlich tagen - hier: Fraktionsantrag der FDP vom 27.01.2025 - Mit Stimmenmehrheit abgelehnt
+- TOP 13: Satzungsänderung der Zukunftsagentur Rheinisches Revier GmbH - Einstimmiger Beschluss
+- TOP 14: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2024 (6. Nachweisung) - Kenntnisnahme
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (1. Nachweisung) - Kenntnisnahme
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung: Nachwahl einer/eines Stellvertreterin/Stellvertreters des Oberbürgermeisters in der Gesellschafterversammlung der ZRR GmbH - Einstimmiger Beschluss
+- TOP 17: Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach für das Jahr 2025 - Mit Stimmenmehrheit beschlossen
+- TOP 18: Zweiter Nachtrag zur Wahlordnung für die Wahl der Mitglieder des Integrationsrates der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 19: Bewerbung für Olympische und Paralympische Spiele Rhein-Ruhr - Mit Stimmenmehrheit beschlossen
+- TOP 20: Vertrag zwischen der Stadt Mönchengladbach und der Verbraucherzentrale NRW e.V. - Einstimmiger Beschluss
+- TOP 21: Vorgehensweise bei der Konzepterstellung zum Umgang mit marginalisierten Personen (Ratsbeschluss 3435/X) vom 10.10.2024 - Kenntnisnahme
+- TOP 22: Beauftragung eines wissenschaftlichen Institutes zur Konzepterstellung zum Umgang mit marginalisierten Menschen im öffentlichen Raum (Ratsbeschluss 3435/X) vom 10.10.2024 - Mit Stimmenmehrheit beschlossen
+- TOP 23: Verlängerung der Leistungsvereinbarung über das Angebot Mahlzeitendienst - Mit Stimmenmehrheit beschlossen
+- TOP 24: Dachsanierung der Mensadachfläche an der Gesamtschule Espenstrasse - Einstimmiger Beschluss
+- TOP 25: Satzung über die erste Verlängerung einer Veränderungssperre in Mönchengladbach (Gebiet südöstlich der Steinmetzstraße zwischen Hauptbahnhof, Humboldtstraße und Sittardstraße/Goebenstraße) - Einstimmiger Beschluss
+- TOP 26: Änderung der Gebietsgrenze zwischen der Stadt Mönchengladbach und der Stadt Erkelenz - Einstimmiger Beschluss
+- TOP 27: Potenzialanalyse Wirtschaftsstandort Mönchengladbach - Statusbericht - Kenntnisnahme
+- TOP 28: Bahnpreise Schul- & Vereinsschwimmen - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Prüfung der Möglichkeit einer kommunalen Regelung zum Verbot des Verkaufs sowie der Ab- und Weitergabe von Lachgas an Minderjährige; hier: Antrag der CDU Ratsfraktion vom 21.03.2025 - Einstimmiger Beschluss
+- TOP 30: Auswirkungen auf Barrierefreiheit und Senior*innen in Beratungsvorlagen; hier: Fraktionsantrag der Fraktion DIE LINKE vom 31.03.2025 - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Umbesetzung von Gremien; Hier: Antrag der FDP-Ratsfraktion vom 09.04.2025 - Einstimmiger Beschluss
+- TOP 32: Umbesetzung von Gremien; hier: SPD-Fraktionsantrag vom 28.04.2025 - Einstimmiger Beschluss
+- TOP 33: Umbesetzung von Ausschüssen, Gremien und Aufsichtsräten; Hier: Fraktionsantrag DIE LINKE vom 29.05.2025 - Mit Stimmenmehrheit beschlossen
+- TOP 34: Protected Bike Lane Hohenzollernstraße – Bericht über den weiteren Verlauf des Beschwerdeverfahrens und gerichtliche Auflagen; Hier: CDU-Fraktionsantrag vom 29.04.2025 - Ohne Abstimmung
+- TOP 35: Finanzbericht zum Ausschuss für Finanzen, Beteiligungen und Wirtschaft am 26.06.2025 - Vom Antragsteller zurückgezogen
+- TOP 36: Anfragen und Mitteilungen
+- TOP 36.1: Anfrage RF Gutsche (CDU)
+- TOP 36.2: Anfrage RH Schultz (DIE LINKE)
+- TOP 36.3: Mitteilung OB Heinrichs
