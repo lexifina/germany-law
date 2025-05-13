@@ -1,0 +1,62 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-13T16:00:00+02:00
+- Ende: 2025-05-13T20:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27586
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27586
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552332.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552332.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552332.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/002/2025 vom 25.03.2025 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: PFAS-Grundwasserverunreinigung im Stadtbezirk 2 - mündlicher Vortrag - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Schulwegsicherung Brehm-Schule an der Karl-Müller-Straße in Düsseltal - mehrheitlich abgelehnt
+- TOP 4.6: Radschlägermarkt an der Metro im 2. Halbjahr 2025 - einstimmig beschlossen
+- TOP 4.7: Verwendung von Haushaltsmitteln hier: Zuwendungsantrag von PAVETRA e.V. EU - UA Charity Projekt Düsseldorf - mehrheitlich beschlossen
+- TOP 4.8: Verwendung von Haushaltsmittel 2025 hier: Nails projectroom - einstimmig beschlossen
+- TOP 4.9: Verwendung von Haushaltsmittel 2025 - hier: Zuwendungsantrag des Netzwerkes Hellweg / Märchenland für ein Nachbarschaftsfest - einstimmig beschlossen
+- TOP 4.10: Verwendung von Haushaltsmittel 2025 - hier: Zuwendungsantrag der Filmwerkstatt für das Jugendprojekt „Was mit Kunst!? Satellit“ - mehrheitlich beschlossen
+- TOP 4.11: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag der Seebrücke für das Fest "Vielfalt entfalten" - mehrheitlich beschlossen
+- TOP 4.12: Verwendung von Haushaltsmittel 2025 - hier: Zuwendungsantrag der Thomas-Edison-Realschule für „Fair bleiben“ - einstimmig beschlossen
+- TOP 4.13: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag des Vereins „Unsere Straßen – unsere Künstler e.V.“ - einstimmig beschlossen
+- TOP 4.14: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag des Vereins „HiSKO e.V.“ - einstimmig beschlossen
+- TOP 4.15: Verwendung von Haushaltsmitteln hier: Zuwendungsantrag von Masoud Gharemani für die Filmveranstaltung (N)irgendwo in Deutschland - mehrheitlich beschlossen
+- TOP 4.16: Verwendung von Haushaltsmitteln hier: Zuwendungsantrag von Masoud Gharemani für eine Buchlesung - mehrheitlich abgelehnt
+- TOP 4.17: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag des kulturellen Kollektivs Habibi Act - mehrheitlich beschlossen
+- TOP 4.18: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag des Heimatvereins Derendorfer Jonges - einstimmig beschlossen
+- TOP 4.19: Verwendung von Haushaltsmitteln; hier: Zuwendungsantrag des FlingerPfad für eine Stele - einstimmig beschlossen
+- TOP 4.20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2025 Liste A Schulen 2121101/52415200 - einstimmig beschlossen
+- TOP 4.21: Errichtung der Mobilitätsstation Wehrhahn S im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-NSM) - vertagt
+- TOP 4.22: Klimaangepasste Begrünung und Umgestaltung der Lärmschutzwand am Eingang zum Stadtwerkepark - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Prüfantrag: Quartiersgarage unter dem Hansa-Platz - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 5.2: Parken für Einzelhandel und Gastronomie im Stadtbezirk 2 - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Wickelboard für Spielplatz Zoopark, Hermannplatz Gute Alternative zum Wickeln auf dem Boden und Parkbänken - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.5: LED-Beleuchtung für die Unterführung an der Wetterstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Schulwegsicherheit Grafental - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.2: Clan-Kriminalität und häusliche Gewalt im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Fehlende Fahrbahnmarkierungen auf der Hohenzollernallee - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.3: Quartiersgaragen in Neubauprojekten - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.4: Verwendung der Stellplatzablösemittel - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.5: Situation Einzelhandelsversorgung & Gastronomiebetriebe seit Corona in den lokalen Zentren im Stadtgebiet - Anfrage der SPD-Fraktion - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Parkplatzbilanz für den Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/238/2024 - zur Kenntnis genommen
