@@ -1,0 +1,57 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-13T17:00:00+02:00
+- Ende: 2025-05-13T20:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27763
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27763
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552160.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552160.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552160.pdf
+
+## Tagesordnung
+
+- TOP 1: Gedenken an Verstorbene
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Präsentation der Kriminalitäts- und Unfallstatistik 2024 (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.2: Tempo 30; Fürstenwall (Kita Fürstenwall 186) -Beschlussvorlage- - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2025 - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2025 - einstimmig beschlossen
+- TOP 7.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen – Haushalt 2025 - einstimmig beschlossen
+- TOP 7.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - Haushalt 2025 Liste A Schulen - einstimmig beschlossen
+- TOP 7.5: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Situation und Planung der Pflegeplätze im Bezirk 03 (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.2: Quo vadis Litfaßsäulen - Warum steht Ihr immer im Weg rum? (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.3: Verkehrssituation Höhenstr. – Kita St. Apollinaris, KGS Höhenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.6: Baumaßnahmen Seeheimer Weg (Anfrage CDU-Fraktion) - vertagt
+- TOP 8.2.7: Sicherheit Radverkehr Im Liefeld (Anfrage CDU-Fraktion) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Erstellung einer Biodiversitätsfläche auf dem Dreiecksplatz zwischen Fürstenplatz, Remscheider Str. und Kirchfeldstr. (Antrag BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.2: Verkehrskonzept zur Regelung der Zugangsverkehre bei Konzerten in der Mitsubishi Electric HALLE (Antrag BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.3: Prüfauftrag Schulwegsicherheit zwischen Volmerswerther Str. und Aachener Platz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU) - einstimmig beschlossen
+- TOP 9.4: Prüfantrag Verbesserung Anschluss Gurkenland (Antrag CDU, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.5: Leipziger Kombispur Martinstraße (Antrag CDU) - mehrheitlich beschlossen
+- TOP 9.6: Verbesserung Radverkehrsachse Talstraße-Weberstraße-Esmarchstraße (Antrag CDU) - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 10.2: Klimaangepasste Aufwertung Quartiersplatz Dormagener Straße - zur Kenntnis genommen
+- TOP 10.3: Fleher Straße – Optimierung Schulbushaltestelle (Bonifatiusschule) - zur Kenntnis genommen
+- TOP 10.4: Sponsoring eines Cruyff Courts am Lessingplatz - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
