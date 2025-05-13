@@ -1,0 +1,166 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2025-05-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8397051
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8397051
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der - außerordentlichen Sitzung vom 28.03.2025 - BA-Sitzung vom 08.04.2025
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3.: Umbesetzung im Unterausschuss Bildung und Sport, im Unterausschuss Budget und Satzung sowie im Unterausschuss Stadtplanung und Bauordnung
+- TOP 1.3.4.: Benennung eines*einer stellvertretenden Vorsitzenden des Unterausschusses Bildung und Sport
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Eylauer Str. 13: Neubau eines Studentenhauses mit 18 Wohnungen
+- TOP 2.2.1.2.: Merzstr. 6: Neubau eines Einfamilienhauses mit Einliegerwohnung sowie Carport / Stellplatz - VORBESCHEID
+- TOP 2.2.1.3.: Delpstr. 3: Abbruch Bestand und Neuerrichtung Wohngebäude mit Tiefgarage - VORBESCHEID
+- TOP 2.2.1.4.: Lentnerweg 9: Neubau eines Doppelhausses mit 2 Einzelgaragen
+- TOP 2.2.1.5.: Hornsteinstr. 7: Neubau eines Einfamilienhauses mit Doppelgarage - ÄNDERUNGSANTRAG zu 1.2-2024-5737-31
+- TOP 2.2.1.6.: Hohenlindner Str. 5: Fassadengestaltung Proben- und Werkstattzentrum (PWZ) Staatsschauspiel optimieren; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.2.1.7.: Planfeststellungsverfahren "Johanneskirchen - Flughafen München - NeM 23"; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.8.: Eylauer Str.: Neubau eines Einfamilienhauses mit Carport
+- TOP 2.2.1.9.: Kufsteiner Pl. 5: Neubau eines Mehrfamilienhauses mit 6 Wohnungen und 3 Büroeinheiten sowie einer Tiefgarage
+- TOP 2.2.1.10.: Stargarder Str. 8: Neubau eines Einfamilienhauses mit Garage
+- TOP 2.2.1.11.: Erhaltung des Dönerstands in Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.2.1.12.: Anfrage zur Zwischennutzung des SEM-Gebiets; Antrag der SPD-Fraktion
+- TOP 2.2.1.13.: Baulicher Zustand des Höchl-Schlössls
+- TOP 2.2.1.14.: Überprüfung der Baumfällungen im Freischützkaree
+- TOP 2.2.1.15.: Antrag zur Überprüfung der Baumfällungen im Freischützkaree; Anliegen aus der Bürgerschaft zum BA-Antrag Hinweis BAG: Antrag wurde bereits beim zuständigen Referat mehrmals moniert bzw. an die Bearbeitung erinnert
+- TOP 2.2.1.16.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.17.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Eylauer Str. 13: Neubau eines Studentenhauses mit 18 Wohnungen
+- TOP 2.2.2.2.: Delpstr. 3: Abbruch Bestand und Neuerrichtung Wohngebäude mit Tiefgarage - VORBESCHEID
+- TOP 2.2.2.3.: Merzstr. 6: Neubau eines Einfamilienhauses mit Einliegerwohnung sowie Carport / Stellplatz - VORBESCHEID
+- TOP 2.2.2.4.: Lentnerweg 9: Neubau eines Doppelhausses mit 2 Einzelgaragen
+- TOP 2.2.2.5.: Hornsteinstr. 7: Neubau eines Einfamilienhauses mit Doppelgarage - ÄNDERUNGSANTRAG zu 1.2-2024-5737-31
+- TOP 2.2.2.6.: Eylauer Str.: Neubau eines Einfamilienhauses mit Carport
+- TOP 2.2.2.7.: Kufsteiner Pl. 5: Neubau eines Mehrfamilienhauses mit 6 Wohnungen und 3 Büroeinheiten sowie einer Tiefgarage
+- TOP 2.2.2.8.: Stargarder Str. 8: Neubau eines Einfamilienhauses mit Garage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Mühlbaurstraße, Nordseite östlich Einmündung Röntgenstraße: Verlängerung des Haltverbots; Anhörung des Mobilitätsreferats
+- TOP 2.3.2.: Baumaßnahmen Rennbahnstraße; Rückmeldung des Baureferats zum BA-Beschluss aus der letzten Sitzung
+- TOP 2.3.3.: Novellierung der StVO; Beschlussfassung des BA 13 zu Tempo 30-Prüfungen 1. Bülowstraße zwischen Herkomerplatz und Gebelestraße 2. Kufsteiner Platz; Rückmeldung des Mobilitätsreferats
+- TOP 2.3.4.: Verkehrssicherheit für die Kita Hochstiftsweg; Antrag der CSU-Fraktion
+- TOP 2.3.5.: Behinderung durch E-Roller auf dem Gehweg in der Oberföhringer Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.7.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget SV Helios-Daglfing „Aufbau einer Pickleball-Abteilung vom 15.03.2025 - 01.08.2025“ 572,97 € / AZ: 0262.0-13-0493
+- TOP 2.4.2.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit e.V. „Sommerfest im 13er am 11.07.2025“ 6.110,40 € / AZ: 0262.0-13-0495
+- TOP 2.4.3.: (E) Stadtbezirksbudget Init. "Wandgestaltung" „Wandgestaltung Riedenburger Phase 3 vom 01.07.2025 - 31.08.2025“ AZ: 0262.0-13-0487/ 4.000,00 €
+- TOP 2.4.4.: (E) Stadtbezirksbudget Förderverein Grundschule an der Stuntzstraße e.V. „Tanzprojekt vom 14.07.2025 - 18.07.2025“ 6.472,50 € / AZ: 0262.0-13-0488
+- TOP 2.4.5.: (E) Stadtbezirksbudget KunstMobil München e. V. Die Kunst-Koffer® kommen vom 10.03. - 31.12.2024 5.000,00 €; Az. 0262.0-13-0485 - Rückmeldung des Antragstellers zum Beschluss des BA 13 aus der März-Sitzung -
+- TOP 2.4.6.: (E) Stadtbezirksbudget Kollektiv pong&pengo Treffpunkt Kiosk PONG - Anlaufstelle für die Impuls und Zwischennutzungstage vom 20. - 29.06.2025 2.000,00 €; Az. 0262.0-13-0498
+- TOP 2.4.7.: Mehr Mitentscheidungsrechte für die Bezirksausschüsse; Anhörung des Direktoriums
+- TOP 2.4.8.: Ergänzung Anhörungsrecht Sondernutzungsrichtlinien; Anhörung des Direktoriums
+- TOP 2.4.9.: Anschaffung von weiteren 35 Ferienpässen
+- TOP 2.4.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.11.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Runder Tisch: Abstimmung Ganztagsversorgung und Raumplanung Knappertbusch- und Ruth-Drexel-Grundschule; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.5.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.3.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Parkanlage am Bichlhofweg/Isabella-Braun-Weg: Aufwertung zu Fledermauspark - Vorstellung der Planungen -
+- TOP 2.6.1.2.: Thomas-Mann-Allee: mehr Baumpflanzungen; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.3.: Errichtung einer Outdoor-Fitnessanlage am Böhmerwaldplatz; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.4.: Aufwertung des Spielplatzes in der Hagelstangestraße als Bestellung städt. Leistung; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.5.: Verschiedenes, Termine
+- TOP 2.6.1.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.7.: Mobilfunk-Suchkreis am Galileiplatz; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Grüntal 22
+- TOP 2.6.2.2.: Gotthelfstr. 34
+- TOP 2.6.2.3.: Ismaninger Str. 92
+- TOP 2.6.2.4.: St. Emmeram 1
+- TOP 2.6.2.5.: Höslstr. 24 - 34
+- TOP 2.6.2.6.: Elektrastr. 28 - 40
+- TOP 2.6.2.7.: Bernt-Notke-Weg 7
+- TOP 2.6.2.8.: Mauerkircherstr. 85
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Stadtbezirksbudget Init. "Wandgestaltung" „Wandgestaltung Riedenburger Phase 3 vom 01.07.2025 - 31.08.2025“ AZ: 0262.0-13-0487/ 4.000,00 € - Vorstellung durch Antragsteller -
+- TOP 2.7.2.: Gottesdienst im Rahmen der Fronleichnamsprozession des Pfarrverbands Bogenhausen Süd am 22.06.2025, Moselstr./Ecke Schwarzwaldstr.; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.3.: Sommerfest der Kirchengemeinde Immanuel-Nazareth am 06.07.2025 in der Burgauerstr. 58; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.5.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Eugen-Jochum-Straße 1 - 3: Aufhebung eines Parkplatzes und Bitte nach Gehwegabsenkung
+- TOP 6.2.: Schulwegsicherheit: Verkehrsregulierung in der Meistersingerstraße
+- TOP 6.3.: Hohenlindener Str. 5: Herstellung öffentlicher Flächen - Rückmeldung des Staatliches Bauamts Regensburg zum Beschluss des BA 13 -
+- TOP 6.4.: Fahrradparkplatz vor Gemingstr. 1; Anliegen aus der Bürgerschaft - Rückmeldung des Mobilitätsreferats zum Beschluss des BA 13 -
+- TOP 6.5.: Bebauungsplan 43d: Öffnung der Flächen, Wege und der Durchgang von der Johanneskirchner Straße zur Grimmeisenstraße
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingegangene Verwendungsnachweise
+- TOP 7.1.2.: MünchenBudget
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Information über Baubeginn der Sanierungsmaßnahme BSA Fritz-Lutz-Str. 23, vorübergehende Sperrung Walter-Meckauer-Weg (Zamiliapark) für Radfahrer
+- TOP 7.2.2.: Krähensichere Mülleimer mit Deckel - Rückmeldung des Baureferats -
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Teilstrategie Urbane Logistik – Finanzierungsbeschluss über eine kostenneutrale Aufstockung des finanziellen Rahmens im EU Projekt metaCCAZE zum Betrieb eines innovativen Radlogistik-Hubs Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2025 – 2027
+- TOP 7.3.2.: (U) Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unterrichtung über unveränderte Gaststättenfortführung: - Arabellastr. 30 - Wilhelm-Dieß-Weg 2
+- TOP 7.5.2.: Temporäre Kunstaktion "Auf engstem Raum" vom 03.06.-15.07.2025 am Prinzregentenplatz - Rückmeldung des Kreisverwaltungsreferats zum BA-Beschluss -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Regionale Kooperation stärken IV; Sachstandsbericht
+- TOP 7.7.2.: Havelstr. 10
+- TOP 7.7.3.: Am Eschbichl 37
+- TOP 7.7.4.: Tittmoninger Str. 5
+- TOP 7.7.5.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 7.7.6.: St. Emmeram 45
+- TOP 7.7.7.: Kopernikusstr. 1
+- TOP 7.7.8.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 7.7.9.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 7.7.10.: Savitsstr. 25
+- TOP 7.7.11.: Neckarstr. 28
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Vollzug der Zweckentfremdungssatzung: - Höslstr. 18 - Krausstr. 3 - Hohensalzaer Str. 5
+- TOP 7.9.2.: (U) Unterkünfte für Geflüchtete in Englschalking/Daglfing
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: Anfrage - Ehrenamt muss abgesichert sein (BA-Antrag Nr. 20-26 / B 07293) - Rückmeldung des Bayerischen Finanzministeriums -
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.12.1.: (U) Finanzielle Entlastung durch Stadtwerke München für Geschädigte von Heizkostenwucher Empfehlung Nr. 20-26 / E 02527 der Bürgerversammlung des Stadtbezirks 25 - Laim am 28.11.2024
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 7.15.2.: Kommunale Wärmeplanung der Stadt München
+- TOP 7.15.3.: Mobilfunkmaßnahmen: - Arabellastraße - Stefan-George-Ring - Parkplatz S-Bahnhof Johanneskirchen
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.16.1.: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München im Zeitraum 2022 - 2024
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 8.4.1.: Schulhausöffnung des Wilhelm-Hausenstein-Gymnasiums am 3. Mai 2025
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.12.: (E) Stadtbezirksbudget Stiftung Pfennigparade „Inklusives Sport- und Spielfest am 24.05.2025“ 4.4830,00 € / AZ: 0262.0-13-0496
+- TOP 2.7.6.: Fit im Park der LHM ab 22.05.2025 bis 24.07.2025; Anhörung des Kreisverwaltungsreferats
+- TOP 3.2.1.: Vorbescheidsantrag prüfen; Dringlichkeitsantrag der CSU-Fraktion
+- TOP 3.2.2.: Verschiebung der Sondersitzung zum Thema "Parklizenzierung"; Antrag der SPD-Fraktion
