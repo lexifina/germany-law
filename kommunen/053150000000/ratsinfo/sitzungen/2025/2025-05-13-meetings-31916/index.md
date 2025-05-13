@@ -1,0 +1,77 @@
+# 44. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-13T16:07:00+02:00
+- Ende: 2025-05-13T18:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31916
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31916
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Deutzer Hafenbahn für zukünftige rechtsrheinische Gürtelbahn erhalten - geändert beschlossen
+- TOP -: Deutzer Hafenbahn für zukünftige rechtsrheinische Gürtelbahn erhalten - hier: Stellungnahme zum Antrag der Fraktionen SPD und Die Linke (AN/0253/2025) - Kenntnis genommen
+- TOP -: Änderungsantrag zu Top 1.1, Deutzer Hafenbahn für zukünftige rechtsrheinische Gürtelbahn erhalten - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Beschluss der Bezirksvertretung Innenstadt - Luxemburger Straße im Bereich der Innenstadt AN/1639/2024 - geändert beschlossen
+- TOP -: Lebenswerte Luxemburger Straße - endgültig abgelehnt
+- TOP -: Änderungsantrag zu den TOPs 2.1 und 2.2 – Beschluss der BV Innenstadt – Luxembur-ger Straße im Bereich der Innenstadt AN/1639/2024 (0297/2025) und Beschluss der BV Lindenthal – Luxemburger Straße im Bereich von Lindenthal AN/0021/2025 (0573/2025) - ungeändert beschlossen
+- TOP 2.2: Beschluss der Bezirksvertretung Lindenthal - Luxemburger Straße im Bereich von Lindenthal//AN/0021/2025 - geändert beschlossen
+- TOP -: Lebenswerte Luxemburger Straße - endgültig abgelehnt
+- TOP -: Änderungsantrag zu den TOPs 2.1 und 2.2 der SPD-Fraktion vom 12.05.2025 - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.2, Beschlussvorlage 3789/2024 - Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - zurückgestellt
+- TOP -: Stellungnahme zum Änderungsantrag der Gruppe Klimafreunde und Gut vom 23.01.2025 - zurückgestellt
+- TOP 3.2: RadPendlerRouten-Netz Köln: RadPendlerRoute Köln Innenstadt - Nippes - Chorweiler - Dormagen - geändert beschlossen
+- TOP 3.3: Bedarfsfeststellungs- und Baubeschluss für die Installation einer Video- Überwachaungsanlage mit zugehöriger Sprachalarmierungsanlage im Rheinufertunnel - ungeändert beschlossen
+- TOP 3.4: Beendigung Verkehrsversuch Venloer Straße und Verstetigung der Einbahnstraße - ungeändert beschlossen
+- TOP 3.5: Baubeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestelle Junkersdorf - mit Änderungen empfohlen
+- TOP -: Änderungsantrag Haltestelle Junkersdorf, Variante 10 - ungeändert empfohlen
+- TOP 4.2: Bedarfsfeststellungs- und Planungsbeschluss für die Generalsanierung Tunnel Tunisstraße - ungeändert empfohlen
+- TOP 4.3: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Bergerstraße in Köln - Porz - ohne Votum behandelt
+- TOP 4.4: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke Köln, Planfeststellungsabschnitt 1.2 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu Top 4.4, Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke Köln, Planfeststellungsabschnitt 1.2 - ungeändert empfohlen
+- TOP 4.5: Satzung über die abweichende Herstellung der Erschließungsanlage Hitzelerstraße von Brühler Straße bis westliche Grenze Flurstück 2242 in Köln-Raderthal - ungeändert empfohlen
+- TOP 4.6: Baubeschluss für die Sanierung der Stützwände an der Universitätsstraße/Albertus-Magnus-Platz in Köln-Lindenthal - ungeändert empfohlen
+- TOP 4.7: Entwicklungsplanung Weststadt, hier: Grundsatzbeschluss über die Ergebnisse der Entwicklungsplanung Weststadt inklusive der Projekte Low Line und Coty-Areal - ohne Votum behandelt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Hier: Eisenbahnkreuzungsmaßnahmen Deutz-Mülheimer Straße - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und der Fraktion Volt aus der Sitzung des Verkehrsausschusses vom 28.01.2025 (AN/0121/2025) zu Eisenbahnkreuzungsmaßnahmen an der Deutz-Mülheimer Straße. - Kenntnis genommen
+- TOP 5.1.2: Ausbau der Barrierefreiheit bei der KVB
+- TOP -: Ausbau der Barrierefreiheit bei der KVB
+- TOP 5.1.3: Zugverbindung Köln-London - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 18.03.25 betr. „Zugverbindung Köln-London", AN/0310/2025 - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: SPD Anfrage BV8 aus 2022 "Befahrung der Steprathstraße in Köln Kalk mit LKW über 7,5t" - zurückgestellt
+- TOP 5.2.2: Umsetzung der Radachsen nach Beschluss zur Ost-West-Achse - zurückgestellt
+- TOP 5.2.3: Zweiter Zugang für die Haltestelle Zülpicher Platz - zurückgestellt
+- TOP 5.2.4: Wegfall von Parkplätzen in der Innenstadt - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Verkehrsausschusses am 13.05.2025 betr. "Wegfall von Parkplätzen in der Innenstadt", AN/0606/2025 - zurückgestellt
+- TOP 5.2.5: Sperrung Auenweg - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Bundesprogramm „Förderung von Investitionen in nationale Projekte des Städtebaus“ Projekte des Mantelprojektes „Via Culturalis und die Quartiere der Domumgebung“, Umgestaltung der Gürzenichstraße - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Masterplan Ingenieurbauwerke - Bauwerkszustand 2025 - Kenntnis genommen
+- TOP 6.2.2: Wiederaufstellung der Fahrradständer in der Trankgasse und Möblierung der vom Verkehr freigestellten Flächen - Kenntnis genommen
+- TOP 6.2.3: Städtebaulicher Masterplan Innenstadt – Lupenraum Via Culturalis - Kenntnis genommen
+- TOP 6.2.4: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 6.2.5: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte zum Stichtag 31. Dezember 2024 - Kenntnis genommen
+- TOP 6.2.6: Kraftfahrzeuge in Köln - Ergebnisse der Kraftfahrzeugstatistik zum 31.12.2024 - Kenntnis genommen
+- TOP 6.2.7: Radschnellweg Köln-Frechen, aktueller Sachstand - Kenntnis genommen
+- TOP 6.2.8: Sachstand zur Umsetzung des Maßnahmenpakets „Wohnungsbau stärken“ - Kenntnis genommen
+- TOP 6.2.9: Machbarkeitsstudie zur Verbesserung der SPNV-Verbindungen zwischen Köln und Düsseldorf über Leverkusen Opladen und Solingen (S1/S17) - Kenntnis genommen
+- TOP 6.2.10: Fachgespräch Kalker Hauptstraße - zurückgestellt
+- TOP 6.2.11: Planung eines die Kölner Innenstadt umschließenden Inneren Radwegerings - zurückgestellt
+- TOP 6.2.12: Sachstandsbericht zu den RadPendlerRouten in Köln - Kenntnis genommen
+- TOP 6.2.13: Kapazitätserweiterung auf der Ost-West-Achse - weiteres Vorgehen und Sachstand - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
