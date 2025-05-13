@@ -1,0 +1,61 @@
+---
+ecli: "ECLI:DE:BFH:2025:B.130525.VIIIB33.24.0"
+court: "Bundesfinanzhof"
+aktenzeichen: "VIII B 33/24"
+decided: "2025-05-13"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/STRE202520144.xml"
+neuris_doknr: "STRE202520144"
+---
+
+# Bundesfinanzhof, VIII B 33/24 vom 2025-05-13
+
+## Leitsatz
+
+1. NV: Es ist in der Rechtsprechung des Bundesfinanzhofs geklärt, dass eine verdeckte Gewinnausschüttung (vGA) beim Gesellschafter schon dem Grunde nach nicht davon abhängt, ob der Vorgang bei der Gesellschaft eine Minderung des Unterschiedsbetrags ausgelöst hat.4
+
+2. NV: Durch die unentgeltliche Übertragung eines weiteren Geschäftsanteils von der Gesellschaft erhält der Alleingesellschafter ein Wirtschaftsgut, über das er vorher so nicht verfügen konnte. Darin liegt für ihn dem Grunde nach ein Vermögensvorteil.14
+
+## Tenor
+
+Die Beschwerde der Kläger wegen Nichtzulassung der Revision gegen das Urteil des Finanzgerichts Baden-Württemberg vom 01.03.2024 - 5 K 2301/21 wird als unbegründet zurückgewiesen.
+
+Die Kosten des Beschwerdeverfahrens haben die Kläger zu tragen.
+
+## Gründe
+
+1 Die Beschwerde ist unbegründet. Die geltend gemachten Gründe für die Zulassung der Revision liegen nicht vor.
+
+2 1. Die Sache hat keine grundsätzliche Bedeutung (§ 115 Abs. 2 Nr. 1 der Finanzgerichtsordnung --FGO--).
+
+3 a) Die Kläger und Beschwerdeführer (Kläger) halten die Frage, ob eine verdeckte Gewinnausschüttung (vGA) nach § 20 Abs. 1 Nr. 1 Satz 2 des im Streitjahr geltenden Einkommensteuergesetzes (EStG) auf Ebene der Gesellschaft eine Vermögensminderung voraussetzt, die sich auf den Unterschiedsbetrag gemäß § 4 Abs. 1 Satz 1 EStG i.V.m. § 8 Abs. 1 des im Streitjahr geltenden Körperschaftsteuergesetzes (KStG) auswirkt, für grundsätzlich bedeutsam.
+
+4 Diese Frage hat keine grundsätzliche Bedeutung. Sie ist nach der Rechtsprechung des Bundesfinanzhofs (BFH) eindeutig zu verneinen. Der für die Besteuerung der Kapitaleinkünfte und mithin auch für die Definition der vGA in § 20 Abs. 1 Nr. 1 Satz 2 EStG allein zuständige beschließende Senat hat zuletzt wiederholt bestätigt, dass die materiell-rechtliche Behandlung einer potentiellen vGA auf der Ebene der Gesellschaft keine Bindungswirkung für die materiell-rechtliche Behandlung desselben Vorgangs auf Ebene des Gesellschafters hat (zuletzt: BFH-Urteile vom 22.10.2024 - VIII R 23/21, BStBl II 2025, 33, Rz 23; vom 01.10.2024 - VIII R 4/21, BFH/NV 2025, 157, Rz 27). Über Grund und Höhe einer vGA haben das Körperschaftsteuerfinanzamt und das für die Einkommensteuerveranlagung des Anteilseigners zuständige Finanzamt jeweils unabhängig voneinander (das heißt selbständig) zu entscheiden; der Körperschaftsteuer- und der Einkommensteuerbescheid stehen sowohl vor als auch nach Einführung des Halbeinkünfteverfahrens und vor Geltung des § 32a KStG als auch für Zeiträume danach nicht im Verhältnis eines Grundlagen- und Folgebescheids gemäß § 171 Abs. 10, § 175 Abs. 1 Satz 1 Nr. 1 der Abgabenordnung (BFH-Beschluss vom 12.06.2018 - VIII R 38/14, BFH/NV 2018, 1141, Rz 14). Diese eher verfahrensrechtlich begründete Eigenständigkeit der Begriffe ist vor dem Hintergrund zu sehen, dass der vGA-Begriff in § 8 Abs. 3 Satz 2 KStG und derselbe Begriff in § 20 Abs. 1 Nr. 1 Satz 2 EStG unterschiedlich zu verstehen sind. Insbesondere setzt eine vGA gemäß § 20 Abs. 1 Nr. 1 Satz 2 EStG nicht voraus, dass der dem Anteilseigner gewährte Vorteil einer Minderung des Unterschiedsbetrags bei der Gesellschaft entspricht (BFH-Beschluss vom 30.05.2023 - VIII B 15/22, BFH/NV 2023, 964). Daraus ergibt sich zugleich, dass eine vGA beim Gesellschafter schon dem Grunde nach nicht davon abhängt, ob der Vorgang bei der Gesellschaft eine Minderung des Unterschiedsbetrags ausgelöst hat.
+
+5 Dies zugrunde gelegt, kommt es bei der Prüfung, ob der Kläger im Streitjahr 2016 dem Grunde nach Einkünfte aus einer vGA erzielt hat, nicht darauf an, ob der zu beurteilende Vorgang auf der Ebene der Gesellschaft eine Vermögensminderung auslöst, die sich auf den Unterschiedsbetrag auswirkt. Eine vGA kann beim Kläger als Gesellschafter vielmehr auch dann anzunehmen sein, wenn derselbe Vorgang auf der Ebene der Gesellschaft keine Vermögensminderung auslöst, die sich auf den Unterschiedsbetrag auswirkt.
+
+6 Die Begründung der Nichtzulassungsbeschwerde gibt keine Veranlassung, die Frage einer erneuten Überprüfung zu unterziehen. Zwar wird aufgezeigt, dass die Frage auch vom beschließenden Senat in der Vergangenheit nicht immer so eindeutig beantwortet worden ist wie zuletzt. Die Begründung der Nichtzulassungsbeschwerde zeigt aber keine Gründe auf, weshalb die zuletzt eindeutige und klare Rechtsprechung im Hinblick auf eine stärkere Kohärenz der Begriffe einer erneuten Überprüfung bedürfte.
+
+7 Gerade der vorliegende Fall gibt dafür keine Veranlassung. Mit der Einfügung von § 272 Abs. 1a und Abs. 1b des Handelsgesetzbuchs durch das Bilanzrechtsmodernisierungsgesetz vom 25.05.2009 (BGBl I 2009, 1102) hat der Gesetzgeber rechtsformunabhängig angeordnet, dass eigene Anteile in der Handelsbilanz der Gesellschaft auf der Passivseite auszuweisen sind. Nach der Vorstellung des Gesetzgebers liegt beim Erwerb eigener Anteile wirtschaftlich eine Auskehrung frei verfügbarer Rücklagen an den oder die Anteilseigener vor (Kapitalherabsetzung) und bei der Veräußerung eigener Anteile --spiegelbildlich-- eine Kapitalerhöhung (BTDrucks 16/10067, S. 65, 66). Dies beruht auf der Annahme, dass die mit dem Anteil verbundenen Gesellschafterrechte leerlaufen, solange die Gesellschaft den Anteil selbst hält. Für die Gesellschaft hat der eigene Anteil wirtschaftlich keinen Wert; für sie ist er folglich auch kein Wirtschaftsgut.
+
+8 Aus der Sicht des Gesellschafters gilt das nicht. Veräußert ein Gesellschafter seinen Anteil an die Gesellschaft, handelt es sich (aus seiner Sicht) um ein Veräußerungsgeschäft. Er überträgt ein Wirtschaftsgut auf einen anderen und erhält dafür eine Gegenleistung. Dies gilt auch für die Rechtslage nach dem Bilanzrechtsmodernisierungsgesetz (BFH-Urteil vom 06.12.2017 - IX R 7/17, BFHE 260, 163, BStBl II 2019, 213). Ob der Erwerber (hier die Gesellschaft) aus demselben Vorgang ein Wirtschaftsgut erhält, ist nicht entscheidend. Dem schließt sich der Senat ausdrücklich an. Umgekehrt gilt Entsprechendes. Mit der Übertragung des (bis dahin eigenen) Anteils leben die mit ihm verbundenen Gesellschafterrechte wieder auf; beim Erwerber (hier: dem Kläger) ist der Anteil wieder ein Wirtschaftsgut. Sofern es sich um einen aus der Sicht des Erwerbers entgeltlichen Vorgang handelt, stellt sich der Vorgang bei ihm deshalb als Anschaffung dar, wobei der Erwerb durch eine vGA grundsätzlich unentgeltlich ist.
+
+9 Dies belegt anschaulich, dass sich der Erwerb und die Veräußerung eigener Anteile auf der Gesellschaftsebene einerseits und beim Gesellschafter andererseits wirtschaftlich und rechtlich unterschiedlich darstellen. Dieser Befund strahlt auch auf das Verständnis des vGA-Begriffs aus. Er kann geradezu als Beleg dafür angesehen werden, dass die gleichlautenden Begriffe der vGA in § 8 Abs. 3 Satz 2 KStG und § 20 Abs. 1 Nr. 1 Satz 2 EStG einen unterschiedlichen Inhalt haben und unabhängig voneinander sind beziehungsweise sein müssen.
+
+10 b) Die Kläger werfen weiter die Frage auf, ob sich die Veräußerung eigener Anteile bei der Gesellschaft seit dem Bilanzrechtsmodernisierungsgesetz auf den Unterschiedsbetrag gemäß § 4 Abs. 1 Satz 1 EStG i.V.m. § 8 Abs. 1 KStG auswirkt.
+
+11 Die Frage lässt sich dahin konkretisieren, ob die durch das Bilanzrechtsmodernisierungsgesetz geänderte handelsbilanzielle Darstellung eigener Anteile steuerliche Auswirkungen bei der Gesellschaft hat und um welche Auswirkungen es sich handelt. Die Frage ist im vorliegenden Verfahren nicht klärungsfähig, weil der Senat die erste Frage eindeutig verneint. Da der Begriff der vGA auf Gesellschafterebene nicht identisch ist mit dem Begriff der vGA auf Gesellschaftsebene und da auch die tatsächliche Behandlung des Vorgangs auf der Gesellschaftsebene keine Auswirkungen auf die Besteuerung des Gesellschafters hat, bedarf es im vorliegenden Verfahren keiner Klärung, ob und gegebenenfalls welche Auswirkungen der (geänderte) handelsbilanzielle Ausweis eigener Anteile auf die Besteuerung der Gesellschaft haben könnte.
+
+12 c) Schließlich wollen die Kläger geklärt wissen, ob nach dem Bilanzrechtsmodernisierungsgesetz die unentgeltliche Übertragung eigener Anteile an den Alleingesellschafter einen nach § 20 Abs. 1 Nr. 1 Satz 2 EStG steuerbaren Vermögensvorteil darstellt.
+
+13 Nach ständiger Rechtsprechung des Senats liegt beim Gesellschafter eine vGA im Sinne des § 20 Abs. 1 Nr. 1 Satz 2 EStG vor, wenn die Kapitalgesellschaft ihrem Gesellschafter außerhalb der gesellschaftsrechtlichen Gewinnverteilung einen Vorteil zuwendet und diese Zuwendung ihren Anlass im Gesellschaftsverhältnis hat (ständige Rechtsprechung, vgl. BFH-Urteil vom 01.10.2024 - VIII R 4/21, BFH/NV 2025, 157, Rz 28). Ein Vermögensvorteil liegt beim Gesellschafter vor, wenn dieser über ein bestimmtes, messbares Gut in Geld oder Geldeswert verfügen kann; eine vGA ist beim Gesellschafter zu erfassen, sobald ihm der Vermögensvorteil zufließt (BFH-Urteil vom 01.10.2024 - VIII R 4/21, BFH/NV 2025, 157, Rz 29).
+
+14 Dies zugrunde gelegt, ist die von den Klägern aufgeworfene dritte Frage eindeutig zu bejahen. Wie dargelegt, erhält der Gesellschafter (aus seiner Sicht) bei der Übertragung eines (eigenen) Anteils von der Gesellschaft auf ihn ein Wirtschaftsgut, das er vorher nicht hatte. Für ihn ist der Anteil ein messbares Gut in Geldeswert. Er kann den Anteil veräußern oder anderweitig über ihn verfügen. Das war ihm nicht möglich, solange die Gesellschaft Inhaberin des Anteils war. Darin liegt für ihn dem Grunde nach ein Vorteil. Da der übertragene Anteil nicht Gegenstand einer offenen Ausschüttung war, ist aus der Sicht des Gesellschafters der Tatbestand einer vGA (Sachzuwendung) dem Grunde nach erfüllt. Davon ist das Finanzgericht (FG) zu Recht ausgegangen.
+
+15 Dem können die Kläger nicht mit Erfolg entgegenhalten, dass der Kläger bereits vorher (faktischer) Alleingesellschafter war, dass eine erneute Ausgabe des bis zur Übertragung nicht ihm zuzurechnenden Geschäftsanteils an einen Dritten ohne seine satzungsmäßig erforderliche Zustimmung nicht möglich gewesen wäre, und dass er den Anteil auch hätte einziehen lassen können. Das mag alles zutreffen, ändert aber nichts daran, dass der Kläger nach der Übertragung des eigenen Anteils --und anders als im Fall der Einziehung-- über ein geldwertes Wirtschaftsgut verfügt, über das er vorher so nicht verfügen konnte. Für eine generelle Einschränkung des Vorteilsbegriffs sieht der Senat insoweit keine Veranlassung. Dafür ergibt sich auch nichts aus der Beschwerdebegründung.
+
+16 Damit ist nicht gesagt, wie der Vorteil beim Gesellschafter zu bewerten ist. Es bedarf im vorliegenden Verfahren, dessen Gegenstand nur das Grundurteil ist, keiner Festlegung, ob der Senat den BFH-Urteilen vom 14.05.1969 - VI R 174/68 (BFHE 95, 537, BStBl II 1969, 501) und vom 16.07.1965 - VI 71/64 U (BFHE 83, 325, BStBl III 1965, 618) noch folgen könnte. Grundsätzlich hält der Senat, ohne dem FG insoweit vorgreifen zu wollen, die Sichtweise des Klägers für nachvollziehbar, dass er durch die Übertragung des Anteils nichts Substantielles hinzugewonnen habe, da er bereits vor der Übertragung (faktisch) Alleingesellschafter gewesen sei. Der Vorteil des Klägers mag deshalb gering, möglicherweise sogar mit Null zu bewerten sein. Dies schließt die Annahme eines Vermögensvorteils dem Grunde nach aber nicht aus. Für das weitere Verfahren weist der Senat nur darauf hin, dass eine Mehrfachbesteuerung, zu der es kommen könnte, wenn im ersten Schritt eine vGA und im zweiten Schritt ein Veräußerungsgewinn gemäß § 17 EStG (zum Beispiel bei Anschaffungskosten von null €) besteuert wird, vermieden werden muss.
+
+17 2. Da die Sache keine grundsätzlich bedeutsamen Fragen aufwirft, ist die Revision auch nicht zur Rechtsfortbildung zuzulassen (§ 115 Abs. 2 Nr. 2 Alternative 1 FGO). Die Fortbildung des Rechts ist ein Unterfall der grundsätzlichen Bedeutung.
+
+18 3. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
