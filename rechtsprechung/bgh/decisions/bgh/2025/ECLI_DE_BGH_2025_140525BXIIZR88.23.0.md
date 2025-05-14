@@ -1,0 +1,43 @@
+---
+ecli: "ECLI:DE:BGH:2025:140525BXIIZR88.23.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "XII ZR 88/23"
+decided: "2025-05-14"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE714002025.xml"
+neuris_doknr: "KORE714002025"
+---
+
+# Bundesgerichtshof, XII ZR 88/23 vom 2025-05-14
+
+## Leitsatz
+
+1. Die Änderung der im Ursprungsmietvertrag vereinbarten Nebenkostenvorauszahlungen stellt unabhängig von ihrer relativen oder absoluten Höhe eine wesentliche und - jedenfalls soweit sie für mehr als ein Jahr erfolgt und nicht jederzeit vom Vermieter widerrufen werden kann - dem Formzwang des § 550 Satz 1 BGB unterfallende Vertragsänderung dar (im Anschluss an Senatsurteil vom 25. November 2015 - XII ZR 114/14, NZM 2016, 98). 4
+
+2. Hat der frühere Vermieter an einer schriftformschädlichen Änderungsvereinbarung mitgewirkt, kann sich der Erwerber des Grundstücks, der gemäß § 566 BGB kraft Gesetzes in die Vermieterstellung eingerückt ist, gegenüber dem Mieter grundsätzlich auch dann auf den dadurch herbeigeführten Formmangel des Mietvertrages berufen, wenn dies dem früheren Vermieter selbst nach Treu und Glauben verwehrt gewesen wäre (im Anschluss an BGH, Urteil vom 13. November 1963 - V ZR 8/62, BGHZ 40, 255 und BGH, Urteil vom 30. Mai 1962 - VIII ZR 173/61, NJW 1962, 1388).6
+
+## Tenor
+
+Die Beschwerde gegen die Nichtzulassung der Revision in dem Urteil des 15. Zivilsenats des Oberlandesgerichts Koblenz vom 14. Juli 2023 wird auf Kosten des Beklagten zurückgewiesen.
+
+Wert: bis 5.000 €
+
+## Gründe
+
+1 Die Beschwerde ist nicht begründet. Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts (§ 543 Abs. 2 Satz 1 ZPO).
+
+2 1. In der Rechtsprechung des Bundesgerichtshofs ist geklärt, dass eine Zulassung der Revision nicht schon allein deshalb geboten ist, weil das Berufungsgericht in seinem Urteil unter irrtümlicher Anwendung von §§ 540 Abs. 2, 313 a Abs. 1 Satz 1 ZPO rechtsfehlerhaft von tatbestandlichen Darlegungen abgesehen hat (vgl. BGH Beschlüsse vom 18. September 2014 - V ZR 290/13 - NZM 2014, 912 Rn. 8 mwN und vom 26. Juni 2003 - V ZR 441/02 - NJW 2003, 3208). Beruht dieser Irrtum des Berufungsgerichts - wie es hier offensichtlich der Fall ist und wovon auch die Beschwerde ausgeht - auf einer unzutreffenden Beurteilung der Rechtsmittelbeschwer, liegt darin ein einfacher Rechtsfehler, durch den für sich genommen die Einheitlichkeit der Rechtsprechung nicht gefährdet wird. Das Fehlen der gemäß § 540 Abs. 1 Nr. 1 ZPO erforderlichen Darstellungen zum Tatbestand hat dann im Verfahren der Nichtzulassungsbeschwerde (lediglich) zur Folge, dass der Beschwerdevortrag, soweit er anhand des Berufungsurteils nicht überprüft werden kann, als richtig zu unterstellen ist (vgl. BGH Beschluss vom 16. Mai 2017 - VI ZR 25/16 - NJW 2017, 2561 Rn. 10 mwN).
+
+3 2. Auch im Übrigen vermag die Beschwerde keinen Zulassungsgrund aufzuzeigen. Die von der Beschwerde im Zusammenhang mit dem Umfang des Schriftformerfordernisses nach § 550 BGB und der Treuwidrigkeit einer auf den Schriftformmangel gestützten Kündigung eines Mietvertrages aufgeworfenen Rechtsfragen haben keine grundsätzliche Bedeutung und lassen auch keinen Rechtsfortbildungsbedarf erkennen, weil sie auf der Grundlage der bereits ergangenen Rechtsprechung des Bundesgerichtshofs zweifelsfrei im Sinne der Entscheidung des Berufungsgerichts zu beantworten sind.
+
+4 a) Die Annahme des Berufungsgerichts, dass es sich bei der einvernehmlichen und dauerhaften Erhöhung der im Ursprungsmietvertrag vereinbarten Nebenkostenvorauszahlungen um eine wesentliche und damit dem gesetzlichen Schriftformerfordernis nach § 550 BGB unterliegende Vertragsänderung handelt, ist zutreffend und steht im Einklang mit der Rechtsprechung des Senats. Dieser hat bereits entschieden, dass eine Änderung der Miete unabhängig von ihrer relativen oder absoluten Höhe stets eine wesentliche und - jedenfalls soweit sie für mehr als ein Jahr erfolgt und nicht jederzeit vom Vermieter widerrufen werden kann - dem Formzwang des § 550 Satz 1 BGB unterfallende Vertragsänderung darstellt (vgl. Senatsurteil vom 25. November 2015 - XII ZR 114/14 - NZM 2016, 98 Rn. 17 ff.). Für die Änderung der Nebenkostenvorauszahlungen gilt nach allgemeiner und zutreffender Ansicht nichts anderes (vgl. OLG Dresden NJ 2023, 303, 306; OLG Brandenburg ZMR 2021, 381, 383; Staudinger/Emmerich BGB [2024] § 550 Rn. 70; Guhling/Günter/Schweitzer Gewerberaummiete 3. Aufl. § 550 BGB Rn. 63; Schmidt-Futterer/Lammel Mietrecht 16. Aufl. § 550 Rn. 42; BeckOGK/Harke [Stand: 1. Januar 2025] BGB § 550 Rn. 54; BeckOK MietR/Leo [Stand: 1. Mai 2024] BGB § 550 Rn. 264). Denn Nebenkostenvorauszahlungen sind Bestandteil der Miete im Sinne von § 543 Abs. 2 Nr. 3 BGB (vgl. Senatsurteil vom 23. Juli 2008 - XII ZR 134/06 - NZM 2008, 770 Rn. 31), und die durch das Schriftformerfordernis nach § 550 BGB geschützten Interessen des potentiellen Grundstückserwerbers sind in Bezug auf die Miethöhe gerade darauf gerichtet, sich über eine mögliche Kündigungsrelevanz von Zahlungsrückständen anhand der vom Veräußerer zu überreichenden Urkunden zuverlässig unterrichten zu können. Das diesbezügliche Informationsinteresse des Erwerbers ist deshalb bei einer Erhöhung der Nebenkostenvorauszahlungen auch nicht geringer als bei deren Herabsetzung.
+
+5 b) Es entspricht der ständigen Rechtsprechung des Senats, dass eine Mietvertragspartei grundsätzlich nach § 242 BGB rechtsmissbräuchlich handelt, wenn sie eine nachträglich getroffene Abrede, die lediglich ihr vorteilhaft ist, allein deshalb, weil sie nicht die schriftliche Form wahrt, zum Anlass nimmt, sich von einem ihr inzwischen lästig gewordenen langfristigen Mietvertrag zu lösen, obgleich die Formvorschrift des § 550 BGB, aus der sie dieses Recht ableitet, jedenfalls nach ihrem ursprünglichen Zweck nicht ihren, sondern den Schutz eines Dritten - nämlich eines potentiellen Grundstückserwerbers - im Auge hat (vgl. Senatsurteile BGHZ 216, 68 = NZM 2018, 38 Rn. 41 mwN und vom 25. November 2015 - XII ZR 114/14 - NZM 2016, 98 Rn. 27; vgl. bereits BGHZ 65, 49 = NJW 1975, 1653, 1655).
+
+6 Aus dem Schutzzweck des § 550 BGB folgt indessen zugleich, dass sich der Erwerber des Grundstücks, der kraft Gesetzes (§ 566 Abs. 1 BGB) in die Vermieterstellung eingerückt ist, grundsätzlich auch dann auf den Formmangel des Mietvertrages berufen kann, wenn dies dem früheren Vermieter selbst nach Treu und Glauben verwehrt gewesen wäre (vgl. BGHZ 40, 255, 261 und BGH Urteil vom 30. Mai 1962 - VIII ZR 173/61 - NJW 1962, 1388, 1390; vgl. auch OLG Celle NZM 2017, 526, 527; OLG Dresden MDR 2015, 1226, 1227; OLG Düsseldorf NZM 2005, 147, 148). Dies ist unter den hier obwaltenden Umständen nicht deshalb anders zu beurteilen, weil die konkludente Vereinbarung zur Erhöhung der Nebenkostenvorauszahlung, die zur Schriftformwidrigkeit des Gesamtvertrages geführt hat, später auch die Kläger als Erwerber und neue Vermieter rechtlich und wirtschaftlich begünstigt. Denn das Verdikt des Rechtsmissbrauchs knüpft im Verhältnis der ursprünglichen Vertragsparteien zueinander daran an, dass der frühere Vermieter einerseits am Abschluss der ihn begünstigenden schriftformschädlichen Änderungsvereinbarung selbst mitgewirkt hat und er andererseits aus dem dadurch von ihm mitverursachten Formmangel des gesamten Mietvertrages noch weitere Vorteile zu Lasten des Mieters ziehen will. Ein solcher Vorwurf kann gegenüber dem Erwerber grundsätzlich schon deshalb nicht erhoben werden, weil er am Abschluss der formwidrigen Änderungsvereinbarung nicht beteiligt war (vgl. BGH Urteil vom 30. Mai 1962 - VIII ZR 173/61 - NJW 1962, 1388, 1390). Zwar mögen Sachverhaltskonstellationen denkbar sein, in denen sich der Erwerber mit der Berufung auf den Formmangel des Gesamtvertrages wegen einer vom früheren Vermieter formwidrig abgeschlossenen Änderungsvereinbarung ausnahmsweise selbst rechtsmissbräuchlich verhält (vgl. dazu etwa Staudinger/Emmerich BGB [2024] § 550 Rn. 91; Guhling/Günter/Schweitzer Gewerberaummiete 3. Aufl. § 550 BGB Rn. 86). Hierfür ergeben sich aber weder aus dem angefochtenen Urteil noch aus dem Beschwerdevortrag genügende Anhaltspunkte.
+
+7 3. Von einer weiteren Begründung der Entscheidung wird gemäß § 544 Abs. 6 Satz 2 Halbsatz 2 ZPO abgesehen, weil sie nicht geeignet wäre, zur Klärung von Rechtsfragen grundsätzlicher Bedeutung, zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung beizutragen.
+
+Guhling Botur Krüger
+
+Pernice Recknagel
