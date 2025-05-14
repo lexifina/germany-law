@@ -1,0 +1,52 @@
+# 13. Sitzung des Ausschusses für Wirtschaftsförderung
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-05-14T16:00:00+02:00
+- Ende: 2025-05-14T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/12
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14666
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14666
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_WF_2025_05_14_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00820573.pdf
+
+## Tagesordnung
+
+- TOP -: Bereich Zentrales Vergabebüro
+- TOP 1: Beschlussvorlagen zu Vergaben für Einkäufe und Dienstleistungen
+- TOP 1.1: Vergabenummer: 2024-3751-00007, Lieferung von 11 Rettungstransportwagen nach DIN EN1789:2024-07 oder gleichwertig und DIN 13500:2018-07 oder gleichwertig für das Brand- und Katastrophenschutzamt Dresden - Zustimmung
+- TOP 1.2: Vergabenummer: 2025-1042-00005, Betreibung des Übergangswohnheimes Provianthofstraße 2 und 4 in 01109 Dresden mit einer Kapazität von 110 Plätzen für die Unterbringung von besonderen Bedarfsgruppen, insbes. Personen aus dem Kontext Flucht und Asyl - Zustimmung
+- TOP 1.3: Vergabenummer: 2025-1042-00010, Rahmenvereinbarung für Telefon- und Videodolmetscherleistungen für diverse Ämter der Landeshauptstadt Dresden - Zustimmung
+- TOP 1.4: Vergabenummer: 2025-4012-00002, Unterhalts-, Grund- und Glasreinigung 36. Oberschule, Emil-Ueberall-Straße 34; 37. Grundschule, Stollestraße 34; Turnhalle, Dahlienweg 19; Turnhalle, Stollestraße 34 - Zustimmung
+- TOP 1.5: Vergabenummer: 2025-4012-00003, Unterhalts-, Grund- und Glasreinigung 129. Grundschule, Otto-Dix-Ring 57, 01219 Dresden - Zustimmung
+- TOP 1.6: Vergabenummer: 2025-4012-00004, Unterhalts-, Grund- und Glasreinigung Oberschule Weißig, Gönnsdorfer Weg 1, 01328 Dresden, Grundschule Weißig, Hauptstraße 14, 01328 Dresden - Zustimmung
+- TOP 1.7: Vergabenummer: 2025-4012-00005, Unterhalts-, Grund- und Glasreinigung Förderzentrum Prof. Dr. Rainer Fetscher Dresden Fischhausstraße 12, 01099 Dresden - Zustimmung
+- TOP 1.8: Vergabenummer: 2025-4012-00006, Unterhalts-, Grund- und Glasreinigung Bertolt-Brecht-Gymnasium, Terrassenufer 15, 01069 Dresden - Zustimmung
+- TOP 1.9: Vergabenummer: 2025-5540-00002, Unterhalts-, Grund-, Glasreinigung und Wäscheservice Stadtbezirk Neustadt - Zustimmung
+- TOP 2: Beschlussvorlagen zu Bauvergaben
+- TOP 2.1: 2024-65-00167 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 01 – Erdarbeiten (LB 600 Erdarbeiten, LB 606 Entwässerungskanalarbeiten, LB 608 Drän- und Versickerarbeiten, LB 615 Verkehr - Zustimmung
+- TOP 2.2: Vergabenummer: 2024-65-00202 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten 2025 - 2029 Stadtgebiet Dresden, Los 2 - Maurerarbeiten (LB 630, LB 631 Betonarbeiten, LB 650 Putz- und Stuckarbeiten, LB 651 Gerüstarbeiten, LD 653 - Zustimmung
+- TOP 2.3: Vergabenummer: 2024-65-00203 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025-2029, Stadtgebiet Dresden, Los 08 – Schlosserarbeiten (LB 657 Beschlagarbeiten, LB 660 Metall- und Stahlbauarbeiten) - Zustimmung
+- TOP 2.4: 2024-65-00204 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029 Stadtgebiet Dresden, Los 03 – Dacharbeiten - Zustimmung
+- TOP 2.5: 2024-65-00205 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 4 - Fliesenarbeiten (LB 652 Fliesen- und Plattenarbeiten) - Zustimmung
+- TOP 2.6: 2024-65-00206 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 09 – Verglasungsarbeiten (LB 651 Gerüstarbeiten, LB 661 Verglasungsarbeiten) - Zustimmung
+- TOP 2.7: Vergabenummer: 2024-65-00207 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 06 – Tischlerarbeiten (LB 655 Tischlerarbeiten, LB 657 Beschlagarbeiten) - Zustimmung
+- TOP 2.8: 2024-65-00208 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 10 – Malerarbeiten (LB 650 Putz-und Stuckarbeiten, LB 663 Maler- und Lackierarbeiten) - Zustimmung
+- TOP 2.9: 2024-65-00209 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 11 – Bodenbelagsarbeiten (LB 665 Bodenbelagsarbeiten) - Zustimmung
+- TOP 2.10: 2024-65-00210 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 07 – Parkettarbeiten (LB 656 Parkett- und Holzpflasterarbeiten) - Zustimmung
+- TOP 2.11: Vergabenummer: 2024-65-00211 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 12 – Sanitär- und Heizungsarbeiten (LB 621 Dämm- und Brandschutzarbeiten an techn. Anlagen, LB 680... - Zustimmung
+- TOP 2.12: 2024-65-00218 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 18 – Rohr- und Kanalreinigungsarbeiten (LB 606 Entwässerungskanalarbeiten) - Zustimmung
+- TOP 2.13: Vergabenummer: 2024-65-0219 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 19 – Trockenbauarbeiten (LB 640 Trockenbauarbeiten) - Zustimmung
+- TOP 2.14: 2024-65-00220 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 20 – Landschaftsbauarbeiten (LB 607 Druckrohrleitungen außerhalb von Gebäuden, LB 615 Verkehrswegebauarbeiten, LB 620) - Zustimmung
+- TOP 2.15: 2024-65-00221 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 21 – Sonnenschutzanlagen (LB 712 Sonnenschutzanlagen) - Zustimmung
+- TOP 2.16: Vergabenummer: 2024-65-00222 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 22 – Raumlufttechnische Anlagen (LB 679 Raumlufttechnische Anlagen) - Zustimmung
+- TOP 2.17: Vergabenummer: 2025-65-00001 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 13.1 – Elektrotechnik (LB 682 Nieder- und Mittelspannungsanlagen bis 36 KV) - Zustimmung
+- TOP 2.18: Vergabenummer: 2025-65-00002 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 13.2 – Elektrotechnik Klinikum (LB 682 Nieder- und Mittelspannungsanlagen bis 36 KV) - Zustimmung
+- TOP 2.19: Vergabenummer: 2025-65-00003 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 14 – Blitzschutzanlagen (LB 684 Blizschutzanlagen) - Zustimmung
+- TOP 2.20: Vergabenummer: 2025-65-00005 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2025 - 2029, Stadtgebiet Dresden, Los 17 - Zaunbau - Zustimmung
+- TOP 2.21: Vergabenummer: 2025-65-00010, Ersatzneubau Kita und Hort Heideland, Zum Bahnhof 5, 01108 Dresden, Fachlos 09 - Trockenbau - Zustimmung
+- TOP 2.22: Vergabenummer: 2025-65-00017, Ersatzneubau Kita und Hort Heideland, Zum Bahnhof 5, 01108 Dresden, Fachlos 34 - Starkstrom - Zustimmung
+- TOP 2.23: Vergabenummer: 2025-65-00019, Denkmalgerechte Instandsetzung Römisches Bad, Schloss Albrechtsberg, Bautzner Straße 130, 01099 Dresden, Fachlos 03 - Bauhauptleistungen - Zustimmung
+- TOP 2.24: Vergabenummer: 2025-65-00020, Ersatzneubau Kita Lohmener Straße 8, 01326 Dresden, Fachlos 309 - Trockenbau - Zustimmung
+- TOP 2.25: Vergabenummer: 2025-401-00014, Sanierung Sport- und Pausenfreiflächen Grundschule Cossebaude, Bahnhofstraße 5, 01156 Dresden, Fachlos 01 - Freianlagen, 1. BA - Zustimmung
