@@ -1,0 +1,110 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-05-14T17:00:00+02:00
+- Ende: 2025-05-14T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4914
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4914
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Unübersichtliche und gefährliche Verkehrssituation vor der Wilma-Rudolph-Oberschule (Am Hegewinkel) - beantwortet
+- TOP 3.2: Kältehilfe im Steglitzer Kreisel - beantwortet
+- TOP 3.3: Granitblöcke neben Radverkehrsanlagen - beantwortet
+- TOP 3.4: Welche Konzepte hat der Bezirk bei Festen am Beispiel des Lilienthal-Parks in Lichterfelde an der Schütte-Lanz-Straße? - beantwortet
+- TOP 3.5: Kleine Handgriffe zur Verschönerung des Hermann-Ehlers-Platzes? - beantwortet
+- TOP 3.6: Flächenversiegelung am Teltower Damm (Weg 17) - beantwortet
+- TOP 3.7: Sichere Querung Hildburghauser Straße - schriftlich beantwortet
+- TOP 3.8: Mobiler Kinderbetreuungsservice in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.9: Hitzeschutz an den Schulen im Bezirk - schriftlich beantwortet
+- TOP 3.10: Digitale Passfotos - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Sondermittel der BVV zur Förderung der 650-Jahr-Feier Dahlems - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Berufung eines beratenden Mitgliedes als Vertretung des Bezirksschulbeirats in den Jugendhilfeausschuss für die VI. Wahlperiode der Bezirksverordnetenversammlung Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Sondermittel der BVV für den Heimatverein Steglitz e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Sondermittel der BVV für die Initiative für Hochbegabung e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Sondermittel der BVV für die Katholische Kirchengemeinde Heilige Familie Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Hinweisschilder für öffentliche Toiletten im Stadtpark Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Barrierefreiheit S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Anpassung der Geschäftsordnung: Reihenfolge der Kleinen Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Änderung/Ergänzung der GO der BVV Steglitz-Zehlendorf § 25 Eingaben und Beschwerden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Mehr sichere Radabstellanlagen rund um das Rathaus Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Bezahlbaren Wohnraum bei Nachverdichtungsvorhaben sicherstellen – "Neuköllner Modell für kiezverträglichen Wohnungsbau" in Steglitz-Zehlendorf umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Bedarfsgerechten Wohnraum bei Nachverdichtungsvorhaben sicherstellen – "Neuköllner Modell für kiezverträglichen Wohnungsbau" in Steglitz-Zehlendorf umsetzen - in der BVV abgelehnt
+- TOP 4.19: Verkehrssicherheit in der Theklastraße stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Videoüberwachung und Beleuchtung S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Unebener Gehweg vor dem Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Bauarbeiten A115 - in der BVV abgelehnt
+- TOP 4.23: Fassadenbegrünung als Modellprojekt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Querungshilfen für den Saaleckplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Treppensanierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Ein Name für den Platz im Stadtpark Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Platz nach Elfriede Hengstenberg benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Den Südwesten bei der Verkehrswende nicht komplett abhängen - in der BVV abgelehnt
+- TOP 4.29: Verkehrssicherheit in der Lichterfelder Karwendelstraße erhöhen, Verkehrslärm reduzieren - in der BVV abgelehnt
+- TOP 4.30: Unterstützung für alternative Standorte der Ausstellung "The Vicious Circle" im Bezirk - in der BVV abgelehnt
+- TOP 4.31: Straßenumbenennung sichtbar gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.32: Einen Platz nach Jürgen Bischof benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.33: 30 Jahre Spiegelwand auf dem Hermann-Ehlers-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Möglichkeiten des CO2-Rechners des Umweltbundesamtes nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Pilotprojekt Altspeiseöl-Sammelstelle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: Bezirkskulturbericht regelmäßig zweijährlich im Ausschuss für Bildung und Kultur vorstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.37: Literatur gegen Antisemitismus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.38: Ausbau des Nachtbusnetzes in Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.39: Von-Luck-Straße – Gefährdung durch Straßenpoller beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.40: Werbung an Baugerüsten einschränken – Mieter*inneninteressen schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.41: Mitarbeiterinnen und Mitarbeiter des Bezirksamtes im Umgang gegen Antisemitismus unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Betroffene von Eigenbedarfskündigungen besser unterstützen – das bezirkliche Wohnraumbündnis erweitern - überwiesen
+- TOP 5.2: Schulwegsicherheit Am Heckeshorn – Einrichtung eines Zebrastreifens - überwiesen
+- TOP 5.3: Kreuzung Sundgauer Straße/Berliner Straße - überwiesen
+- TOP 5.4: Bürgersteig für die Galerie Bastian in der Taylorstraße - überwiesen
+- TOP 5.5: Baumleichen durch Neupflanzung ersetzen - überwiesen
+- TOP 5.6: Digitallotsen für die einzelnen Abteilungen im Bezirksamt - überwiesen
+- TOP 5.7: Anpassung an demografische Entwicklungen, wohnungspolitische Erfordernisse und gesellschaftliche Bedürfnisse der “AV Genehmigungskriterien soziale Erhaltungsgebiete” - überwiesen
+- TOP 5.8: Outdoor-Fitness-Anlagen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.9: Verkehrskonzept gegen Schleichverkehr in Nikolassee aufgrund der Sperrung der A100 - überwiesen
+- TOP 5.10: Meldung leerstehender Gewerbeimmobilien - überwiesen
+- TOP 5.11: Prüfung und Konzeption zur Einführung eines smarten Gießmanagements für Bäume und Grünflächen im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.12: Vorgehen gegen das illegale Abstellen von Werbe-Anhängern auf der B1 in Richtung Glienicker Brücke/Potsdam - überwiesen
+- TOP 5.13: Prüfung der Eignung des LeAn®-Systems für das vorausschauende Leerstands- und Ansiedlungsmanagement von Gewerbeimmobilien im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.14: Lebensrettende Schwimminfrastruktur ausbauen – Gesundheit und Schwimmfähigkeit von Kindern und Jugendlichen im Bezirk Steglitz-Zehlendorf sichern - überwiesen
+- TOP 5.15: Informationsstele zur Tagung der 3. Bekenntnissynode der Evangelischen Kirche der Altpreußischen Union im September 1935 im Haus Albrechtstraße 81 A - überwiesen
+- TOP 5.16: Keine Vermietung bezirklicher Räume an Terrorregime und ihre Vorfeldvereine - überwiesen
+- TOP 5.17: Grillen für alle – mindestens zwei nichtkommerzielle Grillflächen für den Bezirk - überwiesen
+- TOP 5.18: Busvorrang an der Scharfestraße ermöglichen - überwiesen
+- TOP 5.19: Vorrang für den Bus Clayallee/Riemeisterstraße - überwiesen
+- TOP 5.20: Lindwerder vor den Grünen retten! - überwiesen
+- TOP 5.21: Parkleitsystem für die Schloßstraße - überwiesen
+- TOP 5.22: Amokalarm-Übungen an allen Schulen in bezirklicher Verantwortung verpflichtend einführen - überwiesen
+- TOP 5.23: Zebrastreifen für den Lichterfelder Ring - überwiesen
+- TOP 5.24: Barrierefreiheit S-Bahnhof Nikolassee - überwiesen
+- TOP 5.25: Erarbeitung einer Strategie zur Sensibilisierung der Arbeitgeber*innen für Frauen in der Menopause - überwiesen
+- TOP 5.26: Gewalt kommt uns nicht in die Tüte! – Aktionstag am 25. November im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.27: Instandsetzung der Bänke auf dem Scheele-Marktplatz (Woltmann-Siedlung) - überwiesen
+- TOP 5.28: Hitzeschutz für die Schülerinnen und Schüler der Dreilinden-Grundschule - überwiesen
+- TOP 5.29: Senatsmittel zur Stärkung queeren Lebens im Bezirk nutzen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Millionen Defizit im Haushalt – wo ist das Geld hin? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Missbilligungsantrag - überwiesen
+- TOP 8.2: Kaufe Auto, kaufe Schmuck – keine illegale Plakatwerbung - überwiesen
+- TOP 8.3: Aufenthaltsqualität auf der Schloßstraße verbessern – Springbrunnen auf dem Franz-Amrehn-Platz instandsetzen - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Einrichtung eines Kinder- und Jugendbeteiligungsgremiums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Digitale Workflows für die BVV - in der BVV abgelehnt
+- TOP 9.3: U3 mit Stammbahn verknoten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
