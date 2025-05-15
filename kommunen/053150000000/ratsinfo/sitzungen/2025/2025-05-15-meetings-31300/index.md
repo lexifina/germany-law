@@ -1,0 +1,81 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-15T17:08:00+02:00
+- Ende: 2025-05-15T19:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31300
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31300
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohneranfrage gemäß § 48 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig abgelehnt
+- TOP 6.2: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Sitzen statt Parken" - ungeändert beschlossen
+- TOP 6.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ungeändert beschlossen
+- TOP 6.4: Ferdinand-Porsche-Straße in Köln-Porz-Eil - Ergebnisse der Anwohner*innenbefragung - geändert beschlossen
+- TOP -: Änderungsantrag der SPD Fraktion "Umbenennung der Ferdinand-Porsche-Str." - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Glashüttenstraße in Köln-Porz - zurückgestellt
+- TOP 7.2: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Salmstaße in Köln-Poll - zurückgestellt
+- TOP 7.3: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Bergerstraße in Köln - Porz - ungeändert empfohlen
+- TOP 7.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nr. 76399/04 Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - ungeändert beschlossen
+- TOP 7.5: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Passendale in Köln-Porz-Westhoven - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Passendale" - zurückgestellt
+- TOP 7.6: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Schulbaumaßnahmenpaket" - geändert beschlossen
+- TOP 7.7: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - ungeändert beschlossen
+- TOP 7.8: Erlass ordnungsbehördliche Verordnung Kaserne Brasseur - ungeändert beschlossen
+- TOP 7.9: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP 7.10: Aufstellungs- und Einleitungsbeschluss vorhabenbezogener Bebauungsplan sowie Aufstellung der 250. Flächennutzunsplanänderung und Beschluss zu frühzeitigen Öffentlichkeitsbeteiligungen Arbeitstitel: Kölner Straße / Hohe Straße in Köln-Ensen - ungeändert empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion "Beschlussvorlage Nr. 1050/20" - endgültig abgelehnt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Verkehrssicherheit auf der Frankfurter Straße zwischen Wahn und Elsdorf" - endgültig zurückgezogen
+- TOP 8.2: Antrag der Fraktionen CDU, SPD und Grüne "Umgestaltung Marktplatz Ensen – Planungen sofort wieder aufnehmen!" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Alternierendes Parken auf der Lülsdorfer Str. wird nicht eingehalten" - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion "Einzäunung Spielplatz Hirschgraben neben Schützenplatz" - zurückgestellt
+- TOP 8.5: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Glascontainer Auf dem Loor, AN der Mühle, Rheinbergstr auf den vorgesehenen Flächen abstellen" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Schaffung einer fußläufigen Verbindung zwischen Salmstraße, der GGS Poller Hauptstraße (Schulpfad) und der Straße Auf dem - zurückgestellt
+- TOP 8.7: Antrag der SPD-Fraktion "Zusätzliche Haltelinie für Kfz auf der Siegburger Straße vor der Einmündung Allerseelenstraße" - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion "Herrichtung eines Weges vom Parkplatz Hubertusweg/Alter Poller Friedhof auf den Poller Damm" - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion "Wiederaufnahme der Gesamtschule Porz" - zurückgestellt
+- TOP 8.10: Antrag der SPD-Fraktion "Prüfung von weiteren Standorten für Rückgabe- und Ausleihstationen des KVB-Fahrradleihsystems" - ungeändert beschlossen
+- TOP 8.11: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Stadtverschönerungsmittel" - ungeändert beschlossen
+- TOP 8.12: Antrag der Fraktionen CDU und Bündnis 90/die Grünen "Verkehrsanbindung neue Feuerwache Porz jetzt planen" - ungeändert beschlossen
+- TOP 8.13: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Kreisverkehr Dülkenstrasse" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Umsetzung der Neugestaltung Steinstraße/Hauptstraße im Stadtbezirk Porz" - endgültig abgelehnt
+- TOP 8.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Keine Vermietung kommunaler Räume in Schulen, Bürgerhäusern und Jugendzentren an die AfD oder ihre nahestehenden Organisationen in Porz“ - zurückgestellt
+- TOP 8.16: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Grünen "Notfall-Verkehrsplanung in Porz-Zündorf" - ungeändert beschlossen
+- TOP 8.17: Dringlichkeitsantrag der SPD-Fraktion "Reinigung der Wege und Parkplätze zu und um den alten Eiler Friedhof und den Friedhof in Leidenhausen" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der FDP aus der Sitzung der Bezirksvertretung 7 (Porz) vom 20.06.2024 betr.: "Bestand und Schutz Biotop" (AN/0932/2024) - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Beantwortung einer Anfrage der CDU und Bündnis 90/Die Grünen der BV Porz vom 31.03.2025 (AN/0415/2025) „Umsetzung eines Planungbeschlusses für den Bau eines Gehweges mit Parkbuchten für die Wohnbebauung in Köln Wahn, Frankfurter Straße 298-316“ - Kenntnis genommen
+- TOP -: Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen "Frankfurter Straße in Porz-Wahn" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Fehlender Baumschutz auf der Alfred-Schütte-Allee, Poll" - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Bodengestaltung Porzer Mitte" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Umsetzungstand von Beschlüssen" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 10.2.2: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.3: AN 0360/2025 Punkt 8.8 Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Zusätzlicher - Kenntnis genommen
+- TOP 10.2.4: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 BauGB des Bebauungsplanentwurfs Nr. 724062/02 Arbeitstitel: Hohe Straße in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung „Kölle Aktiv - das Sportlabor“ – neuer Standort des mobilen Pumptracks in Sülz - Kenntnis genommen
+- TOP 10.2.6: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
