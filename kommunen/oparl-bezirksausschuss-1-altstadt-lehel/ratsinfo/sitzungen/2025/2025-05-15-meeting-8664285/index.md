@@ -1,0 +1,126 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-05-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664285
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664285
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Mehr Mitentscheidungsrechte für die Bezirksausschüsse u.a.; Frist: 29.05.2025
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Sitzungstermine 2026
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Unterstützung bei der Suche nach Räumlichkeiten für ambulanten Pflegedienst im Lehel
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Maximilianstr. 14 Vordergebäude: - Zusammenlegung und Umbau von zwei Ladeneinheiten im Erdgeschoss und im 1.Obergeschoss mit Erweiterung im Kellergeschoss, im 1.Obergeschoss und Erweiterung durch Umnutzung von Büro zu Handel im 2.Obergeschoss; - mit Wand- und Deckendurchbrüchen und Treppenneubau vom EG ins 2.OG sowie Aufzugneubau vom UG ins 2.OG, Abbruch von Bestandstreppen und Deckerschließung über EG und - Neubau eines Hofbauwerks im Innenhof im UG mit einem Glaspavillon und einer Terrassenfläche im EG, Frist: 16.05.2025
+- TOP 3.1.2.: Blumenstr. 37 Neubau eines Wohn- und Kitagebäudes – VORBESCHEID; Frist: 30.05.2025
+- TOP 3.1.3.: Sebastianspl. 6 Umbau einer bestehenden Gastronomiefläche. Einbau einer Vollküche; Frist: 30.05.2025
+- TOP 3.1.4.: Tal 40 Nutzungsänderung eines best. Gastraumes zu einer Ladenfläche, Teilung der Erdgeschossladenfläche zu zwei Nutzungseinheiten; Frist: 30.05.2025
+- TOP 3.1.5.: Tal 42 Nutzungsänderung einer best. Verkaufsfläche zu einer Gaststätte im Erdgeschoss und Obergeschoss des Gebäudes, Teilung der Erdgeschossladenfläche zu zwei Nutzungseinheiten; Frist: 30.05.2025
+- TOP 3.1.6.: Kaufingerstr. 14 Nutzungsänderung der Verkaufsräumlichkeiten eines Modegeschäftes zu Verkauf von Kosmetikartikeln mit Beratung mit Neugestaltung des Eingangsbereiches sowie Anbringung von fünf Fallarmmarkisen im 1.OG; Frist: 30.05.2025
+- TOP 3.1.7.: Theatinerstr. 23 Nutzungsänderung eines Ladengeschäftes zu einer Bäckerei mit Cafebetrieb und Alkoholausschank (Gaststätte) mit 122,76 m² und einer Freischankfläche mit 36 Sitzplätzen und 30,34 m²; Frist: 30.05.2025
+- TOP 3.1.8.: Sendlinger Str. 40 Entkernung und Anbau eines Wohn- und Geschäftsgebäudes und Erweiterung des UGs für Gewerbe, Nutzungsänderung im 1. OG von Wohnen zu Büro, sowie Ausbau des Dachspitzes zu Wohnen; Frist: 30.05.2025
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Antrag auf Erweiterung der Fahrradabstellanlage Unterer Anger 15
+- TOP 1.2.: Zustand Park hinter dem Vater-Rhein-Brunnen zum Wehrsteg, TOP 2024.11 C 4.5
+- TOP 1.3.: Bürger*innenanliegen Ampelschaltungen Sendlinger Tor und Hauptfeuerwache
+- TOP 1.4.: Bürger*innenanliegen Handlauf St. Anna Platz
+- TOP 1.5.: Bürger*innenanliegen Ladesäulen Pacellistraße / Karmeliterstraße
+- TOP 1.6.: Bürger*innenanliegen Parksituation im Mittleren Lehel
+- TOP 2: Entscheidungen
+- TOP 2.1.: Entscheidung über die Projektplanung Oettingenstraße 8 – Errichtung von Fahrradstellplätzen
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Anhörung zur Verkehrssicherheitsmaßnahme in der Maximilianstraße
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Blindenleitlinie Sendlinger Straße Stadtgeburtstag
+- TOP 3.2.2.: Anhörung neuer Standort Fahrradständer Odeonsplatz 12, TOP 2025.02 C 3.2.1
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Wilhelm von Ockham und die Moderne
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget z&#039;sam Zentrum für freiwilliges Engagement, Diakonie München und Oberbayern Freiwilligentag München Mitte vom 27.03. -19.07.2025 1.400,00€; Az. 0262.0-1-0399
+- TOP 2.1.2.: (E) Stadtbezirksbudget Hofspielhaus gGmbH Theater für Alle ohne Eintritt am Kosttor und in der alten Münze vom 11.07. -30.07.2025 9.795,00€; Az. 0262.0-1-0407
+- TOP 2.1.3.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 2.000,00€; Az. 0262.0-1-0405
+- TOP 2.1.4.: (E) Stadtbezirksbudget Init. "Schwabylon" Schwabylon research on display vom 01.06.2025 - 03.06.2025 1.200,00€; Az. 0262.0-1-0409
+- TOP 2.1.5.: (E) Stadtbezirksbudget die urbanauten Kinderprogramm Kulturstrand vom 27.05. - 15.09.2025 3.200,00€; Az. 0262.0-1-0408
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Ledererstr. 10: Antrag Freischankfläche (Schanigarten)
+- TOP 2.2.2.: St.-Anna-Str. 11: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.3.: Rumfordstr. 5: Errichtung Parkplatzfreischankfläche (sog. Schanigarten), TOP 2025.04 D 2.2.2
+- TOP 2.2.4.: Tal 38: Errichtung einer Parkplatzfreischankfläche (sog. Schanigarten), TOP 2025.04 D 2.2.6
+- TOP 2.2.5.: Stollbergstr. 11: Errichtung einer Parkplatzfreischankfläche (sog. Schanigarten)
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Infoveranstaltung zum Weltrecyclingtag am 05.06.2025 (Termin: 19.05.2025)
+- TOP 3.2.: Stadtgeburtstag am 14.-15.06.2025 in der Innenstadt rund um den Marienplatz (Termin: 16.05.2025)
+- TOP 3.3.: Anhörung zu BA-Anträgen; Frist: 03.06.2025 - Ergänzung Anhörungsrecht Sondernutzungsrichtlinien BA-Antrags-Nr. 20-26 / B 07407 des Bezirksausschusses des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt vom 14.01.2025 - Novellierungen der Sondernutzungsrichtlinien BA-Antrags-Nr. 20-26 / B 07491 des Bezirksausschusses des Stadtbezirkes 01 - Altstadt-Lehel vom 23.01.2025
+- TOP 3.4.: "Wiesnzüge Oktoberfest 2025" am 20.09.2025 (Wirteeinzug WEZ) und am 21.09.2025 (Trachten- und Schützenzug TSZ) (Termin: 06.07.2025)
+- TOP 3.5.: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienpl. über Ludwigstr. am 19.06.2025 (Termin: 30.05.2025)
+- TOP 3.6.: Bennofest Frauenplatz am 14. und 15.06.2025 (Termin: 30.05.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP B 4.4.: Mitteilung Mobilfunksuchkreisstandort
+- TOP B 4.5.: (U) Sachstandsbericht zu den SIGNA-Baustellen in der Landeshauptstadt München
+- TOP B 4.6.: (U) Übernahme der Benko-Signa-Immobilien durch die Stadt und Umwandlung in Seniorenresidenzen
+- TOP B 4.7.: Abdruck Bescheid zum Fällungsantrag Maxburgstr. 1
+- TOP B 4.8.: Mariannenstr. 5, Nutzungsänderung einer Wohnung im 2. OG mitte, in eine Einheit nach Art eines Beherbergungsbetriebes (Ferienwohnung), Antwortschreiben Sozialreferat
+- TOP B 4.9.: Eilentscheidung Fällungsantrag wg. Öffentliches Interesse an Fällung mit Ersatzpflanzung BV Blumenstr.- genehmigtes BV in der Wallstr.
+- TOP B 4.10.: Finanzielle Entlastung durch Stadtwerke München für Geschädigte von Heizkostenwucher Empfehlung Nr. 20-26 / E 02527 der Bürgerversammlung des Stadtbezirks 25 - Laim am 28.11.2024
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Starke Verschmutzung um die Grundschule an der Herrnstraße, TOP 25.02 C 1.7, Antwortschreiben Baureferat
+- TOP C 4.3.: Bürger*Innenanliegen Panoramaweg in der Altstadt, TOP 25.02 C 1.3, Antwortschreiben Tourismus Leitung
+- TOP C 4.4.: Systematische Reduzierung des Parkraums im Graggenauviertel
+- TOP C 4.5.: Stadtbezirke 6 und 1; Valleystr. 24, Gotzinger Platz/Seite Thalkirchner Str. und Viktualienmarkt auf Höhe Hausnr. 5; Nächtliche Filmdreharbeiten - 5 Nächte zwischen 30.4. und 28.5.2025; Ausnahmezulassung Immissionsschutz
+- TOP C 4.6.: Tram 16: Verspätung durch Falschparker, BV-Empfehlung Nr. 20-26 / E 01228, Schreiben Mobilitätsreferat
+- TOP C 4.7.: Bürger*innenanliegen Leben in der Innenstadt/Altstadt mit E Scootern, Antwortschreiben Mobilitätsreferat
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Eilentscheidung Praterinsel Anhörungsverfahren für "StrokeArt Fair" vom 1.- 4.5.2025, Termin: 25.04.2025
+- TOP D 4.5.: Eilentscheidung Lesung aus verbrannten Büchern am 10.05.2025 auf dem sog. Odeonsplatz, Termin: 07.05.2025
+- TOP D 4.6.: Ergebnisse der Umfrage zu kultureller Teilhabe, Vielfalt und Diversität in den Münchner Bezirken
+- TOP 2.2.6.: St.-Anna-Str. 11: Erweiterung einer bestehenden Freischankfläche
+- TOP 3.2.1.: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München; Frist: 20.06.2025
+- TOP 3.7.: CSD-Veranstaltung in der Innenstadt am 28. und 29.06.2025 gem. §29 der StVO (Termin: 10.06.2025)
+- TOP 0.1.: Vorstellung Isarmöblierung durch das Baureferat
+- TOP 0.2.: Carsharing-Stellfläche / GAF Fläche Reichenbachstraße siehe TOP C3.2 aus 03/2025 Vorstellung durch das MOR
+- TOP 1.7.: Bürger*innenanliegen Ampel für Radfahrende in der Zweibrückenstraße
+- TOP 1.8.: Interfraktioneller Antrag: Prüfung von Baumstandorten in der Reitmorstraße aufgrund der notwendigen Baumfällung
+- TOP 1.9.: Bürger*innenanliegen zum Kulturstrand / Vater Rhein Brunnen, sowie am Wittelsbacher Brunnen
+- TOP 1.10.: Bürger*innenanliegen Zustand Herzog Wilhelm Straße
+- TOP C 4.8.: Informationen zur Sommerstraße 2025
