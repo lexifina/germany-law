@@ -1,0 +1,80 @@
+# 34. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-05-15T17:00:00+02:00
+- Ende: 2025-05-15T20:11:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7296
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7296
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=452913
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: "Puder-Kiezblock" - für einen verkehrsberuhigten Kiez im Treptower Norden - überwiesen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Berichte der Mitglieder des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Wahl eines Bürgerdeputierten für den Ausschuss für Arbeit, Soziales, Gesundheit, Teilhabe und Inklusion (B) - gewählt
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-31 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Erhalt von P+R-Parkplätzen am S-Bahnhof Altglienicke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Mit der Fähre vom Ostkreuz zum Spreepark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Nahverkehrstangente nicht vergessen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Erhalt des Theaters Adlershof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Energiesparprojekte an Schulen unterstützen - erste Pilotprojekte auf den Weg bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Sondermittel für den "Förderverein Kiezklub Vital e. V." (SM 23-20) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Sondermittel für den "Förderverein KIEZKLUB Bohnsdorf e. V." (SM 23-21) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Installation von insektenverträglich beleuchteten Wartehäusern an den Bushaltestellen "Kienappelweg" (Buslinie 169) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: - Entwurf des vorhabenbezogenen Bebauungsplans 9-73b VE ("Josef-Nawrocki-Straße 8") nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-73b VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Zentren- und Einzelhandelskonzept Treptow-Köpenick 2024 - überwiesen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Bewegt leben - Sportlotsen für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Wünsche der Jugendlichen ernst nehmen - Bedarfsgerechte Informationen ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 10.3: "Walk of Sports" in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Neue Bürgerbeteiligung zum Freiraumkonzept Schmollerplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Anwohnerinformation statt Ignoranz - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Gedenkstätte Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Zukunft Schulstraße im Blick - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Verkehrssicherheit vor der Anna-Seghers-Schule erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Gründung eines Medizinischen Versorgungszentrums - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kein "möbliertes Wohnen auf Zeit" - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Integriertes Konzept für die ambulante ärztliche Versorgung in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Hinweisschilder zum "KIEZKLUB" Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Rekommunalisierung des Pfortendienstes und der Gebäudereinigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Schaffung einer Interventions- und Koordinierungsstelle gegen häusliche Gewalt - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Eingangsbestätigung für E-Mails versenden - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Runder Tisch "Blaulicht" - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Umsetzung des Konzeptes zum Wassersportzentrum Grünau – Vision 2035 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Entfernung verwahrloster Imbisswagen in der Dörpfeldstraße in Adlershof - überwiesen
+- TOP 12.2: Qualität der frühkindlichen Bildung sichern und verbessern - überwiesen
+- TOP 12.3: Verbesserung der Essensversorgung an Grundschulen in Treptow-Köpenick - überwiesen
+- TOP 12.4: Kiezkassen vor parteipolitischer Vereinnahmung schützen - in der BVV abgelehnt
+- TOP 12.5: Ladezone und Kurzzeitparken Sterndamm 83, Johannisthal - überwiesen
+- TOP 12.6: Erhöhte Sichtplattform für barrierefreien Ausblick auf dem Kaisersteg - überwiesen
+- TOP 12.7: Beleuchtung des gemeinsamen Geh- und Radweges auf der Schöneicher Landstraße - überwiesen
+- TOP 12.8: Digitalisierung in Kitas und der ergänzenden Förderung und Betreuung: Verantwortung übernehmen – Software bereitstellen! - überwiesen
+- TOP 12.9: Abstellmöglichkeiten für Fahrräder im Park an der Anlegestelle Grünau schaffen - überwiesen
+- TOP 12.10: Klare Sicht für alle – Brillen spenden, Menschen stärken - überwiesen
+- TOP 12.11: Lichtsignalanlage für die Kreuzung Nipkowstraße / Radickestraße - überwiesen
+- TOP 12.12: Parkraum erhalten und neu schaffen - überwiesen
+- TOP 12.13: Mitteltransparenz zu Kiezkassen aktualisieren - überwiesen
+- TOP 12.14: Gedenktafel zur Befreiung Köpenicks auf dem Platz des 23. April - überwiesen
+- TOP 12.15: Sicheres Wenden auf dem Adlergestell ermöglichen - überwiesen
+- TOP 12.16: Brückenneubau an der Wuhlheide schnellstmöglich umsetzen - überwiesen
+- TOP 12.17: Arbeitsgelegenheiten gemäß § 5 Asylbewerberleistungsgesetz - überwiesen
+- TOP 12.18: Sichtbehinderung durch Poller an der Einmündung Neltestraße beseitigen - überwiesen
+- TOP 12.19: Bürgeramtstermine zuerst für Einwohner des Bezirks - überwiesen
+- TOP 12.20: Beflaggung an Sitzungstagen der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 13: Große Anfragen - (offen)
