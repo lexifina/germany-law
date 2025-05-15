@@ -1,0 +1,72 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-15T18:00:00+02:00
+- Ende: 2025-05-15T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28147
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28147
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 15.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00553512.pdf
+- Ergebnisprotokoll: NachtragsTO vom 15.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00553512.pdf
+- Wortprotokoll: NachtragsTO vom 15.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00553512.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 30.04.2025 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift vom 23.01.2025 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift vom 27.03.2025 - einstimmig beschlossen
+- TOP 4: Kriminalitäts- und Unfallstatistik 2024 im Stadtbezirk 8 - Bericht
+- TOP 5: Vorstellung des MSV Düsseldorf
+- TOP 6: Grundsatzbeschluss zur Neuordnung des Schulstandortes Heidelberger Straße 75 - abweichend beschlossen
+- TOP 6.1: Grundsatzbeschluss zur Neuordnung des Schulstandortes Heidelberger Straße 75 - SCHUA/013/2025 (Änderungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - Empfehlung abweichend beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Spezialmarkt "Düsseldorfer Herbstfestival" im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2025 - einstimmig beschlossen
+- TOP 10: Handwerksausstellung Schützenwiese Unterbach im Jahr 2025 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2025
+- TOP 12: Gestaltung der RRX-Wände im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Polleranlage Gertrudisplatz (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Gubener Straße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Sachstand der Planungs- und Bauprojekte im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Lärmschutz Güterbahnstrecke Rath – Eller und Umbau Bahnübergang Am Hackenbruch (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Barrierefreies Eller (Weiteres Vorgehen) (Anfrage CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Instandsetzung der Friedhofswege Eller Friedhof (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Königsberger Straße - Parkbuchten (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Gumbertstraße 172 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 21: Beleuchtung Auguste-Leven-Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 22: Sicherheit auf dem Schulweg: Einführung von Tempo 30 auf der Bernburger Straße vor dem Gymnasium Eller (Anfrage Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 23: Kurve Roßbachstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Grünstreifen Schlesische Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Fußgängerüberweg Gatherweg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Errichtung einer festen Rotlicht- und Geschwindigkeitsüberwachungsanlage; Höhe Vennhauser Alle 248 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Ampelanlage Sandträger Weg Höhe Hausnummer 68 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Fitnessgeräte auf dem Spiel-und Bolzplatz Wormser Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 29: Diakonie Am Schabernack (Antrag SPD-Fraktion) - vertagt
+- TOP 30: Schlaglöcher auf Straßen und Bürgersteigkanten (Antrag SPD-Fraktion) - zurückgezogen
+- TOP 31: Stromkästen verschönern (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: Einrichtung einer Tempo-30-Zone auf der Bernburger Straße (Antrag SPD-Fraktion) - abgelehnt aufgrund Stimmengleichheit
+- TOP 33: Entfernung eines schützenswerten Baums – eine 100-jährige Platane - auf dem Grundstück Kulturbahnhof Eller und einer Buche auf dem Grundstück der DB (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 34: Brorsstraße – Ertüchtigung Fußgängerüberweg - zur Kenntnis genommen
+- TOP 35: Müllentfernung Gleiskörper Kuthsweg - zur Kenntnis genommen
+- TOP 36: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Errichtung einer Wasserspielanlage auf dem Kinderspielplatz Posener Straße - zur Kenntnis genommen
+- TOP 38: Essbare Stadt - zur Kenntnis genommen
+- TOP 39: Reisholzer Straße 36 (Alte Sparkasse) - zur Kenntnis genommen
+- TOP 40: Ehemalige Stadtsparkasse Lierenfeld - zur Kenntnis genommen
+- TOP 41: Ampel an der Carl-Sonnenschein-Schule - zur Kenntnis genommen
+- TOP 42: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2025 und 2026 - zur Kenntnis genommen
+- TOP 43: Auffrischung/Erneuerungen Zebrastreifen, Markierungen, Piktogramme - zur Kenntnis genommen
+- TOP 44: Gedenkort für das sog. „Kommunale Zigeunerlager Höherweg“ - zur Kenntnis genommen
+- TOP 45: Müllaufkommen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Toiletten auf dem Unterbacher Friedhof - zur Kenntnis genommen
+- TOP 47: Fußgängerüberweg Jägerstraße (Schulwegsicherung GGS Richardstraße) - zur Kenntnis genommen
+- TOP 48: Trinkbrunnen Freiheitplatz / In den Kötten - zur Kenntnis genommen
+- TOP 49: Behebung von Stolperfallen auf Gehwegen - zur Kenntnis genommen
+- TOP 50: Gestaltung der RRX-Wände im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Sachstand der Planungs- und Bauprojekte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Querungshilfe Reichenbacher Weg/Eller Kamp - zur Kenntnis genommen
