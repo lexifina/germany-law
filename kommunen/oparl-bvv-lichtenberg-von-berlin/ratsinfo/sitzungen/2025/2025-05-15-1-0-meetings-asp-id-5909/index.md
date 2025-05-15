@@ -1,0 +1,115 @@
+# 41. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-05-15T17:00:00+02:00
+- Ende: 2025-05-15T22:05:00+02:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5909
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5909
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=424785
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Stopp der Kürzungen im Sozial-, Jugend- Integrations- und Kulturbereich – Für ein soziales und solidarisches Lichtenberg! - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Boulebahnen für Karlshorst - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Teilnahme am Netzwerk "Europa fängt in der Gemeinde an" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlvorschlag zu Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahlvorschlag zu Abberufungen von Mitgliedern aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Nachweisung der im Haushaltsjahr 2022 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Bezirkshaushaltsrechnung 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Artur-Becker-Platz für Alt-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Orankesee auch barrierefrei gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Aktionsplan gegen Queer*feindlichkeit im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Kunst im Park - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Ausnahmeregelungen zur Straßenverkehrsordnung für ambulante Pflege- und Betreuungsdienste - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Sperrgitter Wegeeinmündung zum Kyllburger Weg / Ecke Bitburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Mehr sichere Fahrradabstellmöglichkeiten am Bahnhof Ostkreuz - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Gemeinsame Nutzung des Fußweges Wartenberger Weg - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Flächen mit Waldcharakter auf der Trabrennbahn Karlshorst prüfen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Den Rufbus MUVA retten - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Löschung des Eintrags KGA Falkenhöhe 1932 [Wartenberg] in der Anwendung Ordnungsamt-Online - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Bürger*innenhaushaltsvorschlag umsetzen – endlich wirksame Verkehrsberuhigung im Quartier Lindenhof - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Die Arbeit des KiezKinderLadens mit einem Lagerraum sichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Auflistung der Schulbibliotheken auf der Homepage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Einkommen und Unterkunftsart bei der Unterbringungsgebührenordnung berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Sicher zur Schule - Zebrastreifen in der Nöldnerstraße verstetigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Lokales Kiezgewerbe stärken - Schankvorgarten bei Wolke 7 - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Inventar der Kiezfonds öffentlich sichtbar und für jedermann erreichbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Sondermittelantrag - Familienfest am Lichtenberger Familienrenntag 07.09.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Anmeldung für das Investitionsprogramm 2025 – 2029 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.26: Sondermittelantrag - Dance Slam am 12.7.25 im Kulturhaus Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: BVV-Sondermittel für das Sommer- und Weihnachtskonzert 2025 des Chores La Musica - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: BVV Sondermittel für das Kunstprojekt Hót Tòc - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Lieferflächen in Lichtenberg entsprechend des Leitfadens einrichten - überwiesen
+- TOP 5.30: Spielplatzfläche nicht zur abgepollerten Blühwiese machen - überwiesen
+- TOP 5.31: Nächtliches Parken in der Treskowallee ermöglichen - überwiesen
+- TOP 5.32: Erschließung des Campus für Demokratie - überwiesen
+- TOP 5.33: Skulpturenpark in Lichtenberg - überwiesen
+- TOP 5.34: Entwicklung der Fläche Drossener Straße/Am Faulen See: Ideen der Bürger*innen berücksichtigen! - überwiesen
+- TOP 5.35: Grundstückszufahrt gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Gehwegsicherheit verbessern - Weg "Am Lindenplatz" sanieren - überwiesen
+- TOP 5.37: 11G40 wird flott - mit neuer Sportfläche - überwiesen
+- TOP 5.38: Bordsteinkante in der Altenhofer Straße sanieren - überwiesen
+- TOP 5.39: Geschützt vor Vandalismus: Außenschließanlage für den Schulcampus Dolgenseestraße 60 - überwiesen
+- TOP 5.40: Verkehrsbeschilderung Bahnhofsbrücke Karlshorst prüfen - Chaos verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 5.41: Mehr Verkehrssicherheit für die Phönix-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 5.42: Schneller Wohnraum für BVG-Azubis - Zukunft sichern - überwiesen
+- TOP 5.43: Ausstellung zur Historie des Wassersports auf dem Rummelsburger See im Museum Lichtenberg - überwiesen
+- TOP 5.44: Sozialberatung für auf dem See lebende Menschen anbieten - überwiesen
+- TOP 5.45: Brunnenplatz Frankfurter Allee Süd in "Terwiel-Himpel-Platz" benennen - überwiesen
+- TOP 5.46: Fahrradstraße Karlshorst - überwiesen
+- TOP 5.47: Zufahrt für Anwohner und Feuerwehr sichern - überwiesen
+- TOP 5.48: B-Plan 11-22 - Rücksicht auf Senior:innen nehmen - überwiesen
+- TOP 5.49: Barrierefreie Öffentlichkeitsarbeit und Veranstaltungen des Bezirksamts sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.50: Spielplätze auch für Senior:innen - überwiesen
+- TOP 5.51: Rummelsburg nicht vom Verkehr abhängen - Tram 21 schnellstmöglich sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.52: Wartenberger Weg sicher überqueren - überwiesen
+- TOP 5.53: Außenbezirke nicht abhängen: Öffentlich gefördertes Leihradsystem in Lichtenberg erhalten - überwiesen
+- TOP 5.54: Gemeinsam bunt älter werden – Queeres* Mehrgenerationenwohnen an der Vulkanstraße - überwiesen
+- TOP 5.55: Fahrradfreundliches Kopfsteinpflaster in Lichtenberg realisieren - überwiesen
+- TOP 5.56: Finanzierung von Frauenprojekten und Gleichstellungsarbeit in Lichtenberg sichern! - überwiesen
+- TOP 5.57: Stärkung der bürgernahen Dienstleistungen – Bearbeitungszeiten im Wohngeld- und „Bildung und Teilhabe“-Bereich verkürzen! - überwiesen
+- TOP 5.58: Zukunftsinvestitionen statt Kahlschlag: Kinder- und Jugendhilfe in Lichtenberg stärken! - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 7.1: Einwohnerantrag: Drehscheibenschule jetzt! Infrastruktur vor Wohnbebauung - in der BVV abgelehnt
+- TOP 7.2: Bebauungsplan-Entwurf XVII-50aba - Rechtskontrolle Arbeitstitel: Gartenstadt Karlshorst IIa - vertagt
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 9: Wahlen - (offen)
+- TOP 9.1: Wahl eines Mitgliedes des Bezirksamtes - in der BVV abgelehnt
+- TOP 9.2: Wahl eines Mitgliedes des Vorstandes der BVV - in der BVV abgelehnt
+- TOP 10: Offene Drucksachen der letzten BVV-Sitzung - gegenstandslos
+- TOP 11: Prioritäten der Fraktionen - (offen)
+- TOP 11.1: Gärten und Natur erhalten - in der BVV abgelehnt
+- TOP 11.2: Erholungsgrundstücke im Grünen Band erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Geschändete Gräber auf dem Zentralfriedhof Friedrichsfelde in würdevollen Zustand versetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Schulstraße auch in Lichtenberg - überwiesen
+- TOP 11.5: Einbuchungsfristen zur Medianbildung in der Kosten-Leistungsrechnung - in der BVV abgelehnt
+- TOP 11.6: Bekenntnis des Bezirks Lichtenberg zur Progress Pride Flag - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Anlässlich des 80. Jahrestages der Befreiung: Deutsch-Russische Festtage wiederbeleben - in der BVV abgelehnt
+- TOP 12: Große Anfragen - erledigt
+- TOP 12.1: Auswirkungen der Sparmaßnahmen des Berliner Senats und zur finanziellen Entwicklung im Bezirk Lichtenberg - beantwortet
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Ausreichend Platz auf Gehwegen schaffen - vertagt
+- TOP 13.2: Filterung und Regenrückhaltebecken des Ruschegrabens - vertagt
+- TOP 13.3: Verbessertes Lichtkonzept am Warnitzer Bogen - vertagt
+- TOP 13.4: Änderung der Geschäftsordnung - vertagt
+- TOP 13.5: Sicherer Heimweg: Sicherheitslage am und rund um den S-Bahnhof Karlshorst sowie im Carlsgarten verbessern - vertagt
+- TOP 13.6: Ehemalige Friedhofskapelle ertüchtigen - vertagt
+- TOP 13.7: Gefahr im Verzug – Poller als Gefahrenquelle ausschließen! - vertagt
+- TOP 13.8: Poller abbauen - Verkehrskonzept erarbeiten - Sicherheit wiederherstellen - vertagt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Abstellfläche für E-Roller am S-Bahnhof Karlshorst - vertagt
+- TOP 14.2: Abstellfläche für E-Roller am S-Bahnhof Hohenschönhausen - vertagt
+- TOP 14.3: Verwahrlosung und Vermüllung im öffentlichen Raum beseitigen - vertagt
+- TOP 14.4: Ordnungsamtsstreifen mit Opioid-Antagonisten ausstatten - vertagt
+- TOP 14.5: Gegen Rambo-Radler und Gehwegparker - Lichtenberg muss handeln! - vertagt
+- TOP 15: Geschäftliche Mitteilungen des Vorstandes - erledigt
