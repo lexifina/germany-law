@@ -1,0 +1,75 @@
+# 31. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-15T17:00:00+02:00
+- Ende: 2025-05-15T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32064
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32064
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Wirksame Unterbindung des Befahrens des Platzes an Kalk Post" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Schulwegsicherung für die Grundschüler*innen der Grünebergschule - jetzt!" - endgültig zurückgezogen
+- TOP 7.3: Gem. Antrag SPD- und CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Verkehrssituation auf dem Rather Mauspfad in Köln - Rath/Heumar" - ungeändert beschlossen
+- TOP 7.4: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Öffnungszeiten der Stadtteilbibliothek Kalk erweitern" - geändert beschlossen
+- TOP 7.5: Antrag der Fraktion Die LINKE. zur Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Pflanzung des Tiny Forest am HöVi-Land, jetzt!" - ungeändert beschlossen
+- TOP 7.6: Antrag der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Prüfung eines temporären Halteverbots (VZ 283) während der Straßenreinigung" - ungeändert beschlossen
+- TOP 7.7: Antrag der Fraktion Die LINKE. zur Sitzung der Bezirksvertretung Kalk am 15.05.2025: "KVB-Ausbaupläne rechtsrheinisch" - zurückgestellt
+- TOP 7.8: Gem. Antrag der Fraktionen SPD, CDU, B90 und Die LINKE: "Verbesserung der Verkehrssituation auf der Lustheider Straße in Köln-Vingst" - ungeändert beschlossen
+- TOP 7.9: Antrag der Fraktion Die LINKE. zur Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Shuttlebusse für unser Pflegepersonal" - zurückgestellt
+- TOP -: Gemeinsamer Ergänzungsantrag der SPD-Fraktion und Fraktion Die LINKE.: "Bessere ÖPNV-Anbindung zwischen den Klinikstandorten Holweide und Merheim" - zurückgestellt
+- TOP 7.10: Antrag der Fraktion Die LINKE. zur Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Vonovia-Wohnungen in Köln enteignen und dem Gemeinwohl zuführen!" - endgültig abgelehnt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - ungeändert beschlossen
+- TOP 8.1.2: Kleinräumige Analyse und Bewertung der Herausforderungen und Ziele der Sozialplanung für das Sozialraumgebiet Ostheim/Neubrück - ungeändert beschlossen
+- TOP 8.1.3: Stadtklima-/Stadtverschönerungsprogramm 2025 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke Köln", Planfeststellungsabschnitt 1.2 - geändert beschlossen
+- TOP 8.2.2: Konzept "Misch MIT! – So geht Kinder- und Jugendbeteiligung in Köln! – Ergebnisse, Erkenntnisse und Empfehlungen eines partizipativen Prozesses“ - ungeändert beschlossen
+- TOP 8.2.3: Genehmigung der Dringlichkeitsentscheidung:"Bau- und Finanzierungsbeschluss für Maßnahmen im Bereich der Hallen Kalk, hier Hallen 71 und 60 sowie Dillenburger Straße 63" - ungeändert beschlossen
+- TOP 8.2.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nr. 72453/02 Arbeitstitel: Olpener Straße 248–252 in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8.2.5: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - geändert beschlossen
+- TOP 8.2.6: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - ungeändert beschlossen
+- TOP 8.2.7: Beschluss über die Aufstellung und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung zur 252. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 8, Köln-Kalk - ungeändert beschlossen
+- TOP 8.2.8: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der Fraktionen aus der Sitzung der Bezirksvertretung Kalk vom 26.01.2023 betreffend Bürgereingabe gem. § 24 GO, betr.: Servatiusstraße in Ostheim, Tempo 30 (AZ.:02-1600-142-22) - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 20.03.2025 (AN/0324/2025) betreffend "Verkehrssituation auf dem Fockerweg in Köln Rath/Heumar – insbesondere im Bereich vor Haus Baden" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung von Nachfragen zur Mitteilung 0632/2025 (TOP 10.2.6) in der Bezirksvertretung Kalk vom 20.03.2025: "Anmietung der Modulbauten in der Neuerburgstraße/Dillenburger Straße" - Kenntnis genommen
+- TOP 9.1.4: Aktualisierung einer Beantwortung einer Frage aus aktuellem Anlass von Bezirksvertreter Fischer (Die LINKE.) in der Sitzung der Bezirksvertretung Kalk vom 23.01.2025 :" Schließungen Kalker Stadtgarten" - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 24.11.2022“ (AN/2007/2022) betreffend „Befahrung der Steprathstraße in Köln-Kalk mit LKW über 7,5 t“
+- TOP 9.1.6: Beantwortung einer schriftlichen Anfrage Der Linke Fraktion (AN/1127/2024), Betreff: (Nicht-) Umsetzung des Aktionsplans Essbare Stadt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Es dröhnt in meinen Ohren – Wie weit sind die Planungen für ein Nachtflugverbot?" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "SUV als Gefahr für Leib und Leben?" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: : "Nicht nur "um de´Dom rüm" – Der Stadtteil Kalk braucht auch eine Frischekur zum Frühling!" - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Verstoß gegen Bundesnaturschutzgesetz und Missachtung städtischer Vorgaben durch das Grünflächenamt" - Kenntnis genommen
+- TOP 9.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 15.05.2025: "Guru Guru Guru - Taubenbestand im Stadtteil Kalk" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Köln.Gestaltet.Gemeinsam Fortschreibung Gestaltungshandbuch Hier: Bürgerschaftliches Engagement im öffentlichen Raum - Kenntnis genommen
+- TOP 10.2.2: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 10.2.3: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP 10.2.4: Konsequenzen aus dem beschlossenen weiteren Vorgehen in Bezug auf die Hallen Kalk (Hallen 75-77) - Kenntnis genommen
+- TOP 10.2.5: Veranstaltungen zum Internationalen Frauentag 2025 - Kenntnis genommen
+- TOP 10.2.6: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 10.2.7: Ortswechsel der Jugendwerkstatt Berliner Straße nach Neubrück - Kenntnis genommen
+- TOP 10.2.8: Fachgespräch Kalker Hauptstraße - Kenntnis genommen
+- TOP 10.2.9: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.10: Anpassung der Parkgebührenzeit auf der Kalker Hauptstraße - Kenntnis genommen
+- TOP 10.2.11: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - Kenntnis genommen
