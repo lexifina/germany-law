@@ -1,0 +1,8 @@
+# TOP 1: Investive Sportförderung für das Fördervorhaben: Umwandlung Großfeld-Tenne in Großfeld-Kunstrasen, Karlsruher Str. 77 in 01189 Dresden durch die Sportgemeinschaft (SG) Gittersee e. V.
+
+- Sitzung: 8. Sitzung des Ausschusses für Sport (Eigenbetrieb Sportstätten) (2025-05-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/219930
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/65152
