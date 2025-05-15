@@ -109,8 +109,7 @@
 - [§ 59](0059.md)
 - [§ 60](0060.md)
 
-## Abschnitt XIII Vorschriften über das
-maschinell geführte Grundbuch
+## Abschnitt XIII Vorschriften über das maschinell geführte Grundbuch
 
 
 ### Unterabschnitt 1 Das maschinell geführte Grundbuch
@@ -122,8 +121,7 @@ maschinell geführte Grundbuch
 - [§ 65 Sicherung der Anlagen und Programme](0065.md)
 - [§ 66 Sicherung der Daten](0066.md)
 
-### Unterabschnitt 2 Anlegung des maschinell geführten
-Grundbuchs
+### Unterabschnitt 2 Anlegung des maschinell geführten Grundbuchs
 
 - [§ 67 Festlegung der Anlegungsverfahren](0067.md)
 - [§ 68 Anlegung des maschinell geführten Grundbuchs durch Umschreibung](0068.md)
@@ -134,16 +132,14 @@ Grundbuchs
 - [§ 72 Umschreibung, Neufassung und Schließung des maschinell geführten Grundbuchs](0072.md)
 - [§ 73 Grundakten](0073.md)
 
-### Unterabschnitt 3 Eintragungen in das maschinell geführte
-Grundbuch
+### Unterabschnitt 3 Eintragungen in das maschinell geführte Grundbuch
 
 - [§ 74 Veranlassung der Eintragung](0074.md)
 - [§ 75 Elektronische Unterschrift](0075.md)
 - [§ 76 Äußere Form der Eintragung](0076.md)
 - [§ 76a Eintragungen in das Datenbankgrundbuch; Verordnungsermächtigung](0076a.md)
 
-### Unterabschnitt 4 Einsicht in das maschinell geführte
-Grundbuch und Abschriften hieraus
+### Unterabschnitt 4 Einsicht in das maschinell geführte Grundbuch und Abschriften hieraus
 
 - [§ 77 Grundsatz](0077.md)
 - [§ 78 Ausdrucke aus dem maschinell geführten Grundbuch](0078.md)
@@ -159,14 +155,12 @@ Grundbuch und Abschriften hieraus
 - [§ 85 Erteilung von Grundbuchabdrucken durch Notare](0085.md)
 - [§ 85a Protokollierung der Mitteilung des Grundbuchinhalts durch den Notar](0085a.md)
 
-### Unterabschnitt 6 Zusammenarbeit mit den katasterführenden
-Stellen und Versorgungsunternehmen
+### Unterabschnitt 6 Zusammenarbeit mit den katasterführenden Stellen und Versorgungsunternehmen
 
 - [§ 86 Zusammenarbeit mit den katasterführenden Stellen](0086.md)
 - [§ 86a Zusammenarbeit mit Versorgungsunternehmen](0086a.md)
 
-### Unterabschnitt 7 Hypotheken-, Grundschuld- und
-Rentenschuldbriefe
+### Unterabschnitt 7 Hypotheken-, Grundschuld- und Rentenschuldbriefe
 
 - [§ 87 Erteilung von Briefen](0087.md)
 - [§ 88 Verfahren bei Schuldurkunden](0088.md)
@@ -212,37 +206,15 @@ Rentenschuldbriefe
 - [§ 112](0112.md)
 - [§ 113](0113.md)
 - [§ 114](0114.md)
-- [Anlage 1 (zu § 22)
-
-(Grundbuchblatt)](anlage-1.md)
+- [Anlage 1 (zu § 22)(Grundbuchblatt)](anlage-1.md)
 - [Anlage 2a (zu § 31)(Unübersichtliches Grundbuchblatt)](anlage-2a.md)
-- [Anlage 2b (zu § 31)
-
-(Neues Grundbuchblatt)](anlage-2b.md)
-- [Anlage 3 (zu § 52 Abs. 1)
-
-(Hypothekenbrief)](anlage-3.md)
-- [Anlage 4 (zu § 52 Abs. 1)
-
-(Teilhypothekenbrief)](anlage-4.md)
-- [Anlage 5 (zu § 52 Abs. 1)
-
-(Hypothekenbrief über eine Gesamthypothek)](anlage-5.md)
-- [Anlage 6 (zu § 52 Abs. 1)
-
-(Gemeinschaftlicher Hypothekenbrief)](anlage-6.md)
-- [Anlage 7 (zu § 52 Abs. 1)
-
-(Grundschuldbrief)](anlage-7.md)
-- [Anlage 8 (zu § 52 Abs. 1)
-
-(Rentenschuldbrief)](anlage-8.md)
-- [Anlage 9 (zu § 58)
-
-(Erbbaugrundbuch)](anlage-9.md)
-- [Anlage 10a (zu § 69 Abs. 4)
-
-(In Papierform geführtes Grundbuch)](anlage-10a.md)
-- [Anlage 10b (zu § 69 Abs. 4)
-
-(Maschinell geführtes Grundbuchblatt)](anlage-10b.md)
+- [Anlage 2b (zu § 31)(Neues Grundbuchblatt)](anlage-2b.md)
+- [Anlage 3 (zu § 52 Abs. 1)(Hypothekenbrief)](anlage-3.md)
+- [Anlage 4 (zu § 52 Abs. 1)(Teilhypothekenbrief)](anlage-4.md)
+- [Anlage 5 (zu § 52 Abs. 1)(Hypothekenbrief über eine Gesamthypothek)](anlage-5.md)
+- [Anlage 6 (zu § 52 Abs. 1)(Gemeinschaftlicher Hypothekenbrief)](anlage-6.md)
+- [Anlage 7 (zu § 52 Abs. 1)(Grundschuldbrief)](anlage-7.md)
+- [Anlage 8 (zu § 52 Abs. 1)(Rentenschuldbrief)](anlage-8.md)
+- [Anlage 9 (zu § 58)(Erbbaugrundbuch)](anlage-9.md)
+- [Anlage 10a (zu § 69 Abs. 4)(In Papierform geführtes Grundbuch)](anlage-10a.md)
+- [Anlage 10b (zu § 69 Abs. 4)(Maschinell geführtes Grundbuchblatt)](anlage-10b.md)
