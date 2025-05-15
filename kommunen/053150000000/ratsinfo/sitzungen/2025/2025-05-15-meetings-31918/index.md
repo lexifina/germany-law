@@ -1,0 +1,75 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-15T16:05:00+02:00
+- Ende: 2025-05-15T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31918
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31918
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion betr.: "Hochwasserschutz in Köln-Dünnwald" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0131/2025) betreffend "Hochwasserschutz in Dünnwald" - zurückgestellt
+- TOP 1.2: Anfrage der CDU-Fraktion betr.: "Förderanträge für Photovoltaikanlagen" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0140/2025) betreffend "Förderung für Photovoltaikanlagen" - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Mitteilung zum Flughafen" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 30.01.2025 betreffend "Mitteilung zum Flughafen" (AN/0137/2025) - zurückgestellt
+- TOP -: Nachfragen der Fraktionen Bündnis90/Die Grünen und Volt zur Beantwortung der Anfrage 0536/2025 betr.: "Mitteilung zum Flughafen" - zurückgestellt
+- TOP 1.4: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Stand Klimaschutz Monitoring" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt, Grün vom 20.03.2025 (AN/0138/2025) betr.: "Stand Klimaschutz Monitoring" - zurückgestellt
+- TOP 1.5: Anfrage der FDP-Fraktion betr.: "Sachstand Sanierung der Trauerhalle auf dem Melaten-Friedhof" - zurückgestellt
+- TOP 1.6: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses betr.: "Sauberkeit Hansaring" - Kenntnis genommen
+- TOP 1.7: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: Osterkirmes 2025 im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - zurückgestellt
+- TOP 1.8: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: Herbstkirmes im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - zurückgestellt
+- TOP 1.9: Anfrage der Fraktion Die Linke betr.: "Moore als Teil des Klimaschutzes in Köln" - zurückgestellt
+- TOP 1.10: Anfrage der Fraktion Die Linke betr.: "Lichtverschmutzung reduzieren" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betr.: "Regenwassernutzung in Kölle" - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Linke betr.: "Netto Null Versiegelung" - zurückgestellt
+- TOP 2.3: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Vom toten Pferd ab-steigen - JETZT?! - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig abgelehnt
+- TOP 2.4: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Mähfreier Mai" - zurückgestellt
+- TOP 2.5: Antrag der Fraktionen Bündnis90/Die Grünen und CDU: "Reduktion der Bestände von Nil- und Kanadagänsen in Köln" - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Zuschuss an die heuteStadtmorgen eG für die Erstellung eines Konzepts zur energetischen Quartierssanierung - endgültig zurückgezogen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), - ungeändert beschlossen
+- TOP 4.1.2: Kleingartenanlage Berberitzenweg e.V. Anlage Berberitzenweg Erneuerung des Wasserleitungsnetztes - ungeändert beschlossen
+- TOP 4.1.3: Entwicklungsplanung Weststadt, hier: Grundsatzbeschluss über die Ergebnisse der Entwicklungsplanung Weststadt inklusive der Projekte Low Line und Coty-Areal - ohne Votum behandelt
+- TOP 4.1.4: Erlass ordnungsbehördliche Verordnung Kaserne Brasseur - ungeändert beschlossen
+- TOP 4.1.5: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - im ersten Durchgang verwiesen
+- TOP 4.1.6: Beschluss über die Aufstellung und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung zur 252. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 8, Köln-Kalk - ohne Votum behandelt
+- TOP 4.1.7: GrünZug Nippes: Beschluss über die Entwurfsplanung sowie Bau- und Mittelfreigabebeschluss für die Abschnitte I und II zwischen Merheimer Straße und Niehler Kirchweg - ungeändert beschlossen
+- TOP 4.1.8: Zuschussgewährung Energieberatung der Verbraucherzentrale NRW (Fortführung bis 31.12.2026) - ungeändert beschlossen
+- TOP 4.1.9: Weiterentwicklung der Förderprogramme "Photovoltaik – klimafreundliches Wohnen" und "Photovoltaik – klimafreundliches Arbeiten" sowie Einstellung des Förderprogramms "Gebäudesanierung – klimafreundliches Wohnen" - ohne Votum behandelt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Finanzierung von Wildtierauffangstationen: Umweltbildungszentrum Heideportal Gut Leidenhausen e.V. und Schutzgemeinschaft Deutscher Wald e.V. - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Jahresbericht 2024 zum Hitzeaktionsplan Köln - Kenntnis genommen
+- TOP 7.2: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 7.3: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte zum Stichtag 31. Dezember 2024 - Kenntnis genommen
+- TOP 7.4: Kraftfahrzeuge in Köln - Ergebnisse der Kraftfahrzeugstatistik zum 31.12.2024 - Kenntnis genommen
+- TOP 7.5: Sachstand zur Umsetzung des Maßnahmenpakets „Wohnungsbau stärken“ - Kenntnis genommen
+- TOP 7.6: Energetische Quartierssanierung: 2. KfW 432 Quartierskonzept - Kenntnis genommen
+- TOP 7.7: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - zurückgestellt
+- TOP 7.8: Sachstand zur Umsetzung des Klimafestivals Köln 2025 - Kenntnis genommen
+- TOP 7.9: Öffentlicher Freiraum Deutzer Hafen Köln, hier: Information zur Veröffentlichung Freiraumhandbuch - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Nachfrage der FDP-Fraktion aus der Sitzung Klima, Umwelt und Grün vom 20.03.2025 (3329/2024) betr.: "Ergebnisse nächtlicher Befliegung zur Analyse der Lichtverschmutzung im Stadtgebiet" - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Nachfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 20.03.2025 (0706/2025) betr.: "Schulungsmaßnahme für Landschaftsgärtner" - Kenntnis genommen
+- TOP 8.3: Beantwortung einer mündlichen Nachfrage der CDU-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 20.3.2025 (0659/2025) betr.: "Förderprogramm Umweltbildung Bilanz 2024" - Kenntnis genommen
+- TOP 8.4: Beantwortung einer mündliche Nachfrage zur Vorlage 3772/2024 der Ratsfraktion Klima Freunde & Gut aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 20.03.2025 - Kenntnis genommen
+- TOP 8.5: Beantwortung einer Nachfrage von RM Roß-Belkner aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich des Betriebshofs Zusestraße - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
