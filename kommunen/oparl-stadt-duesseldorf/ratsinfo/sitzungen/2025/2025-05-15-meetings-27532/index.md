@@ -1,0 +1,53 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-15T15:10:00+02:00
+- Ende: 2025-05-15T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27532
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27532
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552577.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552577.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552577.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 07.11.2024 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 28.11.2024 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 23.01.2025 - einstimmig beschlossen
+- TOP 4: Mündliche Berichte
+- TOP 4.1: Vorstellung Malkasten e.V.
+- TOP 4.2: Werkkunsthaus
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage CDU und BÜNDNIS 90/DIE GRÜNEN: Weitere Stärkung der Fotostadt Düsseldorf - zur Kenntnis genommen
+- TOP 5.2: Anfrage CDU und BÜNDNIS 90/DIE GRÜNEN: Umzug des Jungen Schauspiels - zur Kenntnis genommen
+- TOP 5.3: Anfrage DIE LINKE: Langfristige kulturelle Nutzung des Betriebshofs Am Steinberg - zur Kenntnis genommen
+- TOP 5.4: Anfrage DIE LINKE: Förderung der kulturellen Bildung für sozial benachteiligte Gruppen - zur Kenntnis genommen
+- TOP 5.5: Anfrage SPD: Schulklassenbesuche in Düsseldorfer Kulturinstituten - zur Kenntnis genommen
+- TOP 5.6: Anfrage CDU und Bündnis 90/DIE GRÜNEN: Werkkunsthaus - zur Kenntnis genommen
+- TOP 5.7: Anfrage SPD: Aktueller Sachstand: Rahmenvertrag für die freie Szene - zur Kenntnis genommen
+- TOP 5.8: Anfrage DIE PARTEI-Klima-Fraktion: Fruhtrunk-Fassade am Audimax unter Denkmalschutz - zur Kenntnis genommen
+- TOP 6: Anträge
+- TOP 6.1: Antrag DIE LINKE: Erhalt und Nutzung des Alten Güterbahnhofs in der Schlüterstraße für kulturelle Zwecke - abweichend beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Sanierung Gesamtfassade der Tonhalle, Ehrenhof 1, ausgenommen Westfassade - Empfehlung einstimmig beschlossen
+- TOP 7.2: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Errichtung einer Dreifeldsporthalle mit Tonsaal und Gymnastikraum am Humboldt-Gymnasium" - zur Kenntnis genommen
+- TOP 7.3: Rahmenverträge für die freie Szene - vertagt
+- TOP 7.4: Aufhebung des Sperrvermerks – erhöhter Betriebskostenzuschuss tanzhaus nrw e.V. 2025 - abweichend beschlossen
+- TOP 7.5: Kunst im öffentlichen Raum: Durchführung und Realisierung eines XR-Wettbewerbs - einstimmig beschlossen
+- TOP 7.6: Umbenennung des Kammermusiksaals der Tonhalle in „Trautvetter-Brückner-Saal“ - Empfehlung einstimmig beschlossen
+- TOP 7.7: Kostenreduzierte Nutzung der Tonhalle für das Preisträgerkonzert „Jugend musiziert“ am 11. Mai 2025 - einstimmig beschlossen
+- TOP 7.8: Kommission Fotostadt Düsseldorf, Sitzung vom 08.04.2025: Empfohlene Maßnahmen - einstimmig beschlossen
+- TOP 7.9: Atelierbeirat – Umbesetzung Atelierbeirat - einstimmig beschlossen
+- TOP 7.10: Erstcheck Aquazoo – Provenienzforschungsprojekt - zur Kenntnis genommen
+- TOP 7.11: Umsetzung Sonderprojekte städtischer Kulturinstitute 2025 - zur Kenntnis genommen
+- TOP 7.12: Jugend, Kultur und Schule: Projektumsetzung im Schuljahr 2024/25 und für die Förderung im Schuljahr 2025/26 beschlossene Projekte - zur Kenntnis genommen
+- TOP 7.13: Bewerbung des Kulturportals der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 7.14: Düsseldorfer Nachhaltigkeits-Rallyes - zur Kenntnis genommen
+- TOP 8: Verschiedenes
