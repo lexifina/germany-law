@@ -1,0 +1,67 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-16T16:00:00+02:00
+- Ende: 2025-05-16T18:38:00+02:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27545
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27545
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 04.04.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Kriminalitäts- und Verkehrsunfallstatistik 2024 - zur Kenntnis genommen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Bezirkssportanlage Karl-Hohmann-Straße – Umbau Tennenspielfeld in Kunstrasen - Empfehlung einstimmig beschlossen
+- TOP 6.2: Sicherstellung des Bestattungsangebotes für muslimische und jüdische Verstorbene in Düsseldorf im Bereich des Friedhofs Itter - Empfehlung mehrheitlich beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen, hier Koblenzer Straße - Empfehlung mehrheitlich beschlossen
+- TOP 6.5: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Hassels - mehrheitlich beschlossen
+- TOP 6.6: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2025 - einstimmig beschlossen
+- TOP 6.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste C - einstimmig beschlossen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Situation Einzelhandelsversorgung & Gastronomiebetriebe - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.8: Ampelschaltung am Werstener Kreuz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9.9: Parkverbotszonen und Sharingstationen an Sportplätzen - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 9.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11: Aufstellen einer Tischtennisplatte im Grünzug Holthausen/Wersten - Interfraktioneller Antrag der CDU-Fraktion, Fraktion Bündnis 90/ Die Grünen und SPD-Fraktion - einstimmig beschlossen
+- TOP 9.12: Drohende Sperrung der A 59 – Gemeinsame Sitzung des OVA, BV 9 und BV 10 - Interfraktioneller Antrag der CDU-Fraktion, Fraktion Bündnis 90/ Die Grünen, SPD-Fraktion, FDP und Die Linke - mehrheitlich beschlossen
+- TOP 10: Verfügungsmittel
+- TOP 10.1: AWO Familientreff Holthausen - Sommerfest 2025 - einstimmig beschlossen
+- TOP 10.2: GGS Schloss Benrath - Präventionstheater "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 10.3: GGS Am Köhnen - Projektwoche Trommelzauber - einstimmig beschlossen
+- TOP 10.4: KG Räbbelche 1962 e.V. - Ausstattung Tanzgarde 2025 - einstimmig beschlossen
+- TOP 10.5: KG Räbbelche 1962 e.V. - 17. Holthausen Open Air 2025 - einstimmig beschlossen
+- TOP 10.6: zentrum plus Wersten - Projekt "Herren am Herd" 2025 - einstimmig beschlossen
+- TOP 10.7: Stadtteilbüchereien Benrath und Wersten - Abschlussfeier des SommerLeseClubs 2025 - einstimmig beschlossen
+- TOP 10.8: ASB Reg. Düsseldorf e.V. - zentrum plus Holthausen - Platzkonzerte auf dem Kamper Acker 2025 - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Ehemaliges „BuGa„-Informationszentrum, Nutzung als Jugendtreffpunkt - Beschluss der Bezirksvertretung 9 vom 04.04.2025; BV9/065/2025 - zur Kenntnis genommen
+- TOP 11.2: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2025 und 2026 - zur Kenntnis genommen
+- TOP 11.3: Werstener Friedhofstraße Verkehrsüberwachung - Beschluss der Bezirksvertretung 9 vom 04.04.2025; BV9/042/2025 - zur Kenntnis genommen
+- TOP 11.4: Bänke Hügelstraße - Beschluss der Bezirksvertretung 9 vom 04.04.2025, BV9/041/2025 - zur Kenntnis genommen
