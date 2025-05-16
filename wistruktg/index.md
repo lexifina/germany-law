@@ -9,5 +9,6 @@
 - [§ 6 Durchführung und Unterrichtung](0006.md)
 - [§ 7 Finanzierung](0007.md)
 - [§ 8 Rückzahlung und Verzinsung der Bundesmittel](0008.md)
+- [(XXXX) §§ 9 bis 11 (jetzt §§ 6 bis 8)](xxxx-9-bis-11.md)
 - [(XXXX) §§ 12 und 13 (weggefallen)](xxxx-12-und-13.md)
 - [§ 14 Inkrafttreten](0014.md)
