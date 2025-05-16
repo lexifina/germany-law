@@ -1,0 +1,81 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-05-16T16:10:00+02:00
+- Ende: 2025-05-16T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7524
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7524
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 16.05.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00226561.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 16.05.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00226561.pdf
+- Wortprotokoll: Sitzungspaket RAT 16.05.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00226561.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 5: Konrad-Adenauer-Ring im Bereich Görresschule: Umbau der östlichen Nebenanlage - einstimmig zugestimmt
+- TOP 6: Knotenpunkt Alexianerplatz / Berghäuschensweg / Kölner Straße / Hammfelddamm: Umbau - einstimmig zugestimmt
+- TOP 7: Weberstraße: Barrierefreier Ausbau der Bushaltestelle Pomona - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 8: Gloriapark - Erweiterung & Änderung des bisherigen Beschlusses - einstimmig zugestimmt
+- TOP 9: Beratendes Mitglied im Jugendhilfeausschuss der Stadt Neuss - einstimmig zugestimmt
+- TOP 10: Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2025/26 - einstimmig zugestimmt
+- TOP 11: Spielraumplanung: Ausbauplanung und Entwurfsplanung Kinderspielplatzprogramm 2025/26 - einstimmig zugestimmt
+- TOP 12: Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weiter- gabe von Distickstoffmonoxid „Lachgas„ an Minderjährige in der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 13: Einrichtung eines weiteren Tagesaufenthalts für obdachlose Personen - verwiesen
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 14: Ortsmittelpunktkonzept I Neugestaltung Platz an der Düsseldorfer Straße - einstimmig zugestimmt
+- TOP 15: Grundsatzbeschluss zum Werkstattverfahren zur städtebaulich-freiraumplanerischen Aktivierung des Hammfelds I - mehrheitlich zugestimmt
+- TOP 16: Zweckgebundene Bezuschussung des Vereins Zukunftsinitiative Neuss (ZIN) zur Umsetzung von Zielen des Innenstadtstärkungsprogramms 2025 - mehrheitlich zugestimmt
+- TOP 17: Weitere Mobilstationen für Neuss - mehrheitlich zugestimmt
+- TOP 18: Markierungsarbeiten Rheydter Str. - einstimmig zugestimmt
+- TOP 19: 2. Änderung des Flächennutzungsplans - Nahversorgungszentrum Berghäuschensweg - Aufstellungsbeschluss und Beschluss der frühzeitigen Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 20: Erweiterung Bewohnerparken - hier: Dreikönigenviertel; Einführung einer Testphase - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 21: Änderung der Sondernutzungssatzung - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 22: Richterstraße - Herstellungsbeschluss - - einstimmig zugestimmt
+- TOP 23: Quaxpfad - Herstellungsbeschluss - - einstimmig zugestimmt
+- TOP -: Integrationsausschuss
+- TOP 24: Wahlverfahrensordnung für den Integrationsausschuss der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Beschlussfassungen des Rates
+- TOP 25: Wahl einer Schiedsperson - einstimmig zugestimmt
+- TOP 26: Kostenentwicklung Projekt "TG-Zentrum" - mehrheitlich zugestimmt
+- TOP 27: Verkleinerung und Modernisierung der BSA Weckhoven; hier: Grundstücksübertragung - einstimmig zugestimmt
+- TOP 28: Genehmigung der Dringlichkeitsentscheidung Nr. 108 betr.: Fortführung des DeutschlandTickets als Schülerticket - einstimmig zugestimmt
+- TOP 29: Genehmigung der Dringlichkeitsentscheidung Nr. 109 betr.: Aufhebung des Sperrvermerks über 150.000 Euro für Hard- und Software an Grundschulen - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 30: Antrag der AfD-Fraktion betr.: Anbringung von Bremsschwellen auf der Dunantstraße in Neuss Gnadental - mehrheitlich abgelehnt
+- TOP 31: Antrag der CDU-Fraktion betr.: Neubau einer leistungsfähigen und bedarfsgerechten Bezirkssportanlage einschließlich Turnhalle in Grimlinghausen - verwiesen
+- TOP 32: Antrag der AfD-Fraktion betr.: Beschilderung der Kreuzung Sebastianusstraße / Niederstraße mit dem Verkehrszeichen 350-40 (Zebrastreifen, doppelseitiger Fußgängerüberweg), nebst Einrichtung dessen - zurückgezogen
+- TOP 33: Antrag der Fraktion UWG/Freie Wähler betr.: Pop-Up Bürgerbüros - verwiesen
+- TOP 34: Antrag der CDU-Fraktion betr.: Sicherheit herstellen - Verwahrlosung der Innenstadt verhindern - verwiesen
+- TOP 35: Antrag der CDU-Fraktion betr.: Messenger-Gruppen für mehr Sicherheit im Quartier - Ein Pilotprojekt für digitale Nachbarschaftshilfe - verwiesen
+- TOP 36: Antrag der CDU-Fraktion betr.: Endlich Ersatz für die Esso-Tankstelle am Hafen finden - verwiesen
+- TOP 37: Antrag der CDU-Fraktion betr.: Auswirkungen der Vorbereitung der Landesgartenschau 2026 auf städtebauliche Projekte und Fördermittelverwendung - verwiesen
+- TOP 38: Antrag der Fraktion Neuss-JETZT! betr.: Prüfung zur Kreisunabhängigkeit - mehrheitlich zugestimmt
+- TOP 39: Antrag der Fraktion DIE LINKE / Tierschutz betr.: Keine Einführung der Bezahlkarte für Geflüchtete in Neuss - verwiesen
+- TOP 40: Antrag der CDU-Fraktion betr.: Neubau der St. Konrad Grundschule - verwiesen
+- TOP 41: Antrag der Fraktion Die PARTEI / Linke betr.: Keine militärische Produktion bei Pierburg - zivile Arbeitsplätze und Sicherheit der Bevölkerung schützen - beraten ohne Abstimmung
+- TOP 42: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Verlängerung der Buslinie 843 nach Büttgen - verwiesen
+- TOP 43: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Wie kann Neuss vom Sondervermögen Infrastruktur profitieren? - verwiesen
+- TOP 44: Antrag der SPD-Fraktion betr.: Weichenstellungen für die Neusser Bäderlandschaft - mit Änderungen mehrheitlich zugestimmt
+- TOP 44.1: Dringlichkeitsantrag der Fraktion DIE LINKE / Tierschutz betr.: Stromausfall am 12.05.2025 in Neuss - Ursachen und Maßnahmen - verwiesen
+- TOP -: Anfragen
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 48: Sachstand zum Thema ECCAR - Europäische Städtekoalition Koalition gegen Rassismus - zur Kenntnis genommen
+- TOP 49: Jahresbericht 2024 des Beauftragten für Diversität, Integration und Teilhabe - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
