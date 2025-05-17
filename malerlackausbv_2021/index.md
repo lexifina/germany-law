@@ -16,9 +16,6 @@
 
 - [§ 7 Aufteilung in zwei Teile und Zeitpunkt](0007.md)
 
-### § 7 Aufteilung in zwei Teile und Zeitpunkt
-
-
 ### Unterabschnitt 1 Prüfung Teil 1
 
 - [§ 8 Inhalt des Teiles 1](0008.md)
