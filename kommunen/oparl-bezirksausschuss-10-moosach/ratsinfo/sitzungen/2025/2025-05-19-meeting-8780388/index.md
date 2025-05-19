@@ -1,0 +1,100 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780388
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780388
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 07.04.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag auf reines Pkw-Parken in der Pfeilschifterstraße
+- TOP 2.2.: Antrag mehrerer Anwohner zum geplanten Studentenwohnheim in der Seydlitzstraße
+- TOP 2.3.: Antrag auf finanziellen Klimaausgleich für die ersten beiden Bauabschnitte in der Karlingersiedlung
+- TOP 2.4.: Antrag auf Umnutzung der neuen Gewerbeflächen in der Karlingersiedlung und am Georg-Brauchle Ring sowie Antrag auf teilweise Umnutzung der geplanten Kitas für altersgerechte Zwecke
+- TOP 2.5.: Antrag auf ein Moratorium für weitere Abrisse und Antrag auf Überprüfung der Wirtschaftlichkeit von Sanierung versus Abriss und Neubau
+- TOP 2.6.: Ampelschaltung Dachauer Str. und Beschilderung für Agnes-Pockels-Bogen
+- TOP 2.7.: Aktuelle Nutzung diverser Grundstücke im Geltungsbereich des Bebauungsplans 2087 b
+- TOP 2.8.: Verbesserungsmöglichkeiten für die Sportstätten im Amphionpark
+- TOP 2.9.: Antrag auf kurz- und mittelfristige Behebung der schlimmen sanitären und hygienischen Zustände in der Karlingersiedlung
+- TOP 2.10.: Antrag auf zusätzliche Beschilderung in der Tempo-30-Zone am Bahnhofsbereich Moosach, Breslauer und Bunzlauer Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Memminger Platz 8 (Denkmal Rathgeber-Villa)
+- TOP 3.3.1.2.: Eggmühler Straße
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Antrag auf Erneuerung eines Trittgitters
+- TOP 4.1.2.: Sicher im Verkehr unterwegs – Aufbringen einer Grenzmarkierung für Halteverbot (sog. „Zickzacklinie“) an der Templestraße
+- TOP 4.1.3.: München als Stadt internationaler Bedeutung zur Fürsprecherin der 1948 verfassten Allgemeinen Erklärung der Menschenrechte machen
+- TOP 4.1.4.: Antrag auf Bepflanzung der Wertstoffinsel Ecke Claudiusplatz/Scharnhorststraße
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. Die Geschichtenstunde -Erzählen in der Schule vom 12.05. -31.12.2025 2.500,00€; Az. 0262.0-10-0415
+- TOP 5.2.: (E) Stadtbezirksbudget Kleingarten-Verein NW 3 München e.V. Jubiläumsfeier 100 Jahre Kleingartenverein NW 3 1925-2025 am 19. /20.07.2025 2.775,00€; Az. 0262.0-10-0413
+- TOP 5.3.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas München west, Caritas Moosach Aktion MVV/MVG -Fahrkarten für Moosacher Bürgerinnen und Bürger in einer Notlage vom 01.07.2025 -30.06.2026 1.098,00€; Az. 0262.0-10-0418
+- TOP 5.4.: (E) Ertüchtigung von Entwässerungsgraben und Anschluss an Entwässerungskanal mit Blick auf das steigende Grundwasser
+- TOP 5.5.: (E) Stadtbezirksbudget Diakonie München Moosach e.V. Gartenfest fürs Viertel am 09.07.2025 1.255,00€; Az. 0262.0-10-0411
+- TOP 5.6.: (E) Stadtbezirksbudget rehab republic e.V. Mehrweg-Aktion auf dem Wochenmarkt auf dem Bunzlauer Platz vom 19. -31.05.2025 800,00€ ;Az. 0262.0-10-0416
+- TOP 5.7.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 4.000,00€; Az. 0262.0-10-0414
+- TOP 5.8.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Modernisierung Fußballanlage vom 30.05. -01.06.2025 3.522,87€; Az. 0262.0-10-0417
+- TOP 5.9.: (E) Stadtbezirksbudget AG Buhlstraße e.V. Sommerferienprogramm der Moosacher Kinder und Jugendlichen vom 01.08. -15.09.2025 6.000,00€; Az. 0262.0-10-0421
+- TOP 5.10.: (E) Stadtbezirksbudget Init. "Theater: Tito, mein Vater und ich" Tito, mein Vater und ich vom 01.06. -30.06.2025 715,00€; Az. 0262.0-10-0419
+- TOP 5.11.: (E) Stadtbezirksbudget Schachfestival München e.V. 3. Schachfestival München vom 07.06. -14.06.2025 9.480,00€; Az. 0262.0-10-0407
+- TOP 5.12.: (E) Bereitstellung von CO2-Absaugtürmen in der Landshuter Allee Dachauer Straße (Borstei)
+- TOP 5.13.: (E) Stadtbezirksbudget REGSAM Trägerverein für regionale soziale Arbeit e.V. 27. Moosacher Stadtteilkulturtage vom 28.06. -06.07.2025 4.713,50€; Az. 0262.0-10-0422
+- TOP 5.14.: (E) Stadtbezirksbudget Kleingartenverein NW 18 e.V. Zaunanlage Park und Wiesenfläche vom 14.07. -25.07.2025 3.931,91€; Az. 0262.0-10-420
+- TOP 5.15.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Genehmigung einer Freischankfläche
+- TOP 6.: Anhörungen
+- TOP 6.1.: Spartenanfrage der Straßenüberbrückung am Mittleren Ring über Landshuter Allee und Georg-Brauchle-Ring
+- TOP 6.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 9 StVO: Errichtung eines absoluten Halteverbots in der Straße "Am Neubruch"
+- TOP 6.3.: Aktion "Spielwiese" vom 26.06.-31.07.2025 auf der Grünfläche Welzenbachstr. 8-12/Nanga-Parbat-Str.
+- TOP 6.4.: Mögliche Zusammenarbeit mit dem MCube-Forschungsprojekt MOSAIQ im Sanierungsgebiet Moosach
+- TOP 6.5.: Sommerfest der Arche München am 03.07.2025 von 14.00-18.00 Uhr am Hartmannshofer Bächl 52, Manzostraße
+- TOP 6.6.: Mehr Mitentscheidungsrechte für die Bezirksausschüsse
+- TOP 6.7.: Anhörungsrecht für die Bezirksausschüsse bei der Novellierung der Sondernutzungsrichtlinien
+- TOP 6.8.: Errichtung einer Betonkompaktstation an der Scharnhorststraße
+- TOP 6.9.: Versetzung der Wertstoffcontainer in der Manzostraße
+- TOP 6.10.: Laufveranstaltung Sri Chinmoy Peace am 13.09.2025
+- TOP 6.11.: Bettfedernreinigung an der Ecke Allacher Straße/Waldhornstraße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Antrag auf Hitze- bzw. Klimaresistentes Bauen im Zuge der Stadtteilsanierung durch konsequentes Anbringen eines außenliegenden Sonnenschutzes
+- TOP 7.2.: Anfrage: Sichtbar mahnende Erinnerung an die Lage des ehemaligen Arbeitserziehungslagers der Gestapo nördlich der Triebstraße
+- TOP 7.3.: Antrag zur Verkehrssicherheit in der Skagerrakstraße / Am Kapuzinerhölzl
+- TOP 7.4.: Rückmeldung des MOR zum Sachstand Shared Mobility
+- TOP 7.5.: Antrag zur Aufstellung eines Mülleimers an der Sportfläche im Amphionpark
+- TOP 7.6.: Verbesserung der Verkehrssituation in der Pelkovenstraße durch das Anbringen von Tempo-30-Schilder
+- TOP 7.7.: Antrag auf Wiedereröffnung einer automatischen Zugangskontrolle mit Bezahlmöglichkeit ("Kassenautomat mit Drehkreuz") am Sommereingang des Dantebads
+- TOP 7.8.: Austausch der Streuscheiben der Lichtzeichen der Fußgängerlichtanlagen rund um die Kleingartenanlage NW3 mit stehenden und gehenden Pumuckl-Figuren
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 Satz 2 Nr. 5 StVO: Sperrung der Siedlung Ackermannbogen und im Bereich Olympiapark Süd bei Großveranstaltungen im Olympiapark 2025
+- TOP 8.2.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2024 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2024
+- TOP 8.3.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 8.4.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung 2024"; Prämierung von Wettbewerbsbeiträgen
+- TOP 8.5.: Rückmeldung Bay. Finanzministerium zum BA-Antrag Nr. 20-26 / B 07293 - Ehrenamt muss abgesichert sein
+- TOP 8.6.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Waldhornstraße, Haldenbergerstraße
+- TOP 8.7.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 8.8.: Teilstrategie Urbane Logistik – Finanzierungsbeschluss über eine kostenneutrale Aufstockung des finanziellen Rahmens im EU Projekt metaCCAZE zum Betrieb eines innovativen Radlogistik-Hubs Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2025 – 2027
+- TOP 8.9.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV: Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV)
+- TOP 8.10.: Vollzug der § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: Arbeiten im Straßenraum; Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße
+- TOP 8.11.: Information zu einem Brand im Beherbergungsbetrieb in der Alzeyer Straße
+- TOP 8.12.: Finanzielle Entlastung durch Stadtwerke München für Geschädigte von Heizkostenwucher Empfehlung Nr. 20-26 / E 02527 der Bürgerversammlung des Stadtbezirks 25 - Laim am 28.11.2024
+- TOP 8.13.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 und 9 StVO: Bauberger Straße, Errichtung Grenzmarkierung
+- TOP 8.14.: Vollzug der § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: Arbeiten im Straßenraum; Dachauer Straße zwischen Baubergerstraße und Pelkovenstraße
+- TOP 8.15.: (U) Umgang mit hohen Grundwasserständen - Rechtlicher Rahmen, Verantwortlichkeiten und Handlungsmöglichkeiten der öffentlichen Hand
+- TOP 8.16.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch -nicht öffentlich-
+- TOP 3.3.1.3.: Triebstraße 41
+- TOP 3.3.1.4.: Donaustaufer Straße 30
