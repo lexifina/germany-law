@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-19T17:00:00+02:00
+- Ende: 2025-05-19T18:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31710
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31710
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2024 Büro für Europa und Internationales - Kenntnis genommen
+- TOP 2.2: Ergänzung Tätigkeitsbericht 2024 - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend „Flächendeckende Einführung von Bodycams und weitere Sicherheitsmaßnahmen bei KVB, Rettungsdienst und Ordnungsamt“ - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion betreffend "Flächendeckende Einführung von Bodycams und weitere Sicherheitsmaßnahmen bei KVB, Rettungsdienst und Ordnungsamt“ (AN/0157/2025) - Kenntnis genommen
+- TOP 3.2: Anfrage der FDP-Fraktion betreffend „Stellenaufwuchs, hohe Krankenstän-de und Azubi-Mangel: Was macht die Verwaltungsreform?" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0214/2025 der FDP-Fraktion betreffend "Stellenaufwuchs, hohe Krankenstände und Azubi-Mangel: Was macht die Verwaltungsreform?" - Kenntnis genommen
+- TOP 3.3: Anfrage der FDP-Fraktion betreffend “Digitale Einbürgerungsverfahren“ - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion betreffend "Digitale Einbürgerungsverfahren" (AN/0271/2025) - Kenntnis genommen
+- TOP 3.4: Anfrage der FDP-Fraktion betreffend “Digitale Einbürgerungsverfahren“ - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betreffend "Reformansätze zur Modernisierung der Ausländerbehörde Köln"(AN/0362/2025) - Kenntnis genommen
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung zum Beschluss des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales (AVR) betreffend "Die Funktionsfähigkeit des Kölner Taxigewerbes sicherstellen.." (AN/0183/2025) - Kenntnis genommen
+- TOP 4.2: Priorisierung der Aufgabenerledigung im Sachgebiet Zweckentfremdung, Wohnungsaufsicht und Mietpreiskontrolle - Kenntnis genommen
+- TOP 4.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Angebot in Verkaufsautomaten in städtischen Gebäuden, Aktenzeichen 94/24 - Kenntnis genommen
+- TOP 4.4: Mitteilung zur Beteiligung am Modell „MISSIMO" - Kenntnis genommen
+- TOP 4.5: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2024 - Kenntnis genommen
+- TOP 4.6: Sachstandsbericht Generalinstandsetzung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 30. April 2025 - Kenntnis genommen
+- TOP 4.7: Sachstandsbericht zum Neubau Erweiterung Wallraf-Richartz-Museum und Fondation Corboud mit Neubau Blockrandbebauung für städtische Nutzflächen, Stand: 30. April 2025 - Kenntnis genommen
+- TOP 4.8: NRW-Tag 2024 | Abschlussbericht - Kenntnis genommen
+- TOP 4.9: Mitteilung zu Maßnahmen zum Lärmschutz am Brüsseler Platz - Kenntnis genommen
+- TOP 4.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Leitfaden für Mandatsträgerinnen und Mandatsträger, Aktenzeichen: 132/24 - Kenntnis genommen
+- TOP 4.11: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2025 - zurückgestellt
+- TOP 4.12: Mitteilung zur Absage des Silvester-Events auf dem Roncalliplatz bis zum Jahreswechsel 2029/2030 - Kenntnis genommen
+- TOP 4.13: Auswirkungen der Entscheidung des Bundesamts für Verfassungsschutz vom 02.05.2025 zur Einstufung der Bundespartei AfD als gesichert rechtsextremistische Bestrebung - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Arbeitskräftemangel bei der Stadt: Vakanzen und Überlastungsanzeigen" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen/ Vergabe/ Internationales vom 24.03.2025 (AN/0359/2025) betreffend "Arbeitskräftemangel bei der Stadt: Vakanzen und - zurückgestellt
+- TOP 6.2: Anfrage der SPD Fraktion betreffend "Verwahrlosung in Köln: Aktueller Sachstand der Maßnahmen rund um die Plätze mit besonderem Handlungsbedarf in der Innenstadt Köln – Übertragbarkeit auf andere Stadteile, z.B. Porz, Kalk, Chorweiler" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend „Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - zurückgestellt
+- TOP 8.2: Antrag der Fraktion Klima Freunde & Gut betreffend „Vermietung städtischer Räumlichkeiten an Parteien öffentlich machen" - zurückgestellt
+- TOP 8.3: Antrag der Fraktion Bündnis90/Die Grünen und der CDU-Fraktion betreffend „Personalsituation beim Ordnungsamt – Personalgewinnung – Ausrüstung“ - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktion Bündnis90/Die Grünen, der CDU-Fraktion und Volt-Fraktion betreffend „Weiteres Vorgehen auf dem Brüsseler Platz/Einrichtung von Alternativflächen“ - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2025 - 31.12.2027 - ungeändert beschlossen
+- TOP 10.2: Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKoS)" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion betreffend „Abschlussbericht und weite-res Vorgehen betreffend „Masterplan Kommunale Sicherheit (MaKoS)" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion, SPD-Fraktion und Volt-Fraktion betreffend "Abschlussbericht und weiteres Vorgehen betreffend "Masterplan Kommunale Sicherheit (MaKos)" - ungeändert beschlossen
+- TOP 10.3: Erlass ordnungsbehördliche Verordnung Kaserne Brasseur - ungeändert beschlossen
+- TOP 10.4: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2025 - ungeändert beschlossen
+- TOP 10.5: Ab- und Weitergabeverbot von Lachgas an Minderjährige in der Stadt Köln - ungeändert beschlossen
+- TOP 10.6: Neue Honorarordnung und neue Entgeltordnung der Volkshochschule Köln - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
