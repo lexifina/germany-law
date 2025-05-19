@@ -1,0 +1,82 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-19T16:00:00+02:00
+- Ende: 2025-05-19T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32053
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32053
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde Radschnellweg Köln-Frechen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Grillverbot Volksgarten, Aktenzeichen 148/24 - Kenntnis genommen
+- TOP 5.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verbesserung der Nahmobilität auf der Sülzburgstraße, Aktenzeichen 14/24 - Kenntnis genommen
+- TOP 5.2: Bürgereingaben
+- TOP 5.2.1: Bürgerantrag Hauptstraße Widdersdorf - endgültig abgelehnt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Stadtbahnprojekte - zurückgestellt
+- TOP 7.2.2: Anfrage Sportplatznutzung - zurückgestellt
+- TOP 7.2.3: Anfrage Kleinkinderschaukel - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Ordnung von Liefern und Laden - ungeändert beschlossen
+- TOP 8.1.2: Grünzug West - ungeändert beschlossen
+- TOP 8.1.3: Barbara Precht-von Taboritzki-Platz in Köln Klettenberg - ungeändert beschlossen
+- TOP 8.1.4: Öffnung Einbahnstraße Kringsweg - ungeändert beschlossen
+- TOP 8.1.5: Reformierung des Rahmenplanungsbeirates Braunsfeld / Müngersdorf /Ehrenfeld - ungeändert beschlossen
+- TOP 8.1.6: Bürgertreff im Stadtteil Widdersdorf - geändert beschlossen
+- TOP 8.1.7: Optimierung der Verkehrsführung Egelspfad - ungeändert beschlossen
+- TOP 8.1.8: Verbesserung Fußgängerüberquerung Maarweg zwischen Aachener und Stolberger - ungeändert beschlossen
+- TOP 8.1.9: Gesundheitsschutz bei Extremhitze - ungeändert beschlossen
+- TOP 8.1.10: Sicherung Fuß- und Radweg Gerhard-Marcks-Weg/Leinsamenweg - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 8.1.10 - ungeändert beschlossen
+- TOP 8.1.11: Konzeptvergabe Gleueler Wiesen - zurückgestellt
+- TOP 8.1.12: Schulwegsicherung Pater-Delp-Schule - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Benennung eines Platzes nach Helga Schlapka - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.1.1 - ungeändert beschlossen
+- TOP 9.1.2: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Entwicklungsplanung Weststadt, hier: Grundsatzbeschluss über die Ergebnisse der Entwicklungsplanung Weststadt inklusive der Projekte Low Line und Coty-Areal - geändert beschlossen
+- TOP -: Ergänzungsatrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - geändert beschlossen
+- TOP -: Änderungsantrag zu 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: Baubeschluss für die Sanierung der Stützwände an der Universitätsstraße/Albertus-Magnus-Platz in Köln-Lindenthal - geändert beschlossen
+- TOP -: Prüfantrag als Ergänzung zu TO 9.2.3 - ungeändert beschlossen
+- TOP 9.2.4: Konzept "Misch MIT! – So geht Kinder- und Jugendbeteiligung in Köln! – Ergebnisse, Erkenntnisse und Empfehlungen eines partizipativen Prozesses“ - ungeändert beschlossen
+- TOP 9.2.5: -Vorlage seitens der Fachverwaltung zurückgestellt-Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplanes Nr. 63450/03 (63450/03-00-02) Arbeitstitel: Oskar-Jäger-Straße 2. Änderung in Köln-Braunsfeld/Ehrenfeld - zurückgestellt
+- TOP 9.2.6: Baubeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.6 - ungeändert beschlossen
+- TOP 9.2.7: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP 9.2.8: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 11.3.2: Radschnellweg Köln-Frechen, aktueller Sachstand - Kenntnis genommen
+- TOP 11.3.3: Sportentwicklungsplanung „Kölle Aktiv - das Sportlabor“ – neuer Standort des mobilen Pumptracks in Sülz - Kenntnis genommen
+- TOP 11.3.4: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - Kenntnis genommen
+- TOP 11.3.5: Beantwortung einer mündliche Nachfrage zur Vorlage 3772/2024 der Ratsfraktion Klima Freunde & Gut aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 20.03.2025 - Kenntnis genommen
+- TOP 11.3.6: Kapazitätserweiterung auf der Ost-West-Achse - weiteres Vorgehen und Sachstand - Kenntnis genommen
+- TOP 11.3.7: Teilaufstockung von MFH und Baulückenschließungen - Kenntnis genommen
+- TOP 11.3.8: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
