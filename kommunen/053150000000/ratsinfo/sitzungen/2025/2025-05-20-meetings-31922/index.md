@@ -1,0 +1,67 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-20T15:30:00+02:00
+- Ende: 2025-05-20T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31922
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31922
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zu den Auswirkungen und den Umgang mit geplanten Mittelkürzungen der Landesregierung in der Exzellenz- und Spitzenförderung der darstellenden Kunst - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2025 - Kenntnis genommen
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Darstellende Künste (Theater) - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Sichtbarmachung und Evaluation der Angebote kultureller Bildung in Köln - zurückgestellt
+- TOP 3.2: Erhalt der mehrjährigen Förderprogramme für die Freie Szene in NRW - zurückgestellt
+- TOP 3.3: Digitale Weiterentwicklung von Kulturinitiativen und – vereinen in Köln stärken – Aufbau einer strukturellen Unterstützungsform prüfen - ungeändert beschlossen
+- TOP 3.4: Perspektiven für die Attraktivierung des Museums für Ostasiatische Kunst im Hinblick auf das Jubiläumsjahr 2027 - endgültig abgelehnt
+- TOP 3.5: Unterstützung bei der Raumsuche für die Ausstellung „Von der Nagelbombe bis zum Mahnmal – 20 Jahre danach“ der Initiative „Keupstraße ist überall“ - ohne Votum behandelt
+- TOP -: Änderungsantrag TOP 4.5 – Unterstützung bei der Raumsuche für die Ausstellung „Von der Nagelbombe bis zum Mahnmal – 20 Jahre danach“ der Initiative „Keupstraße ist überall“ - geändert beschlossen
+- TOP 3.6: Sachstand zur Neuinstallation des Kunstbeirats und Stellungnahme der Verwaltung zum Rücktritt der stimmberechtigten Mitglieder - zurückgestellt
+- TOP 3.7: Personalsituation im Kulturdezernat und neue räumliche Unterbringung des Kulturamtes - zurückgestellt
+- TOP 3.8: Sachstand zur Situation der Studiobühne - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage AN/0372/2025 - Sachstand zur Situation der Studiobühne - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Renovierungsprogramm für die städtischen Museen im Jahr 2025 - ungeändert beschlossen
+- TOP 4.2: Freigabe von Finanzmitteln aus der Kulturförderabgabe 2025/2026 - „Darstellende Kunst (inkl. Tanz) Freie Szene" - ungeändert beschlossen
+- TOP 4.3: Freigabe von Mitteln zur Förderung des „Film Festival Cologne 2025“ - ungeändert beschlossen
+- TOP 4.4: Bedarfsfeststellungsbeschluss für eine europaweite Ausschreibung und Vergabe des technischen Gebäudebetriebs - zurückgestellt
+- TOP 4.5: Neukonzeption der Ausstellungs- und Publikumsflächen des NS-Dokumentationszentrums - ungeändert beschlossen
+- TOP 4.6: Mittelfreigabe für den Fonds Kulturelle Bildung in Köln für die Haushaltsjahre 2025 und 2026 - ungeändert beschlossen
+- TOP 4.7: Restaurierung des Zinnenmauerwerks am Römerturm - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Mittelfreigabe "Projektkostenzuschuss Reallabor (Haus am Maarweg)" - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Konsequenzen aus dem beschlossenen weiteren Vorgehen in Bezug auf die Hallen Kalk (Hallen 75-77) - Kenntnis genommen
+- TOP 8.2: Weltkulturerbe stärken – Roms Erbe sichtbarer machen - Kenntnis genommen
+- TOP 8.3: Städtebaulicher Masterplan Innenstadt – Lupenraum Via Culturalis - Kenntnis genommen
+- TOP 8.4: Sachstandsbericht zum Förderprogramm NRWeltoffen 2024 - Kenntnis genommen
+- TOP 8.5: Regelmäßige Unterrichtung des Ausschusses für Kunst und Kultur über die Führung der Denkmalliste der Stadt Köln, Zeitraum vom 01.01.2023 – 31.12.2024 - Kenntnis genommen
+- TOP 8.6: Jubiläumsprogramm - 60 Jahre Museumsdienst Köln - Kenntnis genommen
+- TOP 8.7: Entwicklung des Deutschen Tanzarchivs Köln zu Forschungs- und Kompetenzzentrum Tanz NRW - zurückgestellt
+- TOP 8.8: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten-/Termin-Darstellung (Zeitstrahl) - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 30. April 2025 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 16. April 2025 - Kenntnis genommen
+- TOP 9.3: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 15. April 2025 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Stadtteilbibliothek im Kölner Westen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage zum Thema Stadtteilbibliothek im Kölner Westen - Kenntnis genommen
+- TOP 10.2: Prävention von und Konsequenzen aus Machtmissbrauch in Kulturbetrieben - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke betreffend "Prävention von und Konsequenzen aus Machtmissbrauch in Kulturbetrieben" - Kenntnis genommen
+- TOP 10.3: Beantwortung einer mündlichen Anfrage des SE Lenzen aus der Sitzung des Ausschusses Kunst und Kultur vom 25.03.2025 betreffend Gastronomie im Museum für Ostasiatische Kunst - Kenntnis genommen
+- TOP 10.4: Nachfragen von Frau von Bülow aus dem Ausschuss Kunst und Kultur vom 25.03.2025 zum Sachstandsbericht der MiQua 0009/2025/1 bezüglich MPZ, Innenhof des Consiliums und Treppe und Vorplatz vom Spanischen Bau des Rathauses - Kenntnis genommen
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage Sachstand digitales Ticketing - zurückgestellt
+- TOP 12: Mündliche Anfragen
