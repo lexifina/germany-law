@@ -1,0 +1,185 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2025-05-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8599409
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8599409
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 15.04.2025
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Init. "Straßenfest" „Straßenfest für und mit Giesing (Straßenfest vs. Urban Tennis meets Hofflohmärkte) am 24.05.2025“ 2.564,50 € / AZ: 0262.0-18-0418
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Stiftung Kulturator „ROOKIE Candidplatz für alle vom 01.09.2025 - 31.12.2025“ 6.776,80 € / AZ: 0262.0-18-0421
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Ensemble La Vie „"Zu Gehör.t" Ein szenische Lesereihe zum Thema Zugehörigkeit vom 15.07.2025 - 31.12.2025“ 2.970,00 € / AZ: 0262.0-18-0420
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Förderverein Mittelschule an der Fromundstraße „Abschlussfahrt der 9. Klasse der Mittelschule Fromundstraße vom 14.07.2025 - 18.07.2025“ 2.376,00 € / AZ: 0262.0-18-0419
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Wir in Giesing e.V. „Ois Giasing am 13.09.2025“ 5.800,00 € / AZ: 0262.0-18-0423
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Initiative "Window 95" „Window 95 vom 25.05.2025 - 25.08.2025“ 12.490,00 € / AZ: 0262.0-18-0422
+- TOP 3.1.2.7.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt „Fromundstraßenfest 2025 am 18.07.2025“ 5.000,00 € / AZ: 0262.0-18-0424
+- TOP 3.1.2.8.: (E) Stadtbezirksbudget Z Pertsem e.V. „Fahrt zum World Dance Contest 2025 vom 26.05. - 22.06.2025“ 5.031,00 € / AZ: 0262.0-18-0425
+- TOP 3.1.2.9.: (E) Stadtbezirksbudget Wasserwacht München Mitte „Jugendfreizeit vom 04.08.2025 - 10.08.2025“ 1.924,33 € / AZ: 0262.0-18-0426
+- TOP 3.1.2.10.: (E) Stadtbezirksbudget Siedler- und Eigenheimervereinigung Harlaching e.V. „Stadtteil-Musik-Kultur-Fest am Mangfallplatz am 25.07.2025“ 1.885,12 € / AZ: 0262.0-18-0427
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Mahnmal zur Reichsprogromnacht in der Isenschmidstraße; Bürgeranliegen
+- TOP 3.2.3.2.: Ertüchtigung des Rasenplatzes an der Bezirkssportanlage Agilofingerstraße; SPD-Antrag
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Sommerfest der Anwohner am 05.07.2025 auf der Grünanlage am Rondell in der Steingadener Straße
+- TOP 3.2.4.2.: Sommerfest der Kinderwelt Harlaching e.V. am 28.06.2025 auf der Grünanlage in der Oberbiberger Straße
+- TOP 3.2.4.3.: Straßenfest am 07.06.2025 in der Schyrenstraße
+- TOP 3.2.4.4.: Gestaltung der Boulderwand am Wörnbrunnerplatz
+- TOP 3.2.4.5.: Anwohner-Straßenfest in der Unteren Weidenstraße am 19.07.2025
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Temporäre Kunstaktion "afrodeutsche Besatzungskinder" im Rosengarten vom 16.09.-31.10.2025
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Versammlungsanzeigen im Stadtbezirk 18
+- TOP 3.2.6.2.: Drehgenehmigungen im Stadtbezirk 18
+- TOP 3.2.6.3.: Genehmigung des Flohmarkts des Kirschbaumkindergarten e.V. am 06.04.2025 am Hans-Mielich-Platz
+- TOP 3.2.6.4.: Genehmigung des Sportangebots "Outdoor against Cancer" beim Trimm-dich-Pfad am Candidplatz
+- TOP 3.2.6.5.: Genehmigung des Harlachinger Maifests vom 01.05. - 04.05.2025
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Errichtung von Zebrastreifen in der St.-Magnus-Straße; Bürgeranliegen
+- TOP 3.3.3.2.: Unfallstatistik Ecke Bruckenfischerstraße/Weyarner Straße seit Einführung des wechselseitigen Halteverbots; Bürgeranliegen
+- TOP 3.3.3.3.: Antrag auf Fahrrad- und/oder Lastenradabstellplätze in der Säbener Straße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Erleichterte streckenbezogene Anordnung von Tempo 30 im Bereich des Fußgängerüberwegs in der Tierparkstraße (Höhe Schlichtweg)
+- TOP 3.3.4.2.: Einrichtung von zwei Behindertenparkplätzen auf dem Parkplatz an der Klausener Straße (westlich des Hallenbades)
+- TOP 3.3.4.3.: Raumaufteilung Martin-Luther-Straße; Vorab-Einschätzung des BAs
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Antwort des Mobilitätsreferats zu den Shared Mobility Planungen
+- TOP 3.3.5.2.: Antwort der Polizei zur Kontrolle von Radfahrer*innen in der Säbener Straße
+- TOP 3.3.5.3.: Sanierung des Pflasterbelages in Agilolfinger Straße und Konradinstraße
+- TOP 3.3.5.4.: Antwort des Baureferats zur Parkplatz- und Verkehrssituation in der Reinerstraße
+- TOP 3.3.5.5.: Gefahrenstelle durch parkende PKWs in der Gabriel-Max-Straße
+- TOP 3.3.5.6.: Umwidmung und damit verbundene Sperrung am Hollerbusch
+- TOP 3.3.5.7.: Zebrastreifen im Stadtbezirk 18
+- TOP 3.3.5.8.: MVG-Anbindung nördlich des Hans-Mielich-Platzes
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Anliegerinformation zur Fahrbahnsanierung am Hollerbusch
+- TOP 3.3.6.2.: Ausdehnung der Hol- und Bringzonen im Zuge der Straßensperre in der Naupliastraße
+- TOP 3.3.6.3.: Entfernung von zwei allgemeinen Behindertenstellplätzen in der Unteren Weidenstraße
+- TOP 3.3.6.4.: Aufhebung der Radwegbenutzungspflicht in der Humboldtstraße (beidseitig zwischen Pilgersheimer Straße und Claude-Lorraine-Straße)
+- TOP 3.3.6.5.: Verkehrsrechtliche Anordnung einer Tempo-30-Zone in der Sachsenstraße
+- TOP 3.3.6.6.: Zwischennachrichten der Verwaltung zu Anträgen aus dem Bereich Mobilität
+- TOP 3.3.6.7.: Verkehrsrechtliche Anordnungen in der Naupliastraße für die Grundschule Rotbuchenstraße und die Kindertagesstätte
+- TOP 3.3.6.8.: Verkehrsrechtliche Anordnung der Carsharing-Stellflächen in der Fromundstraße
+- TOP 3.3.6.9.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Schmorellplatz 12
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällanträge (Anhörungen): - Aretinstr. - Gabriel-Max-Str. - Griechenplatz - Heinrich-Kröller-Str. - Tegernseer Landstr. - Theodolindenstr. - Tierparkstr.
+- TOP 3.4.4.2.: Stellungnahme des Direktoriums zu Forderungen nach mehr Mitentscheidungsrechten für die Bezirksausschüsse
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Nahwärme als Alternative zur Fernwärme - Kommunale Wärmeplanung
+- TOP 3.4.5.2.: Antwort des Baureferats zur Streuung mit Salz und zur Reinigung der Straßenrinne
+- TOP 3.4.5.3.: Antwort des Baureferats zur Verwendung von Streumitteln am Hans-Mielich-Platz
+- TOP 3.4.5.4.: Antwort der Baumschutzbehörde zur monierten Vorgehensweise bei Baumfällanträgen
+- TOP 3.4.5.5.: Entfernung der Altkleidercontainer in der Gerhard- und Lebscheestraße
+- TOP 3.4.5.6.: Antwort des Referats für Arbeit und Wirtschaft zum Projektentwurf "Vertikale Landwirtschaft" am Wettersteinplatz
+- TOP 3.4.5.7.: Schnellstmögliche Entfernung von Misteln an zahlreich befallenen Bäumen im 18. Stadtbezirk
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Zwischennachrichten der Referate zu BA-Anträgen aus dem Bereich Umwelt und Klimaschutz
+- TOP 3.4.6.2.: Kanalsanierung in der Tegernseer Landstraße / Otkerstraße - Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.4.6.3.: Baumfällbescheide (Unterrichtungen): - Josef-Vötter-Str. - Terhallestr.
+- TOP 3.4.6.4.: SWM-Fernwärme-Projekt in der Gerhardstraße
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Genehmigung einer Freischankfläche in der Pilgersheimer Straße
+- TOP 3.5.2.2.: Genehmigung einer Freischankfläche in der Konradinstraße
+- TOP 3.5.2.3.: Erweiterung einer bestehenden Freischankfläche in der Säbener Straße
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Städtisches Unterkunftsheim für Männer an der Pilgersheimer Straße; Bürgeranliegen
+- TOP 3.5.3.2.: Verbesserung der Sauberkeit und Aufenthaltsqualität in der Fußgängerunterführung Otkerstraße; SPD-Antrag
+- TOP 3.5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.5.: Gestaltung des Trafohäuschens am Miesbacher Platz; SPD-Antrag
+- TOP 3.5.3.6.: Stellungnahme zur Grünen-Anfrage zur Palliativstation im Neubau der München Klinik Harlaching; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Ergänzendes Anhörungsrecht der Bezirksausschüsse bei einer Änderung der Sondernutzungsrichtlinien
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Stellungnahme von AKIM zu Aktivitäten am Wettersteinplatz und am Hans-Mielich-Platz
+- TOP 3.5.5.2.: Aktueller Stand zur Wiedereröffnung der U-Bahn-Toiletten am Kolumbusplatz
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Mitteilung zur Fortführung der Gaststätte "S21" in der Schönstraße
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Anfrage zum geplanten Bauprojekt Candidtor; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Anbau eines Aufzuges in der Tegelbergstraße 5
+- TOP 3.6.4.1.2.: Neubau eines Mehrfamilienhauses mit Tiefgarage in der Säbener Straße 56 und Erweiterung des Mehrfamilienhauses Nr. 54a
+- TOP 3.6.4.1.3.: Neubau eines Wohnhauses (RGB) mit drei Einheiten in der Meichelbeckstraße 2 - Vorbescheid
+- TOP 3.6.4.1.4.: Neubau eines Mehrfamilienhauses mit Tiefgarage in der Geiselgasteigstraße 122b - Vorbescheid
+- TOP 3.6.4.1.5.: Neubau von zwei Mehrfamilienhäusern in der Gabriel-Max-Straße 62 mit insgesamt 8 Wohneinheiten, Carlift und Tiefgarage
+- TOP 3.6.4.1.6.: Neubau eines Wohnhauses mit Garage in der Lautererstraße 25
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Antwort der Lokalbaukommission zum Baufall in der Isenschmidstraße 14
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.3.4.: Aufbringen eines „Zebrastreifens“ oder sonstiger farblicher Markierungen auf dem Radweg vor den Zugängen zum Gutshof Menterschwaige; Dringlichkeitsantrag CSU
