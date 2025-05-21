@@ -1,0 +1,76 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-21T17:00:00+02:00
+- Ende: 2025-05-21T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27720
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27720
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00553175.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00553175.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00553175.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Vorstellung des Förderprojektes "KI für eine Stadtverträgliche Signalsteuerung in Düsseldorf (KISSiD)"
+- TOP 4: Vorstellung der Kriminalitätsstatistik 2024 für den Stadtbezirk 6
+- TOP 5: Vorstellung des Projekts "Jugend checkt Düsseldorf im Stadtbezirk 6"
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: "Rath/Mörsenbroich - Mitten am Stadtrand" - Empfehlung einstimmig beschlossen
+- TOP 7: "Rath/Mörsenbroich - Mitten am Stadtrand" - Empfehlung einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Kunst und Bau an der Realschule Borbecker Strasse – Realisierung - Empfehlung einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Ausweisung des Nördlichen Teils des Kartäuserparks als Fläche für den Flughafen - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 13: Anfrage der CDU-Fraktion: Konzept zum Brandschutz und zur Brandbekämpfung im Aaper Wald - schriftlich beantwortet
+- TOP 14: Anfrage der CDU-Fraktion: Errichtung des Trinkwasserspenders und Nutzung des Platzes am Rather Carré - vertagt
+- TOP 15: Anfrage der SPD-Fraktion: Einzelhandelsversorgung und Gastronomiebetriebe im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 16: Anfrage der SPD-Fraktion: Tempo 30 "An der Piwipp" - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Anfrage der Fraktion BÜ90/Die Grünen: Fällung von 34 Ersatz-Jungbäumen für ein Flughafenparkhaus vor Baugenehmigung - schriftlich beantwortet
+- TOP 20: Anfrage der Fraktion BÜ90/Die Grünen: Regelungen für den Einsatz von Bodenschwellen (auf der Krahnenburgstraße) - vertagt
+- TOP -: Anträge
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Antrag der CDU-Fraktion: Aufwertung/Pocket Park als „Grüne Oase“ am Dreieck Mühligweg/Diezelweg - abweichend beschlossen
+- TOP 23: Antrag der CDU-Fraktion: Auswertung der App „Düsseldorf bleibt sauber“ - einstimmig beschlossen
+- TOP 24: Antrag der CDU-Fraktion: Entfernung Altkleidercontainer der AWISTA am Parkplatz Ecke Lichtenbroicher Weg/Dickhausweg - abweichend beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Ausbesserung/Instandsetzung der Fahrbahn auf der Liliencronstraße - einstimmig beschlossen
+- TOP 26: Antrag der SPD-Fraktion: Kurzfristiger Umbau von Haltestellen zur Erhöhung der Sicherheit: Elsässer Straße und Am Röttchen - einstimmig beschlossen
+- TOP 27: Antrag der SPD-Fraktion: Sichere Tiefgaragenausfahrt Westfalenstraße - einstimmig beschlossen
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines Zebrastreifens auf dem Mörsenbroicher Weg im Bereich Vinckestraße - mehrheitlich beschlossen
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: ÖPNV-Beschleunigung im Bereich zwischen Münsterstraße/Wrangelstraße und Münsterstraße/Am Schein - einstimmig beschlossen
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Öffentliche Toilette auf der Westfalenstraße - einstimmig beschlossen
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Japanischen Staudenknöterich am Ratherbroicher Grenzgraben eindämmen - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 32: Unterrather Straße - Tempo 30 (Kartause-Hain-Schule) -Beschlussvorlage- - Empfehlung einstimmig beschlossen
+- TOP 33: Zuschuss an den Allgemeinen Rather Turnverein 1977/90 e.V. - einstimmig beschlossen
+- TOP 34: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des VGS (Verein für Gesundheitssport & Sporttherapie) Düsseldorf e. V. - Anschaffung eines Defibrillators - einstimmig beschlossen
+- TOP 35: Verfügungsmittel 2025 - Zuschussvergabe 2025 - Antrag des St. Sebastianus Schützenbruderschaft e. V. Düsseldorf-Unterrath - Jung und Alt miteinander - einstimmig beschlossen
+- TOP 36: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Masoud Ghahremani - Nowruzfest 2025 - einstimmig beschlossen
+- TOP 37: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Pinocchio e. V. - Erweiterung und Ausbau des Tonstudios - vertagt
+- TOP 38: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Amtes für Soziales und Jugend, Kinder- und Jugendfreizeiteinrichtung Ammerweg - Wasserrutsche für das Sommerfest 2025 - einstimmig beschlossen
+- TOP 39: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Team Bananenflanke Düsseldorf e. V. - 1. Sommerfest - einstimmig beschlossen
+- TOP 40: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des DJK AGON 08/Mörsenbroicher Sportverein Düsseldorf e. V. - Sport statt Straße 2025 - vertagt
+- TOP 41: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Rather Familienzentrums - 12. Rather Kulturwoche - einstimmig beschlossen
+- TOP 42: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des St. Sebastianus Schützenverein Derendorf 1655 e. V. - Bunter Kindernachmittag zum Schützenfest 2025 - einstimmig beschlossen
+- TOP 43: Bauunterhaltungsmittel 2025 Teil C "Förderung Dritter" - Anschaffung eines Schulungsdoppelsitzers für den Düsseldorfer Aero Club e. V. - vertagt
+- TOP -: Informationsvorlagen
+- TOP 44: Schwimmbad Unterrath jetzt bauen! - Vorlage BV6/215/2024 - zur Kenntnis genommen
+- TOP 45: Baumfällungen im Stadtbezirk 6 in der 16. Kalenderwoche - zur Kenntnis genommen
+- TOP 46: Fußgängerüberweg Westfalenstraße - Ergebnisse Verkehrszählung - Vorlage BV6/211/2024 - zur Kenntnis genommen
+- TOP 47: Wetterschutz - Unterstand für die Pump-Track-Anlage an der St. Franziskus-Straße - Vorlage BV6/016/2025 - zur Kenntnis genommen
+- TOP 48: Aufwertung der Fußgängerzone Matthiaskirchweg und Stärkung des Lichtenbroicher Zentrums - BV6/192/2024 - zur Kenntnis genommen
+- TOP 49: Denkmal Vallourec - Vorlage BV6/188/2024 - zur Kenntnis genommen
+- TOP 50: Baumfällungen im Stadtbezirk 6 ab der 18. Kalenwerwoche 2025 - zur Kenntnis genommen
+- TOP 51: Schließung der Kita Eugen-Richter-Straße - BV6/021/2025 - zur Kenntnis genommen
+- TOP 52: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53: Sachstandbericht zur Problematik der Urlaubsparker - zur Kenntnis genommen
