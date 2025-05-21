@@ -1,0 +1,59 @@
+# 31. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-05-21T16:05:00+02:00
+- Ende: 2025-05-21T21:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13960
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13960
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00569688.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weiterführung Filmservice Münster.Land - mehrheitlich beschlossen
+- TOP 3: Bearbeitungsstand der Ratsanträge, der Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen an den Rat, der Kommunalen Seniorenvertretung an den Rat, des Integrationsrates an den Rat, des Jugendrates an den Rat und der - zur Kenntnis genommen
+- TOP 4: Weiterentwicklung des Einbürgerungsverfahrens - zur Kenntnis genommen
+- TOP 5: Gesundheit und Entwicklung von Kindern im Einschulungsalter in Münster 2014 - 2024 - zur Kenntnis genommen
+- TOP 6: Ratsantrag A-R/0003/2024: Pragmatisch und schnell - für leistbares Wohnen in Münster - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Stadtklimaanalyse Münster 2025 mit Planungshinweiskarte - ohne Beschlussfassung geschoben
+- TOP 8: Feststellung des Jahresabschlusses zum 31.12.2023 der Stadt Münster - einstimmig beschlossen
+- TOP 9: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2022 - einstimmig beschlossen
+- TOP 10: Neufassung der Wahlordnung für die Wahl der direkt in den Integrationsrat zu wählenden Mitglieder (IRWahlO) - einstimmig beschlossen
+- TOP 11: Bericht zum Umsetzungsstand der weiteren interkulturellen Öffnung der Verwaltung - zur Kenntnis genommen
+- TOP 12: Ausschreibung der Stelle der*des Generalintendant*in des Theaters Münster - einstimmig beschlossen
+- TOP 13: Anpassung der verbindlichen Stichtagsregelung für die Genehmingung verkaufsoffener Sonntage - ohne Beschlussfassung geschoben
+- TOP 14: Taxiordnung für die von der Stadt Münster konzessionierten Taxen - einstimmig beschlossen
+- TOP 15: Errichtungsbeschluss Aus- und Fortbildungszentrum für die Feuerwehr - einstimmig beschlossen
+- TOP 16: Digitale Stadt Münster - Bericht zur Gigabit- und Mobilfunkkoordination für die Stadt Münster - zur Kenntnis genommen
+- TOP 17: Neuausrichtung des Wirtschaftspreises der Stadt Münster Antrag der Fraktion Bündnis 90/Die Grünen/GAL, der SPD-Fraktion und der Ratsgruppe Volt an den Rat Nr. A-R/0052/2023 - ohne Beschlussfassung geschoben
+- TOP 18: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 19: Verschmelzung der Wohnungsgesellschaft Große Lodden mbH (WGL) auf die Wohn + Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 20: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - ohne Beschlussfassung geschoben
+- TOP 21: Bürgerumfrage 2023 zu Klimaschutz und Klimafolgenanpassung - Methodik und zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 22: Interkommunale Zusammenarbeit - einstimmig beschlossen
+- TOP 23: Indikatorenbasierte Verteilung des kommunal finanzierten Personals der Schulsozialarbeit und der Förderinseln für die Schuljahre 2025/2026 ff. - ohne Beschlussfassung geschoben
+- TOP 24: Umwandlung der katholischen Overbergschule, Margaretenstraße 6, 48145 Münster, in eine Gemeinschaftsgrundschule - einstimmig beschlossen
+- TOP 25: Satzung zur Änderung der Satzung für den Jugendrat - einstimmig beschlossen
+- TOP 26: Überleitung der außerunterrichtlichen Angebote der Annette-von-Droste-Hülshoff-Schule Angelmodde (OGS) - einstimmig beschlossen
+- TOP 27: Überleitung der außerunterrichtlichen Angebote der Theresienschule (OGS) - einstimmig beschlossen
+- TOP 28: Überleitung der außerunterrichtlichen Angebote der Idaschule (OGS) - einstimmig beschlossen
+- TOP 29: Elternbeiträge für Kinderbetreuungsangebote - Entlastung der unteren Einkommensgruppen - ohne Beschlussfassung geschoben
+- TOP 30: Grundsatzbeschluss Erweiterung Sportanlage Hiltrup-Ost - einstimmig beschlossen
+- TOP 31: Änderung der Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 32: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2023/2024 - einstimmig beschlossen
+- TOP 33: Bauliche Erweiterung des Gymnasiums Paulinum für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 34: Peter-Wust-Schule - Baubeschluss - einstimmig beschlossen
+- TOP 35: Baubeschluss: Neubau der ZUE am Pulverschuppen - ohne Beschlussfassung geschoben
+- TOP 36: Errichtung einer Papierumschlaghalle auf dem Gelände der MRA (Entsorgungszentrum) - einstimmig beschlossen
+- TOP 37: Aufhebung von Beschlüssen zur Aufstellung von Bauleitplänen. Einstellung der Bauleitplanverfahren. - von der Tagesordnung abgesetzt
+- TOP 38: Bauleitplanung
+- TOP 38.1: Stadtbezirk Hiltrup
+- TOP 38.1.1: Veränderungssperre 115 - 1. Verlängerung - einstimmig beschlossen
+- TOP 38.1.2: Bebauungsplan Nr. 256 II - 1. Änderung - Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 39: Verschiedenes
