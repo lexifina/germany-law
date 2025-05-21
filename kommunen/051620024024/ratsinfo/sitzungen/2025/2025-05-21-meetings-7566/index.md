@@ -1,0 +1,52 @@
+# Ausschuss für Umwelt, Grünflächen und Klimaschutz
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-05-21T17:00:00+02:00
+- Ende: 2025-05-21T18:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/225
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7566
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7566
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich Stand 09.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00226875.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich Stand 09.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00226875.pdf
+- Wortprotokoll: Sitzungspaket öffentlich Stand 09.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00226875.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 4: Beauftragung einer Wirtschaftsprüfungsgesellschaft mit der Prüfung des Jahresabschlusses 2024 der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 5: Antrag von UWG/Freie Wähler Neuss v. 28.04.2025 bzgl. "Antrag möglicher Aussiedlungsstellen (Außenvolieren) für Eichhörnchen zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - mit Änderungen einstimmig zugestimmt
+- TOP 6: Antrag von UWG/Freie Wähler Neuss v. 28.04.2025 bzgl. "Antrag Prüfung Eichhörnchenseile zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - mit Änderungen einstimmig zugestimmt
+- TOP 7: Antrag von UWG/Freie Wähler Neuss v. 28.04.2025 bzgl. "Antrag Tierrettungsstellen zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - einstimmig zugestimmt
+- TOP 8: Antrag von UWG/Freie Wähler Neuss v. 28.04.2025 bzgl. "Antrag Recycling/Verwertung Handys und Tablets zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - mehrheitlich abgelehnt
+- TOP 9: Antrag von UWG/Freie Wähler v. 28.04.2025 bzgl. "Antrag Friedhöfe zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - verwiesen
+- TOP 10: Antrag der CDU v. 09.05.2025 bzgl. "Bericht zum Zustand der Hummelbachaue" - zur Kenntnis genommen
+- TOP 11: Antrag der CDU v. 09.05.2025 bzgl. "Rettung des Gillbachs" - mit Änderungen einstimmig zugestimmt
+- TOP 12: Antrag der CDU v. 09.05.2025 bzgl. "Altkleiderentsorgung nach neuer EU-Abfallrichtlinie" - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 13: Anfrage von UWG/Freie Wähler v. 05.05.2025 bzgl. "Anfrage Urban Gardening zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - zur Kenntnis genommen
+- TOP 14: Anfrage von UWG/Freie Wähler v. 28.04.2025 bzgl. "Anfrage Mitteilung Solardachausbau zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - zur Kenntnis genommen
+- TOP 15: Anfrage von UWG/Freie Wähler v. 05.05.2025 bzgl. "Anfrage TinyForest zum Ausschuss für Umwelt, Grünflächen und Klimaschutz am 21.05.2025" - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 16: Wirtschaftsplan Stadtgrün 2025 - Übersicht nach den politischen Beratungen - zur Kenntnis genommen
+- TOP 17: „Neuss saniert " – Aktivierung zur energetischen Gebäudesanierung - zur Kenntnis genommen
+- TOP 18: Quartalsbericht für Stadtgrün Neuss zum 31.03.2025 - zur Kenntnis genommen
+- TOP 19: Weitere Umsetzung der Sauberkeitsoffensive mit Ausbau der Getrennterfassung - zur Kenntnis genommen
+- TOP 20: Sachstandsbericht 2025 zum Integrierten Klimaschutzkonzept (IKK) - zur Kenntnis genommen
+- TOP 21: Budgetrahmen zu priorisierten Maßnahmen des Klimaanpassungskonzeptes (KLAK) - zurückgezogen
+- TOP 22: Grundwasserstände in Neuss - zur Kenntnis genommen
+- TOP 23: PFOS im Rhein - zur Kenntnis genommen
+- TOP 24: Nachhaltige Sanierung der Teiche im alten und neuen Stadtgarten - zur Kenntnis genommen
+- TOP 25: Gloriapark - Information zur geplanten Umsetzung des integrierten Freiraumkonzeptes - zur Kenntnis genommen
+- TOP 26: Vorgehensweise bei der Anpassung von Pflegeklassen - zur Kenntnis genommen
+- TOP 27: Maßnahmen zur Aufwertung des Scheibendamms zwischen Alexianerplatz und Sportboothafen, Revitalisierung der Landschaftsfenster, Erneuerung Mobiliar - zur Kenntnis genommen
+- TOP 28: Umstellung von Dieselfahrzeugen auf "Öko-Diesel" - zur Kenntnis genommen
+- TOP 29: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 30: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
