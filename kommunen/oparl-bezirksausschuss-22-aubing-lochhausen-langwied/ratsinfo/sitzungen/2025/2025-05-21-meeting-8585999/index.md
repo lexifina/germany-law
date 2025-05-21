@@ -1,0 +1,100 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2025-05-21T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8585999
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8585999
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Verkehrsaufkommen /-lärm Bergsonstraße
+- TOP 2.1.2.: Verkehrswidrigkeiten Am Aubinger Feld
+- TOP 2.1.3.: Sicherheitsproblem am Zebrastreifen Ubostraße
+- TOP 2.1.4.: Fußgängersicherheit in der Limes- und Wiesentfelser Straße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.1.: Genehmigungsbescheid zur Baumfällung, hier: - Sigererstr. 3b, Schr. Planungsreferat vom 28.04.25
+- TOP 4.: Anträge
+- TOP 4.1.: Anfrage: Integriertes Strukturkonzept für Lochhausen/Langwied - Was ist der aktuelle Sachstand? (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.2.: Anfrage: Private Abstellplätze im 1. Realisierungsabschnitt Freiham (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.3.: Anpassung der Priorisierung des barrierefreien Ausbaus Busendhaltestelle Linie 830 Lochhausen Bahnhof (Kriesel, Spannagl, Stockmann)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 4.000,00 Euro, Az.: 0262.0-22-0282
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Dringende Klärung der Zuständigkeiten am Schulcampus Freiham, Schr. Ref. f. Bildung u. Sport am 23.04.25
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnungen, hier: - Grafrather Straße, Anordnung eines Haltverbots, Schr. Mobilitätsreferat vom 05.05.25
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Dixi-Klo am Parkplatz an der Aubinger Lohe, Schr. Baureferat vom 22.04.25
+- TOP 6.4.2.2.: Bauanträge im 22. Stadtbezirk: 14.04.-20.04.25, 21.04.-27.04.25, (N) - 05.05.-11.05.25
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung, hier: - Musikkaffee, Bodenseestr. 228, Schr. KVR vom 06.05.25
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Klima- und Umweltschutz vom 18.03.25 - Umgang mit hohen Grundwasserständen - Rechtlicher Rahmen, Verantwortlichkeiten und Handlungsmöglichkeiten der öffentlichen Hand
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 4.4.: E-Ladestation P+R Parkplatz S-Bahn Langwied (Spannagl, Kriesel, Stockmann, Weber)
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 25.06.25 um 19.00 Uhr im Bildungscampus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 12.05.25 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 13.05.25 um 19.30 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 14.05.25, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 15.05.25, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 2.1.5.: (N) - Aubinger Lohe Waldwege
+- TOP 2.1.6.: (N) - Anregung zur Einrichtung weiterer Wertstoffinseln in Neuaubing + Schr. AWM vom 14.05.25
+- TOP 5.2.: (N) Stadtbezirksbudget Burschenverein Aubing e.V. Busumleitung im Rahmen des Maibaumaufstellens am 01.05.2025 1.316,00 Euro, Az.: 0262.0-22-0286 - Antrag zurückgezogen -
+- TOP 6.4.1.1.: (N) - Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München, Anhörung Planungsreferat vom 09.05.25
+- TOP 2.1.7.: (N) - Sonnenschutz auf Spielplätzen
+- TOP 2.1.8.: (N) - Suche nach Räumlichkeiten für eine Elterninitiative zur Hort- und Kindergartenbetreuung
+- TOP 2.1.9.: (N) - Hilfe bei Suche nach Nachmittagsbetreuungsplatz
+- TOP 6.2.1.1.: (N) - Antrag auf Genehmigung einer Veranstaltung in städt. Grünanlage, hier: Jugendbeteiligung des Baureferates am 27.05.25 im Grünband Freiham/Aubing, Flurstück 3725/0, Nähe Ellis-Kaut-Str. / Wiesentfelser Str. 57, Anhörung KVR vom 07.05.25 (Eilentscheidung BA-Vorsitzender)
+- TOP 2.1.10.: (N) - Durchgang Bergsonstr. / Noderstr.
+- TOP 2.1.11.: (N) - Hausmüll und Unrat an den Wertstoffinseln am Aufseßerplatz
+- TOP 6.1.1.1.: (N) - Antrag auf Genehmigung einer Veranstaltung in städt. Grünanlage, hier: Gottesdienst am Waidachanger 7a (vor der Kapelle) am 31.05.25, Anhörung KVR vom 12.05.25
+- TOP 6.1.1.2.: (N) - Antrag auf Genehmigung einer Veranstaltung in Grünanlage, hier: 11. Internationales Sommerfest in der Radolfzeller Str. / Altenburgstr. vom 28.-29.06.25 (Ersatztermin: 05.-06.07.25), Anhörung KVR vom 08.05.25
+- TOP 6.1.1.3.: (N) - Antrag auf Genehmigung einer Veranstaltung in städt. Grünanlage, hier: Sommerkonzert am Solarium in der Wiesentfelser Str. 53 am 26.06.25, Anhörung KVR vom 09.05.25
+- TOP 6.3.2.2.: (N) - Beparkung Grünanlage Federseestraße, Schr. Baureferat vom 05.05.25
+- TOP 6.3.2.3.: (N) - Stand der Planung neue Nord-Süd-Verbindung, Schr. Planungsreferat vom 09.05.25
+- TOP 6.4.1.2.: (N) - Ravensburger Ring, Aufwertung der öffentlichen Grünfläche, Anhörung Planungsreferat vom 13.05.25
+- TOP 6.4.2.3.: (N) - Abstand zum Bach (Erlbach), Schr. Ref. f. Klima- und Umweltschutz vom 08.05.25
+- TOP 6.4.2.4.: (N) - Reinigung Langwieder Bach, Schr. Baureferat vom 07.05.25
+- TOP 9.2.: Ausschuss für Klima- und Umweltschutz am 20.05.25 - Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 9.3.: Sozialausschuss vom 22.05.25 - Neueröffnung einer Unterkunft zur Unterbringung Geflüchteter an dem Standort • Lochhausener Straße (Flst.Nr. 709, Gem. Langwied) 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 9.4.: (U) Schutz- und Nutzungskonzept für die Aubinger Lohe und Moosschwaige
+- TOP 2.1.12.: (N) - Bürgersteig Grete-Weil-Straße / Marie-Luise-Jahn-Straße
+- TOP 2.1.13.: (N) - Keine Sicht durch mindestens 1m Graswuchs im Juli in Höhe Bodenseestr. 306 und 308 und noch weitere 4 Ausfahrten
+- TOP 4.5.: (N) - Absicherung der Radvorrangstrecke in Freiham - Haifischzähne (Bündnis 90/Die Grünen)
+- TOP 6.3.1.1.: (N) - Verkehrsrechtliche Anordnung, hier: - Am Aubinger Wasserturm, Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung Mobilitätsreferat vom 13.05.25
+- TOP 6.3.2.4.: (N) - Fußgängerampel an der Bodenseestr. 279, Schr. Mobilitätsreferat vom 13.05.25
+- TOP 2.1.14.: (N) - Verkehrsschild "Spielende Kinder" Maganusweg
+- TOP 3.1.2.: Baumfällungen im 22. Stadtbezirk: - Schwojerstr. 32 a - Mettnauer Str. 27 (N) - Altostr. 36 (N) - Limesstr. 66 (N) - Schussenrieder Str. 32
+- TOP 6.4.2.5.: (N) - Glasfaserausbau Aubing, Schr. Baureferat vom 14.05.25
+- TOP 6.4.2.6.: (N) - Unterstützungsschreiben der BAs zum Antrag "Postfiliale Tegernseer Platz" des BA 17, Schr. Ref. f. Arbeit u. Wirtschaft vom 14.05.25
+- TOP 6.4.2.7.: (N) - Entwurf Pferdekoppel und Pferdeschwemme, Schr. Baureferat vom 15.05.25
+- TOP 6.4.2.8.: (N) - Stadtwerke München, Geschäftsbericht 2024
+- TOP 8.2.: (N) - Zweckentfremdung von Wohnraum, hier: - Mettnauer Str., Schr. Sozialreferat vom 15.05.25 - Heuglinstr., Schr. Sozialreferat vom 15.05.25
+- TOP 6.3.2.5.: (N) - Mahatma-Ghandi-Platz, Anbringung Piktogramm "Fußgängerzone", Schr. Mobilitätsreferat vom 15.05.25
+- TOP 2.1.15.: (N) - Aubinger Tunnel und Standstreifen
+- TOP 2.1.16.: (N) - E-Roller rund um den Freihamer Bahnhof
+- TOP 2.1.17.: (N) - Antrag auf Erweiterung der Grundschule Lochhausen
