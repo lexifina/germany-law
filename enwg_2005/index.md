@@ -14,6 +14,7 @@
 - [§ 4b Zertifizierung in Bezug auf Drittstaaten](0004b.md)
 - [§ 4c Pflichten der Transportnetzbetreiber](0004c.md)
 - [§ 4d Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen](0004d.md)
+- [§ 4e Zertifizierung des Betreibers einer Gasspeicheranlage](0004e.md)
 - [§ 5 Anzeige der Energiebelieferung](0005.md)
 - [§ 5a Speicherungspflichten, Veröffentlichung von Daten](0005a.md)
 - [§ 5b Anzeige von Verdachtsfällen, Verschwiegenheitspflichten](0005b.md)
