@@ -1,0 +1,98 @@
+# 33. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-22T15:05:00+02:00
+- Ende: 2025-05-22T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31712
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31712
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Städtebauliches Planungskonzept "Schlenderhaner Straße in Köln-Niehl" Beantwortung einer mündlichen Anfrage aus der Sitzung des Stadtentwicklungsausschusses am 27.03.2025 - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage von Herrn RM Sterck (FDP) aus der 32. Sitzung des Statdentwicklungsausschusses vom 27.03.2025 betreffend TOP 18.14 "Sachstand Hallen Kalk, 0488/2025" - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage bzgl. Bürgerbeteiligung und Bedarfsanalyse zum Bebauungsplan Nr. 63569/01 („Heinrichshofweg“) - zurückgestellt
+- TOP 2.2: Anfrage: Bilanz der Sanierungssatzung „Umfeld Kölner Hauptbahnhof“ – Infrastruktur und Sicherheit - Kenntnis genommen
+- TOP 2.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (AN/0066/2025) betreffend "Siedlung Egonstraße im Zusammenhang mit der Regionalplan-Neuaufstellung" - Kenntnis genommen
+- TOP 2.4: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betreffend des Bebauungsplans Nr. 63482/02 mit Arbeitstitel „Rochusstraße in Köln-Ossendorf“ - Kenntnis genommen
+- TOP 2.5: Höhen(entwicklungs)konzept Innere Stadt / Innenstadt - zurückgestellt
+- TOP 2.6: Sachstand Sanierung Tiefgarage am Dom - zurückgestellt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bedarfsfeststellungsbeschluss: Vergabe eines Gutachtens zur Ermittlung von Potentialen interkommunaler und regionaler Zusammenarbeit für die Stadt Köln
+- TOP 5.2: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke Köln", Planfeststellungsabschnitt 1.2 - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 6.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 6.1.2: Änderungsantrag zu TOP 6.1.1 - "Änderungsantrag der CDU-Fraktion zur Ziffer 2 betreffend „Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd“ - zurückgestellt
+- TOP 6.2: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - abgelehnt (in der Vorberatung)
+- TOP 6.3: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestelle Junkersdorf - ohne Votum behandelt
+- TOP 6.4: Entwicklungsplanung Weststadt, hier: Grundsatzbeschluss über die Ergebnisse der Entwicklungsplanung Weststadt inklusive der Projekte Low Line und Coty-Areal - geändert beschlossen
+- TOP 6.5: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - ungeändert beschlossen
+- TOP 6.6: Aufhebung der Sanierungssatzung 'Umfeld Kölner Hauptbahnhof' - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: Beschluss über die Feststellung der 248. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes, Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - ungeändert empfohlen
+- TOP 7.2: Beschluss über die Feststellung der 242. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler - ungeändert empfohlen
+- TOP 7.3: Beschluss über die Aufstellung und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung zur 252. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 8, Köln-Kalk - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Bebauungsplanverfahren "Südliche Schmiedegasse in Köln-Weidenpesch", Vorgabenbeschluss - ungeändert beschlossen
+- TOP 9.2: Anhörung der Bezirksvertretung Rodenkirchen zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes Nr. 70384/03 Arbeitstitel: Eygelshovener Str. in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.3: Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfs - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplans und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Neubrücker Ring in Köln-Neubrück - geändert beschlossen
+- TOP 10.1.1: Madaus Gartenland demokratisch, sozial und ökologisch gestalten. - Sache ist erledigt
+- TOP 10.1.1.1: Stellungnahme der Verwaltung zum Änderungsantrag AN/0399/2025 der Fraktion Die Linke. im Rat "Madaus Gartenland demokratisch, sozial und ökologisch gestalten." - Kenntnis genommen
+- TOP 10.1.2: Madaus Gartenland muss grün bleiben - Sache ist erledigt
+- TOP 10.1.2.1: Stellungnahme der Verwaltung zum Änderungsantrag AN/0402/2025 der Ratsgruppe KLIMA FREUNDE & GUT " Madaus Gartenland muss grün bleiben" - Kenntnis genommen
+- TOP 10.1.3: Änderrungsantrag zu TOP 10.3 - Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Neubrücker Ring in Köln-Neubrück (0330/2025) - geändert beschlossen
+- TOP 10.1.3.1: Stellungnahme der Verwaltung zum gemeinsamen Änderungsantrag AN/0400/2025 der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Volt-Fraktion zum Aufstellungsbeschluss des Bebauungsplans "Neubrücker Ring" in Köln-Neubrück (0330/2025) - Kenntnis genommen
+- TOP 10.1.4: Beschluss über die Aufstellung eines Bebauungsplanes und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - zurückgestellt
+- TOP 10.3: Einleitungsbeschluss Campus Colonius Nord (0302/2022) - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und die Durchführung der freiwilligen frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzung über das besondere Vorkaufsrecht für das Gebiet 'LiebigQuartier' in Köln-Ehrenfeld und Köln-Nippes nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nr. 72453/02 Arbeitstitel: Olpener Straße 248–252 in Köln-Höhenberg - ungeändert empfohlen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr 64492/01 Arbeitstitel: Am Bilderstöckchen in Köln-Bilderstöckchen - ungeändert empfohlen
+- TOP 12.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nr. 76399/04 Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Glashüttenstraße in Köln-Porz - zurückgestellt
+- TOP 13.2: Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplanes Nr. 63450/03 (63450/03-00-02) Arbeitstitel: Oskar-Jäger-Straße 2. Änderung in Köln-Braunsfeld/Ehrenfeld - unter Vorbehalt beschlossen
+- TOP 13.3: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Salmstaße in Köln-Poll - unter Vorbehalt beschlossen
+- TOP 13.4: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Passendale in Köln-Porz-Westhoven - unter Vorbehalt beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: 238. Änderung des Flächennutzungsplans "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück - Kenntnis genommen
+- TOP 17.2: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 BauGB des Bebauungsplanentwurfs Nr. 724062/02 Arbeitstitel: Hohe Straße in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Priorisierung der Aufgabenerledigung im Sachgebiet Zweckentfremdung, Wohnungsaufsicht und Mietpreiskontrolle - Kenntnis genommen
+- TOP 18.2: Mitteilung zu einer mündlichen Anfrage: Wohnviertel im Schlebuscher Weg in Köln-Höhenhaus - zurückgestellt
+- TOP 18.3: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - Kenntnis genommen
+- TOP 18.4: Städtebaulicher Masterplan Innenstadt – Lupenraum Via Culturalis - Kenntnis genommen
+- TOP 18.5: Bundesprogramm „Förderung von Investitionen in nationale Projekte des Städtebaus“ Projekte des Mantelprojektes „Via Culturalis und die Quartiere der Domumgebung“, Umgestaltung der Gürzenichstraße - Kenntnis genommen
+- TOP 18.6: Umsetzung der Sozialen Erhaltungssatzung Mülheim Süd-West - Kenntnis genommen
+- TOP 18.7: Kraftfahrzeuge in Köln - Ergebnisse der Kraftfahrzeugstatistik zum 31.12.2024 - Kenntnis genommen
+- TOP 18.8: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 18.9: Gewerbeflächenbereitstellungskonzept (GFBK); Stand:31.12.2024 - Kenntnis genommen
+- TOP 18.10: Sachstand zur Umsetzung des Maßnahmenpakets „Wohnungsbau stärken“ - Kenntnis genommen
+- TOP 18.11: Kapazitätserweiterung auf der Ost-West-Achse - weiteres Vorgehen und Sachstand - Kenntnis genommen
+- TOP 18.12: Deutzer Hafen Hier: 4. und 5. Sitzung des Begleitgremiums; Ergebnisprotokolle - Kenntnis genommen
+- TOP 18.13: Maßnahmen zum Lärmschutz am Brüsseler Platz - Kenntnis genommen
+- TOP 18.14: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 18.15: Öffentlicher Freiraum Deutzer Hafen Köln, hier: Information zur Veröffentlichung Freiraumhandbuch - Kenntnis genommen
+- TOP 18.16: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2024) - Kenntnis genommen
+- TOP 18.17: Mitteilung zum Beschluss „Abschlussbericht zur Stufe 1 des nachhaltigen Mobilitätsplans "Besser durch Köln" (SUMP)“ - Kenntnis genommen
+- TOP 18.18: Auswertung der Kölner Bautätigkeitsstatistik 2024: Bauüberhang auf historischem Höchststand - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
