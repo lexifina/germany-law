@@ -1,0 +1,99 @@
+# 35. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-22T17:30:00+02:00
+- Ende: 2025-05-22T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31538
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31538
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung Nippes - Sache ist erledigt
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: IOGS Kretzerstraße - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage von GUT & Klimafreunde aus der Sitzung der BV Nippes vom 28.04.2022, AN/0846/2022, betreffend „Fahrradparken“ - Kenntnis genommen
+- TOP 7.1.2: Grethenstraße in Longerich - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der BV Nippes vom 16.03.20.23 (AN-0452-2023) betreffend "Grethenstraße in Longerich" - Kenntnis genommen
+- TOP 7.1.3: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.4: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.5: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung der Bezirksvertretung Nippes am 30.11.2023, betr. "Clouth Quartier als Fahrradzone" (Bezugnahme auf AN/1083/2020). - Kenntnis genommen
+- TOP 7.1.6: Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage auf AN/0411/2024 Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - Kenntnis genommen
+- TOP 7.1.7: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - zurückgestellt
+- TOP 7.1.8: Weiterer Zebrastreifen in der Nesselrodestraße - zurückgestellt
+- TOP 7.1.9: Nutzung von Fahrradboxen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.10: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - zurückgestellt
+- TOP 7.1.11: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nachfragen bzgl. Baubeschluss zur Umsetzung provisorischer und vorgezogener Maßnahmen 2023 (3669/2022) - zurückgestellt
+- TOP 7.2.2: Baustellenabsperrung Lohsestraße und Holbeinstraße - zurückgestellt
+- TOP 7.2.3: Zuständigkeit Reinigung Fußwege für S-Bahnhof Geldernstraße/Parkgürtel - zurückgestellt
+- TOP 7.2.4: Fett-Gestank aus der Gastronomie in der Friedrich-Karl-Straße 109 - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verbesserung der Fußwegbreiten in Nippes (Zentrum) - ungeändert beschlossen
+- TOP 8.1.2: Nutzung der Freifläche am Heckweg durch die KG Blau-Weiß Alt Lunke - geändert beschlossen
+- TOP 8.1.3: Neuplanung der Niehler Straße - geändert beschlossen
+- TOP -: Neuplanung der Niehler Straße - endgültig abgelehnt
+- TOP 8.1.4: Durchfahrtsübung der Feuerwehr in Weidenpesch - ungeändert beschlossen
+- TOP 8.1.5: Ausreichendes Personal in der Bezirksjugendpflege - ungeändert beschlossen
+- TOP 8.1.6: Parkverbotsschilder auf dem Nibelungenplatz - ungeändert beschlossen
+- TOP 8.1.7: Stadtverschönerungs/Klimamittel für Bäume und Bänke - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Gartenlabor Blücher Park - ungeändert beschlossen
+- TOP 9.1.2: Öffentlichkeitsbeteiligung zwecks Findung des neuen Namens für die umbenannte Gustav-Nachtigal-Straße in Köln-Nippes - geändert beschlossen
+- TOP -: Öffentlichkeitsbeteiligung zwecks Findung eines neuen Namens für die umbenannte Gustav-Nachtigal-Straße in Köln-Nippes - ungeändert beschlossen
+- TOP 9.1.3: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - ungeändert beschlossen
+- TOP 9.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an die Sozial-Betriebe-Köln gGmbH - ungeändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an unisono e.V. - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an SKM Köln - 1 - geändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an SKM Köln - 2 - geändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an die Seniorenvertretung Nippes - geändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an Sir Gabriel Dellmann e.V. - ungeändert beschlossen
+- TOP 9.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an Zug um Zug e.V. - ungeändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an den Cologne Cycling Club e.V. - geändert beschlossen
+- TOP 9.1.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an den DRK Kreisverband Köln e.V. - ungeändert beschlossen
+- TOP 9.1.16: Neugestaltung des Spiel-- und Bolzplatzes An den Kreutzmorgen in Köln-Weidenpesch - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Konzept "Misch MIT! – So geht Kinder- und Jugendbeteiligung in Köln! – Ergebnisse, Erkenntnisse und Empfehlungen eines partizipativen Prozesses“ - ungeändert beschlossen
+- TOP 9.2.2: Satzung über das besondere Vorkaufsrecht für das Gebiet 'LiebigQuartier' in Köln-Ehrenfeld und Köln-Nippes nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über die Feststellung der 248. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes, Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 9.2.4: GrünZug Nippes: Beschluss über die Entwurfsplanung sowie Bau- und Mittelfreigabebeschluss für die Abschnitte I und II zwischen Merheimer Straße und Niehler Kirchweg - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 9.2.4 GrünZug Nippes: Beschluss über die Entwurfsplanung sowie Bau - und Mittelfreigabebeschluss für die Abschnitte I und II zwischen Merheimer Straße und Niehler Kirchweg (0801/2025 - Sache ist erledigt
+- TOP 9.2.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr 64492/01 Arbeitstitel: Am Bilderstöckchen in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 9.2.6: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP 9.2.7: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - ungeändert beschlossen
+- TOP 9.2.8: Leitfaden für städtebauliche Qualifizierungsverfahren in Köln - ungeändert beschlossen
+- TOP 9.2.9: 1. Anpassungsverfahren der Fortschreibung des Einzelhandels- und Zentrenkonzeptes Köln (2023) - Neuabgrenzung eines zentralen Versorgungsbereiches als Kernprojekt des Räumlichen Entwicklungskonzeptes LiebigQuartier - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.2: Mitteilung über die Verteilung von Mitteln für Interkulturelle Zentren 2025 - Kenntnis genommen
+- TOP 10.2.3: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2024 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.4: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - Kenntnis genommen
+- TOP 10.2.6: Niehler Kirchweg 120 - Generalinstandsetzung und Erweiterungsneubau Edith-Stein-Realschule mit Aula, Mensa und Tiefgarage, Neubau 3-Feld-Sportalle (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 10.2.7: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 10.2.8: Städtebauliches Planungskonzept "Schlenderhaner Straße in Köln-Niehl" Beantwortung einer mündlichen Anfrage aus der Sitzung des Stadtentwicklungsausschusses am 27.03.2025 - Kenntnis genommen
+- TOP 10.2.9: Antrag der SPD aus der 19. Sitzung der Bezirksvertretung Nippes am 16.03.2023, TOP 8.1.2 - Wendespur Mauenheimer Gürtel Vorlagenummer (AN/0392/2023) - Kenntnis genommen
+- TOP 10.2.10: Mitteilung zum Beschluss „Abschlussbericht zur Stufe 1 des nachhaltigen Mobilitätsplans "Besser durch Köln" (SUMP)“ - Kenntnis genommen
