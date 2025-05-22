@@ -8,3 +8,5 @@ Arbeitsgericht Bremen - Bremerhaven | Alle Verfahren vor dem Güterichter gemä�
 Landgericht Bremen | Alle neuen Verfahren der 1. und 2. Zivilkammer | 15. September 2021 bis 31. Oktober 2021
 Arbeitsgericht Bremen - Bremerhaven | Alle Mahnverfahren, § 46a ArbGG | 1. Juni 2022
 Amtsgericht Bremen | Alle unternehmensrechtlichen Verfahren nach § 375 FamFG sowie alle Zwangs- und Ordnungsgeldverfahren nach §§ 388 bis 391 und 392 FamFG | 15. April 2024
+Amtsgericht Bremerhaven | Alle Verfahren in Zwangsvollstreckungssachen in den Abteilungen 93, 94 und 95 sowie des Zentralen Vollstreckungsgerichts in der Abteilung 920 | 16. Juni 2025
+Amtsgericht Bremen-Blumenthal | Alle Verfahren in Zwangsvollstreckungssachen in der Abteilung 22 | 16. Juni 2025

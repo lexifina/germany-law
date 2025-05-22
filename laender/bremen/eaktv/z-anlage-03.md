@@ -40,3 +40,12 @@ Amtsgericht Bremen | Alle Insolvenzverfahren der Abteilungen 500 bis 533 sowie d
 Amtsgericht Bremen | Alle Verfahren in Nachlasssachen der Abteilung 31-37, 31, 32 ,33, 34, 35, 36, 37, 351 und 352 mit Ausnahme der Urkundssachen I und II | 17. Februar 2025
 Amtsgericht Bremen-Blumenthal | Alle Familienverfahren der Abteilungen 71a, 71b, 72, 75 und 76 | 3. März 2025
 Amtsgericht Bremerhaven | Alle Familienverfahren der Abteilungen 150, 151, 152, 153 und 154. | 17. März 2025
+Amtsgericht Bremen | Alle Verfahren in Zwangsvollstreckungssachen in den Abteilungen 241, 242, 243, 244, 246, 247, 248, 249 | 2. Juni 2025
+Amtsgericht Bremen | Alle Urkundssachen I und II der Abteilung 35 | 26. Mai 2025
+Amtsgericht Bremen | Alle Landwirtschaftssachen der Abteilungen 109 und 110 | 26. Mai 2025
+Amtsgericht Bremen | Alle Personenstandssachen der Abteilung 48 | 10. Juni 2025
+Amtsgericht Bremen-Blumenthal | Alle Urkundssachen I und II der Abteilung 50 | 16. Juni 2025
+Amtsgericht Bremen-Blumenthal | Alle Verwaltungs- und Auslandssachen der Abteilung 2 | 16. Juni 2025
+Amtsgericht Bremen-Blumenthal | Alle Hinterlegungssachen der Abteilung 1 | 16. Juni 2025
+Amtsgericht Bremerhaven | Alle Hinterlegungssachen der Abteilung 5 | 30. Juni 2025
+Amtsgericht Bremerhaven | Alle Landwirtschaftssachen der Abteilungen 56 | 30. Juni 2025
