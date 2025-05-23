@@ -1,0 +1,81 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-23T14:00:00+02:00
+- Ende: 2025-05-23T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27640
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27640
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552767.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552767.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00552767.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 28.03.2025 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sondersitzung der Bezirksvertretung 1 vom 29.04.2025 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Bericht über die Kriminalitätsstatistik 2024 im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Durchführungsvertrag zum Vorhabenbezogenen Bebauungsplan (Entwurf) Nr. 01/017 - Kennedydamm 55 - Empfehlung mehrheitlich beschlossen
+- TOP 4.8: Vorhabenbezogener Bebauungsplan(Entwurf) Nr. 01/017 - Kennedydamm 55 - Empfehlung mehrheitlich beschlossen
+- TOP 4.9: Neubau der Theodor-Heuss-Brücke - Empfehlung einstimmig beschlossen
+- TOP 4.10: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Errichtung einer Dreifeldsporthalle mit Tonsaal und Gymnastikraum am Humboldt-Gymnasium" - Empfehlung einstimmig beschlossen
+- TOP 4.11: Neubau öffentliche Grünanlage mit Kinderspielplatz FH-Campus, Grünzug Nord - Empfehlung mehrheitlich beschlossen
+- TOP 4.12: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2025 und 2026 - zur Kenntnis genommen
+- TOP 4.13: Erprobung einer autofreien Gestaltung des Corneliusplatzes - zur Kenntnis genommen
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.18: Kennedydamm - Optimierung der verkehrlichen Anbindung des Gebäudes Karl-Arnold-Platz 1a - einstimmig beschlossen
+- TOP 4.19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2025 Liste A Schulen 2121101/52415100 - einstimmig beschlossen
+- TOP 4.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Neugestaltung Grabbeplatz - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6.3: Gewerbeflächen im Stadtbezirk 1 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.4: Sicherheitskonzept des Fischmarktes - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Markierungen auf den Rad- und Fußwegen entlang der Kö - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Vorstellung des Sanierungskonzeptes der KGS Essener Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Geschwindigkeitsüberschreitungen auf der Rotterdamer Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Entfernung der Werbetafel/“CityLight“ auf der Schwerinstraße/Ecke Nordstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Aufenthaltsqualität auf dem kleinen Platz Winkelsfelderstraße/Blücherstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Gehweg Orangeriestraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.7: Sachstandsbericht zum Zustand der vier Karyatiden vor der Kunsthalle - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.8: Einrichtung einer temporären Ladezone auf der Breite Straße (Höhe Hausnummer 3) - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.9: Einrichtung einer Ladezone auf der Inselstraße in Höhe der Hausnummer 1 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.10: Einrichtung einer Ladezone auf der Karlstraße in Höhe der Hausnummer 94 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.11: Evaluation der E-Scooter-Sharingstationen im Stadtbezirk 1 - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Instandsetzung der Klausingstraße aufgrund erheblicher Straßenschäden; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/069/2025 - zur Kenntnis genommen
+- TOP 8.3: Grüner Abbiegepfeil für den Radverkehr an der Ecke Wehrhahn / Adlerstraße / Schirmerstraße; Beschluss der Bezirskvertretung 1; BV1/063/2025 - zur Kenntnis genommen
+- TOP 8.4: Essbare Stadt / Anpflanzung von Obstbäumen; Beschluss der Bezirksvertretung 1 vom 21.02.2025; BV1/040/2025 - zur Kenntnis genommen
+- TOP 8.5: Strom und Wasser für Veranstaltungen an der Unteren Rheinwerft; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/065/2025 - zur Kenntnis genommen
+- TOP 8.6: Aufwertung des Spielplatzes Poststraße / Spee'scher Graben; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/066/2025 - zur Kenntnis genommen
+- TOP 8.7: Prüfung zur Einrichtung eines weiteren Anwohnerparkgebietes in Golzheim; Beschluss der Bezirksvertretung 1 vom 21.02.2025; BV1/033/2025 - zur Kenntnis genommen
+- TOP 8.8: Alternative Standorte für den Container an der Moltkestraße 63 in Pempelfort an der Heilig-Geist-Kirche; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/068/2025 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Eine Welt Forum e.V. für die Ausrichtung von Konzerten - abweichend beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an New Fall Festival gGmbH für Parklife 2025 - mehrheitlich beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Liebe das Leben Pempelfort Music Weekend - abweichend beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Spielplatzfest Klosterstraße/Stephanienstraße - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Förderverein städtischer Kindergarten Hans-Böckler-Str. 34 für ein Sommerfest - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Irene Kurka für das Konzert Singing Future - einstimmig abgelehnt
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Schäferstraßenfest - abweichend beschlossen
+- TOP 9.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e.V. für einen Kirmesrundgang mit dem städtischen KHZ - einstimmig beschlossen
+- TOP 9.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an KGS Thomas-Schule für einen Ausflug in das Neanderthal-Museum - einstimmig beschlossen
