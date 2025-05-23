@@ -81,9 +81,6 @@ Maschinenantrieb
 - [§ 3.09 Bezeichnung der Schleppverbände in Fahrt
 
 (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)](0003-09.md)
-- [§ 3.09 Bezeichnung der Schleppverbände in Fahrt
-
-(Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)](0003-09-2.md)
 - [§ 3.10 Bezeichnung der Schubverbände in Fahrt
 
 (Anlage 3 Bild 11, 12, 13, 14)](0003-10.md)
@@ -246,12 +243,10 @@ und Schleusen
 von Radar
 
 - [§ 6.30 Alle fahrenden Fahrzeuge bei unsichtigem Wetter](0006-30.md)
-- [§ 6.30 Alle fahrenden Fahrzeuge bei unsichtigem Wetter](0006-30-2.md)
 - [§ 6.31 Stillliegende Fahrzeuge](0006-31.md)
 - [§ 6.32 Mit Radar fahrende Fahrzeuge](0006-32.md)
 - [§ 6.33 Nicht mit Radar fahrende Fahrzeuge](0006-33.md)
 - [§ 6.34](0006-34.md)
-- [§ 6.34](0006-34-2.md)
 
 ### Kapitel 7 Regeln für das Stilliegen
 
