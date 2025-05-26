@@ -1,0 +1,9 @@
+# Amtsblatt für den Regierungsbezirk Köln 2025 Nr. 23 vom 26.05.2025
+
+- Herausgeber: Bezirksregierung Köln
+- Ausgabe: 2025-05-26 (erstes Datum auf Seite 1)
+- Nummer: 23
+- Quelle: https://www.bezreg-koeln.nrw.de/system/files/media/document/file/amtsblatt_2025_23.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+
+- Text: nicht übernommen - die Ausgabe nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
