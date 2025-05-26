@@ -1,0 +1,81 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-26T14:35:00+02:00
+- Ende: 2025-05-26T15:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31714
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31714
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 2.3: Beantwortung einer mündlichen Anfrage des Ratsmitglieds Joisten in der Sitzung des Finanzausschusses vom 31.03.2025 betr. "Monatsbericht Sanierung der Bühnen Köln Januar und Februar 2025" - Kenntnis genommen
+- TOP 2.4: Bewirtschaftung zum Haushalt 2025/2026 - Kenntnis genommen
+- TOP 2.5: 45. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.6: Public Corporate Governance Kodex der Stadt Köln: Auszeichnung mit dem „Preis für Good Governance Standards“ - Kenntnis genommen
+- TOP 2.7: Public Corporate Governance Kodex der Stadt Köln: Prüfung einer Karenzzeitregelung - Kenntnis genommen
+- TOP 2.8: Ermächtigungsübertragungen in das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 2.9: Kapitalmarkttransaktionen - Kenntnis genommen
+- TOP 2.10: Grundsteuerreform und Veranlagung der Grundsteuer für das Jahr 2025 - Kenntnis genommen
+- TOP 2.11: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 2.12: Monatsbericht Sanierung der Bühnen Köln März und April 2025 - Kenntnis genommen
+- TOP 2.13: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2024) - Kenntnis genommen
+- TOP 2.14: Umsetzung Begleitbeschluss zur Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 2.15: Auswirkung der Steuerschätzung aus Mai 2025 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Höhe und Verteilung der freiwilligen Leistungen der Stadt Köln nach Produktbereichen - Kenntnis genommen
+- TOP 4.1.1: Beantwortung einer Anfrage gem. § 4 Geschäftsordnung des Rates | Höhe und Verteilung der freiwilligen Leistungen der Stadt Köln nach Produktbereichen - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Bundesprogramm „Förderung von Investitionen in nationale Projekte des Städtebaus“ Projekte des Mantelprojektes „Via Culturalis und die Quartiere der Domumgebung“, Umgestaltung der Gürzenichstraße - Kenntnis genommen
+- TOP 6.2.2: Fortführung Neubau eines Brunnens am Neumarkt und Information über zweite Kostenfortschreibung - Kenntnis genommen
+- TOP 6.2.3: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Bedarfsfeststellungs- und Baubeschluss für die Installation einer Video- Überwachungsanlage mit zugehöriger Sprachalarmierungsanlage im Rheinufertunnel - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - geändert beschlossen
+- TOP 7.3: Kleingartenanlage Berberitzenweg e.V. Anlage Berberitzenweg Erneuerung des Wasserleitungsnetzes - ungeändert beschlossen
+- TOP 7.4: Umsetzung der Ausgleichsflächen im Gebiet des B-Plans Nr. 6654/03 "Causemannstraße" in Merkenich - zurückgestellt
+- TOP 7.5: GrünZug Nippes: Beschluss über die Entwurfsplanung sowie Bau- und Mittelfreigabebeschluss für die Abschnitte I und II zwischen Merheimer Straße und Niehler Kirchweg - ungeändert beschlossen
+- TOP 7.6: Neugestaltung des Spiel-- und Bolzplatzes An den Kreutzmorgen in Köln-Weidenpesch - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 10.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - zurückgestellt
+- TOP 10.2: Anpassung des Musterraumprogramms für Schulneubau- und erweiterungsbauten 2023 an die Handreichung zum Schulbau des Städtetages Nordrhein-Westfalen vom 29.11.2019 - geändert beschlossen
+- TOP 10.3: Durchführung der Lernmittelfreiheit - Verzicht auf die weitere Auszahlung der hälftigen Einsparungen - geändert beschlossen
+- TOP 10.4: Bedarfsfeststellungs- und Planungsbeschluss für die Generalsanierung Tunnel Tunisstraße - ungeändert beschlossen
+- TOP 10.5: Baubeschluss für die Sanierung der Stützwände an der Universitätsstraße/Albertus-Magnus-Platz in Köln-Lindenthal - geändert beschlossen
+- TOP 10.6: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Bergerstraße in Köln - Porz - ungeändert beschlossen
+- TOP 10.7: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), - ungeändert beschlossen
+- TOP 10.8: Stadtklima-/Stadtverschönerungsprogramm der Bezirke: Verzicht auf Freigabevorbehalt - ungeändert beschlossen
+- TOP 10.9: 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmen (GU/TU-Maßnahmenpaket II) Weiterplanungs- und Baubeschluss und Haushaltsrechtliche Unterrichtun - ohne Votum behandelt
+- TOP 10.10: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2025 - 31.12.2027 - ungeändert beschlossen
+- TOP 10.11: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln) - ungeändert beschlossen
+- TOP 10.12: Bedarfsfeststellungsbeschluss für eine europaweite Ausschreibung und Vergabe des technischen Gebäudebetriebs - zurückgestellt
+- TOP 10.13: Zuschussgewährung Energieberatung der Verbraucherzentrale NRW (Fortführung bis 31.12.2026) - ungeändert beschlossen
+- TOP 10.14: Neue Honorarordnung und neue Entgeltordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 10.15: Errichtung der rechtlich unselbständigen Johann und Elsbeth Mevissen-Stiftung - ungeändert beschlossen
+- TOP 10.16: Erweiterung der Zusammenarbeit mit der Stadt Leverkusen im Bereich der Aufgaben nach dem Amtsapothekengeschäft - ungeändert beschlossen
+- TOP 10.17: Weiterentwicklung der Förderprogramme "Photovoltaik – klimafreundliches Wohnen" und "Photovoltaik – klimafreundliches Arbeiten" sowie Einstellung des Förderprogramms "Gebäudesanierung – klimafreundliches Wohnen" - ohne Votum behandelt
+- TOP 10.17.1: Änderungsantrag zur Vorlage TOP 10.17 – Weiterentwicklung der Förderprogramme "Photovoltaik – klimafreundliches Wohnen" und "Photovoltaik – klimafreundliches Arbeiten" sowie Einstellung des Förderprogramms "Gebäudesanierung – klimafreundliches Wohnen - ohne Votum behandelt
+- TOP 10.18: Baubeschluss zur Erneuerung der Hallentore und Heizungsanlage auf der Feuer- und Rettungswache 6 - ungeändert beschlossen
+- TOP 10.19: Finanzielle Förderung von Migrantischen Organisationen in 2025 und 2026, Förderrichtlinie - ohne Votum behandelt
+- TOP 10.20: Neukonzeption der Ausstellungs- und Publikumsflächen des NS-Dokumentationszentrums - ungeändert beschlossen
+- TOP 10.21: Eintrittspreise für Veranstaltungen des Schauspiel Köln für die Spielzeit 2025/26 - ungeändert beschlossen
+- TOP 10.22: Herrichtung Trakte A und B und Dachsanierung Trakte A bis E mit Photovoltaik für das Gymnasium Unter Linden am Standort Neue Sandkaul 29, 50859 Köln-Widdersdorf - Planungs- und Baubeschluss - ohne Votum behandelt
+- TOP 10.23: Weiterführung des Anonymen Krankenscheins in der Stadt Köln im Jahr 2025 und 2026 - ohne Votum behandelt
+- TOP 10.24: Baubeschluss zur Dachsanierung inkl. Photovoltaikanlage und Begrünung sowie Planungsbeschluss zur Sanierung von Fassaden und Fenstern des Heinrich-Mann-Gymnasiums (exkl. 3-Feld-Sporthalle) in Köln-Chorweiler, Fühlinger Weg 4 - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
