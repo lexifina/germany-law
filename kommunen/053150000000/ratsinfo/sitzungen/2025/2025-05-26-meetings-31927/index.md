@@ -1,0 +1,55 @@
+# 30. Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-05-26T17:00:00+02:00
+- Ende: 2025-05-26T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/176
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31927
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31927
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung vom 19. Mai 2025 (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01046676.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung vom 19. Mai 2025 (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01046676.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung vom 19. Mai 2025 (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01046676.pdf
+
+## Tagesordnung
+
+- TOP -: A Vorstellung des Kom petenzzentrums Frau & Beruf Region Köln (Dirk Schumacher, Abteilung Arbeitsmarktörderung, und Elena Reifenröther, Leiterin Competentia)
+- TOP 1: Schriftliche Anfragen und deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion betreffend KVB-Angebot „Halten auf Zuruf" bekannter machen" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 14. Mai 2025 - zurückgestellt
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Projektstand Kostenlose Menstruationsartikel" - zurückgestellt
+- TOP 1.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Hilfen für Alleinerziehende" - zurückgestellt
+- TOP 1.4: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Folgen aus dem Gewalthilfegesetz" - zurückgestellt
+- TOP -: Schriftliche Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Folgen aus dem Gewalthilfegesetz" - zurückgestellt
+- TOP 1.5: Anfrage der SPD-Fraktion betreffend "Stand der Umsetzung der Gendergerechtigkeit bei Straßen(um)benennungen" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 14. Mai 2025 - zurückgestellt
+- TOP 1.6: Anfrage der SPD-Fraktion betreffend "Enttabuisierung der Wechseljahre – Aufklärung, Personalpolitik und kommunale Handlungsspielräume" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 19. Mai 2025 - Kenntnis genommen
+- TOP 1.7: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Umkleidemöglichkeiten für Frauen bei der Freiwilligen Feuerwehr" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 14. Mai 2025 - Kenntnis genommen
+- TOP 1.8: Anfrage der SPD-Fraktion betreffend "Geschlechtsspezifische Gesundheitsversorgung und Datenlage" - zurückgestellt
+- TOP 1.9: Anfrage der SPD-Fraktion betreffend "Namensgebung von Schulen in Köln unter dem Aspekt der Gleichstellung von Frauen und Männern" - zurückgestellt
+- TOP 1.10: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Projektstand Stillfreundliche Kommune" - zurückgestellt
+- TOP 1.11: Anfrage der Fraktionen Bündnis 90/Die Grünen und CDU betreffend "Umsetzungsstand und Fortführung des Projekts „FrauenNachtTaxi“ - zurückgestellt
+- TOP -: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen und CDU betreffend "Umsetzungsstand und Fortführung des Projekts „FrauenNachtTaxi“ - zurückgestellt
+- TOP 2: Anträge
+- TOP 2.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Benennung von Räumen im Rathaus nach ersten Ratsfrauen" - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 2.1 „Benennung von Räumen im Rathaus nach ers-ten Ratsfrauen" - endgültig abgelehnt
+- TOP -: Änderungsantrag zu Top 2.1. Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Benennung von Räumen im Rathaus nach ersten Ratsfrauen", AN/0526/2025 - endgültig abgelehnt
+- TOP 2.2: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Identitätsfindung in der Grundschule – Ein Beitrag zur Gleichstellung in der Zukunft" - ungeändert beschlossen
+- TOP 2.3: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Kostenübernahme für Verhütungsmittel für Frauen mit geringem Einkommen: Sonderfonds erhöhen" - geändert beschlossen
+- TOP 3: Allgemeine Vorlagen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - zurückgestellt
+- TOP 4.2: Bericht der Behindertenbeauftragten der Stadt Köln 01/2025 - Kenntnis genommen
+- TOP 4.3: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 4.4: Public Corporate Governance Kodex der Stadt Köln: Auszeichnung mit dem „Preis für Good Governance Standards“ - Kenntnis genommen
+- TOP 4.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2025 - Kenntnis genommen
+- TOP 4.6: Girls´Day und Boys´Day 2025 - Kenntnis genommen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Beantwortungen zu mündlichen Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses für die Gleichstelllung von Frauen und Männern vom 09.12.2024 zu Schäden in der Herkulesstraße und am Luzerner Weg - Kenntnis genommen
+- TOP 6.2: Neue mündliche Anfragen
