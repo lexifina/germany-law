@@ -1,0 +1,55 @@
+# Rat (38. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2025-05-27T18:00:00+02:00
+- Ende: 2025-05-27T19:37:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdA3WjIq6IUizlJvjgg6YKg
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21444
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTea3-dbvS3BgdJZ7uZYlFFDyROVqurUfX0SLaPEmiX_/Bekanntmachung_Rat_27.05.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbKKwAkwlPXJbaG9kWrahpw5Pnzdz0PHGXOf-2Y9m0Zl/Oeffentliche_Niederschrift_Rat_27.05.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 29.04.2025 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Aufnahme einer Berechnungsmethodik für Investitionen hier: Antrag der CDU Fraktion vom 10.03.2025; Stellungnahme der Verwaltung - Beschluss s. RD-Nr. 1597-XI/Z-2.
+- TOP -: Aufnahme einer Berechnungsmethodik für Investitionen hier: Antrag der CDU Fraktion vom 10.03.2025; Stellungnahme der Verwaltung; Ergänzungen aus der Beratung im Haupt- und Finanzausschuss - Einstimmiger Beschluss:
+- TOP 5.: Umbesetzung im Wahlausschuss hier: Antrag der SPD-Fraktion vom 14.05.2025 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 6.: 5. Satzung vom __________ zur Änderung der Satzung vom 29.05.2013 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung - Badeordnung) - Beschluss s. RD-NR. 1617-XI/Z-1.
+- TOP -: 5. Satzung vom __________ zur Änderung der Satzung vom 29.05.2013 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung - Badeordnung) hier: Korrektur aufgrund der Beratung im Bildungs- und Sozialausschuss - Einstimmiger Beschluss:
+- TOP 7.: 11. Satzung vom ______ zur Änderung der Benutzungsordnung für die öffentliche Bibliothek der Stadt Bad Münstereifel vom 15.06.1983 - Einstimmiger Beschluss:
+- TOP 8.: Bezahlkarte Geflüchtete hier: Beratung und Beschlussfassung - Beschluss s. RD- Nr. 1580-XI/Z-2.
+- TOP -: Bezahlkarte Geflüchtete hier: Beratung und Beschlussfassung - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 9.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Auftragsvergaben für die Maßnahmen des Wiederaufbauplans - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 10.: 3. Änderung des Landesentwicklungsplanes NRW hier: Beteiligung der Öffentlichkeit und der in ihren Belangen berührten öffentlichen Stellen gemäß § 9 Abs. 2 Raumordnungsgesetz (ROG) und § 13 Landesplanungsgesetz (LPlG) - Mehrheitlicher Beschluss bei 23 Ja-Stimmen, 1 Nein-Stimme sowie 5 Enthaltungen.
+- TOP 11.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Vorlage der Prüfberichte - Beschluss s. RD-Nr. 1560-XI/Z-5.
+- TOP -: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Beschlussfassung der Stellungnahmen zu den Feststellungen und Empfehlungen der Prüfberichte - Einstimmiger Beschluss:
+- TOP 12.: Altschuldenentlastungsgesetz NRW; hier: Beschluss zur Beauftragung zur Stellung des Antrages - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 13.: Entlastung für das Wirtschaftsjahr 2023 Hier: Entlastung des Betriebsausschusses Stadtwerke durch den Rat - Einstimmiger Beschluss:Hier wirken die Mitglieder des Betriebsausschusses „Stadtwerke Bad Münstereifel“ und die Bürgermeisterin nicht mit.
+- TOP 14.: Feststellung Jahresabschluss zum 31.12.2023 des Eigenbetriebs Stadtwerke - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 15.: Feststellung Jahresabschluss zum 31.12.2023 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 16.: Dienstanweisung über die Grundsätze der Ermächtigungsübertragungen - Beschluss s. RD-NR. 1637-XI/Z-1.
+- TOP -: Dienstanweisung über die Grundsätze der Ermächtigungsübertragungen - Mehrheitlicher Beschluss mit 28 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 17.: Erlass der Haushaltssatzung für das Haushaltsjahr 2025 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Beschlussfassung - Mehrheitlicher Beschluss mit 20 Ja- und 9 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 18.: Stellenplan für das Haushaltsjahr 2025 - Beschluss s. RD-Nr. 1557-XI/Z-1.
+- TOP -: Stellenplan für das Haushaltsjahr 2025 hier: Erläuterungen zu den Personalkosten - Mehrheitlicher Beschluss mit 23 Ja- und 4 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP 19.: Anfragen und Mitteilungen
+- TOP 19.1: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 19.2: 3. Änderung des Landesentwicklungsplanes NRW hier: Beteiligung der Öffentlichkeit und der in ihren Belangen berührten öffentlichen Stellen gemäß § 9 Abs. 2 Raumordnungsgesetz (ROG) und § 13 Landesplanungsgesetz (LPlG)
+- TOP 19.3: Vergabe Rechtsberatungsleistungen im Rahmen der Vergabeverfahren des Wiederaufbaus
+- TOP 19.4: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Sachstandsbericht Maßnahmensteckbriefe Hochwasserschutz
+- TOP 19.5: Taxi-Dienstleistungen hier: Anfrage des Stadtverordneten Thomas Bell, BSW
+- TOP 19.6: Otterbach hier: Oberflächenwiederherstellung
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Entwicklung des Schleidpark-Areals; hier: Beendigung der vorvertraglichen Vereinbarung /Letter of Intent (LOI) - Beschluss s. RD-Nr. 43-XI/Z-19.
+- TOP -: Entwicklung des Schleidpark-Areals; hier: Alternatives Nutzungskonzept - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 2.: Amtsblatt der Stadt Bad Münstereifel ab dem 01.01.2024 hier: Sachstand und weiteres Vorgehen - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 3.: Besetzung der Einigungsstelle gemäß § 67 LPVG hier: stellvertretende vorsitzende Person - Einstimmiger Beschluss:
+- TOP 4.: Vergabe Rechtsberatungsleistungen im Rahmen der Vergabeverfahren des Wiederaufbaus - Einstimmiger Beschluss:
+- TOP 5.: Anfragen und Mitteilungen
