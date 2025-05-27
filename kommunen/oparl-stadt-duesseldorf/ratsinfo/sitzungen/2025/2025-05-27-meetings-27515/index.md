@@ -1,0 +1,77 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-27T17:00:00+02:00
+- Ende: 2025-05-27T20:05:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27515
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27515
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554706.pdf
+- Ergebnisprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554706.pdf
+- Wortprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554706.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: "Garath 2.0 - Ein Stadtteil in Bewegung" - Richtlinie Hof- und Fassadenprogramm (Aktualisierung) - Empfehlung einstimmig beschlossen
+- TOP 4.3: "Garath 2.0 - Ein Stadtteil in Bewegung" - Richtlinie Verfügungsfonds (Aktualisierung) - Empfehlung einstimmig beschlossen
+- TOP 4.4: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen, hier Koblenzer Straße - Empfehlung einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 – - einstimmig beschlossen
+- TOP 4.6: Ausführungs- und Finanzierungsbeschluss zur Entwurfsplanung Quartiersplatz- Ingeborg-Bachmann-Straße - einstimmig beschlossen
+- TOP 4.7: Beschluss des Kinderparlamentes Garath vom 25.02.2025 -Kinderkinoeintrittspreise im Kino Süd - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: "Sonnenradfest" - 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.10: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den ARIC NRW e.V - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Schließung der Kita Julius-Raschdorff-Straße - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.6: Erkenntnisse aus der Suche zu weitergehenden einzelflächenbezogenen Prüfungen nach weiteren (städtischen) Flächen für den Wohnungsbau (Freiraumkonzept) - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.7: Schließung der Kindertageseinrichtung an der Julius-Raschdorff-Straße - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.8: Veränderungen des Grundsteueraufkommens im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Annahme und Verwertung von Altkleidern und Schuhen im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Wichtigkeit guter Rahmenbedingungen für Breitensport – Zuverlässigkeit von Politik - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.5: Rodung Grünstreifen an der Straße Am Kapeller Feld - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.6: Entsiegelungsmaßnahmen in Garath/Hellerhof - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Sondersitzung des OVA mit BV 9 und BV 10 - Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 7.2: Beleuchtung des Weges entlang der JFE in Hellerhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Ausbesserung der Pflasterung auf dem Fuß- und Radweg Helene-Weber-Straße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Einladung eines Vertreters der Netzgesellschaft Düsseldorf - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Barrierefreier Ausbau der SB-Haltestelle am Hellerhofer S-Bahnhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.9: Dynamisches Fahrgastinformationssystem im Bereich des S-Bahnhofes Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.10: Antrag Fuß- und Radweg an der Straße Am Kapeller Feld - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich beschlossen
+- TOP 7.11: Radfahren im Schlosspark Garath - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich beschlossen
+- TOP 7.12: Wetterschutz für die Bushaltestelle des SB 57 an der Eichsfelder Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 7.13: Errichtung Wetterschutz für die Bushaltestellen des SB 57 am Hellerhofer S-Bahnhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.14: Getrennte Sammlung von Brauch- und Oberflächenwasser in Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.15: Verkehrsführung an der Kreuzung Hellerhofweg / Bertha-von-Suttner-Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.16: Halt des Sparkassen-Bus in Garath - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Protected bike lane an der Koblenzer Straße - Informationsvorlage zum BeschlussBV10/064/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.2: Grünordnungsrahmenplan II Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/037/2025 vom 25.02.2025 - - zur Kenntnis genommen
+- TOP 8.3: Anwohnerparken in der Emil-Barth-Straße - Informationsvorlage zum Beschluss BV10/056/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.4: Ausweisung und Prüfung von geeigneten Standorten für Quartierswärmepumpen - Informationsvorlage zum Beschluss BV10/059/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.5: Situation Schulbusverkehr an der Dependance der Willi-Fährmann-Grundschule, Ingeborg-Bachmann-Straße - Informationsvorlage zum Beschluss BV10/067/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.6: Eignung der Wiese an der Johannes-Radtke-Straße und dem Grünstreifen am Hellerhofweg als Blühwiese - Informationsvorlage zum Beschluss BV10/062/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.7: Prüfung von verkehrstechnischen Maßnahmen in der Jakob-Kneip-Straße - Informationsvorlage zum Beschluss BV10/005/2025 vom 28.01.2025 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
+- TOP 10.1: Konzept der AWISTA-Kommunal für die Stadtteile - Anfrage der SPD-Fraktion - - vertagt
