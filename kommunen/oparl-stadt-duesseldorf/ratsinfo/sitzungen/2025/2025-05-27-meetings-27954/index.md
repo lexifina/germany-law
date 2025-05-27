@@ -1,0 +1,64 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-27T17:00:00+02:00
+- Ende: 2025-05-27T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27954
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27954
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554433.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554433.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554433.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 13.05.2025 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen und nichtöffentlichen Niederschrift vom 25.03.2025 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Errichtung der Mobilitätsstation Apostelplatz im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-NSM) - vertagt
+- TOP 4.5: Blanckertzstraße, Regenklärbecken (I-2030711013) - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Haushalt 2025 Liste A Schulen 2121101/52415700 - einstimmig beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2025) - einstimmig beschlossen
+- TOP 4.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2025) - einstimmig beschlossen
+- TOP 4.9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Revidierung des beschlossenen Antrages zur Asphaltierung der Ottostraße und der Vereinsstraße - Eingabe nach § 24 Gemeindeordnung NRW - - mehrheitlich abgelehnt
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Fahrradspur auf der Ludenberger Straße - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 5.4: Piktogrammketten Zamenhofweg und Bertastraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.5: Parkplatz am Rotthäuser Weg - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 5.6: Wickeltische auf Kinderspielplätzen - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.7: Sicherheit im Tunnel Bhf Gerresheim Süd - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.8: Abbau der E-Ladesäulen vor Kölner Tor 18 - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.9: Angepasstes Verkehrskonzept für Großveranstaltungen auf dem Staufenplatz - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.10: Verkehrsberuhigung im Bereich Märkische Straße/Unter den Eichen - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.11: Verbesserung des Fuß- und Radwegs von der Ikenstraße Richtung Torfbruchstr. - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.12: Geschwindigkeitsanzeigetafel im Bereich Keldenichstraße / Apostelplatz - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich abgelehnt
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Ausbau der Torfbruchstraße zwischen Pöhlenweg und Dreherstr. - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.2: Verbesserungen Tunnel Staufenplatz - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Rückbau der öffentlichen Telefonzellen außer Betrieb im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.3: Ausbau der Bergischen Landstraße nach Kanalbauarbeiten - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Aufhebung von Grundstückszufahrten - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Schaffung alternativer Anwohnerparkplätze an der B7 während 5-jähriger Kanalbauzeit - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2025 - - zur Kenntnis genommen
+- TOP 8.2: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.3: Herstellung des Waldweges entlang der Straße Pöhlenweg - Informationsvorlage zum Beschluss der BV 7 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.4: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2025 und 2026 - - zur Kenntnis genommen
+- TOP 8.5: Straßenmarkierung mit “30” Symbolen im Bereich Schönau- und Märkische Straße - Informationsvorlage zum Beschluss der BV 7 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.6: Sofortmaßnahmen Bertastraße - Mitteilung der Verwaltung - - zur Kenntnis genommen
+- TOP 8.7: 2. Ausfahrt Hagener Straße auf die Morper Straße - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2025 - - zur Kenntnis genommen
+- TOP 8.8: Quartiersgarage Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 25.03.2025 - - zur Kenntnis genommen
