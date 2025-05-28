@@ -1,0 +1,148 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2025-05-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8647323
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8647323
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 0.: Gäste im Unterausschuss
+- TOP 0.1.: Vertreter*innen des Ackermannbogen e.V. (vgl. TOP B 2.2)
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget IFFRA e.V. Initiative zur Förderung der Beratungsstelle Frauennotruf München Frauenprojekte Beratungsstelle Frauennotruf München 2025 vom 20.05.2025 -30.04.2026 10.697,40 Euro, Az.: 0262.0-4-0569
+- TOP 2.2.: (E) Stadtbezirksbudget Ackermannbogen e.V. Seniorenunterstützung ab 07.05.2025 - April 2026 3.590,00 Euro, Az.: 0262.0-4-0562
+- TOP 2.3.: (E) Stadtbezirksbudget PA/SPIELkultur e.V. Halloween im Vampirhotel am 25./26.10.2025 und 01./02.11.2025 4.275,00 Euro, Az.: 0262.0-4-0573
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Protokolle und Präsentation zu den beiden Fokusgruppenterminen zum Rahmenkonzept „Kommunale Kinder- und Jugendpartizipation“
+- TOP 3.4.2.: Einladung zur Jubiläumsfeier „25 Jahre Projekt mit.dabei“
+- TOP C: Bauen und Wohnen
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Bau Stelzenhaus am Parkplatz Kölner Platz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Hohenzollernstr. 49: Aufstockung eines Hinterhauses um 2 Wohneinheiten-TEKTUR zu 1.2-2012-26967-22 (jetzt: Aufstockung eines Hinterhauses um 1 Wohneinheit) GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Anfrage zum Mietspiegel 2025 für die Schleißheimer Straße (Antwort des Sozialreferats auf die Nachfrage einer Bürgerin)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Bauliste Erstantragsverfahren KW 17
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Dialog-Displays Bonner Straße und Fahrradabstellflächen Bonner Straße/ Speyerer Straße
+- TOP 1.2.: Bürger: Vorwärts-Parken Bonner Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Errichtung ganztägiges absolutes Haltverbot Brunnerstraße, Nebenfahrbahn nördlich des Bamberger Hauses (Westseite) und Beschilderung mit Zeichen 283 StVO (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.2.: Einrichtung von drei Lieferzonen in der Rheinstraße auf Höhe der Hausnummern 7, 27 und 31 (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.3.: Zusammenarbeit mit dem MCube-Forschungsprojekt MOSAIQ
+- TOP 2.4.: Einrichtung von Kurzzeit- und Mischparken in der Arcisstr. (Ostseite) ab Höhe Hausnummer 80 in nördliche Richtung bis ca. auf Höhe der Einmündung Agnesstraße (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.5.: Einrichtung von Kurzzeit- und Mischparken in der Nordendstraße, beginnend nördlich der Einfahrt zu Hausnummer 29 in nördliche Richtung bis zur nördlichen Hauskante von Hausnummer 31 (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.6.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Elisabeth-Kohn-Str. 33 (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Gefahrenstelle taktiles Blindenleitsystem am Scheidplatz Süd (Antwortschreiben des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen; vgl. TOP D 1.3 02/25)
+- TOP 3.1.2.: Transparenzbeschaffung hinsichtlich der Investitionen beim ÖPNV in München (Trambahnnordtangente) (Antwortschreiben des Mobilitätsreferats auf BV-Anfrage Nr. 20-26/ Q 00178 aus der Bürgerversammlung des Stadtbezirkes 4 Schwabing West am 14.09.2022)
+- TOP 3.1.3.: Rückbau des Baustellenkrans Agnesstraße 6 (Antwort des Mobilitätsreferats auf die Nachfrage eines Bürgers)
+- TOP 3.1.4.: Parkverbot in der Keuslinstraße zwischen Zentnerstraße und Schleißheimer Straße auf einer Straßenseite (Antwortschreiben der AWM auf weitergeleitetes Bürgerinnenanliegen; vgl. TOP D 1.2 04/25)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Errichtung einer Ladezone in der Winzererstraße
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Austausch der Lichtsignalanlage am Knotenpunkt Arcis-/ Georgenstr.
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Stickstoffdioxid-Passivsammler in der Schleißheimer Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Simmernstr. 1: Antrag auf Baumveränderung bzw. Baumfällung einer Birke (vgl. TOP E 3.2.1)
+- TOP 2.1.2.: Novellierung der BaumSchutzV der Landeshauptstadt München (Erneute Anhörung der Bezirksausschüsse)
+- TOP 2.1.3.: Friedrichstr. 9: Antrag auf Fällung eines Silberahorns
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Abgestorbene Birke Simmernstr. 1
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Modernisierungsarbeiten an einer bestehenden Mobilfunkanlage am Standort Lerchenauer Str. 18a
+- TOP 3.4.2.: Abbau eines Wetterschutzdachs in der Zeit zwischen dem 02.06.2025 und 13.06.2025 in der Hohenzollernstraße 116
+- TOP 3.4.3.: Dokumentation der Informationsveranstaltung vom 24.03.2025 zum Welterbe Olympiapark
+- TOP 3.4.4.: Kanalsanierung am Elisabethplatz in einer Nacht zwischen dem 21.05.2025 und 23.05.2025
+- TOP 3.4.5.: Erweiterung des bestehenden Mobilfunkstandortes Kurfürstenplatz
+- TOP 3.4.6.: Unterstützung der Gestaltungsideen eines Bürgers für den Luitpoldpark
+- TOP 3.4.7.: Unterlagen zur 3. Sitzung AG Managementplan Olympiapark
+- TOP F: Kultur und Wirtschaft
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Eine Welt voller Lieder" Kunstprojekt "Eine Welt voller Lieder" vom 10. - 31.05.2025 2.000,00 Euro, Az.: 0262.0-4-0570
+- TOP 2.1.2.: (E) Stadtbezirksbudget Initiative "Wandmalerei" Wandmalerei Damenstift vom 01.06. - 01.12.2025 4.000,00 Euro, Az.: 0262.0-4-0572
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "84 GHz Raum für Gestaltung" Kunst im Karrée 2025 - offene Ateliers in Schwabing und in der Maxvorstadt vom 11.07. - 13.07.2025 3.000,00 Euro, Az.: 0262.0-4-0574
+- TOP 2.1.4.: (E) Stadtbezirksbudget Netzwerk Münchner TheatertexterInnen e.V. Natur-Schauspiel "Panzer Wiese" am 14./15.06.2025 1.500,00 Euro, Az.: 0262.0-4-0571
+- TOP 2.1.5.: (E) Stadtbezirksbudget Weltkongress der Uiguren e.V. International Uyghur Youth Forum am 25.05.2025 3.000,00 Euro, Az.: 0262.0-4-0576
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Hohenzollernstr. 46: Antrag für die Aufstellung von Sitzgelegenheiten
+- TOP 2.2.2.: Hohenzollernstr. 46: Antrag für eine Warenauslage
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Bürgerstraßenfest am 28.06.2025 in der Agnesstraße
+- TOP 2.3.2.: Kita Sommerfest am 11.07.2025 im Luitpoldpark
+- TOP 2.3.3.: Sportfest des städtischen Willi-Graf-Gymnasiums am 30.07.2025 im Luitpoldpark
+- TOP 2.3.4.: AktivFerien vom 10.06.2025 bis 13.06.2025 am Ackermannbogen
+- TOP 2.3.5.: Singstunde und Salsa Cubana am 28.06.2025 und 29.06.2025 in der Elisabeth-Kohn-Straße und dem Petra-Kelly-Weg
+- TOP 2.3.6.: QuartiersFlohmarkt am 28.06.2025 am Rosa-Aschenbrenner-Bogen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Filmaufnahmen am 26.05.2025 im Luitpoldpark
+- TOP 3.3.2.: Foto- und Videoaufnahmen für eine Werbeproduktion am 02.06.2025 im Luitpoldpark
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft Kurfürstenstr. 47
+- TOP 3.4.2.: Schank- und Speisewirtschaft Viktoriastr. 23
+- TOP 3.4.3.: Schank- und Speisewirtschaft Herzogstr. 93
+- TOP 3.4.4.: Schank- und Speisewirtschaft Agnesstr. 2
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Genehmigungsbescheid „Kinder laufen für Kinder“ im Luitpoldpark
+- TOP 3.5.2.: Genehmigungsbescheid „Wings for Life 2025“ am 04.05.2025
+- TOP 3.5.3.: Genehmigungsbescheid „Stadtteilfest“ vom 09.05.2025 bis 11.05.2025 im Theo-Prosel-Weg 16
+- TOP 3.5.4.: Genehmigungsbescheid Uigurisches Kulturfest am 25.05.25 im Luitpoldpark
+- TOP 3.5.5.: Genehmigungsbescheid AWM Nachbarschaftstag am 24.05.2025 in der Georg-Birk-Str./ Petra-Kelly-Str.
+- TOP 3.5.6.: Versammlungsanzeige „Weltweite Skate-Events 2030“ am 01.06.2025 in der Ackermannstr. und Lerchenauer Str.
+- TOP 3.5.7.: Absage Schulspendenlauf des Sophie-Scholl-Gymnasiums am 30.05.2025 im Luitpoldpark
+- TOP 3.5.8.: Genehmigungsbescheid "Vielfalt im Stadtviertel" am 27.05.2025 am Hohenzollernplatz
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Uigurisches Kulturfest am 25.05.2025 im Luitpoldpark (Eilentscheidung)
+- TOP 3.7.2.: Unterstützungsschreiben der Bezirksausschüsse zum Antrag Nr. 20-26 / B 07422 des Bezirksausschusses des 17. Stadtbezirkes Postfiliale am Tegernseer Platz (Antwortschreiben des Wirtschaftsreferenten)
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Reservierungswünsche Oktoberfest 2025
+- TOP G.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP G.3.: Umbesetzungen in den Unterausschüssen
+- TOP G.4.: Wahl der/des Vorsitzenden des Unterausschusses Bauen und Wohnen
+- TOP G.5.: Größere Aschenbecher an den Eingängen zur Berufsschule am Elisabethplatz 4 (Bestellung einer städtischen Leistung)
+- TOP H: Termine
