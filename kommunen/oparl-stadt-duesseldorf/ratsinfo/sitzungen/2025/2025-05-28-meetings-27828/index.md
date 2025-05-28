@@ -1,0 +1,99 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-05-28T14:00:00+02:00
+- Ende: 2025-05-28T19:59:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27828
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27828
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 28.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554390.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 28.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554390.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 28.05.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554390.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 06.02.2025 (SI-RAT/001/2025) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Waffenverbotszone, Anscheinswaffen und Feuerwerk am Japantag - zurückgewiesen
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Rekord-Defizit von fast 300 Millionen Euro bei der Rheinbahn - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: Schadstoffbelastung am U-Bahnhof Nordstraße - beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: Kaputte Markierung Radweg Schadowstraße - beantwortet
+- TOP 3.5: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Bürgermeister für den Frieden; Messe für den Krieg? - beantwortet
+- TOP 3.6: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Neuer Szenetreffpunkt vor dem KAP 1: Versagt das Konzept Sibu? - beantwortet
+- TOP 3.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Asbest am U-Bahnhof Nordstraße - schriftlich beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der SPD-Ratsfraktion: Altstadtpflaster - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: negative Entwicklung auf dem Düsseldorfer Arbeitsmarkt - beantwortet
+- TOP 4.3: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Situation von Straßen - hier exemplarisch Roßstrasse 62 bis 103 - für Fahrradfahrer und Fahrradfahrerinnen - beantwortet
+- TOP 4.4: Anfrage der FDP-Ratsfraktion: Antisemitismus an Düsseldorfer Hochschulen – städtische Handlungsperspektiven im Sinne unserer freiheitlich-demokratischen Grundordnung - beantwortet
+- TOP 4.5: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Weiterentwicklung der kommunalen Ausländerbehörde - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Fahrzeugbrand auf dem illegalen Parkplatz am Vogelsanger Weg - schriftlich beantwortet
+- TOP 4.7: Anfrage der SPD-Ratsfraktion: Sachstand Bürger*innenhäuser - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion DIE LINKE: Öffentliche Toiletten „City Toilet“ in Düsseldorf - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfraktion DIE LINKE: Wann gibt sich die Stadt Düsseldorf eine Anlagerichtlinie? - schriftlich beantwortet
+- TOP 4.10: Anfrage der AfD-Ratsfraktion: Sicherheit von Photovoltaikanlagen auf städtischen Gebäuden–insbesondere Schulgebäuden - schriftlich beantwortet
+- TOP 4.11: Anfrage der AfD-Ratsfraktion: Wie steht es um den Schutz des Kulturguts der Landeshauptstadt Düsseldorf in Krisen- und Katastrophenzeiten? - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Albes: Sicherheitsauflagen bei Veranstaltungen des Winter- und Sommerbrauchtums - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfrau Lehmann: Klagen über Arbeitsklima beim Ballett am Rhein - schriftlich beantwortet
+- TOP 4.14: Anfrage des Ratsherrn Lemmer: vom Oberbürgermeister und den Beigeordneten seit dem 01.01.2014 genutzte Fahrzeuge - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Lemmer: Sicherheit von Schulgebäuden in Düsseldorf - schriftlich beantwortet
+- TOP 4.16: Anfrage der Ratsfrau Krüger: Qualität der Wässer in städtischen Parks, Seen, Gewässern - schriftlich beantwortet
+- TOP 4.17: Anfrage des Ratsherrn Jörres: Stand des Zivilschutzes in Düsseldorf, insbesondere Anzahl und Zustand von Schutzräumen und Bunkeranlagen - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau Opelt: Das Vertrauen in kommunale Institutionen sinkt. Wie ist die Situation in Düsseldorf? - schriftlich beantwortet
+- TOP 4.19: Anfrage der Ratsfrau Kraljic: Unterstützung der Stadt Düsseldorf für das Straßenmagazin Fiftyfifty - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 7: Bewerbung Olympische und Paralympische Spiele Rhein-Ruhr - einstimmig beschlossen
+- TOP 7.1: Ergänzungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, FDP und Die PARTEI-Klima-Fraktion zur Vorlage SPOA/021/2025 - abweichend beschlossen
+- TOP 8: Bebauungsplan-Entwurf Nr. 05/016 - Veranstaltungsgelände/Messeparkplatz - mehrheitlich beschlossen
+- TOP 9: Durchführungsvertrag zum Vorhabenbezogenen Bebauungsplan (Entwurf) Nr. 01/017 - Kennedydamm 55 - mehrheitlich beschlossen
+- TOP 10: Vorhabenbezogener Bebauungsplan(Entwurf) Nr. 01/017 - Kennedydamm 55 - mehrheitlich beschlossen
+- TOP 11: Förderprogramm "Klimafreundliches Wohnen und Arbeiten in Düsseldorf": Haushaltsneutrale Aufstockung der Finanzmittel - mehrheitlich beschlossen
+- TOP 12: Entsendung von Mitgliedern des Behindertenrates als sachkundige Einwohnerinnen/Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 13: Entwurf Jahresabschluss 2024 - mehrheitlich beschlossen
+- TOP 14: Aufstellung der genehmigten über- und außerplanmäßigen Mittelbereitstellungen des Haushaltsjahres 2024 - zur Kenntnis genommen
+- TOP 15: Sanierung Gesamtfassade der Tonhalle, Ehrenhof 1, ausgenommen Westfassade - einstimmig beschlossen
+- TOP 16: Umbenennung des Kammermusiksaals der Tonhalle in „Trautvetter-Brückner-Saal“ - einstimmig beschlossen
+- TOP 17: Freigabe Verkaufsoffener Sonntagnachmittage im Jahre 2025 in der Innenstadt (gesamte Stadtteile Stadtmitte, Altstadt, Carlstadt) - mehrheitlich beschlossen
+- TOP 18: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 19: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 20: Mobilitätsstationen im Förderprojekt Multi-Mo-DUS zur Förderung von Nahmobilität und Intermodalität im Alltag – Realisierungsphase 2 -Ausführungs- und Finanzierungsbeschluss- - mehrheitlich beschlossen
+- TOP 21: Bestellung von Prüferinnen für das Amt für kommunale Prüfung - einstimmig beschlossen
+- TOP 22: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2021 - Bestätigung des Gesamtabschlusses - - mehrheitlich beschlossen
+- TOP 23: Entsendung von Mitgliedern des Seniorenrates als sachkundige Einwohnerinnen und Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 24: Freiheitshagen, Ausbau der Verkehrsflächen und Entwässerungseinrichtungen - einstimmig beschlossen
+- TOP 24.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima Fraktion zur Vorlage SPOA/027/2025 - zurückgezogen
+- TOP 25: Aufsichtsrat der Industrieterrains Düsseldorf-Reisholz AG - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 26: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellung- - einstimmig beschlossen
+- TOP 28: Aufsichtsrat der IPM Immobilien Projekt Management Düsseldorf GmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 29: Grundsatzbeschluss zur Neuordnung des Schulstandortes Heidelberger Straße 75 - einstimmig beschlossen
+- TOP 30: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Errichtung einer Dreifeldsporthalle mit Tonsaal und Gymnastikraum am Humboldt-Gymnasium" - einstimmig beschlossen
+- TOP 31: Bereitstellung des DeutschlandTickets-Schule im Schülerverkehr für das Schuljahr 2025/2026 - einstimmig beschlossen
+- TOP 31.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima Fraktion zur Vorlage RAT/168/2025 - mehrheitlich abgelehnt
+- TOP 32: Polizeibeirat -Ersatzwahl- - mehrheitlich beschlossen
+- TOP 33: Aufsichtsrat der Düsseldorf Tourismus GmbH – Ersatzwahl - mehrheitlich beschlossen
+- TOP 34: Aufsichtsrat der D.LIVE GmbH & Co. KG – Ersatzwahl - mehrheitlich beschlossen
+- TOP 35: Aufsichtsrat der Flughafen Düsseldorf GmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 36: Sportbeirat der D.LIVE GmbH & Co.KG – Ersatzwahl - mehrheitlich beschlossen
+- TOP 37: Umbesetzung im Kommunalwahlausschuss der Landeshauptstadt Düsseldorf für die Kommunalwahlen und die Wahl des Integrationsrates 2025 - mehrheitlich beschlossen
+- TOP 38: Anträge
+- TOP 38.1: Antrag der FDP-Ratsfraktion: Konzeptionierung eines groß angelegten P+R-Systems - mehrheitlich abgelehnt
+- TOP 38.1.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima Fraktion zur Vorlage RAT/153/2025
+- TOP 38.2: Antrag der FDP-Ratsfraktion: Einführung intelligenter Ampelsysteme zur Verbesserung des Verkehrsflusses und der Lebensqualität in Düsseldorf - mehrheitlich abgelehnt
+- TOP 38.2.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima Fraktion zur Vorlage RAT/154/2025
+- TOP 38.3: Antrag der SPD-Ratsfraktion: Aktualisierung der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene - einstimmig beschlossen
+- TOP 38.4: Antrag der Ratsfraktion DIE LINKE: Änderung der Wohnraumschutzsatzung: Gewinnabschöpfende Ausgleichszahlungen - zurückgezogen
+- TOP 38.5: Antrag der Ratsfraktion DIE LINKE: Rückverlegung des Himmelgeister Deichs und Enteignung der dazu notwendigen Flächen - mehrheitlich abgelehnt
+- TOP 38.6: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Die Straßenverkehrsordnung gilt auch am Corneliusplatz - verwiesen
+- TOP 38.7: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Autofreien Corneliusplatz aufwerten - verwiesen
+- TOP 38.7.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/174/2025 - verwiesen
+- TOP 38.8: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Himmelgeister Rheinbogen: Hochwasserschutz, Natur- und Artenschutz ver-binden, jetzt Rückverlegung planen - mehrheitlich abgelehnt
+- TOP 38.9: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Weiterentwicklung der Förderung von Lastenrädern - mehrheitlich abgelehnt
+- TOP 38.10: Antrag der SPD-Ratsfraktion: Ferien(s)pass - verwiesen
+- TOP 38.11: Antrag der AfD-Ratsfraktion: Automatisierte Parkhäuser für Düsseldorf - zurückgezogen
+- TOP 39: Verwaltungsrat der Stadtsparkasse Düsseldorf -Ersatzwahl- - mehrheitlich beschlossen
