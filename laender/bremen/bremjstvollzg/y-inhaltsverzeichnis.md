@@ -11,7 +11,7 @@ Abschnitt 1 Allgemeine Bestimmungen
 § 8 | Soziale Hilfe
 Abschnitt 2 Vollzugsplanung
 § 9 | Aufnahme
-§ 10 | Feststellung des Erziehungs- und Förderbedarfs
+§ 10 | Trennungsgrundsätze
 § 11 | Vollzugsplan
 § 12 | Verlegung und Überstellung
 § 13 | Geschlossener und offener Vollzug
@@ -25,7 +25,7 @@ Abschnitt 2 Vollzugsplanung
 § 21 | Hilfe zur Entlassung, Nachsorge
 § 22 | Fortführung von Maßnahmen nach Entlassung
 Abschnitt 3 Unterbringung und Versorgung der Gefangenen
-§ 23 | Trennung von männlichen und weiblichen Gefangenen
+§ 23 | Trennungsgrundsätze
 § 24 | Unterbringung während der Ausbildung, Arbeit und Freizeit
 § 25 | Unterbringung während der Ruhezeit
 § 26 | Wohngruppen
@@ -84,7 +84,7 @@ Abschnitt 9 Sicherheit und Ordnung
 § 73 | Anordnung besonderer Sicherungsmaßnahmen
 § 73a | Verfahren
 § 74 | Ärztliche Überwachung
-§ 75 | Ersatz von Aufwendungen
+§ 75 | Ab- und Durchsuchungen
 Abschnitt 10 Unmittelbarer Zwang
 § 76 | Begriffsbestimmungen
 § 77 | Allgemeine Voraussetzungen
