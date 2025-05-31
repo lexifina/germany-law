@@ -50,7 +50,7 @@ Abschnitt 6 Besuche, Schriftwechsel, Telefongespräche und Pakete
 Abschnitt 7 Sicherheit und Ordnung
 § 42 | Grundsatz
 § 43 | Verhaltensvorschriften
-§ 44 | Absuchung, Durchsuchung
+§ 44 | Ab- und Durchsuchungen
 § 45 | (weggefallen)
 § 46 | (weggefallen)
 § 47 | Maßnahmen zur Feststellung von Suchtmittelkonsum
