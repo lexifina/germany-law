@@ -37,7 +37,6 @@
 | Kostenhaftung |
 | § 22 | Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln |
 | § 23 | Insolvenzverfahren |
-| § 23a | Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
 | § 24 | Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren |
 | § 25 | Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
 | § 25a | Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
@@ -80,7 +79,6 @@
 | § 51a | Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz |
 | § 52 | Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit |
 | § 53 | Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes |
-| § 53a | Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
 | § 54 | Zwangsversteigerung |
 | § 55 | Zwangsverwaltung |
 | § 56 | Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundstücksgleichen Rechten |

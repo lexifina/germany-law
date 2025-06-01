@@ -1,49 +1,52 @@
 # Anlage 2 (zu § 2 Absatz 1 Satz 2)Stundensätze
 
-| Themenbereich | Organisationseinheit | Stundensatz in Euro |
-| Themenbereich 1 Akustik, Ultraschall, Beschleunigung | Geschwindigkeit | 160 |
+| Themen- bereich Nr. | Themenbereich Name | Organisationseinheit | Stundensatz |
+| 1 | Akustik, Ultraschall, Beschleunigung | Geschwindigkeit | 172 Euro |
 | Schall |
 | Akustik und Dynamik |
-| Themenbereich 2 Durchfluss | Gase | 167 |
+| 2 | Durchfluss | Gase | 179 Euro |
 | Flüssigkeiten |
 | Wärme und Vakuum |
-| Themenbereich 3 Elektrizität und Magnetismus | Gleichstrom und Niederfrequenz | 186 |
+| 3 | Elektrizität und Magnetismus | Gleichstrom und Niederfrequenz | 202 Euro |
 | Hochfrequenz und Felder |
 | Elektrische Energiemesstechnik |
 | Quantenelektronik |
 | Halbleiterphysik und Magnetismus |
 | Elektrische Quantenmetrologie |
-| Themenbereich 4 Ionisierende Strahlung | Radioaktivität | 204 |
+| 4 | Ionisierende Strahlung | Radioaktivität | 213 Euro |
 | Dosimetrie für Strahlentherapie und Röntgendiagnostik |
 | Strahlenschutzdosimetrie |
 | Neutronenstrahlung |
-| Strahlenwirkung |
-| Themenbereich 5 Länge, dimensionelle Metrologie | Bild- und Wellenoptik | 169 |
+| 5 | Länge, dimensionelle Metrologie | Bild- und Wellenoptik | 189 Euro |
 | Quantenoptik und Längeneinheit |
 | Oberflächenmesstechnik |
 | Dimensionelle Nanometrologie |
 | Koordinatenmesstechnik |
 | Interferometrie an Maßverkörperungen |
-| Themenbereich 6 Masse und abgeleitete Größen | Masse | 180 |
+| 6 | Masse und abgeleitete Größen | Masse | 192 Euro |
 | Festkörpermechanik |
-| Themenbereich 7 Metrologie in der Chemie | Allgemeine und Anorganische Chemie | 188 |
+| 7 | Metrologie in der Chemie | Allgemeine und Anorganische Chemie | 204 Euro |
 | Biochemie |
 | Physikalische Chemie |
 | Analytische Chemie der Gasphase |
-| Themenbereich 8 Metrologie für die Medizin | Biomedizinische Magnetresonanz | 176 |
+| 8 | Metrologie für die Medizin | Biomedizinische Magnetresonanz | 184 Euro |
 | Biosignale |
 | Biomedizinische Optik |
-| Themenbereich 9 Radiometrie und Photometrie | Photometrie und Spektroradiometrie | 194 |
+| 9 | Radiometrie und Photometrie | Photometrie und Spektroradiometrie | 197 Euro |
 | Angewandte Radiometrie |
 | Radiometrie mit Synchrotronstrahlung |
 | Röntgenmesstechnik mit Synchrotronstrahlung |
-| Themenbereich 10 Thermometrie | Detektorradiometrie und Strahlungsthermometrie | 176 |
+| 10 | Thermometrie | Detektorradiometrie und Strahlungsthermometrie | 188 Euro |
 | Temperatur |
 | Kryosensorik |
-| Themenbereich 11 Zeit und Frequenz | Zeit und Frequenz | 156 |
-| Themenbereich 12 Metrologische Informationstechnik | Mathematische Modellierung und Datenanalyse | 147 |
+| 11 | Zeit und Frequenz | Zeit und Frequenz | 159 Euro |
+| 12 | Metrologische Informationstechnik | Mathematische Modellierung und Datenanalyse | 179 Euro |
 | Metrologische Informationstechnik |
-| Themenbereich 13 Physikalische Sicherheitstechnik,Explosionsschutz | Explosionsschutz in der Energietechnik | 196 |
+| Metrologie für die digitale Transformation |
+| Quantentechnologie-Kompetenzzentrum |
+| 13 | Physikalische Sicherheitstechnik, Explosionsschutz | Explosionsschutz in der Energietechnik | 227 Euro |
 | Explosionsgeschützte Sensorik und Messtechnik |
 | Grundlagen des Explosionsschutzes |
-| Themenbereich 14 Sonstige Leistungen | Wissenschaftlicher Gerätebau und andere Organisationseinheiten ohne bzw. mit geringer bis mittlerer technischer Ausstattung | 116 |
+| 14 | Sonstige Nutzleistungen | Wissenschaftlicher Gerätebau und andere Organisationseinheiten ohne technische Ausstattung bzw. mit geringer bis mittlerer technischer Ausstattung | 130 Euro |
+| Industrielles Messwesen |
+| Gesetzliches Messwesen und Konformitätsbewertung |

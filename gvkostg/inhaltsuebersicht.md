@@ -9,7 +9,7 @@
 | § 4 | Vorschuss |
 | § 5 | Kostenansatz, Erinnerung, Beschwerde, Gehörsrüge |
 | § 6 | Nachforderung |
-| § 7 | Nichterhebung von Kosten wegen unrichtiger Sachbehandlung |
+| § 7 | Nichterhebung von Kosten |
 | § 8 | Verjährung, Verzinsung |
 | § 9 | Höhe der Kosten |
 | Abschnitt 2 |

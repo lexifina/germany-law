@@ -11,7 +11,7 @@
 - [§ 4 Vorschuss](0004.md)
 - [§ 5 Kostenansatz, Erinnerung, Beschwerde, Gehörsrüge](0005.md)
 - [§ 6 Nachforderung](0006.md)
-- [§ 7 Nichterhebung von Kosten wegen unrichtiger Sachbehandlung](0007.md)
+- [§ 7 Nichterhebung von Kosten](0007.md)
 - [§ 8 Verjährung, Verzinsung](0008.md)
 - [§ 9 Höhe der Kosten](0009.md)
 

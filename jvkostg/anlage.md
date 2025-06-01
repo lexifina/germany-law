@@ -46,7 +46,7 @@ Gebühren
 | 1151 | Abruf von Daten aus dem Grundbuch oder Register: für jeden Abruf aus einem Grundbuch- oder Registerblatt .......... | 8,00 € |
 | 1152 | Abruf von Dokumenten, die zu den Grund- oder Registerakten genommen wurden: für jedes abgerufene Dokument .......... | 1,50 € |
 | Abschnitt 6 Schutzschriftenregister |
-| 1160 | Einstellung einer Schutzschrift .......... | 83,00 € |
+| 1160 | Einstellung einer Schutzschrift .......... | 115,00 € |
 | Hauptabschnitt 2 Verfahren des Bundesamts für Justiz |
 | Abschnitt 1 Ordnungsgeldverfahren |
 | Vorbemerkung 1.2.1.: Wird ein Ordnungsgeldverfahren gegen mehrere Personen durchgeführt, entstehen die Gebühren für jede Person gesondert. |

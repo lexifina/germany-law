@@ -1,60 +1,45 @@
 # Anlage 1 (zu § 2 Absatz 1 Satz 2)Gebührenverzeichnis
 
-Inhaltsübersicht
-Abschnitt 1
-Mess- und Eichgesetz (MessEG),
-Mess- und Eichverordnung (MessEV)
-Abschnitt 2
-Gewerbeordnung (GewO),
-Spielverordnung (SpielV)
-Abschnitt 3
-Medizinprodukterecht-Durchführungsgesetz (MPDG)
-Abschnitt 4
-Beschussgesetz (BeschG),
-Beschussverordnung (BeschussV),
-Waffengesetz (WaffG)
-Abschnitt 5
-Fertigpackungsverordnung (FPackV)
-Abschnitt 6
-Verordnung über Heizkostenabrechnung (HeizkostenV)
-| Abschnitt 1Mess- und Eichgesetz (MessEG), Mess- und Eichverordnung (MessEV) |
+(Fundstelle: BGBl. 2025 I Nr. 90, S. 1 – 3)
+| InhaltsübersichtAbschnitt 1Mess- und Eichgesetz (MessEG), Mess- und Eichverordnung (MessEV)Abschnitt 2Gewerbeordnung (GewO), Spielverordnung (SpielV)Abschnitt 3Medizinprodukterecht-Durchführungsgesetz (MPDG)Abschnitt 4Beschussgesetz (BeschG), Beschussverordnung (BeschussV), Waffengesetz (WaffG)Abschnitt 5Fertigpackungsverordnung (FPackV)Abschnitt 6Verordnung über Heizkostenabrechnung (HeizkostenV) |
+| Abschnitt 1Mess- und Eichgesetz (MessEG),Mess- und Eichverordnung (MessEV) |
 | Nr. | Gebührentatbestand | Gebühr |
 | 1 | Prüfung, Erteilung und Änderung von EG-Bauartzulassungen nach § 27 Absatz 2 MessEG in Verbindung mit § 19 MessEV | Zeitgebühr nach Anlage 2 |
 | 2 | Durchführung von Vergleichsmessungen mit Mustern von Dosimetersonden für ein passives, integrierendes Dosimeter nach § 29 Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 2 MessEV |  |
-| 2.1 | Grundgebühr pro Dosimeterbauart | 612 Euro |
-| 2.2 | Bestrahlung einer Dosimetersonde (E < 2 MeV) | 102 Euro |
-| Abschnitt 2Gewerbeordnung (GewO), Spielverordnung (SpielV) |
+| 2.1 | Grundgebühr pro Dosimeterbauart | 639,00 Euro |
+| 2.2 | Bestrahlung einer Dosimetersonde (E < 2 MeV) | 106,50 Euro |
+| Abschnitt 2Gewerbeordnung (GewO),Spielverordnung (SpielV) |
 | Nr. | Gebührentatbestand | Gebühr |
 | 1 | Prüfung und Zulassung der Bauart von Spielgeräten nach § 11 SpielV in Verbindung mit § 33c GewO | Zeitgebühr nach Anlage 2 |
 | 2 | Erteilung eines Zulassungsbeleges und des Zulassungszeichens sowie Umtausch dieser Unterlagen nach § 15 Absatz 1 SpielV |  |
-| 2.1 | Erteilung von Zulassungsbelegen einschließlich der Zulassungszeichen 50 Stück | 750 Euro |
-| 2.2 | Erteilung von Zulassungsbelegen einschließlich der Zulassungszeichen 500 Stück | 7 500 Euro |
+| 2.1 | Erteilung von Zulassungsbelegen einschließlich der Zulassungszeichen je 50 Stück | 1 000,00 Euro |
+| 2.2 | Erteilung von Zulassungsbelegen einschließlich der Zulassungszeichen je 500 Stück | 10 000,00 Euro |
 | 3 | Erstattung von Aufwendungen für beantragte Ergänzungsarbeiten nach § 15 Absatz 1 SpielV |  |
-| 3.1 | Erteilung eines Ersatzzulassungsbeleges einschließlich des Ersatzzulassungszeichens pro Stück | 174 Euro |
+| 3.1 | Erteilung eines Ersatzzulassungsbeleges einschließlich des Ersatzzulassungszeichens pro Stück | 195,00 Euro |
 | Abschnitt 3Medizinprodukterecht-Durchführungsgesetz (MPDG) |
 | Nr. | Gebührentatbestand | Gebühr |
 | 1 | Gutachterliche Bewertung von Medizinprodukten mit Messfunktion nach § 85 Absatz 4 Nummer 1 MPDG | Zeitgebühr nach Anlage 2 |
 | 2 | Entwicklung und Prüfung von Referenzmessverfahren, Normalmessgeräten und Prüfhilfsmitteln nach § 85 Absatz 4 Nummer 2 MPDG | Zeitgebühr nach Anlage 2 |
 | 3 | Wissenschaftliche Beratung von Bundesoberbehörden, zuständigen Behörden und Benannten Stellen nach § 85 Absatz 4 Nummer 3 MPDG | Zeitgebühr nach Anlage 2 |
-| Abschnitt 4Beschussgesetz (BeschG), Beschussverordnung (BeschussV), Waffengesetz (WaffG) |
+| Abschnitt 4Beschussgesetz (BeschG),Beschussverordnung (BeschussV),Waffengesetz (WaffG) |
 | Nr. | Gebührentatbestand | Gebühr |
 | 1 | Entgegennahme einer Anzeige der gewerbsmäßigen Herstellung oder Verbringung einer Schusswaffe und gegebenenfalls Prüfung der Bewegungsenergie der Geschosse zur Feststellung der Berechtigung zum Aufbringen der Kennzeichnung nach § 9 Absatz 2 Satz 1 Nummer 1 und Absatz 4 BeschG in Verbindung mit Anlage II Abbildung 10 BeschussV | Zeitgebühr nach Anlage 2 |
-| 2 | Ausnahmebewilligungen nach § 13 BeschG in Verbindung mit den §§ 7 und 8 BeschG | Zeitgebühr nach Anlage 2 |
+| 2 | Ausnahmebewilligungen nach § 13 BeschG in Verbindung mit §§ 7 und 8 BeschG | Zeitgebühr nach Anlage 2 |
 | 3 | Zulassung der Bauart von Schussapparaten, Einsteckläufen und nicht der Beschusspflicht unterliegenden Feuerwaffen, Systemprüfungen von Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition nach § 20 Absatz 3 Satz 1 in Verbindung mit § 7 BeschG | Zeitgebühr nach Anlage 2 |
 | 4 | Zulassung von Schreckschuss-, Reizstoff- und Signalwaffen nach § 20 Absatz 3 Satz 1 in Verbindung mit § 8 BeschG | Zeitgebühr nach Anlage 2 |
 | 5 | Entgegennahme einer Anzeige der gewerbsmäßigen Herstellung oder Verbringung von Elektroimpulsgeräten und Reizstoffsprühgeräten sowie Kartuschenmunition mit Reizstoffen, Prüfung sowie Anordnung von Maßnahmen nach § 20 Absatz 3 Satz 1 in Verbindung mit § 9 Absatz 2 Satz 1 Nummer 2 bis 4 und Absatz 3 und 4 BeschG und Anlage 1 Abschnitt 1 Unterabschnitt 2 Nummer 1.2.1 und 1.2.2 WaffG | Zeitgebühr nach Anlage 2 |
 | 6 | Prüfung der technischen Anforderungen von Gasböllern nach § 8 Absatz 4 BeschussV | Zeitgebühr nach Anlage 2 |
 | 7 | Maßnahmen nach § 11 BeschussV (Bauartzulassung für besondere Schusswaffen, pyrotechnische Munition und Schussapparate), u. a. Geräte- und Systemprüfung sowie Erstellung von Prüfregeln nach § 11 Absatz 1 BeschussV, Zulassung von Ausnahmen nach § 11 Absatz 3 BeschussV, Bestätigung der Anzeige und der Berechtigung zum Aufbringen des Kennzeichens nach § 11 Absatz 6 BeschussV | Zeitgebühr nach Anlage 2 |
 | 8 | Prüfung von Betriebsanleitungen nach § 13 BeschussV | Zeitgebühr nach Anlage 2 |
-| 9 | Prüfung der Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte und Reizstoffe sowie an Elektroimpulsgeräte nach § 15 in Verbindung mit den Anlagen IV und V BeschussV | Zeitgebühr nach Anlage 2 |
+| 9 | Prüfung der Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte und Reizstoffe sowie an Elektroimpulsgeräte nach § 15 in Verbindung mit Anlagen IV und V BeschussV | Zeitgebühr nach Anlage 2 |
 | 10 | Prüfung von anderen nicht tragbaren Geräten nach § 19 Absatz 3 BeschussV | Zeitgebühr nach Anlage 2 |
 | 11 | Periodische Fabrikationskontrollen nach § 22 BeschussV | Zeitgebühr nach Anlage 2 |
 | 12 | Überprüfungen im Einzelfall nach § 23 BeschussV | Zeitgebühr nach Anlage 2 |
 | 13 | Prüfung der Konformität und Zulassung neu entwickelter Blockiersysteme für Erbwaffen nach § 20 Absatz 4 WaffG | Zeitgebühr nach Anlage 2 |
-| 14 | Entgegennahme von Anzeigen einer Marke nach § 24 Absatz 6 WaffG | 200 Euro |
+| 14 | Entgegennahme von Anzeigen einer Marke nach § 24 Absatz 6 WaffG | 215,00 Euro |
 | Abschnitt 5Fertigpackungsverordnung (FPackV) |
 | Nr. | Gebührentatbestand | Gebühr |
-| 1 | Erteilung von Herstellerzeichen für Maßbehältnis-Flaschen nach § 37 Absatz 1 FPackV oder Verlangen von Änderungen eines beantragten Herstellerzeichens nach § 37 Absatz 2 FPackV, einschließlich der Unterrichtung der zuständigen Stellen | 232 Euro |
+| 1 | Erteilung von Herstellerzeichen für Maßbehältnis-Flaschen nach § 37 Absatz 1 FPackV oder Verlangen von Änderungen eines beantragten Herstellerzeichens nach § 37 Absatz 2 FPackV, einschließlich der Unterrichtung der zuständigen Stellen | 260,00 Euro |
 | Abschnitt 6Verordnung über Heizkostenabrechnung (HeizkostenV) |
 | Nr. | Gebührentatbestand | Gebühr |
 | 1 | Prüfung im Rahmen der Mitwirkung bei der Bestätigung der Eignung von sachverständigen Stellen nach § 5 Absatz 1 HeizkostenV | Zeitgebühr nach Anlage 2 |

@@ -38,8 +38,8 @@
 |  | Abschnitt 4 | Besondere Verfahren nach dem Aktiengesetz und dem Umwandlungsgesetz |
 |  |  | Unterabschnitt 1 |  |  | Erster Rechtszug |
 |  |  | Unterabschnitt 2 |  |  | Beschwerde |
-|  | Abschnitt 5 | Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
-|  | Abschnitt 6 | Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
+|  | Abschnitt 5 | Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
+|  |  |  |
 |  |  |  |
 | Hauptabschnitt 7 |  | Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
 |  |  |  |
@@ -248,14 +248,14 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | Nr. | Gebührentatbestand | Gebühr oder Satz der Gebühr nach § 34 GKG |
 | Vorbemerkung 1: Die Vorschriften dieses Teils gelten nicht für die in Teil 2 geregelten Verfahren. |
 | Hauptabschnitt 1 Mahnverfahren |
-| 1100 | Verfahren über den Antrag auf Erlass eines Mahnbescheids oder eines Europäischen Zahlungsbefehls .......... | 0,5 – mindestens 36,00 € |
+| 1100 | Verfahren über den Antrag auf Erlass eines Mahnbescheids oder eines Europäischen Zahlungsbefehls .......... | 0,5 – mindestens 38,00 € |
 | Hauptabschnitt 2 Prozessverfahren |
 | Abschnitt 1 Erster Rechtszug |
 | Vorbemerkung 1.2.1: Die Gebühren dieses Abschnitts entstehen nicht im Musterverfahren nach dem KapMuG; das erstinstanzliche Musterverfahren gilt als Teil des ersten Rechtszugs des Prozessverfahrens. |
 | Unterabschnitt 1 Verfahren vor dem Amts- oder Landgericht |
 | 1210 | Verfahren im Allgemeinen .......... | 3,0 |
 |  | (1) Soweit wegen desselben Streitgegenstands ein Mahnverfahren vorausgegangen ist, entsteht die Gebühr mit dem Eingang der Akten bei dem Gericht, an das der Rechtsstreit nach Erhebung des Widerspruchs oder Einlegung des Einspruchs abgegeben wird; in diesem Fall wird eine Gebühr 1100 nach dem Wert des Streitgegenstands angerechnet, der in das Prozessverfahren übergegangen ist. Satz 1 gilt entsprechend, wenn wegen desselben Streitgegenstands ein Europäisches Mahnverfahren vorausgegangen ist. (2) Soweit der Kläger wegen desselben Streitgegenstands einen Anspruch zum Musterverfahren angemeldet hat (§ 13 KapMuG), wird insoweit die Gebühr 1902 angerechnet. |  |
-| 1211 | Beendigung des gesamten Verfahrens durch 1.Zurücknahme der Klage a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 128 Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht,c)im Verfahren nach § 495a ZPO, in dem eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem eine Ladung zum Termin zur Verkündung des Urteils zugestellt oder das schriftliche Urteil der Geschäftsstelle übermittelt wird,d)im Fall des § 331 Abs. 3 ZPO vor Ablauf des Tages, an dem das Urteil der Geschäftsstelle übermittelt wird odere)im europäischen Verfahren für geringfügige Forderungen, in dem eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem das schriftliche Urteil der Geschäftsstelle übermittelt wird,wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,2.Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält, oder nur deshalb Tatbestand und die Entscheidungsgründe enthält, weil zu erwarten ist, dass das Urteil im Ausland geltend gemacht wird (§ 313a Abs. 4 Nr. 5 ZPO),3.gerichtlichen Vergleich oder Beschluss nach § 26 Abs. 3 KapMuG oder |  |
+| 1211 | Beendigung des gesamten Verfahrens durch 1.Zurücknahme der Klage a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 128 Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht,c)im Verfahren nach § 495a ZPO, in dem eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem eine Ladung zum Termin zur Verkündung des Urteils zugestellt oder das schriftliche Urteil der Geschäftsstelle übermittelt wird,d)im Fall des § 331 Abs. 3 ZPO vor Ablauf des Tages, an dem das Urteil der Geschäftsstelle übermittelt wird odere)im europäischen Verfahren für geringfügige Forderungen, in dem eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem das schriftliche Urteil der Geschäftsstelle übermittelt wird,wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,2.Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält, oder nur deshalb Tatbestand und die Entscheidungsgründe enthält, weil zu erwarten ist, dass das Urteil im Ausland geltend gemacht wird (§ 313a Abs. 4 ZPO),3.gerichtlichen Vergleich oder Beschluss nach § 26 Abs. 3 KapMuG oder |  |
 |  | 4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile, eine Entscheidung über einen Antrag auf Erlass einer Sicherungsanordnung oder ein Musterentscheid nach dem KapMuG vorausgegangen ist: Die Gebühr 1210 ermäßigt sich auf .......... | 1,0 |
 |  | Die Zurücknahme des Antrags auf Durchführung des streitigen Verfahrens, des Widerspruchs gegen den Mahnbescheid oder des Einspruchs gegen den Vollstreckungsbescheid stehen der Zurücknahme der Klage gleich. Die Vervollständigung eines ohne Tatbestand und Entscheidungsgründe hergestellten Urteils (§ 313a Abs. 5 ZPO) steht der Ermäßigung nicht entgegen. Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
 | Unterabschnitt 2 Verfahren vor dem Oberlandesgericht |
@@ -268,7 +268,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 |  | 3.gerichtlichen Vergleich oder4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile vorausgegangen ist: Die Gebühr 1214 ermäßigt sich auf .......... | 3,0 |
 |  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
 | Abschnitt 2 Berufung und bestimmte Beschwerden |
-| Vorbemerkung 1.2.2: Dieser Abschnitt ist auf Beschwerdeverfahren nach 1. den §§ 73 und 171 GWB, 2. § 48 WpÜG, 3. § 37u Abs. 1 WpHG, 4. § 75 EnWG, 5. § 13 EU-VSchDG, 6. § 35 KSpG und7. § 11 WRegG anzuwenden. |
+| Vorbemerkung 1.2.2: Dieser Abschnitt ist auf Beschwerdeverfahren nach 1. den §§ 73 und 171 GWB, 2. § 48 WpÜG, 3. § 113 Abs. 1 WpHG, 4. § 75 EnWG, 5. § 13 EU-VSchDG, 6. § 35 KSpG und7. § 11 WRegG anzuwenden. |
 | 1220 | Verfahren im Allgemeinen .......... | 4,0 |
 | 1221 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags, bevor die Schrift zur Begründung des Rechtsmittels bei Gericht eingegangen ist: Die Gebühr 1220 ermäßigt sich auf .......... | 1,0 |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
@@ -300,8 +300,8 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | 1253 | Verfahren über die Beschwerde nach § 122 PatG oder § 20 GebrMG i. V. m. § 122 PatG gegen ein Urteil über den Erlass einer einstweiligen Verfügung in Zwangslizenzsachen .......... | 2,0 |
 | 1254 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist: Die Gebühr 1253 ermäßigt sich auf .......... | 1,0 |
 |  | Erledigungserklärungen nach § 91a ZPO i. V. m. § 121 Abs. 2 Satz 2 PatG, § 20 GebrMG stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
-| 1255 | Verfahren über die Rechtsbeschwerde .......... | 825,00 € |
-| 1256 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühr 1255 ermäßigt sich auf .......... | 110,00 € |
+| 1255 | Verfahren über die Rechtsbeschwerde .......... | 899,00 € |
+| 1256 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühr 1255 ermäßigt sich auf .......... | 120,00 € |
 |  | Erledigungserklärungen in entsprechender Anwendung des § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
 | Hauptabschnitt 3 (weggefallen) |
 | Hauptabschnitt 4 Arrest, Europäischer Beschluss zur vorläufigen Kontenpfändung und einstweilige Verfügung |
@@ -325,18 +325,18 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | Hauptabschnitt 5 Vorbereitung der grenzüberschreitenden Zwangsvollstreckung |
 | Vorbemerkung 1.5: Die Vollstreckbarerklärung eines ausländischen Schiedsspruchs oder deren Aufhebung bestimmt sich nach Nummer 1620. |
 | Abschnitt 1 Erster Rechtszug |
-| 1510 | Verfahren über Anträge auf 1.Vollstreckbarerklärung ausländischer Titel,2.Feststellung, ob die ausländische Entscheidung anzuerkennen ist,3.Erteilung der Vollstreckungsklausel zu ausländischen Titeln,4.Aufhebung oder Abänderung von Entscheidungen in den in den Nummern 1 bis 3 genannten Verfahren und5.Versagung der Anerkennung oder der Vollstreckung (§ 1115 ZPO)oder über die Klage auf Erlass eines Vollstreckungsurteils .......... | 264,00 € |
-| 1511 | Beendigung des gesamten Verfahrens durch Zurücknahme der Klage oder des Antrags vor dem Schluss der mündlichen Verhandlung oder, wenn eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird: Die Gebühr 1510 ermäßigt sich auf .......... | 99,00 € |
+| 1510 | Verfahren über Anträge auf 1.Vollstreckbarerklärung ausländischer Titel,2.Feststellung, ob die ausländische Entscheidung anzuerkennen ist,3.Erteilung der Vollstreckungsklausel zu ausländischen Titeln,4.Aufhebung oder Abänderung von Entscheidungen in den in den Nummern 1 bis 3 genannten Verfahren und5.Versagung der Anerkennung oder der Vollstreckung (§ 1115 ZPO)oder über die Klage auf Erlass eines Vollstreckungsurteils .......... | 288,00 € |
+| 1511 | Beendigung des gesamten Verfahrens durch Zurücknahme der Klage oder des Antrags vor dem Schluss der mündlichen Verhandlung oder, wenn eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird: Die Gebühr 1510 ermäßigt sich auf .......... | 108,00 € |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
-| 1512 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57 AVAG oder § 27 IntErbRVG .......... | 17,00 € |
-| 1513 | Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO oder über Anträge auf Ausstellung einer Bescheinigung nach § 1110 ZPO oder nach § 58 oder § 59 AVAG .......... | 22,00 € |
-| 1514 | Verfahren nach § 3 Abs. 2 des Gesetzes zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 319-12, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 23 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887) geändert worden ist .......... | 66,00 € |
+| 1512 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57 AVAG oder § 27 IntErbRVG .......... | 19,00 € |
+| 1513 | Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO oder über Anträge auf Ausstellung einer Bescheinigung nach § 1110 ZPO oder nach § 58 oder § 59 AVAG .......... | 24,00 € |
+| 1514 | Verfahren nach § 3 Abs. 2 des Gesetzes zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 319-12, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 23 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887) geändert worden ist .......... | 72,00 € |
 | Abschnitt 2 Rechtsmittelverfahren |
-| 1520 | Verfahren über Rechtsmittel in den in den Nummern 1510 und 1514 genannten Verfahren .......... | 396,00 € |
-| 1521 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags, bevor die Schrift zur Begründung des Rechtsmittels bei Gericht eingegangen ist: Die Gebühr 1520 ermäßigt sich auf .......... | 99,00 € |
-| 1522 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags vor dem Schluss der mündlichen Verhandlung oder, wenn eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 1521 erfüllt ist: Die Gebühr 1520 ermäßigt sich auf .......... | 198,00 € |
+| 1520 | Verfahren über Rechtsmittel in den in den Nummern 1510 und 1514 genannten Verfahren .......... | 432,00 € |
+| 1521 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags, bevor die Schrift zur Begründung des Rechtsmittels bei Gericht eingegangen ist: Die Gebühr 1520 ermäßigt sich auf .......... | 108,00 € |
+| 1522 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags vor dem Schluss der mündlichen Verhandlung oder, wenn eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 1521 erfüllt ist: Die Gebühr 1520 ermäßigt sich auf .......... | 216,00 € |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
-| 1523 | Verfahren über Rechtsmittel in 1.den in den Nummern 1512 und 1513 genannten Verfahren und2.Verfahren über die Berichtigung oder den Widerruf einer Bestätigung nach § 1079 ZPO:Das Rechtsmittel wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 1523 | Verfahren über Rechtsmittel in 1.den in den Nummern 1512 und 1513 genannten Verfahren und2.Verfahren über die Berichtigung oder den Widerruf einer Bestätigung nach § 1079 ZPO:Das Rechtsmittel wird verworfen oder zurückgewiesen .......... | 72,00 € |
 | Hauptabschnitt 6 Sonstige Verfahren |
 | Abschnitt 1 Selbständiges Beweisverfahren |
 | 1610 | Verfahren im Allgemeinen .......... | 1,0 |
@@ -356,9 +356,9 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | 1628 | Verfahren über die Rechtsbeschwerde in den in den Nummern 1620 bis 1622 und 1626 genannten Verfahren .......... | 3,0 |
 | 1629 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags: Die Gebühr 1628 ermäßigt sich auf .......... | 1,0 |
 | Abschnitt 3 Besondere Verfahren nach dem Gesetz gegen Wettbewerbsbeschränkungen, dem Wertpapiererwerbs- und Übernahmegesetz und dem Wertpapierhandelsgesetz |
-| 1630 | Verfahren über einen Antrag nach § 169 Abs. 2 Satz 5 und 6, Abs. 4 Satz 2, § 173 Abs. 1 Satz 3 oder nach § 176 GWB .......... | 3,0 |
+| 1630 | Verfahren über einen Antrag nach § 169 Abs. 2 Satz 6 und 7, Abs. 4 Satz 2, § 173 Abs. 1 Satz 3 oder nach § 176 GWB .......... | 3,0 |
 | 1631 | Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags: Die Gebühr 1630 ermäßigt sich auf .......... | 1,0 |
-| 1632 | Verfahren über den Antrag nach § 50 Abs. 3 bis 5 WpÜG, auch i. V. m. § 37u Abs. 2 WpHG .......... | 0,5 |
+| 1632 | Verfahren über den Antrag nach § 50 Abs. 3 bis 5 WpÜG, auch i. V. m. § 113 Abs. 2 WpHG .......... | 0,5 |
 |  | Mehrere Verfahren gelten innerhalb eines Rechtszugs als ein Verfahren. |  |
 | Abschnitt 4 Besondere Verfahren nach dem Aktiengesetz und dem Umwandlungsgesetz |
 | Unterabschnitt 1 Erster Rechtszug |
@@ -370,33 +370,28 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | 1643 | Verfahren über die Beschwerde in den in Nummer 1640 genannten Verfahren .......... | 1,0 |
 | 1644 | Beendigung des Verfahrens ohne Entscheidung: Die Gebühr 1643 ermäßigt sich auf .......... | 0,5 |
 |  | (1) Die Gebühr ermäßigt sich auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird. (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
-| Abschnitt 5 Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
-| 1650 | Sanierungsverfahren .......... | 0,5 |
-| 1651 | Die Durchführung des Sanierungsverfahrens wird nicht angeordnet:Die Gebühr 1650 beträgt .......... | 0,2 |
-| 1652 | Reorganisationsverfahren .......... | 1,0 |
-| 1653 | Die Durchführung des Reorganisationsverfahrens wird nicht angeordnet:Die Gebühr 1652 beträgt .......... | 0,2 |
-| Abschnitt 6 Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
-| 1660 | Umsetzungsverfahren nach dem VDuG | 1,0 |
+| Abschnitt 5 Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
+| 1650 | Umsetzungsverfahren nach dem VDuG | 1,0 |
 | Hauptabschnitt 7 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 1700 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, auch i. V. m. § 122a PatG oder § 89a MarkenG, § 69 GWB, § 41 AgrarOLkG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 1700 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, auch i. V. m. § 122a PatG oder § 89a MarkenG, § 69 GWB, § 41 AgrarOLkG, § 83a EnWG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 | Hauptabschnitt 8 Sonstige Beschwerden und Rechtsbeschwerden |
 | Abschnitt 1 Sonstige Beschwerden |
-| 1810 | Verfahren über Beschwerden nach § 71 Abs. 2, § 91a Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO .......... | 99,00 € |
-| 1811 | Beendigung des Verfahrens ohne Entscheidung: Die Gebühr 1810 ermäßigt sich auf .......... | 66,00 € |
+| 1810 | Verfahren über Beschwerden nach § 71 Abs. 2, § 91a Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO .......... | 108,00 € |
+| 1811 | Beendigung des Verfahrens ohne Entscheidung: Die Gebühr 1810 ermäßigt sich auf .......... | 72,00 € |
 |  | (1) Die Gebühr ermäßigt sich auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird. (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
-| 1812 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 1812 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Abschnitt 2 Sonstige Rechtsbeschwerden |
 | 1820 | Verfahren über Rechtsbeschwerden gegen den Beschluss, durch den die Berufung als unzulässig verworfen wurde (§ 522 Abs. 1 Satz 2 und 3 ZPO) .......... | 2,0 |
 | 1821 | Verfahren über Rechtsbeschwerden nach § 23 KapMuG .......... | 5,0 |
 | 1822 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühren 1820 und 1821 ermäßigen sich auf .......... | 1,0 |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
-| 1823 | Verfahren über Rechtsbeschwerden in den Fällen des § 71 Abs. 1, § 91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4, § 494a Abs. 2 Satz 2 oder § 516 Abs. 3 ZPO .......... | 198,00 € |
-| 1824 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühr 1823 ermäßigt sich auf .......... | 66,00 € |
-| 1825 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 1824 erfüllt ist: Die Gebühr 1823 ermäßigt sich auf .......... | 99,00 € |
-| 1826 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 132,00 € |
+| 1823 | Verfahren über Rechtsbeschwerden in den Fällen des § 71 Abs. 1, § 91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4, § 494a Abs. 2 Satz 2 oder § 516 Abs. 3 ZPO .......... | 216,00 € |
+| 1824 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühr 1823 ermäßigt sich auf .......... | 72,00 € |
+| 1825 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 1824 erfüllt ist: Die Gebühr 1823 ermäßigt sich auf .......... | 108,00 € |
+| 1826 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 144,00 € |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
-| 1827 | Verfahren über die in Nummer 1826 genannten Rechtsbeschwerden: Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird .......... | 66,00 € |
+| 1827 | Verfahren über die in Nummer 1826 genannten Rechtsbeschwerden: Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird .......... | 72,00 € |
 | Hauptabschnitt 9 Besondere Gebühren |
 | 1900 | Abschluss eines gerichtlichen Vergleichs: Soweit ein Vergleich über nicht gerichtlich anhängige Gegenstände geschlossen wird .......... | 0,25 |
 |  | Die Gebühr entsteht nicht im Verfahren über die Prozesskostenhilfe. Im Verhältnis zur Gebühr für das Verfahren im Allgemeinen ist § 36 Abs. 3 GKG entsprechend anzuwenden. |  |
@@ -409,33 +404,33 @@ Insolvenzverfahren und ähnliche Verfahren
 | Hauptabschnitt 1 Zwangsvollstreckung nach der Zivilprozessordnung |
 | Abschnitt 1 Erster Rechtszug |
 | Vorbemerkung 2.1:Dieser Hauptabschnitt ist auch auf Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung im Fall des Artikels 5 Buchstabe b der Verordnung (EU) Nr. 655/2014 sowie auf alle Verfahren über Anträge auf Einschränkung oder Beendigung der Vollstreckung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung (§ 954 Abs. 2 ZPO i. V. m. Artikel 34 der Verordnung (EU) Nr. 655/2014) anzuwenden. Im Übrigen bestimmen sich die Gebühren nach Teil 1 Hauptabschnitt 4 oder Teil 8 Hauptabschnitt 3. |
-| 2110 | Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 ZPO) .......... | 22,00 € |
-|  | Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben. Sind wegen desselben Anspruchs in einem Mahnverfahren gegen mehrere Personen gesonderte Vollstreckungsbescheide erlassen worden und werden hiervon gleichzeitig mehrere weitere vollstreckbare Ausfertigungen beantragt, wird die Gebühr nur einmal erhoben. |  |
-| 2111 | Verfahren über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829 Abs. 1, §§ 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder § 890 ZPO sowie im Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung im Fall des Artikels 5 Buchstabe b der Verordnung (EU) Nr. 655/2014 .......... | 22,00 € |
+| 2110 | Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 ZPO) oder auf Erteilung einer vollstreckbaren Ausfertigung für oder gegen einen Rechtsnachfolger (§ 727, auch i. V. m. den §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO) | 24,00 € |
+|  | (1) Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben. Sind wegen desselben Anspruchs in einem Mahnverfahren gegen mehrere Personen gesonderte Vollstreckungsbescheide erlassen worden und werden hiervon gleichzeitig mehrere weitere vollstreckbare Ausfertigungen beantragt, wird die Gebühr nur einmal erhoben. (2) In Verfahren über den Antrag auf Erteilung einer vollstreckbaren Ausfertigung für oder gegen einen Rechtsnachfolger wird die Gebühr im Fall der erstmaligen Erteilung einer vollstreckbaren Ausfertigung nicht erhoben. |  |
+| 2111 | Verfahren über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829 Abs. 1, §§ 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder § 890 ZPO sowie im Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung im Fall des Artikels 5 Buchstabe b der Verordnung (EU) Nr. 655/2014 .......... | 24,00 € |
 |  | Richtet sich ein Verfahren gegen mehrere Schuldner, wird die Gebühr für jeden Schuldner gesondert erhoben. Mehrere Verfahren innerhalb eines Rechtszugs gelten als ein Verfahren, wenn sie denselben Anspruch und denselben Vollstreckungsgegenstand betreffen. |  |
-| 2112 | In dem Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung wird ein Antrag auf Einholung von Kontoinformationen gestellt: Die Gebühr 2111 erhöht sich auf .......... | 37,00 € |
-| 2113 | Verfahren über den Antrag auf Vollstreckungsschutz nach § 765a ZPO .......... | 22,00 € |
-| 2114 | Verfahren über den Antrag auf Erlass eines Haftbefehls (§ 802g Abs. 1 ZPO) .......... | 22,00 € |
-| 2115 | Verfahren über den Antrag auf Abnahme der eidesstattlichen Versicherung nach § 889 ZPO .......... | 35,00 € |
+| 2112 | In dem Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung wird ein Antrag auf Einholung von Kontoinformationen gestellt: Die Gebühr 2111 erhöht sich auf .......... | 40,00 € |
+| 2113 | Verfahren über den Antrag auf Vollstreckungsschutz nach § 765a ZPO .......... | 24,00 € |
+| 2114 | Verfahren über den Antrag auf Erlass eines Haftbefehls (§ 802g Abs. 1 ZPO) .......... | 24,00 € |
+| 2115 | Verfahren über den Antrag auf Abnahme der eidesstattlichen Versicherung nach § 889 ZPO .......... | 38,00 € |
 | 2116 | (weggefallen) |  |
 | 2117 | Verteilungsverfahren .......... | 0,5 |
-| 2118 | Verfahren über die Vollstreckbarerklärung eines Anwaltsvergleichs nach § 796a ZPO .......... | 66,00 € |
-| 2119 | Verfahren über Anträge auf Beendigung, Verweigerung, Aussetzung oder Beschränkung der Zwangsvollstreckung nach § 954 Abs. 2, § 1084 ZPO auch i. V. m. § 1096 oder § 1109 ZPO oder nach § 31 AUG .......... | 33,00 € |
+| 2118 | Verfahren über die Vollstreckbarerklärung eines Anwaltsvergleichs nach § 796a ZPO .......... | 72,00 € |
+| 2119 | Verfahren über Anträge auf Beendigung, Verweigerung, Aussetzung oder Beschränkung der Zwangsvollstreckung nach § 954 Abs. 2, § 1084 ZPO auch i. V. m. § 1096 oder § 1109 ZPO oder nach § 31 AUG .......... | 36,00 € |
 | Abschnitt 2 Beschwerden |
 | Unterabschnitt 1 Beschwerde |
 | 2120 | Verfahren über die Beschwerde im Verteilungsverfahren: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 1,0 |
-| 2121 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 33,00 € |
+| 2121 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 36,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Unterabschnitt 2 Rechtsbeschwerde |
 | 2122 | Verfahren über die Rechtsbeschwerde im Verteilungsverfahren: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 2,0 |
 | 2123 | Verfahren über die Rechtsbeschwerde im Verteilungsverfahren: Soweit die Beschwerde zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 1,0 |
 |  | Die Gebühr entsteht nicht, soweit der Beschwerde stattgegeben wird. |  |
-| 2124 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 2124 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 2 Verfahren nach dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung; Zwangsliquidation einer Bahneinheit |
 | Vorbemerkung 2.2: Die Gebühren 2210, 2220 und 2230 werden für jeden Antragsteller gesondert erhoben. Wird der Antrag von mehreren Gesamtgläubigern, Gesamthandsgläubigern oder im Fall der Zwangsversteigerung zum Zweck der Aufhebung der Gemeinschaft von mehreren Miteigentümern gemeinsam gestellt, gelten diese als ein Antragsteller. Betrifft ein Antrag mehrere Gegenstände, wird die Gebühr nur einmal erhoben, soweit durch einen einheitlichen Beschluss entschieden wird. Für ein Verfahren nach § 765a ZPO wird keine, für das Beschwerdeverfahren die Gebühr 2240 erhoben; richtet sich die Beschwerde auch gegen eine Entscheidung nach § 30a ZVG, gilt Satz 3 entsprechend. |
 | Abschnitt 1 Zwangsversteigerung |
-| 2210 | Entscheidung über den Antrag auf Anordnung der Zwangsversteigerung oder über den Beitritt zum Verfahren .......... | 110,00 € |
+| 2210 | Entscheidung über den Antrag auf Anordnung der Zwangsversteigerung oder über den Beitritt zum Verfahren .......... | 120,00 € |
 | 2211 | Verfahren im Allgemeinen .......... | 0,5 |
 | 2212 | Beendigung des Verfahrens vor Ablauf des Tages, an dem die Verfügung mit der Bestimmung des ersten Versteigerungstermins unterschrieben ist: Die Gebühr 2211 ermäßigt sich auf .......... | 0,25 |
 | 2213 | Abhaltung mindestens eines Versteigerungstermins mit Aufforderung zur Abgabe von Geboten .......... | 0,5 |
@@ -445,20 +440,20 @@ Insolvenzverfahren und ähnliche Verfahren
 | 2215 | Verteilungsverfahren .......... | 0,5 |
 | 2216 | Es findet keine oder nur eine beschränkte Verteilung des Versteigerungserlöses durch das Gericht statt (§§ 143, 144 ZVG): Die Gebühr 2215 ermäßigt sich auf .......... | 0,25 |
 | Abschnitt 2 Zwangsverwaltung |
-| 2220 | Entscheidung über den Antrag auf Anordnung der Zwangsverwaltung oder über den Beitritt zum Verfahren .......... | 110,00 € |
-| 2221 | Jahresgebühr für jedes Kalenderjahr bei Durchführung des Verfahrens .......... | 0,5 – mindestens 132,00 €, im ersten und letzten Kalenderjahr jeweils mindestens 66,00 € |
+| 2220 | Entscheidung über den Antrag auf Anordnung der Zwangsverwaltung oder über den Beitritt zum Verfahren .......... | 120,00 € |
+| 2221 | Jahresgebühr für jedes Kalenderjahr bei Durchführung des Verfahrens .......... | 0,5 – mindestens 144,00 €, im ersten und letzten Kalenderjahr jeweils mindestens 72,00 € |
 |  | Die Gebühr wird auch für das jeweilige Kalenderjahr erhoben, in das der Tag der Beschlagnahme fällt und in dem das Verfahren aufgehoben wird. |
 | Abschnitt 3 Zwangsliquidation einer Bahneinheit |
-| 2230 | Entscheidung über den Antrag auf Eröffnung der Zwangsliquidation .......... | 66,00 € |
+| 2230 | Entscheidung über den Antrag auf Eröffnung der Zwangsliquidation .......... | 72,00 € |
 | 2231 | Verfahren im Allgemeinen .......... | 0,5 |
 | 2232 | Das Verfahren wird eingestellt: Die Gebühr 2231 ermäßigt sich auf .......... | 0,25 |
 | Abschnitt 4 Beschwerden |
 | Unterabschnitt 1 Beschwerde |
-| 2240 | Verfahren über Beschwerden, wenn für die angefochtene Entscheidung eine Festgebühr bestimmt ist: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 132,00 € |
+| 2240 | Verfahren über Beschwerden, wenn für die angefochtene Entscheidung eine Festgebühr bestimmt ist: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 144,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | 2241 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 1,0 |
 | Unterabschnitt 2 Rechtsbeschwerde |
-| 2242 | Verfahren über Rechtsbeschwerden, wenn für die angefochtene Entscheidung eine Festgebühr bestimmt ist: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 264,00 € |
+| 2242 | Verfahren über Rechtsbeschwerden, wenn für die angefochtene Entscheidung eine Festgebühr bestimmt ist: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 288,00 € |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | 2243 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Soweit die Rechtsbeschwerde verworfen oder zurückgewiesen wird .......... | 2,0 |
 | Hauptabschnitt 3 Insolvenzverfahren |
@@ -466,7 +461,7 @@ Insolvenzverfahren und ähnliche Verfahren
 | Abschnitt 1 Eröffnungsverfahren |
 | 2310 | Verfahren über den Antrag des Schuldners auf Eröffnung des Insolvenzverfahrens .......... | 0,5 |
 |  | Die Gebühr entsteht auch, wenn das Verfahren nach § 306 InsO ruht. |  |
-| 2311 | Verfahren über den Antrag eines Gläubigers auf Eröffnung des Insolvenzverfahrens .......... | 0,5 – mindestens 198,00 € |
+| 2311 | Verfahren über den Antrag eines Gläubigers auf Eröffnung des Insolvenzverfahrens .......... | 0,5 – mindestens 216,00 € |
 | Abschnitt 2 Durchführung des Insolvenzverfahrens auf Antrag des Schuldners |
 | Vorbemerkung 2.3.2: Die Gebühren dieses Abschnitts entstehen auch, wenn das Verfahren gleichzeitig auf Antrag eines Gläubigers eröffnet wurde. |
 | 2320 | Durchführung des Insolvenzverfahrens .......... | 2,5 |
@@ -480,26 +475,26 @@ Insolvenzverfahren und ähnliche Verfahren
 | 2331 | Einstellung des Verfahrens vor dem Ende des Prüfungstermins nach den §§ 207, 211, 212, 213 InsO: Die Gebühr 2330 ermäßigt sich auf .......... | 1,0 |
 | 2332 | Einstellung des Verfahrens nach dem Ende des Prüfungstermins nach den §§ 207, 211, 212, 213 InsO: Die Gebühr 2330 ermäßigt sich auf .......... | 2,0 |
 | Abschnitt 4 Besonderer Prüfungstermin und schriftliches Prüfungsverfahren (§ 177 InsO) |
-| 2340 | Prüfung von Forderungen je Gläubiger .......... | 22,00 € |
+| 2340 | Prüfung von Forderungen je Gläubiger .......... | 24,00 € |
 | Abschnitt 5 Restschuldbefreiung |
-| 2350 | Entscheidung über den Antrag auf Versagung oder Widerruf der Restschuldbefreiung (§§ 296 bis 297a, 300 und 303 InsO) .......... | 39,00 € |
+| 2350 | Entscheidung über den Antrag auf Versagung oder Widerruf der Restschuldbefreiung (§§ 296 bis 297a, 300 und 303 InsO) .......... | 42,50 € |
 | Abschnitt 6Besondere Verfahren nach der Verordnung (EU) 2015/848 |
 | 2360 | Verfahren über einen Antrag nach Artikel 36 Abs. 7 Satz 2 der Verordnung (EU) 2015/848 .......... | 3,0 |
 | 2361 | Verfahren über einstweilige Maßnahmen nach Artikel 36 Abs. 9 der Verordnung (EU) 2015/848 .......... | 1,0 |
-| 2362 | Verfahren über einen Antrag auf Eröffnung eines Gruppen-Koordinationsverfahrens nach Artikel 61 der Verordnung (EU) 2015/848. | 4 400,00 € |
+| 2362 | Verfahren über einen Antrag auf Eröffnung eines Gruppen-Koordinationsverfahrens nach Artikel 61 der Verordnung (EU) 2015/848. | 4 800,00 € |
 | Abschnitt 7Koordinationsverfahren |
-| 2370 | Verfahren im Allgemeinen .......... | 550,00 € |
-| 2371 | In dem Verfahren wird ein Koordinationsplan zur Bestätigung vorgelegt: Die Gebühr 2370 beträgt .......... | 1 100,00 € |
+| 2370 | Verfahren im Allgemeinen .......... | 600,00 € |
+| 2371 | In dem Verfahren wird ein Koordinationsplan zur Bestätigung vorgelegt: Die Gebühr 2370 beträgt .......... | 1 200,00 € |
 | Abschnitt 8 Beschwerden |
 | Unterabschnitt 1 Beschwerde |
 | 2380 | Verfahren über die Beschwerde gegen die Entscheidung über den Antrag auf Eröffnung des Insolvenzverfahrens .......... | 1,0 |
-| 2381 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 2381 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 | 2382 | Verfahren über die sofortige Beschwerde gegen die Entscheidung über die Kosten des Gruppen-Koordinationsverfahrens nach Artikel 102c § 26 EGInsO .......... | 1,0 |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Unterabschnitt 2 Rechtsbeschwerde |
 | 2383 | Verfahren über die Rechtsbeschwerde gegen die Beschwerdeentscheidung im Verfahren über den Antrag auf Eröffnung des Insolvenzverfahrens .......... | 2,0 |
 | 2384 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags: Die Gebühr 2383 ermäßigt sich auf .......... | 1,0 |
-| 2385 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 132,00 € |
+| 2385 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 144,00 € |
 | 2386 | Verfahren über die Rechtsbeschwerde gegen die Beschwerdeentscheidung über die Kosten des Gruppen-Koordinationsverfahrens nach Artikel 102c § 26 EGInsO i. V. m. § 574 ZPO. | 2,0 |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 4 Schifffahrtsrechtliches Verteilungsverfahren |
@@ -508,36 +503,36 @@ Insolvenzverfahren und ähnliche Verfahren
 | Abschnitt 2 Verteilungsverfahren |
 | 2420 | Durchführung des Verteilungsverfahrens .......... | 2,0 |
 | Abschnitt 3 Besonderer Prüfungstermin und schriftliches Prüfungsverfahren (§ 18 Satz 3 SVertO, § 177 InsO) |
-| 2430 | Prüfung von Forderungen je Gläubiger .......... | 22,00 € |
+| 2430 | Prüfung von Forderungen je Gläubiger .......... | 24,00 € |
 | Abschnitt 4 Beschwerde und Rechtsbeschwerde |
-| 2440 | Verfahren über Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 2440 | Verfahren über Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
-| 2441 | Verfahren über Rechtsbeschwerden: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 132,00 € |
+| 2441 | Verfahren über Rechtsbeschwerden: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 144,00 € |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 5 Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
 | Abschnitt 1 Verfahren vor dem Restrukturierungsgericht |
-| 2510 | Entgegennahme der Anzeige des Restrukturierungsvorhabens (§ 31 StaRUG) .......... | 150,00 € |
+| 2510 | Entgegennahme der Anzeige des Restrukturierungsvorhabens (§ 31 StaRUG) .......... | 164,00 € |
 |  | Mit der Gebühr sind sämtliche Tätigkeiten des Gerichts im Zusammenhang mit der Anzeige des Restrukturierungsvorhabens einschließlich der Aufhebung der Restrukturierungssache abgegolten. |  |
-| 2511 | Verfahren über den Antrag auf Inanspruchnahme von Instrumenten des Stabilisierungs- und Restrukturierungsrahmens .......... | 1 000,00 € |
+| 2511 | Verfahren über den Antrag auf Inanspruchnahme von Instrumenten des Stabilisierungs- und Restrukturierungsrahmens .......... | 1 100,00 € |
 |  | (1) Die Gebühr 2510 wird angerechnet. (2) Endet das gesamte Verfahren, bevor der gerichtliche Erörterungs- und Abstimmungstermin begonnen hat oder bevor der Restrukturierungsplan gerichtlich bestätigt wurde, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen. |  |
-| 2512 | In derselben Restrukturierungssache wird die Inanspruchnahme von mehr als drei Instrumenten des Stabilisierungs- und Restrukturierungsrahmens beantragt: Die Gebühr 2511 beträgt .......... | 1 500,00 € |
-| 2513 | Bestellung eines Restrukturierungsbeauftragten .......... | 500,00 € |
+| 2512 | In derselben Restrukturierungssache wird die Inanspruchnahme von mehr als drei Instrumenten des Stabilisierungs- und Restrukturierungsrahmens beantragt: Die Gebühr 2511 beträgt .......... | 1 650,00 € |
+| 2513 | Bestellung eines Restrukturierungsbeauftragten .......... | 550,00 € |
 |  | Mit der Gebühr sind sämtliche Tätigkeiten des Gerichts im Zusammenhang mit der Bestellung, insbesondere auch die Aufsicht über den Restrukturierungsbeauftragten, abgegolten. |  |
-| 2514 | Verfahren über den Antrag auf Bestellung eines Sanierungsmoderators .......... | 500,00 € |
+| 2514 | Verfahren über den Antrag auf Bestellung eines Sanierungsmoderators .......... | 550,00 € |
 |  | Mit der Gebühr sind sämtliche Tätigkeiten des Gerichts in dem Verfahren einschließlich der Bestätigung eines Sanierungsvergleichs abgegolten. |  |
 | Abschnitt 2 Beschwerden |
 | Unterabschnitt 1 Beschwerde |
-| 2520 | Verfahren über sofortige Beschwerden nach dem StaRUG .......... | 1 000,00 € |
-| 2521 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde: Die Gebühr 2520 ermäßigt sich auf .......... | 500,00 € |
-| 2522 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 2520 | Verfahren über sofortige Beschwerden nach dem StaRUG .......... | 1 100,00 € |
+| 2521 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde: Die Gebühr 2520 ermäßigt sich auf .......... | 550,00 € |
+| 2522 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Unterabschnitt 2 Rechtsbeschwerde |
-| 2523 | Verfahren über Rechtsbeschwerden nach dem StaRUG .......... | 2 000,00 € |
-| 2524 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde: Die Gebühr 2523 ermäßigt sich auf .......... | 1 000,00 € |
-| 2525 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 132,00 € |
+| 2523 | Verfahren über Rechtsbeschwerden nach dem StaRUG .......... | 2 200,00 € |
+| 2524 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde: Die Gebühr 2523 ermäßigt sich auf .......... | 1 100,00 € |
+| 2525 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 144,00 € |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 6 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 2600 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, § 4 InsO, § 3 Abs. 1 Satz 1 SVertO, § 38 StaRUG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 2600 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, § 4 InsO, § 3 Abs. 1 Satz 1 SVertO, § 38 StaRUG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 Teil 3
 Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz,
 auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie
@@ -548,14 +543,14 @@ Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen
 | Vorbemerkung 3.1: (1) In Strafsachen bemessen sich die Gerichtsgebühren für alle Rechtszüge nach der rechtskräftig erkannten Strafe. (2) Ist neben einer Freiheitsstrafe auf Geldstrafe erkannt, ist die Zahl der Tagessätze der Dauer der Freiheitsstrafe hinzuzurechnen; dabei entsprechen 30 Tagessätze einem Monat Freiheitsstrafe. (3) Ist auf Verwarnung mit Strafvorbehalt erkannt, bestimmt sich die Gebühr nach der vorbehaltenen Geldstrafe. (4) Eine Gebühr wird für alle Rechtszüge bei rechtskräftiger Anordnung einer Maßregel der Besserung und Sicherung und bei rechtskräftiger Festsetzung einer Geldbuße gesondert erhoben. (5) Wird aufgrund des § 55 Abs. 1 StGB in einem Verfahren eine Gesamtstrafe gebildet, bemisst sich die Gebühr für dieses Verfahren nach dem Maß der Strafe, um das die Gesamtstrafe die früher erkannte Strafe übersteigt. Dies gilt entsprechend, wenn ein Urteil, in dem auf Jugendstrafe erkannt ist, nach § 31 Abs. 2 JGG in ein neues Urteil einbezogen wird. In den Fällen des § 460 StPO und des § 66 JGG verbleibt es bei den Gebühren für die früheren Verfahren. (6) Betrifft eine Strafsache mehrere Angeschuldigte, ist die Gebühr von jedem gesondert nach Maßgabe der gegen ihn erkannten Strafe, angeordneten Maßregel der Besserung und Sicherung oder festgesetzten Geldbuße zu erheben. Wird in einer Strafsache gegen einen oder mehrere Angeschuldigte auch eine Geldbuße gegen eine juristische Person oder eine Personenvereinigung festgesetzt, ist eine Gebühr auch von der juristischen Person oder der Personenvereinigung nach Maßgabe der gegen sie festgesetzten Geldbuße zu erheben. (7) Wird bei Verurteilung wegen selbständiger Taten ein Rechtsmittel auf einzelne Taten beschränkt, bemisst sich die Gebühr für das Rechtsmittelverfahren nach der Strafe für diejenige Tat, die Gegenstand des Rechtsmittelverfahrens ist. Bei Gesamtstrafen ist die Summe der angefochtenen Einzelstrafen maßgebend. Ist die Gesamtstrafe, auch unter Einbeziehung der früher erkannten Strafe, geringer, ist diese maßgebend. Wird ein Rechtsmittel auf die Anordnung einer Maßregel der Besserung und Sicherung oder die Festsetzung einer Geldbuße beschränkt, werden die Gebühren für das Rechtsmittelverfahren nur wegen der Anordnung der Maßregel oder der Festsetzung der Geldbuße erhoben. Die Sätze 1 bis 4 gelten im Fall der Wiederaufnahme entsprechend. (8) Das Verfahren über die vorbehaltene Sicherungsverwahrung und das Verfahren über die nachträgliche Anordnung der Sicherungsverwahrung gelten als besondere Verfahren. |
 | Abschnitt 1 Erster Rechtszug |
 |  | Verfahren mit Urteil, wenn kein Strafbefehl vorausgegangen ist, bei |  |
-| 3110 | – Verurteilung zu Freiheitsstrafe bis zu 6 Monaten oder zu Geldstrafe bis zu 180 Tagessätzen .......... | 155,00 € |
-| 3111 | – Verurteilung zu Freiheitsstrafe bis zu 1 Jahr oder zu Geldstrafe von mehr als 180 Tagessätzen .......... | 310,00 € |
-| 3112 | – Verurteilung zu Freiheitsstrafe bis zu 2 Jahren .......... | 465,00 € |
-| 3113 | – Verurteilung zu Freiheitsstrafe bis zu 4 Jahren .......... | 620,00 € |
-| 3114 | – Verurteilung zu Freiheitsstrafe bis zu 10 Jahren .......... | 775,00 € |
-| 3115 | – Verurteilung zu Freiheitsstrafe von mehr als 10 Jahren oder zu einer lebenslangen Freiheitsstrafe .......... | 1 100,00 € |
-| 3116 | – Anordnung einer oder mehrerer Maßregeln der Besserung und Sicherung .......... | 77,00 € |
-| 3117 | – Festsetzung einer Geldbuße .......... | 10 % des Betrags der Geldbuße – mindestens 55,00 € – höchstens 16 500,00 € |
+| 3110 | – Verurteilung zu Freiheitsstrafe bis zu 6 Monaten oder zu Geldstrafe bis zu 180 Tagessätzen .......... | 169,00 € |
+| 3111 | – Verurteilung zu Freiheitsstrafe bis zu 1 Jahr oder zu Geldstrafe von mehr als 180 Tagessätzen .......... | 338,00 € |
+| 3112 | – Verurteilung zu Freiheitsstrafe bis zu 2 Jahren .......... | 507,00 € |
+| 3113 | – Verurteilung zu Freiheitsstrafe bis zu 4 Jahren .......... | 676,00 € |
+| 3114 | – Verurteilung zu Freiheitsstrafe bis zu 10 Jahren .......... | 845,00 € |
+| 3115 | – Verurteilung zu Freiheitsstrafe von mehr als 10 Jahren oder zu einer lebenslangen Freiheitsstrafe .......... | 1 200,00 € |
+| 3116 | – Anordnung einer oder mehrerer Maßregeln der Besserung und Sicherung .......... | 84,00 € |
+| 3117 | – Festsetzung einer Geldbuße .......... | 10 % des Betrags der Geldbuße – mindestens 60,00 € – höchstens 18 000,00 € |
 | 3118 | Strafbefehl .......... | 0,5 |
 |  | Die Gebühr wird auch neben der Gebühr 3119 erhoben. Ist der Einspruch beschränkt (§ 410 Abs. 2 StPO), bemisst sich die Gebühr nach der im Urteil erkannten Strafe. |  |
 | 3119 | Hauptverhandlung mit Urteil, wenn ein Strafbefehl vorausgegangen ist .......... | 0,5 |
@@ -573,70 +568,70 @@ Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen
 | 3141 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens hinsichtlich einer Freiheitsstrafe, einer Geldstrafe, einer Maßregel der Besserung und Sicherung oder einer Geldbuße verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 1,0 |
 | Abschnitt 5Psychosoziale Prozessbegleitung |
 | Vorbemerkung 3.1.5: |
-| Eine Erhöhung nach diesem Abschnitt tritt nicht ein, soweit das Gericht etwas anderes angeordnet hat (§ 465 Abs. 2 Satz 4 StPO). |
+| Betrifft die Strafsache mehrere Angeschuldigte, treten die Erhöhungen nach diesem Abschnitt für jeden Angeschuldigten gesondert ein. Eine Erhöhung nach diesem Abschnitt tritt nicht ein, soweit das Gericht etwas anderes angeordnet hat (§ 465 Abs. 2 Satz 4 StPO). |
 |  | Dem Verletzten ist ein psychosozialer Prozessbegleiter beigeordnet |  |
-| 3150 | – für das Vorverfahren: Die Gebühren 3110 bis 3116 und 3118 erhöhen sich um .......... | 572,00 € |
-| 3151 | – für das gerichtliche Verfahren im ersten Rechtszug: Die Gebühren 3110 bis 3116 und 3118 erhöhen sich um .......... | 407,00 € |
+| 3150 | – für das Vorverfahren: Die Gebühren 3110 bis 3116 und 3118 erhöhen sich um .......... | 623,00 € |
+| 3151 | – für das gerichtliche Verfahren im ersten Rechtszug: Die Gebühren 3110 bis 3116 und 3118 erhöhen sich um .......... | 444,00 € |
 |  | (1) Die Erhöhung der Gebühr 3116 tritt nur ein, wenn ausschließlich diese Gebühr zu erheben ist. |  |
 |  | (2) Die Erhöhungen nach den Nummern 3150 und 3151 können nebeneinander eintreten. |  |
 | 3152 | Dem Verletzten ist für das Berufungsverfahren ein psychosozialer Prozessbegleiter beigeordnet: |  |
-|  | Die Gebühren 3120 und 3121 erhöhen sich um .......... | 231,00 € |
+|  | Die Gebühren 3120 und 3121 erhöhen sich um .......... | 252,00 € |
 |  | Die Erhöhung der Gebühr 3120 oder 3121 für die Anordnung einer oder mehrerer Maßregeln der Besserung und Sicherung tritt nur ein, wenn ausschließlich diese Gebühr zu erheben ist. |  |
 | Hauptabschnitt 2 Klageerzwingungsverfahren, unwahre Anzeige und Zurücknahme des Strafantrags |
-| 3200 | Dem Antragsteller, dem Anzeigenden, dem Angeklagten oder Nebenbeteiligten sind die Kosten auferlegt worden (§§ 177, 469, 470 StPO) .......... | 80,00 € |
+| 3200 | Dem Antragsteller, dem Anzeigenden, dem Angeklagten oder Nebenbeteiligten sind die Kosten auferlegt worden (§§ 177, 469, 470 StPO) .......... | 87,00 € |
 |  | Das Gericht kann die Gebühr bis auf 15,00 € herabsetzen oder beschließen, dass von der Erhebung einer Gebühr abgesehen wird. |  |
 | Hauptabschnitt 3 Privatklage |
 | Vorbemerkung 3.3: Für das Verfahren auf Widerklage werden die Gebühren gesondert erhoben. |
 | Abschnitt 1 Erster Rechtszug |
-| 3310 | Hauptverhandlung mit Urteil .......... | 160,00 € |
-| 3311 | Erledigung des Verfahrens ohne Urteil .......... | 80,00 € |
+| 3310 | Hauptverhandlung mit Urteil .......... | 174,00 € |
+| 3311 | Erledigung des Verfahrens ohne Urteil .......... | 87,00 € |
 | Abschnitt 2 Berufung |
-| 3320 | Berufungsverfahren mit Urteil .......... | 320,00 € |
-| 3321 | Erledigung der Berufung ohne Urteil .......... | 160,00 € |
+| 3320 | Berufungsverfahren mit Urteil .......... | 348,00 € |
+| 3321 | Erledigung der Berufung ohne Urteil .......... | 174,00 € |
 |  | Die Gebühr entfällt bei Zurücknahme der Berufung vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 3 Revision |
-| 3330 | Revisionsverfahren mit Urteil oder Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 480,00 € |
-| 3331 | Erledigung der Revision ohne Urteil und ohne Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 320,00 € |
+| 3330 | Revisionsverfahren mit Urteil oder Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 522,00 € |
+| 3331 | Erledigung der Revision ohne Urteil und ohne Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 348,00 € |
 |  | Die Gebühr entfällt bei Rücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 4 Wiederaufnahmeverfahren |
-| 3340 | Verfahren über den Antrag auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder abgelehnt .......... | 80,00 € |
-| 3341 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 160,00 € |
+| 3340 | Verfahren über den Antrag auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder abgelehnt .......... | 87,00 € |
+| 3341 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 174,00 € |
 | Hauptabschnitt 4 Einziehung und verwandte Maßnahmen |
 | Vorbemerkung 3.4: (1) Die Vorschriften dieses Hauptabschnitts gelten für die Verfahren über die Einziehung, dieser gleichstehende Rechtsfolgen (§ 439 StPO) und die Abführung des Mehrerlöses. Im Strafverfahren werden die Gebühren gesondert erhoben. (2) Betreffen die in Absatz 1 genannten Maßnahmen mehrere Angeschuldigte wegen derselben Tat, wird nur eine Gebühr erhoben. § 31 GKG bleibt unberührt. |
 | Abschnitt 1 Antrag des Privatklägers nach § 435 StPO |
-| 3410 | Verfahren über den Antrag des Privatklägers: Der Antrag wird verworfen oder zurückgewiesen .......... | 39,00 € |
+| 3410 | Verfahren über den Antrag des Privatklägers: Der Antrag wird verworfen oder zurückgewiesen .......... | 42,50 € |
 | Abschnitt 2 Beschwerde |
-| 3420 | Verfahren über die Beschwerde nach § 434 Abs. 2, auch i. V. m. § 436 Abs. 2, StPO: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 39,00 € |
+| 3420 | Verfahren über die Beschwerde nach § 434 Abs. 2, auch i. V. m. § 436 Abs. 2, StPO: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 42,50 € |
 | Abschnitt 3 Berufung |
-| 3430 | Verwerfung der Berufung durch Urteil .......... | 78,00 € |
-| 3431 | Erledigung der Berufung ohne Urteil .......... | 39,00 € |
+| 3430 | Verwerfung der Berufung durch Urteil .......... | 85,00 € |
+| 3431 | Erledigung der Berufung ohne Urteil .......... | 42,50 € |
 |  | Die Gebühr entfällt bei Zurücknahme der Berufung vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 4 Revision |
-| 3440 | Verwerfung der Revision durch Urteil oder Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 78,00 € |
-| 3441 | Erledigung der Revision ohne Urteil und ohne Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 39,00 € |
+| 3440 | Verwerfung der Revision durch Urteil oder Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 85,00 € |
+| 3441 | Erledigung der Revision ohne Urteil und ohne Beschluss nach § 349 Abs. 2 oder 4 StPO .......... | 42,50 € |
 |  | Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 5 Wiederaufnahmeverfahren |
-| 3450 | Verfahren über den Antrag auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder zurückgewiesen .......... | 39,00 € |
-| 3451 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 78,00 € |
+| 3450 | Verfahren über den Antrag auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder zurückgewiesen .......... | 42,50 € |
+| 3451 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 85,00 € |
 | Hauptabschnitt 5 Nebenklage |
 | Vorbemerkung 3.5: Gebühren nach diesem Hauptabschnitt werden nur erhoben, wenn dem Nebenkläger die Kosten auferlegt worden sind. |
 | Abschnitt 1 Berufung |
-| 3510 | Die Berufung des Nebenklägers wird durch Urteil verworfen; aufgrund der Berufung des Nebenklägers wird der Angeklagte freigesprochen oder für straffrei erklärt .......... | 108,00 € |
-| 3511 | Erledigung der Berufung des Nebenklägers ohne Urteil .......... | 54,00 € |
+| 3510 | Die Berufung des Nebenklägers wird durch Urteil verworfen; aufgrund der Berufung des Nebenklägers wird der Angeklagte freigesprochen oder für straffrei erklärt .......... | 118,00 € |
+| 3511 | Erledigung der Berufung des Nebenklägers ohne Urteil .......... | 59,00 € |
 |  | Die Gebühr entfällt bei Zurücknahme der Berufung vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 2 Revision |
-| 3520 | Die Revision des Nebenklägers wird durch Urteil oder Beschluss nach § 349 Abs. 2 StPO verworfen; aufgrund der Revision des Nebenklägers wird der Angeklagte freigesprochen oder für straffrei erklärt .......... | 162,00 € |
-| 3521 | Erledigung der Revision des Nebenklägers ohne Urteil und ohne Beschluss nach § 349 Abs. 2 StPO .......... | 81,00 € |
+| 3520 | Die Revision des Nebenklägers wird durch Urteil oder Beschluss nach § 349 Abs. 2 StPO verworfen; aufgrund der Revision des Nebenklägers wird der Angeklagte freigesprochen oder für straffrei erklärt .......... | 176,00 € |
+| 3521 | Erledigung der Revision des Nebenklägers ohne Urteil und ohne Beschluss nach § 349 Abs. 2 StPO .......... | 88,00 € |
 |  | Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 3 Wiederaufnahmeverfahren |
-| 3530 | Verfahren über den Antrag des Nebenklägers auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder abgelehnt .......... | 54,00 € |
-| 3531 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag des Nebenklägers auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 108,00 € |
+| 3530 | Verfahren über den Antrag des Nebenklägers auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder abgelehnt .......... | 59,00 € |
+| 3531 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag des Nebenklägers auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 118,00 € |
 | Hauptabschnitt 6 Sonstige Beschwerden |
 | Vorbemerkung 3.6: Die Gebühren im Kostenfestsetzungsverfahren bestimmen sich nach den für das Kostenfestsetzungsverfahren in Teil 1 Hauptabschnitt 8 geregelten Gebühren. |
 | 3600 | Verfahren über die Beschwerde gegen einen Beschluss nach § 411 Abs. 1 Satz 3 StPO: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 0,25 |
 | 3601 | Verfahren über die Beschwerde gegen eine Entscheidung, durch die im Strafverfahren einschließlich des selbständigen Verfahrens nach den §§ 435 bis 437, 444 Abs. 3 StPO eine Geldbuße gegen eine juristische Person oder eine Personenvereinigung festgesetzt worden ist: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 0,5 |
 |  | Eine Gebühr wird nur erhoben, wenn eine Geldbuße rechtskräftig festgesetzt ist. |  |
-| 3602 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 3602 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Von dem Beschuldigten wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig auf eine Strafe, auf Verwarnung mit Strafvorbehalt erkannt, eine Maßregel der Besserung und Sicherung angeordnet oder eine Geldbuße festgesetzt worden ist. Von einer juristischen Person oder einer Personenvereinigung wird eine Gebühr nur erhoben, wenn gegen sie eine Geldbuße festgesetzt worden ist. |  |
 | Nr. | Gebührentatbestand | Gebühr oder Satz der Gebühr nach § 34 GKG |
 | Hauptabschnitt 7 Entschädigungsverfahren |
@@ -656,13 +651,13 @@ Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen
 | Hauptabschnitt 9 Sonstige Verfahren |
 | Abschnitt 1 Vollstreckungshilfeverfahren wegen einer im Ausland rechtskräftig verhängten Geldsanktion |
 | Vorbemerkung 3.9.1: Die Vorschriften dieses Abschnitts gelten für gerichtliche Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie für Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz. |
-| 3910 | Verfahren über den Einspruch gegen die Entscheidung der Bewilligungsbehörde: Der Einspruch wird verworfen oder zurückgewiesen .......... | 54,00 € |
+| 3910 | Verfahren über den Einspruch gegen die Entscheidung der Bewilligungsbehörde: Der Einspruch wird verworfen oder zurückgewiesen .......... | 59,00 € |
 |  | Wird auf den Einspruch wegen fehlerhafter oder unterlassener Umwandlung durch die Bewilligungsbehörde die Geldsanktion umgewandelt, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. Dies gilt auch, wenn hinsichtlich der Höhe der zu vollstreckenden Geldsanktion von der Bewilligungsentscheidung zugunsten des Betroffenen abgewichen wird. |  |
-| 3911 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG oder § 7 Absatz 2 Satz 2 DECHPolVtrUG: Der Antrag wird verworfen .......... | 33,00 € |
-| 3912 | Verfahren über die Rechtsbeschwerde: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 81,00 € |
+| 3911 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG oder § 7 Abs. 2 Satz 2 DECHPolVtrUG: Der Antrag wird verworfen .......... | 36,00 € |
+| 3912 | Verfahren über die Rechtsbeschwerde: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 88,00 € |
 |  | (1) Die Anmerkung zu Nummer 3910 gilt entsprechend. (2) Die Gebühr entfällt bei Rücknahme der Rechtsbeschwerde vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 2 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 3920 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§§ 33a, 311a Abs. 1 Satz 1, § 356a StPO, auch i. V. m. § 55 Abs. 4, § 92 JGG und § 120 StVollzG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 3920 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§§ 33a, 311a Abs. 1 Satz 1, § 356a StPO, auch i. V. m. § 55 Abs. 4, § 92 JGG und § 120 StVollzG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 Teil 4
 Verfahren nach dem Gesetz über Ordnungswidrigkeiten
 | Nr. | Gebührentatbestand | Gebühr oder Satz der Gebühr 4110, soweit nichts anderes vermerkt ist |
@@ -670,8 +665,8 @@ Verfahren nach dem Gesetz über Ordnungswidrigkeiten
 | Hauptabschnitt 1 Bußgeldverfahren |
 | Vorbemerkung 4.1: (1) In Bußgeldsachen bemessen sich die Gerichtsgebühren für alle Rechtszüge nach der rechtskräftig festgesetzten Geldbuße. Mehrere Geldbußen, die in demselben Verfahren gegen denselben Betroffenen festgesetzt werden, sind bei der Bemessung der Gebühr zusammenzurechnen. (2) Betrifft eine Bußgeldsache mehrere Betroffene, ist die Gebühr von jedem gesondert nach Maßgabe der gegen ihn festgesetzten Geldbuße zu erheben. Wird in einer Bußgeldsache gegen einen oder mehrere Betroffene eine Geldbuße auch gegen eine juristische Person oder eine Personenvereinigung festgesetzt, ist eine Gebühr auch von der juristischen Person oder Personenvereinigung nach Maßgabe der gegen sie festgesetzten Geldbuße zu erheben. (3) Wird bei Festsetzung mehrerer Geldbußen ein Rechtsmittel auf die Festsetzung einer Geldbuße beschränkt, bemisst sich die Gebühr für das Rechtsmittelverfahren nach dieser Geldbuße. Satz 1 gilt im Fall der Wiederaufnahme entsprechend. |
 | Abschnitt 1 Erster Rechtszug |
-| 4110 | Hauptverhandlung mit Urteil oder Beschluss ohne Hauptverhandlung (§ 72 OWiG) .......... | 10 % des Betrags der Geldbuße – mindestens 55,00 € – höchstens 16 500,00 € |
-| 4111 | Zurücknahme des Einspruchs nach Eingang der Akten bei Gericht und vor Beginn der Hauptverhandlung .......... | 0,25 – mindestens 17,00 € |
+| 4110 | Hauptverhandlung mit Urteil oder Beschluss ohne Hauptverhandlung (§ 72 OWiG) .......... | 10 % des Betrags der Geldbuße – mindestens 60,00 € – höchstens 18 000,00 € |
+| 4111 | Zurücknahme des Einspruchs nach Eingang der Akten bei Gericht und vor Beginn der Hauptverhandlung .......... | 0,25 – mindestens 19,00 € |
 |  | Die Gebühr wird nicht erhoben, wenn die Sache an die Verwaltungsbehörde zurückverwiesen worden ist. |
 | 4112 | Zurücknahme des Einspruchs nach Beginn der Hauptverhandlung .......... | 0,5 |
 | Abschnitt 2 Rechtsbeschwerde |
@@ -684,31 +679,31 @@ Verfahren nach dem Gesetz über Ordnungswidrigkeiten
 | Hauptabschnitt 2 Einziehung und verwandte Maßnahmen |
 | Vorbemerkung 4.2: (1) Die Vorschriften dieses Hauptabschnitts gelten für die Verfahren über die Einziehung, dieser gleichstehende Rechtsfolgen (§ 439 StPO i. V. m. § 46 Abs. 1 OWiG) und die Abführung des Mehrerlöses. Im gerichtlichen Verfahren werden die Gebühren gesondert erhoben. (2) Betreffen die in Absatz 1 genannten Maßnahmen mehrere Betroffene wegen derselben Handlung, wird nur eine Gebühr erhoben. § 31 GKG bleibt unberührt. |
 | Abschnitt 1 Beschwerde |
-| 4210 | Verfahren über die Beschwerde nach § 434 Abs. 2, auch i. V. m. § 436 Abs. 2 StPO, wiederum i. V. m. § 46 Abs. 1 OWiG: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 4210 | Verfahren über die Beschwerde nach § 434 Abs. 2, auch i. V. m. § 436 Abs. 2 StPO, wiederum i. V. m. § 46 Abs. 1 OWiG: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 | Abschnitt 2 Rechtsbeschwerde |
-| 4220 | Verfahren mit Urteil oder Beschluss nach § 79 Abs. 5 OWiG: Die Rechtsbeschwerde wird verworfen .......... | 132,00 € |
-| 4221 | Verfahren ohne Urteil oder Beschluss nach § 79 Abs. 5 OWiG .......... | 66,00 € |
+| 4220 | Verfahren mit Urteil oder Beschluss nach § 79 Abs. 5 OWiG: Die Rechtsbeschwerde wird verworfen .......... | 144,00 € |
+| 4221 | Verfahren ohne Urteil oder Beschluss nach § 79 Abs. 5 OWiG .......... | 72,00 € |
 |  | Die Gebühr entfällt bei Rücknahme der Rechtsbeschwerde vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 3 Wiederaufnahmeverfahren |
-| 4230 | Verfahren über den Antrag auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder abgelehnt .......... | 39,00 € |
-| 4231 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 78,00 € |
+| 4230 | Verfahren über den Antrag auf Wiederaufnahme des Verfahrens: Der Antrag wird verworfen oder abgelehnt .......... | 42,50 € |
+| 4231 | Verfahren über die Beschwerde gegen einen Beschluss, durch den ein Antrag auf Wiederaufnahme des Verfahrens verworfen oder abgelehnt wurde: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 85,00 € |
 | Hauptabschnitt 3 Besondere Gebühren |
-| 4300 | Dem Anzeigenden sind im Fall einer unwahren Anzeige die Kosten auferlegt worden (§ 469 StPO i. V. m. § 46 Abs. 1 OWiG) .......... | 39,00 € |
+| 4300 | Dem Anzeigenden sind im Fall einer unwahren Anzeige die Kosten auferlegt worden (§ 469 StPO i. V. m. § 46 Abs. 1 OWiG) .......... | 42,50 € |
 |  | Das Gericht kann die Gebühr bis auf 15,00 € herabsetzen oder beschließen, dass von der Erhebung einer Gebühr abgesehen wird. |  |
-| 4301 | Abschließende Entscheidung des Gerichts im Fall des § 25a Abs. 1 StVG oder des § 10a Absatz 1 Satz 1 BFStrMG .......... | 39,00 € |
-| 4302 | Entscheidung der Staatsanwaltschaft im Fall des § 25a Abs. 1 StVG oder des § 10a Absatz 1 Satz 1 BFStrMG .......... | 22,00 € |
-| 4303 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen eine Anordnung, Verfügung oder sonstige Maßnahme der Verwaltungsbehörde oder der Staatsanwaltschaft oder Verfahren über Einwendungen nach § 103 OWiG: Der Antrag wird verworfen .......... | 33,00 € |
+| 4301 | Abschließende Entscheidung des Gerichts im Fall des § 25a Abs. 1 StVG oder des § 10a Abs. 1 Satz 1 BFStrMG .......... | 42,50 € |
+| 4302 | Entscheidung der Staatsanwaltschaft im Fall des § 25a Abs. 1 StVG oder des § 10a Abs. 1 Satz 1 BFStrMG .......... | 24,00 € |
+| 4303 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen eine Anordnung, Verfügung oder sonstige Maßnahme der Verwaltungsbehörde oder der Staatsanwaltschaft oder Verfahren über Einwendungen nach § 103 OWiG: Der Antrag wird verworfen .......... | 36,00 € |
 |  | Wird der Antrag nur teilweise verworfen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
-| 4304 | Verfahren über die Erinnerung gegen den Kostenfestsetzungsbeschluss des Urkundsbeamten der Staatsanwaltschaft (§ 108a Abs. 3 Satz 2 OWiG): Die Erinnerung wird zurückgewiesen .......... | 33,00 € |
+| 4304 | Verfahren über die Erinnerung gegen den Kostenfestsetzungsbeschluss des Urkundsbeamten der Staatsanwaltschaft (§ 108a Abs. 3 Satz 2 OWiG): Die Erinnerung wird zurückgewiesen .......... | 36,00 € |
 |  | Wird die Erinnerung nur teilweise verworfen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 4 Sonstige Beschwerden |
 | Vorbemerkung 4.4: Die Gebühren im Kostenfestsetzungsverfahren bestimmen sich nach den für das Kostenfestsetzungsverfahren in Teil 1 Hauptabschnitt 8 geregelten Gebühren. |
 | 4400 | Verfahren über die Beschwerde gegen eine Entscheidung, durch die im gerichtlichen Verfahren nach dem OWiG einschließlich des selbständigen Verfahrens nach den §§ 88 und 46 Abs. 1 OWiG i. V. m. den §§ 435 bis 437, 444 Abs. 3 StPO eine Geldbuße gegen eine juristische Person oder eine Personenvereinigung festgesetzt worden ist: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 0,5 |
 |  | Eine Gebühr wird nur erhoben, wenn eine Geldbuße rechtskräftig festgesetzt ist. |  |
-| 4401 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 4401 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Von dem Betroffenen wird eine Gebühr nur erhoben, wenn gegen ihn eine Geldbuße rechtskräftig festgesetzt ist. |  |
 | Hauptabschnitt 5 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 4500 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§§ 33a, 311a Abs. 1 Satz 1, § 356a StPO i. V. m. § 46 Abs. 1 und § 79 Abs. 3 OWiG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 4500 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§§ 33a, 311a Abs. 1 Satz 1, § 356a StPO i. V. m. § 46 Abs. 1 und § 79 Abs. 3 OWiG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 Teil 5
 Verfahren vor den Gerichten der Verwaltungsgerichtsbarkeit
 | Nr. | Gebührentatbestand | Gebühr oder Satz der Gebühr nach § 34 GKG |
@@ -764,14 +759,14 @@ Verfahren vor den Gerichten der Verwaltungsgerichtsbarkeit
 | 5241 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde: Die Gebühr 5240 ermäßigt sich auf .......... | 1,0 |
 | Hauptabschnitt 3 Besondere Verfahren |
 | 5300 | Selbständiges Beweisverfahren .......... | 1,0 |
-| 5301 | Verfahren über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung nach den §§ 169, 170 oder § 172 VwGO .......... | 22,00 € |
+| 5301 | Verfahren über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung nach den §§ 169, 170 oder § 172 VwGO .......... | 24,00 € |
 | Hauptabschnitt 4 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 5400 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 152a VwGO): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 5400 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 152a VwGO): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 | Hauptabschnitt 5 Sonstige Beschwerden |
 | 5500 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 2,0 |
 | 5501 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 1,0 |
 |  | Die Gebühr entsteht nicht, soweit die Revision zugelassen wird. |  |
-| 5502 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 5502 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 6 Besondere Gebühren |
 | 5600 | Abschluss eines gerichtlichen Vergleichs: Soweit ein Vergleich über nicht gerichtlich anhängige Gegenstände geschlossen wird .......... | 0,25 |
@@ -808,14 +803,14 @@ Verfahren vor den Gerichten der Finanzgerichtsbarkeit
 | 6221 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde: Die Gebühr 6220 ermäßigt sich auf .......... | 1,0 |
 | Hauptabschnitt 3 Besondere Verfahren |
 | 6300 | Selbständiges Beweisverfahren .......... | 1,0 |
-| 6301 | Verfahren über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 152 FGO .......... | 22,00 € |
+| 6301 | Verfahren über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 152 FGO .......... | 24,00 € |
 | Hauptabschnitt 4 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 6400 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 133a FGO): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 6400 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 133a FGO): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 | Hauptabschnitt 5 Sonstige Beschwerden |
 | 6500 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 2,0 |
 | 6501 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 1,0 |
 |  | Die Gebühr entsteht nicht, soweit die Revision zugelassen wird. |  |
-| 6502 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 6502 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 6 Besondere Gebühr |
 | 6600 | Auferlegung einer Gebühr nach § 38 GKG wegen Verzögerung des Rechtsstreits .......... | wie vom Gericht bestimmt |
@@ -861,7 +856,7 @@ Verfahren vor den Gerichten der Sozialgerichtsbarkeit
 | Hauptabschnitt 3 Beweissicherungsverfahren |
 | 7300 | Verfahren im Allgemeinen .......... | 1,0 |
 | Hauptabschnitt 4 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 7400 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 178a SGG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
+| 7400 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 178a SGG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 72,00 € |
 | Hauptabschnitt 5 Sonstige Beschwerden |
 | 7500 | Verfahren über die Beschwerde gegen die Nichtzulassung der Berufung: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 1,5 |
 | 7501 | Verfahren über die Beschwerde gegen die Nichtzulassung der Berufung: Soweit die Beschwerde zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 0,75 |
@@ -869,7 +864,7 @@ Verfahren vor den Gerichten der Sozialgerichtsbarkeit
 | 7502 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 2,0 |
 | 7503 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 1,0 |
 |  | Die Gebühr entsteht nicht, soweit die Revision zugelassen wird. |  |
-| 7504 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 66,00 € |
+| 7504 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 72,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Hauptabschnitt 6 Besondere Gebühren |
 | 7600 | Abschluss eines gerichtlichen Vergleichs: Soweit ein Vergleich über nicht gerichtlich anhängige Gegenstände geschlossen wird .......... | 0,25 |
@@ -880,7 +875,7 @@ Verfahren vor den Gerichten der Arbeitsgerichtsbarkeit
 | Nr. | Gebührentatbestand | Gebühr oder Satz der Gebühr nach § 34 GKG |
 | Vorbemerkung 8: Bei Beendigung des Verfahrens durch einen gerichtlichen Vergleich entfällt die in dem betreffenden Rechtszug angefallene Gebühr; im ersten Rechtszug entfällt auch die Gebühr für das Verfahren über den Antrag auf Erlass eines Vollstreckungsbescheids oder eines Europäischen Zahlungsbefehls. Dies gilt nicht, wenn der Vergleich nur einen Teil des Streitgegenstands betrifft (Teilvergleich). |
 | Hauptabschnitt 1 Mahnverfahren |
-| 8100 | Verfahren über den Antrag auf Erlass eines Vollstreckungsbescheids oder eines Europäischen Zahlungsbefehls .......... | 0,4 – mindestens 29,00 € |
+| 8100 | Verfahren über den Antrag auf Erlass eines Vollstreckungsbescheids oder eines Europäischen Zahlungsbefehls .......... | 0,4 – mindestens 31,00 € |
 |  | Die Gebühr entfällt bei Zurücknahme des Antrags auf Erlass des Vollstreckungsbescheids. Sie entfällt auch nach Übergang in das streitige Verfahren, wenn dieses ohne streitige Verhandlung endet; dies gilt nicht, wenn der Einspruch zurückgenommen wird, ein Versäumnisurteil oder ein Urteil nach § 46a Abs. 6 Satz 2 des Arbeitsgerichtsgesetzes ergeht. Bei Erledigungserklärungen nach § 91a ZPO entfällt die Gebühr, wenn keine Entscheidung über die Kosten ergeht oder die Kostenentscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |
 | Hauptabschnitt 2 Urteilsverfahren |
 | Abschnitt 1 Erster Rechtszug |
@@ -928,26 +923,26 @@ Verfahren vor den Gerichten der Arbeitsgerichtsbarkeit
 | 8331 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde: Die Gebühr 8330 ermäßigt sich auf .......... | 0,8 |
 | Hauptabschnitt 4 Besondere Verfahren |
 | 8400 | Selbständiges Beweisverfahren .......... | 0,6 |
-| 8401 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57, § 58 oder § 59 AVAG oder nach § 1110 ZPO sowie Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO | 17,00 € |
+| 8401 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57, § 58 oder § 59 AVAG oder nach § 1110 ZPO sowie Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO | 19,00 € |
 | Hauptabschnitt 5 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-| 8500 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 78a des Arbeitsgerichtsgesetzes): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 55,00 € |
+| 8500 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 78a des Arbeitsgerichtsgesetzes): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 60,00 € |
 | Hauptabschnitt 6 Sonstige Beschwerden und Rechtsbeschwerden |
 | Abschnitt 1 Sonstige Beschwerden |
-| 8610 | Verfahren über Beschwerden nach § 71 Abs. 2, § 91a Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO .......... | 77,00 € |
-| 8611 | Beendigung des Verfahrens ohne Entscheidung: Die Gebühr 8610 ermäßigt sich auf .......... | 55,00 € |
+| 8610 | Verfahren über Beschwerden nach § 71 Abs. 2, § 91a Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO .......... | 84,00 € |
+| 8611 | Beendigung des Verfahrens ohne Entscheidung: Die Gebühr 8610 ermäßigt sich auf .......... | 60,00 € |
 |  | (1) Die Gebühr ermäßigt sich auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird. (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
 | 8612 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde verworfen oder zurückgewiesen wird .......... | 1,6 |
 | 8613 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Soweit die Beschwerde zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 0,8 |
 |  | Die Gebühr entsteht nicht, soweit die Revision zugelassen wird. |  |
-| 8614 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 55,00 € |
+| 8614 | Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen .......... | 60,00 € |
 |  | Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | Abschnitt 2 Sonstige Rechtsbeschwerden |
-| 8620 | Verfahren über Rechtsbeschwerden in den Fällen des § 71 Abs. 1, § 91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4, § 494a Abs. 2 Satz 2 oder § 516 Abs. 3 ZPO .......... | 160,00 € |
-| 8621 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühr 8620 ermäßigt sich auf .......... | 55,00 € |
-| 8622 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 8621 erfüllt ist: Die Gebühr 8620 ermäßigt sich auf .......... | 77,00 € |
-| 8623 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 105,00 € |
+| 8620 | Verfahren über Rechtsbeschwerden in den Fällen des § 71 Abs. 1, § 91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4, § 494a Abs. 2 Satz 2 oder § 516 Abs. 3 ZPO .......... | 174,00 € |
+| 8621 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist: Die Gebühr 8620 ermäßigt sich auf .......... | 60,00 € |
+| 8622 | Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 8621 erfüllt ist: Die Gebühr 8620 ermäßigt sich auf .......... | 84,00 € |
+| 8623 | Verfahren über nicht besonders aufgeführte Rechtsbeschwerden, die nicht nach anderen Vorschriften gebührenfrei sind: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 114,00 € |
 |  | Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
-| 8624 | Verfahren über die in Nummer 8623 genannten Rechtsbeschwerden: Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird .......... | 55,00 € |
+| 8624 | Verfahren über die in Nummer 8623 genannten Rechtsbeschwerden: Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, des Antrags oder der Klage vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird .......... | 60,00 € |
 | Hauptabschnitt 7 Besondere Gebühr |
 | 8700 | Auferlegung einer Gebühr nach § 38 GKG wegen Verzögerung des Rechtsstreits .......... | wie vom Gericht bestimmt |
 Teil 9
@@ -978,9 +973,9 @@ Auslagen
 |  | 1. die den Gerichtspersonen aufgrund gesetzlicher Vorschriften gewährte Vergütung (Reisekosten, Auslagenersatz) und die Auslagen für die Bereitstellung von Räumen .......... | in voller Höhe |
 |  | 2. für den Einsatz von Dienstkraftfahrzeugen für jeden gefahrenen Kilometer .......... | 0,42 € |
 | 9007 | An Rechtsanwälte zu zahlende Beträge mit Ausnahme der nach § 59 RVG auf die Staatskasse übergegangenen Ansprüche .......... | in voller Höhe |
-| 9008 | Auslagen für |  |
-|  | 1. die Beförderung von Personen .......... | in voller Höhe |
-|  | 2. Zahlungen an mittellose Personen für die Reise zum Ort einer Verhandlung, Vernehmung oder Untersuchung und für die Rückreise .......... | bis zur Höhe der nach dem JVEG an Zeugen zu zahlenden Beträge |
+| 9008 | Auslagen |  |
+|  | 1. der Beförderung von Personen | in voller Höhe |
+|  | 2. der Gewährung von Reiseentschädigungen für mittellose Personen, soweit diese Kosten nicht Auslagen nach Nummer 9005 sind | bis zur Höhe der nach dem JVEG an Zeugen zu zahlenden Beträge |
 | 9009 | An Dritte zu zahlende Beträge für 1. die Beförderung von Tieren und Sachen mit Ausnahme der für Postdienstleistungen zu zahlenden Entgelte, die Verwahrung von Tieren und Sachen sowie die Fütterung von Tieren .......... | in voller Höhe |
 |  | 2. die Beförderung und die Verwahrung von Leichen .......... | in voller Höhe |
 |  | 3. die Durchsuchung oder Untersuchung von Räumen und Sachen einschließlich der die Durchsuchung oder Untersuchung vorbereitenden Maßnahmen .......... | in voller Höhe |

@@ -43,7 +43,6 @@
 
 - [§ 22 Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln](0022.md)
 - [§ 23 Insolvenzverfahren](0023.md)
-- [§ 23a Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz](0023a.md)
 - [§ 24 Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren](0024.md)
 - [§ 25 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung](0025.md)
 - [§ 25a Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz](0025a.md)
@@ -90,7 +89,6 @@
 - [§ 51a Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz](0051a.md)
 - [§ 52 Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit](0052.md)
 - [§ 53 Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes](0053.md)
-- [§ 53a Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz](0053a.md)
 - [§ 54 Zwangsversteigerung](0054.md)
 - [§ 55 Zwangsverwaltung](0055.md)
 - [§ 56 Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundstücksgleichen Rechten](0056.md)
