@@ -1,0 +1,139 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-06-02T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525395
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525395
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 07.04.2025 und 05.05.2025
+- TOP 1.2.: Nachbesetzung der Unterausschüsse
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Parkende Fahrzeuge in der Grünanlage Sendling, Wackersberger Straße
+- TOP 2.2.: Ampelschaltung an der Ecke Lindenschmitstraße / Plinganserstraße
+- TOP 2.3.: Kreative Begegnungsstätte in Sendling – Möglichkeit zur Förderung
+- TOP 2.4.: Taubenplage U-Bahnhof Harras
+- TOP 2.5.: Fuß- und Radbrücke über den Mittleren Ring bzw. Brudermühlstraße – erhöhte Unfallgefahr durch verengte Brückenbreite
+- TOP 2.6.: Situation um den Quartiersplatz
+- TOP 2.7.: Tempo-30-Zone in der Implerstraße
+- TOP 2.8.: Fußgängerinnen und Fußgänger am U-Bahn-Eingang Implerstraße / Oberländerstraße
+- TOP 2.9.: Fahrradparken Brudermühlstraße
+- TOP 2.10.: Liegestühle im Südbad
+- TOP 2.11.: Dreharbeiten am Gotzinger Platz
+- TOP 2.12.: Gefahrenstelle am Radweg der Baustelle beim Blumengroßmarkt
+- TOP 2.13.: Parkplatzsituation in der Meindlstraße
+- TOP 2.14.: Antrag auf Einrichtung eines Stellplatzes für Lastenfahrräder in der Schmied-Kochel-Straße
+- TOP 2.15.: Unterstützung bei Anbringung von Markierungen in der Radlkoferstraße und Am Harras
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Lösung zum Sendlinger Loch; 20-26 / V 15898 – Entscheidung des Oberbürgermeisters
+- TOP 4.3.2.: Taubenplage Implerstraße
+- TOP 4.3.3.: 2. Stammstrecke, 6. Planänderung PFA 3 Ost, Zugangstreppe Autoreisezugverladung
+- TOP 4.3.4.: Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Nach wie vor schleppender Umbau der BSA Wackersbergerstraße 49 - SC Süd (CSU-Fraktion)
+- TOP 4.4.2.: Stadtbäume in Sendling: Schwammstadt-Prinzip umsetzen! (SPD-Fraktion)
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Unterstützungsschreiben der Bezirksausschüsse zum Antrag Nr. 20-26 / B07422 des Bezirksausschusses des 17. Stadtbezirkes – Postfiliale am Tegernseer Platz
+- TOP 4.5.2.: 5-monatige Schließung der Edeka-Filiale in der Implerstraße und der dortigen Postfiliale / Bäckerei (Anfrage CSU Fraktion)
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Reduzierung des Durchgangsverkehrs in der Aberlestraße
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Fahrradstellplätze in der Sylvensteinstraße
+- TOP 5.3.2.: Gefährdung von Fußgängern und Hunden durch schnelle Fahrräder und E-Bikes
+- TOP 5.3.3.: Erlaubnis Oberländerstraße 33, BaustellenNr. S 00862/25 – Terminverschiebung
+- TOP 5.3.4.: Teilaufhebung der Tempo-30-Zone in der Implerstraße
+- TOP 5.3.5.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Implerstraße 35
+- TOP 5.3.6.: Änderungen im Parklizenzgebiet Karwendelstraße hier: Karwendelstraße
+- TOP 5.3.7.: Baustelle in der Schäftlarnstraße 92 / Bruderhofstraße 43
+- TOP 5.3.8.: Versammlungsanzeige: "Für freie Meinungsäußerung" am 11.06.2025 und am 09.07.2025
+- TOP 5.3.9.: Baumaßnahmen der SWM im Stadtbezirk - SWM Fernwärmeprojekt Schäftlarnstraße - SWM Fernwärmeprojekt Senserstraße
+- TOP 5.3.10.: Neue Toilettenanlage am Herzog-Ernst-Platz BA-Antrags-Nr. 20-26 / B 07538
+- TOP 5.3.11.: Infos zur Sommerstraßen 2025
+- TOP 5.3.12.: Beleuchtung im Fußgängertunnel Plingganserstraße 56a / 58 a
+- TOP 5.3.13.: Vorschlag zur Sanierung der Karwendelstraße
+- TOP 5.3.14.: Sanierung der Steinerstraße und die Parksituation um das OCM
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Verschmutzte Verkehrs- und Straßen-Schilder in Sendling (Seniorenvertretung)
+- TOP 5.4.2.: Sicherheit geht vor! Fuß und Radweg am Roten-Turm-Platz / Ecke Demleitnerstraße regeln (SPD-Fraktion)
+- TOP 5.4.3.: Neuen Lastenfahrradabstellplatz Hans-Klein-Straße verlegen (SPD-Fraktion)
+- TOP 5.4.4.: Mini-Busspur zwischen Pfeuferstraße 16 und 20 abmarkieren als Aufstellfläche bei Stau (SPD-Fraktion)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Tarzanmäuse e.V. „Parklet für die Alramstraße vom 31.05.2025 - 25.10.2025“ 519,27 € / AZ: 0262.0-6-0556
+- TOP 6.1.2.: (E) Stadtbezirksbudget Nachbarschaftsinitaitive Meindlstraße für alle Parklet in der Meindlstraße 6 vom 28.05.2025 - 31.10.2025“ 610,00 € / AZ: 0262.0-6-0554
+- TOP 6.1.3.: (E) Stadtbezirksbudget Bürgerinitiative „Nachhaltigkeitsforum am 25.10.2025“ 3.350,00 € / AZ: 0262.0-6-0551
+- TOP 6.1.4.: (E) Stadtbezirksbudget MINCA „MINCA Politik-Kiosk Sendling vom 09.05.2025 - 31.10.2025“ 1.850,00 € / AZ: 0262.0-6-0555
+- TOP 6.1.5.: (E) Stadtbezirksbudget H-Team e.V. „Modernisierung der Küche für Besucher, Gäste, Klienten und Veranstaltungen“ 10.800,00 € / AZ: 0262.0-6-0550
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kurdische Gemeinde München e.V. „Kurdische Filmtage München vom 30.05.2025 - 02.06.2025“ 3.460,00 € / AZ: 0262.0-6-0553
+- TOP 6.1.7.: (E) Stadtbezirksbudget Wasserwacht München Mitte „Jugendfreizeit vom 04.08.2025 - 10.08.2025“ AZ: 0262.0-6-0546/ 1.924,33 €
+- TOP 6.1.8.: (E) Stadtbezirksbudget Elternbeirat der Mittelschule Implerstr. 35 „Kicker Implerschule “ AZ: 0262.0-6-0548/ 2.994,00 €
+- TOP 6.1.9.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik „Bayerwaldhaus im Westpark vom 21.04.2025 - 10.05.2025“ 8.000,00 € / AZ: 0262.0-6-0536
+- TOP 6.1.10.: (E) Stadtbezirksbudget Tintenforscher e.V. „Renovierung Leseraum vom 15.05.2025 - 31.08.2025“ 860,00 € / AZ: 0262.0-6-0558
+- TOP 6.1.11.: (E) Stadtbezirksbudget Init. "Jazzkonzert in der Bäckerei" „Jazzkonzert in der Bäckerei Neulinger Filiale Sendling Gotzingerstr. 48 am 01.03.2026“ 1.150,00 € / AZ: 0262.0-6-0557
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - We won’t Shut Up! 03.03.2025 – 20.03.2025 - Kita Igelchen e.V. – ergonomisches Sitzen in unserer Kindertagesstätte
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Jahresbericht 2024 der Erziehungsberatungsstelle Hansastraße
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Eröffnungsveranstaltung am 15.05.2025 an der Grundschule Pfeuferstraße 1 -Vom Schulhof zum Spielhof-
+- TOP 7.5.2.: Ausschreibung Stefan Schörghuber Preis 2025
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Genehmigung einer Freischankfläche in der Aberlestraße 21
+- TOP 8.1.2.: Genehmigung einer Freischankfläche in der Fallstraße 26
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Konzert Sendlinger Kulturschmiede e.V. am Sendlinger Kirchplatz am 21.06.2025
+- TOP 8.2.2.: Beschlussvorlage Frühlingsfest 2026: Verlängerung der Spielzeit zum 60. Jubiläum auf der Theresienwiese - Bitte um Stellungnahme
+- TOP 8.2.3.: Veranstaltung in einer städtischen Grünanlage; Titus Locals Only Contest, Wacker Skatepark Harras am 08.06.2025 (Ersatztermin: 13.07.2025)
+- TOP 8.2.4.: Veranstaltung in einer städtischen Grünanlage; Sommerfest KiGa Flaucherfüchse in den Isarauen am Flaucher (Kleine Wiese Nähe Spiel-platz) am 19.07.2025 (Ersatztermin: 25.07.2025); TERMIN NEU: 06.06.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung in einer städtischen Grünanlage; Bücher-Action am Bücherschrank, Nachbarschaftstreff Theresia am Herzog-Ernst-Platz am 20.05.2025 (Ersatztermin: 27.05.2025)
+- TOP 8.3.2.: Veranstaltung in einer städtischen Grünanlage; Greifvogel-Vorführung Naturkindergarten Flaucherfüchse e.V. Am Isarkanal / Ecke Hans-Preißinger-Straße am 21.05.2025
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Erinnerungszeichen Münchner Wohnen 08.07.2025 um 16.00 Uhr
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.1.1.: Oktoberfest 2025 – Besuch des Sendlinger Bezirksausschusses
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.12.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. „Kinder- und Jugendfonds "Lasst uns mal ran!" im BA 6 vom 01.07.2025 - 31.12.2025“ AZ: 0262.0-6-0559 / 5.000,00 €
+- TOP 2.16.: Bäume in der Oberländerstraße
+- TOP 2.17.: Anfrage für geeigneten Standort für Foodtruck - Japanisches Curry
+- TOP 2.18.: Wassertemperatur im Südbad
+- TOP 4.3.5.: Zweite Programmanpassung von "Wohnen in München VII" A) Reaktion auf den Ausfall der staatlichen Mittelzuweisung für die Einkommensorientierte Förderung durch die Landeshauptstadt München: Einführung einer kommunalen Einkommensorientierten Förderung (EOF) B) und C) Stadtratsanträge
+- TOP 4.3.6.: Tauben in der Wohnanlage Implerstraße 23, 25, 25a
+- TOP 5.3.15.: Fahrradstellplätze in der Sylvensteinstraße
+- TOP 5.3.16.: Unfallanalyse im Grundschulsprengel
+- TOP 8.2.5.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Sommerfest und Jubiläum Lilly läuft e.V. in der Ganghoferstr. (HsNr. 82-86) am 17.07.2025
+- TOP 8.3.3.: Veranstaltung in einer städtischen Grünanlage; Weltspieltag und Weltkindertag in der Grünanlage Neuhofener Berg (Alois-Johannes-Lippl-Weg) am 28.05.2025 und 20.09.2025
+- TOP 8.3.4.: Fortführung einer Gaststätte in der Leipartstraße 19
+- TOP 2.19.: Müllsituation in der Plinganserstraße 5 bzw. 9
+- TOP 2.20.: Fußgängerübergang vom Roter-Turm-Platz zum Resi-Huber-Platz
+- TOP 5.3.17.: Wertstoffinsel Alramstraße BA-Antrag-Nr. 20-26 / B 07632
+- TOP 6.2.1.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 7.5.3.: Einladung zur Infoveranstaltung der Sozialreferentin für die Bezirksausschüsse
