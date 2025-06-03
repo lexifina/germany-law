@@ -1,0 +1,8 @@
+# TOP 9: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster
+
+- Sitzung: Sitzung (2025-06-03)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/272977
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/88078
