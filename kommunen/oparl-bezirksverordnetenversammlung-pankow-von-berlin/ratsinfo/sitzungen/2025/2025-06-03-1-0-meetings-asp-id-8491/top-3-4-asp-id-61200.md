@@ -1,0 +1,7 @@
+# TOP 3.4: Neue Geflüchteten-Unterkunft an der Berliner Straße 100, 13189 Berlin
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Soziales, Senior*innen und Gesundheit (2025-06-03)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=61200
+- Ergebnis: erledigt
