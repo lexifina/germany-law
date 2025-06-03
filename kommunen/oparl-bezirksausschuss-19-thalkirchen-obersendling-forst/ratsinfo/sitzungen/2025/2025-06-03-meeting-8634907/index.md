@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-06-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634907
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634907
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 06.05.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Fristverlängerung: Fragen zur Zukunft des Bad Forstenried
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Die Klosterspatzen e.V. „Anschaffungen für die Kinderkrippe vom 07.04. -31.08.2025“ 5.000,00 € / AZ: 0262.0-19-0570
+- TOP 3.3.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik, Lied und Tanz e.V. Bayerwaldhaus im Westpark vom 21.04. -10.05.2025 8.000,00€; Az. 0262.0-19-0568
+- TOP 3.4.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 6.000,00€; Az. 0262.0-19-0579
+- TOP 3.5.: (E) Stadtbezirksbudget Wasserwacht München Mitte Jugendfreizeit vom 04.08. -10.08.2025 1.924,33€; Az. 0262.0-19-0585
+- TOP 3.6.: (E) Stadtbezirksbudget Ensemble La Vie e.V Theater in der Passionskirche in München 01.07.25-30.12.25 9.820,00€; Az:0262.0-19-0584
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) + (U) Auffällige Tumorraten im Umfeld der Fa. Renolit
+- TOP 4.4.: (Antrag) Oasenbrunnen
+- TOP 4.5.: (U) Mobilfunk-Modernisierungsarbeiten Obersendling
+- TOP 4.6.: (E) Überwachung von Emissionen der PVC-Produktion der Firma Renolit SE in Solln
+- TOP 4.7.: (A) Novellierung der BaumSchutzV der Landeshauptstadt München
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Bürgersteig Sicherheit in der Georg-Strebl-Straße
+- TOP 5.3.: Herterichstraße 156; E-Scooter parken
+- TOP 5.4.: (A) Tram-Westtangente, Planfeststellungsabschnitt 2, Tektur C
+- TOP 5.5.: Fristverlängerung BA-Antrag: Zeitplan Neubau Tram Westtangente
+- TOP 5.6.: Parkraumlizenzgebiet Thalkirchen
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Hofbrunnstraße Flurnummer 465/4
+- TOP 6.2.2: Garatshausener Straße Flurnummer 502/0
+- TOP 6.2.3: Geisenhausenerstraße 13
+- TOP 6.2.4: Hofmannstraße 16
+- TOP 6.2.5: Meglingerstraße 8
+- TOP 6.2.6: Kistlerhofstraße 237 (VB)
+- TOP 6.2.7: Franz-Kaim-Straße 16
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: (Anfrage) Flüchtlingsunterkunft Meglinger Straße 7
+- TOP 7.2.: (Antrag) Möglichkeiten für das Familienzentrum (Friedenskapelle) in Neuforstenried suchen
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: "Radlwerkstatt mit Infostand Mobilitätswende" Thalkirchner Platz am 28.06.2025
+- TOP 8.3.: (U) Gaststättenfortführung: Hofmannstraße 23
+- TOP 8.4.: (U) Gaststättenfortführung: Schäftlarnstraße 166
+- TOP 9: Verschiedenes
+- TOP 5.7.: (E) Sondernutzungserlaubnis: Obstverkaufsstand Ratzingerplatz 1-3 / Ecke Aidenbachstraße
+- TOP 2.4.: (A) Änderungen der BA-Satzung und der BA-Geschäftsordnung
+- TOP 8.5.: (Antrag) Erhalt der PLATFORM in Obersendling
+- TOP 2.5.: null
