@@ -1,0 +1,66 @@
+# 41. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-03T17:06:00+02:00
+- Ende: 2025-06-03T21:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14113
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14113
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00571407.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Zuschüsse an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Mitte - einstimmig beschlossen
+- TOP 4.2: Aufwertung der Flächen am Servatii-Hochhaus/ Salzstraße - von der Tagesordnung abgesetzt
+- TOP 4.3: Kapitelstraße - Eugen-Müller-Straße bis Skagerrakstraße und Prozessionsweg - einstimmig beschlossen
+- TOP 4.4: Neubau einer Liegestelle am Hafenkai durch das WSA - einstimmig beschlossen
+- TOP 4.5: Dietrich-Bonhoeffer-Schule: Umbau und Ausbau zur bestehenden 2-Zügigkeit - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: 119. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 630 - Geänderter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 5.2: Lublinring, zwischen Kanalstraße und Gartenstraße: Neugestaltung im Zuge Errichtung separater Rechtsabbiegestreifen - von der Tagesordnung abgesetzt
+- TOP 5.3: Kanalstraße zwischen Lublinring und Rjasanstraße - Beschluss verkehrstechnischer Entwurf - - von der Tagesordnung abgesetzt
+- TOP 5.4: Albersloher Weg - Konzeptionelle Neuausrichtung des Albersloher Weges zwischen dem Angelsachsenweg und dem Knotenpunkt Osttor / Hiltruper Straße - entfällt
+- TOP 5.5: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - von der Tagesordnung abgesetzt
+- TOP 5.6: Kapitelstraße - Baubeschluss Kanalbau - einstimmig beschlossen
+- TOP 5.7: Hansaring - Soester Straße bis "Hafenmarkt" - mehrheitlich geändert beschlossen
+- TOP 5.8: Hafenstraße - DB Unterführung - einstimmig beschlossen
+- TOP 5.9: WLE-Haltepunkt Halle Münsterland - von der Tagesordnung abgesetzt
+- TOP 5.10: Gertrudenstraße - einstimmig beschlossen
+- TOP 5.11: Baubeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs - einstimmig beschlossen
+- TOP 5.12: Schulentwicklungsplan 2025 - von der Tagesordnung abgesetzt
+- TOP 5.13: Errichtungsbeschluss: Errichtung einer Kindertageseinrichtung an der Annette-Allee im Stadtteil Schloss, Bezirk Mitte als Ersatzstandort - einstimmig geändert beschlossen
+- TOP 5.14: Kinderrechte & Spielplätze – Maßnahmenvorschläge zum Antrag "QR-Codes auf Spielplätzen - Stärken wir den Kinderschutz in sozialen Netzwerken!" - von der Tagesordnung abgesetzt
+- TOP 5.15: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 5.16: Errichtungsbeschluss Sechsfachsporthalle am Hans-Böckler-Berufskolleg - einstimmig beschlossen
+- TOP 5.17: Vorschlag für ein Handlungsprogramm „Gesunde Stadt Münster“ - Empfehlungen aus dem Projekt „Gesundheit in der nachhaltigen Stadt“ - von der Tagesordnung abgesetzt
+- TOP 5.18: Baubeschluss 2 Gruppen-Kita am Hoppengarten - einstimmig geändert beschlossen
+- TOP 5.19: Theater Münster - Erneuerung der Brandmeldeanlage - Baubeschluss - einstimmig beschlossen
+- TOP 5.20: Energetische Sanierung des Schulgebäudes des Hans-Böckler-Berufskollegs, Hoffschultestraße 25, 48155 Münster - einstimmig beschlossen
+- TOP 5.21: Baubeschluss Erweiterung und Sanierung Kulturzentrum Hoppengarten - einstimmig beschlossen
+- TOP 5.22: Baubeschluss zur baulichen Erweiterung des Annette-von-Droste-Hülshoff Gymnasiums für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 5.23: Baubeschluss für die Sanierung der Sozialunterkunft Dammstraße 1 und 3 - einstimmig beschlossen
+- TOP 5.24: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - vertagt
+- TOP 6: Berichte
+- TOP 6.1: Stadtklimaanalyse Münster 2025 - Ergebnisse in den Stadtbezirken - zur Kenntnis genommen
+- TOP 6.2: Vollzug der Sozialen Erhaltungssatzung Hafen-, Hansa-, Herz-Jesu-Viertel - Zweiter Sachstandsbericht - von der Tagesordnung abgesetzt
+- TOP 6.3: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - zur Kenntnis genommen
+- TOP 6.4: 72. FNP-Änderung - Bebauungsplan Nr. 600 - Veröffentlichung - zur Kenntnis genommen
+- TOP 6.5: 42. FNP-Änderung - Bebauungsplan Nr. 541 - Erneute Veröffentlichung [Stadthafen-Süd] - zur Kenntnis genommen
+- TOP 6.6: Verkehrsstationen entlang der WLE-Strecke auf dem Stadtgebiet Münster - allgemeine Informationen - zur Kenntnis genommen
+- TOP 6.7: Übersicht über die aktuellen Maßnahmen auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 6.8: VR 8 Düesbergweg von Werlandstraße bis Sternbusch - von der Tagesordnung abgesetzt
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Scharnhorststraße und Umgebung lebenswerter machen - eingebracht
+- TOP 7.2: Für mehr Verkehrssicherheit - Tempo 30 in der Mitte - einstimmig geändert beschlossen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
