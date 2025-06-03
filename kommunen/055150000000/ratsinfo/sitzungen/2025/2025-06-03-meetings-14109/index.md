@@ -1,0 +1,65 @@
+# 36. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-03T17:01:00+02:00
+- Ende: 2025-06-03T20:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14109
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14109
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00570981.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: mdl. Bericht zu den Schrankenschließzeiten WLE
+- TOP 3.2: Kreuzung Albersloher Weg/Osttor/Hiltruper Str. Erste Umbauphase: Ertüchtigung zur Erreichung einer ausreichenden Verkehrsqualität - zur Kenntnis genommen
+- TOP 3.3: Übersicht über die aktuellen Maßnahmen auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 3.4: Verkehrsstationen entlang der WLE-Strecke auf dem Stadtgebiet Münster - allgemeine Informationen - zur Kenntnis genommen
+- TOP 3.5: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - zur Kenntnis genommen
+- TOP 4: Anhörungen
+- TOP 4.1: Aufhebung von Beschlüssen zur Aufstellung von Bauleitplänen. Einstellung der Bauleitplanverfahren. - einstimmig beschlossen
+- TOP 4.2: Bebauungsplan Nr. 655 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 4.3: Bebauungsplan Nr. 517 - 2. Änderung - Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 4.4: 117. Änderung des Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf-West im Bereich Boelckeweg / Albersloher Weg / Bundesstraße B 51 - einstimmig beschlossen
+- TOP 4.5: Vorhabenbezogener Bebauungsplan Nr. 626: Boelckeweg/Albersloher Weg/Bundesstraße B 51 [Gasometer] - einstimmig beschlossen
+- TOP 4.6: Erweiterung des Schulzentrums Wolbeck -Neubaugebäude- - einstimmig beschlossen
+- TOP 4.7: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 4.8: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - einstimmig beschlossen
+- TOP 4.9: Überleitung der außerunterrichtlichen Angebote der Eichendorffschule Angelmodde (OGS) - einstimmig beschlossen
+- TOP 4.10: Kinderrechte & Spielplätze – Maßnahmenvorschläge zum Antrag "QR-Codes auf Spielplätzen - Stärken wir den Kinderschutz in sozialen Netzwerken!" - einstimmig beschlossen
+- TOP 4.11: Schulentwicklungsplan 2025 - einstimmig beschlossen
+- TOP 4.12: Entwicklungen im Modellprojekt "intensivpädagogische Gruppen" - einstimmig beschlossen
+- TOP 4.13: Baulicher Errichtungsbeschluss Gesamtschule Münster-Südost - einstimmig beschlossen
+- TOP 4.14: Albersloher Weg - Konzeptionelle Neuausrichtung des Albersloher Weges zwischen dem Angelsachsenweg und dem Knotenpunkt Osttor / Hiltruper Straße - ohne Beschlussfassung geschoben
+- TOP 4.15: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - einstimmig beschlossen
+- TOP 4.16: Verkehrsversuch Wolbeck: Verstetigung der Maßnahmen - mehrheitlich geändert beschlossen
+- TOP 4.17: Veloroute 11 Everswinkel - Münster, Abschnitt 5: Heumannsweg - einstimmig beschlossen
+- TOP 4.18: Hiltruper Straße – Innere und äußere Erschließung des Baugebiets Hiltruper Straße / Westlich Am Sandbach (Satzung der Stadt Münster gemäß §34 Abs. 4 Satz 1 Nr. 3 BauGB) - einstimmig beschlossen
+- TOP 4.19: WLE-Haltepunkt Gremmendorf - von der Tagesordnung abgesetzt
+- TOP 4.20: WLE-Haltepunkt Angelmodde - mehrheitlich beschlossen
+- TOP 4.21: WLE-Bahnhof Wolbeck - mehrheitlich beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Yorkshire-Platz im York-Quartier - einstimmig geändert beschlossen
+- TOP 5.2: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Südost für das 1. Halbjahr 2025 - einstimmig beschlossen
+- TOP 5.3: Verwendung von BV-Haushaltsmitteln zur Pflege Ortsbild Gremmendorf - einstimmig beschlossen
+- TOP 6: Fristgerecht eingegangene Anträge
+- TOP 6.1: Dr. Hermann Peters ein Ehrengrab zuerkennen - einstimmig beschlossen
+- TOP 6.2: Erweiterung der Sportfläche am Hohen Ufer in Gremmendorf - zurückgezogen
+- TOP 6.3: Wiederherstellung des Rasenplatzes am Hohen Ufer - SC Gremmendorf - zurückgezogen
+- TOP 6.4: Verbesserung der Busanbindung zur Mathilde-Anneke-Gesamtschule - zurückgezogen
+- TOP 7: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 7.1: Benennung des Fuß- und Radweges zwischen WLE-Schiene und Schulzentrum Wolbeck als "Dorf-Heide-Weg" - zur Kenntnis genommen
+- TOP 7.2: Zukunftsnutzung des aktuellen Feuerwehrgerätehauses Wolbeck als Gemeindehaus und Veranstaltungsort - eingebracht
+- TOP 7.3: Installation von Fitnessgeräten für ältere Menschen auf Spielplatzanlagen in Wolbeck-Nord und Petersheide - eingebracht
+- TOP 7.4: Wiedereinführung öffentlicher Schwimmzeiten im Hallenbad Wolbeck - eingebracht
+- TOP 7.5: Berücksichtigung von Brunnen und/oder Wasserspieleinrichtungen bei der Planung der "Neuen Mitte" (Yorkshire-Platz) in Gremmendorf - eingebracht
+- TOP 7.6: Parkverbotszone am Gremmendorfer Weg (Ehrenmal) - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 9: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 10: Verschiedenes
