@@ -1,0 +1,112 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8642041
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8642041
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Parken auf dem Rad und Fußweg Heimeranstr 25 / Theresienhöhe 12
+- TOP 4.2.: Piepgeräusch im Umfeld Ecke Schießstättstraße / Schwanthalerstraße
+- TOP 4.3.: Verunreinigung des Brunnens und des Umfeldes der Kreuzung Schwanthalerstr. Ecke Schiessstättstr.
+- TOP 4.4.: Fahrrad-Abstellplätze im Bereich Trappentreustraße 20
+- TOP 4.5.: Sidewalk Cultures Festival vom 26.07.2025 bis 28.07.2025 auf dem Georg-Freundorfer-Platz
+- TOP 4.6.: Wandmalereiprojekt Kazmaierstraße 85
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Holzapfelstraße 1
+- TOP 6.1.2.: Warenstellage Holzapfelstraße 1
+- TOP 6.1.3.: Freischankfläche - Schanigarten Westendstraße 47
+- TOP 6.1.4.: (E) Wasserpreise in Gaststätten
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 22 - Tektur
+- TOP 6.2.2.: Bauvorhaben Westendstraße 121
+- TOP 6.2.3.: Bauvorhaben Schwanthalerstraße 115
+- TOP 6.2.4.: Bauvorhaben Landsberger Straße 31
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Quartiersentwicklung auf der Schwanthalerhöhe; Anglerstraße / Heimeranstraße
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) + (U) Getrennte Abrechnung von Heiz- und Warmwasserkosten; Rückerstattung an die Mieterinnen und Mieter der Münchner Wohnen Empfehlung
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Save the Date; Austausch mit dem Gesundheitsreferat am 09.07.2025 - Themenmeldung
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Schutzräume für Katastrophenfälle in München
+- TOP 7.3.2.: Sachstand zum geplanten Supermarkt Ridlerstraße 39 / Garmischer Straße
+- TOP 7.3.3.: Save the Date: Jubiläums-Feier "10 Jahre AKIM München" am 09.10.2025, 16 bis 20 Uhr und Jubiläums-Fachtag am 10.10.2025, 9 bis 16 Uhr
+- TOP 7.3.4.: Protokoll über den Austausch zum Rahmenkonzept Kinder-/Jugendpartizipation
+- TOP 7.3.5.: Das München Budget - eine Chance für Inklusion
+- TOP 7.3.6.: Zusammenfassung des Austauschtreffens der Behindertenbeauftragten vom 08.04.2025
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung Sommerflimmern - das kleine Jugendfestival; Ganghoferstr 14 am 03.07.2025
+- TOP 8.2.2.: Veranstaltung "Tag der Nachbarschaft" am Georg-Freundorfer-Platz am 21.06.2025
+- TOP 8.2.3.: Frühlingsfest 2026; Verlängerung der Spielzeit
+- TOP 8.2.4.: Bouleturnier für´s Westend am Gollierplatz am 26.07.2025
+- TOP 8.2.5.: Prüfung neue Örtlichkeit für die Veranstaltungsreihe MUCs; Ort: Unterführung an der Theresienwiese
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung am Schneckenplatz am 15.05.2025
+- TOP 8.3.2.: KiKs-Festival am Alten Messeplatz von 06.06.2025 - 09.06.2025
+- TOP 8.3.3.: Versammlung in der Schießstättstr. 14 am 10.05.2025, 17.05.2025, 24.05.2025 und 31.05.2025
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: Aufwertung der öffentlichen Grünfläche im Innenhof westlich der Schrenkstraße
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Schwanthalerstraße 149
+- TOP 9.2.2.: Fußgängerzonenbeschilderung Am Bavariapark
+- TOP 9.2.3.: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einrichtung von temporären Spielstraßen in der Schwanthalerhöhe
+- TOP 9.3.2.: Genehmigung von 4 Hochbeeten am Alten Messeplatz
+- TOP 9.3.3.: Genehmigung eines Parklets am Kiliansplatz
+- TOP 9.3.4.: Pfützenbildung am Fußweg auf Höhe Landsberger Str. 137
+- TOP 9.3.5.: Fußgänger*innensichtbarkeit im Kreuzungsbereich Trappentreustraße / Westendstraße
+- TOP 9.3.6.: Schließung der Schnaderböckstraße für Kraftfahrzeuge; weitere Umgestaltung und Entsiegelung
+- TOP 9.3.7.: Meldeliste SWM-Bauvorhaben
+- TOP 9.3.8.: Fahrradstellplätze Schießstättstraße 30
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Elterninitative Rumpelpilz e.V Parklet vom 04.06.2025 - 31.10.2025 12.322,00€; Az:0262.0-8-0446
+- TOP 10.1.2.: (E) Stadtbezirksbudget BürgerStiftung München /Münchner Initiative Nachhaltigkeit (MIN) Westend Kiez /Ein Tag des guten Lebens am 25.05.2025 890,00€; Az. 0262.0-8-0447
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. "Lesebühne" Solidarische Lesebühne vom 21.06. -26.07.2025 920,00€; Az. 0262.0-8-0449
+- TOP 10.1.4.: (E) Stadtbezirksbudget Init. ArtZi Comic- und Zinewerkstatt ArtZi Comic- und Zinewerkstatt am 21.06.2025 1.500,00€; Az. 0262.0-8-0450
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Oktoberfest 2025; Reservierung der Ratsboxe
+- TOP 12.2.2.: Ausschreibung Stefan Schörghuber Preis 2025 für die Eingliederung von sozial benachteiligten Menschen in den Arbeitsmarkt
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Unterstützung des BA 17 zum Antrag B07422 Postfiliale Tegernseer Platz
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 6.1.5.: Freischankfäche Guldeinstraße 30; 180cm Restgehwegbreite nach den Sondernutzungsrichtlinien nicht zulässig
+- TOP 6.2.5.: Ligsalzstraße 17; Nachtrag in die Denkmalliste - Benehmensverfahren
+- TOP 4.7.: Kulurbiergarten Rummel
+- TOP 6.1.6.: Freischankfläche Schwanthalerstraße 154
+- TOP 8.2.6.: Straßenfest des Griechischen Hauses inkl. Flohmarkt "Tag der Weltoffenheit" am 19.07.2025; Ort: Bergmannstraße
+- TOP 8.3.4.: Spendenlauf der Grundschule Pfeuferstraße im Bavariapark am 30.05.25
+- TOP 7.2.2.: Appell für Solidarität und Menschlichkeit - Gegen die Räumung der Unterführung der Theresienwiese; Sitzungsvorlage Nr. 20-26 / V 16651
+- TOP 11.1.: Verkehrsberuhigung Geroltstraße zwischen Kazmair- und Sandtnerstraße
+- TOP 9.3.8.1: Umwandlung eines Kfz-Stellplatzes in Fahrradstellplätze an der Schießstättstraße 30
