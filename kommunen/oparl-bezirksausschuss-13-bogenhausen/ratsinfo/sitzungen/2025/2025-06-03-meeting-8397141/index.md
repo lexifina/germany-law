@@ -1,0 +1,142 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2025-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8397141
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8397141
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 13.05.2025
+- TOP 1.3.2.: Benennung eines*einer stellvertretenden Vorsitzenden des Unterausschusses Bildung und Sport
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Kufsteiner Pl. 5 - Neubau eines Mehrfamilienhauses mit 6 Wohnungen und 3 Büroeinheiten sowie einer Tiefgarage
+- TOP 2.2.1.2.: Bebauungsplan mit Grünordnung Nr. 2183; Marienburger Straße (östlich), Memeler Straße (nördlich), Bahnstrecke Nr. 5560 (westlich): Anstehende Beteiligung gem. § 4 Abs. 2 Baugesetzbuch (BauGB); Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.3.: Standortbeschluss zur Unterbringung wohnungsloser Haushalte Neubau eines Flexi-Heims Variante 1 für Einzelpersonen und Paare Cosimastraße 234; Sitzungsvorlage Nr. 20-26 / V 16632; Anhörung des Sozialreferats
+- TOP 2.2.1.4.: Ebersberger Str. 30 - Nachträgliche Aufteilung in 3 Wohneinheiten, Abbruch und Neubau des Dachgeschosses, Neubau eines Balkons im Obergeschoss
+- TOP 2.2.1.5.: Saalestr. 13 - ÄNDERUNGSANTRAG zu 1.2-2024-17518-31 - Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage - jetzt: Neubau eines Mehrfamilienhauses (4 WE) mit Tiefgarage
+- TOP 2.2.1.6.: Muspillistr. 25 - Neubau der Freiwilligen Feuerwehr Oberföhring und Mitnutzung des denkmalgeschützten "Alten Schulhauses" - VORBESCHEID
+- TOP 2.2.1.7.: Erhaltung des Dönerstands in Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.2.1.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.9.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Ebersberger Str. 30 - Nachträgliche Aufteilung in 3 Wohneinheiten, Abbruch und Neubau des Dachgeschosses, Neubau eines Balkons im Obergeschoss
+- TOP 2.2.2.2.: Kufsteiner Pl. 5 - Neubau eines Mehrfamilienhauses mit 6 Wohnungen und 3 Büroeinheiten sowie einer Tiefgarage
+- TOP 2.2.2.3.: Saalestr. 13 - ÄNDERUNGSANTRAG zu 1.2-2024-17518-31 - Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage - jetzt: Neubau eines Mehrfamilienhauses (4 WE) mit Tiefgarage
+- TOP 2.2.2.4.: Muspillistr. 25 - Neubau der Freiwilligen Feuerwehr Oberföhring und Mitnutzung des denkmalgeschützten "Alten Schulhauses" - VORBESCHEID
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Umgestaltung der A94 im Stadtgebiet München: Umwandlung in eine Stadtstraße mit Wohn- und Gewerbeentwicklung; Anliegen aus der Bürgerschaft
+- TOP 2.3.2.: Überprüfung der Verkehrssituation in der Graudenzer Straße und an der Kreuzung zur Denninger Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.3.: hoher LKW-Verkehr, Fahren auf dem Gehweg und erhöhte Geschwindigkeit in der Johanneskirchner Str.; Anliegen aus der Bürgerschaft
+- TOP 2.3.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.5.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: KunstMobil München e. V., Die Kunst-Koffer® kommen vom 10.03. - 31.12.2024 5.000,00 €; - Rückmeldung des Antragstellers zum Beschluss des BA 13 aus der März-Sitzung -
+- TOP 2.4.2.: (E) Stadtbezirksbudget Init. "Confessions of a Texas Cowboy" Whiskey and Heartache: Confessions of a Texas Cowboy (AT) vom 01.06. - 31.10.2025 1.500,00 €; Az. 0262.0-13-0497
+- TOP 2.4.3.: (E) Stadtbezirksbudget Nachbarschaftsinitiative Unsere Parkstadt - Gemeinsam Gestalten Sommerfest Parkstadt Bogenhausen 2025 am 28.06.2025 838,23 €; Az. 0262.0-13-0499
+- TOP 2.4.4.: (E) Stadtbezirksbudget Init. "Wandgestaltung" „Wandgestaltung Riedenburger Phase 3 vom 01.07.2025 - 31.08.2025“ AZ: 0262.0-13-0487/ 4.000,00 €
+- TOP 2.4.5.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt im BJR K. d. ö. R. (SBZ Fideliopark) Stadtteilfest Bogenhausen am 28.06.2025 3.245,00 €; Az. 0262.0-13-0500
+- TOP 2.4.6.: (E) Stadtbezirksbudget Förderverein der Städtischen Berufsschule zur Berufsvorbereitung in München e. V. Schulsportfest am 10.07.2025 und Sommerfest und Fußball-Spielfest am 28.07.2025 für unsere Schüler*innen 652,00 €, Az. 0262.0-13-0502
+- TOP 2.4.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.8.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Novellierung der Baumschutzverordnung der Landeshauptstadt München; erneute Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.6.1.2.: Baumpflanzungen in der Laplacestraße; Anhörung des Baureferats
+- TOP 2.6.1.3.: Thomas-Mann-Allee: mehr Baumpflanzungen; Anliegen aus der Bürgerschaft (vertagt aus 05/25)
+- TOP 2.6.1.4.: Mobilfunk-Suchkreis am Galileiplatz; Anhörung des Referats für Klima- und Umweltschutz (vertagt aus 05/25)
+- TOP 2.6.1.5.: Bessere Beschilderung am Shakespeareplatz; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.6.: Baumpflege in öffentlichen Parkanlagen; Antrag der CSU-Fraktion
+- TOP 2.6.1.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.8.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Plankenhofstr. 27
+- TOP 2.6.2.2.: Düppeler Str. 10
+- TOP 2.6.2.3.: Friedrich-Eckart-Str. 11
+- TOP 2.6.2.4.: Cosimastr. 101 - 137
+- TOP 2.6.2.5.: Meistersingerstr. 94 - 128
+- TOP 2.6.2.6.: Knappertsbuschstr. 2
+- TOP 2.6.2.7.: Klosestr. 10
+- TOP 2.6.2.8.: Richard-Strauss-Str. 149
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Standortbeschluss zur Unterbringung wohnungsloser Haushalte Neubau eines Flexi-Heims Variante 1 für Einzelpersonen und Paare Cosimastraße 234; Sitzungsvorlage Nr. 20-26 / V 16632; Anhörung des Sozialreferats
+- TOP 2.7.2.: Stadtbezirksbudget Init. "Wandgestaltung" „Wandgestaltung Riedenburger Phase 3 vom 01.07.2025 - 31.08.2025“ AZ: 0262.0-13-0487/ 4.000,00 € - Vorstellung durch Antragsteller -
+- TOP 2.7.3.: Kindergarten Jubiläumsfeier am 28.06.2025 im Wilhelm-Dieß-Weg 7; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.4.: Nachbarschaftstag des Abfallwirtschaftsbetriebs am 19.07.2025 in der Eugen-Jochum-Straße 1-22; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.5.: An der Cosimastr. / Englschalkinger Str.: Sommerfest im 13er / Popup-Stage am 11.07.2025; Anhörung des Kommunalreferats
+- TOP 2.7.6.: Zirkus Pumpernudl im Bichlhofweg; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.7.: Mobilität & Begegnung am 09.09.2025 am Kufsteiner Platz; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.8.: REGSAM-Sommerfest am 11.07.2025, Grünfläche am Cosimabad und Cosimastraße (Sackgasse); Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.9.: Beschwerden bzgl. einer Studentenverbindung; Anliegen aus der Bürgerschaft
+- TOP 2.7.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.11.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Komplette künstlerische Gestaltung der Lärmschutzwand am Isarring
+- TOP 6.2.: Umgehende Instandsetzung der Freifläche des Kindertreffs Bogenhausen
+- TOP 6.3.: Kreuzung Prinzregenten-/Grillparzerstraße - Sichere Querung Fußgänger und Radfahrer gewährleisten
+- TOP 6.4.: Evaluierung der Teilstrategie Shared Mobility
+- TOP 6.5.: Aufhebung der Kündigung des Bunker 5 im Bürgerpark Oberföhring Empfehlung Nr. 20-26 / E 01525 der Bürgerversammlung des Stadtbezirkes 13 – Bogenhausen; Rückmeldung des Kommunalreferats für Stellungnahme des BA 13 aus der März-Sitzung
+- TOP 6.6.: Carsharing Verkehrsschilder ergänzen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Rahmenkonzept Kinder-/Jugendpartizipation - Protokoll vom Austausch
+- TOP 7.2: Baureferat
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Lohengrinstr.
+- TOP 7.3.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Grimmeisenstr.
+- TOP 7.3.3.: Mühlbaurstraße, Nordseite östlich Einmündung Röntgenstr.: Anordnung Absolutes Haltverbot - Ausweichstelle
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Bürgerpark Oberföhring: Verlängerung Baugenehmigung
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Fortführung des Gaststättenbetriebes: - Freischützstr. 42
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Apenrader Str. 12
+- TOP 7.7.2.: Pienzenauerstr. 83: Neubau eines Wohnhauses mit zweigeschossiger Tiefgarage, Außenpool mit Poolhaus - Rückmeldung
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) Erweiterung einer bestehenden Unterkunft für Geflüchtete an dem Standort • Schatzbogen 29 (Erweiterungsbau Turnhalle) Verlängerung einer bestehenden Unterkunft für Geflüchtete an dem Standort • Hohenlindener Straße 8 und 8a Bekanntgabe zur Verlängerung der dezentralen Unterkunft für Geflüchtete in der Nailastraße 10 Bekanntgabe zur Verlängerung der Unterkunft für Geflüchtete in der Kaulbachstraße 65 Bekanntgabe zur Absage der Eröffnung der dezentralen Unterkunft für Geflüchtete in der Albert-Roßhaupter-Straße 65 Bekanntgabe zur Absage der Eröffnung der dezentralen Unterkunft für Geflüchtete in der Baierbrunner Straße 30 Planungsanpassung am Standort Brodersenstraße 34 7. Stadtbezirk – Sendling-Westpark 12. Stadtbezirk – Schwabing-Freimann 13. Stadtbezirk – Bogenhausen 15. Stadtbezirk –Trudering-Riem 16. Stadtbezirk – Ramersdorf-Perlach 19. Stadtbezirk – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP 7.9.2.: Vollzug der Zweckentfremdungssatzung: - Kufsteiner Pl.
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 7.15.2.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG) Erlass der Verordnung der Landeshauptstadt München über das Landschaftsschutzgebiet „Moosgrund im Münchner Nordosten“
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.3.6.: Weltenburger Straße - Einmündungen Klose-, Gleim-, Havel-, Oderstraße: Lösungen gegen Vorfahrtunfälle; Anhörung des Mobilitätsreferats
+- TOP 2.4.9.: Änderungen der BA-Satzung und BA-Geschäftsordnung; Anhörung des Direktoriums
+- TOP 6.7.: Bernt-Notke-Weg 7 - Rückmeldung des Referats für Stadtplanung und Bauordnung zum Beschluss aus der Sitzung 05/25 -
+- TOP 6.8.: Baumaßnahmen Rennbahnstraße; - Rückmeldung des Mobilitätsreferats zum Beschluss aus der Sitzung 05/25 -
+- TOP 7.18.1.: SWM Strom-Projekt: Regina-Ullmann-Straße
+- TOP 2.3.7.: Vogelweidestraße Westseite Ampelbereich: Einführung Absolutes Haltverbot; Anhörung des Mobilitätsreferats
+- TOP 2.6.2.9.: Zoppoter Str. 24
+- TOP 2.2.1.3.1: Studentenwohnheim Cosimastraße 234; Antrag der CSU-Fraktion
