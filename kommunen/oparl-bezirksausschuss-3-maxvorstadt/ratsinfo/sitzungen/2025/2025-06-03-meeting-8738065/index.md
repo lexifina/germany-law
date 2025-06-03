@@ -1,0 +1,152 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8738065
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8738065
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: BA-Maxvorstadt unterstützt den Hilfsfonds der Stadtratsfraktionen für die Opfer des islamistischen Terroranschlags in der Seidlstraße
+- TOP 6.2.: Auskunft über erfolgte Maßnahmen der Müllreduzierung in der Maxvorstadt
+- TOP 6.3.: Eckbebauung Schellingstr. 25/27 / Türkenstr. 66 in der Stadtgestaltungskommission einbringen
+- TOP 6.4.: Augustenstraße 87-89 – gesperrte EG Wohnung – wie geht es im Hof weiter
+- TOP 6.5.: Dialogdisplays in den Münchner Stadtvierteln ohne Folgekosten ermöglichen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Mehr Bäume für die Kreittmayrstraße
+- TOP 1.1.2.: Initiativgruppe Benno-Viertel, Umgestaltung des Platzes um die St. Benno Kirche
+- TOP 1.1.3.: Antrag: Stickstoffdioxid-Passivsammler Schleißheimer Straße
+- TOP 1.1.4.: Mähfreier Mai
+- TOP 1.1.5.: Mähfreier Mai Artenvielfalt
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten KW16, KW17, KW18, KW19, KW20, KW21
+- TOP 2.1.2.: WEB-Liste 01.04. - 15.04.25, 16.04 - 30.04.25
+- TOP 2.1.3.: entfällt
+- TOP 2.1.4.: Arnulfstr. 42, Änderung, Nutzungsänderungen und Sanierung des Hochhauses des Bayerischen Rundfunks (sog. Haus 8) für Medien-, Veranstaltungs- und Büronutzung )
+- TOP 2.1.5.: Neureuther Str. 1a, Energetische Sanierung und Aufstockung der bestehenden Wohnanlage. Neubau des Rückgebäudes als Ersatzbau. Neubau einer Tiefgarage mit 11 Stellplätzen.
+- TOP 2.1.6.: Schellingstr. 18, Energetische Sanierung mit Nutzungsänderung von Gewerbe zu Wohnen sowie Neuaufteilung der Wohneinheiten im best. Rückgebäude mit Errichtung von Balkonen und einer Terrasse - ÄNDERUNGSANTRAG zu 1.23-2024-15594-22
+- TOP 2.1.7.: Barer Str.45, Aufzugsanbau Vordergebäude
+- TOP 2.1.8.: Kurfürstenstr. 7, Erweiterung einer Wohnung im Dachgeschoss, teilweise Nutzungsänderung von Laden zu Wohnen mit Gebäudeerweiterung im Erdgeschoss sowie Anbau von Balkonen und eines Personenaufzugs im Hof, Errichtung eines Unterflur-Parksystems mit einem Parkplatz
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Green City e.V. Wanderbaumallee in der Gaiglstraße vom 25.06. - 31.12.2025 1.437,00 Euro, Az.: 0262.0-3-0601
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Baumfällung Zieblandstr. 45
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 5.2.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 5.3.: Antwortschreiben zu Bürger*innen-Anliegen "Öffentlicher Raum Ärztehaus"
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Fahrradabsperrung Fußweg an der Wiese zwischen Zieblandstr. und Schellingstr.
+- TOP 1.1.2.: Antrag Umgestaltung Marsstraße
+- TOP 1.1.3.: entfällt
+- TOP 1.1.4.: Problem Parkplatzkonzept/-regulierung
+- TOP 1.1.5.: Müllverschmutzung Maxvorstadt, Plastikbecher
+- TOP 1.1.6.: Lärmterror auf der südlichen Wiese vor Alten Pinakothek
+- TOP 1.1.7.: Schulwegssicherheit WIttelsbacher-Gymnasium München
+- TOP 1.1.8.: Beschwerde Laufveranstaltung Wings for Life 04.05.2025
+- TOP 1.1.9.: Plastikmüll in Maxvorstadt
+- TOP 1.1.10.: Bezirk Maxvorstadt - Verbesserung der Fahrrad Infrastruktur in der Gabelsbergerstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Alle Jahre wieder: Der Müllberg von der Türkenstraße
+- TOP 1.2.2.: Inflationäre Plastikbecherflut im Univiertel
+- TOP 1.2.3.: Bessere Beleuchtung am Hauptbahnhof Nord
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Arcis-/ Georgenstr.
+- TOP 2.1.2.: BA-Antrag Fahrradstellplätze Steinheilstraße
+- TOP 2.1.3.: überarbeiteter Antrag zu Fahrrad-Abstellplätzen in der Dachauer Straße 44-50
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Foodtrucks in München nach § 32 "Königplatz" Entscheidung: Handelt es sich um einen dezentralen Platz, der einer Belebung bedarf?
+- TOP 2.2.2.: Foodtrucks in München nach § 32 "Professor-Huber-Platz 2" Entscheidung: Handelt es sich um einen dezentralen Platz, der einer Belebung bedarf?
+- TOP 2.2.3.: Anhörungsverfahren Sondernutzung auf öffentlichen Verkehrsgrund gem. Art. 18 BayStrWG ---Antrag für die Aufstellung von Sitzgelegenheiten, Nordendstr. 18
+- TOP 2.2.4.: Antrag Warenauslagen Gabelsbergerstr. 40 - Stadtbezirk 3
+- TOP 2.2.5.: Altstadt für alle / Anhörung Bezirksausschüsse / Informationsveranstaltung MOR
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Augustenstr. 37- FSF Erweiterung, erneute Vorlage
+- TOP 2.3.2.: Theresienstr. 60, SSW I Beschlussvorlage Schanigarten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Bez. 03, Neureutherstraße | Anhörung § 29 StVO für "Straßenfest 15 Jahre Jane Goodall Institut Deutschland" am 27.06.2025 (Ersatztermin: 11.07.2025)
+- TOP 2.4.2.: Bez. 03, Wittelsbacherplatz | Anhörung: Infoveranstaltung auf öff. Grund "Yoga Day / India Day" am 21.06.2025 | Anhörungsfrist: 11.06.2025
+- TOP 2.4.3.: Anhörung: Königsplatz (Bez. 3) Münchner Sportfestival am 05./06.07.2025 – Termin: 25.06.2025
+- TOP 2.4.4.: Anhörung | Bezirksübergreifende Veranstaltung in Grünanlagen, Zirkus Pumpernudl vom 10.08. - 10.10.2025 | Frist: 30.06.2025
+- TOP 2.4.5.: Bez.(01),03,12_ANHÖRUNG_Mail 1 von 2_SportScheck RUN_6.7.25_Leopold-/Martius-/Thiemestr./Geschw.-Sch.-/Prof.-Huber-Pl._FRIST-2.6.
+- TOP 2.4.6.: Anhörung (Bez. 1 und 3) CSD-Veranstaltung in der Innenstadt am 28. und 29.06.2025 gem.§29 der StVO ; Frist: 10.06.2025
+- TOP 2.4.7.: Bez. 3, Werner-von-Siemens-Str, Siemens HQ | Anhörung § 29 StVO, Erlaubnis Art. 19 Abs. 3 LStVG u. Ausnahmegenehmigung GA für "Siemens Sommerfest mit Tag der offenen Tür 2025" am 25.07.2025 | Anhörungsfrist: 04.07.2025
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.4.: Unveränderte Gaststättenfortführungen
+- TOP 3.5.: Baumaßnahmen der SWM
+- TOP 3.6.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.7.: Schließung von Postbankfilialen- Antwortschreiben RAW auf BA-Antrag des BA 17
+- TOP 3.8.: (U) Radschnellweg Münchner Norden, Abschnitt 1 (Altstadt-Radlring) Verkehrliche Funktionen der Brienner Straße östlich des Oskar-von-Miller-Rings, des Odeonsplatzes und der Ludwigstraße südlich der Von-der-Tann-Straße Auslobung Freiraumplanerischer Realisierungswettbewerb mit Ideenteil
+- TOP 3.9.: Eilentscheid der Vorsitzenden zu EILT SEHR - NACHTRAG 2 - Bez.03 | Anhörung für SoNu, | Art. 18 BayStrWG, hier Josephsplatz "Fahrradfest/Radl-Sicherheitscheck" am 20.05.2025
+- TOP 3.10.: Schreiben MOR zu Lückenschlüssen
+- TOP 3.11.: Baumaßnahme Stachus - nächste Bauphase mit Sperrung Tram 27 ab 2.6.25
+- TOP 3.12.: kurzfristig erforderlich gewordene Spielgerätesperrung - Spielplatz ALTE PINAKOTHEK Barer Straße 27
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Skatepark im Maßmannpark Maxvorstadt
+- TOP 1.1.2.: Antrag zur Modernisierung des Maßmannparks im Stadtbezirk 3 (Maxvorstadt)
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nazis raus aus Schulen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Inklusionat e. V. Blind Date - inklusiv vom 15.6. - 30.7.2025 2.025,00€; Az:0262.0-3-0598
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Gefährliche Betonklötze Maßmannberg- Kleinkindspielplatz am Sandkasten
+- TOP 4.2.: Verbesserung der Beleuchtung auf der Sportanlage am Alten Nordfriedhof, Antwort Gartenbau auf Rückfrage
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "ArtSchnitzel" ArtSchnitzel Festival 2025 vom 26.06. - 06.07.2025 2.000,00 Euro, Az.: 0262.0-3-0596
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "U-Bahn-Galerie" Flyer U-Bahn-Galerie vom 18.06.2025 - 17.06.2026 760,00 Euro, Az.: 0262.0-3-0600
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "84 GHz Raum für Gestaltung" Kunst im Karrée 2025 - offene Ateliers in Schwabing und in der Maxvorstadt vom 11.07. - 13.07.2025 3.000,00 Euro, Az.: 0262.0-3-0599
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "muc Haecksen" Lötworkshop "Haecksenhut-Badge" am 22.06., 27.07. und 24.08.2025 787,00 Euro, Az.: 0262.0-3-0597
+- TOP 2.5.: Errichtung einer begehbaren, temporären Skulptur einer Künstlerin, in und vor dem südlichen Wintergarten der Pinakothek der Moderne (Barer Str. 40 / Türkenstr. 15-17)
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Antwortschreiben Mash&Heal
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Oktoberfest 2025, Plätze in Ratsboxe Schottenhamel | 30.06.25
+- TOP 1.2.: Anhörungsschreiben, Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
