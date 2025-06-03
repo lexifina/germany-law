@@ -1,0 +1,51 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-03T16:00:00+02:00
+- Ende: 2025-06-03T20:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27587
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27587
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00554705.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Berichte und Verwaltungsvorlagen
+- TOP 3.1: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2024 für den Stadtbezirk 2 - mündlicher Bericht zu dem Beschluss der Bezirksvertretung 2, Vorlage BV2/044/2025 - zur Kenntnis genommen
+- TOP 3.2: Flächennutzungsplanänderung Nr. 209 (Entwurf) - Südöstlich Werdener Straße - Empfehlung mehrheitlich beschlossen
+- TOP 3.3: Bebauungsplan-Entwurf Nr. 02/018 - Werdener Straße/Erkrather Straße (ehem. B8-Center) - abweichend beschlossen
+- TOP 3.4: Bebauungsplan-Entwurf Nr. 02/014 - zwischen Hellweg und Benzstraße - Empfehlung einstimmig beschlossen
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7: Zwischenbericht RAT/414/2024 "Stadtverträglichkeit sicherstellen – Hilfenetz anpassen: Integriertes Konzept für die stadtverträgliche Weiterentwicklung der Sucht- und Obdachlosenhilfe in Düsseldorf" - zur Kenntnis genommen
+- TOP 3.8: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag Parklife - einstimmig beschlossen
+- TOP 3.9: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag der Filmwerkstatt für Flingern-Lichtspiele 2025 - einstimmig beschlossen
+- TOP 3.10: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag Wohnen mit Kindern e.V. - einstimmig beschlossen
+- TOP 3.11: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag für das Projekt „24 Stunden und 40 Jahre“ - mehrheitlich beschlossen
+- TOP 3.12: Errichtung der Mobilitätsstation Wehrhahn S im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-NSM) - einstimmig beschlossen
+- TOP 3.13: Errichtung der Fahrradstation Lindenstraße - einstimmig beschlossen
+- TOP 4: Anträge
+- TOP 4.1: barrierefreie Parkplätze mit Elektro-Lademöglichkeit - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 4.2: Jahresprojekt “Mal mit fertig!” - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 4.3: Fahrradständer auf der Gerresheimer Straße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Schulwegsicherheit Grafental - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 5.2: Clan-Kriminalität und häusliche Gewalt im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Quartiersgaragen in Neubauprojekten - Anfrage der CDU-Fraktion - vertagt
+- TOP 5.7: Verwendung der Stellplatzablösemittel - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6: Anfragen zur aktuellen Sitzung
+- TOP 6.1: Auslastung der Fahrradgaragen im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.2: Sozialstruktur der Mieter auf der Kiefernstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Weiteres Vorgegen bei der Umgestaltung der Skateranlage Stadtwerkepark und des Lindenplatzes - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.5: Instandsetzung des Fußwegs auf der Cranachbrücke - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Ampel Engerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/043/2025 - zur Kenntnis genommen
