@@ -1,0 +1,52 @@
+# 36. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-03T17:00:00+02:00
+- Ende: 2025-06-03T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14111
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14111
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00570992.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gem. § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Vorstellung Ergebnisse der Stadtklimaanalyse - zur Kenntnis genommen
+- TOP 3.2: Rechtliche Rahmenbedingungen für die Einrichtung einer Tempo-30-Zone - zur Kenntnis genommen
+- TOP 3.3: Sachstandsbericht Schließung Städtische Kita Edelbach - zur Kenntnis genommen
+- TOP 3.4: Sachstandsbericht Sporthalle Grundschule West - zur Kenntnis genommen
+- TOP 3.5: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - zur Kenntnis genommen
+- TOP 3.6: Vernachlässigter Wohnungsbestand des Immobilienfonds d.i.i. 41. Bestand A GmbH in Münster-Coerde - zur Kenntnis genommen
+- TOP 3.7: Anhörungsbeschlüsse der letzten Sitzung/en - zur Kenntnis genommen
+- TOP 4: Anhörungen
+- TOP 4.1: Bebauungsplan Nr. 576 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 4.2: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - einstimmig geändert beschlossen
+- TOP 4.3: Umgestaltung des Hessenwegs - mehrheitlich beschlossen
+- TOP 4.4: Schulentwicklungsplan 2025 - einstimmig geändert beschlossen
+- TOP 4.5: Entwicklungen im Modellprojekt "intensivpädagogische Gruppen" - einstimmig abgelehnt
+- TOP 4.6: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung östlich Sprakeler Straße im Stadtteil Sprakel, Bezirk Nord - einstimmig beschlossen
+- TOP 4.7: Kinderrechte & Spielplätze – Maßnahmenvorschläge zum Antrag "QR-Codes auf Spielplätzen - Stärken wir den Kinderschutz in sozialen Netzwerken!" - einstimmig beschlossen
+- TOP 4.8: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 4.9: Budget zum Ausbau und Erhalt der Sportstätteninfrastruktur (ohne Turn- und Sporthallen sowie Großinvestitionen, z.B. Verlagerung von Sportanlagen), Maßnahmen Teil 2 in 2025 - einstimmig beschlossen
+- TOP 4.10: Vorschlag für ein Handlungsprogramm „Gesunde Stadt Münster“ - Empfehlungen aus dem Projekt „Gesundheit in der nachhaltigen Stadt“ - einstimmig beschlossen
+- TOP 4.11: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - einstimmig beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Bestellung der stellvertretenden Schriftführung für die Sitzungen der Bezirksvertretung Münster-Nord - einstimmig beschlossen
+- TOP 5.2: Einrichtung eines Verfügungsfonds für Coerde – Coerdefonds - einstimmig beschlossen
+- TOP 5.3: Coermühle Wendehammer - B-Plan 210 - vertagt
+- TOP 6: Anregungen/Anträge
+- TOP 6.1: Mehr Bildungsgerechtigkeit schaffen - Maßnahmen aus dem INSEK Coerde zur frühkindlichen Bildung prioritär umsetzen - einstimmig beschlossen
+- TOP 6.2: Zuschuss Sommerfest AWO Coerde und Weihnachtsbeleuchtung Kinderhaus - einstimmig beschlossen
+- TOP 6.3: Digitales Parkraummanagement für E-Tretroller und E-Scooter - einstimmig beschlossen
+- TOP 6.4: Verkehrssicherung Spielplatz am Hamannplatz - einstimmig beschlossen
+- TOP 6.5: Lärmschutz an der Wilkinghege in Kinderhaus - einstimmig beschlossen
+- TOP 6.6: Freigabe der Grundstücke für eine Bebauung an der Grundschule in Sprakel - einstimmig beschlossen
+- TOP 6.7: Barrierefreier Ausbau Haltepunkt Sprakel - einstimmig beschlossen
+- TOP 6.8: Größere Mülleimer für den Spielplatz Hamannplatz in Coerde - einstimmig beschlossen
+- TOP 7: Verschiedenes
