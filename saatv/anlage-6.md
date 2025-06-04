@@ -66,13 +66,13 @@ Bezeichnung
 |  |
 |  | ----------1)Bei Mischungen mit mehr als 50 v. H. des Gewichtes an Saatgut von Getreide, Lupinen, Futtererbse, Ackerbohne, Wicken, Sojabohne oder Sonnenblume bis 30 kg. |
 3.2 Kennzeichnung
-    3.2.1 Bezeichnung
-    3.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
-    3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
-    3.2.4 Kennnummer
-    3.2.5 „Verschließung …“ (Monat, Jahr)
-    3.2.6 Füllmenge oder Stückzahl der Körner
-    3.2.7 die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A jedoch nur die Angaben nach § 29 Abs. 7 Satz 1 Nr. 1 und 3
-    3.2.8 bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
-    3.2.9 bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Abs. 1 Nr. 1
-    3.2.10 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen die Angaben nach § 33 Abs. 4.
+3.2.1 Bezeichnung
+3.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
+3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
+3.2.4 Kennnummer
+3.2.5 „Verschließung …“ (Monat, Jahr)
+3.2.6 Füllmenge oder Stückzahl der Körner
+3.2.7 die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A jedoch nur die Angaben nach § 29 Abs. 7 Satz 1 Nr. 1 und 3
+3.2.8 bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
+3.2.9 bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Absatz 3
+3.2.10 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen die Angaben nach § 33 Abs. 4.

@@ -144,7 +144,7 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  |  |  | Z-1, Z-2 | 85 | 20 | 16 | 98 | 1,0 | 0,5 | 0,3 |  |  | 0 | 0 | 5 | 1 000 |  |
 |  |
 | 3.2 | Gesundheitszustand |
-| 3.2.1 | Das Saatgut darf nicht von lebenden Schadinsekten befallen sein. Bei Saatgut von Ackerbohnen und Futtererbsen gilt 1 lebender Ackerbohnenkäfer oder Erbsenkäfer nicht als Befall. |
+| 3.2.1 | Das Saatgut darf nicht von lebenden Schadinsekten befallen sein. Bei Saatgut von großkörnigen Leguminosen gilt ein lebender Samenkäfer der Gattung Bruchus nicht als Befall. |
 | 3.2.2 | Das Saatgut darf nicht von lebenden Milben befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
 | 3.2.3 | Von Stengelälchen (Ditylenchus dipasaci), parasitischen Pilzen oder von parasitischen Bakterien darf Saatgut nicht in größerem Ausmaß befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt; bei Ackerbohne und Futtererbse ist ein größeres Ausmaß hinsichtlich des Befalls mit Stengelälchen gegeben, wenn in 300 Körnern mehr als 5 Stengelälchen nachgewiesen werden. |
 | 3.2.4 | Das Saatgut von Medicago sativa L. muss frei sein von Clavibacter michiganensis und von Ditylenchus dipsaci. |
@@ -181,7 +181,7 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  | Art | Kategorie (B = Basis- saatgut Z = Zertifi- ziertes Saatgut Z-1 = Zertifi- ziertes Saatgut erster Gene- ration Z-2 = Zertifi- ziertes Saatgut zweiter Gene- ration Z-3 = Zertifi- ziertes Saatgut dritter Gene- ration H = Handels- saatgut) | Mindest-keim-fähigkeit | Höchstge-haltanFeuchtig-keit | Technische Mindest-reinheit | Höchstbesatz mit anderen Pflanzenarten | GewichtdesProbenteilsfür diePrüfungnach den Spalten7 bis 13 | Sons-stige An-forde-rungen |
 |  | bezogenauf dasGewicht | in einem Probenteil nach Spalte 14 |
 |  | insge- samt | innerhalb der Menge nach Spalte 6 oder 7 |
-|  | Flughaferund Flug-hafer-bastarde | Seide | Hederich | AmpferaußerKleinemSauerampfer undStrand-ampfer | Acker-fuchs-schwanz | Taumel-lolch |
+|  | Flughaferund Flug-hafer-bastarde | Seide und Kreuzkraut | Hederich | AmpferaußerKleinemSauerampfer undStrand-ampfer | Acker-fuchs-schwanz | Taumel-lolch |
 |  |
 |  |
 |  | (v. H. der reinen Körner) | (v. H.) | (v. H. des Gewichts) | (v. H.) | (Körner) | (Körner) | (Körner) | (Körner) | (Körner) | (Körner) | (Körner) | (g) |  |
@@ -220,7 +220,7 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  | bei Raps, Sonnenblume | nur bis zu | 10 |  |  |  |  |  |  |  |  |  |
 |  |  | bei Rübsen, Weißem Senf | nur bis zu | 5 |  |  |  |  |  |  |  |  |  |
 |  | Sklerotien oder Bruchstücken von Sklerotien in einem Probenteil nach Spalte 14 befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt. |
-| 5.2.5 | Das Saatgut von Soja darf nur bis zu 15 v. H. der Körner mit dem Phomopsis-Komplex von Diaporthe caulivora und Diaporthe phaseolorum var. sojae befallen sein. |
+| 5.2.5 | Das Saatgut von Soja darf nur bis zu 15 Prozent der Körner mit dem Phomopsis-Komplex von Diaporthe caulivora und Diaporthe phaseolorum var. sojae befallen sein. Das Saatgut von Soja muss frei sein von Tobacco ringspot virus. |
 | 5.2.6 | Das Saatgut von Sonnenblumen muss frei sein von Plasmopara halstedii. |
 |  |  |  |  |  |  |  |  |  |
 | 6 | Rüben |  |  |  |  |  |  |

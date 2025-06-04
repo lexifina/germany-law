@@ -84,7 +84,6 @@
 |  | in der Blütezeit, weibliche Komponente | 0,1 | 0,3 |
 |  | in der Reifezeit | 0,1 | 0,1 |
 | 2.1.1.4 | bei frei abblühenden oder synthetischen Sorten von SorghumAnzahl Pflanzen je 150 m2 Fläche | 5 | 15 |
-
 2.1.2 Bei der Prüfung der Kolben von Hybridsorten von Mais darf der Anteil der Kolben, die den bei Zulassung der Sorte festgelegten Merkmalen nicht hinreichend entsprechen, hinsichtlich der Kornmerkmale 0,2 v. H. und hinsichtlich der Kolbenmerkmale 0,1 v. H. nicht übersteigen.
 2.2 Befruchtungslenkung bei Hybridsorten
 2.2.1 Im Feldbestand darf der Anteil der Pflanzen des mütterlichen Elternteils, die Pollen abgeben oder abgegeben haben, höchstens betragen:
@@ -123,7 +122,7 @@
 |  | Weidelgräser anderer Arten bei Weidelgras | 3 | 10 |  |
 |  | Weidelgräser und andere Sorten von Festulolium bei Festulolium | 3 | 10 |  |
 |  | Ampferarten (außer Kleiner Sauerampfer und Strandampfer) bei kleinkörnigen Leguminosen | 3 | 5 |  |
-3.1.2 Der Feldbestand darf keinen Besatz mit Seide, Kleewürger und Kreuzkraut aufweisen.
+3.1.2 Der Feldbestand darf keinen Besatz mit Seide und Kleewürger aufweisen.
 3.2 Gesundheitszustand
 3.2.1 Der Anteil der Pflanzen, die jeweils von folgenden Krankheiten befallen sind, darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens betragen:
 |  |  |  |  |

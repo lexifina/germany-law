@@ -19,7 +19,12 @@
   |  | Xanthomonas vesicatoria (ex Doidge) Vauterin et al. |
   |  | Pepino mosaic virus |
   |  | Potato spindle tuber viroid |
-1.4 Das Saatgut von Solanum lycopersicum L. wurde mittels geeigneter Methoden (zum Beispiel Extraktion durch Säure) gewonnen.
+1.4 Anstelle der in den Nummern 1.1 bis 1.3 genannten Anforderungen gelten für den Befall von Saatgut von Capsicum annuum L. und Solanum lycopersicum L. mit Tomato brown rugose fruit virus (ToBRFV) die folgenden Anforderungen:
+1.4.1 Das Saatgut stammt aus einem Land, das von seiner nationalen Pflanzenschutzorganisation nach den internationalen Standards für pflanzengesundheitliche Maßnahmen als frei von ToBRFV befunden wurde, oder
+1.4.2 bei Untersuchung einer durch den Probenehmer oder unter seiner Aufsicht gezogenen Saatgutprobe mit geeigneten molekularen Methoden wurde kein Befall mit ToBRFV festgestellt oder
+1.4.3 im Fall einer Saatgutpartie, die von bis zu 30 Mutterpflanzen stammt, wurden die Samen oder die Mutterpflanze dieser Samen durch die zuständige Behörde anhand einer repräsentativen Probe mit geeigneten molekularen Methoden getestet und dabei als frei von ToBRFV befunden.
+1.4.4 Die Anforderungen nach den Nummern 1.4.1 bis 1.4.3 gelten nicht für Saatgut von Capsicum annuum L., das zu einer Sorte gehört, die bekanntermaßen gegen ToBRFV resistent ist.
+1.5 Das Saatgut von Solanum lycopersicum L. wurde mittels geeigneter Methoden (zum Beispiel Extraktion durch Säure) gewonnen.
 2. Befall mit Insekten (entsprechend Anhang V Teil E der Durchführungsverordnung (EU) 2019/2072)
   Bei der visuellen Kontrolle einer repräsentativen Saatgutprobe wurden keine der in nachfolgender Tabelle je Pflanzenart genannten Insekten gefunden:
   | Pflanzenart | Insekten |
