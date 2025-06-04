@@ -1,0 +1,8 @@
+# TOP 4: Harbernusstraße, barrierefreier Ausbau der Haltestelle "Helpenstein"
+
+- Sitzung: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten (2025-06-04)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/254688
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/37080
