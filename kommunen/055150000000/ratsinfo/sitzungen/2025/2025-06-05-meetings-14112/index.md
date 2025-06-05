@@ -1,0 +1,74 @@
+# 35. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-05T17:00:00+02:00
+- Ende: 2025-06-05T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14112
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14112
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00571012.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Mobilfunk in Mecklenbeck verbessern - beantwortet
+- TOP 5: Berichte
+- TOP 5.1: Erweiterung der Gebäude der Handwerkskammer Münster - zur Kenntnis genommen
+- TOP 5.2: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - zur Kenntnis genommen
+- TOP 5.3: 133. FNP-Änderung - Bebauungsplan Nr. 648 - Entwürfe zur Veröffentlichung - zur Kenntnis genommen
+- TOP 5.4: 125. FNP-Änderung / VBP Nr. 638: Solarthermie- und Photovoltaik-Freiflächenanlage - Kenntnisnahme der Entwürfe zur Veröffentlichung - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung der stellvertretenden Schriftführung für die Sitzungen der Bezirksvertretung Münster-West - einstimmig beschlossen
+- TOP 6.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.3: Wiederwahl der Schiedsperson für den Bezirk 7 Münster-Nienberge - einstimmig beschlossen
+- TOP 6.4: Ramertsweg - Neubau der Fahrbahn im Zuge des Baus einer Regenwasserkanalisation - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: 1. Änderung des Bebauungsplans Nr. 579: Gievenbeck - Oxford-Quartier im Bereich des Simonsplatzes - mehrheitlich abgelehnt
+- TOP 7.1.1: Zukünftige Nutzung der Einfachsporthalle auf dem Oxfordgelände
+- TOP 7.2: 127. Änd. FNP - Änderung - Bebauungsplan Nr. 639 - Aufstellung - einstimmig beschlossen
+- TOP 7.3: Rüschhausweg/Von-Esmarch-Straße - Gievenbeck Mitte, Umgestaltung des öffentlichen Raumes - einstimmig beschlossen
+- TOP 7.3.1: Verkehrslenkende Maßnahmen auf dem Rüschhausweg - beantwortet
+- TOP 7.4: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - einstimmig beschlossen
+- TOP 7.5: Veloroute 5 Nottuln – Münster: Fahrradstraßen Waldeyerstraße und Schmeddingstraße - mehrheitlich geändert beschlossen
+- TOP 7.5.1: Ertüchtigung der Schmeddingstraße - beantwortet
+- TOP 7.5.2: Kreuzung Schmeddingstraße / Soetenkamp verkehrssicherer gestalten - beantwortet
+- TOP 7.6: Schulentwicklungsplan 2025 - mehrheitlich geändert beschlossen
+- TOP 7.7: Erweiterung der Mosaik-Schule in Münster zur Vierzügigkeit; - einstimmig beschlossen
+- TOP 7.7.1: Umwidmung des kombinierten Geh- und Radweges auf dem Schulgelände mit dualer Nutzungsmöglichkeit außerhalb der Unterrichtszeiten der Mosaikschule - beantwortet
+- TOP 7.8: Entwicklungen im Modellprojekt "intensivpädagogische Gruppen" - einstimmig beschlossen
+- TOP 7.9: Errichtungsbeschluss: Errichtung einer 2-Gruppen Kindertageseinrichtung in der Niels-Stensen-Straße, als Ersatzstandort im Bereich Sentrup. - einstimmig beschlossen
+- TOP 7.10: Überleitung der außerunterrichtlichen Angebote der Annette-von-Droste-Hülshoff-Schule Nienberge (OGS) - einstimmig beschlossen
+- TOP 7.11: Kinderrechte & Spielplätze – Maßnahmenvorschläge zum Antrag "QR-Codes auf Spielplätzen - Stärken wir den Kinderschutz in sozialen Netzwerken!" - einstimmig beschlossen
+- TOP 7.12: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 7.13: Neubau dauerhafter Flüchtlingseinrichtungen mit bis zu 50 Plätzen im Baugebiet Albachten-Ost und in Handorf im Baugebiet an der Hobbeltstraße - Errichtungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 7.14: Errichtung Erweiterungsneubau und Fertigbauklassen GSMW - einstimmig beschlossen
+- TOP 7.15: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - einstimmig geändert beschlossen
+- TOP 7.15.1: Spielplätze inklusiv und barrierefrei gestalten - gemeinsames Spielen für Kinder mit und ohne Behinderungen ermöglichen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Proberaum - Musikkorps der Freiwilligen Feuerwehr - eingebracht
+- TOP 8.2: Behindertenparkplatz vor dem MuM am Gescherweg 75 in Gievenbeck - eingebracht
+- TOP 8.3: Bildung ernst nehmen - Gesamtschule Münster-West Projektschule für selbstgesteuertes Lernen mit digitaler Unterstützung - eingebracht
+- TOP 8.4: Sportflächen für den wachsenden Stadtteil Gievenbeck einplanen - eingebracht
+- TOP 8.5: "Wiederbelebung" der Ortsmitte in Nienberge - Umgestaltung und Neuordnung der Plätze und Verkehrsflächen - eingebracht
+- TOP 8.6: DHL-Packstation für die Sentruper Höhe - eingebracht
+- TOP 8.7: Verdeutlichung des Parkverbots im Kreuzungsbereich Redigerstraße / Waldeyerstraße - eingebracht
+- TOP 8.8: Ortsmitte Sentruper Höhe - Bürgerbeteiligungsverfahren - eingebracht
+- TOP 8.9: Schulweg zur Theresienschule sicherer gestalten - eingebracht
+- TOP 8.10: Einrichtung einer adaptiven Beleuchtung des Fuß- und Radwegs zwischen Hafkhorst / Ripenhorst / Rockbusch zur neuen Ampelanlage an der Bahnunterführung Heroldstraße - eingebracht
+- TOP 8.11: Radwegeführung beim Übergang von der L551 in den Ort Albachten und durch den Ort verbessern - eingebracht
+- TOP 8.12: Kein Ausverkauf sozialer Infrastuktur - Schulgrundstück am Schürbusch soll Raum für Kinder und Jugenliche bleiben! - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Geschwindigkeit Dülmener Straße - Stellungnahme zur Kenntnis genommen
+- TOP 9.2: Tempolimit für Welsingheide - Stellungnahme zur Kenntnis genommen
+- TOP 9.3: Entwicklung ehem. Feuerwehrgerätehaus - Thieplatz (Roxel) - Stellungnahme zur Kenntnis genommen
+- TOP 9.4: Geschwindigkeitsmessung auf dem unteren Teil der Schmeddingstraße - Stellungnahme zur Kenntnis genommen
+- TOP 9.5: Kanal- und Straßenbau Waldeyerstraße: Schaffung von Kurzzeitparkmöglichkeiten - Stellungnahme zur Kenntnis genommen
+- TOP 10: Verschiedenes
