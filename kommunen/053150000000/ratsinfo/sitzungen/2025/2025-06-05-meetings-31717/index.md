@@ -1,0 +1,72 @@
+# 32. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-05T15:36:00+02:00
+- Ende: 2025-06-05T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31717
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31717
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.2.1: Bericht der Behindertenbeauftragten der Stadt Köln 02/2025 - Kenntnis genommen
+- TOP 2.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 2.3.1: Jahresbericht "Willkommen und Ankommen in Köln" 2024 - Kenntnis genommen
+- TOP 2.3.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2025 - Kenntnis genommen
+- TOP 2.3.3: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt vom 22.05.2025 (AN/0714/2025) betreffend "Einfache Sprache als Verwaltungsstandard" - Kenntnis genommen
+- TOP 2.3.4: Handlungsempfehlungen des Expert*innengremiums (Post)koloniales Erbe - Kenntnis genommen
+- TOP 2.3.5: Tätigkeitsbericht zum Integrationslots*innen-Projekt für das Jahr 2024 - Kenntnis genommen
+- TOP 2.3.6: Sachstände der Arbeitsgruppen des Kommunalen Integrationsmanagements (KIM) zu aktuellen rechtskreisübergreifenden Themen und Prozessen - Kenntnis genommen
+- TOP 2.3.7: Modellprojekt House of Resources in Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Neue Leitlinien zur Unterbringung und Unterstützung von Geflüchteten - geändert beschlossen
+- TOP -: mündlicher Änderungsantrag zu AN/0664/2025 der Fraktionen vom Bündnis 90/Die Grünen, SPD, Die Linke und Volt vom 05.06.2025 - ungeändert beschlossen
+- TOP 3.2: Chancengerechtigkeit auf dem Wohnungsmarkt – Handeln gegen rassistische Diskriminierung bei der Wohnungsvergabe - vertagt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Anpassung der Geschäftsordnung der Stadtarbeitsgemeinschaft Queerpolitik - ungeändert beschlossen
+- TOP 4.2: LSBTI-Förderprogramm: Freigabe und Verteilung der Mittel 2025 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Stärkung der Träger zur Umsetzung des Gewaltschutzkonzeptes in Einrichtungen für Geflüchtete - ungeändert empfohlen
+- TOP 5.2: Energetische Sanierung des Bürgerzentrums Deutz, Tempelstraße 41-43, 50679 Köln Baubeschluss - geändert beschlossen
+- TOP 5.3: Ombudsstelle für Geflüchtete: Verlängerung der Befristung der Stellen Ombudspersonen bis Ende 2026 und Bezuschussung einer 0,5 Stelle zur Kompetenzerweiterung bis Ende 2026 - ungeändert empfohlen
+- TOP 5.4: Bedarfsfeststellung zur städtischen Unterbringung Geflüchteter 2025 - 2026 - ohne Votum behandelt
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6.1: Bedarfsfeststellungs- und Mittelfreigabebeschluss zur Fortschreibung des Stadtentwicklungskonzeptes Wohnen - ungeändert empfohlen
+- TOP 7: Wohnen
+- TOP 7.1: Sachstand zum Modellprojekt "Housing First der Stadt Köln" und Fortführung ab 2025 - Kenntnis genommen
+- TOP 7.2: Neuer Kölner Mietspiegel 2025 - Kenntnis genommen
+- TOP 8: Arbeit
+- TOP 8.1: Jobcenter Köln
+- TOP 8.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Arbeitsmarktförderung
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Bezahlkarte für Geflüchtete - Mitteilung Sachstand - Kenntnis genommen
+- TOP 9.2: Jahresbericht der Ombudsstelle für Flüchtlinge 2024 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen aus früheren Sitzungen
+- TOP 10.1.1: Aktueller Sachstand Sanierung und Neubau der Sozialhäuser - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage zum aktuellen Stand Sanierung und Neubau der Sozialhäuser im Ausschuss für Soziales, Seniorinnen und Senioren vom 13.03.2025 - Kenntnis genommen
+- TOP 10.1.2: Unterstützung und Anerkennung von pflegenden Angehörigen - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren am 13.03.2025 (AN/0443/2025) betreffend "Unterstützung und Anerkennung von pflegenden Angehörigen - Kenntnis genommen
+- TOP 10.1.3: Beantwortung einer mündlichen Anfrage von RM Glashagen aus der Sitzung vom 13.03. betreffend TOP 3.1 "Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand" (AN/0248/2025) - Kenntnis genommen
+- TOP 10.2: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 10.2.1: Beantwortung der Anfrage der SPD-Fraktion zu "Reformansätze zur Modernisierung der Ausländerbehörde Köln"(AN/0362/2025) - Kenntnis genommen
+- TOP 10.2.2: Schriftliche Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Folgen aus dem Gewalthilfegesetz" - Kenntnis genommen
+- TOP 10.3: Aktuelle Anfragen und Beantwortungen
+- TOP 10.3.1: Maßnahmen zur Förderung sozial gemischter Stadtteile in Köln - vertagt
+- TOP 10.3.2: Kommunale Eingliederungsleistungen der Schuldnerberatung - vertagt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2024 - Kenntnis genommen
+- TOP 12.2: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 12.3: Auswertung der Kölner Bautätigkeitsstatistik 2024: Bauüberhang auf historischem Höchststand - Kenntnis genommen
+- TOP 12.4: Sachstand Einbürgerungsverfahren - Kenntnis genommen
