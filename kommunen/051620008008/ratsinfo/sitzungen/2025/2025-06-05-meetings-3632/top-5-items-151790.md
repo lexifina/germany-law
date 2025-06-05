@@ -1,0 +1,6 @@
+# TOP 5: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+
+- Sitzung: Verwaltungsrat (2025-06-05)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/151790
