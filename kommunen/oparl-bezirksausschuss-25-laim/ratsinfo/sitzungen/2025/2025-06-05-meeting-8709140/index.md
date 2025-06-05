@@ -1,0 +1,101 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-06-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8709140
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8709140
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Vorstellung Architektur U-Bahnhof Willibaldstraße
+- TOP B): Vorstellung der Gleisunterhaltsmaßnahmen in der Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Ossietzkystraße und des Sachstands der Tram-Westtangente
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.2.1.: Anliegen / Parken Schedelstr.
+- TOP 1.2.2.: Parken in der Burgkmairstraße
+- TOP 1.2.3.: Verkehrssituation Agricolastrasse, Ecke Gotthardstrasse bis Agnes-Bernauer-Strasse
+- TOP 1.2.4.: Anfrage zum Laimer Schlössl im Rahmen eines studentischen Ideenwettbewerbs
+- TOP 1.2.5.: Tauben
+- TOP 1.2.6.: Altglascontainer Zschockestraße
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Aufstellung einer Regenbogenbank am Laimer Würfel
+- TOP 2.2.: Nachhaltige und ansprechende Gestaltung der Laimer Umweltverbundröhre
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Diakonie - Jugendhilfe Oberbayern, Schulsozialarbeit an der Georg-Büchner-Realschule Condrobs e.V. Drogenprävention im September/Oktober 2025 3.240,00 Euro, Az.: 0262.0-25-0370
+- TOP 3.2.: (E) Stadtbezirksbudget Kirchenstiftung Fronleichnam Instandsetzung der Spielgeräte 11.141,01 Euro, Az.: 0262.0-25-0371
+- TOP 3.3.: (E) Stadtbezirksbudget CultureClouds e.V. Zirkuslust - barrierefreie Maßnahmen vom 09.06. - 31.10.2025 500,00 Euro, Az.: 0262.0-25-0372
+- TOP 3.4.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik Lied und Tanz e.V. Dachsanierung des Bayerwaldhauses vom 21.04.2025 - 10.05.2025 8.000,00 Euro, Az.: 0262.0-25-0366
+- TOP 3.5.: (E) Stadtbezirksbudget Familienzentrum Laim, Kinderschutzbund München e.V. Stadtteil-Spielfest des Regsam FAK Kinder/Jugend/Familie Laim am 27.06.2025 1.000,00 Euro, Az.: 0262.0-25-0373
+- TOP 3.6.: (E) Stadtbezirksbudget Initiative "Eisenbahner-Colonien" Die "Eisenbahner-Colonien" in Laim - auf den Spuren einer Chronik von Juli 2025 - Mai 2026 5.700,00 Euro, Az.: 0262.0-25-0374
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 07.05.25: Anwohner-Straßenfest Lanzstr. 15 / Ecke Camerloherstr. 91; am: Sa 21.06.2025 (Ersatz: 05.07.25), Uhrzeit: 15:00 - 22:00 (Live Musik bis 22:00 Uhr)
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.05.25: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 13.05.25: Anhörung personenbezogener Sonderparkplatz im Bereich Rilkestr. 11
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 24.04.25: Anhörung personenbezogener Sonderparkplatz im Bereich Einmündung Senftenauerstr./Haslangstr.
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Meister-Mathis-Weg 6, Grundstück: 374/12-Laim Neubau eines Elfparteienhauses mit Tiefgarage
+- TOP 6: Sonstiges
+- TOP 6.1.: BA 25 Sitzung statt 03.07.25 am 02.07.25
+- TOP 6.2.: BA-Sitzungstermine 2026
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Bau vom 30.04.25
+- TOP 7.2.: Protokoll UA Umwelt, Klima und Baumschutz vom 05.05.25
+- TOP 7.3.: BA-Sitzung vom 08.05.25
+- TOP 7.4.: Protokoll UA Bildung und Gesundheit vom 29.04.25
+- TOP 7.5.: Protokoll UA Mobilität vom 29.04.25
+- TOP 7.6.: Protokoll UA Kultur vom 08.05.25
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 29.04.25: Antrag auf Fortführung einer Gaststätte, Agnes-Bernauer-Str. 21
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 07.05.25: Bez. 25, GA Hans-Thonauer-Straße: Ausnahmegenehmigung für Condrobs e.V. - hier: mobile Spielangebote für Kinder- und Jugendliche
+- TOP 8.3.: Schreiben Direktorium vom 07.05.25: Austausch zum Rahmenkonzept Kinder-/Jugendpartizipation - Protokoll
+- TOP 8.4.: Antwortschreiben Mobilitätsreferat vom 28.04.25 und 30.04.25: Stau Landsberger Straße
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 29.04.25: Verkehrsrechtliche Anordnungen für Carsharing / Mobillitätspunkte / GAF´s im Stadtbezirk 25 (Laim)
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 24.04.25: Fürstenrieder Str._ABS_Bph. 6.1.3_U 01096_25_Änd._U_01038_25_SWM_Ost_Abdruck_komplett
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 24.04.25: Fürstenrieder Str._ Bph.5.2 Bereich GOT mit Übergang zu Bph. 5 _U_01098_25_SWM_Ost_Abdruck_komplett
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 25.04.25: Fürstenrieder Str._Bph.5.2 Bereich GOT_U_01098_25_Änderung_U_01106_25_SWM_Ost_Abdruck_komplett
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 25.04.25: Fürstenrieder Str._ABS_Bph. 6.2_U 01102_25_SWM_Ost_Abdruck_komplett
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 29.04.25: Fürstenrieder Str._ABS_Bph. 6.1.3_U 01163_25_VL_SWM - Abdruck
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 30.04.25: Fürstenrieder Str._AIN-GOT Bph 5.1.2+5.1_Verlängerung_U 01187_25_SWM_Wei - Abdruck
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 06.05.25 und 07.05.25: Fürstenrieder Str._ABS_Bph.6.2_Änderung_U 01277_25_SWM_VAO komplett Abdruck
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 29.04.25: Bescheid VA Gotthardstr. vom 07.05. bis 06.06.2025 (U 01149/25; BPh320.2; Öffnung Willibaldstr.)
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 06.05.25: Reindlstr. 47 (Laim) Aufhebung personenbezogener Sonderparkplatz für Menschen mit Schwerbehinderung z.K.
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 16.05.25: Situation vor Lokal an der Fürstenrieder Str. 26
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 12.05.25: Die Laimer Röhre endlich verkehrssicher für Fussgänger
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 09.05.25: Fürstenrieder Str. AMM Bph. 5.1_U 01355_25_SWM_VAO komplett Abdruck und Fürstenrieder Str. AMM - MHB Bph. 5.1+1.4_U 01356_25_SWM_VAO komplett Abdruck
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 14.05.25: Fürstenrieder Str._SAH-AIN_6.1 Kreuzung+6.3 Strecke_U 01417_25_SWM und Fürstenrieder Str._AIN-GOT Bph 5.2_3. Änderung_U_01418_25_SWM - VAO Abdruck
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 09.05.25: Bescheid VA Gotthardstr. vom 20.05. bis 30.06.2025 (U 01372/25; BPh350 Ost und West)
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 16.05.25: Stefan-Zweig-Weg_u_Dauthendeystr_Bph_1.3.1_u_1.3.3_ U_0146825_SWM_Abdruck_komplett
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 19.05.25: Fürstenrieder Str. LAK - ABS Bph. 5.3.4_U 01485_25_SWM_VAO komplett Abdruck
+- TOP 8.22.: Antwortschreiben PI 41 vom 02.05.25: Anliegen Geschwindigkeitsbegrenzung und Blitzer Landsberger Str
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.04.25: 2. Stammstrecke, 26. Planänderung PFA 1, UVR Laim
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.05.25: Tram-Westtangente, PFA 1, Tektur P
+- TOP 8.25.: Bautenliste 28.04.-04.05.25: A) Erstantragsverfahren 1. Dichtlstr. 9
+- TOP 8.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.05.25: Tram-Westtangente, PFA 1, Tektur P
+- TOP 8.27.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.05.25: Fällungsantrag Flotowstr. 21
+- TOP 8.28.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.05.25: Fällungsantrag Perhamerstr. 6
+- TOP 8.29.: Schreiben Baureferat vom 23.04.25: Laim Vorschlag Boul und Fitness Option
+- TOP 8.30.: Antwortschreiben AWM vom 06.05.25: Tonnenleerung, Standort Geyerspergerstr. 3
+- TOP 8.31.: Schreiben AWM vom 16.05.25: Wertstoffinsel Friedenheimer Str.
+- TOP 8.32.: Schreiben SWM vom 22.04.25: Baumaßnahmen
+- TOP 8.33.: Schreiben SWM vom 06.05.25: Baumaßnahmen
+- TOP 8.34.: Schreiben Direktorium vom 28.04.25 und 09.05.25: Verwendungsnachweise
+- TOP 8.35.: Beschluss der Vollversammlung vom 30.04.25: Münchner Wohnen GmbH Standard- und Baukostenreduzierung im Wohnungsbau Ergebnisse aus dem Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau
+- TOP 8.36.: Beschluss des Ausschusses für Klima- und Umweltschutz vom 20.05.25: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Klärung und Verbesserung der Verkehrsbeschilderung an der Kreuzung Agnes-Bernauer-Str. und Lautensackstr. (Weiterleitung an Mobilitätsreferat)
+- TOP 9.2.: Rushaimerstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.3.: Baustelle Fürstenrieder Straße (Weiterleitung an Mobilitätsreferat und Stadtwerke)
+- TOP 9.4.: Wertstoffcontainer Fröbelplatz (Weiterleitung an Stadtverwaltung)
+- TOP 9.5.: Neubau Gatterburgstr. 8 (Weiterleitung an Stadtverwaltung)
+- TOP 9.6.: Wasserversorgung München (Weiterleitung an Stadtwerke)
+- TOP 9.7.: Gehwegparken (Antwortschreiben durch BA-Vorsitzenden)
+- TOP 9.8.: Fragen bezüglich Parklizenzgebiet (Antwort BA-Vorsitzender an das Mobilitätsreferat)
+- TOP 1.4: Gemeinsame Stellungnahme der Fraktionen von SPD und CSU/FDP im Bezirksausschuss Laim zum Gehwegparken in Laim
+- TOP 1.4.1.: (N) - Gemeinsame Stellungnahme der Fraktionen von SPD und CSU/FDP im Bezirksausschuss Laim zum Gehwegparken in Laim
