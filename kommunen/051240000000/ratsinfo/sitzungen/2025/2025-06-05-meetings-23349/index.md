@@ -1,0 +1,58 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Uellendahl-Katernberg
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-06-05T18:31:00+02:00
+- Ende: 2025-06-05T20:35:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23349
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23349
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00349303.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00350100.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Wuppertaler Jugendrat
+- TOP 3: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 4: Bürgerantrag § 24 GO NRW - Parksituation untere Bremer Straße - ungeändert beschlossen
+- TOP 5: Bürgerantrag § 24 GO NRW Umwandlung der Kruppstraße in einen verkehrsberuhigten Bereich - ungeändert beschlossen
+- TOP 6: GS Kurt-Schumacher-Straße - Einrichtung Elternhaltestellen sowie Walkingbus-Haltestelle - ungeändert beschlossen
+- TOP 7: GS Kurt-Schumacher-Straße - Einrichtung Elternhaltestellen - ungeändert beschlossen
+- TOP 8: Bürgerantrag § 24 GO NRW Kurt-Schumacher-Straße Einrichtung Verkehrsberuhigter Bereich - ungeändert beschlossen
+- TOP 9: Neuregelungen der StVO und VwV zu Geschwindigkeitsbeschränkungen (Tempo 30) - Entgegennahme ohne Beschluss
+- TOP 10: Einrichtung einer Tempo-30-Strecke auf der Höhenstraße - ungeändert beschlossen
+- TOP 11: Einbahnstraße Teschemacherstraße für Radverkehr - Antrag des Bürgervereins Uellendahl e.V. - ungeändert beschlossen
+- TOP 12: Planungsaufnahme zur Fußverkehrsoptimierung Nüller Straße - ungeändert beschlossen
+- TOP 13: Radwegeverbindung Nordbahntrasse - Otto-Hausmann-Ring - ungeändert beschlossen
+- TOP 14: Umrüstung der Flutlichtanlage auf der Bezirkssportanlage Uellendahl, Paul-Loebe-Str. 20, 42109 Wuppertal auf LED-Beleuchtung - ungeändert beschlossen
+- TOP 15: Umwandlung des Tennenplatzes auf der Bezirkssportanlage Uellendahl in einen Kunstrasenplatz der neuesten Generation - ungeändert beschlossen
+- TOP 16: Sanierungsmaßnahme Vogelsangstraße - ungeändert beschlossen
+- TOP 17: Finanzierung der Instandsetzungsmaßnahme Vogelsangstraße - ungeändert beschlossen
+- TOP 18: Instandsetzungsmaßnahme Nevigeser Straße (unterer Teil) - ungeändert beschlossen
+- TOP 19: Straßensanierungsmaßnahme "Nevigeser Straße" in Richtung Neviges - geändert beschlossen
+- TOP 20: Sanierungsmaßnahme Westfalenweg - geändert beschlossen
+- TOP 21: 149. Flächennutzungsplanänderung - Nahversorgungszentrum Uellendahl - - Veröffentlichungsbeschluss - - ungeändert beschlossen
+- TOP 22: Bebauungsplan 1270 - Nahversorgungszentrum Uellendahl - - Veröffentlichungsbeschluss - Bebauungsplan 775-Kreuzung Weinberg / Uellendahler Str. /Röttgen -Aufstellungs- und Veröffentlichungsbeschluss zu Teilaufhebung des N - ungeändert beschlossen
+- TOP 23: Bebauungsplan 167 / 167 A - In der Beek / In den Birken / Katernberger Schulweg - - ungeändert beschlossen
+- TOP 24: Bebauungsplan 1021/1 - Uellendahler Straße / Am Haken - - ungeändert beschlossen
+- TOP 25: Bebauungsplan 805 B West - Uellendahler Straße / Am Flöthen - - ungeändert beschlossen
+- TOP 26: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2025 - ungeändert beschlossen
+- TOP 27: Ersteinrichtung offener Ganztag - ungeändert beschlossen
+- TOP 28: Überarbeitung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 29: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027 - ungeändert beschlossen
+- TOP 30: „Wuppertaler Klimagipfel“ – Klimafreundlicher Grünraumverbund im Wuppertaler Norden
+- TOP 31: Vermarktung von städtischen Grundstücken zu Wohnbauzwecken an der Hans-Böckler-Straße - Entgegennahme ohne Beschluss
+- TOP 32: Sachstand zum Konzept öffentliche Toiletten - Entgegennahme ohne Beschluss
+- TOP 33: Gestaltung der Mauer am Briller Kreuz Hochstraße / Briller Straße - Entgegennahme ohne Beschluss
+- TOP 34: Anträge bzw. Anfragen von Fraktionen oder Mitgliedern der Bezirksvertretung
+- TOP 34.1: Verbesserung des Gehweges „In den Birken“ ab Katernberger Schulweg bis zur Kreuzung „Aprather Weg“ - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 34.2: Einrichtung der Kruppstraße als Schulstraße - Große Anfrage der Fraktion Bündnis 90/Grüne - Entgegennahme ohne Beschluss
+- TOP 34.2.1: Große Anfrage Einrichtung der Kruppstraße als Schulstraße - Entgegennahme ohne Beschluss
+- TOP 34.3: Sachstand Wohnbebauung August-Jung-Weg - Große Anfrage Fraktion Bündnis 90/Grüne - Entgegennahme ohne Beschluss
+- TOP 34.3.1: Sachstand Wohnbebauung August-Jung-Weg - Entgegennahme ohne Beschluss
+- TOP 35: Verwendung von freien Mitteln der Bezirksvertretung - ungeändert beschlossen
+- TOP 36: Verwendung von GFG Mitteln der Bezirksvertretung - ungeändert beschlossen
+- TOP 37: Verwendung von quotierten Mitteln der Bezirksvertretung - ungeändert beschlossen
