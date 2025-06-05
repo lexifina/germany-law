@@ -1,0 +1,71 @@
+# Verwaltungsrat
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-06-05T18:30:00+02:00
+- Ende: 2025-06-05T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3632
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3632
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 14.05.2025
+- TOP 3.1: Verkehrssicherheit durch neue Beschilderung „Zur Waldwiese", Neuenhausener Straße, "Auf der Schanze" erhöhen - mehrheitlich beschlossen
+- TOP 3.2: Betriebliche und wirtschaftliche Optimierung der Linie 870 Jüchen - Neuss - einstimmig beschlossen
+- TOP 3.3: Verkehrsberuhigende Maßnahmen in Form von 30er-Markierungen sowie Smiley-Anlagen einrichten - einstimmig beschlossen
+- TOP 4: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 13.05.2025
+- TOP 4.1: Gestaltung der Grünflächen durch Zwiebelpflanzungen - einstimmig beschlossen
+- TOP 4.2: Baumpflanzungen auf Schulhöfen und im Außenbereich der Kindergärten im Stadtgebiet Grevenboich - einstimmig beschlossen
+- TOP 4.3: Einführung teilanonymisierter Bestattungsformen auf dem Friedhof Hülchrath ermöglichen - einstimmig beschlossen
+- TOP 5: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 5.1: Beleuchtung im Bereich der Wechselausstellung im Museum der niederrheinischen Seele Villa Erckens (Antrag Nr.:08/2025) - einstimmig beschlossen
+- TOP 5.2: Antrag-Prüfauftrag: Pflege/ Baumschnitt des Bahndamms an der Straße „Alte Stadtgärtnerei“ in Laach - Kenntnisnahme
+- TOP 5.3: Antrag: Prüfauftrag Verkehrssicherheit aufgrund von Wasserlachen / Pfützenbildung auf der Straße „Auf der Metzenheide“ in Münchrath - Kenntnisnahme
+- TOP 5.4: Erhaltungszustand der Kunst im öffentlichen Raum regelmäßig überprüfen - Kenntnisnahme
+- TOP 6: Schriftliche Anträge
+- TOP 6.1: Anträge der SPD-Fraktion
+- TOP 6.1.1: Prüfung von Sicherheits- und Präventionsmaßnahmen auf dem Friedhof in Allrath - einstimmig beschlossen
+- TOP 6.1.2: Neukonzeption der Grünfläche an der Ecke Schlossstraße / Karl-Oberbach-Straße - einstimmig beschlossen
+- TOP 6.1.3: Sanierung des Kirmesplatzes im Stadtteil Orken - einstimmig beschlossen
+- TOP 6.2: Anträge der CDU-Fraktion
+- TOP 6.2.1: Erweiterung der Beleuchtung auf der Hoeninger Straße in Barrenstein - einstimmig beschlossen
+- TOP 6.2.2: Beleuchtung Fußweg zwischen Willibrodusstraße und Ahornstraße/Am Kleekamp in Neuenhausen - einstimmig beschlossen
+- TOP 6.2.3: Errichtung zweier zusätzlicher Straßenlaternen in der Gasse zwischen Kaster Straße und Unterbrucherstraße in Frimmersdorf - einstimmig beschlossen
+- TOP 6.2.4: Neubepflanzung der Streuobstwiese am Neubaugebiet Königslindenstraße in Neuenhausen - einstimmig beschlossen
+- TOP 6.2.5: Entfernung des Drängelgitters zum Friedhof in Frimmersdorf - einstimmig beschlossen
+- TOP 6.2.6: Errichtung eines Kolumbariums auf dem Friedhof in Frimmersdorf - einstimmig beschlossen
+- TOP 6.2.7: Errichtung eines „Gedenksteins“ am Rasenurnenfeld auf dem Friedhof in Frimmersdorf - einstimmig beschlossen
+- TOP 6.2.8: Prüfauftrag: Errichtung von Pollern auf Bürgersteig an Frankenstraße, Frimmersdorf, vor Hausnummern 25 bis 33 - einstimmig beschlossen
+- TOP 6.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 6.4: Anträge der FDP-Fraktion
+- TOP 6.4.1: Öffentliche Abfallbehälter vor der Eisdiele „Auf dem Wiler" in Gustorf - einstimmig beschlossen
+- TOP 6.4.2: Einführung eines Kolumbariums auf dem Friedhof Elsen - einstimmig beschlossen
+- TOP 6.4.3: Bürgerwald Grevenbroich - einstimmig beschlossen
+- TOP 6.4.4: Handlungsbedarf an der Holzbrücke beim Tiergehege - einstimmig beschlossen
+- TOP 6.4.5: „Kölner Teller“ an der Hülchrather Str. in Neukirchen überprüfen - von der Tagesordnung abgesetzt
+- TOP 6.4.6: Überweg von der Apotheke „Am Bahndamm“ zum gegenüberliegenden Supermarkt besser ermöglichen - einstimmig beschlossen
+- TOP 6.4.7: Bewusstsein schaffen - Parksituation „Am Bahndamm“ durch Piktogramme ergänzen - einstimmig beschlossen
+- TOP 6.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 6.5.1: Kennzeichnung der Freifläche an der Ecke Bahnstr. / Graf-Kessel-Str. als Feuerwehrbewegungszone - einstimmig beschlossen
+- TOP 6.5.2: Grünfläche vor Edeka Neukrichen im Rahmen des Projektes "1000 Bäume für Grevenbroich" mit zusätzlichen Bäumen zu bepflanzen - einstimmig beschlossen
+- TOP 6.5.3: Fußwegherstellung Stadtteil Neukirchen / Unterdorf 47 bis L142 und Tempo 30 fortzuführen - einstimmig beschlossen
+- TOP 6.5.4: zusätzliche Müllbehälter im Stadtteil Neukirchen - einstimmig beschlossen
+- TOP 6.6: Anträge der UWG-Fraktion
+- TOP 6.6.1: Umbesetzung des Beirat Bauen - einstimmig beschlossen
+- TOP 6.7: Gemeinschaftsanträge
+- TOP 7: Schriftliche Anfragen
+- TOP 7.1: Anfragen der Fraktion Mein Grevenbroich
+- TOP 7.1.1: Waldwiese-Bendplatz-Neugestaltung Weg - Kenntnisnahme
+- TOP 7.1.2: Bestattung von wohnungslosen Gevenbroicher Bürger:innnen - Kenntnisnahme
+- TOP 7.1.3: Baum- und Grünflächenkataster / Pflege von Bepflanzungen im Stadtgebiet - Kenntnisnahme
+- TOP 7.1.4: Abschluss der Sanierungsarbeiten am Auerbachhaus - Kenntnisnahme
+- TOP 7.1.5: Sachstand Ausbau barrierefreie Bushaltestellen - Kenntnisnahme
+- TOP 7.1.6: "Kraftraum-shuttle" - Kenntnisnahme
+- TOP 8: Anfragen von Verwaltungsratsmitgliedern
+- TOP 9: Mitteilungen des Vorstandes
+- TOP 10: Mitteilungen des Verwaltungsratsvorsitzenden
