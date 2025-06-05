@@ -1,0 +1,8 @@
+# TOP 8: Fortschreibung der Neuordnung des Verfahrens zur Finanzierung von Maßnahmen der Jugendhilfe im Strafverfahren
+
+- Sitzung: 11. Sitzung des Jugendhilfeausschusses (2025-06-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/220461
+- Ergebnis: 1. Lesung abgeschlossen
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/65262
