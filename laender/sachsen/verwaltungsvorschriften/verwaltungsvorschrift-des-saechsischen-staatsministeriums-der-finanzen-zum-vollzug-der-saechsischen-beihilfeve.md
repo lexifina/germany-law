@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-11-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16881.5
+- Datum: 2025-06-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16881.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-15.11.2024
+06.06.2025
 bis
-05.06.2025
+30.06.2025
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung 
 
@@ -80,9 +80,17 @@ Eine lückenlose Erstattung jeglicher Aufwendungen durch die Beihilfe wird somit
 
 Der beihilferechtliche Krankheitsbegriff entspricht dem sozialversicherungsrechtlichen Krankheitsbegriff. Danach ist Krankheit ein regelwidriger, vom Leitbild des gesunden Menschen abweichender Zustand des Körpers oder des Geistes, der ärztlicher Behandlung bedarf oder – zugleich oder ausschließlich – Arbeitsunfähigkeit zur Folge hat. Jemand ist krank, wenn er in seiner Körperfunktion beeinträchtigt ist oder an einer anatomischen Abweichung leidet, die entstellend wirkt. Auf das subjektive Empfinden des Betroffenen kommt es hierbei nicht an; maßgeblich sind objektive Kriterien, insbesondere der allgemein anerkannte Stand der medizinischen Erkenntnisse (BVerwG, Beschluss vom 30. September 2011, 2 B 66/11). Eine Krankheit kann ausnahmsweise bereits dann vorliegen, wenn die auf Tatsachen gestützte konkrete Gefahr einer schwerwiegenden Gesundheitsschädigung besteht und die schädigenden Folgen, die im Falle des Ausbruchs der Krankheit einträten, so schwer sind, dass die Behandlungsbedürftigkeit bereits vor Realisierung der Gefahr zu bejahen ist, weil der betreffenden Person bei wertender Gesamtbetrachtung nicht zuzumuten ist, dem Geschehen seinen Lauf zu lassen und sich auf die Inanspruchnahme von Früherkennungsmaßnahmen zu beschränken (BVerwG, Urteil vom 28. September 2017, 5 C 10/16 zu einer vorsorglichen Brustdrüsenentfernung, wobei ein regelwidriger Körperzustand nicht allein aus dem Umstand des Bestehens einer Genmutation, sondern allenfalls aus einem signifikant erhöhten Risiko, an Brustkrebs zu erkranken, resultieren kann). Die Annahme einer Krankheit vor Realisierung der Gefahr ist an hohe Voraussetzungen geknüpft, wobei dem individuellen Lebenszeitrisiko eine hohe Bedeutung beizumessen ist. Die Annahme einer Entstellung ist ebenfalls an hohe Voraussetzungen geknüpft. Hierfür genügt nicht jede körperliche Anomalität. Es muss sich objektiv um eine erhebliche Auffälligkeit handeln, die naheliegende Reaktionen der Mitmenschen wie Neugier oder Betroffenheit erzeugt und damit zugleich erwarten lässt, dass der Betroffene ständig viele Blicke auf sich zieht, zum Objekt besonderer Beachtung anderer wird und sich deshalb aus dem Leben der Gemeinschaft zurückzuziehen oder zu vereinsamen droht, so dass die Teilhabe am Leben in der Gesellschaft gefährdet ist. Die körperliche Auffälligkeit muss in einer solchen Ausprägung vorhanden sein, dass sie sich schon bei flüchtiger Begegnung in alltäglichen Situationen, quasi „im Vorbeigehen“, bemerkbar macht und zur als negativ empfundenen
 
-Fixierung des Interesses anderer auf den Betroffenen führt (OVG Hamburg, Beschluss vom 18. Februar 2009, 1 Bf 108/08.Z, verneint für „Ohrfehlstellung“; OVG Münster, Urteil vom 24. Januar 2011, 1 A 527/08, verneint für „Kleinwuchs“; OVG Koblenz, Beschluss vom 26. Mai 2015, 2 A 10335/15.OVG, verneint für „Brustanomalie“). Die Behandlungsbedürftigkeit ist ein Tatbestandsmerkmal des Krankheitsbegriffs, die ebenfalls erfüllt sein muss. Hieran fehlt es beispielsweise bei einer Chromosomenuntersuchung wegen einer genetischen Veränderung in Form einer balancierten Translokation, da diese die Veränderung des Chromosomensatzes unverändert lässt
+Fixierung des Interesses anderer auf den Betroffenen führt (OVG Hamburg, Beschluss vom 18. Februar 2009, 1 Bf 108/08.Z, verneint für „Ohrfehlstellung“; OVG Münster, Urteil vom 24. Januar 2011, 1 A 527/08, verneint für „Kleinwuchs“; OVG Koblenz, Beschluss vom 26. Mai 2015, 2 A 10335/15.OVG, verneint für „Brustanomalie“). Die Behandlungsbedürftigkeit ist ein Tatbestandsmerkmal des Krankheitsbegriffs, die ebenfalls erfüllt sein muss. Hieran fehlt es beispielsweise bei einer Chromosomenuntersuchung wegen einer genetischen Veränderung in Form
 
-(VGH Mannheim, Urteil vom 29. Juni 2017, 2 S 2014/16).
+einer balancierten Translokation, da diese die Veränderung des
+
+Chromosomensatzes unverändert lässt (VGH Mannheim, Urteil vom
+
+29. Juni 2017, 2 S 2014/16), oder bei medizinischen
+
+Maßnahmen zur Herbeiführung einer Schwangerschaft (vergleiche
+
+Nummer 45.1.1).
 
 
 1.1.3
@@ -104,7 +112,15 @@ Berufsrichter sind über die Verweisung in § 3 des
 
 Richtergesetzes des Freistaates Sachsen unter den gleichen Voraussetzungen wie Beamte beihilfeberechtigt. Die Beihilfeberechtigung nach § 80 Absatz 2 des
 
-Sächsischen Beamtengesetzes setzt grundsätzlich die Zahlung laufender Bezüge voraus. Aus diesem Grund sind Ehrenbeamte und ehrenamtliche Richter nicht beihilfeberechtigt.
+Sächsischen Beamtengesetzes setzt grundsätzlich die Zahlung laufender Bezüge voraus. Aus diesem Grund sind Ehrenbeamte und ehrenamtliche Richter nicht beihilfeberechtigt. Teilzeitbeschäftigten Beamten steht der
+
+Beihilfeanspruch in voller Höhe zu. Dies gilt auch bei teilbeurlaubten
+
+Professoren bei gemeinsamen Berufungen im sogenannten Aachener Modell
+
+(§ 63 Absatz 2 Satz 1 Nummer 1 Satz 2 des Sächsischen Hochschulgesetzes), solange diesen zumindest ein Teil der
+
+Besoldung gewährt wird.
 
 
 1.2.2
@@ -658,7 +674,7 @@ Die ausgeschlossene Thymustherapie einschließlich einer Behandlung mit Thymuspr
 4.3.12
 
 
-Ein genereller Ausschluss der Beihilfefähigkeit von Aufwendungen nach § 5 geht § 4 Absatz 3 Satz 2 vor. Nach § 5 ausgeschlossene Aufwendungen können daher nicht ausnahmsweise über die Härtefallklausel des § 4 Absatz 3 Satz 2 beihilfefähig sein (vergleiche § 5 Absatz 5).
+Ein genereller Ausschluss der Beihilfefähigkeit von Aufwendungen nach § 5 geht § 4 Absatz 3 Satz 2 vor. Nach § 5 ausgeschlossene Aufwendungen können daher nicht ausnahmsweise über die Härtefallklausel des § 4 Absatz 3 Satz 2 beihilfefähig sein (vergleiche § 5 Absatz 4).
 
 
 4.4
@@ -1031,6 +1047,12 @@ Nach der Leistungsbeschreibung handelt es sich nicht um Aufbaufüllungen (Nummer
 
 4.5.10.2.10
 
+Zu Nummer 2180
+Der Wortlaut der Leistungsbeschreibung von  Gebührennummer 2180 („plastisches Aufbaumaterial“) ist umfassend, so  dass hierunter grundsätzlich jedes plastisches Material – auch  Kompositkunststoff – fällt (AG Neukölln, Urteil vom  29. August 2011, 7 C 106/11). Für eine analoge  Abrechnung weiterer Gebührennummern (zum Beispiel Nummern 2120  oder 2150) liegen die Voraussetzungen des § 6 Absatz 1  der Gebührenordnung für Zahnärzte nicht vor (Urteil des VG Dresden  vom 17. Februar 2025, 11 K 1079/23).
+
+
+4.5.10.2.11
+
 
 Zu Nummer 2197
 
@@ -1059,7 +1081,7 @@ d)
 Die Leistung nach Nummer 2197 ist bei adhäsiver Befestigung der Wurzelfüllung neben der Leistung nach Nummer 2440 zusätzlich beihilfefähig.
 
 
-4.5.10.2.11
+4.5.10.2.12
 
 
 Zu Nummern 2260, 2270, 5120 und 5140
@@ -1068,7 +1090,7 @@ Zu Nummern 2260, 2270, 5120 und 5140
 Kosten für die labortechnische Herstellung provisorischer Kronen und Brücken sind im Zusammenhang mit den Leistungen nach den Nummern 2260, 2270, 5120 und 5140 nicht beihilfefähig, da die Anfertigung und Ausarbeitung des Provisoriums am Patientenstuhl ohne Modell und nicht im Labor erfolgt. Eine Beihilfefähigkeit der Kosten ist gegeben, wenn es sich um Langzeitprovisorien (Tragedauer ab drei Monaten) nach den Nummern 7080 und 7090 handelt.
 
 
-4.5.10.2.12
+4.5.10.2.13
 
 
 Zu Nummer 2390
@@ -1077,7 +1099,7 @@ Zu Nummer 2390
 Die Leistung nach Nummer 2390 ist nur als selbständige Leistung beihilfefähig (zum Beispiel im Rahmen einer Notfallbehandlung). Als Zugangsleistung zur Erbringung der Leistungen nach den Nummern 2360, 2410 und 2440 ist sie nicht beihilfefähig.
 
 
-4.5.10.2.13
+4.5.10.2.14
 
 
 Zu Nummer 2420
@@ -1086,7 +1108,7 @@ Zu Nummer 2420
 Die Leistung nach Nummer 2420 setzt ein spezielles elektrophysikalisch-chemisches Verfahren voraus (zum Beispiel Iontophorese, Depotphorese, Elektrophorese). Wird eine chemisch-physikalische Desinfektion des Wurzelkanals (auch mittels Ultraschall) durchgeführt, sind Aufwendungen für die Nummer 2420 nicht beihilfefähig.
 
 
-4.5.10.2.14
+4.5.10.2.15
 
 
 Zu Nummer 3050
@@ -1095,7 +1117,7 @@ Zu Nummer 3050
 Die Nummer 3050 ist im Rahmen der dentoalveolären Chirurgie gegebenenfalls als selbständige Leistung zusätzlich berechenbar und beihilfefähig, wenn die Blutung das typische Maß bei dem Eingriff deutlich übersteigt und eine Unterbrechung der eigentlichen operativen Maßnahme erfordert. In allen anderen Fällen sind Blutstillungsmaßnahmen (auch größeren Umfangs), die ortsgleich mit chirurgischen Leistungen erfolgen, Bestandteil der jeweiligen Hauptleistung. Die Leistung nach Nummer 3050 ist dann nicht gesondert beihilfefähig. Dies gilt auch für die chirurgischen Leistungen aus der Gebührenordnung für Ärzte, die für den Zahnarzt gemäß § 6 Absatz 2 der Gebührenordnung für Zahnärzte geöffnet sind.  
 
 
-4.5.10.2.15
+4.5.10.2.16
 
 
 Zu Nummer 3070
@@ -1104,7 +1126,7 @@ Zu Nummer 3070
 Eine Beihilfefähigkeit der Leistung ist nur als selbständige Leistung gegeben und nicht zusätzlich als notwendiger Leistungsbestandteil einer anderen, umfassenderen Leistung. Nicht beihilfefähig ist sie beispielsweise, wenn es sich um eine Zugangsleistung handelt oder um eine der eigentlichen Hauptleistung vorangehende oder nachgeschaltete Begleitverrichtung, die immer oder mit einer erkennbaren Regelmäßigkeit mit der Hauptleistung verknüpft ist.
 
 
-4.5.10.2.16
+4.5.10.2.17
 
 
 Zu Nummer 3100
@@ -1113,7 +1135,7 @@ Zu Nummer 3100
 Die Leistung bildet die im Rahmen einer Wundversorgung einschließlich einer erforderlichen Periostschlitzung auftretenden Eingriffe ab. Die Periostschlitzung ist dabei ein obligatorischer Leistungsteil. Ortsgleiche Eingriffe ohne Verlagerung von Weichgewebe sind jedoch mit den Gebühren für die operativen Leistungen abgegolten und nicht gesondert beihilfefähig. Die Leistung nach Nummer 3100 kann jedoch grundsätzlich neben anderen operativen Leistungen beihilfefähig sein.
 
 
-4.5.10.2.17
+4.5.10.2.18
 
 
 Zu Nummer 3230
@@ -1121,7 +1143,7 @@ Zu Nummer 3230
 Neben Extraktionen ist diese Leistung dann gesondert beihilfefähig, wenn die Resektion aufgrund eigenständiger Indikation (nicht zur oder durch die Zahnentfernung notwendig) mit einem separaten auf der Rechnung dokumentierten Operationszugang erbracht wurde und es sich insofern um eine selbständige Leistung handelt. Die eigenständige Indikation ist auf der Rechnung zu erläutern.
 
 
-4.5.10.2.18
+4.5.10.2.19
 
 
 Zu Nummer 3290
@@ -1130,7 +1152,7 @@ Zu Nummer 3290
 Die Leistung ist neben anderen Leistungen beihilfefähig, wenn diese nicht als unselbständige Teilleistung einer in der gleichen Sitzung anfallenden anderen, umfassenderen Leistung anzusehen ist.
 
 
-4.5.10.2.19
+4.5.10.2.20
 
 
 Zu Nummer 4000
@@ -1139,7 +1161,7 @@ Zu Nummer 4000
 Aufwendungen für den Ansatz eines erhöhten Steigerungsfaktors mit der Begründung, dass es mehrere Messstellen gab, sind nicht beihilfefähig. Mehrere Messstellen stellen in der Parodontaldiagnostik keine außergewöhnliche Leistung dar. Die Bayerische Landeszahnärztekammer gibt in einer Mitteilung im Bayerischen Zahnärzteblatt aus dem Jahr 1997 (BZB 1997, Heft 11/97, S. 28, 31) beispielsweise an, dass sechs bis sogar zehn Messpunkte für eine Diagnostik in Frage kommen können.
 
 
-4.5.10.2.20
+4.5.10.2.21
 
 
 Zu Nummer 4005
@@ -1148,7 +1170,7 @@ Zu Nummer 4005
 Die Leistungsbeschreibung umfasst die Erhebung mindestens eines Gingivalindex oder eines Parodontalindex. Die Durchführung eines weiteren diagnostischen Index ist durch die Leistung als solche bereits abgedeckt und kann nicht gesondert über einen erhöhten Steigerungssatz im Rahmen der Beihilfe berücksichtigt werden.
 
 
-4.5.10.2.21
+4.5.10.2.22
 
 
 Zu Nummer 4025
@@ -1157,7 +1179,7 @@ Zu Nummer 4025
 Die Leistung kann je Zahn und Sitzung nur einmal berücksichtigt werden.
 
 
-4.5.10.2.22
+4.5.10.2.23
 
 
 Zu Nummer 4110
@@ -1166,7 +1188,7 @@ Zu Nummer 4110
 Die Leistung ist neben der Leistung nach Nummer 4138, die die zusätzliche Verwendung einer Membran – bezogen auf die Behandlung eines Zahnes oder Implantates – zur Behandlung eines Knochendefektes abbildet, nicht beihilfefähig. Die Leistungen nach den Nummern 4110 und 4138 können auch im Rahmen von chirurgischen Behandlungen indiziert sein.
 
 
-4.5.10.2.23
+4.5.10.2.24
 
 
 Zu Nummer 5170
@@ -1175,14 +1197,14 @@ Zu Nummer 5170
 Aufwendungen für eine Gebühr nach Nummer 5170 sind regelmäßig nur im Zusammenhang mit prothetischen Leistungen (Abschnitt F des Gebührenverzeichnisses) beihilfefähig, wenn die in der Leistungsbeschreibung genannten qualifizierten Voraussetzungen vorliegen. Die Abformungen im Zusammenhang mit der Versorgung der Zähne mit Einlagefüllungen und Einzelkronen sind mit den Leistungen nach den Nummern 2150 bis 2170 und 2000 bis 2220 abgegolten (vergleiche 3. Berechnungsbestimmung nach Nummer 2220).
 
 
-4.5.10.2.24
+4.5.10.2.25
 
 
 Zu Nummer 5210
 Im Falle einer sattelfreien, rein parodontal abgestützten teleskopierenden Brücke – im Gegensatz zu einer Teleskopprothese – sind die Aufwendungen für die Nummer 5210 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte nicht zusätzlich zu den Nummern 5040 und 5070 beihilfefähig.  
 
 
-4.5.10.2.25
+4.5.10.2.26
 
 
 Zu Abschnitt G Kieferorthopädische Leistungen
@@ -1191,7 +1213,7 @@ Zu Abschnitt G Kieferorthopädische Leistungen
 Aufwendungen für Materialien, die auf Grund einer gesonderten Vereinbarung mit dem Beihilfeberechtigten nach den Allgemeinen Bestimmungen zu Abschnitt G berechnet werden, sind neben den Gebühren nach den Nummern 6100, 6120, 6140 oder 6150 nicht beihilfefähig (vergleiche § 14 Absatz 1 Satz 1 und Nummer 14.1.3). Die üblichen Materialien (Standardmaterialien) sind nach den Allgemeinen Bestimmungen zu Abschnitt G mit diesen Gebühren abgegolten.
 
 
-4.5.10.2.26
+4.5.10.2.27
 
 
 Zu Nummern 6100 und 6140
@@ -1202,7 +1224,7 @@ Maßnahmen zur Retention (dazu werden Lingualretainer eingesetzt) sind bereits i
 Zusätzliche Aufwendungen in analoger Anwendung der Nummern 6100 und 6140 sind nicht beihilfefähig (BVerwG, Urteil vom 26. Februar 2021, 5 C 7/19).
 
 
-4.5.10.2.27
+4.5.10.2.28
 
 
 Zu Nummer 6130
@@ -1211,7 +1233,7 @@ Zu Nummer 6130
 Die Aufwendungen für die Entfernung eines Bogens oder Teilbogens sind analog nach der Nummer 6130 beihilfefähig; der Ansatz der Nummer 2702 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte analog oder Nummer 2290 des Gebührenverzeichnisses zur Gebührenordnung für Zahnärzte (hierzu OVG Münster, Urteil vom 23. November 2018, 1 A 2596/16) ist dagegen nicht angemessen.  
 
 
-4.5.10.2.28
+4.5.10.2.29
 
 
 Zu Nummer 7000
@@ -1219,7 +1241,7 @@ Zu Nummer 7000
 
 Leistungen aus Abschnitt H betreffen die Eingliederung von Aufbissbehelfen und Schienen. Sie werden als Behandlungsgeräte zur Beseitigung von Funktionsstörungen oder bei Parodontalerkrankungen eingesetzt. Im Zusammenhang mit der kieferorthopädischen Therapie ist diese Position nicht beihilfefähig. 
 
-4.5.10.2.29
+4.5.10.2.30
 
 
 Zu Abschnitt J Funktionsanalytische und Funktionstherapeutische Leistungen
@@ -1243,7 +1265,7 @@ c)
 Funktionsanalytische und funktionstherapeutische Leistungen nach den Nummern 8000 ff. gehören bei kieferorthopädischen Behandlung zum Leistungsumfang; sie sind nicht gesondert beihilfefähig (VG Gelsenkirchen, Urteil vom 10. November 2006, 3 K 2335/05).
 
 
-4.5.10.2.30
+4.5.10.2.31
 
 Zu Nummern 9100, 9110, 9120, 9090
 
@@ -1252,7 +1274,7 @@ Neben der Nummer 9100 ist die Nummer 9090 nicht beihilfefähig. Neben den Nummer
 mit Eigenknochen im Bereich der Implantatschulter bei zeitgleicher Implantation oder beim Ausgleich von Knochendefiziten des Alveolarkamms mit Eigenknochen getrennt vom Bereich des Sinuslifts der Fall. Wird neben den Nummern 9110, 9120 die Nummer 9100 in Ansatz gebracht, ist eine Beihilfefähigkeit der Nummer 9090 in derselben Kieferhälfte nicht gegeben.
 
 
-4.5.10.2.31
+4.5.10.2.32
 
 
 Zu Nummer 9140
@@ -1261,7 +1283,7 @@ Zu Nummer 9140
 Die extraorale Entnahme von Knochen, zum Beispiel aus dem Beckenkamm oder der Schädelkalotte, ist im Gegensatz zur intraoralen Entnahme von Knochen (Nummer 9040) im Rahmen der Gebührenordnung für Ärzte beihilfefähig. Die intraorale Einbringung von Knochenmaterial ist im Rahmen der Gebühren für die Leistung nach Nummer 9100 und gegebenenfalls Nummer 9150 beihilfefähig.  
 
 
-4.5.10.2.32
+4.5.10.2.33
 
 
 Analogabrechnung gemäß § 6 Absatz 1 der Gebührenordnung für Zahnärzte
@@ -1302,7 +1324,17 @@ Aufwendungen für den Ansatz der Nummern 15, 30, 31 und 34 des Gebührenverzeich
 4.5.10.3.2
 
 
-Die Durchführung einer Digitalen Volumentomografie (DVT) ist nur als erweiterte Diagnostik zur Abklärung einer gegebenenfalls zweifelhaften Basisdiagnostik im Einzelfall notwendig. Es bedarf einer gesonderten Begründung des behandelnden Zahnarztes. Bei entsprechender Indikation kann für die DVT die Nummer 5370 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte als beihilfefähig anerkannt werden; die Zuschlagsposition Nummer 5377 des Gebührenverzeichnisses zur Gebührenordnung für Ärzte ist grundsätzlich nicht beihilfefähig. 
+Die Durchführung einer Digitalen Volumentomografie (DVT) ist nur als erweiterte Diagnostik zur Abklärung einer gegebenenfalls zweifelhaften Basisdiagnostik im Einzelfall notwendig. Es bedarf einer gesonderten Begründung des behandelnden Zahnarztes. Bei entsprechender Indikation kann für die DVT die
+
+Nummer 5370 des Gebührenverzeichnisses zur Gebührenordnung für
+
+Ärzte als beihilfefähig anerkannt werden; die Zuschlagsposition
+
+Nummer 5377 des Gebührenverzeichnisses zur Gebührenordnung für
+
+Ärzte ist grundsätzlich nicht beihilfefähig (so auch VG Dresden, Urteil
+
+vom 17. Februar 2025, 11 K 1079/23).
 
 4.5.10.3.3
 
@@ -1318,8 +1350,7 @@ Zu Absatz 6
 
 4.6.1
 
-
-Die beihilferechtliche Berücksichtigung von Pauschalabrechnungen nach Maßgabe eines Vertrages oder einer Vereinbarung von Krankenkassen nach dem Fünften Buch Sozialgesetzbuch, von Unternehmen privater Krankenversicherungen oder anderen Kostenträgern mit Leistungserbringern setzt voraus, dass in den Abrechnungsunterlagen in geeigneter Weise auf die vertragliche Vereinbarung Bezug genommen wird.  Kostenträger sind beispielsweise auch der Bund, die Länder, die Postbeamtenkrankenkasse oder die Krankenversorgung der Bundesbahnbeamten.  Die Rechnungen bedürfen keiner weiteren Prüfung durch die Festsetzungsstelle.  Die Pauschalbeträge können als beihilfefähig anerkannt werden.  Beispiele sind:
+Die beihilferechtliche Berücksichtigung von  Pauschalabrechnungen nach Maßgabe eines Vertrages oder einer  Vereinbarung von Krankenkassen nach dem Fünften Buch Sozialgesetzbuch,  von Unternehmen privater Krankenversicherungen oder anderen  Kostenträgern mit Leistungserbringern setzt voraus, dass in den  Abrechnungsunterlagen in geeigneter Weise auf die vertragliche  Vereinbarung Bezug genommen wird. Kostenträger sind beispielsweise auch  der Bund, die Länder, die Postbeamtenkrankenkasse oder die  Krankenversorgung der Bundesbahnbeamten. Die Rechnungen bedürfen keiner  weiteren Prüfung durch die Festsetzungsstelle. Die Pauschalbeträge  können als beihilfefähig anerkannt werden. Beispiele sind:
 
 
 a)
@@ -1334,26 +1365,91 @@ Kooperationsvereinbarung des PKV-Verbandes mit der Tele-Arzt-GmbH,
 
 c)
 
-Rahmenvereinbarung des PKV-Verbandes mit dem Universitätsklinikum Köln und Kooperationspartnern über die Implementierung von molekularer Diagnostik und personalisierter Therapie bei Lungenkrebs im Netzwerk Genomische Medizin (NGM),
+Rahmenvereinbarung des PKV-Verbandes mit dem
+
+Universitätsklinikum Köln und Kooperationspartnern über die
+
+Implementierung von molekularer Diagnostik und personalisierter Therapie
+
+bei Lungenkrebs im Netzwerk Genomische Medizin (NGM),
 
 
 d)
 
-Rahmenvereinbarung des PKV-Verbandes mit der LMU München über die Erbringung einer hochpräzisen MR-geführten Strahlentherapie mit MR-Linac,
+Rahmenvereinbarung des PKV-Verbandes mit der LMU
+
+München über die Erbringung einer hochpräzisen MR-geführten
+
+Strahlentherapie mit MR-Linac,
 
 
 e)
 
-Innovationspartnerschaft des PKV-Verbandes mit der Cepheid GmbH über den Einsatz des Testsystems GeneXpert® zur Schnelltestung von Infektionskrankheiten vor Ort in der Arztpraxis.
+Innovationspartnerschaft des PKV-Verbandes mit der
+
+Cepheid GmbH über den Einsatz des Testsystems GeneXpert® zur
+
+Schnelltestung von Infektionskrankheiten vor Ort in der Arztpraxis,
 
 
-Sofern ein Unternehmen der privaten Krankenversicherung unterschiedliche Tarifvereinbarungen mit dem Leistungserbringer abgeschlossen hat, gilt dies nur für den Bereich des Grundtarifs einschließlich wahlärztlicher Leistungen, der im Regelfall bereits die Unterbringung im Zweibettzimmer umfasst.
+f)
+
+Innovationspartnerschaft des PKV-Verbandes mit der nal
+
+van minden GmbH über den Einsatz des molekulardiagnostischen Testsystems
+
+NADAL® PCR Analyzer® zum molekularen Einzelnachweis einer viralen
+
+Erreger-RNA oder -DNA vor Ort in der Arztpraxis,
 
 
-Ausgewiesene Komforttarife, die ein besonderes Wahlleistungsangebot über den beihilfefähigen Umfang hinaus umfassen (zum Beispiel Einbettzimmer), beinhalten insoweit Leistungen, die nicht notwendig und wirtschaftlich angemessen und damit nicht beihilfefähig sind.
+g)
+
+Innovationspartnerschaft des PKV-Verbandes mit der
+
+Bosch Healthcare Solutions GmbH über den Einsatz des
+
+molekulardiagnostischen Testsystems Vivalytic® zum molekularen
+
+Einzelnachweis eines viralen oder bakteriellen Erregers durch ein
+
+patientennahes Real-Time-PCR und CE-zertifiziertes Point-of-Care-System
+
+vor Ort in der Arztpraxis,
 
 
-Bestehen Verträge mit verschiedenen Versicherungsunternehmen, ist vorrangig der Vertrag der Beihilfefestsetzung zu Grunde zu legen, der mit dem Unternehmen, bei dem der Beihilfeberechtigte versichert ist, abgeschlossen wurde. 
+h)
+
+PKV-Hybrid-DRG-Umsetzungsvereinbarungen zwischen dem
+
+Verband der Privaten Krankenversicherung e. V. und der Deutschen
+
+Krankenhausgesellschaft e. V. (siehe auch Nummer 8.6).
+
+
+Sofern ein Unternehmen der privaten Krankenversicherung
+
+unterschiedliche Tarifvereinbarungen mit dem Leistungserbringer
+
+abgeschlossen hat, gilt dies nur für den Bereich des Grundtarifs
+
+einschließlich wahlärztlicher Leistungen, der im Regelfall bereits die
+
+Unterbringung im Zweibettzimmer umfasst. Ausgewiesene Komforttarife, die
+
+ein besonderes Wahlleistungsangebot über den beihilfefähigen Umfang
+
+hinaus umfassen (zum Beispiel Einbettzimmer), beinhalten insoweit
+
+Leistungen, die nicht notwendig und wirtschaftlich angemessen und damit
+
+nicht beihilfefähig sind. Bestehen Verträge mit verschiedenen
+
+Versicherungsunternehmen, ist vorrangig der Vertrag der
+
+Beihilfefestsetzung zu Grunde zu legen, der mit dem Unternehmen, bei dem
+
+der Beihilfeberechtigte versichert ist, abgeschlossen wurde.
 
 4.6.2
 
@@ -1387,7 +1483,7 @@ Zu Absatz 7
 4.7.1
 
 
-Für aktive Beamte, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet oder zugewiesen sind (§ 4 Absatz 7), sind die bei einzelnen Paragraphen (zum Beispiel § 20 Absatz 4, § 32 Absatz 4, § 33 Absatz 2, § 35 Absatz 5, § 38 Absatz 4, § 44 Absatz 5) genannten Sonderregelungen zu beachten. Ein Kaufkraftausgleich wird nicht berücksichtigt. Der dienstliche Wohnsitz bestimmt sich nach § 64 Absatz 1 Satz 2 des Sächsischen Besoldungsgesetzes in Verbindung mit § 15 des Bundesbesoldungsgesetzes.  
+Für aktive Beamte, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet oder zugewiesen sind (§ 4 Absatz 7), sind die bei einzelnen Paragraphen (zum Beispiel § 20 Absatz 5, § 32 Absatz 4, § 33 Absatz 2, § 35 Absatz 5, § 38 Absatz 4, § 44 Absatz 5) genannten Sonderregelungen zu beachten. Ein Kaufkraftausgleich wird nicht berücksichtigt. Der dienstliche Wohnsitz bestimmt sich nach § 64 Absatz 1 Satz 2 des Sächsischen Besoldungsgesetzes in Verbindung mit § 15 des Bundesbesoldungsgesetzes.  
 
 
 4.8
@@ -1881,6 +1977,11 @@ Die Festsetzung der Beihilfe für ärztliche Bescheinigungen erfolgt nach Anwend
 
 Die Beihilfefähigkeit spezieller Therapieformen, die von Psychotherapeuten durchgeführt werden, richtet sich nach den §§ 16 bis 19.  Andere Leistungen sind nur in dem Maße beihilfefähig, wie sie nach der Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten, die hierzu auf die Abschnitte B und G des Gebührenverzeichnisses zur Gebührenordnung für Ärzte verweist, oder nach den Gemeinsamen Abrechnungsempfehlungen der Bundesärztekammer, der Bundespsychotherapeutenkammer, dem Verband der Privaten Krankenversicherung und den Beihilfeträgern von Bund und Ländern zur Erbringung neuer psychotherapeutischer Leistungen berechnungsfähig sind.
 
+8.6
+
+
+Durch das Krankenhauspflegeentlastungsgesetz (KHPflEG)  wurde zum 1. Januar 2024 die sektorengleiche Vergütung  (sogenannte Hybrid-DRG), die auf der Vorschrift des § 115f des  Fünften Buches Sozialgesetzbuch beruht, eingeführt. Es handelt sich  dabei um bestimmte operative Leistungen, die vormals in der Regel  (kurz-)stationär erbracht wurden und nun primär ambulant durchgeführt  werden sollen, wobei bei entsprechender medizinischer oder sozialer  Indikation auch weiterhin eine Behandlung mit anschließender  Übernachtung im Krankenhaus zulässig ist; dann handelt es sich um eine  stationäre Krankenhausbehandlung, deren Beihilfefähigkeit sich nach  § 20 richtet. Zur Erbringung spezieller sektorengleicher Leistungen   berechtigt sind neben Krankenhäusern insbesondere ambulante  Operationszentren, Praxiskliniken, medizinische Versorgungszentren sowie   die im Zusammenhang mit ambulanten Operationen zusammenwirkenden Ärzte.   Die Umsetzung dieser speziellen sektorengleichen Leistungen erfolgte  zunächst durch Rechtsverordnung des Bundesministeriums für Gesundheit  mit Wirkung zum 1. Januar 2024 mit einem Startkatalog von  Leistungen sowie den für diese Leistungen abrechnungsfähigen  Fallpauschalen (Hybrid-DRG). Im Jahr 2024 schlossen der  GKV-Spitzenverband, die Kassenärztliche Bundesvereinigung und die  Deutsche Krankenhausgesellschaft erstmals eine  Hybrid-DRG-Vergütungsvereinbarung ab. In Anlage 1  (Hybrid-DRG-Leistungskatalog) dieser Vereinbarung sind die zulässigen  Leistungen, die über Hybrid-DRG vergütet werden, abgebildet.  Anlage 2 dieser Vereinbarung beinhaltet die leistungsbezogene  spezielle sektorengleiche Vergütung für diese Leistungen in Form von  Fallpauschalen. Die Hy­brid-DRG-Vereinbarung soll jährlich abgeschlossen   werden. Über die abgeschlossenen  PKV-Hybrid-DRG-Umsetzungsvereinbarungen zwischen dem Verband der  Privaten Krankenversicherung und der Deutschen Krankenhausgesellschaft  (erstmalig vom 6. Februar 2024) gilt die jeweilige  Hybrid-DRG-Vergütungsvereinbarung mit ihren Anlagen auch im Bereich   der privaten Krankenversicherung. Aufwendungen für Leistungen, die  danach abgerechnet werden, sind beihilfefähig.
+
 
 9
 
@@ -2069,7 +2170,7 @@ Aufwendungen für Leistungen nach den Nummern 6200 und 6240 des Gebührenverzeic
 
 12.1.9
 
-Ändert sich der Versicherungsstatus des Patienten während des Behandlungszeitraumes, ist der beihilfefähige Höchstbetrag anteilig für den Behandlungszeitraum, für den eine Beihilfeberechtigung oder Berücksichtigungsfähigkeit besteht, auf der Grundlage einer Gesamtbehandlungsdauer von vier Jahren zu ermitteln. Das bedeutet, dass eine bereits zwei Jahre über ein anderes Krankenfürsorgesystem (GKV) durchgeführte Behandlung im Regelfall noch weitere zwei Jahre andauern kann. Der beihilfefähige Höchstbetrag beträgt für den Restzeitraum in diesem Beispiel 3 500 Euro. Bei der Ermittlung des beihilfefähigen Höchstbetrages ist es unerheblich, ob der behandelnde Kieferorthopäde nur den ausstehenden Behandlungsanteil, eine vollumfänglich neue Behandlung oder einen Wechsel der Behandlungsform (Anwendung anderer Behandlungsgeräte, zum Beispiel Wechsel von einer Zahnspange zu Invisalign-Schienen) durchführt und abrechnet. Wurden beispielsweise bei der gesetzlichen Krankenkasse 6 Behandlungsquartale vor dem Versicherungswechsel abgerechnet, sind noch Aufwendungen für 10 Behandlungsquartale beihilfefähig. Aufwendungen sind in diesem Beispiel bis zu einem Höchstbetrag von 10/16 aus 7 000 Euro, somit bis zu 4 375 Euro beihilfefähig. Die Höhe der bei der Krankenkasse geltend gemachten Quartalspauschalen (zum Beispiel Zwölftel-Anteile oder Sechzehntel-Anteile) ist nicht zu berücksichtigen.
+Ändert sich der Versicherungsstatus des Patienten während des Behandlungszeitraumes, ist der beihilfefähige Höchstbetrag anteilig für den Behandlungszeitraum, für den eine Beihilfeberechtigung oder Berücksichtigungsfähigkeit besteht, auf der Grundlage einer Gesamtbehandlungsdauer von vier Jahren zu ermitteln. Das bedeutet, dass eine bereits zwei Jahre über ein anderes Krankenfürsorgesystem (zum Beispiel GKV) durchgeführte Behandlung im Regelfall noch weitere zwei Jahre andauern kann. Der beihilfefähige Höchstbetrag beträgt für den Restzeitraum in diesem Beispiel 3 500 Euro. Bei der Ermittlung des beihilfefähigen Höchstbetrages ist es unerheblich, ob der behandelnde Kieferorthopäde nur den ausstehenden Behandlungsanteil, eine vollumfänglich neue Behandlung oder einen Wechsel der Behandlungsform (Anwendung anderer Behandlungsgeräte, zum Beispiel Wechsel von einer Zahnspange zu Invisalign-Schienen) durchführt und abrechnet. Wurden beispielsweise bei der gesetzlichen Krankenkasse 6 Behandlungsquartale vor dem Versicherungswechsel abgerechnet, sind noch Aufwendungen für 10 Behandlungsquartale beihilfefähig. Aufwendungen sind in diesem Beispiel bis zu einem Höchstbetrag von 10/16 aus 7 000 Euro, somit bis zu 4 375 Euro beihilfefähig. Die Höhe der bei der Krankenkasse geltend gemachten Quartalspauschalen (zum Beispiel Zwölftel-Anteile oder Sechzehntel-Anteile) ist nicht zu berücksichtigen.
 
 12.1.10
 
@@ -2366,7 +2467,7 @@ Zu Absatz 4
 
 16a.4.1
 
-Bei der Kurzzeittherapie handelt es sich um eine patienten- und problemorientierte psychotherapeutische Behandlung, die in ihrer Konzeption als schnell wirksame Psychotherapie auf eine zeitnahe Symptomreduktion, die Verbesserung der Funktionsfähigkeit, Stabilisierung und Wiederherstellung der Arbeits- bzw. Schulfähigkeit sowie eine Reduktion von intrapsychischen und interpersonellen Konflikte ausgerichtet ist und – anders als eine Langzeittherapie – keine umfassende Behandlung der pathogenetischen Faktoren, die der Erkrankung zugrundliegen, anstrebt. Das Hauptziel der Kurzzeittherapie ist es nicht, die verborgenen Motive oder tief greifenden Veränderungen der persönlichen Eigenschaften und der emotionalen Reaktion herauszufinden. Stattdessen soll die Kurzzeittherapie konkrete Hilfe bei der Überwindung der tatsächlichen Lebensprobleme des Patienten, einschließlich der Korrektur des gestörten Verhaltens oder Denkens und der Beseitigung schmerzhafter Symptome leisten. Ziel der Kurzzeittherapie ist das Streben nach kleinen Veränderungen, um dem Patienten bei der Lösung spezifischer Probleme zu helfen. Sie stellt sich nicht die Aufgabe, die Persönlichkeit des Patienten tiefgreifend zu verändern. Sie bedarf daher keiner vorherigen Genehmigung durch die Festsetzungsstelle. Hier liegt es in der Sorgfalt des Psychotherapeuten, die Feststellungen und Analyseergebnisse nach Satz 1 vor Behandlungsbeginn zu dokumentieren. Ist Langzeittherapie erforderlich, werden die Angaben im Rahmen des Begutachtungsverfahrens benötigt (vergleiche Nummer 16a.6).
+Bei der Kurzzeittherapie handelt es sich um eine patienten- und problemorientierte psychotherapeutische Behandlung, die in ihrer Konzeption als schnell wirksame Psychotherapie auf eine zeitnahe Symptomreduktion, die Verbesserung der Funktionsfähigkeit, Stabilisierung und Wiederherstellung der Arbeits- bzw. Schulfähigkeit sowie eine Reduktion von intrapsychischen und interpersonellen Konflikte ausgerichtet ist und – anders als eine Langzeittherapie – keine umfassende Behandlung der pathogenetischen Faktoren, die der Erkrankung zugrundliegen, anstrebt. Das Hauptziel der Kurzzeittherapie ist es nicht, die verborgenen Motive oder tiefgreifenden Veränderungen der persönlichen Eigenschaften und der emotionalen Reaktion herauszufinden. Stattdessen soll die Kurzzeittherapie konkrete Hilfe bei der Überwindung der tatsächlichen Lebensprobleme des Patienten, einschließlich der Korrektur des gestörten Verhaltens oder Denkens und der Beseitigung schmerzhafter Symptome leisten. Ziel der Kurzzeittherapie ist das Streben nach kleinen Veränderungen, um dem Patienten bei der Lösung spezifischer Probleme zu helfen. Sie stellt sich nicht die Aufgabe, die Persönlichkeit des Patienten tiefgreifend zu verändern. Sie bedarf daher keiner vorherigen Genehmigung durch die Festsetzungsstelle. Hier liegt es in der Sorgfalt des Psychotherapeuten, die Feststellungen und Analyseergebnisse nach Satz 1 vor Behandlungsbeginn zu dokumentieren. Ist Langzeittherapie erforderlich, werden die Angaben im Rahmen des Begutachtungsverfahrens benötigt (vergleiche Nummer 16a.6).
 
 16a.4.2
 
@@ -2865,9 +2966,22 @@ Zu Absatz 1
 20.1.1
 
 
-Die Krankenhausbehandlung umfasst im Rahmen des Versorgungsauftrags des Krankenhauses alle Leistungen, die im Einzelfall nach Art und Schwere der Krankheit für die medizinische Versorgung der Versicherten im Krankenhaus notwendig sind, insbesondere ärztliche Behandlung, Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, Unterkunft und Verpflegung; die akutstationäre Behandlung umfasst auch die im Einzelfall erforderlichen und zum frühestmöglichen Zeitpunkt einsetzenden Leistungen zur Frührehabilitation (vergleiche § 2 des Krankenhausentgeltgesetzes, § 39 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch). Die Krankenhausbehandlung im Sinne des § 20 kann vollstationär, stationsäquivalent, teilstationär oder vor- und nachstationär erbracht werden (vergleiche Nummer 20.2.8). Die Angemessenheit der stationsäquivalenten Krankenhausbehandlung, die seit 1. Januar 2017 von psychiatrischen und psychosomatischen Einrichtungen erbracht werden kann, richtet sich nach der Bundespflegesatzverordnung. Die Leistungsbeschreibung der stationsäquivalenten psychiatrischen Behandlung ergibt sich aus der Vereinbarung gemäß § 115d Absatz 3 des Fünften Buches Sozialgesetzbuch von GKV-Spitzenverband, Verband der Privaten Krankenversicherung und der Deutschen Krankenhausgesellschaft im Einvernehmen mit den Fachgesellschaften, die am 31. März 2017 in Kraft getreten ist. Sie ist auf der Internetseite des GKV-Spitzenverbandes veröffentlicht.
+Die Krankenhausbehandlung umfasst im Rahmen des  Versorgungsauftrags des Krankenhauses alle Leistungen, die im Einzelfall   nach Art und Schwere der Krankheit für die medizinische Versorgung der  Versicherten im Krankenhaus notwendig sind, insbesondere ärztliche  Behandlung, Krankenpflege, Versorgung mit Arznei-, Heil- und  Hilfsmitteln, Unterkunft und Verpflegung; die akutstationäre Behandlung  umfasst auch die im Einzelfall erforderlichen und zum frühestmöglichen  Zeitpunkt einsetzenden Leistungen zur Frührehabilitation (vergleiche  § 2 des Krankenhausentgeltgesetzes, § 39 Absatz 1  Satz 3 des Fünften Buches Sozialgesetzbuch). Die  Krankenhausbehandlung im Sinne des § 20 kann vollstationär,  stationsäquivalent, tagesstationär, teilstationär oder vor- und  nachstationär erbracht werden (vergleiche Nummer 20.2.8).
+
 
 20.1.2
+
+
+Die Angemessenheit der stationsäquivalenten  Krankenhausbehandlung, die seit 1. Januar 2017 von psychiatrischen  und psychosomatischen Einrichtungen erbracht werden kann, richtet sich  nach der Bundespflegesatzverordnung. Die Leistungsbeschreibung der  stationsäquivalenten psychiatrischen Behandlung ergibt sich aus der  Vereinbarung gemäß § 115d Absatz 3 des Fünften Buches  Sozialgesetzbuch von GKV-Spitzenverband, dem Verband der Privaten  Krankenversicherung und der Deutschen Krankenhausgesellschaft im  Einvernehmen mit den Fachgesellschaften, die am 31. März 2017 in  Kraft getreten ist. Sie ist auf der Internetseite des  GKV-Spitzenverbandes veröffentlicht.
+
+
+20.1.3
+
+
+Die tagesstationäre Behandlung ohne Übernachtung im  Krankenhaus ist seit dem 29. Dezember 2022 möglich. Nach  § 115e Absatz 1 Satz 2 des Fünften Buches  Sozialgesetzbuch kann eine tagesstationäre Behandlung anstelle einer  vollstationären Behandlung dann erfolgen, wenn die Behandlung einen  täglich mindestens sechsstündigen Aufenthalt des Patienten im  Krankenhaus erfordert, währenddessen überwiegend ärztliche oder  pflegerische Behandlung erbracht wird. Die Angemessenheit der  tagesstationären Krankenhausbehandlung richtet sich nach § 115e  Absatz 3 des Fünften Buches Sozialgesetzbuch und der zwischen dem  GKV-Spitzenverband, dem Verband der Privaten Krankenversicherung und der   Deutschen Krankenhausgesellschaft abgeschlossenen  Abrechnungsvereinbarung Tagesstationäre Behandlung, die am  1. Mai 2023 in Kraft getreten ist. Die Abrechnungsvereinbarung   ist auf der Internetseite des GKV-Spitzenverbandes veröffentlicht.
+
+
+20.1.4
 
 
 Bei Aufwendungen für allgemeine Krankenhausleistungen sind bezüglich des Beihilfeanspruchs grundsätzlich die Verhältnisse am ersten Tag des Aufenthaltes maßgebend. Ist bei der Zuordnung von Behandlungsfällen zu einem Entgelt auch das Alter der behandelten Person zu berücksichtigen, ist das Alter am Tag der Aufnahme in das Krankenhaus maßgeblich. Treten während des stationären Aufenthaltes Veränderungen ein, ist eine tagesanteilige Abrechnung entsprechend Nummer 57.1.1 vorzunehmen.
@@ -2875,12 +2989,25 @@ Bei Aufwendungen für allgemeine Krankenhausleistungen sind bezüglich des Beihi
 Findet ein Dienstherrenwechsel während eines Krankenhausaufenthaltes statt, ist eine Kostenaufteilung vorzunehmen und Beihilfe nur anteilig zu gewähren. Im Wege der Direktabrechnung wird der gesamte Krankenhausaufenthalt grundsätzlich mit dem Kostenträger abgerechnet, der am Tag der Aufnahme in das Krankenhaus leistungspflichtig war. Dies folgt aus den Festlegungen in § 10 der Fallpauschalenvereinbarung 2024 und § 9 der Vereinbarung über die pauschalierenden Entgelte für die Psychiatrie und Psychosomatik 2023 und den entsprechenden Festlegungen in den Folgevereinbarungen. In diesen Fällen sollte von einer Direktabrechnung abgesehen oder mit dem Krankenhaus eine anteilige Abrechnung vereinbart werden.
 
 
-20.1.3
+20.1.5
 
 
-Für die Beihilfefähigkeit der allgemeinen Krankenhausleistungen sind die für das jeweilige Kalenderjahr gemäß § 9 Absatz 1 Nummern 1 bis 3 des Krankenhausentgeltgesetzes vereinbarten Kataloge (Fallpauschalen-Katalog, Katalog ergänzender Zusatzentgelte, Pflegeerlöskatalog) und die hierfür geltenden Abrechnungsbestimmungen maßgebend. Mit Artikel 1 des Pflegepersonal-Stärkungsgesetz vom 11. Dezember 2018 wurde § 17b Absatz 4 des Krankenhausfinanzierungsgesetzes dahingehend geändert, dass die Pflegepersonalkosten für die unmittelbare Patientenversorgung auf bettenführenden Stationen erstmals für das Jahr 2020 aus dem G-DRG-System ausgegliedert und in einen Pflegeerlöskatalog überführt werden. Die Vergütung der Pflegepersonalkosten wurde in eine separate Pflegepersonalkostenvergütung überführt. Die beihilfefähigen tagesbezogenen Pflegentgelte ergeben sich aus dem Produkt der Pflegerlös-Bewertungsrelation pro Tag (vergleiche Pflegerlöskatalog) und dem krankenhausindividuellen Pflegentgelt. Aufwendungen für gemäß § 8 Absatz 2 des Krankenhausentgeltgesetzes zusätzlich zu einer Fallpauschale in Rechnung gestellte Zusatzentgelte, Zu- und Abschläge (siehe auch Nummer 20.1.5) sowie sonstige festgelegte Entgelte sind beihilfefähig.
+Für die Beihilfefähigkeit der allgemeinen Krankenhausleistungen sind die für das jeweilige Kalenderjahr gemäß § 9 Absatz 1 Nummern 1 bis 3 des Krankenhausentgeltgesetzes vereinbarten Kataloge (Fallpauschalen-Katalog, Katalog ergänzender Zusatzentgelte, Pflegeerlöskatalog) und die hierfür geltenden Abrechnungsbestimmungen maßgebend. Mit Artikel 1 des Pflegepersonal-Stärkungsgesetz vom 11. Dezember 2018 wurde § 17b Absatz 4 des Krankenhausfinanzierungsgesetzes dahingehend geändert, dass die Pflegepersonalkosten für die unmittelbare Patientenversorgung auf bettenführenden Stationen erstmals für das Jahr 2020 aus dem G-DRG-System ausgegliedert und in einen Pflegeerlöskatalog überführt werden. Die Vergütung der Pflegepersonalkosten wurde in eine separate Pflegepersonalkostenvergütung überführt. Die beihilfefähigen tagesbezogenen Pflegeentgelte  ergeben sich aus dem Produkt der Pflegeerlös-Bewertungsrelation pro Tag  (vergleiche Pflegeerlöskatalog) und dem krankenhausindividuellen  Pflegeentgelt. Aufwendungen für gemäß § 8 Absatz 2 des  Krankenhausentgeltgesetzes zusätzlich zu einer Fallpauschale in Rechnung   gestellte Zusatzentgelte, Zu- und Abschläge (siehe auch  Nummer 20.1.8) sowie sonstige festgelegte Entgelte sind  beihilfefähig.
 
-20.1.4
+
+20.1.6
+
+
+Hinsichtlich der Beihilfefähigkeit ambulanter
+
+Krankenhausleistungen, die nach der sektorengleichen Vergütung
+
+(sogenannte Hybrid-DRG) abgerechnet werden, wird auf Nummer 8.6
+
+verwiesen.
+
+
+20.1.7
 
 
 Gemäß § 17d Absatz 1 des Krankenhausfinanzierungsgesetz in Verbindung mit der Bundespflegesatzverordnung wird für die Vergütung der allgemeinen Krankenhausleistungen von Fachkrankenhäusern und selbständigen, gebietsärztlich geleiteten Abteilungen an somatischen Krankenhäusern für die Fachgebiete Psychiatrie und Psychotherapie, Kinder- und Jugendpsychiatrie und -psychotherapie (psychiatrische Einrichtungen) sowie Psychosomatische Medizin und Psychotherapie (psychosomatische Einrichtungen) ein durchgängiges, leistungsorientiertes und pauschalierendes Vergütungssystem eingeführt. Dieses Vergütungssystem basiert im Gegensatz zum DRG-System, das Fallpauschalen definiert, auf tagesbezogenen Entgelten. Mit den Entgelten, die dem Grunde nach beihilfefähig sind, werden die voll- und teilstationären sowie stationsäquivalenten allgemeinen Krankenhausleistungen vergütet. Die Vereinbarungen zum pauschalierenden Entgeltsystem (PEPPV) und dessen Weiterentwicklung treffen die Vertragsparteien (GKV-Spitzenverband, Verband der privaten Krankenversicherung, Deutsche Krankenhausgesellschaft) grundsätzlich jährlich. Die Definition der Entgelte und ihre Bewertungsrelationen werden bundeseinheitlich festgelegt. In Ausnahmefällen können die Vertragsparteien Zusatzentgelte und deren Höhe vereinbaren. Für Leistungen, die mit den nach § 17d des Krankenhausfinanzierungsgesetzes auf Bundesebene bewerteten Entgelten noch nicht sachgerecht vergütet werden können, können nach § 6 Absatz 1 der Bundespflegesatzverordnung krankenhausindividuelle Entgelte verhandelt werden.
@@ -2888,59 +3015,60 @@ Die Abrechnung der pauschalierenden Entgelte für die Psychiatrie und Psychosoma
 Das Psych-Entgeltsystem ersetzt die Entgelte nach § 17 Absatz 2 des Krankenhausfinanzierungsgesetzes (tagesgleiche Pflegesätze).  Bis Ende 2017 war die Einführung des Vergütungssystems für die Krankenhäuser freiwillig. Verbindlich für alle Krankenhäuser wurde das Vergütungssystem zum 1. Januar 2018 eingeführt.    
 
 
-20.1.5
+20.1.8
 
 
-Soweit allgemeine Krankenhausleistungen nicht oder noch nicht in die pauschalen Entgelte nach § 17b Absatz 1 Satz 1 (DRG-System) oder § 17d Absatz 2 Satz 3 (PEPP-System) des Krankenhausfinanzierungsgesetzes einbezogen sind, richten sich diese nach Vereinbarungen für Zu- oder Abschläge auf Bundesebene (§ 17b Absatz 1a des Krankenhausfinanzierungsgesetzes). Sie werden in der Regel jährlich neu vereinbart. Die möglichen Zu- und Abschläge für das jeweilige Kalenderjahr veröffentlicht der GKV-Spitzenverband auf seiner Internetseite. Die Liste enthält auch den Zuschlag für die medizinisch notwendige Aufnahme einer Begleitperson im Krankenhaus, der auf einer vom AOK-Bundesverband, den Ersatzkassen, dem PKV-Verband sowie der Deutschen Krankenhausgesellschaft am 16. September 2004 getroffenen Vereinbarung nach § 17b Absatz 1 Satz 4 (aktuell § 17b Absatz 1a Nummer 3) des Krankenhausfinanzierungsgesetzes beruht. Für den Aufnahmetag und jeden weiteren vollstationären Aufenthaltstag ist ein Zuschlag in Höhe von 45 Euro für Unterkunft und Verpflegung der Begleitperson vereinbart. Dies gilt nicht für Entlassungs- und Verlegungstage, die nicht zugleich Aufnahmetag sind. Aufwendungen für berechnete Zuschläge sind im Fall der medizinisch notwendigen Aufnahme der Begleitperson beihilfefähig. Aufwendungen in dieser Höhe können auch bei der Ermittlung des beihilfefähigen Höchstbetrages für Krankenhäuser, die nicht nach § 108 des Fünften Buches Sozialgesetzbuch zugelassen sind (Absatz 2), als beihilfefähig berücksichtigt werden. Die Ausnahmen für die Beihilfefähigkeit von Aufwendungen für die Unterbringung einer Begleitperson außerhalb des Krankenhauses sind abschließend in Absatz 3 Satz 2 und 3 geregelt.
+Soweit allgemeine Krankenhausleistungen nicht oder noch   nicht in die pauschalen Entgelte nach § 17b Absatz 1  Satz 1 (DRG-System) oder § 17d Absatz 2 Satz 3  (PEPP-System) des Krankenhausfinanzierungsgesetzes einbezogen sind,  richten sich diese nach Vereinbarungen für Zu- oder Abschläge auf  Bundesebene (§ 17b Absatz 1a des  Krankenhausfinanzierungsgesetzes). Sie werden in unregelmäßigen  Abständen neu vereinbart. Die möglichen Zu- und Abschläge veröffentlicht   der GKV-Spitzenverband auf seiner Internetseite. Die Übersicht enthält  auch den Zuschlag für die medizinisch notwendige Aufnahme einer  Begleitperson im Krankenhaus, der auf einer vom GKV-Spitzenverband  gemeinsam mit dem PKV-Verband sowie der Deutschen  Krankenhausgesellschaft getroffenen Vereinbarung nach § 17b  Absatz 1a Nummer 7 des Krankenhausfinanzierungsgesetzes beruht   (Begleitpersonenzuschlagsvereinbarung). Für den Aufnahmetag und jeden  weiteren vollstationären Aufenthaltstag ab dem 1. Januar 2025  ist ein Zuschlag in Höhe von 60 Euro für Unterkunft und Verpflegung   der Begleitperson vereinbart. Dies gilt nicht für Entlassungs- und  Verlegungstage, die nicht zugleich Aufnahmetag sind. Aufwendungen für  berechnete Zuschläge sind im Fall der medizinisch notwendigen Aufnahme  der Begleitperson beihilfefähig. Aufwendungen in dieser Höhe können auch   bei der Ermittlung des beihilfefähigen Höchstbetrages für  Krankenhäuser, die nicht nach § 108 des Fünften Buches  Sozialgesetzbuch zugelassen sind (Absatz 2), als beihilfefähig  berücksichtigt werden. Die Ausnahmen für die Beihilfefähigkeit von  Aufwendungen für die Unterbringung einer Begleitperson außerhalb des  Krankenhauses sind abschließend in Absatz 3 Satz 2 und 3  geregelt.
 
-20.1.6
+
+20.1.9
 
 
 Als Kosten eines Zweibettzimmers werden die niedrigsten Kosten für ein solches Zimmer in der Abteilung als beihilfefähig anerkannt, die aufgrund der medizinischen Notwendigkeit für eine Unterbringung in Betracht kommt.
 
 
-20.1.7
+20.1.10
 
 
 Wird als Wahlleistung die Unterbringung in einem Einbettzimmer in Anspruch genommen, so sind die Mehraufwendungen gegenüber der Inanspruchnahme eines Zweibettzimmers nicht beihilfefähig.
 
 
-20.1.8
+20.1.11
 
 
 Mehraufwendungen für ein Einbettzimmer sind auch dann nicht beihilfefähig, wenn die allgemeinen Krankenhausleistungen bereits die Kosten der Unterbringung in einem Zweibettzimmer umfassen; dies gilt sinngemäß für Krankenhäuser, die die Bundespflegesatzverordnung oder das Krankenhausentgeltgesetz nicht anwenden. Umfassen die allgemeinen Krankenhausleistungen nur Zimmer mit drei und mehr Betten und werden als gesonderte Unterkunft nur Einbettzimmer angeboten, sind 50 Prozent dieser Wahlleistung als Zweibettzimmerzuschlag abzüglich 14,50 Euro täglich beihilfefähig. 
 
-20.1.9
+20.1.12
 
 
 Aufwendungen für in Rechnung gestellte Wahlleistung „Unterbringung in einem Ein- oder Zweibettzimmer“ für den Entlassungstag (§ 17 des Krankenhausentgeltgesetzes oder § 16 Satz 2 der Bundespflegesatzverordnung) sind nicht beihilfefähig. 
 
-20.1.10
+20.1.13
 
 
 Nach § 17 Absatz 1 Satz 1 in Verbindung mit § 17 Absatz 2 Satz 1 des Krankenhausentgeltgesetzes und § 16 Satz 2 der Bundespflegesatzverordnung dürfen dem Patienten Wahlleistungen nur in Rechnung gestellt werden, wenn sie schriftlich vereinbart worden sind. Um Aufwendungen für gesondert berechenbare Wahlleistungen, die im Rahmen dieser Vorschrift beihilfefähig sind, handelt es sich daher nur, wenn diese auf Wunsch des Patienten erbracht werden und schriftlich vereinbart worden sind. 
 
-20.1.11
+20.1.14
 
 
 Besonders in Rechnung gestellte belegärztliche Leistungen nach § 18 des Krankenhausentgeltgesetzes oder § 16 Satz 1 der Bundespflegesatzverordnung sind neben den wahlärztlichen Leistungen nach § 17 des Krankenhausentgeltgesetzes oder § 16 Satz 2 der Bundespflegesatzverordnung beihilfefähig. Die in § 18 Absatz 1 Satz 2 des Krankenhausentgeltgesetzes abschließend beschriebenen Leistungen der Belegärzte sind keine Krankenhausleistungen. Ihre Beihilfefähigkeit richtet sich gemäß § 8 in Verbindung mit § 4 Absatz 3 und 5 regelmäßig nach der Gebührenordnung für Ärzte, wobei nach § 6a Absatz 1 Satz 2 der Gebührenordnung für Ärzte ein Abschlag von 15 Prozent vorzunehmen ist (hierzu BVerwG, Urteil vom 23. April 2015, 5 C 2/14). 
 
-20.1.12
+20.1.15
 
 
 Gesondert abgerechnete honorarärztliche Leistungen sind grundsätzlich nicht beihilfefähig. Den Kreis der liquidationsberechtigten Wahlärzte legt § 17 Absatz 3 Satz 1 des Krankenhausentgeltgesetzes abschließend fest. Dieser erstreckt sich auf alle an der Behandlung des Patienten beteiligten angestellten oder beamteten Ärzte des Krankenhauses, soweit diese zur gesonderten Berechnung ihrer Leistungen berechtigt sind. Ein Honorararzt erbringt ärztliche Leistungen für den Krankenhausträger aufgrund eines Dienstvertrages im Krankenhaus, ohne bei diesem angestellt oder als Belegarzt oder Konsiliararzt tätig zu sein. Wahlärztliche Leistungen eines Honorararztes sind im Einzelfall nur beihilfefähig, wenn der Honorararzt in der Wahlarztvereinbarung (zum Beispiel als Vertretungsarzt) ausdrücklich genannt ist (BVerfG, Beschluss vom 3. März 2015, 1 BvR 3226/14). 
 
-20.1.13
+20.1.16
 
 
 Andere im Zusammenhang mit Wahlleistungen entstandene Aufwendungen können beispielsweise für das Einholen ärztlicher Zweitmeinungen entstehen. Von den ärztlichen Leistungen sind auch zahnärztliche oder physiotherapeutische Leistungen mit erfasst.
 
 
-20.1.14
+20.1.17
 
 Gemäß § 17 Absatz 1 Satz 5 des Krankenhausgesetzes darf eine Privatklinik, die in räumlicher Nähe zu einem Krankenhaus liegt und mit diesem organisatorisch verbunden ist, für allgemeine, dem Versorgungsauftrag des Krankenhauses entsprechende Krankenhausleistungen keine höheren Entgelte verlangen, als sie nach den Regelungen des Krankenhausfinanzierungsgesetzes, des Krankenhausentgeltgesetzes und der Bundespflegesatzverordnung zu leisten wären. Aufwendungen für eine Behandlung in einer Privatklinik, die organisatorisch mit einem Plankrankenhaus verbunden ist, sind daher nur im Umfang des Absatzes 1 beihilfefähig.  
 
-20.1.15
+20.1.18
 
 Die Beihilfefähigkeit von Aufwendungen für Leistungen in einer Gemischten Krankenanstalt (Einrichtung, die neben der üblichen Krankenhausbehandlung zusätzlich auch Rehabilitationsmaßnahmen anbietet), ist danach zu beurteilen, ob es sich um eine Krankenhausleistung oder eine medizinische Rehabilitationsleistung handelt. Aufwendungen für eine Krankenhausleistung sind nach § 20 beihilfefähig, Aufwendungen für eine medizinische Rehabilitation nach den Vorschriften der §§ 37 und 38. Eine Übersicht von Einrichtungen, die als Gemischte Krankenanstalt eingestuft sind, steht auf der Homepage des PKV-Verbandes zur Verfügung. Die Aufnahme in eine Gemischte Krankenanstalt an sich setzt eine vorherige Anerkennung der Beihilfefähigkeit der vorgesehenen Maßnahme durch die Festsetzungsstelle – anders als unter Umständen bei der privaten Krankenversicherung – nicht voraus. Eine für bestimmte Rehabilitationsmaßnahmen vorgesehene Voranerkennung nach § 38 bleibt unberührt.
 
@@ -3004,7 +3132,7 @@ Sind in der Rechnung ergänzende Tagesentgelte ausgewiesen (Angabe der ETD), sin
 
 20.2.3
 
-Für psychiatrische, psychotherapeutische und psychosomatische Indikationen in Krankenhäusern sind auch DRG-Fallpauschalen festgelegt (Hauptdiagnosegruppe „MDC 19 Psychische Krankheiten und Störungen“). Eine DRG-Abrechnung beziehungsweise eine Höchstbetragsberechnung nach Nummer 1 ist sachgerecht, wenn es sich um einen akuten Behandlungsbedarf im Akutkrankenhaus oder um eine Notfallversorgung handelt. Behandlungen in privaten Fachkliniken mit einem psychiatrischen, psychotherapeutischen oder psychosomatischen Charakter der individuell durchgeführten therapeutischen Maßnahmen sind dem PEPP-Verfahren zuzuordnen. Mit den beihilfefähigen Höchstbeträgen nach Nummer 1 und 2 ist das Spektrum der beihilfefähigen Krankenhausbehandlung grundsätzlich vollständig erfasst, sodass es sich bei anderen Fällen im Sinne von Nummer 3 um Ausnahmefälle, insbesondere um Aufwendungen für neurologische Frührehabilitation, handelt. Auf die Höchstbeträge nach Nummer 3 kann auch dann zurückgegriffen werden, wenn der beihilfefähige Betrag nach Nummer 2 durch die Festsetzungsstelle nicht ermittelt werden kann. Nicht beihilfefähig sind Aufwendungen für Leistungen, die zusätzlich in Rechnung gestellt werden und die Bestandteile der Leistungen nach Absatz 1 Nummer 2 sind. Wahlärztliche Leistungen sind neben den allgemeinen Krankenhausleistungen beihilfefähig. Als Kinder gelten Personen bis zur Vollendung des 18. Lebensjahres. Maßgebend sind die Verhältnisse am Aufnahmetag. Nummer 20.1.2 gilt entsprechend.
+Für psychiatrische, psychotherapeutische und psychosomatische Indikationen in Krankenhäusern sind auch DRG-Fallpauschalen festgelegt (Hauptdiagnosegruppe „MDC 19 Psychische Krankheiten und Störungen“). Eine DRG-Abrechnung beziehungsweise eine Höchstbetragsberechnung nach Nummer 1 ist sachgerecht, wenn es sich um einen akuten Behandlungsbedarf im Akutkrankenhaus oder um eine Notfallversorgung handelt. Behandlungen in privaten Fachkliniken mit einem psychiatrischen, psychotherapeutischen oder psychosomatischen Charakter der individuell durchgeführten therapeutischen Maßnahmen sind dem PEPP-Verfahren zuzuordnen. Mit den beihilfefähigen Höchstbeträgen nach Nummer 1 und 2 ist das Spektrum der beihilfefähigen Krankenhausbehandlung grundsätzlich vollständig erfasst, sodass es sich bei anderen Fällen im Sinne von Nummer 3 um Ausnahmefälle, insbesondere um Aufwendungen für neurologische Frührehabilitation, handelt. Auf die Höchstbeträge nach Nummer 3 kann auch dann zurückgegriffen werden, wenn der beihilfefähige Betrag nach Nummer 2 durch die Festsetzungsstelle nicht ermittelt werden kann. Nicht beihilfefähig sind Aufwendungen für Leistungen, die zusätzlich in Rechnung gestellt werden und die Bestandteile der Leistungen nach Absatz 1 Nummer 2 sind. Wahlärztliche Leistungen sind neben den allgemeinen Krankenhausleistungen beihilfefähig. Als Kinder gelten Personen bis zur Vollendung des 18. Lebensjahres. Maßgebend sind die Verhältnisse am Aufnahmetag. Nummer 20.1.4 gilt entsprechend.
 
 20.2.4
 
@@ -3028,42 +3156,136 @@ Bei Notfallbehandlungen im nächstgelegenen Krankenhaus ist keine Vergleichsbere
 20.2.8
 
 
-Liegt eine ambulante Krankenhausbehandlung vor, scheidet eine auf die Vorschriften des Krankenhausentgeltgesetzes oder der Bundespflegesatzverordnung gestützte Vergütung und damit eine Beihilfefähigkeit nach Absatz 1 und 2 aus. Vollstationäre, teilstationäre, stationsäquivalente und ambulante Krankenhausbehandlung sind in erster Linie anhand der aufgrund eines ärztlichen Behandlungsplans vorgesehenen Aufenthaltsdauer abzugrenzen (BSG, Urteil vom 4. März 2004, B 3 KR 4/03 R; BSG, Urteil vom 28. Februar 2007, B 3 KR 17/06 R; BSG, Urteil vom 19. September 2013, B 3 KR 34/12 R). 
+Liegt eine ambulante Krankenhausbehandlung vor,  scheidet eine auf die Vorschriften des Krankenhausentgeltgesetzes oder  der Bundespflegesatzverordnung gestützte Vergütung und damit eine  Beihilfefähigkeit nach Absatz 1 und 2 aus. Vollstationäre,  teilstationäre, tagesstationäre, stationsäquivalente und ambulante  Krankenhausbehandlung sind in erster Linie anhand der aufgrund eines  ärztlichen Behandlungsplans vorgesehenen Aufenthaltsdauer abzugrenzen  (BSG, Urteil vom 4. März 2004,  B 3 KR 4/03 R; BSG, Urteil vom  28. Februar 2007, B 3 KR 17/06 R; BSG,  Urteil vom 19. September 2013,  B 3 KR 34/12 R).
 
 
 a)
 
 
-Eine vollstationäre Behandlung liegt vor, wenn der Patient physisch und organisatorisch in das spezifische Versorgungssystem des Krankenhauses eingegliedert ist und dies mindestens für einen Tag und eine Nacht geschieht. Die Behandlung ist nur dann vollstationär, wenn der Patient zeitlich ununterbrochen im Krankenhaus untergebracht ist. Die Aufnahmeentscheidung auf der Basis eines entsprechenden Behandlungsplans wird nach außen regelmäßig zum Beispiel durch die Einweisung auf eine bestimmte Station, die Zuweisung eines Bettes und das Erstellen entsprechender Aufnahmeunterlagen dokumentiert.
+Eine vollstationäre Behandlung liegt vor, wenn der
+
+Patient physisch und organisatorisch in das spezifische
+
+Versorgungssystem des Krankenhauses eingegliedert ist und dies
+
+mindestens für einen Tag und eine Nacht geschieht. Die Behandlung ist
+
+nur dann vollstationär, wenn der Patient zeitlich ununterbrochen im
+
+Krankenhaus untergebracht ist. Die Aufnahmeentscheidung auf der Basis
+
+eines entsprechenden Behandlungsplans wird nach außen regelmäßig zum
+
+Beispiel durch die Einweisung auf eine bestimmte Station, die Zuweisung
+
+eines Bettes und das Erstellen entsprechender Aufnahmeunterlagen
+
+dokumentiert.
 
 
 b)
 
-Sonderform der vollstationären Behandlung ist die stationsäquivalente Behandlung. Dabei handelt es sich um eine Krankenhausbehandlung ohne Bett, weil diese im häuslichen Umfeld (Home Treatment) erbracht wird. Sie umfasst eine psychiatrische Behandlung während akuter Krankheitsphasen und wird durch mobile multiprofessionelle Behandlungsteams des Krankenhauses durchgeführt. Die Krankenhäuser können dabei auch Leistungserbringer im ambulanten Versorgungsbereich mit Teilleistungen beauftragen. Sie ist gleichwertig mit einer vollstationären Behandlung und wie diese notwendig, wenn das Behandlungsziel nicht durch teilstationäre, vor- und nachstationäre oder ambulante Behandlung einschließlich häuslicher Krankenpflege erreicht werden kann. Sie wird von psychiatrischen und psychosomatischen Einrichtungen als stationsäquivalente psychiatrische Behandlung nach § 115d des Fünften Buches Sozialgesetzbuch erbracht. 
+Sonderform der vollstationären Behandlung ist die  stationsäquivalente Behandlung. Dabei handelt es sich um eine  Krankenhausbehandlung ohne Bett, weil diese im häuslichen Umfeld (Home  Treatment) erbracht wird. Sie umfasst eine psychiatrische Behandlung  während akuter Krankheitsphasen und wird durch mobile  multiprofessionelle Behandlungsteams des Krankenhauses durchgeführt. Die   Krankenhäuser können dabei auch Leistungserbringer im ambulanten  Versorgungsbereich mit Teilleistungen beauftragen. Sie ist gleichwertig  mit einer vollstationären Behandlung und wie diese notwendig, wenn das  Behandlungsziel nicht durch teilstationäre, vor- und nachstationäre oder   ambulante Behandlung einschließlich häuslicher Krankenpflege erreicht  werden kann. Sie wird von psychiatrischen und psychosomatischen  Einrichtungen als stationsäquivalente psychiatrische Behandlung nach  § 115d des Fünften Buches Sozialgesetzbuch erbracht.
 
 
 c)
 
 
-Eine teilstationäre Behandlung ist anzunehmen, wenn eine zeitlich nicht durchgehende Krankenhausbehandlung geplant ist, also ein Aufenthalt von weniger als einem Tag und einer Nacht. Sie erfordert ebenfalls eine Aufnahme, wobei die medizinisch-organisatorische Infrastruktur des Krankenhauses nur zeitlich begrenzt und inhaltlich weniger umfassend, dafür aber regelmäßig wiederkehrend in Anspruch genommen wird, ohne dass eine ununterbrochene Anwesenheit des Patienten im Krankenhaus notwendig ist. Kennzeichnend ist hier eine zeitliche Beschränkung auf die Behandlung tagsüber, bei der die Nacht zu Hause verbracht wird (Tageskliniken), oder auf die Behandlung abends und nachts (zum Beispiel bei krankhaften Schlafstörungen), bei der der Patient sich tagsüber in seinem normalen Umfeld bewegt (Nachtkliniken).
+Eine teilstationäre Behandlung ist anzunehmen, wenn
+
+eine zeitlich nicht durchgehende Krankenhausbehandlung geplant ist, also
+
+ein Aufenthalt von weniger als einem Tag und einer Nacht. Sie erfordert
+
+ebenfalls eine Aufnahme, wobei die medizinisch-organisatorische
+
+Infrastruktur des Krankenhauses nur zeitlich begrenzt und inhaltlich
+
+weniger umfassend, dafür aber regelmäßig wiederkehrend in Anspruch
+
+genommen wird, ohne dass eine ununterbrochene Anwesenheit des Patienten
+
+im Krankenhaus notwendig ist. Kennzeichnend ist hier eine zeitliche
+
+Beschränkung auf die Behandlung tagsüber, bei der die Nacht zu Hause
+
+verbracht wird (Tageskliniken), oder auf die Behandlung abends und
+
+nachts (zum Beispiel bei krankhaften Schlafstörungen), bei der der
+
+Patient sich tagsüber in seinem normalen Umfeld bewegt (Nachtkliniken).
 
 
 d)
 
 
-Ambulante Behandlungen im Krankenhaus betreffen neben besonderen Versorgungsformen der GKV (zum Beispiel der ambulanten spezialfachärztlichen Versorgung nach § 116b des Fünften Buches Sozialgesetzbuch) auch „klassische“ ambulante Behandlungen wie Operationen. Ob die Operation ambulant oder stationär erfolgt, ergibt sich aus dem ärztlichen Behandlungsplan. Keine ambulante Operation liegt vor, wenn der Patient die Nacht vor oder nach dem Eingriff im Krankenhaus verbringt. 
+Aus dem aufgrund von § 115e Absatz 5 des
+
+Fünften Buchs Sozialgesetzbuch zu erstellendem Evaluationsbericht 2023
+
+des GKV-Spitzenverbandes, des Verbandes der Privaten Krankenversicherung
+
+und der Deutschen Krankenhausgesellschaft ergibt sich, dass die
+
+Erbringung einer tagesstationären Behandlung die Notwendigkeit der
+
+vollstationären Behandlung sowie zwischen Aufnahme- und Entlasstag
+
+mindestens eine Übernachtung außerhalb des Krankenhauses voraussetzt.
+
+Außerdem muss der für die tagesstationäre Behandlung erforderliche
+
+mindestens sechsstündige Aufenthalt der Patienten, innerhalb dessen
+
+überwiegend ärztliche oder pflegerische Behandlung erbracht wird,
+
+zwischen 6:00 Uhr und 22:00 Uhr liegen. Sofern der Patient
+
+ungeplant vor 6:00 Uhr des Folgetages in das Krankenhaus
+
+zurückkehrt, liegt keine tagesstationäre Behandlung mehr vor. Gründe für
+
+eine ungeplante Rückkehr können ein Notfall, ein weiterer medizinischer
+
+Behandlungsbedarf oder der Wunsch des Patienten sein.
 
 
 e)
 
 
-Abgrenzungsschwierigkeiten zwischen teilstationärer und ambulanter Krankenhausbehandlung können auftreten, wenn sich die Behandlung über einen längeren Zeitraum erstreckt, aber nicht täglich stattfindet (sogenannte Intervallbehandlung). Zu den ambulanten Behandlungen zählt beispielsweise die Dialyse, bei der der Patient nicht jeden Tag, aber mehrmals die Woche für einige Stunden im Krankenhaus versorgt wird (BSG, Urteil vom 4. März 2004, B 3 KR 4/03 R unter Hinweis auf § 2 Absatz 2 Satz 3 der Bundespflegesatzverordnung; ähnlich § 2 Absatz 2 Satz 3 des Krankenhausentgeltgesetzes). 
+Ambulante Behandlungen im Krankenhaus betreffen neben
+
+besonderen Versorgungsformen der GKV (zum Beispiel der ambulanten
+
+spezialfachärztlichen Versorgung nach § 116b des Fünften Buches
+
+Sozialgesetzbuch) auch „klassische” ambulante Behandlungen wie
+
+Operationen. Ob die Operation ambulant oder stationär erfolgt, ergibt
+
+sich aus dem ärztlichen Behandlungsplan. Keine ambulante Operation liegt
+
+vor, wenn der Patient die Nacht vor oder nach dem Eingriff im
+
+Krankenhaus verbringt.
 
 
 f)
 
 
-Eine nach physisch und organisatorischer Eingliederung des Patienten in das spezifische Krankenhausversorgungssystem erfolgte stationäre Behandlung liegt auch dann vor, wenn der Patient gegen den ärztlichen Rat auf eigenes Betreiben das Krankenhaus noch am selben Tag wieder verlässt; dann handelt es sich um eine sogenannte „abgebrochene“ stationäre Behandlung.
+Abgrenzungsschwierigkeiten zwischen teilstationärer und   ambulanter Krankenhausbehandlung können auftreten, wenn sich die  Behandlung über einen längeren Zeitraum erstreckt, aber nicht täglich  stattfindet (sogenannte Intervallbehandlung). Zu den ambulanten  Behandlungen zählt beispielsweise die Dialyse, bei der der Patient nicht   jeden Tag, aber mehrmals die Woche für einige Stunden im Krankenhaus  versorgt wird (BSG, Urteil vom 4. März 2004,  B 3 KR 4/03 R unter Hinweis auf § 2  Absatz 2 Satz 3 der Bundespflegesatzverordnung; ähnlich  § 2 Absatz 2 Satz 3 des Krankenhausentgeltgesetzes).
+
+
+g)
+
+
+Eine nach physisch und organisatorischer Eingliederung  des Patienten in das spezifische Krankenhausversorgungssystem erfolgte  stationäre Behandlung liegt auch dann vor, wenn der Patient gegen den  ärztlichen Rat auf eigenes Betreiben das Krankenhaus noch am selben Tag  wieder verlässt; dann handelt es sich um eine sogenannte „abgebrochene”  stationäre Behandlung. Hat der Patient seine „Selbstentlassung” jedoch  noch vor Umsetzung der Einweisung auf die entsprechende Station oder die   Zuweisung eines Bettes erwirkt, liegt noch keine physische und  organisatorische Eingliederung vor (BSG, Urteil vom  25. Juni 2024, B 1 KR 12/23 R zur  Unzulässigkeit der Abrechnung einer Aufnahmeuntersuchung bei einer  ambulanten Notfallbehandlung in einem DRG-Krankenhaus als vorstationäre  Behandlung bei nicht erfolgter stationärer Aufnahme). Auch wenn die  Kosten für die Aufnahmeuntersuchung von gesetzlich Versicherten in  diesem Fall möglicherweise aus der Gesamtvergütung nach § 85 des  Fünften Buches Sozialgesetzbuch durch die Kassenärztliche Vereinigung  getragen werden, sind hierfür erstellte privatärztliche Rechnungen nach  der Gebührenordnung für Ärzte (vergleiche Nummer 4.5.2) dem Grunde  nach beihilfefähig.
+
+
+20.2.9
+
+
+Durch zweiseitige Verträge oder Rahmenempfehlungen über   Krankenhausbehandlung nach § 112 des Fünften Buches  Sozialgesetzbuch können auf Landesebene keine über die nach § 7 des   Krankenhausentgeltgesetzes bundesrechtlich abschließend festgelegten  Entgeltarten hinausgehende Entgelttatbestände für allgemeine  Krankenhausleistungen von DRG-Krankenhäusern festgelegt werden.  Entsprechende Vereinbarungen, aufgrund derer Entgelte für allgemeine  Krankenhausleistungen abgerechnet werden dürfen, die in § 7 des  Krankenhausentgeltgesetzes nicht aufgeführt sind, sind nichtig (hierzu  BSG, Urteil vom 25. Juni 2024,  B 1 KR 12/23 R) und können der Beihilfefestsetzung  daher nicht zugrunde gelegt werden.
 
 
 20.3
@@ -3075,7 +3297,7 @@ Zu Absatz 3
 20.3.1
 
 
-Bezüglich der Beihilfefähigkeit von Aufwendungen der medizinisch notwendigen Mitaufnahme einer Begleitperson im Krankenhaus wird auf Nummer 20.1.5 hingewiesen. Entsprechendes gilt auch für die medizinisch notwendige Mitaufnahme einer Pflegekraft in das Krankenhaus.
+Bezüglich der Beihilfefähigkeit von Aufwendungen der medizinisch notwendigen Mitaufnahme einer Begleitperson im Krankenhaus wird auf Nummer 20.1.6 hingewiesen. Entsprechendes gilt auch für die medizinisch notwendige Mitaufnahme einer Pflegekraft in das Krankenhaus.
 
 
 20.3.2
@@ -3634,7 +3856,7 @@ Zu Absatz 1
 23.1.1
 
 
-Zu den Anschaffungskosten eines Blindenführhundes gehören auch Geschirr, Hundeleine, Halsband und Maulkorb. Aufwendungen für Futter und Tierarzt sind im Rahmen des Absatzes 4 beihilfefähig.
+Zu den Anschaffungskosten eines Blindenführhundes gehören auch Geschirr, Hundeleine, Halsband und Maulkorb. Aufwendungen für Futter und Tierarzt sind im Rahmen des Absatzes 4 beihilfefähig. Die Ausbildungskosten zum Blindenführhund dagegen sind nicht beihilfefähig.
 
 
 23.1.2
@@ -3961,7 +4183,7 @@ Computerspezialausstattung für Behinderte (zum Beispiel Clear Reader); Spezialh
 e)
 
 
-CPM-Bewegungsschiene motorbetrieben (wenn Physiotherapie für einen alltagsrelevante Bewegungsumfang des Gelenks nicht ausreicht)
+CPM-Bewegungsschiene motorbetrieben (wenn Physiotherapie für einen alltagsrelevanten Bewegungsumfang des Gelenks nicht ausreicht)
 
 
 D
@@ -5164,22 +5386,16 @@ Blinden-Uhr
 m)
 
 
-Blutdruckmessgerät
+Brillenetuis
 
 
 n)
 
 
-Brillenetuis
-
-
-o)
-
-
 Brückentisch
 
 
-p)
+o)
 
 
 Brusthütchen mit Sauger
@@ -7594,7 +7810,17 @@ zur stationären Krankenhausbehandlung.
 32.1.2
 
 
-Fahrtkosten zur ambulanten (hierzu gehören auch ganztägig ambulante oder teilstationäre Behandlungen) oder stationären Krankenbehandlung können nur zwischen dem Aufenthaltsort des Beihilfeberechtigten oder des berücksichtigungsfähigen Angehörigen und der nächstgelegenen geeigneten Behandlungsmöglichkeit als beihilfefähig anerkannt werden.
+Fahrtkosten zur ambulanten (hierzu gehören auch
+
+ganztägig ambulante oder teilstationäre Behandlungen) oder stationären,
+
+auch tagesstationären Krankenbehandlung können nur zwischen dem
+
+Aufenthaltsort des Beihilfeberechtigten oder des
+
+berücksichtigungsfähigen Angehörigen und der nächstgelegenen geeigneten
+
+Behandlungsmöglichkeit als beihilfefähig anerkannt werden.
 
 
 32.1.3
@@ -8110,9 +8336,21 @@ Ambulante Rehabilitation
 
 Maßnahmen der ambulanten medizinischen Rehabilitation sind interdisziplinäre therapeutische Angebote am Wohnort oder in Wohnortnähe, die den Erfordernissen des Einzelfalles flexibel angepasst werden können. Es handelt sich dabei in der Regel um spezielle Komplextherapien im Sinne des § 27, die nach einer akuten Behandlung zur Wiederherstellung oder Verbesserung der Funktion zur Anwendung kommen. Dazu gehören auch Rehabilitations-Nachsorgemaßnahmen nach Rahmenkonzepten der Deutschen Rentenversicherung (zum Beispiel die Intensivierte Rehabilitations-Nachsorge „IRENA“). Wohnortnähe bezeichnet das Einzugsgebiet im Umkreis von 30 Kilometern des Wohnortes in entsprechender Anwendung des § 2a Absatz 1 der
 
-Sächsischen Trennungsgeldverordnung, wobei eine tägliche Rückkehr gewährleistet sein muss. Die Abrechnung durch die Leistungserbringer erfolgt in der Regel pauschal (vergleiche Nummer 37.4).
+Sächsischen Trennungsgeldverordnung, wobei eine tägliche Rückkehr gewährleistet sein muss. Ausnahmen von der danach definierten Wohnortnähe
 
-Verordnete Heilmittelanwendungen, die beispielsweise von einem Physiotherapeuten in einer Physiotherapiepraxis erbracht werden können, sind keine ambulanten medizinischen Rehabilitationsmaßnahmen in diesem Sinne. Die Beihilfefähigkeit von Heilmitteln richtet sich nach § 26 in Verbindung mit der Anlage 3 (vergleiche hierzu VG Chemnitz, Urteil vom 27. Mai 2020, 3 K 558/19).
+können im Einzelfall gegeben sein, wenn die ambulante medizinische
+
+Rehabilitation zum Beispiel auf Grund des hohen Spezialisierungsgrades
+
+der Einrichtung nur an dieser erfolgversprechend durchgeführt werden
+
+kann und dies vom behandelnden Arzt ausdrücklich empfohlen wird. Um dem
+
+mit der Vorgabe der Wohnortnähe verbundenen Ziel der Vermeidung von
+
+Unterbringungskosten zu entsprechen, sind eventuell zusätzlich
+
+anfallende Kosten für eine Unterkunft nicht beihilfefähig. Die Abrechnung durch die Leistungserbringer erfolgt in der Regel pauschal (vergleiche Nummer 37.4). Verordnete Heilmittelanwendungen, die beispielsweise von einem Physiotherapeuten in einer Physiotherapiepraxis erbracht werden können, sind keine ambulanten medizinischen Rehabilitationsmaßnahmen in diesem Sinne. Die Beihilfefähigkeit von Heilmitteln richtet sich nach § 26 in Verbindung mit der Anlage 3 (vergleiche hierzu VG Chemnitz, Urteil vom 27. Mai 2020, 3 K 558/19).
 
 
 37.2.6.2
@@ -8203,7 +8441,7 @@ Hinsichtlich der Beihilfefähigkeit der Aufwendungen für Behandlungen in der Ho
 37.3.6
 
 
-Auf Nummer 20.1.15 (Gemischte Krankenanstalten) wird hingewiesen.
+Auf Nummer 20.1.18 (Gemischte Krankenanstalten) wird hingewiesen.
 
 
 37.4
@@ -8752,18 +8990,42 @@ Impfstoffe sind Arzneimittel, die Antigene oder rekombinante Nukleinsäuren enth
 40.1.2
 
 
-Durch den Verweis auf § 20i Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch bestimmt sich die Beihilfefähigkeit von Aufwendungen für Schutzimpfungen hinsichtlich der Voraussetzungen, Art und Umfang nach der Richtlinie des Gemeinsamen Bundesausschusses über Schutzimpfungen nach § 20i Absatz 1 des Fünften Buches Sozialgesetzbuch (Schutzimpfungs-Richtlinie/SI-RL). Diese Richtlinie regelt die Einzelheiten zu den Leistungen für Schutzimpfungen im Bereich der gesetzlichen Krankenversicherung auf der Grundlage der Empfehlungen der Ständigen Impfkommission (STIKO) beim Robert-Koch-Institut. 
+Durch den Verweis auf § 20i Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch bestimmt sich die Beihilfefähigkeit von Aufwendungen für Schutzimpfungen hinsichtlich der Voraussetzungen, Art und Umfang nach der Richtlinie des Gemeinsamen Bundesausschusses über Schutzimpfungen nach § 20i Absatz 1 des Fünften Buches Sozialgesetzbuch (Schutzimpfungs-Richtlinie/SI-RL). Diese Richtlinie regelt die Einzelheiten zu den Leistungen für Schutzimpfungen im Bereich der gesetzlichen Krankenversicherung auf der Grundlage der Empfehlungen der Ständigen Impfkommission (STIKO) beim Robert-Koch-Institut. Insoweit sind Empfehlungen der STIKO zu  Schutzimpfungen und anderen Maßnahmen der spezifischen Prophylaxe  ebenfalls beihilfefähig.
 
 40.1.3
 
 
-Schutzimpfungen, die von der Sächsischen Impfkommission (SIKO) empfohlen werden, sind ebenfalls beihilfefähig.
+Bislang wurde bestimmt, dass Schutzimpfungen, die von
 
-Damit sind beispielsweise Aufwendungen für Grippeschutzimpfungen (Influenza) ohne Einschränkungen beihilfefähig. Ferner ist damit auch die Schutzimpfung gegen Humane Papillomaviren (HPV) für Personen ab dem vollendeten 9. bis zum vollendeten 26. Lebensjahr beihilfefähig.
+der Sächsischen Impfkommission (SIKO) empfohlen werden, ebenfalls
 
-Aufwendungen für Frühsommer-Meningoenzephalitis (FSME) Schutzimpfungen sind ohne Einschränkungen beihilfefähig. Eine Prüfung, ob sich die geimpfte Person tatsächlich in einem FSME-Risikogebiet aufhält, erfolgt nicht.
+beihilfefähig sind. Damit sind beispielsweise Aufwendungen für
 
-Ebenso sind Schutzimpfungen gegen Masern für empfängliche, das heißt ungeimpfte Personen, ohne Altersbegrenzung beihilfefähig.
+Grippeschutzimpfungen (Influenza) ohne Einschränkungen beihilfefähig.
+
+Ferner ist damit auch die Schutzimpfung gegen Humane Papillomaviren
+
+(HPV) für Personen ab dem vollendeten 9. bis zum vollendeten
+
+26. Lebensjahr beihilfefähig. Aufwendungen für
+
+Frühsommer-Meningoenzephalitis (FSME) Schutzimpfungen sind ohne
+
+Einschränkungen beihilfefähig. Eine Prüfung, ob sich die geimpfte Person
+
+tatsächlich in einem FSME-Risikogebiet aufhält, erfolgt nicht. Ebenso
+
+sind Schutzimpfungen gegen Masern für empfängliche, das heißt ungeimpfte
+
+Personen, ohne Altersbegrenzung beihilfefähig. Die SIKO veröffentlicht
+
+mittlerweile keine eigenen Impfempfehlungen mehr. Schutzimpfungen, die
+
+von der SIKO bislang empfohlen wurden, sind weiterhin dem Grunde nach
+
+beihilfefähig. Gleiches gilt für Empfehlungen zu anderen Maßnahmen der
+
+spezifischen Prophylaxe.
 
 
 40.1.4
@@ -8838,7 +9100,7 @@ Kindern unter 2 Jahren, die innerhalb der letzten 6 Monate wegen bronchopulmonal
 Kindern unter 2 Jahren mit hämodynamisch signifikanten angeborenen Herzfehlern.
 
 
-Beihilfefähig ist die Gabe von bis zu 5 Dosen je RSV-Saison. Darüber hinaus gehende Dosen sind im Einzelfall nur beihilfefähig, wenn eine besondere Begründung der behandelnden Ärzte vorliegt, aus der sich die medizinische Notwendigkeit im Sinne des § 4 Absatz 3 ergibt. Bei Vorliegen der Voraussetzungen in Anlage IV der Arzneimittel-Richtlinie sind auch andere Mittel zur Immunprophylaxe gegen RSV beihilfefähig, zum Beispiel Nirsevimab (Beyfortus), soweit sich nicht bereits ein Anspruch aus einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches Sozialgesetzbuch ergibt.   
+Beihilfefähig ist die Gabe von bis zu 5 Dosen je RSV-Saison. Darüber hinaus gehende Dosen sind im Einzelfall nur beihilfefähig, wenn eine besondere Begründung der behandelnden Ärzte vorliegt, aus der sich die medizinische Notwendigkeit im Sinne des § 4 Absatz 3 ergibt. Bei Vorliegen der Voraussetzungen in Anlage IV der Arzneimittel-Richtlinie sind auch andere Mittel zur Immunprophylaxe gegen RSV beihilfefähig, zum Beispiel Nirsevimab (Beyfortus), soweit sich nicht bereits ein Anspruch aus einer Rechtsverordnung nach § 20i Absatz 3 des Fünften Buches Sozialgesetzbuch ergibt (vergleiche Nummer 40.4.4).
 
 
 40.2
@@ -8888,11 +9150,16 @@ Soweit aufgrund einer Rechtsverordnung des Bundesministeriums für Gesundheit na
 
 40.4.2
 
-Auf Grundlage des § 20i Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch wurde bislang nur die Verordnung zum Anspruch auf Schutzimpfung gegen Masern erlassen. Danach sind insbesondere Aufwendungen für eine zweite Schutzimpfung gegen Masern von erwachsenen Kindern, die zum Beispiel in Schulen und sonstigen Ausbildungseinrichtungen betreut werden, dem Grunde nach beihilfefähig (§ 2 Absatz 2 der Verordnung zum Anspruch auf Schutzimpfung gegen Masern). Auf Grund der Empfehlungen der Sächsischen Impfkommission sind diese Aufwendungen jedoch im Rahmen des Absatzes 1 auch ohne diese Beschränkungen bereits beihilfefähig (vergleiche Nummer 40.1.3).
+Auf Grundlage des § 20i Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch wurde die Verordnung zum Anspruch auf Schutzimpfung gegen Masern erlassen. Danach sind insbesondere Aufwendungen für eine zweite Schutzimpfung gegen Masern von erwachsenen Kindern, die zum Beispiel in Schulen und sonstigen Ausbildungseinrichtungen betreut werden, dem Grunde nach beihilfefähig (§ 2 Absatz 2 der Verordnung zum Anspruch auf Schutzimpfung gegen Masern). Auf Grund der Empfehlungen der Sächsischen Impfkommission sind diese Aufwendungen jedoch im Rahmen des Absatzes 1 auch ohne diese Beschränkungen bereits beihilfefähig (vergleiche Nummer 40.1.3).
 
 40.4.3
 
 Die Verordnung zum Anspruch auf Schutzimpfung und auf Präexpositionsprophylaxe gegen COVID-19 (COVID-19-Vorsorgeverordnung) wurde ebenfalls auf Grundlage des § 20i Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch erlassen. Dementsprechend sind Aufwendungen für verschreibungspflichtige Arzneimittel zur Präexpositionsprophylaxe gegen die Coronavirus-Krankheit-2019 (COVID-19) beihilfefähig bei Personen, wenn bei ihnen aus medizinischen Gründen kein oder kein ausreichender Immunschutz gegen eine Erkrankung an der Coronavirus-Krankheit-2019 (COVID-19) durch eine Schutzimpfung erzielt werden kann oder bei ihnen Schutzimpfungen gegen das Coronavirus SARS-CoV-2 aufgrund einer Kontraindikation nicht durchgeführt werden können und sie einem erhöhten Risiko für einen schweren Verlauf einer Erkrankung an der Coronavirus-Krankheit-2019 (COVID-19) ausgesetzt sind.
+
+
+40.4.4
+
+Mit der auf Grundlage des § 20i Absatz 3  Satz 1 des Fünften Buches Sozialgesetzbuch erlassenen Verordnung  zum Anspruch auf Maßnahmen der spezifischen Prophylaxe gegen  Respiratorische Synzytial Viren (RSV-Prophylaxeverordnung) wird der  Anspruch auf Prophylaxe gegen RSV-Viren geregelt. Aufgrund dessen sind  entsprechende Aufwendungen für Kinder, die das erste Lebensjahr noch  nicht vollendet haben, dem Grunde nach beihilfefähig. Beihilfefähig sind   zur Prophylaxe gegen RSV-Viren einmalig Aufwendungen für Arzneimittel,  die den monoklonalen Antikörper Nirsevimab enthalten.
 
 
 41
@@ -9962,9 +10229,34 @@ Zu Absatz 1
 45.1.1
 
 
-Die Beihilfefähigkeit der Aufwendungen für künstliche Befruchtung ist in Anlehnung an die nach § 27a Absatz 4 des Fünften Buches Sozialgesetzbuch durch den Gemeinsamen Bundesausschuss nach § 92 des Fünften Buches Sozialgesetzbuch bestimmten medizinischen Einzelheiten zu Voraussetzung, Art und Umfang der ärztlichen Maßnahmen zur künstlichen Befruchtung in der Richtlinie des Bundesausschusses der Ärzte und Krankenkassen über ärztliche Maßnahmen zur künstlichen Befruchtung – „Richtlinien über künstliche Befruchtung“ – geregelt, die insoweit ergänzend angewendet werden kann. 
+Medizinische Maßnahmen zur Herbeiführung einer
+
+Schwangerschaft sind nicht als Behandlung einer Krankheit anzusehen,
+
+sondern sind als eigenständiger Beihilfefall anzusehen, bei dem Beihilfe
+
+nicht aus Anlass einer Krankheit, sondern aus Anlass der Unfähigkeit
+
+eines Ehepaares, auf natürlichem Weg Kinder zu zeugen, gewährt wird. Der
+
+Begriff der Krankheit kann nicht durch Auslegung dahingehend erweitert
+
+werden, dass er auch den Wunsch nach einer erfolgreichen Familienplanung
+
+in einer Ehe umfasst. Die künstliche Befruchtung beseitigt keinen
+
+regelwidrigen körperlichen Zustand, sondern umgeht ihn mit Hilfe
+
+medizinischer Technik, ohne auf dessen Heilung zu zielen (VGH München,
+
+Beschluss vom 24. Mai 2022, 24 ZB 20.2268).
 
 45.1.2
+
+
+Die Beihilfefähigkeit der Aufwendungen für künstliche Befruchtung ist in Anlehnung an die nach § 27a Absatz 4 des Fünften Buches Sozialgesetzbuch durch den Gemeinsamen Bundesausschuss nach § 92 des Fünften Buches Sozialgesetzbuch bestimmten medizinischen Einzelheiten zu Voraussetzung, Art und Umfang der ärztlichen Maßnahmen zur künstlichen Befruchtung in der Richtlinie des Bundesausschusses der Ärzte und Krankenkassen über ärztliche Maßnahmen zur künstlichen Befruchtung – „Richtlinien über künstliche Befruchtung“ – geregelt, die insoweit ergänzend angewendet werden kann. 
+
+45.1.3
 
 
 Anspruch auf Beihilfeleistungen zur künstlichen Befruchtung besteht daher nur dann,
@@ -10000,78 +10292,78 @@ wenn ausschließlich Ei- und Samenzellen der Ehegatten verwendet werden und
 für weibliche Beihilfeberechtigte oder berücksichtigungsfähige Angehörige, die das 25. Lebensjahr, jedoch noch nicht das 40. Lebensjahr vollendet haben. Für männliche Beihilfeberechtigte oder berücksichtigungsfähige Angehörige besteht ein diesbezüglicher Anspruch von der Vollendung des 25. bis zur Vollendung des 50. Lebensjahres. Die maßgebliche Altersgrenze für beide Partner muss in jedem Behandlungszyklus (Zyklusfall) zum Zeitpunkt des ersten Zyklustages im Spontanzyklus, des ersten Stimulationstages im stimulierten Zyklus oder des ersten Tages der Down-Regulation erfüllt sein. Liegt nur bei einer Person die geforderte Altersgrenze vor, ist die gesamte Maßnahme nicht beihilfefähig.
 
 
-45.1.3
+45.1.4
 
 
 Die künstliche Befruchtung besteht in der Regel aus mehreren Behandlungsschritten (hierzu Nummer 12 der Richtlinien über künstliche Befruchtung). Ein Behandlungszyklus (Zyklusfall) beginnt nach Nummer 9.1 Satz 3 der Richtlinien über künstliche Befruchtung mit dem ersten Zyklustag im Spontanzyklus, dem ersten Stimulationstag im stimulierten Zyklus beziehungsweise dem ersten Tag der Down-Regulation.
 
-45.1.4
+45.1.5
 
 Der Zyklusfall umfasst den ersten bis 28. Zyklustag für Frauen mit endogen gesteuertem Zyklus (Spontanzyklus) beziehungsweise den Zeitraum vom ersten Stimulationstag bis 14 Tage nach Ovulationsauslösung oder Follikelpunktion zur intendierten Eizellentnahme für Frauen ohne endogen gesteuerten Zyklus. Für Frauen ohne endogen gesteuerten Zyklus und ohne hormonelle Stimulation umfasst der Zyklusfall einen Zeitraum von 28 Tagen. Der bei der In-vitro-Fertilisation (IVF) und der Intracytoplasmatischen Spermieninjektion (ICSI) erforderliche Embryo-Transfer zählt zum Behandlungszyklus und ist daher beihilfefähig, wenn der Transfer innerhalb des Zyklusfalles erfolgt. Auf Grund des § 1 Absatz 1 Nummer 3 des Embryonenschutzgesetzes ist davon auszugehen, dass innerhalb eines Zyklus nicht mehr als drei Embryonen auf eine Frau übertragen werden. Werden imprägnierte Eizellen nach erfolgreicher künstlicher Befruchtung zunächst nicht verwendet, richten sich diesbezügliche Aufwendungen, in der Regel nach Kryokonservierung der imprägnierten Eizellen, ausschließlich nach Absatz 3.
 
-45.1.5
-
-Die Regelungen in Anlage 7, wann eine In-vitro-Fertilisation oder Intracytoplasmatische Spermieninjektion als vollständig durchgeführt gelten, sind unabhängig vom Behandlungszyklus, nach dem sich die Beihilfefähigkeit der sich anschließend entstehenden Aufwendungen (zum Beispiel Embryo-Transfer) richtet.
-
-
 45.1.6
 
-
-Nach Geburt eines Kindes besteht – sofern die sonstigen Voraussetzungen gegeben sind – innerhalb der jeweils zulässigen Höchstzahl von erfolglosen Versuchen erneut ein Anspruch auf Herbeiführung einer Schwangerschaft durch künstliche Befruchtung. Dabei werden die der Geburt vorangegangenen Behandlungsversuche nicht auf die vorstehende Anzahl der Versuche angerechnet. Dies gilt auch, wenn eine sogenannte „klinische Schwangerschaft“ (zum Beispiel Nachweis durch Ultraschall, Eileiterschwangerschaft) vorlag, ohne dass es nachfolgend zur Geburt eines Kindes gekommen ist.
+Die Regelungen in Anlage 7, wann eine In-vitro-Fertilisation oder Intracytoplasmatische Spermieninjektion als vollständig durchgeführt gelten, sind unabhängig vom Behandlungszyklus, nach dem sich die Beihilfefähigkeit der sich anschließend entstehenden Aufwendungen (zum Beispiel Embryo-Transfer) richtet.
 
 
 45.1.7
 
 
-Nicht beihilfefähig sind Aufwendungen für die heterologe Insemination und die heterologe In-Vitro-Fertilisation. Maßnahmen zur künstlichen Befruchtung nach vorhergehender Sterilisation, die nicht medizinisch notwendig war, sind ebenfalls nicht beihilfefähig.
+Nach Geburt eines Kindes besteht – sofern die sonstigen Voraussetzungen gegeben sind – innerhalb der jeweils zulässigen Höchstzahl von erfolglosen Versuchen erneut ein Anspruch auf Herbeiführung einer Schwangerschaft durch künstliche Befruchtung. Dabei werden die der Geburt vorangegangenen Behandlungsversuche nicht auf die vorstehende Anzahl der Versuche angerechnet. Dies gilt auch, wenn eine sogenannte „klinische Schwangerschaft“ (zum Beispiel Nachweis durch Ultraschall, Eileiterschwangerschaft) vorlag, ohne dass es nachfolgend zur Geburt eines Kindes gekommen ist.
 
 
 45.1.8
 
 
-Für die nach Satz 1 Nummer 5 vorgesehene Beratung ist bei der Entscheidung über die Beihilfefähigkeit der Aufwendungen für eine künstliche Befruchtung kein besonderer Nachweis erforderlich. Vielmehr ist davon auszugehen, dass mit der Feststellung einer entsprechenden Diagnose durch einen Arzt, der die künstliche Befruchtung nicht selbst durchführt, auch eine entsprechende Beratung der Ehegatten erfolgte.
+Nicht beihilfefähig sind Aufwendungen für die heterologe Insemination und die heterologe In-Vitro-Fertilisation. Maßnahmen zur künstlichen Befruchtung nach vorhergehender Sterilisation, die nicht medizinisch notwendig war, sind ebenfalls nicht beihilfefähig.
 
 
 45.1.9
 
 
-Nach Satz 5 bis 7 sind Aufwendungen nur für diejenigen Leistungen (Maßnahmen) beihilfefähig, die beim Beihilfeberechtigten selbst (und gegebenenfalls bei seinem berücksichtigungsfähigen Ehegatten, sofern die Voraussetzungen des § 4 Absatz 2 vorliegen) durchgeführt werden. Aufwendungen für Leistungen sind daher der Person zuzurechnen, bei der die Leistung durchgeführt wird (Kostenteilungsprinzip). Das im Bereich der gesetzlichen Krankenversicherung geltende Kostenteilungsprinzip kommt damit auch im Bereich der Beihilfe zur Anwendung. Insoweit sind hierbei auch die Richtlinien über künstliche Befruchtung zu berücksichtigen.
+Für die nach Satz 1 Nummer 5 vorgesehene Beratung ist bei der Entscheidung über die Beihilfefähigkeit der Aufwendungen für eine künstliche Befruchtung kein besonderer Nachweis erforderlich. Vielmehr ist davon auszugehen, dass mit der Feststellung einer entsprechenden Diagnose durch einen Arzt, der die künstliche Befruchtung nicht selbst durchführt, auch eine entsprechende Beratung der Ehegatten erfolgte.
 
 
 45.1.10
 
 
-Die Maßnahmen im Zusammenhang mit der Gewinnung, Untersuchung und Aufbereitung, gegebenenfalls einschließlich der Kapazitation des männlichen Samens (Reifung der Samenzellen, ohne die eine Befruchtung der Eizelle nicht möglich ist) sowie für den HIV-Test beim Ehemann entfallen auf den Ehemann. Aufwendungen für die Beratung des Ehepaares nach Satz 1 Nummer 5 (Beratung über die individuellen medizinischen, psychischen und sozialen Aspekte der künstlichen Befruchtung, nicht nur im Hinblick auf die gesundheitlichen Risiken und die Erfolgsquoten der Behandlungsverfahren, sondern auch auf die körperlichen und seelischen Belastungen insbesondere für die Frau) sowie für die extrakorporalen Maßnahmen im Zusammenhang mit der Zusammenführung von Eizellen und Samenzellen entfallen auf die Ehefrau. Aufwendungen für die Beratung des Ehepaares nach Nummer 16 der Richtlinien über künstliche Befruchtung (Beratung über die speziellen Risiken einer intracytoplasmatischen Spermieninjektion) und die gegebenenfalls in diesem Zusammenhang erfolgende humangenetische Beratung entfallen auf den Ehemann.
+Nach Satz 5 bis 7 sind Aufwendungen nur für diejenigen Leistungen (Maßnahmen) beihilfefähig, die beim Beihilfeberechtigten selbst (und gegebenenfalls bei seinem berücksichtigungsfähigen Ehegatten, sofern die Voraussetzungen des § 4 Absatz 2 vorliegen) durchgeführt werden. Aufwendungen für Leistungen sind daher der Person zuzurechnen, bei der die Leistung durchgeführt wird (Kostenteilungsprinzip). Das im Bereich der gesetzlichen Krankenversicherung geltende Kostenteilungsprinzip kommt damit auch im Bereich der Beihilfe zur Anwendung. Insoweit sind hierbei auch die Richtlinien über künstliche Befruchtung zu berücksichtigen.
 
 
 45.1.11
 
 
-Zur Vermeidung von die Fürsorgepflicht verletzenden Härtefällen kann durch die Festsetzungsstelle im  Einzelfall abweichend von Nummer 45.1.9 auf die Erstattungspraxis der beteiligten Krankenversicherungen  abgestellt werden. Hierbei ist ein strenger Maßstab anzulegen. Auf Nummer 4.3.9 wird verwiesen.  Ein Härtefall liegt nicht vor, wenn der berücksichtigungsfähige Ehegatte gesetzlich krankenversichert ist und die ihm zuzurechnenden Aufwendungen von seiner gesetzlichen Krankenversicherung erstattet werden. Hierbei ist unerheblich, wenn Leistungen der gesetzlichen Krankenversicherung nach § 27a Absatz 3 des Fünften Buches Sozialgesetzbuch auf 50 Prozent begrenzt werden. Nummer 45.1.15 bleibt unberührt. Bei sich überschneidenden Ansprüchen von Ehegatten, die unterschiedlichen Krankenversicherungssystemen angehören, steht diesen ein Wahlrecht zu (vergleiche auch BSG, Urteil vom 29. August 2023, B 1 KR 13/22 R).  
+Die Maßnahmen im Zusammenhang mit der Gewinnung, Untersuchung und Aufbereitung, gegebenenfalls einschließlich der Kapazitation des männlichen Samens (Reifung der Samenzellen, ohne die eine Befruchtung der Eizelle nicht möglich ist) sowie für den HIV-Test beim Ehemann entfallen auf den Ehemann. Aufwendungen für die Beratung des Ehepaares nach Satz 1 Nummer 5 (Beratung über die individuellen medizinischen, psychischen und sozialen Aspekte der künstlichen Befruchtung, nicht nur im Hinblick auf die gesundheitlichen Risiken und die Erfolgsquoten der Behandlungsverfahren, sondern auch auf die körperlichen und seelischen Belastungen insbesondere für die Frau) sowie für die extrakorporalen Maßnahmen im Zusammenhang mit der Zusammenführung von Eizellen und Samenzellen entfallen auf die Ehefrau. Aufwendungen für die Beratung des Ehepaares nach Nummer 16 der Richtlinien über künstliche Befruchtung (Beratung über die speziellen Risiken einer intracytoplasmatischen Spermieninjektion) und die gegebenenfalls in diesem Zusammenhang erfolgende humangenetische Beratung entfallen auf den Ehemann.
+
 
 45.1.12
+
+
+Zur Vermeidung von die Fürsorgepflicht verletzenden Härtefällen kann durch die Festsetzungsstelle im  Einzelfall abweichend von Nummer 45.1.10 auf die Erstattungspraxis der beteiligten Krankenversicherungen  abgestellt werden. Hierbei ist ein strenger Maßstab anzulegen. Auf Nummer 4.3.9 wird verwiesen.  Ein Härtefall liegt nicht vor, wenn der berücksichtigungsfähige Ehegatte gesetzlich krankenversichert ist und die ihm zuzurechnenden Aufwendungen von seiner gesetzlichen Krankenversicherung erstattet werden. Hierbei ist unerheblich, wenn Leistungen der gesetzlichen Krankenversicherung nach § 27a Absatz 3 des Fünften Buches Sozialgesetzbuch auf 50 Prozent begrenzt werden. Nummer 45.1.16 bleibt unberührt. Bei sich überschneidenden Ansprüchen von Ehegatten, die unterschiedlichen Krankenversicherungssystemen angehören, steht diesen ein Wahlrecht zu (vergleiche auch BSG, Urteil vom 29. August 2023, B 1 KR 13/22 R).  
+
+45.1.13
 
 Etwaige Zuwendungen des Freistaates Sachsen aufgrund der RL Familienförderung vom 6. Juli 2023 (SächsABl. S. 1048) für eine In-Vitro-Fertilisations-Behandlung oder eine Intrazytoplasmatische Spermieninjektions-Behandlung werden gemäß § 6 Absatz 1 auf die beihilfefähigen Aufwendungen angerechnet, soweit der Beihilfeberechtigte oder der berücksichtigungsfähige Ehegatte diese Zuwendung unmittelbar erhalten hat.
 
 
-45.1.13
+45.1.14
 
 
 Bei im Ausland entstandenen Aufwendungen ist das Vorliegen einer Genehmigung nach § 121a des Fünften Buches Sozialgesetzbuch beziehungsweise einer dem dortigen Recht gegebenenfalls entsprechenden Genehmigung – sofern überhaupt erforderlich – nach Satz 1 Nummer 5 nicht zu prüfen. 
 
-45.1.14
+45.1.15
 
 Eine Anerkennung eines Behandlungsplanes vor Beginn der Behandlung durch die Festsetzungsstelle ist nicht erforderlich.
 
 
-45.1.15
+45.1.16
 
 Die dem berücksichtigungsfähigen Ehegatten zuzurechnenden Aufwendungen sind aufgrund von § 5 Absatz 3 Satz 1 nicht beihilfefähig, wenn dieser gesetzlich
 
 krankenversichert ist.
 
 
-45.1.16
+45.1.17
 
 Im Hinblick auf die Begrenzung der Versuchszahlen nach Absatz 1 Nummer 2 sind bereits durchgeführte Versuche, die beispielsweise in anderen Versicherungsverhältnissen, insbesondere in der gesetzlichen Krankenversicherung, erbracht wurden, bei der Höchstzahl zu berücksichtigen.
 
@@ -10244,28 +10536,124 @@ Zu Absatz 1
 47.1.1
 
 
-Aufwendungen für Erste Hilfe können insbesondere bei Unfällen und plötzlichen Erkrankungen entstehen. Die Notwendigkeit, Verletzten oder Erkrankten Erste Hilfe zu leisten, ergibt sich aus den Umständen des Einzelfalls. Diese Aufwendungen sind neben Aufwendungen nach Abschnitt 2 und § 44 Absatz 1 beihilfefähig. Die Beihilfefähigkeit von Aufwendungen für sich anschließende Rettungsfahrten und -flüge, zum Beispiel ins Krankenhaus, richtet sich nach § 32 Absatz 2.
+Aufwendungen für Erste Hilfe können insbesondere bei
+
+Unfällen und plötzlichen Erkrankungen entstehen. Umfasst sind dabei
+
+insbesondere rettungsdienstliche Maßnahmen. Zum Begriff des
+
+Rettungsdienstes wird auf die Begriffsbestimmungen in § 2
+
+Absatz 3 des Sächsisches Gesetzes über den Brandschutz,
+
+Rettungsdienst und Katastrophenschutz verwiesen. Rettungsdienst umfasst
+
+danach die Notfallrettung und den Krankentransport. Notfallrettung ist
+
+die in der Regel unter Einbeziehung von Notärzten erfolgende
+
+Durchführung von lebensrettenden Maßnahmen bei Notfallpatienten, die
+
+Herstellung ihrer Transportfähigkeit und ihre unter fachgerechter
+
+Betreuung erfolgende Beförderung in das für die weitere Versorgung
+
+nächstgelegene geeignete Krankenhaus oder die nächstgelegene geeignete
+
+Behandlungseinrichtung. Notfallpatienten sind Kranke oder Verletzte, die
+
+sich in Lebensgefahr befinden oder bei denen schwere gesundheitliche
+
+Schäden zu befürchten sind, wenn sie nicht umgehend medizinische Hilfe
+
+erhalten. Krankentransport ist die anderen Kranken, Verletzten oder
+
+sonst Hilfebedürftigen nötigenfalls geleistete Hilfe und ihre unter
+
+fachgerechter Betreuung erfolgende Beförderung.
 
 
 47.1.2
 
 
-Sind durch Erste-Hilfe-Leistungen besondere Kosten entstanden, zum Beispiel für die Herbeiholung eines Arztes, den Einsatz von Rettungskräften, Sanitätern und anderen Personen, für einen Krankenwagen oder sonstige Beförderungsmittel, sind diese Aufwendungen einschließlich der dabei verbrauchten Stoffe (insbesondere Arznei-, Hilfs- und Verbandmittel) beihilfefähig.
+Aufwendungen für Abschlepp- und Bergungskosten von
+
+Sachen sowie die Suche nach Personen oder Sachen sind keine Maßnahmen im
+
+Rahmen der Ersten Hilfe im Sinne des Absatzes 1. Diese
+
+Aufwendungen sind daher auch dann nicht beihilfefähig, wenn diese einer
+
+rettungsdienstlichen Maßnahme an einer verletzten oder erkrankten Person
+
+vorangehen (zum Beispiel die Beseitigung von Geröll, Lawinen oder eines
+
+verunfallten Fahrzeugs, um Zugang zu einer verletzten Person zu
+
+erhalten).
 
 
 47.1.3
 
 
-Für rettungsdienstliche Maßnahmen richtet sich die Beihilfefähigkeit der Aufwendungen nach Maßgabe der auf Grundlage des § 32 Absatz 5 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz oder entsprechender Regelungen anderer Länder erlassenen Satzungen der Träger des Rettungsdienstes (im Freistaat Sachsen: Landkreise und Kreisfreie Städte).
+Die Notwendigkeit, Verletzten oder Erkrankten Erste
+
+Hilfe zu leisten, ergibt sich aus den Umständen des Einzelfalls. Diese
+
+Aufwendungen sind neben Aufwendungen nach Abschnitt 2 und § 44
+
+Absatz 1 beihilfefähig. Die Beihilfefähigkeit von Aufwendungen für
+
+sich anschließende Rettungsfahrten und -flüge, zum Beispiel ins
+
+Krankenhaus, richtet sich nach § 32 Absatz 2. Zur
+
+Beihilfefähigkeit für Aufwendungen zur Überführung einer Leiche oder
+
+Urne wird auf § 36 verwiesen.
 
 
 47.1.4
 
 
-Werden im Rahmen der Erste-Hilfe-Maßnahmen Leistungen angefordert, die sich vor Ort als nicht mehr notwendig erweisen, sind diese Aufwendungen beihilfefähig, soweit zwischen dem Unfall oder der plötzlichen Erkrankung und der angeforderten Leistung kein krasses Missverhältnis besteht. Wird zum Beispiel nach einem schweren Verkehrsunfall ein Rettungshubschrauber angefordert und ergibt sich im Rahmen der Erste-Hilfe-Behandlung vor Ort später, dass ein Transport in ein Krankenhaus auch mit einem bodengebundenen Beförderungsmittel (zum Beispiel Rettungstransportwagen) erfolgen kann oder ein Transport nicht mehr erforderlich ist, können die Kosten des Rettungshubschraubereinsatzes durchaus beihilfefähig sein.
+Sind durch Erste-Hilfe-Leistungen besondere Kosten
+
+entstanden, zum Beispiel für die Herbeiholung eines Arztes, den Einsatz
+
+von Rettungskräften, Sanitätern und anderen Personen, für einen
+
+Krankenwagen oder sonstige Beförderungsmittel, sind diese Aufwendungen
+
+einschließlich der dabei verbrauchten Stoffe (insbesondere Arznei-,
+
+Hilfs- und Verbandmittel) beihilfefähig.
 
 
 47.1.5
+
+
+Für rettungsdienstliche Maßnahmen richtet sich die
+
+wirtschaftliche Angemessenheit der Aufwendungen nach Maßgabe der auf
+
+Grundlage des § 32 Absatz 5 des Sächsischen Gesetzes über den
+
+Brandschutz, Rettungsdienst und Katastrophenschutz oder entsprechender
+
+Regelungen anderer Länder erlassenen Satzungen der Träger des
+
+Rettungsdienstes (im Freistaat Sachsen: Landkreise und Kreisfreie
+
+Städte).
+
+
+47.1.6
+
+
+Werden im Rahmen der Erste-Hilfe-Maßnahmen Leistungen angefordert, die sich vor Ort als nicht mehr notwendig erweisen, sind diese Aufwendungen beihilfefähig, soweit zwischen dem Unfall oder der plötzlichen Erkrankung und der angeforderten Leistung kein krasses Missverhältnis besteht. Wird zum Beispiel nach einem schweren Verkehrsunfall ein Rettungshubschrauber angefordert und ergibt sich im Rahmen der Erste-Hilfe-Behandlung vor Ort später, dass ein Transport in ein Krankenhaus auch mit einem bodengebundenen Beförderungsmittel (zum Beispiel Rettungstransportwagen) erfolgen kann oder ein Transport nicht mehr erforderlich ist, können die Kosten des Rettungshubschraubereinsatzes durchaus beihilfefähig sein.
+
+
+47.1.7
 
 
 Etwaige Ersatzansprüche Dritter, die bei der Hilfeleistung einen Schaden erlitten haben, sind ebenfalls beihilfefähig, soweit der durch die Erste Hilfe entstandene Schaden nicht auf andere Weise ersetzt werden kann (zum Beispiel über die gesetzliche Unfallversicherung; § 13 des Siebten Buches Sozialgesetzbuch). 
@@ -10705,7 +11093,7 @@ Zu Absatz 4
 
 48a.4.1
 
-Wählen Pflegebedürftige des Pflegegrades 1 vollstationäre Pflege, sind Aufwendungen in Höhe von 125 Euro beihilfefähig. Auch der Anspruch auf zusätzliche Betreuung und Aktivierung in voll- und teilstationären Pflegeeinrichtungen gemäß § 55 Absatz 2 steht Pflegebedürftigen des Pflegegrades 1 zu.
+Wählen Pflegebedürftige des Pflegegrades 1 vollstationäre Pflege, sind Aufwendungen in Höhe von 131 Euro beihilfefähig. Auch der Anspruch auf zusätzliche Betreuung und Aktivierung in voll- und teilstationären Pflegeeinrichtungen gemäß § 55 Absatz 2 steht Pflegebedürftigen des Pflegegrades 1 zu.
 
 
 49
@@ -10726,8 +11114,7 @@ Zu Absatz 1
 
 49.1.1
 
-Erfasst wird die Tätigkeit, die die geeignete Pflegekraft (Berufspflegekraft) bei der häuslichen Pflegehilfe erbringt. Häusliche Pflegehilfe umfasst körperbezogene Pflegemaßnahmen und pflegerische Betreuungsmaßnahmen sowie Hilfen bei der Haushaltsführung.
-
+Erfasst wird die Tätigkeit, die die geeignete Pflegekraft (Berufspflegekraft) bei der häuslichen Pflegehilfe erbringt. Häusliche Pflegehilfe umfasst körperbezogene Pflegemaßnahmen und pflegerische Betreuungsmaßnahmen sowie Hilfen bei der Haushaltsführung. Auf Nummer 49.5.2 wird verwiesen.
 
 49.1.2
 
@@ -10956,15 +11343,19 @@ Pflegebedürftigen, die in vollstationären Pflegeeinrichtungen leben und Leistu
 
 49.2.12
 
-Beispiele (jeweils zum Stand 1. Januar 2024):
+Beispiele (jeweils zum Stand 1. Januar 2025):
 
 
 49.2.12.1
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 2 vollstationäre Pflege nach § 43 des Elften Buches Sozialgesetzbuch (§ 55) in Anspruch (100 Prozent = 770 Euro). Vom 3. März bis 5. März sowie vom 17. März bis 19. März wird er in häuslicher Umgebung gepflegt, wofür er Pflegegeld (100 Prozent = 332 Euro) beansprucht. Die Rechnung der vollstationären Pflegeeinrichtung beträgt 650 Euro. Der beihilfefähige Höchstbetrag nach Absatz 1 beträgt 689 Euro.
+Der in der privaten Pflegeversicherung versicherte  Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 2   vollstationäre Pflege nach § 43 des Elften Buches Sozialgesetzbuch   (§ 55) in Anspruch (100 Prozent = 805 Euro). Vom  3. März bis 5. März sowie vom 17. März bis 19. März  wird er in häuslicher Umgebung gepflegt, wofür er Pflegegeld  (100 Prozent = 347 Euro) beansprucht. Die Rechnung der  vollstationären Pflegeeinrichtung beträgt 679,86 Euro. Der  beihilfefähige Höchstbetrag nach Absatz 1 beträgt 796 Euro.
 
 
-Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil der Aufwendungen der vollstationären Pflege vom beihilfefähigen Höchstbetrag nach Absatz 1 zu ermitteln:
+Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil der
+
+Aufwendungen der vollstationären Pflege vom beihilfefähigen Höchstbetrag
+
+nach Absatz 1 zu ermitteln:
 
 
 Beispielberechnungen
@@ -10981,7 +11372,11 @@ Beispielberechnungen
 
 | –
 
-| Anteil der Aufwendungen von der vollstationären Pflege vom beihilfefähigen Höchstbetrag nach Absatz 1 (650 Euro von 761 Euro)
+| Anteil der
+
+Aufwendungen von der vollstationären Pflege vom beihilfefähigen
+
+Höchstbetrag nach Absatz 1 (679,86 Euro von 796 Euro)
 
 | 85,41 Prozent
 
@@ -10995,17 +11390,23 @@ Beispielberechnungen
 
 | –
 
-| Höchstgrenze für das Pflegegeld (14,59 Prozent von 332 Euro)
+| Höchstgrenze für das Pflegegeld (14,59 Prozent von 347 Euro)
 
-| 48,44 Euro
+| 50,63 Euro
 
 
 | –
 
-| Zahlung des Pflegegeldes für die Dauer von 6 Tagen (da für den ersten und letzten Tag der häuslichen Pflegehilfe volles Pflegegeld gewährt wird und der Kalendermonat mit 30 Tagen anzusetzen ist)
-Höhe des Pflegegeldes (= 6/30 von 48,44 Euro)
+| Zahlung des
 
-| 9,69 Euro
+Pflegegeldes für die Dauer von 6 Tagen (da für den ersten und letzten
+
+Tag der häuslichen Pflegehilfe volles Pflegegeld gewährt wird und der
+
+Kalendermonat mit 30 Tagen anzusetzen ist)
+Höhe des Pflegegeldes (= 6/30 von 50,63 Euro)
+
+| 10,13 Euro
 
 
 | a)
@@ -11019,18 +11420,18 @@ Höhe des Pflegegeldes (= 6/30 von 48,44 Euro)
 
 | –
 
-| zu den Aufwendungen für die vollstationäre Pflege 30 Prozent von 650 Euro
+| zu den Aufwendungen für die vollstationäre Pflege 30 Prozent von 679,86 Euro
 
-| 195,00 Euro
+| 203,96 Euro
 
 
 | 
 
 | –
 
-| zum Pflegegeld 30 Prozent von 9,69 Euro
+| zum Pflegegeld 30 Prozent von 10,13 Euro
 
-|     2,91 Euro
+|     3,04 Euro
 
 
 | 
@@ -11039,7 +11440,7 @@ Höhe des Pflegegeldes (= 6/30 von 48,44 Euro)
 
 | Gesamt
 
-| 197,91 Euro
+| 207,00 Euro
 
 
 | b)
@@ -11053,18 +11454,18 @@ Höhe des Pflegegeldes (= 6/30 von 48,44 Euro)
 
 | –
 
-| zu den Aufwendungen für die vollstationäre Pflege 70 Prozent von 650 Euro
+| zu den Aufwendungen für die vollstationäre Pflege 70 Prozent von 679,86 Euro
 
-| 455,00 Euro
+| 475,90 Euro
 
 
 | 
 
 | –
 
-| Pauschalbeihilfe 9,69 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 2,91 Euro
+| Pauschalbeihilfe 10,13 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 3,04 Euro
 
-|     6,78 Euro
+|     7,09 Euro
 
 
 | 
@@ -11073,15 +11474,21 @@ Höhe des Pflegegeldes (= 6/30 von 48,44 Euro)
 
 | Gesamt
 
-| 461,78 Euro
+| 482,99 Euro
 
 
 49.2.12.2
 
-Wie Beispiel 49.2.12.1, jedoch beträgt die Rechnung für die vollstationäre Pflegeeinrichtung 800 Euro.
+Wie Beispiel 49.2.12.1, jedoch beträgt die Rechnung für die vollstationäre Pflegeeinrichtung 900 Euro.
 
 
-Da mit den Aufwendungen der vollstationären Pflege der beihilfefähige Höchstbetrag nach Absatz 1 (761 Euro) überschritten wird, kann keine anteilige Pauschalbeihilfe mehr gezahlt werden.
+Da mit den Aufwendungen der vollstationären Pflege der
+
+beihilfefähige Höchstbetrag nach Absatz 1 (796 Euro)
+
+überschritten wird, kann keine anteilige Pauschalbeihilfe mehr gezahlt
+
+werden.
 
 
 49.3
@@ -11108,15 +11515,29 @@ Insgesamt dürfen die Pflege für die Berufspflegekraft und Pauschalbeihilfe ein
 
 49.3.3
 
-Beispiele (jeweils zum Stand 1. Januar 2024):
+Beispiele (jeweils zum Stand 1. Januar 2025):
 
 
 49.3.3.1
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 die Pflege durch Berufspflegekräfte (100 Prozent = 1 432 Euro) und das Pflegegeld (100 Prozent = 573 Euro) in Anspruch. Die Rechnung für die Pflege durch Berufspflegekräfte beträgt 501,20 Euro.
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 die
+
+Pflege durch Berufspflegekräfte (100 Prozent =
+
+1 497 Euro) und das Pflegegeld (100 Prozent =
+
+599 Euro) in Anspruch. Die Rechnung für die Pflege durch
+
+Berufspflegekräfte beträgt 523,95 Euro.
 
 
-Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu ermitteln:
+Vorüberlegung: Für die Berechnung des Anteils des
+
+Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu
+
+ermitteln:
 
 
 Beispielberechnungen
@@ -11133,7 +11554,7 @@ Beispielberechnungen
 
 | –
 
-| Anteil der Pflege durch Berufspflegekräfte (501,20 Euro von 1 432 Euro)
+| Anteil der Pflege durch Berufspflegekräfte (523,95 Euro von 1 497 Euro)
 
 | 35 Prozent
 
@@ -11147,9 +11568,9 @@ Beispielberechnungen
 
 | –
 
-| Höchstgrenze für das Pflegegeld (65 Prozent von 573 Euro)
+| Höchstgrenze für das Pflegegeld (65 Prozent von 599 Euro)
 
-| 372,45 Euro
+| 389,35 Euro
 
 
 | a)
@@ -11163,18 +11584,18 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 30 Prozent von 501,20 Euro
+| zu den Aufwendungen für die Berufspflegekraft 30 Prozent von 523,95 Euro
 
-| 150,36 Euro
+| 157,19 Euro
 
 
 | 
 
 | –
 
-| zum Pflegegeld 30 Prozent von 372,45 Euro
+| zum Pflegegeld 30 Prozent von 389,35 Euro
 
-| 111,74 Euro
+|   116,81 Euro
 
 
 | 
@@ -11183,7 +11604,7 @@ Beispielberechnungen
 
 | Gesamt
 
-| 262,10 Euro
+| 274,00 Euro
 
 
 | b)
@@ -11197,18 +11618,18 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 70 Prozent von 501,20 Euro
+| zu den Aufwendungen für die Berufspflegekraft 70 Prozent von 523,95 Euro
 
-| 350,84 Euro
+| 366,77 Euro
 
 
 | 
 
 | –
 
-| Pauschalbeihilfe 354,25 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 111,74 Euro
+| Pauschalbeihilfe 389,35 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 116,81 Euro
 
-| 260,71 Euro
+|   272,54 Euro
 
 
 | 
@@ -11217,15 +11638,19 @@ Beispielberechnungen
 
 | Gesamt
 
-| 611,55 Euro
+| 639,31 Euro
 
 
 49.3.3.2
 
-Der in der sozialen Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 4 die Pflege durch Berufspflegekräfte (100 Prozent = 1 778 Euro) und das Pflegegeld (100 Prozent = 765 Euro) in Anspruch. Als von der Regelung des § 28 Absatz 2 des Elften Buches Sozialgesetzbuch erfasste Person erhält der Versorgungsempfänger von der sozialen Pflegeversicherung in diesem Fall 50 Prozent. Die Rechnung für die Pflege durch Berufspflegekräfte beträgt 711,20 Euro.
+Der in der sozialen Pflegeversicherung versicherte  Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 4 die  Pflege durch Berufspflegekräfte (100 Prozent =  1 859 Euro) und das Pflegegeld (100 Prozent =  800 Euro) in Anspruch. Als von der Regelung des § 28  Absatz 2 des Elften Buches Sozialgesetzbuch erfasste Person erhält  der Versorgungsempfänger von der sozialen Pflegeversicherung in diesem  Fall 50 Prozent. Die Rechnung für die Pflege durch  Berufspflegekräfte beträgt 743,60 Euro.
 
 
-Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu ermitteln:
+Vorüberlegung: Für die Berechnung des Anteils des
+
+Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu
+
+ermitteln:
 
 
 Beispielberechnungen
@@ -11242,7 +11667,7 @@ Beispielberechnungen
 
 | –
 
-| Anteil der Pflege durch Berufspflegekräfte (711,20 Euro von 1 778 Euro)
+| Anteil der Pflege durch Berufspflegekräfte (743,60 Euro von 1 859 Euro)
 
 | 40 Prozent
 
@@ -11256,16 +11681,9 @@ Beispielberechnungen
 
 | –
 
-| Höchstgrenze für das Pflegegeld (60 Prozent von 765 Euro)
+| Höchstgrenze für das Pflegegeld (60 Prozent von 800 Euro)
 
-| 459,00 Euro
-
-
-| 
-
-| 
-
-| 
+| 480,00 Euro
 
 
 | a)
@@ -11279,18 +11697,18 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 50 Prozent von 711,20 Euro
+| zu den Aufwendungen für die Berufspflegekraft 50 Prozent von 743,60 Euro
 
-| 355,60 Euro
+| 371,80 Euro
 
 
 | 
 
 | –
 
-| zum Pflegegeld 50 Prozent von 459,00 Euro
+| zum Pflegegeld 50 Prozent von 480,00 Euro
 
-| 229,50 Euro
+|   240,00 Euro
 
 
 | 
@@ -11299,8 +11717,7 @@ Beispielberechnungen
 
 | Gesamt
 
-| 585,10 Euro
-
+| 611,80 Euro
 
 | b)
 
@@ -11313,18 +11730,18 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen der Berufspflegekraft 50 Prozent von 711,20 Euro
+| zu den Aufwendungen der Berufspflegekraft 50 Prozent von 743,60 Euro
 
-| 355,60 Euro
+| 371,80 Euro
 
 
 | 
 
 | –
 
-| Pauschalbeihilfe 459,00 Euro abzüglich des anteiligen Pflegegeldes der sozialen Pflegeversicherung von 229,50 Euro
+| Pauschalbeihilfe 480,00 Euro abzüglich des anteiligen Pflegegeldes der sozialen Pflegeversicherung von 240,00 Euro
 
-| 229,50 Euro
+|   240,00 Euro
 
 
 | 
@@ -11333,15 +11750,35 @@ Beispielberechnungen
 
 | Gesamt
 
-| 585,10 Euro
+| 611,80 Euro
 
 
 49.3.3.3
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 2, der ihm ab 15. August bewilligt wurde, die Pflege durch Berufspflegekräfte (100 Prozent = 761 Euro) und das Pflegegeld (100 Prozent = 332 Euro) in Anspruch. Die Rechnung für die Pflege durch Berufspflegekräfte ab 15. August beträgt 200 Euro.
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 2, der
+
+ihm ab 15. August bewilligt wurde, die Pflege durch
+
+Berufspflegekräfte (100 Prozent = 796 Euro) und das Pflegegeld
+
+(100 Prozent = 347 Euro) in Anspruch. Die Rechnung für die
+
+Pflege durch Berufspflegekräfte ab
+
+15. August beträgt 209,19 Euro.
 
 
-Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu ermitteln. Das so ermittelte Pflegegeld wird anteilig für die Zeit vom 15. August bis 31. August (17 Tage) gewährt:
+Vorüberlegung: Für die Berechnung des Anteils des
+
+Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu
+
+ermitteln. Das so ermittelte Pflegegeld wird anteilig für die Zeit vom
+
+15. August bis 31. August (17 Tage)
+
+gewährt:
 
 
 Beispielberechnungen
@@ -11358,7 +11795,7 @@ Beispielberechnungen
 
 | –
 
-| Anteil der Pflege durch Berufspflegekräfte (200 Euro von 761 Euro)
+| Anteil der Pflege durch Berufspflegekräfte (209,19 Euro von 796 Euro)
 
 | 26,28 Prozent
 
@@ -11372,16 +11809,16 @@ Beispielberechnungen
 
 | –
 
-| Höchstgrenze für das Pflegegeld (73,72 Prozent von 332 Euro)
+| Höchstgrenze für das Pflegegeld (73,72 Prozent von 347 Euro)
 
-| 244,75 Euro
+| 255,81 Euro
 
 
 | –
 
-| anteiliges Pflegegeld für die Dauer von 17 Tagen, Höhe des anteiligen Pflegegeldes (= 17/30 von 244,75 Euro)
+| anteiliges Pflegegeld für die Dauer von 17 Tagen, Höhe des anteiligen Pflegegeldes (= 17/30 von 255,81 Euro)
 
-| 138,69 Euro
+| 144,96 Euro
 
 
 | a)
@@ -11395,27 +11832,28 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 30 Prozent von 200 Euro
+| zu den Aufwendungen für die Berufspflegekraft 30 Prozent von 209,19 Euro
 
-| 60,00 Euro
+| 62,76 Euro
 
 
 | 
 
 | –
 
-| zum Pflegegeld 30 Prozent von 138,69 Euro
+| zum Pflegegeld 30 Prozent von 144,96 Euro
 
-|   41,61 Euro
+|    43,49 Euro
 
+
+| 
 
 | 
 
-| 
 
 | Gesamt
 
-| 101,61 Euro
+| 106,25 Euro
 
 
 | b)
@@ -11429,27 +11867,28 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 70 Prozent von 200 Euro
+| zu den Aufwendungen für die Berufspflegekraft 70 Prozent von 209,19 Euro
 
-| 140,00 Euro
+| 146,43 Euro
 
 
 | 
 
 | –
 
-| Pauschalbeihilfe 138,69 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 41,61 Euro
+| Pauschalbeihilfe 144,96 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 43,49 Euro
 
-|   97,08 Euro
+|   101,47 Euro
 
+
+| 
 
 | 
 
-| 
 
 | Gesamt
 
-| 237,08 Euro
+| 247,90 Euro
 
 
 49.3.4
@@ -11467,13 +11906,39 @@ Sind innerhalb eines Kalendermonats keine Beihilfeleistungen nach Absatz 1 erbra
 
 49.3.7
 
-Beispiel (zum Stand 1. Januar 2024):
+Beispiel (zum Stand 1. Januar 2025):
 
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 2 die Pflege durch Berufspflegekräfte (100 Prozent = 762 Euro) und das Pflegegeld (100 Prozent = 332 Euro) in Anspruch. Vom 1. April bis 30. April befindet er sich in vollstationärer Krankenhausbehandlung. Aufwendungen für die Pflege durch Berufspflegekräfte sind in diesem Zeitraum nicht angefallen.
+Der in der
+
+privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als
+
+Pflegebedürftiger des Pflegegrades 2 die Pflege durch Berufspflegekräfte
+
+(100 Prozent = 796 Euro) und das Pflegegeld (100 Prozent
+
+= 347 Euro) in Anspruch. Vom 1. April bis 30. April
+
+befindet er sich in vollstationärer Krankenhausbehandlung. Aufwendungen
+
+für die Pflege durch Berufspflegekräfte sind in diesem Zeitraum nicht
+
+angefallen.
 
 
-Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu ermitteln. Zeiten einer vollstationären Krankenhausbehandlung des Pflegebedürftigen nach § 20 unterbrechen die häusliche Dauerpflege. Dies gilt jedoch nicht in den ersten vier Wochen einer vollstationären Krankenhausbehandlung. Folglich kann für 28 Tage Pflegegeld gewährt werden:
+Vorüberlegung: Für die Berechnung des Anteils des
+
+Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu
+
+ermitteln. Zeiten einer vollstationären Krankenhausbehandlung des
+
+Pflegebedürftigen nach § 20 unterbrechen die häusliche Dauerpflege.
+
+Dies gilt jedoch nicht in den ersten vier Wochen einer vollstatio­nären
+
+Krankenhausbehandlung. Folglich kann für 28 Tage Pflegegeld gewährt
+
+werden:
 
 
 Beispielberechnungen
@@ -11504,16 +11969,17 @@ Beispielberechnungen
 
 | –
 
-| Höchstgrenze für das Pflegegeld (100 Prozent von 332 Euro)
+| Höchstgrenze für das Pflegegeld (100 Prozent von 347 Euro)
 
-| 332,00 Euro
+| 347,00 Euro
 
 
 | –
 
-| anteiliges Pflegegeld für die Dauer von 28 Tagen, Höhe des anteiligen Pflegegeldes (= 28/30 von 332 Euro)
+| anteiliges Pflegegeld für die Dauer von 28 Tagen, Höhe des anteiligen Pflegegeldes
+(= 28/30 von 347 Euro)
 
-| 309,87 Euro
+| 323,87 Euro
 
 
 | a)
@@ -11527,9 +11993,9 @@ Beispielberechnungen
 
 | –
 
-| zum Pflegegeld 30 Prozent von 309,87 Euro
+| zum Pflegegeld 30 Prozent von 323,87 Euro
 
-| 92,96 Euro
+| 97,16 Euro
 
 
 | b)
@@ -11543,9 +12009,9 @@ Beispielberechnungen
 
 | –
 
-| Pauschalbeihilfe 309,87 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 92,96 Euro
+| Pauschal­beihilfe 323,87 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 97,16 Euro
 
-| 216,91 Euro“.
+| 226,71 Euro
 
 
 49.3.8
@@ -12131,15 +12597,47 @@ Zu Absatz 5
 
 49.5.1
 
-Bei Pflegeaufwendungen für geeignete Pflegekräfte im Sinne des Absatzes 1 sowie bei der Inanspruchnahme von Kombinationsleistungen nach Absatz 3, die nicht durch die Sätze des Elften Buches Sozialgesetzbuch in ausreichendem Umfang gedeckt sind, sind die nach Absatz 4 festgesetzten Obergrenzen beihilfefähig. Die Pauschalbeihilfe nach Absatz 2 für andere geeignete Pflegekräfte wird jedoch pauschal gewährt. Eine Erhöhung dieser Pauschalbeihilfe ist daher ausgeschlossen, auch wenn im Einzelfall höhere Aufwendungen nachgewiesen werden. 
+Bei Pflegeaufwendungen für geeignete Pflegekräfte im Sinne des Absatzes 1 sowie bei der Inanspruchnahme von Kombinationsleistungen nach Absatz 3, die nicht durch die Sätze des Elften Buches Sozialgesetzbuch in ausreichendem Umfang gedeckt sind, sind die nach Absatz 5 festgesetzten Obergrenzen beihilfefähig. Die Pauschalbeihilfe nach Absatz 2 für andere geeignete Pflegekräfte wird jedoch pauschal gewährt. Eine Erhöhung dieser Pauschalbeihilfe ist daher ausgeschlossen, auch wenn im Einzelfall höhere Aufwendungen nachgewiesen werden. 
 
 49.5.2
 
-Der Bemessungssatz für Aufwendungen nach Absatz 5 beträgt 100 Prozent (§ 57 Absatz 10). Für Personen, die nach § 28 Absatz 2 des Elften Buches Sozialgesetzbuch Leistungen zur Hälfte erhalten, beträgt der Bemessungssatz bezüglich dieser Aufwendungen 50 Prozent (§ 57 Absatz 7). Über diesen Gesamtwert hinausgehende Aufwendungen sind im Rahmen des Absatzes 5 ebenfalls zum Bemessungssatz von 100 Prozent nach § 57 Absatz 10 beihilfefähig.
+Notwendige Aufwendungen im Sinne des Absatzes 5
+
+sind neben Aufwendungen für die häusliche Pflegehilfe nach Absatz 1
+
+Satz 1 (körperbezogene Pflegemaßnahmen, pflegerische
+
+Betreuungsmaßnahmen sowie Hilfen bei der Haushaltsführung) auch andere
+
+Aufwendungen, die von der geeigneten Pflegekraft in Rechnung gestellt
+
+werden dürfen. Dies sind beispielsweise die sogenannten
+
+Investitionskosten (vergleiche § 82 Absatz 4 des Elften Buches
+
+Sozialgesetzbuch). Diese Aufwendungen sind auch dann nach Absatz 5
+
+beihilfefähig, wenn der sich aus Absatz 1 ergebende Höchstbetrag
+
+noch nicht mit Aufwendungen für die häusliche Pflegehilfe ausgeschöpft
+
+wurde.
 
 49.5.3
 
-Ab 1. November 2024 sind auf Grundlage des um 20 Prozent erhöhten Entgeltes des in Anlage C zum Tarifvertrag für den öffentlichen Dienst der Länder ausgewiesenen Entgeltes für eine Pflegekraft der Entgeltgruppe KR 7 Stufe 5 Aufwendungen bis zu folgenden Höchstbeträgen beihilfefähig:
+Der Bemessungssatz für Aufwendungen nach Absatz 5 beträgt 100 Prozent (§ 57 Absatz 10). Für Personen, die nach § 28 Absatz 2 des Elften Buches Sozialgesetzbuch Leistungen zur Hälfte erhalten, beträgt der Bemessungssatz bezüglich dieser Aufwendungen 50 Prozent (§ 57 Absatz 7). Über diesen Gesamtwert hinausgehende Aufwendungen sind im Rahmen des Absatzes 5 ebenfalls zum Bemessungssatz von 100 Prozent nach § 57 Absatz 10 beihilfefähig.
+
+49.5.4
+
+Ab 1. Februar 2025 sind auf Grundlage des um
+
+20 Prozent erhöhten Entgeltes des in Anlage C zum Tarifvertrag
+
+für den öffentlichen Dienst der Länder ausgewiesenen Entgeltes für eine
+
+Pflegekraft der Entgeltgruppe KR 7 Stufe 5 Aufwendungen bis
+
+zu folgenden Höchstbeträgen beihilfefähig:
 
 
 Aufwendungen
@@ -12152,64 +12650,41 @@ Aufwendungen
 
 | Pflegegrad 2:
 
-| 1 141,74 Euro
+|   1 204,53 Euro
 
 
 | Pflegegrad 3:
 
-| 2 283,47 Euro
+|   2 409,06 Euro
 
 
 | Pflegegrad 4:
 
-| 3 425,21 Euro
+|   3 613,59 Euro
 
 
 | Pflegegrad 5:
 
-| 4 566,94 Euro
-
-
-Ab 1. Februar 2025 ergeben sich unter Berücksichtigung der Tariferhöhung folgende beihilfefähige Höchstbeträge:
-
-
-Aufwendungen
-
-
-| Pflegegrad
-
-| Betrag
-
-
-| Pflegegrad 2:
-
-| 1 204,53 Euro
-
-
-| Pflegegrad 3:
-
-| 2 409,06 Euro
-
-
-| Pflegegrad 4:
-
-| 3 613,59 Euro
-
-
-| Pflegegrad 5:
-
-| 4 818,12 Euro
+|   4 818,12 Euro
 
 
 Künftige Tariferhöhungen sind zu beachten.
 
-49.5.4
+49.5.5
 
-Beispiele (jeweils zum Stand 1. November 2024):
+Beispiele (jeweils zum Stand 1. Februar 2025):
 
-49.5.4.1
+49.5.5.1
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 die Pflege durch Berufspflegekräfte (100 Prozent = 1 432 Euro) in Anspruch. Die Rechnung für die Pflege durch Berufspflegekräfte beträgt 2 000 Euro.
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3
+
+die Pflege durch Berufspflegekräfte (100 Prozent =
+
+1 497 Euro) in Anspruch. Die Rechnung für die Pflege durch
+
+Berufspflegekräfte beträgt 2 000 Euro.
 
 
 Beispielberechnungen
@@ -12235,9 +12710,9 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 30 Prozent vom Höchstbetrag (1 432 Euro)
+| zu den Aufwendungen für die Berufspflegekraft 30 Prozent vom Höchstbetrag (1 497 Euro)
 
-| 429,60 Euro
+| 449,10 Euro
 
 
 | b)
@@ -12251,9 +12726,9 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 70 Prozent vom Höchstbetrag (1 432 Euro)
+| zu den Aufwendungen für die Berufspflegekraft 70 Prozent vom Höchstbetrag (1 497 Euro)
 
-| 1 002,40 Euro
+| 1 047,90 Euro
 
 
 | c)
@@ -12267,7 +12742,11 @@ Beispielberechnungen
 
 | –
 
-| Aufwendungen für die Berufspflegekraft laut Rechnung, Höchstgrenze nach Absatz 5 (2 283,47 Euro) wird nicht überschritten
+| Aufwendungen für die
+
+Berufspflegekraft laut Rechnung, Höchstgrenze nach Absatz 5
+
+(2 409,06 Euro) wird nicht überschritten
 
 | 2 000,00 Euro
 
@@ -12278,7 +12757,7 @@ Beispielberechnungen
 
 | Leistungen nach Buchstaben a und b für die Aufwendungen für die Berufspflegekraft
 
-| 1 432,00 Euro
+| 1 497,00 Euro
 
 
 | 
@@ -12287,29 +12766,27 @@ Beispielberechnungen
 
 | Differenz (= zusätzlich beihilfefähiger Betrag)
 
-|   568,00 Euro
+|   503,00 Euro
 
 
 | 
 
-| 
+| zusätzliche Beihilfe zu den Aufwendungen für die Berufspflegekraft (100 Prozent von 503,00 Euro)
 
-| zusätzliche Beihilfe zu den Aufwendungen für die Berufspflegekraft (100 Prozent von 568,00 Euro)
-
-| 568,00 Euro
+| 503,00 Euro
 
 
 | d)
 
 | Gesamtleistung der Beihilfe nach Absatz 1 und 5 (Buchstaben b und c):
 
-| 1 570,40 Euro
+| 1 550,90 Euro
 
 
-49.5.4.2
+49.5.5.2
 
 
-Der in der sozialen Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 4 die Pflege durch Berufspflegekräfte (100 Prozent = 1 778 Euro) in Anspruch. Als von der Regelung des § 28 Absatz 2 des Elften Buches Sozialgesetzbuch erfasste Person erhält der Versorgungsempfänger von der sozialen Pflegeversicherung in diesem Fall 50 Prozent. Die Rechnung für die Pflege durch Berufspflegekräfte beträgt 2 000 Euro.
+Der in der sozialen Pflegeversicherung versicherte  Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 4 die  Pflege durch Berufspflegekräfte (100 Prozent =  1 859 Euro) in Anspruch. Als von der Regelung des § 28  Absatz 2 des Elften Buches Sozialgesetzbuch erfasste Person erhält  der Versorgungsempfänger von der sozialen Pflegeversicherung in diesem  Fall 50 Prozent. Die Rechnung für die Pflege durch  Berufspflegekräfte beträgt 2 000 Euro.
 
 Beispielberechnungen
 
@@ -12334,9 +12811,9 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 50 Prozent vom Höchstbetrag (1 778 Euro)
+| zu den Aufwendungen für die Berufspflegekraft 50 Prozent vom Höchstbetrag (1 859 Euro)
 
-| 889,00 Euro
+| 929,50 Euro
 
 
 | b)
@@ -12350,9 +12827,9 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 50 Prozent vom Höchstbetrag (1 778 Euro)
+| zu den Aufwendungen für die Berufspflegekraft 50 Prozent vom Höchstbetrag (1 859 Euro)
 
-| 889,00 Euro
+| 929,50 Euro
 
 
 | c)
@@ -12366,7 +12843,11 @@ Beispielberechnungen
 
 | –
 
-| Aufwendungen für die Berufspflegekraft laut Rechnung, Höchstgrenze nach Absatz 5 (3 425,21 Euro) wird nicht überschritten
+| Aufwendungen für die
+
+Berufspflegekraft laut Rechnung, Höchstgrenze nach Absatz 5
+
+(3 613,59 Euro) wird nicht überschritten
 
 | 2 000,00 Euro
 
@@ -12377,7 +12858,7 @@ Beispielberechnungen
 
 | Leistungen nach Buchstaben a und b für die Aufwendungen für die Berufspflegekraft
 
-|   1 778 Euro
+| 1 859,00 Euro
 
 
 | 
@@ -12386,23 +12867,21 @@ Beispielberechnungen
 
 | Differenz (= zusätzlich beihilfefähiger Betrag)
 
-| 222,00 Euro
+|   141,00 Euro
 
 
 | 
 
-| 
+| zusätzliche Beihilfe zu den Aufwendungen für die Berufspflegekraft (100 Prozent von 141 Euro)
 
-| zusätzliche Beihilfe zu den Aufwendungen für die Berufspflegekraft (100 Prozent von 222 Euro)
-
-| 222,00 Euro
+| 141,00 Euro
 
 
 | d)
 
 | Gesamtleistung der Beihilfe nach Absatz 1 und 5 (Buchstaben b und c):
 
-| 1 111,00 Euro
+| 1 070,50 Euro
 
 
 49.6
@@ -12423,7 +12902,7 @@ Auf Wunsch des Pflegebedürftigen kann im Zeitraum vom 1. Juli 2022 bis einschli
 
 49.6.3
 
-Beihilfefähig ist in den Pflegegraden 1 bis 3 einmal halbjährlich, in den Pflegegraden 4 und 5 einmal vierteljährlich eine Beratung des Pflegebedürftigen. Die Beihilfefähigkeit der Aufwendungen bestimmt sich nach der auf Grundlage des § 37 Absatz 3c des Elften Buches Sozialgesetzbuch vereinbarten Vergütungssätze. Der landesweit einheitliche Vergütungssatz für Beratungsstellen im Freistaat Sachsen beträgt im Jahr 2024 51,59 Euro. Für Aufwendungen für Beratungsstellen außerhalb des Freistaates Sachsen sind die dort vereinbarten Vergütungssätze beihilfefähig. Dabei ist zu beachten, dass gegebenenfalls auch mit Beratungsstellen Vergütungssätze unmittelbar vereinbart werden können. Liegen entsprechende Vereinbarungen vor, sind die jeweils mit der beratenden Stelle vereinbarten Beträge beihilfefähig. Die Vorlage der Vereinbarung ist in der Regel nicht erforderlich und sollte auf Ausnahmefälle beschränkt bleiben (zum Beispiel bei besonders hohen entstandenen Aufwendungen für den Beratungsbesuch).  
+Beihilfefähig ist in den Pflegegraden 1 bis 3 einmal halbjährlich, in den Pflegegraden 4 und 5 einmal vierteljährlich eine Beratung des Pflegebedürftigen. Die Beihilfefähigkeit der Aufwendungen bestimmt sich nach der auf Grundlage des § 37 Absatz 3c des Elften Buches Sozialgesetzbuch vereinbarten Vergütungssätze. Der landesweit einheitliche Vergütungssatz für  Beratungsstellen im Freistaat Sachsen beträgt ab  1. Januar 2025 56,10 Euro bei der Durchführung als  Beratungseinsatz vor Ort und 51,59 Euro bei Durchführung in Form  einer Videokonferenz. Für Aufwendungen für Beratungsstellen außerhalb des Freistaates Sachsen sind die dort vereinbarten Vergütungssätze beihilfefähig. Dabei ist zu beachten, dass gegebenenfalls auch mit Beratungsstellen Vergütungssätze unmittelbar vereinbart werden können. Liegen entsprechende Vereinbarungen vor, sind die jeweils mit der beratenden Stelle vereinbarten Beträge beihilfefähig. Die Vorlage der Vereinbarung ist in der Regel nicht erforderlich und sollte auf Ausnahmefälle beschränkt bleiben (zum Beispiel bei besonders hohen entstandenen Aufwendungen für den Beratungsbesuch).  
 
 49.6.4
 
@@ -12524,7 +13003,7 @@ Zu Absatz 2
 
 49a.2.1
 
-Zur Förderung der Gründung von ambulant betreuten Wohngruppen (vergleiche § 38a Absatz 1 des Elften Buches Sozialgesetzbuch) ist ein einmaliger Betrag von 2 500 Euro neben Aufwendungen für Maßnahmen zur Verbesserung des individuellen oder gemeinsamen Wohnumfeldes des Pflegebedürftigen gemäß § 54 Absatz 3 (vergleiche § 40 Absatz 4 des Elften Buches Sozialgesetzbuch) beihilfefähig. Die Kosten der Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen sind bis zum Höchstbetrag von 2 500 Euro nach den Vorgaben des § 45e des Elften Buches Sozialgesetzbuch nur beihilfefähig, wenn die Pflegeversicherung des Pflegebedürftigen hierzu anteilige Zuschüsse erbracht hat. Die Leistungen der Pflegeversicherung sind nachzuweisen. Besteht keine Pflegeversicherung, sind entsprechende Aufwendungen nicht beihilfefähig. Der Gesamtbetrag ist auf 10 000 Euro je Wohngruppe beschränkt und wird bei mehr als vier Anspruchsberechtigten anteilig auf die Versicherungsträger der Anspruchsberechtigten aufgeteilt. Der Anteil errechnet sich aus den Gesamtkosten geteilt durch die Anzahl der anspruchsberechtigten Mitglieder der Wohngruppe. 
+Zur Förderung der Gründung von ambulant betreuten Wohngruppen (vergleiche § 38a Absatz 1 des Elften Buches Sozialgesetzbuch) ist ein einmaliger Betrag von 2 613 Euro neben Aufwendungen für Maßnahmen zur Verbesserung des individuellen oder gemeinsamen Wohnumfeldes des Pflegebedürftigen gemäß § 54 Absatz 3 (vergleiche § 40 Absatz 4 des Elften Buches Sozialgesetzbuch) beihilfefähig. Die Kosten der Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen sind bis zum Höchstbetrag von 2 613 Euro nach den Vorgaben des § 45e des Elften Buches Sozialgesetzbuch nur beihilfefähig, wenn die Pflegeversicherung des Pflegebedürftigen hierzu anteilige Zuschüsse erbracht hat. Die Leistungen der Pflegeversicherung sind nachzuweisen. Besteht keine Pflegeversicherung, sind entsprechende Aufwendungen nicht beihilfefähig. Der Gesamtbetrag ist auf 10 452 Euro je Wohngruppe beschränkt und wird bei mehr als vier Anspruchsberechtigten anteilig auf die Versicherungsträger der Anspruchsberechtigten aufgeteilt. Der Anteil errechnet sich aus den Gesamtkosten geteilt durch die Anzahl der anspruchsberechtigten Mitglieder der Wohngruppe. 
 
 49a.2.2
 
@@ -12536,7 +13015,7 @@ Die Gründung einer Wohngruppe im Sinne des § 45e des Elften Buches Sozialgeset
 
 49a.2.4
 
-Jede pflegebedürftige Person, die die Voraussetzungen des § 38a des Elften Buches Sozialgesetzbuch erfüllt, kann neben den Leistungen nach § 38a des Elften Buches Sozialgesetzbuch und unbeschadet des Anspruchs nach § 40 Absatz 4 des Elften Buches Sozialgesetzbuch (§ 54 Absatz 3) den einmaligen Förderbetrag von bis zu 2 500 Euro erhalten. Voraussetzung ist, dass der Pflegebedürftige an der Neugründung der ambulant betreuten Wohngruppe beteiligt ist, die Neugründung von mindestens drei Pflegebedürftigen erfolgt und der Förderbetrag für die altersgerechte oder barrierearme Umgestaltung der gemeinsamen Wohnung verwendet wird. 
+Jede pflegebedürftige Person, die die Voraussetzungen des § 38a des Elften Buches Sozialgesetzbuch erfüllt, kann neben den Leistungen nach § 38a des Elften Buches Sozialgesetzbuch und unbeschadet des Anspruchs nach § 40 Absatz 4 des Elften Buches Sozialgesetzbuch (§ 54 Absatz 3) den einmaligen Förderbetrag von bis zu 2 613 Euro erhalten. Voraussetzung ist, dass der Pflegebedürftige an der Neugründung der ambulant betreuten Wohngruppe beteiligt ist, die Neugründung von mindestens drei Pflegebedürftigen erfolgt und der Förderbetrag für die altersgerechte oder barrierearme Umgestaltung der gemeinsamen Wohnung verwendet wird. 
 
 49a.2.5
 
@@ -12636,15 +13115,53 @@ Die Höhe der Zuschüsse richtet sich nach der Höhe der Mindestbeiträge, die v
 
 49b.1.1.3
 
-Die Mindestbeitragsbemessungsgrundlage beträgt mindestens den neunzigsten Teil der monatlichen Bezugsgröße für den Kalendertag beziehungsweise 1/3 der monatlichen Bezugsgröße (§ 240 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch in Verbindung mit § 18 des Vierten Buches Sozialgesetzbuch), die sich nach der jeweils geltenden Verordnung über maßgebende Rechengrößen der Sozialversicherung richtet. Nach der Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2024 beträgt die monatliche Bezugsgröße im Kalenderjahr 2024 3 535 Euro (West) beziehungsweise 3 465 Euro (Ost). Die Mindestbeitragsbemessungsgrundlage beträgt damit im Jahr 2024 monatlich 1 178,33 Euro (West) beziehungsweise 1 155,00 Euro (Ost). Für die Ermittlung der beitragspflichtigen Einnahmen je Kalendertag ist die monatliche Beitragsbemessungsgrundlage durch 30 zu teilen. 
+Die Mindestbeitragsbemessungsgrundlage beträgt
+
+mindestens den neunzigsten Teil der monatlichen Bezugsgröße für den
+
+Kalendertag beziehungsweise 1/3 der monatlichen Bezugsgröße
+
+(§ 240 Absatz 4 Satz 1 des Fünften Buches
+
+Sozialgesetzbuch in Verbindung mit § 18 des Vierten Buches
+
+Sozialgesetzbuch), die sich nach der jeweils geltenden Verordnung über
+
+maßgebende Rechengrößen der Sozialversicherung richtet. Nach der
+
+Verordnung über maßgebende Rechengrößen der Sozialversicherung
+
+für 2025 beträgt die monatliche Bezugsgröße im
+
+Kalenderjahr 2025 bundeseinheitlich 3 745 Euro. Die
+
+Mindestbeitragsbemessungsgrundlage beträgt damit im Jahr 2025
+
+monatlich 1 248,33 Euro. Für die Ermittlung der
+
+beitragspflichtigen Einnahmen je Kalendertag ist die monatliche
+
+Beitragsbemessungsgrundlage durch 30 zu teilen.
 
 49b.1.1.4
 
-Für die Zuschussbemessung für die Krankenversicherung sind der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2024: 14,6 Prozent) sowie der kassenindividuelle Zusatzbeitragssatz nach § 242 Absatz 1 des Fünften Buches Sozialgesetzbuch zu Grunde zu legen. Bei Mitgliedern der landwirtschaftlichen Krankenversicherung sowie bei Personen, die nicht in der gesetzlichen Krankenversicherung versichert sind, tritt an die Stelle des kassenindividuellen Zusatzbeitragssatzes der durchschnittliche Zusatzbeitragssatz nach § 242a des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2024: 1,7 Prozent). Unter Zugrundelegung des durchschnittlichen Zusatzbeitragssatzes beträgt der Beitragszuschuss zur Krankenversicherung daher im Kalenderjahr 2024 monatlich höchstens 192,03 Euro (West) beziehungsweise 188,27 Euro (Ost). Bei Mitgliedern der gesetzlichen Krankenversicherung ergeben sich durch die Zugrundelegung des kassenindividuellen Zusatzbeitragssatzes abweichende Beträge.
+Für die Zuschussbemessung für die Krankenversicherung  sind der allgemeine Beitragssatz nach § 241 des Fünften Buches  Sozialgesetzbuch (Stand 1. Januar 2025:  14,6 Prozent) sowie der kassenindividuelle Zusatzbeitragssatz nach  § 242 Absatz 1 des Fünften Buches Sozialgesetzbuch zu Grunde  zu legen. Bei Mitgliedern der landwirtschaftlichen Krankenversicherung  sowie bei Personen, die nicht in der gesetzlichen Krankenversicherung  versichert sind, tritt an die Stelle des kassenindividuellen  Zusatzbeitragssatzes der durchschnittliche Zusatzbeitragssatz nach  § 242a des Fünften Buches Sozialgesetzbuch  (Stand 1. Januar 2025: 2,5 Prozent). Unter  Zugrundelegung des durchschnittlichen Zusatzbeitragssatzes beträgt der  Beitragszuschuss zur Krankenversicherung daher im Kalenderjahr 2025   monatlich höchstens 213,46 Euro. Bei Mitgliedern der gesetzlichen  Krankenversicherung ergeben sich durch die Zugrundelegung des  kassenindividuellen Zusatzbeitragssatzes abweichende Beträge.
 
 49b.1.1.5
 
-Die Höhe des Zuschusses für die Pflegeversicherung wird unter Zugrundelegung des Beitragssatzes nach § 55 des Elften Buches Sozialgesetzbuch (Stand 1. Januar 2024: 3,4 Prozent; gegebenenfalls bei Versicherten in der sozialen Pflegeversicherung zuzüglich des Zuschlags für Kinderlose von 0,6 Prozent) auf die Mindestbeitragsbemessungsgrundlage ermittelt (2024 monatlich höchstens 40,06 Euro und 47,13 Euro [West] beziehungsweise 39,27 Euro und 46,20 Euro [Ost]).
+Die Höhe des Zuschusses für die Pflegeversicherung wird
+
+unter Zugrundelegung des Beitragssatzes nach § 55 des Elften
+
+Buches Sozialgesetzbuch (Stand 1. Januar 2025:
+
+3,6 Prozent; gegebenenfalls bei Versicherten in der sozialen
+
+Pflegeversicherung zuzüglich des Zuschlags für Kinderlose von
+
+0,6 Prozent) auf die Mindestbeitragsbemessungsgrundlage ermittelt
+
+(2025 monatlich höchstens 44,94 Euro und 52,43 Euro).
 
 49b.1.1.6
 
@@ -12669,7 +13186,17 @@ Die Höhe des Pflegeunterstützungsgeldes beträgt grundsätzlich 90 Prozent des
 Bei Bezug von beitragspflichtigem einmalig gezahltem Arbeitsentgelt in den der Freistellung von der Arbeitsleistung vorangegangenen 12 Kalendermonaten beläuft sich das Pflegeunterstützungsgeld auf 100 Prozent des tatsächlich ausgefallenen Nettoarbeitsentgelts.
 
 
-Die Höhe des Pflegeunterstützungsgeldes ist begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung (Stand 1. Januar 2024: 5 175,00 Euro monatlich/172,50 Euro täglich, 70 Prozent hiervon sind 3 622,50 Euro monatlich/120,75 Euro täglich).
+Die Höhe des Pflegeunterstützungsgeldes ist begrenzt
+
+auf 70 Prozent der Beitragsbemessungsgrenze in der
+
+Krankenversicherung (Stand 1. Januar 2025:
+
+5 512,50 Euro monatlich/183,75 Euro täglich,
+
+70 Prozent hiervon sind 3 858,75 Euro
+
+monatlich/128,63 Euro täglich).
 
 
 Das Pflegeunterstützungsgeld wird für Kalendertage gezahlt.
@@ -13012,7 +13539,7 @@ Unterliegt ein Bezieher von Pflegeunterstützungsgeld aufgrund eines anderen Tat
 
 49b.2.7.5
 
-Für die Bemessung der Beiträge zur Krankenversicherung gilt im Regelfall der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2024: 14,6 Prozent). Hat das Mitglied dagegen vor dem Bezug des Pflegeunterstützungsgeldes keinen Anspruch auf Krankengeld, findet der ermäßigte Beitragssatz nach § 243 des Fünften Buches Sozialgesetzbuch Anwendung (Stand 1. Januar 2024: 14,0 Prozent). 
+Für die Bemessung der Beiträge zur Krankenversicherung gilt im Regelfall der allgemeine Beitragssatz nach § 241 des Fünften Buches Sozialgesetzbuch (Stand 1. Januar 2025: 14,6 Prozent). Hat das Mitglied dagegen vor dem Bezug des Pflegeunterstützungsgeldes keinen Anspruch auf Krankengeld, findet der ermäßigte Beitragssatz nach § 243 des Fünften Buches Sozialgesetzbuch Anwendung (Stand 1. Januar 2025: 14,0 Prozent). 
 
 49b.2.7.6
 
@@ -13128,17 +13655,31 @@ Nach § 44a Absatz 4 Satz 5 des Elften Buches Sozialgesetzbuch zahlen die in § 
 
 49b.2.9
 
-Beispiel zur Berechnung des Pflegeunterstützungsgeldes und der hierauf entfallenden Beiträge (Stand: 1. Januar 2024)
+Beispiel zur Berechnung des Pflegeunterstützungsgeldes und der hierauf entfallenden Beiträge (Stand: 1. Januar 2025)
 
 
-Das Beispiel bezieht sich auf eine Kostentragung des Leistungsträgers des Pflegeunterstützungsgeldes zu 100 Prozent und den Rechtskreis Ost. Die errechneten Beiträge sind in der Beihilfe entsprechend des Bemessungssatzes der beihilfeberechtigten oder berücksichtigungsfähigen zu pflegenden Person abzuführen.
+Das Beispiel bezieht sich auf eine Kostentragung des
+
+Leistungsträgers des Pflegeunterstützungsgeldes zu 100 Prozent und
+
+den Rechtskreis Ost. Die errechneten Beiträge sind in der Beihilfe
+
+entsprechend des Bemessungssatzes der beihilfeberechtigten oder
+
+berücksichtigungsfähigen zu pflegenden Person abzuführen.
 
 
-Eine vollzeitbeschäftigte Person arbeitet regelmäßig fünf Tage in der Woche von Montag bis Freitag. Wegen einer bei ihrem Vater akut aufgetretenen Pflegesituation nach § 2 des Pflegezeitgesetzes lässt sie sich vom 23. Februar bis 2. März (kein Schaltjahr) für insgesamt sechs Arbeitstage (acht Kalendertage) ohne Fortzahlung des Arbeitsentgelts von der Arbeit freistellen. Aufgrund der Beschäftigung bestand bisher Versicherungspflicht in der Kranken-, Pflege-, Renten- und Arbeitslosenversicherung. In der Krankenversicherung wurde bisher der allgemeine Beitragssatz zugrunde gelegt. Weitere Beschäftigungen werden nicht ausgeübt; weitere beitragspflichtige Einnahmen werden nicht erzielt. Das ausgefallene Arbeitsentgelt beträgt für den genannten Zeitraum brutto 1 500 Euro und netto 1 200 Euro.
+Eine vollzeitbeschäftigte Person arbeitet regelmäßig  fünf Tage in der Woche von Montag bis Freitag. Wegen einer bei ihrem  Vater akut aufgetretenen Pflegesituation nach § 2 des  Pflegezeitgesetzes lässt sie sich vom 23. Februar bis 2. März  (kein Schaltjahr) für insgesamt sechs Arbeitstage (acht Kalendertage)  ohne Fortzahlung des Arbeitsentgelts von der Arbeit freistellen.  Aufgrund der Beschäftigung bestand bisher Versicherungspflicht in der  Kranken-, Pflege-, Renten- und Arbeitslosenversicherung. ln der  Krankenversicherung wurde bisher der allgemeine Beitragssatz zugrunde  gelegt. Weitere Beschäftigungen werden nicht ausgeübt; weitere  beitragspflichtige Einnahmen werden nicht erzielt. Das ausgefallene  Arbeitsentgelt beträgt für den genannten Zeitraum brutto  1 500 Euro und netto 1 200 Euro.
 Berechnung:
 
 
-Das Pflegeunterstützungsgeld sowie die hierauf zu entrichtenden Beiträge werden grundsätzlich für den Kalendertag berechnet. Für die Zeit vom 23. Februar bis 2. März sind deshalb acht Kalendertage anzusetzen.
+Das Pflegeunterstützungsgeld sowie die hierauf zu
+
+entrichtenden Beiträge werden grundsätzlich für den Kalendertag
+
+berechnet. Für die Zeit vom 23. Februar bis 2. März sind
+
+deshalb acht Kalendertage anzusetzen.
 
 
 Beispiel Berechnung Pflegeunterstützungsgeld
@@ -13177,22 +13718,22 @@ Beispiel Berechnung Pflegeunterstützungsgeld
 
 | –
 
-| Krankenversicherung: 62 100 Euro/360 =
+| Krankenversicherung: 66 150 Euro/360 =
 
-| 172,50 Euro
+| 183,75 Euro
 
 
 | –
 
 | Renten- und Arbeitslosenversicherung:
-89 400 Euro/360 =
+96 600 Euro/360 =
 
-| 248,33 Euro
+| 268,33 Euro
 
 
 | Für die Beiträge zur Krankenversicherung ist das kalendertägliche ausgefallene Bruttoarbeitsentgelt auf die Beitragsbemessungsgrenze zu kürzen:
 
-| 172,50 Euro
+| 183,75 Euro
 
 
 | Für die Beiträge zur Renten- und Arbeitslosenversicherung ist weiter zu rechnen mit:
@@ -13207,9 +13748,9 @@ Beispiel Berechnung Pflegeunterstützungsgeld
 
 | –
 
-| Krankenversicherung: 172,50 Euro x 80 Prozent =
+| Krankenversicherung: 183,75 Euro x 80 Prozent =
 
-| 138,00 Euro
+| 147,00 Euro
 
 
 | –
@@ -13226,26 +13767,27 @@ Beispiel Berechnung Pflegeunterstützungsgeld
 
 | –
 
-| 90 Prozent des ausgefallenen Nettoarbeitsentgelts: 150,00 Euro x 90 Prozent =
+| 90 Prozent des ausgefallenen Nettoarbeitsentgelts:
+150,00 Euro x 90 Prozent =
 
 | 135,00 Euro
 
 
 | –
 
-| begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung: 172,50 Euro x 70 Prozent =
+| begrenzt auf 70 Prozent der Beitragsbemessungsgrenze in der Krankenversicherung: 183,75 Euro x 70 Prozent =
 
-| 120,75 Euro
+| 128,63 Euro
 
 
 | Die Höchstgrenze wird überschritten, das Pflegeunterstützungsgeld beträgt daher kalendertäglich
 
-| 120,75 Euro
+| 128,63 Euro
 
 
 | für acht Kalendertage
 
-| 966,00 Euro
+| 1 029,04 Euro
 
 
 | Berechnung der kalendertäglichen Beiträge zur Krankenversicherung:
@@ -13262,44 +13804,44 @@ Beispiel Berechnung Pflegeunterstützungsgeld
 
 | –
 
-| angenommener kassenindividueller Zusatzbeitragssatz: 1,8 Prozent
+| angenommener kassenindividueller Zusatzbeitragssatz: 2,5 Prozent
 
 | 
 
 
 | –
 
-| voller allgemeiner Beitrag: 138 Euro x 14,6 Prozent =
+| voller allgemeiner Beitrag: 147 Euro x 14,6 Prozent =
 
-| 20,15 Euro
+| 21,46 Euro
 
 
 | –
 
-| Beitragsanteil des Leistungsbeziehers: 120,75 Euro x 7,3 Prozent =
+| Beitragsanteil des Leistungsbeziehers: 128,63 Euro x 7,3 Prozent =
 
-| 8,81 Euro
+| 9,39 Euro
 
 
 | –
 
 | Differenz = Beitragsanteil des Leistungsträgers:
 
-| 11,34 Euro
+| 12,07 Euro
 
 
 | –
 
-| Zusatzbeitrag: 138 Euro x 1,8 Prozent =
+| Zusatzbeitrag: 147 Euro x 2,5 Prozent =
 
-| 2,48 Euro
+| 3,68 Euro
 
 
 | –
 
-| Gesamtbeitrag: 20,15 Euro + 2,48 Euro =
+| Gesamtbeitrag: 21,46 Euro + 3,68 Euro =
 
-| 22,63 Euro
+| 25,14 Euro
 
 
 | Berechnung der kalendertäglichen Beiträge zur Rentenversicherung:
@@ -13323,16 +13865,16 @@ Beispiel Berechnung Pflegeunterstützungsgeld
 
 | –
 
-| Beitragsanteil des Leistungsbeziehers: 120,75 Euro x 9,3 Prozent =
+| Beitragsanteil des Leistungsbeziehers: 128,63 Euro x 9,3 Prozent =
 
-| 11,23 Euro
+| 11,96 Euro
 
 
 | –
 
 | Differenz = Beitragsanteil des Leistungsträgers:
 
-| 16,67 Euro
+| 15,94 Euro
 
 
 | Berechnung der kalendertäglichen Beiträge zur Arbeitslosenversicherung:
@@ -13356,16 +13898,16 @@ Beispiel Berechnung Pflegeunterstützungsgeld
 
 | –
 
-| Beitragsanteil des Leistungsbeziehers: 120,75 Euro x 1,3 Prozent =
+| Beitragsanteil des Leistungsbeziehers: 128,63 Euro x 1,3 Prozent =
 
-| 1,57 Euro
+| 1,67 Euro
 
 
 | –
 
 | Differenz = Beitragsanteil des Leistungsträgers:
 
-| 2,33 Euro
+| 2,23 Euro
 
 
 49b.3
@@ -13412,7 +13954,7 @@ Die Beförderung zu und von der Einrichtung, die die teilstationäre Pflege leis
 
 50.1.5
 
-Soweit die Aufwendungen die vorgesehenen Höchstbeträge übersteigen, gilt § 49 Absatz 5 entsprechend. Hierbei finden die Berechnungsbeispiele unter Nummer 49.5.4 entsprechend Anwendung.
+Soweit die Aufwendungen die vorgesehenen Höchstbeträge übersteigen, gilt § 49 Absatz 5 entsprechend. Hierbei finden die Berechnungsbeispiele unter Nummer 49.5.5 entsprechend Anwendung.
 
 
 50.1.6
@@ -13426,10 +13968,22 @@ Pflegebedürftige können die Ansprüche auf Tages- und Nachtpflege mit der häu
 
 50.1.8
 
-Beispiel (zum Stand 1. Januar 2024):
+Beispiel (zum Stand 1. Februar 2025):
 
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 neben der Pflege in einer Tagespflegeeinrichtung (100 Prozent = 1 298 Euro) die Pflege durch Berufspflegekräfte (100 Prozent = 1 432 Euro) in Anspruch. Die Rechnung beträgt für die Tagespflegeeinrichtung 2 000 Euro und für die Pflege durch Berufspflegekräfte 1 800 Euro.
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3
+
+neben der Pflege in einer Tagespflegeeinrichtung (100 Prozent =
+
+1 357 Euro) die Pflege durch Berufspflegekräfte
+
+(100 Prozent = 1 497 Euro) in Anspruch. Die Rechnung
+
+beträgt für die Tagespflegeeinrichtung 2 000 Euro und für die
+
+Pflege durch Berufspflegekräfte 1 800 Euro.
 
 
 Beispielberechnungen
@@ -13455,18 +14009,18 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Tagespflegeeinrichtung 30 Prozent vom Höchstbetrag (1 298 Euro)
+| zu den Aufwendungen für die Tagespflegeeinrichtung 30 Prozent vom Höchstbetrag (1 357 Euro)
 
-| 389,40 Euro
+| 407,10 Euro
 
 
 | 
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 30 Prozent vom Höchstbetrag (1 432 Euro)
+| zu den Aufwendungen für die Berufspflegekraft 30 Prozent vom Höchstbetrag (1 497 Euro)
 
-|   429,60 Euro
+|   449,10 Euro
 
 
 | 
@@ -13475,7 +14029,7 @@ Beispielberechnungen
 
 | Gesamt
 
-| 819,00 Euro
+| 856,20 Euro
 
 
 | b)
@@ -13489,18 +14043,18 @@ Beispielberechnungen
 
 | –
 
-| zu den Aufwendungen für die Tagespflegeeinrichtung 70 Prozent vom Höchstbetrag (1 298 Euro)
+| zu den Aufwendungen für die Tagespflegeeinrichtung 70 Prozent vom Höchstbetrag (1 357 Euro)
 
-| 908,60 Euro
+| 949,90 Euro
 
 
 | 
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 70 Prozent vom Höchstbetrag (1 432 Euro)
+| zu den Aufwendungen für die Berufspflegekraft 70 Prozent vom Höchstbetrag (1 497 Euro)
 
-| 1 002,40  Euro
+| 1 047,90 Euro
 
 
 | 
@@ -13509,7 +14063,7 @@ Beispielberechnungen
 
 | Gesamt
 
-| 1 911,00 Euro
+| 1 997,80 Euro
 
 
 | c)
@@ -13523,7 +14077,7 @@ Beispielberechnungen
 
 | –
 
-| Aufwendungen für die Tagespflegeeinrichtung laut Rechnung, Höchstgrenze nach § 49 Absatz 5 (2 283,47 Euro) wird nicht überschritten
+| Aufwendungen für die Tagespflegeeinrichtung laut Rechnung, Höchstgrenze nach § 49 Absatz 5 (2 409,06 Euro) wird nicht überschritten
 
 | 2 000,00 Euro
 
@@ -13534,7 +14088,7 @@ Beispielberechnungen
 
 | Leistungen nach Buchstaben a und b für die Aufwendungen für die Tagespflegeeinrichtung
 
-| 1 298,00 Euro
+| 1 357,00 Euro
 
 
 | 
@@ -13543,14 +14097,14 @@ Beispielberechnungen
 
 | Differenz (= zusätzlich beihilfefähiger Betrag für die Aufwendungen für die Tagespflegeeinrichtung)
 
-| 702,00 Euro
+| 643,00 Euro
 
 
 | 
 
 | –
 
-| Aufwendungen für die Berufspflegekraft laut Rechnung, Höchstgrenze nach § 49 Absatz 5 (2 283,47 Euro) wird nicht überschritten
+| Aufwendungen für die Berufspflegekraft laut Rechnung, Höchstgrenze nach § 49 Absatz 5 (2 409,06 Euro) wird nicht überschritten
 
 | 1 800,00 Euro
 
@@ -13561,7 +14115,7 @@ Beispielberechnungen
 
 | Leistungen nach Buchstaben a und b für die Aufwendungen für die Berufspflegekraft
 
-| 1 432,00 Euro
+| 1 497,00 Euro
 
 
 | 
@@ -13570,23 +14124,27 @@ Beispielberechnungen
 
 | Differenz (= zusätzlich beihilfefähiger Betrag für die Aufwendungen für die Berufspflegekraft)
 
-| 368,00 Euro
+| 303,00 Euro
 
 
 | 
 
 | –
 
-| Zusätzliche Beihilfe zu den Aufwendungen für die Tagespflegeeinrichtung und die Berufspflegekraft (100 Prozent von 702 Euro + 368 Euro)
+| Zusätzliche Beihilfe zu den
 
-| 1 070,00 Euro
+Aufwendungen für die Tagespflegeeinrichtung und die Berufspflegekraft
+
+(100 Prozent von 643 Euro + 303 Euro)
+
+| 946,00 Euro
 
 
 | d)
 
 | Gesamtleistung der Beihilfe (Buchstaben b und c):
 
-| 2 981,00 Euro
+| 2 943,80 Euro
 
 
 50.1.9
@@ -13717,6 +14275,7 @@ Wird die Verhinderungspflege außerhalb der Häuslichkeit des Pflegebedürftigen
 
 Zum Zusammentreffen von Aufwendungen für Verhinderungspflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch nach § 56 wird auf die Ausführungen unter Nummer 56.7 verwiesen. 
 
+
 51.2
 
 
@@ -13765,10 +14324,24 @@ Dies gilt nicht, wenn die Ersatzpflege im Zusammenhang mit einer kurzfristigen A
 
 51.2.6
 
-Beispiel (zum Stand 1. Januar 2024):
+Beispiel (zum Stand 1. Januar 2025, gültig bis 30. Juni 2025):
 
 
-Die Verhinderungspflege bei einem Pflegebedürftigen des Pflegegrades 4 wird von dessen nicht mit ihm in häuslicher Gemeinschaft lebenden Sohn vom 20. April bis 10. Mai (21 Kalendertage) durchgeführt. Von der Pflegeperson werden pflegebedingte Aufwendungen in Höhe von 546 Euro, ein Verdienstausfall in Höhe von 1 445 Euro und Fahrtkosten in Höhe von 84,00 Euro (20 km x 0,20 Euro = 4,00 Euro x 21 Tage = 84,00 Euro) nachgewiesen.
+Die Verhinderungspflege bei einem Pflegebedürftigen des
+
+Pflegegrades 4 wird von dessen nicht mit ihm in häuslicher
+
+Gemeinschaft lebenden Sohn vom 20. April bis 10. Mai
+
+(21 Kalendertage) durchgeführt. Von der Pflegeperson werden
+
+pflegebedingte Aufwendungen in Höhe von 546 Euro, ein
+
+Verdienstausfall in Höhe von 1 445 Euro und Fahrtkosten in
+
+Höhe von 84,00 Euro (20 km x 0,20 Euro = 4,00 Euro x
+
+21 Tage = 84,00 Euro) nachgewiesen.
 
 
 Beispiel
@@ -13783,7 +14356,13 @@ Beispiel
 
 | –
 
-| Beihilfefähigkeit der Verhinderungspflege, begrenzt auf den eineinhalbfachen Betrag der Pauschalbeihilfe (Pflegegeld) des Pflegegrades 4 (765 Euro x 1,5 =) 1 147,50 Euro
+| Beihilfefähigkeit der
+
+Verhinderungspflege, begrenzt auf den eineinhalbfachen Betrag der
+
+Pauschalbeihilfe (Pflegegeld) des Pflegegrades 4 (800 Euro x
+
+1,5 =) 1 200 Euro
 
 | 546,00 Euro
 
@@ -13809,13 +14388,33 @@ Beispiel
 | 2 075,00 Euro
 
 
-Der Höchstbetrag von 1 612 Euro nach Absatz 1 wird überschritten. Aufgrund der Anwendung des Absatzes 3 kann jedoch eine Erhöhung des beihilfefähigen Höchstbetrages durch nicht in Anspruch genommene Leistungen der Kurzzeitpflege um bis zu 887 Euro (1 774 Euro/2) erfolgen. Es können damit 2 075,00 Euro als beihilfefähig anerkannt werden.
+Der Höchstbetrag von 1 685 Euro nach
+
+Absatz 1 wird überschritten. Aufgrund der Anwendung des
+
+Absatzes 3 kann jedoch eine Erhöhung des beihilfefähigen
+
+Höchstbetrages durch nicht in Anspruch genommene Leistungen der
+
+Kurzzeitpflege um bis zu 927 Euro (1 854 Euro/2)
+
+erfolgen. Es können damit 2 075,00 Euro als beihilfefähig
+
+anerkannt werden.
 
 
-Aufwendungen für eine Kurzzeitpflege nach § 52 sind im restlichen Kalenderjahr bis zu 1 311 Euro beihilfefähig. Im Falle einer erneuten Verhinderungspflege sind aus nicht verwendeten Mitteln der Kurzzeitpflege Aufwendungen für bis zu 21 Tage bis zu 404,00 Euro beihilfefähig.
+Aufwendungen für eine Kurzzeitpflege nach § 52
+
+sind im restlichen Kalenderjahr bis zu 1 464 Euro
+
+beihilfefähig. Im Falle einer erneuten Verhinderungspflege sind aus
+
+nicht verwendeten Mitteln der Kurzzeitpflege Aufwendungen für bis zu
+
+21 Tage bis zu 537,00 Euro beihilfefähig.
 
 
-Es wird besonders darauf hingewiesen, dass auf Grund von § 51 Absatz 3 der beihilfefähige Höchstbetrag um den halben beihilfefähigen Höchstbetrag aus noch nicht in Anspruch genommenen Mitteln der Kurzzeitpflege nach § 52 Absatz 1 erhöht werden kann (887 Euro), wohingegen der Erhöhungsbetrag im Bereich der Pflegeversicherung auf Grund von § 39 Absatz 2 des Elften Buches Sozialgesetzbuch auf 806 Euro beschränkt ist.  
+Es wird besonders darauf hingewiesen, dass auf Grund  von § 51 Absatz 3 der beihilfefähige Höchstbetrag um den  halben beihilfefähigen Höchstbetrag aus noch nicht in Anspruch  genommenen Mitteln der Kurzzeitpflege nach § 52 Absatz 1  erhöht werden kann (927 Euro), wohingegen der Erhöhungsbetrag im  Bereich der Pflegeversicherung auf Grund von § 39 Absatz 2 des   Elften Buches Sozialgesetzbuch auf 843 Euro beschränkt ist.
 
 
 51.3
@@ -13946,13 +14545,9 @@ Sofern die Kurzzeitpflege nicht in zugelassenen Kurzzeitpflegeeinrichtungen sond
 
 52.3.4
 
-Ist eine gleichzeitige Unterbringung des Pflegebedürftigen in der Vorsorge- oder Rehabilitationseinrichtung notwendig, in der die Pflegeperson eine Maßnahme der medizinischen Vorsorge oder Rehabilitation durchführt, sind auch Aufwendungen für die Kurzzeitpflege des Pflegebedürftigen in dieser Einrichtung im Rahmen des Absatzes 1 beihilfefähig (§ 42 Absatz 4 des Elften Buches Sozialgesetzbuch). Dies gilt unabhängig davon, ob die Einrichtung über eine Zulassung zur pflegerischen Versorgung nach dem des Elften Buches Sozialgesetzbuch verfügt. Nummer 52.3.3 gilt entsprechend. 
-
-52.3.5
-
 Neben den Aufwendungen nach Nummer 52.1.3 sind Aufwendungen der zusätzlichen Betreuung und Aktivierung (§ 55 Absatz 2) beihilfefähig. Eine Anrechnung auf den beihilfefähigen Höchstbetrag nach Absatz 1 erfolgt nicht.
 
-52.3.6
+52.3.5
 
 Daneben sind Aufwendungen für Vergütungszuschläge für die Unterstützung der Leistungserbringung durch zusätzliches Pflegehilfskraftpersonal nach § 84 Absatz 9 des Elften Buches Sozialgesetzbuch beihilfefähig, da die Pflegebedürftigen mit den Vergütungszuschlägen weder ganz noch teilweise belastet werden dürfen. 
 
@@ -13969,7 +14564,11 @@ Zu Absatz 1
 
 52a.1.1
 
-Die Versorgung des Pflegebedürftigen erfolgt in einer Vorsorge- oder Rehabilitationseinrichtung, wenn diese die pflegerische Versorgung des Pflegebedürftigen sicherstellen kann und will. Die Pflege kann auch sichergestellt werden, indem die Vorsorge- oder Rehabilitationseinrichtung die körperbezogenen Pflegemaßnahmen und pflegerischen Betreuungsmaßnahmen sowie die Leistungen der medizinischen Behandlungspflege durch geeignete Pflegekräfte (vergleiche § 49 Absatz 1) erbringen lässt.
+Die Versorgung des Pflegebedürftigen erfolgt in einer Vorsorge- oder Rehabilitationseinrichtung, wenn diese die pflegerische Versorgung des Pflegebedürftigen sicherstellen kann und will. Dies gilt unabhängig davon, ob die Einrichtung über
+
+eine Zulassung zur pflegerischen Versorgung nach dem Elften Buch
+
+Sozialgesetzbuch verfügt. Die Pflege kann auch sichergestellt werden, indem die Vorsorge- oder Rehabilitationseinrichtung die körperbezogenen Pflegemaßnahmen und pflegerischen Betreuungsmaßnahmen sowie die Leistungen der medizinischen Behandlungspflege durch geeignete Pflegekräfte (vergleiche § 49 Absatz 1) erbringen lässt.
 
 52a.1.2
 
@@ -14097,42 +14696,59 @@ Zu Absatz 2
 
 Aufwendungen sind bis zu der Höhe beihilfefähig, die die Pflegeversicherung ihrer Abrechnung zu Grunde gelegt hat, höchstens jedoch bis zu dem in § 45b Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch genannten Betrag. Insoweit ist auf die Festlegung der Pflegeversicherung abzustellen. 
 
+
 53.2.2
+
+Erbringt die Pflegeversicherung Leistungen zum
+
+Entlastungsbetrag, kann davon ausgegangen werden, dass die geltend
+
+gemachten Aufwendungen notwendig und wirtschaftlich angemessen sind
+
+(§ 4 Absatz 3). Die Leistungsabrechnung der Pflegeversicherung
+
+kann der Entscheidung über die Beihilfefähigkeit der Aufwendungen zu
+
+Grunde gelegt werden. In diesem Falle kann auf die Vorlage von Belegen
+
+verzichtet werden.
+
+53.2.3
 
 Anspruchsberechtigt sind alle Pflegebedürftigen im Sinne des § 48 Absatz 1 Satz 1.
 
 
-53.2.3
+53.2.4
 
 Der Entlastungsbetrag ist Bestandteil der häuslichen Pflege. Er ergänzt die Leistungen der ambulanten und teilstationären Pflege in der häuslichen Umgebung. Dies kann der eigene Haushalt, der Haushalt der Pflegeperson oder ein Haushalt sein, in den der Pflegebedürftige aufgenommen wurde. Das gilt gleichermaßen, wenn der Pflegebedürftige in einer Altenwohnung oder in einem Altenheim wohnt (vergleiche Nummer 49.1.7). Er dient der Erstattung von Aufwendungen, die dem Pflegebedürftigen im Zusammenhang mit der Inanspruchnahme der in Absatz 2 Satz 1 genannten Leistungen entstehen.
 
 
-53.2.4
-
-Leistungen der Kurzzeitpflege können ausschließlich durch den Entlastungsbetrag finanziert werden (zum Beispiel wenn der Pflegebedürftige aus den vergangenen Monaten den Entlastungsbetrag nicht genutzt hat, Nummern 53.2.8 und 53.2.9). In diesen Fällen handelt es sich nicht um eine Inanspruchnahme der Leistungen nach § 52, so dass keine Anrechnung auf die Leistungsdauer und -höhe nach § 52 erfolgt. Die Pauschalbeihilfe nach § 49 Absatz 2 wird dabei bei Pflegebedürftigen der Pflegegrade 2 bis 5 in voller Höhe weitergezahlt. Eine Anrechnung der Pauschalbeihilfe auf den Entlastungsbetrag ist ausgeschlossen.
-
-
 53.2.5
 
-Zu den erstattungsfähigen Eigenbelastungen bei Inanspruchnahme der Tages- und Nachtpflege oder der Kurzzeitpflege zählen auch die vom Pflegebedürftigen zu tragenden Entgelte für Unterkunft und Verpflegung sowie die Investitionskosten. Die Fahrt- und Transportkosten, die im Zusammenhang mit der Inanspruchnahme der Kurzzeitpflege entstehen, zählen ebenfalls zu den beihilfefähigen Aufwendungen.
+Leistungen der Kurzzeitpflege können ausschließlich durch den Entlastungsbetrag finanziert werden (zum Beispiel wenn der Pflegebedürftige aus den vergangenen Monaten den Entlastungsbetrag nicht genutzt hat, Nummern 53.2.9 und 53.2.10). In diesen Fällen handelt es sich nicht um eine Inanspruchnahme der Leistungen nach § 52, so dass keine Anrechnung auf die Leistungsdauer und -höhe nach § 52 erfolgt. Die Pauschalbeihilfe nach § 49 Absatz 2 wird dabei bei Pflegebedürftigen der Pflegegrade 2 bis 5 in voller Höhe weitergezahlt. Eine Anrechnung der Pauschalbeihilfe auf den Entlastungsbetrag ist ausgeschlossen.
 
 
 53.2.6
 
-Der Entlastungsbetrag kann auch für die Erstattung von Aufwendungen für häusliche Pflegehilfe durch geeignete Pflegekräfte nach § 49 Absatz 1 verwendet werden. Die Leistungen können sich dabei auf die Inanspruchnahme von körperbezogenen Pflegemaßnahmen, pflegerischen Betreuungsmaßnahmen und Hilfen bei der Haushaltsführung erstrecken. Bei Pflegebedürftigen der Pflegegrade 2 bis 5 sind jedoch Aufwendungen, die im Zusammenhang mit der Inanspruchnahme von Leistungen aus dem Bereich der Selbstversorgung (vergleiche Nummer 48.1.6.4, zum Beispiel Waschen, An- und Auskleiden, Essen, Trinken, Toilettenbenutzung) entstehen, nicht beihilfefähig. Für solche Aufwendungen wird ausschließlich Beihilfe unter den Voraussetzungen des § 49 Absatz 1 gewährt. Diese Einschränkung gilt jedoch nicht für Pflegebedürftige des Pflegegrades 1. Diese können den Entlastungsbetrag hingegen auch für Aufwendungen einsetzen, die ihnen im Zusammenhang mit der Inanspruchnahme von Leistungen aus dem Bereich der Selbstversorgung entstehen (Nummer 48a.3.1).
+Zu den erstattungsfähigen Eigenbelastungen bei Inanspruchnahme der Tages- und Nachtpflege oder der Kurzzeitpflege zählen auch die vom Pflegebedürftigen zu tragenden Entgelte für Unterkunft und Verpflegung sowie die Investitionskosten. Die Fahrt- und Transportkosten, die im Zusammenhang mit der Inanspruchnahme der Kurzzeitpflege entstehen, zählen ebenfalls zu den beihilfefähigen Aufwendungen.
 
 
 53.2.7
 
-Erfüllt der Pflegebedürftige die Anspruchsvoraussetzungen für die Leistungsgewährung nach Absatz 2 erst im Laufe eines Kalenderjahres, ist der Entlastungsbetrag ab dem Kalendermonat und für den vollen Monat beihilfefähig, in dem der Anspruch auf die Leistung erfüllt wird. Hierbei ist auf die Festlegung der Pflegeversicherung abzustellen.
+Der Entlastungsbetrag kann auch für die Erstattung von Aufwendungen für häusliche Pflegehilfe durch geeignete Pflegekräfte nach § 49 Absatz 1 verwendet werden. Die Leistungen können sich dabei auf die Inanspruchnahme von körperbezogenen Pflegemaßnahmen, pflegerischen Betreuungsmaßnahmen und Hilfen bei der Haushaltsführung erstrecken. Bei Pflegebedürftigen der Pflegegrade 2 bis 5 sind jedoch Aufwendungen, die im Zusammenhang mit der Inanspruchnahme von Leistungen aus dem Bereich der Selbstversorgung (vergleiche Nummer 48.1.6.4, zum Beispiel Waschen, An- und Auskleiden, Essen, Trinken, Toilettenbenutzung) entstehen, nicht beihilfefähig. Für solche Aufwendungen wird ausschließlich Beihilfe unter den Voraussetzungen des § 49 Absatz 1 gewährt. Diese Einschränkung gilt jedoch nicht für Pflegebedürftige des Pflegegrades 1. Diese können den Entlastungsbetrag hingegen auch für Aufwendungen einsetzen, die ihnen im Zusammenhang mit der Inanspruchnahme von Leistungen aus dem Bereich der Selbstversorgung entstehen (Nummer 48a.3.1).
 
 
 53.2.8
 
-Nicht in Anspruch genommene Beträge für zurückliegende Monate können in den Folgemonaten des Kalenderjahres berücksichtigt werden. Hat zum Beispiel ein Pflegebedürftiger im Januar den Entlastungsbetrag nicht in Anspruch genommen und entstehen ihm im Februar diesbezüglich entsprechende Aufwendungen, sind diese bis zur Höhe von 250 Euro beihilfefähig (Kumulation des Anspruches für Januar und Februar).
+Erfüllt der Pflegebedürftige die Anspruchsvoraussetzungen für die Leistungsgewährung nach Absatz 2 erst im Laufe eines Kalenderjahres, ist der Entlastungsbetrag ab dem Kalendermonat und für den vollen Monat beihilfefähig, in dem der Anspruch auf die Leistung erfüllt wird. Hierbei ist auf die Festlegung der Pflegeversicherung abzustellen.
 
 
 53.2.9
+
+Nicht in Anspruch genommene Beträge für zurückliegende Monate können in den Folgemonaten des Kalenderjahres berücksichtigt werden. Hat zum Beispiel ein Pflegebedürftiger im Januar den Entlastungsbetrag nicht in Anspruch genommen und entstehen ihm im Februar diesbezüglich entsprechende Aufwendungen, sind diese bis zur Höhe von 262 Euro beihilfefähig (Kumulation des Anspruches für Januar und Februar).
+
+
+53.2.10
 
 Wird die Leistung in einem Kalenderjahr nicht ausgeschöpft, kann der nicht verbrauchte Betrag in das folgende Kalenderhalbjahr übertragen werden.
 
@@ -14151,22 +14767,73 @@ Zu Absatz 1
 
 54.1.1
 
-Die Voraussetzungen des § 23 gelten nicht für Pflegehilfsmittel (§ 23 Absatz 11 Satz 3). Beihilfefähig sind insoweit die notwendigen und wirtschaftlich angemessenen Aufwendungen (§ 4 Absatz 3) für Pflegehilfsmittel. Entsprechend § 40 Absatz 6 des Elften Buches Sozialgesetzbuch kann hinsichtlich der Aufwendungen für Pflegehilfsmittel grundsätzlich davon ausgegangen werden, dass diese notwendig sind, wenn sie von einer Pflegefachkraft empfohlen wurden. In diesem Falle kommt es für die Beihilfefähigkeit der Aufwendungen nicht darauf an, ob die private oder soziale Pflegeversicherung für diese Aufwendungen anteilige Zuschüsse zahlt. Beihilfefähig sind insoweit nur Aufwendungen für die Pflegehilfsmittel, für die Pflegefachkräfte Empfehlungen nach den in den Richtlinien des GKV-Spitzenverbandes zur Empfehlung von Hilfsmitteln und Pflegehilfsmitteln durch Pflegefachkräfte gemäß § 40 Absatz 6 Satz 6 des Elften Buches Sozialgesetzbuch vom 20. Dezember 2021 abgeben dürfen.  
+Die Voraussetzungen des § 23 gelten nicht für
+
+Pflegehilfsmittel (§ 23 Absatz 11 Satz 3). Beihilfefähig
+
+sind insoweit die notwendigen und wirtschaftlich angemessenen
+
+Aufwendungen (§ 4 Absatz 3) für Pflegehilfsmittel.
+
 
 54.1.2
 
-Hilfsmittel im Sinne des § 23 unterscheiden sich von Pflegehilfsmitteln insoweit, als Aufwendungen für Hilfsmittel ihrer Natur nach in der Regel nur für einen vorübergehenden Zeitraum entstehen. Im Gegensatz dazu kommt Pflegehilfsmitteln (insbesondere technischen Pflegehilfsmitteln) regelmäßig die Aufgabe zu, langandauernde gesundheitliche Beeinträchtigungen oder Behinderungen zu kompensieren oder zu lindern. Dennoch können Hilfsmittel im Sinne des § 23 und Pflegehilfsmittel identisch sein (zum Beispiel Krankenbett und Pflegebett, vergleiche auch VGH Mannheim, Urteil vom 22. Februar 2010, 13 S 1749/09).
+Erbringt die Pflegeversicherung für zum Verbrauch
+
+bestimmte Pflegehilfsmittel Leistungen, kann davon ausgegangen werden,
+
+dass die geltend gemachten Aufwendungen notwendig und wirtschaftlich
+
+angemessen sind (§ 4 Absatz 3). Die Leistungsabrechnung der
+
+Pflegeversicherung kann der Entscheidung über die Beihilfefähigkeit der
+
+Aufwendungen zu Grunde gelegt werden. In diesem Falle kann auf die
+
+Vorlage von Belegen verzichtet werden.
 
 
 54.1.3
 
-Nicht zum Verbrauch bestimmte Pflegehilfsmittel sind in der Regel technische Pflegehilfsmittel im Sinne des § 40 Absatz 3 des Elften Buches Sozialgesetzbuch, die zu den nichtstofflichen Medizinprodukten im Sinne des § 22 zählen. Ob die Pflegeversicherung Zuschüsse für technische Pflegehilfsmittel gewährt, richtet sich nach § 40 Absatz 3 des Elften Buches Sozialgesetzbuch. Wenn die Pflegeversicherung für Aufwendungen für technische Pflegehilfsmittel anteilige Zuschüsse gewährt, ist davon auszugehen, dass das technische Pflegehilfsmittel notwendig im Sinne des § 4 Absatz 3 ist. Auf das Vorliegen einer ärztlichen Verordnung kommt es hierbei nicht an. Dennoch kann in Ausnahmefällen unter Anlegung eines strengen Maßstabes die Notwendigkeit im Sinne des § 4 Absatz 3 auch angenommen werden, wenn eine ärztliche Verordnung vorliegt.
+Entsprechend § 40 Absatz 6 des Elften Buches
+
+Sozialgesetzbuch kann hinsichtlich der Aufwendungen für
+
+Pflegehilfsmittel grundsätzlich davon ausgegangen werden, dass diese
+
+notwendig sind, wenn sie von einer Pflegefachkraft empfohlen wurden. In
+
+diesem Falle kommt es für die Beihilfefähigkeit der Aufwendungen nicht
+
+darauf an, ob die private oder soziale Pflegeversicherung für diese
+
+Aufwendungen anteilige Zuschüsse zahlt. Beihilfefähig sind insoweit nur
+
+Aufwendungen für die Pflegehilfsmittel, für die Pflegefachkräfte
+
+Empfehlungen nach den in den Richtlinien des GKV-Spitzenverbandes zur
+
+Empfehlung von Hilfsmitteln und Pflegehilfsmitteln durch
+
+Pflegefachkräfte gemäß § 40 Absatz 6 Satz 6 des Elften
+
+Buches Sozialgesetzbuch abgeben dürfen.
+
 
 54.1.4
 
-Eine ärztliche Verordnung zum Nachweis der Notwendigkeit von Pflegehilfsmitteln ist insbesondere auch dann nicht notwendig, wenn im Gutachten zur Feststellung der Pflegebedürftigkeit konkrete Empfehlungen zur Hilfsmittel- und Pflegehilfsmittelversorgung, die den Zielen von § 40 des Elften Buches Sozialgesetzbuch dienen, getroffen werden und der Pflegebedürftige hiermit einverstanden ist (vergleiche auch § 18 Absatz 6a des Elften Buches Sozialgesetzbuch). 
+Hilfsmittel im Sinne des § 23 unterscheiden sich von Pflegehilfsmitteln insoweit, als Aufwendungen für Hilfsmittel ihrer Natur nach in der Regel nur für einen vorübergehenden Zeitraum entstehen. Im Gegensatz dazu kommt Pflegehilfsmitteln (insbesondere technischen Pflegehilfsmitteln) regelmäßig die Aufgabe zu, langandauernde gesundheitliche Beeinträchtigungen oder Behinderungen zu kompensieren oder zu lindern. Dennoch können Hilfsmittel im Sinne des § 23 und Pflegehilfsmittel identisch sein (zum Beispiel Krankenbett und Pflegebett, vergleiche auch VGH Mannheim, Urteil vom 22. Februar 2010, 13 S 1749/09).
+
 
 54.1.5
+
+Nicht zum Verbrauch bestimmte Pflegehilfsmittel sind in der Regel technische Pflegehilfsmittel im Sinne des § 40 Absatz 3 des Elften Buches Sozialgesetzbuch, die zu den nichtstofflichen Medizinprodukten im Sinne des § 22 zählen. Ob die Pflegeversicherung Zuschüsse für technische Pflegehilfsmittel gewährt, richtet sich nach § 40 Absatz 3 des Elften Buches Sozialgesetzbuch. Wenn die Pflegeversicherung für Aufwendungen für technische Pflegehilfsmittel anteilige Zuschüsse gewährt, ist davon auszugehen, dass das technische Pflegehilfsmittel notwendig im Sinne des § 4 Absatz 3 ist. Auf das Vorliegen einer ärztlichen Verordnung kommt es hierbei nicht an. Dennoch kann in Ausnahmefällen unter Anlegung eines strengen Maßstabes die Notwendigkeit im Sinne des § 4 Absatz 3 auch angenommen werden, wenn eine ärztliche Verordnung vorliegt.
+
+54.1.6
+
+Eine ärztliche Verordnung zum Nachweis der Notwendigkeit von Pflegehilfsmitteln ist insbesondere auch dann nicht notwendig, wenn im Gutachten zur Feststellung der Pflegebedürftigkeit konkrete Empfehlungen zur Hilfsmittel- und Pflegehilfsmittelversorgung, die den Zielen von § 40 des Elften Buches Sozialgesetzbuch dienen, getroffen werden und der Pflegebedürftige hiermit einverstanden ist (vergleiche auch § 18 Absatz 6a des Elften Buches Sozialgesetzbuch). 
+
+54.1.7
 
 
 Nach § 78 Absatz 2 Satz 2 des Elften Buches Sozialgesetzbuch hat der GKV-Spitzenverband als Anlage zu dem Hilfsmittelverzeichnis nach § 139 des Fünften Buches Sozialgesetzbuch ein systematisch strukturiertes Pflegehilfsmittelverzeichnis erstellt (https://hilfsmittel.gkv-spitzenverband.de/home.action). Dieses enthält Produkte, die generell nach ihrer Konstruktion, Ausstattung, Funktion und Zweckbestimmung die Pflege erleichtern, Beschwerden lindern beziehungsweise eine selbständigere Lebensführung ermöglichen, ohne als allgemeine Gebrauchsgegenstände des täglichen Lebens eingestuft zu sein. Der Entscheidung über die Beihilfefähigkeit von Aufwendungen für Pflegehilfsmittel kann dieses Pflegehilfsmittelverzeichnis zu Grunde gelegt werden; im Übrigen ist nach den konkreten Umständen des Einzelfalles zu entscheiden.
@@ -14219,11 +14886,11 @@ Zu Absatz 3
 
 54.3.1
 
-Aufwendungen für Maßnahmen zur Verbesserung des individuellen Wohnumfeldes des Pflegebedürftigen sind beihilfefähig, wenn die Pflegeversicherung für diese Aufwendungen anteilige Zuschüsse zahlt. Dies richtet sich nach § 40 Absatz 4 des Elften Buches Sozialgesetzbuch. Bei in der Pflegeversicherung Versicherten ist der Betrag beihilfefähig, aus dem der anteilige Zuschuss berechnet wird. Leben mehrere Pflegebedürftige in einer gemeinsamen Wohnung, sind Aufwendungen bis zu einem Betrag von 4 000 Euro je Pflegebedürftigen beihilfefähig (Stand: 1. Januar 2024). Die Beihilfefähigkeit der Aufwendungen ist je Maßnahme auf einen Gesamtbetrag von 16 000 Euro begrenzt. Bei mehr als vier Anspruchsberechtigten werden die Aufwendungen anteilig auf die Versicherungsträger der Anspruchsberechtigten aufgeteilt.  
+Aufwendungen für Maßnahmen zur Verbesserung des  individuellen Wohnumfeldes des Pflegebedürftigen sind beihilfefähig,  wenn die Pflegeversicherung für diese Aufwendungen anteilige Zuschüsse  zahlt. Dies richtet sich nach § 40 Absatz 4 des Elften Buches  Sozialgesetzbuch. Bei in der Pflegeversicherung Versicherten ist der  Betrag beihilfefähig, aus dem der anteilige Zuschuss berechnet wird.  Leben mehrere Pflegebedürftige in einer gemeinsamen Wohnung, sind  Aufwendungen bis zu einem Betrag von 4 180 Euro je  Pflegebedürftigen beihilfefähig (Stand: 1. Januar 2025). Die  Beihilfefähigkeit der Aufwendungen ist je Maßnahme auf einen  Gesamtbetrag von 16 720 Euro begrenzt. Bei mehr als vier  Anspruchsberechtigten werden die Aufwendungen anteilig auf die  Versicherungsträger der Anspruchsberechtigten aufgeteilt. Da sich die  Höhe der beihilfefähigen Aufwendungen aus den Leistungen der  Pflegeversicherung ergibt, ist eine Überschreitung des nach § 40  Absatz 4 Satz 2 des Elften Buches Sozialgesetzbuch  vorgesehenen Höchstbetrages ausgeschlossen.
 
 54.3.2
 
-Aufwendungen für Maßnahmen zur Verbesserung des individuellen Wohnumfeldes des Pflegebedürftigen sind bis zum Höchstbetrag von 4 000 Euro beihilfefähig, wenn dadurch im Einzelfall
+Aufwendungen für Maßnahmen zur Verbesserung des individuellen Wohnumfeldes des Pflegebedürftigen sind bis zum Höchstbetrag von 4 180 Euro beihilfefähig, wenn dadurch im Einzelfall
 
 
 –
@@ -14255,7 +14922,7 @@ Maßnahmen zur Verbesserung des individuellen Wohnumfeldes kommen sowohl in vorh
 
 54.3.5
 
-Es sind alle Maßnahmen, die zum Zeitpunkt der Zuschussgewährung (und damit auf der Grundlage des zu diesem Zeitpunkt bestehenden Hilfebedarfs) zur Wohnumfeldverbesserung erforderlich sind, als eine Verbesserungsmaßnahme zu werten. Ändert sich die Pflegesituation und werden weitere Maßnahmen zur Wohnumfeldverbesserung erforderlich, handelt es sich erneut um eine Maßnahme, so dass weitere Aufwendungen bis zu einem Betrag von 4 000 Euro beihilfefähig sein können.
+Es sind alle Maßnahmen, die zum Zeitpunkt der Zuschussgewährung (und damit auf der Grundlage des zu diesem Zeitpunkt bestehenden Hilfebedarfs) zur Wohnumfeldverbesserung erforderlich sind, als eine Verbesserungsmaßnahme zu werten. Ändert sich die Pflegesituation und werden weitere Maßnahmen zur Wohnumfeldverbesserung erforderlich, handelt es sich erneut um eine Maßnahme, so dass weitere Aufwendungen bis zu einem Betrag von 4 180 Euro beihilfefähig sein können.
 
 
 54.3.6
@@ -14265,7 +14932,25 @@ Leben die Pflegebedürftigen in einer ambulant betreuten Wohngruppe (§ 49a Absa
 
 54.3.7
 
-Bei Personen, die nicht gegen das Risiko der Pflegebedürftigkeit versichert sind, wird die Beihilfe nur zur Hälfte (Bemessungssatz = 50 Prozent) gewährt.
+Bei Personen, die nicht gegen das Risiko der
+
+Pflegebedürftigkeit versichert sind, wird die Beihilfe nur zur Hälfte
+
+(Bemessungssatz = 50 Prozent) gewährt. Die Aufwendungen sind
+
+insoweit auch dann beihilfefähig, wenn die Pflegeversicherung für diese
+
+Aufwendungen keine anteiligen Zuschüsse zahlt. Die beihilfefähigen
+
+Aufwendungen sind durch den Verweis auf § 40 Absatz 4 des
+
+Elften Buches Sozialgesetzbuches auf den sich daraus ergebenden
+
+Höchstbetrag begrenzt (zur Begrenzung auf den Höchstbetrag vergleiche
+
+auch VGH Mannheim, Beschluss vom 28. Juni 2023,
+
+2 S 668/23).
 
 
 55
@@ -14333,7 +15018,23 @@ Bei einem Wechsel zwischen häuslicher und vollstationärer Pflege im Laufe des 
 
 55.1.13
 
-Bei einem Wechsel aus der Kurzzeitpflege (§ 52) in die vollstationäre Pflege besteht, unabhängig vom Pflegegrad, für die in dem Teilmonat erfolgte Kurzzeitpflege ein Beihilfeanspruch von bis zu 1 774 Euro, soweit dieser Betrag beziehungsweise der in § 52 genannte Zeitraum im Kalenderjahr noch nicht ausgeschöpft wurde. Wird für die Kurzzeitpflege der nicht verbrauchte beihilfefähige Höchstbetrag der Verhinderungspflege (§ 51) verwendet, erhöht sich der beihilfefähige Höchstbetrag auf bis zu 3 386 Euro im Kalenderjahr.
+Bei einem Wechsel aus der Kurzzeitpflege (§ 52) in
+
+die vollstationäre Pflege besteht, unabhängig vom Pflegegrad, für die
+
+in dem Teilmonat erfolgte Kurzzeitpflege ein Beihilfeanspruch von bis
+
+zu 1 854 Euro, soweit dieser Betrag beziehungsweise der
+
+in § 52 genannte Zeitraum im Kalenderjahr noch nicht ausgeschöpft
+
+wurde. Wird für die Kurzzeitpflege der nicht verbrauchte beihilfefähige
+
+Höchstbetrag der Verhinderungspflege (§ 51) verwendet, erhöht sich
+
+der beihilfefähige Höchstbetrag auf bis zu 3 539 Euro im
+
+Kalenderjahr.
 
 
 55.1.14
@@ -14480,12 +15181,12 @@ Der Bemessungssatz der beihilfefähigen Aufwendungen beträgt gemäß § 57 Absa
 
 55.5.4
 
-Beispiele (zum Stand 1. Januar 2024):
+Beispiele (zum Stand 1. Januar 2025):
 
 55.5.4.1
 
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger verfügt über ein monatliches Ruhegehalt in Höhe von 2 000 Euro, seine Ehefrau über eine Rente in Höhe von 500 Euro. Er nimmt als Pflegebedürftiger des Pflegegrades 3 vollstationäre Pflege nach § 43 des Elften Buches Sozialgesetzbuch (§ 55) in Anspruch (100 Prozent = 1 262 Euro). Ein Anspruch auf Leistungszuschläge nach Absatz 2 besteht nicht. Die Rechnung setzt sich für einen Monat aus folgenden Positionen zusammen:
+Der in der privaten Pflegeversicherung versicherte  Versorgungsempfänger verfügt über ein monatliches Ruhegehalt in Höhe von   2 000 Euro, seine Ehefrau über eine Rente in Höhe von  500 Euro. Er nimmt als Pflegebedürftiger des Pflegegrades 3 seit  weniger als 12 Monaten Leistungen der vollstationären Pflege nach  § 43 des Elften Buches Sozialgesetzbuch (§ 55) in Anspruch  (100 Prozent = 1 319 Euro). Die Rechnung setzt sich für  einen Monat aus folgenden Positionen zusammen:
 
 Berechnung des Anteils des Pflegegeldes
 
@@ -14514,7 +15215,7 @@ Berechnung des Anteils des Pflegegeldes
 
 | Telefonanschluss
 
-| 25 Euro
+|       25 Euro
 
 
 | Gesamt
@@ -14533,9 +15234,33 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 30 Prozent vom Höchstbetrag von 1 262 Euro
+| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 30 Prozent vom Höchstbetrag von 1 319 Euro
 
-| 378,60 Euro
+| 395,70 Euro
+
+
+| 
+
+| –
+
+| Leistungszuschlag von
+
+15 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von
+
+681 Euro (2 000 Euro ./. 1 319 Euro), davon
+
+30 Prozent
+
+|    30,65 Euro
+
+
+| 
+
+| 
+
+| Gesamt
+
+| 426,35 Euro
 
 
 | b)
@@ -14549,12 +15274,34 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 70 Prozent vom Höchstbetrag von 1 262 Euro
+| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 70 Prozent vom Höchstbetrag von 1 319 Euro
 
-| 883,40 Euro
+| 923,30 Euro
 
 
 | c)
+
+| Leistungen der Beihilfe nach Absatz 2
+
+| 
+
+
+| 
+
+| –
+
+| Leistungszuschlag von
+
+15 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von
+
+681 Euro (2 000 Euro ./. 1 319 Euro), davon
+
+70 Prozent
+
+| 71,51 Euro
+
+
+| d)
 
 | Leistungen der Beihilfe nach Absatz 5
 
@@ -14570,23 +15317,23 @@ Berechnung des Anteils des Pflegegeldes
 
 | 
 
-| ./. pauschalierte Leistungen nach Absatz 1 (Buchstaben a und b)
+| ./. pauschalierte Leistungen nach Absatz 1 und 2 (Buchstaben a bis c)
 
-| 1 262,00 Euro
+| 1 421,16 Euro
 
 
 | 
 
 | ./. Zusatzleistungen im Sinne des § 88 Absatz 1 des Elften Buches Sozialgesetzbuch (Telefonanschluss)
 
-| 25,00 Euro
+|    25,00 Euro
 
 
 | 
 
 | verbleibende Aufwendungen im Sinne des Absatzes 5
 
-| 2 138,00 Euro
+| 1 978,84 Euro
 
 
 | 
@@ -14599,29 +15346,31 @@ Berechnung des Anteils des Pflegegeldes
 | 
 
 | Eigenanteil mit berücksichtigungsfähigem Ehegatten 30 Prozent des Einkommens (= 55 Prozent ./. 25 Prozent).
-Eigenanteil (30 Prozent von 2 500 Euro)
+Eigenanteil (30 Prozent von 2 500 Euro) 
 
 | 750,00 Euro
 
 
 | 
 
-| beihilfefähige Aufwendungen (2 138 Euro verbleibende Aufwendungen ./. 750 Euro Eigenanteil) = Beihilfe (Bemessungssatz = 100 Prozent, § 57 Absatz 10)
+| beihilfefähige Aufwendungen (1 978,84 Euro verbleibende Aufwendungen
+./. 750 Euro Eigenanteil) = Beihilfe (Bemessungssatz = 100 Prozent, § 57 Absatz 10) 
 
-| 1 388,00 Euro
+| 1 228,84 Euro
 
 
-| d)
+| e)
 
-| Gesamtleistung der Beihilfe nach Absatz 1 und 5 (Buchstaben b und c):
+| Gesamtleistung der Beihilfe nach Absatz 1, 2 und 5 (Buchstaben b bis d):
 
-| 2 271,40 Euro
+| 2 223,65 Euro
 
 
 55.5.4.2
 
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger verfügt über ein monatliches Ruhegehalt in Höhe von 3 000 Euro, seine Ehefrau über eine Rente in Höhe von 1 000 Euro. Er nimmt als Pflegebedürftiger des Pflegegrades 4 seit mehr als 24 Monaten Leistungen der vollstationären Pflege nach § 43 des Elften Buches Sozialgesetzbuch (§ 55) in Anspruch (100 Prozent = 1 775 Euro). Die Rechnung setzt sich für einen Monat aus folgenden Positionen zusammen:
+Der in der privaten Pflegeversicherung versicherte  Versorgungsempfänger verfügt über ein monatliches Ruhegehalt in Höhe von   3 000 Euro, seine Ehefrau über eine Rente in Höhe von  1 000 Euro. Er nimmt als Pflegebedürftiger des Pflegegrades 4  seit mehr als 24 Monaten Leistungen der vollstationären Pflege nach   § 43 des Elften Buches Sozialgesetzbuch (§ 55) in Anspruch  (100 Prozent = 1 855 Euro). Die Rechnung setzt sich für  einen Monat aus folgenden Positionen zusammen:
+
 
 Berechnung des Anteils des Pflegegeldes
 
@@ -14650,7 +15399,7 @@ Berechnung des Anteils des Pflegegeldes
 
 | Telefonanschluss
 
-| 25 Euro
+|       25 Euro
 
 
 | Gesamt
@@ -14669,18 +15418,24 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 30 Prozent vom Höchstbetrag von 1 775 Euro
+| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 30 Prozent vom Höchstbetrag von 1 855 Euro
 
-| 532,50 Euro
+| 556,50 Euro
 
 
 | 
 
 | –
 
-| Leistungszuschlag von 50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von 1 725 Euro (3 500 Euro ./. 1 775 Euro), davon 30 Prozent
+| Leistungszuschlag von
 
-| 258,75 Euro
+50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von
+
+1 645 Euro (3 500 Euro ./. 1 855 Euro),
+
+davon 30 Prozent
+
+|   246,75 Euro
 
 
 | 
@@ -14689,7 +15444,7 @@ Berechnung des Anteils des Pflegegeldes
 
 | Gesamt
 
-| 791,25 Euro
+| 803,25 Euro
 
 
 | b)
@@ -14703,9 +15458,9 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 70 Prozent vom Höchstbetrag von 1 775 Euro
+| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 70 Prozent vom Höchstbetrag von 1 855 Euro
 
-| 1 242,50 Euro
+| 1 298,50 Euro
 
 
 | c)
@@ -14719,9 +15474,15 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| Leistungszuschlag von 50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von 1 725 Euro (3 500 Euro ./. 1 775 Euro), davon 70 Prozent
+| Leistungszuschlag von
 
-| 603,75 Euro
+50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von
+
+1 645 Euro (3 500 Euro ./. 1 855 Euro),
+
+davon 70 Prozent
+
+| 575,75 Euro
 
 
 | d)
@@ -14742,21 +15503,21 @@ Berechnung des Anteils des Pflegegeldes
 
 | ./. pauschalierte Leistungen nach Absatz 1 und 2 (Buchstaben a bis c)
 
-| 2 637,50 Euro
+| 2 677,50 Euro
 
 
 | 
 
-| ./. Zusatzleistungen im Sinne des § 88 Absatz 1 des Elften Buches Sozialgesetzbuch (Telefonanschluss)
+| ./. Zusatzleistungen im Sinne des § 88 Absatz 1 des Elften Buches Sozial­gesetzbuch (Telefonanschluss)
 
-| 25,00 Euro
+|    25,00 Euro
 
 
 | 
 
 | verbleibende Aufwendungen im Sinne des Absatzes 5
 
-| 3 262,50 Euro
+| 3 222,50 Euro
 
 
 | 
@@ -14769,29 +15530,38 @@ Berechnung des Anteils des Pflegegeldes
 | 
 
 | Eigenanteil mit berücksichtigungsfähigem Ehegatten 30 Prozent des Einkommens (= 55 Prozent ./. 25 Prozent).
-Eigenanteil (30 Prozent von 4 000 Euro)
+Eigenanteil (30 Prozent von 4 000 Euro) 
 
 | 1 200,00 Euro
 
 
 | 
 
-| beihilfefähige Aufwendungen (3 262,50 Euro verbleibende Aufwendungen
-./. 1 200 Euro Eigenanteil) = Beihilfe (Bemessungssatz = 100 Prozent, § 57 Absatz 10)
+| beihilfefähige
 
-| 2 062,50 Euro
+Aufwendungen (3 222,50 Euro verbleibende Aufwendungen ./.
+
+1 200 Euro Eigenanteil) = Beihilfe (Bemessungssatz =
+
+100 Prozent, § 57 Absatz 10) 
+
+| 2 022,50 Euro
 
 
 | e)
 
 | Gesamtleistung der Beihilfe nach Absatz 1, 2 und 5 (Buchstaben b bis d):
 
-| 3 908,75 Euro
+| 3 896,75 Euro
 
 
 55.5.4.3
 
-Wie Beispiel 55.5.4.2. Der Pflegebedürftige befindet sich aber in einer zugelassenen vollstationären Pflegeeinrichtung ohne Vergütungsvereinbarung.
+Wie Beispiel 55.5.4.2. Der Pflegebedürftige
+
+befindet sich aber in einer zugelassenen vollstationären
+
+Pflegeeinrichtung ohne Vergütungsvereinbarung.
 
 
 Berechnung des Anteils des Pflegegeldes
@@ -14815,18 +15585,24 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 30 Prozent von dem auf 80 Prozent begrenzten Höchstbetrag von 1 775 Euro (§ 91 Absatz 2 des Elften Buches Sozialgesetzbuch)
+| zu den pflegebedingten
 
-| 426,00 Euro
+Aufwendungen für die Pflegeeinrichtung 30 Prozent von dem auf
+
+80 Prozent begrenzten Höchstbetrag von 1 855 Euro
+
+(§ 91 Absatz 2 des Elften Buches Sozial­gesetz­buch)
+
+| 445,20 Euro
 
 
 | 
 
 | –
 
-| kein Leistungszuschlag von 50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von 1 725 Euro (3 500 Euro ./. 1 775 Euro), da keine Leistungen nach § 43 des Elften Buches Sozialgesetzbuch bezogen werden
+| kein Leistungszuschlag von  50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von  1 645 Euro (3 500 Euro ./. 1 855 Euro), da   keine Leistungen nach § 43 des Elften Buches Sozialgesetzbuch  bezogen werden
 
-| 0,00 Euro
+|     0,00 Euro
 
 
 | 
@@ -14835,7 +15611,7 @@ Berechnung des Anteils des Pflegegeldes
 
 | Gesamt
 
-| 426,00 Euro
+| 445,20 Euro
 
 
 | b)
@@ -14849,9 +15625,9 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 70 Prozent vom Höchstbetrag von 1 775 Euro
+| zu den pflegebedingten Aufwendungen für die Pflegeeinrichtung 70 Prozent vom Höchstbetrag von 1 855 Euro
 
-| 1 242,50 Euro
+| 1 298,50 Euro
 
 
 | c)
@@ -14865,7 +15641,7 @@ Berechnung des Anteils des Pflegegeldes
 
 | –
 
-| kein Leistungszuschlag von 50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von 1 725 Euro (3 500 Euro ./. 1 775 Euro), da keine Leistungen nach § 43 des Elften Buches Sozialgesetzbuch bezogen werden
+| kein Leistungszuschlag von  50 Prozent zum Eigenanteil der pflegebedingten Aufwendungen von  1 645 Euro (3 500 Euro ./. 1 855 Euro), da   keine Leistungen nach § 43 des Elften Buches Sozialgesetzbuch  bezogen werden
 
 | 0,00 Euro
 
@@ -14886,23 +15662,29 @@ Berechnung des Anteils des Pflegegeldes
 
 | 
 
-| ./. pauschalierte Leistungen in Höhe der beihilfefähigen Aufwendungen nach Absatz 1 (1 775 Euro) und 2 (0,00 Euro), Buchstaben a bis c
+| ./. pauschalierte
 
-| 1 775,00 Euro
+Leistungen in Höhe der beihilfefähigen Aufwendungen nach Absatz 1
+
+(1 855 Euro) und 2 (0,00 Euro), Buchstaben a
+
+bis c
+
+| 1 855,00 Euro
 
 
 | 
 
 | ./. Zusatzleistungen im Sinne des § 88 Absatz 1 des Elften Buches Sozialgesetzbuch (Telefonanschluss)
 
-| 25,00 Euro
+|    25,00 Euro
 
 
 | 
 
 | verbleibende Aufwendungen im Sinne des Absatzes 5
 
-| 4 124,00 Euro
+| 4 045,00 Euro
 
 
 | 
@@ -14915,24 +15697,29 @@ Berechnung des Anteils des Pflegegeldes
 | 
 
 | Eigenanteil mit berücksichtigungsfähigem Ehegatten 30 Prozent des Einkommens (= 55 Prozent ./. 25 Prozent).
-Eigenanteil (30 Prozent von 4 000 Euro)
+Eigenanteil (30 Prozent von 4 000 Euro) 
 
 | 1 200,00 Euro
 
 
 | 
 
-| beihilfefähige Aufwendungen (4 124,00 Euro verbleibende Aufwendungen
-./. 1 200 Euro Eigenanteil) = Beihilfe (Bemessungssatz = 100 Prozent, § 57 Absatz 10)
+| beihilfefähige
 
-| 2 924,00 Euro
+Aufwendungen (4 045,00 Euro verbleibende Aufwendungen ./.
+
+1 200 Euro Eigenanteil) = Beihilfe (Bemessungssatz =
+
+100 Prozent, § 57 Absatz 10)
+
+| 2 845,00 Euro
 
 
 | e)
 
 | Gesamtleistung der Beihilfe nach Absatz 1, 2 und 5 (Buchstaben b bis d):
 
-| 4 166,50 Euro
+| 4 143,50 Euro
 
 
 55.6
@@ -15010,7 +15797,7 @@ Für die Feststellung, ob die Gesamtversorgung der in den Räumlichkeiten wohnen
 
 56.4
 
-Beihilfefähig sind 15 Prozent der nach Teil 2 Kapitel 8 des Neunten Buches Sozialgesetzbuch vereinbarten Vergütung (vergleiche § 125 Absatz 1 Nummer 2 und § 134 Absatz 1 Nummer 2 des Neunten Buches Sozialgesetzbuch), höchstens jedoch 266 Euro monatlich. Wird für die Tage, an denen die pflegebedürftigen behinderten Menschen zu Hause gepflegt und betreut werden, anteilige Pauschalbeihilfe gewährt, gelten die Tage der An- und Abreise als volle Tage der häuslichen Pflege.
+Beihilfefähig sind 15 Prozent der nach  Teil 2 Kapitel 8 des Neunten Buches Sozialgesetzbuch  vereinbarten Vergütung (vergleiche § 125 Absatz 1  Nummer 2 und § 134 Absatz 1 Nummer 2 des Neunten  Buches Sozialgesetzbuch), höchstens jedoch 278 Euro monatlich. Wird   für die Tage, an denen die pflegebedürftigen behinderten Menschen zu  Hause gepflegt und betreut werden, anteilige Pauschalbeihilfe gewährt,  gelten die Tage der An- und Abreise als volle Tage der häuslichen  Pflege. Darüber hinaus wird keine Pauschalbeihilfe gewährt (BSG, Urteil  vom 5. September 2024, B 3 P 9/22 R).
 
 56.5
 
@@ -15078,7 +15865,7 @@ Witwen und Waisen als Hinterbliebene von früheren Beamten erhalten den erhöhte
 
 57.2.7
 
-Anspruch auf einen Bemessungssatz von 90 Prozent besteht zudem nur für Witwen mit Anspruch auf Unterhaltsbeitrag nach § 45 oder § 82 Absatz 4 des Sächsischen Beamtenversorgungsgesetzes (Satz 1 Nummer 4 Buchstabe a, vergleiche Nummer 57.2.6) und auf Witwengeld (Nummer 6 Buchstabe a, vergleiche Nummer 57.2.5) sowie berücksichtigungsfähige Erwachsene (Satz 1 Nummer 8 Buchstabe b), wenn sie den Ehegattengrenzbetrag nicht übersteigen. Beim Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes sind dabei bei Witwen die der Hinterbliebenenversorgung zu Grunde liegenden Versorgungsbezüge (Unterhaltsbeitrag beziehungsweise Witwengeld) nicht zu berücksichtigen. Leistungen für Witwen aus anderen Versorgungssystemen, zum Beispiel der gesetzlichen Rentenversicherung, sind hingegen voll zu berücksichtigen.
+Anspruch auf einen Bemessungssatz von 90 Prozent besteht zudem nur für Witwen mit Anspruch auf Unterhaltsbeitrag nach § 45 oder § 82 Absatz 4 des Sächsischen Beamtenversorgungsgesetzes (Satz 1 Nummer 4 Buchstabe a, vergleiche Nummer 57.2.6) und auf Witwengeld (Nummer 6 Buchstabe a, vergleiche Nummer 57.2.5) sowie berücksichtigungsfähige Erwachsene (Satz 1 Nummer 8 Buchstabe b), wenn sie den Ehegattengrenzbetrag nicht übersteigen. Beim Gesamtbetrag der Einkünfte nach § 2 Absatz 3 des Einkommensteuergesetzes sind dabei bei Witwen die der Hinterbliebenenversorgung zu Grunde liegenden Versorgungsbezüge (Unterhaltsbeitrag beziehungsweise Witwengeld) nicht zu berücksichtigen. Leistungen für Witwen aus anderen Versorgungssystemen, zum Beispiel der gesetzlichen Rentenversicherung, sind hingegen voll zu berücksichtigen. Für den Nachweis der Einkünfte ist das von der  Festsetzungsstelle herausgegebene Formblatt, das den vorgegebenen  Festlegungen nach Anhang 2 entspricht, zu verwenden.  
 
 
 57.2.8
@@ -15161,7 +15948,12 @@ Problematisch sind Konkurrenzfälle mit Kindern, die bei mehr als zwei beihilfeb
 
 57.3.8
 
-Grundsätzlich tritt die Verstetigung eines erhöhten Bemessungssatzes nur ein, wenn die Berücksichtigungsfähigkeit von Kindern wegfällt (Satz 8). Erneute Berechtigtenbestimmungen, deren Widerruf oder die Neuzuordnung der Kinder im Familienzuschlag führen hingegen zu keinem Bestandsschutz beziehungsweise einer Verstetigung des Bemessungssatzes. Wird eine bereits abgegebene Berechtigtenbestimmung im Ausnahmefall einvernehmlich widerrufen, bestimmt sich die Zuordnung eines erhöhten Bemessungssatzes nach der Zuordnung des Kindes oder der Kinder im Familienzuschlag. Ist danach eine Zuordnung nicht möglich, verbleibt es bei den beihilfeberechtigten Personen bis zu einer erneuten Abgabe der Berechtigtenbestimmung beim bisherigen Bemessungssatz („status quo“).
+Grundsätzlich tritt die Verstetigung eines erhöhten Bemessungssatzes nur ein, wenn die Berücksichtigungsfähigkeit von Kindern wegfällt (Satz 8). Erneute Berechtigtenbestimmungen, deren Widerruf oder die Neuzuordnung der Kinder im Familienzuschlag führen hingegen zu keinem Bestandsschutz beziehungsweise einer Verstetigung des Bemessungssatzes. Wird eine bereits abgegebene Berechtigtenbestimmung im Ausnahmefall einvernehmlich widerrufen, bestimmt sich die Zuordnung eines erhöhten Bemessungssatzes nach der Zuordnung des Kindes oder der Kinder im Familienzuschlag. Ist danach eine Zuordnung nicht möglich, verbleibt es bei den beihilfeberechtigten Personen bis zu einer erneuten Abgabe der Berechtigtenbestimmung beim bisherigen Bemessungssatz („status quo“). Die Regelungen der Sätze 8 und 9 gelten im
+
+Übrigen unabhängig davon, ob eine Konkurrenzsituation vorliegt oder
+
+nicht.
+
 
 57.3.9
 
@@ -15422,6 +16214,191 @@ Geben B2 und B3 keine Berechtigtenbestimmung ab, ist auf die Zuordnung von K4 im
 
 Bezieht aber B2 den FZ für K4, führt dies beim BMS von B2 zu keiner Änderung (weiterhin 90 Prozent). Der BMS von B3 beträgt dann weiterhin 50 Prozent.
 
+
+57.3.11.1.14
+
+B1 hat zwei Kinder K1 und K2 aus erster Ehe mit B2. Die
+
+Berechtigtenbestimmung wurde zu Gunsten von B1 ausgeübt. Nach der
+
+Trennung hat B1 ein weiteres Kind K3 mit B3. B1 und B3 sind verheiratet
+
+(Eheschließung vor dem 1. Januar 2024). Das Kind K1 ist seit
+
+1. Juli 2022 nicht mehr berücksichtigungsfähig (Wegfall des
+
+Anspruches auf Kindergeld). Die Kinder K2 und K3 wohnen im Haushalt von
+
+B1 und B3.
+
+
+Nach § 57 Absatz 3 Satz 1 in der bis zum
+
+31. Dezember 2023 geltenden Fassung beträgt der BMS nach
+
+altem Recht bei B1 70 Prozent. Bei B2 und B3 beträgt der BMS
+
+50 Prozent (§ 57 Absatz 3 Satz 2 in der bis zum
+
+31. Dezember 2023 geltenden Fassung).
+
+
+Am 1. Januar 2024 ist das Kind K2 bei B1, B2
+
+und B3 (wegen der Haushaltsaufnahme) und das Kind K3 bei B1 und B3 noch
+
+berücksichtigungsfähig.
+
+
+Aufgrund der Berechtigtenbestimmung für K2 zu Gunsten
+
+von B1 beträgt dessen BMS zunächst 70 Prozent. Ein nach § 57
+
+Absatz 4 verstetigter BMS von 70 Prozent liegt bei B1 nicht
+
+vor, da nach dem 31. Dezember 2023 weiter mindestens ein Kind
+
+berücksichtigungsfähig ist. 
+
+
+Wird für das Kind K3 eine Berechtigtenbestimmung zu
+
+Gunsten von B1 abgegeben, beträgt sein BMS dann 90 Prozent. Der BMS
+
+von B2 und B3 beträgt jeweils 50 Prozent.
+
+
+Wird hingegen für das Kind K3 eine
+
+Berechtigtenbestimmung zu Gunsten von B3 abgegeben, beträgt der BMS von
+
+B3 dann 70 Prozent. Der BMS von B1 beträgt weiterhin (wegen K2)
+
+70 Prozent. Der BMS von B2 beträgt weiterhin 50 Prozent.
+
+
+Abwandlung: K2 zieht ab dem
+
+1. April 2024 aus dem gemeinsamen Haushalt von B1 und B3 aus.
+
+Der Anspruch auf Kindergeld besteht dem Grunde nach weiterhin, weswegen
+
+der Familienzuschlag für das Kind K2 (entweder B1 oder B2) weiter
+
+gewährt wird und das Kind K2 zumindest bei B1 und B2
+
+berücksichtigungsfähig bleibt.
+
+
+Bei B3 entfällt in diesem Falle der Anspruch auf  Kindergeld für das Kind K2, da eine Haushaltsaufnahme des Stiefkinds und   damit seine Kindergeldberechtigung nach § 64 Absatz 2 des  Einkommensteuergesetzes nicht mehr vorliegt. Das Kind K2 kann demnach  bei B3 nicht mehr zu einem erhöhten BMS führen. Insoweit behält B1 den  BMS von 90 Prozent (bei Berechtigtenbestimmung auch für K3 zu  Gunsten von B1) beziehungsweise von 70 Prozent (bei  Berechtigtenbestimmung für K3 zu Gunsten von B3). Aufgrund von § 57   Absatz 3 Satz 8 vermindert sich der BMS bei B1 nicht.
+
+
+Auch der BMS von 70 Prozent von B3 (bei Berechtigtenbestimmung für K3 zu Gunsten von B3) verändert sich nicht.
+
+
+57.3.11.1.15
+
+B1 hat ein Kind K1 aus erster Ehe mit S1. Nach der
+
+Trennung hat B1 zwei weitere Kinder K2 und K3 mit B2. B1 und B2 sind
+
+verheiratet (Eheschließung vor dem 1. Januar 2024). Die Kinder
+
+K1, K2 und K3 wohnen im Haushalt von B1 und B2. Die
+
+Berechtigtenbestimmung wurde zu Gunsten von B2 ausgeübt.
+
+
+Bei B1 und B2 sind die Kinder K1 (wegen der
+
+Haushaltsaufnahme auch bei B2), K2 und K3 berücksichtigungsfähig. Der
+
+BMS bestimmt sich daher nach § 57 Absatz 2 Satz 1
+
+Nummer 1 Buchstabe c mit der Folge, dass wegen § 57
+
+Absatz 3 Satz 1 nur einer von beiden den BMS von
+
+90 Prozent erhalten kann. Beim anderen beträgt der BMS
+
+50 Prozent. Aufgrund der Berechtigtenbestimmung zu Gunsten von B2
+
+beträgt sein BMS 90 Prozent, der von B1 50 Prozent.
+
+
+Abwandlung 1: K1 zieht ab dem
+
+1. September 2024 aus dem gemeinsamen Haushalt von B1 und B2
+
+aus. Die Voraussetzungen für den Kindergeldanspruch liegen weiterhin
+
+vor.
+
+
+Bei B2 entfällt in diesem Falle der Anspruch auf  Kindergeld für K1, da eine Haushaltsaufnahme des Stiefkinds und damit  seine Kindergeldberechtigung nach § 64 Absatz 2 des  Einkommensteuergesetzes nicht mehr vorliegt. Der Anspruch auf Kindergeld   für K1 steht nun allein B1 zu, weswegen auch der Familienzuschlag für  K1 allein B1 zusteht, so dass das Kind K1 nur noch bei B1  berücksichtigungsfähig ist.
+
+
+Für K1 liegt nun keine Konkurrenzsituation zwischen B1
+
+und B2 mehr vor. Das Kind K1 kann demnach bei B2 nicht mehr zu einem
+
+erhöhten BMS führen. B2 behält jedoch den BMS von 90 Prozent (bei
+
+Berechtigtenbestimmung auch für K2 und K3 zu Gunsten von B2). 
+
+
+Abwandlung 2: Wurde hingegen ab dem
+
+1. Januar 2024 die Berechtigtenbestimmung für die Kinder K1
+
+bis K3 zu Gunsten von B1 abgegeben, erhält dieser auch weiterhin nach
+
+Auszug des Kindes K1 ab 1. September 2024 den BMS von
+
+90 Prozent und B2 den BMS von 50 Prozent.
+
+
+Abwandlung 3: Wird in diesem Falle
+
+(Abwandlung 2) nun die Berechtigtenbestimmung zu Gunsten von B1 (ab
+
+dem 1. September 2024) im Ausnahmefall einvernehmlich
+
+widerrufen und (für K2 und K3) zu Gunsten von B2 abgegeben, erhält B2
+
+den erhöhten BMS von 90 Prozent. Die Verstetigung eines erhöhten
+
+BMS von B1 nach § 57 Absatz 3 Satz 8 kommt nicht zum
+
+Tragen, da erneute Berechtigtenbestimmungen, deren Widerruf oder die
+
+Neuzuordnung der Kinder im Familienzuschlag zu keinem Bestandsschutz
+
+beziehungsweise einer Verstetigung des BMS führen (vergleiche
+
+Nummer 57.3.8).
+
+
+Da bei B1 aber weiterhin K1 berücksichtigungsfähig ist
+
+und nunmehr keine Konkurrenz zu B2 besteht, kann B1 den BMS von
+
+70 Prozent erhalten, da K1 bei keinem anderen Beihilfeberechtigten
+
+zu einem erhöhten BMS führt und K1 damit nicht als „verbraucht” gilt.
+
+
+Abwandlung 4: Hätten B1 und B2 nur ein
+
+gemeinsames Kind, könnte der Wegfall der Berücksichtigungsfähigkeit von
+
+K1 ab 1. September 2024 bei B2 zu einem verstetigtem BMS von
+
+90 Prozent führen. In diesem Falle beträgt der BMS von B1
+
+50 Prozent, da K1 als „verbraucht” gilt.
+
+
 57.3.11.2
 
 Fälle mit Beteiligung von Beamten, die dem Geltungsbereich anderer Beihilfeverordnungen unterliegen
@@ -15526,9 +16503,225 @@ B1 und V1 haben zwei gemeinsame Kinder K1 und K2. Sie sind verheiratet. B1 ist b
 
 § 57 Absatz 3 Satz 4 schließt eine Berechtigtenbestimmung aus, wenn aufgrund anderer beihilferechtlicher oder vergleichbarer Regelungen eine feste Zuordnung erfolgt ist, wer den erhöhten BMS erhält. Nach § 46 Absatz 2 Satz 1 der Bayerischen Beihilfeverordnung wird der erhöhte BMS demjenigen gewährt, der den FZ für die Kinder erhält, also V1 (vergleiche auch Beispiel 57.3.11.2.7). Der BMS von V1 beträgt daher 90 Prozent.
 
+
+57.3.11.2.11
+
+B1 und B2 haben zwei gemeinsame Kinder K1 und K2. Sie
+
+sind verheiratet. B1 ist Beamter des Landes Baden-Württemberg. B2 erhält
+
+den FZ für K1 und K2.
+
+
+Da § 14 Absatz 1 Satz 3 der
+
+Beihilfeverordnung Baden-Württemberg ebenfalls einen erhöhten BMS bei
+
+zwei und mehr Kindern vorsieht, entsteht eine Konkurrenzsituation.
+
+Anders als nach Bundesrecht (vergleiche Beispiel in
+
+Nummer 57.3.11.2.2) und bayerischen Recht, soweit keine
+
+Berechtigtenbestimmung getroffen wird (vergleiche hierzu Beispiel in
+
+Nummer 57.3.11.2.7), führt nach baden-württembergischen Recht nicht
+
+erst die tatsächliche Zahlung des FZ, sondern bereits die bloße
+
+Berücksichtigungsfähigkeit der Kinder im FZ zu einem erhöhten
+
+BMS. Berücksichtigungsfähige Kinder sind nach § 3
+
+Absatz 1 Satz 1 Nummer 2 der Beihilfeverordnung
+
+Baden-Württemberg die im Familienzuschlag nach dem
+
+Landesbesoldungsgesetz Baden-Württemberg berücksichtigungsfähigen Kinder
+
+der Beihilfeberechtigten. Dies führt im Ergebnis dazu, dass in
+
+Baden-Württemberg auch in Konkurrenzsituationen mehreren
+
+Beihilfeberechtigten (für dieselben Kinder) der erhöhte Bemessungssatz
+
+von 70 Prozent gewährt werden kann. Ein Wahlrecht ist dort
+
+demzufolge nicht erforderlich und daher auch nicht vorgesehen. Da dem
+
+baden-württembergischen Beihilfeberechtigten bereits kraft Gesetzes ein
+
+erhöhter Bemessungssatz zusteht, ist ein erhöhter Bemessungssatz an
+
+einen sächsischen Beihilfeberechtigten ausgeschlossen (vergleiche auch
+
+Nummer 57.3.5).
+
+
+B1 erhält deshalb den erhöhten BMS, der nach der
+
+Beihilfeverordnung Baden-Württemberg 70 Prozent beträgt (vergleiche
+
+§ 57 Absatz 3 Satz 4, der eine Berechtigtenbestimmung
+
+ausschließt, wenn aufgrund anderer beihilferechtlicher oder
+
+vergleichbarer Regelungen eine feste Zuordnung erfolgt ist). Bei B2
+
+beträgt der BMS 50 Prozent.
+
+
 57.3.12
 
+Ob bei Beihilfeberechtigten Anspruch auf einen erhöhten   Bemessungssatz wegen der Berücksichtigungsfähigkeit von Kindern  besteht, hängt von der Frage der Berücksichtigungsfähigkeit von Kindern  im Familienzuschlag und damit vom grundsätzlichen Anspruch auf  Kindergeld ab. Während dies bei leiblichen Elternteilen in der Regel  unproblematisch ist, kann dies auch bei Stiefeltern in Betracht kommen,  wenn sie mit dem (anderen) leiblichen Elternteil verheiratet sind und  eine Haushaltsaufnahme im Sinne des § 64 Absatz 2 des  Einkommensteuergesetzes vorliegt. Ob beim sogenannten Wechselmodell eine   Haushaltsaufnahme in den Wohnungen beider Eltern (und damit auch beim  Stiefelternteil) vorliegt, ist nach den Umständen des Einzelfalles zu  beurteilen. Eine Haushaltsaufnahme im Sinne des § 64 Absatz 2  des Einkommensteuergesetzes liegt vor, wenn das Kind in die  Familiengemeinschaft mit einem dort begründeten Betreuungs- und  Erziehungsverhältnis aufgenommen worden ist. Neben dem örtlich  gebundenen Zusammenleben müssen die Voraussetzungen materieller Art  (Versorgung, Unterhaltsgewährung) und immaterieller Art (Fürsorge,  Betreuung) erfüllt sein. Die Betreuung des Kindes im Haushalt eines  Berechtigten muss einen zeitlich bedeutsamen Umfang haben und die  Aufenthalte des Kindes dürfen nicht nur Besuchs- oder Feriencharakter  haben (BFH, Beschluss vom 14. Dezember 2004,  VIII R 106/03). Dies setzt nicht voraus, dass sich das Kind in   der Wohnung überwiegend (mehr als 50 Prozent) aufhält (BVerwG,  Urteil vom 12. Dezember 1990, 2 B 116/90, vergleiche   auch Nummer 42.1.9 der Verwaltungsvorschrift des Sächsischen  Staatsministeriums der Finanzen zum Vollzug des Sächsischen  Besoldungsgesetzes).
+
+
+57.3.13
+
+Ist ein Kind weniger als 50 Prozent in den
+
+Haushalt des Stiefelternteils aufgenommen, ist eine Prüfung nach den
+
+Umständen des Einzelfalles vorzunehmen. Bei geringfügigen
+
+Unterschreitungen der „50 Prozent-Grenze“ kann aber regelmäßig
+
+davon ausgegangen werden, dass eine Kindergeldberechtigung besteht. Eine
+
+Berücksichtigungsfähigkeit des Kindes kann beim Stiefelternteil in der
+
+Beihilfe ohne weitere Prüfung unterstellt werden, wenn sich das Kind zu
+
+mindestens 40 Prozent regelmäßig im Haushalt des Stiefelternteils
+
+und nicht nur zu Besuchszwecken oder in den Ferien aufhält. In allen
+
+anderen Fällen ist vom Beihilfeberechtigten nachzuweisen, dass eine
+
+Haushaltsaufnahme vorliegt und für das Stiefkind dem Grunde nach ein
+
+Anspruch auf Kindergeld besteht (zum Beispiel durch Vorlage eines
+
+Kindergeldbescheides oder entsprechende Unterlagen der Familienkasse).
+
+
+57.3.14
+
+Beispiel
+
+
+B1 hat zwei Kinder K1 und K2 aus erster Ehe mit S1 und
+
+ist nun mit B2 verheiratet (Eheschließung vor dem
+
+1. Januar 2024). B1 und B2 haben ein vor dem
+
+1. Januar 2024 geborenes gemeinsames Kind K3. Die Kinder K1
+
+und K2 leben im gemeinsamen Haushalt von B1 und B2 im sogenannten
+
+Wechselmodell (40 Prozent bei B1 beziehungsweise B2 und
+
+60 Prozent bei S1).
+
+
+Vorbemerkung: Bei B2 kann der grundsätzliche Anspruch  auf Kindergeld für die Kinder K1 und K2 und damit auch ein Anspruch auf  den entsprechenden Familienzuschlag unterstellt werden, da eine  Haushaltsaufnahme im kindergeldrechtlichen Sinne vorliegt (§ 64  Absatz 2 Satz 2 des Einkommensteuergesetzes).
+
+
+Nach § 57 Absatz 3 Satz 1 in der bis zum
+
+31. Dezember 2023 geltenden Fassung beträgt der BMS nach
+
+altem Recht entweder bei B1 oder bei B2 in Abhängigkeit von der
+
+Berechtigtenbestimmung 70 Prozent. Beim jeweils anderen beträgt der
+
+BMS 50 Prozent (§ 57 Absatz 3 Satz 2 in der bis zum
+
+31. Dezember 2023 geltenden Fassung).
+
+
+Am 1. Januar 2024 sind die Kinder K1 bis K3 bei B1 und B2 berücksichtigungsfähig.
+
+
+In Abhängigkeit der Berechtigtenbestimmung beträgt der
+
+BMS von B1 oder B2 90 Prozent, beim anderen 50 Prozent. Wird
+
+keine Berechtigtenbestimmung abgegeben, ist darauf abzustellen, wer den
+
+FZ für K1 bis K3 erhält. Kann der erhöhte Bemessungssatz auch danach
+
+nicht eindeutig zugeordnet werden, verbleibt es zunächst bei B1 und B2
+
+bis zu einer Abgabe der Berechtigtenbestimmung beim bisherigen
+
+Bemessungssatz (vergleiche Nummer 57.3.6).
+
+
+57.3.15
+
 In Konkurrenzsituationen, bei der Beihilfeberechtigte betroffen sind, für die unterschiedliche Festsetzungsstellen zuständig sind, wird generell der Austausch von Vergleichsmitteilungen mit der anderen Festsetzungsstelle empfohlen, um eine Doppelgewährung des erhöhten Bemessungssatzes auszuschließen. Hierfür ist das von der Festsetzungsstelle herausgegebene Formblatt, das den vorgegebenen Festlegungen nach Anhang 1 entspricht und mit dem gleichzeitig eine Abfrage zur Berücksichtigung des Kindes getroffen werden kann, zu verwenden.
+
+
+57.3.16
+
+Eine Verstetigung des Bemessungssatzes von 70 oder
+
+90 Prozent nach Satz 8 kommt auch dann zur Anwendung, wenn
+
+dem Beihilfeberechtigten auf Grund der Berücksichtigungsfähigkeit von
+
+Kindern ein erhöhter Bemessungssatz zustand, zwischenzeitlich aber der
+
+Anspruch auf Leistungen der Beihilfe entfallen ist (zum Beispiel auf
+
+Grund des Anspruchs auf Heilfürsorge oder bei Beurlaubung ohne
+
+Dienstbezüge), und dieser nicht bei einem anderen Beihilfeberechtigten
+
+zu einem erhöhten Bemessungssatz geführt hat.
+
+
+Beispiel:
+
+
+Ein Beamter des Polizeivollzugsdienstes mit zwei
+
+berücksichtigungsfähigen Kindern wurde wegen Dienstunfähigkeit in den
+
+Ruhestand versetzt und hatte vor der Versetzung in den Ruhestand
+
+Anspruch auf Heilfürsorge. Er hat deshalb als Versorgungsempfänger einen
+
+Bemessungssatz von 90 Prozent (Absatz 2 Satz 1
+
+Nummer 2 Buchstabe b). Bei einer Reaktivierung auf Grund der
+
+Wiederherstellung der Dienstfähigkeit im Polizeivollzugsdienst besteht
+
+erneut Anspruch auf Heilfürsorge, womit der Anspruch auf
+
+Beihilfeleistungen entfällt. Tritt der Beamte erneut in den Ruhestand
+
+(zum Beispiel wegen Erreichens der Altersgrenze), beträgt sein
+
+Bemessungssatz 90 Prozent, wenn zu diesem Zeitpunkt noch beide
+
+Kinder berücksichtigungsfähig sind (Absatz 2 Satz 1
+
+Nummer 2 Buchstabe b). Sind die Kinder nicht mehr
+
+berücksichtigungsfähig, beträgt sein Bemessungssatz auf Grund der
+
+Verstetigung nach Satz 8 ebenfalls 90 Prozent. Dies gilt
+
+allerdings nicht, wenn die Kinder bei einem anderen Beihilfeberechtigten
+
+berücksichtigungsfähig waren und diesem der erhöhte Bemessungssatz
+
+zugeordnet wurde.
+
 
 57.4
 
@@ -15703,7 +16896,7 @@ Die Erhöhung des Bemessungssatzes kommt in besonders gelagerten Einzelfällen i
 
 57.13.2
 
-In den Fällen des § 52 Absatz 4 Satz 3 des Sächsischen Beamtengesetzes (Versetzung in den Ruhestand ohne Antrag) kann regelmäßig ab dem Zeitpunkt, zu dem die die Versorgungsbezüge übersteigende Besoldung einbehalten wird, vom Vorliegen eines besonderen Ausnahmefalles im Sinne der Nummer 2 ausgegangen werden, bei dem die Erhöhung des Bemessungssatzes im Hinblick auf die Fürsorgepflicht nach § 45 des Beamtenstatusgesetzes zwingend geboten ist. Für den staatlichen Bereich wird bestimmt, dass mit dem Ablauf der drei Monate, die auf den Monat der Mitteilung der Entscheidung zur Fortführung des Verfahrens nach § 52 Absatz 4 des Sächsischen Beamtengesetzes folgen, der sich nach Absatz 2 Satz 1 Nummer 2 und Absatz 5 Satz 1 Nummer 2 ergebende Bemessungssatz zu Grunde zu legen ist, der sich bei einer Versetzung in den Ruhestand ergeben würde. Wird das Verfahren zur Versetzung in den Ruhestand später eingestellt, gilt ab diesem Zeitpunkt der reguläre Bemessungssatz nach Absatz 2 Satz 1 Nummer 1 und Absatz 5 Satz 1 Nummer 1.
+In den Fällen des § 52 Absatz 4 Satz 3 des Sächsischen Beamtengesetzes (Versetzung in den Ruhestand ohne Antrag) kann regelmäßig ab dem Zeitpunkt, zu dem die die Versorgungsbezüge übersteigende Besoldung einbehalten wird, vom Vorliegen eines besonderen Ausnahmefalles im Sinne der Nummer 2 ausgegangen werden, bei dem die Erhöhung des Bemessungssatzes im Hinblick auf die Fürsorgepflicht nach § 45 des Beamtenstatusgesetzes zwingend geboten ist. Für den staatlichen Bereich wird bestimmt, dass mit dem Ablauf der drei Monate, die auf den Monat der Mitteilung der Entscheidung zur Fortführung des Verfahrens nach § 52 Absatz 4 des Sächsischen Beamtengesetzes folgen, der sich nach Absatz 2 Satz 1 Nummer 2 und Absatz 5 Satz 1 Nummer 2 ergebende Bemessungssatz auf Antrag des Beihilfeberechtigten zu Grunde zu legen ist, der sich bei einer Versetzung in den Ruhestand ergeben würde. Wird das Verfahren zur Versetzung in den Ruhestand später eingestellt, gilt ab diesem Zeitpunkt der reguläre Bemessungssatz nach Absatz 2 Satz 1 Nummer 1 und Absatz 5 Satz 1 Nummer 1.
 
 57.13.3
 
@@ -16285,7 +17478,7 @@ Zu § 63 Antragsfrist
 63.1
 
 
-Bei Versäumnis der Antragsfrist ist eine Wiedereinsetzung in den vorigen Stand zu gewähren, sofern die Voraussetzungen des § 32 des Verwaltungsverfahrensgesetzes vorliegen (VG Dresden, Urteil vom 29. April 2014, 11 K 1536/13). 
+Bei Versäumnis der Antragsfrist ist eine  Wiedereinsetzung in den vorigen Stand zu gewähren, sofern die  Voraussetzungen des § 32 des Verwaltungsverfahrensgesetzes  vorliegen (VG Dresden, Urteil vom 29. April 2014,  11 K 1536/13; zu den Folgen der Verwendung veralteter  Beihilfeformulare im Zusammenhang mit der Berechnung der Antragsfrist  vergleiche OVG Weimar, Urteil vom 13. November 2024,  4 KO 658/20).
 
 
 64
@@ -16310,7 +17503,21 @@ Freiwillig in der gesetzlichen Krankenversicherung oder vollständig (im Umfang 
 
 65.0.3
 
-Die pauschale Beihilfe beträgt grundsätzlich die Hälfte der anfallenden Kosten einer notwendigen Krankenvollversicherung, unabhängig davon, ob gesetzlicher oder privater Krankenversicherungsschutz besteht. Beim Beihilfeberechtigten ist die pauschale Beihilfe auf den auf die Besoldung oder die Versorgungsbezüge entfallenden Beitragsanteil beschränkt, soweit sich die Höhe des Beitrages – wie in der gesetzlichen Krankenversicherung – nach der Höhe des Einkommens bestimmt. Hierbei ist es unerheblich, ob die Beitragsbemessungsgrenze in der gesetzlichen Krankenversicherung überschritten wird. Werden neben Besoldung oder Versorgungsbezügen weitere beitragspflichtige Einnahmen berücksichtigt (vergleiche § 240 des Fünften Buches Sozialgesetzbuch), erfolgt keine anteilige Kürzung der pauschalen Beihilfe.
+Die pauschale Beihilfe beträgt grundsätzlich die Hälfte
+
+der anfallenden Kosten einer notwendigen Krankenvollversicherung,
+
+unabhängig davon, ob gesetzlicher oder privater
+
+Krankenversicherungsschutz besteht. Beim Beihilfeberechtigten ist die
+
+pauschale Beihilfe auf den auf die Besoldung (vergleiche hierzu § 2
+
+des Sächsischen Besoldungsgesetzes) oder die Versorgungsbezüge
+
+(vergleiche hierzu § 3 des Sächsischen Beamtenversorgungsgesetzes)  entfallenden Beitragsanteil beschränkt, soweit sich die Höhe des  Beitrages – wie in der gesetzlichen Krankenversicherung – nach   der Höhe des Einkommens bestimmt. Hierbei ist es unerheblich, ob die  Beitragsbemessungsgrenze in der gesetzlichen Krankenversicherung  überschritten wird. Werden neben Besoldung oder Versorgungsbezügen  weitere beitragspflichtige Einnahmen berücksichtigt (vergleiche  § 240 des Fünften Buches Sozialgesetzbuch), erfolgt keine anteilige   Kürzung der pauschalen Beihilfe. Die zum Beispiel im Rahmen von  Nebentätigkeiten – auch für den Dienstherrn – gewährten Bezüge   sind keine Besoldung oder Versorgungsbezüge im Sinne des § 80a  Absatz 3 Satz 1 des Sächsischen Beamtengesetzes und damit für
+
+die Höhe der pauschalen Beihilfe unerheblich.
 
 65.0.4
 
@@ -16360,11 +17567,17 @@ Der Zuschuss zu den maßgeblichen Krankenversicherungsbeiträgen beträgt immer 
 
 Die Bewilligung von pauschaler Beihilfe berührt nicht den Anspruch auf Leistungen bei dauernder Pflegebedürftigkeit. In diesen Fällen besteht also trotz Gewährung einer pauschalen Beihilfe ein Anspruch auf individuelle Beihilfe. Dies gilt auch für den Anspruch auf individuelle Beihilfe zu den Aufwendungen berücksichtigungsfähiger Angehöriger. Der Bemessungssatz beträgt hier bei Versicherung in der sozialen Pflegeversicherung aufgrund von § 28 Absatz 2 des Elften Gesetzbuches 50 Prozent (vergleiche § 57 Absatz 7). Bei Versicherung in der privaten Pflegeversicherung gilt der individuelle Bemessungssatz nach § 57 Absatz 5.
 
+
 65.0.16
+
+Beamte sind wegen ihrer Zugehörigkeit zum  beihilferechtlichen Fürsorgesystem nach § 6 Absatz 1  Nummer 2 in Verbindung mit Absatz 3 des Fünften Buches  Sozialgesetzbuch krankenversicherungsfrei, auch wenn bei ihnen neben  ihrem den Beihilfeanspruch vermittelnden Dienstverhältnis ein dem Grunde   nach versicherungspflichtiger Tatbestand nach § 5 Absatz 1  Nummer 1 oder 5 bis 12 des Fünften Buches  Sozialgesetzbuch vorliegt. Dies gilt nicht in Fällen, in denen Beamten  Bürgergeld (zum Beispiel als sogenannte Aufstockungsleistungen)  bewilligt wird. Hier tritt Versicherungspflicht nach § 5  Absatz 1 Nummer 2a des Fünften Buches Sozialgesetzbuch ein.  Die Regelung des § 6 Absatz 3 Satz 1 des Fünften Buches  Sozialgesetzbuch sieht für diese Fallgestaltung keinen Ausschluss der  Versicherungspflicht vor, so dass keine pauschale Beihilfe gewährt  werden kann. Ist der Beamte jedoch zuletzt vor dem Beginn des  Leistungsbezugs von Bürgergeld privat oder gar nicht krankenversichert  gewesen, ist die Versicherungspflicht als Bezieher von Bürgergeld nach  § 5 Absatz 5a des Fünften Buches Sozialgesetzbuch  ausgeschlossen, womit eine Gewährung der pauschalen Beihilfe nicht von  vornherein ausgeschlossen ist.
+
+
+65.0.17
 
 Auf Grund von § 6 Absatz 3 des Fünften Buches Sozialgesetzbuch unterliegen Ruhestandsbeamte mit Eintritt in den Ruhestand und gleichzeitigem Bezug einer Rente nicht nach § 5 Absatz 1 Nummer 11 des Fünften Buches Sozialgesetzbuch der Pflichtversicherung in der gesetzlichen Krankenversicherung. Nach § 6 Absatz 3 des Fünften Buches Sozialgesetzbuch bleiben die nach § 6 Absatz 1 des Fünften Buches Sozialgesetzbuch versicherungsfreien Personen auch dann versicherungsfrei, wenn sie eine der in § 5 Absatz 1 Nummer 1 oder Nummer 5 bis 13 des Fünften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllen. Ruhestandsbeamte sind nach § 6 Absatz 1 Nummer 6 des Fünften Buches Sozialgesetzbuch versicherungsfrei. Gehen sowohl gesetzliche Krankenversicherung als auch die Deutsche Rentenversicherung davon aus, dass für einen Ruhestandsbeamten eine Versicherungspflicht wegen des Bezugs einer Rente auf Grund von § 5 Absatz 1 Nummer 11 des Fünften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung bestehe, ist dies für die Gewährung der pauschalen Beihilfe unerheblich. Um eine Versicherungspflicht in der gesetzlichen Krankenversicherung auszuschließen, sollte die Festsetzungsstelle allerdings eine Negativbescheinigung der gesetzlichen Krankenversicherung einholen, dass sich die Versicherungspflicht nicht aus anderen Vorschriften ergibt und bei denen § 6 Absatz 3 des Fünften Buches Sozialgesetzbuch nicht zum Tragen kommt.
 
-65.0.17
+65.0.18
 
 
 § 6 Absatz 3 des Fünften Buches Sozialgesetzbuch gilt nicht für Hinterbliebene (Witwen/Waisen) von Beamten oder Ruhestandsbeamten. Diese bleiben oder werden bei gleichzeitigem Bezug einer Rente nach § 5 Absatz 1 Nummer 11 des Fünften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung pflichtversichert. Hinterbliebenen von Beamten oder Ruhestandsbeamten kann keine pauschale Beihilfe bewilligt werden, wenn diese in der gesetzlichen Krankenversicherung pflichtversichert sind. Diese Ausnahme besteht nur bei berücksichtigungsfähigen Angehörigen (vergleiche § 80a Absatz 1 und 7 des Sächsischen Beamtengesetzes).
@@ -16762,9 +17975,9 @@ Fsn-Nr.: 242-V16.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 15. November 2024
+Fassung gültig ab:  6. Juni 2025
 
-Fassung gültig bis:  5. Juni 2025
+Fassung gültig bis: 30. Juni 2025
 
 Drucken/Speichern
 
@@ -16791,7 +18004,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16881.5
+https://www.revosax.sachsen.de/vorschrift/16881.6
 Stand vom
 18.11.2026
 
