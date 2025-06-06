@@ -139,9 +139,6 @@ Abs. 4 Buchstabe b des Zusatzabkommens
 #### Art 23
 
 
-#### Art 23
-
-
 ### Kapitel 7 Ausführungsbestimmungen zu dem
 Abkommen vom 3. August 1959 zwischen der Bundesrepublik
 Deutschland, Kanada und dem Vereinigten Königreich Großbritannien

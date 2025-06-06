@@ -32,6 +32,4 @@
 - [§ 25b Sonstige Vorschriften](0025b.md)
 - [§ 26 (weggefallen)](0026.md)
 - [§ 27](0027.md)
-- [Anhang EV Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III
-
-(BGBl. II 1990, 889, 920)](anhang-ev.md)
+- [Anhang EV Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III(BGBl. II 1990, 889, 920)](anhang-ev.md)
