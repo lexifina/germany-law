@@ -1,0 +1,180 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2025-06-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8465671
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8465671
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen: Petition Parkplätze (FF UA MuV) (Hinweis: Es lag noch eine 18- seitige Unterschriftenliste hierfür vor)
+- TOP 2.1.2.2.: Bürgeranliegen; Hundewiese Walchenseeplatz (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Einrichtung von Einbahnstraßen (FF UA Verkehr)
+- TOP 2.1.2.4.: Bürgeranliegen; Beschwerde über Kirchenglockenläuten in Giesing (FF UA Umwelt)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Perlacher Str. 105
+- TOP 3.10.2.: Perlacher Str. 118
+- TOP 3.10.3.: Perlacher Str. 120
+- TOP 3.10.4.: Perlacher Str. 126
+- TOP 3.10.5.: Deisenhofener Str. 110
+- TOP 3.10.6.: Deisenhofener Str. 114
+- TOP 3.10.7.: Raintaler Str. 5
+- TOP 3.10.8.: Chiemgaustr. 71
+- TOP 3.10.9.: Schwanseestr. 26
+- TOP 3.10.10.: Forggenseestr. 5
+- TOP 3.10.11.: Forggenseestr. 14
+- TOP 3.10.12.: Forggenseestr. 32
+- TOP 3.10.13.: Forggenseestr. 50
+- TOP 3.10.14.: Trauchbergstr. 3
+- TOP 3.10.15.: Trauchbergstr. 8
+- TOP 3.10.16.: Weißenseestr. 8
+- TOP 3.10.17.: Weißenseestr. 36
+- TOP 3.10.18.: Weißenseestr. 44
+- TOP 3.10.19.: Schlierseestr. 75
+- TOP 3.10.20.: Marklandstr. 31
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur) FZT Obergiesing 103er Theatertage im 103er vom 24.11.2025 - 28.11.2025 3.200,00€; Az:0262.0-17-0488
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Freundschaft zwischen Ausländern und Deutschen e.V. SommerHofKonzerte -Konzert-Reihe am `Nachbarschaftstreff am Walchenseeplatz`vom 13.07. -03.08.2025 780,00€; Az. 0262.0-17-0489
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Soziales) FABI - Paritätische Familienbildungsstätte München e.V. Kreativstation, Korkenbad & Infostand bei "Sommer im Park" am 04.07.2025 220,00€; Az. 0262.0-17-0490
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA FSA) wirWerk gGmbH KraftRaum LIVE -Deine Stärke wächst mit dir! am 13.09.2025 1.886,71€; Az. 0262.0-17-0492
+- TOP 5.1.5.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse (FF UA FSA) Antrag vom 27.02.2025 vom Nachbarschaftstreff Giesing (QuarterM gGmbH) Ratschbankerl vom 01.05. -31.12.2025 - Änderungsanfrage, neue Summe: 1580,00 € (FF UA FSA)
+- TOP 5.1.6.: (E) Stadtbezirksbudget (FF UA Kultur) HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025 1.600,00€; Az. 0262.0-17-0493
+- TOP 5.1.7.: (E) Stadtbezirksbudget (FF UA FSA) Gesellschaft für soziale Arbeit gGmbH Deutschkurse für Anfänger:innen und Fortgeschrittene vom 16.09.2025 -28.07.2026 2.172,50€; Az. 0262.0-17-0491
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Verlängerung Bewilligungszeitraum Projekt: Dokumentationsfilm Mural
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Balanstr. 389 - Neubau eines Wohnheimes mit 26 Appartements für Studierende und Pflegepersonal mit 5 Stellplätzen - VORBESCHEID
+- TOP 6.1.3.2.: Obere Grasstr. 1 - Wiederaufbau eines Mehrfamilienhauses- ÄNDERUNGSANTRAG zu 1.23-2021-23274-33 hier: Wiederaufbau eines Zweifamilienhauses Variante Grenzbau
+- TOP 6.1.3.3.: Obere Grasstr. 1 - Wiederaufbau eines Mehrfamilienhauses- ÄNDERUNGSANTRAG zu 1.23-2021-23274-33 hier: Wiederaufbau eines Zweifamilienhauses Variante Grenzüberbau
+- TOP 6.1.3.4.: Beteiligung gem. § 13 Abs. 2 S. 1 Nr. 3 i.V.m. §4 Abs. 2 BauGB (BA- Beteiligung) Sektoraler Bebauungsplan Nr. 2186 Kistlerstr. (...) Frist bis 20.06.2025
+- TOP 6.1.3.5.: Neubau Tram-Betriebshof Ständlerstraße, Tektur A (Frist: 30.05.2025)
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung Trauchberg-/Forggenseestr. hier: - Froggenseestr. 26 - Schlierseestr. 38
+- TOP 6.1.4.2.: 49. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2025
+- TOP 6.1.4.3.: (U) Kein Ausverkauf des Münchner Stadtbildes
+- TOP 6.1.4.4.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2025 bis 2045 für die Sadtbezirke
+- TOP 6.1.4.5.: Zweite Programmanpassung von "Wohnen in München VII" A) Reaktion auf den Ausfall der staatlichen Mittelzuweisung für die Einkommensorientierte Förderung durch die Landeshauptstadt München: Einführung einer kommunalen Einkommensorientierten Förderung (EOF) B) und C) Stadtratsanträge
+- TOP 6.1.4.6.: Schutz des Grünzugs Hachinger Tal bei einem Beschluss des Bebauungsplanes "Zukunftspark Neubiberg"
+- TOP 6.1.4.7.: (U) Demografiebericht München- Teil 1 Analyse 2024 und Bevölkerungsprognose 2025 bis 2045 für die Landeshauptstadt
+- TOP 6.1.4.8.: Kistlerstraße (südlich) Weinbauernstraße (nördlich) Martin-Luther-Straße (östlich) Satzung über die erste Verlängerung der Veränderungssperre Nr. 659 Erlass nach § 17 Abs. 1 Satz 3 BauGB Stadtbezirk 17 Obergiesing-Fasangarten
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfül-lung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP 6.3.1.1.: Vorstellung von geplanten Maßnahmen am Giesinger U-Bahnhof durch die SWM
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Konzept für geteilte Mobilität im Stadtbezirk 17 - weitere Standorte Mikromobilität (Frist bis 17.06.2025) - Vertagung aus der Mai-Sitzung
+- TOP 6.3.3.2.: Anhörung - Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2 i.V.m. §46 Abs. 1 Nr. 11 StVO hier: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Plecherstr. 6
+- TOP 6.3.3.3.: Anhörung - Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: hier: Herzogstandstraße/Werinherstraße, Ergänzung Beschilderung Tempo 30
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Leben retten - Abbiegeassistenten unverzüglich verpflichtend einführen! - Antrag der Fraktion B90/Die Grünen vom 04.01.2021 -
+- TOP 6.3.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Aufhebung eines personenbezogenen Behindertenparkplatz im Bereich Raintaler Str.
+- TOP 6.3.4.3.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 der Straßenverkehrs-Ordnung (StVO) hier; Arbeiten im Straßenraum Weinbauernstraße Kesselbergstraße Zehentbauernstraße Erneuerung einer 110 KV Versorgungsleitung Querung der Trambahnanlage Tegernseer-Landstraße
+- TOP 6.3.4.4.: Antwortschreiben auf ein Bürgeranliegen - April Sitzung; hier: Parklizenzgebiet Scharfreiterstr.
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München (Frist 20.06.2025)
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 6.4.4.2.: Antwortschreiben auf ein Bürgeranliegen; Unregelmäßigkeiten bei der Müllentsorgung Alpenplatz/ Untere Grasstr.
+- TOP 6.4.4.3.: Antwortschreiben auf ein Bürgeranliegen; Neugestaltung Grünspitz
+- TOP 6.4.4.4.: Ergebnisse des Pilotversuchs Gelbe Systeme
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung auf öffentlicher Grünanlage; hier "Eröffnungsfeier Giesinger Grünspitz" am 5.7.2025 (Frist: 11.06.2025)
+- TOP 6.5.3.2.: Anhörungsverfahren für Veranstaltung in öffentlicher Grünanlage hier: "Offenes Fußballturnier f. junge Löwenfans", Louisoder Spielplatz am 28.06.2025 (Frist 13.06.2025)
+- TOP 6.5.3.3.: Bezirksübergreifende Veranstaltung in Grünanlagen, Zirkus Pumpernudl vom 10.08. - 10.10.2025 (Frist: 30.06.2025)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Genehmigung einer Veranstaltung in einer städtischen Grünanlage hier; Kinderflohmarkt am 16.05.2025 - Spielplatz an der St. Martin Str.
+- TOP 6.5.4.2.: Genehmigung einer Veranstaltung hier: "Open Air Konzerte"ab 09.05.2025 am Giesinger Bahnhof
+- TOP 6.5.4.3.: Genehmigung einer Veranstaltung; hier: Flohmarkt mit Live Musik am Giesinger Bahnhof am 03.05, 19.07., 27.11.
+- TOP 6.5.4.4.: Neuer Veranstaltungstermin VerWunderLand- Ella-Linges Platz jetzt am 17.07.2025
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) hier: Erweiterung einer Freischankfläche "Bamboleo" Tegernseer Landstr. 96 (Vertagung aus der Mai-Sitzung)
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Unveränderte Fortführung eines Gaststättenbetriebs hier: ehemals Pizza Pils, Herzogstandstr. 24
+- TOP 6.6.4.2.: Postfiliale am Tegernseer Platz
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Anhörungsschreiben; Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: MIP 2025 - 2029
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: UA - Sitzungstermin im Juni
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: TOP 6.5.3.4 Veranstaltung auf öffentlicher Verkehrsfläche; hier "Fahrradfest" am Auguste - Kent Platz am 26.06.2025 (Frist: 20.06.2025)
+- TOP 6.5.3.4.: Veranstaltung auf öffentlicher Verkehrsfläche; hier "Fahrradfest" am Auguste - Kent Platz am 26.06.2025 (Frist: 20.06.2025)
+- TOP 6.5.3.5.: Veranstaltung auf öffentlicher Verkehrsfläche; hier "Grüner Quirin" am St. Quirin Platz am 14.07. - 17.07.2026 (Frist: 30.06.2025)
+- TOP 1.2.2.: TOP 6.5.3.5 Veranstaltung auf öffentlicher Verkehrsfläche; hier: "Grüner Quirin" am St. Quirin Platz am 14.07. - 17.07.2025 (Frist: 30.06.2025)
+- TOP 1.2.3.: TOP 6.2.5.1 Antrag - Bestellung von Familien- und Ferienpässen für das Schuljahr 2025/2026
+- TOP 6.2.5.1.: Bestellung einer städtischen Leistung; hier: Familien- und Ferienpässe für das Schuljahr 2025/2026
