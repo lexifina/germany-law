@@ -1,0 +1,62 @@
+# 19. Sitzung des Ausschusses für Wirtschaft und Beteiligungen
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2025-06-10T10:00:00+02:00
+- Ende: 2025-06-10T12:00:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2025-AWB-18
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2025-AWB-18
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AWB-18
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-AWB-18
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 04.02.2025
+- TOP 3: Angelegenheiten des Bereiches Planung
+- TOP 3.1: Masterplan Handwerk für das Ruhrgebiet
+- TOP 4: Angelegenheiten der Freizeitgesellschaften
+- TOP 4.1: Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 4.1.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Änderung des Gesellschaftsvertrages
+- TOP 4.1.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Jahresabschluss zum 31.12.2024
+- TOP 4.1.3: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Sanierung der Niederrheintherme im Revierpark Mattlerbusch
+- TOP 4.1.4: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Außerplanmäßige Mittelbereitstellung für die Betriebsstätte Vonderort
+- TOP 4.2: Angelegenheiten der Freizeitgesellschaften Revierpark Gysenberg Herne GmbH - Gesellschaftervereinbarung 2026
+- TOP 4.3: Maximilianpark Hamm GmbH
+- TOP 4.3.1: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2024
+- TOP 4.3.2: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Verkauf von Anteilen an die Stadt Hamm
+- TOP 4.3.3: Angelegenheiten der Freizeitgesellschaften Maximilianpark Hamm GmbH - Änderung des Gesellschaftsvertrages
+- TOP 4.4: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Jahresabschluss zum 31.12.2024
+- TOP 4.5: Seegesellschaft Haltern mbH
+- TOP 4.5.1: Angelegenheiten der Freizeitgesellschaften Seegesellschaft Haltern mbH - Änderung des Gesellschaftsvertrages
+- TOP 4.5.2: Angelegenheiten der Freizeitgesellschaften Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2024
+- TOP 4.6: Angelegenheiten der Freizeitgesellschaften Betreibergesellschaft Silbersee II Haltern am See mbH - Änderung des Gesellschaftsvertrages
+- TOP 5: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 5.1: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet GmbH - Änderung des Gesellschaftsvertrages der AGR-DAR GmbH
+- TOP 5.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der Ruhrwind Herten GmbH
+- TOP 6: Angelegenheiten der Ruhr Tourismus GmbH - Änderung des Gesellschaftsvertrages
+- TOP 7: Angelegenheiten der Business Metropole Ruhr mbH
+- TOP 7.1: Angelegenheiten der Business Metropole Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 7.2: Angelegenheiten der Business Metropole Ruhr GmbH - Änderung des Gesellschaftsvertrages der WiN Emscher-Lippe Gesellschaft zur Strukturverbesserung mbH
+- TOP 8: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH
+- TOP 8.1: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Jahresabschluss zum 31.12.2024
+- TOP 8.2: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Erwerb von Anteilen von der Stadt Bergkamen
+- TOP 8.3: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.4: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Änderung der Gesellschaftervereinbarung
+- TOP 9: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 10: Angelegenheiten der Manifesta 16 Ruhr gGmbH - Änderung des Gesellschaftsvertrages
+- TOP 11: Das Ruhrgebiet - Hier bleibt alles anders Zwischenergebnis der 3. Kampagnenphase (2024-2026) und Entscheidung über die Zusammenarbeit mit der derzeitigen Agentur für ein weiteres Jahr
+- TOP 12: Überarbeitung und Aktualisierung des Public Corporate Governance Kodex (PCGK) des Regionalverbandes Ruhr
+- TOP 13: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2024. Beschluss über die Behandlung des Jahresergebnisses 2024. Entlastung des Betriebsausschusses RVR Ruhr Grün.
+- TOP 14: Angelegenheiten der EKOCity GmbH - Änderung des Gesellschaftsvertrages
+- TOP 15: Angelegenheiten der RuhrFutur gGmbH - Jahresabschluss zum 31.12.2024
+- TOP 16: Zuschuss zum IGA2027-Projekt Ruhrfenster Muttental / Zeche Nachtigall an die Stadt Witten
+- TOP 17: Anträge
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der Fraktion Die Linke Potentiale der migrantischen Ökonomie
+- TOP 18.1.2: Faire Metropole Ruhr
+- TOP 18.2: Mitteilungen
