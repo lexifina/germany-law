@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Ronsdorf
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-06-10T18:00:00+02:00
+- Ende: 2025-06-10T19:35:00+02:00
+- Ort: Sitzungszimmer im Bürgerbüro Ronsdorf, Marktstraße 21, 42369 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/48
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23328
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23328
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00349685.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00350528.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung einer Bezirksvertreterin
+- TOP 2: Bericht des Bezirksbürgermeisters
+- TOP 3: Bericht aus dem Jugendrat
+- TOP 4: Bericht aus dem Beitrat der Menschen mit Behinderung
+- TOP 5: Vorstellung einer Stadtteilkarte für Kinder und Jugendliche von Kindern und Jugendlichen - Bericht Girls Club Rehsiepen
+- TOP 6: Vorstellung "Bergischer Brückenschlag e.V."
+- TOP 7: Bürgerantrag gem. § 24 GO Einrichtung eines verkehrsberuhigten Bereiches - Goldlackstr. - ungeändert beschlossen
+- TOP 8: Prüfung der Verkehrssituation im oberen Teil der Breite Straße - ungeändert beschlossen
+- TOP 9: Neuer Standort für Depotcontainer der AWG - Kellersfeld - ungeändert beschlossen
+- TOP 10: Anträge
+- TOP 10.1: Realisierungsmöglichkeiten eines Umweltprojekts mit einer multifunktionalen Fläche an der Haltestelle Parkstraße - Antrag SPD-Fraktion - geändert beschlossen
+- TOP 10.2: Prüfung und Stellungnahme zur aktuellen Verkehrssituation an der Staubenthaler Höhe - Antrag SPD-Fraktion - ungeändert beschlossen
+- TOP 10.3: Prüfung der Verkehrssituation auf der Luhnsfelder Höhe - Antrag SPD-Fraktion - ungeändert beschlossen
+- TOP 10.4: Prüfung der Verkehrssituation an der Holthauser Straße - Antrag SPD-Fraktion - ungeändert beschlossen
+- TOP 10.5: Radwege L419 - Antrag SPD-Fraktion - geändert beschlossen
+- TOP 11: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2025 - ungeändert beschlossen
+- TOP 12: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027 - ungeändert beschlossen
+- TOP 13: Zugerweiterung an der Erich-Fried-Gesamtschule, An der Blutfinke 70, 42369 Wuppertal - ungeändert beschlossen
+- TOP 14: Einrichtung einer Tempo 30-Strecke auf der Lüttringhauser Straße - ungeändert beschlossen
+- TOP 15: Bebauungsplan 1234 - Rädchen Süd - - ungeändert beschlossen
+- TOP 16: Bebauungsplan Nr. 1234, Rädchen-Süd - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 17: Überarbeitung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 18: Ausweisung von Plauderbänken auf dem Bandwirkerplatz . mdl. Bericht
+- TOP 19: Sachstand zum Konzept öffentliche Toiletten - Entgegennahme ohne Beschluss
+- TOP 20: Informationen zur Sanierung und Instandhaltung der Gräber verdienter Bürgerinnen und Bürger - Entgegennahme ohne Beschluss
+- TOP 21: Aufstellen von Hinweisschildern an Gräbern verdienter Bürgerinnen und Bürger der Stadt - Entgegennahme ohne Beschluss
+- TOP 22: Neuregelungen der StVO und VwV zu Geschwindigkeitsbeschränkungen (Tempo 30) - Entgegennahme ohne Beschluss
+- TOP 23: Einzelne Änderungen im ÖPNV gemäß des Nahverkehrsplans - Entgegennahme ohne Beschluss
+- TOP 24: Gewährung freier Mittel
+- TOP 24.1: Antrag Schulverein der Gemeinschaftsgrundschule Engelbert-Wüster-Weg e.V. auf freie Mittel für ein Zirkusprojekt - ungeändert beschlossen
+- TOP 24.2: Antrag Ronsdorfer Heimat- und Bürgerverein e.V. auf freie Mittel für eine Spülmaschine - ungeändert beschlossen
+- TOP 24.3: Antrag Posaunenchor Ronsdorf e.V. auf freie Mittel für den Besuch des Partnerorchesters „Harmonie de Côte Chaude“ - ungeändert beschlossen
+- TOP 24.4: Antrag Elternbeirat der KiTa Ferdinand-Lassalle-Str. auf freie Mittel für eine Weidehütte - ungeändert beschlossen
+- TOP 24.5: Antrag GS Ferdinand-Lassalle-Str. auf freie Mittel für das Theaterprojekt "Mein Körper gehört mir" - ungeändert beschlossen
+- TOP 25: Gewährung GfG-Mittel
+- TOP 25.1: Antrag Grünfflächen und Forsten (103) Stadt Wuppertal auf weitere GfG-Mittel - ungeändert beschlossen
+- TOP 25.2: Antrag Kindergarteninitiative Ronsdorf e.V. auf freie Mittel für eine Garderobe - geändert beschlossen
+- TOP 26: Veranstaltungen im Stadtbezirk
+- TOP 26.1: Antrag Wir in Ronsdorf e.V. Kinderfest (30.08.2025) | Antrag wurde zurückgezogen - zurückgezogen
