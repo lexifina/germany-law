@@ -1,0 +1,8 @@
+# TOP 8: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2025
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg (2025-06-10)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/135086
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/63352
