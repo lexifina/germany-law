@@ -1,0 +1,97 @@
+# 35. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-06-12T17:00:00+02:00
+- Ende: 2025-06-12T21:35:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7297
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7297
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=452387
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Mitglieder des Bezirksamtes - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten für den Ausschuss für Arbeit, Soziales, Gesundheit, Teilhabe und Inklusion (B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Arbeit, Soziales, Gesundheit, Teilhabe und Inklusion (B) - gewählt
+- TOP 6.3: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im Ausschuss für Sport (B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vertagte Tagesordnungspunkte - (offen)
+- TOP 7.1: Pflege von Denkmalen und Gedenksteinen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-32 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Hausboote im Treptower Hafen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Entgeltfreies WLAN in öffentlichen Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Künstliche Intelligenz gegen Vermüllung nutzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Fußgängerüberweg Kosmosviertel Altglienicke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Schulwegsicherheit in der Chaukenstraße und Verkehrssicherheit am Spielplatz Lugierring - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Gefährliche Ampelschaltung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.7: Tempo 30 auf dem Dammweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.8: Lichtzeichenanlage in Bohnsdorf übersichtlicher gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Rad fahren auf dem Europaradweg im Mentzelpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Maßnahmenplan für Schöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Neubau der Anschlussstelle Hubertus an der Autobahn A 117 bei km 2,351 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Zebrastreifen Elsenstraße / Karl-Kunger-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Einseitiges Parken in der Dörpfeldstraße zwischen Arndt- und Wassermannstraße zwischen 19.00 und 06.00 Uhr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Bedarfsplanung zur ärztlichen Versorgung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Beleuchtung am S-Bahnhof Treptower Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Einrichtung einer Kontaktbörse zur Absicherung der haus- und fachärztlichen Versorgung im Bezirk Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Querungshilfe Fürstenwalder Allee 72-82 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Querungshilfe Dammweg Nähe Bergaustraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Bedarfsampel Am Treptower Park / Moosdorfstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.12: Weitere Querungsmöglichkeit auf der Neuen Krugallee errichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.13: Fußgängerüberweg Altglienicke Kirche - überwiesen
+- TOP 8.2.14: Tempo-30-Bereich auf der Treskowallee deutlicher kenntlich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.15: Verkehrssicherheit an der Kreuzung Brigittenweg, Siriusstraße, Ortolfstraße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.16: Straßenzusatzschilder für Karl Kunger im Ortsteil Alt-Treptow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.17: Die Fahrradständer am Bahnhof Grünbergallee wieder einsehbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.18: Mehr Mobilitätsmix mit Jelbi im Berliner Südosten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.19: Kleingartenanlagen in Plänterwald erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.20: Lebensqualität im Kölner Viertel (IV): Hundegarten im Coloniapark prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.21: Verbesserung der Straßenbeleuchtung in der Birkenstraße, 12559 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Mündliche Anfragen - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Gründung einer Grundschule am Standort Hirtestraße 10, 12555 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Einmündung der Lutherstraße auf die Fürstenwalder Allee - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Barrierefreie Straßenquerungen während Bauarbeiten sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sitzbänke in der Baumschulenstraße instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Parkplätze am Dorfanger Bohnsdorf erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Park-and-Ride-Parkplatz am S-Bahnhof Altglienicke wieder uneingeschränkt nutzbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Maßnahme gegen Schleichverkehr in Baumschulenweg: Einbahnstraße Trojanstraße - überwiesen
+- TOP 11.7: Sicherheit für Zufußgehende in der Siemensstraße Ecke Deulstraße in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Ladezone und Kurzzeitparken Sterndamm 83, Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Erhöhte Sichtplattform für barrierefreien Ausblick auf dem Kaisersteg - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Abstellmöglichkeiten für Fahrräder im Park an der Anlegestelle Grünau schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Parkraum erhalten und neu schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Brückenneubau an der Wuhlheide schnellstmöglich umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Katastrophenschutz stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Kurzprofile für die 20 Bezirksregionen in Treptow-Köpenick - überwiesen
+- TOP 12.2: Bebauungsplan XV-70b ("Schwalbenweg") hier: Einstellung des Bebauungsplanverfahrens - überwiesen
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Integration und Teilhabe durch freiwillige Arbeitsangebote stärken - überwiesen
+- TOP 13.2: Verkehr der Buslinien 165/265 stabilisieren – temporäre Busspur auf der Puschkinallee einrichten - überwiesen
+- TOP 13.3: Runder Tisch "Pflege" - überwiesen
+- TOP 13.4: Gefahrenstelle entschärfen – Bushaltestelle Adlergestell / Glienicker Weg verlegen - überwiesen
+- TOP 13.5: Hitzeschutz für alle - überwiesen
+- TOP 13.6: Pflanzenliste für Biodiversität und Klimaresilienz - überwiesen
+- TOP 13.7: Brücke an der Wuhlheide – Perspektiven für die Übergangsphase - überwiesen
+- TOP 13.8: Frauenbeirat - überwiesen
+- TOP 13.9: Kreisverkehr statt Kreuzung: Knotenpunkt Wuhlheide zukunftsfähig gestalten - überwiesen
+- TOP 13.10: Sicheres Wenden auf der Michael-Brückner-Straße ermöglichen - überwiesen
+- TOP 13.11: Aktionsplan "Inklusion und Barrierefreiheit" - überwiesen
+- TOP 13.12: Mehr Sauberkeit im Landschaftspark Johannisthal - überwiesen
+- TOP 13.13: Maßvolle Entwicklung der ehemaligen Kaserne Hessenwinkel - überwiesen
+- TOP 13.14: Anwohnende entlasten und Schallschutz am BER auszahlen - überwiesen
+- TOP 13.15: Gegen den verkehrspolitischen Rückwärtsgang – Kungerkiezblock weiter umsetzen - überwiesen
+- TOP 13.16: Modellprojekt für Sonnenschutz – Kostenfreie Sonnencremespender im Park - überwiesen
+- TOP 13.17: Jugendarbeit im Eckwertebeschluss sichern - überwiesen
+- TOP 14: Große Anfragen - (offen)
