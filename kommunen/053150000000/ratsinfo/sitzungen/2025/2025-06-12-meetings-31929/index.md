@@ -1,0 +1,78 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-12T16:05:00+02:00
+- Ende: 2025-06-12T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31929
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31929
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion betr.: "Hochwasserschutz in Köln-Dünnwald" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0131/2025) betreffend "Hochwasserschutz in Dünnwald" - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Mitteilung zum Flughafen" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 30.01.2025 betreffend "Mitteilung zum Flughafen" (AN/0137/2025) - Kenntnis genommen
+- TOP -: Nachfragen der Fraktionen Bündnis90/Die Grünen und Volt zur Beantwortung der Anfrage 0536/2025 betr.: "Mitteilung zum Flughafen" - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betr.: "Stand Klimaschutz Monitoring" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt, Grün vom 20.03.2025 (AN/0138/2025) betr.: "Stand Klimaschutz Monitoring" - Kenntnis genommen
+- TOP 1.4: Anfrage der FDP-Fraktion betr.: "Sachstand Sanierung der Trauerhalle auf dem Melaten-Friedhof" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0432/2025 der FDP-Fraktion bezüglich der Trauerhalle auf dem Melaten-Friedhof - Kenntnis genommen
+- TOP 1.5: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: Osterkirmes 2025 im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - vertagt
+- TOP 1.6: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: Herbstkirmes im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - vertagt
+- TOP 1.7: Anfrage der Fraktion Die Linke betr.: "Moore als Teil des Klimaschutzes in Köln" - vertagt
+- TOP 1.8: Anfrage der Fraktion Die Linke betr.: "Lichtverschmutzung reduzieren" - vertagt
+- TOP 1.9: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Zukunft des Kleingärtnervereins Köln Süd e.V." - vertagt
+- TOP 1.10: Anfrage der CDU-Fraktion betr.: "Maßnahmen zur Verschattung öffentlicher Flächen" - vertagt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betr.: "Regenwassernutzung in Kölle" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP -: Regenwassernutzung in Kölle, Stellungnahme zum Antrag AN/0030/2025, Die Linke Fraktion im Rat der Stadt Köln - Kenntnis genommen
+- TOP 2.2: Antrag der Fraktion Die Linke betr.: "Netto Null Versiegelung" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Bündnis90/Die Grünen - endgültig abgelehnt
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 2.3: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Mähfreier Mai" - endgültig abgelehnt
+- TOP 2.4: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Tierschutz vor Feuerwerk" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, Volt und Ratsgruppe KLIMA FREUNDE & GUT - Sache ist erledigt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Zuschussgewährung "Tag des guten Lebens 2025" - ungeändert beschlossen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Köln Gestaltet Bodenbeläge, Fortschreibung des Gestaltungshandbuchs der Stadt Köln, hier: Kölner Standards für Bodenbeläge - ohne Votum behandelt
+- TOP 4.1.2: 13. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebiets (NSG) N 24 „Isborns Heide und Hommelsheimer Bruch“ hier: Beschluss über Bedenken und Anregungen sowie Satzungsbeschluss - ungeändert beschlossen
+- TOP 4.1.3: Energetische Sanierung des Bürgerzentrums Deutz, Tempelstraße 41-43, 50679 Köln Baubeschluss - geändert beschlossen
+- TOP 4.1.4: Kleingartenpark Claudiusstraße Planungsbeschluss - ungeändert beschlossen
+- TOP 4.1.5: Städtebauliches Planungskonzept Parkstadt Süd – Innerer Grüngürtel in Köln Rodenkirchen in den Stadtteilen Köln-Bayenthal, -Raderberg und -Zollstock - ohne Votum behandelt
+- TOP 4.1.6: Fortführung der finanziellen Unterstützung des Umweltbildungszentrums Heideportal Gut Leidenhausen e.V. - ungeändert beschlossen
+- TOP 4.1.7: Fortführung der finanziellen Unterstützung des Ernährungsrates für Köln und Umgebung e.V. - ungeändert beschlossen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - verwiesen in nachfolgende Gremien
+- TOP 4.2.2: Fortführung der Zuwendung zur Erfassung von meteorologischen Daten und Ozonimmissionen durch die Universität zu Köln für ein langfristiges Umwelt Monitoring in Köln - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2025 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.3: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 7.4: Planfeststellungsbeschluss für die Herstellung des Retentionsraums Worringen - Kenntnis genommen
+- TOP 7.5: VHS ausgezeichnet: Nationaler Preis - Bildung für nachhaltige Entwicklung - Kenntnis genommen
+- TOP 7.6: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 28. Mai 2025 - Kenntnis genommen
+- TOP 7.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Integration eines Nachhaltigkeitskonzepts bei dem Vergabeverfahren für Anlegestellen am Rhein, Aktenzeichen 19/25 - Kenntnis genommen
+- TOP 7.8: Transformation des Treffpunkt Solars in einen mobilen One-Stop-Shop - Kenntnis genommen
+- TOP 7.9: Sachstand Kölner Solarkataster - Kenntnis genommen
+- TOP 7.10: Forschungsbohrung in Köln Dellbrück - Kenntnis genommen
+- TOP 7.11: Rheinboulevard Köln-Deutz - Freilegung und Integration archäologische Funde - Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün betr.: "LKW-Transport des Bonner Klärschlammes nach Köln-Merkenich" - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Anfrage aus der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 15.05.2025 betreffend "Blumenzwiebeln wiederverwenden" - Kenntnis genommen
+- TOP 8.3: Beantwortung von mündlichen Anfragen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30. Januar bezüglich der Präsentation zum Schaugewächshaus im botanischen Garten - Kenntnis genommen
+- TOP 8.4: Beantwortung einer mündlichen Anfrage der CDU-Fraktion zur Beschlussvorlage 0992/2025 Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Mündliche Anfrage der Fraktion Die Linke betr.: "Erneuerung von zwei bzw. vier Brücken im Autobahnkreuz (AK) Köln-Gremberg 2025“
+- TOP 9.2: Mündliche Anfrage der SPD-Fraktion betr.: "Einhaltung der Vereinbarungen zur Klärschlammverwertung in Merkenich"
