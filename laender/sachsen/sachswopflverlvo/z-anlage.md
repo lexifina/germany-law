@@ -7,29 +7,34 @@ Angola
 Argentinien
 Armenien
 Aserbaidschan
+Äthiopien
 Australien
+Bahrain
 Bangladesch
 Belarus
 Benin
-Bhutan
 Bolivien, Plurinationaler Staat
 Brasilien
 Burkina Faso
 Burundi
+Cabo Verde
 Chile
+China
 Costa Rica
 Côte d’Ivoire
 Dominikanische Republik
 Dschibuti
 Ecuador
+El Salvador
+Eswatini
 Gabun
 Gambia
-Guinea-Bissau
+Guatemala
 Haiti
+Honduras
 Indien
 Indonesien
 Israel
-Japan
 Jordanien
 Kambodscha
 Kamerun
@@ -41,6 +46,7 @@ Kongo
 Kongo, Demokratische Republik
 Korea, Republik
 Kuba
+Laos, Demokratische Volksrepublik
 Libanon
 Liberia
 Libyen
@@ -59,30 +65,33 @@ Nicaragua
 Niger
 Nigeria
 Pakistan
-Panama
 Paraguay
 Peru
+Ruanda
 Russische Föderation
 Sambia
 São Tomé und Príncipe
 Schweiz
-Sierra Leone
 Simbabwe
+Singapur
 Sri Lanka
+St. Kitts und Nevis
 Südafrika
 Tadschikistan
 Tansania, Vereinigte Republik
-Thailand
 Timor-Leste
 Togo
+Tonga
+Trinidad und Tobago
 Tschad
 Tunesien
 Türkei
 Turkmenistan
 Ukraine
+Uruguay
 Usbekistan
-Vereinigte Arabische Emirate
+Venezuela, Bolivarische Republik
 Vereinigte Staaten
 Vereinigtes Königreich
 Vietnam
-Zentralafrikanische Republik.
+Zentralafrikanische Republik
