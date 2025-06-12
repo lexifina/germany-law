@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt zur Übertragung von Zuständigkeiten nach dem Tierhaltungskennzeichnungsgesetz (Tierhaltungskennzeichnungs-Zuständigkeitsverordnung – TierHKZuVO)
+Vom 5. Mai 2025
+Auf Grund des § 16 Absatz 1 Satz 2 Nummer 1 des Sächsischen Verwaltungsorganisationsgesetzes vom 25. November 2003 (SächsGVBl. S. 899), das zuletzt durch Artikel 7 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, verordnet das Staatsministerium für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt:
