@@ -1,0 +1,54 @@
+# 35. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-12T17:00:00+02:00
+- Ende: 2025-06-12T18:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14110
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14110
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00571525.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Berichte
+- TOP 4.1: Agri PV-Anlage an der Sudmühlenstraße mdl. Bericht
+- TOP 4.2: Vorstellung Ergebnisse der Stadtklimaanalyse in den Stadtbezirken durch Stabstelle Klima
+- TOP 4.3: Bebauungsplan Nr. 589 - Kenntnisnahme des Entwurfs zur Veröffentlichung - zur Kenntnis genommen
+- TOP 4.4: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - zur Kenntnis genommen
+- TOP 5: Anhörungen
+- TOP 5.1: Aufhebung von Beschlüssen zur Aufstellung von Bauleitplänen. Einstellung der Bauleitplanverfahren. - einstimmig beschlossen
+- TOP 5.2: Neubau dauerhafter Flüchtlingseinrichtungen mit bis zu 50 Plätzen im Baugebiet Albachten-Ost und in Handorf im Baugebiet an der Hobbeltstraße - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 5.3: Schulentwicklungsplan 2025 - einstimmig beschlossen
+- TOP 5.4: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - einstimmig beschlossen
+- TOP 5.5: Kinderrechte & Spielplätze – Maßnahmenvorschläge zum Antrag "QR-Codes auf Spielplätzen - Stärken wir den Kinderschutz in sozialen Netzwerken!" - einstimmig beschlossen
+- TOP 5.6: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 5.7: Budget zum Ausbau und Erhalt der Sportstätteninfrastruktur (ohne Turn- und Sporthallen sowie Großinvestitionen, z.B. Verlagerung von Sportanlagen), Maßnahmen Teil 2 in 2025 - einstimmig beschlossen
+- TOP 5.8: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - einstimmig beschlossen
+- TOP 5.9: Wolbecker Straße - Verfürthweg bis Lohausweg (Beschluss verkehrstechnischer Entwurf) - einstimmig beschlossen
+- TOP 5.10: Umgestaltung des Hessenwegs - mehrheitlich beschlossen
+- TOP 5.11: Werse Sudmühle - Ökologische Verbesserung der Werse durch den Bau eines - einstimmig geändert beschlossen
+- TOP 5.12: Hobbeltstraße - Dorbaumstraße bis Kirschgarten - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Ost für das 1. Halbjahr 2025 - einstimmig beschlossen
+- TOP 7: Fristgerecht eingegangene Anträge
+- TOP 7.1: Veränderungen in Handorf nach Fertigstellung der B481n - einstimmig beschlossen
+- TOP 7.2: Geschwindigkeitsbegrenzung von maximal 30 km/h auf der Dorbaumstraße von Hausnummer 1 bis 52/54 - einstimmig beschlossen
+- TOP 8: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 8.1: Radverkehr ohne Absteigen auf den neuen Brücken am Laerer Landweg und am Pleistermühlenweg - eingebracht
+- TOP 8.2: Öffnung der Wegeverbindung an der Pleisterschule - eingebracht
+- TOP 8.3: Einweihungsfeier Pleisterschule - eingebracht
+- TOP 8.4: Anfrage zum Ausbau des Hessenweges - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 9.1: Weitere große orangefarbene Mülltonnen an den Grünflächen entlang des Kanals, Wilhelmshavenufer, aufstellen - zur Kenntnis genommen
+- TOP 9.2: Behinderten Toilette in der Mehrzweckhalle Gelmer - zur Kenntnis genommen
+- TOP 9.3: Baustellenüberwachung an der zukünftigen ZUE - zur Kenntnis genommen
+- TOP 9.4: Baufortschritt bezüglich der Erneuerung der Geh- und Radwegebrücke in der Haskenau - zur Kenntnis genommen
+- TOP 9.5: Trinkbrunnen für den Bezirk Münster Ost - zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 11: Verschiedenes
