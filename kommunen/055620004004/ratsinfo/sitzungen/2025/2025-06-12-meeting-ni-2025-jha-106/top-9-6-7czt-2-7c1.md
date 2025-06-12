@@ -1,0 +1,7 @@
+# TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2025-06-12)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2025-JHA-106%7Czt_2%7C1
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
