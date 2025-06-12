@@ -1,0 +1,28 @@
+# Gemeinderat Stavern (59. Sitzung)
+
+- Körperschaft: Samtgemeinde Sögel
+- Beginn: 2025-06-12T19:30:00+02:00
+- Ende: 2025-06-12T20:45:00+02:00
+- Ort: Gemeindehaus Stavern, Sögeler Str. 2 A, 49777 Stavern, Sitzungssaal
+- Status: 
+- Gremium: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-37
+- Ratsinformationssystem: https://soegel.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdvMh-jWcupQ5pCzaor_AUU
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5487
+- Quelle: http://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat Stavern) https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcMD_iCRC3eBbxK8xpE9CreIOop_vRFxmgeBEjkOpHUQ/Oeffentliche_Niederschrift_Gemeinderat_Stavern_12.06.2025.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1.: Eröffnung, Feststellung der ordnungsgemäßen Ladung, Feststellung der Beschlussfähigkeit
+- TOP 2.: Feststellung der Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift über die Sitzung des Gemeinderates Stavern am 31.03.2025
+- TOP 4.: Bericht der Verwaltung, Anfragen an die Verwaltung
+- TOP 5.: Bürgeranfragen
+- TOP 6.: Sachstand Breitbandausbau
+- TOP 7.: Genehmigung einer Spende
+- TOP 8.: Ausbau der Straße im Baugebiet „Am alten Sportplatz“
+- TOP 9.: Ferienpassaktion 2025
+- TOP 10.: Wünsche und Anregungen
+- TOP 11.: Bürgeranfragen
+- TOP 12.: Schließung der öffentlichen Sitzung
