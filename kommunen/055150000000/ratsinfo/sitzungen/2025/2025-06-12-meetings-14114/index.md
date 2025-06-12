@@ -1,0 +1,55 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-12T17:00:00+02:00
+- Ende: 2025-06-12T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/88
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14114
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14114
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00572672.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Stellungnahmen der Verwaltung zu Anregungen, Anträgen und Anfragen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Zukunft der Stadtteilbücherei St. Clemens
+- TOP 4.2: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - einstimmig geändert beschlossen
+- TOP 4.3: Bebauungsplan Hiltrup Nr. 13 - Entwurf zur Aufhebung - zur Kenntnis genommen
+- TOP 4.4: Integriertes Stadtteilentwicklungskonzept Münster-Berg Fidel - zur Kenntnis genommen
+- TOP 4.5: Kreuzung Albersloher Weg/Osttor/Hiltruper Str. Erste Umbauphase: Ertüchtigung zur Erreichung einer ausreichenden Verkehrsqualität - zur Kenntnis genommen
+- TOP 4.6: Übersicht über die aktuellen Maßnahmen auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 5: Anhörungen
+- TOP 5.1: Albersloher Weg - Konzeptionelle Neuausrichtung des Albersloher Weges zwischen dem Angelsachsenweg und dem Knotenpunkt Osttor / Hiltruper Straße - einstimmig beschlossen
+- TOP 5.2: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - einstimmig geändert beschlossen
+- TOP 5.3: Robert-Bosch-Straße - Siemensstraße bis Bahnübergang - einstimmig beschlossen
+- TOP 5.4: Hammer Straße – städtisches Stadion: Anpassung öffentliche Verkehrsanlagen - einstimmig beschlossen
+- TOP 5.5: 88. Änderung FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 5.6: Bebauungsplan Nr. 627 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 5.7: Baubeschluss - Neubau der Feuer- und Rettungswache 3 in Münster-Hiltrup - einstimmig beschlossen
+- TOP 5.8: Äußere Erschließung des Baugebiets Am Dornbusch (Bebauungsplan 578) - vertagt
+- TOP 5.9: 134. FNP-Änderung - Beschluss zur Änderung - VBP Nr. 650 - Beschluss zur Aufstellung [Klinkermanufaktur Janinhoff] - einstimmig beschlossen
+- TOP 5.10: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 5.11: Planungen Generalsanierung Sporthalle Berg Fidel - zurückgezogen
+- TOP 5.12: Schulentwicklungsplan 2025 - einstimmig geändert beschlossen
+- TOP 5.13: Erweiterung des Schulzentrums Hiltrup für die Umstellung auf G9 auf Basis des Grundsatzbeschlusses V/0427/2020/1 - einstimmig geändert beschlossen
+- TOP 5.14: Entwicklungen im Modellprojekt "intensivpädagogische Gruppen" - einstimmig beschlossen
+- TOP 5.15: Trägervergabe Kita An der Alten Kirche in Hiltrup als Ersatzstandort - einstimmig beschlossen
+- TOP 5.16: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - einstimmig geändert beschlossen
+- TOP 5.17: Kinderrechte & Spielplätze – Maßnahmenvorschläge zum Antrag "QR-Codes auf Spielplätzen - Stärken wir den Kinderschutz in sozialen Netzwerken!" - einstimmig beschlossen
+- TOP 5.18: Vorschlag für ein Handlungsprogramm „Gesunde Stadt Münster“ - Empfehlungen aus dem Projekt „Gesundheit in der nachhaltigen Stadt“ - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Entscheidung zur Heideggerstraße - mehrheitlich beschlossen
+- TOP 6.2: Zuschüsse für Projekte und laufende Aufwendungen der Vereine, Vereinigungen und Verbände im Stadtbezirk Hiltrup; Stadtteilmarketing; Ortsbildgestaltung; Kulturarbeit - einstimmig beschlossen
+- TOP 7: Anregungen, Anträge und Anfragen
+- TOP 7.1: Gemeinsamer Antrag der BV-Hiltrup, auf Grundlage des § 37 Abs. 1 Buchstabe d der Gemeindeordnung NRW in Verbindung mit § 21 Abs. 1 Ziffer 7 der Hauptsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 7.2: Instandsetzung der Rad- und Fußwege entlang der Hammer Straße zwischen Umgehungsstraße und Abzweig Hohe Geest - einstimmig beschlossen
+- TOP 7.3: Errichtung einer Tisch-/Bank-Kombination in Berg Fidel - einstimmig beschlossen
+- TOP 7.4: Wiederherstellung des Rad- und Fußweges durch die Hohe Ward und der Fahrradroute - einstimmig beschlossen
+- TOP 7.5: Vollsignalisierung der Kreuzung Amelsbürener Straße / Caldeloer Weg / - einstimmig beschlossen
+- TOP 8: Verschiedenes
