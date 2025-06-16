@@ -1,0 +1,23 @@
+# Vorstellung des Strategiekonzept Einzelhandel und Gastronomie in der Kernstadt in Verbindung mit dem historischen Bahnhof
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-158/2024 5. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-06-16
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZWiRwng6QqsmK3TAA2ikBgc
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3540
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Vorstellung des Strategiekonzept Einzelhandel und Gastronomie in der Kernstadt in Verbindung mit dem historischen Bahnhof ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY32CGNX9V542c6SrU0ViRN9k3sZfVmV_BpW78aKXzz_/Beschlussvorlage_VL-158-2024_5._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Zusammenfassung Empfehlungen Strategiekonzept_END) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZedtuQp8CPdNEpS_jSuQ0ntljfB0tnDgpE_r3zdicI7V/Zusammenfassung_Empfehlungen_Strategiekonzept_END.pdf
+- Anlage: Beschlussvorlage (250211 - Protokoll 27.01.25 Workshop-final) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdxQ5ms0ZtnZfo3fr3f0MlriEDHP_1Dwi7qj44DPMhwM/250211_-_Protokoll_27.01.25_Workshop-final.pdf
+- Anlage: Beschlussvorlage (Verkehrskonzept Homberg_Maßnahmenblätter) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUkT9zJchLGdzCIrVA5SuF4w_pwd8Ee7yax_S97IyjQ5/Verkehrskonzept_Homberg_Massnahmenblaetter.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung-der-potenziellen-Maßnahmen) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUAy5A-6KnL85K9FgpcNQL5EOQBfeHl1XhDZKmEb9U4Y/Zusammenstellung-der-potenziellen-Massnahmen.pdf
+- Anlage: Beschlussvorlage (250613 Praesentation_Mobilitaet_2025-01-16) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeFwM73aTuLAfTXkgQzq-IT9i9Ozk5zaeif-wpZMksRC/250613_Praesentation_Mobilitaet_2025-01-16.pdf
+- Anlage: Beschlussvorlage (250613 Protokoll_Mobilitaet_2025-01-16-K) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdvp8q7tJUJ8Hk6Z0ubXoMn7xN7QYMRAkT-0b9_uZygo/250613_Protokoll_Mobilitaet_2025-01-16-K.pdf
+- Anlage: Beschlussvorlage (250613 Praesentation_Mobilitaet_2025-04-29) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaPIjPHr0R2MxGsUMYHogbsa7V7nqSL5lw8ExgbQcUVB/250613_Praesentation_Mobilitaet_2025-04-29.pdf
+- Anlage: Beschlussvorlage (250613 Protokoll_Mobilitaet_2025-04-29) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf4wgGlojDwU8pY1u_YjwDAVwy7CSWS6Sri6sZiebLXa/250613_Protokoll_Mobilitaet_2025-04-29.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1246 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1291 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1330 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1347 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-13
