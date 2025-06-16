@@ -1,0 +1,85 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780441
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780441
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 19.05.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Parksituation in der Hugo-Troendle-Straße
+- TOP 2.2.: Müllbelastung in der Welzenbachstraße
+- TOP 2.3.: Mögliche Maßnahmen gegen Raser in der Tempo-30-Zone auf der Landshuter Allee auf Höhe der Borstei
+- TOP 2.4.: Antrag auf Errichtung von Fahrrad-Abstellplätzen vor der Einmündung Baldurstraße in die Dachauer Straße
+- TOP 2.5.: Antrag auf Einrichtung eines kleinen Fußballfeldes auf einem Spielplatz in Moosach (Allacher Straße / Untermenzinger Straße)
+- TOP 2.6.: Ampelanlage von der Nederlinger Straße stadtauswärts über den Wintrichring
+- TOP 2.7.: Antrag auf Errichtung von vier Ampeln aufgrund der Missachtung der Stopp-Schilder im Bereich Wintrichring/Dachauer Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Bestellung einer städt. Leistung: Aufstellen eines Dialog-Displays am Standort Feldmochinger Str. 55-59
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Bauberger Straße 11
+- TOP 3.3.1.2.: Breslauer Straße 9
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Sicher im Verkehr unterwegs – Sicherere Gestaltung des Kreuzungsbereichs Baldurstraße zu Dachauer Straße für Radfahrende und zu Fuß gehende Personen
+- TOP 4.1.2.: Schaffung von Lebensraum für Spatzen in Moosach rund um Pelkovenschlössl und Hacklhaus
+- TOP 4.1.3.: Erneuerung der Tafel zu Grünflächensatzung am Eingang der Grünfläche, sowie Aufstellung einer Informationstafel am Hartmannshofer Bächl
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Friedenspädagogik e.V. Projektlinie zum Thema Antidiskriminierung an der Berufsschule Informationstechnik vom 24.10. -05.12.2025 5.530,00€; Az. 0262.0-10-0426
+- TOP 5.2.: (E) Stadtbezirksbudget Förderverein Grundschule an der Gerastraße, München e.V. Double Drums vom 02. -03.07.2025 490,00€: Az. 0262.0-10-0424
+- TOP 5.3.: (E) Stadtbezirksbudget Init. "Percussion im Klassenzimmer" Percussion im Klassenzimmer in der Grundschule Dieselstraße vom 09.10. -18.12.2025 990,00€: Az. 0262.0-10-0423
+- TOP 5.4.: (E) Stadtbezirksbudget Init. "Dolmetscher" Übernahme Vorstandsposten durch gehörlose Mutter / Finanzierung DGS-Dolmetscher vom 26.05. -25.05.2026 1.500,00€; Az. 0262.0-10-0427
+- TOP 5.5.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025 1.600,00€; Az. 0262.0-10-0429
+- TOP 5.6.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über Standortgenehmigung für Parkscheinautomaten; Homerstraße, Postillonstraße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Nachtrag zum Anpassungsprogramm 2026 - Änderung an der MVG-Buslinie N71
+- TOP 6.2.: Eröffnung der Stadtteilkulturtage im Kulturhaus Pelkovenschlössl
+- TOP 6.3.: Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Antrag mehrerer Anwohner wegen Ungleichbehandlung im Parklizenzgebiet Hanauer Straße
+- TOP 7.2.: Antrag zur Realisierung von Trinkbrunnen bei städtischen sowie privaten Großbauprojekten
+- TOP 7.3.: Antrag auf Versetzung der Tempo-30-Geschwindigkeitsanzeige auf Höhe der Borstei
+- TOP 7.4.: Anfrage zum Gestüt Ludwigsfeld
+- TOP 7.5.: Unterstützung der BAs beim Antrag zur Erhaltung von Postfilialen
+- TOP 7.6.: Aufwertung des Stadtteilzentrums Moosacher Bahnhof und Erhöhung der Sicherheit für Fußgänger*innen und Radfahrer*innen durch Ausweisung des Straßenzuges Bunzlauer Platz, Bunzlauer Straße und Breslauer Straße als "Verkehrsberuhigter Geschäftsbereich" gemäß StVO § 45 Abs. 1d.
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: Änderung Straßenbauarbeiten in drei Bauphasen, Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Aufhebung eines personenbezogenen Sonderparkplatzes in der Ernst-Platz-Straße
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes: Bauberger Straße 16c
+- TOP 8.4.: Realisierung eines Mobilfunkstandortes in der Riesstraße
+- TOP 8.5.: Betonagen an der Breslauer Straße in drei Nächten zwischen dem 26.05. und 30.06.2025; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 8.6.: Zweite Programmanpassung von "Wohnen in München VII" A) Reaktion auf den Ausfall der staatlichen Mittelzuweisung für die Einkommensorientierte Förderung durch die Landeshauptstadt München: Einführung einer kommunalen Einkommensorientierten Förderung (EOF) B) und C) Stadtratsanträge
+- TOP 8.7.: (U) Demografiebericht München- Teil 1 Analyse 2024 und Bevölkerungsprognose 2025 bis 2045 für die Landeshauptstadt
+- TOP 8.8.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2025 bis 2045 für die Sadtbezirke
+- TOP 8.9.: (U) Kein Ausverkauf des Münchner Stadtbildes
+- TOP 8.10.: 49. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2025
+- TOP 8.11.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfül-lung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 8.12.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2a StVO: Reines Bewohnerparken in der Pickelstraße
+- TOP 8.13.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2a StVO: Reines Bewohnerparken in der Voitstraße
+- TOP 8.14.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: Arbeiten im Straßenraum; Georg-Brauchle-Ring Fahrtrichtung Westen zwischen Petuelring und Riesstraße sowie Abfahrrampen Richtung Landshuter Allee
+- TOP 8.15.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: Arbeiten im Straßenraum; Dachauer Straße, Kreuzung Baubergerstraße – Pelkovenstraße (Asphaltarbeiten im Gleisbereich, Nachtarbeit) -Terminverschiebung-
+- TOP 8.16.: Vorkaufsrecht in Erhaltungssatzungsgebieten -nicht öffentlich-
+- TOP 8.17.: Vollzug der Erhaltungssatzung "Moosach"; Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen -nicht öffentlich-
+- TOP 3.3.1.3.: Donaustaufer Straße 16
+- TOP 3.2.2.: Mögliche Zusammenarbeit mit dem MCube-Forschungsprojekt MOSAIQ im Sanierungsgebiet Moosach
+- TOP 6.4.: Einbeziehung der BAs bei Umsetzung von Maßnahmen aus Forenbeiträgen
+- TOP 6.5.: Entwurf der Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht 2025; Konsolidierung 2028ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028ff in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 – 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 – 2028
+- TOP 3.2.3.: Ampelschaltung Dachauer Str. und Beschilderung für Agnes-Pockels-Bogen
+- TOP 3.3.1.4.: Untermenzinger Straße 71
+- TOP 3.3.1.5.: Gerastraße 5
+- TOP 6.6.: Tag der offenen Tür der Freiwilligen Feuerwehr Moosach am 05.07.2025 von 11.00-16.00 Uhr
