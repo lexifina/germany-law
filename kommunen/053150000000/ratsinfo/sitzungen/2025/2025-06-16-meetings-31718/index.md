@@ -1,0 +1,79 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-16T15:00:00+02:00
+- Ende: 2025-06-16T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31718
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31718
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Aktuelle Stunde: Sichere Schulwege für alle Kinder in Köln – spürbare Verbesserungen bis zum Schulstart 2025/26 erreichen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2025 - Kenntnis genommen
+- TOP 1.2: Beschluss des Gleichstellungsausschusses betreffend "Identitätsfindung in der Grundschule – Ein Beitrag zur Gleichstellung in der Zukunft" - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 07.05.2025 betreffend "Umbau des OGS-Gebäudes an der Montessorischule in der Stegerwaldsiedlung" - vertagt
+- TOP 3.2: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 02.06.2025 betreffend "Pilotprojekt zum Erwerb des Rettungsschwimmpasses" - vertagt
+- TOP 3.3: Antrag der Fraktionen SPD und Die Linke vom 02.06.2025 betreffend "Errichtung einer Gesamtschule am Standort Helene-Weber-Platz im Stadtteil Neubrück und gleichzeitige auslaufende Schließung der Kurt-Tucholsky-Hauptschule" - endgültig abgelehnt
+- TOP 3.4: Antrag der Fraktion Klimafreunde & Gut vom 03.06.2025 betreffend "Fassadenbegrünung für Schulen als Klimaanpassungsmaßnahme und Lernort" - vertagt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktionen Bündnis 90 / die Grünen, CDU und Volt vom 03.06.2025 betreffend "Schulsozialarbeit an Kölner Gymnasien" - vertagt
+- TOP 4.2: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 05.06.2025 betreffend "Schulstandort Holzheimer Weg und Ausweichgrundstück für ein neues Grundschulgebäude" - vertagt
+- TOP 4.3: Anfrage der Fraktion SPD vom 10.06.2025 betreffend "Stand der Umsetzung der Sporthallenerweiterung für das Gymnasium Müngersdorf" - vertagt
+- TOP 4.4: Anfrage der Fraktion SPD vom 10.06.2025 betreffend "Schulsozialarbeit am Leonardo-da-Vinci Gymnasium" - vertagt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion FDP vom 30.04.2025 betreffend "Sachstand Wiederzulassung freier Nutzung von Schulhöfen" - vertagt
+- TOP 5.2: Anfrage der Fraktion Die Linke vom 05.05.2025 betreffend "Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses für Schule und Weiterbildung (AN/0561/2025) betreffend der Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.3: Anfrage der Fraktion CDU vom 07.05.2025 betreffend "Islamischer Religionsunterricht an Kölner Schulen" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion (AN/0591/2025) betreffend "Islamischer Religionsunterricht an Kölner Schulen" - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen u. CDU vom 07.05.2025 betreffend "Verbesserung der IT-Betreuung an Kölner Schulen" - vertagt
+- TOP 6: Empfehlungen
+- TOP 6.1: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstraße 2 in 50765 Köln - ungeändert empfohlen
+- TOP 6.2: Umwandlung der Katholischen Grundschule Maternus-Schule, Bülowstraße 90, 50733 Köln in eine Gemeinschaftsgrundschule - ungeändert empfohlen
+- TOP 6.3: Bauliche Errichtung eines zweiten Rettungsweges und energetische Generalinstandsetzung der Grundschule im Süden, Godorfer Str. 29 - Planungsbeschluss - ungeändert empfohlen
+- TOP 6.4: Generalinstandsetzung der OGTS-Gebäude (Trakt C & D) sowie Teilsanierung der Trakte A, B und E der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen – Bedarfsfeststellungs- und Planungsbeschluss - ungeändert empfohlen
+- TOP 6.5: Temporäre Kapazitätseinschränkung am Gymnasium Neue Sandkaul im Schuljahr 2026/27 - ungeändert empfohlen
+- TOP 6.6: Neubau einer 2-zügigen Clustergrundschule mit Zweifeldsporthalle, Hausmeisterwohnung und Außenanlagen in der Friedensstraße durch die Kölner Schulbaugesellschaft mbH - Planungs- und Baubeschluss - vertagt
+- TOP 6.7: 13. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebiets (NSG) N 24 „Isborns Heide und Hommelsheimer Bruch“ hier: Beschluss über Bedenken und Anregungen sowie Satzungsbeschluss - vertagt
+- TOP 6.8: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - vertagt
+- TOP 6.9: Erweiterung des Bildungsgangs 'Einjährige Berufsfachschule im Fachbereich Gestaltung' am Richard-Riemerschmid-Berufskolleg zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 6.10: Neubau eines Erweiterungsbaus in Modulbauweise, einer Einfachturnhalle, eines Erweiterungsbaus für die Mensa und Umbau von Fachräumen am Schulzentrum Ostheim, Hardtgenbuscher Kirchweg 100, 51107 Köln - vertagt
+- TOP 6.11: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln - vertagt
+- TOP 6.12: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Albert-Schweitzer-Schule und dem Heinrich-Heine-Gymnasium, Hardtgenbuscher Kirchweg 100, 51107 Köln - vertagt
+- TOP 6.13: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln - vertagt
+- TOP 6.14: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln - vertagt
+- TOP 6.15: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln - vertagt
+- TOP 6.16: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln - vertagt
+- TOP 6.17: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - vertagt
+- TOP 6.18: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - vertagt
+- TOP 7: Entscheidungen
+- TOP 7.1: Namensgebung Förderschule Lernen Berliner Straße 36, 51149 Köln Porz - Westhoven - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantwortung der mündlichen Anfragen von Ulrike Müller-Harth (Stadtarbeitsgemeinschaft Behindertenpolitik) in der Sitzung des Ausschusses Schule und Weiterbildung vom 27.01.2025 zum Themenkomplex - Kenntnis genommen
+- TOP 8.2: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - Kenntnis genommen
+- TOP 8.3: Nachfragen aus dem Ausschuss Schule und Weiterbildung vom 27.01.2025 betreffend Sanierung am Schulstandort Fühlinger Weg 4, Köln-Chorweiler - Kenntnis genommen
+- TOP 8.4: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Mitteilung über städtebauliche Studie mit Vorzugsvariante für städtebauliche Bildungslandschaft - Kenntnis genommen
+- TOP 8.6: Beantwortung der Anfrage AN/0369/2025 der SPD-Fraktion bezüglich geschlossener Schulschwimmbäder - Kenntnis genommen
+- TOP 8.7: VHS ausgezeichnet: Nationaler Preis - Bildung für nachhaltige Entwicklung - Kenntnis genommen
+- TOP 8.8: Handlungsempfehlungen des Expert*innengremiums (Post)koloniales Erbe - Kenntnis genommen
+- TOP 8.9: Sachstände der Arbeitsgruppen des Kommunalen Integrationsmanagements (KIM) zu aktuellen rechtskreisübergreifenden Themen und Prozessen - Kenntnis genommen
+- TOP 8.10: Informationen zur Beschlussvorlage 0123/2025 "Konzept Misch MIT! - So geht Kinder- und Jugendbeteiligung in Köln!" - Kenntnis genommen
+- TOP 8.11: Beantwortung einer Nachfrage von RM Kircher aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Vergabe zu den Interimsbauten für die Europaschule - Kenntnis genommen
+- TOP 8.12: Sachstand zum Einsatz von Schwimmcontainern in Köln - Kenntnis genommen
+- TOP 8.13: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 8.14: Aktueller Sachstand zur Umsetzung des Startchancen-Programms in Köln - Kenntnis genommen
+- TOP 8.15: Offene Ganztagsschule im Primarbereich - Aktuelle Informationen im Hinblick auf die Realisierung des Anspruchs auf ganztägige Betreuung - Kenntnis genommen
+- TOP 8.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.18: Beantwortung einer mündlichen Anfrage von Andeas Schmitz (Stadtschulpflegschaft) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 17.03.2025 - Kenntnis genommen
+- TOP 8.19: Baubeschluss zur Dachsanierung inkl. Photovoltaikanlage und Begrünung sowie Planungsbeschluss zur Sanierung von Fassaden und Fenstern des Heinrich-Mann-Gymnasiums (exkl. 3-Feld-Sporthalle) in Köln-Chorweiler, Fühlinger Weg 4 - Kenntnis genommen
+- TOP 8.20: Umstellung auf G9 an den Kölner Gymnasien - Maßnahmenübersicht - vertagt
+- TOP 9: Mündliche Anfragen
