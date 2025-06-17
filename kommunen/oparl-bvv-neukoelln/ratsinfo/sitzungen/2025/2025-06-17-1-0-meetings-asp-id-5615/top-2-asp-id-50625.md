@@ -1,0 +1,7 @@
+# TOP 2: Protokollabstimmung der 30. Sitzung
+
+- Sitzung: 31. öffentliche Sitzung des Gesundheitsausschusses (2025-06-17)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=50625
+- Ergebnis: erledigt
