@@ -1,0 +1,52 @@
+# Jugendhilfeausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-06-17T18:30:00+02:00
+- Ende: 2025-06-17T19:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/12
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3690
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3690
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00164372.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00164372.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00164372.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Umsetzungsantrag JHA durch die Caritas Sozialdienste - Kenntnisnahme
+- TOP 3: Anerkennung nach § 75 SGB VIII: Bürgerverein Frimmersdorf 1913 e.V. - einstimmig beschlossen
+- TOP 4: Sachstand Frühe Hilfen - Kenntnisnahme
+- TOP 5: Lotsendienst in Arztpraxen - Kenntnisnahme
+- TOP 6: Sachstand Spielplatzbedarfsplanung - Kenntnisnahme
+- TOP 7: Sachstand Freizeitflächenplanung - Kenntnisnahme
+- TOP 8: Schwerpunktmaßnahmen Kinder- und Jugendförderung 2026 - einstimmig beschlossen
+- TOP 9: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für den Evangelischen Verein für Jugend- und Familienhilfe e.V.Tageseinrichtung für Kinder, Kerbelweg 38, Grevenbroich Kapellen - einstimmig beschlossen
+- TOP 10: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für den Evangelischen Verein für Jugend- und Familienhilfe e.V.Tageseinrichtung für Kinder, Glückskinder - einstimmig beschlossen
+- TOP 11: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für die Katholische Kirchengemeinde St. Clemens, Kurze Straße - einstimmig beschlossen
+- TOP 12: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für die Lebenshilfe Rhein-Kreis Neuss gGmbH - einstimmig beschlossen
+- TOP 13: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für PariSozial und Deutschorden - einstimmig beschlossen
+- TOP 14: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für FRÖBEL Bildung und Erziehung gGmbH, Geschäftsstelle NRW - einstimmig beschlossen
+- TOP 15: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für die DRK Soziale Einrichtungen Grevenbroich gGmbH für die Vorläufergruppe "Heldenkids" - einstimmig beschlossen
+- TOP 16: Übernahme von Trägeranteilen zum Betrieb von Kindertageseinrichtungen; hier: Freiwilliger Zuschuss für Kita|Concept Trägerschaften gGmbH - einstimmig beschlossen
+- TOP 17: Ausweitung der Förderung von Kindern mit Teilhabebedarf in allen städtischen Kindertageseinrichtungen. - Kenntnisnahme
+- TOP 18: Zuschüsse für plusKITA-Einrichtungen - einstimmig beschlossen
+- TOP 19: Absichtserklärung 4-gruppige Kindertageseinrichtung N47 - Lohweg - einstimmig beschlossen
+- TOP 20: Fach- und Finanzcontrollingbericht für das Jahr 2024 - Kenntnisnahme
+- TOP 21: Sachstand Organisationsberatung im Jugendamt - Kenntnisnahme
+- TOP 22: Änderung der Satzung der Stadt Grevenbroich über die Förderung von Kindern in der Kindertagespflege - einstimmig beschlossen
+- TOP 23: Schriftliche Anträge und Anfragen
+- TOP 23.1: Wieder Zähneputzen in städtischen Kindertageseinrichtungen ermöglichen (CDU Antrag 152/2025) - Kenntnisnahme
+- TOP 23.2: Dauerhafte Etablierung Queerer Angebote für Jugendliche (SPD Antrag 17/2025) - Kenntnisnahme
+- TOP 23.3: Einführung eines digitalen "Ferienpasses" zur besseren Zugänglichkeit von Ferienangeboten für Kinder und Eltern (CDU Antrag 27/2025) - Kenntnisnahme
+- TOP 23.4: Situation der Kindertagesstätten in Kapellen (CDU 26/2025) - Kenntnisnahme
+- TOP 23.5: Maßnahmen gegen den Personalmangel in den städtischen Kindertagesstätten (CDU 25/2025) - Kenntnisnahme
+- TOP 23.6: Freiwillige Aufwandsentschädigung bei Betreuungsausfällen in Kindertageseinrichtungen für das KiTa-Jahr 2024/2025 - FDP Anfrage 06/2025 - Kenntnisnahme
+- TOP 24: Anträge
+- TOP 24.1: Antrag auf Einhaltung von § 24 KiBiz – Laufende Geldleistung (Antrag IG KTP 01/2025) - einstimmig beschlossen
+- TOP 24.2: Antrag auf vollständige Erstattung der Beiträge zur Unfallversicherung (BGW) für Kindertagespflegepersonen unter Berücksichtigung der Angemessenheit gemäß § 23 SGB VIII - einstimmig beschlossen
+- TOP 24.3: Antrag auf Einhaltung von § 24 KiBiz – Vertretungsmodell / Kooperationsmodell (IG KTP 03/2025) - einstimmig beschlossen
+- TOP 24.4: Betreuungsangebote in Grevenbroich – Einfach und übersichtlich! (Antrag IG KTP 04/2025) - einstimmig beschlossen
+- TOP 25: Mitteilungen der Verwaltung
