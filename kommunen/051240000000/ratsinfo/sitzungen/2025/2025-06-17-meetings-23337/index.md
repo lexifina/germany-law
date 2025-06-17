@@ -1,0 +1,64 @@
+# Sitzung der Bezirksvertretung Barmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-06-17T18:03:00+02:00
+- Ende: 2025-06-17T19:28:00+02:00
+- Ort: Rathaus Barmen, 1.Sitzungszimmer, Johannes Rau Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23337
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23337
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00350160.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00351013.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 4: Bürgerantrag nach § 24 GO NRW - Einrichtung Anliegerstraße Sudhoffstraße - vertagen
+- TOP 5: Bürgerantrag nach § 24 GO NRW - Antrag auf Tempo 30 im Fischertal - ungeändert beschlossen
+- TOP 6: Verlegung Standort Depotcontainer - Heinz-Fangmann-Straße/Schliemannweg - ungeändert beschlossen
+- TOP 7: Veranstaltungen im Rahmen der Kunsthalle Barmen vom 09.05.2025 bis 14.09.2025 und 23.05.2025 bis 31.08.2025 - ungeändert beschlossen
+- TOP 8: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2025 - ungeändert beschlossen
+- TOP 9: Sanierung Kinderspielplatz Loher Straße - ungeändert beschlossen
+- TOP 10: Sanierung Kinderspielplatz Werther Hof - ungeändert beschlossen
+- TOP 11: Verbesserung der Barrierefreiheit in der Einmündung Wegnerstraße/Kleine Flurstraße - ungeändert beschlossen
+- TOP 12: Verbesserung der Barrierefreiheit in der Einmündung Wegnerstraße/Beckmannshof/Kleiner Werth - ungeändert beschlossen
+- TOP 13: Verbesserung der Barrierefreiheit in der Zwinglistraße - ungeändert beschlossen
+- TOP 14: Notwendige Baumfällungen im Zuge der Gesamtsanierung der Realschule Leimbach - geändert beschlossen
+- TOP 15: Einbahnstraßenöffnung für den gegenläufigen Radverkehr - Barmen Loh - vertagen
+- TOP 16: Anträge
+- TOP 16.1: Verwendung der freien Mittel - gemeinsamer Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Linkes Bündnis Wuppertal - ungeändert beschlossen
+- TOP 16.2: Verwendung der Mittel nach dem Gemeindefinanzierungsgesetz (GfG) - gemeinsamer Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Linkes Bündnis Wuppertal - geändert beschlossen
+- TOP 16.3: E-Scooter / Fahrräder - Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 16.4: E-Scooter Abstellflächen - Antrag Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 16.5: Verbesserung der Verkehrsabläufe und Erhaltung der Sportplätze am Nordpark - gemeinsamer Antrag der Fraktionen CDU, SPD - geändert beschlossen
+- TOP 16.6: Parken Hohenstein - Barmen - Antrag Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 17: Anfragen
+- TOP 17.1: Große Anfrage zum Stand der Umsetzung der in den Jahren 2021 bis 2024 gefassten BV-Beschlüsse - Bündnis 90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 17.1.1: Große Anfrage zum Stand der Umsetzung der in den Jahren 2021 bis 2024 gefassten BV-Beschlüsse - Entgegennahme ohne Beschluss
+- TOP 18: Sanierung Stützmauer Clausenstraße - ungeändert beschlossen
+- TOP 19: Brücke Fischertal - Ersatz Stahl-Überbau durch Provisiorium (Rohrbrücke WSW) - ungeändert beschlossen
+- TOP 20: Bebauungsplan Nr. 1241/2A - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 21: Bebauungsplan 1094 - Christbusch (Haus Waldfrieden) - ungeändert beschlossen
+- TOP 22: Bebauungsplan 55 - Am Clef - - vertagen
+- TOP 23: Bebauungsplan 860 - Alter Markt / Höhne / Zwinglistrasse - - ungeändert beschlossen
+- TOP 24: Durchführungsbeschluss: Neubau der Offenen Ganztagsgrundschule Eichenstr. 59 mit Einfachturnhalle - ungeändert beschlossen
+- TOP 25: Temporäres Ersatzquartier für die Jahrgänge 5 und 6 der Realschule Leimbach auf einer Teilfläche des Carnaper Platzes - ungeändert beschlossen
+- TOP 26: Umbau der Hatzfeldtrasse - geändert beschlossen
+- TOP 27: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - ungeändert beschlossen
+- TOP 28: Überarbeitung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 29: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027 - ungeändert beschlossen
+- TOP 30: Verordnung über das Offenhalten von Verkaufsstellen am 12.10.2025 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 31: Umsetzung Talachsenradweg: Abschnitt Wartburgstraße/Farbmühle - vertagen
+- TOP 32: Informationen zur Sanierung und Instandhaltung der Gräber verdienter Bürgerinnen und Bürger - Entgegennahme ohne Beschluss
+- TOP 33: Aufstellen von Hinweisschildern an Gräbern verdienter Bürgerinnen und Bürger der Stadt - Entgegennahme ohne Beschluss
+- TOP 34: Einzelne Änderungen im ÖPNV gemäß des Nahverkehrsplans - Entgegennahme ohne Beschluss
+- TOP 35: Sonntagsöffnung ab 1. August 2025 an den Bibliotheksstandorten BIB@BOB, Barmen und Vohwinkel - Entgegennahme ohne Beschluss
+- TOP 36: Sachstand zum Konzept öffentliche Toiletten - Entgegennahme ohne Beschluss
+- TOP 37: Anhandgabe eines städtischen Grundstücks in Wuppertal Barmen - Entgegennahme ohne Beschluss
+- TOP 38: Neuregelungen der StVO und VwV zu Geschwindigkeitsbeschränkungen (Tempo 30) - Entgegennahme ohne Beschluss
+- TOP 39: 5. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 40: Veranstaltung "Kultur verbindet" 27.06.-29.06.2025 auf dem Johannes-Rau-Platz - ungeändert beschlossen
