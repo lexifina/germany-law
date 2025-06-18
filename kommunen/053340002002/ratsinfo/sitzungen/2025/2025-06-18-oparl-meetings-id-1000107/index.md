@@ -1,0 +1,67 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-06-18T17:00:00+02:00
+- Ende: 2025-06-18T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000107
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000107
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1418667&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung von Niederschriften: - ungeändert beschlossen
+- TOP 3.1: Genehmigung der Niederschrift der Sitzung vom 09.04.2025 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der Sitzung vom 07.05.2025 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Satzungsänderung des Eigenbetriebs Eurogress Aachen - zurückgezogen
+- TOP 5: Geprüfter Jahresabschluss 2022/2023 von Stadttheater und Musikdirektion Aachen per 31.07.2023 - ungeändert beschlossen
+- TOP 6: Jahresabschluss für den Kulturbetrieb für das Jahr 2024 - ungeändert beschlossen
+- TOP 7: Bildungskooperationen der Musikschule – Ergänzung der Schul- und Schulgeldordnung der Musikschule - ungeändert beschlossen
+- TOP 8: Abgabe eines „stehenden Angebots“ im Rahmen der Etablierung der Schiedsgerichtsbarkeit NS-Raubgut - ungeändert beschlossen
+- TOP 9: Entwurf Gesamtabschluss 2021 - ungeändert beschlossen
+- TOP 10: Bau einer neuen Dauerkleingartenanlage an der Sonnenscheinstraße in Aachen-Eilendorf - geändert beschlossen
+- TOP 11: Ratsantrag der Fraktion DIE Zukunft vom 28.01.2025 (Nr. 460/18) „Einführung einer Verpackungssteuer“ - ungeändert beschlossen
+- TOP 12: Förderrichtlinie Blühflächen in der Agrarlandschaft; Ratsantrag Nr. 092/18 der CDU Fraktion vom 02.03.2021 - ungeändert beschlossen
+- TOP 13: Teilhabe an digitalen Angeboten ermöglichen – Ratsantrag der CDU-Fraktion vom 03.02.2021 Änderung der Förderrichtlinien - ungeändert beschlossen
+- TOP 14: Neufassung der Stellplatzsatzung der Stadt Aachen
+- TOP 14.1: Neufassung der Stellplatzsatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Aufhebung der Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Großkölnstraße / Minoritenstraße - ungeändert beschlossen
+- TOP 16: Aufhebung der Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB für den Bereich „Camp Pirotte“ zwischen Nordstraße, Brander Heide, Vennbahnweg und Eckenerstraße - ungeändert beschlossen
+- TOP 17: Anpassung der Höchstparkdauer in der Tarifzone 1 Ratsantrag der Fraktionen Die Grüne und SPD vom 15.10.2024 - geändert beschlossen
+- TOP 18: Anpassung der öffentlich-rechtlichen Vereinbarung mit der Städteregion Aachen zum öffentlichen Dienstleistungsauftrag (öDA) an die ASEAG bezüglich der Frist für das Befinden über eine Anschlussregelung - ungeändert beschlossen
+- TOP 19: Anfragen:
+- TOP 19.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 19.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 20: Ratsanträge - ungeändert beschlossen
+- TOP 21: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 21.1: Umbesetzung des Wahlausschusses für die Kommunalwahl am 14.09.2025 - ungeändert beschlossen
+- TOP 21.2: Umbesetzungsantrag der Fraktion DIE LINKE vom 04.06.2025
+- TOP 21.3: Umbesetzungsantrag der SPD-Fraktion vom 17.06.2025 zum Wahlausschuss
+- TOP 21.4: Umbesetzungsantrag der SPD-Fraktion vom 17.06.2025 - ungeändert beschlossen
+- TOP 21.5: Umbesetzungsantrag der Fraktion DIE Zukunft vom 17.06.2025 - ungeändert beschlossen
+- TOP 21.6: Umbesetzungsantrag der CDU-Fraktion vom 17.06.2025 - ungeändert beschlossen
+- TOP 21.7: Umbesetzungsantrag der FDP-Fraktion vom 17.06.2025 - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung
+- TOP 23: Einladung ehemaliger jüdischer Mitbürger*innen und ihrer Nachfahren - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
