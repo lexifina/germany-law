@@ -1,0 +1,68 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-18T15:03:00+02:00
+- Ende: 2025-06-18T19:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27988
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27988
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00557704.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00557704.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00557704.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der öffentlichen Niederschrift vom 20.11.2024 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der öffentlichen Niederschrift vom 15.01.2025 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der öffentlichen Niederschrift vom 05.02.2025 - einstimmig beschlossen
+- TOP 4: Vollsperrung A59 - Bericht der Verwaltung und der Autobahn GmbH
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Die Straßenverkehrsordnung gilt auch am Corneliusplatz - mehrheitlich abgelehnt
+- TOP 5.2: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Autofreien Corneliusplatz aufwerten - mehrheitlich abgelehnt
+- TOP 5.3: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/174/2025 - zurückgezogen
+- TOP 5.4: Sachstandsbericht der Fußgängerbeauftragten der Stadt Düsseldorf -Antrag der Ratsfraktion Die LINKE- - mehrheitlich beschlossen
+- TOP 5.5: Sichere Führung von Rad- und Fußverkehr rund um den Kö-Bogen -Antrag der Ratsfraktionen CDU und Bündnis 90/ Die GRÜNEN- - einstimmig beschlossen
+- TOP 5.6: Tempo 30 „An der Piwipp“ -Antrag der SPD-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Bericht zur Einführung von Bodycams in den Außendiensten des Ordnungsamts
+- TOP 7.2: Statusbericht SiBU
+- TOP -: Verwaltungsvorlagen
+- TOP 8: Bebauungsplan-Entwurf Nr. 02/018 - Werdener Straße/Erkrather Straße (ehem. B8-Center) - passieren lassen
+- TOP 9: Bebauungsplan-Entwurf Nr. 02/014 - zwischen Hellweg und Benzstraße - Empfehlung einstimmig beschlossen
+- TOP 10: 3. Änderung des Landesentwicklungsplans (LEP NRW) - passieren lassen
+- TOP 11: Weitere Veranstaltungen auf dem Burgplatz 2025 - mehrheitlich beschlossen
+- TOP 12: Bedarfs-, Umsetzungs- und Finanzierungsbeschluss - Modernisierung der Leitstelle des Ordnungsamtes im Rahmen des Projektes „PrOSiD 2021" - Empfehlung einstimmig beschlossen
+- TOP 13: Neubau der Theodor-Heuss-Brücke - passieren lassen
+- TOP 14: Ausführungs- und Finanzierungsbeschluss zur Neugestaltung der Mühlenstraße -AuF- - Empfehlung mehrheitlich beschlossen
+- TOP 14.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 14: OVA/090/2025 Ausführungs- und Finanzierungsbeschluss zur Neugestaltung der Mühlenstraße - einstimmig beschlossen
+- TOP 15: Prüfbericht zu den Ergänzungsanträgen OVA/031/2025 und RAT/086/2025 zum Ausführungs- und Finanzierungsbeschluss (OVA/130/2024) RadLeitRoute 2, West-Ost, von Hansaallee/Böhlerstraße bis Neusser Tor, Gerresheim – Teil 2: Cantadorstraße bis Dieselstraß - einstimmig beschlossen
+- TOP 16: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen, hier Koblenzer Straße - einstimmig beschlossen
+- TOP 17: Unterrather Straße - Tempo 30 (Kartause-Hain-Schule) -Beschlussvorlage- - einstimmig beschlossen
+- TOP 18: Tempo 30; Fürstenwall (Kita Fürstenwall 186) -Beschlussvorlage- - einstimmig beschlossen
+- TOP 19: Wohngebiet Alte Flughafenstraße - Einrichtung eines Bewohnerparkgebietes (AF) - einstimmig beschlossen
+- TOP 20: Sachstandbericht zur Problematik der Urlaubsparker - zur Kenntnis genommen
+- TOP 21: Aktuelles aus der Personenbeföderung und der neuen Taxentarifordnung - zur Kenntnis genommen
+- TOP 22: Erprobung einer autofreien Gestaltung des Corneliusplatzes - zur Kenntnis genommen
+- TOP 23: Bericht verkehrstechnische Systeme (VinDUS, KoKoSDUS, OEVII) - zur Kenntnis genommen
+- TOP 24: Maßnahmen zur Optimierung des fließenden (MIV-)Verkehrs in Düsseldorf - zur Kenntnis genommen
+- TOP 25: Controlling-Bericht über die Baumaßnahmen im Verkehrsbereich - 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 26: Anfragen
+- TOP 26.1: Sicherheit in der Rheinbahn -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 26.2: Umsetzung der neuen Verwaltungsvorschriften zur Straßenverkehrsordnung -Anfrage der Ratsfraktion Bündnis 90/ Die GRÜNEN- - zur Kenntnis genommen
+- TOP 26.3: Tempo 30 auf dem Mörsenbroicher Weg -Anfrage der Ratsfraktion Bündnis 90/ Die GRÜNEN- - zur Kenntnis genommen
+- TOP 26.4: Radtourismus -Anfrage der Ratsfraktionen CDU und Bündnis 90/ Die GRÜNEN- - zur Kenntnis genommen
+- TOP 26.5: Belastung der Düsseldorfer Rheinbrücken -Anfrage des Ratsherrn Norbert Czerwinski- - zur Kenntnis genommen
+- TOP 26.6: Ausbau von Radwegen an Schulen -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 26.7: Wie plant die Stadt Düsseldorf die Zukunft ihrer Brücken? -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 26.8: Radweg am Steigenberger Parkhotel -Anfrage der Ratsfraktion Die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 26.9: Elektrifizierung der Fähren in Düsseldorf -Anfrage der Ratsfraktion Die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 26.10: Baumschutz in Düsseldorf -Anfrage des Bürgermitglieds Holthoff- - zur Kenntnis genommen
+- TOP 26.11: Wechsellichtsignalanlagen an Straßenquerungen -Anfrage des Bürgermitglieds Holthoff- - zur Kenntnis genommen
