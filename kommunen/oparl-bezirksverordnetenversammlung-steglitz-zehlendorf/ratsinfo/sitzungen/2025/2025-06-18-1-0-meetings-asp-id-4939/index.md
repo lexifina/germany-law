@@ -1,0 +1,67 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-06-18T17:00:00+02:00
+- Ende: 2025-06-18T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4939
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4939
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Nächtliche Autorennen zwischen Breitenbachplatz und Dahlem - beantwortet
+- TOP 3.2: Was kümmert mich meine Antwort von gestern? - beantwortet
+- TOP 3.3: Aktueller Stand der Hitzeaktionsplanungen - beantwortet
+- TOP 3.4: Glasfaser für die Bezirksverwaltung - beantwortet
+- TOP 3.5: Bleibt das Bezirksamt beim Nein zu Großwindanlagen? - beantwortet
+- TOP 3.6: Schwimmen ist ein Grundrecht - beantwortet
+- TOP 3.7: Verkehrsführung im Umfeld der Alsenstraße während der Baustelle Königstraße - beantwortet
+- TOP 3.8: Startet die CDU die Umbenennung der Treitschkestraße ohne Anwohnende? - schriftlich beantwortet
+- TOP 3.9: Lärmbelastung durch die Padel-Anlage auf dem Gelände der ehemaligen Eisbahn – Schutz der Anwohnenden und Kleingärtner*innen - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für die Berlin-Brandenburgische Gesellschaft für Geschichte der Medizin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Parlamentarische Ferien 2025 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Die Spiegelwand als Gedenkort schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: „Säule der Gefangenen“ reinigen und schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Verkehrsschild Parken abordnen - in der BVV abgelehnt
+- TOP 4.8: Eine Gedenktafel als Ausdruck unserer Solidarität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Schulwegsicherheit Am Heckeshorn – Einrichtung eines Zebrastreifens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Kreuzung Sundgauer Straße/Berliner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Verkehrskonzept gegen Schleichverkehr in Nikolassee aufgrund der Sperrung der A115 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Informationsstele zur Tagung der 3. Bekenntnissynode der Evangelischen Kirche der Altpreußischen Union im September 1935 im Haus Albrechtstraße 81 A - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Gewalt kommt uns nicht in die Tüte! – Aktionstag am 25. November im Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Liveübertragungen der BVV besser bewerben - überwiesen
+- TOP 5.4: Funktionierendes Berlin: Ämter für Soziales vor dem Kollaps retten - überwiesen
+- TOP 5.5: Mehr Sitzmöglichkeiten in der Schloßstraße - überwiesen
+- TOP 5.6: Prüfung der Verlängerung der Buslinie 143 - überwiesen
+- TOP 5.7: Gedenkort für die Opfer des 17. Juni 1953 in Zehlendorf kultivieren - überwiesen
+- TOP 5.8: Kulturbuslinien in Steglitz-Zehlendorf - überwiesen
+- TOP 5.9: Grunewald vor den Grünen retten - überwiesen
+- TOP 5.10: Benennung einer Promenade am U-Bahngraben zwischen Clayallee und Ihnestraße in „Nora-Schimming-Promenade" - überwiesen
+- TOP 5.11: Bushaltestelle nach Museumsdorf Düppel benennen - überwiesen
+- TOP 5.12: Aufstellung einer Ecotoilette am Markusplatz - überwiesen
+- TOP 5.13: Trinkbrunnen für den Markusplatz - überwiesen
+- TOP 5.14: Längsparken am Platz des 4. Juli - überwiesen
+- TOP 5.15: Außenstelle für die Jugendkunstschule - überwiesen
+- TOP 5.16: Einrichtung der Koordinierungsstelle gemäß dem Landesgleichberechtigungsgesetz - überwiesen
+- TOP 5.17: Halbseitiges Parkverbot unter der S-Bahnbrücke Schlachtensee (Breisgauer Straße) - überwiesen
+- TOP 5.18: Wassertränken für Tiere in Grünanlagen - überwiesen
+- TOP 5.19: S-Bahnhof Wannsee – Gefährliche Überquerung des Kronprinzessinnenweg unterbinden - überwiesen
+- TOP 5.20: Unser vielfältiges Steglitz-Zehlendorf stärken – Antidiskriminierungs-, Queer- und Diversitybeauftragte*n einrichten - überwiesen
+- TOP 5.21: NS-Verherrlichung auf den Index stellen - überwiesen
+- TOP 6: Wahlen - erledigt
+- TOP 6.1: Wahlvorschläge - erledigt
+- TOP 6.1.1: Wahl eines stellvertretenden Bezirksbürgermeisters - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Ein neuer Name für die Eduard-Spranger-Promenade - in der BVV abgelehnt
