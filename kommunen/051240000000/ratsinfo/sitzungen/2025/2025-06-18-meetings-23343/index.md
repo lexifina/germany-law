@@ -1,0 +1,76 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-06-18T19:02:00+02:00
+- Ende: 2025-06-18T21:04:00+02:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23343
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23343
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00350261.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00351217.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Jugendrat
+- TOP 2: Bürgerantrag gemäß § 24 GO - Erhaltung von Straßenbäumen in der Luisenstraße - ungeändert beschlossen
+- TOP 3: Bürgerantrag gemäß § 24 GO NRW - Einbahnstraßenöffnung Robertstraße für den gegenläufigen Radverkehr - vertagen
+- TOP 4: Konzept und Ideen der Weihnachtsmärkte in Elberfeld - Berichterstattung
+- TOP 5: Situation am Platz der Republik hinsichtlich aktueller häufiger krimineller Vorfälle (Einbruch, Vandalismus; Drogendelikte) - vertagen
+- TOP 6: Veranstaltung 30-jähriges Jubiläum am 28.06.2025 in der Luisenstraße - ungeändert beschlossen
+- TOP 7: Freigabe von Einbahnstraßen für den gegenläufigen Radverkehr in der Elberfelder Nordstadt - geändert beschlossen
+- TOP 8: Aufhebung des Radwegs Mäuerchen / Kasinostraße - vertagen
+- TOP 9: Radabstellanlage Gertrudenstraße - ungeändert beschlossen
+- TOP 10: Sanierung der Fahrbahn um den Platz der Republik - vertagen
+- TOP 11: Sanierungsmaßnahme Distelbeck/Gerstenstraße in Teilabschnitten - vertagen
+- TOP 12: Klimaanpassung Grünanlage Kölner Straße - ungeändert beschlossen
+- TOP 13: Wiederinstandsetzung Kinderspielplatz Bergstraße - ungeändert beschlossen
+- TOP 14: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2025 - ungeändert beschlossen
+- TOP 15: ISEK Elberfeld - Gestaltungssatzung Innenstadt Elberfeld - Durchführungsbeschluss Ausschreibung vorbereitende Leistungen und Gestaltungshandbuch - ungeändert beschlossen
+- TOP 16: Überarbeitung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 17: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027 - ungeändert beschlossen
+- TOP 18: Hochstraße sicherer machen - geändert beschlossen
+- TOP 19: Bebauungsplan 1293 - Hofkamp / Georg-Abeler-Treppe - (mit Flächennutzungsplanberichtigung 162B) - Veröffentlichungsbeschluss - Bebauungsplan 50 - Am Wunderbau - - Veröffentlichungsbeschluss zur Teilaufhebung - Fluchtlinienpläne 564, 783, 10006 - Ver - ungeändert beschlossen
+- TOP 20: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen - ungeändert beschlossen
+- TOP 21: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - vertagen
+- TOP 22: Planung zweier Fahrradstraßen auf den Südhöhen (Abschnitt zwischen Auf der Königshöhe und der Cronenberger Straße) - ungeändert beschlossen
+- TOP 23: Vorratsbeschluss zur Kostenneufestsetzung "Neugestaltung Alte Freiheit- Poststraße- Kerstenplatz" - ungeändert beschlossen
+- TOP 24: Grundsatzbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 25: Freigabe von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich der Bergischen Universität - Entgegennahme ohne Beschluss
+- TOP 26: Informationen zur Sanierung und Instandhaltung der Gräber verdienter Bürgerinnen und Bürger - Entgegennahme ohne Beschluss
+- TOP 27: Parkraumkonzept Nordstadt und Luisenviertel: Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 28: Aufstellen von Hinweisschildern an Gräbern verdienter Bürgerinnen und Bürger der Stadt - Entgegennahme ohne Beschluss
+- TOP 29: Sachstandsbericht: Temporäre Möblierung auf dem Ölberg – Ausleihe der Stadt-Terrassen des Zukunftsnetz Mobilität NRW - Entgegennahme ohne Beschluss
+- TOP 30: Schließfächer für die Habseligkeiten von obdachlosen Menschen - Zwischenbericht Standortsuche - vertagen
+- TOP 31: Sachstand zum Konzept öffentliche Toiletten - vertagen
+- TOP 32: Neuregelungen der StVO und VwV zu Geschwindigkeitsbeschränkungen (Tempo 30) - Entgegennahme ohne Beschluss
+- TOP 33: Entwicklungen im Bereich des Mirker Bahnhofs - Entgegennahme ohne Beschluss
+- TOP 34: Projektstand der Kooperationsmaßnahme Elberfeld 2030 - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 35: 5. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 36: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 37: Anträge
+- TOP 37.1: Prüfauftrag zur Einrichtung eines Trinkwasserbrunnens auf dem Vorplatz des Botanischen Gartens - Antrag der Fraktion Linkes Bündnis Wuppertal - ungeändert beschlossen
+- TOP 37.2: Beseitigung einer Gehwegkuhle in der Grünanlage am Otto-Böhne-Platz - Antrag der Fraktion Linkes Bündnis Wuppertal
+- TOP 37.3: Erneuerung des beschädigten Pflasters auf einem äußeren Stellplatz im Parkplatzstreifen Sattlerstraße - Antrag der Fraktion Linkes Bündnis Wuppertal
+- TOP 37.4: Anordnung des Verkehrszeichens 314 „Parken“ mit Zusatzzeichen 1010-58 „Nur Pkw“ im Parkplatzstreifen vor den Häusern Sattlerstraße 2–10 - Antrag der Fraktion Linkes Bündnis Wuppertal - ungeändert beschlossen
+- TOP 37.5: Überprüfung und Durchsetzung des gesetzlichen Mindestabstands zwischen der Spielhalle an der Morianstraße 109 und der Gesamtschule Else Lasker-Schüler - Antrag der Fraktion Linkes Bündnis Wuppertal - geändert beschlossen
+- TOP 38: Große Anfragen
+- TOP 38.1: Einnahmen und Perspektiven des sogenannten Quartiersparkhauses am Kasinogarten - Große Anfrage der SPD Fraktion - vertagen
+- TOP 38.1.1: Antwort auf die Große Anfrage der SPD an die BV Elberfeld zum "Quartiersparkhauses am Kasinogarten " - vertagen
+- TOP 38.2: Konzept "Nette Toilette" - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 38.2.1: Konzept "Nette Toilette" - Antwort auf die Große Anfrage - Entgegennahme ohne Beschluss
+- TOP 38.3: Sachstand Toilettenanlagen in Elberfeld - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 38.3.1: Sachstand Toilettenanlagen in Elberfeld - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 38.4: Flächenbelegung von Solar- und Photovoltaikanlagen - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 38.4.1: Antwort auf die Große Anfrage der CDU-Fraktion an die BV Elberfeld zur "Flächenbelegung von Solar- und Photovoltaikanlagen" - Entgegennahme ohne Beschluss
+- TOP 38.5: Abfallverteilung durch Tiere auf dem Friedrichsplatz - Große Anfrage der Fraktion Linkes Bündnis Wuppertal - Entgegennahme ohne Beschluss
+- TOP 38.5.1: Große Anfrage Friedrichsplatz - Entgegennahme ohne Beschluss
+- TOP 38.6: Situation Spielplatz Weidenplatz (Südstadt) - Große Anfrage der SPD Fraktion - vertagen
+- TOP 39: Freie Mittel
+- TOP 39.1: Antrag GWG Wuppertal - KSP im Quartier Südstadt
+- TOP 39.2: Antrag des Künstler:innenkollektivs COLOUR
+- TOP 39.3: Zuschuss für das Wuppertaler Kinder- und Jugendtheater - Antrag der SPD Fraktion - vertagen
+- TOP 40: GFG Mittel
+- TOP 40.1: Errichtung einer öffentlichen WC-Anlage am Deweerth’schen Garten – Bereitstellung von GfG-Mitteln für Planungskosten - ungeändert beschlossen
