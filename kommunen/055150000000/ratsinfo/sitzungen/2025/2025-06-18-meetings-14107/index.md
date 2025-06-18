@@ -1,0 +1,57 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-18T17:02:00+02:00
+- Ende: 2025-06-18T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/523
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14107
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14107
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit (korrigierte Fassung) https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00572142.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge / Anfragen / Eingaben
+- TOP 4.1: Stellungnahmen der Verwaltung
+- TOP 4.1.1: Baumaßnahme Coerde Kiesekampweg (B-Plan Nr. 134), Umgestaltung Knotenpunkt Holtmannsweg K7
+- TOP 5: Verkehrsplanung
+- TOP 5.1: Digitalisierung im ÖPNV-Vertrieb
+- TOP 5.2: Smart City Münster: Sachstandsbericht 2025 - zur Kenntnis genommen
+- TOP 5.3: Verkehrssicherheit 2025 - einstimmig beschlossen
+- TOP 5.4: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets - einstimmig beschlossen
+- TOP 5.5: Übertragung von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Grevener Verkehrs GmbH (GVG) - einstimmig beschlossen
+- TOP 5.6: Westfälische Verkehrsgesellschaft mbH (WVG): Kauf- und Abtretungsvertrag über Geschäftsanteile zwischen WVG und Verkehrsgesellschaft Kreis Unna mbH (VKU), Änderung des Gesellschaftsvertrages der WVG - einstimmig beschlossen
+- TOP 5.7: Schaltzeiten adaptive Beleuchtung Kanalpromenade - ohne Beschlussfassung geschoben
+- TOP 5.8: Umsetzungskonzept / Sachstandsbericht zur innerörtlichen Aufhebung der Radwegebenutzungspflicht - zur Kenntnis genommen
+- TOP 5.9: Veloroute 5 Nottuln – Münster: Fahrradstraßen Waldeyerstraße und Schmeddingstraße - einstimmig beschlossen
+- TOP 5.10: Parkraumuntersuchung im Quartier „Waldeyerstraße / Schmeddingstraße“ - zur Kenntnis genommen
+- TOP 5.11: Veloroute 11 Everswinkel - Münster, Abschnitt 5: Heumannsweg - einstimmig beschlossen
+- TOP 5.12: VR 8 Düesbergweg von Werlandstraße bis Sternbusch - zur Kenntnis genommen
+- TOP 5.13: Mobilstationskonzept der Stadt Münster - Teil C: Umsetzungsprogramm - einstimmig geändert beschlossen
+- TOP 5.14: Übersicht über die aktuellen Maßnahmen auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 5.15: Hafenstraße - DB Unterführung - mehrheitlich beschlossen
+- TOP 5.16: Albersloher Weg - Konzeptionelle Neuausrichtung des Albersloher Weges zwischen dem Angelsachsenweg und dem Knotenpunkt Osttor / Hiltruper Straße - mehrheitlich geändert beschlossen
+- TOP 5.17: Kreuzung Albersloher Weg/Osttor/Hiltruper Str. Erste Umbauphase: Ertüchtigung zur Erreichung einer ausreichenden Verkehrsqualität - zur Kenntnis genommen
+- TOP 5.18: Verkehrsversuch Wolbeck: Verstetigung der Maßnahmen - mehrheitlich geändert beschlossen
+- TOP 5.19: Hansaring - Soester Straße bis "Hafenmarkt" - mehrheitlich geändert beschlossen
+- TOP 5.20: Kanalstraße zwischen Lublinring und Rjasanstraße - Beschluss verkehrstechnischer Entwurf - - einstimmig beschlossen
+- TOP 5.21: Lublinring, zwischen Kanalstraße und Gartenstraße: Neugestaltung im Zuge Errichtung separater Rechtsabbiegestreifen - von der Tagesordnung abgesetzt
+- TOP 5.22: Umgestaltung des Hessenwegs - einstimmig beschlossen
+- TOP 5.23: Wolbecker Straße - Verfürthweg bis Lohausweg (Beschluss verkehrstechnischer Entwurf) - einstimmig beschlossen
+- TOP 5.24: Hammer Straße – städtisches Stadion: Anpassung öffentliche Verkehrsanlagen - einstimmig geändert beschlossen
+- TOP 5.25: Hiltruper Straße – Innere und äußere Erschließung des Baugebiets Hiltruper Straße / Westlich Am Sandbach (Satzung der Stadt Münster gemäß §34 Abs. 4 Satz 1 Nr. 3 BauGB) - einstimmig beschlossen
+- TOP 5.26: Äußere Erschließung des Baugebiets Am Dornbusch (Bebauungsplan 578) - von der Tagesordnung abgesetzt
+- TOP 6: Baumaßnahmen
+- TOP 6.1: Rüschhausweg/Von-Esmarch-Straße - Gievenbeck Mitte, Umgestaltung des öffentlichen Raumes - einstimmig beschlossen
+- TOP 6.2: Hobbeltstraße - Dorbaumstraße bis Kirschgarten - einstimmig beschlossen
+- TOP 6.3: Verkehrsstationen entlang der WLE-Strecke auf dem Stadtgebiet Münster - allgemeine Informationen - zur Kenntnis genommen
+- TOP 6.4: WLE-Haltepunkt Halle Münsterland - einstimmig beschlossen
+- TOP 6.5: WLE-Haltepunkt Gremmendorf - einstimmig geändert beschlossen
+- TOP 6.6: WLE-Haltepunkt Angelmodde - einstimmig beschlossen
+- TOP 6.7: WLE-Bahnhof Wolbeck - einstimmig beschlossen
+- TOP 7: Verschiedenes
