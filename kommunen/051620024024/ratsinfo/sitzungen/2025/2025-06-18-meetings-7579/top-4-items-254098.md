@@ -1,0 +1,7 @@
+# TOP 4: Einwohner*innenfragestunde
+
+- Sitzung: Gleichstellungsbeirat (2025-06-18)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/254098
+- Ergebnis: nicht beraten aufgrund festgestellter Beschlussunfähigkeit
