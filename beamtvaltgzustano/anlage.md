@@ -1,0 +1,65 @@
+# Anlage (zu § 1)
+
+| 1 | Bundespräsidialamt |
+| 2 | Verwaltung des Deutschen Bundestages |
+| 3 | Verwaltung des Bundesrates |
+| 4 | Bundesverfassungsgericht |
+| 5 | Bundeskanzleramt |
+| 5.1 | Bundesnachrichtendienst |
+| 6 | Bundesrechnungshof |
+| 7 | Bundesministerium der Finanzen |
+| 7.1 | unmittelbar nachgeordneter Bereich |
+| 7.2 | Museumsstiftung Post und Telekommunikation |
+| 7.3 | Bundesanstalt für Finanzdienstleistungsaufsicht |
+| 7.4 | Bundesanstalt für Immobilienaufgaben |
+| 8 | Bundesministerium des Innern |
+| 8.1 | unmittelbar nachgeordneter Bereich |
+| 8.2 | Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben |
+| 9 | Auswärtiges Amt |
+| 9.1 | Bundesamt für Auswärtige Angelegenheiten |
+| 9.2 | Deutsches Archäologisches Institut |
+| 10 | Bundesministerium der Verteidigung |
+| 10.1 | unmittelbar nachgeordneter Bereich |
+| 11 | Bundesministerium für Wirtschaft und Energie |
+| 11.1 | unmittelbar nachgeordneter Bereich |
+| 12 | Bundesministerium für Forschung, Technologie und Raumfahrt |
+| 13 | Bundesministerium der Justiz und für Verbraucherschutz |
+| 13.1 | Gerichte und nachgeordnete Behörden |
+| 13.2 | Bundesamt für Justiz |
+| 14 | Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend |
+| 14.1 | unmittelbar nachgeordneter Bereich |
+| 14.2 | Bundesinstitut für Berufsbildung |
+| 15 | Bundesministerium für Arbeit und Soziales |
+| 15.1 | Gerichte und unmittelbar nachgeordneter Bereich |
+| 15.2 | Unfallversicherung Bund und Bahn |
+| 15.3 | ehemalige Unfallkasse Post und Telekom |
+| 16 | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit |
+| 16.1 | unmittelbar nachgeordneter Bereich |
+| 17 | Bundesministerium für Gesundheit |
+| 17.1 | unmittelbar nachgeordneter Bereich |
+| 18 | Bundesministerium für Landwirtschaft, Ernährung und Heimat |
+| 18.1 | unmittelbar nachgeordneter Bereich |
+| 18.2 | Bundesanstalt für Landwirtschaft und Ernährung |
+| 18.3 | Bundesinstitut für Risikobewertung |
+| 19 | Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung |
+| 20 | Bundesministerium für Wohnen, Stadtentwicklung und Bauen |
+| 20.1 | Bundesamt für Bauwesen und Raumordnung |
+| 21 | Presse- und Informationsamt der Bundesregierung |
+| 22 | Die oder der Beauftragte der Bundesregierung für Kultur und Medien |
+| 22.1 | unmittelbar nachgeordneter Bereich |
+| 22.2 | Deutsche Nationalbibliothek |
+| 22.3 | Stiftung Haus der Geschichte der Bundesrepublik Deutschland |
+| 22.4 | Stiftung Bundespräsident-Theodor-Heuss-Haus |
+| 22.5 | Bundeskanzler-Willy-Brandt-Stiftung |
+| 22.6 | Stiftung Bundeskanzler-Adenauer-Haus |
+| 22.7 | Otto-von-Bismarck-Stiftung |
+| 22.8 | Stiftung Jüdisches Museum Berlin |
+| 22.9 | Stiftung Preußischer Kulturbesitz |
+| 22.10 | Stiftung Deutsches Historisches Museum |
+| 22.11 | Bundeskanzler-Helmut-Schmidt-Stiftung |
+| 22.12 | Bundeskanzler-Helmut-Kohl-Stiftung |
+| 22.13 | Bundesstiftung zur Aufarbeitung der SED-Diktatur |
+| 22.14 | Stiftung Orte der deutschen Demokratiegeschichte |
+| 22.15 | Reichspräsident-Friedrich-Ebert-Stiftung |
+| 23 | Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit |
+| 24 | Unabhängiger Kontrollrat |
