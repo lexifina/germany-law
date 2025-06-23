@@ -1,0 +1,126 @@
+# 18. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2025-06-23T10:00:00+02:00
+- Ende: 2025-06-23T12:35:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2025-VA-75
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2025-VA-75
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2.: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3.: Vorlagen der Bezirksregierungen
+- TOP 3.1: Programmvorschlag Städtebauförderprogramm 2025 hier: Unterrichtung
+- TOP 4.: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: Aufstellungsbeschluss zur 2. Änderung des Regionalplans Ruhr: Änderung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Hattingen
+- TOP 4.2: Aufstellungsbeschluss zur 3. Änderung des Regionalplans Ruhr: Änderung eines Allgemeinen Freiraum- und Agrarbereichs (AFAB) mit den überlagernden Zweckbestimmungen Regionaler Grünzug (RG) und teilweise Bereich zum Schutz der Natur (BSN) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Bottrop
+- TOP 4.3: Aufstellungsbeschluss zur 4. Änderung des Regionalplans Ruhr: Änderung eines Allgemeinen Freiraum- und Agrarbereichs (AFAB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Waltrop
+- TOP 5.: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6.: Fraktionsanträge
+- TOP 7.: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8.: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Das Ruhrgebiet - Hier bleibt alles anders Zwischenergebnis der 3. Kampagnenphase (2024-2026) und Entscheidung über die Zusammenarbeit mit der derzeitigen Agentur für ein weiteres Jahr
+- TOP 8.1.1: Änderungsantrag Die Grünen Das Ruhrgebiet - Hier bleibt alles anders Zwischenergebnis der 3. Kampagnenphase (2024-2026) und Entscheidung über die Zusammenarbeit mit der derzeitigen Agentur für ein weiteres Jahr
+- TOP 8.2: Überarbeitung und Aktualisierung des Public Corporate Governance Kodex (PCGK) des Regionalverbandes Ruhr
+- TOP 8.3: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet GmbH - Änderung des Gesellschaftsvertrages der AGR-DAR GmbH
+- TOP 8.4: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Erwerb von Anteilen von der Stadt Bergkamen
+- TOP 8.5: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Änderung der Gesellschaftervereinbarung
+- TOP 8.6: Angelegenheiten der Manifesta 16 Ruhr gGmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.7: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.8: Angelegenheiten der Freizeitgesellschaften Revierpark Gysenberg Herne GmbH - Gesellschaftervereinbarung 2026
+- TOP 8.9: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der Ruhrwind Herten GmbH
+- TOP 8.10: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.11: Zuschuss zum IGA2027-Projekt Ruhrfenster Muttental / Zeche Nachtigall an die Stadt Witten
+- TOP 8.12: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Änderung des Gesellschaftsvertrages
+- TOP 8.13: Angelegenheiten der Business Metropole Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.14: Angelegenheiten der Freizeitgesellschaften Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2024
+- TOP 8.15: Angelegenheiten der Freizeitgesellschaften Betreibergesellschaft Silbersee II Haltern am See mbH - Änderung des Gesellschaftsvertrages
+- TOP 8.16: Angelegenheiten der Ruhr Tourismus GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.17: Angelegenheiten der Freizeitgesellschaften Seegesellschaft Haltern mbH - Änderung des Gesellschaftsvertrages
+- TOP 8.18: Angelegenheiten der Business Metropole Ruhr GmbH - Änderung des Gesellschaftsvertrages der WiN Emscher-Lippe Gesellschaft zur Strukturverbesserung mbH
+- TOP 8.19: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Jahresabschluss zum 31.12.2024
+- TOP 8.20: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Verkauf von Anteilen an die Stadt Hamm
+- TOP 8.21: Angelegenheiten der Freizeitgesellschaften Maximilianpark Hamm GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.22: Angelegenheiten der RuhrFutur gGmbH - Jahresabschluss zum 31.12.2024
+- TOP 8.23: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Sanierung der Niederrheintherme im Revierpark Mattlerbusch
+- TOP 8.24: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Außerplanmäßige Mittelbereitstellung für die Betriebsstätte Vonderort
+- TOP 8.25: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2024
+- TOP 8.26: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Jahresabschluss zum 31.12.2024
+- TOP 8.27: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Jahresabschluss zum 31.12.2024
+- TOP 8.28: Angelegenheiten der EKOCity GmbH - Änderung des Gesellschaftsvertrages
+- TOP 9.: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Masterplan Handwerk für das Ruhrgebiet
+- TOP 10.: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11.: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Maßnahmenpaket Halde Hoheward mit trail.spot (Ausbau Mountain- und Gravelbike-Infrastruktur) und halden.spot (Rastplatz und WC)
+- TOP 11.2: Modernisierung der RVR-Dienstgebäude
+- TOP 11.2.1: Änderungsantrag Die Grünen Modernisierung des RVR-Dienstgebäudes Gutenbergstr. 45/47; Ergebnisse der Bedarfsanalyse inkl. Changemanagement und immobilienwirtschaftlicher Analyse
+- TOP 11.3: Gesamtregionales Haldenkonzept
+- TOP 12.: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Förderprogramme des RVR - Entscheidungsfindung in der sitzungsfreien Zeit
+- TOP 12.1.1: Förderprogramme des RVR - Entscheidungsfindung in der sitzungsfreien Zeit - Änderungsantrag zu Drs.: 14/2120
+- TOP 12.2: Umsetzungsstrategie Ruhr Games 2027 ff.
+- TOP 13.: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14.: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2024. Beschluss über die Behandlung des Jahresergebnisses 2024. Entlastung des Betriebsausschusses RVR Ruhr Grün.
+- TOP 15.: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16.: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Weitere Vertretungsreihenfolge der Beigeordneten
+- TOP 16.2: Einbringung des Entwurfs der Haushalts-Nachtragssatzung für die Haushaltsjahre 2025/2026
+- TOP 16.3: Anmietung von externen Büroflächen
+- TOP 16.4: Entwurf des Jahresabschlusses zum 31.12.2024 des Regionalverbandes Ruhr
+- TOP 16.5: Bekanntgabe der in der Zeit vom 01.01.2025 - 31.03.2025 für das Haushaltsjahr 2025 genehmigten Haushaltsüberschreitungen
+- TOP 16.6: Nebeneinnahmen des Regionaldirektors
+- TOP 16.7: Organisationsveränderungen
+- TOP 16.8: Herstellung des Benehmens mit den Mitgliedskörperschaften für die Nachtragssatzung 2025/2026
+- TOP 16.9: Übersicht über die Inanspruchnahme der übertragenen Ermächtigungen vom Haushaltsjahr 2024 nach 2025
+- TOP 16.9: Anpassung der Verbandsordnung
+- TOP 17.: Fraktionsanträge/Resolutionen
+- TOP 17.1: Bürokratieabbau im Ruhrgebiet
+- TOP 17.2: Machbarkeitsstudie Theaterholding Ruhr
+- TOP 17.3: Digitalisierung der Kulturförderung
+- TOP 17.4: Plattform Kreativwirtschaft Ruhr
+- TOP 17.5: Digi-Check bei Förderprogrammen
+- TOP 17.6: Zukunft des RVR
+- TOP 17.7: Europäische Jugendhauptstadt / European Youth Capital
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der Fraktion Die Linke Errichtung von Trinkwasserbrunnen durch den RVR
+- TOP 18.1.2: Antwort auf die Anfrage der SPD-Fraktion European Youth Capital/Europäische Jugendhauptstadt
+- TOP 18.1.3: Änderung des Marken-Claims "Metropole Ruhr"
+- TOP 18.1.3.1: Antwort auf die Anfrage der FDP-Fraktion Änderung des Marken-Claims "Metropole Ruhr"
+- TOP 18.1.4: IGA 2027 ohne Bergkamen
+- TOP 18.1.4.1: Antwort auf die Anfrage der FDP-Fraktion Auswirkungen des Rückzugs von Bergkamen auf die IGA 2027
+- TOP 18.1.5: Hinweisgeberschutz
+- TOP 18.1.6: Weitere Beantwortung der Anfrage zur Standortmarketingkampagne "Das Ruhrgebiet - Hier bleibt alles anders" in Verbindung mit dem Kulturmarketing
+- TOP 18.1.7: Masterplan Handwerk für das Ruhrgebiet Drucksache Nr. 14/2107
+- TOP 18.1.7.1: Antwort auf die Anfrage der CDU-Fraktion Masterplan Handwerk für das Ruhrgebiet Drucksache Nr. 14/2107
+- TOP 18.1.8: Wasserwerk Volmarstein
+- TOP 18.1.9: Anfrage Die Grünen Modernisierung des RVR-Dienstgebäudes Gutenbergstr. 45/47; Ergebnisse der Bedarfsanalyse inkl. Changemanagement und immobilienwirtschaftlicher Analyse
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Tischvorlagen
+- TOP -: Masterplan Handwerk
+- TOP -: Modernisierung des RVR-Dienstgebäudes Gutenbergstraße 45/47
