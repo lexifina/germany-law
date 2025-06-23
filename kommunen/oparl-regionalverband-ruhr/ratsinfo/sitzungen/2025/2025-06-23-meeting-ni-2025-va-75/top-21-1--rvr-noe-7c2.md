@@ -1,0 +1,6 @@
+# TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 18. Sitzung des Verbandsausschusses (2025-06-23)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2025-VA-75%7CAM-rvr-noe%7C2
