@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-23T17:00:00+02:00
+- Ende: 2025-06-23T18:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31721
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31721
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Sichere Schulwege für alle Kinder in Köln – spürbare Verbesserungen bis zum Schulstart 2025/26 erreichen - Sache ist erledigt
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 31.03.2025 (AN/0394/2025) betreffend "Enttabuisierung der Wechseljahre - Aufklärung, Personalpolitik und komm - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend "Arbeitskräftemangel bei der Stadt: Vakanzen und Überlastungsanzeigen" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen/ Vergabe/ Internationales vom 24.03.2025 (AN/0359/2025) betreffend "Arbeitskräftemangel bei der Stadt: Vakanzen und - Kenntnis genommen
+- TOP 3.2: Anfrage der SPD Fraktion betreffend "Verwahrlosung in Köln: Aktueller Sachstand der Maßnahmen rund um die Plätze mit besonderem Handlungsbedarf in der Innenstadt Köln – Übertragbarkeit auf andere Stadteile, z.B. Porz, Kalk, Chorweiler" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Verwahrlosung in Köln: Aktueller Sachstand der Maßnahmen rund um die Plätze mit besonderem Handlungsbedarf in der Innenstadt Köln – Übertragbarkeit auf andere Stadteile" (AN/0635/2025) - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Auswirkungen der Entscheidung des Bundesamts für Verfassungsschutz vom 02.05.2025 zur Einstufung der Bundespartei AfD als gesichert rechtsextremistische Bestrebung - Kenntnis genommen
+- TOP 4.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2025 - Kenntnis genommen
+- TOP 4.3: Bericht des Zentrums für Kriminalprävention und Sicherheit für das 2. Quartal 2025 - Kenntnis genommen
+- TOP 4.4: Erhöhung der Verkehrssicherheit auf der Stadtautobahn (B55a) zwischen Auffahrt Buchforst und Anschlussstelle Höhenberg, - Kenntnis genommen
+- TOP 4.5: Handlungsempfehlungen des Expert*innengremiums (Post)koloniales Erbe - Kenntnis genommen
+- TOP 4.6: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 31.03.2025 "Umkleidemöglichkeiten für Frauen bei der Freiwilligen Feuerwehr" - Kenntnis genommen
+- TOP 4.7: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt vom 22.05.2025 (AN/0714/2025) betreffend "Einfache Sprache als Verwaltungsstandard" - Kenntnis genommen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Integration eines Nachhaltigkeitskonzepts bei dem Vergabeverfahren für Anlegestellen am Rhein, Aktenzeichen 19/25 - Kenntnis genommen
+- TOP 4.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Zugeparkte Feuerwehrzufahrt, Verkehrsdienst und Polizei, Az.: 25/25 - Kenntnis genommen
+- TOP 4.11: Sachstandsbericht Generalinstandsetzung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 31.Mai 2025 - Kenntnis genommen
+- TOP 4.12: Sachstandsbericht zum Neubau Erweiterung Wallraf-Richartz-Museum und Fondation Corboud mit Neubau Blockrandbebauung für städtische Nutzflächen, Stand: 31. Mai 2025 - Kenntnis genommen
+- TOP 4.13: Sachstandsbericht zum Antrag „Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand" (AN/0424/2025) - Kenntnis genommen
+- TOP 4.14: Fördermittelbericht 2023 - Kenntnis genommen
+- TOP 4.15: Bericht über Sponsoringleistungen an die Stadt Köln im Jahr 2024 - Berichtszeitraum 01.01.-31.12.2024 - Kenntnis genommen
+- TOP 4.16: Personalbericht 2024 - Kenntnis genommen
+- TOP 4.17: Datenabgleich mit den Vermittlungsplattformen für Mietwagen - Kenntnis genommen
+- TOP 4.18: Förderung von Projekten im Rahmen der Förderprogramme „Städtepartnerschaften gestalten!“ und „Kommunale Entwicklungszusammenarbeit“ 2025 - Kenntnis genommen
+- TOP 4.19: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - vertagt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion betreffend "Rückfragen Alternative Feierfläche Karneval" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion sowie der Volt-Fraktion betreffend "Rückfragen Alternative Feierfläche Karneval (AN/0801/2025) - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Hundekotbeutelspender und Hundekotbeutelpflicht" - vertagt
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion betreffend "Fitnessangebote für städtische Mitarbeitende" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen, der CDU-Fraktion und der Volt-Fraktion aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen/ Vergabe/ Internationales vom 19.05.2025 (AN/0929/2025) betref - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - vertagt
+- TOP 8.2: Antrag der Fraktion Klima Freunde & Gut betreffend "Vermietung städtischer Räumlichkeiten an Parteien öffentlich machen" - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 8.2 Antrag der Fraktion KLIMA FREUNDE & GUT betreffend "Vermietung städtischer Räumlichkeiten an Parteien öffentlich machen" - geändert beschlossen
+- TOP 8.3: Antrag der Seniorenvertretung betreffend "Telefonische Erreichbarkeit der GAG" - ohne Votum behandelt
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion betreffend "Sicherheit in städtischen Parkhäusern" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion betreffend "Sicherheit in städtischen Parkhäusern" - endgültig zurückgezogen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Erklärung zum Abschluss einer Schiedsvereinbarung im Sinne von § 1029 Zivilprozessordnung (stehendes Angebot) im Kontext NS-Raubgut - ungeändert beschlossen
+- TOP 10.2: Feststellung der amtlichen Einwohnerzahl - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
