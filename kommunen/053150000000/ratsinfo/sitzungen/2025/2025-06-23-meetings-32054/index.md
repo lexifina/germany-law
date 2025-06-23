@@ -1,0 +1,91 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-23T16:00:00+02:00
+- Ende: 2025-06-23T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32054
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32054
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch Herr Beigeordneter Dr. Rau
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zur Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Zwei Behindertenparkplätze vor dem Ärztehaus Unter Linden einrichten, AZ 71/2024 - Kenntnis genommen
+- TOP 5.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Satzung über die Gestaltung der Vorgärten für einen Teil der Ortslage in Köln-Klettenberg rechtssicher umgestalten, Aktenzeichen 68/24 - Kenntnis genommen
+- TOP 5.2: Bürgereingaben
+- TOP 5.2.1: Bürgereingabe nach § 24 GO - "Verhinderung Gehwegparken Zülpicher Straße 273" AZ 26/21 B - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 5.2.1 - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung GGS Johaniter SChule - ungeändert beschlossen
+- TOP 6.2: Schenkungsannahme Außengerätehaus GGS Alfons-Nowak-Straße - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der SPD-Fraktion zur Errichtung einer Kleinkindschaukel auf dem Spielplatz auf dem Nikolausplatz in Sülz - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage nach Anträgen zum Lärmschutz - vertagt
+- TOP 7.2.2: Anfrage Stadtteilbibliothek - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Nachpflanzung Bäume Leiblplatz - ungeändert beschlossen
+- TOP 8.1.2: Fortsetzung der Ausschreibung zur bundesligatauglichen Sporthalle in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.3: Kommentierung von BV-Beschlüssen - ungeändert beschlossen
+- TOP 8.1.4: Konzeptvergabe Gleueler Wiesen - endgültig zurückgezogen
+- TOP 8.1.5: Barrierefreie Überquerung der Straßen im Kreuzungsbereich Christian-Gau-Str. / Hermann-Pflaume-Str. - ungeändert beschlossen
+- TOP 8.1.6: Antrag zur Erhöhung der Verkehrssicherheit auf der Clarenbachstraße in Köln Lindenthal - geändert beschlossen
+- TOP 8.1.7: Beschilderung von Spielplatzbereichen - ungeändert beschlossen
+- TOP 8.1.8: Antrag zur Anbringung einer Haltelinie Haupstraße / Alte Sandkaul in Köln Widdersdorf - ungeändert beschlossen
+- TOP 8.1.9: Fehlende Abfallbehälter in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.10: Halteverbot Wendelinstraße in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.11: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 8.1.12: Pachtvertrag Gleueler Wiesen - vertagt
+- TOP 8.1.13: Ferienprogramm für Kinder in Widdersdorf - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Umgestaltung des öffentlichen Spielplatzes Otterweg in Lövenich - ungeändert beschlossen
+- TOP 9.1.2: Umgestaltung des öffentlichen Spielplatzes Vogelsanger Platz in Junkersdorf - ungeändert beschlossen
+- TOP 9.1.3: Stadtverschönerungsmittel Lindenthal 2025 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beschluss über die Aufstellung eines Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Oskar-Jäger-Straße südlich Low Line in Köln-Ehrenfeld/Braunsfeld - geändert beschlossen
+- TOP 9.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss zur 1. Änderung (Teilaufhebung) des Bebauungsplanentwurfs Nr. 65439/04 (6442 Nb/04); Arbeitstitel: Greinstraße in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.3: Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplanes Nr. 63450/03 (63450/03-00-02) Arbeitstitel: Oskar-Jäger-Straße 2. Änderung in Köln-Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 9.2.4: Änderung der Geschäftsordnung der Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 9.2.4 - ungeändert beschlossen
+- TOP 9.2.5: Planungsbeschluss für vier Feuerwehrgerätehäuser der Freiwilligen Feuerwehr Köln - ungeändert beschlossen
+- TOP 9.2.6: Temporäre Kapazitätseinschränkung am Gymnasium Neue Sandkaul im Schuljahr 2026/27 - ungeändert beschlossen
+- TOP 9.2.7: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss Bauphase 3 - ungeändert beschlossen
+- TOP 9.2.8: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - ungeändert beschlossen
+- TOP 9.2.9: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Sportentwicklungsplanung - Grundsteinlegung Albert-Richter-Velodrom am 26.05.2025 - Kenntnis genommen
+- TOP 11.3.2: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - Kenntnis genommen
+- TOP 11.3.3: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - Kenntnis genommen
+- TOP 11.3.4: Mitteilung zum Beschluss „Abschlussbericht zur Stufe 1 des nachhaltigen Mobilitätsplans "Besser durch Köln" (SUMP)“ - Kenntnis genommen
+- TOP 11.3.5: Sachstandsmitteilung zur Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
+- TOP 11.3.6: Radverkehrsförderung im Stadtbezirk Lindenthal von 2020 bis 2025 - Kenntnis genommen
+- TOP 11.3.7: Sachstand und weiteres Vorgehen zur dauerhaften Erweiterung des Anwohnerschutzkonzeptes RheinEnergieSTADION - Kenntnis genommen
+- TOP 11.3.8: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2024 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.3.9: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 11.3.10: Mitteilung Öffentlichkeitsbeteiligung Hybridpark - Kenntnis genommen
+- TOP 11.3.11: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 11.3.12: Änderungen des Fahrplanangebots der Rhein-Erft-Verkehrsgesellschaft mbH (REVG) - Kenntnis genommen
+- TOP 11.3.13: Abpollerung des freilaufenden Rechtsabbiegers und Einrichtung einer Fahrradstraße auf der Nebenfahrbahn der Universitätsstraße - Kenntnis genommen
+- TOP 11.3.14: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 11.3.15: Mitteilung über den Beschluss 0971/2025 Finanzausschuss vom 26.05.2025 zum Wegfall Freigabevorbehalt im Stadtklima-/Stadtverschönerungsprogramm - Kenntnis genommen
+- TOP 11.3.16: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
