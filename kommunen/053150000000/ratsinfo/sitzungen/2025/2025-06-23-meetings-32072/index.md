@@ -1,0 +1,113 @@
+# 37.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-23T17:00:00+02:00
+- Ende: 2025-06-23T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32072
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32072
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Frau Oberbürgermeisterin Henriette Reker
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Elisabeth - Schäfer - Weg Radverkehr
+- TOP 1.1.1: Beantwortung einer schriftlichen Einwohneranfrage Betreffend den Elisabeth-Schäfer-Weg in Köln Mülheim - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Wiederherstellung des Parkplatzes im Bereich Odenthaler Str. / Leuchter Str. in Köln Dünnwald - 23/25 - vertagt
+- TOP 2.2: Bürgereingabe nach § 24 GO – „Planungen zur Fahrradstraße in der Kopernikusstraße“ Aktenzeichen 46/23 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Mülheim vom 03.02.2025 (AN/0143/2025) betreffend "Dellbrück - Situation an St. Joseph Dellbrücker Hauptstraße" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der schriftlichen Anfrage von Iris Dworeck-Danielowski (AfD) in der Sitzung der Bezirksvertretung Mülheim vom 02.12.2024 "Inklusive Bildung und Schulwegsicherung an Schulen im Stadtbezirk Mülheim" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Mülheim am 07.03.2022 betr. "Verkehrliche Situation im Dellbrücker Zentrum" (AN/0349/2022) - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Mülheim betreffend AN/0494/2025 : "Wie lässt sich die Einzelhandelssituation in Stammheim und Flittard verbessern?" - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der Bezirksvertretung Mülheim vom 12.05.2025 (AN/0548/2025) betreffend "Mähen der Wiesen am Flittarder Deich" - Kenntnis genommen
+- TOP 7.1.6: Beantwortung einer schriftl. Anfrage der Fraktionen CDU, FDP und SPD aus der Sitzung der BV Mülheim vom 12.03.2025 (AN/0327/2025) betr. „Holweide Barrierefreier Ausbau Bushaltestelle Colonia Allee sowie SB Mülheim Barrierefreiheit an Bushaltestellen - Kenntnis genommen
+- TOP 7.1.7: AN1414/2025 Anfrage gem § 38 der Geschäftsordnung des Rates der Fraktion DIE LINKE bezüglich Säuberung der Treppe an de Mülheimer Brücke in Köln Mülheim - Kenntnis genommen
+- TOP 7.1.8: Beantwortung einer schriftlichen Anfrage der Fraktionen SPD, CDU und FDP aus der Sitzung der Bezirksvertretung Mülheim vom 15.05.2025 (AN/0487/2025) betreffend "Bodenabsackung im Fort XII in Köln-Stammheim - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Geruchsbelästigung aus dem Klärwerk Stammheim - Kenntnis genommen
+- TOP 7.2.1.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion zur Sitzung der Bezirksvertretung Mülheim am 23.06.2025 (AN/0672/2025) betreffend "Geruchsbelästigung aus dem Klärwerk Stammheim" - Kenntnis genommen
+- TOP 7.2.2: Garagenhof Edith-Stein-Straße - Kenntnis genommen
+- TOP 7.2.3: Warum verbessert die Stadt die Barrierefreiheit nicht mit Rampen ? - Kenntnis genommen
+- TOP 7.2.4: Welcher Magier war in der Kunstfelder Straße unterwegs ? - Kenntnis genommen
+- TOP 7.2.4.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen aus der Sitzung der BV Mülheim vom 28.05.2025 (AN/0765/2025) betreffend "Welcher Magier war in der Kunstfelder Straße unterwegs?" - Kenntnis genommen
+- TOP 7.2.5: Nachfragen zur Beantwortung der Anfrage „Sachstand des geplanten Windrads am Klärwerk in Köln-Stammheim“ - Kenntnis genommen
+- TOP 7.2.5.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion zur Sitzung der Bezirksvertretung Mülheim am 23.06.2025 (AN/0767/2025) betreffend "Nachfragen zur Beantwortung Sachstand zur geplanten Windenergieanlage auf dem Großklärwerk in Köln-Stammheim" - Kenntnis genommen
+- TOP 7.2.6: Entwicklung des „Schuleschwänzens“ in Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.7: Aktueller Sachstand der LEG- Siedlung in Köln-Höhenhaus - Kenntnis genommen
+- TOP 7.2.7.1: Beantwortung einer schriftlichen Anfrage der Bezirksvertreterin Hane-Knoll (AN/0806/2025) betreffend Aktueller Sachstand der LEG-Siedlung in Köln-Höhenhaus - Kenntnis genommen
+- TOP 7.2.8: Sachstand hinsichtlich der Aufstellung eines Taubenhauses im Stadtteil Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.8.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der BV Mülheim betr.: "Aufstellung eines Taubenhauses im Stadtteil" - Kenntnis genommen
+- TOP 7.2.9: Kommunale Kontrollen während und nach Straßenbauarbeiten - Kenntnis genommen
+- TOP 7.2.9.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der sitzung der BV9 vom 09.06.2025 ("AN/0808/2025") betreffend "Kommunale Kontrollen während und nach Straußenbauarbeiten" - Kenntnis genommen
+- TOP 7.2.10: Holweide - Zukunft des Wasserwerks in der Wasserwerkstraße - Kenntnis genommen
+- TOP 7.2.11: Interim-Standort für den Dellbrücker Marktplatz - Kenntnis genommen
+- TOP 7.2.12: Sachstand der beschlossenen Maßnahmen und Beantwortungen von Anfragen seit 2008 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Instandsetzung Marktplatz Stammheim - ungeändert beschlossen
+- TOP 8.1.2: Pflanzung von Straßenbäumen in Dünnwald - ungeändert beschlossen
+- TOP 8.1.3: Mülheim braucht das Mahnmal an der Keupstraße - geändert beschlossen
+- TOP 8.1.4: KD-Anleger am Kohlplatz reparieren - Müllemer Böötche retten ! - ungeändert beschlossen
+- TOP 8.1.5: Bessere Verkehrssicherheit herstellen und Unfallgefahr nicht nur für Fahrradfahrende umgehend beseitigen – großflächige Fahrbahnvertiefung im Bereich Jan-Wellem-Str. / Ecke Merkerhofstraße - ungeändert beschlossen
+- TOP 8.1.6: Endlich wirksamere Maßnahmen, wie z.B. ein gut sichtbares Piktogramm und ein entsprechendes Warnschild zur Erhöhung der Sicherheit für Radfahrende auf dem Fahrradweg am Bergischen Ring in Höhe der Esso Tankstelle Rendsburger Platz umsetzen - ungeändert beschlossen
+- TOP 8.1.7: Nachbesserung vorhandener Markierungen für die aufeinander treffenden Fahrradwege im Bereich der Stadtbahnhaltestelle Buchheim / Frankfurter Straße im Sinne der Fahrradfahrenden Richtung Mülheimer Bahnhof durch Schaffung eines sicheren Übergangs v - ungeändert beschlossen
+- TOP 8.1.8: Schrottfahrzeuge in der Buchholzstraße - ungeändert beschlossen
+- TOP 8.1.9: Erweiterung der westlichen Einmündung Steyler Straße / Bergisch Gladbacher Straße - ungeändert beschlossen
+- TOP 8.1.10: Entwicklung Höhenfelder See zu Naherholungsgebiet - ungeändert beschlossen
+- TOP 8.1.11: KVB-Fahrplantakt (zur Mitteilung 1590/2025 Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beschlussvorlage für das Fahrradstraßenkonzept Mülheim - geändert beschlossen
+- TOP 9.1.2: Öffentlichkeitsbeteiligung zur Einrichtung einer Fahrradstraße auf der Mülheimer Freiheit und der Deutz-Mülheimer Straße (RadPendlerRoute 1) - ungeändert beschlossen
+- TOP 9.1.3: Fahrradstraße Kopernikusstraße (RadPendlerRoute 2) - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert empfohlen
+- TOP 9.2.2: 13. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebiets (NSG) N 24 „Isborns Heide und Hommelsheimer Bruch“ hier: Beschluss über Bedenken und Anregungen sowie Satzungsbeschluss - vertagt
+- TOP 9.2.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nr. 75501/02 Arbeitstitel: Möhl-Areal in Köln-Dellbrück - ungeändert empfohlen
+- TOP 9.2.4: Änderung der Geschäftsordnung der Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP 9.2.5: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - ungeändert empfohlen
+- TOP 9.2.6: 238. Änderung des Flächennutzungsplans "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück - ungeändert empfohlen
+- TOP 9.2.7: Planungsbeschluss für vier Feuerwehrgerätehäuser der Freiwilligen Feuerwehr Köln - ungeändert empfohlen
+- TOP 9.2.8: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nr. 70470/11 Arbeitstitel: Deutz-Areal in Köln-Mülheim - ungeändert empfohlen
+- TOP 9.2.9: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss Bauphase 3 - ungeändert empfohlen
+- TOP 9.2.10: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - ungeändert empfohlen
+- TOP 9.2.11: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Gemeinschaftsgrundschule Ricarda-Huch-Straße 60, 51061 Köln, Bauteile A, B und D - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr.2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 10.2.4: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - Kenntnis genommen
+- TOP 10.2.5: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - Kenntnis genommen
+- TOP 10.2.6: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - Kenntnis genommen
+- TOP 10.2.7: Sachstandsbericht zu den RadPendlerRouten in Köln - Kenntnis genommen
+- TOP 10.2.8: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 10.2.9: Jahresbericht "Willkommen und Ankommen in Köln" 2024 - Kenntnis genommen
+- TOP 10.2.10: Mitteilung zum Beschluss „Abschlussbericht zur Stufe 1 des nachhaltigen Mobilitätsplans "Besser durch Köln" (SUMP)“ - Kenntnis genommen
+- TOP 10.2.11: Sachstandsmitteilung zur Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
+- TOP 10.2.12: Mitteilung über geplante Veröffentlichungen von Bebauungsplanentwürfen gemäß § 3 Absatz 2 BauGB während der ausschussfreien Zeit - Kenntnis genommen
+- TOP 10.2.13: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.01.2025 (AN/0131/2025) betreffend "Hochwasserschutz in Dünnwald" - Kenntnis genommen
+- TOP 10.2.14: Beleuchtung Parkplatz Stadthalle Mülheim - Kenntnis genommen
+- TOP 10.2.15: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 10.2.16: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 10.2.17: Forschungsbohrung in Köln Dellbrück - Kenntnis genommen
+- TOP 10.2.18: Radverkehrsförderung Wahlperiode 2020-2025 – Mülheim - Kenntnis genommen
+- TOP 10.2.19: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Einrichten einer Verkehrsinsel auf der Kreuzung 'Im Weidenbruch' und 'Thuleweg' in Köln Höhenhaus, Aktenzeichen: 159/24 - Kenntnis genommen
+- TOP 10.2.20: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 10.2.21: Schulstraße am Standort Horststraße in Köln-Mülheim - Kenntnis genommen
+- TOP 10.2.22: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - vertagt
+- TOP 10.2.23: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
