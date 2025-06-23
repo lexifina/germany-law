@@ -1,0 +1,62 @@
+# 32. Sitzung des Betriebsausschusses Gebäudewirtschaft
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-23T16:01:00+02:00
+- Ende: 2025-06-23T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31934
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31934
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01052546.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01052546.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01052546.pdf
+
+## Tagesordnung
+
+- TOP 1: Kulturbauten
+- TOP 1.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 22. Mai 2025 - Kenntnis genommen
+- TOP 1.2: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 28. Mai 2025 - Kenntnis genommen
+- TOP 1.3: Sachstandsbericht Generalinstandsetzung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 31.Mai 2025 - Kenntnis genommen
+- TOP 1.4: Sachstandsbericht zum Neubau Erweiterung Wallraf-Richartz-Museum und Fondation Corboud mit Neubau Blockrandbebauung für städtische Nutzflächen, Stand: 31. Mai 2025 - Kenntnis genommen
+- TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Beantwortung einer Nachfrage von RM Roß-Belkner aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich des Betriebshofs Zusestraße - Kenntnis genommen
+- TOP 2.2: Thurner Hof - Nutzung für Umweltbildung - Kenntnis genommen
+- TOP 2.3: Beantwortung einer Nachfrage von RM Kircher aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Vergabe zu den Interimsbauten für die Europaschule - Kenntnis genommen
+- TOP 2.4: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 2.5: Beantwortung einer mündlichen Nachfrage von RM Kircher und RM Oedingen aus der Sitzung vom 19.5.2025 bezüglich AN/0589/2025 Bereitstellung städtischer Dächer zur Errichtung privater Solaranlagen - Kenntnis genommen
+- TOP 2.6: Mündliche Nachfrage aus dem Ausschuss Schule und Weiterbildung vom 16.06. bezüglich Generalinstandsetzung der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen - Kenntnis genommen
+- TOP 2.7: Beantwortung einer mündlichen Anfrage von RM Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gesamtschule Lindenthal - vertagt
+- TOP 2.8: Beantwortung einer mündlichen Anfrage des Ratmitglieds Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 28. August 2023 zur ökologischen Baubegleitung - vertagt
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4.1: Bereitstellung städtischer Dächer zur Errichtung privater Solaranlagen - ungeändert beschlossen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Entscheidungen (Beschlussorgan Betriebsausschuss Gebäudewirtschaft)
+- TOP 7: Vorberatungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 7.1: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstraße 2 in 50765 Köln - ungeändert empfohlen
+- TOP 7.2: Bauliche Errichtung eines zweiten Rettungsweges und energetische Generalinstandsetzung der Grundschule im Süden, Godorfer Str. 29 - Planungsbeschluss - ungeändert empfohlen
+- TOP 7.3: Generalinstandsetzung der OGTS-Gebäude (Trakt C & D) sowie Teilsanierung der Trakte A, B und E der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen – Bedarfsfeststellungs- und Planungsbeschluss - ungeändert empfohlen
+- TOP 7.4: Neubau einer 2-zügigen Clustergrundschule mit Zweifeldsporthalle, Hausmeisterwohnung und Außenanlagen in der Friedensstraße durch die Kölner Schulbaugesellschaft mbH - Planungs- und Baubeschluss - vertagt
+- TOP 7.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln - vertagt
+- TOP 7.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Albert-Schweitzer-Schule und dem Heinrich-Heine-Gymnasium, Hardtgenbuscher Kirchweg 100, 51107 Köln - vertagt
+- TOP 7.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln - vertagt
+- TOP 7.8: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln - vertagt
+- TOP 7.9: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln - vertagt
+- TOP 7.10: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln - vertagt
+- TOP 7.11: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - vertagt
+- TOP 7.12: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - vertagt
+- TOP 7.13: Neubau eines Erweiterungsbaus in Modulbauweise, einer Einfachturnhalle, eines Erweiterungsbaus für die Mensa und Umbau von Fachräumen am Schulzentrum Ostheim, Hardtgenbuscher Kirchweg 100, 51107 Köln - vertagt
+- TOP 7.14: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - vertagt
+- TOP 7.15: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Gemeinschaftsgrundschule Ricarda-Huch-Straße 60, 51061 Köln, Bauteile A, B und D - vertagt
+- TOP 7.16: Planungsaufnahme und Baubeschluss zur Erstellung eines Erweiterungsbaus für die Gemeinschaftsgrundschule (GGS), Kettelerstraße 14, 50997 Köln-Meschenich - vertagt
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 26. Mai 2025 - Kenntnis genommen
+- TOP 8.2: Baubeschluss zur Dachsanierung inkl. Photovoltaikanlage und Begrünung sowie Planungsbeschluss zur Sanierung von Fassaden und Fenstern des Heinrich-Mann-Gymnasiums (exkl. 3-Feld-Sporthalle) in Köln-Chorweiler, Fühlinger Weg 4 - Kenntnis genommen
+- TOP 8.3: Umstellung auf G9 an den Kölner Gymnasien - Maßnahmenübersicht - Kenntnis genommen
+- TOP 8.4: Analyse und Optimierung der betrieblichen TGA-Performance im Bestand der Gebäudewirtschaft der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - Kenntnis genommen
+- TOP 8.6: Energiebericht 2024: Energieverbrauchs- und Kostenstatistik 2023 / Sachstand Energiemanagementkonzept 2024 - vertagt
+- TOP 8.7: Stellungnahme zum Antrag AN/0759/2025 bezüglich Fassadenbegrünung für Schulen als Klimaanpassungsmaßnahme und Lernort - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
