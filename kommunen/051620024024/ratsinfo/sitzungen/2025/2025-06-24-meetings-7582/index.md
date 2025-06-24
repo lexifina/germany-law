@@ -1,0 +1,62 @@
+# Bezirksausschuss I - Innenstadt
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-06-24T17:00:00+02:00
+- Ende: 2025-06-24T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/230
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7582
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7582
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00230076.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 1.1: Verpflichtung sachkundiger Bürger
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde
+- TOP -: Empfehlungen an Rat unter Beteiligungen der Bezirksausschüsse
+- TOP 4: Sanierung der Stützmauer am Erftmühlengraben - Platz am Niedertor - einstimmig zugestimmt
+- TOP 5: Sanierung der Bogenbrücke über den Nordkanal - einstimmig zugestimmt
+- TOP 6: Bergheimer Straße, Bushaltestelle Pomona: barrierefreier Umbau - einstimmig zugestimmt
+- TOP 7: Memeler Straße: Ausbau - einstimmig zugestimmt
+- TOP 8: An der Hammer Brücke, Bushaltestelle An der Hammer Brücke (Bedarfshaltestelle, FR Norden): barrierefreier Umbau - einstimmig zugestimmt
+- TOP 8.1: Grefrather Weg zwischen Eselspfad und Konrad-Adenauer-Ring: gegenläufiger Radweg auf der Nordseite, barrierefreier Ausbau der Haltestelle Hertzstraße und Überarbeitung der Querung Eselspfad - einstimmig zugestimmt
+- TOP 9: Deckenerneuerungsprogramm 2014, Teilaufhebung des Beschlusses vom 09.04.2024; Michaelstraße, Austausch vorhandenes Pflaster gegen Asphalt - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 9.1: Antrag der Mitglieder der CDU betr.: Einrichtung einer Einbahnstraßenreglung auf der Virchowstraße - beraten ohne Abstimmung
+- TOP 9.2: Antrag der Mitglieder von UWG/FW Neuss betr.: Einrichtung von Graffiti-Legalflächen im Stadtgebiet – Kooperation mit - verwiesen
+- TOP 9.3: Antrag der Mitglieder von UWG/FW Neuss betr.: Aufstellung geeigneter Müllbehälter für Pizzakartons in Startparks und stark frequentierten Grünanlagen - beraten ohne Abstimmung
+- TOP 9.4: Antrag der Mitglieder der CDU betr.: Prüfung der Ausweitung der Fahrzeiten der Buslinie 849 in den Abendstunden an Wochenenden - mehrheitlich zugestimmt
+- TOP 9.5: Antrag der Mitglieder der CDU betr.: Prüfung der Einrichtung eines Bolzplatzes auf der Lichtung am Stadtwald – Alternative Spielmöglichkeit für Kinder und Jugendliche - beraten ohne Abstimmung
+- TOP 9.6: Antrag der Mitglieder der CDU betr.: Prüfung zur Neuordnung der Busverkehre im Stadionviertel in Abstimmung mit den Stadtwerken - einstimmig zugestimmt
+- TOP 9.7: Antrag der Mitglieder der CDU betr.: Sauberkeit beginnt im Kleinen – Zustand städtischer Mülleimer verbessern - einstimmig zugestimmt
+- TOP 9.8: Antrag der Mitglieder der SPD betr.: Verbesserungen für den ehemaligen Spielplatz an der Röntgenstraße - beraten ohne Abstimmung
+- TOP 9.9: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Verbesserungen für die Bushaltestellen an der Rheydter Straße - einstimmig zugestimmt
+- TOP 9.10: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Prüfung kleinerer Verbesserungen für das Bahnhofsumfeld zur Landesgartenschau - beraten ohne Abstimmung
+- TOP 9.11: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Verbesserungen für den Neumarkt und Rheinwallgraben prüfen - beraten ohne Abstimmung
+- TOP 9.12: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Fahrradparkplatz für die Hermannstraße - einstimmig zugestimmt
+- TOP 9.13: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Verbesserungen für die Straße „Am Krausenbaum“ - beraten ohne Abstimmung
+- TOP 9.14: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Mehr Verkehrssicherheit im Umfeld der Bauerbahn prüfen - beraten ohne Abstimmung
+- TOP 9.15: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Dialog-Display auf der Friedrichstraße - beraten ohne Abstimmung
+- TOP 9.16: Antrag der Mitglieder von B90/Die Grünen betr.: Sichere Abstellmöglichkeiten für Fahrräder im Bereich Rheydter Straße / Kamilianerstraße / Klara-Fey-Straße - einstimmig zugestimmt
+- TOP 9.17: Antrag der Mitglieder der CDU betr.: Begrünung am Holzheimer Weg – Sachstand - beraten ohne Abstimmung
+- TOP 9.18: Antrag der Mitglieder der CDU betr.: Verbesserung von Ordnung, Sauberkeit und Sicherheit rund um das Nahversorgungs-zentrum Holzheimer Weg / Moselstraße unter Einbeziehung der laufenden Verkehrs-raumplanung - einstimmig zugestimmt
+- TOP 9.19: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Wochenmarkt in Neuss beleben und ausbauen - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 9.20: Anfrage des Stv. Kaumanns betr.: Schulparkplatz Nelly-Sachs-Gymnasium - zur Kenntnis genommen
+- TOP 9.21: Anfrage des Stv. Kaumanns betr.: Hotel Viktoria – Wer schützt die Nachbarn? - zur Kenntnis genommen
+- TOP 9.22: Anfrage des Stv. Kaumanns betr.: Unfallschwerpunkt Bergheimer Straße – Was tut die Stadt? - zur Kenntnis genommen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP 10: Bericht und Austausch
+- TOP -: Mitteilungen der Verwaltung
+- TOP 11: Vorgehensweise bei der Anpassung von Pflegeklassen - zur Kenntnis genommen
+- TOP 12: Ausbauplanung Kinderspielplatzprogramm 2025/26 - zur Kenntnis genommen
+- TOP 13: Fahrradquartiersgaragen im Gründerzeitviertel / Innenstadt - zur Kenntnis genommen
+- TOP 14: "Schulstraßen" - Sperrungen von Straßen für den Bring- und Abholverkehr; aktueller Sachstand - zur Kenntnis genommen
+- TOP 15: Ergebnisse von Verkehrsmessungen durch Dialog Displays - zur Kenntnis genommen
+- TOP 16: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 17: Einwohner*innenfragestunde
