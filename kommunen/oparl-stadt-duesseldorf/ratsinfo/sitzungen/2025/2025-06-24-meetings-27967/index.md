@@ -1,0 +1,58 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-24T17:00:00+02:00
+- Ende: 2025-06-24T18:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27967
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27967
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung der Bezirksvertretung 5 am 24. Juni 2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558113.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 5 am 24. Juni 2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558113.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 5 am 24. Juni 2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558113.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 29. April 2025 - öffentlicher Teil - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - mündlicher Bericht der Polizei
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Lantz´scher Skulpturenpark – kuratorisches Programm 2026 - Empfehlung mehrheitlich abgelehnt
+- TOP 14: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 15: Trödelmärkte auf dem Messeparkplatz P1 im 2. Halbjahr 2025 - einstimmig beschlossen
+- TOP 16: Kaiserswerther Kaiserfest im Jahr 2025 - einstimmig beschlossen
+- TOP 17: Haushaltsmittel 2025 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 18: Freigabe der Einbahnstraße Sankt-Göres-Straße zwischen Niederrheinstraße und Kaiserswerther Markt für Radfahrende im Gegenverkehr - vertagt
+- TOP 19: Verzögerungen bei der U81 – mangelhafte Einbindung des Stadtbezirks 5 - beantwortet
+- TOP 20: Keine Postfilialen mehr in Kaiserswerth und Wittlaer - vertagt
+- TOP -: Neue Anfragen
+- TOP 21: Geschwindigkeitsbeschilderung im Düsseldorfer Norden – hier Gerichtsschreiberweg und Zeppenheimer Straße - vertagt
+- TOP 22: Wann legt die Verwaltung einen Fahrplan für den Supermarkt in Angermund vor? - vertagt
+- TOP 23: Kein Bürgerhaus im Stadtbezirk 05 - beantwortet
+- TOP 24: Stellplatzschwund im Bezirk des Düsseldorfer Nordens - beantwortet
+- TOP 25: Kann die Mittelinsel des Kaiserswerther Marktes mit fest eingepflanzten Bäumen als alleinige Maßnahme versorgt werden? - vertagt
+- TOP 26: Veröffentlichung des Gutachtens der Kanalüberprüfung auf der Mittelinsel des Kaiserswerther Marktes - vertagt
+- TOP 27: Angermund: Nutzung und Zustand des Hauses Litzbrück - vertagt
+- TOP 28: U81: Maßnahmen zum Schutz des Stadtbildes - vertagt
+- TOP -: Anträge
+- TOP 29: Erhöhung der Sicherheit für Fußgänger und Radfahrer auf der Einbrunger Straße 4.0 - einstimmig beschlossen
+- TOP 30: Umgestaltung des Bereichs zwischen dem „Rheinbahnbüdchen“ /Bahnquerung der U79 und dem Klemensplatz-West für mehr Sicherheit, Lärmschutz, weniger Abgase und Förderung des Fuß- und Radverkehrs! - mehrheitlich abgelehnt
+- TOP 31: Ein Mobilitäts- und Parkplatzkonzept für den gesamten Ortskern Kaiserswerths - mehrheitlich abgelehnt
+- TOP 32: Ein Kaiserswerther Markt für alle – Machbarkeitsstudie für eine Quartiersgarage (Hochgarage) - mehrheitlich beschlossen
+- TOP 33: Förderung Buchprojekt „Juden in Kaiserswerth“ - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 34: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 35: Verschiedenes
+- TOP 36: Mehr Flächen für den Sport : Sportorganisatorisches Maßnahmenpaket - Empfehlung einstimmig beschlossen
