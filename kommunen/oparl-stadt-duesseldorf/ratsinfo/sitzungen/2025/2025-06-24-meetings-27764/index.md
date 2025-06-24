@@ -1,0 +1,87 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-24T16:00:00+02:00
+- Ende: 2025-06-24T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27764
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27764
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558116.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558116.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558116.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 25.03.2025 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 13.05.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft - zur Kenntnis genommen
+- TOP 5: Umbenennung des „Jürgensplatz" im Stadtbezirk 3 in „Edith-Fürst-Straße" und Benennung der Platzfläche vor dem Polizeipräsidium und dem Ministerium für Heimat, Kommunales, Bau und Digitalisierung in „Am Polizeipräsidium" - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Erarbeitung eines integrierten energetischen Quartierskonzepts für Friedrichstadt - einstimmig beschlossen
+- TOP 6.11: Bebauungsplan-Entwurf Nr. 03/007 - Westlich Hinter der Böck - mehrheitlich beschlossen
+- TOP 6.12: Bebauungsplan-Entwurf Nr. 03/031 - Nördlich Stromstraße - einstimmig beschlossen
+- TOP 6.13: Flächennutzungsplanänderung Nr. 158 (Entwurf) - Weizenmühlenstraße/Kesselstraße - einstimmig beschlossen
+- TOP 6.14: Flächennutzungsplanänderung Nr.182 (Entwurf) - Westlich Hinter der Böck - einstimmig beschlossen
+- TOP 6.15: Förderprojekt KreativRaum D - Teilbaustein Umsetzungsstrategie Zukunft Altstadt Innenstadt - einstimmig beschlossen
+- TOP 6.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.18: Antrag zum Bauwerksrückbau, Suitbertusstraße 74, 76 – Abbruch eines Garagenhofs - einstimmig beschlossen
+- TOP 6.19: Antrag zum Bauwerksrückbau, Binterimstraße 31 – Abbruch eines Wohn- und Geschäftshauses - einstimmig beschlossen
+- TOP 7: Verwaltungsvorlagen und -berichte
+- TOP 7.1: Völklinger Straße – verkehrsplanerische Begleitmaßnahmen zum Neubau des vierzügigen Luisengymnasiums mit Sporthalle (mdl. Bericht) - zur Kenntnis genommen
+- TOP 7.2: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - einstimmig beschlossen
+- TOP 7.3: Zentrenmanagements Friedrichstraße und Gumbertstraße - Temporäre Aufstellung eines Parklets - zur Kenntnis genommen
+- TOP 7.4: Zukunftsfähige Ausrichtung des Schulstandortes Bachstraße 8 - einstimmig beschlossen
+- TOP 7.5: Proberaum Benzenbergstraße: Zuwendung für Renovierung und Ausstattung - zur Kenntnis genommen
+- TOP 7.6: Errichtung der Fahrradstation Kopernikusstraße - einstimmig beschlossen
+- TOP 7.7: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - einstimmig beschlossen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2025 - einstimmig beschlossen
+- TOP 8.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorheriger Sitzung
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Quo vadis Litfaßsäulen - Warum steht Ihr immer im Weg rum? (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9.1.3: Verkehrssituation Höhenstr. – Kita St. Apollinaris, KGS Höhenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9.1.4: Situation und Planung der Pflegeplätze im Bezirk 03 (Anfrage SPD-Fraktion) - vertagt
+- TOP 9.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Baumaßnahmen Seeheimer Weg (Anfrage CDU-Fraktion) - vertagt
+- TOP 9.1.8: Sicherheit Radverkehr Im Liefeld (Anfrage CDU-Fraktion) - vertagt
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Taubenhäuser im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge
+- TOP 10.1: Qualifizierung der Straßenbahnhaltestelle und der südlichen Seite des Gehwegs Fährstraße vor Eröffnung des Luisen-Gymnasium (Antrag CDU-Fraktion) - zurückgezogen
+- TOP 10.2: Prüfantrag zur Verbesserung der Verkehrssituation an der Sportanlage Sparta Bilk, Düsseldorf-Hamm (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Verkehrssicherheit auf der Fährstraße im Bereich des Vereins Sparta Bilk und Schulwegsicherheit zum neuen Luisen-Gymnasium (Antrag BÜNDNIS 90/DIE GRÜNEN) - abweichend beschlossen
+- TOP 10.5: Lessingplatz – Gesamtkonzept (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 10.6: Lessingplatz – Gebäudesanierungen (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 10.7: Standorte für zusätzliche Trinkbrunnen im Stadtbezirk 3 (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN, CDU) - abweichend beschlossen
+- TOP 10.8: Kauf eines Parklets für den Stadtbezirk 3 (Antrag BÜNDNIS 90/DIE GRÜNEN) - mehrheitlich abgelehnt
+- TOP 10.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Vierte Florabar am Lessingplatz – Erweiterung der geplanten Nutzflächen - zur Kenntnis genommen
+- TOP 11.2: Völklinger Straße – verkehrsplanerische Begleitmaßnahmen zum Neubau des vierzügigen Luisengymnasiums mit Sporthalle - zur Kenntnis genommen
+- TOP 11.3: Erna-Eckstein-Straße – zusätzliche Verkehrsberuhigungsmaßnahmen - zur Kenntnis genommen
+- TOP 11.4: Wochenmarkt Kirchplatz - zur Kenntnis genommen
+- TOP 11.5: Leipziger Kombispur Martinstraße - zur Kenntnis genommen
+- TOP 11.6: Mitteilung der Verwaltung zum Sachstand der Planung Radverkehrsführung Knotenpunkt Neusser Straße - zur Kenntnis genommen
+- TOP 12: Mitteilungen des Bezirksbürgermeisters
