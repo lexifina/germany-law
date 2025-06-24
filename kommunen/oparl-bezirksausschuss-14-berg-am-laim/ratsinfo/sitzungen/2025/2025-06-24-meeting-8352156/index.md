@@ -1,0 +1,102 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-06-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352156
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352156
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 27.05.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 27.05.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Verhinderung des Parkens auf der Grünfläche bei der Mühldorfstr. 39
+- TOP 2.2.: (E) Bedarf und Angebote der pflegerischen Versorgung in Berg am Laim
+- TOP 2.3.: (E) Kasten für Sandspielzeug an mehreren Spielplätzen in Berg am Laim
+- TOP 2.4.: (E) Neue Abwägung des Themas erhöhte Grundwasserstände bei den von Grundwasserhochständen betroffenen bestehenden Bebauungsplänen und neuen Bauleitplänen
+- TOP 2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Siegsdorfer Str. 9a - Neubau einer Wohnbebauung mit Tiefgarage sowie Rückbau des Bestandes- VORBESCHEID
+- TOP 3.1.2.: Piusstr. 20 - Neubau einer Wohnanlage mit Kindertagesstätten, Mobility Hub, Gemeinschaftsflächen und Tiefgarage - VORBESCHEID
+- TOP 3.1.3.: St.-Veit-Str. 4 - Timber Living - Errichtung eines Holzhybridbaus mit Wohnungen, KiTa, Einzelhandel und Tiefgarage
+- TOP 3.1.4.: Buchbacher Str. 10 - Neubau eines Mehrfamilienhauses mit einer Tiefgarage - VORBESCHEID
+- TOP 3.1.5.: Konzeptvorschlag für den Urbaner Waldgarten
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Ludwig-Jung-Straße - dauerhaftes Halteverbot am Ostteil der Feuerwache 5; Anhörung des Mobilitätsreferats, Frist bis zum 11.07.2025
+- TOP 3.2.2.: Tempo 30 in der Friedenstraße im Umfeld der Zebrastreifen; Anhörung des Mobilitätsreferats, Frist bis zum 14.07.2025
+- TOP 3.2.3.: Wildenwarter Straße - Einrichtung eines personenbezogenen Parkplatzes; Anhörung des Mobilitätsreferats, Frist bis zum 25.06.2025
+- TOP 3.2.4.: Sanierung der Fahrbahnen am Leuchtenbergring und Innsbrucker Ring zwischen der Einsteinstraße und der Mühldorfstraße; Anhörung des Baureferats
+- TOP 3.2.5.: Unterstützung bei der Nachnutzung einer langfristig leerstehenden Gewerbefläche an der Ecke Berg-am-Laim-/ Ampfingstraße; Antrag der CSU-Fraktion
+- TOP 3.2.6.: Anwohnerparken im Technischen Rathaus ermöglichen; Antrag der CSU-Fraktion
+- TOP 3.2.7.: Verkehrssituation in der Jella-Lepman-Str. (Kreuzung St.-Veit-Str.); Anliegen aus der Bürgerschaft
+- TOP 3.2.8.: Parksituation in der Großvenedigerstr.; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Entwurf der Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht 2025; Konsolidierung 2028ff; Anhörung des Referats für Bildung und Sport
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget ICOYA e. V. 20 Jahre ICOYA - Tag der offenen Tür am 12.09.2025 2.000,00 €, Az. 0262.0-14-0455 - vertagt aus der Plenumssitzung vom 27.05.2025 -
+- TOP 3.5.2.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025, zwischen 9 und 20 Uhr. Bei Schlechtwetter: Ausweichtermin 1.600,00 €; Az. 0262.0-14-0459
+- TOP 3.5.3.: (E) Stadtbezirksbudget AKA e. V. BLOCK PARTY am 11.07.2025 1.000,00 €; Az. 0262.0-14-0460
+- TOP 3.5.4.: Einbeziehung der Bezirksausschüsse vor der Umsetzung von in Foren bzw. Plattformen vorgeschlagenen verkehrsrechtlichen Anordnungen und baulichen Maßnahmen; Anhörung des Direktoriums
+- TOP 3.5.5.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen; Anhörung des Direktoriums
+- TOP 3.5.6.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung; Anhörung des Direktoriums
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Gratlspitzstr. 5
+- TOP 3.6.2.: Piusstr. 20
+- TOP 3.6.3.: Hansjakobstr. 47 - 53
+- TOP 3.6.4.: Josephsburgstr. 120
+- TOP 3.6.5.: Josephsburgstr. 120a
+- TOP 3.6.6.: St.-Veit-Str. 4
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Mai 2025
+- TOP 4.1.2.: 49. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2025
+- TOP 4.1.3.: Öffentliche Toilette am neuen „Campus-Spielplatz“ im Echardinger Anger
+- TOP 4.1.4.: Aufstellen eines Mülleimers an der U-Bahn Haltestelle Josephsburg
+- TOP 4.1.5.: Aktueller Sachstand der Planungen für das Kulturbürgerhaus und des Kräutergartens in Berg am Laim
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Zweite Programmanpassung von "Wohnen in München VII" A) Reaktion auf den Ausfall der staatlichen Mittelzuweisung für die Einkommensorientierte Förderung durch die Landeshauptstadt München: Einführung einer kommunalen Einkommensorientierten Förderung (EOF) B) und C) Stadtratsanträge
+- TOP 4.2.2.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2025 bis 2045 für die Sadtbezirke
+- TOP 4.2.3.: (U) Demografiebericht München- Teil 1 Analyse 2024 und Bevölkerungsprognose 2025 bis 2045 für die Landeshauptstadt
+- TOP 4.2.4.: Fahrradstraße Hachinger-Bach-Straße mit Zusatzschild „Kraftfahrzeuge frei“ ergänzen
+- TOP 4.2.5.: Standortanzeige zum Neubau einer Mobilfunksendeanlage
+- TOP 4.2.6.: Erweiterung einer bestehenden Mobilfunksendeanlage
+- TOP 4.2.7.: (U) Kein Ausverkauf des Münchner Stadtbildes
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfül-lung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 31.03.2025
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Aufstellen eines Christbaums an der Baumkirchner Straße
+- TOP 4.5.2.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.3.2: Veranstaltung im Freien in einer städtischen Grünanlage: „Blockparty" am 11.07.2025 im Echardinger Grünstreifen; Anhörung des Kreisverwaltungsreferats, Frist bis zum 07.07.2025
+- TOP 3.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage: „Blockparty" am 11.07.2025 im Echardinger Grünstreifen; Anhörung des Kreisverwaltungsreferats, Frist bis zum 07.07.2025
+- TOP 1.1.2.: Nachtrag TOP 3.3.3: Veranstaltung im Freien in einer städtischen Grünanlage: „Fahrradsicherheitschecks" am 20.10.2025 am Grünen Markt; Anhörung des Kreisverwaltungsreferats, Frist bis zum 25.06.2025
+- TOP 2.5.: Einführung eines/einer Tierschutzbeauftragten im BA 14
+- TOP 3.3.3.: Veranstaltung im Freien in einer städtischen Grünanlage: „Fahrradsicherheitschecks" am 20.10.2025 am Grünen Markt; Anhörung des Kreisverwaltungsreferats, Frist bis zum 25.06.2025
+- TOP 1.1.3.: Nachtrag TOP 3.1.6: Straßenlampen vorübergehend aufgrund von Glühwürmchen abschalten; Antrag der Grünen-Fraktion
+- TOP 3.1.6.: Straßenlampen vorübergehend aufgrund von Glühwürmchen abschalten; Antrag der Grünen-Fraktion
+- TOP 3.5.7.: (E) Stadtbezirksbudget AKA e. V. BLOCK PARTY am 11.07.2025 1.000,00 €; Az. 0262.0-14-0460
