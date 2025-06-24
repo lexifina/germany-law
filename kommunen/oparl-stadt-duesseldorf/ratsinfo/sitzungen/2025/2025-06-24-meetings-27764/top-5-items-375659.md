@@ -1,0 +1,8 @@
+# TOP 5: Umbenennung des „Jürgensplatz" im Stadtbezirk 3 in „Edith-Fürst-Straße" und Benennung der Platzfläche vor dem Polizeipräsidium und dem Ministerium für Heimat, Kommunales, Bau und Digitalisierung in „Am Polizeipräsidium"
+
+- Sitzung: Bezirksvertretung 3 (2025-06-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/375659
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/134597
