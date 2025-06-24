@@ -1,0 +1,27 @@
+# Verkehrsentwicklungskonzept Stadt Bad Pyrmont - Vorstellung und Zustimmung zum Konzept
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 60/2025 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-06-24
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZeaYZXoaU7yjGulHI20ZqsU
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/11318
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Verkehrsentwicklungskonzept Stadt Bad Pyrmont - Vorstellung und Zustimmung zum Konzept) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbHeP_erhPmP3zjh9vXIhvo0Yjv44Gf99zYWO_E_CwyB/Beschlussvorlage_60-2025_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Präsentationsfolien Ausschuss) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdxdXVC9e-m_a9O3VSGqh0RIEpKdFPZ6RyLfzY3VoaSW/Praesentationsfolien_Ausschuss.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Bericht) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjpVOSale_DVIaIiWWt353VXaGyDEFxdOY2sl7PEEpE/INOVAPLAN_Bericht.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Protokoll Anlage 1.1) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT3r0OzYcT7r7IqTCgcPCpBOn9Hs_FT1uiGVNkEu9jnp/INOVAPLAN_Protokoll_Anlage_1.1.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Protokoll Anlage 1.2) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSmtcQwbytEIxzEfJbgzXrnDvsNBtFLZaikquSdqFmJ1/INOVAPLAN_Protokoll_Anlage_1.2.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Protokoll Anlage 1.3) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfLEdA3CICdJ5ZY6z1ZfZrknBguOByK2uJS7LDtZBsmX/INOVAPLAN_Protokoll_Anlage_1.3.pdf
+- Anlage: Beschlussvorlage (Aufbereitete Befragungsergebnisse Anlage 2) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV-bxGpT-6zMpvSXOkhRoUfSMhyY3_6bOmeWAkM1kZM8/Aufbereitete_Befragungsergebnisse_Anlage_2.pdf
+- Anlage: Beschlussvorlage (Stärken-Schwächen-Analyse VEK Bad Pyrmont Anlage 3) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdD_NCVu1jVpsMagI-rxS-6AF_U6HzcE-8GlDyUlhwMa/Staerken-Schwaechen-Analyse_VEK_Bad_Pyrmont_Anlage_3.pdf
+- Anlage: Beschlussvorlage (Anlage 4.1 – Übersichtskarte Maßnahmen Sanierungsgebiet) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV_KG6U1K8Z9pxjV2kIe1uZHGIJ3kB9hN4P07HqpvbX8/Anlage_4.1_---_Uebersichtskarte_Massnahmen_Sanierungsgebiet.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Anlage 4.2) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfDnvMiXdcHtmSovXYYMIfEecss55u4mYuGnS7N5dUEx/INOVAPLAN_Anlage_4.2.pdf
+- Anlage: Beschlussvorlage (Vertiefung 2 Anlage 4.3) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ90Ho1VInZ6fbTaonqhnovSoDJMgypVSY0M2gdrgiWy/Vertiefung_2_Anlage_4.3.pdf
+- Anlage: Beschlussvorlage (Vertiefung 3 Anlage 4.4) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ4d6uzt9zku8hDvO6nV00VnqYWEnTA-KAiBTVaAre5l/Vertiefung_3_Anlage_4.4.pdf
+- Anlage: Beschlussvorlage (Vertiefung 4 Anlage 4.5) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYAqAVGCWNR9setlUy-hM3CTJtGax_DH6dHlfs9aLSth/Vertiefung_4_Anlage_4.5.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Anlage 4.6) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZciTCEpMcXBn6P1Dfkxh1Lc-KQdbqStJxOmV6p-u5O0e/INOVAPLAN_Anlage_4.6.pdf
+- Anlage: Beschlussvorlage (Anlage 4.7 – Standortplanung dynamisches Parkleitsystem) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVvSX8O3ZH8zSSXyOi-398S1FnZyqCPqspFrpIRjG8Fh/Anlage_4.7_---_Standortplanung_dynamisches_Parkleitsystem.pdf
+- Anlage: Beschlussvorlage (INOVAPLAN Steckbriefe Anlage 4.8) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYOWyJnkDTeASP2WRlaLYxGyk7HA5H8EgChCI-9VUF6q/INOVAPLAN_Steckbriefe_Anlage_4.8.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/21027 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-201
