@@ -1,0 +1,55 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-24T17:05:00+02:00
+- Ende: 2025-06-24T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14105
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14105
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Entwurf Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00572944.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Einbringen von Eingaben
+- TOP 5: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 6: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 6.1: Igel besser vor Mährobotern schützen - mehrheitlich beschlossen
+- TOP 6.2: Schaltzeiten adaptive Beleuchtung Kanalpromenade - vertagt
+- TOP 6.3: Klimaneutrale Verwaltung - von der Tagesordnung abgesetzt
+- TOP 6.4: Smart City Münster: Sachstandsbericht 2025 - zur Kenntnis genommen
+- TOP 6.5: Weiterentwicklung der Grünordnung Münster zur "Grünordnung 2.0" – Grundsatzbeschluss und Beauftragung der Verwaltung zur Prüfung von Fördermöglichkeiten - mehrheitlich beschlossen
+- TOP 6.6: Widerspruch des Naturschutzbeirates zu einer Befreiung nach § 67 BNatSchG - mehrheitlich abgelehnt
+- TOP 6.7: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - einstimmig geändert beschlossen
+- TOP 6.8: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 6.9: Planungen Generalsanierung Sporthalle Berg Fidel - von der Tagesordnung abgesetzt
+- TOP 6.10: Baubeschluss - Neubau der Feuer- und Rettungswache 3 in Münster-Hiltrup - einstimmig beschlossen
+- TOP 6.11: Bebauungsplan Nr. 655 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.12: 119. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 630 - Geänderter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.13: 134. FNP-Änderung - Beschluss zur Änderung - VBP Nr. 650 - Beschluss zur Aufstellung [Klinkermanufaktur Janinhoff] - einstimmig beschlossen
+- TOP 6.14: 127. Änd. FNP - Änderung - Bebauungsplan Nr. 639 - Aufstellung - mehrheitlich beschlossen
+- TOP 6.15: Bericht zum aktuellen Stand und dem Vorgehen zur Aktualisierung der Gebäudeleitlinien (GLL) der Stadt Münster - zur Kenntnis genommen
+- TOP 6.16: Schulentwicklungsplan 2025 - einstimmig beschlossen
+- TOP 6.17: Erweiterung der Mosaik-Schule in Münster zur Vierzügigkeit; - einstimmig beschlossen
+- TOP 6.18: Baubeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs - einstimmig beschlossen
+- TOP 6.19: Erweiterung des Schulzentrums Hiltrup für die Umstellung auf G9 auf Basis des Grundsatzbeschlusses V/0427/2020/1 - ohne Beschlussfassung geschoben
+- TOP 6.20: Baulicher Errichtungsbeschluss Gesamtschule Münster-Südost - mehrheitlich beschlossen
+- TOP 6.21: Errichtungsbeschluss Sechsfachsporthalle am Hans-Böckler-Berufskolleg - einstimmig beschlossen
+- TOP 6.22: Energetische Sanierung des Schulgebäudes des Hans-Böckler-Berufskollegs, Hoffschultestraße 25, 48155 Münster - einstimmig geändert beschlossen
+- TOP 6.23: Erweiterung des Schulzentrums Wolbeck -Neubaugebäude- - einstimmig beschlossen
+- TOP 6.24: Errichtung Erweiterungsneubau und Fertigbauklassen GSMW - einstimmig beschlossen
+- TOP 6.25: Baubeschluss zur baulichen Erweiterung des Annette-von-Droste-Hülshoff Gymnasiums für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 6.26: Baubeschluss Erweiterung und Sanierung Kulturzentrum Hoppengarten - einstimmig beschlossen
+- TOP 6.27: Baubeschluss 2 Gruppen-Kita am Hoppengarten - mehrheitlich geändert beschlossen
+- TOP 6.28: Baubeschluss für die Sanierung der Sozialunterkunft Dammstraße 1 und 3 - einstimmig beschlossen
+- TOP 6.29: Theater Münster - Erneuerung der Brandmeldeanlage - Baubeschluss - einstimmig beschlossen
+- TOP 6.30: Werse Sudmühle - Ökologische Verbesserung der Werse durch den Bau eines - einstimmig geändert beschlossen
+- TOP 6.31: Kapitelstraße - Baubeschluss Kanalbau - einstimmig beschlossen
+- TOP 6.32: Gertrudenstraße - einstimmig beschlossen
+- TOP 6.33: Robert-Bosch-Straße - Siemensstraße bis Bahnübergang - einstimmig beschlossen
+- TOP 7: Verschiedenes
