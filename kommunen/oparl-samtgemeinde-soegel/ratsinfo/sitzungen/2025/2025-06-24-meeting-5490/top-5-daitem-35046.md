@@ -1,0 +1,7 @@
+# TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Gemeinderat Spahnharrenstätte (58. Sitzung) (2025-06-24)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/35046
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
