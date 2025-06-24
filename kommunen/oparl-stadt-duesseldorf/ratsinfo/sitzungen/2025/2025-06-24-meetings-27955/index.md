@@ -1,0 +1,66 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-24T17:00:00+02:00
+- Ende: 2025-06-24T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27955
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27955
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung der BV 7 am 24.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558377.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung der BV 7 am 24.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558377.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung der BV 7 am 24.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558377.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 10.06.2025 eingegangene Fragen - beantwortet
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen Niederschrift vom 27.05.2025 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Errichtung der Mobilitätsstation Apostelplatz im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-NSM) - zurückgezogen
+- TOP 4.2: Fernwärme-Ausbau Rotthäuser Weg / Grünanlage Heinrich-Könn-Straße - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.3: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Errichtung einer Mountainbike-Trailanlage im Düsseldorfer Stadtwald - Aufhebung des Sperrvermerkes für die Finanzmittel für das Jahr 2025 - zur Kenntnis genommen
+- TOP 4.8: Zuschuss an Borussia Düsseldorf e.V. - einstimmig beschlossen
+- TOP 4.9: Sportanlage Staufenplatz 10 (DTV) - Umbau Tennenlaufbahn in Kunststoff - - einstimmig beschlossen
+- TOP 4.10: Zuschuss an den Polizei-Sport-Verein Düsseldorf e.V. - einstimmig beschlossen
+- TOP 4.11: Weihnachtsmarkt auf dem Gerricusplatz im Jahr 2025 - einstimmig beschlossen
+- TOP 4.12: Weiterentwicklung der Wochenendöffnung von Stadtbüchereien - zur Kenntnis genommen
+- TOP 4.13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.14: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 4.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anträge
+- TOP 5.1: Überprüfung des Konzepts zum ruhenden Verkehr am Apostelplatz - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 5.2: Schutzstreifen entlang des Fußwegs am Schützenplatz - interfraktioneller Antrag - - abweichend beschlossen
+- TOP 5.3: Verkehrsberuhigung und eventueller Einrichtung einer Fahrradzone im Quartier Schönau-/Heye-/Sichelstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.4: Verkehrsberuhigung im Bereich Märkische Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.5: Errichtung einer Radfurt auf der Morper Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Geschwindigkeitskontrolle auf der Torfbruchstraße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.7: Zeitplan und Anliegerbeteiligung zur Sanierung des Kanalsystems Bergische Landstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.8: Situation für Fahrradfahrende am Verkehrsknoten Morper Straße/Heyestraße/ Torfbruchstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Verbesserungen Tunnel Staufenplatz - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Radverkehrsführung am Knotenpunkt Torfbruch-/Dreherstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7.2: Stand der Planung zur Personenunterführung am Gerresheimer Bahnhof - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7.3: Angebote für Jugendliche in Knittkuhl - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 8.2: Sitzungstermine der Bezirksvertretung 7 im Jahr 2026 - zur Kenntnis genommen
+- TOP 8.3: Wickeltische auf Kinderspielplätzen - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.4: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.5: Sicherheit im Tunnel Bhf Gerresheim Süd - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.6: Wiederherstellung des Straßenbelages Ottostraße - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - zur Kenntnis genommen
