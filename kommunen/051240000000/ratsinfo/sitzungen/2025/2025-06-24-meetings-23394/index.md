@@ -1,0 +1,70 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-06-24T16:00:00+02:00
+- Ende: 2025-06-24T17:40:00+02:00
+- Ort: Rathaus, Ratsaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23394
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23394
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Baustellensituation Stadt
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 6: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 18.03.2025 - Sachstand zur Einrichtung von Radwegen auf der Friedrich-Engels-Allee (B 7) - Entgegennahme ohne Beschluss
+- TOP 6.1: Antwort zur Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 18.03.2025 - Sachstand zur Einrichtung von Radwegen auf der Friedrich-Engels-Allee (B 7) - Entgegennahme ohne Beschluss
+- TOP 7: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.05.2025 - Aktuelle Situation und Weiterentwicklung der Nordbahntrasse - Entgegennahme ohne Beschluss
+- TOP 7.1: Antwort zur Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.05.2025 - Aktuelle Situation und Weiterentwicklung der Nordbahntrasse - Entgegennahme ohne Beschluss
+- TOP 8: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.05.2025 - Vorgezogene Haltelinie Haltestelle Schwebebahn - ungeändert beschlossen
+- TOP 9: Antrag der CDU Fraktion vom 19.03.2025 - Verbesserung des Gehweges „In den Birken“ ab Katernberger Schulweg bis zur Kreuzung „Aprather Weg“ - ungeändert beschlossen
+- TOP 10: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.05.2025 - Hochstraße sicherer machen - geändert beschlossen
+- TOP 11: Gemeinsamer Antrag der BV Langerfeld-Beyenburg vom 02.06.2025 - Maßnahmen zur Reduzierung der Geschwindigkeit und Überwachung der Einhaltung des Rotlichts auf der Kohlenstraße (Höhe T-Kreuzung Windhukstraße) - geändert beschlossen
+- TOP 12: Antwort zum Gemeinsamen Antrag der Fraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und Linkes Bündnis Wuppertal vom 18.03.2025 - Gehwegabsenkungen an Grundstückszufahrten - Entgegennahme ohne Beschluss
+- TOP 13: Einzelne Änderungen im ÖPNV gemäß des Nahverkehrsplans - Entgegennahme ohne Beschluss
+- TOP 14: Verkehrliche Untersuchung Am Diek / Vor der Beule - ungeändert beschlossen
+- TOP 15: Freigabe von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich der Bergischen Universität - Entgegennahme ohne Beschluss
+- TOP 16: Anlage einer Abbiegetasche in den Eskesberg sowie eines Radfahrstreifens am Otto-Hausmann-Ring - ungeändert beschlossen
+- TOP 17: Radwegeverbindung Nordbahntrasse - Otto-Hausmann-Ring - ungeändert beschlossen
+- TOP 18: Umsetzung Talachsenradweg: Abschnitt Wartburgstraße/Farbmühle - geändert beschlossen
+- TOP 19: Planung zweier Fahrradstraßen auf den Südhöhen (Abschnitt zwischen Auf der Königshöhe und der Cronenberger Straße) - ungeändert beschlossen
+- TOP 20: Außengastronomie auf Parkflächen - Friedrich-Ebert-Str. 268 - abgelehnt
+- TOP 21: Neuregelungen der StVO und VwV zu Geschwindigkeitsbeschränkungen (Tempo 30) - Entgegennahme ohne Beschluss
+- TOP 22: Einrichtung einer Tempo 30-Strecke auf der Lüttringhauser Straße - ungeändert beschlossen
+- TOP 23: Einrichtung einer Tempo-30-Strecke auf der Höhenstraße - vertagen
+- TOP 24: Reduzierung der Höchstgeschwindigkeit auf 70 km/h auf der Straße Wahlert - ungeändert beschlossen
+- TOP 25: Umbau der Hatzfeldtrasse - ungeändert beschlossen
+- TOP 26: Gehwegausbau Nordbahntrasse Benrather Straße und Errichtung einer adaptiven Beleuchtung - ungeändert beschlossen
+- TOP 27: Entwicklungen im Bereich des Mirker Bahnhofs - Entgegennahme ohne Beschluss
+- TOP 28: Parkraumkonzept Nordstadt und Luisenviertel: Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 29: Aktualisierte Fassung der Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4 - geändert beschlossen
+- TOP 29.1: Fortschreibung des Lärmaktionsplanes Wuppertal der Runde 4 - abgelehnt
+- TOP 29.2: Änderungsantrag der SPD- Fraktion vom 24.06.2025 zur Aktualisierten Fassung der Fortschreibung des Lärmaktionsplanes (Tischvorlage) - ungeändert beschlossen
+- TOP 30: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - ungeändert beschlossen
+- TOP 31: Brücke Fischertal - Ersatz Stahl-Überbau durch Provisiorium (Rohrbrücke WSW) - ungeändert beschlossen
+- TOP 32: GS Kurt-Schumacher-Straße - Einrichtung Elternhaltestellen sowie Walkingbus-Haltestelle - ungeändert beschlossen
+- TOP 33: Bebauungsplan Nr. 1241/2A - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 34: Bebauungsplan Nr. 1234, Rädchen-Süd - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 35: Ersatzneubau der Brücke Kirchhofstraße, Zeitplan - ungeändert beschlossen
+- TOP 36: Nützenberger Straße - Grundhafte Erneuerung im Zuge von WSW Arbeiten - ungeändert beschlossen
+- TOP 37: Instandsetzungsmaßnahme Nevigeser Straße (unterer Teil) - ungeändert beschlossen
+- TOP 37.1: Straßensanierung mit Förderun gdes Radverkehrs - zurückgezogen
+- TOP 38: Finanzierung der Instandsetzungsmaßnahme Vogelsangstraße - ungeändert beschlossen
+- TOP 39: Fahrbahnsanierung Kreuzungsbereich "Sonnborner Ufer" und "Rutenbecker Weg" - ungeändert beschlossen
+- TOP 40: Sanierungsmaßnahme Westfalenweg - ungeändert beschlossen
+- TOP 41: Straßensanierungsmaßnahme "Nevigeser Straße" in Richtung Neviges - ungeändert beschlossen
+- TOP 42: Sanierungsmaßnahme Vohwinkeler Straße - ungeändert beschlossen
+- TOP 43: Sanierungsmaßnahme Hahnerberger Straße in Teilabschnitten - ungeändert beschlossen
+- TOP 44: Sanierungsmaßnahme Gennebrecker Straße im Teilabschnitt "Olga-Heubeck-Weg" bis "Schimmelsburg" - ungeändert beschlossen
+- TOP 45: Sanierungsmaßnahme Schubertstraße und Lönsstraße in Teilabschnitten - ungeändert beschlossen
+- TOP 46: Sanierung Stützmauer Clausenstraße - ungeändert beschlossen
+- TOP 47: Fortsetzung Sanierung der Futtermauern im Einschnitt Bramdelle NBT - ungeändert beschlossen
+- TOP 48: Kostenneufestsetzung "Neugestaltung Alte Freiheit- Poststraße- Kerstenplatz" - ungeändert beschlossen
+- TOP 49: Grundsatzbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 50: Ladeinfrastrukturkonzept - ungeändert beschlossen
+- TOP 51: Bürgerantrag gemäß § 24 GO NRW - Tempo 30 im Fischertal - ungeändert beschlossen
