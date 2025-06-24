@@ -1,0 +1,59 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-24T14:05:00+02:00
+- Ende: 2025-06-24T16:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31753
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31753
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation PROFIS FÜR SPRACHLICHE VIELFALT- Bilanz und Agenda zur Evaluation der Mehrsprachigkeit in städtischen Kindertageseinrichtungen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kölner Flüchtlingsrat e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Verteilung der Finanzmittel für die Angebote der interkulturellen Familienbildung sowie für Schulungen zur interkulturellen Kompetenz für Jugendleiter*innen in Jugendeinrichtungen für die Haushaltsjahr 2025 und 2026 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Bürgereingabe nach § 24 GO – „Kommunale Spielraumplanung - Zielerfüllungsquoten - "Netto"- qm² beachten“, Aktenzeichen 36/25 - geändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung der Grünanlage und Spielfläche Im Forst in Köln-Poll - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Weiterführung des Angebots „Plan27“ – Zugehende Hilfe für junge Menschen mit psychischen Problemen bis 27 Jahre und Aufhebung des Ratsbeschlusses vom 03.04.2025 (Vorlage: 0716/2025) - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Unbesetzte Stelle der Bezirksjugendpflege Chorweiler - vertagt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Jahresbericht 2024 Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Jugendforum NRW auf der gamescom 2025 - Kenntnis genommen
+- TOP 8.4.2: Entwicklung eines neuen Informationsschildes für die Kölner Spiel-, Bolz- und Aktionsflächen - Kenntnis genommen
+- TOP 8.4.3: Gesamtstädtisches Medienkonzept für die Kinder- und Jugendförderung - Maßnahme M 2.1. aus dem Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 8.4.4: Update aus dem Kooperativen Kinder- und Jugendbüro: Rückblick 1. Halbjahr 2025 und Ausblick 2. Halbjahr 2025 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: 3. Quartalsbericht 2024 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 8.5.2: Schriftliche Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Folgen aus dem Gewalthilfegesetz" - Kenntnis genommen
+- TOP 8.5.3: Sachstände der Arbeitsgruppen des Kommunalen Integrationsmanagements (KIM) zu aktuellen rechtskreisübergreifenden Themen und Prozessen - Kenntnis genommen
+- TOP 8.5.4: Live-Streaming der Sitzung des Jugendhilfeausschusses am 24.06.2025 - Kenntnis genommen
+- TOP 8.5.5: Offene Ganztagsschule im Primarbereich - Aktuelle Informationen im Hinblick auf die Realisierung des Anspruchs auf ganztägige Betreuung - Kenntnis genommen
+- TOP 8.5.6: Beschluss des Gleichstellungsausschusses betreffend "Identitätsfindung in der Grundschule – Ein Beitrag zur Gleichstellung in der Zukunft" - Kenntnis genommen
+- TOP 8.5.7: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 8.5.8: Zuschuss freie Jugendhilfe (Globalmittel) - Kenntnis genommen
