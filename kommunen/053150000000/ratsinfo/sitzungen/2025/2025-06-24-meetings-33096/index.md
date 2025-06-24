@@ -1,0 +1,97 @@
+# 45. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-24T16:03:00+02:00
+- Ende: 2025-06-24T20:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33096
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33096
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Aktuelle Stunde: Sichere Schulwege für alle Kinder in Köln – spürbare Verbesserungen bis zum Schulstart 2025/26 erreichen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag des SE Fahlenbock vom 04.06.2025 betr. barrierefreien Umbau der Haltestellen der Linie 13 - geändert beschlossen
+- TOP -: Änderungsantrag zu den TOP 1.1 Barrierefreier Umbau der Haltestellen der Linie 13 - geändert beschlossen
+- TOP 1.2: Neue Fußverkehrszonen für Köln - ungeändert beschlossen
+- TOP 1.3: Erhöhung der Sicherheit von Fußgängerinnen und Fußgängern in Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 1.3, Erhöhung der Sicherheit von Fußgängerinnen und Fuß-gängern in Köln - ungeändert beschlossen
+- TOP 1.4: Radpendlerroute statt Radschnellweg Köln-Frechen - vertagt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.2, Beschlussvorlage 3789/2024 - Erweiterter Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße im Stadtbezirk Porz zwischen Berliner Str. / Helenenstr. und Friedrich-Ebert-Ufer - geändert beschlossen
+- TOP -: Stellungnahme zum Änderungsantrag der Gruppe Klimafreunde und Gut vom 23.01.2025 - Kenntnis genommen
+- TOP 3.2: Baubeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - ungeändert beschlossen
+- TOP 3.3: Planung der RadPendlerRoute 5: Köln Innenstadt – Bezirk Rodenkirchen – Brühl / Wesseling - ungeändert beschlossen
+- TOP 3.4: Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße zwischen Rolshover Straße und Kapellenstraße in Kalk – Reduzierung der Planungsvarianten - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.4 (1257/2025) - Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße zwischen Rolshover Straße und Kapellenstraße in Kalk – Reduzierung der Planungsvarianten - ungeändert empfohlen
+- TOP 3.5: Stadtbahnvorhaben Köln-Bergheim-Niederaußem - Bedarfsfeststellungsbeschluss zur Mitfinanzierung einer Machbarkeitsstudie zur Verlängerung der Stadtbahnlinie 4 des Rhein-Erft-Kreises - ungeändert beschlossen
+- TOP 3.6: Baubeschluss zur Anlage eines Radfahrstreifens in der Trierer / Pfälzer Straße und Umbau des Rechtsabbiegers Salierring in Neue Weyerstraße - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Köln Gestaltet Bodenbeläge, Fortschreibung des Gestaltungshandbuchs der Stadt Köln, hier: Kölner Standards für Bodenbeläge - mit Änderungen empfohlen
+- TOP -: Ergänzungsantrag zu den TOP 4.1 Köln Gestaltet Bodenbeläge, Fortschreibung des Gestaltungshandbuchs der Stadt Köln, Hier: Kölner Standards für Bodenbeläge - abgelehnt (in der Vorberatung)
+- TOP -: Zu TOP 4.1: „Köln Gestaltet Bodenbeläge, Fortschreibung des Gestaltungshandbuchs der Stadt Köln, Hier: Kölner Standards für Bodenbeläge" - ungeändert empfohlen
+- TOP 4.2: Baubeschluss zur Umsetzung der verkehrlichen Maßnahmen zur Schulwegsicherung am Schulstandort Grundschule Siegburger Straße in Poll sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert empfohlen
+- TOP 4.3: Vorqualifizierung Ebertplatz - Entscheidung für eine Verkehrsvariante - ohne Votum behandelt
+- TOP 4.4: Erweiterter Planungsbeschluss für die Gleisquerung Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln Rodenkirchen - ungeändert empfohlen
+- TOP 4.5: Baubeschluss für die Bahnsteiganhebung der Haltestellen Subbelrather Straße / Gürtel und Nußbaumerstraße - ungeändert empfohlen
+- TOP 4.6: Beschluss einer Umsetzungsstrategie für den Waidmarkt - ungeändert empfohlen
+- TOP 4.7: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss Bauphase 3 - ungeändert empfohlen
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Wegfall von Parkplätzen in der Innenstadt - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Verkehrsausschusses am 13.05.2025 betr. "Wegfall von Parkplätzen in der Innenstadt", AN/0606/2025 - Kenntnis genommen
+- TOP 5.1.2: SPD Anfrage BV8 aus 2022 "Befahrung der Steprathstraße in Köln Kalk mit LKW über 7,5t" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Ratsgruppe KLIMA FREUNDE & GUT aus der Sitzung des Verkehrsausschusses vom 13.05.2025 (AN/0431/2025) betreffend „SPD Anfrage BV8 aus 2022 "Befahrung der Steprathstraße in Köln Kalk mit LKW über 7,5t" - Kenntnis genommen
+- TOP 5.1.3: Umsetzung der Radachsen nach Beschluss zur Ost-West-Achse - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen betreffend "Umsetzung der Radachsen nach Beschluss zur Ost-West-Achse" (AN/0525/2025) - Kenntnis genommen
+- TOP 5.1.4: Zweiter Zugang für die Haltestelle Zülpicher Platz - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses vom 13.05.2025 (AN/0559/2025) betreffend Zweiter Zugang für die Haltestelle Zülpicher Platz - Kenntnis genommen
+- TOP 5.1.5: Sperrung Auenweg - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Verkehrsausschusses vom 13.05.2025 (AN/0609/2025) betreffend Sperrung Auenweg - Kenntnis genommen
+- TOP 5.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.7: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Verkehrsausschuss vom 28.01.2025 AN/0120/2025 - Kenntnis genommen
+- TOP 5.1.8: Großbaustelle auf der A4 - Schleichverkehre durch Brück - Kenntnis genommen
+- TOP 5.1.9: ADAC-Studie "Rotlichtverstöße" - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Tempo 50 auf der Industriestraße bis 2026 in Niehl und Merkenich im Abschnitt zwischen Niehler Ei und Emdener Straße - vertagt
+- TOP 5.2.2: Reisebuskonzept - vertagt
+- TOP 5.2.3: Sachstand Ausbau K6n zwischen Pulheim und Widdersdorf - vertagt
+- TOP 5.2.4: Darstellung der Beeinträchtigung des Stadtbahnverkehrs durch Unfälle - vertagt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Straßen- und Radwegeunterhaltungsprogramm Chorweiler 2017 – Sanierungsmaßnahme Weichselring - Kenntnis genommen
+- TOP 6.1.2: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 6.1.3: Gesamtinstandsetzung Mülheimer Brücke - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Fachgespräch Kalker Hauptstraße - Kenntnis genommen
+- TOP 6.2.2: Planung eines die Kölner Innenstadt umschließenden Inneren Radwegerings - Kenntnis genommen
+- TOP 6.2.3: Sachstand L 82n, Umfahrungsstraße Zündorf - Kenntnis genommen
+- TOP 6.2.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern am 18.11.2024 (AN/1554/2024) betr.: "KVB-Angebot Halten auf Zuruf" - Kenntnis genommen
+- TOP 6.2.5: Öffentlicher Freiraum Deutzer Hafen Köln, hier: Information zur Veröffentlichung Freiraumhandbuch - Kenntnis genommen
+- TOP 6.2.6: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 6.2.7: Aktualisierung Zeitplan zum Vergabeverfahren für die externe Beauftragung eines Logistikkonzeptes für die Stadt Köln (Vorlage 1020/2023) - Kenntnis genommen
+- TOP 6.2.8: Sachstandsmitteilung zur Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
+- TOP 6.2.9: 3. Baustufe Nord-Süd Stadtbahn - Projektstand im Frühjahr 2025 - Kenntnis genommen
+- TOP 6.2.10: Sachstand zu Radverkehrserhebungen und zur Radentwicklung in Köln - Kenntnis genommen
+- TOP 6.2.11: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - vertagt
+- TOP 6.2.12: Zwei neue Rad- und Gehwegbrücken über den Rhein - Abschlussbroschüre - Kenntnis genommen
+- TOP 6.2.13: Änderungen des Fahrplanangebots der Rhein-Erft-Verkehrsgesellschaft mbH (REVG) - Kenntnis genommen
+- TOP 6.2.14: Maßnahmen zur "Umsetzung durchgehender Achsen für den Radverkehr" (gemäß AN/2374/2021) - Kenntnis genommen
+- TOP 6.2.15: Ergebnisse des Bürgerrates "Mobil im lebenswerten Quartier" - Kenntnis genommen
+- TOP 6.2.16: Abpollerung des freilaufenden Rechtsabbiegers und Einrichtung einer Fahrradstraße auf der Nebenfahrbahn der Universitätsstraße - Kenntnis genommen
+- TOP 6.2.17: Evaluierung der Satzung über die Herstellung von Stellplätzen für Kraftfahrzeuge und Fahrradabstellplätzen sowie die Erhebung von Ablösebeiträgen der Stadt Köln (kurz „Stellplatzsatzung“ genannt) - vertagt
+- TOP 6.2.18: Abschlussbericht zum Pilotprojekt "Ladebordstein" - vertagt
+- TOP 6.2.19: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 6.2.20: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - vertagt
+- TOP 6.2.21: Städtebaulicher Masterplan Innenstadt - Niederschrift 36. Sitzung am 25.11.2024 - vertagt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Radentscheid - Sache ist erledigt
+- TOP 7.2: Radservicestellen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: KVB-Buslinie 150 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.4: Verabschiedung der Ausschussmitglieder der Wahlperiode 2020 - 2025
