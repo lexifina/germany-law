@@ -1,0 +1,8 @@
+# TOP 4.1: Vorlage eines eigenen bezirklichen Queer-Aktionsplanes
+
+- Sitzung: 42. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin (2025-06-25)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=76727
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=76727
