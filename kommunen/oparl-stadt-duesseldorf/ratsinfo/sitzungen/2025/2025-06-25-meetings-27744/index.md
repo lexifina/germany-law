@@ -1,0 +1,59 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-25T15:00:00+02:00
+- Ende: 2025-06-25T17:19:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27744
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27744
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 25.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00557834.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 25.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00557834.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 25.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00557834.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung einstimmig beschlossen
+- TOP 3: Förderprojekt KreativRaum D - Teilbaustein Umsetzungsstrategie Zukunft Altstadt Innenstadt - Empfehlung einstimmig beschlossen
+- TOP 4: Straßenausbau Heinsbergstraße - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Lärmbelastung durch rasenden motorisierten Verkehr einschränken, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 7: Veränderte Grundstücksbedingungen bei dem geplanten Neubau eines Discounters an der Schiessstraße, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 8: Büroleerstand im linksrheinischen Düsseldorf - eine Chance für den Wohnungsbau?, Anfage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 9: Außengastronomie auf Stellplätzen, Anfrage des Bezirksvertreters Georg Blanchard - zur Kenntnis genommen
+- TOP 10: Barrierefreiheit im Bereich Diesterwegstraße / Pestalozzistraße wiederherstellen, wie sie vor dem Umbau bestand - zur Kenntnis genommen
+- TOP 11: Nutzungsvertrag für die Clara-Schumann-Musikschule im Friedrich-Conzen-Haus, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 12: Stadtsauberkeit im Stadtbezirk 4, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 13: Wohnraumzweckentfremdung im linksrheinischen Düsseldorf?, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 14: Firmenwagenflotten im öffentlichen Raum, Anfrage der Bezirksvertreterin Claudia Drossel - zurückgewiesen
+- TOP 15: Verschmutzung der Bank am Bücherschrank am Nikolaus-Knopp-Platz, Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2025 Liste A Schulen 2121101/52415400 - einstimmig beschlossen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2025 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 Bauunterhaltungsmittel 2025 - einstimmig beschlossen
+- TOP 18: Weihnachtsmarkt in Oberkassel im Jahre 2025 - abweichend beschlossen
+- TOP 19: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2025 - einstimmig beschlossen
+- TOP 20: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 21: Mikrowälder im Löricker Grünzug Niederdonker Straße, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 22: Ideen-Workshop für eine Umgestaltung des Drakeplatzes in Oberkassel, überfraktioneller Antrag - mehrheitlich abgelehnt
+- TOP 23: Ideen-Workshop für eine Umgestaltung der Grünfläche auf dem Philippus-Platz in Lörick, überfraktioneller Antrag - mehrheitlich abgelehnt
+- TOP 24: Nutzung von Firmen-Tiefgaragen beim Feldmühlenpark, Antrag der Fraktion Bündnis 90 /Die Grünen - mehrheitlich abgelehnt
+- TOP 25: Soziale Erhaltungssatzung für die Neuwerker Straße in Heerdt, Antrag der Fraktion Bündnis 90 /Die Grünen - mehrheitlich abgelehnt
+- TOP 26: Bank und Fahrradständer zwischen Luegallee und Burggrafenstraße, Antrag der Fraktion Bündnis 90 /Die Grünen - einstimmig beschlossen
+- TOP 27: Installation von Türklingeln mit Videofunktion an den Schulen im Stadtbezirk 4, Antrag des Bezirksvertreters Georg Blanchard - zurückgezogen
+- TOP 28: Verkehrssicherheit am Nikolaus-Knopp-Platz erhöhen, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 29: Absenkung Bordsteine Salierstraße Ecke Markgrafenstraße, Antrag des Bezirksvertreters Alexander Schmitt - einstimmig beschlossen
+- TOP 30: Street Art in Heerdt - zur Kenntnis genommen
+- TOP 31: Verbesserung des Verkehrsflusses am Barbarossaplatz - zur Kenntnis genommen
+- TOP 32: Aufhebung eines Parkverbots an der Krefelder Straße - zur Kenntnis genommen
+- TOP 33: Bürgerliches Engagement und Spenden für Trinkbrunnen ermöglichen - zur Kenntnis genommen
+- TOP 34: Zusätzliche Entsorgungsmöglichkeit von sperrigem Altpapier auf dem Simon-Gatzweiler-Platz - zur Kenntnis genommen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 36: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2025 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 Bauunterhaltungsmittel 2025 - einstimmig beschlossen
+- TOP 37: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 38: Mehr Flächen für den Sport : Sportorganisatorisches Maßnahmenpaket - Empfehlung einstimmig beschlossen
+- TOP 39: Pariser Straße 65 - Renovierungsarbeiten an den Umkleiden und Umrüstung der Beleuchtung auf LED - einstimmig beschlossen
+- TOP 40: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 41: Einbahnstraße Im Kämpchen / Am Heerdter Hof für Radverkehr öffnen - zur Kenntnis genommen
+- TOP 42: Einbahnstraße Wettinerstraße für Radfahrer freigeben - zur Kenntnis genommen
