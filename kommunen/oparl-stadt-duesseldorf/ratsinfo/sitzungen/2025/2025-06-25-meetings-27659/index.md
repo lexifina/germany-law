@@ -1,0 +1,60 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-25T17:09:00+02:00
+- Ende: 2025-06-25T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27659
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27659
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558312.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558312.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558312.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 26.03.2025 - einstimmig beschlossen
+- TOP 4: Anfragen / Anträge
+- TOP 4.1: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU: New Heart on the Block - beantwortet
+- TOP 4.2: Anfrage der SPD-Ratsfraktion: Sachstand der Umsetzungsstrategie „Perspektiven für den Düsseldorfer Norden“ - beantwortet
+- TOP 4.3: Anfrage der SPD-Ratsfraktion: Sachstand Bebauungsplanverfahren Südlich Auf´m Tetelberg - beantwortet
+- TOP -: Stadtentwicklung
+- TOP 5: "Rath/Mörsenbroich - Mitten am Stadtrand" - Richtlinie Hof- und Fassadenprogramm (Aktualisierung) - einstimmig beschlossen
+- TOP 6: "Rath/Mörsenbroich - Mitten am Stadtrand" - Richtlinie Verfügungsfonds (Aktualisierung) - einstimmig beschlossen
+- TOP 7: "Garath 2.0 - Ein Stadtteil in Bewegung" - Richtlinie Hof- und Fassadenprogramm (Aktualisierung) - einstimmig beschlossen
+- TOP 8: "Garath 2.0 - Ein Stadtteil in Bewegung" - Richtlinie Verfügungsfonds (Aktualisierung) - einstimmig beschlossen
+- TOP 9: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung einstimmig beschlossen
+- TOP 10: Förderprojekt KreativRaum D - Teilbaustein Umsetzungsstrategie Zukunft Altstadt Innenstadt - Empfehlung einstimmig beschlossen
+- TOP 11: Erarbeitung eines integrierten energetischen Quartierskonzepts für Friedrichstadt - Empfehlung einstimmig beschlossen
+- TOP 12: Ansiedlung eines Lebensmittelvollsortimenters im Garather Zentrum - vertagt
+- TOP -: Qualitätssichernde Verfahren
+- TOP 13: Workshop-Verfahren zur städtebaulichen Weiterentwicklung des - Zentrums Hellerhof - einstimmig beschlossen
+- TOP -: Bauleitplanung
+- TOP 14: Flächennutzungsplanänderung Nr. 158 (Entwurf) - Weizenmühlenstraße/Kesselstraße - einstimmig beschlossen
+- TOP 15: Flächennutzungsplanänderung Nr. 209 (Entwurf) - Südöstlich Werdener Straße - mehrheitlich beschlossen
+- TOP 16: Bebauungsplan-Entwurf Nr. 02/018 - Werdener Straße/Erkrather Straße (ehem. B8-Center) - vertagt
+- TOP 17: Flächennutzungsplanänderung Nr.182 (Entwurf) - Westlich Hinter der Böck - Empfehlung einstimmig beschlossen
+- TOP 18: Bebauungsplan-Entwurf Nr. 03/007 - Westlich Hinter der Böck - Empfehlung mehrheitlich beschlossen
+- TOP 19: Bebauungsplan-Entwurf Nr. 02/014 - zwischen Hellweg und Benzstraße - einstimmig beschlossen
+- TOP 20: Bebauungsplan-Entwurf Nr. 03/031 - Nördlich Stromstraße - einstimmig beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.1.1: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/032/2025/1 - mehrheitlich abgelehnt
+- TOP 26.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Sonstiges
+- TOP 27: 3. Änderung des Landesentwicklungsplans (LEP NRW) - Empfehlung einstimmig beschlossen
+- TOP 28: Umbenennung des „Jürgensplatz" im Stadtbezirk 3 in „Edith-Fürst-Straße" und Benennung der Platzfläche vor dem Polizeipräsidium und dem Ministerium für Heimat, Kommunales, Bau und Digitalisierung in „Am Polizeipräsidium" - Empfehlung einstimmig beschlossen
+- TOP 29: Planung und Umsetzung der Freianlagen der Baumaßnahme „Grünzug Aaper Wald" in Düsseldorf Rath/Mörsenbroich - Empfehlung einstimmig beschlossen
