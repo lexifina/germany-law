@@ -91,7 +91,7 @@ III. Teil: Eisenbahnverkehr
 | 311.1 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 5 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 30 je begonnene Viertelstunde |
 | 311.2 | Prüfung und Erteilung einer Genehmigung für die Fortsetzung einer Beförderung (§ 15 Absatz 1 Satz 1 Nummer 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 30 je begonnene Viertelstunde |
 | 312 | Tanks der Kesselwagen (Kapitel 6.8 RID, § 15 Absatz 1 Satz 1 Nummer 8 und 10 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt): |  |
-| 312.1 | Für die –erstmalige Zulassung eines Baumusters,–Nachträge zu Zulassungen für Änderungen oder Ergänzungen,–Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID) sowie–Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2–Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und abnehmbaren Tanks nach Absatz 6.8.1.5.5 und Unterabschnitt 1.8.7.5 RIDwerden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617 berechnet. |  |
+| 312.1 | Für die a)erstmalige Zulassung eines Baumusters,b)Nachträge zu Zulassungen für Änderungen oder Ergänzungen,c)Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID),d)Zulassung zur Weiterverwendung alter Tiegel nach Unterabschnitt 1.6.1.54 RID sowiee)Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und abnehmbaren Tanks nach Absatz 6.8.1.5.5 und Unterabschnitt 1.8.7.5 RIDwerden Gebühren nach dem Zeitaufwand nach der Gebührennummer 617 berechnet. |  |
 2. Abschnitt: Gebühren der Landesbehörden
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 411 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 5 Absatz 1 Nummer 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 50 bis 2 000 |
@@ -133,7 +133,7 @@ IV. Teil: Binnenschiffsverkehr
 1. Abschnitt: Gebühren der Bundesbehörden
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 701 | Prüfung zur Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme, für Beförderungen innerhalb Deutschlands auf Bundeswasserstraßen (§ 5 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt). | 70 bis 2 000 |
-| 702.1 | Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN). | 80 bis 320 |
+| 702.1 | Anerkennung sowie Verlängerung einer Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN). | 80 bis 560 |
 | 702.2 | Aufsicht über die ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.4 ADN). | 70 je Stunde |
 | 703 | Zulassung sowie Verlängerung und/oder Aufhebung einer Zulassung a)von Personen für die Bescheinigung der Rohrleitungstrennung vor der Beladung mit UN 1230 und UN 2983 und vor jeder Wiederaufnahme solcher Transporte (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 12 Buchstabe q ADN),b)von sachkundigen Personen oder Firmen für die Reinigung von Ladetanks, in denen Wasserstoffperoxid-Lösungen befördert wurden (Unterabschnitt 3.2.3.1 Tabelle C Spalte 20 Nummer 33 Buchstabe i 2 ADN),c)für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche, der Lade- und Löschschläuche (Unterabschnitt 8.1.6.1 bis 8.1.6.3 ADN),d)für die Prüfung der elektrischen Anlagen und Geräte (Unterabschnitt 8.1.7.1 ADN),e)für die Prüfung der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ „begrenzte Explosionsgefahr“, Anlagen und Geräte, die Unterabschnitt 9.3.1.51, 9.3.2.51, 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme (Unterabschnitt 8.1.7.2 ADN),f)für die Prüfung der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord (Absatz 9.3.1.8.4, 9.3.2.8.4, 9.3.3.8.4 ADN) undg)für die Feststellung und Bescheinigung des Ergebnisses des Entgasens von Ladetanks und im Bereich der Ladung befindlicher Rohrleitungen von Binnentankschiffen (Absatz 7.2.3.7.1.6 und 7.2.3.7.2.6 ADN). | 150 bis 1 000 |
 | 704 | Anerkennung von Dokumenten nach Unterabschnitt 8.2.1.9 und 8.2.1.10 ADN. | 70 bis 140 |
@@ -152,7 +152,7 @@ IV. Teil: Binnenschiffsverkehr
 | 716 | Genehmigung geringerer Abstände beim Stillliegen außerhalb der besonderen Liegeplätze (Absatz 7.1.5.4.4 und 7.2.5.4.4 ADN). | 80 bis 200 |
 | 717 | Prüfung und Eintragung der Zulassung einer Gleichwertigkeit in das Zulassungszeugnis (Unterabschnitt 1.5.3.3 ADN). | 35 |
 | 718 | Prüfung und Ausstellung eines Zulassungszeugnisses zu Versuchszwecken (Unterabschnitt 1.5.3.2 ADN). | 550 bis 1 100 |
-| 719 | nicht vergeben |  |
+| 719 | Prüfen und Anerkennen einer Gleichwertigkeit (Unterabschnitt 1.5.3.1 ADN). | 560 bis 2 000 |
 | 720 | Zustimmung zum Laden oder Löschen von Trockengüterschiffen, wenn die erforderlichen Evakuierungsmittel nicht vorhanden sind (Absatz 7.1.4.7.1 ADN). | 140 |
 | 720.1 | Zustimmung zum Laden oder Löschen von Tankschiffen, wenn nicht alle Fragen der Prüfliste mit „JA“ beantwortet werden können (Absatz 7.2.4.10.1 ADN). | 140 |
 | 720.2 | nicht vergeben |  |
