@@ -1,0 +1,101 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-26T17:00:00+02:00
+- Ende: 2025-06-26T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31881
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31881
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag gem. § 5 der Geschäftsordnung des Rates auf Durchführung einer aktuellen Stunde Baumaßnahmen im Rahmen der Sanierung und Umgestaltung der B9 in Worringen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Asbestfund im Heinrich-Mann-Gymnasium - Kenntnis genommen
+- TOP 7.1.2: Anfrage Masterpläne im Stadtbezirk Chorweiler insbesondere soziale Wohnprojekte und Infrastruktur - Kenntnis genommen
+- TOP 7.1.3: Verkauf Wohnungsbestands der ZBI/ZBVV in Köln-Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Sachstandsanfrage zum Einrichtung eines Bäderbeirats für das Chorweilerbad - Kenntnis genommen
+- TOP 7.1.5: Einrichtung einer Einbahnstraße auf der Offenbachstraße in Köln-Pesch - Kenntnis genommen
+- TOP 7.1.6: Einrichtung einer Einbahnstraße auf der Offenbachstraße - Kenntnis genommen
+- TOP 7.1.7: Fehlende Mobiltätsberatung „Go.Center„ in Chorweiler - Kenntnis genommen
+- TOP 7.1.8: Anfrage Maßnahmen zum Schutz der Bäume und Verbesserung der Parksituation am Fühlinger See - Kenntnis genommen
+- TOP 7.1.9: Öffentlichkeitsbeteiligung zum "Masterplan Sauberkeit" im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.10: Entwicklung der Kfz-Zulassungszahlen und infrastrukturelle Maßnahmen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.11: Kurzzeitparkzone Friedhof Volkhovener Weg - vertagt
+- TOP 7.1.12: Anfrage zur Verbesserung der Sauberkeit und Instandhaltung im Bereich der Einkaufs-Passage und des Busbahnhofs in Chorweiler - Kenntnis genommen
+- TOP 7.1.13: Ausfälle S6 und S11 im Stadtbezirk - vertagt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Außengelände Jugendzentrum Northside, Netzestr Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.2: Zusammenlegung der Jugendpflegestellen Chorweiler und Nippes Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.3: Stand Kindergarten Seeberg Geranienweg 27 Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP -: Die Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.4: Anfrage zur Verbesserung der Verkehrssicherheit am Giershausener Weg in Köln Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Anfrage zur Sperrmüllproblematik in Chorweiler und Chorweiler Nord Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Kunstrasenplätze im Stadtbezirk Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Die Stellungnahme der Verwaltung liegt vor - vertagt
+- TOP 7.2.7: Sachstandsanfrage zum Austausch der maroden Sitzbänke am Marktplatz in Heimersdorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.8: Ladestationen für E-Mobilität Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Planung und Errichtung einer Kindertagesstätte im Stadtteil Merkenich - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90/Die Grünen und Die Linke und Lilo Heinrich - geändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Erneuerung des Kunstrasenplatzes auf der Helmut-Kusserow-Sportanlage Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Antrag Verbesserung der Verkehrssicherheit auf den Radwegen entlang der Nettesheimer Straße und des Volkhovener Weg Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.3.3: Vermietung kommunaler Räume in Schulen, Bürgerhäusern und Jugendzentren im Stadtbezirk Chorweiler Antrag der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.4: Sportplatz in Esch Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.5: Barrierfreie Stadtbahn-Haltestelle schaffen in Merkenich-Mitte Antrag der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.6: Lebensgefahr bei Schwimmen im Rhein Dringlichkeitsantrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.7: Lückenlose Besetzung der Stelle in der Bezirksjugendpflege Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion und der SPD-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umsetzung der Ausgleichsflächen im Gebiet des B-Plans Nr. 6654/03 "Causemannstraße" in Merkenich - ungeändert beschlossen
+- TOP -: Beantwortung der mündlichen Nachfrage aus der Sitzung am 22.05.2025 - Kenntnis genommen
+- TOP 9.1.2: Sitzen statt Parken auf Grundlage des Kriterienkatalogs für Außengastronomie auf Stellplätzen unter Berücksichtigung des neuen Regelwerks zur Anordnung und Gestaltung von Außengastronomien - ungeändert beschlossen
+- TOP 9.1.3: Vertragsverlängerung "Summerjam"-Festival - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - ungeändert beschlossen
+- TOP 9.2.2: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstraße 2 in 50765 Köln - ungeändert beschlossen
+- TOP 9.2.3: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über die Aufstellung eines Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Brombeergasse in Köln-Worringen - ungeändert beschlossen
+- TOP 9.2.5: Baubeschluss zur Dachsanierung inkl. Photovoltaikanlage und Begrünung sowie Planungsbeschluss zur Sanierung von Fassaden und Fenstern des Heinrich-Mann-Gymnasiums (exkl. 3-Feld-Sporthalle) in Köln-Chorweiler, Fühlinger Weg 4 - ungeändert beschlossen
+- TOP 9.2.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 60537/02 Arbeitstitel: "Volkhovener Straße in Köln-Esch/Auweiler“ - ungeändert beschlossen
+- TOP 9.2.7: Beschluss über die Aufstellung und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung zur 249. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.2.8: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - ungeändert beschlossen
+- TOP -: Änderungs- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates der SPD-Fraktion - endgültig abgelehnt
+- TOP 9.2.9: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln - ungeändert beschlossen
+- TOP -: Ergänzungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Mitteilung über städtebauliche Studie mit Vorzugsvariante für städtebauliche Bildungslandschaft - Kenntnis genommen
+- TOP 10.2.2: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - Kenntnis genommen
+- TOP 10.2.3: Jahresbericht "Willkommen und Ankommen in Köln" 2024 - Kenntnis genommen
+- TOP 10.2.4: Mitteilung zur Veranstaltungsplanung am Fühlinger See 2025 - Kenntnis genommen
+- TOP 10.2.5: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 10.2.6: Sachstandsmitteilung zur Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
+- TOP 10.2.7: Radverkehrsförderung 2020-2025 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.8: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 10.2.9: Änderungen des Fahrplanangebots der Rhein-Erft-Verkehrsgesellschaft mbH (REVG) - Kenntnis genommen
+- TOP 10.2.10: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 10.2.11: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - vertagt
+- TOP 10.2.12: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - vertagt
+- TOP 10.2.13: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Installation von Pollern am Athener Ring 26-28, Aktenzeichen 142/24 - vertagt
+- TOP 10.2.14: Mitteilung über den Beschluss 0971/2025 Finanzausschuss vom 26.05.2025 zum Wegfall Freigabevorbehalt im Stadtklima-/Stadtverschönerungsprogramm - vertagt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
