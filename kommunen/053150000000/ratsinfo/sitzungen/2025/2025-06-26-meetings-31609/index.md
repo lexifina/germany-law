@@ -1,0 +1,119 @@
+# 34. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-26T16:00:00+02:00
+- Ende: 2025-06-26T20:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31609
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31609
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Wahl der ersten Stellvertretung des Bezirksbürgermeisters
+- TOP -: Austausch der Bezirksvertretung Innenstadt mit der Stadtdirektorin Andrea Blome
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Energetische Sanierung des Bürgerzentrums Deutz, Tempelstraße 41-43, 50679 Köln Baubeschluss - geändert beschlossen
+- TOP 3.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Weltstadthaus - ungeändert beschlossen
+- TOP 3.3: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplanes Arbeitstitel: Deutz-Mülheimer Str. 30 in Köln-Deutz - ungeändert beschlossen
+- TOP 3.4: Vorqualifizierung Ebertplatz - Entscheidung für eine Verkehrsvariante - geändert beschlossen
+- TOP -: ÄA Vorqualifizierung Ebertplatz - Entscheidung für eine Verkehrsvariante, Änderungsantrag B90/Die Grünen - geändert beschlossen
+- TOP 3.5: Städtebauliches Planungskonzept Parkstadt Süd – Innerer Grüngürtel in Köln Rodenkirchen in den Stadtteilen Köln-Bayenthal, -Raderberg und -Zollstock - geändert beschlossen
+- TOP -: ÄA Städtebauliches Planungskonzept Parkstadt Süd, Änderungsantrag B90/Die Grünen - ungeändert beschlossen
+- TOP 3.6: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Sternengasse in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 3.7: Ausweitung der Bewohnerreservierung im Bewohnerparkgebiet Pantaleonsviertel - ungeändert beschlossen
+- TOP 3.8: Änderung der Geschäftsordnung der Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP -: Änderungsantrag zur Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen 1656/2025, gem. Änderungsantrag SPD und B90/Die Grünen - ungeändert empfohlen
+- TOP 3.9: Anregung der Bezirksvertretung Innenstadt zur Problematik von Obdachlosigkeit im öffentlichen Raum, Fokus Friesenplatz, AN/0562/2025 - geändert beschlossen
+- TOP 3.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11: Genehmigung Dringlichkeitsentscheidung: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - ungeändert beschlossen
+- TOP 3.12: Beschluss einer Umsetzungsstrategie für den Waidmarkt - ungeändert beschlossen
+- TOP 3.13: Umsetzung des Straßenbaumkonzeptes Innenstadt - ungeändert beschlossen
+- TOP 3.14: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln - ungeändert beschlossen
+- TOP 3.15: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln - ungeändert beschlossen
+- TOP 3.16: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln - ungeändert beschlossen
+- TOP 3.17: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln - ungeändert beschlossen
+- TOP 3.18: Baubeschluss zur Anlage eines Radfahrstreifens in der Trierer / Pfälzer Straße und Umbau des Rechtsabbiegers Salierring in Neue Weyerstraße - ungeändert beschlossen
+- TOP 3.19: Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd - vertagt
+- TOP 3.20: Aufhebung des es Bebauungsplanes Nr. 67447/17 - Einleitungsbeschluss - Arbeitstitel: Sternengasse, Neuköllner Straße, Cäcilienstraße und Hohe Straße in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 3.21: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 3.22: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Sportplatzstraße 82-84, 51147 Köln (Schulnummer: 154880) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 3.23: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Auf dem Sandberg 120, 51105 Köln (Schulnummer: 154490) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Antrag zur Benennung der Grünfläche an den Wallarkaden in der Altstadt/Süd in Marie-Luise-Nikuta-Platz - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO NRW - Fußgängerfreundliche Umgestaltung der Gummersbacher Straße, AZ 162/24 - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO – „Neue Wegeverbindung im Pyramidenpark Deutz“, Aktenzeichen 116/24 B - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe nach § 24 GO– „Freier Bürgersteig vor dem Filmhaus Maybachstraße 111“, Aktenzeichen 39/25 - geändert beschlossen
+- TOP 4.5: Autofreier Eigelstein – Führungsform und Teileinziehung sowie Beantwortung einer Bürgereingabe nach § 24 GO NRW - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Parken in der Fahrradstraße Maybachstraße, Antrag B90/Die Grünen - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Anwendung der aktuellen Stellplatzsatzung bei Umbauten und Sanierungen sowie nachhaltige Regelung für Interimsparkplätze, gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.2: Maßnahmen zur Hitzeminderung am Humboldt-Gymnasium – Pilotprojekt für neue Fenster mit integrierter Verschattung, gem. Antrag SPD, B90/Die Grünen, CDU, Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.3: Mehr Sauberkeit und Sicherheit in der Wohnsiedlung Siegburger Straße/Deutzer Freiheit, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.4: Sichere Wege zu Kita in der Zugasse und Grundschule Zwirnerstraße, gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.5: Erfassung überhitzter Schulgebäude in der Kölner Innenstadt und Entwicklung eines Masterplans zur Hitzeminderung in den Gebäuden, gem. Antrag SPD, B90/Die Grünen, Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.6: Begrenzung der Geschwindigkeit auf einem Teil der Siegburger Straße, Antrag CDU - geändert beschlossen
+- TOP 5.2.7: Information über die Erstaufnahmeeinrichtung Riehlerstraße sowie Prüfung (Nach-)Nutzungskonzepte, gem. Antrag B90/Die Grünen, SPD, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.8: Prüfmaßnahmen für eine bessere Lebensqualität in der Wohnsiedlung Siegburger Straße/Deutzer Freiheit, Antrag CDU - vertagt
+- TOP 5.2.9: Genehmigungen von Maßnahmen des Stadtgarten e.V. - Urban-Gardening und Projekt "1000 Stühle 1000 Bäume", gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.10: Errichtung einer öffentlichen Toilette in Deutz, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.11: Korrektur des Grünanlagenweges in der Wohnsiedlung Siegburger Straße/Deutzer Freiheit, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.12: Innenstadt-Parkplatz-Moratorium, Dringlichkeitsantrag CDU - endgültig abgelehnt
+- TOP 5.2.13: Endlich Kunstrasen für die Bezirkssportanlage am Reitweg!, Dringlichkeitsantrag CDU - ungeändert beschlossen
+- TOP 5.2.14: Hitzeschutz in der Küche der Grundschulen am Gotenring, gem. Dringlichkeitsantrag CDU, B90/Die Grünen, SPD, Die Linke, FDP und Die Partei - ungeändert beschlossen
+- TOP 5.2.15: Wohnen und soziokulturelle Nutzung in der Richard-Wagner-Straße 6, 8 und 10, Dringlichkeitsantrag B90/Die Grünen - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel
+- TOP 6.1.3: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.4: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.5: Sachstand Initiativen zum Severinsviertel, Anfrage der SPD - vertagt
+- TOP 6.1.6: Fort X - Fragen zum Zustand und den nächsten Schritten, Anfrage CDU - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP 6.2.2: Umsetzung abgesenkter Bordsteine an Baustellen – Barrierefreiheit im öffentlichen Raum, Anfrage der SPD - vertagt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2024) - Kenntnis genommen
+- TOP 9.2: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2025" – Start des Sommerprogramms - Kenntnis genommen
+- TOP 9.3: Mitteilung zum Beschluss „Abschlussbericht zur Stufe 1 des nachhaltigen Mobilitätsplans "Besser durch Köln" (SUMP)“ - Kenntnis genommen
+- TOP 9.4: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - Kenntnis genommen
+- TOP 9.5: Maßnahmen zum Lärmschutz am Brüsseler Platz - Kenntnis genommen
+- TOP 9.6: Rückblick und Ausblick auf die Bevölkerungsvorausberechnung der Stadt Köln - Kenntnis genommen
+- TOP 9.7: Veröffentlichung von Zwischenergebnissen gemäß § 13 Abs. 2 des Gesetzes für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG), hier: Eignungsprüfung (§14 WPG), Bestands- (§15 WPG) und Potentialanalyse (§16 WPG) - Kenntnis genommen
+- TOP 9.8: Deutzer Hafen Hier: 4. und 5. Sitzung des Begleitgremiums; Ergebnisprotokolle - Kenntnis genommen
+- TOP 9.9: Kapazitätserweiterung auf der Ost-West-Achse - weiteres Vorgehen und Sachstand - Kenntnis genommen
+- TOP 9.10: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nr. 664373/02, Arbeitstitel Trierer Straße in Köln-Neustadt/Süd - Kenntnis genommen
+- TOP 9.11: Öffentlicher Freiraum Deutzer Hafen Köln, hier: Information zur Veröffentlichung Freiraumhandbuch - Kenntnis genommen
+- TOP 9.12: Im Hasental 41 - Neubau einer Real- und Gesamtschule (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 9.13: Sachstandsmitteilung zur Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
+- TOP 9.14: Mitteilung über geplante Veröffentlichungen von Bebauungsplanentwürfen gemäß § 3 Absatz 2 BauGB während der ausschussfreien Zeit - Kenntnis genommen
+- TOP 9.15: Radmaßnahmen der vergangenen Wahlperiode 2020 bis 2025 (Bezirk Innenstadt) - Kenntnis genommen
+- TOP 9.16: Voranfrage für Teilrückbau, Umbau, Aufstockung und Nutzungsänderung - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9.17: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 9.18: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 9.19: Aufhebung des Bebauungsplanes Nr. 67447/17 Arbeitstitel: Sternengasse, Neuköllner Straße, Cäcilienstraße und Hohe Straße in Köln-Altstadt/Süd - Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB - Kenntnis genommen
+- TOP 9.20: Rheinboulevard Köln-Deutz - Freilegung und Integration archäologische Funde - Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 9.21: Zwei neue Rad- und Gehwegbrücken über den Rhein - Abschlussbroschüre - Kenntnis genommen
+- TOP 9.22: Maßnahmen zur "Umsetzung durchgehender Achsen für den Radverkehr" (gemäß AN/2374/2021) - Kenntnis genommen
+- TOP 9.23: Abpollerung des freilaufenden Rechtsabbiegers und Einrichtung einer Fahrradstraße auf der Nebenfahrbahn der Universitätsstraße - Kenntnis genommen
+- TOP 9.24: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parken Koelnmesse, Aktenzeichen 40/25 - Kenntnis genommen
+- TOP 9.25: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 9.26: Prüfung der Finanzierung für das Pilotprojekt Winzerveedel - Kenntnis genommen
+- TOP 9.27: Stellungnahme Antrag Rheinauhafen stärker bepflanzen - Kenntnis genommen
+- TOP 9.28: Sachstandsberichte - Kenntnis genommen
+- TOP 9.29: Mitteilung über den Beschluss 0971/2025 Finanzausschuss vom 26.05.2025 zum Wegfall Freigabevorbehalt im Stadtklima-/Stadtverschönerungsprogramm - Kenntnis genommen
+- TOP 9.30: Schulstraße am Standort Lochner Straße Köln-Innenstadt - Kenntnis genommen
+- TOP 9.31: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - Kenntnis genommen
+- TOP 9.32: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 9.33: Städtebaulicher Masterplan Innenstadt - Niederschrift 36. Sitzung am 25.11.2024 - Kenntnis genommen
+- TOP 9.34: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Verkehrsausschusses am 13.05.2025 betr. "Wegfall von Parkplätzen in der Innenstadt", AN/0606/2025 - Kenntnis genommen
