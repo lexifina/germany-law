@@ -1,0 +1,52 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-26T16:30:00+02:00
+- Ende: 2025-06-26T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/29
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14102
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14102
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00573177.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge / Anfragen / Eingaben
+- TOP 5: Stadtentwicklung
+- TOP 5.1: Vorschlag für ein Handlungsprogramm „Gesunde Stadt Münster“ - Empfehlungen aus dem Projekt „Gesundheit in der nachhaltigen Stadt“ - einstimmig beschlossen
+- TOP 5.2: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 5.3: Schulentwicklungsplan 2025 - einstimmig beschlossen
+- TOP 5.4: Weiterentwicklung der Grünordnung Münster zur "Grünordnung 2.0" – Grundsatzbeschluss und Beauftragung der Verwaltung zur Prüfung von Fördermöglichkeiten - mehrheitlich beschlossen
+- TOP 5.5: Smart City Münster: Sachstandsbericht 2025 - zur Kenntnis genommen
+- TOP 5.6: Vollzug der Sozialen Erhaltungssatzung Hafen-, Hansa-, Herz-Jesu-Viertel - Zweiter Sachstandsbericht - zur Kenntnis genommen
+- TOP 5.7: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 5.8: Förderung von Stadterneuerungsprojekten - Sachstand 2025 und Anträge 2026 - einstimmig beschlossen
+- TOP 5.9: Integriertes Stadtteilentwicklungskonzept Münster-Berg Fidel - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Übersicht über die aktuellen Maßnahmen auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 6.2: Albersloher Weg - Konzeptionelle Neuausrichtung des Albersloher Weges zwischen dem Angelsachsenweg und dem Knotenpunkt Osttor / Hiltruper Straße - einstimmig geändert beschlossen
+- TOP 6.3: Hafenstraße - DB Unterführung - einstimmig beschlossen
+- TOP 6.4: 117. Änderung des Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf-West im Bereich Boelckeweg / Albersloher Weg / Bundesstraße B 51 - mehrheitlich beschlossen
+- TOP 6.5: Vorhabenbezogener Bebauungsplan Nr. 626: Boelckeweg/Albersloher Weg/Bundesstraße B 51 [Gasometer] - mehrheitlich beschlossen
+- TOP 6.6: Bebauungsplan Nr. 517 - 2. Änderung - Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 6.7: 88. Änderung FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 6.8: Bebauungsplan Nr. 627 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 576 - Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 6.10: 72. FNP-Änderung - Bebauungsplan Nr. 600 - Veröffentlichung - zur Kenntnis genommen
+- TOP 6.11: 133. FNP-Änderung - Bebauungsplan Nr. 648 - Entwürfe zur Veröffentlichung - zur Kenntnis genommen
+- TOP 6.12: 42. FNP-Änderung - Bebauungsplan Nr. 541 - Erneute Veröffentlichung [Stadthafen-Süd] - zur Kenntnis genommen
+- TOP 6.13: 125. FNP-Änderung / VBP Nr. 638: Solarthermie- und Photovoltaik-Freiflächenanlage - Kenntnisnahme der Entwürfe zur Veröffentlichung - zur Kenntnis genommen
+- TOP 6.14: Bebauungsplan Nr. 589 - Kenntnisnahme des Entwurfs zur Veröffentlichung - zur Kenntnis genommen
+- TOP 6.15: Bebauungsplan Hiltrup Nr. 13 - Entwurf zur Aufhebung - zur Kenntnis genommen
+- TOP 6.16: 127. Änd. FNP - Änderung - Bebauungsplan Nr. 639 - Aufstellung - mehrheitlich beschlossen
+- TOP 6.17: 1. Änderung des Bebauungsplans Nr. 579: Gievenbeck - Oxford-Quartier im Bereich des Simonsplatzes - einstimmig geändert beschlossen
+- TOP 6.18: Bebauungsplan Nr. 655 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.19: 119. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 630 - Geänderter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.20: 134. FNP-Änderung - Beschluss zur Änderung - VBP Nr. 650 - Beschluss zur Aufstellung [Klinkermanufaktur Janinhoff] - einstimmig beschlossen
+- TOP 6.21: Aufhebung von Beschlüssen zur Aufstellung von Bauleitplänen. Einstellung der Bauleitplanverfahren. - mehrheitlich geändert beschlossen
+- TOP 7: Verschiedenes
