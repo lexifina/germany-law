@@ -1,0 +1,83 @@
+# 36. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-26T17:30:00+02:00
+- Ende: 2025-06-26T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31539
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31539
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch von Herrn Beigeordneten Wolfgramm
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Flächennutzung Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung Anfrage zur Flächennutzung im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO — Teil-Richtungsänderung Nordstraße, Köln-Nippes, Az.: 70/23 B - geändert beschlossen
+- TOP 2.2: Bürgereingaben gem. §24 GO, Umsetzung eines Superblock-Konzepts für das Nippeser Clouth-Quartier („LebeVeedel“-Konzept) - vertagt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - vertagt
+- TOP 7.1.4: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.5: Nutzung von Fahrradboxen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.6: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - vertagt
+- TOP 7.1.7: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - vertagt
+- TOP 7.1.8: Nachfragen bzgl. Baubeschluss zur Umsetzug provisorischer und vorgezogener Maßnahmen 2023 (3669/2022) - vertagt
+- TOP 7.1.9: Baustellenabsperrung Lohsestraße und Holbeinstraße - vertagt
+- TOP 7.1.10: Zuständigkeit Reinigung Fußwege für S-Bahnhof Geldernstraße/Parkgürtel - vertagt
+- TOP 7.1.11: Fett-Gestank aus der Gastronomie in der Friedrich-Karl-Straße 109 - Kenntnis genommen
+- TOP -: Fett-Gestank aus der Gastronomie in der Fridrich-Karl-Straße 109 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstandsanfrage zur weiteren Nutzung des ehemaligen Krankenhauses Pallen-bergstraße 24 - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Anbringung einer Geschwindigkeitsanzeigetafel vor der Mathilde-von-Mevissen-Grundschule - geändert beschlossen
+- TOP 8.1.2: Wiederherstellung der Durchfahrtsbeschränkung An St. Franziskus/Alzeyer Straße - ungeändert beschlossen
+- TOP 8.1.3: Erweiterung des Schulhofs der Mathilde-von-Mevissen-Grundschule - ungeändert beschlossen
+- TOP 8.1.4: Tiny Forest / Mini-Wald im Lohsepark - ungeändert beschlossen
+- TOP 8.1.5: Lückenlose Besetzung der Stelle in der Bezirksjugendpflege - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an die Bürgerinitiative LebeVeedel - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an Zug um Zug e.V. - ungeändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an Humba e.V. - geändert beschlossen
+- TOP 9.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an die OT Werkstattstraße - ungeändert beschlossen
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an den TK Nippes 1903 e.V. - geändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an den Kölner Flüchtlingsrat e.V. - geändert beschlossen
+- TOP 9.1.9: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung des Bebauungsplans Nr. 64494/02 - ungeändert beschlossen
+- TOP 9.2.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP -: Änderung der Geschäftsordnung der Rates und der Bezirksvertretungen der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Mitteilung über geplante Veröffentlichungen von Bebauungsplanentwürfen gemäß § 3 Absatz 2 BauGB während der ausschussfreien Zeit - Kenntnis genommen
+- TOP 10.2.2: Sachstandsmitteilung zur Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
+- TOP 10.2.3: Anmeldeverfahren an den weiterführenden Schulen in Köln für das Schuljahr 2025/26 - Kenntnis genommen
+- TOP 10.2.4: Rad- und Fußverkehrsförderung 2020-2025 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.5: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 10.2.6: Beantwortung von Nachfragen zur 2. Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Kenntnis genommen
+- TOP 10.2.7: Gesamtinstandsetzung Mülheimer Brücke - Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr.2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 10.2.8: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 10.2.9: Ausreichendes Personal in der Bezirksjugendpflege - Kenntnis genommen
+- TOP 10.2.10: Schulstraße am Standort Kretzer Straße in Köln-Nippes - Kenntnis genommen
+- TOP 10.2.11: Neue Fahrradstraße auf der Mönchsgasse - Kenntnis genommen
+- TOP 10.2.12: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - Kenntnis genommen
+- TOP 10.2.13: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 10.2.14: Mitteilung über den Beschluss 0971/2025 Finanzausschuss vom 26.05.2025 zum Wegfall Freigabevorbehalt im Stadtklima-/Stadtverschönerungsprogramm - Kenntnis genommen
+- TOP 10.2.15: Beantwortung einer schriftlichen Anfrage von GUT & Klimafreunde aus der Sitzung der BV Nippes vom 22.05.2025, AN/0846/2022, betreffend „Fahrradparken" - Kenntnis genommen
