@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-26T18:00:00+02:00
+- Ende: 2025-06-26T19:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28148
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28148
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 26.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559136.pdf
+- Ergebnisprotokoll: NachtragsTO vom 26.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559136.pdf
+- Wortprotokoll: NachtragsTO vom 26.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559136.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 12. Juni 2025 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 4: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung einstimmig beschlossen
+- TOP 5: Mehr Flächen für den Sport : Sportorganisatorisches Maßnahmenpaket - Empfehlung einstimmig beschlossen
+- TOP 6: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Teilen von Eller - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Weihnachtsmarkt in Unterbach am 06. und 07. Dezember 2025 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2025 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Maßnahmen gegen die Stau-Entwicklung Bernburger Straße/Heidelberger Straße (Anfrage CDU-Fraktion) - beantwortet
+- TOP 12: Feuerwehr-Kontrollfahrten (Anfrage SPD-Fraktion) - beantwortet
+- TOP 13: Kiosk an der Schlesischen Straße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 14: Aufstellen von Mülltonnen an den Abholtagen (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Bürgerbeteiligung und Transparenz bei der Konzeptstudie zur Weiterentwicklung des Unterbacher Sees (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Installation einer Rotlicht- und Geschwindigkeitsüberwachungsanlage der Ampelanlage Gerresheimer Landstraße an der Kreuzung Dellestraße / Brorsstraße (Anfrage Fraktion Bündnis 90 / Die Grünen) - beantwortet
+- TOP 17: Planung zur Verbesserung der Schulwegsicherheit auf dem Bingener Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Diakonie Am Schabernack (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 19: Beschilderung An der Schützenwiese (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Boule-Platz Unterbach (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 21: Spielkisten auf den Spielplätzen in Unterbach (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Sandträger Weg: Fußgängerquerungen und Parkstandmarkierungen (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 23: Spieltische Am Pfaffenbusch (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Radverkehrsanlage Ronsdorfer Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Beförderung Eller Friedhof (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Bewässerung von Baumscheiben (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Einfassung von Baumscheiben (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Eller Friedhof - Fahrradbügel (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 29: Ersatzbepflanzung von Baumscheiben (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 30: Hundeauslaufplatz Am Dammsteg (Antrag SPD-Fraktion) - zurückgezogen
+- TOP 31: Instandsetzung Pflastersteine Gertrudisplatz (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: Instandsetzung Straßenlaterne (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: KGV Am Dammsteg (Antrag SPD-Fraktion) - vertagt
+- TOP 34: Missbrauch eines Wohngrundstücks? / Beseitigung von Containern (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 35: Bolzplatz herrichten lassen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 36: Einbahnstraßenregelung Wittenbruchstraße (Antrag SPD-Fraktion) - mehrheitlich abgelehnt
+- TOP 37: Planungen zur künftigen Situation um Eller Süd S (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 38: Radweg Rathelbeckstraße / Rothenbergstraße (Antrag SPD-Fraktion) - zurückgestellt
+- TOP 39: Lärmschutzwände RRX (Antrag SPD-Fraktion) - zurückgezogen
+- TOP 40: Baustelle Jägerstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 41: Grünpfeil an der Kreuzung Ellerbittweg / Jägerstraße / Zeppelinstraße / Gumbertstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 42: Bereitstellung Mittel für die Aufstellung von bis zu drei „Offenen Bücherschränken“ im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 43: Koordinierung von Hausverwaltungen LEG und Thunnissen sowie Gewerbetreibenden auf der Vennhauser Allee zur Rattenbekämpfung rund um das Gebiet Vennhauser Allee, Lassallestraße, Bebelstraße (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 44: Staubildung durch Ampelschaltung Bernburger Straße (Antrag SPD-Fraktion) - zurückgezogen
+- TOP 45: Platzierung größerer Müllbehälter am Spielplatz Veenpark (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 46: Anmietung und Nutzung der städtischen Jugendfreizeiteinrichtung Chemnitzer Straße 51 durch die evangelische jugend düsseldorf - zur Kenntnis genommen
+- TOP 47: Zentrenmanagements Friedrichstraße und Gumbertstraße - Temporäre Aufstellung eines Parklets - zur Kenntnis genommen
+- TOP 48: Kurve Roßbachstraße - zur Kenntnis genommen
+- TOP 49: Fitnessgeräte auf dem Spiel- und Bolzplatz Wormser Weg - zur Kenntnis genommen
+- TOP 50: Grünstreifen Schlesische Straße - zur Kenntnis genommen
+- TOP 51: Barrierefreies Eller (Weiteres Vorgehen) - zur Kenntnis genommen
+- TOP 52: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Fußgängerüberweg Gatherweg - zur Kenntnis genommen
+- TOP 54: Bürgerbeteiligung und Transparenz bei der Konzeptstudie zur Weiterentwicklung des Unterbacher Sees - zur Kenntnis genommen
+- TOP 55: Ehrengrabfelder Friedhof Eller - zur Kenntnis genommen
+- TOP 56: Sitzbänke für den DSV 04 - zur Kenntnis genommen
+- TOP 57: Beschlusskontrolle der Bezirksvertretung 8 - zur Kenntnis genommen
