@@ -1,0 +1,74 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-06-26T18:00:00+02:00
+- Ende: 2025-06-26T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14101
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14101
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00573811.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 20.05.2025
+- TOP 4: Eingänge und Eingaben
+- TOP 5: Mitteilungen und Berichte der Verwaltung
+- TOP 6: Liegenschaften
+- TOP 6.1: Ratsantrag A-R/0003/2024: Pragmatisch und schnell - für leistbares Wohnen in Münster - zur Kenntnis genommen
+- TOP 6.2: Übertragung von Grundstücken an die Wohn +Stadtbau GmbH - mehrheitlich beschlossen
+- TOP 7: Finanzen
+- TOP 7.1: Finanzstabilität - Statusbericht - zur Kenntnis genommen
+- TOP 7.2: Übertragung von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Grevener Verkehrs GmbH (GVG) - einstimmig beschlossen
+- TOP 7.3: Westfälische Verkehrsgesellschaft mbH (WVG): Erwerb von Geschäftsanteilen; Änderung des Gesellschaftsvertrages der WVG - einstimmig beschlossen
+- TOP 7.4: Beratungs- und Informationsstrukturen im Handlungsfeld „Internationale Fachkräftegewinnung“ - Welcome Desk - mehrheitlich geändert beschlossen
+- TOP 7.5: Feststellung der Jahresabschlüsse 2024 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 7.6: Altenzentrum Klarastift gGmbH: Jahresabschlüsse 2022 und 2023 - einstimmig beschlossen
+- TOP 7.7: Theaterhaus Pumpenhaus GmbH: Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.8: Stadtwerke Münster GmbH: Jahresabschluss 2024 und Gewinnausschüttung; Bestellung des Abschlussprüfers für das Geschäftsjahr 2025 - einstimmig beschlossen
+- TOP 7.9: Stadtnetze Münster GmbH: Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.10: Westfälischer Zoologischer Garten Münster GmbH: Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.11: Wirtschaftsförderung Münster GmbH (WFM): Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.12: AirportPark FMO GmbH: Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.13: GML Gewerbepark Münster-Loddenheide GmbH: Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 7.14: Bauwerke Münster GmbH: Jahresabschlüsse 2023 und 2024; Bestellung des Abschlussprüfers für den Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 7.15: KonvOY GmbH: Jahresabschluss 2024; Bestellung des Abschlussprüfers für den Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 7.16: NRW.URBAN Kommunale Entwicklung GmbH: Jahresabschluss 2024; Bestellung des Abschlussprüfers für den Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 7.17: Westfälische Bauindustrie GmbH: Jahresabschluss 2024; Bestellung des Abschlussprüfers für den Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 7.18: Feststellung des Jahresabschlusses der citeq zum 31.12.2024 - einstimmig beschlossen
+- TOP 7.19: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2024 - einstimmig beschlossen
+- TOP 7.20: Bedarfsplan für den Katastrophenschutz in der Stadt Münster (Katastrophenschutzbedarfsplan) - einstimmig beschlossen
+- TOP 7.21: Baubeschluss - Neubau der Feuer- und Rettungswache 3 in Münster-Hiltrup - einstimmig beschlossen
+- TOP 7.22: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets - einstimmig beschlossen
+- TOP 7.23: Errichtungsbeschluss: Errichtung einer 2-Gruppen Kindertageseinrichtung in der Niels-Stensen-Straße, als Ersatzstandort im Bereich Sentrup. - einstimmig beschlossen
+- TOP 7.24: Errichtungsbeschluss: Errichtung einer Kindertageseinrichtung an der Annette-Allee im Stadtteil Schloss, Bezirk Mitte als Ersatzstandort - ohne Beschlussfassung geschoben
+- TOP 7.25: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung östlich Sprakeler Straße im Stadtteil Sprakel, Bezirk Nord - einstimmig beschlossen
+- TOP 7.26: Baubeschluss 2 Gruppen-Kita am Hoppengarten - mehrheitlich geändert beschlossen
+- TOP 7.27: Trägervergabe Kita An der Alten Kirche in Hiltrup als Ersatzstandort - einstimmig beschlossen
+- TOP 7.28: Überleitung der außerunterrichtlichen Angebote der Eichendorffschule Angelmodde (OGS) - einstimmig beschlossen
+- TOP 7.29: Überleitung der außerunterrichtlichen Angebote der Annette-von-Droste-Hülshoff-Schule Nienberge (OGS) - einstimmig beschlossen
+- TOP 7.30: Schulentwicklungsplan 2025 - einstimmig beschlossen
+- TOP 7.31: Aufhebung der "Benutzungs- und Gebührensatzung für die städtische Berufsfachschule für pharmazeutisch-technische Assistenten/-innen der Stadt Münster" - einstimmig beschlossen
+- TOP 7.32: Erweiterung der Mosaik-Schule in Münster zur Vierzügigkeit; - einstimmig beschlossen
+- TOP 7.33: Baubeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs - einstimmig beschlossen
+- TOP 7.34: Baulicher Errichtungsbeschluss Gesamtschule Münster-Südost - einstimmig beschlossen
+- TOP 7.35: Erweiterung des Schulzentrums Hiltrup für die Umstellung auf G9 auf Basis des Grundsatzbeschlusses V/0427/2020/1 - einstimmig geändert beschlossen
+- TOP 7.36: Erweiterung des Schulzentrums Wolbeck -Neubaugebäude- - einstimmig beschlossen
+- TOP 7.37: Errichtung Erweiterungsneubau und Fertigbauklassen GSMW - einstimmig beschlossen
+- TOP 7.38: Baubeschluss zur baulichen Erweiterung des Annette-von-Droste-Hülshoff Gymnasiums für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 7.39: Errichtungsbeschluss Sechsfachsporthalle am Hans-Böckler-Berufskolleg - einstimmig beschlossen
+- TOP 7.40: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 7.41: Neubau dauerhafter Flüchtlingseinrichtungen mit bis zu 50 Plätzen im Baugebiet Albachten-Ost und in Handorf im Baugebiet an der Hobbeltstraße - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 7.42: Baubeschluss Erweiterung und Sanierung Kulturzentrum Hoppengarten - einstimmig beschlossen
+- TOP 7.43: Wirtschaftsplan 2025/2026 für das Theater Münster - einstimmig beschlossen
+- TOP 8: Wirtschaft
+- TOP 8.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 9: Sonstiges
+- TOP 9.1: 1. Änderung des Bebauungsplans Nr. 579: Gievenbeck - Oxford-Quartier im Bereich des Simonsplatzes - ohne Beschlussfassung geschoben
+- TOP 9.2: Vollzug der Sozialen Erhaltungssatzung Hafen-, Hansa-, Herz-Jesu-Viertel - Zweiter Sachstandsbericht - zur Kenntnis genommen
+- TOP 10: Anfragen und Anträge von Mitgliedern des Ausschusses
+- TOP 11: Verschiedenes
