@@ -1,0 +1,56 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-06-26T16:03:00+02:00
+- Ende: 2025-06-26T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/244
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23385
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23385
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00350810.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer stellvertretenden Schriftführerin für den Ausschuss für Stadtentwicklung und Bauen - ungeändert beschlossen
+- TOP 2: Projektstand der Kooperationsmaßnahme Elberfeld 2030 - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 3: Vorratsbeschluss zur Kostenneufestsetzung "Neugestaltung Alte Freiheit- Poststraße- Kerstenplatz" - ungeändert beschlossen
+- TOP 4: Anregung nach § 24 GO NRW - Nachhaltige Flächenwahl bei der BUGA 2031 - - ungeändert beschlossen
+- TOP 5: Anhandgabe eines städtischen Grundstücks in Wuppertal Barmen - Entgegennahme ohne Beschluss
+- TOP 6: Vermarktung der Wuppertaler Zoosäle in einem zweistufigen Investorenauswahlverfahren - Entgegennahme ohne Beschluss
+- TOP 7: Entwicklungen im Bereich des Mirker Bahnhofs - Entgegennahme ohne Beschluss
+- TOP 8: Umsetzung des Ratsauftrages zur Verbesserung der Zusammenarbeit zwischen Wirtschaft und Verwaltung -2. Zwischenbericht über den Stand der Umsetzung- - Entgegennahme ohne Beschluss
+- TOP 9: Sachstand zum Konzept öffentliche Toiletten - Entgegennahme ohne Beschluss
+- TOP 10: Unterstützung eines privaten Investitionsvorhabens zum Bau und Betrieb einer zirkularen Multifunktionsarena – Wo Kreislaufwirtschaft auf Publikum trifft! - ungeändert beschlossen
+- TOP 11: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - ungeändert beschlossen
+- TOP 12: ISEK Vohwinkel - Vergabe und Planung zentraler öffentlicher Räume des Stationsgartens, Lienhardplatzes und Bahnhofsvorplatzes - ungeändert beschlossen
+- TOP 13: ISEK Elberfeld - Gestaltungssatzung Innenstadt Elberfeld - Durchführungsbeschluss Ausschreibung vorbereitende Leistungen und Gestaltungshandbuch - ungeändert beschlossen
+- TOP 14: Grundsatzbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 15: Bebauungsplan 1234 - Rädchen Süd - - ungeändert beschlossen
+- TOP 16: Bebauungsplan 1247 - Rather Straße/ Kohlfurther Straße - - ungeändert beschlossen
+- TOP 17: Bebauungsplan 55 - Am Clef - - ungeändert beschlossen
+- TOP 18: Bebauungsplan 805 B West - Uellendahler Straße / Am Flöthen - - ungeändert beschlossen
+- TOP 19: Bebauungsplan 1021/1 - Uellendahler Straße / Am Haken - - ungeändert beschlossen
+- TOP 20: Neubau einer Maßregelvollzugsklinik an der Parkstraße - Entgegennahme ohne Beschluss
+- TOP 21: Erneute Beteiligung zur 18. Änderung des Regionalplanes Düsseldorf (Änderung der Festlegungen zu Windenergieanlagen) - Entgegennahme ohne Beschluss
+- TOP 22: 5. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 23: Quartalsbericht I/2025 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 24: Quartalsbericht I/2025 zur Wohnraumentwicklung - Entgegennahme ohne Beschluss
+- TOP 25: Bebauungsplan 1257 - BUGA 3 / Talstation und Seilbahn - - ungeändert beschlossen
+- TOP 26: Bebauungsplan 1299 - BUGA 4 / Wassack-Deponie - - ungeändert beschlossen
+- TOP 27: Bebauungsplan 1176 - östlich Wittener Straße / Windhövel - ungeändert beschlossen
+- TOP 28: Bebauungsplan 1094 - Christbusch (Haus Waldfrieden) - ungeändert beschlossen
+- TOP 29: Bebauungsplan 1302 - Stackenbergstraße / Gneisenaustraße - - ungeändert beschlossen
+- TOP 30: Bebauungsplan 1081 - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 31: Bebauungsplan 860 - Alter Markt / Höhne / Zwinglistrasse - - ungeändert beschlossen
+- TOP 32: Bebauungsplan 732 - Friedrich-Ebert-Str. / Sauerbruchstraße / Tiergartenstr. - - ungeändert beschlossen
+- TOP 33: Fluchtlinienplan 53 - Heckinghausen - - ungeändert beschlossen
+- TOP 34: Vorhabenbezogener Bebauungsplan 1276 V - Einern (Gut Einern) - - ungeändert beschlossen
+- TOP 35: Bebauungsplan 226 - Wilhelmring - - ungeändert beschlossen
+- TOP 36: Bebauungsplan 167 / 167 A - In der Beek / In den Birken / Katernberger Schulweg - - ungeändert beschlossen
+- TOP 37: Bebauungsplan 468 - Briller Viertel - - ungeändert beschlossen
+- TOP 38: 149. Flächennutzungsplanänderung - Nahversorgungszentrum Uellendahl - - Veröffentlichungsbeschluss - - ungeändert beschlossen
+- TOP 39: Bebauungsplan 1270 - Nahversorgungszentrum Uellendahl - - Veröffentlichungsbeschluss - Bebauungsplan 775-Kreuzung Weinberg / Uellendahler Str. /Röttgen -Aufstellungs- und Veröffentlichungsbeschluss zu Teilaufhebung des N - ungeändert beschlossen
+- TOP 40: Bebauungsplan 1293 - Hofkamp / Georg-Abeler-Treppe - (mit Flächennutzungsplanberichtigung 162B) - Veröffentlichungsbeschluss - Bebauungsplan 50 - Am Wunderbau - - Veröffentlichungsbeschluss zur Teilaufhebung - Fluchtlinienpläne 564, 783, 10006 - Ver - ungeändert beschlossen
+- TOP 41: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
