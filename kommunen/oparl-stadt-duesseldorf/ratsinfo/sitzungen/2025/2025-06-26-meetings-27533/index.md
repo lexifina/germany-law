@@ -1,0 +1,62 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-26T15:09:00+02:00
+- Ende: 2025-06-26T17:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27533
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27533
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 13.02.2025 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 08.04.2025 - einstimmig beschlossen
+- TOP 4: Mündliche Berichte
+- TOP 4.1: 200 Jahre Düsseldorfer Karneval
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage CDU: Kultur im Bahnhofsumfeld und im Gebäude Münsterstraße 446
+- TOP 6: Anträge
+- TOP 6.1: Antrag FDP: Schaffung erschwinglicher kreativer Arbeitsräume - mehrheitlich abgelehnt
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Ausstellungsprogramme 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.1: Goethe-Museum / Anton-und-Katharina-Kippenberg-Stiftung - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.2: Filmmuseum - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.3: Heinrich-Heine-Institut und Schumann-Haus - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.4: HETJENS Deutsches Keramikmuseum - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.5: Mahn- und Gedenkstätte - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.6: SchifffahrtMuseum - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.7: Stadtmuseum - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.1.8: Theatermuseum und Dumont-Lindemann-Archiv - Ausstellungsprogramm 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 7.2: Kunstkommission
+- TOP 7.2.1: Lantz´scher Skulpturenpark – kuratorisches Programm 2026 - zurückgezogen
+- TOP 7.2.2: Kunst und Bau an der Realschule Borbecker Strasse – Realisierung - einstimmig beschlossen
+- TOP 7.3: Provenienzforschung
+- TOP 7.3.1: Restitution eines Gemäldes - Empfehlung einstimmig beschlossen
+- TOP 7.3.2: Abgabe eines stehenden Angebots für die Schiedsgerichtsbarkeit NS-Raubgut - Empfehlung einstimmig beschlossen
+- TOP 7.4: Deutsche Oper am Rhein, Verlängerung der Theatergemeinschaft - Empfehlung einstimmig beschlossen
+- TOP 7.5: Atelierförder- und Bewirtschaftungskonzept - vertagt
+- TOP 7.6: Atelierbeirat - Sitzung am 28.04.2025: Für die Förderung empfohlene Anträge auf Atelierumbaukostenzuschuss - einstimmig beschlossen
+- TOP 7.7: Rahmenverträge für die freie Szene - verwiesen
+- TOP 7.8: Zeitgemäße und transparente Projektförderung - zurückgezogen
+- TOP 7.9: Beirat Tanz und Theater - Sitzung am 22.05.2025: Für die Förderung empfohlene Projekte - einstimmig beschlossen
+- TOP 7.10: Proberaum Benzenbergstraße: Zuwendung für Renovierung und Ausstattung - einstimmig beschlossen
+- TOP 7.11: Förderung des 23. Filmfests Düsseldorf - einstimmig beschlossen
+- TOP 7.12: Aufhebung des Sperrvermerks über den Erhöhungsbetrag der Zuwendung düsseldorf photo+ 2025 - einstimmig beschlossen
+- TOP 7.13: Beirat für kulturelle Bildung - Sitzung am 03.06.2025: Für die Förderung empfohlene Projekte - einstimmig beschlossen
+- TOP 7.14: Literarischer Austausch zwischen Czernowitz und Düsseldorf in Kooperation mit dem Lyrikfestival Meridian Czernowitz - einstimmig beschlossen
+- TOP 7.15: Weiterentwicklung der Wochenendöffnung von Stadtbüchereien - Empfehlung einstimmig beschlossen
+- TOP 7.16: Umbenennung des „Jürgensplatz" im Stadtbezirk 3 in „Edith-Fürst-Straße" und Benennung der Platzfläche vor dem Polizeipräsidium und dem Ministerium für Heimat, Kommunales, Bau und Digitalisierung in „Am Polizeipräsidium" - Empfehlung mehrheitlich beschlossen
+- TOP 7.17: Förderprojekt KreativRaum D - Teilbaustein Umsetzungsstrategie Zukunft Altstadt Innenstadt - zur Kenntnis genommen
+- TOP 7.18: Förderprojekt "KreativRaum D" im Rahmen des Bundesprogramms "Zukunftsfähige Innenstädte und Zentren" - zur Kenntnis genommen
+- TOP 7.19: Beschlusskontrolle Januar 2025 bis Mai 2025 - zur Kenntnis genommen
+- TOP 7.20: "Neues entdecken" Jahresbericht der Stadtbüchereien 2024 - zur Kenntnis genommen
+- TOP 7.21: Benrather Schloßallee 100-108, Schloss und Park Benrath, Übertragung des Gebäudeunterhaltes und der Instandhaltung für die Gebäude - zur Kenntnis genommen
+- TOP 7.22: Ehrenhof 5, Kunstpalast - Übertragung des Gebäudeunterhalts und der Instandhaltung für den Altbau: Bericht zur bestimmungsgemäßen - zur Kenntnis genommen
+- TOP 7.23: Kulturamt der Zukunft: Organisationsentwicklung - zur Kenntnis genommen
+- TOP 8: Verschiedenes
