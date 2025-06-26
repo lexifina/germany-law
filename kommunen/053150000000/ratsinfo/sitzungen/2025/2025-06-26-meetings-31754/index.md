@@ -1,0 +1,122 @@
+# 34. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-26T15:07:00+02:00
+- Ende: 2025-06-26T18:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31754
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31754
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Berichterstattung des Kölner Stadt-Anzeiger am 21.05.2025 zum römischen Abwasserkanal unter der Großen Budengasse - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage bzgl. Bürgerbeteiligung und Bedarfsanalyse zum Bebauungsplan Nr. 63569/01 („Heinrichshofweg“) - Kenntnis genommen
+- TOP 2.1.1: Beantwortung einer Anfrage bzgl. Bürgerbeteiligung und Bedarfsanalyse zum Bebauungsplan Nr. 63569/01 („Heinrichshofweg“) - Kenntnis genommen
+- TOP 2.2: Höhen(entwicklungs)konzept Innere Stadt / Innenstadt - Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Anfrage AN/0667/2025 der SPD-Fraktion: Höhen(entwicklungs)konzept Innere Stadt / Innenstadt - Kenntnis genommen
+- TOP 2.3: Sachstand Sanierung Tiefgarage am Dom - Kenntnis genommen
+- TOP 2.3.1: Beantwortung der Anfrage AN/0681/2025 der Fraktion Bündnis90/Die Grünen und der Volt-Fraktion bezüglich der Sanierung der Tiefgarage am Dom - Kenntnis genommen
+- TOP 2.4: Olympische Spiele in Kreuzfeld - Kenntnis genommen
+- TOP 2.4.1: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion (AN/ 0771/2025) "Olympische Spiele in Kreuzfeld" - vertagt
+- TOP 2.5: Kosten und Verfahren zur Umbenennung von Straßen, Plätzen und Parks in der aktuellen Wahlperiode - vertagt
+- TOP 2.6: Denkmal des ehemaligen Sendegebäudes der WERAG (Westdeutsche Rundfunk AG) - Sache ist erledigt
+- TOP 2.7: Beantwortung einer mündlichen Nachfrage von SB Frenzel aus der Sitzung des Stadtentwicklungsausschusses vom 22.05.2025 zur bereits beantworteten schriftlichen Anfrage, Session-Nr. 0357/2025, betreffend "Siedlung Egonstraße" - Kenntnis genommen
+- TOP 2.8: 237. Änderung des Flächennutzungsplans "Hohe Straße" in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 2.8.1: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion (AN/0978/2025) betreffend 237. Änderung des Flächennutzungsplans im Stadtbezirk 7, Köln-Porz - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Via Culinaris als Bindeglied zwischen Hohe Straße und Via Culturalis - vertagt
+- TOP 3.2: Aufwertung des Infopoints im Deutzer Hafen - ungeändert beschlossen
+- TOP 3.3: Entwicklung der Subbelrather Straße 16 - Alternative beschlossen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bedarfsfeststellungs- und Mittelfreigabebeschluss zur Fortschreibung des Stadtentwicklungskonzeptes Wohnen - ungeändert beschlossen
+- TOP 5.2: Beschluss über die Leitlinien des Qualifizierungsverfahrens (verfahrensleitender Beschluss); Arbeitstitel: Neubrücker Ring in Köln-Neubrück - geändert beschlossen
+- TOP 5.2.1: ÄA zu TOP 5.2 - Beschluss über die Leitlinien des Qualifizierungsverfahrens (verfahrensleitender Beschluss); Arbeitstitel: Neubrücker Ring in Köln-Neubrück - Sache ist erledigt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 6.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 6.1.2: Änderungsantrag zu TOP 6.1.1 - "Änderungsantrag der CDU-Fraktion zur Ziffer 2 betreffend „Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd“ - vertagt
+- TOP 6.2: Konzept Soziales und Innovatives Wohnen in Köln - ungeändert empfohlen
+- TOP 6.3: 1. Anpassungsverfahren der Fortschreibung des Einzelhandels- und Zentrenkonzeptes Köln (2023) - Neuabgrenzung eines zentralen Versorgungsbereiches als Kernprojekt des Räumlichen Entwicklungskonzeptes LiebigQuartier - ungeändert empfohlen
+- TOP 6.4: Köln Gestaltet Bodenbeläge, Fortschreibung des Gestaltungshandbuchs der Stadt Köln, hier: Kölner Standards für Bodenbeläge - ohne Votum behandelt
+- TOP 6.4.1: Änderungsantrag zu Top 6.4 Köln Gestaltet Bodenbeläge, Fortschreibung des Gestaltungshandbuchs der Stadt Köln, Hier: Kölner Standards für Bodenbeläge - Sache ist erledigt
+- TOP 6.5: Vorqualifizierung Ebertplatz - Entscheidung für eine Verkehrsvariante - ohne Votum behandelt
+- TOP 6.6: Beschluss einer Umsetzungsstrategie für den Waidmarkt - ungeändert empfohlen
+- TOP 6.7: Gründung eines Eigenbetriebes Parkstadt Süd - ungeändert empfohlen
+- TOP 6.8: Schenkung des Kölner Stadtmodells - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 238. Änderung des Flächennutzungsplans "Möhl-Areal und angrenzendes Gewerbegebiet" in Köln-Dellbrück - ungeändert empfohlen
+- TOP 7.2: 237. Änderung des Flächennutzungsplans "Hohe Straße" in Köln-Porz-Ensen - ungeändert empfohlen
+- TOP 7.2.1: Änderungsantrag der AfD-Fraktion betreffend "237. Änderung des Flächennutzungsplans "Hohe Straße" in Köln-Porz-Ensen" - Kenntnis genommen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplanes Arbeitstitel: Deutz-Mülheimer Str. 30 in Köln-Deutz - geändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Weltstadthaus - ungeändert beschlossen
+- TOP 9.3: Städtebauliches Planungskonzept Parkstadt Süd - Quartiersentwicklung in Köln Rodenkirchen in den Stadtteilen Köln-Bayenthal, -Raderberg und Zollstock - geändert beschlossen
+- TOP 9.3.1: Änderungsantrag zu TOP 9.3 - Städtebauliches Planungskonzept Parkstadt Süd (1326/2025) - ungeändert beschlossen
+- TOP 9.4: Städtebauliches Planungskonzept Parkstadt Süd – Innerer Grüngürtel in Köln Rodenkirchen in den Stadtteilen Köln-Bayenthal, -Raderberg und -Zollstock - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und über die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: "Coty-Areal in Köln-Bickendorf" - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - vertagt
+- TOP 10.2.1: 0001/2025Änderungsantrag zu TOP 10.2 - Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen (0001/2025) - vertagt
+- TOP 10.3: Beschluss über die Aufstellung und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und die Durchführung der freiwilligen frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag zu Top 10.3 Beschluss über die Aufstellung und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und die Durchführung der freiwilligen frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Brombeergasse in Köln-Worringen - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Oskar-Jäger-Straße südlich Low Line in Köln-Ehrenfeld/Braunsfeld - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Aufstellung und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung zur 249. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler - ungeändert beschlossen
+- TOP 10.7: Aufstellungs- und Einleitungsbeschluss vorhabenbezogener Bebauungsplan sowie Aufstellung der 250. Flächennutzunsplanänderung und Beschluss zu frühzeitigen Öffentlichkeitsbeteiligungen Arbeitstitel: Kölner Straße / Hohe Straße in Köln-Ensen - vertagt
+- TOP 10.8: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Sternengasse in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 10.9: Aufhebung des Bebauungsplanes Nr. 67447/17 - Einleitungsbeschluss - Arbeitstitel: Sternengasse, Neuköllner Straße, Cäcilienstraße und Hohe Straße in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nr. 75501/02 Arbeitstitel: Möhl-Areal in Köln-Dellbrück - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 60537/02 Arbeitstitel: "Volkhovener Straße in Köln-Esch/Auweiler“ - ungeändert empfohlen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nummer 69430/06, Arbeitstitel: "Erweiterung TÜV" in Köln-Poll - ohne Votum behandelt
+- TOP 12.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss zur 1. Änderung (Teilaufhebung) des Bebauungsplanentwurfs Nr. 65439/04 (6442 Nb/04); Arbeitstitel: Greinstraße in Köln-Sülz - ungeändert empfohlen
+- TOP 12.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 59499/03 - Arbeitstitel: Gewerbegebiet Venloer Straße in Köln-Bocklemünd/Mengenich, 1. Änderung - ungeändert empfohlen
+- TOP 12.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs Nr. 70470/11 Arbeitstitel: Deutz-Areal in Köln-Mülheim - ungeändert empfohlen
+- TOP 12.7: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nr. 71453/02 Arbeitstitel: Kalker Hauptstraße/Wippermannstraße in Köln-Kalk - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Glashüttenstraße in Köln-Porz - vertagt
+- TOP 13.2: Aufhebung des Aufstellungsbeschlusses zur 2. Änderung des Bebauungsplanes Nr. 63450/03 (63450/03-00-02) Arbeitstitel: Oskar-Jäger-Straße 2. Änderung in Köln-Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 13.3: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Salmstaße in Köln-Poll - ungeändert beschlossen
+- TOP 13.4: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Passendale in Köln-Porz-Westhoven - unter Vorbehalt beschlossen
+- TOP 13.5: Aufhebung des Aufstellungsbeschlusses des Bebauungsplans mit dem Arbeitstitel: Siedlung Helmholtzstraße in Köln-Porz - ungeändert beschlossen
+- TOP 13.6: Änderung des Geltungsbereiches des in Aufstellung befindlichen vorhabenbezogenen Bebauungsplanes Nr. 70365/02 "Erweiterung STRÖER Campus" in Köln-Sürth und Änderung des Arbeitstitels in: Nördlich Ströer-Allee" in Köln-Sürth - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Aufhebung des Bebauungsplans Nr. 64494/02 - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: Veröffentlichung nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nr. 664373/02, Arbeitstitel Trierer Straße in Köln-Neustadt/Süd - Kenntnis genommen
+- TOP 17.2: Mitteilung über geplante Veröffentlichungen von Bebauungsplanentwürfen gemäß § 3 Absatz 2 BauGB während der ausschussfreien Zeit - Kenntnis genommen
+- TOP 17.3: Aufhebung des Bebauungsplanes Nr. 67447/17 Arbeitstitel: Sternengasse, Neuköllner Straße, Cäcilienstraße und Hohe Straße in Köln-Altstadt/Süd - Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB - Kenntnis genommen
+- TOP 17.4: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 66461/16 – Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Konzeption für den Kulturbaustein auf dem Heliosgelände" - Kenntnis genommen
+- TOP 18.2: Mitteilung zu einer mündlichen Anfrage: Wohnviertel im Schlebuscher Weg in Köln-Höhenhaus - Kenntnis genommen
+- TOP 18.2.1: Beantwortung einer mündlichen Anfrage aus der 29. Sitzung des Ausschusses für Bürgerbeteiligung, Anregungen und Beschwerden vom 10.02.2025 - Kenntnis genommen
+- TOP 18.3: Neuer Kölner Mietspiegel 2025 - Kenntnis genommen
+- TOP 18.4: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Mitteilung über städtebauliche Studie mit Vorzugsvariante für städtebauliche Bildungslandschaft - Kenntnis genommen
+- TOP 18.5: Informationen zum Städtebauförderprogramm (STEP) NRW 2025 - Kenntnis genommen
+- TOP 18.6: Umsetzung Stadtstrategie "Kölner Perspektiven 2030+": Schlüsselprojekte 2024 - Kenntnis genommen
+- TOP 18.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Integration eines Nachhaltigkeitskonzepts bei dem Vergabeverfahren für Anlegestellen am Rhein, Aktenzeichen 19/25 - Kenntnis genommen
+- TOP 18.8: Sachstandsbericht Festungsanlagen - Kenntnis genommen
+- TOP 18.9: Aufhebung des Bebauungsplanes Nr. 67447/17 Arbeitstitel: Sternengasse, Neuköllner Straße, Cäcilliienstraße und Hohe Straße
+- TOP 18.10: Ergebnisse des Bürgerrates "Mobil im lebenswerten Quartier" - Kenntnis genommen
+- TOP 18.11: Sachstandsbericht zum Antrag „Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand" (AN/0424/2025) - Kenntnis genommen
+- TOP 18.12: Auswertung der repräsentativen Wahlstatistik zur Bundestagswahl 2025 - Kenntnis genommen
+- TOP 18.13: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 18.14: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP 18.15: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 18.16: Städtebaulicher Masterplan Innenstadt - Niederschrift 36. Sitzung am 25.11.2024 - Kenntnis genommen
+- TOP 18.17: Wahlverhalten bei den Kommunalwahlen 2009 bis 2020 in Köln - Kenntnis genommen
+- TOP 18.18: Auswertung der Gebäude- und Wohnungszählung des Zensus 2022: Wohnungsleerstände und Energieträger der Heizungen in Köln - Kenntnis genommen
+- TOP 18.19: Weiterentwicklung Wohnungsbauprogramm - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
