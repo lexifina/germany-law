@@ -1,0 +1,77 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-27T16:00:00+02:00
+- Ende: 2025-06-27T18:27:00+02:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27546
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27546
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Nachtrag 27.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559499.pdf
+- Ergebnisprotokoll: BV9 Nachtrag 27.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559499.pdf
+- Wortprotokoll: BV9 Nachtrag 27.06.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559499.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 16.05.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Herstellung einer multifunktionalen Sportfläche Stendaler Straße im „Grünzug Hassels" - einstimmig beschlossen
+- TOP 5.7: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Wersten und Benrath - mehrheitlich beschlossen
+- TOP 5.8: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung einstimmig beschlossen
+- TOP 5.9: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 5.10: Weiterentwicklung der Wochenendöffnung von Stadtbüchereien - zur Kenntnis genommen
+- TOP 5.11: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2025 - einstimmig beschlossen
+- TOP 5.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste C - einstimmig beschlossen
+- TOP 5.13: Vollsperrung A59 - Bericht der Verwaltung
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Stadtsauberkeit im Stadtbezirk: Aktueller Sachstand - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Einsatzfahrten aus der Polizeiwache Wersten - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.4: Ortstafel „Urdenbach“ an Fähre Zons - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Sportfläche am „Lauftreff-Süd“, Paulsmühlenstraße 118 a - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Jumpers gGmbH Düsseldorf - Sommerferienprogramm 2025 - einstimmig beschlossen
+- TOP 9.2: Pia Lukas-Larsen - Ausstellung Schloss Mickeln 2025 - einstimmig beschlossen
+- TOP 9.3: Verein der Düsseldorfer Künstler gegr. 1844 - Ausstellung Stadt am Fluss - Stadt im Fluss - einstimmig beschlossen
+- TOP 9.4: Wir in Wersten e.V. - Rock am Bach 2025 - einstimmig beschlossen
+- TOP 9.5: Wir in Wersten e.V. - Heimatsommer 2025 - einstimmig beschlossen
+- TOP 9.6: St.Sebastianus-Reiterkorps D-Wersten e.V. - 11. Werstener Reitertag 2025 - einstimmig beschlossen
+- TOP 9.7: Chorverband Düsseldorf e. V. - Unterstützung der Chöre im Stadtbezirk 9 2025 - einstimmig beschlossen
+- TOP 9.8: St. Seb. Schützenverein Düsseldorf-Holthausen 1925 e.V. - Seniorenvormittag 2025 - einstimmig beschlossen
+- TOP 9.9: St. Seb. Schützenverein Düsseldorf-Holthausen 1925 e.V. - Schützenfestumzug 2025 - einstimmig beschlossen
+- TOP 9.10: Caritasverband Düsseldorf e.V. zentrum plus Hassels - Selbstsicherheitstraining WenDo 2025 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Beschlusskontrolle der Bezirksvertretung 9 - 1. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 10.2: Beleuchtung des Fuß- und Radweges nach Itter - Beschluss der Bezirksvertretung 9 vom 21.02.2025; BV9/036/2025 - zur Kenntnis genommen
+- TOP 10.3: Fußgängersicherheit an der Schnellstraßenabfahrt Paul-Thomas-Straße - Beschluss der Bezirksvertretung 9 vom 04.04.2025; BV9/072/2025 - zur Kenntnis genommen
+- TOP 10.4: Bank in Itter - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/090/2025 - zur Kenntnis genommen
+- TOP 10.5: Haltestellen in Holthausen - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/088/2025 - zur Kenntnis genommen
+- TOP 10.6: Aufstellen einer Tischtennisplatte im Grünzug Holthausen / Wersten - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/109/2025 - zur Kenntnis genommen
+- TOP 10.7: Errichten von Sitzbänken zwischen der Itterstraße und der Ickerswarder Straße - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/086/2025; BV9/086/2025 - zur Kenntnis genommen
+- TOP 10.8: Parkverbotszonen und Sharingstationen an Sportplätzen - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/107/2025 - zur Kenntnis genommen
+- TOP 10.9: Errichtung eines Trinkbrunnens an der Ecke Kölner Landstraße / Guerickeweg - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/094/2025 - zur Kenntnis genommen
