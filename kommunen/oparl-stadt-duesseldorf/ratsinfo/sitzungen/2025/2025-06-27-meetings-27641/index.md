@@ -1,0 +1,91 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-06-27T14:00:00+02:00
+- Ende: 2025-06-27T18:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27641
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27641
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558158.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558158.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00558158.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 23.05.2025 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung Quartiersmanagement Bahnhofsumfeld - zur Kenntnis genommen
+- TOP 4.2: Vorstellung der wegebaulichen und Bepflanzungsmaßnahmen im Bereich Joachim-Erwin-Platz, Jrüne Jong bis Kreuzung Maximilian-Weyhe-Allee nach Ende der Hofgartenbaustelle; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/060/2025 - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung einstimmig beschlossen
+- TOP 4.7: Förderprojekt KreativRaum D - Teilbaustein Umsetzungsstrategie Zukunft Altstadt Innenstadt - Empfehlung einstimmig beschlossen
+- TOP 4.8: Ausführungs- und Finanzierungsbeschluss zur Neugestaltung der Mühlenstraße -AuF- - Empfehlung einstimmig beschlossen
+- TOP 4.9: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 4.10: Weihnachtsmarkt auf der Nordstraße vom 20.11.2025 bis 23.12.2025 - einstimmig beschlossen
+- TOP 4.11: Trödelmärkte auf dem Gelände des Blumengroßmarktes im 2. Halbjahr 2025 - einstimmig beschlossen
+- TOP 4.12: Weitere Veranstaltungen auf dem Burgplatz 2025 - Empfehlung einstimmig beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2025 - abweichend beschlossen
+- TOP 4.14: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2025 - einstimmig beschlossen
+- TOP 4.15: Berichtswesen Bezirksvertretung 1 - 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 4.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.17: Errichtung der Fahrradstation Mauerstraße - mehrheitlich beschlossen
+- TOP 4.18: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2025 - einstimmig beschlossen
+- TOP 4.19: Kaiserswerther Straße / Pfalzstraße – Einrichtung einer Querungshilfe - einstimmig beschlossen
+- TOP 4.20: Klever Straße / Kaiserswerther Straße – Barrierefreier Umbau - einstimmig beschlossen
+- TOP 4.21: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Informationen über den Leerstand Hunsrückenstraße 40, ehemals Filiale Deutsche Bank - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Kampagne Stadtsauberkeit – Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.2: Dauerhafte Einschränkung des Fußverkehrs auf der Charlottenstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.3: Umbenennung Franz-Jürgens-Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Geschwindigkeitsüberschreitungen auf dem Zubringer der Toulouser Allee (Hausnummer 3-27) - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.2: Versetzen einer Behelfs-Ampel - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.3: Behinderung Kaiserswerther Str. 91 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Autofreie Nordstraße - überfraktioneller Antrag - zurückgezogen
+- TOP 7.5: Kennzeichnung des Radwegs im Berty-Albrecht-Park - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Rote Einfärbung der Radspur auf der Kreuzung Klever Straße/Fischerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.7: Rote Markierung der Radspur auf der Kreuzung Heinrich-Ehrhardt-Straße / Ecke Rather Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.8: Vervollständigung der Parkraumbewirtschaftung in der Bendemannstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.9: Einladung Leitung Düsseldorfer Wohnungsaufsicht - überfraktioneller Antrag - abweichend beschlossen
+- TOP 7.10: Tempo 30 auf der Adlerstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.11: Kennzeichnung des Radwegs entlang der Marc-Chagall-Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.12: Weiterführung des Radwegs vor dem Gebäude „Horizon“ (L’Oreal) auf der Johannstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.13: Sichere Querung zum Spielplatz Schwanenmarkt - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.14: Schrankenzeiten am Mannesmannufer - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.15: Änderung der Verkehrsführung am Carlsplatz - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.16: Informationen über die Aufwertung und Umgestaltung des Alten Hafens - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.17: Erneuerung des Pflasters auf dem Carl-Mosterts-Platz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.18: Zusätzliche Anzeigetafel am Anfang der Poststraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Gehweg Orangeriestraße; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/110/2025 - zur Kenntnis genommen
+- TOP 8.3: Einrichtung einer Ladezone auf der Inselstraße in Höhe Hausnummer 1; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/113/2025 - zur Kenntnis genommen
+- TOP 8.4: Sanierung des Gehwegs Schwanenmarkt; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/048/2025 - zur Kenntnis genommen
+- TOP 8.5: Einrichtung einer temporären Ladezone auf der Breite Straße (Höhe Hausnummer 3); Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/112/2025 - zur Kenntnis genommen
+- TOP 8.6: Einrichtung einer Ladezone auf der Karlstraße; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/114/2025 - zur Kenntnis genommen
+- TOP 8.7: Sachstandsbericht zum Zustand der vier Karyatiden vor der Kunsthalle; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/111/2025 - zur Kenntnis genommen
+- TOP 8.8: Austausch von Abfallbehältern in der Düsseldorfer Altstadt; Beschluss der Bezirksvertretung 1 vom 24.01.2025; BV1/015/2025 - zur Kenntnis genommen
+- TOP 8.9: Markierungen auf den Rad- und Fußwegen entlang der Kö; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/101/2025 - zur Kenntnis genommen
+- TOP 8.10: Geschwindigkeitsüberschreitungen auf der Rotterdamer Straße; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/103/2025 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Erinnerungsort Alter Schlachthof für eine Gedenkveranstaltung Am Wehrhahn - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Friends for Africa e.V. für ein Straßenfest - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Sparta Kunstakademie Düsseldorf für ein Künstlerisches Symposium - einstimmig abgelehnt
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Stiftung IMAI für eine Sound-Performance im Hofgarten - einstimmig abgelehnt
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an vision:teilen e.V. für den Zukauf von Sommer-Schlafsäcken - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Feldstraßenfest - einstimmig beschlossen
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Malteser Hilfsdienst e.V. für eine Jubiläumsfeier - einstimmig abgelehnt
+- TOP 9.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Düsseldorfer Schachklub 1914/25 e.V. für die Anschaffung von Spielmaterial - einstimmig beschlossen
+- TOP 9.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße für Heilpädagogisches Reiten - einstimmig beschlossen
+- TOP 9.10: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße zur Durchführung eines WenDo-Trainings - einstimmig beschlossen
