@@ -22,7 +22,7 @@
 - [(XXXX) §§ 18 und 19 (weggefallen)](xxxx-18-und-19.md)
 - [(XXXX) §§ 20 und 21 (weggefallen)](xxxx-20-und-21.md)
 - [(XXXX) §§ 22 und 23 (weggefallen)](xxxx-22-und-23.md)
-- [§ 24](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 (weggefallen)](0025.md)
 - [§ 26](0026.md)
 - [§ 27 (weggefallen)](0027.md)
