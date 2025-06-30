@@ -1,0 +1,103 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-30T14:35:00+02:00
+- Ende: 2025-06-30T15:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31756
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31756
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Fördermittelbericht 2023 - Kenntnis genommen
+- TOP 2.3: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 2.4: Monatsbericht Sanierung der Bühnen Köln Mai 2025 - Kenntnis genommen
+- TOP 2.5: Stadtwerke Köln GmbH - Ergebnissicherungskonzept - Kenntnis genommen
+- TOP 2.6: Begleitbeschluss Nr. 5 zur Haushaltssatzung 2025/2026: Zukunftsfähigkeit des Beteiligungsportfolios - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Aufstockung von Förderungen im Migrationsbereich - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Kostenänderung in Köln durch Bonner Ratsbeschluss vom 8. Mai 2025 - vertagt
+- TOP 4.1.1: Beantwortung der schriftlichen Anfrage AN/1008/2025 - vertagt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Straßen- und Radwegeunterhaltungsprogramm Chorweiler 2017 – Sanierungsmaßnahme Weichselring - Kenntnis genommen
+- TOP 6.2.2: Rheinboulevard Köln-Deutz - Freilegung und Integration archäologische Funde - Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 6.2.3: Gesamtinstandsetzung Mülheimer Brücke - Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr.2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 6.2.4: Mitteilung über die Erhöhung der Investitionszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025 und 2026 hier: Einbau einer Wärmepumpe im Museum Ludwig/Philharmonie - Kenntnis genommen
+- TOP 6.2.5: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2, hier: Partizipatorische Neugestaltung Platz an St Adelheid in Neubrück - Kenntnis genommen
+- TOP 6.2.6: Modellprojekt Wasser muss zum Baum; hier: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 6.3: Unterrichtung des Rates gem. § 25 der Kommunalhaushaltsverordnung Nordrhein-Westfalen - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Umsetzung der Ausgleichsflächen im Gebiet des B-Plans Nr. 6654/03 "Causemannstraße" in Merkenich - ungeändert beschlossen
+- TOP 7.2: Kleingartenpark Claudiusstraße Planungsbeschluss - ungeändert beschlossen
+- TOP 7.3: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - ungeändert beschlossen
+- TOP 7.4: Baubeschluss für die Generalinstandsetzung der Feltenstraße von Rochusstraße bis Äußere Kanalstraße in Köln-Bickendorf bei gleichzeitiger Einrichtung einer Fahrradstraße sowie Freigabe einer investiven Auszahlungsermächtigung - unter Vorbehalt beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.2: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstraße 2 in 50765 Köln - ungeändert beschlossen
+- TOP 10.3: Bedarfsfeststellungsbeschluss für eine europaweite Ausschreibung und Vergabe des technischen Gebäudebetriebs - vertagt
+- TOP 10.4: Baubeschluss zur Umsetzung der verkehrlichen Maßnahmen zur Schulwegsicherung am Schulstandort Grundschule Siegburger Straße in Poll sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 10.5: Stärkung der Träger zur Umsetzung des Gewaltschutzkonzeptes in Einrichtungen für Geflüchtete - ungeändert beschlossen
+- TOP 10.6: Ombudsstelle für Geflüchtete: Verlängerung der Befristung der Stellen Ombudspersonen bis Ende 2026 und Bezuschussung einer 0,5 Stelle zur Kompetenzerweiterung bis Ende 2026 - ungeändert beschlossen
+- TOP 10.7: Bauliche Errichtung eines zweiten Rettungsweges und energetische Generalinstandsetzung der Grundschule im Süden, Godorfer Str. 29 - Planungsbeschluss - ungeändert beschlossen
+- TOP 10.8: Zuschussgewährung "Tag des guten Lebens 2025" - ungeändert beschlossen
+- TOP 10.9: Bedarfsfeststellung zur städtischen Unterbringung Geflüchteter 2025 - 2026 - ohne Votum behandelt
+- TOP 10.10: Energetische Sanierung des Bürgerzentrums Deutz, Tempelstraße 41-43, 50679 Köln Baubeschluss - geändert beschlossen
+- TOP 10.11: Wirtschaftsplan 2025 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: Fortführung der finanziellen Unterstützung des Umweltbildungszentrums Heideportal Gut Leidenhausen e.V. - geändert beschlossen
+- TOP 10.12.1: Zu TOP 10.12: Fortführung der finanziellen Unterstützung des Umweltbildungszent-rums Heideportal Gut Leidenhausen e.V. - ungeändert beschlossen
+- TOP 10.13: Fortführung der finanziellen Unterstützung des Ernährungsrates für Köln und Umgebung e.V. - ungeändert beschlossen
+- TOP 10.14: Planungsbeschluss für vier Feuerwehrgerätehäuser der Freiwilligen Feuerwehr Köln - ohne Votum behandelt
+- TOP 10.15: Baubeschluss für die Bahnsteiganhebung der Haltestellen Subbelrather Straße / Gürtel und Nußbaumerstraße - unter Vorbehalt beschlossen
+- TOP 10.16: Erweiterter Planungsbeschluss für die Gleisquerung Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln Rodenkirchen - unter Vorbehalt beschlossen
+- TOP 10.17: Jahresabschluss 2023 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.18: Generalinstandsetzung der OGTS-Gebäude (Trakt C & D) sowie Teilsanierung der Trakte A, B und E der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen – Bedarfsfeststellungs- und Planungsbeschluss - ohne Votum behandelt
+- TOP 10.19: Beschlussvorlage Linkage to Care - ungeändert beschlossen
+- TOP 10.20: Feststellung des Wirtschaftsplans der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2025 - ungeändert beschlossen
+- TOP 10.21: Gründung eines Eigenbetriebes Parkstadt Süd - ungeändert beschlossen
+- TOP 10.22: Jahresabschluss Wirtschaftsjahr 2023/2024 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 10.23: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2025/26, Sicherung des Interimsspielbetriebs (Interim VII) - ungeändert beschlossen
+- TOP 10.24: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss Bauphase 3 - ungeändert beschlossen
+- TOP 10.25: Neubau einer 2-zügigen Clustergrundschule mit Zweifeldsporthalle, Hausmeisterwohnung und Außenanlagen in der Friedensstraße durch die Kölner Schulbaugesellschaft mbH - Planungs- und Baubeschluss - ohne Votum behandelt
+- TOP 10.26: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - ohne Votum behandelt
+- TOP 10.27: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln - ohne Votum behandelt
+- TOP 10.28: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Albert-Schweitzer-Schule und dem Heinrich-Heine-Gymnasium, Hardtgenbuscher Kirchweg 100, 51107 Köln - ohne Votum behandelt
+- TOP 10.29: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln - ohne Votum behandelt
+- TOP 10.30: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln - ohne Votum behandelt
+- TOP 10.31: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln - ohne Votum behandelt
+- TOP 10.32: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln - ohne Votum behandelt
+- TOP 10.33: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - ohne Votum behandelt
+- TOP 10.34: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - ohne Votum behandelt
+- TOP 10.35: Neubau eines Erweiterungsbaus in Modulbauweise, einer Einfachturnhalle, eines Erweiterungsbaus für die Mensa und Umbau von Fachräumen am Schulzentrum Ostheim, Hardtgenbuscher Kirchweg 100, 51107 Köln - ohne Votum behandelt
+- TOP 10.36: Weiterführung des Angebots „Plan27“ – Zugehende Hilfe für junge Menschen mit psychischen Problemen bis 27 Jahre und Aufhebung des Ratsbeschlusses vom 03.04.2025 (Vorlage: 0716/2025) - ungeändert beschlossen
+- TOP 10.37: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Gemeinschaftsgrundschule Ricarda-Huch-Straße 60, 51061 Köln, Bauteile A, B und D - ohne Votum behandelt
+- TOP 10.38: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2025/26 - ungeändert beschlossen
+- TOP 10.39: Erklärung zum Abschluss einer Schiedsvereinbarung im Sinne von § 1029 Zivilprozessordnung (stehendes Angebot) im Kontext NS-Raubgut - ohne Votum behandelt
+- TOP 10.40: Rahmenvertrag für externe Unterstützung bei der Haushaltskonsolidierung - ungeändert beschlossen
+- TOP 10.41: Planungsaufnahme und Baubeschluss zur Erstellung eines Erweiterungsbaus für die Gemeinschaftsgrundschule (GGS), Kettelerstraße 14, 50997 Köln-Meschenich - ohne Votum behandelt
+- TOP 10.42: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2024 - ungeändert beschlossen
+- TOP 10.43: Restitution des Wandspiegelrahmens aus dem Bestand des Museums für Angewandte Kunst Köln (Inv.Nr. A 1420) - vertagt
+- TOP 10.44: Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd - ohne Votum behandelt
+- TOP 10.45: Verteilung der Globalmittel 2025 und 2026 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 10.46: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2023 - ohne Votum behandelt
+- TOP 10.47: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ohne Votum behandelt
+- TOP 10.48: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Sportplatzstraße 82-84, 51147 Köln (Schulnummer: 154880) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ohne Votum behandelt
+- TOP 10.49: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Auf dem Sandberg 120, 51105 Köln (Schulnummer: 154490) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ohne Votum behandelt
+- TOP 10.50: Erstellung eines Modulbaus für Unterrichtszwecke sowie einer Mensa für die Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil - Planungs- und Baubeschluss - ohne Votum behandelt
+- TOP 10.51: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2023 - ungeändert beschlossen
+- TOP 10.52: Wirtschaftsplan 2025 der Gebäudewirtschaft der Stadt Köln - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
