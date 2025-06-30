@@ -5,7 +5,7 @@ BKZ | Bezeichnung | Verarbeitungsbefugnis
 011 | Rechnungshof | Audit
 020 | Senatskanzlei | Audit, ZWB, HHB, VN1, VN2
 028 | Bevollmächtigte beim Bund und Europa | Audit, ZWB, HHB, VN1, VN2
-030 | Senator für Inneres | Audit, ZWB, HHB, VN1, VN2
+030 | Senator für Inneres und Sport | Audit, ZWB, HHB, VN1, VN2
 060 | Ortsamt Hemelingen | Audit, ZWB, HHB, VN1, VN2
 061 | Ortsamt Burglesum | Audit, ZWB, HHB, VN1, VN2
 062 | Ortsamt Vegesack | Audit, ZWB, HHB, VN1, VN2
@@ -25,20 +25,20 @@ BKZ | Bezeichnung | Verarbeitungsbefugnis
 078 | Ortsamt Schwachhausen/Vahr | Audit, ZWB, HHB, VN1, VN2
 100 | Senator für Justiz und Verfassung | Audit, ZWB, HHB, VN1, VN2
 192 | Sportamt | Audit, ZWB, HHB, VN1, VN2
-200 | Senatorin für Wissenschaft und Häfen -Bildung- | Audit, ZWB, HHB, VN1, VN2
-200 | Senatorin für Wissenschaft und Häfen -Wissenschaft- | Audit, ZWB, HHB, VN1, VN2
+200 | Senatorin für Umwelt, Klima und Wissenschaft -Bildung- | Audit, ZWB, HHB, VN1, VN2
+200 | Senatorin für Umwelt, Klima und Wissenschaft -Wissenschaft- | Audit, ZWB, HHB, VN1, VN2
 250 | Senator für Kultur | Audit, ZWB, HHB, VN1, VN2
 256 | Landesamt für Denkmalpflege | Audit, ZWB, HHB, VN1, VN2
 257 | Landeszentrale für politische Bildung | Audit, ZWB, HHB, VN1, VN2
 300 | Senatorin für Wirtschaft, Arbeit und Europa -Arbeit- | Audit, ZWB, HHB, VN1, VN2
-400 | Senatorin für Soziales, Jugend, Integration und Sport | Audit, ZWB, HHB, VN1, VN2
+400 | Senatorin für Arbeit, Soziales, Jugend und Integration | Audit, ZWB, HHB, VN1, VN2
 490 | Amt für soziale Dienste | Audit, ZWB, HHB, VN1, VN2
-500 | Senatorin für Wissenschaft und Häfen | Audit, ZWB, HHB, VN1, VN2
+500 | Senatorin für Wirtschaft, Häfen und Transformation | Audit, ZWB, HHB, VN1, VN2
 510 | Gesundheitsamt Bremen | Audit, ZWB, HHB, VN1, VN2
-600 | Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwicklung und Wohnungsbau -Umwelt- | Audit, ZWB, HHB, VN1, VN2
-680 | Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwicklung und Wohnungsbau -Bau und Verkehr- | Audit, ZWB, HHB, VN1, VN2
+600 | Senatorin für Umwelt, Klima und Wissenschaft -Umwelt- | Audit, ZWB, HHB, VN1, VN2
+680 | Senatorin für Bau, Mobilität und Stadtentwicklung -Bau und Verkehr- | Audit, ZWB, HHB, VN1, VN2
 687 | Amt für Straßen und Verkehr | Audit, ZWB, HHB, VN1, VN2
-700 | Senatorin für Wirtschaft, Arbeit und Europa -Wirtschaft- | Audit, ZWB, HHB, VN1, VN2
+700 | Senatorin für Wirtschaft, Häfen und Transformation | Audit, ZWB, HHB, VN1, VN2
 900 | Senatorin für Finanzen | Audit, ZWB, HHB, VN1, VN2, Administration
 926 | AFZ CC-EGov | Administration
 Erläuterung
