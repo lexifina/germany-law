@@ -159,7 +159,7 @@ Erster Teil: Das Recht der Polizei
 § 132 | Polizeivollzugsdienst des Landes
 § 133 | Aufgaben der Polizei Bremen
 § 134 | Aufgaben des Landeskriminalamts
-§ 135 | Vollzugspolizeiliche Aufgaben des Senators für Inneres
+§ 135 | Vollzugspolizeiliche Aufgaben des Senators für Inneres und Sport
 § 136 | Polizeivollzugsdienst der Stadtgemeinde Bremerhaven
 § 137 | Unterstützung und gemeinsamer Einsatz
 § 138 | Hilfspolizeibeamtinnen und Hilfspolizeibeamte
