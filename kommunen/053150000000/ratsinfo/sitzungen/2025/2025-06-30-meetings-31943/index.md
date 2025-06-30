@@ -1,0 +1,59 @@
+# 31. Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-06-30T17:00:00+02:00
+- Ende: 2025-06-30T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/176
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31943
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31943
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01054498.pdf
+- Ergebnisprotokoll: 1. Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01054498.pdf
+- Wortprotokoll: 1. Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01054498.pdf
+
+## Tagesordnung
+
+- TOP -: A A Vortrag von Dr. Ina Mach-Völker, Gesundheitsamt: "Etablierung eines Runden Tisches zur Möglichkeit der Durchführung von Schwangerschaftsabbrüchen in Köln"
+- TOP 1: Schriftliche Anfragen und deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion betreffend "KVB-Angebot „Halten auf Zuruf" bekannter machen" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern am 18.11.2024 (AN/1554/2024) betr.: "KVB-Angebot Halten auf Zuruf" - Kenntnis genommen
+- TOP 1.2: Projektstand Kostenlose Menstruationsartikel - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage (Anfrage AN/0194/2025) zum Projektstand kostenlose Menstruationsartikel - Kenntnis genommen
+- TOP 1.3: Hilfen für Alleinerziehende - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage im Ausschuss für die Gleichstellung von Frauen und Männern am 10.02.2025 bezgl. "Hilfen für Alleinerziehende" (AN/0195/2025) - Kenntnis genommen
+- TOP 1.4: Folgen aus dem Gewalthilfegesetz - Kenntnis genommen
+- TOP -: Schriftliche Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Folgen aus dem Gewalthilfegesetz" - Kenntnis genommen
+- TOP 1.5: Stand der Umsetzung der Gendergerechtigkeit bei Straßen(um)benennunge - Kenntnis genommen
+- TOP -: Umsetzung der Gendergerechtigkeit und Verwendung von Gewannbezeichungen bei der Straßenbenennung - Kenntnis genommen
+- TOP -: Umsetzung der Gendergerechtigkeit und Verwendung von Gewannbezeichungen bei der Straßenbenennung – weitere Fragen - Kenntnis genommen
+- TOP 1.6: Geschlechtsspezifische Gesundheitsversorgung und Datenlage - vertagt
+- TOP 1.7: Namensgebung von Schulen in Köln unter dem Aspekt der Gleichstellung von Frauen und Männern - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion SPD aus der Sitzung vom 16.06.2025 (AN/0697/2025) betreffend "Namensgebung von Schulen in Köln unter dem Aspekt der Gleichstellung von Frauen und Männern" - Kenntnis genommen
+- TOP 1.8: Projektstand Stillfreundliche Kommune - vertagt
+- TOP -: Beantwortung der Anfrage AN/0700/2025 der Fraktion Bündnis 90/Die Grünen, Volt sowie der CDU-Fraktion im Ausschuss für Gleichstellung von Frauen und Männern vom 26.05.2025 zum Projektstand Stillfreundliche Kommune - vertagt
+- TOP 1.9: Umsetzungsstand und Fortführung des Projekts „FrauenNachtTaxi“ - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen und CDU betreffend "Umsetzungsstand und Fortführung des Projekts „FrauenNachtTaxi“ - Kenntnis genommen
+- TOP 1.10: Mehr Frauen im Einsatzdienst der Berufsfeuerwehr – was macht die Feuerwehr? - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt: "Mehr Frauen im Einsatzdienst der Berufsfeuerwehr - was macht die Feuerwehr?" - Kenntnis genommen
+- TOP 2: Anträge
+- TOP 2.1: Informationskampagne „Halten auf Zuruf“ in Bussen – für mehr Sicherheit, Sichtbarkeit und Gendergerechtigkeit - endgültig abgelehnt
+- TOP 2.2: Benennung eines Raums im Rathaus nach Else Schmitt – erste Bürgermeisterin Kölns - endgültig abgelehnt
+- TOP 2.3: Antrag der Fraktionen SPD und DIE LINKE betreffend "Richtlinie für die Benennung von Straßen und Plätzen – Konsequente Förderung der Gleichstellung im Stadtbild" - endgültig abgelehnt
+- TOP 2.4: Pilotprojekt: Kostenlose Menstruationsartikel-Spender in Schulneubauten - ungeändert beschlossen
+- TOP 2.5: Frauengesundheit sichtbar machen – Frauengesundheitstag im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 2.6: Gender Pay Gap in Köln - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen
+- TOP 3.1: Förderprogramm Gleichstellung von Frauen und Männern 2025 - ungeändert beschlossen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bevölkerung in Köln 2024 – leichter Anstieg auf 1 097 500 Einwohner*innen - Kenntnis genommen
+- TOP 4.2: Bericht der Behindertenbeauftragten der Stadt Köln 02/2025 - Kenntnis genommen
+- TOP 4.3: Personalbericht 2024 - Kenntnis genommen
+- TOP 4.4: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 4.5: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Beantwortungen zu mündlichen Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Neue mündliche Anfragen
