@@ -1,5 +1,5 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 29. Juni 2024
+Rechtsbereinigt mit Stand vom 1. Juli 2025
 Inhaltsübersicht
 Abschnitt 1 Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
@@ -23,11 +23,14 @@ Abschnitt 3 Träger der freien Jugendhilfe
 § 17 Leistungen freier Träger
 § 18 Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben
 § 19 Anerkennung als Träger der freien Jugendhilfe
-Abschnitt 4 Jugendhilfeplanung
+Abschnitt 4 Ombudsstellen
+§ 19a Finanzierung
+§ 19b Auskunftsrechte und Verschwiegenheitspflichten
+Abschnitt 5 Jugendhilfeplanung
 § 20 Beteiligung an der Planung
-Abschnitt 5 Schulsozialarbeit
+Abschnitt 6 Schulsozialarbeit
 § 21 Schulsozialarbeit
-Abschnitt 6 Frühförderung, Schutz von Kindern und Jugendlichen in Pflegestellen und Einrichtungen
+Abschnitt 7 Frühförderung, Schutz von Kindern und Jugendlichen in Pflegestellen und Einrichtungen
 § 22 Frühförderung
 § 23 Erlaubnis zur Kindertagespflege und zur Vollzeitpflege
 § 24 Erteilung, Versagung der Erlaubnis
@@ -39,12 +42,12 @@ Abschnitt 6 Frühförderung, Schutz von Kindern und Jugendlichen in Pflegestelle
 § 30 Mitteilungspflichten der Einrichtungsträger und Jugendämter
 § 31 Zusammenwirken aufsichtsführender Stellen
 § 32 Sicherstellung des Schulunterrichts bei Gewährung von Hilfe zur Erziehung in einer Einrichtung
-Abschnitt 7 Unbegleitete ausländische Kinder und Jugendliche
+Abschnitt 8 Unbegleitete ausländische Kinder und Jugendliche
 § 32a Verteilung
 § 32b Medizinische Untersuchung
 § 32c Verwaltungskostenpauschale
 § 32d Ausschluss des Vorverfahrens
-Abschnitt 8 Sonstige Vorschriften
+Abschnitt 9 Sonstige Vorschriften
 § 33 Zuständigkeiten
 § 34 Befreiung von familiengerichtlicher Aufsicht
 § 35 Verwaltung des Mündelvermögens
@@ -53,7 +56,7 @@ Abschnitt 8 Sonstige Vorschriften
 § 38 Anerkennung als Vormundschaftsverein
 § 39 Vereinsbeistandschaften
 § 39a Vereinbarungen über Leistungsangebote, Entgelte und Qualitätsentwicklung
-Abschnitt 9 Übergangs-, Durchführungs- und Verwaltungsvorschriften
+Abschnitt 10 Übergangs-, Durchführungs- und Verwaltungsvorschriften
 § 40 Anwendung des Zehnten Buches Sozialgesetzbuch
 § 41 Verwaltungsvorschriften
 § 42 (Inkrafttreten)
