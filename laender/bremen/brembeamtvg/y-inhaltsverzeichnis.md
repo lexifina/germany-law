@@ -8,7 +8,8 @@ Abschnitt 2 Ruhegehalt, Unterhaltsbeitrag
 § 4 | Entstehen und Berechnung des Ruhegehalts
 § 5 | Ruhegehaltfähige Dienstbezüge
 § 6 | Regelmäßige ruhegehaltfähige Dienstzeit
-§ 7 | Erhöhung der ruhegehaltfähigen Dienstzeit
+§ 6a | Erhöhung der ruhegehaltfähigen Dienstzeit
+§ 7 | Allgemeine Bestimmungen zur Berücksichtigung von Dienstzeiten
 § 8 | Berufsmäßiger Wehrdienst und vergleichbare Zeiten
 § 9 | Nicht berufsmäßiger Wehrdienst und vergleichbare Zeiten
 § 10 | Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst
