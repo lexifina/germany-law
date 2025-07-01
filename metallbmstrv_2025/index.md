@@ -1,0 +1,18 @@
+# Verordnung über die Meisterprüfung in den Teilen I und II im Metallbauer-Handwerk
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Meisterprüfungsberufsbild](0002.md)
+- [§ 3 Ziel und Gliederung der Prüfung in Teil I](0003.md)
+- [§ 4 Meisterprüfungsprojekt](0004.md)
+- [§ 5 Fachgespräch](0005.md)
+- [§ 6 Situationsaufgabe](0006.md)
+- [§ 7 Gewichtung, Bestehen der Prüfung in Teil I](0007.md)
+- [§ 8 Ziel und Gliederung der Prüfung in Teil II](0008.md)
+- [§ 9 Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“](0009.md)
+- [§ 10 Handlungsfeld „Leistungen eines Betriebs im Metallbauer-Handwerk erbringen, kontrollieren und übergeben“](0010.md)
+- [§ 11 Handlungsfeld „Einen Betrieb im Metallbauer-Handwerk führen und organisieren“](0011.md)
+- [§ 12 Gewichtung, Bestehen der Prüfung in Teil II](0012.md)
+- [§ 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0013.md)
+- [§ 14 Übergangsvorschrift](0014.md)
+- [§ 15 Inkrafttreten, Außerkrafttreten](0015.md)
