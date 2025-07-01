@@ -1,0 +1,1 @@
+Auf Grund des Art. 66 des Bayerischen Wassergesetzes (BayWG) vom 25. Februar 2010 (GVBl S. 66, BayRS 753-1-UG) erlässt das Bayerische Staatsministerium für Umwelt und Gesundheit folgende Verordnung:
