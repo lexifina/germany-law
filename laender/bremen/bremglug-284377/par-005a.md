@@ -2,11 +2,12 @@
 (1) Eine Wettvermittlungsstelle betreibt, wer Sportwetten im Vertriebssystem eines nach § 4a des Glücksspielstaatsvertrags 2021 erlaubten Veranstalters in einer ausschließlich dafür bestimmten Räumlichkeit vermittelt.
 (2) Die zuständige Behörde darf die Erlaubnis zum Vermitteln von Sportwetten in einer Wettvermittlungsstelle nur für eine bestimmte Räumlichkeit erteilen. Die Erlaubnis zum Betrieb einer Wettvermittlungsstelle ist zu versagen, wenn
 1. die Wettvermittlungsstelle einen Mindestabstand von 500 Metern Luftlinie zu einer Schule in öffentlicher oder freier Trägerschaft der Schularten des § 16 Absatz 1 Nummer 1 Buchstabe b und c sowie Nummer 2 des Bremischen Schulgesetzes oder einer Schule für Gesundheitsfachberufe unterschreitet,
-1a. die Wettvermittlungsstelle einen Mindestabstand von 500 Metern zu einer anderen Wettvermittlungsstelle oder einer Spielhalle im Sinne des § 3 Absatz 9 des Glücksspielstaatsvertrags 2021 unterschreitet,
+1a. die Wettvermittlungsstelle einen Mindestabstand von 500 Metern Luftlinie zu einer anderen Wettvermittlungsstelle oder einer Spielhalle im Sinne des § 3 Absatz 9 des Glücksspielstaatsvertrags 2021 unterschreitet,
 2. die Wettvermittlungsstelle in einem Gebäude oder Gebäudekomplex, in dem sich eine Spielbank befindet, untergebracht wird,
 3. die zum Betrieb der Wettvermittlungsstelle bestimmte Räumlichkeit wegen ihrer Beschaffenheit oder Lage den polizeilichen Anforderungen oder den Anforderungen des Glücksspielstaatsvertrags oder dieses Gesetzes nicht genügt,
 4. der Betrieb der Wettvermittlungsstelle eine Gefährdung der Jugend, eine übermäßige Ausnutzung des Spieltriebs oder eine nicht zumutbare Belästigung einer im öffentlichen Interesse bestehenden Einrichtung befürchten lässt,
 5. der Vermittler und der Betreiber der von der Erlaubnis erfassten Räumlichkeit keine Vorkehrungen treffen, um den Zutritt von Personen zu verhindern, die das 21. Lebensjahr noch nicht vollendet haben.
+Für die Berechnung des Mindestabstandes nach Nummer 1 wird der Abstand zwischen der Eingangstür der Wettvermittlungsstelle und der nächstgelegenen Grundstücksgrenze der Schule zugrunde gelegt, für die Berechnung des Mindestabstandes nach Nummer 1a der Abstand von Eingangstür zu Eingangstür.
 (2a) Die zuständige Behörde kann unter Berücksichtigung der Verhältnisse im Umfeld des jeweiligen Standorts und der Lage des Einzelfalls Ausnahmen von dem in Absatz 2 Satz 2 Nummer 1 festgesetzten Mindestabstand zulassen.
 (3) Es ist verboten
 1. in Wettvermittlungsstellen Speisen oder Getränke für den Verzehr an Ort und Stelle oder außer Haus abzugeben, zu verkaufen oder den Konsum zuzulassen,
