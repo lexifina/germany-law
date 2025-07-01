@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2025-06-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16881.6
+- Datum: 2025-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16881.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,14 +25,14 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.06.2025
+01.07.2025
 bis
-30.06.2025
+07.08.2025
 
-Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung 
+Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung
 
 
-Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung  vom 24. Februar 2016 (SächsABl. SDr. S. S 266), die zuletzt durch die Verwaltungsvorschrift vom 22. Juli 2025 (SächsABl. S. 803) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  2. Dezember 2025 (SächsABl. SDr. S. S 222)
+Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Beihilfeverordnung vom 24. Februar 2016 (SächsABl. SDr. S. S 266), die zuletzt durch die Verwaltungsvorschrift vom 22. Juli 2025 (SächsABl. S. 803) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  2. Dezember 2025 (SächsABl. SDr. S. S 222)
 
 I.
 
@@ -12027,7 +12027,23 @@ Zu Absatz 4
 
 49.4.1
 
-Die Höchstdauer der Fortzahlung der Pauschalbeihilfe in hälftiger Höhe entspricht dem Leistungszeitraum der Verhinderungspflege nach § 51 (sechs Wochen) und der Kurzzeitpflege nach § 52 (acht Wochen). Für den ersten und letzten Tag der Verhinderungspflege oder der Kurzzeitpflege wird die Pauschalbeihilfe stets in voller Höhe weiter gewährt. Mit dem ersten Tag der Inanspruchnahme der Leistungen der Kurzzeit- oder Verhinderungspflege beginnt jedoch bereits die Sechs- beziehungsweise Acht-Wochen-Frist. Die Nummern 51.1.4, 51.1.5 und 52.1.4 sind zu beachten.
+Die Höchstdauer der Fortzahlung der Pauschalbeihilfe in
+
+hälftiger Höhe entspricht dem Leistungszeitraum der Verhinderungspflege
+
+nach § 51 und der Kurzzeitpflege nach § 52 (jeweils acht
+
+Wochen). Für den ersten und letzten Tag der Verhinderungspflege oder der
+
+Kurzzeitpflege wird die Pauschalbeihilfe stets in voller Höhe weiter
+
+gewährt. Mit dem ersten Tag der Inanspruchnahme der Leistungen der
+
+Kurzzeit- oder Verhinderungspflege beginnt jedoch bereits die
+
+Acht-Wochen-Frist. Die Nummern 51.1.4, 51.1.5 und 52.1.4 sind
+
+zu beachten.
 
 
 49.4.2
@@ -12065,14 +12081,42 @@ Bei einem Zusammentreffen von hälftiger Pauschalbeihilfe bei Verhinderungspfleg
 
 49.4.9
 
-Beispiele (jeweils zum Stand 1. Januar 2024):
+Beispiele (jeweils zum Stand 1. Juli 2025):
 
 49.4.9.1
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 das Pflegegeld (100 Prozent = 573 Euro) in Anspruch. Jedoch wird vom 5. August bis 26. August, das heißt für die Dauer von 22 Tagen, Verhinderungspflege nach § 51 in Anspruch genommen. Die Rechnung für die Verhinderungspflege beträgt 1 000 Euro (Höchstbetrag und Leistungszeitraum nach § 51 sind nicht überschritten).
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3
+
+das Pflegegeld (100 Prozent = 599 Euro) in Anspruch. Jedoch
+
+wird vom 5. August bis 26. August, das heißt für die
+
+Dauer von 22 Tagen, Verhinderungspflege nach § 51 in Anspruch
+
+genommen. Die Rechnung für die Verhinderungspflege beträgt
+
+1 000 Euro (Höchstbetrag und Leistungszeitraum nach § 51
+
+sind nicht überschritten).
 
 
-Vorüberlegung: Pflegegeld wird nur für die Tage der tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird während einer Verhinderungspflege nach § 51 für bis zu sechs Wochen je Kalenderjahr fortgewährt.
+Vorüberlegung: Pflegegeld wird nur für die Tage der
+
+tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den
+
+vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu
+
+kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für
+
+den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld
+
+weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird
+
+während einer Verhinderungspflege nach § 51 für bis zu acht Wochen
+
+je Kalenderjahr fortgewährt.
 
 
 Beispielberechnungen
@@ -12089,18 +12133,28 @@ Beispielberechnungen
 
 | –
 
-| Pflegegeld ist für die Zeit vom 1. August bis 5. August (fünf Tage) und 26. August bis 31. August (sechs Tage) zu gewähren
-Höhe des Pflegegeldes (11/30 von 573 Euro)
+| Pflegegeld ist für
 
-| 210,10 Euro
+die Zeit vom 1. August bis 5. August (fünf Tage) und
+
+26. August bis 31. August (sechs Tage) zu gewähren
+Höhe des Pflegegeldes (11/30 von 599 Euro)
+
+| 219,63 Euro
 
 
 | –
 
-| hälftige Fortzahlung des Pflegegeldes für die Dauer von 20 Tagen (da für den ersten und letzten Tag der Verhinderungspflege volles Pflegegeld gewährt wird und der Kalendermonat mit den tatsächlichen Tagen anzusetzen ist)
-Höhe des hälftigen Pflegegeldes (= 20/30 von 573 Euro/2)
+| hälftige Fortzahlung
 
-| 191,00 Euro
+des Pflegegeldes für die Dauer von 20 Tagen (da für den ersten und
+
+letzten Tag der Verhinderungspflege volles Pflegegeld gewährt wird und
+
+der Kalendermonat mit den tatsächlichen Tagen anzusetzen ist)
+Höhe des hälftigen Pflegegeldes (= 20/30 von 599 Euro/2)
+
+| 199,67 Euro
 
 
 | a)
@@ -12123,18 +12177,18 @@ Höhe des hälftigen Pflegegeldes (= 20/30 von 573 Euro/2)
 
 | –
 
-| zum Pflegegeld für elf Tage 30 Prozent von 210,10 Euro
+| zum Pflegegeld für elf Tage 30 Prozent von 219,63 Euro
 
-| 63,03 Euro
+| 65,89 Euro
 
 
 | 
 
 | –
 
-| hälftige Fortzahlung des Pflegegeldes für 20 Tage, 30 Prozent von 191,00 Euro
+| hälftige Fortzahlung des Pflegegeldes für 20 Tage, 30 Prozent von 199,67 Euro
 
-|   57,30 Euro
+|    59,90 Euro
 
 
 | 
@@ -12143,7 +12197,7 @@ Höhe des hälftigen Pflegegeldes (= 20/30 von 573 Euro/2)
 
 | Gesamt
 
-| 420,33 Euro
+| 425,79 Euro
 
 
 | b)
@@ -12166,18 +12220,24 @@ Höhe des hälftigen Pflegegeldes (= 20/30 von 573 Euro/2)
 
 | –
 
-| Pauschalbeihilfe 210,10 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 63,03 Euro
+| Pauschalbeihilfe 219,63 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 65,89 Euro
 
-| 147,07 Euro
+| 153,74 Euro
 
 
 | 
 
 | –
 
-| hälftige Fortzahlung der Pauschalbeihilfe für 20 Tage, 191,00 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 57,30 Euro
+| hälftige Fortzahlung der
 
-| 133,70 Euro
+Pauschalbeihilfe für 20 Tage, 199,67 Euro abzüglich des
+
+anteiligen Pflegegeldes der privaten Pflegeversicherung von
+
+59,90 Euro
+
+|   139,77 Euro
 
 
 | 
@@ -12186,15 +12246,29 @@ Höhe des hälftigen Pflegegeldes (= 20/30 von 573 Euro/2)
 
 | Gesamt
 
-| 980,77 Euro
+| 993,51 Euro
 
 
 49.4.9.2
 
-Der in der sozialen Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3 das Pflegegeld (100 Prozent = 573 Euro) in Anspruch. Jedoch wird vom 5. Oktober bis 17. Oktober, das heißt für die Dauer von 13 Tagen, Verhinderungspflege nach § 51 in Anspruch genommen. Als von der Regelung des § 28 Absatz 2 des Elften Buches Sozialgesetzbuch erfasste Person erhält der Versorgungsempfänger von der sozialen Pflegeversicherung in diesem Fall 50 Prozent. Die Rechnung für die Verhinderungspflege beträgt 1 500 Euro (Höchstbetrag und Leistungszeitraum nach § 51 sind nicht überschritten).
+Der in der sozialen Pflegeversicherung versicherte  Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 3   das Pflegegeld (100 Prozent = 599 Euro) in Anspruch. Jedoch  wird vom 5. Oktober bis 17. Oktober, das heißt für  die Dauer von 13 Tagen, Verhinderungspflege nach § 51 in  Anspruch genommen. Als von der Regelung des § 28 Absatz 2 des  Elften Buches Sozialgesetzbuch erfasste Person erhält der  Versorgungsempfänger von der sozialen Pflegeversicherung in diesem Fall  50 Prozent. Die Rechnung für die Verhinderungspflege beträgt  1 500 Euro (Höchstbetrag und Leistungszeitraum nach § 51  sind nicht überschritten).
 
 
-Vorüberlegung: Pflegegeld wird nur für die Tage der tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird während einer Verhinderungspflege nach § 51 für bis zu sechs Wochen je Kalenderjahr fortgewährt.
+Vorüberlegung: Pflegegeld wird nur für die Tage der
+
+tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den
+
+vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu
+
+kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für
+
+den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld
+
+weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird
+
+während einer Verhinderungspflege nach § 51 für bis zu acht Wochen
+
+je Kalenderjahr fortgewährt.
 
 
 Beispielberechnungen
@@ -12211,18 +12285,28 @@ Beispielberechnungen
 
 | –
 
-| Pflegegeld ist für die Zeit vom 1. Oktober bis 5. Oktober (fünf Tage) und 17. Oktober bis 31. Oktober (15 Tage) zu gewähren
-Höhe des Pflegegeldes (20/30 von 573 Euro)
+| Pflegegeld ist für
 
-| 382,00 Euro
+die Zeit vom 1. Oktober bis 5. Oktober (fünf Tage) und
+
+17. Oktober bis 31. Oktober (15 Tage) zu gewähren
+Höhe des Pflegegeldes (20/30 von 599 Euro)
+
+| 399,33 Euro
 
 
 | –
 
-| für die Dauer von elf Tagen (da für den ersten und letzten Tag der Verhinderungspflege volles Pflegegeld gewährt wird und der Kalendermonat mit den tatsächlichen Tagen anzusetzen ist)
-Höhe des hälftigen Pflegegeldes (= 11/30 von 573 Euro/2)
+| für die Dauer von elf
 
-| 105,05 Euro
+Tagen (da für den ersten und letzten Tag der Verhinderungspflege volles
+
+Pflegegeld gewährt wird und der Kalendermonat mit den tatsächlichen
+
+Tagen anzusetzen ist)
+Höhe des hälftigen Pflegegeldes (= 11/30 von 599 Euro/2)
+
+| 109,82 Euro
 
 
 | a)
@@ -12245,18 +12329,18 @@ Höhe des hälftigen Pflegegeldes (= 11/30 von 573 Euro/2)
 
 | –
 
-| zum Pflegegeld für 20 Tage 50 Prozent von 382,00 Euro
+| zum Pflegegeld für 20 Tage 50 Prozent von 399,33 Euro
 
-| 191,00 Euro
+| 199,67 Euro
 
 
 | 
 
 | –
 
-| hälftige Fortzahlung des Pflegegeldes für elf Tage, 50 Prozent von 105,05 Euro
+| hälftige Fortzahlung des Pflegegeldes für elf Tage, 50 Prozent von 109,82 Euro
 
-|   52,53 Euro
+|    54,91 Euro
 
 
 | 
@@ -12265,7 +12349,7 @@ Höhe des hälftigen Pflegegeldes (= 11/30 von 573 Euro/2)
 
 | Gesamt
 
-| 993,53 Euro
+| 1 004,58 Euro
 
 
 | b)
@@ -12288,18 +12372,24 @@ Höhe des hälftigen Pflegegeldes (= 11/30 von 573 Euro/2)
 
 | –
 
-| Pauschalbeihilfe 382,00 Euro abzüglich des anteiligen Pflegegeldes der sozialen Pflegeversicherung von 191,00 Euro
+| Pauschalbeihilfe 399,33 Euro abzüglich des anteiligen Pflegegeldes der sozialen Pflegeversicherung von 199,67 Euro
 
-| 191,00 Euro
+| 199,66 Euro
 
 
 | 
 
 | –
 
-| hälftige Fortzahlung der Pauschalbeihilfe für elf Tage, 105,05 Euro abzüglich des anteiligen Pflegegeldes der sozialen Pflegeversicherung von 52,53 Euro
+| hälftige Fortzahlung der
 
-|   52,52 Euro
+Pauschalbeihilfe für elf Tage, 109,82 Euro abzüglich des
+
+anteiligen Pflegegeldes der sozialen Pflegeversicherung von
+
+54,91 Euro
+
+|    54,91 Euro
 
 
 | 
@@ -12308,15 +12398,43 @@ Höhe des hälftigen Pflegegeldes (= 11/30 von 573 Euro/2)
 
 | Gesamt
 
-| 993,52 Euro
+| 1 004,57 Euro
 
 
 49.4.9.3
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 4 das Pflegegeld (100 Prozent = 765 Euro) in Anspruch. Jedoch wird vom 26. Dezember bis 28. Dezember, das heißt für die Dauer von drei Tagen, Verhinderungspflege nach § 51 in Anspruch genommen. Die Rechnung für die Verhinderungspflege beträgt 100 Euro (Höchstbetrag und Leistungszeitraum nach § 51 sind nicht überschritten).
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 4
+
+das Pflegegeld (100 Prozent = 800 Euro) in Anspruch. Jedoch
+
+wird vom 26. Dezember bis 28. Dezember, das heißt
+
+für die Dauer von drei Tagen, Verhinderungspflege nach § 51 in
+
+Anspruch genommen. Die Rechnung für die Verhinderungspflege
+
+beträgt 100 Euro (Höchstbetrag und Leistungszeitraum nach
+
+§ 51 sind nicht überschritten).
 
 
-Vorüberlegung: Pflegegeld wird nur für die Tage der tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird während einer Verhinderungspflege nach § 51 für bis zu sechs Wochen je Kalenderjahr fortgewährt.
+Vorüberlegung: Pflegegeld wird nur für die Tage der
+
+tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den
+
+vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu
+
+kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für
+
+den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld
+
+weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird
+
+während einer Verhinderungspflege nach § 51 für bis zu acht Wochen
+
+je Kalenderjahr fortgewährt.
 
 
 Beispielberechnungen
@@ -12333,17 +12451,25 @@ Beispielberechnungen
 
 | –
 
-| Pflegegeld ist für die Zeit vom 1. Dezember bis 26. Dezember (26 Tage) und 28. Dezember bis 31. Dezember (vier Tage) zu gewähren
-Höhe des Pflegegeldes (30/30 von 765 Euro)
+| Pflegegeld ist für
 
-| 765,00 Euro
+die Zeit vom
+
+1. Dezember bis 26. Dezember (26 Tage)
+
+und 28. Dezember bis 31. Dezember 
+
+(vier Tage) zu gewähren
+Höhe des Pflegegeldes (30/30 von 800 Euro)
+
+| 800,00 Euro
 
 
 | –
 
-| da aufgrund der Tage der tatsächlichen häuslichen Pflege der Höchstanspruch nach § 37 Absatz 1 des Elften Buches Sozialgesetzbuch für den Kalendermonat bereits ausgeschöpft ist, erfolgt keine hälftige Fortzahlung des Pflegegeldes für die Dauer von einem Tag
+| da aufgrund der Tage  der tatsächlichen häuslichen Pflege der Höchstanspruch nach § 37  Absatz 1 des Elften Buches Sozialgesetzbuch für den Kalendermonat  bereits ausgeschöpft ist, erfolgt keine hälftige Fortzahlung des  Pflegegeldes für die Dauer von einem Tag
 
-| 
+| 0,00 Euro
 
 
 | a)
@@ -12366,9 +12492,9 @@ Höhe des Pflegegeldes (30/30 von 765 Euro)
 
 | –
 
-| zum Pflegegeld 30 Prozent von 765 Euro
+| zum Pflegegeld 30 Prozent von 800 Euro
 
-| 229,50 Euro
+|   240,00 Euro
 
 
 | 
@@ -12377,14 +12503,7 @@ Höhe des Pflegegeldes (30/30 von 765 Euro)
 
 | Gesamt
 
-| 259,50 Euro
-
-
-| 
-
-| 
-
-| 
+| 270,00 Euro
 
 
 | b)
@@ -12407,9 +12526,9 @@ Höhe des Pflegegeldes (30/30 von 765 Euro)
 
 | –
 
-| Pauschalbeihilfe 765 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 229,50 Euro
+| Pauschalbeihilfe 800 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 240 Euro
 
-| 535,50 Euro
+|   560,00 Euro
 
 
 | 
@@ -12418,15 +12537,53 @@ Höhe des Pflegegeldes (30/30 von 765 Euro)
 
 | Gesamt
 
-| 605,50 Euro
+| 630,00 Euro
 
 
 49.4.9.4
 
-Der in der privaten Pflegeversicherung versicherte Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 5 die Pflege durch Berufspflegekräfte (100 Prozent = 2 200 Euro) und das Pflegegeld (100 Prozent = 947 Euro) in Anspruch. Jedoch wird vom 6. Juni bis 26. Juni, das heißt für die Dauer von drei Wochen (21 Tage), Verhinderungspflege nach § 51 in Anspruch genommen. Die Rechnung für die Pflege durch Berufspflegekräfte beträgt 770,00 Euro. Daneben sind für die Verhinderungspflege Aufwendungen in Höhe von 1 000 Euro entstanden (Höchstbetrag und Leistungszeitraum nach § 51 sind nicht überschritten).
+Der in der privaten Pflegeversicherung versicherte
+
+Versorgungsempfänger nimmt als Pflegebedürftiger des Pflegegrades 5
+
+die Pflege durch Berufspflegekräfte (100 Prozent =
+
+2 299 Euro) und das Pflegegeld (100 Prozent =
+
+990 Euro) in Anspruch. Jedoch wird vom 6. Juni bis
+
+26. Juni, das heißt für die Dauer von drei Wochen (21 Tage),
+
+Verhinderungspflege nach § 51 in Anspruch genommen. Die Rechnung
+
+für die Pflege durch Berufspflegekräfte beträgt 804,65 Euro.
+
+Daneben sind für die Verhinderungspflege Aufwendungen in Höhe von
+
+1 000 Euro entstanden (Höchstbetrag und Leistungszeitraum nach
+
+§ 51 sind nicht überschritten).
 
 
-Vorüberlegung: Für die Berechnung des Anteils des Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu ermitteln. Ferner wird Pflegegeld nur für die Tage der tatsächlichen Pflege geleistet. Da die Voraussetzungen nicht für den vollen Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu kürzen; dabei ist der Kalendermonat mit 30 Tagen anzusetzen. Für den ersten und letzten Tag der Verhinderungspflege wird das Pflegegeld weiter gewährt. Die Hälfte des bisher bezogenen Pflegegeldes wird während einer Verhinderungspflege nach § 51 für bis zu sechs Wochen je Kalenderjahr fortgewährt.
+Vorüberlegung: Für die Berechnung des Anteils des
+
+Pflegegeldes ist der Anteil für die Pflege durch Berufspflegekräfte zu
+
+ermitteln. Ferner wird Pflegegeld nur für die  Tage der tatsächlichen
+
+Pflege geleistet. Da die Voraussetzungen nicht für den vollen
+
+Kalendermonat erfüllt sind, ist das Pflegegeld anteilig zu kürzen; dabei
+
+ist der Kalendermonat mit 30 Tagen anzusetzen. Für den ersten und
+
+letzten Tag der Verhinderungspflege wird das Pflegegeld weiter gewährt.
+
+Die Hälfte des bisher bezogenen Pflegegeldes wird während einer
+
+Verhinderungspflege nach § 51 für bis zu acht Wochen je
+
+Kalenderjahr fortgewährt.
 
 
 Beispielberechnungen
@@ -12443,7 +12600,7 @@ Beispielberechnungen
 
 | –
 
-| Anteil der Pflege durch Berufspflegekräfte (770,00 Euro von 2 200 Euro)
+| Anteil der Pflege durch Berufspflegekräfte (804,65 Euro von 2 299 Euro)
 
 | 35 Prozent
 
@@ -12457,32 +12614,35 @@ Beispielberechnungen
 
 | –
 
-| Höchstgrenze für das Pflegegeld (65 Prozent von 947 Euro)
+| Höchstgrenze für das Pflegegeld (65 Prozent von 990 Euro)
 
-| 615,55 Euro
-
-
-| –
-
-| Pflegegeld ist für die Zeit vom 1. Juni bis 6. Juni (sechs Tage) und 26. Juni bis 30. Juni (fünf Tage) zu gewähren
-Höhe des Pflegegeldes (11/30 von 615,55 Euro)
-
-| 225,70 Euro
+| 643,50 Euro
 
 
 | –
 
-| hälftige Fortzahlung des Pflegegeldes für die Dauer von 19 Tagen (da für den ersten und letzten Tag der Verhinderungspflege volles Pflegegeld gewährt wird und der Kalendermonat mit den tatsächlichen Tagen anzusetzen ist)
-Höhe des hälftigen Pflegegeldes (= 19/30 von 615,55 Euro/2)
+| Pflegegeld ist für
 
-| 194,92 Euro
+die Zeit vom 1. Juni bis 6. Juni (sechs Tage) und
+
+26. Juni bis 30. Juni (fünf Tage) zu gewähren
+Höhe des Pflegegeldes (11/30 von 643,50 Euro)
+
+| 235,95 Euro
 
 
-| 
+| –
 
-| 
+| hälftige Fortzahlung
 
-| 
+des Pflegegeldes für die Dauer von 19 Tagen (da für den ersten und
+
+letzten Tag der Verhinderungspflege volles Pflegegeld gewährt wird und
+
+der Kalendermonat mit den tatsächlichen Tagen anzusetzen ist)
+Höhe des hälftigen Pflegegeldes (= 19/30 von 643,50 Euro/2)
+
+| 203,78 Euro
 
 
 | a)
@@ -12505,27 +12665,27 @@ Höhe des hälftigen Pflegegeldes (= 19/30 von 615,55 Euro/2)
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 30 Prozent von 770,00 Euro
+| zu den Aufwendungen für die Berufspflegekraft 30 Prozent von 804,65 Euro
 
-| 231,00 Euro
-
-
-| 
-
-| –
-
-| zum Pflegegeld für elf Tage 30 Prozent von 225,70 Euro
-
-| 67,71 Euro
+| 241,40 Euro
 
 
 | 
 
 | –
 
-| hälftige Fortzahlung des Pflegegeldes für 19 Tage, 30 Prozent von 194,92 Euro
+| zum Pflegegeld für elf Tage 30 Prozent von 235,95 Euro
 
-| 58,48 Euro
+| 70,79 Euro
+
+
+| 
+
+| –
+
+| hälftige Fortzahlung des Pflegegeldes für 19 Tage, 30 Prozent von 203,78 Euro
+
+|    61,13 Euro
 
 
 | 
@@ -12534,7 +12694,7 @@ Höhe des hälftigen Pflegegeldes (= 19/30 von 615,55 Euro/2)
 
 | Gesamt
 
-| 657,19 Euro
+| 673,32 Euro
 
 
 | b)
@@ -12557,27 +12717,33 @@ Höhe des hälftigen Pflegegeldes (= 19/30 von 615,55 Euro/2)
 
 | –
 
-| zu den Aufwendungen für die Berufspflegekraft 70 Prozent von 770,00 Euro
+| zu den Aufwendungen für die Berufspflegekraft 70 Prozent von 804,65 Euro
 
-| 539,00 Euro
-
-
-| 
-
-| –
-
-| Pauschalbeihilfe 225,70 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 67,71 Euro
-
-| 157,99 Euro
+| 563,26 Euro
 
 
 | 
 
 | –
 
-| hälftige Fortzahlung der Pauschalbeihilfe für 19 Tage, 194,92 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 58,48 Euro
+| Pauschalbeihilfe 235,95 Euro abzüglich des anteiligen Pflegegeldes der privaten Pflegeversicherung von 70,79 Euro
 
-| 136,44 Euro
+| 165,16 Euro
+
+
+| 
+
+| –
+
+| hälftige Fortzahlung der
+
+Pauschalbeihilfe für 19 Tage, 203,78 Euro abzüglich des
+
+anteiligen Pflegegeldes der privaten Pflegeversicherung von
+
+61,13 Euro
+
+|   142,65 Euro
 
 
 | 
@@ -12586,7 +12752,7 @@ Höhe des hälftigen Pflegegeldes (= 19/30 von 615,55 Euro/2)
 
 | Gesamt
 
-| 1 533,43 Euro
+| 1 571,07 Euro
 
 
 49.5
@@ -13064,7 +13230,7 @@ Zur Verbesserung der sozialen Sicherung der Pflegepersonen im Sinne des § 19 de
 
 49b.0.6
 
-Die Leistungen nach den §§ 44 und 44a des Elften Buches Sozialgesetzbuch bleiben für die Dauer der häuslichen Krankenpflege, bei vorübergehendem Auslandsaufenthalt des Pflegebedürftigen oder Erholungsurlaub der Pflegeperson von bis zu sechs Wochen im Kalenderjahr sowie in den ersten vier Wochen einer vollstationären Krankenhausbehandlung oder einer stationären Leistung zur medizinischen Rehabilitation bestehen (§ 34 Absatz 3 des Elften Buches Sozialgesetzbuch) und zwar unabhängig davon, ob Pauschalbeihilfe (Pflegegeld) in dieser Zeit weiter gezahlt wird. 
+Die Leistungen nach den §§ 44 und 44a des  Elften Buches Sozialgesetzbuch bleiben für die Dauer der häuslichen  Krankenpflege und bei vorübergehendem Auslandsaufenthalt des  Pflegebedürftigen von bis zu sechs Wochen im Kalenderjahr, bei  Erholungsurlaub der Pflegeperson von bis zu sechs Wochen beziehungsweise   ab 1. Juli 2025 von bis zu acht Wochen im Kalenderjahr sowie  in den ersten vier Wochen einer vollstationären Krankenhausbehandlung  oder einer stationären Leistung zur medizinischen Rehabilitation  bestehen (§ 34 Absatz 3 des Elften Buches Sozialgesetzbuch)  und zwar unabhängig davon, ob Pauschalbeihilfe (Pflegegeld) in dieser  Zeit weiter gezahlt wird.
 
 49b.0.7
 
@@ -14191,7 +14357,7 @@ Beihilfe zu Aufwendungen für eine Verhinderungspflege kann gewährt werden, wen
 
 51.1.2
 
-Die Höchstdauer und der Höchstbetrag beziehen sich auf das jeweilige Kalenderjahr. Der Anspruch ist nicht in das nächste Kalenderjahr übertragbar. Es ist aber möglich, dass die Leistung bis 31. Dezember eines Jahres in Anspruch genommen werden kann und ab 1. Januar des Folgejahres der Anspruch für sechs Wochen weiter besteht oder wiederauflebt und somit entsprechende Aufwendungen erneut beihilfefähig sind.
+Die Höchstdauer und der Höchstbetrag beziehen sich auf das jeweilige Kalenderjahr. Der Anspruch ist nicht in das nächste Kalenderjahr übertragbar. Es ist aber möglich, dass die Leistung bis 31. Dezember eines Jahres in Anspruch genommen werden kann und ab 1. Januar des Folgejahres der Anspruch für acht Wochen weiter besteht oder wiederauflebt und somit entsprechende Aufwendungen erneut beihilfefähig sind.
 
 
 51.1.3
@@ -14200,12 +14366,52 @@ Die Verhinderungspflege kann zum einen durch eine nicht erwerbsmäßig pflegende
 
 51.1.4
 
-Bei Empfängern von Pauschalbeihilfe tritt die Leistung der Verhinderungspflege an die Stelle der Pauschalbeihilfe. Für den ersten und letzten Tag der Verhinderungspflege wird die Pauschalbeihilfe gezahlt. Dies gilt auch, wenn die Verhinderungspflege in mehreren Teilzeiträumen in Anspruch genommen wird, da am ersten und letzten Tag der Verhinderungspflege auch die Voraussetzungen für die Pauschalbeihilfe erfüllt werden. Die Hälfte der bisher bezogenen Pauschalbeihilfe (§ 49 Absatz 4) wird während einer Verhinderungspflege für bis zu sechs Wochen beziehungsweise 42 Tage im Kalenderjahr gewährt (vergleiche Nummer 49.4.1).
+Bei Empfängern von Pauschalbeihilfe tritt die Leistung der Verhinderungspflege an die Stelle der Pauschalbeihilfe. Für den ersten und letzten Tag der Verhinderungspflege wird die Pauschalbeihilfe gezahlt. Dies gilt auch, wenn die Verhinderungspflege in mehreren Teilzeiträumen in Anspruch genommen wird, da am ersten und letzten Tag der Verhinderungspflege auch die Voraussetzungen für die Pauschalbeihilfe erfüllt werden. Die Hälfte der bisher bezogenen Pauschalbeihilfe
+
+(§ 49 Absatz 4) wird während einer Verhinderungspflege für bis
+
+zu acht Wochen beziehungsweise 56 Tage im Kalenderjahr gewährt
+
+(vergleiche Nummer 49.4.1).
 
 
 51.1.5
 
-Auch eine nur stundenweise Verhinderung der Pflegeperson ist beihilfefähig. In diesen Fällen erfolgt ausschließlich eine Anrechnung auf den Höchstbetrag nach Absatz 1. Für Tage, an denen die Pflegeperson nicht mindestens acht Stunden verhindert ist, erfolgt keine Anrechnung auf die Höchstdauer von 42 Tagen im Kalenderjahr. Entscheidend für die Anrechnung auf die Höchstdauer ist der tatsächliche Verhinderungszeitraum der Pflegeperson und nicht die Dauer der Inanspruchnahme der Verhinderungspflege. Ist die Pflegeperson beispielsweise an acht Stunden verhindert und wird die Ersatzpflege nur an zwei Stunden in Anspruch genommen, erfolgt sowohl eine Anrechnung auf den Höchstbetrag als auch eine Anrechnung auf die Höchstdauer von 42 Tagen. Die Pauschalbeihilfe wird bei stundenweiser Verhinderung der Pflegeperson von weniger als acht Stunden täglich nicht gekürzt. Ist der Beihilfeanspruch der Verhinderungspflege im laufenden Kalenderjahr der Dauer, nicht aber der Höhe nach bereits ausgeschöpft, ist der nicht verbrauchte Höchstbetrag der Verhinderungspflege für die stundenweise Verhinderungspflege bei Verhinderung der Pflegeperson von weniger als acht Stunden täglich beihilfefähig.
+Auch eine nur stundenweise Verhinderung der
+
+Pflegeperson ist beihilfefähig. In diesen Fällen erfolgt ausschließlich
+
+eine Anrechnung auf den Höchstbetrag nach Absatz 1. Für Tage, an
+
+denen die Pflegeperson nicht mindestens acht Stunden verhindert ist,
+
+erfolgt keine Anrechnung auf die Höchstdauer von 56 Tagen im
+
+Kalenderjahr. Entscheidend für die Anrechnung auf die Höchstdauer ist
+
+der tatsächliche Verhinderungszeitraum der Pflegeperson und nicht die
+
+Dauer der Inanspruchnahme der Verhinderungspflege. Ist die Pflegeperson
+
+beispielsweise an acht Stunden verhindert und wird die Ersatzpflege nur
+
+an zwei Stunden in Anspruch genommen, erfolgt sowohl eine Anrechnung auf
+
+den Höchstbetrag als auch eine Anrechnung auf die Höchstdauer von
+
+56 Tagen. Die Pauschalbeihilfe wird bei stundenweiser Verhinderung
+
+der Pflegeperson von weniger als acht Stunden täglich nicht gekürzt. Ist
+
+der Beihilfeanspruch der Verhinderungspflege im laufenden Kalenderjahr
+
+der Dauer, nicht aber der Höhe nach bereits ausgeschöpft, ist der nicht
+
+verbrauchte Höchstbetrag der Verhinderungspflege für die stundenweise
+
+Verhinderungspflege bei Verhinderung der Pflegeperson von weniger als
+
+acht Stunden täglich beihilfefähig.
 
 
 51.1.6
@@ -14215,7 +14421,7 @@ Die Aufwendungen der Verhinderungspflege können bis zum Höchstbetrag ohne ante
 
 51.1.7
 
-Auf die Höchstdauer von sechs Wochen wird die Zeit einer Beihilfebewilligung nach § 52 (Kurzzeitpflege) nicht angerechnet. Aufwendungen für Kurzzeit- und Verhinderungspflege sind daher auch dann beihilfefähig, wenn beide Leistungen im unmittelbaren Anschluss nacheinander in Anspruch genommen werden, soweit die jeweiligen Voraussetzungen vorliegen.
+Auf die Höchstdauer von acht Wochen wird die Zeit einer Beihilfebewilligung nach § 52 (Kurzzeitpflege) nicht angerechnet. Aufwendungen für Kurzzeit- und Verhinderungspflege sind daher auch dann beihilfefähig, wenn beide Leistungen im unmittelbaren Anschluss nacheinander in Anspruch genommen werden, soweit die jeweiligen Voraussetzungen vorliegen.
 
 
 51.1.8
@@ -14276,6 +14482,153 @@ Wird die Verhinderungspflege außerhalb der Häuslichkeit des Pflegebedürftigen
 Zum Zusammentreffen von Aufwendungen für Verhinderungspflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch nach § 56 wird auf die Ausführungen unter Nummer 56.7 verwiesen. 
 
 
+51.1.11
+
+Auf Grundlage von § 80 Absatz 9 Satz 4
+
+des Sächsischen Beamtengesetzes wird wegen der Änderungen des Elften
+
+Buches Sozialgesetz zum 1. Juli 2025 (vergleiche
+
+Artikel 2a des
+
+Pflegeunterstützungs- und -entlastungsgesetzes vom
+
+19. Juni 2023 [BGBl. 2023 I Nr. 155]) für ab
+
+dem 1. Juli 2025 entstehende Aufwendungen für
+
+Verhinderungspflege Folgendes bestimmt:
+
+
+51.1.11.1
+
+Aufwendungen für Verhinderungspflege im Sinne des
+
+Absatzes 1 sind bis zur Dauer von acht Wochen (56 Tage) je
+
+Kalenderjahr bis zur Höhe des gemeinsamen Jahresbetrages für
+
+Verhinderungspflege und Kurzzeitpflege nach § 42a des Elften Buches
+
+Sozialgesetzbuch in der ab 1. Juli 2025 geltenden Fassung
+
+beihilfefähig (Stand 1. Juli 2025: 3 539 Euro).
+
+
+51.1.11.2
+
+
+Wird die Verhinderungspflege durch Ersatzpflegekräfte
+
+im Sinne des Absatzes 2 Satz 1 erbracht, sind Aufwendungen bis
+
+zur Höhe des zweifachen Betrages der Pauschalbeihilfe nach § 49
+
+Absatz 2 beihilfefähig. Daneben sind notwendige Aufwendungen der
+
+Ersatzpflegekraft im Sinne des Absatzes 2 Satz 2
+
+beihilfefähig, soweit insgesamt der gemeinsame Jahresbetrag für
+
+Verhinderungspflege und Kurzzeitpflege nach § 42a des Elften Buches
+
+Sozialgesetzbuch in der ab 1. Juli 2025 geltenden Fassung
+
+nicht überschritten wird.
+Beispiel (zum Stand 1. Juli 2025):
+Die Verhinderungspflege bei einem Pflegebedürftigen des
+
+Pflegegrades 4 wird von dessen nicht mit ihm in häuslicher
+
+Gemeinschaft lebenden Sohn vom 20. April bis 10. Mai
+
+(21 Kalendertage) durchgeführt. Von der Pflegeperson werden
+
+pflegebedingte Aufwendungen in Höhe von 546 Euro, ein
+
+Verdienstausfall in Höhe von 1 445 Euro und Fahrtkosten in
+
+Höhe von 84,00 Euro (20 km x 0,20 Euro = 4,00 Euro x
+
+21 Tage = 84,00 Euro) nachgewiesen.
+
+
+Beispielberechnungen
+
+
+| Untergliederung
+
+
+| was wird berechnet
+
+
+| in Prozent/Euro
+
+
+| –
+
+| Beihilfefähigkeit der
+
+Verhinderungspflege, begrenzt auf den zweifachen Betrag der
+
+Pauschalbeihilfe (Pflegegeld) des Pflegegrades 4 (800 Euro x
+
+2  =) 1 600 Euro
+
+| 546,00 Euro
+
+
+| –
+
+| plus Fahrtkosten
+
+| 84,00 Euro
+
+
+| –
+
+| plus Verdienstausfall = 1 445 Euro
+
+| 1 445,00 Euro
+
+
+| –
+
+| Gesamt
+
+| 2 075,00 Euro
+
+
+Der Höchstbetrag von 3 539 Euro nach Absatz 1 wird nicht überschritten.
+
+Aufwendungen für eine Verhinderungspflege nach
+
+§ 51 oder eine Kurzzeitpflege nach § 52 sind im restlichen
+
+Kalenderjahr bis zu 1 464 Euro beihilfefähig.
+
+
+51.1.11.3
+
+Die Aufwendungen für Verhinderungspflege nach § 51   und Kurzzeitpflege nach § 52 sind insgesamt bis zur Höhe des  gemeinsamen Jahresbetrages für Verhinderungspflege und Kurzzeitpflege  nach § 42a des Elften Buches Sozialgesetzbuch in der ab  1. Juli 2025 geltenden Fassung beihilfefähig. Beihilfefähige  Aufwendungen für Verhinderungspflege nach § 51 und Kurzzeitpflege  nach § 52, die im Zeitraum vom 1. Januar 2025 bis  einschließlich 30. Juni 2025 entstanden sind, sind auf den  gemeinsamen Jahresbetrag für Verhinderungspflege und Kurzzeitpflege nach   § 42a des Elften Buches Sozialgesetzbuch in der ab  1. Juli 2025 geltenden Fassung für das Kalenderjahr 2025  anzurechnen. Absatz 3 findet ab 1. Juli 2025 keine  Anwendung mehr.
+
+
+51.1.11.4
+
+Die Hälfte der bisher bezogenen Pauschalbeihilfe nach
+
+§ 49 Absatz 2 oder der anteiligen Pauschalbeihilfe nach
+
+§ 49 Absatz 3 wird während einer Verhinderungspflege nach
+
+§ 51 für bis zu acht Wochen je Kalenderjahr fortgewährt (vergleiche
+
+Nummer 49.4.1). Absatz 4 findet im Übrigen ab
+
+1. Juli 2025 keine Anwendung mehr.
+
+
 51.2
 
 
@@ -14284,12 +14637,24 @@ Zu Absatz 2
 
 51.2.1
 
-Wird die Verhinderungspflege in Form der häuslichen Pflege durch eine Pflegeperson durchgeführt, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert ist oder mit ihm in häuslicher Gemeinschaft lebt, kann davon ausgegangen werden, dass die Verhinderungspflege nicht erwerbsmäßig ausgeübt wird; in diesen Fällen sind die Aufwendungen grundsätzlich auf den Betrag der eineinhalbfachen Pauschalbeihilfe beschränkt. Werden aber höhere notwendige Aufwendungen durch die Pflegeperson nachgewiesen, wie zum Beispiel Verdienstausfall oder Fahrtkosten, so kann in diesen besonders gelagerten Fällen eine Kostenerstattung bis zum Höchstbetrag nach Absatz 1 erfolgen; Absatz 3 findet Anwendung. Eine pauschale Gewährung von Beihilfe bis zur Höhe des Betrages der eineinhalbfachen Pauschalbeihilfe kommt insoweit nur in Betracht, wenn die besonders nachgewiesenen Aufwendungen diesen Höchstbetrag nicht überschritten haben.
+Wird die Verhinderungspflege in Form der häuslichen Pflege durch eine Pflegeperson durchgeführt, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert ist oder mit ihm in häuslicher Gemeinschaft lebt, kann davon ausgegangen werden, dass die Verhinderungspflege nicht erwerbsmäßig ausgeübt wird; in diesen Fällen sind die Aufwendungen grundsätzlich auf den Betrag der eineinhalbfachen Pauschalbeihilfe beschränkt. Werden aber höhere notwendige Aufwendungen durch die
+
+Pflegeperson nachgewiesen, wie zum Beispiel Verdienstausfall oder
+
+Fahrtkosten, so kann in diesen besonders gelagerten Fällen eine
+
+Kostenerstattung bis zum Höchstbetrag nach Absatz 1 erfolgen. Eine pauschale Gewährung von Beihilfe bis zur Höhe des Betrages der eineinhalbfachen Pauschalbeihilfe kommt insoweit nur in Betracht, wenn die besonders nachgewiesenen Aufwendungen diesen Höchstbetrag nicht überschritten haben.
 
 
 51.2.2
 
-Wird die Verhinderungspflege durch entfernte Verwandte oder Verschwägerte (ab dem dritten Grade) oder durch eine sonstige Person, zum Beispiel aus der Nachbarschaft, geleistet, gelten die Absätze 1 und 3. Insoweit kann der beihilfefähige Höchstbetrag nach Absatz 1 um bis zu 806 Euro aus noch nicht in Anspruch genommenen Leistungen der Kurzzeitpflege nach § 52 auf insgesamt bis zu 2 418 Euro im Kalenderjahr erhöht werden (Absatz 3).
+Wird die Verhinderungspflege durch entfernte Verwandte
+
+oder Verschwägerte (ab dem dritten Grade) oder durch eine sonstige
+
+Person, zum Beispiel aus der Nachbarschaft, geleistet, gilt
+
+Absatz 1.
 
 
 51.2.3
@@ -14420,17 +14785,7 @@ Es wird besonders darauf hingewiesen, dass auf Grund  von § 51 Absatz 3 der bei
 51.3
 
 
-Zu Absatz 3
-
-
-51.3.1
-
-Absatz 3 gilt auch für die Fälle, in denen die Verhinderungspflege durch Pflegepersonen sichergestellt wird, die mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert ist (vergleiche Nummer 51.2.4) oder mit ihm in häuslicher Gemeinschaft leben.
-
-
-51.3.2
-
-Erfolgt die Verhinderungspflege nach Absatz 1 in einer zugelassenen Kurzzeitpflegeeinrichtung, kann nach Ausschöpfung des beihilfefähigen Höchstbetrages nach Absatz 1 der beihilfefähige Höchstbetrag nach § 52 eingesetzt werden. Der Beihilfeberechtigte hat jedoch nach Absatz 3 auch die Möglichkeit, nach Ausschöpfung des beihilfefähigen Höchstbetrages nach Absatz 1 den noch nicht in Anspruch genommenen beihilfefähigen Höchstbetrag der Kurzzeitpflege nach § 52 zur Hälfte auf die Verhinderungspflege zu übertragen.
+Zu Absatz 3 (bleibt frei)
 
 
 51.4
@@ -14511,15 +14866,36 @@ Bei einem Wechsel von einer Kurzzeitpflegeeinrichtung in eine vollstationäre Pf
 
 Zum Zusammentreffen von Aufwendungen für Kurzzeitpflege und Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung im Sinne von § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch oder in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch nach § 56 wird auf die Ausführungen unter Nummer 56.7 verwiesen. 
 
+52.1.11
+
+Auf Grundlage von § 80 Absatz 9 Satz 4
+
+des Sächsischen Beamtengesetzes wird wegen der Änderungen des Elften
+
+Buches Sozialgesetz zum 1. Juli 2025 (vergleiche
+
+Artikel 2a des
+
+Pflegeunterstützungs- und -entlastungsgesetzes vom
+
+19. Juni 2023 [BGBl. 2023 I Nr. 155]) für ab
+
+dem 1. Juli 2025 entstehende Aufwendungen für Kurzzeitpflege
+
+Folgendes bestimmt:
+
+52.1.11.1
+
+Aufwendungen für Kurzzeitpflege im Sinne des  Absatzes 1 sind bis zur Dauer von acht Wochen je Kalenderjahr bis  zur Höhe des gemeinsamen Jahresbetrages für Verhinderungspflege und  Kurzzeitpflege nach § 42a des Elften Buches Sozialgesetzbuch in der   ab 1. Juli 2025 geltenden Fassung beihilfefähig (Stand  1. Juli 2025: 3 539 Euro).
+
+52.1.11.2
+
+Nummer 51.1.11.3 gilt entsprechend. Absatz 2 findet ab 1. Juli 2025 keine Anwendung mehr.
+
 52.2
 
 
-Zu Absatz 2
-
-
-52.2.1
-
-Der beihilfefähige Höchstbetrag der Kurzzeitpflege nach Absatz 1 kann um den Betrag bis zur Höhe des beihilfefähigen Höchstbetrages aus noch nicht in Anspruch genommenen Mitteln der Verhinderungspflege nach § 51 erhöht werden. Der für die Kurzzeitpflege in Anspruch genommene Erhöhungsbetrag wird auf den beihilfefähigen Höchstbetrag für eine Verhinderungspflege nach § 51 Absatz 1 angerechnet.
+Zu Absatz 2 (bleibt frei)
 
 
 52.3
@@ -17975,9 +18351,9 @@ Fsn-Nr.: 242-V16.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Juni 2025
+Fassung gültig ab:  1. Juli 2025
 
-Fassung gültig bis: 30. Juni 2025
+Fassung gültig bis:  7. August 2025
 
 Drucken/Speichern
 
@@ -18004,7 +18380,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16881.6
+https://www.revosax.sachsen.de/vorschrift/16881.7
 Stand vom
 18.11.2026
 
