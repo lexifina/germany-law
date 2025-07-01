@@ -1,0 +1,139 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-07-01T16:00:00+02:00
+- Ende: 2025-07-01T17:51:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23382
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23382
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00351161.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00352728.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss und Konzernabschluss der WSW Wuppertaler Stadtwerke GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der WSW Energie & Wasser AG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrates der WSW Energie & Wasser AG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der WSW mobil GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der WSW mobil GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Neue Effizienz gemeinnützige GmbH für das Geschäftsjahr 2024 und Ermächtigung der Geschäftsführung für Beschlüsse in der Gesellschafterversammlung der Realer Wandel GmbH - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der BEG Bergische Entsorgungsgesellschaft mbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrates der BEG Bergische Entsorgungsgesellschaft mbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss der VSG Verkehrs-Service GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss der BinnenWind GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss der BinnenWind Windpark Verwaltungs GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss der GWH Gemeinschaftswerk Hattingen GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss der Windpark Kahlenberg II GmbH & Co. KG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss der Windpark Kahlenberg III GmbH & Co. KG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal und Konzern gwg für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.13.1: Entlastung des Aufsichtsrates der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2023 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - Entgegennahme ohne Beschluss
+- TOP 1.15: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss der Wirtschaftsförderung Wuppertal AöR für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.17: Jahresabschluss der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.17.1: Entlastung des Aufsichtsrates der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.18: Jahresabschluss der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.18.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.19: Jahresabschluss und Lagebericht 2023 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.19.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.20: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.20.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.21: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.21.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.22: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.23: Jahresabschluss 2023 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.24: Jahresabschluss 2023 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.25: Jahresabschluss 2024 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.25.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 1.26: Jahresabschluss 2024 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.26.1: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2025/2026 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2025/2026 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan 2025 der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 2.5: Fortgeltung der Wirtschaftspläne 2025 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Zweite Änderungssatzung des Eigenbetriebs Straßenreinigung (ESW) - ungeändert beschlossen
+- TOP 3.2: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderung des Gesellschaftsvertrags - ungeändert beschlossen
+- TOP 3.3: Bestellung des Wirtschaftsprüfers für den Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 3.4: Beteiligungsbericht 2023 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.5: QUARTALSREPORT für Q1/2025 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Bericht zur Darstellung der finanziellen Auswirkungen der Bundesgartenschau im Jahr 2031 zur Vorbereitung der Haushaltsberatung für die Jahre 2026/2027 - Entgegennahme ohne Beschluss
+- TOP 5.2: Vermarktung der Wuppertaler Zoosäle in einem zweistufigen Investorenauswahlverfahren - Entgegennahme ohne Beschluss
+- TOP 5.3: Umsetzung des Ratsauftrages zur Verbesserung der Zusammenarbeit zwischen Wirtschaft und Verwaltung -2. Zwischenbericht über den Stand der Umsetzung- - Entgegennahme ohne Beschluss
+- TOP 5.4: Erweiterter Personalbericht - Entgegennahme ohne Beschluss
+- TOP 5.5: Vermarktung von städtischen Grundstücken zu Wohnbauzwecken an der Hans-Böckler-Straße - Entgegennahme ohne Beschluss
+- TOP 5.6: Anhandgabe eines städtischen Grundstücks in Wuppertal Barmen - Entgegennahme ohne Beschluss
+- TOP 5.7: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Cronenberg - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Sondernutzungssatzung - Anpassung - vertagen
+- TOP 6.2: ISEK Vohwinkel - Vergabe und Planung zentraler öffentlicher Räume des Stationsgartens, Lienhardplatzes und Bahnhofsvorplatzes - ungeändert beschlossen
+- TOP 6.3: ISEK Elberfeld - Gestaltungssatzung Innenstadt Elberfeld - Durchführungsbeschluss Ausschreibung vorbereitende Leistungen und Gestaltungshandbuch - ungeändert beschlossen
+- TOP 6.4: Grundsatzbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 6.5: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - ungeändert beschlossen
+- TOP 6.6: Instandsetzungsmaßnahme Nevigeser Straße (unterer Teil) - ungeändert beschlossen
+- TOP 6.7: Sanierungsmaßnahme Westfalenweg - ungeändert beschlossen
+- TOP 6.8: Finanzierung der Instandsetzungsmaßnahme Vogelsangstraße - ungeändert beschlossen
+- TOP 6.9: Sanierungsmaßnahme Vohwinkeler Straße - ungeändert beschlossen
+- TOP 6.10: Fortsetzung Sanierung der Futtermauern im Einschnitt Bramdelle NBT - ungeändert beschlossen
+- TOP 6.11: Nützenberger Straße - Grundhafte Erneuerung im Zuge von WSW Arbeiten - ungeändert beschlossen
+- TOP 6.12: Vorratsbeschluss zur Kostenneufestsetzung "Neugestaltung Alte Freiheit- Poststraße- Kerstenplatz" - ungeändert beschlossen
+- TOP 6.13: „Wuppertaler Klimagipfel“ – Klimafreundlicher Grünraumverbund im Wuppertaler Norden - ungeändert beschlossen
+- TOP 6.14: Schulbauoffensive 2035 "Wuppertal baut Bildung" - zur Beratung und Entscheidung verwiesen
+- TOP 6.14.1: Ergänzungsantrag zu TOP 6.14 - Schulbauoffensive 2035 "Wuppertal baut Bildung" (VO/0476/25) - zur Beratung und Entscheidung verwiesen
+- TOP 6.15: Fortführung der kommunalen Schulsozialarbeit nach Inkrafttreten der neuen Förderrichtlinie zur Schulsozialarbeit - ungeändert beschlossen
+- TOP 6.16: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen - ungeändert beschlossen
+- TOP 6.16.1: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen, VO 0463/25 - ungeändert beschlossen
+- TOP 6.17: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - ungeändert beschlossen
+- TOP 6.18: Durchführungsbeschluss: Neubau der Offenen Ganztagsgrundschule Eichenstr. 59 mit Einfachturnhalle - ungeändert beschlossen
+- TOP 6.19: Zugerweiterung an der Erich-Fried-Gesamtschule, An der Blutfinke 70, 42369 Wuppertal - ungeändert beschlossen
+- TOP 6.20: Betriebskostenzuschüsse 2025 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 6.21: Satzung über die Errichtung und Unterhaltung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Obdachloseneinrichtungen der Stadt Wuppertal (1. Änderungssatzung). - ungeändert beschlossen
+- TOP 6.22: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Obdachloseneinrichtungen der Stadt Wuppertal (7. Änderungssatzung). - ungeändert beschlossen
+- TOP 6.23: Rettungsdienstbedarfsplan der Stadt Wuppertal 2025 - zur Beratung und Entscheidung verwiesen
+- TOP 6.24: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen im Rettungsdienst und Fahrzeugbeschaffungen im Rettungsdienst - ungeändert beschlossen
+- TOP 6.25: Überplanmäßige Verpflichtungsermächtigung 2025 zur Anschaffung von Fahrzeugen für den Brandschutz - ungeändert beschlossen
+- TOP 6.26: Entgeltordnung Museum Industriekultur - ungeändert beschlossen
+- TOP 6.27: Entgeltordnung der Stadt Wuppertal für die Nutzung von städtischem unbebauten Grundbesitz - ungeändert beschlossen
+- TOP 6.28: Unterstützung eines privaten Investitionsvorhabens zum Bau und Betrieb einer zirkularen Multifunktionsarena – Wo Kreislaufwirtschaft auf Publikum trifft! - ungeändert beschlossen
+- TOP 6.29: Neubau des Betriebshofs Giebel 46 – Durchführungsbeschluss 2. Bauabschnitt - zur Beratung und Entscheidung verwiesen
+- TOP 6.29.1: Ergänzungsantrag zur Drucksache VO/0682/25 - Neubau des Betriebshofs Giebel 46 - Durchführungsbeschluss 2. Baubabschnitt - zur Beratung und Entscheidung verwiesen
+- TOP 6.30: Übertragung von Grundstücken zwischen der Stadt und dem GMW - ungeändert beschlossen
+- TOP 6.31: Herstellung der Barrierefreiheit im historischen Rathaus Vohwinkel (Rubensstraße 4) - ungeändert beschlossen
+- TOP 6.32: Circular Valley – institutionelle Förderung - ungeändert beschlossen
+- TOP 6.33: Direkter Beitritt zu der „Einkaufsgenossenschaft ProVitako e.G.“ - ungeändert beschlossen
+- TOP 6.34: Antrag zur Bereitstellung von Dolmetscher:innen in Gremien und bei städtischen Veranstaltungen - vertagen
+- TOP 6.35: Neubau der Tageseinrichtungen für Kinder Grafenstraße und Leibuschstraße – hier: Änderung der bisherigen Beschlüsse (VO/0911/23 und VO/0912/23) zu Gunsten der Träger der freien Jugendhilfe - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 15.03.2025-13.06.2025 - Entgegennahme ohne Beschluss
+- TOP 8.2: Ermächtigungsübertragungen in das Haushaltsjahr 2025 - Entgegennahme ohne Beschluss
+- TOP 8.3: Aktueller Sachstand zum Entwurf eines Gesetzes zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen (Länder- und Kommunal-Infrastrukturfinanzierungsgesetz – LuKIFG) - Entgegennahme ohne Beschluss
+- TOP 8.4: Sachstandsbericht zur aktuellen Steuerschätzung (Mai 2025) sowie der potenziellen Auswirkungen des geplanten steuerlichen Investitionssofortprogramms zur Stärkung des Wirtschaftsstandorts Deutschland („Investitions-Booster“) - Entgegennahme ohne Beschluss
+- TOP 8.5: Aktueller Sachstand zur Aufstellung eines Haushaltssicherungskonzeptes 2026 ff. - Entgegennahme ohne Beschluss
+- TOP 8.6: Bericht zur finanziellen Lage der Stadt Wuppertal (Finco) - Entgegennahme ohne Beschluss
+- TOP 8.7: Dienstanweisung des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Aktualisierung Verwaltungsgebührenordnung - ungeändert beschlossen
+- TOP 9.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2023 - ungeändert beschlossen
+- TOP 9.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2024 - ungeändert beschlossen
+- TOP 9.4: Teilnahme am anteiligen Entschuldungsprogramm des Landes NRW nach dem Entwurf zum Altschuldenentlastungsgesetz NRW vom 13.05.2025 (Landtagsdrucksache 18/13835) - ungeändert beschlossen
+- TOP 9.5: Antrag der FDP Fraktion zum Sondervermögen Infrastruktur - vertagen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
