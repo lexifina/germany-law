@@ -1,0 +1,3 @@
+# § 19b Auskunftsrechte und Verschwiegenheitspflichten
+(1) Die Träger der öffentlichen Jugendhilfe und die Träger der freien Jugendhilfe sind verpflichtet, den nach § 19a finanzierten Ombudsstellen unter Beachtung der für sie geltenden datenschutzrechtlichen Bestimmungen Auskunft zu erteilen und zu einer Klärung bestehender Fragestellungen und Konflikte beizutragen.
+(2) Personen, die in einer nach § 19a finanzierten Ombudsstelle tätig sind, sind zur Verschwiegenheit über die Angelegenheiten verpflichtet, die ihnen im Zusammenhang mit ihrer Tätigkeit anvertraut worden sind. Die Pflicht nach Satz 1 besteht nach Beendigung der Tätigkeit fort.
