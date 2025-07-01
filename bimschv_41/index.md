@@ -50,4 +50,4 @@
 - [§ 20 Zugänglichkeit der Normen](0020.md)
 - [§ 21 Übergangsvorschriften](0021.md)
 - [Anlage 1 (zu § 2 Nummer 1, § 4 Absatz 1, § 12 Absatz 2, § 13 Absatz 1 und § 16 Absatz 3 und 5)Prüfbereiche für Stellen](anlage-1.md)
-- [Anlage 2 (zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2 und § 13 Absatz 2)Prüfungsbereiche für Sachverständige](anlage-2.md)
+- [Anlage 2 (zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2, § 13 Absatz 2 und § 13 Absatz 2a)Prüfungsbereiche für Sachverständige](anlage-2.md)

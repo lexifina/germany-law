@@ -47,7 +47,7 @@
 - [§ 29 Projektmanager](0029.md)
 - [§ 30 Kostenpflichtige Amtshandlungen](0030.md)
 - [§ 30a Geheimhaltung und Datenschutz, Barrierefreiheit](0030a.md)
-- [§ 30b Weitere Verfahrensanordnungen](0030b.md)
+- [§ 30b (weggefallen)](0030b.md)
 
 ## Abschnitt 5 Behörden und Gremien
 

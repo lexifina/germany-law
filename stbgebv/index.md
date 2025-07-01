@@ -1,13 +1,16 @@
 # Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Erster Abschnitt Allgemeine Vorschriften
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Sinngemäße Anwendung der Verordnung](0002.md)
 - [§ 3 Auslagen](0003.md)
-- [§ 4 Vereinbarung der Vergütung](0004.md)
+- [§ 4 Vergütungsvereinbarung](0004.md)
+- [§ 4a Unterschreiten der gesetzlichen Vergütung](0004a.md)
+- [§ 4b Fehlerhafte Vergütungsvereinbarung](0004b.md)
 - [§ 5 Mehrere Steuerberater](0005.md)
 - [§ 6 Mehrere Auftraggeber](0006.md)
 - [§ 7 Fälligkeit](0007.md)
@@ -20,7 +23,7 @@
 - [§ 11 Rahmengebühren](0011.md)
 - [§ 12 Abgeltungsbereich der Gebühren](0012.md)
 - [§ 13 Zeitgebühr](0013.md)
-- [§ 14 Pauschalvergütung](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 
 ## Dritter Abschnitt Umsatzsteuer, Ersatz von
 Auslagen
@@ -37,7 +40,7 @@ und für die Hilfeleistung bei der Erfüllung allgemeiner
 Steuerpflichten
 
 - [§ 21 Rat, Auskunft, Erstberatung](0021.md)
-- [§ 22 Gutachten](0022.md)
+- [§ 22 Gutachten und Antrag auf verbindliche Auskunft](0022.md)
 - [§ 23 Sonstige Einzeltätigkeiten](0023.md)
 - [§ 24 Steuererklärungen](0024.md)
 - [§ 25 Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben](0025.md)
@@ -62,28 +65,13 @@ Aufzeichnungspflichten
 - [§ 38 Erteilung von Bescheinigungen](0038.md)
 - [§ 39 Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe](0039.md)
 
-## Sechster Abschnitt Gebühren für die Vertretung
-im außergerichtlichen Rechtsbehelfsverfahren und im
-Verwaltungsvollstreckungsverfahren
+## Sechster Abschnitt Vergütung für die Vertretung in außergerichtlichen Rechtsbehelfsverfahren, gerichtlichen und anderen Verfahren
 
-- [§ 40 Verfahren vor den Verwaltungsbehörden](0040.md)
-- [§ 41 (weggefallen)](0041.md)
-- [§ 42 (weggefallen)](0042.md)
-- [§ 43 (weggefallen)](0043.md)
-- [§ 44 Verwaltungsvollstreckungsverfahren](0044.md)
+- [§ 40 Anwendung des Rechtsanwaltsvergütungsgesetzes](0040.md)
 
-## Siebenter Abschnitt Gerichtliche und andere
-Verfahren
+## Siebenter Abschnitt Übergangsvorschrift
 
-- [§ 45 Vergütung in gerichtlichen und anderen Verfahren](0045.md)
-- [§ 46 Vergütung bei Prozeßkostenhilfe](0046.md)
-
-## Achter Abschnitt Übergangs- und Schlußvorschriften
-
-- [§ 47 Anwendung](0047.md)
-- [§ 47a Übergangsvorschrift für Änderungen dieser Verordnung](0047a.md)
-- [§ 48](0048.md)
-- [§ 49 Inkrafttreten](0049.md)
+- [§ 41 Berechnung der Vergütung bei Änderungen dieser Verordnung](0041.md)
 - [Schlußformel](schlussformel.md)
 - [Anlage 1 Tabelle A(Beratungstabelle)](anlage-1.md)
 - [Anlage 2 Tabelle B(Abschlusstabelle)](anlage-2.md)

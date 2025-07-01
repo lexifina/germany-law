@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2 und § 13 Absatz 2)Prüfungsbereiche für Sachverständige
+# Anlage 2 (zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2, § 13 Absatz 2 und § 13 Absatz 2a)Prüfungsbereiche für Sachverständige
 
 Prüfungsbereiche ergeben sich aus der Kombination von Anlagenarten (A.) und Fachgebieten (B.).
 A. Anlagenarten
@@ -19,7 +19,9 @@ B. Fachgebiete
 | 7 | Versorgung mit Energien und Medien |  |
 | 8 | umgebungsbedingte Gefahrenquellen |  |
 | 9 | Elektrotechnik |  |
-| 10 | MSR-/Prozessleittechnik | Mess-, Steuer- und Regeltechnik, Prozessleittechnik (hard- und softwaremäßige Ausführung, Betrieb und Prüfung von MSR-Technik/PLT) |
+| 10 | MSR-/Prozessleittechnik |  |
+| 10.1 | MSR-/Prozessleittechnik | Mess-, Steuer- und Regeltechnik, Prozessleittechnik (hard- und softwaremäßige Ausführung, Betrieb und Prüfung von MSR-Technik/PLT) |
+| 10.2 | Prozessleittechnik – Cyber-Security | Informationstechnische Prüfung der Sicherheit von IT- (Informationstechnologie) und OT- (operative Technologie) Systemen (z. B. Schutz vor cyberphysischen Angriffen) |
 | 11 | systematische Methoden der Gefahrenanalyse |  |
 | 12 | Stoffeigenschaften | chemische, physikalische, human- und ökotoxikologische Eigenschaften von Stoffen, Gemischen und Abfällen |
 | 12.1 | Bewertung der Stoffeigenschaften | Bewertung chemischer, physikalischer und reaktionstechnischer Eigenschaften von Stoffen, Gemischen und Abfällen |

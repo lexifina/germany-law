@@ -1,26 +1,28 @@
-# Anlage 2 Besondere pauschale Stundensätze des Auswärtigen Amts nach Anlage 2 AGebV in der ab 18. Februar 2021 gültigen Fassung (einschließlich Sacheinzelkosten und Gemeinkostenzuschlag)
+# Anlage 2 Besondere pauschale Stundensätze des Auswärtigen Amts
 
-Wenn Dienstreisen als Auslagen abzurechnen sind, muss der Stundensatz für Entsandte um 0,76 Euro und für lokal Beschäftigte/Honorarkonsuln um 0,37 Euro gekürzt werden.
-| Zonen- stufe | einfacher Dienst bzw. vergleichbarer einfacher Dienst | mittlerer Dienst bzw. vergleichbarer mittlerer Dienst | gehobener Dienst bzw. vergleichbarer gehobener Dienst | höherer Dienst bzw. vergleichbarer höherer Dienst | Lokal Beschäftigte/ Honorarkonsuln |
-| Inland | 71,41 | 81,82 | 98,96 | 131,74 | – |
-| 1 | 84,45 | 96,07 | 116,99 | 153,52 | 60,37 |
-| 2 | 85,85 | 97,55 | 118,75 | 155,54 | 82,50 |
-| 3 | 87,25 | 99,04 | 120,52 | 157,55 | 67,02 |
-| 4 | 88,65 | 100,53 | 122,28 | 159,56 | 56,47 |
-| 5 | 90,06 | 102,02 | 124,04 | 161,58 | 66,39 |
-| 6 | 91,44 | 103,51 | 125,80 | 163,59 | 67,87 |
-| 7 | 92,84 | 105,00 | 127,57 | 165,60 | 57,81 |
-| 8 | 94,24 | 106,49 | 129,32 | 167,62 | 51,58 |
-| 9 | 95,64 | 107,98 | 131,09 | 169,63 | 48,59 |
-| 10 | 97,04 | 109,47 | 132,85 | 171,64 | 53,94 |
-| 11 | 98,42 | 110,96 | 134,61 | 173,65 | 58,93 |
-| 12 | 99,82 | 112,45 | 136,37 | 175,67 | 47,98 |
-| 13 | 101,22 | 113,93 | 138,13 | 177,68 | 51,78 |
-| 14 | 102,62 | 115,42 | 139,89 | 179,69 | 46,55 |
-| 15 | 104,01 | 116,91 | 141,65 | 181,70 | 44,99 |
-| 16 | 105,41 | 118,40 | 143,42 | 183,72 | 42,73 |
-| 17 | 106,81 | 119,89 | 145,18 | 185,73 | 37,81 |
-| 18 | 108,21 | 121,38 | 146,94 | 187,75 | 40,54 |
-| 19 | 105,91 | 118,96 | 144,13 | 184,56 | 38,79 |
-| 20 | 107,16 | 120,31 | 145,73 | 186,39 | 38,81 |
-Die Orte, an denen sich die Auslandsvertretungen des Bundes befinden, sind gemäß § 53 des Bundesbesoldungsgesetzes in Verbindung mit der Auslandszuschlagsverordnung in insgesamt 20 Auslandszonenstufen eingeteilt. Die Besoldung der entsandten Angehörigen des Auswärtigen Dienstes ist von der Zonenstufe abhängig.
+Vorbemerkungen:
+1. Die Festlegung der besonderen pauschalen Stundensätze des Auswärtigen Amts beruht auf den Vorgaben der Anlage 2 AGebV in der ab 18. Februar 2021 gültigen Fassung (einschließlich Sacheinzelkosten und Gemeinkostenzuschlag).
+2. Wenn Dienstreisen als Auslagen abzurechnen sind, muss der Stundensatz für Entsandte um 0,86 Euro und für lokal Beschäftigte/Honorarkonsularbeamte um 0,59 Euro gekürzt werden.
+3. Die Orte, an denen sich die AVs des Bundes befinden, sind gemäß § 53 des Bundesbesoldungsgesetzes in Verbindung mit der Auslandszuschlagsverordnung in insgesamt 20 Zonenstufen eingeteilt. Die Besoldung der entsandten Angehörigen des Auswärtigen Dienstes ist von der Zonenstufe abhängig.
+| Zonen- stufe | einfacher Dienst bzw. vergleichbarer einfacher Dienst | mittlerer Dienst bzw. vergleichbarer mittlerer Dienst | gehobener Dienst bzw. vergleichbarer gehobener Dienst | höherer Dienst bzw. vergleichbarer höherer Dienst | Lokal Beschäftigte/ Honorarkonsular- beamte |
+| Inland | 73,50 | 82,03 | 105,42 | 126,04 | – |
+| 1 | 88,25 | 99,45 | 120,15 | 154,86 | 70,89 |
+| 2 | 90,37 | 102,22 | 124,47 | 160,30 | 80,51 |
+| 3 | 91,98 | 103,99 | 126,45 | 162,59 | 86,04 |
+| 4 | 93,60 | 105,75 | 128,43 | 164,88 | 79,28 |
+| 5 | 95,22 | 107,52 | 130,40 | 167,17 | 58,56 |
+| 6 | 96,84 | 109,29 | 132,38 | 169,47 | 67,43 |
+| 7 | 98,45 | 111,05 | 134,36 | 171,76 | 81,34 |
+| 8 | 100,07 | 112,81 | 136,33 | 174,05 | 72,08 |
+| 9 | 101,68 | 114,58 | 138,31 | 176,34 | 56,18 |
+| 10 | 103,30 | 116,34 | 140,29 | 178,62 | 48,47 |
+| 11 | 104,91 | 118,11 | 142,26 | 180,91 | 67,27 |
+| 12 | 106,53 | 119,87 | 144,24 | 183,20 | 58,58 |
+| 13 | 108,13 | 121,63 | 146,21 | 185,49 | 53,80 |
+| 14 | 109,74 | 123,40 | 148,18 | 187,78 | 47,27 |
+| 15 | 111,36 | 125,16 | 150,16 | 190,07 | 49,03 |
+| 16 | 112,97 | 126,93 | 152,14 | 192,36 | 40,68 |
+| 17 | 114,59 | 128,69 | 154,12 | 194,65 | 40,06 |
+| 18 | 116,20 | 130,46 | 156,10 | 196,94 | 49,02 |
+| 19 | 117,83 | 132,22 | 158,08 | 199,23 | 47,54 |
+| 20 | 119,44 | 133,99 | 160,05 | 201,52 | 43,74 |

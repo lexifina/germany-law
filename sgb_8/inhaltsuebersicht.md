@@ -15,6 +15,7 @@
 | § 8b | Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen |
 | § 9 | Grundrichtung der Erziehung, Gleichberechtigung von jungen Menschen |
 | § 9a | Ombudsstellen |
+| § 9b | Aufarbeitung |
 | § 10 | Verhältnis zu anderen Leistungen und Verpflichtungen |
 | § 10a | Beratung |
 | § 10b | Verfahrenslotse |

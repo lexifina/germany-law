@@ -17,7 +17,7 @@ Fortbildung und Umschulung
 
 ## Dritter Abschnitt Ausgleichsleistungen
 
-- [§ 8 Anspruchsvoraussetzungen](0008.md)
+- [§ 8 Anspruchsvoraussetzungen; Verordnungsermächtigung](0008.md)
 - [§ 9 Anrechnungsfreiheit, Unpfändbarkeit](0009.md)
 
 ## Vierter Abschnitt Ausgleich von Nachteilen in

@@ -3,7 +3,7 @@
 - [§ 1 Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen](0001.md)
 - [§ 1a Feststellung der Rechtsstaatswidrigkeit in sonstigen Fällen](0001a.md)
 - [§ 2 Folgeansprüche](0002.md)
-- [§ 3 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung](0003.md)
+- [§ 3 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung](0003.md)
 - [§ 4 Leistungen der Sozialen Entschädigung für Hinterbliebene](0004.md)
 - [§ 5 Zusammentreffen von Ansprüchen](0005.md)
 - [§ 6 (weggefallen)](0006.md)

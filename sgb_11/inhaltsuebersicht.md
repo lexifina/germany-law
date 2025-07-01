@@ -76,7 +76,7 @@
 | § 37 | Pflegegeld für selbst beschaffte Pflegehilfen |
 | § 38 | Kombination von Geldleistung und Sachleistung (Kombinationsleistung) |
 | § 38a | Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen |
-| § 39 | Häusliche Pflege bei Verhinderung der Pflegeperson |
+| § 39 | Verhinderungspflege |
 | § 39a | Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen |
 | § 40 | Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen |
 | § 40a | Digitale Pflegeanwendungen |
@@ -88,22 +88,25 @@
 | § 42 | Kurzzeitpflege |
 |  |  |
 | Dritter Titel |
-| Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson |
-| § 42a | Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson |
-|  |  |
+| Gemeinsamer Jahresbetrag für Verhinderungspflege und Kurzzeitpflege |
+| § 42a | Gemeinsamer Jahresbetrag |
 | Vierter Titel |
+| Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson |
+| § 42b | Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson |
+|  |  |
+| Fünfter Titel |
 | Vollstationäre Pflege |
 | § 43 | Inhalt der Leistung |
 |  |  |
-| Fünfter Titel |
+| Sechster Titel |
 | Pauschalleistung für die Pflege von Menschen mit Behinderungen |
 | § 43a | Inhalt der Leistungen |
 |  |  |
-| Sechster Titel |
+| Siebter Titel |
 | Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen |
 | § 43b | Inhalt der Leistung |
 |  |  |
-| Siebter Titel |
+| Achter Titel |
 | Pflegebedingter Eigenanteil bei vollstationärer Pflege |
 |  |  |
 | § 43c | Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen |
@@ -167,7 +170,7 @@
 | Beiträge |
 | § 54 | Grundsatz |
 | § 55 | Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung |
-| § 55a | Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung |
+| § 55a | Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung> |
 | § 55b | Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern |
 | § 56 | Beitragsfreiheit |
 | § 57 | Beitragspflichtige Einnahmen |
@@ -271,7 +274,7 @@
 | § 92e | Verfahren für die Umrechnung |
 | § 92f | Pflichten der Beteiligten |
 | Neuntes Kapitel |
-| Datenschutz, Statistik und Interoperabilität |
+| Datenschutz, Statistik und Interopertabilität |
 |  |
 | Erster Abschnitt |
 | Informationsgrundlagen |
@@ -321,6 +324,7 @@
 |  |
 | § 109a | Recht auf Interoperabilität |
 |  |  |
+| Zehntes Kapitel |
 | Private Pflegeversicherung |
 | § 110 | Regelungen für die private Pflegeversicherung |
 | § 110a | Befristeter Zuschlag zu privaten Pflege-Pflichtversicherungsverträgen zur Finanzierung pandemiebedingter Mehrausgaben |

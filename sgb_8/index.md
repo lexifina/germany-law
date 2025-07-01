@@ -17,6 +17,7 @@
 - [§ 8b Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen](0008b.md)
 - [§ 9 Grundrichtung der Erziehung, Gleichberechtigung von jungen Menschen](0009.md)
 - [§ 9a Ombudsstellen](0009a.md)
+- [§ 9b Aufarbeitung](0009b.md)
 - [§ 10 Verhältnis zu anderen Leistungen und Verpflichtungen](0010.md)
 - [§ 10a Beratung](0010a.md)
 - [§ 10b Verfahrenslotse](0010b.md)

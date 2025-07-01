@@ -1,6 +1,7 @@
 # Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Erster Teil Prüfungsordnung für Steuerberater
 und Steuerbevollmächtigte
@@ -14,10 +15,10 @@ und Steuerbevollmächtigte
 - [§ 7 Antrag auf Erteilung einer verbindlichen Auskunft](0007.md)
 - [§ 8 Antrag auf Befreiung von der Prüfung](0008.md)
 - [§ 9](0009.md)
-- [§ 10 Prüfungsausschuß](0010.md)
-- [§ 11](0011.md)
-- [§ 12](0012.md)
-- [§ 13](0013.md)
+- [§ 10 Berufung der Mitglieder der Prüfungsausschüsse](0010.md)
+- [§ 11 Ende der Amtszeit der Mitglieder der Prüfungsausschüsse](0011.md)
+- [§ 12 Rechtsstellung der Mitglieder der Prüfungsausschüsse](0012.md)
+- [§ 13 Entscheidungen der Prüfungsausschüsse](0013.md)
 - [§ 14 Durchführung der Prüfungen](0014.md)
 - [§ 15 Prüfungsnoten, Gesamtnoten](0015.md)
 - [§ 16 Schriftliche Prüfung](0016.md)
@@ -29,7 +30,7 @@ und Steuerbevollmächtigte
 - [§ 22 Niederschrift über die Aufsichtsarbeit](0022.md)
 - [§ 23 Täuschungsversuche, Ordnungsverstöße](0023.md)
 - [§ 24 Bewertung der Aufsichtsarbeiten](0024.md)
-- [§ 25 Ergebnis der schriftlichen Prüfung, Ausschluß von der mündlichen Prüfung](0025.md)
+- [§ 25 Ergebnis der schriftlichen Prüfung und Ausschluss von der mündlichen Prüfung](0025.md)
 - [§ 26 Mündliche Prüfung](0026.md)
 - [§ 27 Bewertung der mündlichen Prüfung](0027.md)
 - [§ 28 Ergebnis der Prüfung, Wiederholung der Prüfung](0028.md)

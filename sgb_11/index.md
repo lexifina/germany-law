@@ -80,7 +80,7 @@ Personenkreis
 - [§ 37 Pflegegeld für selbst beschaffte Pflegehilfen](0037.md)
 - [§ 38 Kombination von Geldleistung und Sachleistung (Kombinationsleistung)](0038.md)
 - [§ 38a Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen](0038a.md)
-- [§ 39 Häusliche Pflege bei Verhinderung der Pflegeperson](0039.md)
+- [§ 39 Verhinderungspflege](0039.md)
 - [§ 39a Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen](0039a.md)
 - [§ 40 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen](0040.md)
 - [§ 40a Digitale Pflegeanwendungen](0040a.md)
@@ -92,23 +92,27 @@ Kurzzeitpflege
 - [§ 41 Tagespflege und Nachtpflege](0041.md)
 - [§ 42 Kurzzeitpflege](0042.md)
 
-#### Dritter Titel Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson
+#### Dritter Titel Gemeinsamer Jahresbetrag für Verhinderungspflege und Kurzzeitpflege
 
-- [§ 42a Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson](0042a.md)
+- [§ 42a Gemeinsamer Jahresbetrag](0042a.md)
 
-#### Vierter Titel Vollstationäre Pflege
+#### Vierter Titel Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson
+
+- [§ 42b Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson](0042b.md)
+
+#### Fünfter Titel Vollstationäre Pflege
 
 - [§ 43 Inhalt der Leistung](0043.md)
 
-#### Fünfter Titel Pauschalleistung für die Pflege von Menschen mit Behinderungen
+#### Sechster Titel Pauschalleistung für die Pflege von Menschen mit Behinderungen
 
 - [§ 43a Inhalt der Leistung](0043a.md)
 
-#### Sechster Titel Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
+#### Siebter Titel Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
 
 - [§ 43b Inhalt der Leistung](0043b.md)
 
-#### Siebter Titel Pflegebedingter Eigenanteil bei vollstationärer Pflege
+#### Achter Titel Pflegebedingter Eigenanteil bei vollstationärer Pflege
 
 - [§ 43c Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen](0043c.md)
 

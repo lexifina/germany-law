@@ -58,12 +58,31 @@
 
 #### Abschnitt 5 Medizinische Forschung
 
-- [§ 31 Genehmigungsbedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung](0031.md)
-- [§ 32 Anzeigebedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung](0032.md)
-- [§ 33 Prüfung der Anzeige durch die zuständige Behörde](0033.md)
-- [§ 34 Untersagung der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung](0034.md)
+
+##### Unterabschnitt 1 Genehmigung einer Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+
+- [§ 31 Genehmigungsbedürftige Anwendung](0031.md)
+- [§ 31a Antrag auf Genehmigung einer Anwendung](0031a.md)
+- [§ 31b Genehmigungsverfahren bei der zuständigen Behörde](0031b.md)
+- [§ 31c Voraussetzungen für die Erteilung der Genehmigung](0031c.md)
+
+##### Unterabschnitt 2 Anzeige einer Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+
+- [§ 32 Anzeigebedürftige Anwendung](0032.md)
+- [§ 33 Beginn der angezeigten Anwendung](0033.md)
+- [§ 34 Untersagung der angezeigten Anwendung](0034.md)
+- [§ 34a Eingeschränkte Zulassung der angezeigten Anwendung](0034a.md)
 - [§ 35 Deckungsvorsorge bei der anzeigebedürftigen Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung](0035.md)
-- [§ 36 Ethikkommission](0036.md)
+
+##### Unterabschnitt 3 Tätigkeit der Ethik-Kommission bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+
+- [§ 36 Aufgabe der Ethik-Kommission](0036.md)
+- [§ 36a Prüfung einer anzeige- oder genehmigungsbedürftigen Anwendung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes](0036a.md)
+- [§ 36b Prüfung einer anzeige- oder genehmigungsbedürftigen Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes](0036b.md)
+- [§ 36c Prüfung einer sonstigen Anwendung](0036c.md)
+
+##### Unterabschnitt 4 Verordnungsermächtigung
+
 - [§ 37 Verordnungsermächtigung](0037.md)
 
 #### Abschnitt 6 Schutz des Verbrauchers bei Zusatz radioaktiver Stoffe und Aktivierung; bauartzugelassene Vorrichtungen
@@ -322,12 +341,14 @@
 ## Teil 7 Verwaltungsbehörden
 
 - [§ 184 Zuständigkeit der Landesbehörden](0184.md)
+- [§ 184a Zuständigkeit der Ethik-Kommission](0184a.md)
 - [§ 185 Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung](0185.md)
 - [§ 186 Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung](0186.md)
 - [§ 187 Zuständigkeit der Physikalisch-Technischen Bundesanstalt](0187.md)
 - [§ 188 Zuständigkeiten für grenzüberschreitende Verbringungen und deren Überwachung](0188.md)
 - [§ 189 Zuständigkeit des Luftfahrt-Bundesamtes](0189.md)
 - [§ 190 Zuständigkeit des Eisenbahn-Bundesamtes](0190.md)
+- [§ 190a Zuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts](0190a.md)
 - [§ 191 Geschäftsbereich des Bundesministeriums der Verteidigung](0191.md)
 - [§ 192 Zuständigkeiten von Verwaltungsbehörden des Bundes bei Aufgaben des Notfallschutzes und der Überwachung der Umweltradioaktivität; Verordnungsermächtigung](0192.md)
 - [§ 193 Informationsübermittlung](0193.md)
