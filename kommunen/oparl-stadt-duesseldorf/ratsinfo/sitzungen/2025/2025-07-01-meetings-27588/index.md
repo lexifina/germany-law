@@ -1,0 +1,63 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-07-01T16:00:00+02:00
+- Ende: 2025-07-01T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27588
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27588
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559202.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559202.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559202.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/003/2025 vom 13.05.2025 und SI-BV2/004 vom 03.06.2025 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Fernwärmeausbau Heinrichstraße / Graf-Recke-Straße - mündlicher Vortrag - zur Kenntnis genommen
+- TOP 4.2: Vorstellung des Projekts "Jugend checkt Düsseldorf" - mündlicher Vortrag
+- TOP 4.3: Errichtung der Fahrradstation Grafenberger Allee - einstimmig beschlossen
+- TOP 4.4: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung mehrheitlich beschlossen
+- TOP 4.5: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung abweichend beschlossen
+- TOP 4.6: Herstellung der öffentlichen Grünanlage Rosmarinstraße - Ausführungs- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Abbruchantrag, Hoffeldstraße 43 – Abbruch des vorhandenen Wohn- und Geschäftshauses - vertagt
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag für den 1. Düsseldorfer Kneipentag – Fokus Flingern - mehrheitlich beschlossen
+- TOP 4.12: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag zum Gedenktag des 25. Jahrestages des Wehrhahn-Anschlages - einstimmig beschlossen
+- TOP 4.13: Verwendung von Haushaltsmittel 2025; hier: Zuwendungsantrag zur Boxveranstaltung der JFE Icklack - einstimmig beschlossen
+- TOP 4.14: Verwendung von Haushaltsmittel 2025; hier:Zuwendungsantrag für das Projekt "Kraft durch Einklang" - einstimmig beschlossen
+- TOP 4.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (ListeB) - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Lärmschutzwände Buscher Mühle und Ahnfeldstraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.2: Regelung des Auto- und Radverkehrs an der Kreuzung Cranachstraße/Grafenberger Allee - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Schulwegsicherheit Grafental - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.2: Clan-Kriminalität und häusliche Gewalt im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Quartiersgaragen in Neubauprojekten - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Weiteres Vorgehen bei der Umgestaltung der Skateranlage Stadtwerkepark und des Lindenplatzes - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Kommunale Wärmeplanung für den Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.2: Planung und Umsetzung der nächsten Anwohnerparkgebiete - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.3: Abstellen von Wohnmobilen im öffentlichen Raum - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Situation Stadtsauberkeit im Stadtbezirk 2 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7.7: Temporäre Ampelanlage auf der Bruchstraße im Kreuzungsbereich Schwelmer- /Flurstraße mit Absperrung Verkehrsfläche auf der Flurstraße - Anfrage der SPD-Fraktion - vertagt
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: LED-Beleuchtung für die Unterführung an der Wetterstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/086/2025 - zur Kenntnis genommen
+- TOP 8.2: Wickelboard für Spielplatz Zoopark, Hermannplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/085/2025 - zur Kenntnis genommen
+- TOP 8.3: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 8.4: Einrichtung eines Zebrastreifens für die Kinder der Heinrich-Heine Gesamtschule an der Graf-Recke-Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/023/2025 - zur Kenntnis genommen
+- TOP 8.5: Hundekot - Beschluss der Bezirksvertretung 2, Vorlage BV2/046/2025 - zur Kenntnis genommen
