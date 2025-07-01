@@ -196,5 +196,6 @@ Abschnitt 12 Übergangs- und Schlussvorschriften
 § 163 Übergangsregelung zur Neuregelung des Nebentätigkeitsrechts
 § 164 Übergangsregelung zur Altersteilzeit
 § 164a Übergangsregelung für das Verfahren zur Überprüfung der Verfassungstreue
+§ 164b Übergangsregelung zur Gewährung von Heilfürsorge für Beamtinnen und Beamte des Justizvollzugsdienstes sowie in Abschiebungshaft- und Ausreisegewahrsamseinrichtungen
 § 165 Verwaltungsvorschriften
 § 166 Einschränkung eines Grundrechts
