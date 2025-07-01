@@ -1,0 +1,7 @@
+1. des § 6 Abs. 3 des Gesetzes über den Beruf des Beschäftigungs- und Arbeitstherapeuten vom 25. Mai 1976 (BGBl I S. 1246), zuletzt geändert durch Art. 2 des Gesetzes vom 8. März 1994 (BGBl I S. 446),
+des § 6 Abs. 3 des Gesetzes über den Beruf des Logopäden vom 7. Mai 1980 (BGBl I S. 529), zuletzt geändert durch Art. 3 des Gesetzes vom 8. März 1994 (BGBl I S. 446),
+des § 9 Abs. 2 des Gesetzes über den Beruf des pharmazeutisch-technischen Assistenten vom 18. März 1968 (BGBl I S. 228), zuletzt geändert durch Art. 2 des Gesetzes vom 23. August 1994 (BGBl I S. 2189) und
+des § 13 Abs. 6 der Bundes-Tierärzteordnung in der Fassung der Bekanntmachung vom 20. November 1981 (BGBl I S. 1193), zuletzt geändert durch Art. 1 Nr. 6 des Gesetzes vom 27. September 1993 (BGBl I S. 1666)
+die Bayerische Staatsregierung
+2. des Art. 17 Abs. 2 Nr. 1 Buchst. a, b, c und g des Gesetzes über den öffentlichen Gesundheitsdienst vom 12. Juli 1986 (GVBl S. 120, BayRS 2120-1-A), zuletzt geändert durch § 1 des Gesetzes vom 23. Dezember 1995 (GVBl S. 843) in Verbindung mit Art. 1 Abs. 1 Satz 2 Nr. 10 des Gesetzes zur Überleitung von Zuständigkeiten vom 23. Juli 1993 (GVBl S. 496, BayRS 1102-7-S) und des Art. 59 Abs. 4 Satz 1 des Heilberufe-Kammergesetzes in der Fassung der Bekanntmachung vom 20. Juli 1994 (GVBl S. 853, ber. 1995, S. 325),
+das Bayerische Staatsministerium für Arbeit und Sozialordnung, Familie, Frauen und Gesundheit sowie das Bayerische Staatsministerium des Innern
