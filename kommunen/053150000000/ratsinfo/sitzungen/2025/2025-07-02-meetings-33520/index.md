@@ -1,0 +1,54 @@
+# Sondersitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-07-02T14:00:00+02:00
+- Ende: 2025-07-02T15:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33520
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33520
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Sonderausstellung von Schenkungen - endgültig abgelehnt
+- TOP 3.2: Betriebskostenzuschüsse an den Kölner Gesellschaft für Alte Musik e.V. - endgültig abgelehnt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Kommunaler Fonds Kulturelle Bildung - Juryempfehlungen - ungeändert beschlossen
+- TOP 4.2: Erklärung zum Abschluss einer Schiedsvereinbarung im Sinne von § 1029 Zivilprozessordnung (stehendes Angebot) im Kontext NS-Raubgut - ungeändert beschlossen
+- TOP 4.3: Restitution des Wandspiegelrahmens aus dem Bestand des Museums für Angewandte Kunst Köln (Inv.Nr. A 1420) - ungeändert beschlossen
+- TOP 4.4: Bedarfsfeststellungsbeschluss für eine europaweite Ausschreibung und Vergabe des technischen Gebäudebetriebs - vertagt
+- TOP 4.5: Mittelfreigabe zur Förderung der Kreativwirtschaft - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung an das Museum für Ostasiatische Kunst Japanische Holzschnitte und Zeichnungen der Sammlung Ernst Bahn (1901-1978) - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Städtebaulicher Masterplan Innenstadt - Niederschrift 36. Sitzung am 25.11.2024 - Kenntnis genommen
+- TOP 8.2: Sachstand "Heinrich Böll sowie Karl Marx im Stadtbild sichtbar machen" - vertagt
+- TOP 8.3: Mitteilung über die Erhöhung der Investitionszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025 und 2026 hier: Einbau einer Wärmepumpe im Museum Ludwig/Philharmonie - Kenntnis genommen
+- TOP 8.4: Handlungsempfehlungen des Expert*innengremiums (Post)koloniales Erbe - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten-/Termin-Darstellung (Zeitstrahl) - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 26. Mai 2025 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Anfrage Sachstand digitales Ticketing - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0595/2095 Sachstand digitales Ticketing - Kenntnis genommen
+- TOP 10.2: Umsetzung der Handlungsempfehlungen zum (Post)kolonialen Erbe der Stadt Köln - ohne Votum behandelt
+- TOP 10.3: Personalsituation im Kulturdezernat und neue räumliche Unterbringung des Kulturamtes - Kenntnis genommen
+- TOP 10.4: Sachstand zur Neuinstallation des Kunstbeirats und Stellungnahme der Verwaltung zum Rücktritt der stimmberechtigten Mitglieder - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion aus dem Ausschuss Kunst und Kultur vom 25.03.2025 betreffend Sachstand Neuinstallation Kunstbeirat (AN/2061/2025) - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Anfrage von Frau BM von Bülow (Bündnis 90/Die Grünen) in der Sitzung des Ausschusses Kunst und Kultur am 20.05.2025 betreffend "Projekt Geschichtsinitiativen" - Kenntnis genommen
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.8: Beantwortung einer mündlichen Anfrage der Fraktionen Bündnis 90/Die Grünen und SPD aus dem Ausschuss Kunst und Kultur vom 25.03.2025 und 20.05.2025 betreffend "CUMULUS" - Kenntnis genommen
+- TOP 10.9: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 24.06.2025 betreffend,,Wann und wo wird die Ausschreibung des Cafés im MOK veröffentlicht?'' - Kenntnis genommen
+- TOP 10.10: Aktueller Sachstand zur Kunst- und Museumsbibliothek und zur langfristigen Unterbringung - Kenntnis genommen
+- TOP 10.11: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Kund und Kultur vom 24.06.2025 zum Sachstandbericht der Kulturentwicklungsplanung (KEP) (Vorlagen-Nr.1825/2025). - Kenntnis genommen
+- TOP 10.12: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Kunst und Kultur vom 24.06.2025 betreffend: „Wie ist der Stand der Ausschreibung zum Café im Museum für Angewandte Kunst?'' - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 12: Mündliche Anfragen
