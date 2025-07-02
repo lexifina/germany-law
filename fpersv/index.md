@@ -51,7 +51,6 @@ im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
 - [§ 22 Zuwiderhandlungen gegen das AETR](0022.md)
 - [§ 23 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 165/2014](0023.md)
 - [§ 24 (weggefallen)](0024.md)
-- [§ 24a (weggefallen)](0024a.md)
 
 ## Abschnitt 9 Übergangsvorschriften
 

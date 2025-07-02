@@ -10,7 +10,6 @@
 - [§ 7](0007.md)
 - [§ 8](0008.md)
 - [§ 9](0009.md)
-- [§ 9a (weggefallen)](0009a.md)
 - [§ 10 (weggefallen)](0010.md)
 - [§ 11 (weggefallen)](0011.md)
 - [§ 12](0012.md)

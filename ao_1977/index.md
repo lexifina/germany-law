@@ -54,7 +54,6 @@
 - [§ 29b Verarbeitung personenbezogener Daten durch Finanzbehörden](0029b.md)
 - [§ 29c Verarbeitung personenbezogener Daten durch Finanzbehörden zu anderen Zwecken](0029c.md)
 - [§ 30 Steuergeheimnis](0030.md)
-- [§ 30a (weggefallen)](0030a.md)
 - [§ 31 Mitteilung von Besteuerungsgrundlagen](0031.md)
 - [§ 31a Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs](0031a.md)
 - [§ 31b Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung](0031b.md)
@@ -371,7 +370,6 @@
 ##### IV. Kosten
 
 - [§ 178 Kosten bei besonderer Inanspruchnahme der Zollbehörden](0178.md)
-- [§ 178a (weggefallen)](0178a.md)
 
 #### 2. Unterabschnitt Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 
@@ -692,13 +690,11 @@
 
 - [§ 369 Steuerstraftaten](0369.md)
 - [§ 370 Steuerhinterziehung](0370.md)
-- [§ 370a (weggefallen)](0370a.md)
 - [§ 371 Selbstanzeige bei Steuerhinterziehung](0371.md)
 - [§ 372 Bannbruch](0372.md)
 - [§ 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel](0373.md)
 - [§ 374 Steuerhehlerei](0374.md)
 - [§ 375 Nebenfolgen](0375.md)
-- [§ 375a (weggefallen)](0375a.md)
 - [§ 376 Verfolgungsverjährung](0376.md)
 
 ### Zweiter Abschnitt Bußgeldvorschriften

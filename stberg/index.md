@@ -329,7 +329,6 @@ Berufsgerichtsbarkeit anzuwendende Vorschriften
 - [§ 157b Anwendungsvorschrift](0157b.md)
 - [§ 157c Anwendungsvorschrift zu § 36 Absatz 2](0157c.md)
 - [§ 157d Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe](0157d.md)
-- [§ 157e (weggefallen)](0157e.md)
 
 ### Siebenter Abschnitt Verordnungsermächtigung
 
