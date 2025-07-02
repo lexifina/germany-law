@@ -1,0 +1,180 @@
+# Gemeinsame Sondersitzung des Ausschusses Schule und Weiterbildung und des Betriebsausschusses Gebäudewirtschaft
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-07-02T16:01:00+02:00
+- Ende: 2025-07-02T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12, https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33481
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33481
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01056373.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01056373.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01056373.pdf
+
+## Tagesordnung
+
+- TOP -: A Wahl einer gemeinsamen Sitzungsleitung
+- TOP -: A Wahl einer gemeinsamen Sitzungsleitung
+- TOP -: A Wahl einer gemeinsamen Sitzungsleitung
+- TOP -: B Wahl einer gemeinsamen Schriftführung
+- TOP -: B Wahl einer gemeinsamen Schriftführung
+- TOP -: B Wahl einer gemeinsamen Schriftführung
+- TOP 1: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 1: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 1: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 1.1: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 07.05.2025 betreffend "Umbau des OGS-Gebäudes an der Montessorischule in der Stegerwaldsiedlung"
+- TOP 1.1: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 07.05.2025 betreffend "Umbau des OGS-Gebäudes an der Montessorischule in der Stegerwaldsiedlung" - ungeändert beschlossen
+- TOP 1.2: Antrag der Fraktion Klimafreunde & Gut vom 03.06.2025 betreffend "Fassadenbegrünung für Schulen als Klimaanpassungsmaßnahme und Lernort"
+- TOP 1.2: Antrag der Fraktion Klimafreunde & Gut vom 03.06.2025 betreffend "Fassadenbegrünung für Schulen als Klimaanpassungsmaßnahme und Lernort" - geändert beschlossen
+- TOP 1.3: Antrag der Fraktionen Bündnis 90/Die Grünen, Pilotprojekt zum Erwerb des Rettungsschwimmpasses
+- TOP 1.3: Antrag der Fraktionen Bündnis 90/Die Grünen, Pilotprojekt zum Erwerb des Rettungsschwimmpasses - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP1.3, AN/0748/2025, Pilotprojekt zum Erwerb des Rettungsschwimmpasses
+- TOP -: Änderungsantrag zu TOP1.3, AN/0748/2025, Pilotprojekt zum Erwerb des Rettungsschwimmpasses - ungeändert beschlossen
+- TOP 2: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 2: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 2: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 2.1: Schulsozialarbeit am Leonardo-da-Vinci Gymnasium
+- TOP 2.1: Schulsozialarbeit am Leonardo-da-Vinci Gymnasium - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion AN/0813/2025
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion AN/0813/2025 - Kenntnis genommen
+- TOP 3: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 3: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 3: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 3.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen u. CDU vom 07.05.2025 betreffend "Verbesserung der IT-Betreuung an Kölner Schulen"
+- TOP 3.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen u. CDU vom 07.05.2025 betreffend "Verbesserung der IT-Betreuung an Kölner Schulen" - Kenntnis genommen
+- TOP 3.2: Anfrage der Fraktion Die Linke vom 05.05.2025 betreffend "Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln"
+- TOP 3.2: Anfrage der Fraktion Die Linke vom 05.05.2025 betreffend "Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses für Schule und Weiterbildung (AN/0561/2025) betreffend der Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses für Schule und Weiterbildung (AN/0561/2025) betreffend der Gestaltung der Verträge und Arbeitsbedingungen für Dozierende an der Volkshochschule Köln - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage von RM Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gesamtschule Lindenthal
+- TOP 3.3: Beantwortung einer mündlichen Anfrage von RM Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gesamtschule Lindenthal - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage des Ratmitglieds Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 28. August 2023 zur ökologischen Baubegleitung
+- TOP 3.4: Beantwortung einer mündlichen Anfrage des Ratmitglieds Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 28. August 2023 zur ökologischen Baubegleitung - Kenntnis genommen
+- TOP 3.5: Beantwortung von mündlichen Anfragen aus dem Ausschuss Schule und Weiterbildung vom 16.Juni 2025 bezüglich der Erweiterung der Max-Ernst-Gesamtschule Tollerstraße 16
+- TOP 3.5: Beantwortung von mündlichen Anfragen aus dem Ausschuss Schule und Weiterbildung vom 16.Juni 2025 bezüglich der Erweiterung der Max-Ernst-Gesamtschule Tollerstraße 16 - Kenntnis genommen
+- TOP 3.5: Beantwortung von mündlichen Anfragen aus dem Ausschuss Schule und Weiterbildung vom 16.Juni 2025 bezüglich der Erweiterung der Max-Ernst-Gesamtschule Tollerstraße 16 - Kenntnis genommen
+- TOP 3.6: Mündliche Nachfrage aus dem Ausschuss Schule und Weiterbildung vom 16.06. bezüglich Generalinstandsetzung der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen
+- TOP 3.6: Mündliche Nachfrage aus dem Ausschuss Schule und Weiterbildung vom 16.06. bezüglich Generalinstandsetzung der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen - Kenntnis genommen
+- TOP 3.6: Mündliche Nachfrage aus dem Ausschuss Schule und Weiterbildung vom 16.06. bezüglich Generalinstandsetzung der Gemeinschaftsgrundschule Brüder Grimm in der Sürther Hauptstraße 149, Rodenkirchen - Kenntnis genommen
+- TOP 3.7: Beantwortung einer Nachfrage aus dem Ausschuss Schule und Weiterbildung von RM Ruffen bezüglich des Umbaus der OGS der Montessorischule Ferdinandstraße
+- TOP 3.7: Beantwortung einer Nachfrage aus dem Ausschuss Schule und Weiterbildung von RM Ruffen bezüglich des Umbaus der OGS der Montessorischule Ferdinandstraße - Kenntnis genommen
+- TOP 3.7: Beantwortung einer Nachfrage aus dem Ausschuss Schule und Weiterbildung von RM Ruffen bezüglich des Umbaus der OGS der Montessorischule Ferdinandstraße - Kenntnis genommen
+- TOP 3.8: Mündliche Nachfrage aus dem Betriebsausschuss Gebäudewirtschaft vom 23.06.2025 zur Beschlussvorlage zur Errichtung einer Turnhalle, einer Mensa mit Küche und vier Gruppenräumen für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim)
+- TOP 3.8: Mündliche Nachfrage aus dem Betriebsausschuss Gebäudewirtschaft vom 23.06.2025 zur Beschlussvorlage zur Errichtung einer Turnhalle, einer Mensa mit Küche und vier Gruppenräumen für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - Kenntnis genommen
+- TOP 3.8: Mündliche Nachfrage aus dem Betriebsausschuss Gebäudewirtschaft vom 23.06.2025 zur Beschlussvorlage zur Errichtung einer Turnhalle, einer Mensa mit Küche und vier Gruppenräumen für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - Kenntnis genommen
+- TOP 3.9: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 23. Juni 2025 bezüglich der Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln
+- TOP 3.9: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 23. Juni 2025 bezüglich der Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - Kenntnis genommen
+- TOP 3.9: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 23. Juni 2025 bezüglich der Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - Kenntnis genommen
+- TOP 3.10: Beantwortung einer Nachfrage aus dem Betriebsausschuss Gebäudewirtschaft am 23. Juni 2025 von RM Brust bezüglich des Umbaus der OGS der Montessorischule Ferdinandstraße
+- TOP 3.10: Beantwortung einer Nachfrage aus dem Betriebsausschuss Gebäudewirtschaft am 23. Juni 2025 von RM Brust bezüglich des Umbaus der OGS der Montessorischule Ferdinandstraße - Kenntnis genommen
+- TOP 3.10: Beantwortung einer Nachfrage aus dem Betriebsausschuss Gebäudewirtschaft am 23. Juni 2025 von RM Brust bezüglich des Umbaus der OGS der Montessorischule Ferdinandstraße - Kenntnis genommen
+- TOP 3.11: Kriterien für die Auswahl von Baumaßnahmen zur Beauftragung der Kölner Schulbaugesellschaft mbH
+- TOP 3.11: Kriterien für die Auswahl von Baumaßnahmen zur Beauftragung der Kölner Schulbaugesellschaft mbH - Kenntnis genommen
+- TOP 3.11: Kriterien für die Auswahl von Baumaßnahmen zur Beauftragung der Kölner Schulbaugesellschaft mbH - Kenntnis genommen
+- TOP 3.12: Beantwortung einer mündlichen Anfrage aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 23.06.2025 bezüglich der Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud
+- TOP 3.12: Beantwortung einer mündlichen Anfrage aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 23.06.2025 bezüglich der Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud - Kenntnis genommen
+- TOP 3.13: Beantwortung einer mündlichen Anfrage von RM Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gesamtschule Lindenthal
+- TOP 3.13: Beantwortung einer mündlichen Anfrage von RM Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gesamtschule Lindenthal - Kenntnis genommen
+- TOP 3.13: Beantwortung einer mündlichen Anfrage von RM Brust aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 24.03.2025 bezüglich der Gesamtschule Lindenthal - Kenntnis genommen
+- TOP 3.14: Anfrage der Fraktion SPD vom 10.06.2025 betreffend "Stand der Umsetzung der Sporthallenerweiterung für das Gymnasium Müngersdorf"
+- TOP 3.14: Anfrage der Fraktion SPD vom 10.06.2025 betreffend "Stand der Umsetzung der Sporthallenerweiterung für das Gymnasium Müngersdorf" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0804/2025 der SPD-Fraktion betreffend Stand der Umsetzung der Sporthallenerweiterung für das Gymnasium Müngersdorf
+- TOP -: Beantwortung der Anfrage AN/0804/2025 der SPD-Fraktion betreffend Stand der Umsetzung der Sporthallenerweiterung für das Gymnasium Müngersdorf - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0804/2025 der SPD-Fraktion betreffend Stand der Umsetzung der Sporthallenerweiterung für das Gymnasium Müngersdorf - Kenntnis genommen
+- TOP 3.15: Nachfragen aus dem Betriebsausschuss Gebäudewirtschaft vom 23.06.2025 bezüglich Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024
+- TOP 3.15: Nachfragen aus dem Betriebsausschuss Gebäudewirtschaft vom 23.06.2025 bezüglich Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 3.15: Nachfragen aus dem Betriebsausschuss Gebäudewirtschaft vom 23.06.2025 bezüglich Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2024 - Kenntnis genommen
+- TOP 3.16: Beantwortung mündl. Anfragen betr. "Offene Ganztagsschule im Primarbereich - Aktuelle Informationen im Hinblick auf die Realisierung des Anspruchs auf ganztägige Betreuung ab dem Schuljahr 26/27 (Session 1020/2025, TOP 8.15 der Sitzung vom 16.06.25)"
+- TOP 3.16: Beantwortung mündl. Anfragen betr. "Offene Ganztagsschule im Primarbereich - Aktuelle Informationen im Hinblick auf die Realisierung des Anspruchs auf ganztägige Betreuung ab dem Schuljahr 26/27 (Session 1020/2025, TOP 8.15 der Sitzung vom 16.06.25)" - Kenntnis genommen
+- TOP 3.17: Beantwortung einer mündlichen Anfrage eines Ratsmitgliedes zur Sitzung des Bauausschusses am 16.09.2024 und zur Sitzung des Betriebsausschuss Gebäudewirtschaft am 16.09.2024 zum Klimaschutz-Monitoring 2381/2024
+- TOP 3.17: Beantwortung einer mündlichen Anfrage eines Ratsmitgliedes zur Sitzung des Bauausschusses am 16.09.2024 und zur Sitzung des Betriebsausschuss Gebäudewirtschaft am 16.09.2024 zum Klimaschutz-Monitoring 2381/2024 - Kenntnis genommen
+- TOP 4: Empfehlungen
+- TOP 4: Empfehlungen
+- TOP 4: Empfehlungen
+- TOP 4.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln
+- TOP 4.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln - mit Änderungen empfohlen
+- TOP 4.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln - mit Änderungen empfohlen
+- TOP -: Ergänzungsantrag Zu Top 4.1 „Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln“
+- TOP -: Ergänzungsantrag Zu Top 4.1 „Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln“ - ungeändert empfohlen
+- TOP -: Ergänzungsantrag Zu Top 4.1 „Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am der Gemeinschaftsgrundschule und Katholischen Grundschule An den Kaulen 62-64, 50769 Köln“ - ungeändert empfohlen
+- TOP 4.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Albert-Schweitzer-Schule und dem Heinrich-Heine-Gymnasium, Hardtgenbuscher Kirchweg 100, 51107 Köln
+- TOP 4.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Albert-Schweitzer-Schule und dem Heinrich-Heine-Gymnasium, Hardtgenbuscher Kirchweg 100, 51107 Köln - ungeändert empfohlen
+- TOP 4.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Albert-Schweitzer-Schule und dem Heinrich-Heine-Gymnasium, Hardtgenbuscher Kirchweg 100, 51107 Köln - ungeändert empfohlen
+- TOP 4.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln
+- TOP 4.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln - ungeändert empfohlen
+- TOP 4.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kaiserin-Augusta-Schule, Teilstandort Georgstraße 9-13, 50676 Köln - ungeändert empfohlen
+- TOP 4.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln
+- TOP 4.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln - ungeändert empfohlen
+- TOP 4.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Richard-Riemerschmid-Berufskolleg, Heinrichstraße 51, 50676 Köln - ungeändert empfohlen
+- TOP 4.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln
+- TOP 4.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln - ungeändert empfohlen
+- TOP 4.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der offenen Ganztagsgrundschule Trierer Straße 8, 50676 Köln - ungeändert empfohlen
+- TOP 4.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln
+- TOP 4.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln - ungeändert empfohlen
+- TOP 4.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule und Förderschule Pfälzer Straße 30-34, 50677 Köln - ungeändert empfohlen
+- TOP 4.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln
+- TOP 4.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - ungeändert empfohlen
+- TOP 4.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Generalinstandsetzung und Erweiterung des Schulgebäudes am Erich Kästner-Gymnasium, Castroper Straße 7, 50735 Köln - ungeändert empfohlen
+- TOP 4.8: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln
+- TOP 4.8: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - mit Änderungen empfohlen
+- TOP 4.8: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gymnasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - mit Änderungen empfohlen
+- TOP -: Zu TOP 4.8 Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gym-nasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln
+- TOP -: Zu TOP 4.8 Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gym-nasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - mit Änderungen empfohlen
+- TOP -: Zu TOP 4.8 Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur Erweiterung des Schulstandortes Nikolausstraße 55 (Elisabeth-von-Thüringen Gym-nasium und Schillergymnasium) und des Teilstandortes Lotharstraße 14-18, 50937 Köln - mit Änderungen empfohlen
+- TOP 4.9: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Gemeinschaftsgrundschule Ricarda-Huch-Straße 60, 51061 Köln, Bauteile A, B und D
+- TOP 4.9: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Gemeinschaftsgrundschule Ricarda-Huch-Straße 60, 51061 Köln, Bauteile A, B und D - ungeändert empfohlen
+- TOP 4.9: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Gemeinschaftsgrundschule Ricarda-Huch-Straße 60, 51061 Köln, Bauteile A, B und D - ungeändert empfohlen
+- TOP 4.10: Neubau einer 2-zügigen Clustergrundschule mit Zweifeldsporthalle, Hausmeisterwohnung und Außenanlagen in der Friedensstraße durch die Kölner Schulbaugesellschaft mbH - Planungs- und Baubeschluss
+- TOP 4.10: Neubau einer 2-zügigen Clustergrundschule mit Zweifeldsporthalle, Hausmeisterwohnung und Außenanlagen in der Friedensstraße durch die Kölner Schulbaugesellschaft mbH - Planungs- und Baubeschluss - ungeändert empfohlen
+- TOP 4.10: Neubau einer 2-zügigen Clustergrundschule mit Zweifeldsporthalle, Hausmeisterwohnung und Außenanlagen in der Friedensstraße durch die Kölner Schulbaugesellschaft mbH - Planungs- und Baubeschluss - ungeändert empfohlen
+- TOP 4.11: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim)
+- TOP 4.11: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - ungeändert empfohlen
+- TOP 4.11: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die katholische Grundschule Horststraße 1, 51063 Köln (Mülheim) - ungeändert empfohlen
+- TOP 4.12: Neubau eines Erweiterungsbaus in Modulbauweise, einer Einfachturnhalle, eines Erweiterungsbaus für die Mensa und Umbau von Fachräumen am Schulzentrum Ostheim, Hardtgenbuscher Kirchweg 100, 51107 Köln
+- TOP 4.12: Neubau eines Erweiterungsbaus in Modulbauweise, einer Einfachturnhalle, eines Erweiterungsbaus für die Mensa und Umbau von Fachräumen am Schulzentrum Ostheim, Hardtgenbuscher Kirchweg 100, 51107 Köln - ungeändert empfohlen
+- TOP 4.12: Neubau eines Erweiterungsbaus in Modulbauweise, einer Einfachturnhalle, eines Erweiterungsbaus für die Mensa und Umbau von Fachräumen am Schulzentrum Ostheim, Hardtgenbuscher Kirchweg 100, 51107 Köln - ungeändert empfohlen
+- TOP 4.13: 13. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebiets (NSG) N 24 „Isborns Heide und Hommelsheimer Bruch“ hier: Beschluss über Bedenken und Anregungen sowie Satzungsbeschluss
+- TOP 4.13: 13. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebiets (NSG) N 24 „Isborns Heide und Hommelsheimer Bruch“ hier: Beschluss über Bedenken und Anregungen sowie Satzungsbeschluss - ungeändert empfohlen
+- TOP 4.14: Planungsaufnahme und Baubeschluss zur Erstellung eines Erweiterungsbaus für die Gemeinschaftsgrundschule (GGS), Kettelerstraße 14, 50997 Köln-Meschenich
+- TOP 4.14: Planungsaufnahme und Baubeschluss zur Erstellung eines Erweiterungsbaus für die Gemeinschaftsgrundschule (GGS), Kettelerstraße 14, 50997 Köln-Meschenich - ungeändert empfohlen
+- TOP 4.14: Planungsaufnahme und Baubeschluss zur Erstellung eines Erweiterungsbaus für die Gemeinschaftsgrundschule (GGS), Kettelerstraße 14, 50997 Köln-Meschenich - ungeändert empfohlen
+- TOP 4.15: Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd
+- TOP 4.15: Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd - ungeändert empfohlen
+- TOP 4.15: Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd - ungeändert empfohlen
+- TOP 4.16: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2023
+- TOP 4.16: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2023 - ungeändert empfohlen
+- TOP 4.17: Erstellung eines Modulbaus für Unterrichtszwecke sowie einer Mensa für die Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil - Planungs- und Baubeschluss
+- TOP 4.17: Erstellung eines Modulbaus für Unterrichtszwecke sowie einer Mensa für die Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil - Planungs- und Baubeschluss - ungeändert empfohlen
+- TOP 4.17: Erstellung eines Modulbaus für Unterrichtszwecke sowie einer Mensa für die Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil - Planungs- und Baubeschluss - ungeändert empfohlen
+- TOP 4.18: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26
+- TOP 4.18: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 4.19: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Sportplatzstraße 82-84, 51147 Köln (Schulnummer: 154880) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26
+- TOP 4.19: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Sportplatzstraße 82-84, 51147 Köln (Schulnummer: 154880) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 4.20: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Auf dem Sandberg 120, 51105 Köln (Schulnummer: 154490) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26
+- TOP 4.20: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Auf dem Sandberg 120, 51105 Köln (Schulnummer: 154490) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19, 51103 Köln zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 4.21: Wirtschaftsplan 2025 der Gebäudewirtschaft der Stadt Köln
+- TOP 4.21: Wirtschaftsplan 2025 der Gebäudewirtschaft der Stadt Köln - ungeändert empfohlen
+- TOP 5: Entscheidungen
+- TOP 5: Entscheidungen
+- TOP 5: Entscheidungen
+- TOP 5.1: Energieleitlinien Stadt Köln 2025
+- TOP 5.1: Energieleitlinien Stadt Köln 2025 - ungeändert beschlossen
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Umstellung auf G9 an den Kölner Gymnasien - Maßnahmenübersicht
+- TOP 6.1: Umstellung auf G9 an den Kölner Gymnasien - Maßnahmenübersicht - Kenntnis genommen
+- TOP 6.2: Sachstandsmitteilung zum Förderprogramm "Digitalpakt NRW" vom 16.06.2025
+- TOP 6.2: Sachstandsmitteilung zum Förderprogramm "Digitalpakt NRW" vom 16.06.2025 - Kenntnis genommen
+- TOP 6.3: Beantwortung einer schriftlichen Anfrage (AN/0510/2025) der FDP-Fraktion betreffend "Umsetzung Digitalpakt NRW"
+- TOP 6.3: Beantwortung einer schriftlichen Anfrage (AN/0510/2025) der FDP-Fraktion betreffend "Umsetzung Digitalpakt NRW" - Kenntnis genommen
+- TOP 6.4: Stellungnahme zum Antrag AN/0759/2025 bezüglich Fassadenbegrünung für Schulen als Klimaanpassungsmaßnahme und Lernort
+- TOP 6.4: Stellungnahme zum Antrag AN/0759/2025 bezüglich Fassadenbegrünung für Schulen als Klimaanpassungsmaßnahme und Lernort - Kenntnis genommen
+- TOP 6.5: Herrichtung Trakte A und B und Dachsanierung Trakte A bis E mit Photovoltaik für das Gymnasium Unter Linden am Standort Neue Sandkaul 29, 50859 Köln-Widdersdorf
+- TOP 6.5: Herrichtung Trakte A und B und Dachsanierung Trakte A bis E mit Photovoltaik für das Gymnasium Unter Linden am Standort Neue Sandkaul 29, 50859 Köln-Widdersdorf - Kenntnis genommen
+- TOP 6.5: Herrichtung Trakte A und B und Dachsanierung Trakte A bis E mit Photovoltaik für das Gymnasium Unter Linden am Standort Neue Sandkaul 29, 50859 Köln-Widdersdorf - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7: Mündliche Anfragen
+- TOP 7: Mündliche Anfragen
