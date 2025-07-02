@@ -1,0 +1,112 @@
+# 32. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-07-02T15:03:00+02:00
+- Ende: 2025-07-02T19:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13962
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13962
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich - aktualisierte Fassung https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00572774.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bericht über die Beschäftigung von Menschen mit Schwerbehinderungen und diesen Gleichgestellten bei der Stadt Münster 2024 - zur Kenntnis genommen
+- TOP 3: Bericht zum Antrag „Vollständige Digitalisierung der Verwaltungsdienstleistungen und Einführung eines Dienste Portals“ (A-R/0017/2024) - zur Kenntnis genommen
+- TOP 4: Fortschreibung des Einzelhandels- und Zentrenkonzepts – Veröffentlichung des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 5: Förderung von Stadterneuerungsprojekten - Sachstand 2025 und Anträge 2026 - einstimmig beschlossen
+- TOP 6: Albersloher Weg - Konzeptionelle Neuausrichtung des Albersloher Weges zwischen dem Angelsachsenweg und dem Knotenpunkt Osttor / Hiltruper Straße - mehrheitlich geändert beschlossen
+- TOP 7: Übersicht über die aktuellen Maßnahmen auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 8: Hafenstraße - DB Unterführung - mehrheitlich beschlossen
+- TOP 9: Ratsantrag A-R/0003/2024: Pragmatisch und schnell - für leistbares Wohnen in Münster - zur Kenntnis genommen
+- TOP 10: Ausbau der Ladeinfrastruktur der awm am Standort Rösnerstraße (Baubeschluss) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: NRW-Tag 2026 - einstimmig beschlossen
+- TOP 11.1: NRW-Tag 2026
+- TOP 12: Selbstbestimmt und diskriminierungsfrei in unserer Stadt leben können – ein „Aktionsplan LSBTIQ*" für Münster - Abschlussbericht - zur Kenntnis genommen
+- TOP 13: Gewalt gegen Frauen und häusliche Gewalt bekämpfen - Die Istanbul Konvention auf kommunaler Ebene umsetzen: Abschlussbericht - mehrheitlich geändert beschlossen
+- TOP 14: Verlängerung der Laufzeit des Gleichstellungsplans bis zum 30.06.2026 - einstimmig beschlossen
+- TOP 15: Besetzung der Einigungsstelle - einstimmig beschlossen
+- TOP 16: Feststellung des Jahresabschlusses der citeq zum 31.12.2024 - einstimmig beschlossen
+- TOP 17: Bedarfsplan für den Katastrophenschutz in der Stadt Münster (Katastrophenschutzbedarfsplan) - einstimmig beschlossen
+- TOP 18: Finanzstabilität - Statusbericht - zur Kenntnis genommen
+- TOP 19: Übertragung von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Grevener Verkehrs GmbH (GVG) - einstimmig beschlossen
+- TOP 20: Westfälische Verkehrsgesellschaft mbH (WVG): Erwerb von Geschäftsanteilen; Änderung des Gesellschaftsvertrages der WVG - einstimmig beschlossen
+- TOP 21: Beratungs- und Informationsstrukturen im Handlungsfeld „Internationale Fachkräftegewinnung“ - Welcome Desk - ohne Beschlussfassung geschoben
+- TOP 21.1: Beratungs- und Informationsstrukturen im Handlungsfeld „Internationale Fachkräftegewinnung“ - Welcome Desk
+- TOP 22: Feststellung der Jahresabschlüsse 2024 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 23: Frauenstiftung Münster „fair für frauen" | Zukünftige Verwaltung der rechtlich unselbstständigen Stiftung durch die Stadt Münster - einstimmig beschlossen
+- TOP 24: Vollzug der Sozialen Erhaltungssatzung Hafen-, Hansa-, Herz-Jesu-Viertel - Zweiter Sachstandsbericht - ohne Beschlussfassung geschoben
+- TOP 25: Beitritt zur Abteilung „CIVITAS/CORE-Community“ des Vereins Civitas Connect e.V. zur Steuerung der Münsteraner Urbanen Datenplattform - einstimmig beschlossen
+- TOP 26: Beschluss über eine weitere zeitlich befristete Fortsetzung des Deutschlandtickets - einstimmig beschlossen
+- TOP 27: Münster Experience- Tourismus- und Kongressstrategie für die Stadt Münster - einstimmig beschlossen
+- TOP 28: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2024 - einstimmig beschlossen
+- TOP 29: Schulentwicklungsplan 2025 - ohne Beschlussfassung geschoben
+- TOP 29.1: Schulentwicklungsplan 2025
+- TOP 30: Erweiterung der Mosaik-Schule in Münster zur Vierzügigkeit; - einstimmig beschlossen
+- TOP 31: Baubeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs - einstimmig beschlossen
+- TOP 32: Aufhebung der "Benutzungs- und Gebührensatzung für die städtische Berufsfachschule für pharmazeutisch-technische Assistenten/-innen der Stadt Münster" - einstimmig beschlossen
+- TOP 33: Entwicklungen im Modellprojekt "intensivpädagogische Gruppen" - einstimmig beschlossen
+- TOP 34: Errichtung der Bildungsgänge „Fachoberschule für Informatik“ am Ludwig-Erhard-Berufskolleg sowie die „Einjährige Berufsfachschule für Informations- und Telekommunikationstechnik“ am Hans-Böckler-Berufskolleg - einstimmig beschlossen
+- TOP 35: Erweiterung des Schulzentrums Hiltrup für die Umstellung auf G9 auf Basis des Grundsatzbeschlusses V/0427/2020/1 - ohne Beschlussfassung geschoben
+- TOP 36: Baulicher Errichtungsbeschluss Gesamtschule Münster-Südost - einstimmig beschlossen
+- TOP 37: Anmeldeverfahren zu den weiterführenden Schulen zum Schuljahr 2026/2027 - ohne Beschlussfassung geschoben
+- TOP 38: Förderung der LWL-Jugendwerkstatt im Jugendausbildungszentrum gGmbH - einstimmig beschlossen
+- TOP 39: Benutzungs- und Gebührenordnung für die Überlassung von Räumen und Sachmitteln der Volkshochschule Münster - einstimmig beschlossen
+- TOP 39.1: Benutzungs- und Gebührenordnung für die Überlassung von Räumen und Sachmitteln der Volkshochschule Münster
+- TOP 40: Errichtungsbeschluss: Errichtung einer 2-Gruppen Kindertageseinrichtung in der Niels-Stensen-Straße, als Ersatzstandort im Bereich Sentrup. - einstimmig beschlossen
+- TOP 41: Trägervergabe Kita An der Alten Kirche in Hiltrup als Ersatzstandort - einstimmig beschlossen
+- TOP 42: Errichtungsbeschluss: Errichtung einer Kindertageseinrichtung an der Annette-Allee im Stadtteil Schloss, Bezirk Mitte als Ersatzstandort - ohne Beschlussfassung geschoben
+- TOP 43: Überleitung der außerunterrichtlichen Angebote der Eichendorffschule Angelmodde (OGS) - einstimmig beschlossen
+- TOP 44: Überleitung der außerunterrichtlichen Angebote der Annette-von-Droste-Hülshoff-Schule Nienberge (OGS) - einstimmig beschlossen
+- TOP 45: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung östlich Sprakeler Straße im Stadtteil Sprakel, Bezirk Nord - einstimmig beschlossen
+- TOP 46: Bedarfsgerechter Ausbau der OGS vor dem Hintergrund des Rechtsanspruchs auf einen Ganztagsplatz zum Schuljahr 2026/27 - zur Kenntnis genommen
+- TOP 47: Grundsatzbeschluss integrierte gesamtstädtische Sportentwicklungsplanung Münster - einstimmig beschlossen
+- TOP 48: Errichtungsbeschluss Sechsfachsporthalle am Hans-Böckler-Berufskolleg - ohne Beschlussfassung geschoben
+- TOP 49: Befristete Zuschüsse im Bereich Soziales mit Enddatum 31.12.2025 - einstimmig beschlossen
+- TOP 50: Neubau dauerhafter Flüchtlingseinrichtungen mit bis zu 50 Plätzen im Baugebiet Albachten-Ost und in Handorf im Baugebiet an der Hobbeltstraße - Errichtungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 51: Städtische Förderung der Verbraucherberatung Münster 2026-2030 - einstimmig beschlossen
+- TOP 52: Vorschlag für ein Handlungsprogramm „Gesunde Stadt Münster“ - Empfehlungen aus dem Projekt „Gesundheit in der nachhaltigen Stadt“ - einstimmig beschlossen
+- TOP 53: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Stadt Münster und der Stadt Bochum über die zentrale Entscheidung der eingeschränkten Erlaubniserteilung und die zentrale Durchführung der Kenntnisüberprüfungen von Heilpraktigeranwärte - einstimmig beschlossen
+- TOP 54: Wirtschaftsplan 2025/2026 für das Theater Münster - einstimmig beschlossen
+- TOP 55: Übertragung von Grundstücken an die Wohn +Stadtbau GmbH - ohne Beschlussfassung geschoben
+- TOP 56: Erweiterung des Schulzentrums Wolbeck -Neubaugebäude- - einstimmig beschlossen
+- TOP 56.1: Erweiterung des Schulzentrums Wolbeck -Neubaugebäude-
+- TOP 57: Baubeschluss 2 Gruppen-Kita am Hoppengarten - ohne Beschlussfassung geschoben
+- TOP 57.1: Baubeschluss 2 Gruppen-Kita am Hoppengarten
+- TOP 58: Baubeschluss - Neubau der Feuer- und Rettungswache 3 in Münster-Hiltrup - einstimmig beschlossen
+- TOP 58.1: Baubeschluss - Neubau der Feuer- und Rettungswache 3 in Münster-Hiltrup
+- TOP 59: Errichtung Erweiterungsneubau und Fertigbauklassen GSMW - einstimmig beschlossen
+- TOP 59.1: Errichtung Erweiterungsneubau und Fertigbauklassen GSMW
+- TOP 60: Baubeschluss Erweiterung und Sanierung Kulturzentrum Hoppengarten - einstimmig beschlossen
+- TOP 60.1: Baubeschluss Erweiterung und Sanierung Kulturzentrum Hoppengarten
+- TOP 61: Baubeschluss zur baulichen Erweiterung des Annette-von-Droste-Hülshoff Gymnasiums für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 61.1: Baubeschluss zur baulichen Erweiterung des Annette-von-Droste-Hülshoff Gymnasiums für die Umstellung auf G9
+- TOP 62: Weiterentwicklung der Grünordnung Münster zur "Grünordnung 2.0" – Grundsatzbeschluss und Beauftragung der Verwaltung zur Prüfung von Fördermöglichkeiten - ohne Beschlussfassung geschoben
+- TOP 63: Grundsatzbeschluss: Gestaltung der öffentlichen Spielplätze als inklusive Spielräume - ohne Beschlussfassung geschoben
+- TOP 64: Widerspruch des Naturschutzbeirates zu einer Befreiung nach § 67 BNatSchG - ohne Beschlussfassung geschoben
+- TOP 65: Aufhebung von Beschlüssen zur Aufstellung von Bauleitplänen. Einstellung der Bauleitplanverfahren. - ohne Beschlussfassung geschoben
+- TOP 66: Bauleitplanung
+- TOP 66.1: Stadtbezirk Mitte
+- TOP 66.1.1: 119. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 630 - Geänderter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 66.2: Stadtbezirk West
+- TOP 66.2.1: 1. Änderung des Bebauungsplans Nr. 579: Gievenbeck - Oxford-Quartier im Bereich des Simonsplatzes - ohne Beschlussfassung geschoben
+- TOP 66.2.2: 127. Änd. FNP - Änderung - Bebauungsplan Nr. 639 - Aufstellung - einstimmig beschlossen
+- TOP 66.3: Stadtbezirk Hiltrup
+- TOP 66.3.1: 88. Änderung FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 66.3.2: Bebauungsplan Nr. 627 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 66.3.3: 134. FNP-Änderung - Beschluss zur Änderung - VBP Nr. 650 - Beschluss zur Aufstellung [Klinkermanufaktur Janinhoff] - einstimmig beschlossen
+- TOP 66.4: Stadtbezirk Nord
+- TOP 66.4.1: Bebauungsplan Nr. 576 - Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 66.5: Stadtbezirk Südost
+- TOP 66.5.1: Bebauungsplan Nr. 655 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 66.5.2: Bebauungsplan Nr. 517 - 2. Änderung - Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 66.5.3: 117. Änderung des Flächennutzungsplans der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf-West im Bereich Boelckeweg / Albersloher Weg / Bundesstraße B 51 - einstimmig beschlossen
+- TOP 66.5.4: Vorhabenbezogener Bebauungsplan Nr. 626: Boelckeweg/Albersloher Weg/Bundesstraße B 51 [Gasometer] - einstimmig beschlossen
+- TOP 67: Finanzierung und Umsetzung von Bauprojekten - ohne Beschlussfassung geschoben
+- TOP 68: Baubeschluss zum Umbau und Sanierung des Bestandsgebäudes am Schulzentrum Kinderhaus für die Geschwister-Scholl- Realschule und das Geschwister-Scholl-Gymnasium. - ohne Beschlussfassung geschoben
+- TOP 69: Verschiedenes
