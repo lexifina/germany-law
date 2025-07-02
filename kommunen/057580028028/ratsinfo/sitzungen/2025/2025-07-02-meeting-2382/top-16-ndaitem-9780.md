@@ -1,0 +1,6 @@
+# TOP 16.: Anfragen von Ratsmitgliedern
+
+- Sitzung: Gemeinderat (30. Sitzung) (2025-07-02)
+- Körperschaft: Gemeinde Rödinghausen
+- Öffentlich: ja
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9780
