@@ -1,0 +1,98 @@
+# 32. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2025-07-02T17:30:00+02:00
+- Ende: 2025-07-02T21:12:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8731
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8731
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=333493
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - mit Änderungen in der BVV beschlossen
+- TOP 1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Transport von Kindern mit Behinderungen zu betreuenden Einrichtungen während der Sommerferien - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Abwahl des Bezirksverordnetenvorstehers - in der BVV abgelehnt
+- TOP 1.9: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - im Ausschuss abgelehnt
+- TOP 1.11: Wahl einer Bürgerdeputierten oder eines Bürgerdeputierten für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die IX. Wahlperiode - gewählt
+- TOP 1.12: Schließung der kommunalen Kindereinrichtung Fallobst in der Ibsenstraße 20 am Standort Bornholmer Grundschule - überwiesen
+- TOP 1.13: Fehlende Hilfsangebote in Berlin-Buch initiieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Verkehrsberuhigung im Areal Parkstraße/ Elfenallee/ Eddastraße/ Chamissostraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Vorfahrt für Fahrradfahrende in der Diesterwegstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Besserer Schutz vor Feuerwerk außerhalb Silvester - zurückgezogen
+- TOP 1.17: Hofzeichen in Karow sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Sicherstellung und Verstetigung der Grillbetreuung im Mauerpark für die Haushaltsjahre 2026/2027 und darüber hinaus - in der BVV abgelehnt
+- TOP 1.19: Kiezbegehungen mit Senioren – Perspektiven sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Sicherung des Schwimmunterrichts an Pankower Schulen – Schwimmbusse erhalten - mit Änderungen in der BVV beschlossen
+- TOP 1.21: Erhalt der intergenerationellen Begegnungsstätte La Bohéme (Projekt des Freundeskreises Tina Modotti Archiv e.V.) - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: „Erinnerung durch Begegnung”: (Digitales) Gedenkformat der Holocaust-Überlebenden Margot Friedländer im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Soziale Infrastruktur schützen – Pankow stellt sich schützend vor die Träger und Vereine - vertagt
+- TOP 1.24: Neues Flair & Attraktivität für die Berliner Allee - überwiesen
+- TOP 1.25: Bürgergarten Mühlenkiez (Flurstück 280, Thomas-Mann-Straße) - überwiesen
+- TOP 1.26: Bevölkerungsschutz und Katastrophenhilfe fördern. Notfallversorgung und richtiges Handeln in Notsituationen forcieren. - überwiesen
+- TOP 1.27: Soziale Infrastruktur schützen – Pankow setzt politische Prioritäten in der Haushaltsaufstellung 2026/2027 - vertagt
+- TOP 1.28: Helmholtzplatz als Oase der Naherholung dauerhaft sichern und erhalten - überwiesen
+- TOP 1.29: Selbstverwaltetes Stammesheim für den Pfadfinder*innenstamm Plejaden in Pankow - überwiesen
+- TOP 1.30: Verkehrssicherheit insbesondere für Schüler in der Gravensteinstraße und Hauptstraße erhöhen - überwiesen
+- TOP 1.31: Arbeitsfähigkeit des Teilhabefachbereichs Jugend wiederherstellen - vertagt
+- TOP 1.32: Platz für Kinder statt für Autos – Senefelderstraße entlasten - vertagt
+- TOP 1.33: Bäume für Pankow – Förderungen für öffentliche Flächen nutzen - vertagt
+- TOP 1.34: Aussteigerprogramme für Jugendliche in rechten Gruppierungen und Strukturen initiieren - Angriffe abwehren - Betroffene schützen - vertagt
+- TOP 1.35: Müll und Mobilität II - Müllentsorgung in der Thomas-Mann-Straße gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Schwammbezirk mit Versickerung an Gullys und Pfützen an Bäumen - überwiesen
+- TOP 1.37: Hilfen für geflüchtete, junge Volljährige nachhaltig gestalten - Integration fördern - vertagt
+- TOP 1.38: Wildparkende Grillwütige raus aus Grünanlagen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Wiedereinrichtung der bezirklich finanzierten Beförderung zum Schulschwimmen - zurückgezogen
+- TOP 1.40: Es werde Licht! - überwiesen
+- TOP 1.41: Keine Kürzungen bei der Beförderung behinderter Kinder - Diskriminierung beenden - Folgekosten abwenden - vertagt
+- TOP 1.42: Kein Lohndumping in der Sozial- und Jugendhilfe - Tarifmittel für freie Träger sichern - vertagt
+- TOP 1.43: Flexibudget vom Kopf auf die Füße stellen - Prävention wirksam ausgestalten - überwiesen
+- TOP 1.44: Pflegevereinbarung zum Mauerpark mit Grün Berlin - Haushaltsrecht ist Parlamentsrecht - vertagt
+- TOP 1.45: Drittmittelakquise durch den Bezirk Pankow stärken - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mobilitätsstudie des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Kulturstandort Freilichtbühne Weißensee sichern und weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Pankow erklärt den Klimanotstand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Machbarkeit einer Begegnungszone im Bereich Garbatyplatz prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Mittel für die Sanierung der Immanuelkirche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Kostenlose Bereitstellung von Menstruationsartikeln in Behörden, Schulen und öffentlichen Einrichtungen - vertagt
+- TOP 2.7: Erfolgreiches Berichtswesen zu Schulbauoffensive, Schulentwicklungsplanung und Sportentwicklungsplanung fortsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Umbenennung der Robert-Rössle-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Logistik auf die Schiene - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Wohin zum Gassi gehen - ein Hundeauslaufkonzept für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Gleimstraße: Fahrradstraße endlich gemeinsam mit dem Bezirk Mitte durchsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Lesbische Sichtbarkeit und Angebote für queere Frauen* in Pankow fördern - vertagt
+- TOP 2.13: Verkehrsentwicklung im Umfeld der Fahrradstraße Stargarder Straße evaluieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Mehr Safeplaces für obdachlose Menschen auch in Pankow! - vertagt
+- TOP 2.15: Eine Europaschule endlich auch für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: P+R Parkplatz S-Bahn Pankow-Heinersdorf reanimieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Über die Hansastraße zum Sport – sicherer und besser ankommen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Integration durch Bildung. Gezielte Werbung in Flüchtlingseinrichtungen für freie Kitaplätze in Pankow. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Hilferuf-App bekannt machen: für mehr Sicherheit im Pankower Sommerbad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Nie wieder ist jetzt. Demokratie stärken, Antisemitismus entschieden entgegentreten I - Gründung eines Bündnisses gegen Antisemitismus in Berlin-Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Weiterentwicklung des Bürger*innenhaushaltes hin zu Kiezkassen für Pankow - überwiesen
+- TOP 2.22: Projekt ZEUS in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Sichere Überquerung der Hauptstraße für die Schulkinder der Platanengrundschule in Blankenfelde ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Nutzer*innen beteiligen - Sozialräumliche Öffnung von Schulen stärken und ganzheitlich evaluieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Mehr Sicherheit für unsere Kinder - Bahnhofstraße in Karow entschleunigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Mehr Verkehrssicherheit für Fußgänger*innen in der Wilhelmsruher Hauptstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Jahresabschlussergebnis 2024 für den Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Hitzeaktionsplan Pankow 2025 - vertagt
+- TOP 2.29: Zielvereinbarung Auf dem Weg zu sauberen Schulen – Qualitätsverbesserung Schulreinigung - vertagt
+- TOP 2.30: Veränderung von Einschulungsbereichen zum Schuljahr 2026/2027 (gem. § 109 Schulgesetz für das Land Berlin) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Örtliche Abgrenzung der 9 Wahlkreise für die Wahl zum Abgeordnetenhaus im Wahl-kreisverband Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Festsetzung der Eckwerte für die Aufstellung des Doppelhaushaltsplans 2026/2027 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Zielvereinbarung zur gesamtstädtischen Steuerung der Sauberkeit und Ordnung im öffentlichen Raum - vertagt
+- TOP 2.34: Bebauungsplan 3-85 „Dietzgenstraße – Nordend“ für die Grundstücke Dietzgenstraße 122, 126, 128, 130/142 sowie 158/162 im Bezirk Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
