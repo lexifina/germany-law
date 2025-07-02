@@ -1,0 +1,57 @@
+# Rat (52. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2025-07-02T17:00:00+02:00
+- Ende: 2025-07-02T20:41:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZY4fd6sIy0qB3sNI9CmBm_g
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6247
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_XoR2kucc_TLTGJSDtV1bPqXINBjqZIXIGWzkF7BOM/Oeffentliche_Niederschrift_Rat_02.07.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 04.06.2025
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Projektentwicklung in Bezug auf das Hertieareal - 27 Jastimmen, 8 Neinstimmen, 3 Enthaltungen
+- TOP 6.: Schülerbeförderung Hier: Bereitstellung von Mitteln für die Fortführung der Übergangslösung und Feststellung der Unaufschiebbarkeit der Maßnahme gem. § 82 Abs. 1 Nr. 1 GO NRW - Einstimmig, 0 Enthaltungen
+- TOP 7.: Bericht über den Gleichstellungsplan der Stadt Gronau
+- TOP 8.: Berichterstattung aus dem Arbeitskreis "Istanbul-Konvention"
+- TOP 9.: Jahresabschluss für das Abwasserwerk der Stadt Gronau Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Integriertes Städtebauliches Entwicklungskonzept (ISEK) für das Germania-Quartier und den Gemeindepark im Stadtteil Epe Beschluss über das ISEK - 35 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 11.: Antrag auf Benennung einer Straße oder eines Platzes nach der ungarischen Partnerstadt Mezöberèny - 9 Jastimmen, 28 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Absichtserklärung "Drilandstein" zur Zusammenarbeit der drei Nachbargemeinden Losser, Bad Bentheim und Gronau - Einstimmig, 0 Enthaltungen
+- TOP 13.: Energetische Sanierung der Sporthalle 2 - Beauftragung der Planung bis Leistungsphase 3 für den EFRE-Förderantrag (Europäischer Fond für Regionale Entwicklung Teilprogramm Energieeffiziente öffentliche Gebäude) - Einstimmig, 0 Enthaltungen
+- TOP 14.: 114. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich des vorhabenbezogenen Bebauungsplans "Errichtung eines Wohn- und Geschäftshauses für das Modehaus Bruno Kleine" Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauG 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Vorhabenbezogener Bebauungsplan Errichtung eines Wohn- und Geschäftshauses für das Modehaus Bruno Kleine“, Stadtteil Gronau Billigung eines geänderten Planentwurfs für die erneute Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB und der Behörden gem. § 4 Abs. 2 BauGB i.V.m. § 4a Abs. 3 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 16.: 104. Änderung des Flächennutzungsplans für den Bereich "Sportgebiet Eper Bülten", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauG 2 Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der 1. erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der 1. erneuten Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 7. Behandlung der Stellungnahmen aus der 2. erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 8. Behandlung der Stellungnahmen aus der 2. erneuten Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 9. Planbeschluss - 35 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 242 "Sportgebiet Eper Bülten", Teilbereich I, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der 1. erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der 1. erneuten Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 7. Satzungsbeschluss - 35 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 19.: Ausbuchung des Bilanzpostens zur Erhaltung der gemeindlichen Leistungsfähigkeit
+- TOP 20.: Ermächtigungsübertragung von 2024 nach 2025 gemäß § 22 Kommunalhaushaltsverordnung NRW (KomHVO NRW)
+- TOP 21.: Entwurf des Jahresabschlusses 2024 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 22.: Wahlordnung für die Wahl der direkt in den Integrationsrat der Stadt Gronau (Westf.) zu wählenden Mitglieder - Einstimmig, 0 Enthaltungen
+- TOP 23.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 24.1: Aufstellungsbeschluss "Gronauer Straße"
+- TOP 25.: Anfragen
+- TOP 25.1: Gronauer Straße (Anfrage v. RM Drees)
+- TOP 25.2: Videokamera Gronauer Straße (Anfrage v. RM Bügener)
+- TOP 25.3: Planungsstand am Eper Bahnhof (Anfrage v. RM Bügener)
+- TOP 25.4: Gesellschafterversammlung der QEG (Anfrage v. RM Große Dütting)
+- TOP 25.5: IZG Nutzung (Anfrage vom 3. Stellv. d. BM Hönerlage)
+- TOP 25.6: Vandalismus am Tretbootverleih (Anfrage von RM Doetkotte)
+- TOP 25.7: Baustelle Agathastraße (Anfrage von RM Doetkotte)
+- TOP 25.8: ehem. Betriebsgebäude Spinnerei 1 (Anfrage von RM von Borczyskowski)
+- TOP 25.9: Rückschnitt der Bäume am Spielplatz Kaiserstiege (Anfrage von RM von Borczyskowski)
+- TOP 25.10: Fatbikes in der Innenstadt (Anfrage v. RM Hüsing-Hackfort)
+- TOP 25.11: Baumfällungen (Anfrage v. RM Buchholz)
+- TOP 25.12: Internationale Tagung "Wasserrecht" (Anfrage v. RM Buchholz)
