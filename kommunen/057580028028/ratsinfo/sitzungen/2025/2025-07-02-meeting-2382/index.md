@@ -1,0 +1,51 @@
+# Gemeinderat (30. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2025-07-02T19:00:00+02:00
+- Ende: 2025-07-02T23:28:00+02:00
+- Ort: Haus des Gastes, Pemberville Platz 1, 32289 Rödinghausen, Raum 12 - Großer Saal
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeemIdpyCwG53M6Ek-DolR4
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2382
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWU_VkYKn2bRz3hedsoD5BhWDV-gQ3IszqCv243eI-J_/Bekanntmachung_Gemeinderat_02.07.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZefRUR4ECBqi6kna2ytyVqfaN1aVtvzzuvzhQa-08fgQ/Oeffentliche_Niederschrift_Gemeinderat_02.07.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Rolf Kuhlmann
+- TOP 2.2: Rolf Kuhlmann
+- TOP 2.3: Klaus-Hermann Pörtner
+- TOP 2.4: Klaus-Hermann Pörtner
+- TOP 2.5: Klaus-Herrmann Pörtner
+- TOP 2.6: Dr. Ernst-Friedrich Maschmeier
+- TOP 2.7: Roland Neubert
+- TOP 2.8: Ulf Eichmann
+- TOP 2.9: Ulf Eichmann
+- TOP 2.10: Michael Beinke
+- TOP 2.11: Verena Mailänder
+- TOP 3.: Erwerb einer Beteiligung an der WestfalenWIND Strom GmbH durch die Westfalen Weser Energieerzeugung GmbH & Co. KG - Beratungsergebnis:18 Ja-Stimme(n), 0 Gegenstimme(n), 8 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnthaltungenSummeSPD100010CDU0077B90/Grüne5005FDP2000Bürgermeister1000Ohne0011Summe180826
+- TOP 4.: Anträge von Fraktionen
+- TOP 4.1: Antrag der Fraktion "Bündnis 90/Die Grünen": Sachstandsbericht zu den konkreten Perspektiven der hausärztlichen Versorgung in der Gemeinde Rödinghausen
+- TOP -: Antrag der Fraktion "Bündnis 90/Die Grünen": Sachstandsbericht zu den konkreten Perspektiven der hausärztlichen Versorgung in der Gemeinde Rödinghausen
+- TOP 4.2: Antrag der CDU-Fraktion auf Benennung eines sachkundigen Bürgers für den Ausschuss Schule, Jugend, Bildung und Sport - Beratungsergebnis:24 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnthaltungenSummeSPD90110CDU7007B90/Grüne5005FDP1012Bürgermeister1001Ohne1001Summe240226
+- TOP 4.3: Antrag der CDU-Fraktion auf Einführung getrennter Ratsvorlagen mit öffentlicher Wertdiskussion als Vorratsbeschluss - Beratungsergebnis:10 Ja-Stimme(n), 13 Gegenstimme(n), 3 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnthaltungenSummeSPD010010CDU7007B90/Grüne2035FDP0202Bürgermeister0101Ohne1001Summe1013326
+- TOP 4.4: Antrag der CDU-Fraktion auf Schaffung von Arbeitsgelegenheiten für Asylbewerber/innen und Bürgergeldempfänger/innen - Beratungsergebnis:25 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnthaltungenSummeSPD100010CDU7007B90/Grüne5005FDP2002Bürgermeister1001Ohne0011Summe250126
+- TOP 5.: Sachstand der Digitalisierung in der Gemeindeverwaltung
+- TOP 6.: Bestellung eines stellvertretenden Wahlleiters für die Kommunalwahlen 2025 - Beratungsergebnis:Einstimmig
+- TOP 7.: Jahresabschluss 2024 der Kommunale Entwicklungsgesellschaft Rödinghausen mbH - Beratungsergebnis:Einstimmig
+- TOP 8.: Jahresabschluss 2024 des Sondervermögens Abwasserbeseitigung der Gemeinde Rödinghausen - Beratungsergebnis:Einstimmig
+- TOP 9.: Übernahme von Bürgschaften für ein Darlehen der Kommunalen Entwicklungsgesellschaft Rödinghausen mbH - Beratungsergebnis:Einstimmig
+- TOP 10.: Bericht über die Haushaltsbewirtschaftung 2025 der Gemeinde Rödinghausen
+- TOP 11.: Vorratsbeschluss hinsichtlich der Wahrnehmung der Antragsberechtigung nach dem Entwurf eines Gesetzes zur anteiligen Entschuldung von Kommunen im Land Nordrhein-Westfalen (Altschuldenentlastungsgesetz Nordrhein-Westfalen - ASEG NRW) - Beratungsergebnis:Einstimmig
+- TOP 12.: Neufassung der Satzung über die Abfallentsorgung in der Gemeinde Rödinghausen - Beratungsergebnis:7 Ja-Stimme(n), 16 Gegenstimme(n), 3 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnthaltungenSummeSPD010010CDU7007B90/Grüne0235FDP0202Bürgermeister0101Ohne0101Summe716326
+- TOP 13.: Begrenzung der aufzunehmenden Schülerinnen und Schüler in den Eingangsklassen zum Schuljahr 2026/2027 - Beratungsergebnis:Einstimmig
+- TOP 14.: Antrag der "Planungsgruppe Rödinghauser Bürgerwind" und des Ev. Kirchenkreises Herford auf Einleitung einer Positivplanung zwecks Errichtung einer Windenergieanlage im Bereich der Gemarkung Heerfeld - Beratungsergebnis:10 Ja-Stimme(n), 11 Gegenstimme(n), 2 Stimmenthaltung(en)Der Beschlussvorschlag ist damit abgelehnt.
+- TOP 15.: Mitteilungen der Verwaltung
+- TOP 16.: Anfragen von Ratsmitgliedern
+- TOP 16.1: Ratsmitglied Dirk Kleineweber
+- TOP 16.2: Ratsmitglied Andre Poerting
