@@ -1,0 +1,88 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-07-02T17:00:00+02:00
+- Ende: 2025-07-02T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27721
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27721
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559002.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559002.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00559002.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der öffentlichen und nicht-öffentlichen Niederschrift vom 02.04.2025 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 21.05.2025 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - Empfehlung abweichend beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Planung und Umsetzung der Freianlagen der Baumaßnahme „Grünzug Aaper Wald" in Düsseldorf Rath/Mörsenbroich - Empfehlung einstimmig beschlossen
+- TOP 9: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - Empfehlung einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 12: Anfrage der CDU-Fraktion: Errichtung des Trinkwasserspenders und Nutzung des Platzes am Rather Carré - schriftlich beantwortet
+- TOP 13: Anfrage der SPD-Fraktion: Tempo 30 "An der Piwipp" - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der Fraktion BÜ90/Die Grünen: Regelungen für den Einsatz von Bodenschwellen (auf der Krahnenburgstraße) - vertagt
+- TOP -: Anfragen
+- TOP 16: Anfrage der CDU-Fraktion: Stand der Baustelle am Dreiecksplatz Scheffelstraße - schriftlich beantwortet
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Bleibt die Bauaufsicht bei illegalen Flughafenparkplätzen untätig? - vertagt
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Sicherstellung der Durchgangsbreite des Gehwegs auf der Westfalenstraße - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 19: Antrag der SPD-Fraktion: Rettungswege Jugendfreizeiteinrichtung Ekkehardstraße - einstimmig beschlossen
+- TOP 20: Antrag der SPD-Fraktion: Durchfahrt Buslinie 730 bei Veranstaltungen - abweichend beschlossen
+- TOP 21: Antrag der SPD-Fraktion: Sperrmüllkontrolle Rath - abweichend beschlossen
+- TOP 22: Antrag der SPD-Fraktion: Brückengeländer im Stadtbezirk 6 - abweichend beschlossen
+- TOP 23: Antrag der SPD-Fraktion: Pocketpark/Stadtgrün Heinrichstraße/Münsterstraße - einstimmig beschlossen
+- TOP 24: Antrag der CDU-Fraktion: Gestaltung des Kreisverkehrs Wahlerstraße/Am Gatherhof - abweichend beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Verbot von Mopeds auf dem Rather Korso - abweichend beschlossen
+- TOP 26: Antrag der CDU-Fraktion: Radweg auf der Westfalenstraße - abweichend beschlossen
+- TOP 27: Antrag der Fraktion BÜ90/Die Grünen: Fahrradständer auf der Unterrather Straße - abweichend beschlossen
+- TOP 28: Interfraktioneller Antrag: Einrichtung eines Anwohnerparkgebietes in Lichtenbroich - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen (wurden bereits übersandt)
+- TOP 29: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Pinocchio e. V. - Erweiterung und Ausbau des Tonstudios - einstimmig beschlossen
+- TOP 30: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des DJK AGON 08/Mörsenbroicher Sportverein Düsseldorf e. V. - Sport statt Straße 2025 - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2025 Teil C "Förderung Dritter" - Anschaffung eines Schulungsdoppelsitzers für den Düsseldorfer Aero Club e. V. - mehrheitlich beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 32: Masterplan Kinderspielplätze: Umgestaltung Sermer Weg - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 33: Masterplan Jugend- und Bolzplätze, Umgestaltung Sermer Weg - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 34: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der Realschule Borbecker Str. - Anschaffung von Schüler*innen-Kalendern - einstimmig beschlossen
+- TOP 35: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Fest- und Förderverein Leetebrok e. V. - Anschaffung Halteverbotsschilder, Grills und Kabelbrücken - einstimmig beschlossen
+- TOP 36: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Fest- und Fördervereins Leetebrok e. V. - St. Martin 2025 - einstimmig beschlossen
+- TOP 37: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Abenteuerspielplatzes Mörsenbroich - Theaterprojekt in den Sommerferien - einstimmig beschlossen
+- TOP 38: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der KGS Kartause Hain - "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 39: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der Gemeinschaftsgrundschule Unterrath - "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 40: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Bürgervereins Mörsenbroich 1928 e. V. - Offener Bücherschrank Mörsenbroich - einstimmig beschlossen
+- TOP 41: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der Gemeinde St. Josef Oberrath - Instandsetzung der Bänke vor St. Josef - Kirchplatz - einstimmig beschlossen
+- TOP 42: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Maßnahmenvorschläge 2025: Amt für Soziales und Jugend/Jugend - einstimmig beschlossen
+- TOP 43: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" KSP Sermerweg / Ersatzbeschaffung für alte Inklusiv-Kleinkindkombination mit Rutsche und Sandspielbereich - einstimmig beschlossen
+- TOP 44: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" BSA Lichtenbroich, Franz-Rennefeld-Weg 15 – Sanierung von Duschanlagen in der 3fach-Sporthalle - einstimmig beschlossen
+- TOP 45: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Aufwertung der Fußgängerzone Matthiaskirchweg - Vorlage BV6/065/2025 - einstimmig beschlossen
+- TOP 46: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Tafel Denkmal Gut Heiligendonk - Vorlage BV6/158/2024 - einstimmig beschlossen
+- TOP 47: Sammelmaßnahme Reinigung diverse Kunstwerke (Graffiti oder Bewuchs) - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 48: Tempo 30 auf dem Mörsenbroicher Weg - Prüfauftrag - zur Kenntnis genommen
+- TOP 49: Schaffung einer Quartiersgarage auf dem Vogelsanger Weg (Schützenplatz) - Vorlage BV6/070/2023; Informationsvorlage BV6/145/2023 - zur Kenntnis genommen
+- TOP 50: Baumfällungen im Stadtbezirk 6 ab der 21. Kalenderwoche 2025 - zur Kenntnis genommen
+- TOP 51: Hundeauslaufplatz - Vorlage BV6/040/2025 - zur Kenntnis genommen
+- TOP 52: Einrichtung eines Zebrastreifens auf dem Mörsenbroicher Weg im Bereich Vinckestraße - Vorlage BV6/087/2025 - zur Kenntnis genommen
+- TOP 53: Entfernung Altkleidercontainer der AWISTA am Parkplatz Ecke Lichtenbroicher Weg/Dickhausweg - Vorlage BV6/078/2025 - zur Kenntnis genommen
+- TOP 54: Grünschnitt am Fahrradständer an der Haltestelle Unterrath S und dauerhafte Lösung für Fahrradabstellmöglichkeiten - Vorlage BV6/050/2025 - zur Kenntnis genommen
+- TOP 55: Ausbesserung/Instandsetzung der Fahrbahn auf der Liliencronstraße - Vorlage BV6/079/2025 - zur Kenntnis genommen
+- TOP 56: Aufwertung/Pocket Park als "Grüne Oase" am Dreieck Mühligweg/Diezelweg - Vorlage BV6/076/2025 - zur Kenntnis genommen
+- TOP 57: Japanischen Staudenknöterich am Ratherbroicher Grenzgraben eindämmen - Vorlage BV6/090/2025 - zur Kenntnis genommen
+- TOP 58: Baumfällungen im Stadtbezirk 6 in der 25. Kalenderwoche 2025 - zur Kenntnis genommen
+- TOP 59: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath - Empfehlung einstimmig beschlossen
+- TOP 60: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Projekt Blumenkästen im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 61: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Offener Bücherschrank - einstimmig beschlossen
+- TOP 62: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Aufstellung des Denkmals Vallourec - einstimmig beschlossen
+- TOP 63: Verkehrssituation auf der Oberrather Straße - Abfahrt von der Brücke zur Sankt-Franziskus-Straße - Vorlage BV6/212/2024 - zur Kenntnis genommen
+- TOP 64: Rhein-Ruhr-Express - Farbgestaltung der Lärmschutzwände - zur Kenntnis genommen
