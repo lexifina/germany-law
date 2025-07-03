@@ -1,0 +1,106 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-07-03T18:30:00+02:00
+- Ende: 2025-07-03T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3681
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3681
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00165051.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00165051.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00165051.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Genehmigung der Dringlichkeitsentscheidung über den Erlass der neuen Wahlordnung für die Wahl der direkt zu wählenden Mitglieder des Integrationsrates - einstimmig beschlossen
+- TOP 5: Freiwillige Aufwandsentschädigung bei Betreuungsausfällen in Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 6: Teilnahme am anteiligen Entschuldungsprogramm des Landes NRW nach ASEG NRW - einstimmig beschlossen
+- TOP 7: 1. Änderung der Ordnungsbehördlichen Verordnung zur Werbung in der Stadt Grevenbroich vom 16.12.2021 - einstimmig beschlossen
+- TOP 8: Tatigkeitsbericht des Ordnungs- und Servicedienstes (OSD) für das Jahr 2024 - Kenntnisnahme
+- TOP 9: Zusätzlicher Marschblock der Ortsteile zum Festumzug am 07.09.2025 - einstimmig beschlossen
+- TOP 10: Förderung: 50 Jahre Stadtjubiläum in den Ortsteilen - einstimmig beschlossen
+- TOP 11: Beratungspunkte Ausschüsse
+- TOP 11.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 11.1.1: Aufhebung G 112 „Verbrauchermarkt allk.“ - Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 11.1.2: Schöner Ankommen in NRW - Neubau des Bahnhofgebäudes - mehrheitlich beschlossen
+- TOP 11.1.3: Schöner Ankommen in NRW - Rahmenplan direktes Bahnhofsumfeld - einstimmig beschlossen
+- TOP 11.1.4: Aufstellung des Bebauungsplans Nr. W 56 "Am Heyerweg" - Ortsteil Wevelinghoven - mehrheitlich beschlossen
+- TOP 11.1.5: Aufstellung des Bebauungsplanes Nr. W 56 "Am Heyerweg" - Ortsteil Wevelinghoven - mehrheitlich beschlossen
+- TOP 11.1.6: Straßenbenennung im Bereich des Bebbauungsplanes W 56 - mehrheitlich beschlossen
+- TOP 11.1.7: Aufstellung des Bebauungsplans Nr. W 57 "Hilmar-Krüll-Straße" - Ortsteil Wevelinghoven - mehrheitlich beschlossen
+- TOP 11.1.8: Aufstellung des Bebauungsplanes Nr. W 57 „Hilmar-Krüll-Straße“ – Ortsteil Wevelinghoven - mehrheitlich beschlossen
+- TOP 11.1.9: Straßenbenennung im Bereich des Bebauungsplanes W 57 - einstimmig beschlossen
+- TOP 11.1.10: 28. FNP Änd. "Gustav-Mahler-Straße" - Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 11.1.11: Gu 26 "Gustav-Mahler-Straße" - erneuter Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 11.1.12: Umlegungsverfahren zum Bebauungsplan Nr. Gu 26 „Gustav-Mahler-Straße" im Ortsteil Gustorf - mehrheitlich beschlossen
+- TOP 11.1.13: Wahl von Mitgliedern für den Umlegungsausschuss und Bestellung der Geschäftsführung der Geschäftsstelle zum Bebauungsplan Nr. Gu 26 „Gustav-Mahler-Straße“ im Ortsteil Gustorf - mehrheitlich beschlossen
+- TOP 11.1.14: Interkommunale Entwicklung des GIB „Industriepark Elsbachtal-Ost“ - mehrheitlich beschlossen
+- TOP 11.1.15: Erlass einer Vorkaufsrechtssatzung im Bereich Industriepark Elsbachtal-Ost - mehrheitlich beschlossen
+- TOP 11.2: Entscheidung über Beratungspunkte aus dem Rechnungsprüfungsausschuss
+- TOP 11.2.1: Prüfung des Jahresabschlusses der Stadt Grevenbroich zum 31.12.2023 - einstimmig beschlossen
+- TOP 11.2.2: Beratung des Berichtes über die überörtlichliche Prüfung der Stadt Grevenbroich im Jahr 2024 - Staatszuweisungen - einstimmig beschlossen
+- TOP 11.3: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses
+- TOP 11.3.1: Kitabedarfsplanung für das Kindergartenjahr 2025/2026 - einstimmig beschlossen
+- TOP 11.3.2: Änderung der Satzung der Stadt Grevenbroich über die Förderung von Kindern in der Kindertagespflege - einstimmig beschlossen
+- TOP 11.4: Entscheidung über Beratungspunkte aus dem Schulausschuss
+- TOP 11.4.1: Anpassung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme an Ganztags- und Betreuungsangeboten in der Sekundarstufe I - einstimmig beschlossen
+- TOP 11.4.2: Anpassung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule (OGS) - einstimmig beschlossen
+- TOP 12: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 12.1: Anfrage nach Einführung eines neuen Sicherheitskonzeptes für Volks- und Heimatfesten und Veranstaltungen im Stadtgebiet GV (Anfrage Nr.:37/2025) - Kenntnisnahme
+- TOP 12.2: Dringlichkeits-Antrag: Rettungsdienst im Rhein Kreis Neuss, hier Antwortschreiben des Rhein-Kreis Neuss - Kenntnisnahme
+- TOP 12.3: Anfrage zur kommunalen Wärmewende: "Flusswärme nutzen" (Anfrage Nr.:36/2025) - Kenntnisnahme
+- TOP 12.4: Situation der Radstation (Anfrage Nr.:135/2024) - Kenntnisnahme
+- TOP 12.5: Anfrage zur möglichen Einführung von "Taxigutscheine für Frauen" (Anfrage Nr.:003/2025) - wird von der Tagesordnung genommen - von der Tagesordnung abgesetzt
+- TOP 12.6: Wilde Müllablagerungen und Sperrmüll im Stadtgebiet (Antrag Nr.:139/2024) - einstimmig beschlossen
+- TOP 12.7: Änderung des Grundgesetzes / Auswirkungen des sogenannten „Infrastruktur-Sondervermögens“ auf die Stadt Grevenbroich (Antrag 32/2025) - Kenntnisnahme
+- TOP 12.8: Finanzierung der Reinigung von öffentlichen Plätzen aus Mitteln des Einwegkunststofffondsgesetz (Anfrage Nr.:40/2025) - Kenntnisnahme
+- TOP 12.9: Erweiterung des Restmüllgefäße-Systems um eine 60-Liter-Restmülltonne (Antrag Nr.:10/2025) - Kenntnisnahme
+- TOP 12.10: Prüfauftrag und Maßnahmenplanung Nutzungseinschränkung am Platz der deutschen Einheit (Antrag Nr.:48/2025) - Kenntnisnahme
+- TOP 13: Schriftliche Anträge
+- TOP 13.1: Anträge der SPD-Fraktion
+- TOP 13.1.1: Benennung eines öffentlichen Ortes nach Margot Friedländer (Antrag Nr. 65/2025)
+- TOP 13.1.2: Freiwillige Feuerwehr stärken - Engagement wertschätzen (Antrag Nr. 64/2025) - einstimmig beschlossen
+- TOP 13.1.3: Verbesserung und Aufwertung der Ehrenamtskarte in Grevenbroich (Antrag Nr. 63/2025) - einstimmig beschlossen
+- TOP 13.1.4: Jugendpark in Wevelinghoven (Antrag Nr. 62/2025) - einstimmig beschlossen
+- TOP 13.1.5: Realisierung Denkmal "30 jähriger Krieg" bei Wevelinghoven (Antrag Nr. 61/2025) - einstimmig beschlossen
+- TOP 13.1.6: Bergmannampeln in Grevenbroich (Antrag Nr. 66/2025) - einstimmig beschlossen
+- TOP 13.1.7: Nachbesetzung NEW Aktiv (Antrag Nr. 67/2025) - einstimmig beschlossen
+- TOP 13.1.8: Förderung und Einsatz von Parklets zur Belebung des öffentlichen Raumes in den Stadtteilen (Antrag Nr. 68/2025) - einstimmig beschlossen
+- TOP 13.2: Anträge der CDU-Fraktion
+- TOP 13.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 13.4: Anträge der FDP-Fraktion
+- TOP 13.4.1: Auslastung und Nutzung des Schlossbades Grevenbroich (Antrag Nr.:52/2025) - einstimmig beschlossen
+- TOP 13.4.2: Öffentlich zugängliche Automatische Externe Defibrillatoren (AED) im Stadtgebiet von Grevenbroich (Antrag Nr.:53/2025) - einstimmig beschlossen
+- TOP 13.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 13.5.1: Ausstattung der Kreuzung Elsbachtunnel / Am Hammerwerk sowie Elsbachtunnel / Bergheimerstraße mit Sitraffic Stream (Antrag Nr. 71/2025) - einstimmig beschlossen
+- TOP 13.5.2: Stadtweites Entsieglungskonzept (Antrag Nr. 72/2025) - einstimmig beschlossen
+- TOP 13.5.3: Sachstandsbericht zur Umsetzung des § 8 (Fn 10) der Landesbauordnung aus 2024, hier: nicht überbaute Flächen der bebauten Grundstücke (Antrag Nr. 73/2025) - einstimmig beschlossen
+- TOP 13.6: Anträge der UWG-Fraktion
+- TOP 13.7: Gemeinschaftsanträge
+- TOP 13.7.1: Medizinische Versorgung zukunftsgerichtet sichern - Neues Krankenhaus für den Süden des Kreises (Antrag Nr. 69/2025) - einstimmig beschlossen
+- TOP 14: Schriftliche Anfragen
+- TOP 14.1: Anfragen der SPD-Fraktion
+- TOP 14.2: Anfragen der CDU-Fraktion
+- TOP 14.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 14.3.1: Ist eine paritätische Berücksichtigung von Frauen bei der Vergabe von Straßennamen sichergestellt? (Antrag Nr.:56/2025) - einstimmig beschlossen
+- TOP 14.3.2: Nutzung der Genios eBib Lösung zur Verbesserung des Angebotes für die Kunden der Stadtbücherei Grevenbroich? (Antrag Nr.:55/2025) - einstimmig beschlossen
+- TOP 14.3.3: Status der Nutzung der Gigawatt-Förderung und Interkommunale Zusammenarbeit (Antrag Nr.:54/2025) - einstimmig beschlossen
+- TOP 14.4: Anfragen der FDP-Fraktion
+- TOP 14.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 14.5.1: Anfrage Sachstandsbericht (Anfrage Nr.:50/2025)
+- TOP 14.5.2: Sachstand S-Bahn (Anfrage Nr. 70/2025) - Kenntnisnahme
+- TOP 14.6: Anfragen der UWG-Fraktion
+- TOP 14.6.1: Einsatz von KI in der Verwaltung (Anfrage Nr.:51/2025) - Kenntnisnahme
+- TOP 14.7: Anfragen von Einzelratsmitgliedern
+- TOP 14.7.1: Anfrage zur Verhinderung von Messergewalt in städtischen Schulen (Anfrage Nr.:57/2025) - Kenntnisnahme
+- TOP 14.7.2: Anfrage zu möglichen Parkverboten (Anfrage Nr.:58/2025) - Kenntnisnahme
+- TOP 14.7.3: Anfrage zum Hochwasserschutz in GV-Orken (Anfrage Nr.:59/2025) - Kenntnisnahme
+- TOP 14.7.4: Anfrage zur illegalen Müllentsorgung (Anfrage Nr.:60/2025) - Kenntnisnahme
+- TOP 15: Aufhebung eines Ratsbeschlusses, hier: Bestellung von Ausschussmitgliedern - einstimmig beschlossen
+- TOP 16: Mitteilungen des Bürgermeisters
