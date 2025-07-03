@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums des Innern über die Gewährung von Heilfürsorge für Beamtinnen und Beamte des Polizeivollzugsdienstes, des Landesamtes für Verfassungsschutz, des Justizvollzugsdienstes, des Justizwachtmeisterdienstes in der Fachrichtung Justiz, des Vollzugsdienstes in Abschiebungshaft- und Ausreisegewahrsamseinrichtungen sowie der Laufbahnen der Fachrichtung Feuerwehr (Sächsische Heilfürsorgeverordnung – SächsHfVO)
+erlassen als Artikel 1 der Verordnung des Sächsischen Staatsministeriums des Innern zur Neufassung der Sächsischen Heilfürsorgeverordnung
+Vom 16. Juni 2025
