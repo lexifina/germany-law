@@ -1,0 +1,269 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2025-07-03T19:15:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8425300
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8425300
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokoll der Sitzung vom 03.04.2025
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreterinnen und Vertreter von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.1: Mobilität
+- TOP 2.2: Kultur und Stadtbezirksbudget
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget MGS Münchner Gesellschaft für Stadterneuerung mbH Künstlerische Gestaltung der Fritz-Erler-Brücke, Hanns-Seidel-Platz, Neuperlach vom 01.04. - 30.09.2025 25.500,00 €; Az. 0262.0-16-0651 (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 2.2.1.1.1: Zu 2.2.1.1 Information des Direktoriums, dass eine zusätzliche Förderung aus den Mitteln des Stadtbezirksbudgets, vorbehaltlich der Zustimmung des Bezirksausschusses, möglich ist (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget Schwarmstimmung e. V. Fahrrad-Reparaturstation Ende Juli 2025 1.467,27 €; Az. 0262.0-16-0669 (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 2.2.1.3.: (E) Stadtbezirksbudget Evang.-Luth. Lätare-Gemeinde Interkultureller Kindertag am 28.06.2025 172,50 €; Az. 0262.0-16-0670
+- TOP 2.2.1.4.: (E) Stadtbezirksbudget Münchner Wohnen Service GmbH, Gemeinschaftsgarten rosen_heim 10jähriges Jubiläumsfest am 11.07.2025 460,00 €; Az. 0262.0-16-0672
+- TOP 2.2.1.5.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025, zwischen 9 und 20 Uhr. Bei Schlechtwetter: Ausweichtermin 1.600,00 €; Az. 0262.0-16-0673
+- TOP 2.2.1.6.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e. V. OpenPlace Training - Projekt für Jugendliche zur Gewalt- und Konfliktprävention vom 01.07.2025 - 30.06.2026 4.000,00 €; Az. 0262.0-16-0663
+- TOP 2.2.1.7.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Kafkastraße Bewegungsangebot im Ganztag und Schwimmdifferenzierung für die 3. Klassen vom 06.09.2025 - 31.08.2026 (Schuljahr 2025/26) 8.212,50 €; Az. 0262.0-16-0674
+- TOP 2.2.1.8.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit e. V. Blocparty 83 am Theatron im Ostpark oder Steinplatz Karl-Marx-Ring vom 25. - 27.07.2025 7.088,66 €; Az. 0262.0-16-0677
+- TOP 2.2.1.9.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit e. V. Stadtteilevent Länderkochen am 19.09.2025 3.790,11 €; Az. 0262.0-16-0678
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 2.3.1.: (E) Schallschutzmaßnahmen und Lärmmessungen an der S5 zwischen Arnold-Sommerfeld-Straße und Neubiberg
+- TOP 2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 2.5.1.: (E) + (U) Überprüfung Hundezucht Neubiberger Straße Empfehlung
+- TOP 2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 2.7: Sonstige
+- TOP 3: Anträge
+- TOP 3.1: Mobilität
+- TOP 3.1.1.: Bushaltestelle 210 in Carl-Wery-Str. 70; Anliegen aus der Bürgerschaft vom 26.05.2025
+- TOP 3.1.2.: Beschilderung und Markierung für den Parkraum und die Feuerwehrzufahrt und Absenkung des Bordsteins in der St-Ingbert-Str. 25; Anliegen aus der Bürgerschaft vom 04.06.2025
+- TOP 3.1.3.: Bitte um erneute Prüfung der absoluten Halteverbote in der Berger-Kreuz-Str.; Anliegen aus der Bürgerschaft vom 02.06.2025
+- TOP 3.1.4.: Befestigung des Verbindungsweges am Getrud-Kückelmann-Weg; Antrag der CSU-Fraktion
+- TOP 3.1.5.: Tempo 30 für die gesamte Chiemgaustr.; Anliegen aus der Bürgerschaft vom 07.06.2025
+- TOP 3.1.6.: Bitte um Unterstützung gegen eine Nutzung des Wohngebiets Pfarrweg, Maikammerer Str., Grünstadter Platz als Parkplatz für Gewerbebetriebe; Anliegen aus der Bürgerschaft vom 09.06.2025
+- TOP 3.1.7.: Anregung zur Einrichtung einer Abstellzone für Leihroller und -fahrräder in der Staudingerstraße; Anliegen aus der Bürgerschaft vom 11.06.2025
+- TOP 3.1.8.: Eingabe zur geplanten Halteverbotsregelung Berger-Kreuz-Straße - weitere offene Punkte; Anliegen aus der Bürgerschaft vom 16.06.2025
+- TOP 3.1.9.: Weitere Argumente für eine Linksabbiegemöglichkeit aus der Therese-Giehse-Allee in die Putzbrunner Str.; Anliegen aus der Bürgerschaft vom 16.06.2025
+- TOP 3.1.10.: E-Roller-Abstellflächen im Kreuzungsbereich Maikammerer Straße / Bad Dürkheimer Straße / Balanstraße; Antrag der Bündnis 90/Die Grünen-Fraktion
+- TOP 3.2: Kultur und Stadtbezirksbudget
+- TOP 3.3: Umwelt, Gesundheit und Grünplanung
+- TOP 3.3.1.: Reduzierung der Lautstärke des Lüfters am Jules-Verne-Campus; Anliegen aus der Bürgerschaft vom 07.03.2025 (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 3.3.2.: Bitte um Unterstützung gegen die Verbrennung von Abfällen in der Pfälzer-Wald-Str.; Anliegen aus der Bürgerschaft vom 09.06.2025
+- TOP 3.3.3.: Sachstandsanfrage zum Pilotprojekt „Mähroboter auf Bezirkssportanlagen“ – BA-Antrag 20-26 / B 06716; Anliegen aus der Bürgerschaft vom 14.06.2025
+- TOP 3.3.4.: Instandsetzung der Brunnen im 16. Stadtbezirk; Antrag der SPD/Die Linke Fraktionsgemeinschaft
+- TOP 3.3.5.: Schnellstmögliche Inbetriebnahme der WC-Anlage am U-Bahnhof Karl-Preis-Platz; Antrag der SPD/Die Linke Fraktionsgemeinschaft
+- TOP 3.3.6.: Nachfrage, ob es Möglichkeiten gibt gegen die Verschmutzung durch die Gänse im Ostpark Reinigungen durchzuführen und die große Gruppe an Gänsen umzusiedeln; Anliegen aus der Bürgerschaft vom 18.06.2025
+- TOP 3.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 3.4.1.: Fragen zur Renovierung einer Platzwartwohnung; Anliegen aus der Bürgerschaft vom 22.05.2025
+- TOP 3.4.2.: Bessere Calisthenics Parks in Neuperlach (Alexisweg); Anliegen aus der Bürgerschaft vom 23.05.2025
+- TOP 3.4.3.: Erziehungsberatung im Stadtbezirk 16 (Stadtratsanfrage vom 22.05.2025); Schreiben vom 27.05.2025
+- TOP 3.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 3.5.1.: Bitte um Prüfung, ob etwas für eine bessere Nutzung eines Hauses und Grundstücks in der Oggersheimer Str. gemacht werden kann; Anliegen aus der Bürgerschaft vom 09.06.2025
+- TOP 3.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 3.7: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.1: Mobilität
+- TOP 4.1.1.: Konzept für geteilte Mobilität im Stadtbezirk 16 - weitere Standorte Mikromobilität; Frist: 30.06.2025 - FV angefragt (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 4.1.2.: Heinrich-Lübke-Straße 40; Einrichtung einer Schulbushaltestelle; verkehrsrechtliche Anordnung nach § 45 StVO; Frist: 04.07.2025
+- TOP 4.1.3.: Weidener Straße; absolutes Haltverbot im Einmündungsbereich zur Unterhachinger Straße; verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO
+- TOP 4.1.4.: Carl-Wery-Straße; Verschiebung der östlichen Anfahrtszone des Bahnhofs Neuperlach Süd; geplante verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO
+- TOP 4.1.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Plettstr.
+- TOP 4.2: Kultur und Stadtbezirksbudget
+- TOP 4.3: Umwelt, Gesundheit und Grünplanung
+- TOP 4.3.1.: Mobilfunk-Suchkreis MY6960_M-Perlach 600000; Zuleitung des RKU vom 23.05.2025
+- TOP 4.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 4.4.1.: Bildungsbauoffensive – Sachstandsbericht 2025; Konsolidierung 2028ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028ff in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 – 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 – 2028 Teilhaushalt des Referats für Bildung und Sport Sitzungsvorlage Nr. 20-26 / V XXXX Beschluss des Bildungsausschusses, des Sportausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 16.07.2025 (VB) Öffentliche Sitzung
+- TOP 4.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 4.5.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.5.1.1.: Bad-Schachener-Str. 86 - 0153 Ramersdorf 3. Bauteil, WA2 Neubau von 4 Wohnhäusern mit Tiefgarage und Teenietreff (Bad-Schachener-Str. 86 - 92 / Haldenseestr. 23-35) - mit Mobilitätskonzept (vertagt in der Sitzung vom 05.06.2025)
+- TOP 4.5.1.2.: Haldenseestr. 40 - 0154 Ramersdorf 4. Bauteil, WA3 Neubau von 8 Wohnhäusern mit Tiefgarage und Haus für Kinder (Haldenseestr. 30-38, 40-46 / Hechtseestr. 89-101) - mit Mobilitätskonzept (vertagt in der Sitzung vom 05.06.2025)
+- TOP 4.5.1.3.: Neubiberger Str. 9 - Neuerrichtung von vier Gebäuden mit Wohnungen, Büro, Bäckereifiliale und Café - VORBESCHEID
+- TOP 4.5.1.4.: Waldheimpl. 12 - Neubau eines Reihenhauses ohne Staffelgeschoss - VORBESCHEID
+- TOP 4.5.1.5.: Winternitzstr. 8 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 4.5.1.6.: Sebastian-Bauer-Str. 3 - Nutzungsänderung der Gewerbeeinheit (Büro) im Erdgeschoss zu gewerblicher Kurzzeitvermietung (Ferienwohnung) für Urlaubsgäste und Geschäftsreisende OHNE bauliche Änderungen
+- TOP 4.5.1.7.: Ulrich-von-Hutten-Str. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage 12 WE - ÄNDERUNGSANTRAG zu 1.2-2020-25571-31
+- TOP 4.5.1.8.: Bayerwaldstr. 8 - Schulbauoffensive- Umbau von Teilflächen im bestehenden Kindergarten mit Hort im Erdgeschoss und Umbau von Schulräumen im 2. Obergeschoss und Dachgeschoss
+- TOP 4.5.1.9.: Ayinger Str. 6 - Neubau einer Wohnanlage mit 246 WE, einer integrierten Kindertagesstätte und einer Tiefgarage mit Mobilitätskonzept (Ayinger Str. 6-18 / Zornedinger Str. 1-7b)
+- TOP 4.5.1.10.: Hugo-Lang-Bogen 15 - Neubau von zwei Einfamilienhäusern mit Garage - VORBESCHEID
+- TOP 4.5.1.11.: Neubiberger Str. 9 - Neuerrichtung von vier Gebäuden mit Wohnungen, Büro, Bäckereifiliale und Café - VORBESCHEID
+- TOP 4.5.2: Weitere Anhörungen
+- TOP 4.5.2.1.: Gemeinde Putzbrunn; Bebauungsplan Nr. 45, 4. Teiländerung „nördlich der Grasbrunner Straße/Am Hartlhof“ Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB Frist zur Stellungnahme bis 30.06.2025; Fristverlängerung bis einschließlich 04.07.2025
+- TOP 4.5.2.2.: Frischluftschneise Hachinger Tal offenhalten Empfehlung Nr. 20-26 / E 02717 der Bürgerversammlung des Stadtbezirks 16 - Ramersdorf-Perlach vom 05.05.2025 Sitzungsvorlage Nr. 20-26 / V 16935 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2025 (SB) Öffentliche Sitzung Bitte um Stellungnahme bis spätestens 11.07.2025
+- TOP 4.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 4.6.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.1.1.: Ostpark (Theatron) oder Grünfläche am Karl-Marx Ring (gem. Lageplan), BlocParty83 Jugendfestival am 25.07. - 27.07.2025; Frist: 17.07.2025
+- TOP 4.6.1.2.: Ostpark, Spendenlauf Michaeli-Gymnasium am 16.7.25; Frist: 09.07.25
+- TOP 4.6.1.3.: Grünzug nördlich Karl-Marx-Ring (östlich Karl-Marx-Ring 35), Kunstaktion mit Livepainting und Musik "Get Down am Steini 2" am 04.07.2025; Frist: 30.06.2025
+- TOP 4.6.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.2.1.: Rosenheimer Straße 238, Sweet Summer Surprise III am 26. – 28.06.2025; Frist: 18.06.2025 Hierzu: Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 4.6.2.2.: Pfanzeltplatz, Perlacher Kirta am 14.09.2025; Frist: 25.07.2025
+- TOP 4.6.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 4.6.3.1.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung; Schreiben des Direktoriums vom 26.05.2025
+- TOP 4.6.3.2.: Einbeziehung der Bezirksausschüsse vor der Umsetzung von in Foren bzw. Plattformen vorgeschlagenen verkehrsrechtlichen Anordnungen und baulichen Maßnahmen BA-Antrag-Nr. 20-26 / B 07272 des Bezirksausschusses des Stadtbezirkes 07 - Sendling-Westpark vom 26.11.2024 Frist zur Stellungnahme bis 17.07.2025
+- TOP 4.6.4: Weitere Anhörungen
+- TOP 4.7: Sonstige
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.1.1: Fällungsanträge
+- TOP 5.1.1.1.1.: Iblherstr. 69
+- TOP 5.1.1.1.2.: Schumacherring 1
+- TOP 5.1.1.1.3.: Theodor-Heuss-Pl.
+- TOP 5.1.1.1.4.: Adenauerring 6
+- TOP 5.1.1.1.5.: Jakob-Kaiser-Str. 10
+- TOP 5.1.1.1.6.: Plettstr. 20
+- TOP 5.1.1.1.7.: Plettstr. 27
+- TOP 5.1.1.1.8.: Plettstr. 35
+- TOP 5.1.1.1.9.: Plettstr. 57
+- TOP 5.1.1.1.10.: Quiddestr. 25
+- TOP 5.1.1.1.11.: Quiddestr. 27
+- TOP 5.1.1.1.12.: Quiddestr. 39
+- TOP 5.1.1.1.13.: Oskar-Maria-Graf-Ring 34a
+- TOP 5.1.1.1.14.: Oskar-Maria-Graf-Ring 44 - 56
+- TOP 5.1.1.1.15.: Hohenaschauer Str. 78
+- TOP 5.1.1.1.16.: Hohenaschauer Str. 80
+- TOP 5.1.1.1.17.: Karl-Marx-Ring 8
+- TOP 5.1.1.1.18.: Karl-Marx-Ring 14
+- TOP 5.1.1.1.19.: Karl-Marx-Ring 53
+- TOP 5.1.1.1.20.: Gustav-Heinemann-Ring 1
+- TOP 5.1.1.1.21.: Gustav-Heinemann-Ring 220
+- TOP 5.1.1.1.22.: Plievierpark 15
+- TOP 5.1.1.1.23.: Elbacher Str. 9
+- TOP 5.1.1.1.24.: Ungsteiner Str. 2
+- TOP 5.1.1.1.25.: Nabburger Str. 11
+- TOP 5.1.1.2: Baumbestandspläne
+- TOP 5.1.1.2.1.: Bad-Schachener-Str. 86 - 0153 Ramersdorf 3. Bauteil, WA2 Neubau von 4 Wohnhäusern mit Tiefgarage und Teenietreff (Bad-Schachener-Str. 86 - 92 / Haldenseestr. 23-35) - mit Mobilitätskonzept (vertagt in der Sitzung vom 05.06.2025)
+- TOP 5.1.1.2.2.: Haldenseestr. 40 - 0154 Ramersdorf 4. Bauteil, WA3 Neubau von 8 Wohnhäusern mit Tiefgarage und Haus für Kinder (Haldenseestr. 30-38, 40-46 / Hechtseestr. 89-101) - mit Mobilitätskonzept (vertagt in der Sitzung vom 05.06.2025)
+- TOP 5.1.1.2.3.: Ayinger Str. 6 - Neubau einer Wohnanlage mit 246 WE, einer integrierten Kindertagesstätte und einer Tiefgarage mit Mobilitätskonzept (Ayinger Str. 6-18 / Zornedinger Str. 1-7b)
+- TOP 5.1.1.2.4.: Winternitzstr. 8 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 5.1.1.2.5.: Neubiberger Str. 9 - Neuerrichtung von vier Gebäuden mit Wohnungen, Büro, Bäckereifiliale und Café - VORBESCHEID
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Seniorinnen und Senioren
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 5.1.10: Internet
+- TOP 5.1.11: Handlungsraummanagement und NEBourhoods
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 5.2.1: Mobilität
+- TOP 5.2.2: Kultur und Stadtbezirksbudget
+- TOP 5.2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 5.2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 5.2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 5.2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1: Mobilität
+- TOP 6.1.1.: Verbesserungen für die Buslinie 198
+- TOP 6.1.2.: Perlach Bürgersteig Ottobrunner Str. 102 - Bauschadenbehebung; Antwortschreiben des Baureferates-Tiefbau
+- TOP 6.1.3.: Tempolimit und Parkplatzsituation Albert-Schweitzer-Straße 24
+- TOP 6.1.4.: Autos auf dem Karl-Preis-Platz; Anliegen aus der Bürgerschaft vom 14.03.2025
+- TOP 6.1.5.: Gustav-Heinemann-Ring - Straßenreinigung und Reinigung Grünstreifen sowie Parken im absoluten Haltverbot
+- TOP 6.1.6.: Anfrage: Digitale Anzeige der Busse an der Putzbrunner Straße, Waldheimplatz
+- TOP 6.1.7.: Information des Kommunalreferats zu einem Anliegen aus der Bürgerschaft zum Weg entlang der Berghammerstraße oder der Bezirkssportanlage Perlach Süd
+- TOP 6.2: Kultur und Stadtbezirksbudget
+- TOP 6.3: Umwelt, Gesundheit und Grünplanung
+- TOP 6.3.1.: Straßenreinigung Sudermannallee (Parkbuchten und Straßenränder); Antwortschreiben des Baureferates-Tiefbau vom 22.05.2025
+- TOP 6.3.2.: Grünstreifen Ostseite Ottobrunner Straße (Pflege / Unterhalt / Baumpflanzungen)
+- TOP 6.3.3.: Erneute Anhörung zur Novellierung der BaumSchutzV der Landeshauptstadt München Rückmeldung des Referats für Stadtplanung und Bauordnung zur Stellungnahme des BA 16
+- TOP 6.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 6.4.1.: Standortbeschluss zur Unterbringung wohnungsloser (vulnerabler) Einzelpersonen und Paare sowie Einzelpersonen mit Mobilitätseinschränkungen und/oder mit Pflegebedarf Beowulfstr. 2 - 8/Midgardstr. 10 16. Stadtbezirk Ramersdorf-Perlach Beschluss des Sozialausschusses vom 22.02.2024 (SB) Öffentliche Sitzung Sitzungsvorlage Nr. 20-26 / V 12045 Antwort des Kommunalreferats zum Schreiben des BA 16 zum Betrieb und zum Tag der offenen Tür am 18.03.2025 (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 6.4.2.: Ergänzung des Antrags auf Änderung von § 4 zur Eigenverantwortlichen Nutzung der Bezirkssportanlagen des Überlassungsvertrages und Kritik an der Planung des Sportamts BA-Antrag Nr. 20-26 / B 07397
+- TOP 6.4.3.: Antrag auf Änderung von § 4 zur eigenverantwortlichen Nutzung der Bezirkssportanlagen des Überlassungsvertrages; Anliegen aus der Bürgerschaft vom 14.10.2024 BA-Antrag Nr. 20-26 / B 07284
+- TOP 6.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 6.5.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.5.1.1.: Koboldstr. 34 - Abbruch Bestand, Neubau Mehrfamilienwohnhaus mit Tiefgarage - VORBESCHEID
+- TOP 6.5.1.2.: Rumpelstilzchenstr. 1 - Neubau von 2 Mehrfamilienhäusern mit Tiefgarage - VORBESCHEID
+- TOP 6.5.2: Weitere Antworten der Verwaltung
+- TOP 6.5.2.1.: Neue Perspektiven für den Hanns-Seidel-Platz (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 6.5.2.2.: Zwischennutzung am Hanns-Seidel-Platz in Neuperlach jetzt evaluieren, realistische Überlegungen für die Zeit ab 2027 anstellen und entsprechende Weichen für die erforderlichen Planungen stellen (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 6.5.2.3.: Nachfrage zur langfristigen Perspektive und Wirtschaftlichkeit einer Nutzung des geplanten Community-Houses auf dem Hanns-Seidel-Platz - Zwischenbericht (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 6.5.2.4.: Bebauung Diakon-Kerolt-Weg, Wolf-Huber-Weg und Adam-Berg-Straße
+- TOP 6.5.2.5.: Informationsveranstaltung zum Bauvorhaben Peter-Lühr-Str. 32
+- TOP 6.5.2.6.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den 2. U-Bahnbetriebshof Neuperlach Süd Zwischennachricht mit der Bitte um Fristverlängerung bis 30.09.2026, für eine Aktualisierung der Rahmenplanung, für den BA-Antrag Nr. 20-26 / B 02509 "U-Bahnbetriebshof Neuperlach Süd: Lärmuntersuchung für die Wohnungen an der heute bereits bestehenden Rampe", den BA-Antrag Nr. 20-26 / B 02510 "Kein Nachtbetrieb auf dem Bremstestgleis des U-Bahnbetriebshofs Neuperlach Süd" und den BA-Antrag Nr. 20-26 / B 02511 "Forderungen der Bürger*innen des 16. Stadtbezirks zu den Planungen für den U-Bahnbetriebshof Neuperlach Süd"
+- TOP 6.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6.6.1.: Stand Nahwärmeausbau in Ramersdorf
+- TOP 6.7: Sonstige
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1: Mobilität
+- TOP 7.1.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen; hier: Quiddestr. 37
+- TOP 7.1.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Unterbiberger Straße; Zickzack-Markierung zur Freihaltung des Gehweges zur Nabburger Straße
+- TOP 7.1.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Wichernweg; Aufhebung der Tonnagebeschränkung
+- TOP 7.1.4.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Pfanzeltplatz; Absolutes Haltverbot im Bereich vor dem Kriegerdenkmal
+- TOP 7.1.5.: Stellflächen für Shared-Mobility-Angebote – Mobilitätspunkte, Carsharing-Parkplätze und geteilte Abstellflächen
+- TOP 7.1.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Einrichten eines absoluten Haltverbots am Waldheimplatz zur Verbesserung des Linienbusverkehrs der Buslinien 55 und 221
+- TOP 7.2: Kultur und Stadtbezirksbudget
+- TOP 7.2.1: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.2.1.1.: Afro-European e.V.; Verwendungsnachweis und Sachbericht
+- TOP 7.2.1.2.: Münchner Kinder- und Jugendfarm e.V.; Verwendungsnachweis und Sachbericht
+- TOP 7.2.1.3.: Elternbeirat der Internationalen Montessorischule Campus di Monaco; Verwendungsnachweis und Sachbericht
+- TOP 7.2.2: Weitere Unterrichtungen
+- TOP 7.2.2.1.: Unterrichtung über einen neuen Antrag auf Gewährung einer Zuwendung aus dem Stadtbezirksbudget des Bezirksausschusses 16 SVN München e.V. Ausstattung des Foyers für Treffen, Veranstaltungen, Meetings, Feiern 8.796,44 €
+- TOP 7.3: Umwelt, Gesundheit und Grünplanung
+- TOP 7.3.1.: Mitteilung über die vertragliche Sicherung eines Mobilfunkstandortes; Carl-Wery-Straße; Unterrichtung des RKU
+- TOP 7.3.2.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 7.3.3.: (U) Öffentliche Grünflächen Neubaugebiet Quartierspark Perlach im Geltungsbereich des Bebauungsplanes mit Grünordnung Nr. 2090 im 16. Stadtbezirk Ramersdorf - Perlach Bedarfs- und Konzeptgenehmigung
+- TOP 7.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 7.4.1.: (U) Neueröffnungen einer Unterkunft zur Unterbringung Geflüchteter am Standort Karl-Marx-Ring 104 16. Stadtbezirk - Ramersdorf-Perlach (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 7.4.2.: (U) Erweiterung einer bestehenden Unterkunft für Geflüchtete an dem Standort • Schatzbogen 29 (Erweiterungsbau Turnhalle) Verlängerung einer bestehenden Unterkunft für Geflüchtete an dem Standort • Hohenlindener Straße 8 und 8a Bekanntgabe zur Verlängerung der dezentralen Unterkunft für Geflüchtete in der Nailastraße 10 Bekanntgabe zur Verlängerung der Unterkunft für Geflüchtete in der Kaulbachstraße 65 Bekanntgabe zur Absage der Eröffnung der dezentralen Unterkunft für Geflüchtete in der Albert-Roßhaupter-Straße 65 Bekanntgabe zur Absage der Eröffnung der dezentralen Unterkunft für Geflüchtete in der Baierbrunner Straße 30 Planungsanpassung am Standort Brodersenstraße 34 7. Stadtbezirk – Sendling-Westpark 12. Stadtbezirk – Schwabing-Freimann 13. Stadtbezirk – Bogenhausen 15. Stadtbezirk –Trudering-Riem 16. Stadtbezirk – Ramersdorf-Perlach 19. Stadtbezirk – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (vertagt aus der Sitzung vom 05.06.2025)
+- TOP 7.4.3.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 31.03.2025
+- TOP 7.4.4.: (U) Veränderungen im Bereich der Nachbarschaftstreffs Trägerwechsel im Nachbarschaftstreff Alte Heimat, Kiem-Pauli-Weg 26 Aufgabe der geplanten Standorte Werksviertel und Haldenseestraße 14. Stadtbezirk - Berg am Laim 16. Stadtbezirk - Ramersdorf-Perlach 25. Stadtbezirk - Laim
+- TOP 7.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 7.5.1.: zu 7.5.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.5.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.5.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.5.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.3.1.: Anwesen Görzer Str. und Kasper-Spät-Str.; Unterrichtung vom 11.06.2025
+- TOP 7.5.3.2.: Anwesen Struwelpeterstraße; Unterrichtung vom 16.06.2025
+- TOP 7.5.4: Weitere Unterrichtungen
+- TOP 7.5.4.1.: Zweite Programmanpassung von "Wohnen in München VII" A) Reaktion auf den Ausfall der staatlichen Mittelzuweisung für die Einkommensorientierte Förderung durch die Landeshauptstadt München: Einführung einer kommunalen Einkommensorientierten Förderung (EOF) B) und C) Stadtratsanträge
+- TOP 7.5.4.2.: Gründung des interkommunalen Zweckverbands München West
+- TOP 7.5.4.3.: (U) Demografiebericht München- Teil 1 Analyse 2024 und Bevölkerungsprognose 2025 bis 2045 für die Landeshauptstadt
+- TOP 7.5.4.4.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2025 bis 2045 für die Sadtbezirke
+- TOP 7.5.4.5.: 49. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2025
+- TOP 7.5.4.6.: (U) Kein Ausverkauf des Münchner Stadtbildes
+- TOP 7.5.4.7.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 7.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 7.6.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 7.6.1.1.: SSW "La Passione", Schneckestraße 17
+- TOP 7.6.2: Weitere Unterrichtungen
+- TOP 7.6.2.1.: Information zur einkommensteuerlichen Behandlung von Aufwandsentschädigungen bei kommunalen Mandatsträgerinnen und Mandatsträgern
+- TOP 7.6.2.2.: Informationsschreiben BA: Ratsinformationssystem (RIS); hier: Statusänderung der Dokumente, Tagesordnungen und Protokolle aus den vergangenen Wahlperioden sowie Überprüfung und Anpassung der aktuellen Wahlperiode
+- TOP 7.6.2.3.: Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen Information über den BA-Antrag Nr. 20-26 / B 07797 des BA 17 Obergiesing - Fasangarten
+- TOP 7.7: Sonstige
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.1: Mobilität
+- TOP 8.1.1.1.: Dienstag, 24.06.2025, 19:00 Uhr, Technisches Rathaus, Konferenzraum 0.413/0.415, Friedenstraße 40, 81671 München Die Tagesordnung des UA beinhaltet die Punkte der Tagesordnungsabschnitte 2.1 und 4.1, die vertagten Tagesordnungspunkte und Anliegen aus der Bürgerschaft aus dem Tagesordnungsabschnitt 3.1 und die vertagten Tagesordnungspunkte aus den Tagesordnungsabschnitten 6.1 und 7.1 des Vollgremiums
+- TOP 8.1.2: Kultur und Stadtbezirksbudget
+- TOP 8.1.2.1.: Donnerstag, 26.06.2025, 19:30 Uhr, evang. reform. Kirche an der Kurt-Eisner-Str. 52, 81735 München Die Tagesordnung des UA beinhaltet die Punkte der Tagesordnungsabschnitte 2.2 und 4.2, die vertagten Tagesordnungspunkte und Anliegen aus der Bürgerschaft aus dem Tagesordnungsabschnitt 3.2 und die vertagten Tagesordnungspunkte aus den Tagesordnungsabschnitten 6.2 und 7.2 des Vollgremiums
+- TOP 8.1.3: Umwelt, Gesundheit und Grünplanung
+- TOP 8.1.3.1.: Mittwoch, 25.06.2025, 18:30 Uhr, Sozialbürgerhaus Ramersdorf-Perlach, Thomas-Dehler-Str. 16, 81737 München Die Tagesordnung des UA beinhaltet die Punkte der Tagesordnungsabschnitte 2.3 und 4.3, die vertagten Tagesordnungspunkte und Anliegen aus der Bürgerschaft aus dem Tagesordnungsabschnitt 3.3 und die vertagten Tagesordnungspunkte aus den Tagesordnungsabschnitten 6.3 und 7.3 des Vollgremiums
+- TOP 8.1.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 8.1.4.1.: Dienstag, 24.06.2025, 19:00 Uhr, Bräustüberl der Forschungsbrauerei Perlach, Unterhachinger Str. 78, 81737 München Die Tagesordnung des UA beinhaltet die Punkte der Tagesordnungsabschnitte 2.4 und 4.4, die vertagten Tagesordnungspunkte und Anliegen aus der Bürgerschaft aus dem Tagesordnungsabschnitt 3.4 und die vertagten Tagesordnungspunkte aus den Tagesordnungsabschnitten 6.4 und 7.4 des Vollgremiums
+- TOP 8.1.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 8.1.5.1.: Montag, 23.06.2025, 18:30 Uhr, Technisches Rathaus, Konferenzraum 0.409, Friedenstraße 40, 81671 München Die Tagesordnung des UA beinhaltet die Punkte der Tagesordnungsabschnitte 2.5 und 4.5, die vertagten Tagesordnungspunkte und Anliegen aus der Bürgerschaft aus dem Tagesordnungsabschnitt 3.5 und die vertagten Tagesordnungspunkte aus den Tagesordnungsabschnitten 6.5 und 7.5 des Vollgremiums
+- TOP 8.1.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 8.1.6.1.: Mittwoch, 25.06.2025, 19:45 Uhr, Technisches Rathaus, Konferenzraum 0.413/0.415, Friedenstraße 40, 81671 München Die Tagesordnung des UA beinhaltet die Punkte der Tagesordnungsabschnitte 2.6 und 4.6, die vertagten Tagesordnungspunkte und Anliegen aus der Bürgerschaft aus dem Tagesordnungsabschnitt 3.6 und die vertagten Tagesordnungspunkte aus den Tagesordnungsabschnitten 6.6 und 7.6 des Vollgremiums
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.7.: zu 4.6.1.3 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 1.2.8.: 4.6.1.4 Sondereinrichtung in einer städtischen Grünanlage; Hier: Theatron im Ostpark, Geodome vom 07.07.2025 bis 01.01.2026; Frist: 30.06.2025 Hierzu: Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung und Rückmeldung des Kreisverwaltungsreferats zu der Stellungnahme vorab durch den Vorsitzenden
+- TOP 1.2.4.: zu 3.3.1 Zwischeninformation der LBK zu dem Lüfter Information der LBK zu der Anfrage zum Schallschutzgutachten
+- TOP 1.2.5.: zu 3.3.3 Antwortschreiben des Referats für Bildung und Sport zu der Sachstandsanfrage
+- TOP 1.2.1.: 2.2.1.10 (E) Stadtbezirksbudget SVN München e. V. Ausstattung des Foyers für Treffen, Veranstaltungen, Meetings, Feiern 8.796,44; Az. 0262.0-16-0676 (Siehe hierzu auch TOP 7.2.2.1)
+- TOP 1.2.2.: zu 3.1.3 Information der MVG zur Entwicklung der Pünktlichkeit der Buslinien 155/199 nach Aufstellen der Halteverbotsschilder in der Berger-Kreuz-Str.
+- TOP 1.2.3.: zu 3.1.8 Information der MVG zur Entwicklung der Pünktlichkeit der Buslinien 155/199 nach Aufstellen der Halteverbotsschilder in der Berger-Kreuz-Str.
+- TOP 1.2.9.: 6.4.4 Pfanzeltplatz: Sorge um die zukünftige Benutzung durch Vereine Antrag zu BA-Antrag Nr. 20-26 / B 01767 BA-Antrag Nr. 20-26 / B 06961
+- TOP 1.2.6.: zu 4.6.1.1 Grünfläche am Karl-Marx Ring (gem. Lageplan), BlocParty83 Jugendfestival am 25.07. – 27.07.2025 - Änderung des Veranstaltungsorts
