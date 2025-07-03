@@ -1,0 +1,57 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2025-07-03T17:00:00+02:00
+- Ende: 2025-07-03T19:30:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2025-RAT-155
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2025-RAT-155
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-RAT-155
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-RAT-155
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-RAT-155
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bürgerantrag gemäß § 24 GO NRW_Freiheit für Orion- und Lunastraße
+- TOP 3: Entwurf des Jahresabschlusses zum 31.12.2024
+- TOP 4: Beteiligungsbericht 2023
+- TOP 5: Änderung von Beschaffungsreihenfolgen von Feuerwehrfahrzeugen Ersatzbeschaffungsketten Fuhrpark B 37 - Brandschutz
+- TOP 6: Einführung Tempo 30 Ickerner Straße
+- TOP 7: Antrag der CDU-Fraktion vom 6. Juni 2025; Einsatz von Künstlicher Intelligenz an sicherheitsrelevanten Orten
+- TOP 8: Antrag der CDU-Fraktion vom 6. Juni 2025; Sicherheitskonzept öffentliche Veranstaltungen
+- TOP 9: Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid ("Lachgas") an Minderjährige in der Stadt Castrop-Rauxel
+- TOP 9.1: Gemeinsamer Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen und FDP vom 25.06.2025_Resolution - Verkaufsverbot von Lachgas an Minderjährige
+- TOP 10: Gesamtstädtisches Verpflegungskonzept an den Schulen in Castrop-Rauxel
+- TOP 11: Erstellung eines Sportstättenentwicklungskonzepts
+- TOP 11.1: Ergänzungsantrag der CDU Fraktion vom 25. Juni 2025 zum TOP "Erstellung eines Sportstättenentwicklungskonzepts"
+- TOP 12: Klimaanpassungskonzept Zwischenevaluation 2025
+- TOP 13: IGA-Allee - Beschluss des Vorkonzepts
+- TOP 14: Sachstandsbericht (Juni 2025) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd
+- TOP 15: Beschluss CAS-Klimaneutral: Konzepterstellung für eine klimaneutrale Stadt Castrop-Rauxel deutlich vor 2040 möglichst bis 2035
+- TOP 16: Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die Grünen vom 11.06.2025_Antrag auf Einrichtung eines Fahrradwegs entlang der B 235
+- TOP 16.1: Antrag der CDU Fraktion vom 01. Juli 2025_Ergänzungsantrag_Prüfung der Freigabe des nördlichen und südlichen Parkstreifens am Europaplatz
+- TOP 17: Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/ Die GRÜNEN vom 09.06.2025_Einrichtung eines konzernweiten städtischen Klimaschutzmanagements
+- TOP 18: Änderung der Kommunalunternehmenssatzung
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Gebührenbedarfsberechnung 2025 -Friedhofswesen- und Erlass einer Satzung über die Gebühren für die städtischen Friedhöfe
+- TOP 22: Teilnahme der Stadt Castrop-Rauxel am Landesprogramm zur anteiligen Entschuldung von Kommunen im Land Nordrhein-Westfalen von kommunalen Verbindlichkeiten zur Liquiditätssicherung gemäß Altschuldenentlastungsgesetz NRW
+- TOP 23: Antrag CDU Ratsfraktion vom 16.06.2025_Verkehrskontrollen im Stadtteil Becklem_Durchgangsverkehr
+- TOP 24: Änderung der Hauptsatzung
+- TOP 25: Inanspruchnahme der "Größenabhängigen Befreiungen" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2024 (§ 116a GO NRW)
+- TOP 26: Wirtschaftsplan 2025 des EUV für den Teilbetrieb IX - Straßeninfrastruktur und Sportplatzunterhaltung/Öffentliches Grün/Friedhofswesen
+- TOP 27: Wiederwahl der Schiedsperson der Stadt Castrop-Rauxel Michael Hilkmann für den Bezirk II
+- TOP 28: Antrag RM Mintrop-Werkle (Fraktionslos) vom 24.02.2025_Ablehnung Einführung Bezahlkarte für Geflüchtete
+- TOP 28.1: Informationsvorlage der Verwaltung: Beschluss über die Verschiebung einer Einführung der Bezahlkarte für Geflüchtete im Leistungsbezug des Asylbewerberleistungsgesetzes im Zuständigkeitsbereich der Stadt Castrop-Rauxel
+- TOP 29: Umbesetzung des Jugendhilfeausschusses für das Kinder- und Jugendparlament
+- TOP 30: Antrag Bündnis 90 / Die Grünen vom 03.07.2025_Ausschussumbesetzung KWA
+- TOP 31: Anfragen der Ratsmitglieder
+- TOP 32: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
