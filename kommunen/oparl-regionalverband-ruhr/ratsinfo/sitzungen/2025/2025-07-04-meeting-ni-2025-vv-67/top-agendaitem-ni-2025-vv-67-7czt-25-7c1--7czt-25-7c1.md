@@ -1,0 +1,6 @@
+# TOP -: Tischvoragen
+
+- Sitzung: 18. Sitzung der Verbandsversammlung (2025-07-04)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: ja
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2025-VV-67%7Czt_25%7C1
