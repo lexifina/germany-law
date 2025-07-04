@@ -1,0 +1,87 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-07-04T16:00:00+02:00
+- Ende: 2025-07-04T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7527
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7527
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 04.07.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00230702.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 04.07.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00230702.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 04.07.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00230702.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bauausschuss
+- TOP 5: Grevenbroicher Straße, Haltestellen Einkaufszentrum: barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V - Norf
+- TOP 6: Ersatzneubau der Geh- und Radwegbrücke über den Norfbach an der Vellbrüggener Straße in Norf - mit Änderungen einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 7: Harbernusstraße, barrierefreier Ausbau der Haltestelle "Helpenstein" - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 8: Änderung der Hauptsatzung und der Geschäftsordnung des Rates der Stadt Neuss - einstimmig zugestimmt
+- TOP 9: 2. Änderungssatzung zur Änderung der Entgeltordnung für sonstige Leistungen der Feuerwehr der Stadt Neuss vom 18.Dezember 2023 - einstimmig zugestimmt
+- TOP 10: Neufassung der Satzung über die Erhebung von Kostenerstattungsbeträgen - Aufhebung der Satzung der Stadt Neuss über die Erhebung von Kostenerstattungsbeiträgen nach § 8a Bundesnaturschutzgesetz vom 20. Dezember 1996 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 11: BPL 200/2 - Erfttal, Parisstraße (Kita): Bau von Gehwegen - einstimmig zugestimmt
+- TOP 12: Jagenbergstraße, Haltestellenpaar Im Taubental: barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Sportausschuss
+- TOP 13: Priorisierung von Sportinfrastrukturmaßnahmen, hier: a) Kinder- und Jugendsportzentrum Erfttal, b) Modernisierung der Sportflächen auf der Bezirkssportanlage Grimlinghausen, c) weitere Maßnahmen - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VII - Uedesheim
+- TOP 14: Tucherstraße (K30), Haltestelle Am Fuchsberg (FR Allerheiligen): barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 15: 3. Änderung des Flächennutzungsplans - Morgensternsheide, Holzbüttgener Weg - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 16: Deklaratorischer Aufstellungsbeschluss BP. Nr. 513 - einstimmig zugestimmt
+- TOP 17: Gladbacher Straße, Planung zum barrierefreien Ausbau der Haltestellen Josefkirche und Leni-Wollenhaupt-Straße (FR West) - mehrheitlich zugestimmt
+- TOP 18: Grünachse Hammfeld und Querung Hellersbergstraße - einstimmig zugestimmt
+- TOP 19: LAGA 2026 / Neues Hammfeld: Grünzug Stresemannallee - einstimmig zugestimmt
+- TOP 20: Kommunale Wärmeplanung der Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 21: Sanierung der Stützmauer am Erftmühlengraben - Platz am Niedertor - einstimmig zugestimmt
+- TOP 22: Sanierung der Bogenbrücke über den Nordkanal - einstimmig zugestimmt
+- TOP 23: Bergheimer Straße, Bushaltestelle Pomona: barrierefreier Umbau - einstimmig zugestimmt
+- TOP 24: Memeler Straße: Ausbau - einstimmig zugestimmt
+- TOP 25: An der Hammer Brücke, Bushaltestelle An der Hammer Brücke (Bedarfshaltestelle, FR Norden): barrierefreier Umbau - einstimmig zugestimmt
+- TOP 26: Grefrather Weg zwischen Eselspfad und Konrad-Adenauer-Ring: gegenläufiger Radweg auf der Nordseite, barrierefreier Ausbau der Haltestelle Hertzstraße und Überarbeitung der Querung Eselspfad - einstimmig zugestimmt
+- TOP 27: Deckenerneuerungsprogramm 2014, Teilaufhebung des Beschlusses vom 09.04.2024; Michaelstraße, Austausch vorhandenes Pflaster gegen Asphalt - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 28: Gewährung städtischer Zuschüsse für außerunterrichtliche Betreuungsangebote außerhalb der OGS - einstimmig zugestimmt
+- TOP 29: Gewährung eines Mensazuschusses an der Janusz-Korczak-Gesamtschule - einstimmig zugestimmt
+- TOP 30: Überlassung von städtischen Räumlichkeiten hier: Grundsätze zur Überlassung von Schulräumen in der Stadt Neuss - zurückgezogen
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 31: Föhrenstraße, Haltestelle Eichenstraße: barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 32: Finanzielle Unterstützung der Waldkitas - einstimmig zugestimmt
+- TOP 33: Beihilfekatalog der Stadt Neuss für stationäre Jugendhilfe - mit Änderungen einstimmig zugestimmt
+- TOP -: Beschlussfassungen des Rates
+- TOP 34: Wiederwahl einer stellvertretenden Schiedsperson - einstimmig zugestimmt
+- TOP 35: Änderung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der Sicherheit und Ordnung auf Straßen und in den - mehrheitlich zugestimmt
+- TOP 36: Einrichtung eines weiteren Tagesaufenthalts für obdachlose Personen - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 37: Antrag der Fraktion UWG/Freie Wähler betr.: Abschaffung der Hundesteuer - mehrheitlich abgelehnt
+- TOP 38: Antrag der Fraktion UWG/Freie Wähler betr.: Treppe an der Pegeluhr im Neusser Hafen ist nicht befestigt und beginnt zu wandern - beraten ohne Abstimmung
+- TOP 39: Antrag der Fraktion Die PARTEI / Linke betr.: Kommunalpolitik in die Schulen - mit Änderungen einstimmig zugestimmt
+- TOP 40: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Zirkuläres Bauen in Neuss fördern - verwiesen
+- TOP 41: Antrag der SPD-Fraktion betr.: Ausweitung der Videoüberwachung prüfen - mit Änderungen mehrheitlich zugestimmt
+- TOP 42: Antrag der Fraktion DIE LINKE / Tierschutz betr.: Entwicklung des Wohnungsbaus in Neuss - zurückgezogen
+- TOP 43: Antrag der CDU-Fraktion betr.: Vergabepraxis für Behindertenparkplätze an Lebensrealität anpassen - einstimmig zugestimmt
+- TOP 43.1: Dringlichkeitsantrag der CDU-Fraktion betr.: Sofortiger Planungsbeginn für den Neubau der Verhinderungsäste der Brücke über den Verschiebebahnhof zur zügigen Wiederherstellung der Verbindung zwischen Barbaraviertel und Nordstadt - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Auslegungsbeschlüsse von Bebauungsplänen im Zeitraum vom APSM am 17.06.2025 bis zur Neukonstituierung der Ausschüsse - zur Kenntnis genommen
+- TOP 47: Bericht zur Prüfung der Wiedererlangung der Kreisfreiheit - zur Kenntnis genommen
+- TOP 48: Offener Brief zur finanziellen Situation des Rheinischen Landestheaters Neuss - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
