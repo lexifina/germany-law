@@ -1,0 +1,152 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-07-07T16:00:00+02:00
+- Ende: 2025-07-07T16:55:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23361
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23361
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00351164.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00353019.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Rechtliche Auseinandersetzungen der Stadt im Zusammenhang mit Baumaßnahmen
+- TOP 2.1.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 02.06.2025
+- TOP 2.2: Medienentwicklungsplanung, Fördermittelverwendung zur digitalen Ausstattung der Wuppertaler Schulen
+- TOP 2.2.1: Antwort auf die Große Anfrage "Medienentwicklungsplanung, Fördermittelverwendung zur digitalen Ausstattung der Wuppertaler Schulen"
+- TOP 2.3: Entfernung Eigentum eines obdachlosen Menschen
+- TOP 2.3.1: Antwort der Verwaltung auf Anfrage "Entfernung Eigentum eines obdachlosen Menschen"
+- TOP 2.4: BUGA31: Soziale und ökologische Vergabekriterien für die Hängeseilbrücke
+- TOP 2.4.1: Antwort zur Großen Anfrage der Fraktion Linkes Bündnis Wuppertal vom 13.06.2025 - BUGA31: Soziale und ökologische Vergabekriterien für die Hängeseilbrücke
+- TOP 2.5: Entwicklung der Schülerzahlen in der Sekundarstufe II (gymnasiale Oberstufe, Berufskollegs) in Wuppertal
+- TOP 2.5.1: Antwort auf die Große Anfrage der FDP zur Entwicklung der Schülerzahlen in der Sekundarstufe II
+- TOP 2.6: Sachstand alternativer Standort für das Autonome Zentrum
+- TOP 2.6.1: Sachstand alternativer Standort für das Autonome Zentrum
+- TOP 2.7: BUGA-Spende über 1 Mio. Euro
+- TOP 2.7.1: BUGA-Spende über 1 Mio. Euro
+- TOP 2.8: Umbau des Sonnborner Kreuzes ab 2026
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung nach § 24 GO NRW
+- TOP 4: Anträge
+- TOP 4.1: Haus des Jugendrechts
+- TOP 4.2: Erlass einer ordnungsbehördlichen Verordnung für ein Verkaufsverbot von Lachgas an Minderjährige
+- TOP 4.3: Ressort Integration und Zuwanderung für die Zukunft aufstellen
+- TOP 4.4: Ausweisung von Liefer- und Ladezonen
+- TOP 4.5: Rote Bank - Symbol gegen Gewalt an Frauen
+- TOP 4.6: Faire Rahmenbedingungen für Wuppertaler Taxiunternehmen
+- TOP 4.7: Wohnmobilstellplätze in Wuppertal
+- TOP 4.8: Fußgänger schützen, E-Scooter klar reglementieren
+- TOP 4.9: Strukturelle Überforderung durch Übererfüllung der Aufnahmequoten bei Geflüchteten
+- TOP 4.10: Projektpartnerschaft Wuppertal – Kamjanske; Gemeinsamer Antrag der Fraktionen von SPD, CDU, BÜNDNIS 90/DIE GRÜNEN, FDP und Linkes Bündnis
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Antrag der FDP Fraktion zum Sondervermögen Infrastruktur
+- TOP 5.2: Einführung einer Bezahlkarte für Flüchtlinge
+- TOP 5.2.1: Bezahlkarte für Leistungen aus dem Asylbewerberleistungsgesetz
+- TOP 5.2.2: Ersetzungsantrag zu TOP 5.1, VO/0200/24, „Einführung einer Bezahlkarte für Flüchtlinge“, Gemeinsamer Antrag der Fraktionen von SPD, CDU, FDP und Freie Wähler
+- TOP 6: Ortsrecht
+- TOP 6.1: Sondernutzungssatzung - Anpassung
+- TOP 6.2: Überarbeitung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der Stadt Wuppertal
+- TOP 6.3: Verordnung über das Offenhalten von Verkaufsstellen am 12.10.2025 in Wuppertal-Barmen
+- TOP 6.4: Entgeltordnung Museum Industriekultur
+- TOP 6.5: Aktualisierung Verwaltungsgebührenordnung
+- TOP 6.6: Entgeltordnung der Stadt Wuppertal für die Nutzung von städtischem unbebauten Grundbesitz
+- TOP 6.7: Satzungsänderung des Eigenbetriebs Straßenreinigung (ESW)
+- TOP 6.8: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Obdachloseneinrichtungen der Stadt Wuppertal (7. Änderungssatzung).
+- TOP 6.9: Satzung über die Errichtung und Unterhaltung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Obdachloseneinrichtungen der Stadt Wuppertal (1. Änderungssatzung).
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2023
+- TOP 7.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2023
+- TOP 7.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2024
+- TOP 7.4: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 15.03.2025-13.06.2025
+- TOP 7.5: Ermächtigungsübertragungen in das Haushaltsjahr 2025
+- TOP 7.6: Finanzierung der Instandsetzungsmaßnahme Vogelsangstraße
+- TOP 7.7: Circular Valley – institutionelle Förderung
+- TOP 7.8: Fortführung der kommunalen Schulsozialarbeit nach Inkrafttreten der neuen Förderrichtlinie zur Schulsozialarbeit
+- TOP 7.9: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen im Rettungsdienst und Fahrzeugbeschaffungen im Rettungsdienst
+- TOP 7.10: Überplanmäßige Mittelbereitstellung zur Anschaffung von Fahrzeugen für den Brandschutz
+- TOP 7.11: Teilnahme am anteiligen Entschuldungsprogramm nach dem Entwurf zum Altschuldenentlastungsgesetz NRW
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2023 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachberein Senioren und Freizeit -
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit -
+- TOP 8.3: Jahresabschluss 2024 der Stadtsparkasse Wuppertal
+- TOP 8.4: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2024
+- TOP 8.5: Jahresabschluss der Wirtschaftsförderung Wuppertal AöR für das Geschäftsjahr 2024
+- TOP 8.6: Beteiligungsbericht 2023 der Stadt Wuppertal
+- TOP 8.7: Übertragung von Grundstücken zwischen der Stadt und dem GMW
+- TOP 8.8: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderung des Gesellschaftsvertrags
+- TOP 8.9: Jahresabschluss und Lagebericht 2023 des Eigenbetriebes Straßenreinigung Wuppertal (ESW)
+- TOP 8.10: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2023
+- TOP 8.11: Fortgeltung der Wirtschaftspläne 2025
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1241/2A - Herstellung von Erschließungsanlagen durch einen Dritten
+- TOP 9.2: Bebauungsplan 1234 - Rädchen Süd -
+- TOP 9.3: Bebauungsplan Nr. 1234, Rädchen-Süd - Herstellung von Erschließungsanlagen durch einen Dritten
+- TOP 9.4: Bebauungsplan 55 - Am Clef -
+- TOP 9.5: Bebauungsplan 805 B West - Uellendahler Straße / Am Flöthen -
+- TOP 9.6: Bebauungsplan 1021/1 - Uellendahler Straße / Am Haken -
+- TOP 9.7: Bebauungsplan 1247 - Rather Straße/ Kohlfurther Straße -
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierungsmaßnahme Vohwinkeler Straße
+- TOP 10.2: Instandsetzungsmaßnahme Neviger Straße (unterer Teil)
+- TOP 10.2.1: Straßensanierung mit Förderung des Radverkehrs
+- TOP 10.3: Durchführungsbeschluss: Neubau der Offenen Ganztagsgrundschule Eichenstr. 59 mit Einfachturnhalle
+- TOP 10.4: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof
+- TOP 10.5: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Cronenberg - Sachstandsbericht
+- TOP 10.6: Sanierungsmaßnahme Westfalenweg
+- TOP 10.7: Herstellung der Barrierefreiheit im historischen Rathaus Vohwinkel (Rubensstraße 4)
+- TOP 10.8: Fortsetzung Sanierung der Futtermauern im Einschnitt Bramdelle NBT
+- TOP 10.9: Nützenberger Straße - Grundhafte Erneuerung im Zuge von WSW Arbeiten
+- TOP 10.10: Ergänzungsantrag zur Drucksache VO/0682/25 - Neubau des Betriebshofs Giebel 46 - Durchführungsbeschluss 2. Baubabschnitt
+- TOP 10.10.1: Neubau des Betriebshofs Giebel 46 – Durchführungsbeschluss 2. Bauabschnitt
+- TOP 10.11: Vorratsbeschluss zur Kostenneufestsetzung "Neugestaltung Alte Freiheit- Poststraße- Kerstenplatz"
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Erneute Beteiligung zur 18. Änderung des Regionalplanes Düsseldorf (Änderung der Festlegungen zu Windenergieanlagen)
+- TOP 11.2: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027
+- TOP 11.3: Ethikrichtlinie „Charta Digitale Ethik“ der Stadt Wuppertal für den Umgang mit Künstlicher Intelligenz (KI)
+- TOP 11.4: Anmeldeverfahren an weiterführenden Schulen
+- TOP 11.5: Temporäres Ersatzquartier für die Jahrgänge 5 und 6 der Realschule Leimbach auf einer Teilfläche des Carnaper Platzes
+- TOP 11.6: Ersteinrichtung offener Ganztag
+- TOP 11.7: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal
+- TOP 11.8: Zugerweiterung an der Erich-Fried-Gesamtschule, An der Blutfinke 70, 42369 Wuppertal
+- TOP 11.9: Zwischenbericht Schulentwicklungsplanung
+- TOP 11.10: Festlegung der Schulform: Errichtung einer neuen weiterführenden Schule im Stadtbezirk Oberbarmen
+- TOP 11.11: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen
+- TOP 11.11.1: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen, VO 0463/25
+- TOP 11.12: Schulbauoffensive 2035 "Wuppertal baut Bildung"
+- TOP 11.12.1: Ergänzungsantrag zu TOP 6.14 - Schulbauoffensive 2035 "Wuppertal baut Bildung" (VO/0476/25)
+- TOP 11.13: ISEK Vohwinkel - Vergabe und Planung zentraler öffentlicher Räume des Stationsgartens, Lienhardplatzes und Bahnhofsvorplatzes
+- TOP 11.14: „Wuppertaler Klimagipfel“ – Klimafreundlicher Grünraumverbund im Wuppertaler Norden
+- TOP 11.15: Quartalsbericht I/2025 zum Handlungsprogramm Gewerbeflächen
+- TOP 11.16: Direkter Beitritt zu der „Einkaufsgenossenschaft ProVitako e.G.“
+- TOP 11.17: Rettungsdienstbedarfsplan der Stadt Wuppertal 2025
+- TOP 11.18: Sachstand zum Konzept öffentliche Toiletten
+- TOP 11.19: Sonntagsöffnung ab 1. August 2025 an den Bibliotheksstandorten BIB@BOB, Barmen und Vohwinkel
+- TOP 11.20: ISEK Elberfeld - Gestaltungssatzung Innenstadt Elberfeld - Durchführungsbeschluss Ausschreibung vorbereitende Leistungen und Gestaltungshandbuch
+- TOP 11.21: Vermarktung der Wuppertaler Zoosäle in einem zweistufigen Investorenauswahlverfahren
+- TOP 11.22: Aktualisierte Fassung der Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4
+- TOP 11.22.1: Fortschreibung des Lärmaktionsplanes Wuppertal der Runde 4
+- TOP 11.22.2: Änderungsantrag Lärmaktionsplan der Runde 4
+- TOP 11.22.3: Änderungsantrag der SPD-Fraktion zu VO/0672/25 "Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4"
+- TOP 11.23: 5. Zwischenbericht InnenBandStadt
+- TOP 11.24: Grundsatzbeschluss - Neugestaltung Kirchplatz und Umgebung
+- TOP 11.25: Naubau einer Maßregelvollzugsklinik an der Parkstraße
+- TOP 11.26: Betriebskostenzuschüsse 2025 an die Träger der offenen Kinder- und Jugendarbeit
+- TOP 11.27: Umsetzung des Ratsauftrages zur Verbesserung der Zusammenarbeit zwischen Wirtschaft und Verwaltung -2. Zwischenbericht über den Stand der Umsetzung-
+- TOP 11.28: Unterstützung eines privaten Investitionsvorhabens zum Bau und Betrieb einer zirkularen Multifunktionsarena – Wo Kreislaufwirtschaft auf Publikum trifft!
+- TOP 11.29: Ladeinfrastrukturkonzept
+- TOP 11.30: Dienstanweisung des Ressorts Finanzen
+- TOP 11.31: Neubau der Tageseinrichtungen für Kinder Grafenstraße und Leibuschstraße – hier: Änderung der bisherigen Beschlüsse (VO/0911/23 und VO/0912/23) zu Gunsten der Träger der freien Jugendhilfe
+- TOP 11.32: Abschluss einer Schiedsvereinbarung zur Rückgabe von NS-Raubgut aus öffentlichen Sammlungen
+- TOP 11.33: Verhandlungen zur Umnutzung der ehemaligen Kaufhof-Immobilie
+- TOP 11.34: Vorgehen zur Einrichtung einer Jugendberufsagentur (JBA)
+- TOP 11.35: Errichtung einer Ersatztoilette für den Berliner Platz - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Gremienumbesetzung Ausschuss für Verkehr
+- TOP 12.2: Wahl der Mitglieder des Integrationsgremiums gemäß der Novellierung des § 27 GO NRW - Politische Teilhabe von Menschen mit Einwanderungsgeschichte
+- TOP 12.3: Umbesetzung im Rechnungsprüfungsausschuss
