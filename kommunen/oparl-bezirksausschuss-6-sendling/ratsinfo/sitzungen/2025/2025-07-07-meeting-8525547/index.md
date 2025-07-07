@@ -1,0 +1,152 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-07-07T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525547
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525547
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Antrag auf Fahrrad-Abstellplätze in der Pfeuferstraße 30
+- TOP 2.2.: Abendliche Feiern an der Isar
+- TOP 2.3.: Wohnanlage in der Plinganserstraße 54
+- TOP 2.4.: Anfrage zur Realisierung von Padelplätzen in München
+- TOP 2.5.: Platz für neue Fahrradabstellplätze in der Pfeuferstraße 2-2a
+- TOP 2.6.: Fahrradabstellmöglichkeit und beidseitiges Befahren mit dem Fahrrad eines Teilstückes Radlkoferstraße
+- TOP 2.7.: Ateliers für Künstler in München
+- TOP 2.8.: Kita-Schließung in Sendling zum 30.06.2025
+- TOP 2.9.: Umbauten in der Thalkirchner Straße 210
+- TOP 2.10.: Große Tartan Fläche für Calisthenics - Fitness Park Isarauen
+- TOP 2.11.: Benutzung Freifläche der Kirche St. Margaret
+- TOP 2.12.: Weiterbildung ehrenamtlicher Jugendlicher
+- TOP 2.13.: Umwidmung öffentlicher Parkflächen in Sendling
+- TOP 2.14.: Lärmaktionsplan Brudermühlstraße
+- TOP 2.15.: Ampelschaltung an der Brudermühlstraße / Ecke Schäftlarnstraße
+- TOP 2.16.: Alarm auf der Baustelle an der Reutberger Straße
+- TOP 2.17.: Einrichtung einer Fahrradabstellanlage in der Kraelerstraße 8
+- TOP 2.18.: Bedingungen für einen funktionierenden Blumengroßmarkt im neuen Großmarktkonzept
+- TOP 2.19.: Tempo 30-Zone in der Implerstraße
+- TOP 2.20.: Anfrage zur Baustelle Sendlinger Loch
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung in der Fallstraße 34
+- TOP 4.2.2.: Baumfällung in der Schäftlarnstraße 8
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Lindenschmitstraße 25 – Nachfragen zum Bauablauf BA-Antrag-Nr. 20-26 / B 07633
+- TOP 4.3.2.: Sitzbänke in Sendling (Fraktion B90 / Die Grünen, ÖDP, CSU und SPD)
+- TOP 4.3.3.: (U) Demografiebericht München- Teil 1 Analyse 2024 und Bevölkerungsprognose 2025 bis 2045 für die Landeshauptstadt
+- TOP 4.3.4.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2025 bis 2045 für die Sadtbezirke
+- TOP 4.3.5.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfül-lung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 4.3.6.: (U) Kein Ausverkauf des Münchner Stadtbildes
+- TOP 4.3.7.: Anfragen zur Albert-Roßhaupter-Straße 12
+- TOP 4.3.8.: Mauer der Alten Sendlinger Kirche
+- TOP 4.3.9.: Seismik-Messungen für die Geothermie – wichtige Informationen zur geologischen Untersuchung in Ihrem Gebiet
+- TOP 4.3.10.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 4.3.11.: Änderungsplanfeststellungsbeschluss zur 6. Änderung des Planfeststellungsbeschlusses vom 31.10.2023, PFA 3 Ost der 2. S-Bahn-Stammstrecke München (Bereich westliches Isarufer bis Bft Mü Leuchtenbergring)
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung zur Parksituation in der Ganghoferstraße zwischen Baumgartner- und Pfeuferstraße
+- TOP 5.3.2.: Wohnortnahe Sammlung von Wertstoffen ermöglichen! (Anfrage der SPD-Fraktion)
+- TOP 5.3.3.: Fahrradabstellplätze in der Ganghoferstraße 82
+- TOP 5.3.4.: Brudermühlstraße (oberirdische Fahrbahn, westliche Fahrtrichtung); Beschränkung der zulässigen Höchstgeschwindigkeit auf 40 km/h
+- TOP 5.3.5.: Neue Carsharing-Parkplätze Lindenschmitstraße 9
+- TOP 5.3.6.: Alten- und Servicezentrum Sendling, Daiserstraße 37 – Sitzgelegenheiten im Freien
+- TOP 5.3.7.: Brunnen am Harras
+- TOP 5.3.8.: Straßenzug „Implerstraße“ – erneute Anpassung der Geschwindigkeitsregelung (30 km/h aus Lärmschutzgründen)
+- TOP 5.3.9.: Verkehrssituation in der Jägerwirtstraße / An der Stemmerwiese
+- TOP 5.3.10.: Stellplätze für Shared-Mobility-Angebote
+- TOP 5.3.11.: Parklizenzgebiet Brudermühlviertel Änderung der Parkregel in der Urbanstraße
+- TOP 5.3.12.: Gehwege müssen uneingeschränkt zugänglich bleiben BA-Antrags-Nr. 20-26 / B 07636
+- TOP 5.3.13.: Unterschriften-Aktion September 2025 - am Harras
+- TOP 5.3.14.: Verschmutzung durch Sticker auf Verkehrsschildern
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Anpassung des Planungsauftrages zur Plinganserstraße
+- TOP 5.4.2.: Absperrungen / Poller für den Harras (Fraktion B90 / Die Grünen)
+- TOP 5.4.3.: Polder Straßenecke Kidler- / Oberländerstraße (Seniorenbeirat)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025 1.600,00€; Az. 0262.0-6-0562
+- TOP 6.1.2.: (E) Stadtbezirksbudget Elternbeirat der Mittelschule Implerstr. 35 „Kicker Implerschule “ AZ: 0262.0-6-0548/ 2.994,00 €
+- TOP 6.1.3.: (E) Stadtbezirksbudget Init. "Teamtag Schulsozialarbeit" Teamtag am 08.10.2025 3.960,00€; Az. 0262.0-6-0561
+- TOP 6.1.4.: (E) Stadtbezirksbudget Ensemble La Vie e.V. „Kill You! Theaterstück zur Suchtprävention -Spielsucht /Neue Medien vom 01.08. -30.12.2025“ 2.525,00 € / AZ: 0262.0-6-0564
+- TOP 6.1.5.: (E) Stadtbezirksbudget Mütterzentrum Sendling e.V. / Familienzentrum Sendling „"Miteinander in Sendling" - Gesundes Picknick für Familien im Stadtviertel am 05.08.2025“ 447,60 € / AZ: 0262.0-6-0567
+- TOP 6.1.6.: (E) Stadtbezirksbudget Freie Turnerschaft München Süd e.V. „Tag der offenen Tür am 28.06.2025“ 2.000,00 € / AZ: 0262.0-6-0566
+- TOP 6.1.7.: (E) Stadtbezirksbudget H-Team e.V. „Veranstaltung anlässlich des 35 Vereinsjubiläums am 28.07.2025“ 1.265,00 € / AZ: 0262.0-6-0565
+- TOP 6.1.8.: (E) Stadtbezirksbudget Init. "Stark wie ein Löwe" „STARK wie ein Löwe // Selbstbehauptung & Resilienz // Iriet Yusuf am 16.07.2025“ 600,00 € / AZ: 0262.0-6-0568
+- TOP 6.1.9.: (E) Stadtbezirksbudget Init. "Bergweihnacht" „Kulturprogramm Sendlinger Bergweihnacht vom 24.11. -23.12.2025“ 3.000,00 € / AZ: 0262.0-6-0563
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 6.2.2.: Einbeziehung der Bezirksausschüsse vor der Umsetzung von in Foren bzw. Plattformen vorgeschlagenen verkehrsrechtlichen Anordnungen und baulichen Maßnahmen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Selbsthilfegruppe für geflüchtete Frauen - VCP Sendling-Stamm im Verband christlicher Pfadfinder*innen in Bayern
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Antrag des BA 17 Obergiesing - Fasangarten – Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Entwurf der Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht 2025; Konsolidierung 2028ff
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Grundschule in der Plinganserstraße 28 – Öffnung des Sportplatzes / Schluhofes
+- TOP 7.3.2.: Betreuungssituation in der Grundschule Implerstraße 35
+- TOP 7.3.3.: Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.3.4.: Hortgründung im Stadtbezirk
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Schanigartenantrag in der Aberlestraße 21 – Restgehwegbreite von 1,80 m
+- TOP 8.1.2.: Schanigarten in der Implerstraße 23 – neue Tempo-30 Anordnung
+- TOP 8.1.3.: Schanigarten in der Daiserstraße 41
+- TOP 8.1.4.: Freisitz in der Daiserstraße 37
+- TOP 8.1.5.: Freischankfläche in der Spitzwegstraße 10
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Veranstaltung in einer städtischen Grünanlage; Vogelflug-Vorführung für Tarzanmäuse e.V. an der Jägerwirtstraße (Stemmerwiese) am 02.10.2025
+- TOP 8.2.2.: Veranstaltung in einer städtischen Grünanlage; Geländepraktikum Studierende der LMU Geographie in den Isarauen Flaucheranlagen vom 25.07.2025 - 09.08.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Mit Sicherheit: Abende in den Neuhofener Anlagen BA-Antrag-Nr. 20-26 / B 07634
+- TOP 8.3.2.: Schließung des Stäblibads - weitere Sportangebote für Seniorinnen und Senioren
+- TOP 8.3.3.: Veranstaltung auf öffentlichem Verkehrsgrund Straßenfest "Sommerfeierabend Daiserstraße" in der Daiserstraße (zwischen Alramstraße und Oberländerstraße) am 26.07.2025
+- TOP 8.3.4.: Freizeit-/ Sporteinrichtungen Sendling (Maxi Pitch)
+- TOP 8.3.5.: Veranstaltung auf öffentlichem Verkehrsgrund Sommercafé der Sendlinger SPD vor Daiserstr. 27-29 am 04.07.2025
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.21.: Müllablagerung auf der Grünfläche vor der Schäftlarnstraße 62
+- TOP 2.22.: Nachbarschaftliche Nutzung des Brunthaler Parkplatzes
+- TOP 2.23.: Vorschlag zu einem Kreisverkehr in der Sylvensteinstraße / Engelhardstraße
+- TOP 4.3.12.: Baumfällung in der Schäftlarnstraße 8
+- TOP 5.3.15.: Fahrradparkhaus für den Neubau des Südbahnhof
+- TOP 2.24.: Parkplatz Kidlerplatz
+- TOP 2.25.: Abbau von Bänken am Quartiersplatz
+- TOP 6.2.3.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024
+- TOP 5.3.16.: Eilentscheidung zu Beschlussvorlage für Parklet in der Alramstraße – Tarzanmäuse e.V.
+- TOP 5.1.1.: Planerische Entscheidungsvorlage Sommerstraße Gotzinger Platz
+- TOP 6.3.2.: Zuschussanträge des Stadtbezirksbudget vom 2. Quartal 2025
+- TOP 5.3.17.: Neuordnung der Parkplätze entlang der Karwendelstraße BA-Antrags-Nr. 20-26 / B 06732
+- TOP 8.3.6.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Sommerfest und Jubiläum Lilly läuft e.V. in der Ganghoferstr. (HsNr. 82-86) am 17.07.2025
+- TOP 5.3.18.: Zick-Zack-Markierung in den Kurvenbereichen am Margaretenplatz - An der Stemmerwiese - Meindlstraße
+- TOP 6.1.10.: Budget für Eigenveranstaltungen - Sommerstraße Gotzinger Platz
+- TOP 5.2.1.: Alramstraße Ecke Danklstraße 1 – Einrichtung persönlicher Behindertenparkplatz
+- TOP 5.1.2.: Planerische Entscheidungsvorlage Sommerstraße in der Schöttlstraße
+- TOP 5.2.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; 2 Sommerstraßen Nachbarschaftsfeste 1. in der Schöttlstr. (vor Hsnr. 3-7) am 22.07.2025 (Ersatztermin: 29.07.) 2. am Gotzinger Platz (vor Hsnr. 2) am 25.07.2025 (Ersatztermin: 30.07.)
+- TOP 8.2.3.: Sommerfest KiGa Matschknödel Am Isarkanal/Ecke Schäftlarnstraße am 18.07.2025
