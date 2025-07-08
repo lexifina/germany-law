@@ -1,0 +1,58 @@
+# Rat (39. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2025-07-08T18:00:00+02:00
+- Ende: 2025-07-08T20:16:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRNjLdcb-wyYGd2xPv1qSQM
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21428
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRBlnCtOr3aYsbjO9DF8RjX2OmOBSgKkRJGA91D62qsk/Bekanntmachung_Rat_08.07.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXtdSPO3tF-lobwxigfZAZ2wivlAtLftdL_Bme2Ries5/Oeffentliche_Niederschrift_Rat_08.07.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 27.05.2025 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Unterstützung der Resolution der demokratischen Fraktionen im Kreistag Euskirchen gegen die Laufzeitverlängerung der Atomkraftwerke in Belgien hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 23.06.2025 - Einstimmiger Beschluss:Hier wirkt der Stadtverordnete Andreas Bühl, UWV-Fraktion, nicht mit.
+- TOP 5.: 19. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen, Wege und Plätze in der Stadt Bad Münstereifel (Straßenreinigungssatzung) vom 10.12.1980 - Beschluss siehe RD-NR. 1672-XI/Z-1.
+- TOP -: 19. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen, Wege und Plätze in der Stadt Bad Münstereifel (Straßenreinigungssatzung) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 6.: 10. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel vom 16.11.1992 - Beschluss siehe RD-Nr. 1673-XI/Z-1.
+- TOP -: 10. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel vom 16.11.1992 - Mehrheitlicher Beschluss mit 1 Gegenstimme:
+- TOP 7.: Vergabe Rechtsberatungsleistungen im Rahmen der Vergabeverfahren des Wiederaufbaus - Einstimmiger Beschluss:
+- TOP 8.: Beitritt der e-regio GmbH & Co. KG in die zu gründende Energiewende Rhein-Eifel eG - Einstimmiger Beschluss:
+- TOP 9.: Beitritt der Stadt Bad Münstereifel in die zu gründende Energiewende Rhein-Eifel eG - Einstimmiger Beschluss:
+- TOP 10.: Verschmelzung der Stromnetz Euskirchen GmbH & Co. KG und der Stromnetz Euskirchen Verwaltungs-GmbH auf die e-regio Netz GmbH - Einstimmig Beschluss:
+- TOP 11.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses für das Haushaltsjahr 2024 - Einstimmiger Beschluss:
+- TOP 12.: Abwasserbeseitigungskonzept (ABK) der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 13.: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Erneute Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) nach Fortschreibung - Die Abwägungsbeschlüsse werden alle mit 19 Ja- und 6 Nein-Stimmen gefasst:Die Stadtverordneten Martin Mehrens, CDU-Fraktion, und Alexandra Kühne, UWV-Fraktion, wirken hier nicht mit.
+- TOP 14.: 37. Änderung des Flächennutzungsplans „Freiflächenphotovoltaik An der Kuckucksheide“ in der Gemarkung Hohn hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Die Abwägungsbeschlüsse werden alle mit 26 Ja-Stimmen und 1 Nein-Stimme gefasst:
+- TOP 15.: Bebauungsplan Nr. 104 "Hohn-Freiflächenphotovoltaik an der Kuckucksheide" in der Gemarkung Hohn hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse werden mehrheitlich mit 1 Nein-Stimme und der Abwägungsbeschluss zu Nr. 11.4.6 mehrheitlich mit 5 Nein-Stimmen gefasst:
+- TOP 16.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.17 Gestaltung Schleidpark-Areal hier: Ausschreibung und Beauftragung der Planungsleistungen Leistungsphasen 4-8 - Mehrheitlicher Beschluss bei 5 Nein-Stimmen und 2 Enthaltungn:
+- TOP 17.: Aufstellung eines Sachlichen Teilplans Erneuerbare Energien zum Regionalplan für den Regierungsbezirk Köln hier: 2. Offenlage und Stellungnahme der Stadt - Beschluss mit 11 Ja-Stimmen und 1 Enthaltung und damit abgelehnt:
+- TOP 18.: Feststellung Jahresabschluss zum 31.12.2023 des Forstbetriebes Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 19.: Entlastung für das Wirtschaftsjahr 2023 Hier: Entlastung des Betriebsausschusses "Forstbetrieb" durch den Rat - Einstimmiger Beschluss:Hier wirken die Mitglieder des Betriebsausschusses „Forstbetrieb der Stadt Bad Münstereifel“ nicht mit.
+- TOP 20.: Bestellung eines stellvertretenden Betriebsleiters für die eigenbetriebsähnliche Einrichtung "Forstbetrieb der Stadt Bad Münstereifel" sowie kommissarische Bestellung als weiterer Vertreter der Bürgermeisterin hier: Ausscheiden des stellvertretenden Betriebsleiters Kurt Reidenbach - Einstimmiger Beschluss:
+- TOP 21.: Beigeordneter hier: Ausführung der Verwaltung zum zeitlichen Verfahrensablauf zur Besetzung der künftigen Beigeordnetenstelle - Beschluss siehe RD-Nr. 1598-XI/Z-3.
+- TOP -: Beigeordneter hier: Ausführung der Verwaltung zum zeitlichen Verfahrensablauf zur Besetzung der künftigen Beigeordnetenstelle; Empfehlungsbeschluss des Haupt- und Finanzausschusses vom 01.07.25 - Einstimmiger Beschluss:
+- TOP 22.: Anfragen und Mitteilungen
+- TOP 22.1: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 22.2: Vertretung im Bildungs- und Sozialausschuss hier: Mitteilung der Katholischen Kirchengemeinde Bad Münstereifel vom 04.06.2025
+- TOP 22.3: Einladung zu verschiedenen Veranstaltungen
+- TOP 22.4: 2. Wiederaufbauplan hier: Genehmigung
+- TOP 22.5: Haushalt 2025/Fortschreibung HSK
+- TOP 22.6: Sachstand Grundsteuerreform
+- TOP 22.7: Verabschiedung Allgemeiner Vertreter
+- TOP 22.8: Verlegung Betriebsausschuss "Forstbetrieb der Stadt Bad Münstereifel"
+- TOP 22.9: Bachstraße Arloff hier: Anfrage des Stadtverordneten Reiner Jansen, CDU-Fraktion
+- TOP 22.10: Verabschiedung Allgemeiner Vertreter hier: Abschiedsrede der SPD-Fraktion
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Beitritt der e-regio GmbH & Co. KG in die zu gründende Energiewende Rhein-Eifel eG - Einstimmiger Beschluss:
+- TOP 2.: Beitritt der Stadt Bad Münstereifel in die zu gründende Energiewende Rhein-Eifel eG - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Spielplatz Ohlerath hier: Anfrage des Stadtverordneten Manfred Manheller, CDU-Fraktion
+- TOP 3.2: Entwässerung Weiher Honerath hier: Anfrage des Stadtverordneten Manfred Manheller, CDU-Fraktion
