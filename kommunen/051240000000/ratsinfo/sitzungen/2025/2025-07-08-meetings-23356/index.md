@@ -1,0 +1,153 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-07-08T16:00:00+02:00
+- Ende: 2025-07-08T20:35:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23356
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/23356
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00351729.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00352555.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Rechtliche Auseinandersetzungen der Stadt im Zusammenhang mit Baumaßnahmen - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 02.06.2025 - Entgegennahme ohne Beschluss
+- TOP 2.2: Medienentwicklungsplanung, Fördermittelverwendung zur digitalen Ausstattung der Wuppertaler Schulen - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage "Medienentwicklungsplanung, Fördermittelverwendung zur digitalen Ausstattung der Wuppertaler Schulen" - Entgegennahme ohne Beschluss
+- TOP 2.3: Anfrage Entfernung Eigentum eines obdachlosen Menschen - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort der Verwaltung auf Anfrage "Entfernung Eigentum eines obdachlosen Menschen" - Entgegennahme ohne Beschluss
+- TOP 2.4: BUGA31: Soziale und ökologische Vergabekriterien für die Hängeseilbrücke - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort zur Großen Anfrage der Fraktion Linkes Bündnis Wuppertal vom 13.06.2025 - BUGA31: Soziale und ökologische Vergabekriterien für die Hängeseilbrücke - Entgegennahme ohne Beschluss
+- TOP 2.5: Entwicklung der Schülerzahlen in der Sekundarstufe II (gymnasiale Oberstufe, Berufskollegs) in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Große Anfrage der FDP zur Entwicklung der Schülerzahlen in der Sekundarstufe II - Entgegennahme ohne Beschluss
+- TOP 2.6: Sachstand alternativer Standort für das Autonome Zentrum - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Sachstand alternativer Standort für das Autonome Zentrum - Entgegennahme ohne Beschluss
+- TOP 2.7: BUGA-Spende über 1 Mio. Euro - Entgegennahme ohne Beschluss
+- TOP 2.7.1: BUGA-Spende über 1 Mio. Euro - Entgegennahme ohne Beschluss
+- TOP 2.8: Umbau des Sonnborner Kreuzes ab 2026 - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Große Anfrage der Fraktion DIE GRÜNEN v. 01.07.25 zum Umbau des Sonnborner Kreuzes - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung nach § 24 GO NRW
+- TOP 4: Anträge
+- TOP 4.1: Haus des Jugendrechts - ungeändert beschlossen
+- TOP 4.2: Erlass einer ordnungsbehördlichen Verordnung für ein Verkaufsverbot von Lachgas an Minderjährige - ungeändert beschlossen
+- TOP 4.3: Ressort Integration und Zuwanderung für die Zukunft aufstellen - ungeändert beschlossen
+- TOP 4.4: Ausweisung von Liefer- und Ladezonen - zur Vorberatung verwiesen
+- TOP 4.5: Rote Bank - Symbol gegen Gewalt an Frauen - ungeändert beschlossen
+- TOP 4.6: Faire Rahmenbedingungen für Wuppertaler Taxiunternehmen - zur Vorberatung verwiesen
+- TOP 4.7: Wohnmobilstellplätze in Wuppertal - zur Vorberatung verwiesen
+- TOP 4.8: Fußgänger schützen, E-Scooter klar reglementieren - zur Vorberatung verwiesen
+- TOP 4.9: Strukturelle Überforderung durch Übererfüllung der Aufnahmequoten bei Geflüchteten - zur Vorberatung verwiesen
+- TOP 4.10: Projektpartnerschaft Wuppertal – Kamjanske; Gemeinsamer Antrag der Fraktionen von SPD, CDU, BÜNDNIS 90/DIE GRÜNEN, FDP und Linkes Bündnis - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Antrag der FDP Fraktion zum Sondervermögen Infrastruktur - abgesetzt
+- TOP 5.2: Einführung einer Bezahlkarte für Flüchtlinge - vertagen
+- TOP 5.2.1: Bezahlkarte für Leistungen aus dem Asylbewerberleistungsgesetz - vertagen
+- TOP 5.2.2: Ersetzungsantrag zu TOP 5.1, VO/0200/24, „Einführung einer Bezahlkarte für Flüchtlinge“, Gemeinsamer Antrag der Fraktionen von SPD, CDU, FDP und Freie Wähler - vertagen
+- TOP 6: Ortsrecht
+- TOP 6.1: Sondernutzungssatzung - Anpassung - abgesetzt
+- TOP 6.2: Überarbeitung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Verordnung über das Offenhalten von Verkaufsstellen am 12.10.2025 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.4: Entgeltordnung Museum Industriekultur - ungeändert beschlossen
+- TOP 6.5: Aktualisierung Verwaltungsgebührenordnung - ungeändert beschlossen
+- TOP 6.6: Entgeltordnung der Stadt Wuppertal für die Nutzung von städtischem unbebautem Grundbesitz - ungeändert beschlossen
+- TOP 6.7: Zweite Änderungssatzung des Eigenbetriebs Straßenreinigung (ESW) - ungeändert beschlossen
+- TOP 6.8: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Obdachloseneinrichtungen der Stadt Wuppertal (7. Änderungssatzung). - ungeändert beschlossen
+- TOP 6.9: Satzung über die Errichtung und Unterhaltung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Obdachloseneinrichtungen der Stadt Wuppertal (1. Änderungssatzung). - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2023 - Entgegennahme ohne Beschluss
+- TOP 7.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2023 - ungeändert beschlossen
+- TOP 7.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2024 - ungeändert beschlossen
+- TOP 7.4: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 15.03.2025-13.06.2025 - Entgegennahme ohne Beschluss
+- TOP 7.5: Ermächtigungsübertragungen in das Haushaltsjahr 2025 - Entgegennahme ohne Beschluss
+- TOP 7.6: Finanzierung der Instandsetzungsmaßnahme Vogelsangstraße - ungeändert beschlossen
+- TOP 7.7: Circular Valley – institutionelle Förderung - ungeändert beschlossen
+- TOP 7.8: Fortführung der kommunalen Schulsozialarbeit nach Inkrafttreten der neuen Förderrichtlinie zur Schulsozialarbeit - ungeändert beschlossen
+- TOP 7.9: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen im Rettungsdienst und Fahrzeugbeschaffungen im Rettungsdienst - ungeändert beschlossen
+- TOP 7.10: Überplanmäßige Verpflichtungsermächtigung 2025 zur Anschaffung von Fahrzeugen für den Brandschutz - ungeändert beschlossen
+- TOP 7.11: Teilnahme am anteiligen Entschuldungsprogramm des Landes NRW nach dem Entwurf zum Altschuldenentlastungsgesetz NRW vom 13.05.2025 (Landtagsdrucksache 18/13835) - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2023 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachberein Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2024 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.4: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss der Wirtschaftsförderung Wuppertal AöR für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.6: Beteiligungsbericht 2023 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.7: Übertragung von Grundstücken zwischen der Stadt und dem GMW - ungeändert beschlossen
+- TOP 8.8: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderung des Gesellschaftsvertrags - ungeändert beschlossen
+- TOP 8.9: Jahresabschluss und Lagebericht 2023 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.10: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 8.11: Fortgeltung der Wirtschaftspläne 2025 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1241/2A - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1234 - Rädchen Süd - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1234, Rädchen-Süd - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 55 - Am Clef - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 805 B West - Uellendahler Straße / Am Flöthen - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1021/1 - Uellendahler Straße / Am Haken - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1247 - Rather Straße/ Kohlfurther Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierungsmaßnahme Vohwinkeler Straße - ungeändert beschlossen
+- TOP 10.2: Instandsetzungsmaßnahme Nevigeser Straße (unterer Teil) - geändert beschlossen
+- TOP 10.2.1: Straßensanierung mit Förderung des Radverkehrs - zurückgezogen
+- TOP 10.3: Durchführungsbeschluss: Neubau der Offenen Ganztagsgrundschule Eichenstr. 59 mit Einfachturnhalle - ungeändert beschlossen
+- TOP 10.4: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - ungeändert beschlossen
+- TOP 10.5: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Cronenberg - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 10.6: Sanierungsmaßnahme Westfalenweg - ungeändert beschlossen
+- TOP 10.7: Herstellung der Barrierefreiheit im historischen Rathaus Vohwinkel (Rubensstraße 4) - ungeändert beschlossen
+- TOP 10.8: Fortsetzung Sanierung der Futtermauern im Einschnitt Bramdelle NBT - ungeändert beschlossen
+- TOP 10.9: Nützenberger Straße - Grundhafte Erneuerung im Zuge von WSW Arbeiten - ungeändert beschlossen
+- TOP 10.10: Neubau des Betriebshofs Giebel 46 – Durchführungsbeschluss 2. Bauabschnitt - geändert beschlossen
+- TOP 10.10.1: Ergänzungsantrag zur Drucksache VO/0682/25 - Neubau des Betriebshofs Giebel 46 - Durchführungsbeschluss 2. Baubabschnitt - geändert beschlossen
+- TOP 10.11: Vorratsbeschluss zur Kostenneufestsetzung "Neugestaltung Alte Freiheit- Poststraße- Kerstenplatz" - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Erneute Beteiligung zur 18. Änderung des Regionalplanes Düsseldorf (Änderung der Festlegungen zu Windenergieanlagen) - Entgegennahme ohne Beschluss
+- TOP 11.2: Stadtentwässerung - Maßnahmenkatalog 2026/Katalogentwurf 2027 - ungeändert beschlossen
+- TOP 11.3: Ethikrichtlinie „Charta Digitale Ethik“ der Stadt Wuppertal für den Umgang mit Künstlicher Intelligenz (KI) - ungeändert beschlossen
+- TOP 11.4: Anmeldeverfahren an weiterführenden Schulen - ungeändert beschlossen
+- TOP 11.5: Temporäres Ersatzquartier für die Jahrgänge 5 und 6 der Realschule Leimbach auf einer Teilfläche des Carnaper Platzes - ungeändert beschlossen
+- TOP 11.6: Ersteinrichtung offener Ganztag - ungeändert beschlossen
+- TOP 11.7: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - ungeändert beschlossen
+- TOP 11.8: Zugerweiterung an der Erich-Fried-Gesamtschule, An der Blutfinke 70, 42369 Wuppertal - ungeändert beschlossen
+- TOP 11.9: Zwischenbericht Schulentwicklungsplanung - Entgegennahme ohne Beschluss
+- TOP 11.10: Festlegung der Schulform: Errichtung einer neuen weiterführenden Schule im Stadtbezirk Oberbarmen - ungeändert beschlossen
+- TOP 11.11: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen - geändert beschlossen
+- TOP 11.11.1: Machbarkeitsprüfungen für Schulraumerweiterungen und Schulsporthallen, VO 0463/25 - ungeändert beschlossen
+- TOP 11.12: Schulbauoffensive 2035 "Wuppertal baut Bildung" - geändert beschlossen
+- TOP 11.12.1: Ergänzungsantrag zu TOP 6.14 - Schulbauoffensive 2035 "Wuppertal baut Bildung" (VO/0476/25) - geändert beschlossen
+- TOP 11.13: ISEK Vohwinkel - Vergabe und Planung zentraler öffentlicher Räume des Stationsgartens, Lienhardplatzes und Bahnhofsvorplatzes - ungeändert beschlossen
+- TOP 11.14: „Wuppertaler Klimagipfel“ – Klimafreundlicher Grünraumverbund im Wuppertaler Norden - ungeändert beschlossen
+- TOP 11.15: Quartalsbericht I/2025 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.16: Direkter Beitritt zu der „Einkaufsgenossenschaft ProVitako e.G.“ - ungeändert beschlossen
+- TOP 11.17: Rettungsdienstbedarfsplan der Stadt Wuppertal 2025 - ungeändert beschlossen
+- TOP 11.18: Sachstand zum Konzept öffentliche Toiletten - Entgegennahme ohne Beschluss
+- TOP 11.19: Sonntagsöffnung ab 1. August 2025 an den Bibliotheksstandorten BIB@BOB, Barmen und Vohwinkel - Entgegennahme ohne Beschluss
+- TOP 11.20: ISEK Elberfeld - Gestaltungssatzung Innenstadt Elberfeld - Durchführungsbeschluss Ausschreibung vorbereitende Leistungen und Gestaltungshandbuch - ungeändert beschlossen
+- TOP 11.21: Vermarktung der Wuppertaler Zoosäle in einem zweistufigen Investorenauswahlverfahren - Entgegennahme ohne Beschluss
+- TOP 11.22: Aktualisierte Fassung der Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4 - geändert beschlossen
+- TOP 11.22.1: Fortschreibung des Lärmaktionsplanes Wuppertal der Runde 4 - abgelehnt
+- TOP 11.22.2: Änderungsantrag Lärmaktionsplan der Runde 4 - abgelehnt
+- TOP 11.22.3: Änderungsantrag der SPD-Fraktion zu VO/0672/25 "Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4" - ungeändert beschlossen
+- TOP 11.23: 5. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 11.24: Grundsatzbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 11.25: Neubau einer Maßregelvollzugsklinik an der Parkstraße - Entgegennahme ohne Beschluss
+- TOP 11.26: Betriebskostenzuschüsse 2025 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 11.27: Umsetzung des Ratsauftrages zur Verbesserung der Zusammenarbeit zwischen Wirtschaft und Verwaltung -2. Zwischenbericht über den Stand der Umsetzung- - Entgegennahme ohne Beschluss
+- TOP 11.28: Unterstützung eines privaten Investitionsvorhabens zum Bau und Betrieb einer zirkularen Multifunktionsarena – Wo Kreislaufwirtschaft auf Publikum trifft! - ungeändert beschlossen
+- TOP 11.29: Ladeinfrastrukturkonzept - ungeändert beschlossen
+- TOP 11.30: Dienstanweisung des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 11.31: Neubau der Tageseinrichtungen für Kinder Grafenstraße und Leibuschstraße – hier: Änderung der bisherigen Beschlüsse (VO/0911/23 und VO/0912/23) zu Gunsten der Träger der freien Jugendhilfe - ungeändert beschlossen
+- TOP 11.32: Abschluss einer Schiedsvereinbarung zur Rückgabe von NS-Raubgut aus öffentlichen Sammlungen - ungeändert beschlossen
+- TOP 11.33: Verhandlungen zur Umnutzung der ehemaligen Kaufhof-Immobilie - ungeändert beschlossen
+- TOP 11.34: Vorgehen zur Einrichtung einer Jugendberufsagentur (JBA) - ungeändert beschlossen
+- TOP 11.35: Errichtung einer Ersatztoilette für den Berliner Platz - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienumbesetzung Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 12.2: Wahl der Mitglieder des Integrationsgremiums gemäß der Novellierung des § 27 GO NRW - Politische Teilhabe von Menschen mit Einwanderungsgeschichte - ungeändert beschlossen
+- TOP 12.3: Umbesetzung im Rechnungsprüfungsausschuss - ungeändert beschlossen
