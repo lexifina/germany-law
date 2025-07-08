@@ -1,0 +1,126 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-07-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8642094
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8642094
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Tempo 30 im Bereich Heimeranstrasse bis zur Ganghoferstraße und die Ganghoferstraße bis zur Ridlerstrasse
+- TOP 4.2.: Christbaumverkauf und Christbaumentsorgung am Georg-Freundorfer-Platz einstellen
+- TOP 4.3.: Sanierung Hauptzollamt - Ateliers für Künstler*innen in München
+- TOP 4.4.: Freischankfläche Holzapfelstraße 1
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Gollierstraße 4
+- TOP 6.1.2.: Freischankfläche Tulbeckstraße 13
+- TOP 6.1.3.: Freischankfläche Parkstraße 1
+- TOP 6.1.4.: Freischankfläche Westendstraße 140
+- TOP 6.1.5.: Freischankfläche Tulbeckstraße 52
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Heimeranstraße 51
+- TOP 6.2.2.: Bauvorhaben Guldeinstraße 52
+- TOP 6.2.3.: Bauvorhaben Kazmairstraße 24
+- TOP 6.2.4.: Bauvorhaben Landsberger Straße 70
+- TOP 6.2.5.: Bauvorhaben Westendstraße 136
+- TOP 6.2.6.: Bauvorhaben Holzapfelstraße 2
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Bauvorhaben Ligsalzstraße 25 (Wiedervorlage - zuletzt in Sitzung 04.2025 behandelt)
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Ausübung Vorkaufsrecht Westendstraße
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Bildungsbauoffensive – Sachstandsbericht 2025
+- TOP 7.2.2.: Graffitiworkshop am Max-Hirschberg-Weg
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Preisanstieg und Wegfall des reinen Hallenbad-Tickets im Westbad
+- TOP 7.3.2.: Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.3.3.: Errichtung einer Ruhebank vor dem Friseurgeschäft Alter Messeplatz 10
+- TOP 7.3.4.: Bessere Betreuung von Gewaltopfer sicherstellen - Antwort
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Straßenfest "West and Hell"; Westendstraße 15-21 am 26.07.2025
+- TOP 8.2.2.: Gollierstraßenfest, Gollierstraße 56 am 09.08.2025
+- TOP 8.2.3.: Sommer- und Abschlussfest des Kindergarten Rumpelpilz am Georg-Freundorfer-Platz am 02.08.2025
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Barthstraße am 28.05.2025
+- TOP 8.3.2.: Versammlung Schießstättstraße 14 am 13.06.2025
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Mehr große Straßenbäume im Westend
+- TOP 9.1.2.: (E) Mehr blühende Pflanzen und Sträucher
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Anbringen von Bremsschwellen zur Verkehrsberuhigung Verbesserung der Verkehrsübersicht durch Fahrradabstellplätze an Grundstücks- und Garagenausfahrten
+- TOP 9.3.2.: Verbesserung der Sichtbeziehungen am Fußgängerüberweg Ganghoferstr. / Anglerstr. durch bauliche Maßnahmen
+- TOP 9.3.3.: Nachbarschaftsviertel - Konsequenzen der Umgestaltung und Parkraum für die Anwohner
+- TOP 9.3.4.: Beschilderung Feuerwehrzufahrt Am Bavariapark16
+- TOP 9.3.5.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.6.: Fahrradstellplätze Schießstättstr. 2 - Antwort
+- TOP 9.3.7.: Wieder Kahlschlag am Rande des Bavariaparks; Baumfällungen Grundstück Parkwärterhaus Theresienhöhe 22
+- TOP 9.3.7.1: Wieder Kahlschlag am Rande des Bavariaparks; Baumfällungen Grundstück Parkwärterhaus Theresienhöhe 22
+- TOP 9.3.8.: Umwandlung eines Kfz-Stellplatzes in Fahrradstellplätze an der August-Kühn-Straße 10
+- TOP 9.3.8.1: Fahrradstellplätze August-Kühn-Straße
+- TOP 9.3.9.: Ladezone Hans-Fischer-Straße 9
+- TOP 9.3.10.: Stellflächen für Shared-Mobility-Angebote - Informationsschreiben
+- TOP 9.3.11.: Erneuerung der Tischplatten und Sitzplätze am Gollierplatz Ecke Bergmannstraße
+- TOP 9.3.12.: Seismik-Messungen für die Geothermie
+- TOP 9.3.13.: Überwachung des Durchfahrtverbots an der Trappentreustraße
+- TOP 9.3.13.1: Überwachung des Durchfahrtverbots an der Trappentreustraße - Antwort
+- TOP 9.3.14.: Novellierung der Straßenverkehrsordnung; Anordnung von Tempo 30 in der gesamten Ganghoferstraße
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025 1.600,00€; Az. 0262.0-8-0452
+- TOP 10.1.2.: (E) Stadtbezirksbudget Initiative "Strandkorb. Laden für neue Perspektiven." These boots are made for walking, Song & Swing mit Titus Waldenfels und Petra Lewi am 09.10.2025 620,00€; Az. 0262.0-8-0451
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. "Guitars come together" Guitars come together: Bob Dylan Special in Zusammenarbeit mit Kino, Mond & Sterne am 03.08.2025 1.000,00€; Az. 0262.0-8-0454
+- TOP 10.2: Anhörungen
+- TOP 10.2.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 - 2024
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.1.1.: (E) Maßnahmen gegen die Taubenplage in der Schwanthalerhöhe
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: BA-Satzung; verkehrsrechtliche Anordnungen und baulichen Maßnahmen aus Foren und Plattformen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Save-the-date; Austausch mit der dritten Bürgermeisterin am 26.01.2026
+- TOP 12.3.2.: Ratsinformationssystem; hier: Statusänderung der Dokumente, Tagesordnungen und Protokolle aus den vergangenen Wahlperioden sowie Überprüfung und Anpassung der aktuellen Wahlperiode
+- TOP 12.3.3.: Informationsschreiben zum Umgang mit Sitzungsstörungen
+- TOP 12.3.4.: Antrag BA17: Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen
+- TOP 12.3.5.: Hinweisschild Weiße Rose an der SWM-Trafostation der Bergmannschule - Zwischennachricht
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.2.4.: "Sommerfest Die Linke München" auf dem Georg-Freundorfer-Platz am 09.08.25
+- TOP 6.1.6.: Parklet Kazmairstraße 39
+- TOP 7.3.5.: Informationsveranstaltung des Sozialreferates vom 23.06.2025 - Präsentationen
+- TOP 9.2.1.: Fahrradabstellanlage an der Schießstättstraße 30
+- TOP 9.3.15.: Baustellenbedingte Fahrplanänderung Theresienwiese - Laimer Platz (U-Bahn U4/U5)
+- TOP 10.3.1.: Übersicht der Zuschussanträge des Stadtbezirksbudget vom 2. Quartal 2025
+- TOP 4.5.: Verkehrsberuhigung Gollierplatz - Durchfahrten Stöpsel Trappentreustraße
+- TOP 4.6.: Einrichtung eines Fußgängerüberwegs über die Trappentreustraße nördlich des Gollierplatzes Pilotprojekt zur automatisierten Durchfahrtskontrolle („Durchfahrtblitzer“) an der Trappentreustraße (sog. „Stöpsel“) zur Einhaltung der Bus-/Taxi-Regelung
+- TOP 8.2.5.: Spendenlauf des Theresien-Gymnasiums im Bavariapark am 28.07.2025
+- TOP 9.3.16.: Informationsveranstaltung zum Klimaquartier Parkstraße am 23.07.25 im Verkehrszentrum
+- TOP 8.3.3.: Versammlungen Schießstättstraße 14 am 05.07., 11.07. und 26.07.2025
+- TOP 3.1.: Eröffnung des Ankunftszentrums in der Garmischer Straße 2 – 12 am 21.07.2025
+- TOP 7.3.6.: Checkliste Barrierefreie Veranstaltungen
+- TOP 2.1.: Gottesdienst im Bavariapark am 27.07.2025
+- TOP 2.2.: Oktoberfestreservierung 2025; Ersatztermin am 05.10.2025 ab 12 Uhr
+- TOP 2.3.: Projektförderung „Westend Kultur Grube“
