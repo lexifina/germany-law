@@ -1,0 +1,63 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2025-07-08T18:00:00+02:00
+- Ende: 2025-07-08T22:30:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWvtNXjSBidmZfYEYVU-ies
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6264
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZadg68pjvPRW3JseVzk9Myms_VbjA1mZqL9V2B2t6d3r/Einladung_Rat_08.07.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT3aYOkKzAYdFNMESQXzBJP5dBuBaIRPnU0ly60x-NbB/Oeffentliche_Niederschrift_Rat_08.07.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Sachstand Kommunale Wärmeplanung
+- TOP 7.: Beratung und Beschlussfassung über den Entwurf der Nachtragshaushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2025 mit ihren Anlagen
+- TOP 7.1.: Einwendungen gegen den Entwurf der Nachtragssatzung zur Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2025 mit ihren Anlagen
+- TOP 7.2.: Antrag der SPD-Fraktion: Einrichtung einer weiteren Stelle für Sachbearbeitung Fördermittelmanagement „Förderscout“ - 18 Ja-Stimmen, 21 Nein-Stimmen, 0 EnthaltungenDer Antrag ist somit abgelehnt.
+- TOP 7.3.: Antrag der SPD-Fraktion: Ergänzung der Hauptsatzung/Gewährung einer Aufwandsentschädigung für sämtliche Ausschussvorsitzende als Sitzungsgeld - 17 Ja-Stimmen, 21 Nein-Stimmen, 1 EnthaltungDer Antrag ist somit abgelehnt.
+- TOP 7.4.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung einer außerplanmäßigen Ausgabe - Einstimmig, 2 Enthaltungen
+- TOP 7.5.: Antrag der Fraktionen CDU und B90/Die Grünen: Grundsteuerreform: Herstellung der Aufkommensneutralität der Grundsteuer durch Senkung der Hebesätze
+- TOP 7.5.1.: 1. Änderungssatzung zur Hebesatzsatzung 2024/2025; hier: Rückwirkende Änderung der Hebesatzsatzung zum Stichtag 01.01.2025 - 23 Ja-Stimmen, 16 Nein-Stimmen, 0 Enthaltungen
+- TOP 7.6.: Änderungsantrag zur Nachtragshaushaltssatzung der SPD-Fraktion: Fördermittel für die Vereine erhalten - Einstimmig, 0 Enthaltungen
+- TOP 7.7.: Anfragen der Fraktion WIR/FWW zum Nachtragshaushalt
+- TOP 7.8.: 1. Veränderungsnachweis und Feststellung der Budgets
+- TOP 7.9.: Leitentscheidungen
+- TOP 7.10.: Beschlussfassung zur Nachtragshaushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2025
+- TOP 8.: Haushaltswirtschaft im Haushaltsjahr 2024 Bereitstellung einer außerplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 9.: Befreiung von der Aufstellung des Gesamtabschlusses 2024 - 36 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 10.: Beteiligungsbericht der Stadt Wesseling für das Berichtsjahr 2018 - Einstimmig, 0 Enthaltungen
+- TOP 11.: 8. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule in der Primarstufe der Schulen der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 12.: 3. Änderungssatzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Wesseling in der Fassung vom 22. Februar 2024 (Straßenreinigungs- und Gebührensatzung) - Einstimmig, 0 Enthaltungen
+- TOP 13.: Satzung der Stadt Wesseling über die Förderung von Kindern in der Kindertagespflege - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bildungspark Urfeld; Vorbereitende Maßnahmen und Erschließung des Grundstücks; hier: Bereitstellung von zusätzlichen Haushaltsmitteln - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 1/143 „Störfallrecht – Vorgebirgsstraße“ hier: Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Einrichtung einer neuen Busverbindung nach Bornheim-Sechtem Bhf. zum Fahrplanwechsel 2025/2026 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Energie- und Klimapolitisches Leitbild für die Stadt Wesseling
+- TOP 17.1.: Antrag aller Fraktionen des Rates der Stadt Wesseling: Beschlussvorschlag zu Vorlage Nr. 243/2024 - Energie- und Klimapolitisches Leitbild - Einstimmig, 0 Enthaltungen
+- TOP 18.: Ausübung der vertraglich vereinbarten letztmaligen Verlängerung hinsichtlich der bestehenden Entsorgungsdienstleistungsverträge - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bestellung und Entsendung von Vertretungen der Stadt Wesseling in externe Gremien - Einstimmig, 0 Enthaltungen
+- TOP 20.: Antrag der Fraktionen CDU und B90/Die Grünen: Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid "Lachgas" an Minderjährige in Wesseling
+- TOP 21.: Antrag der Fraktionen CDU und B90/Die Grünen: Igel vor Mährobotern schützen – Fahrzeiten regulieren
+- TOP 21.1.: Ergänzungsantrag der Fraktionen CDU und B90/Die Grünen zu Vorlage 141/2025: Igel vor Mährobotern schützen – Fahrzeiten regulieren - Einstimmig, 1 Enthaltung
+- TOP 21.2.: Änderungsantrag der SPD-Fraktion: Zum Antrag der Fraktionen CDU und B90/Die Grünen „Igel vor Mährobotern schützen – Fahrzeiten regulieren“
+- TOP 22.: Antrag der Fraktion CDU und B90/Die Grünen: Sponsoring in Wesseling "Wesseling zieh mit" - Einstimmig, 0 Enthaltungen
+- TOP 23.: Antrag der Fraktion B90/Die Grünen: Umbesetzung von Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 24.: Antrag der SPD-Fraktion: Vorsitz und 2. stv. Vorsitz im Ausschuss für Sport, Freizeit, Kultur und Partnerschaften
+- TOP 25.: 75. Änderung des Flächennutzungsplanes "Nördliche Kölner Straße" hier: Beitrittsbeschluss - 33 Ja-Stimmen, 2 Nein-Stimmen, 2 Enthaltungen
+- TOP 26.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Einstellung eines Beamten als Leiter des Amt -37 / Feuerwehr und Rettungswesen- - Einstimmig, 0 Enthaltungen
+- TOP 2.: Antrag der Fraktionen CDU und B90/Die Grünen: Entzug aller Ehrenzeichen (Ehrenring) der Stadt Wesseling - 21 Ja-Stimmen, 17 Nein-Stimmen, 0 EnthaltungenDa die notwendige Mehrheit von 2/3 der gesetzlichen Zahl der Mitglieder nicht erreicht wurde, ist der Antrag abgelehnt.
+- TOP 3.: Sachstandsbericht zu einem Grundstücksgeschäft in Wesseling-Mitte
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 5.: Presseveröffentlichungen
