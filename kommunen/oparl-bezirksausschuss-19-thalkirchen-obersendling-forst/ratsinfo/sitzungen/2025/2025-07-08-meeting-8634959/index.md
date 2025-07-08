@@ -1,0 +1,79 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-07-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8634959
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8634959
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 03.06.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (A) Satzungsänderung: Anhörungsrecht bei Vorschlägen von Foren oder Plattformen
+- TOP 2.4.: Demokratiemobil zur Kommunalwahl im 19. Stadtbezirk
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025 1.600,00€; Az. 0262.0-19-0586
+- TOP 3.3.: (E) Stadtbezirksbudget Ensemble La Vie e.V. Kill You! Theaterstück zur Suchtprävention -Spielsucht /Neuen Medien vom 01.08. -30.12.2025 3.205,00€; Az. 0262.0-19-0589
+- TOP 3.4.: (E) Stadtbezirksbudget Elterninitiative Villa Kinderbunt e.V. Neues Spielgerät für den Garten ab 08.07.2025 8.427,69€; Az. 0262.0-19-0588
+- TOP 3.5.: (E) Stadtbezirksbudget TSV München Solln e.V. „Festinstallierte Basketballkörbe vom 23.06.2025 - 31.07.2025“ 6.539,17 € / AZ: 0262.0-19-0591
+- TOP 3.6.: (E) Stadtbezirksbudget Evang. Luth. Kirchengemeinde München-Solln Schöpfungswochen -Sommerkonzert Haydn am 12.07.2025 7.300,00€; Az. 0262.0-19-0590
+- TOP 3.7.: (E) Stadtbezirksbudget Deutscher Touring Kajak Club München 1912 e.V. „Jugend- und Familienförderung durch Kajakausrüstung mit Fokus auf Frauen und Kinder vom 01.06. -30.10.2025“ 2.400,00 € / AZ: 0262.0-19-0587
+- TOP 3.8.: (Antrag) Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 3.9.: (E) Stadtbezirksbudget Init. "Qonzept" Musterbezirk Streetart und Graffiti vom 15.07. -30.09.2025 562,50€; Az. 0262.0-19-0593
+- TOP 3.10.: (A) Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Maßnahmen gegen nächtliche Lärmbelästigung durch Tonwiedergabegeräte im Isarbereich zwischen Tierparkbrücke und Flauchersteg
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Bürgersteig Sicherheit in der Georg-Strebl-Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Errichtung Kurzparkzone in der Maxhofstraße
+- TOP 5.4.: (Antrag) Errichtung von zwei geteilten Abstellflächen (GAF) in der Herterichstraße 137 und 156
+- TOP 5.5.: (Antrag) Optimierung der GAF-Abstellflächen an der Forstenrieder Allee 184
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Hatzelweg 21
+- TOP 6.2.2: -abgesetzt-
+- TOP 6.2.3: -abgesetzt-
+- TOP 6.2.4: Maisinger Platz 3 (VB)
+- TOP 6.2.5: Mühlthaler Straße 93b (VB)
+- TOP 6.2.6: Walsertalstraße 1 (T)
+- TOP 6.2.7: August-Zeune-Weg Flurnummer 243/0 (VB)
+- TOP 6.2.8: Hofmannstraße 61 (VB)
+- TOP 6.2.9: Reismühlenstraße 18a (VB)
+- TOP 6.2.10: Ziehrerstraße 5 (VB)
+- TOP 6.2.11: Sallerweg 15
+- TOP 6.2.12: Scherzerstraße 1 (T)
+- TOP 6.2.13: Hofmannstraße 22 (T)
+- TOP 6.2.14: Peretshofener Straße 5
+- TOP 6.2.15: Heilmaierstraße 36
+- TOP 6.2.16: -abgesetzt-
+- TOP 6.2.17: Glötzleweg 23
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Sportliche Betätigung im Stadtbezirk erhalten
+- TOP 7.1.2: Kindergarten Lollipop – Priorisierung der betroffenen Kinder
+- TOP 7.2.: (A) Bildungsbauoffensive – Sachstandsbericht 2025
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Waakirchner Straße 33
+- TOP 8.3.: Musterbezirk Streetart und Graffiti, Grundlagenermittlung
+- TOP 8.4.: (Antrag) Erhalt der Gaststätte „Da Antonio“ in der Baseler Straße
+- TOP 8.5.: (U) Gaststättenfortführung: Kistlerhofstraße 111
+- TOP 9: Verschiedenes
+- TOP 3.11.: (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V Forstenrieder Dorffest vom 13.09 - 14.09.2025 4.564,50 €; A.z: 0262.0-19-0592
