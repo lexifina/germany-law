@@ -1,0 +1,53 @@
+# Sitzung des Rates der Stadt Aachen - Bitte beachten Sie, dass der Ratssaal nach derzeitigem Stand nicht barrierefrei erreicht werden kann!
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-07-09T17:00:00+02:00
+- Ende: 2025-07-09T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000108
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000108
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1433504&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Jugendbeteiligung stärken - Vorbereitung auf die Neuregelung des § 27a GO NRW - zur Kenntnis genommen
+- TOP 4: Einführung einer Beherbergungsabgabe in Aachen und Erlass einer Beherbergungsabgabesatzung in Aachen - geändert beschlossen
+- TOP 5: Neufassung der Vergnügungssteuersatzung in Aachen - ungeändert beschlossen
+- TOP 6: Östliche Innenstadt: Abschlussbericht vorbereitende Untersuchungen (VU) nach § 141 Baugesetzbuch mit Handlungsprogramm, weiteres Vorgehen - geändert beschlossen
+- TOP 7: 3. Änderung des Landesentwicklungsplanes Nordrhein-Westfalen (LEP NRW) für eine nachhaltigere Flächennutzung; hier: Stellungnahme der Stadt Aachen im Rahmen der Beteiligung gemäß § 13 Landesplanungsgesetz und § 9 Raumordnungsgesetz - ungeändert beschlossen
+- TOP 8: Kommunaler Wärmeplan: Bericht über das Ergebnis der Beteiligungen nach § 13 Abs. 4 WPG, Beschluss des Wärmeplans gemäß §13 Abs. 5 i.V.m § 23 WPG - ungeändert beschlossen
+- TOP 9: Weiterentwicklung des Bushofs: Vorstellung der Projektidee KRAFTWERK - ungeändert beschlossen
+- TOP 10: Gründung der Regiotram Aachen Infrastrukturgesellschaft mbH - ungeändert beschlossen
+- TOP 11: Vertrag mit der Verbraucherzentrale NRW zur Finanzierung der Energieberatung in Aachen für die Jahre 2026 bis 2030 - ungeändert beschlossen
+- TOP 12: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen; Haushaltsjahr 2025; Produkt 080102 - Sportplätze und Stadien, Produkt 090101 - Neubau Feuerwache Siegel, Wettbewerb Maßnahmen im Rahmen der Brandschutz- und Rettungsdienstbedarfsplanung; Planungsauftrag Feuer- und Rettungswache Siegel; Neubau Sportplatz Siegel und Freifläche mit öffentlichen Sportflächen - ungeändert beschlossen
+- TOP 13: Baumaßnahme KGS Auf der Hörn - überplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 14: 7. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung)
+- TOP 14.1: 7. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) - vertagt
+- TOP 15: Satzung über die Erhebung von Beiträgen nach § 8 KAG NRW für den Ausbau der Kreuzherrenstraße als verkehrsberuhigten Bereich (Mischfläche) - ungeändert beschlossen
+- TOP 16: Vorhabenbezogener Bebauungsplan Nr. 994 - Raafstraße / Sanddornweg - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - vertagt
+- TOP 17: Austritt aus dem Metropolregion Rheinland e.V.“ (interfraktioneller Ratsantrag 470/18 vom 26.02.2025) - ungeändert beschlossen
+- TOP 18: Anfragen:
+- TOP 18.1: Ratsanfragen
+- TOP 18.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 19: Ratsanträge - ungeändert beschlossen
+- TOP 20: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 20.1: Umbesetzung in Ausschüssen und anderen Gremien, hier: Entsendung eines Mitglieds des Senior*Innenrates der Stadt Aachen - ungeändert beschlossen
+- TOP 21: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.1: nicht öffentlicher Tagesordnungspunkt
