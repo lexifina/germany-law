@@ -1,0 +1,6 @@
+# TOP 1.: Vorstellung abgeschlossener wissenschaftlicher Arbeiten im Bereich Fernerkundung und Drohnenvermessung der Uni Tübingen
+
+- Sitzung: Technischer Ausschuss (8. Sitzung) (2025-07-09)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/65546
