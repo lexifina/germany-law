@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2025-07-09T15:00:00+02:00
+- Ende: 2025-07-09T17:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7856
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7856
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00252789.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00252789.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00252789.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 12.05.2025 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Verleihung Heimat-Preis 2025 der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 3: Jahresrechnung 2024 - Einstimmiger Beschluss
+- TOP 4: Interkommunaler emissionsfreier Busbetriebshof (IEB) der NEW mobil & aktiv Gesellschaften auf dem Gelände der ehemaligen Nierrheinkaserne - Einstimmiger Beschluss
+- TOP 5: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (2. Nachweisung) - Kenntnisnahme
+- TOP 6: Bereitstellung überplanmäßiger Haushaltsmittel 2025 im Bereich der Schulbegleitung behinderter Kinder - Einstimmiger Beschluss
+- TOP 7: Antrag Entschuldung Verbindlichkeiten zur Liquiditätssicherung ("Altschuldenlösung NRW") - Einstimmiger Beschluss
+- TOP 8: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2024 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 9: Entlastung der Sparkassenorgane für das Geschäftsjahr 2024 - Einstimmiger Beschluss
+- TOP 10: Beteiligung der WFMG an der Digital lnnovation Hub Düsseldorf/Rheinland hier: Fortführung des Engagements in der vierten Förderphase - Einstimmiger Beschluss
+- TOP 11: Beteiligung über die NEW Kommunalholding GmbH, die NEW AG und die NEW Netz GmbH an der neu gegründeten - Von Verwaltung zurückgezogen
+- TOP 12: Ausschüttungsverzicht für den Betrieb gewerblicher Art (BGA) Verpachtung von Wohnungen - Einstimmiger Beschluss
+- TOP 13: Genehmigung der Wiederbestellung eines Vorstandsmitgliedes der Stadtsparkasse Mönchengladbach - Einstimmiger Beschluss
+- TOP 14: Sonntagsöffnungen von Kiosken: Rechtslage modernisieren; Hier: Gemeinsamer Fraktionsantrag von SPD, GRÜNE und DIE LINKE vom 06.06.2025 - Mit Stimmenmehrheit beschlossen
+- TOP 14.1: Stärkung der Kioskkultur in Mönchengladbach – praxisnahe Umsetzung des Ladenöffnungsgesetzes und Initiative zur Überarbeitung der Warengruppen; Hier: gem. Fraktionsantrag von CDU und FDP vom 24.06.2025 - Vom Antragsteller zurückgezogen
+- TOP 15: Aufstockung des Kommunalen Ordnungsdienstes auf 55 Stellen; Hier: CDU-Fraktionsantrag vom 23.06.2025 - Mit Stimmenmehrheit abgelehnt
+- TOP 15.1: Antrag zu Vorlage 4226/X: „Aufstockung des Kommunalen Ordnungsdienstes auf 55 Stellen“ - Vom Antragsteller zurückgezogen
+- TOP 16: Ordnungsbehördliche Verordnung über das Verbot des Verkaufs sowie der Ab- und Weitergabe von Distickstoffmonoxid „Lachgas“ an Minderjährige im Stadtgebiet Mönchengladbach - Einstimmiger Beschluss
+- TOP 16.1: Zum Fraktionsantrag 4232/X - Vom Antragsteller zurückgezogen
+- TOP 17: Wiederwahl der Schiedsfrau Trippen für den Schiedsamtsbezirk Mönchengladbach-West/2 (Wickrath) - Einstimmiger Beschluss
+- TOP 18: Umwandlung der Katholischen Grundschule Anton-Heinen in eine Gemeinschaftsgrundschule - Einstimmiger Beschluss
+- TOP 19: Schulentwicklungsplan 8 - sonderpädagogische Förderung - Mit Stimmenmehrheit beschlossen
+- TOP 20: Neue Kooperationsvereinbarung für offene Ganztagsschulen - Einstimmiger Beschluss
+- TOP 21: Kommunale Modellvorhaben zur Umsetzung der ökologischen Nachhaltigkeitsziele in Strukturwandelregionen (KoMoNa) - Einstimmiger Beschluss
+- TOP 22: Erster Nachtrag zur Satzung für den Seniorenrat der Stadt Mönchengladbach und Wahlordnung für die Wahl der stimmberechtigten Mitglieder des Seniorenrates der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 23: Abschlussbericht über die vorbereitenden Untersuchungen nach § 141 BauGB für den Bereich „Obere Hindenburgstraße/Waldhausener Straße“ und Satzung über die förmliche Festlegung des Sanierungsgebietes Obere Hindenburgstraße / Waldhausener Straße - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Abschlussbericht über die vorbereitenden Untersuchungen nach § 141 BauGB für den Bereich „Rheydt Zentrum“ und Satzung über die förmliche Festlegung des Sanierungsgebietes „Rheydt Zentrum" - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 25: Handlungskonzept Klimafolgenanpassung, Teil Hitze (H-KFA Hitze) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 26: Interkommunale Entwicklung des GIB "Industriepark Elsbachtal-Ost" - Mit Stimmenmehrheit beschlossen
+- TOP 27: Änderung der Amtsbezeichnung der Vorsitzenden der Bezirksvertretungen in "Bezirksbürgermeister" bzw. "Bezirksbürgermeisterin" - Mit Stimmenmehrheit beschlossen
+- TOP 28: Stadttaubenmanagement - Mit Stimmenmehrheit beschlossen
+- TOP 29: Nachbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 30: Umbesetzungen von Gremien - Einstimmiger Beschluss
+- TOP 31: Förderung der 1. Community-Ehemalige Heimkinder NRW & Queers an der Niers - Mit Stimmenmehrheit beschlossen
+- TOP 32: Anfragen und Mitteilungen
+- TOP 32.1: Anfrage Ratsherr Gutowski (FDP) zur Möbelneubeschaffung
+- TOP 32.2: Anfrage Ratsherr Gutowski (FDP) zur Jagd auf Nutrias und Wasservögel
+- TOP 32.3: Anfrage Ratsherr Stein (CDU) zum Tagestreff für Obdach- und Wohnungslose
+- TOP 32.4: Anfrage Ratsherr Spinnen (CDU) zur Geschwindigkeitsüberwachung an Feiertagen
+- TOP 32.5: Anfrage Ratsfrau Heinen-Dauber (CDU) zum Schulschwimmen
