@@ -1,0 +1,101 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-07-09T17:00:00+02:00
+- Ende: 2025-07-09T20:21:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7018
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7018
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=573459
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 44. Sitzung der BVV am 09.07.2025 - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 44. Sitzung der BVV am 09.07.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Retroflektierende Zeichen 222-20 StVO an Fußgängerschutzinseln - beantwortet
+- TOP 3.2: Elternhaltestellen in der Straße Am Dachsbau für die Ellef-Ringnes-Grundschule in Heiligensee - beantwortet
+- TOP 3.3: Residenzstraße und umgebende Siedlungen: Die sozio-strukturelle Situation und die betriebswirtschaftliche Lage vieler ansässiger Gewerbetreibender sind schon vor dem Start des staatlich geförderten "Integriertes städtebauliches Entwicklungskonzept ISEK" (2014) und seitdem fortdauernd, also seit vielen Jahren im allmählichen Niedergang. Parallel bewirkte die Verkehrsbelastung die inakzeptable Überlastung der nicht für sie gebauten Straße. Dennoch verharrt das Projekt weiter in der Planungsphase. - beantwortet
+- TOP 3.4: Zukunft des Geländes der ehemaligen Ka-Bo-N - beantwortet
+- TOP 3.5: Umgestaltung der Ollenhauer Str. - beantwortet
+- TOP 3.6: Gesperrter Schulweg nach dem Sturm - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 44. Sitzung der BVV am 09.07.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Obdachlosenunterkunft Ernstraße - beantwortet
+- TOP 5.2: Schadstoffe an der Münchhausen-Grundschule - beantwortet
+- TOP 5.3: Filiale der Münchhausen-Grundschule - beantwortet
+- TOP 5.4: Unhaltbare Zustände an der Münchhausen-Grundschule - beantwortet
+- TOP 5.5: Regenbogenfahne und der "Treppenwitz" des Bezirksamtes - beantwortet
+- TOP 5.6: Umgang mit Kindeswohlgefährdung in ASOG-Unterkünften in Reinickendorf - beantwortet
+- TOP 5.7: Aktueller Stand Märkisches Quartier - beantwortet
+- TOP 5.8: Bauplanungsstand Roedernallee 184 - in der BVV abgelehnt
+- TOP 5.9: Aktueller Stand Arcadia an der Hennigsdorfer Straße - in der BVV abgelehnt
+- TOP 5.10: Hat die Renee-Sintenis-Grundschule zum neuen Schuljahr wieder eine Turnhalle? - in der BVV abgelehnt
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Junge Menschen in Pflegefamilien - Kinderrechte stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Maßnahmen zum Hitzeschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Anwohnerfest in der Heinsestraße unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Anwohnerfest in der Heinsestraße unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Neugestaltung Knotenpunkt "Ruppiner Chaussee/Hennigsdorfer Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Granatenstraße: ruhenden und rollenden Verkehr neu ordnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Initiativrecht für das Kinder- und Jugendparlament - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Örtliche Abgrenzung der Wahlkreise in Reinickendorf für die Wahl zum Abgeordnetenhaus von Berlin 2026 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Bericht über die geplanten, eingewilligten und eingegangenen Verpflichtungen sowie über die daraus resultierenden Vorbindungen gemäß Auflagenbeschluss Nr. 1 zum Haushalt 2024/2025 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Bericht über die dem Bezirksamt im Haushaltsjahr 2024 zugegangenen privaten Zuwendungen - überwiesen
+- TOP 10.2: Wahl eines Patientenfürsprechenden für die Vitanas Klinik für Geriatrie Märkisches Viertel - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Soziale Angebote auf dem Franz-Neumann-Platz nachhaltig sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Wirtschaft stärken: Intensiver Austausch mit der Bundesverwaltung für Reinickendorfs Zukunft - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Supervision für Patientenfürsprechende - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Energetische Sanierungen - erledigt
+- TOP 11.5: Familienfreundlliche Toiletten - in der BVV abgelehnt
+- TOP 11.6: Instandsetzung des Rathaus-Parkplatzes (am ehemaligen Garagengebäude) - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Kein Podium für Erdogan - aber ein Platz für religiöse Vielfalt - überwiesen
+- TOP 11.8: Sondermittelantrag von Outlaw Kinder- und Jugendhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittelantrag des BFC Alemannia 1890 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittelantrag des Schenk doch mal ein Lächeln e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittelantrag vom P.A.N. Zentrum der Fürst-Donnersmarck-Stiftung - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittelantrag des Bildung und Gesellschaft e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Sondermittelantrag des Wassersport-Club Havel e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Sondermittelantrag des Fördervereins der Gustav-Dreyer-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Sondermittelantrag des Kajak-Club Nord-West 1925 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Sondermittelantrag der Kita St. Marien - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Sondermittelantrag des S.V. Berliner Bären e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Sondermittelantrag des SC Borsigwalde 1910 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Sondermittelantrag des DLRG Landesverband Berlin e.V. Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Sondermittelantrag des TSV Berlin Wittenau 1896 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Sondermittelantrag des Zeltlagerplatz e.V. Berlin-Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Sondermittelantrag der Strandbad Tegelsee gGmbH - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Sondermittelantrag des Fahrten-Segler Jörsfelde e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.24: Unterstützung bei der Suche nach einem alternativen Standort für Berliner Help Stiftung (Teen Challange) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Einwohnerversammlung zum Thema Schäfersee - überwiesen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Nutzung von Brunnenwasser zur Bewässerung bezirklicher Sportflächen - überwiesen
+- TOP 13.2: Fahrradparkhaus am S-Bahnhof Hermsdorf ausschildern - überwiesen
+- TOP 13.3: Entwicklung der Burgfrauenstraße - überwiesen
+- TOP 13.4: Einsatz von künstlicher Intelligenz (KI) in der Verwaltung - überwiesen
+- TOP 13.5: Verantwortungsvolle Beteiligung Reinickendorfs am Windkraftausbau in Berlin - überwiesen
+- TOP 13.6: Spritzenbox in der Lindauer Allee 36 anbringen - überwiesen
+- TOP 13.7: Amokalarm-Übungen an allen Schulen in bezirklicher Verantwortung verpflichtend einführen - überwiesen
+- TOP 13.8: Mehr Fahrradabstellmöglichkeiten am S-Bahnhof Schönholz - überwiesen
+- TOP 13.9: Spielplatz Lübars - überwiesen
+- TOP 13.10: Trinkwasser auf dem Sportplatz Hatzfeldallee - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Zusätzlicher Polizeiabschnitt für Reinickendorf für das Kurt-Schumacher-Quartier - überwiesen
+- TOP 14.2: Abbau der Telekomsäule am Borsigtor - überwiesen
+- TOP 14.3: Schnelle Anbindung in den Norden sichern - überwiesen
+- TOP 14.4: Berlinweit gültige Regelung für Videoaufnahmen auf Sportflächen - überwiesen
+- TOP 14.5: Soforthilfe des Landes Berlin für Unwetterschäden in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Hitzeschutz: Sofortmaßnahmen umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - in der BVV abgelehnt
