@@ -1,0 +1,66 @@
+# 38. öffentliche Sitzung des Ausschusses für Straßen und Verkehr
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2025-07-10T17:00:00+02:00
+- Ende: 2025-07-10T19:15:00+02:00
+- Ort: John-F.-Kennedy-Platz 1, 10825 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7943
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7943
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=473555
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung vorliegender Protokolle - im Ausschuss abgelehnt
+- TOP 3: Bericht aus der Verwaltung - im Ausschuss abgelehnt
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Änderung der Ampelschaltung an der Welserstraße Ecke Geisbergstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.2: Längere Grünphasen für Fußgänger_innen am Mariendorfer Damm/Glärnischweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Verlängerung der Grünphasen aller Fußgängerampeln am Attilaplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Größere Busse auf und kürzerer Takt der Linie 204 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5: Ampelschaltung vor der Havelland-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.6: Erneuerung und Pflege der Radwege in der Körtingstraße und im Hundsteinweg - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Längere Grünphase für die Fußgänger an der Badensche Straße Ecke Innsbrucker Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Neue Ampelschaltung an der Laubacher Straße Ecke Südwestkorso - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Änderung der Ampelschaltung in der Wiesbadener Straße Ecke Friedrich-Wilhelm-Platz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Änderung der Ampelschaltung am Mariendorfer Damm Ecke Kurfürstenstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Änderung der Ampelschaltung auf dem Lichtenrader Damm auf Höhe der Raabestraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Längere Grünphase für die Fußgänger_innen an der Ampel Kruckenbergstraße Ecke Mariendorfer Damm - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Längere Grünphasen für die Fußgänger_innen an der Kreuzung Martin-Luther-Straße Ecke Hohenstaufenstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Ampel für die Ecke Bülowstraße/Zietenstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Errichtung einer Ampel an der Prühßstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Errichtung einer vierten Ampelanlage an der Kreuzung Bahnhofstraße/Riedingerstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Errichtung einer Parkverbotszone an der Werbergstraße Ecke Germaniastraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Sichere Schulstraßen für die Bruno-H.-Bürgel-Grundschule - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Zebrastreifen vor der Mascha-Kaléko-Grundschule errichten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Errichtung eines Zebrastreifens auf der Eisenacher Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Sicherer Schulweg für die Schüler_innen der Gustav-Heinemann-Oberschule - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Errichtung eines Zebrastreifens an der Ecke Goßlerstraße/Stubenrauchstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Zebrastreifen auf der Cheruskerstraße Ecke Roßbachstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Verkehrssicherheit an der Kreuzung Rathausstraße/Königstraße erhöhen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Aus der Domnauer Straße eine Spielstraße machen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Ausbesserung des Fahrradweges am Tempelhofer Damm 104 bis 106 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Der Bus 204 muss öfter fahren - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Fahrradweg für die Gotenstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Einrichtung einer Ampelanlage bzw. Einrichtung längerer Grünphasen an bestehenden Ampelanlagen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Einrichtung eines Zebrastreifens - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Einrichtungen von Parkverbotszonen bzw. temporäres Einfahrtverbot - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge - (offen)
+- TOP 5.1: Stationsgebundenes Carsharing fair gestalten - vertagt
+- TOP 5.2: Gehwege sind für Fußgänger da! (II) - vertagt
+- TOP 5.3: Geänderte Verkehrsführung im Hossauerweg verstetigen - vertagt
+- TOP 5.4: Mehr Sicherheit für Fußgänger vor der „Bio-Insel“ in der Leberstraße - vertagt
+- TOP 5.5: Vergabeverfahren mit Konzessionierung für E-Scooter umsetzen - vertagt
+- TOP 5.6: Fahrradparkhaus am Bahnhof Südkreuz - vertagt
+- TOP 5.7: Mehr Sicherheit für Fahrgäste vor Bushaltestellen - vertagt
+- TOP 5.8: Akustik-Ampeln für Breslauer Platz und Attilaplatz - vertagt
+- TOP 5.9: Querungshilfe in der Säntisstraße - vertagt
+- TOP 6: Mitteilungen zur Kenntnisnahme <span style="color: #888a85" title="Zusatzinfo">(aus der BVV überwiesene Mitteilungen zur Kenntnisnahme)</span> - (offen)
+- TOP 6.1: Zwischen Stau und Raserei: Anwohner*innen der Großbeerenstraße entlasten! - vertagt
+- TOP 6.2: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Umgestaltung und Erweiterung des Friedrich-Wilhelm-Platzes – mehr Aufenthaltsqualität für alle! - vertagt
+- TOP 6.3: Dauerhafte Verkehrsberuhigung in der nördlichen Steinmetzstraße - vertagt
+- TOP 6.4: Mehr Transparenz bei der Umgestaltung von Flächen - vertagt
+- TOP 7: Verschiedenes - im Ausschuss abgelehnt
