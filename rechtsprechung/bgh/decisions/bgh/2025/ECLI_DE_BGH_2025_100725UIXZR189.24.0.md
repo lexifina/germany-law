@@ -1,0 +1,97 @@
+---
+ecli: "ECLI:DE:BGH:2025:100725UIXZR189.24.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "IX ZR 189/24"
+decided: "2025-07-10"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE720352025.xml"
+neuris_doknr: "KORE720352025"
+---
+
+# Bundesgerichtshof, IX ZR 189/24 vom 2025-07-10
+
+## Leitsatz
+
+1. Regressansprüche eines Gesellschafters aufgrund der Befriedigung eines Gesellschaftsgläubigers stellen wirtschaftlich einem Gesellschafterdarlehen gleichstehende Forderungen dar, ohne dass es insoweit - anders als bei einem Austauschgeschäft zwischen Gesellschaft und Gesellschafter - auf eine Stundung oder ein Stehenlassen der daraus folgenden Forderung des Gesellschafters gegen seine Gesellschaft ankäme.12
+
+2. Steht dem Gesellschafter im Rahmen eines mit seiner Gesellschaft abgeschlossenen Austauschgeschäfts ein Anspruch auf Erstattung von Auslagen zu, setzt eine Behandlung des Erstattungsanspruchs als wirtschaftlich einem Gesellschafterdarlehen gleichstehende Forderung voraus, dass der Gesellschafter die Forderung rechtlich oder faktisch gestundet hat.16 25
+
+## Tenor
+
+Auf die Revision des Beklagten wird das Urteil des 5. Zivilsenats des Oberlandesgerichts München vom 16. Januar 2024 unter Zurückweisung der weitergehenden Revision im Kostenpunkt und insoweit aufgehoben, als dieser zur Zahlung von mehr als 48.042,46 € nebst Zinsen an den Kläger verurteilt worden ist.
+
+Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Verfahrens vor dem Bundesgerichtshof, an das Berufungsgericht zurückverwiesen.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Auf Eigenantrag vom 21. November 2017 eröffnete das Insolvenzgericht am 13. April 2018 das Insolvenzverfahren über das Vermögen der A. GmbH (im Folgenden: Schuldnerin) und bestellte den Kläger zum Insolvenzverwalter. Der Beklagte war Gesellschafter und in der Zeit vom 19. Oktober 2012 bis zum 8. Juni 2016 auch Geschäftsführer der Schuldnerin.
+
+2 Soweit im Revisionsverfahren noch von Interesse, zahlte die Schuldnerin im Zeitraum vom 19. Januar 2017 bis zum 6. November 2017 von ihrem Konto in 18 Fällen in unterschiedlichen Beträgen insgesamt 6.914,12 € an den Beklagten. Der den Zahlungen zugeordnete Buchungstext lautet "Rückzahlung" oder nennt lediglich Vor- und Nachnamen des Beklagten. Dieser hat dazu behauptet, bei den drei Überweisungen vom 19. Januar 2017 über 550 €, vom 7. März 2017 über 430 € und vom 26. Juni 2017 über 360 € an ihn habe es sich um ausstehende Gehaltszahlungen (für 2015, für November 2016 und für Dezember 2016) gehandelt. Mit den übrigen Überweisungen von 15 Einzelbeträgen habe ihm die Schuldnerin von ihm für sie getätigte Auslagen erstattet. Der Kläger hat den Beklagten auf Erstattung dieser Zahlungen in Höhe von 6.914,12 € sowie auf Erstattung weiterer Zahlungen der Schuldnerin in Höhe von 46.702,46 €, insgesamt also auf Zahlung von 53.616,58 € in Anspruch genommen. Hinsichtlich der 6.914,12 € hat der Kläger Insolvenzanfechtung geltend gemacht, weil die Schuldnerin insoweit auf darlehensgleiche Gesellschafterforderungen gezahlt habe.
+
+3 Das Landgericht hat der Klage stattgegeben. Das Oberlandesgericht hat die Berufung des Beklagten zurückgewiesen. Mit seiner durch den Bundesgerichtshof - beschränkt auf die Verurteilung zur Zahlung von 6.914,12 € - zugelassenen Revision verfolgt er sein Klagabweisungsbegehren weiter.
+
+## Entscheidungsgründe
+
+4 Die Revision hat in Höhe von 5.474,12 € Erfolg; in diesem Umfang führt sie zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an das Berufungsgericht. Im Übrigen ist die Revision unbegründet.
+
+I.
+
+5 Das Berufungsgericht hat ausgeführt, es sei davon überzeugt, dass die einzelnen Zahlungen von dem Konto der Schuldnerin an den Beklagten Darlehensrückzahlungen oder Auslagenerstattungen dargestellt hätten. Letztere unterlägen als darlehensgleiche Finanzierungsleistungen ebenfalls gemäß § 135 InsO der Insolvenzanfechtung.
+
+II.
+
+6 Das hält einer rechtlichen Überprüfung teilweise nicht stand. Mit der Begründung des Berufungsgerichts kann nicht angenommen werden, dass die Erstattung von Auslagen durch die Schuldnerin an den Beklagten als Befriedigung von Forderungen auf Rückgewähr eines Gesellschafterdarlehens oder von Forderungen aus Rechtshandlungen, die einem solchen Darlehen wirtschaftlich entsprechen, gemäß § 135 Abs. 1 Nr. 2, § 39 Abs. 1 Nr. 5 InsO anfechtbar sind. Hingegen unterliegen die verspäteten Gehaltszahlungen in Höhe von 1.340 € der Anfechtung nach § 135 Abs. 1 Nr. 2, § 39 Abs. 1 Nr. 5 InsO.
+
+7 1. Die einzelnen Zahlungen der Schuldnerin an den Beklagten erfolgten innerhalb des von § 135 Abs. 1 Nr. 2 InsO bestimmten Jahreszeitraums vor dem Insolvenzantrag der Schuldnerin. Dass es sich dabei zudem jeweils um Rechtshandlungen handelte, steht ebenso wenig in Frage wie eine damit verbundene (mittelbare) Gläubigerbenachteiligung.
+
+8 2. Die Zahlungen der Schuldnerin können im Streitfall unter zwei Voraussetzungen auf wirtschaftlich einem Gesellschafterdarlehen gleichstehende Forderungen erfolgt sein. Sie sind darlehensgleich, soweit der Beklagte Regressansprüche aus der Befriedigung eines Gesellschaftsgläubigers geltend macht (unter Rn. 12 ff). Sofern es sich bei den Zahlungen der Schuldnerin hingegen um die Befriedigung von aus Austauschgeschäften herrührenden Forderungen des Beklagten gehandelt hat, kommt eine Behandlung als wirtschaftlich einem Darlehen gleichstehende Forderung nur in Betracht, wenn der Beklagte die Forderungen der Gesellschaft rechtlich oder faktisch gestundet hat. Dies gilt auch, soweit es sich um Ansprüche auf Erstattung von im Rahmen der Austauschgeschäfte entstandenen Auslagen handelt (unter Rn. 16 ff, 24 f).
+
+9 a) Ein Gesellschafterdarlehen liegt vor, wenn der Gesellschafter dem Schuldner einen Geldbetrag in einer vereinbarten Höhe zur Verfügung gestellt hat (§ 488 Abs. 1 Satz 1 BGB) und der Schuldner verpflichtet ist, das zur Verfügung gestellte Darlehen zurückzuzahlen (§ 488 Abs. 1 Satz 2 BGB). Bei einem solchen Darlehen kommt es nicht auf die Dauer der Kreditgewährung an. Unter § 39 Abs. 1 Nr. 5 InsO fallen daher auch kurzfristige Überbrückungskredite (BGH, Urteil vom 4. Juli 2013 - IX ZR 229/12, BGHZ 198, 77 Rn. 29; vom 27. Juni 2019 - IX ZR 167/18, BGHZ 222, 283 Rn. 31; vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 10).
+
+10 b) Den Gesellschafterdarlehen stellt § 39 Abs. 1 Nr. 5 InsO in sachlicher Hinsicht Forderungen aus Rechtshandlungen gleich, die einem Gesellschafterdarlehen wirtschaftlich entsprechen. Maßgeblich ist insoweit, ob eine Rechtshandlung vorliegt, mit welcher der Gesellschafter in einer einem Gelddarlehen vergleichbaren Weise der Gesellschaft temporär Liquidität verschafft (BGH, Urteil vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 11).
+
+11 aa) Diese Voraussetzung ist für jede Forderung eines Gesellschafters auf Rückzahlung eines von ihm aus seinem Vermögen der Gesellschaft zur Verfügung gestellten Geldbetrags erfüllt, sofern ein solcher Rückzahlungsanspruch durchgängig seit der Überlassung des Geldes bestand und sich Gesellschafter und Gesellschaft von vorneherein einig waren, dass die Gesellschaft das Geld zurückzuzahlen habe (BGH, Urteil vom 27. Juni 2019 - IX ZR 167/18, BGHZ 222, 283 Rn. 30; vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 12). Der Nachrang gemäß § 39 Abs. 1 Nr. 5 InsO beruht auf der Bereitschaft des Gesellschafters, der Gesellschaft Mittel zur Finanzierung zur Verfügung zu stellen. Dies richtet sich nicht nach der rechtlichen Form etwaiger Geldgeschäfte zwischen Gesellschaft und Gesellschafter, sondern nach der wirtschaftlichen Funktion des Geschäfts. Das Gesetz behandelt alle Gesellschafter-Fremdkapitalisierungsleistungen gleich (BGH, Urteil vom 27. Juni 2019, aaO Rn. 23).
+
+12 (1) Eine wirtschaftlich einem Gesellschafterdarlehen entsprechende Leistung kann auch in der Befriedigung eines Gesellschaftsgläubigers durch den Gesellschafter liegen (vgl. BGH, Urteil vom 1. Dezember 2011 - IX ZR 11/11, BGHZ 192, 9 Rn. 9). Ein solcher Vorgang und der daraus resultierende Regressanspruch des Gesellschafters gegen die Gesellschaft sind nämlich bei wirtschaftlicher Betrachtung nicht anders zu beurteilen, als wenn der Gesellschafter seiner Gesellschaft zunächst einen Geldbetrag darlehensweise überlassen hätte und diese daraus sodann ihren Gläubiger selbst befriedigt hätte. Darüber hinaus entspricht er im wirtschaftlichen Ergebnis der Valutierung eines Gesellschafterdarlehens an einen Dritten auf Veranlassung und im Interesse der Gesellschaft.
+
+13 Es macht keinen Unterschied, ob der Gesellschafter seiner Gesellschaft temporär finanzielle Mittel auf direktem Weg überlässt oder ob er einen Gesellschaftsgläubiger in der begründeten Vorstellung befriedigt, anschließend bei der Gesellschaft Regress nehmen zu können und diese dem Verlangen später auch tatsächlich entspricht. Tilgt der Gesellschafter eine Verbindlichkeit seiner Gesellschaft und wird ihm die erbrachte Leistung später von dieser erstattet, ist in der Regel vom Zeitpunkt der Zahlung des Gesellschafters an bis zur Erfüllung des Erstattungsverlangens das Bestehen eines durchgängigen Erstattungsanspruchs im Einvernehmen mit der Gesellschaft und somit eine darlehensgleiche Leistung anzunehmen.
+
+14 In beiden Fällen führt der Gesellschafter der Gesellschaft aus seinem Vermögen zusätzliches Kapital zu und verbessert damit die Finanzierung der Gesellschaft. Auf diese Weise finanziert der Gesellschafter jeweils eine Geschäftstätigkeit, die ihm mittelbar über seine Stellung als Gesellschafter zugutekommt. Hätte der Gesellschafter selbst diese Geschäfte betrieben, wären die eigenen Mittel in der Insolvenz des Gesellschafters verloren. § 39 Abs. 1 Nr. 5 InsO ordnet an, dass gleiches in der Insolvenz "seiner" Gesellschaft gilt (vgl. BGH, Urteil vom 27. Juni 2019 - IX ZR 167/18, BGHZ 222, 283 Rn. 25; vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 19).
+
+15 (2) Die für die Einordnung maßgebliche Finanzierungsfunktion von Leistungen des Gesellschafters tritt mit dem bei wirtschaftlicher Betrachtung (auch) in der Befriedigung eines Gesellschaftsgläubigers durch den Gesellschafter liegenden Zufluss von Geldmitteln in das Gesellschaftsvermögen ohne weiteres ein (vgl. BGH, Urteil vom 27. Juni 2019 - IX ZR 167/18, BGHZ 222, 283 Rn. 23, 45; vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 19). Auf ein Stehenlassen kommt es daher insoweit von vornherein nicht an ("unmittelbarer Geldzufluss aus dem Gesellschaftervermögen", vgl. BGH, Urteil vom 27. Juni 2019, aaO Rn. 30; Graf-Schlicker/Bremen/Neußner, InsO, 6. Aufl., § 39 Rn. 77; Jaeger/Mylich, InsO, 2. Aufl., § 39 Rn. 139; aA Ganter, NZI 2021, 1, 4 f).
+
+16 bb) Daneben kann eine Forderung als darlehensgleich zu beurteilen sein, wenn der Gesellschafter einen fälligen Anspruch darlehensfremder Art aus einem Austauschgeschäft nicht gegen die Gesellschaft geltend macht (BGH, Urteil vom 11. Juli 2019 - IX ZR 210/18, ZIP 2019, 1675 Rn. 13 f; vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 41).
+
+17 (1) Dies setzt voraus, dass die Geldforderung des Gesellschafters der Gesellschaft rechtlich oder rein faktisch ("Stehenlassen") gestundet wird, weil eine Stundung bei wirtschaftlicher Betrachtung eine Darlehensgewährung bewirkt (vgl. BGH, Urteil vom 10. Juli 2014 - IX ZR 192/13, BGHZ 202, 59 Rn. 50; vom 29. Januar 2015 - IX ZR 279/13, BGHZ 204, 83 Rn. 70; vom 11. Juli 2019 - IX ZR 210/18, ZIP 2019, 1675 Rn. 13; vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 41). Ebenso können deutlich von marktüblichen Konditionen abweichende, rechtsgeschäftliche Fälligkeitsabreden, die im Rahmen von Verkehrsgeschäften zwischen der Gesellschaft und ihrem Gesellschafter getroffen werden, wirtschaftlich einer Darlehensgewährung entsprechen (BGH, Urteil vom 24. Februar 2022, aaO Rn. 44 mwN).
+
+18 Die Bedingung einer rechtlichen oder faktischen Stundung als Voraussetzung der Annahme einer Kreditierung - und somit anders als im Fall eines Geldzuflusses an die Gesellschaft aus dem Gesellschaftervermögen, sei es direkt an die Gesellschaft, sei es durch die Befriedigung eines Gesellschaftsgläubigers seitens des Gesellschafters - erklärt sich daraus, dass der Gesellschaft aus einem Austauschgeschäft zunächst nur die Sachleistung des Gesellschafters zufließt, ohne dass dies zu einer zusätzlichen Finanzierung der Gesellschaft führt. Dass die Gesellschaft das Entgelt nicht Zug-um-Zug bezahlt, führt nicht in gleicher Weise wie der Zufluss weiterer Geldmittel zu einer besseren Finanzausstattung der Gesellschaft (vgl. BGH, Urteil vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 19).
+
+19 (2) Liegt ein echter Leistungsaustausch Zug-um-Zug gemäß § 320 BGB vor, liegt keine darlehensgleiche Leistung vor. Ebenso scheidet eine rechtliche oder rein faktische Stundung, die zur Umqualifizierung als Darlehen führt, stets aus, wenn eine Leistung bargeschäftlich abgewickelt wird (BGH, Urteil vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 42 mwN).
+
+20 (3) Wird der für ein Bargeschäft unschädliche Zeitraum überschritten, ist entscheidend, ob die zeitliche Streckung des Leistungsaustausches zwischen Gesellschaft und Gesellschafter nach der Vertragsgestaltung oder der tatsächlichen Handhabung in einer Gesamtschau den Schluss auf eine Kreditgewährung rechtfertigt (BGH, Urteil vom 11. Juli 2019 - IX ZR 210/18, ZIP 2019, 1675 Rn. 18; vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 43 mwN). Nach Art, Inhalt und Umständen des tatsächlich gewährten Zahlungszeitraums muss aufgrund einer Gesamtwürdigung feststehen, dass der Gesellschafter bei objektiver Betrachtung eine Finanzierungsentscheidung zugunsten der Gesellschaft getroffen hat. Denn auch insoweit ist maßgeblich, dass der Gesellschafter mit seiner Finanzierungsentscheidung die Kapitalausstattung der eigenen Gesellschaft verbessert hat. Die Gesellschafterleistung muss nach ihrer wirtschaftlichen Funktion einer Leistung von Eigenkapital vergleichbar sein (vgl. BGH, Urteil vom 27. Juni 2019 - IX ZR 167/18, BGHZ 222, 283 Rn. 24; vom 25. Juni 2020 - IX ZR 243/18, BGHZ 226, 125 Rn. 27; vom 24. Februar 2022, aaO; vgl. auch BGH, Urteil vom 22. Juli 2021 - IX ZR 195/20, BGHZ 230, 335 Rn. 7, 20).
+
+21 Zur Feststellung der Finanzierungsfunktion bedarf es bei Austauschgeschäften einer wertenden Betrachtung und einer genauen Analyse des Einzelfalls (vgl. BGH, Urteil vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 17; vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 44). Es reicht keineswegs jede geringfügige Überschreitung der marktüblichen oder vereinbarten Zahlungsfrist oder des für einen Baraustausch unschädlichen Zeitraums aus (vgl. BGH, Urteil vom 24. Februar 2022, aaO).
+
+22 Bei von vornherein getroffenen Fälligkeitsvereinbarungen in Austauschverträgen liegt erst dann eine wirtschaftlich einem Gesellschafterdarlehen entsprechende Forderung vor, wenn sie deutlich von marktüblichen Konditionen abweichen (vgl. BGH, Urteil vom 11. Juli 2019 - IX ZR 210/18, ZIP 2019, 1675 Rn. 16 mwN; vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 44 mwN). Für die Bestimmung des Fälligkeitszeitpunkts ist den Vertragspartnern jedoch ein gewisser Gestaltungsspielraum zuzubilligen (BGH, Urteil vom 29. Januar 2015 - IX ZR 279/13, BGHZ 204, 83 Rn. 74 zu Mieten; vom 24. Februar 2022, aaO).
+
+23 (4) Überschreitet der zeitliche Abstand beim Austausch von Leistung und Gegenleistung den von markt- oder verkehrsüblichen Regelungen gesteckten Rahmen eindeutig, liegt eine einem Gesellschafterdarlehen vergleichbare Leistung vor. Dies ist in der Regel erst anzunehmen, wenn eine Forderung aus einem Austauschgeschäft länger als drei Monate stehen gelassen wird (BGH, Urteil vom 11. Juli 2019 - IX ZR 210/18, ZIP 2019, 1675 Rn. 15, 18; vom 24. Februar 2022 - IX ZR 250/20, WM 2022, 522 Rn. 45). Unterhalb dieser Grenze bedarf es bei Austauschgeschäften im Rahmen der Gesamtschau weiterer Indizien, um eine verzögerte Zahlung der Gesellschaft als wirtschaftlich einem Gesellschafterdarlehen gleichstehend zu behandeln (BGH, Urteil vom 24. Februar 2022, aaO). Da maßgeblich eine Gesamtbetrachtung ist, sind die Wirkungen einer etwaigen Fälligkeitsvereinbarung und einer (faktischen) Stundung zusammen zu betrachten (BGH, Urteil vom 24. Februar 2022, aaO Rn. 45, 49).
+
+24 c) Die Voraussetzungen für eine darlehensgleiche Gesellschafterleistung im Zusammenhang mit einem Austauschgeschäft können namentlich auch im Fall der Stundung oder des Stehenlassens von Gehaltsansprüchen erfüllt sein, wie der Bundesgerichtshof bereits entschieden hat (vgl. BGH, Urteil vom 10. Juli 2014 - IX ZR 192/13, BGHZ 202, 59 Rn. 50 f; vom 22. Oktober 2020 - IX ZR 231/19, WM 2020, 2283 Rn. 27 mwN; vgl. auch BAGE 147, 373 Rn. 30 ff).
+
+25 Gleiches kommt in Betracht, wenn dem Gesellschafter im Rahmen eines mit seiner Gesellschaft abgeschlossenen Dienstverhältnisses oder allgemein eines Austauschgeschäfts Ansprüche auf Ersatz von Aufwendungen im Sinne des § 670 BGB zustehen und er diese Erstattungsansprüche der Gesellschaft rechtlich oder faktisch stundet. Allein die im Rahmen dieser Tätigkeiten entstandenen Aufwendungen begründen noch keine wirtschaftlich einem Gesellschafterdarlehen gleichstehenden Forderungen.
+
+26 3. Daran gemessen, kann im Streitfall nach den getroffenen Feststellungen die Anfechtbarkeit als darlehensgleiche Leistung nicht allein unter Hinweis auf eine Auslagenerstattung bejaht werden. Rechtsfehlerfrei hat das Berufungsgericht hingegen die Anfechtbarkeit der Gehaltszahlungen an den Beklagten in der Gesamthöhe von 1.340 € bejaht.
+
+27 a) Bezüglich der drei verspäteten Gehaltszahlungen liegen die Voraussetzungen für die Annahme einer darlehensgleichen Gesellschafterleistung gemäß § 39 Abs. 1 Nr. 5, § 135 Abs. 1 Nr. 2 InsO vor. Gehaltsansprüche sind regelmäßig spätestens zum jeweiligen Monatsende fällig. Damit betrug die Verzögerung bis zur Auszahlung an den Beklagten nach den vom Landgericht getroffenen und vom Berufungsgericht in Bezug genommenen Feststellungen in allen drei Fällen mehr als drei Monate. Die Revision zeigt keine Umstände auf, die dem Schluss auf eine wirtschaftlich einem Darlehen gleichstehende Forderung entgegenstehen könnten.
+
+28 b) Hinsichtlich der dem Beklagten entstandenen und von der Schuldnerin später erstatteten Auslagen hat das Berufungsgericht bislang nicht festgestellt, dass damit Verbindlichkeiten der Schuldnerin durch den Beklagten erfüllt worden wären. Nur in diesem Fall könnte ohne weiteres von einer darlehensgleichen Gesellschafterleistung auszugehen sein. Handelte es sich dagegen bei den Zahlungen um die Vergütung einer Dienst- oder Arbeitstätigkeit des Beklagten für die Schuldnerin oder die Erstattung von damit im Zusammenhang stehenden Spesen des Beklagten oder ähnliche Aufwendungen im Rahmen eines bestehenden Austauschverhältnisses durch die Schuldnerin, kommt es darauf an, ob eine Stundung oder ein Stehenlassen der Forderungen des Beklagten festgestellt werden kann.
+
+III.
+
+29 Die Revision ist daher teilweise zurückzuweisen. Im Übrigen ist das angefochtene Urteil im verbleibenden Umfang der Revisionszulassung aufzuheben und die Sache an das Berufungsgericht zurückzuverweisen (§ 562 Abs. 1, § 563 Abs. 1 Satz 1 ZPO). Eine eigene Entscheidung kann der Senat insoweit nicht treffen, weil der Rechtsstreit nicht zur Endentscheidung reif ist.
+
+Schoppmeyer Möhring Röhl
+
+Harms Weinland
