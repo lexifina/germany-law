@@ -1,5 +1,6 @@
 # Bekanntmachung der Neufassung der Finanzamts-Zuständigkeitsverordnung
 Vom 14. Oktober 2004
+Rechtsbereinigt mit Stand vom 10. Juli 2025
 Nachstehend wird der Wortlaut der Finanzamts-Zuständigkeitsverordnung in der seit 1. November 2004 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
 1. die am 1. Juli 2000 in Kraft getretene Verordnung vom 18. Juli 2000 (SächsGVBl. S. 375),
 2. die am 1. Februar 2001 in Kraft getretene Verordnung vom 9. Januar 2001 (SächsGVBl. S. 13),

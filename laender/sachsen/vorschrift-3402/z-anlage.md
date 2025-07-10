@@ -5,7 +5,7 @@ Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanz�
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 1. | Besteuerung von Rennwetten, Sportwetten, Lotterien, Ausspielungen, virtuellem Automatenspiel und Online-Poker | Chemnitz-Mitte | Freistaat Sachsen
-2.1 | Festsetzung und Erhebung der Spielbankabgabe und der Gewinnabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
+2.1 | Festsetzung und Erhebung der Spielbankabgabe, der Gewinnabgabe und der Ausgleichsabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
 2.2 | Steueraufsicht Spielbanken | Leipzig II | Freistaat Sachsen
 3 | Festsetzung und Erhebung der Online-Casinospielsteuer | Leipzig II | Freistaat Sachsen
 4. | Wahrnehmung der Rechte an der Zerlegung der Körperschaftsteuer nach dem Zerlegungsgesetz vom 6. August 1998 (BGBl. I S. 1998), das zuletzt durch Artikel 11 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) geändert worden ist | Dresden-Süd | Freistaat Sachsen
