@@ -1,0 +1,82 @@
+# 36. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-07-10T17:00:00+02:00
+- Ende: 2025-07-10T21:50:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7298
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7298
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=455760
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Mitglieder des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-33 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Lichtzeichenanlage An der Wuhlheide Ecke Rathenaustraße erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Schutz der ökologischen Nischen im "Schlesischen Busch" oder "Ick hör Dir" nicht mehr "trapsen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Sondermittel für den Verein "TEA Tagebuch- und Erinnerungsarchiv Berlin e. V." (SM 19-01) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Kennzeichnung und Teil-Ausbau einer Radanlage am Teltowkanal - überwiesen
+- TOP 7.2.4: Erneuerung von Straßenbeleuchtung – Wilhelmshagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Künstliche Intelligenz gegen Vermüllung nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Sanierung der Godbersenstraße in Schmöckwitz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Errichtung eines Fußgängerüberweges an der Kreuzung Baumschulenstraße Ecke Glanzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Wickelmöglichkeiten auf bezirklichen Spielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Sicherheit am Spielplatz in der Karl-Pokern-Straße in Friedrichshagen erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Schöner sitzen in der Puchanstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Öffentliche Toiletten für den Spielplatz am Kaisersteg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Förderung inklusiver Tanzveranstaltungen für alle Generationen und Bedürfnisse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Verbesserung der Anbindung von Wendenschloß durch verlängerten Fährbetrieb der Linie F12 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Anwohnerinformation zum "Quartier der Vielfalt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - schriftlich beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Tierschutz und Tierethik in Schulen durch Projekttage und Unterrichtseinheiten fördern - mit Änderungen in der BVV beschlossen
+- TOP 10.2: Lichtsignalanlage am Bahnhof Wuhlheide schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Öffentlichkeitsarbeit zur Bekanntmachung bezirklicher Angebote für Seniorinnen und Senioren verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Waltersdorfer Ecke Parchwitzer Straße sicherer queren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Beleuchtung des gemeinsamen Geh- und Radweges auf der Schöneicher Landstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Digitalisierung in Kitas und der ergänzenden Förderung und Betreuung: Verantwortung übernehmen – Software bereitstellen! - überwiesen
+- TOP 10.7: Arbeitsgelegenheiten gemäß § 5 Asylbewerberleistungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Bürgeramtstermine zuerst für Einwohner des Bezirks - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Zentren- und Einzelhandelskonzept Treptow-Köpenick 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sicheres Wenden auf der Michael-Brückner-Straße ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Anwohnende entlasten und Schallschutz am BER auszahlen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Gegen den verkehrspolitischen Rückwärtsgang – Kungerkiezblock weiter umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Hundeauslauffläche an der Forsthausallee einzäunen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Anmeldung zum Investitionsprogramm 2025 bis 2029 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Klare Sicht für alle – Brillen spenden, Menschen stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Mitteltransparenz zu Kiezkassen aktualisieren - zurückgezogen
+- TOP 10.17: Frauenbeirat - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2026/2027 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Fußverkehr und Radverkehr auf dem Schmollerplatz versöhnen - überwiesen
+- TOP 12.2: QR-Codes auf Spielplätzen – Kinderschutz in sozialen Netzwerken fängt auf dem Spielplatz an - überwiesen
+- TOP 12.3: Hinweise auf Menstruationsartikel anbringen - überwiesen
+- TOP 12.4: Keine neuen Flüchtlingsunterkünfte in Treptow-Köpenick - in der BVV abgelehnt
+- TOP 12.5: Nachhaltige Wahlwerbung – Begrenzung der Plakatierung zu den Abgeordnetenhaus- und BVV-Wahlen 2026 in Treptow-Köpenick - überwiesen
+- TOP 12.6: Umsetzung des Beschlusses zur Drs. IX/0873 – Gründung eines Kinder- und Jugendparlaments Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Hundegarten am Groß-Berliner Damm einrichten - überwiesen
+- TOP 12.8: Rückkehr zur Normalität im Straßenverkehr – Tempo 50 statt 30 - in der BVV abgelehnt
+- TOP 12.9: Mehrsprachige Warnhinweise - überwiesen
+- TOP 12.10: Amokalarm-Übungen an allen Schulen verpflichtend einführen - überwiesen
+- TOP 12.11: Verkehrschaos in der Sportpromenade in Grünau entschärfen und Entwicklung des Strandbads Grünau weiter unterstützen - überwiesen
+- TOP 12.12: Belegungsempfehlung für Horror-Haus in der Friedrichshagener Straße beenden - in der BVV abgelehnt
+- TOP 12.13: Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin – Rederecht für das Kinder- und Jugendparlament - überwiesen
+- TOP 12.14: Freiwilliges Engagement sichern – STERNENFISCHER-Freiwilligenzentrum erhalten - überwiesen
+- TOP 12.15: Sonderbaurecht für Flüchtlingsunterkünfte beenden - in der BVV abgelehnt
+- TOP 12.16: Bäume statt Windräder – Krummendammer Heide schützen - überwiesen
+- TOP 12.17: Tierische Dursthilfe - überwiesen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Verkehrschaos vor dem Strandbad Grünau – Muss denn immer erst was passieren? - vertagt
