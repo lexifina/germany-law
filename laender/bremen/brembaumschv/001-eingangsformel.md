@@ -1,2 +1,2 @@
 # Eingangsformel
-Aufgrund des § 18 in Verbindung mit § 40 Abs. 1 Nr. 1 des Bremischen Naturschutzgesetzes vom 17. September 1979 (Brem.GBl. S. 345 - 790-a-1), das zuletzt durch Artikel 2 des Gesetzes vom 28. Mai 2002 (Brem.GBl. S. 103) geändert worden ist, wird verordnet:
+Aufgrund des § 20 des Bremischen Gesetzes über Naturschutz und Landschaftspflege vom 27. April 2010 (Brem.GBl. S. 315), das zuletzt durch Artikel 1 des Gesetzes vom 1. März 2022 (Brem.GBl. S. 149) geändert worden ist, in Verbindung mit § 29 Absatz 1 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, verordnet der Senat:

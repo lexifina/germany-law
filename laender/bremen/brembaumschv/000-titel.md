@@ -1,1 +1,1 @@
-# Verordnung zum Schutze des Baumbestandes im Lande Bremen (Baumschutzverordnung) vom 5. Dezember 2002
+# Verordnung zum Schutz von Bäumen in der Freien Hansestadt Bremen (BremBaumSchV) vom 17. Juni 2025
