@@ -1,0 +1,113 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-07-10T14:09:00+02:00
+- Ende: 2025-07-10T20:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27829
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27829
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 10.07.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00560011.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 10.07.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00560011.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 10.07.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00560011.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften über die öffentlichen Teile der Sitzungen vom 26.02.2025 (SI-RAT/002/2025) und 10.04.2025 (SI-RAT/003/2025) - einstimmig beschlossen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der SPD-Ratsfraktion: Bleibt die Verkehrswende auf der Strecke? - beantwortet
+- TOP 5.2: Anfrage der SPD-Ratsfraktion: Wann nimmt die Wohnungsbauoffensive Fahrt auf? - beantwortet
+- TOP 5.3: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: aktuelle Situation des Sports in Düsseldorf - beantwortet
+- TOP 5.4: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: mobile Videoüberwachung am Japantag 2025 in Düsseldorf - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Fortschritt beim Ankauf des Glasmacherviertels? - schriftlich beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion DIE LINKE: Fällung von Ersatzpflanzungen für satzungsgeschützte Bäume am Flughafen - schriftlich beantwortet
+- TOP 5.7: Anfrage der FDP-Ratsfraktion: Anmietung und Ankauf von Wohnimmobilien durch die Stadt Düsseldorf - schriftlich beantwortet
+- TOP 5.8: Anfrage der Ratsfraktion DIE LINKE: CSD-Beflaggung und -Teilnahme – Unterstützung der Stadt für LSBTIQ* - schriftlich beantwortet
+- TOP 5.9: Anfrage der AfD-Ratsfraktion: U3-Betreuung in Kitas - schriftlich beantwortet
+- TOP 5.10: Anfrage der AfD-Ratsfraktion: Umsetzung des Hinweisgeberschutzgesetzes in Düsseldorf - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Ausnahmeregelungen für den Corneliusplatz - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau Spillner: Sachstand Schul-Radeln - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau Dr. Proschmann: Planung und Finanzierung der Bürger*innensprechstunden des Oberbürgermeisters - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn El Ghazali: Rassismus an Schulen - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Born: Einsatz für Frieden in Israel, Gaza und der Ukraine - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Dr. Proschmann: Kosten Nachbarschaftszone Paulusplatz - schriftlich beantwortet
+- TOP 5.17: Anfrage der Bürgermeisterin Zepuntke: Warum wurde den Mitarbeitenden des Jobcenter Düsseldorf eine Verbindungsherstellung zum CSD untersagt? - schriftlich beantwortet
+- TOP 5.18: Anfrage des Ratsherrn Lemmer: Umbrüche bei der Rheinbahn in den letzten Monaten und Jahren - schriftlich beantwortet
+- TOP 5.19: Anfrage des Ratsherrn Lemmer: Eigenkündigungen bzw. Kündigungen bei Rheinbahnbeschäftigten - schriftlich beantwortet
+- TOP 5.20: Anfrage der Ratsfrau Krüger: Reparaturen und Wartungsarbeiten bei der Rheinbahn für Busse und Bahnen seit 01.01.2021 - schriftlich beantwortet
+- TOP 5.21: Anfrage der Ratsfrau Krüger: bargeld- und papierloses Ticketsystem CALO - schriftlich beantwortet
+- TOP 5.22: Anfrage der Ratsfrau Kraljic: Anfrage zum Präventionsprogramm „Wegweiser in Düsseldorf und im Kreis Mettmann" - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
+- TOP 11: Sicherstellung des Bestattungsangebotes für muslimische und jüdische Verstorbene in Düsseldorf im Bereich des Friedhofs Itter - einstimmig beschlossen
+- TOP 12: Planung und Umsetzung der Freianlagen der Baumaßnahme „Grünzug Aaper Wald" in Düsseldorf Rath/Mörsenbroich - einstimmig beschlossen
+- TOP 13: Biodiversitätskonzept 2030 - Aufstellung und Umsetzung eines Biodiversitätskonzept für die Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 14: Fortschreibung des Rettungsdienstbedarfsplans sowie Satzung zur Änderung der Gebührensatzung über die Inanspruchnahme des Rettungsdienstes der Landeshauptstadt Düsseldorf vom 15.12.2005 sowie der Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 15: Reflexion und Fortschreibung ZUKUNFT QUARTIER.DÜSSELDORF - abweichend beschlossen
+- TOP 16: Erarbeitung eines integrierten energetischen Quartierskonzepts für Friedrichstadt - mehrheitlich beschlossen
+- TOP 17: Bebauungsplan-Entwurf Nr. 03/007 - Westlich Hinter der Böck - mehrheitlich beschlossen
+- TOP 18: Flächennutzungsplanänderung Nr.182 (Entwurf) - Westlich Hinter der Böck - mehrheitlich beschlossen
+- TOP 19: Umbenennung des „Jürgensplatz" im Stadtbezirk 3 in „Edith-Fürst-Straße" und Benennung der Platzfläche vor dem Polizeipräsidium und dem Ministerium für Heimat, Kommunales, Bau und Digitalisierung in „Am Polizeipräsidium" - mehrheitlich beschlossen
+- TOP 20: Förderprojekt KreativRaum D - Teilbaustein Umsetzungsstrategie Zukunft Altstadt Innenstadt - mehrheitlich beschlossen
+- TOP 21: Entwicklung Tetelberg – Beauftragung einer externen Projektsteuerung - mehrheitlich beschlossen
+- TOP 21.1: Ergänzungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/070/2025 - mehrheitlich abgelehnt
+- TOP 22: 3. Änderung des Landesentwicklungsplans (LEP NRW) - einstimmig beschlossen
+- TOP 23: Kenntnisnahme des Jahresabschlusses 2024 der Stadtsparkasse Düsseldorf, Beschluss zur Gewinnverwendung sowie Entlastung der Sparkassenorgane für das Jahr 2024 - einstimmig beschlossen
+- TOP 24: Beteiligungsbericht 2023 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 25: Änderung der Satzung über die Erhebung von Elternbeiträgen für die Betreuung von Kindern in Tageseinrichtungen, in Tagespflege und im Rahmen der Ganztagsbetreuung im Primarbereich - mehrheitlich beschlossen
+- TOP 26: Rahmenverträge für die freie Szene - mehrheitlich beschlossen
+- TOP 26.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage KUA/018/2025 - zurückgezogen
+- TOP 26.2: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage KUA/018/2025 - mehrheitlich abgelehnt
+- TOP 26.3: Änderungsantrag der Ratsfraktionen von SPD, CDU, FDP und Bündnis 90/Die Grünen zur Vorlage KUA/018/2025 - mehrheitlich beschlossen
+- TOP 27: Grabbeplatz4, Kunsthalle Düsseldorf -Gesamtsanierung mit Schwerpunkt auf energetischer Optimierung - vertagt
+- TOP 28: Weiterentwicklung der Wochenendöffnung von Stadtbüchereien - einstimmig beschlossen
+- TOP 29: Restitution eines Gemäldes - einstimmig beschlossen
+- TOP 30: Abgabe eines stehenden Angebots für die Schiedsgerichtsbarkeit NS-Raubgut - einstimmig beschlossen
+- TOP 31: Deutsche Oper am Rhein, Verlängerung der Theatergemeinschaft - einstimmig beschlossen
+- TOP 32: Neubau der Theodor-Heuss-Brücke - einstimmig beschlossen
+- TOP 33: Bedarfs-, Umsetzungs- und Finanzierungsbeschluss - Modernisierung der Leitstelle des Ordnungsamtes im Rahmen des Projektes „PrOSiD 2021" - einstimmig beschlossen
+- TOP 34: Ausführungs- und Finanzierungsbeschluss zur Neugestaltung der Mühlenstraße -AuF- - mehrheitlich beschlossen
+- TOP 34.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 14: OVA/090/2025 Ausführungs- und Finanzierungsbeschluss zur Neugestaltung der Mühlenstraße - mehrheitlich beschlossen
+- TOP 35: Schulorganisatorische Maßnahmen zur Umsetzung des sukzessiven Rechtsanspruchs auf einen Ganztagsplatz ab dem Schuljahr 2026/27 im Primarbereich (SOM IX) - einstimmig beschlossen
+- TOP 36: Zukunftsfähige Ausrichtung des Schulstandortes Bachstraße 8 - einstimmig beschlossen
+- TOP 37: Kittelbach - Sanierung Durchlass Heinrichstraße / Münsterstraße (W-0028000000) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 38: Mehr Flächen für den Sport : Sportorganisatorisches Maßnahmenpaket - einstimmig beschlossen
+- TOP 39: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath - einstimmig beschlossen
+- TOP 40: Bestätigung der stimmberechtigten Mitglieder der Fraktionen für den Behindertenrat - einstimmig beschlossen
+- TOP 41: Bestätigung der stimmberechtigten Mitglieder der Fraktionen für den Seniorenrat - einstimmig beschlossen
+- TOP 42: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 43: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland -Ersatzbestellung- - einstimmig beschlossen
+- TOP 44: Mitgliederversammlung des Vereins „Metropolregion Rheinland e.V.“ -Ersatzbestellung- - einstimmig beschlossen
+- TOP 45: Verwaltungsrat der Stadtsparkasse Düsseldorf -Ersatzwahl- - einstimmig beschlossen
+- TOP 46: Anträge
+- TOP 46.1: Evaluierung der OGS-Ferienbetreuungsangebote - mehrheitlich beschlossen
+- TOP 46.2: Antrag der Ratsfraktion DIE LINKE: Durchführung eines Ratsbürgerentscheids über die Weiterführung des Vorhabens eines Opernneubaus („Opernhaus der Zukunft“) - mehrheitlich abgelehnt
+- TOP 46.2.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/228/2025 - zurückgezogen
+- TOP 46.3: Antrag der Ratsfraktion DIE LINKE: Wettbewerb Neubau der Düsseldorfer Oper: Entwürfe der 2. Phase jetzt veröffentlichen - mehrheitlich abgelehnt
+- TOP 46.4: Antrag der SPD-Ratsfraktion: (Wieder-) Herstellung und Schutz der Biodiversität am Himmelgeister Deich - mehrheitlich beschlossen
+- TOP 46.5: Antrag der FDP-Ratsfraktion: Mehr Wohnraum für Düsseldorf – Handlungsspielräume strategisch nutzen - mehrheitlich abgelehnt
+- TOP 46.6: Antrag der SPD-Ratsfraktion: Lastenräder auch für Düsselpassberechtigte erhältlich machen - mehrheitlich abgelehnt
+- TOP 46.7: Antrag der SPD-Ratsfraktion: Bürokratische Hürden abbauen – wirtschaftliche Entwicklung in Düsseldorf stärken
+- TOP 46.7.1: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage Rat/243/2025
+- TOP 46.8: Antrag der Ratsfraktion DIE LINKE: Änderung der Wohnraumschutzsatzung
+- TOP 46.9: Antrag der Ratsfraktion DIE LINKE: Resolution: Keine Bundeswehr an Düsseldorfer Schulen
+- TOP 46.10: Antrag der Ratsfraktion DIE LINKE: Entmietungen stoppen – soziale Erhaltungssatzung für Golzheim jetzt!
+- TOP 46.11: Antrag der SPD-Ratsfraktion: Mut beweisen, endlich handeln: Weitere Soziale Erhaltungssatzungen für Düsseldorf
+- TOP 46.11.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/253/2025
+- TOP 46.12: Antrag der SPD-Ratsfraktion: Initiative zur Unterstützung der Düsseldorfer Gastronomie
+- TOP 46.12.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/241/2025
+- TOP 46.13: Antrag der SPD-Ratsfraktion: Stadtsauberkeitsoffensive von Angermund bis Hellerhof: Eine saubere Stadt für alle
+- TOP 46.14: Antrag der SPD-Ratsfraktion: 100 Trinkbrunnen bis 2026 für Düsseldorf
+- TOP 46.15: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Optimierung des fließenden Verkehrs: Fuß, Rad, Bus & Bahn, motorisierter Individualverkehr
+- TOP 46.15.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/256/2025
+- TOP 46.16: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Umsetzung des Ganztagsrechtsanspruchs in Düsseldorf
+- TOP 46.17: Antrag der AfD-Ratsfraktion: Automatisierte Parkhäuser für Düsseldorf
+- TOP 47: Städtebauliche Entwicklungsmaßnahme Nr. 07/019 - Glasmacherviertel - einstimmig beschlossen
