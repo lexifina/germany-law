@@ -1,6 +1,4 @@
-# Anlage (zu § 1)
-
-Privatfinanzierte Abschnitte von Bundesfernstraßen
+# Anlage (zu § 1)Privatfinanzierte Abschnitte von Bundesfernstraßen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1686
 | lfd Nr. | Bezeichnung | Streckenabschnitt | Bundesland |

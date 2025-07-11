@@ -1,10 +1,7 @@
-# Anlage (zu § 1)
-
-Mautverzeichnis
+# Anlage (zu § 1)Mautverzeichnis
 
 | (Fundstelle des Originaltextes: BGBl. I 2005, 2109) |
-| Fahrzeugklasse | Höhe über der
-Vorderachse | Anzahl der Achsen | Fahrzeugart (Beispiele) | Mauthöhe in Euro |
+| Fahrzeugklasse | Höhe über der Vorderachse | Anzahl der Achsen | Fahrzeugart (Beispiele) | Mauthöhe in Euro |
 | AGE *) | MGE ++) |
 | A | <= 1,30 m | 2 | Pkw, Motorrad | 0,75 | 0,90 |
 | B1 | <= 1,30 m | > 2 | Pkw mit Anhänger | 1,73 | 2,00 |
