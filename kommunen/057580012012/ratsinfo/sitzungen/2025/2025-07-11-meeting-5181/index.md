@@ -1,0 +1,53 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2025-07-11T17:45:00+02:00
+- Ende: 2025-07-11T20:20:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZmSN7GddVB4-a7YNgtlECo
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5181
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZvjba6XemeL9ZoUt1F4G0NmxQ-xHpv8b7SZOSMYHpeo/Einladung_Rat_11.07.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTXCjqknddevggCgiTmPCuHzvuFeeAaDO8iblIbqMqmA/Oeffentliche_Niederschrift_Rat_11.07.2025.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 28.04.2025
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Bestellung des Stadtbrandinspektors Karsten Buschmann zum Leiter der Feuerwehr der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Anpassung des Herforder Ortsrechtes: Anpassung der Hauptsatzung sowie der Geschäftsordnung des Rates - Mit 26 Stimmen dafür, acht Stimmen dagegen und zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.8a: Änderungsantrag der FDP-Fraktion zum TOP A.8 Änderung des Herforder Ortsrechtes - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8b: Neue Satzung für den Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: langfristige Finanzplanung - Mit 33 Stimmen dafür, drei Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: Genehmigung von über- und außerplanmäßigen Auszahlungen für die Haushaltsjahre 2025 und 2026 im Produkt 009 002 002 Bildungscampus bzw. 016 001 001 Allgemeine Finanzwirtschaft - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Steuerung von Drittorganisationen:
+- TOP A.11a: DAWI-Betrauungen: Anpassung der Betrauungen der Pro Herford GmbH und der FSH Freizeiteinrichtungen Stadtwerke Herford GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: a) Billigung des Konzernabschlusses 2024 b) Ergebnisverwendung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11c: HVV Konzern: 1. Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: a) Feststellung des Jahresabschlusses 2024 b) Ergebnisverwendung c) Entlastung der Geschäftsführung 2. Entlastung der Mitglieder der Aufsichtsräte des HVV Konzerns für das Geschäftsjahr 2024 - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11d: Konzern Hansestadt Herford: Cybersicherheit und weitere Risikoabsicherungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11e: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2024 b) Ergebnisverwendung c) Vorabausschüttung 2025 d) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11f: INTERKOMM GmbH: Jahresabschluss 2024, Ergebnisverwendung, Entlastung der Geschäftsführung, Bestellung der Wirtschaftsprüfungsgesellschaft für die Prüfung des Jahresabschlusses 2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11g: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: a) Feststellung des Jahresabschlusses 2024 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung der Geschäftsführung - Einstimmig und mit drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.11h: Klärschlammverwertung OWL GmbH: Bestellung und Entsendung eines Aufsichtsratsmitglieds - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11i: Klärschlammverwertung OWL GmbH: Satzungsänderungen - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11j: Pro Herford GmbH a) Feststellung des Jahresabschlusses 2024 b) Ergebnisverwendung c) Entlastung der Geschäftsführung - Einstimmig und mit drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.11k: Westfalen Weser-Gruppe: Erwerb einer Beteiligung an der WestfalenWIND Strom GmbH durch die Westfalen Weser Energieerzeugung GmbH & Co. KG - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Schiedsangelegenheiten: Änderungen im Schiedsamtsbezirk 3 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Abschluss einer öffentlich–rechtlichen Vereinbarung mit der Stadt Minden zur Einrichtung des Lehrgangs „ABI-Online“ des Weser-Kollegs Minden in der Hansestadt Herford; hier: Kündigung zum Schuljahr 2026/2027 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Änderung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Bebauungsplan Nr. 6.84 "Biemser Weg/Brandheidestraße" hier: Satzungsbeschluss - Mit 34 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Bebauungsplan Nr. 7.67 "Bielefelder Straße / B61" Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Flächennutzungsplanänderung Nr. 2.24 "Biemser Weg/Brandheidestraße“ Hier: Feststellungsbeschluss - Mit 37 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Gremienbesetzungen
+- TOP A.19: Antrag der CDU-Fraktion: Genehmigungspflicht zur Aufstellung von Altkleidercontainern auf Privatgrundstücken mit Zugang über öffentliche Wege - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Antrag der SPD-Fraktion: Auslobung eines städtebaulichen Wettbewerbs zur Neugestaltung der Bahnhofsrückseite mit dem Bereich Güterbahnhof unter dem Motto „Schöner ankommen.“ - Mit 28 Stimmen dafür, sieben Stimmen dagegen und ohne Enthaltung wird folgender Beschluss getroffen:
+- TOP A.21: Gemeinsamer Antrag der Fraktionen SPD und UFH: Sicherheit in Herford/ Kameraüberwachung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Antrag der Fraktion Bündnis 90/ Die Grünen: Neutralitätspflicht - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.23: Mitteilungen
