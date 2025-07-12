@@ -35,8 +35,7 @@
 
 - [§ 18 Ausnahmen nach den Verordnungen (EG) Nr. 561/2006 und (EU) Nr. 165/2014](0018.md)
 
-## Abschnitt 6 Europäisches Übereinkommen über die Arbeit des
-im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
+## Abschnitt 6 Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
 
 - [§ 19 Fahrtenschreiber nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)](0019.md)
 
@@ -57,6 +56,4 @@ im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
 - [§ 26 (weggefallen)](0026.md)
 - [Anlage 1 (zu § 1 Abs. 6)](anlage-1.md)
 - [Anlage 2 (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für die Bundesrepublik DeutschlandVersion 1.2 in der Fassung vom 18. April 2007](anlage-2.md)
-- [Anlage 3 (zu § 4)
-
-Beschreibung der Speicherkarten](anlage-3.md)
+- [Anlage 3 (zu § 4)Beschreibung der Speicherkarten](anlage-3.md)

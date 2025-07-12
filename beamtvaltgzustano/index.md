@@ -4,7 +4,6 @@
 - [§ 1 Anordnungsgegenstand](0001.md)
 - [§ 2 Persönlicher Geltungsbereich](0002.md)
 - [§ 3 Sachliche Zuständigkeit für die Festsetzung der Versorgungsbezüge](0003.md)
-- [§ 3 Sachliche Zuständigkeit für die Festsetzung der Versorgungsbezüge](0003-2.md)
 - [§ 4 Sachliche Zuständigkeit für die Festsetzung von Leistungen nach dem Altersgeldgesetz und des aus Artikel 45 AEUV abgeleiteten Nachteilsausgleichs](0004.md)
 - [§ 5 Sachliche Zuständigkeit für die Anerkennung eines Dienstunfalls und die Festsetzung von Unfallfürsorgeleistungen sowie damit zusammenhängender Befugnisse](0005.md)
 - [§ 6 Sachliche Zuständigkeit für die Geltendmachung eines nach § 76 des Bundesbeamtengesetzes übergegangenen Schadensersatzanspruchs aufgrund eines Unfalls](0006.md)

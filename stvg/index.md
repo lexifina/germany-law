@@ -40,8 +40,7 @@
 
 - [§ 7 Haftung des Halters, Schwarzfahrt](0007.md)
 - [§ 8 Ausnahmen](0008.md)
-- [§ 8a Entgeltliche Personenbeförderung, Verbot des
-Haftungsausschlusses](0008a.md)
+- [§ 8a Entgeltliche Personenbeförderung, Verbot des Haftungsausschlusses](0008a.md)
 - [§ 9 Mitverschulden](0009.md)
 - [§ 10 Umfang der Ersatzpflicht bei Tötung](0010.md)
 - [§ 11 Umfang der Ersatzpflicht bei Körperverletzung](0011.md)
@@ -62,8 +61,7 @@ Haftungsausschlusses](0008a.md)
 
 - [§ 21 Fahren ohne Fahrerlaubnis](0021.md)
 - [§ 22 Kennzeichenmissbrauch](0022.md)
-- [§ 22a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von
-Kennzeichen](0022a.md)
+- [§ 22a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von Kennzeichen](0022a.md)
 - [§ 22b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern](0022b.md)
 - [§ 23 (weggefallen)](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)

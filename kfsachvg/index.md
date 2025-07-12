@@ -1,9 +1,7 @@
-# Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte
-Prüfer für den Kraftfahrzeugverkehr
+# Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr
 
 - [Eingangsformel](eingangsformel.md)
-- [§ 1 Amtliche Anerkennung als Sachverständiger oder Prüfer
-für den Kraftfahrzeugverkehr](0001.md)
+- [§ 1 Amtliche Anerkennung als Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr](0001.md)
 - [§ 2 Voraussetzung für die Anerkennung](0002.md)
 - [§ 3 Antragsverfahren](0003.md)
 - [§ 4 Prüfung für die Anerkennung](0004.md)
@@ -36,8 +34,4 @@ für den Kraftfahrzeugverkehr](0001.md)
 - [§ 31 Register über die Sachverständigen der Bundeswehr](0031.md)
 - [§ 32 Übergangsregelung](0032.md)
 - [§ 33 Inkrafttreten](0033.md)
-- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
-
-(BGBl. II 1990, 889, 1103)
-
-- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)
+- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III(BGBl. II 1990, 889, 1103)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)
