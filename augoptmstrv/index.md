@@ -12,4 +12,5 @@ Augenoptiker-Handwerk
 - [§ 7 Gliederung, Prüfungsdauer und Bestehen des Teils II](0007.md)
 - [§ 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0008.md)
 - [§ 9 Übergangsvorschrift](0009.md)
+- [§ 9a Außerkrafttreten](0009a.md)
 - [§ 10 Inkrafttreten, Außerkrafttreten](0010.md)
