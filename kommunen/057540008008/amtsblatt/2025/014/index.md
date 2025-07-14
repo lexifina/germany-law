@@ -1,7 +1,7 @@
-# Amtsblatt der Stadt Gütersloh 2025 Nr. 14 vom 14.09.2025
+# Amtsblatt der Stadt Gütersloh 2025 Nr. 14 vom 14.07.2025
 
 - Herausgeber: Stadt Gütersloh
-- Ausgabe: 2025-09-14 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Ausgabe: 2025-07-14 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
 - Nummer: 14
 - Quelle: https://www.guetersloh.de/de-wAssets/docs/amtsblatt/amtsblatt-2025/Amtsblatt_14_2025.pdf
 - Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
