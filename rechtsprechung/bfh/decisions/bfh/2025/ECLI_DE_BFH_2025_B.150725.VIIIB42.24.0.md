@@ -1,0 +1,41 @@
+---
+ecli: "ECLI:DE:BFH:2025:B.150725.VIIIB42.24.0"
+court: "Bundesfinanzhof"
+aktenzeichen: "VIII B 42/24"
+decided: "2025-07-15"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/STRE202520208.xml"
+neuris_doknr: "STRE202520208"
+---
+
+# Bundesfinanzhof, VIII B 42/24 vom 2025-07-15
+
+## Leitsatz
+
+NV: Nimmt das Finanzgericht (FG) entscheidungserhebliches schriftliches Vorbringen der Kläger zwar zur Kenntnis (zum Beispiel im Tatbestand des Urteils), berücksichtigt es das Vorbringen anschließend bei der Sachverhaltswürdigung aber nur teilweise, liegt darin ein Verfahrensmangel (Verletzung des Anspruchs auf rechtliches Gehör), wenn die Umstände darauf hindeuten, dass das FG das in den Entscheidungsgründen nicht mehr erwähnte Vorbringen der Kläger überhaupt nicht berücksichtigt und nicht etwa (stillschweigend) für unbeachtlich oder nicht durchgreifend erachtet hat.2 4 5
+
+## Tenor
+
+Auf die Beschwerde der Kläger wegen Nichtzulassung der Revision wird das Urteil des Finanzgerichts des Saarlandes vom 18.04.2024 - 2 K 1116/20 aufgehoben.
+
+Die Sache wird an das Finanzgericht des Saarlandes zur anderweitigen Verhandlung und Entscheidung zurückverwiesen.
+
+Diesem wird die Entscheidung über die Kosten des Beschwerdeverfahrens übertragen.
+
+## Gründe
+
+1 Die Beschwerde ist begründet; sie führt zur Aufhebung der Vorentscheidung und zur Zurückverweisung der Sache. Das angefochtene Urteil ist verfahrensfehlerhaft ergangen. Das Finanzgericht (FG) hat das schriftliche Vorbringen der Kläger und Beschwerdeführer (Kläger) zwar zur Kenntnis genommen, aber nicht hinreichend erwogen. Darin liegt ein Verfahrensmangel, auf dem das Urteil beruhen kann.
+
+2 1. a) Der Anspruch auf rechtliches Gehör aus Art. 103 Abs. 1 des Grundgesetzes i.V.m. § 96 Abs. 2 der Finanzgerichtsordnung (FGO) verpflichtet das FG, die Ausführungen der Beteiligten zur Kenntnis zu nehmen, in Erwägung zu ziehen und sich mit dem entscheidungserheblichen Kern des Vorbringens auseinanderzusetzen (sogenannte Beachtenspflicht). Er verpflichtet das Gericht nicht, sich mit Ausführungen der Beteiligten auseinanderzusetzen, auf die es für die Entscheidung nicht ankommt. Das Gericht ist ferner nicht verpflichtet, sich mit jedem Vorbringen in den Entscheidungsgründen ausdrücklich zu befassen. Der Anspruch auf rechtliches Gehör ist erst verletzt, wenn das Gericht Sachverhalt und Sachvortrag, auf den es ankommen kann, nicht nur nicht ausdrücklich bescheidet, sondern bei seiner Entscheidung überhaupt nicht berücksichtigt (vgl. z.B. Beschluss des Bundesfinanzhofs vom 26.02.2019 - VIII B 133/18, BFH/NV 2019, 574, Rz 4). Ist ein bestimmtes Vorbringen zwar im Tatbestand einer Entscheidung wiedergegeben, wird es jedoch in der rechtlichen Würdigung nicht behandelt, kann daraus der Schluss gezogen werden, das Vorbringen sei zwar zur Kenntnis genommen, aber nicht erwogen worden (Beschluss des Bundesverfassungsgerichts vom 03.03.2025 - 1 BvR 750/23, Neue Juristische Wochenschrift 2025, 1939, Rz 81). Nimmt das FG entscheidungserhebliches schriftliches Vorbringen der Kläger zwar zur Kenntnis (zum Beispiel im Tatbestand des Urteils), berücksichtigt es das Vorbringen anschließend bei der Sachverhaltswürdigung aber nur teilweise, liegt darin ein Verfahrensmangel (Verletzung des Anspruchs auf rechtliches Gehör), wenn die Umstände darauf hindeuten, dass das FG das in den Entscheidungsgründen nicht mehr erwähnte Vorbringen der Kläger überhaupt nicht berücksichtigt und nicht etwa (stillschweigend) für unbeachtlich oder nicht durchgreifend erachtet hat. So liegt der Fall.
+
+3 b) Zu der entscheidungserheblichen Frage, ob die Kläger vor Abgabe ihrer Einkommensteuererklärung verpflichtet waren, die von einem Steuerberater erstellte Buchführung der Klägerin auf ihre Richtigkeit hin intensiv zu prüfen und ob sie dies grob fahrlässig unterlassen haben, haben die Kläger im Klageverfahren unter anderem vorgetragen, für sie habe keine Veranlassung bestanden, an der Richtigkeit der professionell erstellten Buchführung zu zweifeln, weil ihnen die auffällige Umsatzsteigerung aus fünf Gründen plausibel erschienen sei: 1. Die Klägerin habe im Jahr 2016 (Streitjahr) erstmals einen Weiterbildungsassistenten beschäftigt, der es ihr ermöglicht habe, sich mehr um die Privatpatienten zu kümmern, 2. die Anzahl der Patienten sei im Streitjahr um 46 % gestiegen, 3. die Anzahl der technischen Untersuchungen sei signifikant angestiegen, bei sogenannten Doppleruntersuchungen um 128 % und bei technischen Leistungen insgesamt um 57 %, 4. außerdem sei der Anteil der Privatpatienten im Streitjahr schnell angestiegen und 5. die Klägerin habe ihr Leistungsspektrum durch Fortbildungen ausgeweitet, was ebenfalls zu einer Steigerung des Umsatzes habe beitragen können.
+
+4 Diese Ausführungen hat das FG zwar zur Kenntnis genommen, wie sich aus der Darstellung des Vortrags der Kläger im Tatbestand des angefochtenen Urteils ergibt; es hat den Vortrag aber nicht hinreichend, insbesondere nicht vollständig erwogen. In den Entscheidungsgründen hat das FG nur die Beschäftigung des Weiterbildungsassistenten erwähnt und insofern ausgeführt, die Kläger hätten nach dem Bekanntwerden der auffälligen Steigerung der Einnahmen Veranlassung gehabt, die Umsatzerlöse der Klägerin einer vertieften Prüfung (anhand der Buchführung) zu unterziehen: "Dass sie dies nicht taten, sondern pauschal auf die Beschäftigung des Assistenten verwiesen, stellt sich zur Überzeugung des Senats nicht mehr als einfacher, sondern als grober Pflichtverstoß dar." Vor allem mit dem Zusatz "pauschal" hat das FG eindeutig zum Ausdruck gebracht, dass es die anderen von den Klägern angeführten Gründe für die aus ihrer Sicht gegebene Plausibilität der Erlössteigerungen nicht berücksichtigt und nicht erwogen hat.
+
+5 Der Vortrag der Kläger war entscheidungserheblich. Das FG hat die Frage aufgeworfen, ob die Kläger trotz der auffälligen Umsatzsteigerung von der Richtigkeit der Buchführung ausgehen durften. Das FG hat die Frage verneint. Es hat dabei aber nicht alle von den Klägern angeführten Gründe berücksichtigt, die aus der Sicht der Kläger für die Plausibilität einer Umsatzsteigerung und dagegensprachen, sofort auch die Richtigkeit der Buchführung in Zweifel zu ziehen. Das FG hat auch nicht deutlich gemacht, dass es die weiteren von den Klägern angeführten Gründe für unerheblich hielt oder ob es an ihren tatsächlichen Grundlagen zweifelte. Die von der Klägerin angeführten Gründe sind für sich genommen nachvollziehbar. Das bedeutet nicht, dass sie zutreffen müssen; sie können aber auch nicht von vornherein und stillschweigend für unbeachtlich erklärt werden.
+
+6 Unabhängig davon, ob das FG die von den Klägern angeführten Gründe einzeln hätte verbescheiden müssen, da es sich um Vorbringen mit jeweils eigener Tatsachengrundlage handelte, sprechen die Umstände (insbesondere der zitierte Satz aus den Entscheidungsgründen) dafür, dass das FG die weiteren von den Klägern angeführten Gründe vorliegend überhaupt nicht berücksichtigt hat. Hätte das FG sämtliche von den Klägern angeführten Gründe, wie es geboten war, erwogen, die aus der Sicht der Kläger für die Plausibilität der Erlössteigerungen sprachen, kann nicht ausgeschlossen werden, dass das Urteil anders ausgefallen wäre.
+
+7 c) Für die erneute Entscheidung weist der Senat --ohne Bindungswirkung-- darauf hin, dass sich die Kläger den von der (ehemaligen) Steuerberatungsgesellschaft verursachten Buchungsfehler auch nach der Überzeugung des FG nicht als grobes Verschulden zurechnen lassen müssen. Ein Organisationsverschulden hat das FG nicht festgestellt. Dass der Fehler letztlich bei einer Überprüfung der Buchführung festgestellt worden ist, indiziert nicht, dass eine Überprüfung der Buchführung (sofort) zwingend veranlasst war. Kann der Steuerpflichtige schlüssig darlegen, warum er eine auffällige Umsatzsteigerung (zunächst) für plausibel gehalten und weshalb er die (eigenhändige) Überprüfung der vom Steuerberater erstellten Buchführung zunächst nicht für erforderlich erachtet hat, kann ein grobes Verschulden nur begründet werden, wenn eindeutig eine Pflicht zur Überprüfung des Steuerberaters bejaht werden könnte. Dafür bestehen aus der Sicht des Senats derzeit keine hinreichenden Anhaltspunkte.
+
+8 2. Die Kostenentscheidung beruht auf § 143 Abs. 2 FGO.
