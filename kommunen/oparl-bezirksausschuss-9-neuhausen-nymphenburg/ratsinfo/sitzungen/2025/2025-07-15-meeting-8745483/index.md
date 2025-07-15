@@ -1,0 +1,141 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2025-07-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8745483
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8745483
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung über die form- und fristgerechte Ladung, Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokollentwürfe (öffentliche + nicht-öffentliche Sitzung) der Sitzung vom 24.06.2025
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 --> Antrag auf Erweiterung einer bestehenden Freischankfläche (Heideckstraße)
+- TOP 3.2: Anliegen von Bürger*innen, Anträge
+- TOP 3.2.1.: Scooter-Parkfläche notwendig / Hirschgarten-Ausgang an Westseiten De-la-Paz-Straße
+- TOP 3.2.2.: Situation Volkartstraße
+- TOP 3.2.3.: Gefahr durch erwachsene Radler auf Gehwegen in Neuhausen-Nymphenburg (und mögliche Abhilfe?)
+- TOP 3.2.6.: BA 9: 9. Paket: Mehr Fahrradstellplätze für die Bürger*innen in Neuhausen-Nymphenburg
+- TOP 3.2.7.: SPD-Fraktion: Antrag - Verbesserung der Verkehrssituation vor der Eisdiele Sarcletti - Bezug: TOP 3.2.13 aus 06/2025 - vertagt in 07/2025 -
+- TOP 3.2.8.: Grünen-Fraktion: Antrag - Freigabe Pötschnerstraße für gegenläufigen Radverkehr
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: BA-Anhörung: Sedlmayrstraße Parklizenzgebiet "Rotkreuzplatz Süd" Einrichtung eines Parkplatzes für Motorräder - Stellungnahmeersuchen des MOR -
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Verkehrsblockade im Münchner Westen" - Antwortschreiben des MOR - Bezug: TOP: 3.4.11 aus 09/2024 -
+- TOP 3.4.2.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Sichtbeziehungen an der Kreuzung Hohenlohestraße / Ecke Dantestraße herstellen" - Antwortschreiben des MOR - Bezug: TOP 3.2.6 aus 05/2025 -
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: --> Arbeiten im Straßenraum; Schulstraße 23 (Straßenbauarbeiten) vom 30.06.2025 bis 11.07.2025 (3 Arbeitstage) + --> Erweiterung: Schulstraße 42 vom 02.07.2025 bis 11.07.2025 (3 Arbeitstage) --> Arbeiten im Straßenraum; Orffstraße 22, 28, 50 (Schachtsanierung, Austausch Mannloch Schachtabdeckung) vom 21.06.2026 bis 27.06.2025; --> Arbeiten im Straßenraum; Gümbelstraße (SWM 110 kV) - Erweiterung: BE-Flächen Nymphenburger Straße vom 12.07.2025 bis 26.09.2025; --> Arbeiten im Straßenraum; Gümbelstraße (mit Blutenburgstraße 57 - 59) Phase 5+6 (Verlegung Stahlmantelrohr für 110 kV) vom 28.06.2025 bis 26.09.2025; --> Arbeiten im Straßenraum; Donnersbergerstraße + Schlörstraße (SWM FW) vom 30.06.2025 bis 19.12.2025; --> Arbeiten im Straßenraum; Marsstraße Ecke Hopfenstraße + Hopfenstraße zwischen Tiefgarage und Marsstraße (Wiederherstellung der Deckschicht und des baulichen Mittelteilers) vom 01.07.2025 bis 01.08.2025 (15 Arbeitstage); --> Arbeiten im Straßenraum; Johann-Sebastian-Bach-Straße 20, 27, 28 (Schachtsanierung, Austausch Mannloch Schachtabdeckung) vom 30.06.2025 bis 03.07.2025
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: --> Arbeiten im Straßenraum; Romanplatz / Wotanstraße / Arnulfstraße / Gaßnerstraße Bauphase 10.3 vom 12.06.2025 bis 30.06.2025; --> Arbeiten im Straßenraum; Wotanstraße Kreuzung Herthastraße und Kreuzung Kemnatenstraße Bauphase 1.1 und 1.2 vom 18.06.2025 bis 30.06.2025; --> Arbeiten im Straßenraum; Wotanstraße zwischen Herthastraße und Gaßnerstraße Bauphase 2.1 - HW5 TramWestTangente vom 26.06.2025 bis 01.09.2025; --> Arbeiten im Straßenraum; Romanplatz / Wotanstraße / Arnulfstraße / Gaßnerstraße Bauphase 10.2 vom 30.06.2025 bis 04.07.2025
+- TOP 3.5.3.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Verkehrssituation (Wohngebiet zwischen Hirschgarten / Wilhelm-Hale-Straße / S-Bahn-Stammstrecke)" - schriftliche Erwiderung des Bürgers auf das Antwortschreiben des MOR - Bezug: TOP 3.4.5 aus 07/2024 -
+- TOP 3.5.4.: Mitteilung des MOR über die Umsetzung zweier verkehrsrechtlicher Anordnungen: - Parkraummanagement - Rotkreuzplatz Süd Hier: Anpassung der Beschilderung der Lieferzone Schulstraße 1 - Wirtschaftsverkehr - St.-Vinzenz-Viertel Hier: Anordnung einer Lieferzone vor Elvirastraße 7 (Straßenseite Blutenburgstraße)
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: Kontrolle der Einladungslisten für den BA-Jahresempfang am 22.10.2025
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Anliegen von Bürger*innen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Hirschgarten Erweiterung der Hauptschänke mit Bereinigung des Umfelds und Bodenentsiegelung
+- TOP 4.3.2.: Blutenburgstraße 33 VGB: Umbau mit Nutzungsänderungen. von Bäckerei-Wohnen, Speicher-Wohnen, Errichtung Balkone, Einbau Aufzug, Dachgaube (Nachgenehm.), Dachterr. und DFF; RGB: Wiederherst. des DG wie im letztgenehmigten Stand, Nutz.Änd. Werkstatt-Wohnen, Anbau m Terrasse
+- TOP 4.3.3.: Ysenburgstraße 1 Nutzungsänderung EG Wohngebäude Ysenburgstraße - Rückbau bisherige Ladenfläche zu zwei Mietwohnungen
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 4.6.2.: Kontrolle der Einladungslisten für den BA-Jahresempfang am 22.10.2025
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Anliegen von Bürger*innen, Anträge
+- TOP 5.2.1.: FDP-Fraktion: Antrag - Hunde und Hundesteuer in Neuhausen-Nymphenburg
+- TOP 5.2.2.: FDP-Fraktion: Antrag - "Sommerspritzer" auch für Neuhausen-Nymphenburg
+- TOP 5.2.3.: Sommer-Tollwood im Olympiapark
+- TOP 5.2.4.: Dringende Beschwerde zum Zustand des Areals an der Paketposthalle (Pineapple Park) - dringender Handlungsbedarf
+- TOP 5.2.5.: Nichtraucherschutz und Sauberkeit Liegewiese im Dantefreibad
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsantrag: Landshuter Allee 77
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Grünen-Fraktion: Antrag - Saubere öffentliche Flächen: Zigarettenkippen reduzieren
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; --> Filmdreharbeiten für eine Filmproduktion, Donnersbergerstraße
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 5.6.2.: Kontrolle der Einladungslisten für den BA-Jahresempfang am 22.10.2025
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Anliegen von Bürger*innen, Anträge
+- TOP 6.2.1.: Antrag auf Entfernung des Containers auf dem Parkplatz Hirschgarten
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Bestellung einer städtischen Leistung (BSL): Aufstellung von zwei Bänken auf dem Rotkreuzplatz in Neuhausen-Nymphenburg - Bezug: TOP 6.2.1 aus 04/2025 -
+- TOP 6.4.2.: Antrag - Kleinkindschaukel auf dem Spielplatz im Grünwaldpark möglich?
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: BA-Unterrichtung: Vollzug der Erhaltungssatzung "Neuhausen"
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Berichte der Beauftragten
+- TOP 6.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 6.6.3.: Kontrolle der Einladungslisten für den BA-Jahresempfang am 22.10.2025
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Anliegen von Bürger*innen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5.1.: Antrag - Benennung Brücke --> Zwischennachricht des KR zu BA-Antrag z.K. - Bezug: TOP 7.4.1 aus 01/2025 - WV in 07/2025 -
+- TOP 7.4.1.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Vermietung Stellplätze MGH Kreativquartier" - Antwortschreiben der MGH - Bezug: TOP 7.2.1 aus 05/2025 -
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Berichte Veranstaltungen
+- TOP 7.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 7.6.3.: Kontrolle der Einladungslisten für den BA-Jahresempfang am 22.10.2025
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. „Konfliktmediation an GS vom 01.10 - 31.07.2026“ 6.000,00 Euro; Az. 0262.0-9-0847 - Bezug: TOP 8.1.1 aus 06/2025 - vertagt in 07/2025 -
+- TOP 8.2: Anliegen von Bürger*innen, Anträge
+- TOP 8.2.1.: Vorschlag für eine städtische Leistung im Stadtbezirk: "Erwachsenen-Freiluft-Sport"
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Antrag - Pickleball-Platz für Neuhausen-Nymphenburg
+- TOP 8.4.2.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Tischtennisplatten am Rupprecht-Gymnasium" - Antwortschreiben des RBS - Bezug: TOP 8.2.2 aus 04/2025 -
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Ergebnisse Interfraktioneller Arbeitskreis (IFAK) Schul- und Kitabau
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 8.6.2.: Kontrolle der Einladungslisten für den BA-Jahresempfang am 22.10.2025
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Anliegen von Bürger*innen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund hier: Italienischer Markt vom 12. - 16.09.2025 auf dem Rotkreuzplatz - Stellungnahmeersuchen des KVR mit Frist bis zum 01.08.2025 -
+- TOP 9.3.2.: Unterstützungsaufruf des BA 17 Obergiesing-Fasangarten hinsichtlich seines BA-Antrags "Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen" (BA-Antrag Nr. 20-26 / B 07797)
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 9.6.1.: Quartierskonzept Schluderstraße, Vorstellung im Trafo am 09. Oktober
+- TOP 10.: Nicht-öffentliche Sitzung
+- TOP 3.2.4.: Mehrere Bürgeranliegen an den BA 9 zum Thema "Tram-Westtangente - Umleitungen Baustelle Wotanstraße durch das Hirschgartenviertel"
+- TOP 3.2.5.: Antrag auf Veränderung der Halt- und Parkmöglichkeiten in der Margarethe-Danzi-Straße
+- TOP 3.2.9.: BA 9: Antrag - Verkehrsrechtliche Anordnungen auf Ausweichrouten für den Schwerlastverkehr Baustelle Tram-Westtangente BA Romanplatz <> Laimer Unterführung
+- TOP 7.1.1.: (E) Stadtbezirksbudget Init. Cinema Iran „Cinema Iran bei den Filmkunstwochen vom 01.08. - 08.08.2025“ 1.287,50 € / AZ: 0262.0-9-0875
+- TOP 7.1.2.: (E) Stadtbezirksbudget Init. "Wandgestaltung" Wandgestaltung SWM-Häuschen Ferdinand-Maria-Str. - 20.08.-20.10.2025 2.060,00€; Az. 0262.0-9-0876
+- TOP 7.1.3.: (E) Stadtbezirksbudget Storybox München gUG Losgeschichten im Grünwaldpark und am Bücherschrank vom 01.08.-30.09.2025 787,50€; 0262.0-9-0874
+- TOP 7.1.4.: (E) Stadtbezirksbudget Init. Orange Juteux „Kunstprojekt Orange Juteux vom 21.07. - 03.08.2025“ 3.190,65 Euro; Az. 0262.0-9-0873
+- TOP 7.6.4.: Projektfortsetzung Gestaltung Rückwand Wertstoffhof
+- TOP 9.6.2.: Varianten für die BA-Schaukästen
+- TOP 3.6.3.: Sonstiges
+- TOP 4.6.3.: Leerstand Rupprechtstraße 17
+- TOP 5.6.3.: Sonstiges
+- TOP 6.6.4.: Sonstiges
+- TOP 8.6.3.: Sonstiges
