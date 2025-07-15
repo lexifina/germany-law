@@ -1,0 +1,6 @@
+# TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit der Wahlausschusssitzung Erläuterung: § 2 (3) Satz 2 bis 5 Kommunalwahlgesetz: Der Wahlausschuss entscheidet in öffentlicher Sitzung. Er ist ohne Rücksicht auf die Zahl der erschienenen Beisitzer beschlussfähig. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Im Übrigen finden auf den Wahlausschuss die allgemeinen Vorschriften des kommunalen Verfassungsrechts entsprechende Anwendung § 6 (2) Kommunalwahlordnung: Ort, Zeit und Gegenstand der Beratungen des Wahlausschusses sind öffentlich bekanntzumachen; vereinfachte Bekanntmachung, verbunden mit dem Hinweis, dass jedermann Zutritt zu der Sitzung hat, genügt. Der Wahlleiter weist darauf hin, dass die Einladung gem. § 6 Abs. 2 Kommunalwahlordnung (KWahlO) ordnungsgemäß bekannt gemacht wurde und dass in jedem Fall Beschlussfähigkeit vorliegt, unabhängig von der Zahl der erschienenen Beisitzer.
+
+- Sitzung: Wahlausschuss (2. Sitzung) (2025-07-15)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/42764
