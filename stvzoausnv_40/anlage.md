@@ -1,6 +1,4 @@
-# Anlage (zu § 1 Satz 2)
-
-Anforderungen an Bremsvorwarnsysteme
+# Anlage (zu § 1 Satz 2)Anforderungen an Bremsvorwarnsysteme
 
 1. Definition
     Bremsvorwarnsysteme sind Einrichtungen und Schaltungen, die das Aufleuchten der Bremsleuchten auch bewirken, wenn eine Betriebsbremsung zu erwarten ist.

@@ -1,6 +1,4 @@
-# Anlage 2 Teil 2 (zu § 7 Abs. 3)
-
-Kennbuchstaben, die nicht mehr zugeteilt werden
+# Anlage 2 Teil 2 (zu § 7 Abs. 3)Kennbuchstaben, die nicht mehr zugeteilt werden
 
 (Fundstelle: BGBl. I 1998, 2154)
 | weiterhin gültiger Kennbuchstabe, der nicht mehr zugeteilt wird | Prüfstelle | Teileart, für die die Prüfstelle zuständig war; Grund für die aufgehobene Zuständigkeit |
