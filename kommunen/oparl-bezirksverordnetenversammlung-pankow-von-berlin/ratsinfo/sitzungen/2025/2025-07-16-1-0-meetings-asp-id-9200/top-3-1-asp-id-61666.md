@@ -1,0 +1,8 @@
+# TOP 3.1: Änderung des Sitzungskalenders der BVV Pankow für 2025 zur Erarbeitung des Doppelhaushalts 2026/2027
+
+- Sitzung: 10. außerordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin (2025-07-16)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=61666
+- Ergebnis: ohne Änderungen in der BVV beschlossen
+- Beratung: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/consultations.asp?typ=i&id=61666
