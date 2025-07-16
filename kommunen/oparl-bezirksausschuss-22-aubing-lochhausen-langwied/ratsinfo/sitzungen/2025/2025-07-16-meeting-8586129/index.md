@@ -1,0 +1,114 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2025-07-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8586129
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8586129
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Tempo-30-Zone Altostraße
+- TOP 2.1.2.: Öffentliche Nutzung des Sportparks Freiham / Klärung der Zugangsvoraussetzungen + Schr. Ref. f. Bildung u. Sport vom 04.07.25
+- TOP 2.1.3.: Verbesserung der Aufenthalts- und ökologischen Qualität der Fläche Mariabrunner Straße
+- TOP 2.1.4.: Grünflächen Aubing ost
+- TOP 2.1.5.: Tempo 30 in der Brunhamstraße
+- TOP 2.1.6.: Carsharing-Angebot in Aubing-Lochhausen-Langwied
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 4.: Anträge
+- TOP 4.1.: Instandsetzung des Radweges Negrellistraße (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.2.: Außengestaltung St. Konrad: Absenkung der Radausfahrt Plankenfelser Straße (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.3.: Ertüchtigung Linksabbiegen in die Hans-Dietrich-Genscher-Straße (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.4.: Ein Sozialbürgerhaus in Freiham einplanen (Kriesel, Spannagl, Stockmann, Götz-Schubach)
+- TOP 4.5.: Hitzeschutzplan für Freiham (Stockmann, Kriesel, Spannagl)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Freie Ateliers und Werkstätten Ehrenbürgstraße e. V. "offen für alle" 2025 vom 10. - 12.10.2025 4.000,00 Euro, Az.: 0262.0-22-0290 (vertagt aus 06/25)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht OB, hier: Antrag auf Freischankfläche Eisdiele "Gelato di Monaco", Margarethe-Vollmar-Str. 2
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht OB, hier: Antrag auf Freischankfläche "Dönerbuam", Margarethe-Vollmar-Str. 2
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht OB; hier: Antrag auf Warenauslage Feinkost Lisac, Aubinger Allee 15
+- TOP 5.5.: (E) Stadtbezirksbudget Elternbeirat Nörr Kids - Haus für Kinder Ausflug zum Tierpark am 15.07.2025 1.538,00 Euro, Az.: 0262.0-22-0294
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung einer Veranstaltung, hier: - Tag der offenen Tür Freiham am 19.07.25, Hans-Clarin-Str. Ecke Gustl-Bayrhammer-Str. im Freien in städt. Grünanlage, Anhörung KVR vom 01.07.25 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Übersicht II. Quartal des Stadtbezirksbudgets des BA 22, Schr. Direktorium vom 26.06.25
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Hilfe bei Suche nach Nachmittagsbetreuungsplatz, Schr. Ref. f. Bildung u. Sport vom 27.06.25
+- TOP 6.2.2.2.: Sonnenschutz auf Spielplätzen, Schr. Baureferat vom 30.06.25
+- TOP 6.2.2.3.: Dringende Klärung der Zuständigkeiten am Schulcampus Freiha, Schr. Ref. f. Bildung u. Sport vom 23.04.25 (vertagt aus 06/25)
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Albert-Camus-Straße, Freiham-Nord, Einrichtung eines allgem. Sonderparkplatzes für Schwerbehinderte, Anhörung Mobilitätsreferat vom 27.06.25
+- TOP 6.3.1.2.: Freiham Nord - 1. RA - 6. Straßenendausbaupaket, Bodenseestraße, Aubinger Allee, Hörweg, Anhörung Baureferat vom 01.07.25
+- TOP 6.3.1.3.: Freiham Nord - 2. RA - 1. Teilausbaupaket, Widmungsfähiger Teilausbau U-1822, U-1827, U-1829, Anhörung Baureferat vom 01.07.25
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Parkgarage Aubinger Allee / Christel-Sembach-Krone-Straße, Schr. PI 45 vom 30.06.25
+- TOP 6.3.2.2.: Umsetzung der Behinderten-Stellplätze in Freiham, Status, Schr. Behindertenbeirat vom 27.06.25
+- TOP 6.3.2.3.: Änderungen Verkehrsregelungen in der Pretzfelder Straße, Schr. Mobilitätsreferat vom 01.07.25 + Schr. Baureferat vom 03.07.25
+- TOP 6.3.2.4.: Durchfahrt Hörweg, Schr. Mobilitätsreferat vom 02.07.25
+- TOP 6.3.2.5.: Grundschule Aubinger Allee, Parkende Autos, Lkw und Anhänger, Schr. Mobilitätsreferat vom 02.07.25 + Schr. Bürger vom 02.07.25
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Altostr. 24, Machbarkeitsstudie Wohnbebauung Altostraße - Vorbescheid, Anhörung Planungsreferat vom 26.06.25
+- TOP 6.4.1.2.: Altostr. 30, Neubau von 5 Reihen- und 2 Mehrfamilienhäusern mit Tiefgarage - Änderungsantrag, Anhörung Planungsreferat vom 01.07.25
+- TOP 6.4.1.3.: Orstermin Vorstellung der Planung barrierefreier Steg am Lußsee, Anhörung Baureferat vom 25.06.25
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Anfrage: Integriertes Strukturkonzept für Lochhausen/Langwied - Was ist der aktuelle Sachstand?, Schr. Planungsreferat vom 27.06.25
+- TOP 6.4.2.2.: Akustische Luftverschmutzung durch Deutsche Post Niederlassung DHL Gleisharfe Neu Aubing, Schr. Ref. f. Klima- und Umweltschutz vom 26.06.25
+- TOP 6.4.2.3.: Erweiterung des Mobilfunkstandortes mit Standortbescheinigung, Stockacher Str. 6/10, Schr. Ref. f. Klima- und Umweltschutz vom 01.07.25
+- TOP 6.4.2.4.: Bebauungsplan Nr. 2154 1. BA 2. RA Freiham Nord - Beteiligung der Öffentlichkeit vom 01.07.-01.08.-25, Schr. Planungsreferat vom 26.06.25
+- TOP 6.4.2.5.: Bauanträge im 22. Stadtbezirk: 16.06.-22.06.25, 23.06.-29.06.25, 30.06.-06.07.25
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024; Beschlussvorlage für den Verwaltungs- und Personalausschuss, Anhörung Direktorium vom 25.06.25
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Verkauf eines Grundstückes, Krähenweg Flst. 3441/0 Aubing, Schr. Kommunalreferat vom 02.07.25
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Kinder- und Jugendhilfeausschuss vom 06.05.25 - Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen Roman-Herzog-Str. 5 im Baugebiet Freiham Nord WA 18 22. Stadtbezirk Aubing-Lochhausen-Langwied Genehmigung des Nutzer*innenbedarfsprogramms
+- TOP 9.2.: Sozialausschuss vom 26.06.25 - Neueröffnung einer Unterkunft zur Unterbringung Geflüchteter an dem Standort • Lochhausener Straße (Flst.Nr. 709, Gem. Langwied) 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 9.3.: Vollversammlung vom 30.04.25 - Ergebnisse Interfraktioneller Arbeitskreis (IFAK) Schul- und Kitabau
+- TOP 9.4.: Vollversammlung vom 02.07.25 - Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 06.08.25 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 07.07.25 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 08.07.25 um 19.30 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 09.07.25, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 10.07.25, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.7.: (N) - Unlauterer Wettbewerb und nicht genehmigte gewerbliche Aktivitäten auf dem genossenschaftlichen Quartiersplatz in der Ute-Strittmacher-Straße
+- TOP 2.1.8.: (N) - Spiel- und Sportplatz Grete-Weil-Straße - Lärmbelästigung und Beschilderung der Nutzungszeiten
+- TOP 2.1.9.: (N) - Mit Abschuss gegen Krähenplage? Piloprojekt soll helfen
+- TOP 2.1.10.: (N) - Allee Anton-Böck-Straße vervollständigen
+- TOP 2.1.11.: (N) - Straßenbegleitgrün besser gestalten
+- TOP 2.1.12.: (N) - Unterführung Limesstraße - Schulweg (3 Bürgeranliegen)
+- TOP 2.1.13.: (N) - Umleitungsverkehr in der Ubostr. / Altostr. und Spieltränkergasse
+- TOP 2.1.14.: (N) - Parkplatz Waldschranke Eichenauerstraße Aubinger-Loh-Weg (3 Bürgeranliegen)
+- TOP 2.1.15.: (N) - Zebrastreifen in der Ubostraße
+- TOP 2.1.16.: (N) - Kindergarten Teckstraße
+- TOP 6.3.2.6.: (N) - Durchgang Bergsonstr. / Noderstr., Schr. Baureferat vom 07.07.25
+- TOP 6.3.2.7.: (N) - Durchfahrtsverbote und Fußgängerzonen Pasing/Freiham
+- TOP 6.3.2.8.: Verkehrsrechtliche Anordnung, hier: (N) - Ute-Strittmatter-Str. ggü 30, Einrichtung eines allgemeinen Sonderparkplatz für Schwerbehinderte, Schr. Mobilitätsreferat vom 04.07.25 (N) - Am Aubinger Wasserturm vor Hs-Nr. 24, Einrichtung eines personenbezogenen Behindertenparkplatzes, Schr. Mobilitätsreferat vom 03.07.25
+- TOP 6.3.2.9.: (N) - Zeitplan zur Umsetzung des beidseitigen Radweges in der Lochhausener Straße, Schr. Mobilitätsreferat vom 16.06.25
+- TOP 6.3.2.10.: (N) - Vermeidung von Parktourismus in Freiham, Schr. Mobilitätsreferat vom 30.06.25
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 16.07.25 - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die Änderungen der Novelle der Bayerischen Bauordnung (BayBO) 2025 A. Neuerlass einer Satzung der Landeshauptstadt München zur Einführung einer Plicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) B. Evaluation der Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge vom 19.12.2007 (Stellplatzsatzung - StPlS) C. Behandlung von Stadtratsanträgen und Stadtratsaufträgen
+- TOP 9.6.: Gemeinsame Sitzung des Bildungsausschusses, Sportausschusses und Bauausschusses vom 16.07.25 - Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk - Ubostr. 47 - Karl-Harz-Weg 23 - Gailenreuther Str. 17 (N) - Tettnanger Str. 19 (N) - Hoheneckstr. 44 (N) - Graßlfinger Str. 8
+- TOP 3.1.2.: Baumfällungsbescheide: (N) - Schwojerstr. 32 a
+- TOP 6.4.1.4.: (N) - Industriestr., 25/2-Aubing, Neubau von 8 Reihenhäusern und 3 Garagen mit 8 Stellplätzen - VORBESCHEID, Schr. Planungsreferat vom 09.07.25
+- TOP 6.4.2.6.: (N) - Aubing-Gewerbegebiet - Geplante Errichtung einer Mobilfunksendeanlage der Vodafone GmbH
+- TOP 5.6.: (N) - (Dringlichkeitsantrag) Stadtbezirksbudget CultureClouds e.V. Zirkus Pumpernudl vom 26.09. - 28.09.2025 3.500,00 Euro, Az.: 0262.0-22-0297
+- TOP 6.2.1.1.: (N) - Antrag auf bezirksübergreifende Veranstaltung in städt. Grünanlagen, hier: Zusatztermin Zirkus Pumpernudl, Grünfläche Ziegeleistraße vom 26.09.-28.09.25, Anhörung KVR vom 10.07.25
+- TOP 2.1.17.: (N) - Lärmbelästigung „Bergson Kunstkraftwerk“
