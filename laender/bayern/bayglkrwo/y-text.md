@@ -1,0 +1,1 @@
+Auf Grund des Art. 58 des Gesetzes über die Wahl der Gemeinderäte, der Bürgermeister, der Kreistage und der Landräte (Gemeinde- und Landkreiswahlgesetz – GLKrWG) in der Fassung der Bekanntmachung vom 7. November 2006 (GVBl S. 834, BayRS 2021-1/2-I) erlässt das Bayerische Staatsministerium des Innern folgende Wahlordnung:
