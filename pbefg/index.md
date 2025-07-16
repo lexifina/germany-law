@@ -13,8 +13,7 @@
 - [§ 4 Straßenbahnen, Obusse, Kraftfahrzeuge](0004.md)
 - [§ 5 Dokumente](0005.md)
 - [§ 6 Umgehungsverbot](0006.md)
-- [§ 7 Beförderung von Personen auf Lastkraftwagen und auf
-Anhängern hinter Lastkraftwagen und Zugmaschinen](0007.md)
+- [§ 7 Beförderung von Personen auf Lastkraftwagen und auf Anhängern hinter Lastkraftwagen und Zugmaschinen](0007.md)
 - [§ 8 Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr](0008.md)
 - [§ 8a Vergabe öffentlicher Dienstleistungsaufträge](0008a.md)
 - [§ 8b Wettbewerbliches Vergabeverfahren](0008b.md)
@@ -43,8 +42,7 @@ Anhängern hinter Lastkraftwagen und Zugmaschinen](0007.md)
 - [§ 26 Erlöschen der Genehmigung](0026.md)
 - [§ 27 Zwangsmaßnahmen](0027.md)
 
-## III. Sonderbestimmungen für die einzelnen
-Verkehrsarten
+## III. Sonderbestimmungen für die einzelnen Verkehrsarten
 
 
 ### A. Straßenbahnen
@@ -111,8 +109,7 @@ Verkehrsarten
 - [§ 55 Vorverfahren bei der Anfechtung von Verwaltungsakten](0055.md)
 - [§ 56 Gebühren](0056.md)
 
-## VII. Erlaß von Rechtsverordnungen und
-Allgemeinen Verwaltungsvorschriften
+## VII. Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften
 
 - [§ 57 Rechtsverordnungen](0057.md)
 - [§ 58 Allgemeine Verwaltungsvorschriften](0058.md)

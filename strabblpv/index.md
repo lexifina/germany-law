@@ -30,8 +30,7 @@
 - [§ 17 Täuschungshandlungen und Ordnungsverstöße](0017.md)
 - [§ 18 Rücktritt und Nichtteilnahme](0018.md)
 
-## Vierter Abschnitt Bewertung und Feststellung der
-Prüfungsergebnisse sowie Prüfungszeugnisse
+## Vierter Abschnitt Bewertung und Feststellung der Prüfungsergebnisse sowie Prüfungszeugnisse
 
 - [§ 19 Bewertung der Prüfungsleistungen](0019.md)
 - [§ 20 Feststellung und Bekanntgabe des Prüfungsergebnisses](0020.md)
