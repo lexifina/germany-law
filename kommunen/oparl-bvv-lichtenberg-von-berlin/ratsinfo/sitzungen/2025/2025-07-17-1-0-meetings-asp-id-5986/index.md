@@ -1,0 +1,87 @@
+# 43. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-07-17T17:00:00+02:00
+- Ende: 2025-07-17T21:45:00+02:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5986
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5986
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=430947
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Einwohnerantrag: Für Verkehrsberuhigung mit Augenmaß - gegen autofeindliche Politik - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: 11G40 wird flott - mit neuer Sportfläche - vertagt
+- TOP 4.2: Rücknahme der jugendamtsbezogenen Haushaltssperre im Bezirksamt Lichtenberg - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahl je einer Schiedsperson für den Schiedsamtsbezirk 1 und den Schiedsamtsbezirk 3 in Berlin-Lichtenberg - gewählt
+- TOP 5.2: Plauener Straße schnellstmöglich öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Wahlvorschlag zu Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Wahlvorschlag zu den Abberufungen von Mitgliedern aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Park nach Libertas Schulze-Boysen benennen - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Mauritiuskirchstraße entwidmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Bis das der Putz uns scheidet? Schul- und Sporthallensanierung jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Künftige Nutzung des Grundstücks Salzmannstraße 34 klären - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Starke Qualifikation - starke Jugend(verbands)arbeit - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Barrierefreiheit auf Fußwegen erhöhen - Poller sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Lieferflächen in Lichtenberg entsprechend des Leitfadens einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Spielplatzfläche nicht zur abgepollerten Blühwiese machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Nächtliches Parken in der Treskowallee ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Entwicklung der Fläche Drossener Straße/Am Faulen See: Ideen der Bürger*innen berücksichtigen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Gehwegsicherheit verbessern - Weg "Am Lindenplatz" sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Bordsteinkante in der Altenhofer Straße sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Ausstellung zur Historie des Wassersports auf dem Rummelsburger See im Museum Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Sozialberatung für auf dem See lebende Menschen anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Fahrradstraße Karlshorst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Zufahrt für Anwohner und Feuerwehr sichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: B-Plan 11-22 - Rücksicht auf Senior:innen nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Außenbezirke nicht abhängen: Öffentlich gefördertes Leihradsystem in Lichtenberg erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: BVV-Sondermittel SV Bau-Union Berlin e.V. - Aufsitzrasenmäher Stadion 1. Mai/Abteilung Croquet - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.24: Sondermittelantrag Graphik-Collegium Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Sondermittelantrag RuFV Kleeblatt e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Zwieseler Straße von der Robert-Siewert-Straße bis zum Richard-Kolkwitz-Weg als Fahrradstraße ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Kurzfristige Maßnahmen gegen häusliche Gewalt - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Durchblick spenden: Brillen sammeln für den guten Zweck - überwiesen
+- TOP 5.29: Viktoriastadt - überwiesen
+- TOP 5.30: Sanierung von Geh- und Radwegen in der Waldowallee zwischen Rheinsteinstraße und Marksburgstraße - überwiesen
+- TOP 5.31: Kirschblütenfest am Hagenower Ring - überwiesen
+- TOP 5.32: Patengroßeltern in die Kinderarmutspräventionsstrategie etablieren - überwiesen
+- TOP 5.33: Hitzeschutz erlebbar machen - Sprühnebelsysteme für Lichtenberg - überwiesen
+- TOP 5.34: Einen Trinkbrunnen für die Skateanlage im Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: Dathepromenade aufwerten – Heinrich Dathe würdigen - überwiesen
+- TOP 5.36: Verkehrsberuhigung und Erhöhung der Verkehrssicherheit in der Zachertstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.37: Schule im Campus Herzbergstraße ermöglichen - überwiesen
+- TOP 5.38: Vom Wegsehen zum Zusehen - die Müllansammlung in der Otto-Schmirgal-Straße am Tierpark zeitnah beseitigen - überwiesen
+- TOP 5.39: Wohin in den Ferien? Infoflyer zu Ferienangeboten drucken - überwiesen
+- TOP 5.40: Barrieren beim Zugang zu Notunterkünften abbauen - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitgliedes des Bezirksamtes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitgliedes im Vorstand der BVV - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 9.1: Gedenken gemeinnützig veranstalten - Kein Platz für Holocaustleugner! - überwiesen
+- TOP 9.2: Einhaltung der Vorschriften auf öffentlichen Spielplätzen einfordern - in der BVV abgelehnt
+- TOP 9.3: Lichtenberg schließt sich der Initiative "Klimapositive Städte und Gemeinden" an - überwiesen
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2026/27 - überwiesen
+- TOP 10.2: Schulwegsicherheit in der Ferdinand-Schultze-Straße verbessern - überwiesen
+- TOP 10.3: Kinderopernhaus Berlin nicht nur feiern, sondern auch finanzieren! - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Demokratie auf Kommunalebene wertschätzen - die BVV soll Teil des Campus für Demokratie werden - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Lichtenberg stellt sich gegen jede Form politisch motivierter Gewalt - in der BVV abgelehnt
+- TOP 10.6: Hitzeschutz-Gelder nicht verdunsten lassen, Herr Bürgermeister! - Lichtenbergs „Urban Heat Lab“ retten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Knirpsenfarm retten - überwiesen
+- TOP 10.8: Kinderbauernhof “Knirpsenfarm” in Malchow erhalten – Finanzierung auf allen Ebenen sichern - überwiesen
+- TOP 11: Große Anfragen - (offen)
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) (s. TOP 5.3, 5-4 und 10.1) - (offen)
+- TOP 13: Beschlussempfehlungen der Ausschüsse (s. TOP 5.4 bis 5.27) - (offen)
+- TOP 14: Anträge zur Beschlussfassung (s. auch TOP 5.2 und TOP 5.28 bis 5.40) - (offen)
+- TOP 15: VzK/Aufhebungsanträge - (offen)
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - (offen)
