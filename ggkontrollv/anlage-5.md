@@ -1,7 +1,4 @@
-# Anlage 5 (zu § 5 Abs. 1)
-
-Muster des Formulars für den Bericht an das BMVBW über
-Verstöße und Maßnahmen
+# Anlage 5 (zu § 5 Abs. 1)Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 | Bundesland: | Jahr: |

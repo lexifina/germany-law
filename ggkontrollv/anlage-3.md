@@ -1,6 +1,4 @@
-# Anlage 3 (zu § 3 Abs. 7)
-
-Verstöße
+# Anlage 3 (zu § 3 Abs. 7)Verstöße
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
 Für die Zwecke dieser Verordnung stellt die folgende, nicht erschöpfende Liste mit drei Gefahrenkategorien (wobei Kategorie I die schwerwiegendste ist) eine Leitlinie dafür dar, was als Verstoß einzustufen ist.
