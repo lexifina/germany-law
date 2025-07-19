@@ -2,4 +2,3 @@
 
 - [(XXXX)](xxxx.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage](anlage.md)
