@@ -1,0 +1,70 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-07-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780512
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780512
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 16.06.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Massive Störungen in der Dachauer Straße
+- TOP 2.2.: Bänke für den Schöpferplatz
+- TOP 2.3.: Neubauten der ehemaligen GWG in der Dachauer Straße und in der Karlingersiedlung: Antrag auf Verbesserung der Barrierefreiheit
+- TOP 2.4.: Gewünschte Ampelanlage an der Kreuzung Feldmochinger-/Hardenberg-/ Quedlinburger Straße
+- TOP 2.5.: Negative Entwicklung in Moosach sowie Mangel an Freizeitplätzen trotz Möglichkeiten
+- TOP 2.6.: Fremdparker im Bereich von der Adernacher-, Feldmochinger- und Bingener Straße
+- TOP 2.7.: Unsägliche Nutzung eines Grundstücks in der Hanauer Straße
+- TOP 2.8.: Parksituation rund um das Dantebad/SAP-Garden
+- TOP 2.9.: Verschärfte Parksituation in der Borstei
+- TOP 2.10.: Vermüllung am Schulzentrum Gerastraße
+- TOP 2.11.: Müllablagerung und Lärmbelästigung bei der Glascontainer-Insel in der Riesstraße / Ecke Dieselstraße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Antrag zum Erhalt der beiden Nachbarschaftstreffs in Moosach
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Meggendorfer Straße 61
+- TOP 3.3.1.2.: Eggmühler Straße 6
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Vorübergehende Außerbetriebnahme der Ampeln am Moosacher Stachus
+- TOP 4.1.2.: Mehr Sicherheit für zu Fuß gehende, Schulkinder und Trambahn-Fahrgäste im Bereich zwischen den Haltestellen Olympiapark West, Borstei und Hanauer Straße
+- TOP 4.1.3.: Antrag der Fraktion FW/ÖDP: Pilotprojekt Spazierrundweg in Moosach für Menschen mit Orientierungsschwierigkeiten
+- TOP 4.1.4.: Antrag der Fraktion FW/ÖDP: Prüfung der Anpassung von Wasserhydranten zur Nutzung als Trinkwasserspender in Moosach
+- TOP 4.1.5.: Aufwertung des Spielplatzes Untere Krautstraße/Görlitzer Straße und Anbringen von Spielplatztafeln oder entsprechenden Zeichen mit dem Hinweis Hunde bitte fern zu halten
+- TOP 4.1.6.: Neuauftrag von Piktogrammen Verkehrszeichen 244.1 StVO, Beginn einer Fahrradstraße, entlang des Fahrradstraßenzugs Karl-Lipp-Str. – Gleißmüllerstr. – Welzenbachstr. – Templestr.
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Sicherung von Fahrgästen gegen Unfälle – Ertüchtigung der Tramhaltestellen entlang der Tram 20/21 in Moosach
+- TOP 4.2.2.: Nachtbuslinie zur Anbindung der S-Bahnhöfe Untermenzing, Allach und Karlsfeld an den U-Bahnhof Moosach
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Evangelisches Hilfswerk München gGmbH Sommerfest Teestube „komm“ am 08.08.2025 152,50€; Az. 0262.0-10-0430
+- TOP 6.: Anhörungen
+- TOP 6.1.: Unterstützungsaufruf des BA 17: Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen
+- TOP 6.2.: Antrag des UA Verkehr zum Dualen Parken am Dantebad
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anfrage der MVHS zur Müllsituation an der Ecke Bauberger-/ Bunzlauer Straße
+- TOP 7.2.: Antrag mehrerer Anwohner zum geplanten Studentenwohnheim in der Seydlitzstraße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Stellplätze für Shared-Mobility-Angebote
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: --> Arbeiten im Straßenraum; Dachauer Straße, Kreuzung Donauwörther Straße (Verlegung Wasserleitung im Kreuzungsbereich in mehreren Bauphasen und Nachtarbeit) --> Arbeiten im Straßenraum; Baubergerstraße 3-19 (Erschließung Fernwärme + Umlegung Wasserleitung) --> Arbeiten im Straßenraum; Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße: Straßenbauarbeiten in drei Bauphasen - 2. Änderung + Verlängerung - --> Arbeiten im Straßenraum; Dachauer Straße, Kreuzung Baubergerstraße - Pelkovenstraße: (Asphaltarbeiten im Gleisbereich, Nachtarbeit) -Terminverschiebung-
+- TOP 8.3.: Borstei Sommerfest am 12.07.2025 von 13.00 – 23.00 Uhr, Franz-Marc-Str. 1-12 (Straßensperre bis Hengelerstr.) - Vorabstellungnahme durch den BA-Vorsitzenden
+- TOP 8.4.: Ergebnisse Interfraktioneller Arbeitskreis (IFAK) Schul- und Kitabau
+- TOP 8.5.: (U) Straßenbenennung im 10. Stadtbezirk Moosach Karl-Bucher-Weg
+- TOP 8.6.: Spielfest in der Grünanlage am Hartmannshofer Bächl am 25.07.2025 von 14.00 – 18.00 Uhr - Vorabstellungnahme durch den BA-Vorsitzenden
+- TOP 8.7.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die Änderungen der Novelle der Bayerischen Bauordnung (BayBO) 2025 A. Neuerlass einer Satzung der Landeshauptstadt München zur Einführung einer Plicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) B. Evaluation der Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge vom 19.12.2007 (Stellplatzsatzung - StPlS) C. Behandlung von Stadtratsanträgen und Stadtratsaufträgen
+- TOP 8.8.: Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 8.9.: Vorkaufsrecht nach dem BauGB - Gärtnerstraße -nicht öffentlich-
+- TOP 8.10.: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen - Meggendorfer Straße -nicht öffentlich-
+- TOP 5.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung; Franz-Mader-Straße - Schulbauoffensive; Bauliche Anpassung im öffentlichen Straßenraum
