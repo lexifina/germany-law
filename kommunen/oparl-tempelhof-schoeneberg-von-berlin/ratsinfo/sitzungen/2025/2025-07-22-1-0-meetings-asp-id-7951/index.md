@@ -1,0 +1,51 @@
+# 31.öffentliche Sitzung des Ausschusses für Facility Management
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2025-07-22T17:00:00+02:00
+- Ende: 2025-07-22T17:23:00+02:00
+- Ort: Sitzungsraum 2112, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7951
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7951
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=474322
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Festlegung der Tagesordnung - erledigt
+- TOP 2: Genehmigung vorliegender Protokolle - erledigt
+- TOP 3: Bericht aus der Verwaltung - erledigt
+- TOP 4: Energiebericht-Beratung, sofern vom BA vorgelegt - vertagt
+- TOP 5: Unerledigte Beschlüsse - Umgang bzw. Erledigungshorizont für folgende unerledigte Beschlüsse - erledigt
+- TOP 5.1: Kapazitätserweiterung des Eckener-Gymnasiums auf dem Gelände an der Küterstraße prüfen - vertagt
+- TOP 5.2: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz - "Saubere Schulen in Tempelhof-Schöneberg" - vertagt
+- TOP 5.3: Begrünung des Robert Blum Gymnasiums - vertagt
+- TOP 5.4: Bessere Vorhänge für die Scharmützelsee-Grundschule - vertagt
+- TOP 5.5: Schulbau in unserem Bezirk priorisieren - Planung und Bau koordiniert voranbringen - vertagt
+- TOP 5.6: Seniorenfreizeitstätten mit freiem WLAN ausstatten - vertagt
+- TOP 5.7: Foyer des Schöneberger Rathauses wieder als Ausstellungsraum nutzbar machen - vertagt
+- TOP 5.8: WLAN-Rathäuser - vertagt
+- TOP 5.9: Neue Möglichkeiten bei Solaranlagen auch im Bezirk nutzen - vertagt
+- TOP 5.10: Neue Wegweiser und ein modernes barrierefreies Wegeleit- und Orientierungssystem für das Rathaus Schöneberg - vertagt
+- TOP 5.11: Graffiti an bezirklichen Bauwerken entfernen - vertagt
+- TOP 5.12: Bezirksgebäude fit machen fürs 21. Jahrhundert: Energetische Sanierungskosten einplanen - vertagt
+- TOP 5.13: Saubere Schultoiletten - Ein dringendes Bedürfnis - vertagt
+- TOP 5.14: Renovierung der Toiletten der Schätzelberg-Grundschule - vertagt
+- TOP 5.15: Die Renovierung der Toiletten der Rudolf-Hildebrand-Schule - vertagt
+- TOP 5.16: Renovierung der Toiletten der Grundschule auf dem Tempelhofer Feld - vertagt
+- TOP 5.17: Reparatur der Fenster und des Bodens der Turnhalle der Ikarus-Grundschule - vertagt
+- TOP 5.18: Renovierung der Toiletten der Turnhalle der Ikarus-Grundschule - vertagt
+- TOP 5.19: Grauwasserrecycling im Bezirk einführen - vertagt
+- TOP 5.20: Campus der Generationen: Versprechen gegenüber den Menschen im Schöneberger Norden einhalten - vertagt
+- TOP 5.21: Der Goldene Saal und seine Geschichte - vertagt
+- TOP 5.22: Ehemalige Hausmeisterwohnung im Rathaus Tempelhof sinnvoll nutzen - vertagt
+- TOP 5.23: Frauen in den BVV-Saal - Frauen-Portraits II - vertagt
+- TOP 5.24: Ehemaligen BVV-Saal im Rathaus Tempelhof für kulturelle Nutzung und öffentliche Versammlungen ertüchtigen - vertagt
+- TOP 6: Beratung der Drucksachen - (offen)
+- TOP 6.1: Aktualisierung und Aufwertung Energiebericht - vertagt
+- TOP 6.2: Renovierung der Schulklos der Tempelherren-Grundschule - vertagt
+- TOP 6.3: Wildes Plakatieren beenden - vertagt
+- TOP 6.4: Technische Ausstattung der BVV-Sitzungsräume - vertagt
+- TOP 7: Verschiedenes - (offen)
+- TOP 7.1: Nächster regulärer Termin am 23.09.2025 kollidiert mit 2.Lesung des Haushalts im Hauptausschuss: Lösung gesucht - erledigt
