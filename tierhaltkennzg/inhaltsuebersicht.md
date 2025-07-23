@@ -22,7 +22,7 @@ Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen
 | § 12 | Mitteilung von Haltungseinrichtungen inländischer Betriebe |
 | § 13 | Änderungsmitteilung für inländische Betriebe |
 | § 14 | Festlegung einer unbefristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe |
-| § 15 | Festlegung einer befristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe, die nicht die Anforderungen nach § 22 Absatz 3a Satz 1 Nummer 2 und Satz 2 der Tierschutz-Nutztierhaltungsverordnung erfüllen |
+| § 15 | (weggefallen) |
 | § 16 | Register für inländische Betriebe und Haltungseinrichtungen |
 | § 17 | Verarbeitung von Daten inländischer Betriebe |
 | § 18 | Löschung von Daten inländischer Betriebe |

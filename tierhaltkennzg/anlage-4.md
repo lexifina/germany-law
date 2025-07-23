@@ -2,7 +2,7 @@
 
 Abschnitt I: Haltungsform „Stall“
 Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, ist die Bezeichnung „Stall“ zu verwenden, wenn die Tiere im maßgeblichen Haltungsabschnitt in einer Haltungseinrichtung gehalten worden sind, die die Anforderungen nach Satz 3 erfüllt. Die Mastschweine müssen in einem befestigten, vollständig überdachten und geschlossenen oder überwiegend geschlossenen Gebäude oder Raum gehalten werden. Das Gebäude oder der Raum muss
-1. die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllen und
+1. die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung in der Fassung der Bekanntmachung vom 22. August 2006 (BGBl. I S. 2043), die zuletzt durch Artikel 1a der Verordnung vom 29. Januar 2021 (BGBl. I S. 146) geändert worden ist, erfüllen und
 2. so gestaltet sein, dass jedem Tier mindestens zur Verfügung steht:
   a) eine uneingeschränkt nutzbare Bodenfläche nach § 29 Absatz 2 Satz 1 der Tierschutz-Nutztierhaltungsverordnung,
   b) ein Liegebereich nach § 29 Absatz 2 Satz 2 der Tierschutz-Nutztierhaltungsverordnung und
@@ -25,7 +25,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
     ee) unterschiedlichen Lichtverhältnissen in den Buchten,
     ff) geeigneten Scheuervorrichtungen,
     gg) für jeweils bis zu 24 Mastschweine mindestens einer geeigneten Tränke mit offener Wasserfläche, die zusätzlich zu § 29 Absatz 3 in Verbindung mit § 28 Absatz 2 Nummer 5 der Tierschutz-Nutztierhaltungsverordnung zur Verfügung steht,
-    hh) einem Liegebereich, der höchstens einen Perforationsgrad von fünf Prozent aufweist und weich oder eingestreut sein muss und der entsprechend dem Durchschnittsgewicht der Tiere für jedes Tier mindestens eine Fläche nach Tabelle 2 aufweist,
+    hh) einem Liegebereich, der einen Perforationsgrad von höchstens fünf Prozent aufweist und weich oder eingestreut sein muss und der entsprechend dem Durchschnittsgewicht der Tiere für jedes Tier mindestens eine Fläche nach Tabelle 2 aufweist,
     ii) sonstigen Elementen, die eine zusätzliche Strukturierung der Bucht ermöglichen,
   oder
 2. in einer Haltungseinrichtung gehalten worden sind, die
@@ -47,7 +47,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
 Abschnitt III: Haltungsform „Frischluftstall“
 Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, ist die Bezeichnung „Frischluftstall“ zu verwenden, wenn die Tiere im maßgeblichen Haltungsabschnitt
 1. in einer Haltungseinrichtung gehalten worden sind, die
-  a) aus einem befestigten und ganz oder teilweise überdachten Gebäude oder Raum besteht, das oder der die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 Absatz 2, 3, 3a Satz 1 Nummer 1, 2 und Absatz 4 der Tierschutz-Nutztierhaltungsverordnung in der Fassung … [Entwurf 8. Änderungsverordnung] erfüllt,
+  a) aus einem befestigten und ganz oder teilweise überdachten Gebäude oder Raum besteht, das oder der die Anforderungen an Haltungseinrichtungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
   b) so gestaltet ist, dass
     aa) das Außenklima in jeder Bucht einen wesentlichen Einfluss auf das Stallklima hat,
     bb) jedes Tier jederzeit Zugang zu unterschiedlichen Klimabereichen hat und
@@ -60,7 +60,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
     | über 120 | 1,5 |
   oder
 2. in einer Haltungseinrichtung gehalten worden sind,
-  a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung in der Fassung … [Entwurf 8. Änderungsverordnung] erfüllt,
+  a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
   b) die aus einem befestigten, ganz oder teilweise überdachten und geschlossenen oder überwiegend geschlossenen Gebäude oder Raum besteht,
   c) in der den Tieren im Gebäude oder im Raum innerhalb der jeweiligen Bucht ein Liegebereich nach § 29 Absatz 2 Satz 2 in Verbindung mit Satz 1 der Tierschutz-Nutztierhaltungsverordnung zur Verfügung steht,
   d) in der den Tieren jederzeit ein Auslauf zur Verfügung steht und dadurch jedem Tier ermöglicht wird, äußere Witterungseinflüsse und Umwelteindrücke wahrzunehmen und
@@ -75,7 +75,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
 Abschnitt IV: Haltungsform „Auslauf/Weide“
 Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, ist die Bezeichnung „Auslauf/Weide“ zu verwenden, wenn die Tiere im maßgeblichen Haltungsabschnitt in einer Haltungseinrichtung gehalten worden sind, die die Anforderungen nach Satz 2 erfüllt. Die Mastschweine müssen
 1. in einer Haltungseinrichtung gehalten werden,
-  a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung in der Fassung … [Entwurf 8. Änderungsverordnung] erfüllt,
+  a) die die Anforderungen nach den §§ 3 und 22 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
   b) die aus einem befestigten, ganz oder teilweise überdachten und geschlossenen oder überwiegend geschlossenen Gebäude oder Raum besteht,
     aa) in dem jedem Tier, abweichend von § 29 Absatz 2 Satz 1 der Tierschutz-Nutztierhaltungsverordnung, entsprechend dem Durchschnittsgewicht der Tiere mindestens eine uneingeschränkt nutzbare Bodenfläche nach Tabelle 1 zur Verfügung steht,
     bb) in dem jedem Tier ein eingestreuter Liegebereich zur Verfügung steht, und
@@ -85,7 +85,7 @@ Bei der Kennzeichnung von Lebensmitteln, die vom Mastschwein gewonnen wurden, is
   oder
 2. in einer Haltungseinrichtung gehalten werden,
   a) die die Anforderungen nach § 3 der Tierschutz-Nutztierhaltungsverordnung erfüllt,
-  b) in der sie dauerhaft, im Freien ohne festen Stall nach Maßgabe des § 29a der Tierschutz-Nutztierhaltungsverordnung in der Fassung … [Entwurf 8. Änderungsverordnung] gehalten werden und
+  b) in der sie dauerhaft im Freien ohne festen Stall gehalten werden und
   c) in der jedes Schwein jederzeit Zugang zu gesundheitlich unbedenklichem und in ausreichender Menge vorhandenem organischen und faserreichen Beschäftigungsmaterial hat, das das Schwein untersuchen und bewegen kann und vom Schwein veränderbar ist und damit dem Erkundungsverhalten dient.
   Abweichend von Satz 2 Nummer 1 Buchstabe d oder Nummer 2 Buchstabe b kann die Zeit, in der den Tieren der Auslauf zur Verfügung steht, für die erforderliche Dauer der Reinigung oder kurzzeitig, soweit dies im Einzelfall aus Gründen des Tierschutzes zwingend erforderlich ist, reduziert werden. Für den Zeitraum, in dem die Tiere nicht im Freien ohne festen Stall gehalten werden, müssen abweichend von Satz 2 Nummer 2 Buchstabe b die Tiere in einer Haltungseinrichtung gehalten werden, die die Anforderungen nach den §§ 3, 22 und 29 Absatz 2 Satz 1 der Tierschutz-Nutztierhaltungsverordnung erfüllt.
   Tabelle 1

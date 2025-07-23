@@ -27,7 +27,7 @@
 - [§ 12 Mitteilung von Haltungseinrichtungen inländischer Betriebe](0012.md)
 - [§ 13 Änderungsmitteilung für inländische Betriebe](0013.md)
 - [§ 14 Festlegung einer unbefristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe](0014.md)
-- [§ 15 Festlegung einer befristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe, die nicht die Anforderungen nach § 22 Absatz 3a Satz 1 Nummer 2 und Satz 2 der Tierschutz-Nutztierhaltungsverordnung erfüllen](0015.md)
+- [§ 15 (weggefallen)](0015.md)
 - [§ 16 Register für inländische Betriebe und Haltungseinrichtungen](0016.md)
 - [§ 17 Verarbeitung von Daten inländischer Betriebe](0017.md)
 - [§ 18 Löschung von Daten inländischer Betriebe](0018.md)
