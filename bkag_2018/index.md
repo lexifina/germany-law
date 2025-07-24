@@ -50,6 +50,7 @@
 
 - [§ 29 Polizeilicher Informationsverbund, Verordnungsermächtigung](0029.md)
 - [§ 30 Verbundrelevanz](0030.md)
+- [§ 30a Besondere Regelungen für die Weiterverarbeitung personenbezogener Daten im polizeilichen Informationsverbund](0030a.md)
 - [§ 31 Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund](0031.md)
 - [§ 32 Unterrichtung der Zentralstelle](0032.md)
 - [§ 33 Ausschreibungen bei der Zusammenarbeit im internationalen Bereich](0033.md)
