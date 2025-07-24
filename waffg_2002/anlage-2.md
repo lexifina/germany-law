@@ -95,7 +95,9 @@ Erlaubnisfreie Arten des Umgangs
 1.
 Erlaubnisfreier Erwerb und Besitz
 1.1
-Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase Verwendung finden, wenn den Geschossen eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wird und die das Kennzeichen nach Anlage 1 Abbildung 1 zur Ersten Verordnung zum Waffengesetz vom 24. Mai 1976 (BGBl. I S. 1285) in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden Fassung oder ein durch Rechtsverordnung nach § 25 Nummer 1 bestimmtes Zeichen tragen;
+Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase Verwendung finden, wenn den Geschossen eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wird, und die das Kennzeichen nach Anlage 1 Abbildung 1 zur Ersten Verordnung zum Waffengesetz vom 24. Mai 1976 (BGBl. I S. 1285) in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden Fassung oder ein durch Rechtsverordnung nach § 25 Nummer 1 bestimmtes Zeichen tragen, sofern
+a) diese nicht nach ihrer Beschaffenheit in Bezug auf Geschosse mit einer Länge von mehr als 30 mm mehrschüssig sind und
+b) die Bestätigung zum Aufbringen des Kennzeichens nach § 11 Absatz 6 Satz 4 der Beschussverordnung oder das Aufbringen des Kennzeichens nach § 11 Absatz 6 Satz 5 der Beschussverordnung nicht vor dem 24. Juli 2025 erfolgt ist;
 1.2
 Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase Verwendung finden, die vor dem 1. Januar 1970 oder in dem in Artikel 3 des Einigungsvertrages genannten Gebiet vor dem 2. April 1991 hergestellt und entsprechend den zu diesem Zeitpunkt geltenden Bestimmungen in den Handel gebracht worden sind;
 1.3
