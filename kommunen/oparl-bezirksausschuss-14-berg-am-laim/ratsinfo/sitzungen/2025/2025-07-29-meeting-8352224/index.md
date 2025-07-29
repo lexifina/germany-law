@@ -1,0 +1,125 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-07-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352224
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352224
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 24.06.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 24.06.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Neue Abwägung des Themas erhöhte Grundwasserstände bei den von Grundwasserhochständen betroffenen bestehenden Bebauungsplänen und neuen Bauleitplänen
+- TOP 2.2.: (E) Verkehrsüberwachung in der Hansjakobstraße
+- TOP 2.3.: (E) Freilegung des Hachinger Bachs bis einschließlich der Unterquerung der Bahnstrecke nach Rosenheim
+- TOP 2.4.: (E) Grundstückspflege und Reparatur des Zauns am Eckgrundstück St.-Veit-Straße 17/Kreillerstraße
+- TOP 2.5.: (E) Verbesserung des Heckenrückschnitts an Gehwegen
+- TOP 2.6.: (E) + (U) Wiedererrichten von Bänken an Spielplätzen an der Kainzenbadstraße und Höhenstädterstraße
+- TOP 2.7.: Nachbesetzung Ferienausschuss
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Buchbacher Str. 10 - Neubau eines Mehrfamilienhauses mit einer Tiefgarage - VORBESCHEID - vertagt aus der Plenumssitzung vom 24.06.2025 -
+- TOP 3.1.2.: Gammelsdorfer Str. 2a - Nutzungänderung Erdgeschoss und Errichtung einer Tiefgarage -mit Mobilitätskonzept - VORBESCHEID
+- TOP 3.1.3.: Neumarkter Str. 55 - Neubau eines Büro- und Geschäftsgebäudes mit Tiefgarage - VORBESCHEID
+- TOP 3.1.4.: Sonnwendjochstr. 76 - ÄNDERUNGSANTRAG zu 1.23-2025-1888-32 - Umbau/Sanierung eines denkmalg. Bestandsg. mit Anbau eines Neubaus im rückwärtigen Garten Bereich zu gesamt 3 Wohneinheiten. Abbruch best. Garage, Neubau von 3 Carport. Umbau/Sanierung von einem best. Gartenhauses zu einem Wellnessbereich hier: Umbau/Sanierung eines denkmalg. Bestandsg. mit Anbau eines Neubaus im rückwärtigen Garten Bereich zu gesamt 3 Wohneinheiten. Abbruch best. Garage, Neubau von 3 Carport
+- TOP 3.1.5.: Rauschbergstr. 4 - Neubau von Reihenhäusern mit 1x 3 WE und 2x je 1 WE mit Doppelgarage und Stellplätzen / Neubau eines Triohauses (5 WE) mit 2 Doppelparker und einem Stellplatz - VORBESCHEID
+- TOP 3.1.6.: Einrichtung eines betreuten Taubenschlags in der Nähe des Behrparks; Antrag der CSU-Fraktion
+- TOP 3.1.7.: Glühwürmchen Schutzmaßnahme an der Thomas-Hauser-Straße
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Unterstützung bei der Nachnutzung einer langfristig leerstehenden Gewerbefläche an der Ecke Berg-am-Laim-/ Ampfingstraße; Antrag der CSU-Fraktion - vertagt aus der Plenumssitzung vom 24.06.2025 -
+- TOP 3.2.2.: Ungenutzte Flächen an der Tram-Wendeschleife St.-Veit-Straße zugänglich machen; Antrag der Grünen-Fraktion
+- TOP 3.2.3.: Geschwindigkeitsreduktion in der St.-Veit-Straße (Nord); Antrag der Grünen-Fraktion
+- TOP 3.2.4.: geplanten Maßnahmen der 4-Jahresplanung 2027-2030; Anhörung des Mobilitätsreferat
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage: „CSU vor Ort - auf ein Eis mit…" am 30.08.25 am Michaelianger; Anhörung des Kreisverwaltungsreferats, Frist bis zum 07.08.2025
+- TOP 3.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage: Straßenfest am 14.09.2025 am Grünen Markt an der Baumkirchner Straße; Anhörung des Kreisverwaltungsreferats, Frist bis zum 25.08.2025
+- TOP 3.3.3.: Fortsetzung Projekt im Kulturbürgerhaus in Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.3.4.: Künstlerische Neugestaltung der Fußgänger- und Fahrradunterführung am Innsbrucker Ring zwischen Echardinger Grünstreifen und Erdinger Park; Antrag der Grünen-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Anpassung freier Eintritte in die SWM-Freibäder für München-Pass-Inhaber aufgrund von zu befülltem Michaelifreibad im Sommer; Anliegen aus der Bürgerschaft
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Trachtenverein Bayrischzeller München GTEV Teilnahme beim Gaufest in Miesbach am 27.07.2025 881,00 €; Az. 0262.0-14-0458
+- TOP 3.5.2.: (E) Stadtbezirksbudget Trachtenverein Bayrischzeller München GTEV Teilnahme 100 Jahre Trachtenverein Reichenbach vom 01. - 04.08.2025 739,00 €; Az. 0262.0-14-0457
+- TOP 3.5.3.: (E) Stadtbezirksbudget democraticArts gGmbH Soziale Plastik in Berg am Laim vom 06.06. - 15.12.2025 8.500,00 €; Az. 0262.0-14-0461
+- TOP 3.5.4.: (E) Stadtbezirksbudget ICOYA e. V. 20 Jahre ICOYA - Tag der offenen Tür am 12.09.2025 2.000,00 €, Az. 0262.0-14-0455 - vertagt aus der Plenumssitzung vom 24.06.2025 -
+- TOP 3.5.5.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 06.09.2025, zwischen 9 und 20 Uhr. Bei Schlechtwetter: Ausweichtermin 1.600,00 €; Az. 0262.0-14-0459 - vertagt aus der Plenumssitzung vom 24.06.2025 -
+- TOP 3.5.6.: (E) Stadtbezirksbudget Werksviertel-Mitte Stiftung Projekte gGmbH Kinder- und Jugendfestival "JuKi - Da will ich hin!" vom 01.05. - 15.10.2025 10.200,00 €; Az. 0262.0-14-0444
+- TOP 3.5.7.: (E) Stadtbezirksbudget Biku gGmbH Mädchen an den Ball! Mädchenfußball im Bezirk 14 Berg am Laim vom 01.01. - 31.12.2026 7.880,00 Euro, Az.: 0262.0-14-0462
+- TOP 3.5.8.: "Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024"; Anhörung des Direktoriums
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Neumarkter Str. 55
+- TOP 3.6.2.: Sonnwendjochstr. 76
+- TOP 3.6.3.: Hansjakobstr. 48b
+- TOP 3.6.4.: Buchbacher Str. 10
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Juni 2025
+- TOP 4.1.2.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 4.1.3.: (U) Bebauungsplan mit Grünordnung Nr. 2201 Trausnitzstraße (östlich) Mühldorfstraße (nördlich) - Aufstellungsbeschluss - Stadtbezirk 14 - Berg am Laim
+- TOP 4.1.4.: Baumkirchen Mitte: Herstellung Grünflächen inkl. Kinderspielplatz gemäß Bedarfs- und Konzeptgenehmigung
+- TOP 4.1.5.: Rampe zum Piusanger
+- TOP 4.1.6.: Bescheid Siegsdorfer Str. 9a
+- TOP 4.1.7.: Ergänzung der Schaukästen für den Stadtbezirk 14 Berg am Laim um weitere Standorte
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Erhöhung der Verkehrssicherheit von Fahrrädern, Rollstühlen und Kinderwägen durch Gummiprofil in Tramschienen
+- TOP 4.2.2.: Schulwegsicherheit an der Grundschule St.-Veit-Straße
+- TOP 4.2.3.: Umsetzung PKW Parken und Halteverbot an der Ampfingstraße 38
+- TOP 4.2.4.: Stellflächen für Shared-Mobility-Angebote – Mobilitätspunkte, Carsharing, Parkplätze und geteilte Abstellflächen
+- TOP 4.2.5.: Gerlosstraße - Erweiterung des absoluten Haltverbotes als Hol-und Bringzone für die Grundschule St.-Veit-Straße
+- TOP 4.2.6.: Pächterwechsel in der Trausnitzstr. 17
+- TOP 4.2.7.: Verlängerung der markierten Sperrfläche - einschließlich Verschiebung Ladezone und Verkürzung des Kurzparkbereichs an der Berg-am-Laim-Str. 91-95
+- TOP 4.2.8.: Tempo 30 an der nördlichen St-Veit-Str.
+- TOP 4.2.9.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die Änderungen der Novelle der Bayerischen Bauordnung (BayBO) 2025 A. Neuerlass einer Satzung der Landeshauptstadt München zur Einführung einer Plicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) B. Evaluation der Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge vom 19.12.2007 (Stellplatzsatzung - StPlS) C. Behandlung von Stadtratsanträgen und Stadtratsaufträgen
+- TOP 4.2.10.: Sanierungsgebiet "Ortskern Ramersdorf" A) Beabsichtigte Überplanung des Bereichs Innsbrucker Ring (östlich), Ramersdorfer Straße (südlich) Grundstücke Fl.Nr.. 18428, 18429, 18429/2 18431/2, 18431/3 B) Durchführung eines städtebaulichen und landschaftsplanerischen Realisierungswettbewerbs C) Weiteres Vorgehen - Eckdatenbeschluss - Stadtbezirk 16 - Ramersdorf-Perlach
+- TOP 4.2.11.: Münchner Wohnen GmbH Vertretung der Landeshauptstadt München als Gesellschafterin in den Gesellschafterversammlungen
+- TOP 4.2.12.: Petition - Antrag auf Aufhebung einer Dienstbarkeit Passagen zwischen Sophienstraße und Karlstraße Stadtbezirk 03 Maxvorstadt
+- TOP 4.2.13.: Verbesserung der Fußgängerquerung in der Hermann-Weinhauser-Straße Höhe Nr. 44; Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.2.14.: Pkw-Parken auf Gehweg - zeitlich befristet bis Baustellenbeginn „Zentralpark – Werksviertel“ - Erika-Köth-Str. (Ecke Nordwest)
+- TOP 4.2.15.: Widerruf von zwei allgemeinen Behindertenparkplätzen im Bereich Mühldorfstr. 1
+- TOP 4.2.16.: Anfrage: Auswirkungen von Anzeige-Plattformen darlegen
+- TOP 4.2.17.: Änderung der Zeitzusätze der Kurzparkzone an der Kreillerstraße 172
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Bestätigung für das Kinderfest in der St.-Veit-Str. am 21.06.2025
+- TOP 4.3.2.: Bestätigung zu den Theateraufführungen im Behrpark ab 20.06.2025
+- TOP 4.3.3.: Ergebnisse Interfraktioneller Arbeitskreis (IFAK) Schul- und Kitabau
+- TOP 4.3.4.: Bestätigung zum Sommerfest Eltern-Kind-Initiative im Behrpark am 12.07.2025
+- TOP 4.3.5.: Fortschreibung Konzept "Spielen in München"
+- TOP 4.3.6.: Filmstandort München stärken 2
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: (U) Veränderungen im Bereich der Nachbarschaftstreffs Trägerwechsel im Nachbarschaftstreff Alte Heimat, Kiem-Pauli-Weg 26 Aufgabe der geplanten Standorte Werksviertel und Haldenseestraße 14. Stadtbezirk - Berg am Laim 16. Stadtbezirk - Ramersdorf-Perlach 25. Stadtbezirk - Laim
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Haushaltskonsolidierung 2025 ff.; Beteiligung des Referats für Stadtplanung und Bauordnung am Einzug von 1.150 unbesetzten Stellen (VZÄ)
+- TOP 4.5.2.: Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 4.5.3.: Antrag vom BA 17: Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen
+- TOP 4.5.4.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Josephsburgstr. 120
+- TOP 4.6.2.: Josephsburgstr. 120a
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 4.1.8.: Straßenlampen vorübergehend aufgrund von Glühwürmchen abschalten
+- TOP 3.1.6.1: zu TOP 3.1.6: Gemäß dem Beschluss des Unterausschusses geänderter Antrag der CSU-Fraktion
+- TOP 3.1.7.1: zu TOP 3.1.7: Gemäß dem Beschluss des Unterausschusses geändertes Rückschreiben zu den Glühwürmchen
+- TOP 3.2.4.1: zu TOP 3.2.4: Anhörung zu der 4-Jahres-Planung mit der Präsentation der BA-Infoveranstaltung und Maßnahmenübersicht bis 2030; Frist zur Stellungnahme bis 30.09.2025
+- TOP 1.1.1.: Nachtrag TOP 3.5.9: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e. V. Straßenfest Baumkirchner Straße am 14.09.2025 3.485,00 €; Az. 0262.0-14-0463
+- TOP 3.5.9.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e. V. Straßenfest Baumkirchner Straße am 14.09.2025 3.485,00 €; Az. 0262.0-14-0463
