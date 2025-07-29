@@ -1,8 +1,8 @@
 # Richtlinie Berufliche Bildung Vollzitat: Richtlinie Berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-10-19 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.4
+- Datum: 2025-07-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-19.10.2023
+29.07.2025
 bis
-28.07.2025
+02.07.2026
 
 Richtlinie Berufliche Bildung
 
@@ -45,11 +45,11 @@ Der Freistaat Sachsen gewährt nach Maßgabe dieser Richtlinie Zuwendungen zur S
 
 2.
 
-Die Förderung erfolgt nach §§ 23, 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der dazugehörigen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung.
+Die Förderung erfolgt nach §§ 23, 44, 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der dazugehörigen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 22. November 2024 (SächsABl. S. 1434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253), in der jeweils geltenden Fassung.
 
 3.
 
-Ein Anspruch auf Gewährung der Zuwendung besteht nicht. Die Bewilligungsstelle entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsstelle aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 
 II.
@@ -84,11 +84,6 @@ Berufliche Weiterbildung.
 
 
 III.
-Sonstige Zuwendungsvoraussetzungen
-
-Die Bewilligungsbehörde lässt auf Antrag des Zuwendungsempfängers die Verwendung anderer, zur Erreichung des Zuwendungszwecks gleichwertiger Standards zu, soweit diese wirtschaftlich sind. Die für die Beurteilung des Antrags erforderlichen Angaben sind diesem beizufügen.
-
-IV.
 Verfahren
 
 1.
@@ -109,7 +104,7 @@ Zuständig für die Prüfung der Zwischen- und Verwendungsnachweise ist die Bewi
 
 5.
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung, sofern nicht in dieser Richtlinie Abweichungen zugelassen worden sind. 
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, sofern nicht in dieser Richtlinie Abweichungen zugelassen worden sind. 
 
 
 Teil B
@@ -139,63 +134,71 @@ Zuwendungsvoraussetzungen
 
 a)
 
-Die Ausbildungsstätten der Teilnehmerinnen und Teilnehmer haben ihren Sitz oder ihre Niederlassung im Freistaat Sachsen.
+Die Ausbildungsstätten der Teilnehmerinnen und Teilnehmer haben ihren Sitz oder ihre Niederlassung im Freistaat Sachsen. Der Nachweis erfolgt durch Bestätigung im Antragsformular.
 
 
 b)
 
-Es werden nur Verbünde mit Ausbildungsunternehmen mit bis zu 500 Beschäftigten (einschließlich Beschäftigte aus unselbständigen Niederlassungen) beziehungsweise rechtlich selbständige Unternehmen innerhalb eines Unternehmensverbunds mit bis zu 500 Beschäftigten im Unternehmen gefördert. 
+Es werden nur Verbünde mit Ausbildungsunternehmen mit bis zu 500 Beschäftigten (einschließlich Beschäftigte aus unselbständigen Niederlassungen) beziehungsweise rechtlich selbständige Unternehmen innerhalb eines Unternehmensverbunds mit bis zu 500 Beschäftigten im Unternehmen gefördert. Der Nachweis erfolgt durch Bestätigung im Antragsformular.
 
 
 c)
 
-Die Ausbildung wird in einem anerkannten Ausbildungsberuf nach dem Berufsbildungsgesetz in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das durch Artikel 16 des Gesetzes vom 28. März 2021 (BGBl. I S. 591) geändert worden ist, in der jeweils geltenden Fassung, oder der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.2095), die zuletzt durch Artikel 1 des Gesetzes vom 9. Juni 2021 (BGBl. I S. 1654) geändert worden ist, in der jeweils geltenden Fassung, oder auf Grundlage von Ausbildungsregelungen der zuständigen Stellen nach § 66 des Berufsbildungsgesetzes durchgeführt.
+Die Ausbildung wird in einem anerkannten Ausbildungsberuf nach dem Berufsbildungsgesetz in der Fassung der Bekanntmachung vom 16. April 2025 (BGBl. 2025 I Nr. 117, 129), in der jeweils geltenden Fassung, oder der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die zuletzt durch Artikel 2 des Gesetzes vom 3. April 2025 (BGBl. 2025 I Nr. 106) geändert worden ist, in der jeweils geltenden Fassung, oder auf Grundlage von Ausbildungsregelungen der zuständigen Stellen nach § 66 des Berufsbildungsgesetzes durchgeführt.
 
 
 d)
 
-Zum Zeitpunkt der Antragstellung muss der Nachweis der Eintragung des Ausbildungsvertrags in das Verzeichnis der Berufsausbildungsverhältnisse gemäß § 34 des Berufsbildungsgesetzes beziehungsweise § 28 der Handwerksordnung bei der nach dem Berufsbildungsgesetz zuständigen Stelle im Freistaat Sachsen vorliegen.
+Zum Zeitpunkt der Antragstellung muss die Eintragung des Ausbildungsvertrags in das Verzeichnis der Berufsausbildungsverhältnisse gemäß § 34 des Berufsbildungsgesetzes beziehungsweise § 28 der Handwerksordnung vom Antragsteller bestätigt werden. Der Nachweis erfolgt durch Bestätigung im Antragsformular.
 
 
 e)
 
-Einer förderzulässigen Teilnehmerwoche (Verbundwoche) werden 5 Tage beim Verbundpartner zu Grunde gelegt, die nicht zusammenhängend geleistet werden müssen. 
+Es sind mindestens zehn Verbundteilnehmertage zu beantragen.
 
 
 f)
 
-Für Lehrgänge der überbetrieblichen Lehrunterweisung im Handwerk haben die Förderungen nach der Nummer B. II. dieser Richtlinie Vorrang. Eine Förderung von überbetrieblichen Lehrgängen, die nach der geltenden Verordnung über die Berufsausbildung in der Bauwirtschaft durchgeführt werden, ist ausgeschlossen.
+Für Lehrgänge der überbetrieblichen Lehrunterweisung im Handwerk haben die Förderungen nach der Nummer B. II. dieser Richtlinie Vorrang. Eine Förderung von überbetrieblichen Lehrgängen, die nach der geltenden Verordnung über die Berufsausbildung in der Bauwirtschaft durchgeführt werden, ist ausgeschlossen. Der Nachweis erfolgt durch Bestätigung im Antragsformular.
+
+
+g)
+
+Im Rahmen von betrieblichen Einzelumschulungen oder außerbetrieblichen (Gruppen-)Umschulungen bei einem Träger ist eine Förderung durch die in Frage kommenden gesetzlichen Kostenträger (zuständige Agentur für Arbeit beziehungsweise Jobcenter; Rentenversicherung; Berufsgenossenschaft) auszuschließen. Umschüler sind nur förderfähig, wenn eine entsprechende formlose Bestätigung des Kostenträgers mit dem Antrag eingereicht wird, dass keine anderweitigen Fördermöglichkeiten bestehen.
+
+
+h)
+
+Der Zuwendungsempfänger darf für die Zeit, in der der Teilnehmer an der Ausbildung beim Verbundpartner teilnimmt, keine Kompensation durch den Verbundpartner oder Dritte erhalten. Der Nachweis erfolgt durch Bestätigung im Antragsformular.
 
 4.
 
-Art und Umfang, Höhe der Zuwendungen
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
 
-Die Zuwendung wird für die Ausbildungsausgaben des entsendenden Ausbildungsbetriebes in Form eines Zuschusses als Festbetrag gewährt. 
+Die Zuwendung wird für die Ausbildungsausgaben des entsendenden Ausbildungsbetriebes im Rahmen einer Projektförderung in Form eines Zuschusses als Festbetragsfinanzierung gewährt.
 
 
 b)
 
-Der Zuschuss bemisst sich hierbei an den höchsten Ausbildungsausgaben, den Ausgaben für die Ausbildungsvergütung. Die Grundlage für die Ermittlung und damit einhergehender Überprüfung des Standardeinheitskostensatzes bilden dabei die vom Bundesinstitut für Berufsbildung für Ostdeutschland ermittelten monatlichen Durchschnittsbeträge der tariflichen Ausbildungsvergütungen für die häufigsten Ausbildungsberufe
-
-(www.bibb.de/ausbildungsverguetung). 
+Der Zuschuss beträgt 30 Euro je Teilnehmertag beim Verbundpartner. Es werden maximal die im Zuwendungsbescheid bewilligten Verbundteilnehmertage gefördert.
 
 
 c)
 
-Der Zuschuss beträgt 150 Euro je Teilnehmerwoche beim Verbundpartner. Es werden nur volle Teilnehmerwochen gefördert.
+Die zu bewilligende Förderung für die Verbundausbildung ergibt sich aus der Multiplikation der 30 Euro mit den geplanten Teilnehmertagen im Rahmen eines Ausbildungsjahres.
 
 
 d)
 
-Die zu bewilligende Förderung für die Verbundausbildung ergibt sich aus der Multiplikation der 150 Euro mit den geplanten Teilnehmerwochen im Rahmen eines Ausbildungsjahres.
+Es sind nur beantragte und tatsächlich durchgeführte Verbundteilnehmertage förderfähig. Der Nachweis erfolgt durch die Vorlage einer durch den Verbundpartner und die Teilnehmer bestätigten Teilnehmerliste im Rahmen des Verwendungsnachweises.
 
 
 e)
 
-Abweichend von Nummer 1.2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Zuwendungen bewilligt werden, wenn die Zuwendung im Einzelfall 2 500 Euro unterschreitet.
+Abweichend von Nummer 1.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung dürfen Zuwendungen bewilligt werden, wenn die Zuwendung im Einzelfall 2 500 Euro unterschreitet.
 
 5.
 
@@ -204,28 +207,54 @@ Verfahren
 
 a)
 
-Der Antrag ist über die nach Berufsbildungsgesetz zuständige Stelle, die das Vorliegen der Voraussetzungen nach Nummer B. I. 3. prüft, einzureichen.
+Die Antragstellung erfolgt über das Förderportal Sachsen bei der Sächsischen Aufbaubank – Förderbank.
 
 
 b)
 
-Der Zuwendungsempfänger wird verpflichtet, für jeden Verbundteilnehmenden bei dem Verbundpartner die Führung von Teilnahme-/Lehrgangsbescheinigungen und deren Übergabe zu veranlassen. Darüber hinaus ist über alle Verbundteilnehmenden eine kumulierte Übersicht über die tatsächlich absolvierten Teilnehmerwochen als Abrechnungsgrundlage zu führen. Es dürfen maximal die im Zuwendungsbescheid bewilligten Teilnehmerwochen bezuschusst werden. Die kumulierte Übersicht ist durch Unterschrift der zeichnungsberechtigten Person des Zuwendungsempfängers zu bestätigen.
-
-
-Ein Muster zu Art und Form der Teilnahme-/Lehrgangsbescheinigungen und der kumulierten Übersicht sind der Internetseite der Bewilligungsstelle zu entnehmen.
-
-
-Der Zuwendungsempfänger hat zum Zeitpunkt der Abrechnung zur Nachweisführung für jeden Verbundteilnehmenden die Teilnahme-/Lehrgangsbescheinigung und die kumulierte Übersicht der Bewilligungsstelle vorzulegen.
-
+Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form einer Verbundausbildung. Abweichend von Nummer 1.4 Satz 1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der Verbundausbildung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.
 
 c)
 
-Die Auszahlung erfolgt gemäß Nummer 7.6 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung. Der Zuschuss wird nur für bewilligte, tatsächlich absolvierte und nachgewiesene volle Teilnehmerwochen beim Verbundpartner gezahlt.
+Es ist eine Teilnehmerliste für die Zeit bei dem Verbundpartner zu führen. Folgende Angaben müssen daraus ersichtlich sein:
+
+
+–
+
+Name des Teilnehmers,
+
+
+–
+
+tatsächliche Anwesenheits- beziehungsweise Durchführungstage,
+
+
+–
+
+die Angaben zu den Inhalten der Qualifizierung (Stichpunkte).
+
+
+Die Angaben sind durch Teilnehmer und Ausbilder zu bestätigen.
 
 
 d)
 
-Der Verwendungsnachweis ist innerhalb von einem Monat nach Ende des Bewilligungszeitraums bei der Bewilligungsstelle einzureichen. Ein Zwischennachweis ist nicht vorzulegen.
+Die Auszahlung erfolgt gemäß Nummer 7.6 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+
+
+e)
+
+Der Verwendungsnachweis ist innerhalb von zwei Monaten nach Ende des Bewilligungszeitraums im Förderportal hochzuladen. Ein Zwischennachweis ist nicht vorzulegen.
+
+
+f)
+
+Nach Nummer 5.4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung hat der Zuwendungsempfänger zum Zeitpunkt der Abrechnung zur Nachweisführung die Teilnehmerliste im Förderportal hochzuladen.
+
+
+g)
+
+Vor Auszahlung der Pauschale ist zu bestätigen, dass der Zuwendungsempfänger für die Zeit, in der der Teilnehmer an der Ausbildung beim Verbundpartner teilgenommen hat, keine Kompensation durch den Verbundpartner oder Dritte erhält. Der Nachweis erfolgt durch Bestätigung im Verwendungsnachweis. Abgeschlossene Kooperationsvereinbarungen zwischen dem Zuwendungsempfänger und Verbundpartner sind beim Zuwendungsempfänger vorzuhalten.
 
 6.
 
@@ -896,23 +925,23 @@ Die Zuwendung erfolgt nach Maßgabe und unter Einhaltung der Voraussetzungen fol
 
 a)
 
-Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), zuletzt geändert durch Verordnung (EU) 2020/972 vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3),
+Verordnung (EU) Nummer 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L vom 15. Dezember 2023, S. 1), 
 
 
 b)
 
-Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), zuletzt geändert durch Verordnung (EU) 2019/316 vom 21. Februar 2019 (ABl. L 51 vom 22.2.2019, S. 1)
+Verordnung (EU) Nummer 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24. Dezember 2013, S. 9), zuletzt geändert durch Verordnung (EU) 2024/3118 der Kommission vom 10. Dezember 2024 (ABl. L 3118 vom 13. Dezember 2024, S. 1),
 
 
 c)
 
-Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), zuletzt geändert durch VO (EU) 2022/2514 vom 14.12.2022 (ABl. L 326 vom 21.12.2022, S. 8).
+Verordnung (EU) Nummer 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28. Juni 2014, S. 45), zuletzt geändert durch Verordnung (EU) 2023/2391 vom 4. Oktober 2023 (ABl. L 2391 vom 5. Oktober 2023, S. 1).
 
 
 Teil C
 Inkrafttreten und Außerkrafttreten
 
-Diese Förderrichtlinie tritt am 1. Juli 2022 in Kraft. Die Förderrichtlinie Meisterbonus vom 29. Juli 2019 (SächsABl. S. 1212) und der Teil B Ziffer III Nummer 1 der Mittelstandsrichtlinie vom 23. März 2020 (SächsABl. S. 398), die durch die Richtlinie vom 12. Mai 2021 (SächsABl. S. 644) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 28. November 2021 (SächsABl. SDr. S. S 224), treten zum 30. Juni 2022 außer Kraft.
+Diese Förderrichtlinie tritt am 1. Juli 2022 in Kraft. Die Förderrichtlinie Meisterbonus vom 29. Juli 2019 (SächsABl. S. 1212) und der Teil B Ziffer III Nummer 1 der Mittelstandsrichtlinie vom 23. März 2020 (SächsABl. S. 398), die durch die Richtlinie vom 12. Mai 2021 (SächsABl. S. 644) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 28. November 2021 (SächsABl. SDr. S. S 224), treten zum 30. Juni 2022 außer Kraft. Diese Richtlinie tritt mit Ablauf des 30. Juni 2030 außer Kraft.
 
 Dresden, den 28. Februar 2022
 
@@ -1011,9 +1040,9 @@ Fsn-Nr.: 5573-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 19. Oktober 2023
+Fassung gültig ab: 29. Juli 2025
 
-Fassung gültig bis: 28. Juli 2025
+Fassung gültig bis:  2. Juli 2026
 
 Drucken/Speichern
 
@@ -1038,7 +1067,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19567.4
+https://www.revosax.sachsen.de/vorschrift/19567.5
 Stand vom
 18.11.2026
 
