@@ -16,4 +16,4 @@
 - [§ 12 Übertragung eines Amtes der neuen Laufbahn](0012.md)
 - [§ 13 Übergangsregelungen für den Aufstieg](0013.md)
 - [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
-- [Anlage (zu § 3)](anlage.md)
+- [Anlage (zu § 3)Zu den Laufbahnen gehörende Ämter; Amtsbezeichnungen](anlage.md)
