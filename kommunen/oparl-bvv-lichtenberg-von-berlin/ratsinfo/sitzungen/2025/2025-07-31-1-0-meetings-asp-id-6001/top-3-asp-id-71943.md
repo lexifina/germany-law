@@ -1,0 +1,8 @@
+# TOP 3: Ausbesserungsarbeiten der Gehwege um das Areal Waldowallee – die Gehwegsicherheit muss gewährleistet werden!
+
+- Sitzung: 27. Sitzung in der IX. Wahlperiode Sitzung der Vorlagen zur Kenntnisnahme (2025-07-31)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=71943
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=71943
