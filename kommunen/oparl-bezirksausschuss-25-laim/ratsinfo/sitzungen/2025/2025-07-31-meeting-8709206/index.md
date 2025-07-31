@@ -1,0 +1,105 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-07-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8709206
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8709206
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.2.1.: Laimer Unterführung
+- TOP 2: Anträge
+- TOP 2.1.: Mehr Mülleimer für Laim
+- TOP 2.2.: Gleichberechtigung für gehörlose Mieter*innen in „Alte Heimat“ - Videogegensprechanlagen für alle
+- TOP 2.3.: Sitzmöglichkeiten an den Haltestellen entlang der Fürstenriederstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2025 -31.07.2026 4.000,00 Euro, Az.: 0262.0-25-0369
+- TOP 3.2.: (E) Stadtbezirksbudget Diakonie - Jugendhilfe Oberbayern, Schulsozialarbeit an der Georg-Büchner-Realschule Condrobs e.V. Drogenprävention im September/Oktober 2025 3.240,00 Euro, Az.: 0262.0-25-0370
+- TOP 3.3.: (E) Gehwegparken reduzieren und ahnden
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Direktorium vom 25.06.25: Anhörung zur Vorlage "Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024"
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 03.07.25: Anhörung Zeichen 102 StVO, Kreuzung Agricolastraße/ Valpichlerstraße
+- TOP 4.4.: Antwortschreiben Mobilitätsreferat vom 14.07.25: Shared Mobility - E-Scooter Aufstellfläche Gotthardstraße 59
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 29, Grundstück 295/9-Laim Errichtung e. digitalen Werbeanlage an der Wand, 1-seitig, f. Fremdwerbung mit Bedarfsinformationen der Stadtinformation Standbilder im 10-Sek.-Takt gezeigt, LAI -Lichtimmissionen: Tag 6-22 Uhr 8%, Nacht 22-6 Uhr 2%
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Bildung und Gesundheit vom 26.06.25
+- TOP 7.2.: Protokoll UA Bau vom 26.06.25
+- TOP 7.3.: Protokoll UA Soziales vom 29.04.25
+- TOP 7.4.: Protokoll UA Umwelt, Klima und Baumschutz vom 30.06.25
+- TOP 7.5.: Protokoll BA-Sitzung vom 02.07.25
+- TOP 7.6.: Protokoll UA Soziales vom 08.07.25
+- TOP 7.7.: Protokoll UA Mobilität vom 24.06.25
+- TOP 7.8.: Protokoll UA Kultur vom 02.07.25
+- TOP 7.9.: Protokoll UA Mobilität vom 15.07.25
+- TOP 8: Umlauf
+- TOP 8.1.: Antwortschreiben Mobilitätsreferat vom 09.07.25: Parksituation in Laim
+- TOP 8.2.: Antwortschreiben Mobilitätsreferat vom 26.06.25: Aufenthaltsqualität am S-Bahnhof Hirschgarten
+- TOP 8.3.: Schreiben BA 9 vom 25.06.25: BA-Antrag 20-26 / B 07859 - Nachhaltige und ansprechende Gestaltung der Laimer Umweltverbundröhre
+- TOP 8.4.: Schreiben Mobilitätsreferat vom 18.06.25: Fürstenrieder Str._GOT Bph 5.3.4+CAM_6.1_6.2 Sperrung CAM_U 01818_25_SWM_wei_II.Abdruck_komplett
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 20.06.25: Fürstenrieder Str._SAH-HOH_Aenderung_6.2.1 Kreuzung+6.3 Strecke_U 01922_25_SWM_Ost_II. Abdruck von I_komplett
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 27.06.25: Fürstenrieder Str._ABS_Bph. 6.3.6_U 02035_25_SWM_VAO komplett Abdruck
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 30.06.25: Fürstenrieder Str. AMM Bph. 5.1.1 + 5.1.5_U 02044_25_SWM_VAO komplett Abdruck
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 04.07.25: Agnes-Bernauer-Str. zw. Ossietzkystr. und FRS_U 02106_25_Änderung 2_Bph. 2_Strabag_VAO komplett Abdruck
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 07.07.25: Fürstenrieder Str._SAH-AIN_6.2.2 Kreuzung+6.3 Strecke Süd+6.1 Strecke Nord_U 02139_25_SWM_VAO komplett Abdruck
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 10.07.25: Fürstenrieder Str._AIN-GOT Bph 5.3.4+6.2 Sperrung CAM_Änderung_U 02183_25_SWM_VAO komplett Abdruck
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 11.07.25: Fürstenrieder Str. AMM Bph. 5.1.6_U 02205_25_SWM_VAO komplett Abdruck
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 11.07.25: Fürstenrieder Str. AMM Bph. 5.1.6_U 02205_25_SWM_VAO komplett Abdruck
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 14.07.25: FRS_ABS_Bph. 6.3.6_VAL_Bph. 6.3_GOT_HW5_mit HOG_U_02214_25_SWM_Ost_II. Abdruck von I_komplett
+- TOP 8.14.: Antwortschreiben Mobilitätsreferat vom 08.07.25: Klärung und Verbesserung der Verkehrsbeschilderung an der Kreuzung Agnes-Bernauer-Str. und Lautensackstr.
+- TOP 8.15.: Antwortschreiben Mobilitätsreferat und SWM vom 26.06.25: Verbesserung der Sichtverhältnisse beim Einbiegen auf die Willibaldstraße – Anregung zur Anbringung eines Verkehrsspiegels
+- TOP 8.16.: Antwortschreiben Mobilitätsreferat vom 11.07.25: Rad- und Fußweg Tuttlinger Straße
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 04.07.25: E-Ladeinfrastruktur in ÖPNV-Bauprojekten vorsehen
+- TOP 8.18.: Schreiben SWM vom 24.06.25: Neue SW//M-MVG Anweisung: V 2025-052 B SWM-Tiefbau ROM-LAIM 30.06.25-28.08.26
+- TOP 8.19.: Schreiben Baureferat vom 11.07.25: Dialog Display Guido-Schneble-Straße
+- TOP 8.20.: Schreiben Direktorium vom 17.06.25: Jugendversammlung Laim
+- TOP 8.21.: Schreiben Sozialreferat vom 30.06.25: Informationsveranstaltung für die Bezirksausschüsse
+- TOP 8.22.: Schreiben Sozialreferat vom 14.07.25: Ferienpässe 2025
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.07.25: Fällantrag Camerloherstr. 125 - 127
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.07.25 Fällantrag Rushaimerstr. 79
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.07.25: Fällungsantrag Kiem-Pauli-Weg 1-69
+- TOP 8.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.07.25: Fällungsantrag Willibaldstr. 11b
+- TOP 8.27.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.07.25: Bauvorhaben Zschokkestraße /Westendstraße
+- TOP 8.28.: Bautenliste 02.06.-08.06.25 A) Erstantragsverfahren 1. Westendstr.
+- TOP 8.29.: Bautenliste 09.06.-15.06.25 A) Erstantragsverfahren 1. Elsenheimerstr. 20 2. Lanzstr. 34
+- TOP 8.30.: Bautenliste 23.06.-29.06.25 A) Erstantragsverfahren 1. Camerloherstr. 34 2. Landsberger str. 314 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Landsberger Str. 344
+- TOP 8.31.: Bautenliste 30.06.-06.07.25 A) Erstantragsverfahren 1. Haslangstr. 9 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Ofener Str. 8
+- TOP 8.32.: Bautenliste 07.07.25-13.07.25: A) Erstantragsverfahren 1. Lautensackstr. 3 2. Rushaimerstr. 79
+- TOP 8.33.: Schreiben BA 17 Obergiesing-Fasanengarten vom 18.06.25: Antrag Nr. 07797 "Keine Schwärzung von Versammlungs- und Veranstaltungsanzeigen"
+- TOP 8.34.: Schreiben Spielkiste e.V. vom 07.07.25: Unterstützung bei der Suche nach einer neuen Immobilie für Spielkiste Laim e.V.
+- TOP 8.35.: Antwortschreiben Münchner Wohnen vom 01.07.25 und Kreisverwaltungsreferat vom 09.07.25: Tauben- und Krähenproblem in Laim
+- TOP 8.36.: Schreiben Kreisverwaltungsreferat vom 08.07.25: BA-Mitteilung: Torbogenstüberl, Stöberlstraße 33, 80687 München
+- TOP 8.37.: Schreiben Kreisverwaltungsreferat vom 03.07.25 und 08.07.25: Tavolata am Laimer Platz am 26.07.2025 (Eilentscheidung)
+- TOP 8.38.: Schreiben Kreisverwaltungsreferat vom 03.07.25: Fehlermeldung vom 25.06.2025 - Fürstenriederstr. 132
+- TOP 8.39.: Schreiben Kreisverwaltungsreferat vom 23.06.25: Mitteilung über die unveränderte Fortführung einer Gaststätte - "La Pazzeria", Gotthardstr. 8
+- TOP 8.40.: Beschluss des Kommunalausschusses gemeinsam mit dem Kreisverwaltungsausschuss vom 17.07.25: Neubau der Feuerwache 3 in der Landsberger Str. 332 Genehmigung des vorläufigen Nutzerbedarfsprogramms Empfehlung Durchführung der Maßnahme mit einem Generalübernehmer
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.25: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die Änderungen der Novelle der Bayerischen Bauordnung (BayBO) 2025 A. Neuerlass einer Satzung der Landeshauptstadt München zur Einführung einer Plicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) B. Evaluation der Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge vom 19.12.2007 (Stellplatzsatzung - StPlS) C. Behandlung von Stadtratsanträgen und Stadtratsaufträgen
+- TOP 8.42.: Beschluss der Vollversammlung des Stadtrates vom 02.07.25: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 8.43.: Beschluss der Vollversammlung des Stadtrates vom 30.04.25: Ergebnisse Interfraktioneller Arbeitskreis (IFAK) Schul- und Kitabau
+- TOP 8.44.: Beschluss des Bildungsausschusses, des Sportausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 16.07.25: Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 8.45.: Beschluss des Mobilitätsausschusses gemeinsam mit dem Ausschuss für Arbeit und Wirtschaft vom 23.07.25: Filmstandort München stärken 2
+- TOP 8.46.: Beschluss des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Bildungsausschusses und des Ausschusses für Stadtplanung und Bauordnung in der gemeinsamen Sitzung vom 15.07.25: Fortschreibung Konzept "Spielen in München"
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Kunstwerkstatt - das kreative Studio für Familen, Erwachsene und Kinder in Laim (Vertagung UA Kultur)
+- TOP 9.2.: Mülleimer am Spielplatz Agricolaplatz (Weiterleitung an Baureferat/Gartenbau)
+- TOP 9.3.: Frisch gepflanzte Bäume (Weiterleitung an Baureferat/Gartenbau)
+- TOP 9.4.: Beschwerde wegen Verkehrsaufkommen Guido-Schneble, Unfallgefahr Fürstenrieder und Car-Sharing-Parkplätze (Weiterleitung an Mobilitätsreferat)
+- TOP 9.5.: Baustelle Fürstenriederstraße (Weiterleitung an Mobilitätsreferat und SWM)
+- TOP 9.6.: Verkehrsspiegel für unübersichtliche Kreuzung (Weiterleitung an Baureferat)
+- TOP 9.7.: Baustelle und Raserei Burgkmairstraße (Weitergabe an Stadtverwaltung und Antwort an Bürger*in)
+- TOP 9.8.: Hupen an Kreuzungen Baustelle Fürstenrieder Straße (Antwort an Bürger*in)
+- TOP 9.9.: Gefährdung von Fußgänger:innen an der Kreuzung Friedenheimer Straße / Landsberger Straße – Bitte um Prüfung und Maßnahmen (Vertagung in UA Mobilität)
+- TOP 9.10.: Willkürpolizei (Weiterleitung an PI 41)
+- TOP 9.11.: Parksituation Gehwegparken Laim (Antwort an Bürger*in)
+- TOP 9.12.: Laim - Zerstörung des Stadtbildes (Antwort an Bürger*in)
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 24.07.25: Einrichten eines absoluten Haltverbots in der Friedenheimer Straße (Westseite) zwischen Landsberger Straße und Veit-Stoß-Straße zur Verbesserung des Linienverkehrs der Buslinien 130 und 157
+- TOP 2.4.: Antrag auf Genehmigung der zu erwartenden Kosten für die Auszeichnung „Ausgezeichnete Laimerinnen und Laimer“ des Bezirksausschusses zur Internale im Herbst 2025
