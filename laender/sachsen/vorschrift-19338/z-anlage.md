@@ -15,7 +15,7 @@ Bewertung von Prüfungsarbeiten in der Erst- oder Zweitkorrektur oder im Stichen
 e)
 Abnahme von mündlichen Prüfungen je Prüfungsteilnehmerin und -teilnehmer 27 Euro,
 f)
-Stellungnahmen in Widerspruchs- und Klageverfahren 19 Euro.
+Schriftliche Begründungen mündlicher Prüfungsleistungen sowie Stellungnahmen in Widerspruchs- und Klageverfahren 19 Euro.
 3. Zweite Juristische Staatsprüfung
 Die Vergütung der Mitwirkung an der Zweiten Juristischen Staatsprüfung beträgt für die
 a)
@@ -31,7 +31,7 @@ Bewertung von Prüfungsarbeiten in der Erst- oder Zweitkorrektur oder im Stichen
 f)
 Abnahme von mündlichen Prüfungen je Prüfungsteilnehmerin und -teilnehmer 36,50 Euro,
 g)
-Stellungnahmen in Widerspruchs- und Klageverfahren 19 Euro.
+Schriftliche Begründungen mündlicher Prüfungsleistungen sowie Stellungnahmen in Widerspruchs- und Klageverfahren 19 Euro.
 4. Hilfstätigkeiten
 Die Vergütung von Hilfstätigkeiten bei den juristischen Prüfungen
 a)
