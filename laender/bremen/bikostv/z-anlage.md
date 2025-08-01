@@ -66,9 +66,9 @@ Kostenverzeichnis der Bildungsverwaltung:
  | Der personelle Aufwand für die Abnahme von Prüfungen an Privatschulen ist sehr hoch, da hierfür zusätzlich ein Prüfungsausschuss eingerichtet werden muss. Der tatsächliche Aufwand ist jeweils zu ermitteln. | 
 107 | Mittagessen an Grundschulen der Stadtgemeinde Bremen | 
 107.00 | Die Gebühren werden monatlich von den Erziehungsberechtigten erhoben. Die Erziehungsberechtigten können verpflichtet werden, die Gebühren unmittelbar an den Bereitsteller des Essens, auch durch Lastschrifteinzug, zu leisten. Bei der Berechnung der Gebühr wird ein ganzes Jahr zugrunde gelegt. Die Jahresgebühr ist monatlich anteilig in zwölf gleichen Beträgen ab August bis Juli des jeweiligen Schuljahres zu entrichten. | 
-107.01 | Für Schülerinnen und Schüler an gebundenen Ganztagsgrundschulen | 35,00 Euro
+107.01 | Für Schülerinnen und Schüler an gebundenen Ganztagsgrundschulen | 45,00 Euro
 107.02 | Für Geschwister auf derselben gebundenen Ganztagsgrundschule je Kind | 30,00 Euro
-107.03 | Für Schülerinnen und Schüler an offenen Ganztagsgrundschulen, je Portion | 2,80 Euro bis 3,80 Euro
+107.03 | Für Schülerinnen und Schüler an offenen Ganztagsgrundschulen, durchschnittlich | 60,00 Euro
 107.04 | Für Bezieher von Leistungen nach § 3 Asylbewerberleistungsgesetz | gebührenfrei
 107.05 | Die Vorlage des Berechtigungsnachweises (Blaue Karte) ersetzt bei Beziehern von Leistungen für Bildung und Teilhabe nach § 28 Absatz 6 des Zweiten Buches Sozialgesetzbuch, § 34 Absatz 6 des Zwölften Buches Sozialgesetzbuch, § 2 des Asylbewerberleistungsgesetzes oder § 6b des Bundeskindergeldgesetzes die Gebührenentrichtung. | 
 107.06 | Das gebührenfrei ausgegebene Mittagessen nach Nummer 207.04 gilt als Gewährung von Leistungen für Bildung und Teilhabe nach § 28 Absatz 6 des Zweiten Buches Sozialgesetzbuch, § 34 Absatz 6 des Zwölften Buches Sozialgesetzbuch, § 2 des Asylbewerberleistungsgesetzes oder § 6b des Bundeskindergeldgesetzes, ohne dass es einer weiteren Antragstellung bedarf. | 
