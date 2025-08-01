@@ -4,19 +4,16 @@ Besoldungsgruppe B 1
 Besoldungsgruppe B 2
 Abteilungsdirektorin1), Abteilungsdirektor1)
 Direktorin, Direktor beim Staatsbetrieb Sächsisches Immobilien- und Baumanagement1)
+Direktorin, Direktor der Leitstelle für Informationstechnologie der sächsischen Justiz
 Direktorin, Direktor der Sächsischen Anstalt für kommunale Datenverarbeitung
-Direktorin, Direktor der Justizvollzugsanstalt
-– als Leiterin oder Leiter einer Justizvollzugsanstalt mit mehr als 700 Haftplätzen2) –
 Direktorin, Direktor des Sächsischen Staatsarchivs
 Geschäftsführerin, Geschäftsführer der Staatlichen Betriebsgesellschaft für Umwelt und Landwirtschaft
 Kanzlerin, Kanzler der Technischen Universität Bergakademie Freiberg
-Kaufmännische Direktorin, Kaufmännischer Direktor
-– als Geschäftsführerin, Geschäftsführer des Staatsbetriebs Staatliche Kunstsammlungen Dresden3) –
 Leitende Kreisdirektorin, Leitender Kreisdirektor
 – als einer Beamtin oder einem Beamten auf Zeit unmittelbar unterstellte Leiterin oder unterstellter Leiter einer besonders großen und besonders bedeutenden Abteilung in einem Landkreis mit mehr als 200 000 Einwohnern –
 Leitende Stadtdirektorin, Leitender Stadtdirektor
-– als einer Beamtin oder einem Beamten auf Zeit unmittelbar unterstellte Leiterin oder unterstellter Leiter einer besonders großen und besonders bedeutenden Organisationseinheit in einer Stadt mit mehr als 250 000 Einwohnern4) –
-Ministerialrätin5), Ministerialrat5)
+– als einer Beamtin oder einem Beamten auf Zeit unmittelbar unterstellte Leiterin oder unterstellter Leiter einer besonders großen und besonders bedeutenden Organisationseinheit in einer Stadt mit mehr als 250 000 Einwohnern2) –
+Ministerialrätin3), Ministerialrat3)
 Oberberghauptfrau1), Oberberghauptmann1)
 Sächsische Landesarchäologin, Sächsischer Landesarchäologe
 – als Geschäftsführerin oder Geschäftsführer des Staatsbetriebs Landesamt für Archäologie –
@@ -27,14 +24,14 @@ Vizepräsidentin, Vizepräsident des Landesamts für Straßenbau und Verkehr
 Vizepräsidentin, Vizepräsident des Landesamts für Umwelt, Landwirtschaft und Geologie
 __________
 1) Soweit nicht in der Besoldungsgruppe B 3; nur im staatlichen Bereich.
-2) Erhält eine Amtszulage nach Anlage 7.
-3) Nur der ab Inkrafttreten erste Amtsinhaber.
-4) Die Zahl der Planstellen in einer Stadt bis zu 450 000 Einwohnern darf höchstens 3 betragen.
-5) Soweit nicht in den Besoldungsgruppen A 16 oder B 3.
+2) Die Zahl der Planstellen in einer Stadt bis zu 450 000 Einwohnern darf höchstens 3 betragen.
+3) Soweit nicht in den Besoldungsgruppen A 16 oder B 3.
 Besoldungsgruppe B 3
 Abteilungsdirektorin1), Abteilungsdirektor1)
 – beim Landesamt für Steuern und Finanzen –
 Direktorin, Direktor beim Staatsbetrieb Sächsisches Immobilien- und Baumanagement1)
+Direktorin, Direktor der Justizvollzugsanstalt
+– als Leiterin oder Leiter einer Justizvollzugsanstalt mit mehr als 700 Haftplätzen –
 Direktorin, Direktor der Landeszentrale für politische Bildung
 Direktorin, Direktor des Kommunalen Versorgungsverbands Sachsen
 Erste Direktorin, Erster Direktor der Unfallkasse Sachsen

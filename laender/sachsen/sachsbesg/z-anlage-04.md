@@ -20,9 +20,11 @@ Professorin1), Professor1)
 Universitätsprofessorin1), Universitätsprofessor1)
 Rektorin, Rektor der ...2)
 Prorektorin, Prorektor der ...2)
+Prorektorin, Prorektor der Hochschule der Sächsischen Polizei (FH)3)
 __________
 1) Soweit nicht in der Besoldungsgruppe W 2.
 2) Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Hochschule hinweist, der die oder der Amtsinhabende angehört.
+3) Soweit nicht in der Besoldungsgruppe A 16.
 ## Anlage 5
 ## Anlage 6
 ## Anlage 7

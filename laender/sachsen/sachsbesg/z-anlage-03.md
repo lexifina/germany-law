@@ -1,18 +1,19 @@
 # Anlage 3 (zu § 30)
 Besoldungsordnung R
 Besoldungsgruppe R 1
-Richterin, Richter am Amtsgericht
-Richterin, Richter am Arbeitsgericht
+Richterin, Richter am Amtsgericht1)
+Richterin, Richter am Arbeitsgericht1)
 Richterin, Richter am Landgericht
-Richterin, Richter am Sozialgericht
+Richterin, Richter am Sozialgericht1)
 Richterin, Richter am Verwaltungsgericht
-Direktorin, Direktor des Amtsgerichts1)
-Direktorin, Direktor des Arbeitsgerichts1)
-Direktorin, Direktor des Sozialgerichts1)
-Staatsanwältin, Staatsanwalt2)
+Direktorin, Direktor des Amtsgerichts2)
+Direktorin, Direktor des Arbeitsgerichts2)
+Direktorin, Direktor des Sozialgerichts2)
+Staatsanwältin, Staatsanwalt3)
 __________
-1) Erhält eine Amtszulage nach Anlage 7.
-2) Erhält als Gruppenleiterin oder Gruppenleiter bei der Staatsanwaltschaft bei einem Landgericht mit 4 und mehr Staatsanwaltsplanstellen eine Amtszulage nach Anlage 7; anstatt einer Oberstaatsanwaltsplanstelle für Abteilungsleiterinnen oder Abteilungsleiter können bei einer Staatsanwaltschaft mit 6 und mehr Staatsanwaltsplanstellen 2 Staatsanwaltsplanstellen für Gruppenleiterinnen oder Gruppenleiter ausgebracht werden.
+1) Erhält als ständige Vertreterin oder ständiger Vertreter einer Direktorin oder eines Direktors mit 4 bis 7 Richterplanstellen eine Amtszulage nach Anlage 7.
+2) Erhält eine Amtszulage nach Anlage 7.
+3) Erhält als Gruppenleiterin oder Gruppenleiter bei der Staatsanwaltschaft bei einem Landgericht mit 4 und mehr Staatsanwaltsplanstellen eine Amtszulage nach Anlage 7; anstatt einer Oberstaatsanwaltsplanstelle für Abteilungsleiterinnen oder Abteilungsleiter können bei einer Staatsanwaltschaft mit 6 und mehr Staatsanwaltsplanstellen 2 Staatsanwaltsplanstellen für Gruppenleiterinnen oder Gruppenleiter ausgebracht werden.
 Besoldungsgruppe R 2
 Richterin, Richter am Amtsgericht
 – als weitere aufsichtsführende Richterin oder weiterer aufsichtsführender Richter1) –

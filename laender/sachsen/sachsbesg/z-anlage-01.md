@@ -179,7 +179,6 @@ Landesbeauftragte, Landesbeauftragter für Ausländerfragen
 Leitende Direktorin1), Leitender Direktor1)
 Leitende Regierungsdirektorin, Leitender Regierungsdirektor
 – als Leiterin oder Leiter des Fortbildungszentrums des Freistaates Sachsen bei der Hochschule für öffentliche Verwaltung und Rechtspflege (FH), Fortbildungszentrum des Freistaates Sachsen –
-– als Leiterin oder Leiter der Leitstelle für Informationstechnologie der sächsischen Justiz –
 Ministerialrätin2), Ministerialrat2)
 Museumsdirektorin und Professorin, Museumsdirektor und Professor
 Oberstudiendirektorin, Oberstudiendirektor
@@ -188,11 +187,12 @@ Oberstudiendirektorin, Oberstudiendirektor
 – als Leiterin oder Leiter einer berufsbildenden Schule –
 – als Leiterin oder Leiter einer Gemeinschaftsschule –
 – als Leiterin oder Leiter eines Gymnasiums –
-Prorektorin, Prorektor der Hochschule der Sächsischen Polizei (FH)
+Prorektorin, Prorektor der Hochschule der Sächsischen Polizei (FH)4)
 __________
 1) Für Funktionen, die sich von denen der Besoldungsgruppe A 16 abheben, können jeweils bis zu 30 Prozent der Planstellen mit einer Amtszulage nach Anlage 7 ausgestattet werden.
 2) Soweit nicht in den Besoldungsgruppen B 2 oder B 3.
 3) Erhält eine Amtszulage nach Anlage 7.
+4) Soweit nicht in der Besoldungsgruppe W 3.
 II. Zusätze zu den Grundamtsbezeichnungen
 Archiv-
 Bau-
