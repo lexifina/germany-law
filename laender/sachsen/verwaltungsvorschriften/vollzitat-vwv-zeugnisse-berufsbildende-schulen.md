@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2025-04-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.10
+- Datum: 2025-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.11
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.04.2025
+01.08.2025
 bis
-31.07.2025
+31.01.2026
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -143,7 +143,7 @@ IV.
 Inhalt und Gestaltung
 
 
-Grundlage für die Zeugnisgestaltung sind die in der Anlage zu Ziffer IV dargestellten Muster, welche auch im Bildungsserver zur individuellen Bearbeitung bereitgestellt werden.
+Grundlage für die Zeugnisgestaltung sind die in der Anlage zu Ziffer IV dargestellten Muster, welche auch im Formularservice auf der Internetseite Schule und Ausbildung auf sachsen.de zur individuellen Bearbeitung bereitgestellt werden.
 
 
 A)
@@ -254,16 +254,6 @@ Zeugnis (Berufsschulpflichterfüllerklasse)
 
 A.02.07
 
-Zeugnis über den mittleren Schulabschluss gemäß § 30 Absatz 1 Nummer 2 der Schulordnung Berufsschule vom 14. März 2023 (SächsGVBl. S. 92)
-
-
-A.02.08
-
-Zeugnis über den mittleren Schulabschluss gemäß § 30 Absatz 1 Nummer 1 der Schulordnung Berufsschule vom 14. März 2023 (SächsGVBl. S. 92)
-
-
-A.02.09
-
 Zeugnis über den mittleren Schulabschluss gemäß § 30 der Schulordnung Berufsschule vom 14. März 2023 (SächsGVBl. S. 92), die durch Artikel 2 der Verordnung vom 31. Juli 2024 (SächsGVBl. S. 783) geändert worden ist, in der jeweils geltenden Fassung
 
 
@@ -340,11 +330,6 @@ Abgangszeugnis
 B.02.04
 
 Zeugnis über den mittleren Schulabschluss
-
-
-B.02.05
-
-Abschlusszeugnis Altenpflege
 
 
 B.03
@@ -584,7 +569,7 @@ Zeugnisse und Bescheinigungen werden gesiegelt. Halbjahresinformationen werden n
 
 5.
 
-Halbjahresinformationen, Jahreszeugnisse und Halbjahreszeugnisse minderjähriger Schülerinnen und Schüler sind von den Eltern zu unterschreiben. Jahreszeugnisse der Berufsschule und der Berufsfachschule für Altenpflege, für Hebammen und Entbindungspfleger sowie für Krankenpflege sind zusätzlich durch die Auszubildenden oder durch die Arbeitgeberin oder den Arbeitgeber oder die Träger der Ausbildung zu unterschreiben. Die klassenleitende Lehrkraft hat bei Ausgabe der Zeugnisse auf diese Verpflichtung hinzuweisen und deren Erfüllung zu überprüfen.
+Halbjahresinformationen, Jahreszeugnisse und Halbjahreszeugnisse minderjähriger Schülerinnen und Schüler sind von den Eltern zu unterschreiben. Jahreszeugnisse der Berufsschule und der Berufsfachschule in Ausbildungsrichtungen mit einem vertraglich geregelten Ausbildungsverhältnis sind zusätzlich durch die oder den Auszubildenden, die Arbeitgeberin oder den Arbeitgeber oder durch den jeweiligen Träger der Ausbildung zu unterschreiben. Die klassenleitende Lehrkraft hat bei Ausgabe der Zeugnisse auf diese Verpflichtung hinzuweisen und deren Erfüllung zu überprüfen.
 
 6.
 
@@ -646,7 +631,7 @@ Abschriften, beglaubigte Kopien, Zweitschriften oder Ähnliches begründen keine
 
 3.
 
-Der Anspruch auf Änderung eines Originaldokumentes richtet sich an die Stelle, die dieses Dokument gestellt hat. Dies sind in der Regel die Beruflichen Schulzentren oder staatlich anerkannte Ersatzschulen. 
+Der Anspruch auf Änderung eines Originaldokumentes richtet sich an die Stelle, die dieses Dokument ausgestellt hat. Dies sind in der Regel die Beruflichen Schulzentren oder staatlich anerkannte Ersatzschulen. 
 
 4.
 
@@ -692,7 +677,12 @@ Für sonstige Personenstandsänderungen, die zu einer Änderung des Vor- oder de
 
 b)
 
-Wird bei Verlust des Originaldokuments eine Zweitschrift beantragt, setzt dies voraus, dass der Schule ein Dokument vorliegt, das inhaltlich dem Originaldokument entspricht. Sofern keine Namensänderung vorliegt, finden die Nummern 1 bis 3 und die Nummer 6 entsprechende Anwendung. Die Nummern 4 und 5 gelten nicht.
+Wird bei Verlust des Originaldokuments eine Zweitschrift beantragt, setzt dies voraus, dass der Schule ein Dokument vorliegt, das inhaltlich dem Originaldokument entspricht. Sofern keine Namensänderung vorliegt, finden die Nummern 1 bis 3 und Nummer 6 Buchstabe a) und Buchstabe b) Satz 4 und 5 entsprechende Anwendung. Die Nummern 4 und 5 gelten nicht. In diesen Fällen enthält die Zweitschrift keinen Beglaubigungsvermerk. Dieser ist durch folgenden Text zu ersetzen: „Diese Ausfertigung tritt im Rechtsverkehr an die Stelle der Erstausfertigung vom [einsetzen: Ausstellungsdatum des Originaldokuments]“.
+
+
+9.
+
+Die Anlagen zu Ziffer VII sind im „Formularservice auf der Internetseite Schule und Ausbildung auf sachsen.de zur individuellen Bearbeitung eingestellt.
 
 
 VIII.
@@ -743,9 +733,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. April 2025
+Fassung gültig ab:  1. August 2025
 
-Fassung gültig bis: 31. Juli 2025
+Fassung gültig bis: 31. Januar 2026
 
 Drucken/Speichern
 
@@ -772,7 +762,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.10
+https://www.revosax.sachsen.de/vorschrift/17513.11
 Stand vom
 18.11.2026
 
