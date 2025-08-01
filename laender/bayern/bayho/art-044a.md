@@ -1,0 +1,6 @@
+# Art. 44a Verzicht auf Verwendungsnachweise, Stichproben
+(1) Bei einer Projektförderung aus Landesmitteln, deren Zuwendungsbetrag 10 000 € nicht übersteigt und die nach Ablauf des 30. Juni 2025 gewährt wird, muss ein Verwendungsnachweis nur erbracht werden, wenn die zuständige Stelle diesen bis zum Ablauf von drei Monaten nach Ende des Kalenderjahres, in dem die Erfüllung des Zuwendungszwecks zu erwarten war, verlangt hat. Die zuständige Stelle hat einen Verwendungsnachweis nach Satz 1 zu verlangen
+1. bei Anhaltspunkten für eine nicht zweckentsprechende Verwendung sowie
+2. darüber hinaus in mindestens 10 % der Fälle, in denen im jeweiligen Kalenderjahr eine gleichartige Zuwendung gewährt wurde, nach Maßgabe des Zufallsprinzips.
+Ist die zweckentsprechende Verwendung der Zuwendung in den nach Satz 2 bestimmten Fällen ganz oder teilweise nicht nachgewiesen, ist der Zuwendungsbescheid ohne Rücksicht auf die Höhe des nicht zweckentsprechend verwendeten Anteils in vollem Umfang zu widerrufen. Satz 3 gilt nicht, wenn der Zuwendungsempfänger anzeigt, dass er die Zuwendung nicht in voller Höhe zur Erfüllung des Zuwendungszwecks benötigt hat.
+(2) Für Zuwendungen an Gebietskörperschaften und ihre öffentlich-rechtlichen Zusammenschlüsse gilt Abs. 1 bis zu einem Zuwendungsbetrag von 100 000 €.
