@@ -26,5 +26,5 @@ Abschnitt 4 Qualitätssicherung und -entwicklung
 § 21 Qualitätsentwicklung, Fort- und Weiterbildung, Fachberatung und Qualifikation
 § 22 Evaluation und Weiterentwicklung
 § 22a Monitoring
-Abschnitt 5 Übergangsvorschrift
-§ 23 Übergangsvorschrift
+Abschnitt 5 Übergangsvorschriften
+§ 23 Übergangsvorschriften
