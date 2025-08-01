@@ -1,0 +1,1 @@
+verordnet das Bayerische Staatsministerium für Unterricht und Kultus, soweit erforderlich im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen und für Heimat und mit Zustimmung des Landespersonalausschusses:
