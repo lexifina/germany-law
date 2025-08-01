@@ -1,0 +1,1 @@
+Auf Grund des § 13 Abs. 2 des Arbeitszeitgesetzes – ArbZG – vom 6. Juni 1994 (BGBl I S. 1170), geändert durch Art. 2 des Gesetzes vom 30. Juli 1996 (BGBl I S. 1186), erläßt die Bayerische Staatsregierung folgende Verordnung:
