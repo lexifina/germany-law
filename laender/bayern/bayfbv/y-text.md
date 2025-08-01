@@ -1,0 +1,1 @@
+Auf Grund des Art. 38 Abs. 1 Nr. 1, Abs. 2 und 3 des Landesstraf- und Verordnungsgesetzes (BayRS 2011-2-1), zuletzt geändert durch § 2 des Gesetzes vom 12. April 1999 (GVBl S. 130), erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
