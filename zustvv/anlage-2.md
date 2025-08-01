@@ -1,5 +1,3 @@
-# Anlage 2 (zu § 1 Nr. 2)
-
-Innerer Umschlag
+# Anlage 2 (zu § 1 Nummer 2)
 
 
