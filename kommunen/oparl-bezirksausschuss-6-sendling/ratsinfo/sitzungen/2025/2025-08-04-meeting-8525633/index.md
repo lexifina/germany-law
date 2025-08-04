@@ -1,0 +1,123 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-08-04T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525633
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525633
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 02.06.2025 und 07.07.2025
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Lärmbelästigung am Flaucher
+- TOP 2.2.: Radwege im Neuhofener Park
+- TOP 2.3.: Lärmsituation um den HC Wacker München
+- TOP 2.4.: Wildblumen statt Asphalt – mehr Grün zwischen den Bäumen
+- TOP 2.5.: Antrag zur Errichtung von neuen Fahrradabstellplätzen in Untersendling
+- TOP 2.6.: Sitzbank in der Lindenschmitstraße / Ecke Danklstraße – Neuer Standort für Abfalleimer
+- TOP 2.7.: Abstellen von E-Scootern im Stadtbezirk
+- TOP 2.8.: Einrichtung eines verkehrsberuhigten Bereichs in der Bruderhofstraße und Urbanstraße
+- TOP 2.9.: Fußgängerschild am Kidlerplatz 8
+- TOP 2.10.: Erhalt und zügiger Ersatzbau der Fußgängerbrücke an der Brudermühlstraße 57
+- TOP 2.11.: Tempo 30 in der Implerstraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Neubau einer Senioren-/Mehrgenerationen-Wohnanlage mit 68 WE, Alten- und Servicezent-rum, Gemeinschaftsraum und Tiefgarage mit 27 Stellplätzen - mit Mobilitätskonzept
+- TOP 4.2.2.: Antrag auf Baumfällung auf dem Grundstück Karwendelstraße 10
+- TOP 4.2.3.: Antrag auf Baumfällung auf dem Grundstück Karwendelstraße 13
+- TOP 4.2.4.: Antrag auf Baumfällung auf dem Grundstück Reutberger Straße 6
+- TOP 4.2.5.: Antrag auf Baumfällung auf dem Grundstück Lindwurmstraße 90
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die Änderungen der Novelle der Bayerischen Bauordnung (BayBO) 2025 A. Neuerlass einer Satzung der Landeshauptstadt München zur Einführung einer Plicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) B. Evaluation der Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge vom 19.12.2007 (Stellplatzsatzung - StPlS) C. Behandlung von Stadtratsanträgen und Stadtratsaufträgen
+- TOP 4.3.2.: Brunnen am Harras
+- TOP 4.3.3.: Albert-Roßhaupter-Straße 12 – Fassadenbefestigung der Leuchtkörper
+- TOP 4.3.4.: Müllsituation in der Schäftlarnstraße 62
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Baumfällung in der Lindenschmitstraße 25
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Errichtung von erhöhten Zebrastreifen zur Sicherung der Kreuzung Steinerstraße – Flößergasse – Tölzer Straße
+- TOP 5.1.2.: (E) Radfahrer frei am Gehweg Roter-Turm-Platz
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnungen; Saisonale Stadträume Sommerstraßen 2025 – Gotzinger Platz und Schöttlstraße
+- TOP 5.3.2.: Kyreinstraße – Einmündung Danklstraße; Kurven-Haltverbote
+- TOP 5.3.3.: Genehmigung für Parklet in der Schöttlstraße 14
+- TOP 5.3.4.: Umbau der Haltestellen "Steinerstraße"
+- TOP 5.3.5.: Gefahrenstelle am Radweg der Baustelle beim Blumengroßmarkt - Schlagloch bei Verkehrsführung
+- TOP 5.3.6.: Reutberger Straße – Herstellung einer Querung
+- TOP 5.3.7.: Neuordnung der Parkplätze entlang der Karwendelstraße
+- TOP 5.3.8.: Polder Straßenecke Kidler-/ Oberländerstraße
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradabstellanlage Ecke Valleystraße / Thalkirchner Straße (B90 / Die Grünen)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Sendling des AWO Kreisverband München-Stadt e.V. „Miteinander in Sendling - Tag der offenen Türen im Sendlinger ASZ am 11.10.2025“ 650,00 € / AZ: 0262.0-6-0570
+- TOP 6.1.2.: (E) Stadtbezirksbudget Evangelisches Hilfwerk München gGmbH „Sommerfest Teestube "komm" am 08.08.2025“ 152,50 € / AZ: 0262.0-6-0569
+- TOP 6.1.3.: (E) Stadtbezirksbudget Init. "Verwandelt" „Abschluss der Trilogie: "Verspielt" 2023, "Verbunden" 2024 und jetzt "Verwandelt" vom 13.09.2025 - 20.09.2025“ 2.278,10 € / AZ: 0262.0-6-0571
+- TOP 6.1.4.: (E) Stadtbezirksbudget BIKU gGmbH „Mädchen an den Ball/ Mädchenfußball im Bezirk 6 Sendling vom 01.01.2026 - 31.12.2026“ 7.980,00 € / AZ: 0262.0-6-0572
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Filmworkshop „Der fantastische Stamm der Demokratie“
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Betreuungssituation Implerschule
+- TOP 7.3.2.: Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 7.3.3.: Aktuelle Situation am Harras
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Veranstaltung in einer städtischen Grünanlage; 80 Jahrfeier Wasserwacht Ortsgruppe München-Mitte an der Wasserwachstation Flaucher Isarauen 2a am 13.09.2025
+- TOP 8.2.2.: Veranstaltung auf öffentlichem Grund; Sommercafé der SPD Sendling am 09.08.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Gasteig München GmbH Interim an der Hans-Preißinger-Straße 8 Verzögerung der Nachnutzung Nachteilsausgleich SWM Baukosten Kosten und Finanzierung Sitzungsvorlage Nr. 20-26 / V 16506
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 8.2.3.: Marktveranstaltung auf öffentlichem Grund: Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras vom 24.11.2025 bis 23.12.2025
+- TOP 2.12.: Grafitti am Max-Hirschberg-Weg
+- TOP 2.13.: Lärm auf dem Gelände des HC Wacker
+- TOP 5.1.3.: (E) Errichtung von öffentliche E-Ladesäulen im Gebiet des Wertstoffhof bzw. DAV Kletter- und Boulderhalle
+- TOP 5.3.9.: Verstetigung Tempo 30 Tumblingerstraße
+- TOP 5.3.10.: Arbeiten im Straßenraum; Reutberger Straße 2-10 zwischen Reichersbeurer Straße und Gotzinger Platz; Querungshilfe einschließlich Einbau neuer Entwässerungseinrichtungen
+- TOP 5.3.11.: Arbeiten im Straßenraum; Schäftlarnstraße 95-107 - Reparatur MSE
+- TOP 5.3.12.: Einrichtung Standorte für Shared Mobility im Stadtbezirk 6
+- TOP 2.14.: Ladesäulen und Parkbänke am Gotzinger Platz
+- TOP 2.15.: Meldung Gefährdung von Schulkindern in der Bavariastraße
+- TOP 2.16.: Ferienwohnung in Neubau Radlkoferstraße
+- TOP 4.3.5.: Bürgerbeteiligung an kalten Nahwärmenetzen durch die Stadtwerke
+- TOP 4.4.1.: Baumrecht vor Baurecht (ÖDP)
+- TOP 5.3.13.: Fußgänger im Bereich der Meindlstraße 6
+- TOP 5.3.14.: Ausnahmegenehmigung Grünanlage: Vogelflug-Vorführung für Tarzanmäuse e.V. an der Jägerwirtstr. (Stemmerwiese) am 02.10.2025
+- TOP 5.3.15.: Fahrradabstellflächen in der Senserstraße
+- TOP 5.3.16.: Fahrradparken Brudermühlstraße
+- TOP 5.3.17.: Bauarbeiten an der Haltestelle Schäftlarnstraße
+- TOP 5.3.18.: MVG Rad-System endet am 30. September 2025
+- TOP 5.3.19.: Information zur Sanierung der Bushaltestelle am Herzog-Ernst-Platz
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative Impro-Theatergruppe "Southbound" "Southbound": Improtheater für die Ludwigsvorstadt/ Isarvorstadt und Sendling vom 01.09.2025 - 08.05.2026“ 900,00 € / AZ: 0262.0-6-0574
+- TOP 6.3.2.: Angebote der Fachstelle für Öffentlichkeitsbeteiligung und Partizipation im Direktorium und Checkliste Öffentlichkeitsbeteiligung
+- TOP 6.5.1.: Wiesn-Reservierungen 2025
+- TOP 7.3.4.: Clearinghaus in der Leipartstraße
+- TOP 8.3.2.: Absage: Veranstaltung auf öffentlichem Verkehrsgrund Straßenfest "Sommerfeierabend Daiserstraße" in der Daiserstraße (zwischen Alramstraße und Oberländerstraße) am 26.07.2025
+- TOP 8.3.3.: Weiterführung einer Schank- und Speisewirtschaft in der Oberländerstraße 3b
