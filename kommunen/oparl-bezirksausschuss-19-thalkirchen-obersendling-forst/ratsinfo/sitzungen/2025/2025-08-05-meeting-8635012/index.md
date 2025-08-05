@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-08-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8635012
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8635012
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.07.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (Antrag) Bestellung städtischer Leistungen: Spielgeräte
+- TOP 3.3.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/Mädchenfußball im Bezirk 19 Fürstenried-Solln /Banner vom 01.01. -31.12.2026 535,00€; Az. 0262.0-19-0594
+- TOP 3.4.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/Mädchenfußball im Bezirk 19 Fürstenried-Solln vom 01.01. -31.12.2026 7.980,00€; Az. 0262.0-19-0595
+- TOP 3.5.: (E) Stadtbezirksbudget Pianistenclub e.V. Magie der 20 Finger -Klavierabend mit vier Klavierduos am 16.11.2025 1.578,00€; Az. 0262.0-19-0596
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Mobilfunk-Suchkreismeldung Forstenried
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Verlängerung der Anlieferzone für das Bistro Viva Clara
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Haltverbot auf dem Seitenstreifen für den Baumschutz in der Winterhalterstraße / Plattlinger Straße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Aufbringung einer Sperrfläche im Bereich der sog. „Dooring-Zone“
+- TOP 5.5.: (E) Sondernutzungserlaubnis: Foodtruck am Schweizer Platz
+- TOP 5.6.: (Antrag) Ausweisung der Wilhelm-Leibl-Straße zwischen Melchiorstraße und Wolfratshauser Straße als Fahrradstraße
+- TOP 5.7.: (Antrag) Ersatz Behindertenparkplätze Fellererplatz 2
+- TOP 5.8.: (Antrag) Schulwegsicherheit Vinzenz-Schüpfer-Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Stelznerstraße 13
+- TOP 6.2.2: Gysisstraße 13 (VB)
+- TOP 6.2.3: Tölzer Straße Flurnummer 230/0 (VB)
+- TOP 6.2.4: Eberlestraße 11 (T)
+- TOP 6.2.5: Rothspitzstraße 35 (T)
+- TOP 6.2.6: Am Isarkanal 30
+- TOP 6.2.7: Herterichstraße 33
+- TOP 6.2.8: Forstenrieder Allee 232 (VB)
+- TOP 6.2.9: Fürstenackerstraße 3 (T)
+- TOP 6.2.10: Bestelmeyerstraße 13
+- TOP 6.2.11: Lochhamer Straße 75
+- TOP 6.2.12: Sonthofener Straße 8
+- TOP 6.2.13: Königswieser Straße 5 (T)
+- TOP 6.3.: (A) Bebauungsplan A 22 "Nördlich Zugspitzstraße“ Gemeinde Neuried
+- TOP 6.4.: (Antrag) Sachstand Sanierung des Hochhauses Buchloer Straße 1
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Möglichkeiten für das Familienzentrum (Friedenskapelle) in Neuforstenried suchen
+- TOP 7.2.: Zusätzliche Spielgeräte für Spielplätze: Priorisierung
+- TOP 7.3.: (Anfrage) Schulsituation im 19. Stadtbezirk
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 2.3.: (Antrag) Unser Stadtbezirk 19 isst gemeinsam
+- TOP 5.9.: (E) Sondernutzungserlaubnis: Foodtruck am Thalkirchner Platz
