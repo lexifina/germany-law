@@ -1,0 +1,123 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2025-08-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8586193
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8586193
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Akustische Luftverschmutzung durch Deutsche Post Niederlassung DHL Gleisharfe Neu Aubing
+- TOP 2.1.2.: Verkehrssituation Am Aubinger Feld
+- TOP 2.1.3.: Schaukästen für Vereine in Lochhausen
+- TOP 2.1.4.: Info-Tafel zur Industriekultur in Lochhausen
+- TOP 2.1.5.: Sperrung Otto-Meitinger-Straße
+- TOP 2.1.6.: Digitale Fahrzeitenanzeige für Bus 162 in Lochhausen
+- TOP 2.1.7.: Parksituation in der Reichenbergstraße
+- TOP 2.1.8.: Unfallgefahr aufgrund Parkplatz - Lochhausener Straße
+- TOP 2.1.9.: Müll und verwaistes Dixi-Klo Buswendeschleife Aubing Friedhof
+- TOP 2.1.10.: Radwegeinmündung Altenburgstraße - Sicht eingeschränkt
+- TOP 2.1.11.: Durchgang Bergsonstr. / Noderstr.
+- TOP 2.1.12.: Schranke Hörweg + Schr. Baureferat vom 24.07.25
+- TOP 2.1.13.: Änderungen Verkehrsregelungen in der Pretzfelder Straße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 4.: Anträge
+- TOP 4.1.: Denkmalschutz für das Neuaubinger Bahnhofsgebäude prüfen (Kriesel, Spannagl, Stockmann, Weber)
+- TOP 4.2.: Stadtteilwochen im 22. Stadtbezirk - Einen Erfolg wiederholen (Interfraktioneller Antrag)
+- TOP 4.3.: Dringliche Umsetzung der Tempo 30 Anordnungen auf Basis der StVO-Novellierung (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.4.: Mehr Einsätze von Bücherbussen im 22. Stadtbezirk (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.5.: Stromanschluss am Parkplatz Ziegeleistraße (Bündnis 90/Die Grünen-Fraktion)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Freie Ateliers und Werkstätten Ehrenbürgstraße e. V. "offen für alle" 2025 vom 10. - 12.10.2025 4.000,00 Euro, Az.: 0262.0-22-0290 (vertagt aus 07/25)
+- TOP 5.2.: (E) Stadtbezirksbudget Elternbeirat Nörr Kids - Haus für Kinder Ausflug zum Tierpark am 15.07.2025 1.538,00 Euro, Az.: 0262.0-22-0294 (vertagt aus 07/25)
+- TOP 5.3.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball! Mädchenfußball im Bezirk 22 Aubing-Lochhausen-Langwied vom 01.01. - 31.12.2026 8.180,00 Euro, Az.: 0262.0-22-0296
+- TOP 5.4.: (E) Kein Gehwegparken in der Zwingenberger Straße
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung einer Veranstaltung im Freien in einer städt. Grünanlage, hier: Aubinger Lohe am 09.11.25 Teufelsberglauf, Anhörung KVR vom 17.07.25
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Sandbergstr. 8, Anmietung Liegenschaft als Gemeinschaftsunterkunft für Flüchtlinge, Schr. Reg. v. Oberbayern vom 14.07.25
+- TOP 6.2.2.2.: Kostenfreiheit Grundschulweg, Schr. Ref. f. Bildung u. Sport vom 16.07.25
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: SWM Strom-Projekt, hier: - Giggenbacherstraße (30. KW bis 40. KW), Flyer SWM vom 15.07.25 (N) - Wiesentfelser Str. 70 (32. KW bis 40. KW), Flyer SWM vom 23.07.25
+- TOP 6.3.2.2.: Berglwiesenstraße, Arbeiten im Straßenraum vom 28.07.-19.09.25, Schr. Mobilitätsreferat vom 15.07.25
+- TOP 6.3.2.3.: Fahrradweg nach Gräfelfing, Schr. Baureferat vom 10.07.25
+- TOP 6.3.2.4.: Gefährliche Verkehrssituation in der Eichenauer Straße, Schr. Mobilitätsreferat vom 11.07. und 14.07.25
+- TOP 6.3.2.5.: E-Ladestation Lochhausen einrichten, Schr. Mobilitätsreferat vom 04.07.25
+- TOP 6.3.2.6.: Modernisierung der Lochhausener Straße / Ampelanlage Osterangerstraße (Anfrage 2), Schr. Baureferat vom 07.07.25
+- TOP 6.3.2.7.: Überprüfung des Rhythmus zur Schneeräumung in der Scharinenbachstraße, Schr. Baureferat vom 03.07.25
+- TOP 6.3.2.8.: Lebenswerte Infrastruktur für Lochhausen V; Umgehender Ausbau der Staatsstraße zwischen Lochhausen und Gröbenzell, Schr. Mobilitätsreferat vom 07.07.25
+- TOP 6.3.2.9.: Gefährdung durch fehlende Beleuchtung an der S-Bahn-Station Neuaubing, Schr. DB vom 18.07.25
+- TOP 6.3.2.10.: Planfeststellungsbeschluss "Neubau S-Bahn-Werk München-Langwied", Schr. Planungsreferat vom 22.07.25
+- TOP 6.3.2.11.: Busbahnhof Clarita-Bernhard-Straße Ecke Hans-Stützle-Straße, Schr. Mobilitätsreferat vom 14.07.25
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Kallenbergstr. 8, Neubau einer Doppelhaushälfte mit Carport, Anhörung Planungsreferat vom 16.07.25
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauanträge im 22. Stadtbezirk: 23.06.-29.06.25, 30.06.-06.07.25, 07.07.-13.07.25, 14.07.-20.07.25, (N) 21.07.-27.07.25
+- TOP 6.4.2.2.: Müll/Pflege von öffentlichen Wegen, Schr. AWM vom 15.07.25
+- TOP 6.4.2.3.: Verschmutzung durch Zigarettenkippen im öffentlichen Raum, Schr. Baureferat vom 03.07.25
+- TOP 6.4.2.4.: Mülleimer, Briefkästen und Polizeistation für Freiham, Schr. Ref. f. Arbeit u. Wirtschaft vom 10.07.25 und Schr. Baureferat vom 17.07.25
+- TOP 6.4.2.5.: Bänke vor dem Friedhof Lochhausen, Schr. Baureferat vom 18.07.25
+- TOP 6.4.2.6.: Mitteilung über ein Grundstücksgeschäft, hier: Tausch eines Grundstücks Aubinger Allee westlich, Schr. Kommunalreferat vom 18.07.25
+- TOP 6.4.2.7.: Information über die geplante Errichtung einer Hochfrequenzanlage Spatzenwinkel, Schr. Ref. f. Klima- u. Umweltschutz vom 11.07.25
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung, hier: - Schank- und Speisewirtschaft "Kulhad", Limesstr. 30, Schr. KVR vom 14.07.25 - Schank- und Speisewirtschaft "Musikkaffee", Bodenseestr. 228, Schr. KVR vom 17.07.25
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Mobilitätsausschuss mit Ausschuss für Arbeit und Wirtschaft vom 23.07.25 - Filmstandort München stärken 2
+- TOP 9.2.: Gemeinsamer Kinder- und Jugendhilfeausschuss, Bauausschuss, Bildungsausschuss und Ausschuss für Stadtplanung und Bauordnung vom 15.07.25 - Fortschreibung Konzept "Spielen in München"
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 16.07.25 - Sanierungsgebiet "Ortskern Ramersdorf" A) Beabsichtigte Überplanung des Bereichs Innsbrucker Ring (östlich), Ramersdorfer Straße (südlich) Grundstücke Fl.Nr.. 18428, 18429, 18429/2 18431/2, 18431/3 B) Durchführung eines städtebaulichen und landschaftsplanerischen Realisierungswettbewerbs C) Weiteres Vorgehen - Eckdatenbeschluss - Stadtbezirk 16 - Ramersdorf-Perlach
+- TOP 9.4.: Vollversammlung vom 02.07.25 - Neueröffnung einer Unterkunft zur Unterbringung Geflüchteter an dem Standort • Lochhausener Straße (Flst.Nr. 709, Gem. Langwied) 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 9.5.: Bildungsausschuss vom 04.06.25 - Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen - Pfarrer-Grimm-Straße 1 - Schubinweg 3 - Theodor-Fischer-Straße 73
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 17.09.25 um 19.00 Uhr im Campus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41; Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 28.07.25 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Mittwoch, 06.08.25 um 18.30 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 30.07.25, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 31.07.25, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.14.: (N) - Update Fußgängerzone Freiham, Mahatma-Ghandi-Platz
+- TOP 2.1.15.: (N) - Schild "Fahrrad frei" auf der Aubinger Straße
+- TOP 2.1.16.: (N) - Parkbänke streichen
+- TOP 2.1.17.: (N) - Recyclingcontainer-Leerungen in der Ehrenbürgstraße
+- TOP 2.1.18.: (N) - Klärung bezüglich Ausgleichsflächen
+- TOP 2.1.19.: (N) - Unterkunft in der Sandbergstraße (12 Bürgeranliegen)
+- TOP 2.1.20.: (N) - Pendelbus zwischen Westkreuz (POZ) und Freiham (ZAM)
+- TOP 2.1.21.: (N) - Grundstück Ecke Aubinger Str./ Mainaustraße
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Thuisbrunner Str. 7 - Radolfzeller Str. 8 (N) - Schwojerstr. 48 (N) - Wertheimer Str. 28
+- TOP 4.6.: (N) - Sicherung der Finanzierung zum Ausbau des Landschaftsparkes Freiham (Interfraktioneller Antrag)
+- TOP 5.5.: (N) - Entscheidung über Sondernutzungserlaubnis gem. Vollmacht OB, hier: Antrag auf Aufstellung eines Zeitungsentnahmegeräts auf öffentlichem Grund, Henschelstr. 8
+- TOP 6.3.1.1.: (N) - 4-Jahres-Planung und Präsentationsunterlagen zur BA-Informationsveranstaltung zum öffentlichen Dienstleistungsauftrag vom 23.07.25, Anhörung MVG vom 24.07.25
+- TOP 6.3.2.12.: (N) - Zebrastreifen in der Ubostraße, Schr. Mobilitätsreferat vom 24.07.25
+- TOP 6.3.2.13.: (N) - Baumaßnahmen der Stadtwerke München im 22. Stadtbezirk: 15.07.-29.07.25
+- TOP 6.3.2.14.: (N) - MVG Rad-System endet am 30. September 2025, Schr. Mobilitätsreferat vom 25.07.25
+- TOP 6.4.1.2.: (N) - Altostr. 11, Neubau eines Mehrfamilienhauses mit SB-Foyer und Tiefgarage, Anhörung Planungsreferat vom 28.07.25
+- TOP 6.4.1.3.: (N) - Hallstätter Str. 20, Neubau einer Doppelhaushälfte mit Carport, Anhörung Planungsreferat vom 30.07.25
+- TOP 6.4.1.4.: (N) - Hallstätter Str. 20, Neubau einer Doppelhaushälfte mit Stellplatz, Anhörung Planungsreferat vom 30.07.25
+- TOP 6.4.1.5.: (N) - Gotzmannstr. 19, Schulbauoffensive-Weiternutzung eines Interims-Schul-Pavillons befristet bis 31.12.2035, Anhörung Planungsreferat vom 05.08.25
+- TOP 6.4.2.8.: (N) - Ruhebänke an der Langwieder Seenplatte, Schr. Baureferat vom 21.07.25
+- TOP 6.4.2.9.: (N) - Lärmbelästigung „Bergson Kunstkraftwerk“, Schr. KVR vom 29.07.25
+- TOP 8.2.: (N) - Infoschreiben, Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2026-2032, Schr. Direktorium vom 23.07.25
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: (N) - Kallenbergstr., Schr. Sozialreferat vom 23.07.25
+- TOP 8.4.: (N) - Angebote der Fachstelle für Öffentlichkeitsbeteiligung und Partizipation im Direktorium und Checkliste Öffentlichkeitsbeteiligung, Schr. Direktorium vom 28.07.25
+- TOP 9.6.: Kommunalausschuss als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 05.06.25 - Abfallwirtschaftsbetrieb München (AWM); Darstellung der Ergebnisse des Pilotversuchs und Empfehlung für die weitere Vorgehensweise zur Einführung eines Holsystems für die Erfassung von Leichtverpackungen in München Satzung zur Änderung der Betriebssatzung des Abfallwirtschaftsbetriebes München (BetriebsS Abfallwirtschaftsbetrieb)
+- TOP 9.7.: Ausschuss für Arbeit und Wirtschaft vom 22.07.25 - Bürgerbeteiligung an kalten Nahwärmenetzen durch die Stadtwerke Empfehlung Nr. 20-26 / E 02658 der Bürgerversammlung des Stadtbezirks 21 - Pasing-Obermenzing vom 10.04.2025
