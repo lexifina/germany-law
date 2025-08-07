@@ -98,6 +98,7 @@
 | - | 5F-AMB(5-Fluor-AMB) | Methyl{2-[1-(5-fluorpentyl)-1H-indazol-3-carboxamido]-3-methylbutanoat} |
 | - | Eutylon (N-Ethylnorbutylon, bk-EBDB) | 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-on |
 | - | Etazen (Etodesnitazen) | N,N-Diethyl-2-{2-[(4-ethoxyphenyl)methyl]-1H-benzimidazol-1-yl}ethan-1-amin |
+| - | Etomethazen (5-Methyl-Etodesnitazen,5-Methyldesnitroetonitazen) | N,N-Diethyl-2-{2-[(4-ethoxyphenyl)methyl]-5-methyl-1H-benzimidazol-1-yl}ethan-1-amin |
 | - | Etonitazepyn (N-Pyrrolidino Etonitazen) | 2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)-1H-benzimidazol |
 | - | FDU-PB-22 | Naphthalin-1-yl{1[(4-fluorphenyl)methyl]-1H-indol-3-carboxylat} |
 | Fencamfamin | - | N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin |
@@ -106,6 +107,8 @@
 | - | Flubromazepam | 7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
 | - | Flubromazolam | 8-Brom-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin |
 | - | 2-Fluordeschlorketamin(2-Fluorketamin, 2-FDCK, 2-FL-2‘-OXO-PCM) | 2-(2-Fluorphenyl)-2-(methylamino)cyclohexan-1-on |
+| - | Fluor-Etonitazen (Fluetonitazen,F-Etonitazen, F-Eto, 2F-Eto, 2F-Etonitazen) | N,N-Diethyl-2-(2-{[4-(2-fluorethoxy)phenyl]methyl}-5-nitro-1H-benzimidazol-1-yl)ethan-1-amin |
+| - | Fluor-Etonitazepyn (Fluetonitazepyn,F-Etonitazepyn, N-Pyrrolidin-Fluetonitazen) | 2-{[4-(2-Fluorethoxy)phenyl]methyl}-5-nitro-1-[2-(pyrrolidin-1-yl)ethyl]-1H-benzimidazol |
 | - | 4-Fluorisobutyrfentanyl (4-Fluorisobutyrylfentanyl, 4F-iBF, p-FIBF) | N-(4-Fluorphenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamid |
 | - | 4-Fluormethamfetamin (4-FMA) | 1-(4-Fluorphenyl)-N-methylpropan-2-amin |
 | - | 3-Fluormethcathinon (3-FMC) | 1-(3-Fluorphenyl)-2-(methylamino)propan-1-on |
