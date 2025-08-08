@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2025/2026
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2025-06-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/21219.1
+- Datum: 2025-08-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/21219.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.06.2025
+08.08.2025
 bis
-07.08.2025
+06.11.2025
 
 VwV Bedarf und Schuljahresablauf 2025/2026
 
@@ -87,7 +87,7 @@ den Grundbereich,
 
 b)
 
-Anrechnungen, Ermäßigungen, Freistellungen und Verminderungen sowie
+Anrechnungen, Ermäßigungen und Freistellungen sowie
 
 
 c)
@@ -96,7 +96,7 @@ den Ergänzungsbereich.
 
 3.
 
-Das Landesamt für Schule und Bildung gewährleistet, dass vorrangig der Grundbereich einschließlich Anrechnungen, Ermäßigungen, Freistellungen und Verminderungen zugewiesen wird. Soweit es die Ressourcen zulassen, wird der Ergänzungsbereich gemäß Nummer 14 zugewiesen.
+Das Landesamt für Schule und Bildung gewährleistet, dass vorrangig der Grundbereich einschließlich Anrechnungen, Ermäßigungen und Freistellungen zugewiesen wird. Soweit es die Ressourcen zulassen, wird der Ergänzungsbereich gemäß Nummer 14 zugewiesen.
 
 4.
 
@@ -473,24 +473,26 @@ An allgemeinbildenden Schulen mit Vorbereitungsklassen oder -gruppen werden zur 
 
 c)
 
-Wenn keine Vorbereitungsklassen/-gruppen eingerichtet werden können, sind die Schülerinnen und Schüler im Rahmen der Einzelintegration direkt in die Regelklasse zu integrieren und erhalten in klassen- oder schulübergreifenden Gruppen zusätzlich Unterricht im Fach Deutsch als Zweitsprache gemäß folgender Tabelle:
+Die Zuweisung von Stunden für Deutsch als Zweitsprache (DaZ) erfolgt nach der Anzahl der Schülerinnen und Schüler in Vorbereitungsklassen/-gruppen gemäß folgender Tabelle:
 
 
-Unterrichtstunden
+Zuweisung von Stunden für Deutsch als Zweitsprache
 
 
-| Gliederung
+| Anzahl Schüler
 
-| Klassenstufe
+| Anzahl Stunden Primarstufe
 
-| Anzahl Unterrichtstunden
+| Anzahl Stunden Sekundarstufe
 
 
 | Anzahl Schülerinnen und Schüler
 
-| Primarstufe* Anzahl Unterrichtsstunden im Fach Deutsch als Zweitsprache
+| Primarstufe*
+Anzahl Unterrichtsstunden im Fach Deutsch als Zweitsprache
 
-| Sekundarstufe I** Anzahl Unterrichtstunden im Fach Deutsch als Zweitsprache
+| Sekundarstufe I**
+Anzahl Unterrichtsstunden im Fach Deutsch als Zweitsprache
 
 
 | 1 bis 6
@@ -551,12 +553,15 @@ Unterrichtstunden
 
 *
 
-einschließlich der Unterstufe an Schulen mit dem Förderschwerpunkt geistige Entwicklung, gilt nicht für Schulen mit den Förderschwerpunkten Lernen, Sprache und emotionale und soziale Entwicklung, 
+einschließlich der Unterstufe an Schulen mit dem Förderschwerpunkt geistige Entwicklung, gilt nicht für Schulen mit den Förderschwerpunkten Lernen, Sprache und emotionale und soziale Entwicklung,
 
 
 **
 
 einschließlich der Mittelstufe, Oberstufe und Werkstufe an Schulen mit dem Förderschwerpunkt geistige Entwicklung, gilt nicht für Schulen mit den Förderschwerpunkten Lernen, Sprache und emotionale und soziale Entwicklung
+
+
+Wenn keine Vorbereitungsklassen/-gruppen eingerichtet werden können, sind die Schülerinnen und Schüler im Rahmen der Einzelintegration direkt in die Regelklasse zu integrieren und erhalten in klassen- oder schulübergreifenden Gruppen zusätzlich Unterricht im Fach Deutsch als Zweitsprache gemäß obiger Tabelle.
 
 
 Schülerinnen und Schüler der zukünftigen Klassenstufe 1, deren Herkunftssprache nicht oder nicht ausschließlich Deutsch ist, werden grundsätzlich nicht in eine Vorbereitungsklasse/-gruppe eingeschult, sondern besuchen von Beginn an die Regelklasse. Bei fehlenden oder noch nicht ausreichenden Deutschkenntnissen wird zur Unterstützung des Spracherwerbs dieser Schülerinnen und Schüler in Klassenstufe 1 zusätzlicher Unterricht in Deutsch als Zweitsprache im gleichen schülerzahlabhängigen Umfang (Spalte Primarstufe) angeboten.
@@ -2194,18 +2199,18 @@ Online-Variante
 | 24.04. bis 08.05.2026
 
 | 21.04. bis 08.05.2026 (Teil 1)*
-22.04. bis 08.05.2026 (Teil 2)* 
+22.04. bis 08.05.2026 (Teil 2)*
 
 | -
 
 
 | 8
 
-| 17.02.bis 13.03.2026
+| 27.02.bis 13.03.2026
 
 | 25.02. bis 13.03.2026
 
-|  
+| 26.02. bis 13.03.2026
 
 
 * nur gemeinsam wählbar
@@ -2521,7 +2526,8 @@ L = Leistungskurs)
 | Nachtermin
 
 
-|
+| 
+
 Fach
 (G = Grundkurs,
 L = Leistungskurs)
@@ -2992,9 +2998,9 @@ Fsn-Nr.: 710
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Juni 2025
+Fassung gültig ab:  8. August 2025
 
-Fassung gültig bis:  7. August 2025
+Fassung gültig bis:  6. November 2025
 
 Drucken/Speichern
 
@@ -3021,7 +3027,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/21219.1
+https://www.revosax.sachsen.de/vorschrift/21219.2
 Stand vom
 18.11.2026
 
