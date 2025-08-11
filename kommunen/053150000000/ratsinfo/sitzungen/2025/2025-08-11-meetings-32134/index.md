@@ -1,0 +1,62 @@
+# 34. Sitzung des Hauptausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-08-11T16:33:00+02:00
+- Ende: 2025-08-11T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/3
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32134
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32134
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde
+- TOP 1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Aktuelle Stunde zur Platzsituation am Neumarkt – Aktuelle Situation und nächste Maßnahmen"
+- TOP 2: Mitteilungen
+- TOP 2.1: Mitteilungen der Oberbürgermeisterin
+- TOP 2.1.1: Handlungsempfehlungen des Expert*innengremiums (Post)koloniales Erbe - Kenntnis genommen
+- TOP 2.1.2: Mitteilung der Verwaltung zum ordnungsbehördlichen Jugendschutz - Kenntnis genommen
+- TOP 2.1.3: Ergebnispräsentation der Wahl der Oberbürgermeisterin / des Oberbürgermeisters, des Rates und der Bezirksvertretungen sowie der Integrationsratswahl am 14.09.2025 sowie mögliche OB-Stichwahl am 28.09.2025 im Historischen Rathaus - Kenntnis genommen
+- TOP 2.1.4: Information eines Vertragspartners: Antrag zur Eröffnung eines Insolvenzverfahrens - Kenntnis genommen
+- TOP 2.1.5: Aktionsplan zur Stärkung Kölns als Medienstandort - Kenntnis genommen
+- TOP 2.1.6: Erweiterung des Suchthilfekonzeptes Köln - Kenntnis genommen
+- TOP 2.1.7: Fortführung des 10-Punkte-Plan Domumfeld - vertagt
+- TOP 2.1.8: Öffentliche Bekanntmachung zum Auswahlverfahren für die Umsetzung eines temporären gastronomischen Pop-up-Angebots - Kenntnis genommen
+- TOP 2.1.9: Prüfauftrag der Oberbürgermeisterin zur Anmietung Leonhard-Titz-Straße - Kenntnis genommen
+- TOP 2.1.10: Monatsbericht Sanierung der Bühnen Köln Juni und Juli 2025 - Kenntnis genommen
+- TOP 2.2: Mitteilungen zu gleichstellungsrelevanten Themen
+- TOP 3: Anfragen (§ 4 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+- TOP 3.1: Anfrage der Fraktion Die Linke betreffend "Entwicklung und aktuelle Situation beim Wohngeld in Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 30.07.2025 - Kenntnis genommen
+- TOP 3.2: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Energieüberwachung in städtischen Gebäuden" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - Kenntnis genommen
+- TOP 3.3: Anfrage der Fraktion Die PARTEI betreffend "Insolvenz des Betreibers des Park-Cafés im Rheinpark – Investitionskosten, Pachtvertrag und städtische Risiken" - vertagt
+- TOP 3.4: Anfrage der Fraktion Die PARTEI betreffend "Insolvenz des Betreibers des Park-Cafés im Rheinpark – Pachtvertrag, Neuvergabe und wirtschaftliche Risiken" - vertagt
+- TOP 3.5: Anfrage der Volt-Fraktion betreffend "Kölner Baustandards" - vertagt
+- TOP 3.6: Anfrage der CDU-Fraktion betreffend "Leistungsfähigkeit auf Kölner Straßen" - vertagt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - vertagt
+- TOP 3.7: Anfrage der SPD-Fraktion betreffend "Prüfung einer Hundesteuerbefreiung für ältere Tierheimhunde" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - Kenntnis genommen
+- TOP 3.8: Anfrage der AfD-Fraktion betreffend "Sachstand Umzug Autonomes Zentrum nach Kalk" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - Kenntnis genommen
+- TOP 3.9: Anfrage der SPD-Fraktion betreffend "Badeunfälle im Rhein – Möglichkeiten kommunalen Handelns auf Kölner Stadtgebiet" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - Kenntnis genommen
+- TOP 3.10: Anfrage der Fraktion Die Linke betreffend "Mutmaßlich diskriminierende Polizeikontrollen im Bereich Dasselstraße / Zülpicher Straße" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - Kenntnis genommen
+- TOP 4: Anträge (§ 3 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+- TOP 4.1: Antrag der Fraktionen Bündnis 90/Die Grünen, SPD, Die Linke, Volt und der Gruppe KLIMA FREUNDE & GUT betreffend "Neuer Standort für den Drogenkonsumraum am Neumarkt – für bessere Unterstützung von Suchterkrankten und mehr Stadtverträglichkeit" - ungeändert beschlossen
+- TOP 4.2: Antrag der CDU-Fraktion betreffend "Neue Standort(e) für den Drogenkonsumraum zur Entlastung des Drogenhotspots Neumarkt" - endgültig abgelehnt
+- TOP -: Änderungsantrag der FDP-Fraktion - Sache ist erledigt
+- TOP 4.3: Antrag der FDP-Fraktion betreffend "Maßnahmen für freie Fahrt für Rettungsfahrzeuge und zum Erhalt der Parkplätze in den Veedeln" - Sache ist erledigt
+- TOP -: Änderungsantrag der SPD-Fraktion - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - geändert beschlossen
+- TOP 4.4: Antrag der Fraktionen Bündnis 90/Die Grünen und CDU betreffend "Temporäre Schließung der "Wehmeyer-Passage"" - ungeändert beschlossen
+- TOP 4.5: Antrag der CDU-Fraktion betreffend "Ausbau der Grundschule Schulstraße 16 in Köln-Pesch zur Offenen Ganztagsschule" - endgültig abgelehnt
+- TOP 4.6: Dringlichkeitsantrag der Fraktion Die PARTEI betreffend "Sofortige Aussetzung ordnungsbehördlicher Verfügungen gegen die gewerbliche Abgabe von Cannabis-Stecklingen" - endgültig abgelehnt
+- TOP 4.7: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, FDP und Volt betreffend "Sicherung des wöchentlichen Abendmarkts „meet & eat“ auf dem Rudolfplatz über den 30.09.2025 hinaus" - ungeändert beschlossen
+- TOP 5: Eil- und Dringlichkeitsentscheidungen (§ 60 Gemeindeordnung NRW)
+- TOP 5.1: Ergänzender Planungsbeschluss zum Neubau der Feuer- und Rettungswache 1 (Innenstadt) - ungeändert beschlossen
+- TOP 6: Allgemeine Vorlagen
+- TOP 7: Mündliche Anfragen
