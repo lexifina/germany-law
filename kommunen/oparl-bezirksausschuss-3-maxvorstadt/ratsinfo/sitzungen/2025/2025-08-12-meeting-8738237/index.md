@@ -1,0 +1,144 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-08-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8738237
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8738237
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Lachgasverkauf an Minderjährige untersagen
+- TOP 6.2.: Umsetzung des Baulandmobilisierungsgesetzes auf Landesebene- Zwischennachricht
+- TOP 6.3.: Bereitstellung aller Verkehrsflächen am Oskar-von-Miller-Ring noch vor der IAA 2025 Neu: Örtliche Verlegung der Fahrstreifensperrung im Altstadtringtunnel
+- TOP 6.4.: Runder Tisch zur Rettung des Caritas-Wohnheims in der Augusten-Zieblandstraße
+- TOP 6.5.: Eckbebauung Schellingstr. 25/27 / Türkenstr. 66 – Baustelleneinrichtung rechtzeitig mit dem BA besprechen
+- TOP 6.6.: Fußgängerquerung Prielmayerstraße/Stachus vergrößern
+- TOP 6.7.: Zwischennachricht zum Antrag Nr. 20-26 / B 03066 Revitalisierung und Erhalt der U-Bahnhöfe in der Maxvorstadt
+- TOP 6.8.: Landesbund für Vogelschutz bittet um Unterstützung zur Beschneidung der Hecke am Josephsplatz
+- TOP 6.9.: Rudi-Hierl-Platz – wie geht es weiter?
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste KW26, KW27, KW28, KW29, KW30
+- TOP 2.1.2.: WEB-Liste 16. - 30.06.25 & 01.07 - 15.07.2025
+- TOP 2.1.3.: Arnulfpost München, Umbau des ehemaligen Paketzustellamtes in einen Bürokomplex und Entwicklungszentrum - ÄNDERUNGSANTRAG zu 1.1-2020-14184-22
+- TOP 2.1.4.: Dachauer Str. 151, Energetische Sanierung und Teilaufstockung eines Rückgebäudes eines Wohn- und Geschäftshauses
+- TOP 2.1.5.: Ludwigstraße, Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbenut-zungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 2.1.6.: Seidlstraße, Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbenutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 2.1.7.: Brienner Str., Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbenutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 2.1.8.: Oskar-von-Miller-Ring, Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbe-nutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 2.1.9.: Oskar-von-Miller-Ring, Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbe-nutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 2.1.10.: Kurfürstenstr. 19, Balkonanbau Süd 2. OG
+- TOP 2.1.11.: Schleißheimer Str. 50, Errichtung eines Rückgebäudes (Büronutzung) unter Erhalt der bestehenden Umfassungs- und Brandwände eines ehemaligen Werkstattgebäudes (teilweise Änderung der Dachkontur) - ÄNDERUNGSANTRAG zu 1-2-2018-9582-22 hier: Freiflächengestaltungsplans
+- TOP 2.1.12.: Neureuther Str. 1 a, Neubau einer Wohnanlage mit 18 Wohneinheiten sowie 2 Gewerbeeinhei-ten im Vordergebäude, Neubau des Rückgebäudes als Ersatzbau mit 2 Wohneinheiten, Neu-bau einer Tiefgarage mit 14 Stellplätzen - mit Mobilitätskonzept
+- TOP 2.1.13.: Amalienstraße 28, Energetische Sanierung eines Mehrfamilienhauses (Gebäudehülle) mit Dachgeschoss-Ausbau, Anbau von Balkonen auf den Innenhofseiten und Aufzug-Aufstockung ins DG sowie Einbau einer Abluftanlage
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Barer Str. 29
+- TOP 3.2.2.: Barer Str. 24
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Stickstoffdioxid-Passivsammler Schleißheimer Straße
+- TOP 5.2.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Firma: Abfallwirtschaftsbetrieb München, Standort: Einsatzgebiet: um die Blutenburgstraße und gelegenen Wohngebiete
+- TOP 5.3.: Bescheid zu Karlstr. 44 AZ 1.201-2025-1163-22
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Leider keine Besserung in der Augustenstraße
+- TOP 1.1.2.: Gefahrensituation für Fußgänger durch Radfahrer // Radweg Ludwig- Ecke Theresienstrasse stadtauswärts Höhe Stabi
+- TOP 1.1.3.: entfällt
+- TOP 1.1.4.: Betreff Schellingstraße: Nachfrage bzgl. Ausschank Plastikbecher, Kiosk Öffnungszeiten, Lärm, Lichtverschmutzung, Müll, Toiletten
+- TOP 1.1.5.: Wiederholtes Zuparken der Bushaltestelle – dringender Handlungsbedarf
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Fahrrad-Abstellplätze Kreittmayrstraße
+- TOP 2.1.2.: (Bez. 3, Bez. 1 z.K.) Aufhebung der Radwegbenutzungspflicht Odeonsplatz Westseite (zwischen nördlicher Zufahrt zum Ministerium und Briennerstr.)
+- TOP 2.1.3.: Anhörung zu verkehrsrechtlicher Anordnung im Bereich Schackstraße/PLG Giselastraße: Frist bis 15.09.2025
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Stadtbezirk 3 | Josephsplatz, 80798 München | Antrag auf einen Foodtruck - BA3 Sitzung am 12.08.2025
+- TOP 2.2.2.: (E) Stadtbezirksbudget Initiative "SET - Street Experiments for Transitions" Parklets in der Steinheilstraße und Enhuberstraße vom 14.07. - 31.10.2025 4.105,50 Euro, Az.: 0262.0-3-0612
+- TOP 2.2.3.: BA-Anhörung - Altstadt für alle - Sitzungsvorlage Nr. 20-26 / V 16852
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: erl. fr. Gaststätte, Augustenstr. 52- Erweiterung der FSF
+- TOP 2.3.2.: Stadtbezirk 3 - Erlaubnisfreie Gaststätte - Theresienstr. 124 - 80333 München
+- TOP 2.3.3.: Stadtbezirk 3, Ladengeschäft (erl. frei nach GastG), Augustenstr. 114, 80798 München, Beschlussvorlage Neuantrag einer Kleinstfreischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Temporäre Kunstaktion "Originalisierungen" im Alten Botanischer Garten, Bez.3 Nachtrag Ausweichtermine/Ergänzungen: Anhörung Frist 14.08.2025 (vgl. Eilentscheid Vor-sitzende unter C 3.8)
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Baumaßnahmen der SWM
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.6.: Unveränderte Gaststättenfortführungen
+- TOP 3.7.: U9 - Bohrprogramm Teil Nord
+- TOP 3.8.: Eilentscheid, temporäre Kunstaktion "Originalisierungen" vom 12.09.-14.09.2025 im Alten Bo-tanischer Garten, Bez.3
+- TOP 3.9.: Bescheid über Vollsperrung in der Arnulfstr. 3-7 und 10-24 jeweils 14 Tage im August
+- TOP 3.10.: Antrag auf Verlängerung - Alter Botanischer Garten München
+- TOP 3.11.: Abdruck_SoNU, Kaulbachstr., 07.07-15.07.25, Prod.: Himmel, Herrgott, Sakrament II
+- TOP 3.12.: Verbesserung der Verkehrssicherheit in der Sandstraße 22 – Maßnahmen zum Schutz der Kindergartenkinder; TOP C.1.1.1 / 07 2025
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "mewoTribe" Afro Boys und Afro Young Men Empowerment-Space im Blockwerk München am 20.09.2025 2.500,00 Euro, Az.: 0262.0-3-0611
+- TOP 2.2.: (E) Stadtbezirksbudget Handballcampus München gGmbH Kinder in der Grundschule für Bewegung (mit Ball) begeistern vom 16.09.2025 - 31.07.2026 9.900,00 Euro, Az.: 0262.0-3-0614
+- TOP 2.3.: Anhörung der 4-Jahresplanung und der Präsentationsunterlagen vom 23.07.2025
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Infoabend Stadtjugendamt- Unterlagen
+- TOP 4.3.: Eilentscheid zu "Bildungsbauoffensive – Sachstandsbericht 2025; Konsolidierung 2028ff.
+- TOP 4.4.: Ergebnisse Interfraktioneller Arbeitskreis (IFAK) Schul- und Kitabau
+- TOP 4.5.: Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 4.6.: Fortschreibung Konzept "Spielen in München"
+- TOP 4.7.: Bezirksübergreifende Veranstaltung in städtischen Grünanlagen; Hier: Zirkus Pumpernudl vom 10.08. bis 10.10.2025- Maßmannpark
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Projekt „ZUCKER: Workshopreihe vom 15.11.2024–31.01.2025“
+- TOP 4.2.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.3.: Stadtbezirksbudget: Förderung des Zarda-Festival, Ihre Anfrage vom 17.06.2024
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Übersicht der Zuschussanträge des Stadtbezirksbudget vom 2. Quartal 2025.
+- TOP 1.2.: Infoschreiben - Checkliste Öffentlichkeitsbeteiligung
+- TOP 1.3.: Oktoberfest-Reservierungen 2025
+- TOP 1.4.: Christbaum in St. Joseph (ohne Unterlagen)
+- TOP 1.5.: Eilt, alle BAs - Anhörung zur Vorlage "Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024"
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.2.3.: Eilantrag:Schleißheimer Str. 4 Fällungsantrag vom 24.07.2025 auf dem Grundstück, Frist: 25.08.25
+- TOP 2.4.2.: Eilantrag: VerWunderLand – OpenAir-Theater, Josephsplatz am 18.10.2025 Frist: 26.08.2025
