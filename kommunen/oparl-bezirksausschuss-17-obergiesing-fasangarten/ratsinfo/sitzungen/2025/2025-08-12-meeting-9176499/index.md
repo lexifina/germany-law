@@ -1,0 +1,127 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2025-08-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9176499
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9176499
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.2.1.: zu TOP 6.3.3.5 Verkehrsrechtliche Anhörung nach 45 StVO Abs. 1b i.V.m. 46 Abs. 1 Nr. 11 StVO hier: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Weißenseestr. 17
+- TOP 1.2.2.: zu TOP Erneuerung der SWM Trafostation am Alpenplatz 2
+- TOP 1.2.3.: zu TOP 6.1.3.5 Erneuerung der SWM Trafostation am Alpenplatz 2, 81541 München
+- TOP 1.2.4.: zu TOP 6.5.3.3. Veranstaltung auf öffentlichen Verkehrsgrund Hier: Weißenseepark "POP UP STAGE" am 12.09.2025 (Frist: 03.09.2025)
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Minnewitstr. 31
+- TOP 3.10.2.: Kapellenfeldstr. 15a
+- TOP 3.10.3.: Eintrachtstr. 8
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur) Evangelisches Hilfswerk München gGmbH Sommerfest Teestube „komm“ am 08.08.2025 152,50€; Az. 0262.0-17-0498
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Init. "Migra" MIGRA Performance im Januar 2026 1.163,00€; 0262.0-17-0499
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.2.1.: Bestellung einer städtischen Leistung; hier: Familien- und Ferienpässe für das Schuljahr 2025/2026 (endgültige Entscheidung über Übernahme der Kosten)
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Untersbergstr. 3 - Sozialpastorales Zentrum - Neubau von Wohnungen, verschiedenen Gewerbeeinheiten, Pfarrzentrum und Kindertagesstätte mit Mobilitätskonzept (Untersbergstr. 3-7 / Warngauerstr. 27-29) - ÄNDERUNGSANTRAG zu 1.1-2023-9323-33
+- TOP 6.1.3.2.: Fasangartenstr. 98b - Erweiterung EFH (DHH)
+- TOP 6.1.3.3.: Bebauungsplan 64B/2024 Grünwalder Weg 14, Unterhaching - Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 1 BauGB (Frist: 14.08.2025)
+- TOP 6.1.3.4.: Tegernseer Landstr. 207 - Geförderter Wohnungsbau für Staatsbedienstete des Freistaats Bayern mit 257 Wohnungen, 297 Wohnheimplätzen sowie drei Kita`s und Gewerbe für Nahversorgung mit Tiefgarage
+- TOP 6.1.3.5.: Erneuerung der SWM Trafostation am Alpenplatz 2
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Tegernseer Pl. - Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbenutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 6.3.3.2.: Schlierseestr. - Errichtung einer digitalen Stadtinformationsanlage, gemäß des Werbenutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 6.3.3.3.: Öffentlicher Dienstleistungsauftrag (ÖDLA) und 4-Jahres-Planung im ÖPNV (Frist: 30.09.2025)
+- TOP 6.3.3.4.: Fahrbahnsanierung Kreuzung Fasangarten-/Balanstraße (Frist 13.08.2025)
+- TOP 6.3.3.5.: Verkehrsrechtliche Anhörung nach 45 StVO Abs. 1b i.V.m. 46 Abs. 1 Nr. 11 StVO hier: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Weißenseestr. 17
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: "Offenes Sommerfest 2025" im Weißenseepark am 07.09.2025 (Frist 18.08.2025)
+- TOP 6.5.3.2.: Ois Giasing 2025 am 13.09.2025 (Frist: 29.08.2025)
+- TOP 6.5.3.3.: Veranstaltung auf öffentlichen Verkehrsgrund Hier: Weißenseepark "POP UP STAGE" am 12.09.2025 (Frist: 03.09.2025)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Fehlende Übungsleiter - keine Kinderbetreuung möglich
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.5.1.: Antrag; Nächtliche Ruhestörung vor dem Mina Shop
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
