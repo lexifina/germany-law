@@ -17,6 +17,7 @@ Genehmigungsbedürftige Anlagen
 | § 8a | Zulassung vorzeitigen Beginns |
 | § 9 | Vorbescheid |
 | § 10 | Genehmigungsverfahren |
+| § 10a | Sonderregelungen für das Genehmigungsverfahren bei Vorhaben nach der Richtlinie (EU) 2018/2001 |
 | § 11 | Einwendungen Dritter bei Teilgenehmigung und Vorbescheid |
 | § 12 | Nebenbestimmungen zur Genehmigung |
 | § 13 | Genehmigung und andere behördliche Entscheidungen |

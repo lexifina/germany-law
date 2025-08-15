@@ -21,6 +21,7 @@
 - [§ 8a Zulassung vorzeitigen Beginns](0008a.md)
 - [§ 9 Vorbescheid](0009.md)
 - [§ 10 Genehmigungsverfahren](0010.md)
+- [§ 10a Sonderregelungen für das Genehmigungsverfahren bei Vorhaben nach der Richtlinie (EU) 2018/2001](0010a.md)
 - [§ 11 Einwendungen Dritter bei Teilgenehmigung und Vorbescheid](0011.md)
 - [§ 12 Nebenbestimmungen zur Genehmigung](0012.md)
 - [§ 13 Genehmigung und andere behördliche Entscheidungen](0013.md)

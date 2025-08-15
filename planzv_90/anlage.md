@@ -65,7 +65,9 @@ Planzeichen für Bauleitpläne
 |  |  | Im Bebauungsplan können die farbigen Flächensignaturenauch als Randsignaturen verwendet werden. |  |
 |  |  | Im Flächennutzungsplan kann bei den Planzeichen fürdie Bauflächen der Nummern 1.1. bis 1.4. bei farbigerDarstellung der Buchstabe entfallen. |  |
 |  |  |  |  |  |  |
-| 1.5. | Beschränkung der Zahlder Wohnungen(§ 9 Abs. 1 Nr. 6 BauGB) | Aus besonderen städtebaulichen Gründen kann die höchst-zulässige Zahl der Wohnungen in Wohngebäuden durchErgänzungen der Planzeichen festgesetzt werden. |  |
+| 1.5. | Beschleunigungsgebiete für die Windenergie an Land (§ 249c BauGB) |  |  |  | Orange mittel |
+|  |  |  |  |  |  |
+| 1.6. | Beschränkung der Zahlder Wohnungen(§ 9 Abs. 1 Nr. 6 BauGB) | Aus besonderen städtebaulichen Gründen kann die höchst-zulässige Zahl der Wohnungen in Wohngebäuden durchErgänzungen der Planzeichen festgesetzt werden. |  |
 |  |  |  |
 |  |  | z.B. |  |  |  |
 |  |  |  |  |  |  |

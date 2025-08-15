@@ -434,7 +434,7 @@
 - [§ 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt](0245c.md)
 - [§ 245d Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland](0245d.md)
 - [§ 245e Überleitungsvorschriften aus Anlass des Gesetzes zur Erhöhung und Beschleunigung des Ausbaus von Windenergieanlagen an Land](0245e.md)
-- [§ 245f Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung](0245f.md)
+- [§ 245f Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften sowie aus Anlass der Einführung des § 249c; Evaluierung](0245f.md)
 
 ### Zweiter Teil Schlussvorschriften
 
@@ -448,6 +448,8 @@
 - [§ 249 Sonderregelungen für Windenergieanlagen an Land](0249.md)
 - [§ 249a Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien](0249a.md)
 - [§ 249b Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus](0249b.md)
+- [§ 249c Beschleunigungsgebiete für die Windenergie an Land](0249c.md)
 - [§ 250 Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten](0250.md)
 - [Anlage 1 (zu § 2 Absatz 4 und den §§ 2a und 4c)](anlage-1.md)
 - [Anlage 2 (zu § 13a Absatz 1 Satz 2 Nummer 2)](anlage-2.md)
+- [Anlage 3 (zu § 249c Absatz 3 Satz 3) Darstellung von geeigneten Regeln für wirksame Minderungsmaßnahmen durch die Gemeinde](anlage-3.md)

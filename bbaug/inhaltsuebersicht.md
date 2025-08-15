@@ -393,7 +393,7 @@ Erster Teil
 | § 245c | Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt |
 | § 245d | Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland |
 | § 245e | Überleitungsvorschriften aus Anlass des Gesetzes zur Erhöhung und Beschleunigung des Ausbaus von Windenergieanlagen an Land |
-| § 245f | Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung |
+| § 245f | Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften sowie aus Anlass der Einführung des § 249c; Evaluierung |
 Zweiter Teil
 Schlussvorschriften
 | § 246 | Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte |
@@ -406,6 +406,8 @@ Schlussvorschriften
 | § 249 | Sonderregelungen für Windenergieanlagen an Land |
 | § 249a | Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien |
 | § 249b | Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus |
+| § 249c | Beschleunigungsgebiete für die Windenergie an Land |
 | § 250 | Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten |
 | Anlage 1 | (zu § 2 Absatz 4 und den §§ 2a und 4c) |
 | Anlage 2 | (zu § 13a Absatz 1 Satz 2 Nummer 2) |
+| Anlage 3 | (zu § 249c Absatz 3 Satz 3) |

@@ -40,5 +40,7 @@
 - [§ 25 Beteiligung bei der Aufstellung von Raumordnungsplänen der Nachbarstaaten](0025.md)
 - [§ 26 (weggefallen)](0026.md)
 - [§ 27 Anwendungsvorschrift für die Raumordnung in den Ländern](0027.md)
+- [§ 28 Sonderregelung für die Windenergie an Land](0028.md)
 - [Anlage 1 (zu § 8 Abs. 1)](anlage-1.md)
 - [Anlage 2 (zu § 8 Abs. 2)](anlage-2.md)
+- [Anlage 3 (zu § 28 Absatz 4 Satz 3) Regeln für Minderungsmaßnahmen](anlage-3.md)
