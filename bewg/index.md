@@ -64,7 +64,7 @@
 
 ##### d) Gärtnerische Nutzung
 
-- [(XXXX) §§ 59 is 61 (weggefallen)](xxxx-59-is-61.md)
+- [(XXXX) §§ 59 bis 61 (weggefallen)](xxxx-59-bis-61.md)
 
 ##### e) Sonstige land- und forstwirtschaftliche
 Nutzung
