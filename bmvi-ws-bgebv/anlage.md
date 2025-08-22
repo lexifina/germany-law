@@ -43,7 +43,7 @@ Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der 
 | 30 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer unterirdischen Leitungskreuzung | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 125 – 7 033 |
 | 31 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer oberirdischen Leitungskreuzung | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 4 220 |
 | 32 | Strom- und schifffahrtspolizeiliche Genehmigung für die Verlegung einer Leitung | § 31 Absatz 1 Nummer 2 WaStrG |  | bei einer Länge von weniger als 1 km 562 – 2 813 bei einer Länge von 1 km bis 5 km 1 758 – 7 033 bei einer Länge über 5 km 1 758 – 10 550 |
-| 33 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Einleitungs- oder Entnahmebauwerks | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 8 440 |
+| 33 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Einleitungs- und Entnahmebauwerks | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 8 440 |
 | 34 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines sonstigen Bauwerks an einer Bundeswasserstraße | § 31 Absatz 1 Nummer 2 WaStrG |  | 844 – 2 813 |
 | 35 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb temporärer Bauwerke | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 844 |
 | 36 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Messstationen | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 2 110 |
