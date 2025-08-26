@@ -1,0 +1,66 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-08-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352282
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352282
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 29.07.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 29.07.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: St.-Veit-Str. 4 - Timber Living - Errichtung eines Holzhybridbaus mit Wohnungen, KiTa, Einzelhandel und Tiefgarage Durch die TEILBAUGENEHMIGUNG soll vor Erteilung der Baugenehmigung gestattet werden: der Beginn der Bauarbeiten (lediglich) für die Baugrube. Bezug: 1.1-2025-8190-32
+- TOP 3.1.2.: Sonnbergstr. 11 - Wohnhausneubau mit Stellplatz
+- TOP 3.1.3.: Gammelsdorfer Str. 2a - Nutzungänderung Erdgeschoss und Errichtung einer Tiefgarage -mit Mobilitätskonzept - VORBESCHEID - vertagt aus der Plenumssitzung vom 29.07.2025 -
+- TOP 3.1.4.: Rauschbergstr. 4 - Neubau von Reihenhäusern mit 1x 3 WE und 2x je 1 WE mit Doppelgarage und Stellplätzen / Neubau eines Triohauses (5 WE) mit 2 Doppelparker und einem Stellplatz - VORBESCHEID - vertagt aus der Plenumssitzung vom 29.07.2025 -
+- TOP 3.1.5.: Benehmensverfahren im Rahmen der Feststellung der Denkmaleigenschaft des Anwesens Baumkirchner Str. 15; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 28.08.2025
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Austausch der Lichtsignalanlage am Knotenpunkt Berg-am-Laim-Str./ Trausnitzstr.; Anhörung des Mobilitätsreferats, Frist bis zum 20.09.2025
+- TOP 3.2.2.: Austausch der Lichtsignalanlage am Knotenpunkt Kreiller-/ Mutschellestr.; Anhörung des Mobilitätsreferats, Frist bis zum 10.09.2025
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage: "Fußballcup Facharbeitskreis Jugend" am 11.10.2025 im Echardinger Grünstreifen; Anhörung des Kreisverwaltungsreferats, Frist bis zum 16.09.2025
+- TOP 3.3.2.: Beschlussvorlage "kita- und ganztagsbarometer", Elternbefragung zum Bedarf an Kinder- und Ganztagesbetreuung in München; Anhörung des Referats für Bildung und Sport, Frist bis zum 22.09.2025
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e. V. - Künstlergilde 38. Herbstausstellung der Künstlergilde Berg am Laim vom 07. - 16.11.2025 798,75 €; Az. 0262.0-14-0464
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 Sexualpädagogik-Einheiten der Schulsozialarbeit an der GS Grafinger Straße im Schuljahr 2025/2026 675,00 €; Az. 0262.0-14-0466
+- TOP 3.5.3.: (E) Stadtbezirksbudget BIKU gGmbH A.PPLAUS Auftritt Roncalli im November 2025 vom 01. - 30.11.2025 4.000,00 €; Az. 0262.0-14-0465
+- TOP 3.5.4.: (E) Stadtbezirksbudget Bayerisch-serbisches akademisches Forum e. V. Kinderkreativzentrum "Zmaj" - Beginn des Schuljahres 2025/2026 vom 20.09. - 31.10.2025 2.480,00 €; Az. 0262.0-14-0467
+- TOP 3.5.5.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e.V. Prüfung der Standsicherheit des Maibaums am 06.09.2025 857,25 Euro, Az.: 0262.0-14-0468
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Josef-Ritz-Weg 14
+- TOP 3.6.2.: Gammelsdorfer Str. 2a
+- TOP 3.6.3.: Rauschbergstr. 4
+- TOP 3.6.4.: Guffertstr. 15
+- TOP 3.6.5.: Hansjakobstr. 23
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
