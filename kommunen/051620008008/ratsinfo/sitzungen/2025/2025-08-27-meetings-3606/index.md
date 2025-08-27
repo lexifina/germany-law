@@ -1,0 +1,57 @@
+# Beirat für Umwelt, Klimaschutz, Natur und Landschaftspflege
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-08-27T18:04:00+02:00
+- Ende: 2025-08-27T19:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/84
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3606
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3606
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Zwischenbericht des Klimaschutzmanagers (Vortrag Klimaschutzmanager)
+- TOP 2.1: Einführung von Energiesparmodellen in städtischen Schulen und Kitas gem. Klimaschutzkonzept (Vortrag Klimaschutzmanager)
+- TOP 2.2: Initiierung von "ÖKOPROFIT" gemäß Klimaschutzkonzept - vertagt
+- TOP 3: Insektenmonitoring auf ausgewählten Extensivflächen - einstimmig beschlossen
+- TOP 4: Vorstellung der bisher durchgeführten Maßnahmen auf den Friedhöfen - Kenntnisnahme
+- TOP 5: Schriftliche Anträge
+- TOP 5.1: Anträge der SPD-Fraktion
+- TOP 5.1.1: Restaurierung der historischen Friedhofsmauer des Allrather Friedhofs - Kenntnisnahme
+- TOP 5.1.2: Einrichtung einer individuellen Gedenkstelle auf dem Friedhof Allrath - einstimmig beschlossen
+- TOP 5.1.3: Prüfung von Sicherheits- und Präventionsmaßnahmen auf dem Friedhof in Allrath - Kenntnisnahme
+- TOP 5.1.4: Zigarettenkippen kreativ bekämpfen - einstimmig beschlossen
+- TOP 5.1.5: Neukonzeption der Grünfläche an der Ecke Schlossstraße / Karl-Oberbach-Straße - einstimmig beschlossen
+- TOP 5.2: Anträge der CDU-Fraktion
+- TOP 5.2.1: Zusätzlich 500.000 Euro für Nachpflanzung von Bäumen etatisieren - einstimmig beschlossen
+- TOP 5.2.2: Prüfung auf Errichtung eines Kolumbariums auf dem Friedhof in Kapellen - einstimmig beschlossen
+- TOP 5.2.3: Neubepflanzung der Streuobstwiese am Neubaugebiet Königslindenstraße in Neuenhausen - einstimmig beschlossen
+- TOP 5.2.4: Entfernung des Drängelgitters zum Friedhof in Frimmersdorf - Kenntnisnahme
+- TOP 5.2.5: Errichtung eines Kolumbariums auf dem Friedhof in Frimmersdorf - einstimmig beschlossen
+- TOP 5.2.6: Errichtung eines „Gedenksteins" am Rasenurnenfeld auf dem Friedhof in Frimmersdorf - einstimmig beschlossen
+- TOP 5.2.7: Baumpflanzungen auf Schulhöfen und im Außenbereich der Kindergärten im Stadtgebiet Grevenbroich - einstimmig beschlossen
+- TOP 5.3: Anträge der Fraktion Bündnis90/Die Grünen
+- TOP 5.4: Anträge der FDP-Fraktion
+- TOP 5.4.1: Einführung eines Kolumbariums auf dem Friedhof Elsen - einstimmig beschlossen
+- TOP 5.4.2: Bürgerwald Grevenbroich - Kenntnisnahme
+- TOP 5.4.3: Sitzgelegenheit vor dem Kolumbarium auf dem Waldfriedhof Gustorf schaffen - einstimmig beschlossen
+- TOP 5.4.4: Bodendecker beseitigen aktuelles „Hundeklo“ - einstimmig beschlossen
+- TOP 5.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 5.5.1: Freilaufwiese für Hunde - Kenntnisnahme
+- TOP 5.5.2: Grünfläche vor Edeka Neukirchen im Rahmen des Projektes "1000 Bäume für Grevenbroich" mit zusätzlichen Bäumen zu bepflanzen - Kenntnisnahme
+- TOP 5.6: Anträge der UWG-Fraktion
+- TOP 6: Gemeinschaftsanträge
+- TOP 7: Schriftliche Anfragen
+- TOP 7.1: Anfragen der Fraktion Mein Grevenbroich
+- TOP 7.1.1: Waldwiese-Bendplatz-Neugestaltung Weg - Kenntnisnahme
+- TOP 7.1.2: Bestattung von wohnungslosen Grevenbroicher Bürger:innnen - Kenntnisnahme
+- TOP 7.1.3: Baum- und Grünflächenkataster / Pflege von Bepflanzungen im Stadtgebiet - Kenntnisnahme
+- TOP 7.1.4: Zusätzliche Müllbehälter im Stadtteil Neukirchen - Kenntnisnahme
+- TOP 7.2: Anfragen der FDP-Fraktion
+- TOP 7.2.1: Zierkirschen in Wevelinghoven - Kenntnisnahme
+- TOP 8: Anfragen von Beiratsmitgliedern
+- TOP 9: Mitteilungen der Vorständin
+- TOP 10: Mitteilungen des Beiratsvorsitzenden
