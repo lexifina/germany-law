@@ -1,0 +1,8 @@
+# TOP 3: Insektenmonitoring auf ausgewählten Extensivflächen
+
+- Sitzung: Beirat für Umwelt, Klimaschutz, Natur und Landschaftspflege (2025-08-27)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/152496
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/26558
