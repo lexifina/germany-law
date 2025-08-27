@@ -1,4 +1,4 @@
-# (XXXX)
+# Eingangsformel
 
 Die Bundesrepublik Deutschland
 als Treuhandverwalterin des Finanzvermögens nach Artikel 22 des Einigungsvertrages,

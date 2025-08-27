@@ -1,6 +1,6 @@
 # Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und ökologische Marktwirtschaft in der Deutschen Demokratischen Republik
 
-- [(XXXX)](xxxx.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## 1. Abschnitt Grundsätze
 

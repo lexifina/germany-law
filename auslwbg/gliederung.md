@@ -1,4 +1,4 @@
-# (XXXX) Gliederung
+# Gliederung
 
 | Abschnitt I |  |
 |  | Allgemeine Grundzüge des Bereinigungsverfahrens |  |

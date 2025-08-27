@@ -1,6 +1,6 @@
 # Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 
-- [(XXXX)](xxxx.md)
+- [Eingangsformel](eingangsformel.md)
 
 ## Kapitel I Grundlagen
 
@@ -70,7 +70,7 @@ Deutschland](art-28.md)
 - [Art 37 Berlin-Klausel](art-37.md)
 - [Art 38 Inkrafttreten](art-38.md)
 - [Schlußformel](schlussformel.md)
-- [(XXXX) Gemeinsames Protokoll über Leitsätze](xxxx-2.md)
+- [(XXXX) Gemeinsames Protokoll über Leitsätze](xxxx.md)
 - [Anlagenverzeichnis](anlagenverzeichnis.md)
 - [Anlage I Bestimmungen über die Währungsunion und über die
 Währungsumstellung](anlage-i.md)
@@ -93,4 +93,4 @@ das Schiedsgericht](anlage-viii.md)
 Investoren an Grund und Boden sowie an
 Produktionsmitteln zur Förderung gewerblicher
 arbeitsplatzschaffender Investitionen](anlage-ix.md)
-- [(XXXX) Protokollerklärungen](xxxx-3.md)
+- [(XXXX) Protokollerklärungen](xxxx-2.md)

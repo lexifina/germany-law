@@ -1,4 +1,4 @@
-# (XXXX)
+# Inhaltsübersicht
 
 | 1. | Abschnitt: | Grundsätze |
 | 2. | Abschnitt: | Teilung und Zusammenschluß von landwirtschaftlichen Produktionsgenossenschaften |

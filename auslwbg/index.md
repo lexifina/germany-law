@@ -1,6 +1,6 @@
 # Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische Währung lauten
 
-- [(XXXX) Gliederung](xxxx.md)
+- [Gliederung](gliederung.md)
 
 ## Abschnitt I Allgemeine Grundzüge des
 Bereinigungsverfahrens
