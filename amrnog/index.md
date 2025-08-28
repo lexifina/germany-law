@@ -14,9 +14,6 @@
 Arzneimittelgesetz
 
 
-### Art 3
-
-
 ## Art 4
 
 
