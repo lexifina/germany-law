@@ -1,0 +1,54 @@
+# 13. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-08-28T16:00:00+02:00
+- Ende: 2025-08-28T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14611
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14611
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00838541.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl einer/s Verpflichtenden des Oberbürgermeisters
+- TOP 2: Verpflichtung und Vereidigung des Oberbürgermeisters
+- TOP 3: Bericht des Oberbürgermeisters
+- TOP 4: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 5: Aktuelle Stunde: „Impulse für ein friedliches Miteinander in Dresden – Empfehlungen des Bürgerrates ernst nehmen“ - erledigt
+- TOP 6: Fragestunde der Mitglieder des Stadtrates (1 Runde)
+- TOP 6.1: Fehlerhafte Mietabrechnungen und steigende öffentliche Kosten der Unterkunft?
+- TOP 6.2: Sicherheit im öffentlichen Nahverkehr
+- TOP 6.3: Beschleunigung Wohnraumschaffung
+- TOP 6.4: Auswirkung des Haushaltsbeschlusses zur Schulsozialarbeit auf die offene Kinder- und Jugendarbeit
+- TOP 6.5: Operationsplan Deutschland
+- TOP 6.6: Verzögerungen beim Integrierten Energie- und Klimaschutzkonzept
+- TOP 6.7: Veranstaltungen auf dem Open-Air Gelände - Rinne Dresden
+- TOP 6.8: Ampelanordnungen und -schaltungen
+- TOP 6.9: Weiterentwicklung des Sportparks Ostra
+- TOP 6.10: Zeitungsartikel - Operationsplan Deutschland
+- TOP 7: Gremienbesetzungen
+- TOP 7.1: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Blasewitz der Landeshauptstadt Dresden - Zustimmung
+- TOP 7.2: Umbesetzung des Ausschusses für Finanzen - Benennung
+- TOP 7.3: Umbesetzung des Ausschusses für Umwelt und Klima (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Benennung
+- TOP 7.4: Abberufung eines Mitgliedes des Integrations- und Ausländerbeirates und Wahl eines neuen Mitgliedes im Integrations- und Ausländerbeirat - gewählt
+- TOP 7.5: Neubesetzung (Vorsitzende, Mitglied, Stellvertreter) des Umlegungsausschusses - gewählt
+- TOP 7.6: Aufstellung der Vorschlagsliste für das Amt der ehrenamtlichen Richterin bzw. des ehrenamtlichen Richters für die Kammern der Sozialhilfe und des Asylbewerberleistungsgesetzes in der Sächsischen Sozialgerichtsbarkeit - gewählt
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Ausschreibung Campuslinie TA 1.2 Nossener Brücke/Nürnberger Straße - Zustimmung
+- TOP 10: Berufliches Schulzentrum für Elektrotechnik Dresden, Standort Boxberger Straße 1 in 01239 Dresden - Zustimmung mit Änderung
+- TOP 11: Änderung des Teilschulnetzplans Förderschulen - Zustimmung
+- TOP 12: Einrichtung einer Außenstelle der „Astrid-Lindgren“-Schule mit dem Förderschwerpunkt geistige Entwicklung - Zustimmung
+- TOP 13: Aufhebung des Erbbaurechtsvertrages zum Grundstück Königsbrücker Landstraße 100 in 01109 Dresden - Vertagung
+- TOP 14: Entscheidung über die Zulässigkeit des Bürgerbegehrens "Nein zu Moschee Marschnerstraße" - Zustimmung
+- TOP 15: 3. Änderung der Satzung der Landeshauptstadt Dresden zur Nutzung öffentlicher Flächen für Jahr- und Spezialmärkte (Jahr- und Spezialmarktsatzung) - Zustimmung
+- TOP 16: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erteilung von Wohnberechtigungsscheinen für vertraglich belegungsgebundene Wohnungen - Zustimmung
+- TOP 17: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2025, 2026 und 2027 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden mit der Option der Verlängerung für die Jahre 2028 und 2029 - Zustimmung
+- TOP 18: „Jugendhilfe“ im DDR-Regime – Gedenkorte sichtbar machen! - Vertagung durch Einreicher
+- TOP 19: Optimierung der Führungsstruktur des Städtischen Klinikums - Vertagung durch Einreicher
+- TOP 20: Ausschreibung der Angebote für den Betrieb von Fahrrädern im Verleih und für den Betrieb von Elektrokleinstfahrzeugen im Verleih auf öffentlichen Straßen in Dresden - Zustimmung
+- TOP 21: Sofortiger Stopp der Planungen zur Umgestaltung der St. Petersburger Straße - Verweisung
+- TOP 22: Integriertes Stadtentwicklungskonzept „Zukunft Dresden 2035+“ – Ergebnisse der Grundlagendiskussion 2023/2024 und Fortschreibung - erledigt
+- TOP 23: Information über die Haushaltsbewirtschaftung 2025 - erledigt
