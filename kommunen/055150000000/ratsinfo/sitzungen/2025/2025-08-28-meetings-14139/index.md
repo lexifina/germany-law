@@ -1,0 +1,60 @@
+# 36. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-08-28T17:00:00+02:00
+- Ende: 2025-08-28T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14139
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14139
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00574882.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Bürgerhaus im Oxford Quartier - beantwortet
+- TOP 4.2: Anfrage zur Vorlage V/0793/2022 "Gievenbecker Reihe - Fahrbahnteiler in Höhe der neuen Wegeverbindung zur Potstiege" - eingebracht
+- TOP 4.3: Bürgerzentrum Hof Hesselmann - Bestandsicherung - Trockenlegung Keller - beantwortet
+- TOP 5: Entscheidungen
+- TOP 5.1: Wahl einer stellvertretenden Schiedsperson für den Bezirk 7 Münster-Nienberge - einstimmig geändert beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 7: Neue Anregungen/Anträge
+- TOP 7.1: Tempo 50 Roxeler Straße - Anregung an die Verwaltung - eingebracht
+- TOP 7.2: Verkehrszählung Sendener Stiege - Stellungnahme zur Kenntnis genommen
+- TOP 7.3: Anregung der BV West an den Rat der Stadt Münster zur Überplanung der Corrensstraße - eingebracht
+- TOP 7.4: Klemmfixe Weseler Straße - eingebracht
+- TOP 7.5: Ausweitung der Tempo-30-Regelung auf der Heroldstraße - Leiser, sauberer, sicherer, klimafreundlicher und lebenswerter - eingebracht
+- TOP 7.6: Tempo-30-Regelung auf der Dülmener Straße in Albachten - eingebracht
+- TOP 7.7: Verkehrssicherheit an der Ampelanlage Dülmener Straße / Osthofstraße - eingebracht
+- TOP 7.8: Verkehrssicherheit auf dem Schulweg zur neuen Schule im Baugebiet Albachten-Ost - eingebracht
+- TOP 7.9: Tempo 30 innerorts von Albachten - eingebracht
+- TOP 7.10: Dauerhafte Änderung der Linienführung für die Linie 15 - Stellungnahme zur Kenntnis genommen
+- TOP 7.11: Standortsuche für ein Vereins- und Bürgerhaus in Nienberge - eingebracht
+- TOP 7.12: Ausstattung der Bushaltestellen A und C an der St. Anna-Kirche in Mecklenbeck mit Wartehäuschen - Stellungnahme zur Kenntnis genommen
+- TOP 7.13: Mobile Sonnensegel für Spielplätze mit noch nicht ausgewachsenen Bäumen - Patenschaftsmodell prüfen - eingebracht
+- TOP 7.14: Roxeler Straße: Erweiterung der Tempo 30-Zone - eingebracht
+- TOP 7.15: Altglascontainer im Bereich Münster-West - Reinigung der Straßen - eingebracht
+- TOP 7.16: Änderung der Vorfahrtsberechtigung der Straßen Eichenweg, Lindenstraße und Paul-Gerhardt-Straße auf die Dorffeldstraße - eingebracht
+- TOP 7.17: Vorfahrtsänderung im Bereich Hohenholter Straße / Hülshoffstraße zugunsten der Hülshoffstraße Richtung Roxel und umgekehrt - eingebracht
+- TOP 7.18: Antrag: "Querungshilfe für den Horstmarer Landweg" - eingebracht
+- TOP 7.19: Antrag: "Mehr Sauberkeit in der Bahnunterführung Heroldstraße" - eingebracht
+- TOP 7.20: Antrag: "Dialogdisplay auf dem Dingbängerweg" - eingebracht
+- TOP 7.21: Verkehrssituation im und am Oxford-Quartier zeitnah entschärfen - eingebracht
+- TOP 7.22: Erleichterung für Radfahrende im Kreuzungsbereich Gievenbecker Weg / Enschedeweg / Gescherweg / Hensenstraße - eingebracht
+- TOP 8: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 8.1: Aufstellung von Sitzbänken im Grünzug Kinderbachtal - Stellungnahme zur Kenntnis genommen
+- TOP 8.2: Wartehäuschen an der Haltestelle "Rottkamp" stadtauswärts - Stellungnahme zur Kenntnis genommen
+- TOP 8.3: Fahrrad-Reparaturstationen für Mecklenbecker Fahrrad-Hotspots - Stellungnahme zur Kenntnis genommen
+- TOP 8.4: Keine unerwünschten Regenduschen - Ablauf des Oberflächenwassers auf der Straße Oberort kurz hinter der Kreuzung mit der Weseler Straße gewährleisten - Stellungnahme zur Kenntnis genommen
+- TOP 8.5: Antrag Pflege der Baumscheiben in der Sebastianstraße in Nienberge / Steigerung der Attraktivität und Aufenthaltsqualität der Ortsmitte - Stellungnahme zur Kenntnis genommen
+- TOP 8.6: Sportflächen für den wachsenden Stadtteil Gievenbeck einplanen - Stellungnahme zur Kenntnis genommen
+- TOP 8.7: Bildung ernst nehmen - Gesamtschule Münster-West Projektschule für selbstgesteuertes Lernen mit digitaler Unterstützung - Stellungnahme zur Kenntnis genommen
+- TOP 8.8: Verdeutlichung des Parkverbots im Kreuzungsbereich Redigerstraße / Waldeyerstraße - Stellungnahme zur Kenntnis genommen
+- TOP 9: Verschiedenes
