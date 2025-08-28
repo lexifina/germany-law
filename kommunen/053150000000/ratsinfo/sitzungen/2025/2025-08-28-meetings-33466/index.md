@@ -1,0 +1,52 @@
+# 5. Sondersitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-08-28T15:10:00+02:00
+- Ende: 2025-08-28T16:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33466
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33466
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Chancengerechtigkeit auf dem Wohnungsmarkt – Handeln gegen rassistische Diskriminierung bei der Wohnungsvergabe - Sache ist erledigt
+- TOP 2.2: Antrag zur Neubenennung "Marlis-Bredehorst-Platz" - geändert beschlossen
+- TOP 2.3: Gewaltschutzeinrichtung für queere Menschen, Schwerpunkt TIN - ungeändert beschlossen
+- TOP 2.4: Köln bleibt Queer - vertagt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Förderung von Frauenvereinen im Sozialbereich in den Jahren 2025 und 2026 - ungeändert beschlossen
+- TOP 3.2: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2025 ff. - ungeändert beschlossen
+- TOP 3.3: Verteilung Z für Frauenprojekte / Arbeitslosenberatung in den Jahren 2025 und 2026 - ungeändert beschlossen
+- TOP 3.4: Ausweitung der Förderung des Landes NRW für das Kommunale Integrationszentrum Köln - ungeändert beschlossen
+- TOP 3.5: Förderung von Selbsthilfegruppen im Sozialbereich für das Jahr 2025 - ungeändert beschlossen
+- TOP 3.6: Richtlinie zur Verwendung des kommunalen Anteils bei der Förderung des Case Managements im Rahmen des Kommunalen Integrationsmanagements - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Abriss und Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück in der Waldstr. 113-115, in 51145 Köln-Urbach - Bedarfsfeststellungs-, Planungs- und Baubeschluss - mit Änderungen empfohlen
+- TOP 4.2: Konzept Soziales und Innovatives Wohnen in Köln - ungeändert empfohlen
+- TOP 4.3: Verlängerung Auszugsmanagement 2026 - mit Änderungen empfohlen
+- TOP 4.4: Verstetigung des Projekts "Teilhabe leben – Abbau von Barrieren in der Kölner Kommunalpolitik" und Einbezug von weiteren Dienststellen - ungeändert empfohlen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 6.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 6.1.1: Maßnahmen zur Förderung sozial gemischter Stadtteile in Köln - vertagt
+- TOP 6.1.2: Kommunale Eingliederungsleistungen der Schuldnerberatung - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren am 05.06.2025 - Kenntnis genommen
+- TOP 6.1.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren vom 08.05.2025 - Kenntnis genommen
+- TOP 6.1.4: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke vom 27.06.2025 (AN/1032/2025) betreffend Entwicklung und aktuelle Situation beim Wohngeld in Köln - Kenntnis genommen
+- TOP 6.2: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 6.3: Aktuelle Anfragen und Beantwortungen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Mitteilungen
+- TOP 8.1: Jahresbericht 2024 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 8.2: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - Kenntnis genommen
+- TOP 8.3: Soziale Wohnraumagentur Köln - Kenntnis genommen
+- TOP 8.4: Sachstandsbericht zum Antrag „Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand" (AN/0424/2025) - vertagt
+- TOP 8.5: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - vertagt
+- TOP 8.6: Auswertung der Gebäude- und Wohnungszählung des Zensus 2022: Wohnungsleerstände und Energieträger der Heizungen in Köln - vertagt
+- TOP 8.7: Erweiterung des Suchthilfekonzeptes Köln - vertagt
+- TOP 8.8: Bürgereingabe nach §24 GO NRW - Vergütung von Praktika in sozialen Studiengängen, AZ 54/25 - vertagt
