@@ -1,0 +1,54 @@
+# Beirat Bauen
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-08-28T18:11:00+02:00
+- Ende: 2025-08-28T19:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3646
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3646
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Mobilitätskonzept der Stadt Grevenbroich - Vortrag
+- TOP 2.1: Mobilitätsmanagement - Kenntnisnahme
+- TOP 3: Pilotprojekt - Installation von Ladeborsteinen zur Förderung der Elektromobilität - Vortrag
+- TOP 3.1: Pilotprojekt - Installation von Ladebordsteinen zur Förderung der Elektromobilität - Kenntnisnahme
+- TOP 4: Situation des ÖPNV in Grevenbroich – Optimierung der Schülerlinie 091 - einstimmig beschlossen
+- TOP 5: ÖPNV in Grevenbroich - Anbindung des Rheinland-Klinikums in Hackenbroich - einstimmig beschlossen
+- TOP 6: Zwischenbericht NBuS-Projektgruppe – Informationsvorlage - Kenntnisnahme
+- TOP 7: Gebührenbedarfsberechnung über die Erhebung von Winterdienstgebühren 2026 - einstimmig beschlossen
+- TOP 8: Schriftliche Anträge
+- TOP 8.1: Anträge der SPD-Fraktion
+- TOP 8.2: Sanierung des Kirmesplatzes im Stadtteil Orken - einstimmig beschlossen
+- TOP 8.3: Anträge der CDU-Fraktion
+- TOP 8.3.1: Erweiterung der Beleuchtung auf der Hoeninger Straße in Barrenstein - einstimmig beschlossen
+- TOP 8.3.2: Ausbau der geplanten Sporthalle in Neukirchen als Mehrzweckhalle (Antrag Nr.:114/2024) - einstimmig beschlossen
+- TOP 8.3.3: Prüfauftrag: Errichtung von Pollern auf Bürgersteig an Frankenstraße, Frimmersdorf, vor Hausnummern 25 bis 33 - Kenntnisnahme
+- TOP 8.3.4: Fassadenbegrünung im Straßenraum unterstützen - Kenntnisnahme
+- TOP 8.4: Anträge der Fraktion Bündnis90/Die Grünen
+- TOP 8.5: Anträge der FDP-Fraktion
+- TOP 8.5.1: Öffentliche Abfallbehälter vor der Eisdiele „Auf dem Wiler" in Gustorf - Kenntnisnahme
+- TOP 8.5.2: Überweg „Am Bahndamm“ zum Supermarkt - Kenntnisnahme
+- TOP 8.5.3: Handlungsbedarf an der Holzbrücke beim Tiergehege - einstimmig beschlossen
+- TOP 8.5.4: Bewusstsein schaffen - Parksituation „Am Bahndamm“ durch Piktogramme ergänzen - mehrheitlich beschlossen
+- TOP 8.5.5: Schützenplatz in Hemmerden fit für die Zukunft machen - einstimmig beschlossen
+- TOP 8.5.6: Kirmesplatz Kapellen braucht Schützenfest und Parkplätze - Kenntnisnahme
+- TOP 8.5.7: Künstliche Ingelligenz zur Verbesserung der Grevenbroicher Straßen nutzen - Kenntnisnahme
+- TOP 8.5.8: Verkehrsspiegel an der Kreuzung Christian-Kropp-Straße / Provinzstraße im Stadtteil Gustorf wieder errichten - Kenntnisnahme
+- TOP 8.5.9: Barrierefreiheit auf dem Gehweg auf der Oststraße in Wevelinghoven sicherstellen - Kenntnisnahme
+- TOP 8.6: Anträge der Fraktion Mein Grevenbroich
+- TOP 8.6.1: Sachstand Ausbau barrierefreie Bushaltestellen - Kenntnisnahme
+- TOP 8.6.2: "Kraftraum-shuttle" - Kenntnisnahme
+- TOP 8.6.3: Abschluss der Sanierungsarbeiten am Auerbachhaus - Kenntnisnahme
+- TOP 8.6.4: Kennzeichnung der Freifläche an der Ecke Bahnstr. / Graf-Kessel-Str. als Feuerwehrbewegungszone - einstimmig beschlossen
+- TOP 8.6.5: Fußwegherstellung Stadtteil Neukirchen / Unterdorf 47 bis L 142 und Tempo 30 fortzuführen - Kenntnisnahme
+- TOP 8.7: Anträge der UWG-Fraktion
+- TOP 9: Schriftliche Anfragen
+- TOP 10: Gemeinschaftsanträge
+- TOP 11: Anfragen von Beiratsmitgliedern
+- TOP 12: Mitteilungen der Vorständin
+- TOP 13: Mitteilungen des Beiratsvorsitzenden
