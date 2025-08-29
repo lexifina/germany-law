@@ -6,5 +6,6 @@ Die Münze wird ab dem 10. April 2008 in den Verkehr gebracht. Sie besteht aus e
 Die Bildseite zeigt eine gelungene Kombination von Portrait und wissenschaftlicher Grafik. Das künstlerisch überzeugende Portrait trifft die Persönlichkeit Plancks, indem es seine Nachdenklichkeit zum Ausdruck bringt. Die gezeigten Kurven sind charakteristisch für die Wärmestrahlung, die einen der Forschungsschwerpunkte in Plancks wissenschaftlicher Arbeit bildete.
 Die Wertseite korrespondiert harmonisch mit der Bildseite. Sie zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“, die Wertziffer und Wertbezeichnung, die Jahreszahl 2008, die zwölf Europasterne sowie das Prägezeichen „F“ der Staatlichen Münzen Baden-Württemberg, Prägestätte Stuttgart.
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift (Zitat von Max Planck):
-| „DEM ANWENDEN MUSS DAS ERKENNEN VORAUSGEHEN·“. |
+„DEM ANWENDEN MUSS
+DAS ERKENNEN VORAUSGEHEN·“.
 Der Entwurf der Münze stammt von Herrn Michael Otto, Rodenbach.
