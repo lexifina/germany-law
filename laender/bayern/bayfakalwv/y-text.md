@@ -1,0 +1,1 @@
+Auf Grund von Art. 20 Abs. 1 und Art. 91 Satz 1 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) erläßt das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten folgende Verordnung:
