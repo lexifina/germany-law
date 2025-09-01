@@ -1,0 +1,76 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-01T14:40:00+02:00
+- Ende: 2025-09-01T15:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31758
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31758
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Weiterführung des Förderprogramms Gemeinwesenarbeit für die Stadt Köln - Kenntnis genommen
+- TOP 2.3: Soziale Wohnraumagentur Köln - Kenntnis genommen
+- TOP 2.4: Monatsbericht Sanierung der Bühnen Köln Juni und Juli 2025 - Kenntnis genommen
+- TOP 2.5: Gründung des Sondervermögens Parkstadt Süd - Kenntnis genommen
+- TOP 2.6: Beantwortung einer schriftlichen Anfrage der Volt-Fraktion aus der Sitzung des Gesundheitsausschusses vom 28.08.2025 (AN/1170/2025) betreffend Finanzmittel Youthwork AN/1170/2025 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Förderung der Singpause Köln e.V. für die Haushaltsjahre 2025 - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Kostenänderung in Köln durch Bonner Ratsbeschluss vom 8. Mai 2025 - Kenntnis genommen
+- TOP 4.1.1: Beantwortung der schriftlichen Anfrage AN/1008/2025 - Kenntnis genommen
+- TOP 4.2: Wie weit ist die Verwaltung bei der Belegungsplanung für das von der Stadt erworbene Rossio-Gebäude in Deutz? - Kenntnis genommen
+- TOP 4.2.1: Beantwortung der Anfrage AN/1214/2025 der SPD-Fraktion bezüglich der Belegungsplanung des Rossio-Gebäudes in Köln Deutz - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Erneuerung der Wasserversorgungsleitungen auf dem Kölner Südfriedhof; hier: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 6.2.2: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025 und 2026hier: Neugestaltung Parkanlage Glashüttenstraße - Kenntnis genommen
+- TOP 6.3: Haushaltsrechtliche Unterrichtung des Rates gemäß § 62 Abs. 4 Gemeindeordnung NRW, hier: Entwurf Jahresabschluss 2024 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Generalsanierung der Kardorfer Straße von Rösberger Straße bis Haus-Nr. 17 sowie Freigabe von investiven Auszahlungsermächtigungen - unter Vorbehalt beschlossen
+- TOP 7.2: Baubeschluss für die Generalinstandsetzung des Auenweges von Mettfelder Straße bis Grüngürtelstraße sowie Freigabe einer investiven Auszahlungsermächtigung bei der Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - unter Vorbehalt beschlossen
+- TOP 7.3: Baubeschluss für die Generalinstandsetzung der Legienstraße zwischen Adam-Stegerwald-Straße und Legienstraße 10 sowie Freigabe von investiven Auszahlungsermächtigungen - unter Vorbehalt beschlossen
+- TOP 7.4: Umgestaltung des Spiel- und Bolzplatz Helenenwall in Köln-Deutz - ungeändert beschlossen
+- TOP 7.5: Schadstoffsanierung und Neugestaltung der Spielfläche Fritz-Haber-Straße in Köln-Flittard - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßige Aufwendungen in der Produktgruppe - 1501 Wirtschaft und Tourismus - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Abriss und Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück in der Waldstr. 113-115, in 51145 Köln-Urbach - Bedarfsfeststellungs-, Planungs- und Baubeschluss - geändert beschlossen
+- TOP 10.2: Errichtung einer Skateanlage für Kinder und Jugendliche in Köln-Widdersdorf - ohne Votum behandelt
+- TOP 10.3: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.3.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.4: Bedarfsfeststellungsbeschluss für eine europaweite Ausschreibung und Vergabe des technischen Gebäudebetriebs - ohne Votum behandelt
+- TOP 10.5: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.6: Feststellung des Jahresabschlusses zum 31.12.2021 und des Lageberichtes für das Wirtschaftsjahr 01.01.2021 - 31.12.2021 des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Bedarfsfeststellungs- und Mittelfreigabebeschluss zur Umsetzung des Prozesses "Bezahlbar Bauen und Wohnen in Köln" - ohne Votum behandelt
+- TOP 10.8: Kindertagespflege nach § 23 SGB VIII - Anpassung der Finanzierung - ungeändert beschlossen
+- TOP 10.9: Verlängerung Auszugsmanagement 2026 - geändert beschlossen
+- TOP 10.10: Antrag zur Teilnahme am Entschuldungsprogramm des Landes NRW – Altschuldenentlastungsgesetz NRW (ASEG NRW) - ungeändert beschlossen
+- TOP 10.11: Verwendung des Überschusses aus dem Jahresabschluss 2021 - ungeändert beschlossen
+- TOP 10.12: Verwendung des Überschusses aus dem Jahresabschluss 2022 - ungeändert beschlossen
+- TOP 10.13: Behandlung des Fehlbetrages aus dem Jahresabschluss 2023 - ungeändert beschlossen
+- TOP 10.14: Bericht über die Prüfung des Jahresabschlusses 2021 - ungeändert beschlossen
+- TOP 10.15: Bericht über die Prüfung des Jahresabschlusses und des Lageberichtes der Stadt Köln zum 31.12.2022 - ungeändert beschlossen
+- TOP 10.16: Bericht über die Prüfung des Jahresabschlusses und des Lageberichtes der Stadt Köln zum 31.12.2023 - ungeändert beschlossen
+- TOP 10.17: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.18: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): 5. Änderungssatzung - ungeändert beschlossen
+- TOP 10.19: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Auflösung des Wasser- und Bodenverbandes Wahn (WBV) und Übernahme der Aufgaben und Anlagen des WBV auf Kölner Stadtgebiet durch die StEB Köln - ungeändert beschlossen
+- TOP 10.20: Bedarfsfeststellungsbeschluss für die Übertragung von Aufgaben an die moderne stadt und die Vergabe von Planungsleistungen zur Realisierung der Maßnahmenumsetzung Deutzer Hafen – Äußere Erschließung (Planfall 8) - ungeändert beschlossen
+- TOP 10.21: Neubau der Jugendeinrichtung „Am Wunschtor" in der Gernsheimer Straße 22 in Ostheim im Zuge der Umsetzung des Integrierten Handlungskonzeptes für den Sozialraum „Ostheim und Neubrück" als Bestandteil des Programms „Starke Veedel – Starkes Köln“ - ungeändert beschlossen
+- TOP 10.22: Erneuerung der Eisenbahnüberführungen am Bahnhof West, Venloer Straße und Vogelsanger Straße in Köln-Innenstadt durch die DB InfraGO AG - ungeändert beschlossen
+- TOP 10.23: Baubeschluss für die bauliche Verbreiterung des Radweges ‚Am Leystapel‘, sowie Freigabe von investiven Auszahlungsermächtigungen - ohne Votum behandelt
+- TOP 10.24: Freigabe von Fördermitteln und Änderung des Förderzwecks zugunsten von Projektförderungen an den Games Syndicate Cologne e. V. - ungeändert beschlossen
+- TOP 10.25: Bedarfsfeststellungsbeschluss für die nutzungsunabhängige Sanierung der Großmarkthalle - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 11.1: Erneuerung der Stützwand Untere Groov - Erweiterung der Maßnahme und Abbruch Teehaus - ungeändert beschlossen
+- TOP 12: Mündliche Anfragen
