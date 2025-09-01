@@ -1,0 +1,2 @@
+– des Art. 18 Satz 4 sowie des Art. 123 Abs. 1 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) in der Fassung der Bekanntmachung vom 31. Mai 2000 (GVBl. S. 414, 632, BayRS 2230-1-1-K), das zuletzt durch Gesetz vom 25. Juli 2025 (GVBl. S. 260) geändert worden ist, und
+– des Art. 1 Abs. 6 des Bayerischen Erwachsenenbildungsförderungsgesetzes (BayEbFöG) vom 31. Juli 2018 (GVBl. S. 662, BayRS 2239-1-K), das zuletzt durch Gesetz vom 10. August 2023 (GVBl. S. 501) geändert worden ist,
