@@ -10,7 +10,7 @@ Abschnitt 1 Ziele, Grundlagen und Inhalte
 § 6 Ziele der Vorbereitungsdienste
 § 7 Ausbildungsplanung
 § 8 Studienplanung
-§ 9 Planung des Vorbereitungsdienstes im Schwerpunkt Computer- und Internetkriminalitätsdienst
+§ 9 Planung der Vorbereitungsdienste in den Schwerpunkten Computer- und Internetkriminalitätsdienst sowie Wirtschaftskriminalitätsdienst
 § 10 Inhalte
 Abschnitt 2 Ablauf der Vorbereitungsdienste
 § 11 Dauer und Gliederung
@@ -34,7 +34,7 @@ Abschnitt 3 Prüfungswesen
 § 28 Erwerb von Berechtigungsscheinen
 § 29 Nachteilsausgleich
 § 30 Wiederholung von Prüfungen
-§ 31 Unlauteres Verhalten
+§ 31 Unlauteres Verhalten und Mängel im Prüfungsverfahren
 § 32 Fernbleiben und Rücktritt
 Abschnitt 4 Praktikum
 § 33 Ziel und Nachweis der Praktika
@@ -45,5 +45,5 @@ Abschnitt 5 Akteneinsicht und Abschlussdokumente
 § 37 Zeugnis und Leistungsübersicht
 Teil 3 Übergangsregelungen
 § 38 Beginn des Vorbereitungsdienstes vor dem 1. September 2024
-§ 39 Beginn des Vorbereitungsdienstes vor dem 1. September 2025
+§ 39 Beginn des Vorbereitungsdienstes vor dem 1. September 2026
 Anlage Umrechnung der Zählpunkte
