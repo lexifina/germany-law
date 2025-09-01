@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-01T16:00:00+02:00
+- Ende: 2025-09-01T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32985
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32985
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Vorstellung Feuerwehr Pläne der Feuerwache Lövenich
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1.1: Bürgereingabe nach § 24 GO - „Verkehrsführung Sülzburgstraße“, Aktenzeichen 18/23 - ungeändert beschlossen
+- TOP 5.2: Mitteilungen zur Bürgereingaben
+- TOP 5.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parken Stolberger Str./Köln-Müngersdorf, Aktenzeichen: 165/24 - Kenntnis genommen
+- TOP 5.2.2: Mitteilung zur Bürgereingabe - Spielplatz Pauliplatz, Aktenzeichen 47/25 - Kenntnis genommen
+- TOP 5.2.3: Bürgereingabe nach §24 GO NRW - Regelwidriges Abstellen/Parken von Wohnwagen, Az. 61/25 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Bündnis 90/Die Grünen Fraktion aus der Sitzung der Bezirksvertretung Lindenthal vom 05.06.2025 betreffend "Anfrage nach Anträgen zum Lärmschutz" (AN/0852/2025) - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage zur Stadtteilbibliothek Sülz - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Prüfanträge zur Lösung von Verkehrsproblemen - Kenntnis genommen
+- TOP 7.2.2: Anfrage Stadtbahnprojekte - Kenntnis genommen
+- TOP 7.2.3: Verkehrssicherheit in der Sielsdorfer Straße - Kenntnis genommen
+- TOP 7.2.4: Nutzung von Schulsportanlagen am Georg-Büchner-Gymnasium in Weiden außerhalb der Unterrichtszeiten - Kenntnis genommen
+- TOP 7.2.5: Verkehrssicherheit an der Aachener Straße zwischen Maarweg und Eupener Straße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Pachtvertrag Gleueler Wiesen - vertagt
+- TOP 8.1.2: Verbesserung der Sicherheitslage im Bereich des Rosengartens - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag zu 8.1.2 - geändert beschlossen
+- TOP 8.1.3: Quartiersgaragen - geändert beschlossen
+- TOP 8.1.4: Poller Neuenhöfer Allee - ungeändert beschlossen
+- TOP 8.1.5: Kleingärten Rhöndorfer Straße - ungeändert beschlossen
+- TOP 8.1.6: Hitzeschutz für die Gebäude des Georg-Büchner-Gymnasiums - geändert beschlossen
+- TOP 8.1.7: Verbesserung der Aufenthaltsqualität an der Haltestelle Weiden West - ungeändert beschlossen
+- TOP 8.1.8: Petersbergstraße/Breibergstraße/Hardtstraße Raum für Zisterne - vertagt
+- TOP 8.1.9: Antrag zur Verbesserung der Schulwegsicherung für die Grundschule Stenzelbergstr. - endgültig zurückgezogen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Umbau Hofanlage Wendelinstr. 48 - Kenntnis genommen
+- TOP 9.1.2: Errichtung eines Hospiz- und Palliativzentrums - Kenntnis genommen
+- TOP 9.1.3: Aufhebungsbeschluss zu Beschluss „Baubeschluss für die Errichtung einer vollauto-matischen Fahrradschließanlage „Bike Tower" mit 120 Fahrradabstellplätzen an der Haltestelle Weiden West – 2679/2020/2 - ungeändert beschlossen
+- TOP 9.1.4: Einrichtung einer Fahrradstraße in der Petersbergstraße - ungeändert beschlossen
+- TOP 9.1.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung - ungeändert empfohlen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Errichtung einer Skateanlage für Kinder und Jugendliche in Köln-Widdersdorf - geändert beschlossen
+- TOP -: Änderungsantrag 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Beschluss zur Erweiterung der P+R-Anlage an der Haltestelle Weiden West um eine integrierte B+R-Anlage (Fahrradabstellmöglichkeiten) - ungeändert beschlossen
+- TOP 9.2.3: Änderung der Hauptsatzung der Stadt Köln und der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln, hier: Anpassung aufgrund der Änderung der Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Sportentwicklungsplanung – Vergabegrundsätze Sportstätten - Kenntnis genommen
+- TOP 11.3.2: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): hier Beteiligung der BVen nach Marktöffnung - Kenntnis genommen
+- TOP 11.3.3: Digitale & hybride Gremiensitzungen: Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 11.3.4: Qualitätsbericht 2024 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 11.3.5: Arbeitsergebnisse der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
