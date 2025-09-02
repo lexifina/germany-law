@@ -1,0 +1,80 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-09-02T17:05:00+02:00
+- Ende: 2025-09-02T20:50:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28431
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28431
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00562084.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00562084.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00562084.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Verein der Freiwilligen Feuerwehr Düsseldorf, Löschgruppe Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Bezirklicher Bauunterhalt 2025 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des großen Martinsumzuges 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Garather Schützenverein 1967 e.V. für die Durchführung des großen Martinsumzuges 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Heimatverein Garather Jonges 1969 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.12: Übertragung der zum Jahresende 2025 nicht verausgabten Verfügungsmittel in das Jahr 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Haushalt 2025 - Liste A) Schulen 21 211 01 52416000 - einstimmig beschlossen
+- TOP 4.14: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den SKFM Düsseldorf e.V.– Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.15: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.16: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Konzept der AWISTA-Kommunal für die Stadtteile - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.3: Rodung Grünstreifen an der Straße Am Kapeller Feld - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Reduzierung Kita-Plätze in Garath - Baubeginn An der Kämpe (ehem. Lüderitzstraße) - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Voraussetzungen für die Einrichtung von Wallboxen auf Privatgrundstücken in Hellerhof - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Maßnahmen der Stadt Düsseldorf im Zusammenhang mit den Folgen der anstehenden Sanierung der A 59 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Straßenbaum in der Seesener Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Überhöhte Luftbelastung in Wohngebieten während der Sperrung der A59 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Dornige Bepflanzung am Rondel Georg-Daniel-Teutsch-Straße - Antrag der CDU Fraktion - - zurückgezogen
+- TOP 7.3: Bericht des Stadtentwässerungsbetriebes (SEBD) zum „Urdenbacher Acker“ in der BV 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Hinweis auf den Park & Ride Parkplatz in Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beseitigung der hässlichen Plastiktüte am Eingang zum Kulturhaus Süd - Informationsvorlage zum Beschluss BV10/121/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.2: Hinweisschilder zum Wochenmarkt Garath- Informationsvorlage zum Beschluss BV10/119/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.3: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2026 - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.4: Pfützenbildung auf der Dresdener Straße in Hellerhof-Ost - Informationsvorlage zum Beschluss BV10/128/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.5: Verkehrsführung an der Kreuzung Hellerhofweg / Bertha-von-Suttner-Straße - Informationsvorlage zum Beschluss BV10/102/2025 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.6: Installation von Türklingeln mit Videofunktion an Schultoren - Informationsvorlage zum Beschluss BV10/068/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.7: Getrennte Sammlung von Brauch- und Oberflächenwasser in Hellerhof - Informationsvorlage zum Beschluss BV10/101/2025 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.8: Einladung der Fußgängerbeauftragten der Stadt Düsseldorf - Informationsvorlage zum Beschluss BV10/123/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.9: Dynamische Fahrgastinformation im Bereich des S-Bahnhofes Hellerhof - 2. Informationsvorlage zum Beschluss BV10/096/2025 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.10: Eignung der Wiese an der Johannes-Radke-Straße und dem Grünstreifen am Hellerhofweg als Blühwiese - 2. Informationsvorlage zum Beschluss BV10/062/2025 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 8.11: Stellungnahme zum Beschluss des Kinderparlamentes Garath vom 24.06.2025 - Bau einer Rollsportanlage in Garath als Alternative zu einem Skaterpark- Informationsvorlage zum Beschluss BV10/137/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.12: Fuß- und Radweg an der Straße Am Kapeller Feld - Informationsvorlage zum Beschluss BV10/097/2025 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.13: Überholung bzw. Renovierung Brücke über die Frankfurter Straße in Hellerhof - Informationsvorlage zum Beschluss BV10/129/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.14: Konzept der Feuerwehr Düsseldorf wegen Sperrung der A59 - Informationsvorlage zum Beschluss BV10/118/2025 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8.15: Ansiedlung eines Lebensmittelvollsortimenters im Garather Zentrum - zur Kenntnis genommen
+- TOP 8.16: Preisentwicklung für Fernwärme - Informationsvorlage zum Beschluss BV10/084/2025 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 8.17: Barrierefreier Ausbau der SB-Haltestelle am Hellerhofer S-Bahnhof - Informationsvorlage zum Beschluss BV10/095/2025 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
