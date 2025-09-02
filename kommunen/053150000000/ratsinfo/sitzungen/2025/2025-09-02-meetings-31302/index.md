@@ -1,0 +1,92 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-02T17:07:00+02:00
+- Ende: 2025-09-02T18:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31302
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31302
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohneranfrage gemäß § 48 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO– „Umwidmung des Urbacher Wegs in Porz in eine Anliegerstraße“, Aktenzeichen 74/25 - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Verkehrsberuhigung Urbacher Weg" - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Genehmigung einer Dringlichkeitsentscheidung - Erstellung eines Modulbaus für Unterrichtszwecke sowie einer Mensa für die Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil - Planungs- und Baubeschluss - ungeändert beschlossen
+- TOP 6.2: Genehmigung einer Dringlichkeitsentscheidung - Schulrechtliche Änderung Förderschule, Sportplatzstraße 82-84,(Schulnummer: 154880) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19 zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 6.3: Genehmigung einer Dringlichkeutsentscheidung - Schulrechtliche Änderung Förderschule, Auf dem Sandberg 120,(Schulnummer: 154490) durch die Bildung eines Teilstandortes am Standort Neuerburgstraße 19,zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 6.4: Genehmigung einer Dringlichkeitsentscheidung - Erneuerung der Stützwand Untere Groov - Erweiterung der Maßnahme - ungeändert beschlossen
+- TOP 6.5: Gewährung eines Zuschusses an den Partnerschaftsverein e.V. Köln-Porz im Jahr 2025 - ungeändert beschlossen
+- TOP 6.6: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Porz - Mittelvergabe Session 2025/2026 - ungeändert beschlossen
+- TOP 6.7: Integriertes Stadtentwicklungskonzept Porz-Mitte - ungeändert beschlossen
+- TOP 6.8: Projektantrag im Rahmen des Bürgerorientierten Verfügungsfonds für das Soziale-Stadt-Gebiet „Porz-Mitte“ - ungeändert beschlossen
+- TOP 6.9: Benennung einer Planstraße im Baugebiet östlich im Falkenhorst in Köln-Porz/Urbach - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen "Benennung einer Planstraße im Baugebiet östlich im Falkenhorst" - ungeändert beschlossen
+- TOP 6.10: Benennung einer Planstraße im Baugebiet Senkelsgraben in Köln-Porz-Lind - ungeändert beschlossen
+- TOP 6.11: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Abriss und Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück in der Waldstr. 113-115, in 51145 Köln-Urbach - Bedarfsfeststellungs-, Planungs- und Baubeschluss - Alternative beschlossen
+- TOP 7.2: Änderung der Hauptsatzung der Stadt Köln und der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln, hier: Anpassung aufgrund der Änderung der Gemeindeordnung NRW - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Überarbeitung der Geschäftsordnung des Beirates Porz Mitte für die Wahlperiode 2025/2030" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der SPD-Fraktion "Überarbeitung der Geschäftsordnung des Beirates Porz-Mitte" - Sache ist erledigt
+- TOP 8.2: Antrag der SPD-Fraktion "Fußgängerbrücke Friedrichstr." - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "G9 am Schulzentrum Heerstraße ab dem Schuljahr 2026/2027 sicherstellen!" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Entwicklung des Schulzentrums Heerstraße" - endgültig abgelehnt
+- TOP 8.4: Antrag der SPD-Fraktion "Parkplatzsäuberung Lise -Meitner-Schule" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Fußgängerquerung auf der Gilgaustraße einrichten, Fachgespräch und Zebrastreifen" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Mögliche Einrichtung eines Zebrastreifens in Köln-Porz-Wahn" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "LKW-Fahrverbot Linder Mauspfad in Köln-Porz-Lind" - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Plauderbank" - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der SPD-Fraktion "Zeitliche Anpassung der Porzer Buslinien" - vertagt
+- TOP 8.10: Dringlichkeitsantrag der SPD-Fraktion "Änderung des Planungsbeschlusses zur Brücke Porz Mitte" - vertagt
+- TOP 8.11: Dringlichkeitsantrag aller Fraktionen "bezirksorientierte Mittel" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung ein Anfrage nach § 4 (SPD) vom 17.06.2025 betreffend "Digitale Infrastruktur im Stadtbezirk Porz" (AN/0952/2025) - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Digitale Infrastruktur im Stadtbezirk Porz" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 01.09.2020 (AN/1053/2020) betreffend „Verkehrsanbindung Gut Leidenhausen“. - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Verkehrsanbindung Gut Leidenhausen" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer Anfrage der BV 7, AN/0949/2024, "Umsetzung der beschlossenen Maßnahmen für den Fußweg im Bereich der Hausnummern 298-316 an der Frankfurter Straße in Köln-Wahn" aus der Sitzung am 11.06.2024 - Kenntnis genommen
+- TOP 9.1.4: Beantwortung der Anfrage "Radverkehrshauptnetz Porz, Umgang des Verkehrsdezernates mit dem Beschluss der BV Porz" (AN/1220/2023) - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Radverkehrshauptnetz Porz, Umgang des Verkehrsdezernates mit dem Beschluss der BV Porz" - Sache ist erledigt
+- TOP 9.1.5: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung der BV Porz am 15.05.2025 (AN/0533/2025) betr. "Fehlender Baumschutz auf der Alfred-Schütte-Allee, Poll" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Fehlender Baumschutz auf der Alfred-Schütte-Allee, Poll" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung der Bezirksvertretung 7 am 28.07.2025 (AN/1081/2025) betreffend "Steuereinnahmen in Porz" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Kann die Zuwegung Sportplatz Brucknerstraße sicherer gemacht werden?" - vertagt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Sportanlage Bieselwald" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der BV 7 am 02.09.2025 betreffend "Sportanlage Bieselwald" AN/1141/2025 - Kenntnis genommen
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Lärm durch Eventschifffahrt auf dem Rhein" - Sache ist erledigt
+- TOP -: Lärm durch Eventschifffahrt auf dem Rhein - Kenntnis genommen
+- TOP 9.2.5: Anfrage der CDU-Fraktion "Sachstand L82n, Umfahrungsstraße Zündorf" - vertagt
+- TOP 9.2.6: Anfrage der Fraktion Bündnis 90/Die Grünen "extrem lange Wartezeiten bei der Anmeldung von PV Batterien und Solaranlagen" - Sache ist erledigt
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen zu "exterm langen Wartezeiten bei der Anmeldung von PV Batterien und Solaranlagen" - Kenntnis genommen
+- TOP 9.2.7: Anfrage der CDU Fraktion "Verkehrssicherheit für Radfahrer in Wahnheide, Magazin- und Sportplatzstraße" - vertagt
+- TOP 9.2.8: Anfrage der CDU-Fraktion "Ausreichender Kontrast der Sitzgelegenheiten in Porz Mitte?" - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Digitale & hybride Gremiensitzungen: Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 10.2.2: Tagesordnungspunkt nicht vergeben - Sache ist erledigt
+- TOP 10.2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Beachvolleyballplatz für die Groov-Anlagen Porz-Zündorf, Aktenzeichen 08/25 - Kenntnis genommen
+- TOP 10.2.4: Sportentwicklungsplanung – Vergabegrundsätze Sportstätten - Kenntnis genommen
+- TOP 10.2.5: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des vorhabenbezogenen Bebauungsplanentwurfs Nr. 76367/03, Arbeitstitel: "Am Bahnhof" in Köln-Porz-Wahn - Kenntnis genommen
+- TOP 10.2.6: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): hier Beteiligung der BVen nach Marktöffnung - Kenntnis genommen
+- TOP 10.2.7: Bürgereingabe nach §24 GO NRW - Regelwidriges Abstellen/Parken von Wohnwagen, Az. 61/25 - Kenntnis genommen
+- TOP 10.2.8: Qualitätsbericht 2024 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.9: Arbeitsergebnisse der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 10.2.10: Mitteilung zur Bürgereingabe nach § 24 GO – Rolshover Kirchweg Poll, Aktenzeichen: 164/24 - Kenntnis genommen
+- TOP 10.2.11: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025 und 2026hier: Neugestaltung Parkanlage Glashüttenstraße - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
