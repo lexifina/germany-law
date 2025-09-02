@@ -1,0 +1,87 @@
+# 35. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-02T16:00:00+02:00
+- Ende: 2025-09-02T20:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32179
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32179
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Genehmigung Dringlichkeitsentscheidung-Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd - ungeändert beschlossen
+- TOP 3.1.1: Planungs- und Baubeschluss zum Austausch von zwei Containeranlagen gegen zwei Modulbauten in Holzbauweise bei der Katholischen Hauptschule am Standort Großer Griechenmarkt 76, 50676 Köln-Süd - Sache ist erledigt
+- TOP 3.2: Genehmigung Dringlichkeitsentscheidung - Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2025 - ungeändert empfohlen
+- TOP 3.3: Ausweitung der Bewohnerreservierung im Bewohnerparkgebiet Agnes II (AGN II) - ungeändert beschlossen
+- TOP 3.4: Umsetzung des Straßenbaumkonzeptes für die Innenstadt Ausführungspläne vom 7. August 2025 - ungeändert beschlossen
+- TOP 3.5: Straßenbaumkonzept Ausführungsplan Anlage 4 - Innenstadt - Brüsseler Straße aus der Beschlussvorlage 0111/2025 vom 26.06.2025 Hier: Annahme einer Schenkung der Kölner Grün Stiftung - ungeändert beschlossen
+- TOP 3.6: Beteiligungskonzept und weitere Planung zum Projekt "Lebenswertes Winzerveedel - Gut unterwegs, gerne da!" - ungeändert beschlossen
+- TOP 3.7: Erneuerung der Eisenbahnüberführungen am Bahnhof West, Venloer Straße und Vogelsanger Straße in Köln-Innenstadt durch die DB InfraGO AG - ohne Votum behandelt
+- TOP 3.8: Bedarfsfeststellungsbeschluss für die Übertragung von Aufgaben an die moderne stadt und die Vergabe von Planungsleistungen zur Realisierung der Maßnahmenumsetzung Deutzer Hafen – Äußere Erschließung (Planfall 8) - ungeändert empfohlen
+- TOP 3.9: Baubeschluss für die bauliche Verbreiterung des Radweges ‚Am Leystapel‘, sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert empfohlen
+- TOP 3.10: Umgestaltung des Spiel- und Bolzplatz Helenenwall in Köln-Deutz - ungeändert beschlossen
+- TOP 3.11: Änderung der Hauptsatzung der Stadt Köln und der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln, hier: Anpassung aufgrund der Änderung der Gemeindeordnung NRW - ungeändert empfohlen
+- TOP 3.12: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung - ungeändert empfohlen
+- TOP 3.13: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2025 Teil 2 - geändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO NRW - Sitzbank vor dem Haus Hohenzollernring 49 - entfernen oder versetzen, Aktenzeichen 106/25 - geändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO – Einrichtung eines Marktes an St. Kunibert, Aktenzeichen 98/23 - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO – Antrag auf Platzbenennung nach Marlis Bredehorst im Severinsviertel - Az: 32/25 - vertagt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Prüfmaßnahmen für eine bessere Lebensqualität in der Wohnsiedlung Siegburger Straße/Deutzer Freiheit, Antrag CDU - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Verbesserung der Sicherheit am Ubierring, Antrag B90/Die Grünen - vertagt
+- TOP 5.2.2: Sperrung der Parkmöglichkeit in der Innenstadt-Nord, gem. Antrag SPD, CDU und FDP - geändert beschlossen
+- TOP 5.2.3: Mehr und sicherer Parkraum für Anwohner, Antrag CDU - endgültig abgelehnt
+- TOP 5.2.4: Ersatzpflanzungen und Termin Baumfällung Barbarossaplatz, gem. Antrag KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.5: Mitteilung Landstrom, Antrag B90/Die Grünen - geändert beschlossen
+- TOP 5.2.6: Prüfantrag zur Weiterentwicklung des Kölner Suchthilfekonzepts – Einbindung, Beteiligung und Vernetzung, gem. Antrag B90/Die Grünen, SPD und Die Linke - ungeändert beschlossen
+- TOP -: Änderungsantrag zu "Prüfantrag zur Weiterentwicklung des Kölner Suchthilfekonzepts – Einbindung,, Änderungsantrag CDU - endgültig abgelehnt
+- TOP 5.2.7: Aufwertung der Steinstraße – Bäume pflanzen, Entsiegelung prüfen & Fördermittel nutzen, gem. Antrag SPD und Die Linke - geändert beschlossen
+- TOP 5.2.8: Verlängerung des Pilotprojektes „Jugendvertretung in der Bezirksvertretung Innenstadt“, gem. Antrag B 90/Die Grünen, SPD, Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.9: Verkaufshäuschen der KölnTourist Personenschiffahrt am Konrad-Adenauer-Ufer, gem. Dringlichkeitsantrag SPD, B90/Die Grünen und CDU - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.3: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.4: Sachstand Initiativen zum Severinsviertel, Anfrage der SPD - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Innenstadt vom 07.11.2024 betreffend „Sachstand Initiative zum Severinsviertel“ (AN/1488/2024) - Kenntnis genommen
+- TOP 6.1.5: Fort X - Fragen zum Zustand und den nächsten Schritten, Anfrage CDU - vertagt
+- TOP 6.1.6: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP 6.1.7: Umsetzung abgesenkter Bordsteine an Baustellen – Barrierefreiheit im öffentlichen Raum, Anfrage der SPD - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Straßenverkehrsordnung auch für Lastenfahrräder der Post, Anfrage Die Linke - vertagt
+- TOP 6.2.2: Umgang mit invasiven Kanadagänsen im Volksgarten und im Rheinpark, Anfrage SPD - Sache ist erledigt
+- TOP 6.2.2.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion der Bezirksvertretung 1 (Innenstadt) für die Sitzung am 02.09.2025 (AN/1151/2025) betr.: "Umgang mit invasiven Kanadagänsen im Volksgarten und im Rheinpark" - Kenntnis genommen
+- TOP 6.2.3: Neues Spielgerät im Innenhof des Bürgerzentrums Alte Feuerwache, Anfrage SPD - vertagt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Voranfrage für Teilrückbau, Umbau, Aufstockung und Nutzungsänderung - Kenntnis genommen
+- TOP 9.1.1: Beantwortung Nachfrage - Voranfrage für Teilrückbau, Umbau, Aufstockung und Nutzungsänderung zum Gebäude Breite Str. 103-135 - Kenntnis genommen
+- TOP 9.2: Digitale & hybride Gremiensitzungen: Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 9.3: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2024 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 9.4: Gemeinsamer Antrag Keine Vermietung kommunaler Räume in Schulen, Bürgerhäusern und Jugendzentren an die AfD oder ihre nahestehenden Organisationen - Kenntnis genommen
+- TOP 9.5: Sportentwicklungsplanung – Vergabegrundsätze Sportstätten - Kenntnis genommen
+- TOP 9.6: Stellungnahme zum Beschluss der BV 1 vom 26.06.2025 betreffend "Endlich Kunstrasen für die Bezirkssportanlage am Reitweg" AN/0962/2025 - Kenntnis genommen
+- TOP 9.7: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - Auftrag aus der Kommission zur Stärkung der Bezirke, hier: Bezirksvertretung Innenstadt 01/2024 bis 06/2025 - Kenntnis genommen
+- TOP 9.8: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): hier Beteiligung der BVen nach Marktöffnung - Kenntnis genommen
+- TOP 9.9: Stadtbahnkonzept Bonn 2026 - Kenntnis genommen
+- TOP 9.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parken im Belgischen Viertel, Aktenzeichen 53/25 - Kenntnis genommen
+- TOP 9.11: Bürgereingabe nach §24 GO NRW - Regelwidriges Abstellen/Parken von Wohnwagen, Az. 61/25 - Kenntnis genommen
+- TOP 9.12: Qualitätsbericht 2024 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 9.13: Sachstandsberichte - Kenntnis genommen
+- TOP 9.14: Arbeitsergebnisse der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 9.15: Niederschrift zur 15. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 01.04.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 9.16: Niederschrift der 17. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 01.07.2025 (öffentlicher Teil) - Kenntnis genommen
