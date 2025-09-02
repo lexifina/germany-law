@@ -1,0 +1,76 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-02T17:00:00+02:00
+- Ende: 2025-09-02T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31882
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31882
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Kurzzeitparkzone Friedhof Volkhovener Weg - Kenntnis genommen
+- TOP 7.1.2: Ausfälle S6 und S11 im Stadtbezirk - Kenntnis genommen
+- TOP 7.1.3: Kunstrasenplätze im Stadtbezirk - Kenntnis genommen
+- TOP 7.1.4: Anfrage Maßnahmen zur Erhöhung der Sicherheit und Sauberkeit auf Spielplätzen und in Grünanlagen - Kenntnis genommen
+- TOP -: Weitere Stellugnnahme der Verwaltung - Kenntnis genommen
+- TOP 7.1.5: Sachstandsanfrage zum Austausch der maroden Sitzbänke am Marktplatz in Heimersdorf - Kenntnis genommen
+- TOP 7.1.6: Sauberkeit und Schutz vor Vermüllung - Kenntnis genommen
+- TOP 7.1.7: Kölner Norden Linie 12 - Kenntnis genommen
+- TOP 7.1.8: Fehlende Mobiltätsberatung „Go.Center“ in Chorweiler - Kenntnis genommen
+- TOP 7.1.9: Anfrage zur Sperrmüllproblematik in Chorweiler und Chorweiler Nord - Kenntnis genommen
+- TOP 7.1.10: Zusammenlegung der Jugendpflegestellen Chorweiler und Nippes - Kenntnis genommen
+- TOP 7.1.11: Nutzung Schulhof der Gemeinschaftsgrundschule und Förderschule Soldiner Str. in Lindweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Lärmschutz Sportplatz in Esch zu AN/0848/2025 Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Planung und Errichtung einer Kindertagesstätte im Stadtteil Merkenich - Kenntnis genommen
+- TOP -: Weitere Stellugnnahme der Verwaltung - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung des Brauchtums in den Veedeln – Sicherung der Durchführung im Stadtbezirk Chorweiler 2026 – Mittelvergabe Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90/Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Ausbau des Pescher Pfads von Pesch nach Auweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Aufstellung eines Seitenlinienradars auf der Neusser Landstraße B9 in Fühlingen Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umgestaltung des Spielplatz Spreeweg West in Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.1.2: Beiräte bei der KölnBäder GmbH (Bäderbeiräte) hier: Benennung von Mitgliedern für den Beirat für das Chorweilerbad - vertagt
+- TOP 9.1.3: Benennung von Planstraßen im Baugebiet Südlich Baptiststraße - geändert beschlossen
+- TOP 9.1.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung - vertagt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend dem VEP Nummer 63552/01: "Hotelneubau am Freizeitbad Aqualand in Chorweiler - ungeändert beschlossen
+- TOP 9.2.2: Änderung der Hauptsatzung der Stadt Köln und der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln, hier: Anpassung aufgrund der Änderung der Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flächenbericht 2024 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2024 - Kenntnis genommen
+- TOP 10.2.2: Digitale & hybride Gremiensitzungen: Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 10.2.3: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 10.2.4: Mitteilung über den Beschluss 0971/2025 Finanzausschuss vom 26.05.2025 zum Wegfall Freigabevorbehalt im Stadtklima-/Stadtverschönerungsprogramm - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Installation von Pollern am Athener Ring 26-28, Aktenzeichen 142/24 - Kenntnis genommen
+- TOP 10.2.6: Sportentwicklungsplanung – Vergabegrundsätze Sportstätten - Kenntnis genommen
+- TOP 10.2.7: Errichtung einer inklusiven Wohnanlage Escher Str. 31 - Kenntnis genommen
+- TOP 10.2.8: Qualitätsbericht 2024 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.9: Bürgereingabe nach §24 GO NRW - Regelwidriges Abstellen/Parken von Wohnwagen, Az. 61/25 - Kenntnis genommen
+- TOP 10.2.10: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): hier Beteiligung der BVen nach Marktöffnung - Kenntnis genommen
+- TOP 10.2.11: Baufortschrittsbericht BV6 – Generalinstandsetzung Neusser Landstraße - Kenntnis genommen
+- TOP 10.2.12: Arbeitsergebnisse der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Geplante Klärschlammverbrennungsanlage in Köln-Merkenich - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
