@@ -1,4 +1,4 @@
-# (XXXX)
+# Eingangsformel
 
 Die Bundesrepublik Deutschland,
 das Land Baden-Württemberg,

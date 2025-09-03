@@ -1,6 +1,6 @@
 # Staatsvertrag über die Verteilung von Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln
 
-- [(XXXX)](xxxx.md)
+- [Eingangsformel](eingangsformel.md)
 - [Präambel](praeambel.md)
 
 ## Abschnitt 1 Allgemeines
