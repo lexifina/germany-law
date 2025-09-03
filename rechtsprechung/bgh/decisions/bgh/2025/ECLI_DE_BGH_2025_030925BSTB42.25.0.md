@@ -1,0 +1,105 @@
+---
+ecli: "ECLI:DE:BGH:2025:030925BSTB42.25.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "StB 42/25"
+decided: "2025-09-03"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE722892025.xml"
+neuris_doknr: "KORE722892025"
+---
+
+# Bundesgerichtshof, StB 42/25 vom 2025-09-03
+
+## Leitsatz
+
+Die für Verteidigungsunterlagen geltenden Erwägungen, wonach eine Durchsicht vorläufig sichergestellter Gegenstände zulässig ist, wenn nicht offensichtlich ist, dass es sich um Verteidigungsunterlagen handelt, sind auf den Umgang mit konsularischen Archiven und Schriftstücken zu übertragen.13 28 31
+
+## Tenor
+
+1. Die Beschwerde der Beschuldigten gegen den Beschluss des Ermittlungsrichters des Bundesgerichtshofs vom 25. Juli 2025 (1 BGs 1391/25) wird verworfen.
+
+2. Die Beschwerdeführerin hat die Kosten des Rechtsmittels zu tragen.
+
+## Gründe
+
+I.
+
+1 Der Generalbundesanwalt führt gegen die Beschuldigte ein Ermittlungsverfahren insbesondere wegen des Verdachts der geheimdienstlichen Agententätigkeit, strafbar nach § 99 Abs. 1 StGB. Auf seinen Antrag hat der Ermittlungsrichter des Bundesgerichtshofs am 2. Juli 2025 die Durchsuchung der Person der Beschuldigten sowie der von ihr genutzten Wohn- und Nebenräume einschließlich der dazugehörigen Kellerräume und Garagen nach näher beschriebenen Beweismitteln angeordnet (1 BGs 1375/25).
+
+2 Die Durchsuchung, anlässlich derer verschiedene Gegenstände vorläufig sichergestellt worden sind, ist am 9. Juli 2025 vollzogen worden. Am selben Tag hat der Generalbundesanwalt beim Ermittlungsrichter des Bundesgerichtshofs die Bestätigung der vorläufigen Sicherstellung zum Zwecke der Durchsicht der Gegenstände beantragt.
+
+3 Unter dem 21. Juli 2025 hat die Beschuldigte „gegen den Durchsuchungsbeschluss des Bundesgerichtshofs vom 2. Juli 2025 sowie gegen die erfolgte Sicherstellung/Beschlagnahme“ mit der Begründung Beschwerde eingelegt, sie sei als Verwaltungsangestellte und nicht als „Ortskraft“ für das Generalkonsulat der Republik Türkei in H. tätig, weshalb für sie nach der Regelung des Art. 43 Abs. 1 WÜK Immunität bestehe. Darüber hinaus handele es sich bei den sichergestellten Gegenständen um in erster Linie solche, die sie im Rahmen ihrer beruflichen Tätigkeit verwende, weshalb diese im Hinblick auf die Regelung des Art. 33 WÜK über die Unverletzlichkeit konsularischer Archive und Schriftstücke nicht hätten sichergestellt werden dürfen und herauszugeben seien.
+
+4 Der Ermittlungsrichter des Bundesgerichtshofs hat mit Verfügung vom 25. Juli 2025 der Beschwerde nicht abgeholfen und die Sache dem Senat zur Entscheidung vorgelegt. Zudem hat er mit Beschluss vom selben Tag (1 BGs 1391/25) die vorläufige Sicherstellung zum Zwecke der Durchsicht bestätigt.
+
+5 Der Senat hat die Beschwerde der Beschuldigten mit Beschluss vom 21. August 2025 (StB 37/25), soweit sie die vorläufige Sicherstellung zum Zwecke der Durchsicht betroffen hat, wegen prozessualer Überholung als unzulässig, im Übrigen als unbegründet verworfen.
+
+6 Mit erneuter Beschwerde vom 4. August 2025 hat sich die Beschuldigte gegen den Beschluss des Ermittlungsrichters des Bundesgerichtshofs vom 25. Juli 2025 gewandt, mit dem die vorläufige Sicherstellung zum Zwecke der Durchsicht bestätigt worden ist. Zur Begründung ihres Rechtsmittels hat sie zunächst auf ihre Beschwerdebegründung vom 21. Juli 2025 verwiesen und diese später dahin ergänzt, dass die Durchsuchungsanordnung durch bloße Vermutungen veranlasst worden sei. Zudem unterliege auch das von der Beschuldigten selbst angeschaffte Mobiltelefon dem Anwendungsbereich des Art. 33 WÜK, da es allein darauf ankomme, dass sie dieses beruflich genutzt habe. Schließlich könne – entgegen der Ansicht des Generalbundesanwalts – kein Vergleich zum Umgang mit Verteidigerpost angestellt werden, weil es sich bei den konsularischen Archiven und Schriftstücken um sensible Unterlagen des Konsulats handele.
+
+7 Der Ermittlungsrichter des Bundesgerichtshofs hat dieser Beschwerde ebenfalls nicht abgeholfen und die Sache dem Senat zur Entscheidung vorgelegt.
+
+II.
+
+8 Die zulässige Beschwerde hat in der Sache keinen Erfolg.
+
+9 1. Die Beschwerde gegen die richterliche Bestätigung der vorläufigen Sicherstellung zum Zwecke der noch nicht abgeschlossenen Durchsicht ist zulässig. Die angefochtene Entscheidung betrifft die Durchsuchung im Sinne des § 304 Abs. 5 StPO (vgl. BGH, Beschlüsse vom 20. Mai 2021 – StB 21/21, NStZ 2021, 623 Rn. 6; vom 31. Juli 2018 – StB 4/18, StV 2019, 617 Rn. 9 f.).
+
+10 2. Das Rechtsmittel ist jedoch unbegründet. Die Voraussetzungen der vorläufigen Sicherstellung zum Zwecke der Durchsicht gemäß § 94 Abs. 1, § 98 Abs. 2 Satz 2 analog, §§ 102, 110 Abs. 1 und 3, § 162 Abs. 1, § 169 Abs. 1 Satz 2 StPO liegen weiterhin vor.
+
+11 a) Die vorläufige Sicherstellung gemäß § 110 Abs. 1 und 3 StPO bildet einen Teil der Durchsuchung nach § 102 StPO. Für ihre Rechtmäßigkeit kommt es daher darauf an, ob die Voraussetzungen für eine Durchsuchung im Zeitpunkt der Entscheidung noch vorliegen. Bestehen sie dagegen nicht, ist auch die Durchsicht vorläufig sichergestellter Gegenstände als Teil der Durchsuchung nicht mehr zulässig. Es muss folglich weiterhin ein Anfangsverdacht gegeben und die Durchsicht zum Auffinden von Beweismitteln geeignet und verhältnismäßig sein. An der Eignung mangelt es insbesondere, wenn Beweismittel aufgespürt werden sollen, die einem Beschlagnahmeverbot oder einem sonstigen Verwertungsverbot unterliegen (vgl. BVerfG, Beschlüsse vom 20. September 2018 – 2 BvR 708/18, NJW 2018, 3571 Rn. 25; vom 18. Juni 2008 – 2 BvR 1111/08, juris Rn. 5; BGH, Beschlüsse vom 24. Oktober 2023 – StB 59/23, NStZ-RR 2024, 26, 27; vom 20. Mai 2021 – StB 21/21, BGHR StPO § 98 Abs. 2 Bestätigung 2 Rn. 12 mwN).
+
+12 b) Die danach erforderlichen Voraussetzungen der Durchsuchung – die bereits zum Zeitpunkt der Durchsuchungsanordnung erfüllt waren (s. BGH, Beschluss vom 21. August 2025 – StB 37/25) – sind weiterhin gegeben.
+
+13 aa) Ein Verfahrenshindernis der Immunität folgt weder aus dem Wiener Übereinkommen über konsularische Beziehungen vom 24. April 1963 (WÜK) noch aus einer allgemeinen Funktionsträgerimmunität (vgl. BGH, Beschluss vom 21. August 2025 – StB 37/25).
+
+14 bb) Gegen die Beschuldigte besteht nach wie vor ein die Durchsuchung nach § 102 StPO rechtfertigender Anfangsverdacht.
+
+15 (1) Für die Zulässigkeit einer regelmäßig in einem frühen Stadium der Ermittlungen in Betracht kommenden Durchsuchung genügt der über bloße Vermutungen hinausreichende, auf bestimmte tatsächliche Anhaltspunkte gestützte konkrete Verdacht, dass eine Straftat begangen worden ist und der Verdächtige als Täter oder Teilnehmer an dieser Tat in Betracht kommt. Eines hinreichenden oder gar dringenden Tatverdachts bedarf es – unbeschadet der Frage der Verhältnismäßigkeit – nicht (st. Rspr.; s. etwa BVerfG, Beschluss vom 7. September 2006 – 2 BvR 1219/05, BVerfGK 9, 149, 153; BGH, Beschluss vom 5. Juni 2019 – StB 6/19, juris Rn. 7 mwN).
+
+16 (2) Daran gemessen liegt ein Anfangsverdacht der geheimdienstlichen Agententätigkeit gemäß § 99 Abs. 1 StGB sowie der Anstiftung oder Beihilfe zur Verletzung des Dienstgeheimnisses nach § 353b Abs. 1 Nr. 1, §§ 26, 27 StGB vor.
+
+17 (a) In diesem Sinne ist von folgendem Sachverhalt auszugehen:
+
+18 Am Generalkonsulat der Republik Türkei in H. ist eine Legalresidentur des nationalen türkischen Inlands- und Auslandsnachrichtendienstes Millî İstihbarat Teşkilatı (MIT) angesiedelt, die mit hauptamtlichen Mitarbeitern des MIT besetzt ist. Der MIT dient der türkischen Regierung, dem Staatspräsidenten und dessen Partei für Gerechtigkeit und Aufschwung (AKP) zur Durchsetzung der Regierungspolitik, der Aufrechterhaltung der inneren Sicherheit und der Informationsbeschaffung. In seinem Fokus stehen vor allem Organisationen, welche die Türkei als extremistisch oder terroristisch einstuft, darunter die „Arbeiterpartei Kurdistans“ (PKK). Zudem sammelte der MIT zuletzt vermehrt Informationen zu (vermeintlichen) islam- und türkeifeindlichen Aktivitäten.
+
+19 Im Rahmen ihrer Tätigkeit im türkischen Konsulat war die Beschuldigte jedenfalls auch mit Sachverhalten von sicherheits- bzw. nachrichtendienstlicher Relevanz beschäftigt. Sie unterstützte die Mitarbeiter des MIT logistisch und administrativ, führte Recherchen durch und verfasste Berichte, die infolge der Organisationsstruktur der türkischen Konsulate und Sicherheitsbehörden jedenfalls mittelbar an den MIT übersandt wurden, was die Beschuldigte wusste und billigte. Zudem besuchte sie Veranstaltungen, die durch das türkische Konsulat als kritisch bewertet wurden, beobachtete diese und verfasste im Anschluss hieran ebenfalls Berichte.
+
+20 Spätestens seit dem Jahr 2021 standen die Beschuldigte und eine als Polizistin beim Polizeipräsidium in K. tätige Mitbeschuldigte in regelmäßigem Kontakt, wobei beide sowohl über Telefonie als auch verschlüsselte Messenger-Dienste miteinander kommunizierten. Jedenfalls im Zeitraum vom 29. März 2024 bis zum 27. Februar 2025 leitete die Mitbeschuldigte auf diesem Weg aus K. und mutmaßlich weiteren Orten teilweise auf Nachfrage der Beschuldigten, teilweise aus eigener Initiative wiederholt dienstinterne Informationen und Bewertungen an sie weiter. Die Informationen betrafen vor allem islam- und türkeifeindliche Vorfälle sowie Aktivitäten der PKK oder ihr nahestehender kurdischer Gruppierungen. Der Beschuldigten war dabei bewusst, dass ihr Handeln den Interessen der Bundesrepublik Deutschland zuwiderlief, was sie billigte.
+
+21 Wegen der Einzelheiten der den Anfangsverdacht begründenden Umstände wird auf die detaillierten Ausführungen im Durchsuchungsbeschluss des Ermittlungsrichters des Bundesgerichtshofs vom 2. Juli 2025 Bezug genommen.
+
+22 (b) Der Anfangsverdacht gegen die Beschuldigte ergibt sich maßgeblich aus dem Schreiben des Landesamts für Verfassungsschutz des Bundeslandes Nordrhein-Westfalen vom 28. März 2025 sowie den Protokollen der G 10-Maßnahmen. Aus ersterem gehen insbesondere Erkenntnisse zum türkischen Nachrichtendienst MIT, zu dessen Vorgehensweise, zu den internen Strukturen des türkischen Generalkonsulats in H. sowie zu den persönlichen Verhältnissen der Beschuldigten und der Mitbeschuldigten hervor. Die Protokolle der G 10-Maßnahmen dokumentieren Zeitpunkt und Inhalt der Gespräche beziehungsweise der übermittelten Informationen zwischen beiden. Insoweit handelt es sich nicht nur um Vermutungen, sondern um einen auf bestimmte tatsächliche Anhaltspunkte gestützten konkreten Verdacht.
+
+23 (c) In rechtlicher Hinsicht ist die Beschuldigte der geheimdienstlichen Agententätigkeit gemäß § 99 Abs. 1 StGB tateinheitlich mit einer Vielzahl von Fällen der Anstiftung oder Beihilfe zum Verrat von Dienstgeheimnissen nach § 353b Abs. 1 Nr. 1, §§ 26, 27 StGB verdächtig (zur Klammerwirkung vgl. BGH, Urteil vom 19. Oktober 2017 – 3 StR 211/17, juris; KG, Urteil vom 5. Januar 2017 – (2A) 3 StE 6/16 - 5 (1/16), juris Rn. 534). Auf weitere Einzelheiten der rechtlichen Bewertung kommt es vorliegend nicht an. Das Ministerium des Innern des Landes Nordrhein-Westfalen hat am 30. Juli 2025 die Strafverfolgungsermächtigung erteilt (§ 353b Abs. 4 Satz 1 und 2 Nr. 4 StGB).
+
+24 (d) Die Strafgerichtsbarkeit des Bundes und damit die Zuständigkeit des Ermittlungsrichters des Bundesgerichtshofs für die richterliche Bestätigung der vorläufigen Sicherstellung als Teil der Durchsuchung lag nach § 169 Abs. 1 StPO, § 120 Abs. 1 Nr. 3, § 142 Abs. 1 Nr. 1, § 142a Abs. 1 Nr. 1 GVG vor.
+
+25 c) Die vorläufige Sicherstellung der in dem angefochtenen Beschluss bezeichneten Gegenstände der Beschwerdeführerin und ihre Mitnahme zur Durchsicht sind ebenfalls nicht zu beanstanden.
+
+26 aa) Die vorläufige Sicherstellung dieser Gegenstände hält sich in den Grenzen des Beschlusses des Ermittlungsrichters des Bundesgerichtshofs vom 2. Juli 2025, mit dem die Durchsuchung der Wohnung der Beschwerdeführerin gestattet wurde. Denn dieser nannte als Zweck der Durchsuchung unter anderem die Sicherstellung schriftlicher Aufzeichnungen, Mobiltelefone, Computer und Datenträger sowie sonstiger Gegenstände, die Aufschluss über eine Kommunikation der Beschuldigten mit Mitarbeitern des türkischen Nachrichtendienstes MIT oder sonstiger türkischer Nachrichtendienste, über durch die Beschuldigte ausgeforschte Personen und Sachverhalte, ihre Informationsbeschaffung sowie die Weiterleitung von für den Geheimdienst bestimmte Erkenntnisse geben.
+
+27 bb) Einer Durchsicht steht entgegen der Auffassung der Beschwerdeführerin kein Beschlagnahme- oder sonstiges Verwertungsverbot entgegen, weil nicht feststellbar ist, dass es sich bei den vorläufig sichergestellten Gegenständen um solche handelt, die nach den Regelungen des Wiener Übereinkommens über konsularische Beziehungen unverletzlich sind.
+
+28 (1) Gemäß Art. 33 WÜK sind die konsularischen Archive und Schriftstücke jederzeit unverletzlich, wo auch immer sie sich befinden. Der Ausdruck „konsularische Archive“ umfasst gemäß Art. 1 Abs. 1 Buchst. k WÜK alle Papiere, Schriftstücke, Korrespondenzen, Bücher, Filme, Tonbänder und Register der konsularischen Vertretung sowie die Schlüsselmittel und Chiffriergeräte, die Karteien und die zum Schutz oder zur Aufbewahrung derselben bestimmten Einrichtungsgegenstände. Hierunter fallen insbesondere alle konsularischen Dokumente, die nicht als Außenkorrespondenz zu qualifizieren sind, wie der gesamte interne Aktenbestand (vgl. Richtsteig, Wiener Übereinkommen über diplomatische und konsularische Beziehungen, 2. Aufl., Art. 33 WÜK Nr. 2). Dabei sind nach Art. 33 WÜK auch solche konsularischen Archive erfasst, die sich außerhalb der Räumlichkeiten der konsularischen Vertretung befinden und nicht äußerlich als solche gekennzeichnet, aber objektiv erkennbar sind (Wagner/Raasch/Pröpstl, Wiener Übereinkommen über diplomatische Beziehungen vom 18. April 1961, 2007, Art. 24 WÜD S. 207; Grützner/Pötz/Kreicker, Internationaler Rechtshilfeverkehr in Strafsachen, 96. Lfg., Wiener Übereinkommen über konsularische Beziehungen, Rn. 49).
+
+29 (2) Keiner Entscheidung bedarf an dieser Stelle, ob die Gegenstände, soweit es sich um elektronische Datenträger handelt, unmittelbar vom Anwendungsbereich des Art. 1 Abs. 1 Buchst. k WÜK und damit des Art. 33 WÜK erfasst werden (vgl. hierzu Denza, Diplomatic Law, 4. Aufl., Art. 24 WÜD S. 160 f.; Wagner/Raasch/Pröpstl, Wiener Übereinkommen über diplomatische Beziehungen vom 18. April 1961, 2007, Art. 24 WÜD S. 208; Grützner/Pötz/Kreicker, Internationaler Rechtshilfeverkehr in Strafsachen, 96. Lfg., Wiener Übereinkommen über konsularische Beziehungen, Rn. 49) oder lediglich eine entsprechende Anwendung in Betracht kommt.
+
+30 (3) Denn es bestehen jedenfalls keine konkreten Anhaltspunkte dafür, dass die vorläufig sichergestellten Gegenstände konsularische Archive in diesem Sinne sind, weshalb sie durchgesehen werden können.
+
+31 (a) Insoweit sind die für Verteidigungsunterlagen geltende Erwägungen, wonach eine Durchsicht zulässig ist, wenn nicht offensichtlich ist, dass es sich um Verteidigungsunterlagen handelt (vgl. BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410; Paradissis, NStZ 2023, 449, 451; MüKoStPO/Hauschild, 2. Aufl., § 97 Rn. 31 ff., § 110 Rn. 13), auf den Umgang mit konsularischen Archiven zu übertragen.
+
+32 Entgegen der Ansicht der Beschwerdeführerin liegt eine vergleichbare Interessenslage vor. In beiden Konstellationen stehen sich das Interesse des Betroffenen an der Geheimhaltung besonders vertraulicher Informationen sowie dasjenige der Allgemeinheit und des Staates an einer effektiven Strafverfolgung gegenüber. Dabei wird ersterem der Vorrang eingeräumt; Verteidigungsunterlagen sind in der Regel auf Grundlage strafprozessualer Regelung – wie konsularische Archive infolge ihrer Unverletzlichkeit – dem Zugriff der Ermittlungsbehörden entzogen (s. auch BGH, Urteil vom 25. Februar 1998 – 3 StR 490/97, BGHSt 44, 46, 47 f. für vom Beschuldigten für seine Verteidigung angefertigte Unterlagen). Voraussetzung für diesen weitreichenden Schutz und das vollumfängliche Zurücktreten des Strafverfolgungsinteresses ist jedoch, dass die betreffenden Gegenstände sicher als solche zu qualifizieren sind. Hierzu bedarf es objektiver Umstände. Denn andernfalls könnten Schriftstücke oder Speichermedien dem legitimen Zugriff der Strafverfolgungsbehörden ohne Weiteres dadurch entzogen werden, dass sie, unter Umständen missbräuchlich, als dem rechtlich gewährleisteten Schutz unterliegende Gegenstände deklariert werden (vgl. BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410; Paradissis, NStZ 2023, 449, 451; MüKoStPO/Hauschild, 2. Aufl., § 97 Rn. 31 ff., § 110 Rn. 13).
+
+33 Diese Erwägungen gelten für Verteidigungsunterlagen und konsularische Archive gleichermaßen, da auch die Unverletzlichkeitsgewährleistungen des Wiener Übereinkommens über konsularische Beziehungen nicht bewirken sollen, dass den Strafverfolgungsbehörden des Empfangsstaates ein Zugriff auf Dokumente verwehrt wird, welche die konsularische Tätigkeit nicht betreffen (vgl. Grützner/Pötz/Kreicker, Internationaler Rechtshilfeverkehr in Strafsachen, 96. Lfg., Wiener Übereinkommen über konsularische Beziehungen, Rn. 49).
+
+34 (b) Die in den privaten Wohnräumen der Beschuldigten vorgefundenen und vorläufig sichergestellten Gegenstände waren weder als konsularische Archive gekennzeichnet noch anhand objektiver Merkmale zweifelsfrei als solche identifizierbar. Vielmehr wurden sie gemeinsam mit weiteren privaten Gegenständen der Beschuldigten und ihrer Familie in den allgemeinen Wohnräumen vorgefunden. Die nicht weiter überprüfbare Behauptung der Beschuldigten, dass es sich hierbei um Gegenstände handele, die dienstlich genutzt würden, genügt insoweit nicht. Da nicht feststellbar ist, dass für die vorgefundenen Gegenstände ein Beschlagnahme- oder sonstiges Verwertungsverbot besteht, können sie vorläufig sichergestellt und durchgesehen werden; auf dieser Grundlage erfordern bereits die tatsächlichen Umstände ihre Durchsicht (vgl. für Verteidigungsunterlagen BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410; KK-StPO/Greven, 9. Aufl., § 97 Rn. 25; LR/Tsambikakis, StPO, 28. Aufl., § 110 Rn. 17; Schmitt/Köhler/Köhler, StPO, 68. Aufl., § 110 Rn. 2).
+
+35 cc) Ergibt die Durchsicht, dass es sich bei den vorläufig sichergestellten Gegenständen um konsularische Archive handelt oder sich auf ihnen – etwa bei den sichergestellten Datenträgern – konsularische Archive befinden, so ist das von diesem gesetzlichen Merkmal Erfasste daher ohne weitere Kenntnisnahme herauszugeben beziehungsweise bei angefertigten Datenkopien unverzüglich zu löschen (vgl. BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410; MüKoStPO/Hauschild, 2. Aufl., § 110 Rn. 13; KK-StPO/Greven, 9. Aufl., § 97 Rn. 25, jeweils für Verteidigungsunterlagen). Anderes gilt, soweit sich auf den sichergestellten Gegenständen – vor allem den elektronischen Datenträgern – neben konsularischen Archiven weitere Inhalte befinden; diese bleiben beschlagnahmefähig (vgl. BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410; MüKoStPO/Hauschild aaO, jeweils betreffend Verteidigungsunterlagen).
+
+36 dd) Die vorläufige Sicherstellung der Gegenstände und ihre Durchsicht entspricht darüber hinaus unter Berücksichtigung der grundrechtlich geschützten Belange der Beschuldigten dem Grundsatz der Verhältnismäßigkeit.
+
+37 (1) Die Durchsicht der Gegenstände ist zur Aufklärung der Tat geeignet und erforderlich. Auch zum jetzigen Zeitpunkt liegen zureichende Anhaltspunkte dafür vor, dass die Durchsicht zum Auffinden beweisrelevanter Daten oder Inhalte führen wird, mit deren Hilfe eine Strafbarkeit der Beschuldigten nachgewiesen werden kann (vgl. BGH, Beschluss vom 20. Mai 2021 – StB 21/21, BGHR StPO § 98 Abs. 2 Bestätigung 2 Rn. 12). Weniger einschneidende Mittel sind nicht gegeben. Die vorläufige Sicherstellung steht darüber hinaus in einem angemessenen Verhältnis zu der Schwere der aufzuklärenden Straftat und der Stärke des aufgezeigten Tatverdachts.
+
+38 (2) Die Gegenstände durften aus der Wohnung der Beschuldigten zur Auswertung mitgenommen werden, weil die Durchsicht auf Beweisrelevanz im Rahmen der Wohnungsdurchsuchung vor Ort nicht möglich war (vgl. BGH, Beschlüsse vom 24. Oktober 2023 – StB 59/23, NStZ-RR 2024, 26, 28; vom 20. Mai 2021 – StB 21/21, BGHR StPO § 98 Abs. 2 Bestätigung 2 Rn. 11; MüKoStPO/Hauschild, 2. Aufl., § 110 Rn. 8; LR/Tsambikakis, StPO, 28. Aufl., § 110 Rn. 21). Im Übrigen unterliegen Art, Umfang und Dauer der Durchsicht nach § 110 StPO zunächst der Entscheidung der Ermittlungsbehörde, die hierbei einen eigenverantwortlichen Ermessenspielraum hat (vgl. BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410, 1411; BGH, Beschlüsse vom 20. April 2023 – StB 5/23, juris Rn. 28; vom 5. August 2003 – StB 7/03, BGHR StPO § 105 Abs. 1 Durchsuchung 3 mwN). Eine Überschreitung dieses Ermessenspielraums ist derzeit nicht erkennbar.
+
+Schäfer Berg Voigt
