@@ -1,0 +1,57 @@
+# 31. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-09-03T16:21:00+02:00
+- Ende: 2025-09-03T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13966
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13966
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00575056.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 2.1: Mehr Sicherheit durch adaptive Beleuchtung an der Kanalpromenade – Ausschaltung abschalten!
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Dr. Hermann Peters ein Ehrengrab zuerkennen - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Sunset-Klausel umsetzen - Planungssicherheit und Verlässlichkeit für die Träger schaffen - mehrheitlich beschlossen
+- TOP 11.2: Erhalt und Weiterentwicklung der adaptiven Beleuchtung an der Kanalpromenade zwischen 0 und 5 Uhr - von der Tagesordnung abgesetzt
+- TOP 11.3: Für Geschichtsbewusstsein - Umbenennungen stoppen - von der Tagesordnung abgesetzt
+- TOP 11.4: Würdevolle Versorgung schwerstkranker und sterbender Menschen stärken - einstimmig beschlossen
+- TOP 11.5: Ausbau Albersloher Weg - Stärkung des ÖPNVs und der Anbindung des Südostens! - verwiesen
+- TOP 11.6: Mehr Tempo 30 in Münster - einstimmig beschlossen
+- TOP 12: Toilettenkonzept der Stadt Münster - Bewirtschaftung und Neustrukturierung der öffentlichen Toilettenanlagen - einstimmig geändert beschlossen
+- TOP 13: Beteiligungsangelegenheiten
+- TOP 13.1: Wohn + Stadtbau GmbH (W+S): Jahresabschluss 2024 und Gewinnausschüttung - mehrheitlich beschlossen
+- TOP 13.2: FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH): Jahresabschluss 2024 - mehrheitlich beschlossen
+- TOP 13.3: Klärschlammverwertung Buchenhofen GmbH (KVB GmbH): Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 13.4: Stadtwerke Münster GmbH: Konzernabschluss 2024 - einstimmig beschlossen
+- TOP 13.5: Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü): Jahresabschluss 2024; Bestellung des Abschlussprüfers für den Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 13.6: RELiGIO Westfälisches Museum für religiöse Kultur GmbH (RELiGIO): Kapitalerhöhung / Novellierung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 14: Teilnahme am anteiligen Entschuldungsprogramm nach dem Altschuldenentlastungsgesetz des Landes Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 15: Kinderhaus-Brüningheide - Umsetzung von Maßnahmen zum Sprickmannplatz und dem näherem Umfeld - einstimmig beschlossen
+- TOP 16: WLE-Bahnhof Loddenheide - einstimmig beschlossen
+- TOP 17: Baubeschluss für die Brücke über den Juffernbach; Matthias-Claudius-Schule - einstimmig beschlossen
+- TOP 18: Erweiterung des Schulzentrums Hiltrup - Errichtungsbeschluss für den Neubau einer Dreifach-Sporthalle - mehrheitlich beschlossen
+- TOP 19: "Ganzheitliche Betreuung zum Aufbau der Beschäftigungsfähigkeit" - Maßnahme zur Aktivierung und beruflichen Eingliederung gemäß § 16k SGB II - einstimmig beschlossen
+- TOP 20: Baugebiete Amelsbüren – Nordwestlich Am Dornbusch und Kinderhaus – Langebusch/Westhoffstraße: Übertragung städtischer Grundstücke an Wohn + Stadtbau - einstimmig beschlossen
+- TOP 21: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 22: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 23.1: Für eine sichere Aaseestadt: Verkehr beruhigen - Querungen verbessern - verwiesen
+- TOP 23.2: Ausgabe von Nachttaxi-Gutscheinen für Frauen prüfen - verwiesen
+- TOP 23.3: Wohnraummangel durch Nachverdichtung direkt bekämpfen - Potenziale strategisch erkennen und nutzen! - verwiesen
+- TOP 24: Verschiedenes
