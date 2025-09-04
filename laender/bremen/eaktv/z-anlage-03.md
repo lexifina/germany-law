@@ -49,3 +49,9 @@ Amtsgericht Bremen-Blumenthal | Alle Verwaltungs- und Auslandssachen der Abteilu
 Amtsgericht Bremen-Blumenthal | Alle Hinterlegungssachen der Abteilung 1 | 16. Juni 2025
 Amtsgericht Bremerhaven | Alle Hinterlegungssachen der Abteilung 5 | 30. Juni 2025
 Amtsgericht Bremerhaven | Alle Landwirtschaftssachen der Abteilungen 56 | 30. Juni 2025
+Amtsgericht Bremen | Alle Verfahren in Betreuungssachen in den Abteilungen 202 und 211 | 15. September 2025
+Amtsgericht Bremen | Alle Verfahren in Betreuungssachen in den Abteilungen 200, 201, 203, 210, 212, 220, 221, 222 | 29. September 2025
+Amtsgericht Bremen | Alle sonstigen Verfahren der Abteilung 50 | 29. September 2025
+Amtsgericht Bremen | Alle Hinterlegungssachen der Abteilung 37 | 27. Oktober 2025
+Amtsgericht Bremen- Blumenthal | Alle Verfahren in Betreuungssachen in der Abteilung 60 | 29. September 2025
+Amtsgericht Bremerhaven | Alle Verfahren in Betreuungssachen in der Abteilung 6 | 29. September 2025
