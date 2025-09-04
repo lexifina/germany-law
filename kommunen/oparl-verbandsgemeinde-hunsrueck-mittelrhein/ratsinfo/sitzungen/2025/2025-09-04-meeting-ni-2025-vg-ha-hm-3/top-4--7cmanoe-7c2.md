@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Hauptausschusses der Verbandsgemeinde Hunsrück-Mittelrhein (2025-09-04)
+- Körperschaft: Verbandsgemeinde Hunsrück-Mittelrhein
+- Öffentlich: nein
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/ni_2025-VG_HA_HM-3%7CMAnoe%7C2
