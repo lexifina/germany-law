@@ -1,0 +1,53 @@
+# Gemeinderat (31. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2025-09-04T19:00:00+02:00
+- Ende: 2025-09-04T21:06:00+02:00
+- Ort: Haus des Gastes, Pemberville Platz 1, 32289 Rödinghausen, Raum 12 - Großer Saal
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZch3tJsMdxHMmMddB4Fh9Dw
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2033
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZp0SVZQuV6RDPGlLT8vGwvpcMyRJ2pHIc69H8HDFjG_/Bekanntmachung_Gemeinderat_04.09.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVMi8wN0msLwidRQ8j3f0lexfTykJNVe1IBTvna0CES5/Oeffentliche_Niederschrift_Gemeinderat_04.09.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Carsten Wellenkötter
+- TOP 2.2: Carsten Wellenkötter
+- TOP 2.3: Carsten Wellenkötter
+- TOP 2.4: Hartmut Kröger
+- TOP 2.5: Hartmut Kröger
+- TOP 2.6: Klaus-Hermann Pörtner
+- TOP 2.7: Klaus Hermann-Pörtner
+- TOP 2.8: Klaus-Hermann Pörtner
+- TOP 2.9: Dr. Ansgar Kernder
+- TOP 3.: Anregung nach § 24 GO NRW zur Vorstellung des Entwurfs der Fortschreibung des Klimaschutzkonzeptes in einer Einwohnerversammlung - Beratungsergebnis:11 Ja-Stimme(n), 11 Gegenstimme(n), 4 Stimmenthaltung(en)Aufgrund einer Stimmengleichheit gilt der Beschlussvorschlag damit als abgelehnt.
+- TOP 4.: Fortschreibung des Klimaschutzkonzeptes - Beratungsergebnis:Abgesetzt
+- TOP 5.: 56. Änderung des Flächennutzungsplanes und Aufstellung des Bebauungsplanes Nr. 31 "Habichtweg" -Abwägungs- und Offenlegungsbeschluss - - Beratungsergebnis:17 Ja-Stimme(n), 8 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 6.: 58. Änderung des Flächennutzungsplanes und 1. Änderung des Bebauungsplanes Nr. 11 ,,Gewerbegebiet Bruchstraße'' - Änderungsbeschlüsse - Beratungsergebnis:19 Ja-Stimme(n), 5 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 7.: 59. Änderung des Flächennutzungsplanes und Aufstellung des Bebauungsplanes Nr. 33 "Gewerbegebiet Schnurrbartstraße" - Änderungs- und Aufstellungsbeschluss - Beratungsergebnis:13 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en)Aufgrund einer Stimmengleichheit gilt der Beschlussvorschlag damit als abgelehnt.
+- TOP 8.: Einziehung von Teilflächen der Wirtschaftswege Gemarkung Ostkilver, Flur 1, Flurstücke 213 (historische Flurstücksbezeichnung: 73) und 71; Erlass einer Satzung zur Änderung des Umlegungsplanes von Ostkilver im Umlegungsverfahren Ostkilver – O.310 - - Beratungsergebnis:Einstimmig
+- TOP 9.: Bericht über die Haushaltsbewirtschaftung 2025 der Gemeinde Rödinghausen
+- TOP 10.: Mitteilungen der Verwaltung
+- TOP 10.1: Förderung Spielplatz Sperlingweg
+- TOP 11.: Anfragen von Ratsmitgliedern
+- TOP 11.1: Ratsmitglied Dirk Kleineweber
+- TOP 11.2: Ratsmitglied Malte Schäffer
+- TOP 11.3: Ratsmitglied Dennis Worminghaus
+- TOP 11.4: Ratsmitglied Dirk Kleineweber
+- TOP 11.5: Ratsmitglied Jan Rollman
+- TOP 11.6: Ratsmitglied Andrea Haack
+- TOP 11.7: Ratsmitglied Andre Poerting
+- TOP 11.8: Ratsmitglied Thomas Lübeck
+- TOP 11.9: Ratsmitglied Thomas Lübeck
+- TOP 11.10: Ratsmitglied Malte Schäffer
+- TOP 11.11: Ratmitglied Reinhard Uthoff
+- TOP 11.12: Ratsmitglied Dirk Blank
+- TOP 11.13: Ratsmitglied Reinhard Uthoff
+- TOP 11.14: Ratsmitglied Reinhard Uthoff
+- TOP 11.15: Ratsmitglied Andre Poerting
