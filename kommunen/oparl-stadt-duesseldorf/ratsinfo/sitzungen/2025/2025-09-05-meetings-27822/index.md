@@ -1,0 +1,63 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-09-05T14:00:00+02:00
+- Ende: 2025-09-05T16:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27822
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27822
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00561659.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00561659.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00561659.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 27.06.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Bericht von Kohl eG über Streetwork in der Altstadt - zur Kenntnis genommen
+- TOP 4.2: Mündlicher Bericht vom Fachbereich Wohnungsaufsicht des Amtes für Wohnungswesen - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Bebauungsplan-Vorentwurf Nr. 01/029 - Berliner Allee 1 (P&C) - Öffentlichkeitsbeteiligung - Empfehlung mehrheitlich beschlossen
+- TOP 4.5: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 01/032 - Kennedydamm 55/Roßstraße - Empfehlung mehrheitlich beschlossen
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2025 - einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Umbau Deportationsmahnmal im Maurice-Ravel-Park -Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses- - einstimmig beschlossen
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Dauerhafte Einschränkung des Fußverkehrs auf der Charlottenstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6: Informationsvorlagen
+- TOP 6.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 6.2: Fahrradstationen oder Fahrradboxen o.Ä. in der Altstadt und Carlstadt; Beschluss der Bezirksvertretung 1 vom 28.03.2025; BV1/067/2025 - zur Kenntnis genommen
+- TOP 6.3: Kennzeichnung des Radwegs im Berty-Albrecht-Park; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/160/2025 - zur Kenntnis genommen
+- TOP 6.4: Geschwindigkeitsüberschreitungen auf dem Zubringer der Toulouser Allee (Hausnummer 3-27); Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/118/2025 - zur Kenntnis genommen
+- TOP 6.5: Versetzen einer Behelfsampel; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/154/2025 - zur Kenntnis genommen
+- TOP 6.6: Instandsetzung der Hochwasserschlange am Robert-Lehr-Ufer; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/164/2023 - zur Kenntnis genommen
+- TOP 6.7: Reinigung und Neuanstrich Geländer Spee’scher Graben entlang der Poststraße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/039/2022 - zur Kenntnis genommen
+- TOP 6.8: Erneuerung des Pflasters auf dem Carl-Mosterts-Platz; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/173/2025 - zur Kenntnis genommen
+- TOP 6.9: Aufenthaltsqualität auf dem kleinen Platz Winkelsfelder Straße/Blücherstraße; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/105/2025 - zur Kenntnis genommen
+- TOP 6.10: Zusätzliche Anzeigetafel am Anfang der Poststraße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/174/2025 - zur Kenntnis genommen
+- TOP 6.11: Rote Einfärbung der Radspur auf der Kreuzung Klever Straße/Fischerstraße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/161/2025 - zur Kenntnis genommen
+- TOP 6.12: Rote Einfärbung der Radspur auf der Kreuzung Heinrich-Ehrhardt-Straße/Ecke Rather Straße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/162/2025 - zur Kenntnis genommen
+- TOP 6.13: Kennzeichnung des Radwegs entlang der Marc-Chagall-Straße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/166/2025 - zur Kenntnis genommen
+- TOP 6.14: Vervollständigung der Parkraumbewirtschaftung in der Bendemannstraße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/163/2025 - zur Kenntnis genommen
+- TOP 6.15: Tempo 30 auf der Adlerstraße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/165/2025 - zur Kenntnis genommen
+- TOP 6.16: Weiterführung des Radwegs vor dem Gebäude „Horizon“ (L’Oreal) auf der Johannstraße; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/167/2025 - zur Kenntnis genommen
+- TOP 6.17: Behinderung Kaiserswerther Str. 91; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/155/2025 - zur Kenntnis genommen
+- TOP 7: Verfügungsmittel der Bezirksvertretung 1
+- TOP 7.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Bankstraßenfest - mehrheitlich beschlossen
+- TOP 7.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Grundschule für St. Martin - einstimmig beschlossen
+- TOP 7.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Grundschule für das Gewaltpräventionsprogramm "Stark auch ohne Muckis" - mehrheitlich beschlossen
+- TOP 7.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein St. Benedikt Schule für den Schulgarten - mehrheitlich beschlossen
+- TOP 7.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für ein Ausstellungsprojekt mit der Klasse Bircken der Kunstakademie Düsseldorf an 701 e.V. - mehrheitlich beschlossen
+- TOP 7.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Diakonie Düsseldorf für das Projekt Worringer Kaffeeklatsch - mehrheitlich beschlossen
+- TOP 7.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an CVJM e.V. für eine Weihnachtsfeier für alleinstehende Männer - abweichend beschlossen
+- TOP 7.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Run Iran für sportliche und technische Ausrüstung - mehrheitlich beschlossen
+- TOP 7.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein der Komischen Oper am Rhein e.V. für DonGiovanni2025 - einstimmig beschlossen
