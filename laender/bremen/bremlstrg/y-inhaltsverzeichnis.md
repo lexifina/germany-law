@@ -46,6 +46,7 @@ Schutzmaßnahmen | Schutzmaßnahmen
 8. Abschnitt Straßenbenennung
 § 37 | Straßenbenennung
 § 38 | Namen für Privatwege
+§ 38a | Hausnummerierung
 9. Abschnitt Straßenreinigung
 § 39 | Straßenreinigung
 § 40 | Verunreinigungen
@@ -64,4 +65,5 @@ Schutzmaßnahmen | Schutzmaßnahmen
 § 48 | Ordnungswidrigkeiten
 14. Abschnitt Schlußvorschriften
 § 49 | Aufhebung und Änderung von Vorschriften
+§ 49a | Übergangsregelung
 § 50 | Inkrafttreten
