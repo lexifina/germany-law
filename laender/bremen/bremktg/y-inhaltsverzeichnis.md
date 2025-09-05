@@ -13,6 +13,7 @@ Abschnitt 3: Träger, Ausstattung und Betrieb der Tageseinrichtungen
 § 8 | Träger der Tageseinrichtungen
 § 9 | Räumliche Erfordernisse
 § 10 | Fachkräfte
+§ 10a | Mindestpersonalausstattung
 § 11 | Aufnahme von Kindern
 § 12 | Gesundheitsvorsorge
 § 13 | Zusammenarbeit mit Elterngruppen und Elterngremien
@@ -31,4 +32,4 @@ Abschnitt 6: Angebotsplanung und Finanzierung der Tageseinrichtungen
 § 20a | Datenübermittlung
 Abschnitt 7: Schlussbestimmungen
 § 21 | Haushaltsvorbehalt
-§ 22 | Inkrafttreten
+§ 22 | Evaluierung
