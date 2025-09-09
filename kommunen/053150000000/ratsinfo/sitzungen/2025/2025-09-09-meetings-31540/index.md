@@ -1,0 +1,87 @@
+# 37. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-09T17:30:00+02:00
+- Ende: 2025-09-09T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31540
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31540
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch von Herrn Beigeordneten Stefan Charles
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingaben gem. § 24 GO, Umsetzung eines Superblock-Konzepts für das Nippeser Clouth-Quartier („LebeVeedel“-Konzept) - geändert beschlossen
+- TOP -: Änderungsantrag zu 1903/2025 (Bürgereingabe "LebeVeedel", TOP 2.1): Modul 1 und 3 zeitnah umsetzen - ungeändert beschlossen
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Öffentlicher Hundetrainingsplatz für Spielplatz, Aktenzeichen 145/24 - Kenntnis genommen
+- TOP 2.3: Bürgereingabe nach § 24 GO NRW - Regelwidriges Abstellen/Parken von Wohnwagen, Az. 61/25 - Kenntnis genommen
+- TOP 2.4: Bürgereingabe nach § 24 GO– Aufstellung einer Tischtennisplatte in Köln-Longerich, Aktenzeichen 63/25 - geändert beschlossen
+- TOP 2.5: Mitteilung zur Bürgereingabe nach § 24 GO– Fußgängerüberweg an der Kreuzung Niehler Straße / Gneisenaustraße, Aktenzeichen 59/25 - geändert beschlossen
+- TOP -: Änderung zur Bürgereingabe Fußgängerüberweg Niehler Str. / Gneisenaustr. (TOP Ö.2.5. BV Nippes 9.9.2025) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - vertagt
+- TOP 7.1.4: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.5: Nutzung von Fahrradboxen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.6: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - vertagt
+- TOP 7.1.7: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - vertagt
+- TOP 7.1.8: Nachfragen bzgl. Baubeschluss zur Umsetzung provisorischer und vorgezogener Maßnahmen 2023 (3669/2022) - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Nippes vom 22.05.2025 betr. "Nachfragen bzgl. Baubeschluss zur Umsetzung provisiorischer u.vorgezogener Maßnahmen 2023 (3669/2022) (AN/0564/2025) - Kenntnis genommen
+- TOP 7.1.9: Baustellenabsperrung Lohsestraße und Holbeinstraße - vertagt
+- TOP 7.1.10: Zuständigkeit Reinigung Fußwege für S-Bahnhof Geldernstraße/Parkgürtel - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung der Bezirksvertretung Nippes vom 14.05.2025 (AN/0638/2025) betr.: "Zuständigkeit Reinigung Fußwege für S-Bahnhof Geldernstraße/Parkgürtel" - Kenntnis genommen
+- TOP 7.1.11: Sachstandsanfrage zur weiteren Nutzung des ehemaligen Krankenhauses Pallenbergstraße 24 - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion vom 11. Juni 2025 (AN/0871/2025) betreffend den Sachstand zur weiteren Nutzung des ehemaligen Krankenhauses - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Geplante Nutzungsänderung Turmstraße 3-5 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1050/2025 zum Gebäude Turmstr. 3-5 in Köln-Nippes - Kenntnis genommen
+- TOP 7.2.2: Projekt Gesundheitsregion zur Beteiligung von Einwohner:innen am Gesundheitswesen 3106/2024 - vertagt
+- TOP 7.2.3: Bauzaun am Stammgebäude der Gemeinschaftsgrundschule Halfengasse/Niehler Dömchen (Alt Katharinen) - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1198/2025 der Fraktion Bündnis 90/Die Grünen bezüglich des Bauzauns am Stammgebäude der Gemeinschaftsgrundschule Halfengasse / Niehler Dömchen (Alt Katharinen) - Kenntnis genommen
+- TOP 7.2.4: Anfrage Sicherheit auf der Fahrradstraße: Etzelstraße - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einführung von Tempo 30 auf dem Niehler Damm zwischen Sebastianstraße (Kreisverkehr) und Bremerhavener Straße - ungeändert beschlossen
+- TOP 8.1.2: Entsiegelung und Begrünung von nicht befahrbaren Flächen auf dem nördlichen Teil des Niehler Damms - ungeändert beschlossen
+- TOP 8.1.3: Anpassung der Basketballkörbe auf dem Sportplatz Heckweg an die reguläre Spielhöhe - vertagt
+- TOP 8.1.4: BoM: Aufwandsentschädigungen der Jugendvertreter:innen im Schuljahr 2025/2026 - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umbenennung Gustav-Nachtigal-Straße - der neue Straßenname - geändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an den SKM Köln e.V. - ungeändert beschlossen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an den Bundesverband Information & Beratung für NS-Verfolgte - 1 - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an den Bundesverband Information & Beratung für NS-Verfolgte - 2 - ungeändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an die Sportjugend im Stadtsportbund e.V. - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an Zug um Zug e.V. - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die Edith-Stein-Realschule - ungeändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an Nachbarn60 e.V. - ungeändert beschlossen
+- TOP 9.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an die Kölner Spielewerkstatt e.V. - ungeändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an den Förderverein Willkommen in Nippes e.V. - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 9.2.2: Änderung der Hauptsatzung der Stadt Köln und der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln, hier: Anpassung aufgrund der Änderung der Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Digitale & hybride Gremiensitzungen: Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung – Vergabegrundsätze Sportstätten - Kenntnis genommen
+- TOP 10.2.3: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): hier Beteiligung der BVen nach Marktöffnung - Kenntnis genommen
+- TOP 10.2.4: Neue Fahrradabstellplätze in Nippes - Kenntnis genommen
+- TOP 10.2.5: Niederschrift zur 15. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 01.04.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 10.2.6: Qualitätsbericht 2024 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.7: Abschlussbericht zum Kinder- und Jugendbeteiligungsformat Veedels-Check unter dem Titel „HEY Nippes- Check mit uns dein Veedel“ - Kenntnis genommen
+- TOP 10.2.8: Arbeitsergebnisse der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 10.2.9: Machbarkeitsstudie "Expressbusnetz Köln" - Kenntnis genommen
