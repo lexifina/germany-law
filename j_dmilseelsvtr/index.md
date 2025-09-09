@@ -50,4 +50,3 @@
 - [Art 23](art-23.md)
 - [Schlussformel](schlussformel.md)
 - [(XXXX) Schlussprotokoll](xxxx.md)
-- [Schlussformel](schlussformel-2.md)

@@ -11,5 +11,5 @@
 - [§ 8 Zwischenprüfung](0008.md)
 - [§ 9 Abschlussprüfung](0009.md)
 - [§ 10 Übergangsregelung](0010.md)
-- [§ 11 Weitere Übergangsregelung](0011.md)
+- [§ 11 Außerkrafttreten](0011.md)
 - [Anlage (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin](anlage.md)

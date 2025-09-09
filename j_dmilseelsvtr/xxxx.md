@@ -24,3 +24,8 @@ Die Vertragsparteien sind sich einig, dass mindestens in den ersten fünf Jahren
 Zu Artikel 21
 Die Vertragsparteien sind sich einig, dass jeder Militärrabbiner und jede Militärrabbinerin in Außenstellen zunächst durch zumindest zwei Hilfskräfte unterstützt wird.
 Die Entscheidung über das Erfordernis der Zugehörigkeit zum jüdischen Glauben zur Ausübung des Hilfsdienstes, erfolgt im Einvernehmen mit dem Zentralrat der Juden in Deutschland. Die Zugehörigkeit zum jüdischen Glauben muss durch den Zentralrat der Juden in Deutschland ausdrücklich anerkannt werden.
+Berlin, den 20. Dezember 2019
+| Für die Bundesrepublik Deutschland | Für den Zentralrat der Juden in Deutschland |
+| Frau Annegret Kramp-Karrenbauer Bundesministerin der Verteidigung | Herr Dr.Josef Schuster Präsident |
+|  | Herr Mark Dainow Vizepräsident |
+|  | Herr Abraham Lehrer Vizepräsident |
