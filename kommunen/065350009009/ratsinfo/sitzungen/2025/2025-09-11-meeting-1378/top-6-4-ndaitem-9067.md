@@ -1,0 +1,7 @@
+# TOP 6.4: Anfrage Fraktion BÜRGERFORUM betreffend Öffnung des Freibads
+
+- Sitzung: Stadtverordnetenversammlung der Stadt Homberg (Ohm) (50. Sitzung) (2025-09-11)
+- Körperschaft: Stadt Homberg (Ohm)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/agendaitem/9067
+- Beratung: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/consultation/7167
