@@ -1,0 +1,102 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-09-11T18:35:00+02:00
+- Ende: 2025-09-11T20:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3682
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3682
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00167286.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00167286.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00167286.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Bestellung eines stellv. Schriftführers - einstimmig beschlossen
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 5: Finanzzwischenbericht zum 30.06.2025 - Kenntnisnahme
+- TOP 6: Standorte für die Unterbringung geflüchteter Menschen (Ergänzung zu Vorlage 462/2023) - einstimmig beschlossen
+- TOP 7: Neubau Feuerwehrhaus in Gustorf-Gindorf auf Grundlage des Ratsbeschlusses Nummer 236/2025 vom 08.05.2025 - einstimmig beschlossen
+- TOP 8: Brückenbauwerk 63 an der Obstwiese - einstimmig beschlossen
+- TOP 9: Generalinstandsetzung Düsseldorfer Straße und Goethestraße - einstimmig beschlossen
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 10.1.1: Absichtserklärung 4-gruppige Kindertageseinrichtung N47 - Lohweg - einstimmig beschlossen
+- TOP 10.2: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 10.2.1: BP N 47 Beschluss städtebaul. Vertrag RAT - mehrheitlich beschlossen
+- TOP 10.2.2: Aufstellung des Bebauungsplanes Nr. N 47 „Lohweg“ – Ortsteil Neukirchen - mehrheitlich beschlossen
+- TOP 10.2.3: Aufstellung der 39. Änderung des Flächennutzungsplanes "Einzelhandel Am Rittergut" – Ortsteil Noithausen - einstimmig beschlossen
+- TOP 10.2.4: BP G 234 Beschluss Durchführungsvertrag RAT - einstimmig beschlossen
+- TOP 10.2.5: Aufstellung des Bebauungsplanes Nr. G 234 "VEP Einzelhandel Am Rittergut" – Ortsteil Noithausen - einstimmig beschlossen
+- TOP 10.2.6: Aufstellung der 1. Änderung des Bebauungsplanes Nr. G 207 "Baubetriebshof Am Rittergut" - Ortsteil Noithausen - einstimmig beschlossen
+- TOP 10.2.7: BP W 59 Info Entwurf städtebaul. Vertrag RAT - Kenntnisnahme
+- TOP 10.2.8: Bebauungsplan Nr. W 59 „An der Heckstraße" – Ortsteil Wevelinghoven - einstimmig beschlossen
+- TOP 10.2.9: Integriertes Stadtentwicklungskonzept (ISEK) "Flutgrabenquartier" - einstimmig beschlossen
+- TOP 10.2.10: Beschluss des Rahmenplans zur nachhaltigen städtebaulichen Entwicklung der Innenstadt - einstimmig beschlossen
+- TOP 10.2.11: Aufstellung des Bebauungsplanes Nr. G 241 "Östliche Merkatorstraße" - Ortsteil Stadtmitte - wird nachgereicht! - einstimmig beschlossen
+- TOP 11: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 11.1: Lachgasmissbrauch in Grevenbroich (Anfrage Nr.:41/2025) - Kenntnisnahme
+- TOP 11.2: Anfrage zu möglichen Parkverboten (Anfrage Nr.:58/2025) - Kenntnisnahme
+- TOP 11.3: Keine de facto Beitragserhöhungen für Eltern der neuen Kita durch Parkgebühren in der Coens-Galerie (Antrag Nr.:61/2023) - Kenntnisnahme
+- TOP 11.4: Anfrage zur illegalen Müllentsorgung (Anfrage Nr.:60/2025) - Kenntnisnahme
+- TOP 11.5: Bergmannampeln in Grevenbroich (Antrag Nr. 66/2025) - Kenntnisnahme
+- TOP 11.6: Änderung des Grundgesetzes / Auswirkungen des sogenannten „Infrastruktur-Sondervermögens“ auf die Stadt Grevenbroich (Antrag 32/2025) - Kenntnisnahme
+- TOP 11.7: Anfrage zum Hochwasserschutz in GV-Orken (Anfrage Nr.:59/2025) - Kenntnisnahme
+- TOP 11.8: Entwendete Einkaufswagen im Stadtgebiet (Antrag Nr.:141/2024) - Kenntnisnahme
+- TOP 11.9: Sachstandsbericht: Digitale Ausschusssitzungen und "Rats-TV" - Kenntnisnahme
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: Anträge der SPD-Fraktion
+- TOP 12.1.1: Schützenplatz / Jugendfreizeitfläche in Hemmerden (Antrag Nr.:102/2025) - einstimmig beschlossen
+- TOP 12.1.2: Verbesserung der Verkehrssicherheit und Verkehrsberuhigung an der K33 (Kottenkamp / Herzogstraße / Hülchrather Straße) (Antrag Nr.:101/2025) - einstimmig beschlossen
+- TOP 12.1.3: Errichtung eines Verkehrsspiegels Unterbruch Straße / Erft Straße (Antrag Nr.:100/2025) - einstimmig beschlossen
+- TOP 12.1.4: Errichtung eines Verkehrsspiegels Hansend (Antrag Nr.:99/2025) - einstimmig beschlossen
+- TOP 12.1.5: Prüfung eines bedarfsgerechten Ausbaus der Schulsozialarbeit (Antrag Nr.:105/2025) - einstimmig beschlossen
+- TOP 12.2: Anträge der CDU-Fraktion
+- TOP 12.2.1: Ankauf des Gebäudekomplexes mit historischem Rathaus in Wevelinghoven (Antrag Nr.:78/2025) - einstimmig beschlossen
+- TOP 12.2.2: Umwandlung eines bestehenden Tennisplatzes in einen Pickleballplatz auf dem Vereinsgelände des TC Rot-Weiß Grevenbroich e.V.(Antrag Nr.:104/2025) - einstimmig beschlossen
+- TOP 12.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 12.4: Anträge der FDP-Fraktion
+- TOP 12.4.1: Vorsprung nutzen - Gindorf unbedingt weiter voranbringen: Erfolgreich initiierter Prozess zur Nachnutzung des Feuerwehrgerätehauses in Gindorf konkretisieren (Antrag Nr.:88/2025) - einstimmig beschlossen
+- TOP 12.4.2: Verkauf des ehemaligen Rathauses der Stadt Wevelinghoven (Antrag Nr.:74/2025) - einstimmig beschlossen
+- TOP 12.4.3: Windelsäcke und Restmülltonnen - Bürgerinnen und Bürger beteiligen (Antrag Nr.:94/2025) - einstimmig beschlossen
+- TOP 12.4.4: Kirmesplatz Kapellen braucht Schützenfest und Parkplätze (Antrag Nr.:95/2025) - einstimmig beschlossen
+- TOP 12.4.5: Wohnmobilstellplätze als Tourismusfaktor in und für die Stadt Grevenbroich (Antrag Nr.:93/2025) - einstimmig beschlossen
+- TOP 12.4.6: Stadtteil Neuenhausen bei der Beschilderung der B59 berücksichtigen (Antrag Nr.:92/2025) - einstimmig beschlossen
+- TOP 12.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 12.5.1: Errichtung eines Multi Courts auf dem alten Aschenplatz der Katholischen Grundschule Arche Noah in Noithausen (Antrag Nr.:79/2025) - einstimmig beschlossen
+- TOP 12.5.2: Prüfauftrag Beleuchtung von Tunnel (Antrag Nr.:98/2025) - einstimmig beschlossen
+- TOP 12.5.3: Lärmschutzmessungen - Lärmschutzmaßnahmen (Antrag Nr.:97/2025) - einstimmig beschlossen
+- TOP 12.5.4: Prüfauftrag (Antrag Nr.:96/2025) - einstimmig beschlossen
+- TOP 12.6: Anträge der UWG-Fraktion
+- TOP 12.7: Anträge der GGV-Fraktion
+- TOP 12.8: Gemeinschaftsanträge
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfragen der SPD-Fraktion
+- TOP 13.2: Anfragen der CDU-Fraktion
+- TOP 13.2.1: Mittelstandsbarometer 2025 - Bewertung der Stadt Grevenbroich (Anfrage Nr.:103/2025) - Kenntnisnahme
+- TOP 13.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 13.4: Anfragen der FDP-Fraktion
+- TOP 13.4.1: Digitalisierungsrendite - Teilaspekt Papierverbrauch in der Stadtverwaltung (Anfrage Nr.:89/2025) - Kenntnisnahme
+- TOP 13.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 13.6: Anfragen der UWG-Fraktion
+- TOP 13.7: Anfragen der GGV-Fraktion
+- TOP 13.8: Anfragen von Einzelratsmitgliedern
+- TOP 13.8.1: Anfrage auf Einführung eins "Qualitätsmanagement für Straßenmusik" (Anfrage Nr: 80/2025) - Kenntnisnahme
+- TOP 13.8.2: Anfrage auf Förderung zur Bildung von Genossenschaften im Stadtgebiet Grevenbroich (Anfrage Nr.: 81/2025) - Kenntnisnahme
+- TOP 13.8.3: Anfrage zu möglichem Neueinbauverbot von Gas- und Ölheizungen Stadtgebiet GV (Anfrage Nr.: 82/2025) - Kenntnisnahme
+- TOP 13.8.4: Anfrage zu möglichem Verbot der Nutzung des Schlossbad GV von Ausländern (Anfrage Nr.: 83/2025) - Kenntnisnahme
+- TOP 13.8.5: Anfrage zur möglichen Anschaffung von ATV-Quad für Feuerwehr GV (Anfrage Nr.: 86/2025) - Kenntnisnahme
+- TOP 13.8.6: Anfrage auf Aufstellung behindertengerechter E-Ladesäulen im Stadtgebiet GV (Anfrage Nr.: 87/2025) - Kenntnisnahme
+- TOP 13.8.7: Anfrage zu Razzien gegen Sozialbetrug im Stadtgebiet GV (Anfrage Nr.:84/2025) - Kenntnisnahme
+- TOP 13.8.8: Anfrage zum möglichem Schweinefleisch-Verbot in städtischen Schulmensa (Anfrage Nr.:85/2025) - Kenntnisnahme
+- TOP 13.8.9: Anfrage auf Einführung eines neuen Sicherheitskonzeptes für städtische Schulen und KITA in GV (Anfrage Nr.:75/2025) - Kenntnisnahme
+- TOP 13.8.10: Anfrage zum Kauf des Magazins "Compact" im ABO für den Politikunterricht (Anfrage Nr.:76/2025) - Kenntnisnahme
+- TOP 13.8.11: Anfrage um Aufstellung eines Wartehaus Bushaltestelle "Platz der deutschen Einheit" an der Kaplan-Hahn-Straße (Anfrage Nr.:77/2025) - Kenntnisnahme
+- TOP 13.8.12: Anfrage auf mögliche Einführung eines Sicherheitsdienstes an städtischen Schulen (Anfrage Nr.:90/2025) - Kenntnisnahme
+- TOP 13.8.13: Anfrage nach Abgabe von Überlastungsanzeigen von städtischem Lehrpersonal im Jahr 2025 (Anfrage Nr.:91/2025) - Kenntnisnahme
+- TOP 14: Mitteilungen des Bürgermeisters
