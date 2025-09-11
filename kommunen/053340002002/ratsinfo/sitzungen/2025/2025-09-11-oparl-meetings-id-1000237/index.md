@@ -1,0 +1,53 @@
+# Sitzung des Planungsausschusses
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-09-11T17:00:00+02:00
+- Ende: 2025-09-11T21:10:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000237
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000237
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1444103&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 05.06.2025 - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 08.05.2025 - ungeändert beschlossen
+- TOP 4: Erweiterungsbaumaßnahme der KGS Auf der Hörn - Baubeschluss - ungeändert beschlossen
+- TOP 5: Bebauungsplan Nr. 1012 - Grauenhofer Weg / Stettiner Straße -; hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB - Empfehlung zum Satzungsbeschluss - vertagt
+- TOP 6: Altstadtquartier Büchel: Sachstandsbericht zu den Vorbereitenden Untersuchungen (VU) nach § 141 Baugesetzbuch - zur Kenntnis genommen
+- TOP 7: Altstadtquartier Büchel hier: Ausführungsbeschluss 1. Bauabschnitt (Phasen I und II) für Frei- und Verkehrsflächen auf städtischen Flächen und Kenntnisnahme der Ausführungsplanung auf den Flächen der SEGA - geändert beschlossen
+- TOP 8: Aachener Bäche sichtbar und erlebbar machen in Klappergasse und Rennbahn; Vorstellung der aktuellen Planung - geändert beschlossen
+- TOP 9: Sachstand Sondernutzungssatzung sowie Leitlinien Außengastronomie - Tagesordnungsantrag der Fraktionen Bündnis 90/ Die Grünen und SPD vom 12.08.2025 - Bürgerforum am 9. September 2025 "Anregung zur Flexibilisierung der Sondernutzungsregelungen für die Außengastronomie für eine lebenswerte und attraktive Innenstadt" - geändert beschlossen
+- TOP 10: Premiumfußwege; hier: Planung und Aufstellung von Bänken entlang der Premiumfußwege - ungeändert beschlossen
+- TOP 11: Integrierte Stadtentwicklung "Zukunft Forst" - weiteres Vorgehen und aktuelle Entwicklungen - zur Kenntnis genommen
+- TOP 12: Sanierungsrechtliche Gebote für Einzelobjekte Tagesordnungsantrag der Fraktion Die Linke vom 02.05.2025 - zur Kenntnis genommen
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. 1004 - Monheimsallee / ehemaliges Knappschaftsgebäude - hier: Durchführungsvertrag - zur Kenntnis genommen
+- TOP 14: Bebauungsplan Nr. 1016 - Reumontstraße / Leonhardstraße -; hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB, - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB, - Empfehlung zum Satzungsbeschluss - ungeändert beschlossen
+- TOP 15: Vorhabenbezogener Bebauungsplan Nr. 993 - Südstraße / Mariabrunnstraße -; hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB - Empfehlung zum Satzungsbeschluss - ungeändert beschlossen
+- TOP 16: Aufhebung des Aufstellungsbeschlusses A 102 – Mariabrunnstraße –; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 17: Aufhebung der Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB - Boxgraben / Südstraße - - ungeändert beschlossen
+- TOP 18: Bebauungsplan Nr. 1015 - Liebigstraße / Metzgerstraße -; hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (1) BauGB, - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (1) BauGB, - Aufstellungsbeschluss und Beschluss über die Veröffentlichung im Internet sowie die öffentliche Auslegung - ungeändert beschlossen
+- TOP 19: I. Änderung Bebauungsplan Nr. 593 - Hünefeldstraße/ Hickelweg -; hier: Sachstandsbericht und Beschluss der weiteren Vorgehensweise - vertagt
+- TOP 20: Vorhabenbezogener Bebauungsplan Nr. 1022 - Freunder Weg / Zeppelinstraße -; hier: Sachstandsbericht und Beschluss des städtebaulichen Konzeptes - vertagt
+- TOP 21: Bebauungsplan Nr. 1023 - Freunder Weg / Eisenbahnweg -; hier: Sachstandsbericht und Beschluss des städtebaulichen Konzeptes - vertagt
+- TOP 22: Teilaufhebung des Bebauungsplans Nr. 1000 N - Erweiterung Uniklinik - für den Bereich zwischen Kullenhofstraße, Steinbergweg und Pariser Ring; hier: Einleitung des Aufhebungsverfahrens - ungeändert beschlossen
+- TOP 23: Sachstandsbericht Bauvorhaben Kita und Seniorenzentrum Richterich Tagesordnungsantrag der Fraktionen Bündnis 90/ Die Grünen und SPD vom 12.08.2025 - zur Kenntnis genommen
+- TOP 24: Vorhabenbezogener Bebauungsplan Nr. 985 - Banker-Feld-Straße / Amstelbachstraße -; hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (1) BauGB, - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (1) BauGB, - Beschluss über die Veröffentlichung im Internet sowie die öffentliche Auslegung - ungeändert beschlossen
+- TOP 25: 7. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) - vertagt
+- TOP 26: 7. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) - vertagt
+- TOP 27: Temporäre Testphase zur Erprobung von Passantenstoppern im Innenstadtbereich - ungeändert beschlossen
+- TOP 28: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
