@@ -1,0 +1,8 @@
+# TOP 5: Finanzzwischenbericht zum 30.06.2025
+
+- Sitzung: Rat der Stadt Grevenbroich (2025-09-11)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/152829
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/26720
