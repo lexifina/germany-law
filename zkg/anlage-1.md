@@ -30,7 +30,7 @@ Ermächtigung durch den Kontoinhaber zur Kontenwechselhilfe
 |  |  |  | Hinweis: Die Anweisung, Lastschriften und eingehende Überweisungen nicht mehr zu akzeptieren, kann insbesondere dann gestrichen werden, wenn der übertragende Zahlungsdienstleister eine automatische Umleitung der eingehenden Überweisungen und Lastschriften auf das beim empfangenden Zahlungsdienstleister geführte Zahlungskonto des Kunden vorsieht. |
 |  | ☒ * b) | Daueraufträge nicht mehr auszuführen |
 |  |  | ☒ * | ab dem oben angegebenen Datum des Kontenwechsels |
-|  |  | ** | ab dem . . . . . . (bitte gewünschtes Datum einsetzen), |
+|  |  | ☐ ** | ab dem . . . . . . (bitte gewünschtes Datum einsetzen), |
 |  |  | ☒ * | wobei dies für alle Daueraufträge gelten soll, |
 |  |  | ☐ ** | wobei dies nur für bestimmte bzw. nicht für sämtliche Daueraufträge gelten soll; zu den zu erfassenden bzw. auszunehmenden Daueraufträgen siehe die Angaben im Beiblatt; |
 |  | ☒ * c) | einen positiven Saldo des Zahlungskontos des Kunden beim übertragenden Zahlungsdienstleister auf das Zahlungskonto des Kunden beim empfangenden Zahlungsdienstleister zu überweisen |
