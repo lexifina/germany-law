@@ -1,0 +1,140 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-09-15T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 07.07.2025 und 04.08.2025
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Bitte um Aufstellung eines Mülleimers nahe Brudermühlbrücke (westliches Isarufer)
+- TOP 2.2.: Erhalt der Gaststätte "Zum Blaustern" auf der Bezirkssportanlage in Sendling
+- TOP 2.3.: Radwege im Neuhofener Park
+- TOP 2.4.: Halteverbot im Einmündungsbereich Urbanstraße bzw. Schäftlarnstraße
+- TOP 2.5.: Abfallcontainer am Dietramszeller Platz
+- TOP 2.6.: Zuschnitt der Bäume in der Kidlerstraße
+- TOP 2.7.: Sendlinger Loch - Lebende Fische im Wasser
+- TOP 2.8.: Platz für neue Fahrradabstellplätze in der Pfeuferstraße 2-2a
+- TOP 2.9.: Tempo 30-Zone am Herzog-Ernst-Platz
+- TOP 2.10.: Techno-Musik am Flauchersteg nähe Tierpark
+- TOP 2.11.: Gleisbauarbeiten am Harras
+- TOP 2.12.: Fuß- und Radbrücke über den Mittleren Ring bzw. Brudermühlstraße
+- TOP 2.13.: Entsiegelung der Fritz-Endres-Straße
+- TOP 2.14.: Kastanienbaum in der Plinganserstraße 11
+- TOP 2.15.: Neue Carsharing-Parkplätze an der U-Bahn Haltestelle Brudermühlstraße
+- TOP 2.16.: Überprüfung der aktuellen Regelung zur Belegung öffentlicher Parkplätze vor dem Gasthaus "Gastette-Bierstadl"
+- TOP 2.17.: Bröckelnde Straßenunterführung am nördlichen Ende des S-Bahnhofs Mittersendling
+- TOP 2.18.: Obdachloser und Müll an der Isar unter der Brudermühlbrücke
+- TOP 2.19.: Aufwertung städtisches Grün zwischen Isartalstraße und Großem Stadtbach
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Antrag auf Baumfällung auf dem Grundstück Reutberger Straße 6
+- TOP 4.2.2.: Antrag auf Baumfällung auf dem Grundstück Plinganserstraße 32
+- TOP 4.2.3.: Antrag auf Baumfällung auf dem Grundstück Karwendelstraße 32
+- TOP 4.2.4.: Antrag auf Baumfällung auf dem Grundstück Valleystraße 38
+- TOP 4.2.5.: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Brunnen am Harras
+- TOP 4.3.2.: Sportanlage Wackersbergerstraße 49 Neubau eines Sportbetriebsgebäudes mit Vereinsheim und Modernisierung der Freisportanlage Protokoll zur Baustellenbesichtigung
+- TOP 4.3.3.: Was ist los mit dem Sendlinger Loch?
+- TOP 4.3.4.: Baumrecht vor Baurecht
+- TOP 4.3.5.: Nach wie vor schleppender Umbau der BSA Wackersberger Straße 49 - SC Süd (fraktionsübergreifender Antrag aller Parteien im BA 6)
+- TOP 4.3.6.: Bäume in der Oberländerstraße
+- TOP 4.3.7.: Fünfmonatige Schließung der Edeka-Filiale in der Implerstraße und der dortigen Postfiliale / Bäckerei (Anfrage CSU Fraktion)
+- TOP 4.3.8.: Gebäude in der Thalkirchnerstraße 210
+- TOP 4.3.9.: Müllsituation in der Plinganserstraße 5 bzw. 9
+- TOP 4.3.10.: Bedingungen für einen funktionierenden Blumengroßmarkt im neuen Großmarktkonzept
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Anfrage an die LBK zum Bauvorhaben Lindenschmittstraße 25, Rückgebäude
+- TOP 4.4.2.: Sendlinger Großmarkthalle – wie geht es weiter?
+- TOP 4.4.3.: Großmarkthallengelände wird Sendlinger Stadtquartier (B90 / Die Grünen)
+- TOP 4.4.4.: Antrag Anbindung Großmarkthalle (FDP)
+- TOP 4.4.5.: Lindenschmitstr. 25: Baugenehmigung zurücknehmen
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Antwort des RAW auf Schreiben des BA 6 bzgl. "Unterstützungsschreiben der Bezirksausschüsse zum Antrag Nr. 20-26 / B07422 des Bezirksausschusses des 17. Stadtbezirkes – Postfiliale am Tegernseer Platz" (siehe TOP 4.5.1 aus 06/25)
+- TOP 4.5.2.: Abendrunde des Referats für Klimaschutz und Umwelt mit den Bezirksausschüssen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Verkehrssicherheit Schul- und Kitaweg in der Zechstraße
+- TOP 5.1.2.: (E) Radweg Am Harras zur Meindlstraße für gegenläufigen Fahrradverkehr zulassen
+- TOP 5.1.3.: (E) Anpassung der Ampelschaltung für Fahrradfahrer*innen in der Lindwurmstr.
+- TOP 5.1.4.: (E) Aufhebung der Linksabbiegemöglichkeit der Brudermühlstraße in die Esswurmstraße
+- TOP 5.1.5.: (E) Tempo 30 in der Brudermühlstraße
+- TOP 5.1.5.1: Tempo-30 in der Brudermühlstraße - ergänzendes Bürgerschreiben
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: BA-Informationsveranstaltung zum Öffentlichen Dienstleistungsauftrag (ÖDLA) und 4-Jahres-Planung
+- TOP 5.2.2.: Hans-Preißinger-Straße - Einrichtung Taxistandplatz
+- TOP 5.2.3.: Haltebereiche für kostenlose Shuttlebusse (Blumengroßmarkt-HP8) in der Hans-Preißinger-Straße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Anbringen eines Verkehrsspiegels vor Brudermühlstraße BA-Antrag 20-26 / B 07382
+- TOP 5.3.2.: Neue Toilettenanlage am Herzog-Ernst-Platz BA-Antrag Nr. 20-26 / B 07538 (alt) Antwortschreiben vom 30.07.2025
+- TOP 5.3.3.: Tempo 30 jetzt an der Kreuzung am Herzog-Ernst-Platz BA-Antrag Nr. 20-26 / B 07965 - Zwischennachricht -
+- TOP 5.3.4.: Verlängerung der Sommerstraßen im BA 6
+- TOP 5.3.5.: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Meier-Helmbrechts-Straße bis Ehrwalder Straße
+- TOP 5.3.6.: Tempo-30-Zone in der Implerstraße; Geschwindigkeitskontrollen
+- TOP 5.3.7.: Sicherheit geht vor! Fuß und Radweg am Roten-Turm-Platz / Ecke Demleitnerstraße regeln (SPD-Fraktion)
+- TOP 5.3.8.: Verschmutzte Verkehrs- und Straßen-Schilder in Sendling (Seniorenvertretung)
+- TOP 5.3.9.: Neue Fahrrad-Garage in der Thalkirchener Straße
+- TOP 5.3.10.: Neuen Lastenfahrradabstellplatz Hans-Klein-Straße verlegen (SPD-Fraktion, ÖDP-Fraktion, FDP- Freie Wähler und B90 / Die Grünen)
+- TOP 5.3.11.: Parkplatzsituation Urbanstraße / Schäftlarnstraße
+- TOP 5.3.12.: Parklet in der Meindlstraße 6
+- TOP 5.3.13.: Unterstützung bei Anbringung von Markierungen im Dooring-Bereich in der Radlkoferstraße und "Am Harras"
+- TOP 5.3.14.: Ampelschaltung an der Ecke Lindenschmitstraße / Plinganserstraße
+- TOP 5.3.15.: Absperrungen / Poller für den Harras
+- TOP 5.3.16.: Mechanische Absperrung für Sperrflächen in der Plinganserstraße
+- TOP 5.3.17.: Vollsperre der Eisenbahnüberführung Lindwurmstraße im Zeitraum 20.10.2025 – 19.12.2025
+- TOP 5.3.18.: Stadtbezirke 2, 6 und 8: Vorgezogene Mülleinsammlung durch die AWM-Einsammelpartie 10-044 während des Oktoberfestes; Ausnahmezulassung Immissionsschutz gem. § 7 Abs 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Parabolspiegel in den Neuhofener Anlagen (SPD-Fraktion)
+- TOP 5.4.2.: Grüne Abbiegepfeile für den Radverkehr (SPD-Fraktion)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Münchner Freiwillige - Wir helfen e.V. „Barcamp Demokratie braucht DICH! am 22.11.2025“ 950,00 € / AZ: 0262.0-6-0573
+- TOP 6.1.2.: (E) Stadtbezirksbudget animato münchner orchester e.V. „Konzert in der Himmelfahrtskirche in Sendling am 24.01.2026“ 1.880,00 € / AZ: 0262.0-6-0576
+- TOP 6.1.3.: (E) Stadtbezirksbudget Altenbach + Honsel GbR „Madame Zieglers Salon - StoryPerformance mit Musik in Münchner Wohnzimmern vom 14.11.2025 - 29.11.2025“ 1.200,00 € / AZ: 0262.0-6-0575
+- TOP 6.1.4.: (E) Stadtbezirksbudget Init. "Kindermitmachkonzert" „Sendlinger Konzert Buck Roger Trio Kindermitmachkonzert Tobi Eichhorn Duo vom 17.10.2025 - 09.11.2025“ 2.245,00 € / AZ: 0262.0-6-0577
+- TOP 6.1.5.: (E) Stadtbezirksbudget impro company GbR „Zeitreisen für ein besseres München vom 01.12.2025 - 30.05.2026“ 2.500,00 € / AZ: 0262.0-6-0581
+- TOP 6.1.6.: (E) Stadtbezirksbudget Init. "München in den Wunderjahren" „München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 - 14.10.2026 1. Projektjahr: Stoffentwicklung, Dreh& Rohschnitt“ 600,00 € / AZ: 0262.0-6-0582
+- TOP 6.1.7.: (E) Stadtbezirksbudget Init. "München in den Wunderjahren" „München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 - 14.10.2027, 2. Projektjahr: Feinschnitt, Postproduktion, Sprache, Master“ 600,00 € / AZ: 0262.0-6-0583
+- TOP 6.1.8.: (E) Stadtbezirksbudget Luma e.V. „Winterzauber Kulturprogramm im Gans am Wasser vom 28.11.2025 - 01.01.2026“ 900,00 € / AZ: 0262.0-6-0580
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Stellungnahme des Kulturreferats zu Antrag
+- TOP 6.3.2.: Verwendungsnachweise: - Mütterzentrum Sendling e. V. - Katholischer Männerfürsorgeverein – Haus an der Kyreinstraße
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Verabschiedung des Rahmenkonzeptes „Kommunale Kinder- und Jugendpartizipation in München“
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling (B90 / Die Grünen & SPD-Fraktion)
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Wiesenfest KiGa Matschknödel Am Isarkanal/Ecke Schäftlarnstraße am 26.09.2025
+- TOP 8.2.2.: Straßenfußball-Fest buntkicktgut, Bezirkssportanlage Demleitnerstr. 2 am 21.09.2025
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Freischankfläche Aberlestraße 21
+- TOP 8.3.2.: Stadtteilwoche Sendling-Obersendling im Jahr 2026
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
