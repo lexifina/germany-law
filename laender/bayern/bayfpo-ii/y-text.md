@@ -1,0 +1,1 @@
+Auf Grund von Art. 115 Abs. 2 Satz 2 Halbsatz 2 des Bayerischen Beamtengesetzes erläßt das Bayerische Staatsministerium für Unterricht, Kultus, Wissenschaft und Kunst im Einvernehmen mit dem Landespersonalausschuß folgende Verordnung:
