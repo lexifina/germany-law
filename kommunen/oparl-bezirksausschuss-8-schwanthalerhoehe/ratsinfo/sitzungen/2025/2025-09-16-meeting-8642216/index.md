@@ -1,0 +1,130 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8642216
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8642216
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Projektförderung „Westend Kultur Grube“
+- TOP 4.2.: Fahrradabstellanlage vor dem Anwesen Guldeinstraße 35
+- TOP 4.3.: Wildblumen statt Asphalt – mehr Grün zwischen den Bäumen; Hans-Fischer-Str. West / August-Kühn-Str. Ost / Karl-Sprenler-Str. Nord
+- TOP 4.4.: Rückbau der Parkplätze für Fahrräder und eScooter in der Hans-Fischer-Str. vor den Rischart-Neubau
+- TOP 4.5.: Rückbau der Sonderparkplätze für Hotelgäste, Carsharing und E-Autos an der Hans-Fischer-Str. Nähe Rischart-Neubau
+- TOP 4.6.: Zustand des Spielplatzes in der Westendstraße 74c
+- TOP 4.7.: Alkoholkonsum am Gollierplatz
+- TOP 4.8.: Verkehrssituation Ecke Theresienhöhe / Schwanthalerstraße
+- TOP 4.9.: Sichtbehinderung Übergang Anglerstraße
+- TOP 4.10.: Motten- und Fliegenbefall einer Kastanie im Innenhof Holzapfelstrasse 4
+- TOP 4.11.: Zeltdorf auf der Grünfläche gegenüber Philipp-Loewenfeld-Str. 50 bis 75
+- TOP 4.12.: Verschwundenes Tempo-30-Schild in der Landsberger Straße 1-3
+- TOP 4.13.: Zustand / Schutz eines Walnußbaums im Innenhof Tulbeckstraße 6-6a
+- TOP 4.14.: Leerstand Gebäude Theresienhöhe 1
+- TOP 4.15.: Durchfahrten Bushaltestelle Gollierplatz
+- TOP 4.16.: Schlechter Zustand des Straßenbegleitgrüns im Bereich Astallerstrasse 18
+- TOP 4.17.: Mülleimer an allen Bänken im Bavariapark
+- TOP 4.18.: Trinkwasserspender und Sitzmöglichkeiten mit Beet, Tischen und Hängemattenhaken an der Ecke Westendstraße / Astallerstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: OB-Entscheidung; Beanstandung und Außervollzugsetzung des Grundsatzbeschlusses des BA8 zur Restgehwegbreite bei Freischrankflächen
+- TOP 6.1.2.: Freischankfläche Schwanthalerstr. 137
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Franziska-Bilek-Weg 9
+- TOP 6.2.2.: Bauvorhaben August-Kühn-Straße 11
+- TOP 6.2.3.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte; Sitzungsvorlage Nr. 20-26 / V 16131 - Fristverlängerung bis zur Oktobersitzung -
+- TOP 6.2.4.: Bauvorhaben Ganghoferstraße 47 - MK2
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.1.1: Abrissanzeige Westendstraße 94
+- TOP 6.3.2.: Gewerbehof Westend Waschbetonfassade - Untersuchung Bestand als Grundlage für Sanierungskonzept
+- TOP 6.3.3.: Sachstand Bauvorhaben Tulbeckstraße 32 - Wiedervorlagebeschluss vom 11.03.2025
+- TOP 6.3.4.: Lärmbelästigung Baumaßnahme Ganghofer Straße 29 (Ex-KPMG)
+- TOP 6.3.5.: Freischankfläche Guldeinstraße 30 - Antwort KVR
+- TOP 6.3.6.: Freischankfläche der Gaststätte Gollierstr. 38
+- TOP 6.3.7.: Unveränderte Fortführung Gaststätte Westendstr. 47
+- TOP 6.3.8.: Jahresgespräch mit dem Referat für Stadtplanung und Bauordnung - Terminvorschläge
+- TOP 6.3.9.: Einladung zum BA-Austauschtreffen mit dem Baureferat am 13.10.2025
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) + (U) Vergünstigte Tickets für Personen mit München-Pass für alle aus dem Stadtbezirksbudget geförderten Veranstaltungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Beschlussvorlage Kita- und Ganztagsbarometer
+- TOP 7.2.2.: Verabschiedung des Rahmenkonzeptes "Kommunale Kinder- und Jugendpartizipation in München"
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Zuständigkeiten Öffentlichkeitsarbeit zu Unterkünften für Geflüchtete und Wohnungslose im Amt für Wohnen und Migration
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Nachbarschaftstag des AWM am Gollierplatz am 11.10.2025
+- TOP 8.2.2.: Marktveranstaltung „Weihnachtszauber am Bavariapark“ auf dem Platz am Bavariapark vom 24.11.25 – 21.12.25
+- TOP 8.2.3.: Graffiti-Workshop für Jugendliche am Max-Hirschberg-Weg / Sinti-Roma-Platz am 10.10.2025
+- TOP 8.2.4.: Lange Nacht der Museen 2025 am Platz Am Bavariapark am 18.10.2025
+- TOP 8.2.5.: Radlfest zur 100. Fahrradstraße auf dem Gollierplatz am 17.10.2025
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Schießstättstr. 14 am 09.08.2025 und 19.09.2025
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Tempo 30 in der Ganghoferstraße
+- TOP 9.1.2.: (E) Parkverbot Am Bavariapark 2-4
+- TOP 9.1.3.: (E) Verlängerung der Grünphase der Fußgängerampel an der Kreuzung Bavariaring/ Schwanthalerstraße
+- TOP 9.1.4.: (E) Einrichtung eines Behindertenparkplatzes im Bereich Ligsalzstraße 3
+- TOP 9.1.5.: (E) Überprüfung der Baustelleneinrichtung vor dem Anwesen Ganghoferstraße 29
+- TOP 9.1.6.: (E) Anordnung von Tempo 30 auf der Landsberger Straße
+- TOP 9.1.7.: (E) Schutz der Schüler*innen und der Kindergartenkinder der Guldeinschule vor der Verkehrsbelastung des Mittleren Rings; -Verlängerung der bestehenden Tempo-30-Regelung -Einhausung des Streckenabschnitts
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Errichtung von Fahrradabstellplätzen in der Tulbeckstraße vor Trappentreustraße 19
+- TOP 9.2.2.: Anordnung einer Lieferzone in der Ligsalzstraße Ostseite Höhe Hausnummer 3a
+- TOP 9.2.3.: Baumfällung Ridlerstraße 35a
+- TOP 9.2.4.: Personenbezogener Behindertenparkplatz vor Fäustlestraße 14
+- TOP 9.2.5.: Baumpflanzungen und Einrichtung von Fahrradparkplätzen in der Fäustlestraße
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Sammelbeschluss zur Behandlung von Bürgerversammlungsempfehlungen; Verbot von E-Scootern im Stadtgebiet; BV-Empfehlung 20-26 / E 01958 vom 18.04.2024
+- TOP 9.3.2.: Einladung Abendrunde mit dem RKU am 27.10.2025
+- TOP 9.3.3.: Infoschreiben MVG Rad-System endet am 30.09.2025
+- TOP 9.3.4.: Verlegung der Örtlichkeit zur Christbaumentsorgung von Georg-Freundorfer-Platz zum Schneckenplatz
+- TOP 9.3.5.: Auf- und Abbauzeit des Oktoberfestes reduzieren; Durchgangsverkehr für Fußgänger und Radler
+- TOP 9.3.6.: Fußgängerüberweg Ecke Hans‑Fischer‑Straße - Wugg‑Retzer‑Straße - Antwort Mobilitätsreferat
+- TOP 9.3.7.: Fernwärmebauprojekt Westendstr. 66 und Schrenkstr.
+- TOP 9.3.8.: Fernwärmeprojekt Barthstraße 16
+- TOP 9.3.9.: Meldeliste Baumaßnahmen SWM
+- TOP 9.3.10.: Baustellensicherung / Verkehrsführung im Bereich der Baumaßnahme Schwanthalerstr. 113/115 - Antwortschreiben
+- TOP 9.3.11.: Fahrradstellplätze Schießstättstr. 2 - Ortstermin am 16.09.2025
+- TOP 9.3.12.: Fernwärmeprojekt Parkstraße 6
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. "Mural Projekt" Die Selbsterschaffung vom 01.09. -01.10.2025 3.750,00€; Az. 0262.0-8-0457
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. Lesebühne Solidarische Lesebühne am 25.09. und 23.10.2025 920,00€; Az. 0262.0-8-0459
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. "Hey Arnulf" Hey Arnulf vom 02.09.2025 -30.06.2026 1.000,00€; Az. 0262.0-8-0458
+- TOP 10.1.4.: (E) Stadtbezirksbudget Mischwald e.V. - Verein für Musik, Kultur und Medienkunst Vulvæ - eine Ausstellung über Unterschiedlichkeiten, Empowerment und Geschlechtsorgane vom 14. bis 25. Oktober 2025 2.675,00€; Az. 0262.0-8-0455
+- TOP 10.1.5.: (E) Stadtbezirksbudget Wave of hope e.V. Hoffnung gestalten: Perspektiven für Geflüchtete durch Kunst vom 01.10. -15.12.2026 8.250,00€; Az. 0262.0-8-0460
+- TOP 10.1.6.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 -14.10.2026 400,00€; Az. 0262.0-8-0461
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Ja zu Olympischen Spielen in München!
+- TOP 11.2.: Das Baureferat wird beauftragt, den kleinen Brunnen an der Ostseite des Heimeranplatzes als Trinkwasserbrunnen herzurichten
+- TOP 11.3.: Verlängerung der Grünphasen und Verkürzung der Anforderungszeiten an den Fußgängerampeln an der Ganghoferstraße Ecke Kazmairstraße und an der Ganghoferstraße Ecke Heimeranstraße
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Änderung der BA-Satzung und der BA-Geschäftsordnung; a) Losentscheid bei Anspruchsgleichheit auf Unterausschusssitze, b) Durchführung der Ladung im Falle der konstituierenden Sitzungen zu Beginn der neuen Wahlzeit und c) Form der Ladung sowie die Delegationsmöglichkeiten des Vorstandes bei der Aufstellung der Tagesordnung und den Versand der Ladung
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Mülleinsammlung durch die AWM während des Oktoberfestes
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
