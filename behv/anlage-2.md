@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 12 Absatz 1)Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben
+# Anlage 2 (zu § 21 Absatz 1)Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben
 
 1. Name, bei natürlichen Personen zudem Vorname, Adressdaten und weitere Kontaktinformationen wie Telefonnummer und E-Mail-Adresse des Antragstellers,
 2. Registrierungsnummer des Kontoinhabers, soweit der Antragsteller im Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister oder in einem ähnlichen Register eingetragen ist,

@@ -1,4 +1,4 @@
-# Anlage 5 (zu § 16 Absatz 2)Von dem Kontoinhaber zu übermittelnde Angaben zu kontobevollmächtigten Personen
+# Anlage 5 (zu § 25 Absatz 2)Von dem Kontoinhaber zu übermittelnde Angaben zu kontobevollmächtigten Personen
 
 1. Name, Vorname, Adressdaten und weitere Kontaktinformationen wie Telefonnummer und E-Mail-Adresse der kontobevollmächtigten Person,
 2. Geburtsdatum, Geburtsort und Geburtsland der kontobevollmächtigten Person,
