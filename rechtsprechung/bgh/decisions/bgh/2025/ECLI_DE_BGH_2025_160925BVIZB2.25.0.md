@@ -1,0 +1,63 @@
+---
+ecli: "ECLI:DE:BGH:2025:160925BVIZB2.25.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "VI ZB 2/25"
+decided: "2025-09-16"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE724702025.xml"
+neuris_doknr: "KORE724702025"
+---
+
+# Bundesgerichtshof, VI ZB 2/25 vom 2025-09-16
+
+## Leitsatz
+
+1. Wiedereinsetzung kann nicht gewährt werden, wenn die Ursächlichkeit des Organisationsmangels für das Versäumen der Frist nicht ausgeräumt ist. Hat ein Rechtsanwalt nicht alle ihm möglichen und zumutbaren Maßnahmen zur Wahrung einer Berufungsbegründungsfrist ergriffen, zu denen auch die Eintragung einer grundsätzlich etwa einwöchigen Vorfrist gehört, geht es zu seinen Lasten, wenn nicht festgestellt werden kann, dass die Frist auch bei Durchführung dieser Maßnahmen versäumt worden wäre.13
+
+2. Die Eintragung einer Vorfrist bietet eine zusätzliche Fristensicherung. Ein dem Rechtsanwalt insoweit anzulastender Fehler wird nicht dadurch rechtlich unerheblich, dass er bei ordnungsgemäßer Durchführung der Ausgangskontrolle am Tag des Fristablaufs noch hätte behoben werden können.10
+
+## Tenor
+
+Die Rechtsbeschwerde des Klägers gegen den Beschluss der 1. Zivilkammer des Landgerichts Fulda vom 13. Januar 2025 wird als unzulässig verworfen.
+
+Der Kläger trägt die Kosten des Rechtsbeschwerdeverfahrens.
+
+Gegenstandswert: bis 3.000 €
+
+## Gründe
+
+1 Der Kläger nimmt die Beklagten auf Schadensersatz in Anspruch. Das Amtsgericht hat die Klage abgewiesen. Gegen das ihm am 18. Oktober 2024 zugestellte Urteil hat der Kläger fristgerecht Berufung eingelegt. Nach Hinweis des Landgerichts auf die abgelaufene Frist zur Begründung der Berufung hat der Kläger mit Schriftsatz vom 3. Januar 2025 die Berufung begründet und zugleich die Wiedereinsetzung in die versäumte Berufungsbegründungsfrist beantragt.
+
+2 Zur Begründung hat der Kläger vorgetragen, die Frist zur Berufungsbegründung sei ordnungsgemäß sowohl im elektronischen als auch im Papierkalender seines Instanzbevollmächtigten für den 18. Dezember 2024 eingetragen gewesen. In der Kanzlei seines Bevollmächtigten bestehe die Anweisung, dass die sachbearbeitende Rechtsanwaltsfachangestellte selbständig Fristen bearbeite und diese nach Erledigung auch streiche. Im Papierkalender erfolge diese Erledigung dadurch, dass die Frist nach Erstellung des jeweiligen Schriftsatzes inklusive Versendung und Überprüfung der erfolgreichen Versendung abgehakt werde. Am späten Nachmittag eines jeden Arbeitstages werde die Erledigung von fristgebundenen Vorgängen durch die jeweils anwesende Mitarbeiterin anhand des elektronischen Fristenkalenders und des Papierkalenders nochmals selbständig überprüft. Dabei sei anhand der betreffenden Akte zu kontrollieren, ob der fristwahrende Schriftsatz tatsächlich erstellt und erfolgreich versandt worden sei.
+
+3 Bei der Fristenkontrolle am 18. Dezember 2024 habe die erfahrene und zuverlässige Rechtsanwaltsfachangestellte Frau B. festgestellt, dass die Frist zur Berufungsbegründung bereits gestrichen worden sei. Sie habe es dann versäumt, anhand der Akte zu überprüfen, ob der fristwahrende Schriftsatz tatsächlich erstellt und erfolgreich versendet worden sei. Zur Glaubhaftmachung hat der Kläger eine eidesstattliche Versicherung von Frau B. sowie eine Kopie aus dem Papierkalender vom 18. Dezember 2024 vorgelegt.
+
+4 Das Berufungsgericht hat den Antrag auf Wiedereinsetzung zurückgewiesen und die Berufung als unzulässig verworfen. Hiergegen richtet sich die Rechtsbeschwerde des Klägers.
+
+II.
+
+5 Die statthafte (§ 574 Abs. 1 Satz 1 Nr. 1, § 522 Abs. 1 Satz 4, § 238 Abs. 2 Satz 1 ZPO) Rechtsbeschwerde hat keinen Erfolg. Sie ist unzulässig. Eine Entscheidung des Rechtsbeschwerdegerichts ist nicht zur Sicherung einer einheitlichen Rechtsprechung erforderlich (§ 574 Abs. 2 Nr. 2 ZPO). Der angefochtene Beschluss verletzt den Kläger nicht in seinem Anspruch auf Gewährung wirkungsvollen Rechtsschutzes (Art. 2 Abs. 1 GG i.V.m. dem Rechtsstaatsprinzip) und seinen sonstigen Verfahrensgrundrechten.
+
+6 1. Nach Auffassung des Berufungsgerichts ist der Wiedereinsetzungsantrag unbegründet, weil der Kläger schon nicht vorgetragen habe, dass in der Kanzlei seines Instanzbevollmächtigten die grundsätzliche Weisung bestanden habe, Vorfristen zu notieren. Dieses Organisationsverschulden sei kausal für das Versäumen der Berufungsbegründungsfrist gewesen, weil es zumindest möglich sei, dass die zusätzliche Fristensicherung der Vorfrist gegriffen, die Kanzleiangestellte die Akte dem Rechtsanwalt rechtzeitig vorgelegt und dieser die Begründungsschrift fristgerecht angefertigt und seinen Angestellten mit der Weisung übergeben hätte, sie bei Gericht einzureichen.
+
+7 2. Diese Ausführungen halten rechtlicher Nachprüfung stand.
+
+8 a) Hat eine Partei die Berufungsbegründungsfrist versäumt, ist ihr nach § 233 Satz 1 ZPO auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren, wenn sie ohne ihr Verschulden an der Einhaltung der Frist verhindert war. Das Verschulden ihres Prozessbevollmächtigten wird der Partei zugerechnet (§ 85 Abs. 2 ZPO), das Verschulden sonstiger Dritter hingegen nicht. Fehler des Büropersonals hindern eine Wiedereinsetzung deshalb nicht, solange den Prozessbevollmächtigten kein eigenes Verschulden etwa in Form eines Organisations- oder Aufsichtsverschuldens trifft. Die Partei hat einen Verfahrensablauf vorzutragen und glaubhaft zu machen (§ 236 Abs. 2 Satz 1 ZPO), der ein Verschulden an der Nichteinhaltung der Frist zweifelsfrei ausschließt; verbleibt die Möglichkeit, dass die Einhaltung der Frist durch ein Verschulden des Prozessbevollmächtigten der Partei versäumt worden ist, ist der Antrag auf Wiedereinsetzung unbegründet (Senat, Beschluss vom 24. Oktober 2023 - VI ZB 53/22, NJW-RR 2024, 266 Rn. 7; BGH, Beschlüsse vom 18. April 2024 - I ZB 67/23, juris Rn. 12; vom 6. September 2023 - IV ZB 4/23, VersR 2024, 1092 Rn. 11; vom 26. Januar 2023 - I ZB 42/22, NJW 2023, 1969 Rn. 13; jeweils mwN).
+
+9 b) So liegt es hier. Nach den zur Begründung des Wiedereinsetzungsantrags vorgetragenen Umständen ist nicht ausgeschlossen, dass das Fristversäumnis auf einem Verschulden des Prozessbevollmächtigten des Klägers beruht. Der Kläger hat nicht dargelegt, dass sein Prozessbevollmächtigter die Notierung von Vorfristen angeordnet hatte.
+
+10 aa) Ein Rechtsanwalt darf zwar die Berechnung und Notierung von Fristen einer gut ausgebildeten, als zuverlässig erprobten und sorgfältig überwachten Bürokraft übertragen. Er hat aber durch geeignete organisatorische Vorkehrungen dafür Sorge zu tragen, dass Fristversäumnisse möglichst vermieden werden. Hierzu gehört nach gefestigter höchstrichterlicher Rechtsprechung die allgemeine Anordnung, bei Prozesshandlungen, deren Vornahme ihrer Art nach mehr als nur einen geringen Aufwand an Zeit und Mühe erfordert, wie dies regelmäßig bei Rechtsmittelbegründungen der Fall ist, außer dem Datum des Fristablaufs noch eine grundsätzlich etwa einwöchige Vorfrist zu notieren. Die Vorfrist dient dazu sicherzustellen, dass auch für den Fall von Unregelmäßigkeiten und Zwischenfällen noch eine ausreichende Überprüfungs- und Bearbeitungszeit bis zum Ablauf der zu wahrenden Frist verbleibt. Die Eintragung einer Vorfrist bietet eine zusätzliche Fristensicherung (Senat, Beschlüsse vom 24. Oktober 2023 - VI ZB 53/22, NJW-RR 2024, 266 Rn. 9; vom 20. September 2022 - VI ZB 17/22, NJW-RR 2022, 1717 Rn. 7; BGH, Beschlüsse vom 17. Juni 2025 - VIII ZB 54/24, WRP 2025, 1201 Rn. 34; vom 18. April 2024 - I ZB 67/23, juris Rn. 14; vom 21. Juni 2023 - XII ZB 418/22, NJW-RR 2023, 1284 Rn. 11; vom 6. Oktober 2020 - XI ZB 17/19, juris Rn. 9; jeweils mwN).
+
+11 bb) Der Kläger hat nicht vorgetragen, dass sein Prozessbevollmächtigter diese Vorgaben bei der Organisation seiner Kanzlei eingehalten oder eine entsprechende konkrete Einzelanweisung für den vorliegenden Fall erteilt hätte. Dies macht die Rechtsbeschwerde auch nicht geltend.
+
+12 cc) Es ist nicht auszuschließen, dass bei Notierung einer Vorfrist die Berufungsbegründungsfrist gewahrt worden wäre.
+
+13 (1) Wiedereinsetzung kann nicht gewährt werden, wenn die Ursächlichkeit des Organisationsmangels für das Versäumen der Frist nicht ausgeräumt ist. Hat ein Rechtsanwalt nicht alle ihm möglichen und zumutbaren Maßnahmen zur Wahrung einer Berufungsbegründungsfrist ergriffen, geht es zu seinen Lasten, wenn nicht festgestellt werden kann, dass die Frist auch bei Durchführung dieser Maßnahmen versäumt worden wäre (vgl. Senat, Beschlüsse vom 24. Oktober 2023 - VI ZB 53/22, NJW-RR 2024, 266 Rn. 12; vom 20. September 2022 - VI ZB 17/22, NJW-RR 2022, 1717 Rn. 10; BGH, Beschluss vom 6. Oktober 2020 - XI ZB 17/19, juris Rn. 12; jeweils mwN).
+
+14 (2) Bei auf die Vorfrist bezogen unterstellt ordnungsgemäßem Vorgehen wären die Akten dem Prozessbevollmächtigten des Klägers rechtzeitig vorgelegt worden. In diesem Fall hätte der Prozessbevollmächtigte des Klägers rechtzeitig bemerkt, dass eine Berufungsbegründung noch nicht erstellt war. Ein Rechtsanwalt hat eine ihm aufgrund einer Vorfrist vorgelegte und damit in seinen persönlichen Verantwortungsbereich (zurück-)gelangte Fristsache rechtzeitig zu bearbeiten und für die Weiterleitung der bearbeiteten Sache in der Weise Sorge zu tragen, dass der entsprechende Schriftsatz fristgerecht bei Gericht eingeht. Dieser Pflicht wird er nicht durch eine weitere, auf den Tag des Fristablaufs notierte Frist enthoben. Hätte mithin der Prozessbevollmächtigte der Klägerin nach Vorlage der Akten zur Vorfrist die Berufungsbegründung fristgerecht fertiggestellt und einer Büroangestellten mit der Weisung übergeben, sie bei Gericht einzureichen, wäre die Berufungsbegründungsfrist gewahrt worden (vgl. dazu Senat, Beschlüsse vom 24. Oktober 2023 - VI ZB 53/22, NJW-RR 2024, 266 Rn. 13; vom 20. September 2022 - VI ZB 17/22, NJW-RR 2022, 1717 Rn. 11 f.; BGH, Beschlüsse vom 17. Juni 2025 - VIII ZB 54/24, WRP 2025, 1201 Rn. 41; vom 24. April 2025 - III ZB 81/24, juris Rn. 12; vom 6. Oktober 2020 - XI ZB 17/19, juris Rn. 14; jeweils mwN). Das wäre im Übrigen auch dann denkbar, wenn der Rechtsanwalt bei Vorlage der Akte zur Vorfrist aus besonderen Gründen die Wiedervorlage der Akte am letzten Tag der laufenden Frist verfügt hätte (vgl. dazu BGH, Beschlüsse vom 17. Mai 2023 - XII ZB 533/22, FamRZ 2023, 1381 Rn. 12; vom 19. Oktober 2022 - XII ZB 113/21, NJW-RR 2023, 136 Rn. 13; vom 15. August 2007 - XII ZB 82/07, NJW-RR 2008, 76 Rn. 15). Denn in diesem Falle wäre im Büro des Prozessbevollmächtigten möglicherweise aufgedeckt worden, dass die unter Umständen bereits zu diesem Zeitpunkt erfolgte Streichung - der Kläger hat in seinem Wiedereinsetzungsantrag keinerlei Angaben dazu gemacht, von wem, wann und warum die Frist im Papierkalender gestrichen worden ist - der für den 18. Dezember 2024 im Kalender eingetragenen Berufungsbegründungsfrist auf einem Versehen beruhte.
+
+15 (3) Entgegen der Auffassung der Rechtsbeschwerde liegt kein Fall der sogenannten überholenden Kausalität vor. Nach den Grundsätzen der überholenden Kausalität schließt ein früheres Verschulden einer Partei oder ihres Prozessbevollmächtigten die Wiedereinsetzung dann nicht aus, wenn dessen rechtliche Erheblichkeit durch ein späteres, der Partei oder ihrem Vertreter nicht zuzurechnendes Ereignis entfällt (vgl. BGH, Beschlüsse vom 21. Juni 2023 - XII ZB 418/22, NJW-RR 2023, 1284 Rn.17; vom 22. November 2022 - XI ZB 13/22, NJW 2023, 1224 Rn. 15; jeweils mwN). Der Bundesgerichtshof hat dies etwa für die zweite Stufe der Fristenkontrolle - die allabendliche Ausgangskontrolle fristgebundener Schriftsätze durch einen Abgleich mit dem Fristenkalender - im Verhältnis zur ersten Stufe der Fristenkontrolle, welche die Streichung von Fristen im Kalender selbst betrifft, angenommen. Denn die im Rahmen der Fristenkontrolle auf der zweiten Stufe gebotenen Maßnahmen sollen gerade individuelle Fehler auf der ersten Stufe beheben (vgl. BGH, Beschluss vom 22. November 2022 - XI ZB 13/22, NJW 2023, 1224 Rn. 15 ff.). Indes lässt sich diese Rechtsprechung jedenfalls nicht auf die hier vorliegende Fallgestaltung der nicht dargelegten Arbeitsanweisung zur Notierung einer Vorfrist übertragen. Denn die ordnungsgemäße Bearbeitung der Sache nach Vorlage der Akte zur Vorfrist hätte unter den hier obwaltenden Umständen eine fristgerechte Einreichung der Berufungsbegründung sicherstellen können, ohne dass es auf die Ausgestaltung der Ausgangskontrolle beim Prozessbevollmächtigten angekommen wäre (vgl. zum Fall der nicht eingetragenen Begründungsfrist BGH, Beschlüsse vom 17. Juni 2025 - VIII ZB 54/24, WRP 2025, 1201 Rn. 42 ff.; vom 21. Juni 2023 - XII ZB 418/22, NJW-RR 2023, 1284 Rn.17).
+
+Seiters von Pentz Oehler
+
+Klein Linder
