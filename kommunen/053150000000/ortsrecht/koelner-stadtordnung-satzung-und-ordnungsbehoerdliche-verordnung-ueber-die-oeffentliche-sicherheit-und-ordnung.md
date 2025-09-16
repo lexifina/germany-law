@@ -1,8 +1,8 @@
-# Kölner Stadtordnung Satzung und ordnungsbehördliche Verordnung über die öffentliche Sicherheit und Ordnung für das Gebiet der Stadt Köln (Kölner Stadtordnung - KSO)
+# Kölner Stadtordnung Satzung und ordnungsbehördliche Verordnung über die öffentliche Sicherheit und Ordnung für das Gebiet der Stadt Köln (Kölner Stadtordnung - KSO -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2024-12-10 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/koelner_stadtordnung_20241202.pdf
+- Datum: 2025-09-16 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/koelner-stadtordnung_20250909.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,22 +10,23 @@
 
 Kölner Stadtordnung
 Satzung und ordnungsbehördliche Verordnung über die öffentliche Sicherheit und Ordnung für das Gebiet der Stadt Köln
-(Kölner Stadtordnung - KSO)
-vom 14. April 2014 in der Fassung der 4. Änderungsverordnung zur Ordnungsbehördlichen Verordnung
-über die öffentliche Sicherheit und Ordnung für das Gebiet der Stadt Köln (Kölner Stadtordnung - KSO) vom 02. Dezember 2024
-- ABl. StK 2014, S. 241 ff, 2017, S. 51, 2018, S. 11, 2020, S. 725, 2024, S. 522–
-- Öffentliche Bekanntmachung vom 10. Dezember 2024 -
-Aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) vom 14. Juli 1994 (GV.NRW. S. 666 / SGV. NRW. 2023), des § 19 Abs. 1 des Straßen- und Wegegesetzes NRW vom 23. September 1995 (GV. NRW. S. 1028 / SGV. NRW. 91), der §§ 27 Abs.1 und Abs.4 Satz 1, 31 des Gesetzes über Aufbau und Befugnisse der Ordnungsbehörden – Ordnungsbehördengesetz (OBG NRW) in der Fassung der Bekanntmachung vom 13.05.1980 (GV. NRW. S.528 / SGV. NRW. 2060) und des § 10 Abs. 4 des Gesetzes zum Schutz vor Luftverunreinigungen, Geräuschen und ähnlichen Umwelteinwirkungen (Landes-Immissionsschutzgesetz – LImSchG NRW -) vom 18. März 1975 (GV. NRW. S. 232 / SGV. NRW. 7129) jeweils in der bei Erlass dieser Verordnung geltenden Fassung wird vom Rat der Stadt Köln in seiner Sitzung vom 14.11.2024 für das Gebiet der Stadt Köln folgende 4. Verordnung zur Änderung der Ordnungsbehördlichen Verordnung über die öffentliche Sicherheit und Ordnung für das Gebiet der Stadt Köln erlassen:
+(Kölner Stadtordnung - KSO -)
+vom 14. April 2014 5. Änderungsverordnung zur Ordnungsbehördlichen Verordnung über die öffentliche Sicherheit
+und Ordnung für das Gebiet der Stadt Köln (Kölner Stadtordnung - KSO)
+vom 09. September 2025
+- ABl. StK 2014, S. 241 ff, 2017, S. 51, 2018, S. 11, 2020, S. 725, 2024, S. 522, 2025, S. 385–
+- Öffentliche Bekanntmachung vom 10. Dezember 2024, vom 16. September 2025-
+Aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) vom 14. Juli 1994 (GV.NRW. S. 666 / SGV. NRW. 2023), des § 19 Abs. 1 des Straßen- und Wegegesetzes NRW vom 23. September 1995 (GV. NRW. S. 1028 / SGV. NRW. 91), der §§ 27 Abs.1 und Abs.4 Satz 1, 31 des Gesetzes über Aufbau und Befugnisse der Ordnungsbehörden – Ordnungsbehördengesetz (OBG NRW) in der Fassung der Bekanntmachung vom 13.05.1980 (GV. NRW. S.528 / SGV. NRW. 2060) und des § 10 Abs. 4 des Gesetzes zum Schutz vor Luftverunreinigungen, Geräuschen und ähnlichen Umwelteinwirkungen (LandesImmissionsschutzgesetz – LImSchG NRW -) vom 18. März 1975 (GV. NRW. S. 232 / SGV. NRW. 7129) jeweils in der bei Erlass dieser Verordnung geltenden Fassung wird vom Rat der Stadt Köln in seiner Sitzung vom 04.09.2025 für das Gebiet der Stadt Köln folgende 5. Verordnung zur Änderung der Ordnungsbehördlichen Verordnung über die öffentliche Sicherheit und Ordnung für das Gebiet der Stadt Köln erlassen:
 
 Inhaltsverzeichnis
 Inhaltsverzeichnis .................................................................................................... 2 § 1 Geltungsbereich ......................................................................................................... 4 § 2 Begriffsbestimmungen................................................................................................ 4
 I. Schutz des Stadtbildes .................................................................................. 5 § 3 Verunreinigung und Verunstaltung der öffentlichen Flächen....................................... 5 § 4 Verunreinigung durch Tiere ........................................................................................ 6 § 5 Verunreinigung im Bereich von Imbissstuben, Schnellrestaurants und sonstigen Gewerbebetrieben ..................................................................................................... 6 § 6 Reparieren und Reinigen von Kraftfahrzeugen........................................................... 6 § 7 Nutzung von Abfallbehältern ...................................................................................... 6
 II. Schutz vor störendem Verhalten .................................................................. 6 § 8 Ruhestörung .............................................................................................................. 6 § 9 Darbietung von Straßenmusik und -Schauspiel und anderer Straßenkunst ................ 6 § 10 Religiöse Veranstaltungen, Schutzwürdige Einrichtungen .......................................... 7 § 11 Störendes Verhalten in der Öffentlichkeit ................................................................... 7 § 12 Sperrbezirk................................................................................................................. 8
-III. Schutz vor Gefahren ...................................................................................... 8 § 13 Feuerschutz ............................................................................................................... 8 § 14 Schneeüberhänge und Eiszapfen............................................................................... 8 § 15 Fahnen und Windvögel .............................................................................................. 8 § 16 Stacheldraht ............................................................................................................... 8 § 17 Gewässer – Baden und Nutzung................................................................................ 9 § 18 Hausnummern............................................................................................................ 9 § 19 Taubenfütterungsverbot ............................................................................................. 9 § 20 Fütterungsverbot von Wasservögeln und Fischen ...................................................... 9
-IV. Schutz der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen .... 9 § 21 Beschädigung der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen ............ 9 § 22 Fahrzeuge................................................................................................................ 10
+III. Schutz vor Gefahren ...................................................................................... 8 § 13 Feuerschutz ............................................................................................................... 8 § 14 Schneeüberhänge und Eiszapfen............................................................................... 8 § 15 Fahnen und Windvögel .............................................................................................. 8 § 16 Stacheldraht ............................................................................................................... 8 § 17 Gewässer – Baden und Nutzung................................................................................ 9 § 18 Hausnummern............................................................................................................ 9 § 19 Taubenfütterungsverbot ............................................................................................. 9 § 20 Fütterungsverbot von Wasservögeln und Fischen .................................................... 10
+IV. Schutz der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen .. 10 § 21 Beschädigung der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen .......... 10 § 22 Fahrzeuge................................................................................................................ 10
 V. Benutzung von öffentlichen Anlagen ......................................................... 10 Seite 2/17
 
-§ 23 Status und Verkehrssicherungspflicht ...................................................................... 10 § 24 Sport und Spiele....................................................................................................... 10 § 25 Nutzungsregeln für öffentliche Spiel- und Bolzplätze................................................ 11 § 26 Grillen ...................................................................................................................... 11 § 27 Führen von Hunden.................................................................................................. 12 § 28 Hundefreilaufflächen ................................................................................................ 12 § 29 Reiten ...................................................................................................................... 12 § 30 Nutzungseinschränkungen und Nutzungsverbote .................................................... 12 VI. Ordnungs- und Sicherheitsvorschriften im Umfeld der Stadien.............. 13 § 31 Umfeld der Stadien .................................................................................................. 13 VII. Schlussbestimmungen ................................................................................ 14 § 32 Ausnahmen und weitergehende Nutzungen ............................................................. 14 § 33 Ordnungswidrigkeiten............................................................................................... 14 § 34 Andere Rechtsvorschriften ....................................................................................... 18 § 35 Inkrafttreten, Außerkrafttreten .................................................................................. 18
+§ 23 Status und Verkehrssicherungspflicht ...................................................................... 10 § 24 Sport und Spiele....................................................................................................... 11 § 25 Nutzungsregeln für öffentliche Spiel- und Bolzplätze................................................ 11 § 26 Grillen ...................................................................................................................... 12 § 27 Führen von Hunden.................................................................................................. 12 § 28 Hundefreilaufflächen ................................................................................................ 12 § 29 Reiten ...................................................................................................................... 13 § 30 Nutzungseinschränkungen und Nutzungsverbote .................................................... 13 VI. Ordnungs- und Sicherheitsvorschriften im Umfeld der Stadien.............. 13 § 31 Umfeld der Stadien .................................................................................................. 13 VII. Schlussbestimmungen ................................................................................ 14 § 32 Ausnahmen und weitergehende Nutzungen ............................................................. 14 § 33 Ordnungswidrigkeiten............................................................................................... 15 § 34 Andere Rechtsvorschriften ....................................................................................... 18 § 35 Inkrafttreten, Außerkrafttreten .................................................................................. 18
 Seite 3/17
 
 § 1 Geltungsbereich (1) Diese Verordnung gilt unbeschadet besonderer Regelungen im gesamten Kölner Stadtgebiet für
@@ -33,9 +34,8 @@ Seite 3/17
 2. öffentliche Anlagen und Einrichtungen,
 3. Anlagen der Verkehrs- und Versorgungsbetriebe,
 4. Sonderbereiche,
-5. Boden und Gewässer mit Ausnahme des Rheins.
-(2) Soweit sich Verstöße gegen die Bestimmungen dieser Verordnung auf die unter Absatz 1 genannten Bereiche auswirken können, gelten die Regelungen dieser Verordnung auch für die privaten Grundstücke im Kölner Stadtgebiet.
-(3) Die Regelungen der §§ 19 und 20 gelten über die in Absatz 1 genannten Bereiche hinaus für alle öffentlichen Flächen und privaten Grundstücke im Kölner Stadtgebiet.
+5. Boden und Gewässer einschließlich des Rheins.
+(2) Soweit sich Verstöße gegen die Bestimmungen dieser Verordnung auf die unter Absatz 1 genannten Bereiche auswirken können, gelten die Regelungen dieser Verordnung auch für die privaten Grundstücke im Kölner Stadtgebiet. (3) Die Regelungen der §§ 19 und 20 gelten über die in Absatz 1 genannten Bereiche hinaus für alle öffentlichen Flächen und privaten Grundstücke im Kölner Stadtgebiet.
 (4) Die Vorschriften des Landschaftsplans der Stadt Köln vom 13.05.1991 in der jeweils geltenden Fassung gelten unbeschadet dieser Verordnung.
 § 2 Begriffsbestimmungen (1) Verkehrsflächen im Sinne dieser Verordnung sind alle dem öffentlichen Verkehr dienenden Flächen einschließlich aller Bestandteile, des Mobiliars und der Einrichtungen ohne Rücksicht auf die Eigentumsverhältnisse oder eine öffentlich-rechtliche Widmung.
 Hierzu zählen insbesondere öffentliche Straßen, Wege, Plätze, Böschungen, Brücken, Unterführungen, Treppen und Rolltreppen. Zur Straße im Sinne dieser Verordnung gehören die in § 2 Abs. 2 des Straßen- und Wegegesetzes Nordrhein-Westfalen – in der Fassung der Bekanntmachung vom 23.09.1995 – aufgeführten Bestandteile.
@@ -51,32 +51,30 @@ Seite 4/17
 4. Anschlagtafeln und -flächen, Beleuchtungs-, Versorgungs-, Kanalisations-, Entwässerungs-, Katastrophenschutz- und Baustelleneinrichtungen sowie Verkehrsschilder, Hinweiszeichen, Lichtsignalanlagen etc.,
 5. Sitzbänke, Kinderspiel- und Sporteinrichtungen, Toilettenanlagen sowie jegliches öffentliche Mobiliar.
 (3) Anlagen der Verkehrs- und Versorgungsbetriebe im Sinne dieser Verordnung sind die im öffentlichen Verkehrsraum befindlichen Anlagen, zum Beispiel Gleis-, Fahrdraht- und Lichtsignalanlagen, Stromkästen und Trafostationen, einschließlich deren Zubehör. Hierzu zählen auch Anlagen und Einrichtungen der Post- und Telekommunikationsunternehmen.
-(4) Zu den Sonderbereichen zählen die in § 31 dieser Verordnung beschriebenen Umfelder der Stadien und die durch Verordnung der Bezirksregierung Köln festgelegten Sperrbezirke.
-(5) Für Boden und Gewässer im Sinne dieser Verordnung gelten die Definitionen des Bundesbodenschutzgesetzes und des Wasserhaushaltsgesetzes.
+(4) Zu den Sonderbereichen zählen die in § 31 dieser Verordnung beschriebenen Umfelder der Stadien und die durch Verordnung der Bezirksregierung Köln festgelegten Sperrbezirke. (5) Für Boden und Gewässer im Sinne dieser Verordnung gelten die Definitionen des Bundesbodenschutzgesetzes und des Wasserhaushaltsgesetzes.
 I. Schutz des Stadtbildes
-§ 3 Verunreinigung und Verunstaltung der öffentlichen Flächen (1) Im Geltungsbereich dieser Verordnung sind jegliche Verunreinigungen verboten. Dies gilt insbesondere für das Wegwerfen von Abfällen (z. B. Verpackungen, Pappteller, Getränkebecher, Papier, Zigarettenkippen, Lebensmittelreste, Plastikkonfetti) sowie für das Spucken oder das Ausspucken von Kaugummi.
-(2) Im Geltungsbereich dieser Verordnung ist das unbefugte Lagern von Abfällen, Unrat oder sonstigen Gegenständen verboten.
+§ 3 Verunreinigung und Verunstaltung der öffentlichen Flächen
+(1) Im Geltungsbereich dieser Verordnung sind jegliche Verunreinigungen verboten. Dies gilt insbesondere für das Wegwerfen von Abfällen (z. B. Verpackungen, Pappteller, Getränkebecher, Papier, Zigarettenkippen, Lebensmittelreste, Plastikkonfetti) sowie für das Spucken oder das Ausspucken von Kaugummi. (2) Im Geltungsbereich dieser Verordnung ist das unbefugte Lagern von Abfällen, Unrat oder sonstigen Gegenständen verboten.
 (3) Es ist nicht gestattet, die in § 1 bezeichneten Flächen, öffentlichen Anlagen und Einrichtungen sowie private Grundstücke einschließlich ihrer baulichen Anlagen, soweit diese von der Straße einsehbar sind, unbefugt zu beschreiben, zu bekleben, zu besprühen, zu beschmieren sowie zu bemalen oder dies zu veranlassen. Dieses Verbot gilt auch für das Anbringen von Werbung aller Art, wie z. B. Plakate, Suchanzeigen etc. (Wildplakatierung).
-(4) Für das Domumfeld gilt darüber hinaus, dass Straßenmalerei innerhalb der Schutzzone nicht ausgeführt werden darf; der Geltungsbereich ist in der Anlage 1.1 gekennzeichnet und Bestandteil dieser Verordnung. Das Domumfeld umfasst:
-- Bahnhofsvorplatz inklusive Trankgasse
-- Domkloster
-- „Domplatte“ rund um den Kölner Dom
-- Kardinal-Höffner-Platz / Kreuzblume
-- „Unter Fettenhennen“ bis Wallrafplatz
-- „Am Hof“ bis Ecke „Domhotel“
+(4) Für das Domumfeld gilt darüber hinaus, dass Straßenmalerei innerhalb der Schutzzone nicht ausgeführt werden darf; der Geltungsbereich ist in der Anlage 1.1 gekennzeichnet und Bestandteil dieser Verordnung. Das Domumfeld umfasst: - Bahnhofsvorplatz inklusive Trankgasse
+- Domkloster - „Domplatte“ rund um den Kölner Dom - Kardinal-Höffner-Platz / Kreuzblume - „Unter Fettenhennen“ bis Wallrafplatz - „Am Hof“ bis Ecke „Domhotel“
 Seite 5/17
 
-§ 4 Verunreinigung durch Tiere Verunreinigungen durch Tiere (Tierkot) sind im Geltungsbereich dieser Verordnung von der sie führenden Person unverzüglich zu beseitigen. Ausgenommen sind Verunreinigungen durch städtische Bewirtschaftungsmaßnahmen auf den zugelassenen Flächen, z. B. Schafbeweidung.
+§ 4 Verunreinigung durch Tiere
+Verunreinigungen durch Tiere (Tierkot) sind im Geltungsbereich dieser Verordnung von der sie führenden Person unverzüglich zu beseitigen. Ausgenommen sind Verunreinigungen durch städtische Bewirtschaftungsmaßnahmen auf den zugelassenen Flächen, z. B. Schafbeweidung.
 § 5 Verunreinigung im Bereich von Imbissstuben, Schnellrestaurants und sonstigen Gewerbebetrieben
 (1) Im Eingangsbereich von Imbissstuben, Kiosken, Trinkhallen, Schnellrestaurants, Backstuben und Ähnlichem sowie innerhalb der dazugehörigen Außengastronomieflächen sind von den Betreibenden Abfallbehälter in ausreichender Größe sichtbar aufzustellen oder anzubringen und rechtzeitig zu leeren.
 (2) Die Betreibenden haben im unmittelbaren Umfeld ihrer Betriebe auf Sauberkeit zu achten. Abfälle, die im Umkreis von 50 m um einen Gewerbebetrieb anfallen und diesem zuzuordnen sind, sind von der gewerbetreibenden oder der verantwortlichen Person vor Ort unverzüglich zu entfernen.
 (3) Vor Gewerbebetrieben, die unter das Nichtraucherschutzgesetz NRW fallen, sind geeignete Behälter zur Entsorgung von Zigarettenkippen von rauchenden Gästen im Eingangsbereich aufzustellen oder anzubringen und rechtzeitig zu leeren.
-§ 6 Reparieren und Reinigen von Kraftfahrzeugen (1) Kraftfahrzeuge dürfen, mit Ausnahme von Notfällen, im Geltungsbereich dieser Verordnung nicht repariert, abgespritzt, gewaschen oder mit brennbaren, ölauflösenden oder schaumbildenden Flüssigkeiten behandelt werden.
+§ 6 Reparieren und Reinigen von Kraftfahrzeugen
+(1) Kraftfahrzeuge dürfen, mit Ausnahme von Notfällen, im Geltungsbereich dieser Verordnung nicht repariert, abgespritzt, gewaschen oder mit brennbaren, ölauflösenden oder schaumbildenden Flüssigkeiten behandelt werden.
 (2) Dies gilt auch für private Flächen, wenn Öl, Altöl, Kraftstoffe oder andere wassergefährdende Stoffe in das öffentliche Kanalnetz oder in das Grundwasser gelangen können.
-§ 7 Nutzung von Abfallbehältern (1) Jede zweckwidrige Benutzung der zur allgemeinen Nutzung aufgestellten Abfallbehälter, insbesondere das Einbringen von in Haushalten oder Gewerbebetrieben angefallenen Abfällen, ist verboten.
+§ 7 Nutzung von Abfallbehältern
+(1) Jede zweckwidrige Benutzung der zur allgemeinen Nutzung aufgestellten Abfallbehälter, insbesondere das Einbringen von in Haushalten oder Gewerbebetrieben angefallenen Abfällen, ist verboten.
 (2) Es ist nicht gestattet, Abfälle oder zur Entsorgung vorgesehene Gegenstände auf oder neben die Wertstoffsammelbehälter zu stellen.
 II. Schutz vor störendem Verhalten
-§ 8 Ruhestörung Im Geltungsbereich dieser Verordnung ist übermäßiges und vermeidbares Erzeugen von Lärm, welcher geeignet ist, die Allgemeinheit, die Nachbarschaft oder Einzelne zu belästigen oder zu stören, untersagt.
+§ 8 Ruhestörung
+Im Geltungsbereich dieser Verordnung ist übermäßiges und vermeidbares Erzeugen von Lärm, welcher geeignet ist, die Allgemeinheit, die Nachbarschaft oder Einzelne zu belästigen oder zu stören, untersagt.
 § 9 Darbietung von Straßenmusik und -Schauspiel und anderer Straßenkunst (1) Straßenmusik und -schauspiel darf im Stadtgebiet an jedem Ort nur in den ersten 30 Minuten einer vollen Stunde in einer Lautstärke dargeboten werden, dass unbeteiligte Personen nicht erheblich belästigt werden. Der Einsatz von Lautsprechern und elektronischen
 Seite 6/17
 
@@ -108,34 +106,27 @@ III. Schutz vor Gefahren
 Seite 8/17
 
 hiervon sind Einzäunungen von Weideflächen für Nutztiere, wie Kühe, Pferde, Ziegen et cetera.
-§ 17 Gewässer – Baden und Nutzung (1) Im Geltungsbereich dieser Verordnung ist das Baden in öffentlichen Gewässern verboten. Nur in den ausgewiesenen Badeeinrichtungen, d. h. im Schwimmbadbereich Fühlinger See, im Schwimmbadbereich Escher See und im Vingster Bad ist das Baden auf eigene Gefahr erlaubt. In Brunnen und Springbrunnen ist das Baden verboten. (2) Das Betreten von zugefrorenen Gewässern erfolgt auf eigene Gefahr.
+§ 17 Gewässer – Baden und Nutzung (1) Im Geltungsbereich dieser Verordnung ist das Baden in öffentlichen Gewässern verboten. Nur in den ausgewiesenen Badeeinrichtungen, d. h. im Schwimmbadbereich Fühlinger See, im Schwimmbadbereich Escher See und im Vingster Bad ist das Baden auf eigene Gefahr erlaubt. In Brunnen und Springbrunnen ist das Baden verboten. (2) Das Baden im Rhein ist im gesamten Stadtgebiet Köln untersagt. Als Baden im Rhein gilt das planmäßige Verweilen in mehr als knöcheltiefem Wasser. (3) Ausgenommen vom Badeverbot im Rhein sind: a) Behördliche Maßnahmen und Rettungsmaßnahmen einschließlich Übungen von Wasserrettungsdiensten oder der Feuerwehr b) das kurzfristige Ein- und Aussteigen beim An- und Ablegen von Wasserfahrzeugen sowie das Zuwasserlassen oder Herausziehen (Slippen) von Wasserfahrzeugen an dafür zugelassenen Stellen c) Übungen zum Erlernen und Ausübung von Wassersportarten (Kanufahren, Rudern etc.) unter Anleitung und Aufsicht von qualifiziertem Fachpersonal eingetragener anerkannter Wassersportvereine d) das Ausüben von Angelsport e) genehmigte Veranstaltungen mit ausdrücklicher Erlaubnis der Stadt Köln (Amt für öffentliche Ordnung) (4) Das Betreten von zugefrorenen Gewässern erfolgt auf eigene Gefahr.
 § 18 Hausnummern (1) An jedem bebauten Grundstück hat die Eigentümerin oder der Eigentümer oder die oder der sonst Verantwortliche die von der Stadt Köln festgesetzte Hausnummer anzubringen. Die Hausnummer muss von der Straße aus gut sichtbar und lesbar sein und in einem ordnungsgemäßen Zustand erhalten werden. Die Hausnummer muss in arabischen Ziffern, die eine Mindestgröße von 8,5 cm haben, ausgeführt sein. (2) Nach der Umnummerierung eines Grundstücks darf die alte Hausnummer für eine Übergangszeit von einem Jahr nicht entfernt werden. Sie ist als ungültig zu kennzeichnen, muss jedoch lesbar bleiben.
 § 19 Taubenfütterungsverbot (1) Verwilderte Haustauben und Wildtauben dürfen im Gebiet der Stadt Köln nicht gefüttert werden. Als Füttern im Sinne von Satz 1 gilt auch das Auslegen oder Anbieten von Futter in sonstiger Weise. Futter für andere Tiere ist so auszulegen, dass es von verwilderten Haustauben und Wildtauben nicht erreicht werden kann. (2) Absatz 1 gilt nicht für Futterplätze, die von der Stadt Köln bzw. im Einverständnis mit der Stadt Köln eingerichtet wurden.
+Seite 9/17
+
 § 20 Fütterungsverbot von Wasservögeln und Fischen Wasservögel und Fische dürfen an öffentlichen Gewässern, insbesondere an Teichen, Weihern und Kiesgrubengewässern, nicht gefüttert werden. Als Füttern im Sinne von Satz 1 gilt auch das Auslegen oder Anbieten von Futter in sonstiger Weise.
 IV.Schutz der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen
 § 21 Beschädigung der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen
-(1) Jegliche Beschädigung von Verkehrsflächen, öffentlichen Anlagen und Einrichtungen im Sinne dieser Verordnung ist verboten. (2) Die öffentlichen Anlagen dürfen nur so genutzt werden, wie es sich aus der Natur der einzelnen Anlage und ihrer Zweckbestimmung ergibt. Die Benutzung muss schonend
-Seite 9/17
-
-erfolgen, so dass Flora, Fauna oder die Ausstattungen nicht beschädigt, beschmutzt oder anderweitig beeinträchtigt werden.
-§ 22 Fahrzeuge
-Das Fahren, das Parken, das Mitführen oder Abstellen von Kraftfahrzeugen, Fahrzeugen und Anhängern
-- auf Baumscheiben, Baumbeeten oder Ähnlichem, - auf außerhalb der öffentlichen Straßen angelegten Grünstreifen, - in öffentlichen Grünflächen und - auf öffentlichen Spiel- und Bolzplätzen
-sind verboten. Ausgenommen sind Fahrzeuge wie Fahrräder und Fahrradanhänger mit einer Breite bis zu 100 Zentimeter, Krankenfahrstühle, Senioren- und Behindertendreiräder sowie Dienst- und Rettungsfahrzeuge.
+(1) Jegliche Beschädigung von Verkehrsflächen, öffentlichen Anlagen und Einrichtungen im Sinne dieser Verordnung ist verboten. (2) Die öffentlichen Anlagen dürfen nur so genutzt werden, wie es sich aus der Natur der einzelnen Anlage und ihrer Zweckbestimmung ergibt. Die Benutzung muss schonend erfolgen, so dass Flora, Fauna oder die Ausstattungen nicht beschädigt, beschmutzt oder anderweitig beeinträchtigt werden.
+§ 22 Fahrzeuge Das Fahren, das Parken, das Mitführen oder Abstellen von Kraftfahrzeugen, Fahrzeugen und Anhängern
+- auf Baumscheiben, Baumbeeten oder Ähnlichem, - auf außerhalb der öffentlichen Straßen angelegten Grünstreifen, - in öffentlichen Grünflächen und - auf öffentlichen Spiel- und Bolzplätzen sind verboten. Ausgenommen sind Fahrzeuge wie Fahrräder und Fahrradanhänger mit einer Breite bis zu 100 Zentimeter, Krankenfahrstühle, Senioren- und Behindertendreiräder sowie Dienst- und Rettungsfahrzeuge.
 V. Benutzung von öffentlichen Anlagen
-§ 23 Status und Verkehrssicherungspflicht
-(1) Die öffentlichen Grünflächen und die Spiel- und Bolzplätze sind öffentliche Einrichtungen der Stadt Köln.
-(2) Die in öffentlichen Grünflächen und auf Spiel- und Bolzplätzen mit dem Bau, der Unterhaltung und der Überwachung der Verkehrssicherheit zusammenhängenden Tätigkeiten werden als Aufgaben des öffentlichen Rechts wahrgenommen.
-(3) Die Stadt Köln haftet nicht für Schäden, die durch nicht ordnungsgemäße Nutzung der öffentlichen Grünflächen und der Spiel- und Bolzplätze, durch dritte Personen, Tiere, höhere Gewalt oder übermäßige Witterungseinflüsse (zum Beispiel Sturm, starke Regenfälle, Blitzschlag, Hochwasser, Schneeglätte, Glatteis, extreme Hitze) entstehen. In öffentlichen Grünflächen und auf Spiel- und Bolzplätzen besteht keine Verpflichtung der Stadt Köln zur Beleuchtung oder zum Winterdienst auf Wegen und Plätzen.
+§ 23 Status und Verkehrssicherungspflicht (1) Die öffentlichen Grünflächen und die Spiel- und Bolzplätze sind öffentliche Einrichtungen der Stadt Köln. (2) Die in öffentlichen Grünflächen und auf Spiel- und Bolzplätzen mit dem Bau, der Unterhaltung und der Überwachung der Verkehrssicherheit zusammenhängenden Tätigkeiten werden als Aufgaben des öffentlichen Rechts wahrgenommen. (3) Die Stadt Köln haftet nicht für Schäden, die durch nicht ordnungsgemäße Nutzung der öffentlichen Grünflächen und der Spiel- und Bolzplätze, durch dritte Personen, Tiere, höhere Gewalt oder übermäßige Witterungseinflüsse (zum Beispiel Sturm, starke Regenfälle, Blitzschlag, Hochwasser, Schneeglätte, Glatteis, extreme Hitze) entstehen. In öffentlichen Grünflächen und auf Spiel- und Bolzplätzen besteht keine Verpflichtung der Stadt Köln zur Beleuchtung oder zum Winterdienst auf Wegen und Plätzen.
+Seite 10/17
+
 § 24 Sport und Spiele
 (1) Sport und Spiele wie Ballspiele oder Boule, Boccia, Frisbee, Drachensteigen und Ähnliches sind auf Wiesen von öffentlichen Grünflächen insoweit erlaubt, als andere Personen hierdurch nicht gefährdet oder mehr als den Umständen nach unvermeidbar behindert oder die Anlagen sowie deren Anpflanzung und Ausstattung hierdurch nicht geschädigt werden können.
 (2) Slacklining und vergleichbare, baumschädigende Sportarten sind nur an den dafür ausgewiesenen Stellen zulässig.
 (3) In den öffentlichen Grünflächen und auf öffentlichen Spiel- und Bolzplätzen sind Golf sowie Mannschaftssportarten und -spiele von kommerziellen Sportanbietern sowie Ligabetrieb grundsätzlich verboten.
 (4) Ebenso ist es verboten, Schleuder-, Wurf- und Schießgeräte, Modellfahrzeuge, Modellboote oder Modellfluggeräte zu nutzen; ausgenommen hiervon sind ungefährliche Kinderspielzeuge. Unberührt hiervon sind die Ausnahmen des Landschaftsplans.
-(5) Beim Befahren der Wege in öffentlichen Grünflächen mit Fahrrädern, Rollschuhen, InlineSkates, Tretrollern, Kickboards, Skateboards und Ähnlichem ist auf andere Personen in
-Seite 10/17
-
-besonderer Weise Rücksicht zu nehmen. Es ist verboten, abseits der Wege, wie zum Beispiel auf Wiesen, Treppen oder Gartenanlagen zu fahren.
+(5) Beim Befahren der Wege in öffentlichen Grünflächen mit Fahrrädern, Rollschuhen, InlineSkates, Tretrollern, Kickboards, Skateboards und Ähnlichem ist auf andere Personen in besonderer Weise Rücksicht zu nehmen. Es ist verboten, abseits der Wege, wie zum Beispiel auf Wiesen, Treppen oder Gartenanlagen zu fahren.
 (6) Abweichend von Abs. 1 sind Spiele in den folgenden Bereichen generell untersagt
 - im Botanischen, Forstbotanischen Garten und Finkens Garten, - in der Vogelschau Leidenhausen, im Tierpark Lindenthal und in den Wildparks, - im Rheinpark (mit Ausnahme des Jugendparks und der zum Rhein hin gelegenen
 Aktivitätszonen) und im Rheingarten, - in Zieranlagen sowie - auf Hundefreilaufflächen.
@@ -149,40 +140,34 @@ c) das Fahrradfahren von Jugendlichen und Erwachsenen sowie das Fahren mit ERoll
 d) das Befahren mit motorbetriebenen Fahrzeugen aller Art, unabhängig ihrer Antriebsart,
 e) die Einrichtung und Unterhaltung von Feuerstellen
 verboten.
+Seite 11/17
+
 § 26 Grillen
 (1) Grillen ist in öffentlichen Grünflächen im Rahmen der Bestimmungen des LandesImmissionsschutzgesetzes Nordrhein-Westfalen erlaubt, soweit für andere Personen oder die Umgebung keine Brandgefahren oder keine erheblichen Belästigungen durch Rauch, Geruch oder Flugasche zu befürchten sind.
 (2) Abweichend von Abs. 1 ist in den folgenden Bereichen und Anlagen das Grillen außerhalb der eingerichteten Grillplätze verboten:
 - auf Verkehrsflächen, - im Botanischen, Forstbotanischen Garten und Finkens Garten, - in der Vogelschau Leidenhausen, im Tierpark Lindenthal und in den Wildparks, - im Rheinpark, im Bereich des Rheinboulevards, im Rheingarten und im Stadtgarten, - in Zieranlagen, - auf öffentlichen Spiel- und Bolzplätzen, - auf Hundefreilaufflächen, - im Abstand bis zu 100 Metern zum Waldrand und - unterhalb von sowie in einem Abstand von weniger als zwei Metern zu Baumkronen.
-Seite 11/17
-
 (3) Es ist geeignetes Grillgerät zu verwenden und ein Abstand von mindestens 30 cm zum Boden einzuhalten. Die Benutzung von Einweggrills ist untersagt. Jegliche Beschädigungen wie ein Ausbreiten des Feuers, Verbrennen oder Versengen des Untergrundes sind zu verhindern. Es dürfen nur die zum Grillen handelsüblichen Stoffe verwendet werden; Spiritus oder andere flüssige Grillanzünder sowie offene Feuer sind verboten.
 (4) Grillfeuer sind ständig zu beaufsichtigen. Beim Verlassen des Grillplatzes oder bei starkem Wind sind Grillfeuer vollständig zu löschen. Vollständig gelöschte Grillasche und Grillabfälle sind ordnungsgemäß zu entsorgen.
-§ 27 Führen von Hunden (1) Hunde sind in öffentlichen Grünflächen und Wildparks an der Leine zu führen. Andere Personen dürfen nicht gefährdet oder mehr als den Umständen nach unvermeidbar beeinträchtigt werden.
+§ 27 Führen von Hunden
+(1) Hunde sind in öffentlichen Grünflächen und Wildparks an der Leine zu führen. Andere Personen dürfen nicht gefährdet oder mehr als den Umständen nach unvermeidbar beeinträchtigt werden.
 (2) Das Mitführen von Hunden – mit Ausnahme von Blindenführhunden und Behindertenbegleithunden – ist in den folgenden Bereichen verboten:
 - im Botanischen, Forstbotanischen Garten und Finkens Garten, - in der Vogelschau Leidenhausen und im Tierpark Lindenthal sowie - auf öffentlichen Spiel- und Bolzplätzen.
-§ 28 Hundefreilaufflächen (1) Hundefreilaufflächen dienen neben allgemeinen Erholungszwecken dem unangeleinten Auslauf von Hunden. Dazu zählen auch große Hunde gemäß § 11 Landeshundegesetz Nordrhein-Westfalen (LHundG). Gefährliche Hunde gemäß § 3 LHundG und Hunde bestimmter Rassen gemäß § 10 LHundG dürfen nur unangeleint laufen, wenn eine Befreiung gemäß § 5 Abs. 3 LHundG erteilt wurde.
+§ 28 Hundefreilaufflächen
+(1) Hundefreilaufflächen dienen neben allgemeinen Erholungszwecken dem unangeleinten Auslauf von Hunden. Dazu zählen auch große Hunde gemäß § 11 Landeshundegesetz Nordrhein-Westfalen (LHundG). Gefährliche Hunde gemäß § 3 LHundG und Hunde bestimmter Rassen gemäß § 10 LHundG dürfen nur unangeleint laufen, wenn eine Befreiung gemäß § 5 Abs. 3 LHundG erteilt wurde.
 (2) Auf Hundefreilaufflächen gilt das in § 4 geregelte Verbot der Verunreinigung durch Hundekot uneingeschränkt.
-§ 29 Reiten Das Reiten und das Führen von Pferden außerhalb der ausgewiesenen Reitwege sind in den öffentlichen Grünflächen und auf öffentlichen Spiel- und Bolzplätzen verboten.
-§ 30 Nutzungseinschränkungen und Nutzungsverbote (1) Die Stadt Köln kann für einzelne öffentliche Grünflächen, Anlagenteile oder öffentliche Spiel- und Bolzplätze Beschränkungen auf bestimmte Nutzungsregeln, Nutzungszeiten und Nutzergruppen festlegen und die Benutzung durch Gebote oder Verbote regeln.
-Dies gilt insbesondere für
-- den Botanischen, den Forstbotanischen Garten und den Finkens Garten, - die Vogelschau Leidenhausen, den Tierpark Lindenthal und die Wildparks und - den Rheinpark und im Bereich des Rheinboulevards Deutz.
-(2) Die Stadt Köln kann bei nicht ordnungsgemäßem Verhalten oder bei Verstößen gegen diese Verordnung einen Platzverweis erteilen. Bei nachhaltigen Störungen oder bei erheblichen oder wiederholten Verstößen gegen diese Verordnung kann ein befristetes oder unbefristetes Nutzungsverbot erteilt werden.
 Seite 12/17
 
+§ 29 Reiten Das Reiten und das Führen von Pferden außerhalb der ausgewiesenen Reitwege sind in den öffentlichen Grünflächen und auf öffentlichen Spiel- und Bolzplätzen verboten.
+§ 30 Nutzungseinschränkungen und Nutzungsverbote (1) Die Stadt Köln kann für einzelne öffentliche Grünflächen, Anlagenteile oder öffentliche Spiel- und Bolzplätze Beschränkungen auf bestimmte Nutzungsregeln, Nutzungszeiten und Nutzergruppen festlegen und die Benutzung durch Gebote oder Verbote regeln. Dies gilt insbesondere für
+- den Botanischen, den Forstbotanischen Garten und den Finkens Garten, - die Vogelschau Leidenhausen, den Tierpark Lindenthal und die Wildparks und - den Rheinpark und im Bereich des Rheinboulevards Deutz. (2) Die Stadt Köln kann bei nicht ordnungsgemäßem Verhalten oder bei Verstößen gegen diese Verordnung einen Platzverweis erteilen. Bei nachhaltigen Störungen oder bei erheblichen oder wiederholten Verstößen gegen diese Verordnung kann ein befristetes oder unbefristetes Nutzungsverbot erteilt werden.
 VI. Ordnungs- und Sicherheitsvorschriften im Umfeld der Stadien
-§ 31 Umfeld der Stadien
-(1) Stadien im Sinne dieser Verordnung sind das RheinEnergieStadion, das Südstadion und das Stadion im Sportpark Höhenberg.
-(2) An den Veranstaltungstagen hat sich im Umfeld der Stadien jeder so zu verhalten, dass andere nicht gefährdet, geschädigt oder mehr als nach den Umständen unvermeidbar behindert oder belästigt werden.
-Ab drei Stunden vor Beginn und bis zwei Stunden nach Ende der Veranstaltung ist insbesondere verboten:
-a) Waffen aller Art, z. B. Hieb-, Stoß-, Schuss- oder Stichwaffen, mitzuführen,
-b) Gas- oder andere Sprühdosen, ätzende oder färbende Substanzen mitzuführen,
-c) Feuerwerkskörper, Leuchtkugeln, Raketen, bengalische Feuer, Rauchpulver oder andere pyrotechnische Gegenstände mitzuführen,
-d) sperrige Gegenstände, z. B. Leitern, Hocker, Stühle oder Kisten, mitzuführen,
-e) Fahnen-, Transparent- oder Teleskopstangen, die länger als 1 m sind oder deren Durchmesser größer als 2 cm ist, mitzuführen,
-f) Gläser, Glasflaschen, Getränkedosen oder Krüge mitzuführen,
-g) Tiere mitzuführen, mit Ausnahme von Blindenführhunden und Behindertenbegleithunden sowie Tieren von Behörden, des Rettungsdienstes oder des Katastrophenschutzes ,
-h) alkoholhaltige Getränke außerhalb genehmigter Gastronomiebetriebe sowie Drogen aller Art mitzuführen,
-i) Laserpointer mitzuführen,
+§ 31 Umfeld der Stadien (1) Stadien im Sinne dieser Verordnung sind das RheinEnergieStadion, das Südstadion und das Stadion im Sportpark Höhenberg. (2) An den Veranstaltungstagen hat sich im Umfeld der Stadien jeder so zu verhalten, dass andere nicht gefährdet, geschädigt oder mehr als nach den Umständen unvermeidbar behindert oder belästigt werden. Ab drei Stunden vor Beginn und bis zwei Stunden nach Ende der Veranstaltung ist insbesondere verboten:
+a) Waffen aller Art, z. B. Hieb-, Stoß-, Schuss- oder Stichwaffen, mitzuführen, b) Gas- oder andere Sprühdosen, ätzende oder färbende Substanzen mitzuführen, c) Feuerwerkskörper, Leuchtkugeln, Raketen, bengalische Feuer, Rauchpulver oder
+andere pyrotechnische Gegenstände mitzuführen, d) sperrige Gegenstände, z. B. Leitern, Hocker, Stühle oder Kisten, mitzuführen, e) Fahnen-, Transparent- oder Teleskopstangen, die länger als 1 m sind oder deren
+Durchmesser größer als 2 cm ist, mitzuführen, f) Gläser, Glasflaschen, Getränkedosen oder Krüge mitzuführen, g) Tiere mitzuführen, mit Ausnahme von Blindenführhunden und
+Behindertenbegleithunden sowie Tieren von Behörden, des Rettungsdienstes oder des Katastrophenschutzes , h) alkoholhaltige Getränke außerhalb genehmigter Gastronomiebetriebe sowie Drogen aller Art mitzuführen, i) Laserpointer mitzuführen,
+Seite 13/17
+
 j) Waren aller Art, u.a. Eintrittskarten, Fanartikel, Lebensmittel oder sonstige Waren, ohne Erlaubnis der Stadt Köln anzubieten oder zu verkaufen,
 k) Drucksachen, Zeitungen, Zeitschriften aller Art ohne Erlaubnis der Stadt Köln zu verkaufen oder zu verteilen,
 l) nicht für den allgemeinen Gebrauch vorgesehene Bauten, Einrichtungen und Anlagen, insbesondere Fassaden, Zäune, Mauern, Mauerbrüstungen, Umfriedungen, Beleuchtungsanlagen, Bäume, Masten aller Art, Dächer sowie die Pflanzflächen zu betreten, zu besteigen oder zu übersteigen und
@@ -191,8 +176,6 @@ m) Gegenstände ohne Erlaubnis der Stadt Köln zu lagern.
 RheinEnergieStadion
 Bereich zwischen Peter-Günther-Weg – Olympiaweg – Heinrich-Billstein-Weg – Junkersdorfer Straße – Paul-Steger-Weg – Guts-Muths-Weg – Jakob-Zündorf-Weg – Theodor-ZingsheimWeg – Fritz-Schröder-Weg (siehe Anlage 2).
 Südstadion
-Seite 13/17
-
 Bereich zwischen Vorgebirgstraße – Am Vorgebirgstor – Höninger Weg – Gleise der Deutschen Bahn AG (siehe Anlage 3).
 Stadion im Sportpark Höhenberg
 Höhenberger Ring, Frankfurter Straße, Merheimer Heide, Zuwegung zu den Stehplätzen inkl. Verlängerung bis zum Höhenberger Ring (siehe Anlage 4).
@@ -203,7 +186,10 @@ VII. Schlussbestimmungen
 (2) Jegliche Veranstaltungen, Werbemaßnahmen, das Anbieten oder Verteilen von Waren oder Druckschriften, das Anbieten oder Erbringen gewerblicher Leistungen sowie gewerbliche oder private Aufbauten in öffentlichen Anlagen bedürfen einer Genehmigung durch die Stadt Köln.
 (3) Das Erstellen von gewerblichen Film-, Ton-, Video- oder Fotoaufnahmen in öffentlichen Anlagen, außer zu privaten Zwecken, bedarf ebenfalls einer Genehmigung durch die Stadt Köln.
 (4) Eine über die Vorschriften der §§ 24 bis 30 hinausgehende Nutzung der öffentlichen Anlagen, z. B. die Durchführung von Veranstaltungen, kann im Einzelfall auf Antrag von der Stadt Köln genehmigt werden.
-(5) Im Übrigen unterliegen im Straßenland besondere Nutzungen, die über den Gemeingebrauch hinausgehen, wie z. B. Veranstaltungen, Werbemaßnahmen, Straßenfeste, Außengastronomien, Baustelleneinrichtungen, gewerbliche Film-, Ton-, Video- oder Fotoaufnahmen, den Bestimmungen der Sondernutzungssatzung der Stadt Köln in der jeweils geltenden Fassung oder sonstigen straßenverkehrsrechtlichen oder straßenrechtlichen Vorschriften.
+(5) Im Übrigen unterliegen im Straßenland besondere Nutzungen, die über den Gemeingebrauch hinausgehen, wie z. B. Veranstaltungen, Werbemaßnahmen, Straßenfeste, Außengastronomien, Baustelleneinrichtungen, gewerbliche Film-, Ton-, Video- oder
+Seite 14/17
+
+Fotoaufnahmen, den Bestimmungen der Sondernutzungssatzung der Stadt Köln in der jeweils geltenden Fassung oder sonstigen straßenverkehrsrechtlichen oder straßenrechtlichen Vorschriften.
 § 33 Ordnungswidrigkeiten
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig im Geltungsbereich dieser Verordnung
 1. entgegen § 3 Abs. 1 Verunreinigungen vornimmt,
@@ -212,8 +198,6 @@ VII. Schlussbestimmungen
 4. entgegen § 3 Abs. 4 im Domumfeld innerhalb der Schutzzone Straßenmalerei ausführt,
 5. entgegen § 4 Verunreinigungen durch Tiere (Tierkot) nicht unverzüglich beseitigt,
 6. entgegen § 5 Abs. 1 Abfallbehälter nicht oder nicht in ausreichender Größe aufstellt oder anbringt oder nicht rechtzeitig entleert,
-Seite 14/17
-
 7. entgegen § 5 Abs. 2 die Abfälle nicht unverzüglich entfernt,
 7. a. entgegen § 5 Abs. 3 geeignete Behälter zur Entsorgung von Zigarettenkippen nicht oder nicht in ausreichender Größe aufstellt oder anbringt oder nicht rechtzeitig entleert,
 8. entgegen § 6 Abs. 1 Kraftfahrzeuge repariert, abspritzt, wäscht oder mit den dort genannten Flüssigkeiten behandelt,
@@ -226,6 +210,8 @@ Seite 14/17
 14. entgegen § 9 Abs. 1, Satz 2 einen Lautsprecher oder elektronische Verstärker für Straßenmusik, Straßenschauspiel oder andere Straßenkunst benutzt,
 14a. entgegen § 9 Abs.2, Satz 1 an einem nicht in der Anlage 1.2 gekennzeichneten Ort spielt,
 15. entgegen § 10 religiöse oder andere schutzwürdige Veranstaltungen oder schutzwürdige Einrichtungen stört,
+Seite 15/17
+
 16. entgegen § 11 Abs. 1 a) aggressiv bettelt und/oder aggressive Verkaufspraktiken ausübt oder nicht zulässige Formen des Bettelns praktiziert,
 17. entgegen § 11 Abs. 1 b) sich an wiederkehrenden Ansammlungen beteiligt, von denen Störungen ausgehen,
 18. entgegen § 11 Abs. 1 c) in Verbindung mit dem Konsum von Alkohol, Drogen oder ähnlichen Substanzen wie Distickstoffmonoxid, sogenanntes technisches Lachgas, eine Störung verursacht,
@@ -236,8 +222,6 @@ Seite 14/17
 23. entgegen § 12 Satz 1 innerhalb der Sperrbezirke zu Personen Kontakt aufnimmt, um sexuelle Handlungen gegen Entgelt zu vereinbaren,
 24. entgegen § 12 Satz 2 innerhalb der Sperrbezirke sexuelle Handlungen gegen Entgelt durchführt,
 25. entgegen § 13 Abs. 1 offenes Feuer entzündet oder unterhält,
-Seite 15/17
-
 26. entgegen § 13 Abs. 2 ohne Erlaubnis ein Brauchtumsfeuer entzündet oder unterhält,
 27. entgegen § 13 Abs. 3 glimmende Gegenstände oder sonstige Gegenstände, die geeignet sind, Feuer zu verursachen, wegwirft,
 28. entgegen § 14 Schneeüberhänge, Eiszapfen oder Ähnliches nicht unverzüglich entfernt,
@@ -245,12 +229,15 @@ Seite 15/17
 30. entgegen § 15 Abs. 2 Windvögel (Drachen) steigen lässt,
 31. entgegen § 16 Stacheldraht oder andere gefährliche Gegenstände anbringt,
 32. entgegen § 17 Abs. 1 außerhalb der ausgewiesenen Bereiche badet,
+a) entgegen § 17 Abs. 2 im Rhein badet,
 33. entgegen § 18 Abs. 1 die Hausnummer nicht oder nicht in der vorgeschriebenen Form anbringt oder nicht in einem ordnungsgemäßen Zustand erhält,
 34. entgegen § 18 Abs. 2 die alte Hausnummer entfernt, nicht als ungültig kennzeichnet oder die Lesbarkeit vereitelt,
 35. entgegen § 19 Abs. 1 im Stadtgebiet Köln verwilderte Haustauben oder Wildtauben füttert oder Futter so auslegt, dass es von verwilderten Haustauben oder Wildtauben erreicht werden kann,
 36. entgegen § 20 Wasservögel oder Fische an öffentlichen Wasserflächen füttert oder Futter auslegt oder Futter in sonstiger Weise anbietet,
 37. entgegen § 21 Abs. 1 öffentliche Verkehrsflächen, öffentliche Anlagen und Einrichtungen beschädigt,
 38. entgegen § 21 Abs. 2 öffentliche Anlagen zweckwidrig benutzt oder Flora, Fauna oder die Ausstattungen beschädigt, beschmutzt oder anderweitig beeinträchtigt,
+Seite 16/17
+
 39. entgegen § 22 Kraftfahrzeuge, Fahrzeuge oder Anhänger auf den genannten Bereichen fährt, parkt, mitführt oder abstellt,
 40. entgegen § 24 Abs. 1 andere Personen gefährdet oder mehr als den Umständen nach unvermeidbar behindert oder die Anlagen sowie deren Anpflanzung und Ausstattung schädigt,
 41. entgegen § 24 Abs. 2 Slacklining oder vergleichbare baumschädigende Sportarten praktiziert,
@@ -260,8 +247,6 @@ Seite 15/17
 45. entgegen § 24 Abs. 6 und Abs. 7 in den genannten Bereichen spielt,
 46. entgegen § 25 Abs. 1 außerhalb der zugelassenen Zeiten öffentliche Spiel- und Bolzplätze benutzt,
 47. entgegen § 25 Abs. 2 a) auf öffentlichen Spiel- und Bolzplätzen alkoholische Getränke konsumiert oder mitführt,
-Seite 16/17
-
 48. entgegen § 25 Abs. 2 b) auf öffentlichen Spiel- und Bolzplätzen Tabakwaren und andere nikotinhaltige Erzeugnisse, Cannabis, Drogen und/oder ähnliche Substanzen wie Distickstoffmonoxid, sogenanntes technisches Lachgas, konsumiert,
 49. entgegen § 25 Abs. 2 c) als Jugendlicher oder Erwachsener auf Spiel- oder Bolzplätzen Fahrrad oder mit E-Rollern fährt,
 50. entgegen § 25 Abs. 2 d) Spiel- oder Bolzplätze mit motorbetriebenen Fahrzeugen aller Art (unabhängig von der Antriebsart) befährt,
@@ -274,19 +259,16 @@ Seite 16/17
 57. entgegen § 27 Abs. 2 Hunde in den genannten Bereichen mitführt,
 58. entgegen § 28 Abs. 1 gefährliche Hunde gemäß § 3 Landeshundegesetz und Hunde bestimmter Rassen gemäß § 10 Landeshundegesetz unangeleint laufen lässt,
 59. entgegen § 29 außerhalb der ausgewiesenen Reitwege reitet oder ein Pferd führt,
+Seite 17/17
+
 60. entgegen § 30 Abs.1 öffentliche Anlagen entgegen der Nutzungsgebote oder Nutzungseinschränkungen nutzt,
 61. entgegen § 31 Abs. 2 Satz 1 sich an Veranstaltungstagen nicht so verhält, dass andere nicht gefährdet, geschädigt oder mehr als nach den Umständen unvermeidbar behindert oder belästigt werden,
 62. entgegen § 31 Abs. 2 Satz 2 a) –i) die dort genannten Gegenstände, Tiere, alkoholhaltige Getränke oder Drogen mitführt,
-63. entgegen § 31 Abs. 2 Satz 2 j) Waren anbietet oder verkauft,
-64. entgegen § 31 Abs. 2 Satz 2 k) Drucksachen verkauft oder verteilt,
-65. entgegen § 31 Abs. 2 Satz 2 l) Bauten, Einrichtungen oder Anlagen betritt, besteigt oder übersteigt,
-66. entgegen § 31 Abs. 2 Satz 2 m) Gegenstände lagert,
-67. entgegen § 32 Abs. 2 oder Abs. 3 ohne erforderliche Genehmigung handelt.
-(2) Die Ordnungswidrigkeit nach Abs. 1 kann gemäß § 17 Abs. 1 des Gesetzes über Ordnungswidrigkeiten mit einer Geldbuße bis zu 1.000,-- Euro geahndet werden.
-(3) Gegenstände, die entgegen den ausdrücklichen Verboten des § 31 Abs. 2 mitgeführt werden, können eingezogen werden.
-Seite 17/17
-
-§ 34 Andere Rechtsvorschriften Die in anderen Rechtsvorschriften getroffenen Regelungen, insbesondere danach erforderliche Erlaubnisse und Genehmigungen, werden durch diese Verordnung nicht berührt. § 35 Inkrafttreten, Außerkrafttreten (1) Diese Verordnung tritt eine Woche nach ihrer Verkündung im Amtsblatt der Stadt Köln in Kraft. (2) Mit dem Inkrafttreten dieser Verordnung treten die Ordnungsbehördliche Verordnung über die öffentliche Sicherheit und Ordnung im Gebiet der Stadt Köln, insbesondere auf den Straßen und in den U-Bahn-Anlagen (Kölner Straßenordnung - KStO) vom 01.04.2005 in der aktuellen Fassung vom 15.06.2011, die Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung in den öffentlichen Grünflächen der Stadt Köln (Grünflächenordnung ) in der Fassung vom 24.03.2003, die Spiel- und Bolzplatzsatzung der Stadt Köln vom 31.10.2008 in der Fassung vom 31.10.2008, die Ordnungsbehördliche Verordnung über das Verbot der Fütterung von Wasservögeln und Fischen an öffentlichen Wasserflächen auf dem Gebiet der Stadt Köln vom 23.11.1995, die Ordnungsbehördliche Verordnung über das Verbot der Fütterung von verwilderten Haustauben und Wildtauben im Gebiet der Stadt Köln vom 17. Dezember 2004 außer Kraft. Stadt Köln als örtliche Ordnungsbehörde
+63. entgegen § 31 Abs. 2 Satz 2 j) Waren anbietet oder verkauft, 64. entgegen § 31 Abs. 2 Satz 2 k) Drucksachen verkauft oder verteilt, 65. entgegen § 31 Abs. 2 Satz 2 l) Bauten, Einrichtungen oder Anlagen betritt, besteigt
+oder übersteigt, 66. entgegen § 31 Abs. 2 Satz 2 m) Gegenstände lagert, 67. entgegen § 32 Abs. 2 oder Abs. 3 ohne erforderliche Genehmigung handelt. (2) Die Ordnungswidrigkeit nach Abs. 1 kann gemäß § 17 Abs. 1 des Gesetzes über Ordnungswidrigkeiten mit einer Geldbuße bis zu 1.000,-- Euro geahndet werden. (3) Gegenstände, die entgegen den ausdrücklichen Verboten des § 31 Abs. 2 mitgeführt werden, können eingezogen werden.
+§ 34 Andere Rechtsvorschriften Die in anderen Rechtsvorschriften getroffenen Regelungen, insbesondere danach erforderliche Erlaubnisse und Genehmigungen, werden durch diese Verordnung nicht berührt.
+§ 35 Inkrafttreten, Außerkrafttreten (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft. (2) Mit dem Inkrafttreten dieser Verordnung treten die Ordnungsbehördliche Verordnung über die öffentliche Sicherheit und Ordnung im Gebiet der Stadt Köln, insbesondere auf den Straßen und in den U-Bahn-Anlagen (Kölner Straßenordnung - KStO) vom 01.04.2005 in der aktuellen Fassung vom 15.06.2011, die Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung in den öffentlichen Grünflächen der Stadt Köln (Grünflächenordnung ) in der Fassung vom 24.03.2003, die Spiel- und Bolzplatzsatzung der Stadt Köln vom 31.10.2008 in der Fassung vom 31.10.2008, die Ordnungsbehördliche Verordnung über das Verbot der Fütterung von Wasservögeln und Fischen an öffentlichen Wasserflächen auf dem Gebiet der Stadt Köln vom 23.11.1995, die Ordnungsbehördliche Verordnung über das Verbot der Fütterung von verwilderten Haustauben und Wildtauben im Gebiet der Stadt Köln vom 17. Dezember 2004 außer Kraft.
+Stadt Köln als örtliche Ordnungsbehörde
 Seite 18/17
 
 Anlage 2 Plan: RheinEnergieStadion
