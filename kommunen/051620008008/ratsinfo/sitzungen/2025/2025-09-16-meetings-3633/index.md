@@ -1,0 +1,67 @@
+# Verwaltungsrat
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-09-16T18:30:00+02:00
+- Ende: 2025-09-16T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3633
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3633
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Mobilitätskonzept der Stadt Grevenbroich
+- TOP 3.1: Mobilitätskonzept der Stadt Grevenbroich - Vortrag
+- TOP 3.2: Mobilitätsmanagement - Kenntnisnahme
+- TOP 4: Wirtschaftsplan 2026 - vorläufige Bewirtschaftungsregeln - einstimmig beschlossen
+- TOP 5: Energiebericht 2024 - Kenntnisnahme
+- TOP 6: Zwischenbericht NBuS-Projektgruppe – Informationsvorlage - Kenntnisnahme
+- TOP 7: Genehmigung der Dringlichkeitsentscheidung über die Wiederherstellung der Ausgleichsfläche K26 - einstimmig beschlossen
+- TOP 8: Gebührenbedarfsberechnung über die Erhebung von Winterdienstgebühren 2026 - einstimmig beschlossen
+- TOP 9: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 28.08.2025
+- TOP 9.1: Situation des ÖPNV in Grevenbroich – Optimierung der Schülerlinie 091 - einstimmig beschlossen
+- TOP 9.2: ÖPNV in Grevenbroich - Anbindung des Rheinland-Klinikums in Hackenbroich - einstimmig beschlossen
+- TOP 9.3: Sanierung des Kirmesplatzes im Stadtteil Orken - einstimmig beschlossen
+- TOP 9.4: Erweiterung der Beleuchtung auf der Hoeninger Straße in Barrenstein - einstimmig beschlossen
+- TOP 9.5: Ausbau der geplanten Sporthalle in Neukirchen als Mehrzweckhalle (Antrag Nr.:114/2024) - einstimmig beschlossen
+- TOP 9.6: Handlungsbedarf an der Holzbrücke beim Tiergehege - einstimmig beschlossen
+- TOP 9.7: Bewusstsein schaffen - Parksituation „Am Bahndamm“ durch Piktogramme ergänzen - vertagt
+- TOP 9.8: Schützenplatz in Hemmerden fit für die Zukunft machen - einstimmig beschlossen
+- TOP 10: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 27.08.2025
+- TOP 10.1: Insektenmonitoring auf ausgewählten Extensivflächen - einstimmig beschlossen
+- TOP 10.2: Zigarettenkippen kreativ bekämpfen - einstimmig beschlossen
+- TOP 10.3: Neukonzeption der Grünfläche an der Ecke Schlossstraße / Karl-Oberbach-Straße - einstimmig beschlossen
+- TOP 10.4: Zusätzlich 500.000 Euro für Nachpflanzung von Bäumen etatisieren - einstimmig beschlossen
+- TOP 10.5: Prüfung auf Errichtung eines Kolumbariums auf dem Friedhof in Kapellen - einstimmig beschlossen
+- TOP 10.6: Neubepflanzung der Streuobstwiese am Neubaugebiet Königslindenstraße in Neuenhausen - einstimmig beschlossen
+- TOP 10.7: Baumpflanzungen auf Schulhöfen und im Außenbereich der Kindergärten im Stadtgebiet Grevenbroich - einstimmig beschlossen
+- TOP 10.8: Errichtung eines Kolumbariums auf dem Friedhof in Frimmersdorf - einstimmig beschlossen
+- TOP 10.9: Einführung eines Kolumbariums auf dem Friedhof Elsen - einstimmig beschlossen
+- TOP 11: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 11.1: Beleuchtung Fußweg zwischen Willibrordusstraße und Ahornstraße/ Am Kleekamp in Neuenhausen - einstimmig beschlossen
+- TOP 11.2: Errichtung zweier zusätzlicher Straßenlaternen in der gasse zwischen Kaster Straße und Unterbruchstraße in Frimmersdorf - einstimmig beschlossen
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: Anträge der SPD-Fraktion
+- TOP 12.1.1: Antrag auf Änderung der Friedhofssatzung hinsichtlich der Entsorgung von Grünschnitt durch Gewerbetreibende - einstimmig beschlossen
+- TOP 12.2: Anträge der CDU-Fraktion
+- TOP 12.2.1: Tempo 30 km/h auf der Hülchrather Straße in Neukirchen einrichten - einstimmig beschlossen
+- TOP 12.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 12.4: Anträge der FDP-Fraktion
+- TOP 12.4.1: Straßenlaterne an der Schillingstraße 15 im Stadtteil Gindorf - einstimmig beschlossen
+- TOP 12.4.2: Verkehrssicherheit Hülserweg in Wevelinghoven - einstimmig beschlossen
+- TOP 12.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 12.5.1: Piktogramme an der Grabenstraße in Noithausen - einstimmig beschlossen
+- TOP 12.5.2: Grünfläche Ecke Gürather Str. / Sankt Lambertus im Rahmen des Projekts des BUND "1000 Bäume für Grevenrboich" bepflanzen - einstimmig beschlossen
+- TOP 12.6: Anträge der UWG-Fraktion
+- TOP 12.7: Gemeinschaftsanträge
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfragen der Fraktion Mein Grevenbroich
+- TOP 13.1.1: Freischnitt Leuchtstellen und Verkehrsschilder - Kenntnisnahme
+- TOP 13.1.2: „Plauderbänke" am Hammerwerk, Gerberstraße, Stifterstraße und Torfstecherweg - Kenntnisnahme
+- TOP 14: Anfragen von Verwaltungsratsmitgliedern
+- TOP 15: Mitteilungen des Vorstandes
+- TOP 16: Mitteilungen des Verwaltungsratsvorsitzenden
