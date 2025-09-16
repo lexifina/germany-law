@@ -1,0 +1,7 @@
+# TOP 8: Vorstellung des Projektes "MentForMigra" anhand eines mündlichen Berichts
+
+- Sitzung: Schulausschuss (2025-09-16)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/378412
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/135824
