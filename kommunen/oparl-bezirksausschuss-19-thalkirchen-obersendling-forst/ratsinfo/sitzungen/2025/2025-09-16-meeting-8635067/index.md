@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-09-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8635067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8635067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.08.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (Anfrage) Fragen zur Zukunft des Bad Forstenried
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV Forstenried e.V. Tischtennisplatten für den TSV Forstenried e.V. ab Oktober 2025 1.027,50€; Az. 0262.0-19-0600
+- TOP 3.3.: (E) Stadtbezirksbudget Andreas Gospel Singers Beschaffung von Monitorboxen inklusive Zubehör vom 07.09. -31.12.2025 1.263,00€; Az. 0262.0-19-0599
+- TOP 3.4.: (E) Stadtbezirksbudget Kleingartenverein SW 58 Bau eines Wildbienenbiotops mit begehbarer Blumenwiese von September 2025 -Juni 2026 4.339,29€; Az. 0262.0-19-0597
+- TOP 3.5.: (E) Stadtbezirksbudget Trägerverein Bürgersaal Fürstenried Technik im Bürgersaal von November 2025 -März 2026 15.779,40€; Az. 0262.0-19-0602
+- TOP 3.6.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren“ Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 -14.10.2026 1.450,00€; Az. 0262.0-19-0603
+- TOP 3.7.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren“ Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 -14.10.2027 1.450,00€; Az. 0262.0-19-0604
+- TOP 3.8.: 125 Jahre Eingemeindung Thalkirchen
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Antwort Erweiterung Parklizenzgebiet Thalkirchen
+- TOP 5.2.: (A) Öffentlicher Dienstleistungsauftrag (ÖDLA) an die MVG und 4-Jahres-Planung
+- TOP 5.3.: (Antrag) Geteilte Abstellfläche E-Mobilität Zeismeringer Straße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung Einrichtung eines personenbezogenen Behindertenparkplatzes Kemptener Straße
+- TOP 5.5.: (A) Errichtung P+R-Anlage Aidenbachstraße
+- TOP 5.6.: (E) Benutzung der Parkbuchten an der Graubündener Str. nur für PKW erlauben
+- TOP 5.7.: (E) Tempo 30-Zone auf der Forstenrieder Allee
+- TOP 5.8.: (E) Beendigung des verkehrsbehindernden Abstellens von E-Scootern
+- TOP 5.9.: (E) U-Bahn-Station Basler Straße - Errichtung einer überdachte Fahrradabstellanlage
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Ziehrerstraße 3
+- TOP 6.2.2: Leebstraße 5
+- TOP 6.2.3: Bauweberstraße 7a
+- TOP 6.2.4: Reismühlenstraße 28
+- TOP 6.2.5: Mühlthaler Straße 83
+- TOP 6.2.6: -abgesetzt-
+- TOP 6.2.7: Almbachstraße 6 (VB)
+- TOP 6.2.8: Baierbrunner Straße 54 (VB)
+- TOP 6.2.9: Kistlerhofstraße 237
+- TOP 6.2.10: Weißkirchner Straße 1
+- TOP 6.2.11: Schaidlerstraße 9
+- TOP 6.3.: (A) Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Anfrage) Schulsituation im 19. Stadtbezirk
+- TOP 7.3.: (A) Beschlussvorlage "Kita- und Ganztagsbarometer"
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Erhalt der PLATFORM in Obersendling
+- TOP 9: Verschiedenes
