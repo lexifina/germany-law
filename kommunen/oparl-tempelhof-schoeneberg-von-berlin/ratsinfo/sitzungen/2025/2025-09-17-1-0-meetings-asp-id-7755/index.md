@@ -1,0 +1,123 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2025-09-17T17:00:00+02:00
+- Ende: 2025-09-17T21:25:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7755
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7755
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=476911
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 3.1: Reparatur der Fenster und des Bodens der Turnhalle der Ikarus-Grundschule - überwiesen
+- TOP 3.2: Renovierung der Toiletten der Turnhalle der Ikarus-Grundschule - überwiesen
+- TOP 3.3: Wasserspender an Oberschulen - überwiesen
+- TOP 3.4: Jugendverkehrsschule in Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.5: Alle Schulen des Bezirks Tempelhof-Schöneberg müssen eine Schulbibliothek erhalten - überwiesen
+- TOP 3.6: Neue Basketballkörbe für die Grundschule am Barbarossaplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.7: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Verkehrsberuhigung für die Rote Insel und die Schöneberger Linse - in der BVV abgelehnt
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Wie gut funktioniert die Parkraumbewirtschaftung? - schriftlich beantwortet
+- TOP 4.2: Tempo 30 muss bleiben – für bessere Luftqualität, mehr Verkehrssicherheit und Lebensqualität - mit Änderungen in der BVV beschlossen
+- TOP 4.3: Ampelanlage am John-F.-Kennedy-Platz erneuern und Fuß- und Radwegeverbindungen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Keine Kürzungen und Qualitätsverschlechterungen in den Kitas - überwiesen
+- TOP 4.5: Parkschein oder Parkuhr? - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2026 - vertagt
+- TOP 5.2: Nachnutzung des Wenckebachkrankenhauses - überwiesen
+- TOP 5.3: Wiederaufbau des Altenheimes am Westphalweg in Mariendorf - überwiesen
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Entwurf des Bezirkshaushaltsplans 2026/2027 - überwiesen
+- TOP 6.2: Festsetzung des Bebauungsplans XI-231abb für das Grundstück Ella-Barowsky-Straße 32-38 und Wilhelm-Kabus-Straße 88/92 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 6.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk II (Mariendorf, Marienfelde, Lichtenra-de) durch die Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Unterstützung der AHA - queere Räume schützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Preis für bezirkliche Projekte zur Förderung von Chancengerechtigkeit ausloben - vertagt
+- TOP 9.3: Belziger Straße fußverkehrsfreundlich gestalten - vertagt
+- TOP 9.4: Kein Parkplatzwegfall, kein Schilderwald und keine Raserei in der Monumenten-, Langenscheidt- und Belziger Straße - vertagt
+- TOP 9.5: Beleuchtungskonzept am Tempelhofer Damm – Sicherheit und Aufenthaltsqualität für Fußgänger gewährleisten - in der BVV abgelehnt
+- TOP 9.6: Ausführungsvorschriften für bauliche Veränderungen in Milieuschutzgebieten in Tempelhof - Schöneberg - vertagt
+- TOP 9.7: Neue Perspektiven für die marode Brunnenanlage auf dem Bayerischen Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Hände weg vom Deutschland-Ticket! - vertagt
+- TOP 9.9: Das Haus am Kleistpark vor Schäden bewahren - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Einsatz von Pheromonfallen zur Bekämpfung des Eichenprozessionsspinners - in der BVV abgelehnt
+- TOP 9.11: Neue Chance für „Bello“ auf dem Mittelstreifen An der Urania - vertagt
+- TOP 9.12: Weiße Rose als Spielstätte für kontinuierliches, professionelles Kinder- und Jugendtheater erhalten und weiterentwickeln - vertagt
+- TOP 9.13: Beantragte Anwohner*innenparkausweise: Kontrolle im Sinne der Anwohner*innen und transparente Information - vertagt
+- TOP 9.14: Ordnung des Radverkehrs auf dem Richard-von-Weizsäcker-Platz - überwiesen
+- TOP 9.15: Keine Verkauf, keine Entwidmung von Sportflächen im Bezirk - überwiesen
+- TOP 9.16: Kriminalitätsschwerpunkt Hotel in der Fuggerstraße 13 - vertagt
+- TOP 9.17: Ausschüsse der BVV für die Öffentlichkeit zugänglich machen - in der BVV zurückgezogen
+- TOP 9.18: Lärmschutz in der Kleiststraße - Tempo 30 anordnen - vertagt
+- TOP 9.19: Gedenken an den 7. Oktober 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Bewährte Tempo 30-Straßen im Bezirk bestehen lassen - in der BVV zurückgezogen
+- TOP 9.21: Die Fortführung des Berliner Parkläuferprogramms in Tempelhof-Schöneberg sichern - in der BVV abgelehnt
+- TOP 9.22: Neue Parkbank auf Spielplatz „Leberstr. 9“ aufstellen - überwiesen
+- TOP 9.23: Informationstafeln zum Spontan-Biotop im Annedore-Leber-Park - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Schulen im Klimawandel: Hitzeschutz und Prävention - überwiesen
+- TOP 9.25: Breslauer Platz: Eine Fußgängerzone braucht keine Ampel für Autos - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Schranke öffnen: Parkplätze in der Götzstraße freigeben - überwiesen
+- TOP 9.27: Bezirkliches Gedenken anlässlich der Deportation der Russlanddeutschen am 28. August 1941 - überwiesen
+- TOP 9.28: Förderung innovativer Energielösungen in Tempelhof-Schöneberg: Erprobung von Wärme- und Kältespeichertechnologien in öffentlichen Gebäuden ermöglichen - überwiesen
+- TOP 9.29: Wiederbeschaffung des Schriftzuges vom S-Bahnhof Lichtenrade - mit Änderungen in der BVV beschlossen
+- TOP 9.30: Erweiterung Soziales Erhaltungsgebiet „Schöneberger Insel“ - überwiesen
+- TOP 9.31: Hundeauslauffläche auf dem Mittelstreifen der Straße Alt-Tempelhof - vertagt
+- TOP 9.32: Denkmalschutz für die Flora - überwiesen
+- TOP 9.33: Öffentliche Toilette auf dem Pfarrer-Lütkehaus-Platz nicht mehr zugänglich - mit Änderungen in der BVV beschlossen
+- TOP 9.34: Beleuchtung des Basketballplatzes Friedrich-Wilhelm-Platz - überwiesen
+- TOP 9.35: Beleuchtung des Spielplatzes Görresstraße - überwiesen
+- TOP 9.36: LKW-Verkehr in der Oberlandstraße - überwiesen
+- TOP 9.37: Illegales Parken in der Fußgängerzone am KaDeWe beenden - ohne Änderungen in der BVV beschlossen
+- TOP 9.38: Fahrerloser Testbetrieb auf der U4 - ohne Änderungen in der BVV beschlossen
+- TOP 9.39: Ausschilderung der Kettinger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.40: Queeres Leben im Bezirk - Regenbogenkiez ins Netz! - vertagt
+- TOP 9.41: Das Tempelhof Museum in Alt-Mariendorf aus dem Dornröschenschlaf holen - ohne Änderungen in der BVV beschlossen
+- TOP 9.42: Fahrradbügel am Winterfeldtplatz versetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.43: Deutsche Bahn am S-Bahnhof Tempelhof in die Pflicht nehmen - vertagt
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Ist unsere Parkraumbewirtschaftung noch wirtschaftlich? - schriftlich beantwortet
+- TOP 10.2: Photovoltaikanlagen auf bezirklichen Liegenschaften – Kosten, Nutzen und Verträge - vertagt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Errichtung kostenloser Toiletten bei Spielplätzen in Tempelhof-Schöneberg - vertagt
+- TOP 11.2: Königskolonnaden am Kleistpark sichern - vertagt
+- TOP 11.3: Fahrradanlage auf dem Lichtenrader Damm angehen - vertagt
+- TOP 11.4: Parkmanagement finanziell sichern - Arbeit der Parkläufer*innen langfristig erhalten - vertagt
+- TOP 11.5: Projekt für Dialogformat und Demokratiebildung mit Fokus Nahostkonflikt - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Einrichtung einer Ampelanlage bzw. Einrichtung längerer Grünphasen an bestehenden Ampelanlagen - gegenstandslos
+- TOP 11.7: Einrichtung eines Zebrastreifens - gegenstandslos
+- TOP 11.8: Einrichtungen von Parkverbotszonen bzw. temporäres Einfahrtverbot - gegenstandslos
+- TOP 11.9: Änderung der Geschäftsordnung – Ablehnung von Beschlussempfehlungen - mit Änderungen in der BVV beschlossen
+- TOP 11.10: Brachfläche der Friedrich-Ebert-Sportanlage sportlich nutzen - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Pflegesituation im Bezirk verbessern – Möglichkeiten des SGB XI, § 123 nutzen - vertagt
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Klimaanpassung durch Entsiegelung - Tempelhof-Schöneberg zukunftsfit machen - überwiesen
+- TOP 12.2: Übersicht zur Einhaltung städtebaulicher Verträge und festgelegter Ausgleichsmaßnahmen aus Bebauungsplänen - überwiesen
+- TOP 12.3: Bessere Beleuchtung in der Frobenstraße für Sexarbeitende - überwiesen
+- TOP 12.4: Erlass von Sondernutzungsgebühren für die Gastronomie rechtssicher ausgestalten - überwiesen
+- TOP 12.5: Stillgelegter Straßenabschnitt der Apostel-Paulus-Straße als Spiel- und Sportfläche neugestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Queere Obdachlose im Blick - überwiesen
+- TOP 12.7: Haushaltswirtschaft mit Augenmaß: Soziale Infrastruktur schützen und erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.8: Sackgasse Dörfelweg/Eisnerstraße kenntlich machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.9: Leben retten durch Schwimmen! Infrastruktur jetzt schaffen! - überwiesen
+- TOP 12.10: Newsletter für Senior*innenarbeit - überwiesen
+- TOP 12.11: Ehemalige Hausmeisterwohnung im Rathaus Tempelhof sinnvoll nutzen - überwiesen
+- TOP 12.12: EU-Fördermittel für die Neue Mitte Tempelhof - überwiesen
+- TOP 12.13: Wahlrecht für Obdachlose stärken - überwiesen
+- TOP 12.14: Projekt Brillenboxen auch für Tempelhof-Schöneberg - überwiesen
+- TOP 12.15: Auf dem Weg zum smarten Bürgeramt: Kontaktlose Dokumentenausgabe ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.16: Erweiterung des Geltungsbereichs des im Verfahren befindlichen Bebauungsplans 7 102 - überwiesen
+- TOP 12.17: Abschluss einer Projektvereinbarung mit der HOWOGE zur Errichtung eines Schulersatzneubaus für die Solling-Schule (07K05) in Amtshilfe - überwiesen
+- TOP 12.18: BENN-Handlungskonzept 2025-2027 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.19: Neue Schulmensa für die Stechlinsee-Grundschule (07G17) am Schulstandort Rheingaustraße 7, 12161 Berlin - überwiesen
+- TOP 12.20: Aufstellung des Bebauungsplans 7-109 für die Grundstücke Hessenring 29, 37, 47, Werner-Voß-Damm 13, Boelckestraße 90/106, im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof - überwiesen
+- TOP 12.21: Entwurf des Landschaftsplans 7-L- 6 "Landschaftspark Marienfelde" - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
