@@ -1,0 +1,64 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-09-17T17:00:00+02:00
+- Ende: 2025-09-17T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000109
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000109
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1445021&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 18.06.2025 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 09.07.2025 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Umwandlung der Solidaritätspartnerschaft zwischen Chernihiv und Aachen in eine reguläre Städtepartnerschaft - ungeändert beschlossen
+- TOP 6: Neufassung der Vergnügungssteuersatzung in Aachen - ungeändert beschlossen
+- TOP 7: 7. Nachtrag der Kurbeitragssatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 8: 9. Nachtrag zur Gebührenordnung für Parkscheinautomaten im Gebiet der Stadt Aachen (Parkgebührenordnung) - ungeändert beschlossen
+- TOP 9: Beratung und Genehmigung des Bedarfsplans 2025 der Stadt Aachen zur Durchführung des Rettungsdienstes nach Abschluss des Beteiligungsverfahrens - ungeändert beschlossen
+- TOP 10: Einrichtung von fünf halben Stellen für Erzieher*innen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 994 - Raafstraße / Sanddornweg - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 11.1: Vorhabenbezogener Bebauungsplan Nr. 994 - Raafstraße / Sanddornweg - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - zur Kenntnis genommen
+- TOP 12: Bebauungsplan Nr. 1016 - Reumontstraße / Leonhardstraße - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. 1004 - Monheimsallee / ehemaliges Knappschaftsgebäude - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 13.1: Vorhabenbezogener Bebauungsplan Nr. 1004 - Monheimsallee / ehemaliges Knappschaftsgebäude - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - zur Kenntnis genommen
+- TOP 14: Vorhabenbezogener Bebauungsplan Nr. 993 - Südstraße / Mariabrunnstraße - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14.1: Vorhabenbezogener Bebauungsplan Nr. 993 - Südstraße / Mariabrunnstraße - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - zur Kenntnis genommen
+- TOP 15: Bebauungsplan Nr. 1012 – Grauenhofer Weg / Stettiner Straße – hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - vertagt
+- TOP 16: Aufhebung der Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB - Boxgraben / Südstraße - - ungeändert beschlossen
+- TOP 17: Jahresabschluss Eurogress Aachen 2024 - vertagt
+- TOP 18: Satzungsänderung des Eigenbetriebs Eurogress Aachen - vertagt
+- TOP 19: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2024 in das Haushaltsjahr 2025 - zur Kenntnis genommen
+- TOP 20: Antragstellung auf Teilnahme der Stadt Aachen am Altschuldenentlastungsprogramm des Landes Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 21: Schenkung der Edition „7000 Palmen“ der Künstlerin Cosima von Bonin seitens des Fridericianums, Kassel, an das Ludwig Forum für Internationale Kunst - ungeändert beschlossen
+- TOP 22: Benennung von Delegierten für die außerordentliche Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 08.10.2025 - ungeändert beschlossen
+- TOP 23: Anfragen
+- TOP 23.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 23.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 24: Ratsanträge - ungeändert beschlossen
+- TOP 25: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 25.1: Umbesetzungsantrag der CDU-Fraktion vom 15.09.2025 - ungeändert beschlossen
+- TOP 26: Mitteilungen der Verwaltung
+- TOP 27: Haus der Neugier GmbH: Einzahlung in die Kapitalrücklage - überplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
