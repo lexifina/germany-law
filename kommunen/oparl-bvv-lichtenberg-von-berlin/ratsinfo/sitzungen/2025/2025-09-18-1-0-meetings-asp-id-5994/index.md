@@ -1,0 +1,73 @@
+# 44. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-09-18T17:00:00+02:00
+- Ende: 2025-09-18T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5994
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5994
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=433358
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Freie Fahrt für 194er und M43er! A 100-Chaos stoppen! - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Teilhabe in Lichtenberg: Wie inklusiv sind Behindertenwerkstätten und ihre Alternativen? - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Abberufungen von Mitgliedern aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Abpflastern: Lichtenberg macht mit und wird grüner - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Sondermittelantrag TSV Lichtenberg e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Sondermittelantrag KfK Kietz für Kids Kinderbetreuung gGmbH - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Modellprojekt versickerungsfähiges Pflaster in der Rheinpfalzallee ermöglichen - Schwammstadtprinzip voranbringen - überwiesen
+- TOP 5.7: Kriminellen das Handwerk legen - Verbundeinsätze ausweiten - überwiesen
+- TOP 5.8: Unterstützung von EU-Zertifizierungen für Schulpartnerschaften im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Nutzungsuntersagungen vermeiden - Verwaltungshandeln koordinieren - überwiesen
+- TOP 5.10: Sicherheit an der Rheinsteinstraße /Weseler Straße erhöhen - überwiesen
+- TOP 5.11: Aufstellung von Sitzbänken und Mülleimern auf dem Marktplatz des "Mein Falkenberg Kiez" - überwiesen
+- TOP 5.12: Rückbau defekter, nicht zuzuordnender Beleuchtung in öffentlichen Grünanlagen - überwiesen
+- TOP 5.13: Leitbaken gegen Überfahren der Verkehrsinsel an der Rhinstraße / Landsberger Allee - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Aufbringen von Tempo-30-Piktogrammen in der Plauener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Gedenktafel für Hans Rosenthal wieder in würdevollen Zustand versetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Jugendhilfeplan erstellen - überwiesen
+- TOP 5.17: Barrierefreie PDF-Dokumente für BVV und Bezirksamt Lichtenberg - überwiesen
+- TOP 5.18: Ein Tag für den Frieden - ein Fest für alle - überwiesen
+- TOP 5.19: Endlich Bauvorhaben auf dem Gelände des ehemaligen Nettomarktes in der Siegfriedstraße umsetzen - überwiesen
+- TOP 5.20: Sondervermögen Infrastruktur (LuKIFG): Bezirksverordnetenversammlung beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Malchow braucht schnell bessere Lösungen - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitgliedes des Bezirksamtes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitgliedes in den Vorstand der BVV - in der BVV abgelehnt
+- TOP 8.3: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 8.4: Wahl einer Bürgerdeputierten - vertagt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Einwohnerantrag: Für Verkehrsberuhigung mit Augenmaß - gegen autofeindliche Politik - überwiesen
+- TOP 10.2: Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2026 und 2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2026/27 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Schwerpunkte der BVV für die I-Planung - überwiesen
+- TOP 10.5: Sicherheitskonzept für den Zentralfriedhof in Berlin-Friedrichsfelde - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bushaltestelle barrierefrei - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Wartenberger und Falkenberger Feldmark in CO2-Speichergebiete verwandeln - in der BVV abgelehnt
+- TOP 10.8: Die Garagen in der Schwarzmeerstraße müssen bleiben - vertagt
+- TOP 10.9: Verkehrsinfarkt verhindern - akute Sicherung der Stellplatzsituation "Am Lindenplatz" in Friedrichsfelde - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Wirksamkeitszusammenhang von Prävention und Hilfen zur Erziehung - vertagt
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Corona-Maßnahmen auch in Lichtenberg aufarbeiten - vertagt
+- TOP 13.2: Vielfalt in der Stadtentwicklung - vertagt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Veranstaltung mit Ulla Lachauer zum Leben in Litauen in einer Lichtenberger Bibliothek - vertagt
+- TOP 14.2: Wiedereinführung und Sicherstellung des Behindertenzuschusses bei Wohnungsanmietungen - vertagt
+- TOP 14.3: Änderung der Bezirksgrenzen zwischen dem Bezirk Lichtenberg und Friedrichshain-Kreuzberg zur besseren Klärung von Zuständigkeiten - vertagt
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
