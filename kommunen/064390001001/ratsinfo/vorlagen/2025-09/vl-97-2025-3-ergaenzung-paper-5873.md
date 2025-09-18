@@ -1,0 +1,21 @@
+# Beitritt der Hochschulstadt Idstein zur EnergieRegion Taunus-Goldener Grund Beteiligungs-GmbH & Co. KG
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-97/2025 3. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2025-09-18
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZX5ZQyWEJDeJmYnnj3XVirs
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/5873
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Beitritt der Hochschulstadt Idstein zur EnergieRegion Taunus-Goldener Grund Beteiligungs-GmbH & Co. KG) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXR7gBDHyIewhFw4j0GzIPcOh3J-_nLvjiU8oVKt4KTD/Beschlussvorlage_Gemeindevertretung_VL-97-2025_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Gesellschafterkommunen BERT Muster Beschlussvorlage alle Kommunen (Dok-Nr._ (Bearbeiten)) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVgjmYM3XV3XzAR-mCdYPHytEdeQ15xzDxJw7eesJ20Z/Gesellschafterkommunen_BERT_Muster_Beschlussvorlage_alle_Kommunen_-Dok-Nr.__-Bearbeiten-.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 1 Sachstandsbericht zur Beschlussvorlage Beitritt alle Kommunen (Dok (Bearbeiten)) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVg0AYYuSsB-mwc95mqFiOAXgbbQWOgOL_HoTJoS4fQg/Anlage_1_Sachstandsbericht_zur_Beschlussvorlage_Beitritt_alle_Kommunen_-Dok_-Bearbeiten-.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 2 - Business Case zur Beschlussvorlage Beitritt alle Kommunen (Dok-Nr._ 11021773) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQfNv_xYFw7ERtNxdChzzaaLdYrJW-tjbuyN2t2BArss/Anlage_2_-_Business_Case_zur_Beschlussvorlage_Beitritt_alle_Kommunen_-Dok-Nr.__11021773.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 3 Gesellschafterbeschluss Aufnahme Idstein (Dok-Nr._ 9866320) Az._(01829-20)) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY4yriD-lVDeibmUATHQBM_5YBfi6XkLwlxIHpR_Eo4a/Anlage_3_Gesellschafterbeschluss_Aufnahme_Idstein_-Dok-Nr.__9866320-_Az._-01829-20-.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlagenkonvolut 4 - Vertragspaket) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdunJ5uemTSLqLzeXdwakXIvrVfee8hVMODc0XtIs2j/Anlagenkonvolut_4_-_Vertragspaket.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 5 - Wirtschaftsplan 2025 ERT zur Beschlussvorlage Beitritt alle Komm (Dok-Nr._ 1) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT_GlictJzK54BFdfAMqJuSykZIjyfC6DZ9_LxCFNKSu/Anlage_5_-_Wirtschaftsplan_2025_ERT_zur_Beschlussvorlage_Beitritt_alle_Komm_-Dok-Nr.__1.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 6 - Langfristplan ERT Goldener Grund + Idstein zur Beschlussvorlage  (Dok-Nr._ 1) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfmD4IBqeyjOjjW81F_V10Vc1xDHHoz6BdnwqkRWJnfO/Anlage_6_-_Langfristplan_ERT_Goldener_Grund_-_Idstein_zur_Beschlussvorlage__-Dok-Nr.__1.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 7 - Konsortialvertrag zur Beschlussvorlage alle Kommunen Beitritt (Dok-Nr._ 1102) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSPgPfsxlp_my3vzRjmUTKDBX86WQCtEbp6217_gRP6q/Anlage_7_-_Konsortialvertrag_zur_Beschlussvorlage_alle_Kommunen_Beitritt_-Dok-Nr.__1102.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 8  - Gesellschaftsvertrag BERT zur Beschlussvorlage alle Kommunen Be (Dok-Nr._ 1) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVlxn1F0MH-xgX5xphMkPEgZMfWMNjWVpSlsezY3vOVD/Anlage_8__-_Gesellschaftsvertrag_BERT_zur_Beschlussvorlage_alle_Kommunen_Be_-Dok-Nr.__1.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1948 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-1
