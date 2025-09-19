@@ -103,7 +103,7 @@ Tätigkeit
   b) Quellkategorie-Code 1A3b: Straßenverkehr, soweit nicht bereits von Nummer 1 Buchstabe c erfasst;
   c) Quellkategorie-Code 1A3c: Schienenverkehr;
   d) Quellkategorie Code 1A3d: Schifffahrt, soweit die Brennstoffe in der privaten nichtgewerblichen Schifffahrt eingesetzt werden;
-  e) Quellkategorie-Code 1A4c: Land- und Fortwirtschaft, Fischzucht;
+  e) Quellkategorie-Code 1A4c: Land- und Forstwirtschaft, Fischzucht;
   f) Quellkategorie Code 1A5: sonstige (insbesondere Militär), ohne Verwendung durch
     aa) die ausländische Truppe und deren ziviles Gefolge im Sinne des Artikels 1 des Abkommens vom 19. Juni 1951 zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen (BGBl. 1961 II S. 1183, 1190) in der jeweils geltenden Fassung (NATO-Truppenstatut),
     bb) in der Bundesrepublik Deutschland errichtete internationale militärische Hauptquartiere nach Artikel 1 des Protokolls über die Rechtsstellung der auf Grund des Nordatlantikvertrages errichteten internationalen militärischen Hauptquartiere vom 28. August 1952 (BGBl. 1969 II S. 2000) in der jeweils geltenden Fassung (Hauptquartierprotokoll) sowie Artikel 1 des Abkommens vom 13. März 1967 zwischen der Bundesrepublik Deutschland und dem Obersten Hauptquartier der Alliierten Mächte, Europa, über die besonderen Bedingungen für die Einrichtung und den Betrieb internationaler militärischer Hauptquartiere in der Bundesrepublik Deutschland (BGBl. 1969 II S. 1997, 2009) in der jeweils geltenden Fassung (Ergänzungsabkommen),

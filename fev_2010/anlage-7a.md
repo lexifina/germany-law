@@ -45,7 +45,7 @@
   a) einer Länge der Fahrzeugkombination von mindestens 7,5 m,
   b) einem Aufbau des Anhängers kastenförmig oder damit vergleichbar, mindestens 1,2 m Breite und 1,5 m Höhe und
   c) einer Sicht nach hinten nur über Außenspiegel
-  zu verwenden. Schulungsfahrzeuge müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Sie dürfen ein Schild mit der Aufschrift „FAHRSCHULE“ entsprechend § 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz führen.
+  zu verwenden. Schulungsfahrzeuge müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Sie dürfen ein Schild mit der Aufschrift „FAHRSCHULE“ entsprechend § 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz führen.
 5. Schulungsstrecke für die fahrpraktischen Übungen
   Etwa die Hälfte Fahrzeit der fahrpraktischen Übungen nach Nummer 3.3 soll für Fahrstrecken außerhalb geschlossener Ortschaften, möglichst auch unter Einschluss der Autobahnen oder Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben, verwendet werden.
 6. Abschluss der Schulung
