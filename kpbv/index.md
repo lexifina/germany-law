@@ -1,4 +1,4 @@
-# Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln
+# Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Arzneimitteln
 
 - [Eingangsformel](eingangsformel.md)
 
@@ -21,7 +21,7 @@
 - [§ 6 Prüfung der nach Artikel 6 der Verordnung (EU) Nr. 536/2014 in Teil I des Bewertungsberichts zu behandelnden Aspekte](0006.md)
 - [§ 7 Prüfung der nach Artikel 7 der Verordnung (EU) Nr. 536/2014 in Teil II des Bewertungsberichts zu behandelnden Aspekte](0007.md)
 - [§ 8 Hinzufügung eines zusätzlichen Mitgliedstaats der Europäischen Union](0008.md)
-- [§ 9 Wesentliche Änderung einer klinischen Prüfung bei Menschen](0009.md)
+- [§ 9 Wesentliche Änderung einer klinischen Prüfung](0009.md)
 - [§ 10 Bewertungsverfahren nach Artikel 44 der Verordnung (EU) Nr. 536/2014](0010.md)
 - [§ 11 Korrekturmaßnahmen](0011.md)
 

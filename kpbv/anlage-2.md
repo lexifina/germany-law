@@ -52,7 +52,7 @@
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  | f) | Prüfer |  |
-|  |  | Sind oder waren Sie innerhalb der vergangenen drei Kalenderjahre Prüfer bei einer klinischen Prüfung bei Menschen? |  |
+|  |  | Sind oder waren Sie innerhalb der vergangenen drei Kalenderjahre Prüfer bei einer klinischen Prüfung? |  |
 |  |  | Ja | ☐ |  | Nein | ☐ |  |
 |  |  | Falls „Ja“, ergänzen Sie bitte die nachfolgenden Angaben: |  |
 |  |  | Name des Sponsors | Zeitraum (Monat/Jahr) | Produktname | Therapeutische Indikation |  |
@@ -64,6 +64,6 @@
 |  | Alle oben angegebenen Daten werden in der Geschäftsstelle der Ethik-Kommission vertraulich behandelt. |  |
 |  | Ich erkläre hiermit nach bestem Wissen und Gewissen, dass die Angaben wahrheitsgemäß sind und außer den oben angegebenen Interessen und ___________________________________________ (ggf. hier weitere Angaben einfügen) keine weiteren Tatsachen vorliegen, die geeignet sind, die Auswirkungen auf die Unparteilichkeit haben könnten. |  |
 |  | Ich verpflichte mich, jede Änderung der vorstehenden Angaben unverzüglich gegenüber der Geschäftsstelle der Ethik-Kommission anzuzeigen. |  |
-| Datum |  |  | Unterschrift |  |
+| Datum |  |  | Name |  |
 |  |  |  |
 |  |
