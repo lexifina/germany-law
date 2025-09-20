@@ -1,15 +1,15 @@
 # Entgeltordnung für die Nutzung von Räumlichkeiten des Konservatoriums Cottbus/Chóśebuz Auf der Grundlage des § 3 Abs. 1 des Art. 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Modernisierung des Kommunalrechts (KommRModG)
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
-- Datum: 2025-05-28 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/Entgeltordnung-Nutzung-von-Raeumlichkeiten-des-Konservatoriums.pdf
+- Datum: 2025-09-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://cottbus.de/satzungen/Entgeltordnung-fuer-die-Nutzung-von-Raeumlichkeiten-des-Konservatoriums-Cottbus-Chosebuz-vom-20.09.2025-3-2.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Entgeltordnung für die Nutzung von Räumlichkeiten des Konservatoriums Cottbus/Chóśebuz
-Auf der Grundlage des § 3 Abs. 1 des Art. 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Modernisierung des Kommunalrechts (KommRModG) vom 05.03.2024 in der geltenden Fassung und der Satzung der Musikschule der Stadt Cottbus/Chóśebuz (Amtsblatt der Stadt Cottbus/Chóśebuz vom 30.12.2006) hat die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz in ihrer Sitzung am 28.05.2025 folgende Entgeltordnung beschlossen.
+Auf der Grundlage des § 3 Abs. 1 des Art. 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Modernisierung des Kommunalrechts (KommRModG) vom 05.03.2024 in der geltenden Fassung und der Satzung der Musikschule der Stadt Cottbus/Chóśebuz (beschlossen am 28.05.2025, bekannt gemacht am 20.09.2025) hat die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz in ihrer Sitzung am 28.05.2025 folgende Entgeltordnung beschlossen.
 § 1 Grundsätze Der Konzertsaal, der Kammermusiksaal und das Podium dienen im Rahmen der Ausbildung von Schülerinnen und Schülern, Orchestern, Ensembles und Chören zu Proben und Auftritten. Soweit sie dafür nicht in Anspruch genommen werden, können sie einschließlich der dazugehörigen Räumlichkeiten (Foyer, Garderobe, Toiletten) zur Durchführung von Veranstaltungen, die dem besonderen Charakter des Hauses nicht zuwiderlaufen, Dritten gegen Entgelt zur Verfügung gestellt werden. Die Entscheidung hierüber trifft die Leitung des Konservatoriums. Ein Anspruch auf Nutzung besteht nicht. Für die Nutzung der Räumlichkeiten erfolgt der Abschluss eines Nutzungsvertrages. Grundlage dafür bilden die allgemeinen Miet- und Nutzungsbedingungen, die als Anlage Bestandteil dieser Ordnung sind.
 § 2 Entgeltschuld Schuldnerin bzw. Schuldner des Nutzungsentgeltes sind private und juristische Personen, die einen Nutzungsvertrag abgeschlossen haben.
 § 3 Entgeltpflicht und Fälligkeit 1. Gemäß § 9 der Satzung der Musikschule der Stadt Cottbus/Chóśebuz wird für die Inanspruchnahme
@@ -20,7 +20,7 @@ Entgeltordnung für die Nutzung von Räumlichkeiten des Konservatoriums Cottbus/
 1
 
 § 4 Höhe der Entgelte
-Im Nutzungsentgelt sind enthalten: Kosten für Strom, Wasser/Abwasser, Heizung, Reinigung, Grundbühnenaufbau, sonstige Betriebskosten sowie bei Nutzung des Konzertsaals die Kosten für einen Mitarbeiter entsprechend Versammlungsstättenverordnung.
+Im Nutzungsentgelt sind enthalten: Kosten für Strom, Wasser/Abwasser, Heizung, Reinigung, Grundbühnenaufbau, sonstige Betriebskosten sowie bei Nutzung des Konzertsaals die Kosten für eine Mitarbeiterin bzw. einen Mitarbeiter entsprechend Versammlungsstättenverordnung.
 Bei erweiterten technischen Anforderungen (u.a. tontechnische Leistungen) erfolgt der zusätzliche Einsatz technischen Personals.
 Zusätzliche Leistungen (z.B. Klaviernutzung) sind gesondert zu vereinbaren.
 Die Nutzungsentgelte der Räumlichkeiten sind wie folgt gestaffelt:
@@ -129,9 +129,10 @@ Entgeltordnung für die Nutzung von Räumlichkeiten des Konservatoriums Cottbus/
 
 3
 
-§ 5 Inkrafttreten Die Entgeltordnung tritt am 01.08.2025 in Kraft. Cottbus/Chóśebuz, 02.06.2025
+§ 5 Inkrafttreten Die Entgeltordnung tritt mit der Bekanntmachung in Kraft.
+Cottbus/Chóśebuz, den 16.09.2025
 Tobias Schick Oberbürgermeister
-Die unter § 1 dieser Entgeltordnung genannten Anlagen Allgemeine Miet- und Nutzungsbedingungen und Muster-Nutzungsvertrag sind unter https://cottbus.de/category/satzung/satzung-fachbereich-41kultur/ einzusehen.
+Die unter § 1 dieser Entgeltordnung genannten Anlagen Allgemeine Miet- und Nutzungsbedingungen und Muster-Nutzungsvertrag sind unter https://cottbus.de/satzung/satzung-fachbereich-41kultur/entgeltordnung-fur-die-nutzung-von-raumlichkeiten-des-konservatoriums-cottbus-chosebuzvom-20-09-2025/ einzusehen.
 
 Entgeltordnung für die Nutzung von Räumlichkeiten des Konservatoriums Cottbus/Chóśebuz
 
