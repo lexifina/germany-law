@@ -1,0 +1,115 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-09-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780566
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780566
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 21.07.2025
+- TOP 1.2.: Protokoll (Entwurf) der Sitzung am 30.07.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Müllproblem sowie weitere Missstände am Memminger Platz
+- TOP 2.2.: Untragbare Verkehrssituation in der Bunzlauer Straße
+- TOP 2.3.: Antrag auf Errichtung eines Haltverbots für Wohnwagen und Wohnmobile in der Sickinger-, Irma-Wenke- und Cerebotanistraße
+- TOP 2.4.: Antrag auf Prüfung der Fußgängerampel an der Dachauer Straße bei der Aldi-Filiale
+- TOP 2.5.: Wandgestaltung am SWM Häuschen (Moosach/Triebstr-Max-Born-Str )
+- TOP 2.6.: Antrag auf Schaffung bzw. Freigabe legaler Graffiti-Flächen in München-Moosach
+- TOP 2.7.: Anfrage zu neuen Regelungen der SWM in Bädern
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Bestellung einer städt. Leistung: Aufstellen eines Dialog-Displays am Standort Feldmochinger Str. 55-59
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baldurstraße 28 (Teilprojekt 1)
+- TOP 3.3.1.2.: Baldurstraße 28 (Teilprojekt 2)
+- TOP 3.3.1.3.: Baldurstraße 64
+- TOP 3.3.1.4.: Dachauer Straße 380
+- TOP 3.3.1.5.: Georg-Brauchle-Ring
+- TOP 3.3.1.6.: Dachauer Straße
+- TOP 3.3.1.7.: Simrockstraße 26
+- TOP 3.3.1.8.: Wintrichring 42
+- TOP 3.3.1.9.: Ehrenbreitsteiner Straße 32
+- TOP 3.3.1.10.: Eggmühler Straße
+- TOP 3.3.1.11.: Gärtnerstraße 20
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Lechelstraße 42
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Wohnortnahes Angebot für Sperrmüllentsorgung in Moosach fördern
+- TOP 4.1.2.: Umwandlung der Grünstreifen entlang der Triebstraße sowie der weiterführenden Max-Born-Straße in ökologisch wertvolle Blühstreifen
+- TOP 4.1.3.: Anfrage zum aktuellen Stand der Planungen hinsichtlich des Umbaus des Jugendfreizeitheims Mooskito
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/Mädchenfußball im Bezirk 10 Moosach-Olympia vom 01.01. -31.12.2026 7.680,00€; Az. 0262.0-10-0431
+- TOP 5.2.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/Mädchenfußball im Bezirk 10 Moosach- PSV vom 01.01. -31.12.2026 7.980,00€; Az. 0262.0-10-0432
+- TOP 5.3.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Markier-Roboter vom 01.10. -31.12.2025 12.950,00€; Az. 0262.0-10-0433
+- TOP 5.4.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Ausbildung der neuen Streitschlichter vom 13.10.2025 - 16.10.2025 1.413,50 €, A.z:0262.0-10-0434
+- TOP 5.5.: (E) Stadtbezirksbudget Sozialverband VdK Bayern e.V. Ortsverband Hartmannshofen Ausflug nach Burghausen am 30.08.2025 1.400,00€; Az. 0262.0-10-0428
+- TOP 5.6.: (E) Stadtbezirksbudget Moosacher Faschingsclub -München e.V. Faschingssaison 2025/2026 vom 01.09.2025-31.03.2026 8.100,00€; Az. 0262.0-10-0435
+- TOP 5.7.: (E) Stadtbezirksbudget Förderverein der GS am Amphionpark Nicht mit mir - Gewaltprävention von September 2025 - November 2025 2.000,00 €, A.z: 0262.0-10-0425
+- TOP 5.8.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren“ Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 -14.10.2026 800,00€; Az. 0262.0-10-0436
+- TOP 5.9.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren“ Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 -14.10.2027 800,00€; Az. 0262.0-10-0437
+- TOP 5.10.: (E) Verkehrsregelung in der Allacher Straße
+- TOP 5.11.: (E) LKW Überwachung neue S-Bahnunterführung Dachauerstrasse
+- TOP 5.12.: (E) Umwandlung der Andernacher Straße in eine Einbahnstraße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anhörung zur Vierjahresplanung der MVG
+- TOP 6.2.: Anhörung aller Bezirksausschüsse - Entwurf der Beschlussvorlage "kita- und ganztagsbarometer"
+- TOP 6.3.: Infomarkt: "Engagiert für Moosach" am 05.12.2025 am Moosacher St.-Martins-Platz
+- TOP 6.4.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 9 StVO: Errichtung eines Gefahrenzeichens in der Dachauer Straße
+- TOP 6.5.: Entwurf der Beschlussvorlage „Verabschiedung des Rahmenkonzeptes „Kommunale Kinder- und Jugendpartizipation in München“
+- TOP 6.6.: Bettfedernreinigung an der Ecke Allacher Straße/Waldhornstraße
+- TOP 6.7.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 6.8.: Veranstaltung in städt. Grünanlage; Foolpool Straßentheater "VerWunderLand" in der Grünanlage Am Hartmannshofer Bächle am 25.10.25
+- TOP 6.9.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 9 StVO: Am Neubruch, Richtung Süden führende Stichstraße Flurstück 442/5; Erstbeschilderung nach Widmung zur „Ortsstraße“
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sicher im Verkehr unterwegs – Aufbringen einer Grenzmarkierung für Halteverbot (sog. „Zickzacklinie“) an der Templestraße
+- TOP 7.2.: Antrag auf zusätzliche Beschilderung in der Tempo-30-Zone am Bahnhofsbereich Moosach, Breslauer und Bunzlauer Straße
+- TOP 7.3.: Ampelschaltung Dachauer Str. und Beschilderung für Agnes-Pockels-Bogen
+- TOP 7.4.: Antwortschreiben der Münchner Wohnen GmbH sowie des Referats für Stadtplanung und Bauordnung zu verschiedenen Bürgeranliegen
+- TOP 7.5.: Antrag auf reines Pkw-Parken in der Pfeilschifterstraße
+- TOP 7.6.: Kinderspielplatz in der Grünanlage an der Sickingerstraße
+- TOP 7.7.: Vorübergehende Außerbetriebnahme der Ampeln am Moosacher Stachus
+- TOP 7.8.: Antrag auf Bepflanzung der Wertstoffinsel Ecke Claudiusplatz/Scharnhorststraße
+- TOP 7.9.: Müllbelastung in der Welzenbachstraße
+- TOP 7.10.: Maßnahmen gegen Tuning-Autoposer-Szene: BV-Anfrage Nr. 20-26 / Q 00691 aus der Bürgerversammlung des Stadtbezirks 11 – Milbertshofen-Am Hart
+- TOP 7.11.: Parksituation in der Leipziger-, Jenaer- und Quedlinburger Straße
+- TOP 7.12.: Schaffung von Lebensraum für Spatzen in Moosach rund um Pelkovenschlössl und Hacklhaus
+- TOP 7.13.: Unsägliche Nutzung eines Grundstücks in der Hanauer Straße
+- TOP 7.14.: Erneuerung der Tafel zu Grünflächensatzung am Eingang der Grünfläche, sowie Aufstellung einer Informationstafel am Hartmannshofer Bächl
+- TOP 7.15.: Antwortschreiben zu zwei Bürgeranliegen der Juli-Sitzung 2025: Parksituation rund um das Dantebad/SAP-Garden; Verschärfte Parksituation in der Borstei
+- TOP 7.16.: Neuauftrag von Piktogrammen Verkehrszeichen 244.1 StVO, Beginn einer Fahrradstraße, entlang des Fahrradstraßenzugs Karl-Lipp-Str. – Gleißmüllerstr. – Welzenbachstr. – Templestr.
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 9 StVO: -->Am Neubruch, Nordseite, ggü. Anwesen Nr. 41; Errichtung eines absoluten Haltverbots, Zeichen 283 StVO mit Zusatzzeichen --> Dürrstraße 1; Errichtung einer temporären Parkfläche für Rettungsfahrzeuge
+- TOP 8.2.: Fortschreibung Konzept "Spielen in München"
+- TOP 8.3.: Filmstandort München stärken 2
+- TOP 8.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Einrichtung der Standorte für Shared Mobility im 10. Stadtbezirk
+- TOP 8.5.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2026 – 2032
+- TOP 8.6.: Bürgerbeteiligung an kalten Nahwärmenetzen durch die Stadtwerke Empfehlung Nr. 20-26 / E 02658 der Bürgerversammlung des Stadtbezirks 21 - Pasing-Obermenzing vom 10.04.2025
+- TOP 8.7.: Netzmodernisierung am Mobilfunkstandort der Deutschen Telekom in der Skagerrakstraße
+- TOP 8.8.: Angebote der Fachstelle für Öffentlichkeitsbeteiligung und Partizipation im Direktorium und Checkliste Öffentlichkeitsbeteiligung
+- TOP 8.9.: Informationsschreiben zum MVG Rad-System
+- TOP 8.10.: (U) Anpassungsprogramm der MVG für die Fahrplanperiode 2026
+- TOP 8.11.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: --> Arbeiten im Straßenraum; Gubestraße 11 bis 37 (Neuverlegung Fernwärme Verteilungsleitung in drei Bauphasen) --> Arbeiten im Straßenraum; Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße (Straßenbauarbeiten in drei Bauphasen - 3. Änderung) --> Arbeiten im Straßenraum; Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße (Straßenbauarbeiten in drei Bauphasen - 4. Änderung) --> Arbeiten im Straßenraum; Hanauer Straße 2, Dachauer Straße (Neubau Fernwärme) --> Arbeiten im Straßenraum; Hanauer Straße 2, mit Seite Dachauer Straße (Verlegung Strom) --> Arbeiten im Starßenraum; Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße (Straßenbauarbeiten in drei Bauphasen - 5. Änderung)
+- TOP 8.12.: Anhörung zur Vorlage "Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024" - Vorabstellungnahme durch den BA-Vorsitzenden
+- TOP 8.13.: Diverse Bauvorhaben - Vorabstellungnahmen durch den BA-Vorsitzenden
+- TOP 8.14.: Grünanlage Claudiusplatz Moosach, Mitmachkonzert MusicMule – Löwenstarke Kinder PAX 80 am 21.09.2025 Vorabstellungnahme durch den BA-Vorsitzenden
+- TOP 8.15.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage in der Hanauer Straße
+- TOP 8.16.: Mehrjahresinvestitionsprogramm 2025-2029 - Anhörung der Bezirksausschüsse Antwortschreiben des MOR zum Radweg Untermenzinger Straße
+- TOP 8.17.: Innovationsprojekt MOSAIQ - Antrag auf temporäre Errichtung von Stadtterrassen auf den Flächen Breslauer Straße / Bunzlauer Straße sowie Bunzlauer Straße / Dachauer Straße
+- TOP 8.18.: Erweiterung des bestehenden Mobilfunkstandortes in der Treitschkestraße
+- TOP 8.19.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 8.20.: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP 8.21.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 8.22.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV: Nächtliches Mähen des Straßenbegleitgrüns
