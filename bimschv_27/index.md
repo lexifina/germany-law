@@ -1,7 +1,4 @@
-# Siebenundzwanzigste Verordnung zur Durchführung
-des Bundes-Immissionsschutzgesetzes (Artikel 1 der
-Verordnung über Anlagen zur Feuerbestattung und zur
-Änderung der Verordnung über genehmigungsbedürftige Anlagen)
+# Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmung](0002.md)

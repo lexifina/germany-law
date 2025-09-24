@@ -1,4 +1,4 @@
-# Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen
+# Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
 
 - [§ 1 Berechtigte](0001.md)
 - [§ 2 Umfang der Unterhaltsleistung](0002.md)

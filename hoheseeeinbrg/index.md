@@ -1,4 +1,4 @@
-# Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See (Artikel 1 des Gesetzes zur Ausführung des Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen von 1972)
+# Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See
 
 - [§ 1 Zielsetzung](0001.md)
 - [§ 2 Sachlicher Geltungsbereich](0002.md)

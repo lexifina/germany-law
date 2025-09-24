@@ -1,4 +1,4 @@
-# Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz (Artikel 1 der Verordnung zur Umsetzung der Heizkesselwirkungsgradrichtlinie)
+# Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsdefinitionen](0002.md)

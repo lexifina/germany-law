@@ -1,4 +1,4 @@
-# Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen betreffend andere Heilberufe)
+# Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister
 
 - [§ 1 Ausbildung](0001.md)
 - [§ 2 Staatliche Prüfung](0002.md)

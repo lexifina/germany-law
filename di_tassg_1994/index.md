@@ -1,4 +1,4 @@
-# Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Artikel 1 des Gesetzes über den Beruf der Diätassistentin und des Diätassistenten und zur Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen)
+# Gesetz über den Beruf der Diätassistentin und des Diätassistenten
 
 
 ## Abschnitt 1 Erlaubnis
