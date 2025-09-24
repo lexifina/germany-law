@@ -1,0 +1,142 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2025-09-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8647799
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8647799
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Verabschiedung des Rahmenkonzeptes „Kommunale Kinder- und Jugendpartizipation in München“ (Mitzeichnung der Beschlussvorlage)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Geänderte Zuständigkeiten für die Öffentlichkeitsarbeit zu Unterkünften für Geflüchtete und Wohnungslose im Amt für Wohnen und Migration ab 01.09.2025
+- TOP C: Bauen und Wohnen
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Wohnverhältnisse in der Tengstraße 25
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Agnesstraße 48: Leerstand beenden
+- TOP 2.2.: Burgunderstr. 4: Modularer Neubau einer Wohnanlage (15 WE) mit Tiefgarage-GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.3.: Georgenstr. 140: Antrag auf Vorbescheid für die energetische Sanierung und den Dachgeschossausbau des Vordergebäudes, den Einbau einer Aufzugsanlage und für die energetische Sanierung und Umbau des Rückgebäudes – VORBESCHEID
+- TOP 2.4.: Adelheidstr. 38: ÄNDEREUNGSANTRAG zu 1.2-2025-8213-22 - Abbruch und Neubau des Daches und Nutzungsänderung von Ateliers in 4 Dachgeschosswohnungen mit Einbau von Dacheinschnitten und neuen Gauben und Umbau der Westbalkone im 1. - 5. OG mit Umgestaltung des Teilbereichs Westfassade (Adelheidstr. 38 / Bauerstr. 31)
+- TOP 2.5.: Saarstr. 7: Umnutzung von bestehenden Gewerbeeinheiten zu Wohneinheiten im 1. + 2. Obergeschoss und Aufbau von vier zusätzlich terrassierten Wohnetagen zur Schaffung von neuem Wohnraum auf dem bestehenden Flachdach (Saarstr. 7 / Winzererstr. 47 d + 47 e)
+- TOP 2.6.: Klopstockstr. 4: ÄNDERUNGSANTRAG_Nutzungsänderung eines Zeitungskiosks zu einem Café mit Alkoholausschank
+- TOP 2.7.: Hiltenspergerstr. 72: Schulbauoffensive- Grundschulle Hiltenspergerstr. 72 Brandschutz und Akustiksanierung sowie Errichtung von Spielfluren im EG und 1. OG im Hauptgebäude
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Baulisten Erstantragsverfahren KW 33 bis KW 36, Tekturen KW 34 und Vorbescheide KW 35
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Rückbau der Baustelle beim Nordbad
+- TOP D: Mobilität und Verkehr
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Antrag auf Fahrrad-Abstellplätze am Elisabethplatz/ Nordendstraße 37
+- TOP 1.2.: Bürgerin: Antrag auf Fahrrad-Abstellplätze in der Düsseldorfer Straße
+- TOP 1.3.: Bürger: Umwandlung der Nordendstraße in eine Fahrrad- und ÖPNV-Straße
+- TOP 1.4.: Bürger: Parkeinschränkungen für Wohnmobile, Campingbusse und Geländefahrzeuge
+- TOP 1.5.: Bürger: Konkretisierung der Entsiegelungsangaben und der Schulwegsicherheit im Zusammenhang mit dem BA-4-Straßensperrantrag
+- TOP 1.6.: Bürger: Behindertenparkplatz Herzogst. 129
+- TOP 1.7.: Bürger: Induktionsschleife in der Belgradstraße/ Ecke Bummstraße
+- TOP 1.8.: Bürger: Parkraummanagement/ Lizenzbereich Erweiterung für den Bereich Schwabing-West
+- TOP 1.9.: Bürger: Gehweg Winzererstraße zwischen Schwere-Reiter-Straße und Infanteriestraße
+- TOP 1.10.: Bürgerin: Schließung der Lücke im Fußgängerüberweg Ainmiller-/ Bauerstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Vorwärts-Parken Bonner Straße (Anhörung zum Antwortschreiben des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen; vgl. TOP D 1.2 05/25)
+- TOP 2.2.: Erinnerungsverfahren Lothstraße RW zw. Heßstraße und Infanteriestraße: Straßenunterhalt
+- TOP 2.3.: (E) Tausch von Park- und Radstreifen in der Franz-Joseph-Straße
+- TOP 2.4.: (E) Überprüfung und Anpassung der Anforderungsampel an der Karl-Theodor-Straße
+- TOP 2.5.: Errichtung eines absoluten Haltverbots am Gustav-Landauer-Bogen (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.6.: (E) Antrag an den ADFC, dass sich Radfahrende rechtskonform verhalten
+- TOP 2.7.: (E) Ruhestörung Karl-Theodor-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Kennzeichnung von Brücken mit den Brückennamen (Antwortschreiben des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen; vgl. TOP D 1.2 12/24)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Ausnahmezulassung für Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn für den Zeitraum 01.05.2025 bis zum 30.04.2026
+- TOP 3.3.2.: Flyer Fernwärmeprojekt Isoldenstraße
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Infoschreiben aus 2023 zu den Dialog-Displays
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innen: Einwand zur Errichtung einer Toilettenanlage für den Hohenzollernplatz/ Tengstraße 40
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Speyerer Str. 9: Antrag auf Fällung einer Silberweide
+- TOP 2.1.2.: Rümannstr. 17: Antrag auf Fällung einer Sand-Birke
+- TOP 2.1.3.: Rümannstr. 60: Antrag auf Fällung einer schwedischen Mehlbeere
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: (E) Poller an der Kreuzung Agnes-/ Isabellastraße ersetzen und fest verankern
+- TOP 2.2.2.: (E) Sitzbänke Nordbad Bereich Stadtarchiv und weitere
+- TOP 2.2.3.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte (Anhörung zum Beschlussentwurf)
+- TOP 2.2.4.: (E) Standortprüfung der geplanten öffentlichen Toilettenanlage in der Tengstraße 40
+- TOP 2.2.5.: (E) Hochbeete für temporäre Gestaltung der Erweiterungsfläche des Elisabethmarkts
+- TOP 2.2.6.: (E) Aufstellen von 4 zusätzlichen Mülleimern an den Parkbänken
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zunehmende Vermüllung (Antwortschreiben des Baureferats auf weitergeleitete Online-Wortmeldung aus der Bürgerversammlung; vgl. TOP E 1.5 07/25)
+- TOP 3.1.2.: Aufstellung Müllbehälter (Antwortschreiben des Baureferats auf weitergeleitete Online-Wortmeldung aus der Bürgerversammlung; vgl. TOP E 1.4 07/25)
+- TOP 3.1.3.: Rosenbeet Luitpoldpark (Antwortschreiben des Baureferats auf Schreiben des BA)
+- TOP 3.1.4.: Leerung Altkleider- und Glascontainer vor 7 Uhr (Antwortschreiben des AWMs auf weitergeleitetes Bürgerinnenanliegen; vgl. TOP E 1.1 08/25)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 3.3.2.: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP 3.3.3.: (U) Kanalnetz Sanierung des Hauptsammelkanals Oberwiesenfeld Abschnitt zwischen Waisenhausstraße/Klugstraße und Knoten 3 (Abschnitt West) sowie Abschnitt zwischen Schleißheimer Straße und Leopoldstraße (Abschnitt Ost) Projektgenehmigung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage am Standort Kaiserstr. 38
+- TOP 3.4.2.: Innovationsprojekt MOSAIQ - Antrag auf temporäre Errichtung von Stadtterrassen auf den Flächen des Hohenzollernplatzes sowie des Helmut-Fischer-Platzes (Eilentscheidung)
+- TOP 3.4.3.: Ausnahmezulassung für nächtliche Mäharbeiten im Straßenbegleitgrün
+- TOP F: Kultur und Wirtschaft
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Weltkongress der Uiguren e.V. International Uyghur Youth Forum am 25.05.2025 3.000,00 Euro, Az.: 0262.0-4-0576
+- TOP 2.1.2.: (E) Stadtbezirksbudget Weltkongress der Uiguren e.V. Ausstellung "Mein Volk Uiguren und die Seidenstraße" am 04.11.2025 868,70 Euro, Az.: 0262.0-4-0590
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "Mehr als Worte" Ausstellung "Mehr als Worte" vom 15.09. - 28.09.2025 909,50 Euro, Az.: 0262.0-4-0592
+- TOP 2.1.4.: (E) Stadtbezirksbudget Initiative "Labyrinth" Veranstaltung Labyrinth am 25./26.09.2025 1.236,50 Euro, Az.: 0262.0-4-0594
+- TOP 2.1.5.: (E) Stadtbezirksbudget Initiative "München in den Wunderjahren" München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 - 14.10.2026 1.000,00 Euro, Az.: 0262.0-4-0595
+- TOP 2.1.6.: (E) Stadtbezirksbudget Initiative "München in den Wunderjahren" München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 - 14.10.2027 1.000,00 Euro, Az.: 0262.0-4-0596
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Hohenzollernstr. 49: Antrag für die Aufstellung eines Postkartenständers
+- TOP 2.3: Veranstaltungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: Svapinga Consort e.V. für das Projekt Kammermusik „Ein seltenes Talent unter Frauen“ vom 12.06.2025 - 15.06.2025
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: 55 Jahre FFW mit Umzug am 06.09.2025
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Tag der Zivilcourage am 19.09.2025 in der Bonner Str. 2 (Eilentscheidung)
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
