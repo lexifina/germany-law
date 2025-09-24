@@ -1,0 +1,58 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-09-24T17:00:00+02:00
+- Ende: 2025-09-24T22:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4973
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4973
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Besuch der Delegation aus Israel im Bezirk - beantwortet
+- TOP 3.2: Gratulationsdienst - beantwortet
+- TOP 3.3: Druckmittel zur Bekämpfung von Stillstand beim Steglitzer Kreisel - beantwortet
+- TOP 3.4: Maßnahmen, die das Klima und den Etat schonen - beantwortet
+- TOP 3.5: Kriegstüchtig: Vom Schreibtisch an die Front? - beantwortet
+- TOP 3.6: Ist das so am Hindenburgdamm genehmigt? - schriftlich beantwortet
+- TOP 3.7: Plötzliche Straßenschäden in der Hildburghauser Straße - schriftlich beantwortet
+- TOP 3.8: Stand der Dinge Gedenkort Stalag IIID - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Berichterstattung über die Inanspruchnahme von gesperrten Verpflichtungsermächtigungen (VE) im Doppelhaushalt 2024/2025 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2: Betroffene von Eigenbedarfskündigungen besser unterstützen – das bezirkliche Wohnraumbündnis erweitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Amokalarm-Übungen an allen Schulen im Bezirk verpflichtend einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sondermittel der BVV für den TuS Lichterfelde von 1887 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Gedenken an den 7. Oktober 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Outdoor-Fitness-Anlagen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Gründung einer neuen Schule in Form einer Krankenhausschule an den Standorten der Klinik für Kinder- und Jugendpsychiatrie im St. Joseph-Krankenhaus in der Wüsthoffstraße 15 in 12101 Berlin (Bezirk Tempelhof-Schöneberg) sowie am neuen Standort Potsdamer Chaussee 90 in 14129 Berlin (Bezirk Steglitz-Zehlendorf) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Kein Verkauf des Bierpinsels - überwiesen
+- TOP 5.2: Sicherheit auch für Radfahrer*innen am Geisterhaus Gardeschützenweg 3 - überwiesen
+- TOP 5.3: Informations- und Erinnerungsort für die Familie Silberstein, das ehemalige jüdische Kaufhaus Boga und die „Arisierung" jüdischer Betriebe in der NS-Zeit - überwiesen
+- TOP 5.4: Mehr Parkbänke im Heinrich-Laehr-Park - überwiesen
+- TOP 5.5: Parkplätze im Jenbacher Weg - überwiesen
+- TOP 5.6: Schleichweg beenden: Ortlerweg in eine Einbahnstraße verwandeln - überwiesen
+- TOP 5.7: Parkläuferprogramm erhalten - überwiesen
+- TOP 5.8: Angstraum unter der Brücke der A103 am S-Bahnhof Rathaus Steglitz entschärfen - überwiesen
+- TOP 5.9: S-Bahnhof Mexikoplatz – Gitter erneuern - überwiesen
+- TOP 5.10: Mehr Öffentlichkeitsarbeit für die Raum-Datenbank für Ehrenamtliche - überwiesen
+- TOP 5.11: Regenwasserbank im Bezirk einführen - überwiesen
+- TOP 6: Haushaltsangelegenheiten - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2026 und 2027 (Doppelhaushaltsplan 2026/27) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Dauerblockade beim Bauprojekt „Neulichterfelde" durch das Bezirksamt unter Zuhilfenahme von Ameisen - beantwortet
+- TOP 7.2: Wie geht es weiter in Lichterfelde-Süd? - beantwortet
+- TOP 7.3: Kältehilfe im Steglitzer Kreisel - beantwortet
+- TOP 7.4: Warum verhindert die Bezirksbürgermeisterin einen dringend benötigten neuen Krankenwagen für unsere im Krieg leidende Partnerstadt Charkiv? - beantwortet
+- TOP 8: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Das Bezirksamt muss sich mit Nachdruck um eine Ersatzfläche für die Kältehilfe in der Bergstraße bemühen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Liveübertragungen der BVV besser bewerben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
