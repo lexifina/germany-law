@@ -1,0 +1,5 @@
+# Eingangsformel
+Aufgrund
+1. des § 32 Absatz 1 Satz 2 und 3 und Absatz 2 Satz 1 der Strafprozeßordnung in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 2 des Gesetzes vom 17. Juli 2025 (BGBl. 2025 I Nr. 163) geändert worden ist, in Verbindung mit § 1 Absatz 1 Nummer 5 der Verordnung zur Übertragung von Ermächtigungen zur Regelung von Zuständigkeiten in der Finanzverwaltung vom 16. Juni 2003 (Brem.GBl. S. 279), die zuletzt durch Artikel 1 der Verordnung vom 8. Juli 2025 (Brem.GBl. S. 635) geändert worden ist, und
+2. des § 110a Absatz 1 Satz 2 und 3 und Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 4 des Gesetzes vom 17. Juli 2025 (BGBl. 2025 I Nr. 163) geändert worden ist, in Verbindung mit § 1 Absatz 1 Nummer 6 der Verordnung zur Übertragung von Ermächtigungen zur Regelung von Zuständigkeiten in der Finanzverwaltung vom 16. Juni 2003 (Brem.GBl. S. 279), die zuletzt durch Artikel 1 der Verordnung vom 8. Juli 2025 (Brem.GBl. S. 635) geändert worden ist,
+wird verordnet:

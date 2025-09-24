@@ -1,0 +1,1 @@
+# Verordnung zur elektronischen Aktenführung bei der Steuerfahndungs- und Strafsachenstelle des Landes Bremen in Steuerstrafverfahren und Verfahrenwegen Steuerordnungswidrigkeiten und gleichgestellten Ordnungswidrigkeiten (Bremische eAkten-Verordnung für St
