@@ -1,0 +1,3 @@
+# Schlussformel
+
+Verwaltungs-Berufsgenossenschaft (VBG)
