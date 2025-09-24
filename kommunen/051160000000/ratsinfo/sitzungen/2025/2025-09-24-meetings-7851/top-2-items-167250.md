@@ -1,0 +1,8 @@
+# TOP 2: 30. Nachtrag zur Hauptsatzung der Stadt Mönchengladbach
+
+- Sitzung: Hauptausschuss (2025-09-24)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/167250
+- Ergebnis: Mit Stimmenmehrheit empfohlen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/37464
