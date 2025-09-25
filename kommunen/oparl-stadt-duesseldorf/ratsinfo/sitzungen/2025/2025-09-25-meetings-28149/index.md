@@ -1,0 +1,86 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-09-25T18:00:00+02:00
+- Ende: 2025-09-25T19:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28149
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28149
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563931.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563931.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563931.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift vom 15.05.2025 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift vom 26.06.2025 - einstimmig beschlossen
+- TOP 3: Spurensuche(n) im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 4: Bingener Weg - Schulwegsicherung, Einrichtung einer Querungsstelle sowie einer Hol- und Bringzone - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Sperberstraße 4 – Genehmigung des Abbruchs der gartenseitigen Schuppen - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Kunst und Bau Gymnasium Bernburger Strasse – Realisierung - Empfehlung einstimmig beschlossen
+- TOP 10: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Haushalt 2025 Liste A Schulen - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2025 - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahre 2025
+- TOP 14: Hochwasserschutz und Starkregenschutz im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Bebauungsplan Am Kleinforst, Ausgleichsmaßnahme Am Kleinforst, Brücken (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Grünwegverbindung Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Parkplatz Eller Mitte Festenbergstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Ampel Bernburger Straße/Heidelberger Straße/Karlsruher Straße/Alt-Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Schienenlärm und -vibration Eller Mitte (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Breidenplatz in Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: KGV Am Dammsteg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 22: Radweg Rathelbeckstraße / Rothenbergstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Pilotprojekt „Revitalisierung der Wochenmärkte“ am Gertrudisplatz: Die Maßnahmen müssen starten (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Alter Schützenplatz Sodener Weg: Bürgerbeteiligung (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Baubrache Alte Tankstelle/Getränkemarkt Jägerstraße: Sofortmaßnahmen für Sicherheit und Sauberkeit (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Durchsetzung des Durchfahrtverbots Gumbertstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 27: Spielplatz Am Hackenbruch (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 28: Tempo 30 Gubener Straße / Nach den Mauresköthen (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Beschränkung Absolutes Haltverbot Wäschlacker Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 30: Zickzackmarkierungen (Vz. 299) (und Sperrkette) Anhalter Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 31: Zickzackmarkierungen (Vz. 299) Zwickauer Straße 29-31 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 32: Gehwegabsenkungen in Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 33: Verkehrssicherheit Kreuzburger Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 34: SOM IX (Gumbertschule und GGS Deutzer Straße) (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 35: Einrichtung Sitzplätze Bushaltestelle Reichenbacher Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 36: Informationsveranstaltung für Bürger mit der Deutschen Bahn und Stadtteilpolitikern zum Thema Abstellbahnhof Eller/Wersten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 37: Beförderung Eller Friedhof - zur Kenntnis genommen
+- TOP 38: Bewässerung von Baumscheiben - zur Kenntnis genommen
+- TOP 39: Eller Friedhof - Fahrradbügel - zur Kenntnis genommen
+- TOP 40: Instandsetzung Straßenlaterne - zur Kenntnis genommen
+- TOP 41: Baustelle Jägerstraße - zur Kenntnis genommen
+- TOP 42: Ersatzbepflanzung von Baumscheiben - zur Kenntnis genommen
+- TOP 43: Instandsetzung Pflastersteine Gertrudisplatz - zur Kenntnis genommen
+- TOP 44: Beleuchtung Auguste-Leven-Weg - zur Kenntnis genommen
+- TOP 45: Spielkisten auf den Spielplätzen in Unterbach - zur Kenntnis genommen
+- TOP 46: Errichtung einer festen Rotlicht- und Geschwindigkeitsüberwachungsanlage - zur Kenntnis genommen
+- TOP 47: Einfassung von Baumscheiben - zur Kenntnis genommen
+- TOP 48: Grünpfeil an der Kreuzung Ellerbittweg / Jägerstraße / Zeppelinstraße / Gumbertstraße - zur Kenntnis genommen
+- TOP 49: Platzierung größerer Müllbehälter am Spielplatz Veenpark - zur Kenntnis genommen
+- TOP 50: Koordinierung von Hausverwaltungen sowie Gewerbetreibenden rund um das Gebiet Vennhauser Allee, Lassallestraße, Bebelstraße - zur Kenntnis genommen
+- TOP 51: Installation einer Rotlicht- und Geschwindigkeitsüberwachungsanlage der Ampelanlage Gerresheimer Landstraße an der Kreuzung Dellestraße / Brorsstraße - zur Kenntnis genommen
+- TOP 52: Ampelanlage Sandträger Weg Höhe Hausnummer 68 - zur Kenntnis genommen
+- TOP 53: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Missbrauch eines Wohngrundstücks / Beseitigung von Containern - zur Kenntnis genommen
+- TOP 55: Aufstellen von Mülltonnen an den Abholtagen - zur Kenntnis genommen
+- TOP 56: Radverkehrssituation Kuthsweg - zur Kenntnis genommen
+- TOP 57: Stromkästen verschönern - zur Kenntnis genommen
+- TOP 58: Diakonie Am Schabernack - zur Kenntnis genommen
+- TOP 59: Radverkehrsanlage Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 60: Kreuzung Rathelbeckstraße / Rothenbergstraße - zur Kenntnis genommen
+- TOP 61: Sandträgerweg: Fußgängerquerungen und Parkstandmarkierungen - zur Kenntnis genommen
+- TOP 62: Spielstätte „Am Schwalbenberg" - zur Kenntnis genommen
+- TOP 63: Grünverbindungsweg Eller - zur Kenntnis genommen
+- TOP 64: Digitalisierung von Bauakten - zur Kenntnis genommen
+- TOP 65: Hochwasserschutz und Starkregenschutz im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 66: Boule-Platz Unterbach - zur Kenntnis genommen
+- TOP 67: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
