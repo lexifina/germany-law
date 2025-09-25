@@ -102,7 +102,7 @@
 
 ### 2. (§§ 66 bis 68 weggefallen)
 
-- [(XXXX)§§ 66 bis 68 (weggefallen)](xxxx-66-bis-68.md)
+- [(XXXX) §§ 66 bis 68 (weggefallen)](xxxx-66-bis-68.md)
 
 ### 3. (§§ 69 bis 72 weggefallen)
 

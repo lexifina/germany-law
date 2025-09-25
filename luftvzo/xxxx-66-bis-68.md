@@ -1,3 +1,3 @@
-# (XXXX)§§ 66 bis 68 (weggefallen)
+# (XXXX) §§ 66 bis 68 (weggefallen)
 
 
