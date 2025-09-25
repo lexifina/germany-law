@@ -1,0 +1,138 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-09-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664550
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664550
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: (E) + (U) Verpflichtende Gesprächsführung bei Annahme von Bürgeranträgen auf der Bürgerversammlung
+- TOP 5.2.: (E) + (U) Digitale Teilhabe an Bürgerversammlungen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Begrenzungszaun Biergarten Viktualienmarkt
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Maximilianstr. 38 Nutzungsänderung eines best. Ladens mit Verkaufsflächen im EG u. UG in ein Bistro mit insgesamt 50 Gastplätzen verteilt auf EG u. UG mit Errichten von ca. 20 saisonalen Außensitzplätzen
+- TOP 3.1.2.: St.-Anna-Str. 2 Nutzungsänderung: Errichtung einer Wohnung im Rückgebäude, Einrichtung einer fachärztlichen Praxis für Kinder- und Jugendpsychiatrie und Psychotherapie im Vordergebäude vom 1.OG bis zum DG
+- TOP 3.1.3.: Tal 7 Sanierung und Restaurierung der historischen Holztreppe, Einbau eines Aufzuges im Treppenhaus - ÄNDERUNGSANTRAG zu 1.1-2023-17957-21 hier: nach denkmalpflegerischen Grundsätzen
+- TOP 3.1.4.: Oettingenstr. 42a Neubau eines Wohnhauses mit Eisdiele - ÄNDERUNGSANTRAG
+- TOP 3.1.5.: Tal 42 Teilung der best. Nutzungseinheit der kombinierten Gastronomie und Verkaufsfläche Tal 42 und Tal 40, im EG und 1.OG, Nutzungsänderung der Verkaufsfläche im EG Tal 42 in eine Gaststätte
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Baumfällungsantrag, Stollbergstr. 3
+- TOP 3.2.2.: Baumfällungsantrag, Pilotystr. 2
+- TOP 3.2.3.: Baumfällungsantrag, Liebigstr. 35
+- TOP 3.2.4.: Baumfällungsantrag, Praterinsel 1
+- TOP 3.2.5.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte; Sitzungsvorlage Nr. 20-26 / V 16131
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Fahrradspur in der Sternstraße, TOP 2025.07 C 1.3
+- TOP 1.2.: Bürger*innenanliegen Handlauf St.-Anna-Platz
+- TOP 1.3.: Bürger*innenanliegen Fahrrad-Abstellplätze Rindermarkt 3-5
+- TOP 1.4.: Bürger*innenanliegen E-Ladestation(en) Paradiesstrasse oder Widenmayerstrasse
+- TOP 1.5.: Antrag der Fraktion Bündnis 90/ Die Grünen: Baustelle Liebherrstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Verwahrlosung der Altstadt entgegensteuern (Verursacherprinzip)
+- TOP 2.2.: (E) Busparken am Marstallplatz
+- TOP 2.3.: (E) „Rotlichtblitzer“ Prinzregenten-/Wagmüllerstraße
+- TOP 2.4.: (E) Echtzeit Dashboard Verkehr München
+- TOP 2.5.: (E) Entfernung Behelfsbeleuchtung und Betonklötze Unterer Anger
+- TOP 2.6.: (E) Entfernung nicht zugelassener Roller
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Anhörung der 4-Jahresplanung MVG
+- TOP 3.2.2.: Stadtratsvorlage Nr. 20-26 / V 16852 „Altstadt für alle – Grundsatzbeschluss und Maßnahmen“; Frist: 30.09.2025
+- TOP 3.2.3.: Grundsatzdiskussion des BA zu Baustelleneinrichtungen + Parkraummanagement im Stadtbezirk aus 08/2025
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Pilotprojekt LOX - kostenloser Sport für die Bewohner von Altstadt-Lehel
+- TOP 1.2.: Bürger*innenanliegen Bolzplatz Englischer Garten
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Elternbeirat St. Anna Grundschule Fokus Tanz von April 2026 -Mitte Juli 2026 3.900,00€; Az. 0262.0-1-0418
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. "München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 -14.10.2026 300,00€; Az. 0262.0-1-0425
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 -14.10.2027 300,00€; Az. 0262.0-1-0426
+- TOP 2.1.4.: (E) Stadtbezirksbudget Elternbeirat St. Anna Grundschule Percussion im Klassenzimmer von Februar 2026 -Juli 2026 2.400,00€; Az. 0262.0-1-0406
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: (E) Zu viele Menschenmassen vor zwei Gaststätten in der Prälat-Zistl-Straße
+- TOP 2.2.2.: Triftstr. 4: Antrag für das Aufstellen einer Sitzgelegenheit (Termin 29.09.2025)
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Verabschiedung des Rahmenkonzeptes „Kommunale Kinder- und Jugendpartizipation in München“; Frist: 02.10.2025
+- TOP 3.2.: „Lange Nacht der Museen“ am 18.10.2025 auf dem sog. Odeonsplatz (Termin: 26.09.2025)
+- TOP 3.3.: "BLICKFANG Designmesse" vom 24.-26.10.2025 (Termin: 13.10.2025)
+- TOP 3.4.: Prinzenpaarproklamation Würmesia am 11.11.2025 auf dem Marienplatz (Termin: 31.10.2025)
+- TOP 3.5.: Nutzung der Platzfläche an der Wallstraße / Sendlinger Tor (Straßenfest)
+- TOP 3.6.: Bühnenperformance „Zusammen oder Getrennt“ am 22.10.2025, Maximilianstraße (Frist: 10.10.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Eilentscheidung Anhörung zur Vorlage "Evaluierung des Stadtbezirksbudgets für die Jahre 2021-2024“, TOP Sondersitzung 2025.08 A 4.1
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Fällungsantrag Oettingenstr. 61, TOP 2025.08 B 3.2.1, Stellungnahme UNB
+- TOP B 4.4.: Prüfung von Baumstandorten in der Reitmorstraße aufgrund der notwendigen Baumfällung
+- TOP B 4.5.: Bürger*innenanliegen Entwicklung der Oettingenstraße 74-78, TOP 2025.07 B 1.2, Antwort Bezirksinspektion Mitte
+- TOP B 4.6.: Mariannenstr. 5, Nutzungsänderung einer Wohnung im 2. OG mitte, in eine Einheit nach Art eines Berherbergungsbetriebs (Ferienwohnung); TOP 2025.06 B 4.3, Antwortschreiben Sozialreferat
+- TOP B 4.7.: Fällungsantrag Sternstr. 6, TOP 2025.08 B 3.2.2, Schreiben LBK
+- TOP B 4.8.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP B 4.9.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP B 4.10.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP B 4.11.: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP B 4.12.: (U) Archäologische Kartierung der Münchner Altstadt; Tätigkeitsberichte 2022/2023, 2024
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Fehlende Parkplätze während der Gleissanierung Maxmonument, 2025.06 C 0.4, Antwortschreiben Kreisverwaltungsreferat
+- TOP C 4.3.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Vorbereitung von Asphaltierarbeiten
+- TOP C 4.4.: Bürger*innenanliegen Autofreies Tal, TOP 2025.06 C 1.1, Antwortschreiben Mobilitätsreferat
+- TOP C 4.5.: Bürger*innenanliegen Adelgundenstraße Baume & Fahrrad Parkplätze, Antwortschreiben Büro des 2.Bürgermeisters
+- TOP C 4.6.: Ersatz Mülleimer Spielplatz Jakobsplatz, Sitzungsvorlage Nr. 20-26 / V 17347, Antwortschreiben Baureferat
+- TOP C 4.7.: Bürger*innenanliegen Maßnahmen zur Reduzierung des Müllaufkommens im öffentlichen Raum, insbesondere am Viktualienmarkt, Antwort Bezirksinspektion Mitte
+- TOP C 4.8.: Anzeige baustellenbedingter Fahrplan- und Linienwegsänderungen auf der Linie U4/U5
+- TOP C 4.9.: Bürger*innenanliegen Parksituation in der Herzog-Rudolf-Straße, Antwortschreiben Mobilitätsreferat
+- TOP C 4.10.: Bürger*innenanliegen Lebensgefährliche Ampel in der Zweibrückenstraße, TOP 2025.06 C 1.5, Antwortschreiben Mobilitätsreferat
+- TOP C 4.11.: PKW-Parkplatzentfall zugunsten von Fahrradparkplätzen und Baumstandorten in der Adelgundenstraße, Antwort Baureferat
+- TOP C 4.12.: Bericht zur Müllsituation am Viktualienmarkt (Ortstermin)
+- TOP C 4.13.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Außenbestuhlung von Restaurants - Gehbereich für Fußgänger
+- TOP D 4.5.: Geänderte Zuständigkeiten Öffentlichkeitsarbeit zu Unterkünften für Geflüchtete und Wohnungslose im Amt für Wohnen und Migration (S-III-L/S-GK) für die Stadtbezirke; gültig ab 01.09.2025
+- TOP D 4.6.: Bürger*innenanliegen Freischankfläche Weinstraße, TOP 2025.07 A3, Antwort Bezirksinspektion Mitte
+- TOP D 4.7.: Eilentscheidung Ander Art Festival am 27.09.2025
+- TOP D 4.8.: Bürger*innenanliegen Illegale Aufstellung von Tischen und Stühlen, Antwort Bezirksinspektion Mitte
+- TOP D 4.9.: Isarinselfest 2025 vom 05.-07.09.2025, Antwortschreiben Kreisverwaltungsreferat
+- TOP D 4.10.: Dienststellenverständigung: Luitpold-Gymnasium (Seeaustr. 1) – Umzug in Schulgebäude Elektrastr. 61 während Abriss/Neubau am eigenen Standort
+- TOP D 4.11.: Eilentscheidung Dialogveranstaltung Olympiabewerbung am 17.09.2025
+- TOP D 4.12.: Genehmigung, Dialogveranstaltung Olympiabewerbung mit OB Dieter Reiter am 17.09.2025
+- TOP D 4.13.: "Wiesnzüge Oktoberfest 2025" am 20.09.2025 (Wirteeinzug WEZ) und am 21.09.2025 (Trachten- und Schützenzug TSZ)
+- TOP D 4.14.: Betriebsartänderung, Gaststätte Theklastraße 1
+- TOP D 4.15.: Antwortschreiben, Beschwerde wegen unsachgemäßer Müllentsorgung Färbergraben
+- TOP 3.7.: Marathon München (und div. Neben-Wettbewerbe) am 12.10.2025 im ges. Münchner Stadtgebiet (Termin: 26.09.2025)
