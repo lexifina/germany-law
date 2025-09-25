@@ -1,0 +1,21 @@
+# Verhandlungen zum Kauf des „Bettenhauses“ zur Sicherstellung der Wohnungslosenunterbringung in Kronberg im Taunus
+
+- Körperschaft: Stadt Kronberg im Taunus
+- Drucksache/Vorlage: 5254/2024 1. Ergänzung
+- Art: Stadtverordnetenvorlage
+- Datum: 2025-09-25
+- Ratsinformationssystem: https://kronberg.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcv-Iqep0vxP3m4AaS6gkjE
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/9661
+- Quelle: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Stadtverordnetenvorlage (Verhandlungen zum Kauf des „Bettenhauses“ zur Sicherstellung der Wohnungslosenunterbringung in Kronberg im Taunus) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZednb9mKgzs9M2uyJDBzD5g9TwhOhQZm5kVQ3XSWAXH8/Stadtverordnetenvorlage_5254-2024_1._Ergaenzung.pdf
+- Anlage: Stadtverordnetenvorlage (2025-08-18 Vorlagee S 5254-2024 1.Erg.  Anlage 1 (Fragen Grüne zum RPZ-Bettenhaus)) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZemzJ76tx6vuUcDR1jpxHUpAfV-elwjtXG7O07Bm08Bs/2025-08-18_Vorlagee_S_5254-2024_1.Erg.__Anlage_1_-Fragen_Gruene_zum_RPZ-Bettenhaus-.pdf
+- Anlage: Stadtverordnetenvorlage (2025-08-18 Vorlagee S 5254-2024 1.Erg.  Anlage 2 (Fragen CDU KfB zum RPZ-Bettenhaus)) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfCXaJ-fW5c5nzxHYCz5_eNG0W9hJHrJj-Z7ywW9WOjr/2025-08-18_Vorlagee_S_5254-2024_1.Erg.__Anlage_2_-Fragen_CDU_KfB_zum_RPZ-Bettenhaus-.pdf
+- Anlage: Stadtverordnetenvorlage (2025-08-18 Vorlagee S 5254-2024 1.Erg.  Anlage 3 (Alternativstandorte)) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf_w5Z-AzCBJ9DTj2FvdJ9K5nTy0uzeTgq54z4IPgR5R/2025-08-18_Vorlagee_S_5254-2024_1.Erg.__Anlage_3_-Alternativstandorte-.pdf
+- Anlage: Stadtverordnetenvorlage (2025-08-18 Vorlagee S 5254-2024 1.Erg.  Anlage 4 (städtische Wohnungen)) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZflDVrbUFKTxI7qWctv6ciM4-MgkfCpRG06c0YtqDVYj/2025-08-18_Vorlagee_S_5254-2024_1.Erg.__Anlage_4_-staedtische_Wohnungen-.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5254 - 2025-09-24 CDU - ÄA Verhandlungen zum Kauf des Bettenhauses) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWLsEblzoFDwKX26uRasxW5a5BiQuFehFuVqIgQf-o0N/2025-5254_-_2025-09-24_CDU_-_AeA_Verhandlungen_zum_Kauf_des_Bettenhauses.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5254 - 2025-09-25 GRÜNE - ÄA Verhandlungen zum Kauf des Bettenhauses) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR2xZ_VM7aejJs2SQIufTNTtKZQU9nVDoAyNJVA623eK/2025-5254_-_2025-09-25_GRUeNE_-_AeA_Verhandlungen_zum_Kauf_des_Bettenhauses.pdf
+- Anlage: Stadtverordnetenvorlage (2025-5254 - 2025-09-24 FDP - ÄA - Verhandlungen zum Kauf des Bettenhauses) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQWGPfZHDxD-Z1nCFxMHHlycJsf90KPWt4xyjmA1NIyS/2025-5254_-_2025-09-24_FDP_-_AeA_-_Verhandlungen_zum_Kauf_des_Bettenhauses.pdf
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8271 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-16
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8354 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-30
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8362 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-218
