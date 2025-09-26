@@ -1,0 +1,69 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-09-26T16:00:00+02:00
+- Ende: 2025-09-26T17:25:00+02:00
+- Ort: Bürgerhaus Benrath, Telleringstraße 56
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28162
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28162
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung  26.09.2025, Stand 23.09.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563736.pdf
+- Ergebnisprotokoll: BV9 Einladung  26.09.2025, Stand 23.09.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563736.pdf
+- Wortprotokoll: BV9 Einladung  26.09.2025, Stand 23.09.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563736.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 12.09.2025 eingegangene Fragen - zurückgezogen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 27.06.2025 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Umbau bestehender Flächen des Bürgerhaus Benrath und Neubau einer Stadtteilbücherei, Telleringstraße 56 - zur Kenntnis genommen
+- TOP 4.3: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 4.4: Schulwegsicherung Schulcampus Benrodestraße - zur Kenntnis genommen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A Schulen - einstimmig beschlossen
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - abweichend beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste C - einstimmig beschlossen
+- TOP 4.8: Weiteres Vorgehen Neugestaltung Brunnenplatz - zur Kenntnis genommen
+- TOP 5: Anfragen aus früheren Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel
+- TOP 8.1: Wäschte 161 Kulturbud Wersten gUG - Büdchen-Tag 2025 - einstimmig beschlossen
+- TOP 8.2: Märchenfieber - Märchen in der Vorweihnachtszeit - einstimmig beschlossen
+- TOP 8.3: Albrecht-Dürer-Berufskolleg - Präventionswoche zum Thema Sucht 2025 - einstimmig beschlossen
+- TOP 8.4: AWO Vita gGmbH - Lore-Agnes-Haus - Jubiläumsfeier 2025 - einstimmig beschlossen
+- TOP 8.5: GGS Urdenbach - Präventionstheater "Mein Körper gehört mir" 2025 - einstimmig beschlossen
+- TOP 8.6: Kinderparlament Garath - Renovierung eines Klassenraums Gymnasium Koblenzer Straße 2025 - einstimmig beschlossen
+- TOP 8.7: Martinsfreunde Benrath Mitte e.V. - Durchführung des Martinszuges durch Benrath 2025 - einstimmig beschlossen
+- TOP 8.8: Benrather Schlossnarren e.V. - Sommerfest 2025 - einstimmig beschlossen
+- TOP 8.9: KGS Einsiedelstraße - Martinsfest 2025 - einstimmig beschlossen
+- TOP 8.10: KGS St. Elisabeth - Martinszug 2025 - einstimmig beschlossen
+- TOP 8.11: Verein der Freunde und Förderer der GGS Südallee e. V. - Martinszug 2025 - einstimmig beschlossen
+- TOP 8.12: Heimatverein Holthausen-Itter-Himmelgeist - Martinszug in Holthausen 2025 - einstimmig beschlossen
+- TOP 8.13: Heimatverein Holthausen-Itter-Himmelgeist - Weihnachtsbaum auf dem Kamper Acker 2025 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Beleuchtung des Weges Münchener Straße entlang des Friedhofs Itter - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/087/2025 - zur Kenntnis genommen
+- TOP 9.2: Einrichtung einer Hol- und Bringzone an einer Kindertagesstätte in Itter - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/089/2025 - zur Kenntnis genommen
+- TOP 9.3: Ampelschaltung am Werstener Kreuz - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/106/2025 - zur Kenntnis genommen
+- TOP 9.4: Busverbindung Henkelsiedlung - Beschluss der Bezirksvertretung 9 vom 16.05.2025; BV9/108/2025 - zur Kenntnis genommen
+- TOP 9.5: Errichtung einer Begegnungsstätte für Jugendliche in Wersten - Beschluss der Bezirksvertretung 9 vom 27.06.2025; BV9/126//2025 - zur Kenntnis genommen
+- TOP 9.6: Ortstafel „Urdenbach“ an Fähre Zons - Beschluss der Bezirksvertretung 9 vom 27.06.2025; BV9/142/2025 - zur Kenntnis genommen
+- TOP 9.7: Zugang Itterbrücke am Badehaus Benrath - Beschluss der Bezirksvertretung 9 vom 27.06.2025; BV9/144/2025 - zur Kenntnis genommen
+- TOP 9.8: Hügelstraße Bürgersteig - Beschluss der Bezirksvertretung 9 vom 04.04.2025; BV9/059/2025 - zur Kenntnis genommen
+- TOP 9.9: Hildener Straße, differenzierte Bordhöhen - Beschluss der Bezirksvertretung 9 vom 04.04.2025; BV9/074/2025 - zur Kenntnis genommen
