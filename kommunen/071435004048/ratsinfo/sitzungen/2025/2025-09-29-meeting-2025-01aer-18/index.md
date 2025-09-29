@@ -1,0 +1,17 @@
+# Sitzung des Ältestenrates des Stadtrates der Stadt Montabaur
+
+- Körperschaft: Stadt Montabaur
+- Beginn: 2025-09-29T18:00:00+02:00
+- Ende: 2025-09-29T00:00:00+02:00
+- Ort: Sitzungssaal Altbau, Großer Markt 10, 56410 Montabaur
+- Status: eingeladen
+- Gremium: https://montabaur.gremien.info/oparl/organization/01AER
+- Ratsinformationssystem: https://montabaur.gremien.info/oparl/meeting/2025-01AER-18
+- OParl: https://montabaur.gremien.info/oparl/meeting/2025-01AER-18
+- Quelle: https://montabaur.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
