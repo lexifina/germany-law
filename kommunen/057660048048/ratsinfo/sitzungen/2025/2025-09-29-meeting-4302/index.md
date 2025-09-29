@@ -1,0 +1,14 @@
+# PUB-Fraktion
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2025-09-29T19:00:00+02:00
+- Ende: 2025-09-29T20:15:00+02:00
+- Ort: Meierhof, Evenhausen 19, 33818 Leopoldshöhe, Evenhausen 19, 33818 Leopoldshöhe
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/2-812
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZPpFPyqZGqtXiCA-BfF-rk
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4302
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
