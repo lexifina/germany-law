@@ -1,0 +1,56 @@
+# 35. Sitzung des Hauptausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-09-29T16:36:00+02:00
+- Ende: 2025-09-29T19:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/3
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32135
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32135
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde
+- TOP 1.1: Antrag der Fraktion Die Linke betreffend "Mieter*innen in Flittard schützen. Wohnungen in der Eduard-Heiss-Straße 3 bis 9 in menschenwürdigen Zustand bringen." - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Mitteilungen
+- TOP 2.1: Mitteilungen der Oberbürgermeisterin
+- TOP 2.1.1: Fortführung des 10-Punkte-Plan Domumfeld - Kenntnis genommen
+- TOP 2.1.2: Arbeitsergebnisse der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 2.1.3: Ergebnisse der Studie "Gesellschaftliche Vielfalt und kommunales Diversity-Management als Standortfaktor" - Kenntnis genommen
+- TOP 2.1.4: Bürgerbegehren „Fahrrad-Entscheid Köln“ - Verwaltungsgerichtliches Verfahren - Kenntnis genommen
+- TOP 2.1.5: Aktualisierte Terminplanung zum Bau der Heliosschule, Vogelsanger Straße 200, 50825 Köln - Kenntnis genommen
+- TOP 2.1.6: Planungsstand zur Weiterentwicklung des Kölner Suchthilfekonzepts - Kenntnis genommen
+- TOP 2.1.7: Akteneinsichten gemäß § 55 Gemeindeordnung NRW - Kenntnis genommen
+- TOP 2.2: Mitteilungen zu gleichstellungsrelevanten Themen
+- TOP 3: Anfragen (§ 4 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+- TOP 3.1: Anfrage der Fraktion Die PARTEI betreffend "Insolvenz des Betreibers des Park-Cafés im Rheinpark – Investitionskosten, Pachtvertrag und städtische Risiken" - Sache ist erledigt
+- TOP 3.2: Anfrage der Fraktion Die PARTEI betreffend "Insolvenz des Betreibers des Park-Cafés im Rheinpark – Pachtvertrag, Neuvergabe und wirtschaftliche Risiken" - Sache ist erledigt
+- TOP 3.3: Anfrage der Volt-Fraktion betreffend "Kölner Baustandards" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 29.09.2025 - Kenntnis genommen
+- TOP 3.4: Anfrage der CDU-Fraktion betreffend "Leistungsfähigkeit auf Kölner Straßen - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 11.08.2025 - Kenntnis genommen
+- TOP 3.5: Anfrage der SPD-Fraktion betreffend "Fortbestand des Abendmarktes „meet & eat“ auf dem Rudolfplatz" - vertagt
+- TOP 3.6: Anfrage der CDU-Fraktion betreffend "Wegfall von Parkplätzen in der Innenstadt" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 29.09.2025 - Kenntnis genommen
+- TOP 3.7: Anfrage der SPD-Fraktion betreffend "Umsetzung des Kölner Suchthilfekonzepts – aktueller Stand der Standortprüfungen" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 29.09.2025 - Kenntnis genommen
+- TOP 3.8: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Sachstand zur Umsetzung der Lärmmessungen am Brüsseler Platz" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 29.09.2025 - Kenntnis genommen
+- TOP 4: Anträge (§ 3 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+- TOP 4.1: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "Rücknahme der Kündigung der Rheinischen Musikschule aus den Räumen der Lotharstraße" - geändert beschlossen
+- TOP 4.2: Antrag der Fraktionen Bündnis 90/Die Grünen und CDU betreffend "Freigabe von Mitteln aus dem Haushalt der Kulturentwicklungsplanung für 2025" - ungeändert beschlossen
+- TOP 4.3: Antrag der SPD-Fraktion betreffend "Katzen auf dem Großmarkt-Gelände" - geändert beschlossen
+- TOP 4.4: Antrag der SPD-Fraktion betreffend "Unterstützung für die von der Räumung bedrohten Familien in Köln-Flittard – Eigentümer in die Pflicht nehmen, wohnortnahe Lösungen sichern" - ungeändert beschlossen
+- TOP 5: Eil- und Dringlichkeitsentscheidungen (§ 60 Gemeindeordnung NRW)
+- TOP 5.1: Erweiterung Beratungsangebot Porz - ungeändert beschlossen
+- TOP 5.2: Umbau und Sanierung des Umweltbildungszentrums im Gut Leidenhausen - Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 5.3: Förderung von Selbsthilfegruppen im Sozialbereich für das Jahr 2025 - ungeändert beschlossen
+- TOP 5.4: Erneuter Zuschuss für das Erweiterung- und Entlastungsbausprojekt Sachsenturm für den „Gemeinnützigen Bauverein Sachsenturm e.V.“ - ungeändert beschlossen
+- TOP 5.5: Erneuter Zuschuss für das Erweiterung- und Entlastungsbausprojekt Sachsenturm für den Verein „Kölner Funken Artillerie blau weiß von 1870 e.V.“ - ungeändert beschlossen
+- TOP 6: Allgemeine Vorlagen
+- TOP 6.1: Errichtung einer Skateanlage für Kinder und Jugendliche in Köln-Widdersdorf - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 6.2: Genehmigung einer Dienstreise - ungeändert beschlossen
+- TOP 7: Mündliche Anfragen
