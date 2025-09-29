@@ -1,0 +1,122 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-09-29T17:00:00+02:00
+- Ende: 2025-09-29T22:38:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5544
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5544
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: tatsächlicher Abruf von Sozialleistungen und Hilfsangebote seitens Bezirk für Antragsstellung - schriftlich beantwortet
+- TOP 1.2: Baumfällungen wegen Bauarbeiten - schriftlich beantwortet
+- TOP 1.3: Genehmigung der Baumaßnahmen Grundstück Berlin Neukölln Donaustraße 52/53 und Berthelsdorfer Str. 8 (Milieuschautz-Gebiet) Rixdorf - beantwortet
+- TOP 2: Aktuelle halbe Stunde - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 2031/XXI - Berichtsauftrag Defizitreduzierung im Schulbereich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - erledigt
+- TOP 6: Entschließungen - erledigt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl von Mitgliedern des "Runden Tisches" zur Sicherung und Förderung jüdischen Lebens in Neukölln - gewählt
+- TOP 9.2: Wahl einer/eines Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 9.3: Wahl einer/eines stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: BVV unerwünscht? - beantwortet
+- TOP 10.2: Familienzentrum „Haus der Familie“ in der Glasower Straße – Kleiner Fratz mit Zukunft - beantwortet
+- TOP 10.3: Abenteuerspielplatz Wildhüterweg - Brandschaden beheben, was hat das Bezirksamt erreicht? - beantwortet
+- TOP 10.4: Schulzeit in den Öffis statt im Schwimmbad für Neuköllner Schüler*innen? - beantwortet
+- TOP 10.5: Tempo 50 ausgebremst? - beantwortet
+- TOP 10.6: Hitzetelefon Neukölln 2025 - beantwortet
+- TOP 10.7: Was unternimmt der Bezirk aktuell um die konfliktreiche Situation am Anita-Berber-Park zu entschärfen? - schriftlich beantwortet
+- TOP 10.8: Was tut das Bezirksamt, um wohnortnahe dezentrale Angebote zu retten? - schriftlich beantwortet
+- TOP 10.9: Windows 11 loading - schriftlich beantwortet
+- TOP 10.10: Finanzierung der Jugendfreizeiteinrichtung Q*ube - schriftlich beantwortet
+- TOP 10.11: Trinkwasserbrunnen in bezirklichen Liegenschaften - schriftlich beantwortet
+- TOP 10.12: Müllablagerungen entlang der Ringbahn: Was hat sich getan? - schriftlich beantwortet
+- TOP 10.13: Belastbare Messwerte oder Kaffeesatzlesen? - schriftlich beantwortet
+- TOP 10.14: Vielfalt im Lampenladen - schriftlich beantwortet
+- TOP 10.15: Beleuchtung abgebaut? - schriftlich beantwortet
+- TOP 11: Mitteilungen - erledigt
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - erledigt
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.1: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) 1. Änderungsantrag CDU/SPD/Grüne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.2: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) 2. Änderungsantrag CDU/SPD/Grüne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.3: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) 3. Änderungsantrag CDU/SPD/Grüne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.4: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Änderung der Globalsumme - in der BVV abgelehnt
+- TOP 14.1.5: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3303, Titel 52601 – Dienstleistungen - in der BVV abgelehnt
+- TOP 14.1.6: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) 4. Änderungsantrag CDU/SPD/Grüne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.7: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) 5. Änderungsantrag CDU/SPD/Grüne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.8: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) 6. Änderungsantrag CDU/SPD/Grüne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1.9: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Sondervermögen des Bundes - in der BVV abgelehnt
+- TOP 14.1.10: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) - in der BVV abgelehnt
+- TOP 14.1.11: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) - in der BVV abgelehnt
+- TOP 14.1.12: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Jungsozialisten an die Marktwirtschaft heranführen - in der BVV abgelehnt
+- TOP 14.1.13: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Meldestellen von der Mietfreiheit befreien - in der BVV abgelehnt
+- TOP 14.1.14: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3306, Titel 12406 – Mieten für Stellplätze auf Dienstgrundstücken - in der BVV abgelehnt
+- TOP 14.1.15: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3306, Titel 51802 – Mieten für Fahrzeug - in der BVV abgelehnt
+- TOP 14.1.16: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Kapitel 4500 Titel 97203 Belegung der PMA - in der BVV abgelehnt
+- TOP 14.1.17: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3300, Titel 54010 – Dienstleistungen - in der BVV abgelehnt
+- TOP 14.1.18: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 4010, Titel 68414 – Zuschüsse an Organisationen der Jugendhilfe und Kapitel 4010, Titel 23190 – Zweckgebundene Einnahmen vom Bund für konsumtive Zwecke - in der BVV abgelehnt
+- TOP 14.1.19: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 4000, Titel 54010 – Dienstleistungen - in der BVV abgelehnt
+- TOP 14.1.20: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3620, Titel 42701 – Aufwendungen für freie Mitarbeiter - in der BVV abgelehnt
+- TOP 14.1.21: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3700, Titel 51802 – Mieten für Fahrzeuge - in der BVV abgelehnt
+- TOP 14.1.22: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3715, Titel 54053 – Veranstaltungen - in der BVV abgelehnt
+- TOP 14.1.23: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Haushaltsplan Kapitel 3810, Titel 52110 – Unterhaltung der Grünanlagen - in der BVV abgelehnt
+- TOP 14.1.24: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Anlage PRB 2.5.1 Zuführung an die Rücklage für Erweiterungsinvestitionen - in der BVV abgelehnt
+- TOP 14.1.25: Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt) Anlage PRB 9550 2.2 Regiekosten - in der BVV abgelehnt
+- TOP 14.2: Preisgekrönten Dokumentarfilm No Other Land im Rahmen der Neuköllner Kultur- und Bildungsarbeit vorführen - in der BVV abgelehnt
+- TOP 14.3: Zu schmale Gehwege in der Jahnstraße - in der BVV abgelehnt
+- TOP 14.4: Begrünung statt Versiegelung - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Markierung Anna-Siemsen-Weg / Löwensteinring beidseitig aufbringen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Kontrolle und Sicherstellung freier Sichtbeziehungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Kennzeichnung auf Bürgersteig / Radweg und Straße vor Buschkrugallee 131-139 - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Bus X71 beschleunigen – Frauenviertel entlasten - in der BVV abgelehnt
+- TOP 14.9: Bushaltestelle U-Bahnhof Parchimer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Verlängerung der Veränderungssperre XIV-263a/38 - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Zwangsverheiratung - beantwortet
+- TOP 15.2: Drogenkonsum im Anita-Berber-Park - beantwortet
+- TOP 15.3: Grünflächenkollaps – was gedeiht noch mit dem Haushalt 26/27? - vertagt
+- TOP 16: Große Anfragen - schriftlich - (offen)
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Gedenken an den 7. Oktober 2023 - mit Änderungen in der BVV beschlossen
+- TOP 17.2: Sitzmöglichkeiten vor dem Bürgerzentrum Neuköll - überwiesen
+- TOP 17.3: Geschenktes Haus - Katholische Kirche muss Gemeinwohl beachten! - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Poller im Reuterkiez: Verkehrssicherheit ohne Blockaden – freie Wege für Anwohner und Rettungsdienste - überwiesen
+- TOP 17.5: Mangelnde Wertschätzung des Buddy Bären - überwiesen
+- TOP 17.6: Barrierearm zur Ladenzeile Britz-Süd - überwiesen
+- TOP 17.7: Stärkung der Fachberatungsstellen und präventiven Arbeit gegen Zwangsverheiratung in Neukölln - überwiesen
+- TOP 17.8: Seniorenfreizeitstätten einen Namen geben - überwiesen
+- TOP 17.9: Zebrastreifen in der Werbellinstraße - überwiesen
+- TOP 17.10: Mitarbeiterausweise - überwiesen
+- TOP 17.11: Prüfung Schleifen von Kopfsteinpflaster in Neukölln - überwiesen
+- TOP 17.12: Demokratieförderung nicht Extremisten überlassen - überwiesen
+- TOP 17.13: Erhalt der historischen BAMAG U7 im Vogelviertel – LED-Umrüstung nur unter Bewahrung der klassischen Form - überwiesen
+- TOP 17.14: Absenkung der Bordsteinkante an der Ecke Morusstraße/ Roland-Krüger-Straße - überwiesen
+- TOP 17.15: Wahlen zur Seniorenvertretung - überwiesen
+- TOP 17.16: Zebrastreifen in der Flughafenstraße - überwiesen
+- TOP 17.17: Beleuchtung Grünzug - überwiesen
+- TOP 17.18: Bänke am Wildmeisterdamm - überwiesen
+- TOP 17.19: Bänke am Höltermannsteig - überwiesen
+- TOP 17.20: Nachhaltigkeitsprojekt Hugo-Heimann-Straße - überwiesen
+- TOP 17.21: Stolperfalle Lipschitzplatz grundhaft beseitigen - überwiesen
+- TOP 17.22: Anti-israelische Schmierereien entfernen! - überwiesen
+- TOP 17.23: Änderung der GO - Ferienzeiten der BVV - überwiesen
+- TOP 17.24: Änderung der GO - Kleine Anfragen - überwiesen
+- TOP 17.25: Änderung der GO - Anpassung von Bezügen - überwiesen
+- TOP 17.26: Erweiterte Öffnungszeiten im Stadtteilzentrum Köllnische Heide „mittendrin“ im Rahmen des Programms „Kühle Räume“ - überwiesen
+- TOP 17.27: Gestrichene Schwimmbusse wieder einsetzen! - überwiesen
+- TOP 17.28: Berichtsauftrag Defizitreduzierung im Schulbereich - ohne Änderungen in der BVV beschlossen
