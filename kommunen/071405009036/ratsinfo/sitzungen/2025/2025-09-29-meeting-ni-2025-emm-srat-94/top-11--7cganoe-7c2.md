@@ -1,0 +1,6 @@
+# TOP 11: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Stadtrates der Stadt Emmelshausen (2025-09-29)
+- Körperschaft: Stadt Emmelshausen
+- Öffentlich: nein
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/ni_2025-Emm_SRat-94%7CGAnoe%7C2
