@@ -1,0 +1,117 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-09-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352342
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352342
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.1.: Nachtrag TOP 3.2.8: Bei Ampelerneuerung an der Kreuzung Bad-Schachener-Str./Innsbrucker Ring zusätzliche Fahrspur wieder in Betrieb nehmen und Stau reduzieren; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 1.1.2.: Nachtrag TOP 3.5.6: (E) Stadtbezirksbudget Atelierhaus streitfeld streitfeld offen 2025 am 22./23.11.2025 2.908,00 €; Az. 0262.0-14-0472
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Ferienauschuss-Sitzung vom 26.08.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Ferienausschuss-Sitzung vom 26.08.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Freilegung des Hachinger Bachs bis einschließlich der Unterquerung der Bahnstrecke nach Rosenheim
+- TOP 2.2.: (E) Kasten für Sandspielzeug an mehreren Spielplätzen in Berg am Laim
+- TOP 2.2.1: Kasten für Sandspielzeug an mehreren Spielplätzen in Berg am Laim; Schreiben des Baureferats zum Beschluss des BA 14 aus der Sitzung vom 24.06.2025
+- TOP 2.3.: (E) Bedarf und Angebote der pflegerischen Versorgung in Berg am Laim
+- TOP 2.3.1: Bedarf und Angebote der pflegerischen Versorgung in Berg am Laim; Schreiben des Sozialreferats zum Beschluss des BA 14 aus der Sitzung vom 24.06.2025
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Siegsdorfer Str. 15 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Blombergstr. 9 - Neubau eines Wohnhauses mit 5 Wohneinheiten im rückwärtigen Grundstücksteil mit Garagen sowie eines Garagenersatzbaus für das bestehende Wohnhaus im vorderen straßenseitigen südöstlichen Grundstücksteil - VORBECHEID
+- TOP 3.1.3.: Bank Echardinger Grünstreifen - Anliegen Kleingartenverein
+- TOP 3.1.4.: Guffertstr. 25 - Neubau eines Reihenhauses mit drei Einheiten und Carports
+- TOP 3.1.5.: Michaeliburgstr. 21 - Nutzungsänderung von Hotel in Kindertagesstätte und Anbau eines Wintergartens - VORBESCHEID
+- TOP 3.1.6.: Urbaner Waldgarten - Sachstand Patenschaftsvereinbarung
+- TOP 3.1.7.: Trinkgelegenheiten für Wildtiere auf versiegelten Flächen im Stadtteil Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.1.8.: Abstimmung über das Rückmeldung zum Projekt „Igelburgen“ – Patenschaft und Flächenvorschläge Rückschreiben zum Schreiben vom 19.03.2025 BA-Antrags-Nr. 20-26/B 07274 des Bezirksausschusses 14 Berg am Laim vom 26.11.2024
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: geplanten Maßnahmen der 4-Jahresplanung 2027-2030; Anhörung des Mobilitätsreferat - vertagt aus der Plenumssitzung vom 29.07.2025 -
+- TOP 3.2.2.: Abstimmung neues Radverkehrsnetz für München; Anhörung des Mobilitätreferats, Frist bis zum 30.09.2025
+- TOP 3.2.3.: Austausch einer Lichtsignalanlage in der Bad-Schachener-Str./am Innsbrucker Ring; Anhörung des Mobilitätreferats, Frist bis zum 24.09.2025
+- TOP 3.2.4.: Schwierige Parkplatzsituation in der Gammeldorferstraße; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Lärmbelästigung in der Hansjakobstr. durch Hupen in den Einmündungsbereichen; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Planänderung der zweiten Stammstrecke Ost; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 02.10.2025
+- TOP 3.2.7.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 09.10.2025
+- TOP 3.2.8.: Bei Ampelerneuerung an der Kreuzung Bad-Schachener-Str./Innsbrucker Ring zusätzliche Fahrspur wieder in Betrieb nehmen und Stau reduzieren; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung in städtischer Grünanlage: VerWunderLand Open Air Theater am 19.10.2025 am Johann-Michael-Fischer-Platz; Anhörung des Direktoriums, Frist bis zum 06.10.2025
+- TOP 3.3.2.: Verabschiedung des Rahmenkonzeptes „Kommunale Kinder- und Jugendpartizipation" in München; Anhörung des Direktoriums, Frist bis zum 02.10.2025
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget BIKU gGmbH A.PPLAUS Auftritt Roncalli im November 2025 vom 01. - 30.11.2025 4.000,00 €; Az. 0262.0-14-0465 - vertagt aus der Plenumssitzung vom 26.08.2025 -
+- TOP 3.5.2.: (E) Stadtbezirksbudget Init. "München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2025 -14.10.2026 750,00 €; Az. 0262.0-14-0470
+- TOP 3.5.3.: (E) Stadtbezirksbudget Init. "München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 – 14.10.2027 750,00 €; Az. 0262.0-14-0471
+- TOP 3.5.4.: (E) Stadtbezirksbudget CultureClouds e. V. Die Raumveränderer 2026 - Neumarkter Straße vom 01.01. - 31.12.2026 5.928,00 €; Az. 0262.0-14-0469
+- TOP 3.5.5.: Straßennamenbenennung; Anliegen aus der Bürgerschaft
+- TOP 3.5.6.: (E) Stadtbezirksbudget Atelierhaus streitfeld streitfeld offen 2025 am 22./23.11.2025 2.908,00 €; Az. 0262.0-14-0472
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kinkstr. 1
+- TOP 3.6.2.: Siegsdorfer Str. 15
+- TOP 3.6.3.: Blombergstr. 9
+- TOP 3.6.4.: Guffertstr. 25
+- TOP 3.6.5.: Kranzhornstr. 39
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Juli und August 2025
+- TOP 4.1.2.: Öffentliche Toilette am neuen „Campus-Spielplatz“ im Echardinger Anger
+- TOP 4.1.3.: Aufstellen eines Christbaums an der Baumkirchner Straße
+- TOP 4.1.4.: Schutzmaßnahmen für Eichhörnchen im Stadtbezirk – Lebensraum sichern, Gefahren minimieren
+- TOP 4.1.5.: Zweckentfremdungen - Reifenstuelstr. 11 - Sonnbergstr. 11
+- TOP 4.1.6.: Planänderung wegen Erdankern unter Straßengrund
+- TOP 4.1.7.: Netzmodernisierung am Mobilfunkstandort der Deutschen Telekom in Berg-am-Laim-Nord
+- TOP 4.1.8.: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP 4.1.9.: Fehwiesenstr. 114b: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage
+- TOP 4.1.10.: Dringlichkeitsantrag: Weitere Nutzung des alten Schulhauses Baumkirchner Straße 9 (aktuell städt. Hort und Kindergarten)
+- TOP 4.1.11.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 4.1.12.: Glühwürmchen Schutzmaßnahme an der Thomas-Hauser-Straße - Rückmeldung des Baureferats -
+- TOP 4.1.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Teilweise Aufhebung des Halteverbots an der Haagerstr.
+- TOP 4.2.2.: Fahrbahnsanierung am Innsbrucker Ring, Berg-am-Laim-Straße, Leuchtenbergring
+- TOP 4.2.3.: Vollsperre an der Hochriesstr. 5-7
+- TOP 4.2.4.: Ende des MVG Rad-Systems am 30. September 2025
+- TOP 4.2.5.: Pächterwechsel in der Rosenheimerstr. 145
+- TOP 4.2.6.: Verkehrsrechtliche Anordnung am Innsbrucker Ring Richtung Nord an der Abfahrt zur Ampfingstraße
+- TOP 4.2.7.: Dritte Planänderung zum Vorhaben Neubau S-Bahn München Ost
+- TOP 4.2.8.: Fahrradfreundliche Querung der Kreillerstr. auf Höhe Sonnwendjochstr./Permoserplatz
+- TOP 4.2.9.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 4.2.10.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Filmstandort München stärken 2
+- TOP 4.3.2.: Beschlussvorlage "kita- und ganztagsbarometer", Elternbefragung zum Bedarf an Kinder- und Ganztagesbetreuung in München - Rückmeldung des Referats für Bildung und Sport zum Beschluss des BA aus der Sitzung vom 26.08.2025 -
+- TOP 4.3.3.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Levelingstraße 4b im 14. Stadtbezirk Berg am Laim Leistung eines Baukostenzuschusses
+- TOP 4.3.4.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Angebote der Fachstelle für Öffentlichkeitsbeteiligung und Partizipation im Direktorium und Checkliste Öffentlichkeitsbeteiligung
+- TOP 4.4.2.: Geänderte Zuständigkeiten Öffentlichkeitsarbeit zu Unterkünften für Geflüchtete und Wohnungslose im Amt für Wohnen und Migration
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Antwortschreiben des Mobilitätreferats zum Mehrjahresinvestitionsprogramm 2025 bis 2029
+- TOP 4.5.3.: Abschlussbericht über nächtliche Lärmbelästigungen an der Wohnanlage Berg-am-Laim-Str. 63
+- TOP 4.5.4.: Ergänzung der Schaukästen für den Stadtbezirk 14 Berg am Laim um weitere Standorte
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.3.: Nachtrag TOP 3.1.8: Abstimmung über die Rückmeldung zum Projekt „Igelburgen“ – Patenschaft und Flächenvorschläge Rückschreiben zum Schreiben vom 19.03.2025 BA-Antrags-Nr. 20-26/B 07274 des Bezirksausschusses 14 Berg am Laim vom 26.11.2024
