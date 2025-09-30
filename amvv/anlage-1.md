@@ -1349,8 +1349,8 @@ Ipratropiumbromid und seine Ester
 Iprazochrom
 Iproclozid
 Ipronidazol
-Iptacopan und seine Ester
 - zur Anwendung bei Tieren -
+Iptacopan und seine Ester
 Irbesartan
 Irinotecan
 Isavuconazonium-Salze und ihre Ester
