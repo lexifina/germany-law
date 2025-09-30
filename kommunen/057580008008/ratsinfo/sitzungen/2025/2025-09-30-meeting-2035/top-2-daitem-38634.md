@@ -1,0 +1,6 @@
+# TOP 2.: Niederschrift über die öffentliche Sitzung am 18.03.2025
+
+- Sitzung: Umweltausschuss (5. Sitzung) (2025-09-30)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/38634
