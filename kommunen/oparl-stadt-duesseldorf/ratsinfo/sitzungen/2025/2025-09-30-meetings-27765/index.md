@@ -1,0 +1,72 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-09-30T17:00:00+02:00
+- Ende: 2025-09-30T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27765
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27765
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563775.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563775.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00563775.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Vertretung betroffener Bevölkerungsgruppen (Senioren) gem. §58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 24.06.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 5.2: Weihnachtsmarkt vor den Düsseldorf Arcaden im Jahr 2025 - einstimmig beschlossen
+- TOP 5.3: Weihnachtsmarkt in Düsseldorf-Hamm im Jahr 2025 - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Bebauungsplan Nr. 03/018 - Kölner Straße/Moskauer Straße - Grundsatzbeschluss - einstimmig beschlossen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - Haushalt 2025 Liste A Schulen - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 03 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2025 - abweichend beschlossen
+- TOP 7.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 03 – Städtische Gebäude ohne Schulen, Haushalt 2025 - einstimmig beschlossen
+- TOP 7.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2025 - einstimmig beschlossen
+- TOP 7.5: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Quo vadis Litfaßsäulen - Warum steht Ihr immer im Weg rum? (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.3: Verkehrssituation Höhenstr. – Kita St. Apollinaris, KGS Höhenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.4: Situation und Planung der Pflegeplätze im Bezirk 03 (Anfrage SPD-Fraktion) - zurückgezogen
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Baumaßnahmen Seeheimer Weg (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 8.1.7: Sicherheit Radverkehr Im Liefeld (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 8.1.8: Taubenhäuser im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Aktuelle Anfragen
+- TOP 9: Anträge
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Nutzung des Fürstenplatzes durch alle Generationen - zur Kenntnis genommen
+- TOP 10.2: Erstellung einer Biodiversitätsfläche auf dem Dreiecksplatz zwischen Fürstenplatz, Remscheider Str. und Kirchfeldstr. - zur Kenntnis genommen
+- TOP 10.3: Verkehrskonzept zur Regelung der Zugangsverkehre bei Konzerten in der Mitsubishi Electric HALLE - zur Kenntnis genommen
+- TOP 10.4: Prüfauftrag Schulwegsicherheit zwischen Volmerswerther Straße und Aachener Platz - zur Kenntnis genommen
+- TOP 10.5: Verbesserung Radverkehrsachse Talstraße-Weberstraße-Esmarchstraße - zur Kenntnis genommen
+- TOP 10.6: Prüfantrag Sonnenschutz Kleinkindbereich auf dem Merkurspielplatz - zur Kenntnis genommen
+- TOP 10.7: Lessingplatz - Gesamtkonzept - zur Kenntnis genommen
+- TOP 10.8: Lessingplatz - Gebäudesanierung - zur Kenntnis genommen
+- TOP 10.9: Standorte für zusätzliche Trinkbrunnen im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 10.10: Sitzungstermine 2026 (Januar bis März) - zur Kenntnis genommen
+- TOP 10.11: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 10.12: Verbesserung der Verkehrssituation an der Sportanlage Sparta-Bilk, Düssel-dorf-Hamm - zur Kenntnis genommen
+- TOP 10.13: Verkehrssicherheit auf der Fährstraße im Bereich des Vereins Sparta Bilk und Schulwegsicherheit zum neuen Luisen-Gymnasium - zur Kenntnis genommen
+- TOP 10.14: Gestaltung Unterführung Bachstraße - zur Kenntnis genommen
+- TOP 10.15: Kronenstraße – Optimierung der Anliefersituation am EVK - zur Kenntnis genommen
+- TOP 10.16: Brunnenstraße –Optimierung des Straßenraumes - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
