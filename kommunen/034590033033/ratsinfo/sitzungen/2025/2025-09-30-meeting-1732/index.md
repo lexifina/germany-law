@@ -1,0 +1,55 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2025-09-30T17:30:00+02:00
+- Ende: 2025-09-30T19:40:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRtpCD6rr57rzRMOgh6XWEs
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1732
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZROGqZ5Lt8zDqH7Bkg73YihoAFQ-bqNnXNlEIZPSOGnI/Bekanntmachung_Rat_30.09.2025.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZBP86I-awYkDbYovD2DKIoMGq4bvZd365dadWRT058u/Oeffentliches_Beschlussprotokoll_Rat_30.09.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 01.07.2025
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verweisungsbeschluss
+- TOP 3.2: Wechsel beim Fraktionsvorsitz der CDW/W-Fraktion
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Neubildung des Ausschusses für Kindergärten, Schulen und Bildung hier: Schülervertretungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kämmereiangelegenheiten
+- TOP 5.1: Antrag der CDU-Fraktion vom 08.07.2025 auf Erlass eines Nachtragshaushaltes für das Jahr 2025 - mehrheitlich mit 19 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.2: Haushaltswirtschaft für das Jahr 2026 hier: Einbringung der Haushaltssatzung und des Haushaltsplanes 2026
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Kommunalwahl 2026 Bestellung des Gemeindewahlleiters und seiner Stellvertreterin - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Kommunalwahl 2026 Festsetzung des Termins für die Direktwahl - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Antrag der Fraktion Bündnis 90 / Die Grünen auf Gründung einer Genossenschaft in gemeinnütziger Form oder anderer Form und Einbringung der Grundstücke der sog. Grünen Wiese mit dem Ziel einer Bebauung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Antrag der Fraktion Bündnis 90 / Die Grünen die Vergaberichtlinie der Gemeinde Wallenhorst für Wohnbauland außer Kraft zu setzen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.5: Antrag der Fraktion Bündnis 90 / Die Grünen auf Beleuchtung am Parkplatz Grubenweg in Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.6: Antrag der Ratsfrau Marion Müssen auf Verbesserung der Fußwegesituation in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.7: Antrag der Ratsfrau Marion Müssen auf Erarbeitung einer ganzheitlichen Lösung der Verkehrssituation auf der L 109 ab der Anschlussstelle Belm bis zur Anschlussstelle Wallenhorst zur A 1 / B 68 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Liegenschaften
+- TOP 7.1: Vermarktung Grundstücke im Baugebiet „Westlich Stadtweg“ hier: Beschluss über den Verkauf verbliebener Grundstücke - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Straßenbau
+- TOP 8.1: Umsetzung des Fahrradstraßenkonzeptes: Vorstellung der Entwurfsplanung der mit der ´Priorisierungsstufe 1´ versehenen Straßenzüge - mehrheitlich mit 22 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 9.1: Wohnbedarfsanalyse für die Gemeinde Wallenhorst - mehrheitlich mit 21 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.2: Fortschreibung des Einzelhandelskonzeptes der Gemeinde Wallenhorst hier: Anträge zur Fortschreibung des Einzelhandelskonzeptes - mehrheitlich mit 20 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.3: "Grüne Wiese" hier: Beschluss über den Ausstieg zur Entwicklung der "Grünen Wiese" mit dem Erstplatzierten der Konzeptvergabe der ´SEKA Wohnen GmbH´ - mehrheitlich mit 21 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.4: Weiteres Vorgehen „Grüne Wiese“ hier: Aufhebung des Einleitungsbeschlusses zum vorhabenbezogenen Bebauungsplanes Nr. 273 "Rathausallee/Alte Hofstelle" und Aufstellungsbeschluss des Angebotsbebauungsplanes Nr. 273 "Rathausallee/Alte Hofstelle" - mehrheitlich mit 21 Ja-Stimme(n), 0 Gegenstimme(n), 3 Stimmenthaltung(en) gefasst:
+- TOP 10.: Sicherheit und Ordnung
+- TOP 10.1: Neufassung der Friedhofsgebührensatzung einschließlich Änderung des Gebührentarifs - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Neufassung der Friedhofssatzung der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Verkehrsangelegenheiten
+- TOP 11.1: Entwurf des 5. Nahverkehrsplans für Stadt und Landkreis Osnabrück hier: Beteiligungsverfahren
+- TOP 11.2: Stellungnahme zum Entwurf des 5. Nahverkehrsplans - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.3: Einrichtung von zwei Bedarfsampeln im Zuge der L 109 - mehrheitlich mit 17 Ja-Stimme(n), 2 Gegenstimme(n), 5 Stimmenthaltung(en) gefasst:
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Änderung der Route der Buslinie 533
+- TOP 12.2: Anfrage zur Windkraftanlage in Belm-Haltern
+- TOP 12.3: Anfrage zur Straßeninstandsetzung in der Gemeinde Wallenhorst
