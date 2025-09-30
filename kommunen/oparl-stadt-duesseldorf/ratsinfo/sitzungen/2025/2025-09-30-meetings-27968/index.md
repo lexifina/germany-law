@@ -1,0 +1,62 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-09-30T17:00:00+02:00
+- Ende: 2025-09-30T18:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27968
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27968
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 27. Mai 2025 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 24. Juni 2025 - öffentlicher Teil - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Lebensmittelvollsortimenter auf der Fläche "Am Fettpott", Angermunder Straße 9-17 - Empfehlung abweichend beschlossen
+- TOP 9.1: Ergänzungsantrag zur Vorlage APS/106/2025 Lebensmittelvollsortimenter auf der Fläche "Am Fettpott", Angermunder Straße 9-17 - einstimmig beschlossen
+- TOP 10: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 11: Digitalisierung der P+R-Anlage in Wittlaer - zur Kenntnis genommen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 – Haushalt 2025 (Liste B), Entfernung Graffiti und Neugestaltung der Unterführung am Dreiecksparkplatz in Kaiserswerth - abweichend beschlossen
+- TOP 13: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2025 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen *
+- TOP 14: Freigabe der Einbahnstraße Sankt-Göres-Straße zwischen Niederrheinstraße und Kaiserswerther Markt für Radfahrende im Gegenverkehr - beantwortet
+- TOP 15: Keine Postfilialen mehr in Kaiserswerth und Wittlaer - beantwortet
+- TOP 16: Geschwindigkeitsbeschilderung im Düsseldorfer Norden – hier Gerichtsschreiberweg und Zeppenheimer Straße - beantwortet
+- TOP 17: Wann legt die Verwaltung einen Fahrplan für den Supermarkt in Angermund vor? - beantwortet
+- TOP 18: Kann die Mittelinsel des Kaiserswerther Marktes mit fest eingepflanzten Bäumen als alleinige Maßnahme versorgt werden? - beantwortet
+- TOP 19: Veröffentlichung des Gutachtens der Kanalüberprüfung auf der Mittelinsel des Kaiserswerther Marktes - beantwortet
+- TOP 20: Angermund: Nutzung und Zustand des Hauses Litzbrück - beantwortet
+- TOP 21: U81: Maßnahmen zum Schutz des Stadtbildes - beantwortet
+- TOP -: Neue Anfragen
+- TOP 22: Feuerwerke im Stadtbezirk 5 - Genehmigung und Sicherheit - beantwortet
+- TOP 23: Feuerwerke im Stadtbezirk 5 - Finanzierung und mögliche Alternativen - vertagt
+- TOP 24: Errichtung einer Sitzbank an der Graf-Engelbert-Straße 68 - beantwortet
+- TOP 25: Verkehrssituation in der Friedrich-von-Spee-Straße / Zugang über die Stockhausgasse - Anfrage zur Sperrung und Gefahrenlage - beantwortet
+- TOP 26: Anfrage zur Parksituation in Angermund im Zusammenhang mit Flughafenparkern - beantwortet
+- TOP 27: Klimaanpassung und Baumpflanzungen im neu gestalteten Abschnitt der Alten Landstraße 239, 241, 243 - vertagt
+- TOP 28: Heltorfer Schlossallee: Möglichkeiten zur Geschwindigkeitsreduzierung - beantwortet
+- TOP 29: Schloss Kalkum: Was hat die Stadt Düsseldorf getan, um einen weiteren Leerstand zu verhindern? - vertagt
+- TOP 30: Lärmbelästigung durch Feuerwerkskörper rund um Toni-Turek-Realschule und Max-Planck-Gymnasium - beantwortet
+- TOP 31: Radweg Kalkumer Schlossallee – Wann kommt endlich die Verbreiterung der südlichen Brückenrampen der Bahnüberführung Forst Kalkum? - beantwortet
+- TOP 32: Baden am Rhein – Alternativen schaffen zum Baden im Rhein - vertagt
+- TOP 33: Dringend notwendige Verkehrsregelung im Bereich der internationalen Schule - vertagt
+- TOP 34: Das Bürgerbüro in Kaiserswerth benötigt eine Toilette für Besucher des Bürgerbüros - beantwortet
+- TOP -: Anträge
+- TOP 35: Wiederaufstellung einer Bank am Kreisverkehr in Lohausen und Prüfung einer Kooperation mit der Initiative Zuhören.Draußen - einstimmig beschlossen
+- TOP 36: Baustellensituation Zeppenheimer Straße verbessern – unzumutbare Einschränkungen beenden - einstimmig beschlossen
+- TOP 37: Radleitroute 1: Für verkehrssicheres Radfahren – auch in der Bauzeit! - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 38: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 39: Sitzungstermine der Bezirksvertretung 5 im Jahr 2026 - zur Kenntnis genommen
+- TOP 40: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 41: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2025 - zur Kenntnis genommen
+- TOP 42: Verschiedenes
