@@ -1,0 +1,6 @@
+# TOP 4.: Pflasterarbeiten auf dem Friedhof
+
+- Sitzung: Ortsbeirat Panrod (5. Sitzung) (2025-09-30)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/32566
