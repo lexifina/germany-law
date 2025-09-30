@@ -1,0 +1,71 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2025-09-30T18:02:00+02:00
+- Ende: 2025-09-30T21:40:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdXOTSq5MLD0sBnNPhpxZ4Y
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6265
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdmz6I-ZLkPcTuCR3aElzx9Y_SEigSWNI8lXXMkERGyN/Einladung_Rat_30.09.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRe_guXX-ihfBQ6jCjaAovv3YKQ0xHAUJzVmwS1O6w2b/Oeffentliche_Niederschrift_Rat_30.09.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Genehmigung der Niederschrift der Sitzung vom 23.04.2024
+- TOP 6.: Genehmigung der Niederschrift der Sitzung vom 29.04.2025
+- TOP 7.: Genehmigung der Niederschrift der Sitzung vom 08.07.2025
+- TOP 8.: Beschlusskontrolle
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Aktionsplan Inklusion der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 11.: 15. Änderung der Hauptsatzung der Stadt Wesseling - 31 Ja-Stimmen, 0 Nein-Stimmen, 4 Enthaltungen
+- TOP 11.1.: Änderungsanträge der WIR/FWW-Fraktion zur Hauptsatzung - Antrag 1:Einstimmig abgelehntAntrag 3:14 Ja-Stimmen, 21 Nein-Stimmen, 0 EnthaltungenAntrag 4:2 Ja-Stimmen, 33 Nein-Stimmen, 0 Enthaltungen
+- TOP 11.2.: Änderungsanträge der FDP-Fraktion zur Hauptsatzung - Antrag 1:Einstimmig, 0 EnthaltungenAntrag 2:Einstimmig, 0 EnthaltungenAntrag 4:15 Ja-Stimmen, 17 Nein-Stimmen, 3 EnthaltungenAntrag 5:3 Ja-Stimmen, 29 Nein-Stimmen, 3 EnthaltungenAntrag 7:Einstimmig, 0 EnthaltungenAntrag 8:Einstimmig, 0 EnthaltungenAntrag
+- TOP 11.3.: Änderungsantrag zur Hauptsatzung der Fraktionen SPD, FDP, WIR/FWW sowie des fraktionslosen Ratsmitglieds Helmut Latak - 20 Ja-Stimmen, 14 Nein-Stimmen, 1 Enthaltung
+- TOP 11.4.: Änderungsantrag der SPD-Fraktion zur Hauptsatzung - 14 Ja-Stimmen, 20 Nein-Stimmen, 1 Enthaltung
+- TOP 12.: 5. Änderung der Geschäftsordnung für den Rat der Stadt Wesseling und seine Ausschüsse - 33 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 12.1.: Änderungsanträge der WIR/FWW-Fraktion zur Geschäftsordnung - Antrag 1:5 Ja-Stimmen, 30 Nein-Stimmen, 0 EnthaltungenAntrag 3:5 Ja-Stimmen, 30 Nein-Stimmen, 0 EnthaltungenAntrag 4:5 Ja-Stimmen, 30 Nein-Stimmen, 0 EnthaltungenAntrag 5:5 Ja-Stimmen, 30 Nein-Stimmen, 0 EnthaltungenAntrag 6:5 Ja-Stimmen, 30 Nein-Stimmen,
+- TOP 12.2.: Änderungsantrag der Fraktionen CDU und B90/Die Grünen zur Geschäftsordnung - Antrag 1:30 Ja-Stimmen, 4 Nein-Stimmen, 1 Enthaltung
+- TOP 13.: 2. Änderungssatzung der Satzung über die Unterhaltung und Benutzung der Übergangsheime der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 14.: 1. Änderungssatzung der Satzung der Stadt Wesseling über die Unterhaltung und Benutzung der Obdachlosenunterkünfte in der Stadt Wesseling (Unterbringungssatzung) - Einstimmig, 0 Enthaltungen
+- TOP 15.: Satzung über die Beschaffenheit und Größe von Spielplätzen für Kleinkinder in der Stadt Wesseling - 29 Ja-Stimmen, 6 Nein-Stimmen, 0 Enthaltungen
+- TOP 16.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung von außerplanmäßigen Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 16.1.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung von außerplanmäßigen Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 17.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung einer überplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 18.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung einer überplanmäßigen und einer außerplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 19.: Genehmigung einer Dringlichkeitsentscheidung: Bereitstellung einer überplanmäßigen Ausgabe im Haushaltsjahr 2025 - Einstimmig, 2 Enthaltungen
+- TOP 20.: Genehmigung des Nachtragshaushalts durch die Kommunalaufsicht
+- TOP 21.: Beteiligungsbericht der Stadt Wesseling für das Berichtsjahr 2019 - Einstimmig, 0 Enthaltungen
+- TOP 22.: Feststellung des Jahresabschlusses der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltungen
+- TOP 23.: Feststellung des Wirtschaftsplans der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2026 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Spenden- und Sponsoringkatalog der Stadt Wesseling
+- TOP 25.: Novellierung des Vergaberechts im Unter- sowie Oberschwellenbereich - Übergangssatzung - Einstimmig, 0 Enthaltungen
+- TOP 26.: Zukunftsplan Wesselinger Grundschulen hier: Neubau Albert-Schweitzer-Schule; Darstellung der Vorplanung und der Kostenschätzung der Gesamtbaumaßnahme - Einstimmig, 0 Enthaltungen
+- TOP 27.: Neubau von Unterkünften zur Unterbringung von Geflüchteten am Standort „Im kleinen Mölchen“ - Einstimmig, 0 Enthaltungen
+- TOP 28.: Einrichtung einer zusätzlichen Stelle im Amt -40/Schulamt- - Einstimmig, 0 Enthaltungen
+- TOP 29.: Einrichtung einer neuen Busverbindung nach Bornheim-Sechtem Bhf. zum Fahrplanwechsel 2025/2026 hier: Einrichtung einer weiteren Regionalbuslinie & Anpassung des Stadtbusverkehrs
+- TOP 29.1.: Einrichtung einer neuen Busverbindung nach Bornheim-Sechtem Bhf. zum Fahrplanwechsel 2025/2026 hier: Einrichtung einer weiteren Regionalbuslinie & Anpassung des Stadtbusverkehrs - Einstimmig, 0 Enthaltungen
+- TOP 30.: Neubau der L184 in Wesseling-Berzdorf – Abstimmung zur verkehrlichen Anbindung des Godorfer Weges - Einstimmig, 0 Enthaltungen
+- TOP 30.1.: Änderungsantrag der Fraktionen CDU und B90/Die Grünen zu "Neubau der L184 in Wesseling-Berzdorf" - Einstimmig, 0 Enthaltungen
+- TOP 31.: Gesellschafterversammlung der Wesselinger Grundstücksentwicklungsgesellschaft mbH (WEGE) – Ausübung des Stimmrechts des Vertreters der Stadtentwicklungsgesellschaft mbH als Gesellschafterin, hier: • Änderung des Gesellschaftsvertrags - Einstimmig, 0 Enthaltungen
+- TOP 32.: Beitritt der Stadt Wesseling zum Zweckverband Verkehrsverbund Rhein-Sieg (ZV VRS) - Einstimmig, 0 Enthaltungen
+- TOP 33.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen - Situation der Unterführung Fußgängerzone Weitere Fragen zur Vorlage 271/2024, 1. Ergänzung, der Fraktion Bündnis 90/Die Grünen hier: Stellungnahme der Verwaltung
+- TOP 34.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Zukunft Wochenmarkt Wesseling hier: Stellungnahme der Verwaltung
+- TOP 35.: Mitteilungen und Anfragen
+- TOP 35.1.: Haushaltswirtschaft der Stadt; Übertragung von Ermächtigungen in das Haushaltsjahr 2025
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Schulcampus - Teilprojekt Interim - hier: Auftrag für die Aufstellung der Interims-Blöcke 7 u. 8 - Einstimmig, 0 Enthaltungen
+- TOP 2.: TU-Vergabe Bildungspark Urfeld; Vorstellung der Folgeangebote
+- TOP 3.: TU-Vergabe Grundschul-Interimsgebäude; Vorstellung der Erstangebote
+- TOP 4.: Grunderwerb im Bereich „Am Broelweg“ in Wesseling-Urfeld - Einstimmig, 0 Enthaltungen
+- TOP 5.: Benennung eines Wirtschaftsprüfers für die Jahresabschlussprüfung 2021 der Sondervermögen Kindertageseinrichtungen, Kulturbetriebe, Sportstätten sowie Wald- und Parkanlagen der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 6.: Sachstandsbericht zu einem Grundstücksgeschäft in Wesseling-Mitte
+- TOP 7.: Mitteilungen und Anfragen
+- TOP 8.: Presseveröffentlichungen
