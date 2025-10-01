@@ -32,7 +32,7 @@
 ## Abschnitt 4 Laufbahnprüfung
 
 - [§ 19 Bestandteile](0019.md)
-- [§ 20 Prüfungsamt](0020.md)
+- [§ 20 Organisation der Laufbahnprüfung](0020.md)
 - [§ 21 Prüfungskommission](0021.md)
 - [§ 22 Schriftliche Abschlussprüfung](0022.md)
 - [§ 23 Mündliche Abschlussprüfung](0023.md)
@@ -42,3 +42,7 @@
 - [§ 27 Abschlusszeugnis](0027.md)
 - [§ 28 Prüfungsakte, Einsichtnahme](0028.md)
 - [§ 29 Wiederholung der Laufbahnprüfung](0029.md)
+
+## Abschnitt 5 Schlussvorschriften
+
+- [§ 30 Übergangsregelung](0030.md)

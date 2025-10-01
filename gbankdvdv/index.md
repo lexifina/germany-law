@@ -33,18 +33,18 @@
 - [§ 18 Modulprüfungen](0018.md)
 - [§ 19 Bachelorthesis](0019.md)
 - [§ 20 Verteidigung der Bachelorthesis](0020.md)
-- [§ 21 Mündliche Abschlussprüfung](0021.md)
+- [§ 21 (weggefallen)](0021.md)
 - [§ 22 Bewertung der Prüfungen](0022.md)
-- [§ 23 Fernbleiben, Rücktritt](0023.md)
+- [§ 23 Fernbleiben, Rücktritt, Verlängerung der Bearbeitungsfrist, Rügepflicht](0023.md)
 - [§ 24 Täuschung, Ordnungsverstoß](0024.md)
 - [§ 25 Wiederholung von Prüfungen](0025.md)
 - [§ 26 Bestehen der Laufbahnprüfung](0026.md)
 - [§ 27 Abschlusszeugnis, Diploma Supplement](0027.md)
 - [§ 28 Prüfungsakte, Einsichtnahme](0028.md)
 
-## Abschnitt 5 Anerkennung anderer Studienleistungen
+## Abschnitt 5 Anerkennung und Anrechnung anderer erbrachter Leistungen
 
-- [§ 29 Anerkennung von Studien- und Prüfungsleistungen sowie von nicht an einer Hochschule erworbenen Kompetenzen](0029.md)
+- [§ 29 Anerkennung von Studien- und Prüfungsleistungen sowie Anrechnung von nicht an einer Hochschule erworbenen Kompetenzen](0029.md)
 
 ## Abschnitt 6 Schlussvorschriften
 
