@@ -1,0 +1,13 @@
+# § 22b Datenzugriff
+(1) Die Behörden nach Absatz 3 erhalten im Rahmen ihrer gesetzlichen Befugnisse und gemäß den geltenden gesetzlichen Bestimmungen, soweit dies für ihre Aufgabenwahrnehmung erforderlich ist, Zugang zu den im EDV-System der digitalisierten Freistellungsverfahren ausgetauschten und generierten Daten.
+(2) Die ersuchende Behörde trägt die Verantwortung für die Zulässigkeit des Datenzugriffs. Sie hat den Grund ihres systemseitigen Datenzugriffs aktenkundig zu machen.
+(3) Behörden im Sinne dieser Vorschrift sind Polizei- und Zollbehörden des Bundes und der Länder im Rahmen ihrer Aufgabe der Verhütung und Verfolgung von Straftaten, einschließlich des Bundeskriminalamts als Zentralstelle nach § 2 des Bundeskriminalamtgesetzes vom 1. Juni 2017 (BGBl. I S. 1354; 2019 I S. 400), das zuletzt durch Artikel 5 des Gesetzes vom 30. Juli 2024 (BGBl. 2024 I Nr. 255 S. 4) geändert worden ist, in der jeweils geltenden Fassung, und der Zollfahndungsdienst im Rahmen seiner Befugnisse nach dem Zollfahndungsdienstgesetz vom 30. März 2021 (BGBl. I S. 402), das zuletzt durch Artikel 26 des Gesetzes vom 6. Mai 2024 (BGBl. 2024 I Nr. 149 S. 32) geändert worden ist, in der jeweils geltenden Fassung sowie die weiteren Zollbehörden im Sinne des § 1 Nummer 2 und 3 des Finanzverwaltungsgesetzes in der Fassung der Bekanntmachung vom 4. April 2006 (BGBl. I S. 846, 1202), das zuletzt durch Artikel 22 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387 S. 39) geändert worden ist, in der jeweils geltenden Fassung im Rahmen ihrer Aufgabe der Überwachung des grenzüberschreitenden Warenverkehrs.
+(4) Der Systembetreiber hat gegenüber den berechtigten Anfragen der Behörden eine Mitwirkungspflicht, indem ein Zugriff auf die zum Freistellungsverfahren gehörenden Daten zu gewährleisten ist.
+(5) Der Systembetreiber erstellt zu jedem Datenzugriff einer Behörde ein Protokoll. Das Protokoll muss folgende Daten enthalten:
+1. eine eindeutige Nutzerkennung,
+2. das Datum und die Uhrzeit des Datenzugriffs,
+3. das Aktenzeichen,
+4. den Zweck des Datenzugriffs und
+5. die Referenzen, mit denen der Datenzugriff erfolgte.
+(6) Die Protokolldaten dürfen nur für die Überprüfung der Rechtmäßigkeit der Datenverarbeitung, durch eine dazu befugte öffentliche Stelle, sowie für die Eigenüberwachung, der Gewährleistung der Integrität und Sicherheit der personenbezogenen Daten sowie für Strafverfahren verwendet werden. Die Protokolldaten sind am Ende des auf die Generierung folgenden Jahres zu löschen, es sei denn, dass sie für den in Satz 1 genannten Zweck noch erforderlich sind.
+(7) Der Verantwortliche und der Auftragsverarbeiter haben die Protokolle der für die Rechtmäßigkeit der Abrufe zuständigen Aufsichtsbehörde auf Anforderung zur Verfügung zu stellen.

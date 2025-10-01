@@ -1,0 +1,4 @@
+## Teil 4a Vorschriften zur Erhöhung der Sicherheit bei Umschlagprozessen
+# § 22a Verpflichtung zur Nutzung eines digitalisierten Freistellungsprozesses von Containern
+(1) Zur Gewährleistung eines sicheren und integralen Umschlagprozesses, sind alle am Containerumschlag beteiligten Akteure, insbesondere Reedereien, Terminals, Speditionen und Transportunternehmen, zur Nutzung eines digitalisierten Freistellungsverfahrens von Containern verpflichtet, das eine Abholung von Containern am Terminal nur bei Vorlage eines speziell gesicherten digitalen Abholrechts ermöglicht.
+(2) Die Pflicht nach Absatz 1 gilt, wenn ein Seeschiff einen oder mehrere Container transportiert, um eine Entladung an einem Terminal vorzunehmen und anschließend ein Weitertransport mit dem Binnenschiff, dem Lastkraftwagen oder der Eisenbahn erfolgen soll oder erfolgt.
