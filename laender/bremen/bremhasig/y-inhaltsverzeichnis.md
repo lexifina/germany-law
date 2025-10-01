@@ -2,7 +2,7 @@
 Inhaltsübersicht
 Teil 1 - Allgemeine Bestimmungen
 § 1 | Zielsetzung
-§ 2 | (aufgehoben)
+§ 2 | Begriffsbestimmungen
 § 3 | Zuständige Behörde
 Teil 2- Maßnahmen zur Umsetzung der Richtlinie 2005/65/EG zur Erhöhung der Gefahrenabwehr in Häfen
 § 4 | Anwendungsbereich
@@ -28,6 +28,10 @@ Teil 4 - Zuverlässigkeitsüberprüfungen
 § 20 | Nachberichtserstattung, Wiederholungsprüfung und Mitteilungspflicht von Änderungen
 § 21 | Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten
 § 22 | Verordnungsermächtigung für Zuverlässigkeitsüberprüfungen
+Teil 4a - Vorschriften zur Erhöhung der Sicherheit bei Umschlagprozessen | 
+§ 22a | Verpflichtung zur Nutzung eines digitalisierten Freistellungsprozesses von Containern
+§ 22b | Datenzugriff
+§ 22c | Verordnungsermächtigung
 Teil 5 - Gebührenrechtliche Bestimmungen
 § 23 | Gebühren
 Teil 6 - Ordnungswidrigkeiten
