@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2025-10-01T15:00:00+02:00
+- Ende: 2025-10-01T16:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7857
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7857
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00255872.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00255872.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00255872.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 09.07.2025 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: 30. Nachtrag zur Hauptsatzung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 3: Verleihung des goldenen Schöffensiegels - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 4: Dienstanweisung für die örtliche Rechnungsprüfung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: Satzung über die Durchführung eines Ratsbürgerentscheides zur Olympia-Bewerbung der Region Rhein-Ruhr - Einstimmiger Beschluss
+- TOP 5.1: Ergänzungsantrag zu Beratungsvorlage 4396/X - Satzung über die Durchführung eines Ratsbürgerentscheides zur Olypmia-Bewerbung der Region Rhein-Ruhr; hier: Fraktionsantrag der FDP vom 01.10.2025 - Vom Antragsteller zurückgezogen
+- TOP 6: Außerordentliche Mitgliederversammlung des Städtetages NRW; hier: Genehmigung einer Dringlichkeitsentscheidung nach § 60 Absatz 1 Satz 3 GO NRW - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 7: Beteiligung der Trianel GmbH durch Erwerb von Kommanditanteilen an der Trianel BESS 1 GmbH & Co. KG (T-BESS 1) i.H.v. bis zu 25% des Kommanditkapitals der T-BESS 1 von EUR 2.500,- sowie der (mittelbaren) Beteiligung der T-BESS 1 an der Trianel Batter - Einstimmiger Beschluss
+- TOP 8: Teilnahme der Stadt Mönchengladbach an der bundesweiten Kundenbefragung - Mit Stimmenmehrheit beschlossen
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (3. Nachweisung) - Kenntnisnahme
+- TOP 10: Verschmelzung der Kreisbau AG auf die Gemeinnützige Wohnungs- und Siedlungsgesellschaft mbH // - Einstimmiger Beschluss
+- TOP 11: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 12: Beteiligung der NEW Kommunalholding über die NEW AG mit der ENNI Energie & Umwelt Niederrhein GmbH (Wachstumspartnerschaft II) - Mit Stimmenmehrheit beschlossen
+- TOP 13: Beteiligung über die NEW Kommunalholding GmbH und die NEW AG an der neu gegründeten NEW Hückelhoven GmbH & Co. KG und deren Komplementärin NEW Hückelhoven Verwaltungs-GmbH - Einstimmiger Beschluss
+- TOP 14: Wirtschaftsplan 2026 der mags AöR/ hier: Einbringung - Kenntnisnahme
+- TOP 15: Erster Nachtrag zur Satzung der Stadt Mönchengladbach über die Durchführung von Einwohneranträgen, Bürgerbegehren, Bürgerentscheiden und Ratsbürgerentscheiden - Einstimmiger Beschluss
+- TOP 16: Erster Nachtrag zur Satzung für das Jugendparlament der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 17: Zuwendung an die die AWO Familienservice gGmbH für ein Präventions- und Aufklärungsangebot zum Mediennutzungsverhalten für Kinder und Jugendliche - Mit Stimmenmehrheit beschlossen
+- TOP 18: Fortführung der Betriebsführung der Kinderhäuser Änne-Kremer-Haus und Jakob-Kremer-Haus durch den Sozialdienst katholischer Frauen e.V. Mönchengladbach (SkF) ab dem 01.01.2026 - Einstimmiger Beschluss
+- TOP 19: Jahresabschluss 2024 der eigenbetriebsähnlichen Einrichtung Neue Verwaltungsgebäude Rheydt - Einstimmiger Beschluss
+- TOP 20: Wirtschaftsplan EäE Neue Verwaltungsgebäude Rheydt 2026 - Einstimmiger Beschluss
+- TOP 21: Berichtswesen & Grundsatzangelegenheiten, Jahresabschluss des gmmg für das Wirtschaftsjahr 2024 - Einstimmiger Beschluss
+- TOP 22: Teilnahme der Stadt Mönchengladbach am Landesprogramm "Go4Gewerbe" zur Entwicklung der Trabrennbahn am Flughafen Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 23: Bebauungsplan Nr. 807/S (Bachstraße/ Botzkuhlenweg) - Prüfung Stellungnahmen; Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 24: Bebauungsplan Nr. 789/N („Europaplatz") - Prüfung Stellungnahmen; Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 25: 229. Änderung des Flächennutzungsplanes („Europaplatz") - Prüfung Stellungnahmen; abschließende Beschlussfassung - Mit Stimmenmehrheit beschlossen
+- TOP 26: "Benennung eines Wahlkandidaten für die Wahl des Verbandsausschusses des Wasser- und Bodenverbandes Mittlere Niers." - Einstimmiger Beschluss
+- TOP 27: Zuschuss für das Projekt Schlau der AIDS-Hilfe Mönchengladbach / Rheydt e.V., hier: Antrag der Ratsfraktionen Bündnis 90/Die Grünen, Die Linke, FDP und Die Fraktion vom 20.08.2025 - Mit Stimmenmehrheit beschlossen
+- TOP 28: Anfragen und Mitteilungen
+- TOP 28.1: Anfrage BM Siemes (BÜNDNIS 90 / DIE GRÜNEN)
+- TOP 28.2: Anfrage RH Büschgens (SPD)
+- TOP 28.3: Anfrage RH Ferl (CDU)
+- TOP 28.4: Anfrage RF Odermatt (CDU)
+- TOP 28.5: Anfrage RH M. Schmitz (CDU)
