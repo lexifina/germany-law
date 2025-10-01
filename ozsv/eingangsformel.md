@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Digitales und Staatsmodernisierung verordnet aufgrund des § 6 Absatz 1 Nummer 1 und 2 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138), das zuletzt durch Artikel 1 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 245) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetz vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131) im Einvernehmen mit dem IT-Planungsrat:
