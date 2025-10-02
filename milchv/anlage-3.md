@@ -14,7 +14,4 @@ Die anzuwendende Methode ist aus der nachstehenden Aufstellung zu ersehen. Die B
 | 3.Milchsäure- und Lactatgehalt zur Überprüfung des Verbots der Verwendung von Neutralisierungsmitteln | L 02.06.E (EG) und 6 (EG) | Januar 1981 |
 | 4.Phosphatase-Aktivität zur Überprüfung der erforderlichen Wärmebehandlung | L 02.06.E (EG) und 7 (EG) oder 8 (EG) | Januar 1981 |
 | 5.Probenahme | L 02.06-9 (EG)-11 (EG) | Mai 1988 |
-| IV. (weggefallen) |  |  |  |
-| V. (weggefallen) |  |  |  |
-| VI. (weggefallen) |  |  |  |
 | ---------*1)Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln |
