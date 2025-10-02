@@ -13,6 +13,5 @@
 - [§ 11 Rückzahlungsbedingungen](0011.md)
 - [§ 12 Mitteilungspflichten](0012.md)
 - [§ 13 Aufteilung der eingezogenen Beträge](0013.md)
-- [§ 13a Übergangsvorschrift](0013a.md)
 - [§ 14 Ordnungswidrigkeiten](0014.md)
 - [Anlage (zu § 6 Absatz 1)](anlage-zu-6-absatz-1.md)
