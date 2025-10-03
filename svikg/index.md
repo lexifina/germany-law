@@ -1,0 +1,15 @@
+# Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Errichtung des Sondervermögens](0001.md)
+- [§ 2 Zweck des Sondervermögens](0002.md)
+- [§ 3 Investitionen der Länder](0003.md)
+- [§ 4 Investitionen des Bundes](0004.md)
+- [§ 5 Stellung im Rechtsverkehr](0005.md)
+- [§ 6 Kreditermächtigung](0006.md)
+- [§ 7 Wirtschaftsplan](0007.md)
+- [§ 8 Rechnungslegung](0008.md)
+- [§ 9 Verwaltungskosten und Kosten der Kreditaufnahme](0009.md)
+- [§ 10 Erfolgskontrollen](0010.md)
+- [§ 11 Laufzeit, Auflösung und Tilgungsplan](0011.md)
+- [§ 12 Inkrafttreten](0012.md)
