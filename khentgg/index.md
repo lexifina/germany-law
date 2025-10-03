@@ -33,8 +33,7 @@
 - [§ 14 Genehmigung](0014.md)
 - [§ 15 Laufzeit](0015.md)
 
-## Abschnitt 5 Gesondert berechenbare ärztliche und
-andere Leistungen
+## Abschnitt 5 Gesondert berechenbare ärztliche und andere Leistungen
 
 - [§ 16 (weggefallen)](0016.md)
 - [§ 17 Wahlleistungen](0017.md)

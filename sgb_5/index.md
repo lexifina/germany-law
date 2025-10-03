@@ -637,7 +637,7 @@ Beschäftigte](0198.md)
 
 - [§ 220 Grundsatz](0220.md)
 - [§ 221 Beteiligung des Bundes an Aufwendungen](0221.md)
-- [§ 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds, Verordnungsermächtigung](0221a.md)
+- [§ 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds](0221a.md)
 - [§ 221b (weggefallen)](0221b.md)
 - [§ 222 (weggefallen)](0222.md)
 - [§ 223 Beitragspflicht, beitragspflichtige Einnahmen,
