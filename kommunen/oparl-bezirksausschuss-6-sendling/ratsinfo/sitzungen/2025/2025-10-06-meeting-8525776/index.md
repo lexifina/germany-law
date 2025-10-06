@@ -1,0 +1,111 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-10-06T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525776
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525776
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokoll der Sitzung vom 15.09.2025
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Begrünte Baumscheiben in Sendling
+- TOP 2.2.: Kosten für das Projekt „Sommerstrasse Gotzinger Platz“
+- TOP 2.3.: Anfrage Baustelle Flössergasse-Zechstrasse
+- TOP 2.4.: Rückantwort: Lärmsituation um den HC Wacker München
+- TOP 2.5.: Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h in der Brudermühlstraße
+- TOP 2.6.: Vorschlag zur Einrichtung einer Tempo-30-Zone auf der Thalkirchner Straße
+- TOP 2.7.: Zur Kenntnis: Zustand an den Wertstoffinseln Höhe Valleystr. 42 und 34
+- TOP 2.8.: Zur Kenntnis: Müllcontainer Ecke Valley/Aberlestr., Extreme Verschmutzung
+- TOP 2.9.: Zwei Anliegen: 1) Die Implerstraße (zumindest im ganztägigen 30 km/h Bereich ab der Gaißacherstraße stadteinwärts) auf einspurig umzuändern 2) Die „Fugen“ des Kopfsteinpflasters der Kyreinstraße östlich und westlich der Implerstraße, mit Teer aufzufüllen
+- TOP 2.10.: Fernwärme Stemmerhof
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Fällungsantrag vom 10.09.2025 auf dem Grundstück Valleystr. 37
+- TOP 4.2.2.: Gaißacher Str. 7 Nutzungsänderung der Gewerbefläche im Erdgeschoss in 7 Beherbergungsräume mit max. 14 Betten für mittelfristigen Aufenthalt / Projektaufenthalt - max 6. Monate - VORBESCHEID
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Große Tartan Fläche für Calisthenics – Fitness Park Isarauen
+- TOP 4.3.2.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 4.3.3.: Antrag auf Baumfällung auf dem Grundstück Plinganserstraße 32 - 34
+- TOP 4.3.4.: Antrag auf Baumfällung auf dem Grundstück Karwendelstraße 32
+- TOP 4.3.5.: Ausnahmezulassung – Nächtliches Mähen des Straßenbegleitgrüns
+- TOP 4.3.6.: Neubau der Großmarkthalle
+- TOP 4.3.7.: Blumengroßmarkt im neuen Großmarktkonzept
+- TOP 4.3.8.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 4.3.9.: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Baumbilanz Bezirk Sendling
+- TOP 4.4.2.: Stadtbäume in Sendling: Schwammstadt-Prinzip endlich konsequent umsetzen! (3) Antrag auf Entsiegelung der Baumscheiben und Bepflanzung derselben mit winterharten Bodendeckern auf dem Harras und den diesen Platz umlaufenden Straßen (Am Harras vor der Post sowie vor der Ladenzeile Plinganserstraße)
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Karwendelstr. 14: Einrichtung personenbezog. Sonderparkplatz
+- TOP 5.2.2.: Ausnahmegenehmigung VA Grünanlage (OHNE Anhörung): Martinszug/Laternenfest KiGa Singende Matschknödel durch Isarauen am 14.11.2025; START: Am Isarkanal/Ecke Schäftlarnstr.
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Fahrradabstellanlagen in der Schmied-Kochel Straße
+- TOP 5.3.2.: Arbeiten im Straßenraum; Lindenschmitstraße 29a – 31 und 40 sowie Kidlerstraße 31 – 33 vom 06.10.2025 bis 21.11.2025
+- TOP 5.3.3.: Verlängerung der Tempo-30-Zone zwischen Alramstraße und Implerstraße bis 19.12.2025
+- TOP 5.3.4.: Bauvorhaben der SWM • SWM Fernwärme Projekt An der Stemmerwiese
+- TOP 5.3.5.: Parkplatz Kidlerplatz
+- TOP 5.3.6.: Umgesetzte Fahrrad- und Lastenradstellplätze
+- TOP 5.3.7.: Arbeiten im Straßenraum; Meindlstr. 11 bis Margaretenplatz, Margaretenplatz bis An der Stemmerwiese 1; Verlegung einer Fernwärmeleitung in offener Bauweise - 3 Bauphasen
+- TOP 5.3.8.: Arbeiten im Straßenraum; Schanzenbachstraße - Schaffung neuer Baumstandorte im Straßenbereich
+- TOP 5.3.9.: Ausnahmegenehmigung Grünanlage: Wiesenfest KiGa Matschknödel Am Isarkanal/Ecke Schäftlarnstr. am 26.09.2025
+- TOP 5.3.10.: Sicherheit der RadfahrerInnen gewährleisten
+- TOP 5.3.11.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 5.3.12.: Unveränderte Gaststättenfortführung: Ganghoferstraße 86b, 81373 München
+- TOP 5.3.13.: Information über baustellenbedingte Fahrplan- und Linienwegsänderungen auf den U-Bahnlinien U1 und U2 aufgrund von Baumaßnahmen im Zeitraum von Oktober 2025 bis März 2026
+- TOP 5.3.14.: Tempo 30 jetzt an der Kreuzung am Herzog-Ernst-Platz BA-Antrag Nr. 20-26 / B 07965 - 2. Zwischennachricht -
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik „Bayerwaldhaus im Westpark vom 21.04.2025 - 10.05.2025“ 8.000,00 € / AZ: 0262.0-6-0536
+- TOP 6.1.2.: (E) Stadtbezirksbudget Evangelisch-Lutherische Kirchengemeinde Sendling „Sendlinger Orgelnacht am 24.10.2025“ 2.000,00 € / AZ: 0262.0-6-0584
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Stellungnahme des Kulturreferats zu Antrag
+- TOP 6.3.2.: Verwendungsnachweise: - Tag der offenen Tür
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Dienststellenverständigung Erweiterungsbau Maria-Probst Realschule, HfK und Dienstwohnung Reutberger Str. 10-14
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.11.: Fernwärme-Baustelle Meindlstr.
+- TOP 4.2.3.: Anhörung BA 06 zur BV-Empfehlung Nr. 20-26 / E 01653: Sendlinger Loch - bezahlbares Wohnen und Badespaß jetzt; Erwerb des Grundstücks zum bezahlbaren Wohnungsbau in kommunaler oder genossenschaftlicher Hand Empfehlung Nr. 20-26 / E 01653 der Bürgerversammlung des Stadtbezirks 06 - Sendling am 22.11.2023
+- TOP 2.12.: Baustelle Meindlstrasse
+- TOP 5.1.1.: Antrag auf Warenauslage, Brudermühlstr. 1
+- TOP 6.1.3.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. „Faces for the Names Jüdisches Leben, Widerstand und Zivilcourage in Sendling vom 01.10.2025 - 01.02.2026“ 3.900,00 € / AZ: 0262.0-6-0579
+- TOP 7.4.1.: Wie geht es weiter mit Stadtbibliothek und der VHS am Harras?
+- TOP 2.13.: Parksituation am Margaretenplatz aufgrund Baumaßnahmen
+- TOP 7.2.1.: Anhörung aller Bezirksausschüsse - Beschlussvorlage "kita- und ganztagsbarometer"
+- TOP 4.4.3.: Zwei Baumgutachten – zwei unterschiedliche Ergebnisse?!
+- TOP 2.14.: Situation für Fußgänger und Radfahrer Ecke Stemmerhof - Jägerwirtstraße/Pfeufferstraße/Plinganserstr.
+- TOP 2.15.: Tempolimit 30 Brudermühlstraße?
+- TOP 2.16.: Mangelhafte Versorgung von weiten Teilen Sendlings mit Fernwärme
+- TOP 5.2.3.: Herzog-Ernst-Platz - Anhörung zur verkehrsrechtlichen Anordnung
