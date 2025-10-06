@@ -1,0 +1,33 @@
+# Bezirkshaushaltsplan für die Jahre 2026/2027 (Doppelhaushalt)
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 1974/XXI
+- Art: Beschlussempfehlung - 2. Lesung
+- Datum: 2025-10-06
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9752
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=9752
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=366715
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5543 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5637 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5849 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5850 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5851 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5852 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5853 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5638 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5648 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5660 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=56
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5722 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5599 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=55
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5680 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5588 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=6044 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=53
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5627 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=53
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5690 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5617 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5670 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=54
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5711 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=23
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5854 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5544 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=45
