@@ -1,0 +1,57 @@
+# Rat (40. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2025-10-07T18:00:00+02:00
+- Ende: 2025-10-07T19:55:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcNx7bdCQH2dPPwRzYb7Crs
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21436
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZaFQoCqiqh8SL9dlZQbnJlRz9q5rwousWPTXJaoqQGQ/Bekanntmachung_Rat_07.10.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbg089yfLc26sI66sDXqrFwe2JPFvsazpnD-N091Cr6/Oeffentliche_Niederschrift_Rat_07.10.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 08.07.2025 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Wiederaufbau Archiv hier: Sachstand und weitere Maßnahmen - Einstimmiger Beschluss:
+- TOP 6.: Sanierungs- und Entwicklungskonzept Grundschule Bad Münstereifel hier: Konzeptvorstellung Umbau/ Sanierung Gymnastikhalle - Einstimmiger Beschluss:
+- TOP 7.: Erneuerung der Transportleitung Schönau bis zur Pumpstation Mahlberg ( 2.BA ) - Einstimmiger Beschluss:
+- TOP 8.: Beschaffung eines LKW-Tandemanhängers für den städtischen Bauhof - Beschluss siehe RD-Nr. 1715-XI/Z-2.
+- TOP -: Beschaffung eines LKW-Tandemanhängers für den städtischen Bauhof hier: Verweis der Beschlussfassung aus dem Bau- und Feuerwehrausschuss in den Rat - Einstimmiger Beschluss:
+- TOP -: Beschaffung eines LKW-Tandemanhängers für den städtischen Bauhof hier: Genehmigung einer außerplanmäßigen Ausgabe - Beschluss siehe RD-Nr. 1715-XI/Z-3.
+- TOP -: Beschaffung eines LKW-Tandemanhängers für den städtischen Bauhof hier: Genehmigung einer außerplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 9.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Arloff/Kirspenich Hier: Straßenplanung Bachstraße in Arloff nach der Bürgerbeteiligung am 28.08.2025 - Beschluss siehe RD-Nr. 592-XI/Z-13.
+- TOP -: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Arloff/Kirspenich Hier: Straßenplanung Bachstraße in Arloff nach der Bürgerbeteiligung am 28.08.2025; Empfehlungsbeschluss Bau- und Feuerwehrausschuss vom 23.09.2025 - Einstimmiger Beschluss:
+- TOP 10.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Fortsetzungsmaßnahme A2 Hof- und Fassadenprogramm – Anpassung der Förderrichtlinie - Einstimmiger Beschluss:
+- TOP 11.: Jahresabschluss 2024 hier: Zuleitung des Entwurfs gem. § 95 Abs. 5 GO NRW - Einstimmiger Beschluss:
+- TOP 12.: Erlass der Haushaltssatzung für das Haushaltsjahr 2025 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 – Beschluss zur Genehmigungsverfügung der Kommunalaufsicht vom 11.07.2025 hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss:
+- TOP 13.: Kosten zur Durchführung der Wahlen im Jahr 2025 hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 14.: Genehmigung einer überplanmäßigen Leistung Hier: Straßenentwässerungsanteil 2025 - Einstimmiger Beschluss:
+- TOP 15.: Genehmigung überplanmäßige Leistung Kapitalertragssteuer im Rahmen des BgA Beteiligung - Einstimmiger Beschluss:
+- TOP 16.: Unterbringung herrenloser Tiere hier: Genehmigung einer überplanmäßigen Leistung - Einstimmiger Beschluss:
+- TOP 17.: Bezahlkarte Geflüchtete hier: Beratung und Beschlussfassung - Mehrheitlicher Beschluss bei 3 Nein-Stimmen:
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Sachstand Wiederaufbau hier: Stand 23.09.2025
+- TOP 18.2: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 18.3: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Bewilligung des Gesamtmaßnahmenpakets der Fortschreibung und weiteres Vorgehen
+- TOP 18.4: Bericht zum 30.06.2025 im Rahmen des Finanzcontrollings
+- TOP 18.5: Tätigkeitszeitraum des "alten" und des "neuen" Rates
+- TOP 18.6: Bürgerbegehren "Keine Umsetzung des Verkehrs-, Beschilderungs- und Parkraumkonzepts gemäß Ratsbeschluss vom 30.03.2023" (Ratsdrucksache: 791-XI/Z-1 bis 10 nebst Anlagen) hier: Entscheidung des Verwaltungsgerichts und Informationen über das weitere Vorgehen
+- TOP 18.7: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 18.8: Verabschiedung des alten Rates nach der konstituierenden Sitzung
+- TOP 18.9: Wiederaufbau in Iversheim Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion
+- TOP 18.10: Ausscheiden aus dem Rat hier: Abschiedsworte des Stadtverordneten Thomes Bell, BSW
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Bürgerbegehren "Keine Umsetzung des Verkehrs-, Beschilderungs- und Parkraumkonzepts gemäß Ratsbeschluss vom 30.03.2023" (Ratsdrucksache: 791-XI/Z-1 bis 10 nebst Anlagen) hier: Entscheidung über das Einlegen von Rechtsmitteln - Einstimmiger Beschluss:
+- TOP 2.: Beteiligung der e-regio GmbH & Co. KG am "Batterieprojekt Waltrop" - Einstimmiger Beschluss:
+- TOP 3.: Dachsanierung eifelbad Hier: Masterplan eifelbad, Auftragserteilung, Vorstellung Energiekonzept, Ausschreibung Ingenieurleistungen Dachsanierung. - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 4.: Anfragen und Mitteilungen
+- TOP 5.: Dank der Bürgermeisterin an den Rat
+- TOP 6.: Geschenkübergabe an die Bürgermeisterin
