@@ -1,4 +1,3 @@
-# Anlage zu § 17
+# Anlage (weggefallen)
 
-(Fundstelle: BGBl. I 2009, 1590)
-|  |
+

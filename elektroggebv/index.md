@@ -1,4 +1,4 @@
-# Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batteriegesetz
+# Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batterierecht-Durchführungsgesetz
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gebührenerhebung](0001.md)
