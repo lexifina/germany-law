@@ -1,0 +1,52 @@
+# Rat (54. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2025-10-08T18:00:00+02:00
+- Ende: 2025-10-08T22:17:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeVCiO93eEiZotggmq_Fwl0
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6263
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbUxkOkwt58KxGzBdiAJHGXRHfjyNPc4eseMT1u0G24O/Oeffentliche_Niederschrift_Rat_08.10.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Unterstützung der Initiative „Omas gegen Rechts“ (Frage des Einwohners Frank Kirste)
+- TOP 3.: Niederschrift vom 27.08.2025
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion pro:Bürgerschaft vom 17.09.2025; "Stilllegung des Passbildautomaten der Stadtverwaltung" - 2 Jastimmen, 38 Neinstimmen, 1 Enthaltung
+- TOP 5.2: Antrag der Fraktion pro:Bürgerschaft vom 17.09.2025; "Öffentlicher Inklusionsspielplatz; Grundschule West, Grüne Aue"
+- TOP 5.2.1: Antrag der Fraktion pro:Bürgerschaft vom 17.09.2025; "Öffentlicher Inklusionsspielplatz; Grundschule West, Grüne Aue" - 41 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 5.3: Antrag der Fraktion Bündnis 90 / Die Grünen vom 28.09.2025; "Keine Einführung der Bezahlkarte für Asylbewerber*innen in Gronau – Wahrnehmung der Opt-Out-Regelung"
+- TOP 5.3.1: Antrag der Fraktion Bündnis 90 / Die Grünen vom 28.09.2025; "Keine Einführung der Bezahlkarte für Asylbewerber*innen in Gronau – Wahrnehmung der Opt-Out-Regelung" - 10 Jastimmen, 26 Neinstimmen, 5 Enthaltungen
+- TOP 6.: Liquidation der Quartiersentwicklungsgesellschaft für die Innenstadt Gronau mbH (QEG) - rechtliche und finanzielle Auswirkungen - 19 Jastimmen, 21 Neinstimmen, 1 Enthaltung
+- TOP 7.: Aktueller Sachstand Konflikt SG Gronau / Turo d‘Izlo - 35 Jastimmen, 3 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Teilaufhebung des Bebauungsplans Nr. 130 "Inselpark Gronau", Stadtteil Gronau - Einstimmig, 0 Enthaltungen
+- TOP 9.: Vorhabenbezogener Bebauungsplan „Lebensmitteldiscounter Ochtruper Straße“, Stadtteil Gronau 1.Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2.Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3.Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4.Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5.Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 10.: 111. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich des vorhabenbezogenen Bebauungsplanes „Lebensmitteldiscounter Ochtruper Straße“, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauG 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 11.: 112. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Windenergiegebiet Am Berge", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauG 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 12.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau (Westf.) für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 13.: Übertragung einer Verpflichtungsermächtigung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Ausbuchung des Bilanzpostens zur Erhaltung der gemeindlichen Leistungsfähigkeit
+- TOP 14.1: Ausbuchung des Bilanzpostens zur Erhaltung der gemeindlichen Leistungsfähigkeit - 21 Jastimmen, 16 Neinstimmen, 4 Enthaltungen
+- TOP 15.: Beteiligungsbericht 2023 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 16.: 50 Jahre Kommunale Neugliederung; Festakt am 07.11.2025
+- TOP 17.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.2: Schwerpunktkontrollen der Polizei in der Innenstadt
+- TOP 18.3: Verdachtsfall in der Kita St. Ludgerus
+- TOP 18.4: Videoüberwachung an Containerstandorten
+- TOP 19.: Anfragen
+- TOP 19.1: Mobiliar des denkmalgeschützten Rathauses (Anfrage v. RM Doetkotte)
+- TOP 19.2: Sachstand Ostumgehung (Anfrage v. RM Buchholz)
+- TOP 19.3: Sachstand LKW-Sperrung im Ortsteil Epe (Anfrage v. RM Doetkotte)
+- TOP 19.4: Laubsammlung auf dem Tieker Damm (Anfrage v. RM von Borczyskowski)
+- TOP 19.5: Einrichtung von Laubsammelstellen (Anfrage v. RM Buß)
+- TOP 19.6: Erdarbeiten bei URENCO (Anfrage v. RM Buchholz)
