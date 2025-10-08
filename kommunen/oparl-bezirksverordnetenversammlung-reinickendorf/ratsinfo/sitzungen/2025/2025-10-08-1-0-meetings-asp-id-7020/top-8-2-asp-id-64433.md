@@ -1,0 +1,8 @@
+# TOP 8.2: Gedenktafel für Beate Fischer
+
+- Sitzung: 46. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2025-10-08)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=64433
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=64433
