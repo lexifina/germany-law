@@ -1,0 +1,84 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-10-08T17:00:00+02:00
+- Ende: 2025-10-08T20:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7020
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7020
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=584053
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Notfallversorgung im Bezirk ab 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Dienstgebäude des BZA, Alt-Wittenau 69, 13437 Berlin - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 46. Sitzung der BVV am 08.10.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Tegeler Hafenfest 2025 - beantwortet
+- TOP 5.2: Pachtvertrag für die Beachvolleyball-Halle auf der Sportanlage Königshorster Straße - beantwortet
+- TOP 5.3: Schulneubau in der Rue Racine - beantwortet
+- TOP 5.4: fehlende Veröffentlichung von Beschlüssen des Bezirksamts seit 2023 - beantwortet
+- TOP 5.5: Erweiterung der Kältehilfe für obdachlose Menschen - beantwortet
+- TOP 5.6: Nachnutzung der Gebäude des ehem. C&A und Leiser - beantwortet
+- TOP 5.7: Umstellung der Verwaltungsrechner im Bezirksamt auf Berlin-PC - beantwortet
+- TOP 5.8: Stand der Ertüchtigung der Grünanlagen an den Plätzen im Zentrum Frohnaus - beantwortet
+- TOP 5.9: Radabstellanlagen für Mitarbeitende - schriftlich beantwortet
+- TOP 5.10: Rechtswidriges Gehwegparken in der Veitstr. - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Einschränkungen im S-Bahnverkehr der Linie S1 nach Oranienburg (Mündliche Anfrage) - zurückgezogen
+- TOP 6.2: Räumarbeiten im Kienhorstpark (Mündliche Anfrage) - zurückgezogen
+- TOP 6.3: Soforthilfen für Sturmschäden (Mündliche Anfrage) - beantwortet
+- TOP 6.4: Fehlende Antwort der Bezirksbürgermeisterin (Mündliche Anfrage) - beantwortet
+- TOP 6.5: Aufzug am Altbau (Mündliche Anfrage) - beantwortet
+- TOP 6.6: Bauarbeiten in der Frohnauer Straße (Mündliche Anfrage) - beantwortet
+- TOP 6.7: Grundschule in den Rollbergen (Mündliche Anfrage) - beantwortet
+- TOP 6.8: Grundschule in der Rollbergesiedlung II (Mündliche Anfrage) - beantwortet
+- TOP 6.9: Obdachlosigkeit in Reinickendorf bekämpfen (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Säuberung der Baumscheiben an den Bushaltestellen am S+U Wittenau (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Reinickendorf - aktiv gegen den Klimawandel? (Große Anfrage) - beantwortet
+- TOP 6.12: Mehr System im Sharing-Netz (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.13: Unterirdische Erschließung des Planungsgebietes TXL-Nord untersuchen (Beschlussempfehlung) - mit Änderungen in der BVV beschlossen
+- TOP 6.14: Reinickendorf-Ost besser an und mit ÖPNV anschließen (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Spielstätte für ein Kinder- und Jugendtheater schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Gedenktafel für Beate Fischer - überwiesen
+- TOP 8.3: Bedarfsgerechte Ausstattung der Hilfen zur Erziehung einfordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Supervision für Patientenfürsprechende - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Beseitigung von Baumstümpfen im öffentlichen Raum in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Sportplatz Tietzstraße reparieren - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Erweiterung der Kiezkarte - überwiesen
+- TOP 13.3: Verbesserung der Fahrradinfrastruktur und der Querungsbedingungen am Donnersmarckplatz - überwiesen
+- TOP 13.4: Freigabe des Schmitzweges für den Radverkehr - überwiesen
+- TOP 13.5: Trainingsmöglichkeiten für den BFC Alemannia 1890 sicherstellen - erledigt
+- TOP 13.6: Mehr Fahrradbügel an der Greenwichpromenade - überwiesen
+- TOP 13.7: Fahrradständer in Alt-Tegel errichten - überwiesen
+- TOP 13.8: Grundlagenermittlung für Parkraummanagement für Reinickendorf-West - überwiesen
+- TOP 13.9: Marode Holzabgrenzung - überwiesen
+- TOP 13.10: Nimrodstraße sanieren - überwiesen
+- TOP 13.11: Kopfsteinpflaster abfräsen statt asphaltieren - überwiesen
+- TOP 13.12: Informationen zu Bauarbeiten im öffentlichen Straßenland - überwiesen
+- TOP 13.13: Brücke am Seggeluchbecken aufwerten - überwiesen
+- TOP 13.14: Verbesserung der Situation im Bereich Breitenbachstraße - Soltauer Straße / ehemalige Gartenpachtflächen - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Ölsperre am Flughafensee wiederherstellen - überwiesen
+- TOP 14.2: Sonderpflanzung Stadtbaumkampagne Frühjahr 2026 für Bezirk Reinickendorf - überwiesen
+- TOP 14.3: Sicherheit an der Kreuzung Lindauer Allee/Aroser Allee erhöhen - überwiesen
+- TOP 14.4: Reanimation in der Schule unterrichten - überwiesen
+- TOP 14.5: Bojenkette am Flughafensee instandsetzen - überwiesen
+- TOP 14.6: Erhalt der AtelierEtage AR_29 in Alt-Reinickendorf - überwiesen
+- TOP 14.7: Ostufer am Flughafensee schützen - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
