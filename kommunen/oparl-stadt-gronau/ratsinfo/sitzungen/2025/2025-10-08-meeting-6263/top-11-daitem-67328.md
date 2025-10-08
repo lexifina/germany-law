@@ -1,0 +1,14 @@
+# TOP 11.: 112. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Windenergiegebiet Am Berge", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauG 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss
+
+- Sitzung: Rat (54. Sitzung) (2025-10-08)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/67328
+- Ergebnis: Einstimmig, 0 Enthaltungen
+- Beratung: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/26537
+- Beschluss (Datei): Beschlusstext (112. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Windenergiegebiet Am Berge", Stadtteil Epe
+1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB
+2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauG
+3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB
+4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB
+5. Planbeschluss) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTFMJYUrFahka4JCevT1oDd35FQxQoyEa7SlzarmjOrU/Beschlusstext_428-2025_-oeffentlich-_Rat_08.10.2025.pdf
