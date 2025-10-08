@@ -1,0 +1,22 @@
+# Aktueller Sachstand Konflikt SG Gronau / Turo d‘Izlo
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 368/2025 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-10-08
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfMAAnvejwqJ3Wcp-WufAtU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/18543
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Aktueller Sachstand Konflikt SG Gronau / Turo d‘Izlo) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXUZddR7RmiHc3fvqYHfqeXfivcmdGHdIPeyOCd-qmBC/Beschlussvorlage_368-2025_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (WN Artikel_28.08.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdSauoJf8op8PsVYOAvtHJSBU8xmQSOH9xjQRFx2p9qW/WN_Artikel_28.08.2025.pdf
+- Anlage: Beschlussvorlage (Spielbetrieb D-Jugend_03.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdcBoT4Scey0OF9Iuhp_r05SEzlHCQZPNuNJNpR5uBak/Spielbetrieb_D-Jugend_03.09.2025.pdf
+- Anlage: Beschlussvorlage (Spielverlegung- Abstimmung SG_04.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWNmiRipafd5e2E42BOKjxA8o2erlW-6JYFzsernujhq/Spielverlegung-_Abstimmung_SG_04.09.2025.pdf
+- Anlage: Beschlussvorlage (Schreiben SG_04.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaiZq9QOMmCuGRcYR8xqwSok4HZzDXkdehq0Ejv2v0x2/Schreiben_SG_04.09.2025.pdf
+- Anlage: Beschlussvorlage (Schreiben SG an Turo_04.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbWKcToLHkxBmO6VNczBRHQyeqAGRMVKd_nW7dVx2NAK/Schreiben_SG_an_Turo_04.09.2025.pdf
+- Anlage: Beschlussvorlage (Leserbrief WN_06.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTwODu-zyKv07f6fccr4Lxcc68Iw2Sv2AI_Jhg93kUMl/Leserbrief_WN_06.09.2025.pdf
+- Anlage: Beschlussvorlage (Schreiben SG_23.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc4XccQVmr0Uw2m2xnZiH0DLJ8uRfOTcgmkuQTY6KdYM/Schreiben_SG_23.09.2025.pdf
+- Anlage: Beschlussvorlage (Schriftverkehr Staffelleitung_24.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXQsGAnZUuI9ByKvEEhFqaNnjh_9DWJxnIno9v5cnBO0/Schriftverkehr_Staffelleitung_24.09.2025.pdf
+- Anlage: Beschlussvorlage (Anwaltsschreiben zum Direktionsrecht_29.09.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQhH9-bZdrqC-cpdjTBUiCYvD9SZanhxh-d9Xrg14Ml3/Anwaltsschreiben_zum_Direktionsrecht_29.09.2025.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Johann Dag - Turo d'Izlo v. 07.10.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXgGnZQ1NUOWDQhsNWHludFeUF6B4hGV6cVth6fUIaEb/Stellungnahme_Johann_Dag_-_Turo_d-Izlo_v._07.10.2025.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6263 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-45
