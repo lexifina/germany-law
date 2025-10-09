@@ -1,0 +1,6 @@
+# TOP 10: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Gemünden (2025-10-09)
+- Körperschaft: Ortsgemeinde Gemünden
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2025-7-101%7CEroeffno%7C2
