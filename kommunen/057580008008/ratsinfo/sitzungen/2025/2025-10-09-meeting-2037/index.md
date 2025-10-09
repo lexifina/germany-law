@@ -1,0 +1,52 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Enger
+- Beginn: 2025-10-09T18:04:00+02:00
+- Ende: 2025-10-09T20:18:00+02:00
+- Ort: Rathaus, Bahnhofstraße 44, 32130 Enger, Ratssaal
+- Status: 
+- Gremium: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://enger.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW-u4Nqlqgc2N81eXpM9jXk
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2037
+- Quelle: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRxwCKMDnFZ0GprsQggTUqnBRUmctF2IThUoNAI2Wg22/Bekanntmachung_Rat_09.10.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSNhZBeNInnEUiKqRkkK46n5DxUcLwAqnU43djaYUNIk/Oeffentliche_Niederschrift_Rat_09.10.2025.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP 1.: Bestimmung eines Ratsmitgliedes zur Mitunterzeichnung der Niederschrift
+- TOP 2.: Niederschrift über die öffentliche Sitzung am 10.07.2025
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Mitteilungen
+- TOP 5.: Bericht der Verwaltung
+- TOP 6.: Vorlagen des Rechnungsprüfungsausschusses
+- TOP 6.1: Bericht über die überörtliche Prüfung der Widukindstadt Enger nach § 105 GO NRW durch die Gemeindeprüfungsanstalt des Landes Nordrhein-Westfalen (GPA NRW) und Beschlussfassung im Rahmen der Stellungnahmepflicht - Einstimmig
+- TOP 7.: Vorlagen des Haupt-und Finanzausschusses
+- TOP 7.1: Gesamtabschluss 2024 hier: Befreiung von der Aufstellungspflicht - Einstimmig
+- TOP 7.2: Satzung über die Festsetzung der Hebesätze für die Grund- und Gewerbesteuer in der Widukindstadt Enger - 21 Ja-Stimme(n), 8 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 7.3: Behandlung der Bilanzierungshilfe nach §6 NKF-Covid-19-Ukraine-Isolierungsgesetz NRW/NKF-CUIG NRW - Einstimmig
+- TOP 7.4: Gesetz zur anteiligen Entschuldung von Kommunen im Land Nordrhein-Westfalen (Altschuldenentlastungsgesetz Nordrhein-Westfalen/ASEG NRW) hier: Antragstellung und Beauftragung eines Wirtschaftsprüfers nach § 4 ASEG NRW - Einstimmig
+- TOP 7.5: Eigenkapitalausstattung der Wirtschaftsbetriebe (WBSE) - Einstimmig
+- TOP 8.: Vorlagen des Ausschusses für öffentliche Sicherheit, Ordnung und Soziales
+- TOP 8.1: Aufhebung der Sperre bei den Kostenbeteiligungen - Einstimmig
+- TOP 9.: Vorlagen des Ausschusses für Schule, Jugend und Sport
+- TOP 9.1: Haushalt 2025 Aufhebung der Sperre bei der OGS-Betreuung - Einstimmig
+- TOP 9.2: Haushalt 2025 Aufhebung der Sperre bei der Weiterleitung der OGS-Elternbeiträge - Einstimmig
+- TOP 9.3: Haushalt 2025 Aufhebung der Sperre bei den Schülerbeförderungskosten - Einstimmig
+- TOP 9.4: Haushalt 2025 Aufhebung der Sperre bei Betriebskosten Kindertageseinrichtungen - Einstimmig
+- TOP 10.: Vorlagen des Ausschusses für Stadtplanung und Infrastruktur
+- TOP 10.1: 7. Änderung des Bebauungsplanes Nr. 36 "Auf dem Bruche" a) Beratung und Beschlussfassung über die abgegebenen Stellungnahmen im Rahmen der frühzeitigen Beteiligung b) Zustimmung zum Entwurf einschließlich der Begründung c) Beratung und Beschlussfassung über die Durchführung der Beteiligungsverfahren - 25 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.2: 11. Änderung des Bebauungsplanes Nr.2 „ Bahnhofstraße“ a) Beratung und Beschlussfassung über die abgegebenen Stellungnahmen im Rahmen der ersten Offenlage b) Zustimmung zum erneuten Entwurf einschließlich der Begründung c) Beratung und Beschlussfassung über die erneute Durchführung der Beteiligungsverfahren - Einstimmig
+- TOP 10.3: Aufstellung des vorhabenbezogenen Bebauungsplans Nr. 99 "1. Erweiterung Gewerbegebiet östl. der Bünder Straße" a) Zustimmung zum Vorentwurf einschließlich der Begründung b) Beratung und Beschlussfassung über die Durchführung der frühzeitigen Beteiligung - Einstimmig
+- TOP 10.4: ISEK Ortskern Enger 2025+ hier: Beschlussfassung über die Ausführungsplanung für den zweiten Bauabschnitt "Steinstraße" der Ortskernumgestaltung - 25 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.5: ISEK Ortskern Enger 2025+ hier: Beschlussfassung über den Entwurf für den dritten Bauabschnitt "Burgstraße" der Ortskernumgestaltung - Einstimmig
+- TOP 10.6: ISEK Ortskern Enger 2025+ hier: Beschlussfassung über den Entwurf zum Umbau der Tiefgaragenzufahrt inklusive der Fußwegeverbindung zwischen Bahnhofstraße und Königin-Mathilde-Platz (Dritter Bauabschnitt der Ortskernumgestaltung) - Einstimmig
+- TOP 10.7: ISEK Ortskern Enger 2025+ hier: Beschlussfassung über den Vorentwurf für den vierten Bauabschnitt "Barmeierplatz" der Ortskernumgestaltung - Einstimmig
+- TOP 10.8: ISEK Ortskern Enger 2025+ hier: Sachstandbericht Maßnahmentabelle und 1. Folgeantrag zur Städtebauförderung - Einstimmig
+- TOP 11.: Vorlagen des Betriebsausschusses
+- TOP 11.1: Verrechnung des Verlustvortrages aus dem Jahresabschluss 2024 mit der allgemeinen Rücklage - Einstimmig
+- TOP 12.: Schriftliche Anfragen
+- TOP 13.: Mündliche Anfragen
+- TOP 14.: Verschiedenes
+- TOP 15.: Beschlussfassung über die Behandlung der Punkte 16 bis 23 in nichtöffentlicher Sitzung
