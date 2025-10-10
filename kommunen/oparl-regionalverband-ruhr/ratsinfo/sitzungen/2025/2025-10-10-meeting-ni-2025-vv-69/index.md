@@ -1,0 +1,79 @@
+# Sondersitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2025-10-10T11:00:00+02:00
+- Ende: 2025-10-10T12:05:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2025-VV-69
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2025-VV-69
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Formalia
+- TOP 1.1: Vereidigung neuer Mandatsträger*innen
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: 1. Änderung des RP Ruhr - Windenergie
+- TOP 4.1.1: Änderungsantrag der AfD-Fraktion Zielke 1. Änderung des Regionalplans Ruhr - Windenergie, Beschluss über die zweite Beteiligung der Öffentlich-keit und der in ihren Belangen berührten öffentlichen Stellen
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Herstellung des Benehmens mit der Mitgliedskörperschaften für die Nachtragssatzung zum Doppelhaushalt 2025/2026
+- TOP 16.2: Verabschiedung der Nachtragssatzung zur Haushaltssatzung für die Haushaltsjahre 2025/2026
+- TOP 16.3: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2024 - Revierpark Gysenberg Herne GmbH
+- TOP 16.4: Angelegenheiten der Business Metropole Ruhr GmbH - Jahresabschluss zum 31.12.2024
+- TOP 16.5: Angelegenheiten der Ruhr Tourismus GmbH -Jahresabschluss zum 31.12.2024
+- TOP 16.6: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2024
+- TOP 16.7: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2024
+- TOP 16.8: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2024 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 16.9: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2024 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 16.10: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2024
+- TOP 16.11: Dienstanweisung Finanzgeschäfte für die Finanzbuchhaltung beim Regionalverband Ruhr
+- TOP 16.12: Überplanmäßige Mittelbereitstellung für das Projekt "Hoesch-Hafenbahn-Weg" (Gartenstadtradweg) Dortmund (I08300-001 - 1. BA / KTR 0700004)
+- TOP 16.13: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2024
+- TOP 16.14: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Abgabe einer Einstandspflichterklärung für die Errichtung der Wertstoff-Recycling-Anlage Herten Süd (WeRA)
+- TOP 16.15: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2024
+- TOP 16.16: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH (TER) - Bürgschaftsübernahme für den Anteil der Bundesmittel des Eisenbahn-Bundesamtes - EBA (50 % der förderfähigen Kosten) für die Ersatzinvestition der Gleiserneuerung zwischen km 60,85 und 62,10 (Teil A) sowie km 66,07 und 67,03 (Teil B) der Strecke Hattingen - Wengern-Ost
+- TOP 16.17: Anpassung der Verbandsordnung
+- TOP 16.18: Änderung der Geschäftsordnung der Verbandsversammlung und der Ausschüsse des Regionalverbandes Ruhr vom 10.10.2025
+- TOP 16.19: AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - AGR GmbH - Konzernabschluss zum 31.12.2024
+- TOP 16.20: Bekanntgabe der in der Zeit vom 01.04.2025 - 30.06.2025 für das Haushaltsjahr 2025 genehmigten Haushaltsüberschreitungen
+- TOP 16.21: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung für die Jahre 2027-2029
+- TOP 16.22: Projekt- und Finanzberichtswesen zum 30.05.2025
+- TOP 16.23: Entwurf des NKF-Gesamtabschlusses zum 31.12.2024
+- TOP 16.24: Maximilianpark Hamm GmbH - Zuschuss und Finanzierungsvertrag 2026 und 2027
+- TOP 16.25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Anmietung von externen Büroflächen
+- TOP 18.1.2: Antwort auf die Anfrage der Fraktion DIE LINKE: Weiterführung der Ruhr:HUB GmbH ohne Landesförderung
+- TOP 18.1.3: Anfrage der Ruhrgruppe Umleitung bei Radwegen
+- TOP 18.1.4: Anfrage der AfD-Gruppe Seitz Wahlkampagne "Wähl den Wandel"
+- TOP 18.1.4.1: Antwort auf die Anfrage der AfD-Gruppe Seitz: Wahlkampagne "Wähl den Wandel"
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
