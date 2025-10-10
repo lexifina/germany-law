@@ -1,0 +1,6 @@
+# TOP -: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sondersitzung der Verbandsversammlung (2025-10-10)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2025-VV-69%7CAn-rvr-noe%7C2
