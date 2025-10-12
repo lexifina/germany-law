@@ -22,3 +22,4 @@
 - [§ 14 Bestimmungen zum Verwaltungsverfahren](0014.md)
 - [§ 15 Übergangsregelung](0015.md)
 - [§ 16 Rechtsstellung britischer Staatsangehöriger und ihrer Familienangehörigen](0016.md)
+- [§ 17 Datenübermittlung zur Durchführung der Verordnung (EU) 2017/2226 und der Verordnung (EU) 2018/1240](0017.md)
