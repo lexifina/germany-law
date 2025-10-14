@@ -1,0 +1,99 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8642279
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8642279
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Projektförderung „Westend Kultur Grube“
+- TOP 4.2.: Zeltdorf auf der Grünfläche gegenüber Philipp-Loewenfeld-Str. 50 bis 75
+- TOP 4.3.: Tempo-30-Zone in der Landsberger Straße
+- TOP 4.4.: Verkehrssituation Theresienhöhe/Schwanthalerstraße
+- TOP 4.5.: Parksituation im Stadtbezirk
+- TOP 4.6.: Lärmbelästigung zur Wiesn Zeit
+- TOP 4.7.: Absperrungen Oktoberfest/Schwantalerhöhe
+- TOP 4.8.: Verkehrssituationen an der Ecke Landsbergerstr./Schrenkstr. bzw. am dortigen Fahrradweg
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung – Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte Sitzungsvorlage Nr. 20-26 / V 16131
+- TOP 6.2.2.: Bauvorhaben Barthstraße 2
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Abrissanzeige Westendstraße 94
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: (U) Appell für Solidarität und Menschlichkeit – Gegen die Räumung der Unterführung der Theresienwiese
+- TOP 7.3.2.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.3.3.: Antwortschreiben, Leerstand Gebäude Westendstrasse Ecke Theresienhöhe
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Gedenkveranstaltung Namenslesung Georg-Freundorfer-Platz am 09.11.2025
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung im Bavariaring / Hans-Fischer-Straße am 19.09.2025
+- TOP 8.3.2.: Versammlung in der Heimeranstraße am 01.10.2025
+- TOP 8.3.3.: Graffiti-Workshop für Jugendliche am Max-Hirschberg-Weg / Sinti-Roma-Platz am 10.10.2025
+- TOP 8.3.4.: Einladung zum Nachbarschaftstag der AWM in der Gollierstraße am 11.10.2025
+- TOP 8.3.5.: Einladung zur Rundfahrt zu ausgewählten OKJA-Einrichtungen am 14.11.2025
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Durchsetzung des Verbots der Durchfahrt an der Bushaltestelle Gollierplatz
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Fahrradabstellanlage an der Schießstättstraße 30
+- TOP 9.2.2.: Baumfällung Theresienhöhe 15
+- TOP 9.2.3.: Konzept für geteilte Mobilität im Stadtbezirk 08
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Sichtbehinderung Übergang Anglerstraße/Ganghoferstraße
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Wave of hope e.V. Hoffnung gestalten: Perspektiven für Geflüchtete durch Kunst vom 01.10. -15.12.2026 8.250,00€; Az. 0262.0-8-0460
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Mehr Hitzeschutz und für den Quartiersplatz Theresienhöhe („Bahndeckel“) und Steigerung der Aufenthaltsqualität
+- TOP 11.2.: Eigenmittel für BA-Jahresempfang am 13. November 2025
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 6.2.3.: Bauvorhaben Ganghoferstraße 47 - MK2
+- TOP 6.3.2.: Meldelisten Bauvorhaben
+- TOP 9.3.2.: Meldeliste Baumaßnahmen SWM
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 -14.10.2027 400,00€; Az. 0262.0-8-0462
+- TOP 6.3.3.: Projektaufruf 2026 Förderprogramm Bürgerinnen und Bürger gestalten ihre Stadt
+- TOP 7.2.1.: Einladung und Themenabfrage für das Treffen mit dem Gesundheitsreferat am 27.11.2025
+- TOP 9.3.2.1: Meldeliste Baumaßnahmen SWM
+- TOP 9.3.3.: Baumpflanzungen in der Parkstraße zwischen Kazmair- und Tulbeckstraße
+- TOP 9.3.4.: Baumpflanzungen am Kiliansplatz
+- TOP 9.3.1.1: Sichtbehinderung am Übergang Anglerstraße / Ganghoferstraße
+- TOP 9.3.5.: Einladung des KJR zur Ergebnispräsentation der Studie "Junge Mobilität in München" am 16.10.2025
+- TOP 4.9.: Tempo 30 in der Ganghoferstraße und der Heimeranstraße auch nach 20 Uhr
+- TOP 9.2.4.: Oktoberfest 2025; Schluss- und Erfahrungsbericht
+- TOP 11.3.: Ja zu Olympischen Spielen in München!
+- TOP 8.3.6.: Versammlungen Schießstättstraße am 10.10.2025, 25.10.2025 und 31.10.2025
+- TOP 8.3.7.: Versammlung Heimeranstraße 31 am 16.10.2025
+- TOP 12.3.1.: Einladung zum BLSV-Sportgespräch am 16.10.2025
+- TOP 4.10.: Wiesnzeit - rechtsfreier Straßenraum im Westend; Gefährdungen durch abendlichen/nächtlichen Abholverkehr Freitag & Samstag
+- TOP 10.3.1.: Stadtbezirksbudget, Stand zum 3. Quartal 2025
+- TOP 12.2.1.: Kommunalwahl 2026 - Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 8
