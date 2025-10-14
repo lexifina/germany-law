@@ -1,0 +1,122 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8738409
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8738409
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Sofortige Einbindung des BA in die weitere Entwicklung der Zwischennutzung des Gesundheitshauses
+- TOP 6.2.: Schnelle Umsetzung des Radentscheids in der südlichen Arcisstraße/Katharina-von- Bora-Straße
+- TOP 6.3.: Stellplatzverordnung – Reduzierung von Stellplätzen und Verlagerung unter das Gebäude
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Umgestaltung/Pläne Arnulfpark
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Prüfung und Auflegung eines freiwilligen Wohnungsbau-Fonds mit Beteiligung großer Unternehmen und staatlicher Institutionen in München
+- TOP 1.2.2.: Augustenstraße 105 – gibt es hier im Erhaltungssatzungsgebiet einen Eigentümerwechsel seit Ernennung zum Erhaltungssatzungsgebiet
+- TOP 1.2.3.: Heßstraße 49 – steht ein Eigentümerwechsel an? – Vorkaufsrecht im Erhaltungssatzungsgebiet
+- TOP 1.2.4.: Heßstraße 49 – fand der letzte Eigentümerwechsel schon im Erhaltungssatzungsgebiet statt ?
+- TOP 1.2.5.: Übertragung des Vorkaufsrechts auf eine Mietergemeinschaft
+- TOP 1.2.6.: Mitteilung des Vorkaufsrechts für die Landeshauptstadt München im Erhaltungssatzungsgebiet – Information zum Kauf als Mietergemeinschaft proaktiv fördern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten KW37, KW38, KW39, KW40
+- TOP 2.1.2.: WEB-Listen 01. - 15.09.2025, 16.09.-30.09.2025
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Königinstraße 24
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 5.2.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 5.3.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 5.4.: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Verkehrssicherheit Lothstrasse
+- TOP 1.1.2.: Bitte um rechts- und fachaufsichtliche Prüfung: Geplanter Umbau und Nutzungsänderung eines Ladens zu einer Gaststätte, Amalienstr. 47
+- TOP 1.1.3.: Grünanlage Sandstrasse/Dachauer Strasse
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Evaluierung der Nutzung der Parkplätze für Carsharing
+- TOP 1.2.2.: Wiedereinführung des Bierverkaufsverbots ab 22 Uhr
+- TOP 1.2.3.: Markierung durch weiße Punkte an Freischankflächen anbringen und kontrollieren
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Arcis-/ Gabelsbergerstr.
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Anhörungsverfahren Sondernutzung auf öffentlichen Verkehrsgrund gem. Art. 18 BayStrWG Luisenstr. 67c_Antrag für die Aufstellung von Sitzgelegenheiten
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: erneute BA-Vorlage; Freischankfläche Dachauer Str. 25
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.3.: Verkehrsrechtliche Anordnungen
+- TOP 3.4.: Baumaßnahmen der SWM
+- TOP 3.5.: Umgesetzte Fahrrad- und Lastenradstellplätze im BAG Mitte
+- TOP 3.6.: Grabenlose Kanalsanierung vom 16.09.2025 bis 18.09.2025; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.7.: Bez. 3, 11, 15 | SoNu Erlaubnisse zK, hier "Radlsicherheitschecks 09-11.2025"
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Aktuelle Informationen - REGSAM-Schwerpunktarbeit 2025 für die Bezirksausschüsse
+- TOP 4.2.: Antrag vom 13.06.2025 für die Maßnahme "Jugendleiterschulung vom 16.-20.06.2025"
+- TOP 4.3.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.4.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand: 30.06.2025
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Ordo Rerum" Ausstellung "Ordo Rerum" vom 01.11.2025 - 01.01.2026 3.135,00 Euro, Az.: 0262.0-3-0623
+- TOP 2.2.: (E) Stadtbezirksbudget Pfarrkirchenstiftung St. Benno München Konzert am 07.12.2025 2.600,00 Euro, Az.: 0262.0-3-0617
+- TOP 2.3.: (E) Stadtbezirksbudget MIR e.V., Verein für kulturelle Beziehungen in München Gebt euch nie geschlagen - Niemals! vom 01.11. - 31.12.2025 1.420,00 Euro, Az.: 0262.0-3-0618
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.1.2.: Arnulfpark Bezirksausschüsse Maxvorstadt und Neuhausen-Nymphenburg (vertagt aus 09/25)
+- TOP 1.1.: Restmittel Budget BA 3
+- TOP 1.2.: Termine BA Sitzungen 2026
+- TOP 2.1.3.: Stellungnahmeersuchen für: 1.91 Werbeanlage - Stadtbez.: 3 - Schleißheimer Str. 14 Besteht Einverständnis mit der unbeleuchteten Pllakattafel im erhöhten EG Bereich direkt an der Hauswand am Beginn Rottmannstr., 6,35 m entfernt zur Kreuzung der Schleißheimer Str.?
+- TOP 2.1.2.: (Bez. 3) Markierung einer Sperrfläche in der Dooring Zone, Von-der-Tann-Str. 4-5
+- TOP 2.1.3.: (Bez. 3) Entwurf verkehrsrechtliche Anordnung Fahrradstraße in der Karlstr., zwischen Barer- und Ottostr., sowie der Ottostr., zwischen Karlstr. und Tiefgarage
+- TOP 1.1.3.: Nachfrage Baumpflanzungen und Maßnahmen zur Begrünung in der Gaiglstr, Katharina v. B. & Blütenstraße
+- TOP 2.1.4.: Beteiligungsverfahren – TRAFF-X Antrag -Lothstraße Einwand (zu C 2.1.13 aus 09/25)
+- TOP 1.3.: Kommunalwahl 2026 - Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 3- Anhörung
+- TOP 1.2.7.: Eilantrag des Unterausschuss KUP zur Steinheilstraße 1
+- TOP 2.4.1.: Bez. 3, Wittelsbacherplatz | Anhörungsverfahren Marktfestsetzung und VA auf öff. Verkehrs grund: "Mittelalterlicher Weihnachtsmarkt" vom 24.11. - 23.12.2025 (Aufbau ab 10.11.2025) | Anhörungsfrist: 31.10.2025
