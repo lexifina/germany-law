@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-10-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8635123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8635123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 16.09.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (A) Masterplanung Parkmeile Südpark-Warnberger Riedel
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kleingartenverein SW 58 Bau eines Wildbienenbiotops mit begehbarer Blumenwiese von September 2025 -Juni 2026 4.339,29€; Az. 0262.0-19-0597
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Altkleidercontainer des AWM
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Tram-Westtangente: Antrag der SWM auf vorläufige Anordnung bzgl. Fernwärmenetz
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung in der Aidenbachstraße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung in der Filchnerstraße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Errichtung einer Lade- und Lieferzone am Pullacher Platz
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Errichtung einer PKW-Parken-Parkzone östlich vom Waldfriedhofparkplatz
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Errichtung einer PKW-Parken-Zone südlich der Rotenhanstraße
+- TOP 5.8.: (Antrag) Geteilte Abstellflächen
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Sachstand Sanierung des Hochhauses Buchloer Straße 1
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Kirchweg 5
+- TOP 6.2.2: -abgesetzt-
+- TOP 6.2.3: Hofmannstraße 61 (VB)
+- TOP 6.2.4: Steinerstraßeaße15 (VB)
+- TOP 6.2.5: -abgesetzt-
+- TOP 6.2.6: Uhdestraße 39
+- TOP 6.2.7: Baierbrunner Straße 32 (VB)
+- TOP 6.2.8: Schaffhauser Straße 30
+- TOP 6.3.: (A) Bebauungsplan Nr.2190 Engadiner Straße
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: "VerWunderLand - OpenAir-Theater" Silvrettaweg am 19.10.2025 und Baierbrunnerstraße am 23.10.2025
+- TOP 9: Verschiedenes
+- TOP 3.3.: (E) Stadtbezirksbudget Maibaumverein Thalkirchen e.V. Christbaum Thalkirchen Schäftlarnstraße 179 vom 28.11.2025 -15.02.2026 3.250,00€; Az. 0262.0-19-0605
+- TOP 3.4.: (E) Stadtbezirksbudget Förderverein Grundschule Forstenried e.V. Digitaltag 2025: Mehr Medienkompetenz am 29.10.2025 1.142,40€; Az. 0262.0-19-0606
+- TOP 5.9.: (E) U-Bahn-Station Thalkirchen - Errichtung einer überdachten Fahrradabstellanlage
+- TOP 7.2.: (A) Beschlussvorlage: Verabschiedung des Rahmenkonzeptes „Kommunale Kinder- und Jugendpartizipation in München“
+- TOP 5.1.1: Weiterer Behindertenparkplatz Parkplatz Herterichstraße 139
+- TOP 3.1.1: Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 8.1.1: Erhalt der Gaststätte „Da Antonio“ in der Basler Straße
+- TOP 2.4.: Namenlesung zum Gedenken an den 9. November 1938
+- TOP 6.4.: (A) Bebauungsplan Nr. 1 „Großhesselohe“ Gemeinde Pullach
+- TOP 6.1.2: Antwortschreiben - Ankauf Bleibtreustraße 18
+- TOP 2.5.: Vorstellung des aktuellen Planungsstands Tram-Westtangente
