@@ -686,6 +686,7 @@ Defosfamid
 Degarelix
 Delamanid
 Delapril
+Delgocitinib
 Delmadinon und seine Ester
 Dembrexin
 - zur parenteralen Anwendung bei Tieren -
@@ -873,6 +874,7 @@ Eisen(III)-Maltol
 Eisen-Verbindungen
 - zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
 Elacestrant und seine Ester
+Elafibranor
 Elbasvir
 Eletriptan
 Elexacaftor
@@ -929,6 +931,7 @@ Eprosartan
 Eptifibatid
 Eptotermin alfa
 Eravacyclin und seine Ester
+Erdafitinib
 Erdostein
 Ergocalciferol,
 - ausgenommen Zubereitungen
@@ -1054,6 +1057,7 @@ Fleroxacin
 Flomoxef
 Flopropion
 Florfenicol
+Flortaucipir (18F)
 Fluanison
 Flubendazol
 - zur Anwendung bei Tieren -
@@ -1147,6 +1151,7 @@ Ganciclovir
 Ganirelix
 Gatifloxacin
 Gaxilose
+Gefapixant
 Gefitinib
 Gelsemii rhizoma und seine Zubereitungen
 - ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind -
@@ -1426,6 +1431,7 @@ Lasmiditan
 Lasofoxifen und seine Ester
 Latamoxef
 Latanoprost
+Lazertinib
 Lecirelin
 - zur Anwendung bei Tieren -
 Ledipasvir
@@ -1509,6 +1515,7 @@ Luprostiol
 - zur Anwendung bei Tieren -
 Lurasidon
 Luspatercept
+(¹⁷⁷Lu)Lutetium(III)-chlorid
 (¹⁷⁷Lu)Lutetiumvipivotidtetraxetan und seine Ester
 Lutropin
 Lutropin alfa
@@ -1661,6 +1668,7 @@ Minoxidil
 Mirabegron und seine Derivate
 Mirtazapin
 Misoprostol
+Mitapivat
 Mitomycin
 Mitotan
 Mitoxantron
@@ -1711,6 +1719,7 @@ Nalmefen und seine Ester
 Nalorphin
 Naloxegol
 Naloxon
+– ausgenommen Arzneimittel zur nasalen Anwendung als Notfalltherapie bei bekannter oder vermuteter Opioid-Überdosierung, es sei denn, es handelt sich um von der Europäischen Kommission als verschreibungspflichtig zugelassene Arzneimittel –
 Naltrexon
 Naproxen
 - ausgenommen in festen Zubereitungen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 250 mg je abgeteilter Form und in einer Tagesdosis bis zu 750 mg und in einer Packungsgröße bis zu 7 500 mg zur Anwendung bei Erwachsenen und Kindern ab 12 Jahren bei leichten bis mäßig starken Schmerzen und Fieber -
@@ -2054,6 +2063,8 @@ Podophyllin
 Podophyllinsäure und ihre Derivate
 Podophyllotoxin
 Podophyllum-emodi- und Podophyllum-peltatum-Glykoside und ihre Derivate
+Polihexanid
+– zur Anwendung am Auge zur Behandlung der Akanthamöben-Keratitis –
 Polyestradiol
 Polymyxin B und M
 Poly(O-2-hydroxyethyl)stärke
@@ -2085,6 +2096,7 @@ Prazosin
 Prednicarbat
 Prednimustin
 Prednisolon und seine Ester
+– ausgenommen in Zubereitungen mit Salicylsäure zur Anwendung auf der Kopfhaut in einer Konzentration von 0,2 % Prednisolon in Kombination mit 0,4 % Salicylsäure und in Packungsgrößen bis zu 50 ml zur Behandlung von gering ausgeprägten entzündlichen Erkrankungen der Kopfhaut bei Erwachsenen und einer maximalen Anwendungsdauer von 3 Wochen –
 Prednison und seine Ester
 Prednyliden und seine Ester
 Pregabalin
@@ -2189,6 +2201,7 @@ sofern in der Fachinformation und in der Packungsbeilage
 a) unter den Kontraindikationen angegeben wird, dass Racecadotril nicht angewendet werden darf bei Durchfällen, die mit Fieber, blutigem oder schleimigem Stuhl einhergehen, da diese auf das Vorliegen invasiver Bakterien oder anderer schwerer Erkrankungen hinweisen, oder die während oder nach der Einnahme von Antibiotika auftreten (pseudomembranöse Colitis), und
 b) unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlicher Verordnung angewendet werden sollte, wenn es sich bei dem Durchfall um einen akuten Schub einer Colitis ulcerosa handelt oder die Patienten unter einer Nieren- oder Leberinsuffizienz leiden –
 Racefemin
+rADAMTS13
 Radionuklide enthaltende Stoffe und Zubereitungen zu diagnostischen oder therapeutischen Zwecken
 Raloxifen
 Raltegravir
@@ -2210,6 +2223,7 @@ Relebactam
 Relugolix
 Remdesivir und seine Ester
 Repaglinid
+Repotrectinib
 Reproterol
 Reserpin
 Resocortol und seine Ester
@@ -2840,6 +2854,8 @@ Permethrin
 und
 Pyriproxifen
 - zur Anwendung beim Hund -
+Zubereitungen aus
+rdESAT-6 und rCFP-10
 Zubereitung aus
 Sarolaner
 und
