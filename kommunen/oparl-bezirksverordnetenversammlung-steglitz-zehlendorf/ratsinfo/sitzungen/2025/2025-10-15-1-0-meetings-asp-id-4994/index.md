@@ -1,0 +1,64 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-10-15T17:00:00+02:00
+- Ende: 2025-10-15T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4994
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4994
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Baugebot der Adler Group am Steglitzer Kreisel - beantwortet
+- TOP 3.2: Chaos und Unzufriedenheit bei der Schulplatzvergabe: Was ist geschehen? - beantwortet
+- TOP 3.3: Wann kommt BärGPT nach Steglitz-Zehlendorf? - beantwortet
+- TOP 3.4: Warum liegt Aufklärungsmaterial der Polizei in Wartezonen des Bezirksamtes nicht aus? - beantwortet
+- TOP 3.5: Wann kommt der Rathausneubau Zehlendorf? - beantwortet
+- TOP 3.6: Wann kommt die Kältehilfe? - beantwortet
+- TOP 3.7: Sperrmüll und Dreckecken im Bezirk - schriftlich beantwortet
+- TOP 3.8: Stationäre und mobile Geschwindigkeitsmessungen im Bezirk - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für Dr. Monika Zimmermann - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Heinrich und Maria Laehr adäquat würdigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Capitol Dahlem sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Zu Ehren von Else Niewiera: Info-Tafel auf dem Sven-Hedin-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Dauerbaustelle Hindenburgdamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Barrierefreiheit S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Unser vielfältiges Steglitz-Zehlendorf stärken – Antidiskriminierungs-, Queer- und Diversitybeauftragte*n einrichten - in der BVV abgelehnt
+- TOP 4.10: Barrierefreiheit zur Krumme Lanke herstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Vertikaler Gartenbau längs der ausgebauten Anhalter-Bahn in Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Nächster Halt: U-Bahnhof Lankwitz Kirche – U9-Verlängerung vorantreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Verkehrsspiegel in der Sundgauer Straße - überwiesen
+- TOP 5.2: Begrünung durch Pflanzung von Brombeerbüschen zum Schutz der Grünanlage an der Wannseebrücke und der Fläche unterhalb der Wannseebrücke - überwiesen
+- TOP 5.3: Pkw-Stellplätze an der Potsdamer Chaussee in Höhe S-Bahnhof Wannsee - überwiesen
+- TOP 5.4: Veteranentag in Steglitz-Zehlendorf begehen - überwiesen
+- TOP 5.5: Halteverbotsschild Albrechtstraße 92 - überwiesen
+- TOP 5.6: Mobilitätsservice der BVG erhalten - überwiesen
+- TOP 5.7: Joseph Baby und Gustav von Lutzki in die Straßenbenennungsliste des Bezirkes aufnehmen - überwiesen
+- TOP 5.8: "Park an der Feuerbachstraße" unterstützen - überwiesen
+- TOP 5.9: Errichtung eines Parkhauses für Pendler am S-Bahnhof Wannsee - überwiesen
+- TOP 5.10: Neuorganisation des Musikschulunterrichts auch durch Honorarkräfte - überwiesen
+- TOP 5.11: Pendlerplätze sichern am S-Bahnhof Wannsee - überwiesen
+- TOP 5.12: City-Toilette für den Harry-Breslau-Park - überwiesen
+- TOP 5.13: Zukünftiges Gedenken im Bezirk an den Terroranschlag vom 7. Oktober 2023 - überwiesen
+- TOP 5.14: Platz in Nikolassee nach Helene Stöcker (1869–1943) benennen - überwiesen
+- TOP 5.15: Umzäunung OSZ Florastraße - überwiesen
+- TOP 6: Wahlen - erledigt
+- TOP 6.1: Wahlvorschläge - erledigt
+- TOP 6.1.1: Wahl einer Bezirksstadträtin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Ergebnisse der Arbeit von Gangway in unserem Bezirk - vertagt
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Abreißzettel „Hilfetelefon Gewalt gegen Frauen" in Toiletten in bezirklichen Einrichtungen anbringen - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Kraftfahrstraße auf der Tiburtiusbrücke umwandeln und wichtige Achse für den Fuß- und Radverkehr zwischen Schildhornstraße und Filandastraße ermöglichen - in der BVV abgelehnt
+- TOP 9.2: Steglitz-Zehlendorf darf nicht abgehängt werden – öffentliches Leihradsystem erhalten! - in der BVV abgelehnt
