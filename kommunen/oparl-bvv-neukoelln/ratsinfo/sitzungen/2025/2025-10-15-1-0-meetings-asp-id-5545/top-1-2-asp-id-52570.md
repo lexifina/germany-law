@@ -1,0 +1,8 @@
+# TOP 1.2: Konsequenzen aus dem BVV-Beschluss zum Einwohnerantrag „Zukunftsperspektiven für die Fritz-Karsen-Schule schaffen“
+
+- Sitzung: 45. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2025-10-15)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=52570
+- Ergebnis: beantwortet
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=52570
