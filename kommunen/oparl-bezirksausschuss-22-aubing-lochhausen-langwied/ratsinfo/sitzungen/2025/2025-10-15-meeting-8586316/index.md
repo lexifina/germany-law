@@ -1,0 +1,124 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2025-10-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8586316
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8586316
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Gefährliche Situation Brunhamstraße (vertagt aus 09/25)
+- TOP 2.1.2.: Müll und Unrat am S-Bahnhof Aubing, Container entfernt
+- TOP 2.1.3.: Zustand Brunnenplatz
+- TOP 2.1.4.: Bebauung Schussenrieder Str./ Schubinweg
+- TOP 2.1.5.: Einrichtung Schulbus zur Grundschule am Schubinweg
+- TOP 2.1.6.: Zustand der Negrellistraße
+- TOP 2.1.7.: Parksituation Schrimpfstraße
+- TOP 2.1.8.: Beschwerde über unvollständige bzw. nicht erfolgter Mülltonnenleerung
+- TOP 2.1.9.: Bienenheimstraße für Fahrradverkehr freigeben
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 4.: Anträge
+- TOP 4.1.: Erweiterung der Haltestellen der Buslinie 159 (Götz-Schubach, Stockmann, Spannagl, Kriesel)
+- TOP 4.2.: Errichtung eines Fußgängerüberweges an der Mainaustraße (Bergmann, Kriesel, Spannagl)
+- TOP 4.3.: Dauerhafte Beflaggung mit Deutschlandflagge (Arning)
+- TOP 4.4.: Vorgezogene Sicherungsmaßnahmen im Bereich der Limesunterführung (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.5.: Schutz im Biotop Gleislager (Bündnis 90/Die Grünen)
+- TOP 4.6.: Zebrastreifen - Unübersichtlichkeit durch parkende Autos (Bündnis 90/Die Grünen)
+- TOP 4.7.: Münchens Olympia Bewerbung (Jung)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: Entscheidung gem. Vollmacht OB, Projektname: Fabrikstraße / Altostraße - Anbindung Radverkehr (vertagt aus 09/25)
+- TOP 5.2.: (E) Sammelbeschluss offene Bezirksausschussangelegenheiten – Aubing-Lochhausen-Langwied
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht OB; Aufstellung eines Zeitungsentnahmegeräts auf öffentlichem Grund, Vorderseite Bhf, Nähe Lochhausener Straße 215
+- TOP 5.4.: (E) Stadtbezirksbudget Feierwerk e.V. Gestaltungs- und Begegnungsräume für Kinder und Jugendliche in Freiham im Winter vom 01.12.2025 - 28.02.2026 3.746,00 Euro, Az.: 0262.0-22-0302
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Übersicht Zuschussanträge des Stadtbezirksbudgets vom 3. Quartal, Schr. Direktorium vom 29.09.25
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Zustände in der Unterkunft für Geflüchtete in der Centa-Hafenbrädl-Straße, Schr. Sozialreferat vom 24.09.25
+- TOP 6.2.2.2.: Kita-Notlage in Lochhausen, neuer Höhepunkt durch Wasserschaden, Schr. OB vom 08.05.25
+- TOP 6.2.2.3.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Schr. Sozialreferat vom 25.09.25
+- TOP 6.2.2.4.: Stadtbezirksarbeit - Soziale Arbeit in Freiham, Schr. Sozialreferat vom 22.09.25
+- TOP 6.2.2.5.: Dienststellenverständigung, Haus für Kinder, Wiesentfelser Str. 84, Schr. Ref. f. Bildung u. Sport vom 22.09.25
+- TOP 6.2.2.6.: REGSAM-Schwerpunktarbeit 2025, Schr. Sozialreferat vom 25.09.25
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Margot-Hielscher-Str. 7, Ostseite, Errichtung einer Kurzparkzone nahe der Kindertagesstätte, Anhörung Mobilitätsreferat vom 29.09.25 (N) - Aubinger Allee 88 und 110, Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten, Anhörung Mobilitätsreferat vom 01.10.25
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Hohe Gefährdung für Fußgänger in der Limesunterführung, Schr. Mobilitätsreferat vom 24.09.25
+- TOP 6.3.2.2.: Verkehrsschild "Spielende Kinder" Maganusweg, Schr. Mobilitätsreferat vom 25.09.25
+- TOP 6.3.2.3.: Fehlende Parkplätze Gelände Georg-Böhmer-Straße 1, Schr. Planungsreferat vom 10.09.25
+- TOP 6.3.2.4.: Verkehrsrechtliche Anordnung, hier: - Ilse-Fehling-Straße, Ostseite, Errichtung einer Kurzparkzone neben der Kita Luna, Aubing-Ost-Str. 66, Schr. Mobilitätsreferat vom 18.09.25 - Aubinger Allee, nördlich Annemarie-Renger-Straße, Anordnung eines eingeschränkten Haltverbotes (Z 286 StVO) in der Parkbucht, Schr. Mobilitätsreferat vom 18.09.25 - Annemarie-Renger-Straße, Ellis-Kaut-Straße, Zeichen 131 StVO im Zulauf auf die Kreuzung Aubinger Allee, Schr. Mobilitätsreferat vom 18.09.25 (N) - Allerheiligen 2025, Verkehrsregelungen, Schr. Mobilitätsreferat vom 07.10.25
+- TOP 6.3.2.5.: Sulzemooser Straße, Sanierung Fahrbahnbelag vom 09.10.-24.10.25, Schr. Baureferat vom 19.09.25
+- TOP 6.3.2.6.: Digitale Fahrzeitenanzeige für Bus 162 in Lochhausen, Schr. SWM vom 26.09.25
+- TOP 6.3.2.7.: Arbeitsstelle im Straßenraum, hier: - Ostermoosstr. 4c-4e vom 20.20.-28.11.25, Schr. Mobilitätsreferat vom 18.09.25 - Sulzemooser Str. 2-4, Krautgartenweg 7, Asphaltierung Fahrbahnbelag zwischen Am Langwieder Bach und Industriestr. vom 02.10.-24.10.25, Schr. Mobilitätsreferat vom 29.09.25
+- TOP 6.3.2.8.: (N) Parkraummanagement Freiham - Information zur Umsetzung erster Regelungen + Verzögerung der Umsetzung, Schr. Mobilitätsreferat vom 23.09.25 und 09.10.25
+- TOP 6.3.2.9.: Spielstraße für die Marianne-Hoppe-Straße, Schr. Mobilitätsreferat vom 29.09.25
+- TOP 6.3.2.10.: Geänderte Straßenmarkierung Bodenseestraße, Schr. Mobilitätsreferat vom 01.10.25
+- TOP 6.3.2.11.: Situation Spielstraße in der Kronwinkler Straße, Schr. Baureferat vom 01.10.25
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Kohlsteiner Str. 13, Neubau von zwei Doppelhaushälften (Haus 1 und Haus 2) mit Garage, Anhörung Planungsreferat vom 26.09.25
+- TOP 6.4.1.2.: Allgemeinverfügung, Tauchen mit Atemgerät im Langwieder See, Anhörung Ref. f. Klima- u. Umweltschutz vom 22.09.25
+- TOP 6.4.1.3.: Sandbergstr. 8, Unterbringung von Flüchtlingen - Errichtung einer Flüchtlings-Unterkunft für max. 69 Personen - Vorbescheid, Anhörung Planungsreferat vom 30.09.25
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Stromanschluss am Parkplatz Ziegeleistraße, Schr. Baureferat vom 26.08.25 (vertagt aus 09/25)
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 09.09.-23.09.25
+- TOP 6.4.2.3.: Bauvorhaben im 22. Stadtbezirk: 08.09.-14.09.25, 15.09.-21.09.25, 22.09.-28.09.25
+- TOP 6.4.2.4.: Lösungen erwünscht, Recyclingcontainer Ehrenbürgstr.1, Schr. AWM vom 17.09.25
+- TOP 6.4.2.5.: SWM Fernwärmeprojekt Bodenseestraße, 42.KW-48.KW, Schr. SWM vom 18.09.25
+- TOP 6.4.2.6.: Mitteilung über Grundstückgeschäfte, hier: - Kauf Waidachwiesen, Flst. 93/83, Schr. Kommunalreferat vom 16.09.25 - Kauf Waidachwiesen, Flst. 93/81, Schr. Kommunalreferat vom 16.09.25 - Kauf Osterangerstr., Flst. 93/86, Schr. Kommunalreferat vom 16.09.25 - Kauf Waidach- Osterangerstr. Flst. 93/68, Schr. Kommunalreferat vom 16.09.25 - Kauf Osterangerstr., Flst. 93/64, Schr. Kommunalreferat vom 16.09.25 (N) - Kauf Osterangerstr., Flst. 93/76, Schr. Kommunalreferat vom 30.09.25
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Anzeige einer Versammlung unter freiem Himmel, hier: 40 Tage für das Leben-Gebetsaktion vom 24.09.-02.11.25, Hans-Stützle-Straße, Schr. KVR vom 23.09.25
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 19.11.25 um 19.00 Uhr im Campus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41; Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 06.10.25 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Montag, 06.10.25 um 18.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 08.10.25, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 09.10.25, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.10.: (N) - Fußgängerüberweg Wiesentfelser Straße
+- TOP 5.5.: (N) - Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB, hier: Christbaumverkauf Aubinger Allee
+- TOP 5.6.: (N) - Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB, hier: Christbaumverkauf Wiesentfelser Straße
+- TOP 5.7.: (N) Stadtbezirksbudget Initiative "Singer-Songwriter" Singer-Songwriter-Projekt für einen Kinderhort in Neuaubing vom 07.11. - 31.12.2025 2.448,00 Euro, Az.: 0262.0-22-0304
+- TOP 6.3.2.12.: (N) - Clarita-Bernhard-Straße, Ungenehmigte Autoparkplätze, Schr. Planungsreferat vom 01.10.25
+- TOP 6.4.2.7.: (N) - Projektaufruf zum Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln“, Schr. Planungsreferat vom 02.10.25
+- TOP 6.4.2.8.: (N) - Recyclingcontainer-Leerungen in der Ehrenbürgstraße, Schr. Kommunalreferat vom 18.09.25
+- TOP 6.4.2.9.: (N)- Erweiterung der Mobilfunksendeanlage der Telefonica an der Bahnstrecke Nähe Stockacher Straße 6/ S-Bahnhof Westkreuz, Schr. Ref. f. Klima- u. Umweltschutz vom 07.10.25
+- TOP 10.1.: BA-Sitzungstermine im Jahr 2026
+- TOP 2.1.11.: (N) -Überfüllter Kleidercontainer Wiesentfelser Straße
+- TOP 2.1.12.: (N) - Einfahrt Böhmerweiher
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Richard-Seewald-Bogen 3 - Reichenbergstr. 5 - Federseestr. 50 - Grafrather Str. 27 (N) - Aschaffenburger Str. 21
+- TOP 6.3.2.13.: (N) - Bodenseestraße, Fahrbahnsanierung im Abschnitt zwischen Limes-/ Brunhamstraße und Ehrenbürgstraße während der Vollsperrung vom 10.10.-13.10.25, Schr. Ref. f. Klima- u. Umweltschutz vom 08.10.25
+- TOP 6.3.2.14.: (N) - Anpassung der Priorisierung des barrierefreien Ausbaus Busendhaltestelle Linie 830 Lochhausen Bahnhof, Schr. Mobilitätsreferat vom 08.10.25
+- TOP 6.3.2.15.: (N) - Wasseransammlung bei Starkregen in der Kurve Wiesentfelser Straße, Schr. Baureferat vom 08.10.25
+- TOP 6.3.2.16.: (N) - Anwohnerparkausweise Colmdorfstraße, Schr. Mobilitätsreferat vom 10.10.25
+- TOP 6.3.2.17.: (N) - Abgekoppelter Wohnwagen in der Hohenrechbergstraße, Schr. PI 45 vom 07.10.25
+- TOP 6.4.2.10.: (N) - Kreative Zwischennutzung im U-Bahnhof Freiham, Schr. Baureferat vom 29.09.25
+- TOP 6.4.2.11.: (N) - Lärm durch Spielplatz in der Grete-Weil-Straße, Schr. Baureferat vom 06.10.25
+- TOP 6.4.2.12.: (N) - Müllentsorgung leicht gemacht, Schr. AWM vom 08.10.25
+- TOP 7.1.: (N) - Kommunalwahl am 08.03.26: Einteilung der Stimmbezirke und Wahlräume, Anhörung KVR vom 09.10.25
+- TOP 8.2.: (N) - Zweckentfremdung von Wohnraum, hier: - Heuglinstr., Schr. Sozialreferat vom 01.10.25
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 17.09.25 - Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP 9.2.: - Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 9.3.: - Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 2.1.13.: (N) - Kaputte Bank Moosschwaiger Weiher
+- TOP 2.1.14.: (N) - Asphaltierung in der Bodenseestraße
+- TOP 2.1.15.: (N) - Abriss Wohnhaus Bodenseestraße
