@@ -1,0 +1,86 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-10-15T17:00:00+02:00
+- Ende: 2025-10-15T22:30:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5545
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5545
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: WCD Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.2: Konsequenzen aus dem BVV-Beschluss zum Einwohnerantrag „Zukunftsperspektiven für die Fritz-Karsen-Schule schaffen“ - beantwortet
+- TOP 2: Aktuelle halbe Stunde - "Staatlich geförderter Antisemitismus?" - erledigt
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Kostenfreies Schulessen für alle Schüler*innen in Neukölln - in der BVV abgelehnt
+- TOP 5.2: Saubere und funktionsfähige Toiletten für alle Schulen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Solidarität mit der Programmschänke Bajszel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Verkehr und Tiefbau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9: Vorlagen zur Wahl - erledigt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Vergabe von Häusern in Erbbaupachtsiedlungen - beantwortet
+- TOP 10.2: Wie gesund ist die App Gesundes Neukölln? - beantwortet
+- TOP 10.3: Perspektiven für die Hasenheide - wie weiter mit der Grünpflege nach Abschluss des geförderten Parkumbaus? - beantwortet
+- TOP 10.4: Mietwucher mit hohen Bußgeldern bekämpfen wie im Bezirk Friedrichshain-Kreuzberg? - beantwortet
+- TOP 10.5: Gartenkulturweg in Neukölln - schriftlich beantwortet
+- TOP 10.6: Parkplatz Campus Efeuweg - beantwortet
+- TOP 10.7: Parkdruck rund um das Klinikum Neukölln - beantwortet
+- TOP 10.8: Neue Rechner für mobiles Arbeiten - wie nachhaltig werden die Altgeräte entsorgt? - schriftlich beantwortet
+- TOP 10.9: Besuch eines Repräsentanten der Partei Likud, die den Völkermord in Gaza unterstützt - schriftlich beantwortet
+- TOP 10.10: Dorfschule Alt-Buckow - schriftlich beantwortet
+- TOP 10.11: Brand in der High-Deck-Siedlung am 13.10.2025 - schriftlich beantwortet
+- TOP 10.12: Stubenrauchstraße- halbe Sperrung, volle Probleme - schriftlich beantwortet
+- TOP 10.13: Das Blumenviertel und sein Grundwasserspiegel - schriftlich beantwortet
+- TOP 10.14: Grenzmarkierung in der Riesestraße - schriftlich beantwortet
+- TOP 10.15: Mieter*innenprotest im Rollbergkiez unterstützen - schriftlich beantwortet
+- TOP 10.16: Bezirksamt im Verzug – Wann kommt die Antwort? - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Senior*innenvertretung im Rathaus Neukölln erhalten! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Verbundeinsätze weiterhin mit dem Ordnungsamt Neukölln durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Unhaltbarer Zustand an der Bushaltestelle 171 S/U Neukölln: Immobilienbesitzer in die Pflicht nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Grünflächenkollaps – was gedeiht noch mit dem Haushalt 26/27? - beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: SiKo Neukölln: Alle Infrastrukturbedarfe berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Einrichtung einer Ombudsberatung - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Abschaffung von Beauftragten - in der BVV abgelehnt
+- TOP 14.4: Projekt Brillenboxen auch für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Bezirkliche Räume für die Stadtteilmütter - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Legale Graffiti-Flächen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Unterstützung beim Protokollieren durch KI - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Bauvorhaben Kiehlufer/ Harzer Straße im Sinne Neuköllns entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Werbung am Baugerüst einschränken – Interessen der Mieterinnen und Mieter schützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Umstellung der CO2-Zertifikate 2027 - in der BVV abgelehnt
+- TOP 14.11: Parkmanagement finanziell sichern - Arbeit der Parkläufer*innen langfristig erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wird die Schulpflicht in Neukölln konsequent durchgesetzt? - beantwortet
+- TOP 15.2: Kürzungen der Senatsmittel für Stadtsauberkeit: Auswirkungen auf Neukölln - beantwortet
+- TOP 15.3: Zweckentfremdung verhindern. Ferienwohnungen kontrollieren! - beantwortet
+- TOP 15.4: Bezirkliche Beiräte für Partizipation und Integration – Instrumente der Mitsprache und Beteiligung? - schriftlich beantwortet
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Einwohner*innenantrag: Sofortmaßnahmen und strukturelle Verbesserungen zur Sauberkeit, Sicherheit und Suchthilfe im Körnerkiez - überwiesen
+- TOP 17.2: Behindertenparkplätze Lipschitzallee - überwiesen
+- TOP 17.3: Einsparung von Kosten im Bezirkshaushalt, Entflechtung von Zuständigkeiten bei Liegenschaften - überwiesen
+- TOP 17.4: Ehrenamt in der Jugend- und Familienhilfe stärken - überwiesen
+- TOP 17.5: Verwahrlosung im Körnerpark beenden - überwiesen
+- TOP 17.6: Fahrbahnmarkierung auf der Fulhamer Allee - überwiesen
+- TOP 17.7: Auskömmliche Finanzierung der Zweckentfremdung u.a. Verfolgung von Mietpreisüberhöhung - überwiesen
+- TOP 17.8: Querungshilfe am Buschrosenplatz zu Buschrosensteig/ Hippelstaße - überwiesen
+- TOP 17.9: Fahrradabstellplätze vor dem Frauen-Café in der Gropiusstadt - überwiesen
+- TOP 17.10: Radweg sicherer machen - überwiesen
+- TOP 17.11: Kampf der Rattenplage: Regelmäßiger Bericht des Bezirksamts - überwiesen
