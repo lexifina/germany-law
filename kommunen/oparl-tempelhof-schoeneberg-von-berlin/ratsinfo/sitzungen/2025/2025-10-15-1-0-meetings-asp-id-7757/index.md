@@ -1,0 +1,95 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2025-10-15T17:00:00+02:00
+- Ende: 2025-10-15T21:30:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7757
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7757
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=478855
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 3.1: Begrünung des Robert Blum Gymnasiums - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Errichtung einer Parkverbotszone an der Werbergstraße Ecke Germaniastraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Erhalt und Schutz der Bäume am Tempelhofer Damm - überwiesen
+- TOP 4.2: Dunkle Orte in Tempelhof-Schöneberg – Angsträume ausfindig machen – Angsträume angehen - überwiesen
+- TOP 4.3: Wie geht’s weiter mit den Sportstätten? Jährlicher Gesamtüberblick mit Zeitplan der Maßnahmen über die Instandsetzung bezirklicher Sportanlagen vorlegen - überwiesen
+- TOP 4.4: Gestaltungskonzept für den Wittenbergplatz aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: „Schulbauoffensive“ - ohne Ziele für pädagogisch-sinnvolle Versorgung? - schriftlich beantwortet
+- TOP 4.6: Planungen zum Kynastteich und dem Garten der Wasserspiele dürfen nicht verworfen werden - in der BVV abgelehnt
+- TOP 4.7: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2026 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlen zur Senior:innenvertretung - überwiesen
+- TOP 5.3: Finanzielle Ausstattung des barrierefreien Mobilitätsservice der BVG (Rufbus MUVA) sichern - überwiesen
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Mehr Aufzüge am Bahnhof Buckower Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: SOS–Notrufsäule im Kurfürstenkiez muss Priorität bekommen - überwiesen
+- TOP 9.3: Kulturelle Angebote im Haus am Kleistpark auch bei Beschädigung durch Baustelle sichern - überwiesen
+- TOP 9.4: Grüne Hauptwege 5 und 15 ausbauen! - überwiesen
+- TOP 9.5: Parkgebühren gerechter gestalten - überwiesen
+- TOP 9.6: Fahrradverkehr in der Briesingstraße - mit Änderungen in der BVV beschlossen
+- TOP 9.7: Priesterweg als Zufahrt für Kleingartenanlage verstetigen - vertagt
+- TOP 9.8: Aufsuchende Straßensozialarbeit & Büsche-Trimmen im Nelly-Sachs-Park - überwiesen
+- TOP 9.9: Produktbildung - mit Änderungen in der BVV beschlossen
+- TOP 9.10: Verkehrssicherheit stärken – Tempoverstöße und Verkehrslärm in Lichtenrade eindämmen - überwiesen
+- TOP 9.11: Priesterweg? Ja, aber barrierefrei! - überwiesen
+- TOP 9.12: Beitrag zur Unterstützung der Ateliers durch das Bezirksamt - mit Änderungen in der BVV beschlossen
+- TOP 9.13: Name statt Nummer - in der BVV abgelehnt
+- TOP 9.14: KiA*-Mittel auch für das Feld-Theater - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Den Nelly-Sachs-Park kulturell beleben - überwiesen
+- TOP 9.16: Beleuchtung des Basketballplatzes Friedrich-Wilhelm-Platz - mit Änderungen in der BVV beschlossen
+- TOP 9.17: Polizeiliche Verkehrsregelung für die Dauer der Bauarbeiten auf der A 100 - vertagt
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Bahnhofstraße: Wie steht es um die Hilfe für die Händler? - vertagt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Informations- und Gedenkort an der Stelle des ehemaligen Zwangsarbeitslagers an der Säntisstraße in Marienfelde - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Leerstehende öffentliche Räume für Obdachlosennutzung zur Verfügung stellen - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Eine Stele für den Lorenzweg 5 – Erinnerung an einen geschichtsträchtigen Ort wachhalten - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Aufklärung bei Jobcenter.digital - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Bessere Aufklärung und Verbot von Lachgas an Minderjährige - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Jährlicher Bericht der Senior:innenvertretung in der BVV - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Gehwege sind für Fußgänger da! (II) - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Geänderte Verkehrsführung im Hossauerweg verstetigen - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Mehr Sicherheit für Fußgänger vor der „Bio-Insel“ in der Leberstraße - mit Änderungen in der BVV beschlossen
+- TOP 11.10: Vergabeverfahren mit Konzessionierung für E-Scooter umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 11.11: 40 Jahre nach dem brutalen Terroranschlag in Friedenau: Würdiges Gedenken an das Bombenattentat auf die Diskothek La Belle - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Bäume für den Breslauer Platz - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Fahrradparkhaus am Bahnhof Südkreuz - mit Änderungen in der BVV beschlossen
+- TOP 11.14: Mehr Sicherheit für Fahrgäste vor Bushaltestellen - mit Änderungen in der BVV beschlossen
+- TOP 11.15: Akustik-Ampeln für Breslauer Platz und Attilaplatz - mit Änderungen in der BVV beschlossen
+- TOP 11.16: Smiley System beibehalten, Verbraucherschutz stärken! - mit Änderungen in der BVV beschlossen
+- TOP 11.17: Mehr Sitzbänke für Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 11.18: Querungshilfe in der Säntisstraße - mit Änderungen in der BVV beschlossen
+- TOP 11.19: Provisorische Maßnahmen für die Zierbrunnenanlagen auf dem Wittenbergplatz - mit Änderungen in der BVV beschlossen
+- TOP 11.20: Wegeverbindung zu S-Bhf. Buckower Chaussee - mit Änderungen in der BVV beschlossen
+- TOP 11.21: Dorfteich Alt-Marienfelde endlich von invasiven Pflanzenarten befreien - mit Änderungen in der BVV beschlossen
+- TOP 11.22: Breslauer Platz: Infostelen endlich aufstellen und Breslauer Zwerg auf verabredeten Platz umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 11.23: Frühzeitiger Abschluss städtebaulicher Verträge bereits ab 30 Wohneinheiten – auch ohne Bebauungsplanverfahren - mit Änderungen in der BVV beschlossen
+- TOP 11.24: Installation moderner Regenauffangsysteme an Schulen zur ökologischen und pädagogischen Nutzung - mit Änderungen in der BVV beschlossen
+- TOP 11.25: Wildes Plakatieren beenden II - mit Änderungen in der BVV beschlossen
+- TOP 11.26: Ein Vogelparadies entstehen lassen - mit Änderungen in der BVV beschlossen
+- TOP 11.27: Entsiegelte Gehweg- oder Straßenflächen nicht sich selbst überlassen - mit Änderungen in der BVV beschlossen
+- TOP 11.28: Freund und Helferin in der Kurmärkischen Straße - mit Änderungen in der BVV beschlossen
+- TOP 11.29: Neue Parkbank auf Spielplatz „Leberstr. 9“ aufstellen - mit Änderungen in der BVV beschlossen
+- TOP 11.30: Beleuchtung des Spielplatzes Görresstraße - mit Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Informationstafel zu Gerda und Wolfgang Szepansky - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Parkplatz des OSZ Lotis effektiver nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Gedenken an Hatun Sürücü - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Bildschmuck der Brandenburghalle fachgerecht kennzeichnen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Ehrenamt statt Einsamkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.6: Permanente Müllablagerungen verhindern, Reinigung ermöglichen - Baken an der Halker Zeile/Kettinger Straße entfernen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.7: Pumpwerk Lichtenrade, John-Locke-Str. 45: Vorbereitung eines Wettbewerbsverfahrens - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
