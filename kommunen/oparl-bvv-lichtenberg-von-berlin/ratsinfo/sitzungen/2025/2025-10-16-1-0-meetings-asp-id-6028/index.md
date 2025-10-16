@@ -1,0 +1,66 @@
+# 45. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-10-16T17:00:00+02:00
+- Ende: 2025-10-16T22:15:00+02:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6028
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6028
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=436273
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Barrierefreier Zugang: Umrundung des Fennpfuhls nah am Wasser für alle, erster Schritt jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Geschützt vor Vandalismus: Außenschließanlage für den Schulcampus Dolgenseestraße 60 - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Rücknahme der jugendamtsbezogenen Haushaltssperre im Bezirksamt Lichtenberg - überwiesen
+- TOP 5.7: Slam Dunk statt Stolperfalle - überwiesen
+- TOP 5.8: Straßenzustand im Römerweg verbessern - überwiesen
+- TOP 5.9: Erinnerung an NS-Zwangsarbeit in Hohenschönhausen sichtbar machen - überwiesen
+- TOP 5.10: Bezirkshaushaltsrechnung 2024 - überwiesen
+- TOP 5.11: Nachweisung der im Haushaltsjahr 2024 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 9.1: Corona-Maßnahmen auch in Lichtenberg aufarbeiten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Vielfalt in der Stadtentwicklung - mit Änderungen in der BVV beschlossen
+- TOP 9.3: Veranstaltung mit Ulla Lachauer zum Leben in Litauen in einer Lichtenberger Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Verkehrsinfarkt verhindern - akute Sicherung der Stellplatzsituation "Am Lindenplatz" in Friedrichsfelde - überwiesen
+- TOP 9.5: Die Garagen in der Schwarzmeerstraße müssen bleiben - überwiesen
+- TOP 9.6: Wiedereinführung und Sicherstellung des Behindertenzuschusses bei Wohnungsanmietungen - in der BVV abgelehnt
+- TOP 9.7: Änderung der Bezirksgrenzen zwischen dem Bezirk Lichtenberg und Friedrichshain-Kreuzberg zur besseren Klärung von Zuständigkeiten - in der BVV abgelehnt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Regelmäßiger Bericht über die Jugendhilfeplanung - überwiesen
+- TOP 10.2: 100 Jahre Plattenbauweise in Deutschland - überwiesen
+- TOP 10.3: Bürgerbeteiligung für das Ostseeviertel - überwiesen
+- TOP 10.4: Schüler fit machen für die digitale Zukunft - Einführung eines Pflichtfachs "Medienbildung und Informatik" - in der BVV abgelehnt
+- TOP 10.5: Für saubere Schul-Toiletten in Lichtenberg: Beim Land Berlin ausreichende Mittel für Zwischenreinigung einfordern - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Wirksamkeitszusammenhang von Prävention und Hilfen zur Erziehung - schriftlich beantwortet
+- TOP 11.2: Teilhabe in Lichtenberg: Wie inklusiv sind Behindertenwerkstätten und ihre Alternativen? - schriftlich beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Strategie gegen Verwahrlosung entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Erschließung des Campus für Demokratie - mit Änderungen in der BVV beschlossen
+- TOP 13.3: Unterstützung der Initiative "Alkoholfreie Kasse" im Bezirk Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Umsetzung von Schulcontainern in die Seehausener Straße - gegenstandslos
+- TOP 14.2: Klarheit über Ausgaben für die Umsetzung der Container aus der Salzmannstraße schaffen - überwiesen
+- TOP 14.3: Freie Fahrt für 194er und M43er! A 100-Chaos stoppen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Gesundheit fördern - Gesundheitspfad und Kneippbecken im Bezirk prüfen - in der BVV abgelehnt
+- TOP 14.5: Bürokratie-Nonsens stoppen – Parkplätze in der Große-Leege-Straße erhalten - überwiesen
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
