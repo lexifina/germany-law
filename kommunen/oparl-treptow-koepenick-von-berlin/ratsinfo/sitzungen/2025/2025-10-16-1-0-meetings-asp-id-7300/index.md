@@ -1,0 +1,87 @@
+# 38. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2025-10-16T17:10:00+02:00
+- Ende: 2025-10-16T20:55:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7300
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7300
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=459575
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Pressefreiheit in Treptow-Köpenick verteidigen - vertagt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Mitglieder des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - gegenstandslos
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Vorschlag für die Wahl und Wiederwahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - gewählt
+- TOP 7: Vertagte Tagesordnungspunkte - (offen)
+- TOP 7.1: Illegale gewerbliche Plakatierung im Bezirk - schriftlich beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-36 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Überschwemmung des Strohblumenwegs bei starken Regenfällen verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Radweg an der Einmündung Ottomar-Geschke-Straße / Dörpfeldstraße verkehrssicher gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Weg in die Königsheide vom Königsheideweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Lebensqualität im Kölner Viertel (I): Vermüllung des Kölner Viertels bekämpfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Skaterpark unter der Minna-Todenhagen-Brücke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Schaffung einer Fachberatungs- und Interventionsstelle gegen häusliche Gewalt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.7: Erhöhte Sichtplattform für barrierefreien Ausblick auf dem Kaisersteg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.8: Beleuchtung des gemeinsamen Geh- und Radweges auf der Schöneicher Landstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Radverkehr um den Treptower Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Entsorgung von Hundekot an relevanten Stellen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Fußgängerüberweg Kiefholzstraße Höhe Hänselstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Ohne Moos nix los – Verbesserung des lokalen Klimas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Verkehrsinfarkt durch Sperrung der Salvador-Allende-Brücke – ÖPNV so gut wie möglich anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Erhalt des Friedrichshagener Wochenmarkts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Ordnungswidriges Parken im Püttbergeweg unterbinden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2.8: Zusatzschild zur "Lauffener Straße" in Oberschöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Zusagen einhalten – Hauptstadtzulage auch für freie Träger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Gefährliche Ampelschaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Ort ohne Namen – Neues Ortsteilschild "Müggelheim" am Ortseingang - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.12: Errichtung einer öffentlichen Toilette neben dem Spielplatz Salvador-Allende-Straße / Uferpromenade – 12559 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.13: Errichtung einer öffentlichen Toilette neben dem Spielplatz Volkspark Köpenick / Müggelheimer Damm – 12559 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.14: Altstadt Köpenick - attraktiv und lebendig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.15: Parkmöglichkeit für Reisebusse am Dokumentationszentrum NS-Zwangsarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.16: Barrierefreie Straßenquerungen während Bauarbeiten sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Mündliche Anfragen - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Fußgängerüberweg Altglienicke Kirche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Digitalisierung in Kitas und der ergänzenden Förderung und Betreuung: Verantwortung übernehmen – Software bereitstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sichtbehinderung durch Poller an der Einmündung Neltestraße beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Runder Tisch "Pflege" - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Gefahrenstelle entschärfen – Bushaltestelle Adlergestell / Glienicker Weg verlegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Mehr Sauberkeit im Landschaftspark Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Modellprojekt für Sonnenschutz – Kostenfreie Sonnencremespender im Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: QR-Codes auf Spielplätzen – Kinderschutz in sozialen Netzwerken fängt auf dem Spielplatz an - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Hundegarten am Groß-Berliner Damm einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Fortführung des Berliner Parkläuferprogramms in Treptow-Köpenick sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Konzept für regelmäßige Ortsteilkonferenzen entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Verbesserung der Akustik in den Räumlichkeiten des Rathauses Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Abreißzettel "Hilfetelefon Gewalt gegen Frauen" in Toiletten in bezirklichen Einrichtungen anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Errichtung von Erdreihengrabstätten in der Abteilung E 26 auf dem landeseigenen Friedhof Adlershof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Errichtung von Urnenwahlgrabstätten in der Abt. III / D auf dem landeseigenen Friedhof Bohnsdorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Kieztour – Wahlkampf mit Unterstützung der Verwaltung beenden, gesamtes Bezirksamt und alle Fachämter einbeziehen - überwiesen
+- TOP 13.2: Einrichtung einer sicheren Querungshilfe vor der Müggelheimer Grundschule in der Odernheimer Straße - zurückgezogen
+- TOP 13.3: Verbesserung und Herstellung der Durchgängigkeit des Fußverkehrs im Umfeld des Bahnhofs Schöneweide - überwiesen
+- TOP 13.4: Informationskampagne zur Gewinnung von Hausärzten für Treptow-Köpenick - überwiesen
+- TOP 13.5: Rettung des Schloßplatztheaters Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Nachtfahrverbot für Mähroboter - überwiesen
+- TOP 13.7: Für einen sicheren Jahreswechsel: Gezielte Regulierung von Silvesterfeuerwerk in Treptow-Köpenick - überwiesen
+- TOP 13.8: Wiedererrichtung der Victoriasäule auf dem Schloßplatz Köpenick - überwiesen
+- TOP 13.9: Berliner Außenbezirke nicht benachteiligen – Tarifzone BC erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Resolution: Stadionausbau "An der Alten Försterei" nicht länger behindern - überwiesen
+- TOP 13.11: Regenwasserbank für Treptow-Köpenick - überwiesen
+- TOP 13.12: Raum-Datenbank für Ehrenamtliche bekannter machen - überwiesen
+- TOP 13.13: Hilferuf aus Späthsfelde: Königsheideweg öffnen oder Ligusterweg sperren während der Bauarbeiten auf der A 100 - ohne Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Illegale Nutzungen in der Friedrichshagener Straße und kein Ende? - beantwortet
