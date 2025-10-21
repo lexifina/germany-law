@@ -193,12 +193,14 @@ Teil 7
 | § 134 | Gültigkeit der Befähigungszeugnisse für Sachkundige für die Fahrgastschifffahrt und für Sachkundige für LNG |
 | § 135 | Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen |
 | § 136 | Geltung von Besatzungsdokumenten nach der Schiffspersonalverordnung-Rhein |
-| § 137 | Durchführung von Tauglichkeitsuntersuchungen in besonderen Fällen |
+| § 137 | (weggefallen) |
 | § 138 | Fortgelten von Prüfungsvorschriften; Gebühren; Prüfungen von Landesbehörden |
 | § 139 | Sicherheitspersonal auf Fahrgastschiffen |
 | § 140 | Anrechnung von Fahrzeiten |
 | § 141 | Umtausch von Radarbescheinigungen |
 | § 142 | Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren |
+| § 143 | Umschreibung von Fahrerlaubnissen der Klassen D1 und D2 |
+| § 144 | Erwerb der besonderen Berechtigung Großverbände beim Umtausch |
 | Anlage 1(zu § 12 Absatz 1 Satz 1 Nummer 2) | Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist |
 | Anlage 2(zu § 16 Absatz 1 Satz 1 Nummer 2) | Binnenwasserstraßenabschnitte mit besonderen Risiken |
 | Anlage 3(zu § 17 Absatz 6 Nummer 1) | Bescheinigung Lehrgang atemschutzgerättragende Person |

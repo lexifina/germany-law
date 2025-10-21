@@ -23,12 +23,12 @@ Zone 2-Binnen
 | Lesum | Vom Zusammenfluss von Hamme und Wümme (km 0,00) bis zur Mündung in die Weser |
 | Weser | Von der Nordwestkante der Eisenbahnbrücke in Bremen bis zur unteren Grenze des Hafens Brake mit dem Nebenarm Rekumer Loch |
 | Este | Vom Unterwasser der Schleuse Buxtehude (km 0,25) bis zur Mündung in die Elbe |
-| Lühe | Vom Unterwasser der Au-Mühle in Horneburg (km 0,00) bis zur Mündung in die Elbe |
+| Lühe | Von der Nordkante der Marschdammbrücke in Horneburg (km 0,26) bis zur Mündung in die Elbe |
 | Schwinge | Von der Nordkante der Salztorschleuse in Stade bis zur Mündung in die Elbe |
 | Ruthenstrom | Von km 3,75 bis zur Mündung in die Elbe |
 | Freiburger Hafenpriel | Von der Ostkante der Deichschleuse in Freiburg an der Elbe bis zur Mündung in die Elbe |
 | Oste | Ab 210 m oberhalb der Achse der Straßenbrücke über das Ostesperrwerk (km 69,360) bis zur Mündung in die Elbe |
-| Pinnau | Von der Südwestkante der Eisenbahnbrücke in Pinneberg bis zur Mündung in die Elbe |
+| Pinnau | Von der Westkante der im Verlauf der Elmshorner Straße liegenden Straßenbrücke in Pinneberg (km 0,36) bis zur Mündung in die Elbe |
 | Krückau | Von der Südwestkante der im Verlauf der Straße Wedenkamp liegenden Straßenbrücke in Elmshorn bis zur Mündung in die Elbe |
 | Stör | Vom Pegel Rensing bis zur Mündung in die Elbe |
 | Elbabschnitt Mühlenberger Loch | Begrenzt durch die untere Grenze des Hamburger Hafens und die Insel Neßsand sowie km 635 auf der Hahnöfer Nebenelbe |
@@ -51,6 +51,7 @@ Zone 2-Binnen
 | Warnow und Unterwarnow mit Breitling und Nebenarmen (ohne Nebenarm westlich der Badewieseninsel) | Von der Südkante der Eisenbahnbrücke Rostock-Stralsund bis zur Verbindungslinie zwischen der Nordkante der Westmole und der Nordkante der Ostmole in Rostock-Warnemünde |
 | Gewässer, die vom Festland und den Halbinseln Darß und Zingst eingeschlossen sind | Saaler Bodden und Grabow seewärts begrenzt zwischen Halbinsel Zingst und Insel Bock durch das Breitenparallel 54° 26' 42" N, sowie östlich begrenzt durch den Meridian 13° O |
 | Stralsunder Hafengebiet | Begrenzt durch die Verbindungslinie von der Ostspitze der Nordmole über die Mittelmole zur Westspitze der Ostmole sowie durch die südliche Hafengrenze und den Meridian 13° 7' 42" O |
+| Selliner See | Selliner See und Baaber Bek bis zur Mündung in die Having |
 | Greifswalder Hafengebiet mit Ryck | Von der Ostkante der Steinbecker Brücke in Greifswald bis zur Verbindungslinie der Seekanten der Molenköpfe |
 | Wolgaster Hafengebiet |  |
 | Uecker | Von der Südwestkante der Straßenbrücke in Ueckermünde bis zur Verbindungslinie der Seekanten der Molenköpfe |

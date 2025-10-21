@@ -11,6 +11,7 @@ Zone 4
 | Elbe | Von der deutsch-tschechischen Grenze bei Schöna (km 0,00) bis Kreinitz (km 119,20) |
 | Havelkanal | Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,41) bis zur Einmündung in die Untere Havel-Wasserstraße (km 34,59) |
 | Havel-Oder-Wasserstraße | –Von der Spreemündung bei Spandau (km 0,00) bis zur Schleusenbrücke Lehnitz (km 28,24) [Spandauer Havel, Oder-Havel-Kanal (Lehnitzsee)]–Tegeler See–Oranienburger Havel–Werbelliner Gewässer |
+| Mosel | Von der deutsch-französischen Grenze bei Apach bis zum Rhein |
 | Müritz-Elde-Wasserstraße | –Mecklenburgische Oberseen (Plauer See, Petersdorfer See, Malchower See, Fleesensee, Kölpinsee)–Stör-Wasserstraße (Störkanal, Stör, Schweriner See nebst Ziegelsee) |
 | Müritz-Havel-Wasserstraße | –Von der Einmündung in die Obere Havel-Wasserstraße (km 0,00) bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (km 32,02)–Seearm Nordostteil Labussee–Mirower Adlersee und Vilzsee–Großer Peetschsee–Rheinsberger Gewässer–Großer Prebelowsee–Zechliner Gewässer–Dollgowsee–Großer Pälitzsee Südwestteil |
 | Obere Havel-Wasserstraße | –Vom Ende des Voßkanals (km 0,00) bis zum Nordostende Zierker See (km 94,41) [Voßkanal, Obere Havel, Kammerkanal, Malzer Kanal]–Seearm Nordostteil Ziernsee–Wentow-Gewässer–Templiner Gewässer–Lychener Gewässer |

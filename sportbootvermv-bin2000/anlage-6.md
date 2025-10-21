@@ -7,7 +7,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 3. Höchstgeschwindigkeit begrenzt auf 12 km/h im stillen Wasser, wobei eine ausreichende Manövrierfähigkeit erhalten bleiben muss und eine Untermotorisierung nicht eintreten darf
 4. Personenzahl <= 12, jedoch nicht mehr als im Bootszeugnis zugelassen
 5. Ausrüstung:
-  a) Für jede zugelassene Person Rettungsweste nach § 8 Abs. 9 an Bord
+  a) Für jede zugelassene Person eine Rettungsweste nach § 8 Absatz 8 Satz 1 an Bord
   b) 1 tragbare Feuerlöscher, wenn nicht im Bootszeugnis eine größere Zahl vorgeschrieben ist
   c) zulassungsfreie Signalmittel
   d) Rettungsring mit Sicherheitsleine

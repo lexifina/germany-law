@@ -1,5 +1,6 @@
 # Anlage (zu § 8 Abs. 2)
 
-(Inhalt: nicht darstellbarer Ausweis über das Kleinfahrzeugkennzeichen;
-Fundstelle: BGBl. I 1995, 231 - 232,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+Vorderseiten
+[Bild: bgbl1_2025_j02420_0480.jpg]
+Rückseiten
+[Bild: bgbl1_2025_j02420_0490.jpg]

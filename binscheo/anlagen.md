@@ -6,3 +6,4 @@
 | Anlage 4: | Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer) |
 | Anlage 5: | Muster der Eichbescheinigung für Sportboote |
 | Anlage 6: | Muster der Eichplakette für Sportboote |
+| Anlage 7: | Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen |
