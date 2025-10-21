@@ -1,0 +1,99 @@
+---
+ecli: "ECLI:DE:BVerfG:2025:rk20251021.2bvr155224"
+court: "Bundesverfassungsgericht"
+aktenzeichen: "2 BvR 1552/24"
+decided: "2025-10-21"
+typ: "Stattgebender Kammerbeschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KVRE463902501.xml"
+neuris_doknr: "KVRE463902501"
+---
+
+# Bundesverfassungsgericht, 2 BvR 1552/24 vom 2025-10-21
+
+## Tenor
+
+1. Der Beschluss des Landgerichts Traunstein vom 5. November 2024 - 6 KLs 630 Js 10783/24 - verletzt die Beschwerdeführerin in ihrem Recht aus Artikel 101 Absatz 1 Satz 2 des Grundgesetzes.
+
+2. Der Beschluss wird aufgehoben und die Sache an das Oberlandesgericht München zur Entscheidung über die sofortige Beschwerde zurückverwiesen.
+
+3. Der Freistaat Bayern hat der Beschwerdeführerin ihre notwendigen Auslagen für das Verfassungsbeschwerdeverfahren zu erstatten.
+
+4. Der Gegenstandswert wird auf 10.000 Euro (in Worten: zehntausend Euro) festgesetzt.
+
+## Gründe
+
+1 Die Beschwerdeführerin wendet sich mit der Verfassungsbeschwerde gegen die Zurückweisung einer sofortigen Beschwerde, mit der sie sich gegen die Aufhebung ihrer Beiordnung als Pflichtverteidigerin zur Wehr gesetzt hatte.
+
+I.
+
+2 1. Die Staatsanwaltschaft Traunstein führte gegen den Beschuldigten ein Ermittlungsverfahren wegen des Verdachts des versuchten gewerbsmäßigen Bandenbetrugs. Dem Beschuldigten wurde zunächst wunschgemäß Rechtsanwältin L. als Pflichtverteidigerin beigeordnet. Im Rahmen eines Pflichtverteidigerwechsels gemäß § 143a Abs. 2 Satz 1 Nr. 3 StPO erfolgte sodann zum 4. April 2024 die Bestellung der Beschwerdeführerin zur neuen Pflichtverteidigerin.
+
+3 2. Am 17. Oktober 2024 fand vor dem Landgericht Traunstein in nichtöffentlicher Sitzung ein Termin zur Eröffnung eines Haftbefehls statt. Zu diesem Termin war der Beschwerdeführerin am 11. Oktober 2024 eine formlose Terminsmitteilung sowie per besonderem elektronischen Anwaltspostfach am 15. Oktober 2024 eine förmliche Ladung zugegangen. Im Rahmen des Termins, zu dem die Beschwerdeführerin nicht erschienen war, beantragte der - jetzt nach Erhebung der Anklage: - Angeschuldigte, die Beschwerdeführerin als Pflichtverteidigerin zu entbinden, weil nun auch diesbezüglich das Vertrauensverhältnis gestört sei. Nach Anhörung der Staatsanwaltschaft gab das Landgericht dem Antrag durch Beschluss vom 17. Oktober 2024 statt.
+
+4 3. Gegen die Aufhebung ihrer Beiordnung als Pflichtverteidigerin erhob die Beschwerdeführerin am 24. Oktober 2024 sofortige Beschwerde und beantragte, das Verfahren über die Aufhebung der Beiordnung in die Lage zurückzuversetzen, die vor Erlass der Entscheidung über die Aufhebung der Beiordnung bestanden habe. Zugleich beantragte sie Akteneinsicht in die den Erlass der Aufhebungsentscheidung betreffenden Schriftstücke und Erklärungen, insbesondere in das vollständige Protokoll vom 17. Oktober 2024 über den Termin zur Eröffnung des Haftbefehls.
+
+5 4. Mit hier angegriffenem Beschluss vom 5. November 2024 wies das Landgericht die sofortige Beschwerde als unzulässig zurück. Dem Antrag auf Zurückversetzung des Verfahrens entsprach es nicht. Zur Begründung führte es aus, die sofortige Beschwerde sei unzulässig, weil die Beschwerdeführerin nicht antragsberechtigt sei. Gemäß einer Entscheidung des Bundesgerichtshofs (BGHSt 65, 106) stehe dem Rechtsanwalt kein eigenes Beschwerderecht gegen Entscheidungen über die Aufhebung der Pflichtverteidigerbestellung zu. Die Rechte aus Art. 12 GG würden durch die Abberufung nicht beeinträchtigt. Überdies sei auch kein Grund zur Wiedereinsetzung in den vorigen Stand erkennbar.
+
+6 5. Mit Schreiben vom 10. Januar 2025 teilte das Bundesverfassungsgericht dem Landgericht Traunstein mit, gegen die Entscheidung vom 5. November 2024 sei am 25. November 2024 Verfassungsbeschwerde eingelegt worden, und bat um Übersendung der Akten.
+
+7 6. Daraufhin verfügte das Landgericht Traunstein am 28. Januar 2025 die Weiterleitung der Akten an das Oberlandesgericht München zur Prüfung einer Entscheidung über die sofortige Beschwerde vom 24. Oktober 2024 und teilte diesem mit, angesichts der Arbeitsbelastung sei die Zuständigkeit des Oberlandesgerichts für die Entscheidung über die sofortige Beschwerde übersehen worden. Nunmehr solle dem zuständigen Gericht die Möglichkeit zur Entscheidung gegeben werden.
+
+8 7. Mit Beschluss vom 24. April 2025 stellte das Oberlandesgericht München fest, dass hinsichtlich der sofortigen Beschwerde eine Entscheidung nicht veranlasst sei. Denn über diese sei - wie auch über den Wiedereinsetzungsantrag - bereits durch den Beschluss des Landgerichts vom 5. November 2024 entschieden worden. Die Beschwerdeführerin habe gegen diese Entscheidung kein Rechtsmittel eingelegt.
+
+II.
+
+9 Die Beschwerdeführerin macht mit ihrer Verfassungsbeschwerde eine Entziehung des gesetzlichen Richters (Art. 101 Abs. 1 Satz 2 GG), eine Verletzung des Willkürverbots (Art. 3 Abs. 1 GG) sowie eine Verletzung des rechtlichen Gehörs (Art. 103 Abs. 1 GG) geltend.
+
+10 1. Die Verwerfung der sofortigen Beschwerde verstoße gegen § 121 Abs. 1 Nr. 2 Gerichtsverfassungsgesetz (GVG) und damit auch gegen Art. 101 Abs. 1 Satz 2 GG, denn zur Entscheidung über die sofortige Beschwerde gegen Entscheidungen des Landgerichts sei nicht das Landgericht als Ausgangsgericht, sondern zwingend das Oberlandesgericht berufen. Das Landgericht hätte die sofortige Beschwerde gemäß § 306 Abs. 2 Halbsatz 2 StPO dem Oberlandesgericht München vorlegen müssen, dem die alleinige Kompetenz zur Entscheidung über den Rechtsbehelf zukomme. Da das Landgericht für die Entscheidung über die sofortige Beschwerde absolut unzuständig gewesen sei, habe es nicht als gesetzlicher Richter im Sinne des Art. 101 Abs. 1 Satz 2 GG entschieden. Im Gegensatz zu der Begründung im angefochtenen Beschluss sei die fehlende Beschwer eines Pflichtverteidigers bei Anfechtung seiner Entpflichtung auch keineswegs eindeutig zu bejahen. Der Bundesgerichtshof habe in der vom Landgericht zitierten Entscheidung (BGHSt 65, 106) die Beschwer in einem Fall verneint, in welchem dem Pflichtverteidiger vor der Ausgangsentscheidung rechtliches Gehör gewährt worden sei. Vorliegend sei der Beschwerdeführerin dagegen rechtliches Gehör versagt worden. Wie der Bundesgerichtshof in diesem Fall entschieden hätte, bleibe offen. Offengelassen habe der Bundesgerichtshof auch, wie im Falle einer willkürlichen Erstentscheidung zu entscheiden wäre (vgl. BGH, Beschluss vom 18. August 2020 - StB 25/20 -, juris, Rn. 11; insoweit in BGHSt 65, 106 nicht abgedruckt). Maßgebliche Stimmen in der Literatur sowie ein Teil der obergerichtlichen Rechtsprechung bejahten in einem solchen Fall zutreffend eine Beschwer (vgl. Schmitt, in: Schmitt/Köhler, StPO, 68. Aufl. 2025, § 143a Rn. 36 m.w.N.; Beulke, JZ 2021, S. 403 <408 f.>). Es liege daher nahe, dass das Oberlandesgericht bei dem hier vorliegenden - gegenüber dem Willkürverbot gleich schweren - Verfassungsverstoß der Versagung rechtlichen Gehörs eine Beschwer höchstwahrscheinlich bejaht hätte. Im Übrigen wäre das Oberlandesgericht an die Entscheidung des Bundesgerichtshofs nicht gebunden gewesen.
+
+11 2. Darüber hinaus sei ein Verstoß gegen das Willkürverbot (Art. 3 Abs. 1 GG) gegeben. Im deutschen Strafprozessrecht gebe es mit Ausnahme der nur eine eingeschränkte Verwerfungskompetenz normierenden und nicht analogiefähigen § 319 Abs. 1, § 346 Abs. 1 StPO keinen Fall, in dem ein Ausgangsgericht über einen Rechtsbehelf gegen seine eigene Entscheidung zu judizieren befugt sei. Geschehe dies - wie hier - dennoch, müsse die Entscheidung als schlechthin unverständlich und unhaltbar bezeichnet werden.
+
+12 3. Schließlich verstoße die angegriffene Entscheidung gegen Art. 103 Abs. 1 GG. Die Beschwerdeführerin habe die formlose Terminsmitteilung für den 17. Oktober 2024 erst einen Tag zuvor im Spamordner einer nicht dem besonderen elektronischen Anwaltspostfach zugeordneten Mailadresse vorgefunden. Diesbezüglich sei die Beschwerdeführerin zwingend und wegen der Kürze der Zeit nicht mehr verschiebbar an der Terminswahrnehmung verhindert gewesen, was sie am 15. und 16. Oktober 2024 (also nach ihrer förmlichen Ladung!) der zuständigen Geschäftsstelle sowie der Kammervorsitzenden mitgeteilt habe. Von dem Antrag des Angeschuldigten im Termin vom 17. Oktober 2024, die Beschwerdeführerin als Pflichtverteidigerin zu entbinden, habe sie keine Kenntnis erhalten, obwohl selbst bei unterstellter Dringlichkeit unschwer eine elektronische oder telefonische Kontaktaufnahme hätte erfolgen können. Sie habe daher dem Antrag nicht entgegentreten und vortragen können, dass sie ihre Aufgaben als Pflichtverteidigerin stets engagiert, korrekt und sogar überobligatorisch erfüllt habe. Die Nichtgewährung rechtlichen Gehörs erscheine dadurch besonders gewichtig, dass ihre Reputation als Rechtsanwältin im Raum stehe. Gerade wenn der Standpunkt vertreten werde, dem Pflichtverteidiger fehle - bei verfahrensmäßig korrekter Ausgangsentscheidung - die Beschwer für eine Anfechtung der Entpflichtungsentscheidung, komme der Gewährung rechtlichen Gehörs im Abberufungsverfahren selbst entscheidende Bedeutung zu.
+
+III.
+
+13 Das Bayerische Staatsministerium der Justiz hatte Gelegenheit zur Stellungnahme. Es hat mitgeteilt, von einer Stellungnahme abzusehen.
+
+14 Die Akten des Ausgangsverfahrens haben dem Bundesverfassungsgericht vorgelegen.
+
+IV.
+
+15 Die Kammer nimmt die Verfassungsbeschwerde zur Entscheidung an und gibt ihr statt. Die Annahme der Verfassungsbeschwerde ist gemäß § 93a Abs. 2 Buchstabe b BVerfGG zur Durchsetzung des Rechts der Beschwerdeführerin aus Art. 101 Abs. 1 Satz 2 GG angezeigt. Die maßgeblichen verfassungsrechtlichen Fragen für die Beurteilung der Verfassungsbeschwerde hat das Bundesverfassungsgericht bereits entschieden. Die Verfassungsbeschwerde ist zulässig und in einer die Kammerzuständigkeit begründenden Weise offensichtlich begründet (§ 93c Abs. 1 Satz 1 BVerfGG).
+
+16 1. Die Verfassungsbeschwerde ist zulässig.
+
+17 a) § 90 Abs. 2 Satz 1 BVerfGG steht dem nicht entgegen. Die Beschwerdeführerin war auch unter Berücksichtigung des Grundsatzes der Subsidiarität, nach dem ein Beschwerdeführer über das Gebot der Erschöpfung des Rechtswegs im engeren Sinn hinaus alle nach Lage der Sache zur Verfügung stehenden prozessualen Möglichkeiten ergreifen muss, um eine Korrektur der geltend gemachten Grundrechtsverletzung zu erwirken (vgl. BVerfGE 73, 322 <325>; 77, 381 <401>), nicht gehalten, zunächst um fachgerichtlichen Rechtsschutz gegen die Zurückweisung ihrer sofortigen Beschwerde zu ersuchen. Da das Landgericht ausdrücklich eine abschließende Entscheidung über die sofortige Beschwerde getroffen hatte, lag es aus Sicht der Beschwerdeführerin fern, durch eine entsprechende prozessuale Erklärung - etwa durch Einlegung einer erneuten Beschwerde nach § 304 StPO - eine Entscheidung des Beschwerdegerichts herbeizuführen (vgl. allerdings Staatsgerichtshof des Landes Hessen, Beschluss vom 26. Januar 2022 - P.St. 2867 -, juris, Rn. 19 ff.). Auch eine Bewertung der Entscheidung des Landgerichts als Nichtabhilfeentscheidung mit der Folge einer noch ausstehenden Vorlage an das zuständige Beschwerdegericht (vgl. dazu OLG Hamm, Beschluss vom 10. Juni 2021 - III-4 Ws 85/21 u.a. -, juris, Rn. 4 f.) lag aus Sicht der Beschwerdeführerin fern. Schließlich musste die Beschwerdeführerin auch sonst nicht davon ausgehen, dass das Landgericht dem Oberlandesgericht die sofortige Beschwerde nach deren Zurückweisung noch zur Entscheidung vorlegen und dieses hierzu noch eine Sachentscheidung treffen werde. Eine solche hat das Oberlandesgericht schließlich im Beschluss vom 24. April 2025 auch nicht getroffen, sondern sich einer solchen vielmehr ausdrücklich enthalten.
+
+18 b) Zudem genügt die Begründung der Verfassungsbeschwerde den Anforderungen aus § 23 Abs. 1 Satz 2 Halbsatz 1, § 92 BVerfGG.
+
+19 2. Die Verfassungsbeschwerde ist begründet.
+
+20 a) Die angegriffene Entscheidung verstößt gegen das Recht auf den gesetzlichen Richter nach Art. 101 Abs. 1 Satz 2 GG.
+
+21 aa) Das Landgericht hat seine Zuständigkeit zur Entscheidung über die sofortige Beschwerde der Beschwerdeführerin unter Verstoß gegen Art. 101 Abs. 1 Satz 2 GG angenommen.
+
+22 (1) Für die Annahme eines Verstoßes gegen Art. 101 Abs. 1 Satz 2 GG genügt nicht schon jede irrtümliche Überschreitung der den Fachgerichten gezogenen Grenzen (vgl. BVerfGE 87, 282 <284> m.w.N.; 138, 64 <87 Rn. 71>). Durch einen schlichten error in procedendo wird niemand seinem gesetzlichen Richter entzogen (vgl. BVerfGE 3, 359 <365>; 138, 64 <87 Rn. 71>). Eine Verletzung der Garantie des gesetzlichen Richters kommt aber in Betracht, wenn das Fachgericht Bedeutung und Tragweite der Gewährleistung aus Art. 101 Abs. 1 Satz 2 GG grundlegend verkennt (vgl. BVerfGE 82, 286 <299>; 87, 282 <284 f.>; 131, 268 <312>; 138, 64 <87 Rn. 71>) oder die maßgeblichen Verfahrensnormen in objektiv willkürlicher Weise fehlerhaft anwendet (vgl. BVerfGE 42, 237 <241>; 76, 93 <96>; 79, 292 <301>; 82, 286 <299>; 87, 282 <284 f.>; 131, 268 <312>; 138, 64 <87 Rn. 71>; BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 20. April 2023 - 2 BvR 1605/21 -, Rn. 50).
+
+23 (2) Gemessen daran liegt eine Verletzung von Art. 101 Abs. 1 Satz 2 GG jedenfalls deshalb vor, weil das Landgericht seine Zuständigkeit auf der Grundlage einer in objektiv willkürlicher Weise fehlerhaften Anwendung der maßgeblichen Verfahrensnormen zu Unrecht angenommen hat.
+
+24 (a) Auch wenn das Landgericht - wie hier - die (sofortige) Beschwerde für unzulässig erachtet, darf es hierüber nach einhelliger Ansicht nicht selbst entscheiden, sondern muss dies gemäß § 306 Abs. 2 Halbsatz 2 StPO dem nach § 121 Abs. 1 Nr. 2 GVG als Beschwerdegericht zur Entscheidung berufenen Oberlandesgericht überlassen (vgl. RGSt 43, 179 <180>; OLG Karlsruhe, Beschluss vom 29. Februar 1996 - 3 Ws 42/96 -, juris, Rn. 4; Staatsgerichtshof des Landes Hessen, Beschluss vom 26. Januar 2022 - P.St. 2867 -, juris, Rn. 25; LG Nürnberg-Fürth, Beschluss vom 28. August 2024 - 18 Qs 15/24 -, juris, Rn. 37; Matt, in: Löwe-Rosenberg, StPO, 26. Aufl. 2014, § 306 Rn. 22; Albrecht, in: KMR - Kommentar zur StPO, § 306 Rn. 11 <Feb. 2020>; Halbritter, in: Dölling/Duttge/Rössner, Gesamtes Strafrecht, 5. Aufl. 2022, § 306 Rn. 5; Frisch, in: SK-StPO, 6. Aufl. 2022, § 306 Rn. 24; Wegner, in: Hilgendorf/Kudlich/Valerius, Handbuch des Strafrechts, 1. Aufl. 2023, § 57 Rn. 65; Reichenbach, in: Gercke/Temming/Zöller, StPO, 7. Aufl. 2023, § 306 Rn. 9; Zabeck, in: Karlsruher Kommentar zur StPO, 9. Aufl. 2023, § 306 Rn. 16; Neuheuser, in: Münchener Kommentar zur StPO, 2. Aufl. 2024, § 306 Rn. 16; Rotsch/Wagner, in: Rotsch/Saliger/Tsambikakis, StPO, 1. Aufl. 2025, § 306 Rn. 9; Merz, in: Radtke/Hohmann, StPO, 2. Aufl. 2025, § 306 Rn. 6; Hoch, in: Satzger/Schluckebier/Werner, StPO, 6. Aufl. 2025, § 306 Rn. 21; Cirener, in: BeckOK StPO, § 306 Rn. 15 <Juli 2025>; Schmitt, in: Schmitt/Köhler, StPO, 68. Aufl. 2025, § 306 Rn. 12). Eine Verwerfungskompetenz, wie sie in beschränktem Umfang für andere Rechtsmittel vorgesehen ist (§ 319 Abs. 1, § 346 Abs. 1 StPO), kennt das Beschwerderecht der Strafprozessordnung nicht (vgl. BGH, Beschluss vom 22. Dezember 2010 - 2 ARs 289/10 -, juris, Rn. 2; Zabeck, in: Karlsruher Kommentar zur StPO, 9. Aufl. 2023, § 306 Rn. 16).
+
+25 (b) Vor diesem Hintergrund hat das Landgericht im angefochtenen Beschluss vom 5. November 2024 nicht etwa lediglich § 306 Abs. 2 Halbsatz 2 StPO in seinen Voraussetzungen falsch ausgelegt, sondern die Entscheidung über die sofortige Beschwerde ohne weitere Darlegung der Zuständigkeit an sich gezogen und sich somit zur Entscheidung "in eigener Sache" berufen gesehen, obgleich eine solche Zuständigkeit nach dem klaren, keinen Spielraum gewährenden und keine Zweifel aufkommen lassenden Wortlaut des Gesetzes nicht vorgesehen war. Die Annahme des Landgerichts, es sei für die Beschwerdeentscheidung zuständig, ist damit objektiv willkürlich, sodass Art. 101 Abs. 1 Satz 2 GG verletzt ist (vgl. BVerfGE 3, 359 <364>; 29, 45 <48 f.>; 29, 166 <172 f.>; 76, 93 <96>; 87, 282 <285>; 96, 68 <77>). Der in der späteren Vorlage an das Oberlandesgericht erfolgte Hinweis auf eine Arbeitsüberlastung der Kammer, die zu der Verkennung der Zuständigkeit geführt habe, ist nicht geeignet, diese Wertung zu entkräften.
+
+26 bb) Die angegriffene Entscheidung beruht auf dem Verstoß gegen Art. 101 Abs. 1 Satz 2 GG.
+
+27 (1) Ein zur Verletzung des Art. 101 Abs. 1 Satz 2 GG führender Verfahrensfehler kann nur festgestellt werden, wenn die fachgerichtliche Entscheidung auf dem Verfahrensfehler beruht. Dies ist nicht der Fall, wenn die Entscheidung ohne ihn genauso ausgefallen wäre (vgl. BVerfGE 64, 1 <21 f.>; 96, 68 <86>; BVerfGK 13, 303 <314>; BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 1. November 2024 - 2 BvR 684/22 -, Rn. 74). Dabei genügt, dass zumindest möglich ist, dass das Oberlandesgericht zu einer anderen, dem Beschwerdeführer günstigeren Entscheidung über die sofortige Beschwerde gelangt wäre (vgl. BVerfGE 138, 64 <101>; BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 18. Februar 2020 - 1 BvR 1750/19 -, Rn. 18; Beschluss der 1. Kammer des Zweiten Senats vom 1. November 2024 - 2 BvR 684/22 -, Rn. 74).
+
+28 (2) Dies ist im vorliegenden Fall nicht ausgeschlossen. Wie die Beschwerdebegründung einräumt und das Landgericht in der angegriffenen Entscheidung zutreffend anführt, hat der Bundesgerichtshof zwar mit Beschluss vom 18. August 2020 (BGHSt 65, 106) im Hinblick auf die neue Rechtslage zu § 143a Abs. 4 StPO klargestellt, dass einem Pflichtverteidiger gegen die Aufhebung seiner Bestellung kein eigenes Beschwerderecht zusteht. In konsequenter Anwendung dieser Rechtsprechung wäre daher auch das Oberlandesgericht grundsätzlich zur Verwerfung der sofortigen Beschwerde als unzulässig gelangt. Jedoch führt die Beschwerdebegründung ebenfalls zutreffend an, dass die Rechtsprechung des Bundesgerichtshofs in der Literatur auch auf Kritik gestoßen ist (vgl. nur Beulke, JZ 2021, S. 403 <408 f.>; Gubitz, NStZ 2021, S. 176) und die Ablehnung eines eigenen Beschwerderechts des Pflichtverteidigers auch schon unter alter Rechtslage umstritten war (vgl. nur Hilgendorf, NStZ 1996, S. 1 <6 f.>). Im Übrigen hat der Bundesgerichtshof offengelassen, wie im Fall einer willkürlichen Erstentscheidung zu entscheiden wäre (vgl. BGH, Beschluss vom 18. August 2020 - StB 25/20 -, juris, Rn. 11 m.w.N.; insoweit in BGHSt 65, 106 nicht abgedruckt). Daher hätte es dem Oberlandesgericht auch unter Berücksichtigung der Rechtsprechung des Bundesgerichtshofs grundsätzlich offen gestanden, der Beschwerdeführerin wegen ihrer unterbliebenen Anhörung jedenfalls unter dem Aspekt der fehlerhaften Verfahrensgestaltung ein eigenes Beschwerderecht zuzuerkennen.
+
+29 b) Nachdem die angegriffene Entscheidung des Landgerichts bereits gegen Art. 101 Abs. 1 Satz 2 GG verstößt, bedarf es keiner Entscheidung darüber, ob auch ein Verstoß gegen die weiteren von der Beschwerdeführerin als verletzt gerügten Grundrechte oder grundrechtsgleichen Rechte vorliegt.
+
+V.
+
+30 Es ist danach festzustellen, dass der Beschluss des Landgerichts Traunstein vom 5. November 2024 die Beschwerdeführerin in ihrem Recht aus Art. 101 Abs. 1 Satz 2 GG verletzt (§ 95 Abs. 1 Satz 1 BVerfGG). Der angegriffene Beschluss ist deshalb aufzuheben und die Sache zur Entscheidung über die sofortige Beschwerde an das zuständige Gericht, nämlich das Oberlandesgericht München, zurückzuverweisen (§ 93c Abs. 2 i.V.m. § 95 Abs. 2, § 90 Abs. 2 Satz 1 BVerfGG).
+
+VI.
+
+31 Die Entscheidung über die Auslagenerstattung beruht auf § 34a Abs. 2 BVerfGG.
+
+32 Die Festsetzung des Gegenstandswerts beruht auf § 37 Abs. 2 Satz 2, § 14 Abs. 1 RVG in Verbindung mit den Grundsätzen über die Festsetzung des Gegenstandswerts im verfassungsgerichtlichen Verfahren (vgl. BVerfGE 79, 365 <366 ff.>).
