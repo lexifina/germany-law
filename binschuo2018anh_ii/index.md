@@ -7,26 +7,37 @@
 
 ### Kapitel 1 Sondervorschriften für Fähren, Allgemeines
 
-- [§ 1.01 Begriffsbestimmungen](0001-01.md)
-- [§ 1.02 Allgemeines](0001-02.md)
+- [§ 1.01 Anzuwendende Vorschriften](0001-01.md)
+- [§ 1.02 Begriffsbestimmungen](0001-02.md)
 - [§ 1.03 Fährzeugnis](0001-03.md)
 - [§ 1.04 Kennzeichnung der Fähren](0001-04.md)
 
 ### Kapitel 2 Bau, Einrichtung und Ausrüstung von Fähren
 
-- [§ 2.01 Fährkörper](0002-01.md)
-- [§ 2.02 Nachweis der Intakt- und Leckstabilität](0002-02.md)
-- [§ 2.03 Einsenkungsmarken](0002-03.md)
-- [§ 2.04 Festigkeit des Wagendecks](0002-04.md)
-- [§ 2.05 Rettungsmittel](0002-05.md)
-- [§ 2.06 Anker](0002-06.md)
-- [§ 2.07 Zusätzliche Ausrüstung](0002-07.md)
-- [§ 2.08 Landeklappen](0002-08.md)
 
-### Kapitel 3 Zusätzliche Anforderungen an seil- und kettengebundene Fähren
+#### Unterkapitel 1 Fähren, die keine Kahn- und Kahnseilfähren sind
+
+- [§ 2.01 Allgemeines](0002-01.md)
+- [§ 2.02 Fährkörper](0002-02.md)
+- [§ 2.03 Nachweis der Intakt- und Leckstabilität](0002-03.md)
+- [§ 2.04 Einsenkungsmarken](0002-04.md)
+- [§ 2.05 Festigkeit des Wagendecks](0002-05.md)
+- [§ 2.06 Rettungsmittel](0002-06.md)
+- [§ 2.07 Anker](0002-07.md)
+- [§ 2.08 Zusätzliche Ausrüstung](0002-08.md)
+- [§ 2.09 Landeklappen](0002-09.md)
+
+#### Unterkapitel 2 Kahn- und Kahnseilfähren
+
+- [§ 2.10 Allgemeines](0002-10.md)
+- [§ 2.11 Fährkörper](0002-11.md)
+- [§ 2.12 Nachweis der Intakt- und Leckstabilität](0002-12.md)
+- [§ 2.13 Ausrüstung](0002-13.md)
+
+### Kapitel 3 Zusätzliche Anforderungen an seilgebundene oder kettengebundene Fähren
 
 - [§ 3.01 Begriffsbestimmungen](0003-01.md)
-- [§ 3.02 Nachweis der Intaktstabilität für Gierseilfähren](0003-02.md)
+- [§ 3.02 Nachweis der Intakt- und Leckstabilität für seilgebundene oder kettengebundene Fähren](0003-02.md)
 - [§ 3.03 Einsenkungsmarken](0003-03.md)
 - [§ 3.04 Berechnung und Konstruktion der Seil- und Kettenanlagen](0003-04.md)
 - [§ 3.05 Prüfung](0003-05.md)
@@ -73,7 +84,4 @@
 ### Kapitel 8 Abweichungen
 
 - [§ 8.01 Abweichungen hinsichtlich Zulassung](0008-01.md)
-- [Anlage 1 Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang II § 3.04](anlage-1.md)
-- [Anlage A zur Anlage 1 des Anhangs IIErmittlung der Seilkräfte](anlage-a.md)
-- [Anlage B zur Anlage 1 des Anhangs IIQuerwiderstandsbeiwert](anlage-b.md)
-- [Anlage 2 Berechnungsgrundlagen für Gierfähren, die nicht an einer Hochseilanlage befestigt sind, sowie für Querseilfähren (Kahnseilfähren, Seilfähren und Kettenfähren) zu Anhang II § 3.04](anlage-2.md)
+- [Anlage B (zur Anlage 1 des Anhangs II) (weggefallen)](anlage-b.md)

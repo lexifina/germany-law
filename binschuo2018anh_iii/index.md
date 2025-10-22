@@ -77,4 +77,4 @@
 
 - [§ 11.01 Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind](0011-01.md)
 - [§ 11.02 Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind](0011-02.md)
-- [Anlage 1 Anforderungen an Kompasse und Steuerkurstransmitter](anlage-1.md)
+- [Anlage Anforderungen an Kompasse und Steuerkurstransmitter](anlage.md)

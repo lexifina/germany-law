@@ -5,25 +5,33 @@ Fähren
 Kapitel 1
 Sondervorschriften für Fähren, Allgemeines
 | §§ |  |
-| 1.01 | Begriffsbestimmungen |
-| 1.02 | Allgemeines |
+| 1.01 | Anzuwendende Vorschriften |
+| 1.02 | Begriffsbestimmungen |
 | 1.03 | Fährzeugnis |
 | 1.04 | Kennzeichnung der Fähren |
 Kapitel 2
 Bau, Einrichtung und Ausrüstung von Fähren
-| 2.01 | Fährkörper |
-| 2.02 | Nachweis der Intakt- und Leckstabilität |
-| 2.03 | Einsenkungsmarken |
-| 2.04 | Festigkeit des Wagendecks |
-| 2.05 | Rettungsmittel |
-| 2.06 | Anker |
-| 2.07 | Zusätzliche Ausrüstung |
-| 2.08 | Landeklappen |
+Unterkapitel 1
+Fähren, die keine Kahn- und Kahnseilfähren sind
+| 2.01 | Allgemeines |
+| 2.02 | Fährkörper |
+| 2.03 | Nachweis der Intakt- und Leckstabilität |
+| 2.04 | Einsenkungsmarken |
+| 2.05 | Festigkeit des Wagendecks |
+| 2.06 | Rettungsmittel |
+| 2.07 | Anker |
+| 2.08 | Zusätzliche Ausrüstung |
+| 2.09 | Landeklappen |
+Unterkapitel 2
+Kahn- und Kahnseilfähren
+| 2.10 | Allgemeines |
+| 2.11 | Fährkörper |
+| 2.12 | Nachweis der Intakt- und Leckstabilität |
+| 2.13 | Ausrüstung |
 Kapitel 3
-Zusätzliche Anforderungen
-an seil- und kettengebundene Fähren
+Zusätzliche Anforderungen an seilgebundene oder kettengebundene Fähren
 | 3.01 | Begriffsbestimmungen |
-| 3.02 | Nachweis der Intaktstabilität für Gierseilfähren |
+| 3.02 | Nachweis der Intakt- und Leckstabilität für seilgebundene oder kettengebundene Fähren |
 | 3.03 | Einsenkungsmarken |
 | 3.04 | Berechnung und Konstruktion der Seil- und Kettenanlagen |
 | 3.05 | Prüfung |
@@ -62,5 +70,5 @@ Abweichungen
 Kapitel 8
 Abweichungen
 | 8.01 | Abweichungen hinsichtlich Zulassung |
-| Anlage 1 | Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang II § 3.04 Anlage A: Ermittlung der Seilkräfte Anlage B: Querwiderstandsbeiwert |
-| Anlage 2 | Berechnungsgrundlagen für Gierfähren, die nicht an einer Hochseilanlage befestigt sind, sowie für Querseilfähren (Kahnseilfähren, Seilfähren und Kettenfähren) zu Anhang II § 3.04 |
+| Anlage 1 | (weggefallen) |
+| Anlage 2 | (weggefallen) |

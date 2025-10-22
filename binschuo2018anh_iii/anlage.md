@@ -1,4 +1,4 @@
-# Anlage 1 Anforderungen an Kompasse und Steuerkurstransmitter
+# Anlage Anforderungen an Kompasse und Steuerkurstransmitter
 
 Inhaltsverzeichnis
 Teil 1
