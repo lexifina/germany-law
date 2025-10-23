@@ -1,7 +1,7 @@
 # Anlage 6 (zu § 9 Abs. 2 Nr. 2)Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
-Fundstelle des Originaltextes: BGBl. I 2003, 2533;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle des Originaltextes: BGBl. I 2003, 2533;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 1. Bestehen einer Haftpflichtversicherung
 2. Länge <= 15 m
 3. Höchstgeschwindigkeit begrenzt auf 12 km/h im stillen Wasser, wobei eine ausreichende Manövrierfähigkeit erhalten bleiben muss und eine Untermotorisierung nicht eintreten darf

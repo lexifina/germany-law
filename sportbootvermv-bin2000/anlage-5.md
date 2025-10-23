@@ -7,7 +7,6 @@
 | 2.2 | Oranienburger Havel | 0,13 | 3,91 |  |
 | 2.3 | Finowkanal | 89,30 (Schleuse Liepe) | 57,10 (Untertor Schleuse Zerpenschleuse) | Querung der Havel-Oder-Wasserstraße nur, wenn auf der Havel-Oder-Wasserstraße kein Fahrzeug in Sicht ist |
 | 2.4 | Werbelliner Gewässer | 2,73 | 19,80 | Querung der Havel-Oder-Wasserstraße nur, wenn auf der Havel-Oder-Wasserstraße kein Fahrzeug in Sicht ist |
-| 2.5 | (weggefallen) |  |  |  |
 | 3 | Lahn | 70 | 137,07 (Hafen Lahnstein) |  |
 | 4 | Müritz-Elde-Wasserstraße (MEW) |
 | 4.1 | MEW | 0,95 (Schleuse Dömitz) | 121 (Beginn Plauer See) |  |

@@ -1,7 +1,7 @@
 # Anlage 2 (zu § 5 Abs. 1 Nr. 2)
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587:
-bzgl. der einzelnen Änderungen vgl Fußnote
+(Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587;
+bzgl. der einzelnen Änderungen vgl Fußnote)
 Abnahmeprotokoll
 gemäß § 5 Abs. 1 Nr. 2 der Binnenschifffahrt-Sportbootvermietungsverordnung
 für Sportboote
