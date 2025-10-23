@@ -4,5 +4,5 @@
 - [§ 1 Fortschreibung für das Jahr 2025](0001.md)
 - [§ 2 Ergänzung der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch](0002.md)
 - [§ 3 Ergänzung der Anlage zu § 34 des Zwölften Buches Sozialgesetzbuch](0003.md)
-- [§ 4 Inkrafttreten, Außerkrafttreten](0004.md)
+- [§ 4 Außerkrafttreten der Regelbedarfsstufen-Fortschreibungsverordnung 2025](0004.md)
 - [Schlussformel](schlussformel.md)
