@@ -1,0 +1,109 @@
+---
+ecli: "ECLI:DE:BVerwG:2025:231025B1WB52.24.0"
+court: "Bundesverwaltungsgericht"
+aktenzeichen: "1 WB 52.24"
+decided: "2025-10-23"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/WBRE202500743.xml"
+neuris_doknr: "WBRE202500743"
+---
+
+# Bundesverwaltungsgericht, 1 WB 52.24 vom 2025-10-23
+
+## Tenor
+
+Der Antrag wird zurückgewiesen.
+
+## Tatbestand
+
+1 Der Antragsteller wendet sich gegen die Feststellung eines Sicherheitsrisikos im Rahmen seiner erweiterten Sicherheitsüberprüfung (Ü2).
+
+2 Zuvor war im August 2018 die Aktualisierung der Sicherheitsüberprüfung des Antragstellers eingeleitet worden. Mit Schreiben vom 25. Januar 2022 wurde der Antragsteller vom Geheimschutzbeauftragten des Streitkräfteamtes (im Folgenden: Geheimschutzbeauftragter) zu Umständen angehört, die geeignet seien, ein Sicherheitsrisiko zu begründen. Er sei 2015 wegen fahrlässiger Trunkenheit im Straßenverkehr verurteilt worden. Im Juni 2021 sei ein gerichtliches Disziplinarverfahren gegen ihn eingeleitet worden unter anderem wegen des Besitzes von Merchandise-Artikeln einer als gesichert rechtsextrem eingestuften Band und eines Tattoos des Logos dieser Band auf der Schulter.
+
+3 Aus den genannten Umständen folgten Zweifel an der Zuverlässigkeit des Antragstellers im Sinne von § 5 Abs. 1 Satz 1 Nr. 1 SÜG. Auch folgten daraus tatsächliche Anhaltspunkte für Zweifel am Bekenntnis zur freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes oder am jederzeitigen Eintreten für deren Einhaltung im Sinne von § 5 Abs. 1 Satz 1 Nr. 3 SÜG.
+
+4 Mit Urteil vom 15. August 2023 verurteilte das Truppendienstgericht Nord den Antragsteller wegen eines Dienstvergehens. Seine Dienstbezüge wurden um 1/20 für die Dauer von 12 Monaten gekürzt. Zwar habe nicht festgestellt werden können, dass der Antragsteller eine verfassungsfeindliche Gesinnung habe und damit die freiheitliche demokratische Grundordnung nicht anerkenne. Er habe jedoch gegen die Verpflichtung zum Eintreten für die freiheitliche demokratische Grundordnung verstoßen.
+
+5 Dem Antragsteller sei vorwerfbar, dass er hätte erkennen können und müssen, dass sich die Band "Kategorie C" spätestens im Jahr 2014 dem Extremismus zugewandt habe und als Bindeglied zwischen der Hooligan-Szene und der extremistischen Szene angesehen werde. Er habe dennoch weiterhin Musik und Merchandising-Artikel der Band gekauft und mit dem als extremistisch geltenden Bandsänger im Rahmen einer zufälligen Begegnung auf einer Raststätte für ein Foto posiert und dieses gespeichert. Durch das Erwecken des Anscheins, sich nicht in der von ihm zu verlangenden Weise eindeutig von verfassungsfeindlichen Gruppierungen zu distanzieren, habe er auch seine Wohlverhaltenspflicht verletzt.
+
+6 In seiner persönlichen Anhörung beim Geheimschutzbeauftragten am 9. Januar 2024 gab der Antragsteller an, seinen Führerschein am 2. Weihnachtstag 2023 wieder verloren zu haben. Es sei bei einer Autofahrt ein Atemalkoholwert von 1,1 Promille festgestellt worden.
+
+7 Mit Entscheidung vom 9. Februar 2024 stellte der Geheimschutzbeauftragte fest, dass die Sicherheitsüberprüfung des Antragstellers Umstände ergeben habe, die ein Sicherheitsrisiko darstellten. Eine Wiederholungsprüfung könne bei Bedarf nach Ablauf von fünf Jahren beauftragt werden.
+
+8 Ausweislich der Entscheidungsgründe sei ein Sicherheitsrisiko gemäß § 5 Abs. 1 Satz 1 Nr. 1 und 3 SÜG festzustellen. Beim Antragsteller sei ein gestörtes Verhältnis zur Rechtsordnung erkennbar. Dies ergebe sich aus dem Urteil des Truppendienstgerichts, der Verurteilung im Jahr 2015 sowie der erneuten Alkoholfahrt im Jahr 2023. Zwar liege die erste Alkoholfahrt bereits länger zurück. Sie sei jedoch insofern relevant, als es sich beim Antragsteller um einen Wiederholungstäter handle, was auf ein generelles Charakterdefizit schließen lasse. Sowohl das vom Truppendienstgericht abgeurteilte Verhalten als auch die aktuelle trunkenheitsbedingte Auffälligkeit zeugten von einer mangelnden Bereitschaft, sich durchgängig an Recht und Gesetz zu halten.
+
+9 Es sei zudem ein Sicherheitsrisiko nach § 5 Abs. 1 Satz 1 Nr. 3 SÜG festzustellen, weil Zweifel am Bekenntnis des Antragstellers zur freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bestünden. Laut Urteil des Truppendienstgerichts habe der Antragsteller gegen seine Pflicht, aktiv für die freiwillige demokratische Grundordnung einzutreten, verstoßen.
+
+10 Im Rahmen der negativen Prognose sei zu berücksichtigen, dass der Antragsteller im Betrachtungszeitraum sowohl straf- als auch disziplinarrechtlich in Erscheinung getreten sei. Die vom Antragsteller in der persönlichen Anhörung offenbarte Trunkenheitsfahrt liege gerade einmal etwa sechs Wochen zurück. Erschwerend hinzu komme hinzu, dass sie sich während des laufenden Sicherheitsüberprüfungsverfahrens ereignet habe. Selbst dieses habe den Antragsteller nicht zu einem durchgängig ordnungsgemäßen Verhalten motiviert.
+
+11 Darüber hinaus könne gegenwärtig noch nicht abschließend beurteilt werden, ob die Abkehr von der Musikgruppe "Kategorie C" endgültig sei. Momentan könne noch nicht gesichert bewertet werden, ob beim Antragsteller auch unabhängig von den Belastungen des Disziplinar- und Sicherheitsüberprüfungsverfahrens tatsächlich eine nachhaltige und dauerhafte Verhaltensänderung erfolgt sei, die ein künftig uneingeschränkt rollenkonformes Handeln und die Annahme eines jederzeitigen Eintretens für die freiheitlich demokratische Grundordnung erwarten lasse. Unter Berücksichtigung sämtlicher Umstände sei es nicht angemessen, vorzeitig eine Wiederholungsüberprüfung zuzulassen.
+
+12 Mit Schreiben vom 9. Februar 2024 wurde dem Antragsteller die Feststellung eines Sicherheitsrisikos mitgeteilt. Aufgrund seiner strafrechtlichen Auffälligkeit im Jahr 2023 und seiner vom Truppendienstgericht Nord disziplinar gewürdigten, jahrelangen Affinität zu der als rechtsextrem eingestuften Musikgruppe "Kategorie C" bestünden derzeit noch Zweifel an seiner Zuverlässigkeit und seinem jederzeitigen Eintreten für die freiheitliche demokratische Grundordnung.
+
+13 Am 23. Februar 2024 legte der Antragsteller Beschwerde gegen die Entscheidung des Geheimschutzbeauftragten ein. Zur Begründung trug er vor, dass Verstöße gegen Strafgesetze, die keinen unmittelbaren Bezug zur sicherheitsempfindlichen Tätigkeit aufweisen, nur dann ein Sicherheitsrisiko begründen könnten, sofern sie ein gestörtes Verhältnis zur Rechtsordnung erkennen ließen. Die Trunkenheitsfahrten seien fahrlässig begangen worden. Fahrlässiges Verhalten lasse den Schluss auf ein gestörtes Verhältnis zur Rechtsordnung nur zu, wenn die betroffene Person auch im Übrigen nachlässig sei oder wiederholte Verstöße vorlägen. Das sei hier nicht der Fall. Die Verurteilung aus dem Jahr 2015 liege deutlich außerhalb des fünfjährigen Betrachtungszeitraums und dürfe nicht mehr berücksichtigt werden. Die zweite Trunkenheitsfahrt für sich genommen könne keine Zuverlässigkeitszweifel begründen. Auch allein die fahrlässige Dienstpflichtverletzung lasse den Schluss auf ein gestörtes Verhältnis zur Rechtsordnung nicht zu.
+
+14 Zudem lägen keine berechtigten Zweifel am Bekenntnis des Antragstellers zur freiheitlichen demokratischen Grundordnung vor. Der bloße Erwerb von Merchandise-Artikeln sowie das Posieren für ein Foto mit dem Sänger einer als rechtsextrem eingestuften Musikgruppe genügten hierfür nicht. Auch sei nicht ermittelt worden, ob die Gruppe den deutschen Staat, seine verfassungsmäßigen Organe und die geltende Verfassungsordnung angreife, bekämpfe und diffamierte. Eine Einzelfallprüfung, ob der Antragsteller trotz eines gewissen Kontakts zu einer verfassungsfeindlichen Organisation deren Ziele aber nicht verinnerlicht habe, sei dem bisherigen Verwaltungsvorgang nicht zu entnehmen.
+
+15 Am 17. Oktober 2024 stellte der Antragsteller einen Antrag auf gerichtliche Entscheidung, weil über die Beschwerde nicht innerhalb eines Monats entschieden worden sei. Das Bundesministerium der Verteidigung hat den Antrag mit einer Stellungnahme vom 4. November 2024 dem Senat vorgelegt.
+
+16 Es sei nach Auffassung des Antragstellers schon nicht dargelegt, weshalb die vom Geheimschutzbeauftragten angenommenen Zweifel an der Zuverlässigkeit bei der Wahrnehmung einer sicherheitsempfindlichen Tätigkeit gerade im Hinblick auf die von ihm auszuübende sicherheitsempfindliche Tätigkeit vorliegen sollten.
+
+17 Er beantragt,
+
+festzustellen, dass die Feststellung eines Sicherheitsrisikos des Geheimschutzbeauftragten des Streitkräfteamtes vom 9. Februar 2024 rechtswidrig ist,
+
+hilfsweise,
+
+den Bescheid des Geheimschutzbeauftragten des Streitkräfteamtes vom 9. Februar 2024 aufzuheben.
+
+18 Das Bundesministerium der Verteidigung beantragt,
+
+den Antrag zurückzuweisen.
+
+19 Die Feststellung eines Sicherheitsrisikos sei rechtmäßig. Beim Antragsteller bestünden Zweifel an der Zuverlässigkeit sowie am Bekenntnis zur freiheitlichen demokratischen Grundordnung. Insoweit wiederholt es den Vortrag aus dem Beschwerdeverfahren.
+
+20 Sowohl das vom Truppendienstgericht abgeurteilte Verhalten als auch die aktuelle trunkenheitsbedingte Auffälligkeit zeugten von einer mangelnden Bereitschaft, sich durchgängig an Recht und Gesetz zu halten, was wiederum einen schwerwiegenden Charaktermangel indiziere. Der Dienstherr müsse sich bei einer in sicherheitsempfindlicher Stellung eingesetzten Person jederzeit auf deren volle Integrität und Bereitschaft zu regelbasierten Verhalten verlassen können.
+
+21 Auch aus der fahrlässigen Begehung von Straftaten und Dienstvergehen sei das Ableiten von Zweifeln an der Zuverlässigkeit im Sinne des § 5 Abs. 1 Satz 1 Nr. 1 SÜG möglich. Zudem habe das Truppendienstgericht das Verhalten des Antragstellers nur teilweise als fahrlässig bewertet.
+
+22 Zweifel am Bekenntnis des Antragstellers zur fraglichen demokratischen Grundordnung ergäben sich aus dem durch das Truppendienstgericht bindend festgestellten Verstoß gegen die soldatische Pflicht aus § 8 SG.
+
+23 Hinsichtlich der Prognose wiederholt und vertieft das Bundesministerium der Verteidigung die Argumentation des Geheimschutzbeauftragten. Weitere Umstände, die nachträglich zu einer Verkürzung der Wirkungsdauer oder gar zu einer Auflagenentscheidung hätten führen können, seien nicht ersichtlich.
+
+24 Die Dienstzeit des ... geborenen Antragstellers hat mit Ablauf des 31. Dezember 2024 geendet. Eine von ihm begehrte Dienstzeitverlängerung wurde vom Bundesamt für das Personalmanagement der Bundeswehr abgelehnt. Der Antrag auf verwaltungsgerichtlichen Eilrechtsschutz blieb erfolglos.
+
+25 Im Januar 2025 hat der Antragsteller sich erfolglos um Wiedereinstellung beworben. Über den gegen die Ablehnung gerichteten Widerspruch hat das Bundesamt für das Personalmanagement der Bundeswehr noch nicht entschieden. Bedarf für eine Verwendung des Antragstellers als Reservist besteht nach Angaben des Bundesministeriums der Verteidigung nicht.
+
+26 Wegen der weiteren Einzelheiten des Sachverhalts wird auf den Inhalt der Akten Bezug genommen. Die Beschwerdeakte des Bundesministeriums der Verteidigung und die Personalgrundakte des Antragstellers haben dem Senat bei der Beratung vorgelegen.
+
+## Entscheidungsgründe
+
+27 Der Antrag auf gerichtliche Entscheidung hat keinen Erfolg.
+
+28 1. Der Hauptantrag ist unzulässig. Nach der gemäß § 23a Abs. 2 WBO im Wehrbeschwerdeverfahren entsprechend anwendbaren Subsidiaritätsklausel des § 43 Abs. 2 Satz 1 VwGO (vgl. BVerwG, Beschluss vom 21. Juli 2021 - 1 WB 3.21 - juris Rn. 16) kann eine Feststellung nicht begehrt werden, soweit der Kläger seine Rechte durch Gestaltungs- oder Leistungsklage verfolgen kann oder hätte verfolgen können. So liegt der Fall hier. Die Feststellung eines Sicherheitsrisikos gemäß § 14 Abs. 3 Satz 1 SÜG kann durch einen Antrag auf gerichtliche Entscheidung vor den Wehrdienstgerichten mit dem Ziel der Aufhebung des entsprechenden Bescheides angefochten werden (stRspr, vgl. zuletzt BVerwG, Beschluss vom 26. Juni 2025 - 1 WB 4.25 - juris Rn. 17 f. m. w. N.).
+
+29 2. Der hilfsweise gestellte Anfechtungsantrag ist jedenfalls unbegründet. Die Feststellung eines Sicherheitsrisikos in dem Bescheid des Geheimschutzbeauftragten ist rechtmäßig und verletzt den Antragsteller nicht in seinen Rechten.
+
+30 a) Maßgeblich für die gerichtliche Kontrolle ist die Sach- und Rechtslage im Zeitpunkt der Vorlage des Antrags (stRspr, vgl. z. B. BVerwG, Beschluss vom 11. März 2008 - 1 WB 37.07 - BVerwGE 130, 291 Rn. 35). Bis zu diesem Zeitpunkt können in Ergänzung der Entscheidung des Geheimschutzbeauftragten und mit dessen Zustimmung tatsächliche Anhaltspunkte für das Vorliegen eines Sicherheitsrisikos, einschließlich der dabei zu treffenden Prognose, in das Verfahren eingeführt werden (stRspr, vgl. BVerwG, Beschlüsse vom 27. September 2007 - 1 WDS-VR 7.07 - juris Rn. 23, vom 30. Januar 2014 - 1 WB 47.13 - juris Rn. 29 und vom 17. April 2019 - 1 WB 3.19 - juris Rn. 22).
+
+31 b) Die Überprüfung von Angehörigen der Bundeswehr auf Sicherheitsbedenken ist eine vorbeugende Maßnahme, die Sicherheitsrisiken nach Möglichkeit ausschließen soll (stRspr, vgl. z. B. BVerwG, Beschluss vom 11. März 2008 - 1 WB 37.07 - BVerwGE 130, 291 Rn. 23 m. w. N.). Dabei obliegt es der zuständigen Stelle, aufgrund einer an diesem Zweck der Sicherheitsüberprüfung orientierten Gesamtwürdigung des Einzelfalls die ihr übermittelten Erkenntnisse im Hinblick auf die vorgesehene Tätigkeit zu bewerten (§ 3 Abs. 1 Satz 1 Nr. 1, § 14 Abs. 3 Satz 1 und 2 SÜG).
+
+32 Dem Geheimschutzbeauftragten steht bei der Entscheidung, ob in der Person eines Soldaten ein Sicherheitsrisiko festzustellen ist, ein gerichtlich nur eingeschränkt überprüfbarer Beurteilungsspielraum zu. Die gerichtliche Kontrolle beschränkt sich darauf, ob der Geheimschutzbeauftragte von einem unrichtigen Sachverhalt ausgegangen ist, den anzuwendenden Begriff oder den gesetzlichen Rahmen, in dem er sich frei bewegen kann, verkannt, allgemeingültige Wertmaßstäbe nicht beachtet, sachfremde Erwägungen angestellt oder gegen Verfahrensvorschriften verstoßen hat (stRspr, z. B. BVerwG, Beschluss vom 21. Juli 2011 - 1 WB 12.11 - BVerwGE 140, 384 Rn. 24 ff. m. w. N.).
+
+33 Wegen der präventiven Funktion der Sicherheitsüberprüfung und wegen des hohen Ranges der zu schützenden Rechtsgüter liegt ein Sicherheitsrisiko bereits dann vor, wenn tatsächliche Anhaltspunkte für einen der Tatbestände des § 5 Abs. 1 Satz 1 Nr. 1 bis 3 SÜG bestehen. Dabei hat im Zweifel das Sicherheitsinteresse Vorrang vor anderen Belangen (§ 14 Abs. 3 Satz 3 SÜG). Die Feststellung eines Sicherheitsrisikos, die zugleich eine Prognose über die künftige Zuverlässigkeit und Integrität des Soldaten darstellt, darf sich jedoch nicht auf eine vage Vermutung oder eine rein abstrakte Besorgnis stützen. Dabei gibt es keine "Beweislast", weder für den Soldaten dahingehend, dass er die Sicherheitsinteressen der Bundeswehr bisher gewahrt hat und künftig wahren wird, noch für die zuständige Stelle, dass der Soldat diesen Erwartungen nicht gerecht geworden ist oder ihnen künftig nicht gerecht werden wird (stRspr, z. B. BVerwG, Beschluss vom 30. Mai 2012 - 1 WB 58.11 - juris Rn. 30; vgl. auch BVerfG, Beschluss vom 22. Mai 1975 - 2 BvL 13/73 - BVerfGE 39, 334 <353>).
+
+34 c) Nach diesen Maßstäben ist die Feststellung eines Sicherheitsrisikos durch den zuständigen Geheimschutzbeauftragten beim Streitkräfteamt (§ 3 Abs. 1 Satz 2 SÜG i. V. m. Nr. 2418 der Zentralen Dienstvorschrift "Militärische Sicherheit/Personeller Geheim- und Sabotageschutz" A-1130/3 <ZdV A-1130/3>) rechtmäßig. Dieser durfte davon ausgehen, dass im Hinblick auf den Antragsteller ein Sicherheitsrisiko im Sinne von § 5 Abs. 1 Satz 1 Nr. 1 SÜG vorliegt, weil tatsächliche Anhaltspunkte Zweifel an der Zuverlässigkeit des Antragstellers bei der Wahrnehmung einer sicherheitsempfindlichen Tätigkeit begründen. Da die diesbezüglichen Erwägungen die Feststellung eines Sicherheitsrisikos selbstständig tragen, kann dahinstehen, ob im Hinblick auf den Antragsteller tatsächliche Anhaltspunkte für Zweifel an dessen Bekenntnis zur freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes oder am jederzeitigen Eintreten für deren Einhaltung bestehen (§ 5 Abs. 1 Satz 1 Nr. 3 SÜG).
+
+35 aa) Nach ständiger Rechtsprechung des Senats können sich tatsächliche Anhaltspunkte, die Zweifel an der Zuverlässigkeit im Sinne des § 5 Abs. 1 Satz 1 Nr. 1 SÜG begründen, unter anderem daraus ergeben, dass der Betroffene eine Straftat oder ein Dienstvergehen begangen hat, die - ggf. auch ohne speziellen Bezug zu Geheimhaltungsvorschriften oder zur dienstlichen Tätigkeit - ein gestörtes Verhältnis zur Rechtsordnung erkennen lassen (vgl. BVerwG, Beschluss vom 28. September 2017 - 1 WB 29.16 - juris Rn. 36 m. w. N.).
+
+36 Es ist demgemäß nicht zu beanstanden, dass der Geheimschutzbeauftragte zunächst das wehrdisziplinarrechtlich sanktionierte Fehlverhalten des Antragstellers sowie die im Rahmen der persönlichen Anhörung eingeräumte weitere Straftat als Grundlage für die Feststellung eines Sicherheitsrisikos aufgegriffen hat. Dem steht auch nicht entgegen, dass es sich hinsichtlich des Dienstvergehens um eine erst- oder einmalige Verfehlung handelt (stRspr, vgl. z. B. BVerwG, Beschluss vom 21. Juli 2010 - 1 WB 68.09 - NZWehrr 2010, 254 S. 255).
+
+37 Ohne Rechtsfehler hat der Geheimschutzbeauftragte das bei der persönlichen Anhörung eingeräumte Verhalten des Antragstellers in Form einer Trunkenheitsfahrt mit 1,1 Promille als ein ernstzunehmendes sicherheitsrelevantes Fehlverhalten gewertet. Bei einer entsprechenden Blutalkoholkonzentration greift im Strafrecht eine unwiderlegliche Vermutung der absoluten Fahruntüchtigkeit (vgl. nur Kudlich, in: BeckOK StGB, Stand 1. August 2025, § 315c Rn. 19). Das Führen von Kraftfahrzeugen im öffentlichen Straßenverkehr mit einer derart hohen Atemalkoholkonzentration lässt auf ein mangelndes Verantwortungsbewusstsein schließen (vgl. BVerwG, Beschlüsse vom 20. Januar 2009 - 1 WB 22.08 - Rn. 28 und vom 21. Oktober 2010 - 1 WB 16.10 - juris Rn. 39). Der Antragsteller hat nicht vorgetragen, dass das zum Zeitpunkt der persönlichen Anhörung noch ausstehende Ergebnis der Blutalkoholuntersuchung einen geringeren Promillewert ergeben hätte.
+
+38 Selbst dann, wenn - wie im vorliegenden Fall - ein derartiges Fehlverhalten im außerdienstlichen Bereich erfolgt, lässt die Art und Weise, wie ein Soldat am Straßenverkehr teilnimmt, Rückschlüsse auf sein Verantwortungsbewusstsein, seine charakterliche Zuverlässigkeit und seine moralisch-persönliche Integrität zu. Auch die von einem Soldaten fahrlässig begangene außerdienstliche Trunkenheitsfahrt, durch die jedenfalls abstrakt Leib und Leben anderer Verkehrsteilnehmer gefährdet werden, stellt ein nicht leichtzunehmendes Fehlverhalten dar (vgl. BVerwG, Beschluss vom 21. Juli 2011 - 1 WB 12.11 - BVerwGE 140, 384 Rn. 41). Auch wenn ein Dienstvergehen oder eine Straftat "nur" fahrlässig begangen ist, kann darin ein von der Rechtsordnung missbilligtes Verhalten liegen, das die Annahme eines gestörten Verhältnisses zur Rechtsordnung begründet.
+
+39 Der Geheimschutzbeauftragte durfte für die Annahme eines gestörten Verhältnisses des Antragstellers zur Rechtsordnung auch die Trunkenheitsfahrt des Antragstellers im Jahr 2015 in seine Bewertungen einbeziehen und insoweit zu dem Schluss kommen, dass der Antragsteller als Wiederholungstäter anzusehen ist. Nach § 12 Abs. 6 Satz 1 SÜG erstreckt sich die Überprüfung in der Regel auf den Zeitraum der letzten fünf Jahre. Dadurch soll die Berücksichtigung von länger als fünf Jahre zurückliegenden sicherheitserheblichen Erkenntnissen jedoch nicht prinzipiell ausgeschlossen werden (vgl. BR-Drs. 789/16 S. 63; BVerwG, Beschluss vom 30. Januar 2025 - 1 WB 7.24 - NVwZ 2025, 931 Rn. 55 m. w. N.). Dies entspricht auch dem präventiven Zweck des Sicherheitsüberprüfungsverfahrens, in der Vergangenheit erkannte Risiken für die Zukunft auszuschließen (vgl. BVerwG, Beschluss vom 25. September 2025 - 1 WB 15.24 - juris Rn. 26). Im vorliegenden Fall war eine Berücksichtigung jedenfalls deshalb zulässig, weil der Antragsteller in jüngerer Zeit ein vergleichbares Verhalten an den Tag gelegt hat und somit als Wiederholungstäter anzusehen ist.
+
+40 bb) Rechtlich unbedenklich ist auch, dass der Geheimschutzbeauftragte isoliert aus diesem Verhalten des Antragstellers prognostisch auf Zweifel an der Zuverlässigkeit des Antragstellers geschlossen hat. Er durfte jedenfalls aufgrund der Kombination einer aktuellen erneuten Trunkenheitsfahrt mit dem 2023 rechtskräftig festgestellten Dienstvergehen darauf schließen, dass der Antragsteller sich für eine sicherheitsempfindliche Verwendung auch zukünftig nicht ausreichend rechtstreu verhalten wird. Zurecht verweist er auch darauf, dass der Antragsteller die erneute Trunkenheitsfahrt während des laufenden Sicherheitsüberprüfungsverfahrens und im unmittelbaren zeitlichen Zusammenhang mit dem Termin der persönlichen Anhörung unternahm.
+
+41 Angesichts dessen durfte der Geheimschutzbeauftragte seinen Prognosespielraum in Richtung einer negativen Prognose ausüben. Konkrete und praktikable Möglichkeiten, statt der Feststellung eines Sicherheitsrisikos lediglich Auflagen, Einschränkungen oder personenbezogene Sicherheitshinweise festzusetzen oder dem vorliegenden Sicherheitsrisiko durch Fürsorgemaßnahmen zu begegnen, sind weder vom Antragsteller aufgezeigt (vgl. BVerwG, Beschluss vom 29. Juni 2023 - 1 WB 29.22 - juris Rn. 50) noch sonst ersichtlich. Es ist daher nicht zu beanstanden, dass der Geheimschutzbeauftragte dem Sicherheitsinteresse Vorrang eingeräumt hat (§ 14 Abs. 3 Satz 3 SÜG). Dass der Geheimschutzbeauftragte angesichts des kurzen Zeitablaufs jedenfalls seit der erneuten Trunkenheitsfahrt den Zeitraum für die Zulässigkeit einer Wiederholungsprüfung nicht verkürzt hat ist ebenfalls nicht zu beanstanden.
