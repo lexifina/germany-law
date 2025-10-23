@@ -1,0 +1,52 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze) (39. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2025-10-23T19:07:00+02:00
+- Ende: 2025-10-23T20:30:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZZayjvoOpaM1wBPChsLonOk
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/2719
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVtRh2EDAYuxDnXJVi4lKwxH2a5zK5Hcd0T3wvqIxzG8/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_23.10.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSG-iDGEOdedYGg_dTGD0C27pOJvu0xgGpo11HCCHi3h/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_23.10.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Neufassung der Friedhofsordnung und der Friedhofsgebührensatzung der Kreisstadt Homberg (Efze) Hier: Beratung und Beschlussfassung
+- TOP 1.1: Neufassung der Friedhofsordnung und der Friedhofsgebührensatzung der Kreisstadt Homberg (Efze) Hier: Beratung und Beschlussfassung
+- TOP 1.2: Neufassung der Friedhofsordnung und der Friedhofsgebührensatzung der Kreisstadt Homberg (Efze) Hier: Beratung und Beschlussfassung - 31 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 2.: Straßensanierungskonzept hier: Beratung und Beschlussfassung zum weiteren Vorgehen
+- TOP 2.1: Straßensanierungskonzept hier: Beratung und Beschlussfassung zum weiteren Vorgehen - 31 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 3.: Entwicklung Holzhäuser Straße 14 + 16 Hier: Beratung und Beschlussfassung zum weiteren Vorgehen
+- TOP 3.1: Entwicklung Holzhäuser Straße 14 + 16 Hier: Beratung und Beschlussfassung zum weiteren Vorgehen - 13 Ja-Stimme(n), 18 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Ehemalige Wäschefabrik im Stadtteil Hülsa Hier: Beratung und Beschlussfassung über einen möglichen Ankauf
+- TOP 4.1: Ehemalige Wäschefabrik im Stadtteil Hülsa Hier: Beratung und Beschlussfassung über einen möglichen Ankauf - 31 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Entwicklung ehemaliges Klinikareal an der Melsunger Straße hier: Beratung und Beschlussfassung zu den geplanten Abbruchmaßnahmen - 20 Ja-Stimme(n), 7 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 6.: Heimatkundliches Archiv bzw. Stadtarchiv Hier: Zwischenbericht zur Prüfung des Standorts Obertorstraße 1
+- TOP 7.: Klärung der Rahmenbedingungen für ein gesamtstädtisches Konzept für Freiflächen-PV-Anlagen
+- TOP 7.1: Klärung der Rahmenbedingungen für ein gesamtstädtisches Konzept für Freiflächen-PV-Anlagen - 31 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Beratung und Beschlussfassung über den Erwerb eines Gebäudes in der Untergasse im Rahmen der Zwangsversteigerung - 13 Ja-Stimme(n), 17 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 9.: Entwicklung Mikroquartier Rosenthal + Zaubergarten hier: Beratung und Beschlussfassung zum weiteren Vorgehen
+- TOP 9.1: Entwicklung Mikroquartier Rosenthal + Zaubergarten hier: Beratung und Beschlussfassung zum weiteren Vorgehen - 13 Ja-Stimme(n), 16 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 10.: Kommunale Wärmeplanung Hier: Beratung und Beschlussfassung über die Teilnahme am Förderprogramm KfW 432 – Energetische Stadtsanierung
+- TOP 10.1: Kommunale Wärmeplanung Hier: Beratung und Beschlussfassung über die Teilnahme am Förderprogramm KfW 432 – Energetische Stadtsanierung - 31 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Förderprogramm „Zukunft Innenstadt 2025“ hier: Beratung und Beschlussfassung über die Teilnahme am dritten Förderaufruf (2025) - 30 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 12.: Sachstandsberichte und sonstige Informationen
+- TOP 12.1: Neukonzeption Stützpunktfeuerwehr und Feuerwehrhaus Holzhausen Hier: Sachstandsbericht zur Interimslösung für die Feuerwehr Holzhausen
+- TOP 12.2: Aufwertung Freibad „Erleborn“ Hier: Sachstandsbericht
+- TOP 12.3: Sanierung Stadion A-Platz hier: Sachstand - Stadion A-Platz und Multifunktionsgebäude
+- TOP 12.4: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht zur Umsetzung der Projekte aus dem ISEK
+- TOP 12.5: Dorfentwicklung Homberg (Efze) hier: Öffentliche Projekte und Förderung privater Bauvorhaben
+- TOP 12.6: Entwicklung ehemaliges Klinikareal an der Melsunger Straße Hier: Sachstandsbericht
+- TOP 12.7: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier „An der Mauer / Hospitalstraße“ hier: Sachstandsbericht
+- TOP 12.8: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 13.: Anträge
+- TOP 13.1: Antrag der CDU-Fraktion vom 08.10.2025 betr. Erstellung eines Social-Media-Nutzungskonzepts und Durchführung einer Datenschutzfolgenabschätzung - 18 Ja-Stimme(n), 0 Gegenstimme(n), 13 Stimmenthaltung(en)
+- TOP 14.: Anfragen
+- TOP 14.1: Anfrage der CDU-Fraktion vom 08.10.2025 betr. Befristung der Verordnung über die Beförderungsentgelte und Beförderungsbedingungen für den Verkehr mit Taxen bis zum 30. November 2024
+- TOP 14.2: Anfrage der CDU-Fraktion vom 08.10.2025 betr. Mögliche Nachnutzung der Immobilie Untergasse 16 (ehem. Golden Moments)
+- TOP 14.3: Anfrage der CDU-Fraktion vom 09.10.2025 betr. Sachstand "Kulturzentrum Krone"
+- TOP 15.: Anregungen
