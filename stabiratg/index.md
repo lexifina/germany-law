@@ -6,6 +6,6 @@
 - [§ 4 Prüfung einer drohenden Haushaltsnotlage](0004.md)
 - [§ 5 Sanierungsverfahren](0005.md)
 - [§ 6 Überwachung der Einhaltung der grundgesetzlichen Verschuldungsregel](0006.md)
-- [§ 7 Überwachung der Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes](0007.md)
+- [§ 7 Stellungnahme zur Festlegung des Nettoausgabenpfades und Überwachung der Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades](0007.md)
 - [§ 8 Unabhängiger Beirat des Stabilitätsrates](0008.md)
 - [§ 9 Veröffentlichung der Beschlüsse und Unterrichtung der Parlamente](0009.md)
