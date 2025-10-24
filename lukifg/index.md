@@ -1,0 +1,14 @@
+# Gesetz zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel und Volumen der finanziellen Unterstützung des Bundes](0001.md)
+- [§ 2 Verteilung](0002.md)
+- [§ 3 Förderbereiche und Fördervoraussetzungen](0003.md)
+- [§ 4 Förderzeitraum](0004.md)
+- [§ 5 Sicherstellung der zweckentsprechenden Mittelverwendung](0005.md)
+- [§ 6 Berichtspflichten der Länder](0006.md)
+- [§ 7 Bewirtschaftung](0007.md)
+- [§ 8 Rückforderung](0008.md)
+- [§ 9 Verwaltungsvereinbarung und Durchführung des Gesetzes seitens des Bundes](0009.md)
+- [§ 10 Außerkrafttreten](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
