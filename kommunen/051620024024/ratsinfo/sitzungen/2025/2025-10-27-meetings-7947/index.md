@@ -1,0 +1,14 @@
+# Ratsfraktion DIE LINKE/Tierschutz
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-10-27T19:05:00+01:00
+- Ende: 2025-10-27T20:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/253
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7947
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7947
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
