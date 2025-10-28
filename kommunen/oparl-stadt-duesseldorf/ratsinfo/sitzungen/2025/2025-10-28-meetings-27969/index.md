@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-10-28T17:00:00+01:00
+- Ende: 2025-10-28T19:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27969
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27969
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 30. September 2025 - öffentlicher Teil - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Vorstellung der Planungen zur Messehalle 9 - mündlicher Bericht durch die Messe Düsseldorf GmbH - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Flächennutzungsplanänderung Nr. 205 (Entwurf) - Dreiecksparkplatz Kaiserswerth - Stellungnahmen, Planbeschluss - Empfehlung einstimmig beschlossen
+- TOP 9: Weihnachtsmarkt Kaiserswerther Markt 04.12. - 07.12.2025 - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 10: Feuerwerke im Stadtbezirk 5 - Finanzierung und mögliche Alternativen - beantwortet
+- TOP 11: Klimaanpassung und Baumpflanzungen im neu gestalteten Abschnitt der Alten Landstraße 239, 241, 243 - vertagt
+- TOP 12: Schloss Kalkum: Was hat die Stadt Düsseldorf getan, um einen weiteren Leerstand zu verhindern? - beantwortet
+- TOP 13: Baden am Rhein – Alternativen schaffen zum Baden im Rhein - beantwortet
+- TOP 14: Dringend notwendige Verkehrsregelung im Bereich der internationalen Schule - beantwortet
+- TOP -: Neue Anfragen
+- TOP 15: Riesige Baumstämme am Rheinufer in Kaiserswerth könnten die untere Hochwasserschutzmauer beschädigen - beantwortet
+- TOP 16: E-Lademöglichkeiten am Rheinbad - vertagt
+- TOP 17: Erneuerung der Versorgungsleitungen in Kalkum-Unterdorf: Wie lange noch? - beantwortet
+- TOP 18: Verbesserung im Stadtbild am Kreisverkehr Niederrheinstraße / An Sankt Swidbert - beantwortet
+- TOP 19: Gefährliche Kurve auf der Straße Am Schwarzbach vor dem Hof mit der Hausnummer 20 - vertagt
+- TOP 20: Den Standort der Glascontainer auf der Bockumer Straße überprüfen. - beantwortet
+- TOP 21: Baustellenmanagement der Düsseldorf in einer Stadt mit großen Messen und internationalen Leitmessen - vertagt
+- TOP 22: Wird die Fähre, die Meerbusch und Kaiserswerth verbindet, weiter betrieben werden nach dem Jahr 2025? - beantwortet
+- TOP 23: Rheinfähre Kaiserswerth – Meerbusch: Folgen einer eventuellen Betriebseinstellung - beantwortet
+- TOP -: Anträge
+- TOP 24: Aufstellung eines Bücherschranks in Wittlaer - einstimmig beschlossen
+- TOP 25: Toilettenhäuschen an der Burgallee in benutzbaren Zustand erhalten! - einstimmig beschlossen
+- TOP 26: Verkehrssituation am Sandweg entschärfen. Lösungen zeitnah erarbeiten, vorstellen und umsetzen! - einstimmig beschlossen
+- TOP 27: Schnelle Wiedererrichtung eines Kletterwaldes auf dem Spielplatz im Lanz`schen Park - einstimmig beschlossen
+- TOP 28: Ortstermin zum schadhaften Pflaster in der Edmund-Bertrams-Straße - abweichend beschlossen
+- TOP 29: Ein Kaiserswerther Markt für alle – Verbindliche Regeln für die Anordnung und Gestaltung der Außengastronomie! - mehrheitlich beschlossen
+- TOP 30: Bank nördlich des Ankers entfernen! - mehrheitlich beschlossen
+- TOP -: Informationsvorlage
+- TOP 31: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Verschiedenes
