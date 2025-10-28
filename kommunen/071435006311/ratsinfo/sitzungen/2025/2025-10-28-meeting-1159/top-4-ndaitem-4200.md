@@ -1,0 +1,7 @@
+# TOP 4.: Geänderte Planunterlagen und Offenlagebeschluss zum Bebauungsplan „Wakenfeld III“ mit Änderung des Flächennutzungsplans (FNP)
+
+- Sitzung: Bauausschuss (23. Sitzung) (2025-10-28)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/4200
+- Ergebnis: (kein Text vorhanden)
