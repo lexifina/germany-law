@@ -1,0 +1,99 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-10-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352400
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352400
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 30.09.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Bedarf und Angebote der pflegerischen Versorgung in Berg am Laim - vertagt aus der Plenumssitzung vom 30.09.2025 -
+- TOP 2.1.1: Bedarf und Angebote der pflegerischen Versorgung in Berg am Laim; Schreiben des Sozialreferats zum Beschluss des BA 14 aus der Sitzung vom 24.06.2025 - vertagt aus der Plenumssitzung vom 30.09.2025 -
+- TOP 2.2.: (E) Schaffung von Fahrradübergängen entlang des Verlaufs des Hachinger Bachs
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: St.-Veit-Str. 6 - Nachverdichtung Wohnanlage Aufstockungen mit 2 Geschossen und 88 Wohneinheiten und Neubauerweiterung Wohnheim mit 77 Wohneinheiten (St.-Veit-Str. 6-8 / Sankt-Veit-Str. 13-23)- VORBESCHEID
+- TOP 3.1.2.: St.-Veit-Str. 4 - ÄNDERUNGSANTRAG zu 1.1-2025-8190-32 - Timber Living - Errichtung eines Holzhybridbaus mit Wohnungen, KiTa, Einzelhandel und Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.3.: Haager Str. 4 - Neubau eines Gewerbehofs und Technologiezentrums mit Gastronomie und Mittelgarage im Untergeschoss- VORBESCHEID
+- TOP 3.1.4.: Nadelbaum an der Baumkirchner Straße 18 pflanzen; Antrag aus dem UA Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.5.: Sitzgelegenheit an der Echardinger Kapelle wieder errichten; Antrag aus dem UA Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.6.: Verbesserung der Sauberkeit im öffentlichen Raum und an Haltestellen im Stadtbezirk 14; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Vogelschutz an Glasflächen städtischer Gebäude im Stadtbezirk Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.1.8.: Sperlingsbrutplätze aufstellen; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.1.9.: Mähen öffentlicher Grünanlagen nur bis Mitte September; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Abstimmung neues Radverkehrsnetz für München; Anhörung des Mobilitätreferats, Frist bis zum 30.10.2025 - vertagt aus der Plenumssitzung vom 30.09.2025 - Netz für sicheres Radfahren im Grünen in Berg am Laim (Standard IR V), Antrag der Grünen-Fraktion
+- TOP 3.2.2.: Aufstellfläche für den Radverkehr in der oberen Riedgaustraße; Antrag der Grünen-Fraktion
+- TOP 3.2.3.: Friedenstraße bei Baustellen zweispurig befahrbar halten; Antrag der CSU-Fraktion
+- TOP 3.2.4.: Hermann-Weinhauser-Straße: Was ist mit dem eingefärbten Fahrbahnbelag passiert?; Antrag der CSU-Fraktion
+- TOP 3.2.5.: Erhöhung der Verkehrssicherheit an der Ecke Josephsburgstraße/Echardinger Straße durch Versetzen einer Litfaßsäule; Antrag der CSU-Fraktion
+- TOP 3.2.6.: Hermann-Weinhauser-Straße: Verkehrsdaten mit TOPO-Box erheben; Antrag der CSU-Fraktion
+- TOP 3.2.7.: Zusätzlicher Abstellplatz für E-Roller in der Langkofelstr.; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.8.: Zusätzliche Fahrradständer in der Langkofelstraße; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Vorschläge aus dem „Politik vor der Haustür“ an der Mittelschule am Echardinger Grünstreifen; Anliegen aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Ökumenische St.-Martins-Feier mit Umzug am 09.11.2025 562,50 €; Az. 0262.0-14-0473
+- TOP 3.5.2.: (E) Stadtbezirksbudget VdK Bayern e. V. Ortsverein Berg am Laim Tagesausflug in die Wildschönau am 17.10.2025 533,50 €; Az. 0262.0-14-0474
+- TOP 3.5.3.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 Kinogang in der Weihnachtszeit 2025 am 18.12.2025 1.356,00 €; Az. 0262.0-14-0475
+- TOP 3.5.4.: Kommunalwahl am 8. März 2026: Einteilung der Stimmbezirke und Wahlräume; Anhörung des Kreisverwaltungsreferats, Frist bis 24.11.2025
+- TOP 3.5.5.: Antrag für die Reservierung aus der Verwaltungskostenpauschale für die Gedenkveranstaltung "Deportierte Juden aus Berg am Laim" am 11.11.2025
+- TOP 3.5.6.: Antrag für die Reservierung aus der Verwaltungskostenpauschale für den Weihnachtsbaum am Grünen Markt
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: St.-Veit-Str. 6
+- TOP 3.6.2.: St.-Veit-Str. 4
+- TOP 3.6.3.: Haager Str. 4
+- TOP 3.6.4.: Großvenedigerstr. 43
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten September 2025
+- TOP 4.1.2.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 4.1.3.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 4.1.4.: Urbaner Waldgarten - Sachstand Patenschaftsvereinbarung
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Aufstellung von Verkehrszeichen
+- TOP 4.2.2.: U-Bahn-Abgang Michaelibad: Fahrrad- in e-Scooter-Stellplätze umwandeln
+- TOP 4.2.3.: Arbeitsstelle im Straßenraum: - Hochriesstr. 5-7 - Eibenstockstr. 9
+- TOP 4.2.4.: Kanalsanierungsmaßnahme „Au-Haidhausen, Berg-am-Laim, Ramersdorf-Perlach“ in den Inspektionsgebieten 1059-08 und 1059-27
+- TOP 4.2.5.: Information der SWM über Baustellen: Hansjakobstraße - Stromprojekt
+- TOP 4.2.6.: Hermann-Weinhauser-Straße 44 - Querungsstelle: Beidseitige Markierung von vorgezogenen Seitenflächen mit Leitsäulen-Sicherung und Abweisblende in Parkbuch
+- TOP 4.2.7.: Schulwegsicherheit an der Grundschule St.-Veit-Straße 46 - Ortstermin am 08.10.2025
+- TOP 4.2.8.: Abstimmung neues Radverkehrsnetz für München - IR IV (Radverkehrsverbindungen) - Stellungnahme des BA 15 -
+- TOP 4.2.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.10.: Einrichtung eines personenbezogenen Sonderparkplatzes iür Menschen mit Schwerbehinderung im Bereich Wildenwarter Strm Bereich Wildenwarter Str.
+- TOP 4.2.11.: Ampfingstr. 45-47 (Westseite): Verlängerung bestehendes absolutes Haltverbot (Z. 283 StVO) wegen neuer Rad-Aufstellfläche zum Queren
+- TOP 4.2.12.: Aufstellung des Gefahrzeichen "Kinder" in der Englmannstr. 1 und Levelingstr.
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand: 30.06.2025
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.4.1: Antrag zur Durchführung eines Hoodtrainings ab Sommer 2026; Antrag des Unterausschusses Soziales
+- TOP 3.4.1.: Antrag zur Durchführung eines Hoodtrainings ab Sommer 2026; Antrag des Unterausschusses Soziales
+- TOP 1.1.2.: Nachtrag TOP 2.3: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Dingolfinger Straße
+- TOP 2.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Dingolfinger Straße
