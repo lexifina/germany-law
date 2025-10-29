@@ -1,0 +1,182 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2025-10-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8647916
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8647916
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 0.: Gäste im Unterausschuss
+- TOP 0.1.: Schülerinnen des Sophie-Scholl-Gymnasiums
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Ackermannbogen e.V. / KulturBüro Förderung von Senior:innenprojekte vom 01.09. - 31.12.2025 1.695,00 Euro, Az.: 0262.0-4-0591
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Größere Aschenbecher an den Eingängen zur Berufsschule am Elisabethplatz 4
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Initiative „Info-Fest für Senior*innen“ für das Info-Fest für Senior*innen am 18.06.2025
+- TOP 3.2.2.: Haus am Schuttberg e.V. für ein Hood Training vom 01.07.2024 bis 30.06.2025
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Erhalt der Palliativstation München-Klinik Schwabing München Klinik gGmbH (MüK)
+- TOP 3.3.2.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Aktuelle Informationen zur REGSAM-Schwerpunktarbeit 2025
+- TOP C: Bauen und Wohnen
+- TOP 0.: Gäste im Unterausschuss
+- TOP 0.1.: Bauherr zur Nachfolge des ehemaligen Karstadt-Geländes
+- TOP 0.2.: Unternehmer zum Bauvorhaben Theo-Prosel-Weg 12 und 14
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: BA-Mitglied: Antrag auf Prüfung einer SoBoN bei den Bauprojekten Theo-Prosel-Weg 12 und 14
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Borschtallee 30: Neubau eines Gebäudes mit Tiefgarage (Var. 1) – VORBESCHEID
+- TOP 2.2.: Borschtallee 30: Neubau eines Gebäudes mit Tiefgarage (Var. 2) - VORBESCHEID
+- TOP 2.3.: Borschtallee 30: Neubau eines Gebäudes mit Tiefgarage (Var. 3) - VORBESCHEID
+- TOP 2.4.: Kathi-Kobus-Str. 9: Nutzungsänderung des Sportcenters: im EG zu Büro, im KG zu Lager- und Fahrradabstellfläche
+- TOP 2.5.: Theo-Prosel-Weg 12: Neubau Studentenwohnheim (47 Betten) mit gemeinsamer Tiefgarage - mit Mobilitätskonzept
+- TOP 2.6.: Theo-Prosel-Weg 14: Neubau eines Studentenwohnheims (35 WE) mit Tiefgarage - mit Mobilitätskonzept
+- TOP 2.7.: Heßstr. 132: Nutzungsänderung: Reithalle zu Proben-, Lesungs-, Ausstellung- und Theaterhalle
+- TOP 2.8.: Kurfürstenstr. 24: Nutzungsänderung Rückgebäude von Werkstatt in Probebühne für die Schauburg mit Werkraum / Büro, Lager, Umkleide und Aufenthaltsraum
+- TOP 2.9.: Schleißheimer Str. 93: Neubau eines Wohn- und Bürogebäudes mit Gastronomie, Läden, KITA sowie einer dreigeschossigen Tiefgarage - VORBESCHEID
+- TOP 2.10.: Petuelring 129: ABBRUCH- der Europcar Filiale
+- TOP 2.11.: Elisabethstr. 8: Neubau eines angebauten Hinterhauses durch Abbruch einer Garage und Gartenhauses - VORBESCHEID
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Wohnverhältnisse in der Tengstraße 25 (Antwortschreiben des Sozialreferats auf weitergeleitetes Bürgerinnenanliegen; vgl. TOP C 1.1 09/25)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Baulisten Erstanträge KW 37 bis KW 39 und Vorbescheide KW 37 bis KW 41
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Sanierung und Umbau von Haus 9/45 im Klinikgelände Schwabing, Kölner Platz 1, im 4. Stadtbezirk Schwabing-West (Eilentscheidung)
+- TOP D: Mobilität und Verkehr
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Anwohnerzone Schwabing Nord schaffen
+- TOP 1.2.: Bürgerin: Verkehrssituation Tengstraße
+- TOP 1.3.: Bürger: Verkehrs- und Parksituation Bayernplatz
+- TOP 1.4.: Bürger: Baustelle Hohenzollernstraße 27
+- TOP 1.5.: Seniorenvertretung: Nachrüstung von überdachten Sitzplätzen an Tram - und Bushaltestelle Scheidplatz Süd (Vorschlag 1)
+- TOP 1.6.: Seniorenvertretung: Nachrüstung von Dynamischen Fahrgastinformationsanzeigen an den Tram- und Bushaltestellen Scheidplatz Süd und Kölner Platz (Vorschlag 2)
+- TOP 1.7.: Bürger: Zeitlich eingeschränktes Halteverbot für 4 KFZ in der James-Loeb-Str. Ostseite gegenüber der Hausnummer 11-13
+- TOP 1.8.: Bürger: Erweiterung einer genehmigten Ladezone um das StVO Zeichen 299
+- TOP 1.9.: Bürger: Beschwerde und Schadensmeldung – Poller an Kreuzung Clemensstraße/ Fallmerayerstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Konsequente Überwachung der absoluten Halteverbote in den Nebenstraßen
+- TOP 2.2.: Vorwärts-Parken Bonner Straße (Anhörung zum Antwortschreiben des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen; vgl. TOP D 1.2 05/25)
+- TOP 2.3.: (E) Sicherheit für die Rad- und Autofahrenden in der Hornstraße
+- TOP 2.4.: (E) Fußweg Bamberger Straße
+- TOP 2.5.: (E) Was täten die Radfahrer ohne den Bürgersteig
+- TOP 2.6.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Schleißheimer Straße 199 (Anhörung zur verkehrsrechtlichen Anordnung)
+- TOP 2.7.: Überdachte Fahrradstellplätze an der U-Bahn-Station Petuelring (Anhörung zur Vorabinformation)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: E-Scooter /E-Roller-Abstellplätze in der Rümannstraße (Antwortschreiben des Mobilitätsreferats auf weitergeleitetes Bürgerinnenanliegen; vgl. TOP D 1.4 06/25)
+- TOP 3.1.2.: Parkverbot Ackermannstraße (Antwortschreiben des Mobilitätsreferats auf das Schreiben eines Bürgers)
+- TOP 3.1.3.: Versetzen der Dialogdisplays vor die Grundschule Infanteriestraße
+- TOP 3.1.4.: Parksituation in der Karl-Theodor-Straße (Antwortschreiben des Baureferats auf das Schreiben eines Bürgers)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze in der Tengstraße 31
+- TOP 3.2.2.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze in der Kurfürstenstraße 45
+- TOP 3.2.3.: Aufhebung der Abstellfläche für Mikromobilitätsfahrzeuge in der Angererstraße
+- TOP 3.2.4.: Reines Bewohnerparken in der Mainzer Straße
+- TOP 3.2.5.: Änderung der Beschilderung für die Ladezone in der Belgradstraße 64
+- TOP 3.2.6.: Austausch Verkehrsschild am Kurfürstenplatz
+- TOP 3.2.7.: Verkehrliche Maßnahmen nach Umbau entsprechend Münchner Radentscheid in der Rheinstraße
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Neuverlegung Hausanschluss Fernwärme in der Ainmillerstr. 38
+- TOP 3.3.2.: Arbeitsstelle im Straßenraum vom 06.10.2025 bis 31.10.2025 in der Kathi-Kobus-Str. 30
+- TOP 3.3.3.: Baumpflanzung im Straßenraum in der Viktor-Scheffel-Straße
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Baustellenbedingte Fahrplan- und Linienwegsänderungen auf den U-Bahnlinien U1 und U2 von Oktober 2025 bis März 2026
+- TOP 3.5.2.: Reduzierung der Pkw-Stellplätze in der Ranke- und Emanuelstraße
+- TOP 3.5.3.: Instandhaltungs- und Modernisierungsmaßnahmen am U-Bahnhof Hohenzollernplatz
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Lautes Kirchenläuten in der Hiltenspergerstraße 115
+- TOP 1.2.: Bürgerin: Bedenken bezüglich der Erweiterung des Ensembles Olympiapark
+- TOP 1.3.: Bürger*innen: Einwand zur geplanten Errichtung einer öffentlichen Toilette am Hohenzollernplatz (vgl. TOP E 1.1 09/25, E 1.8 08/25 und E 1.1 06/25)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Clemensstr. 88: Antrag auf Fällung einer serbischen Fichte
+- TOP 2.1.2.: Bauerstr. 15: Antrag auf Fällung eines Bergahorns
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Müllproblem in der Keuslinstraße/ Bedarf für Fahrradabstellmöglichkeiten (Antwortschreiben des Baureferats auf Schreiben des BA)
+- TOP 2.2.2.: (E) Wann werden endlich die unsäglichen Container am Elisabethplatz entfernt
+- TOP 2.2.3.: Projektaufruf zum Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln“
+- TOP 2.2.4.: (E) Grünfläche vor dem Stadtarchiv für Bewegungssport nutzen
+- TOP 2.2.5.: (E) Einsatz eines kleinen Müllfahrzeugs in der Keuslinstraße zwischen Zentner- und Schleißheimer Straße
+- TOP 2.2.6.: Erweiterung des Ensembles Olympiapark (Anhörung der Bezirksausschüsse)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Kaputter Bauzaun am Spielplatz Winzererstraße/Ecke Elisabethstraße (Antwortschreiben des Mobilitätsreferats auf das Schreiben einer Bürgerin)
+- TOP 3.1.2.: Kleidercontainer Ecke Elisabeth-/Tengstraße (Antwortschreiben des AWM auf das Schreiben einer Bürgerin)
+- TOP 3.1.3.: Schnittgut Helmut-Fischer-Platz (Antwortschreiben des Baureferats auf eine Frage aus dem BA; vgl. TOP A 3.1 09/25)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällung eines Silberahorns am Hauptzugang der Kita in der Farinellistraße 5
+- TOP 3.2.2.: Fällung einer schwedischen Mehlbeere in der Rümannstraße 60
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Kanalnetz Sanierung des Hauptsammelkanals Oberwiesenfeld Abschnitt zwischen Waisenhausstraße/Klugstraße und Knoten 3 (Abschnitt West) sowie Abschnitt zwischen Schleißheimer Straße und Leopoldstraße (Abschnitt Ost) Projektgenehmigung
+- TOP 3.3.2.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 3.3.3.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Bäume statt PKWs in Ranke- und Emanuelstraße
+- TOP 3.4.2.: Sicherung des Mobilfunkstandortes Kraepelinstraße 43
+- TOP F: Kultur und Wirtschaft
+- TOP 0.: Gäste im Unterausschuss
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: BA-Mitglied: Mieterhöhungen im Kreativquartier
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget CVJM München e.V. Theaterstück: "the Soul in the machine vom 28-29.09.2025 3.000,00€; 0262.0-4-0598
+- TOP 2.1.2.: (E) Stadtbezirksbudget Initiative "coincidence revealed" coincidence revealed - aufgedeckter Zufall? vom 04.01. - 11.01.2026 1.275,00 Euro, Az.: 0262.0-4-0600
+- TOP 2.1.3.: (E) Stadtbezirksbudget Svapinga Consort e.V. Konzert "Der Kantor und die Prinzessin" vom 14. - 16.11.2025 1.777,50 Euro, Az.: 0262.0-4-0602
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Münchner Suitwalk am 01.11.2025 im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: Initiative „Common Ground“ für Common Ground, Haus2 Fassade vom 01.05.2025 – 14.05.2025
+- TOP 3.2.2.: Initiative „Akoma Jam“ für das Akoma Jam am 27.06.2025 bzw. 28.06.2025
+- TOP 3.2.3.: Haus2 e.V. für das Offene Atelierhaus vom 05.11.2024 bis 31.12.2024
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Dreharbeiten am 30.09.2025 und am 01.10.2025 in der Leopoldstraße bzw. Hohenzollernstraße sowie am Elisabethplatz
+- TOP 3.3.2.: Filmaufnahmen für eine Werbeproduktion am 21.10.2025 im Luitpoldpark
+- TOP 3.3.3.: Werbeproduktion am 22.10.2025 in der Arcisstraße
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft Franz-Joseph-Str. 30
+- TOP 3.4.2.: Schank- und Speisewirtschaft Belgradstr. 27
+- TOP 3.4.3.: Abgabe von Getränken und Speisen in einer Sauna Schleißheimer Straße 182
+- TOP 3.4.4.: Schank- und Speisewirtschaft Franz-Joseph-Str. 48
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Tag der Zivilcourage am 19.09.2025 in der Bonner Str. 2
+- TOP 3.5.2.: Spätsommerfest am 19.09.2025 am Elisabethplatz
+- TOP 3.5.3.: Verwunderland am 12.10.2025 im Petuelpark
+- TOP 3.5.4.: VerWunderLand am 16.10.2025 am Hohenzollernplatz
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Nachbarschaftsfest am 25.10.2025 in der Agnesstraße (Eilentscheidung)
+- TOP 3.7.2.: VerWunderLand am 16.10.2025 am Hohenzollernplatz; vgl. TOP F 2.3.5 08/25 (Eilentscheidung)
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Quartalsübersicht III/2025 des Stadtbezirksbudgets für den BA 4
+- TOP G.2.: Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 4 für die Kommunalwahl 2026 (Anhörung der Bezirksausschüsse)
+- TOP H: Termine
+- TOP 2.1.4.: Finanzierung der Eigenveranstaltung des BA 4 im Rahmen des IKG-Programms "Gedenkveranstaltungen anlässlich des 87. Jahrestages vom 9. November 1938" aus dem Budget für eigene Veranstaltungen (Gedenkveranstaltung am 20.11.2025 um 19 Uhr in der Pfarrkirche St. Ursula)
