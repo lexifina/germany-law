@@ -76,8 +76,10 @@ Zulässigkeit von Vorhaben
 | § 33 | Zulässigkeit von Vorhaben während der Planaufstellung |
 | § 34 | Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile |
 | § 35 | Bauen im Außenbereich |
-| § 36 | Beteiligung der Gemeinde und der höheren Verwaltungsbehörde |
+| § 36 | Einvernehmen der Gemeinde und Zustimmung der höheren Verwaltungsbehörde |
+| § 36a | Zustimmung der Gemeinde |
 | § 37 | Bauliche Maßnahmen des Bundes und der Länder |
+| § 37a | Außenbereichsvorhaben zur Herstellung oder Lagerung von Produkten zur Landesverteidigung |
 | § 38 | Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen |
 Zweiter Abschnitt
 Entschädigung
@@ -352,6 +354,7 @@ Planerhaltung
 | § 215 | Frist für die Geltendmachung der Verletzung von Vorschriften |
 | § 215a | Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung |
 | § 216 | Aufgaben im Genehmigungsverfahren |
+| § 216a | Unwirksamkeit von Bebauungsplänen mit Abweichungen von der Technischen Anleitung zum Schutz gegen Lärm |
 Dritter Teil
 Verfahren vor den
 Kammern (Senaten) für Baulandsachen
@@ -401,6 +404,7 @@ Schlussvorschriften
 | § 246b | Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie |
 | § 246c | Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung |
 | § 246d | Sonderregelungen für Biogasanlagen |
+| § 246e | Befristete Sonderregelung für den Wohnungsbau |
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
 | § 249 | Sonderregelungen für Windenergieanlagen an Land |

@@ -82,8 +82,10 @@
 - [§ 33 Zulässigkeit von Vorhaben während der Planaufstellung](0033.md)
 - [§ 34 Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile](0034.md)
 - [§ 35 Bauen im Außenbereich](0035.md)
-- [§ 36 Beteiligung der Gemeinde und der höheren Verwaltungsbehörde](0036.md)
+- [§ 36 Einvernehmen der Gemeinde und Zustimmung der höheren Verwaltungsbehörde](0036.md)
+- [§ 36a Zustimmung der Gemeinde](0036a.md)
 - [§ 37 Bauliche Maßnahmen des Bundes und der Länder](0037.md)
+- [§ 37a Außenbereichsvorhaben zur Herstellung oder Lagerung von Produkten zur Landesverteidigung](0037a.md)
 - [§ 38 Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen](0038.md)
 
 #### Zweiter Abschnitt Entschädigung
@@ -391,6 +393,7 @@
 - [§ 215 Frist für die Geltendmachung der Verletzung von Vorschriften](0215.md)
 - [§ 215a Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung](0215a.md)
 - [§ 216 Aufgaben im Genehmigungsverfahren](0216.md)
+- [§ 216a Unwirksamkeit von Bebauungsplänen mit Abweichungen von der Technischen Anleitung zum Schutz gegen Lärm](0216a.md)
 
 ### Dritter Teil Verfahren vor den Kammern (Senaten) für Baulandsachen
 
@@ -443,6 +446,7 @@
 - [§ 246b Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie](0246b.md)
 - [§ 246c Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung](0246c.md)
 - [§ 246d Sonderregelungen für Biogasanlagen](0246d.md)
+- [§ 246e Befristete Sonderregelung für den Wohnungsbau](0246e.md)
 - [§ 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland](0247.md)
 - [§ 248 Sonderregelung zur sparsamen und effizienten Nutzung von Energie](0248.md)
 - [§ 249 Sonderregelungen für Windenergieanlagen an Land](0249.md)
