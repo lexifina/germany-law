@@ -1,0 +1,69 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-10-30T18:38:00+01:00
+- Ende: 2025-10-30T20:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3722
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3722
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00168591.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00168591.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00168591.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Mittelbereitstellungen
+- TOP 2.1: Bekanntmachung über- und außerplanmäßige Mittelbereitstellung im Jahr 2025 für den Jahresabschluss 2024 - Kenntnisnahme
+- TOP 2.2: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Januar bis September 2025 - Kenntnisnahme
+- TOP 2.3: Umbaumaßnahme Schlossstadion - überplanmäßige Mittelbereitstellung - einstimmig beschlossen
+- TOP 3: Neubesetzung der Delegiertenversammlung beim Erftverband - einstimmig beschlossen
+- TOP 4: Tätigkeitsbericht der Gleichstellungsstelle - Kenntnisnahme
+- TOP 5: Antrag auf Änderung des Regionalplans der Bezirksregierung Düsseldorf für den bisherigen ASB-GE Bereich der Straße „Am Hammerwerk" - mehrheitlich beschlossen
+- TOP 6: Aufstellung des Bebauungsplanes Nr. G 222 "August-Münker-Straße" – Ortsteil Allrath - einstimmig beschlossen
+- TOP 7: Aufnahme eines Baudenkmals in die Denkmalliste der Stadt Grevenbroich - Kenntnisnahme
+- TOP 8: Änderung der Satzung der Stadt Grevenbroich für die Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 9: Beratungspunkte Ausschüsse
+- TOP 9.1: Entscheidung über Beratungspunkte aus dem Betriebsausschuss Abwasseranlagen
+- TOP 9.1.1: Abwassergebührenkalkulation 2026 - mehrheitlich beschlossen
+- TOP 9.1.2: Wirtschaftsplan 2026 - einstimmig beschlossen
+- TOP 9.1.3: Beschluss über die Ergebnisabführung aus den Jahresabschlüssen 2021 und 2022 - einstimmig beschlossen
+- TOP 9.1.4: Erlass der 26. Änderungssatzung zur Entwässerungsgebührensatzung der Stadt Grevenbroich vom 05.12.1996 - mehrheitlich beschlossen
+- TOP 10: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 10.1: Digitalisierungsrendite - Teilaspekt Papierverbrauch in der Stadtverwaltung (Anfrage Nr.:89/2025) - Kenntnisnahme
+- TOP 10.2: Mobilitätsmanagement - von der Tagesordnung abgesetzt
+- TOP 10.3: Entwendete Einkaufswagen im Stadtgebiet (Antrag Nr.:141/2024) - Kenntnisnahme
+- TOP 10.4: Stadtweites Entsiegelungskonzept (Antrag Nr. 72/2025) - Kenntnisnahme
+- TOP 10.5: Änderung des Grundgesetzes / Auswirkungen des sogenannten „Infrastruktur-Sondervermögens“ auf die Stadt Grevenbroich (Antrag 32/2025) - Kenntnisnahme
+- TOP 11: Schriftliche Anträge
+- TOP 11.1: Anträge der SPD-Fraktion
+- TOP 11.2: Anträge der CDU-Fraktion
+- TOP 11.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 11.3.1: Durchgängige Bepflanzung der Lindenstraße mit Straßenbäumen (Antrag Nr.: 112/2025) - einstimmig beschlossen
+- TOP 11.3.2: Leitfaden für Straßenbegleitgrün (Antrag Nr.: 111/2025) - einstimmig beschlossen
+- TOP 11.3.3: Tempo 30 für Richard Wagner Straße (Antrag-Nr.: 110/2025) - einstimmig beschlossen
+- TOP 11.3.4: Rückbau von nicht mehr genutzten Fahrradwegen (Antrag Nr.: 109/2025) - einstimmig beschlossen
+- TOP 11.4: Anträge der FDP-Fraktion
+- TOP 11.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 11.5.1: Barrierefreie, akustische Ampelanlagen im Stadtgebiet (Antrag Nr.: 113/2025) - einstimmig beschlossen
+- TOP 11.6: Anträge der UWG-Fraktion
+- TOP 11.6.1: Beschattung auf Kinderspielplätzen (Antrag Nr.: 106/2025) - einstimmig beschlossen
+- TOP 11.6.2: Müllentsorgung in Gustorf auf der Kirchstraße (Antrag Nr.:107/2025) - einstimmig beschlossen
+- TOP 11.7: Anträge der GGV-Fraktion
+- TOP 11.8: Gemeinschaftsanträge
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der SPD-Fraktion
+- TOP 12.2: Anfragen der CDU-Fraktion
+- TOP 12.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 12.3.1: Dienstliche IPads an Schulen in städtischer Trägerschaft (Anfrage Nr.: 108/2025) - Kenntnisnahme
+- TOP 12.4: Anfragen der FDP-Fraktion
+- TOP 12.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 12.6: Anfragen der UWG-Fraktion
+- TOP 12.7: Anfragen der GGV-Fraktion
+- TOP 12.8: Gemeinschaftsanfragen
+- TOP 12.9: Anfragen von Einzelratsmitgliedern
+- TOP 13: Verabschiedung der ausscheidenden Ratsmitglieder zum Ende der 10. Wahlperiode
+- TOP 14: Mitteilungen des Bürgermeisters
