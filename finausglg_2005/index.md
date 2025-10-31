@@ -20,7 +20,6 @@
 ## Dritter Abschnitt Bundesergänzungszuweisungen
 
 - [§ 11 Bundesergänzungszuweisungen](0011.md)
-- [§ 11 Bundesergänzungszuweisungen](0011-2.md)
 
 ## Vierter Abschnitt Vollzug und Abrechnung der Umsatzsteuerverteilung, des Finanzkraftausgleichs und der Bundesergänzungszuweisungen
 
@@ -30,7 +29,6 @@
 - [§ 14 Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs](0014.md)
 - [§ 15 Endgültige Abrechnung der Umsatzsteuerverteilung und des Finanzkraftausgleichs](0015.md)
 - [§ 16 Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen](0016.md)
-- [§ 16 Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen](0016-2.md)
 - [§ 17 Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer](0017.md)
 - [§ 18 Berichts- und Auskunftspflichten](0018.md)
 - [§ 19 Vollzug und Abrechnung der Ausgleichsjahre vor dem 1. Januar 2020](0019.md)
