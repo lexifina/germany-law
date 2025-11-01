@@ -1,1 +1,1 @@
-# Verordnung über die elektronische Führung der Insolvenztabelle vom 18. September 2017
+# Bremische Verordnung über die maschinelle Führung und die elektronische Einreichung der Tabellen nach § 175 Absatz 1 der Insolvenzordnung vom 27. Oktober 2025

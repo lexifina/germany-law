@@ -1,2 +1,0 @@
-# Eingangsformel
-Aufgrund des § 5 Absatz 4 Satz 2 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 24 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung einer Ermächtigung im Bereich der elektronischen Führung der Tabellen und Verzeichnisse der Insolvenzordnung vom 29. August 2017 (BremGBl. S. 379) wird verordnet:
