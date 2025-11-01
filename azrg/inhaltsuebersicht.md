@@ -33,7 +33,7 @@
 |  | § 13 | Aufzeichnungspflicht bei Datenübermittlung |
 |  | § 14 | Datenübermittlung an alle öffentlichen Stellen |
 |  | § 15 | Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz |
-|  | § 15a | Automatisierte Datenübermittlung an Ausländerbehörden und das Bundesamt für Migration und Flüchtlinge |
+|  | § 15a | Automatisierte Datenübermittlung |
 |  | § 16 | Datenübermittlung an Gerichte |
 |  | § 17 | Datenübermittlung an das Zollkriminalamt |
 |  | § 17a | Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen |
@@ -42,9 +42,9 @@
 |  | § 18a | Datenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen |
 |  | § 18b | Datenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen |
 |  | § 18c | Datenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden |
-|  | § 18d | Datenübermittlung an die Jugendämter |
+|  | § 18d | Datenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen |
 |  | § 18e | Datenübermittlung an die Meldebehörden |
-|  | § 18f | Datenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit |
+|  | § 18f | Datenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit und die Familienkassen |
 |  | § 18g | Datenübermittlung an die Träger der Deutschen Rentenversicherung |
 |  | § 19 | Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden |
 |  | § 20 | Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst |

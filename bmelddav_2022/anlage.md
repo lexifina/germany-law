@@ -41,7 +41,7 @@
     In Thüringen bestehen Suchmöglichkeiten gemeindescharf und über ganz Thüringen ohne Angabe eines konkreten Gemeindeschlüssels unter Verwendung des Suchbereichs in der Anfragenachricht.
 4. Zu § 4
   a) Normalisierung von Zeichen
-    aa) Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0301 bis 0303, 0201 bis 0204, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+    aa) Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101a, 0301 bis 0303, 0201a, 0203a, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022)¹ normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
     bb) Beispiele
       | Familienname im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
       | Sœrensen (DSMeld-Blatt 0101a) | Hinweis: Im Folgenden wird angenommen, dass die phonetische Suche deaktiviert ist. |
@@ -50,16 +50,13 @@
       | Sœrensen | ja |
       | Sorensen | nein |
   b) Familiennamen
-    aa) In jeder Suchanfrage muss von der abrufenden Stelle ein vollständiger Familienname in korrekter Reihenfolge als Auswahldatum angegeben sein. Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld 0101 bis 0102, 0201 bis 0202, 0203 bis 0204, 0501 und 0502 gespeicherten Informationen zur Suche durch die Auskunft gebende Stelle herangezogen werden.
+    aa) In jeder Suchanfrage muss von der abrufenden Stelle ein vollständiger Familienname in korrekter Reihenfolge als Auswahldatum angegeben sein. Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld 0101a, 0201a, 0203a, 0501 und 0502 gespeicherten Informationen zur Suche durch die Auskunft gebende Stelle herangezogen werden.
     bb) Eine Person darf nur dann in das Suchergebnis eingehen, wenn der als Auswahldatum angegebene Familienname exakt mit folgenden Daten der Person im Melderegister übereinstimmt:
       aaa) dem Familiennamen – unstrukturiert – (DSMeld-Blatt 0101a, 1. oder 2. Periode) oder
-      bbb) dem Familiennamen (DSMeld-Blatt 0101) in Kombination mit den Namensbestandteilen des Familiennamens (DSMeld-Blatt 0102) (1. oder 2. Periode) oder
-      ccc) dem Geburtsnamen – unstrukturiert – (DSMeld-Blatt 0201a) oder
-      ddd) dem Geburtsnamen (DSMeld-Blatt 0201) in Kombination mit den Namensbestandteilen des Geburtsnamens (DSMeld-Blatt 0202) oder
-      eee) dem Familiennamen vor Änderung – unstrukturiert – (DSMeld-Blatt 0203a) oder
-      fff) dem Familiennamen vor Änderung (DSMeld-Blatt 0203) in Kombination mit den Namensbestandteilen des Familiennamens vor Änderung (DSMeld-Blatt 0204) oder
-      ggg) dem Ordensnamen (DSMeld-Blatt 0501) oder
-      hhh) dem Künstlernamen (DSMeld-Blatt 0502).
+      bbb) dem Geburtsnamen – unstrukturiert – (DSMeld-Blatt 0201a) oder
+      ccc) dem Familiennamen vor Änderung – unstrukturiert – (DSMeld-Blatt 0203a) oder
+      ddd) dem Ordensnamen (DSMeld-Blatt 0501) oder
+      eee) dem Künstlernamen (DSMeld-Blatt 0502).
     cc) Beispiele
       | Familienname im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
       | Graf von Neuenwalde | Graf | nein |
@@ -74,7 +71,7 @@
       | Graf von Elba | Graf | nein |
       | Graf Zahl | Graf von Neuenwalde | nein |
   c) Vornamen
-    aa) Vornamen werden vor der Normalisierung von Zeichen von der Auskunft gebenden Stelle über vorkommende Leerzeichen separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister nach DSMeld 0301 bis 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
+    aa) Vornamen werden vor der Normalisierung von Zeichen von der Auskunft gebenden Stelle über vorkommende Leerzeichen separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister nach DSMeld 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
     bb) Beispiele
       | Vornamen im Melderegister (DSMeld-Blatt 0301) | Vornamen in den Auswahldaten | Im Ergebnis enthalten? |
       | Hans Georg Arthur | Arthur | ja |
@@ -124,10 +121,10 @@
       |  | Müller Nancy | nein |
       | Nancy Michelle Müller | nein |
     ff) Beispiel für eine kombinierte Suche
-      Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert, in DSMeld-Feld 0101 der Wert „Dreier“ und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
+      Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
       Die abrufende Stelle sucht mit Vornamen „Jochen“ als Auswahldatum und mit Familiennamen „Graf“ als Auswahldatum.
-      Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301, 0302, 0303a, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
-      Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101, 0101a, 0102, 0201, 0201a, 0202, 0203, 0203a, 0204, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
+      Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
+      Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101a (1. oder 2. Periode), 0201a, 0203a, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
       In der Personensuche gilt im Vergleich zur freien Suche eine strengere Vorgabe zum Familiennamen. Hier muss der Familienname in den Auswahldaten exakt mit einem der oben genannten Felder (bzw. Feld-Kombinationen) übereinstimmen. Das Auswahldatum „Graf” stimmt jedoch mit dem gespeicherten Künstlernamen „Graf von Elba“ nicht überein.
       Ergebnis: In der Personensuche erhält man kein Ergebnis.
   e) Normalisierung von Straßennamen
@@ -211,7 +208,7 @@
   b) Die abrufende Stelle muss für die Auswahl einer Person aus einer Trefferliste nach § 6 oder Ergebnisliste nach § 8 das übermittelte Identifikationsmerkmal anstelle der fachlichen Personendaten zur Fortführung des Datenabrufs nutzen.
 6. Zu § 7
   a) Normalisierung von Zeichen
-    aa) Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0201 bis 0204, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+    aa) Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101a, 0201a, 0203a, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
     bb) Beispiele
       | Familienname im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
       | Sœrensen (DSMeld-Blatt 0101a) | Hinweis: Im Folgenden wird angenommen, dass die phonetische Suche deaktiviert ist. |
@@ -221,7 +218,7 @@
       | Sorensen | nein |
   b) Familienname
     aa) Familiennamen müssen von der Auskunft gebenden Stelle vor der Normalisierung von Zeichen über vorkommende Leerzeichen in einzelne Teile separiert werden. Eine Separierung über vorkommende Bindestriche darf nicht erfolgen.
-    bb) Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld-Blatt 0101 bis 0102 (1. oder 2. Periode), 0102, 0201 bis 0202, 0203 bis 0204, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden.
+    bb) Im Kontext des als Auswahldatum übermittelten Familiennamens müssen alle im Melderegister nach DSMeld-Blatt 0101a (1. oder 2. Periode), 0201a, 0203a, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden.
     cc) Zur erfolgreichen Identifikation einer Person in der Suche muss jeder einzelne in den Auswahldaten angegebene Teil des Familiennamens in der Menge der Teile des Familiennamens, den die Person im Melderegister besitzt, unabhängig von der Reihenfolge der Teile, vorhanden sein.
     dd) Beispiele
       | Familienname im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
@@ -242,7 +239,7 @@
       | Familienname im Melderegister/ Künstlername im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
       | von Neuenwalde/Graf Zahl | Graf von Neuenwalde | ja |
   c) Vornamen
-    aa) Vornamen werden vor der Normalisierung von Zeichen über vorkommende Leerzeichen von der Auskunft gebenden Stelle separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister gemäß DSMeld-Blatt 0301 bis 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
+    aa) Vornamen werden vor der Normalisierung von Zeichen über vorkommende Leerzeichen von der Auskunft gebenden Stelle separiert. Eine Separierung über vorkommende Bindestriche erfolgt nicht. Ein Bindestrich verbindet einzelne Vornamen somit zu einem Namen. Im Kontext der als Auswahldatum übermittelten Vornamen müssen alle im Melderegister gemäß DSMeld-Blatt 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 gespeicherten Informationen zur Suche herangezogen werden. Zur erfolgreichen Identifikation muss jeder einzelne in den Auswahldaten angegebene Vorname in der Menge der zur Person im Melderegister gespeicherten Vornamen vorhanden sein. Die Reihenfolge der Vornamen ist ohne Bedeutung.
     bb) Beispiele
       | Vornamen im Melderegister (DSMeld-Blatt 0301) | Vornamen in den Auswahldaten | Im Ergebnis enthalten? |
       | Hans Georg Arthur | Arthur | ja |
@@ -289,10 +286,10 @@
       | Müller Nancy | ja |
       | Nancy Michelle Müller | nein |
     ee) Beispiel für eine kombinierte Suche
-      Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert, in DSMeld-Feld 0101 der Wert „Dreier“ und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
+      Ausgangssituation: Im Melderegister ist ein Datensatz zu Jochen Dreier gespeichert. Für diesen Datensatz ist in DSMeld-Feld 0301 der Wert „Jochen“ gespeichert und in DSMeld-Feld 0502 der Wert „Graf von Elba“.
       Die abrufende Stelle sucht mit Vornamen „Jochen“ als Auswahldatum und mit Familiennamen „Graf“ als Auswahldatum.
-      Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301, 0302, 0303a, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
-      Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101, 0101a, 0102, 0201, 0201a, 0202, 0203, 0203a, 0204, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
+      Bezüglich des Auswahldatums „Jochen“ greift die Vorgabe zu Vornamen, d. h. es wird in den DSMeld-Feldern 0301 (1. oder 2. Periode), 0302, 0303, 0501 und 0502 nach „Jochen“ gesucht. In DSMeld-Feld 0301 ist „Jochen“ gespeichert. Damit ergibt sich bzgl. des Vornamens eine Übereinstimmung.
+      Bezüglich des Auswahldatums „Graf“ greift die Vorgabe zum Familiennamen, d. h. es wird in den DSMeld-Feldern 0101a (1. oder 2. Periode), 0201a, 0203a, 0501 und 0502 nach „Graf“ gesucht. In Feld 0501 ist „Graf von Elba“ gespeichert.
       In der freien Suche werden Familiennamen separiert, d. h. für alle genannten DSMeld-Felder, inkl. Künstlernamen. „Graf“ ist in der Menge der gespeicherten Künstlernamen („Graf“, „von“, „Elba“) enthalten. Somit ergibt sich für die freie Suche für den Familiennamen eine Übereinstimmung.
       Ergebnis: In der freien Suche erhält man mit den gegebenen Auswahldaten ein Ergebnis.
   e) Datumsangaben
@@ -411,7 +408,7 @@
   a) Die abrufende Stelle darf die Platzhalterzeichen „?“ und „*“ für alle Auswahldaten zu Namen und Straßenbezeichnungen in der Suchanfrage verwenden. Die Platzhalter müssen von der Auskunft gebenden Stelle so interpretiert werden, dass
     aa) das ? genau einem beliebigen Zeichen, einschließlich Leerzeichen und Sonderzeichen entspricht,
     bb) das * 0 bis n beliebigen Zeichen, einschließlich Leerzeichen und Sonderzeichen entspricht, wobei n eine beliebige Anzahl repräsentiert.
-    Die Auswertung von Platzhaltern muss für die folgenden in § 7 Absatz 1 genannten Auswahldaten ermöglicht werden: Blattnummer des DSMeld (Datenblatt) 0101, 0101a, 0102, 0201, 0201a, 0202, 0203, 0203a, 0204, 0301, 0302, 0303, 0501, 0502 und 1205.
+    Die Auswertung von Platzhaltern muss für die folgenden in § 7 Absatz 1 genannten Auswahldaten ermöglicht werden: Blattnummer des DSMeld (Datenblatt) 0101a, 0201a, 0203a, 0301, 0302, 0303, 0501, 0502 und 1205.
   b) Platzhalterzeichen werden auf die normalisierten Auswahldaten angewandt. Im Kontext von Namensfeldern, für die eine Separierung erfolgt, wird die Suche mit Platzhalterzeichen somit auf die einzelnen, separierten Namen, ohne Berücksichtigung der Reihenfolge der Namen, angewandt. Bestimmte Buchstaben wie beispielsweise „ß“ oder „œ“ werden auf mehr als ein Zeichen in der Normalform abgebildet (bei diesen Beispielen auf „SS“ und „OE“). Die Verwendung eines „?“ führt nur dann zu einer Übereinstimmung, wenn der jeweilige Buchstabe in der Normalform ebenfalls nur auf ein Zeichen abgebildet wird.
   c) Für die Nutzung von Platzhalterzeichen gilt, dass
     aa) das Suchkriterium nicht ausschließlich aus einem oder mehreren Platzhalterzeichen bestehen darf (Beispiele: Suchparameter mit den alleinigen Werten „*“, „**“, „*?*“, „??“ usw. sind unzulässig),

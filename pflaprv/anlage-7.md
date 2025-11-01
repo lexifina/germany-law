@@ -21,6 +21,6 @@
 |  | 3. | Für das Wahlrecht nach § 59 Absatz 3 PflBG: Im Bereich eines Pflichteinsatzes nach II.2. oder II.3. mit Ausrichtung auf die ambulante Langzeitpflege |
 | VI. | Weitere Einsätze/Stunden zur freien Verteilung |  |
 |  | 1. | Weiterer Einsatz (z. B. Pflegeberatung, Rehabilitation, Palliation) –bei Ausübung des Wahlrechts nach § 59 Absatz 2 PflBG: nur in Bereichen der Versorgung von Kindern und Jugendlichen–bei Ausübung des Wahlrechts nach § 59 Absatz 3 PflBG: nur in Bereichen der Versorgung von alten Menschen | 80 Std. |
-|  | 2. | Zur freien Verteilung im Versorgungsbereich des Vertiefungseinsatzes | 80 Std. |
+|  | 2. | Zur freien Verteilung im Versorgungsbereich des Vertiefungseinsatzes oder zur Verlängerung des Einsatzes nach VI.1. | 80 Std. |
 | Summe letztes Ausbildungsdrittel | 780 Std. |
 | Gesamtsumme | 2 500 Std. |

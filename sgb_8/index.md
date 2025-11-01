@@ -144,7 +144,7 @@
 - [§ 63 Datenspeicherung](0063.md)
 - [§ 64 Datenübermittlung und -nutzung](0064.md)
 - [§ 65 Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe](0065.md)
-- [§ 66 (weggefallen)](0066.md)
+- [§ 66 Auskünfte aus dem Ausländerzentralregister](0066.md)
 - [§ 67 (weggefallen)](0067.md)
 - [§ 68 Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft](0068.md)
 

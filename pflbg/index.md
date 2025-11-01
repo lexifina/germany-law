@@ -122,7 +122,7 @@
 
 ## Teil 6 Anwendungs- und Übergangsvorschriften
 
-- [§ 63 Nichtanwendung des Berufsbildungsgesetzes](0063.md)
+- [§ 63 Nichtanwendbarkeit des Berufsbildungsgesetzes](0063.md)
 - [§ 64 Fortgeltung der Berufsbezeichnung](0064.md)
 - [§ 64a Anspruch auf die Wahl einer anderen Berufsbezeichnung](0064a.md)
 - [§ 65 Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz](0065.md)

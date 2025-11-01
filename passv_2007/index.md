@@ -46,7 +46,7 @@
 - [Anlage 6](anlage-6.md)
 - [Anlage 7](anlage-7.md)
 - [Anlage 7a Muster des Aufklebers zur Änderung des Dienstortes oder der Dienstbezeichnung](anlage-7a.md)
-- [Anlage 8](anlage-8.md)
+- [Anlage 8 (zu § 4 Absatz 2)Anforderungen an das Lichtbild für den Pass im Sinne des § 1 Absatz 2 des Passgesetzes](anlage-8.md)
 - [Anlage 9](anlage-9.md)
 - [Anlage 10](anlage-10.md)
 - [Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes](anlage-11.md)
