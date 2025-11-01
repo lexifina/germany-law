@@ -42,28 +42,26 @@ Vorbemerkung:
 | Schriftgröße 3 UnicodeDoc: 1,5 mm |
 | Anschrift | 22 Zeichen pro Zeile, 4 Zeilen (insgesamt 88 Zeichen) |
 | Seriennummer | 9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen) |
-Abschnitt 2
-| Musterfoto |  |
-| Qualitativ hochwertige Fotos sind die Grundlage einer einwandfreien Wiedergabe des Bildes und Voraussetzung für die Anwendung der Gesichtsbiometrie in Personalausweisen. Dieser Foto-Mustertafel sind die Qualitätsmerkmale zu entnehmen, die die Eignung der Fotos für den vorgesehenen Einsatz in Personalausweisen gewährleisten. Es ist dringend erforderlich, die hier beschriebenen Anforderungen zu beachten, da sonst eine biometrische Erkennung der antragstellenden Person sowie die einwandfreie Wiedergabe des Bildes im Dokument nicht gewährleistet sind. Die antragstellende Person ist grundsätzlich ohne Kopfbedeckung abzubilden. Die Ausweisbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Auf den Fotos sind keine Uniformteile abzubilden. |
-| Format |  |
-| Das Foto muss die Gesichtszüge der Person von der Kinnspitze bis zum oberen Kopfende sowie die linke und rechte Gesichtshälfte deutlich zeigen. Die Gesichtshöhe muss 70 bis 80 Prozent des Fotos einnehmen. Dies entspricht einer Höhe von 32 bis 36 Millimeter von der Kinnspitze bis zum oberen Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden oberen Kopfendes sind Lichtbilder jedoch erst dann abzulehnen, wenn die Gesichtshöhe 27 Millimeter unterschreitet oder 40 Millimeter überschreitet. Bei volumenreichem Haar sollte darauf geachtet werden, dass der Kopf (einschließlich Frisur) möglichst vollständig abgebildet ist, ohne aber die Gesichtsgröße zu verkleinern. Das Gesicht muss zentriert auf dem Foto platziert sein. |
-| Schärfe und Kontrast |  |
-| Das Gesicht muss in allen Bereichen scharf abgebildet, kontrastreich und klar sein. |
-| Ausleuchtung |  |
-| Das Gesicht muss gleichmäßig ausgeleuchtet werden. Reflexionen oder Schatten im Gesicht sowie rote Augen sind zu vermeiden. |
-| Hintergrund |  |
-| Der Hintergrund muss einfarbig hell sein (idealerweise neutral grau) und einen Kontrast zum Gesicht und zu den Haaren aufweisen. Bei hellen Haaren eignet sich ein mittelgrauer Hintergrund, bei dunklen Haaren ein hellgrauer. Der Hintergrund darf kein Muster aufweisen. Das Foto darf ausschließlich die zu fotografierende Person zeigen (keine weiteren Personen oder Gegenstände im Bild). Auf dem Hintergrund dürfen keine Schatten entstehen. |
-| Fotoqualität |  |
-| Das Foto sollte mit einer Auflösung von mindestens 600 dpi vorliegen. Das Foto muss farbneutral sein und die natürlichen Hauttöne wiedergeben. Digitale Fotos sind grundsätzlich in Farbe vorzulegen. Ist die Vorlage eines papierbasierten Fotos in Ausnahmefällen gestattet, darf dieses Foto in Farbe oder Schwarzweiß vorgelegt werden; es darf jedoch keine Knicke oder Verunreinigung aufweisen. |
-| Kopfposition und Gesichtsausdruck |  |
-| Eine Darstellung der Person mit geneigtem oder gedrehtem Kopf (zum Beispiel Halbprofil) ist nicht zulässig. Die Person muss mit neutralem Gesichtsausdruck und geschlossenem Mund gerade in die Kamera blicken. |
-| Augen und Blickrichtung |  |
-| Die Person muss auf dem Foto direkt in die Kamera blicken. Die Augen müssen geöffnet und deutlich sichtbar sein und dürfen nicht durch Haare oder Brillengestelle verdeckt werden. |
-| Brillenträger |  |
-| Die Augen müssen klar und deutlich erkennbar sein (Reflexionen auf den Brillengläsern, getönte Gläser oder Sonnenbrillen sind nicht zulässig). Der Rand der Gläser oder das Gestell dürfen nicht die Augen verdecken. |
-| Kopfbedeckung |  |
-| Kopfbedeckungen sind grundsätzlich nicht erlaubt. Ausnahmen sind insbesondere aus religiösen Gründen zulässig. In diesem Fall gilt: das Gesicht muss von der unteren Kinnkante bis zur Stirn erkennbar sein. Es dürfen keine Schatten auf dem Gesicht entstehen. |
-| Kinder |  |
-| Bei Kindern bis zum vollendeten zehnten Lebensjahr sind folgende Abweichungen bei der Gesichtshöhe und im Augenbereich zulässig: Die Gesichtshöhe bei Kindern muss 50 bis 80 Prozent des Fotos einnehmen. Dies entspricht einer Höhe von 22 bis 36 Millimeter von der Kinnspitze bis zum oberen Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden oberen Kopfendes sind Fotos jedoch erst dann abzulehnen, wenn die Gesichtshöhe 17 Millimeter unterschreitet oder 40 Millimeter überschreitet. Bei Säuglingen und Kleinkindern gelten zusätzlich die nachfolgend beschriebenen Abweichungen. |
-| Säuglinge und Kleinkinder |  |
-| Bei Säuglingen und Kleinkindern bis zum vollendeten sechsten Lebensjahr sind zusätzlich zu den unter der Überschrift „Kinder“ dargestellten Ausnahmen Abweichungen in der Kopfhaltung (nicht von der Frontalaufnahme!), im Gesichtsausdruck, hinsichtlich Augen und Blickrichtung sowie hinsichtlich der Zentrierung auf dem Foto zulässig. |
+Abschnitt 2 (zu § 7 Absatz 3)
+Anforderungen an das Lichtbild für den Ausweis im Sinne des § 2 Absatz 1 des Personalausweisgesetzes
+|  | Das Foto zeigt das Gesicht von der Kinnspitze bis zum oberen Kopfende. Beide Gesichtshälften sind deutlich erkennbar. Das Gesicht nimmt 70 bis 80 % der Höhe des Fotos ein. |  |  |  |
+|  | Ausleuchtung Das Gesicht ist an allen Stellen gleichmäßig ausgeleuchtet und reflektiert nicht. Rote Augen sind zu vermeiden. |  |  |  |
+| Schlagschatten | Zu dunkel | Reflexion im Gesicht |
+|  | Kopfposition Der Kopf ist mittig im Foto positioniert und gerade. |  |  |  |
+| Kopfneigung zur Seite | Nach unten oder oben | Nicht zentriert |
+|  | Schärfe und Kontrast Das Gesicht ist in allen Bereichen scharf abgebildet und kontrastreich. |  |  |  |
+| Schärfe unzureichend | Mangelnder Kontrast(zu dunkel) | Mangelnder Kontrast(zu hell) |
+|  | Hintergrund Der schattenfreie Hintergrund ist einfarbig und bildet zum Gesicht sowie zu den Haaren einen deutlichen Kontrast. |  |  |  |
+| Hintergrund mit Muster | Hintergrund ohne Kontrast | Hintergrund mit Schatten |
+|  | Fotoqualität Die Farben und insbesondere der Hautton werden auf dem Foto realitätsgetreu wiedergegeben. Digitale Fotos liegen in Farbe vor. |  |  |  |
+| Mit Retuschen/Filter | Weichzeichen | Zu geringe Auflösung |
+|  | Gesichtsausdruck Der Gesichtsausdruck ist neutral. Der Blick ist geradeaus in die Kamera gerichtet und der Mund geschlossen. |  |  |  |
+| Lachen, Mund offen | Augen zu, zusammengekniffen | Grimasse |
+|  | Sichtbarkeit der Augen Die Augen sind klar und deutlich erkennbar. Sie sind nicht verdeckt. |  |  |  |
+| Brillenrahmen verdeckt Augen | Haare verdeckendie Augen,Rote-Augen-Effekt | Brillengläser zu dunkel, Spiegelung |
+|  | Kopfbedeckung Kopfbedeckungen sind nur aus religiösen Gründen zulässig. In diesen Fällen gilt: Das Gesicht ist von der unteren Kinnkante bis zur Stirn sichtbar. Schatten auf dem Gesicht sind nicht erkennbar. |  |  |  |
+| Mütze | Burka | Gesicht nicht ausreichend sichtbar |
+|  | Kinder Das Gesicht nimmt 50 bis 80 % der Höhe des Fotos ein. Bis zum vollendeten 10. Lebensjahr sind im Übrigen kleinere Abweichungen zulässig. |  |  |  |
+| Kopfbedeckung | Gegenstand im Bild | Grimasse |
+|  | (Klein-)Kinder und Babys Es handelt sich um eine Frontalaufnahme. Bis zum vollendeten 6. Lebensjahr sind auf dem Foto weitere Ausnahmen in der Kopfposition, im Gesichtsausdruck und bei der Sichtbarkeit der Augen zulässig. |  |  |  |
+| Kopf zu groß | Zweite Person, Gegenstand im Hintergrund | Keine Frontalaufnahme |
