@@ -1,0 +1,3 @@
+# B. Ermächtigung zur Strafverfolgung nach § 90b Abs. 2, § 194 Abs. 4 StGB
+
+Die Ermächtigung zur Strafverfolgung nach § 90b Abs. 2 StGB – verfassungsfeindliche Verunglimpfung des Bundestages – sowie nach § 194 Abs. 4 StGB – Beleidigung des Bundestages – kann im Wege der Vorentscheidung gemäß Nummer 13 der Grundsätze in Immunitätsangelegenheiten erteilt werden. Die Staatsanwaltschaften richten ihre Anträge nach Maßgabe der Richtlinien für das Strafverfahren und das Bußgeldverfahren an den Bundesminister der Justiz, der sie mit der Bitte vorlegt, eine Entscheidung herbeizuführen, ob die Ermächtigung zur Strafverfolgung nach § 90b Abs. 2 oder § 194 Abs. 4 StGB erteilt wird.
