@@ -1,0 +1,1 @@
+Auf Grund des Art. 10 des Bayerischen Gesetzes zur Ausführung des Bundesmeldegesetzes (BayAGBMG) vom 23. Juni 2015 (GVBl. S. 178, BayRS 210-3-I) verordnet das Bayerische Staatsministerium des Innern, für Bau und Verkehr:
