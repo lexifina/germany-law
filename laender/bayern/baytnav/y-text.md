@@ -1,0 +1,1 @@
+Auf Grund des Art. 2 Abs. 1 Satz 3, des Art. 3 Abs. 7 und des Art. 4 Abs. 4 des TU Nürnberg-Gesetzes (TNG) vom 9. Dezember 2020 (GVBl. S. 638, BayRS 2210-2-1-WK) verordnet das Bayerische Staatsministerium für Wissenschaft und Kunst:
