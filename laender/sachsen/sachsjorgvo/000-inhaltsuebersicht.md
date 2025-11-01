@@ -12,8 +12,8 @@ Teil 2 Sonderzuständigkeiten
 Abschnitt 1 Zivilrecht
 Unterabschnitt 1 Prozesskostenhilfe
 § 6 Grenzüberschreitende Prozesskostenhilfe
-Unterabschnitt 2 (weggefallen)
-§ 7 (weggefallen)
+Unterabschnitt 2 Commercial Court
+§ 7 Commercial Court
 § 8 (weggefallen)
 Unterabschnitt 3 Handels-, Gesellschafts-, Wettbewerbs- und Wertpapierrecht
 § 9 Führung des Vereins-, Handels-, Partnerschafts-, Gesellschafts- und Genossenschaftsregisters sowie unternehmensrechtlicher Verfahren
