@@ -1,0 +1,52 @@
+# Rat (158. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2025-11-03T18:00:00+01:00
+- Ende: 2025-11-03T19:25:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbHVqGz5xiTSMGSDSnzWxhg
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18713
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQn_6NQqoUxi7iGoDtBmOyY8DaB3f20HUKk6WcKfCgbx/Bekanntmachung_Rat_03.11.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV5Ipwg5Zks2rgiZYF5QV78g-slWOgfxPYluwyQnbrJ2/Oeffentliche_Niederschrift_Rat_03.11.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bestellung von Schriftführungen - Einstimmig
+- TOP 2.: Vereidigung und Einführung des Bürgermeisters - Ohne Abstimmung
+- TOP 3.: Verpflichtung und Einführung der Ratsmitglieder - Ohne Abstimmung
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Niederschrift über die letzte Sitzung vom 11.09.2025
+- TOP 6.: Anträge und Anfragen; Eingänge
+- TOP 7.: Satzungsrecht
+- TOP 7.1: Änderung der Hauptsatzung - Einstimmig
+- TOP 7.2: Änderung der Geschäftsordnung - Einstimmig
+- TOP 7.3: Änderung der Zuständigkeitsordnung - Einstimmig
+- TOP 7.4: Änderung der Ehrenordnung - Einstimmig
+- TOP 8.: Anzahl und Wahl der Stellvertretungen des Bürgermeisters - Einstimmig
+- TOP 9.: Verpflichtung und Einführung der Stellvertretungen des Bürgermeisters - Ohne Abstimmung
+- TOP 10.: Bildung der Ausschüsse des Rates der Stadt Emsdetten - Einstimmig
+- TOP 11.: Bildung der Beiräte des Rates der Stadt Emsdetten - Einstimmig
+- TOP 12.: Besetzung der Ausschüsse des Rates der Stadt Emsdetten und der Beiräte - Ohne Abstimmung
+- TOP 12.1: Besetzung der Ausschüsse des Rates der Stadt Emsdetten und der Beiräte - Einstimmig
+- TOP 13.: Bestellung der Ausschussvorsitze und der stellvertretenden Ausschussvorsitze - Ohne Abstimmung
+- TOP 13.1: Bestellung der Ausschussvorsitze und der stellvertretenden Ausschussvorsitze - Einstimmig
+- TOP 14.: Zusammensetzung und Wahl zum Jugendhilfeausschuss der Stadt Emsdetten - Ohne Abstimmung
+- TOP 14.1: Zusammensetzung und Wahl zum Jugendhilfeausschuss der Stadt Emsdetten - Einstimmig
+- TOP 15.: Wahl von Vertreterinnen und Vertretern in die Verbandsversammlung - Zweckverband Volkshochschule Emsdetten / Greven / Saerbeck - Zweckverband Musikschule Greven / Emsdetten / Saerbeck - Ohne Abstimmung
+- TOP 15.1: Wahl von Vertreterinnen und Vertretern in die Verbandsversammlung - Zweckverband Volkshochschule Emsdetten / Greven / Saerbeck - Zweckverband Musikschule Greven / Emsdetten / Saerbeck - Einstimmig
+- TOP 16.: Wahl von Vertreterinnen und Vertretern in die Verbandsversammlung des Zweckverbandes der Kreissparkasse Steinfurt - Ohne Abstimmung
+- TOP 16.1: Wahl von Vertreterinnen und Vertretern in die Verbandsversammlung des Zweckverbandes der Kreissparkasse Steinfurt - Einstimmig
+- TOP 17.: Stadtwerke Emsdetten GmbH
+- TOP 17.1: Wahl der Mitglieder des Aufsichtsrates der Stadtwerke Emsdetten GmbH - Ohne Abstimmung
+- TOP 17.1.1: Wahl der Mitglieder des Aufsichtsrates der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 17.2: Bestellung einer Arbeitnehmervertretung für den Aufsichtsrat der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 18.: Vertretung von Mitgliedschaften in Vereinen, Verbänden und sonstigen Gremien - Ohne Abstimmung
+- TOP 18.1: Vertretung von Mitgliedschaften in Vereinen, Verbänden und sonstigen Gremien - Einstimmig
+- TOP 19.: Digitale, mobile Gremienarbeit – Zuschuss an die Mandatsträgerinnen und Mandatsträger - Einstimmig
+- TOP 20.: Zuwendungen an Gruppen - Einstimmig
+- TOP 21.: Genehmigung von Dienstreisen für Mitglieder des Rates der Stadt Emsdetten und seiner Ausschüsse im Rahmen der Mandatstätigkeit / der hauptamtlichen Tätigkeit (Wahlperiode 2025 bis 2030) - Einstimmig
+- TOP 22.: Verschiedenes
