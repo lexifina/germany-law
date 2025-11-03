@@ -1,0 +1,116 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-11-03T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525862
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525862
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 15.09.2025 und 06.10.2025
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Verkehrsgefährdung/Lärmbelastung Bavariastraße, Sendling
+- TOP 2.2.: Beachvolleyball Felder im Isarhochwasserbett
+- TOP 2.3.: Anfrage: Neue Baumbepflanzung Danklstraße/München
+- TOP 2.4.: Kitaträger Sendling
+- TOP 2.5.: Erhalt der Gaststätte "Zum Blaustern" auf der Bezirkssportanlage in Sendling
+- TOP 2.6.: Verkehrssituation Maron-/Kraelerstraße
+- TOP 2.7.: Nachfolge Penny am Herzog-Ernst-Platz
+- TOP 2.8.: Unterführung, nur Treppenaufgang zur S Bahn /DB Harras, bei Kirche St Margaret
+- TOP 2.9.: Parksituation Fallstraße (München-Mittersendling)
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Nachfrage bzgl. Straßenlaterne - Antwort an BA-Mitglied
+- TOP 4.3.2.: Zwischennachricht Barrierefreier Ausbau der Haltestelle Schäftlarnstraße BA-Antrags-Nr. / B 03946 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 02.05.2022
+- TOP 4.3.3.: Zwischennachricht Regionalzughalt Poccistraße auch für S-Bahnen ermöglichen BA-Antrags-Nr. 20-26 / B 04683 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 07.11.2022
+- TOP 4.3.4.: Antwort der Stadtverwaltung auf Bürger*innenanliegen: Benutzung Freiflächen der Kirche St. Margaret vom 28.07.2025
+- TOP 4.3.5.: Information über Neugestaltung Bahnsteigfassade U-Bahnhof Implerstraße
+- TOP 4.3.6.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV) Fällungsantrag vom 10.09.2025 auf dem Grundstück Valleystr. 37 Aktenzeichen: 173-9.41-2025-15348-5
+- TOP 4.3.7.: Neueröffnung Edeka ab 16.10.2025, Rückmeldung auf TOP 4.5.2 aus Juni: 5-monatige Schließung der Edeka-Filiale in der Implerstraße und der dortigen Postfiliale / Bäckerei (Anfrage CSU-Fraktion)
+- TOP 4.3.8.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht der Einzelprojekte Bahnübergang Fasanerie, Feldmochinger Straße, Bahnübergang Lerchenauer Straße und Bahnübergang Lerchenstraße 3. Abrechnungsverfahren für Eisenbahnkreuzungsmaßnahmen
+- TOP 4.3.9.: (U) Bebauungsplan Nr. 2177 Kapellenweg (südlich) Gleisanlage (südwestlich und westlich) Flurstücke Nr. 10436 (Teilfläche) und Nr. 10436/3 (Teilfläche),nGemarkung München, Sektion VI (nördlich) Implerstraße (östlich) -Satzungsbeschluss- Stadtbezirk 06 – Sendling
+- TOP 4.3.10.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 4.3.11.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Anhörung MarktVA öffentl. Grund: Squisitissimo Italian Food - Italienischer Markt, Am Harras vom 18.03. - 26.03.2026; TERMIN: 24.11.2025
+- TOP 5.2.2.: Bestätigung VA konfess./kl. Brauchtum öff. Grund (OHNE Anhörung): Martinszug städt. KiGa zur Grünanlage Wacker Sportanlage am 11.11.2025; START: Roter-Turm-Platz 10 - 100 PAX
+- TOP 5.2.3.: Erneute Stellungnahme nötig: Anbringen eines Verkehrsspiegels vor Brudermühlstraße; BA-Antrag 20-26 / B 07382
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Arbeiten im Straßenraum; Schanzenbachstraße - Schaffung neuer Baumstandorte im Straßenbereich; Umschreibung Erlaubnisnehmer
+- TOP 5.3.2.: Lärmbelästigung am Flaucher Bürger*innenanliegen TOP 2.1 aus 08/25 Antwort der Stadtverwaltung
+- TOP 5.3.3.: Reutberger Straße - Einrichtung eines Fußgängerüberweges
+- TOP 5.3.4.: Antwort der Stadtverwaltung auf Bürger*innenanliegen: Fußgängerübergang vom Roter-Turm-Platz zum Resi-Huber-Platz
+- TOP 5.3.5.: Versammlungsanzeigen - IGV-Vertrag und WHO-Verträge in der Corona-Enquette-Kommisssion thematisieren - Don&#039;t play for Genocide Gasteig HP8 für 11.11.2025 - Gegen jeden Antisemitismus
+- TOP 5.3.6.: Mailverlauf eines Bürgers mit einer Verwaltungsmitarbeiterin aus dem Mobilitätsreferat bzgl. der wegfallenden Parkplätze im Parklizenzgebiet Margarethenplatz
+- TOP 5.3.7.: Arbeiten im Straßenraum; Meindlstr. 11 bis Margaretenplatz, Margaretenplatz bis An der Stemmerwiese 1; Verlegung einer Fernwärmeleitung in offener Bauweise - 3 Bauphasen
+- TOP 5.3.8.: Fahrradabstellanlage Ecke Valleystraße / Thalkirchner Straße
+- TOP 5.3.9.: Eilentscheidung: Zustimmung zu beiden Anhörungen: Bewohnerparken Margaretenplatz und Valleystraße
+- TOP 5.3.10.: Fahrradabstellmöglichkeiten im Bereich Roter-Turm-Platz Antwort der Stadtverwaltung auf Bürger*innenanliegen 2.9 aus der Sitzung vom 05.05.2025
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Antrag zur Reparatur einer Sitzbank am Kidlerplatz (Seniorenvertretung)
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Situation für Fußgänger und Radfahrer Ecke Stemmerhof - Jägerwirtstraße/Pfeufferstraße/Plinganserstr.
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Init. "Jazzkonzert in der Bäckerei" „Jazzkonzert in der Bäckerei Neulinger Filiale Sendling Gotzingerstr. 48 am 01.03.2026“ 1.150,00 € / AZ: 0262.0-6-0557
+- TOP 6.1.2.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. „Faces for the Names Jüdisches Leben, Widerstand und Zivilcourage in Sendling vom 01.10.2025 - 01.02.2026“ 3.900,00 € / AZ: 0262.0-6-0579
+- TOP 6.1.3.: (E) Stadtbezirksbudget Studio D40 „Ausstellung "Love&#039;s not dead" vom 20.11.2025 - 23.11.2025“ 1.520,00 € / AZ: 0262.0-6-0585
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Tarzanmäuse Krippenwagen - Stark wie ein Löwe
+- TOP 6.3.2.: Quartalsabrechnung Q3/ 2025 Übersicht BA 6
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.3.2.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Oktoberfest 2025 Schluss- und Erfahrungsbericht
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Kommunalwahl 2026 - Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 6
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Leistungsbilanzen der Hauptabteilungen Tiefbau und Gartenbau
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: BA-Termine 2026
+- TOP 2.10.: Zustand des Spielplatzes Ecke Lagerhausstraße/ Isartalstraße
+- TOP 2.11.: Umbau der Wackersberger Strasse zwischen Impler.- und Thalkirchnerstrasse
+- TOP 9.1.1.: Benennung eines/einer neuen Beauftragten für Rad- und Fußverkehr
+- TOP 9.1.2.: Kleiner Losentscheid für einen Sitz in den UAs mit 8 Personen
+- TOP 9.1.3.: Großer Losentscheid für zwei Sitze in den UAs mit 10 Personen
+- TOP 4.2.1.: Fällungsantrag vom 14.10.2025 auf dem Grundstück Karwendelstr. 32
+- TOP 5.3.11.: Eilentscheid des Vorstandes: Verkehrsrechtliche Anordnung Pfeuferstr.
+- TOP 2.12.: Sendling Running Club Unterstützung Anfrage
+- TOP 4.2.2.: Beschlussvorlage "Bildungsbauoffensive – Maßnahmenbeschluss 2025; ...und zur investiven Konsolidierung im Bildungsbau", geplant für den 03.12.2025, zur Stellungnahme
+- TOP 5.4.2.: Sachstand Parkraummanagement Sendling (CSU)
+- TOP 8.2.2.: NACHTRAG Bez. 6 - Anhörung MarktVA öffentl. Grund: Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras vom 24.11. bis 23.12.2025
+- TOP 5.2.4.: Erneute Zustimmung nötig: Installation Fahrradabstellplätze Kraeler- / Ganghoferstraße
+- TOP 6.1.4.: Soziale Bude des BA 6 2000,00 Euro (Budget für Eigenveranstaltungen)
+- TOP 6.1.5.: Christbäume Harras / Herzog-Ernst-Platz 1.200,00 Euro
+- TOP 7.5.1.: Bericht von der Kinder- und Jugendversammlung
+- TOP 5.2.5.: Erneute Zustimmung nötig: Fahrradabstellplätze an der Implerstraße 23 und Wiederbegrünung entlang der Implerstraße 29
