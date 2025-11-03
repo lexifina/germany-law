@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Detmold 2025 Nr. 45 vom 03.11.2025
+
+- Herausgeber: Bezirksregierung Detmold
+- Ausgabe: 2025-11-03 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 45
+- Quelle: https://www.bezreg-detmold.nrw.de/system/files/media/document/file/amtsblatt_45_03.11.2025_online.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 2 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
