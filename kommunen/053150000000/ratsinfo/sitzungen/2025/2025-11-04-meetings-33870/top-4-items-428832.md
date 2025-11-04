@@ -1,0 +1,6 @@
+# TOP 4: Verschiedenes
+
+- Sitzung: 19. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 (2025-11-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/428832
