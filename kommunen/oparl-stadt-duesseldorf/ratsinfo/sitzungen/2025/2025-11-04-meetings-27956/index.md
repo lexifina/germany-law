@@ -1,0 +1,63 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-04T17:00:00+01:00
+- Ende: 2025-11-04T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27956
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27956
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung der Bezirksvertretung 7 am 04.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567443.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 7 am 04.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567443.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 7 am 04.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567443.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 2: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters und der Stellvertreterinnen / Stellvertreter
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung 7
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Genehmigung der öffentlichen Niederschrift vom 24.06.2025 - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Senioren) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 6.2: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 6.3: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 6.4: Errichtung der Mobilitätsstation Apostelplatz im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-NSM) - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung im Bereich Bertastraße, Fröbelstraße und Oberlinstraße - einstimmig beschlossen
+- TOP 6.8: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 6.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Haushalt 2025 Liste A Schulen 2121101/52415700 - einstimmig beschlossen
+- TOP 6.10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 7: Anträge
+- TOP 7.1: Publikation zu Orten im Stadtbezirk 7 aus der NS-Zeit - interfraktioneller Antrag - - abweichend beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Erneute Einrichtung einer Park-and-Ride-Fläche auf dem Glashüttengelände in Gerresheim - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 8: Anfragen aus vorherigen Sitzungen
+- TOP 8.1: Verbesserungen Tunnel Staufenplatz - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Radverkehrsführung am Knotenpunkt Torfbruch-/Dreherstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 8.4: Stand der Planung zur Personenunterführung am Gerresheimer Bahnhof - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Immobilie In den Benden 10 - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 9.2: Modulanlage Karlsbader Straße - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 9.3: Verfügbarkeit von Sporthallen im Stadtbezirk 7 nach Kündigung der LVR-Hallennutzungen - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 9.4: Parkraumbewirtschaftung bei Großveranstaltungen im Glasmacherviertel – Vorstellung des Verkehrskonzepts für den Cirque du Soleil - Anfrage der CDU-Fraktion - - vertagt
+- TOP 9.5: Kinderbetreuung in Knittkuhl - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Sitzungstermine der Bezirksvertretung 7 im Jahr 2026 - zur Kenntnis genommen
+- TOP 10.2: Überprüfung des Konzepts zum ruhenden Verkehr am Apostelplatz - Informationsvorlage zum Beschluss der BV 7 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 10.3: Angepasstes Verkehrskonzept für Großveranstaltungen auf dem Staufenplatz - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 10.4: Zeitplan und Anliegerbeteiligung zur Sanierung des Kanalsystems Bergische Landstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 10.5: Parkplatz am Rotthäuser Weg - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 10.6: Geschwindigkeitskontrolle auf der Torfbruchstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 10.7: Sichere Toilettenanlage in den Grundschulen - Informationsvorlage zum Beschluss der BV 7 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 10.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.9: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 10.10: Einrichtung eines Zebrastreifens auf der Ernst-Poensgen-Allee in Höhe der Graf-Recke-Straße - Informationsvorlage zum Beschluss der BV 7 vom 25.03.2025 - - zur Kenntnis genommen
+- TOP 10.11: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 10.12: Sanierung Sportplatz Gemeinschaftshauptschule Graf-Recke-Straße 230 - Stellungnahme Amt für Schule und Bildung - - zur Kenntnis genommen
+- TOP 10.13: Verbesserung des Fuß- und Radwegs von der Ikenstraße Richtung Torfbruchstr. - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 10.14: Sanierung der städtischen Brachfläche im Bereich „Alte Insel“ - Informationsvorlage zum Beschluss der BV 7 vom 28.05.2024 - - zur Kenntnis genommen
