@@ -1,4 +1,4 @@
-# Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei
+# Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
