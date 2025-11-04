@@ -1,0 +1,60 @@
+# Rat konstituierende Sitzung (1. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2025-11-04T18:00:00+01:00
+- Ende: 2025-11-04T19:45:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaFSOYk18-xdfp9gcxrTims
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21437
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV4MPcMWLpz04mK3EcrbfdL83aU9HQYl-7vdIOo6nyrz/Bekanntmachung_Rat_04.11.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRnfNvhtz7c4ITby8qqmtdfH71SQYX5NKPsH5t8UypbS/Oeffentliche_Niederschrift_Rat_04.11.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Amtseinführung und Verpflichtung des Bürgermeisters -   
+- TOP 2.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 07.10.2025 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 4.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 5.: Einführung und Verpflichtung der Stadtverordneten und Ausschussmitglieder -   
+- TOP 6.: Wahl von zwei stellvertretenden Bürgermeistern - Einstimmiger Beschluss bei zwei Enthaltungen:
+- TOP 7.: Einführung und Verpflichtung der stellvertretenden Bürgermeister -   
+- TOP 8.: Bildung und Zusammensetzung der Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:Hier stimmt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 Abs. 1 GO NRW nicht mit.
+- TOP 9.: Wahl der Mitglieder und ihrer Stellvertreterinnen und Stellvertreter für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:Hier stimmt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 10.: Bestimmung der Vorsitzenden und ihrer Stellvertreter und Stellvertreterinnen für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:Hier stimmt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 Abs. 5 GO NRW nicht mit.
+- TOP 11.: Benennung der Mitglieder für die Planungskommission - Einstimmiger Beschluss:
+- TOP 12.: Benennung der Mitglieder für die Bau- und Feuerwehrkommission - Einstimmiger Beschluss:
+- TOP 13.: Besetzung einer Beigeordnetenstelle hier: Bildung einer Kommission zur Vorbereitung der Geschäftsverteilung und des Stellenanforderungsprofils sowie zur Begleitung des Auswahlverfahrens - Einstimmiger Beschluss:
+- TOP 14.: Hauptsatzung der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 15.: Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss: 
+- TOP 16.: Geschäftsordnung für den Rat der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 17.: Bestimmung von stimmberechtigten Vertretern oder Vertreterinnen der Stadt Bad Münstereifel für den Nordrhein-Westfälischen Städte- und Gemeindebund (StGB NRW) - Einstimmiger Beschluss:
+- TOP 18.: Vertretung der Stadt Bad Münstereifel in der Verbandsversammlung der Kommunalen Datenverarbeitungszentrale (KDVZ) Frechen - Einstimmiger Beschluss:
+- TOP 19.: Benennung von Mitgliedern für den Energiebeirat (lokaler Beirat) der e-regio Netz GmbH (ehemals Kreisenergieversorgung Schleiden GmbH; Tochtergesellschaft der e-regio GmbH & Co. KG) - Einstimmiger Beschluss:
+- TOP 20.: Bestellung von Vertretern/Vertreterinnen des Schulträgers für die Schulkonferenz - Einstimmiger Beschluss:
+- TOP 21.: Benennung von stimmberechtigten Delegierten für die Mitgliederversammlung der Deutschen Sektion des Rates der Gemeinden Europas - Einstimmiger Beschluss:
+- TOP 22.: Bestellung von Mitgliedern für die Gesellschafterversammlung der NeT - Einstimmiger Beschluss:
+- TOP 23.: Vertretung der Stadt Bad Münstereifel in der Delegiertenversammlung des Ertverbandes - Einstimmiger Beschluss:
+- TOP 24.: Energie Rur-Erft Verwaltungs-GmbH hier: Benennung von Vertretern in die Gesellschafterversammlung - Einstimmiger Beschluss:
+- TOP 25.: Energie Rur-Erft GmbH & Co.KG hier: Benennung von Vertretern in die Gesellschafterversammlung - Einstimmiger Beschluss:
+- TOP 26.: Berufung von Mitgliedern in den Betriebsausschuss und die Verbandsversammlung des Wasserverbandes Oleftal - Einstimmiger Beschluss:
+- TOP 27.: Bestellung eines Betriebsleiters für die eigenbetriebsähnliche Einrichtung "Forstbetrieb der Stadt Bad Münstereifel" hier: Ausscheiden der Betriebsleiterin Sabine Preiser-Marian - Einstimmiger Beschluss:
+- TOP 28.: Erlass des Wirtschaftsplanes 2026 des Forstbetriebes der Stadt Bad Münstereifel hier: Einbringung des Entwurfes - Einstimmiger Beschluss:
+- TOP 29.: Anfragen und Mitteilungen
+- TOP 29.1: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 29.2: Bericht zum 30.09.2025 im Rahmen des Finanzcontrollings
+- TOP 29.3: Direkter Kontakt von Ratsmitgliedern zu Mitarbeitenden hier: Anfrage des Stadtverordneten Kurt Ostermann, UWV- Fraktion
+- TOP 29.4: Ankündigung von Terminen
+- TOP 29.5: Sanierungsprogramme hier: Anfrage der CDU-Fraktion
+- TOP 29.6: Aufgang Kurgarten Wallgraben hier: Anfrage des Stadtverordneten Andreas Bühl, UWV-Fraktion
+- TOP 29.7: Terminkalender 2026 für Rats- und Ausschusssitzungen hier: Anfrage des Stadtverordneten Florian Hammes, CDU-Fraktion
+- TOP 29.8: Plattenbelag Europaplatz hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP 29.9: Ortstermin Heinz-Gerlach-Halle hier: Anfrage des Stadtverordneten Tenzin Naktsang, SPD-Fraktion
+- TOP 29.10: Kennzeichnung Behinderten-Parkplatz hier: Anfrage des Stadtverordneten Peter Schallenberg, Fraktion Bündnis 90/Die Grünen
+- TOP 29.11: Gruppenfoto für das Stadtarchiv
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Beschaffung einer weiteren Komponente des Hochwasserfrühwarnsystems hier: Bodenfeuchtesensoren - Einstimmiger Beschluss:
+- TOP 2.: Anfragen und Mitteilungen
