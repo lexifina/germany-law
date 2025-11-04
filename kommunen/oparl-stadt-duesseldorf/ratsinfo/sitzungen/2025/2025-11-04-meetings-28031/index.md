@@ -1,0 +1,58 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-04T16:00:00+01:00
+- Ende: 2025-11-04T20:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28031
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28031
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bestellung des Schriftführers - einstimmig beschlossen
+- TOP 2: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung
+- TOP 4: Anerkennung der Tagesordnung
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Genehmigung der Niederschriften SI-BVV2/005/2025 vom 01.07.2025 und SOSI-BV2/001/2025 vom 23.09.2025
+- TOP 7: Berichte und Verwaltungsvorlagen
+- TOP 7.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - Jugendrat - einstimmig beschlossen
+- TOP 7.2: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - Seniorenrat - einstimmig beschlossen
+- TOP 7.3: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Flingern Süd - mehrheitlich beschlossen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.14: Flächennutzungsplanänderung Nr. 209 (Entwurf) - Südöstlich Werdener Straße - Stellungnahmen, Planbeschluss - Empfehlung einstimmig beschlossen
+- TOP 7.15: Bebauungsplan-Entwurf Nr. 02/018 - Werdener Staße/Erkrather Straße (ehemals B8-Center) - Empfehlung einstimmig beschlossen
+- TOP 7.16: Bebauungsplan-Entwurf Nr. 02/014 - zwischen Hellweg und Benzstraße - Empfehlung einstimmig beschlossen
+- TOP 7.17: Radschlägermarkt an der Metro im 1. Halbjahr des Jahres 2026 - einstimmig beschlossen
+- TOP 7.18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 – Haushalt 2025 - einstimmig beschlossen
+- TOP 7.19: Verwendung von Haushaltsmitteln; hier: Ausstattung der Klassenräume GGS Flurstraße - einstimmig beschlossen
+- TOP 8: Anträge
+- TOP 8.1: Rundgang Spurensuche durch den Bezirk 2 - Antrag der Fraktion DIE LINKE - einstimmig beschlossen
+- TOP 9: Anfragen aus vorherigen Sitzungen
+- TOP 9.1: Weiteres Vorgehen bei der Umgestaltung der Skateranlage Stadtwerkepark und des Lindenplatzes - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 9.2: Abstellen von Wohnmobilen im öffentlichen Raum - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anfragen zur aktuellen Sitzung
+- TOP 10.1: Wohnungsleerstand im Bezirk 2 - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 10.2: Mensa Brehmschule - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Prüfantrag: Quartiersgarage unter dem Hansa-Platz - Beschluss der Bezirksvertretung 2, Vorlage BV2/079/2025 - zur Kenntnis genommen
+- TOP 11.2: Parken für Einzelhandel und Gastronomie im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2; Vorlage BV2/080/2025 - zur Kenntnis genommen
+- TOP 11.3: Regelung des Auto- und Radverkehrs an der Kreuzung Cranachstraße/Grafenberger Allee - Beschluss der Bezirksvertretung 2; Vorlage BV2/124/2025 - zur Kenntnis genommen
+- TOP 11.4: Gehwegreinigung am Brehmplatz - Beschluss der Bezirksvertretung 2; Vorlage BV2/047/2025 - zur Kenntnis genommen
+- TOP 11.5: Sitzungstermine 2026 - zur Kenntnis genommen
+- TOP 11.6: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
