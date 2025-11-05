@@ -22,5 +22,5 @@
 - [§ 20 Übergangsbestimmung](0020.md)
 - [§ 21 Sondervorschriften](0021.md)
 - [Anlage 1 (zu § 11 Absatz 1 und 2, § 12 Absatz 1 und § 13 Absatz 1)](anlage-1.md)
-- [Anlage 2 (zu § 13 Absatz 1 und § 15 Absatz 1)](anlage-2.md)
+- [Anlage 2 (zu § 4 Absatz 8, § 13 Absatz 1 und § 15 Absatz 1)](anlage-2.md)
 - [Anlage 3 (zu § 16 Absatz 1 und 2)](anlage-3.md)

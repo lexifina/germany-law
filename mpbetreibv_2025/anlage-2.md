@@ -1,6 +1,6 @@
-# Anlage 2 (zu § 13 Absatz 1 und § 15 Absatz 1)
+# Anlage 2 (zu § 4 Absatz 8, § 13 Absatz 1 und § 15 Absatz 1)
 
-| 1 | Produkte, die messtechnischen Kontrollen nach § 15 Absatz 1 Satz 1 unterliegen |  |
+| 1 | Produkte, die messtechnischen Kontrollen nach § 15 Absatz 1 Satz 1 unterliegen |
 |  |  | Nachprüffristen in Jahren |
 | 1.1 | Produkte zur Bestimmung der Hörfähigkeit (Ton- und Sprachaudiometer) | 1 |
 | 1.2 | Produkte zur Bestimmung von Körpertemperaturen (mit Ausnahme von Quecksilberglasthermometern mit Maximumvorrichtung) |  |
@@ -10,9 +10,11 @@
 | 1.3 | Messgeräte zur nichtinvasiven Blutdruckmessung | 2 |
 | 1.4 | Produkte zur Bestimmung des Augeninnendrucks (Augentonometer) | 2 |
 | 1.5 | Therapiedosimeter bei der Behandlung von Patienten von außen |  |
-| 1.5.1 | mit Photonenstrahlung im Energiebereich bis 1,33 MeV –allgemein–mit geeigneter Kontrollvorrichtung, wenn der Betreiber in jedem Messbereich des Dosimeters mindestens halbjährliche Kontrollmessungen ausführt, ihre Ergebnisse aufzeichnet und die bestehenden Anforderungen erfüllt werden | 2 |
-| 1.5.2 | mit Photonenstrahlung im Energiebereich ab 1,33 MeV und mit Elektronenstrahlung aus Beschleunigern mit messtechnischer Kontrolle in Form von Vergleichsmessungen | 6 |
-| 1.5.3 | mit Photonenstrahlung aus Co-60-Bestrahlungsanlagen wahlweise nach Nummer 1.5.1 oder Nummer 1.5.2 | 2 |
+| 1.5.1 | mit Photonenstrahlung im Energiebereich bis 1,33 MeV |  |
+|  | –allgemein | 2 |
+|  | –mit geeigneter Kontrollvorrichtung, wenn der Betreiber in jedem Messbereich des Dosimeters mindestens halbjährliche Kontrollmessungen ausführt, ihre Ergebnisse aufzeichnet und die bestehenden Anforderungen erfüllt werden | 6 |
+| 1.5.2 | mit Photonenstrahlung im Energiebereich ab 1,33 MeV und mit Elektronenstrahlung aus Beschleunigern mit messtechnischer Kontrolle in Form von Vergleichsmessungen | 2 |
+| 1.5.3 | mit Photonenstrahlung aus Co-60-Bestrahlungsanlagen wahlweise nach Nummer 1.5.1 oder Nummer 1.5.2 |  |
 | 1.6 | Diagnostikdosimeter zur Durchführung von Mess- und Prüfaufgaben, sofern sie nicht nach § 90 der Strahlenschutzverordnung dem Mess- und Eichgesetz unterliegen | 5 |
 | 1.7 | Tretkurbelergometer zur definierten physikalischen und reproduzierbaren Belastung von Patienten | 2 |
 | 2 | Ausnahmen von messtechnischen Kontrollen Abweichend von Nummer 1.5.1 unterliegen keiner messtechnischen Kontrolle Therapiedosimeter, die nach jeder Einwirkung, die die Richtigkeit der Messung beeinflussen kann, sowie mindestens alle zwei Jahre in den verwendeten Messbereichen kalibriert und die Ergebnisse aufgezeichnet werden. Die Kalibrierung muss von fachkundigen Personen, die vom Betreiber bestimmt sind, mit einem Therapiedosimeter durchgeführt werden, dessen Richtigkeit entsprechend § 15 Absatz 2 sichergestellt worden ist und das bei der die Therapie durchführenden Stelle ständig verfügbar ist. |  |
