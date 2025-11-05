@@ -1,0 +1,8 @@
+# TOP -: Wahl der Bezirksbürgermeisterin/ des Bezirksbürgermeisters und Ihrer/ seiner Stellvertreter/innen gemäß §§ 36 Abs. 3 Satz 2, § 67 Abs. 2 GO NRW; Antrag der Fraktion AfD
+
+- Sitzung: Konstituierende 1. Sitzung der Bezirksvertretung Kalk in der Wahlperiode 2025/2030 (2025-11-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/429033
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/198444
