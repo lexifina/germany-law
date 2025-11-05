@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2025-11-05T14:00:00+01:00
+- Ende: 2025-11-05T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7858
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7858
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00257025.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00257025.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00257025.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der konstituierenden Sitzung des Rates und Begrüßung durch den Oberbürgermeister
+- TOP 2: Bestellung der Schriftführenden für die Sitzungen des Rates der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 3: Einführung und Verpflichtung der Ratsmitglieder
+- TOP 4: Wahl der ehrenamtlichen Stellvertreter*innen des Oberbürgermeisters - Geheime Abstimmung
+- TOP 5: Einführung und Verpflichtung der Stellvertreterinnen / Stellvertreter des Oberbürgermeisters
+- TOP 6: Bildung und Besetzung von Ausschüssen - Gewählt nach Hare Niemeyer
+- TOP 6.1: a. Bildung eines Wahlprüfungsausschusses für die Kommunalwahlen und die Wahl der Mitglieder des Integrationsrates vom 14.09.2025 sowie b. die Wahl der Mitlieder und der stellvertretenden Mitglieder - Gewählt nach Hare Niemeyer
+- TOP 7: Bestellung der Ausschussvorsitzenden - Siehe Niederschrift
+- TOP 8: Wahl der stimmberechtigten Mitglieder für den Jugendhilfeausschuss - Gewählt nach Hare Niemeyer
+- TOP 9: Wahl von 8 Ratsmitgliedern in den Integrationsrat der Stadt Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 10: Benennung von Mitgliedern für die kommunale Beratungskommission in ausländer-rechtlichen Härtefällen (sog. Härtefallkommission) - Siehe Niederschrift
+- TOP 11: Landschaftsversammlung Rheinland - Geheime Abstimmung
+- TOP 12: Besetzung des Polizeibeirates - Gewählt nach Hare Niemeyer
+- TOP 13: Wahl von Vertreter*innen in die Verbandsversammlung des Zweckverbandes "euregio rhein-maas-nord" - Einstimmiger Beschluss
+- TOP 14: Wahl von Mitgliedern für den Regionalrat des Regierungsbezirks Düsseldorf - Einstimmiger Beschluss
+- TOP 15: Vertretung der Stadt Mönchengladbach in Organen von Unternehmen und Einrichtungen mit städtischer Beteiligung - Siehe Niederschrift
+- TOP 16: Neuwahl des Verwaltungsrates der Stadtsparkasse Mönchengladbach - Einstimmiger Beschluss
+- TOP 17: Vertretung der Stadt Mönchengladbach in Gremien von Beteiligungsgesellschaften - Einstimmiger Beschluss
+- TOP 18: Benennung von 3 Vertreter/innen und ggf. Stellvertreter/innen für die Mitgliederversammlungen des Vereins zur Förderung der Abfallwirtschaft - Region Rhein-Wupper e.V. - Einstimmiger Beschluss
+- TOP 19: Wahl von Mitgliedern der Verbandsversammlung der ITK Rheinland - Einstimmiger Beschluss
+- TOP 20: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Ausschuss für Schule und Bildung - Einstimmiger Beschluss
+- TOP 21: Wahl je eins Mitgliedes der im Rat vertretenen Fraktionen zum Beirat BIS-Zentrum für offene Kulturarbeit e.V. - Einstimmiger Beschluss
+- TOP 22: Kunststiftung im Museum Abteiberg - Bestellung der Kuratoriumsmitglieder - Einstimmiger Beschluss
+- TOP 23: Wahl der Mitglieder der Trägerversammlung des Jobcenter Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 24: Wahl von Mitgliedern für den örtlichen Beirat des Jobcenter Mönchengladbach - Einstimmiger Beschluss
+- TOP 25: Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 26: Verbandsrat des Niersverbandes; hier: Ersatzwahl für ein vorzeitig ausgeschiedenes Verbandsratsmitglied - Einstimmiger Beschluss
+- TOP 27: Wahl eines Mitgliedes und eines stellv. Mitgliedes - Einstimmiger Beschluss
+- TOP 28: Verein Metropolregion Rheinland e.V. hier: Bestellung von Mitgliedern für die Mitgliederversammlung - Gewählt nach Hare Niemeyer
+- TOP 29: Neuwahl des Beirats - Einstimmiger Beschluss
+- TOP 30: Neukonstituierung des Braunkohleausschusses - Einstimmiger Beschluss
+- TOP 31: Wahl der dem Rat angehörenden Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 32: Zweckverband LANDFOLGE Garzweiler-Benennung der Vertreter/innen für die Verbandsversammlung - Einstimmiger Beschluss
+- TOP 33: Festsetzung und Anpassung der Pauschale für fraktionslose Ratsmitglieder - Einstimmiger Beschluss
+- TOP 34: 20. Konferenz der Ratsmitglieder im Städtetag Nordrhein-Westfalen am 10. Dezember 2025 - Gewählt nach Hare Niemeyer
+- TOP 35: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen - Mit Stimmenmehrheit beschlossen
+- TOP 36: Sechzehnter Nachtrag zur Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse in der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Anfrage RH Dr. Wolkowski (BÜNDNIS 90 / DIE GRÜNEN)
