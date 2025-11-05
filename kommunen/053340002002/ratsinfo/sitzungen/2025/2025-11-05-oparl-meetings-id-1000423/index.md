@@ -1,0 +1,51 @@
+# Konstituierende Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-11-05T17:00:00+01:00
+- Ende: 2025-11-05T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000423
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000423
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1469506&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung von Stimmzähler*innen für die Sitzungen des Rates - ungeändert beschlossen
+- TOP 3: Bestellung einer Schriftführerin/eines Schriftführers und einer Stellvertreterin/eines Stellvertreters - ungeändert beschlossen
+- TOP 4: Vereidigung und Amtseinführung des Oberbürgermeisters Dr. Michael Ziemons
+- TOP 5: Einführung und Verpflichtung der Ratsmitglieder
+- TOP 6: Festlegung der Zahl der zu wählenden ehrenamtlichen Stellvertreter*innen der Oberbürgermeisterin/des Oberbürgermeisters - ungeändert beschlossen
+- TOP 7: Wahl der ehrenamtlichen Stellvertreter*innen der Oberbürgermeisterin/des Oberbürgermeisters
+- TOP 8: Einführung und Verpflichtung der ehrenamtlichen Stellvertreter*innen der Oberbürgermeisterin/des Oberbürgermeisters
+- TOP 9: Bildung des Wahlprüfungsausschusses zur Vorprüfung der Wahl der Oberbürgermeisterin / des Oberbürgermeisters, der Wahl des Rates der Stadt und der Wahl der Bezirksvertretungen am 14.09.2025 bzw. 28.09.2025 - ungeändert beschlossen
+- TOP 10: Entscheidung über Art, Anzahl, Größe und Zusammensetzung der zu bildenden Ausschüsse - ungeändert beschlossen
+- TOP 11: Verteilung der Ausschussvorsitze hier: Zugriffsverfahren gemäß § 58 Abs. 5 GO NRW - ungeändert beschlossen
+- TOP 12: Beantragung der Mitgliedschaft in der DGNB - (Deutsche Gesellschaft für Nachhaltiges Bauen) - ungeändert beschlossen
+- TOP 13: Verstetigung des Projekts „Inklusion durch Sport“ Interfraktioneller Ratsantrag vom 07.07.2025 – Nr. 494/18 - ungeändert beschlossen
+- TOP 14: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung ,,Oberflächenentwässerung‘‘ der Erschließungsanlage Rethelstraße - ungeändert beschlossen
+- TOP 15: Bericht mit Stellungnahme der Verwaltung und der Rechnungsprüfung zur überörtlichen Prüfung der Gemeindeprüfungsanstalt 2025 - zur Kenntnis genommen
+- TOP 16: Anfragen:
+- TOP 16.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 16.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 17: Ratsanträge - ungeändert beschlossen
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 19: Entsendung des Oberbürgermeisters in den Aufsichtsrat der STAWAG – Stadt- und Städteregionswerke Aachen AG - ungeändert beschlossen
+- TOP 20: Neufassung der Richtlinie zu Zuwendungen zum Geschäftsbedarf der Ratsfraktionen im Rat der Stadt Aachen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
