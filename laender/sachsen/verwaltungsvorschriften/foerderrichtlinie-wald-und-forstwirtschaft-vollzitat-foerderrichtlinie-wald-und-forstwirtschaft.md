@@ -1,8 +1,8 @@
 # Förderrichtlinie Wald und Forstwirtschaft Vollzitat: Förderrichtlinie Wald und Forstwirtschaft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-08-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/20071.2
+- Datum: 2025-11-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/20071.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.08.2024
+06.11.2025
 bis
-05.11.2025
+18.08.2026
 
 Förderrichtlinie Wald und Forstwirtschaft
 
@@ -134,7 +134,7 @@ dass gegen die Begünstigten eine rechtskräftige Verurteilung, Strafbefehl oder
 
 c)
 
-dass gegen die Begünstigten eine Untersagung nach § 35 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 6 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 245) geändert worden ist, in der jeweils geltenden Fassung, vorliegt,
+dass gegen die Begünstigten eine Untersagung nach § 35 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 9 des Gesetzes vom 27. Dezember 2024 (BGBl. 2024 I Nr. 438) geändert worden ist, in der jeweils geltenden Fassung, vorliegt,
 
 
 d)
@@ -500,7 +500,7 @@ Die Zuwendung wird nicht gewährt oder widerrufen und zurückgefordert, wenn fes
 VII.
 Höhere Gewalt und außergewöhnliche Umstände
 
-In Fällen höherer Gewalt oder außergewöhnlicher Umstände kann die Bewilligungsbehörde im Einzelfall auf den Widerruf des Zuwendungsbescheides verzichten. Die Fälle sind der Bewilligungsbehörde schriftlich und mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen. Unbeschadet besonderer Umstände des Einzelfalls ist höhere Gewalt insbesondere in folgenden Fällen anzunehmen:
+In Fällen höherer Gewalt oder außergewöhnlicher Umstände kann die Bewilligungsbehörde im Einzelfall auf den Widerruf des Zuwendungsbescheides verzichten. Die Fälle sind der Bewilligungsbehörde mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen. Unbeschadet besonderer Umstände des Einzelfalls ist höhere Gewalt insbesondere in folgenden Fällen anzunehmen:
 
 a)
 
@@ -534,7 +534,7 @@ VIII.
 
 Im Falle der Übertragung des Betriebes oder des geförderten Vorhabens kann von einer Rückforderung abgesehen werden, wenn die Übernehmenden alle Voraussetzungen für die Gewährung der Zuwendung für die Dauer der Zweckbindungsfrist erfüllen und die von der Bewilligungsbehörde geforderten Nachweise vorlegen.
 
-Die Übernahme ist der Bewilligungsbehörde innerhalb von 15 Arbeitstagen schriftlich mitzuteilen.
+Die Übernahme ist der Bewilligungsbehörde innerhalb von 15 Arbeitstagen mitzuteilen.
 
 Teil 2
 GAK-finanzierte Maßnahmen
@@ -588,15 +588,16 @@ Der Freistaat Sachsen gewährt finanzielle Unterstützung nach Maßgabe dieser R
 
 1.
 
-der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23, 44 und 44a,
+der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 27. Juni 2025 (SächsGVBl. S. 285) geändert worden ist, insbesondere §§ 23, 44 und 44a,
 
 2.
 
-der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung zu §§ 23, 44 und 44a der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
+der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung zu §§ 23, 44 und 44a der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 22. November 2024 (SächsABl. S. 1434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
 
 3.
 
-des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen – insbesondere §§ 35 bis 50 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist,
+des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen – insbesondere §§ 35 bis 50 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist,  
+
 
 4.
 
@@ -630,7 +631,7 @@ Vorhabenbeginn
 
 a)
 
-Zuwendungen dürfen nur für solche Vorhaben bewilligt werden, die nicht vor Antragseingang bei der Behörde (zum Beispiel Datum Posteingang bei der Behörde) begonnen worden sind, es sei denn, der vorzeitige Maßnahmenbeginn wurde von der Behörde genehmigt. Deshalb sind nur diejenigen Ausgaben zuschussfähig, die auf Verträgen oder sonstigen förderfähigen Leistungen beruhen, die nach dem Zeitpunkt der Antragstellung abgeschlossen oder erbracht wurden. Bei Vorhaben mit im Antrag zu Grunde gelegten Ausgaben ab 100 000 Euro dürfen Zuwendungen nur für solche Vorhaben bewilligt werden, die noch nicht begonnen worden sind.
+Zuwendungen dürfen nur für solche Vorhaben bewilligt werden, die nicht vor Antragseingang bei der Behörde begonnen worden sind, es sei denn, der vorzeitige Maßnahmenbeginn wurde von der Behörde genehmigt. Deshalb sind nur diejenigen Ausgaben zuschussfähig, die auf Verträgen oder sonstigen förderfähigen Leistungen beruhen, die nach dem Zeitpunkt der Antragstellung abgeschlossen oder erbracht wurden. Bei Vorhaben mit im Antrag zu Grunde gelegten Ausgaben ab 100 000 Euro dürfen Zuwendungen nur für solche Vorhaben bewilligt werden, die noch nicht begonnen worden sind.
 
 
 b)
@@ -654,7 +655,7 @@ d)
 Waldschutzmaßnahmen:
 
 
-Für alle Waldschutzmaßnahmen außer dem Bau von Holzlagerplätzen gilt der vorzeitige Vorhabenbeginn ab dem 1. Januar 2023 als genehmigt. Die Vorhaben sind spätestens sieben Tage nach Beginn und in jedem Fall vor Abschluss dem örtlich zuständigen Forstbezirk des Staatsbetriebes Sachsenforst (in der Regel dem örtlich für den Privat- und Körperschaftswald zuständigen Revierleiter) formlos anzuzeigen und Zeitraum, beabsichtigte Maßnahmen und voraussichtliche Holzmenge anzugeben. Die Ausführung des Vorhabens steht einer späteren Förderung nicht entgegen. Aus der Anzeige eines Vorhabens kann kein Rechtsanspruch auf eine Förderung abgeleitet werden.
+Waldschutzmaßnahmen außer dem Bau sowie der Unterhaltung und dem Betrieb von Holzlagerplätzen sind spätestens sieben Tage nach Beginn und in jedem Fall vor Abschluss dem örtlich zuständigen Forstbezirk des Staatsbetriebes Sachsenforst (in der Regel dem örtlich für den Privat- und Körperschaftswald zuständigen Revierleiter) formlos anzuzeigen und Zeitraum, beabsichtigte Maßnahmen und voraussichtliche Holzmenge anzugeben. Die Ausführung des Vorhabens steht einer späteren Förderung nicht entgegen. Aus der Anzeige eines Vorhabens kann kein Rechtsanspruch auf eine Förderung abgeleitet werden.
 
 
 e)
@@ -676,7 +677,7 @@ Die einzelnen Fördergegenstände werden auf der Grundlage der nachfolgend benan
 a)
 
 
-Waldumbau, Forstwirtschaftlicher Wegebau sowie Erstaufforstung: Die Förderung erfolgt auf der Grundlage des Beschlusses der Europäischen Kommission vom 6. Dezember 2022 (SA.103724 (2022/N) in Verbindung mit SA.59238 (2020/N), SA.47138 (2016/N) sowie SA.39954 (2014/N) („GAK Forsten“).
+Waldumbau, Forstwirtschaftlicher Wegebau sowie Erstaufforstung: Die Förderung erfolgt auf der Grundlage des Beschlusses der Europäischen Kommission vom 15.11.2024 (SA.113011 (2024/N)) in Verbindung mit (SA.103724 (2022/N), SA.59238 (2020/N), SA.47138 (2016/N) sowie SA.39954 (2014/N) („GAK Forsten“).
 
 
 b)
@@ -688,13 +689,13 @@ Forstwirtschaftliche Zusammenschlüsse: Die Förderung erfolgt auf der Grundlage
 c)
 
 
-Waldschutzmaßnahmen: Die Förderung erfolgt auf der Grundlage des Beschlusses der Europäischen Kommission vom 26.03.2024 (SA.112986 (2024/N), „Förderung von Maßnahmen zur Bewältigung der durch Extremwetterereignisse verursachten Folgen im Wald“) in Verbindung mit SA.56482 (2020/N).
+Waldschutzmaßnahmen: Die Förderung erfolgt auf der Grundlage des Beschlusses der Europäischen Kommission vom 13.12.2024 (SA.116481 (2024/N), „Förderung von Maßnahmen zur Bewältigung der durch Extremwetterereignisse verursachten Folgen im Wald“) in Verbindung mit SA.112986 (2024/N), SA.56482 (2020/N).
 
 
 d)
 
 
-Bodenschonende Holzrückung: Die Zuwendung wird bis zur Notifizierung als De-minimis-Beihilfe nach der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L vom 15. Dezember 2023) gewährt.
+Bodenschonende Holzrückung: Die Förderung erfolgt auf der Grundlage des Beschlusses der Europäischen Kommission vom 15.11.2024 (SA.113011 (2024/N)) in Verbindung mit SA.39954 (2014/N).
 
 
 Ergänzende oder von dieser Richtlinie abweichende Regelungen, die sich aus den jeweils einschlägigen beihilferechtlichen Grundlagen ergeben, sind bei Zuwendungen, bei denen es sich um staatliche Beihilfen handelt, vorrangig zu beachten.
@@ -786,7 +787,7 @@ der natürlichen Waldgesellschaften in Schutzgebieten (in Natura 2000-Gebieten, 
 Nachbesserungen
 
 
-in den ersten fünf Jahren nach der Kulturbegründung, wenn aufgrund natürlicher Ereignisse, zum Beispiel Frost, Trockenheit oder Überschwemmung, Ausfälle von mehr als 30 Prozent der Pflanzenzahl oder ein Hektar zusammenhängender Fläche aufgetreten sind und die Waldbesitzenden den Ausfall nicht zu vertreten haben. Ein Ausbleiben geplanter standortgerechter Naturverjüngung wird wie der Ausfall künstlich eingebrachter Pflanzen gewertet, wenn die einzelnen Fehlstellen mindestens 0,2 Hektar Fläche erreichen. Die Nachbesserungen sollen grundsätzlich dem geförderten Kulturtyp entsprechen. Ausbleibende Naturverjüngung kann auch mit anderen förderfähigen Baum- und Straucharten nachgebessert werden.
+in den ersten fünf Jahren nach der Kulturbegründung, wenn aufgrund natürlicher Ereignisse, zum Beispiel Frost, Trockenheit oder Überschwemmung (nicht jedoch Wildverbiss), Ausfälle in Höhe von mehr als 30 Prozent der Pflanzenzahl oder einem Hektar zusammenhängender Fläche aufgetreten sind und die Waldbesitzenden den Ausfall nicht zu vertreten haben. Ein Ausbleiben geplanter standortgerechter Naturverjüngung wird wie der Ausfall künstlich eingebrachter Pflanzen gewertet, wenn die einzelnen Fehlstellen mindestens 0,2 Hektar Fläche erreichen. Die Nachbesserungen sollen grundsätzlich dem geförderten Kulturtyp entsprechen. Ausbleibende Naturverjüngung kann auch mit anderen förderfähigen Baum- und Straucharten nachgebessert werden.
 
 1.3
 
@@ -808,15 +809,10 @@ Naturverjüngung, die überwiegend aus Stockausschlag hervorgegangen ist,
 
 c)
 
-Vorhaben, bei denen die gesamte Fläche für Bodenvorarbeiten oder Mulchen mit Forstmaschinen befahren wird. Zulässig sind maschinelle Bodenvorarbeiten und Mulchen auf Teilen der Fläche.
-
-
-d)
-
 Vorhaben, bei denen Herbizide im Rahmen der Kulturvorbereitung und der Kulturpflege eingesetzt werden.
 
 
-e)
+d)
 
 Vorhaben, bei denen Wuchshüllen aus nicht biobasiertem und nicht biologisch abbaubarem Kunststoff eingesetzt werden.
 
@@ -847,17 +843,17 @@ Zuwendungen dürfen nur bewilligt werden bei Verwendung von herkunftsgesichertem
 
 b)
 
-Der Waldumbau außerhalb von Schutzgebieten ist nur bei Nutzung standortgerechter Baumarten förderfähig. Dabei ist ein überwiegender Anteil standortheimischer Baum- und Straucharten einzuhalten, sofern diese auch für zukünftige Klimabedingungen und Schaderreger geeignet sind. Die Verjüngung innerhalb von Schutzgebieten ist nur bei Nutzung von Baum- und Straucharten der natürlichen standortheimischen Waldgesellschaft förderfähig. Das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft legt die förderfähigen Baum- und Straucharten fest und veröffentlicht eine Übersicht im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023.
+Der Waldumbau außerhalb von Schutzgebieten ist nur bei Nutzung standortgerechter Baumarten förderfähig. Dabei ist ein überwiegender Anteil (größer 50 Prozent) standortheimischer Baum- und Straucharten einzuhalten, sofern diese auch für zukünftige Klimabedingungen und Schaderreger geeignet sind. Die Verjüngung innerhalb von Schutzgebieten ist nur bei Nutzung von Baum- und Straucharten der natürlichen standortheimischen Waldgesellschaft förderfähig. Das Staatsministerium für Umwelt und Landwirtschaft legt die förderfähigen Baum- und Straucharten fest und veröffentlicht eine Übersicht im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023.
 
 
 c)
 
-Der Laubbaumanteil muss mindestens 50 Prozent betragen. Es müssen mindestens zwei förderfähige Laubbaumarten an der Verjüngung beteiligt sein. Waldsträucher, Weißtanne und Eibe werden wie Laubbäume gewertet. Der Anteil der Hauptbaumart darf 75 Prozent der Fläche nicht übersteigen.
+Der Laubbaumanteil muss mindestens 40 Prozent betragen. Es müssen mindestens zwei förderfähige Laubbaumarten an der Verjüngung beteiligt sein. Waldsträucher, Weißtanne und Eibe werden wie Laubbäume gewertet. Der Anteil der Hauptbaumart darf 75 Prozent der Fläche nicht übersteigen.
 
 
 d)
 
-Bei Pflanzung ist durch vorzugsweise trupp- bis horstweise Mischung der Baumarten dafür zu sorgen, dass kleinflächig gemischte Waldbestände entstehen.
+Die standortheimischen Baumarten sollen so gepflanzt werden, dass ihr überwiegender Anteil gesichert bleibt (z. B. mittels Gruppenpflanzung).
 
 
 e)
@@ -892,7 +888,7 @@ Vorhandene Naturverjüngung nicht standortgerechter Baumarten darf die Etablieru
 
 h)
 
-Entlang von Waldaußenrändern ist ein zehn Meter breiter, entlang von Waldinnenrändern (zu Holzabfuhrwegen, Waldwiesen und anderen Nichtholzbodenflächen) ist ein fünf Meter breiter Waldrandstreifen einzuhalten, der zu mindestens zwei Dritteln mit Waldsträuchern, niedrigen Waldbäumen (zum Beispiel Wildobst) oder standortheimischen Vorwaldbaumarten (Weichlaubbäumen) verjüngt wird.
+Entlang von Waldaußenrändern ist ein zehn Meter breiter Waldrandstreifen einzuhalten, der zu mindestens zwei Dritteln mit Waldsträuchern, niedrigen Waldbäumen (zum Beispiel Wildobst) oder standortheimischen Vorwaldbaumarten (Weichlaubbäumen) verjüngt wird. Bei Flächen, die einen hohen Waldrandanteil aufweisen (z. B. schmaler Streifen am Waldrand, Feldgehölze) kann im Einzelfall die einzuhaltende Breite reduziert werden.
 
 1.6
 
@@ -906,7 +902,7 @@ Die Zuwendung wird als Festbetrag in Form eines Zuschusses gewährt.
 
 b)
 
-Die Festbeträge auf der Grundlage standardisierter Einheitskosten sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht. Für die Verjüngung standortheimischer Waldgesellschaften in Schutzgebieten werden erhöhte Festbeträge gewährt.
+Die Festbeträge auf der Grundlage standardisierter Einheitskosten sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht. Für die Verjüngung standortheimischer Waldgesellschaften in Schutzgebieten werden erhöhte Festbeträge gewährt.
 
 
 c)
@@ -1011,22 +1007,17 @@ Begünstigte
 
 a)
 
-Begünstigt sind natürliche Personen, Personengesellschaften, juristische Personen des privaten und öffentlichen Rechts als Besitzer von forstwirtschaftlichen Flächen sowie anerkannte forstwirtschaftliche Zusammenschlüsse und denen gleichgestellte Zusammenschlüsse im Sinne des Bundeswaldgesetzes vom 2. Mai 1975 (BGBl. I S. 1037), das zuletzt durch Artikel 112 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung.
+Begünstigt sind natürliche Personen, Personengesellschaften, juristische Personen des privaten und öffentlichen Rechts als Besitzer von forstwirtschaftlichen Flächen sowie anerkannte forstwirtschaftliche Zusammenschlüsse und denen gleichgestellte Zusammenschlüsse im Sinne des Bundeswaldgesetzes, in der jeweils geltenden Fassung.
 
 
 b)
 
-Begünstigte, die nicht Eigentümer der Flächen sind, auf denen das beantragte Vorhaben durchgeführt werden soll, müssen eine Einverständniserklärung des Grundeigentümers oder vergleichbare Nachweise vorlegen.
+Teilnehmergemeinschaften nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 c)
 
-Teilnehmergemeinschaften nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung,
-
-
-d)
-
-Jagdgenossenschaften gemäß § 9 des Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849), das zuletzt durch Artikel 291 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung.
+Jagdgenossenschaften gemäß § 9 des Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849), das zuletzt durch Artikel 7 des Gesetzes vom 25. Oktober 2024 (BGBl. 2024 I Nr. 332) geändert worden ist, in der jeweils geltenden Fassung.
 
 
 Die vorgenannten Begünstigten können Träger gemeinschaftlicher Vorhaben sein, wobei Kosten für die Durchführung der Trägerschaft nicht förderfähig sind. Die Begünstigten nach Buchstabe c und d sind ausschließlich als Träger gemeinschaftlicher Vorhaben förderfähig.
@@ -1048,7 +1039,7 @@ Bei gemeinschaftlichen Vorhaben sind die Flächen der am Vorhaben beteiligten Wa
 
 c)
 
-Verläuft der Weg über Waldflächen, die nicht im Besitz der Begünstigten sind, liegt das Einverständnis der Waldbesitzenden vor (Nachweis Einverständniserklärung).
+Begünstigte, die nicht Eigentümer der Fläche sind, auf denen das beantragte Vorhaben durchgeführt werden soll, müssen eine Einverständniserklärung des Grundeigentümers oder vergleichbare Nachweise vorlegen.
 
 
 d)
@@ -1340,7 +1331,7 @@ Art und Umfang, Höhe der Zuwendungen
 
 a)
 
-Die Zuwendungen zur Förderung der Zusammenfassung des Holzangebotes, der Waldpflegeverträge und der Mitgliederinformation und -aktivierung werden als Festbetragsfinanzierung in Form eines einmaligen Zuschusses gewährt und im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
+Die Zuwendungen zur Förderung der Zusammenfassung des Holzangebotes, der Waldpflegeverträge und der Mitgliederinformation und -aktivierung werden als Festbetragsfinanzierung in Form eines einmaligen Zuschusses gewährt und im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
 
 
 b)
@@ -1415,7 +1406,7 @@ das heißt die Kulturbegründung (Pflanzung) einschließlich Kulturvorbereitung,
 Nachbesserung von Erstaufforstungen,
 
 
-die gemäß den Richtlinien Wald und Forstwirtschaft (FRL WuF/2014) vom 15. Dezember 2014 (SächsABl. SDr. 2015 S. S 48), die zuletzt durch die Richtlinie vom 17. Dezember 2019 (SächsABl. SDr. 2020 S. S 66) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 414) und Wald und Forstwirtschaft (FRL WuF/2020) vom 16. September 2020 (SächsABl. S. 1106), die zuletzt durch die Richtlinie vom 30. August 2022 (SächsABl. S. 1081) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), gefördert wurden, in den ersten fünf Jahren nach der Kulturbegründung, wenn aufgrund natürlicher Ereignisse, zum Beispiel Frost, Trockenheit oder Überschwemmung, Ausfälle von mehr als 30 Prozent der Pflanzenanzahl oder ein Hektar zusammenhängender Fläche aufgetreten sind und die Waldbesitzenden den Ausfall nicht zu vertreten haben. Die Nachbesserungen sollen grundsätzlich dem geförderten Kulturtyp entsprechen.
+Förderfähig sind Nachbesserungen nach Ablauf des ersten Jahres nach der Anpflanzung, wenn bei den geförderten Kulturen aufgrund natürlicher Ereignisse, zum Beispiel Frost, Trockenheit oder Überschwemmung (nicht jedoch Wildverbiss), Ausfälle in Höhe von mehr als 30 Prozent der Pflanzenanzahl oder einem Hektar zusammenhängender Fläche aufgetreten sind und die Waldbesitzenden den Ausfall nicht zu vertreten haben. Die Nachbesserungen sollen grundsätzlich dem geförderten Kulturtyp entsprechen.
 
 4.3
 
@@ -1433,7 +1424,7 @@ Weihnachtsbaum- und Schmuckreisigkulturen, Niederwald mit Kurzumtrieb oder Anpfl
 b)
 
 
-Erstaufforstungen, die zu einer Beseitigung, Beschädigung oder erheblichen Beeinträchtigung von Naturschutzgebieten gemäß § 23, von Nationalparken und Nationalen Naturmonumenten gemäß § 24, von Naturdenkmalen gemäß § 28, von gesetzlich geschützten Biotopen gemäß § 30 sowie von Natura 2000-Gebieten gemäß § 32 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 3 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2240) geändert worden ist, in der jeweils geltenden Fassung, führen, das gleiche gilt für gesetzlich geschützte Biotope gemäß § 21 des Sächsischen Naturschutzgesetzes vom 6. Juni 2013 (SächsGVBl. S. 451), das zuletzt durch Artikel 6 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung,
+Erstaufforstungen, die zu einer Beseitigung, Beschädigung oder erheblichen Beeinträchtigung von Naturschutzgebieten gemäß § 23, von Nationalparken und Nationalen Naturmonumenten gemäß § 24, von Naturdenkmalen gemäß § 28, von gesetzlich geschützten Biotopen gemäß § 30 sowie von Natura 2000-Gebieten gemäß § 32 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, in der jeweils geltenden Fassung, führen, das gleiche gilt für gesetzlich geschützte Biotope gemäß § 21 des Sächsischen Naturschutzgesetzes vom 6. Juni 2013 (SächsGVBl. S. 451), das zuletzt durch das Gesetz vom 22. Juli 2024 (SächsGVBl. S. 672) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 c)
@@ -1483,12 +1474,12 @@ Die Aufforstung ist nur bei Verwendung standortgerechter Baumarten förderfähig
 
 d)
 
-Das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft legt die förderfähigen Baum- und Straucharten fest und veröffentlicht eine Übersicht im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023.
+Das Staatsministerium für Umwelt und Landwirtschaft legt die förderfähigen Baum- und Straucharten fest und veröffentlicht eine Übersicht im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023.
 
 
 e)
 
-Der Laubbaumanteil muss mindestens 50 Prozent betragen. Es müssen mindestens zwei förderfähige Laubbaumarten beteiligt sein. Waldsträucher, Weißtanne und Eibe werden wie Laubbäume gewertet. Der Anteil der Hauptbaumart darf 80 Prozent der Fläche nicht übersteigen.
+Der Laubbaumanteil muss mindestens 40 Prozent betragen. Es müssen mindestens zwei förderfähige Laubbaumarten beteiligt sein. Waldsträucher, Weißtanne und Eibe werden wie Laubbäume gewertet. Der Anteil der Hauptbaumart darf 80 Prozent der Fläche nicht übersteigen.
 
 
 f)
@@ -1505,6 +1496,11 @@ h)
 
 Große Unternehmen im Sinne der Agrarfreistellungsverordnung müssen relevante Informationen aus einem Waldbewirtschaftungsplan vorlegen.
 
+
+i)
+
+Bei Nachbesserungen, die mit Schäden durch einer Naturkatastrophe gleichzusetzende widrige Witterungsverhältnisse, Pflanzenschädlinge oder invasive gebietsfremde Arten mit dem Klimawandel in Verbindung gebracht werden, haben die Begünstigten einen Nachweis über geeignete Risikomanagementinstrumente (z. B. Auswahl Pflanzzeitpunkt, Nachbesserung mit standortgerechten Baumarten und Vorwald mit trockentoleranten Pflanzen) vorzulegen, um das potenzielle Auftreten des Schadensereignisses in Zukunft gegebenenfalls zu verhindern.
+
 4.6
 
 Art und Umfang, Höhe der Zuwendungen
@@ -1515,7 +1511,7 @@ a)
 Die Zuwendungen für die Erstaufforstung und Nachbesserung werden als Festbetragsfinanzierung in Form eines Zuschusses gewährt.
 
 
-Die Festbeträge auf der Grundlage standardisierter Einheitskosten sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
+Die Festbeträge auf der Grundlage standardisierter Einheitskosten sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
 
 
 b)
@@ -1536,7 +1532,7 @@ Die Zweckbindungsfrist für Vorhaben zur Erstaufforstung beträgt acht Jahre ab 
 
 b)
 
-Ist beabsichtigt, für eine aufgeforstete Fläche einen Ertragsausfallprämie nach Förderrichtlinie Agrarumwelt- und Klimamaßnahmen vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 12. März 2024 (SächsABl. S. 364) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, zu beantragen, ist dies im Förderantrag zu erklären. Es muss die bisherige Nutzungsart (Ackerland oder Grünland) angegeben werden. Für unterschiedliche Nutzungsarten müssen getrennte Anträge gestellt werden.
+Ist beabsichtigt, für eine aufgeforstete Fläche einen Ertragsausfallprämie nach Förderrichtlinie Agrarumwelt- und Klimamaßnahmen vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 6. März 2025 (SächsABl. S. 354) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, zu beantragen, ist dies im Förderantrag zu erklären. Es muss die bisherige Nutzungsart (Ackerland oder Grünland) angegeben werden. Für unterschiedliche Nutzungsarten müssen getrennte Anträge gestellt werden.
 
 5.
 
@@ -1564,7 +1560,7 @@ Einsatz von Pflanzenschutzmitteln zur Bekämpfung von rindenbrütenden Schadinse
 
 a)
 
-wenn das Holzpolter außerhalb eines festgesetzten Naturschutzgebietes nach § 14 oder eines Nationalen Naturmonumentes nach § 15 des Sächsischen Naturschutzgesetzes in der jeweils geltenden Fassung, und außerhalb eines festgesetzten Trinkwasserschutzgebietes nach § 51 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 46 Abs. 1 des Sächsischen Wassergesetzes vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung,
+wenn das Holzpolter außerhalb eines festgesetzten Naturschutzgebietes nach § 14 oder eines Nationalen Naturmonumentes nach § 15 des Sächsischen Naturschutzgesetzes in der jeweils geltenden Fassung, und außerhalb eines festgesetzten Trinkwasserschutzgebietes nach § 51 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 46 Abs. 1 des Sächsischen Wassergesetzes vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 17 des Gesetzes vom 27. Juni 2025 (SächsGVBl. S. 285) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 b)
@@ -1645,7 +1641,7 @@ Maßnahmen des regulären Holzeinschlags,
 
 b)
 
-der Kauf von Maschinen und Geräten (ausgenommen für Geräte, die bei der Anlage von Lagerplätzen für den ordnungsgemäßen Betrieb der jeweiligen Anlagen erforderlich sind).
+der Kauf von Maschinen und Geräten (ausgenommen sind Geräte zum ordentlichen Betrieb von Nasslagerplätzen).
 
 5.4
 
@@ -1708,7 +1704,7 @@ Die Zuwendung für die Polterspritzung, die Maßnahmen zur Aufarbeitung nach Num
 
 b)
 
-Die Festbeträge sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
+Die Festbeträge sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
 
 
 c)
@@ -1802,7 +1798,7 @@ Die Zuwendung wird als Festbetragsfinanzierung in Form eines Zuschusses gewährt
 
 b)
 
-Die Festbeträge auf der Grundlage standardisierter Einheitskosten sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
+Die Festbeträge auf der Grundlage standardisierter Einheitskosten sowie die zugrundeliegenden Bezugsgrößen werden durch das Staatsministerium für Umwelt und Landwirtschaft auf der Grundlage einer vorab aufgestellten Kalkulation festgelegt und im Förderportal des Staatsministeriums für Umwelt und Landwirtschaft unter der Adresse https://www.lsnq.de/WuF2023 veröffentlicht.
 
 
 c)
@@ -1830,7 +1826,7 @@ Anträge für forstwirtschaftlichen Wegebau müssen immer zu den Stichtagen 31. 
 
 4.
 
-Anträge für Förderung forstwirtschaftlicher Zusammenschlüsse, für die im Folgejahr eine Bewilligung erfolgen soll, müssen bis zum 31. Oktober des jeweils laufenden Jahres gestellt sein. Diese Anträge müssen sich auf Vorhaben beziehen, die im Folgejahr realisiert werden sollen (Ausführungszeitraum).
+Anträge für Förderung forstwirtschaftlicher Zusammenschlüsse, für die im Folgejahr eine Bewilligung erfolgen soll, müssen bis zum 31. Dezember des jeweils laufenden Jahres gestellt sein. Diese Anträge müssen sich auf Vorhaben beziehen, die im Folgejahr realisiert werden sollen (Ausführungszeitraum).
 
 5.
 
@@ -1843,25 +1839,6 @@ Anträge für die Waldschutzmaßnahmen Einsatz von Pflanzenschutzmitteln und Auf
 7.
 
 Förderanträge für Waldumbau, forstwirtschaftlichen Wegebau, Erstaufforstung, Bau von Lagerplätzen und bodenschonende Holzrückung werden vor der Bewilligung durch den örtlichen Forstbezirk daraufhin begutachtet, ob die Maßnahmen forstfachlich sinnvoll sind und den Förderkriterien entsprechen. Ist die beantragte Maßnahme forstfachlich nicht oder nur eingeschränkt oder mit Änderungen sinnvoll, wird der Förderantrag entsprechend abgelehnt oder mit Einschränkungen oder Auflagen bewilligt. Bei Anträgen für Waldschutzmaßnahmen mit vereinfachtem Verfahren ist die forstfachliche Stellungnahme als Teil des Verwendungsnachweises einzureichen.
-
-8.
-
-Möglichkeit von Nachbewilligungen:
-
-
-a)
-
-Bei einem Vorhaben mit Festbetragsfinanzierung werden die zum Zeitpunkt der Antragstellung geltenden Festbeträge der Bewilligung zugrunde gelegt. Werden die Festbeträge in dieser Förderrichtlinie zu einem späteren Zeitpunkt an das aktuelle Kostenniveau angepasst (Neukalkulation), bevor das Vorhaben abgeschlossen ist, bleibt der bewilligte Zuwendungsbetrag unverändert. Eine Nachbewilligung aufgrund der Anpassung der Festbeträge an aktuelle Marktbedingungen ist ausgeschlossen.
-
-
-b)
-
-Bei Waldumbauvorhaben beträgt die Untergrenze (Bagatellgrenze), ab der ein Antrag auf Nachbewilligung aufgrund der Änderung von Flächengrößen, Pflanzenstückzahlen oder Baumarten bearbeitet wird, 250 Euro. Erhöht sich der Zuwendungsbetrag gemäß Baumarten- und Finanzplan gegenüber dem ursprünglichen Antrag um mindestens 250 Euro, ist der geänderte Baumarten- und Finanzplan einzureichen. Die Bewilligungsbehörde entscheidet dann über eine förmliche Nachbewilligung mit erhöhter Zuwendung.
-
-
-c)
-
-Liegt die Differenz unter 250 Euro, sind die Änderungen der Flächengröße, der Pflanzenstückzahlen und der Baumarten formlos bei der Bewilligungsbehörde zu beantragen. Eine Erhöhung des bewilligten Zuwendungsbetrags ist für diesen Fall ausgeschlossen.
 
 
 II.
@@ -1886,6 +1863,11 @@ Mit dem Verwendungsnachweis ist die Rechnung oder der Lieferschein einzureichen,
 
 
 b)
+
+Mit dem Verwendungsnachweis ist für die Planungspauschale nach Teil B Ziffer II Nummer 1.6 Buchstabe c eine Rechnung für Fremdleistungen des Planers vorzulegen.
+
+
+c)
 
 Die Auszahlung der Mittel erfolgt auf Basis der durch den zuständigen Forstbezirk ermittelten Gesamtfläche des Vorhabens (abzüglich nicht förderfähiger Flächenanteile, zum Beispiel entsprechend Buchstabe B Ziffer II Nummer 1.6 c) sowie der ausgebrachten Pflanzenstückzahl oder Saatgutmenge in Kilogramm.
 
@@ -1977,7 +1959,7 @@ Für bodenschonende Holzrückung gilt:
 
 a)
 
-Mit dem Verwendungsnachweis sind die Rechnungen für die förderfähigen Vorrücke- und Rückearbeiten einzureichen.
+Mit dem Verwendungsnachweis sind die Rechnungen für Fremdleistungen für die förderfähigen Vorrücke- und Rückearbeiten einzureichen.
 
 
 b)
@@ -2037,27 +2019,27 @@ die Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rate
 
 2.
 
-die Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik (ABl. L 231 vom 30.6.2021, S. 159),
+die Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik (ABl. L 231 vom 30.6.2021, S. 159), zuletzt geändert durch die Verordnung (EU) 2024/795 des Europäischen Parlaments und des Rates vom 29. Februar 2024 (ABl. L 795 vom 29.2.2024, S. 1),
 
 3.
 
-die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1),
+die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1), zuletzt geändert durch die Verordnung (EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L 1468 vom 24.5.2024, S. 1),
 
 4.
 
-die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187),
+die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187), zuletzt geändert durch die Verordnung 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L 1468 vom 24.5.2024, S. 1),
 
 5.
 
-die delegierte Verordnung (EU) 2022/127 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95),
+die delegierte Verordnung (EU) 2022/127 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95), zuletzt geändert durch die delegierte Verordnung (EU) 2025/310 der Kommission vom 5. Dezember 2024 (ABl. L 310 vom 12.2.2025, S. 1),
 
 6.
 
-die Durchführungsverordnung (EU) 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131),
+die Durchführungsverordnung (EU) 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131), zuletzt geändert durch die Durchführungsverordnung 2023/2773 der Kommission vom 13. Dezember 2023 (ABl. L 2773 vom 14.12.2023, S. 1),
 
 7.
 
-die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197),
+die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197), zuletzt geändert durch die Durchführungsverordnung 2024/194 der Kommission vom 8. Januar 2024 (ABl. L vom 9.1.2024, S. 1),
 
 8.
 
@@ -2110,7 +2092,7 @@ Vergabe von Aufträgen
 Vergabedokumentation
 
 
-(1) Sind die Begünstigten als öffentliche Auftraggeber verpflichtet, die Vergabeverordnung (VgV) vom 12. April 2016 (BGBl. I S. 624), die zuletzt durch Artikel 1 der Verordnung vom 7. Februar 2024 (BGBl. 2024 I Nr. 39) geändert worden ist, in der jeweils geltenden Fassung, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so haben sie die Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen vorzulegen. Die Verpflichtung zur Einhaltung der Vergabevorschriften ergibt sich aus den §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 25 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist, sowie aus § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), das durch Artikel 2 Absatz 18 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in den jeweils geltenden Fassungen.
+(1) Sind die Begünstigten als öffentliche Auftraggeber verpflichtet, die Vergabeverordnung (VgV) vom 12. April 2016 (BGBl. I S. 624), die zuletzt durch Artikel 1 der Verordnung vom 7. Februar 2024 (BGBl. 2024 I Nr. 39) geändert worden ist, in der jeweils geltenden Fassung, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so haben sie die Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen vorzulegen. Die Verpflichtung zur Einhaltung der Vergabevorschriften ergibt sich aus den §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 6 des Gesetzes vom 5. Dezember 2024 (BGBl. 2024 I Nr. 400) geändert worden ist, sowie aus § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), das durch Artikel 2 Absatz 18 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in den jeweils geltenden Fassungen.
 
 (2) Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen (zum Beispiel alle weiteren Angebote) nachzufordern und Vergabeprüfungen durchzuführen.
 
@@ -2213,7 +2195,7 @@ Abrechnung und Auszahlung der Zuwendung
 
 (1) Die Auszahlung der bewilligten Zuwendung erfolgt unabhängig von der Gewährung eines Vorschusses im Erstattungsverfahren. Die Auszahlung der Zuwendung kann erst beantragt werden, wenn die damit verbundene Leistung tatsächlich erbracht ist.
 
-(2) Der Auszahlungsantrag ist nach Abschluss des Vorhabens bis zum festgesetzten Abrechnungstermin bei der Bewilligungsbehörde einzureichen. Eine Änderung des Abrechnungstermins bedarf eines schriftlichen Antrags und der Entscheidung der Bewilligungsbehörde. Bei Überschreiten des Abrechnungstermins besteht kein Anspruch auf Auszahlung.
+(2) Der Auszahlungsantrag ist nach Abschluss des Vorhabens bis zum festgesetzten Abrechnungstermin bei der Bewilligungsbehörde einzureichen. Eine Änderung des Abrechnungstermins bedarf eines Antrags und der Entscheidung der Bewilligungsbehörde. Bei Überschreiten des Abrechnungstermins besteht kein Anspruch auf Auszahlung.
 
 (3) Teilzahlungsanträge sind zulässig, wenn sie in der Förderrichtlinie oder im Bewilligungsbescheid nicht ausgeschlossen sind. Im Fall der Förderung mit vereinfachten Kostenoptionen kann die Teilauszahlung nur bei Nachweis entsprechender im Bewilligungsbescheid festgelegter Einheiten/Zwischenziele/Meilensteine geleistet werden.
 
@@ -2308,7 +2290,7 @@ g)
 sie innerhalb der Zweckbindungsfrist beabsichtigen, die geförderten Grundstücke, Bauten und baulichen Anlagen, technischen Einrichtungen, Maschinen und Geräte zu veräußern oder nicht mehr entsprechend dem im Bewilligungsbescheid festgelegten Zuwendungszweck zu nutzen, oder wenn die geförderte Investition auf eine andere Rechtsperson übergeht (zum Beispiel vorweggenommene Erbfolge, Verpachtung, Gründung oder Auflösung einer GbR, Verkauf, Zwangsversteigerung).
 
 
-(2) Im Falle der Übertragung der Förderung hat der Übernehmer der Bewilligungsbehörde innerhalb von 15 Arbeitstagen die Übernahme schriftlich mitzuteilen. Fälle höherer Gewalt oder außergewöhnlicher Umstände sind ebenfalls innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten dazu in der Lage sind, schriftlich anzuzeigen.
+(2) Im Falle der Übertragung der Förderung hat der Übernehmer der Bewilligungsbehörde innerhalb von 15 Arbeitstagen die Übernahme mitzuteilen. Fälle höherer Gewalt oder außergewöhnlicher Umstände sind ebenfalls innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten dazu in der Lage sind, anzuzeigen.
 
 (3) Die Begünstigten sind verpflichtet, die von der Bewilligungsbehörde im Bewilligungsbescheid abgeforderten Daten zu dem geförderten Vorhaben zum Zwecke der Verwaltung, Kontrolle, Prüfung, Überwachung (Monitoring) und Evaluierung zu erheben und der Bewilligungsbehörde zu den vorgegebenen Zeitpunkten zu übermitteln. Dazu haben sie, soweit erforderlich, auch die abgeforderten Daten bei den an dem Vorhaben Teilnehmenden und an dem Vorhaben beteiligten Partner/innen zu erheben und entsprechende Einverständniserklärungen einzuholen. Zudem haben sie die an dem Vorhaben Teilnehmenden über die Notwendigkeit, die Rechtmäßigkeit und den Umfang der Datenerhebung und -verarbeitung zu informieren. Die Daten bilden die Grundlage für Berichtspflichten des jeweiligen Bundeslandes gegenüber der Europäischen Kommission. Zudem sind die Begünstigten verpflichtet, mit den für das Monitoring und die Evaluierung des GAP-Strategieplans beauftragten Stellen zusammenzuarbeiten.
 
@@ -2317,7 +2299,7 @@ sie innerhalb der Zweckbindungsfrist beabsichtigen, die geförderten Grundstück
 Subventionsbetrug
 
 
-(1) Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im Sinne von § 264 des Strafgesetzbuches in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das zuletzt durch Artikel 1 des Gesetzes vom 24. Juni 2024 (BGBl. 2024 I Nr. 213) geändert worden ist, in der jeweils geltenden Fassung, von denen die Bewilligung, Auszahlung oder Rückforderung der beantragten Zuwendung abhängig ist. Unrichtige, unvollständige oder unterlassene Angaben über subventionserhebliche Tatsachen fallen unter den Tatbestand des Subventionsbetruges nach § 264 des Strafgesetzbuches, in der jeweils geltenden Fassung. Subventionserheblich sind insbesondere alle Tatsachen, von denen nach Verwaltungsverfahrensrecht, nach Haushaltsrecht oder anderen Rechtsvorschriften die Rückzahlung der Zuwendung abhängig ist sowie solche, die durch Scheingeschäfte und Scheinhandlungen verdeckt werden.
+(1) Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im Sinne von § 264 des Strafgesetzbuches in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das zuletzt durch Artikel 2 Absatz 2 des Gesetzes vom 7. November 2024 (BGBl. 2024 I Nr. 351) geändert worden ist, in der jeweils geltenden Fassung, von denen die Bewilligung, Auszahlung oder Rückforderung der beantragten Zuwendung abhängig ist. Unrichtige, unvollständige oder unterlassene Angaben über subventionserhebliche Tatsachen fallen unter den Tatbestand des Subventionsbetruges nach § 264 des Strafgesetzbuches, in der jeweils geltenden Fassung. Subventionserheblich sind insbesondere alle Tatsachen, von denen nach Verwaltungsverfahrensrecht, nach Haushaltsrecht oder anderen Rechtsvorschriften die Rückzahlung der Zuwendung abhängig ist sowie solche, die durch Scheingeschäfte und Scheinhandlungen verdeckt werden.
 
 (2) Stellt die Bewilligungsbehörde fest, dass tatsächliche Anhaltspunkte vorliegen, die den Verdacht eines Subventionsbetruges rechtfertigen oder dass die Begünstigten vorsätzlich falsche Angaben gemacht haben, hat sie diesen Vorgang gemäß Artikel 325 des Vertrags über die Arbeitsweise der Europäischen Union, § 1 des Gesetzes gegen mißbräuchliche Inanspruchnahme von Subventionen nach Landesrecht vom 14. Januar 1997 (SächsGVBl. S. 2) in Verbindung mit § 6 des Subventionsgesetzes vom 29. Juli 1976 (BGBl. I S. 2034, 2037), in den jeweils geltenden Fassungen, der zuständigen Strafverfolgungsbehörde zu übergeben.
 
@@ -2382,7 +2364,7 @@ Vorhaben, die Ausgleichs- und Ersatzmaßnahmen für Eingriffe in Natur und Lands
 12.
 
 
-Errichtung oder Erweiterung baulicher Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten nach § 76 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, liegen. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn das Vorhaben von der zuständigen unteren Wasserbehörde (zum Beispiel nach § 74 Absatz 2 des Sächsisches Wassergesetzes vom 12. Juli 2013 [SächsGVBl. S. 503], das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 [SächsGVBl. S. 705] geändert worden ist, in der jeweils geltenden Fassung) genehmigt wurde oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung zustimmt.
+Errichtung oder Erweiterung baulicher Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten nach § 76 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, liegen. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn das Vorhaben von der zuständigen unteren Wasserbehörde (zum Beispiel nach § 74 Absatz 2 des Sächsisches Wassergesetzes vom 12. Juli 2013 [SächsGVBl. S. 503], das zuletzt durch Artikel 17 des Gesetzes vom 27. Juni 2025 [SächsGVBl. S. 285] geändert worden ist, in der jeweils geltenden Fassung) genehmigt wurde oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung zustimmt.
 
 
 Anlage 4
@@ -2552,61 +2534,21 @@ xxx
 
 | 
 
-Das Material stammt ausschließlich
-aus stationären Anlagen mit Sortierung.
+Die Anforderungen der ErsatzbaustoffV sind einzuhalten.
 
 
 | -
 
 | 
 
-Der Hersteller unterliegt nachweislich
-einer Güteüberwachung bestehend aus werkseigener Produktionskontrolle, Fremdüberwachung und gegebenenfalls behördlicher Überwachung.
+Im forstlichen Wegebau ist ausschließlich Recycling-Baustoff der Klasse 1 (RC-1) 																		zugelassen.
 
 
 | -
 
 | 
 
-Das Ausgangsmaterial ist ausschließlich
-reines Betonmaterial.
-
-
-| -
-
-| 
-
-Das Material ist zugelassen zur
-Verwendung als
-Schottertragschicht (STS).
-
-
-| -
-
-| 
-
-Der Anteil an Fremdstoffen im
-Recycling-Material liegt unter
-drei Prozent.
-
-
-| -
-
-| 
-
-Das Material erfüllt die Anforderungen
-der Einbaukonfiguration
-W 1.1 – Verwendung in technischen
-Bauwerken (offen) gemäß den vorläufigen Hinweisen zum Einsatz von Baustoffrecyclingmaterial
-(Recyclingerlass) des
-Staatsministeriums für Energie,
-Klimaschutz, Umwelt und Landwirtschaft vom 13. Dezember 2012 in der jeweils geltenden Fassung (Link: https://www.wertstoffe.
-sachsen.de/mineralische-
-abfalle-9662.html) beziehungsweise deren Nachfolgeregelungen Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technischen Bauwerken vom 9. Juli 2021 (BGBl. I S. 2598) und dem Erlass des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft vom 10. Mai 2023
-(https://www.wertstoffe.
-sachsen.de/download/
-Erlass_LDS_Einfuerung_
-EBV_2023_05_10.pdf)
+Der Anteil an Fremdstoffen im Recycling-Baustoff liegt unter drei Prozent.
 
 
 | -
@@ -2620,7 +2562,14 @@ Der Wegekörper erhält eine Deckschicht aus gebrochenem Naturstein (mindestens 
 
 | 
 
-Grundsätzlich ausgeschlossen ist der Einsatz von Recyclingmaterial innerhalb von Schutzgebieten nach Wasserrecht und innerhalb von Schutzgebieten (ausgenommen Landschaftsschutzgebiete) und geschützten Biotopen nach Naturschutzrecht.
+Grundsätzlich ausgeschlossen ist der Einsatz von Recyclingmaterial innerhalb von Schutzgebieten (ausgenommen Landschaftsschutzgebiete) und geschützten Biotopen nach Naturschutzrecht.
+
+
+| -
+
+| 
+
+Für den Einsatz in Wasserschutzgebieten, Heilquellenschutzgebieten und Wasservorranggebieten gelten die Anforderungen des § 19 Absatz 6 ErsatzbaustoffV.
 
 
 | Zertifikate und Nachweise, die belegen, dass die Anforderungen eingehalten werden, sind vom Hersteller beizubringen und dem Förderantrag und dem Verwendungsnachweis beizulegen.
@@ -2672,9 +2621,9 @@ Fsn-Nr.: 5563-V23.7
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. August 2024
+Fassung gültig ab:  6. November 2025
 
-Fassung gültig bis:  5. November 2025
+Fassung gültig bis: 18. August 2026
 
 Drucken/Speichern
 
@@ -2699,7 +2648,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/20071.2
+https://www.revosax.sachsen.de/vorschrift/20071.3
 Stand vom
 18.11.2026
 
