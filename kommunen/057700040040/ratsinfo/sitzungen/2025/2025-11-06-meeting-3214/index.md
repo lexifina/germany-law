@@ -1,0 +1,60 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2025-11-06T17:00:00+01:00
+- Ende: 2025-11-06T18:43:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW6zBTDx7QRoIl95heYtbIw
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3214
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYF9beIDBAXjW0YoOiQxpAdwloxzIYG3lftwdVnFVmto/Bekanntmachung_Rat_06.11.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb-EnRF9rb7UPvD9BMlwvGQ0nAYjYr9K-8X4YuASxYE5/Oeffentliche_Niederschrift_Rat_06.11.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Einführung des Bürgermeisters durch den Altersvorsitzenden - Ohne Abstimmung
+- TOP 5.: Bestellung einer Schriftführerin, bzw. eines Schriftführers - Einstimmig, 0 Enthaltungen
+- TOP 6.: Verabschiedung der ausscheidenden Ratsmitglieder - Ohne Abstimmung
+- TOP 7.: Verpflichtung und Einführung der Ratsmitglieder durch den Bürgermeister - Ohne Abstimmung
+- TOP 8.: Wahl der Stellvertretungen des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 9.: Verpflichtung und Einführung der Stellvertretungen des Bürgermeisters - Ohne Abstimmung
+- TOP 10.: Wahl der Ortsvorsteher - 31 Stimmen dafür, 0 dagegen, 3 Enthaltungen
+- TOP 11.: Beratung und Beschlussfassung für die zu bildenden Ausschüsse und Festlegung der Mitgliederzahlen - Einstimmig, 0 Enthaltungen
+- TOP 11.1: Wahlen zu den Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 11.2: Bestimmung der Vorsitzenden der Ausschüsse - Einstimmig, 0 Enthaltungen
+- TOP 11.3: Wahl der Mitglieder und Stellvertretungen des Arbeitskreises Ehrenamt - Einstimmig, 0 Enthaltungen
+- TOP 12.: Einführung und Verpflichtung der sachkundigen Bürger - Ohne Abstimmung
+- TOP 13.: Wahl des vorsitzenden Mitgliedes des Verwaltungsrates der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 14.: Wahl der Mitglieder und stellvertretenden Mitglieder des Verwaltungsrates der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Wahl von 2 stellvertretenden Vorsitzenden des Verwaltungsrates der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Wahl von 2 Mitgliedern für die Verbandsversammlung des Westfälisch-Lippischen Sparkassen- und Giroverbandes - Einstimmig, 0 Enthaltungen
+- TOP 17.: Wahl von 3 Mitgliedern des Beirates der Stiftung "Standort: hier" der Stadtsparkasse Rahden und deren Vertreter - Einstimmig, 0 Enthaltungen
+- TOP 18.: Wahl von 2 Mitgliedern des Vorstandes und 6 Mitgliedern der Verbandsversammlung des Wasserverbandes "Große Aue" und deren Stellvertretungen - Einstimmig, 0 Enthaltungen
+- TOP 19.: Wahl eines Vertreters und Stellvertreters in die Verbandsversammlung des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe - Einstimmig, 0 Enthaltungen
+- TOP 20.: Wahl eines Vertreters und eines Stellvertreters in den Beirat des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe - Einstimmig, 0 Enthaltungen
+- TOP 21.: Wahl von 4 Mitgliedern und Stellvertretungen in die Verbandsversammlung des Zweckverbandes Volkshochschule Lübbecker Land - Einstimmig, 0 Enthaltungen
+- TOP 22.: Wahl von 5 Mitgliedern und Stellvertretungen in die Verbandsversammlung des Musikschulverbandes Espelkamp/Rahden/Stemwede - Einstimmig, 0 Enthaltungen
+- TOP 23.: Wahl eines Mitglieds und einer Stellvertretung in die Gesellschafterversammlung der Minden-Herforder Verkehrsgesellschaft mbH - Einstimmig, 0 Enthaltungen
+- TOP 24.: Wahl eines Mitglieds und einer Stellvertretung in die Gesellschafterversammlung der Betriebsgesellschaft Radio Minden-Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 25.: Wahl von 4 Mitgliedern und Stellvertretungen in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes - Einstimmig, 0 Enthaltungen
+- TOP 26.: Wahl eines Mitglieds und einer Stellvertretung in die Mitgliederversammlung der Interessengemeinschaft Standortförderung Kreis Minden-Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 27.: Bestimmung eines Mitglieds und einer Stellvertretung für den Vorstand der Fischereigenossenschaft Rahden u. U. - Einstimmig, 0 Enthaltungen
+- TOP 28.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2024 - Einstimmig, 0 Enthaltungen
+- TOP 29.: Wahlrecht zur Aufstellung eines Gesamtabschlusses der Stadt Rahden zum 31.12.2024 - Einstimmig, 0 Enthaltungen
+- TOP 30.: Beteiligungsbericht der Stadt Rahden zum 31.12.2024 - Einstimmig, 0 Enthaltungen
+- TOP 31.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2024; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 32.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2024; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 33.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2024; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 34.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 35.: Grundstücksangelegenheiten
+- TOP 35.1: Veräußerung einer städtischen Fläche in Wehe - Mobilfunkstandort - Einstimmig, 0 Enthaltungen
+- TOP 35.2: Erwerb des unbebauten Grundstücks Gemarkung Rahden Flur 5 Flurstück 732 (Marktstraße 16) - 19 Stimmen dafür, 0 dagegen, 16 Enthaltungen
+- TOP 35.3: Grundstücksangelegenheit - Einstimmig, 0 Enthaltungen
+- TOP 36.: Bekanntgaben und Anfragen
