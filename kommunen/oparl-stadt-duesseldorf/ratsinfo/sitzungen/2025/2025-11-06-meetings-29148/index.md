@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-06T11:00:00+01:00
+- Ende: 2025-11-06T16:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29148
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29148
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 06.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567244.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 06.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567244.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 06.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567244.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung von Oberbürgermeister Dr. Keller
+- TOP 2: Verpflichtung der Ratsmitglieder
+- TOP 3: Bestellung der Schriftführerin des Rates - einstimmig beschlossen
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen/Stellvertreter des Oberbürgermeisters - einstimmig beschlossen
+- TOP 6: Wahl der ehrenamtlichen Stellvertreterinnen/Stellvertreter des Oberbürgermeisters - mehrheitlich beschlossen
+- TOP 7: Bildung der Ausschüsse und Festlegung der Zahl ihrer Mitglieder - mehrheitlich beschlossen
+- TOP 7.1: Änderungsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI zur Vorlage RAT/383/2025
+- TOP 8: Wahl der Ausschussmitglieder sowie der Stellvertreterinnen und Stellvertreter - einstimmig beschlossen
+- TOP 9: Bildung des Wahlprüfungsausschusses und Bestellung der Mitglieder für die Kommunalwahlen und die Integrationsratswahl 2025 - einstimmig beschlossen
+- TOP 10: Jugendhilfeausschuss - Wahl von Mitgliedern - - einstimmig beschlossen
+- TOP 11: Ausschuss für Chancengerechtigkeit und Integration - einstimmig beschlossen
+- TOP 12: Schulausschuss -Wahl der Mitglieder- - einstimmig beschlossen
+- TOP 13: Verteilung der Ausschussvorsitze und stellvertretenden Ausschussvorsitze sowie Bestimmung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden - einstimmig beschlossen
+- TOP 14: Umlegungsausschuss -Bestellung von Mitgliedern- - einstimmig beschlossen
+- TOP 15: Bestellung der beratenden Ausschussmitglieder - mehrheitlich beschlossen
+- TOP 16: Bildung der 16. Landschaftsversammlung Rheinland -Neuwahl der Mitglieder und Ersatzmitglieder- - mehrheitlich beschlossen
+- TOP 17: Regionalrat Düsseldorf - Wahl der stimmberechtigten Mitglieder - - mehrheitlich beschlossen
+- TOP 18: Aufsichtsrat der Bädergesellschaft Düsseldorf mbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 19: Aufsichtsrat der Connected Mobility Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 20: Aufsichtsrat der D.LIVE GmbH & Co. KG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 21: Aufsichtsrat der Düsseldorf Marketing GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 22: Aufsichtsrat der Düsseldorf Tourismus GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 23: Aufsichtsrat der Düsseldorfer Innovations- und Technologiezentrum GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 24: Aufsichtsrat der Flughafen Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 25: Aufsichtsrat der Hafen Krefeld GmbH & Co. KG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 26: Aufsichtsrat der Holding der Landeshauptstadt Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 27: Aufsichtsrat der Industrieterrains Düsseldorf-Reisholz AG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 28: Aufsichtsrat der IPM Immobilien Projekt Management Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 29: Aufsichtsrat der Jugendberufshilfe Düsseldorf gemeinnützige Gesellschaft - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 30: Aufsichtsrat der Kunsthalle Düsseldorf gGmbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 31: Aufsichtsrat der Messe Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 32: Aufsichtsrat der Neue Schauspiel – Gesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 33: Aufsichtsrat der Neuss-Düsseldorfer Häfen GmbH & Co. KG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 34: Neuss-Düsseldorfer Häfen GmbH & Co. KG - Neuwahl der Arbeitnehmendenvertretung in den Aufsichtsrat - einstimmig beschlossen
+- TOP 35: Aufsichtsrat der Regiobahn Fahrbetriebsgesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 36: Aufsichtsrat der Regionale Bahngesellschaft Kaarst - Neuss - Düsseldorf - Erkrath - Mettmann - Wuppertal mbH - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 37: Aufsichtsrat der Rheinbahn AG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 38: Aufsichtsrat der Stadtwerke Düsseldorf AG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 39: Konsortialausschuss der Stadtwerke Düsseldorf AG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 40: Kooperationsausschuss der Stadtwerke Düsseldorf AG - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 41: Aufsichtsrat der SWD Städt. Wohnungsbau-GmbH & Co. KG - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 42: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft mbH & Co. KG - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 43: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft Düsseldorf mbH & Co. KG – Neuwahl der Arbeitnehmervertreter/innen in den Aufsichtsrat - einstimmig beschlossen
+- TOP 44: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 45: Polizeibeirat - Wahl der Mitglieder - - einstimmig beschlossen
+- TOP 46: Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes -Bestellung einer Vertretung für die Stadt- - einstimmig beschlossen
+- TOP 47: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - Bestellung der Vertretungen für die Stadt - - mehrheitlich beschlossen
+- TOP 48: Verbandsversammlung des Zweckverbandes euregio rhein-maas-nord -Bestellung der Vertretungen für die Stadt- - einstimmig beschlossen
+- TOP 49: Euregiorat des Zweckverbandes Euregio Rhein-Waal -Bestellung der Vertretungen für die Stadt- - einstimmig beschlossen
+- TOP 50: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - Bestellung der Vertretungen für die Stadt - - einstimmig beschlossen
+- TOP 51: Verbandsversammlung des Zweckverbandes NRW KULTURsekretariat - Bestellung einer Vertretung für die Stadt - - mehrheitlich beschlossen
+- TOP 52: Kuratorium der ZERO-Foundation - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
