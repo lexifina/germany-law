@@ -9,12 +9,12 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Verhältnis zu den Strommärkten, Anschlussverwendung](0003.md)
 - [§ 4 Anzeige- und Mitteilungspflichten der Betreiber](0004.md)
-- [§ 5 Verhältnis zur Regelenergie, zu abschaltbaren Lasten und zur Netzreserve](0005.md)
+- [§ 5 Verhältnis zur Regelenergie und zur Netzreserve](0005.md)
 
 ## Teil 2 Beschaffungsverfahren Kapazitätsreserve
 
 - [§ 6 Grundsätze der Beschaffung, Zuständigkeit](0006.md)
-- [§ 7 Gegenstand der Beschaffung](0007.md)
+- [§ 7 Ausschreibungsvolumen](0007.md)
 - [§ 8 Ausschreibungs- und Erbringungszeitraum](0008.md)
 - [§ 9 Teilnahmevoraussetzungen](0009.md)
 - [§ 10 Sicherheitsleistung](0010.md)
@@ -73,3 +73,4 @@
 - [§ 45 Löschung von Daten](0045.md)
 - [§ 46 Rechtsschutz](0046.md)
 - [§ 47 Inkrafttreten](0047.md)
+- [Anlage (zu § 14 Absatz 4 Satz 2)Reduktionsfaktoren](anlage.md)

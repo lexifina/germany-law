@@ -6,11 +6,11 @@ Allgemeine Bestimmungen
 | § 2 | Begriffsbestimmungen |
 | § 3 | Verhältnis zu den Strommärkten, Anschlussverwendung |
 | § 4 | Anzeige- und Mitteilungspflichten der Betreiber |
-| § 5 | Verhältnis zur Regelenergie, zu abschaltbaren Lasten und zur Netzreserve |
+| § 5 | Verhältnis zur Regelenergie und zur Netzreserve |
 Teil 2
 Beschaffungsverfahren Kapazitätsreserve
 | § 6 | Grundsätze der Beschaffung, Zuständigkeit |
-| § 7 | Gegenstand der Beschaffung |
+| § 7 | Ausschreibungsvolumen |
 | § 8 | Ausschreibungs- und Erbringungszeitraum |
 | § 9 | Teilnahmevoraussetzungen |
 | § 10 | Sicherheitsleistung |
@@ -63,3 +63,4 @@ Schlussbestimmungen
 | § 45 | Löschung von Daten |
 | § 46 | Rechtsschutz |
 | § 47 | Inkrafttreten |
+| Anlage (zu § 14 Absatz 4 Satz 2) | Reduktionsfaktoren |
