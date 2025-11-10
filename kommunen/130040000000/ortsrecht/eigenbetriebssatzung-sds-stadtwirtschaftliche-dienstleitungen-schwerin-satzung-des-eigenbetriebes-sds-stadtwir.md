@@ -1,0 +1,161 @@
+# Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin Satzung des Eigenbetriebes SDS - Stadtwirtschaftliche Dienstleistungen Schwerin, Eigenbetrieb der Landeshauptstadt Schwerin
+
+- Gemeinde: Landeshauptstadt Schwerin (ARS 130040000000)
+- Datum: 2025-11-10 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.schwerin.de/export/sites/default/.galleries/Dokumente/Bekanntmachungen/Bekanntmachungen-2025/Eigenbetriebssatzung_SDS.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin
+
+Satzung des Eigenbetriebes
+
+SDS - Stadtwirtschaftliche Dienstleistungen Schwerin,
+Eigenbetrieb der Landeshauptstadt Schwerin
+Aufgrund des § 5 der Kommunalverfassung für das Land Mecklenburg – Vorpommern in der Fassung der Bekanntmachung vom 16. Mai 2024, zuletzt geändert Artikel 4 des Gesetzes vom 18. März 2025 (GVOBl. M-V S. 130, 136) und § 2 der Eigenbetriebsverordnung vom 14. Juli 2017 (EigVO M-V), zuletzt geändert durch die Erste Verordnung zur Änderung der Eigenbetriebsverordnung vom 3. Juni 2025 (GVOBl. M-V S. 289ff) hat die Stadtvertretung der Landeshauptstadt Schwerin am 10.11.2025 folgende Satzung beschlossen:
+
+§1
+
+Name, Gegenstand und Bereiche
+
+(1) Der Eigenbetrieb führt den Namen „SDS - Stadtwirtschaftliche Dienstleistungen
+
+Schwerin, Eigenbetrieb der Landeshauptstadt Schwerin”.
+
+(2) Gegenstand des Eigenbetriebs sind
+
+•
+
+die Aufgaben des Friedhofs- und Bestattungswesens einschließlich des
+
+Erlasses von Bescheiden nach Maßgabe der Friedhofssatzung und der
+
+Friedhofsgebührensatzung sowie die Verwaltung und Unterhaltung der
+
+öffentlichen Grünflächen sowie des Holzvorratsvermögens,
+
+•
+
+die Unterhaltung der öffentlichen Straßen, Plätze und Wege
+
+•
+
+die Aufgaben der öffentlichen Abfallentsorgung einschließlich des Erlasses von
+
+Bescheiden nach Maßgabe der Straßenreinigungssatzung, der
+
+Straßenreinigungsgebührensatzung, der Hausmüllsatzung und der
+
+Hausmüllgebührensatzung sowie
+
+•
+
+die Umsetzung von investiven Maßnahmen in den vorgenannten Bereichen.
+
+(3) Der Eigenbetrieb ist in folgende Bereiche gegliedert
+
+•
+
+Abfallwirtschaft:
+
+die administrativen Aufgaben der öffentlichen Abfallentsorgung und
+
+Straßenreinigung,
+
+•
+
+Friedhof, Wald und öffentliches Grün:
+
+die Verwaltung und Betreibung der städtischen Friedhöfe und des
+
+Bestattungswesens, die Bewirtschaftung des Holzvorrates und der öffentlichen
+
+Grünflächen, sowie der Spiel- und Sportanlagen,
+
+Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin
+
+•
+
+Straßenunterhaltung:
+
+die bauliche Unterhaltung und Instandhaltung der öffentlichen Straßen, Plätze
+
+und Wege.
+
+(4) Dem Eigenbetrieb als Teil der Verwaltung können Aufgaben des eigenen und des
+
+übertragenen Wirkungskreises zugewiesen werden. Der Eigenbetrieb kann sich zur
+
+Erfüllung seiner nicht hoheitlichen Aufgaben eines Dritten bedienen.
+
+§2
+
+Stammkapital
+
+(1) Das Stammkapital beträgt 25.000 Euro (in Worten: fünfundzwanzigtausend Euro).
+
+(2) Vom Stammkapital entfallen auf die Bereiche
+
+•
+
+Abfallwirtschaft
+
+0 Euro,
+
+•
+
+Friedhof, Wald und öffentliches Grün
+
+25.000 Euro,
+
+•
+
+Straßenunterhaltung
+
+0 Euro.
+
+§3 Vertretung des Eigenbetriebs - Werkleitung (1) Für den Eigenbetrieb wird eine Betriebsleitung bestellt, welche die Bezeichnung “Werkleitung” trägt. (2) Die Werkleitung besteht aus einem Mitglied, welches alleinvertretungsberechtigt ist. Für das Mitglied der Werkleitung kann ein stellvertretendes Mitglied bestellt werden, welches dann ebenfalls alleinvertretungsberechtigt ist. Das einzelne Mitglied führt die entsprechende geschlechtsspezifische Bezeichnung. (3) Erklärungen im Sinne von § 5 Abs. 3 EigVO können bei Verpflichtungen 1. die auf eine einmalige Leistung gerichtet sind, bis zu einer Wertgrenze von 1.250.000 Euro, 2. aus Miet-, Pacht- oder ähnlichen Nutzungsverhältnissen über Grundstücke bis zu einem einjährigen Zins von 50.000 Euro, 3. aus sonstigen Dauerschuldverhältnissen oder ähnlichen, auf wiederkehrende Leistungen gerichteten Verträgen bis zu einem jährlichen Zins oder einem Jahresbetrag von 200.000 Euro sowie bei der Erteilung des Zuschlags nach einem durchgeführten Ausschreibungsverfahren von einem Mitglied der Werkleitung allein oder einem von ihm beauftragten Bediensteten in einfacher Schriftform ausgefertigt werden, soweit gesetzlich nichts anderes bestimmt ist.
+
+Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin
+§4 Aufgaben der Werkleitung (1) Die Werkleitung trifft Entscheidungen unterhalb der Wertgrenzen des § 6 Abs. 2 und 3 dieser Betriebssatzung. (2) Der Werkleitung werden folgende Angelegenheiten als Geschäfte der laufenden Betriebsführung übertragen: 1. die in § 6 Abs. 2 und 3 genannten Angelegenheiten bis zu den in dieser Vorschrift bestimmten Wertgrenzen; 2. alle Maßnahmen und Geschäfte im Rahmen eines von der Stadtvertretung beschlossenen Wirtschaftsplanes; 3. Veränderungen innerhalb eines von der Stadtvertretung bestätigten Investitionsplanes, soweit sich hieraus keine Erhöhung des Gesamtvolumens der Investitionen ergibt; 4. Fortführung von Investitionsmaßnahmen, mit denen in Vorjahren begonnen wurde, 5. Umsetzung von Maßnahmen für die Landeshauptstadt Schwerin aufgrund bestehender Verfahrensanweisungen, 6. Beauftragung von Architekten- und Ingenieurleistungen, die der Herstellung einer Veranschlagungsreife von Investitionen dienen, 7. der Erlass von Bescheiden im Rahmen der hoheitlichen Aufgaben des eigenen und übertragenen Wirkungskreises. (3) Die Werkleitung bereitet die Beschlüsse der Ausschüsse und der Stadtvertretung in Angelegenheiten des Eigenbetriebs vor.
+§5 Werkausschuss (1) Für die Angelegenheiten des Eigenbetriebes wird ein beschließender Ausschuss gebildet, der die Bezeichnung “Werkausschuss” führt. (2) Im Übrigen gelten für diesen die Vorschriften der Hauptsatzung der Landeshauptstadt Schwerin sowie der Geschäftsordnung der Stadtvertretung sinngemäß.
+
+Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin
+§6 Aufgaben des Werkausschusses (1) Der Werkausschuss berät die Angelegenheiten vor, die von der Stadtvertretung zu entscheiden sind. (2) Der Werkausschuss trifft Entscheidungen nach § 6 Abs. 3 EigVO in Verbindung mit § 22 Abs. 4 Satz 1 KV M-V 1. bei Verträgen nach § 38 Abs. 6 Satz 7 und 8 KV M-V innerhalb einer Wertgrenze von 5.000 bis 50.000 EURO 2. im Fall von über- und außerplanmäßigen Aufwendungen und Auszahlungen im Erfolgsplan innerhalb einer Wertgrenze von 50.000 bis 250.000 Euro; 3. im Fall von über- und außerplanmäßigen Auszahlungen im Investitionsplan innerhalb einer Wertgrenze von 50.000 bis 250.000 Euro; 4. bei der Aufnahme und Umschuldung von Darlehen zur Finanzierung von Investitionen im Rahmen des genehmigten Kreditvolumens. Ziffer 2 und 3 sind nur dann anzuwenden, wenn dadurch das bestätigte Gesamtvolumen des Erfolgsplans oder des Finanzplans überschritten wird. (3) Soweit sich aus Absatz 2 nichts anderes ergibt, beschließt der Werkausschuss weiterhin 1. sofern es sich nicht um ein Geschäft der laufenden Betriebsführung handelt über die Einleitung und die Ausgestaltung der Ausschreibung bei einem geschätzten Netto-Auftragswert bei: a) Bauleistungen von über 500.000 €, b) Liefer- und Dienstleistungen von über 50.000 €, c) freiberufliche Leistungen von über 50.000 €, Mit der Entscheidung zur Einleitung des Verfahrens wird der Werkleitung zugleich die Ermächtigung erteilt, nach durchgeführtem Verfahren den Zuschlag zu erteilen. 2. über die Begründung und Änderung von Miet-, Pacht- und ähnlichen Nutzungsverhältnissen über Grundstücke und Gebäude und von sonstigen Dauerschuldverhältnissen a) zugunsten des Eigenbetriebs ab einem jährlichen Zins oder einem Jahresbetrag von 125.000 bis 500.000 Euro, b) zulasten des Eigenbetriebs ab einem jährlichen Zins oder einem Jahresbetrag von 25.000 Euro, sofern die Festlaufzeit drei Jahre überschreitet oder bei unbefristeten Verträgen eine Kündigung nicht mit einer Frist von sechs Monaten vereinbart wird,
+
+Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin
+3. über den Erlass und die Stundung von Forderungen von 50.000 EUR bis 500.000 Euro je Einzelfall;
+4. über die Einleitung von Rechtsstreiten mit einem Streitwert von mehr als 250.000 Euro;
+5. über den Abschluss von Vergleichen, sofern der Wert des Nachgebens mehr als 25.000 bis 50.000 Euro beträgt;
+6. über den Vorschlag an den Landesrechnungshof zur Bestellung des Abschlussprüfers.
+(4) Bei Dauerschuldverhältnissen und wiederkehrenden Leistungen bestimmen sich die Wertgrenzen nach dem Jahresbetrag der Leistungen. Ist die Vergütung nicht nach Jahren bemessen, so gilt als jährlicher Zins oder Jahresbetrag der Zins oder der Betrag, der entsprechend dem Verhältnis der vereinbarten Laufzeit zur vereinbarten Vergütung für ein Jahr zu entrichten sein würde.
+(5) Bei Überschreitung der in Absatz 2 und 3 oberen bestimmten Wertgrenzen entscheidet die Stadtvertretung. §7 Berichtspflichten
+(1) Die Werkleitung hat die Oberbürgermeisterin oder den Oberbürgermeister über alle wichtigen Angelegenheiten des Eigenbetriebes rechtzeitig zu unterrichten und auf Verlangen Auskunft zu erteilen, insbesondere wenn sich das Jahresergebnis gegenüber dem Erfolgsplan verschlechtert und die Verschlechterung die Haushaltslage der Landeshauptstadt Schwerin beeinträchtigen kann oder wenn sich eine Gefährdung der Liquidität des Eigenbetriebes abzeichnet.
+(2) Die Werkleitung hat die Oberbürgermeisterin oder den Oberbürgermeister vierteljährlich über die Entwicklung der Erträge und Aufwendungen, die Abwicklung des Finanzplanes sowie über die Entwicklung der Liquidität schriftlich zu unterrichten.
+(3) Die Werkleitung hat der Oberbürgermeisterin oder dem Oberbürgermeister auf Verlangen alle sonstigen finanzwirtschaftlichen Auskünfte sowie Zwischenberichte auch in kürzeren zeitlichen Abständen zu erteilen.
+(4) Absatz 1 und 2 finden auch auf den Werkausschuss Anwendung mit der Maßgabe, dass eine Berichterstattung in den Sitzungen des Ausschusses erfolgt.
+
+Eigenbetriebssatzung SDS – Stadtwirtschaftliche Dienstleitungen Schwerin
+§8 Wirtschaftsplanung (1) Die Werkleitung hat einen Wirtschaftsplan nach den Vorschriften der Eigenbetriebsverordnung aufzustellen. Der Entwurf ist der Oberbürgermeisterin oder dem Oberbürgermeister zuzuleiten. (2) Als Investition von geringer wirtschaftlicher Bedeutung im Sinne von § 25 Abs. 1 Satz 3 und Absatz 2 Satz 2 EigVO gelten Investitionen mit einem Wertumfang von 500.000 € je Maßnahme. Als geringfügig im Sinne von § 18 Abs. 2 Satz 2 Ziffer 2 EigVO gilt eine Abweichung vom Stellenplan in Höhe von 2%. (3) Ein Nachtragswirtschaftsplan ist zu erstellen, wenn: 1. sich zeigt, dass ein Jahresfehlbetrag entstehen oder ein bereits ausgewiesener Jahresfehlbetrag sich erhöhen wird, der 2 % des Gesamtbetrages der Aufwendungen übersteigt (§ 18 Abs. 2 Satz 1 Ziffer 1 EigVO), 2. sich zeigt, dass der Saldo aus den Ein- und Auszahlungen des Wirtschaftsjahres aus der laufenden Geschäftstätigkeit nicht ausreicht, um die Auszahlungen zur planmäßigen Tilgung von Krediten für Investitionen und Investitionsförderungsmaßnahmen zu decken oder eine bereits bestehende Deckungslücke sich erhöhen wird, wenn diese Änderung 2 % des Gesamtbetrages der ordentlichen, außerordentlichen und investiven Auszahlungen übersteigt (§ 18 Abs. 2 Satz 1 Ziffer 2 EigVO), 3. im Erfolgs- oder Finanzplan bisher nicht veranschlagte oder zusätzliche Aufwendungen oder Auszahlungen bei einzelnen Positionen getätigt werden sollen oder müssen, wenn sie im Einzelfall größer sind als 5 % der gesamten Aufwendungen des Erfolgsplans bzw. der gesamten ordentlichen und außerordentlichen Auszahlungen des Finanzplans übersteigt (§ 18 Abs. 2 Satz 1 Ziffer 3 EigVO), 4. Auszahlungen für bisher nicht veranschlagte Investitionen oder Investitionsförderungsmaßnahmen geleistet werden sollen oder sich die Auszahlungen für bereits veranschlagte Investitionen oder Investitionsförderungsmaßnahmen erhöhen werden, wenn sich dadurch der Gesamtbetrag der Investitionen um 5% erhöht (§ 18 Abs. 2 Satz 1 Ziffer 4 EigVO).
+
+Eigenbetriebssatzung SDS Stadtwirtschaftliche Dienstleitungen Schwerin
+
+Landeshauptstadt
+Schwerin
+
+§9 Inkrafttreten (1) Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. Gleichzeitig tritt die Satzung des Eigenbetriebs vom 28.04.2014 in der Fassung der 3. Änderungssatzung außer Kraft. (2) Bei der Bekanntmachung soll auf die Regelungen des § 5 Abs. 5 KV M-V wie folgt hingewiesen werden:
+"Verstoß gegen Verfahrens- und Formvorschriften Ein Verstoß der Satzung gegen Verfahrens- und Formvorschriften, die in der Kommunalverfassung für das Land Mecklenburg-Vorpommern enthalten oder auf Grund der Kommunalverfassung für das Land Mecklenburg-Vorpommern erlassen worden sind, kann gemäß Paragraph 5 Absatz 5 der Kommunalverfassung für das Land Mecklenburg­ Vorpommern nach Ablauf eines Jahres seit Bekanntmachung dieser Satzung nicht mehr geltend gemacht werden, es sei denn, der Verstoß wird innerhalb der Jahresfrist schriftlich unter Bezeichnung der verletzten Vorschrift und der Tatsache, aus der sich der Verstoß ergibt, gegenüber der Landeshauptstadt Schwerin geltend gemacht. Eine Verletzung von Anzeige-, Genehmigungs- oder Bekanntmachungsvorschriften kann abweichend von Satz 1 stets geltend gemacht werden."
+
+Schwerin, den DS
+
+TO-MTPir
+Datum der Ausfertigung
+
+Veröffentlichungsvermerk: Im Internet bekanntgemacht am Veröffentlichungsdatum
+
+Dr. Rico Badenschier Oberbürgermeister
+£0.
+
+//•
