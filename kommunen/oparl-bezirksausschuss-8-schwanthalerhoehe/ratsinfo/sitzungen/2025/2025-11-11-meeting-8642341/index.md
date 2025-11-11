@@ -1,0 +1,96 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8642341
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8642341
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Projektförderung „Westend Kultur Grube“
+- TOP 4.2.: Parksituation im Stadtbezirk
+- TOP 4.3.: Lärmbelästigung zur Wiesn Zeit
+- TOP 4.4.: Absperrungen Oktoberfest/Schwantalerhöhe
+- TOP 4.5.: Wiesnzeit - rechtsfreier Straßenraum im Westend; Gefährdungen durch abendlichen/nächtlichen Abholverkehr Freitag & Samstag
+- TOP 4.6.: Parksituation während der Wiesn
+- TOP 4.7.: Fitnessparkour am Georg-Freundorfer-Platz sowie Frage zum „Stöpsel“ in der Trappentreustraße
+- TOP 4.8.: Klärung des Umsetzungszeitraums der Anpassung der Lichtsignalanlage Bavariaring - Schwanthalerstraße
+- TOP 4.9.: Errichtung eines Abfallbehälters in der Parkstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) + (U) Vergünstigte Tickets für Personen mit München-Pass für alle aus dem Stadtbezirksbudget geförderten Veranstaltungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Bildungsbauoffensive - Maßnahmenbeschluss 2025
+- TOP 7.3: Unterrichtungen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung am Georg-Freundorfer-Platz am 19.10.2025
+- TOP 8.3.2.: Original Münchner Schäfflertanz 2026
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Durchsetzung des Verbots der Durchfahrt an der Bushaltestelle Gollierplatz
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Baumpflanzungen am Kiliansplatz
+- TOP 9.3.2.: Hitzebelastung durch die Werbeanlage an der Tram-Haltestelle Trappentreustraße
+- TOP 9.3.3.: Tempo-30 im Bereich des Übergangs Anglerstr. / Ganghoferstr.
+- TOP 9.3.4.: Trinkwasserspender und Sitzmöglichkeiten mit Beet, Tischen und Hängemattenhaken an der Ecke Westendstraße / Astallerstraße
+- TOP 9.3.5.: Der kleine Brunnen an der Ostseite des Heimeranplatzes wird als Trinkwasserbrunnen hergerichtet
+- TOP 9.3.6.: Verlängerung der Grünphasen und Verkürzung der Anforderungszeiten an den Fußgängerampeln an der Ganghoferstr. Ecke Kazmairstr. und an der Ganghoferstr. Ecke Heimeranstr.
+- TOP 9.3.7.: Wildblumen statt Asphalt – mehr Grün zwischen den Bäumen; Hans-Fischer-Str. West / August-Kühn-Str. Ost / Karl-Spengler-Str. Nord
+- TOP 9.3.7.1: Wildblumen statt Asphalt – mehr Grün zwischen den Bäumen; Rückmeldung Antragsteller
+- TOP 9.3.8.: Fahrradstellplätze Schießstättstr. 2 - Antwortschreiben
+- TOP 9.3.9.: 150 Jahre Tram: München feiert München
+- TOP 9.3.10.: Entwicklung der Parkmöglichkeiten für Kfz im Stadtbezirk 8
+- TOP 9.3.11.: Meldeliste Baumaßnahmen SWM
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Wave of hope e.V. Hoffnung gestalten: Perspektiven für Geflüchtete durch Kunst vom 01.10. -15.12.2026 8.250,00€; Az. 0262.0-8-0460
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. „München in den Wunderjahren" Arbeitstitel: München in den Wunderjahren - Jugend zwischen Protest und Anpassung vom 15.10.2026 -14.10.2027 400,00€; Az. 0262.0-8-0462
+- TOP 10.1.3.: (E) Stadtbezirksbudget InitiativGruppe Interkulturelle Begegnung und Bildung e.V. Boxworkshop zur Gewaltprävention vom 01.01.2026-30.05.2026 700,00€; AZ.: 0262.0-8-0465
+- TOP 10.1.4.: (E) Stadtbezirksbudget InitiativGruppe Interkulturelle Begegnung und Bildung e.V Boxen zur Gewaltprävention - Anschaffung eines neuen Boxsackes vom 12.11.-19.12.2025 333,46€; AZ.: 0262.0-8-0464
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Absage für die Liegebänke im Bavariapark aufgrund des Denkmalschutzes
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Bestellung eines Basketballkorbs an der Kazmairwiese als städtische Leistung
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 4.10.: Massive Anwohnerbeeinträchtigung durch die Großbaustelle in der Ganghoferstraße 29
+- TOP 6.2.1.: Bauvorhaben Schwanthalerstraße 113
+- TOP 10.1.5.: (E) Stadtbezirksbudget Init. "Guitars come together" Guitars come together - Mitmachkonzert für GitarristInnen (und Ukulele/ Singen) am 26.11.2025 685,00€; Az. 0262.0-8-0467
+- TOP 10.1.6.: (E) Stadtbezirksbudget Init. Wandgestaltung Wandgestaltung Ganghofer-Häuschen vom 17.12.2025 - 31.04.2026 2.080,00€ AZ.: 0262.0-8-0468
+- TOP 11.2.: Lieferzonenmarkierung im Viertel
+- TOP 11.3.: Öffnung eines Durchgangs parallel zu den Bahngleisen für FußgängerInnen und Radfahrende auf Höhe Landsberger Straße 70-74
+- TOP 2.1.: Umbenennung der Fraktionsgemeinschaft "Die Linke & ÖDP" in "Die Linke & Severin Beilner"
+- TOP 7.2.2.: CultureClouds; Planung der Pop-Ups: mobile Kunst-Spiel-Aktionen 2026 und 2027
+- TOP 6.3.2.: Präsentation zum Treffen mit dem Baureferat am 13.10.2025
+- TOP 8.3.3.: Versammlung in der Schießstättstraße am 08.11.2025
+- TOP 2.2.: Kurzfristige Umleitung der Buslinien 62, 130 und 157
