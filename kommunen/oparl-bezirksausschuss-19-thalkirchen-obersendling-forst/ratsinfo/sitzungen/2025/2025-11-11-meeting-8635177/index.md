@@ -1,0 +1,67 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-11-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8635177
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8635177
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 14.10.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (A) Masterplanung Parkmeile Südpark-Warnberger Riedel
+- TOP 2.4.: Resolution Anitsemitismus
+- TOP 2.5.: (A) Kommunalwahl 2026 - Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 19
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Sarré Musikprojekte gGmbH Umbaumaßnahmen der neuen Unterrichtsräume in der Hofmannstr. 7 in 81379 München vom 15.11.2025 - 31.12.2025 4.929,47€; Az. 0262.0-19-0607
+- TOP 3.3.: (E) Stadtbezirksbudget InitiativGruppe - Interkulturelle Begegnung und Bildung e.V. Jubiläumsfeier 10 Jahre MiA vom 01.12. -04.12.2025 1.750,45€; Az. 0262.0-19-0609
+- TOP 3.4.: (Antrag) Bestellung städtischer Leistungen: Spielgerät
+- TOP 3.5.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde München-Solln Johann Sebastian Bach: Magnificat vom 28-29.11.2025 9.755,00€ Az.: 0262.0-19-0610
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Maßnahmen gegen nächtliche Lärmbelästigung durch Tonwiedergabegeräte im Isarbereich zwischen Tierparkbrücke und Flauchersteg
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Ersatz Behindertenparkplätze Fellererplatz 2
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Errichtung einer Lade- und Lieferzone in der Baierbrunner Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Tonnagebeschränkung in der Possenhofener Straße
+- TOP 5.4.: (Antrag) Maxhofstraße und Königswieser Straße: Gefahren im Straßenverkehr für Kinder
+- TOP 5.5.: (Antrag) Fußgängerüberweg Hofmannstraße
+- TOP 5.6.: (Antrag) Schulstraße Limmatstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Minorstraße 14
+- TOP 6.2.2: Nesselwanger Straße 23
+- TOP 6.2.3: Zentralländstraße 2
+- TOP 6.2.4: Minorstraße 20a
+- TOP 6.2.5: Lochhamer Straße 75
+- TOP 6.2.6: Unterbrunner Straße 7 (VB)
+- TOP 6.3.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Argelsrieder Str. 34
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Bildungsbauoffensive – Maßnahmenbeschluss 2025
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 06.12. bis 23.12.2025
+- TOP 8.3.: (U) Vermietung stadteigenes Grundstück: Liesl-Karlstadt-Straße vom 06.12. bis 23.12.2025
+- TOP 9: Verschiedenes
+- TOP 3.6.: (E) Stadtbezirksbudget Rosa Stern Space e.V. TESTING FACILITY 24.11. -30.11.2025 3450,00€; AZ.: 0262.0-19-0608
+- TOP 4.3.: (A) Mobilfunk Suchkreismeldung Solln
+- TOP 5.1.2: Errichtung von zwei geteilten Abstellflächen (GAF) in der Herterichstraße 137 und 156
+- TOP 7.3.: (A) Beschlussvorlage: Kanu-Club Turngemeinde München e. V.
+- TOP 8.4.: (U) Gaststättenfortführung: Boschetsrieder Straße
