@@ -84,4 +84,3 @@
 ### Kapitel 8 Abweichungen
 
 - [§ 8.01 Abweichungen hinsichtlich Zulassung](0008-01.md)
-- [Anlage B (zur Anlage 1 des Anhangs II) (weggefallen)](anlage-b.md)
