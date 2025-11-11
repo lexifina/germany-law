@@ -1,0 +1,156 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2025-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8738495
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8738495
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Sammelantrag- Anmahnung gestellte BA-Anträge
+- TOP 6.2.: Radweg-Projekt Arnulfsteg – Olympiapark
+- TOP 6.3.: Tempo 30 Nachfrage
+- TOP 6.4.: Kabelverteilerkasten vor Bürgerbüro herrichten lassen
+- TOP 6.5.: Eilantrag zur Stellungnahme der LHM zur Diakonie in der Heßstraße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM- Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Keine passenden Container vorhanden/gegenüber Luisenstr 100-102
+- TOP 1.1.2.: Erhalt des alten Strafjustizzentrums für Wohnzwecke
+- TOP 1.1.3.: Öffentliche Wohnanlagen verwahrlost
+- TOP 1.1.4.: Die heruntergekommene Grünanlage am Goethe-Denkmal
+- TOP 1.1.5.: Neubauprojekte Maxvorstadt
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nachfrage zu zwei Anträgen von 2020 und einem Antrag von 2022 Apple und Google mögen dazu beitragen den angespannten Wohnungsmarkt zu entlasten
+- TOP 1.2.2.: Gemeinsam Verantwortung tragen – kein Abschieben der Kosten für die Entwicklung des Strafjustizzentrums-Areals auf die Kommune!
+- TOP 1.2.3.: Für ein gemeinwohlorientiertes, nachhaltiges Stadtquartier am Strafjustizzentrum
+- TOP 1.2.4.: Jahrelanger Leerstand Mehrfamilienhaus Theresienstr. 150 endlich beenden
+- TOP 1.2.5.: Ergebnis des Gesprächs zwischen OB Reiter und der Caritas zum Studentenwohnheim Ecke Augusten-/Zieblandstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: LBK Liste KW41, KW43
+- TOP 2.1.2.: WEB-Liste 01. - 15.10.25, 16.10.-31.10.2025
+- TOP 2.1.3.: Theresienstr. 66, Nutzungsänderung Buchhaltung zu Bäckerei und Imbiss
+- TOP 2.1.4.: Theresienstr. 31, Nutzungsänderung von einem Restaurant in ein Studio für ganzheitliches Körpertraining
+- TOP 2.1.5.: Oskar-von-Miller-Ring 33, Errichtung einer Toilettenanlage und Outdoor-Küche auf der Dachterrasse eines Bürogebäudes
+- TOP 2.1.6.: Kaulbachstr. 1, Umbau des denkmalgeschützten Vorderhauses (HsNr. 1), Umbau und Aufstockung des Rückgebäudes (HsNr. 1a) sowie Neubau eines 2-geschossigen Zwischenbaus - VORBESCHEID (Var. A)
+- TOP 2.1.7.: Kaulbachstr. 1, Umbau des denkmalgeschützten Vorderhauses (HsNr. 1), Umbau und Aufstockung des Rückgebäudes (HsNr. 1a) sowie Neubau eines 2-geschossigen Zwischenbaus - VOR-BESCHEID (Var. C)
+- TOP 2.1.8.: Kaulbachstr. 1, Umbau des denkmalgeschützten Vorderhauses (HsNr. 1), Umbau und Aufstockung des Rückgebäudes (HsNr. 1a) sowie Neubau eines 2-geschossigen Zwischenbaus - VORBESCHEID (Var. D)
+- TOP 2.1.9.: Barer Str. 62, Teilumnutzung EG/UG eines Lebensmittelgeschäfts in eine Bäckerei mit Café und Freischankfläche (jeweils 40 Plätze) sowie Neuordnung der WC Anlage UG
+- TOP 2.1.10.: Blutenburgstr.20, Umbau, Erweiterung und Neubau von Büro- und Geschäftsgebäuden mit Tiefgaragen sowie Umnutzung Büro in Wohnen (Blutenburgstr. 4 - 22 / Nymphenburger Str. 37 - 39 / Pappenheimstr. 4 - 6) -VORBESCHEID
+- TOP 2.1.11.: Fürstenstr. 17, Umbau eines Wohn und Geschäftshauses. Teilung einer Whg. im 3. und 4. OG. in 1-Whg. im 3. OG und 1-Whg. im 4. OG (DG). Erstellen eines Anbaus zwischen VG und RG. Erstellen einer innenliegenden Verbindungstreppe im RG vom KG bis 1. OG
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Linprunstr. 47
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 5.2.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 5.3.: Aktueller Stand Bauvorhaben Neureuther Str. 1 a
+- TOP 5.4.: Augustenstraße, Baumpflanzungen zwischen Karlsstraße und Brienner Straße
+- TOP 5.5.: Petition - Antrag auf Aufhebung einer Dienstbarkeit Passagen zwischen Sophienstraße und Karlstraße Stadtbezirk 03 Maxvorstadt
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Fußgänger Übergang v.d.Tann Straße
+- TOP 1.1.2.: entfällt
+- TOP 1.1.3.: Vermüllter Anhänger an Bushaltestelle
+- TOP 1.1.4.: Verschmutzung Rückseite der Glyptothek
+- TOP 1.1.5.: Geschwindigkeitsreduzierung auf Tempo 30 auf der Karlstraße zwischen Sandstraße und Pappenheimstraße
+- TOP 1.1.6.: Platz an der Barer-/Nordendstraße
+- TOP 1.1.7.: Anregung zu Hundekot-Verschmutzung Nähe alter Nordfriedhof
+- TOP 1.1.8.: Vekehrslenkung Türkenstraße Sicherheit für Grundschülerinnen
+- TOP 1.1.9.: entfällt
+- TOP 1.1.10.: Schulwegsicherheit an der Schwindschule; hier: Antrag auf Dialogschild in der Görresstr.
+- TOP 1.1.11.: Frage Zufußgehende
+- TOP 1.1.12.: Fehlende Parkplätze in der Maxvorstadt
+- TOP 1.1.13.: Amalienstraße 47
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Aussetzung des Umbaus der Augustenstraße im Abschnitt zwischen Gabelsberger Straße und Heßstraße
+- TOP 1.2.2.: Tempo 30 in der Dachauerstraße –Abschnitt zwischen Karl- und Sandstraße
+- TOP 1.2.3.: Leerung der Mülltonnen privater Anbieter im Umgriff Schellingstraße-Amalienstraße-Türkenstraße den Zeiten des AWM anpassen
+- TOP 1.2.4.: Ausbau der Bushaltestelle Hochschule München (Lothstraße) nicht weiter verzögern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 3 Maxvorstadt Umstufung einer Teilstrecke der Ottostraße
+- TOP 2.1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 3 Maxvorstadt Umstufung einer Teilstrecke des Oskar-von-Miller-Ringes
+- TOP 2.1.3.: Anfrage wegen ***Neubau/Austausch*** einer Lichtsignalanlage (LSA)- Standort Katharina-von-Bora-/ Karlstr.
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung- Bez. 03 | Anhörung § 29 StVO für Grüne Weihnacht, Josephsplatz am 04.12.2025 | Anhörungsfrist: 14.11.2025
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Baumaßnahmen der Stadtwerke München
+- TOP 3.4.: Unveränderte Gaststättenfortführungen
+- TOP 3.5.: 150 Jahre Tram: München feiert München
+- TOP 3.6.: Information über baustellenbedingte Fahrplan- und Linienwegsänderungen auf den U-Bahnlinien U1 und U2 aufgrund von Baumaßnahmen im Zeitraum von Oktober 2025 bis März 2026
+- TOP 3.7.: Antwort BI Mitte auf Bürger*innenschreiben_ Kioske Schanigärten IAA
+- TOP 3.8.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.9.: Bürger*innenanliegen Fahrradstellplätze Heßstraße 37 - BA03
+- TOP 3.10.: Baubeginn der feststehenden Toilettenanlage an der Elisenstraße
+- TOP 3.11.: Gesonderte Infos zum Gestaltungskonzept für Baustellen um den Hauptbahnhof
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Bekenntnis der Landeshauptstadt München zum Standort FC Teutonia e. V.
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Beschlussvorlage "Bildungsbauoffensive – Maßnahmenbeschluss 2025; ...und zur investiven Konsolidierung im Bildungsbau", geplant für den 03.12.2025, zur Stellungnahme
+- TOP 2.2.: (E) Stadtbezirksbudget Medwagen MW gUG Workshops zur Stärkung von Gesundheitsdaten, digitalen Tools und Diensten im Laufe digitaler Tranformation des Gesundheitswesens vom 01.11.. - 31.12.2025 2.100,00 Euro, Az.: 0262.0-3-0624
+- TOP 2.3.: Antrag an den BA 03: Orangene Bank: Kein Platz für Gewalt gegen Frauen, am Geschwister Scholl Platz
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 4.2.: Verwendungsnachweise Stadtbezirksbudget
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Christbaum Josephsplatz
+- TOP 1.2.: Heizung im Bürgerbüro modernisieren
+- TOP 1.3.: Kranz Volkstrauertag
+- TOP 1.4.: Tafel Weihnachtsaktion
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.2.6.: Mietenmonitor nutzen, proaktiv Mietwucher einbremsen II
+- TOP 1.2.7.: Bauarbeiten an der Paul-Heyse-Villa – Begleitung durch den Denkmalschutz Zwischenstand?
+- TOP 1.2.8.: Zwischennutzung der Diakonie in der Heßstraße prüfen
+- TOP 1.2.5.: Vorübergehende Nutzung der Tiefgarage der Diakonie für Anwohner und Car-Sharing prüfen
+- TOP 2.1.4.: (Bez. 3) Anordnung eines Zeichens 1022-10 ("Radverkehr frei") an der nördlichen Ausfahrt des Geschwister-Scholl-Platzes
+- TOP 2.4.: (E) Stadtbezirksbudget Entdeckerwerkstatt e.V. Garten-Spielgeräte für kinderfreundliche Spielräume vom 01.12.2025 -31.01.2026 3.365,20€; Az. 0262.0-3-0626
+- TOP 1.1.6.: Bauvorhaben/Abriss/Neubau Neureutherstr. 1a
+- TOP 1.1.7.: Für die Mietergemeinschaft Neureutherstr. 1a
+- TOP 1.1.14.: Grabmal Alter Nördlicher Friedhof
+- TOP 2.1.5.: Erneute Bitte um Beschlussfassung - Fahrradständer Dachauer Str. 44
+- TOP 4.3.: Interne Weisung - Rattenbefall Luisenstraße 20 Spielplatz - Sperrung
+- TOP 1.5.: Hybridsitzungen
