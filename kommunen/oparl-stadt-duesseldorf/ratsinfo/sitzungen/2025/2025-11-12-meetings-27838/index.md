@@ -1,0 +1,59 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-12T15:00:00+01:00
+- Ende: 2025-11-12T18:25:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27838
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27838
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 12.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567353.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung am 12.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567353.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung am 12.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567353.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters und der Stellvertreterinnen / Stellvertreter
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung
+- TOP 4: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 5: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/004/2025 vom 30.04.2025 - einstimmig beschlossen
+- TOP 6: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/005/2025 vom 25.06.2025 - einstimmig beschlossen
+- TOP 7: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - Seniorenrat - einstimmig beschlossen
+- TOP 8: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - Jugendrat - einstimmig beschlossen
+- TOP 9: ‚‚Fit in Grünau‘‘ – Ein Quartiersprojekt der Düsseldorfer Präventionskette zum Auf- und Ausbau gesundheitsförderlicher Strukturen für null- bis zehnjährige Kinder und deren Familien - zur Kenntnis genommen
+- TOP 10: Erlass der Wasserschutzgebietsverordnung für die Wassergewinnungsanlage Lörick der Stadtwerke Düsseldorf AG - Empfehlung einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Aktueller Sachstand zum Gedenkort Judenhaus in der Teutonenstraße, Anfrage der SPD-Fraktion
+- TOP 14: Eine öffentliche Uhr für den Nikolaus-Knopp-Platz?, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 15: Verschmutzung der Bank am Bücherschrank am Nikolaus-Knopp-Platz, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 16: Lange und unnötige Wege zum Wahllokal in Heerdt, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 17: Vermeidung von Lärm- und Abgasbelästigungen durch laufende Motoren an der Bushaltestelle Comeniusplatz, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 18: Auswirkungen Baumaßnahme Heerdter Landstraße 96, Anfrage der SPD-Fraktion
+- TOP 19: Fahrradnutzung am Spielplatz/Grünzug Niederdonker Straße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 20: Leerstand Künstleratelierhäuser Böhlerweg 54 & 56, Anfrage des Bezirksvertreters Marco Staak
+- TOP 21: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2025, Zweckbestimmung der finanzellen Mittel auf dem Sachkonto 1111114 / 1000 / 1000 / 54990400 - Betreuung der Bezirksvertretung - einstimmig beschlossen
+- TOP 22: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 23: Zuwendung des Verkehrs- und Verschönerungsvereins für den linksrheinischen Teil der Stadt Düsseldorf e.V. - zur Kenntnis genommen
+- TOP 24: Für Fußweg Schanzenstraße Mindestbreite von 1,80 m vorgeben, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 25: Nach der Kirmes ist vor der Kirmes - Verkehrskonzept evaluieren und verbessern, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 26: Radleitroute 2 überprüfen und verbessern, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 27: Geländesportanlage Dirtpark Düsseldorf-Heerdt, Vorstellung der Planungen - zur Kenntnis genommen
+- TOP 28: Grüner Pfeil für Radfahrende - zur Kenntnis genommen
+- TOP 29: Absenkung Bordsteine Salierstraße Ecke Markgrafenstraße - zur Kenntnis genommen
+- TOP 30: Bank und Fahrradständer zwischen Luegallee und Burggrafenstraße - zur Kenntnis genommen
+- TOP 31: Mikrowälder im Löricker Grünzug Niederdonker Straße - zur Kenntnis genommen
+- TOP 32: Verkehrssicherheit wiederherstellen und bewusstes Falschparken auf der Oberkasseler Straße (Seite Niederkassel), Einmündung Luegallee, verhindern - zur Kenntnis genommen
+- TOP 33: Verkehrssicherheit am Nikolaus-Knopp-Platz erhöhen - zur Kenntnis genommen
+- TOP 34: Protected Bike Lanes für die Oberkasseler Brücke - zur Kenntnis genommen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 36: Abbruchantrag, Vossen Links 13 – Abbruch eines Gebäudes - einstimmig beschlossen
+- TOP 37: Abbruchantrag, Hubert-Hermes-Straße 27 – Abbruch eines Hauses - einstimmig beschlossen
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Freigabe Verkaufsoffener Sonntagnachmittage im Jahr 2026 - abweichend beschlossen
+- TOP 42: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
