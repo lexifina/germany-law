@@ -1,0 +1,109 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2025-11-12T15:00:00+01:00
+- Ende: 2025-11-12T16:59:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/4963
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/4963
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Aktualisiserte Einladung Konst. Kreistagssitzung 12.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00115758.pdf
+- Ergebnisprotokoll: Aktualisiserte Einladung Konst. Kreistagssitzung 12.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00115758.pdf
+- Wortprotokoll: Aktualisiserte Einladung Konst. Kreistagssitzung 12.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00115758.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - Feststellung Beschlussfähigkeit
+- TOP 2: Bestellung von Schriftführern/Schriftführerinnen - einstimmig beschlossen
+- TOP 3: Bestimmung des Altersvorsitzenden durch die Landrätin/ den Landrat
+- TOP 4: Vereidigung der Landrätin/ des Landrates durch den Altersvorsitzenden
+- TOP 5: Verpflichtung und Einführung der Kreistagsmitglieder
+- TOP 6: Geschäftsordnung des Kreistages und Hauptsatzung des Rhein-Kreises Neuss
+- TOP 6.1: Änderungsantrag der Geschäftsordnung der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 6.2: Tischvorlage: Antrag der UWG/Zentrum-Gruppe im Kreistag des Rhein-Kreises Neuss vom 12.11.2025 - mehrheitlich abgelehnt
+- TOP 7: Festlegung der Anzahl der Stellvertretungen der Landrätin/ des Landrates - einstimmig beschlossen
+- TOP 8: Wahl der Stellvertretungen der Landrätin/ des Landrates - einstimmig beschlossen
+- TOP 9: Verpflichtung und Einführung der Stellvertretungen der Landrätin/ des Landrates
+- TOP 10: Vorstellung der Landrätin/ des Landrates und seiner leitenden Mitarbeiter
+- TOP 11: Bekanntgabe der Kreistagsfraktionen und Vorstellung der Fraktionsvorsitzenden
+- TOP 12: Wahl des Kreisausschusses - einstimmig beschlossen
+- TOP 13: Wahl von Mitgliedern des Regionalrates Düsseldorf - einstimmig beschlossen
+- TOP 14: Wahl von Mitgliedern des Braunkohlenausschusses beim Regierungspräsidenten Köln - einstimmig beschlossen
+- TOP 15: Landschaftsverband Rheinland
+- TOP 15.1: Wahl der Mitglieder und Ersatzmitglieder - einstimmig beschlossen
+- TOP 15.2: Wahl der Reservelisten bzw. einzelner Bewerber aus den Reservelisten - einstimmig beschlossen
+- TOP 16: Grundsatzbeschluss über die Bildung freiwilliger Ausschüsse und Gremien - einstimmig beschlossen
+- TOP 17: Verteilung der Vorsitze und stellvertretenden Vorsitze von Ausschüssen und Gremien - einstimmig beschlossen
+- TOP 18: Wahl des Wahlprüfungsausschusses - einstimmig beschlossen
+- TOP 19: Rechnungsprüfungsausschuss - einstimmig beschlossen
+- TOP 20: Schul- und Bildungsausschuss - einstimmig beschlossen
+- TOP 21: Zusammensetzung der freiwilligen Gremien und Wahl der Mitglieder und stellv. Mitglieder der freiwilligen Gremien
+- TOP 21.1: Ausschuss für Innovation, Digitalisierung und Standortmarketing - einstimmig beschlossen
+- TOP 21.2: Ausschuss für Rettungswesen, Feuer- und Katastrophenschutz - einstimmig beschlossen
+- TOP 21.3: Ausschuss für Soziales, Wohnen und Gesundheit - einstimmig beschlossen
+- TOP 21.4: Ausschuss für Strukturwandel und Arbeit - einstimmig beschlossen
+- TOP 21.5: Finanzausschuss - einstimmig beschlossen
+- TOP 21.6: Kulturausschuss - einstimmig beschlossen
+- TOP 21.7: Mobilitätsausschuss - einstimmig beschlossen
+- TOP 21.8: Partnerschaftskomitee Europäische Nachbarn - einstimmig beschlossen
+- TOP 21.9: Personalausschuss - einstimmig beschlossen
+- TOP 21.10: Planungs-, Klimaschutz- und Umweltausschuss - einstimmig beschlossen
+- TOP 21.11: Sportausschuss - einstimmig beschlossen
+- TOP 22: Jugendhilfeausschuss - einstimmig beschlossen
+- TOP 23: Polizeibeirat - einstimmig beschlossen
+- TOP 24: Naturschutzbeirat - einstimmig beschlossen
+- TOP 25: Wahl der Mitglieder der Konferenz für Gesundheit, Pflege und Alter - einstimmig beschlossen
+- TOP 26: Kreiswerke Grevenbroich GmbH
+- TOP 26.1: Aufsichtsrat Kreiswerke Grevenbroich GmbH / Beirat Verwaltungsgesellschaft Rhein-Kreis Neuss GmbH - einstimmig beschlossen
+- TOP 26.2: Gesellschafterversammlung Kreiswerke Grevenbroich GmbH - einstimmig beschlossen
+- TOP 27: Rheinland Klinikum Neuss GmbH - Entsendung von Vertretern des Rhein-Kreises Neuss sowie Arbeitnehmervertretern in den Aufsichtsrat - einstimmig beschlossen
+- TOP 28: Jobcenter Rhein-Kreis Neuss
+- TOP 28.1: Besetzung der Trägerversammlung des Jobcenters Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 28.2: Besetzung des Beirates des Jobcenters Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 29: Segelflugplatzgesellschaft
+- TOP 29.1: Bestellung eines Vertreters des Gesellschafters Rhein-Kreis Neuss für die Gesellschafterversammlung der Segelflugplatzgesellschaft Grevenbroich mbH - einstimmig beschlossen
+- TOP 29.2: Wahl von Mitgliedern des Aufsichtsrates der Segelflugplatzgesellschaft mbH Grevenbroich - einstimmig beschlossen
+- TOP 30: Verkehrsgesellschaft Kreis Neuss mbH, Benennung von Mitgliedern für den Aufsichtsrat - einstimmig beschlossen
+- TOP 31: Sparkasse Neuss
+- TOP 31.1: Wahl der Mitglieder und Stellvertreter der Verbandsversammlung des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss, der Stadt Korschenbroich und der Stadt Kaarst - einstimmig beschlossen
+- TOP 31.2: Wahl des Vorsitzenden und des Stellvertreters des Vorsitzenden der Verbandsversammlung des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss, der Stadt Korschenbroich und der Stadt Kaarst - einstimmig beschlossen
+- TOP 31.3: Wahl des Verbandsvorstehers und seines Stellvertreters des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss, der Stadt Korschenbroich und der Stadt Kaarst - einstimmig beschlossen
+- TOP 31.4: Wahl des vorsitzenden Mitgliedes des Verwaltungsrates der Sparkasse Neuss - einstimmig beschlossen
+- TOP 31.5: Wahl der Mitglieder und Stellvertreter des Verwaltungsrates der Sparkasse Neuss - einstimmig beschlossen
+- TOP 31.6: Wahl des ersten und zweiten Stellvertreters des vorsitzenden Mitgliedes des Verwaltungsrates - einstimmig beschlossen
+- TOP 31.7: Wahl eines Hauptverwaltungsbeamten und seines Stellvertreters als Beanstandungsbeamte - einstimmig beschlossen
+- TOP 32: Rheinischer Sparkassen- und Giroverband (RSGV)
+- TOP 32.1: Wahl des Mitgliedes, des Stellvertreters und des Ersatzvertreters der Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (§ 5 Abs. 2 a der RSGV-Satzung) - einstimmig beschlossen
+- TOP 32.2: Wahl des Mitgliedes, des Stellvertreters und des Ersatzvertreters der Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (§ 5 Abs. 2 b der RSGV-Satzung) - einstimmig beschlossen
+- TOP 33: Stiftungen Sparkasse Neuss
+- TOP 33.1: Wahl der Mitglieder des Kuratoriums der Stiftung Kulturpflege und Kulturförderung der Sparkasse Neuss - einstimmig beschlossen
+- TOP 33.2: Wahl von Mitgliedern in das Kuratorium der Stiftung Sport der Sparkasse Neuss und des Rhein-Kreises - einstimmig beschlossen
+- TOP 34: Wahl der Mitglieder des Kuratoriums der Stiftung Insel Hombroich - einstimmig beschlossen
+- TOP 35: Wahl von Mitgliedern in den Stiftungsrat der Stiftung Schloss Dyck - einstimmig beschlossen
+- TOP 36: Wahl der Mitglieder für das Kuratorium der Stiftung Rheinisches Schützen-Museum mit Joseph Lange Schützenarchiv - einstimmig beschlossen
+- TOP 37: Digital Innovation Hub Düsseldorf/Rheinland GmbH, Besetzung von Gremien - einstimmig beschlossen
+- TOP 38: Zukunft.Kraftwerk.Frimmersdorf Strategie GmbH, Gesellschafterversammlung und Beirat - einstimmig beschlossen
+- TOP 39: Zukunftsagentur Rheinisches Revier GmbH, Aufsichtsrat und Gesellschafterversammlung - einstimmig beschlossen
+- TOP 40: Technologiezentrum Glehn GmbH und Gemeinnützige Beschäftigungsförderungsgesellschaft mbH Rhein-Kreis Neuss, Verwaltungsrat - einstimmig beschlossen
+- TOP 41: Service- und Koordinierungsgesellschaft für preisgünstigen und bezahlbaren Wohnraum Rhein-Kreis Neuss mbH, Gesellschafterversammlung und Beirat - einstimmig beschlossen
+- TOP 42: Wahl von Mitgliedern in die Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 43: Zweckverband der euregio rhein-maas-nord,Wahl von Mitgliedern des Kreistages des Rhein-Kreises Neuss zu Vertretern des Rhein-Kreises Neuss in der Verbandsversammlung - einstimmig beschlossen
+- TOP 44: Zweckverbandes Verkehrsverbund Rhein-Ruhr, Wahl von Vertretern des Rhein-Kreises Neuss in die Verbandsversammlung - einstimmig beschlossen
+- TOP 45: Regiobahn GmbH / Regiobahn Fahrbetriebsgesellschaft mbH
+- TOP 45.1: Benennung jeweils eines Gesellschaftsvertreters für die Regionale Bahngesellschaft Kaarst – Neuss – Düsseldorf- Erkrath – Mettmann – Wuppertal mbH (Regio-Bahn) und Regiobahn Fahrbetriebsgesellschaft mbH - einstimmig beschlossen
+- TOP 45.2: Benennung eines Mitgliedes des Aufsichtsrates für die Regiobahn Fahrbetriebsgesellschaft mbH - einstimmig beschlossen
+- TOP 46: Verein Region Köln/Bonn e. V., Bestellung von Vertretern/Vertreterinnen des Rhein-Kreises Neuss für die Mitgliederversammlung - einstimmig beschlossen
+- TOP 47: Metropolregion Rheinland, Bestellung von Vertretern/Vertreterinnen des Rhein-Kreises Neuss für die Mitgliederversammlung - einstimmig beschlossen
+- TOP 48: Rat der Gemeinden und Regionen Europas (RGRE), Deutsche Sektion, Besetzung von drei Ausschüssen - einstimmig beschlossen
+- TOP 49: Verein zur Förderung der Abfallwirtschaft Region Rhein-Ruhr-Wupper e.V., Wahl von Vertretern für die Mitgliederversammlung - einstimmig beschlossen
+- TOP 50: Entsendung eines Delegierten und stellvertretenden Delegierten in die Verbandsversammlung des Wasser- und Bodenverbands Nordkanal - einstimmig beschlossen
+- TOP 51: Lärmschutzbeirat am Verkehrslandeplatz Mönchengladbach, Benennung eines Mitgliedes - einstimmig beschlossen
+- TOP 52: Wahl von zwei Mitgliedern in die Veranstaltergemeinschaft Lokaler Rundfunk im Rhein-Kreis Neuss e.V. - einstimmig beschlossen
+- TOP 53: Sitzungstermine 2026
+- TOP 54: Zuwendungen für die Geschäftsführung nach § 40 Abs. 3 KrO NRW - einstimmig beschlossen
+- TOP 55: Anträge
+- TOP 56: Mitteilungen
+- TOP 57: Anfragen
+- TOP 58: Einwohnerfragestunde
