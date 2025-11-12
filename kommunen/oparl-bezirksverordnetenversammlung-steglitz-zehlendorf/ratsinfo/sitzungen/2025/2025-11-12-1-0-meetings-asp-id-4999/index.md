@@ -1,0 +1,83 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-11-12T17:00:00+01:00
+- Ende: 2025-11-12T21:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4999
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4999
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Stau in der Kaiser-Wilhelm-Straße - beantwortet
+- TOP 3.2: Nachverdichtung Wohnquartier Düppel-Süd - beantwortet
+- TOP 3.3: Zwischennutzung des Bierpinsels als kurzfristige Lösung - beantwortet
+- TOP 3.4: Welche Zukunft für das Grundstück an der Wupperstraße 1, 2, 4, 9? - beantwortet
+- TOP 3.5: Drag-Queen-Lesung statt Weihnachtsbeleuchtung - oder was fördert die Wirtschaftsförderung? - beantwortet
+- TOP 3.6: Kleine Viktoria träumt von der großen Bundesliga - schriftlich beantwortet
+- TOP 3.7: Verkehrschaos Lankwitz - schriftlich beantwortet
+- TOP 3.8: Bierpinsel - das Wahrzeichen der Schloßstraße bewahren - schriftlich beantwortet
+- TOP 3.9: Schädlingsbefall Klingsorstraße 119 - schriftlich beantwortet
+- TOP 3.10: Wann kommt die Kältehilfe? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Neuwahl eines ehrenamtlichen Mitarbeiters - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Schwarzkiefer im Bezirksbild - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Ausstellung „Der Mensch dahinter“ - Für mehr Respekt gegenüber Einsatzkräften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Berliner Außenbezirke nicht benachteiligen - Fahrkarte BC erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Bundesprogramm „Sanierung kommunaler Sportstätten" nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Weil es leider notwendig ist: Unterausschuss „Versorgung von Menschen ohne Obdach in Steglitz-Zehlendorf“ einrichten - in der BVV abgelehnt
+- TOP 4.13: Ausschussanträge in der Geschäftsordnung regeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Grunewald retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Kleine Handgriffe zur Pflege des Hermann-Ehlers-Platzes - in der BVV abgelehnt
+- TOP 4.16: Schön machen zur Eröffnung der Promenade Anlegestelle Wannsee - in der BVV abgelehnt
+- TOP 4.17: Sicherung des Uferstreifens an Schlachtensee und Krumme Lanke - in der BVV abgelehnt
+- TOP 4.18: Buschgraben Mauerweg endlich freigeben - in der BVV zurückgezogen
+- TOP 4.19: Freiheit für die Information - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2024 - überwiesen
+- TOP 5.2: Lorenzstraße Tempo 30 durchgängig anordnen/Querungshilfen Kreuzung Lorenzstraße/Jägerstraße - überwiesen
+- TOP 5.3: Leerstand gemeinsam entgegenwirken: Einen Leerstandsmelder für Gewerberäume für Steglitz-Zehlendorf - überwiesen
+- TOP 5.4: Keine Unterbrechung des Livestreams bei Sitzungen der Bezirksverordnetenversammlung - überwiesen
+- TOP 5.5: Annemarie Wolff in die bezirkliche Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 5.6: Aufgrund von Lärm und Luftverschmutzung und zur Sicherheit schwacher Verkehrsteilnehmer*innen: Durchgehend Tempo30 in der Schildhornstraße - überwiesen
+- TOP 5.7: Wir sind nicht auf der Flucht: Fußgänger*innenampel Ecke Unter den Eichen/Thielallee/Dahlemer Weg für normales Gehtempo schalten - überwiesen
+- TOP 5.8: Informationstafel zum „Stein des 30. Hartung“ und zum Fruchtbarkeitsschrein von Volkmar Haase - überwiesen
+- TOP 5.9: Lärmmessung AVUS - überwiesen
+- TOP 5.10: Zebrastreifen Breisgauer Straße - überwiesen
+- TOP 5.11: Bänke an der Wilma-Rudolph-Schule - überwiesen
+- TOP 5.12: Gedenken an den 7. Oktober 2023 jährlich - überwiesen
+- TOP 5.13: Einführung der Brillenbox in Steglitz-Zehlendorf - überwiesen
+- TOP 5.14: Fernmeldeturm Berlin-Schäferberg für den Besucherverkehr am Tag des offenen Denkmals zugänglich machen - überwiesen
+- TOP 5.15: Einmündung des Fahrradwegs am Steglitzer Damm vor der Ecke Liebenowzeile absichern - überwiesen
+- TOP 5.16: Onkel-Toms-Hütte kontextualisieren - überwiesen
+- TOP 5.17: Parkbank-Putz-Patenschaften - überwiesen
+- TOP 5.18: Schutzräume für Steglitz-Zehlendorf in den U10-Tunneln - überwiesen
+- TOP 5.19: Sicherheit für Radfahrer hinter der Bushaltestelle Steglitzer Damm/Halskestraße erhöhen - überwiesen
+- TOP 5.20: Wirtschaft macht Schule - überwiesen
+- TOP 5.21: Wahlen der Seniorenvertretung in Steglitz-Zehlendorf - überwiesen
+- TOP 5.22: Abstimmboxen für Zigarettenstummel in Lichterfelde-West - überwiesen
+- TOP 5.23: Beschriftungen im Bürgeramt - überwiesen
+- TOP 5.24: Feier für Neueingebürgerte endlich wieder einsetzen - überwiesen
+- TOP 5.25: Igeltunnel an bezirklichen Einrichtungen - überwiesen
+- TOP 5.26: Lückenschluss Am Eichgarten - überwiesen
+- TOP 5.27: Mülltrennung: Mit gutem Beispiel voran - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Was unternimmt das Bezirksamt beim Geisterhaus Gardeschützenweg? - beantwortet
+- TOP 6.2: Ergebnisse der Arbeit von Gangway in unserem Bezirk - beantwortet
+- TOP 6.3: Start der Kältehilfe im Steglitzer Kreisel - beantwortet
+- TOP 6.4: Wärmeplan in Steglitz-Zehlendorf – oder bald Kältehilfe für alle? - beantwortet
+- TOP 6.5: Einhaltung der Mietpreisbremse - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Aufzeichnung BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
