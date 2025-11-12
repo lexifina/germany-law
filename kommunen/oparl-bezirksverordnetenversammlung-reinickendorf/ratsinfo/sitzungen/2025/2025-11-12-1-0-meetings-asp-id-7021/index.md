@@ -1,0 +1,117 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-11-12T17:00:00+01:00
+- Ende: 2025-11-12T21:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7021
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7021
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Temporäre Aufstellung von zwei metallverkleideten Tiny Houses als Winterschlafplätze für sozial Benachteiligte in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Planänderung beim Neubau der Schildower Straße - beantwortet
+- TOP 3.2: Gefährdung des Busverkehrs in der sanierten Schildower Straße? - beantwortet
+- TOP 3.3: Erreichbarkeit des Sozialamtes per Mail - beantwortet
+- TOP 3.4: Sicheres Radfahren in der neu gebauten Schildower Straße - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 47. Sitzung der BVV am 12.11.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Humboldt-Bibliothek - beantwortet
+- TOP 5.2: Wirtschaftliche Nachnutzung der RABOMA-Halle - beantwortet
+- TOP 5.3: Öffnung der Spielplätze - beantwortet
+- TOP 5.4: Spielplatz auf dem Dr.-Ilse-Kassel-Platz: Wer denkt an unsere Kinder? - beantwortet
+- TOP 5.5: Böllerangriffe gegen Polizisten, Kinder und Fahrzeuge von Jugendlichen am 01.11.2025 am Märkischen Zentrum - beantwortet
+- TOP 5.6: Umsetzung Berliner Klimaanpassungsgesetz (BäumePlus-Gesetz) in Reinickendorf - beantwortet
+- TOP 5.7: Einsatz von Fixpunkt e.V. im Schäferseepark - schriftlich beantwortet
+- TOP 5.8: Stammtisch gegen Einsamkeit - schriftlich beantwortet
+- TOP 5.9: Selbstbestimmungsgesetz nach einem Jahr - schriftlich beantwortet
+- TOP 5.10: Ollenhauer Straße entwurzelt? - schriftlich beantwortet
+- TOP 5.11: Wird die Hamas in Reinickendorf verherrlicht? - schriftlich beantwortet
+- TOP 5.12: Informationspolitik des Bezirksamts zum Schimmelbefall in der Bettina von Arnim Schule (Haus 5) - schriftlich beantwortet
+- TOP 5.13: Radverkehrsanlage an der Oranienburger Straße / Oraniendamm - schriftlich beantwortet
+- TOP 5.14: Fahrradfreundliches Reinickendorf - schriftlich beantwortet
+- TOP 5.15: Wann sind die Bauarbeiten an der Frohnauer Pergola endlich abgeschlossen? - schriftlich beantwortet
+- TOP 5.16: Baummaßnahmen Im Erpelgrund in Heiligensee - schriftlich beantwortet
+- TOP 5.17: Bundesprogramm "Sanierung kommunaler Sportstätten" - schriftlich beantwortet
+- TOP 5.18: Pavillons Gorkistraße - schriftlich beantwortet
+- TOP 5.19: Spielplatz Dr.-Ilse-Kassel-Platz - schriftlich beantwortet
+- TOP 5.20: Orange Bank - schriftlich beantwortet
+- TOP 5.21: Elternhaltestelle "Am Dachsbau" - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 7.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Milieuschutzgebiet in Reinickendorf-Ost zügig ausweiten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Grobscreening aktualisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Einsatz für die Freigabe der Mittel für die Mäckeritzwiesen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Sauberkeit schafft Sicherheit: Vierte Mahd für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Verbesserung der Beleuchtung in der Baseler Straße und im Bereich des "Schwarzen Grabens" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Regenwasserrückhalt und Dachbegrünung für das TetraPak Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Abbiegespur und Ampelschaltung Hennigsdorfer Str./Ruppiner Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Kartenanzeige bei Betriebsstörungen der Berliner Wasserbetriebe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Bodycams für den Allgemeinen Ordnungsdienst in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Abriss der defekten Telefonzelle am U-Bahnhof Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Abriss der Telefonzelle vor dem Märkischen Zentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Lebenswerte neue Stadtquartiere - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: 10-Minuten-Takt für die Buslinie 220 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.15: Buslinie 322 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Abriss der defekten Telefonzellen am S-Bahnhof Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.17: Einrichtung einer Arbeitsgruppe zur Namensgebung zukünftiger Straßen im Entwicklungsgebiet des ehemaligen Flughafens Tegel (TXL) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.18: Erlass der Verordnung über die Erneuerung der Veränderungssperre 12-63a / 48 gemäß § 14 Abs. 1 Baugesetzbuch (BauGB) für das Grundstück Trettachzeile 5 im Bezirk Reinickendorf, Ortsteil Borsigwalde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Günstigere Einkaufsmöglichkeiten für Patienten im Maßregelvollzug - in der BVV abgelehnt
+- TOP 11.2: Green-Yard-Strategie in Reinickendorf umsetzen - in der BVV abgelehnt
+- TOP 11.3: Graffiti-Freiflächen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Pilotprojekt "Oilette"-Toiletten auf Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Verbesserte Sicherheitsmaßnahmen am Schäfersee - in der BVV abgelehnt
+- TOP 11.6: Unbeliebte Parkbewohner - in der BVV abgelehnt
+- TOP 11.7: Geschlossene Müllbehälter an Badestellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Veröffentlichung geplanter Straßenbaumfällungen - in der BVV abgelehnt
+- TOP 11.9: Denkmal für die Berliner Luftbrücke auf dem Gelände des ehem. Flughafen Tegel einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Studentisches Wohnen in Tegel-Süd fördern - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Olympisches Dorf auf TXL - in der BVV abgelehnt
+- TOP 11.12: Standorte des mobilen Bürgeramtes ausweiten - in der BVV abgelehnt
+- TOP 11.13: "Reinickendorfer Gartenschau" - in der BVV abgelehnt
+- TOP 11.14: Comeback des "Freizeitparks Tegel" an der Malche - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Reflektierende Klettabzeichen für die Schutzwesten des AOD - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Naturnahe Landschaftspflege mit Wasserbüffeln ausweiten - in der BVV abgelehnt
+- TOP 11.17: Nutzung von Brunnenwasser zur Bewässerung bezirklicher Sportflächen - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Berlinweit gültige Regelung für Videoaufnahmen auf Sportflächen - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Trinkwasser auf dem Sportplatz Hatzfeldallee - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Einsatz von künstlicher Intelligenz (KI) in der Verwaltung - erledigt
+- TOP 11.21: Av. Charles de Gaulle 36 - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Grobscreening beauftragen - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Turmuhr im Frohnauer Kasinoturm: zuverlässigen Betrieb dauerhaft sichern - überwiesen
+- TOP 13.2: Neugestaltung der Kreuzung "Im Saatwinkel/Maienwerderweg" in Saatwinkel I - überwiesen
+- TOP 13.3: Wanderausstellung "gefährdet leben" - überwiesen
+- TOP 13.4: Reparatur der Grillanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Austausch des Verkehrszeichen 136 StVO gegen 238 StVO in Alt-Lübars - überwiesen
+- TOP 13.6: Fördermittel nutzen - überwiesen
+- TOP 13.7: Allgemeinverfügung umgehend aufheben - Grünflächen und Spielplätze wieder öffnen - überwiesen
+- TOP 13.8: Neugestaltung der Kreuzung "Im Saatwinkel/Maienwerderweg" in Saatwinkel II - überwiesen
+- TOP 13.9: Aufstellung von Hinweisschildern zur Nutzung des Sportplatzes an der Königshorster Straße - überwiesen
+- TOP 13.10: Bereitstellung von Ersatzbänken auf dem Sportplatz an der Königshorster Straße - überwiesen
+- TOP 13.11: Schaffung von Sitzmöglichkeiten für Zuschauerinnen und Zuschauer auf dem Sportplatz an der Königshorster Straße - überwiesen
+- TOP 13.12: Querungshilfe Reinickendorf-Ost II - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Ampel-Countdown für Reinickendorf - überwiesen
+- TOP 14.2: Neuaufteilung und städtebauliche Integration der Berliner Straße - überwiesen
+- TOP 14.3: Bäume bewahren - Moratorium zur Ollenhauer Straße - überwiesen
+- TOP 14.4: Wohnungslosigkeit im hier und jetzt überwinden - überwiesen
+- TOP 14.5: Unterbrochener Schlaf in Reinickendorf und darüber hinaus - überwiesen
+- TOP 14.6: Reinigung der Fahrradabstellanlagen und Entfernung defekter Fahrräder am S-Bahnhof Wittenau - überwiesen
+- TOP 14.7: Übergang über die Seidelstraße an der Kreuzung Allee St. Exupery/Otisstraße schaffen - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
