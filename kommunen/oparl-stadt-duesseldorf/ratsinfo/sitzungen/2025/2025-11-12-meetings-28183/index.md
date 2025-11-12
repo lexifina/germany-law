@@ -1,0 +1,76 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-12T17:10:00+01:00
+- Ende: 2025-11-12T20:09:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28183
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28183
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Wahl des Bezirksbürgermeisters/der Bezirksbürgermeisterin und der Stellvertreter*innen
+- TOP 3: Verpflichtung des Bezirksbürgermeisters/der Bezirksbürgermeisterin
+- TOP 4: Verpflichtung der stellvertretenden Bezirksbürgermeister*innen sowie der weiteren Mitglieder*innen der Bezirksvertretung 6
+- TOP 5: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 6: Genehmigung der Niederschrift vom 02.07.2025 - einstimmig beschlossen
+- TOP 7: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 8: Zulassung der Vertreter*innen des Seniorenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 9: Zulassung der Vertreter*innen des Jugendrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 10: Zulassung einer Vertretung des Behindertenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Qualitätssicherung Nr. 06/027 - Nordöstlich Rather Kreuzweg - Empfehlung abweichend beschlossen
+- TOP 13: Ulmenstraße / Kalkumer Straße / An der Piwipp – Barrierefreier Ausbau der Haltestelle „An der Piwipp“ und Ausbau der Radverkehrsanlagen - Empfehlung einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 16: Anfrage der SPD-Fraktion: Tempo 30 "An der Piwipp" - schriftlich beantwortet
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Regelungen für den Einsatz von Bodenschwellen (auf der Krahnenburgstraße) - vertagt
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Bleibt die Bauaufsicht bei illegalen Flughafenparkplätzen untätig? - schriftlich beantwortet
+- TOP -: Verwaltungsvorlagen
+- TOP 19: Ampelschaltung Theodorstraße/Wahlerstraße nach Inbetriebnahme der Linie 701 - Vorlage 176/53/2018 - einstimmig beschlossen
+- TOP 20: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der KGS Rather Kreuzweg - Sankt Martin - Umzug und Fest 2025 - mehrheitlich beschlossen
+- TOP 21: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Selbstverwaltetes Wohnprojekt Theodorstraße e. V. - Kinder- und Sommerfest 2025 - einstimmig beschlossen
+- TOP 22: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Kristi BD Deutschland e. V. - Durga Puja 2025 - einstimmig beschlossen
+- TOP 23: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der St.Bruno Schule - Projekt Gewaltfreies Lernen - einstimmig beschlossen
+- TOP 24: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der KGS St. Franziskus Schule - Umzug St. Martin 2025 - mehrheitlich beschlossen
+- TOP 25: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Bürger-Schützenvereins 1925 e. V. Düsseldorf-Rath - Rather Martinsfeuer - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag der St. Bruno Schule und des Fördervereins der St. Bruno-Schule e. V. - Teilnahme am Düsseldorfer Kinderkarnevalsumzug in Unterrath und auf der Kö - einstimmig beschlossen
+- TOP 27: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Einkaufs Trümpfe Unterrath e. V. - Aufstellung Weihnachtsbäume 2025 - einstimmig beschlossen
+- TOP 28: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Vida Nachbarschaftshilfe e. V./Quartierstreff Sermer Weg - Anschaffung Gefrierschrank und Waschmaschine - einstimmig beschlossen
+- TOP 29: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Bürgervereins Mörsenbroich 1928 e.V. - Weihnachtsbaum am Kreitenplatz - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2025 Teil A "Schulen" - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Weihnachtsbaum auf dem Hülsmeyerplatz - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Aufstellung Pult-Stele an der Kürtenstraße - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2025 Teil B "sonstige städtische Einrichtungen" Aufstellung Info-Tafel an der Kalkumer Straße - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2025 Teil C "Förderung Dritter" - Begrünungsmaßnahmen am Matthiaskirchweg durch EDEKA - Felix Buller e. K. - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 35: ÖPNV-Beschleunigung im Bereich zwischen Münsterstraße/Wrangelstraße und Münsterstraße/Am Schein - Vorlage BV6/088/2025 - zur Kenntnis genommen
+- TOP 36: Zebrastreifen "In den Diken" - Vorlage BV6/017/2025 - zur Kenntnis genommen
+- TOP 37: Ampelzeiten für den Fußverkehr auf der Oberrather Straße/Tevernstraße verlängern - Vorlage BV6/023/2025 - zur Kenntnis genommen
+- TOP 38: Einrichten von Fahrradabstellplätzen in Höhe der Linie 701 Haltestelle Theodorstraße/Wahlerstraße - Vorlage BV6/081/2021 und Informationsvorlage BV6/105/2022 - zur Kenntnis genommen
+- TOP 39: Fahrradständer auf der Unterrather Straße - Vorlage BV6/128/2025 - zur Kenntnis genommen
+- TOP 40: Sichere Tiefgaragenausfahrt Westfalenstraße - Vorlage BV6/083/2025 - zur Kenntnis genommen
+- TOP 41: Einrichtung eines Zebrastreifens an der Fußgängerinsel auf der Oberrather Straße - Vorlage BV6/002/2025 - zur Kenntnis genommen
+- TOP 42: Kurzfristiger Umbau von Haltestellen zur Erhöhung der Sicherheit: Elsässer Straße und Am Röttchen - Vorlage BV6/082/2025 - zur Kenntnis genommen
+- TOP 43: Gestaltung des Kreisverkehrs Wahlerstraße/Am Gatherhof - Vorlage BV6/122/2025 - zur Kenntnis genommen
+- TOP 44: Einrichtung eines Anwohnerparkgebietes in Lichtenbroich - Vorlage BV6/129/2025 - zur Kenntnis genommen
+- TOP 45: Baumfälllungen im Stadtbezirk 6 ab der 33. KW - zur Kenntnis genommen
+- TOP 46: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 47: Durchfahrt Buslinie 730 bei Veranstaltungen - Vorlage BV6/118/2025 - zur Kenntnis genommen
+- TOP 48: Ausweisung des Nördlichen Teils des Kartäuserparks als Fläche für den Flughafen - Vorlage BV6/045/2025 - zur Kenntnis genommen
+- TOP 49: Prüfantrag zur Beschleunigung des Radverkehrs entlang der Theodorstraße - BV6/074/2025 - zur Kenntnis genommen
+- TOP 50: Radweg auf der Westfalenstraße - Vorlage BV6/124/2025 - zur Kenntnis genommen
+- TOP 51: Öffentliche Toilette auf der Westfalenstraße - Vorlage BV6/089/2025 - zur Kenntnis genommen
+- TOP 52: Stele oder Informationstafel für die "Große Burg" in Unterrath, Nähe Kieshecker Weg - Vorlage BV6/185/2024 - zur Kenntnis genommen
+- TOP 53: Tafel Denkmal Gut Heiligendonk - Vorlage 176/109/2016 - zur Kenntnis genommen
+- TOP 54: Baumfällungen im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 55: Aktueller Stand zum Sparkassenautomaten in Lichtenbroich - Vorlage BV6/046/2025 - zur Kenntnis genommen
+- TOP 56: Fußgängerfurten Thewissenweg - BV6/014/2025 - zur Kenntnis genommen
+- TOP 57: Sitzungstermine der Bezirksvertretung 6 im Jahr 2026 - zur Kenntnis genommen
+- TOP 58: Anpassung des Umlaufgitters auf dem Tiefenbroicher Weg - Vorlage BV6/126/2022 - zur Kenntnis genommen
