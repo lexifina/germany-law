@@ -1,0 +1,103 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-11-12T17:00:00+01:00
+- Ende: 2025-11-12T22:30:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5546
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5546
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Container und Material für Straßenarbeiten in der Jonasstrasse - beantwortet
+- TOP 1.2: WCD Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.3: Containerdorf Sangerhauser Weg - beantwortet
+- TOP 1.4: Bebauung Sangerhauser Weg - beantwortet
+- TOP 1.5: Fortbestand eines traditionsreichen Sportangebots im Kiez gefährdet - beantwortet
+- TOP 2: Aktuelle halbe Stunde - Krise in der SPD Neukölln – ist Martin Hikel eine lahme Ente? - erledigt
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - erledigt
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Die BVV Neukölln stellt sich gegen die rassistischen und sexistischen „Stadtbild"-Aussagen von Bundeskanzler Friedrich Merz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bürgerdienste, Gleichstellung, Antidiskriminierung und Queerpolitik - gewählt
+- TOP 9.2: Nachwahl eines stellvertretenden Mitgliedes des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Aufbewahrungsfristen zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen - beantwortet
+- TOP 10.2: Raumnutzung des Bezirksamts bei den Guttemplern - beantwortet
+- TOP 10.3: Karl-Marx-Str. 11 - Verkauft die katholische Kirche zum Maximalpreis - beantwortet
+- TOP 10.4: Weitere Kürzungen - Sollen Neuköllner Schulen ihre Schwimmbusse in Zukunft aus den eigenen Mitteln zahlen? - beantwortet
+- TOP 10.5: „Heimliche Tests“ bei der Anmeldung von Erstklässlern an Neuköllner Grundschulen - beantwortet
+- TOP 10.6: Zwei Kieze- eine neue Mauer? - beantwortet
+- TOP 10.7: Neukölln vom Flughafen abgehängt? - beantwortet
+- TOP 10.8: Wie viele Kontrollen der Mehrwegangebotspflicht wurden bis dato durchgeführt? - schriftlich beantwortet
+- TOP 10.9: Wie viel Entschädigung muss Neukölln für die gekündigten Schulreinigungsverträge zahlen? - schriftlich beantwortet
+- TOP 10.10: Wird die Schulwegbeförderung von Schülern mit Behinderungen jetzt endlich ernst genommen? - schriftlich beantwortet
+- TOP 10.11: Unzulässige Nutzung von Bussonderfahrstreifen - schriftlich beantwortet
+- TOP 10.12: BER Alt-Buckow - Wie geht es weiter mit der Immobilie Alt-Buckow 37? - schriftlich beantwortet
+- TOP 10.13: Gefahr und Lärmbelastung für Anwohnende durch mitunter rücksichtslosen Auto-Ausweichverkehr in der Altenbraker Str. - schriftlich beantwortet
+- TOP 10.14: „Bezirksamt im Verzug – Wann kommt die Antwort?“ - schriftlich beantwortet
+- TOP 10.15: Zielführende Maßnahmen bei der Schulreinigung? - schriftlich beantwortet
+- TOP 10.16: Ist das Energiemanagement arbeitsfähig? - schriftlich beantwortet
+- TOP 10.17: Jelbi-Station und nur Kopfsteinpflaster - schriftlich beantwortet
+- TOP 10.18: Sondervermögen für Infrastruktur und Klimaneutralität - schriftlich beantwortet
+- TOP 10.19: Lobbyismus des European Leader Network (ELNET) in Neukölln - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Teupitzer Str. Ecke Kiehlufer sicherer machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Fahrradbügel an der Hermannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Parkraumbewirtschaftung nach neuer StVO erneut in Rudow prüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: 3. Seniorensommer in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Park & Ride wieder möglich machen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Keine Eröffnung des 16. Bauabschnitts der A100 vor Abschluss der Bauarbeiten an der Elsenbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Sicherheit und Bewegungsraum vor Spielplatz und Familienzentrum Silbersteinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Ursachen der niedrigen Ausschöpfungsquote der Neuköllner Kitas genauer bestimmen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Gehweg Lipschitzallee - in der BVV zurückgezogen
+- TOP 14.4: Verbindungen ins islamistische Milieu? – Trägerstruktur der Kita Harzer Straße 51 auf dem Prüfstand - in der BVV abgelehnt
+- TOP 14.5: Volle Bases, aber niemand kommt heim – Bezirksamt muss endlich liefern! - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Parkraumbewirtschaftung für Rudow - in der BVV abgelehnt
+- TOP 14.7: Beleuchtung Grünzug - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Gestrichene Schwimmbusse wieder einsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Baumaßnahmen an der Schule am Bienwaldring - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Werden polizeifeindliche Parolen an Jugendeinrichtungen toleriert? - beantwortet
+- TOP 15.2: Jansastraße 12 - Neue Wege für das Vorkaufsrecht? - beantwortet
+- TOP 15.3: Neukölln werbefrei - beantwortet
+- TOP 15.4: Verringerung des öffentlichen Parkraums im Bezirk Neukölln - schriftlich beantwortet
+- TOP 15.5: Fahrradwege vs Parkraumbewirtschaftung - beantwortet
+- TOP 15.6: Rechtsextremismus im Bezirk erkennen und entschieden bekämpfen - beantwortet
+- TOP 15.7: Schafft das Bezirksamt die Grundreinigung an Neuköllner Schulen ab? - vertagt
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Weniger Stau - mehr Sicherheit - überwiesen
+- TOP 17.2: Maßnahmen zur Entlastung der Anwohnerschaft vom Parkdruck rund um das Vivantes Klinikum Neukölln - überwiesen
+- TOP 17.3: Abreißzettel "Hilfetelefon Gewalt gegen Frauen" in Toiletten in bezirklichen Einrichtungen - überwiesen
+- TOP 17.4: Bordsteinabsenkung an der Kreuzung Hermannplatz/Sonnenallee - überwiesen
+- TOP 17.5: Anita-Berber-Park aufwerten – Würdiges Gedenken für die Namensgeberin - überwiesen
+- TOP 17.6: Konzept gegen Leistungsbetrug nach sozialdemokratischem Vorbild - überwiesen
+- TOP 17.7: Silvester friedlich feiern - Böllerverbot umsetzen! - überwiesen
+- TOP 17.8: Ausreichend Zeit für die wichtigen Aufgaben: Die Aktuelle halbe Stunde wird wieder abgeschafft - überwiesen
+- TOP 17.9: Querungshilfe vor der Heinrich-Mann-Schule in der Gerlinger Straße - überwiesen
+- TOP 17.10: Grünfläche Gerlinger Straße aufwerten – Sauberkeit durch Nutzung und Beteiligung - überwiesen
+- TOP 17.11: Dauer-Überschwemmung an Bushaltestelle Harzer Straße/Elsenstraße beheben - überwiesen
+- TOP 17.12: Kein Forum für die Kriegslobbyisten des European Leadership Network (ELNET) im Neuköllner Rathaus - überwiesen
+- TOP 17.13: Zeitlich begrenzte Parkregelung im Harzer Viertel - überwiesen
+- TOP 17.14: Verkehrssicherheit erhöhen und Lärm mindern! - überwiesen
+- TOP 17.15: Sportstättensanierung - Bundesmittel nutzen! - überwiesen
+- TOP 17.16: Keine Kürzungen und Qualitätsverschlechterungen in den Kitas - überwiesen
+- TOP 17.17: Emmaus-Wald bleibt - Brachfläche endlich bebauen - überwiesen
+- TOP 17.18: Einrichten von Parkzonen für Leihräder und E-Roller in Neukölln - überwiesen
+- TOP 17.19: Jugendverkehrsschule Wörnitzweg fit für die Zukunft machen - überwiesen
+- TOP 17.20: Verkehrsüberwachungsdienst durch Ausbildung stärken - überwiesen
+- TOP 17.21: Jugendverkehrsschule: Sonnenschutz und Energiegewinnung - überwiesen
