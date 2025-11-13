@@ -1,0 +1,6 @@
+# TOP I.: Öffentliche Sitzung
+
+- Sitzung: Steuerungsgruppe Dorfentwicklung (8. Sitzung) (2025-11-13)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/4223
