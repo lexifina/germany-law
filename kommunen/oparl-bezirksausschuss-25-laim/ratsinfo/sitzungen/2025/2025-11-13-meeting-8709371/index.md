@@ -1,0 +1,126 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8709371
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8709371
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Verbesserung des Lebensraums für Eichhörnchen in Laimer Grünanlagen
+- TOP 2.2.: Internale 2026
+- TOP 2.3.: Schäfflertanz
+- TOP 2.4.: Aufnahme konkreter Planungen für die Einführung von Parklizenzgebieten in Laim
+- TOP 2.5.: Parkraumsituation in Laim – Datengrundlage, Bewertung und erforderliche Maßnahmen zur Verbesserung
+- TOP 2.6.: Ermöglichung von punktuellem Gehwegparken in Laim – Prüfung und Beschilderung an ausgewählten Straßenzügen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: PBB Friedenheimer Str., Haltestelle Schäufeleinstraße Projekt-Nr.: 5789
+- TOP 3.1.1: Friedenheimer Str. / Verlegung der Haltestelle Schäufeleinstraße
+- TOP 3.2.: (E) Stadtbezirksbudget Faschingsclub Laim e.V. Anschaffung von Jogginganzügen 4.994,51 Euro, Az.: 0262.0-25-0384 (UA Kultur)
+- TOP 3.3.: (E) Stadtbezirksbudgt Initiative "Weihnachtsaktion" Einkaufswertgutscheine für bedürftige Familien und Senior*innen 5.000,00 Euro, Az.: 0262.0-25-0385
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 11.09.25: Verlängerung der U-Bahn-Linie-5-West von Laim nach Pasing - Oberflächenwiederherstellung Gotthardstraße zwischen Laimer Platz und Genovevaweg
+- TOP 4.2.: Einzelfällungsanträge
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 24.07.25: Einrichten eines absoluten Haltverbots in der Friedenheimer Straße (Westseite) zwischen Landsberger Straße und Veit-Stoß-Straße zur Verbesserung des Linienverkehrs der Buslinien 130 und 157
+- TOP 4.4.: Schreiben Baureferat vom 18.07.25: Funktionalität und Standort der DIALOG Displays in der Guido-Schneble-Straße
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 09.10.25: Kommunalwahl 2026: Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 25
+- TOP 4.6.: Entwurf der Beschlussvorlage des Bildungsausschusses und des Bauausschusses des Stadtrates vom 03.12.2025: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Elsenheimerstr. 1, 309/0-Laim Nutzungsänderung einer Bürofläche im EG zu einer Physiotherapiepraxis (Elsenheimerstr. 1-1b/ Landsberger Str. 191) (Frist 17.11.2025)
+- TOP 5.2.: Baudererstr. 20, 1575/165-Pasing Neubau als Ersatzbau einer Doppelhaushälfte mit Garage (Frist 17.11.2025)
+- TOP 5.3.: Friedenheimer Str. 152, 369/27-Laim Neubau eines Mehrfamilienhauses mit Tiefgarage – VORBESCHEID (Frist 17.11.2025)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 09.10.25
+- TOP 7.2.: Protokoll UA Kultur vom 18.09.25
+- TOP 7.3.: Protokoll UA Bau vom 02.10.25
+- TOP 7.4.: Protokoll UA Umwelt, Klima und Baumschutz vom 06.10.25
+- TOP 7.5.: Protokoll UA Mobilität vom 08.10.25
+- TOP 7.6.: Protokoll UA Kultur vom 09.10.25
+- TOP 7.7.: Protokoll UA Bildung und Gesundheit vom 21.10.25
+- TOP 8: Umlauf
+- TOP 8.1.: Antwortschreiben Abfallwirtschaftsbetrieb München vom 08.10.25: Straubinger Straße: Glas- Altkleider Container etc.
+- TOP 8.2.: Antwortschreiben Abfallwirtschaftsbetrieb München vom 17.10.25: Tonnenleerung Eckermannstraße
+- TOP 8.3.: Zwischennachricht Baureferat vom 16.10.25: Anfrage: Überfüllte Mülleimer in der Hogenbergstraße - Beschwerden für die Tonne?
+- TOP 8.4.: Antwortschreiben Baureferat vom 14.10.25 Laimer Unterführung
+- TOP 8.5.: Schreiben Münchner Stadtentwässerung vom 06.10.25: Rohrkanalsanierung „Neuhausen-Nymphenburg“
+- TOP 8.6.: Bautenliste 15.09. – 21.09.25 A) Erstantragsverfahren 1. Högerstr. 2. Landsberger Str. 318 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Platz 4
+- TOP 8.7.: Bautenliste 22.09. – 28.09.25 A) Erstantragsverfahren 1. Elsenheimerstr. 1 2. Eringerstr. 3
+- TOP 8.8.: Bautenliste 29.09. – 05.10.25 A) Erstantragsverfahren 1. Lanzstr. 32 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Lanzstr. 32
+- TOP 8.9.: Bautenliste 06.10. – 12.10.25 A) Erstantragsverfahren 1. Baudererstr. 20 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Friedenheimer Str. 152
+- TOP 8.10.: Bautenliste 13.10. – 19.10.25 A) Erstantragsverfahren 1. Landsberger Str. 181
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.10.25: Fällungsantrag Ilmmünsterstr. 37
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.10.25: Projektaufruf zum Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln“
+- TOP 8.13.: Schreiben Referat für Klima- und Umweltschutz vom 25.09.25: Modernisierung einer Mobilfunkanlage in der Friedenheimer Str. 10
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 15.10.25: Fortführung einer Gaststätte, Landsberger Str. 214
+- TOP 8.15.: Antwortschreiben Kreisverwaltungsreferat vom 16.10.25: Anfrage zur Verkehrssicherheit – Kreuzung Friedenheimer Str. / Veit-Stoß-Str.
+- TOP 8.16.: Antwortschreiben Kreisverwaltungsreferat vom 23.10.25: Baustellen und Verkehrssituation in Laim
+- TOP 8.17.: Antwortschreiben Mobilitätsreferat vom 02.10.25: Sitzmöglichkeiten an den Haltestellen entlang der Fürstenriederstraße
+- TOP 8.18.: Antwortschreiben Mobilitätsreferat vom 07.10.25 Frage bezüglich einseitiger Straßensperrungen in Laim Friedenheimer Straße
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 09.10.25: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung in der Rilkestraße
+- TOP 8.20.: Antwortschreiben Mobilitätsreferat vom 21.10.25: Beschilderung und Führung Fuß- und Radverkehr Fürstenrieder Straße
+- TOP 8.21.: Antwortschreiben Mobilitätsreferat vom 23.10.25: Zebrastreifen an der Willibaldstraße
+- TOP 8.22.: Schreiben Mobilitätsreferat 26.09.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.5 TramWestTangente Verlängerung
+- TOP 8.23.: Schreiben Mobilitätsreferat 29.09.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.5.1 TramWestTangente
+- TOP 8.24.: Schreiben Mobilitätsreferat 30.09.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 5.2.4 TramWestTangente
+- TOP 8.25.: Schreiben Mobilitätsreferat 06.10.25: Arbeiten im Straßenraum; Agnes-Bernauer-Straße zwischen Ossietzkystraße und Fürstenrieder Straße Bauphase 5 Änderung und Verlängerung
+- TOP 8.26.: Schreiben Mobilitätsreferat 06.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Ammerseestraße bis inkl. Kreuzungsbereich Meier-Helmbrecht-Straße, BA III MHS Bp 2.2.2, AMM – MHS Bp. 2.1.1 mit AMM 5.2.1, TWT
+- TOP 8.27.: Schreiben Mobilitätsreferat 08.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bauphase 5.4 im Bereich Laimer Kreisel bis Agnes-Bernauer-Straße TramWestTangente
+- TOP 8.28.: Schreiben Mobilitätsreferat 08.10.25: Arbeiten im Straßenraum; Laimer Unterführung (Oströhre), Wotanstraße; Vollsperre MIV (21.00 bis 05.00 Uhr) für Arbeiten an der Beleuchtung
+- TOP 8.29.: Schreiben Mobilitätsreferat 10.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.5.2 TramWestTangente
+- TOP 8.30.: Schreiben Mobilitätsreferat 14.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 5.2.5, 5.2.6 und 5.3 TramWestTangente
+- TOP 8.31.: Schreiben Mobilitätsreferat 14.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.5.3 TramWestTangente
+- TOP 8.32.: Schreiben Mobilitätsreferat 15.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Bauphase 7.1 mit Notmaßnahme Sperre Fürstenrieder Straße und Gotthardstraße
+- TOP 8.33.: Schreiben Mobilitätsreferat 16.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.2.1 AIN Knoten, Bph. 6.3 LEI-AIN, Bph. 6.3 AIN-CAM Süd TramWestTangente
+- TOP 8.34.: Schreiben Mobilitätsreferat 17.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.5.4 TramWestTangente
+- TOP 8.35.: Schreiben Mobilitätsreferat 21.10.25: Arbeiten im Straßenraum; Agnes-Bernauer-Straße zwischen Ossietzkystraße und Fürstenrieder Straße Bauphase 6 Änderung und Verlängerung
+- TOP 8.36.: Schreiben Mobilitätsreferat 21.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 5.4 TramWestTangente
+- TOP 8.37.: Schreiben Mobilitätsreferat 22.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Bauphase 7.1 mit Notmaßnahme Sperre Fürstenrieder Straße und Gotthardstraße Änderung
+- TOP 8.38.: Schreiben Mobilitätsreferat 22.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.2.1 AIN Knoten, Bph. 6.3 LEI-AIN, Bph. 6.3 AIN-CAM Süd TramWestTangente Änderung
+- TOP 8.39.: Schreiben Mobilitätsreferat 22.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.6 TramWestTangente
+- TOP 8.40.: Schreiben Mobilitätsreferat 24.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.5.4 TramWestTangente Änderung
+- TOP 8.41.: Schreiben Mobilitätsreferat 24.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.1, Camerloherstraße Bauphase 6.4
+- TOP 8.42.: Schreiben Mobilitätsreferat 27.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.3 AIN Knoten, Bph. 6.3 LEI-AIN TramWestTangente
+- TOP 8.43.: Schreiben Mobilitätsreferat 27.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 5.4 TramWestTangente Änderung
+- TOP 8.44.: Antwortschreiben Stadtwerke München vom 29.09.25 Baumaßnahme Trambahn Westtangengte
+- TOP 8.45.: Antwortschreiben Stadtwerke München vom 30.09.25: Baustelle Tuttlinger Straße
+- TOP 8.46.: Antwortschreiben Stadtwerke München 08.10.25: Barrierefreier Übergang Fußgängerüberquerungen, Fußgängerampeln Trambahn Westtangente
+- TOP 8.47.: Schreiben Stadtwerke München vom 10.10.25: Terminstand zum Neubau der Tram Westtangente
+- TOP 8.48.: Schreiben Stadtwerke München vom 15.10.25 und 20.10.25: Umleitungen Richtung Norden wegen Fahrbahnsenkung/-einbruch (Bereich: Laimer Platz)
+- TOP 8.49.: Schreiben Stadtwerke München vom 23.09.25 und 21.10.25: Baumaßnahmen
+- TOP 8.50.: Schreiben Direktorium September/Oktober 2025: Verwendungsnachweise
+- TOP 8.51.: Schreiben Direktorium vom 13.10.25: Bürgerforum Altenpflege
+- TOP 8.52.: Schreiben Sozialreferat vom 25.09.25: REGSAM-Schwerpunktarbeit
+- TOP 8.53.: Schreiben Sozialreferat vom 07.10.25: Zweckentfremdung von Wohnraum, Meister-Mathis-Weg
+- TOP 8.54.: Schreiben Sozialreferat vom 13.10.25: Vollzug der Erhaltungssatzung „Agnes-Bernauer-Straße“
+- TOP 8.55.: Schreiben Sozialreferat vom 25.09.25: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 8.56.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2025: (U) Aktuelle Fragen zur Klimaanpassung in Stadtentwicklung und Stadtplanung (2023/ 2024) Antrag und Empfehlungen
+- TOP 8.57.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2025: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 8.58.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2025: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 8.59.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2025: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 8.60.: Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 28.10.2025: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 8.61.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.10.2025: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 8.62.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.10.2025: (U) Bebauungsplan mit Grünordnung Nr. 2147 Arnulfstraße (südlich), Birketweg (nördlich und östlich), Wilhelm-Hale-Straße (östlich) - PaketPost-Areal - (Teilverdrängung des Bebauungsplanes mit Grünordnung Nr. 1926a) A.) Satzungsbeschluss B.) Behandlung der Empfehlungen und Anträge Stadtbezirk 09 - Neuhausen-Nymphenburg
+- TOP 8.63.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.10.2025: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Bitte um Umsetzung Bänke Fürstenrieder Str. 11 (Kenntnisnahme und Antwort an Bürger*in)
+- TOP 9.2.: Hundekot-Tütenspender Willibaldplatz und Mülleimer Rushaimerstraße (Weiterleitung an Baureferat)
+- TOP 9.3.: Barrierefreie Wahllokale Laim (Weiterleitung an Beauftragte für Menschen mit Behinderung und für Inklusion des BA 25 Laim und Weiterleitung an BA 9 Neuhausen-Nymphenburg)
+- TOP 9.4.: Fußgänger-Unterführung Hogenbergstraße (Weiterleitung an Stadtwerke München)
+- TOP 9.5.: Verkehrssituation Freiburger Platz (Vertagung in UA Mobilität)
+- TOP 9.6.: Gehwegparken Ilmmünsterstraße (Liste mit 73 Unterschriften liegt der BAG-West vor.) (Weiterleitung an Mobilitätsreferat)
+- TOP 9.7.: Dauerparker Willibaldstraße (Weiterleitung an Polizeiinspektion 41 Laim)
+- TOP 9.8.: Parksituation Aindorferstraße (Weiterleitung an Mobilitätsreferat und Polizeiinspektion 41 Laim)
+- TOP 9.9.: Parkraumsituation Laim (Weitergeleitet an Mobilitätsreferat)
+- TOP 9.10.: Anwohnerparken U-Bahnstation Friedenheimer Straße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.11.: Baustelle Fürstenrieder Straße (Verweis an Infobüro Tram-Westtangente)
+- TOP 9.12.: Tempo 30 Senftenauerstraße (Weiterleitung an Mobilitätsreferat)
