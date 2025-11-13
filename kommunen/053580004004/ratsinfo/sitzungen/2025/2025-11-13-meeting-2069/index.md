@@ -1,0 +1,62 @@
+# Gemeinderat (1. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2025-11-13T18:00:00+01:00
+- Ende: 2025-11-14T22:00:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWAcQ8OQF86yZCRcX_0552Y
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2069
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQe8O5zSo9a0dDNILdRM4ul_cJs34Xm2WejaSv3bWg7r/Bekanntmachung_Gemeinderat_13.11.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRcqP-nztegos38lNsQGaRffqrsuI3PQtFKf7ik7x4iP/Oeffentliche_Niederschrift_Gemeinderat_13.11.2025.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Vereidigung und Einführung des Bürgermeisters durch den Altersvorsitzenden - Ohne Abstimmung
+- TOP 2.: Bestellung eines Schriftführers sowie einer stellvertretenden Schriftführerin - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Einführung und Verpflichtung der Ratsmitglieder - Ohne Abstimmung
+- TOP 4.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 5.: Information über die gesetzliche Änderung in § 51 GO NRW (Ordnung in den Sitzungen) - Zur Kenntnis genommen
+- TOP 6.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 6.1: 65. Änderung des Flächennutzungsplans - Hinter dem Schug - und Bebauungsplan 99 F - Hinter dem Schug- a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB b.) Beschluss über die frühzeitige Beteiligung gemäß § 3 Abs. 1 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 1 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: 1) 53. Änderung des Flächennutzungsplans - Am Aldenhovener Gässchen - 2) Bebauungsplan 88 D - Am Aldenhovener Gässchen - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der erneuten Offenlage gem. § 4a Abs. 3 BauGB zu 1. und 2. b.) Feststellungsbeschluss zu 1. c.) Satzungsbeschluss zu 2. - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Bebauungsplan 62 A - Niedermerzer Straße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Ohne Abstimmung
+- TOP 6.3.1: Bebauungsplan 62 A - Niedermerzer Straße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Bildung von Fraktionen - Ohne Abstimmung
+- TOP 8.: Wahl der Ortsbürgermeister/innen - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Wahl der ehrenamtlichen Stellvertreter/innen des Bürgermeisters - wie oben angegeben
+- TOP 10.: Einführung und Verpflichtung der ehrenamtlichen Stellvertreter/innen des Bürgermeisters - Ohne Abstimmung
+- TOP 11.: Neubesetzung von Ausschüssen
+- TOP 11.1: Bildung der Ausschüsse - 20 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 11.2: Festlegung der zahlenmäßigen Stärke der Ausschüsse - Einstimmig, 0 Enthaltung(en)
+- TOP 11.3: Zählverfahren bei der Besetzung der Ausschüsse - 22 Ja-Stimme(n), 4 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 11.4: Wahl der Mitglieder der Ausschüsse und deren Stellvertreter/innen - Einstimmig, 0 Enthaltung(en)
+- TOP 11.5: Verteilung der Ausschussvorsitze - Ohne Abstimmung
+- TOP 12.: Neubesetzung von Gremien
+- TOP 12.1: Partnerschaftskomitee - Einstimmig, 0 Enthaltung(en)
+- TOP 12.2: Behindertenbeirat - Einstimmig, 0 Enthaltung(en)
+- TOP 12.3: WOGA GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 12.4: WOGA BeteiligungsGmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 12.5: EGA Entwicklungsgesellschaft Aldenhoven GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 12.6: Schulzweckverband Aldenhoven-Linnich - wie oben angegeben
+- TOP 12.7: Förderschulzweckverband im Kreis Düren - wie oben angegeben
+- TOP 12.8: EWV Energie- und Wasserversorgung GmbH - wie oben angegeben
+- TOP 12.9: GREEN Gesellschaft für regionale und erneuerbare Energien mbH - Einstimmig, 0 Enthaltung(en)
+- TOP 12.10: Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur (KDVZ) - Einstimmig, 0 Enthaltung(en)
+- TOP 12.11: Verbandswasserwerk Aldenhoven GmbH - wie oben angegeben
+- TOP 12.12: AVV-Beirat des Kreises Düren - Vertagt
+- TOP 12.13: Städte- und Gemeindebundes NRW - Vertagt
+- TOP 12.14: Freizeitzentrum Blausteinsee GmbH - Vertagt
+- TOP 12.15: Wasserverband Eifel-Rur - Vertagt
+- TOP 12.16: Entwicklungsgesellschaft indeland mbH - Vertagt
+- TOP 12.17: indeland Tourismus e. V. - Vertagt
+- TOP 12.18: Berichterstattung aus den Gremien - Vertagt
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 1.1: Erwerb von Grundbesitz im Zwangsversteigerungsverfahren - Vertagt
+- TOP 1.2: Besetzung der Leitungsstelle Fachbereich III - Vertagt
+- TOP 2.: Verschiedenes
