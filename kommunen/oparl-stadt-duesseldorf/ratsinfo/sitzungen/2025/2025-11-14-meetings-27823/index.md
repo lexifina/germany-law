@@ -1,0 +1,70 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-14T14:00:00+01:00
+- Ende: 2025-11-14T17:41:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27823
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27823
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567566.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567566.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00567566.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Wahl der Bezirksbürgermeisterin/des Bezirksbürgermeisters und der Stellvertreterinnen/Stellvertreter
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung 1
+- TOP 4: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift
+- TOP 5.1: Genehmigung der Niederschrift über die gemeinsame öffentliche Sitzung zum Opernhaus der Zukunft vom 30.04.2024 - einstimmig beschlossen
+- TOP 5.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 05.09.2025 - einstimmig beschlossen
+- TOP 6: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 7: Verwaltungsvorlagen und mündliche Berichte
+- TOP 7.1: Zulassung einer Vertretung des Behindertenrats - einstimmig beschlossen
+- TOP 7.2: Zulassung einer Vertretung des Jugendrats - einstimmig beschlossen
+- TOP 7.3: Zulassung einer Vertretung des Seniorenrats - einstimmig beschlossen
+- TOP 7.4: Mündlicher Bericht - Informationen über die Aufwertung und Umgestaltung des Alten Hafens; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/172/2025 - zur Kenntnis genommen
+- TOP 7.5: Grundsatzbeschluss für das Hansahaus, Konrad-Adenauer-Platz 13 / Harkortstraße 2 - 4 als Standort für Gesundheitsamt und Fahrradgarage - Empfehlung einstimmig beschlossen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Plan Nr. 01/031 - Schwannstraße 12 - Aufstellung eines Bebauungsplanes, Durchführung eines Workshopverfahrens - Empfehlung einstimmig beschlossen
+- TOP 7.11: Blaues Band am Rhein - zur Kenntnis genommen
+- TOP 7.12: Einrichtung von Radfahrstreifen auf der Moltkestraße auf dem Abschnitt zwischen Münsterstraße und Tußmannstraße - Empfehlung mehrheitlich beschlossen
+- TOP 7.13: Ulmenstraße / Kalkumer Straße / An der Piwipp – Barrierefreier Ausbau der Haltestelle „An der Piwipp“ und Ausbau der Radverkehrsanlagen - Empfehlung mehrheitlich beschlossen
+- TOP 7.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2025 - einstimmig beschlossen
+- TOP 7.15: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2025 - einstimmig beschlossen
+- TOP 7.16: Grundsatzbeschluss Theaterpädagogische Präventionsprogramme "Mein Körper gehört mir!" und "Die große Nein-Tonne" - mehrheitlich beschlossen
+- TOP 7.17: Sitzungstermine der Bezirksvertretung 1 für 2026 - zur Kenntnis genommen
+- TOP 7.18: Bebauungsplan-Vorentwurf Nr. 01/030 - Halle 29 - Rheinmetall-Allee 3 - Flächennutzungsplanänderung Nr. 219 (Vorentwurf) - Rheinmetall Allee - Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 7.19: Energetische Sanierung von 13 Standorten des Amtes für Gebäudemanagement - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 7.20: Weihnachtsmarkt auf dem Münsterplatz 2025 - abweichend beschlossen
+- TOP 7.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.23: Freigabe Verkaufsoffener Sonntagnachmittage im Jahr 2026 - Empfehlung mehrheitlich beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Spielgerät KGS Essener Straße - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 8.2: Gestaltung Bolker Stern und die weitere Neupflasterung der Altstadt - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 8.3: Verkehrssicherheit Ulmenstraße / Johannstraße / Heinrich-Erhardt Straße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 9: Anträge
+- TOP 9.1: Maßnahmen gegen Rotlicht- und Geschwindigkeitsverstöße von Autofahrenden an der Kreuzung Duisburger Straße/Sternstraße - überfraktioneller Antrag - abweichend beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 10.2: Sichere Querung zum Spielplatz Schwanenmarkt; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/169/2025 - zur Kenntnis genommen
+- TOP 10.3: Parkhaus Hohe Straße/Siegfried-Klein-Straße; Beschluss der Bezirksvertretung 1 vom 26.04.2024; BV1/079/2024 - zur Kenntnis genommen
+- TOP 10.4: Entfernung der Werbetafel/“CityLight“ auf der Schwerinstraße/Ecke Nordstraße; Beschluss der Bezirksvertretung 1 vom 23.05.2025; BV1/104/2025 - zur Kenntnis genommen
+- TOP 10.5: Schrankenzeiten am Mannesmannufer; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/170/2025 - zur Kenntnis genommen
+- TOP 11: Verfügungsmittel der Bezirksvertretung 1
+- TOP 11.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Marketing GmbH für Weihnachtsbeleuchtung in der Altstadt - mehrheitlich beschlossen
+- TOP 11.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Golzheim Fest e.V. für das Golzheim-Fest 2025 - einstimmig abgelehnt
+- TOP 11.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Heimatverein Derendorfer Jonges 1956 e.V. für den St. Martin Umzug in Derendorf 2025 - einstimmig beschlossen
+- TOP 11.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an WANDTARCHIVE für die Ausstellung "Geerdet" - mehrheitlich beschlossen
+- TOP 11.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mascha Corman für das Projekt Endlichkeit und Neubeginn - mehrheitlich beschlossen
+- TOP 11.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an BDKJ Düsseldorf für eine Weihnachtsfeier für alleinstehende Frauen - mehrheitlich beschlossen
+- TOP 11.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Cecilia Castagneto für das Konzert "Frauen im Licht" - abweichend beschlossen
+- TOP 11.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Förderverein Paul-Klee-Grundschule für eine St. Martin Feier - einstimmig beschlossen
