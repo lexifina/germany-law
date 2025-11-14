@@ -1,0 +1,62 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-14T16:00:00+01:00
+- Ende: 2025-11-14T17:55:00+01:00
+- Ort: Bürgerhaus Benrath, Telleringstraße 56
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28163
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28163
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung 1.Nachtrag 14.11.2025, Stand 07.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00568050.pdf
+- Ergebnisprotokoll: BV9 Einladung 1.Nachtrag 14.11.2025, Stand 07.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00568050.pdf
+- Wortprotokoll: BV9 Einladung 1.Nachtrag 14.11.2025, Stand 07.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00568050.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführung - einstimmig beschlossen
+- TOP 2: Festlegung der Anzahl der Stellvertretenden Bezirksbürgermeister/ -innen
+- TOP 3: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters und der Stellvertretung
+- TOP 4: Verpflichtung der Mitglieder der Bezirksvertretung 9
+- TOP 5: Feststellung der Beschlussfähigkeit
+- TOP 6: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 7: Genehmigung der Niederschriften vom 26.09.2025 - einstimmig beschlossen
+- TOP 8: Zulassung von Sachverständigen - zurückgezogen
+- TOP 9: Zulassung von Mitgliedern des Jugendrates - einstimmig beschlossen
+- TOP 10: Zulassung von Mitgliedern des Behindertenrates - einstimmig beschlossen
+- TOP 11: Zulassung von Mitgliedern des Seniorenrates - einstimmig beschlossen
+- TOP 12: Verwaltungsvorlagen
+- TOP 12.1: Am Broichgraben – Sanierung und Umbau zwischen Haus Nr. 68 und Nr. 28 - einstimmig beschlossen
+- TOP 12.2: Benennung der Planstraße 00501 im Neubaugebiet in Benrath in „Fanny-Hensel-Straße“ - einstimmig beschlossen
+- TOP 12.3: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 12.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - mehrheitlich abgelehnt
+- TOP 12.5: Freigabe Verkaufsoffener Sonntagnachmittage im Jahr 2026 - Empfehlung mehrheitlich beschlossen
+- TOP 13: Anfragen aus früheren Sitzungen
+- TOP 13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Aktuelle Anfragen
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anträge
+- TOP 15.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Verfügungsmittel
+- TOP 16.1: Mit Herz und Hand für Wersten - Druckkostenzuschuss für den Stadtteilkompass 2025 - einstimmig beschlossen
+- TOP 16.2: St. Sebastianus-Schützenbruderschaft 1614 D.-Himmelgeist e.V. - Kofferanhänger für Musikanlage 2025 - einstimmig beschlossen
+- TOP 16.3: Collage e.V. - Materialkosten für Weltkindertag 2025 - einstimmig beschlossen
+- TOP 16.4: Heimatgemeinschaft Groß-Benrath e.V. - Nikolausfeier 2025 - einstimmig beschlossen
+- TOP 16.5: St. Sebastianus-Schützenbruderschaft 1614 D.-Himmelgeist e.V. - Weihnachtsbaum 2025 - einstimmig beschlossen
+- TOP 16.6: Schloß Gymnasium Benrath - Workshop „Kurvendiskussion" - Mein Weg aus der Essstörung - einstimmig beschlossen
+- TOP 16.7: Martinsfreunde Hassels - Martinszug 2025 - einstimmig beschlossen
+- TOP 16.8: Allgemeiner Bürgerverein Urdenbach e. V. - Weihnachtsbaum auf dem Josef-Kürten-Platz 2025 - einstimmig beschlossen
+- TOP 16.9: Kirchengemeinde St. Hubertus Itter - Veedelszoch 2026 - einstimmig beschlossen
+- TOP 17: Informationsvorlagen
+- TOP 17.1: Sitzungstermine der Bezirksvertretung 9 im Jahr 2026 - zur Kenntnis genommen
+- TOP 17.2: Einbahnstraßenregelung Kärntner Weg/ Benninghauser Straße - Beschluss der Bezirksvertretung 9 vom 27.09.2024; BV9/151/2024 - zur Kenntnis genommen
+- TOP 17.3: Plangebiet Am Scheitenweg Süd, D-Himmelgeist - Ergänzung eines Fußgängerüberweges zur Schulwegsicherung im Kreuzungsbereich Am Steinebrück / Alte Stadtgrenze / Elmenweide sowie optimierter Ausbau der neuen Geh- und Radwegekreuzung im Plangebiet - zur Kenntnis genommen
+- TOP 17.4: Nachtrag zur Informationsvorlage BV9/180/2025 Weiteres Vorgehen Neugestaltung Brunnenplatz - zur Kenntnis genommen
+- TOP 17.5: Kölner Landstraße - Fahrbahnrandparken Hausnummern 235 - 239 - zur Kenntnis genommen
