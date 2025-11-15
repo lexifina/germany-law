@@ -1,5 +1,0 @@
-# III. Durchführung der Fragestunde
-
-9. Der Präsident ruft die Nummer der Frage und den Namen des Fragestellers auf. Fragen dürfen nur beantwortet werden, wenn der Fragesteller anwesend ist. Ist der Fragesteller nicht anwesend, wird seine Frage nur dann schriftlich beantwortet, wenn er aufgrund der Teilnahme an der Sitzung eines Ausschusses diese nicht mündlich stellen kann und er bis zum Aufruf des Geschäftsbereichs beim Präsidenten um schriftliche Beantwortung gebeten hat.
-10. Ist der zuständige Bundesminister oder sein Vertreter nicht anwesend, so kann der Fragesteller verlangen, daß seine Fragen zu Beginn der Fragestunde aufgerufen werden, in der der Bundesminister oder sein Vertreter anwesend ist; sein Fragerecht darf hierdurch nicht eingeschränkt werden.
-11. Fragen, die in den Fragestunden einer Woche aus Zeitmangel nicht beantwortet werden, beantwortet die Bundesregierung schriftlich, sofern der Fragesteller nicht vor Schluß der letzten Fragestunde einer Woche gegenüber dem Sitzungsvorstand seine Fragen zurückzieht. Die schriftlichen Antworten werden in den Anhang zum Plenarprotokoll aufgenommen.
