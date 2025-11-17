@@ -1,0 +1,73 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780660
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780660
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 20.10.2025
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Abstimmung neues Radverkehrsnetz für München – IR IV (Radverkehrsverbindungen) im BA 10
+- TOP 3.2.2.: Radverkehr im Bereich der Franz-Mader-Schule
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Dachauer Straße 425
+- TOP 3.3.1.2.: Hanauer Straße 64
+- TOP 3.3.1.3.: Georg-Brauchle-Ring
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Feldmochinger Straße - Entfernung missverständlicher Gehwegmarkierungen
+- TOP 4.1.2.: Mehr Sicherheit am südlichen Ende der Feldbahnstraße
+- TOP 4.1.3.: Modernisierung der Sportanlage in der Lauingerstraße
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Untersuchung auf radioaktive Belastung der in Moosach aus verarbeiteten Getreiden in Verkehr gebrachten Nahrungsmittel
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Kindergruppe Gänseblümchen e.V. Gemeinsam kochen, gesund essen - Das Küchenprojekt bei den Moosacher Gänseblümchen vom 01.03.2026 -15.04.2026 6.087,75€; Az. 0262.0-10-0440
+- TOP 6.: Anhörungen
+- TOP 6.1.: Behandlung von BV-Empfehlung zum Eggarten
+- TOP 6.2.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau
+- TOP 6.3.: Kommunalwahl 2026: Einteilung der Stimmbezirke und Wahlräume
+- TOP 6.4.: Vollzug des Bayer. Denkmalschutzgesetzes (BayDSchG); Benehmensverfahren in Rahmen der Erweiterung des Ensembles Olympiapark um die ehem. Pressestadt und das ehem. Jugenddorf
+- TOP 6.5.: Mobilfunk-Suchkreis im Bereich der Postillonstraße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Untragbare Verkehrssituation in der Bunzlauer Straße
+- TOP 7.2.: Stand Installation weiterer E-Ladesäulen in Moosach
+- TOP 7.3.: Müllproblem sowie weitere Missstände am Memminger Platz
+- TOP 7.4.: Spielplatz auf der Schwimmbadwiese und nahe der Hanauer Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV); hier: Genehmigung einer Baumfällung in der Lechelstraße 42
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i. V. m. Abs. 9 StVO: --> Überführung der Allacher Straße über die DB, Bauwerk-Nr. 40/2; Errichtung einer Tonnagebeschränkung und eines Parkverbots ab dem 01.10.2025 --> Donauwörther Straße; Erleichterte streckenbezogene Anordnung von 30 km/h vor Fußgängerüberwegen --> Lauinger Straße; Erleichterte streckenbezogene Anordnung von 30 km/h vor Fußgängerüberwegen --> Dachauer Straße; Errichtung eines Gefahrzeichens --> Lampadiusstraße; 1. Anbringung Zeichen 136-10 StVO, 2. Versetzung Zeichen 314-10 StVO und Zeichen 283-20 StVO
+- TOP 8.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht der Einzelprojekte Bahnübergang Fasanerie, Feldmochinger Straße, Bahnübergang Lerchenauer Straße und Bahnübergang Lerchenstraße 3. Abrechnungsverfahren für Eisenbahnkreuzungsmaßnahmen
+- TOP 8.4.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 8.5.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 8.6.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 8.7.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch -nicht öffentlich-
+- TOP 5.2.: (E) Stadtbezirksbudget Init. Percussion in Klassenzimmer "Percussion in Klassenzimmer" in der GS Jenaerstr. vom 16.06.2026 - 09.07.2026 990,00€; Az. 0262.0-10-0441
+- TOP 5.3.: (E) Stadtbezirksbudget Moosacher-Senioren-Computerclub, AWO-Ortsverein Moosach Hartmannshofen Ersatzcomputer infolge der Aktualisierung auf Windows 11 aus Sicherheitsgründen ab Januar 2026 1.550,00€; Az. 0262.0-10-0442
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis: Antrag für eine Warenauslage
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: Bodenbreitenstraße; Errichtung von Haltverboten
+- TOP 3.3.1.4.: Baubergerstraße 32
+- TOP 3.3.1.5.: Georg-Brauchle-Ring 29
+- TOP 7.5.: Parksituation Borstei
+- TOP 7.6.: Nachbepflanzung Stadtwerkepark
+- TOP 3.3.2.1.: Simrockstraße 40
+- TOP 3.3.2.2.: Saarlouiser Straße 4
+- TOP 3.3.2.3.: Wildermuthstraße 49-61
+- TOP 3.3.1.6.: Haldenbergerstraße 27
+- TOP 2.1.: Antrag für Maßnahmen zur Reduzierung der Verkehrslast in der Trinkl-Siedlung
+- TOP 6.7.: Errichtung eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen an der Hanauer Straße
