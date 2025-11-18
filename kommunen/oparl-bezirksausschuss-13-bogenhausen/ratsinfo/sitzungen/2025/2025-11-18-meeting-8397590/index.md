@@ -1,0 +1,187 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2025-11-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8397590
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8397590
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 14.10.2025
+- TOP 1.3.2.: Vorstellung des Stadt und Land München Ost e.V. (OstAllianz) im BA 13
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Änderungsbebauungsplan Nr. 72d/24 zur Erweiterung von Wohnraum an der Siedlerstraße 26 und 28 in der Gemeinde Unterföhring; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.2.: Vorhabenbezogener Bebauungsplan Nr. 72c/23 „Neubruchstraße“ der Gemeinde Unterföhring; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.3.: Aufstellung des Bebauungsplans Nr. 165 „Frieden-, Arbeo- und Tassilostraße“ der Gemeinde Aschheim; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.4.: Elbinger Str. 2 - Neubau eines Doppelhauses mit Garagen
+- TOP 2.2.1.5.: Widderstr. 5 - Neubau eines Mehrfamilienhauses mit Tiefgarage- VORBESCHEID
+- TOP 2.2.1.6.: Jankstr. 8 - Neubau von zwei Doppelhäusern nach Rückbau eines Bestandsgebäudes - VORBESCHEID
+- TOP 2.2.1.7.: Delpstr. 3 - Neubau eines Wohnhauses mit Tiefgarage und Außenpool
+- TOP 2.2.1.8.: Innstr. 11 - Instandsetzung des denkmalgeschützten Wohnhauses und der Remise mit Neuerrichtung des Dachstuhls sowie Neubau eines Verbindungsbaus und einer Tiefgarage sowie eines Nebengebäudes und Außenpools
+- TOP 2.2.1.9.: Muspillistr. 27 - Jugendfreizeittreff und priv. Kindergarten Dachstuhlsanierung - Rückmeldung des Kommunalreferats zur BA-Stellungnahme aus der Sitzung 10/25 -
+- TOP 2.2.1.10.: Status leer stehender Bau Freischützstr. / Ecke Johanneskirchner Str.; Anliegen aus der Bürgerschaft
+- TOP 2.2.1.11.: Nachfragen zu zwei Baumaßnahmen; Anliegen aus der Bürgerschaft
+- TOP 2.2.1.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.13.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Elbinger Str. 2 - Neubau eines Doppelhauses mit Garagen
+- TOP 2.2.2.2.: Widderstr. 5 - Neubau eines Mehrfamilienhauses mit Tiefgarage- VORBESCHEID
+- TOP 2.2.2.3.: Jankstr. 8 - Neubau von zwei Doppelhäusern nach Rückbau eines Bestandsgebäudes - VORBESCHEID
+- TOP 2.2.2.4.: Delpstr. 3 - Neubau eines Wohnhauses mit Tiefgarage und Außenpool
+- TOP 2.2.2.5.: Innstr. 11 - Instandsetzung des denkmalgeschützten Wohnhauses und der Remise mit Neuerrichtung des Dachstuhls sowie Neubau eines Verbindungsbaus und einer Tiefgarage sowie eines Nebengebäudes und Außenpools
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Vorstellung der Machbarkeitsstudie Berg am Laim / Daglfing durch die SWM
+- TOP 2.3.2.: Röntgenstraße: Einrichtung absolutes Haltverbot; Anhörung des Mobilitätsreferats
+- TOP 2.3.3.: Ortskern Johanneskirchen - Prüfung zur Einrichtung eines Dialog-Displays und Abrundung der Bordsteinkanten
+- TOP 2.3.4.: Durchführung eines Ortstermines am Salzsenderweg; Nachfrage der CSU-Fraktion
+- TOP 2.3.5.: Wesendonkstraße – Querung Cosimastraße in Ruth-Drexel-Straße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.6.: Radschutzstreifen auf der Johanneskirchner Straße zwischen Cosimastraße und Effnerstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.7.: Grüne Welle für den Radverkehr auf der Effnerstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.8.: Freigabe des Radwegs parallel zur Bülowstr. für beide Richtungen zwischen Effnerplatz und Niedermayerst.; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: Errichtung von Fahrradständern an der Tram- und Busstation Regina-Uhlmann-Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: Verkehrsberuhigende Maßnahmen im Wohngebiet Lohengrinstraße und Wesendonkstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.11.: Entfernung der Baubegrenzungsschilder in der Johanneskirchener Str.; Anliegen aus der Bürgerschaft
+- TOP 2.3.12.: Bessere Beschilderung und Anbringung eines Zebrastreifens in der Glücksburger Str.; Anliegen aus der Bürgerschaft
+- TOP 2.3.13.: - Verkehrsaufkommen in der Savitstr. - Straßenbahnanbindung Johanneskirchen S-Bahn; Anliegen aus der Bürgerschaft
+- TOP 2.3.14.: Anwohnerparkausweise im Bereich der Franz-Wolter-Straße, Bernheimerstraße und Wilhelm-Weigand- Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.15.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.16.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Förderverein der Fritz-Lutz-Grundschule e. V. Schulprojektwoche zum Thema Zirkus vom 07. - 10.07.2026 3.700,00 €; Az. 0262.0-13-0516
+- TOP 2.4.2.: (E) Stadtbezirksbudget Kulturlust e. V. // Ciné Vélo Cité CINÉ VÉLO CITÉ - Fahrradkino & Filmworkshop im Münchner Nordosten vom 01.09. - 01.10.2025 2.825,00 €; Az. 0262.0-13-0508
+- TOP 2.4.3.: Begründung für den Ablehnungsbescheid von Kulturlust e. V. // Cine Velo Cite, 0262.0-13-0508
+- TOP 2.4.4.: (E) Stadtbezirksbudget Faschingsgesellschaft Feringa München-Johanneskirchen e. V. Faschingszug (Gaudiwurm) am 15.02.2026 5.045,00 €; Az. 0262.0-13-0518
+- TOP 2.4.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.6.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau - Beschlussentwurf; Anhörung des Referats für Bildung und Sport
+- TOP 2.5.2.: Lärm an der Schule/Kindergarten in der Oberförhinger Straße; Anliegen aus der Bürgerschaft
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Suchkreismeldung für den Bereich zwischen Böhmerwaldplatz, Ismaninger Straße und Denninger Straße; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.6.1.2.: Rosenkavalierplatz braucht Bäume – fünf gefällt, keiner ersetzt!; Antrag der CSU-Fraktion
+- TOP 2.6.1.3.: Unterstützung und Weiterleitung des Projekts „Planetenweg im Prinz-Eugen-Park“ an das Baureferat Gartenbau; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.4.: Aufstellung von zwei Bänken zwischen Silvanastr. und Bushaltestelle Freischützstraße/Ecke Johanneskirchnerstr.; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.5.: Aufstellung einer öffentlichen Toilette für den Bereich der Ableitung des Bachlaufs Hüllgraben nahe der Schichtlstraße; Antrag der CSU-Fraktion
+- TOP 2.6.1.6.: Aufstellung von Papierkörben und Gehwegreinigung; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.7.: Lärmbelästigung und Böllerverbot im Prinz-Eugen-Park; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.8.: Platzierung des Altglascontainers in der Ruth-Drexel-Straße; Anliegen aus der Bürgerschaft
+- TOP 2.6.1.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.10.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Fritz-Meyer-Weg 23
+- TOP 2.6.2.2.: Alsenweg 4
+- TOP 2.6.2.3.: Krenklstr. 31
+- TOP 2.6.2.4.: Mauerkircherstr. 66
+- TOP 2.6.2.5.: Grellstr. 48
+- TOP 2.6.2.6.: Lusenstr. 5 (06.11.2025: lt. LBK Gefahrenbaum, bereits gefällt)
+- TOP 2.6.2.7.: Savitsstr. 23a
+- TOP 2.6.2.8.: Newtonstr. 5
+- TOP 2.6.2.9.: Hornsteinstr. 16
+- TOP 2.6.2.10.: Von-der-Vring-Str. 15
+- TOP 2.6.2.11.: Nettelbeckstr. 26
+- TOP 2.6.2.12.: Bülowstr. 22
+- TOP 2.6.2.13.: Ismaninger Str. 112
+- TOP 2.6.2.14.: Zamdorfer Str. 26
+- TOP 2.6.2.15.: Dirschauer Str. 24 - 24c
+- TOP 2.6.2.16.: Elektrastr. 13
+- TOP 2.6.2.17.: Steinhauser Str. 34 - 54
+- TOP 2.6.2.18.: Pernerkreppe 28 - 30
+- TOP 2.6.2.19.: Johanneskirchner Str. 150
+- TOP 2.6.2.20.: Donaustr. 40
+- TOP 2.6.2.21.: Flensburger Str. 49
+- TOP 2.6.2.22.: Graudenzer Str. 15
+- TOP 2.6.2.23.: Böhmerwaldpl. 2
+- TOP 2.6.2.24.: Daglfinger Str. 8a
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Zusätzliche Einkaufsmöglichkeit in Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.7.2.: Erhalt der Postamt und Postbank in der Meistersingerstr.; Anliegen aus der Bürgerschaft
+- TOP 2.7.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.4.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Zukunft des Grundstücks der Nazareth-Kirche – Schutz von Baum- und Tierbestand, Informationsklärung und Einbindung der Bürger*innen
+- TOP 6.2.: Verkehrssicherheit für die Kita Hochstiftsweg
+- TOP 6.3.: Einrichtung eines Zebrastreifens bei der Müllinsel an der Kreuzung Mühlbauerstraße und Röntgenstraße; Anliegen aus der Bürgerschaft - Rückmeldung des Mobilitätsreferats -
+- TOP 6.4.: Schnelle Wiederinstallation der Echtzeit-Anzeige in der Bushaltestelle Arabellastraße Nord
+- TOP 6.5.: Überarbeitung der Planung von Parklizenzgebieten in Bogenhausen
+- TOP 6.6.: Fahrrad oder Lastenradabstellplätze in der Meistersingerstr. 84; Anliegen aus der Bürgerschaft - Rückmeldung des Baureferats -
+- TOP 6.7.: Platzierung der Fahrpläne bei neuen MVG-Wartehäuschen
+- TOP 6.8.: Gefahrzeichen in der Wahnfriedallee/westlich Effnerstraße in der Ausfahrt des Ampelbereichs - Rückmeldung des MOR zum BA-Beschluss aus 09/25 -
+- TOP 6.9.: Errichtung eines fehlenden Gehweges in der Burgauerstraße
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingereichte Verwendungsnachweise
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht der Einzelprojekte Bahnübergang Fasanerie, Feldmochinger Straße, Bahnübergang Lerchenauer Straße und Bahnübergang Lerchenstraße 3. Abrechnungsverfahren für Eisenbahnkreuzungsmaßnahmen
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Cosimastr.
+- TOP 7.3.2.: Schichtlstraße – Wendehammer Ecke Kirchheimer Straße (Bereich Hüllgraben-Brücke): Anordnung Sperrpfosten mit Schließung
+- TOP 7.3.3.: Effnerstr. 107 (Seitenstreifen, nördlich Einmündung Wahnfriedallee): Anordnung absolutes Haltverbot (Z. 283 StVO) - Ausweichstelle
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unterrichtung über eine unveränderte Gaststättenfortführung: - Rennbahnstr. 5
+- TOP 7.5.2.: Inforad Münchner Nordosten „ZINK extended“ am 14.11.2025, Grünfläche bei Spielplatz Küstnerstr. (Flurstück 220/16); Anhörung des Kreisverwaltungsreferats - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.5.3.: Martinsumzug am 14.11.2025 Bürgermeisterpark, Ismaninger Straße 95; Anhörung des Kreisverwaltungsreferats - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Oberföhringer Str. 105
+- TOP 7.7.2.: Oberföhringer Str. 85
+- TOP 7.7.3.: Ostpreußenstr. 74
+- TOP 7.7.4.: Änderung der Spielplatzsatzung - Erneute Befassung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung - SpielplatzS)
+- TOP 7.7.5.: Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 7.7.6.: Satzung der Landeshauptstadt München zur Einführung einer Pflicht zum Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge (Stellplatzsatzung - StPlS) - Erneute Befassung
+- TOP 7.7.7.: Hornsteinstr. 14
+- TOP 7.7.8.: Zamdorfer Str. 40
+- TOP 7.7.9.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 7.7.10.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 7.7.11.: Soldauer Str. 5
+- TOP 7.7.12.: Effnerstr. 126
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Protokoll Runder Tisch zur geplanten Sprengeländerung von der GS Fritz-Lutz-Str. zur GS Ostpreußenstr., zum Schuljahr 2026/27
+- TOP 7.8.2.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Cosimastraße 166 im 13. Stadtbezirk Bogenhausen Leistung eines Baukostenzuschusses
+- TOP 7.8.3.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Rauchstraße 5 im 13. Stadtbezirk Bogenhausen Leistung eines Baukostenzuschusses
+- TOP 7.8.4.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 7.9: Sozialreferat
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.6.2.25.: Leisnerweg 4
+- TOP 2.6.2.26.: Flemingstr. 111
+- TOP 2.2.1.14.: Vollmannstr. 34 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.2.6.: Vollmannstr. 34 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.3.17.: Verkehrsführung in der Vollmannstr., Verbreiterung des Fuß- und Radweges sowie der Fahrbahn; Anliegen aus der Bürgerschaft
+- TOP 2.6.2.27.: LSG Hirschau und Obere Isarau
+- TOP 7.7.13.: Lusenstr. 5
+- TOP 2.4.7.: (E) Stadtbezirksbudget die Urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3.250,00€ Az.:0262.0-13-0521
+- TOP 2.4.8.: (E) Stadtbezirksbudget Elternbeirat der Regina-Ullman-Grundschule Intensiver 1. Hilfe-Kurs vom 26. - 28.01.2026 2.800,00 €; Az. 0262.0-13-0519
+- TOP 2.4.9.: (E) Stadtbezirksbudget Init. "DRECK" - Theaterproduktion DRECK - Theaterproduktion nach dem Stück von Robert Schneider vom 01.12.2025 - Juli 2026 14.481,00 €; Az. 0262.0-13-0522
+- TOP 2.6.1.4.1: Beschaffung von Sitzbänken: Finanziert durch die Bestellung einer städtischen Leistung durch den BA Bogenhausen; Antrag der CSU-Fraktion
