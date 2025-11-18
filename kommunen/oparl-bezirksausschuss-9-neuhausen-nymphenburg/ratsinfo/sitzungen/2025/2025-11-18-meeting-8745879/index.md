@@ -1,0 +1,188 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2025-11-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8745879
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8745879
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung über die form- und fristgerechte Ladung, Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokollentwürfe (öffentliche + nicht-öffentliche Sitzung) der Sitzung vom 21.10.2025
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Durchgangsverkehr auf der Dom-Pedro-Straße unattraktiv machen
+- TOP 3.1.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 --> Genehmigung einer Freischankfläche (Frundsbergstraße)
+- TOP 3.2: Anliegen von Bürger*innen, Anträge
+- TOP 3.2.1.: Grüne-Fraktion: Antrag - Verbesserung der Radwegsicherheit am Birketweg
+- TOP 3.2.2.: CSU-Fraktion: Antrag - Reduzierung des Schleichverkehrs
+- TOP 3.2.3.: CSU-Fraktion: Antrag - Parkverbot vor der Brücke in der Zamboninistraße
+- TOP 3.2.4.: SPD-Fraktion: Antrag - Ausschilderungen an U-Bahnhöfen präzisieren
+- TOP 3.2.5.: SPD-Fraktion: Antrag - Tageskarte plus - Mehr Mobilität in einem Ticket
+- TOP 3.2.6.: Grüne-Fraktion: Antrag - Die Miteinander-Haltelinie für den Radverkehr
+- TOP 3.2.7.: Grüne-Fraktion: Antrag - Freie Wahl für den Radverkehr, Teil 2
+- TOP 3.2.8.: Bikeletts Volkartstraße 17
+- TOP 3.2.9.: Antrag / Anregung zur Verkehrsberuhigung – Einbahnstraßenregelung in der Blutenburgstraße
+- TOP 3.2.10.: Anliegen Dall&#039;Armi-Strasse Ecke Nederlingerstrasse
+- TOP 3.2.11.: Blutenburgstraße 61 / 98-100 Parkbereiche für Krafträder
+- TOP 3.2.12.: Einrichtung einer Schulstraße für die Margarete-Danzi-Straße
+- TOP 3.2.13.: Radschnellweg Donnnersbergerbrücke - Laim - Menagerieweg - Obermenzing: Streuen mit Feuchtsalz bzw. Sole
+- TOP 3.2.14.: Antrag Einbahnstraße Nederlinger Straße zwischen Klugstraße und Nördlicher Auffahrtsallee in Richtung Westfriedhof
+- TOP 3.2.15.: Antrag Linksabbiegen von der Menzinger Straße in die Dall&#039;Armi-Straße
+- TOP 3.2.16.: Gehwegparken in Gern und im übrigen Stadtbezirk
+- TOP 3.2.17.: Baustellensituation Parkplatzmangel Rotkreuzplatz Süd
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: BA-Anhörung: Konzept für geteilte Mobilität im Stadtbezirk 9 - Stellungnahmeersuchen bis zum 28.11.2025 -
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Verbesserung Radwegsicherheit Landshuter Allee / Blutenburgstraße - Bezug: TOP 3.2.8 aus 07/2021 -
+- TOP 3.4.2.: Antrag - Automatisierte Kleinbusse in Nymphenburg und Gern - Bezug: TOP 3.2.2 aus 03/2025 -
+- TOP 3.4.3.: Bürgeranliegen an den Bezirksausschuss 9 Neuhausen-Nymphenburg zum Thema "Anliegen zur temporären Ergänzung von Parkflächen während Baumaßnahmen im Gebiet Rotkreuzplatz-Süd" - Antwortschreiben des KVR - Bezug: TOP 3.2.30 aus 09/2025 -
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: --> Arbeiten im Straßenraum: - Wotanstraße 103 - Strom- und Wasserüberspannung mit 2 Masten auf öffentlichem Grund TramWestTangente vom 07.10.2025 bis 31.12.2025 - Laimer Unterführung (Oströhre), Wotanstraße; Vollsperre MIV (21.00 bis 05.00 Uhr) für Arbeiten an der Beleuchtung vom 22.10.2025, 21:00 Uhr bis 23.10.2025, 05:00 Uhr - Kratzerstr. 19, Gudrunstr. 3, Winthirstr. 35, Renatastr. 72 (Schachtsanierungen) vom 20.10.2025 bis 07.11.2025 (3 Arbeitstage pro Schacht) - Instandsetzung BW 40-55; Landshuter Allee und Dachauer Straße Herstellung und Absicherung der Mittelteilerüberfahrten Bauphasen 20 und 30, Landshuter Allee vom 15.10.2025 bis 30.06.2026 - Lazarettstr. 62 (Fernwärme Hausanschluss Oberflächenwiederherstellung) vom 27.10.2025 bis 28.11.2025 (12 Arbeitstage) - Wotanstraße zwischen Herthastraße und Gaßnerstraße Bauphase 2.4 - HW5, TramWestTangente, 2. Verlängerung vom 23.10.2025 bis 21.11.2025 - Gümbelstr. (SWM 110 kV) – Erweiterung: BE-Flächen Nymphenburger Straße vom 31.10.2025 bis 30.01.2026 - Gümbelstr. (mit Blutenburgstr. 57-59) Phase 5 Verlängerung (Verlegung Stahlmantelrohr für 110 kV) vom 31.10.2025 bis 30.01.2026 - Tizianstr. 54, Ferdinand-Maria-Str. 30, Prinzenstr. 49+65+69 (Schachtsanierungen) vom 03.11.2025 bis 05.12.2025 (3 Arbeitstage pro Schacht)
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 Satz 2 Nr. 6 StVO: Luftreinhaltung; Reduzierung der Geschwindigkeit auf Tempo 30 in der Landshuter Allee zwischen Höhe Abfahrtsrampe zur Arnulfstraße bis auf Höhe Toni-Merkens-Weg
+- TOP 3.5.3.: Vollzug der Straßenverkehrsordnung (StVO) sowie des Bayerischen Straßen- und Wegegesetzes (BayStrWG): Betreiben von Hochbeeten auf öffentlichem Grund
+- TOP 3.5.4.: Information zu Teilinbetriebnahmen der Tram-Westtangente
+- TOP 3.5.5.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: - Dachauer Straße; Geschwindigkeitsreduzierung auf 50 km/h stadteinwärts ca. 50m nördlich im Vorlauf der LSA 0272 (Dachauer Str. / Landshuter Allee) - Blutenburgstr. 70; Errichtung einer Ladezone
+- TOP 3.5.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Guntherstraße zwischen Kriemhildenstraße und Königbauerstraße Königbauerstraße zwischen Hirschgartenallee und Guntherstraße Einrichtung einer Fahrradstraße
+- TOP 3.5.7.: Verkehrsrechtliche Anordnung gem. § 45 Abs. 1 i.V.m. Abs. 9 StVO: - Rotkreuzplatz Süd - Anpassung der Beschilderungen der Lieferzonen: - Donnersbergerstraße 42 - Donnersbergerstraße 46 - Schulstraße vor Hausnummer 24 - Schulstraße vor Hausnummer 29 - Schluderstraße vor Hausnummer 2
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: Aufruf zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Anliegen von Bürger*innen, Anträge
+- TOP 4.2.1.: CSU-Fraktion: Antrag - Geotechnische Stabilität und potenzielle Hohlraumbildungen im Untergrund Prüf- und Vorsorgemaßnahmen im Umfeld der U-Bahnstationen Maillingerstraße, Rotkreuzplatz, Gern und Westfriedhof
+- TOP 4.2.2.: FDP-Fraktion: Antrag - Keine weiteren Verzögerungen beim Satzungsbeschluss für das Paketposthallenareal
+- TOP 4.2.3.: Anfrage zum geplanten Bauvorhaben in der Blutenburgstraße 49a
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.: Landshuter Allee 8 Umbau einer Bürofläche mit Brandschutzsanierung ( M.B 0.1 + 0.3)
+- TOP 4.3.3.: Nymphenburger Straße 172 Nutzungsänderung und Umbau von Laden in Bäckerei mit Cafebereich
+- TOP 4.3.4.: Scherrstraße 6 Neubau zweier Mehrfamilienhäuser mit Tiefgarage und Autoaufzug- ÄNDERUNGSANTRAG zu 1.23-2024-22544-22 jetz: Änderung Tiefgarage - Entfall eines 4-fach-Parkers, TG-Erweiterung nach Norden, TG-Lüftung
+- TOP 4.3.5.: Palestrinastraße 3 Neubau eines Mehrfamilienhauses mit 5 WE und Mittelgarage
+- TOP 4.3.6.: Romanstraße 39 Abbruch des bestehenden Gebäudes und Errichtung einer Wohnanlage mit Tiefgarage- VORBESCHEID
+- TOP 4.3.7.: Volpinistraße 47 Sanierung, Umbau eines Reihenendhauses und Neubau eines Anbaus
+- TOP 4.3.8.: Arnulfstraße Errichtung einer digitalen Werbeanlage für Fremdwerbung mit Bedarfsinformationen der Stadtinformation, gemäß des Werbenutzungsvertrages, als Ersatz für die bestehende Säule. Das bestehende Fundament wird übernommen
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: BA 9: Antrag - Sachstand zum Naturkundemuseum Bayern - Bezug: TOP 4.2.1 aus 09/2025 -
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Bedarfs- und Projektgenehmigung Kanalsanierungsmaßnahme Neuhausen Nymphenburg
+- TOP 4.5.2.: Margarethe-Danzi-Straße 25 Antrag auf Nutzungsänderung: Schank- und Speisewirtschaft mit regelmäßiger Musikdarbietung - Baugenehmigung -
+- TOP 4.5.3.: Prinzenstraße 43 Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid -
+- TOP 4.5.4.: (U) Bebauungsplan mit Grünordnung Nr. 2147 Arnulfstraße (südlich), Birketweg (nördlich und östlich), Wilhelm-Hale-Straße (östlich) - PaketPost-Areal - (Teilverdrängung des Bebauungsplanes mit Grünordnung Nr. 1926a) A.) Satzungsbeschluss B.) Behandlung der Empfehlungen und Anträge Stadtbezirk 09 - Neuhausen-Nymphenburg
+- TOP 4.5.5.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/65 Arnulfstraße (südlich), Birketweg (nördlich und östlich), Wilhelm-Hale-Straße (östlich) – PaketPost-Areal - Endgültiger Beschluss Stadtbezirk 9 – Neuhausen – Nymphenburg
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 4.6.2.: Aufruf zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 4.6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Anliegen von Bürger*innen, Anträge
+- TOP 5.2.1.: Anfrage wegen Lärmbelästigung Pineapple Park - Bezug: TOP 5.2.9 aus 09/2025 - WV in 11/2025 -
+- TOP 5.2.2.: Fehlende Bäume oder Grünstreifen mit Sträucher im vorderen Bereich der Ginhardtstraße rechtsseitig
+- TOP 5.2.3.: Baum auf der Verkehrsinsel Mitte Landshuter Allee (Kreuzung Nymphenburger Str.) nachpflanzen
+- TOP 5.2.4.: ÖDP-Fraktion: Antrag - Betreuter Taubenschlag an einem geeigneten Ort in der Nähe des Rotkreuzplatzes - Bezug: TOP 5.2.3 aus 09/2025 - WV in 10/2025 - WV in 11/2025
+- TOP 5.2.5.: CSU-Fraktion: Antrag - Mülleimer an der Sedlmayrstraße / Hirschbergstraße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsantrag: Leonrodstraße 57
+- TOP 5.3.2.: Anhörung zu Baumfällungsantrag: Taschnerstraße 14
+- TOP 5.3.3.: Anhörung zu Baumfällungsantrag: Leonrodstraße 65
+- TOP 5.3.4.: Anhörung zu Baumfällungsantrag: Renatastraße 63
+- TOP 5.3.5.: Anhörung zu Baumfällungsantrag: Ginhardtstraße 3
+- TOP 5.3.6.: Anhörung zu Baumfällungsantrag: Hedwigstraße 17
+- TOP 5.3.7.: Anhörung zu Baumfällungsantrag: Landshuter Allee 112
+- TOP 5.3.8.: Anhörung zu Baumfällungsantrag: Malsenstraße 3
+- TOP 5.3.9.: Anhörung zu Baumfällungsantrag: Groffstraße 2
+- TOP 5.3.10.: Anhörung zu Baumfällungsantrag: Fuetererstraße 4
+- TOP 5.3.11.: BA-Anhörung: Suche eines Mobilfunkstandortes im 9. Stadtbezirk
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Grünen-Fraktion: Antrag - Saubere öffentliche Flächen: Zigarettenkippen reduzieren - Bezug: TOP 5.4.1 aus 07/2025 - WV in 11/2025 -
+- TOP 5.4.2.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Lärmbelästigung durch Laubbläser und ähnliche Geräte" - Antwortschreiben des RKU - Bezug: TOP 5.2.13 aus 09/2025 -
+- TOP 5.4.3.: Stellungnahme zu den geplanten Baumpflanzungen in der Nederlinger Straße - Antwortschreiben des BAU
+- TOP 5.4.4.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Kastanienbäume" - Antwortschreiben des BAU - Bezug: TOP 5.2.14 aus 09/2025 -
+- TOP 5.4.5.: Antrag - Bänke mit Solarpanels und Ladeanschlüssen - Bezug: TOP 5.2.1 aus 09/2025 -
+- TOP 5.4.6.: Anfrage Rainer-Werner-Fassbinder-Platz - Antwortschreiben des BAU - Bezug: TOP 5.2.8 aus 09/2025 -
+- TOP 5.4.7.: Pflanzen von Bäumen in der Stadt - Antwortschreiben des BAU - Bezug: TOP 5.2.7 aus 09/2025
+- TOP 5.4.8.: Antrag auf Neugestaltung des Rainer-Werner-Fassbinder-Platzes - Antwortschreiben des BAU - Bezug: TOP 5.2.3 aus 05/2024 -
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Meldung eines Mobilfunkstandortes im 9. Stadtbezirk z.K. an den BA 9
+- TOP 5.5.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV --> Mülleinsammlung durch die Partei 16-029
+- TOP 5.5.3.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 5.5.4.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 5.6.2.: Aufruf zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Anliegen von Bürger*innen, Anträge
+- TOP 6.2.1.: Kontinuierliche nächtliche Ruhestörung in der Margarethe-Danzi-Straße und Rosa-Bavarese-Straße - Bezug: TOP 6.2.2 aus 09/2025 - WV in 10/2025 – WV in 11/2025 -
+- TOP 6.2.2.: Lärmbelästigung in der Helene-Weber-Allee
+- TOP 6.2.3.: CSU-Fraktion: Antrag - Verbesserung der nächtlichen Sicherheit im ÖPNV - insbesondere für junge Frauen und Jugendliche
+- TOP 6.2.4.: Barrierefreie Wahllokale in München
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Berichte der Beauftragten
+- TOP 6.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 6.6.3.: Aufruf zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 6.6.4.: Offene Altenhilfe in Neuhausen/ Nymphenburg
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget MORGEN e.V.; Netzwerk Münchner Migrant:innenorganisationen 12. Mehrsprachiges Märchenfest von MORGEN e.V. am 14.12.2025 2.300,00€; Az. 0262.0-9-0902
+- TOP 7.1.2.: (E) Stadtbezirksbudget Initiative Medea „MEDEA – EIN FEATURE Kunst - Journalismus -Fotografie vom 29.01.-01.02.2026“ 9.760,00 € / AZ: 0262.0-9-0901
+- TOP 7.1.3.: (E) Stadtbezirksbudget Empfgangshalle GbR „Mobile Ausstellung "Jahresgaben 2025" vom 04.12.2025-09.01.2026 “ 1.916,00 € / AZ: 0262.0-9-0906
+- TOP 7.1.4.: (E) Stadtbezirksbudget Schlitterclub Nymphenburg 25 Jahre Schlitterclub vom 28.11. -21.12.2025 3.774,00€; Az. 0262.0-9-0900
+- TOP 7.1.5.: (E) Stadtbezirksbudget KUD SOKO München e.V „Aufbauseminare traditioneller serbischer Tanz vom 26.09.-30.11.2025“ 3.024,38 € / AZ: 0262.0-9-0883
+- TOP 7.2: Anliegen von Bürger*innen, Anträge
+- TOP 7.2.1.: Radikale Mieterhöhungen im Kerngebiet des Kreativquartiers
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Berichte Veranstaltungen
+- TOP 7.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 7.6.3.: Aufruf zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 7.6.4.: Besuch Leonrodhaus, zu aktueller Lage Mieterhöhungen Leonrodhaus, Kreativlabor
+- TOP 7.6.5.: Führung für den BA über das Winter-Tollwood: Terminabstimmung, 08.12.2025 um 13:00 Uhr oder 09.12.2025 um 17:00 Uhr.
+- TOP 7.6.6.: Pressespiegel zu den Stadtteilkulturwochen 2025
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Anliegen von Bürger*innen, Anträge
+- TOP 8.2.1.: FDP-Fraktion: Antrag - Münchens Olympia Bewerbung – Neuhausen-Nymphenburg freut sich auf die Spiele
+- TOP 8.2.2.: SPD-Fraktion: Antrag - Basketballkörbe für Kinder und Jugendliche
+- TOP 8.2.3.: Pumptrackanlage in Neuhausen-Nymphenburg
+- TOP 8.2.4.: Streichung der Stellen der beiden Lehrkräfte für die Schule im Waisenhaus?!
+- TOP 8.2.5.: Unterstützung für das Projekt „Mädchen an den Ball“ – unerwartete Kündigung der Trainingszeiten durch FT Gern
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Entwurf der Beschlussvorlage Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau - Stellungnahmeersuchen des RBS -
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Bürgeranliegen an den Bezirksausschuss 9 Neuhausen-Nymphenburg zum Thema "Vorstellung einer Vision zur Revitalisierung einer Sportfläche nahe der Donnersbergerbrücke" - Antwortschreiben des RBS - Bezug: TOP 8.2.4 aus 09/2025 -
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 8.6.2.: Aufruf zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 8.6.3.: Demokratiemobil in Neuhausen-Nymphenburg (ca. 1.200 Euro) – Standort, Datum, Verantwort-lichkeit
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Anliegen von Bürger*innen, Anträge
+- TOP 9.2.1.: BA9: Antrag - Ein Community-Kalender für den BA9 mit LAUTI
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Anhörung Kommunalwahl 2026 - Einteilung der Stimmbezirke und Wahlräume im Stadtbezirk 9 - Stellungnahmeersuchen des KVR mit Frist bis zum 24.11.2025 -
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Anhörung Öffentlich-Rechtliche Sondernutzungserlaubnis nach Art. 18 BayStrWG für Märkte sowie Festsetzung einer Veranstaltung gem. § 69 GewO Hier: Weihnachtsmarkt Rotkreuzplatz Nordseite- Münchner Weißbiergarten Betriebs GmbH. vom 24.11.2025 - 23.12.2025 (Aufbau ab 13.11.2025, Abbau bis 24.12.2025) - Stellungnahmeersuchen des KVR mit Frist bis zum 07.11.2025; Vorabstellungnahme der BA-Vorsitzenden -
+- TOP 9.6: Verschiedenes
+- TOP 9.6.1.: Rückmeldungen zur Neuaufstellung von BA-Schaukästen -Bezug: TOP 9.2.1.1 - 9.2.1.8 aus 06/2025
+- TOP 3.2.18.: Fernwärme Donnersbergerstraße
+- TOP 6.2.5.: Parkplatz Hirschgarten / Jugendcontainer
+- TOP 3.6.3.: BA 9: Eilantrag - Tram-Halt Donnersbergerbrücke: Verkehrssicherheit nachhaltig sichern
