@@ -1,0 +1,132 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2025-11-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8586377
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8586377
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 1.6: Neubesetzung aller Unterausschüsse wegen Fraktionsauflösung der FW/ÖDP und damit Änderung der Sitzverteilung; Entsendung und Abberufung durch die Fraktionen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Verkehrssituation von Supermarkt in Lochhausen
+- TOP 2.1.2.: Geplante Maßnahmen Verkehrsberuhigung Kronwinkler Straße
+- TOP 2.1.3.: Fehlende Verkehrsschilder Ellis-Kaut-Straße
+- TOP 2.1.4.: Zwei reservierte Parkplätze vor Kinderhaus Aubinger Allee
+- TOP 2.1.5.: Digitale Fahrzeitenanzeige für Bus 162 in Lochhausen
+- TOP 2.1.6.: Gefährdung durch Falschparker in der Fritz-Bauer-Straße 31-33
+- TOP 2.1.7.: Freilandstraße / Am Aubinger Feld, Tägliche Missachtung StVO Vorschriftenzeichen 240
+- TOP 2.1.8.: Fußgängerampel Mahatma-Ghandi-Platz
+- TOP 2.1.9.: Baustelle Denkenhofstraße / Ecke Am Loferfeld - blockierte Parkplätze und abgelaufene Haltverbotsschilder
+- TOP 2.1.10.: Änderungen Verkehrsregelungen in der Pretzfelder Straße
+- TOP 2.1.11.: Sachstand zur Eisenbahnbrücke Bodenseestraße
+- TOP 2.1.12.: Sachstand zur Eisenbahnbrücke Brunhamstraße
+- TOP 2.1.13.: Parksituation Roman-Herzog-Straße
+- TOP 2.1.14.: Schulwegsicherheit der Grundschule Freiham und des Sonderpädagogischen Förderzentrums
+- TOP 2.1.15.: Parkplatzsituation Ranertstraße
+- TOP 2.1.16.: Verbindungsweg von der Lochhausener Straße nach Langwieder Hauptstraße
+- TOP 2.1.17.: Reparatur Bank am Erlbachweiher
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 4.: Anträge
+- TOP 4.1.: Parkverbot für LKW Ecke Centa-Hafenbrädl-Str. und Anton-Böck-Str. (Bündnis 90/Die Grünen-Fraktion)
+- TOP 4.2.: Widmung Negrellistraße zur öffentlichen Nutzung (Bündnis 90/Die Grünen)
+- TOP 4.3.: 2-Richtung Radfahren anordnen zwischen AWOs Fredl und Am Gleisdreieck (Bündnis 90/Die Grünen)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Fußgängerzone Mahatma-Gandhi-Platz / regelmäßige Kontrolle der parkenden Fahrzeuge durch Polizei und Ordnungsbehörden (Antrag 3)
+- TOP 5.2.: (E) Nutzung des Gebäudes Georg-Böhmer-Straße 1 als Arbeiterwohnheim
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Ausstellung in städt. Grünanlage, hier: Grünzug Freiham, Kunreuthstr., Steinkreis Freiham Folly, Aufbau eines Adventsweges / Adventsgartens vom 29.11.-25.12.25, Anhörung KVR vom 20.10.25 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Stadtteilwochen im 22. Stadtbezirk - Einen Erfolg wiederholen, Schr. Kulturreferat vom 25.09.25
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: "Bildungsbauoffensive - Maßnahmenbeschluss 2025; Ergebnisse gem. Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau", Anhörung Ref. f. Bildung u. Sport vom 24.10.25
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Mehr "Ratschecken" für Senioren + Planungen Altenheim in Freiham, Schr. Baureferat vom 20.10.25 und Schr. Sozialreferat vom 20.10.25
+- TOP 6.2.2.2.: Unhaltbarer Zustand am Schulcampus, Schr. Ref. f. Bildung u. Sport vom 16.10.25
+- TOP 6.2.2.3.: Planung der mobilen Kunst-Spiel-Aktionen 2026 und 2027, Schr. Culture Clouds vom 04.11.25
+- TOP 6.2.2.4.: Antrag auf Erweiterung der Grundschule Lochhausen, Schr. Ref. f. Bildung u. Sport vom 04.11.25
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Ubostr. 35, Haltverbot Westseite, Anhörung Mobilitätsreferat vom 28.10.25 (N) - Kallmünzer Str. 8, Errichtung absolutes Haltverbot, Anhörung Mobilitätsreferat vom 13.11.25 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Einfahrt Böhmerweiher, Schr. Gemeinde Gröbenzell vom 10.10.25 (vertagt aus 10/25)
+- TOP 6.3.2.2.: Zustand nördlich Radweg Lochhausener Straße sowie Einmündung Osterangerstraße/ Lochhausener Straße, Schr. Baureferat vom 14.10.25
+- TOP 6.3.2.3.: Entfernung Beschilderung ehemalige Buswendeschleife Neuaubing-West, Schr. Mobilitätsreferat vom 14.10.25
+- TOP 6.3.2.4.: Arbeiten im Straßenraum, hier: - Sulzemooser Str. 2-4 und Krautgartenweg 7, Asphaltierung des kompletten Fahrbahnbelages zwischen Am Langwieder Bach und Industriestraße vom 25.10.-28.11.25, Schr. Mobilitätsreferat vom 17.10.25 - Aubinger Allee 54 bis 86, Grete-Weil-Str. 26 bis 32, Baumaßnahme U5, Vorhaltebahnhof Freiham; Umverlegung Gehweg Aubinger Allee, Sperre Grete-Weil-Str., 2. Änderung vom 27.10.25-08.09.26, Schr. Mobilitätsreferat vom 27.10.25
+- TOP 6.3.2.5.: Planung Ausbau S 4 zwischen Bahnübergang Hellensteinstraße und Bahnhof Leienfelsstraße, Schr. Mobilitätsreferat vom 24.10.25
+- TOP 6.3.2.6.: Gefährliche Situation Brunhamstraße, Schr. Mobilitätsreferat vom 28.10.25
+- TOP 6.3.2.7.: E-Ladestation P+R Parkplatz S-Bahn Langwied, Schr. Mobilitätsreferat vom 28.10.25
+- TOP 6.3.2.8.: Asphaltierung in der Bodenseestraße, Schr. Baureferat vom 03.11.25
+- TOP 6.3.2.9.: Erweiterung der Haltestellen der Buslinie 159, Schr. Mobilitätsreferat vom 03.11.25
+- TOP 6.3.2.10.: Situation Spielstraße in der Kronwinkler Straße, Schr. KVR vom 04.11.25
+- TOP 6.3.2.11.: Sanierung des Fußweges parallel der Dietrichsteinstraße, Schr. MGS vom 04.11.25
+- TOP 6.3.2.12.: Parkplatzbucht an der B2, Schr. Mobilitätsreferat vom 30.10.25
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Entwurf Sitzungsvorlage "Landschaftsbezogenes Naherholungsgebiet Aubinger Lohe / Feldflur Freiham, Anhörung Planungsreferat vom 20.20.25
+- TOP 6.4.1.2.: Lichtenfelser Str. 9, Teilabbruch und Erweiterung eines Wohngebäudes zu 5 Wohneinheiten im Zuge einer energetischen Sanierung, Anhörung Planungsreferat vom 15.10.25
+- TOP 6.4.1.3.: Bebauungs- und Grünordnungsplan Nr. 115, Bergkirchen, südwestlich der Sonnenstraße, Beteiligung der Träger öffentlicher Belange und Behörden, Anhörung Planungsreferat vom 27.10.25
+- TOP 6.4.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.1.5.: Beteiligung des BA: Freiham Süd - Erweiterung Logistikzentrum Augustiner Bräu - Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/43, Anhörung Planungsreferat vom 29.10.25
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Stromanschluss am Parkplatz Ziegeleistraße, Schr. Baureferat vom 26.08.25 (vertagt aus 10/25)
+- TOP 6.4.2.2.: Hitzeschutzplan für Freiham, Schr. Planungsreferat vom 06.10.25
+- TOP 6.4.2.3.: Bauanträge im 22. Stadtbezirk: 06.10.-12.10.25, 13.10.-19.10.25, 20.10.-26.10.25, 27.10.-02.11.25, (N) - 03.11.-09.11.25
+- TOP 6.4.2.4.: Baumaßnahmen der Stadtwerke München, Stichtag: 07.10.-21.10.25, 21.10.-04.11.25
+- TOP 6.4.2.5.: Beschwerde über unvollständige bzw. nicht erfolgter Mülltonnenleerung, Schr. AWM vom 21.10.25
+- TOP 6.4.2.6.: Müllentsorgung leicht gemacht, Schr. Baureferat vom 09.10.25
+- TOP 6.4.2.7.: Überfüllter Kleidercontainer Wiesentfelser Straße, Schr. AWM vom 23.10.25
+- TOP 6.4.2.8.: SWM Strom-Projekt, hier: - Bodenseestr. 107 (44. KW bis 52. KW), Flyer SWM vom 24.10.25
+- TOP 6.4.2.9.: Müll und Unrat am S-Bahnhof Aubing, Schr. DB vom 30.10.25
+- TOP 6.4.2.10.: Zustand Brunnenplatz, Schr. Baureferat vom 29.10.25
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Kohlsteiner Str., Schr. Sozialreferat vom 24.10.25
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 29.10.25 - Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 9.1.1: - Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 9.2.: Bildungsausschuss vom 29.10.25 - "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 9.3.: Bauausschuss vom 28.10.25 - Bebauungsplan mit Grünordnung Nr. 2154 Siedlungsschwerpunkt Freiham Freiham Nord - 2. Realisierungsabschnitt (1. BA) 1. Teilausbaupaket: Widmungsfähiger Teilausbau von öffentlichen Verkehrsflächen (U-1822, U-1825, U-1827, U-1828 und U-1829) im 22. Stadtbezirk Aubing - Lochhausen - Langwied Umsetzung des Eckdatenbeschlusses 2026 (BAU-002) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2025 - 2029
+- TOP 9.3.1: - Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht der Einzelprojekte Bahnübergang Fasanerie, Feldmochinger Straße, Bahnübergang Lerchenauer Straße und Bahnübergang Lerchenstraße 3. Abrechnungsverfahren für Eisenbahnkreuzungsmaßnahmen
+- TOP 9.4.: Auschuss für Stadtplanung und Bauordnung vom 17.09.25 - Anpassung des Ökologischen Kriterienkatalogs an die Ziele des Interfraktionellen Arbeitskreis (IFAK) Wohnungsbau A) Anpassung an die Beschluss- und Gesetzeslage B) Inhalte der Fortschreibung Ökologischer Kriterienkatalog 2025 C) Klimaprüfung D) Abstimmung mit Referaten und weiteren Beteiligten
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 10.12.25 um 19.00 Uhr im Campus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41; Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 10.11.25 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Montag, 10.11.25 um 20.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 12.11.25, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 13.11.25, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.18.: (N) - Mobilität in Freiham
+- TOP 2.1.19.: (N) - Bushaltestelle und Lochhausener Straße
+- TOP 2.1.20.: (N) - Unhaltbare Parksituation und zunehmende Verkehrsprobleme in der Kravogelstraße / Bereich S-Bahnhof Neuaubing
+- TOP 5.3.: (N) Stadtbezirksbudget Verein LeseEulen.de Dialogisches Vorlesen - Jahrgangsstufe eins vom 27.10.2025 - 31.07.2026 1.535,00 Euro, Az.: 0262.0-22-0305
+- TOP 6.2.2.5.: (N) - Neuer Sachstand zur Unterkunft in der Sandbergstraße, Schr. Reg. v. Oberbayern vom 10.11.25
+- TOP 6.1.2.2.: (N) - Bolzplatz an der Aubinger Lohe, Schr. Baureferat vom 03.11.25
+- TOP 6.2.2.6.: (N) - Reichenaustr. 5, Haus für Kinder, Dienststellenverständigung, Schr. Ref. f. Bildung u. Sport vom 06.11.25
+- TOP 6.4.1.6.: (N) - Grafrather Str. 21, Errichtung eines Doppelhauses mit zwei Einzelgaragen, Anhörung Planungsreferat vom 05.11.25
+- TOP 8.2.: (N) - Unveränderte Fortführung, hier: - Colmdorfstr. 27, Schank- und Speisewirtschaft "Sitara" Indisches Restaurant, Schr. KVR vom 06.11.25
+- TOP 2.1.21.: (N) - Fußgängerzone Freiham
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk - Ravensburger Ring 58 - Krähenweg 85a - Trimburgstr. 9 - Altostr. 99b - Henschelstr. 1 (N) - Paosostr. 101
+- TOP 3.1.2.: Genehmigungsbescheid zur Baumfällung, hier: (N) - Grafrather Str. 27, Schr. Planungsreferat vom 14.11.25
+- TOP 5.4.: (N) Stadtbezirksbudget die urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3.250,00 Euro, Az.: 0262.0-22-0306
+- TOP 6.3.1.2.: (N) - Einrichtung eines Verkehrshelferüberweges im Kleiberweg, Anhörung Mobilitätsreferat vom 11.11.25
+- TOP 6.3.2.13.: (N) - Aufstellen von stationären Geschwindigkeitsmessanlagen in Bereichen, die der kommunalen Verkehrsüberwachung unterstehen, Schr. Mobilitätsreferat vom 11.11.25
+- TOP 6.3.2.14.: (N) - Parkraummanagement Freiham - Information zur Umsetzung erster Regelungen, Schr. Mobilitätsreferat vom 14.11.25
+- TOP 6.3.2.15.: (N) - Verlängerung der Baustelleneinrichtung, Margot-Hielscher-Str. 14 bis zum 28.11.25, Schr. Mobilitätsreferat vom 13.11.25
+- TOP 6.4.1.7.: (N) - Beschlussvorlage zu Bebauungspläne und Mobilitätskonzepte im 22. Stadtbezirk realistisch überdenken, BV-Empfehlung Nr. 20.26-/E 02790 aus der Bürgerversammlung des BA 22 vom 27.05.25, Anhörung Planungsreferat vom 12.11.25
+- TOP 6.4.1.8.: (N) - Kleiberweg 25, Neubau Mehrfamilienhaus (5 WE) mit Duplexparker, Anhörung Planungsreferat vom 12.11.25
+- TOP 6.4.1.9.: (N) - Sigererstr. 7, Neubau eines Mehrfamilienhauses mit 8 Wohneinheiten und Tiefgarage, Anhörung Planungsreferat vom 12.11.25
