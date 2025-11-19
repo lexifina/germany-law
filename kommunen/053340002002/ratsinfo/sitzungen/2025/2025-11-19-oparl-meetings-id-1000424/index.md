@@ -1,0 +1,82 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2025-11-19T17:00:00+01:00
+- Ende: 2025-11-19T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000424
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000424
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1474162&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Wahl der Ausschussmitglieder - ungeändert beschlossen
+- TOP 4: Bildung von Ausschüssen des Rates der Stadt Aachen, hier: Kinder- und Jugendausschuss - ungeändert beschlossen
+- TOP 5: Besetzung des Ausschusses für Schule und Weiterbildung – Wahl sachkundiger Einwohner*innen in der 19. Wahlperiode - ungeändert beschlossen
+- TOP 6: Besetzung des Ausschusses für Soziales, Integration und Demographie; hier: Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 7: Wahl der vom Rat der Stadt zu benennenden Ratsmitglieder als Mitglieder des Ausschusses für Chancengerechtigkeit und Integration (früher: Integrationsrat) - ungeändert beschlossen
+- TOP 8: Benennung der Mitglieder des Rates im Umlegungsausschuss - ungeändert beschlossen
+- TOP 9: Studieninstitut für kommunale Verwaltung Aachen - ungeändert beschlossen
+- TOP 10: Wahl der Vertreter*innen der Stadt Aachen im Kreispolizeibeirat - ungeändert beschlossen
+- TOP 11: Vertretung der Stadt in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12: Wahl von Mitgliedern des Regionalrates des Regierungsbezirkes Köln - ungeändert beschlossen
+- TOP 13: Wahl der Vertreterinnen und Vertreter des Rates der Stadt Aachen für die Verbandsversammlung des Zweckverbandes Region Aachen - ungeändert beschlossen
+- TOP 14: Bestellung von Vertretern und Vertreterinnen der Stadt Aachen für die Verbandsversammlung des Zweckverbands Entsorgungsregion West (ZEW) - ungeändert beschlossen
+- TOP 15: Bestellung der Mitglieder des Aufsichtsrates der AWA Entsorgung GmbH - ungeändert beschlossen
+- TOP 16: Bestellung der Mitglieder des Aufsichtsrates der EUROGRESS AACHEN Betriebs GmbH - ungeändert beschlossen
+- TOP 17: Bestellung der Mitglieder des Aufsichtsrates der Kur- und Badegesellschaft mbH - ungeändert beschlossen
+- TOP 18: Bestellung der Mitglieder des Aufsichtsrates der MVA Weisweiler GmbH & Co. KG - ungeändert beschlossen
+- TOP 19: Bestellung der Mitglieder des Aufsichtsrates der Forschungsflugplatz Würselen-Aachen GmbH (FWA) - ungeändert beschlossen
+- TOP 20: Bestellung der Mitglieder des Aufsichtsrates der Aachener Stadion Beteiligungsgesellschaft mbH (ASB) - ungeändert beschlossen
+- TOP 21: Bestellung der Mitglieder des Aufsichtsrates der Aachener Parkhaus GmbH (APAG) - ungeändert beschlossen
+- TOP 22: Bestellung der Mitglieder des Aufsichtsrates der GEGRA Gewerbegrundstücksgesellschaft mbH - ungeändert beschlossen
+- TOP 23: Bestellung der Mitglieder des Beirates der WAG Wassergewinnungs- und -aufbereitungsgesellschaft Nordeifel mbH - ungeändert beschlossen
+- TOP 24: Bestellung der Mitglieder des Aufsichtsrates der STAWAG – Stadt- und Städteregionswerke Aachen AG - ungeändert beschlossen
+- TOP 25: Bestellung der Mitglieder des Aufsichtsrates der Städtische Entwicklungsgesellschaft Aachen GmbH & Co. KG (SEGA) - ungeändert beschlossen
+- TOP 26: Bestellung eines Mitgliedes des Aufsichtsrates der RWTH Aachen Campus GmbH - ungeändert beschlossen
+- TOP 27: Bestellung des Mitgliedes des Aufsichtsrates der Grenzüberschreitendes Gewerbegebiet Aachen-Heerlen N.V. - GOB N.V. und der Avantis Services N.V. - ungeändert beschlossen
+- TOP 28: Bestellung der Mitglieder des Aufsichtsrates der regio iT gesellschaft für informationstechnologie mbH (regio iT) - ungeändert beschlossen
+- TOP 29: Bestellung des Mitglieds des Beirates der regio iT gesellschaft für informationstechnologie mbH (regio iT) - ungeändert beschlossen
+- TOP 30: Bestellung der Mitglieder des Aufsichtsrates der gewoge AG - ungeändert beschlossen
+- TOP 31: Bestellung von Mitgliedern des Aufsichtsrates der Energie- und Verkehrsgesellschaft Aachen GmbH (E.V.A.) - ungeändert beschlossen
+- TOP 32: Bestellung der Mitglieder des Aufsichtsrates der AGIT Aachener Gesellschaft für Innovations- und Technologietransfer mbH (AGIT) - ungeändert beschlossen
+- TOP 33: Bestellung der Mitglieder des Aufsichtsrates der Aachener Straßenbahn und Energieversorgungs- Aktiengesellschaft (ASEAG) - ungeändert beschlossen
+- TOP 34: Bestellung von Mitgliedern der Verbandsversammlung des Aachener Verkehrsverbundes (AVV) - ungeändert beschlossen
+- TOP 35: Bestellung der Mitglieder des Aufsichtsrates der Aachener Verkehrsverbund GmbH (AVV) - ungeändert beschlossen
+- TOP 36: Bestellung eines Vorstandsmitgliedes und dessen Stellvertretung im Naturpark Nordeifel e.V. - ungeändert beschlossen
+- TOP 37: Bestellung von Mitgliedern des Trägervereins Berufsbildungs- und Gewerbeförderungseinrichtung Aachen e.V. - zurückgezogen
+- TOP 38: Vertretung der Stadt Aachen im Kuratorium der Viktoriaschule in Aachen - zurückgezogen
+- TOP 39: Benennung von Ratsmitgliedern zur Teilnahme an der 20. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen am 10.12.2025 - ungeändert beschlossen
+- TOP 40: Beseitigung der Unfallhäufungsstelle an der Einmündung „Von-Coels-Straße/Heckstraße“ durch die Errichtung einer Lichtsignalanlage und einer neuen Verkehrsführung hier: Ausführungsbeschluss und Bereitstellung außerplanmäßiger Mittel - ungeändert beschlossen
+- TOP 41: Straßen- und Wegekonzept nach § 8 a Abs. 1 Kommunalabgabengesetz für das Land Nordrhein-Westfalen in der Fassung vom 19.12.2019 - ungeändert beschlossen
+- TOP 42: Satzung zur Aufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes „Aachen-Nord“ vom 20.05.2009 - ungeändert beschlossen
+- TOP 43: Nahverkehrsplan der Stadt Aachen 2025, 3. Fortschreibung - geändert beschlossen
+- TOP 44: Verlegung von Stolpersteinen – Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 45: Anfragen:
+- TOP 45.1: Ratsanfragen
+- TOP 45.2: Stellungnahmen der Verwaltung zu Ratsanfragen
+- TOP 46: Ratsanträge
+- TOP 47: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 48: Mitteilungen der Verwaltung
+- TOP 49: Entsendung von Vertretern in Gremien des Sparkassenzweckverbandes StädteRegion Aachen - Stadt Aachen und der Sparkasse Aachen - ungeändert beschlossen
+- TOP 50: Benennung der Ausschussvorsitzenden und der stellvertretenden Ausschussvorsitzenden - zur Kenntnis genommen
+- TOP 51: Benennung von Mitgliedern des Direktoriums der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - ungeändert beschlossen
+- TOP 52: Herausschieben des Eintritts in den Ruhestands der Stadtdirektorin und Stadtkämmerin: Herausschieben des Eintritts der Stadtdirektorin und Stadtkämmerin Annekathrin Grehling über den 31.07.2026 hinaus bis zum 31.12.2026 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
