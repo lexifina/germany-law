@@ -1,0 +1,51 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2025-11-19T18:03:00+01:00
+- Ende: 2025-11-19T21:12:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYIt5xQ4lhxBs_34PGRixFg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6267
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdLFcJWhGaDGqZPQSpbX0bDbj8d3W_niWQlW0TAfwgFF/Oeffentliche_Niederschrift_Rat_19.11.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 08.10.2025
+- TOP 3.: Niederschrift vom 05.11.2025
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2026 II. Abwassergebührenkalkulation für das Jahr 2026 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Kenntnisnahme des mittelbaren Beteiligungsportfolios der Stadt Gronau über die Trianel-Beteiligungen TEE, TOW und TWS
+- TOP 7.: Änderung des Ortsrechts: Richtlinien der Stadt Gronau (Westf.) über die Gewährung von freiwilligen, sozialen Zuwendungen - Einstimmig, 0 Enthaltungen
+- TOP 8.: Anträge der Fraktionen
+- TOP 8.1: Antrag der Fraktion pro:Bürgerschaft vom 08.11.2025; "Bezuschussung zum Mensaessen" - Einstimmig, 0 Enthaltungen
+- TOP 9.: Änderung des Baugesetzbuchs durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung vom 27.10.2025, das am 30.10.2025 in Kraft getreten ist
+- TOP 10.: Erhöhung der Parkgebühren am Dreiländersee - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 11.: Budgetbericht für das III. Quartal 2025
+- TOP 12.: aktuelle finanzielle Situation und Sachstandsbericht
+- TOP 13.: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 14.: Vor-/Prüfung der Gültigkeit der Wahl zum Bürgermeister der Stadt Gronau (Westf.) am 14.09.2025 und der Stichwahl des Bürgermeisters der Stadt Gronau (Westf.) am 28.09.2025 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Vor-/Prüfung der Gültigkeit der Wahl der Vertretung der Stadt Gronau (Westf.) am 14.09.2025 - Einstimmig, 0 Enthaltungen
+- TOP 16.: Vor-/Prüfung der Gültigkeit der Wahl des Integrationsrates der Stadt Gronau (Westf.) am 14.09.2025 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 18.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Sachstand "Verspohl"
+- TOP 19.2: Einführung von Regionalkennzeichen
+- TOP 19.3: Aufzug am Bahnhof Gronau
+- TOP 19.4: Verleihung des Heimatpreises (Fr., 28.11.2025)
+- TOP 19.5: Klageverfahren "Wohnpark Lennéstraße"
+- TOP 19.6: Schuldenübernahme nach dem sog. "Altschuldenentlastungsgesetz"
+- TOP 20.: Anfragen
+- TOP 20.1: Tote Tauben in der Innenstadt (Anfrage von RM Westermann)
+- TOP 20.2: Verkehrsberuhigung Alfertring (Anfrage von 3. Stellv. d. BM Bröker)
+- TOP 20.3: Schlechter Zustand "Buschgarten" (Anfrage von RM Stenau-van Wüllen)
+- TOP 20.4: Umzug am Volkstrauertag und Umzüge von Vereinen (Anfrage von RM Th. Buß)
+- TOP 20.5: Gebäude "Kurt-Schumacher-Platz 9" (Anfrage von RM Bakenecker)
+- TOP 20.6: Entsorgungen in der Gastronomie (Anfrage von RM Schnittker)
+- TOP 20.7: Laubsammelstelle Freibad Epe (Anfrage von RM Doetkotte)
+- TOP 20.8: Projekt "Angsträume" (Anfrage von RM Adamsky)
