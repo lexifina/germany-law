@@ -1,0 +1,110 @@
+# 3. Sitzung des Rates (Konstituierung)
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-11-20T15:32:00+01:00
+- Ende: 2025-11-20T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31295
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31295
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag der AfD-Fraktion auf Durchführung einer aktuellen Stunde betreffend "Mahnmale in Köln schützen – St. Alban retten" - Sache ist erledigt
+- TOP 1: Aus der 2. konstituierenden Sitzung vertagte Vorlagen
+- TOP 1.1: Festlegung der Anzahl der sachkundigen Einwohner*innen in den Ausschüssen - vertagt
+- TOP 1.2: Namentliche Benennung der Ausschussvorsitzenden und der stellvertretenden Ausschussvorsitzenden I hier: stellvertretende Ausschussvorsitzende - ungeändert beschlossen
+- TOP 1.3: Besetzung des Jugendhilfeausschusses (JHA) - weitere beratende Mitglieder - vertagt
+- TOP 1.4: Wahl der sachkundigen Einwohner*innen in den Ausschüssen - vertagt
+- TOP 1.5: Weitere sachkundige Einwohner*innen, hier: Festlegung der Anzahl und Bestimmung der Träger - vertagt
+- TOP 1.6: Bildung der 16. Landschaftsversammlung Rheinland, hier: Wahl der von der Stadt Köln zu entsendenden Mitglieder und Ersatzmitglieder - ungeändert beschlossen
+- TOP 2: Wahlen - Besetzung weiterer Gremien
+- TOP 2.1: Zweckverbände / Mitgliederversammlungen
+- TOP 2.1.1: Entsendung der Mitglieder sowie ihrer Stellvertretungen in die Verbandsversammlung des Zweckverbandes "Naturpark Bergisches Land" - ungeändert beschlossen
+- TOP 2.1.2: Entsendung der Mitglieder sowie ihrer Stellvertretungen in die Verbandsversammlung des Zweckverbandes "Naturpark Rheinland" - ungeändert beschlossen
+- TOP 2.1.3: Entsendung der Mitglieder sowie ihrer Stellvertretungen in die Verbandsversammlung des Zweckverbandes "Erholungsgebiet Stöckheimer Hof" - ungeändert beschlossen
+- TOP 2.1.4: Zweckverband Verkehrsverbund Rhein-Sieg (VRS): Entsendung in die Verbandsversammlung - ungeändert beschlossen
+- TOP 2.1.5: Zweckverband Sparkasse KölnBonn: Entsendung in die Verbandsversammlung - ungeändert beschlossen
+- TOP 2.1.6: Sparkasse KölnBonn: Weisung an die durch den Rat der Stadt Köln entsandten Vertreter*innen für Abstimmungen in der Verbandsversammlung des Zweckverbandes Sparkasse KölnBonn - vertagt
+- TOP 2.1.7: Bestellung der Vertretung der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 2.2: Aufsichtsgremien Stadtwerke Konzern
+- TOP 2.2.1: Stadtwerke Köln GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.2: RheinEnergie AG: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.3: GEW Köln AG: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.4: Kölner Verkehrs-Betriebe AG (KVB): Vorschläge für die Wahl von Aufsichtsratsmitgliedern - ungeändert beschlossen
+- TOP 2.2.5: KölnBäder GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.6: Wohnungsgesellschaft der Stadtwerke Köln mbH: Vorschläge zur Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.7: AVG Abfallentsorgungs- und Verwertungsgesellschaft Köln mbH: Entsendung von Mitgliedern in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.8: AWB Abfallwirtschaftsbetriebe Köln GmbH: Vorschläge zur Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.2.9: Häfen und Güterverkehr Köln AG (HGK AG) - ungeändert beschlossen
+- TOP 2.3: Aufsichtsgremien weiterer städtischer Unternehmen
+- TOP 2.3.1: Regionalverkehr Köln GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.2: Kölner Sportstätten GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.3: KölnBusiness Wirtschaftsförderungs-GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.4: Koelnmesse GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.5: Kliniken der Stadt Köln gGmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.6: Flughafen Köln/Bonn GmbH: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.7: RehaNova Köln Neurologische Rehabilitationsklinik gGmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.8: RheinCargo GmbH & Co. KG: Vorschläge zur Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.9: Koelncongress GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.10: KölnMusik GmbH / AchtBrücken GmbH i.L.: Entsendung von Mitgliedern in die Aufsichtsräte - ungeändert beschlossen
+- TOP 2.3.11: Akademie der Künste der Welt/Köln gGmbH i.L.: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.12: moderne stadt Gesellschaft zur Förderung des Städtebaues und der Gemeindeentwicklung mbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.13: Kölner Gesellschaft für Arbeits- und Berufsförderung mbH (KGAB): Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.14: Sozial-Betriebe-Köln gGmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.15: GWG Wohnungsgesellschaft mbH Rhein-Erft: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.16: Jugendzentren Köln gGmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.17: KölnTourismus GmbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.18: AG Zoologischer Garten Köln: Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.3.19: GAG Immobilien AG: Entsendung und Vorschläge für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4: Bestellung von Arbeitnehmervertreter*innen
+- TOP 2.4.1: Kliniken der Stadt Köln gGmbH: Entsendung von Arbeitnehmervertreter*innen in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.2: RheinCargo GmbH & Co. KG - ungeändert beschlossen
+- TOP 2.4.3: KölnBäder GmbH: Entsendung der Arbeitnehmervertretung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.4: Kölner Sportstätten GmbH: Bestellung einer Arbeitnehmervertreter*in in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.5: KölnBusiness Wirtschaftsförderungs-GmbH: Bestellung einer Arbeitnehmervertreter*in in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.6: RheinEnergie AG - Informationsverarbeitung Leverkusen GmbH/Bestellung von Arbeitnehmervertreter*innen in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.7: Rhein Energie AG - Energieversorgung Leverkusen GmbH & Co. KG/Bestellung von Arbeitnehmervertreter*innen in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.8: Bestellung von Arbeitnehmervertreter*innen in den Aufsichtsrat der Sozial-Betriebe Köln gGmbH - ungeändert beschlossen
+- TOP 2.4.9: Jugendzentren Köln gGmbH: Bestellung einer Arbeitnehmervertreter*in in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.10: KölnTourismus GmbH: Bestellung einer Arbeitnehmervertreter*in in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.4.11: Kölner Gesellschaft für Arbeits- und Berufsförderung mbH (KGAB): Bestellung von Arbeitnehmervertreter*innen in den Aufsichtsrat - ungeändert beschlossen
+- TOP 2.5: Stiftungen
+- TOP 2.5.1: Wahl der Mitglieder zum Kuratorium der Krankenhausstiftung Porz am Rhein - vertagt
+- TOP 2.5.2: Kunststiftung im Museum Ludwig Köln - Bestellung des Kuratoriums - ungeändert beschlossen
+- TOP 2.5.3: Besetzung des Kuratoriums der Gerda und Manfred Ulbrich-Stiftung - vertagt
+- TOP 2.5.4: Bestellung einer Inspektorin/eines Inspektors der Stiftung Johann-Heinrich Claren - ungeändert beschlossen
+- TOP 2.5.5: Vertretung der Stadt Köln im Vorstand der Krankenhausstiftung Worringen - ungeändert beschlossen
+- TOP 2.5.6: Besetzung der Deputation der Guilleaume-Stiftung St. Antoniusheim - ungeändert beschlossen
+- TOP 2.5.7: Besetzung des Kuratoriums der Stiftung Dr. Dormagen-Guffanti - ungeändert beschlossen
+- TOP 2.5.8: Museum für Angewandte Kunst Köln (MAKK)-Förderstiftung - Bestellung des Kuratoriums - vertagt
+- TOP 2.6: Weitere Gremien
+- TOP 2.6.1: Gebrüder Coblenz Stift e.V. - ungeändert beschlossen
+- TOP 2.6.2: Lenkungskreis Politische Vertretung für das MiQua-LVR-Jüdisches Museum im Archäologischen Quartier Köln - vertagt
+- TOP 2.6.3: Entsendung von städtischen Vertretern in den Organen des Vereins Deutsches Sport & Olympia Museum e.V. - ungeändert beschlossen
+- TOP 2.6.4: Entsendung eines städtischen Vertreters in die Regionalgemeinschaft Olympiastützpunkt Rheinland e. V. (OSP) - ungeändert beschlossen
+- TOP 2.6.5: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln) - ungeändert beschlossen
+- TOP 2.6.6: Entsendung von Mitgliedern in den Beirat "Bürgerzentrum Alte Feuerwache e. V." - vertagt
+- TOP 2.6.7: Neubenennung der Ratsvertreter*innen für die Kommunale Gesundheitskonferenz Köln nach der Kommunalwahl 2025 - vertagt
+- TOP 2.6.8: Neukonstituierung des Beirates der Forensischen Klinik Köln-Porz für die Ratsperiode 2025 bis 2030 - vertagt
+- TOP 2.6.9: Bestellung von Ratsmitgliedern in den Umlegungsausschuss der Stadt Köln - vertagt
+- TOP 2.6.10: Neubenennung der Mitglieder für die Fachausschüsse der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) - ungeändert beschlossen
+- TOP 2.6.11: Wahl von Delegierte für die Mitgliederversammlung des Region KölnBonn e.V. - ungeändert beschlossen
+- TOP 2.6.12: Vorschlag zur Benennung von Mitgliedern in den Verwaltungsausschuss der Agentur für Arbeit - vertagt
+- TOP 2.6.13: Benennung von Mitgliedern in den Ausschuss für anzeigepflichtige Entlassungen der Agentur für Arbeit Köln - ungeändert beschlossen
+- TOP 2.6.14: Bestellung von städtischen Vertretern in den Organen des Verbandes Deutscher Verkehrsunternehmen e.V. (VDV) - ungeändert beschlossen
+- TOP 2.6.15: Benennung einer Vertreterin und deren Stellvertretung für den Betriebsausschuss der eigenbetriebsähnlichen Einrichtung "KDN.sozial" - ungeändert beschlossen
+- TOP 2.6.16: Benennung von Mitgliedern des Kuratoriums für die Verleihung des Konrad-Adenauer-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 2.6.17: Wahl der Kölner Mitglieder für den Regionalrat Köln - ungeändert beschlossen
+- TOP 2.6.18: Wahl von Delegierten für die Mitgliederversammlung der Metropolregion Rheinland (2025 - 2030) - ungeändert beschlossen
+- TOP 2.6.19: Wahl der Mitglieder für den Polizeibeirat - vertagt
+- TOP 2.6.20: Bestellung der Vertretung der Stadt Köln zur Entsendung in die Mitgliederversammlung der VITAKO-Bundes-Arbeitsgemeinschaft Kommunaler IT-Dienstleister e.V - ungeändert beschlossen
+- TOP 2.6.21: Bestellung der Vertretung der Stadt Köln zur Entsendung in die Generalversammlung der Genossenschaft govdigital eG - ungeändert beschlossen
+- TOP 2.6.22: Wahl eines Kölner Mitglieds der Kommunalen Bank im Braunkohlenausschuss und eines Kölner Mitglieds mit beratender Befugnis im Braunkohlenausschuss - ungeändert beschlossen
+- TOP 3: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 4: Vorlagen zur Vermeidung von Dringlichkeitsentscheidungen
+- TOP 4.1: Errichtung eines Erweiterungsbaues für Ganztag für das Rheingymnasium Düsseldorfer Straße 13, 51063 Köln, - Weiterplanungs- und Baubeschluss, sowie Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 4.2: Förderaufruf des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen (MAGS NRW) "Koordinierung und Vernetzung von gemeindepsychiatrischen Angeboten" für 2026 - ungeändert beschlossen
+- TOP 5: ---
