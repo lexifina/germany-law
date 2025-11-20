@@ -1,0 +1,114 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-11-20T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664813
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664813
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Abfrage Hybridsitzungen Januar bis April 2026; Frist: 08.12.2025
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Vorstellung Bauvorhaben Maximilianstr./Sternstr.
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Produktion im Wohnmietshaus Kreuzstr. 1
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Herrnstr. 11 Umbau und Sanierung eines Bürogebäudes sowie Sanierung eines Wohn- und Bürogebäudes mit zwei Untergeschossen (Herrnstr. 11/ Thomas-Wimmer-Ring 3) – VORBESCHEID; Frist: 01.12.2025
+- TOP 3.1.2.: Hackenstr. 7 Umbau des Radspielerhauses mit Errichtung von Dachgauben, tlw. Dachausbau, Dachsanierung, Innenhofunterkellerung und -überdachung (tlw.), Einbau eines Personen- und eines Lastenaufzugs; Frist: 11.12.2025
+- TOP 3.1.3.: Müllerstr. 54 Nutzungsänderung von Wohnen zu Büro / Verwaltung / Praxis (1 NE) im 4. Obergeschoss Nutzungsänderung von Wohnen zu Büro / Verwaltung / Praxis (2 NE) im 5. Obergeschoss Nutzungsänderung von Büro / Verwaltung / Praxis zu Wohnen (1 NE) im Dachgeschoss; Frist: 11.12.2025
+- TOP 3.1.4.: Marienplatz 8 Nutzungsänderung von Verkaufsflächen zu Ausstellungs- und Büroflächen im Neuen Rathaus München (ehem. Laden 40-44); Frist: 11.12.2025
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Baumfällungsantrag, Karl-Scharnagl-Ring 5-7
+- TOP 3.2.2.: Baumfällungsantrag, Praterinsel 2; Frist: 21.11.2025
+- TOP 3.2.3.: Baumfällungsantrag, Oettingenstr. 67; Frist: 21.11.2025
+- TOP 3.2.4.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau; Frist: 24.11.2025
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Vorstellung des aktueller Planstands Haltestellenzusammenlegung TRAM am Maxmonument durch MVG (Begrenzung des TOPs auf 1 ½ Stunden)
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Prälat-Zistl-Str.
+- TOP 1.2.: Verlegung eines Dialogdisplay in die Widenmayerstr. aus 2025.10 C 1.5
+- TOP 1.3.: Bürger*innenanliegen Überprüfung der Verkehrsführung im Bereich der Baustelle am Stadtmuseum (Bürgersteig, Busverbindung) aus 2025.10
+- TOP 1.4.: Bürger*innenanliegen Baustelle Prinzregentenstraße
+- TOP 1.5.: Bürger*innenanliegen Notwendige Fahrradstellplätze Müllerstr. Ecke Blumenstr.
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Einführung einer „Keine-Müll-Zone“ in der gesamten Münchner Altstadt zur Förderung der städtischen Ziele der Müllvermeidung und Ressourcenschonung
+- TOP 2.2.: (E) Sicherheit Herzog-Wilhelm-Straße
+- TOP 2.3.: (E) Öffnung des westlichen Stadtgrabenbaches
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Falkenbergstraße 7 - zusätzlicher Behindertenstellplatz; Frist: 26.11.2025
+- TOP 3.1.2.: Liebigstraße/ Reitmorstraße - Parklizenzgebiet „Mittleres Lehel“
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 0.1.: Vorstellung Münchner Geigentage 2026
+- TOP 0.2.: Original Münchner Schäfflertanz 2026
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Pilotprojekt LOX - kostenloser Sport für die Bewohner von Altstadt-Lehel, TOP 2025.09 D 1.1
+- TOP 1.2.: Fußballstunde Hirschanger 2026
+- TOP 1.3.: Sicherheit Isartorplatz, TOP 2025.10 D 1.2
+- TOP 1.4.: BA-Antrag: Durchführung einer BA eigenen Veranstaltung Erinnern an Hugo Helbing TOP 2025.10 D 1.3
+- TOP 1.5.: Bürger*innenanliegen Verunstaltung des Lenbachbrunnen
+- TOP 1.6.: Bürger*innenanliegen EU-Projekt metaCCAZE in Altstadt-Lehel – Bitte um Unterstützung
+- TOP 1.7.: Bürger*innenanliegen Wir suchen eine neue Heimat – Hilfe für die Tanzschule am Deutschen Theater
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Revü GbR Kurzfilmprogramm + Lesung am 04.12.2025 800,00€; Az. 0262.0-1-0429
+- TOP 2.1.2.: (E) Stadtbezirksbudget Die Urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3250,00€; Az.: 0262.0-1-0430
+- TOP 2.1.3.: (E) Stadtbezirksbudget KTF Luitpold e.V. neue Turngeräte für Regelbetrieb Turnabteilung in Versicherungskammer 11.484,00€; Az. 0262.0-1-0431
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Krampuslauf am 14.12.2025 (Termin: 01.12.2025)
+- TOP 3.2.: Inthronisation des Narrhalla-Prinzenpaars am 03.01.2026 (Termin: 22.12.2025)
+- TOP 3.3.: Kostenloser Glühweinausschank anlässlich Domkonzert am Frauenplatz vor dem Hauptportal des Doms am 15.12.2025 und 05.01.2026 (Termin: 28.11.2025)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP B 4.4.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP B 4.5.: Promenadepl. 2 - 6, Aufstockung des nicht historischen Teils des Palais Montgelas mit Schließung der Vierseit-Dachlandschaft und integrierter Terrasse sowie Erweiterung einer bestehenden Dachterrasse zur möglichen Nutzung für Gäste des Frühstückraums, Vorbescheid
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Umwidmung von Anwohnerparkplätzen in Lehel
+- TOP C 4.3.: Antrag der Fraktionen Bündnis90/Die Grünen, SPD + ÖDP: Sorgen der Anwohner*innen bei der Umgestaltung und Neuordnung des öffentlichen Raums in der Altstadt ernst nehmen und avisierten Zeitplan unbedingt einhalten
+- TOP C 4.4.: Freilegung Stadtbach Herzog-Wilhelm-Straße
+- TOP C 4.5.: Altstadt für alle - öffentliche Feinerschließung Sitzungsvorlage Nr. 20-26 / V 12227
+- TOP C 4.6.: Antragspaket: Anfragen an das Mobilitätsreferat
+- TOP C 4.7.: Bürger*innenanliegen Abendliche Beleuchtung Theatinerkirche, Antwortschreiben Baureferat
+- TOP C 4.8.: Fahrbahnbelag Maximilianbrücke und Landtagsberg, Empfehlung Nr. 20-26 / E 02739, TOP 2025.08 C 2.2, Antwortschreiben Baureferat
+- TOP C 4.9.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP D 4.5.: Münchner Eiszauber vom 21.11.2025 - 11.01.2026, TOP 2025.10 D 3.1, Antwort Kreisverwaltungsreferat
+- TOP D 4.6.: Eilentscheidung Weihnachtsmarkt auf öffentlichem Verkehrsgrund gem. §29 der StVO; Markt von 24.11. bis 22.12.2025 am Sendlinger Tor Platz, Frist: 10.11.2025
+- TOP 0.2.: Vorstellung der Begrünung der Fußgängerzone durch das Baureferat
+- TOP 3.4.: Infoveranstaltung mit Sammlung BRH Rettungshundestaffel am 13.12.2025 auf dem sog. Odeonsplatz (Termin: 28.11.2025)
