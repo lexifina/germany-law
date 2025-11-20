@@ -1,0 +1,54 @@
+# 31. öffentliche Sitzung des Ausschusses für Mobilität, Verkehr, Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-11-20T17:00:00+01:00
+- Ende: 2025-11-20T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5011
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5011
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 25.09.2025 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erfolgt schriftlich als Anlage zum Protokoll - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Vorrang für den Bus Clayallee/Riemeisterstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.2: Prüfung der Verlängerung der Buslinie 143 - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.3: Bushaltestelle nach Museumsdorf Düppel benennen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4: Mobilitätsservice der BVG erhalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Lorenzstraße Tempo 30 durchgängig anordnen/Querungshilfen Kreuzung Lorenzstraße/Jägerstraße - vertagt
+- TOP 4.6: Aufgrund von Lärm und Luftverschmutzung und zur Sicherheit schwacher Verkehrsteilnehmer*innen: Durchgehend Tempo30 in der Schildhornstraße - im Ausschuss abgelehnt
+- TOP 4.7: Sicherheit für Radfahrer hinter der Bushaltestelle Steglitzer Damm/Halskestraße erhöhen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.8: Vorgehen gegen das illegale Abstellen von Werbe-Anhängern auf der B1 in Richtung Glienicker Brücke/Potsdam - im Ausschuss abgelehnt
+- TOP 4.9: Lindwerder retten! - mit Änderungen im Ausschuss beschlossen
+- TOP 4.10: Parkleitsystem für die Schloßstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.11: Instandsetzung der Bänke auf dem Scheele-Marktplatz (Woltmann-Siedlung) - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.12: Halbseitiges Parkverbot unter der S-Bahnbrücke Schlachtensee (Breisgauer Straße) - vertagt
+- TOP 4.13: Fußgängerschutz vor dem Rathaus Zehlendorf - vertagt
+- TOP 4.14: Urban Art fördern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.15: Öffentliche Kunst - vertagt
+- TOP 4.16: Weitere Straßenpumpen zugänglich machen und ggf. Bewässerungswagen bzw. -tanks zur Verfügung stellen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.17: Sichere Gehwege in der Buggestraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.18: Sicherheit auch für Radfahrer*innen am Geisterhaus Gardeschützenweg 3 - vertagt
+- TOP 4.19: Parkplätze im Jenbacher Weg - vertagt
+- TOP 4.20: Schleichweg beenden: Ortlerweg in eine Einbahnstraße verwandeln - vertagt
+- TOP 4.21: Angstraum unter der Brücke der A103 am S-Bahnhof Rathaus Steglitz entschärfen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.22: S-Bahnhof Mexikoplatz – Gitter erneuern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.23: Verkehrsspiegel in der Sundgauer Straße - vertagt
+- TOP 4.24: Pkw-Stellplätze an der Potsdamer Chaussee in Höhe S-Bahnhof Wannsee - vertagt
+- TOP 4.25: Halteverbotsschild Albrechtstraße 92 - vertagt
+- TOP 4.26: Errichtung eines Parkhauses für Pendler am S-Bahnhof Wannsee - vertagt
+- TOP 4.27: Pendlerplätze sichern am S-Bahnhof Wannsee - vertagt
+- TOP 4.28: Platz in Nikolassee nach Helene Stöcker (1869–1943) benennen - vertagt
+- TOP 4.29: Wir sind nicht auf der Flucht: Fußgänger*innenampel Ecke Unter den Eichen/Thielallee/Dahlemer Weg für normales Gehtempo schalten - vertagt
+- TOP 4.30: Zebrastreifen Breisgauer Straße - vertagt
+- TOP 4.31: Bänke an der Wilma-Rudolph-Schule - vertagt
+- TOP 4.32: Einmündung des Fahrradwegs am Steglitzer Damm vor der Ecke Liebenowzeile absichern - vertagt
+- TOP 4.33: Abstimmboxen für Zigarettenstummel in Lichterfelde-West - vertagt
+- TOP 4.34: Lückenschluss Am Eichgarten - vertagt
+- TOP 5: gegen 19 Uhr: Vorstellung der Entwurfsplanung EA1 und EA 2 Lichterfelde-Süd Berichterstatter: u.a. Antonia Heimig, Alexander Klonz/Groth-Gruppe - erledigt
+- TOP 6: Verschiedenes - erledigt
