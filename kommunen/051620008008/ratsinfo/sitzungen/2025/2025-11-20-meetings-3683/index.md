@@ -1,0 +1,77 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-11-20T18:32:00+01:00
+- Ende: 2025-11-20T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3683
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3683
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00169393.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00169393.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00169393.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Bestellung der Schriftführung für die 11. Wahlperiode - einstimmig beschlossen
+- TOP 3: Vereidigung des Bürgermeisters und Einführung in das Amt
+- TOP 4: Einführung und Verpflichtung der Ratsmitglieder durch den Bürgermeister
+- TOP 5: Wahl der stellvertretenden Bürgermeisterinnen und Bürgermeister
+- TOP 6: Bildung der Ausschüsse
+- TOP 6.1: Besetzung der Ausschüsse - Kenntnisnahme
+- TOP 6.2: Grundsätzliche Stellvertreterregelung - einstimmig beschlossen
+- TOP 6.3: Bildung von Pflichtausschüssen und Ausschüssen nach sondergesetzlichen Vorgaben - einstimmig beschlossen
+- TOP 6.4: Bildung der freiwilligen Ausschüsse - einstimmig beschlossen
+- TOP 6.5: Besetzung der Pflichtausschüsse und der Ausschüsse nach sondergesetzlichen Vorgaben
+- TOP 6.5.1: Personelle Besetzung des Hauptausschusses - einstimmig beschlossen
+- TOP 6.5.2: Personelle Besetzung des Rechnungsprüfungsausschusses - einstimmig beschlossen
+- TOP 6.5.3: Personelle Besetzung des Wahlausschusses - einstimmig beschlossen
+- TOP 6.5.4: Personelle Besetzung des Wahlprüfungsausschusses - einstimmig beschlossen
+- TOP 6.5.5: Entsendung von Ratsmitgliedern in den Umlegungsausschuss - einstimmig beschlossen
+- TOP 6.5.6: Personelle Besetzung des Betriebsausschusses Abwasseranlagen - einstimmig beschlossen
+- TOP 6.5.7: Personelle Besetzung des Ausschusses für Chancengerechtigkeit und Integration - einstimmig beschlossen
+- TOP 6.5.8: Besetzung des Jugendhilfeausschusses
+- TOP 6.5.8.1: Wahl der stimmberechtigten Mitglieder des Jugendhilfeausschusses für die Wahlperiode 2025-2030 - einstimmig beschlossen
+- TOP 6.5.8.2: Vorschlagsliste für die Wahl der stimmberechtigen Mitglieder des Jugendhilfeausschusses für die Wahlperiode 2025-2030
+- TOP 6.5.8.3: Benennung der beratenden Mitglieder des Jugendhilfeausschusses für die Wahlperiode 2025-2030 - Kenntnisnahme
+- TOP 6.6: Besetzung der freiwilligen Ausschüsse - einstimmig beschlossen
+- TOP 6.6.1: Wahl von Mitgliedern für den UmlegungsA zum BP Gu 26 Gustav-Mahler-Straße" - Ortsteil Gustorf - einstimmig beschlossen
+- TOP 6.7: Verteilung der Ausschussvorsitze und der stellv. Ausschussvorsitze sowie Benennung der Ausschussvorsitzenden und deren Vertreter - einstimmig beschlossen
+- TOP 6.8: Entscheidung über die Gewährung einer Aufwandsentschädigung oder eines Sitzungsgeldes für die Vorsitzenden der Ratsausschüsse - einstimmig beschlossen
+- TOP 7: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter
+- TOP 7.1: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 7.2: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Stadtentwicklungsgesellschaft Grevenbroich GmbH - einstimmig beschlossen
+- TOP 7.3: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Gesellschaft für Wirtschaftsförderung und Stadtmarketing Grevenbroich mbH - einstimmig beschlossen
+- TOP 7.4: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Gesellschaft für Wirtschaftsdienste Grevenbroich mbH - einstimmig beschlossen
+- TOP 7.5: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: NEW aktiv Grevenbroich GmbH - einstimmig beschlossen
+- TOP 7.6: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: NEW Umwelt GmbH - einstimmig beschlossen
+- TOP 7.7: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Zukunfts.Kraftwerk Frimmersdorf Strategie GmbH - einstimmig beschlossen
+- TOP 7.8: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Kinder- und Jugendhilfe Grevenbroich gGmbH - einstimmig beschlossen
+- TOP 7.9: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Zweckverband Landfolge Garzweiler - einstimmig beschlossen
+- TOP 7.10: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Bauverein Grevenbroich eG - einstimmig beschlossen
+- TOP 7.11: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Erftsiedlungsgenossenschaft Gindorf eG - einstimmig beschlossen
+- TOP 7.12: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Segelflugplatzgesellschaft Grevenbroich mbH - einstimmig beschlossen
+- TOP 7.13: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Städte- und Gemeindebund Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 7.14: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Verkehrsgesellschaft Kreis Neuss mbH - einstimmig beschlossen
+- TOP 7.15: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: NRW.URBAN Kommunale Entwicklung GmbH - einstimmig beschlossen
+- TOP 7.16: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 7.17: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Service- und Koordinierungsgesellschaft für preisgünstigen und bezahlbaren Wohnraum Rhein-Kreis Neuss mbH - einstimmig beschlossen
+- TOP 7.18: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Partnerschaftsverein Grevenbroich e.V. - einstimmig beschlossen
+- TOP 8: Fraktionszuwendungen - einstimmig beschlossen
+- TOP 9: Ortsrecht
+- TOP 9.1: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 9.2: Änderung der Hauptsatzung der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 9.3: Zuständigkeitsordnung - einstimmig beschlossen
+- TOP 10: Bestellung von Beauftragten
+- TOP 10.1: Bestellung von Beauftragten für die Interessen von Senioren gemäß § 27 b GO NRW - einstimmig beschlossen
+- TOP 10.2: Bestellung eines Beauftragten für die Belange von Menschen mit Behinderungen - einstimmig beschlossen
+- TOP 11: Befreiung von der Aufstellung des Gesamtabschlusses für das Jahr 2024 gem. § 116a GO NRW - einstimmig beschlossen
+- TOP 12: Beteiligungsbericht 2023 - einstimmig beschlossen
+- TOP 13: Zuleitung des Entwurfs des Jahresabschlusses 2024 und seiner Anlagen an den Rat - einstimmig beschlossen
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: Prüfung der externen Kommunikation - Relaunch der Website und der Rathaus Zeitung (Antrag Nr.:114/2025) - einstimmig beschlossen
+- TOP 15: Schriftliche Anfragen
+- TOP 16: Mitteilungen des Bürgermeisters
