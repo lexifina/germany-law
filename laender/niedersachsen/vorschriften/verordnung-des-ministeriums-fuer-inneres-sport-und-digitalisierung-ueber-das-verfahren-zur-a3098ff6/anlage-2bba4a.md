@@ -1,0 +1,2208 @@
+# Verordnung des Ministeriums für Inneres, Sport und Digitalisierung über das Verfahren zur Abwicklung von Förderprogrammen nach dem Gesetz zur vereinfachten Bereitstellung und Auszahlung von Fördermitteln an kommunale Fördermittelempfänger (Niedersächsische Kommunalfördergesetzverordnung des MI - NKomFöGVO-MI)
+
+(zu § 2 Satz 1 und § 4 Abs. 1 und 2)
+1
+2
+3
+4
+5
+033610001001
+Achim, Stadt
+1 236 557,46 Euro
+824 372,00 Euro
+412 185,46 Euro
+031590001001
+Adelebsen, Flecken
+236 140,33 Euro
+157 427,00 Euro
+78 713,33 Euro
+033550001001
+Adendorf
+407 223,40 Euro
+271 482,00 Euro
+135 741,40 Euro
+032520001001
+Aerzen, Flecken
+399 557,66 Euro
+266 372,00 Euro
+133 185,66 Euro
+033585401
+Ahlden, Samtgemeinde
+267 679,01 Euro
+178 453,00 Euro
+89 226,01 Euro
+032540002002
+Alfeld (Leine), Stadt
+689 751,60 Euro
+459 834,00 Euro
+229 917,60 Euro
+032540003003
+Algermissen
+290 968,14 Euro
+193 979,00 Euro
+96 989,14 Euro
+032515401
+Altes Amt Lemförde, Samtgemeinde
+333 853,13 Euro
+222 569,00 Euro
+111 284,13 Euro
+033555401
+Amelinghausen, Samtgemeinde
+303 520,15 Euro
+202 347,00 Euro
+101 173,15 Euro
+03451
+Ammerland, Landkreis
+4 686 356,72 Euro
+3 124 238,00 Euro
+1 562 118,72 Euro
+033550049049
+Amt Neuhaus
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034510001001
+Apen
+453 027,46 Euro
+302 018,00 Euro
+151 009,46 Euro
+033595401
+Apensen, Samtgemeinde
+370 252,70 Euro
+246 835,00 Euro
+123 417,70 Euro
+034595401
+Artland, Samtgemeinde
+892 868,33 Euro
+595 246,00 Euro
+297 622,33 Euro
+033605408
+Aue, Samtgemeinde
+474 298,62 Euro
+316 199,00 Euro
+158 099,62 Euro
+032570003003
+Auetal
+230 822,54 Euro
+153 882,00 Euro
+76 940,54 Euro
+034520001001
+Aurich (Ostfriesland), Stadt
+1 607 013,23 Euro
+1 071 342,00 Euro
+535 671,23 Euro
+03452
+Aurich, Landkreis
+6 960 663,46 Euro
+4 640 442,00 Euro
+2 320 221,46 Euro
+034560001001
+Bad Bentheim, Stadt
+631 319,37 Euro
+420 880,00 Euro
+210 439,37 Euro
+034590003003
+Bad Essen
+617 599,73 Euro
+411 733,00 Euro
+205 866,73 Euro
+033580008008
+Bad Fallingbostel, Stadt
+490 950,03 Euro
+327 300,00 Euro
+163 650,03 Euro
+031550001001
+Bad Gandersheim, Stadt
+343 511,45 Euro
+229 008,00 Euro
+114 503,45 Euro
+031590002002
+Bad Grund (Harz)
+299 331,91 Euro
+199 555,00 Euro
+99 776,91 Euro
+031530002002
+Bad Harzburg, Stadt
+748 056,92 Euro
+498 705,00 Euro
+249 351,92 Euro
+034590004004
+Bad Iburg, Stadt
+406 944,18 Euro
+271 296,00 Euro
+135 648,18 Euro
+034590005005
+Bad Laer
+341 442,72 Euro
+227 628,00 Euro
+113 814,72 Euro
+031590003003
+Bad Lauterberg im Harz, Stadt
+395 788,25 Euro
+263 859,00 Euro
+131 929,25 Euro
+032520002002
+Bad Münder am Deister, Stadt
+661 665,04 Euro
+441 110,00 Euro
+220 555,04 Euro
+032520003003
+Bad Pyrmont, Stadt
+755 938,41 Euro
+503 959,00 Euro
+251 979,41 Euro
+034590006006
+Bad Rothenfelde
+323 560,22 Euro
+215 707,00 Euro
+107 853,22 Euro
+031590004004
+Bad Sachsa, Stadt
+270 940,76 Euro
+180 627,00 Euro
+90 313,76 Euro
+032540005005
+Bad Salzdetfurth, Stadt
+503 375,13 Euro
+335 583,00 Euro
+167 792,13 Euro
+034510002002
+Bad Zwischenahn
+1 129 858,99 Euro
+753 239,00 Euro
+376 619,99 Euro
+031585402
+Baddeckenstedt, Samtgemeinde
+377 816,91 Euro
+251 878,00 Euro
+125 938,91 Euro
+034600001001
+Bakum
+258 376,05 Euro
+172 251,00 Euro
+86 125,05 Euro
+034520002002
+Baltrum
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+033555402
+Bardowick, Samtgemeinde
+666 259,41 Euro
+444 173,00 Euro
+222 086,41 Euro
+032515402
+Barnstorf, Samtgemeinde
+473 460,97 Euro
+315 641,00 Euro
+157 819,97 Euro
+032410002002
+Barsinghausen, Stadt
+1 287 882,38 Euro
+858 588,00 Euro
+429 294,38 Euro
+034530001001
+Barßel
+518 617,77 Euro
+345 745,00 Euro
+172 872,77 Euro
+032510007007
+Bassum, Stadt
+624 948,18 Euro
+416 632,00 Euro
+208 316,18 Euro
+034590008008
+Belm
+527 565,36 Euro
+351 710,00 Euro
+175 855,36 Euro
+033510004004
+Bergen, Stadt
+492 714,17 Euro
+328 476,00 Euro
+164 238,17 Euro
+034610001001
+Berne
+267 475,94 Euro
+178 317,00 Euro
+89 158,94 Euro
+034595402
+Bersenbrück, Samtgemeinde
+1 139 123,88 Euro
+759 416,00 Euro
+379 707,88 Euro
+033605407
+Bevensen-Ebstorf, Samtgemeinde
+998 538,78 Euro
+665 693,00 Euro
+332 845,78 Euro
+032555401
+Bevern, Samtgemeinde
+217 280,58 Euro
+144 854,00 Euro
+72 426,58 Euro
+033520059059
+Beverstedt
+511 256,63 Euro
+340 838,00 Euro
+170 418,63 Euro
+033600004004
+Bienenbüttel
+251 674,87 Euro
+167 783,00 Euro
+83 891,87 Euro
+033580002002
+Bispingen
+250 456,48 Euro
+166 971,00 Euro
+83 485,48 Euro
+034590012012
+Bissendorf
+552 110,96 Euro
+368 074,00 Euro
+184 036,96 Euro
+033550009009
+Bleckede, Stadt
+349 108,46 Euro
+232 739,00 Euro
+116 369,46 Euro
+032540008008
+Bockenem, Stadt
+364 909,53 Euro
+243 273,00 Euro
+121 636,53 Euro
+034550025025
+Bockhorn
+341 950,38 Euro
+227 967,00 Euro
+113 983,38 Euro
+031550002002
+Bodenfelde, Flecken
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+032555408
+Bodenwerder-Polle, Samtgemeinde
+509 048,28 Euro
+339 366,00 Euro
+169 682,28 Euro
+032555403
+Boffzen, Samtgemeinde
+239 719,36 Euro
+159 813,00 Euro
+79 906,36 Euro
+034590013013
+Bohmte
+495 379,41 Euro
+330 253,00 Euro
+165 126,41 Euro
+031515401
+Boldecker Land, Samtgemeinde
+403 009,78 Euro
+268 673,00 Euro
+134 336,78 Euro
+033525404
+Börde Lamstedt, Samtgemeinde
+229 743,75 Euro
+153 163,00 Euro
+76 580,75 Euro
+034570002002
+Borkum, Stadt
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034530002002
+Bösel
+330 502,54 Euro
+220 335,00 Euro
+110 167,54 Euro
+033575401
+Bothel, Samtgemeinde
+318 458,19 Euro
+212 305,00 Euro
+106 153,19 Euro
+031590007007
+Bovenden, Flecken
+535 675,31 Euro
+357 117,00 Euro
+178 558,31 Euro
+034610002002
+Brake (Unterweser), Stadt
+576 758,09 Euro
+384 505,00 Euro
+192 253,09 Euro
+034590014014
+Bramsche, Stadt
+1 109 374,72 Euro
+739 583,00 Euro
+369 791,72 Euro
+031530016016
+Braunlage, Stadt
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+031010000000
+Braunschweig, Stadt
+18 945 406,42 Euro
+12 630 271,00 Euro
+6 315 135,42 Euro
+033570008008
+Bremervörde, Stadt
+702 849,36 Euro
+468 566,00 Euro
+234 283,36 Euro
+031515402
+Brome, Samtgemeinde
+615 340,62 Euro
+410 227,00 Euro
+205 113,62 Euro
+034525401
+Brookmerland, Samtgemeinde
+491 000,80 Euro
+327 334,00 Euro
+163 666,80 Euro
+032515403
+Bruchhausen-Vilsen, Samtgemeinde
+659 469,39 Euro
+439 646,00 Euro
+219 823,39 Euro
+033530005005
+Buchholz in der Nordheide, Stadt
+1 574 167,31 Euro
+1 049 445,00 Euro
+524 722,31 Euro
+032570009009
+Bückeburg, Stadt
+731 672,03 Euro
+487 781,00 Euro
+243 891,03 Euro
+034570024024
+Bunde
+285 244,21 Euro
+190 163,00 Euro
+95 081,21 Euro
+032410003003
+Burgdorf, Stadt
+1 186 133,65 Euro
+790 756,00 Euro
+395 377,65 Euro
+032410004004
+Burgwedel, Stadt
+773 364,01 Euro
+515 576,00 Euro
+257 788,01 Euro
+034610003003
+Butjadingen
+227 230,81 Euro
+151 487,00 Euro
+75 743,81 Euro
+033590010010
+Buxtehude, Hansestadt
+1 543 339,36 Euro
+1 028 893,00 Euro
+514 446,36 Euro
+034530003003
+Cappeln (Oldenburg)
+344 970,99 Euro
+229 981,00 Euro
+114 989,99 Euro
+03351
+Celle, Landkreis
+6 366 907,84 Euro
+4 244 605,00 Euro
+2 122 302,84 Euro
+033510006006
+Celle, Stadt
+2 545 000,28 Euro
+1 696 667,00 Euro
+848 333,28 Euro
+031530018018
+Clausthal-Zellerfeld, Berg- und Univ.-st.
+534 647,29 Euro
+356 432,00 Euro
+178 215,29 Euro
+03453
+Cloppenburg, Landkreis
+6 541 272,75 Euro
+4 360 849,00 Euro
+2 180 423,75 Euro
+034530004004
+Cloppenburg, Stadt
+1 381 406,95 Euro
+920 938,00 Euro
+460 468,95 Euro
+032520004004
+Coppenbrügge, Flecken
+265 394,52 Euro
+176 930,00 Euro
+88 464,52 Euro
+031580006006
+Cremlingen
+492 396,87 Euro
+328 265,00 Euro
+164 131,87 Euro
+03352
+Cuxhaven, Landkreis
+7 335 869,60 Euro
+4 890 580,00 Euro
+2 445 289,60 Euro
+033520011011
+Cuxhaven, Stadt
+1 896 585,29 Euro
+1 264 390,00 Euro
+632 195,29 Euro
+033555403
+Dahlenburg, Samtgemeinde
+213 244,64 Euro
+142 163,00 Euro
+71 081,64 Euro
+034600002002
+Damme, Stadt
+664 952,17 Euro
+443 301,00 Euro
+221 651,17 Euro
+031550003003
+Dassel, Stadt
+352 395,59 Euro
+234 930,00 Euro
+117 465,59 Euro
+032550008008
+Delligsen, Flecken
+280 687,92 Euro
+187 125,00 Euro
+93 562,92 Euro
+034010000000
+Delmenhorst, Stadt
+6 081 379,78 Euro
+4 054 253,00 Euro
+2 027 126,78 Euro
+032540011011
+Diekholzen
+229 274,16 Euro
+152 849,00 Euro
+76 425,16 Euro
+03251
+Diepholz, Landkreis
+8 117 726,33 Euro
+5 411 818,00 Euro
+2 705 908,33 Euro
+032510012012
+Diepholz, Stadt
+680 969,00 Euro
+453 979,00 Euro
+226 990,00 Euro
+034600003003
+Dinklage, Stadt
+513 515,73 Euro
+342 344,00 Euro
+171 171,73 Euro
+034590015015
+Dissen am Teutoburger Wald, Stadt
+396 029,39 Euro
+264 020,00 Euro
+132 009,39 Euro
+034520027027
+Dornum
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034545401
+Dörpen, Samtgemeinde
+657 781,41 Euro
+438 521,00 Euro
+219 260,41 Euro
+033610003003
+Dörverden
+334 081,58 Euro
+222 721,00 Euro
+111 360,58 Euro
+034580003003
+Dötlingen
+234 249,27 Euro
+156 166,00 Euro
+78 083,27 Euro
+031595401
+Dransfeld, Samtgemeinde
+342 001,15 Euro
+228 001,00 Euro
+114 000,15 Euro
+033590013013
+Drochtersen
+426 870,03 Euro
+284 580,00 Euro
+142 290,03 Euro
+031590010010
+Duderstadt, Stadt
+779 240,23 Euro
+519 493,00 Euro
+259 747,23 Euro
+031570001001
+Edemissen
+471 404,93 Euro
+314 270,00 Euro
+157 134,93 Euro
+034510004004
+Edewecht
+858 004,44 Euro
+572 003,00 Euro
+286 001,44 Euro
+032575401
+Eilsen, Samtgemeinde
+259 454,84 Euro
+172 970,00 Euro
+86 484,84 Euro
+031550013013
+Einbeck, Stadt
+1 136 598,25 Euro
+757 732,00 Euro
+378 866,25 Euro
+033535401
+Elbmarsch, Samtgemeinde
+492 092,28 Euro
+328 062,00 Euro
+164 030,28 Euro
+033545406
+Elbtalaue, Samtgemeinde
+761 205,44 Euro
+507 470,00 Euro
+253 735,44 Euro
+031585407
+Elm-Asse, Samtgemeinde
+668 810,43 Euro
+445 874,00 Euro
+222 936,43 Euro
+034610004004
+Elsfleth, Stadt
+343 498,76 Euro
+228 999,00 Euro
+114 499,76 Euro
+032540014014
+Elze, Stadt
+337 787,53 Euro
+225 192,00 Euro
+112 595,53 Euro
+034020000000
+Emden, Stadt
+3 697 151,65 Euro
+2 464 768,00 Euro
+1 232 383,65 Euro
+034565401
+Emlichheim, Samtgemeinde
+554 293,92 Euro
+369 529,00 Euro
+184 764,92 Euro
+032520005005
+Emmerthal
+372 968,71 Euro
+248 646,00 Euro
+124 322,71 Euro
+034540010010
+Emsbüren
+410 865,89 Euro
+273 911,00 Euro
+136 954,89 Euro
+03454
+Emsland, Landkreis
+12 272 896,63 Euro
+8 181 931,00 Euro
+4 090 965,63 Euro
+034530005005
+Emstek
+473 359,44 Euro
+315 573,00 Euro
+157 786,44 Euro
+033510025025
+Eschede
+208 561,43 Euro
+139 041,00 Euro
+69 520,43 Euro
+032555409
+Eschershausen-Stadtoldendorf, Samtgemeinde
+547 376,98 Euro
+364 918,00 Euro
+182 458,98 Euro
+034625401
+Esens, Samtgemeinde
+530 167,14 Euro
+353 445,00 Euro
+176 722,14 Euro
+034530006006
+Essen (Oldenburg)
+353 601,29 Euro
+235 734,00 Euro
+117 867,29 Euro
+033510010010
+Faßberg
+230 695,62 Euro
+153 797,00 Euro
+76 898,62 Euro
+033575402
+Fintel, Samtgemeinde
+297 225,11 Euro
+198 150,00 Euro
+99 075,11 Euro
+033515402
+Flotwedel, Samtgemeinde
+429 129,14 Euro
+286 086,00 Euro
+143 043,14 Euro
+032540042042
+Freden (Leine)
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+033595402
+Fredenbeck, Samtgemeinde
+497 371,99 Euro
+331 581,00 Euro
+165 790,99 Euro
+034545402
+Freren, Samtgemeinde
+391 739,62 Euro
+261 160,00 Euro
+130 579,62 Euro
+034620005005
+Friedeburg
+392 196,52 Euro
+261 464,00 Euro
+130 732,52 Euro
+031590013013
+Friedland
+308 901,40 Euro
+205 934,00 Euro
+102 967,40 Euro
+03455
+Friesland, Landkreis
+3 700 154,00 Euro
+2 466 769,00 Euro
+1 233 385,00 Euro
+034530007007
+Friesoythe, Stadt
+855 694,57 Euro
+570 463,00 Euro
+285 231,57 Euro
+034595403
+Fürstenau, Samtgemeinde
+602 826,68 Euro
+401 884,00 Euro
+200 942,68 Euro
+034580005005
+Ganderkesee
+1 187 758,18 Euro
+791 839,00 Euro
+395 919,18 Euro
+032410005005
+Garbsen, Stadt
+2 273 475,71 Euro
+1 515 650,00 Euro
+757 825,71 Euro
+034530008008
+Garrel
+566 338,27 Euro
+377 559,00 Euro
+188 779,27 Euro
+033545403
+Gartow, Samtgemeinde
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034540014014
+Geeste
+451 694,84 Euro
+301 130,00 Euro
+150 564,84 Euro
+033575403
+Geestequelle, Samtgemeinde
+249 060,40 Euro
+166 040,00 Euro
+83 020,40 Euro
+033520062062
+Geestland, Stadt
+1 181 374,29 Euro
+787 583,00 Euro
+393 791,29 Euro
+032410006006
+Gehrden, Stadt
+584 157,30 Euro
+389 438,00 Euro
+194 719,30 Euro
+033555404
+Gellersen, Samtgemeinde
+489 960,08 Euro
+326 640,00 Euro
+163 320,08 Euro
+034590019019
+Georgsmarienhütte, Stadt
+1 199 497,93 Euro
+799 665,00 Euro
+399 832,93 Euro
+031595402
+Gieboldehausen, Samtgemeinde
+505 253,49 Euro
+336 836,00 Euro
+168 417,49 Euro
+032540017017
+Giesen
+357 078,80 Euro
+238 053,00 Euro
+119 025,80 Euro
+03151
+Gifhorn, Landkreis
+6 471 989,17 Euro
+4 314 659,00 Euro
+2 157 330,17 Euro
+031510009009
+Gifhorn, Stadt
+1 610 833,41 Euro
+1 073 889,00 Euro
+536 944,41 Euro
+034590034034
+Glandorf
+248 425,82 Euro
+165 617,00 Euro
+82 808,82 Euro
+031590015015
+Gleichen
+332 799,72 Euro
+221 866,00 Euro
+110 933,72 Euro
+033570016016
+Gnarrenburg
+351 088,35 Euro
+234 059,00 Euro
+117 029,35 Euro
+034600004004
+Goldenstedt
+394 303,33 Euro
+262 869,00 Euro
+131 434,33 Euro
+03153
+Goslar, Landkreis
+4 706 819,60 Euro
+3 137 880,00 Euro
+1 568 939,60 Euro
+031530017017
+Goslar, Stadt
+1 809 292,31 Euro
+1 206 195,00 Euro
+603 097,31 Euro
+03159
+Göttingen, Landkreis
+12 085 066,06 Euro
+8 056 711,00 Euro
+4 028 355,06 Euro
+031590016016
+Göttingen, Stadt
+4 793 422,72 Euro
+3 195 615,00 Euro
+1 597 807,72 Euro
+03456
+Grafschaft Bentheim, Landkreis
+5 296 086,67 Euro
+3 530 724,00 Euro
+1 765 362,67 Euro
+032565409
+Grafschaft Hoya, Samtgemeinde
+644 950,18 Euro
+429 967,00 Euro
+214 983,18 Euro
+033560002002
+Grasberg
+293 658,76 Euro
+195 773,00 Euro
+97 885,76 Euro
+031545401
+Grasleben, Samtgemeinde
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034520006006
+Großefehn
+534 494,99 Euro
+356 330,00 Euro
+178 164,99 Euro
+034580007007
+Großenkneten
+610 289,36 Euro
+406 860,00 Euro
+203 429,36 Euro
+034520007007
+Großheide
+319 714,66 Euro
+213 143,00 Euro
+106 571,66 Euro
+034525403
+Hage, Samtgemeinde
+430 119,08 Euro
+286 746,00 Euro
+143 373,08 Euro
+034590020020
+Hagen am Teutoburger Wald
+503 362,44 Euro
+335 575,00 Euro
+167 787,44 Euro
+033520060060
+Hagen im Bremischen
+408 327,57 Euro
+272 218,00 Euro
+136 109,57 Euro
+033565401
+Hambergen, Samtgemeinde
+450 996,80 Euro
+300 665,00 Euro
+150 331,80 Euro
+033510012012
+Hambühren
+388 160,58 Euro
+258 774,00 Euro
+129 386,58 Euro
+032520006006
+Hameln, Stadt
+2 215 690,75 Euro
+1 477 127,00 Euro
+738 563,75 Euro
+03252
+Hameln-Pyrmont, Landkreis
+5 549 376,33 Euro
+3 699 584,00 Euro
+1 849 792,33 Euro
+031515403
+Hankensbüttel, Samtgemeinde
+335 515,73 Euro
+223 677,00 Euro
+111 838,73 Euro
+031590017017
+Hann. Münden, Stadt
+896 383,91 Euro
+597 589,00 Euro
+298 794,91 Euro
+032410001001
+Hannover, Landeshauptstadt
+19 711 384,16 Euro
+13 140 923,00 Euro
+6 570 461,16 Euro
+03241
+Hannover, Region
+41 884 187,90 Euro
+27 922 791,00 Euro
+13 961 396,90 Euro
+033535402
+Hanstedt, Samtgemeinde
+596 607,79 Euro
+397 739,00 Euro
+198 868,79 Euro
+03353
+Harburg, Landkreis
+9 722 476,25 Euro
+6 481 651,00 Euro
+3 240 825,25 Euro
+031550005005
+Hardegsen, Stadt
+279 342,61 Euro
+186 228,00 Euro
+93 114,61 Euro
+034540018018
+Haren (Ems), Stadt
+927 503,77 Euro
+618 336,00 Euro
+309 167,77 Euro
+034585401
+Harpstedt, Samtgemeinde
+413 696,12 Euro
+275 797,00 Euro
+137 899,12 Euro
+033595403
+Harsefeld, Samtgemeinde
+874 300,48 Euro
+582 867,00 Euro
+291 433,48 Euro
+032540020020
+Harsum
+419 838,87 Euro
+279 893,00 Euro
+139 945,87 Euro
+034590021021
+Hasbergen
+416 716,73 Euro
+277 811,00 Euro
+138 905,73 Euro
+034540019019
+Haselünne, Stadt
+510 723,58 Euro
+340 482,00 Euro
+170 241,58 Euro
+034580009009
+Hatten
+540 206,22 Euro
+360 137,00 Euro
+180 069,22 Euro
+031595403
+Hattorf am Harz, Samtgemeinde
+273 390,24 Euro
+182 260,00 Euro
+91 130,24 Euro
+032565402
+Heemsen, Samtgemeinde
+242 448,06 Euro
+161 632,00 Euro
+80 816,06 Euro
+031545402
+Heeseberg, Samtgemeinde
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+03358
+Heidekreis, Landkreis
+5 261 137,45 Euro
+3 507 425,00 Euro
+1 753 712,45 Euro
+03154
+Helmstedt, Landkreis
+3 346 124,00 Euro
+2 230 749,00 Euro
+1 115 375,00 Euro
+031540028028
+Helmstedt, Stadt
+960 501,98 Euro
+640 335,00 Euro
+320 166,98 Euro
+032410007007
+Hemmingen, Stadt
+720 186,11 Euro
+480 124,00 Euro
+240 062,11 Euro
+033525407
+Hemmoor, Samtgemeinde
+531 855,13 Euro
+354 570,00 Euro
+177 285,13 Euro
+031590019019
+Herzberg am Harz, Stadt
+492 447,64 Euro
+328 298,00 Euro
+164 149,64 Euro
+034545403
+Herzlake, Samtgemeinde
+398 605,79 Euro
+265 737,00 Euro
+132 868,79 Euro
+034575402
+Hesel, Samtgemeinde
+422 745,25 Euro
+281 830,00 Euro
+140 915,25 Euro
+032520007007
+Hessisch Oldendorf, Stadt
+705 717,66 Euro
+470 478,00 Euro
+235 239,66 Euro
+03254
+Hildesheim, Landkreis
+9 875 123,94 Euro
+6 583 416,00 Euro
+3 291 707,94 Euro
+032540021021
+Hildesheim, Stadt
+3 727 872,18 Euro
+2 485 248,00 Euro
+1 242 624,18 Euro
+034590022022
+Hilter am Teutoburger Wald
+385 647,64 Euro
+257 098,00 Euro
+128 549,64 Euro
+034520011011
+Hinte
+274 824,39 Euro
+183 216,00 Euro
+91 608,39 Euro
+031570002002
+Hohenhameln
+355 987,32 Euro
+237 325,00 Euro
+118 662,32 Euro
+034600005005
+Holdorf
+287 833,30 Euro
+191 889,00 Euro
+95 944,30 Euro
+032540022022
+Holle
+254 187,81 Euro
+169 459,00 Euro
+84 728,81 Euro
+033535403
+Hollenstedt, Samtgemeinde
+463 764,57 Euro
+309 176,00 Euro
+154 588,57 Euro
+034625402
+Holtriem, Samtgemeinde
+366 191,38 Euro
+244 128,00 Euro
+122 063,38 Euro
+03255
+Holzminden, Landkreis
+2 436 275,87 Euro
+1 624 184,00 Euro
+812 091,87 Euro
+032550023023
+Holzminden, Stadt
+720 262,26 Euro
+480 175,00 Euro
+240 087,26 Euro
+033595405
+Horneburg, Samtgemeinde
+521 904,90 Euro
+347 937,00 Euro
+173 967,90 Euro
+034580010010
+Hude (Oldenburg)
+608 652,14 Euro
+405 768,00 Euro
+202 884,14 Euro
+034520012012
+Ihlow
+472 610,64 Euro
+315 074,00 Euro
+157 536,64 Euro
+033555405
+Ilmenau, Samtgemeinde
+399 684,57 Euro
+266 456,00 Euro
+133 228,57 Euro
+031570009009
+Ilsede
+822 137,92 Euro
+548 092,00 Euro
+274 045,92 Euro
+031515404
+Isenbüttel, Samtgemeinde
+583 078,52 Euro
+388 719,00 Euro
+194 359,52 Euro
+032410008008
+Isernhagen
+922 020,99 Euro
+614 681,00 Euro
+307 339,99 Euro
+034610005005
+Jade
+224 108,67 Euro
+149 406,00 Euro
+74 702,67 Euro
+034570012012
+Jemgum
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+033535404
+Jesteburg, Samtgemeinde
+416 158,30 Euro
+277 439,00 Euro
+138 719,30 Euro
+034550007007
+Jever, Stadt
+561 870,82 Euro
+374 581,00 Euro
+187 289,82 Euro
+033590028028
+Jork
+447 062,40 Euro
+298 042,00 Euro
+149 020,40 Euro
+034520013013
+Juist, Inselgemeinde
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034575403
+Jümme, Samtgemeinde
+260 254,41 Euro
+173 503,00 Euro
+86 751,41 Euro
+031550006006
+Kalefeld
+219 755,44 Euro
+146 504,00 Euro
+73 251,44 Euro
+031550007007
+Katlenburg-Lindau
+257 627,24 Euro
+171 751,00 Euro
+85 876,24 Euro
+032515404
+Kirchdorf, Samtgemeinde
+274 113,66 Euro
+182 742,00 Euro
+91 371,66 Euro
+033610005005
+Kirchlinteln
+385 482,65 Euro
+256 988,00 Euro
+128 494,65 Euro
+031540013013
+Königslutter am Elm, Stadt
+587 330,21 Euro
+391 553,00 Euro
+195 777,21 Euro
+034520014014
+Krummhörn
+434 776,91 Euro
+289 851,00 Euro
+144 925,91 Euro
+032410009009
+Laatzen, Stadt
+1 598 750,98 Euro
+1 065 834,00 Euro
+532 916,98 Euro
+033515403
+Lachendorf, Samtgemeinde
+471 811,06 Euro
+314 541,00 Euro
+157 270,06 Euro
+032540044044
+Lamspringe
+208 167,99 Euro
+138 779,00 Euro
+69 388,99 Euro
+033525411
+Land Hadeln, Samtgemeinde
+1 012 753,39 Euro
+675 169,00 Euro
+337 584,39 Euro
+031530019019
+Langelsheim, Stadt
+561 731,21 Euro
+374 487,00 Euro
+187 244,21 Euro
+032410010010
+Langenhagen, Stadt
+2 057 680,05 Euro
+1 371 787,00 Euro
+685 893,05 Euro
+034620007007
+Langeoog
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+033610006006
+Langwedel, Flecken
+550 752,95 Euro
+367 169,00 Euro
+183 583,95 Euro
+034530009009
+Lastrup
+288 810,56 Euro
+192 540,00 Euro
+96 270,56 Euro
+034545404
+Lathen, Samtgemeinde
+454 969,28 Euro
+303 313,00 Euro
+151 656,28 Euro
+034570013013
+Leer (Ostfriesland), Stadt
+1 295 091,23 Euro
+863 394,00 Euro
+431 697,23 Euro
+03457
+Leer, Landkreis
+6 232 595,58 Euro
+4 155 064,00 Euro
+2 077 531,58 Euro
+031540014014
+Lehre
+457 291,85 Euro
+304 861,00 Euro
+152 430,85 Euro
+032410011011
+Lehrte, Stadt
+1 668 567,60 Euro
+1 112 378,00 Euro
+556 189,60 Euro
+032545406
+Leinebergland, Samtgemeinde
+673 874,38 Euro
+449 250,00 Euro
+224 624,38 Euro
+034610006006
+Lemwerder
+264 315,73 Euro
+176 210,00 Euro
+88 105,73 Euro
+031570005005
+Lengede
+544 749,82 Euro
+363 167,00 Euro
+181 582,82 Euro
+034545405
+Lengerich, Samtgemeinde
+358 246,43 Euro
+238 831,00 Euro
+119 415,43 Euro
+031530008008
+Liebenburg
+301 819,47 Euro
+201 213,00 Euro
+100 606,47 Euro
+033560005005
+Lilienthal
+763 413,78 Euro
+508 943,00 Euro
+254 470,78 Euro
+034530010010
+Lindern (Oldenburg)
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+032575402
+Lindhorst, Samtgemeinde
+290 003,57 Euro
+193 336,00 Euro
+96 667,57 Euro
+034540032032
+Lingen (Ems), Stadt
+2 122 242,33 Euro
+1 414 828,00 Euro
+707 414,33 Euro
+034600006006
+Lohne (Oldenburg), Stadt
+1 070 335,28 Euro
+713 557,00 Euro
+356 778,28 Euro
+034530011011
+Löningen, Stadt
+545 333,63 Euro
+363 556,00 Euro
+181 777,63 Euro
+033520032032
+Loxstedt
+610 340,12 Euro
+406 893,00 Euro
+203 447,12 Euro
+033545407
+Lüchow (Wendland), Samtgemeinde
+887 499,77 Euro
+591 667,00 Euro
+295 832,77 Euro
+03354
+Lüchow-Dannenberg, Landkreis
+1 724 342,18 Euro
+1 149 561,00 Euro
+574 781,18 Euro
+033595406
+Luehe, Samtgemeinde
+375 748,17 Euro
+250 499,00 Euro
+125 249,17 Euro
+033550022022
+Lüneburg, Hansestadt
+2 808 770,27 Euro
+1 872 514,00 Euro
+936 256,27 Euro
+03355
+Lüneburg, Landkreis
+6 572 864,79 Euro
+4 381 910,00 Euro
+2 190 954,79 Euro
+031515405
+Meinersen, Samtgemeinde
+758 311,75 Euro
+505 541,00 Euro
+252 770,75 Euro
+034590024024
+Melle, Stadt
+1 765 950,42 Euro
+1 177 300,00 Euro
+588 650,42 Euro
+034540035035
+Meppen, Stadt
+1 397 893,37 Euro
+931 929,00 Euro
+465 964,37 Euro
+032565410
+Mittelweser, Samtgemeinde
+590 414,27 Euro
+393 610,00 Euro
+196 804,27 Euro
+034530012012
+Molbergen
+353 004,79 Euro
+235 337,00 Euro
+117 667,79 Euro
+034570014014
+Moormerland
+890 431,54 Euro
+593 621,00 Euro
+296 810,54 Euro
+031550009009
+Moringen, Stadt
+252 398,29 Euro
+168 266,00 Euro
+84 132,29 Euro
+033580016016
+Munster, Stadt
+574 752,81 Euro
+383 169,00 Euro
+191 583,81 Euro
+032575403
+Nenndorf, Samtgemeinde
+679 065,26 Euro
+452 710,00 Euro
+226 355,26 Euro
+033530026026
+Neu Wulmstorf
+874 858,92 Euro
+583 239,00 Euro
+291 619,92 Euro
+034565402
+Neuenhaus, Samtgemeinde
+564 688,36 Euro
+376 459,00 Euro
+188 229,36 Euro
+033580017017
+Neuenkirchen
+208 561,43 Euro
+139 041,00 Euro
+69 520,43 Euro
+034595404
+Neuenkirchen, Samtgemeinde
+386 180,69 Euro
+257 454,00 Euro
+128 726,69 Euro
+034600007007
+Neuenkirchen-Vörden
+338 015,98 Euro
+225 344,00 Euro
+112 671,98 Euro
+032410012012
+Neustadt am Rübenberge, Stadt
+1 693 836,62 Euro
+1 129 224,00 Euro
+564 612,62 Euro
+032575404
+Niedernwöhren, Samtgemeinde
+291 412,34 Euro
+194 275,00 Euro
+97 137,34 Euro
+03256
+Nienburg (Weser), Landkreis
+4 477 350,02 Euro
+2 984 900,00 Euro
+1 492 450,02 Euro
+032560022022
+Nienburg (Weser), Stadt
+1 234 006,45 Euro
+822 671,00 Euro
+411 335,45 Euro
+032575405
+Nienstaedt, Samtgemeinde
+379 390,67 Euro
+252 927,00 Euro
+126 463,67 Euro
+031545403
+Nord-Elm, Samtgemeinde
+216 582,54 Euro
+144 388,00 Euro
+72 194,54 Euro
+034520019019
+Norden, Stadt
+952 112,82 Euro
+634 742,00 Euro
+317 370,82 Euro
+034610007007
+Nordenham, Stadt
+991 317,24 Euro
+660 878,00 Euro
+330 439,24 Euro
+034520020020
+Norderney, Stadt
+205 756,58 Euro
+137 171,00 Euro
+68 585,58 Euro
+034560015015
+Nordhorn, Stadt
+2 147 777,88 Euro
+1 431 852,00 Euro
+715 925,88 Euro
+034545406
+Nordhümmling, Samtgemeinde
+466 226,75 Euro
+310 818,00 Euro
+155 408,75 Euro
+033595407
+Nordkehdingen, Samtgemeinde
+267 539,40 Euro
+178 360,00 Euro
+89 179,40 Euro
+032540026026
+Nordstemmen
+455 058,12 Euro
+303 372,00 Euro
+151 686,12 Euro
+031550010010
+Nörten-Hardenberg, Flecken
+291 755,02 Euro
+194 503,00 Euro
+97 252,02 Euro
+03155
+Northeim, Landkreis
+4 655 908,35 Euro
+3 103 939,00 Euro
+1 551 969,35 Euro
+031550011011
+Northeim, Stadt
+1 042 921,38 Euro
+695 281,00 Euro
+347 640,38 Euro
+032570028028
+Obernkirchen, Stadt
+339 577,05 Euro
+226 385,00 Euro
+113 192,05 Euro
+031585403
+Oderwald, Samtgemeinde
+254 822,39 Euro
+169 882,00 Euro
+84 940,39 Euro
+034030000000
+Oldenburg (Oldb), Stadt
+13 099 823,11 Euro
+8 733 215,00 Euro
+4 366 608,11 Euro
+03458
+Oldenburg, Landkreis
+4 860 942,99 Euro
+3 240 629,00 Euro
+1 620 313,99 Euro
+033595409
+Oldendorf-Himmelpforten, Samtgemeinde
+701 567,50 Euro
+467 712,00 Euro
+233 855,50 Euro
+03459
+Osnabrück, Landkreis
+13 131 194,04 Euro
+8 754 129,00 Euro
+4 377 065,04 Euro
+034040000000
+Osnabrück, Stadt
+12 369 318,86 Euro
+8 246 213,00 Euro
+4 123 105,86 Euro
+034590029029
+Ostercappeln
+376 522,36 Euro
+251 015,00 Euro
+125 507,36 Euro
+03356
+Osterholz, Landkreis
+4 187 303,42 Euro
+2 791 536,00 Euro
+1 395 767,42 Euro
+033560007007
+Osterholz-Scharmbeck, Stadt
+1 136 674,40 Euro
+757 783,00 Euro
+378 891,40 Euro
+031590026026
+Osterode am Harz, Stadt
+826 783,05 Euro
+551 189,00 Euro
+275 594,05 Euro
+033555406
+Ostheide, Samtgemeinde
+392 183,82 Euro
+261 456,00 Euro
+130 727,82 Euro
+034570017017
+Ostrhauderfehn
+443 178,76 Euro
+295 453,00 Euro
+147 725,76 Euro
+033610008008
+Ottersberg, Flecken
+500 824,11 Euro
+333 883,00 Euro
+166 941,11 Euro
+034610008008
+Ovelgönne
+205 198,15 Euro
+136 799,00 Euro
+68 399,15 Euro
+033610009009
+Oyten
+619 478,09 Euro
+412 985,00 Euro
+206 493,09 Euro
+034540041041
+Papenburg, Stadt
+1 418 529,95 Euro
+945 687,00 Euro
+472 842,95 Euro
+031515406
+Papenteich, Samtgemeinde
+922 325,58 Euro
+614 884,00 Euro
+307 441,58 Euro
+032410013013
+Pattensen, Stadt
+559 586,32 Euro
+373 058,00 Euro
+186 528,32 Euro
+03157
+Peine, Landkreis
+5 041 481,19 Euro
+3 360 987,00 Euro
+1 680 494,19 Euro
+031570006006
+Peine, Stadt
+1 927 121,33 Euro
+1 284 748,00 Euro
+642 373,33 Euro
+031595404
+Radolfshausen, Samtgemeinde
+276 778,90 Euro
+184 519,00 Euro
+92 259,90 Euro
+034510005005
+Rastede
+864 388,33 Euro
+576 259,00 Euro
+288 129,33 Euro
+032560025025
+Rehburg-Loccum, Stadt
+376 509,67 Euro
+251 006,00 Euro
+125 503,67 Euro
+032515405
+Rehden, Samtgemeinde
+234 477,72 Euro
+156 318,00 Euro
+78 159,72 Euro
+033585402
+Rethem/Aller, Samtgemeinde
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034570018018
+Rhauderfehn
+690 741,55 Euro
+460 494,00 Euro
+230 247,55 Euro
+034540044044
+Rhede (Ems)
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+032570031031
+Rinteln, Stadt
+976 747,26 Euro
+651 165,00 Euro
+325 582,26 Euro
+033560008008
+Ritterhude
+562 467,32 Euro
+374 978,00 Euro
+187 489,32 Euro
+032575406
+Rodenberg, Samtgemeinde
+591 315,38 Euro
+394 210,00 Euro
+197 105,38 Euro
+032410014014
+Ronnenberg, Stadt
+905 433,03 Euro
+603 622,00 Euro
+301 811,03 Euro
+033605404
+Rosche, Samtgemeinde
+246 547,46 Euro
+164 365,00 Euro
+82 182,46 Euro
+031590029029
+Rosdorf
+460 375,91 Euro
+306 917,00 Euro
+153 458,91 Euro
+033530029029
+Rosengarten
+535 129,57 Euro
+356 753,00 Euro
+178 376,57 Euro
+03357
+Rotenburg (Wümme), Landkreis
+6 082 690,21 Euro
+4 055 127,00 Euro
+2 027 563,21 Euro
+033570039039
+Rotenburg (Wümme), Stadt
+871 521,02 Euro
+581 014,00 Euro
+290 507,02 Euro
+032575407
+Sachsenhagen, Samtgemeinde
+350 047,64 Euro
+233 365,00 Euro
+116 682,64 Euro
+034540045045
+Salzbergen
+301 286,42 Euro
+200 858,00 Euro
+100 428,42 Euro
+031020000000
+Salzgitter, Stadt
+7 850 502,99 Euro
+5 233 669,00 Euro
+2 616 833,99 Euro
+033535405
+Salzhausen, Samtgemeinde
+555 613,85 Euro
+370 409,00 Euro
+185 204,85 Euro
+032520008008
+Salzhemmendorf, Flecken
+350 339,55 Euro
+233 560,00 Euro
+116 779,55 Euro
+034550014014
+Sande
+329 055,69 Euro
+219 370,00 Euro
+109 685,69 Euro
+032540028028
+Sarstedt, Stadt
+731 215,13 Euro
+487 477,00 Euro
+243 738,13 Euro
+031510025025
+Sassenburg
+457 926,43 Euro
+305 284,00 Euro
+152 642,43 Euro
+034530013013
+Saterland
+547 161,23 Euro
+364 774,00 Euro
+182 387,23 Euro
+033555407
+Scharnebeck, Samtgemeinde
+577 506,89 Euro
+385 005,00 Euro
+192 501,89 Euro
+03257
+Schaumburg, Landkreis
+5 785 880,03 Euro
+3 857 253,00 Euro
+1 928 627,03 Euro
+033570041041
+Scheeßel
+483 322,36 Euro
+322 215,00 Euro
+161 107,36 Euro
+032540029029
+Schellerten
+283 911,59 Euro
+189 274,00 Euro
+94 637,59 Euro
+033520050050
+Schiffdorf
+552 225,18 Euro
+368 150,00 Euro
+184 075,18 Euro
+031580039039
+Schladen-Werla
+329 829,88 Euro
+219 887,00 Euro
+109 942,88 Euro
+033580019019
+Schneverdingen, Stadt
+720 173,42 Euro
+480 116,00 Euro
+240 057,42 Euro
+031540019019
+Schöningen, Stadt
+425 740,47 Euro
+283 827,00 Euro
+141 913,47 Euro
+034550015015
+Schortens, Stadt
+793 911,75 Euro
+529 275,00 Euro
+264 636,75 Euro
+034565403
+Schüttorf, Samtgemeinde
+635 532,99 Euro
+423 689,00 Euro
+211 843,99 Euro
+032515406
+Schwaförden, Samtgemeinde
+257 195,73 Euro
+171 464,00 Euro
+85 731,73 Euro
+033560009009
+Schwanewede
+761 548,11 Euro
+507 699,00 Euro
+253 849,11 Euro
+033585403
+Schwarmstedt, Samtgemeinde
+498 222,33 Euro
+332 148,00 Euro
+166 074,33 Euro
+032410015015
+Seelze, Stadt
+1 310 359,25 Euro
+873 573,00 Euro
+436 786,25 Euro
+031530012012
+Seesen, Stadt
+712 050,78 Euro
+474 701,00 Euro
+237 349,78 Euro
+033530031031
+Seevetal
+1 666 105,42 Euro
+1 110 737,00 Euro
+555 368,42 Euro
+032410016016
+Sehnde, Stadt
+891 383,41 Euro
+594 256,00 Euro
+297 127,41 Euro
+033575404
+Selsingen, Samtgemeinde
+350 821,83 Euro
+233 881,00 Euro
+116 940,83 Euro
+032540045045
+Sibbesse
+206 061,18 Euro
+137 374,00 Euro
+68 687,18 Euro
+031585406
+Sickte, Samtgemeinde
+390 000,87 Euro
+260 001,00 Euro
+129 999,87 Euro
+032515407
+Siedenburg, Samtgemeinde
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+033575405
+Sittensen, Samtgemeinde
+441 744,61 Euro
+294 496,00 Euro
+147 248,61 Euro
+034545407
+Sögel, Samtgemeinde
+643 147,97 Euro
+428 765,00 Euro
+214 382,97 Euro
+032540032032
+Söhlde
+286 361,08 Euro
+190 907,00 Euro
+95 454,08 Euro
+033580021021
+Soltau, Stadt
+849 577,20 Euro
+566 385,00 Euro
+283 192,20 Euro
+033575406
+Sottrum, Samtgemeinde
+555 321,94 Euro
+370 215,00 Euro
+185 106,94 Euro
+034545408
+Spelle, Samtgemeinde
+546 742,40 Euro
+364 495,00 Euro
+182 247,40 Euro
+034620014014
+Spiekeroog
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+032410017017
+Springe, Stadt
+1 088 078,17 Euro
+725 385,00 Euro
+362 693,17 Euro
+033590038038
+Stade, Hansestadt
+1 839 346,07 Euro
+1 226 231,00 Euro
+613 115,07 Euro
+03359
+Stade, Landkreis
+7 620 997,24 Euro
+5 080 665,00 Euro
+2 540 332,24 Euro
+034610009009
+Stadland
+290 688,92 Euro
+193 793,00 Euro
+96 895,92 Euro
+032570035035
+Stadthagen, Stadt
+851 849,00 Euro
+567 899,00 Euro
+283 950,00 Euro
+031590034034
+Staufenberg
+287 998,30 Euro
+191 999,00 Euro
+95 999,30 Euro
+032565407
+Steimbke, Samtgemeinde
+280 561,01 Euro
+187 041,00 Euro
+93 520,01 Euro
+034600008008
+Steinfeld (Oldenburg)
+388 325,57 Euro
+258 884,00 Euro
+129 441,57 Euro
+033530032032
+Stelle
+447 430,46 Euro
+298 287,00 Euro
+149 143,46 Euro
+032560030030
+Steyerberg, Flecken
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+032510037037
+Stuhr
+1 279 924,74 Euro
+853 283,00 Euro
+426 641,74 Euro
+034520023023
+Südbrookmerland
+699 016,49 Euro
+466 011,00 Euro
+233 005,49 Euro
+033605405
+Suderburg, Samtgemeinde
+251 192,59 Euro
+167 462,00 Euro
+83 730,59 Euro
+033510026026
+Südheide
+422 897,55 Euro
+281 932,00 Euro
+140 965,55 Euro
+032510040040
+Sulingen, Stadt
+502 778,62 Euro
+335 186,00 Euro
+167 592,62 Euro
+032510041041
+Syke, Stadt
+952 201,66 Euro
+634 801,00 Euro
+317 400,66 Euro
+033575407
+Tarmstedt, Samtgemeinde
+416 704,04 Euro
+277 803,00 Euro
+138 901,04 Euro
+033615401
+Thedinghausen, Samtgemeinde
+587 622,12 Euro
+391 748,00 Euro
+195 874,12 Euro
+033535406
+Tostedt, Samtgemeinde
+1 018 921,52 Euro
+679 281,00 Euro
+339 640,52 Euro
+034540054054
+Twist
+372 549,88 Euro
+248 367,00 Euro
+124 182,88 Euro
+032510042042
+Twistringen, Stadt
+491 749,60 Euro
+327 833,00 Euro
+163 916,60 Euro
+032565408
+Uchte, Samtgemeinde
+518 960,44 Euro
+345 974,00 Euro
+172 986,44 Euro
+034565404
+Uelsen, Samtgemeinde
+440 031,24 Euro
+293 354,00 Euro
+146 677,24 Euro
+033600025025
+Uelzen, Hansestadt
+1 250 150,19 Euro
+833 433,00 Euro
+416 717,19 Euro
+03360
+Uelzen, Landkreis
+3 364 545,51 Euro
+2 243 030,00 Euro
+1 121 515,51 Euro
+032410018018
+Uetze
+765 292,14 Euro
+510 195,00 Euro
+255 097,14 Euro
+034570020020
+Uplengen
+455 426,18 Euro
+303 617,00 Euro
+151 809,18 Euro
+031550012012
+Uslar, Stadt
+517 082,08 Euro
+344 721,00 Euro
+172 361,08 Euro
+034550026026
+Varel, Stadt
+940 157,31 Euro
+626 772,00 Euro
+313 385,31 Euro
+031570007007
+Vechelde
+692 962,58 Euro
+461 975,00 Euro
+230 987,58 Euro
+03460
+Vechta, Landkreis
+5 386 435,71 Euro
+3 590 957,00 Euro
+1 795 478,71 Euro
+034600009009
+Vechta, Stadt
+1 271 979,78 Euro
+847 987,00 Euro
+423 992,78 Euro
+031545404
+Velpke, Samtgemeinde
+498 108,10 Euro
+332 072,00 Euro
+166 036,10 Euro
+033610012012
+Verden (Aller), Stadt
+1 034 329,15 Euro
+689 553,00 Euro
+344 776,15 Euro
+03361
+Verden, Landkreis
+5 086 083,88 Euro
+3 390 723,00 Euro
+1 695 360,88 Euro
+034600010010
+Visbek
+371 471,10 Euro
+247 647,00 Euro
+123 824,10 Euro
+033570051051
+Visselhövede, Stadt
+360 746,68 Euro
+240 498,00 Euro
+120 248,68 Euro
+032510044044
+Wagenfeld
+269 658,90 Euro
+179 773,00 Euro
+89 885,90 Euro
+031590036036
+Walkenried
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034590033033
+Wallenhorst
+865 010,22 Euro
+576 673,00 Euro
+288 337,22 Euro
+033580024024
+Walsrode, Stadt
+1 184 318,75 Euro
+789 546,00 Euro
+394 772,75 Euro
+034550020020
+Wangerland
+346 214,77 Euro
+230 810,00 Euro
+115 404,77 Euro
+034550021021
+Wangerooge, Nordseebad
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034580013013
+Wardenburg
+622 777,91 Euro
+415 185,00 Euro
+207 592,91 Euro
+033515404
+Wathlingen, Samtgemeinde
+589 931,99 Euro
+393 288,00 Euro
+196 643,99 Euro
+032410019019
+Wedemark
+1 125 442,31 Euro
+750 295,00 Euro
+375 147,31 Euro
+034570021021
+Weener, Stadt
+584 969,57 Euro
+389 980,00 Euro
+194 989,57 Euro
+031570008008
+Wendeburg
+388 731,70 Euro
+259 154,00 Euro
+129 577,70 Euro
+032410020020
+Wennigsen (Deister)
+540 295,06 Euro
+360 197,00 Euro
+180 098,06 Euro
+034545409
+Werlte, Samtgemeinde
+667 693,56 Euro
+445 129,00 Euro
+222 564,56 Euro
+031515407
+Wesendorf, Samtgemeinde
+566 744,40 Euro
+377 830,00 Euro
+188 914,40 Euro
+032565411
+Weser-Aue, Samtgemeinde
+536 335,27 Euro
+357 557,00 Euro
+178 778,27 Euro
+03461
+Wesermarsch, Landkreis
+3 285 276,44 Euro
+2 190 184,00 Euro
+1 095 092,44 Euro
+034510007007
+Westerstede, Stadt
+909 989,33 Euro
+606 660,00 Euro
+303 329,33 Euro
+034570022022
+Westoverledingen
+800 689,07 Euro
+533 793,00 Euro
+266 896,07 Euro
+032510047047
+Weyhe
+1 172 731,29 Euro
+781 821,00 Euro
+390 910,29 Euro
+034510008008
+Wiefelstede
+621 318,38 Euro
+414 212,00 Euro
+207 106,38 Euro
+034520025025
+Wiesmoor, Stadt
+528 910,67 Euro
+352 607,00 Euro
+176 303,67 Euro
+034560025025
+Wietmarschen
+492 219,19 Euro
+328 146,00 Euro
+164 073,19 Euro
+033510023023
+Wietze
+281 982,47 Euro
+187 988,00 Euro
+93 994,47 Euro
+033580023023
+Wietzendorf
+200 000,00 Euro
+133 333,00 Euro
+66 667,00 Euro
+034580014014
+Wildeshausen, Stadt
+799 140,70 Euro
+532 760,00 Euro
+266 380,70 Euro
+034050000000
+Wilhelmshaven, Stadt
+5 675 133,15 Euro
+3 783 422,00 Euro
+1 891 711,15 Euro
+033510024024
+Winsen (Aller)
+482 637,02 Euro
+321 758,00 Euro
+160 879,02 Euro
+033530040040
+Winsen (Luhe), Stadt
+1 393 299,00 Euro
+928 866,00 Euro
+464 433,00 Euro
+031510040040
+Wittingen, Stadt
+426 375,06 Euro
+284 250,00 Euro
+142 125,06 Euro
+03462
+Wittmund, Landkreis
+2 064 672,87 Euro
+1 376 449,00 Euro
+688 223,87 Euro
+034620019019
+Wittmund, Stadt
+763 883,37 Euro
+509 256,00 Euro
+254 627,37 Euro
+03158
+Wolfenbüttel, Landkreis
+4 362 541,44 Euro
+2 908 361,00 Euro
+1 454 180,44 Euro
+031580037037
+Wolfenbüttel, Stadt
+1 988 713,77 Euro
+1 325 809,00 Euro
+662 904,77 Euro
+031030000000
+Wolfsburg, Stadt
+9 622 150,09 Euro
+6 414 767,00 Euro
+3 207 383,09 Euro
+033560011011
+Worpswede
+352 776,34 Euro
+235 184,00 Euro
+117 592,34 Euro
+032410021021
+Wunstorf, Stadt
+1 563 557,12 Euro
+1 042 371,00 Euro
+521 186,12 Euro
+033520061061
+Wurster Nordseeküste
+636 573,71 Euro
+424 382,00 Euro
+212 191,71 Euro
+034550027027
+Zetel
+464 449,92 Euro
+309 633,00 Euro
+154 816,92 Euro
+033575408
+Zeven, Samtgemeinde
+878 818,70 Euro
+585 879,00 Euro
+292 939,70 Euro
