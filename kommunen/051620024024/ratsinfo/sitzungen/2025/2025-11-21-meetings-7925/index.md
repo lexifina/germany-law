@@ -1,0 +1,69 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-11-21T16:00:00+01:00
+- Ende: 2025-11-21T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7925
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7925
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 21.11.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00233931.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 21.11.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00233931.pdf
+- Wortprotokoll: Sitzungspaket RAT 21.11.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00233931.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Beschlussfassungen des Rates
+- TOP 4: Änderung der Hauptsatzung, der Geschäftsordnung des Rates sowie der Zuständigkeitsordnung - mit Änderungen einstimmig zugestimmt
+- TOP 5: Bestellung der Ausschussmitglieder und stellvertretenden Ausschussmitglieder - mit Änderungen einstimmig zugestimmt
+- TOP 6: Besetzung des Wahlprüfungsausschusses - einstimmig zugestimmt
+- TOP 7: Besetzung des Wahlausschusses - einstimmig zugestimmt
+- TOP 8: Bestellung von Stadtverordneten in den Umlegungsausschuss - einstimmig zugestimmt
+- TOP 9: Bestellung der in den Ausschuss für Chancengerechtigkeit und Integration zu entsendenden Stadtverordneten - einstimmig zugestimmt
+- TOP 10: Berufung je eines Vertreters/einer Vertreterin der Katholischen und der Evangelischen Kirche als beratendes Mitglied im Schulausschuss - einstimmig zugestimmt
+- TOP 11: Berufung von Vertreter/-innen der Schulen zur ständigen Beratung im Schulausschuss - einstimmig zugestimmt
+- TOP 12: Vertretung der Stadt Neuss in Drittgremien hier: Verein "Rheinisches Landestheater - vereinigt mit dem Theater Niederrhein-Neuss e.V." - einstimmig zugestimmt
+- TOP 13: Vertretung der Stadt Neuss in Drittgremien hier: Kuratorium der Stiftung Insel Hombroich - einstimmig zugestimmt
+- TOP 14: Vertretung der Stadt Neuss in Drittgremien hier: Verein "Kulturförderung Nordrhein-Westfalen e.V." - einstimmig zugestimmt
+- TOP 15: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 16: Vertretung der Stadt Neuss in Drittgremien; hier: Verbandsversammlung der ITK Rheinland - einstimmig zugestimmt
+- TOP 17: Vertretung der Stadt Neuss in Drittgremien, hier: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr (VRR) und Gesellschafterversammlung der Kooperationsgesellschaft Mittlerer Niederrhein GbR (KMN) - einstimmig zugestimmt
+- TOP 18: Vertretung der Stadt Neuss in den Drittgremien, hier: Verbandsversammlung des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss, der Stadt Korschenbroich und der Stadt Kaarst und Verwaltungsrat der Sparkasse Neuss - einstimmig zugestimmt
+- TOP 19: Vertretung der Stadt Neuss in den Drittgremien, hier: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (RSGV) - einstimmig zugestimmt
+- TOP 20: Vertretung der Stadt Neuss in den Drittgremien, hier: Kuratorien der Jubiläumsstiftung, Sparkassenstiftung Neuss, Stiftung Sport - einstimmig zugestimmt
+- TOP 21: Besetzung der Gesellschafterversammlungen in städtischen Beteiligungsgesellschaften - Bestätigung und Fortschreibung des Beschlusses vom 24.10.2014 - einstimmig zugestimmt
+- TOP 22: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat Stadtwerke Neuss GmbH - einstimmig zugestimmt
+- TOP 23: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat und Geschäftsführung der Stadtwerke Neuss Energie und Wasser GmbH - einstimmig zugestimmt
+- TOP 24: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Neusser Bäder und Eisporthalle GmbH - einstimmig zugestimmt
+- TOP 25: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Stadtwerke Neuss Verkehrs- und Service AG - einstimmig zugestimmt
+- TOP 26: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Regionalen Bahngesellschaft mbH (Regiobahn) - einstimmig zugestimmt
+- TOP 27: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Verkehrsgesellschaft Kreis Neuss mbH - einstimmig zugestimmt
+- TOP 28: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Gesellschafterversammlung und Aufsichtsrat der Abfall- und Wertstofflogistik Neuss GmbH - einstimmig zugestimmt
+- TOP 29: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungen, hier: Betriebsausschuss (Satzungsänderung) und Betriebsleitung - einstimmig zugestimmt
+- TOP 30: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungen, hier: Verwaltungsrat (Satzungsänderung, Wahl) und Vorstand der Infrastruktur Neuss AöR - einstimmig zugestimmt
+- TOP 31: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Kreiswerke Grevenbroich GmbH - einstimmig zugestimmt
+- TOP 32: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Rheinland Klinikum Neuss GmbH - einstimmig zugestimmt
+- TOP 33: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Gebäudemanagement Neuss Service GmbH - einstimmig zugestimmt
+- TOP 34: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Neusser Bauverein GmbH - einstimmig zugestimmt
+- TOP 35: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Neuss-Düsseldorfer Häfen GmbH & Co. KG - einstimmig zugestimmt
+- TOP 36: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der RheinCargo GmbH & Co. KG - einstimmig zugestimmt
+- TOP 37: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Hafen Krefeld GmbH & Co. KG - einstimmig zugestimmt
+- TOP 38: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - einstimmig zugestimmt
+- TOP 39: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Beirat der Stadthafen Neuss VerwaltungsGmbH - einstimmig zugestimmt
+- TOP 40: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat der elco GmbH (vorm. GWN) - einstimmig zugestimmt
+- TOP 41: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Beirat der Neusser Marketing GmbH & Co. KG / Vertretung in der Gesellschafterversammlung zwecks Vergabe TGA-Planung Stadthalle Neuss - einstimmig zugestimmt
+- TOP 42: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften, hier: Aufsichtsrat und Geschäftsführung der Landesgartenschau Neuss 2026 GmbH - einstimmig zugestimmt
+- TOP 42.1: Antrag des Rheinischen Landestheaters Neuss auf Erhöhung der institutionellen Förderung - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 43: Antrag der Fraktion DIE LINKE betr.: Beteiligungsrechte der Menschen mit Behinderung und ihrer Organisationen sicherstellen - verwiesen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 44: Änderungen des Geschäfts- und Dezernatsverteilungsplanes zum 01.01.2026 und 01.04.2026 - zur Kenntnis genommen
+- TOP 45: Inklusion in den Gremien der Stadt Neuss - zur Kenntnis genommen
+- TOP 46: Widerspruchsrecht zur Bestimmung von Ausschussvorsitzenden - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
