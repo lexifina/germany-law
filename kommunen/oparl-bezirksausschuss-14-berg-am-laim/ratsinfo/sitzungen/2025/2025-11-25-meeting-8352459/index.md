@@ -1,0 +1,90 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-11-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352459
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352459
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzungen vom 30.09.2025 und 28.10.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 28.10.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Schaffung von Fahrradübergängen entlang des Verlaufs des Hachinger Bachs -vertagt aus der Plenumssitzung vom 28.10.2025-
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: St.-Veit-Str. 6 - Nachverdichtung Wohnanlage Aufstockungen mit 2 Geschossen und 88 Wohneinheiten und Neubauerweiterung Wohnheim mit 77 Wohneinheiten (St.-Veit-Str. 6-8 / Sankt-Veit-Str. 13-23)- VORBESCHEID -vertagt aus der Plenumssitzung vom 28.10.2025-
+- TOP 3.1.2.: Aufstellung von speziellen Mülleimern für Zigarettenstummel und Kronkorken an Treffpunkten im Stadtbezirk Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.1.3.: Beleuchtung für den neuen Fußweg zum ESV München Ost zwischen Baumkirchner und Herrmann-Weinhauser-Straße; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.1.4.: Keine lärmenden, kraftstoffbetriebenen Laubbläser mehr in städtischen Wohnanlagen; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Zugeparkter Gehweg in der Annabrunner Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Fahrradweg in der Neumarkter Str. Richtung stadtauswärts; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Verbesserung der Parksituation rund um den Piusplatz; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Grüne Welle für Radverkehr auf der Berg-am-Laim-Straße; Antrag der Grünen Fraktion
+- TOP 3.2.5.: Verkehrssituation Kreillerstraße / Ecke St.-Veit- Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Separate Linksabbieger-Ampelphase an der Kreuzung Kreiller-/St.-Veit-Straße; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.7.: Prüfung einer nutzerfreundlicheren Lösung für den Fußgängerzugang am Ostbahnhof (Friedenstraße) während der Bauphase der zweiten Stammstrecke; Antrag der CSU-Fraktion
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Planung der mobilen Kunst-Spiel-Aktionen 2026 und 2027, Frist bis zum 15.12.2025
+- TOP 3.3.2.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau; Anhörung des Referats für Bildung und Sport
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Condrobs e. V. Therapeutische Reittherapie und Naturpädagogik mit älteren Substanzkonsumenten vom 01.01. - 30.06.2026 783,60 €; Az. 0262.0-14-0476
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 Die KIKUS-Methode (Kinder in Kulturen und Sprachen), Deutsch als Zweitsprache von Febrar - Juli 2026 5.120,00 €; Az. 0262.0-14-0482
+- TOP 3.5.3.: Abfrage Hybridsitzungen 2026
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: St.-Veit-Str. 6 -vertagt aus der Plenumssitzung vom 28.10.2025-
+- TOP 3.6.2.: Neumarkter Str. 88
+- TOP 3.6.3.: Josephsburgstr. 55
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Oktober 2025
+- TOP 4.1.2.: Einrichtung eines betreuten Taubenschlags in der Nähe des Behrparks
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht der Einzelprojekte Bahnübergang Fasanerie, Feldmochinger Straße, Bahnübergang Lerchenauer Straße und Bahnübergang Lerchenstraße 3. Abrechnungsverfahren für Eisenbahnkreuzungsmaßnahmen
+- TOP 4.2.2.: Neue Radwegführung für Isar-Inn-Radweg, Bürgervorschlag für Berg am Laim und Trudering
+- TOP 4.2.3.: Entfernung von acht Anlehnbügeln der Fahrradabstellanlage in der Piusstr. 9
+- TOP 4.2.4.: Tempo 30 in der Friedenstr. sowie Tempo-Verstetigungen
+- TOP 4.2.5.: Rückmeldung U-Bahn-Abgang Michaelibad: Fahrrad- in e-Scooter-Stellplätze umwandeln, 20-26 / B 06174
+- TOP 4.2.6.: Anwohnerparken im Technischen Rathaus ermöglichen
+- TOP 4.2.7.: Herstellung des Fußwegs Michaeliburgstraße
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 4.3.2.: Künstlerische Neugestaltung der Fußgänger- und Fahrradunterführung am Innsbrucker Ring zwischen Echardinger Grünstreifen und Erdinger Park
+- TOP 4.3.3.: (U) Änderung der Spielplatzsatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über die Größe, Lage, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen, die Art der Erfüllung der Spielplatzpflicht sowie über die Ablöse (Spielplatzsatzung – SpielplatzS)
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Fortsetzung Projekt im Kulturbürgerhaus in Berg am Laim
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Neuerlass der Baumschutzverordnung der Landeshauptstadt München (BaumschutzV) - zeitgemäßer Baumschutz in einer dynamischen Stadt Anträge und Empfehlungen
+- TOP 4.6.2.: Guffertstr. 15
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Termin für die konstituierende Sitzung und Arbeitssitzung 2026
+- TOP 1.1.1.: Nachtrag TOP 3.5.4: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Str. München e. V. Schäfflertanz am 09.02.2026 390,72 €; Az. 0262.0-14-0479
+- TOP 1.1.2.: Nachtrag TOP 3.5.5: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Straße München e. V. Lesung: "Steck mal in meiner Haut" von Pia Amofa-Antwi vom 01.12. - 31.12.2025 262,50 €; Az. 0262.0-14-0478
+- TOP 1.1.3.: Nachtrag TOP 3.5.6: (E) Stadtbezirksbudget Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V. Jahresbroschüre - Jubiläumsausgabe, 2025 im November 2025 1.493,92 €; Az. 0262.0-14-0477
+- TOP 3.5.4.: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Str. München e. V. Schäfflertanz am 09.02.2026 390,72 €; Az. 0262.0-14-0479
+- TOP 3.5.5.: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Straße München e. V. Lesung: "Steck mal in meiner Haut" von Pia Amofa-Antwi vom 01.12. - 31.12.2025 262,50 €; Az. 0262.0-14-0478
+- TOP 3.5.6.: (E) Stadtbezirksbudget Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V. Jahresbroschüre - Jubiläumsausgabe, 2025 im November 2025 1.493,92 €; Az. 0262.0-14-0477
