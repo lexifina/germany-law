@@ -1,0 +1,6 @@
+# TOP 4: Einführung und Verpflichtung der Mitglieder des Ausschusses für Chancengerechtigkeit und Integration gemäß § 5 Hauptsatzung der Stadt Köln
+
+- Sitzung: Sitzung des Ausschusses für Chancengerechtigkeit und Integration (2025-11-25)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/429087
