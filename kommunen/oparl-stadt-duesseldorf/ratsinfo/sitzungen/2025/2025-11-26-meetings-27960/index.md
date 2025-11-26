@@ -1,0 +1,54 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-26T17:00:00+01:00
+- Ende: 2025-11-26T18:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27960
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27960
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00569311.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00569311.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00569311.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 1.1: Verpflichtung der Bürgermitglieder
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Bestellung eines Schriftführers
+- TOP 4: Genehmigung von Niederschriften
+- TOP 4.1: Genehmigung der Niederschrift vom 24.09.2025 - einstimmig beschlossen
+- TOP 4.2: Genehmigung der Niederschrift der gemeinsamen Sitzung mit der Bezirksvertretung 6 vom 24.09.2025
+- TOP 5: Anfragen / Anträge - einstimmig beschlossen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 6: Projektbericht der Verwaltung - Mündlicher Bericht der Verwaltung
+- TOP -: Stadtentwicklung
+- TOP 7: Mündlicher Bericht der Verwaltung zu den Sozialen Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 8: Raumwerk D Umsetzung „Schlüsselraum Düsselring" hier: Erarbeitung einer Machbarkeitsstudie - einstimmig beschlossen
+- TOP 9: Lebensmittelvollsortimenter auf der Fläche "Am Fettpott", Angermunder Straße 9-17 - abweichend beschlossen
+- TOP -: Bauleitplanung
+- TOP 10: Flächennutzungsplanänderung Nr. 205 (Entwurf) - Dreiecksparkplatz Kaiserswerth - Stellungnahmen, Planbeschluss - Empfehlung einstimmig beschlossen
+- TOP 11: Flächennutzungsplanänderung Nr. 158 (Entwurf) - Weizenmühlenstraße/Kesselstraße - Empfehlung einstimmig beschlossen
+- TOP 12: Flächennutzungsplanänderung Nr. 209 (Entwurf) - Südöstlich Werdener Straße - Stellungnahmen, Planbeschluss - Empfehlung mehrheitlich beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 02/018 - Werdener Staße/Erkrather Straße (ehemals B8-Center) - Empfehlung mehrheitlich beschlossen
+- TOP 14: Bebauungsplan-Vorentwurf Nr. 01/030 - Halle 29 - Rheinmetall-Allee 3 - Flächennutzungsplanänderung Nr. 219 (Vorentwurf) - Rheinmetall Allee - Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 02/014 - zwischen Hellweg und Benzstraße - Empfehlung einstimmig beschlossen
+- TOP 16: Plan Nr. 06/027 - Nordöstlich Rather Kreuzweg (ehem. Vallourec) - einstimmig beschlossen
+- TOP 17: Plan Nr. 01/031 - Schwannstraße 12 - Aufstellung eines Bebauungsplanes, Durchführung eines Workshopverfahrens - abweichend beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grundstücksangelegenheiten
+- TOP 25: Rahmenbedingungen zum Anhandgabeverfahren zur Grundstücksfläche Reichenbacher Weg - abweichend beschlossen
+- TOP 26: Rahmenbedingungen zur Ausschreibung zum Verkauf der Grundstücksfläche Merowinger Straße/Eduard-Schulte-Straße - mehrheitlich beschlossen
+- TOP -: Sonstiges
+- TOP 27: Sitzungstermine des Ausschusses für Planung und Stadtentwicklung im Jahre 2026 - zur Kenntnis genommen
+- TOP 28: Grundsatzbeschluss für das Hansahaus, Konrad-Adenauer-Platz 13 / Harkortstraße 2 - 4 als Standort für Gesundheitsamt und Fahrradgarage - passieren lassen
