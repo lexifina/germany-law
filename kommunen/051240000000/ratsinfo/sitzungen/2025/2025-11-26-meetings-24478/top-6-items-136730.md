@@ -1,0 +1,6 @@
+# TOP 6: Mitteilung der Betriebsleitung
+
+- Sitzung: Sitzung des Betriebsausschusses APH und KIJU (2025-11-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/136730
