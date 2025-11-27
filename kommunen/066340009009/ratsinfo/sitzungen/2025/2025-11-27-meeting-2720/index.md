@@ -1,0 +1,51 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze) (40. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2025-11-27T19:03:00+01:00
+- Ende: 2025-11-27T20:59:00+01:00
+- Ort: Kulturzentrum KRONE, Holzhäuser Straße 2, 34576 Homberg (Efze), Veranstaltungssaal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZZIeLqbZ0ka6SGryYfZdhmE
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/2720
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUXY2qP-aoaWNO64wzeRfsBOSxk2-ZokdBfVJ5vZE86-/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_27.11.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ4abETYCFcK4Xu5X03ZiOL4P89Tj0DgIWFyRXS4pyXx/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_27.11.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Einbringung des Entwurfs der Haushaltssatzung 2026 gemäß § 97 Absatz 1 HGO
+- TOP 1.1: Einbringung des Entwurfs der Haushaltssatzung 2026 gemäß § 97 Absatz 1 HGO
+- TOP 2.: Neufassung der Friedhofsordnung und der Friedhofsgebührensatzung der Kreisstadt Homberg (Efze) Hier: Beratung und Beschlussfassung
+- TOP 2.1: Neufassung der Friedhofsordnung und der Friedhofsgebührensatzung der Kreisstadt Homberg (Efze) Hier: Beratung und Beschlussfassung
+- TOP 2.2: Neufassung der Friedhofsordnung und der Friedhofsgebührensatzung der Kreisstadt Homberg (Efze) Hier: Beratung und Beschlussfassung - 31 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 3.: Aufstellung einer Änderung und Erweiterung Nr. 1 zum Bebauungsplan Nr. 59 der Kreisstadt Homberg (Efze) im Bereich der Hersfelder Straße zur Ausweisung zweier Sondergebiete Einzelhandel hier: Abwägung über die während der frühzeitigen Beteiligung der Öffentlichkeit gem. § 13 a BauGB und der öffentlichen Auslegung gem. § 3 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Anregungen und Bedenken von Bürgerinnen und Bürgern und Satzungsbeschluss
+- TOP 3.1: Aufstellung einer Änderung und Erweiterung Nr. 1 zum Bebauungsplan Nr. 59 der Kreisstadt Homberg (Efze) im Bereich der Hersfelder Straße zur Ausweisung zweier Sondergebiete Einzelhandel hier: Abwägung über die während der frühzeitigen Beteiligung der Öffentlichkeit gem. § 13 a BauGB und der öffentlichen Auslegung gem. § 3 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Anregungen und Bedenken von Bürgerinnen und Bürgern und Satzungsbeschluss - 28 Ja-Stimme(n), 3 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 4.: Städtebauliche Entwicklungsmaßnahme gem. § 165 ff Baugesetzbuch (BauGB) für das Baugebiet Holzhäuser Feld hier: Einbringung der Satzung über die Aufhebung des förmlich festgelegten Entwicklungs- bereiches
+- TOP 5.: Untere Holzhäuser Straße hier: Beratung und Beschlussfassung über das weitere Vorgehen - 32 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Gewerbegebiet Süd hier: Beratung und Beschlussfassung über den Verkauf einer Teilfläche und Entwicklung eines Übungsgeländes für Feuerwehr (u.a.)
+- TOP 6.1: Gewerbegebiet Süd hier: Beratung und Beschlussfassung über den Verkauf einer Teilfläche und Entwicklung eines Übungsgeländes für Feuerwehr (u.a.)
+- TOP 6.2: Gewerbegebiet Süd hier: Beratung und Beschlussfassung über den Verkauf einer Teilfläche und Entwicklung eines Übungsgeländes für Feuerwehr (u.a.) - 32 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Objekt "Schmückebergsweg 30" hier: Beratung und Beschlussfassung über einen möglichen (Zwischen-) Erwerb - 23 Ja-Stimme(n), 6 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 8.: Ehemalige Wäschefabrik im Stadtteil Hülsa Hier: Beratung und Beschlussfassung über einen möglichen Ankauf
+- TOP 8.1: Ehemalige Wäschefabrik im Stadtteil Hülsa Hier: Beratung und Beschlussfassung über einen möglichen Ankauf - 28 Ja-Stimme(n), 3 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 9.: Nationale Stadtentwicklungspolitik – Projektaufruf „Post-Corona-Stadt: Ideen und Konzepte für eine resiliente Stadtentwicklung“ hier: Vorstellung Gestaltungsvarianten für die grundhafte Erneuerung der Wallgärten
+- TOP 9.1: Nationale Stadtentwicklungspolitik – Projektaufruf „Post-Corona-Stadt: Ideen und Konzepte für eine resiliente Stadtentwicklung“ hier: Vorstellung Gestaltungsvarianten für die grundhafte Erneuerung der Wallgärten - 28 Ja-Stimme(n), 2 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 10.: Multifunktionsgebäude „Sportpark am Stellberg“ Hier: Interessenbekundungsverfahren zum neuen Förderaufruf - 32 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Förderprogramm Ökologisches Grünflächenmanagement in Siedlungsgebieten des Naturparks Knüll hier: Grünflächenstrategie für Homberg (Efze)
+- TOP 11.1: Förderprogramm Ökologisches Grünflächenmanagement in Siedlungsgebieten des Naturparks Knüll hier: Grünflächenstrategie für Homberg (Efze) - (kein Text vorhanden)
+- TOP 12.: Umsetzung des integrierten Klimaschutzkonzept Hier: Fortschreibung einer CO2-Bilanzierung
+- TOP 13.: Sachstandsberichte und sonstige Informationen
+- TOP 13.1: Sanierung Stadion A-Platz hier: Sachstand - Stadion A-Platz und Multifunktionsgebäude
+- TOP 13.2: Aufwertung Freibad „Erleborn“ Hier: Sachstandsbericht
+- TOP 13.3: Entwicklung ehemaliges Klinikareal an der Melsunger Straße Hier: Sachstandsbericht
+- TOP 13.4: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier „An der Mauer / Hospitalstraße“ hier: Sachstandsbericht
+- TOP 13.5: Dorfentwicklung Homberg (Efze) hier: Öffentliche Projekte und Förderung privater Bauvorhaben
+- TOP 13.6: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht zur Umsetzung der Projekte aus dem ISEK
+- TOP 13.7: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 14.: Anträge
+- TOP 14.1: Antrag der FWG-Fraktion vom 11.11.2025 betr. Heimatkundliches Archiv - Standort für einen Showroom - 32 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 15.: Anfragen
+- TOP 15.1: Anfrage der SPD-Fraktion vom 13.11.2025 betr. Sachstand "Reaktivierung der ehemaligen Kanonenbahn"
+- TOP 16.: Anregungen
