@@ -1,0 +1,6 @@
+# TOP 4: Integration und Vielfalt
+
+- Sitzung: 1. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren (2025-11-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/429985
