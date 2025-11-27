@@ -1,0 +1,57 @@
+# 2.. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-11-27T17:00:00+01:00
+- Ende: 2025-11-27T18:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32068
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32068
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage betr. Klärung der Gültigkeit der Gestaltungssatzungen für Neubrück von 1969 und 1982 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO– „Situation in Humboldt/Gremberg“, Aktenzeichen 05/24 S - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Genehmigung der DE: "Annahme einer Schenkung "Geldspende Sparkasse – Gesamtschule Corintostraße“" - ungeändert beschlossen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Gem. Antrag der Fraktionen SPD-, CDU- und B90/Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 27.11.2025: "Errichtung eines Interims während der Renovierung der Stadtteilbibliothek Neubrück" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LINKE. in der Bezirksvertretung Kalk zum gem. Antrag der Fraktionen SPD-, CDU-, und B90 Die Grünen - endgültig abgelehnt
+- TOP 7.2: Gem. Antrag der Fraktionen SPD-, CDU- und B90/Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 27.11.2025: "Einrichtung eines Durchfahrt- bzw. Halteverbotes für LKW und Kleintransporter im Pohlstadtsweg" - ungeändert beschlossen
+- TOP 7.3: Dringlichkeitsantrag der Fraktion Die LINKE. :" Barrierefreier Zugang" - vertagt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1.1: Der Tagesordnungspunkt wurde nach TOP 6.1 verschoben
+- TOP 8.1.2: Benennung eines Mitgliedes der Bezirksvertretung Kalk zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - vertagt
+- TOP 8.1.3: Der Tagesordnungspunkt wurde zu TOP 12.1.2 verschoben
+- TOP 8.1.4: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Kalk 2025/2026 - hier:Förderprogramm - ungeändert beschlossen
+- TOP 8.1.5: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Kalk 2025/2026 – Mittelvergabe - ungeändert beschlossen
+- TOP 8.1.6: Beschlussvorlage über mehrere Anfragen der BV 8 im Rahmen des Rückholrechts - vertagt
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Planfeststellungsverfahren für das Vorhaben "BAB 3, 4, 59 - Ersatzneubau der Bauwerke im Bereich des Autobahndreiecks Heumar" - ungeändert beschlossen
+- TOP 8.2.2: Übertragung der Netzwerkarbeit "Sport in Metropolen" auf den rechtsrheinischen Stadtbezirk Porz - vertagt
+- TOP 8.3: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung der Anfrage AN/1134/2024 der CDU-Fraktion bezüglich des Neubaus einer Grundschule in Köln-Merheim - Kenntnis genommen
+- TOP 9.1.2: Beantwortung der Anfrage AN/1132/2024 (SPD-Fraktion vom 05.09.2024: "Vingster Freibad" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung der schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 26.06.2025 (AN/0937/2025) betr.: "Gefahrenlage in der Gottfried-Hagen-Str.1 in Humboldt-Gremberg" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer schriftlichen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN aus der Sitzung der Bezirksvertretung Kalk vom 04.09.2025 betreffend „Bahnhof Rath/Heumar - Wie weit ist die Vorbereitung?" (AN/1120/2025) - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung 8 vom 24.08.2023 betr. „Planungsbeschleunigung und Sachstand bei Autobahnausbauprojekten des Bundes mit Bezug zum Stadtbezirk Kalk“ - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der AfD-Fraktion in der Sitzung der Bezirksvertretung Kalk am 27.11.2025 - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2024 der Naturschutzwacht Bezirk 8 (Kalk) - Kenntnis genommen
+- TOP 10.2.2: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.3: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 10.2.4: Erweiterung der Öffnungszeiten der Stadtteilbibliothek Kalk - vertagt
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Errichten eines Spielplatzes auf der Grünfläche "Alter Friedhof Kalk" an der Kapellenstraße, Aktenzeichen 100/25 - Kenntnis genommen
+- TOP 10.2.6: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
