@@ -55,3 +55,4 @@ Amtsgericht Bremen | Alle sonstigen Verfahren der Abteilung 50 | 29. September 2
 Amtsgericht Bremen | Alle Hinterlegungssachen der Abteilung 37 | 27. Oktober 2025
 Amtsgericht Bremen- Blumenthal | Alle Verfahren in Betreuungssachen in der Abteilung 60 | 29. September 2025
 Amtsgericht Bremerhaven | Alle Verfahren in Betreuungssachen in der Abteilung 6 | 29. September 2025
+Amtsgericht Bremen | Alle Verfahren nach dem Unternehmensstabilisierungs- und ‑restrukturierungsgesetz der Abteilungen 560 und 561 | 1. Dezember 2025
