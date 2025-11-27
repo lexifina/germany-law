@@ -1,12 +1,12 @@
 # Entgelttabelle Nr. 03 - Garten-, Landschafts- und Sportplatzbauleistungen
 Entgelttabelle Nr. 03 Garten-, Landschafts- und Sportplatzbauleistungen
 Diese Entgelttabelle enthält die vertraglichen Entgelte, die bei der Erbringung von Garten-, Landschafts- und Sportplatzbauleistungen zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung des Auftragnehmers und zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung eines Nachunternehmers an die bei der Auftragsausführung eingesetzten Beschäftigten mindestens zu bezahlen sind.
-Die geltenden Mindestlöhne nach dem Mindestlohngesetz, nach dem Arbeitnehmerentsendegesetz und nach dem Arbeitnehmerüberlassungsgesetz sowie die im Land Bremen allgemeinverbindlichen Tariflöhne nach dem Tarifvertragsgesetz bleiben davon unberührt.
+Die geltenden Mindestlöhne nach dem Mindestlohngesetz, nach dem Arbeitnehmer-Entsendegesetz und nach dem Arbeitnehmerüberlassungsgesetz sowie die im Land Bremen allgemeinverbindlichen Tariflöhne nach dem Tarifvertragsgesetz bleiben davon unberührt.
 1. Anwendungsbereich
-Diese Entgelttabelle, insbesondere das unter Ziffer 3 aufgeführte Lohngitter, wird auf die im Anhang dargestellte Liste von CPV-Codes/Vergabeleistungen angewandt. Diese Liste ist nicht abschließend.
+Diese Entgelttabelle, insbesondere das unter Ziffer 3 aufgeführte Lohngitter, wird auf die im Anhang dargestellte Liste von CPV-Codes/Vergabeleistungen angewandt. Diese Liste ist nicht abschließend. Die Entgelttabelle gilt nicht, soweit durch die zur Auftragsausführung eingesetzten Beschäftigten Arbeiten im Ausland erbracht werden.
 2. Entgeltmodalitäten
 2.1 Erfasst sind alle Beschäftigten eines Unternehmens, die während der Auftragsausführung eingesetzt werden. Beschäftigte sind alle Arbeitnehmerinnen und Arbeitnehmer. Leiharbeitnehmerinnen und Leiharbeitnehmer im Sinne des Arbeitnehmerüberlassungsgesetzes sind den Arbeitnehmerinnen und Arbeitnehmern gleichgestellt.
-2.2 Die bei der Auftragsausführung eingesetzte Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf ein Entgelt nach Ziffer 3 für jede geleistete Arbeitsstunde.
+2.2 Die bei der Auftragsausführung eingesetzten Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf ein Entgelt nach Ziffer 3 für jede geleistete Arbeitsstunde.
 2.3 Die Eingruppierung in eine der Entgeltgruppen (EG) nach Ziffer 3 richtet sich nach der im Rahmen der Auftragsausführung tatsächlich ausgeübten Tätigkeit sowie nach etwaigen weiteren Anforderungen der jeweiligen Entgeltgruppe.
 2.4 Werden mehrere entgeltgruppenübergreifende Tätigkeiten ausgeführt, ist die im Schwerpunkt ausgeübte Tätigkeit maßgeblich für die Eingruppierung.
 2.5 Jede Überstunde (Mehrarbeit) ist mit 25% Zuschlag zu vergüten. Individuelle Arbeitszeitregelungen sind zu berücksichtigen (z.B. Arbeitszeitkonten, Teilzeitmodelle).
@@ -34,11 +34,11 @@ EG | Bezeichnung der Tätigkeit | ggf. weitere Anforderungen und nicht abschlie�
 6.4 | Arbeitnehmer mit abgeschlossener Berufsausbildung nach dem Berufsbildungsgesetz, die nicht der Entgeltgruppe 4 angehören oder Arbeitnehmer mit gleichwertigen Kenntnissen und Fähigkeiten | - bis zu dreijährige ununterbrochene Tätigkeit in Betrieben des Garten-, Landschafts- und Sportplatzbaus und - ständiges fachbezogenes Arbeiten unter Anleitung | 18,14
 7. | Arbeitnehmer mit oder ohne abgeschlossener Berufsausbildung nach dem Berufsbildungsgesetz |  | 
 7.1 | Arbeitnehmer, die ständig angelernte fachbezogene Arbeiten selbständig verrichten |  | 18,14
-7.2 | Arbeitnehmer, die ununterbrochene Beschäftigung für mindestens 3 Jahre in den Entgeltgruppen 7.3 oder 7.4 in Betrieben des Garten-, Landschafts- und Sportplatzbaus und anspruchsvollen Pflegearbeiten ausführen |  | 17,26
+7.2 | Arbeitnehmer, die eine ununterbrochene Beschäftigung für mindestens 3 Jahre in den Entgeltgruppen 7.3 oder 7.4 in Betrieben des Garten-, Landschafts- und Sportplatzbaus und anspruchsvolle Pflegearbeiten ausführen |  | 17,26
 7.3 | Arbeitnehmer, die ständig fachbezogene Arbeiten unter Anleitung verrichten |  | 16,71
 7.4 | Arbeitnehmer, die ununterbrochene Beschäftigung für mindestens 3 Jahre in der Entgeltgruppe 7.5 in Betrieben des Garten-, Landschafts- und Sportplatzbaus und auch Pflegearbeiten ausführen |  | 15,70
 7.5 | Arbeitnehmer, die mit einfachen Arbeiten beschäftigt werden |  | 14,89
-7.6 | Arbeitnehmer, die mit einfachsten, schematischen Arbeiten beschäftigt werden |  | 12,69 ab 01.11.2024 13,46* ab 01.02.2025 14,28**
+7.6 | Arbeitnehmer, die mit einfachsten, schematischen Arbeiten beschäftigt werden |  | 14,28*
 8. | Arbeitnehmer, die in der Baumpflege tätig sind |  | 
 8.1 | Fachagrarwirte Baumpflege und Baumsanierung mit bestandener Abschlussprüfung als Landschaftsgärtner im Garten-, Landschafts- und Sportplatzbau | - sind ständig verantwortlich, unter eigener Mitarbeit, mit der Durchführung oder selbständigen Abwicklung von Baumfällarbeiten sowie Baumpflege- und Baumsanierungsmaßnahmen beauftragt und - andere Arbeitnehmer beaufsichtigen | 21,69
 8.2 | Fachagrarwirte Baumpflege mit bestandener Abschlussprüfung als Landschaftsgärtner im Garten-, Landschafts- und Sportplatzbau | - nach dreijähriger ununterbrochener Tätigkeit als Fachagrarwirt Baumpflege - ständig in der Baumpflege tätig | 20,61
@@ -53,19 +53,15 @@ T 5 | Gartenbautechnische Angestellte in verantwortlichen Tätigkeiten, die übe
 T 6 | Gartenbautechnische Angestellte, die sich dadurch aus der Gruppe T 5 herausheben, dass ihnen die selbständige Leitung eines Betriebes oder einer selbständigen Betriebsabteilung übertragen ist |  | 31,07
 T 7 | Gartenbautechnische Angestellte, die sich dadurch aus der Gruppe T 5 herausheben, dass ihnen die selbständige Leitung eines größeren Betriebes übertragen ist (als größere Betriebe sind in der Regel solche mit durchschnittlich mehr als 60 Beschäftigten anzusehen) |  | 34,40
 K | Kaufmännische Angestellte |  | 
-K 1 | Kaufmännische Angestellte mit überwiegend mechanischer oder schematischer Tätigkeit, für die eine Berufsausbildung nicht erforderlich ist | z.B. Fertigmachen der Post, Telefondienst, Vervielfältigen, Karteiführung, einfache Schreibund Rechenarbeiten, Ablage | 12,41*** (1. Jahr) ab 01.11.2024 13,46* ab 01.02.2025 14,28** (1. Jahr) 13,59 ab 01.02.2025 14,28** (2. Jahr) 14,61 (4. Jahr)
-K 2 | Kaufmännische Angestellte mit einfacher kaufmännischer Tätigkeit | z.B. Stenotypisten, Kontoristen, Hilfskräfte in der Buchhaltung und Personalabteilung. | 13,31 ab 01.11.2024 13,46* ab 01.02.2025 14,28** (1. Jahr) 14,80 (2. Jahr) 15,91 (4. Jahr)
+K 1 | Kaufmännische Angestellte mit überwiegend mechanischer oder schematischer Tätigkeit, für die eine Berufsausbildung nicht erforderlich ist | z.B. Fertigmachen der Post, Telefondienst, Vervielfältigen, Karteiführung, einfache Schreib- und Rechenarbeiten, Ablage | 14,28* (1. Jahr) 14,28* (2. Jahr) 14,61 (4. Jahr)
+K 2 | Kaufmännische Angestellte mit einfacher kaufmännischer Tätigkeit | z.B. Stenotypisten, Kontoristen, Hilfskräfte in der Buchhaltung und Personalabteilung. | 14,28* (1. Jahr) 14,80 (2. Jahr) 15,91 (4. Jahr)
 K 3 | kaufmännische Angestellte, die unter Anleitung schwierigere Arbeiten erledigen, mit kaufmännischer Berufsausbildung, Handelsschule oder gleichwertigen Kenntnissen und Fähigkeiten | z.B. Korrespondenten, Buchhalter, Lohnbuchhalter, Sekretäre, Stenotypisten mit Fremdsprachen | 17,76 (1. Jahr) 19,73 (2. Jahr) 21,21 (4. Jahr)
 K 4 | Kaufmännische Angestellte, die nach allgemeiner Anweisung schwierige Arbeiten erledigen und in erheblichem Umfang (erheblich - mehr als ein Drittel) selbständige Leistungen erbringen; mit kaufmännischer Berufsausbildung oder gleichwertigen Kenntnissen und Fähigkeiten | z.B. Buchhalter mit langjähriger Berufserfahrung. | 22,20 (1. Jahr) 24,66 (2. Jahr) 26,51 (4. Jahr)
 K 5 | Kaufmännische Angestellte mit besonders verantwortlicher Tätigkeit, die überwiegend selbständige Leistungen erbringen | z.B. Bilanzbuchhalter, Büroleiter, selbständige Einkäufer | 26,63 (1. Jahr) 29,60 (2. Jahr) 31,81 (4. Jahr)
 K 6 | Kaufmännische Angestellte als selbständige Leiter eines Betriebes oder selbständiger Betriebsabteilungen |  | 31,07
 K 7 | Kaufmännische Angestellte als selbständige Leiter größerer Betriebe (als größere Betriebe sind in der Regel solche mit durchschnittlich mehr als 60 Beschäftigten anzusehen) |  | 34,40
 Fußnoten
-* Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
-* Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
-* Entspricht dem Landesmindestlohn zum Stand 01.11.2024.
-** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
-** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
-** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
-** Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
-*** Entspricht dem Bundesmindestlohn zum Stand 01.03.2024.
+* Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+* Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+* Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+* Entspricht dem Landesmindestlohn zum Stand 01.02.2025.

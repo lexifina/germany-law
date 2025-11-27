@@ -7,5 +7,6 @@ Entgelttabelle 16 | Bankleistungen
 66113000-5 | Kreditgewährung
 66115000-9 | Internationaler Zahlungstransfer
 66180000-5 | Währungsumtausch
-Entgelttabelle Nr. 16 Bankenleistungen Stand September 2024
+66600000-6 | Finanzen und Liquiditätssteuerung
+Entgelttabelle Nr. 16 Bankenleistungen Stand Juni 2025
 Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

@@ -3,5 +3,5 @@ Anhang Anhang gemäß Ziffer 1 der Entgelttabelle: Anwendungsbereich
 Leistungsbereich (z.B. CPV-Code, VOB-C/DIN) - nicht abschließend | Beschreibung der Leistung
 Entgelttabelle 24 | Galvaniseure, Graveure, Metallbildner
 45442210-2 | Galvanisierungsarbeiten
-Entgelttabelle Nr. 24 Galvaniseure, Graveure und Metallbildner Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+Entgelttabelle Nr. 24 Galvaniseure, Graveure und Metallbildner Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

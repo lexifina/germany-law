@@ -13,5 +13,5 @@ Entgelttabelle 38 | Textilreinigung
 98314000-7 | Färben
 98315000-4 | Bügeln
 98316000-1 | Einfärben
-Entgelttabelle Nr. 38 Textilreinigung Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+Entgelttabelle Nr. 38 Textilreinigung Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

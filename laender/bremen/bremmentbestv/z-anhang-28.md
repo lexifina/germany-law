@@ -2,6 +2,8 @@
 Anhang Anhang gemäß Ziffer 1 der Entgelttabelle: Anwendungsbereich
 Leistungsbereich (z.B. CPV-Code, VOB-C/DIN) - nicht abschließend | Beschreibung der Leistung
 Entgelttabelle 28 | IT-Dienstleistungen
+50311000-8 | Wartung und Reparatur von Abrechnungsmaschinen
+50311400-2 | Wartung und Reparatur von Rechen- und Abrechnungsmaschinen
 50312000-5 | Wartung und Reparatur von Computeranlagen
 50312100-6 | Wartung und Reparatur von Zentralrechnern
 50312110-9 | Wartung von Zentralrechnern
@@ -10,9 +12,17 @@ Entgelttabelle 28 | IT-Dienstleistungen
 50312210-0 | Wartung von Kleincomputern
 50312220-3 | Reparatur von Kleincomputern
 50312300-8 | Wartung und Reparatur von Datennetzeinrichtungen
+50312310-1 | Wartung von Datennetzeinrichtungen
+50312320-4 | Reparatur von Datennetzeinrichtungen
 50312400-9 | Wartung und Reparatur von Mikrocomputern
 50312410-2 | Wartung von Mikrocomputern
 50312420-5 | Reparatur von Mikrocomputern
+50312600-1 | Wartung und Reparatur von Informationstechnologieeinrichtungen
+50312610-4 | Wartung von Informationstechnologieeinrichtungen
+50312620-7 | Reparatur von Informationstechnologieeinrichtungen
+50313000-2 | Wartung und Reparatur von Reprografiegeräten
+50313100-3 | Reparatur von Fotokopiergeräten
+50313200-4 | Wartung von Fotokopiergeräten
 50320000-4 | Reparatur und Wartung von Personalcomputern
 50321000-1 | Reparatur von Personalcomputern
 50322000-8 | Wartung von Personalcomputern
@@ -20,9 +30,18 @@ Entgelttabelle 28 | IT-Dienstleistungen
 50323100-6 | Wartung von Computerperipheriegeräten
 50323200-7 | Reparatur von Computerperipheriegeräten
 50324000-2 | Unterstützungsdienste für Personalcomputer
+50324100-3 | Systemwartung
+50324200-4 | Vorbeugende Wartung
+50334400-9 | Wartung von Kommunikationssystemen
+50341200-9 | Reparatur und Wartung von Fernsehsendern
 50660000-9 | Reparatur und Wartung von militärischen EDV-Systemen
+51320000-1 | Installation von Rundfunk- und Fernsehsendern
+51330000-4 | Installation von Funktelefongeräten
 51611000-8 | Installation von Computern
 51611100-9 | Hardwareinstallation
+51612000-5 | Installation von Datenverarbeitungsanlagen
+51620000-4 | Installation von Büromaschinen
+51900000-1 | Installation von Lenk- und Steuersystemen
 64215000-6 | Internet-Telefondienste
 64216100-4 | Elektronische Nachrichtendienste
 64216110-7 | Elektronische Datenaustauschdienste
@@ -49,7 +68,7 @@ Entgelttabelle 28 | IT-Dienstleistungen
 72212140-2 | Entwicklung von Software für Eisenbahnleitsysteme
 72212150-5 | Entwicklung von Industrieprozesssteuerungssoftware
 72212160-8 | Entwicklung von Bibliothekensoftware
-72212170-1 | Entwicklung von Konformitätssoftware („Compliance software“)
+72212170-1 | Entwicklung von Konformitätssoftware („Compliance Software“)
 72212180-4 | Entwicklung von Medizinsoftware
 72212190-7 | Entwicklung von Unterrichtssoftware
 72212200-1 | Entwicklung von Vernetzungs-, Internet- und Intranetsoftware
@@ -233,7 +252,7 @@ Entgelttabelle 28 | IT-Dienstleistungen
 72322000-8 | Datenverwaltung
 72330000-2 | Inhalte- oder Datenstandardisierung und -Klassifizierung
 72400000-4 | Internetdienste
-72410000-7 | Diensteanbieter
+72410000-7 | Dienstanbieter
 72411000-4 | Anbieter von Internetdiensten (ISP)
 72412000-1 | Anbieter von E-Mail-Diensten
 72413000-8 | Website-Gestaltung
@@ -270,5 +289,7 @@ Entgelttabelle 28 | IT-Dienstleistungen
 72900000-9 | Computer-Backup-Dienste und Katalogkonvertierung
 72910000-2 | Computer-Backup-Dienste
 72920000-5 | Computerkatalogkonvertierung
-Entgelttabelle Nr. 28 IT Gewerbe Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+79552000-8 | Textverarbeitungsdienste
+79553000-5 | Desktop-Publishing-Arbeiten
+Entgelttabelle Nr. 28 IT Dienstleistungen Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

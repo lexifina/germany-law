@@ -10,5 +10,5 @@ Entgelttabelle 19 | Film- und Fernsehschaffende
 92111310-8 | Herstellung von Unterhaltungsfilmen
 92111320-1 | Herstellung von Unterhaltungsvideofilmen
 92112000-9 | Dienstleistungen im Zusammenhang mit Film- und Videofilmherstellung
-Entgelttabelle Nr. 19 Film- und Fernsehschaffende Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+Entgelttabelle Nr. 19 Film- und Fernsehschaffende Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

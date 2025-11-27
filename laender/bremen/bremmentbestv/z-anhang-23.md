@@ -11,5 +11,5 @@ Entgelttabelle 23 | Friseurhandwerk
 98322120-3 | Maniküre
 98322130-6 | Pediküre
 98322140-9 | Schminken
-Entgelttabelle Nr. 23 Friseurhandwerk Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+Entgelttabelle Nr. 23 Friseurhandwerk Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

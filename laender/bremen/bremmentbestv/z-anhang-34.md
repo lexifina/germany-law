@@ -2,6 +2,8 @@
 Anhang Anhang gemäß Ziffer 1 der Entgelttabelle: Anwendungsbereich
 Leistungsbereich (z.B. CPV-Code, VOB-C/DIN) - nicht abschließend | Beschreibung der Leistung
 Entgelttabelle 34 | Wohnungswesen und Immobilienwirtschaft
+70111000-2 | Erschließung von Wohngrundstücken
+70112000-9 | Erschließung von Nichtwohngrundstücken
 70120000-8 | Kauf und Verkauf von Immobilien
 70121000-5 | Kauf oder Verkauf von Gebäuden
 70121100-6 | Verkauf von Gebäuden
@@ -25,8 +27,9 @@ Entgelttabelle 34 | Wohnungswesen und Immobilienwirtschaft
 70321000-7 | Vermietung von Grundstücken
 70322000-4 | Vermietung oder Verkauf von unbebauten Grundstücken
 70330000-3 | Immobilienverwaltung gegen Einzelhonorar oder auf Vertragsbasis
+70331000-0 | Wohngrundstücksdienste
 70332000-7 | Verwaltung von Liegenschaften, die Nichtwohnzwecken dienen
 70332100-8 | Verwaltung von Grundstücken
 70332200-9 | Verwaltung von gewerblichen Immobilien
-Entgelttabelle Nr. 34 Wohnungswesen und Immobilienwirtschaft Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+Entgelttabelle Nr. 34 Wohnungswesen und Immobilienwirtschaft Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

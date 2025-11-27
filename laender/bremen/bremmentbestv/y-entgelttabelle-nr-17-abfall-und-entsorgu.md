@@ -1,12 +1,12 @@
 # Entgelttabelle Nr. 17 - Abfall- und Entsorgungswirtschaft
 Entgelttabelle Nr. 17 Abfall- und Entsorgungswirtschaft
 Diese Entgelttabelle enthält die vertraglichen Entgelte, die bei der Erbringung von Leistungen durch die Abfall- und Entsorgungswirtschaft zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung des Auftragnehmers und zur Erfüllung der Verpflichtungen aus der Tariftreueerklärung eines Nachunternehmers an die bei der Auftragsausführung eingesetzten Beschäftigten mindestens zu bezahlen sind.
-Die geltenden Mindestlöhne nach dem Mindestlohngesetz, nach dem Arbeitnehmerentsendegesetz und nach dem Arbeitnehmerüberlassungsgesetz sowie die im Land Bremen allgemeinverbindlichen Tariflöhne nach dem Tarifvertragsgesetz bleiben davon unberührt.
+Die geltenden Mindestlöhne nach dem Mindestlohngesetz, nach dem Arbeitnehmer-Entsendegesetz und nach dem Arbeitnehmerüberlassungsgesetz sowie die im Land Bremen allgemeinverbindlichen Tariflöhne nach dem Tarifvertragsgesetz bleiben davon unberührt.
 1. Anwendungsbereich
-Diese Entgelttabelle, insbesondere das unter Ziffer 3 aufgeführte Lohngitter, wird auf die im Anhang dargestellte Liste von CPV-Codes/Vergabeleistungen angewandt. Diese Liste ist nicht abschließend.
+Diese Entgelttabelle, insbesondere das unter Ziffer 3 aufgeführte Lohngitter, wird auf die im Anhang dargestellte Liste von CPV-Codes/Vergabeleistungen angewandt. Diese Liste ist nicht abschließend. Die Entgelttabelle gilt nicht, soweit durch die zur Auftragsausführung eingesetzten Beschäftigten Arbeiten im Ausland erbracht werden.
 2. Entgeltmodalitäten
 2.1 Erfasst sind alle Beschäftigten eines Unternehmens, die während der Auftragsausführung eingesetzt werden. Beschäftigte sind alle Arbeitnehmerinnen und Arbeitnehmer. Leiharbeitnehmerinnen und Leiharbeitnehmer im Sinne des Arbeitnehmerüberlassungsgesetzes sind den Arbeitnehmerinnen und Arbeitnehmern gleichgestellt.
-2.2 Die bei der Auftragsausführung eingesetzte Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf ein Entgelt nach Ziffer 3 für jede geleistete Arbeitsstunde.
+2.2 Die bei der Auftragsausführung eingesetzten Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf ein Entgelt nach Ziffer 3 für jede geleistete Arbeitsstunde.
 2.3 Die Eingruppierung in eine der Entgeltgruppen (EG) nach Ziffer 3 richtet sich nach der im Rahmen der Auftragsausführung tatsächlich ausgeübten Tätigkeit sowie nach etwaigen weiteren Anforderungen der jeweiligen Entgeltgruppe.
 2.4 Werden mehrere entgeltgruppenübergreifende Tätigkeiten ausgeführt, ist die im Schwerpunkt ausgeübte Tätigkeit maßgeblich für die Eingruppierung.
 2.5 Für Mehrarbeit (Überstunden) fällt ein Zuschlag i.H.v. 30 % in den EG 1 bis 9b und 15 % in den EG 9c bis 15 an. Individuelle Arbeitszeitregelungen sind zu berücksichtigen (z.B. Arbeitszeitkonten, Teilzeitmodelle).
@@ -31,8 +31,8 @@ Beschäftigte mit einfachen Tätigkeiten (Einfache Tätigkeiten sind Tätigkeite
 ○ EG 3
 Beschäftigte, deren Tätigkeit sich dadurch aus der EG 2 heraushebt, dass sie eine eingehende fachliche Einarbeitung erfordert.
 ○ EG 4
-▫ Beschäftigte mit erfolgreich abgeschlossener Ausbildung in einem anerkannten Ausbildungsberuf mit einer Ausbildungsdauer von weniger als drei Jahren, die in ihrem oder einem diesem verwandten Beruf beschäftigt werden.
-▫ Beschäftigte mit schwierigen Tätigkeiten (Schwierige Tätigkeiten sind Tätigkeiten, die mehr als eine eingehende fachliche Einarbeitung im Sinne der EG 3 erfordern. Danach müssen Tätigkeiten anfallen, die an das Überlegungsvermögen oder das fachliche Geschick Anforderungen stellen, die über das Maß dessen hinausgehen, was üblicherweise von Beschäftigten der EG 3 verlangt werden kann.)
+• Beschäftigte mit erfolgreich abgeschlossener Ausbildung in einem anerkannten Ausbildungsberuf mit einer Ausbildungsdauer von weniger als drei Jahren, die in ihrem oder einem diesem verwandten Beruf beschäftigt werden.
+• Beschäftigte mit schwierigen Tätigkeiten (Schwierige Tätigkeiten sind Tätigkeiten, die mehr als eine eingehende fachliche Einarbeitung im Sinne der EG 3 erfordern. Danach müssen Tätigkeiten anfallen, die an das Überlegungsvermögen oder das fachliche Geschick Anforderungen stellen, die über das Maß dessen hinausgehen, was üblicherweise von Beschäftigten der EG 3 verlangt werden kann.)
 ○ EG 5
 Beschäftigte mit erfolgreich abgeschlossener Ausbildung in einem anerkannten Ausbildungsberuf mit einer Ausbildungsdauer von mindestens drei Jahren, die in ihrem oder einem diesem verwandten Beruf beschäftigt werden.
 ○ EG 6
@@ -50,11 +50,11 @@ Beschäftigte mit einfachen Tätigkeiten (Einfache Tätigkeiten sind Tätigkeite
 ○ EG 3
 Beschäftigte, deren Tätigkeit sich dadurch aus der EG 2 heraushebt, dass sie eine eingehende fachliche Einarbeitung erfordert.
 ○ EG 4
-▫ Beschäftigte, deren Tätigkeit sich dadurch aus der EG 3 heraushebt, dass sie mindestens zu einem Viertel gründliche Fachkenntnisse erfordert (Gründliche Fachkenntnisse erfordern nähere Kenntnisse von Rechtsvorschriften oder näheres kaufmännisches oder technisches Fachwissen usw. des Aufgabenkreises.)
-▫ Beschäftigte mit schwierigen Tätigkeiten Schwierige Tätigkeiten sind Tätigkeiten, die mehr als eine eingehende fachliche Einarbeitung im Sinne der EG 3 erfordern. Danach müssen Tätigkeiten anfallen, die an das Überlegungsvermögen oder das fachliche Geschick Anforderungen stellen, die über das Maß dessen hinausgehen, was üblicherweise von Beschäftigten der EG 3 verlangt werden kann.)
+• Beschäftigte, deren Tätigkeit sich dadurch aus der EG 3 heraushebt, dass sie mindestens zu einem Viertel gründliche Fachkenntnisse erfordert (Gründliche Fachkenntnisse erfordern nähere Kenntnisse von Rechtsvorschriften oder näheres kaufmännisches oder technisches Fachwissen usw. des Aufgabenkreises.)
+• Beschäftigte mit schwierigen Tätigkeiten Schwierige Tätigkeiten sind Tätigkeiten, die mehr als eine eingehende fachliche Einarbeitung im Sinne der EG 3 erfordern. Danach müssen Tätigkeiten anfallen, die an das Überlegungsvermögen oder das fachliche Geschick Anforderungen stellen, die über das Maß dessen hinausgehen, was üblicherweise von Beschäftigten der EG 3 verlangt werden kann.)
 ○ EG 5
-▫ Beschäftigte mit erfolgreich abgeschlossener Ausbildung in einem anerkannten Ausbildungsberuf mit einer Ausbildungsdauer von mindestens drei Jahren und entsprechender Tätigkeit.
-▫ Beschäftigte, deren Tätigkeit gründliche Fachkenntnisse erfordert (Gründliche Fachkenntnisse erfordern nähere Kenntnisse von Rechtsvorschriften oder näheres kaufmännisches oder technisches Fachwissen usw. des Aufgabenkreises.)
+• Beschäftigte mit erfolgreich abgeschlossener Ausbildung in einem anerkannten Ausbildungsberuf mit einer Ausbildungsdauer von mindestens drei Jahren und entsprechender Tätigkeit.
+• Beschäftigte, deren Tätigkeit gründliche Fachkenntnisse erfordert (Gründliche Fachkenntnisse erfordern nähere Kenntnisse von Rechtsvorschriften oder näheres kaufmännisches oder technisches Fachwissen usw. des Aufgabenkreises.)
 ○ EG 6
 Beschäftigte der EG 5 Fallgruppe 1, deren Tätigkeit gründliche und vielseitige Fachkenntnisse erfordert, sowie Beschäftigte der EG 5 Fallgruppe 2, deren Tätigkeit vielseitige Fachkenntnisse erfordert (Die gründlichen und vielseitigen Fachkenntnisse brauchen sich nicht auf das gesamte Gebiet der Verwaltung (des Betriebes), bei der die/der Beschäftigte tätig ist, zu beziehen. Der Aufgabenkreis der/des Beschäftigten muss aber so gestaltet sein, dass er nur beim Vorhandensein gründlicher und vielseitiger Fachkenntnisse ordnungsgemäß bearbeitet werden kann.)
 ○ EG 7
@@ -64,8 +64,8 @@ Beschäftigte der EG 6, deren Tätigkeit mindestens zu einem Drittel selbststän
 ○ EG 9a
 Beschäftigte der EG 6, deren Tätigkeit selbstständige Leistungen erfordert (Selbstständige Leistungen erfordern ein den vorausgesetzten Fachkenntnissen entsprechendes selbstständiges Erarbeiten eines Ergebnisses unter Entwicklung einer eigenen geistigen Initiative; eine leichte geistige Arbeit kann diese Anforderung nicht erfüllen.)
 ○ EG 9b
-▫ Beschäftigte mit abgeschlossener Hochschulbildung und entsprechender Tätigkeit sowie sonstige Beschäftigte, die aufgrund gleichwertiger Fähigkeiten und ihrer Erfahrungen entsprechende Tätigkeiten ausüben.
-▫ Beschäftigte, deren Tätigkeit gründliche, umfassende Fachkenntnisse und selbstständige Leistungen erfordert (Gründliche, umfassende Fachkenntnisse bedeuten gegenüber den in den EG 6 bis 9a geforderten gründlichen und vielseitigen Fachkenntnissen eine Steigerung der Tiefe und der Breite nach.)
+• Beschäftigte mit abgeschlossener Hochschulbildung und entsprechender Tätigkeit sowie sonstige Beschäftigte, die aufgrund gleichwertiger Fähigkeiten und ihrer Erfahrungen entsprechende Tätigkeiten ausüben.
+• Beschäftigte, deren Tätigkeit gründliche, umfassende Fachkenntnisse und selbstständige Leistungen erfordert (Gründliche, umfassende Fachkenntnisse bedeuten gegenüber den in den EG 6 bis 9a geforderten gründlichen und vielseitigen Fachkenntnissen eine Steigerung der Tiefe und der Breite nach.)
 ○ EG 9c
 Beschäftigte, deren Tätigkeit sich dadurch aus der EG 9b heraushebt, dass sie besonders verantwortungsvoll ist.
 ○ EG 10
@@ -76,20 +76,36 @@ Beschäftigte, deren Tätigkeit sich durch besondere Schwierigkeit und Bedeutung
 Beschäftigte, deren Tätigkeit sich durch das Maß der damit verbundenen Verantwortung erheblich aus der EG 11 heraushebt.
 • EG 13 bis 15
 ○ EG 13
-▫ Beschäftigte mit abgeschlossener wissenschaftlicher Hochschulbildung und entsprechender Tätigkeit sowie sonstige Beschäftigte, die aufgrund gleichwertiger Fähigkeiten und ihrer Erfahrungen entsprechende Tätigkeiten ausüben.
-▫ Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
+• Beschäftigte mit abgeschlossener wissenschaftlicher Hochschulbildung und entsprechender Tätigkeit sowie sonstige Beschäftigte, die aufgrund gleichwertiger Fähigkeiten und ihrer Erfahrungen entsprechende Tätigkeiten ausüben.
+• Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
 ○ EG 14
-▫ Beschäftigte der EG 13 Fallgruppe 1, deren Tätigkeit sich mindestens zu einem Drittel
+• Beschäftigte der EG 13 Fallgruppe 1, deren Tätigkeit sich mindestens zu einem Drittel
 - durch besondere Schwierigkeit und Bedeutung oder
 - durch das Erfordernis hochwertiger Leistungen bei besonders schwierigen Aufgaben aus der EG 13 Fallgruppe 1 heraushebt.
-▫ Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
-▫ Beschäftigte der EG 13 Fallgruppe 1, denen mindestens drei Beschäftigte mindestens der EG 13 durch ausdrückliche Anordnung ständig unterstellt sind.
+• Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
+• Beschäftigte der EG 13 Fallgruppe 1, denen mindestens drei Beschäftigte mindestens der EG 13 durch ausdrückliche Anordnung ständig unterstellt sind.
 ○ EG 15
-▫ Beschäftigte der EG 13 Fallgruppe 1, deren Tätigkeit sich
+• Beschäftigte der EG 13 Fallgruppe 1, deren Tätigkeit sich
 - durch besondere Schwierigkeit und Bedeutung sowie
 - erheblich durch das Maß der damit verbundenen Verantwortung aus der EG 13 Fallgruppe 1 heraushebt.
-▫ Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
-▫ Beschäftigte mit der EG 13 Fallgruppe 1, denen mindestens fünf Beschäftigte mindestens der EG 13 durch ausdrückliche Anordnung ständig unterstellt sind.
+• Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
+• Beschäftigte mit der EG 13 Fallgruppe 1, denen mindestens fünf Beschäftigte mindestens der EG 13 durch ausdrückliche Anordnung ständig unterstellt sind.
+• EG 13 bis 15
+○ EG 13
+• Beschäftigte mit abgeschlossener wissenschaftlicher Hochschulbildung und entsprechender Tätigkeit sowie sonstige Beschäftigte, die aufgrund gleichwertiger Fähigkeiten und ihrer Erfahrungen entsprechende Tätigkeiten ausüben.
+• Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
+○ EG 14
+• Beschäftigte der EG 13 Fallgruppe 1, deren Tätigkeit sich mindestens zu einem Drittel
+- durch besondere Schwierigkeit und Bedeutung oder
+- durch das Erfordernis hochwertiger Leistungen bei besonders schwierigen Aufgaben aus der EG 13 Fallgruppe 1 heraushebt.
+• Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
+• Beschäftigte der EG 13 Fallgruppe 1, denen mindestens drei Beschäftigte mindestens der EG 13 durch ausdrückliche Anordnung ständig unterstellt sind.
+○ EG 15
+• Beschäftigte der EG 13 Fallgruppe 1, deren Tätigkeit sich
+- durch besondere Schwierigkeit und Bedeutung sowie
+- erheblich durch das Maß der damit verbundenen Verantwortung aus der EG 13 Fallgruppe 1 heraushebt.
+• Beschäftigte in kommunalen Einrichtungen und Betrieben, deren Tätigkeit wegen der Schwierigkeit der Aufgaben und der Größe ihrer Verantwortung ebenso zu bewerten ist wie Tätigkeiten nach Fallgruppe 1.
+• Beschäftigte mit der EG 13 Fallgruppe 1, denen mindestens fünf Beschäftigte mindestens der EG 13 durch ausdrückliche Anordnung ständig unterstellt sind.
 3.1.2 Spezielle Tätigkeitsmerkmale
 a) Bezügerechner
 • EG 5
@@ -102,7 +118,7 @@ Berechner von Dienst- oder Versorgungsbezügen, von Entgelten, einschließlich d
 ○ Beschäftigte, die aufgrund der angegebenen Merkmale die für die Errechnung und Zahlbarmachung der Dienst- oder Versorgungsbezüge, Entgelte einschließlich der Krankenbezüge und Urlaubsentgelte im DV-Verfahren erforderlichen Arbeiten und Kontrollen zur maschinellen Berechnung verantwortlich vornehmen und den damit zusammenhängenden Schriftwechsel selbstständig führen.
 • EG 9a
 ○ Beschäftigte, deren Tätigkeit sich dadurch aus der EG 6 Fallgruppe 1 heraushebt, dass aufgrund der angegebenen tatsächlichen Verhältnisse Entgelte einschließlich der Krankenbezüge und Urlaubsentgelte selbständig zu errechnen und die damit zusammenhängenden Arbeiten (z.B. Feststellen der Versicherungspflicht in der Sozialversicherung und der Zusatzversicherung, Bearbeiten von Abtretungen und Pfändungen) selbstständig auszuführen sind sowie der damit zusammenhängende Schriftwechsel selbstständig zu führen ist. (Das Tätigkeitsmerkmal ist auch erfüllt, wenn die/der Beschäftigte die Beschäftigungszeit sowie das Tabellenentgelt nach §§ 15 und 16 TVöD bei der Einstellung nicht festzusetzen und Abtretungen und Pfändungen nicht zu bearbeiten hat.)
-○ Beschäftigte, deren Tätigkeit sich dadurch aus der EG 6 Fallgruppe 2 heraushebt, dass aufgrund der angegebenen tatsächlichen Verhältnisse die für die Errechnung und Zahlbarmachung der Dienst- oder Versorgungsbezüge, Entgelte, einschließlich der Krankenbezüge und Urlaubsentgelte im DV-Verfahren notwendigen Merkmale und die sonstigen Anspruchsvoraussetzungen festzustellen, die erforderlichen Arbeiten (z.B. Feststellen der Versicherungspflicht in der Sozialversicherung und der Zusatzversicherung, Bearbeiten von Abtretungen und Pfändungen) und Kontrollen zur maschinellen Berechnung verantwortlich vorzunehmen sind sowie der damit zusammenhängende Schriftwechsel selbstständig zu führen ist. (Das Tätigkeitsmerkmal ist auch erfüllt, wenn die/der Beschäftigte das Besoldungsdienstalter nicht erstmals, die ruhegehaltfähigen Dienstbezüge nicht erstmals, die ruhegehaltfähige Dienstzeit, die Beschäftigungszeit sowie das Tabellenentgelt nach §§ 15 und 16 TVöD bei der Einstellung nicht festzusetzen, keine Widerspruchsbescheide zu erteilen und Abtretungen und Pfändungen nicht zu bearbeiten hat.)
+○ Beschäftigte, deren Tätigkeit sich dadurch aus der EG 6 Fallgruppe 2 heraushebt, dass aufgrund der angegebenen tatsächlichen Verhältnisse die für die Errechnung und Zahlbarmachung der Dienst- oder Versorgungsbezüge, Entgelte, einschließlich der Krankenbezüge und Urlaubsentgelte im DV-Verfahren notwendigen Merkmale und die sonstigen Anspruchsvoraussetzungen festzustellen ist, die erforderlichen Arbeiten (z.B. Feststellen der Versicherungspflicht in der Sozialversicherung und der Zusatzversicherung, Bearbeiten von Abtretungen und Pfändungen) und Kontrollen zur maschinellen Berechnung verantwortlich vorzunehmen sind sowie der damit zusammenhängende Schriftwechsel selbstständig zu führen ist.
 ○ Beschäftigte, denen mindestens drei Beschäftigte mit Tätigkeiten mindestens der EG 6 Fallgruppen 1 oder 2 durch ausdrückliche Anordnung ständig unterstellt sind.
 • EG 9b
 Beschäftigte, denen mindestens vier Beschäftigte mit Tätigkeiten mindestens der EG 9a Fallgruppen 1 oder 2 durch ausdrückliche Anordnung ständig unterstellt sind.
@@ -129,13 +145,13 @@ Beschäftigte der EG 9a, deren Tätigkeit umfassende Fachkenntnisse erfordert (U
 ○ Beschäftigte der EG 11 Fallgruppe 2 mit mindestens dreijähriger praktischer Erfahrung, deren Tätigkeit sich mindestens zu einem Drittel durch besondere Schwierigkeit und Bedeutung oder durch Spezialaufgaben aus der EG 11 Fallgruppe 2 heraushebt.
 ○ Beschäftigte der EG 11 Fallgruppe 2 mit mindestens dreijähriger praktischer Erfahrung, deren Tätigkeit sich durch besondere Schwierigkeit und Bedeutung oder durch Spezialaufgaben aus der EG 11 Fallgruppe 2 heraushebt.
 ○ Beschäftigte der EG 10 mit mindestens dreijähriger praktischer Erfahrung, die durch ausdrückliche Anordnung als Leiterin oder Leiter einer IT Gruppe bestellt sind und denen mindestens
-▫ zwei Beschäftigte dieses Abschnitts mindestens der EG 11 oder
-▫ drei Beschäftigte dieses Abschnitts mindestens der EG 10 durch ausdrückliche Anordnung ständig unterstellt sind.
+• zwei Beschäftigte dieses Abschnitts mindestens der EG 11 oder
+• drei Beschäftigte dieses Abschnitts mindestens der EG 10 durch ausdrückliche Anordnung ständig unterstellt sind.
 • EG 13
 ○ Beschäftigte der EG 12 Fallgruppe 2, deren Tätigkeit sich mindestens zu einem Drittel durch das Maß der Verantwortung erheblich aus der EG 12 Fallgruppe 2 heraushebt.
 ○ Beschäftigte der EG 10 mit mindestens dreijähriger praktischer Erfahrung, die durch ausdrückliche Anordnung als Leiterin oder Leiter einer IT Gruppe bestellt sind und denen mindestens
-▫ zwei Beschäftigte dieses Abschnitts mindestens der EG 12 oder
-▫ drei Beschäftigte dieses Abschnitts mindestens der EG 11 durch ausdrückliche Anordnung ständig unterstellt sind.
+• zwei Beschäftigte dieses Abschnitts mindestens der EG 12 oder
+• drei Beschäftigte dieses Abschnitts mindestens der EG 11 durch ausdrückliche Anordnung ständig unterstellt sind.
 c) Ingenieurinnen und Ingenieure
 Ingenieure sind Beschäftigte, die einen erfolgreichen Abschluss eines technisch-ingenieurwissenschaftlichen Studiengangs im Sinne der Nr. 4 der grundsätzlichen Eingruppierungsregelungen einschließlich der Fachrichtungen Gartenbau, Landschaftsplanung/-architektur oder Landschaftsgestaltung oder der Fachrichtung Forstwirtschaft nachweisen. Die Tätigkeitsmerkmale der Fallgruppen 2 der Ziffer 3.1.1 Punkt 4 (EG 13 bis 15) finden auch auf Ingenieure im Sinne der Nr. 1 Anwendung; Nr. 1 Satz 4 der grundsätzlichen Eingruppierungsregelungen bleibt unberührt.
 • EG 10
@@ -207,8 +223,8 @@ Beschäftigte der EG 8, die zu mindestens einem Viertel verantwortlichere Tätig
 Beschäftigte der EG 9b Fallgruppe 1, deren Tätigkeit besondere Kenntnisse und Erfahrungen erfordert.
 3.2 Entgeltübersicht
 EG | ggf. weitere Anforderungen bzw. nicht abschließende Beispiele | Entgelt in Euro
-1 | Grundentgelt | 13,94
-Ab dem 3. Jahr in der Tätigkeit | 14,14 | 
+1 | Grundentgelt | 14,28*
+Ab dem 3. Jahr in der Tätigkeit | 14,28* | 
 Ab dem 10. Jahr in der Tätigkeit | 14,61 | 
 2 | Grundentgelt | 15,28
 Ab dem 4. Jahr in der Tätigkeit | 16,77 | 
@@ -258,3 +274,6 @@ Ab dem 11. Jahr in der Tätigkeit | 39,97 |
 15 | Grundentgelt | 32,57
 Ab dem 4. Jahr in der Tätigkeit | 37,07 | 
 Ab dem 11. Jahr in der Tätigkeit | 43,65 | 
+Fußnoten
+* Entspricht dem Landesmindestlohn zum Stand 01.02.2025.
+* Entspricht dem Landesmindestlohn zum Stand 01.02.2025.

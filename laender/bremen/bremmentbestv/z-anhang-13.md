@@ -12,8 +12,11 @@ Entgelttabelle 13 | Abbruch- und Abwrackleistungen
 45111300-1 | Abbauarbeiten
 45111310-4 | Abbauarbeiten für Militäranlagen
 45111320-7 | Abbauarbeiten für Sicherheitsanlagen
+45234113-1 | Rückbau von Gleisen
+45262660-5 | Asbestbeseitigungsarbeiten
 50243000-0 | Abwracken von Schiffen
+50531510-4 | Demontage von Bohrtürmen
 90650000-8 | Asbestbeseitigung
 VOB/C - DIN 18459 | Abbruch- und Rückbauarbeiten
-Entgelttabelle Nr. 13 Abbruch- und Abwrackleistungen Stand September 2024
+Entgelttabelle Nr. 13 Abbruch- und Abwrackleistungen Stand Juni 2025
 Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.

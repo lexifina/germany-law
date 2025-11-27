@@ -44,8 +44,9 @@ Entgelttabelle 30 | privates Versicherungsgewerbe
 66519500-6 | Schadensabwicklung
 66519600-7 | Versicherungsmathematik
 66522000-5 | Altersvorsorge (Gruppenversicherungen)
+66600000-6 | Finanzen und Liquiditätssteuerung
 66700000-7 | Rückversicherungen
 66710000-0 | Rückversicherungen (Lebensversicherung)
 66720000-3 | Rückversicherungen (Unfall- und Krankenversicherung)
-Entgelttabelle Nr. 30 privates Versicherungsgewerbe Stand September 2024
-Diese Entgelttabelle ist an dem maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
+Entgelttabelle Nr. 30 privates Versicherungsgewerbe Stand Juni 2025
+Diese Entgelttabelle ist an den maßgeblichen Branchentarifvertrag (Rahmen- bzw. Manteltarifvertrag einschließlich Entgelttarifverträge) angelehnt. Zur besseren Lesbarkeit wird im Lohngitter die männliche Form verwendet, umfasst jedoch männliche, weibliche und diverse Geschlechter.
