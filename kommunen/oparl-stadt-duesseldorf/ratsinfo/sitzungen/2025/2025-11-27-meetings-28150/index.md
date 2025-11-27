@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-11-27T18:00:00+01:00
+- Ende: 2025-11-27T20:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28150
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28150
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTOvom 27.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00570093.pdf
+- Ergebnisprotokoll: NachtragsTOvom 27.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00570093.pdf
+- Wortprotokoll: NachtragsTOvom 27.11.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00570093.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Wahl des Bezirksbürgermeisters / der Bezirksbürgermeisterin und der Stellvertreter / Stellvertreterinnen
+- TOP 3: Verpflichtung der Mitglieder der Bezirksvertretung 8
+- TOP 4: Anerkennung der Tagesordnung
+- TOP 5: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Landes NRW - einstimmig beschlossen
+- TOP 6: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Eller Nord, Mitte und Süd - abweichend beschlossen
+- TOP 7: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Lierenfeld Nord und Süd - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Annahme einer Spende zur Umgestaltung des Kinderspielplatzes Gertrudisplatz - Empfehlung einstimmig beschlossen
+- TOP 11: Bebauungsplan-Entwurf Nr. 03/029 (alt: 5674/048) - Planstraße Oberbilk (alt: Ortsumgehung Oberbilk) - Empfehlung abweichend beschlossen
+- TOP 12: Radverkehrsführung Gubener Straße im Abschnitt Höherhofstraße / Sandträgerweg - Empfehlung abweichend beschlossen
+- TOP 13: Freigabe Verkaufsoffener Sonntagnachmittage im Jahr 2026 - Empfehlung mehrheitlich beschlossen
+- TOP 14: Ludwigshafener Straße (I-2020324001) - Ausführungs- und Finanzierungsbeschluss - - vertagt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Haushalt 2025 Liste A Schulen - einstimmig beschlossen
+- TOP 18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2025 - einstimmig beschlossen
+- TOP 19: Zuschüsse der Bezirksvertretung 8 im Jahre 2025 - einstimmig beschlossen
+- TOP 20: Stadtbaumkonzept für Düsseldorf (7. Pflanzperiode) - zur Kenntnis genommen
+- TOP 21: Breidenplatz in Unterbach - zur Kenntnis genommen
+- TOP 22: Ortsumgehung Flingern, 2. BA - zur Kenntnis genommen
+- TOP 23: Ampel Bernburger Straße / Heidelberger Straße / Karlsruher Straße / Alt-Eller - zur Kenntnis genommen
+- TOP 24: Verkehrssicherheit Kreuzburger Weg - zur Kenntnis genommen
+- TOP 25: Spielplatz Am Hackenbruch - zur Kenntnis genommen
+- TOP 26: Durchsetzung des Durchfahrtverbots Gumbertstraße - zur Kenntnis genommen
+- TOP 27: KGV Am Dammsteg - zur Kenntnis genommen
+- TOP 28: Pilotprojekt „Revitalisierung der Wochenmärkte" am Gertrudisplatz: Die Maßnahmen müssen starten - zur Kenntnis genommen
+- TOP 29: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 30: Sitzungstermine der Bezirksvertretung 8 im Jahr 2026 - zur Kenntnis genommen
+- TOP 31: Baubrache Alte Tankstelle / Getränkemarkt Jägerstraße - zur Kenntnis genommen
+- TOP 32: Radweg Rathelbeckstraße / Rothenbergstraße - zur Kenntnis genommen
+- TOP 33: Geschwindigkeitsanzeigetafel-Auswertung Sandträgerweg - zur Kenntnis genommen
+- TOP 34: Gehwegabsenkungen in Eller - zur Kenntnis genommen
+- TOP 35: Verschiedenes - zur Kenntnis genommen
