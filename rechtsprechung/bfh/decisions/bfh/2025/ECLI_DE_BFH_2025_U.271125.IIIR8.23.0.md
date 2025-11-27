@@ -1,0 +1,79 @@
+---
+ecli: "ECLI:DE:BFH:2025:U.271125.IIIR8.23.0"
+court: "Bundesfinanzhof"
+aktenzeichen: "III R 8/23"
+decided: "2025-11-27"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/STRE202620017.xml"
+neuris_doknr: "STRE202620017"
+---
+
+# Bundesfinanzhof, III R 8/23 vom 2025-11-27
+
+## Leitsatz
+
+Der Senat ist nicht überzeugt, dass § 10 Abs. 1 Nr. 5 Satz 1 des Einkommensteuergesetzes insofern verfassungswidrig ist, als der Sonderausgabenabzug die Haushaltszugehörigkeit des Kindes voraussetzt (vgl. bereits Senatsurteil vom 11.05.2023 - III R 9/22, BFHE 280, 465, BStBl II 2023, 861)11 15 16. Dies gilt auch, soweit die Betreuungsaufwendungen desjenigen Elternteils, der das Kind nicht in seinen Haushalt aufgenommen hat, nicht mehr durch den Freibetrag für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf abgedeckt sind.20
+
+## Tenor
+
+Die Revision des Klägers gegen das Urteil des Finanzgerichts Köln vom 19.01.2023 - 15 K 268/21 wird als unbegründet zurückgewiesen.
+
+Die Kosten des Revisionsverfahrens hat der Kläger zu tragen.
+
+## Tatbestand
+
+I.
+
+1 Der Kläger und Revisionskläger (Kläger) macht im Veranlagungszeitraum 2018 (Streitjahr) den Sonderausgabenabzug von Kinderbetreuungskosten für seine im Jahr 2015 geborene Tochter geltend. Ausgehend davon, dass die einfachrechtlichen Voraussetzungen nicht erfüllt sind, rügt er aus mehreren Gründen die Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 des Einkommensteuergesetzes in der im Streitjahr geltenden Fassung (EStG 2018) und regt deshalb eine diesbezügliche Vorlage an das Bundesverfassungsgericht (BVerfG) an.
+
+2 Das Kindergeld für die Tochter bezog die Mutter, mit der der Kläger nicht verheiratet war. Die Eltern waren gemeinsam sorgeberechtigt und lebten seit Mai 2017 getrennt. Im Streitjahr bewohnten sie circa vier Kilometer voneinander entfernt liegende Wohnungen. Nach der unter Berücksichtigung des auszugsweise wiedergegebenen gerichtlichen Vergleichs der Eltern zum Umgangsrecht gewonnenen Überzeugung des Finanzgerichts (FG) bestand im Streitjahr eine alleinige Haushaltszugehörigkeit der Tochter bei der Mutter; eine doppelte Haushaltszugehörigkeit bei beiden Eltern verneinte das FG.
+
+3 Die Tochter wurde im Streitjahr zunächst in einer privaten Kindertagesstätte (Kita) und ab August 2018 in einer staatlichen Kita betreut. Nach den Feststellungen des FG überwies der Kläger im Streitjahr Beiträge von insgesamt 7.133,50 € unmittelbar an die Kitas (6.683,50 € und 450 €; im Klageverfahren vor dem FG legte er dafür korrigierte, nunmehr auf ihn selbst ausgestellte Rechnungen vor). Für weitere Kita-Beiträge überwies der Kläger im Streitjahr 1.020,71 € an die Mutter, die sie an die Kitas bezahlte. Ferner leistete der Kläger Kindesunterhalt in Höhe von 11.059,50 € (Barunterhalt gemäß dem Höchstsatz der Düsseldorfer Tabelle).
+
+4 Neben Einkünften aus nichtselbständigen Tätigkeiten erzielte der einzeln zur Einkommensteuer veranlagte Kläger im Streitjahr insbesondere Einkünfte aus freiberuflicher Arbeit. Der Beklagte und Revisionsbeklagte (Finanzamt --FA--) veranlagte ihn zunächst ohne Berücksichtigung der geltend gemachten Betreuungskosten mit Bescheid vom 16.07.2020 unter dem Vorbehalt der Nachprüfung. Den fehlenden Abzug der Kinderbetreuungskosten begründete das FA mit der fehlenden Haushaltszugehörigkeit der Tochter. Auch im Änderungsbescheid vom 01.10.2020, mit dem es den Nachprüfungsvorbehalt aufhob, sowie in weiteren Änderungsbescheiden vom 11.03.2021 und 13.04.2021 ließ das FA die Kinderbetreuungskosten nicht zum Abzug zu.
+
+5 Schon im Einspruchsverfahren rügte der Kläger die Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 EStG 2018. Das FA wies den Einspruch durch Einspruchsentscheidung vom 11.01.2021 als unbegründet zurück.
+
+6 Die anschließende Klage des Klägers hatte keinen Erfolg. Das FG wies sie durch das in Entscheidungen der Finanzgerichte 2023, 1133 veröffentlichte Urteil vom 19.01.2023 - 15 K 268/21 als unbegründet zurück. Mangels Überzeugung von der Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 EStG 2018 setzte das FG das Klageverfahren nicht aus, um ein Verfahren der konkreten Normenkontrolle beim BVerfG einzuleiten.
+
+7 Mit der vom FG unter Verweis auf das damals noch anhängige Senatsverfahren III R 9/22 zugelassenen Revision macht der Kläger die Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 EStG 2018 geltend.
+
+8 Der Kläger beantragt,das FG-Urteil vom 19.01.2023 - 15 K 268/21 aufzuheben und die Einkommensteuerfestsetzung 2018 in Gestalt des letzten Änderungsbescheids vom 13.04.2021 dahingehend zu ändern, dass Kinderbetreuungskosten in Höhe von 8.154,21 € in voller Höhe steuermindernd berücksichtigt werden.
+
+9 Er regt an, das Revisionsverfahren auszusetzen und dem BVerfG die Frage zur Entscheidung vorzulegen, ob § 10 Abs. 1 Nr. 5 EStG 2018 mit dem Grundgesetz (GG) vereinbar ist.
+
+10 Das FA beantragt,die Revision als unbegründet zurückzuweisen.
+
+## Entscheidungsgründe
+
+II.
+
+11 Die Revision ist unbegründet und daher nach § 126 Abs. 2 der Finanzgerichtsordnung (FGO) zurückzuweisen. Das FG hat die Klage zu Recht mit der Begründung abgewiesen, dass die einfachgesetzlichen Voraussetzungen für den Abzug von Kinderbetreuungskosten im Streitjahr beim Kläger nicht erfüllt waren (1.). Ebenso wie das FG ist der erkennende Senat nicht davon überzeugt, dass die Vorschrift des § 10 Abs. 1 Nr. 5 EStG 2018 verfassungswidrig ist (2.).
+
+12 1. Das FG hat zutreffend entschieden, dass der mit der Klage begehrte Abzug von Kinderbetreuungskosten im Streitjahr mangels Haushaltszugehörigkeit der Tochter beim Kläger vollumfänglich ausscheidet.
+
+13 a) Als Sonderausgaben abziehbar sind nach § 10 Abs. 1 Nr. 5 Satz 1 EStG 2018 zwei Drittel der nicht als Betriebsausgaben oder Werbungskosten abzugsfähigen Aufwendungen, höchstens 4.000 € je Kind, für Dienstleistungen zur Betreuung eines zum Haushalt des Steuerpflichtigen gehörenden Kindes im Sinne des § 32 Abs. 1 EStG 2018, welches das 14. Lebensjahr noch nicht vollendet hat oder wegen einer vor Vollendung des 25. Lebensjahres eingetretenen körperlichen, geistigen oder seelischen Behinderung außerstande ist, sich selbst zu unterhalten. Gemäß § 10 Abs. 1 Nr. 5 Satz 2 EStG 2018 ausgenommen sind Aufwendungen für Unterricht, die Vermittlung besonderer Fähigkeiten sowie für sportliche und andere Freizeitbetätigungen (vgl. dazu Senatsurteil vom 23.01.2025 - III R 33/24 (III R 50/17), BStBl II 2025, 516, Rz 25 f.). Gemäß § 10 Abs. 1 Nr. 5 Satz 4 EStG 2018 ist Voraussetzung für den Abzug der Aufwendungen nach Satz 1, dass der Steuerpflichtige für die Aufwendungen eine Rechnung erhalten hat und die Zahlung auf das Konto des Erbringers der Leistung erfolgt ist.
+
+14 b) Nach dem Gesamtergebnis des Verfahrens gelangte das FG in revisionsrechtlich nicht zu beanstandender Weise zu der Überzeugung, dass die Tochter im Streitjahr allein dem Haushalt der Mutter und nicht zugleich dem Haushalt des Klägers zugehörig war. Die von Letzterem mit der Revision nicht angegriffene, nach Maßgabe der tatrichterlichen Feststellungen (§ 118 Abs. 2 FGO) getroffene Würdigung des FG, dass keine doppelte Haushaltszugehörigkeit gegeben war, ist Ausgangspunkt der revisionsrechtlichen Überprüfung und der die Konstellation des Streitfalls in den Blick nehmenden verfassungsrechtlichen Würdigung. Auf die Frage, ob und inwieweit der Kläger die weiteren Voraussetzungen der Sätze 2 ff. des § 10 Abs. 1 Nr. 5 EStG 2018 und insbesondere jene des Satzes 4 erfüllte, kam es aus der zutreffenden Sicht des FG nicht an. Die Entscheidung, dass der Kläger im Streitjahr die einfachrechtlichen Abzugsvoraussetzungen schon mangels Haushaltszugehörigkeit der Tochter bei ihm selbst nicht erfüllte, ist nicht zu beanstanden.
+
+15 2. Eine Aussetzung gemäß § 74 FGO und eine Vorlage an das BVerfG zum Zwecke der verfassungsgerichtlichen Normenkontrolle (Art. 100 Abs. 1 Satz 1 GG i.V.m. §§ 80 ff. des Bundesverfassungsgerichtsgesetzes) kommen auch im Revisionsverfahren nicht in Betracht. Denn ebenso wie im Verfahren III R 9/22 ist der erkennende Senat auch in Anbetracht der vorliegenden Revision des Klägers nicht von der Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 EStG 2018 überzeugt. Das gilt sowohl im Hinblick auf das Zusammenwirken dieser Vorschrift mit den kindbezogenen Freibeträgen gemäß § 32 Abs. 6 EStG 2018 als auch im Hinblick auf die Höhe des Freibetrags für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf (BEA-Freibetrag).
+
+16 a) Soweit der erkennende Senat bereits im Urteil vom 11.05.2023 - III R 9/22 (BFHE 280, 465, BStBl II 2023, 861) mit ausführlicher Begründung seine fehlende Überzeugung von der Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 Satz 1 EStG a.F. begründet hat, hält er hieran fest. Die damals der verfassungsrechtlichen Überprüfung zugrunde gelegte Gesetzesfassung stimmt mit jener des § 10 Abs. 1 Nr. 5 Satz 1 EStG 2018 überein. Das BVerfG hat die gegen das Senatsurteil III R 9/22 erhobene Verfassungsbeschwerde durch Beschluss vom 22.02.2024 - 2 BvR 1041/23 nicht zur Entscheidung angenommen.
+
+17 Nach dem Senatsurteil III R 9/22 beruht das Kriterium der Haushaltszugehörigkeit in § 10 Abs. 1 Nr. 5 Satz 1 EStG auf einer verfassungsrechtlich zulässigen Typisierung. Die Vorschrift verstößt jedenfalls dann nicht gegen die steuerliche Freistellung des Existenzminimums (Art. 1 Abs. 1 GG i.V.m. Art. 20 Abs. 1 GG), den allgemeinen Gleichheitssatz (Art. 3 Abs. 1 GG) und den grundrechtlichen Schutz von Ehe und Familie (Art. 6 Abs. 1 GG), wenn die Betreuungsaufwendungen desjenigen Elternteils, der das Kind nicht in seinen Haushalt aufgenommen hat, durch den ihm gewährten BEA-Freibetrag abgedeckt sind. Hinsichtlich der Einzelheiten der verfassungsrechtlichen Würdigung des Senats wird zur Vermeidung von Wiederholungen auf die Ausführungen im Senatsurteil vom 11.05.2023 - III R 9/22 (BFHE 280, 465, BStBl II 2023, 861, Rz 16 ff.) Bezug genommen.
+
+18 Auch nach nochmaliger Überprüfung ist der erkennende Senat nicht von der Verfassungswidrigkeit des Kriteriums der Haushaltszugehörigkeit in § 10 Abs. 1 Nr. 5 Satz 1 EStG 2018 überzeugt. Er teilt insbesondere nicht die Auffassung des Klägers, dass sich die Vorschrift in Trennungssachverhalten nicht (mehr) am typischen Fall orientiere und dass es bezüglich des Abzugs von Kinderbetreuungskosten an einem sachlichen Grund für die Differenzierung zwischen Eltern mit und ohne Haushaltszugehörigkeit des Kindes fehle.
+
+19 b) Die Besonderheit des vorliegenden Verfahrens besteht allerdings darin, dass beim Kläger die bislang vom Senat offen gelassene Fallkonstellation gegeben ist und diese daher verfassungsrechtlich zu würdigen ist. Die vom Kläger im Streitjahr getragenen Kinderbetreuungskosten liegen deutlich über dem einfachen BEA-Freibetrag. Dieser belief sich im Streitjahr auf lediglich 1.320 € und stand dem Kläger neben dem einfachen Kinderfreibetrag von 2.394 € zu. Die Summe der kindbezogenen Freibeträge des Klägers betrug demnach 3.714 €. Die von ihm im Streitjahr an die beiden Kitas überwiesenen Beiträge beliefen sich demgegenüber auf 7.133,50 €; hinzu kam die vom FG festgestellte Überweisung an die Mutter in Höhe von 1.020,71 € für weitere Kita-Beiträge.
+
+20 Der Senat ist zwar nicht davon überzeugt, dass die Rechtslage nach dem Einkommensteuergesetz 2018 im Hinblick auf die steuerliche Behandlung von Kinderbetreuungskosten auch in der vorliegenden Fallkonstellation in vollem Umfang verfassungsgemäß ist, er ist aber ebenso wenig davon überzeugt, dass sie verfassungswidrig ist. Infolgedessen liegen die Voraussetzungen für eine konkrete Normenkontrolle beziehungsweise die Vorlage an das BVerfG nicht vor. Für mit Blick auf Art. 3 Abs. 1 GG i.V.m. Art. 6 Abs. 1 und Abs. 2 GG verfassungsrechtlich zweifelhaft erachtet es der Senat, wenn das Kriterium der Haushaltszugehörigkeit im Einzelfall dazu führen kann, dass über die BEA-Freibeträge hinausgehende Kinderbetreuungskosten bei keinem Elternteil beziehungsweise bei einer Gesamtbetrachtung nicht bis zu der verfassungsrechtlich zulässigen Kappungsgrenze (s. dazu c) als Sonderausgaben abzugsfähig sind, obgleich den jeweiligen BEA-Freibetrag übersteigende Aufwendungen für die Kinderbetreuung von den Eltern getragen wurden. Da es jedoch nach wie vor gute Gründe gibt, bei der Abzugsfähigkeit der Betreuungskosten an das Kriterium der Haushaltszugehörigkeit anzuknüpfen, ist der Senat nicht von der Verfassungswidrigkeit der Regelung überzeugt. Denn die Notwendigkeit einer externen Kinderbetreuung besteht in erster Linie bei dem Elternteil, in dessen Haushalt das Kind lebt und der durch die Kinderbetreuung zum Beispiel die Möglichkeit bekommt, einer Erwerbstätigkeit nachzugehen.
+
+21 c) Angesichts der fehlenden Haushaltszugehörigkeit der Tochter beim Kläger hat das FG zutreffend entschieden, dass die Verfassungsmäßigkeit der Beschränkung des Sonderausgabenabzugs der Höhe nach im Streitfall nicht entscheidungserheblich ist. Gemäß § 10 Abs. 1 Nr. 5 Satz 1 EStG 2018 sind zwei Drittel der Aufwendungen für Betreuungsdienstleistungen und höchstens 4.000 € als Sonderausgaben abzugsfähig (durch Jahressteuergesetz 2024 vom 02.12.2024, BGBl. 2024 I Nr. 387, mit Wirkung vom 01.01.2025 auf 4.800 € angehoben, zugleich Ersetzung des Zwei-Drittel-Abzugs durch 80 %-Abzug). Der erkennende Senat ist auch insoweit nicht von der Verfassungswidrigkeit der Vorschrift überzeugt (für die Verfassungsmäßigkeit z.B. Schmidt/Krüger, EStG, 44. Aufl., § 10 Rz 64 mit Verweis auf das Senatsurteil vom 14.11.2013 - III R 18/13, BFHE 243, 514, BStBl II 2014, 383, zu einer früheren Rechtslage; vgl. zur Verfassungsmäßigkeit der beschränkten Abziehbarkeit von Kinderbetreuungskosten gemäß § 4f EStG a.F. und § 9 Abs. 5 Satz 1 EStG a.F. die Senatsurteile vom 09.02.2012 - III R 67/09, BFHE 237, 39, BStBl II 2012, 567, und vom 05.07.2012 - III R 80/09, BFHE 238, 76, BStBl II 2012, 816, die betreffende Verfassungsbeschwerde wurde durch Beschluss des BVerfG vom 07.05.2014 - 2 BvR 2454/12 nicht zur Entscheidung angenommen; vgl. auch BVerfG-Beschluss vom 20.10.2010 - 2 BvR 2064/08, Höchstrichterliche Finanzrechtsprechung 2011, 208 zu § 33c EStG a.F.).
+
+22 d) Ohne dass es im Streitfall darauf ankäme, ist der Senat auch nicht von der Verfassungswidrigkeit des § 10 Abs. 1 Nr. 5 Satz 4 EStG 2018 überzeugt. Die Voraussetzung des Erhalts einer Rechnung für die Betreuungsaufwendungen ist ebenso sachlich gerechtfertigt wie die Voraussetzung der Zahlung auf das Konto des Leistungserbringers (vgl. die in den Gesetzesmaterialien anlässlich der Einführung von § 4f EStG a.F. enthaltenen Hinweise auf die Zwecke der Missbrauchsvorbeugung und der Schwarzarbeitsbekämpfung, BTDrucks 16/643, S. 9).
+
+23 e) Die Verfassungswidrigkeit der Höhe der kindbezogenen Freibeträge gemäß § 32 Abs. 6 Satz 1 EStG 2018 und insbesondere des BEA-Freibetrags im Streitjahr 2018 macht der Kläger mit der Revision nicht geltend, sondern er beruft sich darauf, dass die geltenden Freibeträge auch bei typisierender Betrachtungsweise nicht ausreichend gewesen seien, um die Begrenzung des Sonderausgabenabzugs auf zwei Drittel und maximal 4.000 € zu rechtfertigen.
+
+24 Auch im Hinblick auf die Höhe des BEA-Freibetrags im Streitjahr besteht beim erkennenden Senat keine Überzeugung von der Verfassungswidrigkeit (vgl. in diesem Zusammenhang den BVerfG-Beschluss vom 05.09.2024 - 2 BvL 3/17, DStR kurzgefasst 2024, 297, durch den die Vorlage des Niedersächsischen FG vom 02.12.2016 - 7 K 83/16 zur Frage der Verfassungswidrigkeit des Kinderfreibetrags nach dem Einkommensteuergesetz 2014 für das sächliche Existenzminimum eines Kindes als unzulässig zurückgewiesen wurde; zum BEA-Freibetrag s. dort Rz 55 ff.; zur Rechtslage nach dem Einkommensteuergesetz 2014 vgl. auch Senatsurteil vom 23.01.2025 - III R 33/24 (III R 50/17), BStBl II 2025, 516, Rz 37 ff., zum BEA-Freibetrag s. Rz 42 ff.).
+
+25 3. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
