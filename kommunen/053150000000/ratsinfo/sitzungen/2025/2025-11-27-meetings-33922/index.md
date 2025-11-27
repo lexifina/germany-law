@@ -1,0 +1,62 @@
+# 1. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-11-27T15:37:00+01:00
+- Ende: 2025-11-27T17:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/199
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33922
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33922
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung der Schriftführung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren und Tonaufzeichnung der Sitzungen - ungeändert beschlossen
+- TOP -: Verpflichtung neuer Mitglieder des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren gemäß § 58 Absätze 1, 3 oder 4 GO NRW in Verbindung mit § 5 der Hauptsatzung der Stadt Köln - Sache ist erledigt
+- TOP -: Rederecht für Vertreter*innen der sozialen Träger im Ausschuss Soziales, Gesundheit, Seniorinnen und Senioren für die Dauer der Wahlperiode des Rates 2025 bis 2030 - geändert beschlossen
+- TOP 1: Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 2: Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt - Kenntnis genommen
+- TOP 3: Gleichstellungsrelevante Themen
+- TOP 4: Integration und Vielfalt
+- TOP 4.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 4.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 4.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 4.3.1: Ergebnisse der Studie "Gesellschaftliche Vielfalt und kommunales Diversity-Management als Standortfaktor" - Kenntnis genommen
+- TOP 4.3.2: Evaluierung des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus (ECCAR) - Kenntnis genommen
+- TOP 5: Aktuelle Situation von Geflüchteten in Köln
+- TOP 5.1: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 6: Arbeit
+- TOP 6.1: Jobcenter Köln
+- TOP 6.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 6.2: Arbeitsmarktförderung
+- TOP 6.2.1: Sachbericht für das Jahr 2024 zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 6.2.2: Sachbericht 2024 des Kölner Netzwerks Arbeits- und Erwerbslosenberatung zum Förderprogramm BOREA - Kenntnis genommen
+- TOP 7: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 7.1: Köln bleibt Queer - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 8: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Ausschussempfehlungen an den Rat
+- TOP 10: Ausschussempfehlungen an andere Ausschüsse
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Maßnahmen zur Förderung sozial gemischter Stadtteile in Köln - vertagt
+- TOP -: Maßnahmen zur Förderung sozial gemischter Quartiere (AN/0695/2025) - vertagt
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 12: Mündliche Anfragen
+- TOP 13: Mitteilungen
+- TOP 13.1: Erweiterung des Suchthilfekonzeptes Köln - Kenntnis genommen
+- TOP 13.2: Jahresbericht 2024 des Anonymen Krankenscheins Köln – Entwicklung, Inanspruchnahme und Finanzierungsperspektive ab 2027 - Kenntnis genommen
+- TOP 13.3: Sachstandsbericht zum Antrag „Zunehmende Verwahrlosung in Köln – Lösungswege für Sicherheit, Sauberkeit, Prävention und gegen Stillstand" (AN/0424/2025) - Kenntnis genommen
+- TOP 13.4: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 13.5: Auswertung der Gebäude- und Wohnungszählung des Zensus 2022: Wohnungsleerstände und Energieträger der Heizungen in Köln - Kenntnis genommen
+- TOP 13.6: Geschäftsbericht "Wohnen in Köln 2024" - Fakten, Zahlen, und Ergebnisse 2024 - Kenntnis genommen
+- TOP 13.7: Bürgereingabe nach §24 GO NRW - Vergütung von Praktika in sozialen Studiengängen, AZ 54/25 - Kenntnis genommen
+- TOP 13.8: Vereinbarung eines Nachtrags zur aktuellen Belegungsvereinbarung für geförderte Wohnungen in Köln - Kenntnis genommen
+- TOP 13.9: Verbraucherberatungsstelle Köln: Jahresbericht 2024 - Kenntnis genommen
+- TOP 13.10: Mitteilung zu Aktivitäten rund um Lehre, Praktisches Jahr (PJ) und die Brückenprofessur - Kenntnis genommen
+- TOP 13.11: Verbraucherberatung im Quartier: Jahresbericht 2024 - Kenntnis genommen
+- TOP 13.12: Stadt Köln wird Fast-Track City und setzt ein Zeichen im Kampf gegen HIV und Aids - Kenntnis genommen
+- TOP 13.13: Bevölkerungsbewegungen in Köln 2024: Wanderungsgewinn maßgeblich durch internationale Zuzüge - Kenntnis genommen
+- TOP 13.14: Aufnahme der Vasektomie in die Kostenübernahme beim Verhütungsmittelfonds - Kenntnis genommen
+- TOP 13.15: Mitteilung zum Förderaufruf des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen (MAGS NRW) "Koordinierung und Vernetzung von gemeindepsychiatrischen Angeboten" für 2026 - Kenntnis genommen
+- TOP 13.16: Tätigkeitsbericht der WTG-Behörde (Heimaufsicht) für die Jahre 2023-2024 - Kenntnis genommen
