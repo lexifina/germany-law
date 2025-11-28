@@ -1,5 +1,8 @@
-# Anlage 1 (zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
+# Anlage 1 (zu § 5 Absatz 3 Satz 2, § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
+Kriterien für die Charakterisierung und Bewertung
+der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
+Teil 1
 Die Charakterisierung und Bewertung von potenziellen Kohlendioxidspeichern und potenziellen Speicherkomplexen wird in drei Stufen nach zum Zeitpunkt der Bewertung bewährten Verfahren und nach den folgenden Kriterien vorgenommen. Abweichungen von einem oder mehreren dieser Kriterien können von der zuständigen Behörde genehmigt werden, sofern der Betreiber nachgewiesen hat, dass dadurch die Aussagekraft der Charakterisierung und Bewertung in Bezug auf die Auswahlentscheidungen nach § 7 Absatz 3 nicht beeinträchtigt wird.
 1. Datenerhebung (Stufe 1)
 1.1 Es sind die erforderlichen Daten zu erheben, um für den Kohlendioxidspeicher und den Speicherkomplex ein volumetrisches und statisches dreidimensionales Erdmodell (3-D-Erdmodell) zu erstellen, welches das Deckgestein und die umgebenden Gesteinsschichten einschließlich der hydraulisch verbundenen Gebiete umfasst. Dieses Datenmaterial muss mindestens die folgenden Daten zur spezifischen Charakteristik des Speicherkomplexes einschließen:
@@ -69,3 +72,21 @@ Die Charakterisierung und Bewertung von potenziellen Kohlendioxidspeichern und p
   Die Folgen werden abgeschätzt ausgehend von der Sensibilität bestimmter Arten, Gemeinschaften oder Lebensräume im Zusammenhang mit den nach Nummer 3.3.1 ermittelten möglichen Leckagen. Gegebenenfalls schließt dies die Folgen der Einwirkung höherer Kohlendioxidkonzentrationen auf die Biosphäre, einschließlich Böden, Meeressedimente und Meeresgewässer, mit ein, beispielsweise Sauerstoffmangel und verringerter pH-Wert des Wassers. Die Folgenabschätzung umfasst darüber hinaus eine Bewertung der Auswirkungen anderer Stoffe, die bei Leckagen aus dem Speicherkomplex austreten können (im Injektionsstrom enthaltene Verunreinigungen oder im Zuge der Kohlendioxidspeicherung entstandene neue Stoffe). Diese Auswirkungen werden im Hinblick auf verschiedene zeitliche und räumliche Größenordnungen und in Verbindung mit Leckagen von unterschiedlichem Umfang betrachtet.
 3.3.4 Risikocharakterisierung
   Die Risikocharakterisierung besteht aus einer Bewertung der kurz- und langfristigen Sicherheit des Kohlendioxidspeichers, einschließlich einer Bewertung des Leckagerisikos unter den vorgeschlagenen Nutzungsbedingungen, und der schlimmsten möglichen Umwelt- und Gesundheitsfolgen. Die Risikocharakterisierung stützt sich auf eine Bewertung der Gefahren und der Gefährdung und auf eine Folgenabschätzung. Sie umfasst eine Bewertung der Unsicherheitsquellen, die während der einzelnen Stufen der Charakterisierung und Bewertung des Kohlendioxidspeichers ermittelt wurden, sowie, im Rahmen des Möglichen, eine Darstellung der Möglichkeiten zur Verringerung der Unsicherheit.
+Teil 2
+Bei der Erarbeitung der erforderlichen naturschutzfachlichen Grundlagen für die Bewertung nach § 5 geht das Bundesamt für Naturschutz insbesondere auf folgende Punkte ein:
+1. naturschutzfachliche Aspekte hinsichtlich
+  a) einer räumlichen Analyse einschließlich Eignungsräume, Sensitivitätsräume, Tabuzonen und Puffer,
+  b) möglicher Auswirkungen von seismischen Untersuchungen bei Erkundung, Errichtung, Betrieb und Überwachung,
+  c) möglicher Schallminderungsmaßnahmen bei seismischen Untersuchungen bei Erkundung, Errichtung, Betrieb und Überwachung,
+  d) möglicher Auswirkungen von Rammarbeiten bei der Errichtung von Infrastruktur, insbesondere von Plattformen, zur Injektion von Kohlendioxid und Überwachung,
+  e) möglicher Schallminderungsmaßnahmen für Rammarbeiten bei der Errichtung von Infrastruktur, insbesondere von Plattformen, zur Injektion von Kohlendioxid und
+  f) möglicher Auswirkungen und Minderungs- oder Vermeidungsmaßnahmen von (Unterwasser‑)Lärm und Vibrationen während des Betriebs, insbesondere Betriebsgeräuschen bei der Injektion von Kohlendioxid, einschließlich Transport;
+2. mögliche visuelle Scheuchwirkungen auf Seevögel durch Erkundung, Errichtung, Betrieb einschließlich Transport;
+3. mögliche Minderungsmaßnahmen von visuellen Scheuchwirkungen auf Seevögel durch Erkundung, Errichtung, Betrieb einschließlich Transport;
+4. mögliche Auswirkungen auf Biotope, insbesondere gesetzlich geschützte Biotope oder FFH-Lebensraumtypen, durch Flächeninanspruchnahme, Eintrag von Wärme und elektromagnetischen Feldern;
+5. mögliche Vermeidungs- und Minderungsmaßnahmen zum Schutz von Arten und Biotopen, insbesondere gesetzlich geschützten Biotopen oder FFH-Lebensräumen, durch
+  a) bodenschonende Verfahren bei der Verlegung von Pipelines und Versorgungsleitungen für Strom und Daten,
+  b) Minderung von Wärmeeintrag, insbesondere zur Einhaltung des 2K-Werts,
+  c) Minderung von elektromagnetischen Feldern, insbesondere bei Versorgungsleitungen (Strom- und Datenkabel) zu Plattformen,
+  d) Nulleinleitung bei Bohrungen, insbesondere im Hinblick auf Bohrkleinmanagement, PLONOR-Listen, ölbasierte Spülungen in geschlossenen Kreisläufen und Entsorgung des Bohrkleins an Land,
+  e) Einsatz von Bohrloch-Kontrollverrichtungen („Blow-Out-Preventer“) zur Vermeidung von unkontrollierten Austritten an der Bohrung oder Injektionsstelle.

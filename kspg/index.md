@@ -1,16 +1,19 @@
-# Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid
+# Gesetz zur dauerhaften Speicherung und zum Transport von Kohlendioxid
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
 - [§ 1 Zweck des Gesetzes](0001.md)
-- [§ 2 Geltungsbereich, landesrechtliche Gebietsbestimmung](0002.md)
+- [§ 2 Geltungsbereich](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 
 ## Kapitel 2 Transport
 
-- [§ 4 Planfeststellung für Kohlendioxidleitungen; Verordnungsermächtigung](0004.md)
+- [§ 4 Planfeststellung und Plangenehmigung für Kohlendioxidleitungen](0004.md)
+- [§ 4a Planfeststellungsverfahren und Plangenehmigungsverfahren für Kohlendioxidleitungen](0004a.md)
+- [§ 4b Enteignung](0004b.md)
+- [§ 4c Verordnungsermächtigung](0004c.md)
 
 ## Kapitel 3 Dauerhafte Speicherung
 
@@ -58,8 +61,8 @@
 
 #### Unterabschnitt 6 Verordnungsermächtigungen
 
-- [§ 25 Regelung von Anforderungen an Kohlendioxidspeicher](0025.md)
-- [§ 26 Regelung von Anforderungen an das Verfahren](0026.md)
+- [§ 25 Regelung von Anforderungen an Kohlendioxidspeicher; Verordnungsermächtigungen](0025.md)
+- [§ 26 Regelung von Anforderungen an das Verfahren; Verordnungsermächtigungen](0026.md)
 
 ### Abschnitt 3 Überprüfung durch die zuständige Behörde; Aufsicht
 
@@ -75,7 +78,7 @@
 
 ## Kapitel 5 Anschluss und Zugang Dritter
 
-- [§ 33 Anschluss und Zugang; Verordnungsermächtigung](0033.md)
+- [§ 33 Anschluss und Zugang; Verordnungsermächtigungen](0033.md)
 - [§ 34 Befugnisse der Bundesnetzagentur; Verordnungsermächtigung](0034.md)
 - [§ 35 Behördliches und gerichtliches Verfahren für den Anschluss und den Zugang Dritter; Verordnungsermächtigung](0035.md)
 
@@ -88,6 +91,7 @@
 ## Kapitel 7 Schlussbestimmungen
 
 - [§ 39 Zuständige Behörden](0039.md)
+- [§ 39a Zuständigkeit des Oberverwaltungsgerichts](0039a.md)
 - [§ 40 Wissensaustausch; Verordnungsermächtigung](0040.md)
 - [§ 41 Gebühren und Auslagen; Verordnungsermächtigung](0041.md)
 - [§ 42 Landesrechtliche Speicherabgaben](0042.md)
@@ -95,5 +99,5 @@
 - [§ 44 Evaluierungsbericht](0044.md)
 - [§ 45 Übergangsvorschrift](0045.md)
 - [§ 46 Ausschluss abweichenden Landesrechts](0046.md)
-- [Anlage 1 (zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung](anlage-1.md)
+- [Anlage 1 (zu § 5 Absatz 3 Satz 2, § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung](anlage-1.md)
 - [Anlage 2 (zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1)Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge](anlage-2.md)
