@@ -15,10 +15,11 @@ Durchführung der Anreizsetzung
 4. Kostenmindernde Erlöse und Erträge
   Die Kosten mindern sich um sonstige neben der Leistungsbereitstellung nach § 25 Absatz 1 anfallende Erlöse und Erträge und aktivierte Eigenleistungen abzüglich diesen zuzuordnenden Kosten, soweit sie sachlich der Erbringung der relevanten Leistungen zuzurechnen sind. Erlöse und Erträge, die als Zuwendungen gewährt werden, sind hiervon ausgenommen.
 5. Kapitalkosten
-5.1 Die zulässige Verzinsung für das eingesetzte Kapital bestimmt sich aus einer kapitalmarktüblichen Verzinsung.
+5.1 Die zulässige Verzinsung für das eingesetzte Kapital bestimmt sich, vorbehaltlich der Ziffer 5.2.3, aus einer kapitalmarktüblichen Verzinsung.
 5.2 Die Regulierungsbehörde legt die Zinssätze für die Betreiber der Schienenwege auf Basis der tatsächlichen Kapitalstruktur fest.
 5.2.1 Für die Verzinsung des Fremdkapitals ist ein kalkulatorischer Zinssatz anzusetzen.
 5.2.2 Für den anzusetzenden Eigenkapitalzinssatz für Betreiber der Schienenwege differenziert die Regulierungsbehörde in Abhängigkeit vom Anteil des Schienengüterverkehrs am Umsatz des jeweiligen Betreibers der Schienenwege.
+5.2.3 Für die Verzinsung des Eigenkapitals eines Betreibers der Schienenwege der Eisenbahnen des Bundes ist ein Zinssatz von 1,9 Prozent anzusetzen.
 5.3 Zur Ermittlung der Kapitalkosten werden die festgelegten Zinssätze auf das für das Mindestzugangspaket nach Anlage 2 Nummer 1 eingesetzte, verzinsliche Kapital nach § 25 Absatz 1 angewendet.
 6. Anpassung der Obergrenze der Gesamtkosten aufgrund qualifizierter Regulierungsvereinbarungen
   Vor einer Anpassung nach § 25 Absatz 3 prüft die Regulierungsbehörde, ob sich der Aufwand gegenüber dem Ausgangsniveau der Gesamtkosten mehr als geringfügig verändern wird.
