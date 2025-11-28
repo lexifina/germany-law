@@ -468,7 +468,7 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 19.9.1 | 10 Mio. m3 oder mehr Wasser, | X |  |
 | 19.9.2 | 2 Mio. m3 bis weniger als 10 Mio. m3 Wasser, |  | A |
 | 19.9.3 | 5 000 m3 bis weniger als 2 Mio. m3 Wasser; |  | S |
-| 19.10 | Errichtung und Betrieb einer Kohlendioxidleitung im Sinne des Kohlendioxid-Speicherungsgesetzes, ausgenommen Anlagen, die den Bereich eines Werksgeländes nicht überschreiten, mit |  |  |
+| 19.10 | Errichtung und Betrieb einer Kohlendioxidleitung im Sinne des Kohlendioxid-Speicherung-und-Transport-Gesetzes, ausgenommen Anlagen, die den Bereich eines Werksgeländes nicht überschreiten, mit |  |  |
 | 19.10.1 | einer Länge von mehr als 40 km und einem Durchmesser der Rohrleitung von mehr als 800 mm, | X |  |
 | 19.10.2 | einer Länge von mehr als 40 km und einem Durchmesser der Rohrleitung von 150 mm bis zu 800 mm, |  | A |
 | 19.10.3 | einer Länge von 2 km bis 40 km und einem Durchmesser der Rohrleitung von mehr als 150 mm, |  | A |

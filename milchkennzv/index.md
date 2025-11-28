@@ -6,4 +6,4 @@
 - [§ 3 Besondere Kennzeichnungsvorschriften](0003.md)
 - [§ 4 Ordnungswidrigkeiten](0004.md)
 - [§ 4a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung](0004a.md)
-- [§ 5 Inkrafttreten, Übergangsvorschriften](0005.md)
+- [§ 5 Außerkrafttreten](0005.md)

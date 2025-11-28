@@ -35,6 +35,7 @@ Halbfettbutter und Milchstreichfett X vom Hundert
 - [§ 16 Überwachung, Befugnisse der Landesbehörden](0016.md)
 - [§ 17 Ordnungswidrigkeiten](0017.md)
 - [§ 18 Übergangsbestimmungen](0018.md)
+- [§ 19 Außerkrafttreten](0019.md)
 - [Anlage 1 (zu § 7 Abs. 1 und 3, § 8 Abs. 2)
 
 Bestimmungen für die Durchführung von Butterprüfungen](anlage-1.md)

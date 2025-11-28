@@ -98,3 +98,5 @@ Sonstige Bestimmungen
 | Anlage 1 (zu § 12 Absatz 3) | Südregion |
 | Anlage 2 (zu Teil 5) | Stilllegungszeitpunkte Braunkohleanlagen |
 | Anlage 3 | Vergütung Zeitlich gestreckte Stilllegung |
+| Anlage 4 (zu § 45 Absatz 1 Satz 3) | Formel zur Berechnung der entgangenen Gewinne aus der Stromerzeugung |
+| Anlage 5 (zu § 45 Absatz 1 Satz 3) | Formel zur Berechnung der entgangenen Gewinne aus dem Vertrieb von Veredelungsprodukten |

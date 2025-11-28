@@ -59,7 +59,7 @@ Schlußvorschriften
 - [§ 30 Straftaten und Ordnungswidrigkeiten](0030.md)
 - [§ 31 Ordnungswidrigkeiten](0031.md)
 - [§ 31a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung](0031a.md)
-- [§ 32](0032.md)
+- [§ 32 Außerkrafttreten](0032.md)
 - [Anlage 1 (zu § 7)Standardsorten](anlage-1.md)
 - [Anlage 1a (weggefallen)](anlage-1a.md)
 - [Anlage 1b (zu § 8)Geographische Herkunftsbezeichnung](anlage-1b.md)

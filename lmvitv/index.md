@@ -7,4 +7,5 @@
 - [§ 2](0002.md)
 - [§ 2a](0002a.md)
 - [§ 3](0003.md)
+- [§ 4 Außerkrafttreten](0004.md)
 - [Schlußformel](schlussformel.md)

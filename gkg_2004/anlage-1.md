@@ -12,8 +12,8 @@
 |  |  | Unterabschnitt 2 |  |  | Verfahren vor dem Oberlandesgericht |
 |  |  | Unterabschnitt 3 |  |  | Verfahren vor dem Bundesgerichtshof |
 |  | Abschnitt 2 | Berufung und bestimmte Beschwerden |
-|  | Abschnitt 3 | Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpG und § 24 EU-VSchDG |
-|  | Abschnitt 4 | Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpG und § 24 EU-VSchDG |
+|  | Abschnitt 3 | Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG |
+|  | Abschnitt 4 | Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG |
 |  | Abschnitt 5 | Rechtsmittelverfahren des gewerblichen Rechtsschutzes vor dem Bundesgerichtshof |
 |  |  | Unterabschnitt 1 |  |  | Berufungsverfahren |
 |  |  | Unterabschnitt 2 |  |  | Beschwerdeverfahren und Rechtsbeschwerdeverfahren |
@@ -268,7 +268,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 |  | 3.gerichtlichen Vergleich oder4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile vorausgegangen ist: Die Gebühr 1214 ermäßigt sich auf .......... | 3,0 |
 |  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
 | Abschnitt 2 Berufung und bestimmte Beschwerden |
-| Vorbemerkung 1.2.2: Dieser Abschnitt ist auf Beschwerdeverfahren nach 1. den §§ 73 und 171 GWB, 2. § 48 WpÜG, 3. § 113 Abs. 1 WpHG, 4. § 75 EnWG, 5. § 13 EU-VSchDG, 6. § 35 KSpG und7. § 11 WRegG anzuwenden. |
+| Vorbemerkung 1.2.2: Dieser Abschnitt ist auf Beschwerdeverfahren nach 1. den §§ 73 und 171 GWB, 2. § 48 WpÜG, 3. § 113 Abs. 1 WpHG, 4. § 75 EnWG, 5. § 13 EU-VSchDG, 6. § 35 KSpTG und7. § 11 WRegG anzuwenden. |
 | 1220 | Verfahren im Allgemeinen .......... | 4,0 |
 | 1221 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags, bevor die Schrift zur Begründung des Rechtsmittels bei Gericht eingegangen ist: Die Gebühr 1220 ermäßigt sich auf .......... | 1,0 |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
@@ -276,13 +276,13 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 |  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
 | 1223 | Beendigung des gesamten Verfahrens durch ein Urteil, das wegen eines Verzichts der Parteien nach § 313a Abs. 1 Satz 2 ZPO keine schriftliche Begründung enthält, wenn nicht bereits ein anderes als eines der in Nummer 1222 Nr. 2 genannten Urteile, eine Entscheidung über einen Antrag auf Erlass einer Sicherungsanordnung oder ein Beschluss in der Hauptsache vorausgegangen ist: Die Gebühr 1220 ermäßigt sich auf .......... | 3,0 |
 |  | Die Gebühr ermäßigt sich auch, wenn daneben Ermäßigungstatbestände nach Nummer 1222 erfüllt sind. |  |
-| Abschnitt 3 Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpG und § 24 EU-VSchDG |
+| Abschnitt 3 Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG |
 | 1230 | Verfahren im Allgemeinen .......... | 5,0 |
 | 1231 | Beendigung des gesamten Verfahrens durch Zurücknahme des Rechtsmittels, der Klage oder des Antrags, bevor die Schrift zur Begründung des Rechtsmittels bei Gericht eingegangen ist: Die Gebühr 1230 ermäßigt sich auf .......... | 1,0 |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
 | 1232 | Beendigung des gesamten Verfahrens, wenn nicht Nummer 1231 anzuwenden ist, durch 1.Zurücknahme des Rechtsmittels, der Klage oder des Antrags a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 128 Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht,2.Anerkenntnis- oder Verzichtsurteil,3.gerichtlichen Vergleich oder4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile, eine Entscheidung über einen Antrag auf Erlass einer Sicherungsanordnung oder ein Beschluss in der Hauptsache vorausgegangen ist: Die Gebühr 1230 ermäßigt sich auf .......... | 3,0 |
 |  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
-| Abschnitt 4 Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpG und § 24 EU-VSchDG |
+| Abschnitt 4 Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG |
 | 1240 | Verfahren über die Zulassung der Sprungrevision: Soweit der Antrag abgelehnt wird .......... | 1,5 |
 | 1241 | Verfahren über die Zulassung der Sprungrevision: Soweit der Antrag zurückgenommen oder das Verfahren durch anderweitige Erledigung beendet wird .......... | 1,0 |
 |  | Die Gebühr entsteht nicht, soweit die Sprungrevision zugelassen wird. |  |

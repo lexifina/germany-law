@@ -101,3 +101,5 @@
 - [Anlage 1 (zu § 12 Absatz 3)Südregion](anlage-1.md)
 - [Anlage 2 (zu Teil 5)Stilllegungszeitpunkte Braunkohleanlagen](anlage-2.md)
 - [Anlage 3 (zu § 50)Vergütung Zeitlich gestreckte Stilllegung](anlage-3.md)
+- [Anlage 4 (zu § 45 Absatz 1 Satz 3)Formel zur Berechnung der entgangenen Gewinne aus der Stromerzeugung](anlage-4.md)
+- [Anlage 5 (zu § 45 Absatz 1 Satz 3)Formel zur Berechnung der entgangenen Gewinne aus dem Vertrieb von Veredelungsprodukten](anlage-5.md)

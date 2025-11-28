@@ -14,7 +14,7 @@
 - [§ 7 Straftaten und Ordnungswidrigkeiten](0007.md)
 - [§ 7a Besondere Zubereitungen](0007a.md)
 - [§ 7b Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung](0007b.md)
-- [§ 8 Inkrafttreten](0008.md)
+- [§ 8 Außerkrafttreten](0008.md)
 - [Anlage 1 (zu § 1 Abs. 1)](anlage-1.md)
 - [Anlage 1a (weggefallen)](anlage-1a.md)
 - [Anlage 2 (zu § 5 Absatz 1)Vitamine](anlage-2.md)

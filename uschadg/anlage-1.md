@@ -18,4 +18,4 @@
 11. Jede absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt gemäß der Definition in § 3 Nummer 5 erster Halbsatz GenTG sowie der Transport und das Inverkehrbringen gemäß der Definition in § 3 Nummer 6 GenTG dieser Organismen.
 12. Grenzüberschreitende Verbringung von Abfällen in der, in die oder aus der Europäischen Union, für die eine Zustimmungspflicht oder ein Verbot im Sinne der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen besteht.
 13. Bewirtschaftung von mineralischen Abfällen gemäß der Richtlinie 2006/21/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über die Bewirtschaftung von Abfällen aus der mineralgewinnenden Industrie.
-14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-Speicherungsgesetzes.
+14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-Speicherung-und-Transport-Gesetzes.
