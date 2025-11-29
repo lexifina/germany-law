@@ -10,7 +10,7 @@
 Maschinen
 
 - [§ 3 Inverkehrbringen](0003.md)
-- [§ 4 Übermittlung der Konformitätserklärung](0004.md)
+- [(XXXX) § 4 (weggefallen)](xxxx-4.md)
 - [§ 5 Aufbewahrung und Übermittlung von Informationen aus der
 Konformitätsbewertung](0005.md)
 - [§ 6 Mitteilungspflichten](0006.md)
