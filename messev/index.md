@@ -34,12 +34,9 @@
 - [§ 16 Aufschriften auf sonstigen Messgeräten](0016.md)
 - [§ 17 Beizufügende Informationen](0017.md)
 
-## Abschnitt 3 EG-Bauartzulassung und EG-Ersteichung
+## Abschnitt 3 (weggefallen)
 
-- [§ 18 Verfahrensgrundsätze, wesentliche Anforderungen](0018.md)
-- [§ 19 EG-Bauartzulassung](0019.md)
-- [§ 20 Rücknahme und Widerruf der EG-Bauartzulassung](0020.md)
-- [§ 21 EG-Ersteichung](0021.md)
+- [(XXXX) §§ 18 bis 21 (weggefallen)](xxxx-18-bis-21.md)
 
 ## Abschnitt 4 Pflichten der Verwender
 
@@ -121,6 +118,6 @@
 - [Anlage 3 (zu § 8, § 9 Absatz 1 Satz 2, § 9 Absatz 4)Gerätespezifische Anforderungen und anzuwendende Konformitätsbewertungsverfahren für einzelne Messgeräte](anlage-3.md)
 - [Anlage 4 (zu § 9 Absatz 1 Satz 1)Konformitätsbewertungsverfahren](anlage-4.md)
 - [Anlage 5 (zu § 11 Absatz 2)Konformitätserklärung für Messgeräte, die nicht europäischen Vorschriften unterliegen](anlage-5.md)
-- [Anlage 6 (zu § 18 Absatz 3 und 5)Messgeräte für EG-Bauartzulassung und EG-Ersteichung](anlage-6.md)
+- [Anlage 6 (weggefallen)](anlage-6.md)
 - [Anlage 7 (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte](anlage-7.md)
 - [Anlage 8 (zu § 38, § 50 Absatz 2 und 3, § 54 Absatz 3 Satz 2, § 55 Absatz 2 Satz 2)Kennzeichen](anlage-8.md)
