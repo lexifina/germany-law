@@ -1,0 +1,95 @@
+# 2. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-01T17:00:00+01:00
+- Ende: 2025-12-01T18:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31777
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31777
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Resolution der Bezirksvetretung Ehrenfeld zur geplanten Schließung der Postbank Filiale in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohner*innen-Anfrage, betr.: Durchfahrtssperre Ottostraße - Sache ist erledigt
+- TOP 2.1.1: Beantwortung einer Einwohneranfrage gem. § 39 Geschäftsordnung des Rates und der Bezirksvertretungen, betr.: Durchfahrtssperre Ottostraße - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Beschlussvorlagen zu Bürgereingaben
+- TOP 3.1.1: Bürgereingabe nach § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW) - „Entfernen der Steine auf dem Meisenweg zwischen den Hausnummern 33-47“, Aktenzeichen 113/25 - vertagt
+- TOP 3.1.2: Bürgereingabe nach § 24 GO - Schulneubau Lindweiler Hof in Köln-Bickendorf, Aktenzeichen 66/25B - vertagt
+- TOP 3.2: Mitteilungen zu Bürgereingaben
+- TOP 3.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Grabeland der Siedlergemeinschaft Köln-Vogelsang, Aktenzeichen 55/25 - Kenntnis genommen
+- TOP 3.2.2: Mitteilung zur Bürgereingabe nach §24 GO NRW - Erstellung eines Schallschutzgutachtens, AZ 79/25 - Kenntnis genommen
+- TOP 3.2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Baumpflanzungen Iltisstraße, Aktenzeichen 46/25 - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme einer Schenkung für die Bertha-von-Suttner Realschule, Kolkrabenweg 65, 50829 Köln - ungeändert beschlossen
+- TOP 5.2: Annahme einer Schenkung für die Geschwister-Scholl-Realschule, Gravenreuthstraße 10, 50823 Köln - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - Sache ist erledigt
+- TOP 6.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung am 05.12.2022 (AN/2219/2022) betr. „Fahrradabstellanlagen im Stadtbezirk“. - Kenntnis genommen
+- TOP 6.2: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - vertagt
+- TOP 6.3: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - vertagt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - Sache ist erledigt
+- TOP 6.4.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Ehrenfeld am 12.06.2023, Betr.:"Verkehr und Beschilderung Vogelsanger Str./Wilhelm-Mauser-Str, (AN/0854/2023) - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Gefahr durch Rahmenbrüche bei Lastenrädern - Sache ist erledigt
+- TOP 6.5.1: Beantwortung einer schriftlichen Anfrage der Fraktion die Linke/Die Parteil aus der Sitzung der BV Ehrenfeld vom 11.03.2024 betr. "Gefahr durch Rahmenbrüche bei Lastenrädern" (AN/0379/2024) - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - vertagt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Stand der Umsetzung der Entfernung von Hindernissen auf Geh- und Radwegen - Sache ist erledigt
+- TOP 6.7.1: Beantwortung einer Anfrage AN/1073/2024 der Fraktion Bündnis 90/Die Grünen, betr.: Stand der Umsetzung der Entfernung von Hindernissen auf Geh- und Radwegen vom 09.09.2024 - Kenntnis genommen
+- TOP 6.8: Anfrage der SPD-Fraktion, betr.: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport - Sache ist erledigt
+- TOP 6.8.1: Beantwortung einer Anfrage der SPD-Fraktion, betr.: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport - Kenntnis genommen
+- TOP 6.9: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzung Straßenbaumkonzept im Melatener Weg - Sache ist erledigt
+- TOP 6.9.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung 4 vom 03.02.2025 (AN/0007/2025) betreffend Umsetzung Straßenbaumkonzept im Melatener Weg - Kenntnis genommen
+- TOP 6.10: Anfrage der SPD-Fraktion, betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche AN/0769/2023 - vertagt
+- TOP 6.11: Anfrage der SPD-Fraktion, betr.: Verwahrlostes Grundstück an der Vogelsanger Straße / Innere Kanalstraße - Sache ist erledigt
+- TOP 6.11.1: Anfrage der SPD-Fraktion, Grundstück an der Vogelsanger Str./Innere Kanalstr. - Kenntnis genommen
+- TOP 6.12: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Tempo 30 auf der Vogelsanger Straße zur Lärmminderung - Sache ist erledigt
+- TOP 6.12.1: Anfrage der Fraktion Bündnis 90/Die Grünen aus Sitzung der BV 4 am 19.05.2025 betr. Tempo 30 auf der Vogelsanger Straße zur Lärmminderung - Kenntnis genommen
+- TOP 6.13: Anfrage der SPD-Fraktion, betr.: Verkehrssicherheit und Schulwegsicherung an der Gesamtschule - Sache ist erledigt
+- TOP 6.13.1: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung vom 19.05.2025 der BV Ehrenfeld betr.: Verkehrssicherheit und Schulwegsicherung an der Gesamtschule (AN/0568/2025) - Kenntnis genommen
+- TOP 6.14: Anfrage von Marlis Pöttgen (FDP), betr.: Status „Sportplatz“ der Peter-Lustig-Schule - Sache ist erledigt
+- TOP 6.14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Rettungswege im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.15.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen betreffend: "Rettungswege im Stadtbezirk Ehrenfeld" (AN/0912/2025) - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage von Marlis Pöttgen (FDP), betr.: Schutt auf dem Grundstück Vogelsanger Str 323 - Sache ist erledigt
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung der Bezirksvertretung 4 (Ehrenfeld) vom 01.12.2025 betreffend "Schutt auf dem Grundstück Vogelsanger Str. 323" - Kenntnis genommen
+- TOP 7.2: Anfrage der AfD-Fraktion, betr.: Schwarzarbeit in Ehrenfeld - Sache ist erledigt
+- TOP 7.2.1: Schwarzarbeit in Ehrenfeld - Kenntnis genommen
+- TOP 7.3: Anfrage der AfD-Fraktion, betr.: Nutzung des Bürgerzentrums Ehrenfeld - Sache ist erledigt
+- TOP 7.3.1: Beantwortung einer Anfrage der AfD-Fraktion für die Sitzung der Bezirksvertretung Ehrenfeld am 01.12.2025 (AN/1354/2025) betreffend "Nutzung des Bürgerzentrums Ehrenfeld" - Kenntnis genommen
+- TOP 7.4: Anfrage der Fraktion Die Linke, betr.: Bauüberhang im Stadtbezirk - Sache ist erledigt
+- TOP 7.4.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke in der Bezirksvertretung Ehrenfeld vom 21.11..2025 betreffend Bauüberhang im Stadtbezirk, AN1368/2025 - Kenntnis genommen
+- TOP 7.5: Anfrage der Fraktion Die Linke, betr.: Wohnungsleerstände im Stadtbezirk - Sache ist erledigt
+- TOP 7.5.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke in der Bezirksvertretung Ehrenfeld vom 21.11..2025 betreffend Wohnungsleerstände im Stadtbezirk - Kenntnis genommen
+- TOP 7.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Klimaanpassungsmaßnahmen an der Äußeren Kanalstraße - vertagt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Die Kreuzung Vogelsanger Straße / Ehrenfeldgürtel für alle Verkehrsteilnehmer*innen sicher umgestalten - vertagt
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Beteiligungsrechte der Bezirksvertretung Ehrenfeld bei der Sanierung der Ehrenfelder U-Bahnstrecke wahren - geändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - vertagt
+- TOP 8.4: Antrag von Marlis Pöttgen (FDP), betr.: Fuß- und Radwegverbindung in Vogelsang: Vogelsanger Straße - Girlitzweg - geändert beschlossen
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Sichere und durchgehende Radverkehrsführung im Stadtbezirk Ehrenfeld - vertagt
+- TOP 8.6: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Zebrastreifen an der Leyendeckerstraße dauerhaft einrichten - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Genehmigung einer Dringlichkeitsentscheidung, betr.: Vergabe der bezirklichen Finanzmittel gem. § 37 (3) GO NRW - ungeändert beschlossen
+- TOP 9.2: Benennung eines Mitgliedes der Bezirksvertretung Ehrenfeld zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - ungeändert beschlossen
+- TOP 9.3: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld - Förderprogramm 2026 - ungeändert beschlossen
+- TOP 9.4: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld 2025/2026 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.5: Vierte Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln- Ehrenfeld Arbeitstitel: "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel" in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Einrichtung von Mobilstationen zur Förderung des Umweltverbundes – Schwerpunkt Bahnhof Ehrenfeld - Kenntnis genommen
+- TOP 12.2: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 12.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.4: Niederschrift der 17. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 01.07.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 12.5: Niederschrift zur 18. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 02.09.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 12.6: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 12.7: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
