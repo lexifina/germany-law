@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-01T15:05:00+01:00
+- Ende: 2025-12-01T17:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33923
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33923
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01072847.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01072847.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01072847.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung der Schriftführung - ungeändert beschlossen
+- TOP -: Tonaufzeichnung der Sitzung des Ausschusses für Schule und Weiterbildung - ungeändert beschlossen
+- TOP -: Umdruck Sitzungsunterlagen - ungeändert beschlossen
+- TOP -: Gast- und Rederecht für Vertreter*innen gem. §85 SchulG im Ausschuss für Schule und Weiterbildung für die Dauer der Wahlperiode des Rates 2025 bis 2030 - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Aktualisierte Terminplanung zum Bau der Heliosschule, Vogelsanger Straße 200, 50825 Köln - Kenntnis genommen
+- TOP 2.2: Sachstandsberichte zu den Beauftragungen der Kölner Schulbaugesellschaft mbH, Stand Oktober 2025 - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 26.11.2025 betreffend "Deutschlandticket Schule" - vertagt
+- TOP 4.2: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 26.11.2025 betreffend "Sachstand Lotharstraße" - vertagt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion FDP vom 30.04.2025 betreffend "Sachstand Wiederzulassung freier Nutzung von Schulhöfen" - vertagt
+- TOP 5.2: Anfrage der Fraktionen Bündnis 90 / die Grünen, CDU und Volt vom 03.06.2025 betreffend "Schulsozialarbeit an Kölner Gymnasien" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 20.11.2025 - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 05.06.2025 betreffend "Schulstandort Holzheimer Weg und Ausweichgrundstück für ein neues Grundschulgebäude" - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für das Gymnasium Köln Pesch, Schulstr.18, 50767 Köln - ungeändert empfohlen
+- TOP 6.2: Maßnahmenpaket Schulbau-Generalinstandsetzungen - Bedarfsfeststellungsbeschluss - ungeändert empfohlen
+- TOP 6.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln - ungeändert empfohlen
+- TOP 6.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Pestalozzischule, Sportplatzstraße 82-86, 51147 Köln - Bedarfsprüfungsbeschluss - endgültig zurückgezogen
+- TOP 6.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Maximilian-Kolbe-Gymnasium, Nachtigallenstraße 19-21, 51147 Köln - Bedarfsprüfungsbeschluss - ungeändert empfohlen
+- TOP 6.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Förderschule emotionale und soziale Entwicklung Zülpicher Straße 194, 50937 Köln - ungeändert empfohlen
+- TOP 6.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Berufskolleg 14, Aussenstelle Perlengraben 101, 50676 Köln - Bedarfsfeststellungsbeschluss - ungeändert empfohlen
+- TOP 6.8: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Adolph-Kolping-Straße 41, 51147 Köln - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 8.2: Beantwortung der Anfrage AN/1082/2025 der Volt-Fraktion bezüglich der Kölner Baustandards - Kenntnis genommen
+- TOP 8.3: Beantwortung einer mündlichen Anfrage von RM Oliver Seeck aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 12.05.2025 betreffend "ÖPNV-Netzentwicklung - Sachstand 2024" (2763/2024) - Kenntnis genommen
+- TOP 8.4: Evaluierung des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus (ECCAR) - Kenntnis genommen
+- TOP 8.5: Beantwortung einer mündlichen Anfrage von Bärbel Hölzing (Grüne) aus der Sitzung des Ausschuss für Schule und Weiterbildung vom 12.05.2025 betreffend "Schulgebäude Turmstraße" - Kenntnis genommen
+- TOP 8.6: Allgemeine Geschäftsbedingungen der Kölner Volkshochschule - Kenntnis genommen
+- TOP 8.7: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand SJ 2024/25 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.8: Sachstandsbericht Schwimmförderung KölnBäder GmbH Geschäftsjahr 2024 - Kenntnis genommen
+- TOP 8.9: Beantwortung einer mündlichen Anfrage von Franz Philippi (SPD) aus der Sitzung des Ausschusss für Schule und Weiterbildung vom 12.05.2025 bezgl. TOP 8.7 "Waldklasse" (0537/2025) - Kenntnis genommen
+- TOP 8.10: Beantwortung einer mündlichen Anfrage von Lukas Lorenz (SPD) aus der Sitzung des Ausschuss für Schule und Weiterbildung vom 27.01.2025 bezgl. TOP 3.3 "Zügigkeit der GS Hohe Str." (AN/1118/2024) - Kenntnis genommen
+- TOP 8.11: Beantwortung einer mündlichen Anfrage von Constanze Aengenvoort (CDU) aus der Sitzung des Ausschuss für Schule und Weiterbildung vom 22.01.2024 betreffend "Turnhalle GE Merianstr." - Kenntnis genommen
+- TOP 8.12: Rheinische Musikschule Regionalschule Lotharstraße - Kenntnis genommen
+- TOP 8.13: Beantwortung einer Anfrage aus dem Ausschuss Schule und Weiterbildung der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und von VOLT bezüglich Schulstandort Holzheimer Weg und Ausweichgrundstück für ein neues Grundschulgebäude - AN/0782/2025 - Kenntnis genommen
+- TOP 8.14: Beantwortung einer mündlichen Anfrage von RM Kockerbeck aus der Sitzung vom 17. März 2025 bezüglich der Schulersatzbauten der Gesamtschule des Erzbistums Köln auf dem Gelände der Hallen Kalk - endgültig zurückgezogen
+- TOP 9: Mündliche Anfragen
