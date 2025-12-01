@@ -1,0 +1,1 @@
+Auf Grund des Art. 72 Abs. 1 Satz 1 des Fischereigesetzes für Bayern (BayRS 793-1-E), geändert durch Gesetz vom 29. Juli 1986 (GVBl. S. 200), erläßt das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten folgende Verordnung:

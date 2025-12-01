@@ -1,0 +1,31 @@
+# Verordnung über die Ausübung der Fischerei im Bodensee
+(Bodenseefischereiverordnung – BoFiV)
+Vom 1. Dezember 1995
+(GVBl. S. 825)
+BayRS 793-7-L
+Bodenseefischereiverordnung (BoFiV) vom 1. Dezember 1995 (GVBl. S. 825, BayRS 793-7-L), die zuletzt durch Verordnung vom 18. September 2025 (GVBl. S. 537) geändert worden ist
+Änderungen
+1. § 1 ÄndV vom 29.10.1997 (GVBl. S. 741)
+2. § 1 Zweite ÄndV vom 4.11.1999 (GVBl. S. 476)
+3. § 1 Dritte ÄndV vom 17.10.2000 (GVBl. S. 761, geändert durch § 2 Nr. 1 V v. 2.9.2003 (GVBl. S. 668))
+4. § 1 Vierte ÄndV vom 3.9.2001 (GVBl. S. 617, geändert durch § 2 Nr. 2 V v. 2.9.2003 (GVBl. S. 668))
+5. §§ 1, 3 Satz 3 Fünfte ÄndV vom 2.9.2003 (GVBl. S. 668)
+6. § 3 V zur Änderung fischereirechtlicher Vorschriften vom 19.3.2004 (GVBl. S. 104)
+7. § 1 Sechste ÄndV vom 5.10.2006 (GVBl. S. 808)
+8. § 1 Siebte ÄndV vom 15.1.2008 (GVBl. S. 27)
+9. § 1 Achte ÄndV vom 9.11.2009 (GVBl. S. 600)
+10. § 1 Neunte ÄndV vom 24.11.2010 (GVBl. S. 784)
+11. § 1 Zehnte ÄndV vom 7.2.2012 (GVBl. S. 50)
+12. § 1 Elfte ÄndV vom 17.9.2012 (GVBl. S. 478)
+13. § 1 Zwölfte ÄndV vom 9.9.2013 (GVBl. S. 605)
+14. § 1 Dreizehnte ÄndV vom 9.10.2014 (GVBl. S. 474)
+15. ÄndV vom 11.4.2016 (GVBl. S. 76)
+16. ÄndV vom 10.8.2016 (GVBl. S. 280)
+17. ÄndV vom 24.8.2017 (GVBl. S. 450)
+18. ÄndV vom 20.9.2018 (GVBl. S. 748)
+19. ÄndV vom 29.9.2019 (GVBl. S. 610)
+20. ÄndV vom 27.10.2020 (GVBl. S. 608)
+21. ÄndV vom 25.8.2021 (GVBl. S. 570)
+22. § 1 V zur Änderung der Bodenseefischereiverordnung und der Verordnung zur Ausführung des Bayerischen Fischereigesetzes vom 1.9.2022 (GVBl. S. 629)
+23. V zur Änderung der Bodenseefischereiverordnung vom 5.10.2023 (GVBl. S. 596)
+24. Verordnung zur Änderung der Bodenseefischereiverordnung vom 18.9.2025 (GVBl. S. 537)
