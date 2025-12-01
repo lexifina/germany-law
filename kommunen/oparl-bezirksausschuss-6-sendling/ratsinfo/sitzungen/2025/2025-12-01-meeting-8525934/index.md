@@ -1,0 +1,141 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2025-12-01T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8525934
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8525934
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 03.11.2025
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Kleiner Losentscheid für einen Sitz in den UAs mit 8 Personen
+- TOP 1.4.: Großer Losentscheid für zwei Sitze in den UAs mit 10 Personen
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Halteverbot vor Wohnhaus Alramstr. 30 für viele Monate
+- TOP 2.2.: Aberlesstr. 21 | Anfrage Fahrradstellplätze
+- TOP 2.3.: Hinweis Bezirk Gotzingerplatz
+- TOP 2.4.: Hubschrauberlärm
+- TOP 2.5.: Hubschraubereinsätze
+- TOP 2.6.: Neuordnung bzw. Herstellung der Verkehrssicherheit in der Demleitnerstr. und Gaißacher Str.
+- TOP 2.7.: Wertstoffhof Thalkirchner Straße 260 - inzwischen täglicher Stau durch illegale Linksabbieger
+- TOP 2.8.: Wendeschleife am Harras
+- TOP 2.9.: Halte- und Parkverbot für Wohnmobile / Wohnwägen / Campingbusse in der Valleystraße
+- TOP 2.10.: Baum und Wildnis, Ecke Danklstr. 20
+- TOP 2.11.: Städtisches HfK Wackersberger Str 71 Stellplatzanfrage
+- TOP 2.12.: Parkraum-Management Brudermühlstr.
+- TOP 2.13.: Verstärkerzüge U6 zum/ab Harras
+- TOP 2.14.: Anfrage zur provisorischen Stromleitung auf dem Gehweg in der Lenggrieser Straße (Untersendling)
+- TOP 2.15.: Antrag mit ausführlicher Begründung zur dringend notwendigen Sanierung, Verbesserung und Neuorganisation des nördlichen Zugangs der Unterführung an der S-Bahn-Station Mittersendling
+- TOP 2.16.: Böllern außerhalb des mittleren Rings
+- TOP 2.17.: Parklizenzgebiet Herzog-Ernst-Platz
+- TOP 2.18.: Fahrradstellplätze in der Gotzinger Straße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Fachstelle für Öffentlichkeitsbeteiligung und Partizipation: Bericht der Kinderversammlung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Energieberatung in Kooperation mit der Verbraucherzentrale
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Fällungsantrag vom 30.10.2025 auf dem Grundstück Ramungstr. 17 I Frist: 03.12.2025
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.: (U) Bebauungsplan Nr. 2177 Kapellenweg (südlich) Gleisanlage (südwestlich und westlich) Flurstücke Nr. 10436 (Teilfläche) und Nr. 10436/3 (Teilfläche), Gemarkung München, Sektion VI (nördlich) Implerstraße (östlich) -Satzungsbeschluss- Stadtbezirk 06 – Sendling
+- TOP 4.3.3.: Stadtbäume in Sendling: Schwammstadt-Prinzip endlich konsequent umsetzen! (3) Antrag auf Entsiegelung der Baumscheiben und Bepflanzung derselben mit winterharten Bodendeckern auf dem Harras und den diesen Platz umlaufenden Straßen (Am Harras vor der Post sowie vor der Ladenzeile Plinganserstraße)
+- TOP 4.3.4.: Stadtbäume in Sendling: Schwammstadt-Prinzip umsetzen! (SPD-Fraktion)
+- TOP 4.3.5.: Antwortschreiben des Baureferats zu Bürger*innenanliegen: "Ladesäulen und Parkbänke am Gotzinger Platz"
+- TOP 4.3.6.: Baumbilanz Bezirk Sendling
+- TOP 4.3.7.: Parabolspiegel in den Neuhofener Anlagen
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Sachstand historisches Geländer an der neuen EÜ Lindwurmstraße (CSU)
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Fußgängergrün an allen Ampeln am Harras verlängern
+- TOP 5.1.2.: Freischankfläche; Plinganserstr. 37
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Aberlestraße 25
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Antwortschreiben des Baureferats auf Bürger*innenanliegen: Installation von Fahrradabstellplätzen in der Hans-Klein-Straße 7
+- TOP 5.3.2.: Oberländerstraße 5 und Oberländerstraße 12; Erweiterung der vorhandenen Fahrradstellplätze und Lastenradstellplätze
+- TOP 5.3.3.: Antwortschreiben des Mobilitätsreferats auf Bürger*innenanliegen: Vorschlag zu einem Kreisverkehr in der Sylvensteinstraße / Engelhardstraße
+- TOP 5.3.4.: Mini-Busspur zwischen Pfeuferstraße 16 und 20 abmarkieren als Aufstellfläche bei Stau
+- TOP 5.3.5.: Polder Straßenecke Kidler-/ Oberländerstraße
+- TOP 5.3.6.: MVG-Radstationen als geteilte Flächen für Shared Mobility erhalten
+- TOP 5.3.7.: Zwischenstand des MOR bzgl. Bürger*innenanliegen: Dringender Appell: Tempo 30 am Herzog-Ernst-Platz – wie viele Unfälle braucht es noch?
+- TOP 5.3.8.: Weiteres Antwortschreiben des MOR auf Bürger*innenanliegen: Herzog-Ernst-Platz; Anfrage zur Ampelschaltung und Tempo 30 vom Frühjahr 2024
+- TOP 5.3.9.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung und Zufahrt für die Grünanlage 1638.2 Isarauen 2, Flaucher
+- TOP 5.3.10.: Taubenplage Alramstraße
+- TOP 5.3.11.: Kurzfristige Umleitung der Linien 62, 130 und 157
+- TOP 5.3.12.: Parkplatzsituation Urban/Schäftlarnstraße
+- TOP 5.3.13.: Antwort des Mobilitätsreferats auf Bürger*innenanliegen: Kosten für das Projekt „Sommerstraße Gotzinger Platz“
+- TOP 5.3.14.: Arbeiten im Straßenraum; Lindwurmstraße 90 und 165, Implerstraße 2 und 4 Verlegung einer Stromleitung und Glasfaserkabel
+- TOP 5.3.15.: Tempo 30 in der Brudermühlstraße
+- TOP 5.3.16.: Antwortschreiben des Baureferats auf Bürger*innenanliegen: Fahrradabstellplätze Pfeuferstr. 30
+- TOP 5.3.17.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Karwendelstr. 14
+- TOP 5.3.18.: Hans-Preißinger-Straße 4b – Bereich Isarphilharmonie HP 8; Haltemöglichkeit für Ein- und Ausstieg Kleinbus-Shuttle mit zeitlicher Beschränkung
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Einführung einer Sperrzone für E-Roller am Harras (SPD)
+- TOP 5.4.2.: Mülleimer direkt neben dem Standort für Gedenkstele dauerhaft entfernen! (SPD)
+- TOP 5.4.3.: Kfz-Bestand im BA 6 Sendling (Statistisches Taschenbuch) und Interpretation der Zahlen (CSU)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Historische Gruppe Schmied von Kochel e.V. „Erneuerung Gewand 01.12.2025 - 31.12.2025“ 3.302,00 € / AZ: 0262.0-6-0587
+- TOP 6.1.2.: (E) Stadtbezirksbudget Evangelisch-Lutherische Kirchengemeinde Sendling „"Sende dein Licht": Adventskonzert des Chores der Himmelfahrtskirche am 14.12.2025“ 6.000,00 € / AZ: 0262.0-6-0591
+- TOP 6.1.3.: (E) Stadtbezirksbudget Sendling Running Club „Bewerbung des Sendling Running Clubs vom 01.01 - 01.07.2026“ 1.120,00 € / AZ: 0262.0-6-0592
+- TOP 6.1.4.: (E) Stadtbezirksbudget H-TEAM e.V. „Bildschirme für H-Team e.V. vom 17.12.2025 - 30.03.2026“ 2.322,37 € / AZ: 0262.0-6-0593
+- TOP 6.1.5.: (E) Stadtbezirksbudget Init. Kasperl die sendlinger Kasperl vom 01.01. - 30.06.2026 5.000,00€ Az.: 0262.0-6-0588
+- TOP 6.1.6.: (E) Stadtbezirksbudget die urbanauten „Spiel mich! 15.12.2025 - 14.12.2026“ 3.250,00 € / AZ: 0262.0-6-0589
+- TOP 6.1.7.: (E) Stadtbezirksbudget Kinderkreis Sendling e. V. Unterstand Garten Kindergarten Sendling e. V. vom 13.12.2025 - 01.03.2026 6.000,00 €; Az. 0262.0-6-0590
+- TOP 6.1.8.: (E) Stadtbezirksbudget Init. Klangreise Eine Klangreise voller Vielfalt und Kulturen. Ein Duo-Dialog aus Stimme und Guitar vom 01.12.2025 -31.01.2026 1.195,83€; Az. 0262.0-6-0595
+- TOP 6.1.9.: Schäfflertanz in Sendling (Harras und Resi-Huber-Platz) (Budget für eigene Veranstaltungen)
+- TOP 6.1.10.: Maibaum für Sendling an der Alten Sendlinger Kirche (Budget für eigene Veranstaltungen)
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - Jubiläum H-Team - Offene Ateliers und Gemeinschaftsausstellung - Orgelwochen - Sommerfeierabend Sendlinger Kulturschmiede
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Anliegen Kinderversammlung Sendling
+- TOP 7.3.2.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Bestellung einer Städtischen Leistung zur Finanzierung von Familienpässen für Einrichtungen im Stadtbezirk Sendling (Bündnis 90/Die Grünen und SPD)
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Antwortschreiben des RBS bzgl. Bürger*innenanliegen: Lärmsituation HC Wacker
+- TOP 8.3.2.: Anfragen für sonstige Veranstaltungen auf der Theresienwiese 2026
+- TOP 8.3.3.: Versammlungsanzeigen
+- TOP 8.3.4.: Unveränderte Gaststättenfortführungen
+- TOP 8.3.5.: Schluss- und Erfahrungsbericht des BA8 zum diesjährigen Oktoberfest
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 4.5.1.: LIN25 - VGH ordnet aufschiebende Wirkung der Anfechtungsklage an
+- TOP 2.19.: Begrünte Fassaden für ein klimaresilientes München
+- TOP 4.4.2.: Anfrage zu den Konsequenzen des VGH-Beschlusses zur Lindenschmitstraße 25 und zur Genehmigungspraxis der LBK (FDP/FREIE WÄHLER)
+- TOP 4.3.8.: Anfrage an die LBK zum Bauvorhaben Lindenschmitstraße 25, Rückgebäude
+- TOP 6.3.2.: Finanzmittel 4. Quartal 2025 BA 6
+- TOP 7.1.1.: BA-Antrag zur Bestellung einer städtischen Leistung; BA-Antrags-Nr. 20-26 / B 08116 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 15.09.2025
+- TOP 2.20.: Zebrastreifen Steinerstr.
+- TOP 2.21.: Nicht eingebrachte Online-Anträge aus der Bürgerversammlung vom 20.11.2025
+- TOP 4.1.2.: Verbreiterung der Thalkirchner Brücke - Vorstellung des Baureferats in einer der nächsten Sitzungen gewünscht?
+- TOP 5.3.19.: Zukunft Großmarkthalle - Blumengroßmarkt München für die Vollversammlung am 26.11.25
+- TOP 8.3.6.: Knallerverbotszone Mittlerer Ring und Feuerwerkabbrennverbot Tierpark
+- TOP 6.5.1.: Planung der mobilen Kunst-Spiel-Aktionen 2026 und 2027
