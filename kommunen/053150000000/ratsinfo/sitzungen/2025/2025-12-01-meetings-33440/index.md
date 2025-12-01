@@ -1,0 +1,61 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-01T16:00:00+01:00
+- Ende: 2025-12-01T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33440
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33440
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Installation Radpoller Mommsenstraße, Aktenzeichen 191/23 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der CDU Fraktion aus der Sitzung der BV Lindenthal am 28.08.2023 betr. "Digitalisierung bei den LSA (Lichtsignalanlagen im Stadtbezirk Lindenthal" (AN/1399/2023) - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Lindenthal vom 19.05.2025 betreffend "Stadtbahnprojekte" (AN/0539/2025) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage zum Lagerplatz des FC im Äußeren Grüngürtel - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Bennenung eines Weges im Kölner Westen nach Hans Kelsen - ungeändert beschlossen
+- TOP 8.1.2: Erweiterung des Runden Tisch Radverkehr um eine Vertreterin/einen Vetreter von Fuß e.V. - ungeändert beschlossen
+- TOP 8.1.3: Schulwegsicherung Spitzangerweg-Brauweilerstr. - ungeändert beschlossen
+- TOP 8.1.4: Erhöhung der Verkehrssicherheit an der Odemshofallee am Bahnhof Lövenich - ungeändert beschlossen
+- TOP 8.1.5: Feierliche Würdigung der höchsten Wahlbeteiligung im Stimmkreis Köln II - veranstaltung und Ausstellung des "Demokratieverliebt"-Pokals im Bezirksrathaus Lindenthal - ungeändert beschlossen
+- TOP 8.1.6: Genehmigung der Erhöhung der Einfriedung zur Sicherung und zum Vandalismusschutz des Bouleplatzes Köln-Widdersdorf - ungeändert beschlossen
+- TOP 8.1.7: Grüne Klettenplätzchen Überfahrt - geändert beschlossen
+- TOP 8.1.8: Teilentsiegelung der Taxistandsfläche an der KVB-Haltestelle Dürener Str./Gürtel - vertagt
+- TOP 8.1.9: -von Tagesordnung genommen-
+- TOP 8.1.10: -von Tagesordnung genommen-
+- TOP 8.1.11: Dringlichkeitsantrag Gesamtschule Wasseramselweg - ungeändert beschlossen
+- TOP 8.1.12: Dringlichkeitsantrag zur Ampelschaltung an der Kreuzung Rhöndorfer Straße / Gottesweg - vertagt
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Benennung eines Mitgliedes der Bezirksvertretung Lindenthal zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - ungeändert beschlossen
+- TOP 9.1.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Lindenthal 2025/2026 - Mittelvergabe und Förderprogramm - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Förderschule emotionale und soziale Entwicklung Zülpicher Straße 194, 50937 Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Mitteilung zur Anerkennung von "Kinderbetreuung Nachtigall gUG (haftungsbeschränkt)"als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - Kenntnis genommen
+- TOP 11.3.2: Jahresbericht 2024 der Naturschutzwacht Bezirk 3 Lindental - Kenntnis genommen
+- TOP 11.3.3: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 11.3.4: Sportentwicklungsplanung - Kölner Kindersportfest 2025 - Kenntnis genommen
+- TOP 11.3.5: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
