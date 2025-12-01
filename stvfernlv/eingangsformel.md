@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Verkehr verordnet aufgrund des § 6 Absatz 1 Satz 1 Nummer 18, Absatz 3 Nummer 6, Absatz 7 Satz 1 Nummer 2 und Satz 2 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), das zuletzt durch Artikel 70 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131), nach Anhörung der zuständigen obersten Landesbehörden:

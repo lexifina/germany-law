@@ -1,0 +1,31 @@
+# Anlage 3 (zu § 15 Absatz 1, 4 und 5, Anlage 1)Anforderungen an die Datenverarbeitung
+
+1 Datensätze und Datenformate
+  Die folgende Tabelle legt die erforderlichen Datensätze und Datenformate fest. Die zeitliche Auflösung der gespeicherten Daten richtet sich grundsätzlich nach der im System des ferngelenkten Kraftfahrzeugs oder des Leitstandes verfügbaren Auflösung der Daten. Die zeitliche Auflösung der gespeicherten Daten muss hoch genug sein, um eine Analyse der Ereignisse zu ermöglichen. Besondere Anforderungen an die zeitliche Auflösung sind der Spalte 3 der nachfolgenden Tabelle zu entnehmen.
+  | Lfd. Nummer | Spalte 1: Daten | Spalte 2: Datenformat | Spalte 3: Zeitliche Auflösung |
+  | 1. | Fahrzeugidentifizierungsnummer | Alphanumerische Zeichen [A–Z; 0–9] Beispiel: AAAAAA654398GFRDE | Zu Beginn einer Speicherung und bei Änderungen |
+  | 2. | Positionsdaten | Breiten- und Längengrad [±ddd.ddddd°, Angabe in ±Graden (°) und Dezimalgraden, 5 Nachkommastellen] Höhenangaben in Metern Ausgabe im Globalen Positionsbestimmungssystem – Austauschformat als Abfolge von Punkten, in denen eine Änderung der Fortbewegungsrichtung erfolgte; Angabe des (Karten-)Bezugssystems | Systemauflösung |
+  | 3. | Datum und Zeit des Beginns/Endes des Fernlenkens, fortlaufende Nummerierung der ferngelenkten Fahrten | Datum (Jahr-Monat-Tag), Zeit (Stunde:Minute:Sekunde), Nummer der Fahrt Beispiel: 2019-07-16, 05:25:12, Fahrt 108 | Zu Beginn einer Speicherung und bei Änderungen |
+  | 4. | Fernlenkende Person | Zertifikatsdetails, insbesondere Name und Gültigkeit des Zertifikates | Zu Beginn einer Speicherung und bei Änderungen |
+  | 5. | Systemüberwachungsdaten und Fehlerspeichereinträge samt Softwarestand | Alphanumerische Zeichen [A–Z; 0--9] samt Erklärung Beispiel: P0601 Motorsteuergerät – Speicher Prüfsummenfehler | Zu Beginn einer Speicherung und bei Änderungen |
+  | 6. | Umwelt- und Wetterbedingungen | Temperatur (°C), Helligkeit/Beleuchtungsstärke (Lux), Stellung des Scheibenwischers (eingeschaltet/ausgeschaltet) | Systemauflösung |
+  | 7. | Vernetzung und Datenübertragung | Vernetzungsparameter, mindestens Latenzzeiten nach Anlage 1 Nummer 2.1 bis 2.5 und verfügbare Bandbreite | Systemauflösung |
+  | 8. | Aktivierte aktive sowie passive Sicherheitssysteme und Auslösung dieser Systeme | Beispiel: AEBS Notbremsassistenzsystem – Notbremsung 1,2 Sekunden | Systemauflösung |
+  | 9. | Geschwindigkeit des ferngelenkten Kraftfahrzeugs | Numerischer Wert in Meter pro Sekunde | Systemauflösung |
+  | 10. | Längs- und Querbeschleunigung des ferngelenkten Kraftfahrzeugs | Numerischer Wert in Meter pro Sekunde zum Quadrat | Systemauflösung |
+  | 11. | Spannungsversorgung des ferngelenkten Kraftfahrzeugs | Numerischer Wert in Volt für Bordsysteme und technische Ausrüstung zum Fernlenken | Systemauflösung |
+  | 12. | Von extern an das ferngelenkte Kraftfahrzeug gesendete Befehle und Informationen | Befehle sind im gesendeten Format zu speichern. Für Informationen sind Metadaten zu speichern: Dateigröße, Dateiformat, Quelle, Ziel, Übertragungszeitpunkt | Zu Beginn einer Speicherung und bei Änderungen |
+  | 13. | Status der lichttechnischen Einrichtungen | Identifikation der lichttechnischen Einrichtung, Status der lichttechnischen Einrichtung (eingeschaltet/ausgeschaltet) | Systemauflösung |
+  | 14. | Einleitung des risikominimalen Zustands | Datum (Jahr-Monat-Tag), Zeit (Stunde:Minute:Sekunde), Nummer der Fahrt Beispiel: 2019-07-16, 05:25:12, Fahrt 108 | Systemauflösung |
+  | 15. | Übernahme der dynamischen Fahraufgabe durch eine lenkende Person im Kraftfahrzeug | Datum (Jahr-Monat-Tag), Zeit (Stunde:Minute:Sekunde), Nummer der Fahrt Beispiel: 2019-07-16, 05:25:12, Fahrt 108 | Systemauflösung |
+2 Speicherung und Übertragung
+2.1 Die in Nummer 1 genannten Daten müssen zum Zeitpunkt der Ereignisse nach den Buchstaben a bis f im ferngelenkten Kraftfahrzeug gespeichert werden:
+  a) Beginn und Abschluss des Fernlenkens,
+  b) Störungen im Betriebsablauf, technische Störungen des Gesamtsystems, insbesondere Abbruch der Funkverbindung während des Betriebs,
+  c) Beinahe-Unfall und Unfall-Szenarien,
+  d) Konfliktszenarien, insbesondere Verlassen des Fahrstreifens aufgrund von Fahrtverzug,
+  e) Einleitung des risikominimalen Zustands und
+  f) Übernahme der dynamischen Fahraufgabe durch eine lenkende Person im Kraftfahrzeug.
+2.2 Für die Ereignisse nach Nummer 2.1 Buchstabe b bis f sind die Daten jeweils für einen Zeitraum zu speichern, der zehn Sekunden vor dem Ereignis beginnt und zehn Sekunden nach dem Ereignis endet.
+2.3 Die Vernetzungsparameter müssen während der gesamten Dauer des Fernlenkens gespeichert werden.
+2.4 Die für die Ereignisse nach Nummer 2.1 Buchstabe b bis f gespeicherten Daten müssen unverzüglich dem Kraftfahrt-Bundesamt übermittelt werden.
