@@ -1,0 +1,63 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2025-12-02T18:02:00+01:00
+- Ende: 2025-12-02T22:35:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQuCwqB8QQQTBHqU9lVBDB4
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6266
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdaPvkpMnGw54d9yiarFOUhAvsP1-Db5B5GBCIQUseDk/Einladung_Rat_02.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Einführung und Verpflichtung der Ratsmitglieder durch den Bürgermeister
+- TOP 2.: Bestellung einer Schriftführung
+- TOP 3.: Beschlussfassung über die Tagesordnung
+- TOP 4.: Einwohnendenfragestunde
+- TOP 5.: Genehmigung der Niederschrift der Ratssitzung vom 17.06.2025
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: Änderungsantrag zur Hauptsatzung der Fraktionen SPD, FDP, WIR/FWW sowie des fraktionslosen Ratsmitglieds Helmut Latak
+- TOP 8.: Wahl, Einführung und Verpflichtung der stellvertretenden Bürgermeisterinnen und Bürgermeister
+- TOP 9.: Wahl von Ortsbürgermeisterinnen und Ortsbürgermeistern
+- TOP 10.: Bildung von Ausschüssen
+- TOP 11.: Besetzung von Ausschüssen einschließlich Wahl der stellvertretenden Ausschussmitglieder
+- TOP 12.: Bildung und Besetzung eines Jugendhilfeausschusses
+- TOP 13.: Bildung und Besetzung eines Wahlausschusses
+- TOP 14.: Bildung und Besetzung eines Ausschusses für Chancengerechtigkeit und Integration
+- TOP 15.: Bestimmung der Ausschussvorsitzenden durch die Fraktionen
+- TOP 16.: Bestimmung der stellvertretenden Ausschussvorsitzenden durch die Fraktionen
+- TOP 17.: Bestellung von Vertreterinnen und Vertretern der Stadt Wesseling
+- TOP 18.: Wahl von Vertreterinnen und Vertretern der Stadt Wesseling
+- TOP 19.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2026
+- TOP 19.1.: Antrag der WIR/FWW-Fraktion: Fraktionszuwendungen
+- TOP 19.2.: Ergänzungsantrag der Fraktionen CDU, SPD, GRÜNE, LINKE und FDP: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2026
+- TOP 20.: Erlass einer Ordnungsbehördlichen Verordnung über das Verbot des Verkaufs, sowie der Ab- und Weitergabe von Distickstoffmonoxid "Lachgas" an Minderjährige in der Stadt Wesseling
+- TOP 21.: Haushaltswirtschaft im Haushaltsjahr 2025 Bereitstellung von überplanmäßigen und außerplanmäßigen Ausgaben und Übertragung einer Verpflichtungsermächtigung
+- TOP 22.: Bereitstellung von Verfügungsmitteln in der vorläufigen Haushaltsführung für das Haushaltsjahr 2026
+- TOP 23.: Prüfung des Jahresabschlusses der Stadt Wesseling zum 31.12.2023
+- TOP 24.: Gesellschafterversammlung der Stadtentwicklungsgesellschaft Wesseling mbH (SEG) – Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin, hier: • Feststellung des Jahresabschlusses 2024 • Verwendung des Jahresergebnisses • Entlastung der Geschäftsführung und des Aufsichtsrats
+- TOP 25.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2024
+- TOP 26.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Wirtschaftsplan 2026
+- TOP 27.: Nachhaltige Sanierung des Jugendstadions Wesseling mit Mitteln des Bundesprogramms „Sanierung kommunaler Sportstätten“ (SKS)
+- TOP 28.: Bestellung einer/eines Beauftragten für die Belange von Menschen mit Behinderung (Behindertenbeauftragte/r)
+- TOP 29.: Aufhebung der Geschäftsordnung für den Seniorenbeirat der Stadt Wesseling
+- TOP 30.: Neufassung der Ordnung über Sponsoring, Spenden und Schenkungen für die Stadt Wesseling und ihrer Einrichtungen (Zuwendungsordnung).
+- TOP 31.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Zukunft Wochenmarkt Wesseling hier: Ergänzende städtische Maßnahmen zur Weiterentwicklung des Wesselinger Wochenmarktes
+- TOP 32.: Antrag der WIR/FWW-Fraktion: Deutschlandticket für Mitarbeiterinnen und Mitarbeiter der Verwaltung
+- TOP 32.1.: Änderungsantrag der Fraktion B90/Die Grünen: Deutschlandticket für Mitarbeiterinnen und Mitarbeiter der Verwaltung
+- TOP 33.: Antrag der SPD-Fraktion: Bereitstellung von Haushaltsmitteln für das Jahr 2025 zur Unterstützung des Stadtsportverbandes Wesseling e.V.
+- TOP 34.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Verleihung von Ehrennadeln und Ehrengaben der Stadt Wesseling
+- TOP 2.: Vorstellung der eingereichten Schlussangebote Bildungspark Urfeld
+- TOP 3.: Vorstellung der eingereichten Schlussangebote für das Grundschul-Interimsgebäude
+- TOP 4.: Grunderwerb im Bereich "Konrad-Adenauer-Straße" in Wesseling-Mitte Hier: Entscheidung über die Ausübung eines Rücktrittsrechts
+- TOP 5.: Nutzungsvereinbarung und Überlassung eines Dienstfahrzeugs für den Bürgermeister
+- TOP 6.: Umbesetzung der Wehrleitung der Freiwilligen Feuerwehr der Stadt Wesseling
+- TOP 7.: Übertragung der Leitung des Amtes für Stadtentwicklung
+- TOP 8.: Mitteilungen und Anfragen
+- TOP 9.: Unterrichtung der Öffentlichkeit
