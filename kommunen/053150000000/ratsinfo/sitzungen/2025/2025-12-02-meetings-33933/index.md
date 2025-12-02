@@ -1,0 +1,64 @@
+# 1. Sitzung des Mobilitätsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-02T16:00:00+01:00
+- Ende: 2025-12-02T17:27:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33933
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33933
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Bestellung einer Schriftführung und stellv. Schriftführung für den Mobilitätsausschuss - ungeändert beschlossen
+- TOP -: B Verpflichtung von Sachkundigen Bürger*innen und Einwohner*innen - Sache ist erledigt
+- TOP -: C Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Radpendlerroute statt Radschnellweg Köln-Frechen - vertagt
+- TOP 1.2: KVB-Wachstumsszenario prioritär weiterverfolgen - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Anregung der Bezirksvertretung Mülheim, KVB-Fahrplantakt (zur Mitteilung 1590/2025 Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB)) - geändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße zwischen Rolshover Straße und Kapellenstraße in Kalk – Reduzierung der Planungsvarianten - ungeändert beschlossen
+- TOP 3.2: Aufhebungsbeschluss zu Beschluss „Verwendung von Stellplatzablösemitteln zur Förderung des Radverkehrs hier: Mehrkosten für einen Bike Tower an der Haltestelle Weiden-West“ 3784/2022 - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 24. Satzung zur Änderung der Satzung der Stadt Köln vom 29. Juni 2001 über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.2: Baubeschluss für die bauliche Verbreiterung des Radweges ‚Am Leystapel‘, sowie Freigabe von investiven Auszahlungsermächtigungen - vertagt
+- TOP -: Baubeschluss für die bauliche Verbreiterung des Radweges ‚Am Leystapel‘, sowie Freigabe von investiven Auszahlungsermächtigungen - vertagt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Tempo 50 auf der Industriestraße bis 2026 in Niehl und Merkenich im Abschnitt zwischen Niehler Ei und Emdener Straße - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 24.06.2025 „Tempo 50 auf der Industriestraße bis 2026 in Niehl und Merkenich", AN/0819/2025 - Kenntnis genommen
+- TOP 5.1.2: Reisebuskonzept - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Verkehrsausschusses vom 24.06.2025 betreffend "Reisebuskonzept", AN/0872/2025 - Kenntnis genommen
+- TOP 5.1.3: Sachstand Ausbau K6n zwischen Pulheim und Widdersdorf - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Verkehrsausschusses vom 24.06.2025 betr. "Sachstand Ausbau K6n zwischen Pulheim und Widdersdorf", (AN/0946/2025) - Kenntnis genommen
+- TOP 5.1.4: Darstellung der Beeinträchtigung des Stadtbahnverkehrs durch Unfälle - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Franktion Bündnis 90 / Die Grünen und der Volt-Fraktion aus der Sitzung des Verkehrsausschusses betr. "Darstellung der Beeinträchtigung des Stadtbahnverkehrs durch Unfälle", AN/0947/2025 - vertagt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Verkehrssicherungsmaßnahmen durch Mietsysteme - vertagt
+- TOP 5.2.2: Überarbeitung der bezirklichen Busteilnetze - vertagt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Evaluierung der Satzung über die Herstellung von Stellplätzen für Kraftfahrzeuge und Fahrradabstellplätzen sowie die Erhebung von Ablösebeiträgen der Stadt Köln (kurz „Stellplatzsatzung“ genannt) - Kenntnis genommen
+- TOP 6.2.2: Änderungen des Fahrplanangebots der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 6.2.3: Abschlussbericht zum Pilotprojekt "Ladebordstein" - Kenntnis genommen
+- TOP 6.2.4: Stadtbahnkonzept Bonn 2026 - Kenntnis genommen
+- TOP 6.2.5: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen
+- TOP 6.2.6: Städtebaulicher Masterplan Innenstadt - Niederschrift 36. Sitzung am 25.11.2024 - Kenntnis genommen
+- TOP 6.2.7: Qualitätsbericht 2024 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 6.2.8: Unfallhäufungen und tödliche Verkehrsunfälle in Köln - Kenntnis genommen
+- TOP 6.2.9: Beantwortung einer schriftlichen Anfrage der CDU Fraktion vom 30.07.2025 (AN/1088/2025) betr. „Leistungsfähigkeit der Köln Straßen“ - Kenntnis genommen
+- TOP 6.2.10: Temporäre Beschilderung der RadPendlerRoute 2 anlässlich der zu erwartenden Sperrungen der S11 - Kenntnis genommen
+- TOP 6.2.11: Schutzstreifen Vorgebirgstraße in Zollstock: Abschluss der Arbeiten - Kenntnis genommen
+- TOP 6.2.12: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion für den Hauptausschuss am 29.09.2025 betr. "Wegfall von Parkplätzen in der Innenstadt" (AN/1248/2025) - Kenntnis genommen
+- TOP 6.2.13: Baubeschluss zur Anlage eines Radfahrstreifens in der Trierer / Pfälzer Straße und Umbau des Rechtsabbiegers Salierring in Neue Weyerstraße - Kenntnis genommen
+- TOP 6.2.14: Neue Ladesäulen für E-Reisebusse - Stadt Köln unterstützt Pilotprojekt für nachhaltigen Reisebusverkehr - Kenntnis genommen
+- TOP 6.2.15: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 15.05.2025 betreffend "Nachfragen zur Beantwortung - Mitteilung zum Flughafen" (AN/0616/2025) - Kenntnis genommen
+- TOP 6.2.16: Planänderungen der Vorentwurfsplanung Neusser Straße im Abschnitt zwischen Niehler Kirchweg und Kempener Straße - Kenntnis genommen
+- TOP 6.2.17: Bürgereingabe nach § 24 GO NRW - Ausstellung von Bewohnerparkausweisen nur bei auf Köln zugelassenen Kraftfahrzeugen erlauben, Az.: 73/25 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Abpollerungen im Bereich Apostelnstraße/Ehrenstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
