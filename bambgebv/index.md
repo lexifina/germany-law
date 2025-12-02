@@ -5,4 +5,4 @@
 - [§ 2 Höhe der Gebühren und Auslagen](0002.md)
 - [§ 3 Übergangsvorschriften](0003.md)
 - [§ 4 Inkrafttreten; Außerkrafttreten](0004.md)
-- [Anlage (zu § 2 Absatz 1)](anlage.md)
+- [Anlage (zu § 2 Absatz 1 Satz 2)Gebührenverzeichnis](anlage.md)
