@@ -1,0 +1,8 @@
+# TOP 5: Verzicht auf den Rückbau der Asphaltdecke auf dem Körnerweg
+
+- Sitzung: 17. Sitzung des Stadtbezirksbeirates Loschwitz (2025-12-02)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/231367
+- Ergebnis: Ablehnung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/68492
