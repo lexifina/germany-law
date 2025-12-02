@@ -1,0 +1,58 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-12-02T17:09:00+01:00
+- Ende: 2025-12-02T19:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28433
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/28433
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00570360.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00570360.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00570360.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Verabschiedung der ehemaligen Mitglieder der Bezirksvertretung 10
+- TOP 4: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen und mündliche Berichte
+- TOP 6.1: Starkregenprävention Walter-Kyllmann-Straße/Urdenbacher Acker - Berichterstattung durch Vertreter des Stadtentwässerungsbetriebs -
+- TOP 6.2: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im Jahr 2026 - einstimmig beschlossen
+- TOP 6.3: Beschluss des Kinderparlamentes Garath vom 05.11.2025, Ergänzung zum Beschluss BV10/135/2025 Projekt "Rauchfreie Zonen- keine Kippen auf dem Boden im Stadtbezirk 10; qualmfreie Zonen an Bushaltestellen im Stadtbezirk 10" - einstimmig beschlossen
+- TOP 6.4: Beschluss des Kinderparlamentes Garath vom 05.11.2025, Ergänzung zum Beschluss BV10/135/2025 Projekt "Rauchfreie Zonen- keine Kippen auf dem Boden im Stadtbezirk 10; qualmfreie Zonen rund um alle Schulen im SB sowie das Gymnasium Koblenzer Straße" - mehrheitlich beschlossen
+- TOP 6.5: Repräsentationsfonds des Bezirksbürgermeisters - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Haushalt 2025 - Liste A) Schulen 21 211 01 52416000 - mehrheitlich beschlossen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Fußgängerüberweg Carlo-Schmid-Straße/Schulwegsicherung - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Lärmschutz auf der A 59 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 8.3: Sporthalle in Düsseldorf-Hellerhof - Anfrage der SPD-Fraktion - - vertagt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Reinigung der Fußgängerbrücke über die B 8 in Hellerhof - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Einladung eines Vertreters der LEG (Wohnungsunternehmen) - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Abschluss Taubenvergrämung und -umsiedlung in Hellerhof - Antrag der Fraktion Bündnis 90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 9.8: Einladung Amt für Verkehrsmanagement - Antrag der Fraktion Bündnis 90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 9.9: Neue Saugreiniger und Mülleimer mit Öffnung in Pizzakartongröße auch in Hellerhof einsetzen - Antrag der Fraktion Bündnis 90/DIE GRÜNEN - - mehrheitlich beschlossen
+- TOP 9.10: Kreuzungssituationen in Hellerhof-Ost - Antrag der Fraktion Bündnis 90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 9.11: Willkommenstasche auch für Hellerhofer Neubürger*innen - Antrag der Fraktion Bündnis 90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Hinweis auf den Park & Ride Parkplatz in Hellerhof - Informationsvorlage zum Beschluss BV10/164/2025 vom 02.09.2025 - - zur Kenntnis genommen
+- TOP 11: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath - zur Kenntnis genommen
+- TOP 12: Verschiedenes - zur Kenntnis genommen
