@@ -1,0 +1,6 @@
+# TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse (V0516/25 und V0509/25)
+
+- Sitzung: 18. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) (2025-12-02)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/230429
