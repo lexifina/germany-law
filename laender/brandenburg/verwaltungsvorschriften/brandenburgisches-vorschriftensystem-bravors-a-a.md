@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2024-12-11 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/go_lpa_2010
+- Datum: 2025-12-03 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/errichtungserlass_lgb_2002
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,180 +26,300 @@ A |
 |
 
 Aktuelle Fassung
-Anlagen (1)                    Änderungshistorie
+Änderungshistorie
 
-Geschäftsordnung des Landespersonalausschusses Brandenburg (GO-LPA)
+Errichtung des Landesbetriebes Landesvermessung und Geobasisinformation Brandenburg
 
-vom 14. April 2010
+vom 12. Juni 2002
 
-(ABl./10, [Nr. 20], S.835)
+(ABl./02, [Nr. 28], S.642)
 
-zuletzt geändert durch Beschluss des Landespersonalausschusses vom 11. Dezember 2024
+geändert durch Erlass des MIK vom 3. Dezember 2025
 
-(ABl./25, [Nr. 2], S.39)
+(ABl./26, [Nr. 1], S.21)
 
-Aufgrund des § 128 des Landesbeamtengesetzes (LBG) vom 3. April 2009 (GVBl. I S. 26) gibt sich der Landespersonalausschuss folgende Geschäftsordnung:
+Im Geschäftsbereich des für das Vermessungs- und Katasterwesen zuständigen Ministeriums wird gemäß Artikel 1 des Gesetzes zur Umwandlung des Landesvermessungsamtes Brandenburg in einen Landesbetrieb vom 6. Dezember 2001 (GVBl. I S. 244) ab dem 1. Januar 2002 das Landesvermessungsamt Brandenburg als Landesbetrieb geführt
+
+Der Landesbetrieb führt die Bezeichnung „Landesvermessung und Geobasisinformation Brandenburg“.
+
+Er übernimmt als Rechtsnachfolger des Landesvermessungsamtes Brandenburg das Personal an den bestehenden Dienstorten.
+
+Betriebsführung, Umfang der Dienst- und Fachaufsicht sowie die Grundsätze der Aufgabenerledigung und Wirtschaftsführung ergeben sich aus der als Anlage beigefügten Geschäftsanweisung. Die Geschäftsanweisung ist Bestandteil des Erlasses. Das in Satz 1 benannte Ministerium wird im Sinne des § 9 Absatz 3 Satz 1 des Landesorganisationsgesetzes zur Änderung des Errichtungserlasses ermächtigt.
+
+Der Landesbetrieb führt zum 1. Januar 2003 das betriebliche Rechnungswesen ein.
+
+Der Erlass des Ministeriums des Innern vom 13. März 1991 (ABl. S. 189) wird aufgehoben. Die für das Landesvermessungsamt Brandenburg als Landesoberbehörde ergangenen Richtlinien, Erlasse und Dienstanweisungen sowie die Dienstvereinbarungen und weitere interne Regelungen gelten, soweit sie der Geschäftsanweisung nicht entgegenstehen, fort.
+
+Dieser Erlass tritt mit Wirkung vom 01.01.2002 in Kraft.
+
+Anlage zum Errichtungserlass
+
+vom 12. Juni 2002
+
+Geschäftsanweisung für den Landesbetrieb
+
+Landesvermessung und Geobasisinformation Brandenburg
 
 § 1
 
-Stellvertretung der oder des Vorsitzenden
+Allgemeines
 
-Der Landespersonalausschuss wählt aus der Mitte seiner ordentlichen Mitglieder eine Stellvertreterin beziehungsweise einen Stellvertreter. Im Falle der Verhinderung der Vorsitzenden oder des Vorsitzenden und der stellvertretenden Vorsitzenden oder des stellvertretenden Vorsitzenden obliegen dem dienstältesten Mitglied die Sitzungsleitung sowie die sonstigen, nach der Geschäftsordnung der oder dem Vorsitzenden vorbehaltenen Befugnisse.
+(1) Der Landesbetrieb Landesvermessung und Geobasisinformation Brandenburg ist ein Landesbetrieb nach § 9 des Landesorganisationsgesetzes, der jedoch überwiegend durch oder aufgrund von Rechtsnormen übertragene Aufgaben wahrnimmt. Er ist ein rechtlich unselbständiger, organisatorisch abgesonderter Teil der Landesverwaltung. Für ihn gelten die Rechts- und Verwaltungsvorschriften und IT-Standards und -Anweisungen wie für eine Landesoberbehörde, sofern in dieser Geschäftsanweisung nichts anderes bestimmt ist. Beinhaltet die Aufgabenwahrnehmung eine öffentlich-rechtliche Verwaltungstätigkeit, so handelt der Landesbetrieb als Behörde im Sinne des § 1 Absatz 2 des Verwaltungsverfahrensgesetzes für das Land Brandenburg.
+
+(2) Der Landesbetrieb ist neben dem für das Vermessungs- und Katasterwesen zuständigen Ministerium und den Katasterbehörden Bestandteil der Vermessungs- und Katasterverwaltung im Land Brandenburg. Er ist berechtigt, das Landeswappen und das kleine Dienstsiegel zu verwenden. Er kann sich im Geschäftsverkehr unter Marketingaspekten eines Betriebslogos bedienen.
+
+(3) Der Landesbetrieb hat seinen Sitz in Frankfurt (Oder) mit Betriebsstellen in Potsdam und Prenzlau.
+
+(4) Der Landesbetrieb gibt sich eine Geschäftsordnung, welche kompatibel zu den Regelungen der Gemeinsamen Geschäftsordnung für die Ministerien des Landes Brandenburg auszugestalten ist.
 
 § 2
 
-Befugnisse der Mitglieder
+Aufgabenwahrnehmung
 
-(1) Die Mitglieder des Landespersonalausschusses sind im Rahmen der ihnen gesetzlich übertragenen Aufgaben berechtigt,
+(1) Der Landesbetrieb nimmt die ihm durch oder aufgrund von Rechtsnormen übertragenen hoheitlichen Aufgaben des amtlichen Vermessungs- und Geoinformationswesens wahr (hoheitliche Aufgaben). Neben diesen Aufgaben kann die Aufsichtsbehörde den Landesbetrieb mit besonderen Projekten und der Übernahme weiterer Aufgaben beauftragen. Hierzu erfolgt der Abschluss einer Zielvereinbarung, welche eine Zusammenstellung der geltenden Vorschriften und Festlegungen enthält.
 
-die dem Landespersonalausschuss zur Entscheidung oder zur Mitwirkung vorgelegten Akten einzusehen,
+(2) Der Landesbetrieb kann andere Behörden und Einrichtungen der Landesverwaltung bei der Wahrnehmung ihrer auf Rechtsnormen beruhenden hoheitlichen Aufgaben mit Bezug zum Geoinformationswesen auf der Grundlage von Servicevereinbarungen (behördliche Geodienstleistungen) unterstützen.
 
-von der oder dem Vorsitzenden oder der Geschäftsstelle Auskünfte zu verlangen, soweit sie für ihre Mitwirkung im Landespersonalausschuss von Bedeutung sind,
+(3) Im Rahmen seines Aufgabenprofils kann der Landesbetrieb weitere Aufgaben für die Landesverwaltung sowie Dritte (sonstige Dienstleistungen) beispielsweise auf der Grundlage von Servicevereinbarungen übernehmen, sofern hierdurch die Aufgabenerledigung für die Landesverwaltung nach Absatz 1 und 2 nicht beeinträchtigt wird.
 
-Beratungsgegenstände auf die Tagesordnung einer Sitzung setzen zu lassen.
-
-(2) Die stellvertretenden Mitglieder vertreten diejenigen ordentlichen Mitglieder, als deren Stellvertreterinnen oder Stellvertreter sie berufen worden sind. Im Übrigen sind sie berechtigt, mit beratender Stimme an allen Sitzungen teilzunehmen.
-
-(3) Alle den Mitgliedern zur Kenntnis gelangten Angelegenheiten des Landespersonalausschusses unterliegen der Verpflichtung zur Amtsverschwiegenheit. Über das Abstimmungsverhalten einzelner Mitglieder und deren Äußerungen in den Beratungen ist Stillschweigen zu wahren (Beratungsgeheimnis).
-
-(4) Die allgemeinen Bestimmungen über den Datenschutz sind zu beachten.
+(4) Die Aufwände und Erlöse der in den Absätzen 1 bis 3 genannten Aufgabenbereiche sind getrennt mittels einer Kosten- und Leistungsrechnung nach noch festzulegenden Produkten nachzuweisen.
 
 § 3
 
-Geschäftsstelle
+Hoheitliche Aufgaben
 
-(1) Die Geschäftsstelle des Landespersonalausschusses führt die Bezeichnung „Geschäftsstelle des Landespersonalausschusses beim Ministerium des Innern und für Kommunales des Landes Brandenburg“.
+des amtlichen Vermessungs- und Geoinformationswesens
 
-(2) Die Geschäftsstelle führt die laufenden Geschäfte des Landespersonalausschusses und seiner Unterausschüsse nach Weisung der oder des Vorsitzenden. Sie hat die Vorsitzende oder den Vorsitzenden laufend über wichtige Fragen, die Angelegenheiten des Landespersonalausschusses betreffen, zu unterrichten.
+(1) Zu den Aufgaben des Landesbetriebes nach § 2 Absatz 1 gehören:
 
-(3) Die Geschäftsstelle berät die antragstellenden Behörden. Auskünfte über die im Landespersonalausschuss behandelten Anträge werden ausschließlich der antragstellenden Behörde erteilt.
+1. Raumbezug
 
-(4) Die Geschäftsstelle stellt Informationen über die Tätigkeit des Landespersonalausschusses im Internet zur Verfügung.
+Der Landesbetrieb erfasst, aktualisiert und führt nach dem Brandenburgischen Vermessungsgesetz die Geobasisdaten des Raumbezugs.
+
+Zur Überwachung von Vertikalbewegungen und zur Aktualisierung von Höhen in den durch Bergbautätigkeit verursachten Bodenbewegungsgebieten sollen Leitnivellements durchgeführt werden.
+
+Zur Überprüfung der Messgeräte unterhält der Landesbetrieb eine Landeskalibrierungsstrecke und ein Prüffeld.
+
+2. Geotopographie
+
+Der Landesbetrieb erfasst, aktualisiert und führt nach dem Brandenburgischen Vermessungsgesetz digitale Landschafts- und Geländemodelle, Topographische Landeskartenwerke und Fernerkundungsdaten. Er unterhält eine Regionale Copernicus-Kontaktstelle.
+
+3. Liegenschaftskataster
+
+Der Landesbetrieb unterstützt nach dem Brandenburgischen Vermessungsgesetz und Maßgabe der Aufsichtsbehörde die Katasterbehörden, wenn dies aus überregionalen oder wirtschaftlichen Gründen erforderlich erscheint.
+
+4. Bereitstellung
+
+Der Landesbetrieb stellt Geobasisdaten des Raumbezugs, der Geotopographie und der Liegenschaften nach dem Brandenburgischen Vermessungsgesetz sowie die Geofachdaten der Gutachterausschüsse nach der Brandenburgischen Gutachterausschussverordnung bereit. Er stellt die Geodaten der Landesverwaltung nach dem Brandenburgischen Geodateninfrastrukturgesetz bereit.
+
+Die Bereitstellung erfolgt insbesondere als Datendownload über Geo-Webdienste, Geo-Webschnittstellen, Geo-Webapplikationen oder auf Nutzerwunsch in gedruckter Form. Die Form der Bereitstellung richtet sich unter anderem nach dem Vermessungsentgeltverzeichnis in der jeweils aktuellen Fassung.
+
+5. Technologien
+
+Der Landesbetrieb beschafft und unterhält die Werkzeuge zur Führung der Geobasisdaten und zur Bereitstellung der Geobasisinformationen sowie für die Katasterbehörden und Geschäftsstellen der Gutachterausschüsse die Mess-, Auswerte- und sonstigen Informationssysteme (MAIS), die zur landeseinheitlichen Wahrnehmung der Aufgaben nach dem Brandenburgischen Vermessungsgesetz und der Brandenburgischen Gutachterausschussverordnung erforderlich sind. Er hat regelmäßig die Messsysteme der Vermessungs- und Katasterverwaltung zu prüfen und gegebenenfalls zu reparieren.
+
+6. Öffentlich bestellte Vermessungsingenieurinnen und -ingenieure
+
+Der Landesbetrieb nimmt nach dem Brandenburgischen ÖbVI-Gesetz die Aufgaben als Zulassungs- und Aufsichtsbehörde für die Öffentlich bestellten Vermessungsingenieurinnen und
+
+-ingenieure (ÖbVI) wahr.
+
+7. Grundstückswertermittlung
+
+Der Landesbetrieb nimmt nach der Brandenburgischen Gutachterausschussverordnung Aufgaben der amtlichen Grundstückswertermittlung wahr, insbesondere die Aufgabe als Geschäftsstelle des Oberen Gutachterausschusses für Grundstückswerte im Land Brandenburg.
+
+8. Geodateninfrastruktur
+
+Der Landesbetrieb betreibt die technischen Komponenten der Geodateninfrastruktur Brandenburg (GDI-BB), insbesondere das Geoportal des Landes Brandenburg. Er übernimmt die Aufgaben der ressortübergreifenden Kontaktstelle Geodateninfrastruktur Deutschland (GDI-DE) nach dem Brandenburgischen Geodateninfrastrukturgesetz und unterstützt die Akteure der GDI-BB nach grundsätzlichen Vorgaben der Aufsichtsbehörde.
+
+9. Fachkräftesicherung
+
+Der Landesbetrieb ist Ausbildungsbetrieb für die Berufe der Geoinformationstechnologie und weitere Berufe, sofern die Ausbildungseignung nach dem Berufsbildungsgesetz zuerkannt wurde. Er bietet überbetriebliche Ausbildungsabschnitte in den Berufen der Geoinformationstechnologie an. Der Landesbetrieb bietet Bildungsverträge für ein duales Studium im Bereich der Geodäsie und Geoinformation an. Ihm obliegen Aufgaben als zuständige Stelle im Bereich der Berufsausbildung nach der Berufsbildungszuständigkeitsverordnung sowie der Laufbahnausbildung nach den Brandenburgischen Ausbildungs- und Prüfungsordnungen höherer technischer Dienst und gehobener vermessungstechnischer Dienst.
+
+Der Landesbetrieb unterhält die Geschäftsstelle des Beirats für die nachhaltige Fachkräftesicherung, bereitet dessen Empfehlungen vor und setzt diese um.
+
+10. Weitere Aufgaben
+
+Der Landesbetrieb wirkt bei den vermessungstechnischen und unterhaltenden Arbeiten an der Deutsch-Polnischen Grenze mit. Er beteiligt sich an der GIS-Normung und -Standardisierung.
+
+(2) Zu den in Absatz 1 genannten Aufgaben gehören auch
+
+in Abstimmung mit der Aufsichtsbehörde die Vertretung des Landes in länderübergreifenden Fachgremien, insbesondere in der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland, im Lenkungsausschuss Geobasis und in der
+
+GDI-DE, sowie in der Deutsch-Polnischen Grenzkommission;
+
+Beratungstätigkeiten und Zusammenarbeit mit Brandenburger und nationalen Gremien und Institutionen;
+
+Beratungstätigkeiten und Zusammenarbeit im Brand- und Katastrophenschutz, im Koordinierungszentrum Krisenmanagement der Landesregierung und in anderen Stäben zur Bewältigung von Schadenslagen, Krisen oder Pandemien;
+
+Erprobung neuer und Weiterentwicklung bestehender Verfahren und Technologien;
+
+Organisation von Fortbildungen für die Aufgabenträger des amtlichen Vermessungs- und Geoinformationswesens.
 
 § 4
 
-Antragstellung
+Unterstützung hoheitlicher Landesaufgaben
 
-(1) Für Anträge an den Landespersonalausschuss ist das in der Anlage beigefügte Muster zu verwenden. Der Antrag ist in 18facher Ausfertigung der Geschäftsstelle zuzuleiten. Dies gilt nicht für die Beantragung eines Grundsatzbeschlusses. Anträge für Gruppen von Beamtinnen und Beamten, denen keine grundsätzliche Bedeutung zukommt, werden wie einzeln gestellte Anträge behandelt. Sofern eingereichte Schriftstücke personenbezogene Daten Dritter beinhalten, sind diese zu schwärzen.
+auf der Grundlage von Servicevereinbarungen
 
-(2) Anträge und sonstige Schriftstücke können elektronisch übermittelt werden, soweit dem rechtliche Gründe oder andere Umstände nicht entgegenstehen. Personenbezogene Daten nach § 3 Absatz 1 des Brandenburgischen Datenschutzgesetzes dürfen auf elektronischem Wege nur verschlüsselt oder über eine besonders gesicherte Verbindung übermittelt werden.
+(behördliche Geodienstleistungen)
 
-(3) Es werden grundsätzlich nur Anträge behandelt, die der nach Absatz 1 vorgeschriebenen Form entsprechen und die spätestens vier Wochen vor dem Sitzungstermin bei der Geschäftsstelle eingegangen sind.
+(1) Zu den Aufgaben des Landesbetriebes nach § 2 Absatz 2 gehören insbesondere:
+
+Geodienstleistungen;
+
+Datenerstellung, -verarbeitung und -bereitstellung;
+
+technische Umsetzung der Vorgaben des Brandenburgischen Geodateninfrastrukturgesetzes (INSPIRE-Zentrale);
+
+Mitarbeit bei Aufbau, Betrieb und Weiterentwicklung einer Geodateninfrastruktur für Behörden und Organisationen mit Sicherheitsaufgaben hinsichtlich der GIS-Fachsoftware (BOS-GDI);
+
+Vertrags- und Lizenzmanagement für die in den IT-Standards aufgeführten Geoinformationssysteme;
+
+Aufbau, Betrieb und Weiterentwicklung einer GIS-Serverplattform für Behörden und Einrichtungen der Landesverwaltung.
+
+(2) Der Landesbetrieb stellt der Aufsichtsbehörde auf Anforderung oder im Rahmen der Berichterstattung zu den Zielvereinbarungen eine vollständige Übersicht der Servicevereinbarungen mit den Aufwänden und Erlösen bereit.
+
+(3) Weitere behördliche Geodienstleistungen bedürfen der Sicherstellung der erforderlichen Personalstellen und der Haushaltsmittel durch die auftraggebende Stelle.
 
 § 5
 
-Vorbereitung und Verlauf der Sitzungen, Ladung der Mitglieder
+Weitere Aufgaben für die Landesverwaltung
 
-(1) Die Sitzungen des Landespersonalausschusses finden in der Regel am jeweils zweiten Mittwoch der Monate Februar, April, Juni, Oktober und Dezember statt.
+sowie Dritte (sonstige Dienstleistungen)
 
-(2) Die Geschäftsstelle bereitet die Sitzungen vor und lädt die Mitglieder und die stellvertretenden Mitglieder des Landespersonalausschusses unter Übersendung einer Tagesordnung schriftlich zu den Sitzungen ein. Zwischen der Absendung der Einladung und dem Sitzungstermin soll eine Frist von mindestens zehn Tagen liegen. In dringenden Fällen kann auch mit kürzerer Frist geladen werden.
+Zu den Aufgaben des Landesbetriebes nach § 2 Absatz 3 gehören insbesondere folgende Dienstleistungen:
 
-(3) Sind Mitglieder an der Teilnahme verhindert, so unterrichten sie unverzüglich ihre Stellvertreterinnen oder Stellvertreter und die Geschäftsstelle.
+Beratungsleistungen;
 
-(4) Die Geschäftsstelle veranlasst die Ladung der Beauftragten der beteiligten Verwaltungen, von Beschwerdeführern, Vertretern von Gewerkschaften und Berufsverbänden sowie von anderen Personen, soweit ihre Anwesenheit notwendig erscheint oder nach §128 Absatz 4 des Landesbeamtengesetzes (LBG) zu gestatten ist. Beteiligte, Zeugen und Sachverständige, deren Anhörung von der oder dem Vorsitzenden vorgesehen ist, hat die Geschäftsstelle unter Mitteilung des Verhandlungsgegenstandes, über den sie gehört werden sollen, schriftlich zu laden.
+Schulungsleistungen;
 
-(5) Der Landespersonalausschuss lässt sich vor seiner Entscheidung die Sach- und Rechtslage von der Geschäftsstelle vortragen und entscheidet - soweit notwendig nach  Anhörung der in § 128 Absatz 2 LBG genannten Beteiligten, der von den Verwaltungen Beauftragten oder von Dritten - durch Einzel- oder Grundsatzbeschluss.
+konzeptionelle Leistungen;
 
-(6) Ist die Behandlung eines Antrages, zum Beispiel wegen besonderer Dringlichkeit, nicht in einer Sitzung des Landespersonalausschusses möglich, kann die oder der Vorsitzende durch die Geschäftsstelle die Zustimmung der Mitglieder des Landespersonalausschusses ohne Beratung einholen lassen. Erfolgt die Zustimmung mündlich, ist sie unverzüglich schriftlich zu bestätigen. Ist ein Mitglied verhindert, so ist die Zustimmung der Stellvertreterin oder des Stellvertreters einzuholen. Stimmen nicht alle Mitglieder dem Antrag zu, muss in einer Sitzung des Landespersonalausschusses darüber entschieden werden.
+datentechnische Leistungen;
 
-(7) Die den Mitgliedern zur Verfügung gestellten Beratungsunterlagen, die personenbezogene Anträge betreffen, werden nach der abschließenden Behandlung eines Vorgangs der Geschäftsstelle übergeben.
+kartographische und kartentechnische Leistungen;
+
+Grafik- und Druckdienstleistungen einschließlich Nachbereitung (beispielsweise Schneiden, Sortieren, Binden, Versand);
+
+Aufbau, Betrieb und Weiterentwicklung von sonstigen Portalen.
 
 § 6
 
-Ausschluss und Befangenheit von Mitgliedern
+Grundsätze der Geschäftsführung
 
-Für den Ausschluss von Mitgliedern von der Beratung und Beschlussfassung oder beim Vorliegen eines Grundes über die Besorgnis der Befangenheit gelten die Vorschriften der §§ 20 und 21 des Verwaltungsverfahrensgesetzes des Bundes in Verbindung mit den §§ 1 und 3 des Verwaltungsverfahrensgesetzes für das Land Brandenburg entsprechend.
+(1) Der Landesbetrieb richtet die Aufgabenerledigung insbesondere auf die Bedürfnisse des amtlichen Vermessungs- und Geoinformationswesens, der Verwaltung, des Rechtsverkehrs, der Wirtschaft, des Verkehrs, der Landesplanung, der Bauleitplanung und Bodenordnung, des Umwelt- und Naturschutzes, der Verteidigung und der Forschung aus und passt sie ständig dem Fortschritt der geodätischen und kartographischen Wissenschaft und Technik an. Er wahrt die Einheitlichkeit der Verfahren und Produkte des amtlichen Vermessungs- und Geoinformationswesens innerhalb der Bundesrepublik Deutschland.
+
+(2) Für den Landesbetrieb gelten die Regelungen und Vereinbarungen, die das für das Vermessungs- und Katasterwesen zuständige Ministerium und der Landesbetrieb für die Zusammenarbeit innerhalb des amtlichen Vermessungs- und Geoinformationswesens des Landes, mit den Vermessungsverwaltungen der anderen Bundesländer sowie mit Dienststellen des Bundes und europäischer Staaten getroffen haben.
+
+(3) Bei der Erfüllung seiner Aufgaben wählt der Landesbetrieb das wirtschaftlichste Verfahren.
+
+(4) Soweit die Wahrnehmung der Aufgaben die Anwendung von Zwangsmitteln oder die Verfolgung von Ordnungswidrigkeiten zulässt, ist der Landesbetrieb berechtigt, die entsprechenden Verfahrensschritte durchzuführen.
 
 § 7
 
-Unterausschüsse
+Geschäftsleitung
 
-(1) Für die Durchführung des Verfahrens zur Feststellung der Laufbahnbefähigung kann der Landespersonalausschuss zur Vorbereitung seiner Entscheidung Unterausschüsse bestellen.
+(1) Die Leitung des Landesbetriebes obliegt der Geschäftsführerin oder dem Geschäftsführer (geschäftsführende Person). Die Amtsbezeichnung kann im Geschäftsverkehr geführt werden.
 
-(2) Ein Unterausschuss besteht aus drei Mitgliedern, die mindestens der jeweils angestrebten Laufbahngruppe der Beamtin oder des Beamten beziehungsweise der anderen Bewerberin oder des anderen Bewerbers angehören. Er setzt sich aus zwei Mitgliedern des Landespersonalausschusses (ständige Mitglieder des Unterausschusses) und einer Vertreterin oder einem Vertreter der antragstellenden Behörde (nicht ständiges Mitglied des Unterausschusses) zusammen. Das nicht ständige Mitglied des Unterausschusses soll durch die antragstellende Behörde für das jeweilige Feststellungsverfahren benannt werden. Einer Bestellung bedarf es nicht. Ein ständiges Mitglied des Unterausschusses ist Beamtin oder Beamter des höheren Dienstes.
+(2) Die geschäftsführende Person führt den Landesbetrieb selbständig und unter eigener Verantwortung, soweit nicht durch diese Geschäftsanweisung oder Rechtsnormen etwas anderes bestimmt ist. Sie vertritt das Land Brandenburg in rechtlichen Angelegenheiten des Landesbetriebes gerichtlich und außergerichtlich. Erklärungen werden unter der Bezeichnung „Landesvermessung und Geobasisinformation Brandenburg“ abgegeben. Die Entscheidung über die Personalangelegenheiten der geschäftsführenden Person ist der Aufsichtsbehörde vorbehalten.
 
-(3) Die ständigen Mitglieder des Unterausschusses werden für die Dauer ihrer Amtszeit als Mitglied des Landespersonalausschusses bestellt. Für jedes Mitglied ist ein stellvertretendes Mitglied zu bestellen.
+(3) Die geschäftsführende Person ist Dienstvorgesetzte aller Beamtinnen und Beamten des Landesbetriebes. Die Zuständigkeit für beamtenrechtliche Maßnahmen richtet sich nach den Vorschriften des Landesbeamtengesetzes und der Beamtenzuständigkeitsverordnung der Aufsichtsbehörde.
 
-(4) Der Landespersonalausschuss bestimmt den Vorsitz und die Stellvertretung im Unterausschuss.
+(4) Die geschäftsführende Person ist Vorgesetzte aller Tarifbeschäftigten. Die Gewährung über- oder außertariflicher Leistungen bedarf unter Beachtung des § 40 Absatz 1 der Landeshaushaltsordnung auch der Zustimmung der Aufsichtsbehörde.
 
-(5) Das nicht ständige Mitglied muss die Befähigung für die von der Beamtin oder dem Beamten beziehungsweise der anderen Bewerberin oder dem anderen Bewerber angestrebte Laufbahn besitzen. Benennt die antragstellende Behörde kein nicht ständiges Mitglied, welches die Befähigung für die angestrebte Laufbahn besitzt, soll abweichend von Absatz 2 Satz 4 das nicht ständige Mitglied im Wege der Amtshilfe nach § 129 Absatz 2 Satz 2 LBG von der zuständigen Laufbahnordnungsbehörde gestellt werden.
+(5) Die geschäftsführende Person wird durch eine für diesen Zweck bestellte Person vertreten, die einen Fachbereich des Landesbetriebes leitet.
 
-(6) Die nichtständigen Mitglieder werden vor der Ausübung ihrer Tätigkeit durch den Vorsitzenden des Unterausschusses gesondert zur Amtsverschwiegenheit sowie zur Wahrung des Beratungsgeheimnisses und des Datenschutzes verpflichtet.
+(6) Das Nähere regelt die Geschäftsordnung.
 
 § 8
 
-Befugnisse des Unterausschusses
+Aufsicht
 
-(1) Der Unterausschuss ist zuständig für die Vorbereitung der Entscheidung über die Feststellung der Laufbahnbefähigung der Beamtin oder des Beamten beziehungsweise der anderen Bewerberin oder des anderen Bewerbers.
+(1) Der Landesbetrieb untersteht der Dienst- und Fachaufsicht des für das Vermessungs- und Katasterwesen zuständigen Ministeriums (Aufsichtsbehörde).
 
-(2) Der Unterausschuss lädt die Beamtin oder den Beamten beziehungsweise die andere Bewerberin oder den anderen Bewerber zu einem Vorstellungstermin ein.
+(2) Die Aufsichtsbehörde schließt mit dem Landesbetrieb für die Aufgabenbereiche gemäß § 3 periodische Zielvereinbarungen über die Arbeitsschwerpunkte und deren zeitliche Umsetzung einschließlich der Berichtspflicht ab. Zur Aufgabenerfüllung gemäß §§ 4 und 5 erfolgt eine Berichterstattung gegenüber der Aufsichtsbehörde insbesondere inklusive des Nachweises der Wirtschaftlichkeit. Die Aufsichtsbehörde kann darüber hinaus Weisungen erteilen und hat ein Recht auf Auskunft und Prüfung.
 
-(3) Die Geschäftsstelle stellt dem Unterausschuss Unterlagen zur Verfügung, des Weiteren kann der Unterausschuss weitere Unterlagen anfordern.
+(3) Der Aufsichtsbehörde sind vorbehalten:
 
-(4) Der Unterausschuss beschließt mit Stimmenmehrheit; bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Zur Beschlussfassung ist die Anwesenheit von mindestens zwei Mitgliedern erforderlich.
+Erlass und Änderung der Geschäftsanweisung;
 
-(5) Die oder der Vorsitzende des Unterausschusses teilt dem Landespersonalausschuss das Ergebnis mit einem Vorschlag für die Entscheidung mit. Der Landespersonalausschuss kann von der oder dem Vorsitzenden des Unterausschusses einen mündlichen Bericht erbitten.
+Genehmigung des Wirtschaftsplans;
 
-(6) Der Landespersonalausschuss entscheidet auf Grund des Vorschlags des Unterausschusses.
+Feststellung des Jahresabschlusses;
 
-(7) Die dem Unterausschuss zur Verfügung gestellten Unterlagen werden nach dem Abschluss eines Vorgangs der Geschäftsstelle übergeben.
+Bestellung und Abberufung der geschäftsführenden Person und deren Vertretung;
+
+Bestellung der Abschlussprüferin oder des Abschlussprüfers.
+
+(4) Der vorherigen Zustimmung der Aufsichtsbehörde bedürfen:
+
+Eintritt in Organe eines privatrechtlichen Unternehmens. Davon unberührt bleiben die Kompetenzen des für Finanzen zuständigen Ministeriums gemäß § 65 Absatz 2 der Landeshaushaltsordnung;
+
+Einrichtung und Auflösung von Betriebsstellen;
+
+Erlass und Änderung der Geschäftsordnung.
+
+(5) Die Aufsichtsbehörde ist zu informieren
+
+bei der Aufnahme von Abstimmungsgesprächen für den Abschluss von Servicevereinbarungen nach § 4;
+
+beim Abschluss einer Servicevereinbarung nach §§ 4 und 5 durch Vorlage einer Kopie der Vereinbarung.
 
 § 9
 
-Datenschutz
+Grundsätze der Wirtschaftsführung
 
-(1) Denjenigen Personen, die bei ihrer Tätigkeit für den Landespersonalausschuss dienstlichen Zugang zu personenbezogenen Daten haben, ist es untersagt, solche Daten unbefugt zu einem anderen als dem zur jeweiligen rechtmäßigen Aufgabenerfüllung gehörenden Zweck zu verarbeiten oder zu offenbaren. Diese Personen sind verpflichtet, das Datengeheimnis auch nach Beendigung ihrer Tätigkeit zu wahren.
+(1) Verwaltung und Wirtschaftsführung des Landesbetriebes erfolgen nach den Rechts- und Verwaltungsvorschriften für Landesbehörden, soweit nicht das für Finanzen zuständige Ministerium aufgrund der Besonderheiten der Landesvermessung und Geobasisinformation Brandenburg Abweichungen zugelassen hat.
 
-(2) Die Geschäftsstelle hat alle entscheidungserheblichen Akten und Daten zu abgeschlossenen Vorgängen spätestens nach fünf Jahren zu vernichten bzw. zu löschen.
+(2) Die Tätigkeit des Landesbetriebes ist nicht auf Gewinnerzielung ausgerichtet.
 
-§  10
+(3) Der Landesbetrieb erbringt seine Aufgaben nach § 2 Absatz 2 und 3 auf der Grundlage von Service- oder anderer Vereinbarungen gegen Einzel- oder Pauschalvergütungen. Einzelheiten der Auftragserteilung und -abwicklung werden vom Landesbetrieb in den Allgemeinen Geschäfts- und Nutzungsbedingungen geregelt.
 
-Niederschrift
+(4) Für die Aufgaben nach § 3 werden zwischen der Aufsichtsbehörde und dem Landesbetrieb jährlich Budgets vereinbart. Die Aufgaben nach den §§ 4 und 5 sind durch den Landesbetrieb mittels Vollkostenrechnung kostendeckend zu erbringen; die Entgelte sind regelmäßig auf Grundlage der tatsächlichen Aufwände anzupassen.
 
-(1) Über jede Sitzung des Landespersonalausschusses ist von der Protokollführerin oder dem Protokollführer der Geschäftsstelle eine Niederschrift zu fertigen, die von der Leiterin oder dem Leiter der Geschäftsstelle und der Protokollführerin oder dem Protokollführer zu unterschreiben ist. Die Niederschrift wird der oder dem Vorsitzenden oder der oder dem stellvertretenden Vorsitzenden zur Schlusszeichnung vorgelegt.
+(5) Das Rechnungswesen des Landesbetriebes folgt den Regeln der kaufmännischen doppelten Buchführung (§ 74 Absatz 1 der Landeshaushaltsordnung). Darüber hinaus betreibt der Landesbetrieb ein internes betriebliches Rechnungswesen, das die Planung, Steuerung und Kontrolle der betrieblichen Abläufe sowie Aussagen über den wirtschaftlichen und finanziellen Status und die Entwicklung des Landesbetriebes (Controlling) ermöglicht.
 
-(2) In die Niederschrift sind aufzunehmen:
+§ 10
 
-die Namen aller Personen, die an der Sitzung teilgenommen haben,
+Wirtschaftsplan
 
-Tag, Beginn und Ende der Sitzung,
+(1) Der Landesbetrieb stellt gemäß den Regelungen des § 26 Absatz 1 der Landeshaushaltsordnung sowie der hierzu erlassenen Verwaltungsvorschriften einen Wirtschaftsplan auf und legt diesen der Aufsichtsbehörde bis zum 31. Oktober des Jahres vor Beginn des Geschäftsjahres zur Genehmigung vor. Der Wirtschaftsplan besteht aus dem Erfolgsplan, dem Finanzplan, der Stellenübersicht und enthält Angaben zur mittelfristigen Finanzplanung.
 
-die Beratungsgegenstände,
+(2) Im Erfolgsplan werden die voraussichtlich im Geschäftsjahr anfallenden Aufwendungen und Erträge nach Art einer Gewinn- und Verlustrechnung dargestellt. Soweit diese erheblich von den Beträgen des Vorjahres abweichen, sind sie ausreichend zu begründen.
 
-als Anlage die gefassten Beschlüsse; bei ablehnenden Beschlüssen und bei Beschlüssen, denen der Landespersonalausschuss grundsätzliche Bedeutung beimisst, ist eine Begründung in die Niederschrift aufzunehmen.
+(3) Im Finanzplan werden die geplanten Maßnahmen zur Vermehrung des Anlage- und Umlaufvermögens sowie deren Deckungsmittel dargestellt. Als Deckungsmittel werden im Finanzplan die vorhandenen oder zu beschaffenden Finanzierungsmittel nachgewiesen. Dem Finanzplan ist eine Übersicht der im Finanzplan veranschlagten Investitionen (Investitionsplan) beizufügen.
 
-Wenn Mitglieder des Landespersonalausschusses dies ausdrücklich wünschen, sind ihre Wortbeiträge sinngemäß in die Niederschrift aufzunehmen.
+(4) In der Stellenübersicht sind Tarifbeschäftigte nach Entgeltgruppen auszuweisen. Beamtinnen und Beamte sind gemäß den Planstellen nach Besoldungsgruppen und Amtsbezeichnungen auszubringen.
 
-(3) Die Niederschrift soll nach Unterzeichnung durch die Vorsitzende oder den Vorsitzenden jedem Mitglied des Ausschusses und jedem stellvertretenden Mitglied mit der Einladung für die nächste Sitzung übersandt werden, sie ist spätestens in der nächsten Sitzung auszuhändigen.
+§ 11
 
-§  11
+Ausführung des Wirtschaftsplanes
 
-Mitteilung und Veröffentlichung der Beschlüsse
+(1) Der genehmigte Wirtschaftsplan bildet die Grundlage für die eigenverantwortliche Wirtschaftsführung des Landesbetriebes.
 
-(1) Beschlüsse und Stellungnahmen des Landespersonalausschusses sind den beantragenden Behörden durch die Geschäftsstelle mitzuteilen. Sie können von der oder dem Vorsitzenden in der Sitzung den gegebenenfalls anwesenden Vertreterinnen oder Vertretern der beantragenden Behörde bekannt gegeben werden.
+(2) Die dem Wirtschaftsplan beigefügte Stellenübersicht ist verbindlich.
 
-(2) Die Beschlüsse, die nach 128 Absatz 6 LBG bekannt zu machen sind, werden im Amtsblatt für Brandenburg veröffentlicht.
+(3) Sind bei der Ausführung des Wirtschaftsplans wesentliche Über- oder Unterschreitungen des Planansatzes erkennbar, so ist unverzüglich ein Nachtrag zum Wirtschaftsplan aufzustellen und der Aufsichtsbehörde vorzulegen. Der Nachtrag unterliegt den für den Wirtschaftsplan geltenden Regelungen der Bilanzierungsrichtlinie.
 
-§  12
+(4) Für die Leistung und Annahme geringfügiger Barzahlungen sind die Vorschriften der Zahlstellenbestimmungen (Anlage 27 zu VV Nr. 5.1.2 zu §§ 70 bis 72 und 75 bis 80 LHO) entsprechend anzuwenden.
 
-Erlass von Verfahrensregelungen
+(5) Zur Abwicklung des Zahlungsverkehrs führt der Landesbetrieb ein Girokonto und nimmt am Cash-Concentration-Verfahren teil.
 
-Verfahrensregelungen, zu deren Erlass der Landespersonalausschuss auf Grund laufbahnrechtlicher Vorschriften ermächtigt ist, werden im Amtsblatt für das Land Brandenburg veröffentlicht und treten am Tage nach der Bekanntmachung in Kraft.
+§ 12
+
+Buchführung, Jahresabschluss und Lagebericht
+
+(1) Das Geschäftsjahr ist das Kalenderjahr.
+
+(2) Buchführung, Jahresabschluss, Lagebericht und Inventarverzeichnis haben den handelsrechtlichen Erfordernissen zu entsprechen, soweit die Bilanzierungsrichtlinie in der jeweils geltenden Fassung keine abweichenden Regelungen trifft.
+
+(3) Innerhalb von drei Monaten nach Abschluss des Geschäftsjahres sind der Jahresabschluss und der Lagebericht gemäß § 87 der Landeshaushaltsordnung der Aufsichtsbehörde vorzulegen. Der Bericht über die Ergebnisse der Abschlussprüfung ist der Aufsichtsbehörde bis zum 30. Juni des dem Geschäftsjahr folgenden Jahres zu erstatten. Die Aufsichtsbehörde stellt den Jahresabschluss fest und übersendet ihn dem für Finanzen zuständigen Ministerium und dem Landesrechnungshof. Über die Verwendung eines Jahresüberschusses beziehungsweise die Deckung eines Jahresfehlbetrags entscheidet auf der Grundlage des Vorschlags des Landesbetriebes die Aufsichtsbehörde im Einvernehmen mit dem für Finanzen zuständigen Ministerium.
+
+(4) Die Prüfungsrechte des Landesrechnungshofes gemäß §§ 88 ff. der Landeshaushaltsordnung bleiben unberührt.
 
 § 13
 
-Übergangsregelung
+Versicherungsschutz
 
-In Fällen der Änderung der Geschäftsordnung oder der Verfahrensordnungen sind Anträge an den Landespersonalausschuss nach dem Recht zu behandeln, welches zum Zeitpunkt der Antragstellung galt.
-
-§  14
-
-Schlussvorschriften
-
-Die Geschäftsordnung wird im Amtsblatt für Brandenburg veröffentlicht und tritt am 14. April 2010 in Kraft. Gleichzeitig wird die Geschäftsordnung vom 1. Dezember 1999 (ABl. 2000 S. 4) aufgehoben.
-
-Anlagen
-
-1
-
-Anlage - Antrag an den Landespersonalausschuss 107.9 KB
+Der Landesbetrieb kann über den gesetzlich vorgeschriebenen Rahmen hinaus Versicherungsschutz nehmen, wenn dies unter Abwägung der potenziellen Risiken und der Höhe der Prämien wirtschaftlich und zweckmäßig ist.
