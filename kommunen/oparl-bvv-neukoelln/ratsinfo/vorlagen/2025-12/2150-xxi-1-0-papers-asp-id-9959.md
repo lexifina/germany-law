@@ -1,0 +1,22 @@
+# Anita-Berber-Park - Fünf-Punkte-Plan für die Neuköllns zentralste Ausgleichsfläche
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 2150/XXI
+- Art: Vorlage zur Kenntnisnahme - SB
+- Datum: 2025-12-03
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9959
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=9959
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=373217
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5539 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5870 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5890 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=53
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5891 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=53
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5939 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5940 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5934 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=23
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5886 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5887 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Ausschussberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5888 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Beschluss https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5968 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=3
