@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-12-03T19:01:00+01:00
+- Ende: 2025-12-03T20:43:00+01:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24209
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24209
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00356425.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00356553.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Jugendrat
+- TOP 2: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 3: Bürgerantrag gemäß § 24 GO NRW - Begleitmarkierung für den als Fahrradstraße ausgewiesenen Teil der Luisenstraße - vertagen
+- TOP 4: Veranstaltung "NFL-Roadtour" am 04.10.2025 auf dem Bahnhofsvorplatz Döppersberg - Genehmigung einer Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 5: Bebauungsplan 798A - Markomannenstraße / Ludwigstraße - - ungeändert beschlossen
+- TOP 6: Bebauungsplan 1293 - Hofkamp / Georg-Abeler-Treppe - (mit Flächennutzungsplanberichtigung 162B) - Satzungsbeschluss - Bebauungsplan 50 - Am Wunderbau - -Satzungsbeschluss zur Teilaufhebung - Fluchtlinienpläne 564, 783, 10006 - Satzungsbeschluss zurT - ungeändert beschlossen
+- TOP 7: Straßenreinigungssatzung und Beschluss über die Straßenreinigungsgebühren 2026 - ungeändert beschlossen
+- TOP 8: Durchführungsbeschluss – Dach- und Fassadensanierung der Historischen Stadthalle - ungeändert beschlossen
+- TOP 9: Projektstand der Kooperationsmaßnahme Elberfeld 2030 - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 10: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - Hochstraße sicherer machen - Entgegennahme ohne Beschluss
+- TOP 11: Information über Fahrplanwechsel im ÖPNV - Entgegennahme ohne Beschluss
+- TOP 12: Fällung von Einzelbäumen und Auslichtung der Grünanlagen 2025/26 - Entgegennahme ohne Beschluss
+- TOP 13: Jahresbericht Nachtbürgermeister für das Luisenviertel - Entgegennahme ohne Beschluss
+- TOP 14: Auswirkungsanalyse DOC Remscheid - vertagen
+- TOP 14.1: Sachstand zur Auswirkungsanalyse des Outletcenters Remscheid - vertagen
+- TOP 15: Anträge
+- TOP 15.1: Türme am Eingang des Else Lasker-Schüler-Parks - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 15.2: Entfernung der Noppen auf der Sitzbank in der Herzogstraße gegenüber Hausnr. 2 (nahe „dm“-Filiale) - Antrag der Fraktion DIE LINKE - geändert beschlossen
+- TOP 16: Anfragen
+- TOP 16.1: Neugestaltung Kirchplatz - Große Anfrage der CDU Fraktion
+- TOP 16.1.1: Neugestaltung Kirchplatz
+- TOP 16.2: Pflasterung der Poststraße - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 16.2.1: Pflasterung in der Poststraße- Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 16.3: Bronze-Leuchter von-der-Heydt-Platz/ Herzogstraße - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 16.3.1: Antwort der Verwaltung zur großen Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 16.3.2: Standortfindung Kandelaber - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 16.4: Ausweisung von Feuerwerksverbotszonen zu Silvester - Große Anfrage - Entgegennahme ohne Beschluss
+- TOP 16.4.1: Ausweisung von Feuerwerksverbotszonen zu Silvester - Antwort auf Große Anfrage - Entgegennahme ohne Beschluss
+- TOP 16.5: Umsetzungsstand der beschlossenen Maßnahmen zur Erneuerung von Sitzbänken und zur Beseitigung einer Gefahrenstelle am Otto-Böhne-Platz - Große Anfrage der Fraktion DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 16.5.1: Beantwortung der Anfrage Umsetzungsstand der beschlossenen Maßnahmen zur Erneuerung von Sitzbänken und zur Beseitigung einer Gefahrenstelle am Otto-Böhne-Platz - Entgegennahme ohne Beschluss
+- TOP 16.6: Anbringung von Pfandringen im Stadtkern - Große Anfrage der Fraktion DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 16.7: Defensive Architektur in Elberfeld - Große Anfrage der Fraktion DIE LINKE
+- TOP 17: Freie Mittel
+- TOP 17.1: Antrag der Grundschule Distelbeck
+- TOP 17.2: Antrag des Schwimmverbands Wuppertal e.V.
+- TOP 17.3: Antrag der Angelo-Roncalli-Schule
+- TOP 18: GFG - Mittel
+- TOP 18.1: Reservierung der GFG-Mittel für Maßnahmen im öffentlichen Raum - Antrag der SPD Fraktion
+- TOP 18.2: Antwort auf große Anfrage der SPD-Fraktion der Bezirksvertretung Elberfeld:Situation Spielplatz Weidenplatz (Südstadt)
