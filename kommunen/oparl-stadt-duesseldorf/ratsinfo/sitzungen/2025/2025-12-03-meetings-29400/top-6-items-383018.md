@@ -1,0 +1,7 @@
+# TOP 6: Genehmigung der Niederschrift
+
+- Sitzung: Sitzung des Ausschusses für Chancengerechtigkeit und Integration (2025-12-03)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/383018
+- Ergebnis: vertagt
