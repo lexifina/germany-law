@@ -184,10 +184,12 @@
 - [§ 35b Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung](0035b.md)
 - [§ 35c Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit](0035c.md)
 - [§ 35d Freigabeentscheidung](0035d.md)
-- [§ 35e Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung](0035e.md)
-- [§ 35f Evaluierung](0035f.md)
-- [§ 35g Anwendungsbestimmungen](0035g.md)
-- [§ 35h Außerbetriebnahme und Stilllegung von Gasspeichern](0035h.md)
+- [§ 35e Umlage der Kosten des Marktgebietsverantwortlichen bis zum Ablauf des 31. Dezember 2025; Finanzierung](0035e.md)
+- [§ 35f Erstattung der Kosten des Marktgebietsverantwortlichen ab dem 1. Januar 2026 durch Zahlungen der Bundesrepublik Deutschland](0035f.md)
+- [§ 35g Übergangsregelung für die Umstellung des Umlageverfahrens; Einmalzahlung der Bundesrepublik Deutschland; Pflicht zur Weitergabe der Entlastung](0035g.md)
+- [§ 35h Verordnungsermächtigung](0035h.md)
+- [§ 35i Anwendungsbestimmung](0035i.md)
+- [§ 35j Außerbetriebnahme und Stilllegung von Gasspeichern](0035j.md)
 
 ## Teil 4 Energielieferung an Letztverbraucher
 
@@ -271,6 +273,7 @@
 - [§ 54 Allgemeine Zuständigkeit](0054.md)
 - [§ 54a Zuständigkeiten gemäß der Verordnung (EU) 2017/1938, Verordnungsermächtigung](0054a.md)
 - [§ 54b Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung](0054b.md)
+- [§ 54c Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigung](0054c.md)
 - [§ 55 Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde](0055.md)
 - [§ 56 Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts](0056.md)
 - [§ 57 Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission](0057.md)
