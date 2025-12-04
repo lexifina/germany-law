@@ -1,0 +1,60 @@
+# Gemeinderat (3. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2025-12-04T18:00:00+01:00
+- Ende: 2025-12-04T21:44:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXBzrHqFpNuV7Nk3eYVlEx8
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2070
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRBXvvLVQcH42-OJ2FR4_M1O2zSSfY8NaLKheKuTS2yk/Bekanntmachung_Gemeinderat_04.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUy1ELe_AZ4aSvPbLnTS5jGLCecv6CLWv8k2yuFRJCsm/Oeffentliche_Niederschrift_Gemeinderat_04.12.2025.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Einführung und Verpflichtung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 2.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 3.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 4.: Neubesetzung von Ausschüssen
+- TOP 4.1: 10. Änderung der Zuständigkeitsordnung hier: Zuständigkeiten des Bau- und Vergabe- sowie des Planungs- und Entwicklungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Wahl der Mitglieder der Ausschüsse und deren Stellvertreter/innen - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Benennung und Bestimmung der Ausschussvorsitzenden - Ohne Abstimmung
+- TOP 5.: Neubesetzung von Gremien
+- TOP 5.1: Partnerschaftskomitee - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Funktion des Gemeindekämmerers Hier: Vorübergehende Bestellung - Einstimmig, 2 Enthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Jahresabschluss für das Haushaltsjahr 2023 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: 14. Änderung der Hauptsatzung der Gemeinde Aldenhoven hier: Anpassung an die Musterhauptsatzung und Form der öffentlichen Bekanntmachungen - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2: 10. Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Gemeinde Aldenhoven hier: Anpassung an die Mustergeschäftsordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 8.3: 11. Änderung der Hundesteuersatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 8.4: Gebührenkalkulation Abfallbeseitigung 2026 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.5: Gebührenkalkulation Abwasserbeseitigung 2026 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.6: Gebührenkalkulation Winterdienst 2026 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.7: Gebührenkalkulation Friedhofswesen 2026 - Vertagt
+- TOP 9.: Vermarktung der Grundstücke im Baugebiet Niedermerzer Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Preisverleihung Heimatpreis 2025 der Gemeinde Aldenhoven - Zur Kenntnis genommen
+- TOP 11.: Beschluss zur Änderung der Richtlinie Hof- und Fassadenprogramm in der Städtebauförderung - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 2.1: Ersatzbeschaffung eines Ackerschleppers für den Baubetriebshof - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Bürgerzentrum Aldenhoven - Auftragsvergabe zur Planung und Realisierung einer Interimslösung - Vertagt
+- TOP 4.2: Beleuchtungsvertrag in Betreiberstellung für den Betrieb der Straßenbeleuchtung, hier Auftragsvergabe - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Beschaffung eines Feuerwehrfahrzeuges Typ MLF „mittleres Löschfahrzeug“ sowie der dazugehörigen Teilbeladung - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Übertragung der Parzelle Gemarkung Aldenhoven, Flur 3, Flurstück 1151 auf die Gemeinde - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Veräußerung einer Teilfläche eines Wirtschaftsweges in der Gemarkung Niedermerz - 17 Ja-Stimme(n), 2 Nein-Stimme(n), 6 Stimmenthaltung(en)
+- TOP 5.3: Grunderwerb einer landwirtschaftlichen Parzelle in der Gemarkung Freialdenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Vertragsangelegenheiten
+- TOP 6.1: Erschließungsvertrag zum Bauvorhaben der Eheleute Dübner im Bereich der Von-Paland-Straße / Bebauungsplan Nr. 89 N - Vertagt
+- TOP 7.: Verschiedenes
