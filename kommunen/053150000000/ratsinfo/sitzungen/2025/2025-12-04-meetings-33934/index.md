@@ -1,0 +1,56 @@
+# 1. Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-04T16:00:00+01:00
+- Ende: 2025-12-04T16:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33934
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33934
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Bestellung eines Schriftführers für den Ausschuss Klima, Umwelt und Grün der Stadt Köln und seine Stellvertretung - ungeändert beschlossen
+- TOP -: B Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: C Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr. "Osterkirmes 2025 im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - vertagt
+- TOP -: Beantwortung einer Anfrage der Ratsgruppe KLIMA FREUNDE & GUT zur Osterkirmes am Rodenkirchener Rheinufer - vertagt
+- TOP 1.2: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr. "Herbstkirmes im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - vertagt
+- TOP 1.3: Anfrage der Fraktion Die Linke betr. "Moore als Teil des Klimaschutzes in Köln" - vertagt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 15.05.2025 (AN/0621/2025) betr.: "Moore als Teil des Klimaschutzes in Köln" - vertagt
+- TOP 1.4: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr. "Zukunft des Kleingärtnervereins Köln Süd e.V." - vertagt
+- TOP -: Beantwortung eine Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Zukunft des Kleingärtnervereins Köln Süd e.V." - vertagt
+- TOP 1.5: Anfrage der CDU-Fraktion betr. "Maßnahmen zur Verschattung öffentlicher Flächen" - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 12.06.2025 (AN/0799/2025) betr.: "Maßnahmen zur Verschattung öffentlicher Flächen" - vertagt
+- TOP 1.6: Anfrage der Fraktion Die Linke betr. "Lichtverschmutzung reduzieren" - vertagt
+- TOP 1.7: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 15.05.2025 betreffend "Nachfragen zur Beantwortung - Mitteilung zum Flughafen" (AN/0616/2025) - vertagt
+- TOP 1.8: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 31.10.2024 betreffend "Erneuerung von Brücken im Autobahnkreuz Köln - Gremberg (AN/1475/2024). - vertagt
+- TOP 1.9: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 12.09.2024 betreffend "Gremberger Wäldchen-Ausbau der A4" (AN/1225/2024). - vertagt
+- TOP 1.10: Beantwortung einer schriftlichen Nachfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün zur Vorlage 0811/2025 betreffend "Hochwasserschutz in Dünnwald" - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktionen SPD, Die LINKE und FDP betr.: "Ein Herz für Tierheimhunde – Erlass der Hundesteuer für ältere Hunde aus dem Tierheim" - endgültig zurückgezogen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Wahl der Mitglieder des Naturschutzbeirates bei der Unteren Naturschutzbehörde der Stadt Köln - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Aktionsplan Essbare Stadt Köln - Fortschreibung bis 2030 - ungeändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion - endgültig abgelehnt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Energieleitlinien Stadt Köln 2025 - Kenntnis genommen
+- TOP 7.2: Energiebericht 2024: Energieverbrauchs- und Kostenstatistik 2023 / Sachstand Energiemanagementkonzept 2024 - Kenntnis genommen
+- TOP 7.3: Erneuerung der Wasserversorgungsleitungen auf dem Kölner Südfriedhof; hier: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 7.4: Neue Bevölkerungsvorausberechnung: Leichtes Wachstum bis zum Jahr 2045 - Kenntnis genommen
+- TOP 7.5: Futterstellen für Katzen auf dem Kölner Melaten-Friedhof - Kenntnis genommen
+- TOP 7.6: Mitteilung über die Fertigstellung und Veröffentlichung des Baumkataster-Portals der Stadt Köln 18.06.2025 - Kenntnis genommen
+- TOP 7.7: Umbau und Sanierung des Umweltbildungszentrums im Gut Leidenhausen - Bedarfsfeststellungs- und Planungsbeschluss - Kenntnis genommen
+- TOP 7.8: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 10. November 2025 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung von mündlichen Anfragen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 12.06.2025 betr.: "Planfeststellungsbeschluss für die Herstellung des Retentionsraumes Worringen" - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Nachfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 12.06.2025 betreffend „Einhaltung der Vereinbarungen zur Klärschlammverwertung in Merkenich" - vertagt
+- TOP 9: Mündliche Anfragen
