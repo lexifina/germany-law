@@ -1,0 +1,6 @@
+# TOP 8: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+
+- Sitzung: Sitzung (2025-12-04)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/277758
