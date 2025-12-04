@@ -1,0 +1,55 @@
+# Ausschuss für Finanzen, Beteiligungen und Wirtschaft
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2025-12-04T17:00:00+01:00
+- Ende: 2025-12-04T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7847
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7847
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00258205.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00258205.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00258205.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Ausschusses für Finanzen, Beteiligungen und Wirtschaft vom 18.09.2025 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Bestellung der Schriftführung und dessen Vertretung für die Sitzungen des Ausschusses für Finanzen, Beteiligungen und Wirtschaft sowie Tonaufzeichnungen der Sitzungen - Einstimmiger Beschluss
+- TOP 3: Ratsbürgerentscheid über die Teilnahme der Stadt Mönchengladbach an der Bewerbung um Olympische und Paralympische Spiele der Region Rhein-Ruhr für das Jahr 2036, 2040 oder 2044 - Einstimmig empfohlen
+- TOP 4: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2024 - Einstimmig empfohlen
+- TOP 5: Feststellung des Gesamtabschlusses der Stadt Mönchengladbach zum 31.12.2021 - Einstimmig empfohlen
+- TOP 6: Feststellung des Gesamtabschlusses der Stadt Mönchengladbach zum 31.12.2022 - Einstimmig empfohlen
+- TOP 7: Mündlicher Finanzbericht des Stadtdirektors und -kämmerers - Kenntnisnahme
+- TOP 8: Untersuchung der Aufwandssteigerungen im städtischen Haushalt und Identifikation von Konsolidierungspotentialen - Kenntnisnahme
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (3. Nachweisung) - Kenntnisnahme
+- TOP 10: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 12.500.000 € im Bereich "Hilfe zur Erziehung" - Einstimmig empfohlen mit Enthaltung/en
+- TOP 11: Wirtschaftsplan 2026 der mags AöR - Einstimmig empfohlen mit Enthaltung/en
+- TOP 12: Beteiligung der EWMG-Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: WFMG-Wirtschaftsförderung Mönchengladbach GmbH, Erweiterung des Gesellschafterkreises - Mit Stimmenmehrheit beschlossen
+- TOP 13: Beteiligung der NEW Kommunalholding über die NEW AG und die NEW NiederrheinWasser GmbH - Einstimmig empfohlen mit Enthaltung/en
+- TOP 14: Interkommunaler emissionsfreier Busbetriebshof (IEB) der NEW mobil & aktiv Gesellschaften auf dem Gelände - Einstimmig empfohlen
+- TOP 15: Teilnahme am Bundesprogramm "Sanierung kommunaler Sportstätten" (SKS) - Abweichende Beschlussempfehlung
+- TOP 16: Zweiter Nachtrag zur Satzung für das Jugendparlament der Stadt Mönchengladbach sowie Wahlordnung für die Wahl der Mitglieder des Jugendparlamentes der Stadt Mönchengladbach - Einstimmig empfohlen
+- TOP 17: Gewährung einer zweckgebundenen Zuwendung an die "Arbeitsgemeinschaft Schuldenberatung der Freien Wohlfahrtsverbände e.V." - Einstimmig empfohlen
+- TOP 18: Zuschussvereinbarungen über das Angebot eines "Tagestreffs" für Personen mit besonderen sozialen Schwierigkeiten nach §§ 67 ff. Sozialgesetzbuch Zwölftes Buch (SGB XII) mit dem Verein Wohlfahrt e. V. und dem Katholischen Verein für soziale Dienste Rh - Mit Stimmenmehrheit beschlossen
+- TOP 19: Zuwendung an den Caritasverband Region Mönchengladbach e.V. für das Angebot Bildungspaten - Einstimmig empfohlen
+- TOP 20: Zuwendung an die Bildungswerk der Generationen gGmbH der AWO zur Ausrichtung der zentralen Ferienaktion Kreativstadt in den Sommerferien - Einstimmig empfohlen
+- TOP 21: Zuwendung im Bereich Mediensucht - Einstimmig empfohlen
+- TOP 22: Zuwendung Drogenberatung - Einstimmig empfohlen
+- TOP 23: Zuwendung Diakonie für Streetwork - Einstimmig empfohlen
+- TOP 24: Zuwendung Drogenberatung Streetwork - Einstimmig empfohlen
+- TOP 25: Zuwendungsvereinbarung mit der Diakonisches Werk gGmbH über den Betrieb der Radstationen Mönchengladbach Hauptbahnhof, Rheydt Hauptbahnhof und der Fahrradboxen im Stadtgebiet zur Förderung der Nahmobilität - Einstimmig empfohlen
+- TOP 26: Soziale Stadt Gladbach und Westend – Rückgabe Zuwendungsbescheid 04/036/21 - Unterführung Hittastraße - Mit Stimmenmehrheit beschlossen
+- TOP 26.1: Änderungsantrag Soziale Stadt Gladbach und Westend- Rückgabe Zuwendungsbescheid 04/036/21 – - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Einunddreißigster Nachtrag zur Satzung über die Erhebung von Gebühren für die Benutzung der Abwasseranlagen der Stadt Mönchengladbach (Kanalbenutzungsgebührensatzung) und Achtzehnter Nachtrag zur Satzung der Stadt Mönchengladbach über die Beseitigung - Ohne Abstimmung
+- TOP 27.1: Einunddreißigster Nachtrag zur Satzung über die Erhebung von Gebühren für die Benutzung der Abwasseranlagen der Stadt Mönchengladbach (Kanalbenutzungsgebührensatzung) und Achtzehnter Nachtrag zur Satzung der Stadt Mönchengladbach über die Beseitigung - Einstimmig empfohlen
+- TOP 28: Ausführungsbeschluss über Nutzungsänderung, Brandschutzsanierung, Inklusionsmaßnahmen und energetische Sanierung von Bauteil 2 (Altbau) der Förderschule Herrmann van Veen, Voigtshofer Allee 27, 41189 Mönchengladbach Wickrath - Einstimmig empfohlen
+- TOP 29: Brandschutzsanierung, Sanierung schadhafter und veralteter Bausubstanz und energetische Sanierung, Volksgartenstr. 71-75, Gesamtschule Volksgarten - Abweichende Beschlussempfehlung
+- TOP 30: Modulbauten, Giesenkirchener Straße 113, GGS Mülfort-Dohr - Mit Stimmenmehrheit beschlossen
+- TOP 31: Tierheim Mönchengladbach, Hülserkamp 74 Hier: Neuerrichtung einer Quarantänestation für Hunde und zwei Funktionsräume in Containerbauweise - Einstimmig empfohlen
+- TOP 32: Bericht der Verwaltung zu den Folgekosten des Urteils zur Protected Bike Lane (PBL) Hohenzollernstraße - Kenntnisnahme
+- TOP 33: Neustart für den Wohnungsbau: Dauerhafter Ausschüttungsverzicht WohnBau - Einstimmig empfohlen
+- TOP 33.1: Änderungsantrag der Ratsfraktion "Die Grünen" zur BV 0272/XI "Dauerhafter Ausschüttungsverzicht WohnBau" vom 27.11.2025 - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Anfragen und Mitteilungen - Es liegen keine Wortmeldungen vor.
+- TOP 38.1: Anfrage von RH Immel (AFD) zur Heizung am Geroweier
