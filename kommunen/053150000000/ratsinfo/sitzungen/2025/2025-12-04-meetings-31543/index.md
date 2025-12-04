@@ -1,0 +1,75 @@
+# 2. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-04T17:30:00+01:00
+- Ende: 2025-12-04T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31543
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31543
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragen zu Sackgassen - vertagt
+- TOP 1.2: Einwohnerfragen zur Instandsetzung der Longericher Straße - Kenntnis genommen
+- TOP -: Beantwortung einer Einwohneranfrage nach § 39 der Geschäftsordung: "Longericherstr. vom Kreisel an der Ossietzkystr. bis Schlackstr. (Hausnr.218-439)" Vorl.Nr.: AN/1536/2017 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Entsiegelung Jesuitengasse Ecke Klarissenweg, Aktenzeichen 125/25 - geändert beschlossen
+- TOP -: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Entsiegelung Jesuitengasse Ecke Klarissenweg, Aktenzeichen 125/25 - ungeändert beschlossen
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Baumpflanzung am Spielplatz im Weidenpescher Park (Rennbahnstraße / Friedrich-Karl-Straße), Aktenzeichen 84/25 - Kenntnis genommen
+- TOP 2.3: Bürgereingabe nach § 24 GO - "Zugänge zum Kölner Grün für das Simonsveedel" AZ 7/25 - geändert beschlossen
+- TOP -: Zugänge zum Kölner Grün für das Simonsveedel - ungeändert beschlossen
+- TOP 2.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Haltestelle Slabystraße, Köln-Riehl, Aktenzeichen 176/23 - geändert beschlossen
+- TOP -: Mitteilung zur Bürgereingabe nach §24 GO NRW - Haltestelle Slabystraße, Köln-Riehl, Aktenzeichen 176/23 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Partei Die Grünen/Bündnis 90 aus der Sitzung „Bezirksvertretung 5 (Nippes)“ vom 02.05.2024 („AN/0626/2024") betreffend „Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich?" - Kenntnis genommen
+- TOP 7.1.4: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.5: Nutzung von Fahrradboxen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.6: Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen aus der Sitzung vom 07.11.2024 (AN/1494/2024) betreffend Fuß- und/oder Fahrradweg? Etzelstraße zwischen Longericher Straße und Schmiedegasse - Kenntnis genommen
+- TOP 7.1.7: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - vertagt
+- TOP 7.1.8: Baustellenabsperrung Lohsestraße und Holbeinstraße - vertagt
+- TOP 7.1.9: Projekt Gesundheitsregion zur Beteiligung von Einwohner:innen am Gesundheitswesen 3106/2024 - vertagt
+- TOP 7.1.10: Anfrage Sicherheit auf der Fahrradstraße: Etzelstraße - vertagt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Unterbringung obdachloser Menschen - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Anpassung der Basketballkörbe auf dem Sportplatz Heckweg an die reguläre Spielhöhe - endgültig zurückgezogen
+- TOP 8.1.2: Verkehrssicherheit Etzelstraße/Schulwegsicherung - ungeändert beschlossen
+- TOP 8.1.3: Feierabend-Parken ausweiten - geändert beschlossen
+- TOP 8.1.4: Verkehrssicherheit Xantener Straße - ungeändert beschlossen
+- TOP 8.1.5: Durchfahrtsübung Stadtteil Nippes - ungeändert beschlossen
+- TOP 8.1.6: Wendespur Mauenheimer Gürtel: Illegales Parken auf der Mittelinsel - ungeändert beschlossen
+- TOP 8.1.7: Gewährung von bezirkorientierten Mitteln an die Nippeser Bürgerwehr - ungeändert beschlossen
+- TOP 8.1.8: Vergabe bezirksorienteirter Mittel an Zurück in die Zukunft e.V. - ungeändert beschlossen
+- TOP 8.1.9: Bewilligung von bezirksorientierten Mitteln - geändert beschlossen
+- TOP 8.1.10: Finanzielle Unterstützung des Nippeser Tollitätenempfangs 2026 - ungeändert beschlossen
+- TOP 8.1.11: Konkretisierung des Förderprogramm zur Sicherung der Veedelszüge im Stadtbezirk Köln-Nippes für das Jahr 2026 (Verwaltungsvorlage 2980/2025) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung eines Mitgliedes der Bezirksvertretung Nippes zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - geändert beschlossen
+- TOP 9.1.2: Baubeschluss Entsiegelung Wendehammer Merheimer Platz - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sitzungstermine der BV Nippes im Jahre 2026 - Kenntnis genommen
+- TOP 10.2.2: Niederschrift der 17. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 01.07.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 10.2.3: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.4: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 10.2.5: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - Auftrag aus der Kommission zur Stärkung der Bezirke, hier: Bezirksvertretung Nippes 2021 bis August 2023 - Kenntnis genommen
+- TOP 10.2.6: Planänderungen der Vorentwurfsplanung Neusser Straße im Abschnitt zwischen Niehler Kirchweg und Kempener Straße - Kenntnis genommen
+- TOP 10.2.7: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
