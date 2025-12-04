@@ -1,0 +1,106 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2025-12-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8709412
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8709412
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Sachstand Planungen Bauvorhaben Zschokkestraße/Westendstraße
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Senftenauerstraße Tempo 30 einführen
+- TOP 2.2.: Sauber mit Humor – Beschriftete Mülleimer für Laim
+- TOP 2.3.: Bereitstellung von Fläche für die Tagesordnung des Bezirksausschusses auf den MVG-Infotafeln am U-Bahnsteig
+- TOP 2.4.: Rechtzeitige und vollständige Informationen zu geplanten Baumaßnahmen im öffentlichen Straßenraum
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: PBB Friedenheimer Str., Haltestelle Schäufeleinstraße Projekt-Nr.: 5789
+- TOP 3.1.1: Friedenheimer Str. / Verlegung der Haltestelle Schäufeleinstraße
+- TOP 3.2.: (E) Stadtbezirksbudget Jazz Club München e.V. Jamsessions des JCM im Interim von Januar - Dezember 2026 2.000,00 Euro, Az.: 0262.0-25-0387 (UA Kultur)
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative "Weihnachtskonzert" Weihnachtskonzert am 14.12.2025 3.400,00 Euro, Az.: 0262.0-25-0389 (UA Kultur)
+- TOP 3.4.: (E) Stadtbezirksbudget Initiative "Future of Europe" Future of Europe in the Heart of Munich vom 15.03. - 25.03.2026 1.500,00 Euro, Az.: 0262.0-25-0390 (UA Kultur)
+- TOP 3.5.: (E) Stadtbezirksbudget die urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3.250,00 Euro, Az.: 0262.0-25-0388 (UA Kultur)
+- TOP 3.6.: (E) Stadtbezirksbudget Bürgertreff Laim e.V. Sommerfest auf dem Laimer Anger vom 17. - 19.07., 31.07. - 02.08. und 14. - 16.08.2026 39.000,00 Euro, Az.: 0262.0-25-0386
+- TOP 3.7.: (E) Stadtbezirksbudget Helferkreis für Geflüchtetenunterkünfte in den Stadtbezirken 7, 8 und 25 Jahresprogramm 2026 des Helferkreises vom 01.01. - 31.12.2026 2.500,00 Euro, Az.: 0262.0-25-0391 (UA Soziales)
+- TOP 3.8.: Schreiben Direktorium vom 13.11.25: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Graffiti Trafohäuschen Agricolaplatz (UA Kultur)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Mobilitätsreferat vom 24.07.25: Einrichten eines absoluten Haltverbots in der Friedenheimer Straße (Westseite) zwischen Landsberger Straße und Veit-Stoß-Straße zur Verbesserung des Linienverkehrs der Buslinien 130 und 157
+- TOP 4.2.: Schreiben Direktorium vom 10.11.25: Termine für Hybridsitzungen im Jahr 2026
+- TOP 4.3.: Einzelfällungsanträge
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Gotthardstr. 162, 1436/31-Pasing Neubau eines Boardinghauses mit 19 Zimmern in Modulbauweise sowie einer Werbeanlage (Frist 09.12.25)
+- TOP 5.2.: Eringerstr. 3, 327/95-Großhadern Teilaufstockung und Errichtung einer Dachgaube an einem bestehenden Wohnhaus (Frist 22.12.25)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sondersitzung am 28.10.25
+- TOP 7.2.: Protokoll BA-Sitzung am 13.11.25
+- TOP 7.3.: Protokoll UA Soziales am 21.10.25
+- TOP 7.4.: Protokoll UA Mobilität am 28.10.25
+- TOP 7.5.: Protokoll UA Bau am 06.11.25
+- TOP 7.6.: Protokoll UA Umwelt, Klima und Baumschutz am 10.11.25
+- TOP 7.7.: Protokoll Ortstermin Gotthardstraße am 01.10.25
+- TOP 7.8.: Protokoll Ortstermin Schäufeleinstraße am 31.10.25
+- TOP 7.9.: Protokoll Ortstermin Friedenheimer Straße am 14.11.25
+- TOP 8: Umlauf
+- TOP 8.1.: Bautenliste 20.10. - 26.10.25 A) Erstantragsverfahren 1. Diesterwegstr. 4 2. Gotthardstr. 162
+- TOP 8.2.: Bautenliste 27.10. – 02.11.25 A) Erstantragsverfahren 1. Eringerstr. 3 2. Veit-Stoß-Str. 40 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Lautensackstr. 15 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 30
+- TOP 8.3.: Bautenliste 03.11. – 09.11.25 A) Erstantragsverfahren 1. Hohenwarter Str. 4 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Landsberger Str. 212 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. St.-Ulrich-Str. 19
+- TOP 8.4.: Bautenliste 10.11. – 16.11.25 A) Erstantragsverfahren 1. Ilmmünsterstr. 37
+- TOP 8.5.: Schreiben Direktorium von Oktober/November 2025: Verwendungsnachweise
+- TOP 8.6.: Antwortschreiben Baureferat vom 30.10.25: Einziehung/Widmung einer Teilstrecke des Kiem-Pauli-Weges Sitzungsvorlage Nr. 20-26 / V 17412
+- TOP 8.7.: Antwortschreiben Baureferat vom 03.11.25: Instandsetzung der Sandrart- und Behamstraße
+- TOP 8.8.: Schreiben Baureferat 05.11.25: Präsentationsfolien zu BA-Austauschtreffen
+- TOP 8.9.: Antwortschreiben Baureferat vom 10.11.25: Bestellung städtischer Leistung: Kleinkindschaukel für Spielplatz am Weißenfelderplatz
+- TOP 8.10.: Schreiben Baureferat vom 17.11.25: Öffnung der inklusiv aufgewerteten Bereiche des Spielplatzes „Willibaldstraße Ecke Senftenauer Straße“
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 29.10.25: Fortführung einer Gaststätte, Agnes-Bernauer-Str. 21
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 05.11.25: Fortführung einer Gaststätte, Friedenheimer Str. 59 A
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 27.10.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 5.4 TramWestTangente Änderung
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 27.10.25: Arbeiten im Straßenraum; Gotthardstr. 100 m östlich Von-der-Pfordten-Str. bis Fischer-von-Erlach-Str., Mitterfeldstr., Fischer-von-Erlach-Str., sowie die Einmündungsbereiche Von-der-Pfordten-Str., Stöberlstr., Sroblstr., Agricolastr., Geyerspergerstr., Reutterstr., Genovevaweg und Willibaldstr. Verlängerung der U5 nach Pasing (Los 1); 5. Zwischenphase zu Bauphase 350.2 (U02608/25)
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 31.10.25: Arbeiten im Straßenraum; Agnes-Bernauer-Straße zwischen Ossietzkystraße und Fürstenrieder Straße Bauphase 6 Verlängerung
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 03.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 03.11.25: Arbeiten im Straßenraum; Agnes-Bernauer-Straße zwischen Ossietzkystraße und Fürstenrieder Straße Bauphase 7
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 05.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.4 AIN Knoten, Bph. 6.3 LEI-AIN TramWestTangente
+- TOP 8.19.: Antwortschreiben Mobilitätsreferat vom 06.11.25: Mehr Sicherheit für Kinder: Tempo 30 in der Siglstraße
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 12.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bauphase 6.1 im Bereich Laimer Kreisel bis Agnes-Bernauer-Straße TramWestTangente
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 14.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.4 AIN Knoten, Bph. 6.3 LEI-AIN TramWestTangente Änderung
+- TOP 8.22.: Schreiben Sozialreferat vom 03.11.25: Zweckentfremdung von Wohnraum, Lanzstraße
+- TOP 8.23.: Schreiben Sozialreferat vom 10.11.25: Zweckentfremdung von Wohnraum, Baudererstraße
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.11.25: Fällungsantrag Neuburgerstr. 9
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.11.25: Protokoll und Unterlagen zum Austausch „Masterplanung Landschaftspark West“ am 28.10.25
+- TOP 8.26.: Schreiben Referat für Klima- und Umweltschutz vom 10.11.25: Modernisierung einer Mobilfunkanlage in der Gotthardstraße 71
+- TOP 8.27.: Schreiben Stadtkämmerei vom 17.11.25: Entwurf Haushaltsplan 2026 und Entwurf Mehrjahresinvestitionsprogramm 2025 - 2029
+- TOP 8.28.: Antwortschreiben Polizeiinspektion 41 Laim vom 31.10.25: Parksituation Aindorferstraße
+- TOP 8.29.: Antwortschreiben Polizeiinspektion 45 Pasing vom 31.10.25: Dauerparker Willibaldstraße
+- TOP 8.30.: Antwortschreiben Stadtwerke München vom 03.11.25: Fußgänger-Unterführung Hogenbergstraße
+- TOP 8.31.: Schreiben Stadtwerke München vom 04.11.25: Baumaßnahmen
+- TOP 8.32.: Schreiben Stadtwerke München vom 06.11.25: Umleitung wegen Tiefbauarbeiten für die Tram-West-Tangente (Bereich: Wotanstraße)
+- TOP 8.33.: Schreiben Stadtwerke München vom 10.11.2025: Straßensperrung auf Ein-/Ausrückweg Gotthardstraße/Höhe Fürstenrieder Straße (Vollsperrung Gotthardstraße)
+- TOP 8.34.: Schreiben Stadtwerke München vom 13.11.2025: Umleitung wegen Straßenbauarbeiten (Bereich: Guido-Schneble-Straße)
+- TOP 8.35.: Schreiben Stadtwerke München vom 14.11.2025: Umleitung wegen Fernwärmebauarbeiten (Bereich: Landsberger Str. 368)
+- TOP 8.36.: Antwortschreiben Abfallwirtschaftsbetrieb München vom 13.11.25: Wertstoffcontainer Fröbelplatz
+- TOP 8.37.: Beschluss der Vollversammlung des Stadtrates vom 22.10.25: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.10.2025 a) Ergänzung Anhörungsrecht Sondernutzungsrichtlinien b) Mehr Mitbestimmungsrechte des BA beim Klimaschutz c) Einbeziehung der Bezirksausschüsse vor der Umsetzung von in Foren bzw. Plattformen vorgeschlagenen verkehrsrechtlichen Anordnungen und baulichen Maßnah-men d) Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 8.38.: Beschluss der Vollversammlung des Stadtrates vom 22.10.25: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 – 2024
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Parksituation Berchemstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.2.: Parksituation Friedenheimer Straße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.3.: Parkplatzsituation Laim (Weiterleitung an Mobilitätsreferat)
+- TOP 9.4.: Gehwegparken Ilmmünsterstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.5.: Gehwegparken Camerloherstraße (Antwort durch Bezirksausschuss 25 Laim)
+- TOP 9.6.: Gehwegparken Flotowstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.7.: Baustelle Fürstenrieder Straße Antwort des Bürgers (Kenntnisnahme)
+- TOP 9.8.: Carsharing-Parkplätze Aindorferstr. 137 (Weiterleitung an Mobilitätsreferat)
+- TOP 9.9.: Ersatzhaltestelle Bus 151 Richtung Parkstadt Solln (Weiterleitung an MVG)
+- TOP 9.10.: Mülltrennung Aindorferstraße/Joergstraße (Weiterleitung an Oberbürgermeister und Containerbetreiber)
+- TOP 9.11.: Wertstoffinsel Aindorferstraße/Joergstraße (Weiterleitung an Oberbürgermeister und Containerbetreiber)
+- TOP 9.12.: Wertstoffinsel Von-der-Pfordten-Straße/Camerloherstraße (Weiterleitung an Oberbürgermeister und Containerbetreiber)
+- TOP 9.13.: Straßenbeleuchtung Laim (Antwort durch Bezirksausschuss 25 Laim)
+- TOP 2.5.: Parkraum in Laim sichern - Temporäre Lösungen für Baustellenfolgen jetzt ermöglichen I
+- TOP 2.6.: Parkraum in Laim sichern - Temporäre Lösungen für Baustellenfolgen jetzt ermöglichen II
