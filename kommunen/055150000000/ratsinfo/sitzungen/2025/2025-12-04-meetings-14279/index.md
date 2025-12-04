@@ -1,0 +1,54 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-12-04T17:01:00+01:00
+- Ende: 2025-12-04T19:16:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14279
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14279
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00577888.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Kreuzung Hensenstraße / Gievenbecker Weg / Gescherweg / Enschedeweg Unfallschwerpunkt? - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Bericht zur Arbeit der Stadtteilkoordinatorin
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung von Trägervertretungen für städtische Kindertageseinrichtungen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - mehrheitlich geändert beschlossen
+- TOP 6.3: Wiederwahl der stellvertretenden Schiedsperson für den Bezirk 04 Münster-Albachten/Mecklenbeck - einstimmig beschlossen
+- TOP 6.4: Einbahnstraßenregelung Sebastianstraße - einstimmig beschlossen
+- TOP 6.5: Sanierung von Spielplätzen im Stadtbezirk Münster-West -Planungs- und Baubeschluss für die Spielplätze Vögedingplatz, Christoph-Bernhard-Graben 1. BA und Am Spieker 1. BA -Festlegung der Reihenfolge für das Haushaltsjahr 2026 ff - einstimmig beschlossen
+- TOP 7: Neue Anregungen/Anträge
+- TOP 7.1: Anregung der BV West an den Rat der Stadt Münster zur Überplanung der Corrensstraße - einstimmig beschlossen
+- TOP 7.2: Standortsuche für ein Vereins- und Bürgerhaus in Nienberge - eingebracht
+- TOP 7.3: Auf querende Fußgänger hinweisen - eingebracht
+- TOP 7.4: Aufenthaltsqualität auf dem Toppheideplatz verbessern - eingebracht
+- TOP 7.5: Parkverbot auf der Straße Am Breilbusch einrichten - eingebracht
+- TOP 7.6: Überschreitung der Geschwindigkeit im Ortseingangsbereich Nienberge-Häger - eingebracht
+- TOP 7.7: Anregung an den Rat der Stadt Münster: "Etat des Amtes für Grünflächen, Umwelt und Nachhaltigkeit erhöhen" - einstimmig beschlossen
+- TOP 7.8: Gestaltung Ortsmitte Nienberge - eingebracht
+- TOP 7.9: Natur und Pferd in der Parklandschaft - Pferderegion Albachten - eingebracht
+- TOP 8: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 8.1: Aufstellen von Abfallbehältern
+- TOP 8.1.1: Aufstellung von Hundekotbeutelspender und Müllsammelbehälter in Nienberge - Stellungnahme zur Kenntnis genommen
+- TOP 8.1.2: Kapazitäten von Müllsammelbehältern in Gievenbeck erweitern - Stellungnahme zur Kenntnis genommen
+- TOP 8.1.3: Müllsammelbehälter an der Wiese am Horstmarer Landweg - Stellungnahme zur Kenntnis genommen
+- TOP 8.2: Attraktiver und an den Kundebedürfnissen orientierter Busnahverkehr im Waldwegeviertel - Stellungnahme zur Kenntnis genommen
+- TOP 8.3: Schöppingenweg - Halteverbot im Kurvenbereich einrichten - Stellungnahme zur Kenntnis genommen
+- TOP 8.4: Ein sicherer Schulweg an der Boeselagerstraße - Stellungnahme zur Kenntnis genommen
+- TOP 8.5: Müllentsorgung Grüner Finger optimieren - Stellungnahme zur Kenntnis genommen
+- TOP 8.6: Altglascontainer im Bereich Münster-West - Reinigung der Straßen - Stellungnahme zur Kenntnis genommen
+- TOP 8.7: Mehr Sauberkeit in der Bahnunterführung Heroldstraße - Stellungnahme zur Kenntnis genommen
+- TOP 8.8: Dialogdisplay auf dem Dingbängerweg - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.9: Verkehrssituation im und am Oxford-Quartier zeitnah entschärfen - Stellungnahme zur Kenntnis genommen
+- TOP 9: Verschiedenes
