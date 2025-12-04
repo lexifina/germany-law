@@ -1,0 +1,66 @@
+# 2. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-04T16:00:00+01:00
+- Ende: 2025-12-04T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32181
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/32181
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen - geändert beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln - ungeändert empfohlen
+- TOP 3.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Berufskolleg 14, Aussenstelle Perlengraben 101, 50676 Köln - Bedarfsfeststellungsbeschluss - ungeändert empfohlen
+- TOP 3.3: Benennung eines Mitgliedes der Bezirksvertretung Innenstadt zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - geändert beschlossen
+- TOP 3.4: Veedelszüge in der Innenstadt - Mittelvergabe Session 2025/2026 - geändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verbesserung der Sicherheit am Ubierring, Antrag B90/Die Grünen - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag zu AN/1126/2025 „Verbesserung der Sicherheit am Ubierring, Antrag B90/Die Grünen“ vom 2.9.2025 - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Verbesserung der Radverkehrsführung im Bereich der Severinsbrücke, gem. Antrag Grüne, Linke, SPD, Volt - geändert beschlossen
+- TOP 5.2.2: Prüfung der Schutzwürdigkeit der Grünanlagen und des Baumbestands entlang der Auf- und Abfahrten der Severinsbrücke, gem. Antrag B90/Die Grünen, Die Linke & Volt - endgültig zurückgezogen
+- TOP 5.2.3: Fachgespräch zur Vorbereitung auf den Straßenkarneval in der Südstadt/Chlodwigplatz sowie Evaluation im Frühjahr, gem. Antrag B90/Die Grünen, Die Linke, SPD und Volt - ungeändert beschlossen
+- TOP 5.2.4: Verbesserung der Verkehrssicherheit Am Leystapel und Prüfung der Öffnung des Rheinufertunnels für den Radverkehr, gem. Antrag B90/Die Grünen, Die Linke und Volt - vertagt
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Partei Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Innenstadt vom 09.03.2023 betreffend (AN/0244/2023) betr."Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt" - Kenntnis genommen
+- TOP 6.1.2: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.3: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Innenstadt vom 19.10.2023 betreffend „Stand der Planungen Eierplätzchen“ (AN/1814/2023) - Kenntnis genommen
+- TOP 6.1.4: Fort X - Fragen zum Zustand und den nächsten Schritten, Anfrage CDU - vertagt
+- TOP 6.1.5: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP 6.1.6: Umsetzung abgesenkter Bordsteine an Baustellen – Barrierefreiheit im öffentlichen Raum, Anfrage der SPD - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD Fraktion aus derSitzung der Bezirksvertretung Innenstadt vom 26.06.2025 "AN/0641/2025" betr. "Umsetzung abgesenkter Bordsteine an Baustellen – Barrierefreiheit im öffentlichen Raum" - Kenntnis genommen
+- TOP 6.1.7: Straßenverkehrsordnung auch für Lastenfahrräder der Post, Anfrage Die Linke - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1137/2025: "Straßenverkehrsordnung auch für Lastenfahrräder der Post" - Kenntnis genommen
+- TOP 6.1.8: Neues Spielgerät im Innenhof des Bürgerzentrums Alte Feuerwache, Anfrage SPD - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mitteilungen der Bezirksbürgermeisterin
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Künstlerische Intervention "Panorama-Waidmarkt" der niederländischen Künstlergruppe Observatorium (November 2024 - Juni 2025) - Kenntnis genommen
+- TOP 8.2: Projekt „Besseres Klima in Kommunen geht gut“ - Kenntnis genommen
+- TOP 8.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Calisthenics Sportanlage im Friedenspark, Aktenzeichen 110/25 - Kenntnis genommen
+- TOP 8.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parksituation im Rathenauviertel, Aktenzeichen 122/25 - Kenntnis genommen
+- TOP 8.5: Jakobstr. 27 - 31 / Severinstr. 69 - Neubau eines mehrgeschossigen mischgenutzten Gebäudes (Grundstück > 3.000qm) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Am Pantaleonsberg -Beruhigung – KGS Trierer Straße, Aktenzeichen 1/25 - Kenntnis genommen
+- TOP 8.7: Ergebnisse der begleiteten Lärmmessungen am Brüsseler Platz - Kenntnis genommen
+- TOP 8.8: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 8.9: Begrenzung der Geschwindigkeit auf einem Teil der Siegburger Straße - Kenntnis genommen
+- TOP 8.10: Niederschrift zur 18. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 02.09.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 8.11: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 8.12: Sachstandsberichte - Kenntnis genommen
+- TOP 8.13: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parkplätze und Fahrradstellplätze, Friedenstraße, Aktenzeichen 134/25 - Kenntnis genommen
+- TOP 8.14: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
+- TOP 8.15: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Begrünung mit Baumschein "Große Witschgasse", Aktenzeichen 157/25 - vertagt
+- TOP 8.16: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Sicherung des Fahrradverkehrs auf der Krefelder Straße ab Hausnummer 23 bis zur Maybachstraße, Aktenzeichen: 79/23 - vertagt
+- TOP 8.17: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO– Einrichtung von Tempo 30 auf der Mindener Straße und Siegburger Straße, Aktenzeichen 103/25 - vertagt
