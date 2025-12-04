@@ -27,4 +27,4 @@ Die praktische Ausbildung umfasst folgende Versorgungs- und Funktionsbereiche:
 | ● | Interventionelle Funktionseinheiten (Endoskopie, Katheterlabore, etc.) | 120 |
 | Stunden zur freien Verteilung | 80* |
 | Stundenzahl insgesamt | 2 500 |
-| * Berufsspezifischer Orientierungseinsatz fakultativ. Die gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend die Stunden zur freien Verteilung. |  |
+* Berufsspezifischer Orientierungseinsatz fakultativ. Die gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend die Stunden zur freien Verteilung.
