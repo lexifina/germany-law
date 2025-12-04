@@ -1,0 +1,57 @@
+# 2. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-04T17:04:00+01:00
+- Ende: 2025-12-04T17:39:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31304
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/31304
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Projektanträge im Rahmen des Bürgerorientierten Verfügungsfonds für das Soziale-Stadt-Gebiet "Porz-Mitte" - ungeändert beschlossen
+- TOP 6.2: Partnerschaftsverein e.V. Köln-Porz - Wahl einer Bezirksvertreterin/ eines Bezirksvertreters als Kontaktperson - geändert beschlossen
+- TOP 6.3: Benennung eines Mitgliedes der Bezirksvertretung Porz zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - geändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Neukonstituierung des Beirates der Forensik der LVR-Klinik Köln für die Ratsperiode 2025 bis 2030 - ungeändert empfohlen
+- TOP 7.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Pestalozzischule, Sportplatzstraße 82-86, 51147 Köln - Bedarfsprüfungsbeschluss - endgültig zurückgezogen
+- TOP 7.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Maximilian-Kolbe-Gymnasium, Nachtigallenstraße 19-21, 51147 Köln - Bedarfsprüfungsbeschluss - ungeändert empfohlen
+- TOP 7.4: Planfeststellungsverfahren für das Vorhaben "BAB 3, 4, 59 - Ersatzneubau der Bauwerke im Bereich des Autobahndreiecks Heumar" - mit Änderungen empfohlen
+- TOP 7.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Adolph-Kolping-Straße 41, 51147 Köln - ungeändert empfohlen
+- TOP 7.6: Integriertes Stadtentwicklungskonzept Porz-Mitte - vertagt
+- TOP 7.7: Übertragung der Netzwerkarbeit "Sport in Metropolen" auf den rechtsrheinischen Stadtbezirk Porz - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Schulstraße für die KGS Kupfergasse" - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftichen Anfrage der CDU-Fraktion in der Bezirksvertretung Porz aus der Sitzung der BV Porz vom 01.02.2024 (AN/0160/2024) betr. "Umsetzung Radverkehrshauptnetz Porz" - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Umsetzung Radverkehrshauptnetz Porz" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Drogenkonsum nahe einem städtischen Bolzplatz an der Dorotheenstr. (AN/0367/2025)" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Drogenkonsum nahe einem städtischen Bolzplatz 7 06 03 03 an der Dorotheenstraße" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Weitere Verwendung ehemals militärischer Liegenschaften im Stadtbezirk Porz" - vertagt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Planungen und Auswirkungen des Logistik-Hubs in Westhoven (Stollwerckstr.)" - vertagt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Verkehrskonzept für Köln-Porz-Gremberghoven" - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2024 der Naturschutzwachte Bezirk Wahner Heide - Kenntnis genommen
+- TOP 10.2.2: Erteilung einer Baugenehmigung zur Errichtung einer Kindertagesstätte - Kenntnis genommen
+- TOP 10.2.3: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.4: Erteilung einer Baugenehmigung für 4 Mehrfamilienhäuser und 6 Reihenhäuser - Kenntnis genommen
+- TOP 10.2.5: Erteilung zweier Baugenehmigungen für eine Logistikhalle und CityDocks - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zu den Prüfaufträgen im Rahmen der Aufhebung Aufstellungsbeschluss Bebauungsplanverfahren Passendale - Kenntnis genommen
+- TOP 10.2.7: Elsdorfer Str. 10 / Kupfergasse 3 - Neubau einer Grundschule (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 10.2.8: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 10.2.9: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
+- TOP 10.2.10: Umbau und Sanierung des Umweltbildungszentrums im Gut Leidenhausen - Bedarfsfeststellungs- und Planungsbeschluss - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
