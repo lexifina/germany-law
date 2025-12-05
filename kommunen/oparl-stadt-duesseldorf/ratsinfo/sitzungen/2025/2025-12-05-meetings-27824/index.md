@@ -1,0 +1,59 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-12-05T14:00:00+01:00
+- Ende: 2025-12-05T17:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27824
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/27824
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00569963.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00569963.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00569963.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 14.11.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Bericht: Neue Nachbarschaft: Junges Schauspiel und Stadt:Kollektiv im Central. Planung des Kulturquartiers vom KAP1 über den Worringer Platz bis zum Tanzhaus NRW - zur Kenntnis genommen
+- TOP 4.2: Mündlicher Bericht: "Das Beste für die Stadt zu tun, hat bei uns Tradition!" - Der CVJM Düsseldorf stellt seine Arbeit vor - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Mehrfachbeauftragung im kooperativen Verfahren - Tuchtinsel - Empfehlung mehrheitlich beschlossen
+- TOP 4.6: Trödelmärkte auf dem Gelände des Blumengroßmarktes im Jahr 2026 - abweichend beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2025 Liste A Schulen 2121101/52415100 - einstimmig beschlossen
+- TOP 4.8: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2025 - einstimmig beschlossen
+- TOP 4.9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.10: Mündlicher Bericht - Vorstellung des Verkehrskonzepts Weihnachtsmarkt - zur Kenntnis genommen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Verkehrssicherheit Ulmenstraße / Johannstraße / Heinrich-Erhardt Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Unberechtigtes Einfahren von Personenkraftwagen in die Altstadt - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6.2: Baumfällungen auf der sogenannten Engländerwiese im Nordpark - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6.3: Baustelle Roßstraße, Ecke Rolandstraße - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.4: Anteil geförderter Wohnungen an der Gesamtzahl der erstellten Wohnungen (2020-2025) im Stadtbezirk 1 (Bitte nach Jahr und Stadtteil auflisten)
+- TOP 6.5: Spielplatz und Schulhof KGS Essener Straße - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Sicherung des Radverkehrs auf der Gerresheimer Straße zwischen Worringer Straße und Vinzenzplatz - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Installation von Fahrradabstellmöglichkeiten an der Nordstraße, Ecke Göbenstraße/Mauerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Mehr Parkbänke für die Prinz-Georg-Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.4: Gehäuse des Lüftungsschachts und Fläche an der Kasernenstraße 1a - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.5: Wettannahme in den Geschäftsräumen Hunsrückenstraße 40, ehemalige Filiale der Deutschen Bank - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.6: Leerstand des Hauses Eiskellerstraße 9 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.7: Aktueller Sachstand Worringer Platz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Kontrollen in Bahnen zwischen Pempelforter Straße und Hauptbahnhof; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/266/2024 - zur Kenntnis genommen
+- TOP 8.2: Überprüfung zusätzlicher Fahrradabstellmöglichkeiten auf der Königsallee; Beschluss der Bezirksvertretung 1 vom 15.11.2024; BV1/242/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an das Görres-Gymnasium für den Präventionstag Diskriminierung - zurückgezogen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an vision:teilen e.V. für das Winterfest des Projekts "hallo nachbar!" - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Clara Maria Blasius und Franca Esther Zitta für eine Gruppenausstellung - abweichend beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Daniel Smith für eine zeitgenössische Tanztheaterproduktion - abweichend beschlossen
