@@ -9,3 +9,4 @@
 - [§ 7 Marktüberwachung](0007.md)
 - [§ 8 Ordnungswidrigkeiten](0008.md)
 - [§ 9 Übergangsbestimmungen](0009.md)
+- [§ 10 Außerkrafttreten](0010.md)
