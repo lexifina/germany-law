@@ -1,0 +1,32 @@
+# Anlage 2 Sektoren wichtiger Einrichtungen
+
+| Spalte A | Spalte B | Spalte C | Spalte D |
+| Nummer | Sektor | Branche | Einrichtungsart |
+| 1 | Transport und Verkehr |  |  |
+| 1.1 |  | Post- und Kurierdienste |  |
+| 1.1.1 |  |  | Anbieter von Postdienstleistungen nach § 3 Nummer 15 PostG, einschließlich Anbieter von Kurierdiensten |
+| 2 | Abfall- bewirtschaftung |  |  |
+| 2.1.1 |  |  | Unternehmen der Abfallbewirtschaftung nach § 3 Absatz 14 KrWG, ausgenommen Unternehmen, für die Abfallbewirtschaftung nicht ihre Hauptwirtschaftstätigkeit ist |
+| 3 | Produktion, Herstellung und Handel mit chemischen Stoffen |  |  |
+| 3.1.1 |  |  | Hersteller und Importeure nach Artikel 3 Nummer 9 und 11 der Verordnung (EG) Nr. 1907/2006 von chemischen Stoffen und Gemischen im Sinne des Artikels 3 Nummer 1 und 2 der genannten Verordnung, sofern diese in Kategorie 20 der Statistischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) fallen und der Registrierungspflicht nach Artikel 6 der genannten Verordnung unterliegen |
+| 4 | Produktion, Verarbeitung und Vertrieb von Lebensmitteln |  |  |
+| 4.1.1 |  |  | Lebensmittelunternehmen nach Artikel 3 Nummer 2 der Verordnung (EG) Nr. 178/2002, die im Großhandel sowie in der industriellen Produktion und Verarbeitung tätig sind |
+| 5 | Verarbeitendes Gewerbe/Herstellung von Waren |  |  |
+| 5.1 |  | Herstellung von Medizinprodukten und In-vitro-Diagnostika |  |
+| 5.1.1 |  |  | Unternehmen, die Medizinprodukte nach Artikel 2 Nummer 1 der Verordnung (EU) 2017/745 herstellen, und Unternehmen, die In-vitro-Diagnostika nach Artikel 2 Nummer 2 der Verordnung (EU) 2017/746 herstellen, mit Ausnahme von Unternehmen, die Medizinprodukte herstellen, die während einer Notlage im Bereich der öffentlichen Gesundheit als kritisch nach Artikel 22 der Verordnung (EU) 2022/123 („Liste kritischer Medizinprodukte für Notlagen im Bereich der öffentlichen Gesundheit“) eingestuft werden |
+| 5.2 |  | Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen |  |
+| 5.2.1 |  |  | Unternehmen, die eine der Wirtschaftstätigkeiten nach Abschnitt C Abteilung 26 der Statistischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) ausüben |
+| 5.3 |  | Herstellung von elektrischen Ausrüstungen |  |
+| 5.3.1 |  |  | Unternehmen, die eine der Wirtschaftstätigkeiten im Sinne des Abschnitts C Abteilung 27 der Statistischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) ausüben |
+| 5.4 |  | Maschinenbau |  |
+| 5.4.1 |  |  | Unternehmen, die eine der Wirtschaftstätigkeiten nach Abschnitt C Abteilung 28 der Statistischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) ausüben |
+| 5.5 |  | Herstellung von Kraftwagen und Kraftwagenteilen |  |
+| 5.5.1 |  |  | Unternehmen, die eine der Wirtschaftstätigkeiten nach Abschnitt C Abteilung 29 der Statistischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) ausüben |
+| 5.6 |  | Sonstiger Fahrzeugbau |  |
+| 5.6.1 |  |  | Unternehmen, die eine der Wirtschaftstätigkeiten nach Abschnitt C Abteilung 30 der Statistischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) ausüben |
+| 6 | Anbieter digitaler Dienste |  |  |
+| 6.1.1 |  |  | Anbieter von Online-Marktplätzen |
+| 6.1.2 |  |  | Anbieter von Online-Suchmaschinen |
+| 6.1.3 |  |  | Anbieter von Plattformen für Dienste sozialer Netzwerke |
+| 7 | Forschung |  |  |
+| 7.1.1 |  |  | Forschungseinrichtungen |
