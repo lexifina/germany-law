@@ -16,6 +16,9 @@
 | § 5 | Anzeige der Energiebelieferung |
 | § 5a | Speicherungspflichten, Veröffentlichung von Daten |
 | § 5b | Anzeige von Verdachtsfällen, Verschwiegenheitspflichten |
+| § 5c | IT-Sicherheit im Anlagen- und Netzbetrieb, Festlegungskompetenz |
+| § 5d | Dokumentations-, Melde-, Registrierungspflicht |
+| § 5e | Umsetzungs-, Überwachungs-, und Schulungspflicht für Geschäftsleitungen |
 |  |
 | Teil 2 |
 | Entflechtung |

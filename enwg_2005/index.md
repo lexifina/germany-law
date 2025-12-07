@@ -18,6 +18,9 @@
 - [§ 5 Anzeige der Energiebelieferung](0005.md)
 - [§ 5a Speicherungspflichten, Veröffentlichung von Daten](0005a.md)
 - [§ 5b Anzeige von Verdachtsfällen, Verschwiegenheitspflichten](0005b.md)
+- [§ 5c IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz](0005c.md)
+- [§ 5d Dokumentations-, Melde-, Registrierungspflicht](0005d.md)
+- [§ 5e Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen](0005e.md)
 
 ## Teil 2 Entflechtung
 
