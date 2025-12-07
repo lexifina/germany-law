@@ -1,4 +1,4 @@
-# Anhang 5 (zu § 1 Nummer 4 und 5, § 6 Absatz 6 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
+# Anhang 5 (zu § 1 Absatz 1 Nummer 2 und 3, § 6 Absatz 6 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
 
 Teil 1
 Grundsätze und Fristen
@@ -23,9 +23,9 @@ Grundsätze und Fristen
     eine Einrichtung, in der medizinische labordiagnostische Verfahren für Diagnose und Therapiekontrolle in der Humanmedizin durchgeführt und deren Ergebnisse fachärztlich befundet werden.
   1.11 Laborinformationsverbund
     ein Verbund von Anlagen oder Systemen, die IT-Dienstleistungen für Diagnose und Therapiekontrolle in der Humanmedizin für mindestens ein Labor zur Verfügung stellen; zu den IT-Dienstleistungen zählen insbesondere die Steuerung des Probentransports, die Kommunikation zum Auftragseingang und zur Befundübermittlung sowie der Betrieb eines Laborinformationssystems.
-2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 3. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
-4. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+4. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
   a) auf demselben Betriebsgelände liegen,
   b) mit gemeinsamen Betriebseinrichtungen verbunden sind,
   c) einem vergleichbaren technischen Zweck dienen und

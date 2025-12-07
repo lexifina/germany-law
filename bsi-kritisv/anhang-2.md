@@ -1,4 +1,4 @@
-# Anhang 2 (zu § 1 Nummer 4 und 5, § 3 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Wasser
+# Anhang 2 (zu § 1 Absatz 1 Nummer 2 und 3, § 3 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Wasser
 
 Teil 1
 Grundsätze und Fristen
@@ -15,10 +15,10 @@ Grundsätze und Fristen
     ein Netz von Rohrleitungen und Zusatzbauten (zum Beispiel Regenüberlaufbecken, Regenrückhaltebecken, Regenklärbecken und Pumpstationen), das Abwasser von Anschlusskanälen zu Kläranlagen oder zu anderen Entsorgungsstellen ableitet.
   1.6. Kläranlage
     eine Anlage, in der Abwasser physikalisch, biologisch oder chemisch behandelt wird. Die Anlagen zur Gewässereinleitung (zum Beispiel Hochwasserpumpwerke und Ableitungskanäle) werden als Bestandteil der Kläranlage angesehen.
-2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 3. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
 4. Für die Anlagenkategorien des Teils 3 Nummer 1.1.1 bis 1.3.1 ist der Versorgungsgrad zum 30. Juni des zurückliegenden Kalenderjahres maßgeblich.
-5. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+5. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
   a) auf demselben Betriebsgelände liegen,
   b) mit gemeinsamen Betriebseinrichtungen verbunden sind,
   c) einem vergleichbaren technischen Zweck dienen und

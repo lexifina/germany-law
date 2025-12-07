@@ -1,4 +1,4 @@
-# Anhang 7 (zu § 1 Nummer 4 und 5, § 8 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
+# Anhang 7 (zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
 
 Teil 1
 Grundsätze und Fristen
@@ -59,9 +59,9 @@ Grundsätze und Fristen
     eine Anlage oder ein System zur Erbringung von Wettervorhersagen, insbesondere im Kürzestfristbereich (bis zu 12 Stunden), sowie zur Messung von Gezeiten- und Wasserstand (Pegelstation).
   1.28 Bodenstation eines europäischen Satellitennavigationssystems
     eine Bodenstation im Sinne des Artikels 28 der Verordnung (EU) Nr. 1285/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 betreffend den Aufbau und den Betrieb der europäischen Satellitennavigationssysteme und zur Aufhebung der Verordnung (EG) Nr. 876/2002 des Rates und der Verordnung (EG) Nr. 683/2008 des Europäischen Parlaments und des Rates (ABl. L 347 vom 20.12.2013, S. 1).
-2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 3. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
-4. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+4. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
   a) auf demselben Betriebsgelände liegen,
   b) mit gemeinsamen Betriebseinrichtungen verbunden sind,
   c) einem vergleichbaren technischen Zweck dienen und

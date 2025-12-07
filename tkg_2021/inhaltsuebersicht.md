@@ -228,7 +228,7 @@ Abschnitt 1
 | § 165 | Technische und organisatorische Schutzmaßnahmen |
 | § 166 | Sicherheitsbeauftragter und Sicherheitskonzept |
 | § 167 | Katalog von Sicherheitsanforderungen |
-| § 168 | Mitteilung eines Sicherheitsvorfalls |
+| § 168 | Meldung eines Sicherheitsvorfalls |
 | § 169 | Daten- und Informationssicherheit |
 | § 170 | Umsetzung von Überwachungsmaßnahmen, Erteilung von Auskünften |
 | § 171 | Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten |

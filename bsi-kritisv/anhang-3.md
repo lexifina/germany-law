@@ -1,4 +1,4 @@
-# Anhang 3 (zu § 1 Nummer 4 und 5, § 4 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Ernährung
+# Anhang 3 (zu § 1 Absatz 1 Nummer 2 und 3, § 4 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Ernährung
 
 Teil 1
 Grundsätze und Fristen
@@ -16,9 +16,9 @@ Grundsätze und Fristen
     eine Anlage oder ein System zur Aufgabe oder Entgegennahme von Lebensmittelbestellungen, zum Beispiel EDI-Dispositionssysteme, Lieferanten- und Kundenstammdatensysteme.
   2.6 Anlage oder System zum Inverkehrbringen von Lebensmitteln
     eine Anlage oder ein System zum Inverkehrbringen von Lebensmitteln im Sinne des Artikels 3 Nummer 8 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, zum Beispiel eine Verkaufsstelle des Einzel- oder Großhandels.
-3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmalig erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmalig erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
-5. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+5. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
   a) auf demselben Betriebsgelände liegen,
   b) mit gemeinsamen Betriebseinrichtungen verbunden sind,
   c) einem vergleichbaren technischen Zweck dienen und

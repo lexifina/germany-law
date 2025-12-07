@@ -1,4 +1,4 @@
-# Anhang 4 (zu § 1 Nummer 4 und 5, § 5 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
+# Anhang 4 (zu § 1 Absatz 1 Nummer 2 und 3, § 5 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
 
 Teil 1
 Grundsätze und Fristen
@@ -26,10 +26,10 @@ Grundsätze und Fristen
     ein Netz regional verteilter und über das Internet verbundener Server, mit dem Inhalte ausgeliefert und zwischengespeichert werden, um insbesondere die Verfügbarkeit und Performanz zu erhöhen.
   2.11 Anlage zur Erbringung von Vertrauensdiensten
     eine vertrauenswürdige dritte Instanz (Trusted Third Party), die in elektronischen Kommunikationsprozessen die jeweilige Identität des Kommunikationspartners bescheinigt.
-3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr bis zum 31. März des Folgejahres zu ermitteln.
 5. Für die Anlagenkategorien des Teils 3 Nummer 1.1.1 bis 1.2.1 und 2.1.1 ist der Versorgungsgrad zum 30. Juni des zurückliegenden Kalenderjahres jeweils maßgeblich.
-6. Stehen mehrere Anlagen derselben Art in einem engen betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger betrieblicher Zusammenhang ist unabhängig von der räumlichen Distanz der Anlagen gegeben, wenn die Anlagen
+6. Stehen mehrere Anlagen derselben Art in einem engen betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger betrieblicher Zusammenhang ist unabhängig von der räumlichen Distanz der Anlagen gegeben, wenn die Anlagen
   a) mit gemeinsamen Betriebseinrichtungen oder untereinander verbunden sind,
   b) einem vergleichbaren technischen Zweck dienen und
   c) unter gemeinsamer Leitung oder Steuerung stehen.

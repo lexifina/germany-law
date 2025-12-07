@@ -244,7 +244,7 @@
 - [§ 165 Technische und organisatorische Schutzmaßnahmen](0165.md)
 - [§ 166 Sicherheitsbeauftragter und Sicherheitskonzept](0166.md)
 - [§ 167 Katalog von Sicherheitsanforderungen](0167.md)
-- [§ 168 Mitteilung eines Sicherheitsvorfalls](0168.md)
+- [§ 168 Meldung eines Sicherheitsvorfalls](0168.md)
 - [§ 169 Daten- und Informationssicherheit](0169.md)
 - [§ 170 Umsetzung von Überwachungsmaßnahmen, Erteilung von Auskünften](0170.md)
 - [§ 171 Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten](0171.md)

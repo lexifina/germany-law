@@ -1,4 +1,4 @@
-# Anhang 1 (zu § 1 Nummer 4 und 5, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie
+# Anhang 1 (zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie
 
 Teil 1
 Grundsätze und Fristen
@@ -6,8 +6,8 @@ Grundsätze und Fristen
 2. Im Sinne von Anhang 1 ist oder sind
   2.1 Erzeugungsanlage
     eine Anlage im Sinne des § 3 Nummer 18d des Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes.
-  2.2 Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
-    eine Anlage oder ein System zur Bündelung elektrischer Leistung und Steuerung von Erzeugungsanlagen oder dezentraler Energieerzeugungsanlagen, insbesondere zur Anwendung bei Direktvermarktungsunternehmen im Sinne des § 3 Nummer 17 des Erneuerbare-Energien-Gesetzes. Unter den Begriff der Steuerung fallen auch die die Anlagen betreffenden Schalthandlungen.
+  2.2 Digitaler Energiedienst
+    Eine Anlage oder ein System, das den zentralen, standortübergreifenden Zugriff auf die Steuerung oder die unmittelbare Beeinflussung von Energieanlagen oder den zentralen, standortübergreifenden Zugriff auf die Steuerung oder die unmittelbare Beeinflussung dezentraler Anlagen zum Verbrauch elektrischer Energie oder Gas ermöglicht.
   2.3 Übertragungsnetz
     ein Netz zur Übertragung im Sinne des § 3 Nummer 32 des Energiewirtschaftsgesetzes.
   2.4 Zentrale Anlage oder System für den Stromhandel
@@ -50,11 +50,11 @@ Grundsätze und Fristen
     eine KWK-Anlage im Sinne des § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes.
   2.23 Fernwärmenetz
     ein Netz zur Versorgung der Allgemeinheit mit Wärme.
-3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet. Anlagen nach Teil 3 Nummer 2.2.4 gelten ab dem ersten Tag des dritten Kalendermonats, der auf den Kalendermonat folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erreicht oder überschreitet als Kritische Infrastruktur. Diese Anlagen gelten nicht mehr als Kritische Infrastruktur ab dem 1. April des Kalenderjahres, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet. Anlagen nach Teil 3 Nummer 2.2.4 gelten ab dem ersten Tag des dritten Kalendermonats, der auf den Kalendermonat folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erreicht oder überschreitet als kritische Anlage. Diese Anlagen gelten nicht mehr als kritische Anlage ab dem 1. April des Kalenderjahres, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln. Betreiber von Anlagen nach Teil 3 Nummer 2.2.4 haben den aktuellen Versorgungsgrad ihrer Anlage jeweils zur Inbetriebnahme und zum 31. März eines jeden Kalenderjahres zu ermitteln.
 5. Ist der Versorgungsgrad anhand der Anzahl angeschlossener Haushalte zu ermitteln, ist der Versorgungsgrad zum 30. Juni des zurückliegenden Kalenderjahres maßgeblich.
 6. Ist der Versorgungsgrad anhand der Kapazität (installierte Netto-Nennleistung) einer Anlage zu ermitteln, ist auf den rechtlich und tatsächlich möglichen Betriebsumfang der durch denselben Betreiber betriebenen Anlage abzustellen.
-7. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+7. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
   a) auf demselben Betriebsgelände liegen,
   b) mit gemeinsamen Betriebseinrichtungen verbunden sind,
   c) einem vergleichbaren technischen Zweck dienen und
@@ -89,7 +89,7 @@ Anlagenkategorien und Schwellenwerte
 | 1.1.1 | Erzeugungsanlage | Installierte Nettonennleistung (elektrisch oder direkt mit Wärmeauskopplung verbundene elektrische Wirkleistung bei Wärmenennleistung ohne Kondensationsanteil) in MW oder | 104 |
 | installierte Nettonennleistung in MW, wenn die Anlage als Schwarzstartanlage nach § 3 Absatz 2 des Beschlusses der Bundesnetzagentur vom 20. Mai 2020, Aktenzeichen BK6-18-249 kontrahiert ist, oder | 0 |
 | installierte Nettonennleistung in MW, wenn die Anlage zur Erbringung von Primärregelleistung nach § 2 Nummer 8 StromNZV präqualifiziert ist | 36 |
-| 1.1.2 | Anlage oder System zur Steuerung/Bündelung elektrischer Leistung | Installierte Nettonennleistung (elektrisch) in MW oder | 104 |
+| 1.1.2 | Digitaler Energiedienst | Installierte Nettonennleistung (elektrisch) in MW oder | 104 |
 | installierte Nettonennleistung in MW, wenn die Anlage als Schwarzstartanlage nach § 3 Absatz 2 des Beschlusses BK6-18-249 kontrahiert ist, oder | 0 |
 | installierte Nettonennleistung in MW, wenn die Anlage zur Erbringung von Primärregelleistung nach § 2 Nummer 8 StromNZV präqualifiziert ist | 36 |
 | 1.2 | Stromübertragung |

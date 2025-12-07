@@ -1,4 +1,4 @@
-# Anhang 6 (zu § 1 Nummer 4 und 5, § 7 Absatz 7 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Finanz- und Versicherungswesen
+# Anhang 6 (zu § 1 Absatz 1 Nummer 2 und 3, § 7 Absatz 7 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Finanzwesen
 
 Teil 1
 Grundsätze und Fristen
@@ -47,21 +47,16 @@ Grundsätze und Fristen
     System eines Handelsplatzes im Sinne des Artikels 4 Nummer 24 der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014.
   1.22 Sonstiges Depotführungssystem
     ein System, das zur Prüfung des Depotbestands und für Transaktionen von Depots genutzt wird und nicht zur unmittelbaren Infrastruktur eines Zentralverwahrers in der Rolle eines Finanzmarktinfrastrukturbetreibers gehört.
-  1.23 Vertragsverwaltungssystem
-    ein System zur Speicherung und Verarbeitung von Informationen zum Versicherungsvertragsverhältnis eines Lebensversicherers, einer privaten Krankenversicherung oder einer Kompositversicherung.
-  1.24 Leistungssystem
-    ein System zur Bearbeitung von Leistungen im Bereich Lebensversicherung und privater Krankenversicherung oder ein integriertes Anwendungssystem zur Erfassung, Prüfung und Berechnung von sozialversicherungsrechtlichen Entgeltersatzleistungen der gesetzliche Unfall- und Arbeitslosenversicherung, der gesetzlichen Rentenversicherung oder ein IT-System der Bundesagentur für Arbeit zur Erfassung, Speicherung, Berechnung und Bewilligung von Leistungen der Grundsicherung für Arbeitsuchende zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch.
-  1.25 Schadensystem (Komposit)
-    ein System zur Bearbeitung von Schäden im Bereich der Schaden- und Unfallversicherungen.
-  1.26 Auszahlungssystem
-    ein System zur Auszahlung der Entschädigung, Versicherungsleistung oder Leistungen der Sozialversicherung oder ein IT-System der Bundesagentur für Arbeit zur Auszahlung von Leistungen der Grundsicherung für Arbeitsuchende zur Sicherung des Lebensunterhaltes nach dem Zweiten Buch Sozialgesetzbuch an den Zahlungsempfänger.
-  1.27 Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und Pflegeversicherung
-    ein integriertes Anwendungssystem im Bereich der gesetzlichen Kranken- und Pflegeversicherung.
-2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
-3. Abweichend von Nummer 1 gilt eine Anlage, die den Anlagenkategorien des Teils 3 Spalte A Nummer 5.1.3, 5.1.7 oder 5.1.11 zuzuordnen ist, ab dem 1. April des Kalenderjahres, das auf die drei Kalenderjahre folgt, deren durchschnittlicher Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur.
+  1.23 (weggefallen)
+  1.24 (weggefallen)
+  1.25 (weggefallen)
+  1.26 (weggefallen)
+  1.27 (weggefallen)
+2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+3. Abweichend von Nummer 1 gilt eine Anlage, die den Anlagenkategorien des Teils 3 Spalte A Nummer 5.1.3, 5.1.7 oder 5.1.11 zuzuordnen ist, ab dem 1. April des Kalenderjahres, das auf die drei Kalenderjahre folgt, deren durchschnittlicher Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als kritische Anlage.
 4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
 5. Bei der Ermittlung des Versorgungsgrades einer Anlage, die den Anlagenkategorien des Teils 3 Spalte A Nummer 5.1.1, 5.1.4 oder 5.1.8 zuzuordnen ist, sind nur ablaufende Verträge mit Auszahlung der Versicherungsleistung zu berücksichtigen. Ungeachtet der Auszahlungsweise ist jeder Leistungsfall nur einmalig, bei wiederkehrenden Auszahlungen nur bei der erstmaligen Leistungsbearbeitung zu berücksichtigen.
-6. Stehen mehrere Anlagen derselben Art in einem engen betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
+6. Stehen mehrere Anlagen derselben Art in einem engen betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
   a) mit gemeinsamen Betriebseinrichtungen verbunden sind,
   b) einem identischen technischen Zweck dienen und
   c) unter gemeinsamer Leitung stehen.
@@ -138,22 +133,4 @@ Anlagenkategorien und Schwellenwerte
 | 4.5.1 | System eines Handelsplatzes | Anzahl der Transaktionen/Jahr | 850 000 |
 | 4.6 | Bestandsführung für den Kunden |
 | 4.6.1 | Sonstiges Depotführungssystem | Anzahl der Transaktionen/Jahr | 6 750 000 |
-| 5 | Versicherungsdienstleistungen und Leistungen der Sozialversicherung sowie der Grundsicherung für Arbeitsuchende |
-| 5.1 | Versicherungsdienstleistungen |
-| 5.1.1 | Vertragsverwaltungssystem | Leistungsfälle Lebensversicherung/Jahr oder | 500 000 |
-| Leistungsfälle private Krankenversicherung/Jahr oder | 2 000 000 |
-| Schadensfälle Kompositversicherung/Jahr | 500 000 |
-| 5.1.2 | Leistungssystem | Leistungsfälle Lebensversicherung/Jahr oder | 500 000 |
-| Leistungsfälle private Krankenversicherung/Jahr oder | 2 000 000 |
-| 5.1.3 | Schadensystem (Komposit) | Schadensfälle Kompositversicherung/Jahr | 500 000 |
-| 5.1.4 | Auszahlungssystem | Leistungsfälle Lebensversicherung/Jahr oder | 500 000 |
-| Leistungsfälle private Krankenversicherung/Jahr oder | 2 000 000 |
-| Schadensfälle Kompositversicherung/Jahr | 500 000 |
-| 5.2 | Leistungen der Sozialversicherung sowie der Grundsicherung für Arbeitsuchende |
-| 5.2.1 | Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und Pflegeversicherung | Anzahl der Versicherten | 500 000 |
-| 5.2.2 | Leistungssystem | Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und Arbeitslosenversicherung/Jahr oder | 500 000 |
-| Anzahl der Versicherungskonten des Sozialversicherungsträgers der gesetzlichen Rentenversicherung oder | 500 000 |
-| Leistungsfälle zur Sicherung des Lebensunterhalts in der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch | 500 000 |
-| 5.2.3 | Auszahlungssystem | Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und Arbeitslosenversicherung/Jahr oder | 500 000 |
-| Anzahl der Versicherungskonten des Sozialversicherungsträgers der gesetzlichen Rentenversicherung oder | 500 000 |
-| Leistungsfälle zur Sicherung des Lebensunterhalts in der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch | 500 000 |
+| 5 | (weggefallen) |
