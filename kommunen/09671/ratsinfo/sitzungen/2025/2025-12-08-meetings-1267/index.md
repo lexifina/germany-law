@@ -1,0 +1,19 @@
+# Sitzung des Kreisausschusses
+
+- Körperschaft: Landkreis Aschaffenburg
+- Beginn: 2025-12-08T16:00:00+01:00
+- Ende: 2025-12-08T17:17:00+01:00
+- Ort: im großen Sitzungssaal des Landratsamtes Aschaffenburg
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/organizations/gr/2
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/meetings/1267
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/meetings/1267
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/downloadfiles/a/00024696.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/downloadfiles/a/00024801.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Landrats
+- TOP 2: 3. Haushaltsberatung zum Haushalt 2026 mit Empfehlungsbeschluss - Abstimmungsergebnis:
+- TOP 3: Verschiedenes
