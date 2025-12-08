@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-08T17:00:00+01:00
+- Ende: 2025-12-08T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33925
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33925
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführung und ihrer Stellvertretung für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend "Hundekotbeutelspender und Hundekotbeutelpflicht" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Hundekotbeutelspender und Hundekotbeutelpflicht" (AN/0921/2025) - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Köln. Gestaltet. Außengastronomie. Regelwerk zur Anordnung und Gestaltung der Außengastronomie - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.2: Bürgereingabe nach §24 GO NRW - Vergütung von Praktika in sozialen Studiengängen, AZ 54/25 - Kenntnis genommen
+- TOP 4.3: Bürgereingabe nach §24 GO NRW - Regelwidriges Abstellen/Parken von Wohnwagen, Az. 61/25 - Kenntnis genommen
+- TOP 4.4: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 4.5: Bericht für das 2. Halbjahr des Zentrums für Kriminalprävention und Sicherheit - Kenntnis genommen
+- TOP 4.6: Mitteilung der Verwaltung zum ordnungsbehördlichen Jugendschutz - Kenntnis genommen
+- TOP 4.7: Überwachung des Durchfahrtverbotes über 3,5 Tonnen und Überwachung der Geschwindigkeit auf der BAB A4 - Brückenbauwerk Eifeltor - Kenntnis genommen
+- TOP 4.8: Einfache Sprache als Verwaltungsstandard - Kenntnis genommen
+- TOP 4.9: Stellenplan für die Jahre 2025/2026 – Mitteilung der Verwaltung über die Entwicklung der Nachbesetzungsstrategie - Kenntnis genommen
+- TOP 4.10: Ergebnisse der begleiteten Lärmmessungen am Brüsseler Platz - Kenntnis genommen
+- TOP 4.11: Beantwortung der Anfrage AN/1097/2025 - Mutmaßlich diskriminierende Polizeikontrollen im Bereich Dasselstraße / Zülpicher Straße - Kenntnis genommen
+- TOP 4.12: Evaluierung des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus (ECCAR) - Kenntnis genommen
+- TOP 4.13: Allgemeine Geschäftsbedingungen der Kölner Volkshochschule - Kenntnis genommen
+- TOP 4.14: Vereinfachung der Beschaffungen unterhalb der EU-Schwellenwerte/Umsetzung des neuen § 75 a GO NRW ab 1.1.2026 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.15: Böllerverbotszonen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.16: Neue Bevölkerungsvorausberechnung des Statistischen Landesamtes / IT.NRW 2024 bis 2050/2070 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der CDU Fraktion betreffend "Mindestbeförderungsentgelte für Mietwagen" (AN/1439/2025) - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU Fraktion betreffend: "Mindestbeförderungsentgelte für Mietwagen" (AN/1439/2025) - vertagt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: 18. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ohne Votum behandelt
+- TOP 10.2: 17. Satzung zur Änderung der Satzung der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2024 - ungeändert beschlossen
+- TOP 10.4: Besetzung der Ausländerrechtlichen Beratungskommission (ABK) für die Wahlperiode 2025 - 2030 - vertagt
+- TOP 10.5: Anpassung der Benutzungs- und Entgeltordnung der Stadtbibliothek Köln - ohne Votum behandelt
+- TOP 10.6: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2026 - ohne Votum behandelt
+- TOP 10.7: Feststellung des Wirtschaftsplanes der Beihilfekasse der Stadt Köln 2026 - ungeändert beschlossen
+- TOP 10.8: 5. Satzung zur Änderung der Hundesteuersatzung der Stadt Köln - ohne Votum behandelt
+- TOP 10.9: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ohne Votum behandelt
+- TOP 10.10: Bewerbung Olympische / Paralympische Spiele; Ratsbürgerentscheid und Bedarfsfeststellung - ohne Votum behandelt
+- TOP 10.11: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2026 - ohne Votum behandelt
+- TOP 10.12: Satzung über die Abfallgebühren in der Stadt Köln 2026 - ohne Votum behandelt
+- TOP 10.13: Grundsteuer: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2026 und Beschluss über die Hebesatzsatzung - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
