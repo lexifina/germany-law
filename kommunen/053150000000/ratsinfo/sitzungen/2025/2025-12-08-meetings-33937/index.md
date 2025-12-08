@@ -1,0 +1,60 @@
+# Sitzung des Betriebsausschusses Gebäudewirtschaft
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-08T16:23:00+01:00
+- Ende: 2025-12-08T18:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33937
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33937
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01074127.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01074127.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01074127.pdf
+
+## Tagesordnung
+
+- TOP -: A Bestellung einer Schriftführung
+- TOP -: Bestellung einer Schriftführung für die Wahlperiode 2025-2030 (Betriebsausschuss Gebäudewirtschaft) - ungeändert beschlossen
+- TOP -: B Verpflichtung von sachkundigen Einwohner*innen
+- TOP -: C Präsentationen
+- TOP -: Die Gebäudewirtschaft stellt sich vor
+- TOP -: Präsentation zu TOP 8.3 betreffend "Sachstand Heliosschule"
+- TOP 1: Kulturbauten
+- TOP 1.1: Sachstandsbericht Generalinstandsetzung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 30. November 2025 - Kenntnis genommen
+- TOP 1.2: Sachstandsbericht zum Neubau Erweiterung Wallraf-Richartz-Museum und Fondation Corboud mit Neubau Blockrandbebauung für städtische Nutzflächen, Stand: 30. November 2025 - Kenntnis genommen
+- TOP 1.3: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 10. November 2025 - Kenntnis genommen
+- TOP 1.4: Sachstandsbericht zur Zentralbibliothek Köln, Stand 25. November 2025 - Kenntnis genommen
+- TOP 1.5: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 11. November 2025 - Kenntnis genommen
+- TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Beantwortung der Anfrage AN/1082/2025 der Volt-Fraktion bezüglich der Kölner Baustandards - vertagt
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 3.1: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "OT Esch – Nutzung der Räumlichkeiten an der GGS Martinusstraße" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1433/2025 der Fraktion Bündnis 90/Die Grünen bezüglich der Nutzung der Räumlichkeiten an der Gemeinschaftsgrundschule Martinusstraße - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4.1: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "Sachstand und weiteres Vorgehen Heliosschule" - geändert beschlossen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.1: Stromliefervertrag für die Liegenschaften der Gebäudewirtschaft der Stadt Köln bis zum 31.12.2028 - hier: Verzicht auf vorzeitiges Kündigungsrecht - Kenntnis genommen
+- TOP 6: Entscheidungen (Beschlussorgan Betriebsausschuss Gebäudewirtschaft)
+- TOP 7: Vorberatungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 7.1: Maßnahmenpaket Schulbau-Generalinstandsetzungen - Bedarfsfeststellungsbeschluss - ohne Votum behandelt
+- TOP 7.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln - ungeändert empfohlen
+- TOP 7.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Förderschule emotionale und soziale Entwicklung Zülpicher Straße 194, 50937 Köln - ungeändert empfohlen
+- TOP 7.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Berufskolleg 14, Aussenstelle Perlengraben 101, 50676 Köln - Bedarfsfeststellungsbeschluss - ungeändert empfohlen
+- TOP 7.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Adolph-Kolping-Straße 41, 51147 Köln - ungeändert empfohlen
+- TOP 7.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Maximilian-Kolbe-Gymnasium, Nachtigallenstraße 19-21, 51147 Köln - Bedarfsprüfungsbeschluss - ungeändert empfohlen
+- TOP 7.7: Bedarfsfeststellungs-, Planungs- und Baubeschluss für das Gymnasium Köln Pesch, Schulstr.18, 50767 Köln - ungeändert empfohlen
+- TOP 7.8: Neue Erdgaspreise für die Liegenschaften der Stadt Köln ab 01.01.2026
+- TOP 7.9: Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstr. 71 - 73, 50823 Köln-Neuehrenfeld – Kostenfortschreibungsbeschluss - ungeändert empfohlen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 2. September 2025 - Kenntnis genommen
+- TOP 8.2: Energiebericht 2024: Energieverbrauchs- und Kostenstatistik 2023 / Sachstand Energiemanagementkonzept 2024 - Kenntnis genommen
+- TOP 8.3: Aktualisierte Terminplanung zum Bau der Heliosschule, Vogelsanger Straße 200, 50825 Köln - Kenntnis genommen
+- TOP 8.4: Sachstandsberichte zu den Beauftragungen der Kölner Schulbaugesellschaft mbH, Stand Oktober 2025 - Kenntnis genommen
+- TOP 8.5: Aktualisierte Vertretungsregelung der geschäftsführenden Betriebsleitung der Gebäudewirtschaft für die Stadt Köln ab 01.12.2025 - Kenntnis genommen
+- TOP 8.6: Anforderungen an wiederkehrende Prüfungen nach PrüfVO NRW: Umgang mit fehlenden Baugenehmigungen für Liegenschaften im Sondervermögen der Gebäudewirtschaft - Kenntnis genommen
+- TOP 8.7: Umbau und Sanierung des Umweltbildungszentrums im Gut Leidenhausen - Bedarfsfeststellungs- und Planungsbeschluss - Kenntnis genommen
+- TOP 8.8: Neue Erdgaspreise für die Liegenschaften der Stadt Köln ab 01.01.2026 - Kenntnis genommen
+- TOP 8.9: Mitteilung über den Zwischenbericht der Gebäudewirtschaft der Stadt Köln zum 3. Quartal 2025 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
