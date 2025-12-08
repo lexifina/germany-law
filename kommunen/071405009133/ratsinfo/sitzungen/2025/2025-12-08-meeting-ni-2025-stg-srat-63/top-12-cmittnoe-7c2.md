@@ -1,0 +1,6 @@
+# TOP 12: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Stadtrates der Stadt Sankt Goar (2025-12-08)
+- Körperschaft: Stadt Sankt Goar
+- Öffentlich: nein
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/ni_2025-StG_SRat-63%7CMittnoe%7C2
