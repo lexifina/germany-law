@@ -1,0 +1,102 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2025-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8642397
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8642397
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Projektförderung „Westend Kultur Grube“
+- TOP 4.2.: Fahrzeuge auf dem Gehweg mit Behinderung im Bereich Theresienhöhe 40 / Hans-Fischer-Straße 9
+- TOP 4.3.: Erweiterung und Modernisierung der Ladeinfrastruktur im gesamten Stadtviertel Schwanthalerhöhe, insbesondere im Bereich Tulbeckstraße / Parkstraße
+- TOP 4.4.: Verbesserung der Ausleuchtung und Sicherung der Querungsbereiche an der Kreuzung Tulbeckstraße / Trappentreustraße
+- TOP 4.5.: Zugeparkter Gehweg Landsberger Straße / Schwerpunkt Wirtschaftsverkehr
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Kosten Ehrenamtsempfang und Getränke-Spende
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Kazmairstraße 79
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Bauvorhaben Ligsalzstraße 25
+- TOP 6.3.3.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: CultureClouds; Planung der Pop-Ups: mobile Kunst-Spiel-Aktionen 2026 und 2027
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Präsentation - Vorstellung derzeitiger Stand und Visionen zum Wärterhäuschen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Anfragen für sonstige Veranstaltungen auf der Theresienwiese 2026
+- TOP 8.3.2.: Versammlungszug Georg-Freundorfer-Platz bis Leonrodplatz am 30.04.2026
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Anordnung von Tempo 30 auf der Landsberger Straße
+- TOP 9.1.1.1: Tempo 30 in der Landsberger Straße - Erläuterung des Mobilitätsreferates
+- TOP 9.1.2.: (E) Gefährdung von Fußgänger*innen und Radfahrende durch verkehrswidrig parkende Fahrzeuge
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Astallerstraße 18
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Genehmigungsverlängerung für 5 Hochbeete am Alten Messeplatz
+- TOP 9.3.2.: Geschwindigkeitsbeschränkungen aus Lärmschutzgründen auf 30 km/h in der Landsberger Straße
+- TOP 9.3.3.: Energieberatung; Angebot für Kampagnen in Stadtvierteln
+- TOP 9.3.4.: Fahrradstraße in der Bergmannstraße; BV-Empfehlung Nr. 20-26 E 01966 - Fristverlängerung
+- TOP 9.3.5.: Aufhebung des Taxistandplatzes an der Landsberger Straße 106
+- TOP 9.3.6.: Einladung zur digitalen Informationsveranstaltung „Mobilitätsbefragung der Münchner Bürger*innen“ am 16.12.2025
+- TOP 9.3.7.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.8.: Erneuerung Lichtsignalanlage Kreuzung Bavariaring / Schwanthalerstraße
+- TOP 9.3.9.: "Knallerverbotszone" innerhalb des Mittlerer Ringes (Umweltzone) zwischen 31.12.2025 und 01.01.2026
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. Wandgestaltung Wandgestaltung Ganghofer-Häuschen vom 17.12.2025 - 31.04.2026 2.080,00€ AZ.: 0262.0-8-0468
+- TOP 10.1.1.1: Anfrage zur Förderung des Kulturreferates
+- TOP 10.1.2.: (E) Stadtbezirksbudget die Urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3250,00€ Az.: 0262.0-8-0469
+- TOP 10.1.3.: (E) Stadtbezirksbudget Helferkreis für Geflüchtetenunterkünfte Jahresprogramm 2026 des Helferkreises vom 01.01. -31.12.2026 2.500,00€; Az. 0262.0-8-0470
+- TOP 10.1.4.: (E) Stadtbezirksbudget Init. Die Grube -Zwischennutzung Westend Westend Kultur Grube - sozialpädagogische Projekte und Veranstaltungen von April 2026 -März 2027 24.500,00€; Az. 0262.0-8-0466
+- TOP 10.1.5.: (E) Stadtbezirksbudget Init. Guitars come together Guitars come together:Johnny Cash Special in Zusammenarbeit m. Kino, Mond & Sterne vom 01.02. -31.08.2026 1.493,00€ Az.: 0262.0-8-0471
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Zebrastreifen an der Kreuzung Ganghoferstraße Ecke Anglerstraße in beide Fahrtrichtungen auf die Fahrradwege ausweiten
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Abfrage Hybridsitzungen 2026
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2025 - 2029
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 6.2.1.: Bauvorhaben Gollierstraße 14
+- TOP 6.3.4.: (U) Generalinstandsetzung Hackerbrücke mit Vorlandbrücke (BW 40/6 A und B) im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 3. Stadtbezirk Maxvorstadt und im 8. Stadtbezirk Schwanthalerhöhe 1. Projektgenehmigung 2. Genehmigung zur Durchführung der Vorwegmaßnahme 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 4. Änderung des Mehrjahresinvestitionsprogramms 2025 - 2029
+- TOP 8.3.3.: Versammlungen Schießstättstraße 14 am 05.12.25, 12.12.25 und 13.12.25
+- TOP 6.3.5.: Jahresbericht 2025 – Erhaltungssatzungsgebiete in München
+- TOP 11.2.: Finanzierung von Ferien- und Familienpässen für bedürftige Kinder und Jugendliche als städtische Leistung im Stadtbezirk Schwanthalerhöhe
+- TOP 11.3.: Finanzierung der Jugendversammlung 2026 aus dem BA-Veranstaltungsbudget
+- TOP 9.2.2.: Trappentreustraße Höhe Anwesen Nr. 20; Anbringung einer Sperrfläche (Zeichen 298 StVO) im Bereich der geteilten Fahrbahn südlich der begrünten Verkehrsinsel
+- TOP 9.2.3.: Anordnung absolutes Haltverbot in der Bergmannstraße Höhe Anwesen Nr. 20a vor der Bordsteinabsenkung
+- TOP 9.3.10.: Abstimmung neues Radverkehrsnetz für München
+- TOP 9.3.11.: Pläne für den Ausbau des Radwegs an der Ecke Trappentreustr. / Westendstr.; Ortstermin vom 11.11.2025
+- TOP 9.3.12.: Parksituation in der Schwanthalerhöhe während des Oktoberfestes - Antwort Mobilitätsreferat
+- TOP 9.3.13.: Sperrbeschilderung für das Oktoberfest in der Schwanthalerhöhe - Antwort Mobilitätsreferat
+- TOP 9.3.14.: Parksituation während der Wiesn; Parklizenzen und auswärtige Kfz-Kennzeichen - Antwort Kreisverwaltungsreferat
+- TOP 2.1.: Budgetantrag Initiative "Hey Arnulf"; Neues Ausstellungskonzept – Anpassung des geförderten Projekts aufgrund fehlender Genehmigung am Arnulfsteg
+- TOP 2.2.: (E) Stadtbezirksbudget Condrobs e.V. Ausstattung der neuen Kontakt- und Begegnungsstätte im Westend vom 15.01.-31.05.2026 5.000,00€ Az.: 0262.0-8-0474
