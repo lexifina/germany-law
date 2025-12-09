@@ -1,0 +1,59 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-09T14:05:00+01:00
+- Ende: 2025-12-09T15:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33926
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33926
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Einführung anlässlich der Neukonstituierung
+- TOP -: 0.1 Begrüßung (Sitzungseröffnung durch den bisherigen Vorsitzenden Hr.Dr.Heinen und Übergabe der Sitzungsleitung an die Alterspräsidentin/ den Alterspräsidenten)
+- TOP -: 0.2 Verpflichtung
+- TOP -: 0.3 Benennung der Stimmzähler*innen
+- TOP -: 0.4 Wahl der/des Ausschussvorsitzenden inkl. Wahl der persönlichen Stellvertretung des/der Ausschussvorsitzenden
+- TOP -: 0.5 Beschluss: Aufzeichnungen der Sitzungen des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP -: 0.6 Beschluss: Bestellung der Schriftführung für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP -: 0.7 Mitteilung: Digitaler Zugriff auf die Sitzungsunterlagen des Jugendhilfeausschusses - Kenntnis genommen
+- TOP -: 0.8 Mitteilung: Tätigkeiten und Entscheidungskompetenzen im Jugendhilfeausschuss - Kenntnis genommen
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Alevitische Gemeinde Köln e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Annahme einer zweckgebunden Spende von "Wir helfen - Der Unterstützungsverein von M. DuMont Schauberg e. V." - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Umsetzung des OGS-Rechtsanspruches - vertagt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand SJ 2024/25 - Kenntnis genommen
+- TOP 8.2.2: Sanierungsnotwendigkeit der Kita Sankt-Tönnis-Straße in Köln-Worringen - Kenntnis genommen
+- TOP 8.2.3: Finanzierung des erhöhten Eigenanteils für die Aufgabe Alltagshelfende in Kitas - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 8.3.2: Mitteilung zur Anerkennung von "Kinderbetreuung Nachtigall gUG (haftungsbeschränkt)"als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - Kenntnis genommen
+- TOP 8.3.3: Trägerwechsel Katholischer Kitas auf Katholino Kindertagesstätten im Erzbistum Köln gGmbH - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Information über die Umsetzung des Haushaltsbeschlusses 2025/2026 im Teilplan 0604 im Haushaltsjahr 2026 - Hausaufgabenhilfegruppen und Jugendeinrichtungen inklusive ISBA - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
