@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-09T15:30:00+01:00
+- Ende: 2025-12-09T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33938
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33938
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführung und einer stellvertretenden Schriftführung für den Ausschuss Kunst und Kultur und die dazugehörigen Betriebsausschüsse - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Erhalt der mehrjährigen Förderprogramme für die Freie Szene in NRW - geändert beschlossen
+- TOP -: Erhalt der mehrjährigen Förderprogramme für die Freie Szene in NRW - Kenntnis genommen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Haushaltsneutrale Umschichtung von Transferaufwendungen 2025 - ungeändert beschlossen
+- TOP 4.2: Anpassung der Benutzungs- und Entgeltordnung der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 4.3: Neuwahl des Tanzbeirats 2025/2026 - ungeändert beschlossen
+- TOP 4.4: Bedarfsfeststellungsbeschluss für eine europaweite Ausschreibung und Vergabe des technischen Gebäudebetriebs - vertagt
+- TOP 4.5: Förderprogramm der Stadt Köln für Medien- und Großveranstaltungen - ungeändert beschlossen
+- TOP 4.6: Zuschussgewährung für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.7: Zuschuss für die Schull- un Veedelszöch und die Musikkapellen an die „Freunde und Förderer des Kölnischen Brauchtums e.V." - ungeändert beschlossen
+- TOP 4.8: Zuschuss an die „Gemeinnützige Gesellschaft des Kölner Karnevals mbH" zur Durchführung des Rosenmontagszuges 2025 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Erweiterung der Öffnungszeiten der Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP 8.2: Szenebericht Diversität und Inklusion in den Sparten der freien Kulturszene - Kenntnis genommen
+- TOP 8.3: Evaluierung des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus (ECCAR) - Kenntnis genommen
+- TOP 8.4: Sachstand "Heinrich Böll sowie Karl Marx im Stadtbild sichtbar machen" - Kenntnis genommen
+- TOP 8.5: Geschäftsbericht Kulturamt 2024 - Kenntnis genommen
+- TOP 8.6: Künftige Entwicklung der Kulturentwicklungsplanung - Kenntnis genommen
+- TOP 8.7: KölnMusik GmbH - Besucherstatistik der Kölner Philharmonie für das 1. Halbjahr 2025 - Kenntnis genommen
+- TOP 8.8: Mitteilung zur räumlichen Erweiterung des COMEDIA Theaters - Kenntnis genommen
+- TOP 8.9: Entfristung Sonderausstellung "Faszination Schmuck" - Kenntnis genommen
+- TOP 8.10: Ausfall der Ersatzstromversorgung im Gebäudeensemble Philharmonie und Museum Ludwig zwischen dem 27.10. und 29.10.2025 - Kenntnis genommen
+- TOP 8.11: Auswirkungen der Haushaltssperre auf die Bewirtschaftung des Kulturetats - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 21. November 2025 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 25. November 2025 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 25. November 2025 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten/Termin-Darstellung (Zeitstrahl) - vertagt
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 12: Mündliche Anfragen
