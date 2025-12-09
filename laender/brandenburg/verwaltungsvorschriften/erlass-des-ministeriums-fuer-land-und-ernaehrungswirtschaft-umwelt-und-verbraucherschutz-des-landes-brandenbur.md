@@ -1,115 +1,123 @@
-# Erlass des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zur Einrichtung eines Landeskleingartenbeirates (Erlass Landeskleingartenbeirat)
+# Erlass des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zur Kennzeichnung von geschützten Teilen von Natur und Landschaft
 
 - Herausgeber: Land Brandenburg
-- Datum: 2025-11-10 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/landeskleingartenbeirat_2025
+- Datum: 2025-12-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/schutzgebiete_2026
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Erlass des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zur Einrichtung eines Landeskleingartenbeirates (Erlass Landeskleingartenbeirat)
+Erlass des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zur Kennzeichnung von geschützten Teilen von Natur und Landschaft
 
-vom 10. November 2025
+vom 9. Dezember 2025
 
-(ABl./25, [Nr. 48], S.742)
+(ABl./26, [Nr. 1], S.3)
 
-Beim Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg (im Folgenden: MLEUV) wird mit Inkrafttreten dieses Erlasses ein Landeskleingartenbeirat mit Wirkung bis zum Ende der aktuellen Legislaturperiode des Landtags des Landes Brandenburg mit den folgenden Maßgaben gebildet:
+1 Kennzeichnung geschützter Teile von Natur und Landschaft
 
-1 Stellung des Landeskleingartenbeirates
+1.1 Gemäß § 22 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) sind folgende geschützte Teile von Natur und Landschaft zu registrieren und zu kennzeichnen:
 
-(1) Der Landeskleingartenbeirat ist eine Informationsplattform des MLEUV, über welche das MLEUV den offenen Dialog zum Kleingartenwesen im Land Brandenburg mit allen regionalen und überregionalen Kleingartenorganisationen und den kommunalen Spitzenverbänden sicherstellen möchte. Eine regionale Kleingartenorganisation im Sinne dieses Erlasses ist jeder als kleingärtnerisch gemeinnützig anerkannte Verein, dessen Zweck es ist, die Interessen von Kleingartenvereinen in mindestens einer Region im Land Brandenburg zu vertreten. Eine überregionale Kleingartenorganisation im Sinne dieses Erlasses ist ein Verein, der zwei oder mehr regionale Kleingartenorganisationen im Sinne dieses Erlasses als Mitglieder hat.
+Naturschutzgebiete (§ 23 BNatSchG),
 
-(2) Der Landeskleingartenbeirat ist keine juristische Person und kein Fachbeirat und hat keinerlei Entscheidungsbefugnis.
+Nationalparke (§ 24 BNatSchG),
 
-2 Befugnisse des Landeskleingartenbeirates und Verhältnis zu anderen Beiräten und Ausschüssen
+Nationale Naturmonumente (§ 24 BNatSchG),
 
-(1) Der Landeskleingartenbeirat hat die Befugnis,
+Biosphärenreservate (§ 25 BNatSchG),
 
-die vom Ministerium vorgelegten, das Kleingartenwesen im Land Brandenburg betreffenden Vorhaben und Strategiepapiere zu diskutieren und eine Stellungnahme dazu abzugeben,
+Landschaftsschutzgebiete (§ 26 BNatSchG),
 
-in eigenen Positionspapieren Vorschläge und Empfehlungen zu Grundsatzfragen und für zukunftsweisende Entwicklungen des Kleingartenwesens an das MLEUV zu geben und
+Naturparke (§ 27 BNatSchG),
 
-das MLEUV zu aktuellen Problemen im Kleingartenwesen im Land Brandenburg zu informieren.
+Naturdenkmäler (§ 28 BNatSchG) und
 
-(2) Diese Befugnisse des Landeskleingartenbeirates bestehen nur gegenüber dem MLEUV, nicht aber gegenüber anderen Stellen der öffentlichen Verwaltung.
+Geschützte Landschaftsbestandteile (§ 29 BNatSchG).
 
-(3) Stellungnahmen, Positionspapiere, Informationen und sonstige Mitteilungen des Landeskleingartenbeirates im Sinne des vorgenannten Absatzes werden bei der Entscheidungsfindung des MLEUV einbezogen, sind aber nicht bindend.
+1.2 Gebiete, bei denen es sich gleichzeitig um ein Naturschutzgebiet und Gebiete des europäischen Schutzgebietsnetzes Natura 2000 handelt, sind ebenfalls zu kennzeichnen:
 
-(4) Der Landeskleingartenbeirat ist nach vorheriger Abstimmung mit dem MLEUV zu Öffentlichkeitsarbeit betreffend die Tätigkeit des Landeskleingartenbeirates berechtigt.
+Gebiete gemeinschaftlicher Bedeutung (§ 7 BNatSchG). Diese werden im Folgenden als Fauna-Flora-Habitat-Gebiete (§ 32 BNatSchG) bezeichnet.
 
-(5) Die Kompetenzen und Tätigkeitsbereiche der verschiedenen Fachbeiräte beim MLEUV bleiben vom Landeskleingartenbeirat unberührt. Der Landeskleingartenbeirat kann die Entscheidungen der Fachbeiräte nicht ersetzen.
+Europäische Vogelschutzgebiete (§ 7, § 32 BNatSchG) oder
 
-3 Organisation
+Fauna-Flora-Habitat-Gebiete und europäische Vogelschutzgebiete.
 
-3.1 Zusammensetzung des Landeskleingartenbeirates
+1.3 Nach § 13 Absatz 1 Satz 2 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) können folgende Gebiete gekennzeichnet werden:
 
-(1) Der Landeskleingartenbeirat besteht aus bis zu 24 stimmberechtigten Mitgliedern.
+Gesetzlich geschützte Biotope (§ 30 BNatSchG und § 18 BbgNatSchAG) und
 
-(2) Die Ministerin des MLEUV beruft für die Dauer der Legislaturperiode des Landtages des Landes Brandenburg als stimmberechtigte Mitglieder des Landeskleingartenbeirates folgende von Verbänden und Einrichtungen benannte Personen:
+Gebiete des europäischen Schutzgebietsnetzes Natura 2000 (Fauna-Flora-Habitat-Gebiete und/oder europäische Vogelschutzgebiete), die nicht unter Nummer 1.2 inbegriffen sind.
 
-zehn Personen, die vom Landesverband der Gartenfreunde Brandenburg e. V. dem MLEUV dafür benannt wurden,
+1.4 In Naturschutzgebieten können Zonen, die gemäß § 22 Absatz 1 BNatSchG, § 24 Absatz 1 BNatSchG oder § 25 Absatz 3 BNatSchG aus der wirtschaftlichen Nutzung genommen wurden oder der Naturentwicklung überlassen werden, entsprechend der Anlage mit ergänzender Beschilderung gekennzeichnet werden.
 
-eine Person, die vom Städte- und Gemeindebund Brandenburg e. V. dem MLEUV dafür benannt wurde,
+1.5 In Biosphärenreservaten erfolgt die Kennzeichnung von Naturschutzgebieten und Landschaftsschutzgebieten nach Maßgabe der Fachbehörde für Naturschutz und Landschaftspflege.
 
-eine Person, die vom Landkreistag Brandenburg e. V. dem MLEUV dafür benannt wurde,
+2 Vorgaben zur Kennzeichnung von geschützten Teilen von Natur und Landschaft
 
-jeweils eine Person, die dem MLEUV nach einem entsprechenden landesweit durchgeführten Aufruf des MLEUV von weiteren regionalen Kleingartenorganisationen im Sinne von Nummer 1 Absatz 1 Satz 1 oder überregionalen Kleingartenorganisationen im Sinne von Nummer 1 Absatz 1 Satz 2 dafür benannt wurden, insgesamt aber nicht mehr als zwölf Personen.
+2.1 Für geschützte Teile von Natur und Landschaft gemäß Nummer 1.1 Buchstabe a bis f, Nummer 1.2 und Nummer 1.3 Buchstabe b erfolgt die Kennzeichnung an relevanten Zugangspunkten und entlang des Grenzverlaufs. Eine Beschilderung innerhalb dieser Gebiete ist möglich, wenn dies vor Ort geboten ist.
 
-Sollten sich aufgrund des gemäß Nummer 3.1 Absatz 2 Satz 1 Buchstabe d durchgeführten Aufrufs mehr als insgesamt zwölf Kleingartenorganisationen beim MLEUV bewerben, wird das MLEUV die zwölf Kleingartenorganisationen aus dem Bewerberkreis auswählen und zur Benennung einer Person im Sinne der Nummer 3.1 Absatz 2 Satz 1 Buchstabe d auffordern, die in diesem Bewerberkreis unmittelbar oder mittelbar die meisten Kleingartenvereine im Land Brandenburg vertreten.
+2.2 Für geschützte Teile von Natur und Landschaft gemäß Nummer 1.1 Buchstabe g und h sowie Nummer 1.3 Buchstabe a erfolgt die Kennzeichnung an geeigneten Standorten.
 
-(3) Für jede Person hat der entsendende Verband oder die entsendende Einrichtung eine weitere Person als Stellvertreter oder Stellvertreterin dem MLEUV zu benennen.
+2.3 Vorgaben für Form, Größe, Material und Farbe der Schilder sind der Anlage zu entnehmen.
 
-(4) Das MLEUV wird durch einen ständigen Teilnehmenden oder eine ständige Teilnehmende im Landeskleingartenbeirat vertreten, der oder die den Landeskleingartenbeirat in organisatorischer, rechtlicher und fachlicher Hinsicht begleitet.
+3 Kennzeichnung von weiteren Teilen von Natur und Landschaft
 
-(5) Die Tätigkeit der stimmberechtigten Mitglieder des Landeskleingartenbeirates ist ehrenamtlich und wird nicht vergütet oder anderweitig finanziell durch das Land Brandenburg kompensiert.
+Die Kennzeichnung von
 
-3.2 Vorsitz
+Wildnisgebieten, welche die Qualitätskriterien zur Auswahl von großflächigen Wildnisgebieten in Deutschland im Sinne des 2-Prozent-Ziels der Nationalen Biodiversitätsstrategie1 erfüllen,
 
-Die stimmberechtigten Mitglieder des Landeskleingartenbeirates wählen aus ihrer Mitte einen Vorsitzenden oder eine Vorsitzende und dessen oder deren Stellvertretenden oder Stellvertretende gemäß Nummer 3.7.
+Biotopbäumen2 und
 
-3.3 Einberufung
+Fledermausquartieren (§ 44 BNatSchG)
 
-Die Einberufung des Landeskleingartenbeirates erfolgt durch das MLEUV durch schriftliche Einladung unter Bekanntgabe der Tagesordnung und Beifügung der zur Teilnahme erforderlichen Unterlagen spätestens vier Wochen vor der jeweiligen Sitzung. Davon kann abgewichen werden, wenn die Angelegenheit keinen Aufschub duldet.
+kann mit Einverständnis des Nutzungsberechtigten entsprechend der Anlage erfolgen.
 
-3.4 Teilnahmerecht
+4 Ergänzende Beschilderung
 
-(1) Teilnahmeberechtigt an Sitzungen des Landeskleingartenbeirates sind alle Mitglieder des Landeskleingartenbeirates, die Vertreter des MLEUV, die vom MLEUV benannten Gäste sowie die stets zu ladenden Gäste. Zu Letzteren zählen je ein Vertreter oder eine Vertreterin der im Landtag des Landes Brandenburg vertretenen Fraktionen.
+4.1 Eine ergänzende Beschilderung kann in folgenden Formen erfolgen:
 
-(2) Weitere Gäste können hinzugezogen werden, wenn es Personen sind, deren Teilnahme sachdienlich ist. Dies trifft insbesondere auf den Verbandsanwalt des Landesverbandes Brandenburg der Gartenfreunde e. V. oder einen anwaltlichen Beistand jedes anderen Mitglieds zu, wenn juristische Fragen zu klären oder Risiko- und Folgeabschätzungen zu treffen sind. Ob die Teilnahme eines Gastes sachdienlich ist, entscheidet allein das MLEUV nach Rücksprache mit dem oder der Vorsitzenden des Landeskleingartenbeirates.
+als Hinweisschild unterhalb von Schildern nach Nummer 2.1,
 
-3.5 Arbeitsweise
+als Hinweisschild zur Darstellung eines einzelnen Piktogramms,
 
-(1) Der Landeskleingartenbeirat tagt nach Bedarf, mindestens einmal jährlich. Die Sitzungen sind nicht öffentlich.
+als Hinweisschild innerhalb von Schutzgebieten an Stelen und Pfählen, um auf sensible Bereiche hinzuweisen, und
 
-(2) Die Sitzungen werden von dem oder der Vorsitzenden oder dessen oder deren Stellvertretendem oder Stellvertretender geleitet.
+als Informationstafeln.
 
-(3) Die Sitzungen sollen in der Regel im MLEUV stattfinden. Bei besonderen Ereignissen kann ein anderer Ort festgelegt werden.
+4.2 Die Verwendung von Piktogrammen auf ergänzender Beschilderung ergibt sich aus den Ge- und Verboten der jeweiligen Schutzgebietserklärung.
 
-3.6 Tagesordnung
+4.3 Vorgaben zur Gestaltung von ergänzender Beschilderung sind der Anlage zu entnehmen.
 
-Die Tagesordnung wird durch den Vorsitzenden oder die Vorsitzende gemeinsam mit dem MLEUV festgelegt. Die Anträge von Mitgliedern zur Aufnahme weiterer Punkte zur Tagesordnung sind spätestens zu Sitzungsbeginn bei dem oder der Vorsitzenden einzureichen. Das MLEUV darf jederzeit weitere Tagesordnungspunkte, auch solche, die dem MLEUV von Dritten zur Thematisierung im Landeskleingartenbeirat gemeldet wurden, anmelden. Über sie wird beraten und beschlossen.
+4.4 Die oberste Naturschutzbehörde kann abweichende oder andere ergänzende Beschilderungen im Einzelfall vorgeben.
 
-3.7 Beschlussfähigkeit und Beschlussfassung
+5 Duldungspflicht
 
-(1) Abstimmungen und Entscheidungen des Landeskleingartenbeirates können nur die eigene Arbeitsorganisation sowie Stellungnahmen und Positionen innerhalb der Befugnisse gemäß Nummer 2 betreffen.
+Die Duldungspflicht für Eigentümer und Nutzungsberechtigte zur Anbringung der Schilder ergibt sich aus § 13 Absatz 3 BbgNatSchAG.
 
-(2) Der Landeskleingartenbeirat ist beschlussfähig, wenn mindestens die einfache Mehrheit der Mitglieder anwesend ist.
+6 Zuständigkeit
 
-(3) Beschlüsse des Landeskleingartenbeirates bedürfen einer Mehrheit von mindestens zwei Dritteln der Stimmen der anwesenden Mitglieder. Über Anträge wird offen abgestimmt. Wahlen finden geheim statt, wenn es mindestens ein Mitglied des Landeskleingartenbeirates beantragt.
+6.1 Entsprechend § 30 Absatz 1 BbgNatSchAG  in Verbindung mit § 1 Absatz 1 Satz 1 der Naturschutzzuständigkeitsverordnung (NatSchZustV) sind die Landkreise und kreisfreien Städte als untere Naturschutzbehörden für die Aufstellung der Schilder zuständig.
 
-3.8 Ablauf, Niederschrift
+6.2 In Großschutzgebieten ist die jeweilige Großschutzgebietsverwaltung für die Kennzeichnung von Nationalparken, Biosphärenreservaten und Naturparken sowie der innerhalb dieser Gebiete gelegenen Naturschutzgebiete und Landschaftsschutzgebiete gemäß § 22 Absatz 4 BNatSchG zuständig (§ 4 Absatz 7 Satz 2 NatSchZustV). Dies gilt auch für Gebiete, die Teil des europäischen Schutzgebietsnetzes Natura 2000 sind.
 
-(1) Der oder die Vorsitzende stellt zu Beginn der Sitzung
+6.3 Die Kennzeichnung von Nationalen Naturmonumenten erfolgt durch die Fachbehörde für Naturschutz und Landschaftspflege (§ 4 Absatz 7 Satz 2 NatSchZustV).
 
-die frist- und formgerechte Einladung der Mitglieder und Gäste,
+6.4 Die Beschaffung der Schilder entsprechend der Anlage erfolgt zentral durch die zuständige Fachbehörde für Naturschutz und Landschaftspflege. Die ergänzende Beschilderung wird nach Bedarf von den unteren Naturschutzbehörden beschafft und aufgestellt, in Großschutzgebieten von der zuständigen Großschutzgebietsverwaltung in Abstimmung mit der unteren Naturschutzbehörde.
 
-die Anzahl der erschienenen stimmberechtigten Mitglieder,
+7 Übergangsregelungen
 
-die Beschlussfähigkeit fest.
+Bereits vorhandene Schilder können weiterhin verwendet werden. Ein Austausch kann sukzessive erfolgen, zum Beispiel bei Vandalismus, Verlust oder Verwitterung.
 
-(2) Durch den Vorsitzenden oder die Vorsitzende ist die Protokollführung zu übertragen. Über die Sitzung des Landeskleingartenbeirates wird ein Ergebnisprotokoll geführt. Das Protokoll soll grundsätzlich Angaben über Ort und Datum der Sitzung, die Namen der anwesenden Mitglieder und Gäste, den behandelten Gegenstand und die dazu gestellten Anträge sowie das Beratungsergebnis beinhalten. Das Protokoll ist durch die Mitglieder des Landeskleingartenbeirates bei der nächsten Sitzung des Landeskleingartenbeirates oder bei Notwendigkeit im Umlaufverfahren zu bestätigen. Das Protokoll ist durch den Vorsitzenden oder die Vorsitzende, den Stellvertretenden oder die Stellvertretende und den Protokollanten oder die Protokollantin zu unterschreiben.
+8 Inkrafttreten und Außerkrafttreten
 
-4 Inkrafttreten, Außerkrafttreten
+Dieser Erlass tritt mit seiner Veröffentlichung in Kraft. Gleichzeitig wird der Runderlass über die „Kennzeichnung von Schutzgebieten und anderen besonders geschützten Teilen von Natur und Landschaft“ vom 18. April 2006 (ABl. S. 402), der durch den Erlass vom 2. November 2009 (ABl. S. 2485) geändert worden ist, außer Kraft gesetzt.
 
-Dieser Erlass tritt am 10. November 2025 in Kraft. Mit Inkrafttreten dieses Erlasses tritt der Erlass des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg zur Einrichtung eines Landeskleingartenbeirates vom 11. Mai 2020 (Landeskleingartenbeirat), im Amtsblatt nicht veröffentlicht, außer Kraft.
+1 „ausreichend große, (weitgehend) unzerschnittene, nutzungsfreie Gebiete, die dazu dienen, einen vom Menschen unbeeinflussten Ablauf natürlicher Prozesse dauerhaft zu gewährleisten.“ gemäß „Qualitätskriterien zur Auswahl von großflächigen Wildnisgebieten in Deutschland im Sinne des 2 % Ziels der Nationalen Biodiversitätsstrategie“ - Mit den Länderfachbehörden abgestimmte Fachposition des BMU/BfN (Stand: 3. Mai 2018).
+
+2 „Ein Biotop- oder „Habitatbaum“ ist ein lebender oder toter, stehender Baum, der mindestens ein Mikrohabitat trägt. Als Mikrohabitat werden kleinräumige oder speziell abgegrenzte Lebensräume bezeichnet, die durch Verletzungen, Aktivitäten von Tieren oder Pflanzen oder Wuchsstörungen oder Eigenarten des Baumes bedingt werden. […]“; https://www.klimaanpassung-wald.de/service/glossar (abgerufen am 1. Oktober 2025).
+
+Anlagen
+
+1
+
+Anlage 1.9 MB
