@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2025-12-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8635232
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8635232
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 11.11.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Aktueller Planungsstand des Bades Forstenrieder Park
+- TOP 2.4.: Verbreiterung der Thalkirchner Brücke
+- TOP 2.5.: Abfrage Hybridsitzungen 2026
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Inklusion und Suchtprävention vom 01.01. -31.05.2026 2.261,25€; Az. 0262.0-19-0611
+- TOP 3.3.: (E) Stadtbezirksbudget die Urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3250,00€ Az.: 0262.0-19-0612
+- TOP 3.4.: (E) Stadtbezirksbudget Elternbeirat & Verein zur Förderung der GS Samberger Straße e.V. #StarkMachen: Resilienz. Aufklärung. Prävention. vom 01.01. -31.08.2026 7.176,00€; Az. 0262.0-19-0613
+- TOP 3.5.: (E) Stadtbezirksbudget Jugendzentrum Treibhaus, Schule Beruf e.V. Förderung Sozialer Teilhabe durch erlebnisorientierte Ausflüge vom 01.01. -31.12.2026 2.746,46€; Az. 0262.0-19-0614
+- TOP 3.6.: (U) Mehrjahresinvestitionsprogramms 2025 bis 2029
+- TOP 3.7.: Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Lärmbelästigung durch nächtliche Benutzung einer Parkbank am Uriweg
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Errichtung Halteverbot gegenüber des Behindertenstellplatzes in der Traubinger Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Beidseitige Beschilderung in der Aidenbachstraße
+- TOP 5.4.: (Antrag) Verkehrssicherheit Lichtsignalanlage Bertelestraße / Wolfratshauser Straße
+- TOP 5.5.: (Antrag) Modernisierung und Verbesserung der Fahrradabstellanlage an der U-Bahn-Endhaltestelle Fürstenried-West
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Errichtung einer Hoteleinfahrtzone in der Baierbrunner Straße 38
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Drygalski-Allee Flurnummer 252/7
+- TOP 6.2.2: Glötzleweg 23
+- TOP 6.2.3: Karlsbergstraße 38
+- TOP 6.2.4: Rugendasstraße 11
+- TOP 6.2.5: Hermann-Hahn-Platz 23
+- TOP 6.2.6: Almbachstraße 6 (VB)
+- TOP 6.2.7: Ascholdinger Straße Flurnummer 553/11 (VB)
+- TOP 6.2.8: Wolfratshauser Straße 270 (VB)
+- TOP 6.2.9: Lochhamer Straße 73 (VB)
+- TOP 6.2.10: Rupert-Mayer-Straße Flurnummer 230/0 (VB)
+- TOP 6.3.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Stridbeckstr. 7
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Forsten-Kasten-Allee
+- TOP 9: Verschiedenes
+- TOP 3.8.: Bestellung städtischer Leistungen: Spielgerät
+- TOP 5.7.: (A) Neubau/Austausch einer Lichtsignalanlage in der Wilhelm-Leibl-/ Wolfratshauser Straße
+- TOP 8.3.: (A) Veranstaltung: „Weihnachtsumtrunk Thalkirchen“ in der Schäftlarnstraße am 20.12.2025
