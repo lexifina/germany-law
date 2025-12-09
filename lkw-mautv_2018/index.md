@@ -6,6 +6,7 @@
 - [§ 3 Mauterhebungssysteme](0003.md)
 - [§ 4 Manuelles Mauterhebungssystem](0004.md)
 - [§ 5 Automatisches Mauterhebungssystem](0005.md)
+- [§ 5a Teilautomatisches Mauterhebungssystem](0005a.md)
 - [§ 6 Nachweis der Richtigkeit der mautrelevanten Tatsachen](0006.md)
 - [§ 7 Nachweis der Schadstoffklasse](0007.md)
 - [§ 8 Nachweis der Kohlenstoffdioxid-Emissionsklasse](0008.md)
