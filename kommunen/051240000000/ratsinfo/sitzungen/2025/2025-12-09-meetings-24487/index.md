@@ -1,0 +1,96 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Controlling & Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-12-09T16:00:00+01:00
+- Ende: 2025-12-09T17:30:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24487
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24487
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00356188.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00357563.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Ausschussgeschäftsführung - ungeändert beschlossen
+- TOP -: Teil A -Angelegenheiten des Finanzausschusses
+- TOP 2: Strategische Themen und Projekte
+- TOP 2.1: Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz – LuKIFG sowie Entwurf eines NRW-Infrastrukturgesetzes 2025 bis 2036 - Entgegennahme ohne Beschluss
+- TOP 2.2: Sachstandsbericht zum Antragsverfahren gemäß Altschuldenentlastungsgesetz (ASEG NRW) - Entgegennahme ohne Beschluss
+- TOP 2.3: Bericht zum aktuellen Stand des Haushaltssicherungskonzeptes (HSK) - Entgegennahme ohne Beschluss
+- TOP 2.4: Sachstand Umstellungsprojekt SAP S4/HANA - Entgegennahme ohne Beschluss
+- TOP 2.5: Überörtliche Prüfung der Stadt Wuppertal 2024/2025 durch die Gemeindeprüfungsanstalt NRW - Entgegennahme ohne Beschluss
+- TOP 2.6: Verwendung des Bürger*innenbudgets 2025 - ungeändert beschlossen
+- TOP 3: Aktuelle Finanzlage/Controlling
+- TOP 3.1: Bericht zur finanziellen Lage der Stadt Wuppertal zum 30.09.2025 (Finco) - Entgegennahme ohne Beschluss
+- TOP 3.2: Bericht Zins- und Schuldenmanagement zum 30.09.2025 - Entgegennahme ohne Beschluss
+- TOP 4: Laufende Bewirtschaftung des Haushaltes
+- TOP 4.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 14.06.2025 - 21.11.2025 - Entgegennahme ohne Beschluss
+- TOP 5: Vorlagen zu wesentlichen Haushaltspositionen
+- TOP 5.1: Wesentliche Erträge/ kommunale Abgaben und Entgelte
+- TOP 5.1.1: 13. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.1.2: Neue Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 5.1.3: Erste Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.1.4: Straßenreinigungssatzung und Beschluss über die Straßenreinigungsgebühren 2026 - ungeändert beschlossen
+- TOP 5.1.5: Gebührensatzung zur Abfallwirtschaft 2026 - ungeändert beschlossen
+- TOP 5.1.6: Sechzehnte Satzung zur Änderung der Gebührensatzung für den Friedhof der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.1.7: Verwaltungsgebührensatzung 2026 - ungeändert beschlossen
+- TOP 5.2: Wesentliche Aufwendungen
+- TOP 5.2.1: Fortführung des Deutschlandtickets Schule für die Jahre 2026 bis 2030 - ungeändert beschlossen
+- TOP 5.2.2: Erhöhung von Entgelten für Übungsleiter*innen, sowie Feriensportgebühren - zur Beratung und Entscheidung verwiesen
+- TOP 6: Investitionen und Förderprojekte
+- TOP 6.1: Denkmalgerechte Instandsetzung Alte Zoobrücke – Kostenneufestsetzung - ungeändert beschlossen
+- TOP 6.2: Instandsetzung Brücke Am Schemm - ungeändert beschlossen
+- TOP 6.3: Durchführungsbeschluss – Dach- und Fassadensanierung der Historischen Stadthalle - ungeändert beschlossen
+- TOP 6.4: Sanierung der Portal- und Gewölbeflächen der Brücke Schönebecker Straße sowie Bereitstellung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 6.5: Rettungswache Ronsdorf, Grundsatzbeschluss Vergabe der Planungsleistungen - ungeändert beschlossen
+- TOP 6.6: Anmeldung von Förderprojekten zum Bundesprogramm „Sanierung kommunaler Sportstätten“, Projektaufruf 2025/2026 - zur Beratung und Entscheidung verwiesen
+- TOP 6.6.1: Ergänzungsantrag zur Drucksache 1024/25 - Anmeldung von Förderprojekten zum Bundesprogramm "Sanierung kommunaler Sportstätten", Projektaufruf 2025/2026 - zur Beratung und Entscheidung verwiesen
+- TOP 7: Angelegenheiten der Vermögensverwaltung
+- TOP 7.1: Übertragung eines Grundstückes von der Stadt Wuppertal an den Eigenbetrieb ESW - ungeändert beschlossen
+- TOP -: Teil B - Angelegenheiten der Beteiligungssteuerung
+- TOP 8: Allgemeine Angelegenheiten
+- TOP 8.1: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen- Tagesordnungspunkt wurde zurückgezogen- - zurückgezogen
+- TOP 9: Städtische Beteiligungen
+- TOP -: GMW
+- TOP 9.1: QUARTALSREPORT für Q3/2025 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP -: ESW
+- TOP 9.2: Wirtschaftsplan 2026 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP -: APH
+- TOP 9.3: Jahresabschluss 2024 der APH Service GmbH - ungeändert beschlossen
+- TOP 9.4: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichsfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2026 bis 31.12.2026 - ungeändert beschlossen
+- TOP -: KIJU
+- TOP 9.5: Wirtschaftsplan 2026 KIJU - Entgegennahme ohne Beschluss
+- TOP -: Jobcenter
+- TOP 9.6: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 9.7: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 9.8: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP -: Delphin Vermögensverwaltung
+- TOP 9.9: Bestellung des Liquidators für die Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP -: Konzern WSW
+- TOP 9.10: Neue Effizienz gemeinnützige GmbH - Gesellschafterversammlung zur Wirtschaftsplanung 2026 im Umlaufverfahren - ungeändert beschlossen
+- TOP -: GWG
+- TOP 9.11: Betrauung der Gemeinnützigen Wohnungsbaugesellschaft mbH Wuppertal (gwg) hier: Höhe des Betrauungszuschusses für 2025 - ungeändert beschlossen
+- TOP -: Bergische VHS
+- TOP 9.12: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP -: Wendepunkt-Wuppertaler Krisendienst
+- TOP 9.13: Jahresabschluss der Wendepunkt - Wuppertaler Krisendienst gGmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 9.14: Wirtschaftsplan der Wendepunkt - Wuppertaler Krisendienst gGmbH für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP -: Lokalfunk
+- TOP 9.15: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 9.16: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP -: Bergische Struktur- und Wirtschaftsförderungsgesellschaft
+- TOP 9.17: Jahresabschluss 2024 Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH Solingen - ungeändert beschlossen
+- TOP 9.18: Jahresabschluss 2024 - Entlastung des Aufsichtsrates Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH Solingen - ungeändert beschlossen
+- TOP -: Wirtschaftsförderung
+- TOP 9.19: Wirtschaftsplan 2026 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 10: Bergische Kooperationen
+- TOP 10.1: Öffentlich-rechtliche Vereinbarung zur gemeinsamen Stufenausbildung Feuerwehr der Städte Wuppertal, Remscheid und Solingen - ungeändert beschlossen
+- TOP -: Teil C - Betriebsausschuss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW)
+- TOP 11: Angelegenheiten des Eigenbetriebes WAW
+- TOP 11.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 11.2: Entlastung Betriebsleitung Jahresabschluss 2024 WAW - ungeändert beschlossen
+- TOP 11.3: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2025 WAW - ungeändert beschlossen
+- TOP 11.4: Wirtschaftsplan 2026 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
