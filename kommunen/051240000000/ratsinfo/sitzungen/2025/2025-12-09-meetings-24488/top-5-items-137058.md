@@ -1,0 +1,8 @@
+# TOP 5: Durchführungsbeschluss – Dach- und Fassadensanierung der Historischen Stadthalle
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Kultur (2025-12-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/137058
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/66019
