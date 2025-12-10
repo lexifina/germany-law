@@ -1,0 +1,90 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2025-12-10T17:00:00+01:00
+- Ende: 2025-12-10T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5013
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5013
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Beauftragte als parteiliche Werbeträgerin? - beantwortet
+- TOP 3.2: Stillstand im Bauamt? - beantwortet
+- TOP 3.3: Projekt „Obdachbus“ des Deutschen Roten Kreuzes - beantwortet
+- TOP 3.4: Wohnbebauung auf dem ehemaligen Coca-Cola-Gelände - beantwortet
+- TOP 3.5: Das bezirkliche Tafelsilber verkaufen und sich in weitere Abhängigkeiten stürzen – wer plant im Jahr 2025 so etwas? - beantwortet
+- TOP 3.6: Instandsetzung Rathaus Steglitz - schriftlich beantwortet
+- TOP 3.7: Wer ist im Wohnraumbündnis? - schriftlich beantwortet
+- TOP 3.8: Öffnungszeiten der Jugendverkehrsschulen - schriftlich beantwortet
+- TOP 3.9: Verbesserter Service in Steglitz Zehlendorf - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Ausgang S-Bahnhof Lichterfelde-Süd zum Baugebiet „Neu-Lichterfelde" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Bürgersteig für die Galerie Bastian in der Taylorstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Anpassung an demografische Entwicklungen, wohnungspolitische Erfordernisse und gesellschaftliche Bedürfnisse der “AV Genehmigungskriterien soziale Erhaltungsgebiete” - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Vorgehen gegen das illegale Abstellen von Werbe-Anhängern auf der B1 in Richtung Glienicker Brücke/Potsdam - in der BVV abgelehnt
+- TOP 4.11: Funktionierendes Berlin: Ämter für Soziales vor dem Kollaps retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Mehr Sitzmöglichkeiten in der Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Gedenkort für die Opfer des 17. Juni 1953 in Zehlendorf kultivieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Benennung einer Promenade am U-Bahngraben zwischen Clayallee und Ihnestraße nach Nora Schimming-Chase - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Bushaltestelle nach Museumsdorf Düppel benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Längsparken am Platz des 4. Juli - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Einrichtung der Koordinierungsstelle gemäß dem Landesgleichberechtigungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Wassertränken für Tiere in Grünanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: S-Bahnhof Wannsee – Gefährliche Überquerung des Kronprinzessinnenweg unterbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: NS-Verherrlichung auf den Index stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Kiezgießkannen für alle - in der BVV abgelehnt
+- TOP 4.22: Urban Art fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Weitere Straßenpumpen zugänglich machen und ggf. Bewässerungswagen bzw. -tanks zur Verfügung stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Angstraum unter der Brücke der A103 am S-Bahnhof Rathaus Steglitz entschärfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: S-Bahnhof Mexikoplatz – Gitter erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Regenwasserbank im Bezirk einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Mobilitätsservice der BVG erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: City-Toilette für den Harry-Breslau-Park - in der BVV abgelehnt
+- TOP 4.29: Umzäunung OSZ Florastraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Annemarie Wolff in die bezirkliche Straßenbenennungsliste aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Aufgrund von Lärm und Luftverschmutzung und zur Sicherheit schwacher Verkehrsteilnehmer*innen: Durchgehend Tempo30 in der Schildhornstraße - in der BVV abgelehnt
+- TOP 4.32: Fernmeldeturm Berlin-Schäferberg für den Besucherverkehr am Tag des offenen Denkmals zugänglich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.33: Onkel-Toms-Hütte kontextualisieren - in der BVV abgelehnt
+- TOP 4.34: Schutzräume für Steglitz-Zehlendorf in den U10-Tunneln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Sicherheit für Radfahrer hinter der Bushaltestelle Steglitzer Damm/Halskestraße erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: Wirtschaft macht Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.37: Beschriftungen im Bürgeramt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.38: Ersatzbusse U9 bis Rathaus Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Die Bezirksverordnetenversammlung Steglitz-Zehlendorf bürger*innenfreundlicher gestalten - überwiesen
+- TOP 5.2: Eine Gedenk- und Informationsstele für die ehemalige Steglitzerin Hannah Arendt - überwiesen
+- TOP 5.3: Biodiversität auch bei Schmuckbeeten sicherstellen - überwiesen
+- TOP 5.4: Pilotprojekt Wahlpflichtfach Retten und Schützen einführen - überwiesen
+- TOP 5.5: Denkmal für die Gefallenen des 1. Weltkriegs auf dem Dahlemer Dorfanger - überwiesen
+- TOP 5.6: Kinder- und Jugendparlament in der Geschäftsordnung implementieren - überwiesen
+- TOP 5.7: Baustellenabsperrungen nicht weiter im Straßenraum lagern - überwiesen
+- TOP 5.8: Bücherbox am Lilienthal-Park - überwiesen
+- TOP 5.9: Einrichtung eines Kinder- und Jugendparlaments für Steglitz-Zehlendorf - überwiesen
+- TOP 5.10: Ladesäulen auf Falschparker kontrollieren - überwiesen
+- TOP 5.11: Schulwegsicherheit Berliner Straße 8-14 - überwiesen
+- TOP 5.12: Liefer- und Ladezonen für Wohnstraßen mit hohem Parkdruck prüfen - überwiesen
+- TOP 5.13: Private Parkplatzflächen für die Öffentlichkeit nutzen - überwiesen
+- TOP 5.14: Sichere Querung Sven-Hedin-Straße/Plüschowstraße - überwiesen
+- TOP 5.15: Umgehende Umsetzung des BVV-Beschlusses 717/VI „Handlungskonzept Obdachlosigkeit" - überwiesen
+- TOP 5.16: Gastronomie „LUISE" in Dahlem erhalten - überwiesen
+- TOP 5.17: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2024 - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Keine Fördermittel aus dem GEG-Programm für die Gail S. Halvorsen Sekundarschule? - beantwortet
+- TOP 6.2: Sparsamer Umgang mit Grund und Boden am ehemaligen Coca-Cola-Gelände? - beantwortet
+- TOP 6.3: Wohnungsbaupotenziale auf dem Coca-Cola-Gelände (B-Plan 6-8) - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Bezahlbarer Wohnraum und Natur statt Waldrodungen ohne Sozialwohnungen - in der BVV abgelehnt
+- TOP 7.2: Joseph Baby und Gustav von Lutzki in die Straßenbenennungsliste des Bezirkes aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
