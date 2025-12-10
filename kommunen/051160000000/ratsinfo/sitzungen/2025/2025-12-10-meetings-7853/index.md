@@ -1,0 +1,64 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2025-12-10T18:35:00+01:00
+- Ende: 2025-12-10T20:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7853
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7853
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00258964.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00258964.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00258964.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl einer oder mehrerer Vertreterinnen bzw. Vertreter des Vorsitzenden im Hauptausschuss - Mit Stimmenmehrheit beschlossen
+- TOP 2: Niederschrift über die Sitzung des Hauptausschusses vom 24.09.2025 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 3: Feststellung des Gesamtabschlusses der Stadt Mönchengladbach zum 31.12.2021 - Einstimmig empfohlen
+- TOP 4: Feststellung des Gesamtabschlusses der Stadt Mönchengladbach zum 31.12.2022 - Einstimmig empfohlen
+- TOP 5: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2024 - Einstimmig empfohlen
+- TOP 6: 7. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 7: Siebzehnter Nachtrag zur Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse in der Stadt Mönchengladbach - Einstimmig empfohlen
+- TOP 8: Einunddreißigster Nachtrag zur Hauptsatzung der Stadt Mönchengladbach - Einstimmig empfohlen
+- TOP 9: Ratsbürgerentscheid über die Teilnahme der Stadt Mönchengladbach an der Bewerbung um Olympische und Paralympische Spiele der Region Rhein-Ruhr für das Jahr 2036, 2040 oder 2044 - Einstimmig empfohlen mit Enthaltung/en
+- TOP 10: Untersuchung der Aufwandssteigerungen im städtischen Haushalt und Identifikation von Konsolidierungspotentialen - Kenntnisnahme
+- TOP 11: Beteiligung der EWMG-Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: WFMG-Wirtschaftsförderung Mönchengladbach GmbH, Erweiterung des Gesellschafterkreises - Einstimmig empfohlen
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (4. Nachweisung) - Kenntnisnahme
+- TOP 13: Neunter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung) - Kenntnisnahme
+- TOP 14: Siebter Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Mönchengladbach (Abfallsatzung - AbfS -), Neunter Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfallgebührensatzung - A - Kenntnisnahme
+- TOP 15: Wirtschaftsplan 2026 der mags AöR - Einstimmig empfohlen
+- TOP 16: Beteiligung der NEW Kommunalholding über die NEW AG und die NEW NiederrheinWasser GmbH - Einstimmig empfohlen
+- TOP 17: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 12.500.000 € im Bereich "Hilfe zur Erziehung" - Mit Stimmenmehrheit empfohlen
+- TOP 18: Interkommunaler emissionsfreier Busbetriebshof (IEB) der NEW mobil & aktiv Gesellschaften auf dem Gelände - Einstimmig empfohlen
+- TOP 19: Unterbringung der GGS Anton-Heinen; hier Dauerhafte Nutzung des Standortes Karl-Barthold-Weg 8 - Einstimmig empfohlen
+- TOP 20: Teilnahme am Bundesprogramm "Sanierung kommunaler Sportstätten" (SKS) - Abweichende Beschlussempfehlung
+- TOP 21: Zuwendung an den Caritasverband Region Mönchengladbach e.V. für das Angebot Bildungspaten - Mit Stimmenmehrheit empfohlen
+- TOP 22: Zuwendung an die Bildungswerk der Generationen gGmbH der AWO zur Ausrichtung der zentralen Ferienaktion Kreativstadt in den Sommerferien - Mit Stimmenmehrheit empfohlen
+- TOP 23: Zweiter Nachtrag zur Satzung für das Jugendparlament der Stadt Mönchengladbach sowie Wahlordnung für die Wahl der Mitglieder des Jugendparlamentes der Stadt Mönchengladbach - Einstimmig empfohlen
+- TOP 24: Gewährung einer zweckgebundenen Zuwendung an die "Arbeitsgemeinschaft Schuldenberatung der Freien Wohlfahrtsverbände e.V." - Einstimmig empfohlen
+- TOP 25: Zuschussvereinbarungen über das Angebot eines "Tagestreffs" für Personen mit besonderen sozialen Schwierigkeiten nach §§ 67 ff. Sozialgesetzbuch Zwölftes Buch (SGB XII) mit dem Verein Wohlfahrt e. V. und dem Katholischen Verein für soziale Dienste Rh - Mit Stimmenmehrheit empfohlen
+- TOP 26: Zuwendung im Bereich Mediensucht - Mit Stimmenmehrheit empfohlen
+- TOP 27: Zuwendung Drogenberatung - Mit Stimmenmehrheit empfohlen
+- TOP 28: Zuwendung Diakonie für Streetwork - Mit Stimmenmehrheit empfohlen
+- TOP 29: Zuwendung Drogenberatung Streetwork - Mit Stimmenmehrheit empfohlen
+- TOP 30: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 Alten- und Pflegegesetz NRW (APG NRW) - Einstimmig empfohlen
+- TOP 31: Ausführungsbeschluss über Nutzungsänderung, Brandschutzsanierung, Inklusionsmaßnahmen und energetische Sanierung von Bauteil 2 (Altbau) der Förderschule Herrmann van Veen, Voigtshofer Allee 27, 41189 Mönchengladbach Wickrath - Einstimmig empfohlen
+- TOP 32: Brandschutzsanierung, Sanierung schadhafter und veralteter Bausubstanz und energetische Sanierung, Volksgartenstr. 71-75, Gesamtschule Volksgarten - Einstimmig empfohlen
+- TOP 33: Modulbauten, Giesenkirchener Straße 113, GGS Mülfort-Dohr - Mit Stimmenmehrheit empfohlen
+- TOP 34: Tierheim Mönchengladbach, Hülserkamp 74 Hier: Neuerrichtung einer Quarantänestation für Hunde und zwei Funktionsräume in Containerbauweise - Einstimmig empfohlen
+- TOP 35: Soziale Stadt Gladbach und Westend – Rückgabe Zuwendungsbescheid 04/036/21 - Unterführung Hittastraße - Mit Stimmenmehrheit empfohlen
+- TOP 35.1: Änderungsantrag Soziale Stadt Gladbach und Westend- Rückgabe Zuwendungsbescheid 04/036/21 – - Mit Stimmenmehrheit nicht empfohlen
+- TOP 36: Zuwendungsvereinbarung mit der Diakonisches Werk gGmbH über den Betrieb der Radstationen Mönchengladbach Hauptbahnhof, Rheydt Hauptbahnhof und der Fahrradboxen im Stadtgebiet zur Förderung der Nahmobilität - Mit Stimmenmehrheit empfohlen
+- TOP 37: Bebauungsplan Nr. 771/N „Theodor-Heuss-Straße/Buscherstraße" - Mit Stimmenmehrheit empfohlen
+- TOP 38: Braunkohlenplan Garzweiler II für das aufgrund des vereinbarten Kohleausstiegs geänderte Tagebauvorhaben Garzweiler II einschließlich der im Bereich Frimmersdorf (Garzweiler I) erfolgten Anpassungen - Stellungnahme der Stadt Mönchengladbach - Einstimmig empfohlen
+- TOP 39: Einunddreißigster Nachtrag zur Satzung über die Erhebung von Gebühren für die Benutzung der Abwasseranlagen der Stadt Mönchengladbach (Kanalbenutzungsgebührensatzung) und Achtzehnter Nachtrag zur Satzung der Stadt Mönchengladbach über die Beseitigung - Von Verwaltung zurückgezogen
+- TOP 39.1: Einunddreißigster Nachtrag zur Satzung über die Erhebung von Gebühren für die Benutzung der Abwasseranlagen der Stadt Mönchengladbach (Kanalbenutzungsgebührensatzung) und Achtzehnter Nachtrag zur Satzung der Stadt Mönchengladbach über die Beseitigung - Einstimmig empfohlen
+- TOP 40: Barrierefreiheit im ÖPNV – Umsetzung des Nahverkehrsplans - Mit Stimmenmehrheit nicht empfohlen
+- TOP 41: Neustart für den Wohnungsbau: Dauerhafter Ausschüttungsverzicht WohnBau - Einstimmig empfohlen
+- TOP 41.1: Änderungsantrag der Ratsfraktion "Die Grünen" zur BV 0272/XI "Dauerhafter Ausschüttungsverzicht WohnBau" vom 27.11.2025 - Mit Stimmenmehrheit nicht empfohlen
+- TOP 42: Fußläufige Querung Theodor-Heuss-Straße, Volksgartenstraße/August-Oster-Straße - An den Rat verwiesen
+- TOP 42.1: TOP „Fußläufige Querung Theodor-Heuss-Straße, Antrag der CDU und SPD-Ratsfraktionen vom 18.11.2025 (0271/XI); hier: Änderungsantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN vom 09.12.2025 - An den Rat verwiesen
+- TOP 43: Anfragen und Mitteilungen
