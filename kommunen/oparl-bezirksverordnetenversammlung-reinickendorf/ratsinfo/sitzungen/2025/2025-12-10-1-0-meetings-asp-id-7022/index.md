@@ -1,0 +1,93 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2025-12-10T17:00:00+01:00
+- Ende: 2025-12-10T21:45:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7022
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7022
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=597022
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Halteverbot in der Schildower Straße auf Wunsch von CDU-Statthaltern eingerichtet? - beantwortet
+- TOP 3.2: Prognostizierte Kosten der geplanten Neubaumaßnahme Ollenhauerstraße - beantwortet
+- TOP 3.3: Umgestaltung der Ollenhauer Straße - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 48. Sitzung der BVV am 10.12.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Entlastungseffekte durch Fixpunkt e.V. - beantwortet
+- TOP 5.2: Funkantennen am Kasinoturm in Frohnau - beantwortet
+- TOP 5.3: Nachhaltiger Ehrenamtsempfang? - beantwortet
+- TOP 5.4: Durchgeschüttelte Senioren in der Thaterstraße - beantwortet
+- TOP 5.5: Heidekrautbahn - Stand der Dinge - beantwortet
+- TOP 5.6: Verkehrspolitische Planungen angesichts des Bauvorhabens Schloßstraße 23 - beantwortet
+- TOP 5.7: Bauwerksanierungen in Lübars - beantwortet
+- TOP 5.8: Bezug Wohngebäude Av. Charles de Gaulle 12, 12A und 14 sowie Rue Montesquieu 23/25 - beantwortet
+- TOP 5.9: Tempo 30 in der Straße "Am Dachsbau" - beantwortet
+- TOP 5.10: Wann wird der Spielplatz im Steinbergpark repariert? - beantwortet
+- TOP 5.11: Verfolgung von Mietpreisüberhöhung - beantwortet
+- TOP 5.12: Finanzierung des Projekts "Spiele-Star" - zurückgezogen
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 7.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Spielplatzentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Notfallversorgung im Bezirk ab 2026 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Änderung des räumlichen Geltungsbereichs des Bebauungsplans 12-63a für die Grundstücke Trettachzeile 1/7, 15, Ziekowstraße 79, Trepliner Weg 4/8G, die Flurstücke 754, 782, 1744/6 und 1824/6 der Flur 3, Gemarkung Wittenau sowie der anliegenden Straßenflächen des Trepliner Weges im Bezirk Reinickendorf, Ortsteil Borsigwalde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Anregung von Beteiligung - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Umgestaltung von Franz-Neumann-Platz und Residenzstraße - beantwortet
+- TOP 9.2: Chaos, Sturheit und Bürgerferne - wie plant und koordiniert das Bezirksamt Baumaßnahmen im öffentlichen Raum? - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Bedürfnisanstalten auf dem Uferwanderweg zwischen Heiligensee, Konradshöhe, Tegelort - erledigt
+- TOP 11.2: Tischtennisplatten als Freizeitangebot für Kinder und Jugendliche in Berlin-Frohnau - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Es grünt so grün: Reinickendorfs Bäume und Grünflächen schützen und weiterentwickeln - erledigt
+- TOP 11.4: Wahl eines Patientenfürsprechenden für die Vitanas Klinik für Geriatrie Märkisches Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Spielplatz Lübars - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Ein Hundestrand für Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Würdiger Umgang mit dem Kurt-Schumacher-Denkmal - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Öffentliche Toilette für den Falkenplatz einrichten - in der BVV abgelehnt
+- TOP 11.9: Ölsperre am Flughafensee wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Bojenkette am Flughafensee instandsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Ostufer am Flughafensee schützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Marode Holzabgrenzung - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Zusätzlicher Polizeiabschnitt für Reinickendorf für das Kurt-Schumacher-Quartier - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Information und Beteiligung der BVV an Organisations- und Verfahrensregelungen nach dem Gesetz über die Organisation der Landesverwaltung (Landesorganisationsgesetz - LOG BE) vom 10. Juli 2025 (GVBl. S. 270) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Durchgängiges Tempo 30 zwischen 22 und 6 Uhr auf der Bernauer Straße als Lärmschutz für Anwohner in Tegel-Süd - überwiesen
+- TOP 13.2: Einladungen zu öffentlichen Veranstaltungen an alle Bezirksverordnete - überwiesen
+- TOP 13.3: Spielplätze an den Klimawandel anpassen - überwiesen
+- TOP 13.4: Nutzungskonzept für den historischen Kasinoturm in Frohnau - überwiesen
+- TOP 13.5: Parkplätze in der Königshorster Straße auch für die Anwohnerschaft öffnen - überwiesen
+- TOP 13.6: Wickelboards für Reinickendorfer Spielplätze - überwiesen
+- TOP 13.7: Mieterberatung in Reinickendorf verbessern I - überwiesen
+- TOP 13.8: Teilhabe an Sportangeboten - überwiesen
+- TOP 13.9: Pläne zur Einführung einer Parkraumbewirtschaftung in Tegel stoppen - überwiesen
+- TOP 13.10: Sanierung und sichere Gestaltung von Rad- und Gehwegen entlang der Roedernallee - überwiesen
+- TOP 13.11: Mieterberatung in Reinickendorf verbessern III - überwiesen
+- TOP 13.12: Strategie zur Umsetzung des Berliner Klimaanpassungsgesetzes - überwiesen
+- TOP 13.13: Einrichtung eines muslimischen Abteils auf einem Reinickendorfer Friedhof - überwiesen
+- TOP 13.14: Die Sechserbrücke "sichtbarer" machen - überwiesen
+- TOP 13.15: Mieterberatung in Reinickendorf verbessern II - überwiesen
+- TOP 13.16: Baumaudit: Ollenhauerstraße - überwiesen
+- TOP 13.17: Baumaudit als Planungsvorgabe - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Mehr P+R-Parkplätze an den Umlandsbahnhöfen im Norden schaffen! - überwiesen
+- TOP 14.2: Zukunftsperspektive für die Ausstellung "totgeschwiegen" sichern - überwiesen
+- TOP 14.3: Fußgänger und Fahrradfahrer schützen - überwiesen
+- TOP 14.4: Raserei in Roedernallee und Flottenstraße beenden - überwiesen
+- TOP 14.5: Größere lichte Höhen für neue Bahnbrücken über die Klemkestraße - überwiesen
+- TOP 14.6: BVG setzt auf mehr Sicherheit - auch für Reinickendorf! Führungen für besonders Schutzbedürftige - überwiesen
+- TOP 14.7: Freie Fahrt nach 22.00 Uhr - überwiesen
+- TOP 14.8: Lärmblitzer auch für Reinickendorf - der frühe Vogel ...! - überwiesen
+- TOP 14.9: Beleuchtung der Fußwegverbindung zwischen Deutsche Straße und Stargardtstraße - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - in der BVV abgelehnt
