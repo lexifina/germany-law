@@ -1,0 +1,137 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2025-12-10T17:00:00+01:00
+- Ende: 2025-12-10T22:29:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5539
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5539
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Illegales abbrennen von Feuerwerkskörpern - schriftlich beantwortet
+- TOP 1.2: Grundschule - schriftlich beantwortet
+- TOP 1.3: Aktuell darf in Neukölln maximal ein WBS 160 vorgelegt werden, um ein Haus auf einem Erbbaurechtgrundstück kaufen zu können. - beantwortet
+- TOP 1.4: Regulierung des Zinsschadens für Neuköllner Erbpachtsiedler - beantwortet
+- TOP 1.5: Mangelhafte Müllentsorgung durch die Alba - schriftlich beantwortet
+- TOP 1.6: Einwohneranfrage zur Situation der Unterkunft Saalestraße 17–18 - beantwortet
+- TOP 1.7: Anwohneranfrage zur Situation der Unterkunft Saalestraße 17-18 - beantwortet
+- TOP 2: Aktuelle halbe Stunde - erledigt
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Genderneutrale Toiletten - überwiesen
+- TOP 5.2: Option auf veganes Schulessen - überwiesen
+- TOP 6: Entschließungen - erledigt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Verkehr und Tiefbau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: Vorzeitige Beendigung eines Mandats als Patientenfürsprecherin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.6: Rücktritt eines Mitgliedes des Vorstandes der BVV Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.7: Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Fachstellen So-ziale Wohnhilfe – Fortschreibung 2026 - 2027te hier den Themenbetreff eintragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.8: Fortschreibung der Zielvereinbarung für die Beschleunigung der Genehmigungsverfahren im Glasfaserausbau im Land Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.9: Neufassung des Frauenförderplans vom Bezirksamt Neukölln von Berlin 2026 bis 2031 - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - gewählt
+- TOP 9.2: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 9.3: Wahl einer Beisitzerin in den Vorstand der BVV Neukölln von Berlin - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Aktueller Sachstand Sangerhauser Weg I - beantwortet
+- TOP 10.2: Runder Tisch zum Rassismus gegen muslimisch gelesene Menschen - beantwortet
+- TOP 10.3: Kostenlose Menstruationsartikel an Schulen - wann wird der Antrag des Kinder- und Jugendparlaments umgesetzt? - beantwortet
+- TOP 10.4: ELNET Lobbyismus in Neukölln - beantwortet
+- TOP 10.5: Gewaltvorfall in Neukölln – Haltung und Handeln des Bezirksamts - beantwortet
+- TOP 10.6: Veröffentlicht oder verschollen? Stand der Imagevideos #Neuköllnbildet - beantwortet
+- TOP 10.7: “Vorgärten” an der Waltersdorfer Chaussee - beantwortet
+- TOP 10.8: Sicherer Jahreswechsel: Umsetzung von Feuerwerksverboten und Kontrollen im Bezirk - beantwortet
+- TOP 10.9: Keine Lösung für das Hortgebäude an der Schule am Teltow-Kanal? - schriftlich beantwortet
+- TOP 10.10: Hat Bezirksstadträtin Wolter die BVV falsch informiert? - schriftlich beantwortet
+- TOP 10.11: Finanzierung von Projekten aus dem Integrationsfonds im Bezirk Neukölln - schriftlich beantwortet
+- TOP 10.12: Verdrängt die Parkraumbewirtschaftung soziale Berufe? - schriftlich beantwortet
+- TOP 10.13: Verweigert das Bezirksamt Neukölln den Schulen die Sperrmüll-Entsorgung? - schriftlich beantwortet
+- TOP 10.14: Aktueller Sachstand Sangerhauser Weg II - schriftlich beantwortet
+- TOP 10.15: Wiedereinführung eines regelmäßigen Schüler-Hofdienstes an öffentlichen Schulen im Bezirk Neukölln - schriftlich beantwortet
+- TOP 10.16: Schulwegsicherung Schliemann-Grundschule - schriftlich beantwortet
+- TOP 10.17: Klage vom Petruswerk? - schriftlich beantwortet
+- TOP 10.18: Kita-Schließung An den Achterhöfen - schriftlich beantwortet
+- TOP 10.19: Dauerbaustelle am Hermannplatz - schriftlich beantwortet
+- TOP 10.20: Bezirksamt im Verzug – Wann kommt die Antwort? - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Keine Kürzung bei der Jugendsozialarbeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Schwerpunktkontrollen der Verkehrsüberwachung einführen, Falschparken verringern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Optimierung der telefonischen Erreichbarkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Sichere Überquerung Teupitzer Straße / Kiehlufer für Fußgänger:innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Zugang zu sozialen Einrichtungen auf dem Kindl-Gelände erleichtern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.3: Fahrbahnmarkierung Lupinenweg Kornblumenring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Neukölln-Arcaden - Fahrräder sicher abstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Verkehrssicherheit auf dem Wildmeisterdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Ampelphase für Fußgänger an der Ampel Hermannstraße Ecke Karlsgartenstraße verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Zumutbarer Zugang zum S-Bahnhof Sonnenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Schafft das Bezirksamt die Grundreinigung an Neuköllner Schulen ab? - beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Einwohner*innenantrag: Sofortmaßnahmen und strukturelle Verbesserungen zur Sauberkeit, Sicherheit und Suchthilfe im Körnerkiez - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Defibrillatoren können Leben retten - in der BVV zurückgezogen
+- TOP 14.3: Elektromüll leicht entsorgt - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Mehr Sauberkeit auf Neuköllns Straßen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Berliner Sauberkeitsoffensive – Null Toleranz gegenüber Müll, Verschmutzung und Vandalismus in Neukölln - in der BVV abgelehnt
+- TOP 14.6: Schrottfahrräder wieder von der BSR entsorgen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Null-Toleranz-Strategie gegen Farbschmierereien im Bezirk Neukölln - in der BVV abgelehnt
+- TOP 14.8: Parkraumbewirtschaftung ausbauen - Zukunft sichern für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Videoüberwachung gegen illegale Müllablagerungen – Schluss mit Vermüllung in Neukölln! - in der BVV abgelehnt
+- TOP 14.10: Verbesserung der Verkehrslenkung Lohmühlenbrücke / Harzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Gewalt gegen Frauen - in der BVV abgelehnt
+- TOP 14.12: Seniorenvertretung soll im Rathaus bleiben - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Sauberkeit an Schulen verbessern. Tagesreinigung retten! - in der BVV abgelehnt
+- TOP 14.14: Poller im Reuterkiez: Verkehrssicherheit ohne Blockaden – freie Wege für Anwohner und Rettungsdienste - in der BVV abgelehnt
+- TOP 14.15: Mangelnde Wertschätzung des Buddy Bären - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Seniorenfreizeitstätten einen Namen geben - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Demokratieförderung nicht Extremisten überlassen - in der BVV abgelehnt
+- TOP 14.18: Erhalt der historischen BAMAG U7 im Vogelviertel – LED-Umrüstung nur unter Bewahrung der klassischen Form - in der BVV abgelehnt
+- TOP 14.19: Absenkung der Bordsteinkante an der Ecke Morusstraße/ Roland-Krüger-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Bänke am Wildmeisterdamm - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Bänke am Höltermannsteig - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Verwahrlosung im Körnerpark beenden - in der BVV abgelehnt
+- TOP 14.23: Querungshilfe am Buschrosenplatz zu Buschrosensteig/ Hippelstaße - ohne Änderungen in der BVV beschlossen
+- TOP 14.24: Fahrradabstellplätze vor dem Frauen-Café in der Gropiusstadt - ohne Änderungen in der BVV beschlossen
+- TOP 14.25: Kampf der Rattenplage: Regelmäßiger Bericht des Bezirksamts - in der BVV abgelehnt
+- TOP 14.26: Silvester friedlich feiern - Böllerverbot umsetzen! - in der BVV abgelehnt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Mit der Neuköllner Oberschulmesse zurück ins Plus? - beantwortet
+- TOP 15.2: Sauberkeit im öffentlichen Raum in Neukölln - beantwortet
+- TOP 15.3: Situation in der Unterkunft Saalestraße – Unterbringung, Betreiberwechsel und Perspektiven für die Bewohner:innen - vertagt
+- TOP 15.4: Strukturelle Probleme in der ASOG-Unterbringung? - vertagt
+- TOP 15.5: Vorbereitung des Bezirksamts Neukölln auf den Jahreswechsel 2025/2026 - vertagt
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Information und Beteiligung der BVV an Organisations- und Verfahrensregelungennach dem Gesetz über die Organisation der Landesverwaltung(Landesorganisationsgesetz - LOG BE) vom 10. Juli 2025 (GVBl. S. 270) - überwiesen
+- TOP 17.2: Runder Tisch Müllproblem im Körnerkiez - überwiesen
+- TOP 17.3: Unterkunft Saalestraße - überwiesen
+- TOP 17.4: Missbilligung der Falschbehauptungen der Integrationsbeauftragten - überwiesen
+- TOP 17.5: LKW-Verbot am Koppelweg - überwiesen
+- TOP 17.6: Verbesserung der Beleuchtung im Parkstück zwischen Ibisweg und Laubsängerweg - überwiesen
+- TOP 17.7: Stärkung der sozialen Infrastruktur für Jugendliche rund um den Hermannplatz - auch Karstadtgebäude nutzen - überwiesen
+- TOP 17.8: Keine Profitmacherei mit Obdachlosigkeit: Eigene Unterkünfte schaffen! - überwiesen
+- TOP 17.9: Hinweisschilder aktualisieren - überwiesen
+- TOP 17.10: Leinwand im Kulturstall - überwiesen
+- TOP 17.11: Neuköllner in Neuköllner Erde - überwiesen
+- TOP 17.12: Anita-Berber-Park - Fünf-Punkte-Plan für die Neuköllns zentralste Ausgleichsfläche - überwiesen
+- TOP 17.13: Wanderausstellung „Was ich anhatte“ gegen sexualisierte Gewalt gegen Frauen im Rathaus Neukölln - überwiesen
+- TOP 17.14: Würdevolle letzte Ruhe - überwiesen
+- TOP 17.15: Grünanlage Ibisweg beleuchten - überwiesen
+- TOP 17.16: Für mehr Sicherheit und kurze Wege auf der Sonnenallee: Fußverkehrs-Furten in Ordnung bringen - überwiesen
+- TOP 17.17: Schulwegsicherung Waßmannsdorfer Chaussee/Eichenauer Weg verbessern - überwiesen
+- TOP 17.18: Demenz: So geht niedrigschwellige Unterstützung für Menschen mit Demenz und ihre Angehörigen! - überwiesen
+- TOP 17.19: Barrierefrei statt blockiert; Gehweg Elly-Heuss-Knapp-Str. für Fußgänger - überwiesen
+- TOP 17.20: Wetzlar-Schulweg schützen: Klare Hinweise, weniger Tempo - überwiesen
+- TOP 17.21: Runter vom Gas in Alt-Buckow – Zone 30 beachten! - überwiesen
