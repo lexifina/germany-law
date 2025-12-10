@@ -1,0 +1,71 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2025-12-10T17:00:00+01:00
+- Ende: 2025-12-10T20:19:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13969
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13969
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00577914.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung
+- TOP 11: Entwurf der Haushaltssatzung für die Jahre 2026 und 2027 - einstimmig beschlossen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 13: Zuständigkeitsordnung der Stadt Münster; Betriebssatzung awm, Betriebssatzung citeq, Betriebssatzung Münster Marketing, Betriebssatzung Theater Münster - einstimmig beschlossen
+- TOP 13.1: Zuständigkeitsordnung der Stadt Münster; Betriebssatzung awm, Betriebssatzung citeq, Betriebssatzung Münster Marketing, Betriebssatzung Theater Münster
+- TOP 14: Besetzung von Gremien
+- TOP 14.1: Besetzung der Ausschüsse und sonstigen Gremien des Rates - einstimmig geändert beschlossen
+- TOP 14.2: Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig geändert beschlossen
+- TOP 14.3: Besetzung des Beirates für Stadtgestaltung - einstimmig geändert beschlossen
+- TOP 14.4: Besetzung von Gesellschafterversammlungen, Aufsichtsräten, Beiräten und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 14.5: Entsendung von Arbeitnehmervertreter/innen in den Aufsichtsrat der Regionalverkehr Münsterland GmbH - einstimmig beschlossen
+- TOP 14.6: Entsendung von Arbeitnehmervertreter/innen in den Aufsichtsrat der Westfälische Landes-Eisenbahn GmbH - einstimmig beschlossen
+- TOP 14.7: Besetzung der Gremien des Sparkassenzweckverbandes Münsterland Ost - einstimmig geändert beschlossen
+- TOP 14.8: Besetzung des Beirates nach dem Landesnaturschutzgesetz bei der Stadt Münster als untere Naturschutzbehörde - einstimmig geändert beschlossen
+- TOP 14.9: Wahl der Mitglieder der 16. Landschaftsversammlung Westfalen-Lippe - mehrheitlich geändert beschlossen
+- TOP 14.10: Bestellung von Vertretungen der Stadt Münster in den Ausschuss des Unterhaltungsverbandes St. Mauritz - Altenberge - einstimmig geändert beschlossen
+- TOP 14.11: Bestellung von Vertretungen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes Obere Stever Nottuln sowie Umbesetzung im Ausschuss des Wasserverbandes Amelsbüren-Hiltrup - einstimmig beschlossen
+- TOP 14.12: Besetzung des GNK-Beirats 2025-2030 - einstimmig beschlossen
+- TOP 15: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 15.1: 6. Änderung der Parkgebührenordnung für Parkuhren und Parkscheinautomaten im Gebiet der Stadt Münster (Parkgebührenordnung) - mehrheitlich geändert beschlossen
+- TOP 15.2: Satzungsänderung Verwaltungsgebührensatzung und Hundesteuersatzung - einstimmig geändert beschlossen
+- TOP 15.3: Abwassergebührensatzung: Änderung der Gebührentarife - mehrheitlich beschlossen
+- TOP 15.4: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 15.5: Abfallgebühren 2026 - mehrheitlich geändert beschlossen
+- TOP 15.6: Straßenreinigungsgebühren 2026 - einstimmig beschlossen
+- TOP 15.7: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2026 - einstimmig beschlossen
+- TOP 16: Abfallwirtschaftsbetriebe Münster - mehrheitlich geändert beschlossen
+- TOP 17: Stichwahl zur Wahl des Oberbürgermeisters der Stadt Münster am 28.09.2025 - Feststellung der Gültigkeit der Wahl - einstimmig beschlossen
+- TOP 18: Überplanmäßige Mittelbereitstellung im Haushaltsjahr 2025 - einstimmig beschlossen
+- TOP 19: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2023 - einstimmig beschlossen
+- TOP 20: Entwurf des Jahresabschlusses zum 31.12.2024 der Stadt Münster - einstimmig beschlossen
+- TOP 21: Auftrag zur Prüfung des Jahresabschlusses und des Lageberichts zum 31.12.2025 - einstimmig beschlossen
+- TOP 22: Westfälische Bauindustrie GmbH: Änderung des Gesellschaftsvertrags - einstimmig beschlossen
+- TOP 23: K. + I. Hausmann Stiftung | Übernahme der nicht rechtsfähigen Stiftung in städtische Treuhänderschaft - einstimmig beschlossen
+- TOP 24: Beschluss über eine zeitlich befristete Fortsetzung des Deutschlandtickets (01.01.2026 bis 30.06.2026) und Änderung der Allgemeinen - einstimmig beschlossen
+- TOP 25: Betrauung des Münsterland e.V. mit Dienstleistungen von allgemeinem wirtschaftlichem Interesse - einstimmig beschlossen
+- TOP 26: Interessenbekundungen zum Bundesprogramm „Sanierung kommunaler Sportstätten“ (SKS), Projektaufruf 2025/2026 - einstimmig beschlossen
+- TOP 27: Baugebiet "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - Anpassung des Quartierskonzepts durch die Wohn und Stadtbau GmbH - von der Tagesordnung abgesetzt
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 28.1: Eine gute Lösung für Sudmühle und Mariendorf - verwiesen
+- TOP 28.2: Münster elektrisiert: Zukunftsoffensive für den Ausbau der E-Mobilität - verwiesen
+- TOP 28.3: Bauturbo Münster: Günstiger, schneller, einfacher bauen - verwiesen
+- TOP 28.4: Digitalisierung als Schwerpunkt des Haushalts und Personalrendite durch digitale Effizienz - verwiesen
+- TOP 28.5: Hitze stoppen, Kinder schützen: Münsters Schulhöfe jetzt konsequent klimaresilient machen - verwiesen
+- TOP 28.6: Wiedereinführung eines wirtschaftlich optimierten On-Demand-Verkehrs zur Stärkung des ländlichen Raums um die Außenstadtteile Münster - verwiesen
+- TOP 29: Verschiedenes
