@@ -1,0 +1,125 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2025-12-11T14:00:00+01:00
+- Ende: 2025-12-11T20:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29149
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29149
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 11.12.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00571095.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 11.12.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00571095.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 11.12.2025 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00571095.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anfragen aus aktuellem Anlass
+- TOP 2.1: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Vogelgrippe bei toter Wildgans in Düsseldorf - beantwortet
+- TOP 2.2: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Esel, die am 06.12.2025 den Nikolaus beim Oberbürgermeisterempfang begleiteten - beantwortet
+- TOP 2.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Tod des Architekten Frank Gehry und das Gebäudeensemble "Der neue Zollhof" im Medienhafen - beantwortet
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der AfD-Ratsfraktion: Wann werden fehlende Fahrbahnmarkierungen an Düsseldorfer Autobahnzubringern in der Baulast der Stadt Düsseldorf erneuert? - beantwortet
+- TOP 3.2: Anfrage der AfD-Ratsfraktion: Reinigungszyklen der Gullys in der Landeshauptstadt Düsseldorf - beantwortet
+- TOP 3.3: Anfrage der FDP-Ratsfraktion: Bewerbung Olympische und Paralympische Spiele Rhein-Ruhr - beantwortet
+- TOP 3.4: Anfrage der FDP-Ratsfraktion: Sachstand zum Aufbau des kommunalen Bikesharing-Systems - beantwortet
+- TOP 3.5: Anfrage der Ratsfrau Dufhues: Senkung der Gebühren für Strassenreinigung und Hausmüllentsorgung - beantwortet
+- TOP 3.6: Anfrage der Ratsfrau Dufhues: Städtepartnerschaft mit einer palästinensischen Kommune - beantwortet
+- TOP 3.7: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: konkrete Eurobeträge der Personalkosten an die Fraktionen und Gruppen im Jahr 2024 - beantwortet
+- TOP 3.8: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Einsturzgefahr der Sporthalle an der Graf-Recke-Straße - beantwortet
+- TOP 3.9: Anfrage der Ratsfraktion DIE LINKE: Räumung der Obdachlosenunterkunft auf der Eisenstraße - beantwortet
+- TOP 3.10: Anfrage der Ratsfraktion DIE LINKE: Wohnungsleerstand: 20.000 Wohnungen aktivieren - schriftlich beantwortet
+- TOP 3.11: Anfrage der SPD/Volt-Ratsfraktion: Strom fürs Ehrenamt in den Stadtvierteln - schriftlich beantwortet
+- TOP 3.12: Anfrage der SPD/Volt-Ratsfraktion: Sachstand Wohnungsbauoffensive - schriftlich beantwortet
+- TOP 3.13: Anfrage des Ratsherrn Vogt: Fördermitteleinsatz "Demokratie leben!" - schriftlich beantwortet
+- TOP 3.14: Anfrage des Ratsherrn Vogt: Sachstand Komplex Umbau Heinrich-Heine-Platz - schriftlich beantwortet
+- TOP 3.15: Anfrage des Ratsherrn Franosch: Sicherheitskonzepte auf Düsseldorfer Weihnachtsmärkten - schriftlich beantwortet
+- TOP 3.16: Anfrage des Ratsherrn Lemmer: Zaunbegrenzungen am/im Hofgarten - schriftlich beantwortet
+- TOP 3.17: Anfrage des Ratsherrn Lemmer: konkreter Schutz von Tieren bei Rheinbahn Verunfallungen, insbesondere mit Todesfolgen - schriftlich beantwortet
+- TOP 3.18: Anfrage der Ratsfrau Lehmann: Sanierung von Kulturgebäuden: Kunstarchiv Kaiserswerth - schriftlich beantwortet
+- TOP 3.19: Anfrage des Ratsherrn Demmer: Wegfall der Bundesförderung für das Bündnis internationaler Produktionshäuser - schriftlich beantwortet
+- TOP 3.20: Anfrage des Ratsherrn Eberhardt-Köster: Sachstand Schließung des Luisenkrankenhauses - schriftlich beantwortet
+- TOP 3.21: Anfrage des Ratsherrn Poczatek: Anfrage zur Situation der Eisenstraße 49 - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Beitritt der Landeshauptstadt Düsseldorf zum Globalen Netzwerk Age-friendly Cities and Communities der WHO - mehrheitlich beschlossen
+- TOP 10: Hitzeaktionsplan der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 11: Gebührenkalkulation Abfall für 2026 - einstimmig beschlossen
+- TOP 12: 36. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (Abfallgebührensatzung) - mehrheitlich beschlossen
+- TOP 13: Gebührenkalkulation Straßenreinigung für 2026 - einstimmig beschlossen
+- TOP 14: 40. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 15: Annahme einer Spende zur Umgestaltung des Kinderspielplatzes Gertrudisplatz - einstimmig beschlossen
+- TOP 16: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf vom 24.11.2003 zum 01.01.2026 - mehrheitlich beschlossen
+- TOP 17: Flächennutzungsplanänderung Nr. 205 (Entwurf) - Dreiecksparkplatz Kaiserswerth - Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 18: Flächennutzungsplanänderung Nr. 209 (Entwurf) - Südöstlich Werdener Straße - Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 19: Bebauungsplan-Entwurf Nr. 02/014 - zwischen Hellweg und Benzstraße - einstimmig beschlossen
+- TOP 20: Flächennutzungsplanänderung Nr.158 (Entwurf) - Weizenmühlenstraße/Kesselstraße - einstimmig beschlossen
+- TOP 21: Bebauungsplan-Entwurf Nr. 02/018 - Werdener Staße/Erkrather Straße (ehemals B8-Center) - einstimmig beschlossen
+- TOP 22: Erlass der Wasserschutzgebietsverordnung für die Wassergewinnungsanlage Lörick der Stadtwerke Düsseldorf AG - einstimmig beschlossen
+- TOP 23: Beendigung der Mitgliedschaft der Landeshauptstadt Düsseldorf im Zweckverband „Euregio Rhein-Waal“ - mehrheitlich beschlossen
+- TOP 24: Beendigung der Mitgliedschaft der Landeshauptstadt Düsseldorf im Zweckverband „euregio rhein-maas-nord“ - mehrheitlich beschlossen
+- TOP 25: 3. Änderungssatzung zur Satzung zur Wahrung der Belange von Menschen mit Behinderung - einstimmig beschlossen
+- TOP 26: Entwurf des NKF-Gesamtabschlusses 2022 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 27: Umbenennung des Förderpreises in Kulturpreis der Landeshauptstadt Düsseldorf und Anpassung der Bestimmungen - zurückgezogen
+- TOP 28: Freigabe Verkaufsoffener Sonntagnachmittage im Jahr 2026 - mehrheitlich beschlossen
+- TOP 29: Aachener Straße - barrierefreier Ausbau der Stadtbahnhaltestelle Südring mit Einrichtung von Radverkehrsanlagen zwischen Im Dahlacker und Aachener Platz - mehrheitlich beschlossen
+- TOP 30: Ulmenstraße / Kalkumer Straße / An der Piwipp – Barrierefreier Ausbau der Haltestelle „An der Piwipp“ und Ausbau der Radverkehrsanlagen - mehrheitlich beschlossen
+- TOP 31: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Landeshauptstadt Düsseldorf (Sondernutzungssatzung) - mehrheitlich beschlossen
+- TOP 32: Grundsatzbeschluss für das Hansahaus, Konrad-Adenauer-Platz 13 / Harkortstraße 2 - 4 als Standort für Gesundheitsamt und Fahrradgarage - mehrheitlich beschlossen
+- TOP 32.1: Änderungsantrag der SPD/Volt-Ratsfraktion zur Vorlage RAT/391/2025 - mehrheitlich abgelehnt
+- TOP 33: Neufassung der Satzung der Landeshauptstadt Düsseldorf über die Durchführung von Bürgerbegehren und Bürgerentscheiden - einstimmig beschlossen
+- TOP 34: Durchführung eines Ratsbürgerentscheides über die Bewerbung um Olympische und Paralympische Spiele der Region Rhein-Ruhr für das Jahr 2036, 2040 oder 2044 - einstimmig beschlossen
+- TOP 35: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 36: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO für 3 Schulbauprojekte an den Standorten Hansaallee 90, Heinsenstraße 21, Im Dahlacker 15. - einstimmig beschlossen
+- TOP 37: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2026 - Beschluss - - einstimmig beschlossen
+- TOP 38: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2025-2029 - Beschluss - einstimmig beschlossen
+- TOP 39: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2026 bis 31.12.2026 - mehrheitlich beschlossen
+- TOP 40: Jahresabschluss zum 31.12.2024 und Lagebericht für das Wirtschaftsjahr 2024 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - einstimmig beschlossen
+- TOP 41: Abwasserbeseitigungskonzept (ABK) 2026-2037 / 8. Fortschreibung - Beschluss - - mehrheitlich beschlossen
+- TOP 42: Bundesprogramm "Sanierung kommunaler Sportanlagen" - einstimmig beschlossen
+- TOP 43: RheinCargo GmbH & Co. KG - Neuwahl der Arbeitnehmendenvertretung in den Aufsichtsrat - einstimmig beschlossen
+- TOP 44: Wahl des Naturschutzbeirates - einstimmig beschlossen
+- TOP 45: Kommission nach § 32 b Luftverkehrsgesetz - Wahl der städtischen Vertreter*innen - einstimmig beschlossen
+- TOP 46: Aufsichtsrat der AWISTA Kommunal GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 47: Beirat der Bädergesellschaft Düsseldorf mbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 48: Verwaltungsrat des Chemisches und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 49: Sportbeirat der D.LIVE GmbH & Co. KG - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 50: Aufsichtsrat der Deutsche Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 51: Aufsichtsrat der Digital Innovation Hub Düsseldorf/Rheinland GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 52: Aufsichtsrat der Düsseldorf Congress GmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 53: Aufsichtsrat der Düsseldorfer Künstleratelier GmbH - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 54: Flughafenbeirat - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 55: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 56: Aufsichtsrat der Klärschlammverwertung Buchenhofen GmbH - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 57: Aufsichtsrat der RheinCargo GmbH & Co. KG - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 58: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 59: Beirat der Sana Kliniken Düsseldorf GmbH - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 60: Aufsichtsrat der Tonhalle Düsseldorf gGmbH - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 61: Verwaltungsrat der Werkstatt für angepasste Arbeit Gesellschaft mit beschränkter Haftung - Wahl der städtischen Vertreter*innen - mehrheitlich beschlossen
+- TOP 62: Besetzung des örtlichen Beirates der gemeinsamen Einrichtung (Jobcenter) - vertagt
+- TOP 63: Kuratorium der Stiftung Museum Kunstpalast - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 64: Kuratorium der Stiftung Schloss und Park Benrath - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 65: Kuratorium der Goethe-Museum, Anton und Katharina Kippenberg-Stiftung - Wahl der städtischen Vertreter*innen - vertagt
+- TOP 66: Wahl von Delegierten in die Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Ruhr-Wupper e.V. - vertagt
+- TOP 67: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellung- - vertagt
+- TOP 68: Vorstand des Bergisch-Rheinischen Wasserverbandes – Ersatzbenennung – - vertagt
+- TOP 69: Verwaltungsrat der Stadtsparkasse Düsseldorf -Wahl des/der Vorsitzenden und der Mitglieder- - mehrheitlich beschlossen
+- TOP 70: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes -Wahl von Mitgliedern- - vertagt
+- TOP 71: Bestellung von Ausschussmitgliedern mit beratender Stimme - vertagt
+- TOP 72: Mitgliederversammlung des Vereins Metropolregion Rheinland e.V. -Bestellung von Vertretungen der Stadt- - vertagt
+- TOP 73: Begleit- und Beteiligungsgremium des Regionalmanagements Düsseldorf - Kreis Mettmann -Bestellung von Vertretungen der Stadt- - vertagt
+- TOP 74: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - Bestellung der Vertretungen für die Stadt - - mehrheitlich beschlossen
+- TOP 75: Anträge
+- TOP 75.1: Antrag der AfD-Ratsfraktion: Aufhebung des Klimanotstandes - vertagt
+- TOP 75.2: Antrag der AfD-Ratsfraktion: Beendigung der Mitgliedschaft der Landeshauptstadt Düsseldorf bei "Seebrücke" und Bündnis "Städte Sicherer Häfen" - vertagt
+- TOP 75.3: Antrag der AfD-Ratsfraktion: Verzicht auf geschlechtergerechte Formen des Genderns in allen offiziellen Schreiben und Veröffentlichungen der Stadtverwaltung Düsseldorf - vertagt
+- TOP 75.4: Antrag der AfD-Ratsfraktion: Schwarz-Rot-Gold entkriminalisieren! Für mehr Präsenz unserer Nationalfarben im öffentlichen Raum - vertagt
+- TOP 75.5: Antrag der AfD-Ratsfraktion: Verzicht auf die weitere Verwendung des städtischen Slogans "Nähe trifft Freiheit" - vertagt
+- TOP 75.6: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Rütz-PARTEI-Klima-Gedächtnisantrag - Verkehrsversuch Corneliusplatz optimieren - vertagt
+- TOP 75.7: Antrag der Ratsfraktion DIE LINKE: Keine Unterstützung der Stadt Düsseldorf für Abschiebungen - vertagt
+- TOP 76: Bewerbung der Landeshauptstadt Düsseldorf als Standort für ein Yad Vashem Education Center - einstimmig beschlossen
