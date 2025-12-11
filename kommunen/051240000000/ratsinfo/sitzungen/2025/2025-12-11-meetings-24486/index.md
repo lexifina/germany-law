@@ -1,0 +1,102 @@
+# öffentliche/nicht öffentliche Sitzung des Haupt- und Personalausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-12-11T18:30:00+01:00
+- Ende: 2025-12-11T19:25:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24486
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24486
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00356318.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00357501.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wiederwahl von Herrn Stadtdirektor Matthias Nocke (nur Rat)
+- TOP 1.2: Bestellung der stellvertretenden Vorsitzenden des Haupt- und Personalausschusses (nur Haupt- und Personalausschuss) - ungeändert beschlossen
+- TOP 1.3: Einbringung des Haushaltsplanentwurfes 2026/2027 (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Maßnahmen der Stadt gegen gewerbsmäßige Sperrmüll-Sammler
+- TOP 2.1.1: Große Anfrage der AfD-Fraktion vom 28.11.25 zum Thema Maßnahmen der Stadt gegen Sperrmüll-Sammler
+- TOP 2.2: „Bedrohungs“ -Narrativ der Oberbürgermeisterin sowie des Stadtdirektors
+- TOP 2.2.1: "Bedrohungs"-Narrativ der Oberbürgermeisterin sowie des Stadtdirektors
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Haupt- und Personalausschuss)
+- TOP 3.1: Vermeidung von Baumschäden durch Kabelbinder bei Wahlplakatierungen - Entgegennahme ohne Beschluss
+- TOP 4: Anträge
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Sechzehnte Satzung zur Änderung der Gebührensatzung für den Friedhof der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Erste Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: 13. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Gebührensatzung zur Abfallwirtschaft 2026 - ungeändert beschlossen
+- TOP 6.5: Straßenreinigungssatzung und Beschluss über die Straßenreinigungsgebühren 2026 - ungeändert beschlossen
+- TOP 6.6: 3. Satzung zur Änderung und Verlängerung der Gebiets- und Finanzierungssatzung ISG Barmen-Werth - ungeändert beschlossen
+- TOP 6.7: Verwaltungsgebührensatzung 2026 - ungeändert beschlossen
+- TOP 6.8: Neue Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 6.9: 1. Änderung der Satzung zur Durchführung von Einwohneranträgen, Bürgerbegehren, Bürgerentscheiden und Ratsbürgerentscheiden - zur Beratung und Entscheidung verwiesen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 14.06.2025 - 21.11.2025 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.2: Entlastung Betriebsausschuss Jahresabschluss 2024 WAW - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan 2026 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2026 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.5: Übertragung eines Grundstückes von der Stadt Wuppertal an den Eigenbetrieb ESW - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.7: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 8.8: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP 8.9: Wirtschaftsplan Gebäudemanagement Wuppertal 2026 - Entwurf - Entgegennahme ohne Beschluss
+- TOP 8.10: Wirtschaftsplan 2026 Kinder und Jugendwohngruppen - Entgegennahme ohne Beschluss
+- TOP 8.11: Betrauung der Gemeinnnützigen Wohnungsbaugesellschaft mbH Wuppertal (gwg) hier: Höhe des Betrauungszuschusses für 2025 - ungeändert beschlossen
+- TOP 8.12: Bestellung des Liquidators Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 8.13: Wirtschaftsplan 2026 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Teilaufhebung des Fluchtlinienplanes 122 - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 226 - Wilhelmring - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 468 - Briller Viertel - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 167 / 167 A - In der Beek / In den Birken / Katernberger Schulweg - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1293 - Hofkamp / Georg-Abeler-Treppe - (mit Flächennutzungsplanberichtigung 162B) - Satzungsbeschluss - Bebauungsplan 50 - Am Wunderbau - -Satzungsbeschluss zur Teilaufhebung - Fluchtlinienpläne 564, 783, 10006 - Satzungsbeschluss zurT - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1301 - Steinbecker Meile / Hoeftstraße - - zurückgestellt
+- TOP 9.7: Verfahrensbedingte Rückholung der Zuständigkeit des Ausschusses für Stadtentwicklung, Wirtschaft, Bauen und Standortmarketing - ungeändert beschlossen
+- TOP 9.7.1: Bebauungsplan 1021/1 - Uellendahler Str. / Am Haken - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Radring - Planung einer Fahrradstraße in einem Teilabschnitt der Straße Zur Waldesruh - ungeändert beschlossen
+- TOP 10.2: Instandsetzung Brücke Am Schemm - ungeändert beschlossen
+- TOP 10.3: Sanierung der Portal- und Gewölbeflächen der Brücke Schönebecker Straße sowie Bereitstellung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 10.4: Denkmalgerechte Instandsetzung Alte Zoobrücke – Kostenneufestsetzung - ungeändert beschlossen
+- TOP 10.5: Rettungswache Ronsdorf, Grundsatzbeschluss Vergabe der Planungsleistungen - ungeändert beschlossen
+- TOP 10.6: Durchführungsbeschluss – Dach- und Fassadensanierung der Historischen Stadthalle - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Quartalsbericht II/III 2025 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.2: Fortführung des Deutschlandtickets Schule für die Jahre 2026 bis 2030 - ungeändert beschlossen
+- TOP 11.3: BauGB-Novelle 2025 - "Wohnungsbau-Turbo" - ungeändert beschlossen
+- TOP 11.3.1: Antrag zur Tagesordnung, TOP 11.3, VO/0938/25: „BauGB-Novelle 2025 - "Wohnungsbau-Turbo“ - Grundsatzbeschluss“, Ergänzungsantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 11.4: Erhöhung von Entgelten für Übungsleiter*innen, sowie Feriensportgebühren - zur Beratung und Entscheidung verwiesen
+- TOP 11.5: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichsfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2026 bis 31.12.2026 - ungeändert beschlossen
+- TOP 11.6: Konzept zur Durchführung eines Jugendbudgets - ungeändert beschlossen
+- TOP 11.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.8: Öffentlich-rechtliche Vereinbarung zur gemeinsamen Stufenausbildung Feuerwehr der Städte Wuppertal, Remscheid und Solingen - ungeändert beschlossen
+- TOP 11.9: Beauftragung eines gesamtstädtischen Freiraumkonzepts zur Integration der BUGA 2031 und Weiterentwicklung der städtischen Grünflächen - ungeändert beschlossen
+- TOP 11.10: Anmeldung von Förderprojekten zum Bundesprogramm „Sanierung kommunaler Sportstätten“, Projektaufruf 2025/2026 - zur Beratung und Entscheidung verwiesen
+- TOP 11.10.1: Ergänzungsantrag zur Drucksache 1024/25 - Anmeldung von Förderprojekten zum Bundesprogramm "Sanierung kommunaler Sportstätten", Projektaufruf 2025/2026 - zur Beratung und Entscheidung verwiesen
+- TOP 11.11: Verwendung des Bürger*innenbudgets 2025 - ungeändert beschlossen
+- TOP 11.12: Bewerbung um Olympische und Paralympische Spiele der Region Rhein-Ruhr für das Jahr 2036, 2040 oder 2044
+- TOP 11.13: Die Bezahlkarte als Leistungserbringung für Geflüchtete im Leistungsbezug des Asylbewerberleistungsgesetzes – Anwendung der Opt-Out-Regelung - ungeändert beschlossen
+- TOP 11.14: Entscheidung über die Gültigkeit der Wahl des Rates, der Wahlen der Vertretungen der Stadtbezirke sowie der Wahl des Integrationsgremiums am 14. September 2025
+- TOP 11.15: Entscheidung über die Gültigkeit der Wahl der Oberbürgermeisterin bzw. des Oberbürgermeisters am 14. September 2025 sowie der Stichwahl am 28. September 2025
+- TOP 11.16: Stand des Verfahrens zur Realisierung des Pina Bausch Zentrums - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Besetzung von Gremien für die Kommunalwahlperiode 2025-2030 (nur Rat)
+- TOP 12.2: Neuberufung der Mitglieder des Gestaltungsbeirates ab 2026 - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.4: Wahl der Mitglieder / Vertreter*innen für den Beirat bei der unteren Naturschutzbehörde - ungeändert beschlossen
+- TOP 12.5: Besetzung der Ausschüsse des Rates mit Sachkundigen Einwohnerinnen und Einwohnern in der Kommunalwahlperiode 2025-2030
+- TOP 12.5.1: TOP 12.5: Benennung weiterer sachkundiger Einwohner*innen
+- TOP 12.6: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.7: Nominierungen von Sachkundigen Bürgern für die Ausschüsse - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung; Antrag der SPD-Ratsfraktion vom 8.12.2025 - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung; Antrag der SPD-Ratsfraktion vom 8.12.25 - zur Beratung und Entscheidung verwiesen
+- TOP 12.10: Umbesetzung im Ausschuss für Kultur - ungeändert beschlossen
