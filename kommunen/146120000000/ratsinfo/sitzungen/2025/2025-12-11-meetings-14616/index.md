@@ -1,0 +1,61 @@
+# 17. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2025-12-11T16:00:00+01:00
+- Ende: 2025-12-11T21:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/14616
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/14616
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_mU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00858705.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Mitglieder des Stadtrates
+- TOP 2.1: Abmarkierung Marienbrücke
+- TOP 2.2: Verwaltungsunterbringung
+- TOP 2.3: Jugendfragestunde möglich machen
+- TOP 2.4: sog. NOERR-Gutachten zum Bürgerbegehren "Dresdner Nahverkehr erhalten: Kürzungen gemeinsam verhindern!"
+- TOP 2.5: Finanzierungsgrundlagen, Auswirkungen der Haushaltssperre und Sicherstellung rechtzeitiger Förderung für soziale Träger im Bereich Gesundheit und Prävention (V0570/25)
+- TOP 2.6: Reisezeiten auf der Marienbrücke im Advent 2025
+- TOP 2.7: Schulstreik gegen die Wehrpflicht am 05.12.25
+- TOP 2.8: Zukunft des Objektes Wendel-Hipler-Straße
+- TOP 3: Aktuelle Stunde zum Thema "Zukunft der Dresdner Verkehrsbetriebe: Bürgerinnen und Bürger sollen entscheiden!" - erledigt
+- TOP 4: Änderung der Festsetzung des Gewerbesteuerhebesatzes 2026 der Landeshauptstadt Dresden - Ablehnung
+- TOP 5: Entscheidung über die Zulässigkeit des Bürgerbegehrens "Dresdner Nahverkehr erhalten: Kürzungen gemeinsam verhindern!" - Zustimmung
+- TOP 6: Einigungsverfahren Gremienbesetzung - erledigt
+- TOP 6.1: Wahl von Friedensrichterinnen und Friedensrichtern sowie Protokollführerinnen und Protokoll-führern zur Besetzung mehrerer Schiedsstellen der Landeshauptstadt Dresden - gewählt
+- TOP 7: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 8: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 9: Erwerb und weiterer Betrieb des Freizeitbades Elbamare durch die Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 10: Bewerbung Landeshauptstadt Dresden für das Bundesprogramm „Sanierung kommunaler Sportstätten“ Projektaufruf 2025/2026 - Zustimmung
+- TOP 11: Standort Volkshochschule Dresden e. V. – Nachtrag zum Gewerberaummietvertrag vom 30.09.2016, Annenstraße 10, 01067 Dresden und Bereitstellung zusätzlicher Mittel für Miet- und Betriebskosten ab 01.01.2027 - Zustimmung
+- TOP 12: Sicherung des Standorts der Volkshochschule Dresden e. V. - Zustimmung
+- TOP 13: Anpassung der Entgeltordnung der Museen der Stadt Dresden ab dem Jahr 2026 - punktweise Zustimmung
+- TOP 14: Verkauf eines Grundstücks in der Gemarkung Pieschen und Standortentscheidung Neues Sachsenbad - Zustimmung
+- TOP 15: Sicherung Finanzierung Campuslinie TA 1.2 Nossener Brücke/Nürnberger Straße - Zustimmung
+- TOP 16: Vertagungen aus der Stadtratssitzung vom 13.11.2025 - erledigt
+- TOP 16.1: Änderung der Satzungen der Sozialstiftung der Stadt Dresden, der Stadtstiftung Dresdner Kreuzchor, der Sammelstiftung der Stadt Dresden und der Stadtwaisenhaus-Stiftung mit Eugenienstiftung - Zustimmung
+- TOP 16.2: Optimierung der Führungsstruktur des Städtischen Klinikums - Ablehnung
+- TOP 16.3: Eine KI-Strategie für die Dresdner Stadtverwaltung - Ersetzung
+- TOP 16.4: Digitalstrategie für Dresden - Vertagung durch Einreicher
+- TOP 16.5: Zurück zur Vernunft und Schluss mit Gendern - Ablehnung
+- TOP 16.6: Den Rathausturm ganzjährig und für mehr Menschen öffnen. Touristisches Potential besser nutzen. - Vertagung durch Einreicher
+- TOP 17: Über- und außerplanmäßige Mittelbereitstellung im Teilergebnishaushalt des Amtes für Schulen 2025 - Zustimmung
+- TOP 18: Weitere notwendige überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben nach dem Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe im Bereich der erzieherischen Hilfen 2025 - Zustimmung
+- TOP 19: Schließung von zwei kommunalen Kindertageseinrichtung in den Stadtbezirken Dresden-Plauen und Dresden-Pieschen - Zustimmung
+- TOP 20: Satzung der Landeshauptstadt Dresden über die Erhebung von Kostenersatz für Leistungen der Feuerwehren (Feuerwehrkostensatzung – FwKS) - Zustimmung
+- TOP 21: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2026 - Zustimmung
+- TOP 22: Etablierung einer Schiedsgerichtsbarkeit NS-Raubgut – Abgabe eines stehenden Angebotes durch die Landeshauptstadt Dresden - Zustimmung
+- TOP 23: Bebauungsplan Nr. 85 z, Dresden-Altstadt I Nr. 52, Pirnaische Vorstadt, Teilbereich Steinstraße - Zustimmung
+- TOP 24: Klimaanpassungskonzept - Dresden wird klimafest - punktweise Abstimmung
+- TOP 25: Siebente Fortschreibung des Abfallwirtschaftskonzeptes (AWK) der Landeshauptstadt Dresden - Vertagung nach 21 Uhr
+- TOP 26: Dresdens Märkte und Veranstaltungen plastikfrei - Änderung städtischer Satzungen - Vertagung
+- TOP 27: Unterstützung von Kleingartenvereinen bei der abwassertechnischen Erschließung von Kleingartenanlagen in Trinkwasserschutzgebieten im Haushaltsjahr 2025 aufgrund der Haushaltsbegleitbeschlüsse zur Haushaltssatzung 2025 - Zustimmung
+- TOP 28: Väterarbeit fördern – Integration und Ausbau väterspezifischer Beratungs- und Unterstützungsangebote - Vertagung nach 21 Uhr
+- TOP 29: Bereitstellung zusätzlicher Mittel zur Umsetzung des Haushaltsbegleitsbeschlusses im Rahmen der V0068/24, Anlage 2, Punkt 15 - Verweisung und erneute Beratung
+- TOP 30: Einschränkung der Haushaltssperre gemäß § 30 SächsKommHVO - punktweise Zustimmung
+- TOP 31: Verzicht auf den Rückbau der Asphaltdecke auf dem Körnerweg - Vertagung nach 21 Uhr
