@@ -1,0 +1,51 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2025-12-11T17:00:00+01:00
+- Ende: 2025-12-11T19:08:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZT8dILObisR-rct5OBzTiCA
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3217
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfLgwAcow8H4R7HjrcSiMFGmJJviMZXhiaFGqeiJd_74/Bekanntmachung_Rat_11.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXYO4XrsibOABmJozV9Rs32Ubw7t-1rhnlSnB1rleIU4/Oeffentliche_Niederschrift_Rat_11.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Korrektur BV 140/2025 - Wahl von 4 Mitgliedern und Stellvertretungen in die Verbandsversammlung des Musikschulverbandes Espelkamp/Rahden/Stemwede - Einstimmig, 0 Enthaltungen
+- TOP 5.: Entwurf der Haushaltssatzung 2026 mit Haushaltsplan und Anlagen - Ohne Abstimmung
+- TOP 6.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer der Stadt Rahden (Hebesatzsatzung) - 21 Stimmen dafür, 10 dagegen, 0 Enthaltungen
+- TOP 7.: Bekenntnis zu allen Grundschulstandorten - Einstimmig, 0 Enthaltungen
+- TOP 8.: Bildung von Eingangsklassen im Schuljahr 2026/27 und Verteilung auf die Grundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beschaffung von digitalen Endgeräten für die Lehrkräfte an den Rahdener Schulen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Neuregelung des kommunalen Vergaberechts in Nordrhein-Westfalen und Aufhebung der bisherigen Vergabeordnung - Ohne Abstimmung
+- TOP 11.: Beratung über die Gültigkeit der am 14.09.2025 durchgeführten Wahlen des Bürgermeisters und des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 12.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2026 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2026 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Erlass der 9. Satzung vom ________ zur Änderung der Satzung der Stadt Rahden über die Erhebung von Abwassergebühren, Kanalanschlussbeiträgen und Kostenersatz für Grundstücksanschlüsse vom 30.06.2005 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Richtlinie zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden; hier: Verlängerung des Förderprogramms - Einstimmig, 0 Enthaltungen
+- TOP 16.: Richtlinie zur Förderung der Ausbildung von Fachärztinnen und Fachärzten in einer Rahdener Arztpraxis; hier: Verlängerung des Förderprogramms - Einstimmig, 0 Enthaltungen
+- TOP 17.: Erlass der 18. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung der öffentlichen Abfallentsorgung in der Stadt Rahden vom 19.12.1994 - Einstimmig, 0 Enthaltungen
+- TOP 18.: 94. Änderung des Flächennutzungsplanes der Stadt Rahden zur Darstellung von Flächen für eine naturnahe Oberflächenentwässerung und Kompensationsmaßnahmen in der Ortschaft Pr. Ströhen a) Beratung und Beschlussfassung über die während der Veröffentlichung des Entwurfes der 94. Änderung des Flächennutzungsplanes vorgebrachten Stellungnahmen gemäß § 3 Abs. 2 und § 4 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über die Feststellung des Änderungsplanes für die 94. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 19.: Aufstellung des Bebauungsplanes Nr. 108 "Pr. Ströhen - Vor dem Speukebusch" gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) zur Ausweisung einer Wohnbaufläche in der Ortschaft Pr. Ströhen a) Beratung und Beschlussfassung über die während der Veröffentlichung des Entwurfes des Bebauungsplanes Nr. 108 vorgebrachten Stellungnahmen gemäß § 3 Abs. 2 und § 4 Abs. 2 BauGB b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 20.: Ausrüstungsprogramm der Freiwilligen Feuerwehr der Stadt Rahden für das Jahr 2026 (Finanzplan) - Einstimmig, 0 Enthaltungen
+- TOP 21.: Beschaffung, Wartung und Reparatur von persönlichen und sächlichen Ausrüstungsgegenständen im Jahr 2026 für die Freiwillige Feuerwehr und Jugendfeuerwehr der Stadt Rahden (Ergebnisplan) - Einstimmig, 0 Enthaltungen
+- TOP 22.: Beschaffung eines Mannschaftstransportfahrzeugs (MTF) für die Kinderfeuerwehr - Einstimmig, 0 Enthaltungen
+- TOP 23.: Erlass einer Benutzungsordnung der Stadtbücherei Rahden als Satzung der Stadt Rahden einschließlich der Gebührenordnung als Anhang - Einstimmig, 0 Enthaltungen
+- TOP 24.: Erlass einer Benutzungs- und Gebührensatzung für Unterkünfte für Flüchtlinge und Obdachlose in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 25.: Anpassung der Verwaltungsgebührensatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 26.: Antrag der FDP-Fraktion vom 18.11.2025: Kostenermittlung für eine mögliche Verlängerung der Betriebszeiten der Straßenbeleuchtung - 26 Stimmen dafür, 1 dagegen, 4 Enthaltungen
+- TOP 27.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 28.: Grundstücksangelegenheiten
+- TOP 28.1: Grundstücksangelegenheiten Hier: Erwerb einer Fläche in Kleinendorf - Einstimmig, 0 Enthaltungen
+- TOP 29.: Vergabe des Auftrages das Einsammeln und den Transport von Rest- und Bioabfall sowie Sperrmüll ab dem 01.01.2026 - Einstimmig, 0 Enthaltungen
+- TOP 30.: Sachstandsbericht zur nördlichen Arrondierung Gewerbegebiet Rahden-Süd - Ohne Abstimmung
+- TOP 31.: Genehmigung einer überplanmäßigen Ausgabe für den Erwerb eines Grundstücks im Bereich Grundstücksmanagement - Einstimmig, 0 Enthaltungen
+- TOP 32.: Bekanntgaben und Anfragen
