@@ -182,14 +182,14 @@ Tarifziffer | Rechtsgebiet
 2 | Immissionsschutzrecht |  |  |  | 
 20 | Maßnahmen aufgrund des Bundes-Immissionsschutzgesetzes - BImSchG |  |  |  | 
 20.1 | Genehmigungen nach den §§ 4, 16 und 19 BImSchG, soweit keine Herstellungskosten anfallen | nach Zeit- und Sachaufwand, mindestens 575 |  |  | 
-20.2 | Genehmigungen nach den §§ 4, 16 und 19 BImSchG bei Herstellungskosten von |  |  |  | 
+20.2 | Genehmigungen nach den §§ 4, 8, 16, 16a und 16b BImSchG bei Herstellungskosten von |  |  |  | 
  | bis zu 57 500 Euro | 30 v.T. der Herstellungskosten, mindestens 575 |  |  | 
  | mehr als 57 500 Euro bis zu 250 000 Euro | 1 725 zuzüglich 16 v.T. der 57 500 Euro übersteigenden Herstellungskosten |  |  | 
  | mehr als 250 000 Euro bis zu 500 000 Euro | 5 750 zuzüglich 9 v.T. der 250 000 Euro übersteigenden Herstellungskosten |  |  | 
  | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 8 350 zuzüglich 8,5 v.T. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
  | mehr als 2,5 Mio. Euro bis zu 5 Mio. Euro | 27 900 zuzüglich 4 v.T. der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
  | mehr als 5 Mio. Euro bis zu 50 Mio. Euro | 39 400 zuzüglich 3,65 v.T. der 5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 50 Mio. Euro | 228 500 zuzüglich 0,5 v.T. der 50 Mio. Euro übersteigenden Herstellungskosten, insgesamt jedoch höchstens 345 000 |  |  | 
+ | mehr als 50 Mio. Euro | 228 500 zuzüglich 0,5 v.T. der 50 Mio. Euro übersteigenden Herstellungskosten |  |  | 
  | Anmerkungen: a) Schließt die Genehmigung andere die Anlage betreffende Entscheidungen ein (§ 13 BImSchG), so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. Sofern innerhalb des Genehmigungsverfahrens eine Umweltverträglichkeitsprüfung (UVP) vorzunehmen ist, erhöht sich die Genehmigungsgebühr um bis zu 30 v.H. der vorgeschriebenen Gebühr. Ist eine allgemeine Vorprüfung oder eine standortbezogene Vorprüfung des Einzelfalles vorzunehmen, erhöht sich die Genehmigungsgebühr um bis zu 15 v.H. der vorgeschriebenen Gebühr. b) Als Herstellungskosten sind die Kosten der Teile der Anlage zugrunde zu legen, auf die sich die Genehmigung erstreckt; der Wert der Grundfläche sowie die Kosten von zugehörigen Hochbauten, die nicht Bestandteil der Anlage im Sinne des Bundes-Immissionsschutzgesetzes sind, werden nicht in die Bemessungsgrundlage einbezogen. |  |  |  | 
 20.3 | Pauschalgebühr für die Durchführung eines Erörterungstermins | je Tag | 865 |  | 
 20.4 | Teilgenehmigung nach § 8 BImSchG | Gebühr nach 20.2 ff. für den genehmigten Teil der Anlage |  |  | 
