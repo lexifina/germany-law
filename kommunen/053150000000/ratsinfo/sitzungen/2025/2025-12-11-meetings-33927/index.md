@@ -1,0 +1,67 @@
+# 1. Sitzung des Ausschusses für Stadtentwicklung und regionale Zusammenarbeit
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-11T15:03:00+01:00
+- Ende: 2025-12-11T16:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/200
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33927
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33927
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführung, deren Vertretungen sowie die Zulassung von Tonaufnahmen zur Fertigung der Niederschriften für die Wahlperiode 2025/2030 - ungeändert beschlossen
+- TOP -: B Verpflichtung neuer Mitglieder des Ausschusses für Stadtentwicklung und regionale Zusammenarbeit - Kenntnis genommen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Kosten und Verfahren zur Umbenennung von Straßen, Plätzen und Parks in der aktuellen Wahlperiode - Kenntnis genommen
+- TOP 2.1.1: Kosten und Verfahren zur Umbenennung von Straßen, Plätzen und Parks in der aktuellen Wahlperiode 2020 - 2025 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2: Olympia zerschlägt Planung für Kreuzfeld - Kenntnis genommen
+- TOP 2.2.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die LINKE "Olympia zerschlägt Planung für Kreuzfeld" (AN/1446/2025) - Kenntnis genommen
+- TOP 2.3: Madaus-Gartenland: Dialog mit der Öffentlichkeit intensivieren - vertagt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für das Vorhaben "BAB 3, 4, 59 - Ersatzneubau der Bauwerke im Bereich des Autobahndreiecks Heumar" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 6.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 6.1.2: Änderungsantrag zu TOP 6.1.1 - "Änderungsantrag der CDU-Fraktion zur Ziffer 2 betreffend „Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd“ - vertagt
+- TOP 6.2: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig zurückgezogen
+- TOP 6.3: Bedarfsfeststellungs- und Mittelfreigabebeschluss zur Umsetzung des Dialogprozesses „Köln baut bezahlbar | Wohnen für alle“ - ohne Votum behandelt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - vertagt
+- TOP 10.1.1: 0001/2025Änderungsantrag zu TOP 10.2 - Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen (0001/2025) - vertagt
+- TOP 10.1.2: Änderungsantrag zu 0001/2025 Änderungsantrag zu TOP 10.2 - Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen (0001/2025) - vertagt
+- TOP 10.1.3: ÄA zu Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - vertagt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln- Ehrenfeld Arbeitstitel: "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel" in Köln-Ehrenfeld - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Passendale in Köln-Porz-Westhoven - ungeändert beschlossen
+- TOP 13.2: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel Glashüttenstraße in Köln-Porz - geändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des vorhabenbezogenen Bebauungsplanentwurfs Nr. 76367/03, Arbeitstitel: "Am Bahnhof" in Köln-Porz-Wahn - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Vereinbarung eines Nachtrags zur aktuellen Belegungsvereinbarung für geförderte Wohnungen in Köln - Kenntnis genommen
+- TOP 18.2: Geschäftsbericht "Wohnen in Köln 2024" - Fakten, Zahlen, und Ergebnisse 2024 - Kenntnis genommen
+- TOP 18.3: Weiterentwicklung Wohnungsbauprogramm - Kenntnis genommen
+- TOP 18.4: Auswertung der Gebäude- und Wohnungszählung des Zensus 2022: Wohnungsleerstände und Energieträger der Heizungen in Köln - Kenntnis genommen
+- TOP 18.5: Mitteilung über die erfolgreiche Durchführung des Symposiums zur Chancengleichheit in der Stadtentwicklung "Eine Stadt für alle!" - Kenntnis genommen
+- TOP 18.6: Niederschrift der 17. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 01.07.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 18.7: Niederschrift zur 18. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 02.09.2025 (öffentlicher Teil) - Kenntnis genommen
+- TOP 18.8: Bevölkerungsbewegungen in Köln 2024: Wanderungsgewinn maßgeblich durch internationale Zuzüge - Kenntnis genommen
+- TOP 18.9: Maßnahmen zur Förderung sozial gemischter Quartiere (AN/0695/2025) - Kenntnis genommen
+- TOP 18.10: Umsetzung des geänderten Mittel- und Freigabeschlusses zur Umsetzung des Prozesses "Bezahlbar Bauen und Wohnen in Köln" (VO 1866/2025) - Kenntnis genommen
+- TOP 18.11: Neue Bevölkerungsvorausberechnung des Statistischen Landesamtes / IT.NRW 2024 bis 2050/2070 - Kenntnis genommen
+- TOP 18.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
