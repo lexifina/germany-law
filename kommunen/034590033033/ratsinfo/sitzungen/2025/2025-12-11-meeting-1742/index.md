@@ -1,0 +1,63 @@
+# Rat (22. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2025-12-11T17:30:00+01:00
+- Ende: 2025-12-11T19:55:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZc5vPFD-gBq5v9ih5Zham_E
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1742
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdtUoqI6NHbgU80n5dF3FKLprxnbufH7349iMN0lv5VP/Bekanntmachung_Rat_11.12.2025.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcKrAjvJXVS5R-0f8HJOJiw8Trr3tuuSo1muG2aZuiOf/Oeffentliches_Beschlussprotokoll_Rat_11.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 30.09.2025
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Bürgerreise nach Stawiguda
+- TOP 3.2: Verweisungsbeschluss
+- TOP 3.3: Gespräche und Verhandlungen mit der Stadt Osnabrück und dem Landkreis Osnabrück zur Gestaltung und zum Ausbau von Radwegen, zum Ausbau von Kreisstraßen und zur Errichtung von überörtlichen Radwegen
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Neubildung des Ausschusses für Kindergärten, Schulen und Bildung hier: stellvertretende Lehrervertretung Primarbereich und Elternvertretung Sekundarbereich - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kämmereiangelegenheiten
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Jahresabschluss für das Haushaltsjahr 2024 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Beratung und Entscheidung über die Entlastung des Bürgermeisters für das Haushaltsjahr 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.4: Verzicht auf die Aufstellung von konsolidiertem Gesamtabschluss für das Jahr 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.5: Festsetzung der Benutzungsgebühr für die Schmutzwasserkanalisation ab 01.01.2026 (18. Änderung der Abgabensatzung) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.6: Budget 81 "Schmutzwasserkanalisation" - mehrheitlich mit 24 Ja-Stimme(n), 1 Gegenstimme(n), 4 Stimmenthaltung(en) gefasst:
+- TOP 5.7: Haushaltswirtschaft für das Jahr 2026 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 23 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.8: Genehmigung von Spenden - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Antrag der Fraktion Bündnis 90 / Die Grünen auf externe Projektsteuerung in Bezug auf Kosteneinhaltung bei Bauvorhaben - mehrheitlich mit 25 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.2: Antrag der Ratsfrau Marion Müssen auf Erstellung und Begleitung eines Schulhofkonzeptes für die St. Bernardschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Antrag der Fraktion Bündnis 90 / Die Grünen auf Aufnahme des Dörnter Weges ab der Kreuzung L 109 bis zur Gemeindegrenze über die Brockhauser Straße bis zur Autobahnbrücke als Gemeindegrenze in das vorrangige Fahrradstraßenausbauprogramm und in die Förderanträge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Kommunalwahl 2026 Einteilung der Wahlbereiche sowie Informationen für Parteien, Wählergruppen und Einzelbewerber - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Umwelt- und Energieangelegenheiten
+- TOP 7.1: Fortführung des Klimaschutzprojektes an den Wallenhorster Schulen und Kindergärten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 8.1: Einrichtung von zwei Bedarfsampeln an der L 109 hier: Standortfestlegung und weitere Vorgehensweise - mehrheitlich mit 19 Ja-Stimme(n), 9 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 8.2: Antrag der „Bündnis 90 Die Grünen“ auf Beleuchtung des Parkplatzes am ´Grubenweg´ - mehrheitlich mit 25 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.3: Anträge zum Einsatz des Genossenschaftsmodells auf der „Grünen Wiese“ und im Baugebiet „Östlich der Helmichsteine“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.4: "Bau-Turbo" - Leitlinien und Umgang mit der neuen Rechtslage - einstimmig, mit 4 Enthaltung(en) gefasst:
+- TOP 8.5: 2. Änderung der Vergaberichtlinie der Gemeinde Wallenhorst für Wohnbauland - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 9.: Jugendangelegenheiten
+- TOP 9.1: Zuschussantrag der Jugendbildungsstätte Haus Maria Frieden für Umbaumaßnahmen zur Erhöhung der Barrierefreiheit im Hauptgebäude - mehrheitlich mit 28 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.: Kindertagesstätten
+- TOP 10.1: Kindertagesstätte St. Johannes Hollage hier: Geplante Umbau- und Sanierungsarbeiten in den Jahren 2026 und 2027 - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 11.: Schulangelegenheiten
+- TOP 11.1: Umsetzung des Radverkehrskonzeptes hier: Neubau einer Radabstellanlage an der Johannisschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Kulturangelegenheiten
+- TOP 12.1: Antrag des Vereins zur Förderung und Erhaltung Knollmeyer´s Mühle im Nettetal e.V. auf Bezuschussung der Kosten für die Erneuerung des Wasserrades und der notwendigen Sanierungsmaßnahmen für den Erhalt der funktionsfähigen Wassermühle - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 13.: Vereine und Bürgerengagement
+- TOP 13.1: Antrag der Kath. Büchereien und der Ev. Andreas-Bücherei Wallenhorst auf Erhöhung des jährlichen Zuschusses zum 01.01.2026 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Sicherheit und Ordnung
+- TOP 14.1: Ersatzbeschaffung für das LF 8/6 der Ortsfeuerwehr Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Anfragen und Anregungen
+- TOP 15.1: Sachstand zur Installation von PV-Anlagen auf öffentlichen Gebäuden
+- TOP 15.2: Rückstau durch Linksabbieger auf der Ruller Straße Richtung Lechtingen
+- TOP 15.3: Dank an die Verwaltung für die Kostenübernahme der Kastration streunender Katzen
