@@ -1,0 +1,81 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-11T17:00:00+01:00
+- Ende: 2025-12-11T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34016
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34016
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Einführung und Verpflichtung von Mitgliedern der Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO Bau eines zweiten Kunstrasenplatzes auf der Bezirkssportanlage Chorweiler, Aktenzeichen 43/25 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Ladestationen für E-Mobilität - Kenntnis genommen
+- TOP 7.1.2: Einrichtung einer Einbahnstraße Mohlenweg in Köln-Langel - Kenntnis genommen
+- TOP 7.1.3: Anfrage zur Verbesserung der Sauberkeit und Instandhaltung im Bereich der Einkaufs-Passage und des Busbahnhofs in Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Emdener Straße- Radwegeverbindung zwischen Merkenich und Niehl - Kenntnis genommen
+- TOP 7.1.5: Außengelände Jugendzentrum Northside, Netzestr - Kenntnis genommen
+- TOP 7.1.6: Anfrage zur Gewährleistung und Verbesserung der Barrierefreiheit auf Gehwegen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.7: Sachstandsanfrage für die Errichtung eines Zebrastreifens an der Martinusstraße/Amselweg - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage zur Genehmigung und Gebührenpflicht des Trödelmarkts am Wochenmarkt Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Anfrage zur Schließung und Sanierung der Kita Osloer Straße in Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Anfrage zur aktuellen und zukünftigen Verkehrssituation in Merkenich Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Anfrage zur Sicherung des Bolzplatzes in Blumenberg-Süd — Installation Ballfangzaun/Netz Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Anfrage zum Erhalt der Buslinie 120 in Blumenberg im Kontext der Zuverlässigkeit des S-Bahn-Verkehrs im Kölner Norden Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Parkplatzsituation Siedlung Chorweiler Nord Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.7: "Turbokreisel" Emdenerstraße - Causemannstraße - Zufahrt Industriestraße Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.2.8: Schulstrassen Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.2.9: Sperrung mehrerer Parkflächen in Chorweiler-Nord und bei der Kontrollpraxis des Ordnungsamts Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.2.10: Wohnungs- und Obdachlosigkeit in Chorweiler Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Sanierung Bruchstraße, AN/1996/2023 - Kenntnis genommen
+- TOP 7.3.2: Beschilderung Parkplatzzufahrt Liverpooler Platz, AN/0148/2024 - Kenntnis genommen
+- TOP 7.3.3: Anfrage zur Verbesserung der Verkehrssicherheit am Giershausener Weg in Köln, AN/0933/2025 - Kenntnis genommen
+- TOP 7.3.4: Lärmschutz Sportplatz in Esch zu AN/0848/2025, AN/1160/2025 - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Planung und Errichtung einer Kindertagesstätte im Stadtteil Merkenich - Kenntnis genommen
+- TOP 8.1.2: Vermietung kommunaler Räume in Schulen, Bürgerhäusern und Jugendzentren im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Lebenswertes Wohnen für alle - Gesundheitsgefahren ernst nehmen Antrag der Fraktion Bündnis´90/Die Grünen - vertagt
+- TOP 8.3.2: Bessere Regulierung von Wahlwerbung in Köln Antrag der Fraktion Bündnis´90/Die Grünen und des BSW - vertagt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beiräte bei der KölnBäder GmbH (Bäderbeiräte) hier: Benennung von Mitgliedern für den Beirat für das Chorweilerbad - ungeändert beschlossen
+- TOP 9.1.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 9.1.3: Benennung eines Mitgliedes der Bezirksvertretung Chorweiler zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - ungeändert beschlossen
+- TOP 9.1.4: Kunststoffrasen-Belagserneuerung auf der Sportanlage Am Pescher Holz in Köln-Pesch - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.2: Jahresbericht 2024 der Naturschutzwacht Bezirk 6 Chorweiler Ost - Kenntnis genommen
+- TOP 10.2.3: Laien-Defibrillatoren (AED) auf Sportanlagen - Kenntnis genommen
+- TOP 10.2.4: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick Kölle aktiv 2025 - Kenntnis genommen
+- TOP 10.2.5: Auswertung der Beschlüsse der Bezirksvertretungen 2024 / 2025 - Transparenz Finanzvolumen - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssituation und Gefahrenlage an der Grundschule in der Oranjehof-Siedlung (Köln-Seeberg), Aktenzeichen 35/25 - Kenntnis genommen
+- TOP 10.2.7: Errichtung einer inklusiven Wohnanlage Escher Str. 31 - Kenntnis genommen
+- TOP 10.2.8: Sanierungsnotwendigkeit der Kita Sankt-Tönnis-Straße in Köln-Worringen - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Absolutes Verkehrschaos rund um Merkenich seit Öffnung der neuen Autobahnbrücke - Kenntnis genommen
+- TOP 11.1.2: Geplante Klärschlammverbrennungsanlage in Köln-Merkenich - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
