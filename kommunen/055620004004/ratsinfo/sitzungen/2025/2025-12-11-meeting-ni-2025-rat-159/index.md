@@ -1,0 +1,64 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2025-12-11T17:00:00+01:00
+- Ende: 2025-12-11T19:05:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2025-RAT-159
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2025-RAT-159
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2025-RAT-159
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-RAT-159
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2025-RAT-159
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: 1. Änderung der Geschäftsordnung für den Rat der Stadt Castrop-Rauxel und seine Ausschüsse
+- TOP 2.1: 1. Änderung der Geschäftsordnung für den Rat der Stadt Castrop-Rauxel und seine Ausschüsse_Ergänzung
+- TOP 3: Satzung zur Festsetzung der Hebesätze der Grundsteuer in Castrop-Rauxel ab dem 01.01.2026
+- TOP 4: Vorläufiger Beteiligungsbericht 2025
+- TOP 5: Finanzielle Beteiligungsmöglichkeiten der Stadt Castrop-Rauxel an Erneuerbare-Energien-Anlagen (EE-Anlagen) gemäß § 6 Gesetz für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz - EEG 2023) in Verbindung mit § 10 Bürgerenergiegesetz NRW
+- TOP 5.1: Ergänzungsantrag der Fraktion B90/Die Grünen vom 09.12.2025 zur Vorlage 2025/162_Beteiligungsmöglichkeiten erneuerbare Energien
+- TOP 6: Zusammenführung der FORUM Castrop-Rauxel Betriebsgesellschaft mbH und der Wirtschaft & Marketing Castrop-Rauxel GmbH
+- TOP 7: Neubildung der Genossenschaftsversammlung der Emschergenossenschaft
+- TOP 8: Neubildung des Genossenschaftsrates der Emschergenossenschaft
+- TOP 9: Änderung des Gesellschaftsvertrages der Entwicklungsgesellschaft Castrop-Rauxel GmbH
+- TOP 10: Neuwahl der stellvertretenden Mitglieder des Aufsichtsrates der Eventforum Castrop-Rauxel Betriebsgesellschaft mbH
+- TOP 11: Außerplanmäßige Mittelbereitstellung des finanziellen Ausgleichs gemäß Gesetz zur Regelung des Belastungsausgleichs zum Gesetz zur Neuregelung der Dauer der Bildungsgänge im Gymnasium (Belastungsausgleichsgesetz G9 - BAG-G9) nach § 83 GO bei der Position "Abgang Zuwendung Land - Einzelmaßnahme" zur späteren Verwendung
+- TOP 12: Satzung über die Vergabe von Aufträgen unterhalb der Schwellenwerte gemäß § 106 GWB (Vergabesatzung im Unterschwellenbereich)
+- TOP 12.1: Änderungsantrag der Fraktion B90/Die Grünen vom 09.12.2025 zur Vorlage 2025/203_Satzung über die Vergabe von Aufträgen unterhalb der Schwellenwerte gem. § 106 GWB (Vergabesatzung im Unterschwellenbereich)
+- TOP 13: Verwendung der Landes- und Bundezuwendung zur Beteiligung an den Kosten der Kommunen für die Schaffung, Unterhaltung und Herrichtung von Unterbringungsmöglichkeiten bzw. die Aufnahme, Unterbringung und Versorgung Geflüchteter
+- TOP 14: Hausordnung für städtische Obdachlosenunterkünfte der Stadt Castrop-Rauxel
+- TOP 15: Bebauungsplan Nr. 259 "Feuerwache" hier: Beschluss zur öffentlichen Auslegung des Bebauungsplans nach § 3 Abs. 2 BauGB
+- TOP 16: 8. Änderung des Flächennutzungsplans "Feuerwache" hier: Beschluss zur öffentlichen Auslegung der 8. Änderung des Flächennutzungsplans nach § 3 Abs. 2 BauGB
+- TOP 17: Öffentlich-rechtliche Vereinbarung zur Unterstützung der Feuerwehr Waltrop im Randgebiet zu Castrop-Rauxel
+- TOP 18: Übertragung der Erschließungslast zum BPlan Bebauungsplan 263 "Behringhauser Gärten"
+- TOP 19: Bebauungsplan Nr. 263 "Behringhauser Gärten" hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 20: Zustimmung zum Wirtschaftsplan 2025 des EUV für den Teilbetrieb IX - Straßeninfrastruktur und Sportplatzunterhaltung / Öffentliches Grün / Friedhofswesen
+- TOP 21: Gebührenbedarfsberechnung 2026 - Straßenreinigung - und Beschluss über die Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung)
+- TOP 22: Gebührenbedarfsberechnung 2026 - Stadtentwässerung - und Beschluss über die Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)
+- TOP 23: Gebührenbedarfsberechnung 2026 - Abfallentsorgung - und Beschluss über die Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 24: Gebührenbedarfsberechnung 2026 - Gewässerunterhaltung - und Beschluss über die Gebührensatzung zur Umlage der Kosten der Gewässerunterhaltung in der Stadt Castrop-Rauxel
+- TOP 25: Gebührenbedarfsberechnung 2026 - Friedhofswesen - und Erlass einer Satzung über die Gebühren für die städtischen Friedhöfe
+- TOP 26: Gebührenbedarfsberechnung 2026 und Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel - Wochenmarktsatzung -
+- TOP 27: Gebührenbedarfsberechnung 2026 - Klärschlammbeseitigung - und Beschluss über die Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel
+- TOP 28: Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung); Änderung der Entwässerungssatzung in § 13 Abs. 4.
+- TOP 29: Konzept Stadtjubiläum 2026
+- TOP 30: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Berufung der Fachmitglieder und der politischen Vertreter/-innen
+- TOP 31: Berufung und Entsendung einer/eines Vertreter*in und mehrerer persönlicher Vertretenden des Stadtsportverbandes als sachkundige*r Einwohner*in
+- TOP 32: Berufung und Entsendung einer/eines Vertreter*in und mehrerer persönlicher Vertretenden der Stadtteilvereine als sachkundige*r Einwohner*in
+- TOP 33: Berufung und Entsendung zwei Vertreter*innen und mehrerer persönlicher Vertretenden des KiJuPa als sachkundige*r Einwohner*in
+- TOP 34: Antrag CDU Ratsfraktion vom 05.11.2025_Bericht und Vorschlag der Verwaltung zu den möglichen Projekten im Rahmen des "Nordrhein-Westfalen-Plans für gute Infrastruktur"
+- TOP 34.1: Änderungsantrag der Fraktion B90/Die Grünen vom 11.12.2025_Bericht und Vorschlag der Verwaltung zu den möglichen Projekten im Rahmen des "Nordrhein-Westfalen-Plans für gute Infrastruktur"
+- TOP 35: Antrag der CDU-Fraktion vom 07.11.2025_Entwicklung eines Konzeptes zur Verwirklichung und Verstetigung des Jugendbudgets
+- TOP 36: Antrag der CDU-Fraktion vom 07.11.2025_Anpassung der Satzung zur Durchführung von Einwohneranträgen, Bürgerbegehren und Bürgerentscheiden
+- TOP 37: CDU_Ausschussumbesetzung_Wirtschaft_und_Umwelt vom_28.11.2025
+- TOP 38: Wahl des Aufsichtsratsvorsitzenden der Stadtwerke Castrop-Rauxel GmbH
+- TOP 39: Anfragen der Ratsmitglieder
+- TOP 40: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
