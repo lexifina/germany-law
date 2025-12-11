@@ -1,0 +1,58 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2025-12-11T17:30:00+01:00
+- Ende: 2025-12-11T19:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3684
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3684
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00170212.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00170212.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00170212.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Fragestunde der Einwohnenden
+- TOP 3: Verpflichtung eines Ratsmitglieds
+- TOP 4: Teilnahme am anteiligen Entschuldungsprogramm des Landes NRW nach ASEG NRW - Kenntnisnahme
+- TOP 5: Bildung Inklusionsbeirat 11. Wahlperiode Rat - einstimmig beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Erlass einer Vergabesatzung für die Unterschwellenvergabe - einstimmig beschlossen
+- TOP 6.2: Zuständigkeitsordnung - einstimmig beschlossen
+- TOP 6.3: Änderung des Baugesetzbuchs („Wohnungs-Bauturbo) - Übergangsregelung - mehrheitlich beschlossen
+- TOP 6.4: Gebührenbedarfsberechnung für die Erhebung von Abfallentsorgungsgebühren 2026 - einstimmig beschlossen
+- TOP 6.5: Gebührenbedarfsberechnung für die Erhebung von Straßenreinigungsgebühren 2026 - einstimmig beschlossen
+- TOP 7: Einbringung Haushalt 2026
+- TOP 8: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 8.1: Sachstandsbericht: Digitale Ausschusssitzungen und "Rats-TV" - Kenntnisnahme
+- TOP 8.2: Bergmannampeln in Grevenbroich (Antrag Nr. 66/2025) - mehrheitlich beschlossen
+- TOP 8.3: Anfrage auf Einführung eins "Qualitätsmanagement für Straßenmusik" (Anfrage Nr: 80/2025) - Kenntnisnahme
+- TOP 8.4: Anfrage zu Razzien gegen Sozialbetrug im Stadtgebiet GV (Anfrage Nr.:84/2025) - Kenntnisnahme
+- TOP 8.5: Barrierefreie, akustische Ampelanlagen im Stadtgebiet (Antrag Nr.: 113/2025) - Kenntnisnahme
+- TOP 8.6: Anfrage zur Verhinderung von Messergewalt in städtischen Schulen (Anfrage Nr.:57/2025) - Kenntnisnahme
+- TOP 8.7: Anfrage zur möglichen Anschaffung von ATV-Quad für Feuerwehr GV Anfrage Nr. 86/2025 - Kenntnisnahme
+- TOP 8.8: Anfrage zu möglichem Neueinbauverbot von Gas- und Ölheizungen Stadtgebiet GV (Anfrage Nr.: 82/2025) - Kenntnisnahme
+- TOP 8.9: Änderung des Grundgesetzes / Auswirkungen des sogenannten „Infrastruktur-Sondervermögens“ auf die Stadt Grevenbroich (Antrag 32/2025) - Kenntnisnahme
+- TOP 8.10: Stadtteil Neuenhausen bei der Beschilderung der B59 berücksichtigen (Antrag Nr.:92/2025) - Kenntnisnahme
+- TOP 8.11: Wohnmobilstellplätze als Tourismusfaktor in und für die Stadt Grevenbroich (Antrag Nr.:93/2025) - Kenntnisnahme
+- TOP 8.12: Mittelstandsbarometer 2025 - Bewertung der Stadt Grevenbroich (Anfrage Nr.:103/2025) - Kenntnisnahme
+- TOP 9: Schriftliche Anträge
+- TOP 9.1: Neuausrichtung der Stadtbetriebe AöR (Antrag-Nr.: 115/2025) - einstimmig beschlossen
+- TOP 9.2: Prüfung und Einrichtung einer 24 Stunden Kindertageseinrichtung (Antrag-Nr.: 116/2025) - einstimmig beschlossen
+- TOP 9.3: Antrag: Entwicklung und Einführung von Umwelt- und Naturbildungsangeboten auf der Vollrather Höhe (Antrag-Nr.: 117/2025) - einstimmig beschlossen
+- TOP 9.4: Entwicklung eines Bürgerparks Neu-Elfgen-Laach (Antrag-Nr.: 118/2025) - einstimmig beschlossen
+- TOP 9.5: Antrag: Ergänzung der Abfallentsorgungssatzung (Antrag-Nr.: 119/2025) - einstimmig beschlossen
+- TOP 9.6: Antrag: Ersatzbeschaffung und Sicherungskonzept (Antrag-Nr.: 120/2025) - einstimmig beschlossen
+- TOP 9.7: Antrag auf Ausschussumbesetzung zur Sitzung des Rates am 11.12.2025 (Antrag-Nr.: 128/2025) - einstimmig beschlossen
+- TOP 9.8: Förderprogramm zur Sanierung kommunaler Sportstätten - Sportmilliarden" (Antrag Nr.:127/2025) - einstimmig beschlossen
+- TOP 9.9: Erhalt der Pump-Track Anlage in Kapellen (Antrag Nr.:126/2025) - einstimmig beschlossen
+- TOP 9.10: Erhöhung des Pauschalbetrages für das "Museum der niederrheinischen Seele" (Antrag Nr.:125/2025) - einstimmig beschlossen
+- TOP 9.11: Naturnaher Umbau der Erft und der Erftauen sowie attraktive Gestaltung trocken gefallener Flussabschnitte (Antrag Nr.:122/2025) - einstimmig beschlossen
+- TOP 10: Schriftliche Anfragen
+- TOP 10.1: Vollständiger Rückbau des seit über 10 Jahren entwidmeten Radwegs an der K33 in Hülchrath (Anfrage Nr.:123/2025) - Kenntnisnahme
+- TOP 10.2: Diebstahl von Teilen des Bonifatius-Stirnberg Tierensembles auf dem Marktplatz Grevenbroich (Anfrage Nr.:124/2025) - Kenntnisnahme
+- TOP 11: Mitteilungen des Bürgermeisters
