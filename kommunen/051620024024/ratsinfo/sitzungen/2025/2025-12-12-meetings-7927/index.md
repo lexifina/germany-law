@@ -1,0 +1,58 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2025-12-12T16:00:00+01:00
+- Ende: 2025-12-12T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7927
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7927
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 12.12.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00234641.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 12.12.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00234641.pdf
+- Wortprotokoll: Sitzungspaket RAT 12.12.2025 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00234641.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 5: Prüfung des Jahresabschlusses 2023 sowie der Jahresabschlüsse 2023 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP -: Wahlprüfungsausschuss
+- TOP 6: Gültigkeit der Wahl zum Bürgermeister am 14. September 2025 - einstimmig zugestimmt
+- TOP 7: Gültigkeit der Wahl zum Rat der Stadt Neuss am 14. September 2025 - mehrheitlich zugestimmt
+- TOP 8: Gültigkeit der Wahl zum Integrationsausschuss am 14. September 2025 - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 9: Jahresabschluss 2024 - einstimmig zugestimmt
+- TOP 10: InfraStruktur Neuss AöR - Änderung der Betriebssatzung in Umsetzung des Ratsbeschlusses vom 21.11.2025 - einstimmig zugestimmt
+- TOP 11: Tiefbaumanagement Neuss - Änderung der Betriebssatzung in Umsetzung des Ratsbeschlusses vom 21.11.2025 - einstimmig zugestimmt
+- TOP 12: Wahl einer Schiedsperson - einstimmig zugestimmt
+- TOP 13: Gewährung von Zuschüssen an die politischen Jugendorganisationen - einstimmig zugestimmt
+- TOP 14: Selikumer Weg - Herstellungsbeschluss - einstimmig zugestimmt
+- TOP 15: Festsetzung von Gebühren 2026 für den Bereich "Abfallentsorgung" - einstimmig zugestimmt
+- TOP 16: Ausbaggerung Sporthafen, hier: Antrag ÜPL nach § 83 GO - mehrheitlich zugestimmt
+- TOP 17: Bundesförderprogramm zur Sanierung kommunaler Sportstätten: Sanierung Stadtbad - mehrheitlich zugestimmt
+- TOP 18: Adressbildung und Benennung von Straßenzügen um das Landesgartenschau-Gelände - verwiesen
+- TOP 19: Genehmigung der Dringlichkeitsentscheidung Nr. 126: Aufhebung eines Sperrvermerks im Steuerungsprodukt 080.424.200.000 (Bereitstellung und Betrieb von Sportanlagen), Sachkonto 7 42400004 (Sportstätteninfrastruktur) - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 20: Antrag der AfD-Fraktion betr.: Änderung der Hauptsatzung der Stadt Neuss - mehrheitlich abgelehnt
+- TOP 21: Antrag der Fraktion DIE LINKE betr.: Erstellung einer Wohnraumschutzsatzung - verwiesen
+- TOP 22: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Umsetzung von Öffentlichkeitsarbeit zum KLAK während der Landesgartenschau - verwiesen
+- TOP 23: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Bericht im JHA zu den Folgen von KiBiZ-Rückforderungen für Kitas - verwiesen
+- TOP 24: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Änderung der Ausbauplanung Erftstraße - mehrheitlich abgelehnt
+- TOP 25: Antrag der Fraktion DIE LINKE betr.: Einrichtung eines Kinder- und Jugendparlaments gemäß § 27a GO NRW - verwiesen
+- TOP -: Anfragen
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 28: Gleichstellungsplan 01.01.2026 - 31.12.2029 - zur Kenntnis genommen
+- TOP 29: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 30: Sitzungskalender des Rates und der Ausschüsse für das Jahr 2026 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
