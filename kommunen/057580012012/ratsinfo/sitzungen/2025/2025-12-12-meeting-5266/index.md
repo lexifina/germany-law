@@ -1,0 +1,77 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2025-12-12T17:05:00+01:00
+- Ende: 2025-12-12T20:40:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaLiuDzAGHhW1owRmfjwxPk
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5266
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUupL055wp7OazmUOc82aVMhleiHTjkqf7_0I2C_XVO_/Einladung_Rat_12.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX1Dd0_-lf0boU2vWJEdy_fdCbkZ2mt6EKf_6kOzvQuv/Oeffentliche_Niederschrift_Rat_12.12.2025.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 07.11.2025
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Beschlussfassung über die Gültigkeit der Wahl der Bürgermeisterin, des Rates und des Ausschusses für Chancengerechtigkeit und Integration der Hansestadt Herford am 14.09.2025 und 28.09.2025 - Mit 32 Stimmen dafür, 15 stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst.
+- TOP A.7a: Antrag der CDU-Fraktion: Antrag zur Neuauszählung in drei Stimmbezirken - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: langfristige Finanzplanung - Mit 46 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8a: Antrag Die PARTEI/ UWG HBB: Ergänzungsantrag zur langfristigen Finanzplanung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Steuerung von Drittorganisationen:
+- TOP A.9a: HVV-Konzern: Wirtschaftspläne 2026 und Mittelfristpläne des HVV-Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9b: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: Wirtschaftsplan 2026 Mittelfristplan 2027-2030 - Mit 46 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9c: Pro Herford GmbH: a) geänderter Wirtschaftsplan 2025 b) Wirtschaftsplan 2026, Mittelfristplan 2027-2030 - Mit 41 Stimmen dafür, einer Stimme dagegen und fünf Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.9c)1: Antrag Die Linke: Detaillierte Kostenaufstellung zur Lidl-Deutschlandtour - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9d: IAB Immobilien und Abwasser-Betrieb Herford: Wirtschaftsplan 2026 Mittelfristplanung 2027-2030 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9e: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen Lippe GmbH: Wirtschaftsplan 2026 und Mittelfristplan 2027-2030 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9f: Kündigung des Gesellschaftsverhältnisses bei der Minden-Herforder Verkehrsgesellschaft mbH - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.9g: Öffentlicher Personennahverkehr im Stadtgebiet Herford: 1) Anwendung des Deutschlandticket-Tarifs als Höchsttarif im Stadtgebiet Herford 2) Information zur Tarifreform des Westfalen Tarifs - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9h: Öffentlicher Dienstleistungsauftrag der Hansestadt Herford zur Erbringung von öffentlichen Personenverkehrsdiensten durch die SVH Stadtverkehr Herford GmbH im Wege der Inhousevergabe - Mit 46 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9i: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: Grundsatzlegitimation einer fachlichen Exkursion des Aufsichtsrats - Einstimmig und mit 6 Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.10: Gremienbesetzungen
+- TOP A.10a: Gremienbesetzung Drittorganisationen: Genehmigung einer Dringlichkeitsentscheidung nach § 60 GO NRW zur Nachbesetzung der Aufsichtsräte der HVV und der SEH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10b: Entsendung von Vertretern der Hansestadt Herford für die Gesellschafterversammlungen der SEH, HVV, Pro Herford und WWS - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10c: Geschäftsführung Jugendhilfeausschuss: Wahl einer Vertretung und einer Stellvertretung des neuen Jugendamtselternbeirates als ordentliches beratendes Mitglied und persönliche Stellvertretung im Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10d: Gremienbesetzung im Ausschuss für Chancengerechtigkeit und Integration: Benennung von Ratsmitgliedern - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10e: Gremienbesetzung Sportausschuss: Sicherstellung der Beschlussfähigkeit durch die Benennung von Ratsmitgliedern - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10e)1: Gremienbesetzung Sportausschuss: Sicherstellung der Beschlussfähigkeit durch die Benennung von Ratsmitgliedern
+- TOP A.10e)2: Gremienbesetzung Sportausschuss: Sicherstellung der Beschlussfähigkeit durch die Benennung von Ratsmitgliedern - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10f: Antrag der CDU-Fraktion: Gremienumbesetzung im Rechnungsprüfungsausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10g: Gemeinsamer Antrag der Fraktionen FDP und BfH: Gremienumbesetzung in der Sparkassenverbandsversammlung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10h: Antrag der Fraktion Die PARTEI/ UWG HBB: Gremienumbesetzung im Schulausschuss und Verkehrsausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10i: Beirat für Stadtbildpflege hier: Neuwahl der Mitglieder und Stellvertreter - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10i)1: Antrag der Fraktion Die PARTEI/ UWG HBB: Neustrukturierung des Beirates für Stadtbildpflege - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10i)2: Antrag der FDP-Fraktion: Abschaffung des Beirates für Stadtbildpflege und Einrichtung einer Expertenkommission - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10i)3: Antrag der BfH-Fraktion zur Auflösung des Beirates für Stadtbildpflege - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10i)4: Gemeinsamer Antrag der Fraktionen CDU und SPD zum Erhalt des Beirates für Stadtbildpflege - Mit 33 Stimmen dafür, sechs Stimmen dagegen und sieben Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.10i)5: Gemeinsamer Antrag der Fraktionen UfH und Bündnis 90/ Die Grünen: Erhalt des Beirates für Stadtbildpflege - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10j: Seniorenbeiratswahl 2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10k: Antrag der AfD-Fraktion: Gremienumbesetzung - Mit 35 Stimmen dafür, einer Stimme dagegen und 10 Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.10l: Antrag der SPD-Fraktion: Gremienumbesetzung - Einstimmig und mit sieben Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.10m: Antrag der UfH-Fraktion: Gremienumbesetzung - Einstimmig und mit 15 Enthaltungen wird folgender Beschluss gefasst.
+- TOP A.11: Anpassung der Benutzungs- und Entgeltordnung für die Vergabe von Räumen im Bürgerzentrum Haus unter den Linden (HudL) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Änderung der Verwaltungsgebührensatzung der Hansestadt Herford mit Wirkung vom 01.01.2026; Anpassungen im Gebührentarif wegen Angleichung der Gebühren im Standesamt - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Satzung über die Vergabe von Aufträgen der Hansestadt Herford unterhalb der Schwellenwerte gemäß § 106 GWB - Mit 38 Stimmen dafür, sechs Stimmen dagegen und zwei Enthaltungen wird folgender Beschluss gefasst.
+- TOP A.14: Gebührenhaushalt Abfallentsorgung a) 5. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Hansestadt Herford vom 12.12.2017 b) 12. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung vom 10.10.2012 - Mit 45 Stimmen dafür, einer Stimme dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Gebührenhaushalt Straßenreinigung 15. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Änderung der Entwässerungsanschlussbeitragssatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Änderung der Entwässerungssatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Abwasserbeseitigungskonzept ABK 2026-2031 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Änderung der Entwässerungsgebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Redaktionelle Änderungen der Hauptsatzung sowie der Geschäftsordnung des Rates - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20a: Antrag von Die PARTEI: Änderung der Geschäftsordnung des Rates zur Empfehlung des Trinkens von Alkohol während der Ratssitzungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Sitzungskalender 2026
+- TOP A.21a: Sitzungskalender 2026
+- TOP A.22: Antrag der SPD-Fraktion: Prüfauftrag an die Verwaltung zu den Auswirkungen eines kostenfreien ÖPNV an Samstagen - Mit 32 Stimmen dafür, elf Stimmen dagegen und vier Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.23: Gemeinsamer Antrag der Fraktionen FDP und CDU: Einführung eines Live-Streamings der Ratssitzungen mit barrierefreier Transkription - Mit 38 Stimmen dafür, zwei Stimmen dagegen und sechs Enthaltungen wird folgender Beschluss getroffen:
+- TOP A.23a: Antrag Die PARTEI/ UWG HBB: Ergänzungsantrag zum Livestream - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24: Antrag der Fraktion Die PARTEI/ UWG HBB: Änderung der Sitzordnung - Mit 44 Stimmen dagegen, einer Stimme dafür und zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.25: Mitteilungen
