@@ -16,7 +16,7 @@
 |  | Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert „MP“ mit null festgesetzt. |
 | 3.2 | Berechnung des Monatsmarktwerts „MW“ bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie |
 |  | Der Wert „MW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Monatsmittelwert des Spotmarktpreises. |
-| 3.3 | Berechnung es Monatsmarktwerts „MW“ bei Strom aus Windenergie und solarer Strahlungsenergie |
+| 3.3 | Berechnung des Monatsmarktwerts „MW“ bei Strom aus Windenergie und solarer Strahlungsenergie |
 | 3.3.1 | Energieträgerspezifischer Monatsmarktwert |
 |  | Als Wert „MW“ ist anzulegen bei direkt vermarktetem Strom aus |
 |  | – | Windenergieanlagen an Land der Wert „MWWind an Land“ |
