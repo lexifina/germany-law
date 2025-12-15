@@ -1,0 +1,83 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2025-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8780714
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8780714
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 17.11.2025
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag auf Rückbau der Fassadenbegrünung beim Neubau der Karlingersiedlung und Behebung aller weiteren bauphysikalischen Mängel
+- TOP 2.2.: Bewegung im öffentliche Raum; "Mental Fit Pfad"
+- TOP 2.3.: Umweltbildung jetzt stärken - Budget 2025 für KI-Recycling im Stadtteil nutzen
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Parkmöglichkeiten in der Thorner Straße
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baubergerstraße 19
+- TOP 3.3.1.2.: Hanauer Straße 101 (Bauabschnitt 1)
+- TOP 3.3.1.3.: Hanauer Straße 101 (Bauabschnitt 2)
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Sofortiger Beginn der Planung zur Verlängerung der U3 West von Moosach via Untermenzing nach Pasing
+- TOP 4.2.2.: Antrag des Vorsitzenden an den BA 10 Moosach zur einseitigen Aufstellung eines Dialogdisplays in der Feldmochinger Straße 55-59
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget die Urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3250,00€ Az.: 0262.0-10-0443
+- TOP 5.2.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. DIE GESCHICHTENSTUNDE - Erzählen in der Schule vom 23.Februar - 31 Dezember 2026 2.300€ Az.: 0262.0-10-0445
+- TOP 5.3.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Just listen vom 17.11.-21.11.2025 276,00€ Az.: 0262.0-10-0446
+- TOP 5.4.: (E) Stadtbezirksbudget Elternbeirat der Artur Kutscher Realschule Moosach Digitaltag 2026 für mehr Medienkompetenz Workshop 5. Klassen: Sicher im Internet am 27.01.2026 1.025,46€; Az. 0262.0-10-0444
+- TOP 5.5.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Mehr Medienkompetenz am 22. und 23.01.2026 800,00€; Az. 0262.0-10-0447
+- TOP 5.6.: (E) Stadtbezirksbudget Evang. Luth. Kirchengemeinde München Heilig-Geist Workshops für Senior:innen zur Förderung ihrer digitalen Kompetenz vom 01.03. -31.12.2026 1.450,00€; Az. 0262.0-10-0448
+- TOP 5.7.: (E) Stadtbezirksbudget Familientreff Moosach e.V. Schaffung eines Lese- und Ruheraumes ab 20.11.2025 1.108,50€; Az. 0262.0-10-0449
+- TOP 5.8.: (E) Stadtbezirksbudget Beauftragten gegen Rechtsextremismus Wandgestaltung Unterführung/Durchgang S-Bahnhof Moosach ab 02.01.2026 2.000,00€; Az. 0262.0-10-0450
+- TOP 5.9.: (E) Pflanzung von drei bis vier Bäumen in der Feldmochinger Straße
+- TOP 5.10.: (E) Ausreichende Straßenbeleuchtung im Baustellenbereich der Unterführung der Dachauer Straße
+- TOP 5.11.: Entscheidung über Sondernutzungserlaubnis: "Schreibwaren Borstei"; Antrag auf Sortimentserweiterung und Flächenerweiterung von Warenauslagen
+- TOP 6.: Anhörungen
+- TOP 6.1.: Mobilfunk-Suchkreis im Bereich Westfriedhof-West
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Müllproblem an der Ehrenbreitsteiner Straße 28
+- TOP 7.2.: Prüfung der Rechtmäßigkeit einer ausgestellten Ordnungswidrigkeitenanzeige
+- TOP 7.3.: Anfrage zum aktuellen Stand der Planungen hinsichtlich des Umbaus des Jugendfreizeitheims Mooskito
+- TOP 7.4.: Sicher im Verkehr unterwegs: Pelkovenstraße - Ad-hoc-Maßnahmen zur Erhöhung der Verkehrssicherheit für den KFZ- und Radverkehr
+- TOP 7.5.: Stand Schallwand Borstei
+- TOP 7.6.: Antrag auf Errichtung von Fahrrad-Abstellplätzen vor der Einmündung Baldurstraße in die Dachauer Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImschG) und der Geräte- und Maschinenlärmverordnung (32. BImschV); Ausnahmezulassung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Parklizenzgebiet Borstei; Änderungen der Parkregeln in der Homerstraße und Postillonstraße
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: --> Andernacher Straße im Abschnitt zwischen Feldmochinger Straße und Bingener Straße; Errichtung von Ausweichstellen für den fließenden Verkehr --> Riesstraße 15; Anordnung von absoluten Haltverboten
+- TOP 8.4.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i. V. m. Abs. 6 und Abs. 9 und § 46 StVO: --> Arbeiten im Straßenraum; Gubestraße 11 bis 37 (Neuverlegung Fernwärme Verteilungsleitung in drei Bauphasen) -Verlängerung-
+- TOP 8.5.: Allgemeinverfügung des KVR über eine Knallerverbotszone am Mittleren Ring sowie Feuerwerkabbrennverbot im Tierpark Hellabrunn
+- TOP 8.6.: BA-Antrag Nr. 20-26 / B 08364 des Bezirksausschusses 09 Neuhausen-Nymphenburg - Reduzierung des Schleichverkehrs
+- TOP 8.7.: Entwurf Mehrjahresinvestitionsprogramm 2025-2029
+- TOP 8.8.: Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Investive Konsolidierung 2028 ff. – Stand und Ergebnis • Mittelübertragung vom Kommunalreferat • Stellungnahme zum Antrag des Bezirksausschusses 7
+- TOP 8.9.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.10.2025 a) Ergänzung Anhörungsrecht Sondernutzungsrichtlinien b) Mehr Mitbestimmungsrechte des BA beim Klimaschutz c) Einbeziehung der Bezirksausschüsse vor der Umsetzung von in Foren bzw. Plattformen vorgeschlagenen verkehrsrechtlichen Anordnungen und baulichen Maßnah-men d) Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 8.10.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 – 2024
+- TOP 8.11.: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 8.12.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.13.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement, Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 8.14.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.15.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 3.3.1.4.: Donaustaufer Straße
+- TOP 8.16.: Nikolausfeier in der Borstei am 06.12.2025 - - Vorabstellungnahme durch den BA-Vorsitzenden
+- TOP 2.4.: Probleme in der Franz-Fihl-Straße aufgrund des 24/7 Supermarktes
+- TOP 5.12.: (E) Erneuerung Infotafeln beim Calisthenics-Park in der Wittenberger Straße
+- TOP 3.2.2.: Abstimmung neues Radverkehrsnetz für München - IR IV (Radverkehrsverbindungen) im 10. Stadtbezirk
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO und Privatgrund: Moosach Narrisch, Straßenfasching am 07.02.2026, am Moosacher St.-Martins-Platz
+- TOP 6.3.: Bestellung einer städtischen Leistung: 2 Bänke auf dem Schöpferplatz
+- TOP 3.3.2.1.: Pickelstraße 2
