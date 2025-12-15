@@ -1,0 +1,21 @@
+# Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2026
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-254/2025 8. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2025-12-15
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZRosoUNocenkY37hHQ9cDmU
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3862
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2026) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZS77YJrd0oX7acaZDV4UXAHYiDqLxsaeV5B0_ous8bR/Beschlussvorlage_VL-254-2025_8._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Bürgermeisterin Simke Ried zur STVV 11.11.2025 - Erlass HH-Satzung 2026) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUF7KeGJdlqrXnAJKoNbbN12cDDS55-u20lhXP_s3wJF/Antrag_Buergermeisterin_Simke_Ried_zur_STVV_11.11.2025_-_Erlass_HH-Satzung_2026.pdf
+- Anlage: Beschlussvorlage (251112 Entwurf Haushaltssatzung 2026) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUtPEYrk4d6KzrkSwBYt1IUXlQ7xh1uoZJmdQs2_5-1D/251112_Entwurf_Haushaltssatzung_2026.pdf
+- Anlage: Beschlussvorlage (Änderungsantrag Grünen-Fraktion) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfFnu-enkkVKDgBfi0glO5fM6M-OnwJkXbti3ZFFoFks/Aenderungsantrag_Gruenen-Fraktion.pdf
+- Anlage: Beschlussvorlage (Änderungsantrag SPD-Fraktion) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ4MJuYwws0M7mHgSi-A0hhrCU-kJNQlldDMIO3ZYAr6/Aenderungsantrag_SPD-Fraktion.pdf
+- Anlage: Beschlussvorlage (251211 Haushaltssatzung 2026 final) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfnJVQtlQIUaHd8RyVlu54IfShdaoQGBwl-jrayhAt6q/251211_Haushaltssatzung_2026_final.pdf
+- Anlage: Beschlussvorlage (2025-11-26 Mittelanmeldung Ortsbeiräte 2026) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeLnQvurllp8fAVGJBaATBGpvwaQtog8yIZxu6ogXgup/2025-11-26_Mittelanmeldung_Ortsbeiraete_2026.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1336 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1390 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1391 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1338 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-13
