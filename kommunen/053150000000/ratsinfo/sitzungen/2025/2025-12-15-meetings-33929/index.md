@@ -1,0 +1,90 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2025-12-15T14:35:00+01:00
+- Ende: 2025-12-15T15:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33929
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33929
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung der Schriftführung - ungeändert beschlossen
+- TOP -: Verpflichtung sachkundiger Bürger
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Auswirkung der Steuerschätzung aus Oktober 2025 - Kenntnis genommen
+- TOP 2.3: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 2.4: Beantwortung einer mündlichen Anfrage von RM Achtelik (VOLT) aus der Sitzung des Finanzausschusses vom 1.09.2025 betreffend TOP 6.2.2 - Kenntnis genommen
+- TOP 2.5: Monatsbericht Sanierung der Bühnen Köln - Kenntnis genommen
+- TOP 2.6: Mitteilung zur weiteren nachhaltigen Kapitalmarkttransaktion - Kenntnis genommen
+- TOP 2.7: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Finale Sachstandsmitteilung - Kenntnis genommen
+- TOP 2.8: Eilverfahrensbeschlüsse zur „Steuersatzerhöhung Vergnügungssteuer Geldspielgeräte“ - Kenntnis genommen
+- TOP 2.9: Umsetzung des geänderten Mittel- und Freigabeschlusses zur Umsetzung des Prozesses "Bezahlbar Bauen und Wohnen in Köln" (VO 1866/2025) - Kenntnis genommen
+- TOP 2.10: Vergütungsbericht 2024 - Kenntnis genommen
+- TOP 2.11: Mitteilung zum Sachstand zum Entschuldungsprogramm des Landes NRW – Altschuldenentlastungsgesetz NRW (ASEG NRW) - Kenntnis genommen
+- TOP 2.12: Umbau und Sanierung des Umweltbildungszentrums im Gut Leidenhausen - Bedarfsfeststellungs- und Planungsbeschluss - Kenntnis genommen
+- TOP 2.13: Neue Bevölkerungsvorausberechnung des Statistischen Landesamtes / IT.NRW 2024 bis 2050/2070 - Kenntnis genommen
+- TOP 2.14: Finanzierung des erhöhten Eigenanteils für die Aufgabe Alltagshelfende in Kitas - Kenntnis genommen
+- TOP 2.15: Grundsteuerreform: Entscheidung des Verwaltungsgerichts (VG) Gelsenkirchen vom 04.12.2025 zur Rechtmäßigkeit der Hebesatzdifferenzierung - Kenntnis genommen
+- TOP 2.16: Investitionsförderungen gem. LuKIFG / NRW Infrastrukturgesetz - Kenntnis genommen
+- TOP 2.17: Haushaltsplanung 2027 ff. - Kenntnis genommen
+- TOP 2.18: Vergütung der Tätigkeit in Aufsichtsgremien von Beteiligungsunternehmen - Kenntnis genommen
+- TOP 2.19: Sachstand zum Beschluss des Hauptausschusses vom 29.09.2025 - Anmietung Leonhard-Tietz-Straße 1, 50676 Köln – Genehmigung der Umbaukosten und vorzeitige Mietvertragsverlängerung 0481/2025 - vertagt
+- TOP 2.20: Ausgang Kommunalverfassungsbeschwerde gegen Gemeindefinanzierungsgesetz - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: KVB-Wachstumsszenario prioritär weiterverfolgen - endgültig abgelehnt
+- TOP 3.2: Ein Herz für Tierheimhunde – Erlass der Hundesteuer für ältere Hunde aus dem Tierheim - Sache ist erledigt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.3: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung 2027 bis 2029 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus mit einer Ein- und einer Dreifachturnhalle für die Gesamtschule und die Grundschule Helios als inklusive Universitätsschule der Stadt Köln, Vogelsanger Str. 200, 5082 - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.2: Maßnahmenpaket Schulbau-Generalinstandsetzungen - Bedarfsfeststellungsbeschluss - ohne Votum behandelt
+- TOP 10.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Schulgebäude der Förderschule emotionale und soziale Entwicklung Zülpicher Straße 194, 50937 Köln - ungeändert empfohlen
+- TOP 10.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln - ungeändert empfohlen
+- TOP 10.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Berufskolleg 14, Aussenstelle Perlengraben 101, 50676 Köln - Bedarfsfeststellungsbeschluss - ungeändert empfohlen
+- TOP 10.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Adolph-Kolping-Straße 41, 51147 Köln - ungeändert empfohlen
+- TOP 10.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung am Maximilian-Kolbe-Gymnasium, Nachtigallenstraße 19-21, 51147 Köln - Bedarfsprüfungsbeschluss - ungeändert empfohlen
+- TOP 10.8: Bedarfsfeststellungs-, Planungs- und Baubeschluss für das Gymnasium Köln Pesch, Schulstr.18, 50767 Köln - ungeändert empfohlen
+- TOP 10.9: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2024 - ungeändert empfohlen
+- TOP 10.10: 18. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ungeändert empfohlen
+- TOP 10.11: Anpassung der Benutzungs- und Entgeltordnung der Stadtbibliothek Köln - ungeändert empfohlen
+- TOP 10.12: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2026 - ungeändert empfohlen
+- TOP 10.13: Geschäftsbesorgungsvertrag der eigenbetriebsähnlichen Einrichtung "Planung und Realisierung Parkstadt Süd" mit moderne stadt GmbH - ohne Votum behandelt
+- TOP 10.14: 5. Satzung zur Änderung der Hundesteuersatzung der Stadt Köln - ohne Votum behandelt
+- TOP 10.14.1: Änderungsantrag zu TOP 10.14 - Anpassung der Hundesteuersatzung - Erlass der Hundesteuer - verwiesen in nachfolgende Gremien
+- TOP 10.15: Wirtschaftsplan 2026 der eigenbetriebsähnlichen Einrichtung "Planung und Realisierung der Parkstadt Süd" - ohne Votum behandelt
+- TOP 10.16: Feststellung des Wirtschaftsplanes der Beihilfekasse der Stadt Köln 2026 - ungeändert empfohlen
+- TOP 10.17: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2026 - ungeändert empfohlen
+- TOP 10.18: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan für das Geschäftsjahr 2026 - ungeändert empfohlen
+- TOP 10.19: Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstr. 71 - 73, 50823 Köln-Neuehrenfeld – Kostenfortschreibungsbeschluss - ungeändert empfohlen
+- TOP 10.20: RheinEnergie hier: rhenag-Beteiligung Stadtwerke Troisdorf GmbH – Änderung des Gesellschaftsvertrages - ungeändert empfohlen
+- TOP 10.21: GEW Köln AG: BRUNATA METRONA GmbH und METRONA GmbH - Sitzverlegung nach Köln - ungeändert empfohlen
+- TOP 10.22: Bedarfsfeststellungs- und Mittelfreigabebeschluss zur Umsetzung des Dialogprozesses „Köln baut bezahlbar | Wohnen für alle“ - ungeändert empfohlen
+- TOP 10.23: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2026 - ungeändert empfohlen
+- TOP 10.24: Satzung über die Abfallgebühren in der Stadt Köln 2026 - ungeändert empfohlen
+- TOP 10.25: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ungeändert empfohlen
+- TOP 10.26: Bewerbung Olympische / Paralympische Spiele; Ratsbürgerentscheid und Bedarfsfeststellung - ungeändert empfohlen
+- TOP 10.27: Zuschuss für die Schull- un Veedelszöch und die Musikkapellen an die „Freunde und Förderer des Kölnischen Brauchtums e.V." - ungeändert beschlossen
+- TOP 10.28: Zuschuss an die „Gemeinnützige Gesellschaft des Kölner Karnevals mbH" zur Durchführung des Rosenmontagszuges 2025 - ungeändert beschlossen
+- TOP 10.29: Annahme einer zweckgebunden Spende von "Wir helfen - Der Unterstützungsverein von M. DuMont Schauberg e. V." - ungeändert empfohlen
+- TOP 10.30: Butzweilerhof Grundbesitz GmbH und Co. KG: Liquidation - ungeändert empfohlen
+- TOP 10.31: Grundsteuer: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2026 und Beschluss über die Hebesatzsatzung - ungeändert empfohlen
+- TOP 10.32: Sonderausstellungen der Museen 1. Halbjahr 2026 - ungeändert empfohlen
+- TOP 10.33: Verlängerung des Belegungsrechtsvertrages mit der GAG Immobilien AG (GAG) - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
