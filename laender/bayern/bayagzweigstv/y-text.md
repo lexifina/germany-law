@@ -1,0 +1,1 @@
+Auf Grund von Art. II § 3 der Verordnung zur einheitlichen Regelung der Gerichtsverfassung vom 20. März 1935 (BGBl. III 300-5) sowie Art. 1 § 3 Satz 1, Art. 2 des Gesetzes über die Zuständigkeit der Gerichte bei Änderungen der Gerichtseinteilung vom 6. Dezember 1933 (BGBl. III 300-4) erläßt das Bayerische Staatsministerium der Justiz folgende Verordnung:
