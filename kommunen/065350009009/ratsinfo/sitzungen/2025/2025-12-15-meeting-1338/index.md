@@ -1,0 +1,67 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (52. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2025-12-15T19:30:00+01:00
+- Ende: 2025-12-15T22:35:00+01:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZRvW_0tksgSOnxwz3mKmSwk
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1338
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeAuZW9Kg2VZYpfzoBg_BNZPYKbXffSouhypW2AeP88l/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_15.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbobPkrj3bSTu2YZBk07DYXTwXr2w-HydykzbEcFwI66/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_15.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Anfragen
+- TOP 4.1: Anfrage Fraktion BÜRGERFORUM betreffend Entwicklung der Verkehrsströme nach Freigabe der A 49 von Schwalmstadt bis zum Ohmtaldreieck
+- TOP 4.2: Anfrage der Fraktion Ökologische Liste zum Neubau der KITA in Nieder-Ofleiden
+- TOP 4.3: Anfrage Fraktion Ökologische Liste zur aktuellen Kita-Situation in Homberg (Ohm)
+- TOP 4.4: Anfrage Fraktion Ökologische Liste zu Wasserentnahmen aus den Hydranten am Diebachsgraben bei Appenrod durch die BauArge A49
+- TOP 4.5: Anfrage Fraktion Ökologische Liste - Ratten im Stadtgebiet von Homberg (Ohm)
+- TOP 4.6: Anfrage Fraktion Ökologische Liste zur Abstufung der K54 zwischen Dannenrod und Appenrod zur Gemeindestraße von Homberg (Ohm)
+- TOP 4.7: Anfrage Fraktion BÜRGERFORUM betreffend Kaufangebot des Anwesens "Zur Hart 2"
+- TOP 4.8: Anfrage Fraktion BÜRGERFORUM betreffend vordringliche Beseitigung von Schlaglöchern in den Gemeindestraßen und Gehwegen
+- TOP 4.9: Anfrage Fraktion BÜRGERFORUM betreffend Tausch von Waldflächen zwischen dem Land Hessen und der Stadt Homberg (Ohm)
+- TOP 4.10: Anfrage Fraktion BÜRGERFORUM betreffend Entsorgung Bodenaushub
+- TOP 4.11: Anfrage Fraktion BÜRGERFORUM betreffend Umsetzung der Arbeiten in und rund um das Kapellchen
+- TOP 4.12: Anfrage Fraktion BÜRGERFORUM betreffend Beauftragung zur Erstellung der Erschließungsplanung im Rahmen des Bebauungsplans "Auf den Hohläckern" im Stadtteil Nieder-Ofleiden
+- TOP 4.13: Anfrage Fraktion BÜRGERFORUM betreffend Aufwendungen des Landes Hessen für die Ü3-Vormittagsbetreuung in den Kindertagesstätten der Stadt Homberg (Ohm) und der ev. Kindertagesstätte Maulbach
+- TOP 4.14: Anfrage Fraktion BÜRGERFORUM betreffend Reformierung der Fördermittelpraxis von Bund und Land
+- TOP 4.15: Anfrage Fraktion BÜRGERFORUM betreffend Beschaffung eines ELW1 für die Feuerwehren Grebenhain, Homberg und Schotten
+- TOP 4.16: Anfrage Fraktion BÜRGERFORUM betreffend Planungen und beabsichtigte Umsetzungen aus dem IKEK
+- TOP 4.17: Anfrage Fraktion BÜRGERFORUM betreffend Expandierungsbestrebungen im Tagebau Nieder-Ofleiden mit angrenzenden Gemarkungen
+- TOP 4.18: Anfrage Fraktion BÜRGERFORUM betreffend Bezuschussung neuer Hard- und Software für den Gewerbeverein Homberg (Ohm)
+- TOP 4.19: Anfrage Fraktion BÜRGERFORUM betreffend "interne" Sitzung von Ortsbeiratsmitgliedern verschiedener Stadtteile
+- TOP 4.20: Anfrage Fraktion BÜRGERFORUM betreffend Änderung des § 22 des Hessischen Kommunalwahlgesetzes
+- TOP 4.21: Anfrage Fraktion BÜ'RGERFORUM betreffend Stellenbewertungen durch die Firma SRS Schüllermann und Partner mbB
+- TOP 4.22: Anfrage Fraktion BÜRGERFORUM betreffend Ausschreibung einer befristeten Stelle im Bereich der Wasserversorgung
+- TOP 4.23: Anfrage Fraktion BÜRGERFORUM betreffend Erwerb reduzierter Dauerkarten für das Freibad durch städtische Bedienstete
+- TOP 4.24: Anfrage Fraktion BÜRGERFORUM betreffend Übernahme von Auszubildenden nach Prüfungsabschluss
+- TOP 4.25: Anfrage Fraktion Ökologische Liste zum Eigenjagdbezirk der Stadt Homberg (Ohm)
+- TOP 5.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 03.09.2025
+- TOP 6.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 11.11.2025
+- TOP 7.: Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2026 - (kein Text vorhanden)
+- TOP 8.: Ausschreibung Stromliefervertrag für die städtischen Liegenschaften im ganzen Stadtgebiet Netzbereich OVAG - (kein Text vorhanden)
+- TOP 9.: Antrag SPD-Fraktion betreffend Interessenbekundung am Bundesprogramm "Sanierung kommunaler Sportstätten" - (kein Text vorhanden)
+- TOP 10.: Änderung der Hauptsatzung der Stadt Homberg (Ohm)
+- TOP 11.: Antrag GRÜNEN-Fraktion auf Steigerung der Biodiversität
+- TOP 12.: Antrag Fraktion BÜRGERFORUM betreffend Kooperationsvereinbarung einer Initiative "Jugendgerechte Städte und Gemeinden" im Vogelsbergkreis
+- TOP 13.: Antrag Fraktion BÜRGERFORUM betreffend Bericht über die Bejagung des Eigenjagdbezirks im Rahmen der alljährlichen Beratung des Waldwirtschaftsplans
+- TOP 14.: Antrag Fraktion BÜRGERFORUM betreffend Auskunft Erteilung des Magistrats zum Bebauungsplan "Auf den Hohläckern" im Stadtteil Nieder-Ofleiden
+- TOP 15.: Antrag Fraktion BÜRGERFORUM betreffend Prüfung zur Errichtung einer Klärschlamm-Vererdungsanlage an der Gruppenkläranlage Ohmtal
+- TOP 16.: Antrag Fraktion BÜRGERFORUM betreffend Umgang mit verwahrlosten Immobilien
+- TOP 17.: Antrag Fraktion BÜRGERFORUM betreffend Sanierungskonzept zur Ertüchtigung der Brunnenanlagen in der Kernstadt Homberg (Ohm)
+- TOP 18.: Antrag Fraktion BÜRGERFORUM betreffend Vorlage der Jahresabschlüsse des Abwasserverbands Kirtorf ab dem Jahr 2013 und Überarbeitung von dessen Satzung
+- TOP 19.: Antrag Fraktion BÜRGERFORUM betreffend Bau eines behindertengerechten Zuganges für das Dorfgemeinschaftshaus im Stadtteil Nieder-Ofleiden
+- TOP 20.: Antrag Fraktion BÜRGERFORUM betreffend Genehmigung des Beschlussprotokolls zur 49. Sitzung der Stadtverordnetenversammlung am 03.09.2025
+- TOP 21.: Antrag Fraktion BÜRGERFORUM betreffend Auflösung des Umwelt- und Landschaftspflegeverbandes (ULV)
+- TOP 22.: Antrag Fraktion BÜRGERFORUM betreffend Verfahrensweise zum Feststellungsbescheid des Hessischen Statistischen Landesamts vom 07.11.2024 (Zensus 2022)
+- TOP 23.: Antrag Fraktion BÜRGERFORUM betreffend Förderprogramm des Bundes zur Sanierung kommunaler Sportstätten
+- TOP 24.: Antrag Fraktion BÜRGERFORUM betreffend Förderanträgen zum Bau von Musterfeuerwehrhäusern in den Stadtteilen Nieder-Ofleiden und Ober-Ofleiden/Gontershausen
+- TOP 25.: Antrag GRÜNEN-Fraktion auf Beklebung des Bürgerbusses im Design der Stadt Homberg (Ohm)
