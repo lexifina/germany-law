@@ -1,0 +1,85 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2025-12-16T18:00:00+01:00
+- Ende: 2025-12-16T19:41:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTnJ5NjJ4QOMNlIbJmIUT24
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21441
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQVqSYNn-DKiPFW6EK9OhpBumBr3sGPKfn9xaGk92B0B/Bekanntmachung_Rat_16.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIn1Kl0hJQdRjrxd152PCvMurmaGJsDNtuXq-KFZ_sC/Oeffentliche_Niederschrift_Rat_16.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 04.11.2025 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Beratung und Beschlussfassung über die Gültigkeit der Wahl des Bürgermeisters und der Stadtverordneten im Rat der Stadt Bad Münstereifel gemäß § 40 Kommunalwahlgesetz NRW - Einstimmiger Beschluss
+- TOP 5.: Maßnahmen zur Förderung der E-Bike-Herstellung in der Region hier: Antrag nach § 24 GO NRW - Die Beschlussfassung erfolgt in der RD 30-XII/Z-1
+- TOP -: Maßnahmen zur Förderung der E-Bike-Herstellung in der Region hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss
+- TOP 6.: Bürgerbegehren "Keine Umsetzung des Verkehrs-, Beschilderungs- und Parkraumkonzepts gemäß Ratsbeschluss vom 30.03.2023" (Ratsdrucksache: 791-XI/Z-1 bis 10 nebst Anlagen) hier: Entscheidung über die endgültige Zulässigkeit - Einstimmiger Beschluss 
+- TOP 7.: Hauptsatzung der Stadt Bad Münstereifel hier: Neufassung - Einstimmiger Beschluss
+- TOP 8.: Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Bad Münstereifel hier: Neufassung - Einstimmiger Beschluss
+- TOP 9.: Geschäftsordnung für den Rat der Stadt Bad Münstereifel hier: Neufassung - Einstimmiger Beschluss
+- TOP 10.: Archivsatzung der Stadt Bad Münstereifel hier: Erlass - Die Beschlussfassung erfolgt in der RD 77-XII/Z-1 
+- TOP -: Archivsatzung der Stadt Bad Münstereifel hier: Erlass; Anpassung Eingangsformel - Einstimmiger Beschluss
+- TOP 11.: Archivbenutzungsordnung der Stadt Bad Münstereifel hier: Erlass - Einstimmiger Beschluss
+- TOP 12.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern des Haushaltsjahres 2026 (Hebesatzsatzung) - Einstimmiger Beschluss bei 1 Enthaltung
+- TOP 13.: 39. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss
+- TOP 14.: 28. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss
+- TOP 15.: 3. Verordnung vom _______ zur Änderung der Gebührenordnung für die Benutzung von Parkeinrichtungen im Gebiet der Stadt Bad Münstereifel vom 12.01.2015 (Parkgebührenordnung) - Einstimmiger Beschluss
+- TOP 16.: Satzung über die Errichtung, Unterhaltung und Benutzung der Unterkünfte für Aussiedler, Asylbewerber und Obdachlose vom 08.05.2018 Hier: 3. Änderungssatzung - Mehrheitlicher Beschluss bei 1 Neinstimme
+- TOP 17.: Antrag auf Verkehrsberuhigung Ecke Nußbaumstraße/Hochstraße in Sasserath hier: Antrag der UWV-Fraktion vom 17.09.2025 - Die Beschlussfassung erfolgt in der RD 36-XII/Z-1
+- TOP 18.: Antrag auf Verkehrsberuhigung Ecke Nußbaumstraße/Hochstraße in Sasserath hier: Ausführung der Verwaltung - Einstimmiger Beschluss
+- TOP 19.: Antrag auf Verkehrsberuhigung im Bereich Kreuzung "Auf dem Schülen (zwischen Sasserath und Hilterscheid) hier: Antrag der UWV-Fraktion vom 17.09.2025 - Die Beschlussfassung erfolgt in der RD 37-XII/Z-1.
+- TOP -: Antrag auf Verkehrsberuhigung im Bereich Kreuzung "Auf dem Schülen“ (zwischen Sasserath und Hilterscheid) hier: Ausführung der Verwaltung - Einstimmiger Beschluss
+- TOP 20.: Maßnahme "Ausbau Iversheim, Am Bloch" hier: Antrag der CDU-Fraktion vom 07.10.2025 - Die Beschlussfassung erfolgt in der RD 41-XII/Z-2
+- TOP -: Maßnahme "Ausbau Iversheim, Am Bloch" hier: Ausführung der Verwaltung zum Antrag der CDU-Fraktion - Die Beschlussfassung erfolgt in der RD 41-XII/Z-2
+- TOP -: Maßnahme "Ausbau Iversheim, Am Bloch" hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss
+- TOP 21.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Eicherscheid hier: Vorstellung der Entwurfsplanung der Straßen Brigidastraße, Lingscheider Weg, Im Elsengarten und Schönauer Bergweg nach einer Bürgerbeteiligung am 13.11.2025 - Die Beschlussfassung erfolgt in der RD 69-XII/Z-1.
+- TOP -: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Eicherscheid hier: Beschluss der Entwurfsplanung der Straßen Brigidastraße, Lingscheider Weg, Im Elsengarten und Schönauer Bergweg - Einstimmiger Beschluss bei 1 Enthaltung
+- TOP 22.: Prüfung einer möglichen Landesförderung aus dem Programm "Reviergestalten" zur Wiederinstandsetzung des eifelbades hier: Antrag der CDU-Fraktion vom 07.10.2025 - Die Beschlussfassung erfolgt in der RD 38-XII/Z-2
+- TOP -: Prüfung einer möglichen Landesförderung aus dem Programm "Reviergestalten" zur Wiederinstandsetzung des eifelbades hier: Antrag der CDU-Fraktion vom 07.10.2025 - Einstimmiger Beschluss
+- TOP 23.: Prüfung eines Förderantrages zur Sanierung des eifelbades hier: Antrag der CDU-Fraktion vom 04.11.2025 - Die Beschlussfassung erfolgt in der RD 39-XII/Z-2
+- TOP -: Prüfung eines Förderantrages zur Sanierung des eifelbades hier: Antrag der CDU-Fraktion vom 04.11.2025 - Einstimmiger Beschluss
+- TOP 24.: Brandschutzbedarfsplan hier: Antrag der UWV-Fraktion vom 01.12.2025 - Beschlussfassung erfolgt in der RD 91-XII/Z-1. 
+- TOP -: Brandschutzbedarfsplan hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss
+- TOP 25.: Förderprogramm "Sanierung kommunaler Sportstätten" Hier: Gymnastikhalle Grundschule Bad Münstereifel - Beschlussfassung erfolgt in der RD 85-XII/Z-1.
+- TOP -: Förderprogramm "Sanierung kommunaler Sportstätten" Hier: Gymnastikhalle Grundschule Bad Münstereifel - Einstimmiger Beschluss
+- TOP 26.: Behindertenbeirat hier: Neubenennung der Mitglieder aus den Fraktionen - Beschlussfassung erfolgt in der RD 32-XII/Z-1
+- TOP -: Behindertenbeirat hier: Neubenennung der Mitglieder aus den Fraktionen - Einstimmiger Beschluss
+- TOP 27.: Stromliefervertrag für die Straßenbeleuchtung im Stadtgebiet für die Jahre 2026 - 2028 hier: Sachstand - Einstimmiger Beschluss
+- TOP 28.: 28. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung hier: Wassergebühren 2026 - Einstimmiger Beschluss
+- TOP 29.: 47. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung: hier: Abwassergebühren (Kanalbenutzungsgebühren) 2025 - Einstimmiger Beschluss
+- TOP 30.: 3. Satzung zur Änderung der Betriebssatzung der Stadtwerke Bad Münstereifel hier: § 4 Betriebsausschuss - Beschlussfassung erfolgt in der RD 61-XII/Z-1
+- TOP -: 3. Satzung zur Änderung der Betriebssatzung der Stadtwerke Bad Münstereifel hier: § 4 Betriebsausschuss - Einstimmiger Beschluss
+- TOP 31.: 19. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (abflusslose Gruben und Kleinkläranlagen) hier: Kalkulation Entsorgungsgebühren 2025 - Einstimmiger Beschluss
+- TOP 32.: Prüfung und Wiedervorlage im Bau- und Feuerwehrausschuss (RD 592-XI/Z-6) Linksabbiegespur L 11 und beabsichtigter Wiederaufbau/Optimierung der Brücken Floting und Hubertuskapelle hier: Gemeinschaftlicher Antrag von CDU und SPD vom 17.11.2025 - Beschlussfassung erfolgt in der RD 74-XII/Z-3
+- TOP -: Prüfung und Wiedervorlage im Bau- und Feuerwehrausschuss (RD 592-XI/Z-6) Linksabbiegespur L 11 und beabsichtigter Wiederaufbau/Optimierung der Brücken Floting und Hubertuskapelle hier: Stellungnahme der Verwaltung - Beschlussfassung erfolgt in der RD 74-XII/Z-3Beschluss
+- TOP -: Prüfung und Wiedervorlage im Bau- und Feuerwehrausschuss (RD 592-XI/Z-6) Linksabbiegespur L 11 und beabsichtigter Wiederaufbau/Optimierung der Brücken Floting und Hubertuskapelle hier: Nachtrag zum gemeinsamen Antrag der CDU-Fraktion und SPD-Fraktion - Beschlussfassung erfolgt in der RD 74-XII/Z-3
+- TOP -: Prüfung und Wiedervorlage im Bau- und Feuerwehrausschuss (RD 592-XI/Z-6) Linksabbiegespur L 11 und beabsichtigter Wiederaufbau/Optimierung der Brücken Floting und Hubertuskapelle hier: weitere Informationen - Mehrheitlicher Beschluss bei 1 Neinstimme
+- TOP 33.: Beschaffung und Einrichtung eines neues Servers Hier: Server für die Software "DATEV" - Die Beschlussfassung erfolgt in der RD 45-XII/Z-2
+- TOP -: Beschaffung und Einrichtung eines neues Servers Hier: Server für die Software "DATEV" - Einstimmiger Beschluss
+- TOP 34.: Besetzung einer Beigeordnetenstelle hier: Geschäftsverteilung und Stellenanforderungsprofil - Einstimmiger Beschluss
+- TOP 35.: Erlass der Wirtschaftspläne 2026 des Eigenbetriebs Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser; hier: Feststellung - Die Beschlussfassung erfolgt in der RD 54-XII/Z-1
+- TOP -: Erlass der Wirtschaftspläne 2026 des Eigenbetriebs Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser; hier: Feststellung - Einstimmiger Beschluss
+- TOP 36.: Erlass des Wirtschaftsplanes 2026 des Forstbetriebes der Stadt Bad Münstereifel hier: Feststellung - Einstimmiger Beschluss bei 1 Enthaltung
+- TOP -: Erlass des Wirtschaftsplanes 2026 des Forstbetriebes der Stadt Bad Münstereifel hier: Reduzierung der Aufwendungen im Erfolgsplan - Die Beschlussfassung erfolgte in der RD 21-XII/Z-1
+- TOP 37.: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Behandlung der Bilanzierungshilfe gem. § 6 NKF-CUIG - Mehrheitlicher Beschluss bei 4 Enthaltungen
+- TOP 38.: Anfragen und Mitteilungen
+- TOP 38.1: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2026
+- TOP 38.2: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 38.3: Bericht zum 30.11.2025 im Rahmen des Finanzcontrollings
+- TOP 38.4: Altschuldenentlastungsgesetz Nordrhein-Westfalen (ASEG NRW) Hier: Prüfungsbericht nach § 4 Abs. 2 Nr. 3 ASEG NRW
+- TOP 38.5: Bushaltestelle Hummerzheim Anfrage des Stadtverordneten Norbert Lindemann, AfD-Fraktion
+- TOP 38.6: Friedhofssatzung Anfrage des Stadtverordneten Jakob Edmund Daniel, UWV-Fraktion
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Sachstand und weitere Umsetzung - Mehrheitlicher Beschluss mit 11 Nein-Stimmen, 4 Enthaltungen
+- TOP 2.: Stromliefervertrag für die Straßenbeleuchtung im Stadtgebiet für die Jahre 2026 - 2028 hier: Beauftragung - Einstimmiger Beschluss
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Letter of Intent
+- TOP 3.2: Grundstücksangelegenheit
