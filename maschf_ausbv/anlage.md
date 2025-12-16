@@ -50,7 +50,6 @@
 | b) | Wert- und Reststoffe sammeln, trennen und lagern |
 | 13 | Warten und Inspizieren von Maschinen und Anlagen (§ 4 Nr. 13) | Werkzeuge, Maschinen und Anlagen nach Vorgaben kontrollieren und warten | 4 |
 | 14 | Durchführen von qualitätssichernden Maßnahmen (§ 4 Nr. 14) | Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden | 2 |
-|  |  |  |  |  |
 | II. Berufliche Fachbildung - 2. Ausbildungsjahr - |
 | A. Schwerpunkt: Metall- und Kunststofftechnik |
 | Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im 2. Ausbildungsjahr |
