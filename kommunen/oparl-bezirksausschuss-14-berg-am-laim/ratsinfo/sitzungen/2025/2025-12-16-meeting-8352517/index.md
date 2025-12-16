@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2025-12-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8352517
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8352517
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 25.11.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 25.11.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Rosenheimer Bahndamm - Radverkehr
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Friedenstr. 40 - Einbau einer Seilnetzkonstruktion zur Verhinderung der Überkletterbarkeit des Terrassengeländers im 18. OG der Technischen Rathauses München, mit integrierter Photovoltaikanlage
+- TOP 3.1.2.: Hansjakobstr. 53a - Neubau einer Wohnanlage mit 60 WE, anteilig öffentlich gefördert (MMM) mit zugehörigen Stellplätzen in einer Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.3.: Permoserpl. 5 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.1.4.: St.-Veit-Str. 6 - Nachverdichtung Wohnanlage Aufstockungen mit 2 Geschossen und 88 Wohneinheiten und Neubauerweiterung Wohnheim mit 77 Wohneinheiten (St.-Veit-Str. 6-8 / Sankt-Veit-Str. 13-23)- VORBESCHEID
+- TOP 3.1.5.: Benehmensverfahren im Rahmen der Feststellung der Denkmaleigenschaft des Anwesens Guffertstr. 28; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 01.03.2026
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Anordnung des Kurven-Haltverbot in der Trausnitzstr. Ecke Gammelsdorfer Str.; Anhörung des Mobilitätsreferats, Frist bis zum 02.01.2026
+- TOP 3.2.2.: Parksituation in der Hermann-Weinhauser-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Austausch einer Lichtsignalanlage in der Anzinger-/ Rosenheimer Str.; Anhörung des Mobilitätreferats, Frist bis zum 08.01.2026
+- TOP 3.2.4.: Haltverbotsschild mit Zusatz am Innsbrucker Ring; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Installation des Gefahrzeichen "Kinder" im Bereich des Parkzugangs Behrpark; Anhörung des Mobilitätsreferats, Frist bis zum 05.01.2026
+- TOP 3.2.6.: Warmwasserausfälle in Immobilien der Münchner Wohnen; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Projektvorschlag für Bewegung und mentale Gesundheit im öffentlichen Raum; Anliegen aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget die Urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3.250,00€ Az.:0262.0-14-0480
+- TOP 3.5.2.: Hermann-Weinhauser-Straße: Verkehrsdaten mit TOPO-Box erheben
+- TOP 3.5.3.: (E) Stadtbezirksbudget FC Phönix München e. V. Errichtung eines Blockbohlenhaus, 02. - 03.2026 4.640,77 €; Az. 0262.0-14-0484
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hansjakobstr. 53a
+- TOP 3.6.2.: Permoserpl. 5
+- TOP 3.6.3.: St.-Veit-Str. 6
+- TOP 3.6.4.: Trainsjochstr. 16
+- TOP 3.6.5.: St.-Veit-Str. 21
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten November 2025
+- TOP 4.1.2.: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP 4.1.3.: Nadelbaum an der Baumkirchner Straße 18 pflanzen
+- TOP 4.1.4.: Michaeliburgstr. 21 - Nutzungsänderung von Hotel in Kindertagesstätte und Anbau eines Wintergartens - Vorbescheid
+- TOP 4.1.5.: Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Investive Konsolidierung 2028 ff. – Stand und Ergebnis • Mittelübertragung vom Kommunalreferat • Stellungnahme zum Antrag des Bezirksausschusses 7
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Zwei-Richtungsradweg über die Schatzbogenbrücke Schatzbogen (Westseite)
+- TOP 4.2.2.: Zwei-Richtungsradweg auf dem Schatzbogen bis Hansjakobstraße (Westseite)
+- TOP 4.2.3.: Arbeiten im Straßenraum
+- TOP 4.2.4.: Zweckentfremdung
+- TOP 4.2.5.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 4.2.6.: Neue Nord-Süd-Verbindung Berg am Laim vorantreiben
+- TOP 4.2.7.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 4.2.8.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage am Standort Schüleinstraße 2
+- TOP 4.2.9.: Erweiterung der bestehenden Mobilfunksendeanlage am Standort Aschheimer Str. 30
+- TOP 4.2.10.: Aufstellfläche für den Radverkehr in der oberen Riedgaustraße
+- TOP 4.2.11.: Dritte Programmanpassung „Wohnen in München VII“ Sozialgerechte Bodennutzung in München (SoBoN) A) Auswirkungen der Fördermittelsituation auf den geförderten und Preisgedämpften Mietwohnungsbau B) Auftrag zur Novellierung der Sozialgerechten Bodennutzung C) Bürgerversammlungsempfehlung
+- TOP 4.2.12.: Zusätzliche Fahrradständer in der Langkofelstraße
+- TOP 4.2.13.: 2. Stammstrecke, PFA 3 Ost, 9. Planänderung: Anpassungen im Bereich des Rampenbauwerks oberirdisch Ost
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Fortsetzung Projekt im Kulturbürgerhaus in Berg am Laim
+- TOP 4.4.2.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.3.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.4.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement, Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 4.4.5.: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2025 - 2029
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Unterstützung des BA09 Neuhausen-Nymphenburg: "Solidarität mit der ehemaligen Redaktion des HALLO-Werbeblatts und Sorge um die zukünftige Berichterstattung"
+- TOP 1.1.1.: Nachtrag TOP 3.5.4: (E) Stadtbezirksbudget ESV München-Ost e. v. - Abt. Fußball Ausbau Teeküche im Vereinsheim der Abt. Fußball für Kinder- und Jugendcamps vom 01.01. - 30.04.2026 9.822,14 €; Az. 0262.100-14-0485
+- TOP 3.5.4.: (E) Stadtbezirksbudget ESV München-Ost e. v. - Abt. Fußball Ausbau Teeküche im Vereinsheim der Abt. Fußball für Kinder- und Jugendcamps vom 01.01. - 30.04.2026 9.822,14 €; Az. 0262.100-14-0485
+- TOP 1.1.2.: Nachtrag TOP 3.5.5: (E) Stadtbezirksbudget MAGs - München Aktiv für Gesundheit e. V. (für Weha-Treff) Ausstattung und Renovierung zur Ermöglichung vielfältiger Bewohnerangebote 5.000,00 €; Az. 0262.100-14-0486
+- TOP 3.5.5.: (E) Stadtbezirksbudget MAGs - München Aktiv für Gesundheit e. V. (für Weha-Treff) Ausstattung und Renovierung zur Ermöglichung vielfältiger Bewohnerangebote 5.000,00 €; Az. 0262.100-14-0486
