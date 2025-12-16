@@ -1,0 +1,55 @@
+# Rat der Stadt Bad Pyrmont (25. Sitzung)
+
+- Körperschaft: Stadt Bad Pyrmont
+- Beginn: 2025-12-16T17:00:00+01:00
+- Ende: 2025-12-16T20:44:00+01:00
+- Ort: Rathaus, Rathausstraße 1, 31812 Bad Pyrmont, Ratssaal
+- Status: 
+- Gremium: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZS9JCut5CP6yTJcvGfw5FvQ
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/21029
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeTnuQ4-EQUmifqvdxYNFOu3hgYfn5ta-NDpYEH3NORl/Bekanntmachung_Rat_der_Stadt_Bad_Pyrmont_16.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS0eZxO6ve7Be8k6HfB6DwIFzvAStl1e7kH1-p5OlmZU/Oeffentliche_Niederschrift_Rat_der_Stadt_Bad_Pyrmont_16.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit sowie der Tagesordnung
+- TOP 2.: Genehmigung des Protokolls über die Sitzung am 18.09.2025
+- TOP 3.: Einwohnerfragestunde
+- TOP 3.1: Finanzielle Entlastung der Stadt Bad Pyrmont
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Bekanntgabe der Fraktionen und Gruppen im Rat - Zur Kenntnis genommen
+- TOP 6.: Benennung der Beigeordneten - Zur Kenntnis genommen
+- TOP 7.: Bestimmung der Stellvertreterinnen und Stellvertreter für den Verwaltungsausschuss - Zur Kenntnis genommen
+- TOP 8.: Feststellungsbeschluss über die Zusammensetzung des Verwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Benennung der Ausschussmitglieder und deren Vertreterinnen und Vertreter - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Regularien
+- TOP 10.1: Mitteilungen und Berichte
+- TOP 10.1.1: Kommunalwahl 2026; Bildung eines Wahlbereiches - Zur Kenntnis genommen
+- TOP 10.2: Bekanntgabe von Eilentscheidungen
+- TOP 10.2.1: Eilentscheidung zu dem außerplanmäßigen Aufwand nach § 117 NKomVG in Verbindung mit § 89 NKomVG für den Kesselaustausch der Heizungsanlage der Sporthalle Südstraße - Zur Kenntnis genommen
+- TOP 11.: Ernennung der Ortsbrandmeister und stv. Ortsbrandmeister für den Zeitraum 01.01.2026 bis 31.12.2031 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Ernennung des StBM Maik Gödeke zum Ehrenstadtbrandmeister - Einstimmig, 6 Enthaltung(en)
+- TOP 13.: Bericht des Vorsitzenden des Verwaltungsrates der Stadtsparkasse Bad Pyrmont - Zur Kenntnis genommen
+- TOP 14.: Jahresabschluss 2024 der Stadtsparkasse Bad Pyrmont - Entlastung des Verwaltungsrates - - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Zustimmung zu einem überplanmäßigen Aufwand nach § 117 Abs. 1 NKomVG für Personalaufwendungen der Stadt Bad Pyrmont - 18 Ja-Stimme/n, 3 Gegenstimme/n, 4 Stimmenthaltung/en
+- TOP 16.: Zustimmung zu einem überplanmäßigen Aufwand nach § 117 Abs. 1 NKomVG für Personalkosten des Bauhofes der Stadt Bad Pyrmont - Einstimmig, 1 Enthaltung(en)
+- TOP 17.: Beschluss der Satzung über die Festsetzung der Hebesätze für die Grund- und Gewerbesteuer in der Stadt Bad Pyrmont (Hebesatzsatzung) - 18 Ja-Stimme/n, 8 Gegenstimme/n, 1 Stimmenthaltung/en
+- TOP 18.: 3. Änderungssatzung der Hundesteuersatzung der Stadt Bad Pyrmont - 9 Ja-Stimme/n, 18 Gegenstimme/n, 0 Stimmenthaltung/en
+- TOP 19.: 4. Änderung zur Satzung der Stadt Bad Pyrmont über die Erhebung einer Vergnügungssteuer für das Benutzen von Spiel-, Unterhaltungs-, Geschicklichkeits-, Warenspiel- und ähnlichen Apparaten (Vergnügungssteuersatzung) - 18 Ja-Stimme/n, 8 Gegenstimme/n, 1 Stimmenthaltung/en
+- TOP 20.: Haushaltsplan und Haushaltssatzung 2026
+- TOP 20.1: Haushaltssicherungskonzept 2026 gemäß § 110 Abs. 8 NKomVG - Zur Kenntnis genommen
+- TOP 20.2: Beschluss des produktorientierten doppischen Haushaltes 2026 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2026 - 8 Ja-Stimme/n, 19 Gegenstimme/n, 0 Stimmenthaltung/en
+- TOP 21.: Stadtforst
+- TOP 21.1: Haushaltssicherungskonzept 2026 der Stadtforst gemäß § 110 (8) NKomVG - Einstimmig, 1 Enthaltung(en)
+- TOP 21.2: Beschluss des produktorientierten doppischen Haushalts 2026 und Beschluss der Haushaltssatzung der Stadtforst 2026 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Vertretung der Stabsstelle Wirtschaftsförderung der Stadt Bad Pyrmont und der Bad Pyrmont Tourismus GmbH als Beisitze im Vorstand der Werbegemeinschaft Pyrmont e. V. - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Einführung der Ganztagsbetreuung ab 2026; Umfang der Betreuung - 24 Ja-Stimme/n, 1 Gegenstimme/n, 2 Stimmenthaltung/en
+- TOP 24.: Koordinierungsstelle für die Ganztagsbetreuung ab 2026 - 26 Ja-Stimme/n, 1 Gegenstimme/n, 0 Stimmenthaltung/en
+- TOP 25.: Zukunftsperspektive Hort im Pestalozzi-Bildungshaus Bad Pyrmont - Einstimmig, 1 Enthaltung(en)
+- TOP 26.: Gebäudezustände innerhalb des Sanierungsgebietes – Aktualisierung der Kartendarstellung - Einstimmig, 7 Enthaltung(en)
+- TOP 27.: Dorfgemeinschaftshäuser (DGH) Änderung der Benutzungs- und Gebührenordnungen - Einstimmig, 7 Enthaltung(en)
+- TOP 28.: Annahme und Verwendung von Spenden, Schenkungen und ähnlichen Zuwendungen - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: Beantwortung von Anfragen
