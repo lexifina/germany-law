@@ -1,0 +1,53 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2025-12-17T17:00:00+01:00
+- Ende: 2025-12-17T19:51:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQZPyb0S02HvVGpET2s01QI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6278
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZai7VZcOVFAJzFL0PxCEBnzC8abn3HguVoq2cw-Vs6v-/Oeffentliche_Niederschrift_Rat_17.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 19.11.2025
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Liquidation der Stadtwerke Gronau Glasfaser GmbH - Einstimmig, 0 Enthaltungen
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der CDU-Fraktion vom 24.11.2025; "Sanierung und Weiterentwicklung des Bahnhaltepunkts Eper Bahnhof sowie der Schrankenanlage Vennstr." - Einstimmig, 0 Enthaltungen
+- TOP 6.: Einbringung des Haushalts 2026 - Einstimmig, 0 Enthaltungen
+- TOP 7.: 22. Änderungssatzung zur Abfallgebührensatzung der Stadt Gronau (Westf.) - 50 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 8.: 2. Änderungssatzung zur Hundesteuersatzung der Stadt Gronau (Westf.) vom 17.12.2001 - Einstimmig, 0 Enthaltungen
+- TOP 9.: 5. Änderungssatzung zur Satzung der Stadt Gronau (Westf.) zur Umlage der Kosten der Gewässerunterhaltung gemäß § 64 LWG - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss der Stadt Gronau (Westf.) für das Haushaltsjahr 2024 1. Prüfung durch den Rechnungsprüfungsausschuss 2. Feststellung durch den Rat - Einstimmig, 0 Enthaltungen
+- TOP 11.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2024 - Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 12.: Änderungssatzung zur Satzung des Jugendamtes der Stadt Gronau (Westf.) vom 01.09.2025 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Satzung über die Vergabe von Aufträgen unterhalb der Schwellenwerte gem. § 106 GWB - Einstimmig, 0 Enthaltungen
+- TOP 14.: Billigung der Teilnahme am Interessenbekundungsverfahren des Förderaufrufs „Sanierung kommunaler Sportstätten (SKS)“ - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 305 "Martin-Luther-Schule", Stadtteil Gronau (beschleunigtes Verfahren gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: 112. Änderung des Flächennutzungsplans für den Bereich "Windenergiegebiet Am Berge", Stadtteil Epe Ergänzendes Verfahren zur Darstellung als Beschleunigungsgebiet gem. § 249c BauGB Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: 116. Änderung des Flächennutzungsplans für den Bereich des Bebauungsplans Nr. 234 "Hoher Weg", 4. Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauG 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Planbeschluss - 50 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Änderung der Gesellschaftsverträge der städtischen Beteiligungsgesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 19.: Sachstand zur Flüchtlingssituation (Stand November 2025)
+- TOP 20.: Sachstand zum Letter of Intent (LOI) - Zusammenarbeit mit den Gemeenten Enschede und Losser (Stand November 2025)
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.: Benennung von Vertreterinnen/ Vertretern in der Schulkonferenz - Einstimmig, 0 Enthaltungen
+- TOP 23.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 24.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 24.1: Verabschiedung I. Stöhr (WF Gronau)
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 25.1: Sachstand medizinisches Versorgungszentrum
+- TOP 25.2: Grundsteuerunsicherheit
+- TOP 25.3: Livestreaming von Ratssitzungen
+- TOP 26.: Anfragen
+- TOP 26.1: Aufzeichnung v. Sitzungen (Anfrage v. RM Gabbe)
+- TOP 26.2: Verkehrsführung aufgrund Feuerwerksverkauf (Anfrage v. RM Westermann)
+- TOP 26.3: Verkehrschaos Enschederstraße (Anfrage v. RM Bakenecker)
+- TOP 26.4: Sachstand Dragstra Parkplatz (Anfrage v. RM Kernebeck)
+- TOP 26.5: Glückwunschschreiben zur Geburt (Anfrage v. RM Stenau-van Wüllen)
+- TOP 26.6: Weihnachtsmarkt Epe (Anfrage v. RM Doetkotte)
