@@ -64,7 +64,7 @@
 | c) | Baugruppen nach technischen Unterlagen montieren und demontieren |
 | d) | Maß-, Form- und Lagetoleranzen sowie Oberflächenbeschaffenheit zuordnen |
 | e) | Werkzeuge unter Berücksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie auswählen sowie Technologiedaten ermitteln und einstellen |
-| 4 | Steuerungs- und Regelungstechnik (§ 4 Nr. 10) | Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften bedienen |  |
+| 4 | Steuerungs- und Regelungstechnik (§ 4 Nr. 10) | Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften bedienen |
 | 5 | Einrichten und Bedienen von Produktionsanlagen (§ 4 Nr. 11) | a) | Produktionsmaschinen und -anlagen nach Vorgaben rüsten und umrüsten | 18 |
 | b) | Prozessdaten einstellen und optimieren |
 | c) | Maschinen und Anlagen unter Berücksichtigung der Sicherheitsbestimmungen in Betrieb nehmen |

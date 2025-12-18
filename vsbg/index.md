@@ -53,7 +53,7 @@
 ## Abschnitt 7 Zentrale Anlaufstelle für Verbraucherschlichtung, Liste der Verbraucherschlichtungsstellen und Berichtspflichten
 
 - [§ 32 Zentrale Anlaufstelle für Verbraucherschlichtung und Mitteilungspflichten der zuständigen Behörden und Aufsichtsbehörden](0032.md)
-- [§ 33 Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission und zur Europäischen Plattform zur Online-Streitbeilegung](0033.md)
+- [§ 33 Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission](0033.md)
 - [§ 34 Berichtspflichten und Auskunftspflichten der Verbraucherschlichtungsstelle](0034.md)
 - [§ 35 Verbraucherschlichtungsbericht](0035.md)
 
@@ -65,8 +65,8 @@
 ## Abschnitt 9 Grenzübergreifende Zusammenarbeit
 
 - [§ 38 Zusammenarbeit mit ausländischen Streitbeilegungsstellen](0038.md)
-- [§ 39 Zusammenarbeit mit der Europäischen Plattform zur Online-Streitbeilegung](0039.md)
-- [§ 40 Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten; Kontaktstelle für die Europäische Plattform zur Online-Streitbeilegung](0040.md)
+- [§ 39 (weggefallen)](0039.md)
+- [§ 40 Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten](0040.md)
 
 ## Abschnitt 10 Schlussvorschriften
 
