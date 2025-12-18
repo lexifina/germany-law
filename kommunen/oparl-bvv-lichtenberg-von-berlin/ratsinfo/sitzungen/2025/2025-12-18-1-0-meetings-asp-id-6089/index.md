@@ -1,0 +1,81 @@
+# 47. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2025-12-18T17:00:00+01:00
+- Ende: 2025-12-18T21:50:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6089
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6089
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=440798
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Ausgeböllert: Böllern rund um den Jahreswechsel einschränken - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Nachweisung der im Haushaltsjahr 2023 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Bezirkshaushaltsrechnung 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Junge Erwachsene aus HzE-Maßnahmen gezielt in Wohnungen vermitteln - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Durchblick spenden: Brillen sammeln für den guten Zweck - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Hitzeschutz erlebbar machen - Sprühnebelsysteme für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Schule im Campus Herzbergstraße ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Wohin in den Ferien? Infoflyer zu Ferienangeboten drucken - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Nutzungsuntersagungen vermeiden - Verwaltungshandeln koordinieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Aufstellung von Sitzbänken und Mülleimern auf dem Marktplatz des "Mein Falkenberg Kiez" - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Rückbau defekter, nicht zuzuordnender Beleuchtung in öffentlichen Grünanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Verkehrsinfarkt verhindern - akute Sicherung der Stellplatzsituation "Am Lindenplatz" in Friedrichsfelde - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Jugendhilfeplan erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Ein Tag für den Frieden - ein Fest für alle - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Die Garagen in der Schwarzmeerstraße müssen bleiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.16: Endlich Bauvorhaben auf dem Gelände des ehemaligen Nettomarktes in der Siegfriedstraße umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.17: Klarheit über Ausgaben für die Umsetzung der Container aus der Salzmannstraße schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Regelmäßiger Bericht über die Jugendhilfeplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.19: 100 Jahre Plattenbauweise in Deutschland - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Bürgerbeteiligung für das Ostseeviertel - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Bobbi und Nicole für die Kinder in Lichtenberg und ganz Berlin retten - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Lichtenberger Kindertagesstättenentwicklungsplan 2025 - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Sondermittelantrag Selbstverteidigungskurs für Senioren - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Jubiläum 100 Jahre erste Plattenbausiedlung Deutschlands in Lichtenberg in der Öffentlichkeit sichtbarer machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Tempo 30 an FGÜ in Lichtenberg - überwiesen
+- TOP 5.26: Privatparkplätze öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Schluss mit der Rattenplage - überwiesen
+- TOP 5.28: Mülleimer zwischen Rummelsburg und Ostkreuz - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Gesicherter Überweg zwischen Elsa-Neumann-Schule und Phönix-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 5.30: Fertigstellung der Rahmenpläne Karlshorst-Ost und Karlshorst-Nordwest - überwiesen
+- TOP 5.31: Innenentwicklungskonzept "Am Tierpark" anpassen - überwiesen
+- TOP 5.32: Für eine Express-Buslinie zwischen Neu-Hohenschönhausen und Buch - überwiesen
+- TOP 5.33: Eisbären Juniors mit Fördermitteln auf die Rollen bringen - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: Eine freie Schule im Wohnhaus - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - im Ausschuss abgelehnt
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - erledigt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 9.1: Kein Alkoholverkauf bei Sitzungen der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 9.2: Schutzmaßnahmen gegen zunehmende Gewalt in Schulen - in der BVV abgelehnt
+- TOP 9.3: Runder Tisch Salzmannstraße 34 - überwiesen
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Weiterentwicklung des bezirklichen Zentren- und Einzelhandelskonzepts - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Kein Werben fürs Sterben - in der BVV abgelehnt
+- TOP 10.3: Dorfkate in Falkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Wiedereröffnung einer gastronomischen Einrichtung im Ratskeller des Rathauses Lichtenberg - in der BVV abgelehnt
+- TOP 10.5: Die Miete erhöht sich, der Bezirk wappnet sich: Mieter*innen in Lichtenberg zur Seite stehen - überwiesen
+- TOP 10.6: Demokraten gewinnen - Schüler bei der Ausübung ihrer Grundrechte unterstützen - überwiesen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Wahlen und Stimmzählungen im Berliner Bezirk Lichtenberg - erledigt
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Kriminellen das Handwerk legen - Verbundeinsätze ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Der Radbahn U5 den Weg ebnen - überwiesen
+- TOP 14.2: Queerfeindliche Gewalt nicht weiter unbeachtet lassen - ohne Änderungen in der BVV beschlossen
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
