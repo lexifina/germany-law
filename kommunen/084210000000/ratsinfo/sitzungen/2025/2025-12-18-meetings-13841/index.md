@@ -1,0 +1,52 @@
+# Sitzung des Gemeinderats
+
+- Körperschaft: Stadt Ulm
+- Beginn: 2025-12-18T16:05:00+01:00
+- Ende: 2025-12-18T20:00:00+01:00
+- Ort: Rathaus, Großer Sitzungssaal,
+- Status: 
+- Gremium: http://buergerinfo.ulm.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://buergerinfo.ulm.de/oparl/bodies/0001/meetings/13841
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/meetings/13841
+- Quelle: https://buergerinfo.ulm.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung Gemeinderat http://buergerinfo.ulm.de/oparl/bodies/0001/downloadfiles/a/00128075.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe und Behandlung der seit der letzten Gemeinderatssitzung an den Oberbürgermeister gerichteten schriftlichen Anträge und Schreiben - ohne Widerspruch
+- TOP 2: Bekanntgabe nicht öffentlich gefasster Beschlüsse - Kenntnis genommen
+- TOP 3: Besetzung der Stelle "Leiter*in der Abteilung IT (m/w/d)" - Wahl von Herrn Laue
+- TOP 5: Erlass der Haushaltssatzung der Stadt Ulm für das Haushaltsjahr 2026 nach der GD 901/25 mit der Festsetzung - des Haushaltsplans in der Fassung der Änderungsliste GD 920/25 des Stellenplans nach der GD 926/25 - mit Stimmenmehrheit beschlossen
+- TOP 6: Beteiligungsbericht 2025 (Jahresabschlüsse 2024) - Kenntnis genommen
+- TOP 7: Donaubad Ulm/Neu-Ulm GmbH - einstimmig beschlossen
+- TOP 8: 1. Schlussbericht über die örtliche Prüfung des Jahresabschlusses 2024 - einstimmig beschlossen
+- TOP 9: Entsorgungsbetriebe der Stadt Ulm
+- TOP 9.1: Jahresabschluss 2024 - einstimmig beschlossen
+- TOP 9.2: Wirtschaftsplan 2026 - einstimmig beschlossen
+- TOP 9.3: Abwassergebühren 2026 - einstimmig beschlossen
+- TOP 9.4: Abfallgebühren 2026 und Änderung der Abfallwirtschaftssatzung - einstimmig beschlossen
+- TOP 9.5: Abfallwirtschaft - einstimmig beschlossen
+- TOP 10: Standortverlagerung der EBU - einstimmig beschlossen
+- TOP 11: Bebauungsplan "Reutlinger Straße - Wiblinger Ring" - mit Stimmenmehrheit beschlossen
+- TOP 12: Bebauungsplan Bismarckring zwischen Neue Straße und Arsenalstraße - mit Stimmenmehrheit beschlossen
+- TOP 13: Umbau Linie 1 – Stationsmaßnahmen: Wendeanlage Donaustadion & Haltestelle Ehinger Tor - mit Stimmenmehrheit beschlossen
+- TOP 14: Landesgartenschau 2030 - Umbau des Verkehrsknotens Ehinger Tor, Bauabschnitt 1 - mit Stimmenmehrheit und Ergänzung
+- TOP 15: ÖPNV-Zielnetz 2027: Infrastrukturausbauprogramm 2025 - 2031 - einstimmig beschlossen
+- TOP 16: Abbruch und Neubau Grundschule Eichenplatz (ohne Kindertageseinrichtung) - einstimmig beschlossen
+- TOP 17: Gesamtsanierung Altes Forsthaus in Söflingen, Klosterhof 23 - einstimmig beschlossen
+- TOP 18: Sanierungsgebiet "Weststadt II" - einstimmig beschlossen
+- TOP 19: Sanierungsgebiet "Dichterviertel" - einstimmig beschlossen
+- TOP 20: Sanierungsgebiet "Dichterviertel II" - einstimmig beschlossen
+- TOP 21: Sanierungsgebiet "Wengenviertel" - einstimmig beschlossen
+- TOP 22: Änderung von Grundschulbezirken der Jörg-Syrlin-Grundschule und der Grundschule Grimmelfingenl - einstimmig beschlossen
+- TOP 23: Bundesprogramm "Sanierung kommunaler Sportstätten" - einstimmig beschlossen
+- TOP 24: Erlass der Satzung über das Offenhalten der Verkaufsstellen an den Sonntagen 29.03.2026 und 04.10.2025 - mit Stimmenmehrheit beschlossen
+- TOP 25: Annahme eines Vermächtnisses - einstimmig beschlossen
+- TOP 26: Änderung in der Zusammensetzung des Jugendhilfeausschusses - mit Stimmenmehrheit beschlossen
+- TOP 27: Dank für die im Jahr 2025 geleistete Arbeit und gute Wünsche für das Weihnachtsfest sowie für das Jahr 2026 - Kenntnis genommen
+- TOP -: Offenlegung
+- TOP 28: Entlastung der Aufsichtsräte der städtischen Gesellschaften - Geschäftsjahr 2024 - ohne Widerspruch
+- TOP 29: Genehmigung von überplanmäßigen Auszahlungen in Höhe von 2.060.000 € bei Projekt Nr. 7.21300009 (Sanierung Friedrich-List Hauptgebäude) - ohne Widerspruch
+- TOP 30: Genehmigung von überplanmäßigen Auszahlungen bei Projekt 7.54100059 "Wallstraßenbrücke - Blaubeurer Tor-Tunnel" - ohne Widerspruch
+- TOP 31: Genehmigung von überplanmäßigen Auszahlungen bei Projekt Gänstorbrücke - Ersatzneubau“ - ohne Widerspruch
+- TOP 32: Zustimmung zur Annahme von Spenden - ohne Widerspruch
