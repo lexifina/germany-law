@@ -1,0 +1,56 @@
+# Rat (160. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2025-12-18T18:00:00+01:00
+- Ende: 2025-12-18T19:11:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZuGg3GAfzgUWNIBtrexZxQ
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18711
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVsHHAIlNk33ExsvfUJRfUZyqZWyqTxOiCE54iFDm5Dh/Bekanntmachung_Rat_18.12.2025.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUQK5G_ZGD_0l3Fx9uYVgBaLDrun5MVaECpdP-sdEQ_G/Oeffentliche_Niederschrift_Rat_18.12.2025.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die Sitzung vom 03.11.2025
+- TOP 3.: Niederschrift über die letzte Sitzung vom 06.11.2025
+- TOP 4.: Anträge und Anfragen; Eingänge
+- TOP 5.: Besetzung von Gremien - Einstimmig
+- TOP 6.: Unterhaltungsverbände Emsdettener Mühlenbach und Nordwalder Aa, Hummertsbach, Greven und Saerbeck: Wahl der Ausschussmitglieder der Gruppe C für die Wahlperiode 2026 - 2030 - 54 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 7.: Satzungsrecht
+- TOP 7.1: XIV. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 7.2: XIX. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - Einstimmig
+- TOP 7.3: II. Nachtrag zur Satzung der Stadt Emsdetten über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) vom 11. März 2015 - Ohne Abstimmung
+- TOP 7.4: I. Nachtrag zur Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Emsdetten vom 20.12.2017 - Abgesetzt
+- TOP 7.5: Änderung der Anlage 1 zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 7.6: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2026 - Einstimmig
+- TOP 8.: Abschluss einer öffentlich-rechtlichen Vereinbarung im Bereich des Betrieblichen Eingliederungsmanagements (BEM) - Einstimmig
+- TOP 9.: Stellenplan 2026 - Ohne Abstimmung
+- TOP 10.: Finanzangelegenheiten
+- TOP 10.1: Feststellung des Jahresabschlusses 2024, Entlastung des Bürgermeisters - Einstimmig
+- TOP 10.2: Beteiligungsbericht 2024 - Einstimmig
+- TOP 10.3: Jahresabschluss Gebäudereinigung 2024 - Einstimmig
+- TOP 10.4: Wirtschaftsplan - Gebäudereinigung der Stadt Emsdetten für das Jahr 2026 - 54 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.5: Jahresabschluss des Abwasserwerkes zum 31.12.2024 - Einstimmig
+- TOP 10.6: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2026 - Einstimmig
+- TOP 11.: Stadtwerke Emsdetten GmbH
+- TOP 11.1: Stadtwerke Emsdetten GmbH: Gründung einer Tochtergesellschaft für Energiedienstleistungen - Einstimmig
+- TOP 11.2: Vertretung in der Gesellschafterversammlung der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 12.: Bebauungspläne
+- TOP 12.1: Strategie zur Optimierung alter Bebauungspläne hinsichtlich Nachverdichtungsmöglichkeiten - Grundsatzbeschluss - 53 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 13.: Leitlinien zur Errichtung von Windenergieanlagen der Stadt Emsdetten - 52 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Allgemeine Stadtentwicklungsplanung
+- TOP 14.1: Bauvorhaben Kita Eisenbahnstraße - 52 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 15.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 15.1: Neubau der 23. Kindertageeinrichtung in Emsdetten - Zur Kenntnis genommen
+- TOP 16.: Schulangelegenheiten
+- TOP 16.1: Schulentwicklungsplan 2025 - Einstimmig
+- TOP 16.2: Medienentwicklungsplan für die Schulen der Stadt Emsdetten - Rückblick 2025 und Maßnahmen 2026 - Einstimmig
+- TOP 16.3: Bildung der Grundschuleingangsklassen für das Schuljahr 2026/27 - Einstimmig
+- TOP 17.: Sportangelegenheiten
+- TOP 17.1: Projekt Kunstrasenplatz SV Borussia Emsdetten 1930 e.V. - 54 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 18.: Verschiedenes
