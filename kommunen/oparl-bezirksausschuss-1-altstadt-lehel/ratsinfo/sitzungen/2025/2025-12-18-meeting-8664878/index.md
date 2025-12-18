@@ -1,0 +1,121 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2025-12-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8664878
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8664878
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Energieberatung: Angebot für Kampagnen in Stadtvierteln
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Hackenstr. 7 Umbau des Radspielerhauses mit Errichtung von Dachgauben, tlw. Dachausbau, Dachsanierung, Innenhofunterkellerung und -überdachung (tlw.), Einbau eines Personen- und eines Lastenaufzugs; Frist: 19.12.2025
+- TOP 3.1.2.: Blumenstr. 11 Nutzungsänderung EG: Büro und Tonstudio zu Jugendzentrum und 1.OG: Jugendzentrum zu Beratungs-, Workshop- und Schulungsräumen; Frist: 08.01.2026
+- TOP 3.1.3.: Triftstr. 2 Nutzungsänderung einer Bankfiliale zu einer Ladenfläche im EG mit Nebenräumen im 1. UG; Frist: 08.01.2026
+- TOP 3.1.4.: Riedlstr. 6 Dachaufstockung, Abgrabung Nordseite, Nutzungsänderung Erdgeschoss und Kellergeschoss von Gewerbe zu Wohnen., Errichtung eines Aufzuges an der westlichen Grundstücksgrenze, Aufbau von Balkonen an der Nordfassade, Abbruch bestehende Waschgarage im Hof- VORBESCHEID; Frist: 08.01.2026
+- TOP 3.1.5.: Herzogspitalstr. 11 Erweiterung, Aufstockung und Umnutzung eines Bestandsgebäudes in Wohnungen, Neubau von Dachterrassen auf Bestandsgebäude - ÄNDERUNGSANTRAG zu 1.2-2023-15347-21 - jetzt: Änderungsantrag zur: Erweiterung, Aufstockung und Umnutzung Bestandsgebäude (RGB und SGB) von Büro in Wohnen (4 WE), Neubau von Dachterrassen (SGB) mit Notleiteranlage und Errichtung von Balkonen (RGB und SGB): Verzicht auf geplante Nutzungsänderung im EG und 1. OG des Rückgebäudes und Reaktivierung der bestehenden Büroflächen in einen Multifunktionsraum und Büro für ein Friseurbedarfsgeschäft. Abweichung von der Holzbaurichtlinie sowie Ertüchtigung der Bestandsbalken im SGB (Decke über EG); Frist: 08.01.2026
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Baumfällungsantrag, Oettingenstr. 67, TOP 2025.11 B 3.2.3; Frist: 19.12.2025
+- TOP 3.2.2.: Baumfällungsantrag Maximilianstr. 53; Frist: 12.01.2026
+- TOP 3.2.3.: Baumfällungsantrag, Oettingenstr. 49; Frist: 21.12.2025
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Einrichtung eines Zebrastreifens vor dem Wilhelmsgymnasium
+- TOP 1.2.: Bürger*innenanliegen: Errichtung von Fahrradabstellplätzen in der Oettingenstraße 61-63
+- TOP 1.3.: Bürger*innenanliegen: Graggenau-Viertel Behindertenparkplatz
+- TOP 1.4.: Bürger*innenanliegen: Anordnung von Temposchwellen in der Galeriestraße
+- TOP 1.5.: Antrag Bündnis 90/Die Grünen: Taxistandort Alexandrastraße
+- TOP 1.6.: Antrag Bündnis 90/Die Grünen: Baumpflanzungen Altstadt
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Sparkassenstraße -Fußgängerüberweg (Zebrastreifen)
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Sicherheit Isartorplatz, TOP 2025.10 D 1.2, 2025.11 D 1.3
+- TOP 1.2.: Vorstellung des neu gegründeten Vereins „KinderFußballverein im Lehel“
+- TOP 1.3.: Kunstprojekt „Farben des Friedhofs“
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Bürgerhaus Glockenbachwerkstatt e.V. Gender Salon vom 28.01. -25.11.2026 600,00€; Az. 0262.0-1-0433
+- TOP 2.1.2.: (E) Stadtbezirksbudget Eibl Glinsböckel GbR Münchner Geigentage 2026 vom 30.04. -17.05.2026 2.842,18€; Az. 0262.0-1-0432
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "Kollektive EAREAR & AlmResidency" Die Natur der Sache vom 10.01. -09.02.2026 3.050,00€; Az. 0262.0-1-0434
+- TOP 2.1.4.: (E) Stadtbezirksbudget Init. "Isarfestspiele" Isarfestspiele vom 23. -25.04.2026 2.670,00€; Az. 0262.0-1-0436
+- TOP 2.1.5.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Hör- und Schaugeschichten vom 01.02.2026-31.01.2027 400,00€; Az.: 0262.100-1-0437
+- TOP 2.1.6.: (E) Stadtbezirksbudget Elternbeirat St. Anna Grundschule Aufführung traditioneller Schäfflertanz am 20.01.2026 196,15€; Az. 0262.100-1-0438
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Zweibrückenstr. 3: Genehmigung einer Freischankfläche
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: Bestellung einer städtischen Leistung: Holzliegen für den Isartorplatz
+- TOP 3: Anhörungen
+- TOP 3.1.: "Tanz der Marktfrauen" am 17.02.2026 (Faschingsdienstag) (Termin: 08.01.2026)
+- TOP 3.2.: Faschingsmarkt München Narrisch" Karlsplatz bis Marienplatz vom 15.02.2026 bis 17.02.2026 (Termin: 25.01.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2025 - 2029
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP B 4.4.: Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Investive Konsolidierung 2028 ff. – Stand und Ergebnis • Mittelübertragung vom Kommunalreferat • Stellungnahme zum Antrag des Bezirksausschusses 7
+- TOP B 4.5.: Hofgartenstr. 8, Nutzungsänderung der Hausmeisterwohnung zur Bürofläche im 1.Obergeschoß, Antwort Amt für Wohnen und Migration
+- TOP B 4.6.: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP B 4.7.: Dritte Programmanpassung „Wohnen in München VII“ Sozialgerechte Bodennutzung in München (SoBoN) A) Auswirkungen der Fördermittelsituation auf den geförderten und Preisgedämpften Mietwohnungsbau B) Auftrag zur Novellierung der Sozialgerechten Bodennutzung C) Bürgerversammlungsempfehlung
+- TOP B 4.8.: Müllerstraße 54, TOP 2025.11 B 3.1.3, Antwort Referat für Stadtplanung und Bauordnung
+- TOP B 4.9.: Mariannenstr. 5, Nutzungsänderung einer Wohnung im 2. OG mitte, in eine Einheit nach Art eines Berherbergungsbetriebs (Ferienwohnung); TOP 2025.06 B 4.3 Antwortschreiben Sozialreferat
+- TOP B 4.10.: Fällungsantrag Praterinsel 2, Stellungnahme UNB
+- TOP B 4.11.: Residenzstr. 7, Umbau und Sanierung des 1. und 2. Dachgeschosses mit Nutzungsänderung in Bürofläche, TOP 2025.02 B 3.1.4, Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP C 4.3.: Mitteilung über Netzmodernisierung und Erweiterung an Mobilfunkstandorten
+- TOP C 4.4.: Bürger*innenanliegen Nutzung Platz Am Gries, Antwortschreiben Kommunalreferat
+- TOP C 4.5.: Parken in der Steinsdorfstraße, Antwortschreiben Mobilitätsreferat
+- TOP C 4.6.: Gehwegparken Pestalozzistraße - behinderungsfreie Gehwege schaffen - ohne Parkplatzentfall
+- TOP C 4.7.: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP C 4.8.: Fortschreibung der Fachleitlinie Ökologie: Die Fachleitlinie Klima, Umwelt und globale Verantwortung, Vorstellung und Vorbereitung Öffentlichkeitsphase und Leitprojekte
+- TOP C 4.9.: Knallerverbotszone Mittlerer Ring und Feuerwerkabbrennverbot Tierpark
+- TOP C 4.10.: München ist heute eine Stadt der ewigen Baustellen
+- TOP C 4.11.: Sondernutzungserlaubnis Bücherschrank St.-Anna-Str. 20
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: MünchenBudget 2025: Die Gewinner-Vorschläge stehen fest!
+- TOP D 4.5.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP D 4.6.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP D 4.7.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement, Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP D 4.8.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau
+- TOP D 4.9.: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP D 4.10.: temporäre Kunstaktion "Exkursion" am 28.03.2026
+- TOP 0.2.: Ortstermin Baumpflanzungen Innenstadt, 150 Baumpflanzungen in der Altstadt
+- TOP 1.4.: BA eigenen Veranstaltung: Schäfflertanz im Lehel TOP 2025.11 D 1.8 - aktueller Sachstand
+- TOP 1.5.: BA eigenen Veranstaltung: Erinnern an Hugo Helbing TOP 2025.10 D 1.3 + TOP 2025.11 D 1.9 - aktueller Sachstand
+- TOP 2.1.7.: aus 11/2025 TOP 2.1.3 Stadtbezirksbudget Antragsteller*in: KTF Luitpold e.V. Maßnahme: neue Turngeräte für Regelbetrieb Turnabteilung in Versicherungskammer Beantragter Zuschuss: 11.484,00 €
