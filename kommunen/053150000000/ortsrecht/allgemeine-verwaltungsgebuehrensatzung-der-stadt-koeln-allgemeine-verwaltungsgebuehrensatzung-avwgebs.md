@@ -1,28 +1,28 @@
 # Allgemeine Verwaltungsgebührensatzung der Stadt Köln (Allgemeine Verwaltungsgebührensatzung – AVwGebS)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2024-12-31 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/allgemeinen_verwaltungsgebuehrensatzung_241216.pdf
+- Datum: 2025-12-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/allgemeine-verwaltungsgebührensatzung_251217.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Allgemeine Verwaltungsgebührensatzung der Stadt Köln (Allgemeine Verwaltungsgebührensatzung – AVwGebS) vom 27. Dezember 1971
-in der Fassung der 17. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln
-vom 16. Dezember 2024
-ABl. StK 1972, S. 3 ff; 1982, S. 228, S. 378, 1985, S. 149, 1988, S. 463, 1993, S. 479, 2001, S. 279, 2005, S. 738, 2011, S. 121, 2017, S. 299, 2020, S. 647, 2023, S. 1, 2024, S. 243, 2025, S. 30 -
-Öffentliche Bekanntmachung vom 23.12.2022, vom 13.05.2024, vom 31.12.2024 -
-Der Rat der Stadt Köln hat in seiner Sitzung vom 12.12.2024 aufgrund der §§ 1, 2, 4 und 5 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (GV NW 1969, S. 712), der §§ 7, 77 Abs. 1 der Gemeindeordnung für das Land NordrheinWestfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV NW 1994, S. 666) und des § 2 Abs. 3 des Gebührengesetzes für das Land Nordrhein-Westfalen vom 23. August 1999 (GV NW 1999, S. 524) – jeweils in der bei Erlass der Satzung geltenden Fassung – diese Satzung beschlossen:
+in der Fassung der 18. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln
+vom 17. Dezember 2025
+ABl. StK 1972, S. 3 ff; 1982, S. 228, S. 378, 1985, S. 149, 1988, S. 463, 1993, S. 479, 2001, S. 279, 2005, S. 738, 2011, S. 121, 2017, S. 299, 2020, S. 647, 2023, S. 1, 2024, S. 243, 2025, S. 30, S. 480 -
+Öffentliche Bekanntmachung vom 23.12.2022, vom 13.05.2024, vom 31.12.2024, vom 18.12.2025 -
+Der Rat der Stadt Köln hat in seiner Sitzung vom 16.12.2025 aufgrund der §§ 1, 2, 4 und 5 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (GV NW 1969, S. 712) und der §§ 7, 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV NW 1994, S. 666) – jeweils in der bei Erlass der Satzung geltenden Fassung – diese Satzung beschlossen:
 §1 Gegenstand und Höhe der Verwaltungsgebühren
 (1) Verwaltungsgebühren werden für die in dem anliegenden Gebührentarif aufgeführten besonderen Leistungen in der dort vorgesehenen Höhe nach Maßgabe dieser Satzung und des Kommunalabgabengesetzes erhoben. Der Gebührentarif ist Bestandteil der Satzung.
 (2) Erfüllt eine besondere Leistung sowohl einen Gebührentatbestand des Allgemeinen Teils als auch des Besonderen Teils des Gebührentarifs, findet nur der Besondere Teil Anwendung.
 (3) Für mehrere besondere Leistungen werden die Gebühren auch dann nach den verschiedenen Tarifnummern des Gebührentarifs erhoben, wenn die Leistungen in zeitlichem oder sachlichem Zusammenhang stehen.
 (4) Die Erhebung von Verwaltungsgebühren aufgrund bundes- oder landesrechtlicher Vorschriften oder sonstiger Gebührensatzungen der Stadt Köln bleibt unberührt.
 §2 Ablehnung, Rücknahme und Widerspruchsbescheid
-(1) Wird ein Antrag auf eine gebührenpflichtige Leistung abgelehnt oder vor ihrer Beendigung vom Antragsteller zurückgenommen, werden 10 bis 75 v. H. der Gebühr
+(1) Wird ein Antrag auf eine gebührenpflichtige Leistung abgelehnt oder vor ihrer Beendigung vom Antragsteller zurückgenommen, werden 10 bis 75 v. H. der Gebühr erhoben, die bei ihrer Vornahme zu erheben wäre. Wird der Antrag lediglich wegen Unzuständigkeit abgelehnt, wird keine Gebühr berechnet.
 
-erhoben, die bei ihrer Vornahme zu erheben wäre. Wird der Antrag lediglich wegen Unzuständigkeit abgelehnt, wird keine Gebühr berechnet. (2) Für einen Widerspruchsbescheid wird nur dann eine Gebühr erhoben, wenn der Verwaltungsakt, gegen den Widerspruch eingelegt wurde, gebührenpflichtig ist und wenn und soweit der Widerspruch zurückgewiesen wird. Die Gebühr beträgt bei voller Zurückweisung 50 v. H. der für den angefochtenen Verwaltungsakt festzusetzenden Gebühr. Bei nur teilweiser Zurückweisung ermäßigt sie sich entsprechend.
+(2) Für einen Widerspruchsbescheid wird nur dann eine Gebühr erhoben, wenn der Verwaltungsakt, gegen den Widerspruch eingelegt wurde, gebührenpflichtig ist und wenn und soweit der Widerspruch zurückgewiesen wird. Die Gebühr beträgt bei voller Zurückweisung 50 v. H. der für den angefochtenen Verwaltungsakt festzusetzenden Gebühr. Bei nur teilweiser Zurückweisung ermäßigt sie sich entsprechend.
 §3 Umsatzsteuer
 (1) Bei den im Gebührentarif aufgeführten Beträgen handelt es sich um Nettobeträge (ohne Umsatzsteuer). Soweit besondere Leistungen von der Stadt Köln als Unternehmerin erbracht werden, erhöhen sich die Gebühren um den Betrag, der nach dem Umsatzsteuergesetz in der jeweils geltenden Fassung als Umsatzsteuer zu entrichten ist. Die Erhöhung ist Teil der Gebühr.
 (2) Dies gilt entsprechend § 2b Abs. 4 Nr. 3 Umsatzsteuergesetz auch für Leistungen des Amtes für Liegenschaften, Vermessung und Kataster bei der Wahrnehmung von Aufgaben der Landesvermessung und des Liegenschaftskatasters mit Ausnahme der Amtshilfe.
@@ -33,8 +33,8 @@ erhoben, die bei ihrer Vornahme zu erheben wäre. Wird der Antrag lediglich wege
 Gebührenfrei sind
 1. Mündliche Auskünfte,
 2. Amtshandlungen auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge, der Jugendund Familienhilfe und des Gesundheitswesens, soweit diese Aufgaben als Selbstverwaltungsangelegenheit wahrgenommen werden, sowie
-
 3. Amtshandlungen, welche die Stadt Köln gegenüber ihren Beamten, Angestellten, Arbeitern oder Versorgungsempfängern in Angelegenheiten vornimmt, die sich auf das bestehende oder frühere Dienst-, Arbeits- oder Versorgungsverhältnis beziehen.
+
 4. Erteilung von Zweitausfertigungen von Schulzeugnissen einschließlich der Zeugnisse der Rheinischen Musikhochschule, Abschriften dieser Zeugnisse und Beglaubigung der Zeugnisabschriften sowie Schülerbescheinigungen einschließlich SchülerErkennungskarten der Rheinischen Musikschule.
 §6 Persönliche Gebührenbefreiung
 Von der Entrichtung der Verwaltungsgebühren sind befreit:
@@ -48,15 +48,13 @@ Von der Entrichtung der Verwaltungsgebühren sind befreit:
 §8 Besondere bare Auslagen
 (1) Besondere bare Auslagen, die im Zusammenhang mit der besonderen Leistung entstehen, sind zu ersetzen. Das gilt auch, wenn der Zahlungspflichtige von der Entrichtung der Gebühr befreit ist, im Falle des § 6 jedoch nur, wenn die Auslagen im Einzelfall 25,00 € übersteigen. In Fällen der Amtshilfe bleibt § 8 Verwaltungsverfahrensgesetz für das Land Nordrhein-Westfalen unberührt.
 (2) Besondere bare Auslagen sind solche Barauslagen, die über den für den betreffenden Verwaltungszweig üblichen durchschnittlichen Rahmen ersichtlich hinausgehen.
-
 (3) Sie können auch demjenigen auferlegt werden, der sie durch unbegründete Einwendungen verursacht hat.
+
 (4) Bei größeren Auslagen können Vorschüsse erhoben werden. Die Leistung kann von der vorherigen Entrichtung abhängig gemacht werden.
 (5) Für den Ersatz der Auslagen gelten die Vorschriften dieser Satzung entsprechend.
-§9 Inkrafttreten
-Diese Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
+§9 Inkrafttreten Diese Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
 
-Gebührentarif der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln vom 27. Dezember 1971 in der Fassung der 17. Änderungssatzung
-vom 16. Dezember 2024
+Gebührentarif der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln vom 27. Dezember 1971 in der Fassung der 18. Änderungssatzung vom 17. Dezember 2025
 
 Nr.
 
@@ -110,24 +108,22 @@ Amt für Stadtentwicklung und Statistik
 
 Erteilung einer schriftlichen Genehmigung für die rechtsgeschäftliche Veräußerung eines Grundstückes und Bestellung und Veräußerung eines Erbbaurechts in förmlich festgelegten Sanierungsgebieten nach § 144 Abs. 2 Baugesetzbuch
 
-555,00 €
+589,00 €
 
 Erteilung einer schriftlichen Genehmigungsversagung für die rechtsgeschäftliche Veräußerung eines Grundstückes und Bestellung und Veräußerung eines Erbbaurechts in förmlich festgelegten Sanierungsgebieten nach § 144 Abs. 2 Baugesetzbuch (75 % der Genehmigungsgebühr)
 
-416,25 €
+441,75 €
 
 Nr. 15.2
 15.2.1
 15.3
 
 Gegenstand
-
-Gebühr
-
 Erteilung einer schriftlichen Genehmigung für Rechtsvorgänge in förmlich festgelegten Sanierungsgebieten nach § 144 Abs. 2 Baugesetzbuch für die Teilung eines Grundstückes bzw. die rechtsgeschäftliche Bestellung eines das Grundstück belastenden Rechts mit Ausnahme der Bestellung von Rechten im Zusammenhang mit der Durchführung von Baumaßnahmen und den damit verbundenen schuldrechtlichen Verträgen
 Erteilung einer schriftlichen Genehmigungsversagung für Rechtsvorgänge in förmlich festgelegten Sanierungsgebieten nach § 144 Abs. 2 Baugesetzbuch für die Teilung eines Grundstückes bzw. die rechtsgeschäftliche Bestellung eines das Grundstück belastenden Rechts mit Ausnahme der Bestellung von Rechten im Zusammenhang mit der Durchführung von Baumaßnahmen und den damit verbundenen schuldrechtlichen Verträgen (75 % der Genehmigungsgebühr)
 
-83,00 € 62,25 €
+Gebühr 87,00 €
+65,25 €
 
 Bescheinigung für Aufwendungen im Sinne der §§ 7h, 10f und 11a Einkommenssteuergesetz in städtebaulichen Sanierungsgebieten
 
@@ -181,9 +177,9 @@ Nachforschung über den Verbleib einer Überweisung der Stadtkasse an einen Glä
 
 Amt für Liegenschaften, Vermessung und Kataster Abgabe einer Ortssatzung (digital oder analog) Eintragung aus Bauleitplänen bis DIN A3 größer als DIN A3 Ortsbau- und Bodenrecht Auskünfte aus dem Ortsbau- und Bodenrecht (bis 3 Inhalte) Auskünfte aus dem Ortsbau- und Bodenrecht (ab 4 Inhalte)
 
-27,00 €
-46,00 € 91,00 €
-33,00 € 55,00 €
+28,00 €
+46,00 € 93,00 €
+34,00 € 56,00 €
 
 Nr. 23.4
 23.5 23.5.1 23.5.2 23.5.2.1
@@ -192,65 +188,45 @@ Nr. 23.4
 23.6.3
 
 Gegenstand
-
-Gebühr
-
-Umfassende Grundstücksinformation aus dem örtlichen Bau- und Planungsrecht ohne Eintragungen aus Bauleitplänen und ohne Baulastattest
-Abgabe von Lageplandaten
-
-79,00 €
-
+Umfassende Grundstücksinformation aus dem örtlichen Bau- und Planungsrecht ohne Eintragungen aus Bauleitplänen und ohne Baulastattest Abgabe von Lageplandaten
 Grundgebühr
-
-112,00 €
-
 bei digitaler Ausgabe je Element
-
 aus der Schlussmessung oder aus Planungsunterlagen bis zu 2 Jahre alt
-
-0,50 €
-
 aus Planungsunterlagen bis zu 4 Jahre alt
-
-0,35 €
-
 aus Planungsunterlagen älter als 4 Jahre
-
-0,25 €
-
 Vorkaufsrecht
+Gebühr für die Ausstellung eines Negativattests bei Nichtvorliegen des gesetzlichen Vorkaufsrechtes gem. § 24 BauGB Gebühr bei Vorliegen eines gesetzlichen Vorkaufsrechts gem. § 24 BauGB mit Abschluss einer Abwendungsvereinbarung ohne besonderen Aufwand Zuschlag zur Gebühr gem. 23.6.2 bei besonderem Aufwand (z. B. umfangreicher Korrespondenz mit Rechtsbeiständen, etc.)
 
-Gebühr für die Ausstellung eines Negativattests bei Nichtvorliegen eines Vorkaufsrechts
+Gebühr 81,00 €
+114,00 € 0,51 € 0,36 € 0,25 € 196,00 €
+938,00 €
+479,00 €
 
-218,00 €
-
-Gebühr bei Vorliegen eines Vorkaufsrechts mit Abschluss 902,00 € einer Abwendungsvereinbarung
-
-Zuschlag zur Gebühr bei Vorliegen eines Vorkaufsrechts 464,00 € mit Abschluss einer Abwendungsvereinbarung
-
-32.1 32.2 32.2.1 32.2.2
+32.1 32.2 32.2.1
 
 Amt für öffentliche Ordnung
 
-Ausstellen von Bescheinigungen über nicht abgegebene 17,00 € Fundsachen
+Ausstellen von Bescheinigungen über nicht abgegebene 15,00 € Fundsachen
 
 Vergabe von Grünflächen der Stadt Köln für Schützen-, Volks-, und sonstige Feste/Veranstaltungen
 
-Vergabe von Grünflächen und sonstigen Flächen im Standardverfahren mit niedrigem Verwaltungsaufwand Vergabe von Grünflächen und sonstigen Flächen mit einfachem Verwaltungsaufwand
+Vergabe von Grünflächen und sonstigen Flächen im Standardverfahren mit niedrigem Verwaltungsaufwand
 
-53,00 € 99,00 €
+58,00 €
 
-Nr. 32.2.3
+Nr. 32.2.2
+32.2.3
 32.2.4
 32.2.5 32.3
 32.3.1 32.3.2 32.3.3 32.3.4 32.3.5 32.3.6
 
-Gegenstand Vergabe von Grünflächen und sonstigen Flächen mit erhöhtem Verwaltungsaufwand Vergabe von Grünflächen und sonstigen Flächen mit hohem Verwaltungsaufwand Ortstermin (zusätzlich zu 32.2.1-4) Versand von Akten an Rechtsbeistände oder andere Verfahrensbevollmächtigte bis zu 15 Minuten Zeitaufwand bis zu 30 Minuten Zeitaufwand bis zu 45 Minuten Zeitaufwand bis zu 60 Minuten Zeitaufwand bis zu 90 Minuten Zeitaufwand bis zu 120 Minuten Zeitaufwand
+Gegenstand Vergabe von Grünflächen und sonstigen Flächen mit einfachem Verwaltungsaufwand Vergabe von Grünflächen und sonstigen Flächen mit erhöhtem Verwaltungsaufwand Vergabe von Grünflächen und sonstigen Flächen mit hohem Verwaltungsaufwand Ortstermin (zusätzlich zu 32.2.1-4) Versand von Akten an Rechtsbeistände oder andere Verfahrensbevollmächtigte bis zu 15 Minuten Zeitaufwand bis zu 30 Minuten Zeitaufwand bis zu 45 Minuten Zeitaufwand bis zu 60 Minuten Zeitaufwand bis zu 90 Minuten Zeitaufwand bis zu 120 Minuten Zeitaufwand
 
-Gebühr 177,00 €
-394,00 €
-64,00 €
-14,00 € 29,00 € 43,00 € 57,00 € 86,00 € 114,00 €
+Gebühr 107,00 €
+192,00 €
+427,00 €
+69,00 €
+14,00 € 29,00 € 43,00 € 58,00 € 86,00 € 115,00 €
 
 33.1
 33.1.1 33.1.2 33.1.3 33.1.4
@@ -261,23 +237,21 @@ Versand von Akten zur Aktenansicht mit einem Zeitanteil von
 
 bis zu 30 Minuten
 
-31,00 €
+33,00 €
 
 bis zu 45 Minuten
 
-47,00 €
+50,00 €
 
 bis zu 60 Minuten
 
-62,00 €
+66,00 €
 
 mehr als 60 Minuten
 
-94,00 €
+99,00 €
 
-Nr. 56.1
-56.2
-56.3 56.4 56.5 56.6 56.7 56.8 56.9 56.10
+Nr.
 
 Gegenstand
 
@@ -285,91 +259,112 @@ Gebühr
 
 Amt für Wohnungswesen
 
-Bewilligung von Fördermitteln zum Neu-, Um- und Ausbau von Miet- und Genossenschaftswohnungen, Förderung von Heimplätzen sowie Nachrüstung bestehender Wohnheime
+56.1
 
-0,4 % der bewilligten Darlehenssumme
+Bewilligung von Fördermitteln zum Neu-, Um- und
 
-Bewilligung von Mitteln im Zusammenhang mit der Förderung von Modernisierungsmaßnahmen im Bestand
+0,4 % der
 
-0,4 % der bewilligten Darlehenssumme
+Ausbau von Miet- und Genossenschaftswohnungen,
+
+bewilligten
+
+Förderung von Heimplätzen sowie Nachrüstung
+
+Darlehens-
+
+bestehender Wohnheime
+
+summe
+
+56.2
+
+Bewilligung von Mitteln im Zusammenhang mit der
+
+0,4 % der
+
+Förderung von Modernisierungsmaßnahmen im Bestand bewilligten
+
+Darlehens-
+
+summe
+
+56.3
 
 Kopie einer Wirtschaftlichkeitsberechnung
 
 16,00 €
 
-Einsichtnahme in die Darlehensakte (bei Bußgeldverfahren ist die Einsichtnahme kostenlos)
+56.4
 
-27,00 €
+Einsichtnahme in die Darlehensakte
 
-Standortprüfungen für den geförderten Wohnungsbau
+28,00 €
 
-107,00 €
+(bei Bußgeldverfahren ist die Einsichtnahme kostenlos)
 
-Genehmigung zur Übertragung von Grundstücken mit Förderzusage vor Bezugsfertigkeit
+56.5
 
-203,00 €
+Genehmigung zur Übertragung von Grundstücken mit
 
-Beantwortung von Anfragen von Sachverständigen bei Zwangsversteigerungen für freifinanzierte Objekte
+209,00 €
 
-13,00 €
+Förderzusage vor Bezugsfertigkeit
 
-Beantwortung von Anfragen von Sachverständigen bei 21,00 € Zwangsversteigerungen für öffentlich geförderte Objekte
+56.6
 
-Bewilligung von Mitteln im Zusammenhang mit Bindungsverlängerungen
+Beantwortung von Anfragen von Sachverständigen bei 14,00 €
 
-407,00 €
+Zwangsversteigerungen für freifinanzierte Objekte
 
-Bewilligung von Mitteln im Zusammenhang mit Bindungserwerben
+56.7
 
-746,00 €
+Beantwortung von Anfragen von Sachverständigen bei 23,00 €
+
+Zwangsversteigerungen für öffentlich geförderte Objekte
+
+56.8
+
+Bewilligung von Mitteln im Zusammenhang mit
+
+Bindungsverlängerungen
+
+418,00 €
+
+56.9
+
+Bewilligung von Mitteln im Zusammenhang mit
+
+Bindungserwerben
+
+766,00 €
+
+61.1 61.2 61.2.1
 
 Stadtplanungsamt
-
-61.1
 
 Flächennutzungsplan
 
 18,00 €
 
-61.2
-
 Druck des Flächennutzungsplanes im Urkundenmaßstab 18,00 €
-
-Nr. 61.2.1 61.2.2 61.3
-61.4 61.4.1 61.4.2 61.4.3
-61.4.4
-
-Gegenstand
-
-Gebühr
 
 Auszug aus dem Flächennutzungsplan (2 Seiten DIN A4) 27,00 €
 
-jedes weitere Blatt
+Nr. 61.2.2 61.3
+61.4 61.4.1 61.4.2 61.4.3 61.4.4
 
-12,00 €
+Gegenstand jedes weitere Blatt Publikationen
+Schriftliche, planungsrechtliche Auskunft je Grundstück Bebauungsplan mit öffentlich-rechtlichem Vertrag (analog) Bebauungsplan mit öffentlich-rechtlichem Vertrag (digital) Bebauungsplan ohne öffentlich-rechtlichen Vertrag (analog) kein Bebauungsplan
 
-Publikationen
-
-2,50 € 26,00 € (ggfls. zzgl. Umsatzsteuer)
-
-Schriftliche, planungsrechtliche Auskunft je Grundstück
-
-Bebauungsplan mit öffentlich-rechtlichen Vertrag (analog) 111,00 €
-
-Bebauungsplan mit öffentlich-rechtlichen Vertrag (digital) 72,00 €
-
-Bebauungsplan ohne öffentlich-rechtlichen Vertrag (analog)
-
-52,00 €
-
-kein Bebauungsplan
-
-39,00 €
+Gebühr 12,00 € 2,50 € 26,00 € (ggfls. zzgl. Umsatzsteuer)
+114,00 €
+74,00 €
+54,00 €
+40,00 €
 
 62.1 62.1.1 62.1.2 62.2
 62.2.1 62.2.2 62.3
-62.4
 
 Bauverwaltungsamt
 
@@ -377,54 +372,56 @@ Erschließungsbeitragsbescheinigung ohne Kostenangabe
 
 für die erste geprüfte Erschließungsanlage
 
-68,00 €
+70,00 €
 
 je weiterer geprüfter Erschließungsanlage
 
-45,00 €
+47,00 €
 
 Erschließungsbeitragsbescheinigung mit Angabe der voraussichtlich entstehenden Kosten
 
 für die erste geprüfte Erschließungsanlage
 
-221,00 €
+223,00 €
 
 je weiterer geprüfter Erschließungsanlage
 
-189,00 €
+191,00 €
 
 Löschungsbewilligung für Sicherungshypotheken zur Sicherung künftiger Straßenbaukostenforderungen
-Erteilung von Zustimmungsbescheiden nach § 127 Telekommunikationsgesetz je Maßnahme
 
-32,00 € 572,00 €
+32,00 €
 
-Nr. 62.5 62.5.1 62.5.2 62.6
+Nr. 62.4 62.5 62.5.1 62.5.2 62.6
 
 Gegenstand
 
 Gebühr
 
+Erteilung von Zustimmungsbescheiden nach § 127 Telekommunikationsgesetz je Maßnahme (Straße, Straßenabschnitt, Kabelverzweigerkasten o. Ä.)
+
+620,00 €
+
 Erteilung von Sondernutzungserlaubnissen nach §§ 18, 18a Straßen- und Wegegesetz NRW bzw. § 8 Bundesfernstraßengesetz
 
 ohne erhöhten Verwaltungsaufwand bei z. B. wiederkehrenden Anlagentypen, einfachen Straßenaufbrüchen, ohne Ortsterminerfordernis
 
-286,00 €
+310,00 €
 
 mit erhöhtem Verwaltungsaufwand bei z. B. umfangreichen Straßenaufbrüchen, mit Ortsterminerfordernis
 
-364,00 €
+395,00 €
 
 Festsetzung von Hausnummern je Gebäude oder wirtschaftlicher Einheit (Neufestsetzungen, Wiederfestsetzungen, Umnummerierungen, Festsetzung einer zusätzlichen Hausnummer) nicht bei der Festsetzung von Amts wegen
 
-111,00 €
+121,00 €
 
 63.1
-63.2 63.2.1 63.2.2
+63.1.1 63.1.2
 
-Bauaufsichtsamt Erteilung der Löschungsbewilligung für eine Sicherungshypothek zur Sicherung von Stellplatzablösebeträgen Bereitstellung von aktuellen Bauakten zur Akteneinsicht oder digitalen Übermittlung 1 Aktenordner 2 Aktenordner und mehr
+Bauaufsichtsamt Bereitstellung von aktuellen Bauakten zur Akteneinsicht oder digitalen Übermittlung 1 Aktenordner/digitaler Vorgang 2 Aktenordner/digitale Vorgänge oder mehr
 
-273,00 €
-45,00 € 63,00 €
+46,00 € 64,00 €
 
 Nr.
 
@@ -438,7 +435,7 @@ Amt für Verkehrsmanagement
 
 Erteilung einer schriftlichen Genehmigung von
 
-1.800,00 €
+2.470,00 €
 
 Ladesäuleninfrastruktur im öffentlichen Straßenraum in (ggfls. zzgl.
 
@@ -458,7 +455,7 @@ Baubegleitung bei der Durchführung von
 
 Bordsteinabsenkungen
 
-378,00 €
+387,00 €
 
 Zentrales Aktendepot
 
@@ -468,23 +465,23 @@ Bereitstellungsgebühren für die Vorlage von abgeschlossenen Bauakten zur Einsi
 
 1000.1.1 bei einem Aktenordner
 
-36,00 €
+33,00 €
 
 1000.1.2 bei 2-5 Aktenordnern
 
-45,00 €
+41,00 €
 
 1000.1.3 bei 6-10 Aktenordnern
 
-53,00 €
+49,00 €
 
 1000.1.4 bei 11-30 Aktenordnern
 
-74,00 €
+75,00 €
 
 1000.1.5 bei 31 oder mehr Aktenordnern
 
-97,00 €
+100,00 €
 
 1000.2
 
@@ -492,7 +489,7 @@ Fertigung von Kopien aus abgeschlossenen Bauakten zur sofortigen Mitnahme bzw. z
 
 1000.2.1 DIN A2
 
-5,00 €
+6,00 €
 
 1000.2.2 DIN A1
 
@@ -500,7 +497,7 @@ Fertigung von Kopien aus abgeschlossenen Bauakten zur sofortigen Mitnahme bzw. z
 
 1000.2.3 DIN A0
 
-7,00 €
+8,00 €
 
 Nr. 1000.3
 
