@@ -1,4 +1,4 @@
-# Anlage 2
+# Anlage 2 (zu § 2 Absatz 1)Verzeichnis und Tabelle der Lotsgelder
 
 A. Verzeichnis der Lotsgelder
 1 Beratungsgeld
