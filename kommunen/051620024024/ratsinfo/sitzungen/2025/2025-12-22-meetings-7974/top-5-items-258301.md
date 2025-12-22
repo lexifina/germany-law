@@ -1,0 +1,8 @@
+# TOP 5: Wahl der / des Vorsitzenden des Ausschusses für Chancengerechtigkeit und Integration der Stadt Neuss
+
+- Sitzung: Ausschuss für Chancengerechtigkeit und Integration (2025-12-22)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/258301
+- Ergebnis: mehrheitlich zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/37860
