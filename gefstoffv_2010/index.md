@@ -9,7 +9,7 @@
 
 ## Abschnitt 2 Gefahrstoffinformation
 
-- [§ 3 Gefahrenklassen](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Einstufung, Kennzeichnung, Verpackung](0004.md)
 - [§ 5 Sicherheitsdatenblatt und sonstige Informationspflichten](0005.md)
 - [§ 5a Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen](0005a.md)

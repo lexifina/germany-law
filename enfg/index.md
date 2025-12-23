@@ -48,7 +48,7 @@
 
 - [§ 25 Umlagebefreiung bei der Herstellung von Grünem Wasserstoff](0025.md)
 - [§ 26 Anforderungen an Grünen Wasserstoff](0026.md)
-- [§ 27 Berichtspflicht](0027.md)
+- [§ 27 (weggefallen)](0027.md)
 
 ### Abschnitt 4 Besondere Ausgleichsregelung
 
@@ -126,6 +126,6 @@
 - [§ 65 Verordnungsermächtigung zur Besonderen Ausgleichsregelung](0065.md)
 - [§ 66 Allgemeine Übergangsbestimmungen](0066.md)
 - [§ 67 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung](0067.md)
-- [§ 68 Beihilfevorbehalt](0068.md)
+- [§ 68 (weggefallen)](0068.md)
 - [Anlage 1 (zu § 2)Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs](anlage-1.md)
 - [Anlage 2 (zu § 31)Stromkosten- oder handelsintensive Branchen](anlage-2.md)

@@ -119,7 +119,7 @@ Betriebschronik](0053.md)
 - [§ 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang](0057b.md)
 - [§ 57c Verordnungsermächtigung](0057c.md)
 - [§ 57d Zulassungsverfahren für störfallrelevante Vorhaben](0057d.md)
-- [§ 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen](0057e.md)
+- [§ 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff](0057e.md)
 
 ### Drittes Kapitel Verantwortliche Personen
 

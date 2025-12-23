@@ -86,6 +86,7 @@
 - [§ 49e Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Abwicklungseinheiten](0049e.md)
 - [§ 49f Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Unternehmen, die selbst keine Abwicklungseinheit sind](0049f.md)
 - [§ 49g Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind](0049g.md)
+- [§ 49h Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Liquidationseinheiten](0049h.md)
 - [§ 50 Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten](0050.md)
 - [§ 51 Berichterstattung und Offenlegung der Anforderung](0051.md)
 - [§ 52 Berichterstattung der Abwicklungsbehörde an die Europäische Bankenaufsichtsbehörde](0052.md)

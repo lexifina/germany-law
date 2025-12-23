@@ -104,7 +104,6 @@
 
 #### Unterabschnitt 2 Bestimmungen zur Zahlung
 
-- [§ 57 Zweckbindung der Zahlungen](0057.md)
 - [§ 58 Meeresnaturschutz-, Fischerei- und Transformationskomponente](0058.md)
 - [§ 59 Stromkostensenkungskomponente](0059.md)
 
@@ -127,9 +126,12 @@
 - [§ 68 Planfeststellungsverfahren](0068.md)
 - [§ 69 Planfeststellungsbeschluss, Plangenehmigung](0069.md)
 - [§ 70 Plangenehmigung](0070.md)
+- [§ 70a Plangenehmigung für die Errichtung und den Betrieb von Windenergieanlagen auf See auf Beschleunigungsflächen](0070a.md)
+- [§ 70b Vorhaben in Infrastrukturgebieten](0070b.md)
 - [§ 71 Vorläufige Anordnung](0071.md)
 - [§ 72 Umweltverträglichkeitsprüfung; marine Biotope](0072.md)
 - [§ 72a Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577](0072a.md)
+- [§ 72b Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991](0072b.md)
 - [§ 73 Veränderungssperre](0073.md)
 - [§ 74 Sicherheitszonen](0074.md)
 - [§ 75 Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen](0075.md)

@@ -24,7 +24,7 @@
 - [§ 8b Ausschreibung der Förderung für innovative KWK-Systeme](0008b.md)
 - [§ 8c Ausschreibungsvolumen](0008c.md)
 - [§ 9 Neue KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 2 Kilowatt](0009.md)
-- [§ 10 Zulassung von neuen, modernisierten oder nachgerüsteten KWK-Anlagen](0010.md)
+- [§ 10 Zulassung von neuen, modernisierten oder nachgerüsteten KWK-Anlagen, elektronisches Verfahren](0010.md)
 - [§ 11 Überprüfung, Wirkung und Erlöschen der Zulassung](0011.md)
 - [§ 12 Vorbescheid für neue KWK-Anlagen mit einer elektrischen Leistung von mehr als 50 Megawatt](0012.md)
 - [§ 13 Zuschlagberechtigte bestehende KWK-Anlagen, Höhe des Zuschlags und Dauer der Zahlung](0013.md)
@@ -42,14 +42,14 @@
 
 - [§ 18 Zuschlagberechtigter Neu- und Ausbau von Wärmenetzen](0018.md)
 - [§ 19 Höhe des Zuschlags für den Neu- und Ausbau von Wärmenetzen](0019.md)
-- [§ 20 Zulassung für den Neu- und Ausbau von Wärmenetzen, Vorbescheid](0020.md)
+- [§ 20 Zulassung für den Neu- und Ausbau von Wärmenetzen, Vorbescheid, elektronisches Verfahren](0020.md)
 - [§ 21 Zuschlagzahlungen für Kältenetze](0021.md)
 
 ## Abschnitt 5 Zuschlagzahlungen für Wärmespeicher und Kältespeicher
 
 - [§ 22 Zuschlagberechtigter Neubau von Wärmespeichern](0022.md)
 - [§ 23 Höhe des Zuschlags für den Neubau von Wärmespeichern](0023.md)
-- [§ 24 Zulassung für den Neubau von Wärmespeichern, Vorbescheid](0024.md)
+- [§ 24 Zulassung für den Neubau von Wärmespeichern, Vorbescheid, elektronisches Verfahren](0024.md)
 - [§ 25 Kältespeicher](0025.md)
 
 ## Abschnitt 6 Finanzierung und Begrenzung der Zuschlagszahlungen

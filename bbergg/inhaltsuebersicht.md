@@ -92,7 +92,7 @@
 |  |  |  | Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang | § 57b |
 |  |  |  | Verordnungsermächtigung | § 57c |
 |  |  |  | Zulassungsverfahren für störfallrelevante Vorhaben | § 57d |
-|  |  |  | Verfahren im Zusammenhang mit Anlagen zur Erzeugung von Energie aus erneuerbaren Quellen | § 57e |
+|  |  |  | Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff | § 57e |
 |  | Drittes Kapitel |  |
 |  |  | Verantwortliche Personen |  |
 |  |  |  | Personenkreis | § 58 |

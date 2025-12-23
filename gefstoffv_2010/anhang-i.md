@@ -144,7 +144,7 @@ Im Arbeitsplan nach § 11a Absatz 1 Nummer 6 hat der Arbeitgeber insbesondere Fo
 1. Arbeitsverfahren und verwendete Arbeitsmittel,
 2. technische, organisatorische und persönliche Schutzmaßnahmen,
 3. das Verfahren, nach dem überprüft wird, dass im Arbeitsbereich nach Abschluss der Tätigkeiten keine Gefährdung durch Asbest mehr besteht.
-Bei Durchführung der Tätigkeiten mit einem anerkannten emissionsarmen Verfahren nach § 2 Absatz 4b kann die dem Verfahren zugrundeliegende Beschreibung den Arbeitsplan ersetzen.
+Bei Durchführung der Tätigkeiten mit einem anerkannten emissionsarmen Verfahren nach § 2 Absatz 4c kann die dem Verfahren zugrundeliegende Beschreibung den Arbeitsplan ersetzen.
 3.3 Schutzmaßnahmen
 (1)
 Bei der Festlegung und Umsetzung risikobezogener Schutzmaßnahmen nach § 11a Absatz 2 hat der Arbeitgeber sicherzustellen, dass
@@ -176,15 +176,22 @@ Der Arbeitgeber hat dem Zulassungsantrag Folgendes beizufügen:
 (1)
 Die Anzeige nach § 11a Absatz 4 erfolgt unternehmens- oder objektbezogen. Die Anzeige ist vor einer Änderung der Arbeitsbedingungen, die zu einer erheblichen Erhöhung der Exposition der Beschäftigten führen kann, erneut vorzunehmen. Der Anzeige ist die Dokumentation der Gefährdungsbeurteilung einschließlich des Arbeitsplans sowie der Nachweis der Qualifikation der verantwortlichen und aufsichtführenden Personen beizufügen.
 (2)
-Tätigkeiten im Bereich niedrigen oder mittleren Risikos sind unternehmensbezogen anzuzeigen. In der unternehmensbezogenen Anzeige hat der Arbeitgeber anzugeben:
+Tätigkeiten im Bereich niedrigen oder mittleren Risikos sind unternehmensbezogen anzuzeigen. In der unternehmensbezogenen Anzeige hat der Arbeitgeber anzugeben beziehungsweise vorzulegen:
 1. Ort der Betriebsstätte,
 2. Art und Menge der asbesthaltigen Materialien, die gehandhabt werden,
 3. ausgeübte Tätigkeiten und angewendete Arbeitsverfahren,
 4. Angabe des Risikobereichs einschließlich der Art der Expositionsermittlung,
 5. Anzahl der fachkundigen Beschäftigten,
+5a. Vor- und Nachname der voraussichtlich eingesetzten Beschäftigten,
+5b. einen Nachweis der fachlichen Kenntnisse und Fertigkeiten nach Anhang I Nummer 3.6 der voraussichtlich eingesetzten Beschäftigten und einen Nachweis über deren letzte arbeitsmedizinische Vorsorge nach § 3 der Verordnung zur arbeitsmedizinischen Vorsorge,
 6. Maßnahmen zur Begrenzung der Asbestexposition der Beschäftigten,
 7. Angaben zur verantwortlichen und aufsichtführenden Person.
 Unternehmensbezogene Anzeigen sind spätestens nach sechs Jahren erneut vorzunehmen.
+(2a)
+Die Genehmigung nach § 11a Absatz 4a wird aufgrund einer unternehmensbezogenen Anzeige nach Absatz 2 erteilt, wenn der Arbeitgeber dies im Rahmen der Anzeige anfordert und nachgewiesen hat, dass
+1. die für die Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung gegeben ist und
+2. die Einhaltung der einschlägigen Arbeitsschutzvorschriften gewährleistet ist.
+Die Genehmigung gilt nach Ablauf einer Frist von vier Wochen nach Eingang der unternehmensbezogenen Anzeige nach Absatz 2 als erteilt, sofern die Behörde in dieser Zeit keine Einwände erhebt. Die Genehmigung wird für einen Zeitraum von sechs Jahren erteilt. Sie kann mit Auflagen sowie mit dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden. Sie kann widerrufen werden, wenn die Voraussetzungen nach Satz 1 nicht mehr erfüllt sind. In begründeten Fällen kann eine kürzere Befristung als sechs Jahre festgelegt werden.
 (3)
 Bei wechselnden Arbeitsstätten
 1. sind bei Tätigkeiten im Bereich mittleren Risikos ergänzend zur unternehmensbezogenen Anzeige der Ort der Arbeitsstätte sowie Beginn und Dauer der Tätigkeiten anzuzeigen oder
@@ -192,7 +199,7 @@ Bei wechselnden Arbeitsstätten
 Für anerkannte emissionsarme Verfahren kann in den nach § 20 Absatz 4 bekannt gegebenen Regeln zusätzlich festgelegt werden, dass ergänzend zur unternehmensbezogenen Anzeige der Ort der Arbeitsstätte sowie Beginn und Dauer der Tätigkeit anzuzeigen sind.
 3.6 Fachkunde
 (1)
-Die Fachkunde nach § 11a Absatz 5 Nummer 3 umfasst die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um Tätigkeiten mit Asbest fachgerecht durchzuführen. Hinsichtlich Inhalt, Umfang und Bescheinigung der erforderlichen Fachkenntnisse sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
+Die Fachkunde nach § 11a Absatz 5 Nummer 3 umfasst auch die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um Tätigkeiten mit Asbest fachgerecht durchzuführen. Hinsichtlich Inhalt, Umfang und Bescheinigung der erforderlichen Fachkenntnisse sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
 (2)
 Die spezifische praxisbezogene Fortbildungsmaßnahme für eine aufsichtführende Person nach § 11a Absatz 5 Satz 3 ist von einer Körperschaft des öffentlichen Rechts oder einem gewerkespezifischen Fachverband durchzuführen. Sie bedarf keiner behördlichen Anerkennung. Der Lehrgangsträger hat der zuständigen Behörde die Durchführung entsprechender Qualifizierungsmaßnahmen einmal vor Beginn des jeweils ersten Lehrgangs mitzuteilen. Die Qualifikationsmaßnahme umfasst keine abschließende Prüfung. Die Teilnahme wird durch einen Qualifikationsnachweis bescheinigt. Der Qualifikationsnachweis ist zeitlich nicht befristet.
 3.7 Sachkunde
@@ -378,7 +385,7 @@ ammoniumnitrathaltige Gemische für die Zuordnung zu einer der Gruppen nach Numm
 (8)
 Ammoniumnitrat und ammoniumnitrathaltige Gemische, die den in Absatz 7 Tabelle 1 festgelegten Rahmenzusammensetzungen und Grenzen innerhalb der Gruppen A, B, C, D oder E nicht zuzuordnen sind oder den Voraussetzungen der Absätze 2 und 5 nicht entsprechen, dürfen nur nach Vorliegen eines Gutachtens der Bundesanstalt für Materialforschung und -prüfung über ihre Gefährlichkeit und nach Maßgabe der darin festgelegten Anforderungen gelagert, abgefüllt oder innerbetrieblich befördert werden.
 (9)
-Ammoniumnitrathaltige Gemische der Gruppe B können nach den für die Gruppe C geltenden Vorschriften gelagert, abgefüllt oder innerbetrieblich befördert werden, wenn diese Zubereitungen nach einem Gutachten der Bundesanstalt für Materialforschung und -prüfung frei von den Gefahren einer selbstunterhaltenden fortschreitenden thermischen Zersetzung sind.
+Ammoniumnitrathaltige Gemische der Gruppe B können nach den für die Gruppe C geltenden Vorschriften gelagert, abgefüllt oder innerbetrieblich befördert werden, wenn diese Gemische nach einem Gutachten der Bundesanstalt für Materialforschung und -prüfung frei von den Gefahren einer selbstunterhaltenden fortschreitenden thermischen Zersetzung sind.
 (10)
 Bei Zuordnung von Ammoniumnitrat und ammoniumnitrathaltigen Gemischen nach den Absätzen 3, 8 oder 9 ist die Kennzeichnung der Gruppe entsprechend dem Gutachten der Bundesanstalt für Materialforschung und -prüfung vorzunehmen.
 5.4 Vorsorgemaßnahmen
@@ -392,7 +399,7 @@ Bei der Lagerung von Stoffen und Gemischen der Gruppen A, B, C, D und E sind fol
 5.4.2 Zusätzliche Maßnahmen für Stoffe und Gemische der Gruppen und Untergruppen A, D IV und E
 5.4.2.1 Allgemeine Maßnahmen
 (1)
-Ausgelaufene oder verschüttete Stoffe und Gemische und verunreinigte Stoffe und Zubereitungen müssen unmittelbar verbraucht oder gefahrlos beseitigt werden.
+Ausgelaufene oder verschüttete Stoffe und Gemische und verunreinigte Stoffe und Gemische müssen unmittelbar verbraucht oder gefahrlos beseitigt werden.
 (2)
 Die Stoffe und Gemische der Gruppe A dürfen nur verpackt gelagert und befördert werden.
 (3)
@@ -460,7 +467,7 @@ Die Gemische sind vor Austrocknung zu bewahren.
 Stoffe und Gemische der Untergruppen A I und A II sowie Gemische mit inerten Stoffen der Untergruppe A IV und der Gruppe E können
 1. abweichend von Nummer 5.4.2.2 Absatz 3 in Teilmengen (Stapel) von höchstens 100 Tonnen unterteilt werden und
 2. abweichend von Nummer 5.4.2.2 Absatz 5 und 6 mit einem Schutzabstand, der der Hälfte des dort geforderten Werts entspricht, gelagert werden.
-Voraussetzung hierfür ist der Nachweis durch ein Gutachten der Bundesanstalt für Materialforschung und -prüfung, dass die Stoffe und Zubereitungen der Untergruppen A I, A II und A IV die Beschaffenheitsanforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1020/2009 (ABl. L 282 vom 29.10.2009, S. 7) geändert worden ist, erfüllen und Stoffe und Zubereitungen der Gruppe E nicht detonationsfähig sind.
+Voraussetzung hierfür ist der Nachweis durch ein Gutachten der Bundesanstalt für Materialforschung und -prüfung, dass die Stoffe und Gemische der Untergruppen A I, A II und A IV die Beschaffenheitsanforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1020/2009 (ABl. L 282 vom 29.10.2009, S. 7) geändert worden ist, erfüllen und Stoffe und Gemische der Gruppe E nicht detonationsfähig sind.
 5.5.2 Erleichternde Bestimmungen für ammoniumnitrat- und sprengstoffherstellende Betriebe
 Für ammoniumnitrat- und sprengstoffherstellende Betriebe
 1. sind Nummer 5.4.2.1 Absatz 2 und Nummer 5.4.2.3 Absatz 1 bis 3 für Stoffe und Gemische der Gruppe A nicht anzuwenden;

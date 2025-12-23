@@ -7,7 +7,7 @@ und Begriffsbestimmungen
 | § 2 | Begriffsbestimmungen |
 Abschnitt 2
 Gefahrstoffinformation
-| § 3 | Gefahrenklassen |
+| § 3 | (weggefallen) |
 | § 4 | Einstufung, Kennzeichnung und Verpackung |
 | § 5 | Sicherheitsdatenblatt und sonstige Informationspflichten |
 | § 5a | Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen |
