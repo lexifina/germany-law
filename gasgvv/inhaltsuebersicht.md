@@ -33,11 +33,11 @@
 |  |
 | Teil 5 |
 | Beendigung des Grundversorgungsverhältnisses |
-| § 19 | Unterbrechung der Versorgung |
+| § 19 | Unterbrechung der Versorgung in besonderen Fällen |
 | § 20 | Kündigung |
 | § 21 | Fristlose Kündigung |
 |  |
 | Teil 6 |
 | Schlussbestimmungen |
 | § 22 | Gerichtsstand |
-| § 23 | Übergangsregelung |
+| § 23 | (weggefallen) |

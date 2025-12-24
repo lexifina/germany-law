@@ -13,7 +13,7 @@
 | § 4c | Pflichten der Transportnetzbetreiber |
 | § 4d | Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen |
 | § 4e | Zertifizierung des Betreibers einer Gasspeicheranlage |
-| § 5 | Anzeige der Energiebelieferung |
+| § 5 | Anzeige der Energiebelieferung von Haushaltskunden; Sicherstellung der wirtschaftlichen Leistungsfähigkeit |
 | § 5a | Speicherungspflichten, Veröffentlichung von Daten |
 | § 5b | Anzeige von Verdachtsfällen, Verschwiegenheitspflichten |
 | § 5c | IT-Sicherheit im Anlagen- und Netzbetrieb, Festlegungskompetenz |
@@ -54,10 +54,10 @@
 |  |
 | Abschnitt 1 |
 | Aufgaben der Netzbetreiber |
-| § 11 | Betrieb von Energieversorgungsnetzen |
+| § 11 | Betrieb von Energieversorgungsnetzen; Verordnungsermächtigung |
 | § 11a | Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz |
 | § 11b | Ausnahme für Energiespeicheranlagen, Festlegungskompetenz |
-| § 11c | Überragendes öffentliches Interesse für Anlagen zur Speicherung elektrischer Energie |
+| § 11c | Überragendes öffentliches Interesse für Energiespeicheranlagen |
 | § 12 | Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung |
 | § 12a | Szenariorahmen für die Netzentwicklungsplanung |
 | § 12b | Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen |
@@ -81,7 +81,7 @@
 | § 13j | Festlegungskompetenzen |
 | § 13k | Nutzen statt Abregeln |
 | § 13l | Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels |
-| § 14 | Aufgaben der Betreiber von Elektrizitätsverteilernetzen |
+| § 14 | Aufgaben der Betreiber von Elektrizitätsverteilernetzen; Festlegungskompetenz, Evaluation |
 | § 14a | Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen |
 | § 14b | Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung |
 | § 14c | Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz |
@@ -109,24 +109,19 @@
 | § 17h | Abschluss von Versicherungen |
 | § 17i | Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen |
 | § 17j | Verordnungsermächtigung |
+| § 17k | Erstattung von Entschädigungszahlungen bei Störungen oder Verzögerungen der Errichtung internationaler Offshore-Anbindungsleitungen |
 | § 18 | Allgemeine Anschlusspflicht |
 | § 19 | Technische Vorschriften |
-| § 19a | Umstellung der Gasqualität; Verordnungsermächtigung |
+| § 19a | Umstellung der Gasqualität; Verordnungsermächtigung und Subdelegation |
 |  |
 | Abschnitt 3 |
 | Netzzugang, Messstellenbetrieb |
 | § 20 | Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz |
 | § 20a | Lieferantenwechsel |
+| § 20b | Gemeinsame Internetplattform für die Abwicklung des Netzzugangs; Festlegungskompetenz |
 | § 21 | Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz |
 | § 21a | Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz |
 | § 21b | Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz |
-| § 21c | (weggefallen) |
-| § 21d | (weggefallen) |
-| § 21e | (weggefallen) |
-| § 21f | (weggefallen) |
-| § 21g | (weggefallen) |
-| § 21h | (weggefallen) |
-| § 21i | (weggefallen) |
 | § 22 | Beschaffung der Energie zur Erbringung von Ausgleichsleistungen |
 | § 23 | Erbringung von Ausgleichsleistungen |
 | § 23a | Genehmigung der Entgelte für den Netzzugang |
@@ -137,9 +132,9 @@
 | § 24a | Bundeszuschüsse; Festlegungskompetenz |
 | § 24b | Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten |
 | § 24c | Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten; Festlegungskompetenz |
-| § 25 | Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen |
+| § 25 | Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen; Verordnungsermächtigung |
 | § 26 | Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas |
-| § 27 | Zugang zu den vorgelagerten Rohrleitungsnetzen |
+| § 27 | Zugang zu den vorgelagerten Rohrleitungsnetzen; Verordnungsermächtigung |
 | § 28 | Zugang zu Gasspeicheranlagen; Verordnungsermächtigung |
 | § 28a | Neue Infrastrukturen |
 | § 28b | Bestandsleitungen zwischen Deutschland und einem Drittstaat |
@@ -172,7 +167,7 @@
 |  |  |
 | Abschnitt 4 |
 | Befugnisse der Regulierungsbehörde, Sanktionen |
-| § 29 | Verfahren zur Festlegung und Genehmigung |
+| § 29 | Verfahren zur Festlegung und Genehmigung; Verordnungsermächtigung |
 | § 30 | Missbräuchliches Verhalten eines Netzbetreibers |
 | § 31 | Besondere Missbrauchsverfahren der Regulierungsbehörde |
 | § 32 | Unterlassungsanspruch, Schadensersatzpflicht |
@@ -196,22 +191,26 @@
 | Teil 4 |
 | Energielieferung an Letztverbraucher |
 | § 36 | Grundversorgungspflicht |
-| § 37 | Ausnahmen von der Grundversorgungspflicht |
+| § 37 | Ausnahme von der Grundversorgungspflicht; Verordnungsermächtigung |
 | § 38 | Ersatzversorgung mit Energie |
-| § 39 | Allgemeine Preise und Versorgungsbedingungen |
-| § 40 | Inhalt von Strom- und Gasrechnungen; Festlegungskompetenz |
-| § 40a | Verbrauchsermittlung für Strom- und Gasrechnungen |
+| § 38a | Übergangsversorgung in Mittelspannung und Mitteldruck sowie in der Umspannung von Niederspannung zu Mittelspannung |
+| § 39 | Allgemeine Preise und Versorgungsbedingungen; Verordnungsermächtigung |
+| § 40 | Inhalt von Energierechnungen; Festlegungskompetenz |
+| § 40a | Verbrauchsermittlung für Energierechnungen |
 | § 40b | Rechnungs- und Informationszeiträume |
-| § 40c | Zeitpunkt und Fälligkeit von Strom- und Gasrechnungen |
+| § 40c | Zeitpunkt und Fälligkeit von Energierechnungen; Festlegungskompetenz |
 | § 41 | Energielieferverträge mit Letztverbrauchern |
-| § 41a | Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife |
+| § 41a | Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife sowie Festpreisverträge |
 | § 41b | Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung |
-| § 41c | Vergleichsinstrumente bei Energielieferungen |
+| § 41c | Vergleichsinstrumente bei Stromlieferungen |
 | § 41d | Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz |
 | § 41e | Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern |
+| § 41f | Versorgungsunterbrechungen wegen Nichtzahlung bei Haushaltskunden |
+| § 41g | Ergänzende Regelungen zu Versorgungsunterbrechungen wegen Nichtzahlung bei Haushaltskunden in der Grundversorgung mit Strom oder Gas |
 | § 42 | Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung |
 | § 42a | Mieterstromverträge |
 | § 42b | Gemeinschaftliche Gebäudeversorgung |
+| § 42c | Gemeinsame Nutzung elektrischer Energie aus Anlagen zur Erzeugung von Elektrizität aus erneuerbaren Energien |
 |  |
 | Teil 5 |
 | Planfeststellung, Wegenutzung |
@@ -249,17 +248,11 @@
 | § 49b | Temporäre Höherauslastung |
 | § 49c | Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen |
 | § 49d | Register zur Erfassung und Überwachung von Energieanlagen sowie von Energieanlagenteilen; Verordnungsermächtigung |
-| § 50 | Vorratshaltung zur Sicherung der Energieversorgung |
+| § 50 | Verordnungsermächtigung zur Vorratshaltung zur Sicherung der Energieversorgung |
 | § 50a | (weggefallen) |
 | § 50b | (weggefallen) |
 | § 50c | (weggefallen) |
 | § 50d | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung |
-| § 50e | (weggefallen) |
-| § 50f | (weggefallen) |
-| § 50g | (weggefallen) |
-| § 50h | (weggefallen) |
-| § 50i | (weggefallen) |
-| § 50j | (weggefallen) |
 | § 51 | Monitoring der Versorgungssicherheit |
 | § 51a | Monitoring des Lastmanagements |
 | § 52 | Meldepflichten bei Versorgungsstörungen |
@@ -273,7 +266,7 @@
 | Abschnitt 1 |
 | Allgemeine Vorschriften |
 | § 54 | Allgemeine Zuständigkeit |
-| § 54a | Zuständigkeiten gemäß der Verordnung (EU) 2017/1938, Verordnungsermächtigung |
+| § 54a | Zuständigkeiten nach der Verordnung (EU) 2017/1938; Verordnungsermächtigung |
 | § 54b | Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung |
 | § 54c | Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigungen |
 | § 55 | Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde |
@@ -343,7 +336,7 @@
 | § 89 | Beteiligtenfähigkeit |
 | § 90 | Kostentragung und -festsetzung |
 | § 90a | (weggefallen) |
-| § 91 | Gebührenpflichtige Handlungen |
+| § 91 | Gebührenpflichtige Handlungen; Verordnungsermächtigung |
 | § 92 | Beitrag |
 | § 93 | Mitteilung der Bundesnetzagentur |
 |  |
@@ -393,23 +386,23 @@
 | Evaluierung, Schlussvorschriften |
 | § 112 | (weggefallen) |
 | § 112a | (weggefallen) |
-| § 112b | Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung |
+| § 112b | Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffregulierung |
 | § 113 | Laufende Wegenutzungsverträge |
 | § 113a | Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen |
 | § 113b | Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff |
 | § 113c | Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben |
-| § 114 | Wirksamwerden der Entflechtungsbestimmungen |
-| § 115 | Bestehende Verträge |
-| § 116 | Bisherige Tarifkundenverträge |
+| § 114 | (weggefallen) |
+| § 115 | (weggefallen) |
+| § 116 | (weggefallen) |
 | § 117 | Konzessionsabgaben für die Wasserversorgung |
 | § 117a | Regelung bei Stromeinspeisung in geringem Umfang |
 | § 117b | Verwaltungsvorschriften |
 | § 117c | Umgang mit geheimhaltungsbedürftigen Informationen |
 | § 118 | Übergangsregelungen |
 | § 118a | Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation |
-| § 118b | Befristete Sonderregelungen für Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung |
-| § 118c | Befristete Notversorgung von Letztverbrauchern im Januar und Februar des Jahres 2023 |
+| § 118b | (weggefallen) |
+| § 118c | (weggefallen) |
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |
-| § 121 | Außerkrafttreten der §§ 50a bis 50c und 50e bis 50j |
+| § 121 | (weggefallen) |
 | Anlage (zu § 13g) | Berechnung der Vergütung |

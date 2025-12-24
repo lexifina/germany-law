@@ -59,4 +59,4 @@
 - [§ 33 Bußgeldvorschriften](0033.md)
 - [§ 34 Zwangsgeld](0034.md)
 - [§ 35 Übergangsvorschriften](0035.md)
-- [§ 36 Evaluierung](0036.md)
+- [§ 36 Vorlage- und Auskunftspflicht der Bundesnetzagentur](0036.md)

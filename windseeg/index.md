@@ -104,6 +104,7 @@
 
 #### Unterabschnitt 2 Bestimmungen zur Zahlung
 
+- [§ 57 Zweckbindung der Zahlungen](0057.md)
 - [§ 58 Meeresnaturschutz-, Fischerei- und Transformationskomponente](0058.md)
 - [§ 59 Stromkostensenkungskomponente](0059.md)
 

@@ -34,7 +34,7 @@
 
 ### Kapitel 3 Technische Vorgaben zur Gewährleistung von Datenschutz und Datensicherheit beim Einsatz von Smart-Meter-Gateways
 
-- [§ 19 Allgemeine Anforderungen an Messsysteme; Verordnungsermächtigung](0019.md)
+- [§ 19 Allgemeine Anforderungen an Messsysteme; Verordnungsermächtigung und Subdelegation](0019.md)
 - [§ 20 Anbindbarkeit von Messeinrichtungen für Gas an das Smart-Meter-Gateway](0020.md)
 - [§ 21 Mindestanforderungen an intelligente Messsysteme](0021.md)
 - [§ 22 Mindestanforderungen an das Smart-Meter-Gateway durch Schutzprofile und Technische Richtlinien](0022.md)
@@ -61,7 +61,7 @@
 ### Kapitel 5 Liegenschaftsmodernisierung; Anbindungsverpflichtung
 
 - [§ 39 Liegenschaftsmodernisierung](0039.md)
-- [§ 40 Anbindungsverpflichtung](0040.md)
+- [§ 40 Anbindungsverpflichtung von Messeinrichtungen für Gas](0040.md)
 
 ### Kapitel 6 Übertragung der Grundzuständigkeit für moderne Messeinrichtungen und intelligente Messsysteme
 
@@ -113,6 +113,8 @@
 
 - [§ 66 Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung oder Anonymisierung](0066.md)
 - [§ 67 Messwertverarbeitung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung oder Anonymisierung](0067.md)
+- [§ 67a Messwertverarbeitung zu Zwecken des Messwertweiterverarbeiters; Übermittlungspflicht; Löschung oder Anonymisierung](0067a.md)
+- [§ 67b Messwertverarbeitung zu Zwecken des Aggregationsverantwortlichen; Übermittlungspflicht; Löschung oder Anonymisierung](0067b.md)
 - [§ 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung oder Anonymisierung](0068.md)
 - [§ 69 Messwertverarbeitung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung oder Anonymisierung](0069.md)
 - [§ 70 Messwertverarbeitung auf Veranlassung des Anschlussnutzers; weiterer Datenaustausch](0070.md)
