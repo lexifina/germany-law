@@ -1,0 +1,4 @@
+## Einzelansicht Seitenanfang
+# Eingangsformel
+Aufgrund des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2024 (BGBl. 2024 I Nr. 234) geändert worden ist, verordnet der Senat:
+Einzelansicht Seitenanfang
