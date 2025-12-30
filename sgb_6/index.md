@@ -40,9 +40,10 @@ die Leistungen
 #### Zweiter Unterabschnitt Umfang der Leistungen
 
 
-##### Erster Titel Allgemeines
+##### Erster Titel Allgemeines und Fallmanagement
 
 - [§ 13 Leistungsumfang](0013.md)
+- [§ 13a Fallmanagement](0013a.md)
 - [§ 14 Leistungen zur Prävention](0014.md)
 
 ##### Zweiter Titel Leistungen zur Prävention, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben und zur Nachsorge
@@ -670,8 +671,7 @@ Sonderversorgungssystem](0259b.md)
 Renten und Einkommen
 
 - [§ 266 Erhöhung des Grenzbetrags](0266.md)
-- [§ 267 Rente und Leistungen aus der
-Unfallversicherung](0267.md)
+- [§ 267 (weggefallen)](0267.md)
 
 #### Siebter Unterabschnitt Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli
 1977 geschiedene Ehegatten und Änderung von Renten beim
@@ -830,7 +830,7 @@ neuen Rechts
 Teilhabe
 
 - [§ 301 Leistungen zur Teilhabe](0301.md)
-- [§ 301a Einmalzahlungs-Neuregelungsgesetz](0301a.md)
+- [§ 301a (weggefallen)](0301a.md)
 
 #### Dritter Unterabschnitt Anspruchsvoraussetzungen
 für einzelne Renten
@@ -889,7 +889,7 @@ vor dem 1. Januar 1979](0312.md)
 Berechtigte im Ausland
 
 - [§ 317 Grundsatz](0317.md)
-- [§ 317a Neufeststellung](0317a.md)
+- [§ 317a (weggefallen)](0317a.md)
 - [§ 318 (weggefallen)](0318.md)
 - [§ 319 Zusatzleistungen](0319.md)
 

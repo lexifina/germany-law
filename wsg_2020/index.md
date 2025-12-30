@@ -14,7 +14,6 @@
 - [§ 5 Erstattung der Beiträge zur Kranken- und Pflegeversicherung für Angehörige](0005.md)
 - [§ 6 Auslandsvergütung](0006.md)
 - [§ 7 Anpassung des Wehrsoldes](0007.md)
-- [§ 8 Entlassungsgeld](0008.md)
 - [§ 9 Vergütung für herausgehobene Funktionen](0009.md)
 - [§ 10 Vergütung für besondere Erschwernisse](0010.md)
 - [§ 11 Vergütung für besondere zeitliche Belastungen](0011.md)

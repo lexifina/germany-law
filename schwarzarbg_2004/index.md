@@ -22,8 +22,7 @@
 
 - [§ 8 Bußgeldvorschriften](0008.md)
 - [§ 9 (weggefallen)](0009.md)
-- [§ 10 Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel
-und zu ungünstigen Arbeitsbedingungen](0010.md)
+- [§ 10 Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und zu ungünstigen Arbeitsbedingungen](0010.md)
 - [§ 10a Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind](0010a.md)
 - [§ 11 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern](0011.md)
 
