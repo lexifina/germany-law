@@ -26,17 +26,19 @@
 - [§ 11 Feststellungen über die Geschäftsfähigkeit](0011.md)
 - [§ 12 Nachweise für die Vertretungsberechtigung](0012.md)
 - [§ 13 Vorlesen, Genehmigen, Unterschreiben](0013.md)
-- [§ 13a Eingeschränkte Beifügungs- und Vorlesungspflicht](0013a.md)
+- [§ 13a Signieren einer elektronischen Niederschrift](0013a.md)
+- [§ 13b Technische Rahmenbedingungen für elektronische Niederschriften](0013b.md)
+- [§ 13c Eingeschränkte Beifügungs- und Vorlesungspflicht](0013c.md)
 - [§ 14 Eingeschränkte Vorlesungspflicht](0014.md)
 - [§ 15 Versteigerungen](0015.md)
 - [§ 16 Übersetzung der Niederschrift](0016.md)
 
-### Unterabschnitt 3 Beurkundung mittels Videokommunikation; Elektronische Niederschrift
+### Unterabschnitt 3 Beurkundung mittels Videokommunikation
 
 - [§ 16a Zulässigkeit](0016a.md)
 - [§ 16b Aufnahme einer elektronischen Niederschrift](0016b.md)
 - [§ 16c Feststellung der Beteiligten mittels Videokommunikation](0016c.md)
-- [§ 16d Nachweise für die Vertretungsberechtigung bei elektronischen Niederschriften](0016d.md)
+- [§ 16d (weggefallen)](0016d.md)
 - [§ 16e Gemischte Beurkundung](0016e.md)
 
 ### Unterabschnitt 4 Prüfungs- und Belehrungspflichten
@@ -62,7 +64,7 @@
 - [§ 28 Feststellungen über die Geschäftsfähigkeit](0028.md)
 - [§ 29 Zeugen, zweiter Notar](0029.md)
 - [§ 30 Übergabe einer Schrift](0030.md)
-- [§ 31 (weggefallen)](0031.md)
+- [§ 31 Ausschluss der elektronischen Niederschrift](0031.md)
 - [§ 32 Sprachunkundige](0032.md)
 - [§ 33 Besonderheiten beim Erbvertrag](0033.md)
 - [§ 34 Verschließung, Verwahrung](0034.md)
@@ -84,6 +86,7 @@
 - [§ 39a Einfache elektronische Zeugnisse](0039a.md)
 - [§ 40 Beglaubigung einer Unterschrift](0040.md)
 - [§ 40a Beglaubigung einer qualifizierten elektronischen Signatur](0040a.md)
+- [§ 40b Beglaubigung einer elektronischen Unterschrift](0040b.md)
 - [§ 41 Beglaubigung der Zeichnung einer Namensunterschrift](0041.md)
 - [§ 42 Beglaubigung einer Abschrift](0042.md)
 - [§ 43 Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde](0043.md)

@@ -53,9 +53,9 @@
 - [§ 18f Zulässigkeit der Verarbeitung](0018f.md)
 - [§ 18g Angabe der Versicherungsnummer](0018g.md)
 
-### Sechster Titel (weggefallen)
+### Sechster Titel Definition Unternehmen, Beschäftigungsbetrieb, Betriebsstätte
 
-- [§ 18h (weggefallen)](0018h.md)
+- [§ 18h Unternehmen, Beschäftigungsbetrieb, Betriebsstätte](0018h.md)
 
 ### Siebter Titel Betriebsnummer
 
@@ -83,7 +83,7 @@
 - [§ 23a Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen](0023a.md)
 - [§ 23b Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen](0023b.md)
 - [§ 23c Sonstige nicht beitragspflichtige Einnahmen](0023c.md)
-- [§ 23d Abgeltung von abgeleiteten Entgeltguthaben bei Beendigung oder Ruhen des Beschäftigungsverhältnisses](0023d.md)
+- [§ 23d Abgeltung von abgeleiteten Entgeltguthaben](0023d.md)
 - [§ 24 Säumniszuschlag](0024.md)
 - [§ 25 Verjährung](0025.md)
 - [§ 26 Beanstandung und Erstattung zu Unrecht entrichteter Beiträge](0026.md)
@@ -194,6 +194,7 @@
 - [§ 77a Geltung von Haushaltsvorschriften des Bundes für die Bundesagentur für Arbeit](0077a.md)
 - [§ 78 Verordnungsermächtigung](0078.md)
 - [§ 79 Geschäftsübersichten und Statistiken der Sozialversicherung](0079.md)
+- [§ 79a Finanzierung von Maßnahmen der digitalen Transformation aus Bundesmitteln](0079a.md)
 
 ### Vierter Titel Vermögen
 

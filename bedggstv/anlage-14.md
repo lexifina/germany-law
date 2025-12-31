@@ -564,6 +564,17 @@ Verzeichnis der Monomere oder sonstigen Ausgangsstoffe, Farbmittel, Lösungsmitt
 | Ethylenvinylacetatcopolymerwachs | 0024937-78-8 |  | 538 |  |  |  | x |  |  |  | Die Migration der oligomeren Fraktion mit einer Molmasse unter 1 000 Da darf 5 mg/kg Lebensmittel nicht überschreiten.muss bei maximal 230 °C und unter Bedingungen verarbeitet werden, die eine Zersetzung des Stoffes verhindern |
 | 4-Nonylphenol (verzweigt) | 0084852-15-3 |  | 539 | x |  |  |  |  | nicht nach-weisbar bei einer Nach-weis-grenze von 0,0015 mg/kg |  | nur als Monomer oder Ausgangsstoff für die Herstellung von Phenolharzen und Kolophonium modifizierten Phenolharzen zu verwenden nicht mehr als 10 mg/kg im fertigen Harz nicht mehr als 25 Gew.-% Harze in der endgültigen Druckfarbe nur für die Verwendung auf der vom Lebensmittel abgewandten Seite |
 | Stearinsäure, Cersalz | 0010119-53-6 | 89150 | 540 |  |  |  | x |  |  |  | Cergehalt 1 mg/kg |
+| Tri-n-butylammonium-boro-di-salicylat | 0022450-96-0 |  | 595 |  |  |  | x |  | NN |  | SMG berechnet als Tributylamin nur für die Verwendung auf der vom Lebensmittel abgewandten Seite nur zur Verwendung hinter einer PET-Schicht die Migration der Summe der Substanz und ihres Dissoziationsproduktes Tributylamin darf nicht nachweisbar sein |
+| Wachse und wachsartige Substanzen, Reiskleie, oxidiert | 1883583-80-9 |  | 596 |  |  |  | x |  | 5 |  | nur für die Verwendung auf der vom Lebensmittel abgewandten Seite nur zur Verwendung für Gegenstände für den Kontakt mit trockenen Lebensmitteln nur zur Verwendung bei Raumtemperatur |
+| 2-Pyrrolidinon,1-(2-Hydroxyethyl)-2-pyrrolidinone | 0003445-11-2 |  | 597 |  |  | x |  |  | 5 |  | nur für die Verwendung auf der vom Lebensmittel abgewandten Seite nur zur Verwendung für Gegenstände für den Kontakt mit trockenen Lebensmitteln, für die in der Verordnung (EU) Nr. 10/2011 das Lebensmittelsimulanz E festgelegt ist |
+| Hexan, 1,6-Diisocyanat-,Homopolymer, geblockt mit Butylglycidylether und Polyethylenglycol-mono-methylether, Reaktionsprodukt mit Propylenimin | 2416007-57-1 |  | 598 | x |  |  |  |  | 0,05 |  |  |
+| 1,1,1-Trimethylolpropan, ethoxyliert(n = 6 – 8), Ester mit 2-Benzoylbenzoesäure | 2134159-36-5 |  | 599 |  |  |  |  | x | 0,05 |  | nur für die Verwendung auf der vom Lebensmittel abgewandten Seite Methyl-2-benzoylbenzoat(CAS-Nr. 0000606-28-0) darf maximal mit 0,05 mg/kg migrieren |
+| Neodecansäure | 0026896-20-8 |  | 600 |  |  |  | x |  | 4 |  |  |
+| Adipinsäuredihydrazid | 0001071-93-8 |  | 601 | x |  |  |  |  | 5 |  | nur zur Verwendung als: Kettenverlängerer für Isocyanate; der Übergang des zyklischen Produktes (1:1) aus Adipinsäuredihydrazid und Isophorondiisocyanat darf nicht mehr als 0,05 mg/kg Lebensmittel betragen Quervernetzer zum Vernetzenvon Keto-Seitengruppen; nur zu verwenden in Verbindung mit Diacetonacrylamid (Substanznummer 602) nicht zur Verwendung im unmittelbaren Kontakt mit sauren Lebensmitteln (pH < 4,5) |
+| Diacetonacrylamid | 0002873-97-4 |  | 602 | x |  |  |  |  | 0,05 |  |  |
+| 3-Methoxy-3-Methyl-1-Butanol | 0056539-66-3 |  | 603 |  |  | x |  |  | 5 |  | nur für die Verwendung auf der vom Lebensmittel abgewandten Seite |
+| Pentaerythritol, ethoxyliert, Ester mit Acrylsäure | 0051728-26-8 |  | 604 | x |  |  |  |  | 0,05 |  | nur für die Verwendung auf der vom Lebensmittel abgewandten Seite |
+| Kohlenwasserstoffe, C11-C13,Isoalkane, < 2 % Aromaten | 0246538-78-3 |  | 605 |  |  | x |  |  | 5 |  | Zusammensetzung entsprechend EG-Nr.* 920-901-0 * gemäß Verordnung (EG) Nr. 1272/2008 |
 Tabelle 2
 Verzeichnis der Pigmente, die zusätzlich zu Tabelle 1 bei der Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten Lebensmittelbedarfsgegenständen verwendet werden dürfen
 (zu § 4 Absatz 9, § 8 Absatz 5 Satz 1)
@@ -624,6 +635,11 @@ Verzeichnis der Pigmente, die zusätzlich zu Tabelle 1 bei der Bedruckung von in
 | Pigment Blue 1 | 0001325-87-7 |  | 592 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
 | Pigment Blue 61 | 0001324-76-1 |  | 593 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
 | Pigment Red 272 | 0084632-66-6 |  | 594 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
+| Pigment Red 168 | 0004378-61-4 |  | 606 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
+| Pigment Red 179 | 0005521-31-3 |  | 607 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
+| Pigment Yellow 65 | 0006528-34-3 |  | 608 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
+| Pigment Yellow 73 | 0013515-40-7 |  | 609 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
+| Pigment Yellow 170 | 0031775- |  | 610 |  | x |  |  |  | NN |  | auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen |
 Tabelle 3
 Gruppengrenzwerte
 (zu § 8 Absatz 5 Satz 1)
@@ -647,7 +663,7 @@ Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes, dessen Molek
 | 11 | 234 235 | 1,5 | berechnet als Summe der Substanzen |
 | 12 | 80 105 350 | 5 | berechnet als Summe der Substanzen |
 | 13 | 156 180 | 15 | berechnet als Formaldehyd |
-| 14 | 19 42 43 266 | 6 | berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie (EU) 2020/2184 des Europäischen Parlaments und des Rates vom 16. Dezember 2020 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 435 vom 23.12.2020, S. 1)). |
+| 14 | 19 42 43 266 | 6 | berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie (EU) 2020/2184) |
 | 15 | 76 96 120 121 179 198 245 258 271 353 354 355 356 366 367 460 476* | NN | berechnet als Isocyanat-Gruppe (NCO) |
 | 16 | 91 92 | 0,05 | berechnet als Summe der Substanzen |
 | 17 | 260 261 265 267 | 10 | berechnet als SO2 |

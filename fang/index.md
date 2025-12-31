@@ -49,9 +49,6 @@ Angestelltenversicherungs-Neuregelungsgesetzes
 ### Art 6
 
 
-### Art 6
-
-
 ### III. Anpassung der Berliner Rentenversicherung
 
 

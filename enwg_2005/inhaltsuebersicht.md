@@ -68,6 +68,7 @@
 | § 12g | Schutz europäisch kritischer Anlagen, Verordnungsermächtigung |
 | § 12h | Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen |
 | § 12i | Systemstabilitätsbericht, Monitoring der Systemstabilität |
+| § 12j | Infrastrukturgebieteplan im Übertragungsnetz |
 | § 13 | Systemverantwortung der Betreiber von Übertragungsnetzen |
 | § 13a | Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich |
 | § 13b | Stilllegungen von Anlagen |
@@ -87,6 +88,7 @@
 | § 14c | Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz |
 | § 14d | Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung |
 | § 14e | Gemeinsame Internetplattform; Festlegungskompetenz |
+| § 14f | Infrastrukturgebieteplan im Elektrizitätsverteilernetz |
 | § 15 | Aufgaben der Betreiber von Fernleitungsnetzen |
 | § 15a | Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz |
 | § 15b | Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz |
@@ -228,6 +230,8 @@
 | § 43k | Zurverfügungstellung von Geodaten |
 | § 43l | Regelungen zum Auf- und Ausbau von Wasserstoffnetzen |
 | § 43m | Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577 |
+| § 43n | Vorhaben in Infrastrukturgebieten |
+| § 43o | Vergleich zur ursprünglichen Netzinfrastruktur |
 | § 44 | Vorarbeiten |
 | § 44a | Veränderungssperre, Vorkaufsrecht |
 | § 44b | Vorzeitige Besitzeinweisung |
@@ -370,6 +374,7 @@
 | Sonstige Vorschriften |
 | § 109 | Unternehmen der öffentlichen Hand, Geltungsbereich |
 | § 110 | Geschlossene Verteilernetze |
+| § 110a | Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991 |
 | § 111 | Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen |
 | § 111a | Verbraucherbeschwerden |
 | § 111b | Schlichtungsstelle, Verordnungsermächtigung |

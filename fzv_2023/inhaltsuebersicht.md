@@ -77,6 +77,7 @@ Abschnitt 6
 | § 51 | Maßnahmen und Pflichten bei fehlendem Versicherungsschutz |
 | § 52 | Versicherungskennzeichen |
 | § 53 | Ausgestaltung und Anbringung des Versicherungskennzeichens |
+| § 53a | Kennzeichenfolie und Trägerplatte |
 | § 54 | Rote Versicherungskennzeichen |
 | § 55 | Maßnahmen bei vorzeitiger Beendigung des Versicherungsverhältnisses |
 | § 56 | Versicherungsplakette |
@@ -124,4 +125,5 @@ Durchführungs- und Schlussvorschriften
 | Anlage 15 | Fahrzeugscheinheft für Oldtimerfahrzeuge mit rotem Kennzeichen |
 | Anlage 16 | Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechende Haftpflichtversicherung |
 | Anlage 17 | Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge |
+| Anlage 17a | Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge |
 | Anlage 18 | Versicherungsplakette für Elektrokleinstfahrzeuge |

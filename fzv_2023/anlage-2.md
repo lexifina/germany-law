@@ -1,7 +1,7 @@
 # Anlage 2 (zu § 9 Absatz 1 Satz 6)Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der Bundesfinanzverwaltung, der Bundespolizei, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
 
 1. Unterscheidungszeichen Bund
-  | BD | Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung, des Bundesverfassungsgerichts und des Bundeskriminalamtes (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 8 und 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ – Dienstort Offenbach) |
+  | BD | Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung, des Bundesverfassungsgerichts und des Bundeskriminalamtes (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 4 Zulassungsbehörde Karlsruhe; für BD 8 und 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ – Dienstort Offenbach) |
   | BG | Dienstfahrzeuge der Bundespolizei (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde) (noch gültig, wird nicht mehr zugeteilt) |
   | BP | Dienstfahrzeuge der Bundespolizei (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde) |
   | BW | Bundes-Wasserstraßen- und Schifffahrtsverwaltung (Generaldirektion Wasserstraßen und Schifffahrt) |
@@ -27,6 +27,6 @@
   | THL | Thüringen Landesregierung und Landtag (Zulassungsbehörde Erfurt, Stadt) |
 3. Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
   | 0, B oder BN | Diplomatische Vertretungen oder internationale Organisationen und in Abhängigkeit vom Status der bevorrechtigten Person (Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt) |
-  | Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats | Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person(Zulassungsbehörde am Sitz des Konsulats) |
-4. Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
+  | Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats | Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person (Zulassungsbehörde am Sitz des Konsulats) |
+4. Unterscheidungszeichen des Präsidenten des Deutschen Bundestages
   | 1-1 | Dienstkraftwagen des Präsidenten des Deutschen Bundestages (Zulassungsbehörde Berlin) |

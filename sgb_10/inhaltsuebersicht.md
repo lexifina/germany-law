@@ -132,7 +132,7 @@
 | § 82 | Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person |
 | § 82a | Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden |
 | § 83 | Auskunftsrecht der betroffenen Personen |
-| § 83a | Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten |
+| § 83a | (weggefallen) |
 | § 84 | Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch |
 | § 85 | Strafvorschriften |
 | § 85a | Bußgeldvorschriften |

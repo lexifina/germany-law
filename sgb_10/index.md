@@ -156,7 +156,7 @@ Vollstreckung
 - [§ 82 Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person](0082.md)
 - [§ 82a Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden](0082a.md)
 - [§ 83 Auskunftsrecht der betroffenen Personen](0083.md)
-- [§ 83a Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten](0083a.md)
+- [§ 83a (weggefallen)](0083a.md)
 - [§ 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch](0084.md)
 - [§ 85 Strafvorschriften](0085.md)
 - [§ 85a Bußgeldvorschriften](0085a.md)

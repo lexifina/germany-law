@@ -146,8 +146,7 @@ Unternehmer
 - [§ 63 Aufzeichnungspflichten](0063.md)
 - [§ 64 Aufzeichnung im Fall der Einfuhr](0064.md)
 - [§ 65 Aufzeichnungspflichten der Kleinunternehmer](0065.md)
-- [§ 66 Aufzeichnungspflichten bei der Anwendung allgemeiner
-Durchschnittssätze](0066.md)
+- [§ 66 (weggefallen)](0066.md)
 - [§ 66a Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes
 für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne
 des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes](0066a.md)

@@ -72,17 +72,17 @@ Gebühren des Bundes
 | 122 |  | Stundensatz für Reisezeiten für Maßnahmen nach den Gebührennummern 115 bis 120 | 61,40 |
 |  | 2. | Erfassung von Fahrzeugen und Fahrerlaubnissen |  |
 | 123 |  | Zuteilung einer Zulassungsbescheinigung Teil II (einschließlich der Aufstellung der Erfassungsunterlagen) |  |
-| 123.1 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 1 FZV über die Zulassungsbehörde | 3,80 |
+| 123.1 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 1 FZV über die Zulassungsbehörde | 4,40 |
 | 123.2 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen bevollmächtigten Vertreter nebst Überwachung | 6,70 |
-| 124 |  | Aufstellung von Erfassungsunterlagen für das Zentrale Fahrzeugregister (ZFZR) –bei Fahrzeugen ohne Zulassungsbescheinigung Teil II–bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichenoder Berichtigung der Erfassungsunterlagen bei Halterwechsel | 2,60 |
-| 125 |  | Berichtigung der Erfassungsunterlagen für das ZFZR in anderen Fällen | 0,60 |
+| 124 |  | Aufstellung von Erfassungsunterlagen für das Zentrale Fahrzeugregister (ZFZR) –bei Fahrzeugen ohne Zulassungsbescheinigung Teil II–bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichenoder Berichtigung der Erfassungsunterlagen bei Halterwechsel | 3,20 |
+| 125 |  | Berichtigung der Erfassungsunterlagen für das ZFZR in anderen Fällen | 1,20 |
 | 126 |  | Aufstellung der Erfassungsunterlagen für das Zentrale Fahrerlaubnisregister (ZFER) |  |
 | 126.1 |  | bei Fahrerlaubnissen auf Probe | 1,80 |
 | 126.2 |  | in den übrigen Fällen | 1,00 |
 | 127 |  | Registrierung einer elektronischen Mitteilung über die Zuteilung eines Versicherungskennzeichens oder einer Versicherungsplakette im ZFZR | 0,20 |
 |  | 2a | Großkundenschnittstelle beim Kraftfahrt-Bundesamt |  |
 | 128 |  | Registrierung einer juristischen Person des Privatrechts als Großkunde bei der Großkundenschnittstelle des Kraftfahrt-Bundesamtes | 3 220,00 |
-| 129 |  | Entgegennahme eines Antrages eines Großkunden durch die Großkundenschnittstelle [und Weiterleitung des Antrags an die zuständige Zulassungsbehörde] | 0,30 |
+| 129 |  | Entgegennahme eines Antrages eines Großkunden durch die Großkundenschnittstelle [und Weiterleitung des Antrags an die zuständige Zulassungsbehörde] | 0,70 |
 |  | 3. | Mitwirkung bei der Aufbietung von Urkunden |  |
 | 131 |  | Aufbietung einer verlorenen Zulassungsbescheinigung Teil II, einschließlich der Kosten der öffentlichen Bekanntmachung | 5,10 |
 |  | 4. | Auskünfte und Informationen und Mitteilungen |  |
@@ -131,7 +131,7 @@ Gebühren des Bundes
 | 166.1 |  | Gutachterwechsel bei einer unabhängigen Stelle für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten | 167,42 |
 | 166.2 |  | Gutachterwechsel bei einer unabhängigen Stelle für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung | 167,42 |
 |  | 7. | Erfahrungsaustausch des Personals der Begutachtungsstelle für Fahreignung |  |
-| 170 |  | Teilnahme am Erfahrungsaustausch nach Satz 1 Nummer 7 der Anlage 14 zur FeV unter der Leitung der Bundesanstalt für Straßenwesen (pro Kalenderjahr) | 1 534,00 |
+| 170 |  | Teilnahme am Erfahrungsaustausch nach Satz 1 Nummer 7 der Anlage 14 zur FeV unter der Leitung der Bundesanstalt für Straßen- und Verkehrswesen (pro Kalenderjahr) | 1 534,00 |
 |  | 8. | Digitales Kontrollgerät und Kontrollgerätkarten |  |
 | 181 |  | Sicherheitstechnische Überprüfungen |  |
 | 181.1 |  | Bewertung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 119.9 und 122 | 2 659,00 bis 6 900,00 |
@@ -254,7 +254,7 @@ Gebühren der Behörden im Landesbereich
 |  |  | mit farbigem Landeswappen | 1,20 |
 | 228.3 |  | je Plakettenträger | 0,30 |
 | 229 |  | Ausgabe eines Fahrzeugscheinheftes nach Zuteilung eines roten Kennzeichens | 10,20 bis 15,30 |
-| 230 |  | Vorwegzuteilung von Erkennungsnummern an Fahrzeughalter, Fahrzeughändler oder Zulassungsdienste, je Erkennungsnummer | 2,60 |
+| 230 |  | Vorwegzuteilung oder Reservierung von Erkennungsnummern an Fahrzeughalter, Fahrzeughändler oder Zulassungsdienste, je Erkennungsnummer | 2,60 |
 |  |  | Diese Gebühr erhöht sich im Falle der Zuteilung eines Wunschkennzeichens um 10,20 Euro. |  |
 | 231 |  | Amtshandlungen im Zusammenhang mit der Sicherungsübereignung eines Kraftfahrzeugs |  |
 | 231.1 |  | Eintragung, Aufhebung oder Verwahrung, jeweils | 5,10 |
@@ -296,9 +296,9 @@ Gebühren der Behörden im Landesbereich
 | 261 |  | Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen | 10,20 bis 767,00 |
 | 262 |  | Anordnung zur Teilnahme am Verkehrsunterricht | 25,60 |
 | 263 |  | Entscheidung über eine Erlaubnis mit Ausnahme der Erlaubnis nach § 29 Absatz 3 StVO nach der StVOBei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand | 10,20 bis 767,00 767,00 bis 2 301,00 |
-| 263.1 |  | Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- oder Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO |  |
+| 263.1 |  | Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- oder Schwertransporten nach § 29 Absatz 3 und § 46 Absatz 1 Satz 1 Nummer 2 und 5 StVO |  |
 | 263.1.1 |  | bei Erteilung der Erlaubnis oder der Ausnahme | 40,00 bis 1 300,00 nach Maßgabe des Anhangs |
-| 263.1.2 |  | bei Ablehnung eines Antrages auf Erlaubnis oder Ausnahme aus anderen Gründen als wegen Unzuständigkeit, bei Rücknahme oder bei Widerruf | 75 Prozent der Gebühr nach Nummer 263.1.1 |
+| 263.1.2 |  | bei Rücknahme eines Antrages durch den Antragsteller nach Beginn der sachlichen Bearbeitung oder bei Ablehnung einer Erlaubnis oder Ausnahme durch die Behörde aus einem anderen Grund als wegen Unzuständigkeit | 75 Prozent der Gebühr nach Nummer 263.1.1 |
 | 263.1.3 |  | bei Änderung einer bestehenden Erlaubnis oder Ausnahme |  |
 | 263.1.3.1 |  | bei gewöhnlichem Aufwand | entsprechend der Nummer 263.1.1 |
 | 263.1.3.2 |  | bei geringem Aufwand nach Zeitaufwand | 10,00 je angefangene Viertelstunde Bearbeitungszeit |
@@ -378,11 +378,27 @@ Gebühren der Behörden im Landesbereich
 | 345 |  | Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG | 51,10 bis 511,00 |
 | 346 |  | Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG | 30,70 bis 511,00 |
 |  |  | Die Gebühr ist auch zu entrichten, wenn die Überwachung ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Inhabers der Ausbildungsstätte am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. |  |
-|  | G. | Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs |  |
+|  | G. | Straßenverkehr-Transportbegleitungsverordnung |  |
+| 350 |  | Entscheidung über die Erteilung der Übertragung der Anordnungsbefugnis für die Transportbegleitung | 390,00 bis 1 170,00 |
+| 350.1 |  | Erhöhung der Gebühr je Geschäftsführer | 40,00 bis 120,00 |
+| 350.2 |  | Erhöhung der Gebühr je Transportbegleiter | 20,00 bis 60,00 |
+| 351 |  | Ausscheiden eines Geschäftsführers | 40,00 bis 140,00 |
+| 352 |  | Eintritt eines Geschäftsführers | 70,00 bis 230,00 |
+| 353 |  | Ausscheiden eines Transportbegleiters | 30,00 bis 110,00 |
+| 354 |  | Neubeschäftigung eines Transportbegleiters | 50,00 bis 170,00 |
+| 355 |  | Erstellung oder Verlängerung eines Ausweises Transportbegleiter | 30,00 bis 110,00 |
+| 356 |  | Erstellung eines Ersatzdokuments bei Verlust etc. | 30,00 bis 110,00 |
+| 357 |  | Verlängerung der Geltungsdauer eines Übertragungsbescheides | 250,00 bis 770,00 |
+| 357.1 |  | Erhöhung der Gebühr je Geschäftsführer | 40,00 bis 120,00 |
+| 357.2 |  | Erhöhung der Gebühr je Transportbegleiter | 20,00 bis 60,00 |
+| 358 |  | Überprüfung eines Unternehmens | 290,00 bis 890,00 |
+| 359 |  | Rücknahme oder Widerruf der Übertragung der Anordnungsbefugnis für die Transportbegleitung | 920,00 bis 2 780,00 |
+| 360 |  | Sonstige Änderungen des Übertragungsbescheides, je nach Aufwand | 20,00 bis 300,00 |
+|  | H. | Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs |  |
 | 398 |  | Androhung der Anordnung der im 2. Abschnitt genannten Maßnahmen, soweit bei den einzelnen Gebührennummern die Androhung nicht bereits selbst genannt ist | 10,20 |
 | 399 |  | Für andere als die in diesem Abschnitt aufgeführten Maßnahmen können Gebühren nach den Sätzen für vergleichbare Maßnahmen oder, soweit solche nicht bewertet sind, nach dem Zeitaufwand mit 12,80 Euro je angefangene Viertelstunde Arbeitszeit erhoben werden. |  |
 | 400 |  | Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung | Gebühr in Höhe der Gebühr für die beantragte oder angefochtene Amtshandlung, mindestens jedoch 25,60 Euro; bei gebührenfreien angefochtenen Amtshandlungen 25,60 Euro. Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht. |
-|  | H. | Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung (AFGBV) |  |
+|  | I. | Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung (AFGBV) |  |
 | 400a |  | Genehmigung des festgelegten Betriebsbereichs für Kraftfahrzeuge mit autonomer Fahrfunktion |  |
 | 400a.1 |  | Prüfung eines Antrags zur Genehmigung eines festgelegten Betriebsbereichs für den Einsatz von Kraftfahrzeugen mit autonomer Fahrfunktion nach § 8 AFGBV einschließlich Begehung des Betriebsbereichs, Sachverhaltsaufklärung, Abstimmung mit zu beteiligenden Dritten, Prüfung der zugrundeliegenden Betriebserlaubnis des Kraftfahrzeugs mit autonomer Fahrfunktion sowie Entscheidung über den Antrag hinsichtlich Erteilung, Änderung, Verlängerung, Ablehnung oder Aufhebung, einschließlich Eintragung | 790,60 bis 79 060,00 |
 | 400a.2 |  | Begutachtung und Prüfung von Nachträgen für einen festgelegten Betriebsbereich für bereits genehmigte festgelegte Betriebsbereiche sowie Nachprüfung der Erfüllung der Voraussetzungen der Genehmigung eines genehmigten festgelegten Betriebsbereichs nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |

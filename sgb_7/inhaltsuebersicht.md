@@ -237,6 +237,7 @@
 | § 136 | Bescheid über die Zuständigkeit, Begriff des Unternehmers |
 | § 136a | Unternehmernummer |
 | § 136b | Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters |
+| § 136c | Betriebsstättenverzeichnis |
 | § 137 | Wirkung von Zuständigkeitsänderungen |
 | § 138 | Unterrichtung der Versicherten |
 | § 139 | Vorläufige Zuständigkeit |
@@ -419,7 +420,7 @@
 |  | Übergangsvorschriften zur Neuorganisation der gesetzlichen Unfallversicherung |
 | § 222 | Neuorganisation der gewerblichen Berufsgenossenschaften |
 | § 223 | Neuorganisation der landesunmittelbaren Unfallversicherungsträger der öffentlichen Hand |
-| § 224 | Umstellung der Mitgliedsnummer auf die Unternehmernummer |
+| § 224 | (weggefallen) |
 | § 225 | (weggefallen) |
 | Anlage 1 | Gewerbliche Berufsgenossenschaften |
 | Anlage 2 | (weggefallen) |

@@ -4,7 +4,7 @@
 | Lfd. Nr. | Untersuchung | Verfahren |
 | 1 | 2 | 3 |
 | 1. | (weggefallen) |  |
-| 2. | Bestimmung der Höchstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen dürfen | Grundregeln und Analysenmethode, die in den Anhängen I und II der Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 277 S. 12), geändert durch die Richtlinie 2005/31/EG der Kommission vom 29. April 2005 (ABl. EU Nr. L 110 S. 36), genannt sind. |
+| 2. | Bestimmung der Höchstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen dürfen | Grundregeln und Analysenmethode, die in den Anhängen I und II der Richtlinie 84/500/EWG in der Fassung vom 29. April 2005 genannt sind. |
 | 3. | Bestimmung des Vinylchloridgehaltes bei Bedarfsgegenständen aus Vinylchloridpolymerisaten | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.32-1 (EG), Stand November 1981, veröffentlicht ist |
 | 4. | (weggefallen) |  |
 | 5a. | Referenzprüfverfahren zur Bestimmung der Nickellässigkeit bei Bedarfsgegenständen im Sinne der Anlage 5a Nr. 1 bis 3 dieser Verordnung | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 6 (DIN EN 1811), Stand Oktober 1999, veröffentlicht ist |

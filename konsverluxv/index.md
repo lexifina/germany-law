@@ -27,5 +27,5 @@
 ## Abschnitt 5 Schlussbestimmungen
 
 - [§ 11 Anwendungszeitpunkt](0011.md)
-- [§ 12 Inkrafttreten](0012.md)
+- [§ 12 Außerkrafttreten](0012.md)
 - [Schlussformel](schlussformel.md)

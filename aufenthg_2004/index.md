@@ -263,7 +263,7 @@
 - [§ 104 Übergangsregelungen](0104.md)
 - [§ 104a Altfallregelung](0104a.md)
 - [§ 104b Aufenthaltsrecht für integrierte Kinder von geduldeten Ausländern](0104b.md)
-- [§ 104c Chancen-Aufenthaltsrecht](0104c.md)
+- [§ 104c Übergangsregelung zum Chancen-Aufenthaltsrecht](0104c.md)
 - [§ 105 Übergangsregelung zur Duldung für Personen mit ungeklärter Identität](0105.md)
 - [§ 105a Bestimmungen zum Verwaltungsverfahren](0105a.md)
 - [§ 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster](0105b.md)

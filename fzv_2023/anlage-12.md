@@ -1,4 +1,4 @@
-# Anlage 12 (zu § 37 Absatz 4)Bevollmächtigung eines Großkunden zur Antragstellung bei der Zulassungsbehörde mithilfe der beim Kraftfahrt-Bundesamt vorhandenen Großkundenschnittstelle
+# Anlage 12 (zu § 37 Absatz 4)Bevollmächtigung zur Antragstellung bei der Zulassungsbehörde mithilfe der beim Kraftfahrt-Bundesamt vorhandenen Großkundenschnittstelle
 
 Abschnitt A.
 Ausgestaltung einer Bevollmächtigung durch eine natürliche Person
@@ -10,7 +10,7 @@ Ausgestaltung einer Bevollmächtigung durch eine natürliche Person
   | PLZ | Ort |
   | Geburtsdatum | Geburtsort |
   | Geburtsname |  |
-  □ [optional] Angaben zum Erziehungsberechtigten/gesetzlichen Vertreter, bei minderjährigem Fahrzeughalter
+  □ [optional] Angaben zum Erziehungsberechtigten/gesetzlichen Vertreter bei minderjährigem Fahrzeughalter
     | Name | Vorname |
     | Straße | Hausnummer |
     | PLZ | Ort |
@@ -26,17 +26,17 @@ Ausgestaltung einer Bevollmächtigung durch eine natürliche Person
   □ Option 1 – Einzelzulassung
     die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für das folgende Fahrzeug durchzuführen:
     a) fahrzeugspezifische Angaben
-      | Entweder | Fahrzeug-Identifizierungsnummer (FIN) |
+      | entweder | Fahrzeug-Identifizierungsnummer (FIN) |
       | oder | Zulassungsbescheinigung Teil II (ZB II) |
       | oder bei noch nicht produzierten Fahrzeugen | Herstellerschlüsselnummer (HSN) und | Typschlüsselnummer (TSN) |
     b) Angaben zur Zustellung der Zulassungsunterlagen
-      □ Ich wähle die Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid durch den Bevollmächtigten oder ein durch ihn beauftragtes drittes* Unternehmen oder Person.
+      □ Ich beantrage die Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid durch den Bevollmächtigten oder einen durch ihn beauftragten Dritten*.
       □ Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
         | Name des Unternehmens |
         | oder | Name | Vorname |
         | Straße | Hausnummer |
         | PLZ | Ort |
-      □ Ich wähle den postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
+      □ Ich beantrage den postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
         | Versand der Zulassungsunterlagen | Zulassungsbescheinigung Teil I und Plaketten | □ Halter, □ Bevollmächtigter oder □ Dritter (D I)* |
         | Zulassungsbescheinigung Teil II | □ Halter, □ Bevollmächtigter oder □ Dritter (D II)* |
         □ * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
@@ -52,7 +52,7 @@ Ausgestaltung einer Bevollmächtigung durch eine natürliche Person
   □ Option 2 – Mehrfachzulassung
     die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können bis zu 100 Fahrzeuge angegeben werden):
     | a) fahrzeugspezifische Angaben | b) Angaben zur Zustellung der Zulassungsunterlagen |
-    |  | Entweder FIN | Oder ZB II | Oder (bei noch nicht produzierten Fahrzeugen) | Gesammelte Abholung durch Bevollmächtigten oder Dritten* (bitte B oder D I in der Tabelle angeben) | Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten* (bitte H, B, D I oder D II in der Tabelle angeben) |
+    |  | entweder FIN | oder ZB II | oder (bei noch nicht produzierten Fahrzeugen) | Gesammelte Abholung durch Bevollmächtigten oder Dritten* (bitte B oder D I in der Tabelle angeben) | Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten* (bitte H, B, D I oder D II in der Tabelle angeben) |
     | HSN | TSN |
     | ZB I + ZB II u. Plaketten | ZB I u. Plaketten | ZB II |
     | 1. |  |  |  |  |  |  |  |
@@ -80,23 +80,45 @@ Ausgestaltung einer Bevollmächtigung durch eine natürliche Person
       | PLZ | Ort |
 3. Einwilligungserklärungen
   Mir ist bekannt, dass der jeweils internetbasiert beantragte Vorgang in der Regel am Tag der Entscheidung der Zulassungsbehörde wirksam wird.
-  Ich willige zu diesem Zweck ein in die elektronische Bekanntgabe des jeweiligen Verwaltungsakts einschließlich der Übermittlung des Zulassungsbescheids und des vorläufigen Zulassungsnachweises, sowie meiner jeweils hierin enthaltenen personenbezogenen Daten, durch Übermittlung der Zulassungsbehörde an den/die Bevollmächtigte(n).
+  Ich willige zu diesem Zweck ein in die elektronische Bekanntgabe des jeweiligen Verwaltungsakts einschließlich der Übermittlung des Zulassungsbescheids und des vorläufigen Zulassungsnachweises sowie meiner jeweils hierin enthaltenen personenbezogenen Daten, durch Übermittlung der Zulassungsbehörde an den/die Bevollmächtigte(n).
   Ich willige zu diesem Zweck ein, dass die Zulassungsbehörde dem/der Bevollmächtigten auf geeignetem elektronischem Wege
   • den Zeitpunkt der Wirksamkeit der Fahrzeugzulassung,
   • das Kennzeichen,
-  • die festgesetzte Gebührenhöhe
-  • sowie im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
+  • die festgesetzte Gebührenhöhe und
+  • im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
   jeweils einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten übermittelt.
-  Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des Kraftfahrzeugsteuergesetz sowie Art und Höhe etwaiger Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben werden dürfen, soweit dies für die Prüfung des jeweiligen internetbasierten Antrags erforderlich ist.
-  □ [optional] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der DSGVO belehrt.
+  Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des Kraftfahrzeugsteuergesetzes sowie Art und Höhe etwaiger Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben werden dürfen, soweit dies für die Prüfung des jeweiligen internetbasierten Antrags erforderlich ist.
+  □ [optional] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.
 Abschnitt B.
 Ausgestaltung einer Bevollmächtigung
 durch eine juristische Person, Behörde, Vereinigung oder eines beruflich Selbstständigen
 1. Vollmacht [Pflichtangaben]
   Hiermit bevollmächtige ich/bevollmächtigen wir,
-  Vollmachtgeber (Fahrzeughalter) c
+  Vollmachtgeber (Fahrzeughalter) als juristische Person
+  | Name des Unternehmens |
+  | Wirtschaftszweig nach ErfassRL Kfz |
+  | Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt) |
+  | Straße | Hausnummer |
+  | PLZ | Postfach |
+  | Ort |  |
+  Vollmachtgeber (Fahrzeughalter) als Behörde
+  | Name der Behörde |
+  | Wirtschaftszweig nach ErfassRL Kfz |
+  | Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt) |
+  | Straße | Hausnummer |
+  | PLZ | Postfach |
+  | Ort |  |
+  Vollmachtgeber (Fahrzeughalter) als Einzelunternehmen bzw. beruflich Selbstständige
   | Name des Unternehmens |
   | Bei Einzelunternehmer zusätzlich | Name | Vorname |
+  | Wirtschaftszweig nach ErfassRL Kfz |
+  | Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt) |
+  | Straße | Hausnummer |
+  | PLZ | Postfach |
+  | Ort |  |
+  Vollmachtgeber (Fahrzeughalter) als Vereinigung
+  | Vertretungsberechtigter | Name | Vorname |
+  | Name der Vereinigung |
   | Wirtschaftszweig nach ErfassRL Kfz |
   | Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt) |
   | Straße | Hausnummer |
@@ -112,17 +134,17 @@ durch eine juristische Person, Behörde, Vereinigung oder eines beruflich Selbst
   □ Option 1 – Einzelzulassung
     die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für das folgende Fahrzeug durchzuführen:
     a) fahrzeugspezifische Angaben
-      | Entweder | Fahrzeug-Identifizierungsnummer (FIN) |
+      | entweder | Fahrzeug-Identifizierungsnummer (FIN) |
       | oder | Zulassungsbescheinigung Teil II (ZB II) |
       | oder bei noch nicht produzierten Fahrzeugen | Herstellerschlüsselnummer (HSN) und | Typschlüsselnummer (TSN) |
     b) Angaben zur Zustellung der Zulassungsunterlagen
-      □ Ich wähle die Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid durch den Bevollmächtigten oder ein durch ihn beauftragtes drittes* Unternehmen oder Person.
+      □ Ich beantrage die Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid durch den Bevollmächtigten oder einen durch ihn beauftragten Dritten*.
       □ Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
         | Name des Unternehmens |
         | oder | Name | Vorname |
         | Straße | Hausnummer |
         | PLZ | Ort |
-      □ Ich wähle den postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
+      □ Ich beantrage den postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
         | Versand der Zulassungsunterlagen | Zulassungsbescheinigung Teil I und Plaketten | □ Halter, □ Bevollmächtigter oder □ Dritter (D I)* |
         | Zulassungsbescheinigung Teil II | □ Halter, □ Bevollmächtigter oder □ Dritter (D II)* |
         □ * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
@@ -138,7 +160,7 @@ durch eine juristische Person, Behörde, Vereinigung oder eines beruflich Selbst
   □ Option 2 – Mehrfachzulassung
     die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) gemäß Fahrzeug-Zulassungsverordnung (FZV) für die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können bis zu 100 Fahrzeuge angegeben werden):
     | a) fahrzeugspezifische Angaben | b) Angaben zur Zustellung der Zulassungsunterlagen |
-    |  | Entweder FIN | Oder ZB II | Oder (bei noch nicht produzierten Fahrzeugen) | Gesammelte Abholung durch Bevollmächtigten oder Dritten* (bitte B oder D I in der Tabelle angeben) | Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten* (bitte H, B, D I oder D II in der Tabelle angeben) |
+    |  | entweder FIN | oder ZB II | oder (bei noch nicht produzierten Fahrzeugen) | Gesammelte Abholung durch Bevollmächtigten oder Dritten* (bitte B oder D I in der Tabelle angeben) | Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten* (bitte H, B, D I oder D II in der Tabelle angeben) |
     | HSN | TSN |
     | ZB I + ZB II u. Plaketten | ZB I u. Plaketten | ZB II |
     | 1. |  |  |  |  |  |  |  |
@@ -169,13 +191,13 @@ durch eine juristische Person, Behörde, Vereinigung oder eines beruflich Selbst
       a) Befristung der Dauervollmacht (Gültigkeit max. 1 Jahr)
         Die Dauervollmacht muss jedem Einzelantrag beigefügt werden. Sie erlischt spätestens am ____________, spätestens jedoch ein Jahr ab Unterzeichnung. Die Dauervollmacht ist jederzeit widerrufbar.
       b) Angaben zur Zustellung der Zulassungsunterlagen
-        □ Ich wähle die Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid durch den Bevollmächtigten oder ein durch ihn beauftragtes drittes* Unternehmen oder Person.
+        □ Ich beantrage die Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid durch den Bevollmächtigten oder ein durch ihn beauftragtes drittes* Unternehmen oder Person.
         □ Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
           | Name des Unternehmens |
           | oder | Name | Vorname |
           | Straße | Hausnummer |
           | PLZ | Ort |
-        □ Ich wähle den postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
+        □ Ich beantrage den postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
           | Versand der Zulassungsunterlagen | Zulassungsbescheinigung Teil I und Plaketten | □ Halter, □ Bevollmächtigter oder □ Dritter (D I)* |
           | Zulassungsbescheinigung Teil II | □ Halter, □ Bevollmächtigter oder □ Dritter (D II)* |
           □ * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
@@ -194,8 +216,8 @@ durch eine juristische Person, Behörde, Vereinigung oder eines beruflich Selbst
   Ich willige zu diesem Zweck ein, dass die Zulassungsbehörde dem/der Bevollmächtigten auf geeignetem elektronischem Wege
   • den Zeitpunkt der Wirksamkeit der Fahrzeugzulassung,
   • das Kennzeichen,
-  • die festgesetzte Gebührenhöhe
-  • sowie im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
+  • die festgesetzte Gebührenhöhe und
+  • im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
   jeweils einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten übermittelt.
   Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des Kraftfahrzeugsteuergesetz sowie Art und Höhe etwaiger Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben werden dürfen, soweit dies für die Prüfung des jeweiligen internetbasierten Antrags erforderlich ist.
-  □ [optional] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der DSGVO belehrt.
+  □ [optional] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.

@@ -723,11 +723,11 @@ auf dem Gebiet der Befähigungen in der Sportschifffahrt
 | 7 | Praktische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel oder Antriebsmaschine | § 8 Absatz 1 SpFV | 37,65 |
 | 8 | Praktische Prüfung zur Führung von Fahrzeugen auf Seeschifffahrtsstraßen | § 8 Absatz 1 SpFV | 44,50 |
 | 9 | Ergänzende praktische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel – am gleichen Tag | § 8 Absatz 1 und 3 SpFV | 18,40 |
-| 10 | Fahrerlaubnis | § 8 Absatz 8 SpFV | 27,20 |
-| 11 | Fahrerlaubnis ohne Prüfung | § 3 Absatz 5 bis 7,§ 4 Absatz 5 bis 7 SpFV | 39,20 |
-| 12 | Nachträgliche Erteilung oder Streichung von Auflagen | § 6 Absatz 4 SpFV | 22,20 |
-| 13 | Ersatzausfertigung | § 11 SpFV | 39,20 |
-| 14 | Vorläufige Fahrerlaubnis | § 8 Absatz 8 SpFV | 22,60 |
+| 10 | Fahrerlaubnis | § 8 Absatz 8 SpFV | 28,20 |
+| 11 | Fahrerlaubnis ohne Prüfung | § 3 Absatz 5 bis 7,§ 4 Absatz 5 bis 7 SpFV | 40,20 |
+| 12 | Nachträgliche Erteilung oder Streichung von Auflagen | § 6 Absatz 4 SpFV | 23,20 |
+| 13 | Ersatzausfertigung | § 11 SpFV | 40,20 |
+| 14 | Vorläufige Fahrerlaubnis | § 8 Absatz 8 SpFV | 23,60 |
 | 2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Sportküstenschifferscheinen (SKS), Sportseeschifferscheinen (SSS) und Sporthochseeschifferscheinen (SHS), Short Range Certificates (SRC), Long Range Certificates (LRC) und Befähigung Maschinist/Schiffer |
 | 1 | Zulassung zur Prüfung oder zur Feststellung der Befähigung SKS | § 5 SportSeeSchV | 20,80 |
 | 2 | Zulassung zur Prüfung oder zur Feststellung der Befähigung SSS/SHS | § 5 SportSeeSchV | 29,55 |

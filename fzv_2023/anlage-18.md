@@ -3,7 +3,8 @@
 1. Schematische Darstellung
   [Bild: bgbl1_2023_j01990_0630.jpg]
   Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei Buchstaben, so sind Zahlen und Buchstaben in der Mitte der Zeile anzubringen. Der Abstand vom Rand ist entsprechend zu vergrößern; die übrigen Abstände dürfen nur bis zum angegebenen Höchstmaß vergrößert werden.
-2. Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift – FE-Schrift). Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben der Anlage entsprechen.
+2. Schrift
+  Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ mit fälschungserschwerender Schrift – FE-Schrift. Die Schriftmuster können bei der Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben der Anlage entsprechen.
 3. Maße der Beschriftung und des Randes
   | Art der Beschriftung | Schrifthöhe | Schriftbreite | Waagerechter Abstand der Ziffern und Buchstaben voneinander | Waagerechter Abstand derBeschriftung vom schwarzen, blauen oder grünen Rand mindestens | Senkrechter Abstand der Ziffern und Buchstaben voneinander | Senkrechter Abstand derBeschriftung vom schwarzen, blauen oder grünen Rand | Breite des schwarzen, blauen oder grünen Randes | Höhe des Rahmens einschließlich schwarzem, blauem oder grünem Rand | Breite des Rahmens einschließlich schwarzem, blauem oder grünem Rand | Außenradius an allen 4 Ecken |
   |  | mm | mm | mm | mm | mm | mm | mm | mm | mm | mm |

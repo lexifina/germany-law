@@ -9,5 +9,5 @@
 - [§ 6 Besteuerung der Gewinne von in den Niederlanden ansässigen Blumenhändlern mit Umsätzen in Deutschland](0006.md)
 - [§ 7 Abfindungen an Arbeitnehmer](0007.md)
 - [§ 8 Anwendungsregelung](0008.md)
-- [§ 9 Inkrafttreten](0009.md)
+- [§ 9 Außerkrafttreten](0009.md)
 - [Schlussformel](schlussformel.md)

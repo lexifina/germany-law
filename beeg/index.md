@@ -10,7 +10,6 @@
 - [§ 2c Einkommen aus nichtselbstständiger Erwerbstätigkeit](0002c.md)
 - [§ 2d Einkommen aus selbstständiger Erwerbstätigkeit](0002d.md)
 - [§ 2e Abzüge für Steuern](0002e.md)
-- [§ 2f Abzüge für Sozialabgaben](0002f.md)
 - [§ 3 Anrechnung von anderen Einnahmen](0003.md)
 - [§ 4 Bezugsdauer, Anspruchsumfang](0004.md)
 - [§ 4a Berechnung von Basiselterngeld und Elterngeld Plus](0004a.md)

@@ -11,8 +11,8 @@
     Die Berechnung des Faktors (fM) für das Kriterium „Gesamtmasse“ erfolgt nach der folgenden Formel (x = die Gesamtmasse des Fahrzeugs im Einzelfall):
     | Gesamtmasse 41,8 t bis 200 t: | fM = 0,037926675 · x - 1,58533502 |
     | Gesamtmasse mehr als 200 t: | fM = 0,01 · x + 4. |
-  c) Anzahl der am Genehmigungsverfahren durch die Genehmigungsbehörde zu beteiligenden Stellen
-    Die Anzahl umfasst die Summe aller am Verfahren zu beteiligenden Stellen einschließlich der des eigenen Bundeslandes.
+  c) Anzahl der am Verfahren beteiligten Stellen
+    Die Anzahl umfasst die Summe aller am Verfahren beteiligten Stellen einschließlich der des eigenen Bundeslandes.
     Die Berechnung des Faktors (fB) erfolgt nach folgender Formel (x = die Summe der jeweils im Einzelfall beteiligten Stellen):
     fB = 4/9 · x - 4/9.
   d) Anzahl der zu genehmigenden Fahrtwege oder Flächen oder Bereiche

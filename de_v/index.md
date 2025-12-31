@@ -30,7 +30,7 @@ für Meldungen der Arbeitgeber
 ### Zweiter Unterabschnitt Korrektur von Meldungen
 
 - [§ 14 Stornierung](0014.md)
-- [§ 15 (weggefallen)](0015.md)
+- [§ 15 Korrektur von Meldungen durch die Einzugsstellen](0015.md)
 
 ## Dritter Abschnitt Meldungen der Arbeitgeber
 durch Datenübertragung
@@ -54,7 +54,7 @@ durch Datenübertragung
 
 - [§ 23 Annahmestelle, Zeitpunkt](0023.md)
 - [§ 24 (weggefallen)](0024.md)
-- [§ 25 Unterrichtung des Arbeitnehmers](0025.md)
+- [§ 25 (weggefallen)](0025.md)
 
 ## Vierter Abschnitt Beitragsnachweisverfahren
 
@@ -76,7 +76,7 @@ der Meldungen durch die Sozialversicherungsträger
 - [§ 36 Aufgaben der Datenstelle der Rentenversicherung](0036.md)
 - [§ 37 (weggefallen)](0037.md)
 
-## Siebter Abschnitt Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes und Zeiten einer besonderen Auslandsverwendung
+## Siebter Abschnitt Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes, Zeiten einer besonderen Auslandsverwendung und Zeiten des Bezugs von Übergangsgebührnissen
 
 - [§ 38 Entgeltersatzleistungen](0038.md)
 - [§ 39 Anrechnungszeiten, Sperrzeiten](0039.md)
@@ -86,7 +86,7 @@ der Meldungen durch die Sozialversicherungsträger
 
 ## Achter Abschnitt Ordnungswidrigkeiten
 
-- [§ 41 Ordnungswidrigkeiten](0041.md)
+- [§ 41 (weggefallen)](0041.md)
 
 ## Neunter Abschnitt Beitragsnachweisverfahren für sonstige Beiträge
 

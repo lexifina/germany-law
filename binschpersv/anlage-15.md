@@ -38,7 +38,7 @@ Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risi
     Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren.
     (5)
     die Vielzahl von Gefahrenstellen.
-Teil II. Elbe – von km 3,4 (Grenze zu Tschechien) bis km 607,5 Oortkaten (Obere Grenze des Hamburger Hafens) mit Ausnahme der Fahrt zwischen dem Rothenseer Verbindungskanal (Elbe-km 332,75) und der Zufahrt zum Industriehafen Magdeburg (Elbe-km 333,65) sowie der Hohnstorfer Brücke (Elbe-km 568,90) und dem Elbe-km 573,50
+Teil II. Elbe – von km 50,00 (Anlegestellen Fahrgastschifffahrt) bis km 60,60 (oberhalb der Hafenmündung Alberthafen), von km 322,90 (Abzweig Alte Elbe) bis km 329,85 (oberhalb Einfahrt Handelshafen) und von km 502,25 (Mündung der Alten Löcknitz) bis km 568,90 (Hohnstorfer Brücke)
 Zusätzliche Befähigung
 Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
 1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
