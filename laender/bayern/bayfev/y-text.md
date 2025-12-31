@@ -1,0 +1,1 @@
+Auf Grund des Art. 61 Abs. 10 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) vom 23. Mai 2006 (GVBl. S. 245, BayRS 2210-1-1-K), das zuletzt durch § 1 des Gesetzes vom 24. Juli 2020 (GVBl. S. 382) geändert worden ist, verordnet das Bayerische Staatsministerium für Wissenschaft und Kunst:
