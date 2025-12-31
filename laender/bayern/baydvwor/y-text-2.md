@@ -1,0 +1,6 @@
+1. Art. 9 Abs. 2 Satz 1 der Gemeindeordnung für den Freistaat Bayern (Gemeindeordnung – GO) in der Fassung der Bekanntmachung vom 22. August 1998 (GVBl S. 796, BayRS 2020-1-1-I), zuletzt geändert durch § 7 des Gesetzes vom 10. April 2007 (GVBl S. 271), und § 6 Abs. 1 Satz 2 des Gesetzes zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau in der Fassung der Bekanntmachung vom 25. Juli 1997 (BGBl I S. 1942), zuletzt geändert durch Art. 86 der Verordnung vom 31. Oktober 2006 (BGBl I S. 2407),
+die Bayerische Staatsregierung,
+2. Art. 6 Abs. 2 Satz 2 und Art. 23 des Gesetzes über die Wohnraumförderung in Bayern (Bayerisches Wohnraumförderungsgesetz–BayWoFG) vom 10. April 2007 (GVBl S. 260, BayRS 2330-2-I) sowie Art. 3, 5a Satz 1 und Art. 18a Abs. 1 Satz 1, Abs. 2 und 3 Satz 1 und Abs. 6 des Gesetzes zur Sicherung der Zweckbestimmung von Sozialwohnungen in Bayern (Bayerisches Wohnungsbindungsgesetz–BayWoBindG) vom 10. April 2007 (GVBl S. 267, BayRS 2330-3-I)
+das Bayerische Staatsministerium des Innern
+3. Art. 22 des Gesetzes zur Sicherung der Zweckbestimmung von Sozialwohnungen in Bayern (Bayerisches Wohnungsbindungsgesetz – BayWoBindG) in der Fassung der Bekanntmachung vom 23. Juli 2007 (GVBl S. 562, ber. S. 781, BayRS 2330-3-1)
+das Bayerische Staatsministerium der Finanzen
