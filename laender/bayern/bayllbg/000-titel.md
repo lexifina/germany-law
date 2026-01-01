@@ -1,0 +1,31 @@
+# Gesetz über die Leistungslaufbahn und die Fachlaufbahnen der bayerischen Beamten und Beamtinnen
+(Leistungslaufbahngesetz – LlbG)
+Vom 5. August 2010
+(GVBl. S. 410, 571)
+BayRS 2030-1-4-F
+Leistungslaufbahngesetz (LlbG) vom 5. August 2010 (GVBl. S. 410, 571, BayRS 2030-1-4-F), das zuletzt durch § 62 des Gesetzes vom 26. März 2026 (GVBl. S. 75) geändert worden ist
+Änderungen
+1. § 26 G zur Anpassung von Gesetzen an das Neue Dienstrecht vom 20.12.2011 (GVBl. S. 689)
+2. § 10 G zur Anpassung der Bezüge 2012 vom 30.3.2012 (GVBl. S. 94)
+3. § 1 G zur Änd. des LeistungslaufbahnG und anderer Rechtsvorschriften vom 22.5.2013 (GVBl. S. 301)
+4. § 4 G zur Änd. des Bayer. PersonalvertretungsG und weiterer Rechtsvorschriften vom 24.7.2013 (GVBl. S. 450)
+5. § 1 Nr. 62 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 22.7.2014 (GVBl. S. 286)
+6. Art. 12 Haushaltsgesetz 2015/2016 vom 17.12.2014 (GVBl. S. 511)
+7. § 3 G zur weiteren Verbesserung der Arbeitsbedingungen und der Vereinbarkeit von Familie und Beruf im öffentlichen Dienst in Bayern vom 17.7.2015 (GVBl. S. 240)
+8. § 2 G zur Änd. des Bayerischen BerufsqualifikationsfeststellungsG und anderer Rechtsvorschriften vom 22.12.2015 (GVBl. S. 497)
+9. § 3 G zur Änderung dienstrechtlicher Vorschriften vom 13.12.2016 (GVBl. S. 354)
+10. Art. 73a Abs. 4 Bayerisches Richter- und Staatsanwaltsgesetz vom 22.3.2018 (GVBl. S. 118)
+11. § 2 Nachtragshaushaltsgesetz 2018 vom 22.3.2018 (GVBl. S. 162)
+12. § 4 G zur Änd. personalaktenrechtlicher und weiterer dienstrechtlicher Vorschriften vom 18.5.2018 (GVBl. S. 286)
+13. § 1 Abs. 64 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 26.3.2019 (GVBl. S. 98)
+14. § 2 G zur besseren Vereinbarkeit von Familie und Beruf sowie zur Änderung weiterer dienstrechtlicher Vorschriften vom 23.12.2019 (GVBl. S. 724)
+15. G zur Anpassung leistungslaufbahnrechtlicher Regelungen an die Notwendigkeiten in der Corona-Pandemie vom 24.7.2020 (GVBl. S. 368)
+16. Art. 10a Haushaltsgesetz 2021 vom 9.4.2021 (GVBl. S. 150)
+17. § 2 G zur Änd. dienstrechtlicher Vorschriften vom 23.12.2021 (GVBl. S. 663)
+18. § 10 BezügeanpassungsG 2022 vom 23.6.2022 (GVBl. S. 254)
+19. Art. 130f Abs. 3 Bayerisches Hochschulinnovationsgesetz vom 5.8.2022 (GVBl. S. 414)
+20. § 2 G zur Änderung dienstrechtlicher Vorschriften vom 7.7.2023 (GVBl. S. 313)
+21. § 1 G zur Änderung dienstrechtlicher Vorschriften vom 21.6.2024 (GVBl. S. 151)
+22. § 3 Erstes ModernisierungsG Bayern vom 23.12.2024 (GVBl. S. 605)
+23. § 1 Zweites ModernisierungsG Bayern vom 23.12.2024 (GVBl. S. 619)
+24. § 62 Viertes Modernisierungsgesetz Bayern vom 26.3.2026 (GVBl. S. 75)
