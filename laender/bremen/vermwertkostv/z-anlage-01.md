@@ -3,304 +3,341 @@ Anlage 1
 (zu § 1)
 Kostenverzeichnis für Leistungen nach dem Vermessungs- und Katastergesetz sowie nach § 193 des Baugesetzbuches und nach § 5 Absatz 2 des Bundeskleingartengesetzes sowie nach der Verordnung über die Gutachterausschüsse für Grundstückswerte nach dem Baugesetzbuch
 Inhaltsverzeichnis
-1. | Allgemeine Regelungen und Amtliches Vermessungswesen
-11 | Allgemeine Regelungen
-12 | Amtliche Vermessung von Liegenschaften
-13 | Angaben aus den Nachweisen der Vermessungs- und Katasterbehörde
-14 | Auskünfte und Bescheinigungen der Vermessungs- und Katasterbehörde
-2. | Geobasisdaten
-20 | Berechnungsgrundlagen der Gebührenermittlung
-21 | Präsentationsausgaben
-22 | Digitale Geobasisdaten
-3. | Amtshandlungen der Aufsicht über das amtliche Vermessungswesen
-4. | Gutachterausschüsse nach dem Baugesetzbuch
-41 | Gutachterausschüsse nach dem Baugesetzbuch
-42 | Auskünfte und Auszüge
+1. | Allgemeine Regelungen
+11. | Gebührenberechnung nach Zeitaufwand
+12. | Auslagen
+13. | Auskunft und Beratung
+14. | Rücknahme eines Antrags
+2. | Amtshandlungen im amtlichen Vermessungs- und Geoinformationswesen
+21. | Amtliche Vermessungen zur Erhebung von Geobasisdaten des Liegenschaftskatasters
+210. | Vorbereitung von Vermessungsunterlagen
+211. | Liegenschaftsvermessung an Flurstücken
+212. | Liegenschaftsvermessung an Gebäuden (Gebäudeeinmessung)
+213. | Anfertigung eines qualifizierten Lageplanes gemäß § 7 Absatz 3 BremBauVorlV oder einer Planunterlage gemäß § 1 PlanZV
+214. | Vermessungstechnische Übertragung von Grenzpunkten in die Örtlichkeit
+215. | Erteilung einer Bescheinigung
+216. | Beglaubigung von Anträgen auf Vereinigung und Teilung von Grundstücken
+22. | Führung des Liegenschaftskatasters
+220. | Übernahme der Ergebnisse von Amtshandlungen in das Liegenschaftskataster
+221. | Bearbeitung eines Unschädlichkeitszeugnisses
+222. | Bearbeitung einer Bescheinigung über die Nichtbetroffenheit nach § 1026 BGB oder über die Lage anderer Belastungen
+23. | Bereitstellung von Geobasisdaten
+230. | Online-Bereitstellung von hochwertigen Datensätzen gemäß § 10 Absatz 3 DNG
+231. | Berechnungsgrundlagen der Gebührenermittlung zur Abgabe und zur Nutzung von Geobasisdaten
+232. | Abruf oder Abgabe von Präsentationsausgaben
+233. | Bereitstellung von Geobasisdaten
+234. | Abgabe von Kopien aus den Nachweisen des Liegenschaftskatasters
+3. | Amtshandlungen der Aufsicht über die amtlichen Vermessungsstellen
+4. | Amtshandlungen im Bereich der amtlichen Wertermittlung
+41. | Erstattung von Gutachten
+42. | Bereitstellung von Bodenrichtwerten sowie Angaben zum Grundstücksmarkt und Auskünfte aus der Kaufpreissammlung
 Verzeichnis der abgekürzten Rechtsvorschriften
 AllKostV | Allgemeine Kostenverordnung
 BauGB | Baugesetzbuch
-BauKostV | Kostenverordnung Bau
-BremBauVorlB | Bremische Bauvorlagenverordnung
+BauKostV | Bremische Bauvorlagenverordnung
+BremBauVorlV | Bremische Bauvorlagenverordnung
+BremGebBeitrG | Bremisches Gebühren- und Beitragsgesetz
 BremÖbVIG | Bremisches Gesetz über die Öffentlich bestellten Vermessungsingenieurinnen und Öffentlich bestellten Vermessungsingenieure
+DNG | Gesetz für die Nutzung von Daten des öffentlichen Sektors
+DSGVO | Datenschutz-Grundverordnung
 PlanZV | Planzeichenverordnung
-Tarif- ziffer | Gebührentatbestand | Gebühr | 
-1 | Allgemeine Regelungen und Amtliches Vermessungswesen |  | 
-11 | Allgemeine Regelungen |  | 
-11.1 | Gebührenberechnung nach Zeitaufwand Bei Gebührenberechnung nach dem Zeitaufwand gelten unter Berücksichtigung der Regelung in § 5 Absatz 1 des Bremischen Gebühren- und Beitragsgesetzes als Stundensätze: |  | 
-11.1.1 | Experten (Qualifikation Diplom-Ingenieur / Master) | 99 EUR | 
-11.1.2 | Auftrags- und Projektverantwortliche (Qualifikation |  | 
- | Diplom-Ingenieur, Master, Bachelor oder vergleichbare Qualifikation) | 82 EUR | 
-11.1.3 | Sachbearbeiter (Vermessungstechniker, Geomatiker oder vergleichbare Qualifikation) und Vermessungsgehilfen | 57 EUR | 
- | Anmerkung 11 Kosten für Außendienstentschädigungen und für den Einsatz von Dienstfahrzeugen und Vermessungsgeräten sind in den Gebühren enthalten. |  | 
-11.2 | Auslagen (z.B. für öffentliche Bekanntmachungen) in nachgewiesener Höhe |  | 
-11.3 | Rücknahme eines Antrages Bei Rücknahme eines Antrages auf Durchführung einer Amtshandlung, nachdem mit der Bearbeitung im Innen- oder Außendienst begonnen wurde - Zeitgebühren nach 11.1, jedoch mindestens - zuzüglich Gebühren für bereits angefertigte Präsentationsausgaben und Unterlagen | 100 EUR | 
-12 | Amtliche Vermessung von Liegenschaften |  | 
- | Anmerkung 12a Liegenschaftsvermessungen (Zerlegung, Grenzfeststellung, Gebäudeeinmessung) bestehen regelmäßig aus folgenden Arbeitsschritten: aa) Bereitstellen von Angaben des amtlichen Vermessungswesens (Vermessungsunterlagen) durch die Katasterbehörde (12.6) bb) örtliche Vermessung (12.1, 12.2 oder 12.5.1) mit häuslichen Vorarbeiten (sofern erforderlich mit Abmarkung (12.4)) und häuslicher Nachbearbeitung cc) Übernahme der Vermessungsergebnisse in die Nachweise des amtlichen Vermessungswesens durch die Katasterbehörde (12.7) Vermessungen für die örtliche Anzeige von Grenzen (12.3) und zur Vorbereitung von Baumaßnahmen (12.5.3 -Qualifizierter Lageplan) bestehen regelmäßig aus folgenden Arbeitsschritten: aa) Bereitstellen von Angaben des amtlichen Vermessungswesens nach 12.6.2 durch die Katasterbehörde bb) Vermessung (12.3 oder 12.5.3) Anmerkung 12b Die Gebühren für Vermessungen setzen sich grundsätzlich zusammen aus der Grundgebühr und der Vermessungsgebühr. In den Grundgebühren sind enthalten: Die Kosten für Porto, Telefon, Fahrzeug- und Gerätebenutzung sowie die Kosten für Wegezeiten des Vermessungstrupps. Anmerkung 12c Bei gleichzeitiger Durchführung mehrerer Vermessungen unterschiedlicher Art und mit gleichen Beteiligten auf aneinandergrenzenden Grundstücken ist nur eine Grundgebühr zu erheben. Weichen die für die jeweiligen Vermessungen maßgeblichen Grundgebühren voneinander ab, ist die höchste anzusetzen. |  | 
-12.1 | Zerlegung |  | 
-12.1.1 | Festlegung neuer Flurstücksgrenzen |  | 
- | - Grundgebühr - zuzüglich einer Vermessungsgebühr für jedes neu gebildete Flurstück, die sich aus dem Produkt eines flächenbezogenen Gebührensatzes nach 12.1.2 und eines am Bodenrichtwert orientierten Wertfaktors nach 12.1.3 ergibt | 500 EUR | 
-12.1.2 | Tabelle I zu 12.1.1 (flächenbezogener Gebührensatz) |  | 
- | Fläche (m2) |  | 
- | bis 120 | 300 EUR | 
- | 121 bis 700 | 650 EUR | 
- | 701 bis 2.000 | 850 EUR | 
- | 2 001 bis 5 000 | 1 700 EUR | 
- | 5 001 und größer | 2 500 EUR | 
- | Anmerkung 12.1a Ist die vollständige Vermessung des größten neuen Flurstücks nicht vorgeschrieben (sog. Reststück), so ist der Ermittlung der auf das Reststück entfallenden anteiligen Gebühr nach Tabelle 12.1.2 die Summe der Flächeninhalte der übrigen aus demselben Stammflurstück entstandenen neuen Flurstücke zugrunde zu legen. Führt diese Summenbildung zu einer größeren Fläche als der Buchfläche des Reststücks, ist die Buchfläche des Reststücks anzusetzen. |  | 
-12.1.3 | Tabelle II zu 12.1.1 (Wertfaktor) |  | 
- | Bodenrichtwert (EUR / m2) | Wertfaktor | 
- | bis 10 | 0,4 | 
- | 11 bis 50 | 0,6 | 
- | 51 bis 100 | 0,9 | 
- | 101 bis 500 | 1,0 | 
- | 501 bis 5 000 | 1,4 | 
- | 5 001 und mehr | 2,0 | 
- | Anmerkung 12.1b Für die Ermittlung des Wertfaktors ist der Bodenrichtwert anzusetzen, der für das Vermessungsgebiet aus der aktuellen Bodenrichtwertkarte ersichtlich ist. Fehlen Bodenrichtwerte, so ist der Wertfaktor auf der Grundlage von Bodenrichtwerten vergleichbarer Gebiete plausibel festzulegen. Jedem neu gebildeten Flurstück ist der jeweils zutreffende Wertfaktor der Tabelle II zuzuordnen. Für Waldflächen und landwirtschaftliche Flächen ist der Wertfaktor 0,4, für Verkehrs- und öffentliche Grünflächen der Wertfaktor 0,6 anzusetzen. Für private Grünflächen ist der Wertfaktor 0,6 anzusetzen, wenn diese Flächen im Bebauungsplan entsprechend ausgewiesen sind. Bei der Aufteilung von Baugebieten ist die Wertstufe für vergleichbares baureifes Land anzusetzen. Maßgeblich ist die angestrebte künftige Nutzung des jeweiligen Flurstücks. |  | 
-12.2 | Grenzfeststellung |  | 
-12.2.1 | Feststellung des örtlichen Verlaufs von Flurstücksgrenzen (Grenzfeststellung) |  | 
- | - Grundgebühr | 350 EUR | 
- | - zuzüglich Gebühr für die festgestellten oder neu abgemarkten Grenzpunkte nach 12.2.2 |  | 
-12.2.2 | Tabelle zu 12.2.1 (Gebühr je Grenzpunkt) |  | 
- | 1. bis 4. Grenzpunkt je | 270 EUR | 
- | ab 5. Grenzpunkt je | 60 EUR | 
-12.3 | Vermessungstechnische Übertragung von Grenzpunkten in die Örtlichkeit |  | 
- | - Grundgebühr | 200 EUR | 
- | - zuzüglich eines Bruchteils der Gebühr nach 12.2.2 in Höhe von | 20 v.H. | 
-12.4 | Abmarkung von Grenzpunkten im Rahmen von Zerlegungen und Grenzfeststellungen |  | 
- | - für jeden abgemarkten Grenzpunkt | 30 EUR | 
- | - bei nachträglichen Abmarkungen zuzüglich einer Grundgebühr von | 200 EUR | 
-12.5 | Einmessung von Gebäuden, Lagepläne und Planunterlagen |  | 
-12.5.1 | Einmessung von Gebäuden oder im Grundriss veränderter Gebäude und von baulichen Anlagen |  | 
- | - Grundgebühr je Grundstück | 120 EUR | 
- | - zuzüglich der Gebühr, die sich nach 12.5.2 ergibt |  | 
-12.5.2 | Tabelle zu 12.5.1 |  | 
- | Baukosten |  | 
- | bis 20 000 EUR | 150 EUR | 
- | 20 001 bis 50 000 EUR | 190 EUR | 
- | 50 001 bis 250 000 EUR | 530 EUR | 
- | 250 001 bis 500 000 EUR | 780 EUR | 
- | 500 001 bis 1 000 000 EUR | 1 380 EUR | 
- | 1 000 001 bis 5 000 000 EUR | 3 320 EUR | 
- | 5 000 001 bis 10 000 000 EUR | 6 300 EUR | 
- | über 10 000 000 EUR |  | 
- | je weitere angefangene 5 000 000 EUR | 1 000 EUR | 
- | - zuzüglich des vorhergehenden Gebührensatzes |  | 
- | Anmerkung 12.5a Bei der zeitgleichen Einmessung eines Baukörpers, der sich über mehr als ein Grundstück erstreckt, ist nur eine Grundgebühr anzusetzen. Baukörper sind im zeitlichen Zusammenhang errichtete unmittelbar aneinander gebaute gleichartige Gebäude, die in der Grundrissdarstellung von einer ununterbrochenen Linie umschlossen sind. Anmerkung 12.5b Eine Gebühr nach 12.5.2 ist anzusetzen für jedes Gebäude oder jeden Teil eines Baukörpers im Sinne der Anmerkung 12.5a, wenn und soweit dafür eine separate Hausnummer vergeben ist oder vergeben wird. Anmerkung 12.5c Bei Einmessung eines Gebäudes mit mehr als 50 000 EUR Baukosten beinhaltet die Gebühr auch die Einmessung von zwei zeitgleich errichteten Nebengebäuden auf demselben Grundstück. Zur Bemessung der Gebühr ist die Summe der Baukosten der eingemessenen Gebäude anzuhalten. Anmerkung 12.5d Sind auf einem Grundstück mehrere Grundrissveränderungen oder Gebäude einzumessen, deren gesamte Baukosten 50 000 EUR nicht übersteigen, dann ist die Summe der Baukosten bei der Bemessung der Gebäudeeinmessungsgebühr anzuhalten. Anmerkung 12.5e Für die Gebührenrechnung sind in der Regel die in den Bauakten der Bauordnungsämter geführten Baukosten maßgebend. Sind darin entsprechende Angaben nicht enthalten, sind Baukosten zugrunde zu legen, die sich nach § 2 der BauKostV ergeben. |  | 
-12.5.3 | Qualifizierter Lageplan gemäß § 7 Absatz 3 BremBauVorlV und Planunterlagen für Vorhaben- und Erschließungspläne gemäß § 12 BauGB in Verbindung mit § 1 PlanZV |  | 
- | - Grundgebühr | 350 EUR | 
- | - zuzüglich der Vermessungsgebühr nach 12.5.4 |  | 
-12.5.4 | Tabelle zu 12.5.3 |  | 
- | Baukosten |  | 
- | bis 200 000 EUR | 480 EUR | 
- | 200 001 bis 1 000 000 EUR | 810 EUR | 
- | 1 000 001 bis 3 000 000 EUR | 1 830 EUR | 
- | 3 000 001 bis 7 000 000 EUR | 2 700 EUR | 
- | 7 000 001 bis 10 000 000 EUR über 10 000 000 EUR | 3 150 EUR | 
- | je weitere angefangene 5 000 000 EUR | 500 EUR | 
- | - zuzüglich des vorhergehenden Gebührensatzes |  | 
- | Anmerkung 12.5f Die Gebühr für den Lageplan beinhaltet bis zu drei Ausfertigungen |  | 
-12.6 | Vermessungsunterlagen für Liegenschaftsvermessungen |  | 
-12.6.1 | Vermessungsunterlagen für Amtshandlungen nach 12.1, 12.2, 12.4 und 12.5.1 |  | 
- | - Grundgebühr | 120 EUR | 
- | - zuzüglich eines Bruchteils von der für die Durchführung der Vermessung zu erhebenden Gebühren | 10 v. H. | 
- | Anmerkung 12.6a Bei der zeitgleichen Vermessung auf aneinandergrenzenden Grundstücken, z.B. zur Zerlegung eines Flurstücks, der Feststellung einer gemeinsamen Grenze, oder Einmessung eines Baukörpers, der sich über mehr als ein Grundstück erstreckt, ist nur eine Grundgebühr anzusetzen. Anmerkung 12.6b Werden für Amtshandlungen nach 12.1, 12.2, 12.4 und 12.5 vor Ablauf von zwölf Monaten für entsprechende weitere Amtshandlungen auf einem Grundstück oder für die unter Anmerkung 12.6a genannten Fälle Vermessungsunterlagen benötigt, wird für diejenigen Unterlagen bei denen es sich lediglich um Aktualisierungen handelt, eine Grundgebühr nicht mehr erhoben. |  | 
-12.6.2 | Bereitstellung von Vermessungsunterlagen durch die Katasterbehörde für je maximal 5 aneinandergrenzende Grundstücke für Beratungszwecke und Vermessungen nach 12.3 und 12.5.3 | 120 EUR | 
-12.7 | Übernahme der Ergebnisse von Amtshandlungen in das Liegenschaftskataster |  | 
-12.7.1 | Übernahme der Ergebnisse von Amtshandlungen nach 12.1, 12.2, 12.4 und 12.5.1 |  | 
- | - Grundgebühr | 200 EUR | 
- | - zuzüglich Ergänzungsgebühr nach 12.7.2 |  | 
- | Anmerkung 12.7a Es ist höchstens eine Grundgebühr je Baukörper zu erheben. |  | 
-12.7.2 | Ergänzungsgebühr als Bruchteil der für die Durchführung der Liegenschaftsvermessung zu erhebenden Gebühren in Höhe von |  | 
- |  | a) Zerlegung (12.1) mit Abmarkung (12.4) | 35 v. H.
- |  | b) Grenzfeststellung (12.2) mit Abmarkung (12.4) | 20 v. H.
- |  | c) Einmessung von Gebäuden oder im Grundriss veränderter Gebäude und von baulichen Anlagen (12.5.1) | 30 v. H.
- | Anmerkung 12.7b Bei gleichzeitig durchgeführten Vermessungen unterschiedlicher Art sind die für die jeweilige Art der Amtshandlung zutreffenden Prozentsätze nach 12.7.2 bei der Ableitung der Übernahmegebühr anzuhalten. Die bei gleichzeitig durchgeführten Amtshandlungen nicht zu erhebenden Grundgebühren sind auch bei der Ableitung der Übernahmegebühr nicht zu berücksichtigen. Anmerkung 12.7c Die Gebühren nach 12.7.1 und 12.7.2 c) entfallen, sofern von Gebäudeeinmessungen auf dem Grundstück ausschließlich Gebäude oder Grundrissveränderungen betroffen sind, deren gesamte Baukosten 20 000 EUR nicht übersteigen. Bei der Einmessung von Gebäuden mit Baukosten über 20 000 und bis zu 50 000 EUR entfällt bei der Berechnung der Übernahmegebühr die Grundgebühr. Anmerkung 12.7d Die Gebühren nach 12.7.1 und 12.7.2 beinhalten eine Standardpräsentation der Liegenschaftskarte sowie die für die Mitteilung der Veränderungen im Liegenschaftskataster erforderlichen Auszüge aus den Katasternachweisen. |  | 
-12.7.3 | Bereinigung oder Ergänzung eingereichter Vermessungsschriften aufgrund geringfügiger Mängel |  | 
- | - Zeitgebühren nach 11.1 |  | 
-13 | Angaben aus den Nachweisen der Vermessungs- und Katasterbehörde |  | 
-13.1 | Kopien von Vermessungsrissen |  | 
- | - je Riss | 15 EUR | 
- | - mindestens jedoch je Antrag | 50 EUR | 
-13.2 | Abschriften oder Auszüge aus Katasterbüchern, Ausfertigung von Veränderungsnachweisen |  | 
- | - je Seite | 0,75 EUR | 
- | - mindestens jedoch je Antrag | 50 EUR | 
- | Anmerkung 13.2 Zuzüglich Gebühren für Beglaubigungen gemäß AllKostV und Auslagen nach 11.2 |  | 
-13.3 | Auszüge aus den Nachweisen des Raumbezugs und Punktübersichten |  | 
- | - je Seite/Blattausschnitt | 15 EUR | 
- | - mindestens jedoch je Antrag | 50 EUR | 
-13.4 | Zugang zum Geobasisdatendienst der Katasterbehörde für Öffentlich bestellte Vermessungsingenieure zur Nutzung für Beratungszwecke |  | 
- | - je registriertem Nutzer und Jahr | 200 EUR | 
-14 | Auskünfte und Bescheinigungen der Vermessungs- und Katasterbehörde |  | 
-14.1 | Mündliche Auskünfte | gebührenfrei | 
-14.2 | Schriftliche Auskünfte |  | 
- | a) für den Betroffenenen, der damit Auskunft über die zu seiner Person gespeicherten Daten erhält b) für sonstige Antragsteller - Zeitgebühren gemäß 11.1 | gebührenfrei | 
-14.3 | Bescheinigungen (z.B. Grenzeinhaltungsbescheinigung, Entfernungsbescheinigung, Identitätsbescheinigung), |  | 
- | - je Bescheinigung | 50 EUR | 
-14.4 | Unschädlichkeitszeugnis |  | 
-14.4.1 | Erteilung eines Unschädlichkeitszeugnisses oder Ablehnung der Erteilung |  | 
- | - bis zu zehn Beteiligte | 200 EUR | 
-14.4.2 | Zuschlag zu 14.4.1 für je weitere angefangene zehn Beteiligte | 70 EUR | 
-14.4.3 | Durchführung einer Anhörung - Zeitgebühren nach 11.1, - Auslagen nach 11.2 |  | 
-2 | Geobasisdaten |  | 
-20 | Berechnungsgrundlagen der Gebührenermittlung zur Bereitstellung und zum Recht der Nutzung von Geobasisdaten |  | 
- | Anmerkung 20a Für die Bereitstellung oder das Recht zur Nutzung von Geobasisdaten werden einmalig oder jährlich Gebühren erhoben. Anmerkung 20b Für die Bereitstellung von Geobasisdaten wird eine Bereitstellungsgebühr auf der Basis der produktbezogenen Basisbeträge, multipliziert mit mengenbezogenen Faktoren ermittelt. Die mengenbezogenen Faktoren richten sich in Abhängigkeit von dem Produkt jeweils nach der a) Anzahl von Mehrausfertigungen (z.B. bei analogen Produkten), b) Objektanzahl (z.B. bei Vektordaten), c) betreffenden Fläche (bei Offline-Abgabe von Daten der Geotopographie). Anmerkung 20c Werden offline abgegebene Geobasisdaten turnusmäßig aktualisiert, werden Aktualisierungsgebühren nach 20.3 erhoben. Anmerkung 20d Für die Bereitstellung von Geobasisdaten über Dienste sind 20.5.1 und 20.5.2 anzuhalten. Anmerkung 20e Zusätzlich zur Bereitstellungsgebühr werden Nutzungsgebühren nach 20.6 für das Recht zur Nutzung erhoben. Anmerkung 20f Die Mindestgebühr für die Abgabe oder das Recht zur Nutzung von Geobasisdaten richtet sich nach 20.4.2a). Anmerkung 20g Bei der offline-Abgabe von Geobasisdaten sind die Aufwände für Standarddatenträger und der Zeitaufwand für die zur Abgabe notwendige Aufbereitung der vorhandenen Geobasisdatensätze grundsätzlich in der Bereitstellungsgebühr enthalten. Für speziell auf den Datennutzer zugeschnittene inhaltliche oder räumliche Datenaufbereitungen oder die Transformation in spezielle Datenformate gelten die Zeitgebühren nach 11.1 und die Mindestgebühr nach 20.4.2b). |  | 
-20.1 | Mengenbezogene Gebührenfaktoren |  | 
-20.1.1 | Informationsmenge (Objekte) | Faktor | 
- | - bis 1 000 Objekte | 1,000 | 
- | - 1 001 bis 10 000 Objekte | 0,500 | 
- | - 10 001 bis 100 000 Objekte | 0,250 | 
- | - 100 001 und mehr Objekte | 0,125 | 
- | Anmerkung 20.1 Sofern Geobasisdaten objektbezogen abgerechnet werden, richtet sich die Höhe der Gebühr nach der Objektanzahl. Die Berechnung erfolgt je Datensatz bzw. Produkt. |  | 
-20.1.2 | Mehrausfertigungen von Präsentationsausgaben, die in einem Arbeitsgang mit der Erstausfertigung erstellt werden |  | 
- | - Gebühr als Bruchteil der Gebühr für die Erstausfertigung in Höhe von | 20 v.H. | 
-20.2 | Abgesenkte Vektordaten | Faktor | 
- | Datenformatabhängiger Gebührenfaktor bei der Abgabe von standardmäßig im Vektorformat geführten Geobasisdaten wie z.B. ALKIS, ATKIS-Basis-DLM, ATKIS-DGM im Rasterformat (abgesenkte Vektordaten) | 0,250 | 
- | Anmerkung 20.2 Die Höhe der Gebühr bei Abgabe von abgesenkten Vektordaten ergibt sich aus dem Basisbetrag, multipliziert mit der Anzahl der Objekte, multipliziert mit dem jeweiligen Faktor nach 20.2 |  | 
-20.3 | Aktualisierungsgebühren für die Bereitstellung aktualisierter digitaler Geobasisdaten (Offline- Bereitstellung) |  | 
- | a) Geobasisdaten des Liegenschaftskatasters (22.0) und daraus abgeleiteter Produkte (22.5 bis 22.6) - Gebühr als Bruchteil der für die erstmalige Bereitstellung erhobenen Bereitstellungsgebühren, jährlich in Höhe von | 35 v.H. | 
- | b) Geobasisdaten der Geotopographie (22.1 bis 22.4) - Gebühr als Bruchteil der für die erstmalige Bereitstellung erhobenen Bereitstellungsgebühren, jährlich in Höhe von | 18 v.H. | 
-20.4 | Mindestgebühr |  | 
- | a) Bereitstellung oder Erteilung eines Rechts zur Nutzung von digitalen Geobasisdaten, je Antrag bzw. bei Nutzung von Diensten jährlich mindestens | 50 EUR | 
- | b) Nutzerorientierte Datenaufbereitung oder Konvertierung in spezielle Datenformate nach Zeitgebühren nach 11.1, je Antrag mindestens | 100 EUR | 
-20.5 | Bereitstellung von Datensätzen über Dienste |  | 
-20.5.1 | Bereitstellungsgebühr für Downloaddienste (Online-Bereitstellung von Objektdaten) |  | 
- | - Gebühr als Bruchteil der jeweiligen Bereitstellungsgebühr in Höhe von | 100 v.H. | 
-20.5.2 | Bereitstellungsgebühr für Darstellungsdienste (Online-Bereitstellung von Rasterdaten) |  | 
- | a) Geobasisdaten des Liegenschaftskatasters (22.0) und daraus abgeleiteter Produkte (22.5 bis 22.6) - jährliche Gebühr als Bruchteil der jeweiligen Bereitstellungsgebühr in Höhe von | 3 v.H. | 
- | b) Geobasisdaten der Geotopographie (22.1 bis 22.4) - jährliche Gebühr als Bruchteil der jeweiligen Bereitstellungsgebühr in Höhe von | 3 v.H. | 
-20.6 | Gebühr für das Recht zur Nutzung von Daten |  | 
-20.6.1 | Interne Nutzung |  | 
- | Anmerkung 20.6a Interne Nutzung ist die Verwendung der Geobasisdaten für den privaten und sonstigen eigenen Gebrauch des Lizenznehmers einschließlich der Nutzung in einem internen Informationssystem. Die Bereitstellungsgebühr beinhaltet das Recht zur internen Nutzung. |  | 
-20.6.2 | Recht zur internen Nutzung durch Unternehmen, die mit dem Lizenznehmer verbunden sind (nicht auf ALKIS anwendbar, weder auf Präsentationsausgaben noch auf Datensätze) | Faktor | 
- | - bis einschließlich 2 | 1,5 | 
- | - mehr als 2 | 2,5 | 
- | Anmerkung 20.6b Die Gebühr für das Recht zur internen Nutzung nach 20.6.2 ergibt sich durch Multiplikation der Bereitstellungsgebühr mit dem jeweiligen Faktor. |  | 
-20.6.3 | Externe Nutzung (nicht auf ALKIS-Datensätze anwendbar) |  | 
- | Die Verwertungsgebühr (Wiederverkauf) beträgt als Bruchteil der jeweiligen Bereitstellungsgebühr | 60 v.H. | 
- | Anmerkung 20.6c Externe Nutzung ist jede Weitergabe von Geobasisdaten durch den Lizenznehmer an Dritte mit oder ohne deren Veränderung. Für dieses Recht werden zusätzlich zur Bereitstellungsgebühr Gebühren für das Recht der Nutzung erhoben. |  | 
-21 | Präsentationsausgaben |  | 
-21.0 | Liegenschaftskataster (ALKIS-Standard-Präsentationsausgeben) |  | 
- | - bis Format DIN A3 | 25 EUR | 
- | - größer DIN A3 bis einschließlich DIN A0 | 60 EUR | 
- | Anmerkung 21.0 Zuzüglich Gebühren für Beglaubigungen gemäß AllKostV und Auslagen nach 11.2 |  | 
-21.1 | Topographische Karten |  | 
- | Amtliche Basiskarte 1:5 000 (ABK5) |  | 
- | - bis Format DIN A3 | 25 EUR | 
- | - größer DIN A3 bis einschließlich DIN A0 | 60 EUR | 
-21.2 | entfallen |  | 
-21.3 | Luftbilderzeugnisse |  | 
-21.3.1 | Historische Luftbilder auf Papier |  | 
- | - bis DIN A3 | 25 EUR | 
-21.3.2 | Individuelles Orthophoto |  | 
- | - objektbezogen, DIN A3, auf Photopapier | 50 EUR | 
-22 | Digitale Geobasisdaten |  | 
-22.0 | Datensätze des Liegenschaftskatasters (ALKIS-Standard-Datensätze) |  | 
-22.0.1 | Flurstücke, Basisbetrag je Objekt | 1,80 EUR | 
-22.0.2 | Gebäude, Basisbetrag je Objekt | 0,90 EUR | 
-22.0.3 | Tatsächliche Nutzung, Basisbetrag je Objekt | 0,90 EUR | 
-22.0.4 | Bodenschätzung, Basisbetrag je Objekt | 0,90 EUR | 
-22.0.5 | Eigentümer, Basisbetrag je Objekt | 0,90 EUR | 
-22.0.6 | Komplettabgabe auf Basis Flurstück | 4,10 EUR | 
-22.0.7 | Komplettabgabe auf Basis Flurstück - ohne Eigentümerangaben - | 3,60 EUR | 
-22.1 | Digitale Topographische Karten |  | 
-22.1.1 | Amtliche Basiskarte 1 : 5 000 (ABK 5) |  | 
- | Basisbetrag je angefangene 1 km2 Naturfläche | 7,50 EUR | 
-22.1.2 | Digitale Topographische Karten (ATKIS-DTK) DTK 1 : 25 000 / 1 : 50 000 / 1 : 100 000 |  | 
- | Basisbetrag je angefangene 1 km2 Naturfläche |  | 
- | a) ATKIS-DTK25 | 1,00 EUR | 
- | b) ATKIS-DTK50 | 0,30 EUR | 
- | c) ATKIS-DTK100 | 0,10 EUR | 
-22.1.3 | Bei Abgabe einzelner Objektartenbereiche der DTK sind die Basisbeträge jeweils mit folgendem Faktor zu multiplizieren: |  | 
- | Grundriss/Schrift | 0,60 | 
- | Vegetation | 0,15 | 
- | Gewässer | 0,10 | 
- | Höhenlinien | 0,15 | 
-22.2 | Digitale Landschaftsmodelle |  | 
-22.2.1 | Digitales Landschaftsmodell (ATKIS Basis-DLM) -Datenbestand aller Objektartenbereiche |  | 
- | Basisbetrag je angefangene 1 km2 Naturfläche | 7,50 EUR | 
-22.2.2 | Entfallen |  | 
-22.2.3 | Digitales Landschaftsmodell (ATKIS-DLM50) - Datenbestand aller Objektartenbereiche | 2 EUR | 
- | Basisbetrag je angefangene 1 km2 Naturfläche |  | 
- | Anmerkung 22.2 Bei Abgabe einzelner Objektartenbereiche des DLM sind die Basisbeträge jeweils mit folgendem Faktor zu multiplizieren: | Faktor | 
- | a) Siedlung | 0,35 | 
- | b) Verkehr | 0,35 | 
- | c) Vegetation | 0,15 | 
- | d) Gewässer | 0,10 | 
- | e) Gebiete | 0,05 | 
- | f) Relief | 0,15 | 
-22.3 | Digitale Geländemodelle |  | 
- | Basisbetrag je angefangene 1 km2 Naturfläche |  | 
- | ATKIS-DGM1 | 80 EUR | 
- | ATKIS-DGM5 | 20 EUR | 
-22.4 | Digitale Orthophotos und Luftbilder |  | 
-22.4.1 | Orthophotos (ATKIS-DOP20) |  | 
- | Basisbetrag je angefangene 1 km2 Naturfläche | 9 EUR | 
-22.4.2 | Orthophotos (Dop10) |  | 
- | Basisbetrag, je angefangene 1 km2 Naturfläche | 40 EUR | 
-22.4.3 | Orientierte Luftbilder CIR oder RGB, TIF-Format, 10 cm Bodenauflösung |  | 
- | - je angefangene 1 km2 Naturfläche | 40 EUR | 
-22.5 | 3D-Gebäudemodelle |  | 
-22.5.1 | a) LoD1 (Level of Detail 1) |  | 
- | Basisbetrag je Objekt | 0,27 EUR | 
-22.5.2 | b) LoD2 (Level of Detail 2) |  | 
- | Basisbetrag je Objekt | 0,65 EUR | 
- | Anmerkung 22.5 Die Gebühr errechnet sich aus dem jeweiligen Basisbetrag je Objekt, multipliziert mit der Anzahl der Objekte und dem Faktor nach 20.1.1 |  | 
-22.6 | Hauskoordinaten, Hausumringe |  | 
-22.6.1 | Hauskoordinaten |  | 
- | Basisbetrag je Objekt | 0,15 EUR | 
-22.6.2 | Hausumringe |  | 
- | Basisbetrag je Objekt | 0,12 EUR | 
- | Anmerkung 22.6 Die Gebühr für Hauskoordinaten und Hausumringe ergibt sich aus dem Basisbetrag multipliziert mit der jeweiligen Anzahl der Objekte, multipliziert mit dem Faktor nach 20.1.1. |  | 
-3 | Amtshandlungen der Aufsicht über das amtliche Vermessungswesen |  | 
-31 | Bestellung zur Öffentlich bestellten Vermessungsingenieurin oder zum Öffentlich bestellten Vermessungsingenieur gemäß §§ 3 bis 6 des Bremischen Gesetzes über die Öffentlich bestellten Vermessungsingenieurinnen und -ingenieure (BremÖbVIG) | 500 EUR | 
-32 | Bestellung einer Stellvertretung für die nach dem BremÖbVIG beliehene Person | 100 EUR | 
-33 | Erteilung der Genehmigung zur Bildung einer Arbeits- und Bürogemeinschaft der Beliehenen | 230 EUR | 
-34 | Ausfertigung einer Bescheinigung für die nach dem BremÖbVIG beliehene Person oder den Inhaber einer Befugnis zur Durchführung von Liegenschaftsvermessungen | 50 EUR | 
-35 | Zurücknahme der Bestellung gemäß § 8 BremÖbVIG | 250 EUR | 
-36 | Zurücknahme der Bestellung gemäß § 8 des Bremischen Gesetzes über die Öffentlich bestellten Vermessungsingenieurinnen und Öffentlich bestellten Vermessungsingenieure | 250 EUR | 
-4 | Gutachterausschüsse nach dem Baugesetzbuch |  | 
-41 | Ermittlung von Grundstückswerten |  | 
- | Anmerkung 41a Für Gutachten über Grundstückswerte nach 41.1 bis 41.7 leitet sich die Gebühr aus dem Verkehrswert des Wertermittlungsobjektes ab, soweit in den Anmerkungen nichts anderes bestimmt ist. Auslagen sind gemäß 11.2 zu erheben. Anmerkung 41b Fallen der Wertermittlungsstichtag und der Zeitpunkt der Wertermittlung nicht zusammen, so ist für die Berechnung der Gebühren der auf den Zeitpunkt der Wertermittlung angepasste Verkehrswert maßgebend. Anmerkung 41c Sind Grundstücke mit sonstigen Rechten belastet, so ist für die Berechnung der Gebühren die Summe aus dem Verkehrswert des unbelasteten Grundstücks und dem Wert der Rechte maßgebend. Anmerkung 41d Enthält ein Gutachten mehrere Wertermittlungsstichtage, so ist zur Berechnung der Gebühren die Summe aus den einzelnen Verkehrswerten maßgebend. Anmerkung 41e In den Gebühren sind die Kosten für bis zu 3 Ausfertigungen der Gutachten enthalten. |  | 
-41.1 | Gutachten über den Verkehrswert von bebauten und unbebauten Grundstücken oder Rechten an Grundstücken |  | 
- | a) bei einem Verkehrswert bis einschließlich 500 000 EUR |  | 
- |  | - Gebühr als Bruchteil des Verkehrswertes in Höhe von | 4,5 v. T.
- |  | - zuzüglich | 900 EUR
- | b) bei einem Verkehrswert von mehr als 500 000 EUR bis einschließlich 1 000 000 EUR |  | 
- |  | - Gebühr als Bruchteil des Verkehrswertes in Höhe von | 1,1 v. T
- |  | - zuzüglich | 2 600 EUR
- | c) bei einem Verkehrswert von mehr als 1 000 000 EUR |  | 
- |  | - Gebühr als Bruchteil des Verkehrswertes in Höhe von | 0,8 v. T
- |  | - zuzüglich | 2 900 EUR
-41.2 | Gutachten über den Verkehrswert von Erbbaurechten oder von mit Erbbaurechten belasteten Grundstücken |  | 
- | - Gebühr als Bruchteil der Gebühr nach 41.1 in Höhe von | 120 v. H. | 
- | Anmerkung 41.2 Für die Berechnung der Gebühren ist der Verkehrswert des unbelasteten Grundstücks maßgebend. |  | 
-41.3 | Einzelgutachten für die Ermittlung von Entschädigungs- und Neuordnungswerten (z.B. in Sanierungs- und Entwicklungsbereichen oder in Enteignungsfällen) |  | 
- | - Gebühr als Bruchteil der Gebühr nach 41.1 in Höhe von | 200 v.H. | 
-41.4 | Gutachten, die im Einzelfall eine Auseinandersetzung mit Grundsatzfragen der Wertermittlung oder einen überdurchschnittlichen Aufwand erfordern |  | 
- | - Gebühr als Bruchteil der Gebühr nach 41.1 in Höhe von | 150 v.H. bis 300 v.H. | 
-41.5 | Mögliche Reduzierung der Gebühr nach 41.1 bis 41.5, bezogen auf den Prozentsatz der Gebühr nach 41.1, wenn der Aufwand für die Vorbereitung der Gutachten deutlich reduziert ist. Dies kann z.B. der Fall sein: a) bei Wiederholungsgutachten, b) bei Aktualisierungen von älteren Gutachten bei unverändertem Sachverhalt, c) wenn sich der Antrag auf die Erstellung von Gutachten für mehrere Objekte erstreckt oder d) wenn für die Erstellung des Gutachtens notwendige Unterlagen durch den Antragsteller oder Eigentümer bereitgestellt werden (Bauaufnahme, Aufmaß o.ä.). | bis zu 75 v.H. | 
-41.6 | Sonstige Gutachten a) Ermittlung von Anfangs- und Endwerten in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen b) umfangreiche Stellungnahmen zu erstatteten Gutachten c) Gutachten, die sich nicht den Ziffern 41.1 bis 41.5 zuordnen lassen - Zeitgebühren nach 11.1 |  | 
-41.7 | Mehrausfertigung von Gutachten |  | 
- | a) bis 15 Seiten | 25 EUR | 
- | b) mehr als 15 Seiten | 35 EUR | 
-42 | Auskünfte und Auszüge |  | 
-42.1 | Grundstücksmarktbericht | 60 EUR | 
-42.2 | Drucke von Berichten und Analysen |  | 
- | - je Kapitel | 20 EUR | 
-42.3 | Bodenrichtwertkarten mehrfarbiger Druck, Bremen: 3 Blätter, 1 : 20 000, Bremerhaven: 1 Blatt, 1 : 13 000 |  | 
- | - je Blatt | 70 EUR | 
-42.4 | Auszüge aus den Bodenrichtwertkarten bis Format |  | 
- | DIN A3 | 25 EUR | 
-42.5 | entfallen |  | 
-42.6 | Auskunft aus der Kaufpreissammlung |  | 
-42.6.1 | Einzelauskunft |  | 
- | a) bis zu 15 Vergleichspreise | 170 EUR | 
- | b) für jeden weiteren Vergleichspreis | 5 EUR | 
-42.6.2 | Auskünfte für Großabnehmer |  | 
- | - ab der 11. Auskunft pro Jahr | 140 EUR | 
-42.6.3 | Auskunft aus der Kaufpreissammlung für Geschäftsgrundstücke in Zentrumslage (Abgrenzung entsprechend Innenstadtausschnitt der Bodenrichtwertkarte) |  | 
- | - Gebühr als Bruchteil der Gebühr nach 42.5 in Höhe von | 300 v.H. | 
-42.7 | Erweiterte Auskunft über den Bodenwert in den Fällen, in denen keine Bodenrichtwerte vorliegen oder eine umfangreiche Bodenwertermittlung erforderlich ist |  | 
- | a) in einfachen Fällen | 150 EUR | 
- | b) in schwierigen Fällen | 200 EUR bis 500 EUR | 
-42.8 | Sonstige Auswertungen aus der Kaufpreissammlung - Zeitgebühren nach 11.1 |  | 
+Erläuterung der verwendeten Abkürzungen
+ALKIS | Amtliches Liegenschaftskatasterinformationssystem
+ATKIS | Amtliches Topographisch-Kartographisches Informationssystem
+CIR | Color-Infrarot
+DGM | Digitales Geländemodell
+DLM | Digitales Landschaftsmodell
+DOP | Digitales Orthophoto
+DTK | Digitale Topographische Karte
+LoD | Level of Detail
+ÖbVI | Öffentlich bestellte Vermessungsingenieurinnen und Öffentlich bestellte Vermessungsingenieure
+RGB | Rot, Grün und Blau (Grundfarben)
+1. | Allgemeine Regelungen | 
+11. | Gebührenberechnung nach Zeitaufwand | 
+ | Bei Gebührenberechnungen nach dem Zeitaufwand werden unter Berücksichtigung der Regelung in § 5 Absatz 1 BremGebBeitrG folgende Stundensätze in Anrechnung gebracht: | 
+11.1. | Für eine Beamtin oder einen Beamten der Laufbahngruppe II zweites Einstiegsamt (A13 - A16) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 130 EUR
+11.2. | Für eine Beamtin oder einen Beamten der Laufbahngruppe II erstes Einstiegsamt (A9 - A13S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 107 EUR
+11.3. | Für eine Beamtin oder einen Beamten der Laufbahngruppe I zweites Einstiegsamt (A5 - A9) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe und Vermessungsgehilfen | 85 EUR
+12. | Auslagen | 
+12.1. | Auslagen gemäß § 11 Absatz 1 BremGebBeitrG | 
+12.2. | Auslagen gemäß § 11 Absatz 2 BremGebBeitrG | 
+13. | Auskunft und Beratung | 
+13.1. | Mündliche Auskunft (bis 30 Minuten) | gebührenfrei
+13.2. | Mündliche fachliche Erläuterung (ab mehr als 30 Minuten): | Zeitaufwand nach Tz. 11.
+13.3. | Schriftliche Auskunft | 
+13.3.1. | Schriftliche Auskunft für den Betroffenen, der damit Auskunft über die zu seiner Person gespeicherten Daten erhält, gemäß § 10 Absatz 9 Vermessungs- und Katastergesetz oder Artikel 15 Absatz 3 DSGVO | gebührenfrei
+13.3.2. | Einfache schriftliche Auskunft gemäß § 6 Absatz 1 Nummer 3b BremGebBeitrG | gebührenfrei
+13.3.3. | Schriftliche Auskunft aus Registern und Dateien (Ausnahme gemäß § 6 Absatz 1 Nummer 3b BremGebBeitrG) | Zeitaufwand nach Tz. 11.
+14. | Rücknahme eines Antrages | 
+14.11. | Rücknahme eines Antrages nachdem mit der Bearbeitung begonnen wurde | Zeitaufwand nach Tz. 11. zuzüglich Gebühren für bereits angefertigte Präsentationsausgaben oder Unterlagen
+2. | Amtshandlungen im amtlichen Vermessungs- und Geoinformationswesen | 
+21. | Amtliche Vermessungen zur Erhebung von Geobasisdaten des Liegenschaftskatasters | 
+210. | Vorbereitung von Vermessungsunterlagen | 
+210.1. | Vermessungsunterlagen für a) Liegenschaftsvermessungen an Flurstücken oder Gebäuden (Tz. 211. oder Tz. 212.) oder b) Anfertigung eines qualifizierten Lageplanes gemäß § 7 Absatz 3 BremBauVorlV oder einer Planunterlage gemäß § 1 PlanZV (Tz. 213.) oder c) Vermessungstechnische Übertragung von Grenzpunkten in die Örtlichkeit (Tz. 214.) | 150 EUR
+211. | Liegenschaftsvermessung an Flurstücken | 
+211.1. | Zerlegung | 
+211.1.1. | Festlegung neuer Flurstücksgrenzen | 
+ | Grundgebühr | 800 EUR
+ | zuzüglich eines flächenbezogenen Gebührensatzes und eines am Bodenrichtwert orientierten Wertfaktors für jedes neu gebildete Flurstück | Produkt nach Tz. 211.1.2. multipliziert mit Tz. 211.1.3.
+211.1.2. | Berechnungsgrundlage: Tabelle Flächenbezogener Gebührensatz | 
+ | Fläche (m²) | 
+ | bis 120 | 450 EUR
+ | 121 bis 700 | 900 EUR
+ | 701 bis 2 000 | 1 100 EUR
+ | 2 001 bis 5 000 | 2 000 EUR
+ | 5 001 und größer | 2 700 EUR
+211.1.3. | Berechnungsgrundlage: Tabelle Wertfaktor | 
+ | Bodenrichtwert (EUR/m²) | 
+ | bis 10 | 0,4
+ | 11 bis 50 | 0,6
+ | 51 bis 100 | 0,9
+ | 101 bis 500 | 1,0
+ | 501 bis 5 000 | 1,4
+ | 5 001 und mehr | 2,0
+211.2. | Grenzfeststellung | 
+211.2.1. | Feststellung des örtlichen Verlaufs von Flurstücksgrenzen (Grenzfeststellung) | 
+ | - Grundgebühr | 800 EUR
+ | - zuzüglich einer Gebühr für die festgestellten oder neu abgemarkten Grenzpunkte | nach Tz. 211.2.2.
+211.2.2. | Berechnungsgrundlage: Tabelle Gebühr je Grenzpunkt | 
+ | - 1. bis 4. Grenzpunkt je | 450 EUR
+ | - ab dem 5. Grenzpunkt je | 150 EUR
+211.3. | Abmarkung von Grenzpunkten im zeitlichen Zusammenhang mit einer Zerlegung oder Grenzfeststellung | 
+ | - für jeden abgemarkten Grenzpunkt | 100 EUR
+211.4. | Nachträgliche Abmarkung von Grenzpunkten zu einer Zerlegung oder Grenzfeststellung | 
+ | - Grundgebühr | 600 EUR
+ | - Zuschlag für jeden abgemarkten Grenzpunkt | 100 EUR
+212. | Liegenschaftsvermessung an Gebäuden (Gebäudeeinmessung) | 
+212.1. | Amtliche Vermessung von Gebäuden oder im Grundriss veränderter Gebäude und von baulichen Anlagen | 
+212.1.1. | - Grundgebühr je Grundstück | 250 EUR
+212.1.2. | - zuzüglich einer Gebühr in Abhängigkeit der Baukosten | nach Tz. 212.2.
+212.2. | Berechnungsgrundlage: Tabelle Baukosten | 
+ | bis 20 000 EUR | 150 EUR
+ | 20 001 bis 50 000 EUR | 190 EUR
+ | 50 001 bis 250 000 EUR | 530 EUR
+ | 250 001 bis 500 000 EUR | 780 EUR
+ | 500 001 bis 1000 000 EUR | 1 380 EUR
+ | 1000 001 bis 5 000 000 EUR | 3 380 EUR
+ | 5 000 001 bis 10 000 000 EUR | 6 300 EUR
+ | über 10 000 000 EUR | 
+ | Basisbetrag und | 6 300 EUR
+ | zuzüglich je weitere angefangene 5 000 000 EUR | 1 000 EUR
+213. | Anfertigung eines qualifizierten Lageplanes gemäß § 7 Absatz 3 BremBauVorlV oder einer Planunterlage gemäß § 1 PlanZV | 
+213.1. | Anfertigung eines qualifizierten Lageplanes gemäß § 7 Absatz 3 BremBauVorlV oder einer Planunterlage gemäß § 1 PlanZV | 
+ | - Grundgebühr | 400 EUR
+ | - zuzüglich einer Gebühr in Abhängigkeit der Baukosten | nach Tz. 213.2.
+213.2. | Berechnungsgrundlage: Tabelle Baukosten | 
+ | bis 200 000 EUR | 690 EUR
+ | 200 001 bis 1000 000 EUR | 1 230 EUR
+ | 1000 001 bis 3 000 000 EUR | 2 250 EUR
+ | 3000 001 bis 7 000 000 EUR | 3 120 EUR
+ | 7 000 001 bis 10 000 000 EUR | 3 570 EUR
+ | über 10 000 000 EUR je weitere angefangene 5 000 000 EUR | 920 EUR
+214. | Vermessungstechnische Übertragung von Grenzpunkten in die Örtlichkeit | 
+ | - Grundgebühr | 250 EUR
+ | - zuzüglich einer Gebühr in Abhängigkeit von der Anzahl der übertragenen Grenzpunkte | 50 v. H. der Gebühr nach Tz. 211.2.2.
+215. | Erteilung einer Bescheinigung | 
+ | - Grenzeinhaltungsbescheinigung, Entfernungsbescheinigung, Identitätsbescheinigung, je Bescheinigung | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+216. | Beglaubigung von Anträgen auf Vereinigung und Teilung von Grundstücken | gebührenfrei
+22. | Führung des Liegenschaftskatasters | 
+220. | Übernahme der Ergebnisse von Amtshandlungen der amtlichen Vermessungsstellen in das Liegenschaftskataster | 
+220.1. | Übernahme der Ergebnisse von Liegenschaftsvermessungen an a) Flurstücken (Tz. 211.) oder b) Gebäuden (Tz. 212.) | 
+ | - Grundgebühr | 250 EUR
+ | - zuzüglich Ergänzungsgebühr | nach Tz. 220.2.
+220.2. | Ergänzungsgebühr als Bruchteil der Gebühr für die Durchführung der Liegenschaftsvermessung zu erhebenden Gebühren | 
+ | a) Zerlegung mit Abmarkung | 35 v. H. der Gebühr nach Tz. 211.1. oder Tz. 211.3.
+ | b) Grenzfeststellung mit Abmarkung | 20 v. H. der Gebühr nach Tz. 211.2. oder Tz. 211.3.
+ | c) Gebäudeeinmessung | 30 v. H. der Gebühr nach Tz. 212.
+220.3. | Bereinigung oder Ergänzung eingereichter Vermessungsschriften aufgrund geringfügiger Mängel | Zeitaufwand nach Tz. 11.
+221. | Bearbeitung eines Unschädlichkeitszeugnisses | 
+221.1. | Erteilung oder Ablehnung eines Unschädlichkeitszeugnisses | 
+ | a) bis zu fünf Beteiligte | 600 EUR
+ | b) Zuschlag für je weitere angefangene fünf Beteiligte | 150 EUR
+221.2. | Durchführung einer Anhörung | Zeitaufwand nach Tz. 11. und Auslagen nach Tz. 12.2.
+222. | Bearbeitung einer Bescheinigung über die Nichtbetroffenheit nach § 1026 BGB oder über die Lage anderer Belastungen | Zeitaufwand nach Tz. 11.
+23. | Bereitstellung von Geobasisdaten | 
+230. | Online-Bereitstellung von hochwertigen Datensätzen gemäß § 10 Absatz 3 DNG | 
+230.1. | ALKIS-Daten, ohne Eigentumsangaben gemäß § 9 Absatz 2 Vermessungs- und Katastergesetz | gebührenfrei
+230.2. | Hauskoordinaten (Adressdaten) | gebührenfrei
+230.3. | Hausumringe | gebührenfrei
+230.4. | 3D-Gebäudemodelle mit Level of Detail 2 (LoD2) | gebührenfrei
+230.5. | Verwaltungseinheiten | gebührenfrei
+230.6. | Digitales Basis-Landschaftsmodell (Basis-DLM) | gebührenfrei
+230.7. | Digitale Geländemodelle (DGM1) | gebührenfrei
+230.8. | Digitale Oberflächenmodelle mit einer Rasterweite von 1 m (DOM1) | gebührenfrei
+230.9. | Digitale Orthophotos mit Bodenauflösung 10 cm (DOP) | gebührenfrei
+230.10. | Amtliche Basiskarte 1 : 5000 (ABK5) | gebührenfrei
+231. | Berechnungsgrundlagen der Gebührenermittlung zur Abgabe und zur Nutzung von Geobasisdaten | 
+232. | Abruf oder Abgabe von amtlichen Präsentationsausgaben | 
+232.1. | Prüfung des berechtigten Interesses | 50 EUR zzgl. Gebühr nach Tz. 232.2.3. oder nach Tz. 232.3.3. bis Tz. 232.3.5.
+232.2. | Abruf von ALKIS-Präsentationsausgaben | 
+232.2.1. | Liegenschaftskarte, bis einschließlich DIN A3 | 20 EUR
+232.2.2. | Flurstücksnachweis | 10 EUR
+232.2.3. | Flurstücks- und Eigentümernachweis | 10 EUR
+232.3. | Abgabe von ALKIS-Präsentationsausgaben | 
+232.3.1. | Liegenschaftskarte | 50 EUR
+232.3.2. | Flurstücksnachweis | 50 EUR
+232.3.3. | Flurstücks und Eigentümernachweis | 50 EUR
+232.3.4. | Grundstücksnachweis | 50 EUR
+232.3.5. | Bestandsnachweis | 50 EUR
+232.3.6. | Amtliche Basiskarte 1 : 5000 (ABK5) | 50 EUR
+232.4. | Abgabe von AFIS-Präsentationsausgaben (Höhenfestpunkte) | 50 EUR
+232.4.1. | Punktliste, pro angefangene 50 Punkte | 20 EUR mindestens 50 EUR
+232.4.2. | Einzelnachweis, einschließlich Punktbeschreibung | 10 EUR mindestens 50 EUR
+232.4.3. | Festpunktübersichten, bis einschließlich DIN A3 | 10 EUR mindestens 50 EUR
+232.4.4. | Festpunktübersichten, größer DIN A3 | 20 EUR mindestens 50 EUR
+233. | Bereitstellung von Geobasisdaten | 
+233.1. | Abgabe von ALKIS-Daten | 
+233.1.1. | ALKIS-Datensätze, Eigentumsabgaben, je Grundbuchkennzeichen (Objekt), Staffelgebühr | mindestens 50 EUR
+ | - für das 1. bis 1000. Objekt, je Objekt | 0,90 EUR
+ | - für das 1001. bis 10 000. Objekt, je Objekt | 0,45 EUR
+ | - für das 10 001. bis 100 000. Objekt, je Objekt | 0,23 EUR
+ | - ab dem 100 001 Objekt, je Objekt | 0,11 EUR
+233.1.2. | Auskunft aus dem ALKIS (Eigentumsangaben) in Sozialverwaltungsverfahren | kostenfrei
+233.2. | Abgabe von ATKIS-Produkten | 
+233.2.1. | Digitale Oberflächenmodelle a) Texturiertes Oberflächenmodell (3D-Mesh) b) 3D-Punktwolke | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.3. | Abgabe von Digitalen Orthophotos (DOP) und Luftbildern | 
+233.3.1. | Digitale Orthophotos (DOP) mit einer Bodenauflösung von 10 cm oder höher | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.3.2. | Orientierte Luftbilder CIR oder RGB | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.3.3. | Schrägluftbilder | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.4. | Abgabe von AFIS-Datensätzen, je Höhenfestpunkt, Referenzstationspunkt (Objekt), Staffelgebühr | mindestens 50 EUR
+ | - für das 1. bis 1000. Objekt, je Objekt | 0,09 EUR
+ | - für das 1001. bis 10.000. Objekt, je Objekt | 0,045 EUR
+233.5. | Abgabe von Geobasisdaten im Zusammenhang mit kundenindividuellen Leistungen (Sonderleistungen) | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.6. | Bereitstellung von Geobasisdaten über Automatisierte Abrufverfahren | 
+233.6.1. | Registrierung und Nutzerverwaltung, je Vereinbarung und Jahr | 
+233.6.1.1. | Ein Vereinbarungspartner mit Profil ohne Eigentumsangaben | 
+ | - Grundgebühr | 200 EUR
+233.6.1.2. | Ein Vereinbarungspartner mit Profil mit Eigentumsangaben | 
+ | - Grundgebühr | 400 EUR
+ | - Zuschlag für das Abrufverfahren von Vermessungsunterlagen durch ÖbVI | 120 EUR
+233.6.1.3. | Erstmalige Registrierung von Nutzerinnen oder Nutzern oder Änderung von Nutzerinnen oder Nutzern eines Vereinbarungspartners | 50 EUR
+233.7. | Bereitstellung von Geodatendiensten (Onlinebereitstellung von Objektdaten) | 
+233.7.1. | Erstmalige Bereitstellung ALKIS-Datensätze | 
+233.7.1.1 | Grundausstattung ALKIS-Datensätze | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.7.1.2. | Zuschlag für Eigentumsangaben | Nach Tz. 233.1.1.
+233.7.2. | Aktualisierung | 
+233.7.2.1 | für den Zeitraum der seit der letzten Abgabe oder Aktualisierung vergangen ist, je Abgabe | Zeitaufwand nach Tz. 11. mindestens 50 EUR
+233.7.2.2. | Zuschlag Eigentumsangaben für den Zeitraum der seit der letzten Abgabe oder Aktualisierung vergangen ist, je Monat | 10 v. H. nach Tz. 233.1.1.
+234. | Abgabe von Kopien aus den Nachweisen des Liegenschaftskatasters | 
+234.1. | Kopien von Vermessungsrissen | 
+ | - je Vermessungsriss | 15 EUR mindestens 50 EUR
+234.2. | Kopien von Katasterbüchern oder Veränderungsnachweisen | 
+ | - je Seite | 1 EUR mindestens 50 EUR
+3. | Amtshandlungen der Aufsicht über die amtlichen Vermessungsstellen | 
+31. | Bestellung als ÖbVI gemäß § 4 BremÖbVIG | 650 EUR
+32. | Bestellung einer Stellvertretung gemäß § 21 BremÖbVIG | 130 EUR
+33. | Genehmigung der beruflichen Zusammenarbeit gemäß § 16 BremÖbVIG | 300 EUR
+34. | Ausfertigung eines Amtsausweises für ÖbVI | 65 EUR
+35. | Zurücknahme der Bestellung gemäß § 8 BremÖbVIG | 320 EUR
+4. | Amtshandlungen im Bereich der amtlichen Wertermittlung | 
+41. | Erstattung von Gutachten | 
+41.1. | Gutachten über den Verkehrswert von bebauten und unbebauten Grundstücken oder Rechten an Grundstücken | 
+ | a) bei einem Verkehrswert bis einschließlich 500 000 EUR | 1 300 EUR zuzüglich eines Bruchteils des Verkehrswertes in Höhe von 4,5 v. T.
+ | b) bei einem Verkehrswert von mehr als 500 000 EUR bis einschließlich 1 000 000 EUR | 3 000 EUR zuzüglich eines Bruchteils des Verkehrswertes in Höhe von 1,1 v. T.
+ | c) bei einem Verkehrswert von mehr als 1 000 000 EUR | 3 300 EUR zuzüglich eines Bruchteils des Verkehrswertes in Höhe von 0,8 v. T.
+41.2. | Gutachten über den Verkehrswert von Erbbaurechten oder von mit Erbbaurechten belasteten Grundstücken | Bruchteil der Gebühr nach Tz. 41.1. in Höhe von 120 v. H.
+41.3. | Einzelgutachten über die Höhe der Entschädigung oder von Neuordnungswerten (z. B. in Sanierungsgebieten, Entwicklungsbereichen oder in Enteignungsverfahren) | Bruchteil der Gebühr nach Tz. 41.1. in Höhe von 200 v. H.
+41.4. | Gutachten, die im Einzelfall eine Auseinandersetzung mit Grundsatzfragen der Wertermittlung oder einen überdurchschnittlichen Aufwand erfordern | Bruchteil der Gebühr nach Tz. 41.1. in Höhe von 150 v. H. bis zu 300 v. H.
+41.5. | Mögliche Reduzierung der Gebühr, wenn der Aufwand für die Vorbereitung der Gutachten deutlich reduziert ist. Dies kann z. B. der Fall sein: | Bruchteil des Verkehrswert es nach Tz. 41.1. Buchstabe a) - c) bis zu 75 v. H.
+ | a) bei Aktualisierungen von älteren Gutachten mit im Wesentlichen unveränderten Grundstücksmerkmalen oder b) bei Gutachten für mehrere Objekte mit im Wesentlichen gleichen Grundstücksmerkmalen erstreckt oder c) bei Gutachten, zu denen notwendige Unterlagen bereitgestellt werden (Bauaufnahme, Aufmaß o. ä.) | 
+41.6. | Sonstige Gutachten | 
+ | a) Ermittlung von Anfangs- und Endwerten in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen | Zeitaufwand nach Tz. 11.
+ | b) Stellungnahmen zu erstatteten Gutachten | Zeitaufwand nach Tz. 11.
+ | c) Gutachten, die sich nicht den Tz. 41.1 bis 41.5 zuordnen lassen | Zeitaufwand nach Tz. 11.
+41.7. | Nachträgliche Mehrausfertigung von Gutachten, pro Antrag | 50 EUR
+ | - je Mehrausfertigung | 10 EUR
+42. | Bereitstellung von Bodenrichtwerten sowie Angaben zum Grundstücksmarkt und Auskünfte aus der Kaufpreissammlung | 
+42.1. | Bereitstellung der Angaben zum Grundstücksmarkt | 50 EUR
+42.2. | Bereitstellung der Bodenrichtwerte | 
+42.2.1. | Online-Bereitstellung von Bodenrichtwerten im Bodenrichtwertinformationssystem Niedersachsen und Bremen (BORIS.NI) | gebührenfrei
+42.2.2. | Abgabe von Auszügen aus den Bodenrichtwertkarten bis Format DIN A3 | 50 EUR
+42.2.3. | Erweiterte Auskunft über den Bodenwert in den Fällen, in denen keine Bodenrichtwerte vorliegen oder eine umfangreiche Bodenwertermittlung erforderlich ist | Zeitaufwand nach Tz. 11.
+42.3. | Auskunft aus der Kaufpreissammlung | 
+42.3.1. | Einzelauskunft | 
+42.3.1.1. | Einzelauskunft von Kaufpreisen | 
+ | a) bis zu 15 Kauffälle pro Antrag | 240 EUR
+ | b) für jeden weiteren Kauffall in einem Antrag | 7 EUR
+42.3.1.2. | Einzelauskunft von Vergleichspreisen | nach Tz. 42.3.1.1. zzgl. Zeitaufwand nach Tz. 11.
+42.3.2. | Abgabe sonstiger Auswertungen aus der Kaufpreissammlung | Zeitaufwand nach Tz. 11
+42.3.3. | Auskunft aus der Kaufpreissammlung in Sozialverwaltungsverfahren | kostenfrei
+Anmerkungen Anlage 1
+Zu Tz. 11., Anmerkung a
+Die Erhebung einer Gebühr nach Zeitaufwand ist nur im Zusammenhang mit einem Gebührentatbestand zulässig, der dies explizit benennt.
+Zu Tz. 11., Anmerkung b
+Zeiten für Arbeiten außerhalb des Dienstgebäudes (örtliche Arbeiten) sowie die Zeit, welche die An- und Abreisen unter regelmäßigen Verhältnissen erfordern, gehören zum abzurechnenden Zeitaufwand.
+Zu Tz. 11., Anmerkung c
+Aufwendungen für die Entschädigung des Außendienstes, für den Einsatz von Kraftfahrzeugen und Geräten sind mit den Gebühren abgegolten.
+Zu Tz. 12., Anmerkung a
+Auslagen sind in nachgewiesener Höhe anzusetzen. Die Erhebung von Auslagen richtet sich in der Regel nach § 11 BremGebBeitrG.
+Zu Tz. 12., Anmerkung b
+Auslagen sind umsatzsteuerlich wie die Hauptleistung zu behandeln.
+Zu Tz. 12., Anmerkung c
+Auslagen nach Tz. 12.1. sind bspw. Aufwendungen für öffentliche Bekanntmachungen. Unter Auslagen nach Tz. 12.2. fallen die Auslagen, die über Tz. 12.1. hinaus anfallen, bspw. für Ab- und Vermarkungsmaterial, Verkehrssicherungsmaßnahmen, Auskunft aus der Bauakte oder dem Baulastenverzeichnis, Speicherplatz oder weitere Betriebskosten oder Materialkosten für den 3D-Druck.
+Zu Tz. 14., Anmerkung a
+Die Gebühr darf nicht höher sein als die für die Erbringung der ursprünglichen Leistung festzusetzende Gebühr.
+Zu Tz. 21., Anmerkung a
+Liegenschaftsvermessungen (Zerlegung, Grenzfeststellung, Gebäudeeinmessung) bestehen regelmäßig aus folgenden Arbeitsschritten:
+a) Vorbereitung von Vermessungsunterlagen (Tz. 210.)
+b) Vermessung (Tz. 211. oder Tz. 212.) mit häuslichen Vorarbeiten, sofern erforderlich der Durchführung des Verwaltungsverfahrens mit Abmarkung (Tz. 211.3. oder Tz. 211.4.) und Auswertung der Vermessungsergebnisse
+c) Übernahme der Vermessungsergebnisse in das Liegenschaftskataster durch die Katasterbehörde (Tz. 220.).
+Zu Tz. 21., Anmerkung b
+Vermessungen für die vermessungstechnische Übertragung von Grenzpunkten in die Örtlichkeit (Tz. 214.) oder die Anfertigung eines Qualifizierten Lageplans (Tz. 213.) bestehen regelmäßig aus folgenden Arbeitsschritten:
+a) Vorbereitung von Vermessungsunterlagen nach Tz. 210.
+b) Vermessung (Tz. 214. oder Tz. 213.) und Auswertung der Vermessungsergebnisse.
+Zu Tz. 21., Anmerkung c
+Die Gebühren für Vermessungen setzen sich in der Regel zusammen aus der Grundgebühr und der Vermessungsgebühr. In den Grundgebühren sind enthalten: Die Kosten für Porto, Telefon, Fahrzeug- und Gerätebenutzung sowie die Kosten für Wegezeiten des Vermessungstrupps. Weitere Auslagen sind nach Tz. 12. zu erheben.
+Zu Tz. 21., Anmerkung d
+Bei gleichzeitiger Durchführung mehrerer Vermessungen unterschiedlicher Art und mit gleichen Beteiligten auf aneinandergrenzenden Grundstücken ist nur eine Grundgebühr zu erheben. Weichen die für die jeweiligen Vermessungen maßgeblichen Grundgebühren voneinander ab, ist die höchste anzusetzen.
+Zu Tz. 210., Anmerkung a
+Bei der zeitgleichen Vermessung auf aneinandergrenzenden Grundstücken, z. B. zur Zerlegung eines Flurstücks, der Feststellung einer gemeinsamen Grenze, oder Einmessung eines Baukörpers, der sich über mehr als ein Grundstück erstreckt, ist die Grundgebühr nur einmal anzusetzen.
+Zu Tz. 210., Anmerkung b
+Werden für Amtshandlungen nach Tz. 211. oder Tz. 212. vor Ablauf von zwölf Monaten für entsprechende weitere Amtshandlungen auf einem Grundstück oder für die unter Anmerkung 210a genannten Fälle Vermessungsunterlagen benötigt, wird für diejenigen Unterlagen, bei denen es sich lediglich um Aktualisierungen handelt, eine Gebühr nicht mehr erhoben.
+Zu Tz. 211.1.2., Anmerkung
+Ist die vollständige Vermessung des größten neuen Flurstücks nicht vorgeschrieben (sog. Reststück), so ist der Ermittlung der auf das Reststück entfallenden anteiligen Gebühr die Summe der Flächeninhalte der übrigen aus demselben Stammflurstück entstandenen neuen Flurstücke zugrunde zu legen. Führt diese Summenbildung zu einer größeren Fläche als der Buchfläche des Reststücks, ist die Buchfläche des Reststücks anzusetzen.
+Zu Tz. 211.1.3., Anmerkung
+Für die Ermittlung des Wertfaktors ist der Bodenrichtwert anzusetzen, der für das Vermessungsgebiet aus der aktuellen Bodenrichtwertkarte ersichtlich ist. Fehlen Bodenrichtwerte, so ist der Wertfaktor auf der Grundlage von Bodenrichtwerten vergleichbarer Gebiete plausibel festzulegen. Jedem neu gebildeten Flurstück ist der jeweils zutreffende Wertfaktor der Tabelle nach Tz. 211.1.3. zuzuordnen.
+Für Waldflächen und landwirtschaftliche Flächen ist der Wertfaktor 0,4, für Verkehrs- und öffentliche Grünflächen der Wertfaktor 0,6 anzusetzen. Für private Grünflächen ist der Wertfaktor 0,6 anzusetzen, wenn diese Flächen im Bebauungsplan entsprechend ausgewiesen sind. Bei der Aufteilung von Baugebieten ist die Wertstufe für vergleichbares baureifes Land anzusetzen. Maßgeblich ist die angestrebte künftige Nutzung des jeweiligen Flurstücks.
+Zu Tz. 211.4., Anmerkung
+Die Gebühr für eine nachträgliche Abmarkung schuldet in der Regel der Kostenschuldner der Zerlegung, sofern nicht ein neuer Antrag durch einen Dritten gestellt wurde.
+Zu Tz. 212., Anmerkung a
+Bei der zeitgleichen Einmessung eines Baukörpers, der sich über mehr als ein Grundstück erstreckt, ist nur eine Grundgebühr anzusetzen. Baukörper sind im zeitlichen Zusammenhang errichtete unmittelbar aneinander gebaute gleichartige Gebäude, die in der Grundrissdarstellung von einer ununterbrochenen Linie umschlossen sind.
+Zu Tz. 212., Anmerkung b
+Eine Gebühr nach Tz. 212.2. ist anzusetzen für jedes Gebäude oder jeden Teil eines Baukörpers im Sinne der Anmerkung Tz. 212a, wenn und soweit dafür eine separate Hausnummer vergeben ist oder vergeben wird.
+Zu Tz. 212., Anmerkung c
+Sind auf einem Grundstück mehrere Grundrissveränderungen oder Gebäude einzumessen, dann ist die Summe der Baukosten bei der Bemessung der Gebäudeeinmessungsgebühr anzuhalten.
+Zu Tz. 212., Anmerkung d
+Für die Gebührenrechnung sind in der Regel die in den Bauakten der Bauordnungsämter geführten Baukosten maßgebend. Sind darin entsprechende Angaben nicht enthalten, sind Baukosten zugrunde zu legen, die sich nach § 2 der BauKostV ergeben.
+Zu Tz. 220., Anmerkung a
+Es ist höchstens eine Grundgebühr je Baukörper zu erheben.
+Zu Tz. 220., Anmerkung b
+Bei gleichzeitig durchgeführten Vermessungen unterschiedlicher Art sind die für die jeweilige Art der Amtshandlung zutreffenden Prozentsätze nach 220.2 bei der Ableitung der Übernahmegebühr anzuhalten. Die bei gleichzeitig durchgeführten Amtshandlungen nicht zu erhebenden Grundgebühren sind auch bei der Ableitung der Übernahmegebühr nicht zu berücksichtigen.
+Zu Tz. 220., Anmerkung c
+Die Gebühren nach Tz. 220.1. und Tz. 220.2. c) entfallen, sofern von Gebäudeeinmessungen auf dem Grundstück ausschließlich Gebäude oder Grundrissveränderungen betroffen sind, deren gesamte Baukosten 20 000 EUR nicht übersteigen. Bei der Einmessung von Gebäuden mit Baukosten über 20 000 und bis zu 50 000 EUR entfällt bei der Berechnung der Übernahmegebühr die Grundgebühr.
+Zu Tz. 220., Anmerkung d
+Die Gebühren nach Tz. 220.1. und Tz. 220.2. beinhalten eine Standardpräsentation Liegenschaftskarte sowie die für die Mitteilung der Veränderungen im Liegenschaftskataster erforderlichen Auszüge aus dem Liegenschaftskataster.
+Zu Tz. 231., Anmerkung
+Für die Abgabe und das Recht zur Nutzung von Geobasisdaten werden einmalig oder jährlich Gebühren erhoben.
+Zu Tz. 231.1., Anmerkung
+Die Gebühr für Datensätze der Eigentumsangaben ergibt sich aus dem Basisbetrag multipliziert mit der Anzahl der Grundbuchkennzeichen.
+Zu Tz. 233.4., Anmerkung
+Die Gebühr für die Datensätze des AFIS ergibt sich aus dem Basisbetrag multipliziert mit der Anzahl der Festpunkte.
+Zu Tz. 233.5., Anmerkung
+Bei der Abgabe von Geobasisdaten sind die Aufwände für Standarddatenträger und der Zeitaufwand für die zur Abgabe notwendige Aufbereitung der vorhandenen Geobasisdatensätze in der Regel in der Gebühr für die Abgabe des Datensatzes enthalten. Für speziell auf die Kundenwünsche zugeschnittene inhaltliche oder räumliche Datenaufbereitungen oder die Transformation in spezielle Datenformate ist zusätzlich die Gebühr nach Tz. 233.1. oder 233.4. anzusetzen.
+Zu Tz. 233.7., Anmerkung
+Aufwendungen für den Betrieb der Infrastruktur sind als Auslagen zu erheben.
+Zu Tz. 234.2., Anmerkung
+Zuzüglich einer Gebühr für Beglaubigungen gemäß AllKostV und Auslagen nach Tz. 12.2.
+Zu Tz. 41., Anmerkung a
+Für Gutachten über Grundstückswerte nach Tz. 41.1. bis 41.7. leitet sich die Gebühr aus dem Verkehrswert des Wertermittlungsobjektes ab, soweit in den Anmerkungen nichts anderes bestimmt ist. Auslagen sind nach Tz. 12.2. zu erheben.
+Zu Tz. 41., Anmerkung b
+Fallen der Wertermittlungsstichtag und der Zeitpunkt der Wertermittlung nicht zusammen, so ist für die Berechnung der Gebühren der auf den Zeitpunkt der Wertermittlung angepasste Verkehrswert maßgebend.
+Zu Tz. 41., Anmerkung c
+Sind Grundstücke mit sonstigen Rechten belastet, so ist für die Berechnung der Gebühren die Summe aus dem Verkehrswert des unbelasteten Grundstücks und dem Wert der Rechte maßgebend.
+Zu Tz. 41., Anmerkung d
+Wird ein Wertermittlungsobjekt zu mehreren Wertermittlungsstichtagen bewertet, ist zur Berechnung der Gebühr die Summe aus den einzelnen Verkehrswerten maßgebend.
+Zu Tz. 41., Anmerkung e
+Präsentationsausgaben des Liegenschaftskatasters sind als Auslagen abzurechnen.
+Zu Tz. 41., Anmerkung f
+Mit den Gebühren sind die Entschädigungen der ehrenamtlichen Gutachterinnen und Gutachter abgegolten.
+Zu Tz. 41., Anmerkung g
+In den Gebühren sind bis zu drei Ausfertigungen der Gutachten enthalten.
