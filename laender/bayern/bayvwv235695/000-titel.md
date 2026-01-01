@@ -1,0 +1,30 @@
+# 2030.8.3-F
+Ergänzende Bestimmungen zum Vollzug der Bayerischen Beihilfeverordnung (ErgBBayBhV)
+Bekanntmachung des Bayerischen Staatsministeriums der Finanzen
+vom 13. August 2009, Az. 25 - P 1820 - 0827 - 30 261/09
+(FMBl. S. 358)
+(StAnz. Nr. 35)
+Bekanntmachung des Bayerischen Staatsministeriums der Finanzen über Ergänzende Bestimmungen zum Vollzug der Bayerischen Beihilfeverordnung (ErgBBayBhV) vom 13. August 2009 (FMBl. S. 358, StAnz. Nr. 35), die zuletzt durch Bekanntmachung vom 2. März 2026 (BayMBl. Nr. 104) geändert worden ist
+Änderungen
+1. ÄndBek vom 23.8.2010 (FMBl. S. 178)
+2. ÄndBek vom 12.7.2011 (FMBl. S. 282)
+3. ÄndBek vom 29.2.2012 (FMBl. S. 175)
+4. ÄndBek vom 10.2.2014 (FMBl. S. 50)
+5. ÄndBek vom 18.2.2015 (FMBl. S. 82)
+6. ÄndBek vom 11.2.2016 (FMBl. S. 30)
+7. ÄndBek vom 20.2.2017 (FMBl. S. 222)
+8. ÄndBek vom 2.8.2017 (FMBl. S. 332)
+9. ÄndBek vom 12.3.2018 (FMBl. S. 34)
+10. ÄndBek vom 19.2.2019 (BayMBl. Nr. 89)
+11. ÄndBek vom 17.7.2019 (BayMBl. Nr. 297)
+12. ÄndBek vom 2.9.2019 (BayMBl. Nr. 363)
+13. ÄndBek vom 29.1.2020 (BayMBl. Nr. 75)
+14. ÄndBek vom 15.1.2021 (BayMBl. Nr. 85)
+15. ÄndBek vom 18.1.2022 (BayMBl. Nr. 79)
+16. ÄndBek vom 4.7.2022 (BayMBl. Nr. 414)
+17. ÄndBek vom 20.7.2022 (BayMBl. Nr. 455)
+18. ÄndBek vom 27.1.2023 (BayMBl. Nr. 71)
+19. ÄndBek vom 15.1.2024 (BayMBl. Nr. 53 )
+20. ÄndBek vom 11.11.2024 (BayMBl. Nr. 562 )
+21. ÄndBek vom 28.2.2025 (BayMBl. Nr. 119 )
+22. ÄndBek vom 2.3.2026 (BayMBl. Nr. 104 )
