@@ -1,0 +1,167 @@
+# Anlage 1 Besoldungsordnungen
+Besoldungsordnung A
+Besoldungsgruppe A 3
+Hauptamtsgehilfe, HauptamtsgehilfinWachtmeister, Wachtmeisterin
+Besoldungsgruppe A 4
+Amtsmeister, AmtsmeisterinOberwachtmeister, Oberwachtmeisterin
+Besoldungsgruppe A 5
+Hauptwachtmeister, HauptwachtmeisterinOberamtsmeister, OberamtsmeisterinOberwart, OberwartinPolizeioberwachtmeister, Polizeioberwachtmeisterin
+Besoldungsgruppe A 6
+Justizvollstreckungssekretär, JustizvollstreckungssekretärinSekretär, Sekretärin Werkmeister, Werkmeisterin
+Besoldungsgruppe A 7
+Brandmeister, BrandmeisterinJustizvollstreckungsobersekretär, JustizvollstreckungsobersekretärinKrankenpfleger, KrankenschwesterKriminalmeister, KriminalmeisterinObersekretär, ObersekretärinOberwerkmeister, OberwerkmeisterinPolizeimeister, PolizeimeisterinRestaurator, RestauratorinStationspfleger, Stationsschwester
+Besoldungsgruppe A 8
+Abteilungspfleger, AbteilungsschwesterFlussmeister, FlussmeisterinGerichtsvollzieher, GerichtsvollzieherinHauptsekretär, HauptsekretärinHauptwerkmeister, HauptwerkmeisterinJustizvollstreckungshauptsekretär, JustizvollstreckungshauptsekretärinKriminalobermeister, KriminalobermeisterinOberbrandmeister, OberbrandmeisterinOberrestaurator, OberrestauratorinPolizeiobermeister, PolizeiobermeisterinStraßenmeister, Straßenmeisterin
+Besoldungsgruppe A 9
+Förderlehrer, FörderlehrerinInspektor, Inspektorin Kriminalhauptmeister, KriminalhauptmeisterinKriminalkommissar, KriminalkommissarinOberflussmeister, OberflussmeisterinObergerichtsvollzieher, ObergerichtsvollzieherinOberpfleger, OberschwesterOberstraßenmeister, OberstraßenmeisterinPflegevorsteher, OberinPolizeihauptmeister, PolizeihauptmeisterinPolizeikommissar, Polizeikommissarin
+Besoldungsgruppe A 10
+Erster Pflegevorsteher, Erste OberinFachlehrer, FachlehrerinFörderlehrer, FörderlehrerinHauptflussmeister, HauptflussmeisterinHauptgerichtsvollzieher, HauptgerichtsvollzieherinHauptstraßenmeister, HauptstraßenmeisterinKriminaloberkommissar, KriminaloberkommissarinOberinspektor, OberinspektorinPolizeioberkommissar, Polizeioberkommissarin
+Besoldungsgruppe A 11
+Amtmann, AmtfrauErster Pflegevorsteher, Erste OberinFachoberlehrer, FachoberlehrerinFörderlehrer, FörderlehrerinKriminalhauptkommissar, KriminalhauptkommissarinPolizeihauptkommissar, Polizeihauptkommissarin
+Besoldungsgruppe A 12
+Amtsrat, AmtsrätinFachoberlehrer, FachoberlehrerinFörderlehrer, FörderlehrerinKriminalhauptkommissar, KriminalhauptkommissarinLehrer, LehrerinPolizeihauptkommissar, Polizeihauptkommissarin
+Besoldungsgruppe A 13
+Akademischer Rat, Akademische RätinBeratungsrektor, BeratungsrektorinErster Kriminalhauptkommissar, Erste KriminalhauptkommissarinErster Polizeihauptkommissar, Erste PolizeihauptkommissarinFachschulkonrektor, FachschulkonrektorinInstitutskonrektor, InstitutskonrektorinInstitutsrektor, InstitutsrektorinKonrektor, KonrektorinKonservator, KonservatorinKurdirektor, Kurdirektorin der Kurverwaltung Bad BrückenauMusikschulkonrektor, MusikschulkonrektorinMusikschulrektor, MusikschulrektorinPfarrer, PfarrerinPolizeirealschullehrer, PolizeirealschullehrerinPolizeirealschuloberlehrer, PolizeirealschuloberlehrerinRat, RätinRektor, RektorinSchulberatungsrektor, SchulberatungsrektorinSeminarrektor, SeminarrektorinStudienrat, StudienrätinStudienrat, Studienrätin im FörderschuldienstStudienrat, Studienrätin im GrundschuldienstStudienrat, Studienrätin im MittelschuldienstStudienrat, Studienrätin im RealschuldienstZweiter Konrektor, Zweite Konrektorin
+Besoldungsgruppe A 14
+Akademischer Oberrat, Akademische OberrätinBeratungsrektor, BeratungsrektorinFachschulrektor, FachschulrektorinInstitutsrektor, InstitutsrektorinKonrektor, KonrektorinLandesanwalt, LandesanwältinMusikschulrektor, MusikschulrektorinOberkonservator, OberkonservatorinOberrat, OberrätinOberstudienrat, OberstudienrätinPfarrer, PfarrerinRealschulkonrektor, RealschulkonrektorinRealschulrektor, RealschulrektorinRegierungsschulrat, RegierungsschulrätinRektor, RektorinSchulberatungsrektor, SchulberatungsrektorinSchulrat, SchulrätinSeminarrektor, SeminarrektorinSonderschulkonrektor, SonderschulkonrektorinSonderschulrektor, SonderschulrektorinZweiter Konrektor, Zweite KonrektorinZweiter Realschulkonrektor, Zweite RealschulkonrektorinZweiter Sonderschulkonrektor, Zweite Sonderschulkonrektorin
+Besoldungsgruppe A 15
+Akademischer Direktor, Akademische DirektorinDekan, DekaninDirektor, DirektorinDirektor, Direktorin bei der Hochschule für den öffentlichen Dienst in BayernDirektor, Direktorin der Landesschule für GehörloseDirektor, Direktorin der Landesschule für KörperbehinderteDirektor, Direktorin einer Schule für Gehörlose und Schwerhörige der BezirkeDirektor, Direktorin eines Berufsbildungswerks für BehinderteFachschulrektor, FachschulrektorinHauptkonservator, HauptkonservatorinInstitutsrektor, InstitutsrektorinKanzler, KanzlerinKommunaler Schulverwaltungsrektor, Kommunale SchulverwaltungsrektorinOberlandesanwalt, OberlandesanwältinRealschulkonrektor, RealschulkonrektorinRealschuldirektor, RealschuldirektorinRegierungsschuldirektor, RegierungsschuldirektorinRektor, Rektorin einer besonderen SchuleSchulamtsdirektor, SchulamtsdirektorinSchulberatungsrektor, SchulberatungsrektorinSeminarrektor, SeminarrektorinSonderschulkonrektor, SonderschulkonrektorinSonderschulrektor, SonderschulrektorinStudiendirektor, Studiendirektorin
+Besoldungsgruppe A 16
+Abteilungsdirektor, AbteilungsdirektorinDirektor, Direktorin an der Bayerischen Landesanstalt für Landwirtschaft Direktor, Direktorin bei der Hochschule für den öffentlichen Dienst in BayernDirektor, Direktorin bei der VerwaltungsschuleDirektor, Direktorin bei einem kommunalen Spitzenverband (Bayerischer Gemeindetag, Bayerischer Landkreistag, Bayerischer Städtetag, Bayerischer Bezirketag – Körperschaften des öffentlichen Rechts –)Direktor, Direktorin eines BezirkskrankenhausesInstitutsdirektor, InstitutsdirektorinKanzler, KanzlerinKommunaler Schulverwaltungsrektor, Kommunale SchulverwaltungsrektorinLandeskonservator, LandeskonservatorinLeitender Akademischer Direktor, Leitende Akademische DirektorinLeitender Direktor, Leitende DirektorinLeitender Medizinaldirektor, Leitende MedizinaldirektorinLeitender Polizeidirektor, Leitende PolizeidirektorinLeitender Regierungsschuldirektor, Leitende RegierungsschuldirektorinLeitender Schulamtsdirektor, Leitende SchulamtsdirektorinMinisterialrat, MinisterialrätinOberlandesanwalt, OberlandesanwältinOberstudiendirektor, OberstudiendirektorinSonderschuldirektor, SonderschuldirektorinStadtdirektor, StadtdirektorinStellvertretender Hauptgeschäftsführer, Stellvertretende Hauptgeschäftsführerin bei den Handwerkskammern für Mittelfranken, Niederbayern-Oberpfalz, Oberbayern, Oberfranken, Schwaben, Unterfranken
+Besoldungsordnung B
+Besoldungsgruppe B 2
+Abteilungsdirektor, AbteilungsdirektorinDirektor, Direktorin bei einem Regionalträger der Deutschen RentenversicherungDirektor, Direktorin der Bayerischen GrenzpolizeiDirektor, Direktorin der Landesgewerbeanstalt BayernDirektor, Direktorin des HauptstaatsarchivsDirektor, Direktorin des Planungsverbands äußerer Wirtschaftsraum MünchenDirektor, Direktorin des Zweckverbands Bayerischer LandschulheimeDirektor, Direktorin eines BezirkskrankenhausesGeschäftsleiter, Geschäftsleiterin des Krankenhauszweckverbands IngolstadtKanzler, KanzlerinLeitender Realschuldirektor, Leitende RealschuldirektorinMinisterialrat, MinisterialrätinPolizeivizepräsident, PolizeivizepräsidentinStadtdirektor, StadtdirektorinStellvertretender Generaldirektor, Stellvertretende Generaldirektorin der StaatsbibliothekStellvertretender Hauptgeschäftsführer, Stellvertretende Hauptgeschäftsführerin bei den Handwerkskammern für Mittelfranken, Niederbayern-Oberpfalz, Oberbayern, Oberfranken, Schwaben, UnterfrankenVizepräsident, Vizepräsidentin der Landesbaudirektion Bayern
+Besoldungsgruppe B 3
+Direktor, Direktorin bei dem Kommunalunternehmen Medizinische Einrichtungen des Bezirks OberpfalzDirektor, Direktorin bei der Anstalt für kommunale Datenverarbeitung in BayernDirektor, Direktorin bei der Bayerischen StaatsforstenDirektor, Direktorin bei der Bayerischen Versicherungskammer/Bayerischen VersorgungskammerDirektor, Direktorin bei der VerwaltungsschuleDirektor, Direktorin bei einem kommunalen Spitzenverband (Bayerischer Gemeindetag, Bayerischer Landkreistag, Bayerischer Städtetag, Bayerischer Bezirketag – Körperschaften des öffentlichen Rechts –)Direktor, Direktorin bei einem Regionalträger der Deutschen RentenversicherungDirektor, Direktorin beim Landesbeauftragten für den DatenschutzDirektor, Direktorin beim Bayerischen Kommunalen PrüfungsverbandDirektor, Direktorin der Akademie für Lehrerfortbildung und PersonalführungDirektor, Direktorin der Bezirksverwaltung OberbayernDirektor, Direktorin der Landeszentrale für politische BildungsarbeitDirektor, Direktorin des IT-Dienstleistungszentrums beim Landesamt für Digitalisierung, Breitband und VermessungDirektor, Direktorin des IT-Servicezentrums der bayerischen JustizDirektor, Direktorin des Landesamts für Maß und GewichtDirektor, Direktorin des Landesamts für SchuleDirektor, Direktorin des Staatsinstituts für Schulqualität und BildungsforschungDirektor, Direktorin des Zentralinstituts für KunstgeschichteDirektor, Direktorin des Zweckverbands Hafen Straubing-SandErster Direktor, Erste Direktorin eines Regionalträgers der Deutschen RentenversicherungGeneralsekretär, Generalsekretärin der Akademie der WissenschaftenGeschäftsleiter, Geschäftsleiterin des Krankenhauszweckverbands AugsburgKanzler, KanzlerinLeitender Ministerialrat, Leitende MinisterialrätinLeitender Ministerialrat, Leitende MinisterialrätinLeitender Oberstudiendirektor, Leitende OberstudiendirektorinLeiter oder Leiterin des Finanzamts MünchenMinisterialrat, MinisterialrätinOberbranddirektor, OberbranddirektorinOberlandesanwalt, OberlandesanwältinOberpflegamtsdirektor, Oberpflegamtsdirektorin der Stiftung Juliusspital WürzburgPolizeivizepräsident, PolizeivizepräsidentinPräsident, Präsidentin der Bayerischen Landesanstalt für Wald und ForstwirtschaftPräsident, Präsidentin der Bayerischen Landesanstalt für Weinbau und GartenbauPräsident, Präsidentin der Hochschule für den öffentlichen Dienst in BayernPräsident, Präsidentin des Landesamts für DatenschutzaufsichtPräsident, Präsidentin des Landesamts für PflegePräsident, Präsidentin des PolizeiverwaltungsamtsRegierungsvizepräsident, RegierungsvizepräsidentinStadtdirektor, StadtdirektorinStellvertretender Hauptgeschäftsführer, Stellvertretende Hauptgeschäftsführerin bei den Handwerkskammern für Niederbayern-Oberpfalz, OberbayernVizepräsident, Vizepräsidentin bei der Bayerischen Landesanstalt für LandwirtschaftVizepräsident, Vizepräsidentin der Lotterie- und SpielbankverwaltungVizepräsident, Vizepräsidentin der Verwaltung der staatlichen Schlösser, Gärten und SeenVizepräsident, Vizepräsidentin des Landesamts für Asyl und RückführungenVizepräsident, Vizepräsidentin des Landesamts für FinanzenVizepräsident, Vizepräsidentin des Landesamts für Gesundheit und LebensmittelsicherheitVizepräsident, Vizepräsidentin des Landesamts für Sicherheit in der InformationstechnikVizepräsident, Vizepräsidentin des Landesamts für StatistikVizepräsident, Vizepräsidentin des Landesamts für UmweltVizepräsident, Vizepräsidentin des Landesamts für VerfassungsschutzVizepräsident, Vizepräsidentin des Landesamts für Digitalisierung, Breitband und VermessungVizepräsident, Vizepräsidentin des Zentrums Bayern Familie und Soziales
+Besoldungsgruppe B 4
+Direktor, Direktorin bei der Bayerischen Versicherungskammer/Bayerischen VersorgungskammerDirektor, Direktorin bei einem kommunalen Spitzenverband (Bayerischer Gemeindetag, Bayerischer Landkreistag, Bayerischer Städtetag, Bayerischer Bezirketag – Körperschaften des öffentlichen Rechts –)Direktor, Direktorin bei einem Regionalträger der Deutschen RentenversicherungErster Direktor, Erste Direktorin eines Regionalträgers der Deutschen RentenversicherungGeneraldirektor, Generaldirektorin der Staatlichen ArchiveGeneraldirektor, Generaldirektorin des Deutschen Museums MünchenGeneraldirektor, Generaldirektorin des Germanischen Nationalmuseums NürnbergGeneraldirektor, Generaldirektorin des Bayerischen NationalmuseumsInspekteur, Inspekteurin der Bayerischen PolizeiKanzler, KanzlerinLeitender Ministerialrat, Leitende MinisterialrätinLeitender Ministerialrat, Leitende MinisterialrätinOberbranddirektor, Oberbranddirektorin der Landeshauptstadt MünchenPolizeipräsident, PolizeipräsidentinPräsident, Präsidentin der Landesbaudirektion BayernPräsident, Präsidentin der Monumenta Germaniae HistoricaPräsident, Präsidentin der Staatlichen Führungsakademie für Ernährung, Landwirtschaft und ForstenRegierungsvizepräsident, RegierungsvizepräsidentinStadtdirektor, Stadtdirektorin der Landeshauptstadt MünchenStellvertretender Geschäftsführender Direktor, Stellvertretende Geschäftsführende Direktorin des Bayerischen Kommunalen PrüfungsverbandsStellvertretender Hauptgeschäftsführer, Stellvertretende Hauptgeschäftsführerin bei der Handwerkskammer für OberbayernVizepräsident, Vizepräsidentin beim Landesamt für SteuernVizepräsident, Vizepräsidentin und fachlich-wissenschaftlicher Leiter, fachlich-wissenschaftliche Leiterin des Landesamts für Gesundheit und Lebensmittelsicherheit
+Besoldungsgruppe B 5
+Direktor, Direktorin bei einem Regionalträger der Deutschen RentenversicherungDirektor, Direktorin des Hauses der Bayerischen GeschichteErster Direktor, Erste Direktorin eines Regionalträgers der Deutschen RentenversicherungGeneraldirektor, Generaldirektorin der Bayerischen StaatsgemäldesammlungenGeneraldirektor, Generaldirektorin der StaatsbibliothekGeneralkonservator, Generalkonservatorin des Landesamts für DenkmalpflegeGeschäftsführender Direktor, Geschäftsführende Direktorin der Anstalt für kommunale Datenverarbeitung in BayernHauptgeschäftsführer, Hauptgeschäftsführerin der Handwerkskammern Mittelfranken, Oberfranken, Schwaben, UnterfrankenKanzler, KanzlerinMinisterialdirigent, MinisterialdirigentinPolizeipräsident, PolizeipräsidentinPräsident, Präsidentin des Landesamts für Sicherheit in der Informationstechnik
+Besoldungsgruppe B 6
+Erster Direktor, Erste Direktorin eines Regionalträgers der Deutschen RentenversicherungGenerallandesanwalt, GenerallandesanwältinGeneralsekretär, Generalsekretärin des LandespersonalausschussesGeschäftsführender Direktor, Geschäftsführende Direktorin des Bayerischen Kommunalen PrüfungsverbandsGeschäftsführendes Vorstandsmitglied, Geschäftsführendes Präsidialmitglied eines kommunalen Spitzenverbands (Bayerischer Gemeindetag, Bayerischer Landkreistag, Bayerischer Städtetag, Bayerischer Bezirketag – Körperschaften des öffentlichen Rechts –)Hauptgeschäftsführer, Hauptgeschäftsführerin der Handwerkskammer Niederbayern-OberpfalzMinisterialdirigent, MinisterialdirigentinPolizeipräsident, PolizeipräsidentinPräsident, Präsidentin der Akademie der WissenschaftenPräsident, Präsidentin der Bayerischen Landesanstalt für LandwirtschaftPräsident, Präsidentin der Lotterie- und SpielbankverwaltungPräsident, Präsidentin der Verwaltung der staatlichen Schlösser, Gärten und SeenPräsident, Präsidentin des Landesamts für Asyl und RückführungenPräsident, Präsidentin des Landesamts für FinanzenPräsident, Präsidentin des Landesamts für Gesundheit und LebensmittelsicherheitPräsident, Präsidentin des Landesamts für StatistikPräsident, Präsidentin des Landesamts für UmweltPräsident, Präsidentin des Landesamts für VerfassungsschutzPräsident, Präsidentin des Landesamts für Digitalisierung, Breitband und VermessungPräsident, Präsidentin des Zentrums Bayern Familie und Soziales
+Besoldungsgruppe B 7
+Geschäftsführendes Vorstandsmitglied, Geschäftsführendes Präsidialmitglied eines kommunalen Spitzenverbands (Bayerischer Gemeindetag, Bayerischer Landkreistag, Bayerischer Städtetag, Bayerischer Bezirketag – Körperschaften des öffentlichen Rechts –)Hauptgeschäftsführer, Hauptgeschäftsführerin der Handwerkskammer für OberbayernMinisterialdirigent, MinisterialdirigentinPräsident, Präsidentin des Landeamtes für Gesundheit und Lebensmittelsicherheit und Landesarzt für BayernPräsident, Präsidentin des Landesamts für SteuernRegierungspräsident, RegierungspräsidentinVizepräsident, Vizepräsidentin des Bayerischen Obersten Rechnungshofs
+Besoldungsgruppe B 8
+Geschäftsführendes Vorstandsmitglied, Geschäftsführendes Präsidialmitglied eines kommunalen Spitzenverbands (Bayerischer Gemeindetag, Bayerischer Landkreistag, Bayerischer Städtetag, Bayerischer Bezirketag – Körperschaften des öffentlichen Rechts –)Landespolizeipräsident, LandespolizeipräsidentinRegierungspräsident, Regierungspräsidentin von Oberbayern
+Besoldungsgruppe B 9
+Ministerialdirektor, MinisterialdirektorinPräsident, Präsidentin des Bayerischen Obersten Rechnungshofs
+Besoldungsgruppe B 10
+Staatsrat, Staatsrätin
+Besoldungsgruppe B 11
+…
+Besoldungsordnung W
+Besoldungsgruppe W 1
+Juniorprofessor, JuniorprofessorinNachwuchsprofessor, Nachwuchsprofessorin
+Besoldungsgruppe W 2
+Professor, ProfessorinProfessor, Professorin an einer KunsthochschuleUniversitätsprofessor, Universitätsprofessorin
+Besoldungsgruppe W 3
+Präsident, Präsidentin oder Rektor, Rektorin der …Professor, ProfessorinProfessor, Professorin an einer KunsthochschuleUniversitätsprofessor, Universitätsprofessorin
+Besoldungsordnung R
+Besoldungsgruppe R 1
+Richter, Richterin am AmtsgerichtRichter, Richterin am ArbeitsgerichtRichter, Richterin am LandgerichtRichter, Richterin am SozialgerichtRichter, Richterin am VerwaltungsgerichtStaatsanwalt, Staatsanwältin
+Besoldungsgruppe R 2
+Direktor, Direktorin des AmtsgerichtsDirektor, Direktorin des Arbeitsgerichts Oberstaatsanwalt, OberstaatsanwältinRichter, Richterin am AmtsgerichtRichter, Richterin am ArbeitsgerichtRichter, Richterin am FinanzgerichtRichter, Richterin am LandessozialgerichtRichter, Richterin am OberlandesgerichtRichter, Richterin am Bayerischen VerwaltungsgerichtshofRichter, Richterin am SozialgerichtVizepräsident, Vizepräsidentin des AmtsgerichtsVizepräsident, Vizepräsidentin des ArbeitsgerichtsVizepräsident, Vizepräsidentin des LandgerichtsVizepräsident, Vizepräsidentin des SozialgerichtsVizepräsident, Vizepräsidentin des VerwaltungsgerichtsVorsitzender Richter, Vorsitzende Richterin am LandgerichtVorsitzender Richter, Vorsitzende Richterin am Verwaltungsgericht
+Besoldungsgruppe R 3
+Direktor, Direktorin des AmtsgerichtsLeitender Oberstaatsanwalt, Leitende OberstaatsanwältinOberstaatsanwalt, OberstaatsanwältinPräsident, Präsidentin des ArbeitsgerichtsPräsident, Präsidentin des LandgerichtsPräsident, Präsidentin des SozialgerichtsPräsident, Präsidentin des VerwaltungsgerichtsRichter, Richterin am Bayerischen Obersten LandesgerichtVizepräsident, Vizepräsidentin des AmtsgerichtsVizepräsident, Vizepräsidentin des FinanzgerichtsVizepräsident, Vizepräsidentin des LandesarbeitsgerichtsVizepräsident, Vizepräsidentin des LandgerichtsVizepräsident, Vizepräsidentin des VerwaltungsgerichtsVorsitzender Richter, Vorsitzende Richterin am FinanzgerichtVorsitzender Richter, Vorsitzende Richterin am LandesarbeitsgerichtVorsitzender Richter, Vorsitzende Richterin am LandessozialgerichtVorsitzender Richter, Vorsitzende Richterin am OberlandesgerichtVorsitzender Richter, Vorsitzende Richterin am Bayerischen Verwaltungsgerichtshof
+Besoldungsgruppe R 4
+Leitender Oberstaatsanwalt, Leitende OberstaatsanwältinPräsident, Präsidentin des AmtsgerichtsPräsident, Präsidentin des ArbeitsgerichtsPräsident, Präsidentin des LandgerichtsPräsident, Präsidentin des SozialgerichtsPräsident, Präsidentin des VerwaltungsgerichtsVizepräsident, Vizepräsidentin des LandessozialgerichtsVizepräsident, Vizepräsidentin des OberlandesgerichtsVizepräsident, Vizepräsidentin des Bayerischen Obersten LandesgerichtsVizepräsident, Vizepräsidentin des Bayerischen VerwaltungsgerichtshofsVorsitzender Richter, Vorsitzende Richterin am Bayerischen Obersten Landesgericht
+Besoldungsgruppe R 5
+Leitender Oberstaatsanwalt, Leitende OberstaatsanwältinPräsident, Präsidentin des AmtsgerichtsPräsident, Präsidentin des FinanzgerichtsPräsident, Präsidentin des LandgerichtsPräsident, Präsidentin des VerwaltungsgerichtsVizepräsident, Vizepräsidentin des Oberlandesgerichts
+Besoldungsgruppe R 6
+Generalstaatsanwalt, GeneralstaatsanwältinLeitender Oberstaatsanwalt, Leitende OberstaatsanwältinPräsident, Präsidentin des AmtsgerichtsPräsident, Präsidentin des FinanzgerichtsPräsident, Präsidentin des LandesarbeitsgerichtsPräsident, Präsidentin des Landgerichts
+Besoldungsgruppe R 7
+Generalstaatsanwalt, Generalstaatsanwältin
+Besoldungsgruppe R 8
+Präsident, Präsidentin des LandessozialgerichtsPräsident, Präsidentin des OberlandesgerichtsPräsident, Präsidentin des Bayerischen Obersten LandesgerichtsPräsident, Präsidentin des Bayerischen Verwaltungsgerichtshofs
+Besoldungsgruppe R 9
+Präsident, Präsidentin des Oberlandesgerichts
+Besoldungsordnungen kw
+Besoldungsordnung A kw
+Besoldungsgruppe A 5 kw
+Kontrollgehilfe, KontrollgehilfinStädtischer Masseur und Bademeister, Städtische Masseurin und Bademeisterin
+Besoldungsgruppe A 6 kw
+Friedhofverwalter, FriedhofverwalterinKontrollmeister, KontrollmeisterinStädtischer Masseur und Oberbademeister, Städtische Masseurin und Oberbademeisterin
+Besoldungsgruppe A 7 kw
+Friedhofoberverwalter, FriedhofoberverwalterinOberkontrollmeister, OberkontrollmeisterinStädtischer Masseur und Hauptbademeister, Städtische Masseurin und Hauptbademeisterin
+Besoldungsgruppe A 8 kw
+Friedhofhauptverwalter, FriedhofhauptverwalterinHauptkontrollmeister, Hauptkontrollmeisterin
+Besoldungsgruppe A 9 kw
+Staatsbankinspektor, Staatsbankinspektorin
+Besoldungsgruppe A 10 kw
+Betriebsoberinspektor, BetriebsoberinspektorinSozialoberinspektor, Sozialoberinspektorin
+Besoldungsgruppe A 11 kw
+…
+Besoldungsgruppe A 12 kw
+Fachstudienrat, Fachstudienrätin
+–
+im Hochschuldienst –
+Institutslehrer, Institutslehrerin
+–
+am Zentrum für Bildungsforschung –
+Religionsoberlehrer, Religionsoberlehrerin an einer beruflichen SchuleWirtschaftsoberlehrer, Wirtschaftsoberlehrerin
+Besoldungsgruppe A 13 kw
+Akademischer Rat, Akademische RätinBaurat, BaurätinBlindenoberlehrer, BlindenoberlehrerinHauptlehrer, Hauptlehrerin– im Justizvollzugsdienst –Medizinalrat, MedizinalrätinOberlehrer, Oberlehrerin– im Justizvollzugsdienst –Pharmazierat, PharmazierätinPolizeihauptlehrer, PolizeihauptlehrerinRegierungsrat, RegierungsrätinStudienrat, StudienrätinTaubstummenlehrer, TaubstummenlehrerinTaubstummenoberlehrer, TaubstummenoberlehrerinWissenschaftlicher Assistent, Wissenschaftliche Assistentin an einer wissenschaftlichen Hochschule oder einer wissenschaftlichen Anstalt
+Besoldungsgruppe A 14 kw
+Akademischer Oberrat, Akademische OberrätinBezirksoberpfarrer, BezirksoberpfarrerinDirektor, Direktorin bei den Wissenschaftlichen AnstaltenOberbaurat, OberbaurätinOberregierungschemierat, OberregierungschemierätinOberregierungsgewerberat, OberregierungsgewerberätinOberregierungsmedizinalrat, OberregierungsmedizinalrätinOberregierungsrat, OberregierungsrätinOberstudienrat, OberstudienrätinSingschuldirektor, Singschuldirektorin der Stadt WürzburgStaatsarchivdirektor, Staatsarchivdirektorin
+Besoldungsgruppe A 15 kw
+Akademischer Direktor, Akademische DirektorinBaudirektor, BaudirektorinChemiedirektor, ChemiedirektorinLandwirtschaftsdirektor, LandwirtschaftsdirektorinMedizinaldirektor, MedizinaldirektorinPharmaziedirektor, PharmaziedirektorinRegierungsdirektor, RegierungsdirektorinStudiendirektor, Studiendirektorin
+Besoldungsgruppe A 16 kw
+Direktor, Direktorin des Staatlichen Forschungsinstituts für Geochemie in BambergKanzler, Kanzlerin der Fachhochschule KemptenObermedizinaldirektor, ObermedizinaldirektorinOberstudiendirektor, OberstudiendirektorinStadtdirektor, Stadtdirektorin
+–
+in einer Stadt mit bis zu 50 000 Einwohnern –
+Besoldungsordnung B kw
+Besoldungsgruppe B 2 kw
+Direktor, Direktorin bei der Bayerischen StaatsforstenKanzler, Kanzlerin der Universität BayreuthPolizeivizepräsident, Polizeivizepräsidentin des Präsidiums der Bayerischen BereitschaftspolizeiPräsident, Präsidentin des PolizeiverwaltungsamtsStadtdirektor, Stadtdirektorin
+–
+in einer Stadt mit bis zu 100 000 Einwohnern –
+Vizepräsident, Vizepräsidentin
+–
+einer früheren Bezirksfinanzdirektion –
+Besoldungsgruppe B 3 kw
+Direktor, Direktorin des Hauses der Bayerischen GeschichteDirektor, Direktorin des Planungsverbands äußerer Wirtschaftsraum MünchenPräsident, Präsidentin
+–
+als Leiter oder Leiterin einer früheren Bezirksfinanzdirektion –
+Präsident, Präsidentin der Autobahndirektion SüdbayernPräsident, Präsidentin einer AutobahndirektionPräsident, Präsidentin einer Direktion für Ländliche EntwicklungStadtdirektor, Stadtdirektorin
+–
+in einer Stadt mit bis zu 500 000 Einwohnern –
+Besoldungsgruppe B 4 kw
+Generaldirektor, Generaldirektorin der Bayerischen StaatsgemäldesammlungenGeneraldirektor, Generaldirektorin der StaatsbibliothekGeneralkonservator, Generalkonservatorin des Landesamts für DenkmalpflegeGeschäftsführender Direktor, Geschäftsführende Direktorin der Landesgewerbeanstalt BayernPolizeipräsident, Polizeipräsidentin der BereitschaftspolizeiPräsident, Präsidentin der Autobahndirektion NordbayernPräsident, Präsidentin der Verwaltung der staatlichen Schlösser, Gärten und Seen
+Besoldungsgruppe B 5 kw
+Präsident, Präsidentin
+–
+als Leiter oder Leiterin einer früheren Bezirksfinanzdirektion –
+Stadtdirektor, Stadtdirektorin
+–
+der Landeshauptstadt München –
+Besoldungsgruppe B 6 kw
+…
+Besoldungsgruppe B 7 kw
+Präsident, Präsidentin, Rektor, Rektorin der Universität Würzburg
+Besoldungsgruppe B 8 kw
+…
+Besoldungsordnung C kw
+Besoldungsgruppe C 1 kw
+Künstlerischer Assistent, Künstlerische AssistentinWissenschaftlicher Assistent, Wissenschaftliche Assistentin
+Besoldungsgruppe C 2 kw
+Hochschuldozent, HochschuldozentinOberassistent, OberassistentinOberingenieur, OberingenieurinProfessor, Professorin
+–
+an einer Fachhochschule –
+–
+an einer wissenschaftlichen Hochschule mit Fachhochschulstudiengängen, soweit überwiegend in diesen tätig –
+Professor, Professorin an einer KunsthochschuleProfessor, Professorin an einer wissenschaftlichen Hochschule
+–
+an einer künstlerisch-wissenschaftlichen Hochschule –
+–
+soweit überwiegend in Studiengängen tätig, in denen Aufgaben der wissenschaftlichen Hochschulen und der Fachhochschulen miteinander verbunden werden –
+Universitätsprofessor, Universitätsprofessorin
+–
+an einer künstlerisch-wissenschaftlichen Hochschule –
+Besoldungsgruppe C 3 kw
+Professor, Professorin
+–
+an einer Fachhochschule –
+–
+an einer wissenschaftlichen Hochschule mit Fachhochschulstudiengängen, soweit überwiegend in diesen tätig –
+Professor, Professorin an einer KunsthochschuleProfessor, Professorin an einer wissenschaftlichen HochschuleUniversitätsprofessor, Universitätsprofessorin
+Besoldungsgruppe C 4 kw
+Professor, Professorin an einer KunsthochschuleProfessor, Professorin an einer wissenschaftlichen HochschuleUniversitätsprofessor, Universitätsprofessorin
