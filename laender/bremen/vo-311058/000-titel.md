@@ -1,0 +1,1 @@
+# Verordnung über die vorübergehende Fortführung von Papierakten bis zur Einführung der elektronischen Akte in den Bußgeldstellen im Geschäftsbereich der Senatorin für Umwelt, Klima und Wissenschaft vom 23. Dezember 2025
