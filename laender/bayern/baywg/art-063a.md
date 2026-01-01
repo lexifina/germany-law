@@ -1,0 +1,2 @@
+# Art. 63a Zuständigkeit der Staatsoberkasse
+Der kassenmäßige Vollzug der jeweiligen Erhebung der Wassernutzungsgebühr, des Wasserentnahmeentgelts und der Abwasserabgabe obliegt der Staatsoberkasse Bayern in Landshut. Zum kassenmäßigen Vollzug gehören die Annahme und Buchung der Zahlungen, die Festsetzung und Anforderung der Zinsen und Säumniszuschläge, die Mahnung und die Einleitung des Vollstreckungsverfahrens.
