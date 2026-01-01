@@ -1,0 +1,2 @@
+– des Art. 93 Abs. 1 und 2, des Art. 99 Abs. 1 Satz 1 Nr. 1 und 2 und des Art. 100 Abs. 2 Satz 3 des Bayerischen Beamtengesetzes (Bay BG) vom 29. Juli 2008 (GVBl. S. 500, BayRS 2030-1-1-F), das zuletzt durch § 1 des Gesetzes vom 12. Juli 2017 (GVBl. S. 362) geändert worden ist, und
+– des Art. 44 Abs. 1 Nr. 1 und 2 des Gesetzes über kommunale Wahlbeamte und Wahlbeamtinnen (KWBG) vom 24. Juli 2012 (GVBl. S. 366; 2014 S. 20, BayRS 2022-1-I), das zuletzt durch § 10 des Gesetzes vom 12. Juli 2017 (GVBl. S. 326) geändert worden ist,
