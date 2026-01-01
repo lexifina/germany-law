@@ -1,67 +1,82 @@
-# Hinweise: Die Satzung gilt in dieser Fassung seit dem 10. Oktober 2025. Die zugrundeliegenden gesetzlichen Ermächtigungen sind in den Präambeln der in den Amtsblättern jeweils veröffentlichten (Änderungs-)Satzungen enthalten. Der hier wiedergegebene 
+# Hinweise: Die Satzung gilt in dieser Fassung seit dem 1. Januar 2026. Die zugrundeliegenden gesetzlichen Ermächtigungen sind in den Präambeln der in den Amtsblättern jeweils veröffentlichten (Änderungs-)Satzungen enthalten. Der hier wiedergegebene Te
 
 - Gemeinde: Stadt Oldenburg (Oldb) (ARS 034030000000)
-- Datum: 2025-10-10 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/5.33-ab_20251010_K_b.pdf
+- Datum: 2026-01-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/2.39_20260101_b.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-www.oldenburg.de
+2.39 Seite 1 von 5
+N i c h t a m t l i c h e konsolidierte L e s e f a s s u n g (Stand: 26. November 2025)
+Hinweise: Die Satzung gilt in dieser Fassung seit dem 1. Januar 2026. Die zugrundeliegenden gesetzlichen Ermächtigungen sind in den Präambeln der in den Amtsblättern jeweils veröffentlichten (Änderungs-)Satzungen enthalten. Der hier wiedergegebene Text ist sorgfältig erstellt, maßgeblich sind jedoch nur die Veröffentlichungen im Amtsblatt.
+Satzung der Stadt Oldenburg (Oldb) über die Erhebung der Vergnügungs-
+steuer (Vergnügungssteuersatzung) vom 25. November 2019
+(Amtsblatt für die Stadt Oldenburg Nummer 21 vom 20. Dezember 2019, zuletzt geändert durch Satzung vom 26. November 2025, Amtsblatt für die Stadt Oldenburg Nummer 20 vom 5. Dezember 2025).
+§1 Steuergegenstand
+Die Stadt Oldenburg (Oldb) erhebt Vergnügungssteuer für die folgenden im Stadtgebiet veranstalteten Vergnügungen gewerblicher Art:
+1. Veranstaltungen von Schönheitstänzen, Schaustellungen von Personen und Darbietungen ähnlicher Art;
+2. Vorführungen von Filmen – unabhängig von der Art der Aufzeichnung und Wiedergabe -, die nicht von der obersten Landesbehörde nach den § 11, 12 und 14 des Jugendschutzgesetzes (JuSchG) vom 23. Juli 2002 (BGBl. I 2002 Seite 2730) in der jeweils geltenden Fassung gekennzeichnet worden sind und die zudem insbesondere brutale oder sexuelle Vorgänge in übersteigerter, anreißerischer oder aufdringlich selbstzweckhafter Form schildern;
+3. das Ausspielen von Geld oder Gegenständen in Spielclubs, Spielcasinos und ähnlichen Einrichtungen;
+4. Catcher- und Ringkampfveranstaltungen, wenn Personen auftreten, die solche Kämpfe berufs- oder gewerbsmäßig ausführen.
+§2 Steuerbefreite Veranstaltungen
+Von der Steuer sind befreit
+1. Veranstaltungen, die von kulturellen Organisationen oder Filmclubs durchgeführt werden, wenn der Zweck der Veranstaltung ausschließlich in der Darstellung kultureller, wissenschaftlicher oder künstlerischer Bildungsfragen und in der Diskussion oder Belehrung darüber besteht;
 
-5.33 Seite 1 von 3
+2.39 Seite 2 von 5
+2. Veranstaltungen, die in der Zeit vom 29. April bis 2. Mai aus Anlass des 1. Mai von politischen oder gewerkschaftlichen Organisationen, von Behörden oder von Betrieben durchgeführt werden;
+3. Veranstaltungen, deren Ertrag ausschließlich und unmittelbar zu gemeinnützigen, mildtätigen oder kirchlichen Zwecken im Sinne der §§ 52 bis 54 Abgabenordnung (AO) verwendet oder gespendet wird, wenn der Zweck bei der Anmeldung nach § 11 angegeben worden ist und der verwendete oder gespendete Betrag mindestens die Höhe der Steuer erreicht;
+4. Veranstaltungen von Vereinen, Gewerkschaften, Parteien und Religionsgemeinschaften, zu denen grundsätzlich nur Mitglieder und deren Angehörige Zugang haben;
+5. Veranstaltungen, bei denen überwiegend Filme vorgeführt werden, die a. von der von den Ländern für das Bundesgebiet gebildeten Bewertungsstelle als „wertvoll“ oder „besonders wertvoll“ anerkannt worden sind, oder b. von Bund, Ländern, Gemeinden oder der Filmförderungsanstalt (Körperschaft des öffentlichen Rechts) gefördert worden sind.
+Das Gleiche gilt für das Vorführen von Aufzeichnungen dieser Filme auf a anderen Bildträgern.
+6. Veranstaltungen auf Schützen-, Garten-, Straßenfesten oder ähnlichen Festen.
+§3 Steuerschuldner
+(1) Steuerschuldner ist das Unternehmen der Veranstaltung.
+(2) Als Steuerschuldner der Veranstaltung gilt auch die Inhaberin / der Inhaber der Räume oder Grundstücke, in denen die Veranstaltung stattfindet, wenn sie / er im Rahmen der Veranstaltung Speisen oder Getränke verkauft oder unmittelbar an den Einnahmen oder dem Ertrag beteiligt ist.
+(3) Die Steuerschuldner sind Gesamtschuldner im Sinne des § 44 AO in Verbindung mit § 11 Absatz 1 Nummer 2 Buchstabe b) NKAG.
+§4 Steuerform
+(1) Die Steuer ist für jede Veranstaltung gesondert zu berechnen.
+(2) Die Steuer wird als Pauschsteuer (§ 6) erhoben.
 
-N i c h t a m t l i c h e konsolidierte L e s e f a s s u n g (Stand: 21. August 2025)
-Hinweise: Die Satzung gilt in dieser Fassung seit dem 10. Oktober 2025. Die zugrundeliegenden gesetzlichen Ermächtigungen sind in den Präambeln der in den Amtsblättern jeweils veröffentlichten (Änderungs-)Satzungen enthalten. Der hier wiedergegebene Text ist sorgfältig erstellt, maßgeblich sind jedoch nur die Veröffentlichungen im Amtsblatt.
-Satzung zur Änderung der Satzung über die Bildung einer Seniorenvertretung
-der Stadt Oldenburg (Oldb) vom 1.April 1999
+2.39 Seite 3 von 5
+§5 Erhebungszeitraum, Festsetzung und Fälligkeit der Steuerschuld
+(1) Bei Veranstaltungen im Sinne von § 1 ist Erhebungszeitraum die Zeit vom Beginn bis zum Ende der Veranstaltung. Die Steuerschuld entsteht mit dem Schluss der Veranstaltung.
+(2) Gibt die Steuerschuldnerin / der Steuerschuldner die Steuererklärung nicht, nicht rechnerisch richtig oder nicht vollständig ab, so setzt die Stadt Oldenburg (Oldb) die Steuer durch schriftlichen Bescheid fest. Dabei kann sie von den Möglichkeiten der Schätzung der Bemessungsgrundlage und der Festsetzung von Verspätungszuschlägen nach den Vorschriften der Abgabenordnung Gebrauch machen.
+(3) Die Stadt Oldenburg (Oldb) setzt die Steuer fest und gibt sie der Steuerschuldnerin / dem Steuerschuldner bekannt.
+(4) Die Steuer ist innerhalb von zwei Wochen nach der Bekanntgabe der Steuerfestsetzung an die Steuerschuldnerin / den Steuerschuldner fällig.
+§6 Pauschsteuer nach der Veranstaltungsfläche
+(1) Die Größe der Veranstaltungsfläche wird festgestellt nach der Fläche der für die Vorführung und Zuschauer bestimmten Räume einschließlich der Ränge, Logen und Galerien, Wandelgänge und Erfrischungsräume, aber ausschließlich der Bühnen- und Kassenräume, der Kleiderablage und sanitäre Anlagen. Findet die Veranstaltung ganz oder teilweise im Freien statt, so sind von den im Freien gelegenen Flächen nur die für die Vorführung und die Zuschauer bestimmten Flächen einschließlich der dazwischen gelegenen Wege und angrenzenden Veranden, Zelte und ähnliche Einrichtungen anzurechnen.
+(2) Bei der Besteuerung nach der Veranstaltungsfläche beträgt die Steuer bei Veranstaltungen nach § 1
+3,00 Euro
+für jede angefangenen 10 m² Veranstaltungsfläche. Die im Freien gelegenen Teile der Veranstaltungsfläche werden zu 50 vom Hundert berücksichtigt.
+(3) Bei Veranstaltungen, die über den Eintritt der allgemeinen Sperrzeit hinausgehen, verdoppelt sich die Steuer. Bei Veranstaltungen, die mehrere Tage dauern, wird die Steuer für jeden angefangenen Tag besonders erhoben.
 
-(Amtsblatt für den Regierungsbezirk Weser-Ems Nummer 13 vom 1. April 1999, zuletzt geändert durch Satzung vom 24. Juni 2025, Amtsblatt für die Stadt Oldenburg Nummer 15 vom 26. September 2025)
-§1 Aufgaben
-(1) Die Seniorenvertretung nimmt die Belange aller Oldenburger Einwohnerinnen und Einwohner ab 60 Jahre wahr und berät durch Anregungen. Empfehlungen und Stellungnahmen den Rat und seine Ausschüsse sowie die Verwaltung der Stadt Oldenburg zu den altersrelevanten Fragen in Angelegenheiten der örtlichen Gemeinschaft.
-(2) Die Seniorenvertretung hat die Pflicht, insbesondere überparteilich sowie in Bezug auf Konfession und Herkunft, stets neutral und unvoreingenommen zu handeln. Zudem ist eine Bevorteilung von Akteuren und Organisationen aus dem Bereich der Altenhilfe innerhalb der Stadtgrenzen auszuschließen.
-(3) Die Seniorenvertretung informiert, berät und unterstützt die älteren Menschen bei der aktiven Lebens- und Freizeitgestaltung mit dem Ziel, Aktivitäten und Selbständigkeit zu fördern und solange wie möglich zu erhalten.
-(4) Sie informiert die Öffentlichkeit über die Möglichkeiten und Entwicklungen der Altenhilfe und –politik mit der Zielsetzung, ältere Mitbürgerinnen und Mitbürger zur aktiven Mitarbeit und Vertretung der eigenen Interessen anzuregen.
-§2 Rechte und Pflichten
-(1) Die Seniorenvertretung hat bei Bedarf ein Vorschlagsrecht für die Wahl von beratenden Mitgliedern in städtische Ausschüsse oder in sonstige Beiräte, Kommissionen und ähnliche Einrichtungen.
+§7 Anzeigepflichten
 
-www.oldenburg.de
+2.39 Seite 4 von 5
 
-5.33 Seite 2 von 3
+(1) Steuerpflichtige Vergnügungen im Sinne von § 1, die im Stadtgebiet veranstaltet werden, sind bei der Stadt Oldenburg (Oldb) spätestens eine Woche vorher anzumelden. Die Anzeige muss die genaue Bezeichnung der Örtlichkeit sowie die Größe der Veranstaltungsfläche enthalten. Ein Grundrissplan, der der Veranstaltung dienenden Räumlichkeiten, ist der Anzeige, soweit nicht bei der Stadt Oldenburg (Oldb) vorhanden, beizufügen. Veränderungen, die sich auf die Höhe der Steuer auswirken, sind umgehend anzuzeigen.
+(2) Zur Anmeldung sind auch das Unternehmen und die Inhaberin / der Inhaber der dazu benutzten Räume oder Grundstücke nach § 90 AO verpflichtet.
+(3) Wird eine Veranstaltung nicht durchgeführt, soll die Stadt Oldenburg (Oldb) spätestens einen Arbeitstag (Montag bis Freitag) vor dem ursprünglich vorgesehenen Termin schriftlich informiert werden.
+(4) Bei Veranstaltungen einzelner Unternehmer kann die Stadt Oldenburg (Oldb) eine einmalige Anmeldung für eine Reihe von Veranstaltungen für ausreichend erklären.
 
-(2) Bei einer Modifikation dieser Satzung hat die Seniorenvertretung das Recht, dem Rat Änderungswünsche vorzuschlagen.
+§8 Sicherheitsleistung
+Die Stadt Oldenburg (Oldb) kann die Leistung einer Sicherheit in der voraussichtlichen Höhe der Steuerschuld verlangen, wenn die Durchsetzung des Steueranspruchs gefährdet erscheint. Sie kann die Veranstaltung untersagen, solange die Sicherheit nicht geleistet ist.
 
-(3) Auf Wunsch des Rates der Stadt Oldenburg, seiner Ausschüsse oder der Verwaltung hat sich die Seniorenvertretung zu den Angelegenheiten der älteren Menschen in Oldenburg zu äußern.
+§9 Steueraufsicht und Prüfungsvorschriften
+(1) Die Stadt Oldenburg (Oldb) ist berechtigt, auch während der Veranstaltung, zur Nachprüfung der Steuererklärung (Steueranmeldung) und zur Feststellung von Steuertatbeständen die Veranstaltungsorte zu betreten sowie die Geschäftsunterlagen einzusehen;
+(2) Die Stadt Oldenburg (Oldb) ist berechtigt, Außenprüfungen nach den §§ 193 ff. der AO durchzuführen;
+(3) Der Steuerschuldner ist verpflichtet, bei der Überprüfung und der Außenprüfung der / dem von der Stadt Oldenburg (Oldb) ohne vorherige Ankündigung Beauftragten unentgeltlichen Zutritt zu den Veranstaltungs- und Geschäftsräumen zu gestatten, alle für die Besteuerung bedeutsamen Auskünfte zu erteilen, sowie Räumlichkeiten und Geschäftsunterlagen, die für die Besteuerung von Bedeutung sind und nach § 147 AO aufzubewahren sind, zugänglich zu machen.
 
-§3 Zusammensetzung
-(1) Die Seniorenvertretung besteht aus neun Mitgliedern.
-(2) Acht Mitglieder der Seniorenvertretung wählt die Delegiertenversammlung aus ihrer Mitte. Das weitere Mitglied wird als Vertreterin oder Vertreter der Heimbewohner durch die Heimbeiräte der Oldenburger Alten- und Pflegeheime gewählt.
-
-§4 Delegiertenversammlung
-(1) Alle in der Altenarbeit in Oldenburg tätigen Organisationen können bis zu zwei Personen in die Delegiertenversammlung entsenden. Zudem können sich auch Einzelpersonen zur regelmäßigen Teilnahme an der Delegiertenversammlung melden. Dazu ist eine vorherige Anmeldung notwendig, die mit ihrer Bestätigung durch die Stadt Oldenburg wirksam wird. Sie muss bis spätestens zwei Wochen vor der nächstfolgenden Delegiertenversammlung eingegangen sein, um für diese berücksichtigt werden zu können. Die Delegierten können sich abmelden und ausscheiden, und zwar mit Wirkung ab Zugang ihrer Abmeldung bei der Stadt.
-(2) Die Mitglieder der Delegiertenversammlung müssen das 60. Lebensjahr vollendet haben und gemäß § 48 NKomVG wahlberechtigt oder nur deswegen vom Wahlrecht ausgeschlossen sein, weil sie nicht die Staatsangehörigkeit eines EU-Mitgliedsstaates besitzen.
-(3) Die amtierenden Mitglieder der Seniorenvertretung der Stadt Oldenburg nehmen an der Delegiertenversammlung teil.
-(4) Die Sitzungen der Delegiertenversammlung finden mindestens einmal jährlich statt. Die/der Vorsitzende der Seniorenvertretung bereitet die Sitzungen vor, lädt dazu ein, beides mit Unterstützung der Verwaltung, und leitet sie.
-(5) Die Delegierten werden in der Delegiertenversammlung über die Arbeit der Seniorenvertretung informiert. Zudem können die Delegierten Themen und Anregungen an die Seniorenvertretung herantragen. In der ersten Delegiertenversammlung nach einer Ratswahl wird von der Delegiertenversammlung die Seniorenvertretung gewählt. Der/Die bisherige Vorsitzende der Seniorenvertretung lädt mit Unterstützung der Verwaltung zur ersten Delegiertenversammlung nach einer Ratswahl ein und leitet sie.
-
-www.oldenburg.de
-
-§5 Vorstand
-
-5.33 Seite 3 von 3
-
-(1) Die Seniorenvertretung wählt für die Dauer ihrer Amtszeit aus dem Kreis ihrer Mitglieder die Vorsitzende oder den Vorsitzenden, die stellvertretende Vorsitzende oder den stellvertretenden Vorsitzenden sowie die Schriftführerin oder den Schriftführer und die Kassenwartin oder den Kassenwart.
-(2) Die Seniorenvertretung gibt sich selbst eine Geschäftsordnung, die mit der Verwaltung abzustimmen ist.
-
-§6 Bewirtschaftung der Haushaltsmittel
-Die der Seniorenvertretung zur Erledigung ihrer Aufgaben vom Rat der Stadt Oldenburg zur Verfügung gestellten Mittel verwaltet sie eigenverantwortlich entsprechend den Regelungen des kommunalen Haushaltsrechts. Die zweckentsprechende Verwendung der Mittel weist sie innerhalb von sechs Monaten nach Ablauf des Haushaltsjahres gegenüber der Verwaltung nach.
-
-§7 Amtszeit
-(1) Die Amtszeit der Seniorenvertretung entspricht der Wahlperiode des Rates der Stadt Oldenburg.
-(2) Scheidet ein Mitglied der Seniorenvertretung vorzeitig aus, so wird bis zum Ende der Wahlperiode ein neues Mitglied von dem jeweils zuständigen Gremium gewählt.
-
-§8 Inkrafttreten
-Diese Satzung ersetzt ab dem 24. Juni 2025 die vom Rat der Stadt Oldenburg am 1. April 1999 beschlossene Satzung über die Bildung einer Seniorenvertretung der Stadt Oldenburg (Oldb).
-Oldenburg (Oldb), den 24. Juni. 2025
-Stadt Oldenburg (Oldb)
+2.39 Seite 5 von 5
+§ 10 Datenverarbeitung
+(1) Die zur Ermittlung der / des Steuerpflichtigen, zur Festsetzung, Erhebung und Vollstreckung der Vergnügungssteuer nach dieser Satzung erforderlichen personen- und grundstücksbezogenen Daten werden von der Stadt Oldenburg (Oldb) gemäß der Europäischen Datenschutz-Grundverordnung (DS-GVO) und dem Niedersächsischen Datenschutzgesetzes (NDSG), jeweils in Kraft getreten am 25. Mai 2018, in Verbindung mit § 11 NKAG) und den dort genannten Bestimmungen der AO erhoben und verarbeitet. Die Datenerhebung beim Finanzamt, beim Verwaltungs- und Amtsgericht, beim Katasteramt und bei den für das Einwohnermeldewesen, Bauwesen, Ordnungsrecht, Rechtswesen sowie Finanzwesen zuständigen Stellen der Stadt Oldenburg (Oldb) erfolgt, soweit die Sachverhaltsaufklärung durch die Steuerpflichtige / den Steuerpflichtigen nicht zum Ziel führt oder keinen Erfolg verspricht (§ 93 Absatz 1 Satz 3 AO);
+(2) Die Daten dürfen von der Daten verarbeitenden Stelle nur zum Zweck der Steuererhebung oder dem Ordnungswidrigkeitenverfahren nach dieser Satzung oder zur Durchführung eines anderen Abgabenverfahrens, das denselben Abgabenpflichtigen betrifft, verarbeitet werden. Zur Kontrolle der Verarbeitung sind technische und organisatorische Maßnahmen des Datenschutzes und der Datensicherheit getroffen worden.
+§ 11 Ordnungswidrigkeiten
+(1) Ordnungswidrig im Sinne von § 18 Absatz 2 Nummer 2 NKAG handelt, wer
+1. entgegen § 7 Absatz 1 oder 2 Veranstaltungen nicht, nicht vollständig, fehlerhaft oder nicht innerhalb der dort bestimmten Frist anzeigt;
+2. entgegen § 9 Absatz 3 die ihr / ihm obliegenden Pflichten nicht erfüllt.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 10.000 Euro geahndet werden.
+§ 12 Inkrafttreten
+Diese Satzung ersetzt die Satzung über die Erhebung von Vergnügungssteuer in der Stadt Oldenburg (Oldb) (Vergnügungssteuersatzung) vom 20. Dezember 1985 und tritt am 1. Januar 2020 in Kraft.
