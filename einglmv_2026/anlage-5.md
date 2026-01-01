@@ -1,0 +1,410 @@
+# Anlage 5 (zu § 2 Absatz 4 Satz 4)Verteilung der Mittel für Verwaltungskosten
+
+| Träger-Nummer ab 1. Januar 2026 | Träger-Form ab 1. Januar 2026 | Jobcenter | Verwaltungsmittel in Prozent |
+| 03002 | gE | Vorpommern-Greifswald | 0,3608 |
+| 03102 | gE | Mecklenburgische Seenplatte | 0,4097 |
+| 03202 | gE | Rostock, Hansestadt | 0,3324 |
+| 03208 | gE | Landkreis Rostock | 0,2320 |
+| 03302 | gE | Schwerin, Landeshauptstadt | 0,2073 |
+| 03304 | gE | Nordwestmecklenburg | 0,1802 |
+| 03324 | gE | Ludwigslust-Parchim | 0,2171 |
+| 03444 | zkT | Vorpommern-Rügen | 0,3226 |
+| 03502 | gE | Cottbus, Stadt | 0,1939 |
+| 03504 | gE | Elbe-Elster | 0,1232 |
+| 03506 | gE | Oberspreewald-Lausitz | 0,1544 |
+| 03510 | gE | Dahme-Spreewald | 0,1404 |
+| 03538 | zkT | Spree-Neiße | 0,1281 |
+| 03602 | gE | Barnim | 0,1932 |
+| 03604 | zkT | Uckermark | 0,2376 |
+| 03702 | gE | Frankfurt (Oder), Stadt | 0,1111 |
+| 03706 | zkT | Oder-Spree | 0,2108 |
+| 03708 | gE | Märkisch-Oderland | 0,2006 |
+| 03802 | zkT | Ostprignitz-Ruppin | 0,1324 |
+| 03804 | gE | Prignitz | 0,1127 |
+| 03806 | zkT | Oberhavel | 0,1979 |
+| 03846 | zkT | Havelland | 0,1758 |
+| 03902 | gE | Brandenburg an der Havel, Stadt | 0,1469 |
+| 03904 | gE | Potsdam, Stadt | 0,2374 |
+| 03908 | gE | Teltow-Fläming | 0,1554 |
+| 03942 | zkT | Potsdam-Mittelmark | 0,1421 |
+| 04202 | gE | Dessau-Roßlau | 0,1418 |
+| 04208 | zkT | Anhalt-Bitterfeld | 0,2365 |
+| 04214 | gE | Wittenberg | 0,1574 |
+| 04306 | zkT | Harz | 0,2763 |
+| 04308 | zkT | Salzlandkreis | 0,3336 |
+| 04402 | gE | Halle (Saale), Stadt | 0,4863 |
+| 04412 | zkT | Saalekreis | 0,2256 |
+| 04418 | zkT | Burgenlandkreis | 0,2841 |
+| 04448 | gE | Mansfeld-Südharz | 0,2253 |
+| 04502 | gE | Magdeburg, Landeshauptstadt | 0,4587 |
+| 04506 | gE | Jerichower Land | 0,1130 |
+| 04514 | gE | Börde | 0,1686 |
+| 04518 | gE | Stendal | 0,1981 |
+| 04546 | zkT | Altmarkkreis Salzwedel | 0,1097 |
+| 07146 | zkT | Erzgebirgskreis | 0,2753 |
+| 07202 | zkT | Bautzen | 0,2872 |
+| 07208 | zkT | Görlitz | 0,3674 |
+| 07302 | gE | Chemnitz, Stadt | 0,4287 |
+| 07402 | gE | Dresden, Stadt | 0,7666 |
+| 07502 | gE | Leipzig, Stadt | 1,0715 |
+| 07602 | gE | Nordsachsen | 0,2311 |
+| 07610 | zkT | Leipzig | 0,2864 |
+| 07702 | gE | Sächsische Schweiz-Osterzgebirge | 0,2299 |
+| 07804 | gE | Vogtlandkreis | 0,2251 |
+| 07904 | zkT | Meißen | 0,2520 |
+| 08002 | gE | Mittelsachsen | 0,2897 |
+| 09202 | gE | Zwickau | 0,3245 |
+| 09302 | gE | Erfurt, Stadt | 0,2768 |
+| 09304 | gE | Ilm-Kreis | 0,1196 |
+| 09308 | gE | Sömmerda | 0,0742 |
+| 09310 | gE | Weimar, Stadt | 0,0914 |
+| 09312 | gE | Weimarer Land | 0,0732 |
+| 09318 | gE | Gotha | 0,1356 |
+| 09402 | gE | Gera, Stadt | 0,1929 |
+| 09414 | gE | Saale-Orla-Kreis | 0,0682 |
+| 09418 | gE | Altenburger Land | 0,1432 |
+| 09437 | zkT | Jena, Stadt | 0,1176 |
+| 09439 | gE | Saale-Holzland-Kreis | 0,0663 |
+| 09441 | gE | Saalfeld-Rudolstadt | 0,1127 |
+| 09446 | zkT | Greiz | 0,0810 |
+| 09702 | gE | Nordhausen | 0,1247 |
+| 09704 | zkT | Eichsfeld | 0,0686 |
+| 09708 | gE | Kyffhäuserkreis | 0,1073 |
+| 09740 | gE | Unstrut-Hainich-Kreis | 0,1279 |
+| 09802 | gE | Suhl, Stadt | 0,0364 |
+| 09804 | gE | Hildburghausen | 0,0381 |
+| 09806 | gE | Sonneberg | 0,0407 |
+| 09810 | gE | Wartburgkreis | 0,1462 |
+| 09840 | zkT | Schmalkalden-Meiningen | 0,0882 |
+| 11102 | gE | Stormarn | 0,2019 |
+| 11116 | gE | Herzogtum Lauenburg | 0,2106 |
+| 11502 | gE | Pinneberg | 0,3818 |
+| 11522 | gE | Segeberg | 0,2734 |
+| 11902 | gE | Flensburg, Stadt | 0,1906 |
+| 11904 | zkT | Schleswig-Flensburg | 0,1928 |
+| 11916 | zkT | Nordfriesland | 0,1581 |
+| 12302 | gE | Hamburg, Freie und Hansestadt | 3,4486 |
+| 12702 | gE | Dithmarschen | 0,1739 |
+| 12712 | gE | Steinburg | 0,1569 |
+| 13102 | gE | Kiel, Landeshauptstadt | 0,5152 |
+| 13106 | gE | Plön | 0,1158 |
+| 13502 | gE | Lübeck, Hansestadt | 0,4055 |
+| 13506 | gE | Ostholstein | 0,1795 |
+| 13902 | gE | Neumünster, Stadt | 0,1520 |
+| 13912 | gE | Rendsburg-Eckernförde | 0,2416 |
+| 21102 | gE | Braunschweig, Stadt | 0,3556 |
+| 21104 | gE | Salzgitter, Stadt | 0,2058 |
+| 21106 | gE | Wolfenbüttel | 0,1265 |
+| 21124 | gE | Goslar | 0,1943 |
+| 21404 | gE | Bremen, Stadt | 1,3391 |
+| 21416 | zkT | Osterholz | 0,0772 |
+| 21420 | gE | Bremerhaven, Stadt | 0,3512 |
+| 22402 | gE | Emden, Stadt | 0,0924 |
+| 22410 | zkT | Leer | 0,1675 |
+| 22444 | zkT | Wittmund | 0,0599 |
+| 22446 | zkT | Aurich | 0,2157 |
+| 23102 | zkT | Göttingen | 0,3943 |
+| 23106 | gE | Northeim | 0,1559 |
+| 23406 | gE | Holzminden | 0,0925 |
+| 23408 | gE | Hameln-Pyrmont | 0,2160 |
+| 23444 | zkT | Schaumburg | 0,1666 |
+| 23702 | gE | Region Hannover | 1,9554 |
+| 24110 | gE | Helmstedt | 0,1191 |
+| 24112 | gE | Gifhorn | 0,1455 |
+| 24114 | gE | Wolfsburg, Stadt | 0,1651 |
+| 24402 | gE | Hildesheim | 0,3713 |
+| 24404 | zkT | Peine | 0,1532 |
+| 25102 | gE | Lüneburg | 0,2003 |
+| 25104 | gE | Harburg | 0,2049 |
+| 25110 | gE | Lüchow-Dannenberg | 0,0637 |
+| 25112 | gE | Uelzen | 0,0980 |
+| 25114 | gE | Celle | 0,2243 |
+| 25116 | zkT | Heidekreis | 0,1540 |
+| 25704 | zkT | Grafschaft Bentheim | 0,1134 |
+| 25706 | zkT | Emsland | 0,2340 |
+| 26104 | gE | Delmenhorst, Stadt | 0,1584 |
+| 26106 | gE | Oldenburg (Oldenburg), Stadt | 0,2955 |
+| 26110 | gE | Wesermarsch | 0,1116 |
+| 26112 | zkT | Ammerland | 0,1057 |
+| 26118 | zkT | Oldenburg | 0,0952 |
+| 26126 | gE | Wilhelmshaven, Stadt | 0,1959 |
+| 26130 | zkT | Friesland | 0,0886 |
+| 26402 | gE | Osnabrück, Stadt | 0,2831 |
+| 26410 | zkT | Osnabrück | 0,2195 |
+| 26702 | gE | Stade | 0,2470 |
+| 26704 | gE | Cuxhaven | 0,1986 |
+| 26706 | zkT | Rotenburg (Wümme) | 0,1119 |
+| 27402 | gE | Vechta | 0,1047 |
+| 27404 | gE | Cloppenburg | 0,1419 |
+| 27706 | zkT | Verden | 0,1142 |
+| 27708 | gE | Diepholz | 0,1822 |
+| 27718 | gE | Nienburg (Weser) | 0,1499 |
+| 31106 | gE | Heinsberg | 0,2863 |
+| 31108 | gE | Städteregion Aachen | 0,8650 |
+| 31118 | zkT | Düren | 0,3724 |
+| 31502 | gE | Leverkusen, Stadt | 0,2697 |
+| 31504 | gE | Oberbergischer Kreis | 0,2724 |
+| 31506 | gE | Rheinisch-Bergischer Kreis | 0,3219 |
+| 31704 | gE | Bielefeld, Stadt | 0,5989 |
+| 31778 | zkT | Gütersloh | 0,3333 |
+| 32102 | gE | Bochum, Stadt | 0,7124 |
+| 32112 | gE | Herne, Stadt | 0,3852 |
+| 32302 | gE | Bonn, Stadt | 0,4756 |
+| 32304 | gE | Rhein-Sieg-Kreis | 0,6146 |
+| 32502 | gE | Rhein-Erft-Kreis | 0,5516 |
+| 32504 | gE | Euskirchen | 0,1875 |
+| 32702 | zkT | Borken | 0,3015 |
+| 32704 | zkT | Coesfeld | 0,1870 |
+| 33302 | gE | Dortmund, Stadt | 1,5359 |
+| 33702 | gE | Düsseldorf, Stadt | 0,9595 |
+| 34102 | gE | Duisburg, Stadt | 1,2018 |
+| 34348 | zkT | Essen, Stadt | 1,4603 |
+| 34502 | gE | Gelsenkirchen, Stadt | 0,8176 |
+| 34506 | gE | Bottrop, Stadt | 0,1891 |
+| 34702 | zkT | Ennepe-Ruhr-Kreis | 0,4817 |
+| 34704 | gE | Hagen, Stadt | 0,4234 |
+| 35102 | zkT | Hamm, Stadt | 0,3329 |
+| 35104 | gE | Unna | 0,5835 |
+| 35302 | gE | Herford | 0,2802 |
+| 35318 | zkT | Minden-Lübbecke | 0,3849 |
+| 35502 | gE | Märkischer Kreis | 0,5992 |
+| 35702 | gE | Köln, Stadt | 2,0267 |
+| 36102 | gE | Krefeld | 0,4841 |
+| 36108 | gE | Viersen | 0,3229 |
+| 36402 | gE | Mettmann | 0,6804 |
+| 36502 | gE | Mönchengladbach, Stadt | 0,5827 |
+| 36504 | gE | Rhein-Kreis Neuss | 0,5286 |
+| 36704 | zkT | Warendorf | 0,2718 |
+| 36748 | zkT | Münster, Stadt | 0,3560 |
+| 37102 | zkT | Mülheim an der Ruhr, Stadt | 0,3270 |
+| 37106 | gE | Oberhausen, Stadt | 0,4765 |
+| 37302 | gE | Paderborn | 0,3488 |
+| 37338 | gE | Höxter | 0,1223 |
+| 37340 | zkT | Lippe | 0,4105 |
+| 37548 | zkT | Recklinghausen | 1,1423 |
+| 37710 | zkT | Steinfurt | 0,4137 |
+| 38102 | gE | Siegen-Wittgenstein | 0,3244 |
+| 38104 | gE | Olpe | 0,1028 |
+| 38302 | gE | Soest | 0,3253 |
+| 38340 | zkT | Hochsauerlandkreis | 0,2407 |
+| 38702 | gE | Wesel | 0,5834 |
+| 38704 | zkT | Kleve | 0,3228 |
+| 39104 | gE | Remscheid, Stadt | 0,1844 |
+| 39106 | zkT | Solingen, Stadt | 0,2597 |
+| 39148 | zkT | Wuppertal, Stadt | 0,7800 |
+| 41102 | zkT | Hersfeld-Rotenburg | 0,0943 |
+| 41110 | zkT | Fulda | 0,1683 |
+| 41502 | zkT | Bergstraße | 0,2439 |
+| 41506 | zkT | Darmstadt-Dieburg | 0,2615 |
+| 41508 | zkT | Odenwaldkreis | 0,0796 |
+| 41512 | gE | Darmstadt, Wissenschaftsstadt | 0,2361 |
+| 41920 | gE | Frankfurt am Main, Stadt | 1,1129 |
+| 42702 | gE | Gießen | 0,3916 |
+| 42704 | zkT | Vogelsbergkreis | 0,0839 |
+| 42708 | gE | Wetteraukreis | 0,2707 |
+| 43102 | zkT | Main-Kinzig-Kreis | 0,2805 |
+| 43106 | gE | Hanau | 0,1753 |
+| 43302 | zkT | Hochtaunuskreis | 0,1895 |
+| 43304 | zkT | Main-Taunus-Kreis | 0,2000 |
+| 43306 | zkT | Groß-Gerau | 0,3244 |
+| 43502 | gE | Kassel, documenta-Stadt | 0,4142 |
+| 43504 | gE | Kassel | 0,1963 |
+| 43520 | gE | Werra-Meißner-Kreis | 0,1050 |
+| 43902 | gE | Waldeck-Frankenberg | 0,1334 |
+| 43904 | gE | Schwalm-Eder-Kreis | 0,1451 |
+| 44302 | gE | Limburg-Weilburg | 0,1749 |
+| 44304 | zkT | Lahn-Dill-Kreis | 0,3057 |
+| 44702 | zkT | Marburg-Biedenkopf | 0,2497 |
+| 45108 | zkT | Offenbach | 0,3653 |
+| 45148 | zkT | Offenbach am Main, Stadt | 0,2237 |
+| 45902 | zkT | Wiesbaden, Landeshauptstadt | 0,5020 |
+| 45904 | zkT | Rheingau-Taunus-Kreis | 0,1652 |
+| 51102 | gE | Bad Kreuznach | 0,1821 |
+| 51106 | gE | Birkenfeld | 0,0969 |
+| 51110 | gE | Rhein-Hunsrück-Kreis | 0,0678 |
+| 51502 | gE | Donnersbergkreis | 0,0681 |
+| 51506 | gE | Kaiserslautern, Stadt | 0,1724 |
+| 51510 | gE | Kaiserslautern | 0,0801 |
+| 51516 | gE | Pirmasens, Stadt | 0,0889 |
+| 51518 | gE | Zweibrücken, Stadt | 0,0449 |
+| 51520 | zkT | Südwestpfalz | 0,0475 |
+| 51542 | zkT | Kusel | 0,0688 |
+| 51902 | gE | Koblenz, Stadt | 0,1686 |
+| 51904 | gE | Cochem-Zell | 0,0425 |
+| 51906 | gE | Ahrweiler | 0,0864 |
+| 51908 | zkT | Mayen-Koblenz | 0,1759 |
+| 52302 | gE | Vorderpfalz-Ludwigshafen | 0,5717 |
+| 52704 | gE | Alzey-Worms | 0,0915 |
+| 52706 | gE | Mainz, Stadt | 0,2777 |
+| 52710 | gE | Worms, Stadt | 0,1301 |
+| 52744 | zkT | Mainz-Bingen | 0,1583 |
+| 54302 | gE | Germersheim | 0,1068 |
+| 54308 | gE | Landau-Südliche Weinstraße | 0,1474 |
+| 54312 | gE | Deutsche Weinstraße | 0,1594 |
+| 54702 | gE | Altenkirchen (Westerwald) | 0,1290 |
+| 54708 | gE | Neuwied | 0,1817 |
+| 54710 | gE | Rhein-Lahn-Kreis | 0,0983 |
+| 54712 | gE | Westerwaldkreis | 0,1374 |
+| 55502 | gE | Regionalverband Saarbrücken | 0,7231 |
+| 55514 | gE | Neunkirchen | 0,2151 |
+| 55516 | zkT | St. Wendel | 0,0698 |
+| 55518 | zkT | Saarpfalz-Kreis | 0,1432 |
+| 55520 | gE | Merzig-Wadern | 0,0895 |
+| 55522 | zkT | Saarlouis | 0,2265 |
+| 56302 | gE | Bernkastel-Wittlich | 0,0754 |
+| 56304 | gE | Bitburg-Prüm | 0,0560 |
+| 56306 | gE | Trier, Stadt | 0,1704 |
+| 56308 | gE | Trier-Saarburg | 0,0699 |
+| 56310 | zkT | Vulkaneifel | 0,0358 |
+| 61108 | gE | Heidenheim | 0,1082 |
+| 61146 | zkT | Ostalbkreis | 0,2117 |
+| 61702 | gE | Breisgau-Hochschwarzwald | 0,1741 |
+| 61704 | gE | Emmendingen | 0,0954 |
+| 61706 | gE | Freiburg im Breisgau, Stadt | 0,2726 |
+| 62102 | gE | Esslingen | 0,4389 |
+| 62106 | gE | Göppingen | 0,2222 |
+| 62402 | gE | Heidelberg, Stadt | 0,1291 |
+| 62404 | gE | Rhein-Neckar-Kreis | 0,4422 |
+| 62702 | gE | Heilbronn, Stadt | 0,1666 |
+| 62704 | gE | Heilbronn | 0,2279 |
+| 63102 | gE | Karlsruhe, Stadt | 0,3223 |
+| 63108 | gE | Karlsruhe | 0,2940 |
+| 63120 | gE | Baden-Baden, Stadt | 0,0738 |
+| 63122 | gE | Rastatt | 0,1690 |
+| 63402 | gE | Konstanz | 0,2234 |
+| 63404 | zkT | Bodenseekreis | 0,1371 |
+| 63408 | zkT | Ravensburg | 0,1740 |
+| 63702 | gE | Lörrach | 0,2042 |
+| 63704 | zkT | Waldshut | 0,1132 |
+| 64148 | zkT | Ludwigsburg | 0,3733 |
+| 64402 | gE | Mannheim, Universitätsstadt | 0,5252 |
+| 64702 | gE | Calw | 0,1093 |
+| 64708 | gE | Freudenstadt | 0,0769 |
+| 64710 | zkT | Pforzheim, Stadt | 0,1996 |
+| 64712 | zkT | Enzkreis | 0,1110 |
+| 65106 | zkT | Ortenaukreis | 0,3085 |
+| 66402 | gE | Reutlingen | 0,2173 |
+| 66404 | gE | Tübingen | 0,1432 |
+| 66410 | gE | Zollernalbkreis | 0,1265 |
+| 66412 | gE | Sigmaringen | 0,0706 |
+| 67102 | gE | Rems-Murr-Kreis | 0,3689 |
+| 67402 | gE | Hohenlohekreis | 0,0602 |
+| 67404 | gE | Schwäbisch Hall | 0,1264 |
+| 67408 | gE | Neckar-Odenwald-Kreis | 0,0899 |
+| 67410 | gE | Main-Tauber-Kreis | 0,0798 |
+| 67704 | gE | Böblingen | 0,2645 |
+| 67748 | zkT | Stuttgart, Landeshauptstadt | 0,7775 |
+| 68402 | gE | Ulm, Universitätsstadt | 0,1134 |
+| 68404 | gE | Alb-Donau-Kreis | 0,0876 |
+| 68410 | zkT | Biberach | 0,0925 |
+| 68702 | gE | Schwarzwald-Baar-Kreis | 0,1595 |
+| 68706 | zkT | Tuttlingen | 0,0972 |
+| 68708 | gE | Rottweil | 0,0703 |
+| 71102 | gE | Ansbach, Stadt | 0,0443 |
+| 71108 | gE | Weißenburg-Gunzenhausen | 0,0559 |
+| 71110 | gE | Roth | 0,0453 |
+| 71146 | zkT | Ansbach | 0,0536 |
+| 71502 | gE | Aschaffenburg, Stadt | 0,0977 |
+| 71504 | gE | Aschaffenburg | 0,1014 |
+| 71506 | gE | Miltenberg | 0,0865 |
+| 72302 | gE | Bayreuth, Stadt | 0,0747 |
+| 72304 | gE | Bayreuth | 0,0466 |
+| 72306 | gE | Kulmbach | 0,0439 |
+| 72308 | gE | Hof, Stadt | 0,0769 |
+| 72310 | gE | Hof | 0,0628 |
+| 72312 | gE | Wunsiedel im Fichtelgebirge | 0,0658 |
+| 72702 | gE | Coburg, Stadt | 0,0583 |
+| 72704 | gE | Coburg | 0,0532 |
+| 72706 | gE | Kronach | 0,0320 |
+| 72708 | gE | Lichtenfels | 0,0402 |
+| 72710 | gE | Bamberg, Stadt | 0,0692 |
+| 72712 | gE | Bamberg | 0,0588 |
+| 72714 | gE | Forchheim | 0,0626 |
+| 72902 | gE | Fürth, Stadt | 0,1526 |
+| 72904 | gE | Fürth, Land | 0,0509 |
+| 72906 | zkT | Erlangen, Stadt | 0,0914 |
+| 72908 | gE | Erlangen-Höchstadt | 0,0566 |
+| 72910 | gE | Neustadt a. d. Aisch-Bad Windsheim | 0,0457 |
+| 73514 | gE | Nürnberg, Stadt | 0,8134 |
+| 73522 | gE | Nürnberger Land | 0,0798 |
+| 73524 | gE | Schwabach, Stadt | 0,0323 |
+| 73902 | gE | Neumarkt i. d. OPf | 0,0513 |
+| 73904 | gE | Regensburg, Stadt | 0,1558 |
+| 73906 | gE | Regensburg | 0,0935 |
+| 73908 | gE | Kelheim | 0,0504 |
+| 74302 | gE | Amberg-Sulzbach | 0,0901 |
+| 74306 | gE | Cham | 0,0588 |
+| 74308 | gE | Schwandorf | 0,0805 |
+| 74702 | gE | Bad Kissingen | 0,0580 |
+| 74704 | gE | Haßberge | 0,0386 |
+| 74706 | gE | Rhön-Grabfeld | 0,0416 |
+| 74708 | zkT | Schweinfurt, Stadt | 0,0833 |
+| 74710 | gE | Schweinfurt | 0,0415 |
+| 75102 | gE | Neustadt-Weiden | 0,0985 |
+| 75104 | gE | Tirschenreuth | 0,0384 |
+| 75902 | gE | Kitzingen | 0,0386 |
+| 75906 | gE | Würzburg, Stadt | 0,1169 |
+| 75908 | zkT | Würzburg | 0,0713 |
+| 75910 | gE | Main-Spessart | 0,0486 |
+| 81102 | gE | Aichach-Friedberg | 0,0549 |
+| 81104 | gE | Augsburg, Stadt | 0,3522 |
+| 81110 | gE | Augsburg | 0,1258 |
+| 81502 | gE | Deggendorf | 0,0598 |
+| 81504 | gE | Regen | 0,0439 |
+| 81512 | gE | Straubing-Bogen | 0,0942 |
+| 81904 | gE | Dillingen a. d. Donau | 0,0521 |
+| 81906 | gE | Donau-Ries | 0,0523 |
+| 81910 | zkT | Günzburg | 0,0491 |
+| 81912 | gE | Neu-Ulm | 0,0953 |
+| 82302 | gE | Erding | 0,0527 |
+| 82304 | gE | Freising | 0,0847 |
+| 82306 | gE | Dachau | 0,0665 |
+| 82308 | gE | Ebersberg | 0,0547 |
+| 82702 | gE | Eichstätt | 0,0489 |
+| 82706 | gE | Neuburg-Schrobenhausen | 0,0466 |
+| 82708 | gE | Pfaffenhofen a. d. Ilm | 0,0420 |
+| 82746 | zkT | Ingolstadt, Stadt | 0,1251 |
+| 83104 | gE | Kempten (Allgäu), Stadt | 0,0503 |
+| 83106 | gE | Lindau (Bodensee) | 0,0411 |
+| 83110 | gE | Ostallgäu | 0,0550 |
+| 83112 | gE | Memmingen, Stadt | 0,0314 |
+| 83114 | gE | Unterallgäu | 0,0503 |
+| 83142 | zkT | Oberallgäu | 0,0552 |
+| 83148 | zkT | Kaufbeuren, Stadt | 0,0358 |
+| 83502 | gE | Dingolfing-Landau | 0,0470 |
+| 83504 | gE | Landshut, Stadt | 0,0750 |
+| 83506 | gE | Landshut | 0,0682 |
+| 83510 | gE | Rottal-Inn | 0,0659 |
+| 84308 | gE | München, Landeshauptstadt | 1,3345 |
+| 84358 | zkT | München | 0,1774 |
+| 84702 | gE | Freyung-Grafenau | 0,0351 |
+| 84704 | gE | Passau, Stadt | 0,0702 |
+| 84706 | gE | Passau | 0,1062 |
+| 85502 | gE | Bad Tölz-Wolfratshausen | 0,0609 |
+| 85504 | zkT | Miesbach | 0,0389 |
+| 85506 | gE | Rosenheim, Stadt | 0,0600 |
+| 85508 | gE | Rosenheim | 0,1015 |
+| 85902 | gE | Berchtesgadener Land | 0,0589 |
+| 85904 | gE | Traunstein | 0,0821 |
+| 85906 | gE | Altötting | 0,0623 |
+| 85908 | gE | Mühldorf am Inn | 0,0665 |
+| 86302 | gE | Garmisch-Partenkirchen | 0,0465 |
+| 86304 | gE | Landsberg am Lech | 0,0529 |
+| 86306 | gE | Weilheim-Schongau | 0,0741 |
+| 86308 | gE | Fürstenfeldbruck | 0,1234 |
+| 86310 | gE | Starnberg | 0,0552 |
+| 92202 | gE | Neukölln | 0,9761 |
+| 92204 | gE | Treptow-Köpenick | 0,5321 |
+| 92208 | gE | Steglitz-Zehlendorf | 0,3591 |
+| 92210 | gE | Tempelhof-Schöneberg | 0,7291 |
+| 95502 | gE | Charlottenburg-Wilmersdorf | 0,5516 |
+| 95504 | gE | Pankow | 0,6542 |
+| 95506 | gE | Reinickendorf | 0,6156 |
+| 95508 | gE | Spandau | 0,6888 |
+| 96202 | gE | Friedrichshain-Kreuzberg | 0,7074 |
+| 96204 | gE | Mitte | 1,0758 |
+| 96206 | gE | Marzahn-Hellersdorf | 0,6548 |
+| 96208 | gE | Lichtenberg | 0,6928 |
+Abkürzungen:
+gE gemeinsame Einrichtung
+zkT zugelassener kommunaler Träger
