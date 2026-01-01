@@ -1,1 +1,1 @@
-# Bremisches Gesetz über die Ausbildung in der Pflegefachhilfe vom 18. Oktober 2022
+# Bremisches Gesetz über die Ausbildung in der Pflegefachhilfe (Bremisches Pflegefachhilfegesetz - BremPFHG) vom 3. März 2026
