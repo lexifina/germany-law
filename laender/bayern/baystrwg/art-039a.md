@@ -1,0 +1,2 @@
+# Art. 39a Planergänzung und ergänzendes Verfahren
+Wird eine Planergänzung oder ein ergänzendes Verfahren nach Art. 75 Abs. 1a Satz 2 BayVwVfG erforderlich und wird diese Planergänzung oder dieses ergänzende Verfahren unverzüglich betrieben, so bleibt die Durchführung des Vorhabens zulässig, soweit es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens offensichtlich nicht berührt ist.
