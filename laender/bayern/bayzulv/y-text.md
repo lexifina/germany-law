@@ -1,0 +1,1 @@
+Auf Grund von Art. 51 Abs. 4 und Art. 55 Abs. 1 des Bayerischen Besoldungsgesetzes (BayBesG) vom 5. August 2010 (GVBl S. 410, BayRS 2032-1-1-F) erlässt die Bayerische Staatsregierung folgende Verordnung:
