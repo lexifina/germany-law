@@ -9,4 +9,5 @@
 - [§ 5 Maschinell erstellter Ablehnungsbescheid](0005.md)
 - [§ 6 Auszug aus dem Verbandsklageregister](0006.md)
 - [§ 7 Technische Störungen des Klageregisters](0007.md)
+- [§ 7a Benachrichtigung angemeldeter Verbraucher](0007a.md)
 - [§ 8 Inkrafttreten](0008.md)

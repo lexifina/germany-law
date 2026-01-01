@@ -2876,8 +2876,8 @@ der elterlichen Sorge](1698a.md)
 - [§ 1869 Bestellung eines neuen Betreuers](1869.md)
 - [§ 1870 Ende der Betreuung](1870.md)
 - [§ 1871 Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt](1871.md)
-- [§ 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung](1872.md)
-- [§ 1873 Rechnungsprüfung](1873.md)
+- [§ 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung; Vermögensübersicht](1872.md)
+- [§ 1873 Schlussmitteilung; Rechnungsprüfung](1873.md)
 - [§ 1874 Besorgung der Angelegenheiten des Betreuten nach Beendigung der Betreuung](1874.md)
 
 ##### Untertitel 5 Vergütung und Aufwendungsersatz

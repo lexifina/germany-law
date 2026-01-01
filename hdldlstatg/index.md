@@ -27,7 +27,3 @@
 - [§ 13 Nutzung der Daten für Zwecke der Preisstatistik](0013.md)
 - [§ 14 Übermittlungsregelung](0014.md)
 - [§ 15 Durchführung](0015.md)
-
-## Abschnitt 5 Schlussbestimmungen
-
-- [§ 16 Übergangsregelung](0016.md)

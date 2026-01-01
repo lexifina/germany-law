@@ -11,6 +11,6 @@
 - [§ 7 Datenübermittlung](0007.md)
 - [§ 8 Berichtspflicht der zuständigen Stelle](0008.md)
 - [§ 9 Ordnungswidrigkeiten](0009.md)
-- [§ 10 Inkrafttreten](0010.md)
+- [§ 10 Außerkrafttreten](0010.md)
 - [Anlage 1 (zu § 3 Nummer 1)Inhaltliche Anforderungen an einen Energieaudit-Bericht entsprechend DIN EN 16247-1](anlage-1.md)
 - [Anlage 2 (zu § 3 Nummer 2)Alternatives System](anlage-2.md)

@@ -26,7 +26,7 @@
 
 - [§ 11 Gebietskulisse](0011.md)
 - [§ 12 Anbau in Paludikulturverfahren](0012.md)
-- [§ 12a Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen](0012a.md)
+- [§ 12a Narbenerneuerung, Wiederherstellung, Dauerkulturen](0012a.md)
 - [§ 13 Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen](0013.md)
 
 ### Abschnitt 3 Weitere GLÖZ-Standards

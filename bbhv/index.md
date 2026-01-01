@@ -41,7 +41,7 @@
 
 - [§ 22 Arznei- und Verbandmittel, Medizinprodukte](0022.md)
 - [§ 23 Heilmittel](0023.md)
-- [§ 24 Komplextherapie, integrierte Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen](0024.md)
+- [§ 24 Komplextherapie, besondere Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen](0024.md)
 - [§ 25 Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke](0025.md)
 - [§ 25a Digitale Gesundheitsanwendungen](0025a.md)
 - [§ 26 Behandlung in zugelassenen Krankenhäusern](0026.md)
@@ -128,7 +128,7 @@
 - [Anlage 11 (zu § 25 Absatz 1 und 4)Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke](anlage-11.md)
 - [Anlage 12 (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle](anlage-12.md)
 - [Anlage 13 (zu § 41 Absatz 1 Satz 3)Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen](anlage-13.md)
-- [Anlage 14 (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko](anlage-14.md)
+- [Anlage 14 (weggefallen)](anlage-14.md)
 - [Anlage 14a (weggefallen)](anlage-14a.md)
-- [Anlage 15 (zu § 41 Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko](anlage-15.md)
+- [Anlage 15 (weggefallen)](anlage-15.md)
 - [Anlage 16 (zu § 51a Absatz 2)](anlage-16.md)

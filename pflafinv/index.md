@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Teil 1 Finanzierung der beruflichen und der hochschulischen Ausbildung in der Pflege
+## Teil 1 Finanzierung der Ausbildung in der Pflege
 
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Rechtsträgerschaft bei staatlichen Pflegeschulen](0002.md)
@@ -41,5 +41,5 @@
 - [§ 27a Datenverarbeitung nach § 62 des Pflegeberufegesetzes](0027a.md)
 - [§ 28 Inkrafttreten](0028.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage 1 (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne die Mehrkosten der Ausbildungsvergütung nach § 27 Absatz 1 Satz 1 des Pflegeberufegesetzes und ohne die Kosten der Ausbildungsvergütung nach § 39a Absatz 1 des Pflegeberufegesetzes](anlage-1.md)
+- [Anlage 1 (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne Berücksichtigung der Ausbildungsvergütung](anlage-1.md)
 - [Anlage 2 (zu § 5 Absatz 1 Nummer 1)Erforderliche Angaben zur Festsetzung der Ausbildungsbudgets](anlage-2.md)

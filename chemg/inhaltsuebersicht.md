@@ -46,8 +46,13 @@
 | § 16e | Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen |
 | § 16f | Informationspflicht der Lieferanten |
 |  | Abschnitt 4a |
-|  | (zukünftig in Kraft) |
-| §§ 16g bis 16l | (zukünftig in Kraft) |
+|  | Vergiftungsregister |
+| § 16g | Einrichtung und Führung eines Vergiftungsregisters |
+| § 16h | Beirat |
+| § 16i | Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch die Informationszentren für Vergiftungen |
+| § 16j | Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch das Bundesinstitut für Risikobewertung |
+| § 16k | Überregionale chemische Bedrohungslage |
+| § 16l | Verordnungsermächtigungen |
 |  | Fünfter Abschnitt |
 |  | Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten |
 | § 17 | Verbote und Beschränkungen |

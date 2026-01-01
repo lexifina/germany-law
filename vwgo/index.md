@@ -86,7 +86,7 @@
 - [§ 55a](0055a.md)
 - [§ 55b](0055b.md)
 - [§ 55c Formulare; Verordnungsermächtigung](0055c.md)
-- [§ 55d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen](0055d.md)
+- [§ 55d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte](0055d.md)
 - [§ 56](0056.md)
 - [§ 56a](0056a.md)
 - [§ 57](0057.md)

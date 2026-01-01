@@ -13,9 +13,9 @@
 
 ### Teil 2 Institutioneller Rahmen
 
-- [§ 3a Bundesanstalt für Finanzmarktstabilisierung; Trägerschaft der Finanzagentur; Organisation und Aufgaben; Verordnungsermächtigung](0003a.md)
+- [§ 3a Organisation und Aufgaben der Finanzagentur](0003a.md)
 - [§ 3b Verschwiegenheitspflicht; Zusammenarbeit mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank](0003b.md)
-- [§ 3c Rechtsstellung der Mitglieder des Leitungsausschusses](0003c.md)
+- [§ 3c (weggefallen)](0003c.md)
 - [§ 3d Deckung der Kosten](0003d.md)
 - [§ 3e Kostenerstattungen](0003e.md)
 - [§ 3f Verordnungsermächtigung](0003f.md)
@@ -48,6 +48,10 @@
 - [§ 14b Steuerrechtliche Sonderregelungen zu Zweckgesellschaften und Abwicklungsanstalten nach den §§ 6a und 8a](0014b.md)
 - [§ 14c Steuerrechtliche Behandlung von Zahlungen in die Zweckgesellschaft oder die Abwicklungsanstalt und Auskehrungen der Zweckgesellschaft oder der Abwicklungsanstalt](0014c.md)
 - [§ 14d Steuerrechtliche Sonderregelungen im Zusammenhang mit landesrechtlichen Abwicklungsanstalten](0014d.md)
+
+### Teil 5 Übergangsregelungen
+
+- [§ 14e Auflösung der Bundesanstalt für Finanzmarktstabilisierung; Verordnungsermächtigung](0014e.md)
 
 ## Abschnitt 2 Wirtschaftsstabilisierung
 

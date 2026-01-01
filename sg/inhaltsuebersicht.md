@@ -53,6 +53,8 @@
 | § 30d | Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten |
 | § 31 | Fürsorge |
 | § 31a | Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen |
+| § 31b | Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse B |
+| § 31c | Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse C oder C1 |
 | § 32 | Dienstzeitbescheinigung und Dienstzeugnis |
 | § 33 | Staatsbürgerlicher und völkerrechtlicher Unterricht |
 | § 34 | Beschwerde |
@@ -96,14 +98,15 @@
 | § 58 | Wehrdienst nach dem Wehrpflichtgesetz |
 | 2. | Reservewehrdienstverhältnis |
 | § 58a | Reservewehrdienstverhältnis |
-| 3. | Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement |
+| 3. | Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement; Datenverarbeitung |
 | § 58b | Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement |
-| § 58c | Übermittlung personenbezogener Daten durch die Meldebehörden |
+| § 58c | Verwendung und Löschung von Daten bei der Übersendung von Informationsmaterial |
 | § 58d | Beratung und Untersuchung |
 | § 58e | Verpflichtung |
 | § 58f | Status |
 | § 58g | Dienstantritt |
 | § 58h | Beendigung des freiwilligen Wehrdienstes nach § 58b |
+| § 58i | Freiwillige Bereitschaftserklärung; Datenverarbeitung |
 | Vierter Abschnitt |
 | Dienstleistungspflicht |
 | 1. Umfang und Arten der Dienstleistungen |
@@ -122,6 +125,7 @@
 | § 68 | Unabkömmlichstellung |
 | 3. Heranziehungsverfahren |
 | § 69 | Zuständigkeit |
+| § 69a | Register für der Dienstleistungsüberwachung unterliegende Personen |
 | § 70 | Verfahren |
 | § 71 | Ärztliche Untersuchung, Anhörung |
 | § 72 | Heranziehung von ungedienten Dienstleistungspflichtigen |
@@ -148,13 +152,14 @@
 | § 84 | Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts |
 | § 85 | Besondere Vorschriften für die Anfechtungsklage |
 | Siebter Abschnitt |
-| Bußgeldvorschriften; Übergangs- und Schlussvorschriften |
+| Sonderregelungen, Bußgeld-, Übergangs- und Schlussvorschriften |
 | § 86 | Bußgeldvorschriften |
 | § 87 | Einstellung von anderen Bewerbern |
 | § 88 | Entlassung von anderen Bewerbern |
 | § 89 | Mitteilungen in Strafsachen |
 | § 90 | Organisationsgesetz |
-| § 91 | (weggefallen) |
+| § 91 | Aufwuchs des aktiven militärischen Personals und der Reserve |
+| § 91a | Bericht über den Aufwuchs des militärischen Personals und der Reserve |
 | § 92 | Übergangsvorschrift für die Laufbahnen |
 | § 93 | Verordnungsermächtigungen |
 | § 94 | Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179) |
@@ -164,3 +169,4 @@
 | § 98 | Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011 |
 | § 99 | Übergangsvorschrift aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes |
 | § 100 | Übergangsvorschrift aus Anlass des Gesetzes zur Beitragsentlastung der Versicherten in der gesetzlichen Krankenversicherung |
+| § 101 | Übergangsvorschrift aus Anlass des Wehrdienst-Modernisierungsgesetzes |

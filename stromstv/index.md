@@ -10,7 +10,7 @@
 ## - zu § 2 des Gesetzes
 
 - [§ 1a Versorger](0001a.md)
-- [§ 1b Strom aus erneuerbaren Energieträgern](0001b.md)
+- [§ 1b (weggefallen)](0001b.md)
 - [§ 1c Elektromobilität](0001c.md)
 
 ## - Zu § 2a des Gesetzes
@@ -36,11 +36,11 @@
 - [§ 9 Erteilung, Überprüfung und Erlöschen der Erlaubnis](0009.md)
 - [§ 10 Allgemeine Erlaubnis](0010.md)
 - [§ 11 Pflichten des Erlaubnisinhabers](0011.md)
-- [§ 11a Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit](0011a.md)
+- [§ 11a Zeitgleichheit, Mengenermittlung](0011a.md)
 - [§ 12 Strom zur Stromerzeugung](0012.md)
 - [§ 12a Steuerentlastung für Strom zur Stromerzeugung](0012a.md)
-- [§ 12b Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt](0012b.md)
-- [§ 12c Steuerentlastung für Strom aus erneuerbaren Energieträgern](0012c.md)
+- [§ 12b Anlagenbegriff und räumlicher Zusammenhang](0012b.md)
+- [§ 12c Steuerentlastung für Strom aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft](0012c.md)
 - [§ 12d Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen](0012d.md)
 - [§ 13 Verkehr mit Oberleitungsomnibussen oder Schienenbahnen](0013.md)
 - [§ 13a Differenzversteuerung](0013a.md)
@@ -55,7 +55,7 @@
 
 ## - Zu § 9a des Gesetzes
 
-- [§ 17a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren](0017a.md)
+- [§ 17a Steuerentlastung für bestimmte Prozesse und Verfahren](0017a.md)
 
 ## - Zu § 9b des Gesetzes
 

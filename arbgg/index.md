@@ -83,7 +83,7 @@ Arbeitssachen
 - [§ 46d Gerichtliches elektronisches Dokument](0046d.md)
 - [§ 46e Elektronische Akte; Verordnungsermächtigung](0046e.md)
 - [§ 46f Formulare; Verordnungsermächtigung](0046f.md)
-- [§ 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen](0046g.md)
+- [§ 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte](0046g.md)
 - [§ 46h Formfiktion](0046h.md)
 - [§ 47 Sondervorschriften über Ladung und Einlassung *)](0047.md)
 - [§ 48 Rechtsweg und Zuständigkeit](0048.md)

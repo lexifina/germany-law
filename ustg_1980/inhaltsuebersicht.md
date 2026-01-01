@@ -94,8 +94,7 @@
 |  | § 28 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
 |  | § 29 | Umstellung langfristiger Verträge |
 |  | § 30 | Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union |
-| Anlage 1 (zu § 4 Nr. 4a) |
-|  | Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können |
+| Anlage 1 (weggefallen) |
 | Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2 und 14) |
 |  | Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände |
 | Anlage 3 (zu § 13b Absatz 2 Nummer 7) |

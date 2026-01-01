@@ -1,6 +1,7 @@
 # Gesetz über die Statistik im Produzierenden Gewerbe
 
 - [§ 1](0001.md)
+- [§ 1a Auswahl der Berichtseinheiten](0001a.md)
 
 ## 1. Abschnitt Bergbau und Gewinnung von Steinen und
 Erden, Verarbeitendes Gewerbe
@@ -25,7 +26,7 @@ Erden, Verarbeitendes Gewerbe
 - [§ 9 Auskunftspflicht](0009.md)
 - [§ 10 Übermittlungsregelung](0010.md)
 - [§ 11 Erhebung und Aufbereitung](0011.md)
-- [§ 12 Übergangsregelung](0012.md)
+- [§ 12 (weggefallen)](0012.md)
 - [§ 13 (Änderung von Rechtsvorschriften)](0013.md)
 - [§ 14 (Außerkraftsetzung bestehender Vorschriften)](0014.md)
 - [(XXXX) §§ 15 und 16 (weggefallen)](xxxx-15-und-16.md)

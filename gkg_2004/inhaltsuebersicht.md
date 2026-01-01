@@ -107,7 +107,7 @@
 | § 70 | (weggefallen) |
 | § 70a | Bekanntmachung von Neufassungen |
 | § 71 | Übergangsvorschrift |
-| § 72 | Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes |
+| § 72 | Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen |
 | § 73 | Übergangsvorschrift für die Erhebung von Haftkosten |
 | Anlage 1 (zu § 3 Absatz 2) |
 | Anlage 2 (zu § 34 Absatz 1 Satz 3) |

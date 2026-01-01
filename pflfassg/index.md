@@ -17,9 +17,9 @@
 
 - [(XXXX) §§ 14 bis 23 (zukünftig in Kraft)](xxxx-14-bis-23.md)
 
-### Abschnitt 3 (zukünftig in Kraft)
+### Abschnitt 3 Finanzierung der Pflegefachassistenzausbildung
 
-- [§ 24 (zukünftig in Kraft)](0024.md)
+- [§ 24 Finanzierung](0024.md)
 
 ## Teil 3 (zukünftig in Kraft)
 
@@ -57,5 +57,5 @@
 
 - [§ 49 Nichtanwendung des Berufsbildungsgesetzes](0049.md)
 - [(XXXX) §§ 50 und 51 (zukünftig in Kraft)](xxxx-50-und-51.md)
-- [§ 52 (zukünftig in Kraft)](0052.md)
+- [§ 52 Übergangsvorschriften für landesrechtliche Ausbildungen](0052.md)
 - [(XXXX) §§ 53 und 54 (zukünftig in Kraft)](xxxx-53-und-54.md)

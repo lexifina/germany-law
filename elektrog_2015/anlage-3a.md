@@ -1,0 +1,11 @@
+# Anlage 3a (zu § 18a Absatz 1, 2 und 4 und § 31 Absatz 1 Satz 4 Nummer 6)Symbol zur Kennzeichnung von Sammel- und Rücknahmestellen
+
+[Bild: bgbl1_2025_j02860_0010.jpg]
+Technische Beschreibung:
+a) Das Logo ist vierfarbig auf weißem Fond abzubilden. Der Abstand vom Inhalt zum Dateirand beträgt 1,5 mal die Stärke des Pfeils.
+  Die Buchstaben sind in Grau und das Zeichen in Grün abzubilden.
+  Für die Farbanwendungen gilt:
+  Vierfarbig nach Euroskala (4c): Grün-Anteil (cyan = 91 %, magenta = 18 %, yellow = 100 %, black = 4 %). Schwarz-Anteil (black = 80 %).
+  Pantone (pant): Grün-Anteil (Pantone 3298). Schwarz-Anteil (black = 80 %).
+  HKS (hks): Grün-Anteil (HKS 58 E). Schwarz-Anteil (black = 80 %).
+b) Bei einfarbiger Verwendung des Logos werden die Buchstaben und der Grünanteil in 100 % Schwarz abgebildet.

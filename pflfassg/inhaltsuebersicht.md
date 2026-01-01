@@ -32,8 +32,8 @@ Abschnitt 2
 | § 22 | (zukünftig in Kraft) |
 | § 23 | (zukünftig in Kraft) |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 24 | (zukünftig in Kraft) |
+Finanzierung der Pflegefachassistenzausbildung
+| § 24 | Finanzierung |
 Teil 3
 (zukünftig in Kraft)
 Abschnitt 1
@@ -79,6 +79,6 @@ Anwendungs- und Übergangsvorschriften
 | § 49 | Nichtanwendung des Berufsbildungsgesetzes |
 | § 50 | (zukünftig in Kraft) |
 | § 51 | (zukünftig in Kraft) |
-| § 52 | (zukünftig in Kraft) |
+| § 52 | Übergangsvorschriften für landesrechtliche Ausbildungen |
 | § 53 | (zukünftig in Kraft) |
 | § 54 | (zukünftig in Kraft) |

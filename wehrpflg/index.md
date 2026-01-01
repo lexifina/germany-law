@@ -8,7 +8,8 @@
 ### Unterabschnitt 1 Umfang der Wehrpflicht
 
 - [§ 1 Allgemeine Wehrpflicht](0001.md)
-- [§ 2 Geltung der folgenden Vorschriften](0002.md)
+- [§ 2 Anwendung dieses Gesetzes](0002.md)
+- [§ 2a Anordnung der Bedarfswehrpflicht durch Gesetz](0002a.md)
 - [§ 3 Inhalt und Dauer der Wehrpflicht](0003.md)
 
 ### Unterabschnitt 2 Wehrdienst
@@ -16,10 +17,7 @@
 - [§ 4 Arten des Wehrdienstes](0004.md)
 - [§ 5 Grundwehrdienst](0005.md)
 - [§ 6 Wehrübungen](0006.md)
-- [§ 6a Besondere Auslandsverwendung](0006a.md)
-- [§ 6b Freiwilliger zusätzlicher Wehrdienst im Anschluss an den Grundwehrdienst](0006b.md)
-- [§ 6c Hilfeleistung im Innern](0006c.md)
-- [§ 6d Hilfeleistung im Ausland](0006d.md)
+- [§ 6a Freiwillige Verlängerung des Grundwehrdienstes](0006a.md)
 - [§ 7 Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst](0007.md)
 - [§ 8 Wehrdienst außerhalb der Bundeswehr; Anrechnung von Wehrdienst und anderen Diensten außerhalb der Bundeswehr](0008.md)
 - [§ 8a Tauglichkeitsgrade; Verwendungsgrade](0008a.md)
@@ -38,6 +36,10 @@
 
 - [§ 14 Wehrersatzbehörden](0014.md)
 - [§ 15 Erfassung](0015.md)
+- [§ 15a Bereitschaftserklärung](0015a.md)
+- [§ 15b Datenverarbeitung](0015b.md)
+- [§ 15c Datenaktualisierung](0015c.md)
+- [§ 15d Datenübermittlung für die Durchführung des Arbeitssicherstellungsgesetzes](0015d.md)
 - [§ 16 Zweck der Musterung](0016.md)
 - [§ 17 Durchführung der Musterung](0017.md)
 - [§ 18 (weggefallen)](0018.md)
@@ -49,7 +51,7 @@
 - [§ 22 (weggefallen)](0022.md)
 - [§ 23 Heranziehung von gedienten Wehrpflichtigen](0023.md)
 - [§ 24 Wehrüberwachung; Haftung](0024.md)
-- [§ 24a Änderungsdienst](0024a.md)
+- [§ 24a (weggefallen)](0024a.md)
 - [§ 24b Aufenthaltsfeststellungsverfahren](0024b.md)
 
 ## Abschnitt 3 Personalakten
@@ -87,4 +89,4 @@
 - [§ 50 Zuständigkeit für den Erlass von Rechtsverordnungen](0050.md)
 - [§ 51 Einschränkung von Grundrechten](0051.md)
 - [§ 52 Übergangsvorschrift](0052.md)
-- [§ 53 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0053.md)
+- [§ 53 (weggefallen)](0053.md)

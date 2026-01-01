@@ -220,5 +220,5 @@
 ## Teil 3 Schlussvorschriften
 
 - [§ 129 Verordnungsermächtigung](0129.md)
-- [§ 130 Übergangsregelung für bestehende Jugend- und Auszubildendenvertretungen und Personalvertretungen](0130.md)
+- [§ 130 (weggefallen)](0130.md)
 - [§ 131 (weggefallen)](0131.md)

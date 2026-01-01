@@ -11,3 +11,4 @@
 | Feuchttücher (Anlage 1 Nummer 6) |  | X | X | X | X |
 | Luftballons (Anlage 1 Nummer 7) |  | X | X | X | X |
 | Tabakprodukte mit Filtern und Filter für Tabakprodukte (Anlage 1 Nummer 8) | X | X | X | X | X |
+| Feuerwerkskörper (Anlage 1 Nummer 9) |  | X | X | X | X |

@@ -6,7 +6,7 @@
 
 - [§ 1 Schutz vor sexueller Gewalt und Ausbeutung](0001.md)
 - [§ 2 Amt der oder des Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen](0002.md)
-- [§ 3 (zukünftig in Kraft)](0003.md)
+- [§ 3 Sensibilisierung, Aufklärung und Qualifizierung zum Schutz von Kindern und Jugendlichen vor sexueller Gewalt und Ausbeutung](0003.md)
 - [§ 4 Unterstützung für Betroffene von sexueller Gewalt oder Ausbeutung in Kindheit oder Jugend](0004.md)
 
 ## Abschnitt 2 Die oder der Unabhängige Bundesbeauftragte gegen sexuellen Missbrauch von Kindern und Jugendlichen

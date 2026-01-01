@@ -23,7 +23,7 @@
     dd) Kategorie D Fahrzeuge der Schadstoffklasse EURO III,
     ee) Kategorie E Fahrzeuge der Schadstoffklasse EURO II,
     ff) Kategorie F Fahrzeuge der Schadstoffklasse EURO I sowie Fahrzeuge, die keiner EURO-Schadstoffklasse oder EEV Klasse angehören,
-    gg) Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
+    gg) Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A.
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
   | > 3,5 bis < 7,5 t | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 Achsen oder mehr |
   | 0,014 | 0,016 | 0,016 | 0,016 | 0,012 |

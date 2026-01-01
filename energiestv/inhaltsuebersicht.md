@@ -256,7 +256,7 @@
 |  |
 | Zu § 49 des Gesetzes |
 |  |  |
-| § 93 | Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse |
+| § 93 | Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse |
 | § 94 | (weggefallen) |
 |  |
 | Zu § 51 des Gesetzes |

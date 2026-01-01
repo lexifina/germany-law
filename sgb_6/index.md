@@ -385,7 +385,8 @@ Rentenversicherungsbericht
 #### Zweiter Unterabschnitt Rentenversicherungsbericht
 und Sozialbeirat
 
-- [§ 154 Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus](0154.md)
+- [§ 154 Rentenversicherungsbericht und weitere Berichte zur Alterssicherung](0154.md)
+- [§ 154a Sicherungsniveau vor Steuern](0154a.md)
 - [§ 155 Aufgabe des Sozialbeirats](0155.md)
 - [§ 156 Zusammensetzung des Sozialbeirats](0156.md)
 
@@ -631,11 +632,11 @@ im Beitrittsgebiet](0249a.md)
 - [§ 255b (weggefallen)](0255b.md)
 - [§ 255c Anwendung des aktuellen Rentenwerts zum 1. Juli 2024](0255c.md)
 - [§ 255d Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2026](0255d.md)
-- [§ 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum 1. Juli 2025](0255e.md)
-- [§ 255f Verordnungsermächtigung](0255f.md)
+- [§ 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum Ablauf des 1. Juli 2031](0255e.md)
+- [§ 255f (weggefallen)](0255f.md)
 - [§ 255g Ausgleichsbedarf ab dem 1. Juli 2021](0255g.md)
-- [§ 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025](0255h.md)
-- [§ 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2025](0255i.md)
+- [§ 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031](0255h.md)
+- [§ 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2031](0255i.md)
 - [§ 255j Bestimmung des aktuellen Rentenwerts zum 1. Juli 2022](0255j.md)
 - [§ 256 Entgeltpunkte für Beitragszeiten](0256.md)
 - [§ 256a Entgeltpunkte für Beitragszeiten im Beitrittsgebiet](0256a.md)
@@ -777,13 +778,14 @@ Beitrittsgebiet](0279a.md)
 ##### Vierter Titel Berechnungsgrundlagen
 
 - [§ 287 Beitragssatzgarantie bis 2025](0287.md)
-- [§ 287a Veränderung des allgemeinen Bundeszuschusses für das Jahr 2025](0287a.md)
+- [§ 287a (weggefallen)](0287a.md)
 - [§ 287b Ausgaben für Leistungen zur Teilhabe](0287b.md)
-- [§ 287c Förderung für sonstige Leistungen der Teilhabe](0287c.md)
+- [§ 287c (weggefallen)](0287c.md)
 - [§ 287d Erstattungen in besonderen Fällen](0287d.md)
-- [§ 287e Veränderung des Bundeszuschusses im Beitrittsgebiet](0287e.md)
+- [§ 287e (weggefallen)](0287e.md)
 - [§ 287f Getrennte Abrechnung](0287f.md)
 - [§ 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027](0287g.md)
+- [§ 287h Bundesmittel und Mindestrücklage](0287h.md)
 - [§ 288](0288.md)
 
 ##### Fünfter Titel Erstattungen
@@ -796,8 +798,8 @@ Versorgungslast](0290.md)
 - [§ 291 Erstattungen für Anrechnungszeiten für den Bezug von Anpassungsgeld](0291.md)
 - [§ 291a Erstattung von Invalidenrenten und Aufwendungen für
 Pflichtbeitragszeiten bei Erwerbsunfähigkeit](0291a.md)
-- [§ 291b Erstattung nicht beitragsgedeckter Leistungen](0291b.md)
-- [§ 291c Anschubfinanzierung](0291c.md)
+- [§ 291b Erstattung der Mehraufwendungen aufgrund der Anpassung nach Mindestsicherungsniveau ab dem Jahr 2026](0291b.md)
+- [§ 291c Erstattung der Mehraufwendungen zur vollständigen Gleichstellung der Kindererziehungszeiten ab dem Jahr 2027](0291c.md)
 - [§ 292 Verordnungsermächtigung](0292.md)
 - [§ 292a Verordnungsermächtigung für das Beitrittsgebiet](0292a.md)
 

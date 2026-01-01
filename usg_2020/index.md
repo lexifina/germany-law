@@ -31,6 +31,7 @@
 - [§ 15 Zuschlag für herausgehobene Funktionen](0015.md)
 - [§ 16 Zuschlag für besondere Erschwernisse](0016.md)
 - [§ 17 Zuschlag für besondere zeitliche Belastungen](0017.md)
+- [§ 17a Zuschlag für Fahrtkosten](0017a.md)
 - [§ 18 Auslandsverwendungszuschlag](0018.md)
 - [§ 19 Auslandszuschlag](0019.md)
 
@@ -43,7 +44,7 @@
 
 ## Kapitel 3 Verfahren
 
-- [§ 24 (weggefallen)](0024.md)
+- [§ 24 Zuständigkeit](0024.md)
 - [§ 25 Antrag](0025.md)
 - [§ 26 Leistungsberechnung](0026.md)
 - [§ 27 Auskunfts- und Mitteilungspflichten](0027.md)
@@ -53,5 +54,5 @@
 ## Kapitel 4 Bußgeldvorschriften
 
 - [§ 30 Bußgeldvorschriften](0030.md)
-- [Anlage 1 (zu § 8)Mindestleistung](anlage-1.md)
-- [Anlage 2 (zu den §§ 11, 14 und 19)Prämie, Dienstgeld, Auslandszuschlag](anlage-2.md)
+- [Anlage 1 (zu § 8 Absatz 1)Mindestleistung](anlage-1.md)
+- [Anlage 2 (zu den §§ 11, 14 und 19 Absatz 2)Prämie, Dienstgeld, Auslandszuschlag](anlage-2.md)

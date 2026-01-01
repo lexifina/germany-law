@@ -44,4 +44,3 @@ Verbraucherinteressen
 - [§ 26 Beschwerdeberechtigte, Form und Frist](0026.md)
 - [§ 27 Kostentragung und -festsetzung](0027.md)
 - [§ 28 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0028.md)
-- [§ 29 Evaluierung](0029.md)

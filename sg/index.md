@@ -59,6 +59,8 @@
 - [§ 30d Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten](0030d.md)
 - [§ 31 Fürsorge](0031.md)
 - [§ 31a Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen](0031a.md)
+- [§ 31b Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse B](0031b.md)
+- [§ 31c Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse C oder C1](0031c.md)
 - [§ 32 Dienstzeitbescheinigung und Dienstzeugnis](0032.md)
 - [§ 33 Staatsbürgerlicher und völkerrechtlicher Unterricht](0033.md)
 - [§ 34 Beschwerde](0034.md)
@@ -123,15 +125,16 @@ Beendigung des Dienstverhältnisses](0057.md)
 
 - [§ 58a Reservewehrdienstverhältnis](0058a.md)
 
-### 3. Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement
+### 3. Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement; Datenverarbeitung
 
 - [§ 58b Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement](0058b.md)
-- [§ 58c Übermittlung personenbezogener Daten durch die Meldebehörden](0058c.md)
+- [§ 58c Verwendung und Löschung von Daten bei der Übersendung von Informationsmaterial](0058c.md)
 - [§ 58d Beratung und Untersuchung](0058d.md)
 - [§ 58e Verpflichtung](0058e.md)
 - [§ 58f Status](0058f.md)
 - [§ 58g Dienstantritt](0058g.md)
 - [§ 58h Beendigung des freiwilligen Wehrdienstes nach § 58b](0058h.md)
+- [§ 58i Freiwillige Bereitschaftserklärung; Datenverarbeitung](0058i.md)
 
 ## Vierter Abschnitt Dienstleistungspflicht
 
@@ -157,6 +160,7 @@ Beendigung des Dienstverhältnisses](0057.md)
 ### 3. Heranziehungsverfahren
 
 - [§ 69 Zuständigkeit](0069.md)
+- [§ 69a Register für der Dienstleistungsüberwachung unterliegende Personen](0069a.md)
 - [§ 70 Verfahren](0070.md)
 - [§ 71 Ärztliche Untersuchung, Anhörung](0071.md)
 - [§ 72 Heranziehung von ungedienten Dienstleistungspflichtigen](0072.md)
@@ -197,15 +201,15 @@ Verwaltungsakte nach dem Vierten Abschnitt
 - [§ 84 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts](0084.md)
 - [§ 85 Besondere Vorschriften für die Anfechtungsklage](0085.md)
 
-## Siebter Abschnitt Bußgeldvorschriften;
-Übergangs- und Schlussvorschriften
+## Siebter Abschnitt Sonderregelungen, Bußgeld-, Übergangs- und Schlussvorschriften
 
 - [§ 86 Bußgeldvorschriften](0086.md)
 - [§ 87 Einstellung von anderen Bewerbern](0087.md)
 - [§ 88 Entlassung von anderen Bewerbern](0088.md)
 - [§ 89 Mitteilungen in Strafsachen](0089.md)
 - [§ 90 Organisationsgesetz](0090.md)
-- [§ 91 (weggefallen)](0091.md)
+- [§ 91 Aufwuchs des aktiven militärischen Personals und der Reserve](0091.md)
+- [§ 91a Bericht über den Aufwuchs des militärischen Personals und der Reserve](0091a.md)
 - [§ 92 Übergangsvorschrift für die Laufbahnen](0092.md)
 - [§ 93 Verordnungsermächtigungen](0093.md)
 - [§ 94 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983
@@ -218,3 +222,4 @@ vom 6. Dezember 1990 (BGBl. I S. 2588)](0095.md)
 - [§ 98 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011](0098.md)
 - [§ 99 Übergangsvorschrift aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes](0099.md)
 - [§ 100 Übergangsvorschrift aus Anlass des Gesetzes zur Beitragsentlastung der Versicherten in der gesetzlichen Krankenversicherung](0100.md)
+- [§ 101 Übergangsvorschrift aus Anlass des Wehrdienst-Modernisierungsgesetzes](0101.md)

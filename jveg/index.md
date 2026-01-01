@@ -47,7 +47,7 @@
 ## Abschnitt 6 Schlussvorschriften
 
 - [§ 24 Übergangsvorschrift](0024.md)
-- [§ 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes](0025.md)
+- [§ 25 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0025.md)
 - [Anlage 1 (zu § 9 Absatz 1 Satz 1)](anlage-1.md)
 - [Anlage 2 (zu § 10 Absatz 1 Satz 1)](anlage-2.md)
 - [Anlage 3 (zu § 23 Absatz 1)](anlage-3.md)

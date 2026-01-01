@@ -20,7 +20,7 @@
 
 - [§ 9 Persönliche Anforderungen](0009.md)
 - [§ 10 Anzeige bei Beratung und Anwendung](0010.md)
-- [§ 11 Aufzeichnungs- und Informationspflichten](0011.md)
+- [§ 11 Aufzeichnungspflichten](0011.md)
 
 ## Abschnitt 4 Anwendung von Pflanzenschutzmitteln
 

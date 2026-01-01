@@ -17,3 +17,4 @@
 - [Anlage 6 (zu § 7 Absatz 12)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1, 4 und 6](anlage-6.md)
 - [Anlage 7 (zu § 8 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 8 Absatz 2](anlage-7.md)
 - [Anlage 8 (zu § 9 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3](anlage-8.md)
+- [Anlage 9 (zu § 9 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3a](anlage-9.md)

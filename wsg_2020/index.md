@@ -14,6 +14,7 @@
 - [§ 5 Erstattung der Beiträge zur Kranken- und Pflegeversicherung für Angehörige](0005.md)
 - [§ 6 Auslandsvergütung](0006.md)
 - [§ 7 Anpassung des Wehrsoldes](0007.md)
+- [§ 8 Entlassungsgeld](0008.md)
 - [§ 9 Vergütung für herausgehobene Funktionen](0009.md)
 - [§ 10 Vergütung für besondere Erschwernisse](0010.md)
 - [§ 11 Vergütung für besondere zeitliche Belastungen](0011.md)
@@ -27,8 +28,8 @@
 - [§ 16 Heilfürsorge](0016.md)
 - [§ 17 Verpflegung, Verpflegungsgeld](0017.md)
 
-## Abschnitt 4 Übergangsregelungen
+## Abschnitt 4 (weggefallen)
 
 - [§ 18 (weggefallen)](0018.md)
-- [§ 19 Sonderzahlungen zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023](0019.md)
+- [§ 19 (weggefallen)](0019.md)
 - [Anlage (zu den §§ 4 und 6)Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung](anlage.md)

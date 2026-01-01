@@ -1,19 +1,20 @@
-# Anlage 1 (zu § 8)Mindestleistung
+# Anlage 1 (zu § 8 Absatz 1)Mindestleistung
 
 |  | Dienstgrad | Tagessatz |
 |  | 1 | 2 | 3 | 4 | 5 |
-|  |  | Reservistendienst Leistende ohne Kind | Reservistendienst Leistende mit einem unter- haltsberechtigten Kind | Reservistendienst Leistende mit zwei unter- haltsberechtigten Kindern | Reservistendienst Leistende mit drei unter- haltsberechtigten Kindern |
-| 1 | Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzer- funker, Schütze, Flieger, Sanitäts- soldat, Matrose, Gefreiter | 65,60 € | 77,16 € | 81,17 € | 91,60 € |
-| 2 | Obergefreiter, Hauptgefreiter | 66,69 € | 78,42 € | 82,26 € | 92,47 € |
-| 3 | Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett | 67,10 € | 78,87 € | 82,54 € | 92,61 € |
-| 4 | Stabsunteroffizier, Obermaat | 68,77 € | 80,61 € | 83,77 € | 93,35 € |
-| 5 | Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann | 70,99 € | 83,12 € | 86,25 € | 95,75 € |
-| 6 | Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See | 74,27 € | 86,81 € | 89,87 € | 99,33 € |
-| 7 | Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See | 79,12 € | 92,47 € | 95,50 € | 104,87 € |
-| 8 | Oberleutnant, Oberleutnant zur See | 83,76 € | 97,45 € | 100,66 € | 109,76 € |
-| 9 | Hauptmann, Kapitänleutnant | 92,96 € | 107,81 € | 110,90 € | 120,08 € |
-| 10 | Stabshauptmann, Stabskapitän- leutnant, Major, Korvettenkapitän, Stabsapotheker, Stabsarzt, Stabsveterinär | 110,78 € | 128,12 € | 131,25 € | 140,46 € |
-| 11 | Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabs- arzt, Oberstabsveterinär | 113,16 € | 130,91 € | 134,06 € | 143,06 € |
-| 12 | Oberfeldapotheker, Flottillenapo- theker, Oberfeldarzt, Flottillenarzt, Oberfeldveterinär | 131,40 € | 153,03 € | 156,09 € | 164,78 € |
-| 13 | Oberst, Kapitän zur See, Oberst- apotheker, Flottenapotheker, Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade | 141,51 € | 165,20 € | 168,22 € | 176,77 € |
-_____________________
+|  |  | Reservistendienst Leistende oder Reservistendienst Leistender |
+|  |  | ohne unterhaltsberechtigtes Kind | mit einem unterhaltsberechtigten Kind | mit zwei unterhaltsberechtigten Kindern | mit drei unterhaltsberechtigten Kindern |
+| 1 | Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker | 76,85 € | 89,52 € | 93,90 € | 105,34 € |
+| 2 | Obergefreiter, Hauptgefreiter | 78,04 € | 90,88 € | 95,10 € | 106,29 € |
+| 3 | Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett | 78,48 € | 91,39 € | 95,40 € | 106,44 € |
+| 4 | Stabsunteroffizier, Obermaat, Korporal, Stabskorporal | 80,31 € | 93,29 € | 96,76 € | 107,26 € |
+| 5 | Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann | 82,74 € | 96,04 € | 99,48 € | 109,89 € |
+| 6 | Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See | 86,35 € | 100,09 € | 103,44 € | 113,81 € |
+| 7 | Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See | 91,66 € | 106,29 € | 109,62 € | 119,88 € |
+| 8 | Oberleutnant, Oberleutnant zur See | 96,75 € | 111,74 € | 115,27 € | 125,24 € |
+| 9 | Hauptmann, Kapitänleutnant | 106,84 € | 123,11 € | 126,51 € | 136,56 € |
+| 10 | Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän | 126,36 € | 145,38 € | 148,81 € | 158,91 € |
+| 11 | Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant, Fregattenkapitän | 128,97 € | 148,44 € | 151,90 € | 161,76 € |
+| 12 | Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär | 148,97 € | 172,69 € | 176,03 € | 185,57 € |
+| 13 | Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker, Oberstveterinär und höhere Dienstgrade | 160,07 € | 186,02 € | 189,34 € | 189,70 € |
+__________

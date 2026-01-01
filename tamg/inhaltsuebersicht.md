@@ -99,6 +99,7 @@ von Arzneimitteln und veterinärmedizintechnischen Produkten
 | § 42 | Grundsatz |
 | § 43 | Apothekenpflicht |
 | § 44 | Tierärztliches Dispensierrecht |
+| § 44a | Versand verschreibungspflichtiger Tierarzneimittel |
 | § 45 | Weitere Vorschriften zur Abgabe; Verordnungsermächtigung |
 | § 46 | Abgabe von Mustern |
 | § 47 | Abgabe verschreibungspflichtiger Tierarzneimittel und veterinärmedizintechnischer Produkte |
@@ -125,14 +126,19 @@ Mitteilungen über die Arzneimittelverwendung
 | § 60 | Resistenzmonitoring |
 | § 61 | Verordnungsermächtigungen |
 Unterabschnitt 6
+Vorschriften zu tierärztlichen Mitteilungen über die Anwendung
+antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578
+| § 61a | Tierärztliche Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578 |
+| § 61b | Verarbeitung und Übermittlung von nach § 61a erhobenen Daten |
+Unterabschnitt 7
 Sicherung und Kontrolle der Qualität
 | § 62 | Verordnungsermächtigung zur Regelung von Betriebsverordnungen |
 | § 63 | Arzneibuch und amtliche Sammlung von Untersuchungsverfahren |
-Unterabschnitt 7
+Unterabschnitt 8
 Zuständigkeit
 | § 64 | Zuständige Behörde |
 | § 65 | Zuständige Bundesoberbehörde, Verordnungsermächtigung |
-Unterabschnitt 8
+Unterabschnitt 9
 Überwachung
 | § 66 | Gegenseitige Information |
 | § 67 | Verwendung bestimmter Daten |
@@ -145,15 +151,16 @@ Unterabschnitt 8
 | § 74 | Duldungs-, Mitwirkungs- und Übermittlungspflichten |
 | § 75 | Probenahme bei Tierarzneimitteln und veterinärmedizintechnischen Produkten, die unter Verwendung von Fernkommunikationsmitteln angeboten werden |
 | § 76 | Maßnahmen der zuständigen Behörden |
+| § 76a | Mitwirkung der Zollbehörden |
 | § 77 | Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können |
-Unterabschnitt 9
+Unterabschnitt 10
 Sondervorschriften für
 Bundeswehr, Bundespolizei, Bereitschaftspolizei
 | § 78 | Anwendung und Vollzug des Gesetzes; Verordnungsermächtigung |
-Unterabschnitt 10
+Unterabschnitt 11
 Allgemeine Anzeigepflicht
 | § 79 | Allgemeine Anzeigepflicht |
-Unterabschnitt 11
+Unterabschnitt 12
 Sonstige Durchführungsbestimmungen
 | § 80 | Unabhängigkeit |
 | § 81 | Verordnungsermächtigungen für Krisenzeiten |
@@ -173,7 +180,8 @@ Abschnitt 6
 Übergangsvorschriften
 | § 92 | Übergangsvorschriften aus Anlass des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften |
 | § 93 | Weitere Anwendung von Vorschriften |
-| § 94 | Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten über antibiotisch wirksame Arzneimittel |
-| § 95 | Evaluierung |
+| § 94 | Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln und zur Änderung weiterer Vorschriften |
+| § 95 | Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes |
+| § 96 | Evaluierung |
 | Anlage 1 | Einteilung der Nutzungsarten |
 | Anlage 2 | Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten |

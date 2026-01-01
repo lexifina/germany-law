@@ -120,7 +120,7 @@
 - [§ 70 (weggefallen)](0070.md)
 - [§ 70a Bekanntmachung von Neufassungen](0070a.md)
 - [§ 71 Übergangsvorschrift](0071.md)
-- [§ 72 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes](0072.md)
+- [§ 72 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0072.md)
 - [§ 73 Übergangsvorschrift für die Erhebung von Haftkosten](0073.md)
 - [Anlage 1 (zu § 3 Abs. 2)Kostenverzeichnis](anlage-1.md)
 - [Anlage 2 (zu § 34 Absatz 1 Satz 3)](anlage-2.md)

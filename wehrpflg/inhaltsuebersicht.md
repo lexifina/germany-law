@@ -6,7 +6,8 @@
 |  | Unterabschnitt 1 |
 |  | Umfang der Wehrpflicht |
 | § 1 | Allgemeine Wehrpflicht |
-| § 2 | Geltung der folgenden Vorschriften |
+| § 2 | Anwendung dieses Gesetzes |
+| § 2a | Anordnung der Bedarfswehrpflicht durch Gesetz |
 | § 3 | Inhalt und Dauer der Wehrpflicht |
 |  |
 |  | Unterabschnitt 2 |
@@ -14,10 +15,7 @@
 | § 4 | Arten des Wehrdienstes |
 | § 5 | Grundwehrdienst |
 | § 6 | Wehrübungen |
-| § 6a | Besondere Auslandsverwendung |
-| § 6b | Freiwilliger zusätzlicher Wehrdienst im Anschluss an den Grundwehrdienst |
-| § 6c | Hilfeleistung im Innern |
-| § 6d | Hilfeleistung im Ausland |
+| § 6a | Freiwillige Verlängerung des Grundwehrdienstes |
 | § 7 | Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst |
 | § 8 | Wehrdienst außerhalb der Bundeswehr; Anrechnung von Wehrdienst und anderen Diensten außerhalb der Bundeswehr |
 | § 8a | Tauglichkeitsgrade; Verwendungsgrade |
@@ -36,6 +34,10 @@
 | Wehrersatzwesen |
 | § 14 | Wehrersatzbehörden |
 | § 15 | Erfassung |
+| § 15a | Bereitschaftserklärung |
+| § 15b | Datenverarbeitung |
+| § 15c | Datenaktualisierung |
+| § 15d | Datenübermittlung für die Durchführung des Arbeitssicherstellungsgesetzes |
 | § 16 | Zweck der Musterung |
 | § 17 | Durchführung der Musterung |
 | § 18 | (weggefallen) |
@@ -87,4 +89,4 @@
 | § 50 | Zuständigkeit für den Erlass von Rechtsverordnungen |
 | § 51 | Einschränkung von Grundrechten |
 | § 52 | Übergangsvorschrift |
-| § 53 | Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010 |
+| § 53 | (weggefallen) |

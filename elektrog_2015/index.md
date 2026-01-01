@@ -34,6 +34,7 @@
 - [§ 17a Rücknahme durch zertifizierte Erstbehandlungsanlagen](0017a.md)
 - [§ 17b Kooperation zwischen öffentlich-rechtlichen Entsorgungsträgern und zertifizierten Erstbehandlungsanlagen](0017b.md)
 - [§ 18 Informationspflichten gegenüber den privaten Haushalten](0018.md)
+- [§ 18a Kennzeichnung und Hinweispflichten an Sammel- und Rücknahmestellen](0018a.md)
 
 ### Unterabschnitt 2 Rücknahme von Altgeräten anderer Nutzer als privater Haushalte
 
@@ -88,6 +89,7 @@
 - [Anlage 1 (zu § 2 Absatz 1)Nicht abschließende Liste mit Elektro- und Elektronikgeräten, die unter die Kategorien des § 2 Absatz 1 fallen](anlage-1.md)
 - [Anlage 2 (zu § 6 Absatz 1)Angaben bei der Registrierung](anlage-2.md)
 - [Anlage 3 (zu § 9 Absatz 2)](anlage-3.md)
+- [Anlage 3a (zu § 18a Absatz 1, 2 und 4 und § 31 Absatz 1 Satz 4 Nummer 6)Symbol zur Kennzeichnung von Sammel- und Rücknahmestellen](anlage-3a.md)
 - [Anlage 4 (zu § 20 Absatz 2 Satz 4)Technische Anforderungen an Standorte für die Lagerung und Behandlung von Altgeräten](anlage-4.md)
 - [Anlage 5 (zu § 21 Absatz 3 Nummer 3 und Absatz 4 Nummer 3)Behandlungskonzept](anlage-5.md)
 - [Anlage 5a (zu § 21 Absatz 3 Nummer 4 und Absatz 4 Satz 2)Betriebstagebuch](anlage-5a.md)

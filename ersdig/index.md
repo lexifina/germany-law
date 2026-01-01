@@ -5,7 +5,7 @@
 ## Abschnitt 1 Aufgaben und Organisation des Zivildienstes
 
 - [§ 1 Aufgaben des Zivildienstes](0001.md)
-- [§ 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes](0001a.md)
+- [§ 1a Anwendung dieses Gesetzes](0001a.md)
 - [§ 2 Organisation des Zivildienstes](0002.md)
 - [§ 2a Beirat für den Zivildienst](0002a.md)
 - [§ 3 Dienststellen](0003.md)
@@ -26,7 +26,7 @@
 - [§ 14 Zivilschutz oder Katastrophenschutz](0014.md)
 - [§ 14a Entwicklungsdienst](0014a.md)
 - [§ 14b Andere Dienste im Ausland](0014b.md)
-- [§ 14c Freiwilliges Jahr](0014c.md)
+- [§ 14c Freiwilligendienst](0014c.md)
 - [§ 15 Sondervorschriften für Angehörige des Polizeivollzugsdienstes](0015.md)
 - [§ 15a Freies Arbeitsverhältnis](0015a.md)
 - [§ 16 Unabkömmlichstellung](0016.md)

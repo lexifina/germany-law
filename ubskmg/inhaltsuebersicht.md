@@ -5,7 +5,7 @@ Schutz von Kindern und Jugendlichen vor sexueller Gewalt und Ausbeutung;
 Unterstützung von Betroffenen
 | § 1 | Schutz vor sexueller Gewalt und Ausbeutung |
 | § 2 | Amt der oder des Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen |
-| § 3 | (zukünftig in Kraft) |
+| § 3 | Sensibilisierung, Aufklärung und Qualifizierung zum Schutz von Kindern und Jugendlichen vor sexueller Gewalt und Ausbeutung |
 | § 4 | Unterstützung für Betroffene von sexueller Gewalt oder Ausbeutung in Kindheit oder Jugend |
 Abschnitt 2
 Die oder der Unabhängige Bundesbeauftragte gegen sexuellen Missbrauch

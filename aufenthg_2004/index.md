@@ -117,6 +117,7 @@
 - [§ 45 Integrationsprogramm](0045.md)
 - [§ 45a Berufsbezogene Deutschsprachförderung; Verordnungsermächtigung](0045a.md)
 - [§ 45b Informations- und Beratungsangebote; Verordnungsermächtigung und Vorintegrationsmaßnahmen](0045b.md)
+- [§ 45c Informationspflicht bei Anwerbung aus dem Ausland](0045c.md)
 
 ## Kapitel 4 Ordnungsrechtliche Vorschriften
 
@@ -268,7 +269,6 @@
 - [§ 105a Bestimmungen zum Verwaltungsverfahren](0105a.md)
 - [§ 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster](0105b.md)
 - [§ 105c Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit](0105c.md)
-- [§ 105d Ermächtigung zur vorübergehenden Ausübung von Heilkunde](0105d.md)
 - [§ 106 Einschränkung von Grundrechten](0106.md)
 - [§ 107 Stadtstaatenklausel](0107.md)
 - [Anlage (zu § 20a Absatz 3 Nummer 2, § 20b)](anlage.md)

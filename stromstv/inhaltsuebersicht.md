@@ -5,7 +5,7 @@
 |  |
 | Zu § 2 des Gesetzes |
 | § 1a | Versorger |
-| § 1b | Strom aus erneuerbaren Energieträgern |
+| § 1b | (weggefallen) |
 | § 1c | Elektromobilität |
 |  |  |
 | Zu § 2a des Gesetzes |
@@ -30,11 +30,11 @@
 | § 9 | Erteilung, Überprüfung und Erlöschen der Erlaubnis |
 | § 10 | Allgemeine Erlaubnis |
 | § 11 | Pflichten des Erlaubnisinhabers |
-| § 11a | Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit |
+| § 11a | Zeitgleichheit, Mengenermittlung |
 | § 12 | Strom zur Stromerzeugung |
 | § 12a | Steuerentlastung für Strom zur Stromerzeugung |
-| § 12b | Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt |
-| § 12c | Steuerentlastung für Strom aus erneuerbaren Energieträgern |
+| § 12b | Anlagenbegriff und räumlicher Zusammenhang |
+| § 12c | Steuerentlastung für Strom aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft |
 | § 12d | Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen |
 | § 13 | Verkehr mit Oberleitungsomnibussen oder Schienenbahnen |
 | § 13a | Differenzversteuerung |
@@ -47,7 +47,7 @@
 | § 17 | (weggefallen) |
 |  |
 | Zu § 9a des Gesetzes |
-| § 17a | Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren |
+| § 17a | Steuerentlastung für bestimmte Prozesse und Verfahren |
 |  |  |
 | Zu § 9b des Gesetzes |
 | § 17b | Steuerentlastung für Unternehmen |

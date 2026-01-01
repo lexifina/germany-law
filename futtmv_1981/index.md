@@ -24,18 +24,21 @@
 - [§ 10 Ausnahmen](0010.md)
 - [§ 11 Verbotene Stoffe](0011.md)
 - [§ 12 Inverkehrbringensverbote](0012.md)
-- [§ 13 (weggefallen)](0013.md)
 
-### Unterabschnitt 3 Fütterung
+### Unterabschnitt 3 Arzneifuttermittel und Zwischenerzeugnisse
+
+- [§ 13 Anzeigepflichten](0013.md)
+
+### Unterabschnitt 4 Fütterung
 
 - [§ 14 Fütterungsvorschriften](0014.md)
 - [§ 15 Ausnahmen vom Verfütterungsverbot](0015.md)
 
-### Unterabschnitt 4 Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+### Unterabschnitt 5 Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 
 - [§ 16 Mitwirkung](0016.md)
 
-### Unterabschnitt 5 Anforderungen an Betriebe
+### Unterabschnitt 6 Anforderungen an Betriebe
 
 - [§ 17 Zulassungsbedürftige Betriebe](0017.md)
 - [§ 18 Zulassung](0018.md)
@@ -84,7 +87,7 @@
 - [§ 45 (weggefallen)](0045.md)
 - [§ 46 (weggefallen)](0046.md)
 - [§ 46a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015/786](0046a.md)
-- [§ 47 (weggefallen)](0047.md)
+- [§ 47 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2019/4](0047.md)
 - [§ 47a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2020/354](0047a.md)
 
 ## Abschnitt 6 Schlussbestimmungen

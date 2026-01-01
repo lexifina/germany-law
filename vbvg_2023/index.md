@@ -15,20 +15,24 @@
 - [§ 7 Vergütung und Aufwendungsersatz des beruflichen Betreuers](0007.md)
 - [§ 8 Höhe der Vergütung; Verordnungsermächtigung](0008.md)
 - [§ 9 Fallpauschalen](0009.md)
-- [§ 10 Gesonderte Pauschalen](0010.md)
-- [§ 11 Aufwendungsersatz](0011.md)
-- [§ 12 Sonderfälle der Betreuung](0012.md)
-- [§ 13 Vergütung und Aufwendungsersatz für Betreuungsvereine](0013.md)
-- [§ 14 Vergütung und Aufwendungsersatz für Behördenbetreuer und Betreuungsbehörde](0014.md)
-- [§ 15 Abrechnungszeitraum für die Betreuungsvergütung](0015.md)
-- [§ 16 Zahlung aus der Staatskasse, Erlöschen und Geltendmachung der Ansprüche](0016.md)
+- [§ 10 Aufwendungsersatz](0010.md)
+- [§ 11 Sonderfälle der Betreuung](0011.md)
+- [§ 12 Vergütung und Aufwendungsersatz für Betreuungsvereine](0012.md)
+- [§ 13 Vergütung und Aufwendungsersatz für Behördenbetreuer und Betreuungsbehörde](0013.md)
+- [§ 14 Abrechnungszeitraum für die Betreuungsvergütung](0014.md)
+- [§ 15 Zahlung aus der Staatskasse, Erlöschen und Geltendmachung der Ansprüche](0015.md)
 
-## Abschnitt 3 Schlussvorschriften
+## Abschnitt 3 Sondervorschriften
 
-- [§ 17 Umschulung und Fortbildung von Berufsvormündern und beruflichen Betreuern](0017.md)
+- [§ 16 Sondervergütung für Verfahrens- und Umgangspfleger für Tätigkeiten außerhalb der Geschäftszeiten](0016.md)
+- [§ 17 Ausfallentschädigung des Umgangspflegers](0017.md)
 
-## Abschnitt 4 Übergangsregelungen
+## Abschnitt 4 Schlussvorschriften
 
-- [§ 18 Übergangsregelung](0018.md)
-- [§ 19 Ansprüche von Betreuern, die vor Inkrafttreten des Betreuungsorganisationsgesetzes bereits berufsmäßig Betreuungen geführt haben](0019.md)
+- [§ 18 Umschulung und Fortbildung von Berufsvormündern und beruflichen Betreuern](0018.md)
+
+## Abschnitt 5 Übergangsregelungen
+
+- [§ 19 Übergangsregelung](0019.md)
+- [§ 20 Ansprüche von Betreuern, die vor Inkrafttreten des Betreuungsorganisationsgesetzes bereits berufsmäßig Betreuungen geführt haben](0020.md)
 - [Anlage (zu § 8 Absatz 1)](anlage.md)

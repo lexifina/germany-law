@@ -5,17 +5,20 @@
 1.1.1 Es sind nichtproduktive Flächen auf förderfähigem Ackerland über den Anteil, der sich aus § 11 des GAP-Konditionalitäten-Gesetzes oder aus einer Rechtsverordnung auf Grund des GAP-Konditionalitäten-Gesetzes ergibt, hinaus bereitzustellen. Begünstigungsfähig ist nichtproduktives Ackerland höchstens im Umfang von 8 Prozent des förderfähigen Ackerlands des Betriebes. Zu den nichtproduktiven Flächen gehören nicht
   a) die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen und
   b) Ackerland, auf dem sich ein Agroforstsystem befindet.
-  Abweichend von Satz 2 ist im Fall eines Betriebes mit mehr als 10 Hektar Ackerland nichtproduktives Ackerland im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn dies mehr als 8 Prozent des förderfähigen Ackerlands des Betriebes ausmacht.
+  Abweichend von Satz 2 ist nichtproduktives Ackerland im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn dieses mehr als 8 Prozent des förderfähigen Ackerlands des Betriebes ausmacht und
+  a) der Betrieb mehr als 10 Hektar Ackerland aufweist,
+  b) der Betrieb mindestens eine förderfähige Dauerkulturfläche mit Rebstöcken aufweist oder
+  c) dem Betriebsinhaber für mindestens eine Fläche, die er im Sammelantrag nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes für das Antragsjahr angegeben hat, eine im Antragsjahr gültige Wiederbepflanzungsgenehmigung gemäß § 6 Absatz 1 Satz 1 des Weingesetzes erteilt worden ist.
 1.1.2 Begünstigungsfähige Fläche ist die nichtproduktive Fläche nach Nummer 1.1.1, die die Voraussetzungen der Nummern 1.1.3 und 1.1.4 erfüllt.
 1.1.3 Jede nichtproduktive Fläche muss mindestens 0,1 Hektar groß sein.
-1.1.4 Jede nichtproduktive Fläche muss während des ganzen Antragsjahres brachliegen. Im Fall einer Begrünung durch Aussaat ist eine Saatgutmischung zu verwenden, die mindestens fünf krautartige zweikeimblättrige Arten enthält. Auf einer nichtproduktiven Fläche nach Satz 1 dürfen Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel nicht angewendet werden. Abweichend von Satz 1 darf ab dem 1. September des Antragsjahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden. Abweichend von Satz 4 darf eine Aussaat von Wintergerste oder Winterraps ab dem 15. August vorbereitet und durchgeführt werden.
+1.1.4 Jede nichtproduktive Fläche muss während des ganzen Antragsjahres brachliegen und der Selbstbegrünung überlassen oder durch Aussaat begrünt werden. Im Fall einer Begrünung durch Aussaat ist eine Saatgutmischung zu verwenden, die mindestens fünf krautartige zweikeimblättrige Arten enthält. Auf einer nichtproduktiven Fläche nach Satz 1 dürfen Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel nicht angewendet werden. Abweichend von Satz 1 darf ab dem 1. September des Antragsjahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden. Abweichend von Satz 4 darf eine Aussaat von Wintergerste oder Winterraps ab dem 15. August vorbereitet und durchgeführt werden.
 1.2 § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
 1.2.1 Begünstigungsfähige Blühstreifen oder -flächen auf nach Nummer 1.1.1 bereitgestellten Flächen müssen die Voraussetzungen der Nummern 1.2.2 bis 1.2.4 erfüllen. Begünstigungsfähig sind Blühstreifen oder -flächen bis zu einer Höchstgröße von jeweils 3 Hektar.
 1.2.2 Blühstreifen oder -flächen müssen eine Mindestgröße von jeweils 0,1 Hektar aufweisen.
 1.2.3 Bei streifenförmiger Aussaat ist auf der überwiegenden Länge eine Mindestbreite von 5 Metern einzuhalten.
 1.2.4 Auf einem Blühstreifen oder einer Blühfläche muss sich ein Pflanzenbestand nach Maßgabe der Nummern 1.2.5 bis 1.2.7 befinden, der durch Aussaat einer Saatgutmischung nach Anhang 1 etabliert worden ist. Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel dürfen nicht angewendet werden.
 1.2.5 Die Saatgutmischung muss aus
-  a) mindestens 10 der in Anhang 1 in Gruppe A aufgeführten Arten bestehen, die zusätzlich durch Arten aus Anhang 1 Gruppe B ergänzt sein können, oder
+  a) mindestens 10 der in Anhang 1 in Gruppe A aufgeführten Arten bestehen oder
   b) mindestens 5 der in Anhang 1 in Gruppe A und mindestens 5 der in Anhang 1 in Gruppe B aufgeführten Arten bestehen.
 1.2.6 Eine Fläche kann in dem Jahr, das auf das erste Antragsjahr folgt, ohne erneute Aussaat wieder beantragt werden, wenn bei der Aussaat eine Mischung nach Nummer 1.2.5 Buchstabe b verwendet wurde.
 1.2.7 Die Aussaat hat bis zum 15. Mai des jeweiligen Antragsjahres zu erfolgen. Im Fall der Nummer 1.2.6 ist der 15. Mai des ersten Antragsjahres spätester Aussaattermin. Eine Nachsaat ist zulässig, wenn die erste Aussaat unzureichend aufgegangen ist.
@@ -24,8 +27,8 @@
 1.3.1 Für begünstigungsfähige Blühstreifen oder -flächen in förderfähigen Dauerkulturen gelten die Voraussetzungen der Nummern 1.2.4 bis 1.2.8 entsprechend.
 1.4 § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
 1.4.1 Die begünstigungsfähigen Altgrasstreifen oder -flächen müssen mindestens 1 Prozent des förderfähigen Dauergrünlands des Betriebs umfassen und die Voraussetzungen der Nummern 1.4.2 und 1.4.3 erfüllen. Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im Umfang von 6 Prozent des förderfähigen Dauergrünlands des Betriebs. Zu den begünstigungsfähigen Altgrasstreifen oder -flächen gehören nicht die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen. Abweichend von Satz 2 sind Altgrasstreifen oder -flächen im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn diese mehr als 6 Prozent des förderfähigen Dauergrünlands des Betriebs ausmachen.
-1.4.2 Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im Umfang von 20 Prozent einer förderfähigen Dauergrünlandfläche. Altgrasstreifen oder -flächen sind bis zu einer Größe von 0,3 Hektar begünstigungsfähig, auch wenn sie mehr als 20 Prozent einer förderfähigen Dauergrünlandfläche bedecken. Ein Altgrasstreifen oder eine Altgrasfläche muss mindestens 0,1 Hektar groß sein.
-1.4.3 Eine Beweidung oder eine Schnittnutzung vor dem 1. September ist nicht zulässig. Die Zerkleinerung und ganzflächige Verteilung des Aufwuchses ist während des ganzen Jahres nicht zulässig.
+1.4.2 Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im Umfang von 20 Prozent einer förderfähigen Dauergrünlandfläche. Ein Altgrasstreifen oder eine Altgrasfläche muss mindestens 0,1 Hektar groß sein.
+1.4.3 Eine Beweidung oder eine Schnittnutzung (Tätigkeit) vor dem 1. September ist nicht zulässig. Eine Tätigkeit muss mindestens in jedem zweiten Jahr erfolgen, jedoch nicht vor dem 1. September. Die Zerkleinerung und ganzflächige Verteilung des Aufwuchses ist ganzjährig jeweils nicht zulässig.
 2. Zu § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes
 2.1 Begünstigungsfähig ist förderfähiges Ackerland, das die Voraussetzungen der Nummern 2.2 bis 2.10 erfüllt, mit Ausnahme des brachliegenden Ackerlandes.
 2.2 Auf dem förderfähigen Ackerland des Betriebs mit Ausnahme des brachliegenden Ackerlandes sind mindestens fünf verschiedene Hauptfruchtarten im Antragsjahr anzubauen. Die Verpflichtung nach Satz 1 gilt als erfüllt, wenn auf mindestens 40 Prozent des förderfähigen Ackerlands mit Ausnahme des brachliegenden Ackerlands des Betriebs beetweise mindestens fünf verschiedene Gemüsekulturen, Küchenkräuter, Heil-, Gewürz- oder Zierpflanzen angebaut werden.
@@ -51,7 +54,7 @@
 3.2.3 Die Mindestanzahl an Gehölzstreifen muss zwei betragen.
 3.2.4 Die Breite der einzelnen Gehölzstreifen darf auf der überwiegenden Länge nicht mehr als 25 Meter betragen.
 3.2.5 Der größte Abstand zwischen zwei Gehölzstreifen sowie zwischen einem Gehölzstreifen und dem Rand der Fläche darf auf der überwiegenden Länge nicht mehr als 100 Meter betragen.
-3.2.6 Der kleinste Abstand zwischen zwei Gehölzstreifen muss auf der überwiegenden Länge 20 Meter betragen. Der kleinste Abstand von Gehölzstreifen zu einem Waldrand oder zu einem in § 23 Absatz 1 Nummer 1 bis 3 der GAP-Konditionalitäten-Verordnung genannten Landschaftselement darf auf der überwiegenden Länge nicht weniger als 20 Meter betragen.
+3.2.6 Der kleinste Abstand zwischen zwei Gehölzstreifen muss auf der überwiegenden Länge 20 Meter betragen. Der kleinste Abstand von Gehölzstreifen zu einem Waldrand oder zu einem in § 19 Absatz 1 Nummer 1 bis 3 der GAP-Konditionalitäten-Verordnung genannten Landschaftselement darf auf der überwiegenden Länge nicht weniger als 20 Meter betragen.
 3.3 Unbeschadet naturschutzrechtlicher Vorschriften sind Maßnahmen der Holzernte im Antragsjahr nur in den Monaten Januar, Februar und Dezember zulässig.
 4. Zu § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes
 4.1 Begünstigungsfähig ist das gesamte förderfähige Dauergrünland eines Betriebs, wenn die Voraussetzungen der Nummern 4.2 bis 4.5 erfüllt sind.
@@ -64,7 +67,7 @@
   | Schafe und Ziegen |  | 0,150 |
   | Gehegewild | Damwild | 0,150 |
   | Rotwild | 0,300 |
-  Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe und Ziegen mitumfasst.
+  Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe und Ziegen mitumfasst. Bei Anwendung des Berechnungsschlüssels ist die Kategorie Kälber von Damwild und Rotwild jeweils von der angegebenen RGV für die Kategorie Damwild und Rotwild mitumfasst.
 4.3 Die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern ist nur in dem Umfang erlaubt, der dem Dunganfall von höchstens 1,4 RGV je Hektar förderfähiges Dauergrünland des Betriebs entspricht.
 4.4 Pflanzenschutzmittel dürfen nicht angewendet werden. Die nach Landesrecht zuständige Behörde kann im Einzelfall auf Antrag Ausnahmen zulassen.
 4.5 Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung durch höhere Gewalt oder außergewöhnliche Umstände kann die nach Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen zulassen.
@@ -82,7 +85,7 @@
   Dieser Zeitraum endet mit dem Zeitpunkt der letzten Ernte im Antragsjahr, sofern nach der Ernte im Antragsjahr eine Bodenbearbeitung zur Vorbereitung des Anbaus einer Folgekultur erfolgt, jedoch frühestens mit dem 31. August.
 6.4 Chemisch-synthetische Pflanzenschutzmittel nach Nummer 6.5 dürfen auf vom Antragsteller bezeichneten förderfähigen Dauerkulturflächen vom 1. Januar bis 15. November des Antragsjahres nicht angewendet werden.
 6.5 Chemisch-synthetische Pflanzenschutzmittel im Sinne dieser Öko-Regelung sind alle Pflanzenschutzmittel mit Ausnahme von Pflanzenschutzmitteln, die
-  a) ausschließlich Wirkstoffe enthalten, die als Wirkstoff mit geringem Risiko genehmigt sind nach Artikel 22 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1; L 45 vom 18.2.2020, S. 81), die zuletzt durch die Verordnung (EU) 2021/383 (ABl. L 74 vom 4.3.2021, S. 7) geändert worden ist, in der jeweils geltenden Fassung,
+  a) ausschließlich Wirkstoffe enthalten, die als Wirkstoff mit geringem Risiko genehmigt sind nach Artikel 22 der Verordnung (EG) Nr. 1107/2009,
   b) für die ökologische Landwirtschaft zugelassen sind.
 7. Zu § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes
 7.1 Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die in Gebieten nach Nummer 7.3 liegen, die die Voraussetzungen der Nummer 7.2 erfüllen und unter Nummer 7.4 fallen.

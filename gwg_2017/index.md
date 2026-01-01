@@ -44,6 +44,7 @@
 - [§ 22 Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung](0022.md)
 - [§ 23 Einsichtnahme in das Transparenzregister, Verordnungsermächtigung](0023.md)
 - [§ 23a Meldung von Unstimmigkeiten an die registerführende Stelle](0023a.md)
+- [§ 23b Meldung von Unstimmigkeiten bei der Zuordnung von Immobilien](0023b.md)
 - [§ 24 Gebühren und Auslagen, Verordnungsermächtigung](0024.md)
 - [§ 25 Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung](0025.md)
 - [§ 26 Europäisches System der Registervernetzung, Verordnungsermächtigung](0026.md)

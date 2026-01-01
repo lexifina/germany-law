@@ -104,5 +104,6 @@
 - [§ 62a Bekanntmachung von Neufassungen](0062a.md)
 - [§ 63 Übergangsvorschrift](0063.md)
 - [§ 64 Übergangsvorschrift für die Erhebung von Haftkosten](0064.md)
+- [§ 65 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0065.md)
 - [Anlage 1 (zu § 3 Abs. 2)Kostenverzeichnis](anlage-1.md)
 - [Anlage 2 (zu § 28 Absatz 1 Satz 3)](anlage-2.md)

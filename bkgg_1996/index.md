@@ -22,9 +22,10 @@
 - [§ 8 Aufbringung der Mittel](0008.md)
 - [§ 9 Antrag](0009.md)
 - [§ 10 Auskunftspflicht](0010.md)
+- [§ 11 Gewährung des Kindergeldes und des Kinderzuschlags](0011.md)
 - [§ 12 Aufrechnung](0012.md)
 - [§ 13 Zuständige Stelle](0013.md)
-- [§ 14 Bescheid](0014.md)
+- [§ 14 Bescheid, Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf](0014.md)
 - [§ 15 Rechtsweg](0015.md)
 
 ## Dritter Abschnitt Bußgeldvorschriften

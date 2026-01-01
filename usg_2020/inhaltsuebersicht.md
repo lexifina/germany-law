@@ -26,6 +26,7 @@ Prämien, Dienstgeld, Zuschläge
 | § 15 | Zuschlag für herausgehobene Funktionen |
 | § 16 | Zuschlag für besondere Erschwernisse |
 | § 17 | Zuschlag für besondere zeitliche Belastungen |
+| § 17a | Zuschlag für Fahrtkosten |
 | § 18 | Auslandsverwendungszuschlag |
 | § 19 | Auslandszuschlag |
 Abschnitt 3
@@ -36,7 +37,7 @@ Sachleistungen
 | § 23 | Verpflegung, Verpflegungsgeld |
 Kapitel 3
 Verfahren
-| § 24 | (weggefallen) |
+| § 24 | Zuständigkeit |
 | § 25 | Antrag |
 | § 26 | Leistungsberechnung |
 | § 27 | Auskunfts- und Mitteilungspflichten |

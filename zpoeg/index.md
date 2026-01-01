@@ -50,3 +50,4 @@
 - [§ 44 Vorrang- und Beschleunigungsgebot](0044.md)
 - [§ 45 Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz](0045.md)
 - [§ 46 Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz](0046.md)
+- [§ 47 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0047.md)

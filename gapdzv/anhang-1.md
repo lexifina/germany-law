@@ -31,7 +31,7 @@ Gruppe A:
 | Lapsana communis | Gewöhnlicher Rainkohl |
 | Lepidium campestre | Feld-Kresse |
 | Lepidium sativum | Kresse |
-| Linum utatissimum | Lein |
+| Linum usitatissimum | Lein |
 | Malva neglecta | Weg-Malve |
 | Myosotis arvensis | Acker-Vergissmeinnicht |
 | Myosotis stricta | Sand-Vergissmeinnicht |

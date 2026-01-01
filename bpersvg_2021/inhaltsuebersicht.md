@@ -196,5 +196,5 @@ Für die Länder geltende Vorschriften
 Teil 3
 Schlussvorschriften
 | § 129 | Verordnungsermächtigung |
-| § 130 | Übergangsregelung für bestehende Jugend- und Auszubildendenvertretungen und Personalvertretungen |
+| § 130 | (weggefallen) |
 | § 131 | (weggefallen) |

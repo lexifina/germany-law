@@ -82,10 +82,10 @@
 - [§ 44 Inhalt und Durchführung des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes](0044.md)
 - [§ 45 Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes](0045.md)
 - [§ 45a Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes als anwendungsorientierte Parcoursprüfung](0045a.md)
-- [§ 46 Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes](0046.md)
-- [§ 47 Inhalt und Durchführung der Eignungsprüfung nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes](0047.md)
+- [§ 46 Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 2 des Pflegeberufegesetzes](0046.md)
+- [§ 47 Inhalt und Durchführung der Eignungsprüfung nach § 41 Absatz 2 Satz 2 des Pflegeberufegesetzes](0047.md)
 - [§ 48 Nachweis der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz](0048.md)
-- [§ 49 Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz](0049.md)
+- [§ 49 (weggefallen)](0049.md)
 
 ### Abschnitt 2a Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes
 

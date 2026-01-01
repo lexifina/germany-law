@@ -13,4 +13,5 @@
 5. leichte Kunststofftragetaschen, das heißt, Kunststofftragetaschen mit einer Wandstärke von weniger als 50 Mikrometern mit oder ohne Tragegriff, die den Verbrauchern in der Verkaufsstelle der Waren oder Produkte angeboten werden;
 6. Feuchttücher, das heißt, getränkte Tücher für Körper- und Haushaltspflege;
 7. Luftballons; ausgenommen sind Luftballons für industrielle oder gewerbliche Verwendungszwecke und Anwendungen, die nicht an Verbraucher abgegeben werden;
-8. Tabakprodukte mit Filtern sowie Filter, die zur Verwendung in Kombination mit Tabakprodukten vorgesehen sind.
+8. Tabakprodukte mit Filtern sowie Filter, die zur Verwendung in Kombination mit Tabakprodukten vorgesehen sind;
+9. Feuerwerkskörper im Sinne von § 3 Absatz 1 Nummer 4 des Sprengstoffgesetzes.

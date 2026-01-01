@@ -262,7 +262,7 @@
 
 ## - Zu § 49 des Gesetzes
 
-- [§ 93 Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse](0093.md)
+- [§ 93 Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse](0093.md)
 - [§ 94 (weggefallen)](0094.md)
 
 ## - Zu § 51 des Gesetzes
@@ -364,4 +364,4 @@
 - [Anlage 4 (zu § 110 Satz 1 Nr. 9)
 
 Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen](anlage-4.md)
-- [Anlage 5 (zu § 110 Satz 1 Nummer 11)Verfahren zur Bestimmung des Markierstoffs ACCUTRACETM Plus (n-Butylphenylether) in leichtem Heizöl, Kerosin und in Mischungen von leichtem Heizöl mit nicht gekennzeichnetem Dieselkraftstoff mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor](anlage-5.md)
+- [Anlage 5 (zu § 110 Satz 1 Nummer 11)Bestimmung von n-Butylphenylether in Gasöl, Kerosin und steuerlich begünstigten Mineralölen mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor](anlage-5.md)

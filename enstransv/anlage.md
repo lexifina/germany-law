@@ -2,8 +2,9 @@
 
 Steuerbegünstigungen im Sinne dieser Verordnung sind
 1. die Steuerbefreiungen nach
-  a) § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und
-  b) § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
+  a) § 28 Absatz 2 des Energiesteuergesetzes,
+  b) § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und
+  c) § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
 2. die Steuerermäßigungen nach
   a) den §§ 3 und 3a des Energiesteuergesetzes,
   b) § 9 Absatz 2 des Stromsteuergesetzes und
@@ -15,7 +16,7 @@ Steuerbegünstigungen im Sinne dieser Verordnung sind
   d) § 54 des Energiesteuergesetzes,
   e) § 55 des Energiesteuergesetzes,
   f) § 56 des Energiesteuergesetzes,
-  g) § 57 Absatz 5 Nummer 1 des Energiesteuergesetzes,
+  g) § 57 des Energiesteuergesetzes,
   h) § 9b des Stromsteuergesetzes,
   i) § 9c des Stromsteuergesetzes,
   j) § 10 des Stromsteuergesetzes,

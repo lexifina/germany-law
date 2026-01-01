@@ -20,4 +20,9 @@
   f) die Anzahl der behandelten Tiere,
   g) die Anzahl der Behandlungstage und
   h) die pseudonymisierten Angaben der Registriernummer des Betriebes, in dem die behandelten Tiere gehalten werden,
-8. Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten betrieblichen halbjährlichen Therapiehäufigkeit, bezogen auf den einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des Betriebs (§ 57 Absatz 1).
+8. Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten betrieblichen halbjährlichen Therapiehäufigkeit, bezogen auf den einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des Betriebs (§ 57 Absatz 1),
+9. Angaben nach § 61a Absatz 2 Satz 1 und 2:
+  a) pseudonymisierte Angabe des Namens der behandelnden Tierärztin oder des behandelnden Tierarztes oder des Namens der Praxis und der Praxisanschrift,
+  b) die Angaben nach den Nummern 4 bis 6 und 9 des Anhangs II zu der Verordnung (EU) 2022/209 in der Fassung vom 16. Februar 2022 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
+  c) die insgesamt verschriebene, angewendete oder abgegebene Menge dieser Arzneimittel und
+  d) die jeweilige Tierart der behandelten Tiere.

@@ -238,5 +238,6 @@
 - [§ 134 Übergangsvorschrift](0134.md)
 - [§ 135 Sonderregelung für Baden-Württemberg](0135.md)
 - [§ 136 Übergangsvorschrift zum 2. Kostenrechtsmodernisierungsgesetz](0136.md)
+- [§ 137 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0137.md)
 - [Anlage 1 (zu § 3 Absatz 2)Kostenverzeichnis](anlage-1.md)
 - [Anlage 2 (zu § 34 Absatz 3)](anlage-2.md)

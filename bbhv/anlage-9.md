@@ -7,69 +7,72 @@ Einige Therapiemaßnahmen sehen nach deren Durchführung eine Nachruhe vor. Der 
 | Nr. | Leistung | beihilfefähiger Höchstbetrag in Euro |
 |  | Bereich Inhalation |  |
 | 1 | Inhalationstherapie, auch mittels Ultraschallvernebelung |  |
-| a)als Einzelinhalation | 11,60 |
+| a)als Einzelinhalation | 12,10 |
 | b)als Rauminhalation in einer Gruppe, je Teilnehmerin oder Teilnehmer | 4,80 |
-| c)als Rauminhalation in einer Gruppe bei Anwendung ortsgebundener natürlicher Heilwässer, je Teilnehmerin oder TeilnehmerAufwendungen für die für Inhalationen erforderlichen Zusätze sind daneben gesondert beihilfefähig. | 7,50 |
+| c)als Rauminhalation in einer Gruppe bei Anwendung ortsgebundener natürlicher Heilwässer, je Teilnehmerin oder Teilnehmer | 7,50 |
+| Aufwendungen für die für Inhalationen erforderlichen Zusätze sind daneben gesondert beihilfefähig. |  |
 | 2 | Radon-Inhalation |  |
 | a)im Stollen | 14,90 |
 | b)mittels Hauben | 18,20 |
 |  | Bereich Krankengymnastik, Bewegungsübungen |  |
 | 3 | Physiotherapeutische Befundung und Berichte |  |
 | a)physiotherapeutische Erstbefundung zur Erstellung eines Behandlungsplans, einmal je Behandlungsfall | 16,50 |
-| b)physiotherapeutischer Bericht auf schriftliche Anforderung der verordnenden Person | 63,50 |
-| 4 | Krankengymnastik (KG), auch auf neurophysiologischer Grundlage, Atemtherapie, einschließlich der zur Leistungserbringung erforderlichen Massage, als Einzelbehandlung, Richtwert: 15 bis 25 Minuten | 27,80 |
-| 5 | Krankengymnastik auf neurophysiologischer Grundlage (KG-ZNS nach Bobath, Vojta, Propriozeptive Neuromuskuläre Fazilitation (PNF)) bei zentralen Bewegungsstörungen nach Vollendung des 18. Lebensjahres, als Einzelbehandlung, Richtwert: 25 bis 35 Minuten | 44,20 |
-| 6 | Krankengymnastik auf neurophysiologischer Grundlage (KG-ZNS-Kinder nach Bobath, Vojta) bei zentralen Bewegungsstörungen bis zur Vollendung des 18. Lebensjahres als Einzelbehandlung, Richtwert: 30 bis 45 Minuten | 55,20 |
-| 7 | Krankengymnastik (KG) in einer Gruppe (2 bis 5 Personen), je Teilnehmerin oder Teilnehmer, Richtwert: 20 bis 30 Minuten | 12,50 |
-| 8 | Krankengymnastik bei zerebralen Dysfunktionen in einer Gruppe (2 bis 4 Personen), je Teilnehmerin oder Teilnehmer, Richtwert: 20 bis 30 Minuten | 15,60 |
-| 9 | Krankengymnastik (Atemtherapie) insbesondere bei Mukoviszidose und schweren Bronchialerkrankungen als Einzelbehandlung, Richtwert: 60 Minuten | 83,50 |
+| b)physiotherapeutischer Bericht auf schriftliche Anforderung der verordnenden Person | 66,10 |
+| c)physiotherapeutische Diagnostik (PD), einmal je Blankoverordnung | 35,80 |
+| d)Bedarfsdiagnostik (BD), einmal je Blankoverordnung | 26,80 |
+| 4 | Krankengymnastik (KG), auch auf neurophysiologischer Grundlage, Atemtherapie, einschließlich der zur Leistungserbringung erforderlichen Massage, als Einzelbehandlung, Richtwert: 15 bis 25 Minuten | 29,00 |
+| 5 | Krankengymnastik auf neurophysiologischer Grundlage (KG-ZNS nach Bobath, Vojta, Propriozeptive Neuromuskuläre Fazilitation (PNF)) bei zentralen Bewegungsstörungen nach Vollendung des 18. Lebensjahres, als Einzelbehandlung, Richtwert: 25 bis 35 Minuten | 46,00 |
+| 6 | Krankengymnastik auf neurophysiologischer Grundlage (KG-ZNS-Kinder nach Bobath, Vojta) bei zentralen Bewegungsstörungen bis zur Vollendung des 18. Lebensjahres als Einzelbehandlung, Richtwert: 30 bis 45 Minuten | 57,40 |
+| 7 | Krankengymnastik (KG) in einer Gruppe (2 bis 5 Personen), je Teilnehmerin oder Teilnehmer, Richtwert: 20 bis 30 Minuten | 13,00 |
+| 8 | Krankengymnastik bei zerebralen Dysfunktionen in einer Gruppe (2 bis 4 Personen), je Teilnehmerin oder Teilnehmer, Richtwert: 20 bis 30 Minuten | 16,20 |
+| 9 | Krankengymnastik (Atemtherapie) insbesondere bei Mukoviszidose und schweren Bronchialerkrankungen als Einzelbehandlung, Richtwert: 60 Minuten | 86,80 |
 | 10 | Krankengymnastik im Bewegungsbad |  |
-| a)als Einzelbehandlung einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 31,80 |
-| b)in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 22,70 |
+| a)als Einzelbehandlung einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 33,10 |
+| b)in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 23,60 |
 | c)in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 15,60 |
-| 11 | Manuelle Therapie, Richtwert: 15 bis 25 Minuten | 33,40 |
-| 12 | Chirogymnastik (funktionelle Wirbelsäulengymnastik) als Einzelbehandlung, Richtwert: 15 bis 20 Minuten | 19,20 |
+| 11 | Manuelle Therapie, Richtwert: 15 bis 25 Minuten | 34,80 |
+| 12 | Chirogymnastik (funktionelle Wirbelsäulengymnastik) als Einzelbehandlung, Richtwert: 15 bis 20 Minuten | 20,00 |
 | 13 | Bewegungsübungen |  |
-| a)als Einzelbehandlung,Richtwert: 10 bis 20 Minuten | 12,90 |
-| b)in einer Gruppe (2 bis 5 Personen),Richtwert: 10 bis 20 Minuten | 8,00 |
+| a)als Einzelbehandlung,Richtwert: 10 bis 20 Minuten | 13,40 |
+| b)in einer Gruppe (2 bis 5 Personen),Richtwert: 10 bis 20 Minuten | 8,30 |
 | 14 | Bewegungsübungen im Bewegungsbad |  |
-| a)als Einzelbehandlung einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 31,20 |
-| b)in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 22,60 |
-| c)in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 15,60 |
-| 15 | Erweiterte ambulante Physiotherapie (EAP), Richtwert: 120 Minuten je Behandlungstag | 108,10 |
-| 16 | Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), je Sitzung für eine parallele Einzelbehandlung (bis zu 3 Personen), Richtwert: 60 Minuten, begrenzt auf maximal 25 Behandlungen je Kalenderhalbjahr | 52,40 |
-| 17 | Traktionsbehandlung mit Gerät (zum Beispiel Schrägbrett, Extensionstisch, Perl'sches Gerät, Schlingentisch) als Einzelbehandlung, Richtwert: 10 bis 20 Minuten | 8,80 |
+| a)als Einzelbehandlung einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 32,10 |
+| b)in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 23,50 |
+| c)in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer, einschließlich der erforderlichen Nachruhe,Richtwert: 20 bis 30 Minuten | 15,90 |
+| 15 | Erweiterte ambulante Physiotherapie (EAP), Richtwert: 120 Minuten je Behandlungstag | 115,30 |
+| 16 | Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), je Sitzung für eine parallele Einzelbehandlung (bis zu 3 Personen), Richtwert: 60 Minuten, begrenzt auf maximal 25 Behandlungen je Kalenderhalbjahr | 54,50 |
+| 17 | Traktionsbehandlung mit Gerät (beispielsweise Schrägbrett, Extensionstisch, Perlʼsches Gerät, Schlingentisch) als Einzelbehandlung, Richtwert: 10 bis 20 Minuten | 8,80 |
 |  | Bereich Massagen |  |
 | 18 | Massage eines einzelnen Körperteils oder mehrerer Körperteile |  |
-| a)Klassische Massagetherapie (KMT), Segment-, Periost-, Reflexzonen-, Bürsten- und Colonmassage,Richtwert: 15 bis 20 Minuten | 20,30 |
-| b)Bindegewebsmassage (BGM),Richtwert: 20 bis 30 Minuten | 24,40 |
+| a)Klassische Massagetherapie (KMT), Segment-, Periost-, Reflexzonen-, Bürsten- und Colonmassage,Richtwert: 15 bis 20 Minuten | 21,10 |
+| b)Bindegewebsmassage (BGM),Richtwert: 20 bis 30 Minuten | 25,40 |
 | 19 | Manuelle Lymphdrainage (MLD) |  |
-| a)Teilbehandlung,Richtwert: 30 Minuten | 33,80 |
-| b)Großbehandlung,Richtwert: 45 Minuten | 50,60 |
-| c)Ganzbehandlung,Richtwert: 60 Minuten | 67,50 |
-| d)Kompressionsbandagierung einer Extremität; Aufwendungen für das notwendige Polster- und Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Fließpolsterbinden) sind daneben beihilfefähig | 21,50 |
-| 20 | Unterwasserdruckstrahlmassage einschließlich der erforderlichen Nachruhe, Richtwert: 15 bis 20 Minuten | 31,70 |
+| a)Teilbehandlung,Richtwert: 30 Minuten | 35,10 |
+| b)Großbehandlung,Richtwert: 45 Minuten | 52,70 |
+| c)Ganzbehandlung,Richtwert: 60 Minuten | 70,20 |
+| d)Kompressionsbandagierung einer Extremität; Aufwendungen für das notwendige Polster- und Bindenmaterial (beispielsweise Mullbinden, Kurzzugbinden, Fließpolsterbinden) sind daneben beihilfefähig | 22,40 |
+| 20 | Unterwasserdruckstrahlmassage einschließlich der erforderlichen Nachruhe, Richtwert: 15 bis 20 Minuten | 33,00 |
 |  | Bereich Palliativversorgung |  |
 | 21 | Physiotherapeutische Komplexbehandlung in der Palliativversorgung, Richtwert: 60 Minuten | 66,00 |
 |  | Bereich Packungen, Hydrotherapie, Bäder |  |
 | 22 | Heiße Rolle einschließlich der erforderlichen Nachruhe, Richtwert: 10 bis 15 Minuten | 13,60 |
 | 23 | Warmpackung eines einzelnen Körperteils oder mehrerer Körperteile einschließlich der erforderlichen Nachruhe |  |
-| a)bei Anwendung wiederverwendbarer Packungsmaterialien (zum Beispiel Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm) | 15,60 |
+| a)bei Anwendung wiederverwendbarer Packungsmaterialien (beispielsweise Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm) | 15,80 |
 | b)bei Anwendung einmal verwendbarer natürlicher Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid, als Teilpackung | 36,20 |
 | c)bei Anwendung einmal verwendbarer natürlicher Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid, als Großpackung | 47,80 |
-| 24 | Schwitzpackung (zum Beispiel spanischer Mantel, Salzhemd, Dreiviertel-Packung nach Kneipp) einschließlich der erforderlichen Nachruhe | 19,70 |
+| 24 | Schwitzpackung (beispielsweise spanischer Mantel, Salzhemd, Dreiviertel-Packung nach Kneipp) einschließlich der erforderlichen Nachruhe | 19,70 |
 | 25 | Kaltpackung (Teilpackung) |  |
 | a)Anwendung von Lehm, Quark oder Ähnlichem | 10,20 |
 | b)Anwendung einmal verwendbarer Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid | 20,30 |
 | 26 | Heublumensack, Peloidkompresse | 12,10 |
-| 27 | Sonstige Packungen (z. B. Wickel, Auflagen, Kompressen), auch mit Zusatz | 6,10 |
+| 27 | Sonstige Packungen (beispielsweise Wickel, Auflagen, Kompressen), auch mit Zusatz | 6,10 |
 | 28 | Trockenpackung | 4,10 |
 | 29 | Guss |  |
 | a)Teilguss, Teilblitzguss, Wechselteilguss | 4,10 |
 | b)Vollguss, Vollblitzguss, Wechselvollguss | 6,10 |
 | c)Abklatschung, Abreibung, Abwaschung | 5,40 |
 | 30 | An- oder absteigendes Bad einschließlich der erforderlichen Nachruhe |  |
-| a)an- oder absteigendes Teilbad (zum Beispiel nach Hauffe) | 16,20 |
+| a)an- oder absteigendes Teilbad (beispielsweise nach Hauffe) | 16,20 |
 | b)an- oder absteigendes Vollbad (Überwärmungsbad) | 26,40 |
 | 31 | Wechselbad einschließlich der erforderlichen Nachruhe |  |
 | a)Teilbad | 12,10 |
@@ -77,7 +80,7 @@ Einige Therapiemaßnahmen sehen nach deren Durchführung eine Nachruhe vor. Der 
 | 32 | Bürstenmassagebad einschließlich der erforderlichen Nachruhe | 25,10 |
 | 33 | Naturmoorbad einschließlich der erforderlichen Nachruhe |  |
 | a)Teilbad | 43,30 |
-| b)Vollbad | 52,70 |
+| b)Vollbad | 54,10 |
 | 34 | Sandbad einschließlich der erforderlichen Nachruhe |  |
 | a)Teilbad | 37,90 |
 | b)Vollbad | 43,30 |
@@ -88,7 +91,7 @@ Einige Therapiemaßnahmen sehen nach deren Durchführung eine Nachruhe vor. Der 
 | c)Vollbad einschließlich der erforderlichen Nachruhe | 24,40 |
 | d)bei mehreren Zusätzen je weiterer Zusatz | 4,10 |
 | 37 | Gashaltige Bäder |  |
-| a)gashaltiges Bad (zum Beispiel Kohlensäurebad, Sauerstoffbad) einschließlich der erforderlichen Nachruhe | 26,10 |
+| a)gashaltiges Bad (beispielsweise Kohlensäurebad, Sauerstoffbad) einschließlich der erforderlichen Nachruhe | 27,10 |
 | b)gashaltiges Bad mit Zusatz einschließlich der erforderlichen Nachruhe | 29,70 |
 | c)Kohlendioxidgasbad (Kohlensäuregasbad) einschließlich der erforderlichen Nachruhe | 27,70 |
 | d)Radon-Bad einschließlich der erforderlichen Nachruhe | 24,40 |
@@ -97,80 +100,83 @@ Einige Therapiemaßnahmen sehen nach deren Durchführung eine Nachruhe vor. Der 
 |  | Bereich Kälte- und Wärmebehandlung |  |
 | 39 | Kältetherapie eines einzelnen Körperteils oder mehrerer Körperteile mit lokaler Applikation intensiver Kälte in Form von Eiskompressen, tiefgekühlten Eis- oder Gelbeuteln, direkter Abreibung, Kaltgas oder Kaltluft mit entsprechenden Apparaturen sowie Eisteilbädern in Fuß- oder Armbadewannen, Richtwert: 5 bis 10 Minuten | 12,90 |
 | 40 | Wärmetherapie eines einzelnen Körperteils oder mehrerer Körperteile mittels Heißluft, Richtwert: 10 bis 20 Minuten | 7,50 |
-| 41 | Ultraschall-Wärmetherapie, Richtwert: 10 bis 20 Minuten | 13,80 |
+| 41 | Ultraschall-Wärmetherapie, Richtwert: 10 bis 20 Minuten | 14,30 |
 |  | Bereich Elektrotherapie |  |
-| 42 | Elektrotherapie eines einzelnen Körperteils oder mehrerer Körperteile mit individuell eingestellten Stromstärken und Frequenzen, Richtwert: 10 bis 20 Minuten | 8,20 |
-| 43 | Elektrostimulation bei Lähmungen, Richtwert: je Muskelnerveinheit 5 bis 10 Minuten | 17,60 |
+| 42 | Elektrotherapie eines einzelnen Körperteils oder mehrerer Körperteile mit individuell eingestellten Stromstärken und Frequenzen, Richtwert: 10 bis 20 Minuten | 8,30 |
+| 43 | Elektrostimulation bei Lähmungen, Richtwert: je Muskelnerveinheit 5 bis 10 Minuten | 18,30 |
 | 44 | Iontophorese | 8,20 |
 | 45 | Hydroelektrisches Teilbad (Zwei- oder Vierzellenbad), Richtwert: 10 bis 20 Minuten | 14,90 |
-| 46 | Hydroelektrisches Vollbad (zum Beispiel Stangerbad), auch mit Zusatz, einschließlich der erforderlichen Nachruhe, Richtwert: 10 bis 20 Minuten | 29,00 |
+| 46 | Hydroelektrisches Vollbad (beispielsweise Stangerbad), auch mit Zusatz, einschließlich der erforderlichen Nachruhe, Richtwert: 10 bis 20 Minuten | 29,00 |
 |  | Bereich Stimm-, Sprech-, Sprach- und Schlucktherapie |  |
-| 47 | Stimm-, sprech-, sprach- und schlucktherapeutische Erstdiagnostik zur Erstellung eines Behandlungsplans, einmal je Behandlungsfall; bei Wechsel der Leistungserbringerin oder des Leistungserbringers innerhalb des Behandlungsfalls sind die Aufwendungen für eine erneute Erstdiagnostik beihilfefähig. Je Kalenderjahr sind Aufwendungen für bis zu zwei Einheiten Diagnostik (entweder eine Einheit Erstdiagnostik und eine Einheit Bedarfsdiagnostik oder zwei Einheiten Bedarfsdiagnostik) innerhalb eines Behandlungsfalls beihilfefähig, Richtwert: 60 Minuten | 111,20 |
-| 48 | Stimm-, sprech-, sprach- und schlucktherapeutische Bedarfsdiagnostik; je Kalenderjahr sind Aufwendungen für bis zu zwei Einheiten Diagnostik (entweder eine Einheit Erstdiagnostik und eine Einheit Bedarfsdiagnostik oder zwei Einheiten Bedarfsdiagnostik) innerhalb eines Behandlungsfalls beihilfefähig, Richtwert: 30 Minuten | 55,60 |
-| 49 | Bericht an die verordnende Person | 6,20 |
-| 50 | Bericht auf besondere Anforderung der verordnenden Person | 111,20 |
+| 47 | Stimm-, sprech-, sprach- und schlucktherapeutische Erstdiagnostik zur Erstellung eines Behandlungsplans, einmal je Behandlungsfall; bei Wechsel der Leistungserbringerin oder des Leistungserbringers innerhalb des Behandlungsfalls sind die Aufwendungen für eine erneute Erstdiagnostik beihilfefähig. Je Kalenderjahr sind Aufwendungen für bis zu zwei Einheiten Diagnostik (entweder eine Einheit Erstdiagnostik und eine Einheit Bedarfsdiagnostik oder zwei Einheiten Bedarfsdiagnostik) innerhalb eines Behandlungsfalls beihilfefähig, Richtwert: 60 Minuten | 117,30 |
+| 48 | Stimm-, sprech-, sprach- und schlucktherapeutische Bedarfsdiagnostik; je Kalenderjahr sind Aufwendungen für bis zu zwei Einheiten Diagnostik (entweder eine Einheit Erstdiagnostik und eine Einheit Bedarfsdiagnostik oder zwei Einheiten Bedarfsdiagnostik) innerhalb eines Behandlungsfalls beihilfefähig, Richtwert: 30 Minuten | 58,70 |
+| 49 | Bericht an die verordnende Person | 6,60 |
+| 50 | Bericht auf besondere Anforderung der verordnenden Person | 117,30 |
 | 51 | Einzelbehandlung bei Stimm-, Sprech-, Sprach- und Schluckstörungen |  |
-| a)Richtwert: 30 Minuten | 49,40 |
-| b)Richtwert: 45 Minuten | 68,00 |
-| c)Richtwert: 60 Minuten | 86,50 |
+| a)Richtwert: 30 Minuten | 52,20 |
+| b)Richtwert: 45 Minuten | 71,70 |
+| c)Richtwert: 60 Minuten | 91,30 |
 | 52 | Gruppenbehandlung bei Stimm-, Sprech-, Sprach- und Schluckstörungen, je Teilnehmerin oder Teilnehmer |  |
-| a)Gruppe (2 Personen),Richtwert: 45 Minuten | 61,20 |
+| a)Gruppe (2 Personen),Richtwert: 45 Minuten | 64,50 |
 | b)Gruppe (3 bis 5 Personen),Richtwert: 45 Minuten | 34,60 |
-| c)Gruppe (2 Personen),Richtwert: 90 Minuten | 111,20 |
-| d)Gruppe (3 bis 5 Personen),Richtwert: 90 Minuten | 56,10 |
+| c)Gruppe (2 Personen),Richtwert: 90 Minuten | 117,30 |
+| d)Gruppe (3 bis 5 Personen),Richtwert: 90 Minuten | 58,70 |
 |  | Bereich Ergotherapie |  |
-| 53 | Funktionsanalyse und Erstgespräch einschließlich Beratung und Behandlungsplanung, einmal je Behandlungsfall | 41,80 |
+| 53 | Funktionsanalyse und Erstgespräch einschließlich Beratung und Behandlungsplanung, einmal je Behandlungsfall | 47,70 |
 | 54 | Einzelbehandlung |  |
-| a)bei motorisch-funktionellen Störungen,Richtwert: 45 Minuten | 45,20 |
-| b)bei sensomotorischen oder perzeptiven Störungen,Richtwert: 60 Minuten | 60,90 |
-| c)bei psychisch-funktionellen Störungen,Richtwert: 75 Minuten | 76,20 |
+| a)bei motorisch-funktionellen Störungen,Richtwert: 45 Minuten | 57,00 |
+| b)bei sensomotorischen oder perzeptiven Störungen,Richtwert: 60 Minuten | 76,00 |
+| c)bei psychisch-funktionellen Störungen,Richtwert: 75 Minuten | 94,90 |
 | 55 | Einzelbehandlung als Beratung zur Integration in das häusliche und soziale Umfeld im Rahmen eines Besuchs im häuslichen oder sozialen Umfeld, einmal je Behandlungsfall |  |
-| a)bei motorisch-funktionellen Störungen,Richtwert: 120 Minuten | 135,60 |
+| a)bei motorisch-funktionellen Störungen,Richtwert: 120 Minuten | 151,90 |
 | b)bei sensomotorischen oder perzeptiven Störungen,Richtwert: 120 Minuten | 182,60 |
 | c)bei psychisch-funktionellen Störungen,Richtwert: 120 Minuten | 152,40 |
 | 56 | Parallelbehandlung (bei Anwesenheit von zwei zu behandelnden Personen) |  |
-| a)bei motorisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 45 Minuten | 35,90 |
-| b)bei sensomotorischen oder perzeptiven Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 60 Minuten | 48,70 |
-| c)bei psychisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 75 Minuten | 60,30 |
+| a)bei motorisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 45 Minuten | 45,60 |
+| b)bei sensomotorischen oder perzeptiven Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 60 Minuten | 60,80 |
+| c)bei psychisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 75 Minuten | 76,00 |
 | 57 | Gruppenbehandlung (3 bis 6 Personen) |  |
-| a)bei motorisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 45 Minuten | 16,50 |
-| b)bei sensomotorischen oder perzeptiven Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 60 Minuten | 21,40 |
-| c)bei psychisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 105 Minuten | 39,30 |
-| 58 | Hirnleistungstraining/Neuropsychologisch orientierte Einzelbehandlung, Richtwert: 45 Minuten | 50,10 |
+| a)bei motorisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 45 Minuten | 20,00 |
+| b)bei sensomotorischen oder perzeptiven Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 60 Minuten | 26,60 |
+| c)bei psychisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,Richtwert: 105 Minuten | 46,50 |
+| 58 | Hirnleistungstraining/Neuropsychologisch orientierte Einzelbehandlung, Richtwert: 45 Minuten | 57,00 |
 | 59 | Hirnleistungstraining als Einzelbehandlung bei der Beratung zur Integration in das häusliche und soziale Umfeld im Rahmen eines Besuchs im häuslichen oder sozialen Umfeld, einmal je Behandlungsfall, Richtwert: 120 Minuten | 152,40 |
-| 60 | Hirnleistungstraining als Parallelbehandlung bei Anwesenheit von zwei zu behandelnden Personen, je Teilnehmerin oder Teilnehmer, Richtwert: 45 Minuten | 39,40 |
-| 61 | Hirnleistungstraining als Gruppenbehandlung, je Teilnehmerin oder Teilnehmer, Richtwert: 60 Minuten | 21,40 |
+| 60 | Hirnleistungstraining als Parallelbehandlung bei Anwesenheit von zwei zu behandelnden Personen, je Teilnehmerin oder Teilnehmer, Richtwert: 45 Minuten | 45,60 |
+| 61 | Hirnleistungstraining als Gruppenbehandlung, je Teilnehmerin oder Teilnehmer, Richtwert: 60 Minuten | 26,60 |
 |  | Bereich Podologie |  |
-| 62 | Podologische Behandlung (klein), Richtwert: 35 Minuten | 34,20 |
-| 63 | Podologische Behandlung (groß), Richtwert: 50 Minuten | 49,20 |
-| 64 | Podologische Befundung, je Behandlung | 3,40 |
+| 62 | Podologische Behandlung (klein), Richtwert: 35 Minuten | 36,10 |
+| 63 | Podologische Behandlung (groß), Richtwert: 50 Minuten | 52,00 |
+| 64 | Podologische Befundung, je Behandlung | 3,60 |
 | 65 | Erst- und Eingangsbefundung |  |
-| a)Erstbefundung (klein),Richtwert: 20 Minuten | 27,20 |
-| b)Erstbefundung (groß), einmal je Kalenderjahr,Richtwert: 45 Minuten | 54,50 |
-| c)Eingangsbefundung, einmal je LeistungserbringerRichtwert: 20 Minuten | 21,90 |
-| 66 | Therapiebericht auf schriftliche Anforderung der verordnenden Person | 16,40 |
-| 67 | Anpassung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, z. B. nach Ross Fraser | 96,40 |
-| 68 | Fertigung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, z. B. nach Ross Fraser | 52,80 |
-| 69 | Nachregulierung der einteiligen unilateralen oder bilateralen Nagelkorrekturspange, z. B. nach Ross Fraser | 48,30 |
-| 70 | Vorbereitung des Nagels, Anpassung und Aufsetzen einer mehrteiligen bilateralen Nagelkorrekturspange | 92,00 |
-| 71 | Vorbereitung des Nagels, Anpassung und Aufsetzen einer einteiligen Kunststoff- oder Metall-Nagelkorrekturspange | 52,60 |
-| 72 | Indikationsspezifische Kontrolle auf Sitz- und Passgenauigkeit | 16,80 |
-| 73 | Behandlungsabschluss, ggf. einschließlich der Entfernung der Nagelkorrekturspange | 25,20 |
+| a)Erstbefundung (klein),Richtwert: 20 Minuten | 28,70 |
+| b)Erstbefundung (groß), einmal je Kalenderjahr,Richtwert: 45 Minuten | 57,60 |
+| c)Eingangsbefundung, einmal je Leistungserbringer,Richtwert: 20 Minuten | 23,20 |
+| 66 | Therapiebericht auf schriftliche Anforderung der verordnenden Person | 17,40 |
+| 67 | Anpassung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, beispielsweise nach Ross Fraser | 101,70 |
+| 68 | Fertigung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, beispielsweise nach Ross Fraser | 55,70 |
+| 69 | Nachregulierung der einteiligen unilateralen oder bilateralen Nagelkorrekturspange, beispielsweise nach Ross Fraser | 51,00 |
+| 70 | Vorbereitung des Nagels, Anpassung und Aufsetzen einer mehrteiligen bilateralen Nagelkorrekturspange | 99,90 |
+| 71 | Vorbereitung des Nagels, Anpassung und Aufsetzen einer einteiligen Kunststoff- oder Metall-Nagelkorrekturspange | 55,20 |
+| 72 | Indikationsspezifische Kontrolle auf Sitz- und Passgenauigkeit | 17,70 |
+| 73 | Behandlungsabschluss, ggf. einschließlich der Entfernung der Nagelkorrekturspange | 26,60 |
+| 73.1 | Nagelspangenbehandlung, zweimal je Behandlungstag Aufwendungen für Leistungen der Nummern 67 bis 71 sind daneben nicht beihilfefähig. | 57,20 |
+| 73.2 | Aufschlag für besonderen Aufwand bei der Behandlung von Kindern bis zur Vollendung des 14. Lebensjahres oder von Personen mit Unguis incarnatus in den Stadien 2 bis 3 (Diagnosegruppe UI2), zweimal je Behandlungstag Aufwendungen für Leistungen der Nummern 67 bis 71 sind daneben nicht beihilfefähig. | 17,40 |
 |  | Bereich Ernährungstherapie |  |
-| 74 | Ernährungstherapeutische Anamnese, einmal je Behandlungsfall Richtwert: 30 Minuten | 38,70 |
-| 75 | Ernährungstherapeutische Anamnese, einmal je Behandlungsfall Richtwert: 60 Minuten | 77,40 |
-| 76 | Berechnung und Auswertung von Ernährungsprotokollen und Entwicklung entsprechender individueller Empfehlungen, Richtwert: 60 Minuten | 63,40 |
-| 77 | Notwendige Abstimmung der Therapie mit einer dritten Partei | 63,40 |
-| 78 | Ernährungstherapeutische Intervention als Einzelbehandlung, Richtwert: 30 Minuten | 38,70 |
-| 79 | Ernährungstherapeutische Intervention als Einzelbehandlung, Richtwert: 60 Minuten | 77,40 |
-| 80 | Ernährungstherapeutische Intervention im häuslichen oder sozialen Umfeld als Einzelbehandlung, Richtwert: 60 Minuten | 77,40 |
-| 81 | Ernährungstherapeutische Intervention als Gruppenbehandlung, Richtwert: 30 Minuten | 27,10 |
-| 82 | Ernährungstherapeutische Intervention als Gruppenbehandlung, Richtwert: 60 Minuten | 54,20 |
+| 74 | Ernährungstherapeutische Anamnese, einmal je Behandlungsfall, Richtwert: 30 Minuten | 40,90 |
+| 75 | Ernährungstherapeutische Anamnese, einmal je Behandlungsfall, Richtwert: 60 Minuten | 81,70 |
+| 76 | Berechnung und Auswertung von Ernährungsprotokollen und Entwicklung entsprechender individueller Empfehlungen, Richtwert: 60 Minuten | 66,90 |
+| 77 | Notwendige Abstimmung der Therapie mit einer dritten Partei | 66,90 |
+| 78 | Ernährungstherapeutische Intervention als Einzelbehandlung, Richtwert: 30 Minuten | 40,90 |
+| 79 | Ernährungstherapeutische Intervention als Einzelbehandlung, Richtwert: 60 Minuten | 81,70 |
+| 80 | Ernährungstherapeutische Intervention im häuslichen oder sozialen Umfeld als Einzelbehandlung, Richtwert: 60 Minuten | 81,70 |
+| 81 | Ernährungstherapeutische Intervention als Gruppenbehandlung, Richtwert: 30 Minuten | 28,60 |
+| 82 | Ernährungstherapeutische Intervention als Gruppenbehandlung, Richtwert: 60 Minuten | 57,20 |
 |  | Bereich Sonstiges |  |
-| 83 | Ärztlich verordneter Hausbesuch einschließlich der Fahrtkosten, pauschal Werden auf demselben Weg mehrere Patientinnen oder Patienten besucht, sind die Aufwendungen nur anteilig je Patientin oder Patient beihilfefähig. | 22,40 |
-| 84 | Besuch einer Patientin oder eines Patienten oder mehrerer Patientinnen oder Patienten in einer sozialen Einrichtung oder Gemeinschaft, einschließlich der Fahrtkosten, je Patientin oder Patient pauschal | 14,70 |
-| 85 | Hausbesuch bei der Beratung im häuslichen und sozialen Umfeld (Mehraufwand) Der Hausbesuch ist nur beihilfefähig, wenn Leistungen nach Nummer 55 Buchstabe a bis c, Nummer 59 oder Nummer 80 ohne ärztlich verordneten Hausbesuch erbracht wurden. Aufwendungen für Leistungen der Nummern 83 und 84 sind daneben nicht beihilfefähig. | 22,40 |
+| 83 | Ärztlich verordneter Hausbesuch einschließlich der Fahrtkosten, pauschal Werden auf demselben Weg mehrere Patientinnen oder Patienten besucht, sind die Aufwendungen nur anteilig je Patientin oder Patient beihilfefähig. | 27,60 |
+| 84 | Besuch einer Patientin oder eines Patienten oder mehrerer Patientinnen oder Patienten in einer sozialen Einrichtung oder Gemeinschaft, einschließlich der Fahrtkosten, je Patientin oder Patient pauschal | 18,00 |
+| 85 | Hausbesuch bei der Beratung im häuslichen und sozialen Umfeld (Mehraufwand) Der Hausbesuch ist nur beihilfefähig, wenn Leistungen nach Nummer 55 Buchstabe a bis c, Nummer 59 oder Nummer 80 ohne ärztlich verordneten Hausbesuch erbracht wurden. Aufwendungen für Leistungen der Nummern 83 und 84 sind daneben nicht beihilfefähig. | 27,60 |
 | 86 | Übermittlungsgebühr für Mitteilung oder Bericht an die verordnende Person | 1,40 |
+| 87 | Versorgungsbezogene Pauschale je Blankoverordnung | 98,60 |
 Abschnitt 2
 Erweiterte ambulante Physiotherapie
 1. Aufwendungen für eine EAP nach Abschnitt 1 Nummer 15 sind nur dann beihilfefähig, wenn die Therapie in einer Einrichtung, die durch die gesetzlichen Krankenkassen oder Berufsgenossenschaften zur ambulanten Rehabilitation oder zur EAP zugelassen ist und bei einer der folgenden Indikationen angewendet wird:
@@ -187,7 +193,7 @@ Erweiterte ambulante Physiotherapie
     aa) Schulterprothesen,
     bb) Knieendoprothesen,
     cc) Hüftendoprothesen,
-  d) operativ oder konservativ behandelte Gelenkerkrankungen, einschließlich Instabilitäten bei
+  d) operativ oder konservativ behandelte Gelenkerkrankungen, einschließlich Instabilitäten, bei
     aa) Kniebandrupturen (Ausnahme isoliertes Innenband),
     bb) Schultergelenkläsionen, insbesondere nach
       aaa) operativ versorgter Bankard-Läsion,

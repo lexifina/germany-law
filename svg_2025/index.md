@@ -108,7 +108,7 @@
 ### Abschnitt 3 Versorgung der Hinterbliebenen von Soldatinnen und Soldaten
 
 - [§ 56 Bezüge für den Sterbemonat und Sterbegeld für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten](0056.md)
-- [§ 57 Laufende Unterstützung für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten](0057.md)
+- [§ 57 Laufende Unterstützung für Hinterbliebene von Soldatinnen auf Zeit und Soldaten auf Zeit](0057.md)
 - [§ 58 Versorgung der Hinterbliebenen nach einem Einsatzunfall von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, nach § 58b oder nach dem Vierten Abschnitt des Soldatengesetzes leisten](0058.md)
 - [§ 59 Hinterbliebene von Berufssoldatinnen und Berufssoldaten](0059.md)
 - [§ 60 Bezüge bei Verschollenheit](0060.md)

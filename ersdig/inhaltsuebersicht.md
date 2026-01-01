@@ -3,7 +3,7 @@
 Abschnitt 1
 Aufgaben und Organisation des Zivildienstes
 | § 1 | Aufgaben des Zivildienstes |
-| § 1a | Aussetzung der Verpflichtung zur Ableistung des Zivildienstes |
+| § 1a | Anwendung dieses Gesetzes |
 | § 2 | Organisation des Zivildienstes |
 | § 2a | Beirat für den Zivildienst |
 | § 3 | Dienststellen |
@@ -23,7 +23,7 @@ Tauglichkeit, Zivildienstausnahmen
 | § 14 | Zivilschutz oder Katastrophenschutz |
 | § 14a | Entwicklungsdienst |
 | § 14b | Andere Dienste im Ausland |
-| § 14c | Freiwilliges Jahr |
+| § 14c | Freiwilligendienst |
 | § 15 | Sondervorschriften für Angehörige des Polizeivollzugsdienstes |
 | § 15a | Freies Arbeitsverhältnis |
 | § 16 | Unabkömmlichstellung |

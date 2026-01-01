@@ -15,7 +15,7 @@
 - [§ 6 Erstattungsfähige Aufwendungen](0006.md)
 - [§ 7 Erstattungsfähige Aufwendungen bei Traumatisierung](0007.md)
 - [§ 8 Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke](0008.md)
-- [§ 9 Krankenhausleistungen und Rehabilitationsmaßnahmen](0009.md)
+- [§ 9 Krankenhausleistungen, Rehabilitationsmaßnahme und Leistungen der Übergangspflege im Krankenhaus](0009.md)
 - [§ 10 Pflege](0010.md)
 - [§ 11 Haushaltshilfe](0011.md)
 - [§ 12 Fahrten](0012.md)

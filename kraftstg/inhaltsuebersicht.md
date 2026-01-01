@@ -20,7 +20,8 @@
 | § 10b | Sonderregelung für besonders emissionsreduzierte Personenkraftwagen |
 | § 11 | Entrichtungszeiträume |
 | § 12 | Steuerfestsetzung |
-| §§ 12a u. 12b | (weggefallen) |
+| § 12a | Steuererklärungspflicht |
+| § 12b | (weggefallen) |
 | § 13 | Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung |
 | § 14 | Außerbetriebsetzung von Amts wegen |
 | § 15 | Ermächtigungen |

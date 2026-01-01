@@ -82,6 +82,7 @@ Bestimmungen für Erdgas
 | § 42 | Differenzversteuerung |
 | § 43 | Steuerentstehung, Auffangtatbestand |
 | § 44 | Steuerbefreiung, Erlaubnis, Zweckwidrigkeit |
+| § 44a | Datenübermittlung |
 Kapitel 5
 Steuerentlastung
 | § 45 | Begriffsbestimmung |
@@ -89,7 +90,7 @@ Steuerentlastung
 | § 47 | Steuerentlastung bei Aufnahme in Betriebe und bei steuerfreien Zwecken |
 | § 47a | Steuerentlastung für den Eigenverbrauch |
 | § 48 | Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem Gasöl |
-| § 49 | Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse |
+| § 49 | Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse |
 | § 50 | (weggefallen) |
 | § 51 | Steuerentlastung für bestimmte Prozesse und Verfahren |
 | § 52 | Steuerentlastung für die Schiff- und Luftfahrt |
@@ -97,7 +98,7 @@ Steuerentlastung
 | § 53a | Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme |
 | § 53b | (weggefallen) |
 | § 54 | Steuerentlastung für Unternehmen |
-| § 55 | Steuerentlastung für Unternehmen in Sonderfällen |
+| § 55 | (weggefallen) |
 | § 56 | Steuerentlastung für den Öffentlichen Personennahverkehr |
 | § 57 | Steuerentlastung für Betriebe der Land- und Forstwirtschaft |
 | § 58 | Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO) |
@@ -113,8 +114,8 @@ Schlussbestimmungen
 | § 65 | Sicherstellung |
 | § 66 | Ermächtigungen |
 | § 66a | (weggefallen) |
-| § 66b | Ermächtigung zu § 55 Absatz 4, 5 und 8 |
+| § 66b | (weggefallen) |
 | § 66c | Bußgeldvorschriften |
 | § 67 | Übergangsvorschriften |
-| § 68 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
-| Anlage | (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität |
+| § 68 | (weggefallen) |
+| Anlage | (weggefallen) |

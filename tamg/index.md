@@ -102,6 +102,7 @@
 - [§ 42 Grundsatz](0042.md)
 - [§ 43 Apothekenpflicht](0043.md)
 - [§ 44 Tierärztliches Dispensierrecht](0044.md)
+- [§ 44a Versand verschreibungspflichtiger Tierarzneimittel](0044a.md)
 - [§ 45 Weitere Vorschriften zur Abgabe; Verordnungsermächtigung](0045.md)
 - [§ 46 Abgabe von Mustern](0046.md)
 - [§ 47 Abgabe verschreibungspflichtiger Tierarzneimittel und veterinärmedizintechnischer Produkte](0047.md)
@@ -126,17 +127,22 @@
 - [§ 60 Resistenzmonitoring](0060.md)
 - [§ 61 Verordnungsermächtigungen](0061.md)
 
-### Unterabschnitt 6 Sicherung und Kontrolle der Qualität
+### Unterabschnitt 6 Vorschriften zu tierärztlichen Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578
+
+- [§ 61a Tierärztliche Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578](0061a.md)
+- [§ 61b Verarbeitung und Übermittlung von nach § 61a erhobenen Daten](0061b.md)
+
+### Unterabschnitt 7 Sicherung und Kontrolle der Qualität
 
 - [§ 62 Verordnungsermächtigung zur Regelung von Betriebsverordnungen](0062.md)
 - [§ 63 Arzneibuch und amtliche Sammlung von Untersuchungsverfahren](0063.md)
 
-### Unterabschnitt 7 Zuständigkeit
+### Unterabschnitt 8 Zuständigkeit
 
 - [§ 64 Zuständige Behörde](0064.md)
 - [§ 65 Zuständige Bundesoberbehörde, Verordnungsermächtigung](0065.md)
 
-### Unterabschnitt 8 Überwachung
+### Unterabschnitt 9 Überwachung
 
 - [§ 66 Gegenseitige Information](0066.md)
 - [§ 67 Verwendung bestimmter Daten](0067.md)
@@ -149,17 +155,18 @@
 - [§ 74 Duldungs-, Mitwirkungs- und Übermittlungspflichten](0074.md)
 - [§ 75 Probenahme bei Tierarzneimitteln und veterinärmedizintechnischen Produkten, die unter Verwendung von Fernkommunikationsmitteln angeboten werden](0075.md)
 - [§ 76 Maßnahmen der zuständigen Behörden](0076.md)
+- [§ 76a Mitwirkung der Zollbehörden](0076a.md)
 - [§ 77 Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können](0077.md)
 
-### Unterabschnitt 9 Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei
+### Unterabschnitt 10 Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei
 
 - [§ 78 Anwendung und Vollzug des Gesetzes; Verordnungsermächtigung](0078.md)
 
-### Unterabschnitt 10 Allgemeine Anzeigepflicht
+### Unterabschnitt 11 Allgemeine Anzeigepflicht
 
 - [§ 79 Allgemeine Anzeigepflicht](0079.md)
 
-### Unterabschnitt 11 Sonstige Durchführungsbestimmungen
+### Unterabschnitt 12 Sonstige Durchführungsbestimmungen
 
 - [§ 80 Unabhängigkeit](0080.md)
 - [§ 81 Verordnungsermächtigungen für Krisenzeiten](0081.md)
@@ -181,7 +188,8 @@
 
 - [§ 92 Übergangsvorschriften aus Anlass des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften](0092.md)
 - [§ 93 Weitere Anwendung von Vorschriften](0093.md)
-- [§ 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln](0094.md)
-- [§ 95 Evaluierung](0095.md)
+- [§ 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln und zur Änderung weiterer Vorschriften](0094.md)
+- [§ 95 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes](0095.md)
+- [§ 96 Evaluierung](0096.md)
 - [Anlage 1 (zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)Einteilung der Nutzungsarten](anlage-1.md)
 - [Anlage 2 (zu § 57 Absatz 3 Satz 3)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2.md)

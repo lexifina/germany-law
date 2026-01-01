@@ -103,7 +103,7 @@
 | Übergangs- und Schlussvorschriften |
 | § 59b | Bekanntmachung von Neufassungen |
 | § 60 | Übergangsvorschrift |
-| § 61 | Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes |
+| § 61 | Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen |
 | § 62 | Verfahren nach dem Therapieunterbringungsgesetz |
 |  |
 | Anlage 1 (zu § 2 Abs. 2) |
