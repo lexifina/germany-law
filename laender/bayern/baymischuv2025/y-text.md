@@ -1,0 +1,1 @@
+Auf Grund des § 556d Abs. 2 Satz 1, des § 558 Abs. 3 Satz 3 und des § 577a Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs (BGB) in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), das zuletzt durch Art. 1 des Gesetzes vom 17. Juli 2025 (BGBl. 2025 I Nr. 163) geändert worden ist, verordnet die Bayerische Staatsregierung:
