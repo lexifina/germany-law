@@ -1,1 +1,1 @@
-# Verordnung über die Ausbildung und Prüfung in der Pflegefachhilfe vom 20. Dezember 2022
+# Verordnung über die Ausbildung und Prüfung in der Pflegefachhilfe (Bremische Pflegefachhilfeverordnung - BremPFHV) vom 20. März 2026

@@ -1,6 +1,7 @@
-# Anlage 2 - Anlage 2: Übersicht über die Lernfelder
+# Anlage 2 - Übersicht über die Lernfelder
 Anlage 2
-Anlage 2: Übersicht über die Lernfelder
+(zu § 1 Absatz 2, § 2 Absatz 1, § 7 Absatz 3, § 14 Absatz 2 Satz 2 und § 15 Absatz 1)
+Übersicht über die Lernfelder
 LF Nr. | Titel des Lernfeldes | Std.
 1 | Einführung in die Ausbildung | 40
 2 | Menschen in ihrer Orientierung, Beweglichkeit und der Bewältigung des Alltags unterstützen | 120
