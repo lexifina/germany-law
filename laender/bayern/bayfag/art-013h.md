@@ -1,0 +1,4 @@
+# Art. 13h Straßenausbaupauschalen
+(1) Die Gemeinden erhalten nach Maßgabe der Bewilligung im Staatshaushalt zu Straßenausbaubeitragsmaßnahmen im Sinn des Art. 5 Abs. 1 Satz 3 Halbsatz 1 des Kommunalabgabengesetzes (KAG) pauschale Zuweisungen (Straßenausbaupauschalen). Gemeinden dürfen die Straßenausbaupauschalen auch für investive Maßnahmen an Erschließungsanlagen verwenden, bei denen am 1. April 2021 seit dem Beginn der erstmaligen technischen Herstellung mindestens 25 Jahre vergangen sind.
+(2) Die für die Straßenausbaupauschalen zur Verfügung stehende Finanzmasse wird nach dem Verhältnis der Siedlungsflächen verteilt.
+(3) Soweit die nach Abs. 2 berechneten Straßenausbaupauschalen einen Mindestbetrag von 10 000 € unterschreiten, werden sie auf diesen Mindestbetrag erhöht; die hierfür benötigten Mittel werden der für die Straßenausbaupauschalen zur Verfügung stehenden Finanzmasse vorweg entnommen.

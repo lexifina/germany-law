@@ -1,0 +1,2 @@
+# Art. 10c Bau von Abfallentsorgungsanlagen
+Der Staat gewährt Gemeinden, Gemeindeverbänden und anderen natürlichen oder juristischen Personen, auf die Gemeinden und Gemeindeverbände mittelbar oder unmittelbar einen beherrschenden Einfluss ausüben können, nach Maßgabe der Bewilligung im Staatshaushalt Zuwendungen zum Bau von Abfallentsorgungsanlagen im Sinn von Art. 23 des Bayerischen Abfallwirtschaftsgesetzes.

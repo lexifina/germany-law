@@ -1,0 +1,2 @@
+# Art. 13e Sanierung von Abwasserentsorgungsanlagen in Härtefällen
+Vom Kommunalanteil am Kraftfahrzeugsteuerersatzverbund können jährlich bis zu 165 000 000 € für den Bau von Abwasserentsorgungsanlagen verwendet werden. Unter Berücksichtigung der Dringlichkeit können bis zu 40 Prozent der Mittel nach Satz 1 auch für Zuweisungen zum Bau von Wasserversorgungsanlagen verwendet werden. Die Mittel nach den Sätzen 1 und 2 dienen zur Abfinanzierung der Förderung von Ersterschließungsmaßnahmen und können in Härtefällen auch für Sanierungsmaßnahmen eingesetzt werden.
