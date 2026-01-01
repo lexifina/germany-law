@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums der Finanzen zur Aufteilung der Schlüsselmassen nach § 4 des Sächsischen Finanzausgleichsgesetzes im Jahr 2026 (Schlüsselmassenverordnung 2026)
+Vom 2. Oktober 2025
+Das Staatsministerium der Finanzen verordnet aufgrund des § 31 Absatz 8 des Sächsischen Finanzausgleichsgesetzes in der Fassung der Bekanntmachung vom 23. April 2021 (SächsGVBl. S. 487), das zuletzt durch Artikel 2 des Gesetzes vom 27. Juni 2025 (SächsGVBl. S. 296) geändert worden ist, im Benehmen mit dem Staatsministerium des Innern und nach Anhörung des Beirates für den kommunalen Finanzausgleich:
