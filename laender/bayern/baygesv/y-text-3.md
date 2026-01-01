@@ -1,0 +1,1 @@
+verordnet das Bayerische Staatsministerium für Gesundheit und Pflege, soweit erforderlich im Einvernehmen mit den Bayerischen Staatsministerien des Innern, für Bau und Verkehr, der Justiz, für Bildung und Kultus, Wissenschaft und Kunst sowie für Umwelt und Verbraucherschutz:
