@@ -1,0 +1,3 @@
+# § 13a Stichtag, Befreiung von der Pflicht zur Beschaffung übriger Lernmittel (zu Art. 21 BaySchFG)
+(1) Maßgeblicher Stichtag für die Amtlichen Schuldaten gemäß Art. 21 Abs. 3 Satz 3 BaySchFG ist der 1. Oktober, bei beruflichen Schulen und beruflichen Schulen zur sonderpädagogischen Förderung der 20. Oktober.
+(2) Die Befreiung von der Pflicht, die Atlanten für den Geographieunterricht und Formelsammlungen für den Mathematik- und Physikunterricht zu beschaffen, bei Bezug von Kindergeld oder vergleichbaren Leistungen für drei oder mehr Kinder ab dem dritten Kind beginnt mit dem jüngsten der drei Kinder.

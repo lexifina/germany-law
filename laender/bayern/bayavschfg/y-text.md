@@ -1,0 +1,1 @@
+Auf Grund von Art. 27 und 60 Satz 2 Nrn. 1, 2, 3, 6, 8, 9 und 10 des Bayerischen Schulfinanzierungsgesetzes (BaySchFG) erläßt das Bayerische Staatsministerium für Unterricht, Kultus, Wissenschaft und Kunst im Einvernehmen mit den Bayerischen Staatsministerien der Finanzen und des Innern folgende Verordnung:

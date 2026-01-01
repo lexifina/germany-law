@@ -1,0 +1,3 @@
+# § 13b Staatliche Zuweisungen (zu Art. 22 BaySchFG)
+(1) Das Landesamt für Statistik berechnet die pauschalierten Zuweisungen nach Art. 22 Abs. 1 Satz 2 BaySchFG und erlässt die Zuweisungsbescheide. Grundlage der Berechnung der pauschalierten Zuweisungen sind die Schülerzahlen des vorangegangenen Schuljahres. Zwei Drittel der Zuweisungen werden den kommunalen Trägern des Sachaufwands zu Beginn des Schuljahres, das verbleibende Drittel im Laufe des zweiten Schulhalbjahres ausgezahlt. Im Zusammenhang mit der Auszahlung des verbleibenden Drittels werden gleichzeitig Unrichtigkeiten ausgeglichen, die insbesondere infolge unzutreffender Angaben zu den Amtlichen Schuldaten entstanden sind.
+(2) Die staatlichen Zuweisungen sind in die folgenden Haushaltsjahre übertragbar.
