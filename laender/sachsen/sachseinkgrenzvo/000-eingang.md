@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Infrastruktur und Landesentwicklung über die Einkommensgrenzen nach dem Wohnraumförderungsgesetz (Sächsische Einkommensgrenzen-Verordnung – SächsEinkGrenzVO)
+Vom 2. Dezember 2025
+Das Staatsministerium für Infrastruktur und Landesentwicklung verordnet aufgrund des § 9 Absatz 3 Satz 1 des Wohnraumförderungsgesetzes vom 13. September 2001 (BGBl. I S. 2376), das zuletzt durch Artikel 12 Absatz 15 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2328) geändert worden ist, und des § 3 des Gesetzes über die Zuständigkeiten auf dem Gebiet der sozialen Wohnraumförderung vom 6. Oktober 2013 (SächsGVBl. S. 804), das durch Artikel 12 der Verordnung vom 12. April 2021 (SächsGVBl. S. 517) geändert worden ist:
