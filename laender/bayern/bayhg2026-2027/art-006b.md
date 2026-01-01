@@ -1,0 +1,4 @@
+# Art. 6b Sperre frei werdender Stellen ab 2026
+(1) In den Jahren 2026 bis 2028 sind insgesamt 1 000 frei werdende Stellen für Beamte, Richter und Arbeitnehmer zu sperren. Stellen im Sinne des Satzes 1 sind Stellen, die der Stellenbindung gemäß Art. 6 Abs. 1 Satz 1 unterliegen oder für die der Abschluss unbefristeter Arbeitsverhältnisse zugelassen ist. In die Sperre nicht einbezogen werden Stellen für Beamte auf Widerruf im Vorbereitungsdienst, Auszubildende und Dienstanfänger sowie Leerstellen, Stellen für abgeordnete Beamte und Ersatzstellen.
+(2) Die Sperre verteilt sich auf die Einzelpläne 02 bis 10, 12 und 14 bis 16. Innerhalb der Einzelpläne verteilt sich die Sperre auf alle Kapitel.
+(3) Die nach den Abs. 1 und 2 gesperrten Stellen sind in den Haushaltsjahren 2029 und 2030 einzuziehen. Über die Berücksichtigung von Stellen, die im Stellenplan als künftig wegfallend bezeichnet sind, entscheidet das Staatsministerium der Finanzen und für Heimat.
