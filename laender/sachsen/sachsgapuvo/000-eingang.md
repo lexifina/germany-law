@@ -1,5 +1,6 @@
 # Verordnung der Sächsischen Staatsregierung zur Umsetzung der Gemeinsamen Agrarpolitik (Sächsische GAP-Umsetzungsverordnung – SächsGAPUVO)
 Vom 2. Januar 2023
+Rechtsbereinigt mit Stand vom 1. Januar 2026
 Auf Grund
 – des § 23 Absatz 1 Nummer 2 und Absatz 4 des GAP-Konditionalitäten-Gesetzes vom 16. Juli 2021 (BGBl. I S. 2996) in Verbindung mit § 11 Absatz 1 und 4, § 15 Absatz 2 Satz 2, § 16 Absatz 1 Satz 2 und Absatz 5 sowie § 23 Absatz 4 der GAP-Konditionalitäten-Verordnung vom 7. Dezember 2022 (BGBl. I S. 2244), von denen § 11 Absatz 4 durch Verordnung vom 9. Dezember 2022 (BGBl. I S. 2273) geändert worden ist,
 – des § 6 Absatz 1 Nummer 2 und Absatz 5 Satz 1 und 3 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 7. November 2017 (BGBl. I S. 3746) in Verbindung mit § 2 Satz 1 Nummer 1 und § 20 Absatz 2 Nummer 1 des GAP-Direktzahlungen-Gesetzes vom 16. Juli 2021 (BGBl. I S. 3003) sowie § 17 Absatz 3 bis 5 der GAP-Direktzahlungen-Verordnung vom 24. Januar 2022 (BGBl. I S. 139), von denen Absatz 3 durch Verordnung vom 30. November 2022 (BAnz AT 01.12.2022 V1) geändert worden ist,
