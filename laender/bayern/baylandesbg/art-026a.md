@@ -1,0 +1,2 @@
+# Art. 26a Labo-Treuhänder
+Ein von der Aufsichtsbehörde bestellter Treuhänder hat darüber zu wachen, dass die vorgeschriebene Deckung für Schuldverschreibungen und Schuldbuchforderungen gemäß Art. 26 vorhanden ist und die zur Deckung bestimmten Werte in das Deckungsregister eingetragen sind (Labo-Treuhänder). Die Person des Labo-Treuhänders kann identisch mit einem nach den Vorschriften des Pfandbriefgesetzes bestellten Treuhänder oder dessen Stellvertreter sein. Die Vergütung für den Treuhänder wird der Staatskasse durch die Bank ersetzt.

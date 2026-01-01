@@ -1,0 +1,3 @@
+# Art. 18a Beteiligung des Landtags
+(1) Beteiligungserwerbe an anderen Unternehmen zur Ausweitung der Geschäftstätigkeit mit einem Kaufpreis von mehr als 100 Millionen Euro und Beteiligungsveräußerungen mit einem Verkaufspreis von mehr als 100 Millionen Euro bedürfen der vorherigen Zustimmung des Landtags. Erfolgt der Kauf oder der Verkauf ohne diese Zustimmung, hängt die Wirksamkeit jeweils von der Genehmigung des Landtags ab. Der Landtag entscheidet unverzüglich über die Erteilung der Genehmigung.
+(2) An die Stelle des Landtags kann ein von ihm mit der Wahrnehmung der Aufgaben nach Abs. 1 beauftragter Ausschuss treten.
