@@ -57,6 +57,7 @@
   Schönhagen
   Schwäbisch Hall
   Siegerland
+  Speyer
   Straubing
   Strausberg
   Wilhelmshaven Jadeweser Airport
