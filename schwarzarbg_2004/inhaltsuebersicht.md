@@ -9,9 +9,10 @@
 | § 2 | Prüfungsaufgaben |
 | § 2a | Mitführungs- und Vorlagepflicht von Ausweispapieren |
 | § 3 | Befugnisse bei der Prüfung von Personen |
-| § 4 | Befugnisse bei der Prüfung von Geschäftsunterlagen |
+| § 4 | Befugnisse bei der Prüfung von Unterlagen und Daten |
 | § 5 | Duldungs- und Mitwirkungspflichten |
-| § 5a | Unzulässiges Anbieten und Nachfragen der Arbeitskraft |
+| § 5a | Elektronische Einsichtnahme in und Übermittlung von Unterlagen und Daten |
+| § 5b | Unzulässiges Anbieten und Nachfragen der Arbeitskraft |
 | § 6 | Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum |
 | § 6a | Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union |
 | § 7 | Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen |
@@ -19,8 +20,8 @@
 | Abschnitt 3 |
 | Bußgeld- und Strafvorschriften |
 | § 8 | Bußgeldvorschriften |
-| § 9 | (weggefallen) |
-| § 10 | Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und zu ungünstigen Arbeitsbedingungen |
+| § 9 | Strafvorschriften |
+| § 10 | Beschäftigung von Ausländerinnen und Ausländern ohne Genehmigung, Aufenthaltstitel, Erlaubnis oder Berechtigung und zu ungünstigen Arbeitsbedingungen |
 | § 10a | Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind |
 | § 11 | Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern |
 |  |
@@ -35,7 +36,7 @@
 |  |
 | Abschnitt 5 |
 | Datenschutz |
-| § 15 | Allgemeines |
+| § 15 | Allgemeine Datenverarbeitung |
 | § 16 | Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit |
 | § 17 | Übermittlung von Daten aus dem zentralen Informationssystem |
 | § 18 | Auskunft an die betroffene Person |
@@ -47,3 +48,9 @@
 | § 21 | Ausschluss von öffentlichen Aufträgen |
 | § 22 | Verwaltungsverfahren |
 | § 23 | Rechtsweg |
+|  |
+| Abschnitt 7 |
+| Zentralstelle und Risikomanagement |
+| § 24 | Zentralstelle |
+| § 25 | Zentrales Risikomanagement |
+| § 26 | Operatives Informations- und Datenanalysesystem; Verordnungsermächtigung |

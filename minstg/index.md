@@ -99,6 +99,7 @@
 - [§ 48 Kürzungen](0048.md)
 - [§ 49 Zurechnung erfasster Steuern zu anderen Geschäftseinheiten](0049.md)
 - [§ 50 Gesamtbetrag der angepassten latenten Steuern](0050.md)
+- [§ 50a Nachversteuerung latenter Steuerschulden](0050a.md)
 - [§ 51 Mindeststeuer-Verlustwahlrecht](0051.md)
 - [§ 52 Nachträgliche Anpassungen und Änderungen der erfassten Steuern](0052.md)
 
@@ -169,6 +170,7 @@
 ### Abschnitt 1 Mindeststeuer-Bericht
 
 - [§ 75 Abgabeverpflichtung](0075.md)
+- [§ 75a Berichtigung des Mindeststeuer-Berichts](0075a.md)
 - [§ 76 Inhalt des Mindeststeuer-Berichts](0076.md)
 
 ### Abschnitt 2 Wahlrechte
@@ -197,6 +199,9 @@
 ### Abschnitt 1 Erstmalige Steuerpflicht
 
 - [§ 82 Steuerattribute des Übergangsjahres](0082.md)
+- [§ 82a Ausgeschlossene Steuerattribute](0082a.md)
+- [§ 82b Gruppeninterne Übertragung von Vermögenswerten](0082b.md)
+- [§ 82c Übergangsjahr](0082c.md)
 
 ### Abschnitt 2 Untergeordnete internationale Tätigkeit
 
@@ -207,7 +212,9 @@
 - [§ 84 Verwendung länderbezogener Berichte multinationaler Unternehmensgruppen (CbCR-Safe-Harbour)](0084.md)
 - [§ 85 Besonderheiten bei bestimmten Einheiten](0085.md)
 - [§ 86 Ausschluss von bestimmten Geschäftseinheiten, Unternehmensgruppen oder Steuerhoheitsgebieten](0086.md)
-- [§ 87 Definitionen für den CbCR-Safe-Harbour](0087.md)
+- [§ 87 Definitionen für den CbCR-Safe-Harbour und weitere Bestimmungen](0087.md)
+- [§ 87a Anwendung der Erwerbsmethode](0087a.md)
+- [§ 87b Anpassungen bei Inkongruenzen](0087b.md)
 - [§ 88 Übergangsregelungen bei gemischter Hinzurechnungsbesteuerung](0088.md)
 - [§ 89 Sekundärergänzungssteuerbetrag-Safe-Harbour](0089.md)
 
@@ -223,6 +230,7 @@
 - [§ 91 Steuererhöhungsbeträge staatenloser Geschäftseinheiten](0091.md)
 - [§ 92 Grenzüberschreitende Zurechnung erfasster Steuern](0092.md)
 - [§ 93 Nichtberücksichtigung der nationalen Ergänzungssteuer](0093.md)
+- [§ 93a Neubestimmung des Übergangsjahrs](0093a.md)
 
 ## Teil 11 Besteuerungsverfahren und sonstige Bestimmungen
 

@@ -82,6 +82,7 @@ Anpassungen der erfassten Steuern
 | § 48 | Kürzungen |
 | § 49 | Zurechnung erfasster Steuern zu anderen Geschäftseinheiten |
 | § 50 | Gesamtbetrag der angepassten latenten Steuern |
+| § 50a | Nachversteuerung latenter Steuerschulden |
 | § 51 | Mindeststeuer-Verlustwahlrecht |
 | § 52 | Nachträgliche Anpassungen und Änderungen der erfassten Steuern |
 Teil 5
@@ -137,6 +138,7 @@ Administration
 Abschnitt 1
 Mindeststeuer-Bericht
 | § 75 | Abgabeverpflichtung |
+| § 75a | Berichtigung des Mindeststeuer-Berichts |
 | § 76 | Inhalt des Mindeststeuer-Berichts |
 Abschnitt 2
 Wahlrechte
@@ -158,6 +160,9 @@ Teil 9
 Abschnitt 1
 Erstmalige Steuerpflicht
 | § 82 | Steuerattribute des Übergangsjahres |
+| § 82a | Ausgeschlossene Steuerattribute |
+| § 82b | Gruppeninterne Übertragung von Vermögenswerten |
+| § 82c | Übergangsjahr |
 Abschnitt 2
 Untergeordnete internationale Tätigkeit
 | § 83 | Übergangsregelung bei untergeordneter internationaler Tätigkeit |
@@ -166,7 +171,9 @@ Zeitlich befristete Übergangsregelungen
 | § 84 | Verwendung länderbezogener Berichte multinationaler Unternehmensgruppen (CbCR-Safe-Harbour) |
 | § 85 | Besonderheiten bei bestimmten Einheiten |
 | § 86 | Ausschluss von bestimmten Geschäftseinheiten, Unternehmensgruppen oder Steuerhoheitsgebieten |
-| § 87 | Definitionen für den CbCR-Safe-Harbour |
+| § 87 | Definitionen für den CbCR-Safe-Harbour und weitere Bestimmungen |
+| § 87a | Anwendung der Erwerbsmethode |
+| § 87b | Anpassungen bei Inkongruenzen |
 | § 88 | Übergangsregelungen bei gemischter Hinzurechnungsbesteuerung |
 | § 89 | Sekundärergänzungssteuerbetrag-Safe-Harbour |
 Teil 10
@@ -179,6 +186,7 @@ Besonderheiten
 | § 91 | Steuererhöhungsbeträge staatenloser Geschäftseinheiten |
 | § 92 | Grenzüberschreitende Zurechnung erfasster Steuern |
 | § 93 | Nichtberücksichtigung der nationalen Ergänzungssteuer |
+| § 93a | Neubestimmung des Übergangsjahrs |
 Teil 11
 Besteuerungsverfahren und sonstige Bestimmungen
 Abschnitt 1

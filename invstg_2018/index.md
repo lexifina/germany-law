@@ -71,7 +71,7 @@
 - [§ 40 Abzug der Allgemeinkosten](0040.md)
 - [§ 41 Verlustverrechnung](0041.md)
 - [§ 42 Steuerbefreiung von Beteiligungseinkünften und inländischen Immobilienerträgen](0042.md)
-- [§ 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung, der Hinzurechnungsbesteuerung und der Teilfreistellung](0043.md)
+- [§ 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung und der Teilfreistellung](0043.md)
 - [§ 44 Anteilige Abzüge aufgrund einer Steuerbefreiung](0044.md)
 - [§ 45 Gewerbesteuer bei Spezial-Investmenterträgen](0045.md)
 - [§ 46 Zinsschranke](0046.md)

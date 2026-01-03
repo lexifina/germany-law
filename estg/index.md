@@ -34,7 +34,7 @@
 - [§ 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3](0004g.md)
 - [§ 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)](0004h.md)
 - [§ 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug](0004i.md)
-- [§ 4j Aufwendungen für Rechteüberlassungen](0004j.md)
+- [§ 4j (weggefallen)](0004j.md)
 - [§ 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen](0004k.md)
 - [§ 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden](0005.md)
 - [§ 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr](0005a.md)

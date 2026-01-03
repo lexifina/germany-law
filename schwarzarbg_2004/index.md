@@ -11,9 +11,10 @@
 - [§ 2 Prüfungsaufgaben](0002.md)
 - [§ 2a Mitführungs- und Vorlagepflicht von Ausweispapieren](0002a.md)
 - [§ 3 Befugnisse bei der Prüfung von Personen](0003.md)
-- [§ 4 Befugnisse bei der Prüfung von Geschäftsunterlagen](0004.md)
+- [§ 4 Befugnisse bei der Prüfung von Unterlagen und Daten](0004.md)
 - [§ 5 Duldungs- und Mitwirkungspflichten](0005.md)
-- [§ 5a Unzulässiges Anbieten und Nachfragen der Arbeitskraft](0005a.md)
+- [§ 5a Elektronische Einsichtnahme in und Übermittlung von Unterlagen und Daten](0005a.md)
+- [§ 5b Unzulässiges Anbieten und Nachfragen der Arbeitskraft](0005b.md)
 - [§ 6 Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum](0006.md)
 - [§ 6a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union](0006a.md)
 - [§ 7 Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen](0007.md)
@@ -21,8 +22,8 @@
 ## Abschnitt 3 Bußgeld- und Strafvorschriften
 
 - [§ 8 Bußgeldvorschriften](0008.md)
-- [§ 9 (weggefallen)](0009.md)
-- [§ 10 Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und zu ungünstigen Arbeitsbedingungen](0010.md)
+- [§ 9 Strafvorschriften](0009.md)
+- [§ 10 Beschäftigung von Ausländerinnen und Ausländern ohne Genehmigung, Aufenthaltstitel, Erlaubnis oder Berechtigung und zu ungünstigen Arbeitsbedingungen](0010.md)
 - [§ 10a Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind](0010a.md)
 - [§ 11 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern](0011.md)
 
@@ -37,7 +38,7 @@
 
 ## Abschnitt 5 Datenschutz
 
-- [§ 15 Allgemeines](0015.md)
+- [§ 15 Allgemeine Datenverarbeitung](0015.md)
 - [§ 16 Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit](0016.md)
 - [§ 17 Übermittlung von Daten aus dem zentralen Informationssystem](0017.md)
 - [§ 18 Auskunft an die betroffene Person](0018.md)
@@ -49,3 +50,9 @@
 - [§ 21 Ausschluss von öffentlichen Aufträgen](0021.md)
 - [§ 22 Verwaltungsverfahren](0022.md)
 - [§ 23 Rechtsweg](0023.md)
+
+## Abschnitt 7 Zentralstelle und Risikomanagement
+
+- [§ 24 Zentralstelle](0024.md)
+- [§ 25 Zentrales Risikomanagement](0025.md)
+- [§ 26 Operatives Informations- und Datenanalysesystem; Verordnungsermächtigung](0026.md)
