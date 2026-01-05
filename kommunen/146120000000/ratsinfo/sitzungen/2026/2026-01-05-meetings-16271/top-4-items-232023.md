@@ -1,0 +1,8 @@
+# TOP 4: Beschluss zur Bereitstellung einer Pauschale im Jahr 2026
+
+- Sitzung: 16. Sitzung des Ortschaftsrates Gompitz (2026-01-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/232023
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/68664
