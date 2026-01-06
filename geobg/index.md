@@ -5,7 +5,7 @@
 - [§ 3 Begriffsbestimmungen](0003.md)
 - [§ 4 Überragendes öffentliches Interesse](0004.md)
 - [§ 5 Vorzeitiger Beginn](0005.md)
-- [§ 6 Maßgabe für § 39 Absatz 1 Nummer 1 und § 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes](0006.md)
+- [§ 6 (zukünftig in Kraft)](0006.md)
 - [§ 7 Duldungspflichten](0007.md)
 - [§ 8 Planfeststellung, Plangenehmigung, Enteignungsverfahren für Wärmeleitungen](0008.md)
 - [§ 9 Rechtsbehelfe](0009.md)
