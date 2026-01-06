@@ -1,297 +1,215 @@
-# Richtlinie des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zum Ausgleich von durch geschützte Tiere verursachten Schäden in der Fischerei und Aquakultur
+# Richtlinie des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zur Förderung von Maßnahmen zur Umsetzung der Europäischen Wasserrahmenrichtlinie in der öffentlichen Abwasserbeseitigung (RiLi Abwass
 
 - Herausgeber: Land Brandenburg
-- Datum: 2025-12-08 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/richtlinie_schaeden_2025
+- Datum: 2026-01-06 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/rili_abwasser_wrrl_2026
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Richtlinie des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zum Ausgleich von durch geschützte Tiere verursachten Schäden in der Fischerei und Aquakultur
+Richtlinie des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg zur Förderung von Maßnahmen zur Umsetzung der Europäischen Wasserrahmenrichtlinie in der öffentlichen Abwasserbeseitigung (RiLi Abwasser/WRRL)
 
-vom 8. Dezember 2025
+vom 6. Januar 2026
 
-(ABl./25, [Nr. 53], S.954)
+(ABl./26, [Nr. 5], S.179)
 
-1 Leistungszweck, Rechtsgrundlage
+1 Zuwendungszweck, Rechtsgrundlage
 
-1.1 Das Land Brandenburg gewährt nach Maßgabe dieser Richtlinie und der Verwaltungsvorschrift zu § 53 der Landeshaushaltsordnung (LHO) Billigkeitsleistungen zum teilweisen Ausgleich von Schäden, die unmittelbar durch geschützte Tiere entstanden sind.
+Das Land gewährt Förderung auf Grundlage dieser Richtlinie sowie nach Maßgabe insbesondere folgender Regelungen in der jeweils geltenden Fassung:
 
-Schäden durch geschützte Tiere gefährden zunehmend die Existenz der überwiegend kleinteilig strukturierten Familienbetriebe der Fischerei und der Aquakultur im Land Brandenburg. Aufgrund der Ernährungs- und Lebensweise der betreffenden geschützten Arten sind Konflikte mit der Binnenfischerei und der Karpfenteichwirtschaft als Form der Aquakultur unvermeidlich. Die Vorsorge zur Verhinderung von Schäden liegt zunächst in der Verantwortung der Unternehmen. Im Sinne der Risikominimierung müssen diese daher adäquate Maßnahmen zur Schadensvorbeugung treffen. Wegen des besonderen oder sogar strengen Schutzstatus einiger Arten nach dem Bundesnaturschutzgesetz sind eingreifende Maßnahmen in die Populationen jedoch nicht oder nur sehr eingeschränkt möglich.
+§§ 23 und 44 der Landeshaushaltsordnung (LHO) sowie die zu diesen Regelungen erlassenen Verwaltungsvorschriften (VV/VVG);
 
-1.2 Aufgrund der gesamtgesellschaftlichen Verantwortung für Naturschutzbelange soll durch den finanziellen Ausgleich von durch geschützte Tierarten verursachten Schäden die Akzeptanz des Artenschutzes im Fischerei- und Aquakultursektor verbessert werden. Zugleich soll ein Beitrag zur Existenzsicherung und zum Erhalt der Fischerei- und Aquakulturbetriebe geleistet werden.
+Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz - WHG);
 
-1.3 Die Gewährung der Leistungen zum Ausgleich von durch geschützte Tiere verursachten Schäden in der Fischerei und Aquakultur erfolgt analog zur Rahmenrichtlinie des Bundesministeriums für Ernährung und Landwirtschaft für Beihilfen zur Verhinderung und Begrenzung von durch geschützte Tiere verursachten Schäden sowie für den Ausgleich von durch geschützte Tiere verursachten Schäden in der Fischerei und Aquakultur vom 1. Dezember 2023 und ist nach Artikel 53 in Verbindung mit Artikel 4 der Verordnung (EU) 2022/24731 freigestellt.
+Brandenburgisches Wassergesetz (BbgWG).
 
-1.4 Ein Anspruch auf eine Gewährung von Leistungen nach dieser Richtlinie besteht nicht. Die Bewilligungsbehörde entscheidet nach Antragstellung aufgrund ihres pflichtgemäßen Ermessens nach Maßgabe dieser Richtlinie. Die Gewährung der Leistung steht unter dem Vorbehalt der Verfügbarkeit entsprechender Haushaltsmittel.
+Die Förderung richtet sich auf Investitionen im Bereich der kommunalen Abwasserbeseitigung, für die ein besonderes Landesinteresse im Sinne des § 23 LHO besteht. Das besondere Interesse liegt im Erreichen des guten Zustands beziehungsweise des guten Potenzials der Gewässer im Sinne der Europäischen Wasserrahmenrichtlinie1 (WRRL). Dementsprechend richten sich die förderfähigen Vorhaben vorrangig darauf, die Einträge von Nähr- und Schadstoffen in Gewässer weiter zu reduzieren. Die Förderung verfolgt das Ziel einer nachhaltigen Gewässerbewirtschaftung gemäß § 6 WHG und dient der Erfüllung wasserwirtschaftlich vorrangiger Aufgaben des Landes im Sinne der §§ 27 ff., 82 bis 84 WHG.
 
-2 Begriffsbestimmungen
+Ein Rechtsanspruch der oder des Antragstellenden auf die Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
-2.1 Geschützte Tiere
+2 Gegenstand der Förderung
 
-Als geschützte Tiere gelten nach EU-Recht geschützte Wildtiere, die Fisch fressen, insbesondere Kormorane, Graureiher, Silberreiher, Gänsesäger, See- und Fischadler sowie Fischotter, oder geschützte Tiere, die Sachschäden an Anlagen der Fischerei und der Aquakultur verursachen können, insbesondere der Biber.
+2.1 Ertüchtigung im Sinne eines technischen Ausbaus (Aufrüstung) von Kläranlagen zum verbesserten Rückhalt von Stickstoff, Phosphor und organischen Frachten zum Beispiel durch
 
-2.2 Anlagen
+eine zusätzliche Denitrifikationsstufe,
 
-Anlagen im Sinne dieser Richtlinie dienen der Fischereitätigkeit gemäß Artikel 4 Nummer 28 oder der Aquakultur gemäß Artikel 4 Nummer 25 der Verordnung (EG) Nr. 1380/20132 des Europäischen Parlaments und des Rates über die gemeinsame Fischereipolitik.
+Phosphatfällung oder Phosphatflockung,
 
-3 Gegenstand der Billigkeitsleistung
+Anpassungen der Mess-, Steuer- und Regelungstechnik oder
 
-3.1 In der Aquakultur können auf Flächen der Karpfenteichwirtschaft im Land Brandenburg folgende Schäden ausgeglichen werden:
+Umbau oder Nachrüstung einzelner verfahrenstechnischer Elemente von Kläranlagen.
 
-3.1.1 Fraßschäden durch geschützte Tierarten an Nutzkarpfenbeständen (C. carpio),
+2.2 Kapazitätserweiterung von Kläranlagen, sofern hierbei zugleich deren Nährstoffrückhalt dauerhaft verbessert wird.
 
-3.1.2 vom Biber verursachte Schäden, insbesondere an Ein- und Auslaufbauwerken, Teichböschungen und -dämmen sowie an Fischbeständen, einschließlich der Kosten für die Erstellung von Gutachten zur Ermittlung der Schadenshöhe.
+2.3 Neubau von Kläranlagen, wenn
 
-3.2 In der Binnenfischerei im Land Brandenburg können Schäden durch geschützte Tierarten an den Fängen der Erwerbsfischerei ausgeglichen werden.
+die behördlich angeforderte Verbesserung des Nährstoffrückhalts an einer bestehenden Kläranlage im baulichen Zustand oder aus verfahrenstechnischen Gründen nicht möglich ist oder unwirtschaftlich wäre oder
 
-3.3 Von der Leistung nach Nummer 3.1.1 sind ausgeschlossen:
+dies für eine dauerhaft ordnungsgemäße Abwasserbeseitigung erforderlich ist und hierfür keine zumutbaren Alternativen bestehen.
 
-Angelteiche,
+2.4 Neubau von Ausgleichsbecken auf Kläranlagen.
 
-Teiche, in denen Zierkarpfen gehalten wurden,
+2.5 Neubau oder Sanierung von Anlagen zur Behandlung von Niederschlagswasserabflüssen aus dem Trennsystem, sofern
 
-Teiche, in denen technologisch und biologisch bedingte Norm-Stückverlustsätze unterschritten wurden,
+die Niederschlagswasserabflüsse von mindestens 2 Hektar der Flächengruppe V3 oder mindestens 5 Hektar der Flächengruppe V2 gemäß Anhang A des Arbeitsblatts
 
-Teiche, die im Jahr, für das Schadensausgleich geltend gemacht wird, nicht vollständig abgefischt wurden,
+DWA-A 102-22 stammen oder
 
-Teiche, deren Bewirtschaftung auf einen Karpfenertrag von weniger als 150 Kilogramm je Hektar Teichnutzfläche bei Berücksichtigung von Norm-Stückverlustsätzen ausgerichtet war,
+die Anforderungen zum Stoffrückhalt immissionsbezogen anhand des Merkblatts
 
-Fraßschäden an mehr als viersömmrigen Karpfenbeständen,
+DWA-M 102-33 ermittelt wurden oder
 
-Teiche, in denen neben Fraßschäden andere erhebliche Schadensereignisse auftraten (zum Beispiel Massensterben von Karpfen, Havarien und anderes).
+die Niederschlagswasserbehandlung mit einem Retentionsbodenfilter vorgenommen wird.
 
-3.4 Von der Leistung nach Nummer 3.1.2 sind ausgeschlossen:
+Bei Vorhaben nach Nummer 2.1 oder Nummer 2.2 sind Sanierungsmaßnahmen nur in dem Umfang förderfähig, in dem sie zur Umsetzung des Vorhabens unabdingbar sind. Verfahrenstechnisch beziehungsweise technologisch zusammengehörige Komponenten werden hierbei als eine Einheit betrachtet.
 
-Teiche, in denen Zierkarpfen gehalten wurden,
+3 Zuwendungsempfangende
 
-vom Biber verursachte Schäden, die keinen unmittelbaren Einfluss auf die fischereiliche Bewirtschaftung in Teichwirtschaften haben.
+Zur Antragstellung berechtigt sind die Aufgabenträger der öffentlichen Abwasserbeseitigung im Land Brandenburg.
 
-3.5 Von der Leistung nach Nummer 3.2 sind ausgeschlossen:
+4 Zuwendungsvoraussetzungen
 
-Gewässer, die nicht erwerbsfischereilich bewirtschaftet werden.
+4.1 Eine Zuwendung kann nur gewährt werden, wenn
 
-4 Empfangende der Billigkeitsleistung
+eine vorliegende wasserrechtliche Zulassung oder Sanierungsanordnung beziehungsweise Ordnungsverfügung die Reduzierung von Stoffeinträgen in die Gewässer verlangt und
 
-4.1 Antragsberechtigt sind Unternehmen, unbeschadet der gewählten Rechtsform, deren Geschäftstätigkeit den Fischerei- oder Aquakultursektor im Haupt- oder Nebenerwerb umfasst.
+das zu fördernde Vorhaben zu deren Umsetzung erforderlich ist.
 
-4.2 Unternehmen in Schwierigkeiten im Sinne von Artikel 2 Absatz 1 Nummer 29 der Verordnung (EU) 2022/2473 sind von einer Leistung ausgeschlossen, es sei denn, die Schwierigkeiten sind auf das Schadereignis zurückzuführen.
+Für Vorhaben gemäß Nummer 2.3 Buchstabe b hat anstelle dessen die zuständige Wasserbehörde das Erfordernis gemäß § 66 Absatz 1 Satz 3 BbgWG festzustellen und zu bescheinigen.
 
-4.3 Unternehmen, bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25 Prozent des Eigenkapitals des Unternehmens beträgt, sind von der Förderung ausgeschlossen.
+4.2 Mit dem Antrag sind alle notwendigen fachtechnischen Stellungnahmen nachzuweisen.
 
-4.4 Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Rechtswidrigkeit und ihrer Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht nachgekommen sind, sind von der Förderung ausgeschlossen.
+4.3 Mit dem Antrag sind die Genehmigungsplanungen und die in diesem Zusammenhang notwendigen behördlichen Zulassungen nachzuweisen. Liegen Letztere zum Zeitpunkt der Antragstellung noch nicht vollständig vor, so ist nachzuweisen, dass die jeweils zuständige Behörde diese in Aussicht gestellt hat (positive Genehmigungsprognose).
 
-4.5 Unternehmen, die einen Verstoß oder ein Vergehen gemäß Artikel 1 Absatz 3 Buchstabe f Ziffer i und ii der Verordnung (EU) 2022/2473 begangen haben, sind von einer Beihilfe ausgeschlossen. Mit dem Antrag ist schriftlich zu erklären, dass kein Verstoß oder Vergehen im Sinne des Artikels 1 Absatz 3 Buchstabe f Ziffer i und ii der Verordnung (EU) 2022/2473 begangen wurde. Wird festgestellt, dass ein Begünstigter vorsätzlich falsche Angaben gemacht hat, so wird der betreffende Antrag von der Ausgleichszahlung ausgeschlossen und bereits gezahlte Mittel werden zurückgefordert.
+4.4 Bestehen mehrere Alternativen zur Umsetzung des Vorhabens, ist die optimale Variante mittels dynamischer Kostenvergleichsrechnungen4 zu ermitteln. Eine Erklärung hierzu ist dem Förderantrag beizulegen. Es wird nach den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit gefördert (siehe VV zu § 7 LHO).
 
-5 Voraussetzungen für die Billigkeitsleistung
+4.5 Im Zuge der Prüfung des Antrages holt die Bewilligungsbehörde das fachliche Votum des Richtliniengebers (Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz - MLEUV) zum Antragsgegenstand ein.
 
-5.1 Für den Ausgleich von durch geschützte Tiere verursachten Schäden muss ein unmittelbarer kausaler Zusammenhang zwischen dem eingetretenen Schaden und dem Verhalten der geschützten Tiere bestehen. Die Feststellung des unmittelbaren Zusammenhangs erfolgt durch die Bewilligungsbehörde.
+5 Art, Umfang und Höhe der Zuwendung
 
-5.2 Mit dem Antrag auf Schadensausgleich nach Nummer 3.1 oder Nummer 3.2 haben Antragstellende, außer im Fall von Erstangriffen, nachzuweisen, dass angemessene Präventionsmaßnahmen unternommen sowie die Möglichkeiten einer legalen Abwehr wie zum Beispiel Vergrämungsabschüsse ausgeschöpft wurden, es sei denn, solche Maßnahmen sind rechtlich oder tatsächlich nicht möglich oder wirtschaftlich unzumutbar. Die Einstufung der Präventions- und Abwehrmaßnahmen hinsichtlich der Angemessenheit beurteilt die Bewilligungsbehörde.
+5.1 Zuwendungsart: Projektförderung
 
-5.3 Eine Leistung wird gewährt für Schäden nach Nummer 3.1, die ab dem Kalenderjahr 2024 eingetreten sind. Im Fall von Schäden nach Nummer 3.2 wird eine Leistung für Schäden gewährt, die ab dem Kalenderjahr 2025 eingetreten sind.
+5.2 Finanzierungsart: Anteilfinanzierung
 
-5.4 Für den Ausgleich von Schäden nach Nummer 3.1 muss eine teichbezogene Dokumentation geführt werden, aus der die erforderlichen Angaben für die Ermittlung des Schadens ersichtlich sind (zum Beispiel Teichbuch).
+5.3 Form der Zuwendung: Zuweisung/Zuschuss
 
-5.5 Für den Ausgleich von Schäden nach Nummer 3.2 muss eine jährliche Dokumentation des Fischereiaufwands und der Fänge des Unternehmens bezogen auf die gesamte fischereiliche Nutzfläche des Unternehmens geführt werden.
+5.4 Bemessungsgrundlage
 
-6 Art, Umfang und Höhe der Billigkeitsleistung
+5.4.1 Förderfähige Kosten
 
-| 
+Förderfähig sind diejenigen investiven Kosten, die zur Umsetzung des zu fördernden Vorhabens erforderlich sind.
 
+5.4.2 Zuwendungshöhe
 
-6.1
+Der Fördersatz bei Vorhaben gemäß den Nummern 2.1 bis 2.4 richtet sich nach der Ausbaugröße der kommunalen Kläranlage (in EW)5, an der das Vorhaben durchgeführt werden soll. Der Fördersatz beträgt regelmäßig:
 
-| 
+80 Prozent der förderfähigen Kosten bei Kläranlagen unter 10 000 EW;
 
+70 Prozent der förderfähigen Kosten bei Kläranlagen von 10 000 EW bis 49 999 EW;
 
-Leistungsart:
+60 Prozent der förderfähigen Kosten bei Kläranlagen von 50 000 EW bis 99 999 EW;
 
-| 
+50 Prozent der förderfähigen Kosten bei Kläranlagen ab 100 000 EW.
 
+Der Fördersatz bei Vorhaben gemäß Nummer 2.5 beträgt 60 Prozent der förderfähigen Kosten.
 
-Billigkeitsleistung nach § 53 LHO
+Die Obergrenze von Zuwendungen beträgt 500 000 Euro. Diese Obergrenze gilt nicht für Vorhaben gemäß Nummer 2.3.
 
-| 
+5.4.3 Bagatellgrenze
 
+Es können nur Zuwendungen bewilligt werden, die mindestens 50 000 Euro betragen (Bagatellgrenze).
 
-6.2
+5.4.4 Nicht förderfähige Ausgaben
 
-| 
+Nicht gefördert werden Ausgaben für:
 
+Straßen- und Wegebau, soweit er nicht der unmittelbaren Erfüllung des zu fördernden Vorhabens dient oder nicht zur Wiederherstellung des alten Zustands erforderlich ist;
 
-Finanzierungsart:
+Kostenbeteiligung für Straßen- und Wegebau im Zusammenhang mit deren grundhaftem Ausbau oder Neubau;
 
-| 
+Instandhaltung von Gebäuden;
 
+Betrieb, Unterhaltung und Reparatur von Maschinen und Anlagen;
 
-Vollfinanzierung/Anteilfinanzierung
+Außenanlagen und Sicherungsmaßnahmen, sofern sie nicht zur unmittelbaren Durchführung des zu fördernden Vorhabens erforderlich sind;
 
-| 
+Beschaffung von Kraftfahrzeugen und Geräten;
 
+Grunderwerbskosten und Grunderwerbsnebenkosten;
 
-6.3
+Leistungen auf der Grundlage von pauschalen Verträgen beziehungsweise pauschalen Leistungsangeboten;
 
-| 
+Eigenleistungen;
 
+Leistungen gemäß der Honorarordnung für Architekten und Ingenieure (HOAI-Leistungen), Vermessung und Bestandsdokumentation;
 
-Form der Billigkeits-
+Finanzierungskosten;
 
-leistung:
+Leistungen, die in Form neuer Kostenpositionen nach Erteilung des Zuwendungsbescheides anfallen.
 
-| 
+6 Sonstige Zuwendungsbestimmungen
 
+6.1 Die Zuwendung kann an Dritte weitergeleitet werden, sofern sich die Zuwendungsempfangenden dieser zur Aufgabenwahrnehmung unmittelbar bedienen. Die Weiterleitung an die Letztempfangenden kann auf dem öffentlich-rechtlichen oder dem privatrechtlichen Wege erfolgen.
 
-Die Billigkeitsleistung wird als nicht rückzahlbarer Zuschuss in Form eines anteiligen Schadensausgleichs gewährt.
+6.2 Die Zuwendung kann widerrufen werden, wenn die geförderten
 
-6.4 Bemessungsgrundlage/Höhe der Leistung
+Grundstücke, Bauten und baulichen Anlagen innerhalb von zwölf Jahren ab Fertigstellung,
 
-6.4.1 Bemessungsgrundlage für die Ermittlung der Leistungen in der Karpfenteichwirtschaft nach Nummer 3.1.1 ist der Marktwert der von den geschützten Tieren beschädigten oder getöteten Tiere in der Aquakultur. Die Höhe der durch geschützte Tiere verursachten Fraßschäden in der Karpfenteichwirtschaft wird im Einzelfall wie folgt ermittelt:
+technischen Einrichtungen, Maschinen und Geräte innerhalb von fünf Jahren ab Lieferung an die oder den Zuwendungsempfangenden
 
-| Schritt 1:
+veräußert oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
 
-| Ermittlung des Gesamtverlustes in % = [Besatzmenge in Stück minus Abfischmenge in Stück] / Besatzmenge * 100
+6.3 Der Landesrechnungshof, das Fachministerium, die bewilligende Stelle sowie deren beauftragte Dritte und alle an der Zuwendung beteiligten öffentlichen Mittelgebenden sind berechtigt, bei den Zuwendungsempfangenden zu prüfen. Wenn Mittel gemäß Nummer 12 VV zu § 44 LHO an Dritte weitergeleitet wurden, sind die oben genannten Prüforgane auch bei den Letztempfangenden zur Prüfung berechtigt.
 
+6.4 In Bezug auf die Anwendung der vergaberechtlichen Vorschriften gelten die einschlägigen Festlegungen in den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) beziehungsweise den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an Gemeinden (ANBest-G) gemäß § 44 LHO in Verbindung mit § 55 LHO.
 
-| Schritt 2:
-
-| Ermittlung des Verlustes durch geschützte Tiere in % = [Gesamtverlust in % minus Verluste durch nicht kalkulierbare Einflüsse in %]
-
-
-| Schritt 3:
-
-| Berechnung der Verluste durch geschützte Tiere in kg = [Verlustanteil durch geschützte Tiere in % * Besatzmenge in Stück * durchschnittliches Endgewicht/Stück]
-
-
-| Schritt 4:
-
-| Berechnung der Schadenssumme in EUR = [Verlust durch geschützte Tiere in kg * Marktpreis der jeweiligen Fischart/kg]
-
-
-| Schritt 5:
-
-|  Abzug Leistungen Dritter oder nicht angefallener Ausgaben von der Schadenssumme.
-
-
-6.4.2 Ausgleichsfähig im Fall von Schäden nach Nummer 3.1.2 ist die von Biberbeauftragten für das Land Brandenburg nach Nummer 7.2.2 bestätigte Schadenshöhe. Die Berechnung der Schadenshöhe erfolgt auf der Grundlage der Reparaturkosten oder des wirtschaftlichen Wertes des betroffenen Vermögenswertes vor dem Eintreten des Schadens. Die Höhe der Reparaturkosten oder die Differenz zwischen dem Wert des Vermögenswertes vor und nach dem Eintreten des Schadens dürfen nicht überschritten werden. Die Bewilligungsbehörde berücksichtigt diese Angaben bei der Ermittlung der zu gewährenden Billigkeitsleistung.
-
-Zusätzlich kann für die Erstellung von Gutachten zur Ermittlung der Schadenshöhe ein Ausgleich in Höhe von bis zu 50 Prozent der Kosten, maximal aber bis zu 500 Euro gewährt werden.
-
-6.4.3 Bemessungsgrundlage für die Ermittlung der Leistungen in der Binnenfischerei nach Nummer 3.2 ist der durch geschützte Tiere verursachte fischereiwirtschaftliche Schaden. Dieser wird durch Multiplikation der erwerbsfischereilichen Nutzfläche des Unternehmens mit einem von der obersten Fischereibehörde festgelegten Ertragsausfallwert ermittelt.
-
-6.4.4 Geschädigten Unternehmen der Binnenfischerei und Aquakultur kann im Rahmen dieser Richtlinie ein Schadensausgleich in Höhe von bis zu 100 Prozent des direkten Schadens gewährt werden.
-
-6.4.5 Die Umsatzsteuer ist von der Förderung ausgeschlossen.
-
-6.5 Vermeidung von Überkompensation
-
-Die Höhe des Schadensausgleichs nach dieser Richtlinie und sonstiger Ausgleichszahlungen für die Schäden, einschließlich der Zahlungen, die im Rahmen anderer nationaler oder unionsweiter Maßnahmen oder von Versicherungspolicen für die Schäden geleistet werden, darf 100 Prozent der beihilfefähigen Kosten des errechneten direkten Schadens nicht übersteigen. Empfangende der Billigkeitsleistung haben hierfür der Bewilligungsbehörde alle in Bezug auf die beihilfefähigen Kosten erhaltenen oder beantragten Zuwendungen, Zahlungen und sonstigen geldwerten Leistungen Dritter, insbesondere etwaige Versicherungszahlungen, offenzulegen. Gleiches gilt für nicht angefallene Kosten aufgrund der Beeinträchtigung durch die geschützten Tiere.
-
-Die Billigkeitsleistung wird nur dann gewährt, wenn andere Stützungsinstrumente nicht in Anspruch genommen werden.
-
-6.6 Bagatellgrenze
-
-Der Mindestbetrag der Billigkeitsleistung zum Ausgleich von Schäden nach den Nummern 3.1 und 3.2 liegt zum Ausschluss des Ausgleichs von Bagatellschäden bei 1 000 Euro.
-
-6.7 Kumulierung
-
-Leistungen für den Schadensausgleich nach dieser Richtlinie können mit anderen Beihilfen kumuliert werden, wenn die Höhe der Beihilfen und sonstigen Ausgleichszahlungen, einschließlich der Zahlungen im Rahmen von Versicherungspolicen, 100 Prozent der beihilfefähigen Kosten nicht überschreitet.
+Bei Vergaben als Direktauftrag (gemäß Nummer 3.2 beziehungsweise Nummer 3.4 VV zu § 55 LHO) sind - entsprechend den Haushaltsgrundsätzen der Wirtschaftlichkeit und Sparsamkeit - ab einem Auftragswert von mehr als 2 500 Euro (ohne Umsatzsteuer) bis einschließlich 100 000 Euro vor der Auftragsvergabe mehrere vergleichbare Angebote oder Preisvergleiche einzuholen. Dabei ist die Binnenmarktrelevanz des jeweiligen Auftrages zu prüfen und zu dokumentieren (gemäß Nummer 2.4 VV zu § 55 LHO).
 
 7 Verfahren
 
-7.1 Schadensmeldung
+7.1 Antragsverfahren
 
-Die Meldung von Schäden nach Nummer 3.1.1 erfolgt formgebunden durch die geschädigten Aquakulturunternehmen mit der Antragstellung auf Schadensausgleich bei der Bewilligungsbehörde.
+Die Anträge für Vorhaben sind formgebunden (Vordrucke der Bewilligungsbehörde) und vollständig über das Kundenportal der Investitionsbank des Landes Brandenburg (ILB) einzureichen. Mit dem Antrag sind alle notwendigen behördlichen Zulassungen und fachtechnischen Stellungnahmen nachzuweisen. Die Antragsunterlagen inklusive der dazugehörigen Vordrucke, Erklärungen und Hinweise werden von der Bewilligungsbehörde bereitgestellt.
 
-Schäden nach Nummer 3.1.2 sind formgebunden durch die geschädigten Aquakulturunternehmen innerhalb einer Woche nach Feststellung des Schadens den Biberbeauftragten für das Land Brandenburg und der Bewilligungsbehörde zu melden.
+Die Anträge können fortlaufend über das ILB-Kundenportal eingereicht werden. Die Bearbeitung erfolgt in der Reihenfolge des Vorliegens der vollständigen Antragsunterlagen.
 
-Die Meldung von Schäden nach Nummer 3.2 erfolgt formgebunden durch die betroffenen Betriebe der Erwerbsfischerei mit der Antragstellung auf Schadensausgleich bei der Bewilligungsbehörde.
+Zuwendungen zur Projektförderung dürfen nur für solche Vorhaben bewilligt werden, die noch nicht begonnen worden sind. Soweit mit der Antragstellung zugleich auch ein vorzeitiger Vorhabenbeginn beantragt wurde, dürfen die Antragstellenden mit der Durchführung der beantragten Vorhaben beginnen, sobald ihnen die Eingangsbestätigung des Antrages von der Bewilligungsbehörde vorliegt. Aus der Zulassung des vorzeitigen Vorhabenbeginns leitet sich jedoch kein Anspruch auf eine Zuwendung ab. Dieser Vorhabenbeginn erfolgt auf eigenes Risiko des oder der Antragstellenden, da eine Zuwendung nur in Abhängigkeit der durchzuführenden Kontrollen und im Rahmen der bereitgestellten Haushaltsmittel gewährt werden kann.
 
-7.2 Ermittlung der Schadenshöhe
+Als Vorhabenbeginn gilt der Abschluss eines der Ausführung zugerechneten Lieferungs- oder Leistungsvertrages. Bei Baumaßnahmen gelten Planung, Baugrunduntersuchung, Grunderwerb und bauvorbereitende Maßnahmen (zum Beispiel Abbruch- und Planierarbeiten) nicht als Beginn des Vorhabens.
 
-7.2.1 Die Schadenshöhe für Schäden nach Nummer 3.1.1 wird von der Bewilligungsbehörde nach Nummer 6.4.1 und der zum Schadensausgleich beantragten Teichnutzfläche berechnet. Folgende Angaben sind dazu erforderlich:
+7.2 Bewilligungsverfahren
 
-Teichname,
+Bewilligungsbehörde ist die ILB.
 
-Teichnutzfläche in Hektar,
+Die Prüfung und Bewilligung der Anträge erfolgt in der Reihenfolge der Antragstellung. Maßgebend hierfür ist der Zeitpunkt, zu dem ein vollständiger und beurteilungsfähiger Antrag vorliegt. Die Bewilligungsbehörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
-Angaben zum Fischbesatz (Besatzdatum, Altersklasse, Stück je Hektar, Kilogramm je Hektar, Gramm je Stück),
+7.3 Anforderungs- und Auszahlungsverfahren
 
-Angaben zur Abfischung (Abfischdatum, Altersklasse, Stück je Hektar, Kilogramm je Hektar, Gramm je Stück) und
+Die Zuwendungen sind auf Antrag erst auszuzahlen, wenn Zuwendungsempfangende den Empfang des Zuwendungsbescheides bestätigt haben und der Zuwendungsbescheid durch Ablauf der Rechtsbehelfsfrist bestandskräftig geworden ist. Zuwendungsempfangende können die Bestandskraft des Zuwendungsbescheides herbeiführen und damit die Auszahlung beschleunigen, wenn erklärt wird, auf einen Rechtsbehelf zu verzichten.
 
-Stückverlust in Prozent.
+Die Zuwendungen dürfen nur soweit und nicht eher ausgezahlt werden, als sie voraussichtlich innerhalb von zwei Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden. Die Mittelanforderungen sind über das ILB-Kundenportal einzureichen.
 
-7.2.2 Die Schadenshöhe nach Nummer 3.1.2 wird von einem Biberbeauftragten für das Land Brandenburg bestätigt. Folgende Unterlagen sind dazu erforderlich:
+Die Auszahlung der Mittel erfolgt im Vorschussprinzip gemäß Nummer 1.4 ANBest-P/ANBest-G zu § 44 LHO.
 
-Anschrift der Geschädigten,
+7.4 Verwendungsnachweisverfahren
 
-Ort des Schadens und Zeitpunkt der Schadensfeststellung,
+Der Verwendungsnachweis ist über das ILB-Kundenportal gegenüber der Bewilligungsbehörde zu erbringen. Er besteht aus einem Sachbericht und einem zahlenmäßigen Nachweis (inklusive tabellarischer Belegliste).
 
-Zeitpunkt der Schadensmeldung,
+7.5 Zu beachtende Vorschriften
 
-Beschreibung des Schadens und der Schadensursache,
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten neben den allgemeinen verwaltungsverfahrensrechtlichen Vorschriften die VVG zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
 
-Fotodokumentation des aufgetretenen Schadens, aus welcher der Biber als Schadensverursacher hervorgeht, und
+8 Geltungsdauer
 
-Unterlagen zur Belegung der Schadenshöhe, zum Beispiel Kostenvoranschläge beziehungsweise Vergleichsangebote für die Schadensbeseitigung, Kostenkalkulationen beziehungsweise Rechnungen vergleichbarer Biberschäden, Schadensgutachten.
+Diese Richtlinie tritt mit Wirkung vom 1. Januar 2026 in Kraft und gilt bis zum 31. Dezember 2027.
 
-7.2.3 Die Schadenshöhe für Schäden nach Nummer 3.2 wird von der Bewilligungsbehörde gemäß Nummer 6.4.3 dieser Richtlinie in Abhängigkeit von der erwerbsfischereilichen Nutzfläche berechnet. Folgende Angaben sind dazu erforderlich:
+1 Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Wasserpolitik, umgesetzt in nationales Recht vor allem durch §§ 27 ff., 48, 82 ff. WHG.
 
-Name des betroffenen Gewässers,
+2 Arbeitsblatt DWA-A 102-2 - Grundsätze zur Bewirtschaftung und Behandlung von Regenwetterabflüssen zur Einleitung in Oberflächengewässer - Teil 2: Emissionsbezogene Bewertungen und Regelungen (in der jeweils aktuellen Fassung).
 
-erwerbsfischereiliche Nutzfläche des betroffenen Gewässers,
+3 Merkblatt DWA-M 102-3 - Grundsätze zur Bewirtschaftung und Behandlung von Regenwetterabflüssen zur Einleitung in Oberflächengewässer - Teil 3: Immissionsbezogene Bewertungen und Regelungen (in der jeweils aktuellen Fassung).
 
-Nachweis der behördlichen Genehmigung zur Ausübung der Fischerei (Fischereischein),
+4 Siehe hierzu die „Leitlinien zur Durchführung dynamischer Kostenvergleichsrechnungen“ der Deutschen Vereinigung für Wasserwirtschaft, Abwasser und Abfall e. V. (DWA) in der jeweils geltenden Fassung.
 
-privatrechtliche Bewirtschaftungsbefugnis (Eigentum am Gewässer beziehungsweise am selbstständigen Fischereirecht oder gültiger Fischereipachtvertrag).
-
-Sofern es für die Ermittlung der Leistungshöhe erforderlich ist, kann die Bewilligungsbehörde weitere Unterlagen von den Antragstellenden anfordern.
-
-7.3 Antragsverfahren
-
-7.3.1Anträge auf Schadensausgleich für Schäden nach Nummer 3.1.1 sind formgebunden bis zum 31. Mai des auf das Schadensjahr folgenden Kalenderjahres bei der Bewilligungsbehörde zu stellen. Abweichend davon sind Anträge für das Schadensjahr 2024 bis zum 12. Dezember 2025 zu stellen. Als Schadensjahr gilt das Jahr der Abfischung.
-
-7.3.2 Anträge auf Ausgleich von Schäden nach Nummer 3.1.2 sind formgebunden mit der nach Nummer 7.2.2 ermittelten und bestätigten Schadenshöhe bis spätestens drei Monate nach Meldung des Schadens bei der Bewilligungsbehörde zu stellen. Abweichend davon können Anträge für Biberschäden in den Jahren 2024 und 2025, die innerhalb einer Woche nach Feststellung des Schadens den Biberbeauftragten für das Land Brandenburg und dem Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung gemeldet wurden, bis zum 12. Dezember 2025 gestellt werden.
-
-7.3.3 Die Antragstellung auf einen Ausgleich von Schäden nach Nummer 3.2 muss bis zum 31. Mai des auf das Schadensjahr folgenden Kalenderjahres erfolgen. Als Schadensjahr gilt das Fangjahr.
-
-Die Antragsformulare sind bei der Bewilligungsbehörde erhältlich.
-
-7.4 Bewilligungsverfahren
-
-Bewilligungsbehörde ist das Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung.
-
-Die Bewilligungsbehörde legt die zu gewährende Billigkeitsleistung durch Bescheid fest.
-
-7.5 Anforderungs- und Auszahlungsverfahren
-
-Die Mittelanforderung erfolgt zeitgleich mit der Antragstellung (siehe Nummer 7.1 der Richtlinie). Die Auszahlung der Mittel erfolgt nach Ablauf der Rechtsbehelfsfrist durch die Bewilligungsbehörde. Leistungsempfangende können die Bestandskraft des Bescheides herbeiführen und damit die Auszahlung beschleunigen, wenn erklärt wird, auf einen Rechtsbehelf zu verzichten.
-
-8 Sonstige Bestimmungen
-
-8.1 Aufbewahrungsfristen für Zahlungsbelege
-
-Werden zur Ermittlung der Schadenshöhe Zahlungsbelege vorgelegt, sind diese für zehn Jahre, gerechnet ab der Bekanntgabe des Bescheides, aufzubewahren.
-
-8.2 Transparenz
-
-Die bewilligenden Stellen veröffentlichen Informationen nach Artikel 9 Absatz 1 Buchstabe c der Verordnung (EU) 2022/2473 über jede Einzelbeihilfe von über 10 000 Euro in der Beihilfentransparenzdatenbank der Europäischen Kommission (Transparency Award Module, TAM)3.
-
-8.3 Prüfungsvorbehalte
-
-Der Landesrechnungshof, das Fachministerium, die Bewilligungsbehörde sowie deren beauftragte Dritte und alle an der Gewährung der Billigkeitsleistungen beteiligten öffentlichen Mittelgeber sind berechtigt, bei den Leistungsempfangenden Prüfungen durchzuführen.
-
-8.4 Einhaltung der Bestimmungen der Gemeinsamen Fischereipolitik (GFP)
-
-Empfangende der Billigkeitsleistung müssen die Vorschriften der GFP während der Laufzeit der Beihilfemaßnahme sowie über den Zeitraum von fünf Jahren nach der Abschlusszahlung wahren. Verstoßen Leistungsempfangende während der Laufzeit der Beihilfemaßnahme oder innerhalb des Zeitraumes von fünf Jahren nach Erhalt der Abschlusszahlung gegen die Vorschriften der GFP, ist die Leistung in voller Höhe wieder einzuziehen.
-
-9 Inkrafttreten, Geltungsdauer
-
-Diese Richtlinie tritt mit Wirkung vom 1. Januar 2025 in Kraft und gilt bis zum 31. Dezember 2026.
-
-1 Verordnung (EU) 2022/2473 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union
-
-2 Verordnung (EU) Nr. 1380/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die Gemeinsame Fischereipolitik und zur Änderung der Verordnungen (EG) Nr. 1954/2003 und (EG) Nr. 1224/2009 des Rates sowie zur Aufhebung der Verordnungen (EG) Nr. 2371/2002 und (EG) Nr. 639/2004 des Rates und des Beschlusses 2004/585/EG des Rates
-
-3 https://webgate.ec.europa.eu/competition/transparency/public?lang=de
+5 Die Ausbaugröße bezieht sich auf die Einwohnerwerte (EW), das heißt die organisch-biologisch abbaubare Belastung, die einem biochemischen Sauerstoffbedarf in fünf Tagen (BSB5) von 60 Gramm Sauerstoff pro Tag entspricht.
