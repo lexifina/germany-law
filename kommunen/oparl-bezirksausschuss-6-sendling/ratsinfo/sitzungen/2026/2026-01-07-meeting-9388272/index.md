@@ -1,0 +1,155 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-01-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9388272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9388272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 01.12.2025
+- TOP 1.2.: UA Kultur und Freizeit: Benennung eines Mitglieds der SPD
+- TOP 1.3.: UA Bildung und Soziales: Benennung eines Mitglieds der SPD
+- TOP 1.4.: UA Öffentlicher Raum, Mobilität und Gewerbe: Benennung zweier Mitglieder von den Grünen und der FDP/Freie Wähler
+- TOP 1.5.: UA Budget und Satzungsangelegenheiten: Benennung zweier Mitglieder von den Grünen und der CSU
+- TOP 1.6.: UA Planen, Bauen, Wohnen: Benennung zweier Mitglieder von den Grünen und der ÖDP
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Zur Kenntnis: Wertstoffinsel Gaißacher Straße/Esswurmstraße
+- TOP 2.2.: Zur Kenntnis: Entsorgung Spritzen im Toilettenhäuschen am Spiel- und Sportplatz Neuhofen
+- TOP 2.3.: Anfrage zur Unterstützung meiner Teilnahme an der Europameisterschaft 2025 American Football
+- TOP 2.4.: Flachbau hinter dem Haus für Mutter und Kind
+- TOP 2.5.: Urheberrechtsschutz versus Hitze-Insel-Platz
+- TOP 2.6.: Unterstützung Jugend SC München Süd e.V.
+- TOP 2.7.: Anfrage zu Dauer und Begründung des absoluten Halteverbots in der Alramstraße
+- TOP 2.8.: Zur Kenntnis: Tonnen in der Valleystrasse
+- TOP 2.9.: Anfrage bzgl. U-Harras Wendeanlage und aktueller Situation
+- TOP 2.10.: Mülleimer Lindenschmitstraße/Aberlestraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Fällungsantrag vom 19.11.2025 auf dem Grundstück Brudermühlstr. 4 I 09.01.2026
+- TOP 4.2.2.: Fällungsantrag vom 03.12.2025 auf dem Grundstück Pfeuferstr. 33 I 09.01.2026
+- TOP 4.2.3.: Alramstr. 14 Neubau eines Wohngebäudes mit Einzelhandelsfläche, Tiefgarage und Kita - ÄNDERUNGSANTRAG zu 1.1-2019-2836-23 I 19.01.2026
+- TOP 4.2.4.: Roter-Turm-Platz 7 Neubau eines Mehrfamilienhauses mit Tiefgarage – VORBESCHEID I 21.02.2026
+- TOP 4.2.5.: Zechstr. 2a Umbau und Modernisierung eines denkmalgeschützten Wohngebäudes, Dachausbauten mit Dachgauben, Abbruch und Errichtung von Balkonen sowie Umbau und Modernisierung des denkmalgeschützten, ehemaligen Badehauses I 21.01.2026
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Ferienwohnung in Neubau Radlkoferstr. Sendlinger Wüste Antwort des Sozialreferats auf Bürger*innenanliegen (TOP 2.16 08/25)
+- TOP 4.3.2.: Begrünte Baumscheiben in Sendling Antwort des Baureferats auf Bürger*innenanliegen (TOP 2.1 10/25)
+- TOP 4.3.3.: Zwischennachricht Finanzierung von städtischen Grundstückskäufen durch Bürgeranleihen BV-Empfehlung Nr. 20-26 / E 02482
+- TOP 4.3.4.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 4.3.5.: Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Investive Konsolidierung 2028 ff. – Stand und Ergebnis • Mittelübertragung vom Kommunalreferat • Stellungnahme zum Antrag des Bezirksausschusses 7
+- TOP 4.3.6.: Entwurf des Mehrjahresinvestitionsprogramms 2025-2029 mit allen Anlagen
+- TOP 4.3.7.: Fugen des Kopfsteinpflasters der Kyreinstraße östlich und westlich der Implerstraße mit Teer auffüllen Antwortschreiben des Baureferats auf Bürger*innenanliegen (TOP 2.9 10/25)
+- TOP 4.3.8.: Zwischennachricht Fernwärmeanschluss wurde abgelehnt BV-Empfehlung Nr. 20-26 / E 03197
+- TOP 4.3.9.: Kastanienbaum in der Plinganserstraße 11 Antwortschreiben des Planungsreferats auf Bürger*innenanliegen (TOP 2.14 09/25)
+- TOP 4.3.10.: Dritte Programmanpassung „Wohnen in München VII“ Sozialgerechte Bodennutzung in München (SoBoN) A) Auswirkungen der Fördermittelsituation auf den geförderten und Preisgedämpften Mietwohnungsbau B) Auftrag zur Novellierung der Sozialgerechten Bodennutzung C) Bürgerversammlungsempfehlung
+- TOP 4.3.11.: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP 4.3.12.: Fortschreibung der Fachleitlinie Ökologie: Die Fachleitlinie Klima, Umwelt und globale Verantwortung, Vorstellung und Vorbereitung Öffentlichkeitsphase und Leitprojekte
+- TOP 4.3.13.: Genaue Gehälter der 3 Geschäftsführer*innen "Münchner Wohnen"
+- TOP 4.3.14.: Meldung von Baumfällungen und/oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen
+- TOP 4.3.15.: Gleisbauarbeiten München Harras Antwort der DB InfraGO AG auf Bürger*innenanliegen 2.11 aus 09/25
+- TOP 4.3.16.: Zwischennachricht Verbot gewerblich betriebener Vermietung von möblierten Kleinwohnungen BV-Empfehlung Nr. 20-26 / E 03200
+- TOP 4.3.17.: Lindenschmitstr. 25: Baugenehmigung zurücknehmen
+- TOP 4.3.18.: Langfristige Entsiegelung und Umbau der Schöttlstraße
+- TOP 4.3.19.: Entsiegelung der Fritz-Endres-Straße Antwortschreiben des Baureferats auf Bürger*innenanliegen (TOP 2.13 09/25)
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Sachstand historisches Geländer an der neuen EÜ Lindwurmstraße (CSU)
+- TOP 4.4.2.: Anfrage zu den Konsequenzen des VGH-Beschlusses zur Lindenschmitstraße 25 und zur Genehmigungspraxis der LBK (FDP/Freie Wähler)
+- TOP 4.4.3.: Sanierung und sichere, barrierearme Ausgestaltung der Treppe von der Oberländerstraße zur Plinganserstraße (SPD)
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Fristverlängerung "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Abstellmöglichkeiten Fahrräder Lindenschmit-/Daiserstraße; Zustimmung des BAs erforderlich
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Anhörung VA öffentl. Grund: Faschingsauftritt des offiziellen Prinzenpaares Am Harras am 07.02.2026; TERMIN: 16.01.2026
+- TOP 5.2.2.: Personenbezogener Sonderparkplatz - Stadtbezirk 6, Wackersberger Straße 35a
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h in der Brudermühlstraße Antwortschreiben des MOR auf Bürger*innenanliegen (TOP 2.5 10/25)
+- TOP 5.3.2.: Tempo 30 jetzt an der Kreuzung am Herzog-Ernst-Platz
+- TOP 5.3.3.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München Az.: 172-1/16-49
+- TOP 5.3.4.: Aufstellung eines Mülleimers nahe Brudermühlbrücke
+- TOP 5.3.5.: Fußgängerschild am Kidlerplatz 8 Antwort des Mobilitätsreferats auf Bürger*innenanliegen (TOP 2.9 08/25)
+- TOP 5.3.6.: Antrag zur Reparatur einer Sitzbank am Kidlerplatz (Seniorenvertretung Sendling)
+- TOP 5.3.7.: Grüne Abbiegepfeile für den Radverkehr
+- TOP 5.3.8.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung und Zufahrt für die Grünanlage 1638.2 Isarauen 2, Flaucher Terminverschiebung zu Lfd.Nummer: S 05767/25/
+- TOP 5.3.9.: Verkehrsrechtliche Anordnung: a) Einrichtung Taxistandplatz in der Hans-Preißinger-Straße b) Aufhebung Taxistandplatz in der Brudermühlstraße 1-3
+- TOP 5.3.10.: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP 5.3.11.: Neue Entscheidung des OB: Anbringen eines Verkehrsspiegels vor Brudermühlstraße; BA-Antrag 20-26 / B 07382
+- TOP 5.3.12.: Obdachloser und Müll an der Isar unter der Brudermühlbrücke Antwortschreiben des Sozialreferats auf Bürger*innenanliegen 2.18 aus 09/25
+- TOP 5.3.13.: MVG-Radstationen als geteilte Flächen für Shared Mobility erhalten Rückmeldung des MOR bzgl. Anmerkung des BAs auf Antwortschreiben des BA-Antrag Nr. 20-26 / B 08066
+- TOP 5.3.14.: Informationsveranstaltung zur Versorgung Münchens mit stationären Einrichtungen der Post am 27.11.2025
+- TOP 5.3.15.: Parklizenzgebiet Thalkirchen
+- TOP 5.3.16.: Zwischennachricht Barrierefreiheit und Fußgängerbrücke BV-Empfehlung: Nr. 20-26 / E 03202
+- TOP 5.3.17.: Anfrage zur Verbesserung der Gehwegbeleuchtung an der Oberländerstraße
+- TOP 5.3.18.: Ein sicherer Resi-Huber-Platz. Kinder und Erwachsene sollen besser miteinander zurechtkommen.
+- TOP 5.3.19.: Verkehrssituation Maron-/Kraelerstraße Antwortschreiben des Baureferats auf Bürger*innenanliegen 2.6 aus 11/25
+- TOP 5.3.20.: Neue Toilettenanlagen am Herzog-Ernst-Platz Antwortschreiben des Baureferats zu Stellungnahme des Seniorenbeirats (TOP 5-3-2 09/25) auf ursprünglichen BA-Antrag Nr. 20-26 / B 07537
+- TOP 5.3.21.: Fuß- und Radbrücke über den Mittleren Ring bzw. Brudermühlstraße - erhöhte Unfallgefahr durch verengte Brückenbreite Antwortschreiben des Baureferats auf Bürger*innenanliegen 2.5 aus 06/25
+- TOP 5.3.22.: Verkehrsberuhigung und Vermeidung von Schleichverkehr in der Esswurmstraße durch Diagonalsperren
+- TOP 5.3.23.: Verkehrsrechtliche Anordnung; Lindwurmstraße 88
+- TOP 5.3.24.: U-Bahn Implerstraße: Restarbeiten an den Fassaden
+- TOP 5.3.25.: Stellungnahme zum Antrag aus der Bürgerversammlung 2024 zur Sache Kreuzung Steinerstr./Tölzer Str./Flößergasse (E 02472)
+- TOP 5.3.26.: Treffen wg. Brunthaler Parkplatz Zusammenfassung des Termins
+- TOP 5.3.27.: Arbeiten im Straßenraum; Urbanstr. 22 - Reparatur MSE
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Kfz-Bestand im BA 6 Sendling (Statistisches Taschenbuch) und Interpretation der Zahlen (CSU)
+- TOP 5.4.2.: Der Bezirksausschuss 6 Sendling fordert die Landeshauptstadt München auf, mitzuteilen, wie sich die jeweilige Anzahl der Stellplätze im öffentlichen Raum in Sendling seit 2020 verändert hat (FDP/FREIE WÄHLER)
+- TOP 5.4.3.: Doppelnutzung von Parkplätzen prüfen – zusätzliche Parkplatz-Optionen für Sendling ermöglichen (FDP/FREIE WÄHLER)
+- TOP 5.4.4.: Eisenbahnbrücke Isartalbahnhof (Bündnis90/Die GRÜNEN)
+- TOP 5.4.5.: Fuß- und Radbrücke über die Brudermühlstraße wieder für den gemeinsamen Fuß- und Radverkehr öffnen (Bündnis90/Die GRÜNEN)
+- TOP 5.4.6.: Anzeige der Abfahrt der nächsten U-Bahn bei zweigleisigem Bahnsteig (Bündnis90/Die GRÜNEN)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget die urbanauten „Spiel mich! 15.12.2025 - 14.12.2026“ 3.250,00 € / AZ: 0262.0-6-0589
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative Orgateam Popup Galerie im Stemmerhof „Popup Galerie im Stemmerhof vom 01.01.2026 - 31.12.2026“ 3.900,00 € / AZ: 0262.100-6-0596
+- TOP 6.1.3.: (E) Stadtbezirksbudget IG InitiativGruppe e.V./ buntkicktgut „buntkicktgut - school football work sportpädagogisches Fußballangebot für Mädchen vom 01.10.2025 - 31.07.2026“ 3.645,00 € / AZ: 0262.0-6-0598
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.3.2.: Haushaltsbeschluss 2026; Stadtbezirksbudgets für 2026
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: MünchenBudget 2025: Die Gewinner-Vorschläge stehen fest!
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.3.2.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement, Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 7.3.3.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 7.3.4.: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Protokoll Nutzerbeirat LUISE | 19.11.25
+- TOP 8.3.2.: Versammlungsanzeigen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Zukunftsthemensuche: fastfood-Theater; Was ist die eine Sache, die aus deiner Sicht im München von 2036 anders sein wird als heute?
+- TOP 8.5.2.: Erinnerung: Aufruf zu den Internationalen Wochen gegen Rassismus 2026 (16.03. bis 29.03.2026)
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Kommunalwahl 2026; Informationen zum Neutralitätsgebot zu Wahlkampfzeiten
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: Solidarität mit der ehemaligen Redaktion des HALLO-Werbeblatts und Sorgen über die zukünftige Berichterstattung
+- TOP 2.11.: Ermäßigtes Deutschlandticket
+- TOP 2.12.: Lala-Land Daiserstraße 43
+- TOP 2.13.: Viele Abfälle von Boller und Feuerwerke durch Wind an die Ecke meiner Wohnung
+- TOP 2.14.: Immer noch Haufen Müll von Böller und Feuerwerke nähe meine Wohnung am Quartiersplatz Theresienhöhe
+- TOP 2.15.: "Heckenschnitt" an der Mauer zum Pfarrgarten
+- TOP 7.5.1.: LGBTIQ-Strategie der Landeshauptstadt München Anfrage der Koordinierungsstelle zur Gleichstellung zum Austausch mit dem BA
