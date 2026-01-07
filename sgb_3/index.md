@@ -441,6 +441,7 @@ Berichterstattung
 
 - [§ 309 Allgemeine Meldepflicht](0309.md)
 - [§ 310 Meldepflicht bei Wechsel der Zuständigkeit](0310.md)
+- [§ 310a Meldepflicht für sonstige Personen](0310a.md)
 
 #### Zweiter Unterabschnitt Anzeige-, Nachweis- und Bescheinigungspflichten
 
@@ -678,6 +679,7 @@ und zeitweilige Aufgaben
 - [§ 421d Vorübergehende Sonderregelungen zum Arbeitslosengeld](0421d.md)
 - [§ 421e Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union](0421e.md)
 - [§ 421f Übermittlung von Daten zum Bezug von Kurzarbeitergeld](0421f.md)
+- [§ 421g Vorübergehende Sonderregelung für anerkennungssuchende Fachkräfte im Inland](0421g.md)
 
 ### Dritter Abschnitt Grundsätze bei Rechtsänderungen
 

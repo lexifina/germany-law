@@ -64,6 +64,7 @@
 |  | § 20 | Berechnung der Steuer nach vereinnahmten Entgelten |
 |  | § 21 | Besondere Vorschriften für die Einfuhrumsatzsteuer |
 |  | § 21a | Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro |
+|  | § 21b | Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union |
 |  | § 22 | Aufzeichnungspflichten |
 |  | § 22a | Fiskalvertretung |
 |  | § 22b | Rechte und Pflichten des Fiskalvertreters |

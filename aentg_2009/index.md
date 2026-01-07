@@ -76,12 +76,12 @@
 ## Abschnitt 9 Sonderregelungen und Übergangsbestimmungen
 
 
-## Unterabschnitt 1 Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+### Unterabschnitt 1 Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
 
 - [§ 34 Erstmontage- und Einbauarbeiten](0034.md)
 - [§ 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland](0035.md)
 
-## Unterabschnitt 2 Sonderregelungen für den Straßenverkehrssektor
+### Unterabschnitt 2 Sonderregelungen für den Straßenverkehrssektor
 
 - [§ 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden](0036.md)
 - [§ 37 Bilaterale Beförderung von Gütern](0037.md)
@@ -89,7 +89,7 @@
 - [§ 39 Kombinierter Verkehr](0039.md)
 - [§ 40 Transit](0040.md)
 
-## Unterabschnitt 3 Übergangsbestimmungen
+### Unterabschnitt 3 Übergangsbestimmungen
 
 - [§ 41 Übergangsbestimmungen für Langzeitentsendung](0041.md)
 - [§ 42 Übergangsbestimmungen für das Baugewerbe](0042.md)

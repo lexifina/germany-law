@@ -11,6 +11,7 @@
 |  |  | Unterabschnitt 1 |  |  | Verfahren vor dem Amts- oder Landgericht |
 |  |  | Unterabschnitt 2 |  |  | Verfahren vor dem Oberlandesgericht |
 |  |  | Unterabschnitt 3 |  |  | Verfahren vor dem Bundesgerichtshof |
+|  |  | Unterabschnitt 4 |  |  | Online-Verfahren nach Buch 12 Abschnitt 2 der Zivilprozessordnung |
 |  | Abschnitt 2 | Berufung und bestimmte Beschwerden |
 |  | Abschnitt 3 | Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG |
 |  | Abschnitt 4 | Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG |
@@ -267,6 +268,17 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | 1215 | Beendigung des gesamten Verfahrens durch 1.Zurücknahme der Klage a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 128 Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht, oderc)im Fall des § 331 Abs. 3 ZPO vor Ablauf des Tages, an dem das Urteil der Geschäftsstelle übermittelt wird,wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,2.Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält, |  |
 |  | 3.gerichtlichen Vergleich oder4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile vorausgegangen ist: Die Gebühr 1214 ermäßigt sich auf .......... | 3,0 |
 |  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
+| Unterabschnitt 4 Online-Verfahren nach Buch 12 Abschnitt 2 der Zivilprozessordnung |
+| 1216 | Verfahren im Allgemeinen .......... | 2,0 |
+|  | Absatz 1 der Anmerkung zu Nummer 1210 gilt entsprechend. |  |
+| 1217 | Beendigung des gesamten Verfahrens durch 1.Zurücknahme der Klage a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 1127 Abs. 1 Satz 1 und Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht, oderc)im Fall des § 1128 Abs. 2 ZPO vor Ablauf des Tages, an dem das Urteil der Geschäftsstelle übermittelt wird,wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,2.Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält oder nur deshalb Tatbestand und die Entscheidungsgründe enthält, weil zu erwarten ist, dass das Urteil im Ausland geltend gemacht wird (§ 313a Abs. 4 Nr. 5 ZPO),3.gerichtlichen Vergleich oder |  |
+|  | 4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt, |  |
+|  | es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile vorausgegangen ist: |  |
+|  | Die Gebühr 1216 ermäßigt sich auf .......... | 1,0 |
+|  | Die Anmerkung zu Nummer 1211 gilt entsprechend. |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 | Abschnitt 2 Berufung und bestimmte Beschwerden |
 | Vorbemerkung 1.2.2: Dieser Abschnitt ist auf Beschwerdeverfahren nach 1. den §§ 73 und 171 GWB, 2. § 48 WpÜG, 3. § 113 Abs. 1 WpHG, 4. § 75 EnWG, 5. § 13 EU-VSchDG, 6. § 35 KSpTG und7. § 11 WRegG anzuwenden. |
 | 1220 | Verfahren im Allgemeinen .......... | 4,0 |
