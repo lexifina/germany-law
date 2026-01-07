@@ -1,0 +1,103 @@
+---
+ecli: "ECLI:DE:BGH:2026:070126BSTB68.25.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "StB 68/25"
+decided: "2026-01-07"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE702182026.xml"
+neuris_doknr: "KORE702182026"
+---
+
+# Bundesgerichtshof, StB 68/25 vom 2026-01-07
+
+## Tenor
+
+Die Beschwerde des Beschuldigten gegen den Beschluss des Bundesgerichtshofs vom 30. Juni 2025 wird verworfen.
+
+Der Beschwerdeführer hat die Kosten des Rechtsmittels zu tragen.
+
+## Gründe
+
+1 Der Generalbundesanwalt führt gegen den Beschuldigten ein Ermittlungsverfahren wegen des Verdachts der mitgliedschaftlichen Beteiligung an einer terroristischen Vereinigung im Ausland. Auf seinen Antrag hat der Ermittlungsrichter des Bundesgerichtshofs mit Beschluss vom 27. Mai 2025 (5 BGs 252/25) die Durchsuchung der Person des Beschuldigten, seiner Wohn-, Keller- und sonstigen Nebenräume, Garagen sowie des auf ihn zugelassenen Kraftfahrzeugs zum Zwecke der Sicherstellung näher beschriebener Beweismittel angeordnet.
+
+2 Die Durchsuchung ist am 4. Juni 2025 vollzogen worden. Bei der Durchsuchung sind unter anderem drei Laptops der Marken Acer (Asservatennummer 1.2.7.1), Packard Bell (Asservatennummer 1.2.8.1) und Asus (Asservatennummer 1.2.8.2) sowie ein USB-Stick (Asservatennummer 1.2.10.1) in Verwahrung genommen worden. Der Beschuldigte hat der Sicherstellung der beiden erstgenannten Laptops und des USB-Sticks widersprochen. Auf Antrag des Generalbundesanwalts hat der Ermittlungsrichter des Bundesgerichtshofs mit Beschluss vom 30. Juni 2025 die vorläufige Sicherstellung dieser Gegenstände richterlich bestätigt (5 BGs 277/25). Deren Durchsicht dauert noch an. Hinsichtlich des weiteren Laptops Acer (Asservatennummer 1.2.8.2), welches dem Beschuldigten zugeordnet worden ist, ist die Herausgabe angeordnet worden.
+
+3 Der Beschuldigte wendet sich mit seiner Beschwerde gegen den Beschluss über die Bestätigung der vorläufigen Sicherstellung. Er begehrt die Herausgabe der zwei weiterhin vorläufig sichergestellten Laptops. Er macht im Wesentlichen geltend, diese hätten im Eigentum und Gewahrsam seiner Ehefrau sowie seiner Tochter gestanden. Es bestehe daher ein Beweisverwertungsverbot gemäß § 97 Abs. 1 Nr. 1 StPO. Ferner sei die fortdauernde Beschlagnahme unverhältnismäßig. Auch hätte im Rahmen einer Vorabprüfung geschützte Kommunikation identifiziert und ausgesondert werden müssen.
+
+4 Der Ermittlungsrichter des Bundesgerichtshofs hat der Beschwerde nicht abgeholfen und die Sache dem Senat zur Entscheidung vorgelegt.
+
+I.
+
+5 Die Beschwerde des Beschuldigten ist in Übereinstimmung mit der in der Antragsschrift des Generalbundesanwalts vertretenen Auffassung, welcher der Beschuldigte insoweit nicht entgegengetreten ist, dahin zu verstehen, dass er sich allein gegen die richterliche Bestätigung der vorläufigen Sicherstellung der Laptops mit den mit den Asservatennummern 1.2.7.1 und 1.2.8.1 wendet. Der Inhalt der Beschwerdebegründung bezieht sich ausschließlich auf diese Gegenstände. Der weitere Laptop ist diesem zudem bereits herausgegeben worden (Asservatennummer 1.2.8.2).
+
+II.
+
+6 Das zulässige Rechtsmittel hat in der Sache keinen Erfolg.
+
+7 1. Die Beschwerde gegen die richterliche Bestätigung der noch nicht erledigten vorläufigen Sicherstellung der Laptops mit den Asservatennummern 1.2.7.1 und 1.2.8.1 ist zulässig. Die angefochtene Entscheidung betrifft die Durchsuchung im Sinne des § 304 Abs. 5 StPO (s. BGH, Beschlüsse vom 20. Mai 2021 ‒ StB 21/21, NStZ 2021, 623 Rn. 6; vom 31. Juli 2018 – StB 4/18, StV 2019, 617 Rn. 9 f.).
+
+8 2. Das Rechtsmittel ist jedoch unbegründet. Die Voraussetzungen der vorläufigen Sicherstellung der vorgenannten Asservate zum Zwecke der Durchsicht gemäß § 94 Abs. 1, § 98 Abs. 2 Satz 2 analog, §§ 102, 110 Abs. 1 und 3, § 162 Abs. 1, § 169 Abs. 1 Satz 2 StPO liegen weiterhin vor.
+
+9 a) Die vorläufige Sicherstellung gemäß § 110 Abs. 1 und 3 StPO bildet einen Teil der Durchsuchung nach § 102 StPO. Für ihre Rechtmäßigkeit kommt es daher darauf an, ob die Voraussetzungen für eine Durchsuchung im Zeitpunkt der Entscheidung noch vorliegen. Sind sie dagegen nicht – mehr – erfüllt, ist auch die Durchsicht vorläufig sichergestellter Gegenstände als Teil der Durchsuchung nicht mehr zulässig. Es muss folglich weiterhin ein Anfangsverdacht gegeben und die Durchsicht zum Auffinden von Beweismitteln geeignet und verhältnismäßig sein. An der Eignung mangelt es insbesondere, wenn Beweismittel aufgespürt werden sollen, die einem Beschlagnahmeverbot oder einem sonstigen Verwertungsverbot unterliegen (vgl. BVerfG, Beschlüsse vom 20. September 2018 – 2 BvR 708/18, NJW 2018, 3571 Rn. 25; vom 18. Juni 2008 – 2 BvR 1111/08, juris Rn. 5; BGH, Beschlüsse vom 24. Oktober 2023 – StB 59/23, NStZ-RR 2024, 26, 27; vom 20. Mai 2021 – StB 21/21, BGHR StPO § 98 Abs. 2 Bestätigung 2 Rn. 12 mwN).
+
+10 b) Die danach erforderlichen Voraussetzungen der Durchsuchung waren und sind weiterhin erfüllt.
+
+11 aa) Gegen den Beschuldigten bestand und besteht nach wie vor ein die Durchsuchung nach § 102 StPO rechtfertigender Anfangsverdacht.
+
+12 (1) Für die Zulässigkeit einer regelmäßig in einem frühen Stadium der Ermittlungen in Betracht kommenden Durchsuchung genügt der über bloße Vermutungen hinausreichende, auf bestimmte tatsächliche Anhaltspunkte gestützte konkrete Verdacht, dass eine Straftat begangen wurde und der Verdächtige als Täter oder Teilnehmer an dieser Tat in Betracht kommt. Eines hinreichenden oder gar dringenden Tatverdachts bedarf es ‒ unbeschadet der Frage der Verhältnismäßigkeit ‒ nicht (st. Rspr.; vgl. BVerfG, Beschluss vom 7. September 2006 ‒ 2 BvR 1219/05, BVerfGK 9, 149, 153; BGH, Beschlüsse vom 20. Juli 2022 ‒ StB 29/22, NStZ 2022, 692 Rn. 6; vom 5. Juni 2019 – StB 6/19, juris Rn. 7 mwN).
+
+13 (2) Daran gemessen bestand zum Zeitpunkt des Durchsuchungsbeschlusses der Anfangsverdacht, dass sich der Beschuldigte an der ausländischen terroristischen Vereinigung „Internationale Union der öffentlichen Vereinigungen Große Don Armee“ (im Folgenden Große Don Armee) als Mitglied beteiligte, strafbar gemäß § 129a Abs. 1 Nr. 1, § 129b Abs. 1 StGB. An der Verdachtslage hat sich bis zum jetzigen Zeitpunkt nichts geändert.
+
+14 (a) In diesem Sinne ist von folgendem Sachverhalt auszugehen:
+
+15 (aa) Die Große Don Armee ist eine im Jahr 1994 in Nowotscherkassk im Oblast Rostow (Russische Föderation) gegründete hierarchisch strukturierte Militärkosakenorganisation. Sie strebt die Förderung der politischen Ziele der Russischen Föderation auf der Grundlage des russisch-orthodoxen Glaubens und des Kosakentums innerhalb sowie außerhalb des Staatsgebietes der Russischen Föderation auch mittels des Einsatzes von tödlicher Gewalt gegen Personen an.
+
+16 Der oberste Ataman und somit Anführer der Großen Don Armee ist Nikolay Kositszyn. Die Gruppierung verfügt über einen Rat der Atamane. Diesem gehören neben dem Vorgenannten Atamane der Teilgliederungen und weitere, von der Mitgliederversammlung ‒ dem sogenannten Großkreis ‒ für eine mehrjährige Amtszeit gewählte Mitglieder an. Die Vereinigung ist in den russischen Oblasten Rostow, Woronesch und Wolgograd sowie den ukrainischen Oblasten Donezk und Luhansk tätig. Außerhalb dieser Gebiete bestehen unter anderem in Belarus und Deutschland eingerichtete unselbständige Teilorganisationen.
+
+17 Seit dem Jahr 2014 beteiligte sich die Große Don Armee mit unselbständigen paramilitärischen Teilorganisationen unter dem Kommando des Nikolay Kositszyn auf Seiten prorussischer Separatisten und seit dem 24. Februar 2022 bis jedenfalls April 2022 auf Seiten der Streitkräfte der Russischen Föderation an Kampfhandlungen gegen ukrainische Streitkräfte in der Ostukraine. Bei diesen Kampfhandlungen starben ukrainische Soldaten. Die Vereinigung verfolgte hierbei das Ziel, die ukrainische Regierung zu stürzen und die ukrainische Staatlichkeit mit Waffengewalt zu beseitigen. Die Kämpfer der paramilitärischen Teilorganisationen waren nicht in die russischen Streitkräfte oder Sicherheitsdienste eingliedert, agierten aber mit deren Wissen und Duldung.
+
+18 (bb) Zu den unselbständigen Teilorganisationen zählt die in der Bundesrepublik Deutschland tätige Schützengarde Deutschland. Diese nennt sich auch Deutsche Garde der Don-Kosaken Heiliger Alexander Schmorell. Hierbei handelt es sich um eine auf Dauer angelegte feste Gruppierung, die in Übereinstimmung mit den Zielen der Großen Don Armee und mit Billigung ihres Anführers in deren Befehlsstruktur eingegliedert ist. Sie ist ebenfalls als Militärkosakenorganisation hierarchisch strukturiert. Nach außen tritt sie als Wohltätigkeitsorganisation auf (Verein für Völkerfreundschaft e.V.), um ihre Zugehörigkeit zur Großen Don Armee zu verschleiern. Diesbezüglich organisiert sie Hilfslieferungen für durch prorussische Separatisten besetzte Gebiete der Ukraine. Zu ihren Mitgliedern zählen dem Spektrum der Reichsbürger und Selbstverwalter zuzurechnende Personen sowie mindestens eine weitere Person mit rechtsextremer Gesinnung. Diese unterhalten enge Beziehungen zu russlandnahen Vereinigungen im In- und Ausland, etwa dem T. -Institut in B. und dem S. -Institut in W. .
+
+19 (cc) Der Beschuldigte leitete die unselbständige Teilorganisation Schützengarde Deutschland. Er teilte die Ziele der Vereinigung Große Don Armee. Er nahm zudem an Treffen mit hochrangigen Vertretern der Vereinigung in N. , M , B. und andernorts teil. Zudem trug er in der Öffentlichkeit russische Offiziersuniformen. Die Mitglieder der Schützengarde Deutschland absolvierten ferner Schießübungen und gründeten zu diesem Zweck einen inzwischen wieder aufgelösten Schießsportverein.
+
+20 (b) Der Anfangsverdacht gründet sich im Wesentlichen auf Erkenntnisse des Landesamts für Verfassungsschutz Berlin, des Bundesamts für Verfassungsschutz, des Landeskriminalamts Berlin und des Bundeskriminalamts. Insbesondere belegt die Auswertung von Videoaufzeichnungen nach vorläufiger Bewertung, dass der Beschuldigte an einem Ratstreffen der Atamane der Großen Don Armee im Mai 2018 teilnahm. Hierbei trug er eine militärische Uniform eines Generalmajors der russischen Landstreitkräfte mit dem Wappen der Organisation. Ferner richtete er folgende Worte an die Anwesenden: „Freundschaft und Frieden! Hurra unserem Präsidenten Vladimir Vladimirowitsch Putin! Hurra unserem Ataman Nikolay Kositszyn!“, woraufhin die versammelten Mitglieder der Vereinigung Hurra-Rufe anstimmten. Anschließend verlieh ihm der oberste Ataman militärische Orden in Anerkennung seiner Verdienste um die Große Don Armee. Nach weiteren Erkenntnissen des Landesamts für Verfassungsschutz Berlin nahm der Beschuldigte an weiteren Zusammenkünften von Mitgliedern der Organisation in den Jahren 2017, 2018 und 2020 in B. , G. und P. teil. Die Erkenntnisse zu Schießübungen der Gruppierung stützen sich ferner auf ein Schreiben des Beschuldigten aus Oktober 2017.
+
+21 Zu den weiteren Einzelheiten der den Tatverdacht gegen den Beschuldigten begründenden Umstände wird auf die Ausführungen im Durchsuchungsbeschluss des Ermittlungsrichters des Bundesgerichtshofs vom 27. Mai 2025 sowie die Antragsschrift des Generalbundesanwalts vom 8. Dezember 2025 verwiesen.
+
+22 (c) In rechtlicher Hinsicht sind die Handlungen des Beschuldigten nach gegenwärtigem Erkenntnisstand als mitgliedschaftliche Beteiligung an der ausländischen terroristischen Vereinigung Große Don Armee zu werten, strafbar gemäß § 129a Abs. 1 Nr. 1, § 129b Abs. 1 StGB.
+
+23 (aa) Bei der Gruppierung Große Don Armee handelt es sich nach dem derzeitigem Ermittlungsergebnis um eine ausländische terroristische Vereinigung, deren Zwecke und Tätigkeit auf die Begehung von Mord und Totschlag (§§ 211, 212 StGB) gerichtet sind. Der Zusammenschluss bestand im Sinne von §§ 129a, 129b StGB in Verbindung mit § 129 Abs. 2 StGB aus mehr als zwei Personen und war auf längere Dauer angelegt. Die Personen verfolgten in einem organisatorisch fest abgesteckten Rahmen gemeinsame Zwecke und unterwarfen sich dabei aus übergeordneten ideologischen Zielen dem Gruppenwillen (vgl. zu den Voraussetzungen im Einzelnen BGH, Urteil vom 2. Juni 2021 – 3 StR 21/21, BGHSt 66, 137 Rn. 19 ff. mwN). Im Einzelnen:
+
+24 Die Große Don Armee ist auf Dauer angelegt und hat eine große Zahl an Mitgliedern. Sie verfügt über eine hierarchische und militärische Organisationsstruktur. Sie hat einen Anführer sowie einen Rat, in dem die wichtigsten Entscheidungen getroffen werden. Zudem sind ihr unselbständige Teilorganisationen in und außerhalb von Russland angeschlossen, zu denen auch die Schützengarde Deutschland gehört. Die Gruppierung verfolgt dabei das übergeordnete gemeinsame politische Ziel, zur Förderung der Intention der Russischen Föderation die ukrainische Regierung zu stürzen und die ukrainische Staatlichkeit mit Waffengewalt zu beseitigen.
+
+25 Die von den Mitgliedern der Organisation begangenen und beabsichtigten Taten erweisen sich nach dem derzeitigen Stand der Ermittlungen als Straftaten im Sinne von § 129a Abs. 1 Nr. 1 StGB. Die Zwecke und die Tätigkeit der Vereinigung sind darauf gerichtet, Angehörige der ukrainischen Streitkräfte in der Ostukraine zu töten. Diese Taten sind hochwahrscheinlich weder gerechtfertigt noch entschuldigt (s. zur notwendigen Strafbarkeit LK/Krauß, StGB, 13. Aufl., § 129 Rn. 51 mwN). Auch liegen die Voraussetzungen für ein Kombattantenprivileg bereits deshalb nicht vor, weil die durch die Vereinigung gebildeten Kampfeinheiten in der Ukraine nicht in reguläre Streitkräfte der Russischen Föderation eingegliedert sind, sondern eigenständig agieren (vgl. BGH, Beschluss vom 20. April 2022 – AK 15/22 u.a., NStZ-RR 2022, 191, 192 mwN).
+
+26 Bei der terroristischen Vereinigung Große Don Armee handelt es sich um eine ausländische Organisation gemäß § 129b Abs. 1 StGB. Denn ihre Organisationsstruktur und Tätigkeitsschwertpunkte liegen in Russland sowie der Ukraine und damit außerhalb Deutschlands (vgl. zur Abgrenzung zwischen inländischer und ausländischer Vereinigung BGH, Beschluss vom 28. Juni 2022 – 3 StR 403/20, BGHR StGB § 129b Vereinigung 3 Rn. 19 mwN).
+
+27 (bb) Es bestehen weiterhin zureichende tatsächliche Anhaltpunkte dafür, dass sich der Beschuldigte ab einem bislang nicht näher bekannten Zeitpunkt vor dem 13. Oktober 2017 an dieser Vereinigung als Mitglied beteiligte. Er förderte diese nicht nur von außen, sondern ‒ getragen von einem einvernehmlichen Willen zur fortdauernden Teilnahme am Vereinsleben ‒ von innen und nahm damit eine Stellung innerhalb der Vereinigung ein. Er gliederte sich mit Einverständnis des obersten Atamans der Großen Don Armee über einen mehrjährigen Zeitraum in die Organisation ein, ordnete sich deren Willen unter und entfaltete eine aktive Förderung ihrer Ziele. Er leitete die unselbständige Teilorganisation Schützengarde Deutschland und nahm in dieser Funktion an hochrangigen Treffen der Vereinigung teil. Er stand ferner in unmittelbarem Kontakt mit den Führungspersonen der Vereinigung, bekleidete in dieser einen hohen militärischen Rang und trug eine Uniform mit Abzeichen der Organisation.
+
+28 (cc) Deutsches Strafrecht ist gemäß §§ 3, 9 Abs. 1 StGB anwendbar, da der Beschuldigte seine Beteiligungshandlungen auch im Inland verübte. Im Übrigen liegen die Voraussetzungen des § 129b Abs. 1 Satz 2 Variante 1, 2 und 4 StGB vor.
+
+29 (d) Das Bundesministerium der Justiz und für Verbraucherschutz hat am 23. September 2024 die Ermächtigung zur Verfolgung von Straftaten im Zusammenhang mit der ausländischen terroristischen Vereinigung „Internationale Union der öffentlichen Vereinigungen Große Don Armee“ gemäß § 129b Abs. 1 Satz 3 StGB erteilt.
+
+30 bb) Die Durchsuchungsanordnung stand zudem in einem angemessenen Verhältnis zum Grad des Tatverdachts und zur Bedeutung sowie Schwere der aufzuklärenden Straftat.
+
+31 c) Die Strafgerichtsbarkeit des Bundes und damit die Zuständigkeit des Ermittlungsrichters des Bundesgerichtshofs für die richterliche Bestätigung der vorläufigen Sicherstellung als Teil der Durchsuchung ergibt sich aus § 169 Abs. 1 StPO, § 120 Abs. 1 Nr. 6, § 142 Abs. 1 Nr. 1, § 142a Abs. 1 Satz 1 GVG.
+
+32 d) Die vorläufige Sicherstellung der in dem angefochtenen Beschluss bezeichneten Laptops der Marken Acer und Packard Bell sowie ihre Mitnahme zur Durchsicht sind ebenfalls nicht zu beanstanden.
+
+33 aa) Die vorläufige Sicherstellung dieser Gegenstände hält sich in den Grenzen des Beschlusses des Ermittlungsrichters des Bundesgerichtshofs vom 27. Mai 2025, mit dem die Durchsuchung der Wohnung des Beschwerdeführers gestattet wurde. Denn dieser nannte als Zweck der Durchsuchung unter anderem die Sicherstellung von Aufzeichnungen, Computern, Laptops und Datenträgern, die Aufschluss über die die bisherigen Tätigkeiten der Beschuldigten für die Vereinigung und dessen Kommunikation mit Mitgliedern der Organisation geben.
+
+34 bb) Einer Durchsicht steht kein Beschlagnahme- oder sonstiges Verwertungsverbot entgegen. Dies gilt auch dann, wenn die Laptops dem Vortrag des Beschuldigten entsprechend von dessen Ehefrau und Tochter genutzt wurden. Keiner Entscheidung bedarf an dieser Stelle, ob die Gegenstände unmittelbar vom Anwendungsbereich des § 97 Abs. 1 StPO erfasst werden (vgl. BGH, Beschluss vom 1. August 2018 – 1 BGs 324/18, NStZ-RR 2018, 319; KK-StPO/Greven, 9. Aufl., § 97 Rn. 11). Denn der Beschlagnahmefreiheit steht jedenfalls bereits entgegen, dass der Beschuldigte Mitgewahrsam an den vorläufig sichergestellten Gegenständen hatte (vgl. zum von Amts wegen zu prüfenden Beweisverwertungsverbot im Ermittlungsverfahren BGH, Beschluss vom 6. Juni 2019 – StB 14/19, BGHSt 64, 89 Rn. 26 ff.).
+
+35 (1) Der Beweisgegenstand muss sich gemäß § 97 Abs. 2 Satz 1 StPO im Gewahrsam des Zeugnisverweigerungsberechtigten befinden. Die Beschlagnahmeverbote des § 97 StPO greifen nicht ein, wenn die Sachherrschaft über ein Beweismittel von dem Zeugnisverweigerungsberechtigten gemeinsam mit dem Tatverdächtigen ausgeübt werden (vgl. BGH, Beschluss vom 4. August 1964 – 3 StB 12/63, BGHSt 19, 374; Schmitt/Köhler/Köhler, StPO, 68. Aufl., § 97 Rn. 12; MüKoStPO/Hauschild, 2. Aufl., § 97 Rn. 18; KK-StPO/Greven, 9. Aufl., § 97 Rn. 8). Gewahrsam ist die von einem Herrschaftswillen getragene tatsächliche Sachherrschaft (vgl. BeckOK StPO/Gerhold, 57. Ed., § 97 Rn. 31; MüKoStPO/Hauschild, 2. Aufl., § 97 Rn. 19; Radtke/Hohmann/Werner, StPO, 2. Aufl., § 97 Rn. 14).
+
+36 (2) Hieran gemessen hatte der Beschuldigte zum Zeitpunkt der Sicherstellung Mitgewahrsam an den sichergestellten Laptops. Diese befanden sich auf einem Sideboard im Schlafzimmer des Beschuldigten und seiner Ehefrau sowie in einem Schrank im von der Familie gemeinsam genutzten Dachgeschoss.
+
+37 cc) Die vorläufige Sicherstellung der Gegenstände und ihre Durchsicht entsprechen darüber hinaus unter Berücksichtigung der grundrechtlich geschützten Belange des Beschuldigten dem Grundsatz der Verhältnismäßigkeit.
+
+38 (1) Die Durchsicht der Gegenstände ist zur Aufklärung der Tat geeignet und erforderlich. Auch zum jetzigen Zeitpunkt liegen zureichende Anhaltspunkte dafür vor, dass die Durchsicht zum Auffinden beweisrelevanter Daten oder Inhalte führen wird, mit deren Hilfe eine Strafbarkeit des Beschuldigten nachgewiesen werden kann (vgl. BGH, Beschluss vom 20. Mai 2021 – StB 21/21, NStZ 2021, 623 Rn. 12). Weniger einschneidende Mittel sind nicht gegeben. Die vorläufige Sicherstellung steht darüber hinaus in einem angemessenen Verhältnis zu der Schwere der aufzuklärenden Straftat und der Stärke des aufgezeigten Tatverdachts.
+
+39 (2) Die Gegenstände durften aus der Wohnung des Beschuldigten zur Auswertung mitgenommen werden, weil die Durchsicht auf Beweisrelevanz im Rahmen der Wohnungsdurchsuchung vor Ort nicht möglich war (vgl. BGH, Beschlüsse vom 24. Oktober 2023 – StB 59/23, NStZ-RR 2024, 26, 28; vom 20. Mai 2021 – StB 21/21, BGHR StPO § 98 Abs. 2 Bestätigung 2 Rn. 11; MüKoStPO/Hauschild, 2. Aufl., § 110 Rn. 8; LR/Tsambikakis, StPO, 28. Aufl., § 110 Rn. 21). Im Übrigen unterliegen Art, Umfang und Dauer der Durchsicht nach § 110 StPO zunächst der Entscheidung der Ermittlungsbehörde, die hierbei einen eigenverantwortlichen Ermessenspielraum hat (vgl. BVerfG, Beschluss vom 30. Januar 2002 – 2 BvR 2248/00, NJW 2002, 1410, 1411; BGH, Beschlüsse vom 20. April 2023 – StB 5/23, juris Rn. 28; vom 5. August 2003 – StB 7/03, BGHR StPO § 105 Abs. 1 Durchsuchung 3 mwN). Eine Überschreitung dieses Ermessenspielraums – auch in zeitlicher Hinsicht – ist derzeit nicht gegeben. Der Senat geht jedoch aufgrund der ihm bekannten Sachlage davon aus, dass die Durchsicht der vorläufig sichergestellten Laptops zeitnah abgeschlossen sein wird und diese zurückgegeben werden.
+
+Schäfer Berg Voigt
