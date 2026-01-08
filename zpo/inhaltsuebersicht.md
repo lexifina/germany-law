@@ -1379,3 +1379,45 @@
 | § 1118 | Zentralbehörde |
 | § 1119 | Verwaltungszusammenarbeit |
 | § 1120 | Mehrsprachige Formulare |
+|  |  |
+| Buch 12 |
+| Erprobung und Evaluierung |
+|  |
+| Abschnitt 1 |
+| Allgemeine Vorschriften |
+|  |
+| § 1121 | Zielsetzung und Anwendungsbereich |
+|  |
+| Abschnitt 2 |  |
+| Erprobung eines Online-Verfahrens |  |
+|  |  |
+|  | Titel 1 |
+|  | Anwendungsbereich |
+| § 1122 | Umfang der Erprobung |
+| § 1123 | Verordnungsermächtigungen |
+|  |  |
+|  | Titel 2 |
+|  | Verfahren |
+| § 1124 | Digitale Kommunikation; Verordnungsermächtigung |
+| § 1125 | Digitale Eingabesysteme im Online-Verfahren; Verordnungsermächtigung |
+| § 1126 | Digitale Strukturierung |
+| § 1127 | Verhandlung |
+| § 1128 | Versäumnisurteil |
+| § 1129 | Beweisaufnahme |
+| § 1130 | Benachrichtigung; Ersetzung der Verkündung |
+|  |  |
+|  | Titel 3 |
+|  | Kommunikationsplattform |
+| § 1131 | Entwicklung und Bereitstellung; Verordnungsermächtigungen |
+| § 1132 | Kommunikations-, Austausch- und Übermittlungsformen |
+| § 1133 | Nutzungspflichten; Gelegenheit zur Identifizierung |
+|  |  |
+|  | Titel 4 |
+|  | Evaluierung |
+| § 1134 | Evaluierung |
+|  |  |
+| Abschnitt 3 |  |
+| Erprobung weiterer digitaler Eingabesysteme |  |
+|  |  |
+| § 1135 | Umfang der Erprobung |
+| § 1136 | Evaluierung |

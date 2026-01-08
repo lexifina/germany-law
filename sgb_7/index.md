@@ -441,8 +441,7 @@ von Renten](0190.md)
 
 - [§ 209 Bußgeldvorschriften](0209.md)
 - [§ 210 Zuständige Verwaltungsbehörde](0210.md)
-- [§ 211 Zusammenarbeit bei der Verfolgung und Ahndung von
-Ordnungswidrigkeiten](0211.md)
+- [§ 211 Zusammenarbeit bei der Verfolgung und Ahndung von Ordnungswidrigkeiten](0211.md)
 
 ## Zehntes Kapitel Übergangsrecht
 
