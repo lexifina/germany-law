@@ -44,6 +44,7 @@
 - [§ 13 Kostenerstattung](0013.md)
 - [§ 14 Teilkostenerstattung](0014.md)
 - [§ 15 Ärztliche Behandlung, elektronische Gesundheitskarte](0015.md)
+- [§ 15a Behandlung durch Pflegefachpersonen, Pflegeprozessverantwortung](0015a.md)
 - [§ 16 Ruhen des Anspruchs](0016.md)
 - [§ 17 Leistungen bei Beschäftigung im Ausland](0017.md)
 - [§ 18 Kostenübernahme bei Behandlung
@@ -222,7 +223,7 @@ Versorgung](0072.md)
 - [§ 73a (weggefallen)](0073a.md)
 - [§ 73b Hausarztzentrierte Versorgung](0073b.md)
 - [§ 73c Kooperationsvereinbarungen zum Kinder- und Jugendschutz](0073c.md)
-- [§ 73d (weggefallen)](0073d.md)
+- [§ 73d Eigenverantwortliche Erbringung von Leistungen durch Pflegefachpersonen im Rahmen der vertragsärztlichen Versorgung; eigenverantwortliche Verordnung häuslicher Krankenpflege durch Pflegefachpersonen, Evaluation](0073d.md)
 - [§ 74 Stufenweise Wiedereingliederung](0074.md)
 - [§ 75 Inhalt und Umfang der Sicherstellung](0075.md)
 - [§ 75a Förderung der Weiterbildung](0075a.md)
@@ -336,6 +337,7 @@ und anderen Einrichtungen
 - [§ 111c Versorgungsverträge mit Rehabilitationseinrichtungen](0111c.md)
 - [§ 111d Ausgleichszahlungen an Vorsorge- und Rehabilitationseinrichtungen aufgrund von Einnahmeausfällen durch das neuartige Coronavirus SARS-CoV-2, Verordnungsermächtigung](0111d.md)
 - [§ 112 Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung](0112.md)
+- [§ 112a Eigenverantwortliche Erbringung von Leistungen durch Pflegefachpersonen im Rahmen der Krankenhausbehandlung](0112a.md)
 - [§ 113 Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung](0113.md)
 - [§ 114 Landesschiedsstelle](0114.md)
 
@@ -874,8 +876,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 323 Betriebsleistungen](0323.md)
 - [§ 324 Zulassung von Anbietern von Betriebsleistungen](0324.md)
 - [§ 325 Zulassung von Komponenten und Diensten der Telematikinfrastruktur](0325.md)
-- [§ 326 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0326.md)
-- [§ 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung](0326-2.md)
+- [§ 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung](0326.md)
 - [§ 327 Nutzung von Diensten der Telematikinfrastruktur durch weitere Dienste und Anwendungen; Bestätigungsverfahren](0327.md)
 - [§ 328 Gebühren und Auslagen; Verordnungsermächtigung](0328.md)
 
@@ -901,6 +902,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 338 Komponenten zur Wahrnehmung der Versichertenrechte](0338.md)
 - [§ 339 Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen](0339.md)
 - [§ 340 Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen](0340.md)
+- [§ 340a Sicherer Umgang mit Komponenten zur Authentifizierung von Leistungserbringerinstitutionen](0340a.md)
 
 #### Zweiter Titel Elektronische Patientenakte
 
@@ -1054,5 +1056,6 @@ von Leistungsdaten, Datentransparenz
 - [§ 425 Evaluierung des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes](0425.md)
 - [§ 426 Übergangsregelung zur Beitragspflicht, Tragung und Zahlung der Beiträge aus dem Zuschlag nach § 307j des Sechsten Buches](0426.md)
 - [§ 427 Evaluation des Krankenhausversorgungsverbesserungsgesetzes](0427.md)
+- [§ 428 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0428.md)
 - [Anlage 1 (zu § 135e) Leistungsgruppen und Qualitätskriterien](anlage-1.md)
 - [Anlage 2 (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage-2.md)
