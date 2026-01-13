@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses für Chancengerechtigkeit und Integration
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-13T15:00:00+01:00
+- Ende: 2026-01-13T16:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/193
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34167
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34167
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Auszug aus dem Beschlussprotokoll zu TOP 8.1 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01078722.pdf
+- Ergebnisprotokoll: Auszug aus dem Beschlussprotokoll zu TOP 8.1 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01078722.pdf
+- Wortprotokoll: Auszug aus dem Beschlussprotokoll zu TOP 8.1 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01078722.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: TOP 5.9 Präsentation der Vorstudie zur Weiterentwicklung des Konzepts zur Stärkung der integrativen Stadtgesellschaft - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer mündlichen Anfrage im Ausschuss für Chancengerechtigkeit und Integration vom 25.11.2025 - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage der GOL zum Thema: Koloniales Erbe der Stadt Köln AN/1311/2025 für den Ausschuss für Chancengerechtigkeit und Integration - vertagt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Thema: Rassismus auf Kölner Fußballplätzen – Schutz von Kindern und Jugendlichen
+- TOP 5: Mitteilungen
+- TOP 5.1: Siebter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 5.2: Evaluierung des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus (ECCAR) - Kenntnis genommen
+- TOP 5.3: Jahresbericht 2024 des Anonymen Krankenscheins Köln – Entwicklung, Inanspruchnahme und Finanzierungsperspektive ab 2027 - Kenntnis genommen
+- TOP 5.4: Bevölkerungsbewegungen in Köln 2024: Wanderungsgewinn maßgeblich durch internationale Zuzüge - Kenntnis genommen
+- TOP 5.5: Geschäftsbericht "Wohnen in Köln 2024" - Fakten, Zahlen, und Ergebnisse 2024 - Kenntnis genommen
+- TOP 5.6: Sprach- und Integrationsmittlungspool für die Stadt Köln – bikup Jahresbericht 2024 - Kenntnis genommen
+- TOP 5.7: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2026 - Kenntnis genommen
+- TOP 5.8: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2024 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag der GOL zum Thema "Sicherung der Jugendförderung und der Angebote freier Träger und MSO trotz Haushaltssperre" - endgültig zurückgezogen
+- TOP -: Stellungnahme der Verwaltung zum Antrag der Grün Offenen Liste Migration (GOL) nach § 3 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 6.2: Antrag zur Prüfung der Änderung der Geschäftsordnung Präambel und § 10, Abs. 1 - vertagt
+- TOP -: Änderungsantrag zu TOP 6.2: „Änderungsantrag zur Prüfung der Änderung der Geschäftsordnung Präambel und §10, Abs. 1“ - vertagt
+- TOP 6.3: Änderungsantrag zum Antrag AN/1387/2025 - Änderung der Geschäftsordnung - vertagt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner*innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Besetzung der Ausländerrechtlichen Beratungskommission (ABK) für die Wahlperiode 2025 - 2030 - ungeändert beschlossen
+- TOP 8.2: Änderung der Geschäftsordnung des Integrationsrates der Stadt Köln anlässlich der Umbenennung des Integrationsrates in „Ausschuss für Chancengerechtigkeit und Integration“ - vertagt
+- TOP 8.3: Runder Tisch für Flüchtlingsfragen - Entsendung eines Mitglieds und einer Stellvertretung des Ausschusses für Chancengerechtigkeit und Integration für die Wahlperiode 2025/2030 - vertagt
+- TOP 8.4: Benennung von sachkundigen Einwohner*innen in die Ratsausschüsse - vertagt
+- TOP 8.5: Benennung von drei Mitgliedern des Ausschusses für Chancengerechtigkeit und Integration für das Kuratorium für ein Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert beschlossen
+- TOP 8.6: Benennung von Delegierten für die Mitgliederversammlungen und für die Hauptausschusssitzung des Landesintegrationsrates NRW - ungeändert beschlossen
+- TOP 8.7: Einrichtung der Arbeitskreise sowie die Festlegung der Vorsitzenden der Arbeitskreise des Ausschusses für Chancengerechtigkeit und Integration - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
