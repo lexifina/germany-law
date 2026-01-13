@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-01-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9334002
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9334002
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 09.12.2025
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Rhythmik vom 01.02.2026 -31.01.2027 1.350,00€; Az. 0262.100-19-0616
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Schlageronkel vom 01.02.2026 -31.01.2027 675,00€; Az. 0262.100-19-0615
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Lärmbelästigung durch nächtliche Benutzung einer Parkbank am Uriweg
+- TOP 4.4.: Lärmbelästigung durch Pickleball-Platz im Siemens-Sportpark
+- TOP 4.5.: (E) Errichtung weiterer öffentlicher Trinkbrunnen
+- TOP 4.6.: (E) Umweltschutzmaßnahmen wegen Mikroplastik
+- TOP 4.7.: (E) Verschönerung des Schweizer Platzes
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Neubau/Austausch einer Lichtsignalanlage in der Wilhelm-Leibl-/ Wolfratshauser Straße
+- TOP 5.3.: (E) Bauzeiten Radweg Boschetsrieder Straße in den Schulferien
+- TOP 5.4.: (Antrag) Verkleinerung oder Rückbau der dauerhaft ungenutzten Carsharingfläche Forstenrieder Allee 55
+- TOP 5.5.: (Antrag) Verlängerung der Buslinie 135
+- TOP 5.6.: (Antrag) Kurzzeitparken Kita „Kinderhaus Constanze Hallgarten“
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Echterstraße 4
+- TOP 6.2.2: Maxhofstraße 40
+- TOP 6.2.3: -abgesetzt-
+- TOP 6.2.4: Boschetsrieder Straße 41
+- TOP 6.2.5: Buchauerstraße 24
+- TOP 6.2.6: Forst-Kasten-Allee 119
+- TOP 6.2.7: Bellinzonastraße 4
+- TOP 6.2.8: Bertelestraße 3 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: (Anfrage) Schulsituation im 19. Stadtbezirk
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (E) Schließung des Wettbüros in der Graubündener Straße
+- TOP 9: Verschiedenes
+- TOP 3.4.: Stadtteilwoche Sendling-Obersendling
+- TOP 3.5.: (E) Stadtbezirksbudget Förderverein Grundschule Forstenried e.V. Original Münchner Schäfflertanz am 06.02.2026 588,22€; Az.: 0262.100-19-0617
+- TOP 4.8.: (A) Informationen über die Windkraftanlagen im Forstenrieder Park, BV-Empfehlung 20-26 / E 03127
+- TOP 5.1.1: Verkehrssicherheit Lichtsignalanlage Bertelestraße / Wolfratshauser Straße
+- TOP 8.3.: (A) Veranstaltung: "Winterdorf der FDP" auf dem Thalkirchner Platz am 14.02.2026
+- TOP 2.3.: (Antrag) Weide an der Waterloostraße
