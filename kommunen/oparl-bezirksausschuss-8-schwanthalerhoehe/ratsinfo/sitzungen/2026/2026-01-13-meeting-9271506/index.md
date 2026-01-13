@@ -1,0 +1,80 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9271506
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9271506
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Umwandlung von Kfz-Stellplätzen in Fahrrad-Abstellplätze vor dem Anwesen Parkstraße 18
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Mehr Hitzeschutz für den Quartiersplatz Theresienhöhe („Bahndeckel“) und Steigerung der Aufenthaltsqualität
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: CultureClouds; Planung der Pop-Ups: mobile Kunst-Spiel-Aktionen 2026 und 2027
+- TOP 7.2.2.: Einladung der Carl-von-Linde-Realschule zur 50 Jahr-Feier der Internationalen Klassen am 27.02.2026, 13:00 Uhr
+- TOP 7.3: Unterrichtungen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Nachbarschaftsflohmärkte am Gollierplatz und Georg-Freundorfer-Platz ab April bzw. Mai 2026
+- TOP 8.2.2.: Veranstaltung "Busparty 3000" auf der Fläche Am Bavariapark am 21.02.2026
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Heimeranstraße 31 am 09.01.2026
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Errichtung von Fahrradstellplätzen in der Guldeinstraße 35
+- TOP 9.2.2.: Baumfällung Westendstraße 115
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.2.: Lieferzonenmarkierung und Beschilderung im Stadtbezirk Schwanthalerhöhe
+- TOP 9.3.3.: Maßnahmen zur Verbesserung der Altglasentsorgung an Wertstoffinseln zum Jahreswechsel 2025/2026
+- TOP 9.3.4.: Errichtung eines Abfallbehälters /eines Hundekotbeutelspenders an der Kreuzung Parkstraße / Tulbeckstraße - Antwortschreiben
+- TOP 9.3.5.: Ausstattung des Ridlerschwimmbades mit einer Photovoltaik-, Solar- und / oder Windkraftanlage zur umweltverträglichen Erhöhung der Wassertemperatur
+- TOP 9.3.6.: Abstimmung neues Radverkehrsnetz für München
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget LORA Förderverein e.V. Westend Perspektive 2026 vom 01.04.2026-31.10.2026 2.456,40€ Az.: 0262.0-8-0473
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. "Westendzirkus" "Best of" der letzten Shows und Walk Acts auf Stelzen durch die Schwanthalerhöhe vom 01.05.-31.07.2026 2.626,00 Az.: 0262.100-8-0475
+- TOP 10.1.3.: (E) Stdtbezirksbudget West and Hell e.V. West and Hell e.V. Straßenfest am 01.08.2025 3.168,00€; Az.: 0262.100-8-0476
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Haushaltsbeschluss 2026; Kürzung Stadtbezirksbudgets für 2026
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Zirkuswiese reaktivieren
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Informationsveranstaltung zur Versorgung Münchens mit stationären Einrichtungen der Post am 27.11.2025
+- TOP 12.3.2.: Erreichtes bewahren. Bedrohungen entgegentreten. Zukunft gestalten. Die LGBTIQ*-Strategie der Landeshauptstadt München
+- TOP 12.3.3.: Infoschreiben Kommunalwahl 2026 - Neutralitätsgebot zu Wahlkampfzeiten
+- TOP 12.3.4.: Solidarität mit der ehemaligen Redaktion von HALLO München; Sorge um die zukünftige Berichterstattung
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 4.2.: Regelmäßige Reinigung und Sichtkontrolle von Verkehrs- und Parkschildern im Stadtbezirk Schwanthalerhöhe
+- TOP 4.3.: Einführung eines stark ermäßigten Deutschlandtickets für Menschen mit geringem Einkommen
+- TOP 8.2.3.: Kurdisches Neujahrsfest NEWROZ auf dem Gollierplatz am 21.03.2026
+- TOP 9.2.3.: Baumfällung Astallerstraße 18; Schaffung von Fahrradabstellplätzen
+- TOP 9.3.7.: Fällung von Gefahrenbäumen im öffentlichen Raum
