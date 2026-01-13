@@ -1,0 +1,147 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2026-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9040075
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9040075
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Nashorn am Grünspitz (FF UA Umwelt)
+- TOP 2.1.2.2.: Bürgeranliegen; Baumfällungen in der Kappellenfeldstr. (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Unhaltbarer Zustand der Straßen - Balanstr., Grenzweg und Fasangartenstr. (FF UA MuV)
+- TOP 2.1.2.4.: Kinderbürgeranliegen; Schulwegsituation St.-Martin-Straße / Werinherstraße (Ampelschaltungen und Vorschlag zur Anbringung von TRIXI-Spiegeln) (FF: UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Kesselbergstr.
+- TOP 3.10.2.: Kulmbacher Pl. 1
+- TOP 3.10.3.: Deisenhofener Str. 63
+- TOP 3.10.4.: Fasangartenstr. zu 3.10.4 Information der Lbk zur Gefahrenbaumfällung / Antrag auf Baumveränderung
+- TOP 3.10.5.: Scharfreiterstr. 1
+- TOP 3.10.6.: Rotwandstr. 28
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: "München Box“ auch in Obergiesing; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget Giesinger Mädchen*treff (FF: UA FSA) Bewegungsmaterial ab dem 08.12.2025 487,50€; Az:. 0262.0-17-0516
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.2.1.: (E) Ella-Lingens-Platz – statt Hitzeinsel gesunder, lebendiger, würdevoller Ort
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Schwanseestr. 22 - Neubau einer Wohnanlage mit ca. 11.260qm GF und Tiefgarage - VORBESCHEID
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Dritte Programmanpassung „Wohnen in München VII“ Sozialgerechte Bodennutzung in München (SoBoN) A) Auswirkungen der Fördermittelsituation auf den geförderten und Preisgedämpften Mietwohnungsbau B) Auftrag zur Novellierung der Sozialgerechten Bodennutzung C) Bürgerversammlungsempfehlung
+- TOP 6.1.4.2.: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung; Scharfreiterplatz a) Chiemgaustr. 84 b) Chiemgaustr. 78 c) Chiemgaustr. 86
+- TOP 6.1.4.4.: Vollzug der Erhaltungssatzung; Trauchberg-/ Forggenseestr. a) Forggenseestr. 16 b) Sintpertstr. 49 c) Deisenhofener Str. 87
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung; Tegernseer Landstraße a) Deisenhofener Str. 39
+- TOP 6.1.4.6.: Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Investive Konsolidierung 2028 ff. – Stand und Ergebnis • Mittelübertragung vom Kommunalreferat • Stellungnahme zum Antrag des Bezirksausschusses 7
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 6.2.4.2.: Dienststellenverständigung vom 22.12.2025; Städt. Kindertageszentrum Severinstr. 2
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Chiemgaustr. - 1 digitale Werbeanlage für Fremdwerbung mit Bedarfsinfo. der Stadtinfo., als Ersatz, freistehend, einseitig, im 10-Sek.-Takt, die Leistungsstufe gemäß LAI beträgt am Tag 8 %, Nacht 8 % (DB-Brücke)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP 6.3.4.2.: Antwortschreiben auf ein Bürgeranliegen; Verkehrssituation am Tegernseer Platz
+- TOP 6.3.4.3.: Antwortschreiben auf ein Bürgeranliegen; Umsetzung Radentscheid Werinher- und Deisenhofenerstr.
+- TOP 6.3.4.4.: Schulwegsicherheit an der Icho Grund- und Mittelschule
+- TOP 6.3.4.5.: Sichtbarmachung von Verkehrsschildern am General-Kalb-Weg
+- TOP 6.3.4.6.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO): hier: Am Giesinger Feld, Nordseite, ca. 10 m westlich der Einmündung Balanstraße, wird das Z. 283 -10 StVO (Beginn absolutes Haltverbot) angebracht.
+- TOP 6.3.4.7.: Antwortschreiben auf ein Bürgeranliegen; Verbesserung der Radverbindung Harlaching Siedlung am Perlacher Forst (ehemalige Amisiedlung)
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Einrichtung eines betreuten Taubenschlages am Giesinger Bahnhofplatz
+- TOP 6.4.2.2.: (E) Scharfreiterplatz – Zusätzliche Aufstellung von Mülleimern mit separatem Einwurf für Zigarettenkippen
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Antwortschreiben auf ein Bürgeranliegen; Erscheinungsbild Ostfriedhof
+- TOP 6.4.4.2.: Fortschreibung der Fachleitlinie Ökologie: Die Fachleitlinie Klima, Umwelt und globale Verantwortung, Vorstellung und Vorbereitung Öffentlichkeitsphase und Leitprojekte
+- TOP 6.4.4.3.: Meldungen von Baumfällungen und /oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der BA-Satzung
+- TOP 6.4.4.4.: Antwortschreiben; Unhaltbare hygienische Zustände in der Unteren Grasstr. durch Gewerbeabfälle - Sachstand
+- TOP 6.4.4.5.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung 2026 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München und oberirdischen Verkehrsflächen
+- TOP 6.4.4.6.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen auf dem Ostfriedhof
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Stadtbezirksbudget- Herzkasperl goes Grünspitz - Verlängerung Bewilligungszeitraum
+- TOP 6.5.4.2.: Bewilligung/ Änderung Budget und Beginn des Projekts IM HERZEN DER STILLE
+- TOP 6.5.4.3.: Bauprogramm zum Ersatz der mit Kunststoffgranulat gefüllten Kunstrasenplätze durch alternative Kunstrasensysteme
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeister vom 09.04.2018 hier: Aufstellung einer Warenauslage - St. Martin Str. 2
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Mehrjahresinvestitionsprogramm 2025 – 2029 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 7.3.2.: Haushaltsbeschluss 2026; Stadtbezirksbudgets für 2026; Infoschreiben des Direktoriums vom 22.12.2025
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: UA - Sitzungstermin im Januar 2026
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
