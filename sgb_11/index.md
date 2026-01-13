@@ -8,7 +8,7 @@
 - [§ 2 Selbstbestimmung](0002.md)
 - [§ 3 Vorrang der häuslichen Pflege](0003.md)
 - [§ 4 Art und Umfang der Leistungen](0004.md)
-- [§ 5 Prävention in Pflegeeinrichtungen, Vorrang von Prävention und medizinischer Rehabilitation](0005.md)
+- [§ 5 Prävention in Pflegeeinrichtungen und in der häuslichen Pflege, Vorrang von Prävention und medizinischer Rehabilitation](0005.md)
 - [§ 6 Eigenverantwortung](0006.md)
 - [§ 7 Aufklärung, Auskunft](0007.md)
 - [§ 7a Pflegeberatung](0007a.md)
@@ -28,7 +28,7 @@
 - [§ 15 Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument](0015.md)
 - [§ 16 Verordnungsermächtigung](0016.md)
 - [§ 17 Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen](0017.md)
-- [§ 17a (weggefallen)](0017a.md)
+- [§ 17a Richtlinien zur Empfehlung von Pflegehilfsmitteln und Hilfsmitteln nach § 40 Absatz 6](0017a.md)
 - [§ 18 Beauftragung der Begutachtung](0018.md)
 - [§ 18a Begutachtungsverfahren](0018a.md)
 - [§ 18b Inhalt und Übermittlung des Gutachtens](0018b.md)
@@ -79,7 +79,6 @@ Personenkreis
 - [§ 36 Pflegesachleistung](0036.md)
 - [§ 37 Pflegegeld für selbst beschaffte Pflegehilfen](0037.md)
 - [§ 38 Kombination von Geldleistung und Sachleistung (Kombinationsleistung)](0038.md)
-- [§ 38a Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen](0038a.md)
 - [§ 39 Verhinderungspflege](0039.md)
 - [§ 39a Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen](0039a.md)
 - [§ 40 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen](0040.md)
@@ -122,17 +121,19 @@ Kurzzeitpflege
 - [§ 44a Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung](0044a.md)
 - [§ 45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen](0045.md)
 
-### Fünfter Abschnitt Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe
+### Fünfter Abschnitt Angebote zur Unterstützung im Alltag; Weitere Leistungen bei häuslicher Pflege; Förderung der Weiterentwicklung der Versorgungsstrukturen, des Ehrenamts, der Selbsthilfe und der Zusammenarbeit in regionalen Netzwerken
 
 - [§ 45a Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten Sachleistungsbetrags (Umwandlungsanspruch), Verordnungsermächtigung](0045a.md)
 - [§ 45b Entlastungsbetrag](0045b.md)
 - [§ 45c Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung](0045c.md)
-- [§ 45d Förderung der Selbsthilfe, Verordnungsermächtigung](0045d.md)
+- [§ 45d Förderung der Selbsthilfe in der Pflege, Verordnungsermächtigung](0045d.md)
+- [§ 45e Förderung der Zusammenarbeit in regionalen Netzwerken](0045e.md)
 
-### Sechster Abschnitt Initiativprogramm zur Förderung neuer Wohnformen
+### Sechster Abschnitt Leistungen in ambulant betreuten Wohngruppen und in gemeinschaftlichen Wohnformen
 
-- [§ 45e Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen](0045e.md)
-- [§ 45f Weiterentwicklung neuer Wohnformen](0045f.md)
+- [§ 45f Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen](0045f.md)
+- [§ 45g Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen](0045g.md)
+- [§ 45h Leistungen in gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen Versorgung gemäß § 92c](0045h.md)
 
 ## Fünftes Kapitel Organisation
 
@@ -142,6 +143,7 @@ Kurzzeitpflege
 - [§ 46 Pflegekassen](0046.md)
 - [§ 47 Satzung](0047.md)
 - [§ 47a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen](0047a.md)
+- [§ 47b Aufgabenerledigung durch Dritte](0047b.md)
 
 ### Zweiter Abschnitt Zuständigkeit, Mitgliedschaft
 
@@ -177,6 +179,7 @@ Verbandsaufgaben
 - [§ 55b Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern](0055b.md)
 - [§ 56 Beitragsfreiheit](0056.md)
 - [§ 57 Beitragspflichtige Einnahmen](0057.md)
+- [§ 57 Beitragspflichtige Einnahmen](0057-2.md)
 - [§ 58 Tragung der Beiträge bei versicherungspflichtig Beschäftigten](0058.md)
 - [§ 59 Beitragstragung bei anderen Mitgliedern](0059.md)
 - [§ 59a Berücksichtigung des Beitragsabschlags für Eltern bei der Beitragstragung](0059a.md)
@@ -218,6 +221,7 @@ Pflegeeinrichtungen
 - [§ 71 Pflegeeinrichtungen](0071.md)
 - [§ 72 Zulassung zur Pflege durch Versorgungsvertrag](0072.md)
 - [§ 73 Abschluß von Versorgungsverträgen](0073.md)
+- [§ 73a Beeinträchtigungen bei Versorgungsverträgen](0073a.md)
 - [§ 74 Kündigung von Versorgungsverträgen](0074.md)
 - [§ 75 Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung](0075.md)
 - [§ 76 Schiedsstelle](0076.md)
@@ -253,6 +257,7 @@ Pflegeleistungen
 - [§ 84 Bemessungsgrundsätze](0084.md)
 - [§ 85 Pflegesatzverfahren](0085.md)
 - [§ 86 Pflegesatzkommission](0086.md)
+- [§ 86a Verfahrensleitlinien für die Vergütungsverhandlungen und -vereinbarungen](0086a.md)
 - [§ 87 Unterkunft und Verpflegung](0087.md)
 - [§ 87a Berechnung und Zahlung des Heimentgelts](0087a.md)
 - [§ 87b (weggefallen)](0087b.md)
@@ -271,12 +276,10 @@ Pflegeleistungen
 - [§ 92 (weggefallen)](0092.md)
 - [§ 92a Pflegeheimvergleich](0092a.md)
 
-### Fünfter Abschnitt Integrierte Versorgung
+### Fünfter Abschnitt Integrierte Versorgung und Verträge zur pflegerischen Versorgung in gemeinschaftlichen Wohnformen
 
 - [§ 92b Integrierte Versorgung](0092b.md)
-
-### Sechster Abschnitt (weggefallen)
-
+- [§ 92c Verträge zur pflegerischen Versorgung in gemeinschaftlichen Wohnformen](0092c.md)
 
 ## Neuntes Kapitel Datenschutz, Statistik und Interoperabilität
 
@@ -344,30 +347,34 @@ zum Schutz der Pflegebedürftigen
 - [§ 113a (weggefallen)](0113a.md)
 - [§ 113b Qualitätsausschuss](0113b.md)
 - [§ 113c Personalbemessung in vollstationären Pflegeeinrichtungen](0113c.md)
+- [§ 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen](0113d.md)
 - [§ 114 Qualitätsprüfungen](0114.md)
 - [§ 114a Durchführung der Qualitätsprüfungen](0114a.md)
 - [§ 114b Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen](0114b.md)
-- [§ 114c Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht](0114c.md)
+- [§ 114c Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären, teilstationären und ambulanten Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht](0114c.md)
 - [§ 115 Ergebnisse von Qualitätsprüfungen, Qualitätsdarstellung, Vergütungskürzung](0115.md)
 - [§ 115a Übergangsregelung für Pflege-Transparenzvereinbarungen und Qualitätsprüfungs-Richtlinien](0115a.md)
 - [§ 116 Kostenregelungen](0116.md)
 - [§ 117 Zusammenarbeit mit den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden](0117.md)
 - [§ 118 Beteiligung von Interessenvertretungen, Verordnungsermächtigung](0118.md)
+- [§ 118a Maßgebliche Organisationen der Pflegeberufe auf Bundesebene, Verordnungsermächtigung](0118a.md)
 - [§ 119 Verträge mit Pflegeheimen außerhalb des Anwendungsbereichs des Wohn- und Betreuungsvertragsgesetzes](0119.md)
 - [§ 120 Pflegevertrag bei häuslicher Pflege](0120.md)
 
 ## Zwölftes Kapitel Bußgeldvorschrift
 
 - [§ 121 Bußgeldvorschrift](0121.md)
-- [§ 122 (weggefallen)](0122.md)
 
 ## Dreizehntes Kapitel Befristete Modellvorhaben
 
+- [§ 122 Kooperationsprojekt zu Erleichterungen in der Praxis bei der Beantragung von Leistungen der Pflegeversicherung](0122.md)
 - [§ 123 Gemeinsame Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier](0123.md)
 - [§ 124 Wissenschaftliche Begleitung und Auswertung der gemeinsamen Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier](0124.md)
 - [§ 125 Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur](0125.md)
 - [§ 125a Modellvorhaben zur Erprobung von Telepflege](0125a.md)
 - [§ 125b Kompetenzzentrum Digitalisierung und Pflege](0125b.md)
+- [§ 125c Modellvorhaben zur Erprobung digitaler Verhandlungen der Pflegevergütung](0125c.md)
+- [§ 125d Modellvorhaben zur Erprobung der Flexibilisierung der Leistungserbringung stationärer Pflegeeinrichtungen](0125d.md)
 
 ## Vierzehntes Kapitel Zulagenförderung der privaten Pflegevorsorge
 
@@ -405,6 +412,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 144 Überleitungs- und Übergangsregelungen, Verordnungsermächtigung](0144.md)
 - [§ 145 Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege](0145.md)
 - [§ 146 Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3](0146.md)
+- [§ 146a Übergangsregelung zur Versorgung von pflegebedürftigen Mitgliedern geistlicher Genossenschaften, Diakonissen und ähnlichen Personen in ordensinterner Pflege](0146a.md)
 
 ### Dritter Abschnitt Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie
 

@@ -11,9 +11,10 @@
 - [§ 2 Voraussetzungen für die Erteilung der Erlaubnis](0002.md)
 - [§ 3 Rücknahme, Widerruf und Ruhen der Erlaubnis](0003.md)
 
-### Abschnitt 2 Vorbehaltene Tätigkeiten
+### Abschnitt 2 Vorbehaltene Aufgaben; eigenverantwortliche Heilkundeausübung
 
-- [§ 4 Vorbehaltene Tätigkeiten](0004.md)
+- [§ 4 Vorbehaltene Aufgaben, Pflegeprozessverantwortung](0004.md)
+- [§ 4a Eigenverantwortliche Heilkundeausübung](0004a.md)
 
 ## Teil 2 Berufliche Ausbildung in der Pflege
 
@@ -30,6 +31,7 @@
 - [§ 12 Anrechnung gleichwertiger Ausbildungen](0012.md)
 - [§ 13 Anrechnung von Fehlzeiten](0013.md)
 - [§ 14 Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch](0014.md)
+- [§ 14a Standardisierte Kompetenzbeschreibungen für heilkundliche Aufgaben](0014a.md)
 - [§ 15 Modellvorhaben zur Weiterentwicklung des Pflegeberufs](0015.md)
 
 ### Abschnitt 2 Ausbildungsverhältnis

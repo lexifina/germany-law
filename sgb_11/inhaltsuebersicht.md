@@ -6,7 +6,7 @@
 | § 2 | Selbstbestimmung |
 | § 3 | Vorrang der häuslichen Pflege |
 | § 4 | Art und Umfang der Leistungen |
-| § 5 | Prävention in Pflegeeinrichtungen, Vorrang von Prävention und medizinischer Rehabilitation |
+| § 5 | Prävention in Pflegeeinrichtungen und in der häuslichen Pflege, Vorrang von Prävention und medizinischer Rehabilitation |
 | § 6 | Eigenverantwortung |
 | § 7 | Aufklärung, Auskunft |
 | § 7a | Pflegeberatung |
@@ -26,6 +26,7 @@
 | § 15 | Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument |
 | § 16 | Verordnungsermächtigung |
 | § 17 | Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen |
+| § 17a | Richtlinien zur Empfehlung von Pflegehilfsmitteln und Hilfsmitteln nach § 40 Absatz 6 |
 | § 18 | Beauftragung der Begutachtung |
 | § 18a | Begutachtungsverfahren |
 | § 18b | Inhalt und Übermittlung des Gutachtens |
@@ -75,7 +76,7 @@
 | § 36 | Pflegesachleistung |
 | § 37 | Pflegegeld für selbst beschaffte Pflegehilfen |
 | § 38 | Kombination von Geldleistung und Sachleistung (Kombinationsleistung) |
-| § 38a | Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen |
+| § 38a | (weggefallen) |
 | § 39 | Verhinderungspflege |
 | § 39a | Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen |
 | § 40 | Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen |
@@ -118,18 +119,19 @@
 | § 45 | Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen |
 |  |  |
 | Fünfter Abschnitt |
-| Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe |
+| Angebote zur Unterstützung im Alltag; Weitere Leistungen bei häuslicher Pflege; Förderung der Weiterentwicklung der Versorgungsstrukturen, des Ehrenamts, der Selbsthilfe und der Zusammenarbeit in regionalen Netzwerken |
 | § 45a | Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten Sachleistungsbetrags (Umwandlungsanspruch), Verordnungsermächtigung |
 | § 45b | Entlastungsbetrag |
 | § 45c | Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung |
-| § 45d | Förderung der Selbsthilfe, Verordnungsermächtigung |
+| § 45d | Förderung der Selbsthilfe in der Pflege, Verordnungsermächtigung |
+| § 45e | Förderung der Zusammenarbeit in regionalen Netzwerken |
 |  |
 | Sechster Abschnitt |
-| Initiativprogramm zurFörderung neuer Wohnformen |
+| Leistungen in ambulant betreuten Wohngruppen und in gemeinschaftlichen Wohnformen |
 |  |
-| § 45e | Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen |
-| § 45f | Weiterentwicklung neuer Wohnformen |
-|  |  |
+| § 45f | Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen |
+| § 45g | Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen |
+| § 45h | Leistungen in gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen Versorgung gemäß § 92c |
 |  |  |
 | Fünftes Kapitel |
 | Organisation |
@@ -139,6 +141,7 @@
 | § 46 | Pflegekassen |
 | § 47 | Satzung |
 | § 47a | Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen |
+| § 47b | Aufgabenerledigung durch Dritte |
 |  |  |
 | Zweiter Abschnitt |
 | Zuständigkeit, Mitgliedschaft |
@@ -213,6 +216,7 @@
 | § 71 | Pflegeeinrichtungen |
 | § 72 | Zulassung zur Pflege durch Versorgungsvertrag |
 | § 73 | Abschluß von Versorgungsverträgen |
+| § 73a | Beeinträchtigungen bei Versorgungsverträgen |
 | § 74 | Kündigung von Versorgungsverträgen |
 | § 75 | Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung |
 | § 76 | Schiedsstelle |
@@ -246,6 +250,7 @@
 | § 84 | Bemessungsgrundsätze |
 | § 85 | Pflegesatzverfahren |
 | § 86 | Pflegesatzkommission |
+| § 86a | Verfahrensleitlinien für die Vergütungsverhandlungen und -vereinbarungen |
 | § 87 | Unterkunft und Verpflegung |
 | § 87a | Berechnung und Zahlung des Heimentgelts |
 | § 87b | (weggefallen) |
@@ -264,12 +269,9 @@
 | § 92a | Pflegeheimvergleich |
 |  |  |
 | Fünfter Abschnitt |
-| Integrierte Versorgung |
+| Integrierte Versorgung und Verträge zur pflegerischen Versorgung in gemeinschaftlichen Wohnformen |
 | § 92b | Integrierte Versorgung |
-|  |  |
-| Sechster Abschnitt |
-| Übergangsregelung für die stationäre Pflege |
-| § 92c | Neuverhandlung der Pflegesätze |
+| § 92c | Verträge zur pflegerischen Versorgung in gemeinschaftlichen Wohnformen |
 | § 92d | Alternative Überleitung der Pflegesätze |
 | § 92e | Verfahren für die Umrechnung |
 | § 92f | Pflichten der Beteiligten |
@@ -338,31 +340,35 @@
 | § 113a | (weggefallen) |
 | § 113b | Qualitätsausschuss |
 | § 113c | Personalbemessung in vollstationären Pflegeeinrichtungen |
+| § 113d | Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen |
 | § 114 | Qualitätsprüfungen |
 | § 114a | Durchführung der Qualitätsprüfungen |
 | § 114b | Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen |
-| § 114c | Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht |
+| § 114c | Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären, teilstationären und ambulanten Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht |
 | § 115 | Ergebnisse von Qualitätsprüfungen, Qualitätsdarstellung, Vergütungskürzung |
 | § 115a | Übergangsregelung für Pflege-Transparenzvereinbarungen und Qualitätsprüfungs-Richtlinien |
 | § 116 | Kostenregelungen |
 | § 117 | Zusammenarbeit mit den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden |
 | § 118 | Beteiligung von Interessenvertretungen, Verordnungsermächtigung |
+| § 118a | Maßgebliche Organisationen der Pflegeberufe auf Bundesebene, Verordnungsermächtigung |
 | § 119 | Verträge mit Pflegeheimen außerhalb des Anwendungsbereichs des Wohn- und Betreuungsvertragsgesetzes |
 | § 120 | Pflegevertrag bei häuslicher Pflege |
 |  |  |
 | Zwölftes Kapitel |
 | Bußgeldvorschrift |
 | § 121 | Bußgeldvorschrift |
-| § 122 | (weggefallen) |
 |  |
 | Dreizehntes Kapitel |
 | Befristete Modellvorhaben |
 |  |
+| § 122 | Kooperationsprojekt zu Erleichterungen in der Praxis bei der Beantragung von Leistungen der Pflegeversicherung |
 | § 123 | Gemeinsame Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier |
 | § 124 | Wissenschaftliche Begleitung und Auswertung der gemeinsamen Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier |
 | § 125 | Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
 | § 125a | Modellvorhaben zur Erprobung von Telepflege |
 | § 125b | Kompetenzzentrum Digitalisierung und Pflege |
+| § 125c | Modellvorhaben zur Erprobung digitaler Verhandlungen der Pflegevergütung |
+| § 125d | Modellvorhaben zur Erprobung der Flexibilisierung der Leistungserbringung stationärer Pflegeeinrichtungen |
 |  |
 | Vierzehntes Kapitel |
 | Zulagenförderung der privaten Pflegevorsorge |
@@ -402,6 +408,7 @@
 | § 144 | Überleitungs- und Übergangsregelungen, Verordnungsermächtigung |
 | § 145 | Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege |
 | § 146 | Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3 |
+| § 146a | Übergangsregelung zur Versorgung von pflegebedürftigen Mitgliedern geistlicher Genossenschaften, Diakonissen und ähnlichen Personen in ordensinterner Pflege |
 |  |  |
 | Dritter Abschnitt |
 | Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie |
