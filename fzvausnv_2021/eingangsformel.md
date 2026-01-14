@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in Verbindung mit § 6 Absatz 2 jeweils in Verbindung mit Absatz 3 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 1 Nummer 2 Buchstabe b durch Artikel 1 Nummer 2 Buchstabe a Doppelbuchstabe aa des Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) und § 6 Absatz 2 durch Artikel 325 Nummer 1 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden sind, verordnen das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium des Innern, für Bau und Heimat nach Anhörung der zuständigen obersten Landesbehörden:
