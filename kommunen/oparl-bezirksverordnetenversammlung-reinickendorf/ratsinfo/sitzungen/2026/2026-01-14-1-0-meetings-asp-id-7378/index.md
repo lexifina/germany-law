@@ -1,0 +1,86 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-01-14T17:00:00+01:00
+- Ende: 2026-01-14T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7378
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7378
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=603116
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Einrichtung einer LZA an der Einmündung Waidmannsluster Damm / Waldhornstraße - beantwortet
+- TOP 3.2: Ersatz- und Neuanpflanzung von entnommenen Straßenbäumen (keine Sturmschäden) - vertagt
+- TOP 3.3: Räum- und Streupflicht der Bürgersteige in Hermsdorf nicht kontrolliert und nachgekommen - beantwortet
+- TOP 3.4: Verwaltungsakte Schildower Straße: Interessen der Reinickendorfer Bürger ignoriert, Interessen der CDU Glienicke hingegen aktenkundig - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 49. Sitzung der BVV am 14.01.2026 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Dreharbeiten in Frohnau - beantwortet
+- TOP 5.2: Heizungsausfälle an Reinickendorfer Schulen und Sporthallen - beantwortet
+- TOP 5.3: Schneebeseitigung auf Fußwegen an bezirklichen Liegenschaften - beantwortet
+- TOP 5.4: Wann funktioniert die Heizung in der Otfried-Preußler-Grundschule wieder? - beantwortet
+- TOP 5.5: Sind wirklich ALLE Spielplätze im Bezirk wieder freigegeben? - beantwortet
+- TOP 5.6: Bauordnungsrechtlich nicht genehmigte Werbeanlagen im Bezirk - beantwortet
+- TOP 5.7: Stellen für den Katastrophenschutz - beantwortet
+- TOP 5.8: Baumfällungen für den Umbau der Ollenhauerstraße - was sagt das Baumgutachten? - beantwortet
+- TOP 5.9: Verwahrlosung und Vandalismus bei der Liegenschaft in der Treuenbrietzener Str. 26 (ehemalige Kita) entgegen wirken! - beantwortet
+- TOP 5.10: Fahrradstraße Edelhofdamm - beantwortet
+- TOP 5.11: Rassistische Flugblätter - schriftlich beantwortet
+- TOP 5.12: Gedenktafel für die NS-Opfer der "Wittenauer Heilstätten" zeitnah wieder zugänglich machen! - schriftlich beantwortet
+- TOP 5.13: Wasserrohrbrüche in Frohnau - schriftlich beantwortet
+- TOP 5.14: Einbahnstraßenregelung Büdnerring - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 7.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Grundstück Bernauer Straße 138 mit Mietwohnungen bebauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Bodenbelag in der Schramberger Straße sanieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Maßnahmen zur Reduzierung des Drogen- und Alkoholkonsums sowie Eindämmung der illegalen Prostitution in der geschützten Grünanlage am "Paddenpuhl" (Breitkopfbecken) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Soziale Angebote auf dem Franz-Neumann-Platz nachhaltig sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Unterstützung bei der Suche nach einem alternativen Standort für Berliner Help Stiftung (Teen Challange) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Beseitigung von Baumstümpfen im öffentlichen Raum in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Verkehrssicherheit im Zabel-Krüger-Damm verbessern - überwiesen
+- TOP 8.8: Pilotprojekt "Oilette"-Toiletten auf Spielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Geschlossene Müllbehälter an Badestellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Bus-Anbindung von Lübars während Zabel-Krüger-Damm-Sperrung zumindest teilweise sicherstellen I: Alt-Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Bus-Anbindung von Lübars während Zabel-Krüger-Damm-Sperrung zumindest teilweise sicherstellen II: bis Am Vierrutenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Bessere Anbindung Lübars/Hermsdorf an den ÖPNV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Reflektierende Klettabzeichen für die Schutzwesten des AOD - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Hotelsterben in Reinickendorf - ist der Tourismusstandort Reinickendorf in Gefahr? - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Bahnhöfe der U-Bahnlinie U8 in Reinickendorf unter Denkmalschutz stellen - in der BVV abgelehnt
+- TOP 11.2: Verantwortungsvolle Beteiligung Reinickendorfs am Windkraftausbau in Berlin - in der BVV abgelehnt
+- TOP 11.3: Amokalarm-Übungen an allen Schulen in bezirklicher Verantwortung verpflichtend einführen - in der BVV abgelehnt
+- TOP 11.4: Sicherstellung der Notarztversorgung - Erhalt der Notarztstützpunkte im Bezirk Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 11.5: VHS-Sprachkurse in der Justizvollzugsanstalt (JVA) Tegel anbieten - erledigt
+- TOP 11.6: Reanimation in der Schule unterrichten - in der BVV abgelehnt
+- TOP 11.7: Aufstellung von Hinweisschildern zur Nutzung des Sportplatzes an der Königshorster Straße - in der BVV abgelehnt
+- TOP 11.8: Bereitstellung von Ersatzbänken auf dem Sportplatz an der Königshorster Straße - erledigt
+- TOP 11.9: Schaffung von Sitzmöglichkeiten für Zuschauerinnen und Zuschauer auf dem Sportplatz an der Königshorster Straße - erledigt
+- TOP 11.10: Wanderausstellung "gefährdet leben" - erledigt
+- TOP 11.11: Turmuhr im Frohnauer Kasinoturm: zuverlässigen Betrieb dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Fördermittel nutzen - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Flugblatt Katastrophenschutz - überwiesen
+- TOP 12.2: Üben für den Ernstfall - Resilienz-Tag für Reinickendorf - überwiesen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Auswertung von Ordnungsverstößen bei Filmdreharbeiten - überwiesen
+- TOP 13.2: Mehrsprachige Abreißzettel des Hilfetelefons "Gewalt gegen Frauen" in öffentlichen Gebäuden des Bezirks - überwiesen
+- TOP 13.3: Alt Tegel fit machen für die Zukunft - Jetzt handeln - überwiesen
+- TOP 13.4: Verbesserte Einsichtnahme am Borsigdamm - überwiesen
+- TOP 13.5: Das IBIS Hotel in Reinickendorf retten - Kein weiterer Hotelverlust in Reinickendorf - keine weitere Flüchtlingsunterkunft - in der BVV abgelehnt
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Ki in der Straßenunterhaltung im Land Berlin einsetzen - überwiesen
+- TOP 14.2: Kostenloses Parken für Trainerinnen und Trainer von Schwimmgruppen am Schwimmbad Märkisches Viertel ermöglichen - überwiesen
+- TOP 14.3: Kostenloses Parken für ehrenamtlich Tätige an Sportanlagen bei Verpachtung von Parkflächen sicherstellen - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
