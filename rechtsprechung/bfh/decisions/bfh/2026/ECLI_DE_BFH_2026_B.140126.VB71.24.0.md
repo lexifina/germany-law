@@ -1,0 +1,53 @@
+---
+ecli: "ECLI:DE:BFH:2026:B.140126.VB71.24.0"
+court: "Bundesfinanzhof"
+aktenzeichen: "V B 71/24"
+decided: "2026-01-14"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/STRE202620028.xml"
+neuris_doknr: "STRE202620028"
+---
+
+# Bundesfinanzhof, V B 71/24 vom 2026-01-14
+
+## Leitsatz
+
+NV: Durch die Rechtsprechung ist nicht nur geklärt, dass die Bemessungsgrundlage der Arzneimittellieferungen von pharmazeutischen Unternehmen an eine Apotheke um die später an zentrale Abrechnungsstellen der Apotheken oder Unternehmen der privaten Krankenversicherung gezahlten Abschläge nach § 130a Abs. 1 des Sozialgesetzbuches Fünftes Buch und § 1 des Gesetzes über Rabatte von Arzneimitteln zu mindern ist, sondern weitergehend auch, dass der Abschlag zur Ermittlung der umsatzsteuerrechtlichen Bemessungsgrundlage in einen Entgelt- und einen Umsatzsteueranteil aufzuteilen ist.8 12
+
+## Tenor
+
+Die Beschwerde der Klägerin wegen Nichtzulassung der Revision gegen das Urteil des Schleswig-Holsteinischen Finanzgerichts vom 17.09.2024 - 4 K 112/22 wird als unbegründet zurückgewiesen.
+
+Die Kosten des Beschwerdeverfahrens hat die Klägerin zu tragen.
+
+## Gründe
+
+1 Die Beschwerde der Klägerin und Beschwerdeführerin (Klägerin), mit der sie sich gegen die Nichtzulassung der Revision durch das Urteil des Finanzgerichts (FG) richtet, mit dem ihre Klage abgewiesen wurde, da das FG den von der Klägerin im Streitjahr gezahlten Rabattbetrag in Höhe von … € als Minderung einer Gegenleistung angesehen hat, so dass aus diesem Betrag Umsatzsteuer herauszurechnen ist und sich eine Steuerminderung von nur … € ergibt, ist unbegründet. Die Revision ist nicht wegen grundsätzlicher Bedeutung der Rechtssache (§ 115 Abs. 2 Nr. 1 der Finanzgerichtsordnung --FGO--) zuzulassen, um zu klären, ob dieser Rabattbetrag als Entgeltminderung anzusehen ist, so dass sich eine um … € höhere Steuerminderung von … € ergibt.
+
+2 1. Grundsätzliche Bedeutung im Sinne von § 115 Abs. 2 Nr. 1 FGO kommt einer Rechtssache zu, wenn die für die Beurteilung des Streitfalls maßgebliche Rechtsfrage das abstrakte Interesse der Allgemeinheit an der einheitlichen Entwicklung und Handhabung des Rechts berührt. Außerdem muss die Rechtsfrage klärungsbedürftig und in einem künftigen Revisionsverfahren klärbar sein (vgl. Beschluss des Bundesfinanzhofs --BFH-- vom 31.01.2019 - V B 99/16, BFH/NV 2019, 409, Rz 10).
+
+3 Klärungsbedürftig ist eine Rechtsfrage, wenn hinsichtlich ihrer Beantwortung Unsicherheit besteht. Eine Rechtsfrage ist nicht klärungsbedürftig, wenn sie durch die Rechtsprechung hinreichend geklärt ist und keine neuen Gesichtspunkte erkennbar oder vorgetragen sind, die eine erneute Prüfung und Entscheidung dieser Frage geboten erscheinen lassen (BFH-Beschluss vom 04.01.2023 - XI B 51/22, BFH/NV 2023, 279, Rz 3).
+
+4 2. Die Klägerin hält für grundsätzlich bedeutsam, "ob Rabatte, die der Lieferer von Arzneimitteln dem Abnehmer nach gesetzlichen Vorschriften zwingend einräumen muss, als Bestandteil der Gegenleistung für die von ihm erbrachte Lieferung ausscheiden," und "ob die bezeichneten Rabatte anderenfalls nach Art. 79 Abs. 1 Nr. 3 [der Richtlinie 2006/112/EG des Rates vom 28.11.2006 über das gemeinsame Mehrwertsteuersystem (Mehrwertsteuersystemrichtlinie --MwStSystRL--)] nicht in die Steuerbemessungsgrundlage einzubeziehen sind".
+
+5 Nach ihrer Auffassung sind die gemäß § 130a des Sozialgesetzbuches Fünftes Buch (SGB V) und § 1 des Gesetzes über Rabatte von Arzneimitteln (AMRabG) gezahlten Abschläge in voller Höhe, also auch ohne Aufteilung des Abschlags in einen Entgelt- und einen Umsatzsteueranteil, unionsrechtskonform von der Steuerbemessungsgrundlage im Sinne des § 10 Abs. 1 Satz 1 und 2 des Umsatzsteuergesetzes (UStG) auszunehmen.
+
+6 3. Die Rechtsfragen sind nicht klärungsbedürftig.
+
+7 a) Nach den --nicht mit Verfahrensrügen angegriffenen-- Feststellungen des FG bestand im Jahr 2021 (Streitjahr) zwischen der Klägerin und ihrer Tochtergesellschaft eine umsatzsteuerrechtliche Organschaft mit der Klägerin als Organträgerin. Die Klägerin und ihre Tochtergesellschaft waren als pharmazeutische Unternehmen im Streitjahr gemäß § 130a SGB V und § 1 AMRabG gesetzlich verpflichtet, bei Arzneimittellieferungen Abschläge auf den Abgabepreis einzuräumen und diese Abschläge den Apotheken, den Unternehmen der privaten Krankenversicherung oder den Kostenträgern zu erstatten. Die Klägerin und ihre Tochtergesellschaft berechneten für ihre Lieferungen zunächst das volle Entgelt und erstatteten die genannten Abschläge später an zentrale Abrechnungsstellen der Apotheken oder an Unternehmen der privaten Krankenversicherung, sobald die Beträge von diesen gegenüber der Klägerin oder ihrer Tochtergesellschaft geltend gemacht wurden.
+
+8 b) Durch die Rechtsprechung ist nicht nur geklärt, dass die Bemessungsgrundlage der Arzneimittellieferungen von pharmazeutischen Unternehmen an eine Apotheke um die später an zentrale Abrechnungsstellen der Apotheken oder Unternehmen der privaten Krankenversicherung gezahlten Abschläge nach § 130a Abs. 1 SGB V und § 1 AMRabG zu mindern ist (vgl. Urteil des Gerichtshofs der Europäischen Union --EuGH-- Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16, EU:C:2017:1006; BFH-Urteile vom 08.02.2018 - V R 42/15, BFHE 260, 573, BStBl II 2018, 676, Rz 14; vom 10.12.2020 - V R 34/18, BFHE 272, 167, BStBl II 2021, 576, Leitsatz 1 und Rz 27), sondern weitergehend --die von der Klägerin aufgeworfenen Rechtsfragen betreffend-- auch, dass der Abschlag zur Ermittlung der umsatzsteuerrechtlichen Bemessungsgrundlage in einen Entgelt- und einen Umsatzsteueranteil aufzuteilen ist (BFH-Urteil vom 28.05.2009 - V R 2/08, BFHE 226, 166, BStBl II 2009, 870, unter II.3.a und II.3.b).
+
+9 Letzteres entspricht --entgegen der Auffassung der Klägerin-- den unionsrechtlichen Vorgaben. Denn nach Art. 73 MwStSystRL umfasst die Steuerbemessungsgrundlage alles, was den Wert der Gegenleistung bildet. In diese Steuerbemessungsgrundlage sind nach Art. 78 Buchst. a MwStSystRL zwar "Steuern", diese aber "mit Ausnahme der Mehrwertsteuer" einzubeziehen. Damit entspricht die Steuerbemessungsgrundlage einer Gegenleistung, aus der die Mehrwertsteuer herauszurechnen ist. Dementsprechend hat der EuGH entschieden, dass nach Art. 73 MwStSystRL Besteuerungsgrundlage die für die Leistung vom Steuerpflichtigen tatsächlich erhaltene Gegenleistung ist und dass die Berücksichtigung eines Gesamtpreises ohne Abzug der Mehrwertsteuer als Grundlage für die Erhebung der Mehrwertsteuer zur Folge hätte, dass die Mehrwertsteuer diesen Lieferer belasten würde. Hieraus leitet der EuGH ab, dass Art. 73 und 78 MwStSystRL dahingehend auszulegen sind, dass, wenn der Preis eines Gegenstands von den Vertragsparteien ohne jeglichen Hinweis auf die Mehrwertsteuer festgelegt wurde und der Lieferer dieses Gegenstands für den besteuerten Umsatz Steuerschuldner der Mehrwertsteuer ist, der vereinbarte Preis in dem Fall, dass der Lieferer nicht die Möglichkeit hat, die von der Steuerbehörde verlangte Mehrwertsteuer vom Erwerber wiederzuerlangen, so anzusehen ist, dass er die Mehrwertsteuer bereits enthält (EuGH-Urteil Tulică und Plavoşin vom 07.11.2013 - C-249/12 und C-250/12, EU:C:2013:722).
+
+10 Damit bestätigt der EuGH, dass es sich bei der Steuerbemessungsgrundlage um eine die Steuer bereits enthaltende Gegenleistung handelt, aus der folglich die Steuer herauszurechnen ist. Sind daher in diese Steuerbemessungsgrundlage nach Art. 79 Buchst. b MwStSystRL Rabatte und Rückvergütungen nicht einzubeziehen, mindern sie die Gegenleistung, wie der Senat mit Urteil vom 28.05.2009 - V R 2/08 (BFHE 226, 166, BStBl II 2009, 870, unter II.3.a und II.3.b) entschieden hat.
+
+11 In Übereinstimmung hiermit folgt zudem aus der Rechtsprechung des EuGH, dass der Abschlag nach § 1 AMRabG ausdrücklich als "Preisnachlass nach Bewirkung des Umsatzes im Sinne des Art. 90 Abs. 1 der Mehrwertsteuerrichtlinie" und als "Teil der Gegenleistung" anzusehen ist (EuGH-Urteil Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16, EU:C:2017:1006, Rz 42) sowie dass die Auslegung des in Art. 73 MwStSystRL verwendeten Begriffs "Gegenleistung" in dem EuGH-Urteil International Bingo Technology vom 19.07.2012 - C-377/11 (EU:C:2012:503) auf die in Art. 90 MwStSystRL gebrauchte Wendung "[i]m Falle … des Preisnachlasses" übertragen werden kann, da es in beiden Vorschriften darum geht, was zur Bemessungsgrundlage gehört (EuGH-Urteil Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16, EU:C.2017:1006, Rz 45). Die von der Klägerin zitierte Rz 43 des EuGH-Urteils Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16 (EU:C:2017:1006) zur fehlenden freien Verfügbarkeit des Rabattes ist danach im Zusammenhang mit den nachfolgenden Rz 44 und 45 des EuGH-Urteils Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16 (EU:C.2017:1006) zu verstehen, in denen der EuGH seine in den Urteilen International Bingo Technology vom 19.07.2012 - C-377/11 (EU:C:2012:503) und Glawe vom 05.05.1994 - C-38/93 (EU:C:1994:188) hergeleitete Auslegung zum Begriff "Gegenleistung" auf Art. 90 MwStSystRL überträgt.
+
+12 Der Rechtsprechung des EuGH hat sich der BFH im Nachgang und unter Festhalten am BFH-Urteil vom 28.05.2009 - V R 2/08 (BFHE 226, 166, BStBl II 2009, 870) angeschlossen (BFH-Urteil vom 08.02.2018 - V R 42/15, BFHE 260, 573, BStBl II 2018, 676, Rz 14 und 15; vgl. auch BFH-Urteil vom 10.12.2020 - V R 34/18, BFHE 272, 167, BStBl II 2021, 576, Rz 27). Die von der Klägerin nach ihrer Beschwerdebegründung vermisste eingehende Auseinandersetzung des BFH mit der Rechtsprechung des EuGH im Urteil Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16 (EU:C:2017:1006) erweist sich damit als nicht erforderlich. Neue Gesichtspunkte, die eine erneute Prüfung und Entscheidung dieser Frage geboten erscheinen lassen, trägt die Klägerin nicht vor.
+
+13 c) Im Übrigen sind die Rechtsfragen der Klägerin nicht klärungsbedürftig, als für die Höhe der Bemessungsgrundlage insoweit nicht entscheidungserheblich ist, ob der Preisnachlass zum Zeitpunkt der Bewirkung der Arzneimittellieferung (Art. 73, 79 Buchst. b MwStSystRL, § 10 Abs. 1 Satz 1 UStG) oder erst nach der Bewirkung des Umsatzes (Art. 90 MwStSystRL, § 17 Abs. 1 Satz 1 UStG) gewährt wurde. Der Begriff "Gegenleistung" in Art. 73 MwStSystRL und die in Art. 90 MwStSystRL gebrauchte Wendung "[i]m Falle … des Preisnachlasses" sind gleichbedeutend auszulegen (EuGH-Urteil Boehringer Ingelheim Pharma vom 20.12.2017 - C-462/16, EU:C:2017:1006, Rz 45).
+
+14 4. Der Senat sieht von einer Darstellung des Sachverhalts und einer weiteren Begründung ab (§ 116 Abs. 5 Satz 2 Halbsatz 2 FGO).
+
+15 5. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
