@@ -1,0 +1,7 @@
+# TOP 5: Planung 30-jähriges Jubiläum sommer 2026
+
+- Sitzung: Sitzung des Gleichstellungsbeirates der Verbandsgemeinde Enkenbach-Alsenborn (2026-01-15)
+- Körperschaft: Verbandsgemeinde Enkenbach-Alsenborn
+- Öffentlich: ja
+- OParl: https://enkenbach-alsenborn.gremien.info/oparl/agendaItem/ni_2026-VGGSB-20%7Czt_4%7C1
+- Beschluss (Datei): Beschluss - Top 5 https://enkenbach-alsenborn.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-VGGSB-20%7Czt_4%7C1
