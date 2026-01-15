@@ -1,0 +1,54 @@
+# 2. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-15T15:35:00+01:00
+- Ende: 2026-01-15T17:54:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/199
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34168
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34168
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Winterhilfe für obdachlose Menschen – Aktuelle Lage und Handlungsbedarf - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 2: Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt - Kenntnis genommen
+- TOP 3: Gleichstellungsrelevante Themen
+- TOP 4: Integration und Vielfalt
+- TOP 4.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 4.2: Bericht aus der Arbeit der Behindertenbeauftragten - Sache ist erledigt
+- TOP 4.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 4.3.1: Sprach- und Integrationsmittlungspool für die Stadt Köln – bikup Jahresbericht 2024 - Kenntnis genommen
+- TOP 4.3.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2026 - Kenntnis genommen
+- TOP 4.3.3: Präsentation der Vorstudie zur Weiterentwicklung des Konzepts zur Stärkung der integrativen Stadtgesellschaft - Kenntnis genommen
+- TOP 5: Aktuelle Situation von Geflüchteten in Köln
+- TOP 6: Arbeit
+- TOP 6.1: Jobcenter Köln
+- TOP 6.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 6.2: Arbeitsmarktförderung
+- TOP 7: Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung
+- TOP 7.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1 und 3, 51143 Köln-Porz - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 8: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 9: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1: Förderungen von im Stadtgebiet Köln anerkannten Betreuungsvereinen - ungeändert beschlossen
+- TOP 10: Ausschussempfehlungen an den Rat
+- TOP 10.1: Neubesetzung der Stadtarbeitsgemeinschaft Queerpolitik - ungeändert empfohlen
+- TOP 10.2: Anpassung der Rettungsdienstsatzung der Stadt Köln auf der Grundlage einer überarbeiteten Gebührenkalkulation - ohne Votum behandelt
+- TOP 11: Ausschussempfehlungen an andere Ausschüsse
+- TOP 12: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 12.1: Anfragen und Beantwortungen aus früheren Sitzungen
+- TOP 12.1.1: Maßnahmen zur Förderung sozial gemischter Stadtteile in Köln - Sache ist erledigt
+- TOP -: Maßnahmen zur Förderung sozial gemischter Quartiere (AN/0695/2025) - Kenntnis genommen
+- TOP 12.2: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 12.3: Aktuelle Anfragen und Beantwortungen
+- TOP 12.3.1: Syrische Flüchtlinge in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der AfD Fraktion zu "Syrische Flüchtlinge in Köln" - Kenntnis genommen
+- TOP 12.3.2: Versorgung von Menschen aus Krisengebieten - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage AN/0028/2026 der Fraktion Bündnis 90/Die Grünen zur Versorgung von Menschen aus Krisengebieten - Kenntnis genommen
+- TOP 12.3.3: Aktuelle Situation der Beleghebammen in Köln - vertagt
+- TOP 13: Mündliche Anfragen aus aktuellem Anlass
+- TOP 14: Mitteilungen
+- TOP 14.1: Neue Bevölkerungsvorausberechnung des Statistischen Landesamtes / IT.NRW 2024 bis 2050/2070 - Kenntnis genommen
+- TOP 14.2: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2024 - Kenntnis genommen
