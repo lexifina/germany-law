@@ -1,0 +1,75 @@
+# 40. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2026-01-15T17:00:00+01:00
+- Ende: 2026-01-15T19:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7302
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7302
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=463636
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Mitglieder des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Abberufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses zu § 35 Abs. 7 Ziff. 6 AG KJHG - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses zu § 35 Abs. 7 Ziff. 5 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Wahl eines Bürgerdeputierten für den Ausschuss für Weiterbildung und Kultur (B) - gewählt
+- TOP 6.5: Wahl einer / eines Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-38 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Standortkonferenz Schöneweide - Zwischenbilanz und Perspektiven - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Dialog zwischen Bezirksamt und Menschen mit Behinderungen fördern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Bessere Busanbindung für das Gebiet Kablower Weg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Geschwindigkeitskontrollen durch das Ordnungsamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Neue Bushaltehaltestelle an der Straße "Am Seegraben" für die Linie 163 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Buslinie 365 zur regulären Tagesbuslinie aufwerten – Linienbetrieb von 6-24 Uhr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Tabus brechen und Frauen in den Wechseljahren stärken! Beratungsangebote zur Menopause aufzeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Verkehrssicherheit vor der Anna-Seghers-Schule erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Beleuchtung des gemeinsamen Geh- und Radweges auf der Schöneicher Landstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Pflanzenliste für Biodiversität und Klimaresilienz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Runder Tisch "Pflege" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Strategisches Konzept zur Landschafts- und Freiraumentwicklung in Treptow-Köpenick – Strategie Grün - überwiesen
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Bezirkshaushaltsrechnung 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Aktionsplan "Inklusion und Barrierefreiheit" - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beleuchtung beim Stadion An der Alten Försterei - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Öffnen des Bahnhofsgebäudes Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Beleuchtungsinitiative für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Erhalt von Kleingartenanlagen bei der Entwicklung des "Dreiecks Späthsfelde" - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Verkehrssicherheit im "Süßen Grund" gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Rollstuhlrampe am S-Bahnhof Schöneweide sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Beseitigung aller Kleidercontainer aus dem Stadtbild von Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Schulweg in der Venusstraße mittels Dialog-Display sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Fassaden mit Zukunft statt Beton von gestern - Prüfung und Umsetzung von Fassadenbegrünung - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Bebauungsplan 9-102 ("Quittenweg"), Ortsteil Altglienicke hier: Beschluss über die Einleitung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Bebauungsplan 9-103 E ("Wilhelminenhofstraße") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Legale Graffiti-Flächen in Treptow-Köpenick schaffen - überwiesen
+- TOP 12.2: Menstruationsartikel in Schulen bereitstellen - überwiesen
+- TOP 12.3: Mehr Kunst im öffentlichen Raum - überwiesen
+- TOP 12.4: Erhalt von langjährig genutzten Erholungsgrundstücken in Schmöckwitz - überwiesen
+- TOP 12.5: Kapazitäten der Buslinie 160 (Siriusstr. <-> Hasselwerderstr.) in den Morgenstunden erhöhen - überwiesen
+- TOP 12.6: Platz für Grünau – Park an der Friedenskirche als dauerhafte Veranstaltungsfläche ausweisen - überwiesen
+- TOP 12.7: Mehr Raum für Kinder und gute Bildungs- und Jugendarbeit: Öffnung und öffentliche Nutzung des bezirkseigenen Gebäudes Puschkinallee 16A - überwiesen
+- TOP 12.8: Wiederherstellung der Wegebeleuchtung am Sterndamm - überwiesen
+- TOP 12.9: Mehr Transparenz: Einheitliche Berichterstattung des Bezirksamtes - überwiesen
+- TOP 12.10: Bezirkliche Sportinfrastruktur ermöglichen - überwiesen
+- TOP 12.11: Müll ist mehr als ein Ordnungsproblem – Runder Tisch im Bezirk - überwiesen
+- TOP 12.12: Mensch-Tier-Bestattungen auf bezirklichen Friedhöfen ermöglichen - überwiesen
+- TOP 12.13: Zusätzlicher Straßenbahnhalt für Oberschöneweide - überwiesen
+- TOP 12.14: Verfahrensstandards für die Kiezkassen Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
