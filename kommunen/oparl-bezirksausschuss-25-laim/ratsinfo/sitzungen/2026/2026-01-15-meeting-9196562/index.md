@@ -1,0 +1,125 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2026-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9196562
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9196562
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Errichtung inklusives Spielgerät mit Zugangsmöglichkeit
+- TOP 2.2.: Errichtung inklusiver Kommunikationstafeln
+- TOP 2.3.: Entsiegelung und Begrünung der Arrondierung an der Kreuzung Valpichlerstraße/Reutterstraße
+- TOP 2.4.: Nachhaltige Lösung für die Vermüllung an Wertstoffinseln in Laim
+- TOP 2.5.: Akute Vermüllung an Wertstoffinseln in Laim wirksam eindämmen
+- TOP 2.6.: Probebetrieb eines Mikrowagen der AWM in schwer zugänglichen Straßen
+- TOP 2.7.: Parkraum in Laim sichern III - Aufhebung der Carsharing-Stellplätze in der Aindorferstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Antwortschreiben und Zwischennachricht Abfallwirtschaftsbetrieb München vom 08.12.25 bzw. 21.11.25: Bestellung städtischer Leistung: Finanzierung des Einbaus von Unterflurcontainern für Wertstoffe (UA Bau)
+- TOP 3.2.: (E) Stadtbezirksbudget die urbanauten Spiel mich! vom 15.12.2025 - 14.12.2026 3.250,00 Euro, Az.: 0262.0-25-0388 (UA Kultur)
+- TOP 3.3.: (E) Stadtbezirksbudget Helferkreis für Geflüchtetenunterkünfte in den Stadtbezirken 7, 8 und 25 Jahresprogramm 2026 des Helferkreises vom 01.01. - 31.12.2026 2.500,00 Euro, Az.: 0262.0-25-0391 (UA Soziales)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 15.12.25: Veranstaltung im Freien in städtischer Grünanlage: Laimer Faschingstreiben am Samstag, 14.02.2026 von 11:00 bis 15:30 Uhr, Am Laimer Anger (Frist: 26.01.2026)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Elsenheimerstr. 59, 8480/4-Sektion V Umbau und Erweiterung eines Büro- und Verwaltungsgebäudes mit Tiefgarage (Frist 19.01.2026)
+- TOP 5.2.: Elsenheimerstr. 67, 8480/0-Sektion V Nutzungsänderung eines Casinos mit Fitness- und Saunabereich zu einer Praxis für Physiotherapie und Rehabilitation sowie räumliche Abtrennung einer BMZ-Leitwarte (Frist 19.01.2026)
+- TOP 5.3.: Gatterburgstr. 5, 1432/5-Pasing Neubau eines Doppelhauses mit zwei Einzelgaragen (Frist 19.01.2026)
+- TOP 5.4.: Hohenwarter Str. 4, 355/15-Laim Energetische Sanierung einer Doppelhaushälfte mit zwei Wohneinheiten (Frist 19.01.2026)
+- TOP 5.5.: Landsberger Str. 212, 238/2-Neuhausen ÄNDERUNGSANTRAG zu 1.1-2024-4566-23 hier: EG: Anbauten an Containerbauten mit Garderobe/Lager, OG: Containerbau mit Lager, Außenanlagen: Lärmschutzzaun h=3m zu Nachbar Nord (Frist: 19.01.2026)
+- TOP 5.6.: Lautensackstr. 15, 312/84-Laim Abbruch und Neubau größerer Balkone sowie Errichtung zweier neuer Balkone im Hochparterre – ÄNDERUNGSANTRAG zu 1.23-2023-17848-23 (Frist 19.01.2026)
+- TOP 5.7.: St.-Ulrich-Str. 19, 127/182-Laim Neubau von einem Doppelhaus (2 DHH) - VORBESCHEID (Frist 19.01.2026)
+- TOP 5.8.: Veit-Stoß-Str. 40, 294/6-Laim Nutzungsänderung einer Gewerbeeinheit zu einer Ferienwohnung (Frist 19.01.2026)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung am 04.12.25
+- TOP 7.2.: Protokoll UA Kultur am 13.11.25
+- TOP 7.3.: Protokoll UA Mobilität am 18.11.25
+- TOP 7.4.: Protokoll UA Bau am 27.11.25
+- TOP 7.5.: Protokoll UA Umwelt, Klima und Baumschutz am 01.12.25
+- TOP 8: Umlauf
+- TOP 8.1.: Bautenliste 17.11. – 23.11.25 A) Erstantragsverfahren 1. Elsenheimerstr. 59 2. Elsenheimerstr. 67 3. Gatterburgstr. 5
+- TOP 8.2.: Bautenliste 24.11. – 30.11.25 A) Änderungsverfahren zu genehmigten Bauvorhaben 1. Landsberger Str. 212
+- TOP 8.3.: Antwortschreiben Referat für Stadtplanung und Bauordnung vom 20.11.25: Gleichberechtigung für gehörlose Mieter*innen in „Alte Heimat“ - Videogegensprechanlagen für alle
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.11.25: Fällungsantrag Westendstr. 266-268c
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.12.25: Gefahrenbaumfällung Mitterhoferstr. 1-3, Landsberger Str. 215
+- TOP 8.6.: Schreiben Direktorium vom 20.11.25: Übersicht der Zuschussanträge des Stadtbezirksbudgets im IV. Quartal 2025
+- TOP 8.7.: Schreiben Direktorium vom 08.12.25: Verwendungsnachweis
+- TOP 8.8.: Schreiben Direktorium vom 10.12.25: Regenbogenbank am Laimer Würfel
+- TOP 8.9.: Schreiben Referat für Klima- und Umweltschutz vom 17.11.25 und 26.11.25: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München im Kalenderjahr 2026
+- TOP 8.10.: Schreiben Referat für Klima- und Umweltschutz vom 08.12.25: Modernisierung einer Mobilfunkanlage in der Senftenauerstr. 50
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 24.11.25: Fortführung zweier Gaststätten, Landsberger Str. 214
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 25.11.25: Knallerverbotszone Mittlerer Ring und Feuerwerkabbrennverbot Tierpark
+- TOP 8.13.: Schreiben Baureferat vom 13.11.25: Unterrichtung über bevorstehende Entfernungen von Gefahrbäumen
+- TOP 8.14.: Antwortschreiben Baureferat vom 19.11.25: Abfalleimer am Laimer Anger
+- TOP 8.15.: Zwischennachrichten Baureferat vom 25.11.15 und 26.11.25: Bestellung städtischer Leistung: Verbesserung der Sauberkeit im öffentlichen Raum – zusätzliche Personalleistungen zur Müllentsorgung
+- TOP 8.16.: Schreiben Referat für Arbeit und Wirtschaft vom 11.12.25: Protokoll und Präsentation der Informationsveranstaltung zur Versorgung Münchens mit stationären Einrichtungen der Post am 27.11.2025
+- TOP 8.17.: Antwortschreiben des Referats für Bildung und Sport vom 04.12.25: Anfrage: Überfüllte Mülleimer in der Hogenbergstraße - Beschwerden für die Tonne?
+- TOP 8.18.: Antwortschreiben Mobilitätsreferat vom 06.11.25: Mehr Sicherheit für Kinder: Tempo 30 in der Siglstraße
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 19.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 5.4 TramWestTangente Änderung und Verlängerung
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 19.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Stefan-Zweig-Weg bis Kreuzhofbrücken/ A95 und Abfahrt in die Forst-Kasten-Allee, BA III SZW-KHB/ A95 BP 2.3.1, TWT
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 19.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.4 AIN Knoten, Bph. 6.3 LEI-AIN TramWestTangente 2. Änderung
+- TOP 8.22.: Antwortschreiben Mobilitätsreferat vom 20.11.25: Erhöhung der Verkehrssicherheit an der T-Einmündung Wilhelm-Riehl-Straße / Straubinger Straße
+- TOP 8.23.: Schreiben Mobilitätsreferat vom 20.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bauphase 6.1 im Bereich Laimer Kreisel bis Agnes-Bernauer-Straße TramWestTangente Änderung
+- TOP 8.24.: Antwortschreiben Mobilitätsreferat vom 21.11.25: Die Laimer Röhre endlich verkehrssicher für Fußgänger
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 21.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Agnes-Bernauer-Straße - Bauphase 6.6 TramWestTangente 2. Änderung
+- TOP 8.26.: Schreiben Mobilitätsreferat vom 21.11.25: Arbeiten im Straßenraum; Wotanstraße zwischen Herthastraße und Gaßnerstraße Bauphase 2.7 – Gaßnerstraße bis Walhallastraße Bauphase 2.5 – Walhallastraße bis Laimer Kreisel TramWestTangente
+- TOP 8.27.: Schreiben Mobilitätsreferat vom 24.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Saherstraße bis Hohenwarterstraße Bph. 6.3.4 AIN Knoten, Bph. 6.3 LEI-AIN TramWestTangente 3. Änderung
+- TOP 8.28.: Schreiben Mobilitätsreferat vom 25.11.25: Baustelleneinrichtung und Zufahrt für die Grünfläche 888.1 Nähe Ammerseestraße
+- TOP 8.29.: Schreiben Mobilitätsreferat vom 25.11.25: Anordnung absolutes Haltverbot mit Zusatz „Feuerwehrzufahrt“, Inderstorferstr. 18-20
+- TOP 8.30.: Schreiben Mobilitätsreferat vom 25.11.25: Drehgenehmigung, Gunzenlehstr. 3-19
+- TOP 8.31.: Schreiben Mobilitätsreferat vom 26.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße, Bereich Ammerseestr. Süd bis Meier-Helmbrechts-Str./Andreas-Vöst-Str. BA III AMM_MHS BP 2.1.2 mit Übergang zu AMM 5.4/ MHS 2.2.2, 2. Änderung 3-spurig/Spurwechsel zwischen Andreas-Vöst-Str. und südl. Ammerseestr., TWT, Verlängerung
+- TOP 8.32.: Schreiben Mobilitätsreferat vom 28.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 6.0 TramWestTangente
+- TOP 8.33.: Schreiben Mobilitätsreferat vom 28.11.25: Arbeiten im Straßenraum; Fürstenrieder Straße, Bereich Ammerseestr. Süd bis Meier-Helmbrechts-Str./ Andreas-Vöst-Str., BA III AMM_MHS BP 2.1.2 mit Übergang zu AMM 5.4/ MHS 2.2.2, 3. Änderung AMM-MHS 2.1.2 mit Übergang zu AMM 6.0 (ab nördl. der Leostr.) und MHS 2.2.2, TWT
+- TOP 8.34.: Antwortschreiben Mobilitätsreferat vom 02.12.25: Einbahnstraße Aindorferstraße
+- TOP 8.35.: Schreiben Mobilitätsreferat vom 02.12.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.6 TramWestTangente 3. Änderung
+- TOP 8.36.: Schreiben Mobilitätsreferat vom 03.12.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bauphase 6.1 im Bereich Laimer Kreisel bis Agnes-Bernauer-Straße TramWestTangente 2. Änderung
+- TOP 8.37.: Antwortschreiben Mobilitätsreferat vom 04.12.25: Parksituation am Willibaldplatz: Umsetzung der beschlossenen fünf Kurzzeitparkplätze und Begrenzung von Carsharing-Stellplätzen
+- TOP 8.38.: Schreiben Mobilitätsreferat vom 04.12.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2 Verlängerung
+- TOP 8.39.: Schreiben Mobilitätsreferat vom 09.12.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2.1
+- TOP 8.40.: Antwortschreiben Mobilitätsreferat vom 11.12.25: Micro-Mobilität in Laim
+- TOP 8.41.: Antwortschreiben Mobilitätsreferat vom 11.12.25: Parksituation Berchemstraße
+- TOP 8.42.: Antwortschreiben Mobilitätsreferat vom 11.12.25: Gehwegparken Flotowstraße
+- TOP 8.43.: Schreiben Mobilitätsreferat vom 11.12.25: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2.1 mit Camerloherstr. Bauphase 6.5 (Winterphase) TramWestTangente
+- TOP 8.44.: Schreiben Mobilitätsreferat vom 12.12.25: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße Bph. 6.4 AIN Knoten, Bph. 6.4.2 TramWestTangente
+- TOP 8.45.: Antwortschreiben Abfallwirtschaftsbetrieb München vom 04.12.25: Wertstoffinsel Von-der-Pfordten-Straße/Camerloherstraße
+- TOP 8.46.: Antwortschreiben Abfallwirtschaftsbetrieb München vom 12.12.25: Mülltrennung Aindorferstraße/Joergstraße
+- TOP 8.47.: Antwortschreiben Stadtwerke München vom 20.11.25: Ticketpreis Schwimmbad
+- TOP 8.48.: Schreiben Stadtwerke München vom 21.11.25: Umleitung wegen Straßenbauarbeiten (Bereich: Guido-Schneble-Straße)
+- TOP 8.49.: Schreiben Stadtwerke München vom 27.11.25: Haltestellenverlegung Laimer Bahnhof, Fahrtrichtung Süden; Aidenbachstraße, Parkstadt Solln
+- TOP 8.50.: Schreiben Stadtwerke München vom 02.12.25: Baumaßnahmen
+- TOP 8.51.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2025: Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 • Gliederungsziffern o 3601 Baum- und Denkmalschutz o 6100 Referat für Stadtplanung und Bauordnung o 6101 Stadtentwicklungsplanung o 6110 Lokalbaukommission o 6130 Stadtplanung o 6150 Städtebauförderung o 6200 Förderung Wohnungsbau & Wohnsiedlung • Investive Konsolidierung 2028 ff. – Stand und Ergebnis • Mittelübertragung vom Kommunalreferat • Stellungnahme zum Antrag des Bezirksausschusses 7
+- TOP 8.52.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2025: Dritte Programmanpassung „Wohnen in München VII“ Sozialgerechte Bodennutzung in München (SoBoN) A) Auswirkungen der Fördermittelsituation auf den geförderten und Preisgedämpften Mietwohnungsbau B) Auftrag zur Novellierung der Sozialgerechten Bodennutzung C) Bürgerversammlungsempfehlung
+- TOP 8.53.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2025: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP 8.54.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2025: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 8.55.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2025: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 8.56.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2025: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.57.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2025: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement, Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 8.58.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2025: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.59.: Beschluss des Ausschusses für Klima- und Umweltschutz vom 09.12.25: Fortschreibung der Fachleitlinie Ökologie: Die Fachleitlinie Klima, Umwelt und globale Verantwortung, Vorstellung und Vorbereitung Öffentlichkeitsphase und Leitprojekte
+- TOP 8.60.: Beschluss des Mobilitätsausschusses vom 10.12.25: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Gehwegparken Aindorferstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.2.: Gehwegparken Berchemstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.3.: Gehwegparken Wimpfener Straße und Freiburger Platz (Weiterleitung an Mobilitätsreferat)
+- TOP 9.4.: Parken Camerloherstraße (zwischen Fürstenrieder Straße und Flotowstraße) (Weiterleitung an Mobilitätsreferat und Polizeiinspektion 41)
+- TOP 9.5.: Parkplatzsituation in der Aindorferstraße, Guido-Schneble-Straße und Lanzstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.6.: Lade-/Lieferzone Elsenheimerstraße 4 (Verweisung an Unterausschuss Mobilität)
+- TOP 9.7.: Erweiterung Haltverbot Josef-Schick-Straße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.8.: Getrennter Fuß- und Radweg in der Laimer Unterführung (Weiterleitung an Mobilitätsreferat und Verweisung an Unterausschuss Mobilität)
+- TOP 9.9.: Ampelphase Fürstenrieder Straße Ecke Aindorferstraße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.10.: Beleuchtung am U-Bahnhof Friedenheimer Straße (Weiterleitung an Baureferat)
+- TOP 9.11.: Geschäfte und Parkplätze in Laim (Antwort durch Bezirksausschuss 25 Laim)
+- TOP 9.12.: Christkindl-/Weihnachtsmarkt Laim (Verweisung an Unterausschuss Kultur)
+- TOP 9.13.: Neubauvorhaben Högerstraße (Verweisung an Unterausschuss Bau)
+- TOP 9.14.: Umweltbildung für Kinder durch KI-gestützten Recycling-Container (Verweisung an Unterausschuss Bildung und Gesundheit)
+- TOP 9.15.: Wertstoffinsel Straubinger Straße/Wilhelm-Riehl-Straße (Weiterleitung an Abfallwirtschaftsbetrieb München)
