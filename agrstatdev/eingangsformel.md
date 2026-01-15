@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Das Bundesministerium für Landwirtschaft, Ernährung und Heimat verordnet aufgrund des § 94a Nummer 1 Buchstabe c des Agrarstatistikgesetzes in der Fassung der Bekanntmachung vom 17. Dezember 2009 (BGBl. I S. 3886), das zuletzt durch Artikel 1 des Gesetzes vom 14. November 2022 (BGBl. I S. 2030) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131):
