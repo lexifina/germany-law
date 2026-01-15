@@ -1,0 +1,109 @@
+---
+ecli: "ECLI:DE:BFH:2026:U.150126.IIIR39.22.0"
+court: "Bundesfinanzhof"
+aktenzeichen: "III R 39/22"
+decided: "2026-01-15"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/STRE202610086.xml"
+neuris_doknr: "STRE202610086"
+---
+
+# Bundesfinanzhof, III R 39/22 vom 2026-01-15
+
+## Leitsatz
+
+1. Für die Zuordnung von Wirtschaftsgütern zum (fiktiven) Anlagevermögen genügt es, dass sie nach den tatsächlichen betrieblichen Verhältnissen (erkennbar) objektiv und subjektiv dazu bestimmt sind, dauernd dem Geschäftsbetrieb zu dienen (vgl. § 247 Abs. 2 des Handelsgesetzbuchs); sie müssen ihm nicht direkt oder unmittelbar dienen, nicht zwingend erforderlich sein und nicht das Kerngeschäft betreffen.18 20 21 23 30 31 32 35 36
+
+2. Mietzinsen für die Überlassung von Hotelzimmern sind nicht generell von einer Hinzurechnung ausgeschlossen. Bei einer wiederholten kurzzeitigen Anmietung von Immobilien --hier von Hotelzimmern und Ferienwohnungen als Mitarbeiterunterkünfte-- kommt eine Hinzurechnung (nur dann) in Betracht, wenn nach den speziellen betrieblichen Verhältnissen derartige Immobilien ständig für den betrieblichen Gebrauch vorzuhalten sind und es sich entweder immer wieder um dieselben Unterkünfte handelt oder die nur kurzzeitig angemieteten Immobilien auch unter Berücksichtigung ihrer Lage untereinander austauschbar sind.20 21 23 31 33
+
+## Tenor
+
+Auf die Revision des Beklagten wird das Urteil des Sächsischen Finanzgerichts vom 27.09.2022 - 3 K 1352/20 aufgehoben.
+
+Die Sache wird an das Sächsische Finanzgericht zur anderweitigen Verhandlung und Entscheidung zurückverwiesen.
+
+Diesem wird die Entscheidung über die Kosten des Verfahrens übertragen.
+
+## Tatbestand
+
+I.
+
+1 Zwischen den Beteiligten ist streitig, ob der Aufwand der Klägerin und Revisionsbeklagten (Klägerin) für die Anmietung von Unterkünften für ihre Arbeitnehmer in den Streitjahren 2014 bis 2016 ihrem Gewinn aus Gewerbebetrieb im Sinne des § 7 des Gewerbesteuergesetzes in der in den Streitjahren geltenden Fassung (GewStG) nach § 8 Nr. 1 Buchst. e GewStG hinzuzurechnen ist.
+
+2 Die Klägerin ist eine GmbH, deren Unternehmenszweck insbesondere die Sicherung der Funktionsfähigkeit von Entwässerungsanlagen ist. Zwischen den Beteiligten ist unstreitig, dass sich der Geschäftszweck der Klägerin in den Streitjahren in Arbeiten an Entwässerungsanlagen erschöpfte.
+
+3 Den von der Klägerin durchgeführten Arbeiten lagen zeitlich begrenzte Aufträge an unterschiedlichen Orten zugrunde.
+
+4 In den Streitjahren mietete die Klägerin für die Ausübung ihrer Tätigkeit im überregionalen Bereich an dem jeweiligen Ausführungsort für ihre Arbeitnehmer Hotelzimmer oder Ferienwohnungen an; die dadurch entstandenen Aufwendungen in Höhe von ... € im Jahr 2014, ... € im Jahr 2015 und ... € im Jahr 2016 berücksichtigte sie als Betriebsausgaben.
+
+5 Die Anmietung der Hotelzimmer oder Ferienwohnungen diente dazu, den Anfahrtsweg der Arbeitnehmer zu verkürzen. Die Aufwendungen für die Hotelzimmer und Ferienwohnungen flossen in die Kalkulation des Entgelts für die von der Klägerin erbrachten Leistungen ein.
+
+6 In den Fällen, in denen die Klägerin Leistungen innerhalb ihres Einzugsgebietes ausführte, wurden keine Hotelzimmer oder Ferienwohnungen für ihre Arbeitnehmer angemietet.
+
+7 Der Beklagte und Revisionskläger (Finanzamt --FA--) führte bei der Klägerin eine Außenprüfung durch, die sich (unter anderem) auch auf die Gewerbesteuer für die Jahre 2014 bis 2016 erstreckte. Die Prüferin kam im Rahmen dieser Prüfung zu dem Ergebnis, dass der Gewerbeertrag der Klägerin in den Streitjahren um die Aufwendungen für die Übernachtungen ihrer Arbeitnehmer an auswärtigen Standorten zu erhöhen sei und rechnete die als Betriebsausgaben geltend gemachten Aufwendungen dem Gewerbeertrag gemäß § 8 Nr. 1 Buchst. e GewStG hinzu. Das FA folgte dieser Auffassung und erließ unter dem Datum 28.01.2020 entsprechend geänderte Gewerbesteuermessbescheide. Die hiergegen eingelegten Einsprüche der Klägerin wurden mit Einspruchsentscheidung vom 12.11.2020 als unbegründet zurückgewiesen.
+
+8 Die dagegen erhobene Klage war erfolgreich. Das Finanzgericht (FG) entschied, die Gewerbesteuermessbescheide für 2014 bis 2016 vom 28.01.2020 in Gestalt der Einspruchsentscheidung vom 12.11.2020 seien dahingehend zu ändern, dass der Gewerbesteuermessbetrag 2014 um ... €, der Gewerbesteuermessbetrag 2015 um ... € und der Gewerbesteuermessbetrag 2016 um ... € gemindert werden.
+
+9 Die Entscheidung ist in Entscheidungen der Finanzgerichte 2023, 855 veröffentlicht.
+
+10 Hiergegen wendet sich das FA mit der Revision.
+
+11 Das FA beantragt,das Urteil des Sächsischen Finanzgerichts vom 27.09.2022 - 3 K 1352/20 aufzuheben und die Klage abzuweisen, hilfsweise die Sache an das Sächsische Finanzgericht zur anderweitigen Verhandlung und Entscheidung zurückzuverweisen.
+
+12 Die Klägerin beantragt,die Revision zurückzuweisen.
+
+## Entscheidungsgründe
+
+II.
+
+13 Die Revision ist begründet. Die Vorentscheidung verletzt Bundesrecht (§ 118 Abs. 1 Satz 1 der Finanzgerichtsordnung --FGO--) und erweist sich auch nicht im Ergebnis als richtig (§ 126 Abs. 4 FGO). Mangels ausreichender Feststellungen des FG ist die Sache nicht spruchreif. Sie ist deshalb aufzuheben und die Sache zur erneuten Verhandlung und Entscheidung zurückzuverweisen (§ 126 Abs. 3 Satz 1 Nr. 2 FGO).
+
+14 1. Nach § 8 Nr. 1 Buchst. e GewStG in der in den Streitjahren geltenden Fassung wird dem Gewinn aus Gewerbebetrieb (§ 7 GewStG) ein Viertel der Summe aus der Hälfte der Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung der unbeweglichen Wirtschaftsgüter des Anlagevermögens, die im Eigentum eines anderen stehen, hinzugerechnet, soweit sie bei der Ermittlung des Gewinns abgesetzt worden sind und soweit die Summe der Beträge im Sinne von § 8 Nr. 1 Buchst. a bis f GewStG den Betrag von 100.000 € übersteigt.
+
+15 a) Die Grundsätze, nach denen sich bestimmt, ob ein Wirtschaftsgut dem Anlagevermögen zuzuordnen ist, hat der Senat zum Beispiel im Urteil vom 25.07.2019 - III R 22/16 (BFHE 265, 386, BStBl II 2020, 51, Rz 21 ff., m.w.N.) und im Beschluss vom 23.03.2022 - III R 14/21 (BFHE 276, 182, BStBl II 2022, 559, Rz 18 ff.) ausführlich dargestellt. Daran ist festzuhalten und darauf wird zur Vermeidung von Wiederholungen verwiesen.
+
+16 aa) Danach ist die Fiktion, dass der Steuerpflichtige der Eigentümer der Wirtschaftsgüter ist, nicht an das Vorliegen bestimmter Voraussetzungen geknüpft (vgl. z.B. Senatsurteil vom 25.07.2019 - III R 22/16, BFHE 265, 386, BStBl II 2020, 51, Rz 28; Urteil des Bundesfinanzhofs --BFH-- vom 08.12.2016 - IV R 24/11, BFHE 256, 526, BStBl II 2022, 276, Rz 11 ff.).
+
+17 bb) Die Frage, ob das fiktiv im Eigentum des Steuerpflichtigen stehende Wirtschaftsgut zu dessen Anlagevermögen gehören würde, ist --anders als es in der Argumentation des FA anklingt-- stets zu prüfen. Die Prüfung orientiert sich maßgeblich an der Zweckbestimmung des Wirtschaftsguts in dem Betrieb, die einerseits subjektiv vom Willen des Steuerpflichtigen abhängt, sich andererseits aber an objektiven Merkmalen nachvollziehen lassen muss, wie zum Beispiel der Art des Wirtschaftsguts oder der Art und Dauer der Verwendung im Betrieb und der Art des Betriebs (z.B. Senatsurteil vom 25.07.2019 - III R 22/16, BFHE 265, 386, BStBl II 2020, 51, Rz 28; Senatsbeschluss vom 23.03.2022 - III R 14/21, BFHE 276, 182, BStBl II 2022, 559, Rz 18 ff.; BFH-Urteile vom 08.12.2016 - IV R 24/11, BFHE 256, 526, BStBl II 2022, 276, Rz 18, und vom 29.11.1972 - I R 178/70, BFHE 107, 468, BStBl II 1973, 148, unter 2.).
+
+18 (1) (Fiktives) Anlagevermögen ist nicht nur dann anzunehmen, wenn ein Wirtschaftsgut dem Kerngeschäft eines Unternehmens dient. Es genügt, dass es (erkennbar) objektiv und subjektiv dazu bestimmt ist, dauernd dem Geschäftsbetrieb zu dienen (vgl. § 247 Abs. 2 des Handelsgesetzbuchs --HGB--); es muss ihm nicht direkt oder unmittelbar dienen und nicht zwingend erforderlich sein (vgl. z.B. Senatsurteil vom 16.09.2024 - III R 36/22, BFHE 286, 446, BStBl II 2025, 88, Rz 15 ff.).
+
+19 (2) Soweit der Senat ausgeführt hat, dass die Verwendung des Wirtschaftsguts als Produktionsmittel für die Zuordnung zum Anlagevermögen spreche, während der Einsatz als zu veräußerndes Produkt eine Zuordnung zum Umlaufvermögen nahelege (vgl. z.B. Senatsurteile vom 19.01.2023 - III R 22/20, BFH/NV 2023, 716, Rz 16, und vom 25.07.2019 - III R 22/16, BFHE 265, 386, BStBl II 2020, 51, Rz 22), beschreibt er Kriterien zur Beantwortung der Frage, ob das Wirtschaftsgut dazu bestimmt ist, dauernd dem Geschäftsbetrieb zu dienen. In den Fällen, in denen sich das Wirtschaftsgut in keine dieser Kategorien einordnen lässt (zum Beispiel Werbeträger, die der Vermarktung der zu veräußernden Produkte dienen), kommen die genannten Kriterien nicht zur Anwendung (vgl. z.B. Senatsurteil vom 16.09.2024 - III R 36/22, BFHE 286, 446, BStBl II 2025, 88, Rz 20), im Übrigen ersetzen sie das Kriterium der Dauerhaftigkeit nicht, sondern erleichtern lediglich in bestimmten Fällen die Zuordnung.
+
+20 (3) Auch im Fall der kurzzeitigen Anmietung von Wirtschaftsgütern ist Voraussetzung für eine Hinzurechnung, dass der Steuerpflichtige das Wirtschaftsgut oder die Wirtschaftsgüter ständig für den Gebrauch in seinem Betrieb benötigt, so dass sich die wiederholte kurzzeitige Anmietung des nämlichen Wirtschaftsguts oder vergleichbarer Wirtschaftsgüter als Surrogat einer Entscheidung zur langfristigen Anmietung (langfristigen Nutzung) darstellt (z.B. Senatsurteile vom 16.09.2024 - III R 36/22, BFHE 286, 446, BStBl II 2025, 88, Rz 15 f., 20; vom 17.08.2023 - III R 59/20, BFHE 281, 546, BStBl II 2024, 70, Rz 54; vom 19.01.2023 - III R 22/20, BFH/NV 2023, 716, Rz 18, und vom 25.07.2019 - III R 22/16, BFHE 265, 386, BStBl II 2020, 51, Rz 24; Senatsbeschluss vom 23.03.2022 - III R 14/21, BFHE 276, 182, BStBl II 2022, 559, Rz 21). Dadurch wird sowohl dem in § 247 Abs. 2 HGB angelegten Merkmal der Dauerhaftigkeit Rechnung getragen als auch die in dieser Vorschrift vorgesehene Verbindung zum konkreten Betrieb (das heißt den betrieblichen Verhältnissen) hergestellt. Hingegen genügt es für eine Hinzurechnung nicht, dass das angemietete Wirtschaftsgut dem Betrieb dient und die Mietkosten als Betriebsausgaben abgezogen werden können, wie dies die Argumentation des FA nahelegt. Denn würde man bereits jede kurze, anlass- oder auftragsbezogene Anmietung eines Wirtschaftsguts ausreichen lassen, wäre das Tatbestandsmerkmal "Wirtschaftsgüter des Anlagevermögens" im Ergebnis inhaltsleer und überflüssig (Senatsurteil vom 25.07.2019 - III R 22/16, BFHE 265, 386, BStBl II 2020, 51, Rz 25, m.w.N.).
+
+21 (4) Nach diesen Grundsätzen kommt auch bei einer wiederholten kurzzeitigen Anmietung von Immobilien --hier von Hotelzimmern und Ferienwohnungen als Mitarbeiterunterkünfte-- eine Hinzurechnung (nur dann) in Betracht, wenn der Steuerpflichtige nach seinen speziellen betrieblichen Verhältnissen derartige Immobilien ständig für den Gebrauch in seinem Betrieb vorhalten muss und es sich entweder immer wieder um dieselben Unterkünfte handelt oder die nur kurzzeitig angemieteten Immobilien untereinander austauschbar sind, so dass die wiederholte kurzzeitige Anmietung verschiedener Immobilien einer längerfristigen Anmietung gleichkommt (vgl. z.B. Senatsurteil vom 17.08.2023 - III R 59/20, BFHE 281, 546, BStBl II 2024, 70). Die Frage der Austauschbarkeit orientiert sich auch hier an der Zweckbestimmung der Unterkünfte im konkreten Betrieb, die einerseits subjektiv vom Willen des Steuerpflichtigen abhängt, sich andererseits aber an objektiven Merkmalen nachvollziehen lassen muss.
+
+22 Bei Immobilien ist für die Frage der Austauschbarkeit --neben (zum Beispiel) der Art der Immobilie, ihrer Ausstattung und möglichen Zusatzleistungen-- regelmäßig auch ihre Lage von maßgeblicher Bedeutung, denn Immobilien zeichnen sich insbesondere durch ihre Belegenheit aus. Ob hierbei die konkrete Belegenheit oder aber ein bestimmter Einzugsbereich oder Umkreis (zum Beispiel die Ausdehnung der politischen Gemeinde) entscheidend ist, hängt von den Umständen des Einzelfalles ab. Nur in Ausnahmefällen kommt es nach den betrieblichen Verhältnissen auf die Lage einer Immobilie nicht an, etwa weil das Angebot darauf ausgerichtet ist, an beliebigen Orten (Lauf-)Kundschaft überall da zu gewinnen, wo die Ware oder Leistung angeboten wird (vgl. z.B. Senatsurteil vom 12.10.2023 - III R 39/21, BFHE 281, 568, BStBl II 2024, 67, zur Anmietung von Standflächen für Imbissbetriebe im Reisegewerbe).
+
+23 Bei einer wiederholten kurzzeitigen Anmietung von Immobilien (hier Unterkünften) ist deshalb regelmäßig nicht nur zu fragen, ob immer wieder (bundes- oder weltweit) überhaupt ihrer Art und Ausstattung nach vergleichbare Immobilien (Unterkünfte) benötigt und angemietet werden, sondern auch, ob entsprechende Immobilien (Unterkünfte) immer wieder in der jeweiligen Lage oder im Einzugsbereich oder Umkreis eines bestimmten Ortes benötigt werden (vgl. z.B. Senatsurteil vom 25.07.2019 - III R 22/16, BFHE 265, 386, BStBl II 2020, 51, Rz 28 f.). Andernfalls würde man dem Tatbestandsmerkmal "Wirtschaftsgüter des Anlagevermögens" und dem darin liegenden Erfordernis, dass das Wirtschaftsgut dazu bestimmt sein muss, dauernd dem Geschäftsbetrieb zu dienen (§ 247 Abs. 2 HGB), nicht gerecht.
+
+24 Unterkünfte werden (von Ausnahmefällen abgesehen) nicht ständig für den Gebrauch in einem Betrieb benötigt, wenn sie am jeweiligen Ort jeweils nur anlass- beziehungsweise auftragsbezogen für einen Tag oder einzelne Tage angemietet werden. Ein solcher Fall entspricht der gelegentlichen Anmietung eines Hotelzimmers oder einer Ferienwohnung zum Beispiel bei dem Besuch einer Fortbildungsveranstaltung oder Fachmesse (BTDrucks 16/4841, S. 80).
+
+25 (5) Der Senat folgt nicht der Auffassung der Klägerin, dass Hotelzimmermieten im Hinblick auf eine Selbstbindung der Verwaltung in Rdnr. 29b der gleich lautenden Ländererlasse vom 06.04.2022 (hier Sächsisches Staatsministerium der Finanzen, 06.04.2022, BStBl I 2022, 638) generell nicht hinzugerechnet werden dürfen. Denn an norminterpretierende Verwaltungsanweisungen sind im Allgemeinen weder das FG noch der BFH gebunden (vgl. BFH-Urteil vom 24.10.2024 - VI R 7/22, BFHE 286, 441, BStBl II 2025, 354, Rz 21). Etwas anderes lässt sich auch nicht aus dem BFH-Beschluss vom 11.05.2007 - IV B 28/06, unter 1., ableiten, auf den sich die Klägerin bezieht. Hiernach können norminterpretierende Verwaltungsanweisungen, die die gleichmäßige Auslegung und Anwendung des Rechts sichern sollen, im Allgemeinen weder eine einer Rechtsnorm vergleichbare Bindung aller Rechtsanwender noch eine Bindung nach dem Grundsatz von Treu und Glauben herbeiführen. Eine von den Gerichten zu beachtende Selbstbindung der Verwaltung besteht lediglich ausnahmsweise in dem Bereich der ihr vom Gesetz eingeräumten Entscheidungsfreiheit, also im Bereich des Ermessens, der Billigkeit (zum Beispiel bei Änderung der Rechtsprechung) und der Typisierung oder Pauschalierung. Eine solche Ausnahme ist bei der Auslegung des § 8 Nr. 1 Buchst. e GewStG jedoch nicht einschlägig.
+
+26 b) Im Rahmen des in § 8 Nr. 1 Buchst. e GewStG enthaltenen Tatbestandsmerkmals "Miet- und Pachtzinsen" ist die Frage zu prüfen, welchen Einfluss mit der Vermietung von Zimmern in Pensionen oder Hotels verbundene weitere Leistungen (zum Beispiel Zimmerreinigung, Bettenmachen, Frühstück) auf die rechtliche Einordnung des Vertrages haben. Insoweit kommt es darauf an, ob es sich um untergeordnete Nebenleistungen oder um trennbare oder nicht trennbare Hauptleistungspflichten handelt (s. dazu z.B. Senatsurteil vom 16.09.2024 - III R 36/22, BFHE 286, 446, BStBl II 2025, 88, Rz 23 ff., m.w.N.).
+
+27 c) Die finanzrichterliche Überzeugungsbildung ist revisionsrechtlich nur eingeschränkt auf Verstöße gegen Denkgesetze und allgemeine Erfahrungssätze überprüfbar (vgl. z.B. BFH-Urteil vom 25.10.2016 - I R 57/15, BFHE 255, 280, BStBl II 2022, 273, Rz 15). Die aus dem Gesamtergebnis des Verfahrens zu gewinnende Überzeugung des FG ist jedoch nur dann ausreichend und für das Revisionsgericht bindend (§ 118 Abs. 2 FGO), wenn sie auf einer logischen, verstandesmäßig einsichtigen Würdigung zutreffender Kriterien beruht, deren nachvollziehbare Folgerungen den Denkgesetzen entsprechen und von den festgestellten Tatsachen getragen werden. Enthält das Urteil keine tragfähige Tatsachengrundlage für die Folgerungen in der tatrichterlichen Entscheidung oder fehlt die nachvollziehbare Ableitung dieser Folgerungen aus den festgestellten Tatsachen und Umständen, so liegt ein Verstoß gegen die Denkgesetze vor (vgl. Senatsurteil vom 14.04.2021 - III R 50/20, BFHE 273, 385, BStBl II 2021, 866, Rz 15, m.w.N.), der als Fehler der Rechtsanwendung ohne besondere Rüge beanstandet werden kann (Senatsurteil vom 16.01.2025 - III R 34/22, BFHE 287, 81, BStBl II 2025, 386, Rz 23).
+
+28 2. Bei Zugrundelegung dieser Rechtsgrundsätze kann die Vorentscheidung keinen Bestand haben. Das FG ist von unzutreffenden Rechtsgrundsätzen ausgegangen.
+
+29 a) Das FG hat zu Unrecht angenommen, dass eine fiktive Zurechnung zum Anlagevermögen der Klägerin schon deshalb ausscheidet, weil man Arbeiten an Entwässerungsanlagen auch ohne Unterbringung der Mitarbeiter in Mitarbeiterunterkünften durchführen kann und die auswärtige Unterbringung die Ausübung der Tätigkeit nur indirekt beziehungsweise mittelbar, durch eine Verkürzung der Anfahrtswege, fördert.
+
+30 Die Zuordnung zum (fiktiven) Anlagevermögen orientiert sich --wie ausgeführt-- maßgeblich an den tatsächlichen betrieblichen Verhältnissen, auch wenn diese nicht zwingend so gestaltet werden müssten. Es genügt, dass die Wirtschaftsgüter tatsächlich entsprechend eingesetzt werden und (erkennbar) objektiv und subjektiv dazu bestimmt sind, dauernd dem Geschäftsbetrieb zu dienen (vgl. § 247 Abs. 2 HGB); sie müssen ihm nicht direkt oder unmittelbar dienen und nicht zwingend erforderlich sein.
+
+31 Wenn der Steuerpflichtige die Wirtschaftsgüter ständig in seinem Betrieb beziehungsweise zu betrieblichen Zwecken gebraucht, weil ihm dies wirtschaftlich vernünftig erscheint, kann sich die wiederholte kurzzeitige Anmietung des nämlichen Wirtschaftsguts oder vergleichbarer Wirtschaftsgüter als Surrogat einer Entscheidung zur langfristigen Anmietung (langfristigen Nutzung) darstellen mit der Folge, dass eine Zuordnung zum fiktiven Anlagevermögen in Betracht kommt. Insoweit können auch dauernd für betriebliche Zwecke genutzte Mitarbeiterunterkünfte zum fiktiven Anlagevermögen gehören, die (nur) dazu dienen, die Fahrtzeiten zu einem über eine längere Zeit regelmäßig aufgesuchten auswärtigen Einsatzort zu verringern, auch wenn sie für die eigentliche Tätigkeit --hier Arbeiten an Entwässerungsanlagen-- weder unmittelbar noch zwingend erforderlich sind.
+
+32 Ausreichende Feststellungen zu der entscheidenden Frage, ob der Geschäftszweck in der Form, wie das konkrete Unternehmen tätig ist, das dauerhafte Vorhandensein solcher Wirtschaftsgüter voraussetzt (vgl. z.B. Senatsurteil vom 16.09.2024 - III R 36/22, BFHE 286, 446, BStBl II 2025, 88, Rz 15 f.), hat das FG jedoch nicht getroffen. Denkbar wäre, dass ein Vertrag über regelmäßig durchzuführende, jeweils einen längeren Aufenthalt am auswärtigen Einsatzort notwendig machende Arbeiten an Entwässerungsanlagen in Verbindung mit der regelmäßigen, eine nennenswerte Zahl von Tagen betreffenden Anmietung von Mitarbeiterunterkünften im Einzugsbereich des Einsatzortes belegt, dass nach den betrieblichen Verhältnissen dort dauerhaft Mitarbeiterunterkünfte benötigt werden.
+
+33 b) Soweit das FG ausgeführt hat, dass eine Hinzurechnung nicht in Betracht komme, weil es nicht wirtschaftlich sinnvoll gewesen wäre, an den Orten der jeweiligen Auftraggeber ständig Hotelzimmer oder Ferienwohnungen vorzuhalten, sind die vom FG in diesem Zusammenhang getroffenen Feststellungen zu den Betriebsabläufen nicht ausreichend, um diese Frage beurteilen zu können (vgl. z.B. Senatsurteil vom 01.06.2022 - III R 56/20, BFHE 277, 397, BStBl II 2023, 875, Rz 40). Es fehlt insbesondere an Feststellungen, dass die konkreten Anmietungen jeweils nur auftragsbezogen für kurze Zeit erfolgten und dass die Unterkünfte nicht austauschbar waren.
+
+34 3. Das angefochtene Urteil erweist sich auch nicht aus anderen Gründen im Sinne des § 126 Abs. 4 FGO als richtig; eine Entscheidung in der Sache ist mangels Feststellung der konkreten betrieblichen Verhältnisse der Klägerin durch das FG nicht möglich. Das Urteil enthält keine tragfähige Tatsachengrundlage für die tatrichterliche Folgerung, dass die Klägerin die von ihr angemieteten Mitarbeiterunterkünfte nicht ständig für den Gebrauch in ihrem Betrieb hätte vorhalten müssen.
+
+35 4. Im zweiten Rechtsgang wird das FG die erforderlichen Feststellungen nachholen, namentlich die speziellen betrieblichen Verhältnisse der Klägerin feststellen und im Lichte der hier dargestellten Rechtsgrundsätze würdigen müssen.
+
+36 Auf die Zahl der überregional eingesetzten Mitarbeiter oder die Relation ihrer Anzahl zur Gesamtzahl der Beschäftigten kommt es entgegen der Auffassung der Klägerin nicht an. Wie ausgeführt ist (fiktives) Anlagevermögen nicht nur dann anzunehmen, wenn ein Wirtschaftsgut dem Kerngeschäft eines Unternehmens dient. Es genügt, dass es (erkennbar) objektiv und subjektiv dazu bestimmt ist, dauernd dem Geschäftsbetrieb zu dienen (vgl. § 247 Abs. 2 HGB); es muss ihm nicht direkt oder unmittelbar dienen und nicht zwingend erforderlich sein.
+
+37 Sofern das FG danach hinsichtlich einzelner Unterkünfte die Anlagevermögenseigenschaft bejaht, bedürfte es zudem auch einer rechtlichen Einordnung der aufgrund der geschlossenen Verträge zu entrichtenden Entgelte in Bezug auf das Tatbestandsmerkmal "Miet- und Pachtzinsen".
+
+38 5. Die Übertragung der Kostenentscheidung auf das FG folgt aus § 143 Abs. 2 FGO.
