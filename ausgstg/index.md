@@ -14,4 +14,5 @@
 - [§ 12 Berichterstattung](0012.md)
 - [§ 13 Strafvorschriften](0013.md)
 - [§ 14 Bußgeldvorschriften](0014.md)
-- [§ 15 Verordnungsermächtigung](0015.md)
+- [§ 15 Einziehung](0015.md)
+- [§ 16 Verordnungsermächtigung](0016.md)

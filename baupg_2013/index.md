@@ -1,11 +1,25 @@
-# Gesetz zur Durchführung der Verordnung (EU) Nr. 305/2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Umsetzung und Durchführung anderer Rechtsakte der Europäischen Union in Bezug auf Bauprodukte
+# Gesetz zur Durchführung der Verordnungen (EU) Nr. 305/2011 und (EU) 2024/3110 zur Festlegung harmonisierter Vorschriften für die Vermarktung von Bauprodukten
 
-- [§ 1 Technische Bewertungsstelle](0001.md)
-- [§ 2 Widerruf der Benennung als Technische Bewertungsstelle](0002.md)
-- [§ 3 Notifizierende Behörde und notifizierte Stellen](0003.md)
-- [§ 4 Antrag auf Notifizierung](0004.md)
-- [§ 5 (weggefallen)](0005.md)
-- [§ 6 Sprache](0006.md)
-- [§ 7 Rechtsverordnungen zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union](0007.md)
-- [§ 8 Bußgeldvorschriften](0008.md)
-- [§ 9 Strafvorschriften](0009.md)
+
+## Abschnitt 1 Durchführungsbestimmungen zur Verordnung (EU) Nr. 305/2011
+
+- [§ 1 Notifizierende Behörde nach der Verordnung (EU) Nr. 305/2011](0001.md)
+- [§ 2 Antrag auf Notifizierung nach der Verordnung (EU) Nr. 305/2011](0002.md)
+
+## Abschnitt 2 Durchführungsbestimmungen zur Verordnung (EU) 2024/3110
+
+- [§ 3 Benennende Behörde](0003.md)
+- [§ 4 Technische Bewertungsstelle](0004.md)
+- [§ 5 Notifizierende Behörde nach der Verordnung (EU) 2024/3110](0005.md)
+- [§ 6 Antrag auf Notifizierung nach der Verordnung (EU) 2024/3110](0006.md)
+
+## Abschnitt 3 Abschnitt 3 Allgemeine Vorschriften
+
+- [§ 7 Zuständigkeit der Marktüberwachungsbehörden](0007.md)
+- [§ 8 Sprache](0008.md)
+- [§ 9 Verordnungsermächtigungen](0009.md)
+
+## Abschnitt 4 Bußgeld- und Strafvorschriften
+
+- [§ 10 Bußgeldvorschriften](0010.md)
+- [§ 11 Strafvorschriften](0011.md)

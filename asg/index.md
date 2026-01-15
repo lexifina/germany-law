@@ -79,7 +79,13 @@ Bereithaltungsbescheid
 
 - [§ 31 Zumutung von Gefahren](0031.md)
 
-## Sechster Abschnitt Schlußvorschriften
+## Sechster Abschnitt Datenverarbeitung
+
+- [§ 31a Datenübermittlung von den Meldebehörden](0031a.md)
+- [§ 31b Datenübermittlung durch die Jobcenter; Verordnungsermächtigung](0031b.md)
+- [§ 31c Zweck der Verarbeitung und Löschung der Daten](0031c.md)
+
+## Siebter Abschnitt Schlussvorschriften
 
 - [§ 32 Verletzung von Sicherstellungsvorschriften](0032.md)
 - [§ 33](0033.md)

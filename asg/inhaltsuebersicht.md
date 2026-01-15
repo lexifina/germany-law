@@ -54,7 +54,12 @@
 |  |  |  | Sonderregelungen |  |
 |  |  |  | Zumutung von Gefahren | § 31 |
 | Sechster Abschnitt: |  |
-|  | Schlußvorschriften |  |
+|  | Datenverarbeitung |  |
+|  |  |  | Datenübermittlung von den Meldebehörden | § 31a |
+|  |  |  | Datenübermittlung durch die Jobcenter; Verordnungsermächtigung | § 31b |
+|  |  |  | Zweck der Verarbeitung und Löschung der Daten | § 31c |
+| Siebter Abschnitt: |  |
+|  | Schlussvorschriften |  |
 |  |  |  | Verletzung von Sicherstellungsvorschriften | § 32 |
 |  |  |  | (weggefallen) | § 33 |
 |  |  |  | Koordinierung und Bedarfsdeckung | § 34 |
