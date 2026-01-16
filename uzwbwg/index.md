@@ -1,4 +1,4 @@
-# Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile Wachpersonen
+# Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldatinnen und Soldaten der Bundeswehr und verbündeter Streitkräfte sowie durch zivile Wachpersonen
 
 - [Eingangsformel](eingangsformel.md)
 
@@ -12,11 +12,13 @@
 vorläufige Festnahme, Durchsuchung, Beschlagnahme und
 Voraussetzungen des unmittelbaren Zwanges
 
-- [§ 4 Anhalten und Personenüberprüfung](0004.md)
+- [§ 4 Anhalten und Überprüfen von Personen im militärischen Sicherheitsbereich](0004.md)
 - [§ 5 Weitere Personenüberprüfung](0005.md)
 - [§ 6 Vorläufige Festnahme](0006.md)
 - [§ 7 Durchsuchung und Beschlagnahme bei Personenüberprüfung](0007.md)
 - [§ 8 Allgemeine Anordnung von Durchsuchungen](0008.md)
+- [§ 8a Identitätsfeststellung außerhalb eines militärischen Sicherheitsbereiches](0008a.md)
+- [§ 8b Durchsuchung zum Eigenschutz](0008b.md)
 - [§ 9 Voraussetzungen des unmittelbaren Zwanges](0009.md)
 
 ## 3. Abschnitt Anwendung des unmittelbaren Zwanges
@@ -35,4 +37,5 @@ Voraussetzungen des unmittelbaren Zwanges
 
 - [§ 19 Einschränkung von Grundrechten](0019.md)
 - [§ 20 Entschädigung bei Sperrung sonstiger Örtlichkeiten](0020.md)
+- [§ 20a Datenverarbeitung und Datenübermittlung](0020a.md)
 - [§ 21 Inkrafttreten](0021.md)
