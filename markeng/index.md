@@ -7,9 +7,7 @@
 - [§ 1 Geschützte Marken und sonstige Kennzeichen](0001.md)
 - [§ 2 Anwendung anderer Vorschriften](0002.md)
 
-## Teil 2 Voraussetzungen, Inhalt und Schranken des Schutzes
-von Marken und geschäftlichen Bezeichnungen, Übertragung
-und Lizenz
+## Teil 2 Voraussetzungen; Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; weitere Zeichen; Übertragung und Lizenz
 
 
 ### Abschnitt 1 Marken und geschäftliche Bezeichnungen, Vorrang
@@ -19,6 +17,10 @@ und Zeitrang
 - [§ 4 Entstehung des Markenschutzes](0004.md)
 - [§ 5 Geschäftliche Bezeichnungen](0005.md)
 - [§ 6 Vorrang und Zeitrang](0006.md)
+
+### Abschnitt 1a Wappen, Flaggen, Hoheitszeichen, amtliche Prüf- und Gewährzeichen, Kennzeichen, Siegel und Bezeichnungen internationaler zwischenstaatlicher Organisationen
+
+- [§ 6a Verbot des Gebrauchs](0006a.md)
 
 ### Abschnitt 2 Voraussetzungen für den Schutz von Marken durch
 Eintragung
@@ -167,9 +169,8 @@ Anmeldung](0039.md)
 
 - [§ 97 Kollektivmarken](0097.md)
 - [§ 98 Inhaberschaft](0098.md)
-- [§ 99 Eintragbarkeit von geographischen Herkunftsangaben
-als Kollektivmarken](0099.md)
-- [§ 100 Schranken des Schutzes, Benutzung](0100.md)
+- [§ 99 Geografische Herkunftsangaben als Kollektivmarken](0099.md)
+- [§ 100 Benutzung](0100.md)
 - [§ 101 Klagebefugnis, Schadensersatz](0101.md)
 - [§ 102 Kollektivmarkensatzung](0102.md)
 - [§ 103 Prüfung der Anmeldung](0103.md)
@@ -228,21 +229,28 @@ Angaben oder Zeichen](0126.md)
 - [§ 128 Ansprüche wegen Verletzung](0128.md)
 - [§ 129 Verjährung](0129.md)
 
-### Abschnitt 2 Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143
+### Abschnitt 2 Schutz von geografischen Angaben gemäß der Verordnung (EU) 2023/2411
 
+- [§ 129a Geltungsbereich](0129a.md)
 - [§ 130 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren](0130.md)
-- [§ 131 Zwischenstaatliches Einspruchsverfahren](0131.md)
-- [§ 132 Antrag auf Änderung der Spezifikation, Löschungsverfahren](0132.md)
+- [§ 131 Unionsphase](0131.md)
+- [§ 132 Antrag auf Änderung der Produktspezifikation; Löschungsverfahren](0132.md)
+- [§ 132a Internationale Registrierung](0132a.md)
 - [§ 133 Rechtsmittel](0133.md)
-- [§ 134 Überwachung](0134.md)
+- [§ 134 Kontrolle](0134.md)
+- [§ 134a Datenverarbeitung im Zusammenhang mit Kontrollen](0134a.md)
+- [§ 134b Amtshilfe für Behörden anderer Mitgliedstaaten](0134b.md)
 - [§ 135 Ansprüche wegen Verletzung](0135.md)
 - [§ 136 Verjährung](0136.md)
 
-### Abschnitt 3 Ermächtigungen zum Erlaß von Rechtsverordnungen
+### Abschnitt 3 Schutz von geografischen Angaben für handwerkliche und industrielle Erzeugnisse auf der Grundlage internationaler Übereinkünfte
 
-- [§ 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben](0137.md)
-- [§ 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143](0138.md)
-- [§ 139 Durchführungsbestimmungen zur Verordnung (EU) 2024/1143; Verordnungsermächtigung](0139.md)
+- [§ 137 Schutzumfang, Kontrolle und Durchsetzung](0137.md)
+
+### Abschnitt 4 Ermächtigungen zum Erlass von Rechtsverordnungen
+
+- [§ 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2023/2411; Verordnungsermächtigung](0138.md)
+- [§ 139 Durchführungsbestimmungen zur Verordnung (EU) 2023/2411; Verordnungsermächtigung](0139.md)
 
 ## Teil 8 Verfahren in Kennzeichenstreitsachen
 
@@ -257,9 +265,9 @@ und dem Gesetz gegen den unlauteren Wettbewerb](0141.md)
 ### Abschnitt 1 Straf- und Bußgeldvorschriften
 
 - [§ 143 Strafbare Kennzeichenverletzung](0143.md)
-- [§ 143a Strafbare Verletzung der Unionsmarke](0143a.md)
-- [§ 144 Strafbare Benutzung geographischer Herkunftsangaben](0144.md)
+- [§ 144 Strafbare Verletzung der Unionsmarke](0144.md)
 - [§ 145 Bußgeldvorschriften](0145.md)
+- [§ 145a Beseitigung von Kennzeichnungen und Vernichtung von Gegenständen im Bußgeldverfahren](0145a.md)
 
 ### Abschnitt 2 Beschlagnahme von Waren bei der Einfuhr und Ausfuhr
 

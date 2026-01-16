@@ -5,6 +5,7 @@
 ## Teil 1 Allgemeine Vorschrift
 
 - [§ 1 Anordnung als Bundesstatistik](0001.md)
+- [§ 1a Begriffsbestimmung](0001a.md)
 
 ## Teil 2 Agrarstatistiken
 
@@ -22,11 +23,12 @@
 - [§ 4 Erhebungsart, Periodizität, Berichtszeitpunkt, Erhebungsmerkmale](0004.md)
 - [§ 5 (weggefallen)](0005.md)
 
-#### Unterabschnitt 3 Bodennutzungshaupterhebung
+#### Unterabschnitt 3 Erhebung der Bodennutzung landwirtschaftlicher Betriebe
 
 - [§ 6 Erhebungseinheiten](0006.md)
 - [§ 7 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale](0007.md)
 - [§ 8 Erhebungsmerkmale und Berichtszeit](0008.md)
+- [§ 8a Nutzung von Verwaltungsdaten](0008a.md)
 
 #### Unterabschnitt 4 Zierpflanzenerhebung
 

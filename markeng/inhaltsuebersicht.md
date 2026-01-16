@@ -5,13 +5,16 @@
 | § 1 | Geschützte Marken und sonstige Kennzeichen |
 | § 2 | Anwendung anderer Vorschriften |
 | Teil 2 |
-|  | Voraussetzungen, Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; Übertragung und Lizenz |
+|  | Voraussetzungen; Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; weitere Zeichen; Übertragung und Lizenz |
 |  |  | Abschnitt 1 |
 |  |  |  | Marken und geschäftliche Bezeichnungen; Vorrang und Zeitrang |
 | § 3 | Als Marke schutzfähige Zeichen |
 | § 4 | Entstehung des Markenschutzes |
 | § 5 | Geschäftliche Bezeichnungen |
 | § 6 | Vorrang und Zeitrang |
+|  |  | Abschnitt 1a |
+|  |  |  | Wappen, Flaggen, Hoheitszeichen, amtliche Prüf- und Gewährzeichen, Kennzeichen, Siegel und Bezeichnungen internationaler zwischenstaatlicher Organisationen |
+| § 6a | Verbot des Gebrauchs |
 |  |  | Abschnitt 2 |
 |  |  |  | Voraussetzungen für den Schutz von Marken durch Eintragung |
 | § 7 | Inhaberschaft |
@@ -144,8 +147,8 @@
 |  | Kollektivmarken |
 | § 97 | Kollektivmarken |
 | § 98 | Inhaberschaft |
-| § 99 | Eintragbarkeit von geographischen Herkunftsangaben als Kollektivmarken |
-| § 100 | Schranken des Schutzes; Benutzung |
+| § 99 | Geografische Herkunftsangaben als Kollektivmarken |
+| § 100 | Benutzung |
 | § 101 | Klagebefugnis; Schadensersatz |
 | § 102 | Kollektivmarkensatzung |
 | § 103 | Prüfung der Anmeldung |
@@ -197,19 +200,25 @@
 | § 128 | Ansprüche wegen Verletzung |
 | § 129 | Verjährung |
 |  |  | Abschnitt 2 |
-|  |  |  | Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143 |
+|  |  |  | Schutz von geografischen Angaben gemäß der Verordnung (EU) 2023/2411 |
+| § 129a | Geltungsbereich |
 | § 130 | Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren |
-| § 131 | Zwischenstaatliches Einspruchsverfahren |
-| § 132 | Antrag auf Änderung der Spezifikation, Löschungsverfahren |
+| § 131 | Unionsphase |
+| § 132 | Antrag auf Änderung der Produktspezifikation, Löschungsverfahren |
+| § 132a | Internationale Registrierung |
 | § 133 | Rechtsmittel |
-| § 134 | Überwachung |
+| § 134 | Kontrolle |
+| § 134a | Datenverarbeitung im Zusammenhang mit Kontrollen |
+| § 134b | Amtshilfe für Behörden anderer Mitgliedstaaten |
 | § 135 | Ansprüche wegen Verletzung |
 | § 136 | Verjährung |
 |  |  | Abschnitt 3 |
-|  |  |  | Ermächtigungen zum Erlaß von Rechtsverordnungen |
-| § 137 | Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben |
-| § 138 | Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143 |
-| § 139 | Durchführungsbestimmungen zur Verordnung (EU) 2024/1143 |
+|  |  |  | Schutz von geografischen Angaben für handwerkliche und industrielle Erzeugnisse auf der Grundlage internationaler Übereinkünfte |
+| § 137 | Schutzumfang, Kontrolle und Durchsetzung |
+|  |  | Abschnitt 4 |
+|  |  |  | Ermächtigungen zum Erlass von Rechtsverordnungen |
+| § 138 | Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2023/2411; Verordnungsermächtigung |
+| § 139 | Durchführungsbestimmungen zur Verordnung (EU) 2023/2411; Verordnungsermächtigung |
 | Teil 8 |
 |  | Verfahren in Kennzeichenstreitsachen |
 | § 140 | Kennzeichenstreitsachen |
@@ -220,9 +229,9 @@
 |  |  | Abschnitt 1 |
 |  |  |  | Straf- und Bußgeldvorschriften |
 | § 143 | Strafbare Kennzeichenverletzung |
-| § 143a | Strafbare Verletzung der Unionsmarke |
-| § 144 | Strafbare Benutzung geographischer Herkunftsangaben |
+| § 144 | Strafbare Verletzung der Unionsmarke |
 | § 145 | Bußgeldvorschriften |
+| § 145a | Beseitigung von Kennzeichnungen und Vernichtung von Gegenständen im Bußgeldverfahren |
 |  |  | Abschnitt 2 |
 |  |  |  | Beschlagnahme von Waren bei der Einfuhr und Ausfuhr |
 | § 146 | Beschlagnahme bei der Verletzung von Kennzeichenrechten |

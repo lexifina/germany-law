@@ -88,7 +88,7 @@
 | § 48 | Veröffentlichung des Antrags |
 | § 49 | Nationaler Einspruch |
 |  |  | Abschnitt 2 |
-|  |  |  | Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes |
+|  |  |  | Zwischenstaatliches Einspruchsverfahren |
 | § 50 | Einspruch |
 | § 51 | Einspruchsverfahren |
 |  |  | Abschnitt 3 |

@@ -107,7 +107,7 @@ und Eintragungen
 - [§ 48 Veröffentlichung des Antrags](0048.md)
 - [§ 49 Nationaler Einspruch](0049.md)
 
-### Abschnitt 2 Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes
+### Abschnitt 2 Zwischenstaatliches Einspruchsverfahren
 
 - [§ 50 Einspruch](0050.md)
 - [§ 51 Einspruchsverfahren](0051.md)
@@ -123,5 +123,5 @@ und Eintragungen
 
 - [§ 56 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung](0056.md)
 - [§ 57 Übergangsregelung für künftige Änderungen](0057.md)
-- [§ 57a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143](0057a.md)
+- [§ 57a (weggefallen)](0057a.md)
 - [§ 58 Inkrafttreten, Außerkrafttreten](0058.md)
