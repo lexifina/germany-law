@@ -48,11 +48,11 @@
 |  |
 | 5.AbschnittGeografische Bezeichnungen und Kennzeichnung |
 | § 22b | Schutz geografischer Bezeichnungen |
-| § 22c | Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) Nr. 1308/2013 |
+| § 22c | Finanzielle Beiträge an anerkannte Erzeugervereinigungen; Verordnungsermächtigung |
 | § 22d | Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe |
-| § 22e | Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014 |
-| § 22f | Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe |
-| § 22g | Organisationen zur Verwaltung herkunftsgeschützter Weinnamen |
+| § 22e | (weggefallen) |
+| § 22f | (weggefallen) |
+| § 22g | (weggefallen) |
 | § 23 | Angabe kleinerer und größerer geografischer Einheiten |
 | § 23a | (weggefallen) |
 | § 24 | Bezeichnungen und sonstige Angaben |

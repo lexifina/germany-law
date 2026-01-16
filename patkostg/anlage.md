@@ -214,9 +214,9 @@
 | 6. Geographische Angaben und Ursprungsbezeichnungen |
 | 336 100 | Eintragungsverfahren (§ 130 MarkenG) . . . . . . . . . . | 900 |
 | 336 150 | Nationales Einspruchsverfahren (§ 130 Abs. 4 MarkenG) . . . . . . . . . . | 120 |
-| 336 200 | Zwischenstaatliches Einspruchsverfahren (§ 131 MarkenG) . . . . . . . . . . | 120 |
-| 336 250 | Antrag auf Änderung der Spezifikation (§ 132 Abs. 1 MarkenG) . . . . . . . . . . | 200 |
-| 336 300 | Löschungsverfahren (§ 132 Abs. 2 MarkenG) . . . . . . . . . . | 120 |
+| 336 200 | (weggefallen) |  |
+| 336 250 | Antrag auf Änderung der Produktspezifikation (§ 132 Abs. 1 und 2 MarkenG) . . . . . . . . . . | 200 |
+| 336 300 | Löschungsverfahren (§ 132 Abs. 3 MarkenG) . . . . . . . . . . | 120 |
 | IV. Designsachen |
 | 1. Anmeldeverfahren |
 | Ein Satz typografischer Schriftzeichen gilt als ein Design. |
@@ -283,13 +283,6 @@
 | 2. Sonstige Anträge |
 | 362 000 | Weiterbehandlungsgebühr (§ 11 Absatz 1 HalblSchG i.V.m. § 123a PatG) . . . . . . . . . . | 100 |
 | 362 100 | Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . . | 300 |
-| VI. Topographieschutzsachen |
-| 1. Anmeldeverfahren |
-|  | Anmeldeverfahren (§ 3 HalblSchG) |  |
-| 361 000 | – bei elektronischer Anmeldung . . . . . . . . . . | 290 |
-| 361 100 | – bei Anmeldung in Papierform . . . . . . . . . . | 300 |
-| 2. Sonstige Anträge |
-| 362 000362 100 | Weiterbehandlungsgebühr (§ 11 Abs. 1 HalblSchG i.V.m. § 123a PatG) . . . . . . . . . .Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . . | 100300 |
 | Nr. | Gebührentatbestand | Gebühren-betrag/Gebühren-satz nach§ 2 Abs. 2i.V.m § 2 Abs. 1 |
 | B. Gebühren des Bundespatentgerichts |
 | (1) Die Gebühren Nummer 400 000 bis 401 300 werden für jeden Antragsteller gesondert erhoben. Gemeinschaftliche Inhaber oder Anmelder eines betroffenen Schutzrechts gelten als ein Antragsteller, wenn sie in den in Satz 1 genannten Fällen gemeinsam Beschwerde einlegen. |
