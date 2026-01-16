@@ -42,8 +42,8 @@
 ## Abschnitt 6 Straf- und Bußgeldvorschriften
 
 - [§ 17 Mitteilungsverbote](0017.md)
-- [§ 18 Straftaten](0018.md)
-- [§ 19 Ordnungswidrigkeiten](0019.md)
+- [§ 18 Strafvorschriften](0018.md)
+- [§ 19 Bußgeldvorschriften](0019.md)
 
 ## Abschnitt 7 Schlussvorschriften
 

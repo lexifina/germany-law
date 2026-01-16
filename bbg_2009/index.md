@@ -41,7 +41,7 @@
 
 ## Abschnitt 4 Abordnung, Versetzung und Zuweisung
 
-- [§ 27 Abordnung](0027.md)
+- [§ 27 Abordnung; Verordnungsermächtigungen](0027.md)
 - [§ 28 Versetzung](0028.md)
 - [§ 29 Zuweisung](0029.md)
 
@@ -114,6 +114,7 @@
 - [§ 78a Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen](0078a.md)
 - [§ 79 Mutterschutz, Elternzeit und Jugendarbeitsschutz](0079.md)
 - [§ 80 Beihilfe in Krankheits-, Pflege- und Geburtsfällen](0080.md)
+- [§ 80a Beihilferechtliche Verfahrenserleichterungen](0080a.md)
 - [§ 81 Reisekosten](0081.md)
 - [§ 82 Umzugskosten](0082.md)
 - [§ 83 Trennungsgeld](0083.md)
