@@ -50,11 +50,7 @@
 | § 22b | Schutz geografischer Bezeichnungen |
 | § 22c | Finanzielle Beiträge an anerkannte Erzeugervereinigungen; Verordnungsermächtigung |
 | § 22d | Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe |
-| § 22e | (weggefallen) |
-| § 22f | (weggefallen) |
-| § 22g | (weggefallen) |
 | § 23 | Angabe kleinerer und größerer geografischer Einheiten |
-| § 23a | (weggefallen) |
 | § 24 | Bezeichnungen und sonstige Angaben |
 | § 24a | Besondere Bezeichnungen für Qualitätsschaumwein |
 | § 25 | Verbote zum Schutz vor Täuschung |
