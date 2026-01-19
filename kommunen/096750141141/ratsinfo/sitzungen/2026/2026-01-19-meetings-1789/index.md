@@ -1,0 +1,61 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2026-01-19T17:00:00+01:00
+- Ende: 2026-01-19T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1789
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1789
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00069080.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00069302.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorinformation zum Haushaltsentwurf
+- TOP 2: Verwaltungshaushalt
+- TOP 2.1: Beratung des Verwaltungshaushaltes 2026 mit Finanzplanung 2025 – 2029
+- TOP 2.1.1: Einzelplan 0
+- TOP 2.1.2: Einzelplan 1
+- TOP 2.1.3: Einzelplan 2
+- TOP 2.1.3.1: Unterabschnitt 2111, Grundschule St. Hedwig - Wortmeldung Stadträtin Schwab
+- TOP 2.1.3.2: Fragen Bd. 90 / Die Grünen - Unterabschnitt 2112, Grundschule Siedlung
+- TOP 2.1.3.3: Strom- und Heizkosten für die Schulen - Wortmeldung Stadträtin Büttner
+- TOP 2.1.4: Einzelplan 3
+- TOP 2.1.5: Einzelplan 4
+- TOP 2.1.6: Einzelplan 5
+- TOP 2.1.7: Einzelplan 6
+- TOP 2.1.8: Einzelplan 7
+- TOP 2.1.8.1: Unterabschnitt 7900, E-Carsharing
+- TOP 2.1.8.2: Unterabschnitt 7920, Anrufsammeltaxi
+- TOP 2.1.9: Einzelplan 8
+- TOP 2.1.9.1: Haushaltsstelle 8551.6450 - Wortmeldung Stadträtin Schwab
+- TOP 2.1.10: Einzelplan 9
+- TOP 2.1.10.1: Aufschlüsselung der Gewerbesteuereinnahmen
+- TOP 2.2: Budgetfestlegungen für das Haushaltsjahr 2026 - beschlossen
+- TOP 2.2.1: Budget Alte Synagoge, Einzelplan 3, Unterabschnitt 3420
+- TOP 2.2.2: Budget Volkshochschule, Einzelplan 3, Unterabschnitt 3501
+- TOP 3: Vermögenshaushalt
+- TOP 3.1: Beratung des Vermögenshaushaltes 2026 mit Finanzplanung 2025 – 2029
+- TOP 3.1.1: Einzelplan 0
+- TOP 3.1.2: Einzelplan 1
+- TOP 3.1.3: Einzelplan 2
+- TOP 3.1.3.1: Haushaltsstelle 2113.9490, Schulentwicklungsplanung
+- TOP 3.1.3.2: Unterabschnitt 2431, Friedrich-Bernbeck-Schule
+- TOP 3.1.4: Einzelplan 3
+- TOP 3.1.5: Einzelplan 4
+- TOP 3.1.5.1: Unterabschnitt 4641, Stiftungskindergarten Schreibersgasse
+- TOP 3.1.6: Einzelplan 6
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2026 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2025 – 2029
+- TOP 4.1: Gemeinsame Fragen des Bündnis/90 Die Grünen zum Haushalt 2026 vom 11.01.2026 - Ohne Abstimmung
+- TOP 4.2: Gemeinsame Fragen der Fraktionen zum Haushalt 2026 vom 09.01.2026 - Ohne Abstimmung
+- TOP 4.3: Anträge und Fragen der SPD zum Haushalt 2026
+- TOP 4.3.1: Haushaltsstelle 1.6303.9503 – 9505 Tiefbaumaßnahme 3. bis 5. BA zum Ausbau des Bahnhofsumfeldes - abgelehnt
+- TOP 4.3.2: Haushaltsstelle 1.6406.9560 / 9561 - Planungskosten / Baukosten – Umgestaltung Kaiserstraße / Königsplatz - beschlossen
+- TOP 4.4: Antrag der Stadträtin Büttner zum Haushalt 2026 - abgelehnt
+- TOP 4.5: Eilanträg der SPD vom 19.01.2026 zum Vermögenshaushalt
+- TOP 4.5.1: Eilantrag zum Hochwasserschutz - Haushaltsstelle 1.1400.9501 - abgelehnt
+- TOP 4.5.2: Eilantrag zur Alten Mainbrücke - Haushaltsstelle 1.6482.9590 - abgesetzt
+- TOP 4.5.3: Verschiebung der Mittel für die Neugestaltung Sickergrund unter 1.5931.9582 und 1.5931.9590 in den Finanzplanungsrest - abgelehnt
