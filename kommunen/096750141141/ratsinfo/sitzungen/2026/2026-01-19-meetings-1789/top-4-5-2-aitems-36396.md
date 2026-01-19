@@ -1,0 +1,7 @@
+# TOP 4.5.2: Eilantrag zur Alten Mainbrücke - Haushaltsstelle 1.6482.9590
+
+- Sitzung: Sitzung des Stadtrates - Haushaltsberatungen (2026-01-19)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/36396
+- Ergebnis: abgesetzt
