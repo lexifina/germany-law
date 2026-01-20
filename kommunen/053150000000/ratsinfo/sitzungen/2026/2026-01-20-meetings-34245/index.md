@@ -1,0 +1,54 @@
+# 2. Sitzung des Mobilitätsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-20T16:00:00+01:00
+- Ende: 2026-01-20T17:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34245
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34245
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Radpendlerroute statt Radschnellweg Köln-Frechen - vertagt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Ausschusses für Chancengleichheit und Integration
+- TOP 2.1: Anregung der Bezirksvertretung Porz zu "Ortsteilbeschilderung an Leinpfad und Fußwegen im Rahmen der Gleichberechtigung des Verkehrs" - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Mobilitätsausschuss)
+- TOP 3.1: Bedarfsfeststellungsbeschluss: Verkehrsuntersuchung zur Verträglichkeit einer geänderten Radverkehrsführung auf der Mülheimer Brücke – Vergabe einer freiberuflichen Leistung: MIKROSIMULATION - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.1 Bedarfsfeststellungsbeschluss: Verkehrsuntersuchung zur Bewertung einer geänderten Radverkehrsführung auf der Mülheimer Brücke – Vergabe einer freiberuflichen Leistung: Mikrosimulation - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - ohne Votum behandelt
+- TOP -: Ergänzungsantrag zu TOP 4.1 Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - ohne Votum behandelt mit erneuter Wiedervorlage
+- TOP 4.2: Bedarfsfeststellungs- und Baubeschluss für die Erneuerung der passiven Schutzeinrichtungen entlang der Industriestraße zwischen dem „Niehler Ei“ und der Merianstraße und einer partiellen Erneuerung der Fahrbahndeckschicht - ungeändert empfohlen
+- TOP 4.3: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung und Finanzierung von niederflurigen Stadtbahnwagen - ohne Votum behandelt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Darstellung der Beeinträchtigung des Stadtbahnverkehrs durch Unfälle - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen und der Volt-Fraktion aus der Sitzung des Verkehrsausschusses am 24.06.2025 betr. "Darstellung der Beeinträchtigung des Stadtbahnverkehrs durch Unfälle", AN/0947/2025 - Kenntnis genommen
+- TOP 5.1.2: Verkehrssicherungsmaßnahmen durch Mietsysteme - vertagt
+- TOP 5.1.3: Überarbeitung der bezirklichen Busteilnetze - vertagt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Interim der Ost-West-Achse: Beschlusslage ist fraglich - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE betreffend "Interim der Ost-West-Achse: Beschlusslage ist fraglich", (AN/1473/2025) - vertagt
+- TOP 5.2.2: Auswertung des Adventsverkehrs 2025 in Köln - vertagt
+- TOP 5.2.3: Auswirkungen und Gegenmaßnahmen der Stadt Köln bei der drohenden Doppelsperrung der linksrheinischen Bahnverbindung Köln–Bonn 2028–2030 - vertagt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Neue Bevölkerungsvorausberechnung des Statistischen Landesamtes / IT.NRW 2024 bis 2050/2070 - Kenntnis genommen
+- TOP 6.2.2: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Venloer Straße und Vogelsanger Straße und - Kenntnis genommen
+- TOP 6.2.3: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Lastenrad): Evaluation des Pilotversuchs - Kenntnis genommen
+- TOP 6.2.4: Schienenpersonennahverkehr (SPNV) im Rheinland - Baumaßnahmen 2026 - Kenntnis genommen
+- TOP 6.2.5: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 6.2.6: 3. Baustufe Nord-Süd Stadtbahn - Projektstand im Herbst 2025 - Kenntnis genommen
+- TOP 6.2.7: SPNV-Strukturreform - Kenntnis genommen
+- TOP 6.2.8: Umfangreiche Baumaßnahmen an der rechtsrheinischen Verkehrsinfrastruktur während der Ferien 2026 - Kenntnis genommen
+- TOP 6.2.9: Ost-West-Achse - Politischer Variantenentscheid für die Kapazitätserweiterung - vertagt
+- TOP 6.2.10: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Rates vom 04.09.2025 (AN/1207/2025) betreffend „Hinterlegte Mittel für die Machbarkeitsstudie Staubepreisung" - Kenntnis genommen
+- TOP 6.2.11: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007, - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Carsharing-Angebote - Sache ist erledigt
