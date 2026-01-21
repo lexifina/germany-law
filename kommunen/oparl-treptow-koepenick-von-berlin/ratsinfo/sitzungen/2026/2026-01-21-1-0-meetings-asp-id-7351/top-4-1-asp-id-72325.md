@@ -1,0 +1,8 @@
+# TOP 4.1: Durchführung der Wahlen der Seniorenvertretung im Bezirk Treptow-Köpenick 2027 durch das Wahlamt des Bezirks
+
+- Sitzung: 25. (ordentliche, öffentliche) Sitzung des Ausschusses für Wirtschaftsförderung, Tourismus und Bürgerdienste (B) (2026-01-21)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=72325
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=72325
