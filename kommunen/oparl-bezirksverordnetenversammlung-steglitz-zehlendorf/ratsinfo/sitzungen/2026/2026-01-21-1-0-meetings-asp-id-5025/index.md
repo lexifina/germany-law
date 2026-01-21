@@ -1,0 +1,64 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-01-21T17:00:00+01:00
+- Ende: 2026-01-21T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5025
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5025
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: U9: Unterstützung der Gewerbetreibenden in der Schloßstraße - beantwortet
+- TOP 3.2: Betreuung der Kitakinder während Stromausfall - beantwortet
+- TOP 3.3: Keine Weihnachtsfeiern für Senior*innen im Hans-Rosenthal-Haus - beantwortet
+- TOP 3.4: Notbrunnen - beantwortet
+- TOP 3.5: Altglasentsorgung: Warum wird der vorhersehbare Mehrbedarf nach Silvester nicht berücksichtigt? - beantwortet
+- TOP 3.6: Halb Steglitz-Zehlendorf auf den gefrorenen Seen ohne Polizei, Feuerwehr und mit nur sehr wenigen Leitern und Rettungsringen - beantwortet
+- TOP 3.7: Aktueller Stand Kraftwerk Steglitz - schriftlich beantwortet
+- TOP 3.8: Antragsdauer bei Bewilligung von Anträgen Hilfe zur Pflege - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Parkleitsystem für die Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Trinkbrunnen für den Markusplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Außenstelle für die Jugendkunstschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Mehr Öffentlichkeitsarbeit für die Raum-Datenbank für Ehrenamtliche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Lärmmessung AVUS - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Einführung der Brillenbox in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Parkbank-Putz-Patenschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Vom Blackout geschädigte Unternehmen nicht alleine lassen - überwiesen
+- TOP 5.2: Informationen zur Organspende öffentlich auslegen - überwiesen
+- TOP 5.3: Lichtsignalanlage Potsdamer Straße in Höhe Fürstenstraße - überwiesen
+- TOP 5.4: Boule-Platz am Flensburger Löwen - überwiesen
+- TOP 5.5: Ein neues Grobscreening zum Milieuschutz - überwiesen
+- TOP 5.6: Durchgehende vollwertige Fußwege entlang der Thielallee auf Höhe des Corrensplatzes - überwiesen
+- TOP 5.7: Bessere Beleuchtung für den Asternplatz - überwiesen
+- TOP 5.8: Einrichtung eines Auszubildenden-Dorfes in Steglitz-Zehlendorf - überwiesen
+- TOP 5.9: Kinder, Nichtraucher und Natur auf der Steglitzer Woche besser schützen - überwiesen
+- TOP 5.10: Sofortprogramm für eine krisenfeste Energieversorgung in Steglitz-Zehlendorf und Berlin - überwiesen
+- TOP 5.11: Vorbereitet für Notstromversorgung? - überwiesen
+- TOP 5.12: Würdigung von Baumscheibenpatenschaften - überwiesen
+- TOP 5.13: Menschlichkeit zuerst – humanity first - überwiesen
+- TOP 5.14: Technologie erleben – Messebesuch Hannover für Schulen und Jugendgruppen - überwiesen
+- TOP 5.15: Standort Stadtbad Steglitz für soziale Zwecke erweitern - überwiesen
+- TOP 5.16: Jugendliche erarbeiten Nutzungskonzept für Bierpinsel - überwiesen
+- TOP 5.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.18: Mülleimer Penny Lichterfelde-Süd - überwiesen
+- TOP 5.19: Gaslaternenmoratorium - überwiesen
+- TOP 5.20: S-Bahn gegen Linksterrorismus sichern - überwiesen
+- TOP 5.21: Stromversorgung Rathaus Zehlendorf - überwiesen
+- TOP 5.22: In Krisenfällen Einrichtung von Notunterkünften für Menschen mit Haustieren - überwiesen
+- TOP 5.23: Halbjährlicher Bericht über Wohnungsbaupotenziale bei Einzelprojekten - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Gab es eine taugliche Vorbereitung des Bezirksamtes auf den linksterroristischen Anschlag? - beantwortet
+- TOP 6.2: Lehren aus dem Stromausfall in Steglitz-Zehlendorf - beantwortet
+- TOP 6.3: 100 Stunden Blackout nach Terroranschlag - beantwortet
+- TOP 6.4: Krise ohne Netz und doppelten Boden: Soziale Absicherung beim Stromausfall in Steglitz-Zehlendorf - beantwortet
