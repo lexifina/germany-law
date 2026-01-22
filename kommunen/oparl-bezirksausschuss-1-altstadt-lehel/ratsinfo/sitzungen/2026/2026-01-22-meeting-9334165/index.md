@@ -1,0 +1,110 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-01-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9334165
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9334165
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Kurzvortrag Erinnerungen an die Familie Kalter + Sachstand zum beantragten Erinnerungszeichen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Brienner Str. 7 Nutzungsänderung: Speicher, Trocken-Waschraum in Büro, Umbau zweier Wohnungen zu Maisonettewohnungen mit Ausbau des Speichers, Neubau von Dachgauben, Sicherstellung der Rettungswege- ÄNDERUNGSANTRAG; Frist: 13.02.2026
+- TOP 3.1.2.: Residenzstr. 15 Neubau eines Geschäfts- und Bürogebäudes; Frist: 13.02.2026
+- TOP 3.1.3.: Residenzstr. 15 ÄNDERUNGSANTRAG - Neubau eines Geschäfts- und Bürogebäudes; Frist: 13.02.2026
+- TOP 3.1.4.: Blumenstr. 22 Umbau Bunker Blumenstr., Teilabbruch der Decken, Öffnung EG, Herstellung 2. RW Obergeschosse, Sanierung Sanitäranlagen, Einbau Heizung, Nutzungsänderung vom Schutzbunker zum Ausstellungsraum; Frist: 13.02.2026
+- TOP 3.1.5.: Reitmorstr. 39 Wiederherstellung Kirchendach und Kirchturm; Frist: 13.02.2026
+- TOP 3.1.6.: Residenzstr. 11 Erschließung der Ladeneinheit im 2.OG durch Erweiterung der Treppe, sowie Umbau aller Ladeneinheiten vom EG bis 2.OG - mit Mobilitätskonzept; Frist: 13.02.2026
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Fällungsantrag: Knöbelstr. 24; Frist: 30.01.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Vorbereitung zum nächsten Runder Tisch „Verkehrssituation südliches Lehel“
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Anliegen des BA: Situation in der Alfons-Goppel-Straße
+- TOP 1.2.: Bürger*innenanliegen: Verkehrsfluss Isartor-Zweibrückenstraße
+- TOP 1.3.: Bürger*innenanliegen: nächtliches Parken Widenmayerstr.
+- TOP 2: Entscheidungen
+- TOP 2.1.: Entscheidung über eine Sondernutzungserlaubnis: Neuhauser Str. 2
+- TOP 2.2.: (E) Entscheidung über die Einrichtung einer Fußgängerzone in der St.-Anna-Straße
+- TOP 2.2.1: Entscheidung über die Einrichtung einer Fußgängerzone in der St.-Anna-Straße, Sitzungsvorlage Nr. 20-26 / V 18004 – Vorstellung durch das MOR in der UA-Sitzung
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Anhörung SONU: Aufbauten für MSC Bayerischer Hof am Promenadeplatz etc., 13.02.- 15.02.2026 (Termin: 26.01.26)
+- TOP 3.2.2.: PERSPEKTIVE MÜNCHEN Fortschreibung des Innenstadtkonzeptes als integriertes Handlungsraumkonzept Münchner Innenstadt, Sitzungsvorlage Nr. 20-26 / V 15626 (Termin: 18.02.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Sicherheit Isartorplatz, TOP 2025.10 D 1.2, 2025.11 D 1.3, 2025.12 D 1.1
+- TOP 1.2.: BA-Antrag: Erläuterungsschild Lion-Feuchtwanger-Platz, TOP 2025.02 D 1.1
+- TOP 1.3.: Bürger*innenanliegen: Vermüllung der Gehwege durch Gäste der Bar Oberanger
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Kerims Nase" Kerims Nase vom 18.01. - 31.12.2026 2.832,00 Euro, Az.: 0262.100-1-0439
+- TOP 2.1.2.: (E) Stadtbezirksbudget Hofspielhaus gGmbH Theater für Alle ohne Eintritt am Kosttor am 08.07. und 15.07.2026 und im Hof der Alten Münze vom 17. - 19.07.2026 9.780,00 Euro, Az.: 0262.100-1-0440
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Westenriederstr. 21: Genehmigung einer Freischankfläche
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Traditionelles Geldbeutelwaschen am 18.02.2026 (Aschermittwoch) (Termin: 31.01.2026)
+- TOP 3.2.: Faschingsumzug der Damischen Ritter in der Münchner Altstadt(fußgängerzone) am Sonntag, den 08.02.2026 (Termin: 23.01.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Müllerstr. 54, Nutzungsänderung von Wohnen zu Büro, Antwortschreiben Sozialreferat
+- TOP B 4.4.: Perspektive München - Leitlinie Freiraum Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung Anträge und Empfehlungen
+- TOP B 4.5.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2024-2028
+- TOP B 4.6.: Meldung von Baumfällungen und/oder pflegerisch notwendigen Maßnahmen in Gehölzbeständen auf Grundlage der Bezirksausschusssatzung
+- TOP B 4.7.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 mit verbindlicher Planung für 2030 für das Baureferat Nahmobilität stärken - Klima schützen - Straßen sicherer machen Antrag Nr. 20-26 / A 04903 der Fraktion Die Grünen - Rosa Liste vom 06.06.2024 Ein Baumbooster für München Antrag Nr. 20-26 / A 05807 der Fraktion Die Grünen - Rosa Liste - Volt vom 24.07.2025
+- TOP B 4.8.: Vollzug der Baumschutzverordnung Pilotystr. 2
+- TOP B 4.9.: Vollzug der Baumschutzverordnung Maximilianstr. 53
+- TOP B 4.10.: Unterrichtung Nutzungsänderung in der Müllerstr. 54
+- TOP B 4.11.: Prüfung von Baumstandorten in der Reitmorstraße aufgrund der notwendigen Baumfällung, BA-Antrag-Nr. 20-26 / B 07884 , 2025.10 B 3.2.2, Antwortschreiben Baureferat
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Generalsanierung und Umbau des Münchner Stadtmuseums Sankt-Jakobs-Platz 1 01. Stadtbezirk - Altstadt Lehel Ausführungsgenehmigung für Teil A – Generalsanierung und Umbau Änderung des Mehrjahresinvestitionsprogramms 2025 - 2029
+- TOP C 4.3.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.4.: Mitteilungen Mobilfunksendeanlagen
+- TOP C 4.5.: Bürger*innenanliegen Abendliche Beleuchtung der Theatiner-Kirche, Antwortschreiben Baureferat
+- TOP C 4.6.: Bürger*innenanliegen Bänke Sankt-Anna-Platz, Antwortschreiben Baureferat
+- TOP C 4.7.: Bürger*innenanliegen: Verkehrskontrollen Baustelle Stadtmuseum. 2025.10 A 3, Antwortschreiben Kreisverwaltungsreferat
+- TOP C 4.8.: Eilentscheidung Anhörung SONU: Deutscher Filmball am 24.01.2026 Promenadeplatz Bayer. Hof (Termin: 09.01.2026)
+- TOP C 4.9.: Bürger*innenanliegen Prälat-Zistl-Str., TOP 2025.11 C 1.1, Antwortschreiben Bezirksinspektion Mitte
+- TOP C 4.10.: Bürger*innenanliegen Notwendige Fahrradstellplätze Müllerstr. Ecke Blumenstr., TOP 2025.11 C 1.5, Antwortschreiben Mobilitätsreferat
+- TOP C 4.11.: Altstadt für alle – Konzept und Maßnahmen - Grundsatzbeschluss
+- TOP C 4.12.: Präsentation und Protokoll zur Informationsveranstaltung zur Versorgung Münchens mit stationären Einrichtungen der Post am 27.11.2025
+- TOP C 4.13.: Pilotprojekt Digitalisierung von Lieferzonen; Schreiben Mobilitätsreferat
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Sammelbeschluss zur Bearbeitung von Stadtratsanträgen aus der Corona-Zeit Bearbeitung weiterer Stadtrats- und Bezirksausschuss-Anträge durch das Kulturreferat
+- TOP 3.3.: Italienischer Markt vom 27.02.- 08.03.2026 (Termin: 17.02.2026)
+- TOP 2.1.3.: (E) Stadtbezirksbudget SMV des Kerschensteiner Schulzentrums Schäfflertanz Aufführung am 13.02.2026 471,30€; Az. 0262.100-1-0444
