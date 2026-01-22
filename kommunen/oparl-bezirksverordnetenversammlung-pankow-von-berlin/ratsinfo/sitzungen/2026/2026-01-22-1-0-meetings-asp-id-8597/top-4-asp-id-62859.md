@@ -1,0 +1,7 @@
+# TOP 4: Themenschwerpunkt: Vorstellung Stand Klimaschutzkonzept Aktuelle Drucksachen:
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Klimaschutz, Grünanlagen, Spielplätze, Umwelt und Natur (2026-01-22)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=62859
+- Ergebnis: erledigt
