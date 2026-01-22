@@ -1,0 +1,68 @@
+# 48. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-01-22T17:00:00+01:00
+- Ende: 2026-01-22T21:35:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6123
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6123
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=442585
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Kiezgarten Heinrichtreff erhalten - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Spielplätze auch für Senior:innen - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Wartenberger Weg sicher überqueren - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Für Ordnung im Rheinsteinpark sorgen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Viktoriastadt - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Sicherheit an der Rheinsteinstraße /Weseler Straße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Barrierefreie PDF-Dokumente für BVV und Bezirksamt Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Schilderwald lichten - Übersichtlichkeit in der Grevesmühlener Straße wieder herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Schulwegpläne für Grundschulen bei Auslagerung - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Einrichtung von "Winterspielplätzen" in Lichtenberger Turnhallen - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Aufenthaltsqualität am S-Bahnhof Hohenschönhausen erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Runder Tisch Salzmannstraße 34 - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Inforoute "Platte und Co" - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Verkehrsfluss optimieren: Lichtenberg als Pilotbezirk für „Google Green Light“ - überwiesen
+- TOP 5.14: Sicheren Schulweg an der Dorfstraße wieder ins Bauprogramm aufnehmen - überwiesen
+- TOP 5.15: Mieterberatung im Zentrum von Neu-Hohenschönhausen erhalten - überwiesen
+- TOP 5.16: Kiezgewerbe stärken: Negativkatalog für ständig ortsfeste Handelseinrichtungen anpassen - überwiesen
+- TOP 5.17: Verbrauchszähler für jedes neue Schulgebäude - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Ergebnisse der Bürgerbeteiligung zur Verbesserung der Aufenthalts- und Verkehrssituation auf der Große-Leege-Straße zügig umsetzen - überwiesen
+- TOP 5.19: Blutspendetag im Rathaus Lichtenberg – Es kommt auf alle an - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Ehrenamtlichen Besuchsdienst für Krankenhäuser einrichten - überwiesen
+- TOP 5.21: Projekt für queere Wohnungslose in Lichtenberg retten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - erledigt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Resolution: Linksextremistischer Terror gefährdet Menschenleben – Schutz unserer kritischen Infrastruktur ist nicht verhandelbar - in der BVV zurückgezogen
+- TOP 10.2: Gedenken gemeinnützig veranstalten - Kein Platz für Holocaustleugner! - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Müll in der Judith-Auer-Straße beseitigen - überwiesen
+- TOP 10.4: Bezirkliche Notfallplanung für den großflächigen Ausfall von Strom und Heizenergie sicherstellen - in der BVV abgelehnt
+- TOP 10.5: Ein Baumgesetz allein ist nicht genug: Straßen- und Grünflächenämter so ausstatten, dass das Baumgesetz auch umgesetzt werden kann - überwiesen
+- TOP 10.6: Kein rares Bares – barrierefreie Barzahlung in Lichtenbergs Verwaltung sichern und ausbauen - überwiesen
+- TOP 11: Große Anfragen - erledigt
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Gemeinsam bunt älter werden – Queeres* Mehrgenerationenwohnen an der Vulkanstraße - mit Änderungen in der BVV beschlossen
+- TOP 13.2: Hans-Zoschke-Stadion regionalligatauglich machen - Lichtenberg 47 den Rücken stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Kleingärten für alle öffnen! - überwiesen
+- TOP 14.2: Kiezangebote im Heinrichgarten erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Imbiss gerettet – Problem noch nicht gelöst: Rummelsburger Kiezgewerbe tatkräftig unterstützen - überwiesen
+- TOP 14.4: Rathaus-Räume nicht unter Wert überlassen: Miete nach 20 Jahren anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Flagge zeigen für das Völkerrecht – Hissen der venezolanischen Staatsflagge - in der BVV abgelehnt
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
