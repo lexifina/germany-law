@@ -369,6 +369,7 @@ Versicherungsträger
 - [§ 151 Auskünfte der Deutschen Post AG](0151.md)
 - [§ 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt](0151a.md)
 - [§ 151b Automatisiertes Abrufverfahren beim Zuschlag an Entgeltpunkten für langjährige Versicherung](0151b.md)
+- [§ 151c Übermittlung von Sozialdaten an den Träger der Insolvenzsicherung](0151c.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 
 ## Viertes Kapitel Finanzierung

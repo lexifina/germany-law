@@ -52,11 +52,12 @@
 - [§ 27 Eigenmittel](0027.md)
 - [§ 28 Berichtspflicht gegenüber der Aufsichtsbehörde](0028.md)
 
-### Kapitel 7 Lebenslange Zahlungen im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
+### Kapitel 7 Lebenslange Zahlungen und Raten einer Kapitalzahlung im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
 
 - [§ 29 Anfängliche Höhe der lebenslangen Zahlung](0029.md)
 - [§ 30 Mindesthöhe der lebenslangen Zahlung](0030.md)
 - [§ 31 Anpassung der lebenslangen Zahlungen](0031.md)
+- [§ 31a Kapitalzahlung in Raten](0031a.md)
 - [§ 32 Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe](0032.md)
 
 ## Teil 2 Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung

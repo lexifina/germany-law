@@ -3,4 +3,3 @@
 - [Eingangsformel](eingangsformel.md)
 - [A.](a.md)
 - [B.](b.md)
-- [C.](c.md)

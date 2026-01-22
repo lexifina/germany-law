@@ -1,6 +1,6 @@
 # A.
 
-Mit Wirkung vom 1. Januar 2025 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2026 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
   1. des Asylrechts;
   2. des Aufenthaltsrechts und der internationalen Rechtshilfe in Strafsachen;
@@ -16,9 +16,11 @@ I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfa
   10. des Rechts des Versicherungswesens;
   11. des Glücksspielrechts;
   12. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit;
-  13. des Kreditrechts einschließlich des Rechts der Sicherungen,
+  13. des Kreditrechts einschließlich des Rechts der Sicherungen;
+  14. Dienst- und Werkvertragsrecht;
+  15. Kaufrecht,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2026 eingehen, aus den Rechtsbereichen
   1. des Vertriebenenrechts;
   2. des Körperschaftsteuerrechts und des Umwandlungssteuerrechts;
   3. des Waffenrechts;
@@ -27,7 +29,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäf
   6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird);
   7. des sonstigen Deliktsrechts,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2026 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
   1. Allgemeines Persönlichkeitsrecht;
   2. Recht der Glaubens- und Bekenntnisfreiheit (Artikel 4 Absatz 1 und 2 GG);
   3. Recht der freien Meinungsäußerung, Informations-, Rundfunk- und Pressefreiheit (Artikel 5 GG);
@@ -49,11 +51,8 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus d
   19. Anwaltsvertragsrecht;
   20. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
   21. Vollstreckung öffentlich-rechtlicher Forderungen;
-  22. Wohnungseigentumsrecht;
-  23. Dienst- und Werkvertragsrecht;
-  24. Kaufrecht,
+  22. Wohnungseigentumsrecht,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
-  1. bei denen die Auslegung und Anwendung von Völkerrecht
-    oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
+  1. bei denen die Auslegung und Anwendung von Völkerrecht oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
   2. bei denen andere Fragen als solche der Auslegung und Anwendung der Artikel 1 bis 17, 19, 101 und 103 Absatz 1 GG (auch in Verbindung mit dem Rechtsstaatsprinzip) überwiegen.

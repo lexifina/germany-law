@@ -159,7 +159,7 @@
 - [§ 53 Wahlorgane](0053.md)
 - [§ 54 Durchführung der Wahl](0054.md)
 - [§ 55 Wahlunterlagen und Mitwirkung der Arbeitgeber](0055.md)
-- [§ 56 Wahlordnung](0056.md)
+- [§ 56 Wahlordnung; Verordnungsermächtigung](0056.md)
 - [§ 57 Rechtsbehelfe im Wahlverfahren](0057.md)
 - [§ 58 Amtsdauer](0058.md)
 - [§ 59 Verlust der Mitgliedschaft](0059.md)

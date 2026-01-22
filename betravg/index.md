@@ -31,7 +31,7 @@ Altersversorgung
 - [§ 8 Übertragung der Leistungspflicht](0008.md)
 - [§ 8a Abfindung durch den Träger der Insolvenzsicherung](0008a.md)
 - [§ 9 Mitteilungspflicht, Forderungs- und Vermögensübergang](0009.md)
-- [§ 10 Beitragspflicht und Beitragsbemessung](0010.md)
+- [§ 10 Beitragspflicht und Beitragsbemessung; Beitragsbescheid](0010.md)
 - [§ 10a Säumniszuschläge, Zinsen, Verjährung](0010a.md)
 - [§ 11 Melde-, Auskunfts- und Mitteilungspflichten](0011.md)
 - [§ 12 Ordnungswidrigkeiten](0012.md)
@@ -59,10 +59,10 @@ Altersversorgung
 
 #### Unterabschnitt 2 Tarifvertrag und reine Beitragszusage
 
-- [§ 21 Tarifvertragsparteien](0021.md)
+- [§ 21 Tarifvertragsparteien; Sozialpartnermodell](0021.md)
 - [§ 22 Arbeitnehmer und Versorgungseinrichtung](0022.md)
 - [§ 23 Zusatzbeiträge des Arbeitgebers](0023.md)
-- [§ 24 Nichttarifgebundene Arbeitgeber und Arbeitnehmer](0024.md)
+- [§ 24 Teilnahme Dritter an Sozialpartnermodellen](0024.md)
 - [§ 25 Verordnungsermächtigung](0025.md)
 
 ## Zweiter Teil Übergangs- und Schlußvorschriften
@@ -73,7 +73,7 @@ Altersversorgung
 - [§ 28](0028.md)
 - [§ 29](0029.md)
 - [§ 30](0030.md)
-- [§ 30a (weggefallen)](0030a.md)
+- [§ 30a Evaluierung](0030a.md)
 - [§ 30b](0030b.md)
 - [§ 30c](0030c.md)
 - [§ 30d Übergangsregelung zu § 18](0030d.md)

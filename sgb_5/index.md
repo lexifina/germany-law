@@ -571,10 +571,6 @@ Entwicklung im Gesundheitswesen
 #### Zweiter Titel Satzung, Organe
 
 - [§ 194 Satzung der Krankenkassen](0194.md)
-- [§ 194a Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen](0194a.md)
-- [§ 194b Durchführung der Stimmabgabe per Online-Wahl](0194b.md)
-- [§ 194c Verordnungsermächtigung](0194c.md)
-- [§ 194d Evaluierung](0194d.md)
 - [§ 195 Genehmigung der Satzung](0195.md)
 - [§ 196 Einsichtnahme in die Satzung](0196.md)
 - [§ 197 Verwaltungsrat](0197.md)
