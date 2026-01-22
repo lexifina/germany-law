@@ -1,0 +1,66 @@
+# 3. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-22T17:00:00+01:00
+- Ende: 2026-01-22T18:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34111
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34111
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Aktuelle Stunde gem. Antrag von SPD-Fraktion, Fraktion Bündnis 90/Die Grünen, Fraktion Die LINKE., Fraktion Volt und Hooghoughi: "Eröffnung des Drogenkonsumraums Kalk" - ungeändert beschlossen
+- TOP 1: Einwohnerfragestunde - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO NRW - Aufstellen von Warntafeln am Vingster Markt, die auf Ordnungswidrigkeit illegaler Müllentsorgung hinweisen und Bußgeld androhen, Aktenzeichen 114/25 - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Aufstellen von Warntafeln am Vingster Markt, die auf Ordnungswidrigkeit illegaler Müllentsorgung hinweisen und Bußgeld androhen, Aktenzeichen 114/25" - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen - Kenntnis genommen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Gem. Antrag der SPD-Fraktion und CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Sicherung eines Grundstücks auf dem Gelände der Städtischen Kliniken in Merheim für den Bau der dringend benötigten Grundschule" - ungeändert beschlossen
+- TOP 7.2: Gem. Antrag der SPD-Fraktion und CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Fuß- und Radweg auf der Nordseite der Ostheimer Str." - geändert beschlossen
+- TOP 7.3: Antrag der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Barrierefreie ÖPNV-Nutzung in Kalk ermöglichen!" - geändert beschlossen
+- TOP 7.4: Antrag der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026:"Nie wieder Krieg! Nie wieder Faschismus!" - vertagt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Beschlussvorlage über mehrere Anfragen der BV 8 im Rahmen des Rückholrechts - ungeändert beschlossen
+- TOP 8.1.2: Benennung eines Mitgliedes der Bezirksvertretung Kalk zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2023-2029 (nach Ratswahl 2025) - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Übertragung der Netzwerkarbeit "Sport in Metropolen" auf den rechtsrheinischen Stadtbezirk Porz - ungeändert beschlossen
+- TOP 8.2.2: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer mündlichen Anfrage von Bezirksvertreter Schuiszill, CDU-Fraktion, aus der Sitzung der Bezirksvertretung Kalk vom 27.11.2025 bezüglich des Neubaus einer Grundschule in Köln-Merheim - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 25.01.2024 (AN/0104/2024) betreffend "Neueinrichtung absolutes Halteverbot auf der Eiler Straße zwischen Gestütt Röttgen und Eisenbahnbrücke" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung 8 vom 25.04.2024 betr. „Vietorstraße im Vorbehaltsnetz der Stadt Köln" (AN/0612/2024) - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer Anfrage des Bezirksvertreters Robyns (SPD-Fraktion) betreff: "Vingster Freibad" - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Kalk am 20.03.2025 betr. "Verkehrssituation auf der Kuthstraße zwischen den KVB-Haltestellen Buslinie 153 „Vingst„ und „Kampgasse“, AN/0325/2025 - Kenntnis genommen
+- TOP 9.1.6: Beantwortung einer Anfrage gem. §4 der Geschäftsordnung des Rates der AfD Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 27.-11.2025 zu AN/1357/2025 - Kenntnis genommen
+- TOP 9.1.7: Beantwortung einer mündlichen Nachfrage der Fraktion Die LINKE aus der Bezirksvertretung Kalk vom 04.09.2025 betreffend "Status Trinkwasserbrunnen (2687/2024) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Auslegung und Bewertung der „Verkehrssicherheit“ von Baumaßnahmen" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Abriss Hallen Kalk als Projekt der Gebäudewirtschaft?" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der AFD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Vorkommnisse zu Silvester auf der Kalk-Mülheimer Straße" - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Sachstand Vorlage 1499/2020 (Smarte Sitzbänke im Stadtbezirk Kalk)" - Kenntnis genommen
+- TOP 9.2.5: Anfrage der AFD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Sachstandsbericht von Schutzräumen im Stadtbezirk Köln- Kalk" - Kenntnis genommen
+- TOP 9.2.6: Anfrage der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Entwicklung des sog. "Neubaufelds" an den Hallen Kalk" - Kenntnis genommen
+- TOP 9.2.7: Anfrage der CDU-Fraktionen zur Sitzung der Bezirksvertretung Kalk am 22.01.2026: "Straßenreinigung" - Kenntnis genommen
+- TOP 9.2.8: Anfrage der Fraktion AFD in der Bezirksvertretung Kalk zur Sitzung am 22.01.2026: "Massives Sauberkeitsproblem in der Trimbornstraße" - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Erweiterung der Öffnungszeiten der Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP 10.2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Barrierefreier Zugang zum Alten Friedhof Kalk, Aktenzeichen 75/25 - Kenntnis genommen
+- TOP 10.2.3: Bewirtschaftung des städtischen Waldes 2026 - Kenntnis genommen
+- TOP 10.2.4: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Gehweg in der Neuerburgstraße, Aktenzeichen 93/25 - Kenntnis genommen
+- TOP 10.2.6: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Lastenrad): Evaluation des Pilotversuchs - Kenntnis genommen
+- TOP 10.2.7: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 10.2.8: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 10.2.9: Sachstandsbericht der Verwaltung zur Verlagerung des Autonomen Zentrums von der Luxemburger Straße 93 in Köln-Sülz in die Liegenschaft In den Reihen 16 in Köln-Kalk - Kenntnis genommen
+- TOP 10.2.10: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
