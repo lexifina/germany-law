@@ -12,7 +12,7 @@ Kauffrau im Eisenbahn- und Straßenverkehr
 - [§ 7 Zwischenprüfung](0007.md)
 - [§ 8 Abschlußprüfung](0008.md)
 - [§ 9 Übergangsregelung](0009.md)
-- [§ 10 Inkrafttreten, Außerkrafttreten](0010.md)
+- [§ 10 Außerkrafttreten](0010.md)
 - [Anlage 1 (zu § 4)
 
 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im

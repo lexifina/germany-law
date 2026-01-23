@@ -10,7 +10,7 @@ Kaufmann für Verkehrsservice/zur Kauffrau für Verkehrsservice
 - [§ 6 Berichtsheft](0006.md)
 - [§ 7 Zwischenprüfung](0007.md)
 - [§ 8 Abschlußprüfung](0008.md)
-- [§ 9 Inkrafttreten](0009.md)
+- [§ 9 Außerkrafttreten](0009.md)
 - [Anlage I (zu § 4)
 
 Ausbildungsrahmenplan für die Berufsausbildung zum
