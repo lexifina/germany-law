@@ -1,0 +1,6 @@
+# TOP 3: Bürgereingaben ohne Verwaltungsvorlage
+
+- Sitzung: 2. Sitzung des Ausschusses für Bürgerbeteiligung, Anregungen und Beschwerden (2026-01-26)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/433004
