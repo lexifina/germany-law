@@ -1,0 +1,62 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-26T16:00:00+01:00
+- Ende: 2026-01-26T17:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33973
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33973
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO – "Verkehrssituation an der Domsingschule" Aktenzeichen 88/25 - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe nach § 24 GO– „Einrichtung von Tempo 30 im Bereich vor der städtischen Kindertagesstätte Aachener Str. 1114 in 50858 Köln Weiden“, Aktenzeichen 37/25 - geändert beschlossen
+- TOP 5.3: Bürgereingabe gem. §24 GO, Umgestaltung öffentlicher Raum Ecke Kitschburger Straße / Aachener Straße (Az. 62/65 B) - ungeändert beschlossen
+- TOP 5.4: Bürgereingabe nach § 24 GO– „Einstellung und Streckenführung der SB91“, Aktenzeichen 78/25 - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage aus der Sitzung der Bezirksvertretung Lindenthal vom 23.09.2024 betr.; "Bewohnerparken Baumeisterviertel" AN/1263/2024 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sicherheitsmaßnahmen im Stadtbezirk – Umsetzungsstand des BV-Beschlusses 2022 - vertagt
+- TOP 7.2.2: Unzureichende Leerung öffentlicher Abfallbehälter und daraus resultierende hygienische Missstände – u. a. Rattenbefall - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Grünpfeil Rhöndorfer Straße/Gottesweg - ungeändert beschlossen
+- TOP 8.1.2: Ausbesserung Hans-Sachs-Straße - ungeändert beschlossen
+- TOP 8.1.3: Berrenrather Straße: Sachstandsbericht zur Sanierung und Erneuerung der Asphaltdecke zur Gefahrenabwehr - ungeändert beschlossen
+- TOP 8.1.4: Schutz des Naturdenkmals Hangkante in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.5: Schulwegsicherung Liebfrauenschule - ungeändert beschlossen
+- TOP 8.1.6: Innerer Grüngürtel/Eifelwall - vertagt
+- TOP 8.1.7: Ersetzungsantrag Teilentsiegelung der Taxistandsfläche an der KVB-Haltestelle Dürener Str./Gürtel - ungeändert beschlossen
+- TOP 8.1.8: Übertragung von Bezirksorientierten Mittel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - vertagt
+- TOP 9.2.2: Temporäre Kapazitätseinschränkung der Gesamtschule Wasseramselweg - Alternative beschlossen
+- TOP 9.2.3: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal - vertagt
+- TOP 9.2.4: Beschluss über die Einleitung der 2. Änderung (2. Teilaufhebung) des Bebauungsplanes 64450/02 (6444 Nc/02), Arbeitstitel: Haselbergstrasse/Piusstrasse, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal - vertagt
+- TOP 9.2.5: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen im Jahr 2026 - ungeändert beschlossen
+- TOP 9.2.6: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 11.3.2: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 11.3.3: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 11.3.4: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 11.3.5: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
