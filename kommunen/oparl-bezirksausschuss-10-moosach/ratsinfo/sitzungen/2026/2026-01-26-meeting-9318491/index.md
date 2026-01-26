@@ -1,0 +1,88 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-01-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9318491
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9318491
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 15.12.2025
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Mehrere Bürgeranliegen wegen Parkplatzproblemen in der Andernacher Straße und Umgebung durch Autovermietung
+- TOP 2.2.: Müllablagerungen am Ein-/Ausgang der S-Bahn Station Moosach
+- TOP 2.3.: In den Kirschen; Anfrage bezüglich Grundschulsprengel
+- TOP 2.4.: Antrag auf Weiternutzung und Behebung der Feuchteschäden im Neubau in der Baubergerstraße 4, 4a und 6
+- TOP 2.5.: Antrag auf Anwendung des Sanierungskonzepts der Wohngebäude der Stadtsparkasse auf die baugleichen Gebäude in der Welzenbachstraße 38 und Nanga-Parbat-Straße 15, 15a, 17 und 17a
+- TOP 2.6.: Fachgerechter Rückschnitt der Kastanienbäume in der Lampadiusstraße
+- TOP 2.7.: Winterliche Sicherungspflicht auf dem Gehweg in der Pelkovenstraße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baubergerstraße 19 (vertagt aus Sitzung 12/25)
+- TOP 3.3.1.2.: Haldenbergerstraße 27
+- TOP 3.3.1.3.: Gubestraße 11
+- TOP 3.3.1.4.: Donaustaufer Straße 30
+- TOP 3.3.1.5.: Hanauer Straße 71
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Sicher im Verkehr unterwegs - Behebung der missverständlichen Führung des baulichen Radwegs in der Riesstraße vor der Bushaltestelle Gärtnerstraße
+- TOP 4.1.2.: Einrichtung verpflichtender Abstellflächen für E-Scooter im Bereich des Schulzentrums Moosach sowie regelmäßiger Abtransport
+- TOP 4.1.3.: Bedarfsermittlung und Beantragung einer weiteren Pflegeeinrichtung in Moosach
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Sofortiger Beginn der Planung zur Verlängerung der U3 West von Moosach via Untermenzing nach Pasing
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Init. "Agentin" AGENTIN NOOR INAYAT KHAN - LECTURE PERFORMANCE vom 01.01.-31.06.2026 700,00€; Az.: 0262.100-10-0451
+- TOP 5.2.: (E) Stadtbezirksbudget Diakonie München-Moosach e.V. Erste FreiwilligenMesse Moosach am 26.04.2026 2.444,00€ Az.: 0262.22-101-0452
+- TOP 5.3.: (E) Entfernung unsachgemäß abgestellter Fahrräder und E-Roller an der Oberfläche U-Bahn-Haltestelle „Olympiaeinkaufszentrum“ und Aufstellung Hinweisschilder für P&R-Flächen für Fahrräder
+- TOP 5.4.: (E) Aufstellung einer Überwachungskamera bei Müllcontainern im Norden des Moosacher Gymnasiums
+- TOP 5.5.: (E) Überprüfung der Wirtschaftlichkeit durch Sanieren im Bestand anstatt Abrissmaßnahmen
+- TOP 6.: Anhörungen
+- TOP 6.1.: Behandlung von BV-Empfehlungen zum Eggarten
+- TOP 6.2.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Meggendorferstraße 92
+- TOP 6.3.: Brandschutzsanierung und Teilmodernisierung des Verwaltungsgebäudes des AWM am Georg-Brauchle-Ring
+- TOP 6.4.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 3 Kindergartengruppen an der Grubestraße 35
+- TOP 6.5.: Unterstützungsaufruf BA 09: Solidarität mit der ehemaligen Redaktion des HALLO-Werbeblatts und Sorge um die zukünftige Berichterstattung
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Preisgebundene Anwohnerparkplatzkontingente bei zukünftig geplanten Anwohnergaragen
+- TOP 7.2.: Verbesserungsmöglichkeiten für die Sportstätten im Amphionpark
+- TOP 7.3.: Sicherheit auf den Gehwegen und Geschwindigkeitsprobleme in verkehrsberuhigten Straßen
+- TOP 7.4.: Nachtbuslinie zur Anbindung der S-Bahnhöfe Untermenzing, Allach und Karlsfeld an den U-Bahnhof Moosach
+- TOP 7.5.: Feldmochinger Straße - Entfernung missverständlicher Gehwegmarkierungen
+- TOP 7.6.: Bestellung einer städtischen Leistung: 2 Bänke für den Schöpferplatz
+- TOP 7.7.: Spielplatz auf der Schwimmbadwiese und nahe der Hanauer Straße
+- TOP 7.8.: Umwandlung der Grünstreifen entlang der Triebstraße sowie der weiterführenden Max-Born-Straße in ökologisch wertvolle Blühstreifen
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: --> Bodenbreitenstraße, südlich Wintrichring im Einmündungsbereich, Anordnung eines absoluten Haltverbots --> Am Kapuzinerhölzl; Erleichterte streckenbezogene Anordnung von 30 km/h; Verstetigung einer Geschwindigkeitsbeschränkung Am Kapuzinerhölzl im Abschnitt zwischen nördlich Skagerrakstraße bis nördlich Zugang Am Kapuzinerhölzl 1
+- TOP 8.2.: Modernisierung des Mobilfunknetzes im Bereich der Alzeyer Straße
+- TOP 8.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; hier: Bunzlauer Platz - vor der Meile Moosach, Aktion "Aschekreuz to go", am 18.02.2026 von 14:00 - 16:00 Uhr - Vorabstellungnahme des Vorsitzenden
+- TOP 8.4.: Information über baustellenbedingte Fahrplan- und Linienwegsänderungen auf allen U-Bahnlinien aufgrund von Fräszugfahrten
+- TOP 8.5.: Bauprogramm zum Ersatz der mit Kunststoffgranulat gefüllten Kunstrasenplätze durch alternative Kunstrasensysteme
+- TOP 8.6.: Mehrjahresinvestitionsprogramm 2025 – 2029 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 8.7.: Dritte Programmanpassung „Wohnen in München VII“ Sozialgerechte Bodennutzung in München (SoBoN) A) Auswirkungen der Fördermittelsituation auf den geförderten und Preisgedämpften Mietwohnungsbau B) Auftrag zur Novellierung der Sozialgerechten Bodennutzung C) Bürgerversammlungsempfehlung
+- TOP 8.8.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2025 - 2029 mit verbindlicher Planung für 2030 für das Baureferat Nahmobilität stärken - Klima schützen - Straßen sicherer machen Antrag Nr. 20-26 / A 04903 der Fraktion Die Grünen - Rosa Liste vom 06.06.2024 Ein Baumbooster für München Antrag Nr. 20-26 / A 05807 der Fraktion Die Grünen - Rosa Liste - Volt vom 24.07.2025
+- TOP 8.9.: Perspektive München - Leitlinie Freiraum Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung Anträge und Empfehlungen
+- TOP 8.10.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2024-2028
+- TOP 8.11.: (U) Angebote im Sozialraum Errichtung des Nachbarschaftstreff Moosach (ehemals Karlingerstraße NEU) Finanzierungsbeschluss Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms 10. Stadtbezirk - Moosach
+- TOP 8.12.: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP 8.13.: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP 8.14.: Fortschreibung der Fachleitlinie Ökologie: Die Fachleitlinie Klima, Umwelt und globale Verantwortung, Vorstellung und Vorbereitung Öffentlichkeitsphase und Leitprojekte
+- TOP 8.15.: Errichtung eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen an der Hanauer Straße WA 3 10. Stadtbezirk Moosach Genehmigung des Nutzer*innenbedarfsprogramms
+- TOP 8.16.: Beschluss des Bildungsausschusses des Stadtrates vom 03.12.2025 aus nicht öffentlicher Sitzung -nicht öffentlich-
+- TOP 8.17.: Vollzug der Erhaltungssatzung "Moosach"; Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen -nicht öffentlich-
+- TOP 8.18.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch -nicht öffentlich-
+- TOP 3.2.1.: MOSAIQ - Vorstellung der geplanten Maßnahmen im UA Verkehr
+- TOP 4.1.4.: Geteilte Abstellflächen für Mikromobilitätsangebote (GAF) Pelkovenstraße / Dachauer Straße
+- TOP 6.6.: Sondernutzung auf öffentlichem Verkehrsgrund gem. §29 der StVO Hier: Bunzlauer Platz vor der Meile Moosach; Demokratiemobil des KJR München zur Kommunalwahl; vom 06.-07.03.2026
+- TOP 6.7.: Konsequente Bekämpfung von Mietwucher
