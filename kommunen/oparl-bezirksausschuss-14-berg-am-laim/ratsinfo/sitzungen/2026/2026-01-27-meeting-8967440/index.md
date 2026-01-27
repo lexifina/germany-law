@@ -1,0 +1,94 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-01-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967440
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967440
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 16.12.2025
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 16.12.2025
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters über die Projektplanung Ludwig-Jung-, Aschheimer Straße, Piusplatz: Anpassung des Kreuzungsbereich
+- TOP 2.2.: (E) Verlängerung der Ampelschaltung für Fußgänger an der Kreuzung St.-Veit-Straße/Kreillerstraße
+- TOP 2.3.: Automatische Rückerstattung unzulässiger Heizkosten für alle betroffenen Mieter*innen der Münchner Wohnen; Empfehlung Nr. 20-26 / E 02626 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim vom 09.04.2025 Ablehnung des Beschlussantrages des Referates für Stadtplanung und Bauordnung
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Siegsdorfer Str. 15 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Hansjakobstr. 53a - Neubau einer Wohnanlage mit 60 WE, anteilig öffentlich gefördert (MMM) mit zugehörigen Stellplätzen in einer Tiefgarage - mit Mobilitätskonzept - vertagt aus der Plenumssitzung vom 16.12.2025 -
+- TOP 3.1.3.: Dornbergstr. 7 - Aufstockung bestehender Wohngebäude mit Wohnungen Anbau Aufzug und Terrassen
+- TOP 3.1.4.: Übernahme eines Taubenhauses: Einrichtung eines betreuten Taubenschlags in der Nähe des Behrparks
+- TOP 3.1.5.: Taubensituation am Marktplatz an der Baumkirchner Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Baumkirchner Str. 12 - 1 digitale Werbeanlage für Fremdwerbung mit Bedarfsinfo. der Stadtinfo., als Wandanlage, einseitig, im 10-Sek.-Takt, die Leistungsstufe gemäß LAI beträgt am Tag 8 %, Nacht 4 %
+- TOP 3.2.2.: Erhöhung der Verkehrssicherheit an der Kreuzung Kreillerstraße / St.-Veit-Straße; Antrag des BA 14
+- TOP 3.2.3.: Überholverbot von Radfahrern in der St.-Veit-Straße zwischen Kreiller- und Josephsburgstr.; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.4.: Verbesserung der nächtlichen Sicherheit im ÖPNV - insbesondere für junge Frauen und Jugendliche; Antrag der CSU-Fraktion
+- TOP 3.2.5.: Stromausfallvorsorge im Stadtbezirk Berg am Laim – Sachstandsanfrage zu Anlaufstellen und Lehren aus dem Stromausfall 2021; Antrag der CSU-Fraktion
+- TOP 3.2.6.: Aufstellung des Verkehrszeichens 136 „Kinder“ an Beginn der Vinzenz-von-Paul-Str.; Antrag der Grünen-Fraktion
+- TOP 3.2.7.: Stark ermäßigtes Deutschlandticket für Menschen mit geringem Einkommen; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Frauenhaus in Berg am Laim; Antrag der Grünen-Fraktion
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Verein zur Förderung des Michaeli-Gymnasiums München Miteinander statt nebeneinander auf dem Pausenhof: Politik in Bewegung von November 2025 - Juni 2026 2.000,00 €; Az. 0262.0-14-0481
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hansjakobstr. 53a - vertagt aus der Plenumssitzung vom 16.12.2025 -
+- TOP 3.6.2.: Siegsdorfer Str. 15
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Dezember 2025
+- TOP 4.1.2.: Trinkgelegenheiten für Wildtiere auf versiegelten Flächen im Stadtteil Berg am Laim
+- TOP 4.1.3.: Sitzgelegenheit an der Echardinger Kapelle wieder errichten
+- TOP 4.1.4.: Fortschreibung der Fachleitlinie Ökologie: Die Fachleitlinie Klima, Umwelt und globale Verantwortung, Vorstellung und Vorbereitung Öffentlichkeitsphase und Leitprojekte
+- TOP 4.1.5.: Vogelschutz an Glasflächen städtischer Gebäude im Stadtbezirk Berg am Laim
+- TOP 4.1.6.: Regelmäßige Prüfung des Zustands des Baudenkmals in der Baumkirchner Str. 1
+- TOP 4.1.7.: Aufstellung von speziellen Mülleimern für Zigarettenstummel und Kronkorken an Treffpunkten im Stadtbezirk Berg am Laim
+- TOP 4.1.8.: Mähen öffentlicher Grünanlagen nur bis Ende September
+- TOP 4.1.9.: Perspektive München - Leitlinie Freiraum Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung Anträge und Empfehlungen
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Parken und Stellplatzablösemittel: Zahlen darstellen
+- TOP 4.2.2.: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP 4.2.3.: Dringlichkeitsantrag: Bei Ampelerneuerung an der Kreuzung Bad-Schachener-Str./Innsbrucker Ring zusätzliche Fahrspur wieder in Betrieb nehmen und Stau reduzieren
+- TOP 4.2.4.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage am Standort Annabrunner Str. 4
+- TOP 4.2.5.: Netz für sicheres Radfahren im Grünen in Berg am Laim (Standard IR V)
+- TOP 4.2.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für nächtliche Reinigungsarbeiten
+- TOP 4.2.7.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 4.2.8.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Halserspitzstr. 20
+- TOP 4.2.9.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2024-2028
+- TOP 4.2.10.: 2. Stammstrecke, 13. Planänderung PFA 3 Ost, Herstellung von Omnibushaltestellen in der Haager Straße
+- TOP 4.2.11.: Information über baustellenbedingte Fahrplan- und Linienwegsänderungen auf den Linien U3, U4, U5 und U6 aufgrund von Schienenwechsel
+- TOP 4.2.12.: Information über Änderungen bei Baumaßnahmen auf den U-Bahnlinien U1 und U2 im Frühjahr 2026
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Antrag zur Durchführung eines Hoodtrainings ab Sommer 2026
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Haushaltsbeschluss 2026; Stadtbezirksbudgets für 2026
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Baumpflanzungsmaßnahmen in den Grünanlagen BA 14
+- TOP 4.6.2.: Josephsburgstr. 55 - 55 b
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Unterstützung der Hallo-Redaktion
+- TOP 2.4.: (E) + (U) Automatische Rückerstattung unzulässiger Heizkosten für alle betroffenen Mieter*innen bei der München Wohnen Empfehlung
