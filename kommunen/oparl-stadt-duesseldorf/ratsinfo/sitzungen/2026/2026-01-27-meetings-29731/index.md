@@ -1,0 +1,53 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-01-27T17:00:00+01:00
+- Ende: 2026-01-27T18:22:00+01:00
+- Ort: Sitzungssaal Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29731
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29731
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574629.pdf
+- Ergebnisprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574629.pdf
+- Wortprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574629.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Projekt „(Teil-) Umbau der Bezirkssportanlage Garath“ - energetische Sanierung der beiden Umkleidegebäude, Umwandlung des Tennenplatzes in einen Naturrasenplatz - Empfehlung einstimmig beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Haushalt
+- TOP 5.1: Haushaltsantrag: Finanzierung von Schulwegesicherungsmaßnahmen im Haushalt 2026, hier: Fußgängerüberweg Carlo-Schmid-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.2: Haushaltsantrag für das Jahr 2026: Planungsmittel Kreisverkehre - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Sporthalle in Düsseldorf-Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Fehlende Einsehbarkeit und Sicherheitsrisiken am städtischen Fußball- und SpielplatzKoblenzer Straße / Reinhold-Schneider-Straße - Anfrage der AfD-Fraktion - - vertagt
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Quartiersplatz in Hellerhof-West - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 7.5: Verkehrssicherungspflicht für S-Bahnhof Hellerhof - Anfrage der SPD-Fraktion - - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Rückschnitt des Grünzuges oberhalb der Brücke Frankfurter Straße-Fritz-Erler-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8.2: Schulwegsicherung im Bereich Rostocker Straße / Stettiner Straße / Stralsunder Straße - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 8.3: Dringliche Ausbesserungen von Fahrbahnschäden - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Abschluss Taubenvergrämung und -umsiedlung in Hellerhof - Informationsvorlage zum Beschluss BV10/209/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 9.2: Neue Saugreiniger und Mülleimer mit Öffnung in Pizzakartongröße auch in Hellerhof einsetzen - Informationsvorlage zum Beschluss BV10/211/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 9.3: Kreuzungssituation in Hellerhof-Ost - Informationsvorlage zum Beschluss BV10/212/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 9.4: Einladung Amt für Verkehrsmanagement - Informationsvorlage zum Beschluss BV10/210/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 9.5: Prüfung der Ampelschaltung bei Ausfahrt eines Fahrzeuges aus dem Wachgelände der Feuerwehr der Wache 6 (Garath) - Informationsvorlage zum Beschluss BV10/200/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 9.6: Willkommenstasche auch für Hellerhofer Neubürger*innen - Informationsvorlage zum Beschluss BV10/213/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 9.7: Prüfung der Stationierung eines Löschfahrzeuges der Freiwilligen Feuerwehr der Wache 6 (Garath) außerhalb des Wachgeländes - Informationsvorlage zum Beschluss BV10/201/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 10: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10.1: Stellungnahme zur Anfrage des Kinderparlamentes Garath vom 05.11.2025 - Sicherer Schulweg - Wunsch nach Zebrastreifen an der Güstrower Straße und der Stettiner Straße sowie Übergang zur Fußgängerbrücke bei der Apollonia - - zur Kenntnis genommen
+- TOP 11: Verschiedenes
