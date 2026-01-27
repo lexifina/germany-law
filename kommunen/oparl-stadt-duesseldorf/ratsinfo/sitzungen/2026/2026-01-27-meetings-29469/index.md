@@ -1,0 +1,70 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-01-27T17:00:00+01:00
+- Ende: 2026-01-27T21:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29469
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29469
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574035.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574035.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574035.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Parksituation Mitsubishi Electric Halle (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5: Projektergebnisse Fit in Oberbilk (mdl. Bericht) - zur Kenntnis genommen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Bilker Allee 82 – Neubau eines Wohngebäudes und Erweiterung von 4 Wohnungen im Haupthaus - mehrheitlich beschlossen
+- TOP 6.7: Bebauungsplan-Entwurf Nr. 03/031 - Nördlich Stromstraße (Landtagserweiterung) - mehrheitlich beschlossen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Plan Nr. 03/49 - Soziale Erhaltungssatzung Bilk-Mitte - Evaluation - einstimmig beschlossen
+- TOP 7: Verwaltungsvorlagen und -berichte
+- TOP 7.1: Radverkehrsführung Neusser Straße im Abschnitt Düsselstraße / Martinstraße - abweichend beschlossen
+- TOP 7.2: Moskauer Straße / Readinger Straße - 2-streifiger Ausbau der Planstraße Oberbilk - zur Kenntnis genommen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 9: Beratung Haushaltsentwurf 2026 mit Anlagen - Entwurf des bezirksbezogenen Haushaltsansatz 2026 für den Stadtbezirk 3 - einstimmig beschlossen
+- TOP 9.1: Haushalt 2026 - Verwendung der bezirksbezogenen Haushaltsmittel 2026 (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD/VOLT) - einstimmig beschlossen
+- TOP 9.2: Haushalt 2026: Kirchfeldstraße als Fahrradstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD/VOLT) - einstimmig beschlossen
+- TOP 9.3: Haushalt 2026: Umbau Karolingerplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD/VOLT) - einstimmig beschlossen
+- TOP 9.4: Haushalt 2026: Aufwertung Platz Bachstraße/Bilker Allee (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD/VOLT) - einstimmig beschlossen
+- TOP 9.5: Haushalt 2026: Mintropplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD/VOLT) - einstimmig beschlossen
+- TOP 9.6: Haushalt 2026: Abenteuerspielplatz im Stadtbezirk 3 (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD/Volt) - einstimmig beschlossen
+- TOP 9.7: Haushalt 2026: Kreuzung Völklinger Straße/Fährstraße (Antrag CDU Fraktion) - mehrheitlich beschlossen
+- TOP 10: Anfragen
+- TOP 10.1: Anfragen aus vorherigen Sitzungen
+- TOP 10.1.1: Schulwegsicherheit Moorenstr./Witzelstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 10.1.2: Freigabe von Zweirichtungsradverkehr in der Wilhelm-Tell-Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 10.1.3: Stellplatzablöse im Stadtbezirk 3 (Anfrage SPD/Volt) - vertagt
+- TOP 10.2: Aktuelle Anfragen
+- TOP 10.2.1: Vermüllung der Straßen im Stadtbezirk (Anfrage Hr. Dr. Graeßner BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 10.2.2: Wie weiter nach Workshop „Entwicklung Umfeld Bilker Bahnhof“? (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 10.2.3: Radweg auf der Friedrichstraße (Anfrage SPD/VOLT) - vertagt
+- TOP 10.2.4: Sachstand zur Ertüchtigung und Zukunft des Rohbau Bilker Allee 233 „Bilkster“, ehemals Brause (Anfrage DIE LINKE) - zur Kenntnis genommen
+- TOP 11: Anträge
+- TOP 11.1: Verbesserung der Querung Volksgartenstr./Oberbilker Allee für Radfahrende (Antrag BÜNDNIS 90/DIE GRÜNEN) - abweichend beschlossen
+- TOP 11.2: Weiterentwicklung der Verkehrssicherheit und Neuplanung eines umfassenden Verkehrskonzepts im Bereich Fährstraße – Sparta Bilk – Aderkirchweg – Völklinger Straße (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD/VOLT) - einstimmig beschlossen
+- TOP 11.3: Prüfung Verbesserung Spielplatz Kölner Straße inkl. Beleuchtung (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD/VOLT) - einstimmig beschlossen
+- TOP 11.4: Aufstellung weiterer Radabstellanlagen und Bänke im Stadtbezirk (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD/VOLT) - abweichend beschlossen
+- TOP 11.5: Prüfung Verbesserung Schulwegsicherheit Wim-Wenders-Gymnasium, Gangelplatz/Oberbilker Allee (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD/VOLT) - einstimmig beschlossen
+- TOP 11.6: Ausbau Querung Volmerswerther Str./Südring für Radfahrende (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD/VOLT) - einstimmig beschlossen
+- TOP 11.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.8: Aufstellung von Pollern zur Abbindung des Aderkirchwegs zum Südring in Richtung Neuss als priorisierte Maßnahme (Antrag DIE LINKE) - abweichend beschlossen
+- TOP 11.9: Errichtung eines Fußgängerweges zwischen Varnhagenstraße und Erna-Eckstein-Straße (Antrag DIE LINKE) - mehrheitlich beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Prüfauftrag Verbesserung Anschluss Gurkenland - zur Kenntnis genommen
+- TOP 12.2: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 12.3: Mitteilung der Verwaltung zum Sachstand zur Fahrradstraße Düsselstraße-Kirchfeldstraße-Remscheider Straße - zur Kenntnis genommen
+- TOP 13: Mitteilungen des Bezirksbürgermeisters
