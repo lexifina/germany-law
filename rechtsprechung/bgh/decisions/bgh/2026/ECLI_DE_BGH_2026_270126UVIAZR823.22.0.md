@@ -1,0 +1,59 @@
+---
+ecli: "ECLI:DE:BGH:2026:270126UVIAZR823.22.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "VIa ZR 823/22"
+decided: "2026-01-27"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE701852026.xml"
+neuris_doknr: "KORE701852026"
+---
+
+# Bundesgerichtshof, VIa ZR 823/22 vom 2026-01-27
+
+## Tenor
+
+Auf die Revision des Klägers wird das Urteil des 29. Zivilsenats des Oberlandesgerichts Frankfurt am Main vom 25. Mai 2022 im Kostenpunkt und insoweit aufgehoben, als die Berufung des Klägers betreffend seine deliktische Schädigung durch das Inverkehrbringen des erworbenen Fahrzeugs mit dem Antrag zu 1 auch in Höhe von 44.657,58 € und den weiter begehrten Beträgen in Höhe von 952 € und 69 € (jeweils nebst Zinsen seit dem 21. Februar 2019) sowie mit dem Antrag zu 3 zurückgewiesen worden ist.
+
+Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.
+
+Der Streitwert für das Revisionsverfahren wird auf bis 50.000 € festgesetzt.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Der Kläger nimmt die Beklagte wegen der Verwendung unzulässiger Abschalteinrichtungen in einem Kraftfahrzeug auf Schadensersatz in Anspruch. Er erwarb aufgrund einer Bestellung von November 2017 bei der Beklagten einen Mercedes-Benz V-Klasse 250d ED/L als Vorführwagen, der mit einem Dieselmotor des Typs OM 651 (Schadstoffklasse Euro 6) ausgestattet ist. Zudem erwarb er Anfang 2018 Zubehör zu diesem Fahrzeug.
+
+2 Das Landgericht hat die im Wesentlichen auf Rückabwicklung des Kaufvertrags gerichtete Klage abgewiesen. Die Berufung, mit der der Kläger die Erstattung des für das Fahrzeug und das Zubehör gezahlten Kaufpreises nebst Zinsen jeweils Zug um Zug gegen Übereignung des Fahrzeugs (Berufungsantrag zu 1), die Feststellung des Annahmeverzugs der Beklagten (Berufungsantrag zu 2) sowie die Zahlung vorgerichtlicher Rechtsverfolgungskosten nebst Zinsen (Berufungsantrag zu 3) begehrt hat, ist ohne Erfolg geblieben. Mit seiner vom Senat im tenorierten Umfang zugelassenen Revision verfolgt der Kläger seine Berufungsanträge insoweit weiter.
+
+## Entscheidungsgründe
+
+3 Die Revision des Klägers hat Erfolg.
+
+I.
+
+4 Das Berufungsgericht hat seine Entscheidung - soweit für das Revisionsverfahren von Bedeutung - im Wesentlichen wie folgt begründet:
+
+5 Ein Anspruch aus § 826 BGB bestehe nicht. Allein aus einer etwaigen Gesetzeswidrigkeit des im Fahrzeug verbauten sog. Thermofensters oder der vom Kläger vorgetragenen AdBlue-Dosierung im SCR-Katalysator folge noch keine Sittenwidrigkeit; weitere Umstände, die den Einsatz einer solchen Steuerungssoftware als besonders verwerflich erscheinen ließen, lägen nicht vor.
+
+6 Ein Anspruch aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV scheitere daran, dass das Interesse des Fahrzeugkäufers, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich der letztgenannten Vorschriften oder des Art. 5 der Verordnung (EG) Nr. 715/2007 liege.
+
+II.
+
+7 Diese Erwägungen halten der Überprüfung im Revisionsverfahren teilweise nicht stand.
+
+8 1. Es begegnet keinen revisionsrechtlichen Bedenken, dass das Berufungsgericht eine Haftung der Beklagten aus §§ 826, 31 BGB verneint hat. Die Revision erhebt insoweit auch keine konkreten Einwände.
+
+9 2. Die Revision wendet sich jedoch mit Erfolg dagegen, dass das Berufungsgericht eine Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV aus Rechtsgründen abgelehnt hat. Wie der Senat nach Erlass des angefochtenen Urteils entschieden hat, sind die Bestimmungen der § 6 Abs. 1, § 27 Abs. 1 EG-FGV Schutzgesetze im Sinne des § 823 Abs. 2 BGB, die das Interesse des Fahrzeugkäufers gegenüber dem Fahrzeughersteller wahren, nicht durch den Kaufvertragsabschluss eine Vermögenseinbuße im Sinne der Differenzhypothese zu erleiden, weil das Fahrzeug entgegen der Übereinstimmungsbescheinigung eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 aufweist (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 29 bis 32).
+
+10 Das Berufungsgericht hat daher zwar im Ergebnis zu Recht einen Anspruch des Klägers auf die Gewährung sogenannten "großen" Schadensersatzes verneint (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 22 bis 27). Es hat jedoch nicht berücksichtigt, dass dem Kläger nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV ein Anspruch auf Ersatz eines erlittenen Differenzschadens zustehen kann (vgl. BGH, Urteil vom 26. Juni 2023, aaO Rn. 28 bis 32; ebenso BGH, Urteile vom 20. Juli 2023 - III ZR 267/20, WM 2023, 1839 Rn. 21 ff.; - III ZR 303/20, juris Rn. 16 f.; Urteil vom 12. Oktober 2023 - VII ZR 412/21, juris Rn. 20). Demzufolge hat das Berufungsgericht - von seinem Rechtsstandpunkt aus folgerichtig - weder dem Kläger Gelegenheit zur Darlegung eines solchen Schadens gegeben, noch hat es Feststellungen zu einer deliktischen Haftung der Beklagten wegen des zumindest fahrlässigen Einbaus einer unzulässigen Abschalteinrichtung getroffen.
+
+III.
+
+11 Die angefochtene Entscheidung ist im tenorierten Umfang aufzuheben, § 562 Abs. 1 ZPO, weil sie sich insoweit nicht aus anderen Gründen als richtig darstellt, § 561 ZPO. Der Senat kann nicht in der Sache selbst entscheiden, weil diese nicht zur Endentscheidung reif ist, § 563 Abs. 3 ZPO. Sie ist daher im Umfang der Aufhebung zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen, § 563 Abs. 1 Satz 1 ZPO.
+
+12 Das Berufungsgericht wird auf der Grundlage der mit Urteil des Senats vom 26. Juni 2023 in der Sache VIa ZR 335/21 aufgestellten Grundsätze die erforderlichen Feststellungen zu einer Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV zu treffen haben, nachdem es dem Kläger Gelegenheit gegeben hat, den Differenzschaden zu berechnen und dazu vorzutragen.
+
+C. Fischer Messing F. Schmidt
+
+Tausch Pastohr
