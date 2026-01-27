@@ -1,0 +1,52 @@
+# öffentliche Sitzung des Ausschusses für Mobilität und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-01-27T17:00:00+01:00
+- Ende: 2026-01-27T18:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7483
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7483
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=610911
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - liegt nicht vor - vertagt
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Erschütterungstest beenden: Radroute 4 in Frohnau ertüchtigen - im Ausschuss abgelehnt
+- TOP 3.2: Parken in der Avenue Jean Mermoz in Tegel - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Absolutes Haltverbot für LKW in einem Teilbereich der Gotthardstraße - im Ausschuss abgelehnt
+- TOP 3.4: Verbesserung der Situation im Bereich Breitenbachstraße - Soltauer Straße / ehemalige Gartenpachtflächen - vertagt
+- TOP 3.5: Fahrradständer in Alt-Tegel errichten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.6: Kopfsteinpflaster abfräsen statt asphaltieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.7: Sicherheit an der Kreuzung Lindauer Allee/Aroser Allee erhöhen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Freigabe des Schmitzweges für den Radverkehr - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.9: Mehr Fahrradbügel an der Greenwichpromenade - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.10: Nimrodstraße sanieren - im Ausschuss abgelehnt
+- TOP 3.11: Neugestaltung der Kreuzung "Im Saatwinkel/Maienwerderweg" in Saatwinkel I - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.12: Neugestaltung der Kreuzung "Im Saatwinkel/Maienwerderweg" in Saatwinkel II - im Ausschuss abgelehnt
+- TOP 3.13: Neuaufteilung und städtebauliche Integration der Berliner Straße - im Ausschuss abgelehnt
+- TOP 3.14: Reinigung der Fahrradabstellanlagen und Entfernung defekter Fahrräder am S-Bahnhof Wittenau - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.15: Querungshilfe Reinickendorf-Ost II - vertagt
+- TOP 3.16: Austausch des Verkehrszeichen 136 StVO gegen 238 StVO in Alt-Lübars - vertagt
+- TOP 3.17: Ampel-Countdown für Reinickendorf - vertagt
+- TOP 3.18: Unterbrochener Schlaf in Reinickendorf und darüber hinaus - vertagt
+- TOP 3.19: Übergang über die Seidelstraße an der Kreuzung Allee St. Exupery/Otisstraße schaffen - vertagt
+- TOP 3.20: Verkehrssicherheit im Zabel-Krüger-Damm verbessern - vertagt
+- TOP 3.21: Größere lichte Höhen für neue Bahnbrücken über die Klemkestraße - vertagt
+- TOP 3.22: Mehr P+R-Parkplätze an den Umlandsbahnhöfen im Norden schaffen! - vertagt
+- TOP 3.23: BVG setzt auf mehr Sicherheit - auch für Reinickendorf! Führungen für besonders Schutzbedürftige - vertagt
+- TOP 3.24: Lärmblitzer auch für Reinickendorf - der frühe Vogel ...! - vertagt
+- TOP 3.25: Durchgängiges Tempo 30 zwischen 22 und 6 Uhr auf der Bernauer Straße als Lärmschutz für Anwohner in Tegel-Süd - vertagt
+- TOP 3.26: Sanierung und sichere Gestaltung von Rad- und Gehwegen entlang der Roedernallee - vertagt
+- TOP 3.27: Fußgänger und Fahrradfahrer schützen - vertagt
+- TOP 3.28: Freie Fahrt nach 22.00 Uhr - vertagt
+- TOP 3.29: Baumaudit: Ollenhauerstraße - vertagt
+- TOP 3.30: Baumaudit als Planungsvorgabe - vertagt
+- TOP 3.31: Verbesserte Einsichtnahme am Borsigdamm - vertagt
+- TOP 3.32: Ki in der Straßenunterhaltung im Land Berlin einsetzen - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
