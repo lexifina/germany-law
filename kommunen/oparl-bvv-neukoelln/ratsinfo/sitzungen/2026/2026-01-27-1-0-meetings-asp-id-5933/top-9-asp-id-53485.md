@@ -1,0 +1,7 @@
+# TOP 9: Bebauungsplan 8-100 "Hochspannungsweg / Ortolanweg“ - Planinhaltsänderung
+
+- Sitzung: 41. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2026-01-27)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=53485
+- Ergebnis: erledigt
