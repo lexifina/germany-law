@@ -1,0 +1,67 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-01-27T16:00:00+01:00
+- Ende: 2026-01-27T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29633
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29633
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574549.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574549.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574549.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/007/2025 vom 02.12.2025 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Genehmigung, Neanderstraße 16 – Vollständige Beseitigung eines 2-geschossigen Wohn- und Geschäftshauses - einstimmig beschlossen
+- TOP 4.2: Abbruchantrag, Hoffeldstraße 43 – Abbruch des vorhandenen Wohn- und Geschäftshauses - mehrheitlich abgelehnt
+- TOP 4.3: Verwendung von Haushaltsmittel 2026; hier: Projekt Spurensuche(n): Der Stadtbezirk 2 im Nationalsozialismus - einstimmig beschlossen
+- TOP 4.4: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag Brehmschule für das Gewaltpräventionsprojekt „Mein Körper gehört mir“ - einstimmig beschlossen
+- TOP 4.5: Verwendung von Haushaltsmitteln; hier: Instandsetzung und Renovierung des Vereingebäudes des Schützenvereins Flingern - einstimmig beschlossen
+- TOP 4.6: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für das Kiefernstraßenfest 2026 - mehrheitlich beschlossen
+- TOP 4.7: Bezirkssportanlage Windscheidstraße - Teilerneuerung des Kunststoffrasenbelags - einstimmig beschlossen
+- TOP 5: Haushaltsplanentwurf 2026 - Bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 5.1: Hitzeschutz an öffentlichen Plätzen und Spielplätzen - Haushaltsbegleitantrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 5.2: Barrierefreier Ausbau des ÖPNV - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.3: Grünordnungsplan - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Prüfung und Umsetzung von Maßnahmen zur Verbesserung der Verkehrssicherheit an der Kreuzung Walter-Eucken-Straße / Metrostraße / Altenbergstraße - zurückgezogen
+- TOP 6.4: Optimierung Ampelschaltung für Fußgänger Kreuzung Kettwiger Str./Erkrather Str. - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 6.5: Sanierung und Modernisierung der Skateranlage im Stadtwerkepark - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.6: Querung Degerstraße - Antrag der Fraktion DIE LINKE - einstimmig beschlossen
+- TOP 6.7: Regelung des Radverkehrs an der Grunerstrasse/Ahnfeldstrasse Richtung Jülicher Brücke - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.8: Fußgängerüberquerung im Bereich Achenbachstraße / Schumannstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Schulwegsicherheit Grafental - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Barrierefreiheit am Bahnübergang Bruchstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfragen zur aktuellen Sitzung
+- TOP 8.1: Baustelle Bruchstraße – Ampelschaltung, Verkehrsbelastung und Dauer der Maßnahme - Anfrage der AFD-Fraktion - beantwortet
+- TOP 8.2: Öffentliche Trinkwasserbrunnen im Stadtbezirk 2 – Bestand, Kosten und weitere Planungen - Anfrage der AFD-Fraktion - beantwortet
+- TOP 8.3: Kinderspielplatz an der Neanderstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: ÖPNV Haltestelle Lindemannstraße Richtung Stadtmitte (auf der Höhe der Grafenberger Allee 140) - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Situation Bauvorhaben Cube Central 378 Erkrather Straße/Kiefernstraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Judenhäuser - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 8.10: Kinderclub - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13: Parkverbotsschilder auf der Holbeinstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8.14: Koordination von Sperrungen durch mehrere Baustellen - Anfrage der CDU-Fraktion - beantwortet
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Lärmschutzwände Buscher Mühle und Ahnfeldstraße - Beschluss der Bezirksvertretung 2 -: Vorlage BV2/119/2025 - zur Kenntnis genommen
+- TOP 9.2: Beleuchtung für den Parcours-Trainingsplatz an der Luise-Rainer-Straße nahe der Unterführung der Brücke Cranachstraße,- Beschluss der Bezirksvertretung 2; Vorlage BV2/183/2025 - zur Kenntnis genommen
+- TOP 9.3: Moskauer Straße / Readinger Straße - 2-streifiger Ausbau der Planstraße Oberbilk - zur Kenntnis genommen
