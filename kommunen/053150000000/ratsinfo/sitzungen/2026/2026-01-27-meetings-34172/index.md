@@ -1,0 +1,59 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-27T14:03:00+01:00
+- Ende: 2026-01-27T15:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34172
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34172
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zur Jugendberufshilfe in Köln
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Jugendhilfeplanung der Kindertagesbetreuung 2026/27 als Grundlage für die Beantragung von Landeszuschüssen nach § 24 KiBiz (Kinderbildungsgesetz) - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anwendung des § 55 Abs. 2, Satz 2 KiBiz für das Kitajahr 2026/27 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung und Sanierung Spielplatz Takufeld 1 - Subbelrather Straße in Ehrenfeld - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Gründung des Fachbeirates für Mädchenarbeit gemäß der Satzung für das Amt für Kinder, Jugend und Familie der Stadt Köln sowie Beschluss über die Geschäftsordnung - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Umsetzung des OGS-Rechtsanspruches - vertagt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: 85.000 fehlende Kita-Plätze in NRW: Wie steht es um Köln? - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP/KSG-Fraktion im Jugendhilfeausschuss am 27.01.2026 bezgl. TOP Ö 6.2.1 "85.000 fehlende Kita-Plätze in NRW: Wie steht es um Köln?" (AN/1463/2025) - Kenntnis genommen
+- TOP 6.2.2: KinderWillkommen-Besuche bei Neugeborenen - vertagt
+- TOP 6.2.3: Auswirkungen der Kita-Reform auf Köln - vertagt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - Halbjährliche Mitteilung - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 2. Halbjahr 2025 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Band 35 von "Digitale Spiele pädagogisch beurteilt" ist erschienen - Kenntnis genommen
+- TOP 8.4.2: Umwandlung der Jugendtreffs "Kindertreff im Mönchsfeld" und "Jugendtreff im Mönchsfeld" in Köln-Roggendorf/Thenhoven in eine Jugendeinrichtung - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Kampagne "Reden kann retten" - Kenntnis genommen
+- TOP 8.5.2: Sprach- und Integrationsmittlungspool für die Stadt Köln – bikup Jahresbericht 2024 - Kenntnis genommen
+- TOP 8.5.3: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 01/2026 - Kenntnis genommen
+- TOP 8.5.4: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2024 - Kenntnis genommen
+- TOP 8.5.5: Fonds Kubik Juryentscheid aus der KuK-Sondersitzung vom 02.07.2025 - Kenntnis genommen
