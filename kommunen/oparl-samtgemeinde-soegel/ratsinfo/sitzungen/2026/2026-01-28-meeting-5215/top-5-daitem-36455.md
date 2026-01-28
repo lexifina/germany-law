@@ -1,0 +1,7 @@
+# TOP 5.: Bericht der Verwaltung, Anfragen an die Verwaltung
+
+- Sitzung: Samtgemeinderat der Samtgemeinde Sögel (140. Sitzung) (2026-01-28)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/36455
+- Beschluss (Datei): Infotext (Bericht der Verwaltung, Anfragen an die Verwaltung) https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfM64uVlTwkx004Jx7fhvx0Zt-hB4kC-GUvl07irgklx/Infotext_TOP_5._-oeffentlich-_Samtgemeinderat_der_Samtgemeinde_Soegel_28.01.2026.pdf
