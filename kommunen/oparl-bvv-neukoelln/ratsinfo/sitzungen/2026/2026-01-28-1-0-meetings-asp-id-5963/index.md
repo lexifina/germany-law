@@ -1,0 +1,106 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2026-01-28T17:00:00+01:00
+- Ende: 2026-01-28T22:55:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5963
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5963
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Aktuelle halbe Stunde - erledigt
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - erledigt
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Neukölln braucht gute Arbeit: Solidarität mit den Beschäftigten im Bezirksamt, an den Schulen und bei den Vivantes-Tochterunternehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Linksextremismus beim Namen nennen: Gegen die Verharmlosung von Ökoterrorismus und für einen besseren Schutz der Bevölkerung auch in Neukölln - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Fortschreibung der Zielvereinbarung zur gesamtstädtischen Steuerung der Sauberkeit und Ordnung im öffentlichen Raum (ZV 4 2026/2027) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9: Vorlagen zur Wahl - erledigt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Pauschale Minderausgaben - beantwortet
+- TOP 10.2: Abenteuerspielplatz Wildhüterweg - beantwortet
+- TOP 10.3: Untragbarer Zustand der Schule am Bienwaldring - wie lange noch? - schriftlich beantwortet
+- TOP 10.4: Rechtskosten im Fall Saalestraße 17-18 - beantwortet
+- TOP 10.5: Schneelast legt Schul- und Vereinssport lahm – marode Turnhallen in Neukölln als Dauerproblem - beantwortet
+- TOP 10.6: Rutschgefahr vor bezirklichen Grundstücken - beantwortet
+- TOP 10.7: Schneechaos und Glatteis - beantwortet
+- TOP 10.8: Wann kommt endlich der Energiebericht für Neukölln? - beantwortet
+- TOP 10.9: 16i-Stellen für MoRo Seniorenwohnanlagen e.V. - beantwortet
+- TOP 10.10: Katastrophenschutz in Neukölln - beantwortet
+- TOP 10.11: Entfaltete Aktivitäten zur Müllproblematik in Neukölln und speziell im Körnerkiez - schriftlich beantwortet
+- TOP 10.12: Was wäre, wenn... - schriftlich beantwortet
+- TOP 10.13: Wann kommt das Rathaus-WLAN für Bezirksamt, Bezirksverordnete und Besucher*innen? - schriftlich beantwortet
+- TOP 10.14: Loses Asbest im Rollberg - schriftlich beantwortet
+- TOP 10.15: Making of... Wahlkampf in Schulen - schriftlich beantwortet
+- TOP 10.16: Akteneinsicht – Bezirksamt im Verzug? - schriftlich beantwortet
+- TOP 10.17: ELNET Lobbyismus in Neukölln 2 - schriftlich beantwortet
+- TOP 10.18: Mietwucher - aktueller Stand der Verfahren - schriftlich beantwortet
+- TOP 10.19: Einhaltung der Beantwortungsfristen bei Kleinen Anfragen in der BVV Neukölln - schriftlich beantwortet
+- TOP 10.20: Schwimmunterricht an der Schilling-Schule - schriftlich beantwortet
+- TOP 10.21: Doch kein Verkauf des Gesundheitszentrum Gropiusstadt? - schriftlich beantwortet
+- TOP 10.22: Wie sieht die Zukunft der Rixdorfer Schmiede aus? - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Sitzmöglichkeiten vor dem Bürgerzentrum Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Fahrbahnmarkierung auf der Fulhamer Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Dauer-Überschwemmung an Bushaltestelle Harzer Straße/Elsenstraße beheben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Sportstättensanierung - Bundesmittel nutzen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - erledigt
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Situation in der Unterkunft Saalestraße – Unterbringung, Betreiberwechsel und Perspektiven für die Bewohner:innen - beantwortet
+- TOP 13.2: Strukturelle Probleme in der ASOG-Unterbringung? - beantwortet
+- TOP 13.3: Vorbereitung des Bezirksamts Neukölln auf den Jahreswechsel 2025/2026 - schriftlich beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Vergabe von Fahrzeugstellplätzen in bezirklichen Liegenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Stärkung der Fachberatungsstellen und präventiven Arbeit gegen Zwangsverheiratung in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Wahlen zur Seniorenvertretung - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Stolperfalle Lipschitzplatz grundhaft beseitigen - in der BVV abgelehnt
+- TOP 14.5: Anti-israelische Schmierereien entfernen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Behindertenparkplätze Lipschitzallee - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Ehrenamt in der Jugend- und Familienhilfe stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Auskömmliche Finanzierung der Zweckentfremdung u.a. Verfolgung von Mietpreisüberhöhung - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Maßnahmen zur Entlastung der Anwohnerschaft vom Parkdruck rund um das Vivantes Klinikum Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Abreißzettel "Hilfetelefon Gewalt gegen Frauen" in Toiletten in bezirklichen Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Bordsteinabsenkung an der Kreuzung Hermannplatz/Sonnenallee - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Keine Kürzungen und Qualitätsverschlechterungen in den Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Einrichten von Parkzonen für Leihräder und E-Roller in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Jugendverkehrsschule Wörnitzweg fit für die Zukunft machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Jugendverkehrsschule: Sonnenschutz und Energiegewinnung - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Keine Profitmacherei mit Obdachlosigkeit: Eigene Unterkünfte schaffen! - in der BVV abgelehnt
+- TOP 14.17: Leinwand im Kulturstall - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Für mehr Sicherheit und kurze Wege auf der Sonnenallee: Fußverkehrs-Furten in Ordnung bringen - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Schulwegsicherung Waßmannsdorfer Chaussee/Eichenauer Weg verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Barrierefrei statt blockiert; Gehweg Elly-Heuss-Knapp-Str. für Fußgänger - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Sicherheitsmängel bekannt, Verantwortung vertagt? - beantwortet
+- TOP 15.2: Wie ist Neukölln im Katastrophenfall aufgestellt? - beantwortet
+- TOP 15.3: Katastrophenschutz in Neukölln - wie bekannt sind Leuchttürme und Krisendienste? - beantwortet
+- TOP 15.4: Keine Konsequenzen aus den Falschbehauptungen der Integrationsbeauftragten? - vertagt
+- TOP 15.5: Neukölln im Katastrophen- und Krisenschutz - vertagt
+- TOP 15.6: Maßstäbe des Bezirksamts Neukölln im Umgang mit islamistischen und antisemitischen Inhalten durch Bedienstete und Mitglieder des Bezirksamts - vertagt
+- TOP 15.7: Abenteuerspielplatz Wildhüterweg - vertagt
+- TOP 15.8: Wer war zur Eröffnung des Leonardo-da-Vinci-Gymnasiums eingeladen? - schriftlich beantwortet
+- TOP 15.9: Wie will Neukölln die Mittel aus dem Sondervermögen für Infrastruktur und Klimaneutralität nutzen? - vertagt
+- TOP 15.10: Photovoltaik auf bezirklichen Liegenschaften – Wirtschaftlichkeit und Verwaltungspraxis - vertagt
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Absolutes Halteverbot - überwiesen
+- TOP 17.2: Gedenken an die im Dienst verstorbenen Feuerwehrleute Klaus-Dieter Riedel und Frank Evers - überwiesen
+- TOP 17.3: Verbesserung der Verkehrssicherheit auf der Waßmannsdorfer Chaussee! - überwiesen
+- TOP 17.4: 50 Jahre demokratische arabische Republik Sahara: Flagge hissen am 27.02.2026 - überwiesen
+- TOP 17.5: Konsequente Durchsetzung des Gewerbe- und Ordnungsrechts bei wiederholten Verstößen in Shisha-Bars und Spätverkaufsstellen - überwiesen
+- TOP 17.6: Zeitweise Aufhebung der Fahrradstraße Weserstraße in den Wintermonaten - überwiesen
+- TOP 17.7: Wiederaufbau des Abenteuerspielplatzes Wildhüterweg - überwiesen
+- TOP 17.8: Endlich Transparenz zu fehlenden Schulplätzen herstellen - überwiesen
+- TOP 17.9: Ausweitung des Pilotprojekts zur Optimierung von Heizkreisen und Aufbau eines sich selbst verstärkenden Finanzierungskreislaufs für Energiesparmaßnahmen im Bezirk Neukölln - überwiesen
+- TOP 17.10: Abbiegesituation Eichenauer Weg - überwiesen
+- TOP 17.11: Die Investitionsplanung im Bildungsbereich transparent machen - überwiesen
