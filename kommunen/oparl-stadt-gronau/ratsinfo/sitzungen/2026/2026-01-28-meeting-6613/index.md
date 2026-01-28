@@ -1,0 +1,53 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2026-01-28T18:00:00+01:00
+- Ende: 2026-01-28T21:49:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRGqwC_q99-WJxXSrdPIptI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6613
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaFkR6DbNa-YYLxNdwnM_Xe9iIdfIbw005B_wRgNhAgr/Bekanntmachung_Rat_28.01.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVZMDFuko1Bz4XVvvpvJbtQo55xQP2VxlM4sft05rfIx/Oeffentliche_Niederschrift_Rat_28.01.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: LKW-Durchfahrverbot Gronauer Straße (Frage der Einwohnerin Gabi Drees)
+- TOP 2.2: Naturdenkmäler (Frage des Einwohners Udo Buchholz)
+- TOP 2.3: Persönlicher Konflikt mit einer Personengruppe / Baumbeschnitt / Stadtlogo (Fragen des Einwohners Frank Kirste)
+- TOP 3.: Niederschrift vom 17.12.2025
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Gesundheitszentrum Gronau - Ergebnisse der Leistungsphase 3 - 50 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 6.: Kommunale Beteiligung an einem Medizinischen Versorgungszentrum - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erhöhung der Parkgebühren am Dreiländersee
+- TOP 7.1: Erhöhung der Parkgebühren am Dreiländersee - 46 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 8.: Zukunft Baumwollexpress X80 - 32 Jastimmen, 14 Neinstimmen, 6 Enthaltungen
+- TOP 9.: Künftige Unterbringung von Obdachlosen - Einstimmig, 6 Enthaltungen
+- TOP 10.: Dienstanweisung für das Kredit- und Schuldenmanagement und Kapitalanlagen der Stadt Gronau (Westf.)
+- TOP 11.: Anteilige Entschuldung der Stadt Gronau durch das Land NRW (Altschuldenentlastungsgesetz) NRW - Bewilligung des Landes NRW
+- TOP 12.: Besetzung von Ausschüssen und sonstigen Gremien
+- TOP 12.1: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 13.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 14.: Mitteilungen der Verwaltung
+- TOP 14.1: Fairtrade-Zertifizierung
+- TOP 14.2: Mitgliedschaft Stadtsportverband im Sportausschuss
+- TOP 14.3: Organisatorische Veränderungen - Büro des Bürgermeisters und Fachdienst 133
+- TOP 15.: Anfragen
+- TOP 15.1: Fotostationen im Rathaus-Service (Anfrage von RM Reinhoffer)
+- TOP 15.2: Auskömmlichkeit von Müllgefäßen (Anfrage von RM Reinhoffer)
+- TOP 15.3: Logo der Stadt Gronau an der Iltisstraße (Anfrage von RM Bohn)
+- TOP 15.4: Materialauswahl für Bürgersteige vor dem Hintergrund der Winterzeit (Anfrage von RM Bohn)
+- TOP 15.5: Überprüfung von EU-Arbeitnehmern, die SGB II-Leistungen beziehen (Anfrage von RM Hönerlage)
+- TOP 15.6: Vermüllung im Innenstadtbereich (Anfrage von RM Adamsky)
+- TOP 15.7: Berechnung des Müllvolumens für Monteurswohnungen (Anfrage von RM Doetkotte)
+- TOP 15.8: Grenzlinienvermaßung Markenfort (Anfrage von RM Akkaya)
+- TOP 15.9: Feuerwerk (Anfrage von RM Damken)
+- TOP 15.10: Feuerwerk (Anfrage von RM Stenau-van Wüllen)
+- TOP 15.11: Illegal abgestellte Fahrzeuge (Anfrage von RM Stenau-van Wüllen)
+- TOP 15.12: Hotelbetrieb Schürblick (Anfrage von RM Greitenevert)
+- TOP 15.13: Schließzeiten Sporthallen (Anfrage von RM Doetkotte)
