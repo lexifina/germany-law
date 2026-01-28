@@ -1,0 +1,53 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-01-28T17:00:00+01:00
+- Ende: 2026-01-28T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000437
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000437
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1497501&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 19.11.2025 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Bewerbung der Stadt Aachen um Olympische und Paralympische Spiele an Rhein und Ruhr für das Jahr 2036, 2040 oder 2044; Durchführung eines Ratsbürgerentscheides - ungeändert beschlossen
+- TOP 5: Änderung der Zuständigkeitsordnung - geändert beschlossen
+- TOP 6: Benehmensherstellung für die differenzierte Regionsumlage 2026 - ungeändert beschlossen
+- TOP 7: Jahresabschluss Eurogress Aachen 2024 - ungeändert beschlossen
+- TOP 8: Satzungsänderung des Eigenbetriebs Eurogress Aachen - ungeändert beschlossen
+- TOP 9: Korrigierende Anpassung der Betriebssatzung des Gebäudemanagements der Stadt Aachen an Änderungen der Gemeindeordnung und Eigenbetriebsverordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2024 - ungeändert beschlossen
+- TOP 11: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung ,,Oberflächenentwässerung‘‘ der Erschließungsanlage Pontstraße von Templergraben/Driescher Gässchen bis Haus Nr. 121/Pontdriesch 43 - ungeändert beschlossen
+- TOP 12: Beschluss über eine Veränderungssperre für das Grundstück Grindelweg Gemarkung Aachen, Flur 74, Flurstück 1498 im Stadtbezirk Aachen - Mitte - vertagt
+- TOP 13: Bebauungsplan Nr. 1015 - Liebigstraße / Metzgerstraße - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 GO NRW hier: Baumaßnahme Montessori-Zentrum Eilendorf - überplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 15: Benennung von Delegierten und Gästen für die Mitgliederversammlung 2026 des Städtetages Nordrhein-Westfalen bzw. für die Mitgliederversammlungen während der laufenden Wahlperiode des Rates - geändert beschlossen
+- TOP 16: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 16.1: Umbesetzung von Ausschüssen und anderen Gremien, hier: Entsendung der Mitglieder des Senior*innenrates der Stadt Aachen - ungeändert beschlossen
+- TOP 16.2: Umbesetzungsantrag der SPD-Fraktion vom 21.01.2026 - ungeändert beschlossen
+- TOP 16.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 21.01.2026 - ungeändert beschlossen
+- TOP 16.4: Umbesetzungsantrag der FDP-Ratsgruppe vom 20.01.2026 - ungeändert beschlossen
+- TOP 16.5: Umbesetzungsantrag der CDU-Fraktion vom 27.01.2026 - ungeändert beschlossen
+- TOP 16.6: Umbesetzungsantrag der CDU-Fraktion vom 28.01.2026 - ungeändert beschlossen
+- TOP 17: Anfragen
+- TOP 17.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 18: Ratsanträge - ungeändert beschlossen
+- TOP 19: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
