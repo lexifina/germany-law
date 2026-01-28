@@ -1,0 +1,109 @@
+# 4. Änderungssatzung zur Betriebssatzung der Stadt Aachen für die eigenbetriebsähnliche Einrichtung "Gebäudemanagement der Stadt Aachen"
+
+- Gemeinde: Stadt Aachen (ARS 053340002002)
+- Datum: 2026-01-28 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.aachen.de/in-aachen-leben/politik-und-verwaltung/stadtrecht/allgemeine-verwaltung-und-verfassung/satzung-e26-06-07-2026.pdf?cid=121h
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+4. Änderungssatzung zur Betriebssatzung der Stadt Aachen für die eigenbetriebsähnliche Einrichtung "Gebäudemanagement der Stadt Aachen" vom 16. Dezember 2003, geändert durch ersten Nachtrag vom 08.02.2005, geändert durch den zweiten Nachtrag vom 07.09.2005, geändert durch den dritten Nachtrag vom 04.12.2024
+Der Rat der Stadt Aachen hat in seiner Sitzung vom 28.01.2026 aufgrund der §§ 7, 41, 107 und § 114 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV NRW S. 666), zuletzt geändert durch Artikel 2 des Gesetzes vom 10. Juli 2025 (GV NRW S.444), in Verbindung mit der Eigenbetriebsverordnung für das Land Nordrhein-Westfalen (EigV0 NRW) in der Fassung vom 16. November 2004 (GV NRW S.644, 2005 S.15), zuletzt geändert durch Artikel 6 des Gesetzes vom 5. März 2024 (GV NRW S. 136), folgende 4. Änderungssatzung zur Betriebssatzung der Stadt Aachen für die eigenbetriebsähnliche Einrichtung Gebäudemanagement der Stadt Aachen vom 16.12.2003 beschlossen:
+§1 Name, Rechtsform, Rechtsgrundlagen
+(1) Die Einrichtung führt den Namen ,,Gebäudemanagement der Stadt Aachen". (2) Das Gebäudemanagement der Stadt Aachen wird als städtische Einrichtung ohne eigene Rechtspersönlichkeit
+gemäß § 107 Abs. 2 GO NW nach den Vorschriften der Gemeindeordnung und in entsprechender Anwendung der Vorschriften der Eigenbetriebsverordnung und gemäß dieser Betriebssatzung wie ein Eigenbetrieb geführt.
+§2 Gegenstand, Zweck der Einrichtung
+(1) Gegenstand und Zweck des Gebäudemanagements der Stadt Aachen einschließlich etwaiger Hilfs- und Nebenbetriebe ist die zentrale Bewirtschaftung von bebauten städtischen Liegenschaften wie Verwaltungsgebäuden, Schulen, Kindertagesstätten, Brunnenanlagen, Denkmälern und sonstigen Gebäuden, die der Stadt Aachen zur Erfüllung ihrer Aufgaben dienen, einschließlich dazugehörender Grünflächen.
+(2) Der Betriebszweck umfasst auch den Neubau und die Planung, die An- und Vermietung der in Abs. 1 genannten Liegenschaften, die Bewirtschaftung von Nebenflächen und Nebennutzungen sowie die Sicherstellung der infrastrukturellen Dienste (Zentrales Beschaffungsmanagement, Haus- und Postdienste, Reinigungsmanagement, Logistik) und alle den Betriebszweck fördernde Geschäfte.
+(3) Der Einrichtung können durch Ratsbeschluss weitere Aufgaben übertragen werden. (4) Zur Erfüllung ihrer Aufgaben kann sich die Einrichtung innerhalb wie außerhalb der Verwaltung der Stadt Aachen
+Dritter nach Maßgabe der ortsrechtlichen, insbesondere auch der verwaltungs-organisationsrechtlichen sowie der sonstigen gesetzlichen Bestimmungen, bedienen (5) Die von der Einrichtung nach Absatz zu bewirtschaftenden Objekte werden - soweit sie im Eigentum der Stadt Aachen stehen, nicht zum notwendigen Betriebsvermögen anderer Einrichtungen oder Betriebe gehören oder Wahrzeichen der Stadt Aachen sind (z.B. Rathaus) - im Sondervermögen der Einrichtung geführt. (6) Die Einrichtung stellt sicher, dass das von der Stadt Aachen eingebrachte Vermögen vorrangig zur Erfüllung des jeweils öffentlichen Zwecks, für den es eingebracht wurde, genutzt werden kann. Falls der öffentliche Zweck, für den es eingebracht wurde, dauerhaft entfällt oder wirtschaftlich anderweitig sichergestellt werden kann, entscheidet der Rat über den anderweitigen Einsatz oder die Verwertung des Vermögens oder der Vermögensgegenstände.
+1
+
+§3 Stammkapital
+Das Stammkapital der Einrichtung beträgt 1.000.000 Euro (in Worten: Eine Million Euro).
+§4 Betriebsleitung
+(1) Die Betriebsleitung besteht aus einem Technischen und einem Kaufmännischen Betriebsleiter. Zusätzlich können ständige Stellvertreter bestellt werden, die im Vertretungsfall die Rechte und Pflichten des vertretenen Betriebsleiters wahrnehmen. Die Bestellung erfolgt auf Vorschlag des jeweiligen Betriebsleiters durch den Rat der Stadt. Die Geschäftsverteilung und Vertretungsregelung innerhalb der Betriebsleitung regelt der Oberbürgermeister mit Zustimmung des Betriebsausschusses durch Dienstanweisung.
+(2) Die Einrichtung wird von der Betriebsleitung selbständig und eigenverantwortlich geführt, soweit nicht durch gesetzliche Vorschriften, insbesondere durch die Gemeindeordnung, die Eigenbetriebsverordnung, die Hauptsatzung der Stadt Aachen, diese Satzung oder durch die Dienstanweisung für die Betriebsleitung etwas anderes bestimmt ist.
+(3) Der Betriebsleitung obliegt die laufende Betriebsführung einschließlich der Verfügung über das bewegliche Vermögen. Dazu gehören alle Maßnahmen, die zur Aufrechterhaltung der Einrichtung laufend notwendig sind, insbesondere Einsatz des Personals, Anordnung der notwendigen lnstandhaltungsarbeiten, Beschaffung von Roh-, Hilfs- und Betriebsstoffen sowie lnvestitionsgütern des laufenden Bedarfs und der Abschluss von Werkverträgen.
+(4) Die Betriebsleitung ist gemeinschaftlich für die ordnungsgemäße und wirtschaftliche Führung der Einrichtung verantwortlich.
+(5) Die Betriebsleitung nimmt bei Angelegenheiten der Einrichtung an den Sitzungen des Betriebsausschusses teil. Sie ist berechtigt und auf Verlangen des Betriebsausschusses verpflichtet, ihre Ansicht zu Beratungsgegenständen darzulegen. Die Dienstanweisung für die Betriebsleitung kann weitergehende Regelungen über die Teilnahme der Betriebsleitung an Sitzungen des Rates oder anderer Ausschüsse der Stadt Aachen sowie über deren Berichtspflicht treffen.
+(6) Glaubt die Betriebsleitung nach pflichtgemäßen Ermessen die Verantwortung für die Durchführung einer Weisung des Oberbürgermeisters nicht übernehmen zu können, und führt ein Hinweis auf entgegenstehende Bedenken der Betriebsleitung nicht zu einer Änderung der Weisung, so hat die Betriebsleitung sich unverzüglich an den Betriebsausschuss zu wenden. Wird keine Übereinstimmung zwischen dem Betriebsausschuss und dem Oberbürgermeister erzielt, ist die Entscheidung des Hauptausschusses herbeizuführen.
+§5 Betriebsausschuss
+(1) Auf der Grundlage der Gemeindeordnung für das Land Nordrhein-Westfalen, der Eigenbetriebsverordnung für das Land Nordrhein-Westfalen und der Hauptsatzung der Stadt Aachen bildet der Rat der Stadt für den Betrieb Gebäudemanagement einen besonderen „Betriebsausschuss Gebäudemanagement“.
+(2) Der Betriebsausschuss entscheidet in allen Angelegenheiten, die ihm durch die GO NW, die EigVO NW, die Hauptsatzung der Stadt Aachen, die Zuständigkeitsordnung der Stadt Aachen und durch diese Satzung übertragen sind. Hierzu gehören insbesondere a) Beratung der Wirtschaftsplanung und des Jahresabschlusses b) Benennung der Prüfer für den Jahresabschluss c) Zustimmung zu mietvertraglichen Verbindlichkeiten
+2
+
+— bei einer Jahresmiete (Kaltmiete und Nebenkosten) über 100.000,-- € oder — wenn die Vertragsdauer 10 Jahre übersteigt d) Zustimmung zu Planung und Neubau einschließlich Erweiterungsbau von Hochbauten, soweit es sich um Objekte im Sondervermögen der Einrichtung handelt und die Kosten 250.000,-- € überschreiten, sofern diese Maßnahmen nicht bereits im Wirtschaftsplan ohne besondere Vorbehalte beschlossen sind. Die in der Zuständigkeitsordnung festgelegten Entscheidungsbefugnisse der Ausschüsse des Rates der Stadt bleiben unberührt. e) Zustimmung zu sonstigen Geschäften, wenn der Wert im Einzelfall den Betrag von 250.000,-- € übersteigt; ausgenommen sind die Geschäfte der laufenden Betriebsführung und Angelegenheiten, die nach der GO NRW, der EigVO NRW oder dieser Satzung der Zuständigkeit des Rates vorbehalten sind. f) Vergaben von Bauleistungen nach der VOB unter Beachtung von § 31 der Hauptsatzung — bei freihändigen Vergaben ab einer Auftragssumme von 12.000,-- € — bei beschränkter Ausschreibung ab einer Auftragssumme von 120.000,-- € — bei öffentlicher Ausschreibung ab einer Auftragssumme von 180.000,-- € Bei beabsichtigten Vergaben oberhalb dieser Wertgrenzen teilt die Betriebsleitung den Fraktionen und fraktionslosen Mitgliedern des Betriebsausschusses unter Angabe der eingegangenen Gebote mit, an welche Bieter die Vergabe erfolgen soll. Wird gegen diesen Vorschlag innerhalb einer Frist von 10 Kalendertagen kein Einspruch erhoben, erfolgt die entsprechend dem mitgeteilten Vorschlag durch die Betriebsleitung. Wird Einspruch erhoben, erfolgt die Vergabe durch den Betriebsausschuss. g) Vergaben von Lieferungen und Leistungen nach der VOL unter Beachtung § 31 der Hauptsatzung — bei freihändiger Vergabe ab einer Auftragssumme von 6.000,-- € — bei beschränkter Ausschreibung ab einer Auftragssumme von 12.000,-- € — bei öffentlicher Ausschreibung ab einer Auftragssumme von 30.000,-- € Buchstabe f), S. 2 und 3, gilt entsprechend. h) Vergabe von Leistungen nach der Verdingungsordnung für freiberufliche Leistungen (VOF) Buchstabe f), Satz 2 und 3, gilt entsprechend i) Zustimmung zur Auslobung von Architekturwettbewerben, auch bei Gebäuden, die durch Dritte errichtet werden. j) Beratung und Empfehlung an den Rat über Bestellung der Betriebsleitung und stellvertretenden Betriebsleitung (3) Der Betriebsausschuss berät die Angelegenheiten vor, die vom Rat der Stadt zu entscheiden sind. Er entscheidet in den Angelegenheiten, die der Beschlussfassung des Rates unterliegen, falls die Angelegenheit keinen Aufschub duldet. In Fällen äußerster Dringlichkeit kann der Oberbürgermeister mit dem Vorsitzenden des Betriebsausschusses entscheiden. Diese Entscheidung ist dem Rat der Stadt in der nächsten Sitzung zur Genehmigung vorzulegen. (4) In Angelegenheiten, die der Betriebsausschuss zu beschließen hat, entscheidet im Falle einer äußersten Dringlichkeit der Oberbürgermeister mit dem Vorsitzenden des Betriebsausschusses. Die Entscheidung ist dem Betriebsausschuss in seiner nächsten Sitzung zur Genehmigung vorzulegen. (5) Der Betriebsausschuss besteht aus 5 stimmberechtigten Mitgliedern.
+§6 Zuständigkeiten des Rates
+Der Rat der Stadt entscheidet in allen Angelegenheiten des Gebäudemanagements der Stadt Aachen, die ihm durch die GO NW, die EigVO NW, die Hauptsatzung der Stadt Aachen sowie die der Zuständigkeitsordnung der Stadt Aachen vorbehalten sind. Hierzu gehören insbesondere:
+a) die Errichtung, Erweiterung, Einschränkung oder Auflösung der Einrichtung b) die Umwandlung der Rechtsform der Einrichtung c) die Bestellung der Betriebsleiter d) die Feststellung und Änderung des Wirtschaftsplanes e) die Feststellung des Jahresabschlusses und die Verwendung des Jahresgewinns oder die Deckung eines
+Verlustes f) die Rückzahlung von Eigenkapital an die Stadt
+3
+
+g) die Verfügung über Vermögen der Einrichtung, die Veräußerung und Belastung von Grundstücken, die Vornahme von Schenkungen sowie die Hingabe von Darlehen zu Lasten der Einrichtung
+h) die Übernahme von Bürgschaften, der Abschluss von Gewährverträgen und die Bestellung sonstiger Sicherheiten, soweit sie nicht der Zuständigkeit des Betriebsausschusses unterfallen oder einfache Geschäfte der laufenden Verwaltung sind
+i) die Führung von Rechtsstreitigkeiten und der Abschluss von außergerichtlichen Vergleichen, soweit sie nicht einfache Geschäfte der laufenden Verwaltung sind.
+§7 Stellung des Oberbürgermeisters
+(1) Der Oberbürgermeister ist Dienstvorgesetzter der Dienstkräfte der Einrichtung. Er regelt in der Dienstanweisung für die Betriebsleitung, inwieweit er die ihm nach der GO NW und der Hauptsatzung der Stadt Aachen zustehenden Entscheidungsbefugnisse auf die Betriebsleitung überträgt.
+(2) Der Oberbürgermeister hat die Tätigkeit der Betriebsleitung mit den Zielen der allgemeinen Verwaltung in Einklang zu bringen und die lnteressen der Einrichtung und anderer Bereiche der Stadtverwaltung zu koordinieren. Zu diesem Zweck kann er Weisungen erteilen und von der Betriebsleitung Auskunft verlangen. Die für die Zusammenarbeit zwischen der Einrichtung und dem Oberbürgermeister, dem Stadtkämmerer und der übrigen Verwaltung erforderlichen Regelungen sind in der Dienstanweisung für die Betriebsleitung festgelegt.
+(3) Der Oberbürgermeister ist zuständig für die Einbringung der Vorlagen in den Betriebsausschuss sowie in den Rat der Stadt.
+§8 Stellung des Beigeordneten
+(1) Die lnteressen der Einrichtung werden innerhalb der Stadtverwaltung vom Beigeordneten für das Dezernat Planung wahrgenommen. Diese vertritt den Oberbürgermeister in allen Angelegenheiten des Betriebes, soweit diese nicht dem Oberbürgermeister bzw. dessen ständigem Vertreter vorbehalten sind.
+(2) Die zuständige Beigeordnete ist über alle wichtigen Angelegenheiten der Einrichtung rechtzeitig zu unterrichten. lhr ist auf Verlangen in allen Angelegenheiten Auskunft zu erteilen.
+(3) Die zuständige Beigeordnete ist Vorgesetzte der Betriebsleitung i.S. des § 1 Abs. 2 der Dienstordnung der Stadtverwaltung Aachen, beschränkt auf Weisungen zur Erhaltung der Einheitlichkeit der Verwaltungsführung des Gebäudemanagements der Stadt Aachen und der allgemeinen Verwaltung.
+(4) Die zuständige Beigeordnete entscheidet bei Meinungsverschiedenheiten innerhalb der Werkleitung abschließend.
+§9 Stellung des Stadtkämmerers
+(1) Die Betriebsleitung hat dem Stadtkämmerer den Entwurf des Wirtschaftsplanes, der fünfjährigen Finanzplanung und des Jahresabschlusses und Lageberichtes vor Weiterleitung an den Betriebsausschuss zuzuleiten. Tritt der Stadtkämmerer einem nach Satz 1 vorzulegenden Entwurf nicht bei, so hat er seine Bedenken oder Änderungs- und Ergänzungswünsche innerhalb von drei Wochen nach Zuleitung der Betriebsleitung mitzuteilen. Kann die Betriebsleitung diesen nicht zustimmen, sind die unterschiedlichen Auffassungen des Stadtkämmerers und der Betriebsleitung dem Betriebsausschuss zusammen mit den Entwürfen vorzulegen.
+(2) Dem Stadtkämmerer sind von der Betriebsleitung die Quartalsfortschreibungen der wirtschaftlichen Entwicklung zur Verfügung zu stellen.
+(3) Auf Verlangen hat die Betriebsleitung dem Stadtkämmerer darüber hinaus alle sonstigen finanzwirtschaftlichen Auskünfte zu erteilen.
+4
+
+§ 10 Vertretung der Einrichtung
+(1) Die Betriebsleitung vertritt die Stadt gemeinschaftlich in allen Angelegenheiten der Einrichtung, die ihrer eigenen Entscheidung oder abschließenden Entscheidung des Betriebsausschusses unterliegen, in allen übrigen Angelegenheiten der Einrichtung wird diese durch den Oberbürgermeister vertreten.
+(2) Die Betriebsleitung unterzeichnet a) in Angelegenheiten nach Abs. 1 Satz 1 unter dem Namen „Gebäudemanagement der Stadt Aachen" ohne Angabe eines Vertretungsverhältnisses b) in Angelegenheiten nach Abs. 1 Satz 2 unter der Bezeichnung „Der Oberbürgermeister Gebäudemanagement der Stadt Aachen" unter Angabe des Vertretungsverhältnisses.
+(3) Andere Dienstkräfte des Gebäudemanagements der Stadt Aachen sind vertretungsberechtigt, wenn sie hierzu besonders bevollmächtigt sind. Sie unterzeichnen stets „Im Auftrag".
+(4) lm übrigen gelten ergänzend die Bestimmungen der Dienstanweisung für die Betriebsleitung. (5) Der Kreis der Vertretungsberechtigten und Beauftragten sowie der Umfang ihrer jeweiligen Vertretungsbefugnis
+werden von der Betriebsleitung entsprechend dem geltenden Ortsrecht bekanntgemacht.
+§ 11 Personalangelegenheiten
+(1) Die Einstellung, Bestellung, Höhergruppierung und Kündigung der Betriebsleitung sowie der stellvertretenden Betriebsleitung erfolgt durch Beschluss des Rates der Stadt.
+(2) Für die Ernennung, Beförderung und Entlassung von Beamten gelten die Vorschriften des § 24 der Hauptsatzung der Stadt Aachen.
+(3) Die Betriebsleitung trifft alle arbeits- und tarifrechtlichen Entscheidungen, einschließlich der Einstellungen, im Rahmen der tariflichen Vorschriften.
+(4) Die in der Dienstanweisung für die Betriebsleitung enthaltenen ergänzenden Bestimmungen sind zu beachten. Die Übertragung von Entscheidungs- und Zeichnungsbefugnissen in Personal- und Organisationsangelegenheiten, die Befugnisse entsprechend § 74 Abs. 3 GO NW sowie nach § 8 Abs. 1 und 4 Landespersonalvertretungsgesetz NRW regelt der Oberbürgermeister durch Dienstanweisung für die Betriebsleitung.
+§ 12 Wirtschaftsjahr
+Das Wirtschaftsjahr des Gebäudemanagements der Stadt Aachen ist das Kalenderjahr.
+§ 13 Buchführung
+Das Gebäudemanagement der Stadt Aachen führt seine Rechnung nach den Regeln der kaufmännischen doppelten Buchführung. Es führt weiterhin eine Kostenrechnung.
+§ 14 Kassenführung
+Für die Kassenführung des Gebäudemanagements der Stadt Aachen wird eine Sonderkasse eingerichtet. Die Bestimmungen der Verordnung über die Kassenführung der Gemeinden Gemeindekassenverordnung - in der jeweils gültigen Fassung sind entsprechend anzuwenden.
+5
+
+§ 15 Wirtschaftsplan
+(1) Vor Beginn des Wirtschaftsjahres hat die Betriebsleitung einen Wirtschaftsplan aufzustellen. Dieser besteht aus dem Erfolgsplan, dem Vermögensplan und der Stellenübersicht.
+(2) Der Entwurf des Wirtschaftsplanes für das kommende Wirtschaftsjahr ist dem Betriebsausschuss bis zum 30.11. des laufenden Wirtschaftsjahres zur Beratung vorzulegen und im Anschluss daran dem Rat der Stadt zur Feststellung zuzuleiten.
+(3) Der Wirtschaftsplan ist unverzüglich zu ändern, wenn eine der in § 14 Abs. 2 der EigVO NW genannten Voraussetzungen eintritt. Dabei gilt: a) Eine erhebliche Verschlechterung des Jahresergebnisses gegenüber dem Erfolgsplan im Sinne von § 14 Abs. 2 Buchstabe a) EigVO NW liegt insbesondere vor, wenn sich im Laufe des Wirtschaftsjahres zeigt, dass das veranschlagte Jahresergebnis trotz Ausnutzung jeder Sparmöglichkeit nicht in der ausgewiesenen Höhe erreicht und ein Verlust von mehr als 15 %, mindestens 150.000,-- €, entstehen wird. b) Eine erheblich höhere Zuführung zum Ausgleich des Vermögensplanes im Sinne von § 14 Abs. 2 Buchstabe b) EigVO NW liegt vor, wenn die geplante Zuführung um mehr als 20 %, mindestens 200.000,-- € , erhöht werden muß, höhere Kredite erforderlich werden oder zusätzliche Verpflichtungsermächtigungen erforderlich werden.
+(4) Für die Aufstellung und Ausführung des Wirtschaftsplanes gelten die §§ 14 - 17 EigVO NW:
+a) Die Ansätze innerhalb des Erfolgsplanes sind gegenseitig deckungsfähig. Erfolgsgefährdende Mindererträge oder Mehraufwendungen beim Erfolgsplan liegen im Sinne von § 15 Abs. 3 der EigVO NW vor, wenn der Gesamtansatz der Erträge und Aufwendungen um mehr als 10 %, mindestens 100.000,-- €, unter- bzw. überschritten werden muß. In diesem Fall ist der Betriebsausschuss sowie der Stadtkämmerer unverzüglich zu unterrichten. Erfolgsgefährdende Mehraufwendungen bedürfen der vorherigen Zustimmung des Betriebsausschusses.
+b) Ausgaben für verschiedene Vorhaben des Vermögensplanes, die sachlich eng zusammenhängen, sind gegenseitig deckungsfähig. Mehrausgaben für das Einzelvorhaben, die 10 % des Ansatzes im Vermögensplan, mindestens jedoch 100.000,-- €, überschreiten, bedürfen gemäß § 16 Abs. 5 Satz 2 EigVO NW der Zustimmung des Betriebsausschusses.
+c) Ausgaben, für die im Vermögensplan kein Ansatz existiert, bedürfen ab einer Höhe von 50.000,-- € der Zustimmung des Betriebsausschusses.
+d) In den Fällen der Ziffern 2 und 3 ist der Stadtkämmerer vor Einholung der Zustimmung des Betriebsausschusses zu unterrichten.
+§ 16 Finanzplanung
+(1) Zusammen mit dem Wirtschaftsplan ist ein fünfjähriger Finanzplan entsprechend § 18 EigVO NW vorzulegen. (2) Das erste Jahr des Planungszeitraumes ist das laufende Wirtschaftsjahr.
+§ 17 Rücklagen
+Für die technische und wirtschaftliche Fortentwicklung der Einrichtung sollen aus dem Jahresüberschuss angemessene Rücklagen gebildet werden.
+6
+
+§ 18 Zwischenberichte
+Die Betriebsleitung hat den Oberbürgermeister, den Stadtkämmerer und den Betriebsausschuss halbjährlich über die Entwicklung der Erträge und Aufwendungen sowie über die Abwicklung des Vermögensplanes schriftlich zu unterrichten.
+§ 19 Jahresabschluss
+(1) Der Jahresabschluss und die Erfolgsübersicht sind bis zum Ablauf von 6 Monaten nach Ende des jeweiligen Wirtschaftsjahres entsprechend der Vorschriften des Dritten Buches des Handelsgesetzbuches von dem Betriebsleiter / der Betriebsleiterin aufzustellen, prüfen zu lassen und anschließend über den Stadtkämmerer / die Stadtkämmerin und über den Oberbürgermeister / die Oberbürgermeisterin dem Betriebsausschuss und dem Rat der Stadt vorzulegen.
+(2) Der Lagegericht wird auf freiwilliger Basis aufgestellt und geprüft, soweit sich aus Verordnungen oder gesetzlichen Vorschriften nichts anderes ergibt.
+(3) Die Feststellung des Jahresabschlusses durch den Rat ist öffentlich bekannt zu machen. Die Vorschriften des § 26 Abs. 3 EigVO NRW sind zu beachten.
+§ 20 Prüfung
+(1) Die Prüfung der Ordnungsmäßigkeit des Handelns der Betriebsleitung erfolgt gemäß den entsprechenden Bestimmungen der GO NW.
+(2) Der Jahresabschluss unterliegt der Prüfungspflicht. Die Betriebsleitung kann mit der Durchführung der Jahresabschlussprüfung eine*n Wirtschaftsprüfer*in, eine Wirtschaftsprüfungsgesellschaft oder die Gemeindeprüfungsanstalt nach vorheriger Beschlussfassung durch den Betriebsausschuss beauftragen. Der Prüfungsbericht ist dem Betriebsausschuss zuzuleiten.
+Artikel II Inkrafttreten
+Die 4. Änderungssatzung zur Betriebssatzung der Stadt Aachen für die eigenbetriebsähnliche Einrichtung Gebäudemanagement der Stadt Aachen vom 16.12.2003 tritt nach ihrer öffentlichen Bekanntmachung zum 01.01. 2026 in Kraft.
+Aachen, den 28.01.2026
+(Dr. Ziemons) Oberbürgermeister
+7
