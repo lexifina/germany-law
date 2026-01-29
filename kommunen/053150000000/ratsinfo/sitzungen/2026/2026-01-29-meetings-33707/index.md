@@ -1,0 +1,79 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-29T17:03:00+01:00
+- Ende: 2026-01-29T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33707
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33707
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohneranfragen
+- TOP 1.1: Einwohnerfrage gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen zum "Bauprojekt Kölner Straße /Hohe Straße" - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr 2026 - ungeändert beschlossen
+- TOP 6.2: Planungsbeschluss für verkehrliche Maßnahmen zur Schulwegerschließung am neuen Schulstandort Friedensstraße in - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kopernikus-Schule, Bonner Straße 40, 51145 Köln - Bedarfsprüfungsbeschluss - mit Änderungen empfohlen
+- TOP 7.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Konrad-Adenauer-Straße 20, 51149 Köln - mit Änderungen empfohlen
+- TOP 7.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Eduard-Mörike-Schule, Mörikeweg 2-6, 51147 Köln - Bedarfsprüfungsbeschluss - mit Änderungen empfohlen
+- TOP 7.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Heideschule, Neue Heide 25-27, 51147 Köln - Bedarfsprüfungsbeschluss - mit Änderungen empfohlen
+- TOP 7.5: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen im Jahr 2026 - ungeändert empfohlen
+- TOP 7.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nr. 724062/02 Arbeitstitel: Hohe Straße in Köln-Porz-Ensen - ungeändert empfohlen
+- TOP 7.7: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 7.8: Integriertes Stadtentwicklungskonzept Porz-Mitte - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis90/Die Grünen-Volt "Integriertes Stadtentwicklungskonzept Porz-Mitte" - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen/Volt "Marktplatz in Ensen" - ungeändert beschlossen
+- TOP 8.2: Antrag der AfD-Fraktion "Errichtung eines kombinierten Rad- und Fußwegs zwischen Heidestraße und Bieselweg" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen und Volt "Fußweg Bieselweg" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen SPD und Bündnis 90/Die Grünen/Volt "Herstellung eines öffentlichen Bouleplatzes auf dem Gelände des Bürgerzentrums Engelshof, Porz-Westhoven" - geändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion "Verkehrsspiegel Evezastraße /Wahner Straße in Zündorf" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Treppe östlich der Bahngleise an der Bergerbrücke" - ungeändert beschlossen
+- TOP 8.6: Antrag der CDU-Fraktion "Fußgängerüberweg Houdainer Straße/ Hauptstraße in Zündorf" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Verkehrssituation Scheuermühlenstr. / Linder Weg" - ungeändert beschlossen
+- TOP 8.8: Antrag der CDU-Fraktion "Treppenabgang Ohmstraße/Kaiserstraße in Porz-Mitte" - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion "Verkehrsfluss in der Cäcilienstraße" - ungeändert beschlossen
+- TOP 8.10: Antrag der CDU-Fraktion "Absolutes Halteverbot in der Leostraße in Porz-Eil" - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion "Treppenabgang Forsbachstraße in Porz-Urbach" - ungeändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion "Sachstandsbericht zum Baustellenmanagement im Stadtbezirk Porz" - geändert beschlossen
+- TOP 8.13: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen - Volt "Vergabe der bezirksorientierten Zuschüsse 2026 (BOM)" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der SPD Fraktion aus der Sitzung des Bezirksvertretung Porz vom 18.06.2025 (AN/0951/2025) betr. "Schulwegsicherheit im Bereich der Salmstraße." - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Schulwegsicherheit im Bereich der Salmstraße" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der AfD-Fraktion "Geruchsbelästigung in Grengel – Verdacht auf Kerosin" - vertagt
+- TOP 9.2.2: Anfrage der AfD-Fraktion "Reizgas-Attacke Wilhelm-Busch-Realschule" - vertagt
+- TOP 9.2.3: Anfrage der AfD-Fraktion "Schaffung von Studentenwohnraum durch Umwidmung bestehender Asylunterkünfte" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der AFD zur Schaffung von Studierendenwohnraum durch Umwidmung bestehender Asylunterkünfte - Kenntnis genommen
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Amtskette und Gästebuch der ehemals selbstständigen Stadt Porz" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung der Bezirksvertretung Porz am 29.01.2026 - Kenntnis genommen
+- TOP 9.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt "Schulstraßen im Stadtbezirk Porz" - vertagt
+- TOP 9.2.6: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt "KVB-Haltestelle Porz Markt" - vertagt
+- TOP 9.2.7: Anfrage der SPD-Fraktion "Treppe Ohmstr./Kaiserstr." - vertagt
+- TOP 9.2.8: Anfrage der SPD-Fraktion "Bauliche Situation und Nutzung der Turnhallen im Grengel" - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1 und 3, 51143 Köln-Porz - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 10.2.2: Bewirtschaftung des städtischen Waldes 2026 - Kenntnis genommen
+- TOP 10.2.3: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 10.2.4: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssicherheit Loorstraße/Auf dem Loor, Aktenzeichen 139/25 - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Anliegerstraße und Bewohnerparken Asternweg, Köln-Porz, Aktenzeichen 154/25 - Kenntnis genommen
+- TOP 10.2.7: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 10.2.8: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 10.2.9: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 10.2.10: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 10.2.11: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 10.2.12: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
