@@ -1,0 +1,7 @@
+# TOP 6: Vorstellung von Bau- und Planungsvorhaben (Dezember 2025 und Januar 2026)
+
+- Sitzung: 75. Sitzung in der IX. Wahlperiode des Ausschusses Ökologische Stadtentwicklung, Mieter:innenschutz und Facility Management (2026-01-29)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=73757
+- Ergebnis: erledigt
