@@ -1,0 +1,98 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-29T18:00:00+01:00
+- Ende: 2026-01-29T23:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34020
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34020
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Einführung und Verpflichtung von Mitgliedern der Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP -: Antrag auf Durchführung einer Aktuellen Stunde zur Wohnsituation in den Hochhäusern Chorweiler/Seeberg-Nord, die von der ZBVV zu I-Wohnen übergegangen sind - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO– „Einstellung und Streckenführung der SB91“, Aktenzeichen 78/25 - endgültig abgelehnt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Lärmschutz Sportplatz in Esch zu AN/0848/2025 - Kenntnis genommen
+- TOP 7.1.2: Anfrage zur Schließung und Sanierung der Kita Osloer Straße in Chorweiler - Kenntnis genommen
+- TOP 7.1.3: Ladestationen für E-Mobilität - Kenntnis genommen
+- TOP 7.1.4: Wohnungs- und Obdachlosigkeit in Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Anfrage zum Erhalt der Buslinie 120 in Blumenberg im Kontext der Zuverlässigkeit des S-Bahn-Verkehrs im Kölner Norden - Kenntnis genommen
+- TOP 7.1.6: Anfrage zur Gewährleistung und Verbesserung der Barrierefreiheit auf Gehwegen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage zu unerlaubtem LKW-Parken auf dem Parkplatz P7 am Fühlinger See – unvollständige Umsetzung des Beschlusses AN/1743/2023 Anfrage der AfD Fraktion - Kenntnis genommen
+- TOP 7.2.2: Sicherheit der kritischen Infrastruktur Anfrage der AfD Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.3: Jugendbeteiligung in der Bezirksvertretung Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Verwahrlosung des Areals ehemalige Postfiliale Chorweiler - Florenzer Str./Athener Ring Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Sanierung der Alten Römerstraße zwischen Rheinkassel und Merkenich Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Anfrage zur technischen Ausstattung des Bezirksamts Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.7: Versorgung des Stadtbezirks Chorweiler mit öffentlichen Abfallbehälter Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.8: Aktueller Stand und Perspektiven der Drogenhilfe im Stadtbezirk Köln-Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.9: Olympiafolgen für Köln Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.2.10: Parkplatzbewirtschaftung von Supermärkten Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Sanierung Bruchstraße, AN/1996/2023
+- TOP 7.3.2: Beschilderung Parkplatzzufahrt Liverpooler Platz, AN/0148/2024
+- TOP 7.3.3: Anfrage zur Verbesserung der Verkehrssicherheit am Giershausener Weg in Köln, AN/0933/2025
+- TOP 7.3.4: Anfrage zur Genehmigung und Gebührenpflicht des Trödelmarkts am Wochenmarkt Chorweiler, AN/1424/2025
+- TOP 7.3.5: Anfrage zur aktuellen und zukünftigen Verkehrssituation in Merkenich, AN/1428/2025
+- TOP 7.3.6: Anfrage zur Sicherung des Bolzplatzes in Blumenberg-Süd — Installation Ballfangzaun/Netz, AN/1452/2025
+- TOP 7.3.7: Parkplatzsituation Siedlung Chorweiler Nord, AN/1461/2025
+- TOP 7.3.8: Turbokreisel Emdenerstraße - Causemannstraße - Zufahrt Industriestraße, AN/1465/2025
+- TOP 7.3.9: Schulstrassen, AN/1466/2025
+- TOP 7.3.10: Sperrung mehrerer Parkflächen in Chorweiler-Nord und bei der Kontrollpraxis des Ordnungsamts, AN/1464/2025
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Absicherung des sogenannten "Kraters" im Bereich zwischen Blumenberg und Chorweiler-Nord Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis`90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Einrichtung exklusiver Schwimmzeiten für Frauen im Chorweilerbad Antrag der SPD-Fraktion - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis`90/Die Grünen - endgültig zurückgezogen
+- TOP 8.3.3: Verbesserung der Beleuchtung an der Bushaltestelle "Worringen Alte Straße" Gemeinsamer Antrag der CDU-Fraktion, Der Linken und der FDP - ungeändert beschlossen
+- TOP 8.3.4: Verlässlicher Betrieb der Stadtbahnlinie 12 im Kölner Norden Antrag der SPD-Fraktion - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.3.5: Bessere Regulierung von Wahlwerbung in Köln Gemeinsamer Antrag der Fraktion Bündnis´90/Die Grünen und des BSW - endgültig abgelehnt
+- TOP 8.3.6: Dauerhafte Finanzierung an der Schnellbuslinie 91 (SB91) aus städtischen Haushaltsmitteln Gemeinsamer Antrag der CDU-Fraktion und der FDP - ungeändert beschlossen
+- TOP 8.3.7: Lebenswertes Wohnen für alle - Gesundheitsgefahren ernst nehmen Antrag der Fraktion Bündnis´90/Die Grünen - vertagt
+- TOP 8.3.8: Abriss der Papageiensiedlung in Seeberg-Nord Dringlichkeitsantrag der Fraktion Bündnis´90/Die Grünen - geändert beschlossen
+- TOP -: Ergänzungsantrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Bedarfsfeststellungs- und Baubeschluss für die Erneuerung der passiven Schutzeinrichtungen entlang der Industriestraße zwischen dem „Niehler Ei“ und der Merianstraße und einer partiellen Erneuerung der Fahrbahndeckschicht - ungeändert beschlossen
+- TOP 9.2.2: Einstellung vorbereitender (Sanierungs-)Untersuchungen gemäß § 141 Baugesetzbuch für Köln Chorweiler-Mitte - vertagt
+- TOP 9.2.3: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bewirtschaftung des städtischen Waldes 2026 - Kenntnis genommen
+- TOP 10.2.2: Mitteilung über die Aufgabe der Wohncontaineranlage für geflüchtete Menschen, Standort Merianstr. 3/Parkplatz P5 Fühlinger See, 50765 Köln - Kenntnis genommen
+- TOP 10.2.3: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 10.2.4: Umwandlung der Jugendtreffs "Kindertreff im Mönchsfeld" und "Jugendtreff im Mönchsfeld" in Köln-Roggendorf/Thenhoven in eine Jugendeinrichtung - Kenntnis genommen
+- TOP 10.2.5: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 10.2.6: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - vertagt
+- TOP 10.2.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW – Campingplatz Fühlinger See P6 Kasseler Weg, Aktenzeichen: 166/24 - Kenntnis genommen
+- TOP 10.2.8: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 10.2.9: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 10.2.10: Baufortschrittsbericht – Generalinstandsetzung Neusser Landstraße - Kenntnis genommen
+- TOP 10.2.11: Fühlinger See Veranstaltungsplanung 2026 - vertagt
+- TOP 10.2.12: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 10.2.13: Situation um den Öffentlichen Personennahverkehr im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.14: Halteverbots-Verkehrszeichen und Baustellen in Köln-Blumenberg - Kenntnis genommen
+- TOP 10.2.15: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 10.2.16: Turnhalle in Köln-Pesch - Kenntnis genommen
+- TOP 10.2.17: Mitteilung Gesundheitsregion Köln - vertagt
+- TOP 10.2.18: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 11: Anfragen der Seniorenvertretung
+- TOP 11.1: Aufstellung einer Bank an der Bushaltestelle Esch Friedhof in der Fahrtrichtung Weiler der Linie 126 - Kenntnis genommen
