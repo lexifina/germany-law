@@ -1,0 +1,74 @@
+# 3. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-29T16:00:00+01:00
+- Ende: 2026-01-29T18:21:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33902
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33902
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohneranfrage - Verbindliche Einbeziehung des Quartiers in Planung, Umsetzung und Betrieb des Suchthilfezentrums (SHZ) Perlengraben
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Einrichtung einer zusätzlichen Hundefreilaufflächen im August-Sander-Park - vertagt
+- TOP 3.2: Baubeschluss für die Teilerneuerung der Fahrbahn und Gehwege in der Worringer Straße und für die Teilerneuerung der Gehwege in der Oppenheimstraße im Stadtteil Neustadt/Nord sowie Freigabe einer investiven Auszahlungsermächtigung bei der Finanzstelle - ungeändert empfohlen
+- TOP 3.3: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 3.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Paul-Maar-Schule, Marienplatz 2, 50676 Köln - Bedarfsprüfungsbeschluss - ungeändert empfohlen
+- TOP 3.5: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Campus Colonius Nord - ungeändert empfohlen
+- TOP 3.6: Nutzung des Grundstücks Erftstraße 38 (ehemalige Tankstelle) in Köln als Baustelleneinrichtungs-Fläche für die Maßnahme „Generalsanierung und OGS-Erweiterungsneubau Montessori-Grundschule Gilbachstraße 20“ - vertagt
+- TOP 3.7: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen im Jahr 2026 - ungeändert empfohlen
+- TOP 3.8: Bildung eines Teilstandortes für einen Teil des Richard-Riemerschmid-Berufskollegs, Heinrichstr. 51, 50676 Köln- Altstadt-Süd - ungeändert empfohlen
+- TOP 3.9: Gestaltung der Schullandschaft im Stadtbezirk Innenstadt betreffend Gymnasium Neustadt-Nord - Katholische Hauptschule am Rhein - Weiterbildungskollegs - abgelehnt (in der Vorberatung)
+- TOP 3.10: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 3.11: Errichtung eines Suchthilfezentrums auf dem Grundstück Perlengraben/ Wilhelm-Hoßdorfstr. , 50676 Köln - Bedarfsfeststellungs- und Vorplanungsbeschluss - mit Änderungen empfohlen
+- TOP -: Änderungsantrag: Errichtung eines Suchthilfezentrums auf dem Grundstück Perlengraben/Wilhelm-Hoßdorfstr., 50676 Köln – Bedarfsfeststellungs- und Vorplanungsbeschluss, gem. Antrag B90/Die Grünen, SPD - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO NRW - Autoparken am Appellhofplatz, Aktenzeichen 50/25 - vertagt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verbesserung der Verkehrssicherheit Am Leystapel und Prüfung der Öffnung des Rheinufertunnels für den Radverkehr, gem. Antrag B90/Die Grünen, Die Linke und Volt - vertagt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Fällgenehmigung von sieben Bäumen im Bereich Weberstraße/Löwengasse (Interimsbau Feuerwache 1) – Sicherstellung der Kompensationspflicht gemäß Kölner Baumschutzsatzung (§ 10) und Beitrag zum Klimaneutralitätsziel 2035, Antrag Grüne - vertagt
+- TOP 5.2.2: Verkehrssicherheit auf der Fahrradstraße Pantaleonswall / Trierer Straße erhöhen, Antrag SPD - vertagt
+- TOP 5.2.3: Maßnahmenpaket Severinstraße, gem. Antrag SPD und Volt - vertagt
+- TOP 5.2.4: Jugendvertretung in der Bezirksvertretung Innenstadt, gem. Antrag B90/Die Grünen, Die Linke und SPD - ungeändert beschlossen
+- TOP 5.2.5: Verbesserung der Pflege und Instandsetzung der Hochbeete und Grünflächen am Jean-Jülich-Weg (Kölner Südstadt), Antrag SPD - vertagt
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Fort X - Fragen zum Zustand und den nächsten Schritten, Anfrage CDU - vertagt
+- TOP 6.1.3: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP 6.1.4: Neues Spielgerät im Innenhof des Bürgerzentrums Alte Feuerwache, Anfrage SPD - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Umfang und Ursachen kampfmittelbedingter Baumfällungen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.2.2: Vermeidungsstrategien und Handlungsspielräume bei kampfmittelbedingten Baumfällungen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.2.3: Baumfällungen rund um die geplante Großunterkunft für Geflüchtete im Agnesviertel, Anfrage CDU - vertagt
+- TOP 6.2.4: Parkmöglichkeiten in der Innenstadt erhalten, Anfrage CDU - vertagt
+- TOP 7: Mitteilungen der Bezirksbürgermeisterin
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Begrünung mit Baumschein "Große Witschgasse", Aktenzeichen 157/25 - Kenntnis genommen
+- TOP 8.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Sicherung des Fahrradverkehrs auf der Krefelder Straße ab Hausnummer 23 bis zur Maybachstraße, Aktenzeichen: 79/23 - Kenntnis genommen
+- TOP 8.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO– Einrichtung von Tempo 30 auf der Mindener Straße und Siegburger Straße, Aktenzeichen 103/25 - Kenntnis genommen
+- TOP 8.4: Jakobstr. 27 - 31 / Severinstr. 69 - Neubau eines mehrgeschossigen mischgenutzten Gebäudes (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 8.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO – Breslauer Platz begrünen, Aktenzeichen 147/25 - Kenntnis genommen
+- TOP 8.6: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Venloer Straße und Vogelsanger Straße und - Kenntnis genommen
+- TOP 8.7: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 8.8: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Lastenrad): Evaluation des Pilotversuchs - Kenntnis genommen
+- TOP 8.9: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 8.10: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 8.11: Umfangreiche Baumaßnahmen an der rechtsrheinischen Verkehrsinfrastruktur während der Ferien 2026 - Kenntnis genommen
+- TOP 8.12: Sachstandsberichte - Kenntnis genommen
+- TOP 8.13: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 8.14: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 8.15: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 8.16: Deutzer Hafen – Baufeld 05 I Ergebnis des zweistufigen nichtoffenen hochbaulichen Realisierungswettbewerbs mit hochbaulichem Ideenteil nach der Richtlinie für Planungswettbewerbe (RPW 2013) - Kenntnis genommen
+- TOP 8.17: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Ausbau der bewirtschafteten Parkplätze, Subbelrather Straße bis Bahnhof West, Aktenzeichen 146/25 - Kenntnis genommen
+- TOP 8.18: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 8.19: Beantwortung einer mündlichen Anfrage künstlerische Intervention "Panorama-Weidmarkt" - Kenntnis genommen
+- TOP 8.20: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
