@@ -1,0 +1,89 @@
+# 3. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-29T17:30:00+01:00
+- Ende: 2026-01-29T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33909
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33909
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragen zu Sackgassen - vertagt
+- TOP 1.2: Einwohnerfrage zur Flächennutzung und Umgestaltung des Landschaftsschutzgebiets Johannes-Giesberts-Park - vertagt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO NRW - Verkehrsreduzierung in der Bergstraße, Aktenzeichen 98/25 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Peter-Ustinov-Realschule - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.4: Nutzung von Fahrradboxen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.5: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - vertagt
+- TOP 7.1.6: Baustellenabsperrung Lohsestraße und Holbeinstraße - vertagt
+- TOP 7.1.7: Projekt Gesundheitsregion zur Beteiligung von Einwohner:innen am Gesundheitswesen 3106/2024 - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung der BV Nippes vom 09.09.2025 (AN/1195/2025) betreffend "Projekt Gesundheitsregion Beteiligung von Einwohner*innen am Gesundheitswesen" - Kenntnis genommen
+- TOP 7.1.8: Anfrage Sicherheit auf der Fahrradstraße: Etzelstraße - vertagt
+- TOP 7.1.9: Unterbringung obdachloser Menschen - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Nippes AN1416/2025 der Anfrage Unterbringung obdachloser Personen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstand Buslinie Innere Kanalstraße - vertagt
+- TOP 7.2.2: Verkehrskonzept Friedrich-Karl-Straße - vertagt
+- TOP 7.2.3: Sachstand Planung Wasserspielplatz - Kenntnis genommen
+- TOP -: Beantwortung Anfrage die Linken AN/0078/2026 - Kenntnis genommen
+- TOP 7.2.4: Kritische Infrastruktur im Gebiet der Bezirksvertretung Nippes - vertagt
+- TOP 7.2.5: Infrastruktur zum Zivilschutz (z.B. Schutzräumen) für die Bürgerinnen und Bürger im Gebiet der Bezirksvertretung Nippes - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der AfD-Fraktion zur Infrastruktur des Zivilschutzes im Gebiet der Bezirksvertretung Nippes - Kenntnis genommen
+- TOP 7.2.6: Fahrradabstellanlagen im Stadtbezirk Nippes - vertagt
+- TOP 7.2.7: KVB-App und KVB-Anzeigetafeln - vertagt
+- TOP 7.2.8: Sitzgelegenheiten/Pflanzkübel Geldernpark - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sicherheit für die Fußgänger*innen auf der Neusser Straße in Höhe der Haltestelle Scheibenstraße stärken - ungeändert beschlossen
+- TOP 8.1.2: Verkehrssicherheit Neusser Straße - ungeändert beschlossen
+- TOP 8.1.3: Bevorrechtigte Ampelschaltung für Busse der Linien 121 und 147 an der Haltestelle Geldernstraße/Parkgürtel - ungeändert beschlossen
+- TOP 8.1.4: Wildmüllabstellung unterbinden Hartwichstraße - ungeändert beschlossen
+- TOP 8.1.5: Außerkraftsetzung des Baubeschlusses zur Generalinstandsetzung der Merheimer Straße (Vorlagennr. 0454/2020) - endgültig abgelehnt
+- TOP 8.1.6: Verkehrskontrollen Amsterdamer Straße - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an die Chorgemeinschaft St. Bernhard - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an das Kulturgetriebe e.V. - ungeändert beschlossen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an Wilhelm - Der Verein e.V. - geändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an die Sinti-Allianz NRW - geändert beschlossen
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an die Kölner Spielewerkstatt e.V. - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an ConAction e.V. - ungeändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an den DJK Nord von 1960 e.V. - ungeändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an den Cologne Cycling Club e.V. - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Bedarfsfeststellungsbeschluss: Verkehrsuntersuchung zur Verträglichkeit einer geänderten Radverkehrsführung auf der Mülheimer Brücke – Vergabe einer freiberuflichen Leistung: MIKROSIMULATION - geändert beschlossen
+- TOP 9.2.2: Bedarfsfeststellungs- und Baubeschluss für die Erneuerung der passiven Schutzeinrichtungen entlang der Industriestraße zwischen dem „Niehler Ei“ und der Merianstraße und einer partiellen Erneuerung der Fahrbahndeckschicht - ungeändert beschlossen
+- TOP 9.2.3: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 9.2.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung eines städtebaulichen Qualifizierungsverfahrens - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Lastenrad): Evaluation des Pilotversuchs - Kenntnis genommen
+- TOP 10.2.2: Bewirtschaftung des städtischen Waldes 2026 - Kenntnis genommen
+- TOP 10.2.3: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 10.2.4: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 10.2.5: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 10.2.6: Grundwasserschäden durch Gaswerksrückstände in Nippes - Kenntnis genommen
+- TOP 10.2.7: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 10.2.8: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 10.2.9: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 10.2.10: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 10.2.11: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 66499/09, Arbeitstitel Südliche Schmiedegasse in Köln-Weidenpesch - Kenntnis genommen
+- TOP 10.2.12: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
