@@ -1,0 +1,51 @@
+# 32. öffentliche Sitzung des Ausschusses für Mobilität, Verkehr, Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-01-29T17:30:00+01:00
+- Ende: 2026-01-29T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5042
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5042
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 20.11.2025 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Jelbi-Standort am S-Bahnhof Schlachtensee - mit Änderungen im Ausschuss beschlossen
+- TOP 4.2: Fußgängerschutz vor dem Rathaus Zehlendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3: Überblick Kunst im öffentlichen Raum - mit Änderungen im Ausschuss beschlossen
+- TOP 4.4: Sicherheit auch für Radfahrer*innen am Geisterhaus Gardeschützenweg 3 - im Ausschuss abgelehnt
+- TOP 4.5: Parkplätze im Jenbacher Weg - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Schleichweg beenden: Ortlerweg in eine Einbahnstraße verwandeln - vertagt
+- TOP 4.7: Verkehrsspiegel in der Sundgauer Straße - vertagt
+- TOP 4.8: Pkw-Stellplätze an der Potsdamer Chaussee in Höhe S-Bahnhof Wannsee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.9: Halteverbotsschild Albrechtstraße 92 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.10: Errichtung eines Parkhauses für Pendler am S-Bahnhof Wannsee - vertagt
+- TOP 4.11: Pendlerplätze sichern am S-Bahnhof Wannsee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.12: Platz in Nikolassee nach Helene Stöcker (1869–1943) benennen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.13: Lorenzstraße Tempo 30 durchgängig anordnen/Querungshilfen Kreuzung Lorenzstraße/Jägerstraße - vertagt
+- TOP 4.14: Wir sind nicht auf der Flucht: Fußgänger*innenampel Ecke Unter den Eichen/Thielallee/Dahlemer Weg für normales Gehtempo schalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.15: Zebrastreifen Breisgauer Straße - vertagt
+- TOP 4.16: Bänke an der Wilma-Rudolph-Schule - vertagt
+- TOP 4.17: Einmündung des Fahrradwegs am Steglitzer Damm vor der Ecke Liebenowzeile absichern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.18: Abstimmboxen für Zigarettenstummel in Lichterfelde-West - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.19: Lückenschluss Am Eichgarten - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.20: Eine Gedenk- und Informationsstele für die ehemalige Steglitzerin Hannah Arendt - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.21: Baustellenabsperrungen nicht weiter im Straßenraum lagern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.22: Ladesäulen auf Falschparker kontrollieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.23: Schulwegsicherheit Berliner Straße 8-14 - vertagt
+- TOP 4.24: Liefer- und Ladezonen für Wohnstraßen mit hohem Parkdruck prüfen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.25: Private Parkplatzflächen für die Öffentlichkeit nutzen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.26: Sichere Querung Sven-Hedin-Straße/Plüschowstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.27: Lichtsignalanlage Potsdamer Straße in Höhe Fürstenstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.28: Durchgehende vollwertige Fußwege entlang der Thielallee auf Höhe des Corrensplatzes - vertagt
+- TOP 4.29: Würdigung von Baumscheibenpatenschaften - vertagt
+- TOP 4.30: Mülleimer Penny Lichterfelde-Süd - vertagt
+- TOP 4.31: Gaslaternenmoratorium - vertagt
+- TOP 4.32: S-Bahn gegen Linksterrorismus sichern - vertagt
+- TOP 5: Verschiedenes - erledigt
