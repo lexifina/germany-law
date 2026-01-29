@@ -1,0 +1,63 @@
+# 2. Sitzung des Ausschusses für Stadtentwicklung und regionale Zusammenarbeit
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-01-29T15:16:00+01:00
+- Ende: 2026-01-29T16:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/200
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34173
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34173
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündlichen Anfrage von RM Sterck zu den Zuständigkeiten des Ausschusses für Stadtentwicklung und regionale Zusammenarbeit - Kenntnis genommen
+- TOP 1.2: Planfeststellungsverfahren für das Vorhaben "BAB 3, 4, 59 - Ersatzneubau der Bauwerke im Bereich des Autobahndreiecks Heumar - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Madaus-Gartenland: Dialog mit der Öffentlichkeit intensivieren - Kenntnis genommen
+- TOP 2.1.1: Beantwortung einer Anfrage der Wähler*innengruppe GUT & KLIMA FREUNDE vom 08.12.2025 (AN/1456/2025) - Kenntnis genommen
+- TOP 2.2: Kosten und Verfahren zur Umbenennung von Straßen, Plätzen und Parks in der aktuellen Wahlperiode 2020 - 2025 - vertagt
+- TOP 2.3: Beantwortung einer weiteren Nachfrage vom RM Sterck (FDP) betreffend "Olympische Spiele in Kreuzfeld" zu Vorlage 2020/2025 - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 6.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 6.1.2: Änderungsantrag zu TOP 6.1.1 - "Änderungsantrag der CDU-Fraktion zur Ziffer 2 betreffend „Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd“ - vertagt
+- TOP 6.1.3: Änderungsantrag zur Vorlage 2446/2024 Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd (zu Ziffer 2) - vertagt
+- TOP 6.2: Einstellung vorbereitender (Sanierungs-)Untersuchungen gemäß § 141 Baugesetzbuch für Köln Chorweiler-Mitte - vertagt
+- TOP 6.3: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - ohne Votum behandelt mit erneuter Wiedervorlage
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Campus Colonius Nord - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - geändert beschlossen
+- TOP 10.1.1: 0001/2025Änderungsantrag zu TOP 10.2 - Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen (0001/2025) - Sache ist erledigt
+- TOP 10.1.2: Änderungsantrag zu 0001/2025 Änderungsantrag zu TOP 10.2 - Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen (0001/2025) - Sache ist erledigt
+- TOP 10.1.3: ÄA zu Beschluss über die Aufstellung eines Bebauungsplans Nr. 63569/01, Arbeitstitel: Heinrichshofweg in Köln-Fühlingen - ungeändert beschlossen
+- TOP 10.1.4: Ergänzungsantrag zu AN/1474/2025 - geändert beschlossen
+- TOP 10.2: Aufstellungs- und Einleitungsbeschluss vorhabenbezogener Bebauungsplan sowie Aufstellung der 250. Flächennutzunsplanänderung und Beschluss zu frühzeitigen Öffentlichkeitsbeteiligungen Arbeitstitel: Kölner Straße / Hohe Straße in Köln-Ensen - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung eines städtebaulichen Qualifizierungsverfahrens - vertagt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nr. 724062/02 Arbeitstitel: Hohe Straße in Köln-Porz-Ensen - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal - vertagt
+- TOP 13.2: Beschluss über die Einleitung der 2. Änderung (2. Teilaufhebung) des Bebauungsplanes 64450/02 (6444 Nc/02), Arbeitstitel: Haselbergstrasse/Piusstrasse, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: Mitteilung über die erneute Veröffentlichung gemäß § 3 Abs. 2 BauGB i.V.m § 4a Absatz 3 BauGB des Bebauungsplanentwurfs Nr. 66461/16 – Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 17.2: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 66499/09, Arbeitstitel Südliche Schmiedegasse in Köln-Weidenpesch - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 18.2: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Venloer Straße und Vogelsanger Straße und - Kenntnis genommen
+- TOP 18.3: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 18.4: Deutzer Hafen – Baufeld 05 I Ergebnis des zweistufigen nichtoffenen hochbaulichen Realisierungswettbewerbs mit hochbaulichem Ideenteil nach der Richtlinie für Planungswettbewerbe (RPW 2013) - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
