@@ -49,7 +49,7 @@
 | § 22 | (weggefallen) |
 | § 23 | Heranziehung von gedienten Wehrpflichtigen |
 | § 24 | Wehrüberwachung; Haftung |
-| § 24a | Änderungsdienst |
+| § 24a | (weggefallen) |
 | § 24b | Aufenthaltsfeststellungsverfahren |
 |  |
 | Abschnitt 3 |
@@ -89,4 +89,3 @@
 | § 50 | Zuständigkeit für den Erlass von Rechtsverordnungen |
 | § 51 | Einschränkung von Grundrechten |
 | § 52 | Übergangsvorschrift |
-| § 53 | (weggefallen) |

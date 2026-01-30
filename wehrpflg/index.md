@@ -89,4 +89,3 @@
 - [§ 50 Zuständigkeit für den Erlass von Rechtsverordnungen](0050.md)
 - [§ 51 Einschränkung von Grundrechten](0051.md)
 - [§ 52 Übergangsvorschrift](0052.md)
-- [§ 53 (weggefallen)](0053.md)
