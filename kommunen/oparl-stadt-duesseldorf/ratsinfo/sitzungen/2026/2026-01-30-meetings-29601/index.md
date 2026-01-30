@@ -1,0 +1,69 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-01-30T14:00:00+01:00
+- Ende: 2026-01-30T16:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29601
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29601
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574216.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574216.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00574216.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift vom 05.12.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Jahresprogramm der Veranstaltungen auf dem Burgplatz in 2026 - Empfehlung einstimmig beschlossen
+- TOP 5.3: Unfallkommissions- und Markierungsmaßnahme an der Kreuzung Ulmenstraße/Johannstraße/Heinrich-Erhardt-Straße - zur Kenntnis genommen
+- TOP 5.4: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt: "Leibniz-Montessori-Gymnasium - Umsetzung des Raumbedarfs für ein vierzügiges Gymnasium G9" - Empfehlung einstimmig beschlossen
+- TOP 5.5: Haushaltsentwurf 2026 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2026 für den Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Gestaltungskonzept der Oberflächen Königsallee Westseite - Empfehlung mehrheitlich beschlossen
+- TOP 5.8: Repräsentationsaufwendungen der Bezirksvertretung 1 - mehrheitlich beschlossen
+- TOP 5.9: Fischmärkte auf dem Tonhallenufer im Jahre 2026 - Empfehlung einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Aktueller Planungs- und Umsetzungsstand des Förderprojekts EKISO Bismarckstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7.2: Fußgängersicherheit im Kreuzungsbereich Schirmerstraße / Schinkelstraße / Beuthstraße - Anfrage der SPD-Fraktion
+- TOP 7.3: Leerstand Wohnhaus Stephanienstr/Ecke Hohezollernstr. - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.4: Zustand des denkmalgeschützem Wohngebäude Poststraße 24 - Anfrage Peter Klein, Vertreter DIE LINKE
+- TOP 7.5: Ampelanlage Rather Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Toilettenanlage am Nordfriedhof Eingang Kennedydamm - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Kapelle Nordfriedhof/Akustik - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Sicherung des Radverkehrs zwischen Duisburger Straße und Vagedesstraße in Fahrtrichtung Adlerstraße sowie zwischen Duisburger Straße und Venloer Straße in Fahrtrichtung Fischerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.4: Erneuerung der Fahrbahnmarkierung Zebrastreifen Klosterstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Sicherung der freien Ausfahrtmöglichkeit von Einsatzfahrzeugen der Feuerwache auf der Münsterstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.6: Darstellung des Zeitplans zur Umgestaltung des Grabbeplatzes und der angrenzenden Parkhäuser - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Darstellung der Planungen zur Umgestaltung des Bolker Sterns - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Gehäuse des Lüftungsschachts und Fläche an der Kasernenstraße 1a; Beschluss der Bezirksvertretung 1 vom 05.12.2025; BV1/251/2025 - zur Kenntnis genommen
+- TOP 9.2: Maßnahmen gegen Rotlicht- und Geschwindigkeitsverstöße von Autofahrenden an der Kreuzung Duisburger Straße/Sternstraße; Beschluss der Bezirksvertretung 1 vom 14.11.2025; BV1/241/2025 - zur Kenntnis genommen
+- TOP 9.3: Leerstand des Hauses Eiskellerstraße 9; Beschluss der Bezirksvertretung 1 vom 05.12.2025; BV1/253/2025 - zur Kenntnis genommen
+- TOP 9.4: Installation von Fahrradabstellmöglichkeiten an der Nordstraße, Ecke Göbenstraße/Mauerstraße; Beschluss der Bezirksvertretung 1 vom 05.12.2025; BV1/264/2025 - zur Kenntnis genommen
+- TOP 9.5: Wettannahme in den Geschäftsräumen Hunsrückenstraße 40, ehemalige Filiale der Deutschen Bank; Beschluss der Bezirksvertretung 1 vom 05.12.2025; BV1/252/2025 - zur Kenntnis genommen
+- TOP 9.6: Tempo 30 Zone zwischen Toulouser Allee, Adlerstraße und Bagelstraße; Beschluss der Bezirksvertretung 1 vom 05.12.2025; BV1/267/2025 - zur Kenntnis genommen
+- TOP 9.7: Mehr Bänke für die Prinz-Georg-Straße;Beschluss der Bezirksvertretung 1 vom 05.12.2025 (BV1/249/2025) - zur Kenntnis genommen
+- TOP 9.8: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 9.9: Sicherung des Radverkehrs auf der Gerresheimer Straße zwischen Worringer Straße und Vinzenzplatz; Beschluss der Bezirksvertretung 1 vom 05.12.2025; BV1/254/2025 - zur Kenntnis genommen
+- TOP 9.10: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - GEDOK A46 Gemeinschaft der Künstlerinnen und Kunstfördernden e.V. Düsseldorf - zurückgestellt
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Theaterprojekt EVICTED - zurückgestellt
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - FÜNFZEHNWOCHEN Golzheim - zurückgestellt
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Wilfried H.G. Neuse für Habbu Babbu 2.0 - mehrheitlich beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Ballspielverein 04 Düsseldorf e.V. - einstimmig beschlossen
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Rinde am Rhein - mehrheitlich beschlossen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - Der Golzheimer Friedhof soll leben e.V. - einstimmig beschlossen
+- TOP 10.8: Verfügungsmittel der Bezirksvertretung 1 - English Theatre Düsseldorf - Performance & Education gUG - einstimmig abgelehnt
+- TOP 10.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Frauen Leben Freiheit Düsseldorf e.V. - mehrheitlich beschlossen
