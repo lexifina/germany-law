@@ -1,0 +1,55 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-01-30T16:00:00+01:00
+- Ende: 2026-01-30T16:58:00+01:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 14.11.2025 und 05.12.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - vertagt
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Aufhebung der Einbahnstraßenregelung Kärntner Weg 31-59 - einstimmig beschlossen
+- TOP 5.3: Telleringstraße / Paulsmühlenstraße – Herstellung Fußgängerüberwege und differenzierte Borde - einstimmig beschlossen
+- TOP 5.4: Plan Nr. 09/022 - Südlich Hildener Straße - Aufstellung - Empfehlung einstimmig beschlossen
+- TOP 5.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Straßenschäden Gänsestraße Urdenbach - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 7.4: Zeitplan für die Rampe Kappeler Straße/ Brücke über Münchner Straße Richtung Süden - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Repräsentationen 2026 - einstimmig beschlossen
+- TOP 9.2: Marien-Schule - Präventionsprojekt "Mein Körper gehört mir" 2026 - einstimmig beschlossen
+- TOP 9.3: Selma Lagerlöf Schule - Präventionsprojekt "Mein Körper gehört mir" und "Die große Nein-Tonne" 2026 - einstimmig beschlossen
+- TOP 9.4: Städtische Realschule Benrath - Schule gegen Rassismus 2026 - einstimmig beschlossen
+- TOP 9.5: De.Perspektive e.V. - Veranstaltungsreihe "Brücken der Herzen" 2026 - einstimmig beschlossen
+- TOP 9.6: ISC Düsseldorf Rams''87 - Anschaffung von Spiel- und Trainingsbällen 2026 - einstimmig beschlossen
+- TOP 9.7: Lauftreff Düsseldorf-Süd e.V. - 18. Benrather Schlosslauf 2026 - einstimmig beschlossen
+- TOP 9.8: Caritasverband Düsseldorf e.V. zentrum plus Wersten - Kulturcafé 2026 - einstimmig beschlossen
+- TOP 9.9: ASB Region Düsseldorf e.V. - zentrum plus Holthausen - Community Music - gemeinsam musizieren 2026 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Aufstellen einer mobilen Geschwindigkeitsanzeigetafel an der Leichlinger Straße - Beschluss der Bezirksvertretung 9 am 26.09.2025; BV9/172/2025 - zur Kenntnis genommen
+- TOP 10.2: Kölner Landstraße – Überarbeitung der Planungen zum Fahrbahnrandparken und Schutz des Radverkehrs - Beschluss der Bezirksvertretung 9 vom 05.12.2025 - zur Kenntnis genommen
+- TOP 10.3: Nachtrag zum TOP 4.4 (BV9/168/2025) „Schulwegsicherung Schulcampus Benrodestraße” aus der BV9 Sitzung vom 26.09.2025 - zur Kenntnis genommen
+- TOP 10.4: Nachtrag zum TOP 8.6 (BV9/103/2025) "Erschließung des Gebietes Nördlich Wimpfener Straße über die Münchener Straße" aus der BV9 Sitzung am 16.05.2025 - zur Kenntnis genommen
+- TOP 11: Beratung zum Entwurf des bezirksbezogenen Haushaltsansatzes 2026
