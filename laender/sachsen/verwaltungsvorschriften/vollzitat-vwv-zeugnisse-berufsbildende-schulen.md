@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2025-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.11
+- Datum: 2026-02-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.12
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2025
+01.02.2026
 bis
-31.01.2026
+04.06.2026
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -733,9 +733,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2025
+Fassung gültig ab:  1. Februar 2026
 
-Fassung gültig bis: 31. Januar 2026
+Fassung gültig bis:  4. Juni 2026
 
 Drucken/Speichern
 
@@ -762,7 +762,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.11
+https://www.revosax.sachsen.de/vorschrift/17513.12
 Stand vom
 18.11.2026
 
