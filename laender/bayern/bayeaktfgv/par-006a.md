@@ -1,0 +1,2 @@
+# § 6a Behördliche Aktenführung in Strafsachen
+Abweichend von § 32 Abs. 1 Satz 1 der Strafprozeßordnung (StPO) in der am 1. Januar 2026 geltenden Fassung werden in den von Behörden im Geschäftsbereich des Staatsministeriums der Finanzen und für Heimat geführten Ermittlungsverfahren Akten bis einschließlich 29. Juni 2026 in Papierform angelegt sowie von anderer Stelle bis einschließlich 29. Juni 2026 übermittelte elektronische Akten in Papierform geführt oder weitergeführt.
