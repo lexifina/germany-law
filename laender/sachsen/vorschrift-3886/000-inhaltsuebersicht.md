@@ -13,6 +13,7 @@ Abschnitt 3 Unterrichtsorganisation
 § 9 Klassen- und Gruppenbildung
 § 10 Unterrichtszeit
 § 11 Schuljahr, Ferien, unterrichtsfreie Tage
+§ 11a Nutzung privater mobiler Endgeräte
 § 12 Aufsicht
 Abschnitt 4 Unterricht
 § 13 Pflichtunterricht, zusätzliche schulische Veranstaltungen
