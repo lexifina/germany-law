@@ -24,6 +24,7 @@ Abschnitt 3 Unterrichtsorganisation
 § 18 Klassen- und Gruppenbildung
 § 19 Unterrichtszeit
 § 20 Schuljahr, Ferien, unterrichtsfreie Tage
+§ 20a Nutzung privater mobiler Endgeräte in der Primarstufe
 § 21 Aufsicht
 Abschnitt 4 Unterricht
 § 22 Pflicht- und Wahlbereich
