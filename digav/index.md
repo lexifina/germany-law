@@ -23,6 +23,7 @@
 - [§ 10 Studien zum Nachweis positiver Versorgungseffekte](0010.md)
 - [§ 11 Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen](0011.md)
 - [§ 11a Studien zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse](0011a.md)
+- [§ 11b Studien zum Nachweis des Erhalts der Erwerbsfähigkeit](0011b.md)
 - [§ 12 Nachweis für diagnostische Instrumente](0012.md)
 - [§ 13 Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises](0013.md)
 - [§ 14 Begründung der Versorgungsverbesserung](0014.md)
@@ -44,6 +45,14 @@
 ## Abschnitt 6 Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte
 
 - [§ 23 Beratung](0023.md)
+
+## Abschnitt 6a Anwendungsbegleitende Erfolgsmessung
+
+- [§ 23a Grundsätze der Datenerhebung und Übermittlung](0023a.md)
+- [§ 23b Allgemeine Inhalte der erstmaligen Meldung und von Folgemeldungen](0023b.md)
+- [§ 23c Dauer und Häufigkeit der Nutzung](0023c.md)
+- [§ 23d Patientenberichteter Gesundheitszustand während der Nutzung und Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung](0023d.md)
+- [§ 23e Zusätzliche Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung](0023e.md)
 
 ## Abschnitt 7 Gebühren und Auslagen
 
@@ -75,3 +84,5 @@
 - [§ 43 Inkrafttreten](0043.md)
 - [Anlage 1 Fragebogen gemäß § 4 Absatz 6](anlage-1.md)
 - [Anlage 2 Fragebogen gemäß den §§ 5 und 6](anlage-2.md)
+- [Anlage 3 Fragebogen nach § 23d Absatz 1](anlage-3.md)
+- [Anlage 4 Datensätze nach § 23c Absatz 5, § 23d Absatz 4 und 5 sowie § 23e Absatz 5](anlage-4.md)

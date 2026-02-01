@@ -10,6 +10,6 @@
 - [§ 7 Anforderungen an EU-Taxameter](0007.md)
 - [§ 8 Anforderungen an Wegstreckenzähler](0008.md)
 - [§ 9 Übergangsregelung für EU-Taxameter mit INSIKA-Technik](0009.md)
-- [§ 10 Anwendungszeitpunkt für Wegstreckenzähler](0010.md)
+- [§ 10 Anwendungsregelung für Wegstreckenzähler](0010.md)
 - [§ 11 Zertifizierung](0011.md)
 - [Schlussformel](schlussformel.md)

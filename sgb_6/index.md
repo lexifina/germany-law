@@ -564,7 +564,7 @@ Aufwendungen
 
 - [§ 228 Grundsatz](0228.md)
 - [§ 228a (weggefallen)](0228a.md)
-- [§ 228b Maßgebende Werte in der Anpassungsphase](0228b.md)
+- [§ 228b (weggefallen)](0228b.md)
 
 #### Zweiter Unterabschnitt Versicherter
 Personenkreis
@@ -784,7 +784,7 @@ Beitrittsgebiet](0279a.md)
 - [§ 287c (weggefallen)](0287c.md)
 - [§ 287d Erstattungen in besonderen Fällen](0287d.md)
 - [§ 287e (weggefallen)](0287e.md)
-- [§ 287f Getrennte Abrechnung](0287f.md)
+- [§ 287f (weggefallen)](0287f.md)
 - [§ 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027](0287g.md)
 - [§ 287h Bundesmittel und Mindestrücklage](0287h.md)
 - [§ 288](0288.md)
