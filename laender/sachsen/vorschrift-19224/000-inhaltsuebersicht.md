@@ -14,6 +14,7 @@ Abschnitt 3 Unterrichtsorganisation
 § 10 Klassen- und Gruppenbildung
 § 11 Unterrichtszeit
 § 12 Schuljahr, Ferien, unterrichtsfreie Tage
+§ 12a Nutzung privater mobiler Endgeräte in der Primarstufe
 § 13 Aufsicht
 Abschnitt 4 Unterricht
 § 14 Pflichtbereich
