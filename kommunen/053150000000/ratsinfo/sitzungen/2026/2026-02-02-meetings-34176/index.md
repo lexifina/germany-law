@@ -1,0 +1,58 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-02-02T14:32:00+01:00
+- Ende: 2026-02-02T15:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34176
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34176
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bewirtschaftung des Haushaltes 2026 - Kenntnis genommen
+- TOP 2.3: Sachstand zum Beschluss des Hauptausschusses vom 29.09.2025 - Anmietung Leonhard-Tietz-Straße 1, 50676 Köln – Genehmigung der Umbaukosten und vorzeitige Mietvertragsverlängerung 0481/2025 - Kenntnis genommen
+- TOP 2.4: Fotovoltaikanlagen auf Schulgebäuden - Beantwortung einer mündlichen Anfrage von RM Joisten, SPD-Fraktion, aus der Sitzung vom 15.12.2025 - Kenntnis genommen
+- TOP 2.5: Monatsbericht Sanierung der Bühnen Köln November/ Dezember 2025 - Kenntnis genommen
+- TOP 2.6: Beantwortung einer mündlichen Anfrage von RM Breite aus der Sitzung des Finanzausschusses vom 15.12.2025 bezüglich des Sachstands zur Anmietung Leonhard-Tietz-Straße 1, 50676 Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW sowie § 25 KomHVO
+- TOP 6.1: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung 2027 bis 2029 - Kenntnis genommen
+- TOP 6.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1 und 3, 51143 Köln-Porz - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 6.3: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Teilerneuerung der Fahrbahn und Gehwege in der Worringer Straße und für die Teilerneuerung der Gehwege in der Oppenheimstraße im Stadtteil Neustadt/Nord sowie Freigabe einer investiven Auszahlungsermächtigung bei der Finanzstelle - ungeändert beschlossen
+- TOP 7.2: Neugestaltung und Sanierung Spielplatz Takufeld 1 - Subbelrather Straße in Ehrenfeld - ungeändert beschlossen
+- TOP 8: Über- und außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 9.1: Feststellung des Jahresabschlusses zum 31.08.2024 für die Bühnen der Stadt Köln - ungeändert empfohlen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.1.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - vertagt
+- TOP 10.1.2: Änderungsantrag der Fraktion Volt vom 21.01.2026 - vertagt
+- TOP 10.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Paul-Maar-Schule, Marienplatz 2, 50676 Köln - Bedarfsprüfungsbeschluss - ungeändert empfohlen
+- TOP 10.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kopernikus-Schule, Bonner Straße 40, 51145 Köln - Bedarfsprüfungsbeschluss - mit Änderungen empfohlen
+- TOP 10.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Konrad-Adenauer-Straße 20, 51149 Köln - mit Änderungen empfohlen
+- TOP 10.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Eduard-Mörike-Schule, Mörikeweg 2-6, 51147 Köln - Bedarfsprüfungsbeschluss - mit Änderungen empfohlen
+- TOP 10.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Heideschule, Neue Heide 25-27, 51147 Köln - Bedarfsprüfungsbeschluss - mit Änderungen empfohlen
+- TOP 10.7: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - vertagt
+- TOP 10.8: Bedarfsfeststellungs- und Baubeschluss für die Erneuerung der passiven Schutzeinrichtungen entlang der Industriestraße zwischen dem „Niehler Ei“ und der Merianstraße und einer partiellen Erneuerung der Fahrbahndeckschicht - ungeändert empfohlen
+- TOP 10.9: Anpassung der Rettungsdienstsatzung der Stadt Köln auf der Grundlage einer überarbeiteten Gebührenkalkulation - ungeändert empfohlen
+- TOP 10.10: Freigabe Finanzmittel - Ausbau neuer Standort für das Theater der Keller - ungeändert beschlossen
+- TOP 10.11: Zuschuss für die Kölner Schull- un Veedelszöch 2026 und die Musikkapellen an die „Freunde und Förderer des Kölnischen Brauchtums e.V." - ungeändert beschlossen
+- TOP 10.12: Zuschuss für den Rosenmontagszug und die Straßendekoration an die „Gemeinnützige Gesellschaft des Kölner Karnevals mbH“ 2026 - ungeändert beschlossen
+- TOP 10.13: Deutschlandticket Schule - ohne Votum behandelt
+- TOP 10.14: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung und Finanzierung von niederflurigen Stadtbahnwagen - ohne Votum behandelt
+- TOP 10.15: Neufassung der Eintrittspreise und Rabatte sowie Änderung der Geschäftsordnung über die Abgabe kostenloser bzw. ermäßigter Eintrittskarten bei den Bühnen der Stadt Köln - ohne Votum behandelt
+- TOP 10.16: Erhöhung des Finanzierungsrahmens der städtebaulichen Entwicklungsmaßnahme Deutzer Hafen im Cash Pool der Stadt Köln - ungeändert empfohlen
+- TOP 10.17: Errichtung eines Suchthilfezentrums auf dem Grundstück Perlengraben/ Wilhelm-Hoßdorfstr. , 50676 Köln - Bedarfsfeststellungs- und Vorplanungsbeschluss - ohne Votum behandelt
+- TOP 10.18: Einrichtung für das Gymnasium Kartäuserwall 40, 50676 Köln (Altstadt-Süd) - ungeändert empfohlen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
