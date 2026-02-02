@@ -1,0 +1,95 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-02-02T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9388344
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9388344
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzungen vom 01.12.2025 und 07.01.2026
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Ermäßigtes Deutschlandticket
+- TOP 2.2.: Status Fahrradstellplatz Schäftlarnstraße 62
+- TOP 2.3.: "Heckenschnitt" an der Mauer zum Pfarrgarten
+- TOP 2.4.: Zur Kenntnis: Bahndeckel; Kindervilla Theresia
+- TOP 2.5.: Hundekot Valleystraße, Taubenkot Bhf. Harras
+- TOP 2.6.: Zur Kenntnis: Baumfällung vor dem Haus Paul-Meisel-Weg 4
+- TOP 2.7.: Sperrung des Kunstrasenplatzes in den Neuhofener Anlagen
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Automatische Heizkostenrückerstattung Empfehlung
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Ludwig-Krafft-Str. 10 Fällungsantrag vom 13.01.2026 I Frist: 13.02.2026
+- TOP 4.2.2.: Einladung zur Beteiligung: Ehemaliger Oktoberfestbauhof – Änderung FNP mit integrierter Landschaftsplanung für den Bereich I/49 im vereinfachten Verfahren (§ 13 i. V. m. § 4 Abs. 2 BauGB)
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Zwischennachricht Geförderter Wohnungsbau, welcher Sinn? BV-Empfehlung 20-26 / E 03189
+- TOP 4.3.2.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2024-2028
+- TOP 4.3.3.: Perspektive München - Leitlinie Freiraum Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung Anträge und Empfehlungen
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Ersatzpflanzungen in Flaucher-Anlage Sendling (ÖDP)
+- TOP 4.4.2.: Erhalt der Postfiliale an der Großmarkthalle als Post-Shop (SPD)
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Zwischenstand &#039;Gespendete Baumpflanzung in der Danklstr.&#039;
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Anhörung (Bez. 3, 4, 5, 6, 7, 11, 13, 15, 19, 24, 25) für SoNu, hier "Fahrradsicherheitschecks" ab 13.02.2026 - Frist: 10.02.2026
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Streckenbezogene Anordnung von Tempo 30 auf kurzen streckenbezogenen Geschwindigkeitsbeschränkungen von 30 km/h (Zeichen 274) auf Streckenabschnitten von bis zu 500 Metern zwischen zwei Tempo 30-Strecken („Lückenschluss“) hier: Implerstraße zwischen Alramstraße und dem Anwesen Implerstraße 7
+- TOP 5.3.2.: Techno-Musik am Flauchersteg Nähe Tierpark Antwortschreiben des KVR auf Bürger*innenanliegen (TOP 2.10 09/25)
+- TOP 5.3.3.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Aberlestraße 25
+- TOP 5.3.4.: Aberlestraße 21 | Anfrage Fahrradstellplätze Antwort des MOR auf Bürger*innenanliegen TOP 2.2 aus 12/25
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Verlängerung der Grünphase und Verkürzen der Wartezeit an der Ampel über die Implerstraße, Ecke Wackersberger Straße (Bündnis 90/Die Grünen)
+- TOP 5.4.2.: Entwicklung des Fahrzeugbestandes in Sendling: Woher kommt die Zunahme an gewerblichen Fahrzeugen (Bündnis 90/Die Grünen)
+- TOP 5.4.3.: Pilotprojekt einer Fahrradzone in Sendling (Bündnis 90/Die Grünen)
+- TOP 5.4.4.: Erhaltung eines Sendlinger Denkmals zur Erinnerung an die Zerstörungen des Zweiten Weltkriegs (SPD)
+- TOP 5.4.5.: Ordnungsgemäße Nutzung des Gehwegs vor der Domino’s-Filiale in Sendling sicherstellen! (SPD)
+- TOP 5.4.6.: Tempo 30 dauerhaft am Herzog-Ernst-Platz umsetzen (SPD)
+- TOP 5.4.7.: Südbahnhof für München (SPD)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative „Westend Kultur Grube“ „Westend Kultur Grube - sozialpädagogisches Projekt vom 01.04.2026 - 31.03.2027“ 7.000,00 € / AZ: 0262.100-6-0599
+- TOP 6.1.2.: (E) Stadtbezirksbudget die urbanauten „Spiel mich! 15.12.2025 - 14.12.2026“ 3.250,00 € / AZ: 0262.0-6-0589
+- TOP 6.1.3.: (E) Stadtbezirksbudget Sardi & Pesce Umgedreht unterwegs GbR „Klick! Die Welt singt vom 01.01.2026 - 14.03.2026“ 2.088,00 € / AZ: 0262.100-6-0600
+- TOP 6.1.4.: (E) Stadtbezirksbudget We Won&#039;t Shut Up! „We won&#039;t Shut Up! Vom 01.03.2026 - 30.03.2026“ 1.600,00 € / AZ: 0262.100-6-0601
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Förderung Fahrtkosten Europameisterschaft Antwort des RBS auf Bürger*innenanliegen (2.3 01/26)
+- TOP 8.3.2.: Sanierung Fußballfeld
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.8.: Regelmäßige sonntägliche „Erregung öffentlichen Ärgernisses“ durch Urinieren und Papierhinterlassenschaften der Kundschaft eines Vereins am Kidlerplatz
+- TOP 5.1.1.: Alramstraße 19, Verlegung Obstverkaufsstand
+- TOP 8.1.1.: (E) + (U) Kultur für alle; bei geförderten Veranstaltungen auf Fördertickets insistieren
+- TOP 4.2.3.: Erinnerungsverfahren: Karwendelstr 14-16 I 04.02.2026
+- TOP 4.2.4.: Erinnerungsverfahren: Hans-Preißinger-Str. 2-8 Gehweg beim Interims-Gasteig I 04.02.2026
+- TOP 6.5.1.: Vorschlagsliste des Kulturreferats für Veranstaltungen des BA 6 Sendling bei der Sendlinger Kulturwoche
