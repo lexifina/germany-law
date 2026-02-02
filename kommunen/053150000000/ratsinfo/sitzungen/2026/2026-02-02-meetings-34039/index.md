@@ -1,0 +1,84 @@
+# 3. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-02-02T17:00:00+01:00
+- Ende: 2026-02-02T19:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34039
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34039
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 1.1: Antrag der AfD-Fraktion auf Durchführung einer Aktuellen Stunde, betr.: Stärkung von Prävention und gesellschaftlicher Solidarität angesichts islamistisch motivierter Anschlagspläne - Sache ist erledigt
+- TOP 1.2: Antrag von Bezirksbürgermeister Volker Spelthann auf Durchführung einer Aktuellen Stunde gem. § 5 GeschO, betr.: Auswirkungen Bau Turbo - Sache ist erledigt
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Beschlussvorlagen zu Bürgereingaben
+- TOP 3.1.1: Bürgereingabe nach § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW) - „Entfernen der Steine auf dem Meisenweg zwischen den Hausnummern 33-47“, Aktenzeichen 113/25 - vertagt
+- TOP 3.1.2: Bürgereingabe nach § 24 GO - Schulneubau Lindweiler Hof in Köln-Bickendorf, Aktenzeichen 66/25B - vertagt
+- TOP 3.2: Mitteilungen zu Bürgereingaben
+- TOP 3.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Erweiterung Bewohnerparkgebiet Melatener Weg samt angrenzender Wohnstraßen, Az.: 151/25 - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme einer Schenkung für die Eichendorff-Realschule, Dechenstraße 1, 50825 Köln - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - vertagt
+- TOP 6.2: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - vertagt
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - vertagt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche AN/0769/2023 - vertagt
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Klimaanpassungsmaßnahmen an der Äußeren Kanalstraße - vertagt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke, betr.: Projekt "Holy Shit" - Sache ist erledigt
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der Bezirksvertretung Ehrenfeld betr . Projekt "Holy Shit" (AN/0005/2026) - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Planungen Grundstück Mathias-Brüggen-Str. 9 - Sache ist erledigt
+- TOP 7.2.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke zur Sitzung der Bezirksvertretung Ehrenfeld am 02.02.2026 (AN/0006/2026) betreffend Grundstück Mathias-Brüggen-Str. 9 - Kenntnis genommen
+- TOP 7.3: Anfrage der AfD-Fraktion, betr.: Sicherheit und Diskriminierungsfreiheit im Ehrenfelder Nachtleben - vertagt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Sachstand Flächenbedarf der Feuerwehr auf dem Gelände „Neues Quartier Bickendorf“ - vertagt
+- TOP 7.5: Anfrage der SPD-Fraktion, betr.: Wie geht es mit der Bezirkssportanlage Prälat-Ludwig-Wolker in Ehrenfeld weiter? - vertagt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Die Kreuzung Vogelsanger Straße / Ehrenfeldgürtel für alle Verkehrsteilnehmer*innen sicher umgestalten - vertagt
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Zebrastreifen vor der KGS Mengenicher Straße 28/33 - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktion Die Linke, betr.: Kreuzung Oskar-Jäger-Str./Vogelsanger Straße - geändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - vertagt
+- TOP 8.5: Antrag der AfD-Fraktion, betr.: Zeitweise Unterbringung von Geflüchteten in Studenten- und Ausbildungswohnheimen zur Entlastung des städtischen Unterbringungssystems - endgültig abgelehnt
+- TOP 8.6: Antrag von Marlis Pöttgen (FDP), betr.: Rechtsabbiegegebot für Radverkehr - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Sichere und durchgehende Radverkehrsführung im Stadtbezirk Ehrenfeld - vertagt
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Querung- und Wartezeit für Fußgänger und Hinweisschild Militärring/Carl-von-Linne-Weg - ungeändert beschlossen
+- TOP 8.9: Antrag der Fraktion Die Linke, betr.: Möglichkeiten für Notschlafplätze prüfen - geändert beschlossen
+- TOP 8.10: Antrag von Marlis Pöttgen (FDP), betr,; „Grüner Pfeil für Radverkehr“ - ungeändert beschlossen
+- TOP 8.11: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke, CDU-Fraktion, Regina Bensch (Volt), Marlis Pöttgen (FDP), betr.: Runder Tisch Rad- und Fußverkehr Ehrenfeld - ungeändert beschlossen
+- TOP 8.12: Antrag der SPD-Fraktion, betr.: Fußgängerüberweg Vogelsanger Straße, Höhe Zaunkönigweg - geändert beschlossen
+- TOP 8.13: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Alternative Begrünungslösungen für den Melatener Weg - ungeändert beschlossen
+- TOP 8.14: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Tempo 30 auf der Vogelsanger Straße - ungeändert beschlossen
+- TOP 8.15: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, Fraktion Die Linke, Regina Bensch (Volt) betr.: Neues Quartier Bickendorf - geändert beschlossen
+- TOP 8.16: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Vorlage Städtebauliche Verträge - ungeändert beschlossen
+- TOP 8.17: Gemeinsamer Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke, CDU-Fraktion, Regina Bensch (Volt),Marlis Pöttgen (FDP), betr.: Übertragung nicht verausgabter bezirksorientierter Mittel - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Genehmigung einer Dringlichkeitsentscheidung, betr.: Einrichtungs- und Mittelfreigabebeschluss für die Einrichtung des Neubaus mit Fünffachturnhalle der Gesamtschule Fitzmauricestraße in Köln-Ossendorf - ungeändert beschlossen
+- TOP 9.2: Errichtung eines "Offenen Bücherschrankes" am Gerhard-Wilczek - ungeändert beschlossen
+- TOP 9.3: Neugestaltung und Sanierung Spielplatz Takufeld 1 - Subbelrather Straße in Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Campus Colonius Nord - ohne Votum behandelt
+- TOP 10.2: Beschluss über die Aufhebung des Aufstellungsbeschlusses zu dem Bebauungsplanverfahren Arbeitstitel: Subbelrather Straße 385 (Hinterland) und 387 bis 407 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.3: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung 4 (Ehrenfeld) vom 05.12.2022 (AN/2228/2022) betreffend "Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217" - Kenntnis genommen
+- TOP 12.2: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 12.3: Bewirtschaftung des städtischen Waldes 2026 - Kenntnis genommen
+- TOP 12.4: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 12.5: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 12.6: Mitteilung über die erneute Veröffentlichung gemäß § 3 Abs. 2 BauGB i.V.m § 4a Absatz 3 BauGB des Bebauungsplanentwurfs Nr. 66461/16 – Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.7: Neubau Logistikhalle - Kenntnis genommen
+- TOP 12.8: 5. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 12.9: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 12.10: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 12.11: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 12.12: Tollerstr. 16 / Görlinger Zentrum 45 – Neubau Interimsanlage für die Gesamtschule Görlinger Zentrum (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 12.13: Tollerstr. 16 / Görlinger Zentrum 45 – Neubau mehrerer Schulgebäude (Grundstück > 3.000qm) - Kenntnis genommen
+- TOP 12.14: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 13: mündliche Anfragen
