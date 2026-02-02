@@ -1,0 +1,74 @@
+# 3.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-02-02T17:00:00+01:00
+- Ende: 2026-02-02T18:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33947
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33947
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Wohnungs- und Obdachlosigkeit im Stadtbezirk Köln-Mülheim – Situation der Betroffenen verbessern und Lehren für den nächsten Winter ziehen
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Lichtsignalanlage Frankfurter Str. / Ecke Alte Wippperfürther Str.
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90 / Die Grünen aus der Sitzung d. Bezirksvertretung Mülheim am 04.03.2024 betr. "Ist der Schulweg am Pfälzischen Ring sicher?" (AN/0238/2024), TOP 7.2.5
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Installation beheizter Einhausungen zur Erwärmung des Brückenkörpers der Zoobrücke zwecks Installation der Blitzeranlagen - Kenntnis genommen
+- TOP 7.2.2: Holweide – Zustände zentraler Radwege und Radverkehrssicherheit - Kenntnis genommen
+- TOP 7.2.3: Baumaßnahme an der Eisenbahnbrücke Am Flachsrosterweg - Kenntnis genommen
+- TOP 7.2.4: Provisorische Halteverbotsschilder " An der Kemperwiese" - Kenntnis genommen
+- TOP 7.2.5: Zustand und Sanierung des Flittarder Damms - Kenntnis genommen
+- TOP 7.2.6: Bauprojekt der GAG in der Siedlung Köln- Stammheim ( Elias-Gut-Straße, Georg- Beyer-Straße, Adolf-Kober-Straße und Moses-Hess-Straße) - Kenntnis genommen
+- TOP 7.2.7: Sachstand zu extremistischen und menschenfeindlichen Strukturen/Bestrebungen in Köln und im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Prüfauftrag für mögliche Parkhäuser, Quartiersgaragen und Mobility Hub-Standorte - geändert beschlossen
+- TOP 8.1.2: Prüfauftrag zur durchgehenden Einrichtung von Tempo 30 auf der Roggendorfstraße - ungeändert beschlossen
+- TOP 8.1.3: Leerstehende Wohnungen in der GAG-Siedlung in Köln-Stammheim (Adolf- Kober- Straße, Moses- Hess-Straße) übergangsweise wieder bewohnbar machen - geändert beschlossen
+- TOP 8.1.4: Schadhafte Stelle des Flittarder Deichs in Höhe des RTHC- Ruderclubs zeitnah ausbessern und einen Ortstermin oder ein Fachgespräch mit der Verwaltung zur Thematik vereinbaren - ungeändert beschlossen
+- TOP 8.1.5: Gewaltpräventionsstrukturen im Bezirk stärken - geändert beschlossen
+- TOP 8.1.6: Betrieb einer Leihstation für KVB-Räder an der KVB-Haltestelle „Buchheim / Herler Straße“ - ungeändert beschlossen
+- TOP 8.1.7: Parkraum effizienter nutzen - Feierabendparken auch in Mülheim - ungeändert beschlossen
+- TOP 8.1.8: Boule-Spielfeld für den Picco-Platz in Holweide - ungeändert beschlossen
+- TOP 8.1.9: Ampelkoordination Clevischer Ring / Von-Lohe-Straße optimieren - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung einer Planstraße im Baugebiet Möhl Areal in Köln-Dellbrück - ungeändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2026; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 10 des Friedhofs Holweide - ungeändert empfohlen
+- TOP 9.2.2: Bedarfsfeststellungsbeschluss: Verkehrsuntersuchung zur Verträglichkeit einer geänderten Radverkehrsführung auf der Mülheimer Brücke – Vergabe einer freiberuflichen Leistung: MIKROSIMULATION - vertagt
+- TOP 9.2.3: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 9.2.4: Satzung über die abweichende Herstellung der Erschließungsanlage Von-der-Leyen-Straße/Marthastraße von Dellbrücker Hauptstraße bis Von-Quadt-Straße in Köln-Dellbrück - ungeändert empfohlen
+- TOP 9.2.5: verschoben auf 10.2.10
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim - vertagt
+- TOP 10.2.2: Unerledigte Anfragen - Kenntnis genommen
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.4: Kreisverkehr Zeisbuschweg - vertagt
+- TOP 10.2.5: Strukturdaten der Kölner Stadtbezirke - Kenntnis genommen
+- TOP 10.2.6: Bewirtschaftung des städtischen Waldes 2026 - Kenntnis genommen
+- TOP 10.2.7: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Lastenrad): Evaluation des Pilotversuchs - Kenntnis genommen
+- TOP 10.2.8: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 10.2.9: Einführung der digitalen Beteiligungsplattform „Bauleitplanung Online" - Kenntnis genommen
+- TOP 10.2.10: 5. Sachstandsbericht strategische Grünentwicklung - vertagt
+- TOP 10.2.11: Baugenehmigung zur Errichtung von 7 Wohngebäuden, einer Beratungs- und Seminareinrichtung für den Verein "Frauen helfen Frauen" und einer Einrichtung für Menschen mit Beeinträchtigungen - Kenntnis genommen
+- TOP 10.2.12: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 10.2.13: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 10.2.14: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 10.2.15: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
