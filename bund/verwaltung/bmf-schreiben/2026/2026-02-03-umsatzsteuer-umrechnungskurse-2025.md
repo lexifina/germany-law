@@ -1,0 +1,590 @@
+# Umsatzsteuer-Umrechnungskurse, Gesamtübersicht für das Jahr 2025
+
+- Herausgeber: Bundesministerium der Finanzen
+- Datum: 2026-02-03
+- Art: BMF-Schreiben
+- Sachgebiet (BMF): Steuerarten / Umsatzsteuer / Umsatzsteuer Umrechnungskurse
+- Quelle: https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Umrechnungskurse/2026-02-03-umsatzsteuer-umrechnungskurse-2025.html
+- PDF: https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Umrechnungskurse/2026-02-03-umsatzsteuer-umrechnungskurse-2025.pdf?__blob=publicationFile&v=6
+- Text: Textebene der amtlichen PDF-Datei, unverändert
+
+---
+
+Bundesministerium der Finanzen, 11016 Berlin
+Nur per E-Mail
+Oberste Finanzbehörden der Länder
+
+Wilhelmstraße 97 10117 Berlin Tel. +49 30 18 682-0 poststelle@bmf.bund.de www.bundesfinanzministerium.de 3. Februar 2026
+- E-Mail-Verteiler U 1 -
+
+Betreff: Umsatzsteuer-Umrechnungskurse; Gesamtübersicht für das Jahr 2025 Anlagen: 1 GZ: III C 3 - S 7329/00014/007/197 DOK: COO.7005.100.2.13973160 Seite 1 von 1
+(bei Antwort bitte GZ und DOK angeben)
+Hiermit übersende ich die Gesamtübersicht 2025 über die gemäß § 16 Abs. 6 UStG monatlich bekannt gegebenen Umsatzsteuer-Umrechnungskurse.
+
+Diejenigen Währungen, für die keine Umrechnungskurse bekannt gegeben sind, sind jeweils nach dem Tageskurs umzurechnen.
+
+Dieses Schreiben tritt an die Stelle der BMF-Schreiben vom:
+
+Datum 3. Februar 2025 3. März 2025 1. April 2025 2. Mai 2025 2. Juni 2025 1. Juli 2025 1. August 2025 1. September 2025 1. Oktober 2025 3. November 2025 1. Dezember 2025 2. Januar 2026
+
+Aktenzeichen III C 3 - S 7329/00014/007/005 III C 3 - S 7329/00014/007/022 III C 3 - S 7329/00014/007/038 III C 3 - S 7329/00014/007/054 III C 3 - S 7329/00014/007/069 III C 3 - S 7329/00014/007/084 III C 3 - S 7329/00014/007/100 III C 3 - S 7329/00014/007/117 III C 3 - S 7329/00014/007/134 III C 3 - S 7329/00014/007/150 III C 3 - S 7329/00014/007/165 III C 3 - S 7329/00014/007/181
+
+Dok-Nr. COO.7005.100.4.11212934 COO.7005.100.3.11489394 COO.7005.100.3.11614007 COO.7005.100.4.11913919 COO.7005.100.3.12133851 COO.7005.100.2.12380200 COO.7005.100.2.12637131 COO.7005.100.3.12848429 COO.7005.100.3.13100349 COO.7005.100.4.13359578 COO.7005.100.2.13614609 COO.7005.100.2.13826336
+
+Fundstelle BStBl I S. 275 BStBl I S. 572 BStBl I S. 752 BStBl I S. 1016 BStBl I S. 1224 BStBl I S. 1465 BStBl I S. 1520 BStBl I S. 1648 BStBl I S. 1761 BStBl I S. 1823 BStBl I S. 1936 BStBl I S. 108
+
+Dieses Schreiben wird im Bundesanzeiger und im Bundessteuerblatt Teil I veröffentlicht.
+
+Im Auftrag
+
+Gesamtbersicht 2025 Umsatzsteuer-Umrechnungskurse
+Euro-Referenzkurse
+
+Land Australien Brasilien Bulgarien China (VR) Dänemark Großbritannien Hongkong Indien Indonesien Island Israel Japan
+
+Währung Januar1 Februar2 März3
+
+1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro
+
+1,6626 AUD
+6,2408 BRL
+1,9558 BGN
+7,5560 CNY
+7,4609 DKK
+0,83908 GBP
+8,0605 HKD
+89,3418 INR
+16.832,40 IDR
+145,40 ISK
+3,7450 ILS
+161,92 JPY
+
+1,6528 AUD
+6,0053 BRL
+1,9558 BGN
+7,5749 CNY
+7,4592 DKK
+0,83071 GBP
+8,1031 HKD
+90,6346 INR
+17.020,42 IDR
+146,26 ISK
+3,7149 ILS
+158,09 JPY
+
+1,7158 AUD
+6,2368 BRL
+1,9558 BGN
+7,8353 CNY
+7,4597 DKK
+0,83703 GBP
+8,4000 HKD
+93,4985 INR
+17.800,79 IDR
+145,26 ISK
+3,9523 ILS
+161,17 JPY
+
+April4
+
+Mai5
+
+Juni6
+
+Juli7 August8 September9 Oktober10 November11 Dezember12
+
+1,7844 AUD
+6,4759 BRL
+1,9558 BGN
+8,1850 CNY
+7,4648 DKK
+0,85379 GBP
+8,7071 HKD
+95,9723 INR
+18.871,74 IDR
+145,00 ISK
+4,1460 ILS
+161,67 JPY
+
+1,7521 AUD
+6,3953 BRL
+1,9558 BGN
+8,1348 CNY
+7,4600 DKK
+0,84350 GBP
+8,8022 HKD
+96,1427 INR
+18.526,84 IDR
+145,49 ISK
+4,0189 ILS
+163,14 JPY
+
+1,7723 AUD
+6,3913 BRL
+1,9558 BGN
+8,2700 CNY
+7,4597 DKK
+0,84981 GBP
+9,0387 HKD
+98,9782 INR
+18.776,57 IDR
+143,45 ISK
+4,0064 ILS
+166,52 JPY
+
+1,7862 1,7920 1,7795 AUD AUD AUD
+
+6,4611 6,3439 6,3013
+
+BRL
+
+BRL
+
+BRL
+
+1,9558 1,9558 1,9558
+
+BGN
+
+BGN
+
+BGN
+
+8,3754 8,3442 8,3586
+
+CNY
+
+CNY
+
+CNY
+
+7,4625 7,4638 7,4644 DKK DKK DKK
+
+0,86469 0,86528 0,86895
+
+GBP
+
+GBP
+
+GBP
+
+9,1661 9,1035 9,1342 HKD HKD HKD
+
+100,6043 101,8425 103,6023
+
+INR
+
+INR
+
+INR
+
+19.029,69 18.967,88 19.399,67
+
+IDR
+
+IDR
+
+IDR
+
+142,39 143,10 142,98
+
+ISK
+
+ISK
+
+ISK
+
+3,9148 3,9507 3,9235
+
+ILS
+
+ILS
+
+ILS
+
+171,53 171,79 173,55
+
+JPY
+
+JPY
+
+JPY
+
+1,7781 AUD
+6,2614 BRL
+1,9558 BGN
+8,2810 CNY
+7,4680 DKK
+0,87155 GBP
+9,0426 HKD
+102,8353 INR
+19.310,79 IDR
+142,22 ISK
+3,8204 ILS
+176,15 JPY
+
+1,7772 AUD
+6,1728 BRL
+1,9558 BGN
+8,2149 CNY
+7,4679 DKK
+0,87997 GBP
+8,9898 HKD
+102,7101 INR
+19.303,88 IDR
+146,83 ISK
+3,7629 ILS
+179,32 JPY
+
+1,7634 AUD
+6,3806 BRL
+1,9558 BGN
+8,2491 CNY
+7,4696 DKK
+0,87500 GBP
+9,1114 HKD
+105,4131 INR
+19.548,05 IDR
+148,19 ISK
+3,7648 ILS
+182,50 JPY
+
+Seite 2 von 3
+
+Land
+
+Währung Januar1 Februar2 März3
+
+Kanada Korea, Republik Malaysia Mexiko Neuseeland Norwegen Philippinen Polen Rumänien Russland1
+
+1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro
+
+1,4904 CAD
+1.503,60 KRW
+4,6232 MYR
+21,2951 MXN
+1,8393 NZD
+11,7456 NOK
+60,479 PHP
+4,2467 PLN
+4,9752 RON
+
+1,4893 CAD
+1.505,02 KRW
+4,6261 MYR
+21,3268 MXN
+1,8337 NZD
+11,6574 NOK
+60,443 PHP
+4,1722 PLN
+4,9770 RON
+
+1,5518 CAD
+1.576,45 KRW
+4,7927 MYR
+21,8760 MXN
+1,8879 NZD
+11,5472 NOK
+62,013 PHP
+4,1820 PLN
+4,9768 RON
+
+April4
+
+Mai5
+
+1,5701 CAD
+1.617,41 KRW
+4,9510 MYR
+22,5071 MXN
+1,9256 NZD
+11,8380 NOK
+63,744 PHP
+4,2652 PLN
+4,9775 RON
+
+1,5646 CAD
+1.566,14 KRW
+4,8091 MYR
+21,9250 MXN
+1,8998 NZD
+11,5968 NOK
+62,742 PHP
+4,2538 PLN
+5,0714 RON
+
+Juni6
+1,5754 CAD
+1.573,37 KRW
+4,8848 MYR
+21,9261 MXN
+1,9114 NZD
+11,5841 NOK
+64,901 PHP
+4,2658 PLN
+5,0454 RON
+
+Juli7 August8 September9 Oktober10 November11 Dezember12
+
+1,5982 CAD
+1.608,95 KRW
+4,9462 MYR
+21,8347 MXN
+1,9471 NZD
+11,8537 NOK
+66,415 PHP
+4,2541 PLN
+5,0716 RON
+
+1,6057 CAD
+1.617,15 KRW
+4,9166 MYR
+21,7728 MXN
+1,9721 NZD
+11,8653 NOK
+66,452 PHP
+4,2613 PLN
+5,0651 RON
+
+1,6227 CAD
+1.634,39 KRW
+4,9417 MYR
+21,7063 MXN
+1,9940 NZD
+11,6702 NOK
+67,212 PHP
+4,2589 PLN
+5,0740 RON
+
+1,6280 CAD
+1.655,92 KRW
+4,9028 MYR
+21,4305 MXN
+2,0198 NZD
+11,6633 NOK
+67,884 PHP
+4,2488 PLN
+5,0872 RON
+
+1,6248 CAD
+1.687,64 KRW
+4,8021 MYR
+21,2957 MXN
+2,0439 NZD
+11,7402 NOK
+68,066 PHP
+4,2376 PLN
+5,0867 RON
+
+1,6168 CAD
+1.717,44 KRW
+4,7920 MYR
+21,1787 MXN
+2,0249 NZD
+11,8428 NOK
+68,941 PHP
+4,2239 PLN
+5,0913 RON
+
+Schweden Schweiz Singapur Südafrika Thailand Tschechien
+
+1 Euro 1 Euro 1 Euro 1 Euro 1 Euro 1 Euro
+
+11,4797 SEK
+0,9414 CHF
+1,4092 SGD
+19,3821 ZAR
+35,444 THB
+25,163 CZK
+
+11,2474 SEK
+0,9413 CHF
+1,4022 SGD
+19,2451 ZAR
+35,189 THB
+25,077 CZK
+
+10,9675 SEK
+0,9548 CHF
+1,4441 SGD
+19,7403 ZAR
+36,522 THB
+25,001 CZK
+
+10,9744 SEK
+0,9370 CHF
+1,4852 SGD
+21,1972 ZAR
+37,883 THB
+25,039 CZK
+
+10,8812 SEK
+0,9356 CHF
+1,4589 SGD
+20,4124 ZAR
+37,143 THB
+24,923 CZK
+
+11,0094 SEK
+0,9380 CHF
+1,4782 SGD
+20,5631 ZAR
+37,564 THB
+24,804 CZK
+
+11,1985 SEK
+0,9325 CHF
+1,4960 SGD
+20,7477 ZAR
+37,883 THB
+24,625 CZK
+
+11,1610 SEK
+0,9387 CHF
+1,4954 SGD
+20,6230 ZAR
+37,755 THB
+24,517 CZK
+
+11,0004 SEK
+0,9350 CHF
+1,5075 SGD
+20,4793 ZAR
+37,549 THB
+24,347 CZK
+
+10,9699 SEK
+0,9289 CHF
+1,5074 SGD
+20,0976 ZAR
+37,886 THB
+24,315 CZK
+
+10,9915 SEK
+0,9290 CHF
+1,5058 SGD
+19,9088 ZAR
+37,436 THB
+24,234 CZK
+
+10,8956 SEK
+0,9332 CHF
+1,5120 SGD
+19,7180 ZAR
+37,009 THB
+24,259 CZK
+
+1 Die EZB hat die Veröffentlichung des Euro-Referenzkurses zum Rubel mit Wirkung vom 2. März 2022 bis auf Weiteres ausgesetzt.
+
+Land Türkei Ungarn USA
+
+Seite 3 von 3
+
+Währung Januar1 Februar2 März3
+
+1 Euro 1 Euro 1 Euro
+
+36,8091 TRY
+411,73 HUF
+1,0354 USD
+
+37,6927 TRY
+403,13 HUF
+1,0413 USD
+
+40,1683 TRY
+399,81 HUF
+1,0807 USD
+
+April4
+
+Mai5
+
+42,7740 TRY
+406,44 HUF
+1,1214 USD
+
+43,7908 TRY
+403,94 HUF
+1,1278 USD
+
+Juni6
+45,4347 TRY
+402,08 HUF
+1,1516 USD
+
+Juli7 August8 September9 Oktober10 November11 Dezember12
+
+46,9835 TRY
+399,19 HUF
+1,1677 USD
+
+47,4983 TRY
+396,45 HUF
+1,1631 USD
+
+48,4914 TRY
+391,63 HUF
+1,1732 USD
+
+48,6799 TRY
+389,91 HUF
+1,1630 USD
+
+48,8908 TRY
+384,20 HUF
+1,1560 USD
+
+49,9695 TRY
+384,97 HUF
+1,1709 USD
+
+Abruf als Datensatz im Datenportal: https://www.bundesfinanzministerium.de/Datenportal/Daten/offene-daten/steuern-zoelle/umsatzsteuerumrechnungskurse/umsatzsteuer-umrechnungskurse.html
+
+1
+
+entsprechend BMF-Schreiben vom 3. Februar 2025 - III C 3 - S 7329/00014/007/005 (COO.7005.100.4.11212934) -
+
+2
+
+entsprechend BMF-Schreiben vom 3. März 2025 - III C 3 - S 7329/00014/007/022 (COO.7005.100.3.11489394) -
+
+3
+
+entsprechend BMF-Schreiben vom 1. April 2025 - III C 3 - S 7329/00014/007/038 (COO.7005.100.3.11614007) -
+
+4
+
+entsprechend BMF-Schreiben vom 2. Mai 2025 - III C 3 - S 7329/00014/007/054 (COO.7005.100.4.11913919) -
+
+5
+
+entsprechend BMF-Schreiben vom 2. Juni 2025 - III C 3 - S 7329/00014/007/069 (COO.7005.100.3.12133851) -
+
+6
+
+entsprechend BMF-Schreiben vom 1. Juli 2025 - III C 3 - S 7329/00014/007/084 (COO.7005.100.2.12380200) -
+
+7
+
+entsprechend BMF-Schreiben vom 1. August 2025 - III C 3 - S 7329/00014/007/100 (COO.7005.100.2.12637131) -
+
+8
+
+entsprechend BMF-Schreiben vom 1. September 2025 - III C 3 - S 7329/00014/007/117 (COO.7005.100.3.12848429) -
+
+9
+
+entsprechend BMF-Schreiben vom 1. Oktober 2025 - III C 3 - S 7329/00014/007/134 (COO.7005.100.3.13100349) -
+
+10
+
+entsprechend BMF-Schreiben vom 3. November 2025 - III C 3 - S 7329/00014/007/150 (COO.7005.100.4.13359578) -
+
+11
+
+entsprechend BMF-Schreiben vom 1. Dezember 2025 - III C 3 - S 7329/00014/007/165 (COO.7005.100.2.13614609) -
+
+12
+
+entsprechend BMF-Schreiben vom 2. Januar 2026 - III C 3 - S 7329/00014/007/181 (COO.7005.100.2.13826336) -
