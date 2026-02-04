@@ -1,0 +1,60 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-02-04T17:10:00+01:00
+- Ende: 2026-02-04T18:47:00+01:00
+- Ort: ACHTUNG, geänderter Ort: Rathaus Kaiserswerth, Sitzungssaal, Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29716
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29716
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00575816.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00575816.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00575816.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 12.11.2025 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 03.12.2025 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses über das Projekt "Ersatzneubau der zweizügigen Katholischen Grundschule Rather Kreuzweg inkl. Zweifeld-Sporthalle" - Empfehlung abweichend beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfrage (wurden bereits übersandt)
+- TOP 10: Anfrage der CDU-Fraktion: Zukünftig geplante Baustellen und vorgesehene Zeitrahmen im Stadtbezirk 6 - vertagt
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Regelungen für den Einsatz von Bodenschwellen (auf der Krahnenburgstraße) - vertagt
+- TOP 12: Anfrage der SPD-Fraktion: Arztpraxen im Stadtbezirk 6 - vertagt
+- TOP -: Anfragen
+- TOP 13: Anfrage der SPD-Fraktion: Toilettenanlage Unterrather Friedhof - schriftlich beantwortet
+- TOP -: Verwaltungsvorlagen (wurden bereits übersandt)
+- TOP 14: An der Golzheimer Heide - Schulwegsicherung - vertagt
+- TOP 15: Verfügungsmittel 2025 - Zuschussvergabe 2025 Antrag des Gamma e. V. - Beschaffung von Equipment - mehrheitlich beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 16: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der GGS Krahnenburgstraße - "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 17: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Friedrich-Rückert-Gymnasiums - Gedenkstättenfahrt nach Ausschwitz und Krakau - einstimmig beschlossen
+- TOP 18: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der Realschule Borbecker Straße - Trixitt Schulsportevent - einstimmig beschlossen
+- TOP 19: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Amtes für Soziales und Jugend und JFE Ammerweg - Sommerfest Ammerweg- Wasserrutsche - einstimmig beschlossen
+- TOP 20: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Bürger-Schützenvereins 1925 e. V. Düsseldorf-Rath - Seniorenfrühstück am Schützenfestmontag - einstimmig beschlossen
+- TOP 21: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des English Theatre Düsseldorf - Performance und Education - From Page to Stage - vertagt
+- TOP 22: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Sitzgelegenheiten Vorplatz Theodorstraße - vertagt
+- TOP -: Informationsvorlagen
+- TOP 23: Bewerbung der Landeshauptstadt Düsseldorf als Standort für ein Yad Vashem Education Center - zur Kenntnis genommen
+- TOP 24: Vorläufige Mittelbereitstellungen 2026 für den Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 25: Baumfällungen im Stadtbezirk 6 in der 51. KW - zur Kenntnis genommen
+- TOP 26: Kurvenlärm Unterrather Straße/Kalkumer Straße - Vorlage BV6/115/2022 und Vorlage BV6/228/2022 - zur Kenntnis genommen
+- TOP 27: Zugang zum Park über dem Flughafentunnel am Projektbüro U81 - Vorlage BV6/098/2023 und Vorlage BV6/019/2024 - zur Kenntnis genommen
+- TOP 28: Verbot von Mopeds auf dem Rather Korso - Vorlage BV6/123/2025 - zur Kenntnis genommen
+- TOP 29: Prüfung der Verlängerung der Buslinie 730 zur Arena zur Neuaufstellung des Nahverkehrsplans - Vorlage BV6/196/2025 - zur Kenntnis genommen
+- TOP 30: Baumfällungen im Stadtbezirk 6 in der 50. KW 2025 - zur Kenntnis genommen
+- TOP 31: Beratung des doppischen Entwurfes - zur Kenntnis genommen
+- TOP 32: Sicherstellung der Durchgangsbreite des Gehwegs auf der Westfalenstraße - Vorlage BV6/127/2025 - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 33: Antrag der SPD-Fraktion: Haushalt 2026 - Instandsetzung der Kreitenstraße, Mörsenbroich - mehrheitlich abgelehnt
+- TOP 34: Antrag der SPD-Fraktion: Haushalt 2026 - Sanierung der Schultoiletten der GGS Max-Halbe-Straße - mehrheitlich abgelehnt
+- TOP 35: Antrag der SPD-Fraktion: Haushalt 2026 - Durchführung einer Verkehrsberuhigung Wangeroogestraße/Kleinschmitthauser Weg - mehrheitlich abgelehnt
+- TOP 36: Antrag der SPD-Fraktion: Haushalt 2026 - Verkehrskonzept Kreuzungsbereich Unterrather Straße/Kalkumer Straße - mehrheitlich abgelehnt
