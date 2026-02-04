@@ -1,0 +1,53 @@
+# Ausschuss für Umwelt, Grünflächen und Klimaschutz
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-02-04T17:06:00+01:00
+- Ende: 2026-02-04T18:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/225
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7998
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7998
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket AUGK öffentlich stand 23.01.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00236802.pdf
+- Ergebnisprotokoll: Sitzungspaket AUGK öffentlich stand 23.01.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00236802.pdf
+- Wortprotokoll: Sitzungspaket AUGK öffentlich stand 23.01.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00236802.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Verpflichtung der sachkundigen Bürger*innen - einstimmig zugestimmt
+- TOP 3.1: Bestellung einer Schriftführung und einer stellvertretenden Schriftführung im Ausschuss für Umwelt, Grünflächen und Klimaschutz - einstimmig zugestimmt
+- TOP 4: Bestellung eines Ausschussmitglieds, das neben der Ausschussvorsitzenden und dem Schriftführer die Niederschriften über die Sitzungen des Ausschusses für Umwelt, Grünflächen und Klimaschutz unterzeichnet - einstimmig zugestimmt
+- TOP 5: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 6: Feststellung des Jahresabschlusses zum 31.12.2024 für Stadtgrün Neuss (vormals Städtische Friedhöfe Neuss) - einstimmig zugestimmt
+- TOP 7: Gebührenkalkulation für den Bereich Bestattungswesen - einstimmig zugestimmt
+- TOP 8: Wirtschaftsplan 2026 für Stadtgrün Neuss (SGN) - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 9: Beratung des Haushaltsplanentwurfes 2026 - mit Änderungen einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 10: Antrag der Fraktion Bündnis 90/Die Grünen v. 20.11.2025 bezgl. "Umsetzung von Öffentlichkeitsarbeit zum KLAK während der Landesgartenschau" - zurückgezogen
+- TOP 11: Antrag der CDU v. 19.01.2026 bezgl. "Bericht zum Zustand der verbundenen Gewässer im Selikumer Park zwischen Wildgehege und Betriebsgelände von Stadtgrün Neuss/Fuß- und Radweg Nierenhofstraße" - beraten ohne Abstimmung
+- TOP 11.1: Antrag der SPD v. 20.01.2026 bzgl. "Festsetzung der Tagesordnung - Erfahrungsbericht zur ausgeweiteten Pflege der Grünflächen in der Stadt Neuss" - beraten ohne Abstimmung
+- TOP 11.2: Antrag der Fraktion Bündnis 90, Die Grünen v. 23.01.2026 bezgl. Bericht zu geplanten Artenschutzmaßnahmen rund um den Krötentunnel an der Morgensternsheide" - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 12: Anfrage der CDU v. 20.01.2026 bezgl. "Anfrage gemäß § 14 GO-Rat: Nach der Landesgartenschau Neuss 2026 - Wie geht es weiter?" - zur Kenntnis genommen
+- TOP 12.1: Anfrage der AFD v. 26.01.2026 bzgl. "Haushaltsplanentwurf 2026 – Teilhaushalt Amt für Umwelt und Klima (Dezernat 5 / Amt 19) – Klärungsbedarf zu auffälligen Abweichungen" - zur Kenntnis genommen
+- TOP 12.2: Anfrage der AFD v. 27.01.2026 bezgl. "Anfrage zu TOP 8 der Ausschusssitzung am 4. Februar 2026: Wirtschaftlichkeit von Fremdleistungen sowie Personaleinsatz und Personalstruktur" - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 13: Öffentlichkeitsarbeit zum Klimaanpassungskonzept (KLAK) während der Landesgartenschau - zur Kenntnis genommen
+- TOP 14: Vorstellung eines digitalen Tools für das integrierte Klimaschutzkonzept (IKK) - zur Kenntnis genommen
+- TOP 15: Sachstandsbericht zum Zustand des Gillbachs - zur Kenntnis genommen
+- TOP 16: Sachstandsbericht zum Zustand der Hummelbachaue - zur Kenntnis genommen
+- TOP 17: Sachstandsbericht zur Errichtung einer Aussiedlungsstelle für Eichhörnchen und der Etablierung einer Eichhörnchenbrücke - zur Kenntnis genommen
+- TOP 17.1: Bericht zum Zustand der verbundenen Gewässer im Selikumer Park zwischen Wildgehege und Betriebsgelände von Stadtgrün Neuss/Fuß- und Radweg Nierenhofstraße - zur Kenntnis genommen
+- TOP 17.2: Bericht zu geplanten Artenschutzmaßnahmen rund um den Krötentunnel an der Morgensternsheide - zur Kenntnis genommen
+- TOP 17.3: Erfahrungsbericht zur ausgeweiteten Pflege der Grünflächen in der Stadt Neuss - zur Kenntnis genommen
+- TOP 18: Baumbericht 2025 - zur Kenntnis genommen
+- TOP 19: Quartalsbericht für Stadtgrün Neuss zum 30.09.2025 - zur Kenntnis genommen
+- TOP 20: Kolumbarium auf dem Hauptfriedhof - zur Kenntnis genommen
+- TOP 21: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 22: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
