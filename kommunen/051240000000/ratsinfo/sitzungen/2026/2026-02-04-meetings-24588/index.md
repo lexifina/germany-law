@@ -1,0 +1,65 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-02-04T19:00:00+01:00
+- Ende: 2026-02-04T21:23:00+01:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24588
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24588
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00358834.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00359512.pdf
+
+## Tagesordnung
+
+- TOP 1: Kooperationsmaßnahme Elberfeld 2030 – Bericht von Firma Drees & Sommer
+- TOP 1.1: Projektstand der Kooperationsmaßnahme Elberfeld 2030 - Entgegennahme ohne Beschluss
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 4: Zukunft der WSW-Cabs - Berichterstattung durch die WSW
+- TOP 4.1: Aufgabe des CAB-Verkehrs in Elberfeld durch die WSW - Große Anfrage der Fraktion Bündnis90/ Die Grünen - Entgegennahme ohne Beschluss
+- TOP 5: Weihnachtsmarkt ´26 – Bericht Schaustellerverein
+- TOP 6: Änderungsantrag zur Drucksache VO/0096/26 - Antrag der Fraktion Die Linke - geändert beschlossen
+- TOP 7: Platz am Kolk: Umgestaltung in InnenBandStadt, Eröffnung und Rahmenbedingungen zur Nutzung - geändert beschlossen
+- TOP 8: Endbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 9: Nutzung und Pflege des Platzes am Kolk - Große Anfrage der Fraktion Bündnis90/ Die Grünen - Entgegennahme ohne Beschluss
+- TOP 9.1: Nutzung und Pflege des Platzes am Kolk - Antwort auf Große Anfrage der Fraktion BÜNDNIS 90/ DIE GRÜNEN - Entgegennahme ohne Beschluss
+- TOP 10: Auswirkungsanalyse DOC Remscheid - vertagen
+- TOP 10.1: Sachstand zur Auswirkungsanalyse des Outletcenters Remscheid - vertagen
+- TOP 11: Bericht City Manager - vertagen
+- TOP 12: Bürgerantrag gemäß §24 GO NRW - Begleitmarkierung für den als Fahrradstraße ausgewiesenen Teil der Luisenstraße - ungeändert beschlossen
+- TOP 13: Veranstaltung: Mobile Artisten Show am 12.04.2026 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 14: Errichtung von 10 Ladesäulen für E-Fahrzeuge mit insgesamt 20 Ladepunkten in der Gaußstraße - ungeändert beschlossen
+- TOP 15: Ladesäulenstandorte - Elberfeld - ungeändert beschlossen
+- TOP 16: Aufnahme der Alsenstraße in die bestehende Tempo 30-Zone - ungeändert beschlossen
+- TOP 17: Denkmalgerechte Ertüchtigung der Guericke- und Röntgentreppe - ungeändert beschlossen
+- TOP 18: Einbringung des Haushaltsplanentwurfes 2026/2027
+- TOP 19: Einbringung des Haushaltssicherungskonzeptes 2026 ff.
+- TOP 20: Bebauungsplan 1301 - Steinbecker Meile / Hoeftstraße - - ungeändert beschlossen
+- TOP 21: Ladesäulenstandorte (überbezirkliche Straßen) - ungeändert beschlossen
+- TOP 22: Einrichtung von Tempo 30 Hochstraße / Ecke Küferstraße bis Ecke Marienstraße und Einrichtung einer Querungshilfe auf Höhe Hausnummer 28 - ungeändert beschlossen
+- TOP 23: Freigabe der Busspur Bundesallee/Kluse - vertagen
+- TOP 24: Grundsatzbeschluss: Einrichtung eines befristeten Teilstandortes Döppersberg für das Wilhelm-Dörpfeld-Gymnasium - ungeändert beschlossen
+- TOP 25: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2026/2027 - ungeändert beschlossen
+- TOP 26: Entgegennahmen ohne Beschluss
+- TOP 26.1: Sachstand zum Knotenpunktnetz in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 26.2: Planfeststellungsbeschluss zum Umbau Südsteg Hauptbahnhof Wuppertal - Entgegennahme ohne Beschluss
+- TOP 26.3: Projektbericht zu der temporären Möblierung auf dem Ölberg - Entgegennahme ohne Beschluss
+- TOP 26.4: Förderprojekt Soziale Innovationen in Bauen, Wohnen und Stadtentwicklung (Zwischenbericht) - Entgegennahme ohne Beschluss
+- TOP 27: Anträge
+- TOP 27.1: Festlegung Höchstgeschwindigkeit auf der Hochstraße im Abschnitt zwischen Karlstraße und Wiesenstraße auf 40 km/h - Antrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 27.2: Sauberkeit, Sicherheit und Aufwertung der Grünfläche im Bereich Gathe Ecke Paradestraße - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 27.3: Prüfauftrag Verkehrsberuhigung Grünewalder Berg - Antrag der Fraktion Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 27.4: Sichere Führung des Radverkehrs entgegen der Fahrtrichtung auf der Friedrichstraße zwischen Willy Brandt Platz und Neumarktstraße - Gemeinsamer Antrag von SPD, Die Linke, Bündnis90/ Die Grünen und CDU - ungeändert beschlossen
+- TOP 27.5: Rücknahme des formalen Beschlusses der Bezirksvertretung Elberfeld vom 02.07.2025 (Umsetzung von Beschlüssen der Bezirksvertretung im Ressort 104 - Straßen und Verkehr) - Gemeinsamer Antrag von SPD, Die Linke, Bündnis90/ Die Grünen und CDU - ungeändert beschlossen
+- TOP 27.6: Anbringung von Pfandringen an Mülleimern mit Befestigungsstangen an ausgewählten Plätzen im Stadtbezirk Elberfeld - Antrag der Fraktion Die Linke - geändert beschlossen
+- TOP 28: Anfragen
+- TOP 28.1: Bewerbung um Bundeswehrstandort - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 28.1.1: Antwort der Verwaltung zur Großen Anfrage der CDU-Fraktion "Bewerbung um Bundeswehrstandort" - Entgegennahme ohne Beschluss
+- TOP 28.2: Erhöhung der Verkehrssicherheit für Fußgängerinnen und Fußgänger im Bereich Platz der Republik Paradestraße Gesamtschule Else Lasker-Schüler - Große Anfrage der SPD Fraktion
+- TOP 28.3: Problem- und Schrottimmobilien - Große Anfrage der Fraktion Bündnis90/ Die Grünen - Entgegennahme ohne Beschluss
+- TOP 28.3.1: Problem- und Schrottimmobilien (BV Elberfeld) - Entgegennahme ohne Beschluss
+- TOP 28.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.4.1: Sachstand der Mobilitätsuntersuchung Elberfeld - Entgegennahme ohne Beschluss
