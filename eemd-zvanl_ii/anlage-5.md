@@ -118,7 +118,6 @@ Die Messdatenauswertung erfolgt durch den Mauterheber. Der Mauterheber stellt de
 Der EETS-Anbieter muss einen Zielwert für QP_NUTZERLISTE von mindestens 99,900 % erreichen. Die Nutzerlistenquote wird für jeden Kalendermonat gemessen, durch den Mauterheber festgestellt und auf drei Stellen nach dem Komma kaufmännisch gerundet.
 Für jeden Schlechtfall gemäß Nummer 3.4.1 Absatz 2, der die 99,900 % im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-Anbieter eine Vertragsstrafe von 500 Euro verhängt. Der relevante Betrachtungszeitraum beträgt 1 Kalendermonat.
 3.5 Fahrspurquote (QP_FS)
-(weggefallen)
 Die Quote der Lieferung der Fahrspuren (QP_FS) misst, wie viele Fahrspuren rechtzeitig im System des nationalen Mautbetreibers empfangen wurden.
 Die Quote wird mit der folgenden Formel ermittelt:
 |  |
