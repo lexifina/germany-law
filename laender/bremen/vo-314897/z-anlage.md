@@ -1,8 +1,13 @@
-# Anlage
+# Anlage - Räumlicher Geltungsbereich
 Anlage
-(zu § 1)
+(zu § 1 Absatz 1)
 Räumlicher Geltungsbereich
 1. Bahnhofsvorstadt
+[Red. Anm.: Zusätzlicher Text zur Grafik]
+Schaubild Waffenverbotszone Bahnhofsvorstadt
 2. Bremer Viertel
-3. Bürgermeister-Koschnik-Platz, Gröpelingen
-© GeoBasis-DE / Landesamt GeoInformation Bremen [2024]
+[Red. Anm.: Zusätzlicher Text zur Grafik]
+Schaubild Waffenverbotszone Bremer Viertel
+3. Gröpelingen, Bürgermeister-Koschnik-Platz
+[Red. Anm.: Zusätzlicher Text zur Grafik]
+Schaubild Waffenverbotszone Gröpelingen, Bürgermeister-Koschnik-Platz
