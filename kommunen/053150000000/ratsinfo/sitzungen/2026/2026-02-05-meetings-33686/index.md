@@ -1,0 +1,97 @@
+# 6. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-02-05T14:32:00+01:00
+- Ende: 2026-02-05T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33686
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33686
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt, FDP/KSG betreffend "Verkauf des WDR-Produktionsgeländes in Bocklemünd – Stadt Köln soll zukünftige Nutzung aktiv gestalten" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Antrag der Fraktionen CDU, SPD und FDP/KSG betreffend "Olympiabewerbung als Chance für die Infrastruktur im Kölner Norden und die Sportstätten in Köln und der Region" - geändert beschlossen
+- TOP -: Änderungsantrag der Volt-Fraktion - ungeändert beschlossen
+- TOP 3.2: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "Ausweitung der bestehenden Böllerverbotszone und weitergehende Einschränkung privaten Feuerwerks ab Silvester 2026/2027" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.3: Antrag der AfD-Fraktion betreffend "Überprüfung und Reduzierung freiwilliger Ausgaben im Bereich LSBTI-/Diversity-Förderung im Haushaltsjahr 2026" - endgültig abgelehnt
+- TOP 3.4: Antrag der FDP/KSG-Fraktion betreffend "Katastrophen- und Zivilschutz in Köln ausbauen: Einrichtung eines Unterausschusses" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke und FDP/KSG - ungeändert beschlossen
+- TOP 3.5: Antrag der AfD-Fraktion betreffend "Kein Suchthilfezentrum am Perlengraben!" - endgültig abgelehnt
+- TOP 3.6: Dringlichkeitsantrag der Gruppe Die PARTEI betreffend "Vorzeitiges Hissen der Flagge „Mayors for Peace“ ab dem 6.2.2026" - vertagt
+- TOP 3.7: Dringlichkeitsantrag der Fraktionen CDU, SPD, Die Linke, Volt und FDP/KSG betr. "Änderung der Satzung zur Vergabe der Förderstipendien der Stadt Köln" - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der AfD-Fraktion betreffend "Sachstand Umzug Autonomes Zentrum (AZ)" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 30.01.2026 - Kenntnis genommen
+- TOP 4.2: Anfrage der AfD-Fraktion betreffend "Kindertagespflege in Köln" - vertagt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - vertagt
+- TOP 4.3: Anfrage der Fraktion Die Linke betreffend "Sponsorengelder im Rahmen des Bürgerentscheides Olympia" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - Kenntnis genommen
+- TOP 4.4: Anfrage der Gruppe Die PARTEI betreffend "Sondernutzungsgebühren für Werbung zum Olympia-Bürgerentscheid" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - Kenntnis genommen
+- TOP 4.5: Anfrage der FDP/KSG-Fraktion betreffend "Nutzbarmachung des Neumarktes für Karnevalsgesellschaften anlässlich der Schließung des Hotels Pullmann" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - Kenntnis genommen
+- TOP 4.6: Anfrage der Gruppe BSW betreffend "Informationen für Impfgeschädigte auf den Seiten der Stadt Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - Kenntnis genommen
+- TOP 4.7: Anfrage der AfD-Fraktion betreffend "Linke Vereinsstrukturen in Köln" - vertagt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - vertagt
+- TOP 5: Anregungen
+- TOP 5.1: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.5: Anregungen und Stellungnahmen des Ausschusses für Chancengerechtigkeit und Integration gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Anpassung der Rettungsdienstsatzung der Stadt Köln auf der Grundlage einer überarbeiteten Gebührenkalkulation - ungeändert beschlossen
+- TOP 6.1.2: 13. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebiets (NSG) N 24 "Isborns Heide und Hommelsheimer Bruch" - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Neufassung der Eintrittspreise und Rabatte sowie Änderung der Geschäftsordnung über die Abgabe kostenloser bzw. ermäßigter Eintrittskarten bei den Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.3.1: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen im Jahr 2026 - ungeändert beschlossen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtungen des Rates gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW sowie § 25 KomHVO
+- TOP 7.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1 und 3, 51143 Köln-Porz - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 8: Über- und außerplanmäßige Aufwendungen
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 9.1: Feststellung des Jahresabschlusses zum 31.08.2024 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Errichtung eines Suchthilfezentrums auf dem Grundstück Perlengraben/ Wilhelm-Hoßdorfstr. , 50676 Köln - Bedarfsfeststellungs- und Vorplanungsbeschluss - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt und FDP/KSG - ungeändert beschlossen
+- TOP 10.2: Feststellung der Gültigkeit der Kommunal- und Integrationsratswahl 2025 - ungeändert beschlossen
+- TOP 10.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Paul-Maar-Schule, Marienplatz 2, 50676 Köln - ungeändert beschlossen
+- TOP 10.4: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Kopernikus-Schule, Bonner Straße 40, 51145 Köln - geändert beschlossen
+- TOP 10.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Gemeinschaftsgrundschule Konrad-Adenauer-Straße 20, 51149 Köln - geändert beschlossen
+- TOP 10.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Eduard-Mörike-Schule, Mörikeweg 2-6, 51147 Köln - geändert beschlossen
+- TOP 10.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit Maßnahmen zur energetischen Sanierung an der Heideschule, Neue Heide 25-27, 51147 Köln - geändert beschlossen
+- TOP 10.8: Gestaltung der Schullandschaft im Stadtbezirk Innenstadt betreffend Gymnasium Neustadt-Nord - Katholische Hauptschule am Rhein - Weiterbildungskollegs - geändert beschlossen
+- TOP 10.9: Bildung eines Teilstandortes für einen Teil des Richard-Riemerschmid-Berufskollegs, Heinrichstr. 51, 50676 Köln- Altstadt-Süd - ungeändert beschlossen
+- TOP 10.10: Deutschlandticket Schule - geändert beschlossen
+- TOP 10.11: Bedarfsfeststellungs- und Baubeschluss für die Erneuerung der passiven Schutzeinrichtungen entlang der Industriestraße zwischen dem „Niehler Ei“ und der Merianstraße und einer partiellen Erneuerung der Fahrbahndeckschicht - ungeändert beschlossen
+- TOP 10.12: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung und Finanzierung von niederflurigen Stadtbahnwagen - ungeändert beschlossen
+- TOP 10.13: Gründung des Fachbeirates für Mädchenarbeit gemäß der Satzung für das Amt für Kinder, Jugend und Familie der Stadt Köln sowie Beschluss über die Geschäftsordnung - ungeändert beschlossen
+- TOP 10.14: Erhöhung des Finanzierungsrahmens der städtebaulichen Entwicklungsmaßnahme Deutzer Hafen im Cash Pool der Stadt Köln - ungeändert beschlossen
+- TOP 11: Bauplanungsrechtliche Vorlagen
+- TOP 11.1: Einstellung vorbereitender (Sanierungs-)Untersuchungen gemäß § 141 Baugesetzbuch für Köln Chorweiler-Mitte - vertagt
+- TOP 11.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs [vorhabenbezogener Bebauungsplan] Nr. 724062/02 Arbeitstitel: Hohe Straße in Köln-Porz-Ensen - ungeändert beschlossen
+- TOP 12: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 13: Gremienbesetzungen
+- TOP 13.1: Sparkasse KölnBonn: Weisung an die durch den Rat der Stadt Köln entsandten Vertreter*innen für Abstimmungen in der Verbandsversammlung des Zweckverbandes Sparkasse KölnBonn - ungeändert beschlossen
+- TOP 13.2: Mitgliederversammlungen des Städtetages NRW: Entsendung der Delegierten mit Stimmrecht - ungeändert beschlossen
+- TOP 13.3: Besetzung der Ausländerrechtlichen Beratungskommission (ABK) für die Wahlperiode 2025 - 2030 - ungeändert beschlossen
+- TOP 13.4: Bestellung sachkundige Einwohner*innen gem. § 85 II 2 SchulG NRW in den Ausschuss für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 13.5: Neubesetzung der Stadtarbeitsgemeinschaft Queerpolitik - ungeändert beschlossen
+- TOP 13.6: Wahl von sachkundigen Einwohnerinnen und Einwohnern für die Ausschüsse des Rates auf Vorschlag der Seniorenvertretung - vertagt
+- TOP 13.7: RheinEnergie Stiftung Jugend/Beruf, Wissenschaft - ungeändert beschlossen
+- TOP 13.8: Antrag der Fraktion Die Linke betreffend "Umbesetzung im Aufsichtsrat der Koelnmesse GmbH" - ungeändert beschlossen
+- TOP 13.9: Besetzung des Jugendhilfeausschusses (JHA) - weitere beratende Mitglieder
+- TOP 14: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 14.1: Entschuldungsprogramm des Landes NRW - Altschuldenentlastungsgesetz NRW (ASEG NRW) - ungeändert beschlossen
+- TOP 14.2: Sportentwicklungsplanung – Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Interessenbekundungsverfahren - ungeändert beschlossen
+- TOP 15: -
