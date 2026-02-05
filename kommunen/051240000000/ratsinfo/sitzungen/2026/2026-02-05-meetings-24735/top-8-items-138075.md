@@ -1,0 +1,8 @@
+# TOP 8: Bebauungsplan 1267 - westlich Bahnstraße / Buntenbeck -
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft, Bauen und Standortmarketing (2026-02-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/138075
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/66181
