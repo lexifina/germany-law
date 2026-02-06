@@ -1130,7 +1130,7 @@ bisherigen Nutzung](0590.md)
 - [§ 630d Einwilligung](0630d.md)
 - [§ 630e Aufklärungspflichten](0630e.md)
 - [§ 630f Dokumentation der Behandlung](0630f.md)
-- [§ 630g Einsichtnahme in die Patientenakte](0630g.md)
+- [§ 630g Einsichtnahme in die Behandlungsakte](0630g.md)
 - [§ 630h Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler](0630h.md)
 
 #### Titel 9 Werkvertrag und ähnliche Verträge

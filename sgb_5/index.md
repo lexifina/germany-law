@@ -1000,7 +1000,7 @@ von Leistungsdaten, Datentransparenz
 ## Zwölftes Kapitel Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal
 
 - [§ 384 Begriffsbestimmungen](0384.md)
-- [§ 385 Bedarfsidentifizierung und - priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung](0385.md)
+- [§ 385 Bedarfsidentifizierung und -priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung](0385.md)
 - [§ 386 Recht auf Interoperabilität](0386.md)
 - [§ 387 Konformitätsbewertung](0387.md)
 - [§ 388 Verbindlichkeitsmechanismen](0388.md)

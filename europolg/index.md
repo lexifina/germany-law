@@ -7,13 +7,10 @@
 ## § 2 Gemeinsame Vorschriften für die Informationsverarbeitung im Zusammenhang mit Europol
 
 
-## § 3 Informationsverarbeitung bei Europol zu Zwecken des Abgleichs und der Analyse
+## § 3 Informationsverarbeitung bei Europol
 
 
 ## § 4 Anwendung anderer Vorschriften
 
 
-## § 5 Datenschutzkontrolle und Haftung
-
-
-## § 6 Verwaltungsrat
+## § 5 Verwaltungsrat
