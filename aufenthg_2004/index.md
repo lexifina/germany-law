@@ -243,6 +243,7 @@
 ## Kapitel 9 Straf- und Bußgeldvorschriften
 
 - [§ 95 Strafvorschriften](0095.md)
+- [§ 95a Strafvorschriften](0095a.md)
 - [§ 96 Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet](0096.md)
 - [§ 97 Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen](0097.md)
 - [§ 97a Geheimhaltungspflichten](0097a.md)
