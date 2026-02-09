@@ -1,0 +1,22 @@
+# Antrag GRÜNEN-Fraktion auf Steigerung der Biodiversität
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-171/2024 6. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2026-02-09
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfPuXw2MVeCMvfktj8zBpQM
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/3944
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag GRÜNEN-Fraktion auf Steigerung der Biodiversität) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaMGESCmw8stXc73b1vaJQN6JLAGXBQVJ8HCcqieEJ4j/Beschlussvorlage_VL-171-2024_6._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag GRÜNEN-Fraktion - Steigerung der Biodiversität) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUDsggx8bY5xu4Fq4FtmrTgsgK-ejjB3WNHPHgdesw-6/Antrag_GRUeNEN-Fraktion_-_Steigerung_der_Biodiversitaet.pdf
+- Anlage: Beschlussvorlage (buendnis-flyer_2024) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVA6UoJDWX8EmE-vM87zZiLsBwnR6aBWt7XFF6GlZ6WK/buendnis-flyer_2024.pdf
+- Anlage: Beschlussvorlage (Deklaration_2023) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUgDTmMynKHWZSlsyg-dnzQMrWfEzpUyha1eBm1l4DZW/Deklaration_2023.pdf
+- Anlage: Beschlussvorlage (Musterbeschluss) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWTrFcuGny5Hh2sFgdyJguhtIAB6V4mM5bOYOht5Ru6Z/Musterbeschluss.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1246 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1261 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1280 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1344 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1388 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1338 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1402 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1433 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
