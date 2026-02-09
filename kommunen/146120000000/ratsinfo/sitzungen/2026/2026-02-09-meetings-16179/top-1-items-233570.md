@@ -1,0 +1,8 @@
+# TOP 1: Grundsatzbeschluss „Bauturbo“ (Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung)
+
+- Sitzung: 17. Sitzung des Ortschaftsrates Altfranken (2026-02-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/233570
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/68746
