@@ -1,0 +1,86 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9271566
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9271566
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Solidarität mit der ehemaligen Redaktion des HALLO-Werbeblatts und Sorge um die zukünftige Berichterstattung
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Parkstraße 20
+- TOP 6.2.2.: Bauvorhaben Guldeinstraße 48
+- TOP 6.2.3.: Bauvorhaben Heimeranstraße 35
+- TOP 6.2.4.: Bauvorhaben Trappentreustraße 19
+- TOP 6.2.5.: Ehemaliges Postamt Bergmannstraße – Änderung Flächennutzungsplan mit integrierter Landschaftsplanung
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: 100 Jahre Ledigenheim - Festwoche von 15.06. - 19.06.2027
+- TOP 8.3.2.: Veranstaltung "Busparty 3000" auf der Fläche Am Bavariapark am 21.02.2026 - Auflagen Immissionsschutz
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Ausgabe von Parklizenzen an Hotelbetriebe; Weitergabe der Parklizenzen an Gäste
+- TOP 9.3.2.: Verbesserung der Verkehrssituation für den Radverkehr an der Trappentreustraße / Westendstraße bzw. Tulbeckstraße
+- TOP 9.3.3.: Verbesserung der Ausleuchtung und Sicherung der Querungsbereiche an der Kreuzung Tulbeckstraße / Trappentreustraße
+- TOP 9.3.4.: Christbaumentsorgung im südwestlichen Bereich des Georg-Freundorfer-Platzes nicht mehr gestatten; neue Christbaumsammelstelle am „Schneckenplatz“
+- TOP 9.3.5.: Erweiterung und Modernisierung der Ladeinfrastruktur im gesamten Stadtviertel Schwanthalerhöhe, insbesondere im Bereich Tulbeckstraße / Parkstraße
+- TOP 9.3.6.: Abstimmung neues Radverkehrsnetz für München - Präsentation zur Veranstaltung vom 12.01.2026
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Condrobs e.V. Ausstattung der neuen Kontakt- und Begegnungsstätte im Westend vom 15.01.-31.05.2026 5.000,00€ Az.: 0262.0-8-0474
+- TOP 10.1.2.: (E) Stadtbezirksbudget Evang.-Luth. Dekanatsbezirk, Evang. Migrationszentrum im Griechischen Haus Fest der Weltoffenheit, Teil der Kunst- und Kulturtage Westend am 04.07.2026 1.700,00€; Az. 0262.100-8-0477
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Erneuerung der „Schwanthalerhöhe“-Beschilderung an der Westendstraße 165 und an allen übrigen ehemaligen Standorten
+- TOP 11.2.: Baumpflanzungen an der Westendstraße 160
+- TOP 11.3.: Grünstreifen an der Astallerstraße (Westseite) bepflanzen
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Finanzielle Unterstützung und Einrichtung von Taubenhäusern
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 9.1.1.: (E) Durchsetzung des Verbots der Durchfahrt an der Bushaltestelle Gollierplatz
+- TOP 9.1.1.1: Anmerkung des Kreisverwaltungsreferates - Kommunale Verkehrsüberwachung
+- TOP 4.1.: Errichtung eines Mülleimers mit integriertem Hundekotbeutelspender am Max-Hirschberg-Weg / Sinti-Roma-Platz / Hans-Fischer-Straße
+- TOP 11.4.: Wenig Aufwand, große Wirkung - mehr Aufenthaltsqualität für die Schnaderböckstraße
+- TOP 4.2.: Parksituation auf der Freifläche vor der Sparkasse Kreuzung Ganghoferstraße / Heimeranstraße
+- TOP 9.2.1.: Baumfällung Am Bavariapark 14
+- TOP 9.3.7.: Öffnung eines Durchgangs parallel zu den Bahngleisen für Fußgänger*innen und Radfahrende auf Höhe Landsbergerstr. 70-74
+- TOP 4.3.: Kinderstadtteilplan fürs Westend - Vorstellung durch die Spiellandschaft Stadt
+- TOP 9.2.2.: Umwandlung von Kfz-Stellplätzen in Fahrrad-Abstellplätze vor dem Anwesen Parkstraße 18; Umwandlung von Kfz-Stellplätzen in Fahrrad-Abstellplätze vor dem Anwesen Astallerstraße 18
+- TOP 9.3.8.: 150 Jahre Tram: München feiert München
+- TOP 9.3.9.: Gehwegparken in der Landsberger Straße zwischen Barthstraße und Trappentreustraße; Einrichtung von Lieferzonen - Antwort des Kreisverwaltungsreferates
+- TOP 9.3.10.: Meldeliste Baumaßnahmen SWM
+- TOP 11.5.: Zuschuss für die Pflege und ehrenamtliche Arbeit der Fairteiler im Jahr 2026
+- TOP 9.4.1.: Maßnahmen zur Verbesserung der Sicherheit / Sichtbarkeit am Fußgängerüberweg Angler- / Ganghoferstraße
