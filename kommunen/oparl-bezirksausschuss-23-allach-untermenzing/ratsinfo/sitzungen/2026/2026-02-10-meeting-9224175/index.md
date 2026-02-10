@@ -1,0 +1,112 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2026-02-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9224175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9224175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA
+- TOP 2.2.1.: Gefahrenlage durch offen abgestellte Lachgas-Druckbehälter in Allach
+- TOP 2.2.2.: Erweiterung Betriebsgelände der KNDS
+- TOP 2.2.3.: Wechselbrücke für Hilfsorganisation GAIN
+- TOP 3.: Berichte und Protokolle aus den Unterausschüssen
+- TOP 3.1: Budget
+- TOP 3.2: Familie, Bildung, Soziales und Sport
+- TOP 3.2.1.: vom 13.01.26
+- TOP 3.3: Kultur
+- TOP 3.4: Planung und Bau
+- TOP 3.5: Umwelt und Verkehr
+- TOP 4.: Berichte und Protokolle der Beauftragten
+- TOP 4.1: Baumschutz
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1.: (E) Stadtbezirksbudget: Kreisjugendring München-Stadt, Demokratie im Einsatz - Demokratiemobil München am 25.02.2026, 1.517,00 Euro, Az.: 0262.100-23-0262
+- TOP 6.2.: (E) Offenlegung der Bodenversiegelungsquote
+- TOP 6.3.: (E) Stadtbezirksbudget: Interessengemeinschaft der Allacher und Untermenzinger Vereine e.V., Sanierung der 45 Jahre alten Kiosk Thekenanlage mit Schankanlage vom 15.02. -30.04.2026, 9.235,69€; Az. 0262.100-23-0263
+- TOP 7.: Anhörungen
+- TOP 7.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.12.25: Bebauungsplan mit Grünordnung Nr. 1713a - Ludwigsfelder Straße (südlich), Verlängerung Krauss-Maffei-Straße/Privatstraße (westlich), Kraus-Maffei-Straße (nördlich), Bahnlinie München – Ingolstadt (östlich) „KNDS-Norderweiterung“ - Aufstellungsbeschluss - (vertagt aus 01/26)
+- TOP 7.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.01.26: Langerhansstr. 5 (Haus 1) - Neubau einer Doppelhaushälfte mit Garage (Az. 1.23-2025-19485-42)
+- TOP 7.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.01.26: Langerhansstr. 5 (Haus 2) - Neubau einer Doppelhaushälfte mit Garage (Az. 1.23-2025-19569-42)
+- TOP 7.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.01.26: Feigstr. 7 - Neubau eines Einfamilienhauses mit Carport
+- TOP 7.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.01.26: Krauss-Maffei-Str. 2 - Hallen 0600-0610-061 (EG) Nutzungsänderung von Kunststoff-Technikum zu EDV und Simulatorenbereich mit Lager und Werkstatt H. 0620-0630 NÄ von Kunststoff-Technikum, Montage und Gefahrstofflager zu Lager H. 0640, 0650 NÄ v. Lackieranlage zu Lager Abbruch
+- TOP 7.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.01.26 und N 04.02.26: Penzoltstr. 5 - Neubau von drei Mehrfamilienhäusern jeweils mit 6 Wohneinheiten und einer gemeinsamen Tiefgarage
+- TOP 7.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.01.26: Auenbruggerstraße – Änderung Flächennutzungsplan mit integrierter Landschaftsplanung für den Bereich IV/48 im vereinfachten Verfahren
+- TOP 7.8.: Schreiben Mobilitätsreferat vom 22.01.26: Georg-Reismüller-Straße - Einrichtung eines eingeschränkten Haltverbots als Anfahrtszone Kindergarten, Zeichen 286 StVO mit Zusatzzeichen
+- TOP 7.9.: N - Schreiben Referat für Stadtplanung und Bauordnung vom 29.01.26: Dachauer Str. 667 - Neubau Containeranlage Leergutplatz
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Wegenetz in der Angerlohe (vertagt aus 12/25)
+- TOP 8.2.: Planungen zur Nachnutzung des Gebäudes von Münchenstift in der Manzostraße (vertagt aus 09/25)
+- TOP 8.3.: Schreiben BA 17 vom 20.01.26: Finanzielle Unterstützung und Einrichtung von Taubenhäusern
+- TOP 9.: Umlauf
+- TOP 9.1: Baureferat
+- TOP 9.1.1.: Schreiben vom 20.01.26 und Schreiben Bürger vom 17.01.26: Am Münchfeld - Versetzung der neuen öffentlichen Bank
+- TOP 9.1.2.: Schreiben vom 15.01.26: Intelligente Straßenbeleuchtung - Erweiterung Bleisteinstraße (BVE Nr. 20-26/ E 2950)
+- TOP 9.1.3.: Schreiben vom 22.01.26: Einladung in den BA - Information zur Sanierung Eversbuschstraße und Allacher Tunnel
+- TOP 9.2: Direktorium
+- TOP 9.2.1.: Schreiben vom 27.01.26 und N - 02.02.26: Verwendungsnachweis Stadtbezirksbudget: - Interessengemeinschaft der Allacher- und Untermenzinger Vereine N - Krieger- und Veteranenverein Allach
+- TOP 9.3: Gesundheitsreferat
+- TOP 9.4: Kommunalreferat
+- TOP 9.5: Kreisverwaltungsreferat
+- TOP 9.5.1.: Schreiben vom 21.01.26: Geschwindigkeitsmessungen in der Riederstraße zwischen Lossenstraße und dem Krayweg
+- TOP 9.5.2.: Schreiben vom 27.01.26: Bescheid zur Veranstaltung auf öffentlichem Grund; "Faschingsumzug" Höcherstr./Baumstänglstr. am 17.02.2026
+- TOP 9.6: Mobilitätsreferat
+- TOP 9.6.1.: Schreiben vom 14.01.26: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Auenbruggerstraße Nordseite Westlich Zufahrt Hausnummer 110
+- TOP 9.6.2.: Schreiben vom 27.01.26: Arbeiten im Straßenraum; Elly-Staegmeyr-Str. 2-22: Vollsperre für Rückbau Gebäude – Änderung
+- TOP 9.7: Referat für Arbeit und Wirtschaft
+- TOP 9.8: Referate für Bildung und Sport
+- TOP 9.9: Referat für Klima- und Umweltschutz
+- TOP 9.9.1.: Schreiben vom 13.01.26: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte- und Maschinenlärmschutzverordnung; Ausnahmezulassung Stadtgebiet München, Betrieb von Müllsammelfahrzeugen
+- TOP 9.9.2.: Schreiben RKU vom 16.01.26: Öffentlichkeitsbeteiligung Vorhaben Siemens Mobility GmbH - Fehler in der Bekanntmachung im Amtsblatt bei der Jahreszahl
+- TOP 9.9.3.: Schreiben vom 15.01.26: Mobilfunk - Mitteilung über die vertragliche Standortsicherung: Standort Von-Kahr-Str. 1
+- TOP 9.10: Referat für Stadtplanung und Bauordnung
+- TOP 9.10.1.: Schreiben vom 20.01.26: Bescheid zur Baumfällung Bauschingerstraße
+- TOP 9.10.2.: Schreiben vom 23.01.26: Bescheid zum Baumfällungsantrag auf dem Grundstück Ganzenmüllerstraße
+- TOP 9.10.3.: Schreiben vom 27.01.26: Bescheid zum Baumfällungsantrag auf dem Grundstück Dachauer Straße
+- TOP 9.11: Sozialreferat
+- TOP 9.11.1.: Schreiben vom 22.01.26: Ermäßigtes Deutschlandticket
+- TOP 9.11.2.: Schreiben vom 27.01.26 und N - Schreiben AKIM vom 29.01.26: Diamaltpark - Anfrage zu Kindergarten Georg-Reismüller-Straße und zu dem Spielpatz Am Münchfeld
+- TOP 9.12: Stadtkämmerei
+- TOP 9.13: Sonstiges
+- TOP 9.13.1.: Schreiben MVG vom 21.01.26: Bus 164 - neue Linienführung in den Abendstunden
+- TOP 9.13.2.: Schreiben HALLO München vom 22.01.26: Solidarität mit der ehemaligen Redaktion des HALLO-Werbeblatts
+- TOP 9.13.3.: Schreiben AKIM vom 22.01.26 und Bürgerschreiben vom 25.01.26: Kurzprotokoll zum Austausch bzgl. Aufenthalt an der Bank Manzostr./Reuterstr.
+- TOP 9.13.4.: Schreiben AWM vom 26.01.26: Abbau des Altkleidercontainer in der Megerlestraße
+- TOP 9.13.5.: Schreiben AWM vom 28.01.26: Müllablagerungen und Missbrauch der Wertstoffinseln
+- TOP 10.: Stadtrats-und Ausschussbeschlüsse
+- TOP 10.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.26:
+- TOP 10.1.1.: (U) Chaos im 23. Bezirk durch Kommunalen Zweckverband West vermeiden Empfehlungen
+- TOP 10.1.2.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2024-2028
+- TOP 10.1.3.: Perspektive München - Leitlinie Freiraum, Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung Anträge und Empfehlungen
+- TOP 10.2: Beschluss der Vollversammlung am 17.12.25:
+- TOP 10.2.1.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2025 bis 2029 mit verbindlicher Planung für das Jahr 2030, Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 10.3: Beschluss des Kulturausschusses vom 12.02.26:
+- TOP 10.4: Beschluss des Sozialausschusses vom 29.01.26:
+- TOP 10.4.1.: (U) Keine Errichtung von weiteren Unterkünften in Allach 23. Stadtbezirk - Allach-Untermenzing
+- TOP 11.: Nichtöffentlicher Teil
+- TOP 5.1.: N - Erweiterung der Beisetzungsmöglichkeiten auf dem Allacher Friedhof
+- TOP 5.2.: N - Sanierung der Wohnung Eversbuschstr. 161
+- TOP 5.3.: N - Errichtung Schallschutz auf der Nordseite in der Ludwigsfelder Straße östlich der Bahnlinie
+- TOP 9.6.3.: N - Schreiben vom 30.01.26: Verkehrsrechtliche Anordnung: Naßlstraße / Erwin-Schleich-Straße - Anpassung der Halteverbotsbeschilderung
+- TOP 9.6.4.: N - Schreiben vom 29.01.26 und 05.02.26: Ergebnisse des Stadtteil-Checks Allach 2025 im Rahmen des Projekts "Auf Herz und Rampen prüfen"
+- TOP 9.13.6.: N - Schreiben SWM vom 02.02.26: Umleitung der Buslinien X36, 160, 164: Am Münchfeld - Allach Bahnhof, Kleselstraße - Allach Bahnhof wegen eines Faschingsumzugs in Allach (Bereich Allach, Georg-Reismüller-Straße) am 17.02.26 (DI), 13:30 – 16:00 Uhr
+- TOP 2.2.4.: N - Verkehrsberuhigung / Sicherung der Querung am Schwabenbächl in Höhe Wilhelm-Zwölfer-Straße
+- TOP 9.1.4.: N - Schreiben vom 03.02.26: Umgefahrenes Schild in der Jestelstraße, Beschädigter Lichtmast inObermenzing, Verschmutzung der Rampe am S-Bahnhof Obermenzing
+- TOP 9.13.7.: N - Schreiben SWM vom 28.01.26: Baumaßnahmen der Stadtwerke München - Stichtag: 13.01.-27.01.26
+- TOP 9.6.5.: N - Schreiben vom 03.02.26: Aufstellen von Trinkwasserspendern an den S-Bahnhöfen Allach, Karlsfeld und Untermenzing
+- TOP 2.2.5.: N - Erschließungsvarianten B/C stoppen – Schutz des reinen Wohngebiets Storchenweg vor Lärm und Abgasen
+- TOP 3.4.1.: N - vom 07.02.26
+- TOP 3.5.1.: N - vom 07.02.26
+- TOP 4.1.1.: N - vom 08.02.26
