@@ -1,0 +1,160 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2026-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8966019
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8966019
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 20.1.26
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Oberföhringer Str. 21 - OF21 I Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 2.2.1.2.: Bauvorhaben Cosimastr. 234; Anliegen aus der Bürgerschaft
+- TOP 2.2.1.3.: Mauerkircherstr. 112 - Abbruch des Bestandshauses und Neubau eines Mehrfamilienhauses (7 WE) mit Tiefgarage mit 8 Stellplätzen
+- TOP 2.2.1.4.: Kolbergerstr. 15 und 17: Nachtrag in die Denkmalliste - Benehmensverfahren; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.6.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Mauerkircherstr. 112 - Abbruch des Bestandshauses und Neubau eines Mehrfamilienhauses (7 WE) mit Tiefgarage mit 8 Stellplätzen
+- TOP 2.2.2.2.: Oberföhringer Str. 21 - OF21 I Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Abstimmung neues Radverkehrsnetz für München – IR IV (Radverkehrsverbindungen) im BA 13; Anhörung des Mobilitätsreferats (vertagt aus der Sitzung 01/26)
+- TOP 2.3.2.: Fahrradsicherheitscheck am 25.02.2026 auf dem Prinzregentenplatz; Anhörung des Kreisverwaltungsreferats
+- TOP 2.3.3.: Mobilität & Begegnung am 22.09.2026 am Kufsteiner Platz; Anhörung des Kreisverwaltungsreferats
+- TOP 2.3.4.: Beleuchtungssituation am Schulweg Salzsenderweg verbessern; Antrag der CSU-Fraktion (vertagt aus der Sitzung 01/26)
+- TOP 2.3.5.: Shared Car Parkplatz in der Richard-Strauss-Straße aufheben; Antrag der CSU-Fraktion
+- TOP 2.3.6.: Gebührenfreier Parkplatz am Cosimawellenbad; Antrag der SPD-Fraktion
+- TOP 2.3.7.: Errichtung von 1-2 großen Fahrradständern (inkl. 2-3 Stellplätzen für Lastenfahrräder) auf dem östlichen Fußgängerweg an der Mauerkircherstraße; Antrag der SPD-Fraktion
+- TOP 2.3.8.: Aufstellung einer Topo-Box zur Ermittlung von Daten der Geschwindigkeits- und Lärmmessung in der Effnerstraße; Antrag der SPD-Fraktion
+- TOP 2.3.9.: Ortstermin: Verkehrssicherheit erhöhen an der Kreuzung Elektrastr./Rosenkavalierplatz; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.10.: Westpreußenstraße – Umwidmung zur Fahrradstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.11.: Rennbahnstraße / Ecke Daglfinger Straße: Abstellen von Fahrzeugen auf dem dortigen schmalen Grünstreifen; Anliegen aus der Bürgerschaft
+- TOP 2.3.12.: Sicherheit für Radfahrer in Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.3.13.: Änderungen der Ampelschaltungen: - Fußgängerampel an der U-Bahn-Station Böhmerwaldplatz - Fußgängerampel in der Prinzregenentenstraße; Anliegen aus der Bürgerschaft (vertagt aus der Sitzung 01/26) - Rückmeldung des MOR -
+- TOP 2.3.14.: Ausfahrt Oderstraße / Weltenburger Straße: Antrag auf Verkehrsspiegel; Anliegen aus der Bürgerschaft
+- TOP 2.3.15.: E-Ladesäulen in der Titurelstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.16.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.17.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e. V. Sanierung Eingangsbereich vom 17.11.2025 - 30.04.2026 16.465,73 €; Az. 0262.0-13-0517 (vertagt aus der Sitzung 12/25)
+- TOP 2.4.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.3.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Temperaturmanagement Mobile Raumeinheit Ruth-Drexel-Schule verbessern; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.5.2.: Sachstand geförderte KiTa-Plätze in Bogenhausen; Nachfrage vom 19.03.2025 zum Antwortschreiben vom 05.02.2025; BA-Antrag Nr. 20-26 / B 07320; Rückmeldung des Referats für Bildung und Sport
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Suche eines Mobilfunkstandortes in Altbogenhausen; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.6.1.2.: Bereitstellung einer Ersatzfläche für den nicht realisierten Klimapark am Salzsenderweg; Antrag der CSU-Fraktion (vertagt aus der Sitzung 01/26)
+- TOP 2.6.1.3.: Stärkung des Bevölkerungsschutzes in München; Antrag der Fraktion Bündnis90/DIE GRÜNEN (vertagt aus der Sitzung 01/26)
+- TOP 2.6.1.4.: Anfrage zu den Gelben Tonnen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.1.5.: Finanzielle Unterstützung und Einrichtung von Taubenhäusern; Schreiben des BA 17
+- TOP 2.6.1.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.7.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Flemingstr. 16b
+- TOP 2.6.2.2.: Rudliebstr. 58
+- TOP 2.6.2.3.: Cuvilliésstr. 27
+- TOP 2.6.2.4.: Oberföhringer Str. 256
+- TOP 2.6.2.5.: Cosimastr. 291
+- TOP 2.6.2.6.: Cosimastr. 293
+- TOP 2.6.2.7.: Düppeler Str. 20a
+- TOP 2.6.2.8.: Musenbergstr. 40
+- TOP 2.6.2.9.: Titurelstr. 2 - 12
+- TOP 2.6.2.10.: Preziosastr. 1 - 7a
+- TOP 2.6.2.11.: Bruno-Walter-Ring 8 - 20
+- TOP 2.6.2.12.: Flemingstr. 96
+- TOP 2.6.2.13.: Gotthelfstr. 121
+- TOP 2.6.2.14.: Günter-Eich-Str. 5 - 7
+- TOP 2.6.2.15.: Osserstr. 38
+- TOP 2.6.2.16.: Stolzingstr. 4 - 6
+- TOP 2.6.2.17.: Mauerkircherstr. 94
+- TOP 2.6.2.18.: Elektrastr. 13
+- TOP 2.6.2.19.: Eylauer Str. 26
+- TOP 2.6.2.20.: Amberger Str. 11 - 21
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Saatgut-Festival am 01.03.2026 im Ökologischen Bildungszentrum; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.2.: Heilpädagogische Tagesstätte im ehemaligen Kindergarten Englschalkinger Str. 234; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.3.: WLAN-Hotspot im Bürgerpark Oberföhring; Antrag der SPD-Fraktion
+- TOP 2.7.4.: Aufstellung eines Defibrillators im Bürgerpark Oberföhring; Antrag der SPD-Fraktion
+- TOP 2.7.5.: Nutzung des Bunker 5 im Bürgerpark Oberföhring; Antrag der SPD-Fraktion
+- TOP 2.7.6.: Nutzung der Außensportanlage des WHG für Vereine; Antrag der SPD-Fraktion
+- TOP 2.7.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.8.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Antrag auf Bordsteinabsenkung zum Pühnpark in der Neckarstraße 33; Anliegen aus der Bürgerschaft - Rückmeldung des Baureferats zum BA-Beschluss aus der Sitzung 09/25 -
+- TOP 6.2.: Bauzaun hat ausgedient – Forderung nach schnellem Geländer-Upgrade an der Schichtlstraße
+- TOP 6.3.: Grünstreifen an der Robert-Heger-Straße/Undinestraße: Pflanzung von zwei Bäumen; Anliegen aus der Bürgerschaft - Rückmeldung des Baureferats zum BA-Beschluss aus der Sitzung 08/25 -
+- TOP 6.4.: Stegmühlstraße: gefährliche Verkehrssituation - Vorschlag für Zebrastreifen oder Tempo-30-Zone; Anliegen aus der Bürgerschaft
+- TOP 6.5.: Fernwärmearbeiten im Denninger Anger: Entfernung von Bäumen - Rückmeldung des Baureferats zum BA-Beschluss aus der Sitzung 01/26 -
+- TOP 6.6.: Kreuzung Stegmühlstraße / Savitstraße: Trennung Gehweg und Straße; Anliegen aus der Bürgerschaft - Rückmeldung des Baureferats zum BA-Beschluss aus der Sitzung 01/26 -
+- TOP 6.7.: Weitere Wohngebiete für die Nachbarschaftstage in Bogenhausen berücksichtigen
+- TOP 6.8.: Straßenmarkierungen in der Ruth-Drexel-Straße; Anliegen aus der Bürgerschaft - Rückmeldung des MOR zum BA-Beschluss aus der Sitzung 08/25 -
+- TOP 6.9.: Antrag auf nächtliche Geschwindigkeitsbegrenzung zur Lärmreduzierung – Englschalkinger Straße / Ecke Freischützstraße; Anliegen aus der Bürgerschaft - Rückmeldung des MOR zum BA-Beschluss aus der Sitzung 12/25 -
+- TOP 6.10.: Zusätzliche Einkaufsmöglichkeit in Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 6.11.: Aufstellung öffentlicher Toiletten
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingereichte Verwendungsnachweise
+- TOP 7.2: Baureferat
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2025 bis 2029 mit verbindlicher Planung für das Jahr 2030 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 7.3.2.: Verkehrssicherheitskonzept „Vision Zero“ in München Fortschrittsbericht 2024
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Aktueller Stand Bestandswohnanlage Freischützstraße / An den Winterlinden - Rückmeldung des Kommunalreferats -
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättenbetriebes: - Prinzregentenplatz 13
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: BauGB-Novelle 2025 – Darstellung der Änderungen des Baugesetzbuches durch das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (u.a. „Bau-Turbo“)
+- TOP 7.7.2.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2024-2028
+- TOP 7.7.3.: Hornsteinstr. 10
+- TOP 7.7.4.: Oberföhringer Str. 168 - 170 g
+- TOP 7.7.5.: Rennbahnstr. 58
+- TOP 7.7.6.: Flensburger Str. 49
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Bildungsbauoffensive - Sachstandsbericht 2025; Konsolidierung 2028 ff. Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2028 ff. in der Fortschreibung des Mehrjahresinvestitionsprogramms 2025 - 2029 auf Basis des Mehrjahresinvestitionsprogramms 2024 - 2028 Teilhaushalt des Referats für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) Haushaltsplan 2026 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 7.9.2.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 7.9.3.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.9.4.: (U) Haushaltsplan 2026 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2026 Vollzug des Haushaltsplanes 2026 für den Bereich „Förderung freie Träger" des Sozialreferates/Gesellschaftliches Engagement, Geschäftsleitung/Sozialplanung und Stab Recht/Fachstelle für Zuschuss- und Entgeltwesen
+- TOP 7.9.5.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum: - Asgarstr. 7 - Oberföhringer Str. 21
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: (U) Klimaresilientes München 2050 – Konkretisierung der Ziele der Klimaanpassung in München
+- TOP 7.15.2.: Realisierung eines Mobilfunkstandortes / Erweiterung der bestehenden Mobilfunksendeanlage: - Denninger Anger - Titurelstraße - Dirschauer Str.
+- TOP 7.15.3.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG) Erlass der Verordnung der Landeshauptstadt München über das Landschaftsschutzgebiet „Moosgrund im Münchner Nordosten“
+- TOP 7.15.4.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage am Standort Arabellastr. 23
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.4.: (E) Stadtbezirksbudget Vereinsgemeinschaft 29 e. v. (VG 29) Faschingstreiben 2026 im Bürgerpark Oberföhring am 15.02.2026 2.610,00 €; Az. 0262.100-13-0532
