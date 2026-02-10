@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-02-10T16:06:00+01:00
+- Ende: 2026-02-10T17:06:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/274
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24627
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24627
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00359127.pdf
+- Ergebnisprotokoll: Niederschrift http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00359797.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführung - ungeändert beschlossen
+- TOP 2: Einführung und Verpflichtung von Ausschussmitgliedern und sachkundigen Einwohnern
+- TOP 3: Absage Baustellensituation WSW - mdl. Bericht
+- TOP 4: Baustellensituation Stadt - mdl. Bericht
+- TOP 5: Situation ÖPNV - mdl. Bericht
+- TOP 6: Ausweisung von Liefer- und Ladezonen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.1: Ergänzugsantrag - Ausweisung von Liefer- und Ladezonen Antrag der CDU Fraktion vom 17.06.2025 - ungeändert beschlossen
+- TOP 7: Faire Rahmenbedingungen für Wuppertaler Taxiunternehmen - zurückgezogen
+- TOP 8: Fußgänger schützen, E-Scooter klar reglementieren - Antrag der Freie Wähler Fraktion - abgelehnt
+- TOP 9: Verkehrsführung Berliner Straße / Ecke Schwarzbach - BV Oberbarmen - ungeändert beschlossen
+- TOP 10: Optimierung der Ampelschaltung Kleeblatt / Bahnhofstraße für den Fußverkehr - geändert beschlossen
+- TOP 11: Einrichtung von Tempo 30 Hochstraße / Ecke Küferstraße bis Ecke Marienstraße und Einrichtung einer Querungshilfe auf Höhe Hausnummer 28 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - ungeändert beschlossen
+- TOP 12: Verbesserungen im Bereich der Mikromobilität - geändert beschlossen
+- TOP 13: Regulierung von E-Scootern in Wuppertal; Gemeinsamer Antrag der Fraktionen von SPD und CDU - geändert beschlossen
+- TOP 14: Geschwindigkeitsreduzierung auf 30 km/h auf der Elias-Eller-Straße Nr. 9 – 60 - ungeändert beschlossen
+- TOP 14.1: Antrag der SPD-Fraktion zur Tagesordnung, TOP 14, VO/0981/25, „Geschwindigkeitsreduzierung auf 30 km/h auf der Elias-Eller-Straße Nr. 9 – 60“ - ungeändert beschlossen
+- TOP 15: Freigabe der Busspur Bundesallee/Kluse - ungeändert beschlossen
+- TOP 16: Ladesäulenstandorte (überbezirkliche Straßen) - ungeändert beschlossen
+- TOP 17: Verlängerung der Mitgliedschaft in der Arbeitsgemeinschaft fußgänger- und fahrradfreundlicher Städte, Gemeinden und Kreise in Nordrhein-Westfalen e.V. (AGFS) - ungeändert beschlossen
+- TOP 18: Haushaltsangelegenheiten
+- TOP 18.1: Einbringung des Haushaltsplanentwurfes 2026/2027
+- TOP 18.2: Einbringung des Haushaltssicherungskonzeptes 2026 ff.
+- TOP 18.3: Haushalt transparent – Beratungen auch in den Fachausschüssen - abgelehnt
+- TOP 19: Sachstand zum Knotenpunktnetz in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 20: Nachricht über die Planungsänderung für das Projekt "Neugestaltung Werth" - Entgegennahme ohne Beschluss
+- TOP 21: Planfeststellungsbeschluss zum Umbau Südsteg Hauptbahnhof Wuppertal - Entgegennahme ohne Beschluss
+- TOP 22: Berichterstattung zum Umsetzungsstand der Maßnahmen aus dem Lärmaktionsplan - Entgegennahme ohne Beschluss
+- TOP 23: Bericht zum Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - Hochstraße sicherer machen - Entgegennahme ohne Beschluss
+- TOP 24: Straßenbaubeiträge - Entgegennahme ohne Beschluss
+- TOP 25: Bürgerantrag gem. § 24 GO NRW - Einrichtung einer Tempo 30-Strecke auf der Höhenstraße und Umgestaltung der Querungshilfe zu einem Fußgängerüberweg - ungeändert beschlossen
+- TOP 26: Bürgerantrag gem. § 24 GO NRW - Fußgängerüberweg Freiligrathstr. / Mörikestr. - ungeändert beschlossen
+- TOP 27: Bürgerantrag gem. § 24 GO NRW - Tempo 30 Westfalenweg Hausnummer 32 bis 155 - ungeändert beschlossen
+- TOP 28: Bürgerantrag gem. § 24 GO NRW - Tempo 30 - Lückenschluss - Loherstraße / Rudolfstraße - ungeändert beschlossen
+- TOP 29: Rettungswege - Berichterstattung - Entgegennahme ohne Beschluss
+- TOP 30: Absage Berichterstattung DB - Maßnahmen des Hochleistungskorridors für Wuppertal und Schienenersatzverkehr (SEV)
