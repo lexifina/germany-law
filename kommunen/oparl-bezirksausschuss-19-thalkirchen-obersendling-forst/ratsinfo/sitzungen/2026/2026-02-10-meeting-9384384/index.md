@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-02-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384384
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384384
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 13.01.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (Antrag) Weide an der Waterloostraße
+- TOP 2.4.: (E) Automatische Rückerstattung der Heizkosten für alle betroffenen Mieter*innen bei der Münchner Wohnen Empfehlung
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratie im Einsatz - Demokratiemobil München am 10.02.2026 1.517,00 Euro, Az.: 0262.100-19-0618
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Altkleidercontainer des AWM
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Lärmbelästigung durch Pickleball-Platz im Siemens-Sportpark
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Kurzzeitparken Kita „Kinderhaus Constanze Hallgarten“
+- TOP 5.3.: (E) Regionalbahn 58 zwischen München und Deisenhofen auch an Samstagen im ganztägigen Stundentakt
+- TOP 5.4.: (A) Neunkirchner Straße; Absolutes Haltverbot im Wendehammer
+- TOP 5.5.: (E) Errichtung von mindestens 600 Parkplätze in Fürstenried West
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Badstraße 5
+- TOP 6.2.2: Badstraße 16
+- TOP 6.2.3: Irmgardstraße 18 (VB)
+- TOP 6.2.4: Boschetsrieder Straße 71
+- TOP 6.2.5: Spitzelbergstraße 3a (VB)
+- TOP 6.2.6: -abgesetzt-
+- TOP 6.2.7: Walliser Straße 5 (VB)
+- TOP 6.2.8: Stöhrstraße 3
+- TOP 6.3.: (Antrag) Sendlinger Getränkemarkt aus der Schaidlerstraße 1
+- TOP 6.4.: (A) Beschlussentwurf: Hochhausbau am Schweizer Platz; BV-Empfehlung Nr. 20-26 / E 03112 Höhe der Bauwerke am Schweizer Platz und Vorlage eine Verkehrskonzepts; BV-Empfehlung Nr. 20-26 / E 03113
+- TOP 6.5.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Stridbeckstraße 5 und 7
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (E) + (U) Sicherstellung des Kinderschutzes bei den Abbrucharbeiten des Stäblibad durch zeitliche Abstimmung der Schadstoffentfrachtung mit den Schulferien BV-Empfehlung Nr. 20-26 / E 03115 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 29.10.2025
+- TOP 7.3.: (E) Beleuchtung des Fuß- und Radwegs in der Tischlerstraße zur Verbesserung der Schulwegsicherheit
+- TOP 7.4.: (Antrag) Spielplatz an der Allescherstraße Lärmdämmung der Tunnelrutsche
+- TOP 7.5.: (Antrag) Sanierung der Toiletten in der Joseph-von-Fraunhofer Realschule
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: 39. Forstenrieder Volkslauf am 21.03.2026
+- TOP 8.3.: (A) Veranstaltung: Fahrradsicherheitscheck Thalkirchner Platz am 02.04.2026
+- TOP 8.4.: (U) Gaststättenfortführung: Hofmannstraße
+- TOP 8.5.: (E) + (U) Kultur für alle; bei geförderten Veranstaltungen Karten für München-Pass-Beziehende sichern
+- TOP 8.6.: (A) Veranstaltung: Spendenlauf für Kinderhilfsprojekte „Quarter Charity Run“ am 22.03.2026
+- TOP 9: Verschiedenes
+- TOP 4.4.: (A) Mobilfunk-Suchkreismeldung Solln
+- TOP 5.1.1: Modernisierung und Verbesserung der Fahrradabstellanlage an der U-Bahn-Endhaltestelle Fürstenried-West
+- TOP 5.1.2: Maxhofstraße und Königswieser Straße: Gefahren im Straßenverkehr für Kinder
