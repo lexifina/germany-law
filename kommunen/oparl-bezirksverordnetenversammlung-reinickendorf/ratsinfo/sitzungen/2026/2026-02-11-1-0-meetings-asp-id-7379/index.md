@@ -1,0 +1,114 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-02-11T17:00:00+01:00
+- Ende: 2026-02-11T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7379
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7379
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=607802
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - in der BVV abgelehnt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Ersatz- und Neuanpflanzung von entnommenen Straßenbäumen (keine Sturmschäden) - beantwortet
+- TOP 3.2: Bauvorhaben https://mein.berlin.de/vorhaben/2023-00712/ - beantwortet
+- TOP 3.3: Wiederherstellung der Bepflanzung Am Kesselpfuhl nach Bauarbeiten - beantwortet
+- TOP 3.4: Stadtteilbibliothek am Schäfersee in Reinickendorf-Ost - beantwortet
+- TOP 3.5: Fällen der Bäume in der Ollenhauerstraße ohne Genehmigung und Baumgutachten - beantwortet
+- TOP 3.6: Wohnungsnot in Berlin - Versagen sozialer Verantwortung in der Cité Foch - beantwortet
+- TOP 3.7: Neubaupläne für die Ollenhauerstraße: StEP Verkehr Stufe II - Anforderungen an die Entwurfsparameter - beantwortet
+- TOP 3.8: Nichteinhaltung der gesetzlichen Verpflichtung zur Barrierefreiheit - beantwortet
+- TOP 3.9: Auswirkungen des Klimaanpassungsgesetzes (BäumePlus-Gesetz) auf eine Überarbeitung der Neubaupläne zur Ollenhauerstraße - schriftlich beantwortet
+- TOP 3.10: Einbau von Z 600 StVO in der Fahrbahnmitte des Oraniendamms in Höhe der Nummern 6-10 bzw. 65-66 - schriftlich beantwortet
+- TOP 3.11: Neubaupläne zur Ollenhauerstraße: Gesetzliche und administrative Vorgaben - schriftlich beantwortet
+- TOP 3.12: Auswirkung des Grundsatzurteils des Bundesverwaltungsgerichts für den Klimaschutz auf die Umsetzung des Mobilitätsgesetzes in Reinickendorf - vertagt
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 50. Sitzung der BVV am 11.02.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Bäume Ollenhauer Straße - beantwortet
+- TOP 5.2: Vorsicht Glatteis - beantwortet
+- TOP 5.3: Verbleib der orangefarbenen Bank gegen Gewalt an Frauen - beantwortet
+- TOP 5.4: Drag-Kurse für Minderjährige an der Jugendkunstschule ATRIUM - beantwortet
+- TOP 5.5: Defekte Sporthalle, Schimmelbefall und nun Stromausfall - Was ist los an der Bettina-von-Arnim-Schule? - beantwortet
+- TOP 5.6: Betriebliche Einschränkungen beim Stadtbad Märkisches Viertel? - beantwortet
+- TOP 5.7: Brand im "Entenkeller" in Frohnau - beantwortet
+- TOP 5.8: Klub App - schriftlich beantwortet
+- TOP 5.9: Ordnungswidrigkeiten zur Glättebeseitigung - schriftlich beantwortet
+- TOP 5.10: Erneuerung des Bürgersteigs in der Oranienburger Straße - schriftlich beantwortet
+- TOP 5.11: Was kostet die Reparatur der Grillanlagen in Lübars? - schriftlich beantwortet
+- TOP 5.12: Sanierungsbedürftige Brücken in Reinickendorf - schriftlich beantwortet
+- TOP 5.13: Stromversorgung an der Bettina-von-Arnim-Schule - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Beleuchtung rund um den S-Bahnhof Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Erneuerung des Leit- und Informationssystems für das Märkische Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Nachhaltigkeit des Leit- und Informationssystems im Märkischen Zentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Öffentliche Widmung der Straßen in der Cite Guynemer nicht ohne Vorleistung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Mauerweg verbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Fahrräder sicherer an Bahnhöfen abstellen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Fahrräder sicherer an Bahnhöfen abstellen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Baumpflanzung auf dem Platz vor dem Borsigtor - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: BVG soll auch für analoge Kunden telefonisch erreichbar sein - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Keine Windkraftanlagen in ökologisch sensiblen Gebieten in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Mehr Fahrradabstellmöglichkeiten am S-Bahnhof Schönholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Würdiger Umgang mit dem Kurt-Schumacher-Denkmal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Bojenkette am Flughafensee instandsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Krankenhaus des Maßregelvollzugs für das Jahr 2025 - überwiesen
+- TOP 8.15: Sicher mit dem Fahrrad von Tegel nach Lübars IV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Hans und Hilde Coppi im Schumacher-Quartier würdigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Entwurf des Ergänzungsplans Reinickendorf für das Haushaltsjahr 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beschlussfassung betreffend den Gewerberahmenplan für das Gewerbe- und Industriegebiet Borsigdamm im Ortsteil Tegel - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Lärmmanagement an der Klixarena - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Flächen des Bezirks auf dem Gelände des Schumacher-Quartiers - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Vergabeverfahren mit Konzessionierung für E-Scooter umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Erweiterung vom Pausenhof der Till-Eulenspiegel-Grundschule - in der BVV abgelehnt
+- TOP 11.5: Dominikus Krankenhaus - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Illegales Parken und Gefährdung an der Bushaltestelle "Atrium" im Märkischen Viertel unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Graffiti am S-Bahnhof Wittenau entfernen - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Brückenwiderlager im Waidmannsluster Damm in Tegel von Graffiti befreien - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Graffiti an der S25 im Bereich der Eisenbahnüberführung über den ehemaligen Hermsdorfer Damm entfernen - mit Änderungen in der BVV beschlossen
+- TOP 11.10: Grundlagenermittlung für Parkraummanagement für Reinickendorf-West - in der BVV abgelehnt
+- TOP 11.11: Verbesserung der Fahrradinfrastruktur und der Querungsbedingungen am Donnersmarckplatz - in der BVV abgelehnt
+- TOP 11.12: Sonderpflanzung Stadtbaumkampagne Frühjahr 2026 für Bezirk Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Informationen zu Bauarbeiten im öffentlichen Straßenland - in der BVV abgelehnt
+- TOP 11.14: Brücke am Seggeluchbecken aufwerten - erledigt
+- TOP 11.15: Wohnungslosigkeit im hier und jetzt überwinden - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Allgemeinverfügung umgehend aufheben - Grünflächen und Spielplätze wieder öffnen - erledigt
+- TOP 11.17: Spielplätze an den Klimawandel anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Strategie zur Umsetzung des Berliner Klimaanpassungsgesetzes - vertagt
+- TOP 11.19: Wickelboards für Reinickendorfer Spielplätze - mit Änderungen in der BVV beschlossen
+- TOP 11.20: Raserei in Roedernallee und Flottenstraße beenden - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Nutzungskonzept für den historischen Kasinoturm in Frohnau - in der BVV abgelehnt
+- TOP 11.22: Beschluss über den Bebauungsplanentwurf XX-277a vom 01.08.2024 für eine Fläche südlich des Packereigrabens, begrenzt durch die Grundstücksflächen Jean-Jaurès-Straße 3/7, 7 A und 21, Hermsdorfer Straße 55, die Grundstücksflächen Hermsdorfer Straße 56-69 und östlich des Steinbergparks (Rosentreterbecken) sowie einen Abschnitt der Jean-Jaurès-Straße und der Hermsdorfer Straße im Bezirk Reinickendorf, Ortsteile Wittenau und Waidmannslust (Teilfläche der Cité Foch). - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Nachwahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Sport - gewählt
+- TOP 12.2: Nachwahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Wirtschaft und Tourismus - gewählt
+- TOP 12.3: Nachwahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Schule und Facility Management - gewählt
+- TOP 12.4: Nachwahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Gesundheit, Soziales, Teilhabe und Gleichstellung - gewählt
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Parkplätze am Tegeler Hafen reaktivieren - überwiesen
+- TOP 13.2: Umbenennung der Walderseestraße - überwiesen
+- TOP 13.3: Schulbuch Baukultur - überwiesen
+- TOP 13.4: Fahrrad abstellen leicht gemacht. - überwiesen
+- TOP 13.5: Wahrnehmung des Wahlrechts durch obdachlose und wohnungslose Menschen unterstützen - überwiesen
+- TOP 13.6: Erledigt ist nicht gleich erledigt! - überwiesen
+- TOP 13.7: Hinweise Sportanlagen - überwiesen
+- TOP 13.8: Endlich wirksam gegen Taubendreck rund um die Gorkistraße vorgehen - überwiesen
+- TOP 13.9: Parkverbot für LKW in der Gotthardstr. konsequent kontrollieren und durchsetzen - überwiesen
+- TOP 13.10: Zeitfenster nutzen - rechtzeitig planen - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: WLAN in BVG-Bussen und U-Bahn ausweiten - überwiesen
+- TOP 14.2: Sicherheit auf dem EDEKA-Parkplatz am U-Bahnhof Wittenau - überwiesen
+- TOP 14.3: Absolutes Halteverbot Hermsdorfer Straße II - überwiesen
+- TOP 14.4: Laubeinsammlung der BSR verbessern - überwiesen
+- TOP 15: Wahl von zwei Schriftführern/zwei Schriftführerinnen in den Vorstand der BVV - erledigt
