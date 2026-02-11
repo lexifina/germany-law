@@ -1,0 +1,55 @@
+# 3. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-02-11T16:38:00+01:00
+- Ende: 2026-02-11T18:27:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14293
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14293
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00580363.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Maßnahmen zur Reduzierung der Treibhausgas-Emissionen (THG-Emissionen) im Verkehrssektor
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Überplanung der Corrensstraße - verwiesen
+- TOP 6.2: Etat des Amtes für Grünflächen, Umwelt und Nachhaltigkeit erhöhen - verwiesen
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8: Anregungen des Jugendrates
+- TOP 9: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung
+- TOP 10: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 10.1: Risiken im Umgang mit Atommüll minimieren - Keine Uran- und Castor-Transporte durch Münster - mehrheitlich beschlossen
+- TOP 11: Allgemeine/r Vertreter/in des Oberbürgermeisters - mehrheitlich beschlossen
+- TOP 12: Kommunales Klimacontrolling 2025 - zur Kenntnis genommen
+- TOP 13: Zukunft des Services @muenster.de-Mail-Adressen - einstimmig beschlossen
+- TOP 14: Sachkundige Einwohnerinnen und Einwohner - einstimmig geändert beschlossen
+- TOP 14.1: Sachkundige Einwohnerinnen und Einwohner
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 16: Wesentliche Beteiligungen im Sinne der Zuständigkeitsordnung für die Zuständigkeiten des Ausschusses für Wirtschaft, Finanzen, Liegenschaften und Digitalisierung in Beteiligungsangelegenheiten - einstimmig beschlossen
+- TOP 17: Ergebnis der Teilnahme am Entschuldungsprogramm des Landes NRW - zur Kenntnis genommen
+- TOP 18: Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung - Anwendung der Regelungen in Münster - Leitlinien - mehrheitlich geändert beschlossen
+- TOP 19: Hörsterstraße - Zukunft StadtRaum Martiniviertel - Beschluss verkehrstechnischer Entwurf - - mehrheitlich beschlossen
+- TOP 20: Genehmigung der Dringlichkeitsentscheidung D/0015/2025 zur Änderung der "Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif" ab 01.01.2026 - einstimmig beschlossen
+- TOP 21: Wirtschaftsplan 2026 von Münster Marketing - mehrheitlich beschlossen
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 22.1: Einführung eines digitalen Zeitfenster-Buchungssystems für die Recyclinghöfe der AWM - Mehr Service, längere Öffnungszeiten, weniger Wartezeiten - - verwiesen
+- TOP 22.2: Silvester in Münster verantwortungsvoll gestalten - Sicherheit stärken, Belastungen reduzieren, Traditionen respektieren - verwiesen
+- TOP 22.3: Spielplatzsanierung beschleunigen - Prioritäten klären - Umsetzungsstau beenden - verwiesen
+- TOP 22.4: Keine Veränderung des Bundestagswahlkreiszuschnitts für die Stadt Münster - verwiesen
+- TOP 22.5: Verbessertes zentrales Baustellenmanagement in Münster - Koordination stärken, Belastungen reduzieren - verwiesen
+- TOP 22.6: Mehr Zeit für Menschen: KI-Strategie als Rückenwind für den Bürgerservice - verwiesen
+- TOP 22.7: Sportförderrichtlinie überarbeiten und Sporthaushalt neuordnen - verwiesen
+- TOP 22.8: Handlungsempfehlungen und Leitlinien zur Beleuchtung - verwiesen
+- TOP 22.9: Einführung der Grundsteuer C zur Begrenzung von Bodenspekulation prüfen - verwiesen
+- TOP 23: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - mehrheitlich geändert beschlossen
+- TOP 23.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 24: Verschiedenes
