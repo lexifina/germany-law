@@ -1,0 +1,8 @@
+# TOP 6: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf
+
+- Sitzung: Rat (2026-02-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/385457
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/137420
