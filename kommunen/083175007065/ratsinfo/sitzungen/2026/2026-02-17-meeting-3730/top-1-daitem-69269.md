@@ -1,0 +1,6 @@
+# TOP 1.: Frageviertelstunde für Zuhörer
+
+- Sitzung: Ortschaftsrat Langenwinkel (2. Sitzung) (2026-02-17)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/69269
