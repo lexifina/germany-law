@@ -1,0 +1,6 @@
+# TOP 8: Bericht über das Inklusive Studio am Schauspielhaus
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Kultur (2026-02-17)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/138766
