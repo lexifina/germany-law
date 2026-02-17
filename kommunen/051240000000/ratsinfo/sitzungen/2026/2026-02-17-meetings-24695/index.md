@@ -1,0 +1,90 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Controlling & Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-02-17T16:00:00+01:00
+- Ende: 2026-02-17T17:30:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24695
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24695
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00359530.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00360996.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A-Angelegenheiten des Finanzausschusses
+- TOP 1: Strategische Themen und Projekte
+- TOP 1.1: Sachstandsbericht zum Projekt SAP - Entgegennahme ohne Beschluss
+- TOP 1.2: Überörtliche Prüfung der Stadt Wuppertal 2024/2025 durch die Gemeindeprüfungsanstalt NRW - Stellungnahme - ungeändert beschlossen
+- TOP 1.3: Altschuldenentlastungsgesetz (ASEG NRW) - Festsetzungsbescheid - Entgegennahme ohne Beschluss
+- TOP 2: Jahresabschluss und Haushaltsplanung
+- TOP 2.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2024 - ungeändert beschlossen
+- TOP 2.2: Einbringung des Haushaltsplanentwurfes 2026/2027
+- TOP 2.3: Einbringung des Haushaltssicherungskonzeptes 2026 ff.
+- TOP 2.4: Vertagung der Sitzung des Rates am 16.03.2026 zur abschließenden Entscheidung zu dem eingebrachten Haushaltssicherungskonzept auf das 2. Quartal 2026 - geändert beschlossen
+- TOP 2.4.1: Konsequenzen aus der Verschiebung des HSK- und Haushaltsbeschlusses - Entgegennahme ohne Beschluss
+- TOP 2.5: Haushalt transparent – Beratungen auch in den Fachausschüssen - abgelehnt
+- TOP 2.6: Antrag auf Zuschusserhöhung für die Wicked Woods - zur Beratung und Entscheidung verwiesen
+- TOP 2.7: Antrag auf Zuschusserhöhung für Die Börse und Wuppertaler Kinder- und Jugendtheater - zur Beratung und Entscheidung verwiesen
+- TOP 2.8: Antrag auf Zuschusserhöhung profamilia - zur Beratung und Entscheidung verwiesen
+- TOP 2.9: Anträge auf Finanzierung sozialer Träger - zur Beratung und Entscheidung verwiesen
+- TOP 2.10: Die Kulturverwaltung empfiehlt dem Kulturausschuss, den Beschluss vom 12.02.2025 zu den Ergebnissen der Arbeitsgruppe Institutionelle Förderung (VO/0084/25) unverändert in den Finanzausschuss, Hauptausschuss und Rat einzubringen - zur Beratung und Entscheidung verwiesen
+- TOP 3: Aktuelle Finanzlage/Controlling
+- TOP 3.1: Bericht Zins- und Schuldenmanagement zum 31.12.2025 - Entgegennahme ohne Beschluss
+- TOP 4: Laufende Bewirtschaftung des Haushaltes
+- TOP 4.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 22.11.2025 - 31.12.2025 - Entgegennahme ohne Beschluss
+- TOP 5: Vorlagen zu wesentlichen Haushaltspositionen
+- TOP 5.1: Änderung der Entgelte für die Bäder der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.2: Erhöhung von Entgelten für Übungsleiter*innen, sowie Feriensportgebühren - ungeändert beschlossen
+- TOP 5.3: Änderung der Geschäftsordnung des Gestaltungsbeirates ab 2026 - ungeändert beschlossen
+- TOP 5.4: Verwaltungsgebührensatzung 2026 - Korrektur - ungeändert beschlossen
+- TOP 6: Investitionen und Förderprojekte
+- TOP 6.1: Grundsatz- und Durchführungsbeschluss zur Errichtung von Vorläufer-Quartieren für die 7. und 8. Gesamtschule - ungeändert beschlossen
+- TOP 6.2: Durchführungsbeschluss: Neubau für den offenen Ganztag mit Mensa, Betreuungs- und Nebenräumen, Grundschule Hammesberger Weg 26 - ungeändert beschlossen
+- TOP 6.3: Durchführungsbeschluss: Errichtung einer temporären Lehrküche für die Erich-Fried-Gesamtschule Ronsdorf - ungeändert beschlossen
+- TOP 6.4: Durchführungsbeschluss: Neubau für den offenen Ganztag mit Mensa, Betreuungs- und Nebenräumen, Grundschule Am Dönberg 46 - ungeändert beschlossen
+- TOP 6.5: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - ungeändert beschlossen
+- TOP 6.5.1: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - Ergänzung - ungeändert beschlossen
+- TOP 6.6: Einrichtung eines befristeten Teilstandortes Grundschule Windthorststraße auf dem Sportplatz Henkelstraße - ungeändert beschlossen
+- TOP 7: Angelegenheiten der Vermögensverwaltung
+- TOP 7.1: Zwischennutzung eines städtischen Grundstücks in den Gemarkungen Barmen und Langerfeld zur Nutzung als Schulinterimsstandort - Entgegennahme ohne Beschluss
+- TOP 7.2: Zwischennutzung eines städtischen Grundstücks in der Gemarkung Langerfeld zur Nutzung als Schulinterimsstandort - Entgegennahme ohne Beschluss
+- TOP -: Teil B- Angelegenheiten der Beteiligungssteuerung
+- TOP 8: Städtische Beteiligungen
+- TOP 8.1: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP -: ESW
+- TOP 8.2: Jahresabschluss und Lagebericht 2024 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP -: GMW
+- TOP 8.3: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2024 - zur Beratung und Entscheidung verwiesen
+- TOP 8.3.1: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2024 - Entlastung des Betriebsausschusses - zur Beratung und Entscheidung verwiesen
+- TOP 8.4: Einbringung Wirtschaftsplan GMW 2026 - zur Beratung und Entscheidung verwiesen
+- TOP 8.5: QUARTALSREPORT für Q4/2025 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP -: APH
+- TOP 8.6: Jahresabschluss 2023 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.6.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 8.7: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2026 - ungeändert beschlossen
+- TOP -: KIJU
+- TOP 8.8: Jahresabschluss KIJU 2024 - ungeändert beschlossen
+- TOP 8.8.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP -: Tanztheater Pina Bausch GmbH
+- TOP 8.9: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2024/2025 - ungeändert beschlossen
+- TOP 8.9.1: Entlastung des Aufsichtsrates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2024/2025 - ungeändert beschlossen
+- TOP -: Historische Stadthalle Wuppertal GmbH
+- TOP 8.10: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP 8.11: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP -: Delphin Vermögensverwaltung
+- TOP 8.12: Jahresabschluss der Delphin Verwaltungs GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.13: Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP -: gwg
+- TOP 8.14: Eckpunktebeschluss zur Optimierung der Finanzierung und des Geschäftsmodells der gwg - ungeändert beschlossen
+- TOP -: Bergische Struktur- und Wirtschaftsförderung
+- TOP 8.15: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Bestellung von Beiratsmitgliedern - ungeändert beschlossen
+- TOP 9: Bergische Kooperationen
+- TOP 9.1: Grundsatzbeschluss zum Bergischen Studieninstitut (BSI) - Überführung in einen Zweckverband zum 01.01.2027 und Vorbereitung des Immobilienübergangs an die Städte - ungeändert beschlossen
+- TOP 9.2: Schloss Burg: Gründung einer gemeinnützigen Gesellschaft mit beschränkter Haftung (gGmbH) zum Betrieb und Abschluss einer öffentlich-rechtlichen Vereinbarung zu den Immobilien und Liegenschaften von Schloss Burg - ungeändert beschlossen
+- TOP 9.3: Überplanmäßige Mittelbereitstellung Schloss Burg - zurückgezogen
+- TOP -: Teil C - Betriebsausschuss des Eigenbetriebes Wasser und Abwasser (WAW)
+- TOP 10: Angelegenheiten des Eigenbetriebes WAW
