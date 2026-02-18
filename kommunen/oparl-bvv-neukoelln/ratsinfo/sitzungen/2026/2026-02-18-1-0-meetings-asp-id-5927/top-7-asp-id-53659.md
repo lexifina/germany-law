@@ -1,0 +1,7 @@
+# TOP 7: Nächste Sitzung am 18. März 2026
+
+- Sitzung: 34. öffentliche Sitzung des Sportausschusses (2026-02-18)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=53659
+- Ergebnis: erledigt
