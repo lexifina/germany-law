@@ -1,0 +1,73 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-02-18T17:00:00+01:00
+- Ende: 2026-02-18T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5038
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5038
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Serviceorientierung und schnelle Termine in den Bürgerämtern - beantwortet
+- TOP 3.2: Leerstand Ladenzeile Ladiusstraße - beantwortet
+- TOP 3.3: Aufklärung über virtuellen Autismus und Phubbismus - beantwortet
+- TOP 3.4: Vom Vertrag zur Wirklichkeit – Einsatzfähigkeit im Ernstfall? - beantwortet
+- TOP 3.5: Großschadenslage Winter - schriftlich beantwortet
+- TOP 3.6: Schlaglochbeseitigung - schriftlich beantwortet
+- TOP 3.7: Integration noch möglich? - vertagt
+- TOP 3.8: Schutzmaßnahmen gegen den Eichenprozessionsspinner in 2026 - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Grillen für alle – mindestens zwei nichtkommerzielle Grillflächen für den Bezirk - in der BVV abgelehnt
+- TOP 4.2: Jelbi-Standort am S-Bahnhof Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Fußgängerschutz vor dem Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Kunst im öffentlichen Raum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Sicherheit auch für Radfahrer*innen am Geisterhaus Gardeschützenweg 3 - in der BVV abgelehnt
+- TOP 4.6: Parkläuferprogramm erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Pkw-Stellplätze an der Potsdamer Chaussee in Höhe S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Halteverbotsschild Albrechtstraße 92 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Pendlerplätze sichern am S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Wir sind nicht auf der Flucht: Fußgänger*innenampel Ecke Unter den Eichen/Thielallee/Dahlemer Weg für normales Gehtempo schalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Einmündung des Fahrradwegs am Steglitzer Damm vor der Ecke Liebenowzeile absichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Abstimmboxen für Zigarettenstummel in Lichterfelde-West - in der BVV abgelehnt
+- TOP 4.13: Igeltunnel an bezirklichen Einrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Mülltrennung: Mit gutem Beispiel voran - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Biodiversität auch bei Schmuckbeeten sicherstellen - in der BVV abgelehnt
+- TOP 4.16: Ladesäulen auf Falschparker kontrollieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Liefer- und Ladezonen für Wohnstraßen mit hohem Parkdruck prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Private Parkplatzflächen für die Öffentlichkeit nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Sichere Querung Sven-Hedin-Straße/Plüschowstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Informationen zur Organspende öffentlich auslegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Lichtsignalanlage Potsdamer Straße in Höhe Fürstenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Fester Tritt statt Rutschpartie - Tausalz bei Extremglätte erlauben - überwiesen
+- TOP 5.2: Pilotprojekt Shuttle-Service für den Kranoldmarkt - überwiesen
+- TOP 5.3: Anna Sabine Halle (1921–2014) in die bezirkliche Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 5.4: Kaulbachstraße in Lankwitz in Fahrradstraße umwandeln - überwiesen
+- TOP 5.5: Krisenprävention gemeinsam mit unseren Nachbargemeinden in Brandenburg - überwiesen
+- TOP 5.6: Gesamte BVV in die weitere Entwicklung des ehemaligen „Pop Inns" in der Ahornstraße 15 einbeziehen - überwiesen
+- TOP 5.7: Aufnahme des PrimaVita-Bades in die zweite Tranche des Bundesprogramms „Sanierung kommunaler Sportstätten“ - überwiesen
+- TOP 5.8: Kinotag gegen Alterseinsamkeit im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.9: Einweihung der Ronnebypromenade unter Beteiligung lokaler Akteure - überwiesen
+- TOP 5.10: Gedenktafel für arisiertes jüdisches Kaufhaus pflegen - überwiesen
+- TOP 5.11: RB37 verlängern für attraktive Umsteigemöglichkeiten - überwiesen
+- TOP 5.12: Resolution: Femizide verhindern und geschlechtsspezifische Gewalt nachhaltig bekämpfen - überwiesen
+- TOP 5.13: Verkehrsberuhigung Am Rohrgarten - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Rechtskreiswechsel für ukrainische Geflüchtete - beantwortet
+- TOP 6.2: Problematik beim Schulessen - beantwortet
+- TOP 6.3: Vorsorge für den Krisenfall - beantwortet
+- TOP 6.4: Eiszeit auf Gehwegen und Nebenstraßen - beantwortet
+- TOP 6.5: Kommen noch Wohnungen im Kreisel? - beantwortet
+- TOP 6.6: Steglitzer Kreisel: Projektstillstand, Verantwortung und weiteres Vorgehen - beantwortet
+- TOP 6.7: Heizung im Rathaus Lankwitz - schriftlich beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Meldung leerstehender Gewerbeimmobilien - vertagt
+- TOP 7.2: Keine Unterbrechung des Livestreams bei Sitzungen der Bezirksverordnetenversammlung - vertagt
+- TOP 7.3: Umgehende Umsetzung des BVV-Beschlusses 717/VI „Handlungskonzept Obdachlosigkeit" - vertagt
