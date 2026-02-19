@@ -9,7 +9,7 @@ Abschnitt 1 Allgemeine Vorschriften
 § 6 | Hauptberuflichkeit
 § 7 | Weitergewährung der Besoldung bei einer Versetzung in den einstweiligen Ruhestand oder bei einer Abwahl einer Wahlbeamtin auf Zeit oder eines Wahlbeamten auf Zeit
 § 8 | Besoldung bei mehreren Hauptämtern
-§ 9 | Besoldung bei Teilzeitbeschäftigung
+§ 9 | Besoldung bei Teilzeitbeschäftigung; Altersteilzeit
 § 9a | Besoldung bei Pflegezeit und Familienpflegezeit
 § 10 | Besoldung bei begrenzter Dienstfähigkeit
 § 11 | Kürzung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung

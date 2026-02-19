@@ -30,7 +30,7 @@ eines nicht voll ausgebauten Gymnasiums oder einer nicht voll ausgebauten Obersc
 Fußnoten
 1) Erhält eine Amtszulage nach Anlage 6.
 1) Erhält eine Amtszulage nach Anlage 6.
-2) Erhält als ärztliche Referats- oder Dezernatsleitung einer zugeordneten Dienststelle einer obersten Landesbehörde eine Amtszulage nach Anlage 6.
+2) Erhält als human-, zahn- oder veterinärmedizinische Referats- oder Dezernatsleitung einer zugeordneten Dienststelle einer obersten Landesbehörde eine Amtszulage nach Anlage 6.
 3) Erhält als ärztliche Abteilungsleitung im Gesundheitsamt Bremerhaven eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
