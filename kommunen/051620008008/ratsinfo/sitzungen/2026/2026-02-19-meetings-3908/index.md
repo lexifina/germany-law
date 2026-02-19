@@ -1,0 +1,86 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2026-02-19T17:46:00+01:00
+- Ende: 2026-02-19T20:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3908
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3908
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00172776.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00172776.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00172776.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Änderung der Schriftführung für die 11. Wahlperiode - einstimmig beschlossen
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 4.1: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 5: Ortsrecht
+- TOP 5.1: 1. Satzung zur Änderung der Vergabesatzung für die Unterschwellenvergabe - einstimmig beschlossen
+- TOP 5.2: Aktualisierung der Satzung über die Bestimmung von haushaltsrechtlichen Wert- und Erheblichkeitsgrenzen - einstimmig beschlossen
+- TOP 6: Ausübung eines Vorkaufsrechts im Bereich der Vorkaufsrechtssatzung "Rahmenplan Gierather Weg" - einstimmig beschlossen
+- TOP 7: Verlängerung 5. Fortschreibung Gleichstellungsplan - einstimmig beschlossen
+- TOP 8: Haushaltsberatungen
+- TOP 8.1: Reden der Fraktionsvorsitzenden
+- TOP 8.2: Haushalt 2026 - mehrheitlich beschlossen
+- TOP 9: Beratungspunkte Ausschüsse
+- TOP 9.1: Beratungspunkte aus dem Wahlprünfungsausschuss
+- TOP 9.1.1: Gültigkeit der Bürgermeisterwahl - einstimmig beschlossen
+- TOP 9.1.2: Gültigkeit der Ratswahl - einstimmig beschlossen
+- TOP 9.1.3: Gültigkeit der Integrationsratswahl - einstimmig beschlossen
+- TOP 9.2: Beratungspunkte aus dem Ausschuss für Planung und Strukturwandel
+- TOP 9.2.1: Arbeitskreis Baulandmanagement 11. Wahlperiode und Mitglieder - einstimmig beschlossen
+- TOP 9.2.2: 52. FNP-Änderung (Aufstellungsbeschluss) - einstimmig beschlossen
+- TOP 9.2.3: BP Gu 39 "Feuerwehrgerätehaus Gustorf/Gindorf" - Ortsteil Gustorf (Aufstellungsbeschluss) - einstimmig beschlossen
+- TOP 9.2.4: Städtebaulicher Vertrag zum Bebauungsplan Nr. G 239 - einstimmig beschlossen
+- TOP 9.2.5: Aufstellung des Bebauungsplanes Nr. G 239 "Herkenbuscher Weg/Erftwerkstraße" - Ortsteil Südstadt (Abwägung und Satzungsbeschluss) - einstimmig beschlossen
+- TOP 9.2.6: Beschluss StV W59 Heckstraße - einstimmig beschlossen
+- TOP 9.2.7: BP W 59 (ern. Aufstellung, Abwägung und Satzungsbeschluss) - einstimmig beschlossen
+- TOP 9.2.8: Straßenbenennung im Stadtgebiet (BP W 59) - mehrheitlich beschlossen
+- TOP 9.2.9: Straßenbenennung im Stadtgebiet (BP N 47 - Lohweg) - mehrheitlich beschlossen
+- TOP 9.2.10: Straßenbenennung im Bereich des Bebauungsplanes W 56 - einstimmig beschlossen
+- TOP 9.2.11: Sicherstellung der paritätischen Berücksichtigung von Frauen bei der Vergabe von Straßennamen - einstimmig beschlossen
+- TOP 9.3: Beratungspunkte aus der Sitzung des Jugendhilfeausschusses
+- TOP 9.3.1: Kitabedarfsplanung für das Kindergartenjahr 2026/2027 - einstimmig beschlossen
+- TOP 10: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Oktober bis Dezember 2025 - Kenntnisnahme
+- TOP 11: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 11.1: Anfrage zur möglichen Einführung von "Taxigutscheine für Frauen" (Anfrage Nr.:003/2025) - Kenntnisnahme
+- TOP 11.2: Anfrage auf Förderung zur Bildung von Genossenschaften im Stadtgebiet Grevenbroich (Anfrage Nr.: 81/2025) - Kenntnisnahme
+- TOP 11.3: Anfrage zum Kauf des Magazins "Compact" im ABO für den Politikunterricht (Anfrage Nr.:76/2025) - Kenntnisnahme
+- TOP 11.4: Anfrage nach Abgabe von Überlastungsanzeigen von städtischem Lehrpersonal im Jahr 2025 (Anfrage Nr.:91/2025) - Kenntnisnahme
+- TOP 11.5: Anfrage auf mögliche Einführung eines Sicherheitsdienstes an städtischen Schulen (Anfrage Nr.:90/2025) - Kenntnisnahme
+- TOP 11.6: Stadtweites Entsiegelungskonzept (Antrag Nr. 72/2025) - einstimmig beschlossen
+- TOP 11.7: Anfrage zum möglichem Schweinefleisch-Verbot in städtischen Schulmensa (Anfrage Nr.:85/2025) - Kenntnisnahme
+- TOP 11.8: Medizinische Versorgung zukunftsgerichtet sichern - Neues Krankenhaus für den Süden des Kreises (Antrag Nr. 69/2025) - Kenntnisnahme
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: Antrag zur Instandsetzung der denkmalgeschützten Lourdesgrotte in Barrenstein (Antrag-Nr.: 10/2026) - einstimmig beschlossen
+- TOP 12.2: Fehlende Beleuchtung auf der Töpferstraße (Antrag-Nr.: 11/2026) - einstimmig beschlossen
+- TOP 12.3: Freizeitangebote für alle Altersklassen auf dem Schützenplatz in Orken (Antrag-Nr.: 12/2026) - einstimmig beschlossen
+- TOP 12.4: KiTa-Navigator/KiTa-Platzvergabe (Antrag-Nr.: 13/2026) - einstimmig beschlossen
+- TOP 12.5: Benennung einer Straße nach Rita Süssmuth (Antrag-Nr.: 15/2026) - einstimmig beschlossen
+- TOP 12.6: Parkraumkonzept Wevelinghoven Unterstraße / Zehntstraße / Burgstraße (Antrag-Nr.: 16/2026) - einstimmig beschlossen
+- TOP 12.7: Prüfung für weitere Flächen von Schmetterlingsfeldern auf den Grevenbroicher Friedhöfen (Antrag-Nr.: 17/2026) - einstimmig beschlossen
+- TOP 12.8: Einrichtung einer öffentlich zugänglichen Ladestation für Elektrofahrzeuge rund um den Bahnhof Gustorf (Antrag-Nr. 18/2026) - einstimmig beschlossen
+- TOP 12.9: Antrag: Prüfung und Aktivierung der OParl-Schnittstelle für das Rats- und Gremieninformationssystem der Stadt Grevenbroich (Antrag-Nr.: 19/2026) - einstimmig beschlossen
+- TOP 12.10: Antrag: Sachstandsbericht zum Themenkomplex Elterntaxis und Schulstraßen (Antrag-Nr.: 20/2026) - einstimmig beschlossen
+- TOP 12.11: Antrag: Umbesetzung (Antrag-Nr.: 21/2026) - einstimmig beschlossen
+- TOP 12.12: Antrag zur Umwidmung der Haushaltsmittel für "GV Total mit Beni Bieber" im Haushalt 2026 (Antrag-Nr.: 25/2026) - einstimmig beschlossen
+- TOP 12.13: Einführung des IServ-Moduls "Klassengeld" (Antrag-Nr. 26/2026) - einstimmig beschlossen
+- TOP 12.14: Gebührenentlastung für Vereine für nichtkommerzielle Veranstaltungen (Antrag-Nr.: 27/2026) - einstimmig beschlossen
+- TOP 12.15: Bewerbung der Stadt Grevenbroich auf den Förderaufruf "Ausbau ganztägiger Betreuungsangebote für Kinder in der Primarstufe im Rheinischen Revier" (Antrag-Nr.: 28/2026) - einstimmig beschlossen
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfrage zum Haushalt 2026 (Anfrage-Nr.: 3/2026) - Kenntnisnahme
+- TOP 13.2: Wie gestaltet sich das Hundesteueraufkommen in der Stadt Grevenbroich? (Anfrage-Nr.: 8/2026) - Kenntnisnahme
+- TOP 13.3: Anfrage zum Sachstand des Antrages "Etablierung eines Seniorenmittagstischs - Antrag-Nr. 18/2025 (Anfrage-Nr.: 9/2026) - Kenntnisnahme
+- TOP 13.4: Anfrage zur zeitlichen Umsetzung beschlossener Jugendpark- und Jugendfreizeitprojekte in der Stadt Grevenbroich (Anfrage-Nr.: 14/2026) - Kenntnisnahme
+- TOP 13.5: Anfrage: Qualitätsmanagement in der Jugendhilfe (Anfrage-Nr.: 22/2026) - Kenntnisnahme
+- TOP 13.6: Anfrage zur Zusammenarbeit und Beteiligung von Migrantenvereinen in der Stadt Grevenbroich (Anfrage-Nr.: 23/2026) - Kenntnisnahme
+- TOP 13.7: Anfrage zum Haushaltsentwurf 2026 - Rätselhafte Sitzverteilung: Wo ist Die PARTEI? (Anfrage-Nr.: 24/2026) - Kenntnisnahme
+- TOP 13.8: Überprüfung der Immisionswerte von Schienenverkehr (Anfrage-Nr.: 29/2026) - Kenntnisnahme
+- TOP 13.9: Überprüfung der Feinstaubbelastung durch Güterverkehr (Anfrage-Nr.: 30/2026) - Kenntnisnahme
+- TOP 14: Mitteilungen des Bürgermeisters
