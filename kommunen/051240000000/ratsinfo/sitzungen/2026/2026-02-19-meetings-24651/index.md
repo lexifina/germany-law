@@ -1,0 +1,107 @@
+# öffentliche/nicht öffentliche Sitzung des Haupt- und Personalausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-02-19T16:04:00+01:00
+- Ende: 2026-02-19T16:22:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24651
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24651
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00359612.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00360981.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Städtische Angebote für selbstständig lebende Senioren
+- TOP 2.2: Automatisierte externe Defibrillatoren (AEDen) im Stadtgebiet
+- TOP 2.3: Maßnahmen hinsichtlich Obdachlosigkeit insbesondere im kalten Halbjahr
+- TOP 2.3.1: Antwort auf große Anfrage - Maßnahmen hinsichtlich Obdachlosigkeit im kalten Halbjahr
+- TOP 2.4: Städtischer Haushalt 2026/27: Auswirkungen einer späteren Beschlussfassung
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Haupt- und Personalausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Streichung der Beigeordneten-Stelle für Kultur und Sport sowie Sicherheit und Ordnung - zur Beratung und Entscheidung verwiesen
+- TOP 4.1.1: Nachbesetzung des Verwaltungsvorstandes - Bildung einer Auswahlkommission des Rates - Ausschreibungsverfahren für eine Personalberatungsagentur - zur Beratung und Entscheidung verwiesen
+- TOP 4.2: Vertagung der Sitzung des Rates am 16.03.2026 zur abschließenden Entscheidung zu dem eingebrachten Haushaltssicherungskonzept auf Ende April 2026 - geändert beschlossen
+- TOP 4.2.1: Konsequenzen aus der Verschiebung des HSK- und Haushaltsbeschlusses - Entgegennahme ohne Beschluss
+- TOP 4.3: Regulierung von E-Scootern in Wuppertal; Gemeinsamer Antrag der Fraktionen von SPD und CDU - geändert beschlossen
+- TOP 4.3.1: Änderungsantrag zu TOP 4.3, Regulierung von E-Scootern in Wuppertal - ungeändert beschlossen
+- TOP 4.4: Aufnahme weiterer sachkundiger Einwohner in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 4.5: Stadttaubenmanagement am Döppersberg - Sachstand Taubenhaus und Folgerungen aus dem aktuellen Falknereieinsatz - ungeändert beschlossen
+- TOP 4.6: Beratungen von Bürgeranregungen nach § 24 GO NRW - ungeändert beschlossen
+- TOP 4.7: Verlagerung und Weiterentwicklung des Café Cosa zur Eindämmung von Drogenhandel und Drogenkonsum im öffentlichen Raum - zur Beratung und Entscheidung verwiesen
+- TOP 4.8: Wuppertal erhält den Zusatznamen „Schwebebahnstadt“ - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Verordnung über das Offenhalten von Verkaufsstellen am 11.10.2026 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.2: Verwaltungsgebührensatzung 2026 - Korrektur - ungeändert beschlossen
+- TOP 6.3: Änderung der Entgelte für die Bäder der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Änderung der Geschäftsordnung des Gestaltungsbeirates ab 2026 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2024 - ungeändert beschlossen
+- TOP 7.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2024 - ungeändert beschlossen
+- TOP 7.3: Überörtliche Prüfung der Stadt Wuppertal 2024/2025 durch die Gemeindeprüfungsanstalt NRW - Stellungnahme - ungeändert beschlossen
+- TOP 7.4: Altschuldenentlastungsgesetz (ASEG NRW) - Festsetzungsbescheid - Entgegennahme ohne Beschluss
+- TOP 7.5: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 22.11.2025 - 31.12.2025 - Entgegennahme ohne Beschluss
+- TOP 7.6: Überplanmäßige Mittelbereitstellung Schloss Burg
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss KIJU 2024 - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2023 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 8.5: Örtliche Alten- und Pflegeplanung 2024 zum Stichtag 31.12.2023 für die Stadt Wuppertal gem. § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zur Beratung und Entscheidung verwiesen
+- TOP 8.6: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2026 - ungeändert beschlossen
+- TOP 8.7: Schloss Burg: Gründung einer gemeinnützigen Gesellschaft mit beschränkter Haftung (gGmbH) zum Betrieb und Abschluss einer öffentlich-rechtlichen Vereinbarung zu den Immobilien und Liegenschaften von Schloss Burg - ungeändert beschlossen
+- TOP 8.8: Auflösung des Beratungsnetzwerkes Pflege - ungeändert beschlossen
+- TOP 8.9: Grundsatzbeschluss zum Bergischen Studieninstitut (BSI) - Überführung in einen Zweckverband zum 01.01.2027 und Vorbereitung des Immobilienübergangs an die Städte - ungeändert beschlossen
+- TOP 8.10: Jahresabschluss und Lagebericht 2024 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.11: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.12: Beitritt der Stadt Wuppertal zum Gesunde Städte-Netzwerk Deutschland - ungeändert beschlossen
+- TOP 8.13: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Inve - ungeändert beschlossen
+- TOP 8.14: Einbringung Wirtschaftsplan GMW 2026 - zur Beratung und Entscheidung verwiesen
+- TOP 8.15: Eckpunktebeschluss zur Optimierung der Finanzierung und des Geschäftsmodells der gwg
+- TOP 9: Planverfahren
+- TOP 9.1: 149. Flächennutzungsplanänderung - Nahversorgungszentrum Uellendahl - Feststellungsbeschluss - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1270 - Nahversorgungszentrum Uellendahl - - Satzungsbeschluss - Bebauungsplan 775 - Kreuzung Weinberg/Uellendahler Str./Röttgen - Satzungsbeschluss zur Teilaufhebung - - ungeändert beschlossen
+- TOP 9.3: Planfeststellungsbeschluss zum Umbau Südsteg Hauptbahnhof Wuppertal - Entgegennahme ohne Beschluss
+- TOP 9.4: Fluchtlinienplan 53 - Heckinghausen - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1301 - Steinbecker Meile / Hoeftstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Durchführungsbeschluss: Neubau für den offenen Ganztag mit Mensa, Betreuungs- und Nebenräumen, Grundschule Hammesberger Weg 26 - ungeändert beschlossen
+- TOP 10.2: Durchführungsbeschluss: Neubau für den offenen Ganztag mit Mensa, Betreuungs- und Nebenräumen, Grundschule Am Dönberg 46 - ungeändert beschlossen
+- TOP 10.3: Durchführungsbeschluss: Errichtung einer temporären Lehrküche für die Erich-Fried-Gesamtschule Ronsdorf - ungeändert beschlossen
+- TOP 10.4: Grundsatz- und Durchführungsbeschluss zur Errichtung von Vorläufer-Quartieren für die 7. und 8. Gesamtschule - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: "InnenBandStadt" - Abschlussbericht und Dokumentation des Förderprojekts - Entgegennahme ohne Beschluss
+- TOP 11.2: Quartalsbericht IV/2025 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.3: Einrichtung eines befristeten Teilstandortes Grundschule Windthorststraße auf dem Sportplatz Henkelstraße - ungeändert beschlossen
+- TOP 11.4: Erhöhung von Entgelten für Übungsleiter*innen, sowie Feriensportgebühren - ungeändert beschlossen
+- TOP 11.5: Antrag auf Einrichtung eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) am Berufskolleg Werther Brücke - ungeändert beschlossen
+- TOP 11.6: Antrag auf Erhöhung der Zügigkeit am Berufskolleg Werther Brücke gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.7: Antrag auf Einrichtung eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) und gleichzeitig die Reduzierung der Zügigkeit eines Bildungsgangs am Berufskolleg Kohlstraße - ungeändert beschlossen
+- TOP 11.8: Antrag auf Einrichtung eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) am Berufskolleg am Haspel - ungeändert beschlossen
+- TOP 11.9: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2026/2027 - ungeändert beschlossen
+- TOP 11.10: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - ungeändert beschlossen
+- TOP 11.10.1: Einrichtung eines unbefristeten Teilstandortes Kyffhäuserstraße für die städtische Schule am Nordpark, Melanchthonstr. 25, Wuppertal - Ergänzung - ungeändert beschlossen
+- TOP 11.11: Grundsatzbeschluss: Einrichtung eines befristeten Teilstandortes Döppersberg für das Wilhelm-Dörpfeld-Gymnasium - ungeändert beschlossen
+- TOP 11.12: Gremientätigkeiten von Herrn Oberbürgermeister Prof. Dr. Uwe Schneidewind 2025 - Entgegennahme ohne Beschluss
+- TOP 11.13: Gremientätigkeiten von Frau Oberbürgermeisterin Miriam Scherff 2025 - Entgegennahme ohne Beschluss
+- TOP 11.14: Erweiterung der Öffnungszeiten des Café Cosa und Erhöhung der Reinigungsintervalle der dort aufgestellten Toiletten - zur Beratung und Entscheidung verwiesen
+- TOP 11.15: Konzept zur Ein- und Durchführung eines Ehrenamtsstipendiums - ungeändert beschlossen
+- TOP 11.16: Jahresbericht des Inklusionsbüros 2024/2025 - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Bestellung von Beiratsmitgliedern - ungeändert beschlossen
+- TOP 12.2: Abberufung und Bestellung von Vertretern der Stadt Wuppertal im Betriebsausschuss des KDN.sozial - ungeändert beschlossen
+- TOP 12.3: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12.4: Wahl weiterer Sachkundiger Einwohnerinnen und Einwohner für die Kommunalwahlperiode 2025-2030 - ungeändert beschlossen
+- TOP 12.5: Nachbesetzung im Beirat der Justizvollzugsanstalt Wuppertal-Vohwinkel - ungeändert beschlossen
+- TOP 12.6: Neubesetzung Beirat Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.7: Bestellung von stellvertretenden Mitgliedern - ungeändert beschlossen
+- TOP 12.8: Bildung des Planungsbeirates für die Ausrichtung der Bundesgartenschau 2031 in Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 12.9: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 09. und 10. Juni 2026 in Oberhausen - Benennung der Delegierten der Stadt Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 12.10: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.11: Bennenung eines stv. sachkundigen Bürgers und Gremienbesetzung im Ausschuss für Stadtentwicklung, Wirtschaft, Bauen und Standortmarketing, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 12.12: Gremienumbesetzung in der Verbandsversammlung EKOCity GmbH, Antrag der SPD-Fraktion - ungeändert beschlossen
