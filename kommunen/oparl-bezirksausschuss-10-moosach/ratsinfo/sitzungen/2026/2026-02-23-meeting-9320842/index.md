@@ -1,0 +1,88 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9320842
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9320842
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 26.01.2026
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Antrag auf zügige Ferfigstellung des Neubaus der Münchner Wohnen in der Karlingersiedlung (2. Bauabschnift) durch Mängelbeseitigung beim vorbeugenden Brandschutz
+- TOP 2.2.: Unerlaubte PKW-Durchfahrt in der Gubestraße
+- TOP 2.3.: Anfragen des Mietermagazins "Borstei Rundschau" zur Verkehrssituation rund um die Borstei
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baubergerstraße 19
+- TOP 3.3.1.2.: Holledauer Straße 27
+- TOP 3.3.1.3.: Pelkovenstraße 80
+- TOP 3.3.1.4.: Hartmannshofer Straße 5 (Haus 1)
+- TOP 3.3.1.5.: Hartmannshofer Straße 5 (Haus 2)
+- TOP 3.3.1.6.: Hartmannshofer Straße 5 (Haus 3)
+- TOP 3.3.1.7.: Hartmannshofer Straße 5 (Haus 4)
+- TOP 3.3.1.8.: Hartmannshofer Straße 5 (Haus 5)
+- TOP 3.3.1.9.: Hartmannshofer Straße 5 (Haus 6)
+- TOP 3.3.1.10.: Hartmannshofer Straße 5 (Haus 7)
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Sickingerstraße 10
+- TOP 3.3.2.2.: Eggmühler Straße 33
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Zeitliche Beschränkung absolutes Halteverbot Borstei – Lampadiustr. 2/4
+- TOP 4.1.2.: Welche Vorschläge hat die Münchner Wohnen zur Verbesserung im Umgang mit Anliegen der Mieter*innen des sog. Bunten Block?
+- TOP 4.1.3.: Sicher im Verkehr unterwegs – Wiederherstellung einer Haltelinie im Bereich der freilaufenden Rechtsabbiegespur von der Dachauer Straße zum Wintrichring
+- TOP 4.1.4.: Antrag auf Querungsmöglichkeit für Fußgänger über die Baubergerstraße mit Mittelinsel im Bereich der öffentlichen Durchwegung östlich des Anwesens Baubergerstraße 4
+- TOP 4.1.5.: Antrag auf Errichtung eines Fußgängerüberwegs über die Baubergerstraße westlich der öffentlichen Durchwegung nahe der MVHS
+- TOP 4.1.6.: Anfrage: Kann der motorisierte Verkehr auf der Baubergerstraße zwischen Gubestraße und Moosacher Stachus auf Tempo 30 beschränkt werden?
+- TOP 4.1.7.: Antrag auf vergünstigten Parktarif für Kurzbesucher des Olympia-Einkaufszentrums
+- TOP 4.1.8.: Antrag auf Umstellung von Papiertickets auf ein digitales Parkraummanagementsystems für Besucher des Olympia-Einkaufszentrums
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratie im Einsatz - Demokratiemobil München am 06. und 07.03.2026 3.034,00 Euro, Az.: 0262.100-10-0453
+- TOP 5.2.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches Projekt "My Fertility Matters (MFM)" für die 5. Klassen von Februar-März 2026 1.260,00€; Az. 0262.100-10-0455
+- TOP 5.3.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Fußballtore und Eckfahnen vom 01.02. -31.07.2026 3.163,98€; Az. 0262.100-10-0456
+- TOP 5.4.: (E) Begrenzung der Parkzeit auf dem Parkstreifen an der Allacher Straße
+- TOP 5.5.: (E) Einrichtung eines Zebrastreifens in der Netzerstraße Ecke Zügelstraße
+- TOP 5.6.: (E) Hitze- und klimaresistentes Bauen durch konsequentes Anbringen eines außen liegenden Sonnenschutzes Empfehlung
+- TOP 6.: Anhörungen
+- TOP 6.1.: "Wings for Life Run 2026" am 10.05.2026
+- TOP 6.2.: Aufruf des BA 17: Finanzielle Unterstützung und Einrichtung von Taubenhäusern
+- TOP 6.3.: Parklizenzgebiet "Seydlitzplatz"; Integration der Batzenhoferstraße
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO ,städtischen Privatgrund (Festzelt) und konfessionelle Veranstaltung auf öffentlichem Verkehrsgrund (Maibaumfest-Festzelteinzug); hier: Moosacher Maifest von 29.04.-03.05.2026 am Moosacher St.- Martins-Platz
+- TOP 6.5.: Mobilfunk-Suchkreis im Bereich Hanauer Straße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anfrage zum Leerstand und Wohnungsvergabeprozess der Münchner Wohnen
+- TOP 7.2.: Erstellung eines Informationsangebot für Grundwassergeschädigte auf der Internetseite der Stadt München
+- TOP 7.3.: Sicher im Verkehr unterwegs – Sicherere Gestaltung des Kreuzungsbereichs Baldurstraße zu Dachauer Straße für Radfahrende und zu Fuß gehende Personen
+- TOP 7.4.: Reduzierung des Schleichverkehrs; Antwortschreiben auf BA-Antrag Nr. 20-26 / B 08364 des Bezirksausschusses des Stadtbezirkes 09 - Neuhausen-Nymphenburg
+- TOP 7.5.: Antrag auf Rückbau der Fassadenbegrünung beim Neubau der Karlingersiedlung und Behebung aller weiteren bauphysikalischen Mängel
+- TOP 7.6.: Umweltbildung jetzt stärken - Budget 2025 für KI-Recycling im Stadtteil nutzen
+- TOP 7.7.: Wohnortnahes Angebot für Sperrmüllentsorgung in Moosach fördern
+- TOP 7.8.: Genaue Terminierung der Einrichtung von Anwohnerparken und Parkscheinautomaten
+- TOP 7.9.: Modernisierung der Sportanlage in der Lauingerstraße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: - Lampadiusstraße: Anbringung Verkehrszeichen 136-10 StVO (Achtung Kinder) Nordseite ; Versetzung der Verkehrszeichen 314-10 StVO (Parken Anfang od. Ende) und 283-20 StVO (absolutes Haltverbot) Südseite
+- TOP 8.2.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2025 bis 2029 mit verbindlicher Planung für das Jahr 2030 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 8.3.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP 8.4.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP 8.5.: Gewerbeflächenentwicklungsprogramm
+- TOP 3.3.1.11.: Weiherweg 30
+- TOP 3.3.1.12.: Hohentwielstraße 3
+- TOP 3.3.1.13.: Dachauer Straße 302
+- TOP 3.3.1.14.: Georg-Brauchle-Ring 60
+- TOP 3.3.1.15.: Feldmochinger Straße
+- TOP 5.7.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Moosach e.V. Sommerfahrt 2026 der Jugendfeuerwehr Moosach nach Cuxhafen, Helgoland und Hamburg vom 08.08. -16.08.2026 4.921,00€; Az. 0262.100-10-0457
+- TOP 6.6.: Sanierungsgebiet „Moosach“; Fortschreibung der Sanierungsziele und Maßnahmen
+- TOP 6.7.: Anhörungsschreiben des Referates für Klima- und Umweltschutz vom 10.02.2026 -nicht öffentlich-
