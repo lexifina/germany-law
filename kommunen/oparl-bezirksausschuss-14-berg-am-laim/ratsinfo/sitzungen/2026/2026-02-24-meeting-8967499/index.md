@@ -1,0 +1,84 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-02-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967499
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967499
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 27.01.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Erika-Köth-Str. - München One Rock, Neubau einer Wohnanlage mit Tiefgarage- VORBESCHEID
+- TOP 3.1.2.: Sonnwendjochstr. 22 - Neubau eines MFH mit Nebengebäude und Tiefgarage (Obinger Str./ Sonnwendjochstr. 22/ Überseepl. 7) - VORBESCHEID
+- TOP 3.1.3.: Guffertstr. 9 - Umbau eines Einfamilienhauses zum Mehrfamilienhaus (5WE) - VORBESCHEID
+- TOP 3.1.4.: Dornbergstr. 7 - Aufstockung bestehender Wohngebäude mit Wohnungen Anbau Aufzug und Terrassen - vertagt aus der Plenumssitzung vom 27.01.2026 -
+- TOP 3.1.5.: Riedgaustr. 4 - Neubau eines Gebäudes für Rettungswache mit Fahrzeughalle, Mitarbeiterwohnungen, Wohnungen für betreutes Wohnen, Demenztagespflege und einer Tiefgarage
+- TOP 3.1.6.: Aufstellen einer Bank in der Hansjakobstraße; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Sperrmüll an der Isareckstraße 51; Anliegen aus der Bürgerschaft
+- TOP 3.1.8.: Finanzielle Unterstützung und Einrichtung von Taubenhäusern; Anliegen vom BA 17
+- TOP 3.1.9.: Rückbau tierschutzwidriger Taubenabwehrspikes an Gebäuden der Münchner Wohnen in Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Aufstellen eines Verkehrsspiegels - eingeschränkte Sicht durch parkende Fahrzeuge (TG-Ausfahrt Streitfeldstraße 23)
+- TOP 3.2.2.: Taktung Bus 191/190 und Tram 21 an der Schlüsselbergstraße-Haltestelle; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Sozial gerechte Möglichkeit des Wohnungstausches bei der Münchner Wohnen; Antrag der Grünen-Fraktion
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Instandhaltung von Flurkreuzen; Anliegen aus der Bürgschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 Besuch der Geschichtenerzählerin Katharina Ritter am 29. und 30.04.2026 544,00 €; Az. 0262.100-14-0487
+- TOP 3.5.2.: Verankerung eines Tierschutzbeauftragten im Bezirksausschuss Berg am Laim ab der nächsten Amtsperiode; Antrag der CSU-Fraktion
+- TOP 3.5.3.: Kunstprojekt „Metamorphose“ (2023) Unterführung Ostbahnhof – Prüfung weiterer Vorgehensweise und möglicher Konsequenzen bei nicht eingehaltenen Projektzusagen zum Stadtbezirksbudget; Antrag der CSU-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hansjakobstr. 117
+- TOP 3.6.2.: Bad-Kissingen-Str. 62
+- TOP 3.6.3.: Sturmiusweg 44
+- TOP 3.6.4.: Riedgaustr. 4
+- TOP 3.6.5.: Schildensteinstr. 4 - 12
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Januar 2026
+- TOP 4.1.2.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für die Mülleinsammlung
+- TOP 4.1.3.: Trinkgelegenheiten für Wildtiere auf versiegelten Flächen im Stadtteil Berg am Laim - vertagt aus der Plenumssitzung vom 27.01.2025 -
+- TOP 4.1.4.: Mähen öffentlicher Grünanlagen nur bis Ende September - vertagt aus der Plenumssitzung vom 27.01.2025 -
+- TOP 4.1.5.: Bedarfs- und Projektgenehmigung Kanalsanierungsmaßnahme Au-Haidhausen, Berg am Laim, Ramersdorf, Obergiesing-Fasangarten
+- TOP 4.1.6.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1822 Dingolfinger Straße (beiderseits) zwischen Bahnlinie München-Rosenheim und Leuchtenbergring Ten Towers, - Umnutzung von Büroflächen zu Wohnzwecken für Studierende sowie anteilig für Auszubildende in den Türmen 1-4 Stadtbezirk 14 Berg am Laim
+- TOP 4.1.7.: Baustelleneinrichtung und Zufahrt für die Grünfläche 602.1 Josef-Ritz-Weg
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Erhöhung der Verkehrssicherheit an der Ecke Josephsburgstraße/Echardinger Straße durch Versetzen einer Litfaßsäule
+- TOP 4.2.2.: Überholverbot von Radfahrern in der St.-Veit-Straße zwischen Kreiller- und Josephsburgstr.
+- TOP 4.2.3.: Prüfung einer nutzerfreundlicheren Lösung für den Fußgängerzugang am Ostbahnhof (Friedenstraße) während der Bauphase der zweiten Stammstrecke
+- TOP 4.2.4.: Arbeiten im Straßenraum; Sperrung Tunnelkette Mittlerer Ring Ost (von 26.02. bis 27.02.2026 und von 02.03. bis 06.03.2026, jeweils von 22:00 Uhr bis 05:00 Uhr)
+- TOP 4.2.5.: Mitteilung über unveränderte Fortführung des Gaststättenbetriebes
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Sanierung des Containers am Spielplatz Virgilstraße
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Nadelbaum an der Baumkirchner Straße 18 pflanzen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.5.4.: (E) Stadtbezirksbudget BKKE e. V. (Bildung Kunst Kultur Events für Tiere und Umwelt) Theater Rampensau - Aufführung "An der Arche um acht" vom 09.02. - 28.06.2026 940,00 €; Az. 0262.100-14-0489
+- TOP 1.1.1.: Nachtrag TOP 3.5.4: (E) Stadtbezirksbudget BKKE e. V. (Bildung Kunst Kultur Events für Tiere und Umwelt) Theater Rampensau - Aufführung "An der Arche um acht" vom 09.02. - 28.06.2026 940,00 €; Az. 0262.100-14-0489
