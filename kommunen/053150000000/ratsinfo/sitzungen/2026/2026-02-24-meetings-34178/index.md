@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses für Chancengerechtigkeit und Integration
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-02-24T15:00:00+01:00
+- Ende: 2026-02-24T15:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/193
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34178
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34178
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage der GOL zum Thema: Koloniales Erbe der Stadt Köln AN/1311/2025 für den Ausschuss für Chancengerechtigkeit und Integration - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage zum Thema: Rassismus auf Kölner Fußballplätzen - Schutz von Kindern und Jugendlichen - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage von Kemal Sovuksu - Offene Liste CDU zur Umsetzung des Handlungskonzepts „Kommunales Integrationsmanagement Nordrhein-Westfalen (KIM)„ AN/0260/2026 - vertagt
+- TOP 3.4: Beantwortung einer Anfrage im Ausschuss für Chancengerechtigkeit und Integration des Mitglieds Ali Esen zum Thema Ausländeramt (AN/0228/2026) - vertagt
+- TOP 3.5: Beantwortung einer Anfrage der SPD betreffend "Arbeitsaufkommen, Bearbeitungsstand und Verfahrenspraxis im Ausländeramt der Stadt Köln" (AN/0230/2026) - Kenntnis genommen
+- TOP -: Anfrage zum Thema "Arbeitsaufkommen, Bearbeitungsstand und Verfahrenspraxis im Ausländeramt der Stadt Köln" - Sache ist erledigt
+- TOP 3.6: Beantwortung einer mündlichen Anfrage zur Internetversorgung der untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Thema: Zweites Diskriminierungsmonitoring
+- TOP 4.2: Anfrage zum Thema Mehrsprachigkeit in Köln
+- TOP 4.3: Anfrage zum Thema Mehrsprachigkeit in Köln mit dem Schwerpunkt HSU (Herkunftssprachlicher Unterricht)
+- TOP 4.4: Sachstand und Perspektiven einer Städtepartnerschaft mit einer Stadt südlich der Sahara – insbesondere mit Dodoma in Tansania
+- TOP 4.5: Anfrage zum rechtlichen Status des „Houses of Ressources“ und des Verbundes der Interkulturellen Zentren Köln
+- TOP 4.6: Umsetzung der Ratsbeschlüsse zur „Ächtung des N-Wortes“ und zur UN-Dekade für Menschen afrikanischer Herkunft in Köln – Konsequenzen aus fortbestehenden rassistischen Angriffen und wirksame Bekämpfung – 0743/2020 (Rat), AN/0240/2020 (Integrationsrat)
+- TOP 4.7: Senior*innennetzwerke, Offene Altenarbeit
+- TOP 5: Mitteilungen
+- TOP 5.1: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 5.2: Erfolgte Anerkennungen als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - Kenntnis genommen
+- TOP 5.3: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 5.4: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 5.5: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - Kenntnis genommen
+- TOP 5.6: Ergebnisse im Kommunalen Programm für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 5.7: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Von der Verwaltung abgesetzt
+- TOP 5.8: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - vertagt
+- TOP 5.9: Entwicklung der Unterbringungsressourcen für Geflüchtete bei der Stadt Köln bis einschließlich 2027 - vertagt
+- TOP 5.10: 46. und 47. Bericht zur Situation Geflüchteter in Köln - vertagt
+- TOP 5.11: I., II. und III. Quartalsbericht der Ombudsstelle für Flüchtlinge in Köln für 2025 - vertagt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Prüfung der Änderung der Geschäftsordnung Präambel und § 10, Abs. 1 - vertagt
+- TOP -: Änderungsantrag zum Antrag AN/1387/2025 - Änderung der Geschäftsordnung von Malik Karaman, Gönül Topuz und Eli Abeke - vertagt
+- TOP -: Änderungsantrag der CDU-Fraktion: „Änderungsantrag zur Prüfung der Änderung der Geschäftsordnung Präambel und §10, Abs. 1“ - vertagt
+- TOP 6.2: Aufnahme eines Tagesordnungspunktes zur Situation des Ausländeramtes Köln (Bericht der Leitung des Ausländeramtes) - Kenntnis genommen
+- TOP 6.3: Prüfauftrag zur Genehmigung und Umsetzung von Live-Streaming von Sitzungen des Ausschusses für Chancengerechtigkeit und Integration der Stadt Köln unter besonderer Berücksichtigung inklusiver, barrierefreier und diversitätsfördernder Kriterien. - vertagt
+- TOP -: Stellungnahme zum Prüfauftrag zur Genehmigung und Umsetzung von Live-Streaming von Sitzungen des Ausschusses für Chancengerechtigkeit und Integration - vertagt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Änderung der Geschäftsordnung des Integrationsrates der Stadt Köln anlässlich der Umbenennung des Integrationsrates in „Ausschuss für Chancengerechtigkeit und Integration“ - Von der Verwaltung abgesetzt
+- TOP 8.2: Runder Tisch für Flüchtlingsfragen - Entsendung eines Mitglieds und einer Stellvertretung des Ausschusses für Chancengerechtigkeit und Integration für die Wahlperiode 2025/2030 - ungeändert beschlossen
+- TOP 8.3: Benennung von sachkundigen Einwohner*innen in die Ratsausschüsse - ungeändert beschlossen
+- TOP 8.4: Freigabe und Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2026 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
