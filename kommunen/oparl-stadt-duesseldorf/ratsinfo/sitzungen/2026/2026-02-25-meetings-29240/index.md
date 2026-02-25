@@ -1,0 +1,51 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-02-25T16:02:00+01:00
+- Ende: 2026-02-25T18:04:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29240
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29240
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577531.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577531.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577531.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die gemeinsame öffentliche Sitzung der Bezirksvertretung1 und des Ordnungs- und Verkehrsausschusses am 19.03.2025 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die öffentliche Sitzung des Ordnungs- und Verkehrsausschusses vom 18.06.2025 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift über die öffentliche Sitzung des Ordnungs- und Verkehrsausschusses vom 17.09.2025 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 5: Anträge
+- TOP 6: Aktuelles
+- TOP 6.1: Bericht zu Karneval 2026
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Fischmärkte auf dem Tonhallenufer im Jahre 2026 - mehrheitlich beschlossen
+- TOP 9: Moskauer Straße / Readinger Straße - 2-streifiger Ausbau der Planstraße Oberbilk - mehrheitlich beschlossen
+- TOP 10: Gestaltungskonzept der Oberflächen Königsallee Westseite - Empfehlung mehrheitlich beschlossen
+- TOP 11: Radverkehrsführung Neusser Straße im Abschnitt Düsselstraße / Martinstraße - abweichend beschlossen
+- TOP 12: Haushaltsanträge
+- TOP 12.1: Haushaltsantrag der FDP-Ratsfraktion: Fährverbindungen für Rheinbahnbusse über die Ersatzübergangsstellen in Lörick und Stockum prüfen - mehrheitlich abgelehnt
+- TOP 12.2: Haushaltsbegleitantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Vorlage einer Gebührenordnung für das Bewohnerparken - mehrheitlich beschlossen
+- TOP 12.3: Haushaltsbegleitantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Änderung der Maßnahmenliste: Umsetzung Königsallee Ostseite inklusive leistungsfähiger Radverkehrsanlage - mehrheitlich beschlossen
+- TOP 12.4: Haushaltsantrag der SPD/Volt-Ratsfraktion: Anpassung der Aufwendungen für Brücken, Tunnel und sonstige Ingenieurbauwerke - mehrheitlich abgelehnt
+- TOP 12.5: Haushaltsantrag der SPD/Volt-Ratsfraktion: Kauf von zwei Silhouettenblitzern (Enforcement-Trailer) für die Theodor-Heuss-Brücke - mehrheitlich abgelehnt
+- TOP 12.6: Haushaltbegleitantrag der SPD/Volt-Ratsfraktion: Fortführung des Mobilitätsplan D als integraler Bestandteil der Verkehrswende - mehrheitlich abgelehnt
+- TOP 12.7: Haushaltsantrag der Ratsfraktion Die LINKE: Rücknahme der Kürzungen bei der Unterhaltung von Radwegen - mehrheitlich abgelehnt
+- TOP 12.8: Haushaltsantrag der Ratsfraktion Die LINKE: Forcierter Ausbau der Radleitroute - mehrheitlich abgelehnt
+- TOP 13: Haushaltsplanentwurf des Ordnungsamtes für das Jahr 2026 - Empfehlung mehrheitlich beschlossen
+- TOP 14: Haushaltsplanentwurf des Amtes für Brücken-, Tunnel- und Stadtbahnbau für das Jahr 2026 - Empfehlung mehrheitlich beschlossen
+- TOP 15: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für das Jahr 2026 - Empfehlung mehrheitlich beschlossen
+- TOP 16: Jahresbericht der Verkehrsüberwachung für das Jahr 2025 - zur Kenntnis genommen
+- TOP 17: Unfallkommissions- und Markierungsmaßnahme an der Kreuzung Ulmenstraße/Johannstraße/Heinrich-Erhardt-Straße - zur Kenntnis genommen
+- TOP 18: Jährliche Antragsbeschlusskontrolle im Ordnungs- und Verkehrsausschuss - zur Kenntnis genommen
+- TOP 19: Qualitätsbericht Rheinbahn 2024 - vertagt
+- TOP 20: Instandsetzungen Verkehrsflächen für das Jahr 2026 - zur Kenntnis genommen
+- TOP 21: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement - 2. Halbjahr 2025 - zur Kenntnis genommen
