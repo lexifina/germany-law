@@ -1,0 +1,133 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2026-02-25T17:00:00+01:00
+- Ende: 2026-02-25T22:30:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5964
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5964
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Einwohneranfrage gemäß § 43 BezVG – Zugeparkte E-Ladesäulen im Umfeld des Hermannplatzes - schriftlich beantwortet
+- TOP 1.2: Jahn-Denkmal I - beantwortet
+- TOP 1.3: Jahn-Denkmal II - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde - Vorkaufsrecht wirkt: Neukölln schützt seine Kieze - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 2305/XXI - Kein Platz für Antisemitismus und Israelhass in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Option auf veganes Schulessen - in der BVV abgelehnt
+- TOP 5.2: Geschäftsordnung der BVV - überwiesen
+- TOP 5.3: Zebrastreifen Gerlinger Straße - überwiesen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Nein zum Volksbegehren „Berlin autofrei“! - in der BVV abgelehnt
+- TOP 6.2: Kein Platz für Antisemitismus und Israelhass in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Veränderungssperre 8-114/39 für das Grundstück Lipschitzallee 20/22 im Bezirk Neukölln, Ortsteil Gropiusstadt im Geltungsbereich des Bebauungsplanentwurfes 8-114 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Zielvereinbarung zur Optimierung der Zusammenarbeit im Amtlichen Vermessungswesen und zur Qualitätssicherung von Kernprozessen des Amtlichen Vermessungswesens für das Jahr 2026 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Fortführung der Umsetzung der Zielvereinbarung zur gesamtstädtischen Steuerung der Familienservicebüros - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Zielvereinbarung für die Standesämter 2026/2027 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: Fortschreibung der Zielvereinbarung für die Bürgerämter 2026/2027 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bezirkliche Kitaentwicklungsplanung (Jahresplanung 2025) - überwiesen
+- TOP 8.2: Anmeldung der beiden neuen Quartiersmanagement-Gebieten Britz Nord und Britz Süd für eine Förderung aus dem Programm Sozialer Zusammenhalt ab dem 01.01.2028. Fortführung der bestehenden Quartiersmanagement-Gebieten Harzer Straße, Gropiusstadt-Nord, Ergänzungsraum Sozialer Zusammenhalt Gropiusstadt und Glasower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Abberufung von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - gewählt
+- TOP 9.2: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 9.3: Zusammensetzung des Neuköllner Bündnisses zur Partnerschaft für Demokratie - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Islamisches Kinderfasten an Neuköllner Grundschulen - beantwortet
+- TOP 10.2: Brachflächen und Leerstand an der Hermannstraße Ecke Kienitzer Straße - beantwortet
+- TOP 10.3: Wie geht es weiter mit dem Gedenkort ehem. Frauenklinik Mariendorfer Weg? - beantwortet
+- TOP 10.4: Werkschule Löwenherz: Wie weiter nach den Sommerferien? - beantwortet
+- TOP 10.5: Investitionsplanung und Mittelbereitstellung zur Sanierung der Schule am Bienwaldring - beantwortet
+- TOP 10.6: Making of... Wahlkampf in Schulen - und nun? - beantwortet
+- TOP 10.7: Notfallregister.eu - beantwortet
+- TOP 10.8: Wann wird der sog. "Hererostein" vom Garnisionsfriedhof Columbiadamm entfernt? - beantwortet
+- TOP 10.9: Bundesregierung torpediert Integration - beantwortet
+- TOP 10.10: Frost-Gefahren im Winter-Poller-Land - beantwortet
+- TOP 10.11: Baustelle Neuköllner Str./Bildhauerweg - schriftlich beantwortet
+- TOP 10.12: Rutschgefahr vor bezirklichen Grundstücken - und nun? - schriftlich beantwortet
+- TOP 10.13: Schließung des Bürgeramtsstandortes Sonnenallee - schriftlich beantwortet
+- TOP 10.14: Benachrichtigung von Haushalten in Neukölln, die noch in Häusern mit Blei-Leitungen leben - schriftlich beantwortet
+- TOP 10.15: Notstromaggregate für Krisensituationen - schriftlich beantwortet
+- TOP 10.16: Einhaltung der Beantwortungsfristen bei Kleinen Anfragen in der BVV Neukölln - schriftlich beantwortet
+- TOP 10.17: Kürzt das Bezirksamt zugesagte Mittel ausgerechnet in der Mädchenarbeit? - schriftlich beantwortet
+- TOP 10.18: Wie teuer wird die Kündigung der Tagesreinigung an Schulen? - schriftlich beantwortet
+- TOP 10.19: Ignoriert das Bezirksamt notwendige Prioritäten für die Unterstützung für Mädchen und junge Frauen? - schriftlich beantwortet
+- TOP 10.20: Rechtskreiswechsel für ukrainische Geflüchtete: Verwaltungsdesaster und Integrationsbremse? - schriftlich beantwortet
+- TOP 10.21: „Demokratie leben?“ - schriftlich beantwortet
+- TOP 10.22: Wann kommen die Gelder für die Schule am Bienwaldring? - schriftlich beantwortet
+- TOP 10.23: Transparenz zur Investitionsplanung im Bildungsbereich? - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Verbesserung der Verkehrsführung an der Thielenbrücke / Kreuzung Pannierstraße / Maybachufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Nachhaltigkeitsprojekt Hugo-Heimann-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Querungshilfe vor der Heinrich-Mann-Schule in der Gerlinger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Hinweisschilder aktualisieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Taten statt Phrasen - Gesundheitszentrum Gropiusstadt erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Streichung der Gelder des Jugendgewalt-Gipfels für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Modellprojekt zum „Gesetz zum Umgang mit Konsumcannabis (KCanG)“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.4: UFO in aktueller Form beibehalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Funktionierendes Berlin: Ämter für Soziales vor dem Kollaps retten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Verlängerung der Veränderungssperre XIV-263a/38 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Geschenktes Haus - Katholische Kirche muss Gemeinwohl beachten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Keine Konsequenzen aus den Falschbehauptungen der Integrationsbeauftragten? - beantwortet
+- TOP 13.2: Neukölln im Katastrophen- und Krisenschutz - beantwortet
+- TOP 13.3: Maßstäbe des Bezirksamts Neukölln im Umgang mit islamistischen und antisemitischen Inhalten durch Bedienstete und Mitglieder des Bezirksamts - beantwortet
+- TOP 13.4: Abenteuerspielplatz Wildhüterweg - beantwortet
+- TOP 13.5: Wie will Neukölln die Mittel aus dem Sondervermögen für Infrastruktur und Klimaneutralität nutzen? - beantwortet
+- TOP 13.6: Photovoltaik auf bezirklichen Liegenschaften – Wirtschaftlichkeit und Verwaltungspraxis - beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Barrierearm zur Ladenzeile Britz-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Zebrastreifen in der Werbellinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Zebrastreifen in der Flughafenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Erweiterte Öffnungszeiten im Stadtteilzentrum Köllnische Heide „mittendrin“ im Rahmen des Programms „Kühle Räume“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Radweg sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Emmaus-Wald bleibt - Brachfläche endlich bebauen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Runder Tisch Müllproblem im Körnerkiez - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Neuköllner in Neuköllner Erde - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Würdevolle letzte Ruhe - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Wetzlar-Schulweg schützen: Klare Hinweise, weniger Tempo - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Absolutes Halteverbot - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Gedenken an die im Dienst verstorbenen Feuerwehrleute Klaus-Dieter Riedel und Frank Evers - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Verbesserung der Verkehrssicherheit auf der Waßmannsdorfer Chaussee! - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: 50 Jahre demokratische arabische Republik Sahara: Flagge hissen am 27.02.2026 - in der BVV abgelehnt
+- TOP 14.15: Zeitweise Aufhebung der Fahrradstraße Weserstraße in den Wintermonaten - in der BVV abgelehnt
+- TOP 14.16: Die Investitionsplanung im Bildungsbereich transparent machen - vertagt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Schule am Bienwaldring - Symptom für ein größeres Problem? - vertagt
+- TOP 15.2: Investitionen an Neuköllner Schulen 2026 - schriftlich beantwortet
+- TOP 15.3: Ausverkauf am Herrfurthplatz? - vertagt
+- TOP 15.4: Gute Arbeit für Langzeiterwerbslose statt Arbeitszwang für Asylbewerbende - vertagt
+- TOP 15.5: Die unendliche Geschichte- Straßenbaustellen in Neukölln - vertagt
+- TOP 15.6: Wie weiter mit dem maroden Grundstufengebäude der Fritz-Karsen-Schule? - schriftlich beantwortet
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Defibrillatoren können Leben retten (2) - überwiesen
+- TOP 17.2: Öffentlichkeitsarbeit in der Jugendarbeit mit Schwerpunkt Social Media strukturell verankern - überwiesen
+- TOP 17.3: Umbenennung der Jahn-Sporthalle in Rosl-Persson-Sporthalle - überwiesen
+- TOP 17.4: BVV beschließt über Sondervermögen für Infrastruktur und Klimaneutralität - überwiesen
+- TOP 17.5: Winterdienst anpassen - überwiesen
+- TOP 17.6: Verbesserung der Verkehrssicherheit und Ordnung im Neudecker Weg - überwiesen
+- TOP 17.7: Krisen- und Katastrophenschutzinformationen mit Kindern- und Jugendlichen teilen - überwiesen
+- TOP 17.8: Flexible Betreuung für Alleinerziehende auch in Neukölln - überwiesen
+- TOP 17.9: Dialogdisplays wieder in den Dialog zurückholen - überwiesen
+- TOP 17.10: Licht fürs Ordnungsamt - überwiesen
+- TOP 17.11: Nebelduschen für Neuköllns heiße Plätze - überwiesen
+- TOP 17.12: Barrierefrei: Gehweg Reinholdstraße für Fußgänger - überwiesen
+- TOP 17.13: Mängellisten veröffentlichen - überwiesen
+- TOP 17.14: Kulturentwicklungsplan für Neukölln erstellen - überwiesen
+- TOP 17.15: „Britzer Mühle“ – Zusatzinformation für Bushaltestelle „Dachdeckerweg“ - überwiesen
+- TOP 17.16: Freies Internet im Rathaus Neukölln - überwiesen
+- TOP 17.17: Silvester ab jetzt friedlich feiern: Neukölln böllerfrei! - überwiesen
+- TOP 17.18: Kampagne des Ordnungsamts entwickeln - Anlieger öffentlich über Pflichten zur Straßenreinhaltung und Sicherung der Gehwege (Winterdienst) informieren - überwiesen
+- TOP 17.19: Wildenbruchstraße sicherer umgestalten - überwiesen
