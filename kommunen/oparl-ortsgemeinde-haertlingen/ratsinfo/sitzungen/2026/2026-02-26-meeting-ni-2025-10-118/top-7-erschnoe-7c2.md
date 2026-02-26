@@ -1,0 +1,6 @@
+# TOP 7: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Härtlingen (2026-02-26)
+- Körperschaft: Ortsgemeinde Härtlingen
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2025-10-118%7CVerschNoe%7C2
