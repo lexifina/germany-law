@@ -1,14 +1,14 @@
-# WMS Bebauungspläne Frankfurt am Main - Geltungsbereiche
+# WMS Bebauungspläne Frankfurt am Main (rechtsverbindlich) - Flächennutzung
 
 - Herausgeber: Stadt Frankfurt am Main - Stadtplanungsamt
 - Datum: 2026-02-26 (Katalogangabe issued/modified)
-- Kennung: https://geodatenkatalog.frankfurt.de/geonetwork/srv/ger/catalog.search#/metadata/b0da554a-8b4c-49d5-a56f-2f5215b1bbf2
+- Kennung: https://geodatenkatalog.frankfurt.de/geonetwork/srv/ger/catalog.search#/metadata/5667d4d9-47cb-4723-9c09-16154bccdf0e
 - Lizenz: -
-- Katalog: https://www.govdata.de/suche/daten/wms-bebauungsplane-frankfurt-am-main-geltungsbereiche
-- Quelle: GovData (CKAN-API), Datensatz 3ac70e8e-21b3-4198-8da9-bc9d2bfc3169
-- Ressource: Metadaten (ISO 19139) https://geodatenkatalog.frankfurt.de/geonetwork/srv/api/records/b0da554a-8b4c-49d5-a56f-2f5215b1bbf2/formatters/xml http://publications.europa.eu/resource/authority/file-type/GML
-- Ressource:  https://planas.frankfurt.de/wms/bebauungsplaene_geltungsbereiche?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Katalog: https://www.govdata.de/suche/daten/wms-bebauungsplane-frankfurt-am-main-rechtsverbindlich-flachennutzung
+- Quelle: GovData (CKAN-API), Datensatz 070279e8-fafd-45d9-a9ef-7722a42b0b78
+- Ressource: Metadaten (ISO 19139) https://geodatenkatalog.frankfurt.de/geonetwork/srv/api/records/5667d4d9-47cb-4723-9c09-16154bccdf0e/formatters/xml http://publications.europa.eu/resource/authority/file-type/GML
+- Ressource:  https://planas.frankfurt.de/wms/bebauungsplaene_rv_flaechennutzung?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
 
 ---
 
-Aktuelle Geltungsbereiche der rechtsverbindlichen und im Verfahren befindlichen Bebauungspläne der Stadt Frankfurt am Main.
+Dargestellt werden im Bebauungsplan festgesetzte Baugebietstypen nach § 1 (2) Baunutzungsverordnung (BauNVO) und sonstige Flächennutzungen.
