@@ -1,0 +1,75 @@
+# 49. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-02-26T17:00:00+01:00
+- Ende: 2026-02-26T22:00:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6156
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6156
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=445518
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Unterstützung des Familienplanungszentrums Balance aus Mitteln der Mehrbedarfe Flucht - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Abberufungen von Mitgliedern aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Abberufungen von Mitgliedern aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Änderung des Flächennutzungsplans (FNP) für die Trabrennbahn Karlshorst anpassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Kiezparkhäuser für lebenswerte und verkehrssichere Kieze in Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Straßenzustand im Römerweg verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Tempo-30-Zone in der Robert-Siewert-Straße konsequent durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Die Pablo-Picasso-Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Parkplätze an Verwaltungsstandorten effizient nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Tempo 30 an FGÜ in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Fertigstellung der Rahmenpläne Karlshorst-Ost und Karlshorst-Nordwest - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Die Miete erhöht sich, der Bezirk wappnet sich: Mieter*innen in Lichtenberg zur Seite stehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Wohnraum in der Wartenburg in Lichtenberg erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Kein Platz? – Wir schaffen Raum für Jugendliche in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Bewegter BSR-Kieztag - überwiesen
+- TOP 5.17: Trinkbrunnen im Rheinsteinpark (DS/1299/IX) - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Verkehrsberuhigung in der Elsastraße am Obersee - überwiesen
+- TOP 5.19: Abwahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Robuste Trennung von Radverkehrsanlagen bei wiederholten Beschädigungen sicherstellen - überwiesen
+- TOP 5.21: Sperrfläche einrichten vor der Gensinger Straße 62 - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Eine Sitzbank für das Landschaftsschutzgebiet Wartenberger und Falkenberger Feldmark - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Agnes-Kraus-Weg sicher überqueren - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Hilfe zur Selbsthilfe: Eine Küche für Menschen mit ME/CFS - überwiesen
+- TOP 5.25: Ein Zuhause für Vögel in ganz Lichtenberg - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitgliedes des Bezirksamtes - erledigt
+- TOP 8.2: Wahl eines Mitgliedes im Vorstand der BVV - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - gegenstandslos
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Investitionen anschieben - überwiesen
+- TOP 10.2: Aenne-Saefkow-Park - überwiesen
+- TOP 10.3: Bauturbo in Lichtenberg umsetzen - überwiesen
+- TOP 10.4: Einwohnerbefragung zu Windenergieanlagen in Lichtenberger Landschaftsschutzgebieten - in der BVV abgelehnt
+- TOP 10.5: Interessenausgleich im Bebauungsplanverfahren 11-187 VE Nördlich Landsberger Allee / Treffurter Straße - überwiesen
+- TOP 10.6: Ein neuer Nachbarschaftstreff - für mehr Gemeinsamkeit statt Einsamkeit in Lichtenberg - überwiesen
+- TOP 11: Große Anfragen - gegenstandslos
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 13.1: Demokraten gewinnen - Schüler bei der Ausübung ihrer Grundrechte unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge zur Beschlussfassung - erledigt
+- TOP 14.1: Wohin im Katastrophenfall? - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Zweite Stelle im Katastrophenschutz in Lichtenberg konsequent nutzen - überwiesen
+- TOP 14.3: Vorhandene Solaranlagen auf Schulen und Sporthallen für Katastrophenschutz nutzen - überwiesen
+- TOP 14.4: Würdigung iranischer Frauen im Einsatz für Freiheit und Menschenrechte zum Weltfrauentag 2026 - überwiesen
+- TOP 14.5: Junge Bäume in der Salzmannstraße vor Fällung retten - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Winterdienst aus einer Hand! Glatteischaos auf Gehwegen beenden! - überwiesen
+- TOP 14.7: Versetzung bzw. zusätzlicher Fußgängerüberweg an der Dorfstraße in Falkenberg (nahe "Tierheim Berlin/Dorfstraße") - überwiesen
+- TOP 14.8: Schulneubauten von Anfang an verkehrssicher gestalten - in der BVV abgelehnt
+- TOP 15: VzK/Aufhebungsanträge - (offen)
+- TOP 15.1: Sofortige Sicherung der Landesmittel für Sport- und Grünflächen an der Rummelsburger Bucht - überwiesen
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
