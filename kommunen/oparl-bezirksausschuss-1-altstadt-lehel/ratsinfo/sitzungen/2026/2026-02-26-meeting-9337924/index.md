@@ -1,0 +1,133 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-02-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9337924
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9337924
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Bericht Ortstermin Neues Rathaus Marienplatz 8: Sanierung/Baustelleneinrichtung Laden 40-44 (Ecke Weinstr./Marienplatz)
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag des BA1: sofortige Nachpflanzung des gefällten Gefahrenbaums am Radspielerbrunnen im Frühjahr 2026
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Neuhauser Str. 8 Änderung der Zufahrtssituation der genehmigten Tiefgarage von einem Autoaufzug auf zwei Autoaufzüge zur schnelleren Beschickung der Tiefgarage; Frist: 02.03.2026
+- TOP 3.1.2.: Hackenstr. 4 Umbau und Nutzungsänderung einer Einzelhandelsfläche zu Gastronomie (49,56m² Gastfläche, 24 Innen- und 8 Außengastplätze); Frist: 17.03.2026
+- TOP 3.1.3.: Altheimer Eck 7 Sanierung eines Wohngebäudes mit Gastronomienutzung, Dachausbau des Vordergebäudes (VGB), Aufstockung des Rückgebäudes (RGB) sowie Überdachung des Hofes; Frist: 17.03.2026
+- TOP 3.1.4.: Fürstenfelderstr. 1 Abbruch und Erweiterung eines Büro-, Geschäfts- und Wohngebäudes mit Tiefgarage (Fürstenfelder Str. 1-3 / Kaufingerstr. 11a-13) - ÄNDERUNGSANTRAG zu 1.1-2024-13940-21; Frist: 17.03.2026
+- TOP 3.1.5.: Blumenstr. 4 Änderung der Außenbestuhlung und Erweiterung des Wirtsgartens; Frist: 17.03.2026
+- TOP 3.1.6.: Tal 22 Sanierung und Aus-und Umbau (v.a. Abbruch und Ersetzung Dachstuhl Mitte, Einbau Aufzug, Umbau Eingangsbereich, Errichtung Notleiteranlage) nebst Nutzungsänderung (Wohnen in Gewerbe / Büro in OG 2) und Einbau einer neuen WE im OG 5; Frist: 17.03.2026
+- TOP 3.1.7.: Ländstr. 6 Nutzungsänderung und Umbau eines Wohnheims für Bedienstete der Deutschen Bundespost in ein Boardinghaus; Frist: 17.03.2026
+- TOP 3.1.8.: Prinzregentenstr. 11 Revitalisierung Bürogebäude mit erdgeschossiger Garage; Frist: 17.03.2026
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Fällungsantrag, St.-Anna-Pl. 5; Frist: 13.03.2026
+- TOP 3.2.2.: Fällungsantrag, Oettingenstr. 16; Frist: 24.03.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Zebrastreifen Frauenstraße
+- TOP 1.2.: Antrag FW/FDP Fraktion: Zebrastreifen auf der Höhe von Viktualienmarkt 8
+- TOP 1.3.: Antrag FW/FDP Fraktion: Ausnahmeregelung: Zufahrt Hotel und Grundschule St. Anna
+- TOP 1.4.: Antrag SPD Fraktion: Fahrrad Nord-Süd- Querung der Altstadt über das Rosental wieder ermöglichen
+- TOP 1.5.: Bürger*innenanliegen: Ampelschaltung Fußgängerampel am Isartor
+- TOP 1.6.: Ortstermin Thalkirchnerstr./ Müllerstraße aus 01/2026 C0.2: Antrag des BA2
+- TOP 1.7.: Antrag des BA1: gleichzeitiger Winterdienst für Straßen, Rad- und Fußwege
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) „Rotlichtblitzer“ Prinzregenten-/Wagmüllerstraße
+- TOP 2.2.: (E) Einrichtung eines Fußgängerüberwegs auf der Emil-Riedel-Straße und der Widemayerstraße
+- TOP 2.3.: (E) Sammelbeschluss offene Bezirksausschussangelegenheiten des 01. Stadtbezirkes Altstadt-Lehel
+- TOP 2.4.: (E) „Blitzer“ in der Oettingen- & Sternstraße
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Maximilianstraße 11 - zwei zusätzliche Behindertenstellplätze im Bereich Nationaltheater, Residenztheater; Frist:10.03.2026
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: PERSPEKTIVE MÜNCHEN Fortschreibung des Innenstadtkonzeptes als integriertes Handlungsraumkonzept Münchner Innenstadt, Sitzungsvorlage Nr. 20-26 / V 15626 (Termin: 27.02.2026)
+- TOP 3.2.2.: Erinnerungsverfahren Pilotystraße; Frist: 05.03.2026
+- TOP 3.2.3.: Erinnerungsverfahren Fahrbahnsanierung Karl-Scharnagl-Ring; Frist: 05.03.2026
+- TOP 3.2.4.: Erinnerungsverfahren Fahrbahnsanierung Prinzregentenstraße (1.Teil); Frist: 05.03.2026
+- TOP 3.2.5.: Erinnerungsverfahren Fahrbahnsanierung Seitzstraße; Frist: 05.03.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 0.1.: Bericht Ortstermin Neues Rathaus Marienplatz 8: Sanierung/Baustelleneinrichtung Laden 40-44 (Ecke Weinstr./Marienplatz)
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Achternbusch" Szenische Wirtshauslesung "Achternbusch" vom 24. - 26.03.2026 3.500,00 Euro, Az.: 0262.100-1-0041
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. "We won&#039;t shut up" We Won’t Shut Up! vom 01.03 - 30.03.2026 1.149,99€; Az. 0262.100-1-0442
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "Integrated" Integrated -Festival für visuelle Kunst und Live-Musik vom 13. -17.03.2026 4.400,00€; Az. 0262.100-1-0443
+- TOP 2.1.4.: (E) Stadtbezirksbudget Init. "Ausstellung: Stromzähler" Stromzähler #13 - Another Sphere vom 17.03. -25.04.2026 4.990,00€; Az. 0262.100-1-0435
+- TOP 2.1.5.: (E) Stadtbezirksbudget Förderverein Freiwillige Feuerwehr München Abteilung Stadtmitte e.V. Realistische Aus- und Fortbildung -Anschaffung einer Nebelmaschine vom 10.03. -30.06.2026 3.036,00€; Az. 0262.100-1-0445
+- TOP 2.1.6.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. in eigenen Worte - die Weiße Rose und junge Poesie vom 03.02. -31.08.2026 2.000,00€; Az. 0262.100-1-0446
+- TOP 2.1.7.: (E) Stadtbezirksbudget Init. "33 RPM" 33 RPM vom 16.04. -10.12.2026 2.980,00€; Az. 0262.100-1-0449
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: (E) Kulturstrand am Vater-Rhein- und Wittelsbacherbrunnen
+- TOP 2.3.2.: Kunst im öffentlichen Raum-Projekt Isar-Balkonnischen zwischen Maximiliansbrücke und Luitpoldbrücke
+- TOP 3: Anhörungen
+- TOP 3.1.: WeinMünchenFrüh 2026 vom 20.-22.03.2026 (Termin: 02.03.2026)
+- TOP 3.2.: Italienischer Markt vom 28.03.- 06.04.2026 (Termin: 28.02.2026)
+- TOP 3.3.: Parade zum St.Patricks-Day (Start: Feilitzschstraße) am 15.03.2026 und Veranstaltung auf dem Odeonsplatz am 14./15.03.2026 (Termin: 03.03.2026)
+- TOP 3.4.: Benefizlauf Giro di Monaco mit Straßenfest Altstadtring, Blumenstraße am 17.05.2026 (Termin: 23.03.2026)
+- TOP 3.5.: InfoVA am Karlsplatz am 18.03.2026 gem. §29 der StVO (Termin: 03.03.2026)
+- TOP 3.6.: Karfreitagsprozession Kreuzweg der Völker St. Michael bis Marienplatz am 03.04.2026 (Termin: 06.03.2026)
+- TOP 3.7.: Gedenkveranstaltung am Platz der Opfer des Nationalsozialismus am 13.03.2026 (Termin: 27.02.2026)
+- TOP 3.8.: Kirchenzug zum Gärtnerjahrtag am 04.08.2026 (Termin: 15.04.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Kassenbericht 2025
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Unterrichtung - Wohnraum: Mariannenstr. 5, 2. OG Mitte und 4. OG Rechts
+- TOP B 4.4.: (U) Begrünung Fußgängerzone Gesamtkonzept Ergebnis der vertieften Untersuchung Durchgehendes taktiles Leitsystem Pilotversuch „Unterflurabfallbehälter in der Sendlinger Straße“ im 1. Stadtbezirk Altstadt - Lehel
+- TOP B 4.5.: (U) Valentin-Karlstadt-Musäum im Isartor, Tal 50 1. Stadtbezirk Altstadt - Lehel Vorstellung der Ergebnisse zur Verbesserung der Barrierefreiheit 1. Bericht über die Ergebnisse des moderierten Dialogverfahrens 2. Konzepterstellung für das Valentin-Karlstadt-Musäum
+- TOP B 4.6.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP B 4.7.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP B 4.8.: Gewerbeflächenentwicklungsprogramm
+- TOP B 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.10.: Stellungnahme zum Fällungsantrag Praterinsel 2
+- TOP B 4.11.: Eilentscheidung Geplante Baumfällungen/Ersatzpflanzungen der SWM für ein Fernwärmeprojekt in der Pilotystraße
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Aufzug S-Bahn Isartor
+- TOP C 4.3.: Satzung über die Benennung der öffentlichen Verkehrsflächen und die Nummerierung der Gebäude und Grundstücke in der Landeshauptstadt München (Straßennamen- und Hausnummernsatzung)
+- TOP C 4.4.: Mitteilungen Mobilfunkstandorte
+- TOP C 4.5.: Errichtung von Kinderspielgeräten/ Kneippbecken am Viktualienmarkt BV-Empfehlung Nr. 20-26 / E 02766 der Bürgerversammlung des Stadtbezirkes 01 – Altstadt-Lehel vom 21.05.2025, Antwortschreiben Märkte München
+- TOP C 4.6.: Baustelle Stachus - Prüfung der Ampelschaltung, TOP 2025.08 A 3, Antwortschreiben Mobilitätsreferat
+- TOP C 4.7.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Firma: AWR Abbruch GmbH, Standort: Maximilianstraße 53 bis Sternstraße 8
+- TOP C 4.8.: Bürger*innenanliegen E-Ladestation(en) Paradiesstraße oder Widenmayerstraße, TOP 2025.09 C 1.4, Antwortschreiben Mobilitätsreferat
+- TOP C 4.9.: Rotlichtblitzer“ Prinzregenten-/Wagmüllerstraße Empfehlung Nr: 20-26 / E 02770 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 21.05.2025, Antwortschreiben Mobilitätsreferat
+- TOP C 4.10.: Aufstellung Gehölztröge und mobiles Grün 2026 und darüber hinaus; Schreiben KVR
+- TOP C 4.11.: Antragspaket öffentliche Toiletten und Hygiene in der Altstadt, Empfehlung Nr. 20-26 / E 02733, TOP 2025.10 C 2.6, Antwortschreiben Referat für Arbeit und Wirtschaft
+- TOP C 4.12.: Fahrbahnbelag Maximiliansbrücke und Landtagsberg, TOP 2025.10 C 4.8, Antwortschreiben Baureferat
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Eilentscheidung Anhörung VA öffentlicher Verkehrsgrund (Bez. 1) Einweihung der Fritz-Neuland-Straße am 25.02.2026 – Frist: 13.02.2026
+- TOP D 4.5.: Kunstaktion "Exkursion" Folgestandort am 29.03.2026 (Abbau bis 30.03.2026 10:00 Uhr)
+- TOP D 4.6.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 3.9.: Bäume FGZ Sendlinger Str.: Verschiebung Freischankfläche
