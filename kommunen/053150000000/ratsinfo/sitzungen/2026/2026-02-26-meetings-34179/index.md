@@ -1,0 +1,62 @@
+# 3. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-02-26T15:30:00+01:00
+- Ende: 2026-02-26T17:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/199
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34179
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34179
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 2: Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt - Kenntnis genommen
+- TOP 3: Gleichstellungsrelevante Themen
+- TOP 4: Integration und Vielfalt
+- TOP 4.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 4.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 4.2.1: Bericht der Behindertenbeauftragten der Stadt Köln 01/2026 - Kenntnis genommen
+- TOP 4.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 4.3.1: Freigabe und Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2026 - Kenntnis genommen
+- TOP 4.3.2: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 4.3.3: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - Kenntnis genommen
+- TOP 5: Aktuelle Situation von Geflüchteten in Köln
+- TOP 5.1: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - vertagt
+- TOP 5.2: 46. und 47. Bericht zur Situation Geflüchteter in Köln - vertagt
+- TOP 5.3: I., II. und III. Quartalsbericht der Ombudsstelle für Flüchtlinge in Köln für 2025 - vertagt
+- TOP 6: Arbeit
+- TOP 6.1: Jobcenter Köln
+- TOP 6.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 6.2: Arbeitsmarktförderung
+- TOP 6.2.1: Ergebnisse im Kommunalen Programm für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 7: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 8: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Ausschussempfehlungen an den Rat
+- TOP 9.1: Benennung von (stellvertretenden) Mitgliedern für die Kommunale Gesundheitskonferenz Köln durch den Rat der Stadt Köln - ungeändert empfohlen
+- TOP 10: Ausschussempfehlungen an andere Ausschüsse
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Aktuelle Anfragen und Beantwortungen
+- TOP 11.1.1: Projektstand Smartphone-basiertes Ersthelfer-Alarmierungs-System - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der VOLT-Fraktion zum Projektstand eines Smartphone-basierten Ersthelfer-Alarmierungssystems - Kenntnis genommen
+- TOP 11.1.2: Kosten der Unterkunft 2026: Was ist angemessener Wohnraum in Köln? - vertagt
+- TOP 11.1.3: Empfehlungen der Kommission zur Reform des Sozialstaats - Folgen für Verwaltung und Leistungsberechtigte in Köln - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0278/2026 der SPD-Fraktion betreffend "Empfehlungen der Kommission zur Reform des Sozialstaats - Folgen für Verwaltung und Leistungsberechtigte in Köln" - Kenntnis genommen
+- TOP 11.2: Anfragen und Beantwortungen aus früheren Sitzungen
+- TOP 11.2.1: Weiterentwicklung des Suchthilfekonzeptes durch Abgabe von Substitutionsmedikamenten - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Volt-Fraktion aus der Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren vom 05.02.2026 (AN/0217/2026) betreffend "Weiterentwicklung des Suchthilfekonzeptes" - Kenntnis genommen
+- TOP 11.2.2: Aktuelle Situation der Beleghebammen in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Grünen aus der Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren vom 15.01.2026 (AN/0027/2026) betreffend "Beleghebammen" - Kenntnis genommen
+- TOP 11.3: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 11.4: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 12: Mitteilungen
+- TOP 12.1: Verlängerung des Belegungsrechtsvertrages mit der GAG Immobilien AG (GAG) - Kenntnis genommen
+- TOP 12.2: Umsetzung des Ratsbeschlusses AN/1056/2025 vom 03.07.2025 - Mieten runter! Mietpreisüberhöhung und Mietwucher effektiv bekämpfen und verhindern - vertagt
+- TOP 12.3: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 12.4: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 12.5: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Sache ist erledigt
+- TOP 12.6: Entwicklung der Unterbringungsressourcen für Geflüchtete bei der Stadt Köln bis einschließlich 2027 - vertagt
+- TOP 12.7: Jahresbericht 2024 der Feuerwehr Köln - Kenntnis genommen
+- TOP 12.8: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2025 - vertagt
