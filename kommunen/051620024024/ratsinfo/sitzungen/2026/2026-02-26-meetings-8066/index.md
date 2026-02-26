@@ -1,0 +1,61 @@
+# Mobilitäts- und Infrastrukturausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-02-26T18:20:00+01:00
+- Ende: 2026-02-26T21:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/270
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8066
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8066
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachversand 18.02.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00238961.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Verpflichtung von sachkundigen Bürger*innen
+- TOP 4: Bestellung von Schriftführer*innen für den Mobilitäts- und Infrastrukturausschuss - einstimmig zugestimmt
+- TOP 5: Benennung eines Ausschussmitgliedes und eines/r Stellvertreters/in zur Unterzeichnung der Sitzungsniederschriften des Mobilitäts- und Infrastrukturausschusses - einstimmig zugestimmt
+- TOP 6: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 7: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2024 - einstimmig zugestimmt
+- TOP 8: Wirtschaftsplan 2026 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP 9: Beschluss über die Haushaltsaufstellung des Dezernates 6 für den Bereich Verkehrsangelegenheiten für das Jahr 2025 - einstimmig zugestimmt
+- TOP -: Empfehlungen des Ausschusses unter Beteiligung der Bezirksausschüsse
+- TOP 10: Bahnhofstraße: Umbau eines Fußgängerüberweges auf Höhe des Hauses Bahnhofstraße Nr. 21 - einstimmig zugestimmt
+- TOP 11: Bonner Straße, Bushaltestelle Werresweg, Fahrtrichtung West (stadteinwärts): barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 12: Deckenerneuerungsprogramm 2026 - einstimmig zugestimmt
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO NRW im Bereich Tiefbaumanagement Neuss - einstimmig zugestimmt
+- TOP 14: Lanzerather Straße - Einrichtung einer Querungsmöglichkeit für den Radverkehr - einstimmig zugestimmt
+- TOP 15: Am Röttgen, Gehwegverlängerung - verwiesen
+- TOP 16: Konradstraße, Gagelweg: Umgestaltung nach Erneuerung der Ver- und Entsorgungsleitungen - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 17: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Berichterstattung zum Pilotprojekt NEmo Shuttle - beraten ohne Abstimmung
+- TOP 18: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Berichterstattung zum Umbau Bahnübergang Büdericher Straße - beraten ohne Abstimmung
+- TOP 19: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Berichterstattung zu Mobilstationen - beraten ohne Abstimmung
+- TOP 19.1: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Radabstellanlagen an Haltestellen - beraten ohne Abstimmung
+- TOP 19.2: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Verbesserung der Verkehrssicherheit an Bushaltestellen - mehrheitlich abgelehnt
+- TOP 19.3: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Berichterstattung zum Ergebnis der Befragung Quartiersgarage für Fahrräder - vertagt
+- TOP 19.4: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Investitionsprogramm für das „Hierarchische Radwegenetz“ - mehrheitlich abgelehnt
+- TOP 20: Antrag der AfD-Fraktion betr.: Sperrung eines von zwei Fahrstreifen durch Fahrbahn-Markierungen oder eventuell Einrichtung einer Bustrasse auf einem von 2 Fahrstreifen auf der Zollstraße ab dem "PIZZA-Türmchen" stadteinwärts - zurückgezogen
+- TOP 21: Antrag der SPD-Fraktion betr.: Reduzierung der Ladezonen-Parkplätze im Neusser Stadtgebiet - mehrheitlich zugestimmt
+- TOP -: Mitteilungen der Verwaltung
+- TOP 22: Treppenanlage am Hafenbecken 1 – Sachstandsbericht - zur Kenntnis genommen
+- TOP 23: Baustellenübersicht 2025 - Sachstandsbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 24: Heerdterbuschstraße, Wiesenstraße und Am Hochofen – Anpassung der Ausbaustandards - zur Kenntnis genommen
+- TOP 25: Straßenzustandserfassung - Sachstandsbericht - zur Kenntnis genommen
+- TOP 26: Quartalsbericht des Tiefbaumanagements Neuss zum 30.06.2025 - zur Kenntnis genommen
+- TOP 27: Quartalsbericht des Tiefbaumanagements Neuss zum 30.09.2025 - zur Kenntnis genommen
+- TOP 28: Beschlusscontrolling zum Stichtag 30.09.2025 - zur Kenntnis genommen
+- TOP 29: Sachstand Lichtsignalanlagenkonzept - zur Kenntnis genommen
+- TOP 29.1: Bundesautobahn A 46 - Mitteilung der Autobahn GmbH über einer Vorzugsvariante für den Ersatzneubau der Rheinbrücke Düsseldorf-Flehe - zur Kenntnis genommen
+- TOP 30: Sachstand Mobilitätsentwicklungskonzept (MEK) - zur Kenntnis genommen
+- TOP 31: Bericht der Unfallkommission - zur Kenntnis genommen
+- TOP 32: Geschwindigkeitsbeschränkung auf Hauptverkehrsstraßen - zur Kenntnis genommen
+- TOP 33: Grünpfeil für Radfahrer - Umsetzung von weiteren Standorten an Signalanlagen - zur Kenntnis genommen
+- TOP 33.1: Parkraumbewirtschaftungskonzept Innenstadt; Neuordnung Ladezonen - zur Kenntnis genommen
+- TOP 34: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
