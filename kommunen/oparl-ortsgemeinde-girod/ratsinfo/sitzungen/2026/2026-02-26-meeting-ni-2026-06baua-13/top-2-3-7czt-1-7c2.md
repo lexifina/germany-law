@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Bauausschusses des Ortsgemeinderates der Ortsgemeinde Girod (2026-02-26)
+- Körperschaft: Ortsgemeinde Girod
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2026-06BauA-13%7Czt_1%7C2
