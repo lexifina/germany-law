@@ -1,0 +1,59 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-02-27T14:04:00+01:00
+- Ende: 2026-02-27T16:34:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29602
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29602
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577493.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577493.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577493.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung vom 30.01.2026 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die gemeinsame öffentliche Sitzung der Bezirksvertretung 1 und des Ordnungs- und Verkehrsausschusses am 19.03.2025 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Bericht über die Erfahrungen vom Weihnachtsmarkt 2025 und Ausblick 2026 - zur Kenntnis genommen
+- TOP 4.2: Sachstandsbericht Worringer Platz - vertagt
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Bereitstellung von Mitteln für die Stadtteilkonferenz 2026 - einstimmig beschlossen
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Zustand des denkmalgeschützen Wohngebäudes Poststraße 24 - Anfrage Peter Klein, Vertreter DIE LINKE - zur Kenntnis genommen
+- TOP 5.2: Fußgängersicherheit im Kreuzungsbereich Schirmerstraße / Schinkelstraße / Beuthstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Sperrung Rheinufertunnel – Zufahrt Rheinuferparkhaus / Schrankenregelung - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Baustelle Frankenplatz/Kanonierstraße- Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Stellplatzablöse im Stadtbezirk 1 - Anfrage der SPD-Fraktion
+- TOP 6.4: Ruhende Baustelle Tannenstraße 2-6/Ecke Roßstraße (ehemaliges Gebäude des Forschungszentrums der Zementindustrie) - Anfrage
+- TOP 6.5: Platz vor der Kapelle an der Ulmenstraße 97 - - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.6: Weihnachtsmarkt „Liebe das Leben“ 5.-21.12.2025 Pempelfort unterhalb der Franklinbrücke - Schädigung der Rasenfläche - Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 6.7: Leerstand im Erdgeschoss Wohnhaus Karlstrasse / Ecke Worringer Platz - Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Bereitstellung von Verfügungsmitteln für die Veranstaltung zur Einweihung der Straßenschilder der Else-Gores-Straße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.2: Verbesserung der Querungssituation für Fußgänger*innen an der Einmündung Prinz-Georg-Straße/Benedikt-Schmittmann-Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Ermöglichung des Linksabbiegens von der Schwerinstraße Richtung Nord in die Klever Straße Richtung West - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Einrichtung einer Ladezone für die ansässigen Gewerbetreibenden des Carlsplatzes - Antrag der CDU Fraktion - abweichend beschlossen
+- TOP 7.5: Verkehrskonzept Weihnachtssamstage – Evaluation und Folgerungen für 2026/2027 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.6: Bessere Ausleuchtung des Weges von der Rheinbahnhaltestelle Ergo Platz/Klever Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.7: Nutzung des Gebäudes Akademiestr. 2 - Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Erneuerung der Fahrbahnmarkierung Zebrastreifen Klosterstraße; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/022/2026 - zur Kenntnis genommen
+- TOP 8.2: Kapelle Nordfriedhof/Akustik; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/014/2026 - zur Kenntnis genommen
+- TOP 8.3: Toilettenanlage am Nordfriedhof Eingang Kennedydamm; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/013/2026 - zur Kenntnis genommen
+- TOP 8.4: Sicherung der freien Ausfahrtmöglichkeit von Einsatzfahrzeugen der Feuerwache auf der Münsterstraße; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/023/2026 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Theaterprojekt EVICTED - mehrheitlich beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - GEDOK A46 Gemeinschaft der Künstlerinnen und Kunstfördernden e.V. Düsseldorf - mehrheitlich beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - FÜNFZEHNWOCHEN Golzheim - mehrheitlich beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - KG Düssel-Narren e.V. - einstimmig beschlossen
+- TOP 10: Verschiedenes
