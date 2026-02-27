@@ -1,0 +1,67 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2026-02-27T17:00:00+01:00
+- Ende: 2026-02-27T20:40:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUD74MNZ4z9ZBM-FmdpII1E
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5293
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVTUyckpCh7JkCyrzTPuwSspCqiW2obBCkBMcjJhYqqD/Einladung_Rat_27.02.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQb48ia4weNF8rGYjQ3je-x47QeUBFxXl2Gez9nBTvRI/Oeffentliche_Niederschrift_Rat_27.02.2026.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 12.12.2025 und 07.01.2026
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Anmeldung der BfH-Fraktion: Kostenvergleich eines Neubaus und der Sanierung im Bestand der Geschwister-Scholl-Schule - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Anzeigepflicht von Nebentätigkeiten des ausgeschiedenen Bürgermeisters Tim Kähler nach dem Korruptionsbekämpfungsgesetz für das Jahr 2025
+- TOP A.9: Anzeigepflicht von Nebentätigkeiten der Bürgermeisterin Anke Theisen nach dem Korruptionsbekämpfungsgesetz für das Jahr 2025
+- TOP A.10: Prüfung und Bestätigung des Gesamtabschlusses 2021 der Hansestadt Herford hier: Einbringung des Gesamtabschlusses 2021 in den Rat
+- TOP A.11: Prüfung und Bestätigung des Gesamtabschlusses 2022 der Hansestadt Herford hier: Einbringung des Gesamtabschlusses 2022 in den Rat
+- TOP A.12: Prüfung und Feststellung des Jahresabschlusses 2024, Ergebnisverwendung und Entlastung der Bürgermeisterin/ des Bürgermeisters hier: Einbringung des Jahresabschlusses 2024 in den Rat
+- TOP A.13: Altschuldenentlastungsgesetz NRW Festsetzung des Umfangs der Übernahme von übermäßigen Verbindlichkeiten zur Liquiditätssicherung nach § 6 Absatz 3 des Altschuldenentlastungsgesetzes Nordrhein-Westfalen (ASEG NRW) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Steuerung von Drittorganisationen:
+- TOP A.14a: Öffentlicher Personennahverkehr im Stadtgebiet Herford: Tarifreform des WestfalenTarifes
+- TOP A.14a)1: Öffentlicher Personennahverkehr im Stadtgebiet Herford: Tarifreform des WestfalenTarifes - Mit 41 Stimmen dafür, sechs Stimmen dagegen und ohne Enthaltung wird folgender Änderungsbeschluss gefasst:
+- TOP A.14b: Stellungnahme der SVH Stadtverkehr Herford GmbH zum kostenlosen ÖPNV an Samstagen im Herforder Stadtgebiet
+- TOP A.14c: Beteiligungsbericht 2024/2025
+- TOP A.14d: Eigenkapitalstärkung der Stadtentwicklungsgesellschaft Hansestadt Herford mbH (SEH) um 250.000 € - Mit 38 Stimmen dafür, sechs Stimmen dagegen und drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.14e: Aufsichtsräte im Konzern Hansestadt Herford: Vergütungen - Mit 45 Stimmen dafür, einer Stimme dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Genehmigung von außerplanmäßigen Auszahlungen für das Haushaltsjahr 2026 im Produkt 016 001 001 Allgemeine Finanzwirtschaft - Einstimmig und mit drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.16: Jugendhilfeplanung und Kindertagesbetreuung: Kindertagesbetreuungsbedarfsplanung 2026/27 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Umsetzung der Ergebnisse der Organisationsuntersuchung hier: Sicherstellung der notwendigen personellen Leitungskapazität - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Nominierung für den Westfalen Weser Kulturpreis - Mit 23 Stimmen für das Kuratorium, 22 Stimmen für das Kulturwerk und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.18a: Antrag der SPD-Fraktion: Nominierung des Kuratoriums Erinnern Forschen Gedenken e. V. für den WWE - Kulturpreis
+- TOP A.19: Änderung der Sportförderrichtlinien - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Neugestaltung des Bikeparks hier: Neubau der Skate-Anlage als Element im Bikepark - Mit 39 Stimmen dafür, sechs Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Kindertagesbetreuung: Änderung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung) in der Fassung der 8. Änderungssatzung vom 01.04.2022 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Durchführung von verkaufsoffenen Sonntagen am 19.04.2026, 19.07.2026 und 11.10.2026 - Mit 37 Stimmen dafür, fünf Stimmen dagegen und mit vier Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.23: Flächennutzungsplanneuaufstellung Hier: Feststellungsbeschluss
+- TOP A.24: Gremienbesetzungen
+- TOP A.24a: Wahl der entsendungsberechtigten Mitglieder in die nach § 7 der Satzung festgelegten Ausschüsse/ Gremien - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24b: Wahl der entsendungsberechtigten Mitglieder des Ausschusses für Chancengerechtigkeit und Integration in städtischen Ausschüsse/Gremien. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24c: Teilnahme von Mitgliedern des Ausschusses für Chancengerechtigkeit und Integration an Sitzungen der städtischen Ausschüsse/ Gremien hier: Erweiterung des Verkehrsausschusses - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24d: Antrag der FDP-Fraktion: Umbesetzung im Sportausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24e: Gremienumbesetzung: Antrag auf Umbesetzung im Beirat für Menschen mit Behinderung - Mit 25 Stimmen dafür, einer Stimme dagegen und 19 Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.24f: Antrag der AfD-Fraktion: Antrag zur Verbesserung des Verfahrens zur Ausschussbesetzung
+- TOP A.24g: Antrag auf Gremienumbesetzung der FDP-Fraktion im Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24h: Antrag auf Gremienumbesetzung der UfH-Fraktion - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24i: Antrag auf Gremienumbesetzung der CDU-Fraktion - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24j: Antrag auf Gremienumbesetzung der SPD-Fraktion - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: Antrag der FDP-Fraktion zum Neubau einer KiTa in der Hammersmith-Kaserne sowie zur KiTa-Bedarfsplanung
+- TOP A.26: Antrag der BfH-Fraktion: Wahl des Seniorenbeirates - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.27: Antrag der Fraktion Bündnis 90/ Die Grünen: Böllerverbot
+- TOP A.27a: Ergänzungsantrag der SPD-Fraktion zum Böllerverbot
+- TOP A.27b: Gemeinsamer Antrag der Fraktionen Bündnis 90/ Die Grünen und SPD zum Thema Böllerverbot - :
+- TOP A.28: Antrag der FDP-Fraktion: Herford-App - Mit 26 Stimmen dafür, sechs Stimmen dagegen und 14 Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.29: Antrag der Fraktion Bündnis 90/ Die Grünen: Durchführung und Organisation von Veranstaltungen anlässlich des Jahrestages des Grundgesetzes im Rahmen des Ehrentages am 23.05.2026 - Mit 26 Stimmen dafür, 17 Stimmen dagegen und drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.30: Anmeldung der Fraktion Die PARTEI/ UWG HBB: Übersicht über städtische Gebäude, Liegenschaften, Energieverbräuche und Kosten sowie bestehende PV Installationen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.31: Mitteilungen
