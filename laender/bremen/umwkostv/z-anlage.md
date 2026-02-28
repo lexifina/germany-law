@@ -29,7 +29,7 @@ Tarifziffer | Rechtsgebiet
 5 | Naturschutz-/Jagdrecht
 50 | Bundes-Naturschutzgesetz und Bremisches Naturschutzgesetz
 51 | Artenschutz
-52 | Baumschutzverordnung
+52 | Maßnahmen aufgrund des Bundesnaturschutzgesetzes (BNatSchG) und der Verordnung zum Schutz von Bäumen in der Freien Hansestadt Bremen (BremBaumSchV)
 53 | Umweltschadensgesetz
 54 | Jagdwesen, Fischerei, Wildschutz
 55 | Bundeswildschutzverordnung
@@ -43,6 +43,8 @@ Tarifziffer | Rechtsgebiet
 80 | Energiewirtschaftsgesetz
 81 | Bremisches Energiegesetz
 82 | Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme
+83 | Maßnahmen aufgrund des Gebäudeenergiegesetzes (GEG)
+84 | Maßnahmen aufgrund des Bremischen Solargesetzes (BremSolarG)
 9 | Umweltverträglichkeit
 90 | Gesetz über die Umweltverträglichkeitsprüfung
 1 | Abfallrecht |  |  |  | 
@@ -478,20 +480,12 @@ Tarifziffer | Rechtsgebiet
 51.5.2.1 | Erteilung einer Bescheinigung wie unter Tarifziffer 51.5.2 für jedes weitere Exemplar derselben Art desselben Antrags | 8 |  |  | 
 51.6 | Anmerkung zu Tarifziffer 51: |  |  |  | 
  | Für Amtshandlungen, die vorgenommen wurden, bevor ein Antrag zurückgenommen wurde oder sich auf andere Weise erledigt hat, werden keine Gebühren erhoben. |  |  |  | 
-52 | Maßnahmen aufgrund des Bundesnaturschutzgesetzes - BNatSchG und der Baumschutzverordnung |  |  |  | 
-52.1 | Gestattung nach § 6 Baumschutzverordnung |  |  |  | 
- | je Baugrundstück | 138 |  |  | 
-52.2 | Ablehnung einer Gestattung nach § 6 Baumschutzverordnung |  |  |  | 
- | je Baugrundstück | 69 |  |  | 
-52.3 | Befreiung nach § 67 Absatz 1 BNatSchG |  |  |  | 
- | je Grundstück | 94 |  |  | 
-52.4 | Ablehnung einer Befreiung nach § 67 Absatz 1 BNatSchG |  |  |  | 
- | je Grundstück | 47 |  |  | 
- | Anmerkung zu 52.1 und 52.4: |  |  |  | 
- | Erfordert ein Antrag auf Gestattung oder Befreiung einen über das durchschnittliche Maß hinausgehenden Verwaltungsaufwand, wird die Gebühr nach Zeit- und Sachaufwand ermittelt und berechnet. |  |  |  | 
- | Anmerkung zu 52.4: |  |  |  | 
- | Bei Mehrfamilienhäusern und Wohnanlagen gilt als Grundstück die einer Hausnummer zuzurechnende Grundstücksfläche. In Kleingartenbereichen gilt als Grundstück die einem Kleingartenverein zuzurechnende Grundfläche. |  |  |  | 
-52.5 | Anordnung von Maßnahmen nach § 5 Baumschutzverordnung | 138 |  |  | 
+52 | Maßnahmen aufgrund des Bundesnaturschutzgesetzes (BNatSchG) und der Verordnung zum Schutz von Bäumen in der Freien Hansestadt Bremen (BremBaumSchV) |  |  |  | 
+52.1 | Befreiung nach § 6 BremBaumSchV | je Grundstück 119 je Baugrundstück 178 |  |  | 
+52.2 | Ablehnung einer Befreiung nach § 6 BremBaumSchV | je Grundstück 60 je Baugrundstück 79 |  |  | 
+52.3 | Befreiung nach § 67 Absatz 1 BNatSchG | je Grundstück 94 |  |  | 
+52.4 | Ablehnung einer Befreiung nach § 67 Absatz 1 BNatSchG | je Grundstück 47 |  |  | 
+52.5 | Anordnung von Maßnahmen nach § 5 BremBaumSchV | 178 |  |  | 
 53 | Umweltschadensgesetz - USchadG |  |  |  | 
 53.1 | Anordnung zur Durchsetzung von Informations-, Gefahrenabwehr-, Schadensbegrenzungs- oder Sanierungspflichten nach § 7 Absatz 2 USchadG | 30 bis 500 |  |  | 
 54 | Jagdwesen, Fischerei, Wildschutz (Bremisches Fischereigesetz, Brem. Binnenfischereiverordnung, Bundeswildschutzverordnung) |  |  |  | 
@@ -558,10 +552,10 @@ Tarifziffer | Rechtsgebiet
  | - | Aufwand für besondere Verpackung und besondere Beförderung | in Höhe der entstandenen Kosten |  | 
  | Auslagen werden nicht erhoben in den Fällen der Amtshandlungen, für die nach § 7 Absatz 1 Satz 2 Nummer 3 BremUIG Kostenfreiheit besteht. |  |  |  | 
 8 | Klimaschutz- und Energierecht |  |  |  | 
-80 | Maßnahmen aufgrund des Energiewirtschaftsgesetzes - EnWG |  |  |  | 
-80.1 | Genehmigung nach § 4 Absatz 1 | 470 bis 8 670 |  |  | 
-80.2 | Für Amtshandlungen der Landesregulierungsbehörde bei der Wahrnehmung ihrer Aufgaben nach § 54 Absatz 2 werden Gebühren und Auslagen nach der Energiewirtschaftskostenverordnung in der jeweils gültigen Fassung erhoben |  |  |  | 
-80.3 | Entscheidung über Einwände gegen Feststellungen nach § 36 Absatz 2 Satz 2 nach § 36 Absatz 2 Satz 4 | 270 bis 4 230 |  |  | 
+80 | Maßnahmen aufgrund des Energiewirtschaftsgesetzes (EnWG) |  |  |  | 
+80.1 | Genehmigung nach § 4 Absatz 1 | 490 bis 8 900 |  |  | 
+80.2 | Für Amtshandlungen der Landesregulierungsbehörde bei der Wahrnehmung ihrer Aufgaben nach § 54 Absatz 2 werden Gebühren und Auslagen nach der Energiewirtschaftskostenverordnung in der jeweils geltenden Fassung erhoben |  |  |  | 
+80.3 | Entscheidung über Einwände gegen Feststellungen nach § 36 Absatz 2 Satz 2 und 4 | 290 bis 4 420 |  |  | 
 80.4 | Planfeststellungsverfahren für Energieanlagen nach § 43 Absatz 1 oder 2 Satz 1 Nummer 2, 3, 4, 5, 7 oder 8, auch in Verbindung mit Satz 2 oder § 43l Absatz 2 einschließlich Umweltverträglichkeitsprüfung |  |  |  | 
  | bei Herstellungskosten von bis zu 500 000 Euro | 8 800 |  |  | 
  | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 8 800 zuzüglich 0,8 v. H. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
@@ -576,24 +570,42 @@ Tarifziffer | Rechtsgebiet
  | mehr als 2,5 Mio. Euro bis zu 50 Mio. Euro | 16 800 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
  | mehr als 50 Mio Euro bis zu 100 Mio. Euro | 206 800 zuzüglich 0,3 v. H. der 50 Mio. Euro übersteigenden Herstellungskosten |  |  | 
  | mehr als 100 Mio. Euro | 356 800 zuzüglich 0,2 v.H. der 100 Mio. Euro übersteigenden Herstellungskosten |  |  | 
-80.6 | Plangenehmigung von Energieanlagen nach § 74 Absatz 6 des Verwaltungsverfahrensgesetzes in Verbindung mit § 43 Absatz 4 | 50 v.H. der Gebühr nach 80.4 oder 80.5 |  |  | 
+80.6 | Plangenehmigung von Energieanlagen nach § 74 Absatz 6 des Verwaltungsverfahrensgesetzes in Verbindung mit § 43 Absatz 4 EnWG | 50 v.H. der Gebühr nach 80.4 oder 80.5 |  |  | 
  | Anmerkungen zu 80.4 bis 80.6: |  |  |  | 
  | Schließt das Planverfahren andere das Vorhaben betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  |  | 
  | Wird in dem Planverfahren ein Projektmanager nach § 43g Absatz 1 beauftragt, so vermindert sich die Gebühr ohne die Gebühren für die eingeschlossenen Genehmigungen um jeweils 5 Prozent, sofern die Aufgaben nach § 43g Absatz 1 Nummer 1 bis 5 und 7 bis 9 beauftragt werden sowie um 10 Prozent, sofern die Aufgabe nach § 43g Absatz 1 Nummer 10 beauftragt wird. Wird ein Projektmanager mit Aufgaben beauftragt, die nicht in § 43g Absatz 1 aufgeführt sind, wird die Gebühr angemessen vermindert, einschließlich der Verminderungen nach Satz 1 jedoch maximal um 50 Prozent. |  |  |  | 
 80.7 | Verlängerung der Geltungsdauer einer Planfeststellung oder Plangenehmigung nach § 43c Nummer 1 | 25 v.H. der Gebühr nach 80.4 bis 80.6 |  |  | 
 80.8 | Entscheidung über die Freistellung von einem förmlichen Verfahren nach § 43f Absatz 4 Satz 4 | 10 v.H. der Gebühr nach 80.4 |  |  | 
-80.9 | Entscheidung über einen Antrag auf Erlass einer Duldungsanordnung nach § 44 Absatz 2 Satz 2 | 110 bis 1 090 |  |  | 
-80.10 | Entscheidung über einen Antrag auf Festsetzung einer Entschädigung nach § 44 Absatz 3 Satz 2 | 90 bis 1 090 |  |  | 
-80.11 | Entscheidung über einen Antrag auf vorzeitige Besitzeinweisung nach § 44b Absatz 1 oder 1a | 220 bis 1 090 |  |  | 
-80.12 | Aufhebung einer vorzeitigen Besitzeinweisung nach § 44b Absatz 6 Satz 1 | 90 bis 530 |  |  | 
-80.13 | Festsetzung einer Entschädigung nach § 44b Absatz 5 Satz 2 oder Absatz 6 Satz 2 | 90 bis 530 |  |  | 
-80.14 | Feststellung der Zulässigkeit einer Enteignung nach § 45 Absatz 2 Satz 3 | 470 bis 8 230 |  |  | 
-80.15 | Verlangen und Prüfung des Nachweises nach § 49 Absatz 3 Satz 2 | 360 bis 3 120 |  |  | 
-80.16 | Anordnung von Maßnahmen nach § 49 Absatz 5 | 450 bis 3 560 |  |  | 
-81 | Maßnahmen aufgrund des Bremischen Klimaschutz- und Energiegesetzes |  |  |  | 
-81.1 | Befreiungen nach § 15 Absatz 2 Satz 1 | 90 bis 710 |  |  | 
+80.9 | Entscheidung über einen Antrag auf Erlass einer Duldungsanordnung nach § 44 Absatz 2 Satz 2 | 120 bis 1 170 |  |  | 
+80.10 | Entscheidung über einen Antrag auf Festsetzung einer Entschädigung nach § 44 Absatz 3 Satz 2 | 100 bis 1 170 |  |  | 
+80.11 | Entscheidung über einen Antrag auf vorzeitige Besitzeinweisung nach § 44b Absatz 1 oder 1a | 230 bis 1 170 |  |  | 
+80.12 | Aufhebung einer vorzeitigen Besitzeinweisung nach § 44b Absatz 6 Satz 1 | 100 bis 580 |  |  | 
+80.13 | Festsetzung einer Entschädigung nach § 44b Absatz 5 Satz 2 oder Absatz 6 Satz 2 | 100 bis 580 |  |  | 
+80.14 | Feststellung der Zulässigkeit einer Enteignung nach § 45 Absatz 2 Satz 3 | 490 bis 8 420 |  |  | 
+80.15 | Verlangen und Prüfung des Nachweises nach § 49 Absatz 3 Satz 2 | 390 bis 3 390 |  |  | 
+80.16 | Anordnung von Maßnahmen nach § 49 Absatz 5 | 480 bis 3 870 |  |  | 
+81 | Maßnahmen aufgrund des Bremischen Klimaschutz- und Energiegesetzes (BremKEG) |  |  |  | 
+81.1 | Befreiungen nach § 15 Absatz 2 Satz 1 | 100 bis 770 |  |  | 
+81.2 | Verpflichtungsbescheid nach § 16 Absatz 1 | 50 bis 1 320 |  |  | 
+81.2.1 | aus Anlass einer Mitteilung des bevollmächtigten Bezirksschornsteinfegers gemäß § 97 Absatz 3 oder Absatz 4 Gebäudeenergiegesetz | 50 bis 130 |  |  | 
+81.2.2 | aus Anlass einer Mitteilung eines Sachverständigen für energiesparendes Bauen oder eines Sachkundigen gemäß § 3 Absatz 6 Verordnung zur Durchführung des Gebäudeenergiegesetzes | 190 bis 1 320 |  |  | 
 82 | Maßnahmen aufgrund der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme |  |  |  | 
-82.1 | Entscheidung über die Anzeige nach § 17 Absatz 2 | 530 bis 1 340 |  |  | 
+82.1 | Entscheidung über die Anzeige nach § 17 Absatz 2 | 580 bis 1 450 |  |  | 
+83 | Maßnahmen aufgrund des Gebäudeenergiegesetzes (GEG) |  |  |  | 
+83.1 | Befreiungen nach § 102 oder § 103 Absatz 1 | 50 bis 1 610 |  |  | 
+83.2 | Im Falle von Befreiungen nach § 102 Absatz 1 Satz 1 Nummer 2 |  |  |  | 
+83.2.1 | von der Verpflichtung nach § 61 Absatz 1 oder 2 oder von der Verpflichtung nach § 63 Absatz 1 oder 3 | 35 v.H. der Gebühr nach 83.1, mindestens 50 |  |  | 
+83.2.2 | von der Verpflichtung nach § 69 Absatz 1 oder 2 | 50 v.H. der Gebühr nach 83.1, mindestens 50 |  |  | 
+83.2.3 | bei einer nachgewiesenen unbilligen Härte aufgrund besonderer persönlicher Umstände kann von der Gebührenerhebung nach 83.1 abgesehen werden | 50 v.H. der Gebühr nach 83.1, mindestens 50 |  |  | 
+83.3 | Im Falle von Befreiungen nach § 102 Absatz 5 kann von der Gebührenerhebung nach 83.1 abgesehen werden |  |  |  | 
+83.4 | Befreiungen nach § 102 in Verbindung mit § 14 der Verordnung zur Durchführung des Gebäudeenergiegesetzes im Land Bremen |  |  |  | 
+83.4.1 | innerhalb der Frist von zwei Wochen nach § 14 Satz 5 der Verordnung zur Durchführung des Gebäudeenergiegesetzes im Land Bremen | 100 bis 190 |  |  | 
+83.4.2 | bei weitergehender behördlicher Prüfung | Gebühr nach 83.1 |  |  | 
+83.5 | Stichprobe nach § 99, sofern Verstöße gegen die Anforderungen des Gebäudeenergiegesetzes festgestellt werden | 190 bis 3 870 |  |  | 
+84 | Maßnahmen aufgrund des Bremischen Solargesetzes (BremSolarG) |  |  |  | 
+84.1 | Befreiungen, Teilbefreiungen oder zeitweise Befreiungen nach § 6 Absatz 1 | 100 bis 770 |  |  | 
+84.2 | Bei nachgewiesener unzumutbarer Härte kann von der Gebührenerhebung nach 84.1 abgesehen werden |  |  |  | 
+84.3 | Verpflichtungsbescheid nach § 5 | 190 bis 1 320 |  |  | 
 9 | Umweltverträglichkeit |  |  |  | 
 90 | Gesetz über die Umweltverträglichkeitsprüfung - UVPG |  |  |  | 
 90.1 | Planfeststellungsverfahren nach § 65 Absatz 1 für Rohrleitungen nach den Nummern 19.3 bis 19.9 der Anlage 1 zum UVPG |  |  |  | 
