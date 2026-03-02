@@ -1,0 +1,21 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2026, Investitionsprogramm 2025-2029
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2025-0934 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2026-03-02
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZV_-7baUB8kddgUmxL-VWIY
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/2438
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2026, Investitionsprogramm 2025-2029) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYNTrqnbxtURaubVcAIVHSkNiRB0kB5PpNlWPtOWsOIU/Beschlussvorlage_XII-2025-0934_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2026) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb1NdRl6zFUXoMK52epATDg8_qmo2080JfTI2mdUVNxe/Entwurf_Haushalt_2026.pdf
+- Anlage: Beschlussvorlage (Änderungsanträge GVO_10.02.2026.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUzcMU3masKp33KCSJRkssoUl4i-ZpYDK49g9D9fOkJG/Aenderungsantraege_GVO_10.02.2026.pdf.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1911 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1978 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1979 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1981 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1915 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1913 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1917 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1912 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
