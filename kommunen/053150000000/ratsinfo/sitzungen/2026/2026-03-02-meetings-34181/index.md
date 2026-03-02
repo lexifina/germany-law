@@ -1,0 +1,51 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-02T15:05:00+01:00
+- Ende: 2026-03-02T16:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34181
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34181
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - Kenntnis genommen
+- TOP 1.2: Bericht zur Umsetzung des Beschlusses AN/0936/2024 "Politikpraktikum für Mädchen und Frauen" - Kenntnis genommen
+- TOP 1.3: Beantwortung einer mündlichen Anfrage von Dr. Petra Pinger (Bündnis 90/Die Grünen) aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 19.01.2026 - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Nachverdichtung Gymnasien G8 / G9
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: interfraktioneller Dringlichkeitsantrag vom 27.02.2026 betreffend "Darstellung der Umsetzung des Musterraumprogramms am Neubau des Montessori-Gymnasiums" - ungeändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion SPD vom 24.02.2026 betreffend "Sachstand Neubau Helios-Schulcampus nach Vertragsaufhebung Architekturbüro" - vertagt
+- TOP 4.2: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 25.02.2026 betreffend "Konzept zum KLASSE-Projekt" - vertagt
+- TOP 4.3: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 25.02.2026 betreffend "Schüler*innenströme in den Stadtbezirken" - vertagt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion FDP vom 30.04.2025 betreffend "Sachstand Wiederzulassung freier Nutzung von Schulhöfen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 02.03.2026 - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 26.11.2025 betreffend "Sachstand Lotharstraße" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 26.02.2026 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Bildung eines Teilstandortes für das Friedrich-Wilhelm-Gymnasium, Severinstr. 241, 50676 Köln - vertagt
+- TOP 7: Entscheidungen
+- TOP 7.1: Namensgebung Gesamtschule Escher Straße in Ernst-Simons-Gesamtschule - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand SJ 2024/25 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Nachfragen zu TOP 8.1 Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Beantwortung einer Anfrage im Ausschuss Schule und Weiterbildung am 19.01.2026 der Fraktion Bündnis 90/DIE GRÜNEN zu TOP 8.1 "Bildungsmonitoring Inklusionsentwicklung an Kölner Schulen" (AN/0053/2026) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.2: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 8.3: Aufhebung des Beschlusses zum Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit mindestens drei Sportübungseinheiten im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 8.4: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grüne (AN/1447/2025) aus der Sitzung des Jugendhilfeausschusses vom 09.12.2025 betreffend " Umsetzung des OGS-Rechtsanspruches" - Kenntnis genommen
+- TOP 8.5: Beantwortung einer mündlichen Anfrage von Ausschussvorsitzendem Dr. Schlieben aus der Sitzung des Ausschusses Schule und Weiterbildung vom 01.12.2025 bezüglich der energetischen Sanierung an der Pestalozzischule, Sportplatzstraße 82-86, 51147 Köln - Kenntnis genommen
+- TOP 8.6: Sachstandsbericht: Umsetzung von Landesförderprogrammen der Kulturellen Bildung sowie kommunaler Förderungen - Kenntnis genommen
+- TOP 8.7: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Von der Verwaltung abgesetzt
+- TOP 8.8: Bewilligung des Förderantrags „kinderstark – NRW schafft Chancen“ 2026 vom Ministerium für Kinder, Jugend, Familie, Gleichstellung, Flucht und Integration des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 8.9: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.10: Aktueller Stand der Entwicklung der Familiengrundschulzentren in Köln - Kenntnis genommen
+- TOP 8.11: Evaluation "Tag der Jugend im Rathaus 2025" – Schüler*innenpressekonferenz - Kenntnis genommen
+- TOP 8.12: Beantwortung einer mündlichen Nachfrage der SPD-Fraktion aus der Sitzung vom 1. Dezember 2025 bezüglich Terminplanung zum Bau der Heliosschule, Vogelsanger Straße 200, 50825 Köln - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
