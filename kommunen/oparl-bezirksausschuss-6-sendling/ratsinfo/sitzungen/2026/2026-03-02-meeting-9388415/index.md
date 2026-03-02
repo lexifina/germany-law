@@ -1,0 +1,128 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-03-02T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9388415
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9388415
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 02.02.2026
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Sind die Autonomen und Postautonomen ein Teil der politischen Kultur der Stadt München ?
+- TOP 2.2.: Illegale Pyrotechnik München-Süd / Silvester Böller / Lärm Flaucher im Sommer / Vogelmord / U9 / Baumfällungen Implerpark
+- TOP 2.3.: Zur Kenntnis: Antrag auf Ladezone
+- TOP 2.4.: Dringender Protest gegen Baumfällarbeiten in der Brudermühlstr. 46, 81371 München
+- TOP 2.5.: Bushaltestelle HP8 Gasteig
+- TOP 2.6.: Projekt Vereinshalle Skateboard München e.V.
+- TOP 2.7.: Nachfrage bzgl. Antrag vom 13.09.2025 (TOP 5.1.5 von 09/25) zur Verbesserung der Verkehrssicherheit in der Brudermühlstraße zwischen Thalkirchnerstraße und Schäftlarnstraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Vollzug der Baugenehmigung Lindenschmitstraße 25 unterbinden
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Sylvensteinstr. 4 Fällungsantrag vom 23.01.2026 auf dem Grundstück I 04.03.2026
+- TOP 4.2.2.: Brudermühlstr. 44 Fällungsantrag vom 26.01.2026 auf dem Grundstück I 06.03.2026
+- TOP 4.2.3.: Gotzinger Str. 15 Neubaus mit Gebäuden zur gewerblichen Nutzung sowie für Einzelhandel, Beherbergungsgewerbe, Schank- und Speisewirtschaften, Anlagen zur Verwaltung sowie kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke und Wohnnutzung (Gotzinger Str. 15-17 / Oberländerstr. 2)- VORBESCHEID I 06.03.2026
+- TOP 4.2.4.: Karwendelstr. 33 Fällungsantrag vom 02.02.2026 auf dem Grundstück I 03.03.2026
+- TOP 4.2.5.: Gotzinger Pl. 1 Fällungsantrag vom 04.02.2026 I 05.03.2026
+- TOP 4.2.6.: Albert-Roßhaupter-Str. 14 Fällungsantrag vom 06.02.2026 I 09.03.2026
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV) Fällungsantrag vom 19.11.2025 auf dem Grundstück Brudermühlstr. 4
+- TOP 4.3.2.: Beachvolleyballfelder im Isarhochwasserbett Antwort des BAU auf Bürger*innenanliegen TOP 2.2 aus 11/25
+- TOP 4.3.3.: Straßenbegleitgrün Antwort des BAU auf Bürger*innenanliegen TOP 2.20 aus 09/25
+- TOP 4.3.4.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP 4.3.5.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP 4.3.6.: Gewerbeflächenentwicklungsprogramm
+- TOP 4.3.7.: - Zwischennachricht - Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet Empfehlung Nr. 20-26 / E 03199 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 20.11.2025
+- TOP 4.3.8.: -Zwischennachricht- Verbot gewerblich betriebener Vermietung von möblierten Kleinwohnungen Empfehlung Nr. 20-26 / E 03200 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 20.11.2025
+- TOP 4.3.9.: Taubenplage: Wohnanlage Implerstrasse 23, 25, 25a Update zu Bürger*innenanliegen TOP 2.5 aus 05/25
+- TOP 4.3.10.: Baumaßnahme Boschetsrieder Straße
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Finanzielle Unterstützung und Einrichtung von Taubenhäusern
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Sammelbeschluss - offene Bezirksausschussangelegenheiten des 06. Stadtbezirkes Sendling
+- TOP 5.1.2.: (E) Fortführung des Fahrradwegs ab Am Isarkanal
+- TOP 5.1.3.: (E) Fahrradständer statt PKW-Stellplatz vor Schanzenbachstr. 12 und 16
+- TOP 5.1.4.: (E) Fußgängerüberweg an der Kreuzung Schmied-Kochel-Straße/Implerstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Bez. 6 - Anhörung VA Grünanlagen: Sommertreff Familienzentrum/Mütterzentrum Sendling am Dietramszeller Platz (Spielplatz) vom 05.05.-22.10.2026; TERMIN: 13.03.2026
+- TOP 5.2.2.: ANHÖRUNG - (bezirksübergreifend): Spielaktionen "Straße.Oase" von CultureClouds e.V. auf Straßen und Plätzen, 24.04. - 09.07.2026
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Vorschlag zur Einrichtung einer Tempo-30-Zone auf der Thalkirchner Straße Antwort des MOR auf Bürger*innenanliegen TOP 2.6 aus 10/25
+- TOP 5.3.2.: Arbeiten im Straßenraum; Margaretenplatz bis An der Stemmerwiese 1; Verlegung einer Fernwärmeleitung in offener Bauweise – Phase 3
+- TOP 5.3.3.: Halte- und Parkverbot für Wohnmobile / Wohnwägen / Campingbusse in der Valleystraße Antwort des MOR auf Bürger*innenanliegen TOP 2.9 aus 12/25
+- TOP 5.3.4.: Doppelnutzung von Parkplätzen prüfen – zusätzliche Parkplatz-Optionen für Sendling ermöglichen (FDP/FREIE WÄHLER)
+- TOP 5.3.5.: Ampelschaltung an der Brudermühlstraße / Ecke Schäftlarnstraße Antwort des MOR auf Bürger*innenanliegen TOP 2.15 aus 07/25
+- TOP 5.3.6.: Antwort des MOR auf Schreiben BA 6 zu "Potenzielle Tempo 30 Anordnungen im Stadtbezirk" vom 04.02.2025 und 08.04.2025
+- TOP 5.3.7.: Mülleimer direkt neben dem Standort für Gedenkstele dauerhaft entfernen! (SPD)
+- TOP 5.3.8.: Fuß- und Radbrücke über die Brudermühlstraße wieder für den gemeinsamen Fuß- und Radverkehr öffnen (Bündnis90/Die GRÜNEN)
+- TOP 5.3.9.: Parkraum-Management Brudermühlstraße Antwort des MOR auf Bürger*innenanliegen TOP 2.12 aus 12/25
+- TOP 5.3.10.: Parkraummanagement Änderungen im Parklizenzgebiet Untersendling hier: Valleystraße
+- TOP 5.3.11.: Hinweis Bezirk Gotzinger Platz Antwortschreiben des MOR auf Bürger*innenanliegen TOP 2.3 aus 12/25
+- TOP 5.3.12.: -Zwischennachricht- Farbliche Hervorhebung des Fahrradstreifens am Harras Empfehlung Nr. 20-26 / E 03208 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 20.11.2025
+- TOP 5.3.13.: Die Implerstraße (zumindest im ganztägigen 30 km/h Bereich ab der Gaißacher Straße stadteinwärts) auf einspurig umzuändern Antwort des MOR auf Bürger*innenanliegen TOP 2.9 (erstes Anliegen) aus 10/25
+- TOP 5.3.14.: Böllern außerhalb des Mittleren Rings Rückmeldung Büro des OB
+- TOP 5.3.15.: Erhalt der Gaststätte "Zum Blaustern" auf der Bezirkssportanlage in Sendling Rückmeldung des RBS
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Hinweis auf den nächstgelegenen Wertstoffhof; SPD-Antrag
+- TOP 5.4.2.: Sofortmaßnahme zur Hitze-Resilienz: Modulare Verschattung für den Harras (Platzfolge); SPD-Antrag
+- TOP 5.4.3.: Grünanlagensatzung München anpassen – ökologische Funktion wird auch Hauptzweck; ÖDP-Antrag
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Alte Utting GmbH „Kinderkulturprogramm vom 01.01. -31.12.2026“ 3.073,12 € / AZ: 0262.100-6-0597
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Parklet Kochelstraße" „Parklet Kochelseestr. Ecke Thalkirchner Str. 15.03.2025 - 30.11.2025“ 985,00 € / AZ: 0262.100-6-0541
+- TOP 6.1.3.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. „5. Intern. Orgelwochen & Orgelmatineen 2026 vom 30.04.2026 - 11.07.2026“ 7.900,00 € / AZ: 0262.100-6-0603
+- TOP 6.1.4.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. „Orgelsoireen vom 25.09.2026 - 11.12.2026“ 2.620,00 € / AZ: 0262.100-6-0604
+- TOP 6.1.5.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. „Symphonisches Chorkonzert am 10.10.2026“ 5.000,00 € / AZ: 0262.100-6-0602
+- TOP 6.1.6.: Sendlinger Kulturwoche (Budget für eigene Veranstaltungen)
+- TOP 6.1.7.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. Bilderfries 4: Ausstellung "Chaos oder Struktur?" vom 15.02. -15.09.2026 2.925,00€; Az. 0262.100-6-0605
+- TOP 6.1.8.: (E) Stadtbezirksbudget LORA -Förderverein für alternative Programme im Lokalradio e.V. Sendling-Perspektiven vom 01.04.2026 -31.03.2027 4.912,80€; Az. 0262.100-6-0606
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Zwischennachricht BV-Empfehlung Nr. 20-26 / E 03190 - Anteil der bayerischen Kommunen am Sondervermögen
+- TOP 7.3.2.: Ermäßigtes Deutschlandticket Antwort des DIR/OB auf Bürger*innenanliegen TOP 2.1 aus 02/26
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: AKIM Bericht 1. Jahreshälfte 2026
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.4.1.: Änderung der Geschäftsordnung für die Bezirksausschüsse (BA-GeschO) – Neuregelung der Sitzungsleitung in der konstituierenden Sitzung (FDP/Freie Wähler)
+- TOP 9.5.: Sonstiges
+- TOP 2.8.: Antrag: Baum-Ersatz-Pflanzungen vor Anwesen Alramstr. 15
+- TOP 2.9.: Kostenlose Anzeigenblätter Münchner Wochenblatt, Sendlinger Anzeiger
+- TOP 5.2.3.: Verkehrsrechtliche Anordnung zur Schäftlarnstraße m.d.B. um eine kurze Stellungnahme
+- TOP 5.5.1.: Sendlinger Bergweihnacht 2026
+- TOP 2.10.: Baumfällung Zechstr. Flößergasse
+- TOP 2.11.: Parklizenzgebiet für Mittersendling, Nachfrage
+- TOP 6.1.9.: (E) Stadtbezirksbudget Culture Clouds e.V. „Pop-UP 2027 1 Projekt Zirkus Pumpernudl vom 01.01.2027 - 31.12.2027“ 4.812,00 € / AZ: 0262.100-6-0608
+- TOP 6.1.10.: (E) Stadtbezirksbudget Culture Clouds e.V. „POP-UP 2026 1 Projekt Zirkus Pumpernudl vom 01.04.2026 - 31.12.2026“ 4.812,00 € / AZ: 0262.100-6-0607
+- TOP 2.12.: Baumpflanzungen in der Schanzenbachstraße
+- TOP 2.13.: Fahrradabstellplatz Urbanstr/Schäftlarnstr
+- TOP 6.1.11.: (E) Stadtbezirksbudget Elterninitiative Igelchen e.V. Enrichtung eines Parklets in der Schöttlstraße vom 01.04-31.10.2026 500,00€; Az.: 0262.100-6-0610
+- TOP 2.14.: Poller oder vergleichbare bauliche Maßnahmen an der Kreuzung Lindenschmitstraße / Kidlerstraße
