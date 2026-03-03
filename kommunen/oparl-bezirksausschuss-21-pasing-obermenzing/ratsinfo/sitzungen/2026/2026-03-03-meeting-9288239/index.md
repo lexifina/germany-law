@@ -1,0 +1,192 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2026-03-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9288239
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9288239
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Protokoll Baustellenkoordination vom 05.02.26
+- TOP 1.2.1.: Protokoll Baustellenkoordination vom 05.02.26
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Auflösung der Parkplätze in der Meyerbeer- / Offenbachstraße (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 2.2.2.: Beibehaltung der Parkplätze in der Meyerbeer - / Offenbachstraße (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 2.2.3.: Antrag im BA bezüglich der Parkplätze an der Meyerbeerstraße (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 2.2.4.: Prüfung der Parksituation in der Ernsbergerstraße (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 2.2.5.: Sicherstellung der Rettungswege zu den Gebäuden am Ende der Pasinger Promenade / Am Knie (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 2.2.6.: Gestaltung der Wertstoffcontainer-Standorte ab 1.1.27 (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 2.2.7.: Überprüfung der Schulwegsicherheit Oselschule – Hort Paul-Gerhardt-Allee 39
+- TOP 2.2.8.: Masterplan Landschaftspark West; Workshop am 25.11.25
+- TOP 2.2.9.: Zebrastreifen für Schulüberweg zur Hermine-von-Parish-Grundschule an der Berduxstraße
+- TOP 2.2.10.: Beschleunigung der Machbarkeitsstudie zur Verlängerung der Trambahnlinie 17 von der Amalienburgstraße über die Blutenburg bis nach Freiham
+- TOP 2.2.11.: Umsetzung der Wertstoffcontainer in der Hermine-von-Parish-Straße
+- TOP 2.2.12.: Geruchsbelästigung Pasing Bahnhof / Ausgang Süd, Fahrradgarage
+- TOP 2.2.13.: Mülltrennung in Münchner Schulen
+- TOP 2.2.14.: Übergang Schirmerweg / Pippinger Straße
+- TOP 2.2.15.: Aufstellung eines Dialogdisplays in der Mitterfeldstraße
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Schladminger Str. 40: 2 Fichten
+- TOP 3.1.2.: Im Wismat 28b: 1 Fichte
+- TOP 3.1.3.: Falkweg 25: 1 Thuja
+- TOP 3.1.4.: Peter-Putz-Str. 9: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.5.: Tschaikowskystr. 7: 1 Kiefer
+- TOP 3.1.6.: Steiermarkstr. 26: 1 Hemlocktanne
+- TOP 3.1.7.: Bodenstedtstr. 27: 3 Linden, 1 Esche
+- TOP 3.1.8.: Paosostr. 1b: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.9.: Verdistr. 40: 3 Fichten
+- TOP 3.1.10.: Fritz-Reuter-Str. 7: 1 Thuja, 3 Koniferen
+- TOP 3.1.11.: Slezakstr. 3: 1 Atlaszeder
+- TOP 3.1.12.: Peslmüllerstr. 25: 1 Birke, 1 Blaufichte, 1 Wacholder
+- TOP 3.1.13.: Karwinskistr. 22-22b: 1 Waldkiefer
+- TOP 3.1.14.: Josef-Haas-Weg 10: 1 Thuja
+- TOP 3.1.15.: Pflegerstr. 37: 1 Eiche
+- TOP 3.1.16.: Dachstr. 21: 1 Hainbuche
+- TOP 3.1.17.: Steirerstr. 20b: 1 Schwarzpappel
+- TOP 3.1.18.: Maierhofstr. 15: 1 Apfelbaum, 1 Kriechenbaum, 1 Zwetschgenbaum
+- TOP 3.1.19.: Engelbertstr. 11: 4 Eschen
+- TOP 3.1.20.: Härtingerstr. 2: 1 Walnuss, 1 Bergahorn
+- TOP 3.1.21.: Breiter Weg 4: 1 Silberahorn
+- TOP 3.1.22.: Mühlerweg 9: Baumbestandsplan
+- TOP 3.1.23.: Ernst-Buchner-Weg 1: 2 Tannen
+- TOP 3.1.24.: Carl-Hanser-Str. 40: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.25.: Bauseweinallee 79: Freiflächengestaltungsplan
+- TOP 3.1.26.: Schererplatz 6: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.27.: Meyerbeerstr. 26: Freiflächengestaltungsplan
+- TOP 3.1.28.: Verdistr. 136: Freiflächengestaltungsplan
+- TOP 3.1.29.: Falkweg 27: 1 Fichte
+- TOP 3.1.30.: Adelsbergstr. 10a: 2 Vogelkirschen
+- TOP 3.1.31.: Erdmannsdörferstr. 1a: 1 Fichte
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung und Mobilität + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: 2 Anwesen in der Verdistraße
+- TOP 5.1.2.: Anwesen in der Anna-Dandler-Straße
+- TOP 6.: Bericht des UA Kultur, Heimatpflege, Organisation + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales, Bildung und Sport + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget ASZ Pasing Faschingsfest am 16.02.2026 300,00 Euro, Az.: 0262.100-21-0539
+- TOP 10.2.: (E) Stadtbezirksbudget Kulturforum München-West e.V. Jubiläumsveranstaltung "10-Jahre-Bücherschrank" am 23.042026 600,00 Euro, Az.: 0262.100-21-0540
+- TOP 10.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.18; Peter-Vischer-Str. 29
+- TOP 10.4.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.18 über Standortgenehmigung für Parkscheinautomaten im Lizenzgebiet Pasing Süd
+- TOP 10.5.: (E) Stadtbezirksbudget CultureClouds e.V. POP-UP 2026, Projekt "Zirkus Pumpernudl" vom 01.04. - 31.12.2026 4.812,00 Euro, Az.: 0262.100-21-0543
+- TOP 10.6.: (E) Stadtbezirksbudget QuarterM gGmbH 3. Freiwilligenmesse in Pasing-Obermenzing am 18.04.2026 5.977,50 Euro, Az.: 0262.100-21-0544
+- TOP 10.7.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Rote Rüben e.V. Erneuerung der Schrank-/Regalwand im Gruppenraum 4.658,47 Euro, Az.: 0262.100-21-0542
+- TOP 11.: Anhörungen
+- TOP 11.1.: Peter-Putz-Str. 9: Neubau von drei Mehrparteienhäusern mit 33 Wohneinheiten mit Tiefgarage (Peter-Putz-Str. 9 /Sollerbauerweg) - mit Mobilitätskonzept
+- TOP 11.2.: Paosostr. 1b: Neubau eines Triohauses mit Carport
+- TOP 11.3.: Spielaktionen "Straße.Oase" ; Bauseweinallee 7-15 vom 24.04. - 26.04.26
+- TOP 11.4.: Mühlerweg 9: Neubau eines Mehrfamilienhauses und Tiefgarage / Vorbescheid
+- TOP 11.5.: Steffanistr. 3: Neubau von vier Mehrfamilienwohnhäusern mit 28 Wohneinheiten und 28 Stellplätzen / Vorbescheid
+- TOP 11.6.: Carl-Hanser-Str. 40: Neubau von 2 Triohäusern mit jeweils 3 WE und 3 Unterflurparker, Abbruch Bestand
+- TOP 11.7.: Bauseweinallee 79: Neubau eines Mehrfamilienhauses mit Garage
+- TOP 11.8.: Schererplatz 6: Schulbauoffensive - Neubau eines Gebäudes in Modulbauweise am Schererplatz mit Unterrichtsräumen und Mensa, als Erweiterung für die Grundschule am Schererplatz und das Elsa-Brändström Gymnasium
+- TOP 11.9.: Meyerbeerstr. 26: Neubau eines Wohngebäudes und einer Garage an ein bestehendes Wohngebäude
+- TOP 11.10.: Verdistr. 136: Neubau eines Ingenieurbüros für Fahrzeugtechnik und Sachverständigenwesen mit einer Betriebswohnung, Neubau einer Tiefgarage mit insgesamt 11 Stellplätzen
+- TOP 11.11.: Bodenseestr. 100: Neubau einer Wohnanlage mit Tiefgarage / Vorbescheid
+- TOP 11.12.: Marschnerstraße: Neubau EFH hinten II Verhältnis 1 / 4,80 (Variante 1) / Vorbescheid
+- TOP 11.13.: Marschnerstraße: Neubau EFH hinten II Verhältnis 1 / 4,50 (Variante 2) / Vorbescheid
+- TOP 11.14.: Marschnerstraße: Neubau EFH hinten II unterirdisch (Variante 3) / Vorbescheid
+- TOP 11.15.: Landsberger Str. 486: Jubiläum 10 Jahre Bücherschrank Pasing am 23.04.26
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: SPD, Bündnis 90 / Die Grünen, Antrag: Neubau Haus für Kinder Pippinger Str. 95 (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 12.2.: CSU, Antrag: 10 Jahre Leerstand - Bauruine Pippinger Straße 95 - Errichtung eines Hauses für Kinder vorantreiben (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 12.3.: Bündnis 90 / Die Grünen, Antrag: Aufwertung des Kinderspielplatzes Am Klostergarten im Pasinger Stadtpark
+- TOP 12.4.: Bündnis 90 / Die Grünen, Antrag: Weniger Asphalt und Hitze, mehr Leben: Wasserspielplatz im Donizettiweg
+- TOP 12.5.: Bündnis 90 / Die Grünen, Antrag: Sanierung Schirmerweg zur Verbesserung der Situation für den Fußverkehr nutzen
+- TOP 12.6.: Bündnis 90 / Die Grünen, Anfrage: Schutz vulnerabler Gruppen an Hitzetagen
+- TOP 13.: Unterrichtungen
+- TOP 13.1.: Unveränderte Fortführung von Gaststättenbetrieben - Gaststätte San Antonio, Landsberger Str. 471 - Gaststätte Viet Village, Bodenstedtstr. 58
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Vollversammlung vom 26.11.25: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 14.2.: Vollversammlung vom 17.12.25: Mehrjahresinvestitionsprogramm (MIP) 2025 - 2029 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 14.3.: Vollversammlung vom 04.02.26: (U) Mobilitätsstrategie 2035 Fortschreibung der Teilstrategie Wirtschaftsverkehr – Vorstellung der Roadmap Urbane Logistik
+- TOP 14.4.: Vollversammlung vom 04.02.26: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 14.5.: Ausschuss für Stadtplanung und Bauordnung vom 11.02.26: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP 14.6.: Ausschuss für Stadtplanung und Bauordnung vom 11.02.26: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP 14.7.: Ausschuss für Stadtplanung und Bauordnung vom 11.02.26: Gewerbeflächenentwicklungsprogramm
+- TOP 15.: Post an den BA
+- TOP 15.1.: von der Stadtverwaltung
+- TOP 15.1.1.: Direktorium
+- TOP 15.1.1.1.: Stadtbezirksbudget; Verwendungsnachweis für - Pasinger Christkindlmarkt; Pasinger Mariensäule e.V. - Ferienprogramm Kunst & Krempel; Kultur & Spielraum e.V. - Sitzbänke; Stiftung Kath. Familien- und Altenpflegewerk
+- TOP 15.1.2.: Baureferat
+- TOP 15.1.2.1.: Kaflerstraße, Querungshilfe Hermann-Hesse-Weg; Anpassung Markierung (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 15.1.2.2.: Radwegmarkierung Nimmerfallstraße bis Bahnhof Pasing-Nord und Rückschnitt der Sträucher
+- TOP 15.1.2.3.: Projektvorschlag: Bewegung und mentale Gesundheit im öffentlichen Raum
+- TOP 15.1.2.4.: Paosostraße, Baumpflanzungen im Straßenraum; Anliegerinformation
+- TOP 15.1.2.5.: Jugendsprechstunde vom 05.12.25; - Basketballfeld im Neubaugebiet an der Paul-Gerhardt-Allee - Schlittenberg im Durchblickpark
+- TOP 15.1.3.: Mobilitätsreferat
+- TOP 15.1.3.1.: Schuegrafstraße, Südseite, vor Anwesen Nr. 6, Errichtung einer Anfahrtszone für die Heilpädagogische Tagesstätte Kinderhaus München; verkehrsrechtliche Anordnung
+- TOP 15.1.3.2.: Schirmerweg, Westseite, südliche Einmündung zur Pippinger Straße, Errichtung eines Gefahrzeichens „Gefahrstelle“ (Z101 StVO) mit Zusatzzeichen „Fußgänger auf der Fahrbahn“; verkehrsrechtliche Anordnung
+- TOP 15.1.3.3.: Pippinger Straße, im Bereich der S-Kurve nördlich Lochhausener Straße, Anordnung von Zeichen 136 StVO „Kinder“); verkehrsrechtliche Anordnung
+- TOP 15.1.3.4.: Vollsperre Steinerweg 3a ab 23.02.26
+- TOP 15.1.3.5.: Verkehrliche Neugestaltung Pasing Nord VI; Verbreiterung der Hellihofwegs für Fußgänger*innen und Radfahrer*innen
+- TOP 15.1.3.6.: Josef-Felder-Str. 27 bis 35, Verlängerung der U5 (Los 2), Spartenumverlegung; Arbeiten im Straßenraum vom 02.03. - 30.10.26
+- TOP 15.1.3.7.: Parksituation Agnes-Bernauer-Straße; Probleme mit dauerparkenden Wohnanhängern und Campern im Bereich zwischen Westbad und Fischer-von-Erlach-Straße
+- TOP 15.1.3.8.: Drehgenehmigung Marschnerstr. 11 - 59 am 26.02.26
+- TOP 15.1.4.: Referat für Stadtplanung und Bauordnung
+- TOP 15.1.4.1.: Bauvorhaben Loichingerstr. 7 und Bauvorhaben Menzinger Str. 105
+- TOP 15.1.4.2.: Vollzug der Baumschutzverordnung - Ebenböckstr. 20 - Samerhofstr. 27
+- TOP 15.1.4.3.: Bauvorhaben Rebhuhnweg 10
+- TOP 15.1.4.4.: Bauvorhaben Frihindorfstr. 16
+- TOP 15.1.4.5.: Perspektive München – Leitlinie Freiraum – Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung; Sitzungsvorlage Nr. 20-26 / V 17591
+- TOP 15.1.4.6.: Bauvorhaben Steffanistr. 3-5
+- TOP 15.1.5.: Referat für Klima- und Umweltschutz
+- TOP 15.1.5.1.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage, Standort Landsberger Str. 439
+- TOP 15.1.5.2.: Vertragliche Standortsicherung einer Mobilfunkanlage, Standort Bassermannstr. 20
+- TOP 15.1.5.3.: Vertragliche Standortsicherung einer Mobilfunk, Standort Münchhausenstr. 21
+- TOP 15.1.6.: Kreisverwaltungsreferat
+- TOP 15.1.6.1.: Einrichtung einer öffentlichen Toilette im Pasinger Rathaus - Beschilderung
+- TOP 15.1.6.2.: Mehr Kontrollen auf der Brücke über den Pasing-Nymphenburg-Kanal (Offenbachstraße - Meyerbeerstraße)
+- TOP 15.1.6.3.: Rückbau des Taubenhauses Obermenzing
+- TOP 15.1.6.4.: Markierung der Freischankflächen im Bereich Pasinger Marienplatz
+- TOP 15.1.7.: Referat für Arbeit und Wirtschaft, MVG, SWM
+- TOP 15.1.7.1.: Baumßanhmen der SWM - Stromprojekt Josef-Felder-Straße - Stromprojekt Karwinskistraße - Stromprojekt Packenreiterstraße - Fernwärmeprojekt Steinerweg - Fernwärmeprojekt Otto-Dischner-Weg
+- TOP 15.1.7.2.: 150 Jahre Tram: München feiert München
+- TOP 15.1.7.3.: Parkplätze in der Meyerbeerstraße / Offenbachstraße - Auswirkungen auf Busfahrzeiten
+- TOP 15.1.8.: Sozialreferat
+- TOP 15.1.8.1.: Nicht kommerzieller Treffpunkt für Kinder und Jugendliche
+- TOP 15.1.8.2.: AKIM Bericht 1. Jahreshälfte 2026
+- TOP 15.1.9.: Referat für Bildung und Sport
+- TOP 15.1.9.1.: Mülltrennung in Münchner Schulen
+- TOP 15.1.10.: Kommunalreferat, AWM
+- TOP 15.1.10.1.: Wertstoffcontainerinsel Freseniusstraße / Fasanenstraße
+- TOP 15.2.: Sonstige
+- TOP 15.2.1.: Kulturforum München-West: Fortführung des Projektes N·E·St - Netzwerk Engagement im Stadtteil Pasing-Obermenzing (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 15.2.2.: LeseEulen e.V.: N·E·St dauerhaft sichern – Mehrwert für Vereine und Bürger in Pasing-Obermenzing (Vertagung aus der BA-Sitzung vom 03.02.26)
+- TOP 15.2.3.: Netzwerk Klimaherbst e.V.: Aktionstag Klima.Dult in Pasing am 26.07.26
+- TOP 15.2.4.: Kreisjugendring München-Stadt: Position des KJR-Vorstands zu den drohenden Kürzungen in der Münchner Kinder- und Jugendarbeit
+- TOP 15.2.5.: Weinbauverein Menzing e.V.: Rücknahme des Antrags auf Zuschuss aus dem Stadtbezirksbudget
+- TOP 15.2.6.: Regionalmanagement München Südwest e.V.: Mitgliederversammlung vom 16.01.26
+- TOP 16.: Sonstiges
+- TOP 16.1.: Termine
+- TOP 16.1.1.: - BA-Sitzung 14.04.26, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486 - BA-Sitzung 19.05.26, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486
+- TOP 16.1.2.: Bürgerversammlungen - 23.03.26, Bezirksteil Obermenzing, Aula Grandlschule, Grandlstr. 5 - 22.04.26, Bezirksteil Pasing, Aula Bertolt-Brecht-Gymnasium, Peslmüllerstr. 6
+- TOP 16.2.: Bereits weitergeleitete Antragen, Anliegen etc.
+- TOP 16.2.1.: Wertstoffcontainerinsel Freseniusstraße / Fasanenstraße
+- TOP 16.2.2.: Bodenmarkierung „30 km/h“ in der Grandlstraße
+- TOP 16.2.3.: Dorfstraße; Entfernung von Laubhaufen
+- TOP 16.2.4.: Gully / regelmäßige Überflutungen Tiefgarage im Betzenweg
+- TOP 2.2.16.: Ampelüberquerung Pippinger Straße auf Höhe der Blutenburg
+- TOP 2.2.17.: Planungen Pasinger Bahnhof
+- TOP 11.16.: Fahrbahnsanierung Benedikterstr. 2-18
+- TOP 15.1.3.9.: Blumenauer Straße, Scheurlinstraße, Haideweg, Siegmannstraße – Stromleitung; Arbeiten im Straßenraum vom 09.03. – 12.06.26
+- TOP 15.1.7.4.: Baumaßnahmen der SWM; Stromprojekt Blumenauer Straße
+- TOP 16.2.5.: Pasinger Marienplatz – Lagerung Mobiliar
+- TOP 2.2.18.: Zebrastreifen Blumenauer Straße / Haidelweg; Erhöhung der Schulwegsicherheit
+- TOP 15.1.4.7.: Fällungsantrag Pflegerstr. 37
+- TOP 16.2.6.: Stopp der Rodung eines wertvollen Sichtschutzbaums – Westkreuz / Bodenseestr. 97
+- TOP 15.1.7.5.: Stadtgeburtstag 2026; Teilnahmemöglichkeit der BAs
