@@ -1,0 +1,66 @@
+# 3. Sitzung des Mobilitätsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-03T16:05:00+01:00
+- Ende: 2026-03-03T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34339
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34339
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Radpendlerroute statt Radschnellweg Köln-Frechen - vertagt
+- TOP 1.2: Einführung einer Nahverkehrsabgabe - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu Tagesordnungspunkt 1.2: Einführung einer Nahverkehrsabgabe - ungeändert beschlossen
+- TOP 1.3: Parkplatz-Dashboard - vertagt
+- TOP -: Änderungsantrag zu TOP 1.3 – Parkplatz-Dashboard - vertagt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Ausschusses für Chancengerechtigkeit und
+- TOP 3: Entscheidungen (Beschlussorgan Mobilitätsausschuss)
+- TOP 3.1: Nachhaltige Urbane Mobilitätsplanung (Sustainable Urban Mobility Plan - SUMP): Aktualisierung der Geschäftsordnung des Mobilitätsbeirats - ungeändert beschlossen
+- TOP 3.2: 66. Anordnung der Kostenspaltung gemäß § 8 der Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages vom 29.06.2001 - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Satzung über die abweichende Herstellung der Erschließungsanlage Von-der-Leyen-Straße/Marthastraße von Dellbrücker Hauptstraße bis Von-Quadt-Straße in Köln-Dellbrück - ungeändert empfohlen
+- TOP 4.2: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - vertagt
+- TOP -: Ergänzungsantrag zu TOP 4.1 Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - endgültig zurückgezogen
+- TOP -: Machbarkeitsstudie einer vereinfachten Variante zur Stadion-Sonderhaltestelle - vertagt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Auswertung des Adventsverkehrs 2025 in Köln - vertagt
+- TOP 5.1.2: Auswirkungen und Gegenmaßnahmen der Stadt Köln bei der drohenden Doppelsperrung der linksrheinischen Bahnverbindung Köln–Bonn 2028–2030 - Sache ist erledigt
+- TOP -: Beantwortung einer schriftl. Anfrage der SPD-Fraktion aus der Sitzung des Mobilitätsausschusses am 20.01.2026 betr. "Auswirkungen und Gegenmaßnahmen der Stadt Köln bei der drohenden Doppelsperrung der linksrh. Bahnverbindung Köln-Bonn 2028-2030" - vertagt
+- TOP 5.1.3: Verkehrssicherungsmaßnahmen durch Mietsysteme - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Mobilitätsausschusses vom 02.12.2025 betr. "Verkehrssicherungsmaßnahmen durch Mietsysteme", AN/1336/2025 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.1.4: Überarbeitung der bezirklichen Busteilnetze - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.:Überarbeitung der bezirklichen Busteilnetze - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.1.5: Interim der Ost-West-Achse: Beschlusslage ist fraglich - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE betreffend "Interim der Ost-West-Achse: Beschlusslage ist fraglich", (AN/1473/2025) - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Einsicht Förderantrag ÖPNV-Bedarfsplan - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE in der Sitzung des Mobilitätsausschuss vom 03.03.2026 betreffend "Einsicht Förderantrag ÖPNV-Bedarfsplan für die Ost-West-Achse", AN/0283/2026 - Kenntnis genommen
+- TOP 5.2.2: Sachstand L 82n, Umfahrungsstra0e Zündorf - vertagt
+- TOP 5.2.3: Umgestaltung der Deutzer Freiheit - Sache ist erledigt
+- TOP -: Beantwortung einer schriftl. Anfrage der CDU-Fraktion aus der Sitzung des Mobilitätsausschusses am 03.03.2026 betr. „Umgestaltung der Deutzer Freiheit“ (AN/0306/2026) - vertagt
+- TOP 5.2.4: Sicherheit im Straßenverkehr durch Geschwindigkeitsanzeigetafeln - vertagt
+- TOP 5.2.5: Einrichtung von Schulstraßen in Köln - vertagt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung": Umgestaltung der Pipinstraße und Herstellung einer Freitreppe an St. Maria im Kapitol - Kenntnis genommen
+- TOP 6.1.2: Generalinstandsetzung der Mönchsgasse zwischen Jesuitengasse und Simonskaul - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Ost-West-Achse - Politischer Variantenentscheid für die Kapazitätserweiterung - Kenntnis genommen
+- TOP 6.2.2: ÖPNV-Netzentwicklung - Sachstand 2025 - vertagt
+- TOP 6.2.3: Veröffentlichung der Stationen aus dem Carsharing Konzept - Kenntnis genommen
+- TOP 6.2.4: Sachstand zu den Planungen der Stadtbahnlinie 17 inkl. Lückenschluss Linie 7 - Kenntnis genommen
+- TOP 6.2.5: StadtBahn Süd – Aktueller Sachstand - Kenntnis genommen
+- TOP 6.2.6: Stadtradeln 2026 - Kenntnis genommen
+- TOP 6.2.7: Positionspapier "Neue Ansätze zur ÖSPV-Finanzierung" - Kenntnis genommen
+- TOP 6.2.8: Inhalt und Ablauf von Planfeststellungsverfahren - vertagt
+- TOP 6.2.9: Ortsteilbeschilderung an Leinpfad und Fußwegen im Rahmen der Gleichberechtigung des Verkehrs - Kenntnis genommen
+- TOP 6.2.10: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - vertagt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Sachstand zur Verkehrssituation in und an der Steyler Straße in Holweide
