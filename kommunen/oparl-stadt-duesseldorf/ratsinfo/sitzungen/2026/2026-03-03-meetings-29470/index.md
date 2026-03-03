@@ -1,0 +1,56 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-03T17:00:00+01:00
+- Ende: 2026-03-03T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29470
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29470
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577966.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577966.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00577966.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 25.11.2025 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 27.01.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 3.1: Zulassung von Vertretungen betroffener Bevölkerungsgruppen (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 3.2: Zulassung weiterer Sachverständige - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Neukonzeptionierung der Liegenschaft an der Eisenstraße 49 ( mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.2: Barrierefreier Ausbau Haltestelle Karolingerplatz (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.3: Umgestaltung des Vorplatzes Kaispeicher im Rahmen des Hochbauvorhabens Kaistr. 1 - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 7.3: Information über beschlossene Zuschussanträge - zur Kenntnis genommen
+- TOP 7.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Stellplatzablöse im Stadtbezirk 3 (Anfrage SPD/Volt) - zur Kenntnis genommen
+- TOP 8.1.2: Radweg auf der Friedrichstraße (Anfrage SPD/VOLT) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Bootshaus und Kurhaus im Volksgarten – Perspektiven für eine ergänzende Nutzung (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2.2: Abfallentsorgungspunkte im Stadtbezirk 3 (Anfrage Hr. Pennekamp FDP) - zur Kenntnis genommen
+- TOP 8.2.3: Nutzungsperspektive des Musikpavillons im Stadtbezirk 3 (Anfrage Hr. Pennekamp FDP) - vertagt
+- TOP 8.2.4: Schließung der Papierfabrik in Bilk – Begleitung des Gesamtprozesses (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.5: Geschwindigkeit auf der Schmiedestraße (Anfrage Fraktion SPD/VOLT) - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 9.1: Einrichtung eines Bewohnerparkgebietes entlang der Siegburger Str./Oberbilk Südost (Antrag BÜNDNIS 90/DIE GRÜNEN) - mehrheitlich beschlossen
+- TOP 9.2: Keine Glascontainer neben dem Radweg auf der Oberbilker Allee (Antrag Fraktion SPD/VOLT) - abweichend beschlossen
+- TOP 9.3: Rückverlängerung des stadtauswärtigen Radfahrstreifens auf der Himmelgeister Straße bis zur Einmündung Karolingerstraße (Antrag CDU Fraktion) - einstimmig beschlossen
+- TOP 9.4: Optimierung der Ampelschaltungen Bilker Allee/Bachstraße/Weberstraße (Antrag CDU Fraktion) - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Prüfung Verbesserung Spielplatz Kölner Straße inkl. Beleuchtung - zur Kenntnis genommen
+- TOP 10.2: Verbesserung der Querung Volksgartenstr./Oberbilker Allee für Radfahrende - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
