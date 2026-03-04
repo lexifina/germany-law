@@ -1,0 +1,25 @@
+# Verkehrsführung für Radfahrer:innen auf der Hohenschönhauser Straße sicher gestalten
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/1300/IX
+- Art: Antrag zur Beschlussfassung
+- Datum: 2026-03-04
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10422
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=10422
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=398241
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5705 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5739 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5769 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5795 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5822 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5849 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5882 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5916 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5965 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5980 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6018 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6116 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6150 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5669 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=76
