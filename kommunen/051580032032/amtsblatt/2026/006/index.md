@@ -1,0 +1,9 @@
+# Amtsblatt der Stadt Velbert 2026 Nr. 6 vom 04.03.2026
+
+- Herausgeber: Stadt Velbert
+- Ausgabe: 2026-03-04 (erstes Datum auf Seite 1)
+- Nummer: 6
+- Quelle: https://www.velbert.de/fileadmin/user_upload/Aktuelles/Amtsblatt/amtsblatt-2026/amtsb06-2026.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+
+- Text: nicht übernommen - die Ausgabe nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
