@@ -1,0 +1,54 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2026-03-04T18:00:00+01:00
+- Ende: 2026-03-04T22:37:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe_fOEfja_EIUTUGFOre0Rc
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6628
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYClruHOM0nrZZ7Y7AaTS9tRYZPuZxvkFXEqDIt0f-A3/Bekanntmachung_Rat_04.03.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZlTIgeVLhTBU7stgR9KkQQPBfYiNMb0tIzwekF8xYME/Oeffentliche_Niederschrift_Rat_04.03.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 28.01.2026
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Überörtliche Prüfung der Stadt Gronau (Westf.) im Jahr 2025/2026 durch die Gemeindeprüfungsanstalt (gpa) NRW Gesamtbericht der gpaNRW vom 19.02.2026 - Präsentation
+- TOP 5.: Sachstandsbericht Bernhard-Overbergschule - Einstimmig, 0 Enthaltungen
+- TOP 6.: Sachstandsbericht Buterlandschule - Einstimmig, 1 Enthaltungen
+- TOP 7.: Ostumgehung K59n - 43 Jastimmen, 0 Neinstimmen, 11 Enthaltungen
+- TOP 8.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 2/2026 Bürgerantrag vom 29.01.2026 "Öffentliche Stellungnahme der Stadt Gronau zu Menschenrechtsverletzungen in der Region Rojava (Cizire/Jazira)" - Einstimmig, 0 Enthaltungen
+- TOP 9.: Bürgerversammlung "Naherholungsgebiet Dreiländersee" - Einstimmig, 0 Enthaltungen
+- TOP 10.: Bezuschussung zum Mensa-Essen Hier: Verlängerung der Bezuschussung bis zum Ende der Vertragslaufzeit - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bereitstellung einer Übergangslösung für die Kita St. Marien durch die Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 12.: Übernahme von Investitionskosten für die Kita St. Agatha - Einstimmig, 0 Enthaltungen
+- TOP 13.: Förderung für Energiesparmodelle an Schulen - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bereitstellung von konsumtiven Mitteln für die Maßnahme "notwendige Erneuerung der Sicherheitsbeleuchtungsanlage für die Euregio Gesamtschule am Standort Gildehauser Damm 49" Hier: Feststellung der Unaufschiebbarkeit der Maßnahme gemäß §82 Abs. 1 Nr. 1 GO NW - Einstimmig, 0 Enthaltungen
+- TOP 15.: Hebesatzsatzung 2026 der Stadt Gronau (Westf.) - 27 Jastimmen, 14 Neinstimmen, 12 Enthaltungen
+- TOP 16.: Wirtschaftsplan 2026 der Zentralen Bau- und Umweltdienste - Einstimmig, 0 Enthaltungen
+- TOP 17.: Budgetbericht für das IV. Quartal 2025
+- TOP 18.: Anstieg der Einwohnerzahl und Auswirkungen auf das Aufgabenportfolio der Stadtverwaltung (hier: Überschreitung der 50.000er-Grenze) - Einstimmig, 0 Enthaltungen
+- TOP 19.: Eingruppierung der Wahlbeamtin und des Wahlbeamten der Stadt Gronau im Zusammenhang mit der über 50.000 gestiegenen Einwohnerzahl - Einstimmig, 0 Enthaltungen
+- TOP 20.: Wasser- und Bodenverband "Amtsvenngebiet" - Wahl der Mitglieder des Verbandsausschusses aus der Gruppe der Städte und Gemeinden - - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bestellung von Vertreterinnen und Vertretern in Organe, Beiräte juristischer Personen, Personenvereinigungen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 22.: Besetzung von Ausschüssen
+- TOP 23.: Bildung und Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 1 Enthaltungen
+- TOP 24.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 24.1: Neuer Geschäftsführer der Wohnbau- und Grundstücksgesellschaft
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 25.1: Eingang eines Antrages der Bürgerstiftung
+- TOP 25.2: Einladung an die Fraktionen zur Besichtigung von städtischen Liegenschaften
+- TOP 25.3: Aktueller Sachstand bzgl. der Unterbringung von obdachlosen Personen
+- TOP 25.4: Trägerschreiben des BAMF
+- TOP 26.: Anfragen
+- TOP 26.1: Sachstand Mobilstation in Epe (Anfrage v. RM Bieber)
+- TOP 26.2: Verkehrssituation Gildehauser Straße/Zum Lukas-Krankenhaus (Anfrage v. RM Meiser)
+- TOP 26.3: Gefahrenstelle Radweg Gildehauser Straße (Anfrage v. RM Bohn)
+- TOP 26.4: Turnhalle Eilermarkschule (Anfrage v. RM Bisso)
+- TOP 26.5: Lichtanlage Turnhalle Gasstraße (Anfrage v. RM Stenau-van Wüllen)
+- TOP 26.6: Baumfällungen (Anfrage v. RM Westermann)
