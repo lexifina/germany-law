@@ -1,0 +1,2 @@
+# § 41b Einsatz technischer Mittel gegen besatzungslose Luftfahrtsysteme
+Zur Abwehr einer Gefahr, die von besatzungslosen Luftfahrtsystemen ausgeht, kann der Polizeivollzugsdienst geeignete technische Mittel gegen das System, dessen Steuerungseinheit oder Steuerungsverbindung einsetzen, wenn die Abwehr der Gefahr durch andere Maßnahmen aussichtslos oder wesentlich erschwert wäre. Für Maßnahmen zur Abwehr der in Satz 1 bezeichneten Gefahr kann der Polizeivollzugsdienst technische Mittel zur Erkennung einer Gefahr einsetzen.

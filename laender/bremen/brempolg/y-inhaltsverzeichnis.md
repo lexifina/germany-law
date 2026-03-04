@@ -7,7 +7,7 @@ Erster Teil: Das Recht der Polizei
 § 3 | Grundsatz der Verhältnismäßigkeit
 § 4 | Ermessen, Wahl der Mittel
 § 5 | Verantwortlichkeit für das Verhalten von Personen
-§ 6 | Verantwortlichkeit für den Zustand von Sachen
+§ 6 | Verantwortlichkeit für Gefahren, die von Tieren oder dem Zustand von Sachen ausgehen
 § 7 | Inanspruchnahme nicht verantwortlicher Personen
 § 8 | Verantwortlichkeit nach anderen Vorschriften
 § 9 | Legitimations- und Kennzeichnungspflich
@@ -15,6 +15,9 @@ Erster Teil: Das Recht der Polizei
 § 10 | Allgemeine Befugnisse
 § 11 | Platzverweisung; Betretens- und Aufenthaltsverbot
 § 12 | Wohnungsverweisung und Rückkehrverbot zum Schutz vor häuslicher Gewalt
+§ 12a | Meldeauflage
+§ 12b | Gefährderansprache, Gefährdetenansprache
+§ 12c | Elektronische Aufenthaltsüberwachung
 § 13 | Gewahrsam
 § 14 | Richterliche Entscheidung
 § 15 | Rechte bei Freiheitsentziehungen
@@ -27,6 +30,7 @@ Erster Teil: Das Recht der Polizei
 § 22 | Durchführung der Sicherstellung
 § 23 | Verwertung, Einziehung, Vernichtung
 § 24 | Herausgabe sichergestellter Sachen oder des Erlöses
+§ 24a | Wegfall des Vorverfahrens in bestimmten Fällen
 3. Abschnitt: Allgemeine Bestimmungen zur Verarbeitung personenbezogener Daten
 1. Unterabschnitt: Datenerhebung
 § 25 | Grundsätze
@@ -37,25 +41,27 @@ Erster Teil: Das Recht der Polizei
 § 30 | Vorladung
 § 31 | Befragung und Auskunftspflicht
 § 32 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen sowie an besonders gefährdeten Objekten, Orten und Anlagen
-§ 33 | Datenverarbeitung durch den Einsatz körpernah getragener oder an polizeilich genutzten Fahrzeugen befestigter Aufnahmegeräte
+§ 33 | Datenverarbeitung durch den Einsatz körpernah getragener oder an polizeilich genutzten Fahrzeugen befestigter Aufzeichnungsgeräte
 § 34 | Datenerhebung innerhalb von polizeilich genutzten Räumen und Fahrzeugen
 2. Unterabschnitt: Besondere Mittel und Methoden der Datenerhebung
 § 35 | Datenerhebung mit besonderen Mitteln und Methoden
 § 36 | Schutz des Kernbereichs privater Lebensgestaltung
-§ 37 | Schutz von Berufsgeheimnisträgern
+§ 37 | Schutz von Berufsgeheimnisträgerinnen und Berufsgeheimnisträgern
 § 38 | Parlamentarische Kontrolle; Berichtspflicht
 § 39 | Polizeiliche Beobachtung
 § 40 | Datenerhebung durch Observation
 § 41 | Datenerhebung durch den verdeckten Einsatz technischer Mittel
+§ 41a | Datenerhebung durch den Einsatz von besatzungslosen Luftfahrtsystemen
+§ 41b | Einsatz technischer Mittel gegen besatzungslose Luftfahrtsysteme
 § 42 | Telekommunikationsüberwachung und Eingriff in die Telekommunikation
 § 43 | Verkehrsdatenerhebung, Nutzungsdatenerhebung und Standortermittlung
 § 44 | Bestandsdatenerhebung
 § 45 | Anordnung von Telekommunikationsmaßnahmen
 § 46 | Datenerhebung durch Vertrauenspersonen
 § 47 | Datenerhebung durch den Einsatz verdeckt ermittelnder Personen
+3. Unterabschnitt: Weiterverarbeitung
 § 48 | Datenabgleich
 § 49 | Datenabgleich mit anderen Dateien
-3. Unterabschnitt: Weiterverarbeitung
 § 50 | Datenweiterverarbeitung; Zweckbindung; Zweckänderung
 § 51 | Weiterverarbeitung zu besonderen Zwecken
 § 52 | Kennzeichnung
@@ -63,6 +69,7 @@ Erster Teil: Das Recht der Polizei
 § 53 | Allgemeine Voraussetzungen der Datenübermittlung
 § 54 | Automatisiertes Abrufverfahren; Datenverbund
 § 55 | Datenübermittlung im Inland und innerhalb der Europäischen Union
+§ 55a | Informationsaustausch zwischen Mitgliedstaaten der Europäischen Union und Schengen-assoziierten Staaten gemäß der Richtlinie (EU) 2023/977
 § 56 | Bereitstellung von Daten an Kontrollgremien
 § 57 | Übermittlung von Daten durch nicht öffentliche Stellen an den Polizeivollzugsdienst
 5. Unterabschnitt: Berichtigung, Löschung und Einschränkung der Datenverarbeitung
@@ -73,6 +80,7 @@ Erster Teil: Das Recht der Polizei
 § 60 | Grundsätze der Datenverarbeitung
 § 61 | Verarbeitung besonderer Kategorien personenbezogener Daten
 § 62 | Profiling; automatisierte Einzelentscheidung
+§ 62a | Einwilligung
 § 63 | Anforderungen an die Sicherheit der Datenverarbeitung
 § 64 | Meldung von Verletzungen des Schutzes personenbezogener Daten an die Landesbeauftragte oder den Landesbeauftragten für Datenschutz und Informationsfreiheit
 § 65 | Unterrichtung der betroffenen Person bei Verletzungen des Schutzes personenbezogener Daten
@@ -141,8 +149,8 @@ Erster Teil: Das Recht der Polizei
 § 118 | Schadensausgleich bei Vermögensschäden und bei Freiheitsentziehung
 § 119 | Schadensausgleich bei Gesundheitsschäden
 § 120 | Verjährung des Ausgleichsanspruchs
-§ 121 | Ausgleichspflichtiger; Erstattungsansprüche
-§ 122 | Rückgriff gegen den Verantwortlichen
+§ 121 | Ausgleichspflichtige; Erstattungsansprüche
+§ 122 | Rückgriff gegen Verantwortliche
 § 123 | Rechtsweg
 2. Teil: Organisation der Polizei
 1. Abschnitt: Polizeihoheit und Aufgabenverteilung
@@ -154,12 +162,12 @@ Erster Teil: Das Recht der Polizei
 § 128 | Gliederung der allgemeinen Polizeibehörden
 § 129 | Kommunaler Ordnungsdienst
 § 130 | Aufsicht über die Polizeibehörden
-3. Abschnitt: Polizeivollzugsdienst
 § 131 | Weisungsrecht, Selbsteintritt, Unterrichtungspflicht
+3. Abschnitt: Polizeivollzugsdienst
 § 132 | Polizeivollzugsdienst des Landes
 § 133 | Aufgaben der Polizei Bremen
 § 134 | Aufgaben des Landeskriminalamts
-§ 135 | Vollzugspolizeiliche Aufgaben des Senators für Inneres und Sport
+§ 135 | Vollzugspolizeiliche Aufgaben der Senatorin oder des Senators für Inneres und Sport
 § 136 | Polizeivollzugsdienst der Stadtgemeinde Bremerhaven
 § 137 | Unterstützung und gemeinsamer Einsatz
 § 138 | Hilfspolizeibeamtinnen und Hilfspolizeibeamte
@@ -172,12 +180,17 @@ Erster Teil: Das Recht der Polizei
 § 144 | Amtshandlungen von bremischen Polizeivollzugsbeamtinnen und Polizeivoll-zugsbeamten außerhalb des Zuständigkeitsbereichs des Landes Bremen
 5. Abschnitt: Zuverlässigkeitsüberprüfung
 § 145 | Zuverlässigkeitsüberprüfungen bei Behörden des Polizeivollzugsdienstes
+§ 145a | Zuverlässigkeitsüberprüfungen bei Ortspolizeibehörden
+§ 145b | Sicherungsüberprüfungen für Liegenschaften des Polizeivollzugsdienstes und der Senatorin oder des Senators für Inneres und Sport
 Dritter Teil:Die Kosten der Polizei
 § 146 | Kosten
-Vierter Teil:Übergangs- und Schlussbestimmungen
+Vierter Teil: Straf- und Bußgeldvorschriften
+§ 146a | Strafvorschrift
+§ 146b | Ordnungswidrigkeit
+Fünfter Teil:Übergangs- und Schlussbestimmungen
 § 147 | Überleitung der Zuständigkeiten
 § 148 | Weitergeltung von Polizeiverordnungen und anderen Rechtsvorschriften
-§ 149 | Anwendung unmittelbaren Zwanges durch Nichtpolizeibehörden
+§ 149 | Anwendung unmittelbaren Zwanges durch andere Behörden
 § 150 | Evaluation
 § 151 | Einschränkung von Grundrechten
-§ 152 | Inkrafttreten; Außerkrafttreten
+§ 152 | Außerkrafttreten
