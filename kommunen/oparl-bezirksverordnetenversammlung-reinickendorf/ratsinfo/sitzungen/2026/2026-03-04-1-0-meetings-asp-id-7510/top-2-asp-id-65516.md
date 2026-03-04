@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung von Niederschriften
+
+- Sitzung: teilöffentliche Sitzung des Ausschusses für Haushalt, Gender Budgeting, Personal und Liegenschaften (2026-03-04)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=65516
+- Ergebnis: im Ausschuss abgelehnt
