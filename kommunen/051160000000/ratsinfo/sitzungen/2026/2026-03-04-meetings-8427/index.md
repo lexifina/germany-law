@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-03-04T16:00:00+01:00
+- Ende: 2026-03-04T18:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8427
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8427
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00262777.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00262777.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00262777.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 17.12.2025 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: 32. Nachtrag zur Hauptsatzung der Stadt Mönchengladbach; hier: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 S. 1 GO NRW - Einstimmiger Beschluss
+- TOP 2.1: Zu 453/XI: Änderungsantrag zur Nutzung von RatsTV-Aufzeichnungen: hier: Fraktionsantrag der AfD-Ratsfraktion vom 03.03.2026 - Mit Stimmengleichheit abgelehnt
+- TOP 3: Beanstandung der Wahlen zum Aufsichtsrat der Wirtschaftsförderung Mönchengladbach unter TOP 15 der Ratssitzung vom 05.11.2025 - Kenntnisnahme
+- TOP 3.1: Neuwahl von Mitglieder für den Aufsichtsrat der Wirtschaftsförderung Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 4: Besetzung der Verbandsversammlung des Zweckverbands StudienInstitut Niederrhein - Einstimmiger Beschluss
+- TOP 5: Mitgliederversammlung des Städtetages Nordrhein-Westfalen vom 9. bis 10. Juni 2026 in Oberhausen - Gewählt nach Hare Niemeyer
+- TOP 6: Aufstellung von Nebentätigkeiten des Oberbürgermeisters gemäß § 8 Korruptionsbekämpfungsgesetz - Kenntnisnahme
+- TOP 7: Überörtliche Prüfung gpa NRW - Gesamtbericht - der Stadt Mönchengladbach 2024/2025 sowie der Zusammenstellung der Feststellungen und Empfehlungen der gpa NR - Einstimmiger Beschluss
+- TOP 8: Fünfter Nachtrag zur Anstaltssatzung der "mags Mönchengladbacher Abfall-, Grün- und Straßenbetriebe" - Anstalt des öffentlichen Rechtes (mags AöR) - Einstimmiger Beschluss
+- TOP 9: Beteiligung der NEW Kommunalholding GmbH über die NEW AG hier: Änderung des Gesellschaftsvertrages der Wasserlabor Niederrhein GmbH - Einstimmiger Beschluss
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (5. Nachweisung) - Kenntnisnahme
+- TOP 11: Bescheid nach dem Altschuldenentlastungsgesetz (ASEG NRW) - Kenntnisnahme
+- TOP 12: Fortschreibung des Brandschutzbedarfsplans 2025 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 13: Gültigkeit der Kommunalwahlen am 14.09.2025 sowie die Stichwahl zur Wahl des Oberbürgermeisters am 28.09.2025 gem. § 40 Kommunalwahlgesetz (KWahlG) i.V. m. § 66 Kommunalwahlordnung (KWahlO) - Einstimmiger Beschluss
+- TOP 14: Gültigkeit der Wahl der Mitglieder des Integrationsrates der Stadt Mönchengladbach am 14.09.2025 gem. § 21 der Wahlordnung für die Wahl der Mitglieder f - Einstimmiger Beschluss
+- TOP 15: Wiederwahl des Schiedsmannsfür den Schiedsamtsbezirk Mönchengladbach-Ost 1 - Einstimmiger Beschluss
+- TOP 16: Umsetzung des Rechtsanspruchs auf ganztägige Förderung in der Primarstufe ab dem Schuljahr 2026/27 - Einstimmiger Beschluss
+- TOP 17: Erklärung der Stadt Mönchengladbach zum Abschluss einer Schiedsvereinbarung ("stehendes Angebot") zur Rückgabe von NS-Raubgut aus öffentlichen Sammlungen - Einstimmiger Beschluss
+- TOP 18: Verlängerung der Sockelbetragsfinanzierung der Verbände der Freien Wohlfahrtspflege - Mit Stimmenmehrheit beschlossen
+- TOP 19: Gewährung einer zweckgebundenen Zuwendung an die Jüdische Gemeinde Mönchengladbach - Einstimmiger Beschluss
+- TOP 20: Zuwendungsgewährung an den Sozialdienst kath. Frauen e. V. Mönchengladbach über die Erbringung von Leistungen im Aufgabengebiet der Adoption und Adoptionsvermittlung/Dauerpflege - Einstimmiger Beschluss
+- TOP 21: Kindergartenbedarfsplanung für das Kindergartenjahr 2026/2027 - Einstimmiger Beschluss
+- TOP 22: Änderung der Geschäftsordnung des Seniorenrates - Kenntnisnahme
+- TOP 23: Verbesserung der Attraktivität des Carsharing Angebotes in Mönchengladbach: Erteilung von anbieterbezogenen Ausnahmegenehmigungen für das kostenlose Parken - Einstimmiger Beschluss
+- TOP 24: Ersatzwahl für ein vorzeitig ausgeschiedenes Mitglied der Verbandsversammlung des Niersverbandes. - Einstimmiger Beschluss
+- TOP 25: Nachhaltig wirtschaften – kommunale Aufträge nach klaren Qualitätskriterien - Fraktionsantrag Bündnis 90 Die Grünen vom 22.01.26 - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Anpassung/Neufassung einer Regelung zur Genehmigung von Sondernutzungen für den Bereich Gastronomie - Einstimmiger Beschluss
+- TOP 27: Schaffung eines Schienenhaltepunkts im Gewerbegebiet Güdderath - Einstimmiger Beschluss
+- TOP 28: Resolution des Rates der Stadt Mönchengladbach "Gegen den Bau eines Abschiebegefängnisses in Mönchengladbach" - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Resolution des Rates der Stadt Mönchengladbach „Für den Bau eines Abschiebegefängnisses in Mönchengladbach; hier: Fraktionsantrag der AfD-Ratsfraktion vom 20.02.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Dauerhafte Beflaggung öffentlicher Gebäude der Stadt Mönchengladbach mit der Bundesflagge; hier: Fraktionsantrag der AfD-Ratsfraktion vom 23.02.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Umbesetzungsantrag; hier: Fraktionsantrag der Fraktion FDP / VOLT vom 05.02.2026 - Einstimmiger Beschluss
+- TOP 32: Umbesetzung von Gremien; hier: Fraktionsantrag der SPD-Fraktion vom 11.02.2026 - Einstimmiger Beschluss
+- TOP 33: Umbesetzung im Aufsichtsrat der Kreisbau AG; hier: Fraktionstrag der CDU-Ratsfraktion vom 19.02.2026 - Einstimmiger Beschluss
+- TOP 34: Anfragen und Mitteilungen
+- TOP 34.1: Anfrage RH Immel (AfD)
+- TOP 34.2: Anfrage RH Immel (AfD)
+- TOP 34.3: Anfrage RH Holmes (AfD)
+- TOP 34.4: Anfrage RH Holmes (AfD)
+- TOP 34.5: Anfrage RF Walker (AfD)
+- TOP 34.6: Anfrage RF Walker (AfD)
+- TOP 34.7: Anfrage RH Giebels (AfD)
+- TOP 34.8: Anfrage RH Giebels (AfD)
+- TOP 34.9: Anfrage RF Gehrig (AfD)
+- TOP 34.10: Anfrage RF Gehrig (AfD)
+- TOP 34.11: Anfrage RH Karl (AfD)
+- TOP 34.12: Anfrage RH Karl (AfD)
+- TOP 34.13: Anfrage RH Hexgen (AfD)
+- TOP 34.14: Anfrage RH Hexgen(AfD)
+- TOP 34.15: Anfrage RH Saval (AfD)
+- TOP 34.16: Anfrage RH Saval (AfD)
+- TOP 34.17: Anfrage RH Spinnen (CDU)
+- TOP 34.18: Anfrage RH Dr. Wolkowski (BÜNDNIS 90 / DIE GRÜNEN)
+- TOP 34.19: Anfrage RH Dr. Wolkowski (BÜNDNIS 90 / DIE GRÜNEN)
+- TOP 34.20: Mitteilung Oberbürgermeister Heinrichs
+- TOP 34.21: Persönliche Erklärung BM Heinen (CDU)
+- TOP 34.22: Persönliche Erklärung RH Immel (AfD)
