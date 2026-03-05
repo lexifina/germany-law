@@ -1,0 +1,60 @@
+# 3. Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-05T16:00:00+01:00
+- Ende: 2026-03-05T16:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34340
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34340
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Vortrag/Präsentation
+- TOP -: C Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr. "Osterkirmes 2025 im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Ratsgruppe KLIMA FREUNDE & GUT zur Osterkirmes am Rodenkirchener Rheinufer - Kenntnis genommen
+- TOP 1.2: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr. "Herbstkirmes im Landschaftsschutzgebiet „Rodenkirchener Rheinufer“ - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Ratsgruppe KLIMA FREUNDE & GUT bezüglich des Feuerwerks im Rahmen der Herbstkirmes am Rodenkirchener Rheinufer (AN/0620/2025) - Kenntnis genommen
+- TOP 1.3: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr. "Zukunft des Kleingärtnervereins Köln Süd e.V." - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage (AN/0781/2025) - Zukunft des Kleingärtenvereins Köln Süd e.V. - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Die Linke betr. "Lichtverschmutzung reduzieren" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 15.05.2025 betr. "Lichtverschmutzung reduzieren" (AN/0575/2025) - Kenntnis genommen
+- TOP 1.5: Anfrage der Fraktion Die Linke betr. „Wasser muss zum Baum“ - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 22.01.2026 (AN/0090/2026) betreffend "Wasser muss zum Baum" - vertagt
+- TOP 1.6: Anfrage der SPD-Fraktion betr. "Verwendung Kölner Stadtholz" - vertagt
+- TOP 1.7: Anfrage der Fraktion Die Linke betr. Umsetzung des Ratsbeschlusses: „Verankerung des Ziels der gesamtstädtischen Klimaneutralität in Köln bis 2035" - vertagt
+- TOP 1.8: Anfrage der Fraktion Die Linke, betr. "Koloniales Erbe des Botanischen Gartens der Stadt Köln" - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 05.03.2026 (AN/0252/2026) betreffend "Koloniales Erbe des Botanischen Gartens der Stadt Köln" - vertagt
+- TOP 1.9: Anfrage der Fraktion FDP/KSG betr. "Optimierung der Weihnachtsbaumabholung" - Kenntnis genommen
+- TOP 1.10: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Einsatz von Pferden im Karneval 2026" - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Grünen aus der Sitzung Klima, Umwelt und Grün (AN/0331/2026) betr. "Einsatz von Pferden im Karneval 2026" - vertagt
+- TOP 1.11: Anfrage der CDU-Fraktion betr. "Sachstand zur Umsetzung der Maßnahmen des Masterplans Sauberkeit" - Kenntnis genommen
+- TOP 1.12: Anfrage der CDU-Fraktion betr. "Sachstand zur Umsetzung eines stadtweiten Entsiegelungskatasters" - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 05.03.2026 (AN/0330/2026) betreffend "Umsetzung eines stadtweiten Entsiegelungskatasters" - vertagt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt betr. "Abpflastern: Teilnahme am bundesweiten Wettbewerb für ein grünes Köln" - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - vertagt
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Aufstellungsbeschluss zur 14. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebietes N 25 "Auf dem Dreißiger" - ungeändert beschlossen
+- TOP 4.1.2: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Klimaschutz-Monitoring, hier: Neuveröffentlichung der Treibhausgas-Bilanzen der Bilanzjahre 2022 und 2023 - Kenntnis genommen
+- TOP 7.2: Stadtradeln 2026 - Kenntnis genommen
+- TOP 7.3: Kompensationszahlung für Flugreisen 2025 - Kenntnis genommen
+- TOP 7.4: Das Kölner Energiemobil als Informations- und Beratungsangebot in Rodenkirchen - Kenntnis genommen
+- TOP 7.5: Fünfter Sachstandsbericht "Essbare Stadt" - Kenntnis genommen
+- TOP 7.6: Bericht zur Abwicklung des Großmarktbetriebes - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 22.01.2026 betreffend "Nachfragen zur Beantwortung - Mitteilung zum Flughafen (AN/0616/2025)" (1706/2025) - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
