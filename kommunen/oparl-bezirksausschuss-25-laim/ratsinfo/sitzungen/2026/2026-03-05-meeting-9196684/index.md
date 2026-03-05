@@ -1,0 +1,122 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2026-03-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9196684
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9196684
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.3: Fragen an die Polizei
+- TOP 2: Anträge
+- TOP 2.1.: Familien- und Ferienpässen für Einrichtungen im Stadtbezirk Laim
+- TOP 2.2.: Antrag auf Genehmigung der zu erwartenden Kosten für 1 Konzert mit zwei Kinderchören mit dem Thema: Frühjahrsansingen
+- TOP 2.3.: Anfrage: Wohnraumentnahme Guido-Schneble-Straße 85 Abbruch eines bestehenden Mehrfamilienhauses im Jahr 2021
+- TOP 2.4.: Nachbarschaftstage für haushaltsnahe Sperrmüll-Abgabe
+- TOP 2.5.: Hundekottütenspender im Stadtbezirk Laim – insbesondere am Willibaldplatz
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Laimer Maibaumfreunde e. V. Maifest 2026 am 01.05.2026 5.400,00 €; Az. 0262.100-25-0395 (UA Kultur)
+- TOP 3.2.: (E) Stadtbezirksbudget Pfarrjugend Fronleichnam Neues Küchenzelt für unser jährliches Zeltlager, dieses Jahr vom 01.08. - 10.08.2026 1.068,93 €; Az. 0262.100-25-0396
+- TOP 3.3.: (E) Bestmöglicher Erhalt der Grünflächen bei Neubauvorhaben
+- TOP 3.4.: (E) Sammelbeschluss - offene Bezirksausschussangelegenheiten des 25. Stadtbezirkes Laim
+- TOP 3.5.: (E) Angebot öffentlicher Eislaufzeiten am Wochenende im Eisstadion West...
+- TOP 3.6.: (E) Aufstellung einer Wertstoffinsel in der Friedenheimer Straße
+- TOP 3.7.: (E) Seniorenresidenz am Westpark
+- TOP 3.8.: (E) Mehr Bäume und Grünflächen in Laim
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 28.01.26: Veranstaltung in städtischer Grünanlage: Familienflohmärkte Drachenei e.V. am 09.05.2026 (Ersatztermin: 16.05.2026) sowie 26.09.2026 (Ersatztermin: 10.10.2026) auf dem Hogenbergplatz (Frist: 30.03.26)
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 10.02.26: Veranstaltung im Freien in städtischer Grünanlage; Hier: Weißenfelderplatz, Flohmärkte (Frühjahr+Herbst) des "Die Bärchen" unabhängige Eltern-Kind-Initiative e.V. mit Abgabe von Speisen und alkoholfreien Getränken am 19.4.26 + 13.9.26 (ohne Ersatztermin)
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.02.26: Neuburgerstr. 8, Nachtrag in die Denkmalliste (Frist: 17.04.26)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Friedrich-von-Pauli-Str. 15, 8284/0-Sektion V Nutzungsänderung Halle 6 - Lagerhalle zu Gewerbebetrieb (Brief Zustellstützpunkt) (Frist: 13.03.26)
+- TOP 5.2.: Schrobenhausener Str. 26, 402/19-Laim Neubau eines Mehrfamilienhauses - mit Mobilitätskonzept (Frist: 09.03.26)
+- TOP 5.3.: Weichselbaumerstr. 18, 342/32-Laim Neubau Wohnhaus 4 WE - VORBESCHEID (Frist 13.03.26)
+- TOP 5.4.: Von-der-Pfordten-Str. 11, Grundstück 231/29-Laim Neubau eines Mehrfamilienhauses und Tiefgarage - VORBESCHEID (Frist 18.03.26)
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Bezirksausschuss 17 Obergiesing-Fasangarten vom 20.01.26: Finanzielle Unterstützung und Einrichtung von Taubenhäusern
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur vom 15.01.26
+- TOP 7.2.: Protokoll UA Bau vom 29.01.26
+- TOP 7.3.: Protokoll UA Bildung und Gesundheit vom 02.02.26
+- TOP 7.4.: Protokoll BA-Sitzung vom 05.02.26
+- TOP 7.5.: Protokoll UA Umwelt, Klima und Baumschutz vom 05.02.26
+- TOP 7.6.: Protokoll UA Mobilität vom 10.02.26
+- TOP 8: Umlauf
+- TOP 8.1.: Bautenliste 12.01. – 18.01.26 A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Weichselbaumerstr. 18
+- TOP 8.2.: Bautenliste 19.01. – 25.01.26 A) Erstantragsverfahren 1. Friedrich-von-Pauli-Str. 15
+- TOP 8.4.: Bautenliste 02.02.-08.02.26: A) Erstantragsverfahren 1. Camerloherstr. 34 2. Landsberger Str. 185 3. Schrottstr. 9
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.01.26: Fällungsantrag Lutzstr. 3-7, Landsberger Str. 307-309
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.01.26: Fällungsantrag Willibaldstr. 3-3b
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.02.26: Fällungsantrag Camerloherstr. 125
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.02.26: Fällungsantrag Schäufeleinstr. 1
+- TOP 8.9.: Antwortschreiben Referat für Klima- und Umweltschutz vom 09.02.26: Abfalllagerung Camerloherstraße
+- TOP 8.10.: Schreiben Referat für Klima und Umweltschutz vom 09.02.26: Erweiterung des Mobilfunkstandortes mit der Standortbescheinigung (STOB) Nr. 530288
+- TOP 8.11.: Antwortschreiben Oberbürgermeister vom 05.02.26: Ermäßigtes Deutschlandticket
+- TOP 8.12.: Schreiben Direktorium vom 02.02.26: Verwendungsnachweis
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 20.01.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 6.3 TramWestTangente
+- TOP 8.14.: Antwortschreiben Mobilitätsreferat vom 20.01.26: Getrennter Fuß- und Radweg in der Laimer Unterführung
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 23.01.26: Arbeiten im Straßenraum; Wotanstraße zwischen Herthastraße und Gaßnerstraße Bauphase 2.7.2 – Gaßnerstraße bis Walhallastraße Bauphase 2.8 – Gaßnerstraße bis Walhallastraße Bauphase 2.7 – Walhallastraße bis Laimer Kreisel TramWestTangente
+- TOP 8.16.: Antwortschreiben Mobilitätsreferat vom 26.01.26: Parksituation Fürstenrieder Straße
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 27.01.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 6.3 TramWestTangente Anpassung
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 29.01.26: Arbeiten im Straßenraum; Gotthardstr. 100 m östlich Von-der-Pfordten-Str. bis Fischer-von-Erlach-Str., Mitterfeldstr., Fischer-von-Erlach-Str., sowie die Einmündungsbereiche Von-der-Pfordten-Str., Stöberlstr., Sroblstr., Agricolastr., Geyerspergerstr., Reutterstr., Genovevaweg und Willibaldstr. Verlängerung der U5 nach Pasing (Los 1) - Hauptbaumaßnahme Bauphase 400 Ost und West (ersetzt U 04310/25)
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 29.01.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße; Bph. 6.4 AIN Knoten, Bph. 6.4.2, CAM 6.6 TramWestTangente 2. Änderung
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 30.01.26: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2.1 mit Camerloherstr. Bauphase 6.6 TramWestTangente Änderung
+- TOP 8.21.: Antwortschreiben Mobilitätsreferat vom 02.02.26: Ahndung Gehwegparken Camerloherstraße
+- TOP 8.22.: Antwortschreiben Mobilitätsreferat vom 02.02.26: Parksituation Rilkestraße
+- TOP 8.23.: Schreiben Mobilitätsreferat vom 03.02.36: Arbeiten im Straßenraum; Gotthardstr. 100 m östlich Von-der-Pfordten-Str. bis Fischer-von-Erlach-Str., Mitterfeldstr., Fischer-von-Erlach-Str., sowie die Einmündungsbereiche Von-der-Pfordten-Str., Stöberlstr., Sroblstr., Agricolastr., Geyerspergerstr., Reutterstr., Genovevaweg und Willibaldstr. 1. Zwischenphase zu Bauphase 400 (U 00188/26); Reutterstraße nördlich Gotthardstraße; Kanalarbeiten (Vollsperre Reutterstraße)
+- TOP 8.24.: Schreiben Mobilitätsreferat vom 03.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.9 TramWestTangente 2. Änderung
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 04.02.26: Einrichtung eines absoluten Haltverbots in der Friedenheimer Straße (Westseite) zwischen Landsberger Straße und Veit-Stoß-Straße zur Verbesserung des Linienverkehrs der Buslinien 130 und 157
+- TOP 8.26.: Antwortschreiben Mobilitätsreferat vom 05.02.26: Rollerchaos Landsberger Straße
+- TOP 8.27.: Antwortschreiben Mobilitätsreferat vom 05.02.26: Parklizenzgebiete in Laim
+- TOP 8.28.: Schreiben Mobilitätsreferat vom 09.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 6.3 mit Leibnizstraße Bauphase 6.5 TramWestTangente
+- TOP 8.29.: Schreiben Mobilitätsreferat vom 09.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße Bereich Saherstraße bis Hohenwarterstraße Bph. 6.5 AIN Knoten, Bph. 6.5, CAM 6.6 TramWestTangente
+- TOP 8.30.: Schreiben Mobilitätsreferat vom 09.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2.1 mit Camerloherstr. Bauphase 6.7 TramWestTangente
+- TOP 8.31.: Antwortschreiben Mobilitätsreferat vom 11.02.26: Neue Einbahnstraße in Laim
+- TOP 8.32.: Schreiben Mobilitätsreferat vom 11.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.10, Verlegung Geh-/Radweg ABS Nordost TramWestTangente
+- TOP 8.33.: Schreiben Mobilitätsreferat vom 12.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Agnes-Bernauer-Straße - Bauphase 6.11, Baufelder T3 im Südwesten, Verlegung Fahrspuren von Süden, TramWestTangente
+- TOP 8.34.: Schreiben Mobilitätsreferat vom 12.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.) Gotthardstraße Bauphase 7.2.1 mit Camerloherstr. Bauphase 6.7, Änderung Verlegung Fahrspur von Süden, Detailausschnitt „Fahrbahnverschwenkung“, TramWestTangente
+- TOP 8.35.: Schreiben Mobilitätsreferat vom 12.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße Bereich Gotthardstraße (Hohenwarter Str. bis Hogenbergstr.), BA II GOT BP 7.2.3 CAM BP 7.0/ HOG BP 6.3 TramWestTangente Änderung
+- TOP 8.36.: Schreiben Mobilitätsreferat vom 12.02.26: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Ammerseestraße und Landsberger Straße, Bereich Ammerseestraße Bauphase 6.3 Änderung Baufeld an Haltestelle nördlich der Kreuzung vergrößern, TramWestTangente
+- TOP 8.37.: Antwortschreiben Mobilitätsreferat vom 12.02.26: Parküberwachung in Laim
+- TOP 8.38.: Antwortschreiben Mobilitätsreferat vom 16.02.26: Prüfung der Parksituation in der Veit-Stoß-Straße
+- TOP 8.39.: Antwortschreiben Baureferat vom 21.01.26: Beleuchtung am U-Bahnhof Friedenheimer Straße
+- TOP 8.40.: Schreiben Baureferat vom 02.02.26: Fahrbahnschäden Guido-Schneble-Str.
+- TOP 8.41.: Schreiben Referat für Bildung und Sport vom 20.01.26: Präsentation zur Vorstellung des Bildungscampus Westpark
+- TOP 8.42.: Antwortschreiben Kreisverwaltungsreferat, Polizeiinspektion 41 Laim und Gesundheitsreferat vom 27.01.26 bzw. 29.01.26: Taubenproblem Westendstraße/Zschokkestraße
+- TOP 8.43.: Schreiben Stadtwerke München vom 21.01.26: Fahrleitungsarbeiten für die Tram-Westtangente (Bereich: Ammersee-/Fürstenrieder Straße)
+- TOP 8.44.: Schreiben Stadtwerke München vom 23.01.26: Verkehrsumlegung im Bereich Ammerseestraße / Brücke A96 im Zuge der Bauarbeiten der Tram-Westtangente
+- TOP 8.45.: Schreiben Stadtwerke München vom 29.01.26: Baumaßnahmen
+- TOP 8.46.: Schreiben Stadtwerke München vom 10.02.26: Baumaßnahmen
+- TOP 8.47.: Antwortschreiben Abfallwirtschaftsbetrieb München vom 26.01.26: Wertstoffinsel Hogenbergplatz/Valpichlerstraße
+- TOP 8.48.: Schreiben Abfallwirtschaftsbetrieb München vom 06.02.26: Sachstand bezüglich des Wertstoffcontainers in der Friedenheimer Straße
+- TOP 8.49.: Antwortschreiben Polizeiinspektion 41 Laim vom 26.01.26: Fahrraddiebstähle am Laimer Platz
+- TOP 8.50.: Schreiben Sozialreferat vom 11.02.26: AKIM Bericht 1. Jahreshälfte 2026
+- TOP 8.51.: Beschluss des Bauausschusses vom 10.02.26: (U) Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing Oberflächenwiederherstellung der Gotthardstraße zwischen östlichem Bauende und Genovevaweg im 25. Stadtbezirk Laim 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 8.52.: Beschluss der Vollversammlung des Stadtrates vom 26.11.25: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 8.53.: Beschluss der Vollversammlung des Stadtrates vom 17.12.25: Mehrjahresinvestitionsprogramm (MIP) 2025 - 2029 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.54.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.26: Gewerbeflächenentwicklungsprogramm
+- TOP 8.55.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.26: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP 8.56.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.26: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Einkaufswagen und Altkleidercontainer Burgkmairstraße, Hans-Thonauer-Straße und Fachnerstraße (Weiterleitung Baureferat, AWM und Schreiben an Supermärkte)
+- TOP 9.2.: Verkehrssicherheit Vohburger Straße/Agnes-Bernauer-Straße (Weiterleitung an Mobilitätsreferat und Baureferat)
+- TOP 9.3.: Gehwegparken Heinrich-Goebel-Straße (Weiterleitung Mobilitätsreferat)
+- TOP 9.4.: Kurzzeitparken Fürstenrieder Straße (Weiterleitung an PI 41)
+- TOP 9.5.: Abgestellte Anhänger Saherrstraße (Weiterleitung an PI 41)
+- TOP 9.6.: Parksituation in der Friedenheimer Straße (Antwort an Bürger*in mit Abdruck an Mobilitätsreferat)
+- TOP 9.7.: Sicherheitsgefährdung und massive Verschmutzung am Spielplatz Von-der-Pfordten-Str. / Valpichlerstr. (Weiterleitung an Baureferat)
+- TOP 9.8.: Park- und Verkehrssituation Geyerspergerstraße (Antwort an Bürger*in und Weiterleitung an Mobilitätsreferat)
+- TOP 9.9.: Abgestellte Leihfahrzeuge (Vertagung in UA Mobilität)
+- TOP 9.10.: Bürgeranliegen und Antwortschreiben Kreisverwaltungsreferat, Polizeiinspektion 41 Laim, Gesundheitsreferat vom 27.01.26 bzw. 29.01.26 und vom Baureferat am 20.02.26: Taubenfütterung im Kreuzungsbereich Burgkmairstraße/Hans-Thonauer-Straße/Fachnerstraße (Antwort an Bürger*in)
+- TOP 9.11.: Dringender Handlungsbedarf: Kreuzung Friedenheimer Straße/Schäufeleinstraße (Vertagung in UA Mobilität)
+- TOP 9.12.: Agricolastraße Bereich Agnes-Bernauerstrasse/ Valpicherlstraße Antrag zur Erneuerung der Fahrbahndecke (Weiterleitung an Baureferat und Info an Bürger*in)
+- TOP 9.13.: Baumfällung im Käthe-Bauer-Weg auf Höhe der Einmündung der Leibnizstr. (Vertagung in den UA Umwelt, Klima und Baumschutz)
+- TOP 8.3.: Bautenliste 26.01.-01.02.26: A) Erstantragsverfahren 1. Landsberger Str. 180 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Meister-Mathis-Weg 6 2. Von-der-Pfordten-Str. 11
