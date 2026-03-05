@@ -1,0 +1,6 @@
+# TOP 3: Kommunaler Klimaschutz
+
+- Sitzung: 3. Sitzung des Ausschusses Klima, Umwelt und Grün (2026-03-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/434933
