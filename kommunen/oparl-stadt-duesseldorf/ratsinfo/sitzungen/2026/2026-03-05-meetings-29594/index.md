@@ -1,0 +1,54 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-05T18:00:00+01:00
+- Ende: 2026-03-05T20:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29594
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29594
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 05.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00579509.pdf
+- Ergebnisprotokoll: NachtragsTO vom 05.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00579509.pdf
+- Wortprotokoll: NachtragsTO vom 05.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00579509.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 29.01.2026 - einstimmig beschlossen
+- TOP 4: Sachstandsbericht Pilotprojekt "Revitalisierung der Wochenmärkte" (Bericht der Verwaltung)
+- TOP 5: Bericht und Jahresausblick zum Zentrenmanagement Gumbertstraße (Bericht der Verwaltung)
+- TOP 6: Glasfaserausbau in Unterbach (Projektvorstellung der Deutschen Telekom)
+- TOP 7: Vorstellung des Vereins "Frauen Leben Freiheit Düsseldorf e. V."
+- TOP 8: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses: „Errichtung einer Traglufthalle (Dreifachsporthalle) an der Heidelberger Straße 4 als Interim zur Aufrechterhaltung des Schulsports der Dieter-Forte-Gesamtschule“ - Empfehlung einstimmig beschlossen
+- TOP 9: Gertrudisplatz – Bau einer Durchfahrsperre mit Hubpollern - einstimmig beschlossen
+- TOP 10: Kooperatives Werkstattverfahren Nr. 08/003 - Dillenburger Weg/Waagenstraße - Empfehlung einstimmig beschlossen
+- TOP 11: Wahl einer Schiedsperson für den Schiedsamtsbezirk 17 -Vennhausen,Unterbach und In der Elb - Empfehlung einstimmig beschlossen
+- TOP 12: Zulassung von Vertretungen einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW)
+- TOP 12.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe - Jugendrat - einstimmig beschlossen
+- TOP 12.2: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe - Behindertenrat - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahre 2026
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Leerstand von Wohn- und Gewerbeimmobilien im Stadtbezirk 8 (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 16: Sparkassenautomaten im Stadtbezirk 8 (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Gubener Straße/Nach den Mauresköthen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Darmstädter Straße/ Weinheimer Straße / Klein-Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Akustische Querungshilfen für Blinde und Sehbehinderte (Anfrage Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Barrierefreies Eller (Antrag Fraktion Liste Zukunft 08) - zurückgezogen
+- TOP 24: Ludwigshafener Straße - Fahrradstraße (Antrag Fraktion Liste Zukunft 08)
+- TOP 25: Ludwigstraße - Erneuerung des Asphaltbelags (Antrag Fraktion Liste Zukunft 08) - einstimmig beschlossen
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 34: Schützenplatz Eller - zur Kenntnis genommen
+- TOP 35: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
