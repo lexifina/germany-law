@@ -1,0 +1,7 @@
+# TOP 10: Bericht der Verwaltung/Beschlusskontrolle
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Strukturwandel und Arbeit (2026-03-09)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/45816
+- Ergebnis: zur Kenntnis genommen
