@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-09T16:00:00+01:00
+- Ende: 2026-03-09T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33974
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33974
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO NRW - Ausweitung von Tempo 30 auf dem gesamten Salzburger Weg als Erprobungsmaßnahme, Aktenzeichen 160/24 - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung "Tische und Bänke für den Schulhof" für das Hildegard-von-Bingen-Gymnasium - ungeändert beschlossen
+- TOP 6.2: Schenkung Basketballkörbe EvT - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.:Überarbeitung der bezirklichen Busteilnetze - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der Anfrage der CDU-Fraktion betreffend:"Sicherheitsmaßnahmen im Stadtbezirk – Umsetzungsstand des BV-Beschlusses 2022 und aktueller Anlass" (AN/0118/2026) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage GS Lohrbergstrasse - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.2: Anfrage Bachemer Straße - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Antrag auf Aufstellung einer Sitzbank an der Bushaltestelle "Saarstraße" in Lövenich - ungeändert beschlossen
+- TOP 8.1.2: Prüfauftrag: Erweiterte Nutzung städtischer Sportanlagen für den Breitensport - ungeändert beschlossen
+- TOP 8.1.3: Fahrradparken am EvT- und Schiller-Gymnasium - ungeändert beschlossen
+- TOP 8.1.4: Neubesetzung eines Mitglied im Rahmenplanungsbeirats - ungeändert beschlossen
+- TOP 8.1.5: Verbesserung der Ampelschaltung für Fuß- und Radverkehr an der Kreuzung Rhöndorfer Straße / Gottesweg - ungeändert beschlossen
+- TOP 8.1.6: Prüfauftrag auf Errichtung von Tenniswänden im Lindenthaler Stadtwald - ungeändert beschlossen
+- TOP 8.1.7: Optimierung Verkehrssicherheit Schulweg Gymnasium Zusestr. in Lövenich - ungeändert beschlossen
+- TOP 8.1.8: Innerer Grüngürtel/Eifelwall - geändert beschlossen
+- TOP 8.1.9: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - ohne Votum behandelt
+- TOP -: Änderungsantrag "Bau-Turbo" - endgültig abgelehnt
+- TOP 9.2.2: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über die Einleitung der 2. Änderung (2. Teilaufhebung) des Bebauungsplanes 64450/02 (6444 Nc/02), Arbeitstitel: Haselbergstrasse/Piusstrasse, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2.5: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - ungeändert beschlossen
+- TOP -: Ersetzungsantrag Station Veranstaltungshaltestelle - endgültig abgelehnt
+- TOP 9.2.6: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - vertagt
+- TOP 9.2.7: Vorentwurf Hybridpark - Variantenentscheid - ungeändert beschlossen
+- TOP 9.2.8: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - vertagt
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Kenntnis genommen
+- TOP 11.1.2: Sachstandsmitteilung zu den von der Bezirksvertretung Lindenthal priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 11.1.3: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 11.1.4: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 11.1.5: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.1.6: Stadtradeln 2026 - Kenntnis genommen
+- TOP 11.1.7: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 11.3.2: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 11.3.3: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - Kenntnis genommen
+- TOP 11.3.4: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 11.3.5: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 11.3.6: Veröffentlichung der Stationen aus dem Carsharing Konzept - Kenntnis genommen
+- TOP 11.3.7: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 11.3.8: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
