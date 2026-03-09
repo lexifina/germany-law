@@ -1,0 +1,84 @@
+# 1. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2026-03-09T10:03:00+01:00
+- Ende: 2026-03-09T11:06:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2026-VA-77
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2026-VA-77
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-VA-77
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-VA-77
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Radwegebau an bestehenden Landesstraßen Hier: Beschluss über die Priorisierung von Maßnahmen für das Jahr 2026
+- TOP 3.1.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen Beschluss über die Priorisierung von Maßnahmen zum Radwegebau an bestehenden Landesstraßen 2026
+- TOP 3.2: Förderung der Nahmobilität Hier: Vorschlag für das Förderprogramm 2026 Beschluss über Radschnellwege und Radvorrangrouten
+- TOP 3.3: Um- und Ausbau von Landesstraßen gemäß Priorisierung Hier: Beschluss über die Priorisierung von Maßnahmen für das Jahr 2026
+- TOP 3.3.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen Beschluss über die Priorisierung von Maßnahmen zum Um- und Ausbau von Landesstraßen gemäß Priorisierung 2026
+- TOP 3.4: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2026 Beratung und Beschlussfassung
+- TOP 4: Vorlagen aus dem Ausschuss für Planung und Mobilität
+- TOP 4.1: Feststellungsbeschluss zur 3. Änderung des Regionalplans Ruhr: Änderung eines Allgemeinen Freiraum- und Agrarbereichs (AFAB) mit den überlagernden Zweckbestimmungen Regionaler Grünzug (RG) und teilweise Bereich zum Schutz der Natur (BSN) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Bottrop
+- TOP 4.2: Feststellungsbeschluss zur 4. Änderung des Regionalplans Ruhr: Änderung eines Allgemeinen Freiraum- und Agrarbereichs (AFAB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Waltrop
+- TOP 5: Fraktionsanträge
+- TOP 6: Anfragen und Mitteilungen
+- TOP 6.1: Anfragen
+- TOP 6.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 7: Vorlagen aus dem Ausschuss für Europa, Wirtschaft und Soziales
+- TOP 7.1: Das Ruhrgebiet - Hier bleibt alles anders Entscheidung über die Fortsetzung der Standortmarketingkampagne und die Zusammenarbeit mit der derzeitigen Agentur für ein weiteres Jahr (Nutzung der Option zur Vertragsverlängerung)
+- TOP 7.1.1: Änderungsantrag der Koalitionsfraktionen von SPD und CDU (Drs.: 15/0099) Fortsetzung der Standortmarketingkampagne
+- TOP 7.2: Beitritt KDN
+- TOP 8: Vorlagen aus dem Ausschuss für Kultur, Sport, Bildung und Wissenschaft
+- TOP 9: Vorlagen aus dem Ausschuss für Planung und Mobilität
+- TOP 10: Vorlagen aus dem Ausschuss für Finanzen und Beteiligungen
+- TOP 10.1: Angelegenheiten der Maximilianpark Hamm GmbH - Bereitstellung eines investiven Zuschusses für das Jahr 2026 für IGA-Projekte
+- TOP 10.2: Änderung von Gesellschaftsverträgen bei Beteiligungsgesellschaften des Regionalverbandes Ruhr
+- TOP 10.3: Angelegenheiten der IGA 2027 Ruhrgebiet gGmbH - Finanzierung der IGA 2027 Ruhrgebiet gGmbH
+- TOP 10.4: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Abgabe einer Einstandspflichterklärung für die Zentraldeponie Datteln (ZDD)
+- TOP 10.5: Bericht über die Optimierung des Beteiligungsportfolios des Regionalverbandes Ruhr Essen
+- TOP 10.5.1: Änderungsantrag der Koalitionsfraktionen von SPD und CDU (Drs.: 15/0139) Bericht über die Optimierung des Beteiligungsportfolios des Regionalverbandes Ruhr
+- TOP 10.6: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr GmbH - Anpassung der Gesellschaftervereinbarungen
+- TOP 10.7: Angelegenheiten der Freizeitzentrum Xanten GmbH - Zuschusserhöhung und Neufassung der Gesellschaftervereinbarung 2026 bis 2028
+- TOP 10.8: Ruhr LIVE gGmbH - Erwerb von Anteilen - Gesellschaftsvertrag
+- TOP 10.8.1: Zusätzliche Informationen zur Vorlage Ruhr LIVE gGmbH
+- TOP 10.8.1: Zusätzliche Informationen zur Vorlage Ruhr LIVE gGmbH
+- TOP 10.9: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH - Bereitstellung eines investiven Zuschusses für das Jahr 2026 für Planungsleistungen des Projektes Niederrhein Therme 2.0
+- TOP 10.10: Angelegenheiten der Manifesta 16 Ruhr gGmbH - Jahresabschluss zum 31.12.2024
+- TOP 10.11: Ermächtigungsübertragungen gemäß § 22 KomHVO NRW
+- TOP 10.12: Bekanntgabe der in der Zeit vom 01.07.2025 bis 31.12.2025 für das Haushaltsjahr 2025 genehmigten Haushaltsüberschreitungen
+- TOP 11: Vorlagen aus dem Ausschuss für Umwelt, Klima und Liegenschaften
+- TOP 12: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 13: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 14: Vorlagen ohne Fachausschussbeteiligung
+- TOP 14.1: Ruhr LIVE gGmbH - Bestellung der zukünftigen Referatsleitung des Referates Kultur, Sport und Industriekultur als nebenamtliche Geschäftsführung der Ruhr LiVE gGmbH
+- TOP 14.2: Benennung von stimmberechtigten Delegierten und Gästen für die Mitgliederversammlung des Städtetages NRW
+- TOP 14.3: Abberufung und Bestellung/Vorschlag von Vertreter*innen in den Gremien der Beteiligungsgesellschaften des Regionalverbandes Ruhr
+- TOP 14.4: Änderung der Verbandsordnung
+- TOP 14.5: Wahl der Verbandsversammlung des Regionalverbandes Ruhr: Feststellung der Gültigkeit der Wahl
+- TOP 15: Fraktionsanträge/Resolutionen
+- TOP 15.1: Antrag der Koalitionsfraktionen von SPD und CDU Kräfte bündeln: BMR und RTG zu einer Gesellschaft für Wirtschaft, Tourismus und Standortmarketing zusammenführen
+- TOP 16: Anfragen und Mitteilungen
+- TOP 16.1: Anfragen
+- TOP 16.2: Mitteilungen
+- TOP 16.2.1: Sachstandsbericht: Einführung einer digitalen Beschlusskontrolle beim RVR
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 17: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 18: nicht öffentlicher Tagesordnungspunkt
+- TOP 18.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
