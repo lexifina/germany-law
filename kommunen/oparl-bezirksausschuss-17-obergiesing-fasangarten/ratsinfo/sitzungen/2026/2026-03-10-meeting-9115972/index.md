@@ -1,0 +1,163 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2026-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9115972
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9115972
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Kotbeuteleimer und Beutel-Dispencer bekommen (FF UA Umwelt)
+- TOP 2.1.2.2.: Bürgeranliegen; Zustände am Tegernseer Platz - Einschätzungen (FF UA FSA)
+- TOP 2.1.2.3.: Bürgeranliegen; Dauerhafte Vermüllung und Rattenbefall am Spitzingplatz dringender Handlungsbedarf (FF UA Umwelt)
+- TOP 2.1.2.4.: Bürgeranliegen; Baumfällarbeiten am Ella Lingens Platz (FF UA Umwelt)
+- TOP 2.1.2.5.: Bürgeranliegen; Bitte um Überprüfung der Ampelschaltung an der Werinherstraße / Ungsteiner Straße (FF UA MuV)
+- TOP 2.1.2.6.: Bürgeranliegen; Beklagenswerter Zustand St. Quirin Platz (UA FF Umwelt)
+- TOP 2.1.2.7.: Bürgeranliegen; Sozialpastorales Zentrum - Anfrage (FF UA BPW)
+- TOP 2.1.2.8.: 2 Bürgeranliegen; Bauprojekt VKB Deisenhofener Str. 63 - Anfrage zur Anzahl genehmigter Baumfällungen (FF UA BPW)
+- TOP 2.1.2.9.: Bürgeranliegen; Unhaltbarer Zustand der Straßen Balanstraße, Grenzweg, Fasangartenstraße (FF UA MuV)
+- TOP 2.1.2.10.: Bürgeranliegen; Nachpflanzung von Straßenbäumen in der Perlacher Straße (FF UA Umwelt)
+- TOP 2.1.2.11.: Bürgeranliegen; Dauerparkende Wohnwägen im Parklizenzgebiet (FF UA MuV)
+- TOP 2.1.2.12.: Anfrage für einen konvexen Verkehrsspiegel an der Balanstraße / Am Giesinger Feld (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Weißenseestr. 101
+- TOP 3.10.2.: Untersbergstr. 78
+- TOP 3.10.3.: Lincolnstr. 25
+- TOP 3.10.4.: Schwandorfer Str. 11 - Neubau von 2 Reihenhäusern mit Garage - VORBESCHEID
+- TOP 3.10.5.: Fasangartenstr. 131; (Az.: 9.41-2026-2891-5)
+- TOP 3.10.6.: Fasangartenstr. 131; (Az.: 9.41-2026-2899-5)
+- TOP 3.10.7.: Balanstr. 380
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur - Vertagung Feb.-Sitzung) KickerClub München e.V. Neue Vereins-Kickertische für Viefalt und Telhabe vom 26.01.-23.03.2026 2.663,47€; Az.: 0262.100-17-0520
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Init. Jubiläumsfestival JISR Jubiläumsfestival 2026 – Traces of Morikus vom 23. - 26.04.2026 2.000,00 €; Az. 0262.100-17-0517
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Unterstützung für Mini-München aus dem Stadtbezirksbudget; Ankündigung durch den BA 12 Schwabing-Freimann
+- TOP 5.4.2.: Stadtbezirksbudget effizient nutzen – Mittelreste aus Vorjahren vorrangig einsetzen; Schreiben Direktorium zum Antrag des BA 24 Feldmoching-Hasenbergl
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Balanstr. 347 - Neubau eines Schwestern-/Pflegerwohnheimes/Arbeitnehmerwohnheim
+- TOP 6.1.3.2.: Watzmannstr. 6 - Energetische Sanierung eines Mehrfamilienwohnhaus Dachrückbau ,-neubau als Mansarddach mit 2 neuen WE. Vergrößerung der WE im 5. OG. Modernisierung als KFW EFH 40+, Erneuerung Balkone, Dämmung, Fenstertausch, Anschluss an BHKW Nahwärme, PV+Wärmepumpe- VORBESCHEID
+- TOP 6.1.3.3.: Ortsentwicklungsplanung - Vollzug des Baugesetzbuches (BauGB); Öffentliche Auslegung des Bebauungsplanentwurfes im Verfahren zur Aufstellung eines vorhabenbezogenen Bebauungsplans Nr. 64B/2024 mit integriertem Grünordnungsplan für das Grundstück Grünwalder Weg 14, FI.Nr. 419/3 der Gemarkung Unterhaching, gemäß§ 3 Abs. 2 (BauGB)
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Kein vorgezogenes Pilotprojekt vor der Gültigkeit des Bebauungsplans zur Nachverdichtung des Perlacher Forst (amerikanische Siedlung) - Zwischennachricht
+- TOP 6.1.4.2.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP 6.1.4.3.: Bebauungsplan Nr. 2186 der Landeshauptstadt München Kistlerstraße (südlich) Weinbauernstraße (nördlich) Martin-Luther-Straße (östlich) - Satzungsbeschluss - Stadtbezirk 17 Obergiesing-Fasangarten
+- TOP 6.1.4.4.: Gewerbeflächenentwicklungsprogramm
+- TOP 6.1.4.5.: Perspektive München: Strategie und Management nachhaltiger Stadtentwicklung - Ergebnisse der Weiterentwicklung des Stadtentwicklungskonzeptes und nächste Schritte
+- TOP 6.1.4.6.: Vollzug der Erhaltungssatzung Trauchberg/ Forggenseestraße: Chiemgaustr. 71
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: AKIM Bericht 1. Jahreshälfte 2026
+- TOP 6.2.4.2.: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München "ganztagsbarometer" Elternbefragung zum Bedarf an Ganztagsbetreuung in München
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) + (U) Traunsteiner Straße Tempo 30 und Antrag auf Geschwindigkeitsreduzierung Empfehlung Nr. 20-26 / E 00446 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing am 26.10.2021
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Beschlussentwurf - Auswertung Gelbmarkierung und Umsetzungsempfehlung Martin-Luther-Straße - Sitzungsvorlage Nr. 20-26 / V 14385 I (Frist: 12.03.2026)
+- TOP 6.3.3.2.: Neues Parklizenzgebiet „Mangfallplatz“ – Teilgebiet Stadtbezirk 17 (Frist 20.03.2026)
+- TOP 6.3.3.3.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Parklizenzgebiet „Scharfreiterplatz“ (Entwurf) (Frist 20.03.2026)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Antwortschreiben auf ein Bürgeranliegen; Popup Radweg Martin-Luther-Str.
+- TOP 6.3.4.2.: Antwortschreiben auf ein Bürgeranliegen; Parklizenzgebiet Scharfreiterplatz
+- TOP 6.3.4.3.: Antwortschreiben auf ein Bürgeranliegen; Ampel an der Traunsteiner Str. / Chiemgaustr.
+- TOP 6.3.4.4.: Sachstand Behelfsbrücke - Regerbrücke
+- TOP 6.3.4.5.: Tram-Betriebshofzulaufstrecke Ständlerstraße - Planfeststellungsbeschluss
+- TOP 6.3.4.6.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs.9, ³ 46 Straßenverkehrs-Ordnung (StVO)und des Art. 21 des Bayerischen Straßen- und Wegegesetzes (BayStrWG) hier: Arbeitsstelle im Straßenraum - Warngauer Str. 31-55 vom 19.02.2026 - 31.12.2026
+- TOP 6.3.4.7.: (U) Mobilitätsstrategie 2035 Fortschreibung der Teilstrategie Wirtschaftsverkehr – Vorstellung der Roadmap Urbane Logistik
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Antwortschreiben; Unhaltbare hygienische Zustände in der Unteren Grasstraße durch Gewerbeabfälle - Sachstand
+- TOP 6.4.4.2.: Stellungnahme: Unhaltbare hygienische Zustände in der Unteren Grasstraße durch Gewerbeabfälle
+- TOP 6.4.4.3.: Antwortschreiben; Finanzielle Unterstützung und Einrichtung von Taubenhäusern
+- TOP 6.4.4.4.: Finanzielle Unterstützung und Einrichtung von Taubenhäusern; Unterstützung vom BA 05, 13, 16, 21
+- TOP 6.4.4.5.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP 6.4.4.6.: Perspektive München - Leitlinie Freiraum Strategische Ziele und Grundlagen der Grün- und Freiraumentwicklung Anträge und Empfehlungen
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Unveränderte Fortführung eines Gaststättenbetriebs hier: Angolo Nuovo" (ehemals Toro Burger), Traunsteiner Str. 34
+- TOP 6.6.4.2.: Unveränderte Fortführung eines Gaststättenbetriebs hier: Cafe Bar Tabu, Schwanseestr. 81
+- TOP 6.6.4.3.: Förderung von Startups mit Stadtteilbezug Obergiesing - Fasangarten
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: UA - Sitzungstermine im März 2026
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachtrag zu TOP 6.5.3.1 Teilnahmemöglichkeit der Bezirksausschüsse am Stadtgeburtstag
+- TOP 6.5.3.1.: Teilnahmemöglichkeit der Bezirksausschüsse am Stadtgeburtstag
+- TOP 1.2.2.: Nachtrag zu TOP 6.3.3.4 Beteiligungsverfahren; Sanierung Fahrradweg Werinherstraße 110-140 (Frist: 07.04.2026)
+- TOP 1.2.3.: Nachtrag zu TOP 6.3.3.5 Beteiligungsverfahren; Sanierung Fahrradweg Schlierseestraße 22-50 (Frist: 07.04.2026)
+- TOP 6.3.3.4.: Beteiligungsverfahren; Sanierung Fahrradweg Werinherstraße 110-140 (Frist: 07.04.2026)
+- TOP 6.3.3.5.: Beteiligungsverfahren; Sanierung Fahrradweg Schlierseestraße 22 - 50 (Frist: 07.04.2026)
