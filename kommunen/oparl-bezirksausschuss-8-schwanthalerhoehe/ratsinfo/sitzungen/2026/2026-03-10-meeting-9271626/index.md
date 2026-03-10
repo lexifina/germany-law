@@ -1,0 +1,105 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9271626
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9271626
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Beschilderung Tauben füttern verboten am Gollierplatz / WC-Häusl am Gollierplatz geschlossen
+- TOP 4.2.: Verkehrslage entschärfen an der Kreuzung Theresienhöhe / Schwanthalerstraße
+- TOP 4.3.: Projekt Vereinshalle Skateboard München e.V.
+- TOP 4.4.: Unangeleinte Hunde auf dem Sinti-Roma-Platz
+- TOP 4.5.: Betrieb des Ladengeschäftes Mio in der Westendstraße 140
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Kinderstadtteilplan fürs Westend
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Erweiterung der Freischankfläche der Gaststätte Westendstraße 138
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Schießstättstraße 6
+- TOP 6.2.2.: Bauvorhaben Ligsalzstraße 4
+- TOP 6.2.3.: Bauvorhaben Theresienhöhe 40
+- TOP 6.2.4.: Bauvorhaben Barthstraße 2
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Festumzug mit Freibierausschank zum Frühlingsfest am 17.04.2026
+- TOP 8.2.2.: Spielaktionen Straße.Oase von CultureClouds e.V. am 09.07.2026; Kazmairstraße Ecke Parkstraße & Alter Messeplatz
+- TOP 8.2.3.: KiKs-Festival auf der Fläche Am Bavariapark und in der Alten Kongresshalle vom 12.06. - 14.06.2026
+- TOP 8.3: Unterrichtungen
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Sanierung eines Bereichs unter der Donnersbergerbrücke
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Gollierplatz 10
+- TOP 9.2.2.: Entwicklung eines Luftqualitätsfahrplans - Einrichtung von Messstellen
+- TOP 9.2.3.: Hans-Fischer-Straße / Karl-Spengler-Straße; Absolutes Haltverbot im westlichen Kurvenbereich (Z. 283 StVO)
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Fußgängerüberweg in der Heimeranstraße zwischen Ligsalzstraße und Feuerwache
+- TOP 9.3.2.: Aufhebung des personenbezogenen Behindertenparkplatzes Westendstraße 119
+- TOP 9.3.3.: Baumfällungen Trappentreustraße
+- TOP 9.3.4.: Meldeliste Baumaßnahmen SWM
+- TOP 9.3.5.: Fußgängerübergang Ganghoferstraße / Anglerstraße, Anordnung eines Haltverbots
+- TOP 9.3.6.: Lieferzone Ligsalzstraße 3a
+- TOP 9.3.7.: Dezentrale Fußgängerzonen auf der Schwanthalerhöhe
+- TOP 9.3.8.: Lieferzonenmarkierung und Beschilderung im Stadtbezirk Schwanthalerhöhe
+- TOP 9.3.8.1: Lieferzonenmarkierung und Beschilderung im Stadtbezirk Schwanthalerhöhe
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbeziksbudget LUMA e.V. Kulturelles Kinderprogramm im Café Gans am Wasser - 2026 vom 15.04. - 31.12.2026 1.500,00€ Az.: 0262.100-8-0481
+- TOP 10.1.2.: (E) Stadtbezirksbudget Münchner Wohnen Service GmbH Unterhaltspflege Lebensmittelverteiler vom 17.03. -31.12.2026 1.000,00€; Az. 0262.100-8-0480
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. Besties Besties - Auf der Suche nach der geheimen Freundschaftsformel vom 21.04.- 2.08.2026 2.392,00€; Az.: 0262.100-8-0482
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Finanzierung von Ferien- und Familienpässen für bedürftige Kinder und Jugendliche als städtische Leistung im Stadtbezirk Schwanthalerhöhe
+- TOP 10.3.2.: BA12; Unterstützung für Mini-München aus dem Stadtbezirksbudget
+- TOP 10.3.3.: BA24; Stadtbezirksbudget effizient nutzen – Mittelreste aus Vorjahren vorrangig einsetzen
+- TOP 10.3.3.1: BA24; Stadtbezirksbudget effizient nutzen – Mittelreste aus Vorjahren vorrangig einsetzen - Antwortschreiben
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Zuschuss für die Pflege und ehrenamtliche Arbeit der Fairteiler im Jahr 2026
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Straßenbenennung nach Edith Haberland-Wagner - Benennungsvorschlag Fußgängerbrücke „Arnulfsteg“ BA-Antrag Nr. 20-26 / B 04948 / Sitzungsvorlage Nr. 20-26 / V 18096
+- TOP 12.3.2.: Ermäßigtes Deutschlandticket; Antwortschreiben
+- TOP 12.3.3.: Schutzkonzepte in den Stadtbezirken für die Fälle von Krise und Krieg
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 9.3.9.: Erneuerung der „Schwanthalerhöhe“-Beschilderung an der Westendstraße 165 und an allen übrigen ehemaligen Standorten
+- TOP 9.2.4.: Anordnung von Lieferzonen in der Landsberger Straße 119 und 137
+- TOP 10.1.4.: (E) Stadtbezirksbudget Init. Saloon Edit Saloon Edit vom 20.02. - 15.08.2026 8.386,00 €; Az. 0262.100-8-0483
+- TOP 9.1.2.: (E) Sammelbeschluss - offene Bezirksausschussangelegenheiten des 08. Stadtbezirkes Schwanthalerhöhe
+- TOP 8.2.4.: Bladenight 2026 mit Start und Ziel Am Bavariapark ab 04.05.2026
+- TOP 8.2.5.: Teilnahmemöglichkeit der Bezirksausschüsse am Stadtgeburtstag am 13.-14.06.2026
+- TOP 9.2.5.: Lieferzonen Landsberger Straße 119 und 137
+- TOP 4.6.: Einrichtung von Zebrastreifen an der Kreuzung Tulbeckstraße / Bergmannstraße
+- TOP 6.3.3.: Zirkuswiese an der Theresienhöhe reaktivieren; Schaffung einer öffentlichen Grünanlage oder Verwirklichung eines Konzeptes mit privaten Partnern
+- TOP 6.3.3.1: Zirkuswiese an der Theresienhöhe reaktivieren - Antwortschreiben
+- TOP 2.1.: Affenspielplatz in der Schwanthalerhöhe - Zustand und Abflüsse
+- TOP 2.2.: Parkmöglichkeiten Lehrkräfte Grundschule Bergmannstraße
+- TOP 2.3.: Entfernung von Sitzbänken im Angelika-Lex-Weg aufgrund von Verschmutzung und Ruhestörungen
+- TOP 2.4.: Zufahrt und Nutzung des MK2-Geländes, Ganghoferstraße 47; Zuschuss für das Projekt "Westend-Kulturgrube"
