@@ -1,0 +1,69 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-10T14:03:00+01:00
+- Ende: 2026-03-10T16:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34183
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34183
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zum Kinderschutzentwicklungsplan (TOP 8.4.4)
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Jama Nyeta gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Jugendhilfeplanung der Kindertagesbetreuung - Ergänzungsbeschluss - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mitgliederwechsel im Jugendhilfeausschuss: Polizeipräsidium Köln - ungeändert empfohlen
+- TOP 4.2: Mitgliederwechsel im Jugendhilfeausschuss: Neues stellvertretend beratendes Pflichtmitglied für die katholische Kirche - ungeändert empfohlen
+- TOP 4.3: Mitgliederwechsel im Jugendhilfeausschuss: Handwerkerinnenhaus - ungeändert empfohlen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Umsetzung des OGS-Rechtsanspruches - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grüne (AN/1447/2025) aus der Sitzung des Jugendhilfeausschusses vom 09.12.2025 betreffend " Umsetzung des OGS-Rechtsanspruches" - Kenntnis genommen
+- TOP 6.1.2: KinderWillkommen-Besuche bei Neugeborenen - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1482/2025 der FDP/KSG-Fraktion zu KinderWillkommen-Besuchen bei Neugeborenen aus der JHA-Sitzung vom 27.01.2026 - Kenntnis genommen
+- TOP 6.1.3: Auswirkungen der Kita-Reform auf Köln - vertagt
+- TOP -: Beantwortung der Anfrage AN/0148/2026 der SPD-Fraktion zu den Auswirkungen der Kita-Reform auf Köln - vertagt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Statusbericht zum Ausbau der Kindertagesbetreuung - vertagt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung der Anfragen zur Jugendhilfeplanung der Kindertagesbetreuung 2026/27 als Grundlage für die Beantragung von Landeszuschüssen nach § 24 KiBiz (Kinderbil-dungsgesetz) - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: Beantwortung der mündlichen Anfrage von Sven Dreisbach, Reinhard Houben und Dr. Petra Pinger im Jugendhilfeausschuss am 27.01.2026 betr. der Kampagne - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Bewilligung des Förderantrags „kinderstark – NRW schafft Chancen“ 2026 vom Ministerium für Kinder, Jugend, Familie, Gleichstellung, Flucht und Integration des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 8.2.2: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.3: Planungs- und Beteiligungsschiene zur Fachplanung Kommunale Kinder- und Jugendförderplanung 2026-2030 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Internationale Jugendarbeit – Rückblick 2025 und Ausblick 2026 - Kenntnis genommen
+- TOP 8.4.2: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 8.4.3: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 8.4.4: Kinderschutzentwicklungsplan für die Stadt Köln - vertagt
+- TOP 8.4.5: Evaluation "Tag der Jugend im Rathaus 2025" – Schüler*innenpressekonferenz - Kenntnis genommen
+- TOP 8.4.6: Umsetzung des bezirklichen Kinder- und Jugendbeteiligungsformats Veedels-Checks unter dem Titel „HEY Porz- Check mit uns dein Veedel“ im Jahr 2026 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Anfrage zum Thema: Rassismus auf Kölner Fußballplätzen - Schutz von Kindern und Jugendlichen - Kenntnis genommen
+- TOP 8.5.2: Bericht zur Umsetzung des Beschlusses AN/0936/2024 "Politikpraktikum für Mädchen und Frauen" - Kenntnis genommen
+- TOP 8.5.3: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - vertagt
+- TOP 8.5.4: Mitteilung zur Errichtung eines Suchthilfezentrums am Perlengraben - Bedarfsfeststellungs- und Vorplanungsbeschluss - Kenntnis genommen
+- TOP 8.5.5: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2025 - Kenntnis genommen
