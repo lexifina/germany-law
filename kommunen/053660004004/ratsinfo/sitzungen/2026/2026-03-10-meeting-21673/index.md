@@ -1,0 +1,57 @@
+# Bau- und Feuerwehrausschuss (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2026-03-10T18:00:00+01:00
+- Ende: 2026-03-10T20:28:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa9tF9kA4vlu7W_WuW9sKX4
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21673
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU5o5_Cd5lvqimAHpEhOQA6IjnaZQuTwPethXS7u5dVP/Bekanntmachung_Bau-_und_Feuerwehrausschuss_10.03.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZI3DwKvfNulxy04bvIMX1E4Jx_snTIYVdWp983tFqxA/Oeffentliche_Niederschrift_Bau-_und_Feuerwehrausschuss_10.03.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Bau- und Feuerwehrausschusses Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Bau- und Feuerwehrausschusses vom 04.12.2025 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Straßenbenennung im Neubaugebiet "An den Ohndorfer Gärten" in Bad Münstereifel-Kirspenich - Beschluss für Straßenbezeichnung 1:a) Ohndorfer Gärten      0- Stimmenb) Arendorfer Gärten    -Einstimmig bei 1 EnthaltungBeschluss für Straßenbezeichnung 2:a) Am Fallstock              -Einstimmig-Beschluss für Straßenbezeichnung 3:a) Edith-Kahn-Weg     
+- TOP 4.: Konzept der Unterhaltung der städtischen Wirtschaftswege hier: Antrag der CDU-Fraktion vom 14.01.2026 - Siehe Beschluss RD 109-XII/Z-1
+- TOP -: Konzept der Unterhaltung der städtischen Wirtschaftswege hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss bei 2 Enthaltungen.
+- TOP 5.: Vorlage eines Friedhofkonzeptes hier: Antrag der CDU-Fraktion vom 05.02.2026 - Siehe Beschluss RD 136-XII/Z-3.
+- TOP -: Vorlage eines Friedhofkonzeptes hier: Stellungnahme der Verwaltung - Siehe Beschluss RD 136-XII/Z-3.
+- TOP -: Vorlage eines Friedhofkonzeptes hier: Ergänzungsantrag der CDU-Fraktion vom 22.02.2026 - Siehe Beschluss RD 136-XII/Z-3
+- TOP -: Vorlage eines Friedhofkonzeptes hier: Antrag der CDU-Fraktion vom 05.02.2026 - Einstimmiger Beschluss.
+- TOP 6.: Antrag zum Straßenzustand Webersbenden hier: Antrag der SPD-Fraktion vom 17.02.2026 - Siehe Beschluss RD 146-XII/Z-1.
+- TOP -: Antrag zum Straßenzustand Webersbenden hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss bei 3 Enthaltungen.
+- TOP 7.: Ausarbeitung eines Konzeptes für den städt. Bauhof hier: gemeinschaftlicher Antrag der FDP-,UWV-,SPD- und CDU-Fraktion vom 16.12.2025 - Siehe Empfehlungsbeschluss RD 96-XII/Z-1.
+- TOP -: Ausarbeitung eines Konzeptes für den städt. Bauhof hier: Stellungnahme der Verwaltung - Einstimmiger Empfehlungsbeschluss.
+- TOP 8.: Planung und Ausführung FW-Gerätehaus hier: Antrag der CDU-Fraktion vom 05.02.2026 - Siehe Empfehlungsbeschluss RD 134-XII/Z-1.
+- TOP -: Planung und Ausführung FW-Gerätehaus hier: Stellungnahme der Verwaltung - Einstimmiger Empfehlungsbeschluss bei 2 Enthaltungen.
+- TOP 9.: Erneuerung der Flutlichtanlage und Einfriedung des Sportplatzgeländes am Sportplatz Nöthen hier: Antrag der CDU-Fraktion vom 24.02.2026 - Siehe Beschluss RD 165-XII/Z-1.
+- TOP -: Erneuerung der Flutlichtanlage und Einfriedung des Sportplatzgeländes am Sportplatz Nöthen hier: Ausführungen der Verwaltung zum Antrag der CDU-Fraktion vom 24.02.2026 - Einstimmiger Beschluss bei 1 Gegenstimme und 1 Enthaltung.
+- TOP 10.: Verbesserung der Straßenbeleuchtung zur Erhöhung der Verkehrssicherheit im Bereich Johannistor und Kölner Straße hier: Antrag der SPD-Fraktion von 17.02.2026 - Siehe Beschluss RD 144-XII/Z-1.
+- TOP -: Verbesserung der Straßenbeleuchtung zur Erhöhung der Verkehrssicherheit im Bereich Johannistor und Kölner Straße hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss.
+- TOP 11.: Historische Straßenleuchten innerhalb der historischen Stadtmauern - Einstimmiger Beschluss.
+- TOP 12.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A01.1 Erneuerung und Instandsetzung Wehrgang hier: Ausschreibung der Planungsleistungen Objektplanung LP 1-8 und Tragwerksplanung LP 1-3 HOAI - Einstimmiger Beschluss.
+- TOP 13.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A01.2 Nutzbarmachung des Werther Tors und Begehbarmachung der Stadtmauer hier: Ausschreibung der Planungsleistungen Objektplanung LP 1-8 und Tragwerksplanung LP 1-3 HOAI - Einstimmiger Beschluss.
+- TOP 14.: Anfragen und Mitteilungen
+- TOP 14.1: Instandsetzungsarbeiten am FW-Gerätehaus in Rupperath hier: Anfrage der CDU-Fraktion vom 14.01.2026
+- TOP 14.2: Sachstand diverser Maßnahmen zum Hochwasserschutz und Wiederaufbau im Ortsteil Arloff-Kirspenich hier: Anfrage der CDU-Fraktion vom 02.01.2026
+- TOP -: Sachstand diverser Maßnahmen zum Hochwasserschutz und Wiederaufbau im Ortsteil Arloff-Kirspenich hier: Stellungnahme der Verwaltung
+- TOP 14.3: Sanierung der Ortsdurchfahrten in Lethert und Effelsberg wegen der Brückensanierung hier: Anfrage der CDU-Fraktion vom 09.12.2025
+- TOP -: Sanierung der Ortsdurchfahrten in Lethert und Effelsberg wegen der Brückensanierung hier: Stellungnahme der Verwaltung
+- TOP 14.4: Sachstand Wiederaufbau Arloff; Geländerausführung der Überflutungsbrücke hier: Anfrage der CDU-Fraktion vom 17.12.2025
+- TOP -: Sachstand Wiederaufbau Arloff; Geländerausführung der Überflutungsbrücke hier: Stellungnahme der Verwaltung
+- TOP 14.5: Information zur Wiederaufbaumaßnahme in den Straßen Obergasse und Am Bloch in Iversheim
+- TOP 14.6: Aktuelle Situation Baumaßnahme Kölner Straße
+- TOP 14.7: Anfrage Ausgleichszahlung für Schäden Mountain-Bike Strecke
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A01.1 Erneuerung und Instandsetzung Wehrgang hier: Vergabe von Planungsleistungen Objektplanung LP 1-8 und Tragwerksplanung LP 1-3 HOAI - Einstimmiger Beschluss.
+- TOP 2.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A01.2 Nutzbarmachung des Werther Tors und Begehbarmachung der Stadtmauer hier: Ausschreibung der Planungsleistungen Objektplanung LP 1-8 und Tragwerksplanung LP 1-3 HOAI - Einstimmiger Beschluss.
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Sachstand Kanaldimensionierung im Neubaugebiet Kirspenich hier: Anfrage der CDU-Fraktion vom 05.01.2026
+- TOP -: Sachstand Kanaldimensionierung im Neubaugebiet Kirspenich hier: Stellungnahme der Verwaltung
+- TOP 3.2: Stromliefervertrag für die Straßenbeleuchtung im Stadtgebiet für die Jahre 2026 - 2028 hier: Ergebnisbericht
