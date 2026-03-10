@@ -1,0 +1,86 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-10T17:03:00+01:00
+- Ende: 2026-03-10T18:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33708
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33708
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Einrichtung von Schulstraßen im Stadtbezirk Porz - Kenntnis genommen
+- TOP 1: Einwohnerfragen
+- TOP 1.1: Beantwortung einer Einwohneranfrage zum "Bauprojekt Kölner Straße / Hohe Straße"
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Baubeschluss für die Generalinstandsetzung der Straße „An den Maien“ in Köln-Poll sowie Freigabe einer investiven Auszahlungsermächtigung bei der Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 7.2: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Grundsatzbeschluss und Leitlinien zum „Bau-Turbo“ - Zustimmungsverfahren § 36a BauGB und Leitlinien zur Anwendung in Köln“ - ungeändert beschlossen
+- TOP 7.3: Erstellung eines Modulbaus für Unterrichtszwecke sowie einer Mensa für die Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil - Planungs- und Baubeschluss - Sache ist erledigt
+- TOP 7.4: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 7.5: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - vertagt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen und Volt "Runder Tisch Radverkehr in Porz" - vertagt
+- TOP 8.2: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen und Volt "Kriminalpräventiver Rat" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen und Volt "Einrichtung Kulturbeirat Rathaus Porz - geändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen und Volt "Verbesserung des Zugriffs aufs Ratsinformationssystem" - ungeändert beschlossen
+- TOP 8.5: Antrag der CDU-Fraktion "Umgestaltung des Vorplatzes Heidestraße / Frankfurter Straße Wahn" - geändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Fahrradunterstände an der KVB-Haltestelle Salmstraße / Marktplatz Poll" - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen und Volt "Stromanschluss auf dem Eulenplatz, Porz-Langel“ - ungeändert beschlossen
+- TOP 8.8: Antrag der CDU-Fraktion "Kreisverkehr Steinstraße/Theodor-Heuss-Straße in Porz-Finkenberg" - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion "Freie Ecke - freie Sicht im Bereich Gilgaustraße / Einfahrt Parkplatz Edeka" - ungeändert beschlossen
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen und Volt "Carsharing in Porz" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der AfD-Fraktion "Carsharing in Porz" - Sache ist erledigt
+- TOP 8.11: Antrag der CDU-Fraktion "Kreisverkehr Hansestraße/Theodor-Heuss-Straße in Porz-Eil" - ungeändert beschlossen
+- TOP 8.12: Antrag der SPD-Fraktion "Verkehrssituation Ludwigstr. und Pfaffenpfädchen und Besenbinderstr." - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Anfrage der SPD-Fraktion "Weitere Verwendung ehemals militärischer Liegenschaften im Stadtbezirk Porz" - vertagt
+- TOP 9.1.2: Anfrage der SPD-Fraktion "Planungen und Auswirkungen des Logistik-Hubs in Westhoven (Stollwerckstr.)" - vertagt
+- TOP 9.1.3: Anfrage der SPD-Fraktion "Verkehrskonzept für Köln-Porz-Gremberghoven" - vertagt
+- TOP 9.1.4: Anfrage der AfD-Fraktion "Geruchsbelästigung in Grengel – Verdacht auf Kerosin" - vertagt
+- TOP 9.1.5: Anfrage der AfD-Fraktion "Reizgas-Attacke Wilhelm-Busch-Realschule" - vertagt
+- TOP 9.1.6: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt "Schulstraßen im Stadtbezirk Porz" - vertagt
+- TOP 9.1.7: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt "KVB-Haltestelle Porz Markt" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktionen Fraktion Bündnis 90/Die Grünen und Volt in der Bezirksvertretung Porz aus der Sitzung vom 29.01.2026 (AN/0174/2026) betreffend "KVB-Haltestelle Porz Markt" - Kenntnis genommen
+- TOP 9.1.8: Anfrage der SPD-Fraktion "Treppe Ohmstr./Kaiserstr." - vertagt
+- TOP 9.1.9: Beantwortung der Anfrage AN/0178/2026 der SPD-Fraktion bezüglich der Nutzung der Sporthallen in Köln-Grengel - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Bauliche Situation und Nutzung der Turnhallen im Grengel" - Sache ist erledigt
+- TOP 9.1.10: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Porz am 7.11.2024 betr. Rathausstraße in Köln-Porz (AN/1438/2024) - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Rathausstraße" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Führung des Baustellenverkehrs Projekt Arbeitstitel: “Hohe Straße in Köln-Porz-Ensen”, Vorlagen-Nummer 3045/2025" - vertagt
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen "Frankfurter Straße 210, Porz-Wahn" - vertagt
+- TOP 9.2.3: Anfrage der CDU-Fraktion "Kreuzung Grengeler Mauspfad/Hirschgraben/Porzer Weg in Porz Eil" - vertagt
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Parkbänke auf dem an den Bahndamm angrenzenden Grünstreifen in Porz-Finkenberg" - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Kenntnis genommen
+- TOP 10.2.3: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 10.2.4: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.5: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - Kenntnis genommen
+- TOP 10.2.6: Veröffentlichung der Stationen aus dem Carsharing Konzept - Kenntnis genommen
+- TOP 10.2.7: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.8: Stadtradeln 2026 - Kenntnis genommen
+- TOP 10.2.9: Sachstand zu den Planungen der Stadtbahnlinie 17 inkl. Lückenschluss Linie 7 - Kenntnis genommen
+- TOP 10.2.10: Rheinboulevard Porz - Informationen zum Sachstand - Kenntnis genommen
+- TOP 10.2.11: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 10.2.12: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 10.2.13: Ortsteilbeschilderung an Leinpfad und Fußwegen im Rahmen der Gleichberechtigung des Verkehrs - Kenntnis genommen
+- TOP 10.2.14: Sachstand zum Ersatzneubau der Brücke Bergerstraße - Kenntnis genommen
+- TOP 10.2.15: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.:Überarbeitung der bezirklichen Busteilnetze - Kenntnis genommen
+- TOP 10.2.16: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 10.2.17: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 10.2.18: Umsetzung des bezirklichen Kinder- und Jugendbeteiligungsformats Veedels-Checks unter dem Titel „HEY Porz- Check mit uns dein Veedel“ im Jahr 2026 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
