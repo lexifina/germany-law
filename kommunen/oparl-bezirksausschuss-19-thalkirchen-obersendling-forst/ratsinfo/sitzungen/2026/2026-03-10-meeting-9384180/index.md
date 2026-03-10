@@ -1,0 +1,75 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-03-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384180
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384180
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 10.02.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Animato Münchner Orchester e.V. Konzert in dem Gemeindesaal Heilig Kreuz in München Forstenried vom 12.02-30.07.2026 1.155,00€ Az.: 0262.100-19-0620
+- TOP 3.3.: (E) Stadtbezirksbudget Init. "Let&#039;s make it short !" Ferienfilmworkshop Let&#039;s make it short vom 01. -05.06.2026 4.030,00€; Az. 0262.100-19-0621
+- TOP 3.4.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Solln 1873 Zelt und Pavillion 1.648,50€;Az. 0262.100-19-0623
+- TOP 3.5.: (E) Stadtbezirksbudget Leocor gGmbH / Klimainitiative München Biodiversität im Quartier entdecken und fördern vom 31.03. -16.09.2026 2.063,00€; Az. 0262.100-19-0624
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Umwandlung des Budgets für Baumfällungen in ein Budget für Baumerhaltungsmaßnahmen und Änderung des angewendeten Verjüngungskonzeptes bzgl. Bäumen in München in ein Baumerhaltungskonzept
+- TOP 4.4.: (E) Baumerhaltung beim Trambahnbau in der Boschetsrieder Straße
+- TOP 4.5.: (A) Mobilfunk-Suchkreismeldung Solln
+- TOP 4.6.: (E) Müll-Disziplin; Unrat im Bereich der Wertstoffbehälter
+- TOP 4.7.: (E) Prüfung und Sicherstellung des Gesundheitsschutzes bei Sanierungen asbestverdächtiger Gebäuden in Fürstenried-West
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (E) Wiederinbetriebnahme bzw. Erneuerung der Blitzer an der Fußgängerschutzanlage Grundschule Boschetsrieder Straße
+- TOP 5.3.: (E) Maßnahmen gegen Kfz-Verkehr im Fußgängerbereich am Schweizer Platz und an der Graubündener Straße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Alfred-Kubin-Weg
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Lochhamer Straße 64a (VB)
+- TOP 6.2.2: Friedastraße 15
+- TOP 6.2.3: Bellinzonastraße 2
+- TOP 6.2.4: Hofbrunnstraße 41 (VB)
+- TOP 6.2.5: Konrad-Witz-Straße 1
+- TOP 6.2.6: Forstenrieder Allee 168c (VB)
+- TOP 6.2.7: Maxhofstraße 32
+- TOP 6.2.8: Herterichstraße Flurnummer 675/3
+- TOP 6.2.9: Steinkirchner Straße 33 (VB)
+- TOP 6.2.10: Glötzleweg 23 (T)
+- TOP 6.2.11: Unterbrunner Straße 6 (T)
+- TOP 6.2.12: -abgesetzt-
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Dringender Sanierungsbedarf der Laufbahn auf der Bezirkssportanlage Graubündener Straße 100
+- TOP 7.3.: (E) Beleuchtung und verkehrssichere Gestaltung des Schulwegs Hofmannstraße – Aidenbachstraße
+- TOP 7.4.: (E) Nichteinhaltung der Ruhezeiten der Bezirkssportanlage an der Thalkirchner Straße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: "Jubiläumsfeier Kinderkrippe Kolibri“ auf dem Spielplatz Wengleinstraße / Schuchstraße am 08.05.2026
+- TOP 8.3.: (U) Verkaufsstand an der Forstenrieder Allee, Flst. 23/0 am 01.05.-01.08.2026
+- TOP 8.4.: (U) Verkaufsstand an der Forstenrieder Allee, Flst. 23/0 am 01.04.-30.06.2026
+- TOP 9: Verschiedenes
+- TOP 2.3.: (Antrag) Standortverlegung Lagerplatz Glasfaser-Ausbau Forstenried
+- TOP 3.6.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. „Für Kinder in den Sommerferien: Spielstadt Mini-München vom 03.08.2026 - 21.08.2026“ 4.590,00 € / AZ: 0262.100-19-0625
+- TOP 8.5.: (U) Lagerplatz für Glasfaserausbau an der Forstenrieder Allee, Flst. 24/0 ab 01.04.2026
+- TOP 3.7.: (E) Stadtbezirksbudget Kath. Öffentliche Bücherei der Pfarrkirchenstiftung St. Johann Baptist Solln Aktualisierung des Bestandes mit Schwerpunkt Kinderliteratur und Belletristik vom 15.04.2026 - 01.10.2026 750,00€; Az. 0262.100-19-0626
+- TOP 5.5.: (A) Sammelbeschluss Bezirksausschussangelegenheiten; Sitzungsvorlage Nr. 20-26 / V 18876 Einführung einer speziellen Parklizenz für Wohnwagen, Wohnmobile, Segelboote und etc. die in den Wohngebieten geparkt werden; Empfehlung Nr. 20-26 / E 0229
+- TOP 4.1.1: Unterschutzstellung einer alten Buche als Naturdenkmal in der Garatshausener Straße 10
+- TOP 7.5.: (Antrag) Spielbetrieb auf der Tennisanlage Forstenrieder Allee bis zum Baubeginn Realschule ermöglichen
