@@ -1,0 +1,72 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-10T16:00:00+01:00
+- Ende: 2026-03-10T19:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29634
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29634
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00579428.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00579428.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00579428.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/001/2026 vom 27.01.2026 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - Jugendrat - einstimmig beschlossen
+- TOP 4.2: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - Behindertenrat - einstimmig beschlossen
+- TOP 4.3: Baumaßnahmen der Netzgesellschaft Düsseldorf im Bereich Cranachstr. / Lichtstr. / Grafenberger Allee und "Zum Märchenland" - mündlicher Bericht - zur Kenntnis genommen
+- TOP 4.4: Jugend checkt Düsseldorf - Vorstellung der Anliegen - zur Kenntnis genommen
+- TOP 4.5: Fußgänger-Beauftragte - mündlicher Bericht zum Beschluss der Bezirksvertretung 2, Vorlage BV2/126/2025 - vertagt
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Verwendung von Haushaltsmitteln 2026; hier: Antrag des Kleingärtnervereins Düsseldorf e.V. - mehrheitlich beschlossen
+- TOP 4.8: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für das Nachbarschaftsfest Wetterstr. - einstimmig beschlossen
+- TOP 4.9: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag Ausstellung )O( - mehrheitlich beschlossen
+- TOP 4.10: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag Cc.Charlott (Offraum) - mehrheitlich beschlossen
+- TOP 4.11: Blumenoasen Pro Düsseldorf - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2026 (Liste B) - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Finanzielle Unterstützung von Sankt Martins Zügen im Stadtbezirk - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5.3: Instandsetzung des Bolzplatzes an der Eduard-Schloemann-Straße 55 - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 5.4: Aufstellung von Tischtennisplatten an der Kühlwetterstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.5: Vorstellung der Planung Einmündnung Vennhauser Straße/Behrenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.6: Entsiegelung des Mittelstreifens Höherweg zwischen Kettwiger und Ruhrtalstraße - Antrag der Fraktion Bündnis 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.7: Beleuchtung für den Parcours-Trainingsplatz und den 3x3-Basketballplatz an der Luise-Rainer-Straße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Verlegung von Fahrradständern zur Wiederherstellung eines Parkplatzes - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 5.10: Parken auf der Holbeinstraße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 5.11: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2025 für den Stadtbezirk 2 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.12: Maßnahmen zur Minderung des Parkdrucks in Düsseltal - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 5.13: Querung Hoffeldstraße - Antrag der Fraktion DIE LINKE - einstimmig beschlossen
+- TOP 5.14: Radwege an Haltestellen - Antrag der Fraktion DIE LINKE - mehrheitlich beschlossen
+- TOP 5.15: Anfragen - Antrag der Fraktion DIE LINKE - mehrheitlich abgelehnt
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Mietverhältnisse in ehemals besetzten Gebäuden der Kiefernstraße - Anfrage der AFD-Fraktion - beantwortet
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Sachstand zum Gebäude an der Lichtstraße / Grafenberger Allee nach Explosionsschaden- Anfrage der AFD-Fraktion - beantwortet
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Sperrmüll hinter dem Eisstadion an der Brehmstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7.7: Umsetzung der Düsseldorfer Blühwiesenstrategie innerhalb des Stadtbezirks 2 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.8: Sachstand zur Verlegung des Drogenhilfezentrums an der Flurstraße - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.9: Bürgerhaus für den Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.10: Baustelle Bruchstraße - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Haltestellen Engerstraße -Anfrage der Fraktion DIE LINKE - vertagt
+- TOP 8: Informationsvorlagen - zur Kenntnis genommen
+- TOP 8.1: Sanierung und Modernisierung der Skateranlage im Stadtwerkepark - Beschluss der Bezirksvertretung 2, Vorlage BV2/018/2026 - zur Kenntnis genommen
+- TOP 8.2: Regelung des Radverkehrs an der Grunerstrasse/Ahnfeldstrasse Richtung Jülicher Brücke - Beschluss der Bezirksvertretung 2, Vorlage BV2/ - zur Kenntnis genommen
+- TOP 8.3: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 8.4: Optimierung Ampelschaltung für Fußgänger Kreuzung Kettwiger Str./Erkrather Str. - Beschluss der Bezirksvertretung 2, Vorlage BV2/016/2026 - zur Kenntnis genommen
