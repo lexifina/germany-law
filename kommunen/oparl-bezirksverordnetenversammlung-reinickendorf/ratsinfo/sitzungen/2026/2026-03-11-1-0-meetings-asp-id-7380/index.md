@@ -1,0 +1,135 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-03-11T17:00:00+01:00
+- Ende: 2026-03-11T23:01:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7380
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7380
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=614390
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 51. Sitzung der BVV am 11.03.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 51. Sitzung der BVV am 11.03.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Wahl eines Bezirksstadtrates / einer Bezirksstadträtin - im Ausschuss abgelehnt
+- TOP 4: Einwohnerfragestunde - (offen)
+- TOP 4.1: Auswirkung des Grundsatzurteils des Bundesverwaltungsgerichts für den Klimaschutz auf die Umsetzung des Mobilitätsgesetzes in Reinickendorf - beantwortet
+- TOP 4.2: Zustände am Schäfersee - beantwortet
+- TOP 4.3: Beseitigung des Streuguts im Bezirk - beantwortet
+- TOP 4.4: Teilnahme der Medine Moschee, die der vom Verfassungsschutz beobachteten Islamischen Gemeinschaft Milli Görüs angehört, am Fastenbrechen? - beantwortet
+- TOP 4.5: Der Radweg Oraniendamm zwischen Wittenauer Straße und Zabel-Krüger-Damm bzw. Waidmannsluster Damm - beantwortet
+- TOP 4.6: Autofahrer ignorieren nachts den Zebrastreifen - beantwortet
+- TOP 4.7: Neubaupläne für die Ollenhauerstraße: Angebliche Zwänge des Mobilitätsgesetzes - beantwortet
+- TOP 4.8: Seniorenvertretung Reinickendorf - beantwortet
+- TOP 4.9: Baumschutzverordnung und Straßenbäume - beantwortet
+- TOP 5: Konsensliste - (offen)
+- TOP 5.1: Konsensliste für die 51. Sitzung der BVV am 11.03.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 6.1: Ollenhauer Straße - beantwortet
+- TOP 6.2: Dreharbeiten in Frohnau - Klappe, die zweite - beantwortet
+- TOP 6.3: Verkehrschaos an der General-Woyna-Str./Zobeltitzstr. - beantwortet
+- TOP 6.4: Stadtbad Märkisches Viertel - beantwortet
+- TOP 6.5: Osterfeuer in Frohnau - beantwortet
+- TOP 6.6: Naturschutz beim Bauprojekt beim Wittenauer Stadtforst? - beantwortet
+- TOP 6.7: Entwicklungsperspektiven für den Standort der Raboma-Halle in Borsigwalde - beantwortet
+- TOP 6.8: Fehlerhafte Bürgerinformationen - beantwortet
+- TOP 6.9: Bodenbelag Basketball-Outdoor-Anlage - zurückgezogen
+- TOP 6.10: Plankontrollen in Lebensmittelbetrieben - beantwortet
+- TOP 6.11: Umsetzungsstand Drucksache 0501/XXI: Kostenlose Menstruationsartikel in Schulen und anderen öffentlichen Gebäuden - beantwortet
+- TOP 6.12: Umsetzung der DRS 2416/XXI: Eingeschränktes Halteverbot Dannenwalder Weg 145-157 aufheben - beantwortet
+- TOP 6.13: Zivilschutz - schriftlich beantwortet
+- TOP 6.14: Zustimmung der Gemeinde - schriftlich beantwortet
+- TOP 7: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7.1: Strategie zur Umsetzung des Berliner Klimaanpassungsgesetzes - in der BVV abgelehnt
+- TOP 8: Feststellungen - (offen)
+- TOP 8.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: S-Bahnpause auf der Nordbahn im S-Bahnhof Wittenau und nicht in Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Sicherer Schulüberweg in der Avenue Charles de Gaulle / Rue Lamartine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Wirtschaft stärken: Intensiver Austausch mit der Bundesverwaltung für Reinickendorfs Zukunft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Spielplatz Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Bericht über die geplanten, eingewilligten und eingegangenen Verpflichtungen sowie über die daraus resultierenden Vorbindungen gemäß Auflagenbeschluss Nr. 1 zum Haushalt 2024/2025 - Folgebericht 2025 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Jährlicher Erfahrungsbericht des Patientenfürsprechers in der Caritas Klinik Dominikus (Bereich Somatik) für das Jahr 2025 - überwiesen
+- TOP 9.7: Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Humboldt-Klinikum (Bereich Somatik) für das Jahr 2025 - überwiesen
+- TOP 9.8: Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Medical Park Berlin Humboldtmühle (Bereich Somatik) für das Jahr 2025 - überwiesen
+- TOP 9.9: Verausgabung der Mittel des Kiezfonds 2026 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Auswirkungen des Volksentscheids "Berlin autofrei" - in der BVV abgelehnt
+- TOP 10.2: Bürgermeisterin feiert Ramadan mit Islamisten - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 12.1: Erschütterungstest beenden: Radroute 4 in Frohnau ertüchtigen - in der BVV abgelehnt
+- TOP 12.2: Kriterien für zukünftige Genehmigungsverfahren für das Tegeler Hafenfest - vertagt
+- TOP 12.3: Kein Podium für Erdogan - aber ein Platz für religiöse Vielfalt - vertagt
+- TOP 12.4: Spritzenbox in der Lindauer Allee 36 anbringen - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Parken in der Avenue Jean Mermoz in Tegel - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Absolutes Haltverbot für LKW in einem Teilbereich der Gotthardstraße - vertagt
+- TOP 12.7: Erweiterung der Kiezkarte - erledigt
+- TOP 12.8: Fahrradständer in Alt-Tegel errichten - mit Änderungen in der BVV beschlossen
+- TOP 12.9: Kopfsteinpflaster abfräsen statt asphaltieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sicherheit an der Kreuzung Lindauer Allee/Aroser Allee erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Freigabe des Schmitzweges für den Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Mehr Fahrradbügel an der Greenwichpromenade - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Nimrodstraße sanieren - in der BVV abgelehnt
+- TOP 12.14: Neugestaltung der Kreuzung "Im Saatwinkel/Maienwerderweg" in Saatwinkel I - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Neugestaltung der Kreuzung "Im Saatwinkel/Maienwerderweg" in Saatwinkel II - in der BVV abgelehnt
+- TOP 12.16: Neuaufteilung und städtebauliche Integration der Berliner Straße - vertagt
+- TOP 12.17: Reinigung der Fahrradabstellanlagen und Entfernung defekter Fahrräder am S-Bahnhof Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Einladungen zu öffentlichen Veranstaltungen an alle Bezirksverordnete - erledigt
+- TOP 12.19: Mieterberatung in Reinickendorf verbessern I - erledigt
+- TOP 12.20: Mehrsprachige Abreißzettel des Hilfetelefons "Gewalt gegen Frauen" in öffentlichen Gebäuden des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Beschlussfassung über die Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 52 Sach- und Ordnungsruf - vertagt
+- TOP 12.22: Beschlussfassung über die Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 49 Abs. 2 Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Beschlussfassung über die Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 20 Abs. 6 Verfahren in den Ausschüssen - vertagt
+- TOP 12.24: Sondermittelantrag der OhGee Academy Berlin e.V. in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Sondermittelantrag des TSV Berlin Wittenau 1896 e.V. in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Sondermittelantrag des P.A.N. Zentrum der Fürst-Donnersmarck-Stiftung e.V. in 2026 - mit Änderungen in der BVV beschlossen
+- TOP 12.27: Sondermittelantrag des Vereins für Kanusport Berlin e.V. in 2026 - mit Änderungen in der BVV beschlossen
+- TOP 12.28: Sondermittelantrag der Kita St. Marien in 2026 - mit Änderungen in der BVV beschlossen
+- TOP 12.29: Sondermittelantrag der Beratung und Leben GmbH in 2026 - mit Änderungen in der BVV beschlossen
+- TOP 12.30: Sondermittelantrag des Pfadfinderheim Berlin-Brandenburg e.V. in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Sondermittelantrag der Ev. Andreas-Kirchengemeinde in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 12.32: Sondermittelantrag des Fördervereins der Gustav-Dreyer-Grundschule e.V. in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Sondermittelantrag des SC Tegeler Forst e.V. in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 12.34: Sondermittelantrag des Kita Ententeich e.V. in 2026 - mit Änderungen in der BVV beschlossen
+- TOP 12.35: Sondermittelantrag des Heinsestraße e.V. - Gewerbeverein Reinickendorf in 2026 - mit Änderungen in der BVV beschlossen
+- TOP 12.36: Sondermittelantrag des Wassersportvereins Insel Scharfenberg e.V. in 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Änderung der Verteilung in den Ausschüssen - vertagt
+- TOP 13.2: Auto verbieten? Verboten! Nein zum Volksbegehren "Berlin autofrei" - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Religiöse Vielfalt in Reinickendorf - vertagt
+- TOP 13.4: Volksbegehren "Berlin autofrei" - ohne Änderungen in der BVV beschlossen
+- TOP 14: Ersuchen - (offen)
+- TOP 14.1: Hermsdorf blüht auf: Bepflanzung in der Heinsestraße - überwiesen
+- TOP 14.2: Erhöhung der Verkehrssicherheit und Verbesserung der Kennzeichnung der Tempo-30-Zone im Senftenberger Ring - überwiesen
+- TOP 14.3: Kampf gegen Wohnungslosigkeit aufnehmen III - überwiesen
+- TOP 14.4: MV-Blumenbeet - überwiesen
+- TOP 14.5: Fußgängerüberweg Falkenplatz - überwiesen
+- TOP 14.6: Kampf gegen Wohnungslosigkeit aufnehmen I - überwiesen
+- TOP 14.7: Sauberkeit und intensive Kontrollen an bekannten Müllablagerungs-Hotspots im Märkischen Viertel - überwiesen
+- TOP 14.8: Kampf gegen Wohnungslosigkeit aufnehmen II - überwiesen
+- TOP 14.9: Wiederherstellung und Schutz von Grünflächen nach Baumaßnahmen im Ortsteil Wittenau verbessern - überwiesen
+- TOP 14.10: Lärmminderung auf Spielplätzen - überwiesen
+- TOP 14.11: Zusätzliche Abfallbehälter im Umfeld des S- und U-Bahnhofs Wittenau prüfen - überwiesen
+- TOP 14.12: Prävention gegen Gefährdungen durch herabfallende Gegenstände aus Hochhäusern im Märkischen Viertel - überwiesen
+- TOP 14.13: Präsenz und Abstimmung von Ordnungskräften rund um den S- und U-Bahnhof Wittenau verbessern - überwiesen
+- TOP 14.14: Bepflanzung des Antonyplatzes mit der Französischen Nationalflagge wiederherstellen - überwiesen
+- TOP 14.15: Erhalt der Parkplätze am Wilhelmsruher Damm im Bereich der zukünftigen Gewerbeflächen - überwiesen
+- TOP 15: Empfehlungen - (offen)
+- TOP 15.1: Flüchtlingsunterkunft in der Bernauer Straße 138a in Tegel jetzt wie geplant in normalen Wohnraum umwandeln - überwiesen
+- TOP 15.2: Tempo 30 nachts auf der Heiligenseestraße und Hennigsdorfer Straße - überwiesen
+- TOP 15.3: Kampf gegen Wohnungslosigkeit aufnehmen IV - überwiesen
+- TOP 15.4: Glascontainer im öffentlichen Straßenland - überwiesen
+- TOP 15.5: Sofortiger Fäll- und Rodungsstopp am Havelufer (Abschnitte Konradshöhe bis Heiligensee) - überwiesen
+- TOP 15.6: Taubenschlag in Tegel wieder errichten - überwiesen
+- TOP 15.7: Arbeit verdient Respekt: Begleitband zum Projekt "Der Mensch dahinter" in Schulen bringen! - überwiesen
+- TOP 15.8: Häufigere Reinigung des Umfeldes des S-Bahnhofs Waidmannslust durch die BSR - überwiesen
+- TOP 15.9: Fahrradboxen an allen S-Bahnhöfen in Reinickendorf - überwiesen
+- TOP 15.10: Dem Titusweg geht ein Licht auf: Bessere Straßenbeleuchtung für den Titusweg - überwiesen
+- TOP 16: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
