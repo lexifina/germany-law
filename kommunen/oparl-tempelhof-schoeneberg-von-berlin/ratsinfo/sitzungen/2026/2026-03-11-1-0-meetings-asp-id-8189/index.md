@@ -1,0 +1,51 @@
+# 40. öffentliche Sitzung des Ausschusses für Stadtentwicklung
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2026-03-11T17:00:00+01:00
+- Ende: 2026-03-11T19:55:00+01:00
+- Ort: Rathaus Schöneberg ,
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8189
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8189
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=491286
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - erledigt
+- TOP 2: Wahl der/des Ausschussvorsitzenden (Vorschlagsrecht: SPD) - erledigt
+- TOP 3: Genehmigung vorliegender Protokolle - erledigt
+- TOP 3.1: Das Protokoll der 39. Sitzung vom 11.02.2026 - vertagt
+- TOP 4: Unerledigte Drucksachen aus dem Kinder- und Jugendparlament - erledigt
+- TOP 4.1: Sanierung des Hauses Flora (an der Stubenrauch- Ecke Odenwaldstraße) - erledigt
+- TOP 5: Vorhabenbezogener Bebauungsplan 7-100VE Südkreuz III - erledigt
+- TOP 6: Bauprojekt in der Görrestrasse - erledigt
+- TOP 7: Brand in der Motzstraße 12 - erledigt
+- TOP 8: Tätigkeitsbericht des Strategischen Flächenmanagements - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9.1: Kosten- und Finanzierungsübersicht (KoFi) für das Fördergebiet Potsdamer Straße zur Beschlussfassung durch die BVV (mitberatend / HA federführend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 10: Bericht aus der Verwaltung - erledigt
+- TOP 11: Anträge - vertagt
+- TOP 11.1: Ohne Ausgleichflächen kein Verkauf & keine Entwidmung von Sportflächen im Bezirk - mit Änderungen im Ausschuss beschlossen
+- TOP 11.2: Denkmalschutz für die Flora - vertagt
+- TOP 11.3: Dunkle Orte in Tempelhof-Schöneberg – Angsträume ausfindig machen – Angsträume angehen (federführend, FQI und Wirtschaft mitberatend) - vertagt
+- TOP 11.4: Ein Teil der IKEA-Parkfläche für öffentlichen Parkraum zur Verfügung stellen - mit Änderungen im Ausschuss beschlossen
+- TOP 11.5: Koordiniert mit anderen engagierten Bezirken gegen möbliertes Zeitwohnen vorgehen! - vertagt
+- TOP 11.6: Denkmalschutz und Klimaschutz in Einklang bringen - vertagt
+- TOP 11.7: Die Entwicklung des BImA-Geländes muss mit Beteiligung der Öffentlichkeit und der BVV erfolgen - vertagt
+- TOP 11.8: Wohnungen in der Potsdamer Straße 165/163 wieder dem Wohnungsmarkt zuführen (mitberatend, BdSSdW-Ausschuss federführend) - vertagt
+- TOP 11.9: Transparenz von Bebauungsplanverfahren auch nach Übergang auf DiPlanBeteiligung nachhaltig sicherstellen - vertagt
+- TOP 11.10: Behutsam mit Gleisdreieckpark-West umgehen – Freizeitwert auch für Schöneberger bewahren! - vertagt
+- TOP 11.11: Die Menschen bei der Innenentwicklung mitnehmen - vertagt
+- TOP 12: Mitteilungen zur Kenntnisnahme - vertagt
+- TOP 12.1: Haus der Jugend projektieren - vertagt
+- TOP 12.2: Haus der Jugend projektieren III - vertagt
+- TOP 12.3: Zukunft des Tempelhofer Parkfriedhofs - vertagt
+- TOP 12.4: Proaktiv: Lange leerstehende Büroflächen erfassen - vertagt
+- TOP 12.5: Ehemaliges Straßenbahndepot: Unternutzung und Leerstand vermeiden – realistische Entwicklungsoptionen anregen - vertagt
+- TOP 12.6: Pumpwerk Lichtenrade, John-Locke-Str. 45: Vorbereitung eines Wettbewerbsverfahrens - vertagt
+- TOP 12.7: Teil-Funktionslosigkeit des Baunutzungsplans, Baustufe V/3, für das allgemeine Wohngebiet zwischen der Grunewaldstraße, Akazienstraße, Hauptstraße und Kufsteiner Straße - vertagt
+- TOP 12.8: Beschluss über das integrierte städtebauliche Entwicklungskonzept (ISEK) Potsdamer Straße und Einbringung einer Vorlage - zur Kenntnisnahme - bei der Bezirksverordnetenversammlung - vertagt
+- TOP 13: Unerledigte Drucksachen - siehe hierzu separate Liste - vertagt
+- TOP 14: Verschiedenes - erledigt
