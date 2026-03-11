@@ -1,0 +1,6 @@
+# TOP 5: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ausschusses für Umwelt und Forsten der Stadt Oberwesel (2026-03-11)
+- Körperschaft: Stadt Oberwesel
+- Öffentlich: nein
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/ni_2026-Obe_Umwelt-11%7CMAnoe%7C2
