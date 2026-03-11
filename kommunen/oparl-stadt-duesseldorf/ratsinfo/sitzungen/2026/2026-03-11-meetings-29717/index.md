@@ -1,0 +1,71 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-11T17:07:00+01:00
+- Ende: 2026-03-11T19:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29717
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29717
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00578705.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00578705.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00578705.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung der Vertreter*innen des Jugendrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Vortrag zum Projekt "Jugend checkt Düsseldorf - Stadtbezirk 6"
+- TOP 5: Vortrag zu Berichten des Quartiersmanagements und Quartiersarchitektin - Rückblick auf 2025 und Ausblick auf die Aktionen für das Jahr 2026
+- TOP -: Bau- und Planungsangelegenheiten (wurden bereits übersandt)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 7: Inbetriebnahme U80/U81 - Empfehlung einstimmig beschlossen
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Regelungen für den Einsatz von Bodenschwellen (auf der Krahnenburgstraße) - vertagt
+- TOP 9: Anfrage der CDU-Fraktion: Zukünftig geplante Baustellen und vorgesehene Zeitrahmen im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 10: Anfrage der SPD-Fraktion: Arztpraxen im Stadtbezirk 6 - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 11: Anfrage des Luca Meyer (Die Linke): Übersicht städtischer Immobilien und Grundstücke im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 12: Anfrage des Luca Meyer (Die Linke): Sachstand zum Wohnvorhaben Rather Broich 154/Ecke Frobenstraße - vertagt
+- TOP 13: Anfrage der CDU-Fraktion: Verhinderung der Blockade von Geh- und Radwegen durch Gewerbetreibende im Stadtbezirk 6 - vertagt
+- TOP 14: Anfrage der CDU-Fraktion: Optimierung der Kreuzungssituation Beedstraße/Im Huferfeld in die Hamborner Straße - vertagt
+- TOP 15: Anfrage der SPD-Fraktion: Querungshilfe Volkardeyer Weg - vertagt
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Verbot von"'fliegenden Händlern" auf dem Unterrather Wochenmarkt - vertagt
+- TOP -: Anträge
+- TOP 17: Antrag der Fraktion BÜ90/Die Grünen: Entsiegelung und Begrünung des ehemaligen Schulhofs an der Kalkumer Straße - einstimmig beschlossen
+- TOP 18: Antrag der CDU-Fraktion: Beseitigung eines Altkleidercontainers an der Unterrather Straße 160 - einstimmig beschlossen
+- TOP 19: Antrag der CDU-Fraktion: Einrichtung Parklücke zwischen Baumscheibe und Stromkasten an der Unterrather Straße 101 - mehrheitlich beschlossen
+- TOP 20: Antrag der CDU-Fraktion: Änderung der Verkehrsführung auf dem Lichtenbroicher Weg zwischen Kreisverkehr und Einmündung in die Hamborner Straße/Theodorstraße - mehrheitlich beschlossen
+- TOP 21: Antrag der SPD-Fraktion: Durchführung einer Verkehrsberuhigung Wangeroogestraße/Kleinschmitthauser Weg - mehrheitlich abgelehnt
+- TOP 22: Antrag der SPD-Fraktion: Verkehrskonzept Kreuzungsbereich Unterrather Straße/Kalkumer Straße - zurückgezogen
+- TOP 23: Antrag der SPD-Fraktion: Instandsetzung Kreitenstraße - mehrheitlich abgelehnt
+- TOP 24: Antrag der SPD-Fraktion: Sanierung der Schultoiletten der GGS Max-Halbe-Straße - abweichend beschlossen
+- TOP 25: Antrag der SPD-Fraktion: Optimierung der Lichtzeichenanlagen-Steuerung, Hülsmeyerplatz - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen (wurden bereits übersandt)
+- TOP 26: An der Golzheimer Heide - Schulwegsicherung - abweichend beschlossen
+- TOP 27: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des English Theatre Düsseldorf - Performance und Education - From Page to Stage - einstimmig beschlossen
+- TOP 28: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Sitzgelegenheiten Vorplatz Theodorstraße - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 29: „Jugend checkt Düsseldorf“ im Stadtbezirk 6 - Anschaffung von Go Karts für die JFE Ammerweg - BV6/206/2025 - einstimmig beschlossen
+- TOP 30: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Bürger-Schützenverein 1925 e. V. Düsseldorf-Rath - Besucherakquise zum Rather Schützen- und Volksfest - einstimmig beschlossen
+- TOP 31: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des St. Sebastianus Schützenbruderschaft e. V. Düsseldorf-Unterrath - Jung und Alt miteinander - einstimmig beschlossen
+- TOP 32: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der KGS Herchenbachstraße und des Vereins der Förderer der St. Franziskus Schule e. V. - Theaterpädagogische Werkstatt - einstimmig beschlossen
+- TOP 33: Verfügungsmittel 2026 Jahresempfang der Bezirksvertretung 6 2026 - einstimmig beschlossen
+- TOP 34: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Caritasverband Düsseldorf e. V. zentrum plus Mörsenbroich - Entspannungs- und Gesprächsoase im zentrum plus Mörsenbroich - einstimmig beschlossen
+- TOP 35: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der Gemeinschaft "An der Golzheimer Heide" - Nachbarschaftsfest am Spielplatz Heinefeld - einstimmig beschlossen
+- TOP 36: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Bürgervereins Mörsenbroich 1928 e. V. - Fest der Gemeinschaft - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 38: Aufstellung von Fahrradständern im Bereich Dickhausweg am Einkaufszentrum in Lichtenbroich - Vorlage BV6/163/2021 und BV6/158/2022 - zur Kenntnis genommen
+- TOP 39: Sperrmüllkontrolle Rath - Vorlage BV6/119/2025 - zur Kenntnis genommen
+- TOP 40: Bleibt die Bauaufsicht bei illegalen Flughafenparkplätzen untätig? - Vorlage BV6/126/2025 - zur Kenntnis genommen
+- TOP 41: Baumfällungen im Stadtbezirk 6 ab der 5. Kalenderwoche 2026 - zur Kenntnis genommen
+- TOP 42: Toilettenanlage am Unterrather Friedhof - Vorlage BV6/020/2026 - zur Kenntnis genommen
+- TOP 43: Auswertung der App "Düsseldorf bleibt sauber" - BV6/077/2025 - zur Kenntnis genommen
+- TOP 44: Zulassung einer Vertretung des Behindertenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 45: Antrag der AfD-Fraktion: Absicherung des Fußgängerüberwegs Kürtenstraße nach Stellungnahme Bezirkspolizei - zurückgezogen
+- TOP 46: Tempo 30 auf "An der Piwipp" - Empfehlung abweichend beschlossen
