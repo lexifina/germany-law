@@ -1,0 +1,108 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-12T17:00:00+01:00
+- Ende: 2026-03-12T22:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34021
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34021
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage zur technischen Ausstattung des Bezirksamts Chorweiler - Kenntnis genommen
+- TOP 7.1.2: Versorgung des Stadtbezirks Chorweiler mit öffentlichen Abfallbehältern - Kenntnis genommen
+- TOP 7.1.3: Anfrage zur Sicherung des Bolzplatzes in Blumenberg-Süd — Installation Ballfangzaun/Netz - Kenntnis genommen
+- TOP 7.1.4: Anfrage zur Verbesserung der Verkehrssicherheit am Giershausener Weg in Köln - Kenntnis genommen
+- TOP 7.1.5: Jugendbeteiligung in der Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 7.1.6: Sicherheit der kritischen Infrastruktur - Kenntnis genommen
+- TOP 7.1.7: Anfrage zu unerlaubtem LKW-Parken auf dem Parkplatz P7 am Fühlinger See – unvollständige Umsetzung des Beschlusses AN/1743/2023) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sporthalle Henry-Ford-Realschule Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.2.2: Bushaltestellen/Wartehäuser Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Querungshilfe Kreuzung Mengenicher Str. /Johannesstr. Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Wohnsituation von Seniorinnen und Senioren im Stadtbezirk Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Abriss der alten Hauptschule Holzheimer Weg in Worringen/Neubau der Gesamtschule Gemeinsame Anfrage der CDU-Fraktion und der FDP - Kenntnis genommen
+- TOP 7.2.6: Berücksichtigung des Kölner Nordens bei der Errichtung neuer Carsharing-Stationen Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.2.7: Glasfaser Ausbau Langel Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.8: Pflege- und Reinigungsmaßnahmen für Grün- und Freiflächen im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.9: Bedarf und Standortprüfung für eine öffentliche Toilettenanlage in Köln Heimersdorf Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.10: Tiny House Siedlung im Kölner Norden Anfrage der Fraktion Bündnis´90/Die Grünen - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Sanierung Bruchstraße, AN/1996/2023
+- TOP 7.3.2: Beschilderung Parkplatzzufahrt Liverpooler Platz, AN/0148/2024
+- TOP 7.3.3: Anfrage zur Genehmigung und Gebührenpflicht des Trödelmarkts am Wochenmarkt Chorweiler, AN/1424/2025
+- TOP 7.3.4: Anfrage zur aktuellen und zukünftigen Verkehrssituation in Merkenich, AN/1428/2025
+- TOP 7.3.5: Parkplatzsituation Siedlung Chorweiler Nord, AN/1461/2025
+- TOP 7.3.6: Turbokreisel Emdenerstraße - Causemannstraße - Zufahrt Industriestraße, AN/1465/2025
+- TOP 7.3.7: Schulstrassen, AN/1466/2025
+- TOP 7.3.8: Sperrung mehrerer Parkflächen in Chorweiler-Nord und bei der Kontrollpraxis des Ordnungsamts, AN/1464/2025
+- TOP 7.3.9: Verwahrlosung des Areals ehemalige Postfiliale Chorweiler - Florenzer Str./Athener Ring, AN/0150/2026
+- TOP 7.3.10: Sanierung der Alten Römerstraße zwischen Rheinkassel und Merkenich, AN/0151/2026
+- TOP 7.3.11: Aktueller Stand und Perspektiven der Drogenhilfe im Stadtbezirk Köln-Chorweiler, AN/0158/2026
+- TOP 7.3.12: Olympiafolgen für Köln, AN/0160/2026
+- TOP 7.3.13: Parkplatzbewirtschaftung von Supermärkten, AN/0165/2026
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Abriss der Papageiensiedlung in Seeberg-Nord - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Runder Tisch Mobilität ÖPNV/MIV/Fahrrad/Fußgänger Gemeinsamer Antrag der CDU-Fraktion, der FDP, Die Linke und BSW - geändert beschlossen
+- TOP 8.2.2: Fachgespräch Fühlinger See Gemeinsamer Antrag der CDU-Fraktion, der FDP, Die Linke und BSW - ungeändert beschlossen
+- TOP 8.2.3: Kriminalpräventiver Rat Gemeinsamer Antrag der CDU-Fraktion, der FDP, Die Linke und BSW - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Innovation bei Müllentsorgung/Stadtreinigung Gemeinsamer Antrag der Fraktion Bündnis´90/Die Grünen, der SPD-Fraktion und der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Sicherstellung der planmäßigen Bedienung aller S-Bahn-Haltepunkte im Kölner Norden Stadtbezirk Chorweiler (S6 und S11) und wirksame Durchsetzung der Haltepflicht Gemeinsamer Antrag der SPD-Fraktion, der Fraktion Bündnis´90/Die Grünen und Die Linke - vertagt
+- TOP 8.3.3: Einrichtung einer Jugendvertretung in der Bezirksvertretung Chorweiler Gemeinsamer Antrag der CDU-Fraktion und der FDP - vertagt
+- TOP 8.3.4: Platzkümmerer für Chorweiler Gemeinsamer Antrag der Fraktion Bündnis´90/Die Grünen und der SPD-Fraktion - vertagt
+- TOP -: Änderungsantrag der Fraktion Bündnis´90/Die Grünen - vertagt
+- TOP 8.3.5: Gesundheitsschutz und Wohnqualität sicherstellen- Lärmschutz an der B9 in Worringen Gemeinsamer Antrag der CDU-Fraktion und der FDP - vertagt
+- TOP 8.3.6: Radwegverbindung Neusser Landstraße – Merkenich Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktion Bündnis´90/Die Grünen - endgültig zurückgezogen
+- TOP 8.3.7: Aufstellung eines zusätzlichen Mülleimers im Bereich Worringen Süd-West Antrag der CDU-Fraktion - vertagt
+- TOP 8.3.8: Lebenswertes Wohnen für alle - Gesundheitsgefahren ernst nehmen Antrag der Fraktion Bündnis´90/Die Grünen - endgültig zurückgezogen
+- TOP 8.3.9: Prüfung Einbahnstraße Mohlenweg Antrag der Fraktion Bündnis`90/Die Grünen - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis`90/Die Grünen - endgültig zurückgezogen
+- TOP 9.2.2: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - vertagt
+- TOP -: Änderungsantrag der Fraktion Bündnis`90/Die Grünen - vertagt
+- TOP 9.2.3: Konzept für die SeniorenNetzwerke Köln - vertagt
+- TOP 9.2.4: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - vertagt
+- TOP 10.2.2: Fühlinger See Veranstaltungsplanung 2026 - vertagt
+- TOP 10.2.3: Mitteilung Gesundheitsregion Köln - vertagt
+- TOP 10.2.4: ÖPNV-Netzentwicklung - Sachstand 2025 - vertagt
+- TOP 10.2.5: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - vertagt
+- TOP 10.2.6: Veröffentlichung der Stationen aus dem Carsharing Konzept - vertagt
+- TOP 10.2.7: Wahl der Seniorenvertretung der Stadt Köln 2026 - vertagt
+- TOP 10.2.8: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - vertagt
+- TOP 10.2.9: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - vertagt
+- TOP 10.2.10: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - vertagt
+- TOP 10.2.11: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - vertagt
+- TOP 10.2.12: 46. und 47. Bericht zur Situation Geflüchteter in Köln - vertagt
+- TOP 10.2.13: Stadtradeln 2026 - vertagt
+- TOP 10.2.14: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - vertagt
+- TOP 10.2.15: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - vertagt
+- TOP 10.2.16: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.: Überarbeitung der bezirklichen Busteilnetze - vertagt
+- TOP 10.2.17: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - vertagt
+- TOP 10.2.18: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - vertagt
+- TOP 10.2.19: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Mitteilung zum Sachstand der Technischen Masterplanung und zum weiteren Vorgehen in Bezug auf die Bewerbung um die Olympischen und Paralympischen Spiele - vertagt
+- TOP 10.2.20: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55, 50769 Köln-Merkenich - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - vertagt
+- TOP 11: Anfragen der Seniorenvertretung
