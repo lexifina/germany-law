@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-12T16:05:00+01:00
+- Ende: 2026-03-12T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34351
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34351
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Musik - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Kulturelle Bildung - vertagt
+- TOP 3.2: Römisches Köln 2050: Denkmäler erfassen, Erbe bewahren - ungeändert beschlossen
+- TOP 3.3: Kein Raum für Sexismus und Machtmissbrauch – klare Standards in der Kölner Kulturförderung! - geändert beschlossen
+- TOP -: Änderungsantrag zu AN/0325/2026 „Kein Raum für Sexismus und Machtmissbrauch – klare Standards in der Kölner Kulturförderung!“ auf der Sitzung des Ausschusses für Kunst und Kultur am 12.3.2026 - Sache ist erledigt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Kommunaler Fonds Kulturelle Bildung 2026 - ungeändert beschlossen
+- TOP 4.2: Bestellung der Jury-Mitglieder für den Holger Czukay-Preis für Popmusik der Stadt Köln für 2026 bis 2030 - ungeändert beschlossen
+- TOP 4.3: Bestellung der sachverständigen Mitglieder der Jurys zur Vergabe der Förderstipendien der Stadt Köln - ungeändert beschlossen
+- TOP 4.4: Vergabe der Projektförderung an CINEPÄNZ - Junges Filmfestival Köln - ungeändert beschlossen
+- TOP 4.5: Vergabe zur Restaurierung und fotografischen Dokumentation von Urkunden - vertagt
+- TOP -: Änderungsantrag TOP 4.5 – Vergabe zur Restaurierung und fotografischen Dokumentation - vertagt
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Stellungnahme zu einem schriftlichen Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Bessere Bewerbung für Angebote der kulturellen Bildung" (AN/0861/2025) - Von der Verwaltung abgesetzt
+- TOP 8.2: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - vertagt
+- TOP 8.3: Vorstellung des Spielplans 2026/2027 der Puppenspiele der Stadt Köln - Kenntnis genommen
+- TOP 8.4: KölnMusik GmbH - Besucherstatistik der Kölner Philharmonie für das 2. Halbjahr 2025 - Kenntnis genommen
+- TOP 8.5: Sachstandsbericht: Umsetzung von Landesförderprogrammen der Kulturellen Bildung sowie kommunaler Förderungen
+- TOP 8.6: Stadtbibliothek Köln: Bericht und Ausblick 2025/2026 - Kenntnis genommen
+- TOP 8.7: Kulturelle Infrastruktur, Strategie, Belange der Freien Szene - Jahresbericht 2025 - vertagt
+- TOP 8.8: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten/Termin-Darstellung (Zeitstrahl) - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 23. Februar 2026 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Zentralbibliothek Köln, Stand 25. Februar 2026 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 25. Februar 2026 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Kunst und Kultur vom 09.12.2025 betreffend Bewirtschaftung des Kulturetats - Kenntnis genommen
+- TOP 10.3: Beantwortung einer mündlichen Anfrage der SPD-Fraktion betreffend "Sachstand Standortfrage Kunst- und Museumsbibliothek (KMB)" - vertagt
+- TOP 10.4: Beantwortung einer mündlichen Anfrage von RM Deutsch, FDP-Fraktion, aus der Sitzung des Ausschusses Kunst und Kultur vom 09.12.2025 bezüglich der Situation des Museums für Angewandte Kunst - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Anfrage von Bürgermeisterin Maria Helmis- Arend betreffend "Neustrukturierung der Stabsstellen im Dezernat Kunst und Kultur" vom 29.01.2026 0275/2026 - Kenntnis genommen
+- TOP 10.6: Beantwortung der Anfrage AN/1396/2025 der Fraktion Bündnis 90/Die Grünen bezüglich dem aktuellen Sachstand zu den Räumlichkeiten in der Lotharstraße - Kenntnis genommen
+- TOP 10.7: Beantwortung von mündlichen Anfragen betreffend "Sachstandsbericht MiQua - LVR-Jüdisches Museum im Archäologischen Quartier Köln" - Kenntnis genommen
+- TOP 10.8: Erweiterung der Öffnungszeiten in der Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP 10.9: Beantwortung einer mündlichen Anfrage von RM Hölzing aus der Sitzung des Ausschusses für Bauen und Wohnen vom 08.12.2025 bezüglich der Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion und der Kölner StadtGesellschaft von 22.01.2026 aus der Sitzung des Ausschusses für Kunst und Kultur vom 29.01.2026 - Kenntnis genommen
+- TOP 11.2: Zukunft des inklusiven Kunsthauses Kalk (KUBiST e.V.) in den Hallen Kalk - vertagt
+- TOP 11.3: Nutzung und Gestaltung des Ebertplatzes - vertagt
+- TOP 12: Mündliche Anfragen
