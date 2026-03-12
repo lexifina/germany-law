@@ -1,0 +1,75 @@
+# 4. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-12T17:06:00+01:00
+- Ende: 2026-03-12T17:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34112
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34112
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen - Kenntnis genommen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Gem. Antrag von SPD- und CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Zebrastreifen vor Grundschulen in Neubrück" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion B90/ Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: " Pilotprojekt Blumenampeln" - ungeändert beschlossen
+- TOP 7.3: Antrag der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Nie wieder Krieg! Nie wieder Faschismus!" - Sache ist erledigt
+- TOP -: Gem. Änderungsantrag der Fraktionen SPD, B90/Die Grünen, Die LINKE. und Volt und Hooghoughi in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026 zu TOP 7.3: "Unterstützung der AG Bodendenkmal Gremberger Wäldchen" - ungeändert beschlossen
+- TOP 7.4: Antrag der AFD in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Bericht zum Sachstand des Umzugs des AZs durch den zuständigen Dezernenten" - endgültig abgelehnt
+- TOP 7.5: Gem. Antrag der Fraktionen SPD, CDU, B90/Die Grünen und Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Vergabe bezirksorientierte Mittel für 2026" - ungeändert beschlossen
+- TOP -: Gem Änderungsantrag der Fraktionen SPD, CDU, B90 Die Grünen, Die LINKE., Volt und Hooghoughi AN 0489 2026 TOP 7.5: "Vergabe bezirksorientierte Mittel für 2026" - Sache ist erledigt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen: "Bauturbo" - endgültig zurückgezogen
+- TOP -: Gem. Änderungsantrag der Fraktionen SPD, CDU, Die LINKE., B90/Die Grünen, Volt und Hooghoughi zur Vorlage "Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" – Zustimmungsverfahren § 36a BauGB und Leitlinien zur Anwendung in Köln" - ungeändert beschlossen
+- TOP 8.2.2: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 8.2.3: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 8.2.4: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - vertagt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung der Anfrage AN/0009/2026 der Fraktion Die Linke bezüglich eines Abrisses der Hallen Kalk - Kenntnis genommen
+- TOP 9.1.2: Anfrage der AfD-Fraktion in der BV 8 zu Schutzräumen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Gem. Anfrage der Fraktionen SPD und CDU in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Sachstand zur Nutzung der Sportanlage Servatiusstraße durch die Sportschützengesellschaft Köln-Ostheim 1963 e.V." - Kenntnis genommen
+- TOP 9.2.2: Anfrage der CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Ausbaubeginn sowie Miteinbeziehung der Bürgerinnen und Bürger beim Baumbestand und den Parkplätzen in der Matthias-Müller-Str. in 51107 Köln-Rath/Heumar" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: " Baumaßnahmen Gehweg in der Neuerburgstraße" - Kenntnis genommen
+- TOP 9.2.4: Anfrage der AFD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Sanierungsmaßnahmen auf der Frankfurter Straße" - Kenntnis genommen
+- TOP 9.2.5: Anfrage der CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Situation an der Haltestelle (Linie 1) Flehbachstr. in 51109 Köln-Brück" - Kenntnis genommen
+- TOP 9.2.6: Anfrage der AfD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 12.03.2026: "Unzureichende Verpflegung von Schülern in Kalk" - Kenntnis genommen
+- TOP 9.2.7: Anfragen aus vorherigen Sitzungen Stand 11.03.2026 - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Kenntnis genommen
+- TOP 10.2.3: Info-Heft "Misch MIT! in deinem Veedel!" - Kenntnis genommen
+- TOP 10.2.4: „Misch MIT!" - Auswertung Pilotprojekt „Beteiligung junger Menschen in der Bezirksvertretung Innenstadt" - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Beschilderung und Einrichtung einer Spielstraße in der Burgenlandstraße, Aktenzeichen 184/23 - Kenntnis genommen
+- TOP 10.2.6: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 10.2.7: Sachstandsmitteilung zu den von der Bezirksvertretung Kalk priorisierten Straßenbaumaßnahmen
+- TOP 10.2.8: Sportentwicklungsplanung - Produktion von Trainingsvideos für die Bewegungsparcours und -stationen im Kölner Grün - Kenntnis genommen
+- TOP 10.2.9: Ehrenamtspreis "KölnEngagiert 2026" - Kenntnis genommen
+- TOP 10.2.10: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 10.2.11: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.12: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.13: Stadtradeln 2026 - Kenntnis genommen
+- TOP 10.2.14: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - Kenntnis genommen
+- TOP 10.2.15: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.16: Niederschrift 17. Runder Tisch Kalk - Kenntnis genommen
+- TOP 10.2.17: Niederschrift 18 Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.18: Veröffentlichung der Stationen aus dem Carsharing Konzept
+- TOP 10.2.19: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 10.2.20: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 10.2.21: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.:Überarbeitung der bezirklichen Busteilnetze - Kenntnis genommen
+- TOP 10.2.22: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 10.2.23: Erweiterung der Öffnungszeiten in der Stadtteilbibliothek Kalk - Kenntnis genommen
