@@ -1,0 +1,22 @@
+# Bebauungsplan Sü 14 - Westlich des Oberfeldweges - -Durchführung der öffentlichen Auslegung -Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange
+
+- Körperschaft: Gemeinde Kirchlengern
+- Drucksache/Vorlage: 2022/50 1. Ergänzung
+- Art: BESCHLUSSVORLAGE
+- Datum: 2026-03-12
+- Ratsinformationssystem: https://kirchlengern.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZT00uwE-xjQYShT_CzS2-hE
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/12911
+- Quelle: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: BESCHLUSSVORLAGE (Bebauungsplan Sü 14 - Westlich des Oberfeldweges -
+-Durchführung der öffentlichen Auslegung
+-Beteiligung der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc3rBwS19CfH7An6yIDl9X0l-iavLrJvf06En2kVHEyz/BESCHLUSSVORLAGE_2022-50_1._Ergaenzung.pdf
+- Anlage: BESCHLUSSVORLAGE (B-Plan Sü 14 Westlich Oberfeldweg Entwurf Anlage 1) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRVeXv3HY1G9CjwG7GH4LslZ-G4odUgtZ6H7SVmlu4aI/B-Plan_Sue_14_Westlich_Oberfeldweg_Entwurf_Anlage_1.pdf
+- Anlage: BESCHLUSSVORLAGE (Begründung B-Plan Westlich Oberfeldweg Entwurf Anlage 2) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcWllrXlMEX_E2-axUGZQmF-Lugm28n-rOqI9pcAmeYv/Begruendung_B-Plan_Westlich_Oberfeldweg_Entwurf_Anlage_2.pdf
+- Anlage: BESCHLUSSVORLAGE (Fachbeitrag Artenschutz Anlage 3) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWIt8BMRuZnFyyludyKERhwzOjspJjvfGPVsqug6WGcA/Fachbeitrag_Artenschutz_Anlage_3.pdf
+- Anlage: BESCHLUSSVORLAGE (Verkehrstechnische Untersuchung Anlage 4) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYyT6n2ka6tspl2y6YE6Defrvnv0wNi1KMJN4rlgw_s/Verkehrstechnische_Untersuchung_Anlage_4.pdf
+- Anlage: BESCHLUSSVORLAGE (FNP-Berichtigung Anlage 5) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdsU3hIrcUOgKTbGVfrMChzD_q4mWqic2mCU8JTr_kY9/FNP-Berichtigung_Anlage_5.pdf
+- Beratung:  https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20645 https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20644 https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-26
+- Beratung:  https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20533 https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-16
+- Beratung:  https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20543 https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-16
+- underDirectionOf: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-190
