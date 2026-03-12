@@ -1,0 +1,95 @@
+# 4. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-12T16:00:00+01:00
+- Ende: 2026-03-12T21:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33903
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33903
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Künstlerische Intervention Waidmarkt- Information zum Sachstand durch das Dezernat für Kunst und Kultur
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Einrichtung einer zusätzlichen Hundefreilaufflächen im August-Sander-Park - geändert beschlossen
+- TOP 3.2: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - geändert beschlossen
+- TOP -: Änderungsantrag zur Vorlage (3220/2025) „Grundsatzbeschluss und Leitlinien zum "Bau-Turbo"– Zustimmungsverfahren § 36a BauGB und Leitlinien zur Anwendung in Köln, gem. Änderungsantrag B90/Die Grünen, CDU, SPD und Volt - geändert beschlossen
+- TOP 3.3: Genehmigung Dringlichkeitsentscheidung - Nutzung des Grundstücks Erftstraße 38 (ehemalige Tankstelle) in Köln als Baustelleneinrichtungs-Fläche für die Maßnahme „Generalsanierung und OGS-Erweiterungsneubau Montessori-Grundschule Gilbachstraße 20“ - ungeändert beschlossen
+- TOP 3.3.1: Nutzung des Grundstücks Erftstraße 38 (ehemalige Tankstelle) in Köln als Baustelleneinrichtungs-Fläche für die Maßnahme „Generalsanierung und OGS-Erweiterungsneubau Montessori-Grundschule Gilbachstraße 20“ - Sache ist erledigt
+- TOP 3.4: Genehmigung Dringlichkeitsentscheidung - Einrichtung für das Gymnasium Kartäuserwall 40, 50676 Köln (Altstadt-Süd) - ungeändert beschlossen
+- TOP 3.5: Vorgehensmodell für die dauerhafte Regelung „Straßenmusik im Domumfeld“ - ungeändert empfohlen
+- TOP 3.6: Konzept für die SeniorenNetzwerke Köln - ungeändert empfohlen
+- TOP 3.7: Vergabekonzept für Veranstaltungen auf dem Chlodwigplatz in der Kölner Südstadt vom 01.01.2026 bis 30.12.2030 - ungeändert empfohlen
+- TOP 3.8: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert empfohlen
+- TOP 3.9: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Luxemburger Straße und Zülpicher Straße - geändert beschlossen
+- TOP 3.10: Vergabe Stadtklima- und Stadtverschönerungsmittel 2026 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 3.11: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2026 - ungeändert empfohlen
+- TOP 3.12: Bildung eines Teilstandortes für das Friedrich-Wilhelm-Gymnasium, Severinstr. 241, 50676 Köln
+- TOP -: Ergänzung der Beschlussvorlage „Bildung eines Teilstandortes für das Friedrich-Wilhelm-Gymnasium“: Sicherung von Fahrradabstellplätzen und Verbesserung der Verkehrssituation im Umfeld des Friedrich-Wilhelm-Gymnasiums und der Kaiserin-Agusta-Schule, S - ungeändert beschlossen
+- TOP 3.13: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Helenenwallstraße in Köln-Deutz - vertagt
+- TOP 3.14: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ungeändert empfohlen
+- TOP 3.15: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Kleine Spitzengasse in Köln Altstadt-Süd - ungeändert empfohlen
+- TOP 3.16: Brüsseler Platz: Ordnungsbehördliche Verordnung über ein nächtliches Alkoholkonsumverbot und Alkoholmitführverbot - abgelehnt (in der Vorberatung)
+- TOP 3.17: Einrichtung Fahrradstraße Im Sionstal von Mechtildisstraße bis Kleine Witschgasse - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO NRW - Autoparken am Appellhofplatz, Aktenzeichen 50/25 - vertagt
+- TOP 4.2: Bürgereingabe nach § 24 GO NRW - Neue Langgasse autofrei umgestalten, Aktenzeichen 206/2023 - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO – Umgestaltung der Verkehrsführung und Installation eines barrierefreien Haltepunktes am Josef-Haubrich-Hof 5, Aktenzeichen: 167/24 - ungeändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verbesserung der Verkehrssicherheit Am Leystapel und Prüfung der Öffnung des Rheinufertunnels für den Radverkehr, gem. Antrag B90/Die Grünen, Die Linke und Volt - vertagt
+- TOP 5.1.2: Fällgenehmigung von sieben Bäumen im Bereich Weberstraße/Löwengasse (Interimsbau Feuerwache 1) – Sicherstellung der Kompensationspflicht gemäß Kölner Baumschutzsatzung (§ 10) und Beitrag zum Klimaneutralitätsziel 2035, Antrag Grüne - vertagt
+- TOP 5.1.3: Verkehrssicherheit auf der Fahrradstraße Pantaleonswall / Trierer Straße erhöhen, Antrag SPD - vertagt
+- TOP 5.1.4: Maßnahmenpaket Severinstraße, gem. Antrag SPD und Volt - vertagt
+- TOP 5.1.5: Verbesserung der Pflege und Instandsetzung der Hochbeete und Grünflächen am Jean-Jülich-Weg (Kölner Südstadt), Antrag SPD - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Baumschutzsatzung anpassen: Höhere Ausgleichszahlungen, ortsnahe Ersatzpflanzungen, Schutz von Fassaden- und Dachbegrünungen., Antrag B90/Die Grünen - vertagt
+- TOP 5.2.2: Einrichtung einer „Toilette für alle“ im Bereich Neumarkt, gem. Antrag B90/Die Grünen, Die Linke, CDU, SPD, Volt und FDP - ungeändert beschlossen
+- TOP 5.2.3: Mehr Sicherheit im Umgang mit gewerblich genutzten Fahrrädern, Antrag CDU - geändert beschlossen
+- TOP 5.2.4: Lückenschluss Tempo 30: Von der Stadtbibliothek bis zur Universität, Antrag B90/Die Grünen - vertagt
+- TOP 5.2.5: Begrünung nach Wegfall von Parkplätzen, Antrag B90/Die Grünen - vertagt
+- TOP 5.2.6: Tempo 30 auf der Rheinuferstraße, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Fort X - Fragen zum Zustand und den nächsten Schritten, Anfrage CDU - vertagt
+- TOP 6.1.3: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP 6.1.4: Neues Spielgerät im Innenhof des Bürgerzentrums Alte Feuerwache, Anfrage SPD - vertagt
+- TOP 6.1.5: Umfang und Ursachen kampfmittelbedingter Baumfällungen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.6: Vermeidungsstrategien und Handlungsspielräume bei kampfmittelbedingten Baumfällungen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.7: Parkmöglichkeiten in der Innenstadt erhalten, Anfrage CDU - vertagt
+- TOP 6.1.8: Baumfällungen rund um die geplante Großunterkunft für Geflüchtete im Agnesviertel, Anfrage CDU - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Großformatige Werbung in der Innenstadt, Anfrage Die Linke - vertagt
+- TOP 6.2.2: Sanierung der Eisenbahnbrücken Innenstadt, Anfrage Die Linke - vertagt
+- TOP 6.2.3: Dringende Sanierung und Neustart für die Bastei, Anfrage CDU - vertagt
+- TOP 7: Mitteilungen der Bezirksbürgermeisterin
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung": Umgestaltung der Pipinstraße und Herstellung einer Freitreppe an St. Maria im Kapitol - Kenntnis genommen
+- TOP 8.2: Sachstandsmitteilung zu den von der Bezirksvertretung Innenstadt priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 8.3: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Kenntnis genommen
+- TOP 8.4: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 8.5: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 8.6: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 8.7: Veröffentlichung der Stationen aus dem Carsharing Konzept - Kenntnis genommen
+- TOP 8.8: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.9: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.10: Bebauungsplan (Entwurf) Nr. 68439/04 "Deutzer Hafen - Teilplan A" in Köln-Deutz - Kenntnis genommen
+- TOP 8.11: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - Kenntnis genommen
+- TOP 8.12: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 8.13: Niederschrift zur 20. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 03.02.2026 - Kenntnis genommen
+- TOP 8.14: Stadtradeln 2026 - Kenntnis genommen
+- TOP 8.15: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parkplätze im Agnesviertel, Aktenzeichen 124/25 - Kenntnis genommen
+- TOP 8.16: Sachstandsberichte - Kenntnis genommen
+- TOP 8.17: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 8.18: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.:Überarbeitung der bezirklichen Busteilnetze - Kenntnis genommen
+- TOP 8.19: Soziale Erhaltungssatzungen in Köln: Sachstandsbericht zur Umsetzungspraxis für den Berichtszeitraum 01.01.2025 bis 31.12.2025 - Kenntnis genommen
+- TOP 8.20: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 8.21: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 8.22: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren" - Kenntnis genommen
+- TOP 8.23: Gestaltung der Schullandschaft im Stadtbezirk Innenstadt betreffend Gymnasium Neustadt-Nord - Katholische Hauptschule am Rhein - Weiterbildungskollegs - Kenntnis genommen
