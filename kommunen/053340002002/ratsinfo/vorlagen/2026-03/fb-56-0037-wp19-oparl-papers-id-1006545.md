@@ -1,0 +1,31 @@
+# Demographiekonzept der Stadt Aachen, Ratsantrag 071/18 der SPD-Fraktion „Dem demografischen Wandel begegnen – Erstellung eines ressortübergreifenden, strategischen Demografiekonzepts"
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 56/0037/WP19
+- Art: Entscheidungsvorlage
+- Datum: 2026-03-12
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=1006545
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=1006545
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1485846&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000565 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000636 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=84
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000561 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=16
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000651 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1000011
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000538 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=107
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000582 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000540 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000590 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000597 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000464 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000655 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1000012
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000487 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000605 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000573 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000619 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000612 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000502 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000657 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1000014
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000626 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=90
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000659 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1000013
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000443 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
