@@ -1,0 +1,7 @@
+# TOP 5: Beratung und Informationen aus der Bauausschusssitzung vom 26.02.206: Sanierung und Erweiterung des Dorfgemeinschaftshauses
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Guckheim (2026-03-12)
+- Körperschaft: Ortsgemeinde Guckheim
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2026-9-153%7Czt_1%7C1
+- Beschluss (Datei): Beschluss - Top 5 https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-9-153%7Czt_1%7C1
