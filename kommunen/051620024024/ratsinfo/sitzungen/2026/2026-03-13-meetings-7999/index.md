@@ -1,0 +1,85 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-03-13T16:00:00+01:00
+- Ende: 2026-03-13T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7999
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7999
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 13.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00240913.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 13.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00240913.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 13.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00240913.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen mehrheitlich zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Chancengerechtigkeit und Integration
+- TOP 5: Mitwirkung in anderen Gremien der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 6: Besetzung der Ankaufskommission Sammlung „Kunst aus Neuss“ - einstimmig zugestimmt
+- TOP 7: Besetzung eines Beirats zur Sammlung „Kunst aus Neuss“ - einstimmig zugestimmt
+- TOP 8: Besetzung Kommission für Kunst im öffentlichen Raum - einstimmig zugestimmt
+- TOP 9: Erklärung der Stadt Neuss zum Abschluss einer Schiedsvereinbarung („stehendes Angebot“) zur Rückgabe von NS-Raubgut aus öffentlichen Sammlungen - einstimmig zugestimmt
+- TOP -: Komitee für Städtepartnerschaften, Europa und Internationales
+- TOP 10: Änderung der Richtlinie für Zuschüsse für Partnerschaftsbegegnungen - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 11: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses gemäß § 71 Abs. 5 KJHG i. V. m. § 5 Abs. 3 AG-KJHG sowie § 5 der Satzung des Jugendamtes der Stadt Neuss - einstimmig zugestimmt
+- TOP 12: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses gemäß § 5 Abs. 1 AG-KJHG - einstimmig zugestimmt
+- TOP 13: Verabschiedung Kinder- und Jugendförderplan der Stadt Neuss 2026 - 2030 - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 14: Feststellung des Jahresabschlusses zum 31.12.2024 für Stadtgrün Neuss (vormals Städtische Friedhöfe Neuss) - einstimmig zugestimmt
+- TOP 15: Gebührenkalkulation 2026 für den Bereich Bestattungswesen - einstimmig zugestimmt
+- TOP 16: Wirtschaftsplan 2026 für Stadtgrün Neuss (SGN) - einstimmig zugestimmt
+- TOP -: Haupt-, Sicherheits- und Gleichstellungsausschuss
+- TOP 17: Einführung der Bezahlkarte für Geflüchtete in Neuss - mehrheitlich zugestimmt
+- TOP -: Sportausschuss
+- TOP 18: Bestellung von Vertretern des Stadtsportverbandes Neuss zu beratenden Mitgliedern des Sportausschusses - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Innenstadtstärkung
+- TOP 19: Umgang mit dem Bauturbo bei der Stadt Neuss - abgesetzt
+- TOP -: Ausschuss für Wirtschaft, Beschäftigung und Liegenschaften
+- TOP 20: Feststellung des Jahresabschlusses 2024 der Liegenschaften und Vermessung Neuss (LVN) und Gewinnverwendungsbeschluss 2024, sowie Beschluss über die Entlastung der Betriebsleitung - einstimmig zugestimmt
+- TOP 21: Wirtschaftsplan der Liegenschaften und Vermessung Neuss (LVN) für das Wirtschaftsjahr 2026 - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales und Inklusion
+- TOP 22: Änderung der Satzung zur Wahrung der Belange von Menschen mit Behinderungen und Aufhebung der Geschäftsordnung für den Inklusionsbeirat - einstimmig zugestimmt
+- TOP 23: Bestellung von beratenden Mitgliedern für inklusive Themen für die Fachausschüsse des Rates der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 24: Bestellung von beratenden Mitgliedern: Stadtelternrat, Schülervertretung, OGS-Vertretung - einstimmig zugestimmt
+- TOP 25: Anpassung der OGS-Budgets zum Schuljahr 2026/2027 - einstimmig zugestimmt
+- TOP 26: Überlassung von städtischen Räumlichkeiten hier: Grundsätze zur Überlassung von Schulräumen in der Stadt Neuss - einstimmig zugestimmt
+- TOP 27: Änderung der Gebührenordnung der Musikschule der Stadt Neuss zum 01.10.2026 - einstimmig zugestimmt
+- TOP 28: Anträge Berufsförderung und Schulwerkstätten zum Schuljahr 2026/2027 - einstimmig zugestimmt
+- TOP -: Mobilitäts- und Infrastrukturausschuss
+- TOP 29: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2024 - einstimmig zugestimmt
+- TOP 30: Wirtschaftsplan 2026 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Finanzausschuss
+- TOP 31: Änderung der Hundesteuersatzung - mehrheitlich zugestimmt
+- TOP 32: Beratung des Haushaltsplan-Entwurfes 2026 - mehrheitlich zugestimmt
+- TOP 33: Erlass einer Hebesatzsatzung - mehrheitlich zugestimmt
+- TOP 34: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 34.1: Ausweitung des Brandschutzbedarfsplan 2022-2026 - einstimmig zugestimmt
+- TOP 35: Wahl der/des Ersten Beigeordneten und Stadtkämmerin/Stadtkämmerers - einstimmig zugestimmt
+- TOP 36: Benennung von Delegierten für die Mitgliederversammlung des Städtetages NRW am 9. und 10.6.2026 in Oberhausen - einstimmig zugestimmt
+- TOP 37: Antrag der Zukunftsinitiative Innenstadt Neuss e.V. auf Änderung der Ordnungsbehördlichen Verordnung über das Öffnen von Verkaufsstellen an Sonn- und Feiertagen - mehrheitlich zugestimmt
+- TOP 38: Antrag des Möbelhaus Höffner auf Erlass einer ordnungsbehördlichen Verordnung zur Öffnung des Geschäftes an Sonntagen im Rahmen der Durchführung der Landesgartenschau Neuss gemäß Ladenöffnungsgesetz NRW - mehrheitlich zugestimmt
+- TOP 39: Neuausrichtung des Wildgeheges im Selikumer Park - mit Änderungen einstimmig zugestimmt
+- TOP 40: Genehmigung der Dringlichkeitsentscheidung Nr. 3 betr.: Vertretung der Stadt Neuss in den Drittgremien, hier Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (RSGV) - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP -: Anfragen
+- TOP 40.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 41: Inklusion in den Gremien der Stadt Neuss - zur Kenntnis genommen
+- TOP 42: Bericht zur finanziellen Lage des Rheinischen Landestheaters - zur Kenntnis genommen
+- TOP 43: Energieverbräuche und -kosten für städtisch genutzte Gebäude - zur Kenntnis genommen
+- TOP 44: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer vom III. Quartal 2024 bis III. Quartal 2025 genehmigt hat - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
