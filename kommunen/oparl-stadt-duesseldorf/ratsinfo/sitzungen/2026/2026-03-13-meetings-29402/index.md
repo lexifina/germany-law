@@ -1,0 +1,78 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-13T16:00:00+01:00
+- Ende: 2026-03-13T18:27:00+01:00
+- Ort: Bürgerhaus Benrath, Telleringstraße 56
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29402
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29402
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung 13.03.2026, Stand 13.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00580851.pdf
+- Ergebnisprotokoll: BV9 Einladung 13.03.2026, Stand 13.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00580851.pdf
+- Wortprotokoll: BV9 Einladung 13.03.2026, Stand 13.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00580851.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 27.02.2026 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 30.01.2026 - einstimmig beschlossen
+- TOP 4: Zulassung einer Vertretung des Behindertenrates - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Südlich Hildener Straße: Sachstand und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Errichtung der Mobilitätsstation Werstener Dorfstraße im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-MM) - zur Kenntnis genommen
+- TOP 5.4: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 5.5: Benennung des Wanderparkplatzes zwischen der Drängenburger Straße und dem Baumberger Weg in „An Piels Loch“ (00593) - einstimmig abgelehnt
+- TOP 5.5.1: Änderungsantrag zur Verwaltungsvorlage BV9/204/2025 Benennung des Wanderparkplatzes zwischen Drängenburger Straße und dem Baumberger Weg in " An Piels Loch" - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.6: Benrather Märkte im Jahr 2026 - einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Straßenschäden Gänsestraße Urdenbach - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 6.2: Zeitplan für die Rampe Kappeler Straße/ Brücke über Münchner Straße Richtung Süden - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Radfahrstreifen Benrather Schlossallee - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 7.5: Radschutzstreifen Urdenbacher Allee - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Spurensuche im Stadtbezirk 9 - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Schulwegsicherheit in Hassels – Standorte der Hol- und Bringzonen - Antrag der CDU- und SPD-Fraktion - einstimmig beschlossen
+- TOP 8.3: Stadtbahnverlängerung nach Garath/Urdenbach - Antrag der CDU- und SPD-Fraktion - einstimmig beschlossen
+- TOP 8.4: Änderungsvorschlag Bezirksradwegenetz im Stadtbezirk 9 - Antrag der CDU- und SPD-Fraktion - mehrheitlich beschlossen
+- TOP 8.5: Schulwegsicherung für den neuen Schulkomplex, Umwidmung der Benrodestraße als Fahrradstraße zwischen Kappeler Straße und Schöner Aussicht -Interfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.6: Schulwegsicherung Benrather Schloßallee / Bonner Straße -Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Grundsatzbeschluss zur Anwendung der Novelle des Baugesetzbuches („Bau-Turbo") – Entscheidungszuständigkeiten der Bezirksvertretungen wahren – Schnelle Entscheidungen ermöglichen - Antrag der CDU-, SPD-Fraktion, Fraktion Bündnis 90/ Die Grünen, FDP - einstimmig beschlossen
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Interessengemeinschaft Pauls-Mühler Jecken e.V. - "Tanz in den Mai" 2026 - einstimmig beschlossen
+- TOP 9.2: Interessengemeinschaft Pauls-Mühler Jecken e.V. - "Kinder-Ostern" 2026 - einstimmig beschlossen
+- TOP 9.3: Spektrum 76 e.V. - "50 Jahre Spektrum 76 Ausstellungen" 2026 - einstimmig beschlossen
+- TOP 9.4: Kunst im Hafen e.V. - Gruppenausstellung "Das Atmen der Wände" 2026 - vertagt
+- TOP 9.5: Benrather Initiative für Nachhaltigkeit, BIN - Kinder-Kulturveranstaltung am Benrather Bücherschrank - einstimmig beschlossen
+- TOP 9.6: Christophorus-Schule - Projekt Freundschaftsbank 2026 - einstimmig beschlossen
+- TOP 9.7: St. Seb. Schützenverein Wersten 1925 e. V. - Jugendfahrt des Pagencorps Wersten 2026 - einstimmig beschlossen
+- TOP 9.8: GGS Südallee - Medienpräventionsprojekt 2026 - einstimmig beschlossen
+- TOP 9.9: Collage e.V. - Fastenbrechen in Kooperation mit dem Bürgerhaus Reisholz - einstimmig beschlossen
+- TOP 9.10: Diakonie Düsseldorf-zentrum plus Benrath - Lesung in der Stadtteilbücherei Benrath 2026 - einstimmig beschlossen
+- TOP 9.11: Benrather Kulturkreis - "Wort und Ton im Atelier 2026" - einstimmig beschlossen
+- TOP 9.12: Benrather Kulturkreis - "Kinderprosa 2026" - einstimmig beschlossen
+- TOP 9.13: Interessengemeinschaft Pauls-Mühler Jecken e.V. - Afterzugparty 2026 - einstimmig beschlossen
+- TOP 9.14: Wir in Wersten - Werstenrallye 2026 - einstimmig beschlossen
+- TOP 9.15: Wir in Wersten - Osterfeuer 2026 - einstimmig beschlossen
+- TOP 9.16: Wir in Wersten - Bienenlauf 2026 - einstimmig beschlossen
+- TOP 9.17: Himmelgeist 1100 e.V. - 21. Himmelgeister Jüchtlauf 2026 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Uferstraße - Beschluss der Bezirksvertretung 9 vom 21.02.2025; BV9/030/2025 - zur Kenntnis genommen
+- TOP 10.2: Nachtrag zum TOP 10.1 (BV9/241/2025) "Aufstellen einer mobilen Geschwindigkeitsanzeigetafel an der Leichlinger Straße" aus der Sitzung am 30.01.2026 - zur Kenntnis genommen
+- TOP 10.3: Straßenbau in "Grüner Siedlung" - Beschluss der Bezirksvertretung 9 vom 30.01.2026; BV9/017/2026 - zur Kenntnis genommen
+- TOP 10.4: Ohmweg - Beschluss der Bezirksvertretung 9 vom 30.01.2026; BV9/006/2026 - zur Kenntnis genommen
+- TOP 10.5: Nachtrag zum TOP 12.1 (BV9/203/2025) Am Broichgraben – Sanierung und Umbau zwischen Haus Nr. 68 und Nr. 28 aus der Sitzung vom 14.11.2025 - zur Kenntnis genommen
+- TOP 10.6: Nachtrag zum TOP 7.1 (BV9/018/2026) RheinTakt (Stufe 2) und zur Taktverdichtung in der Henkelsiedlung aus der Sitzung vom 30.01.2026 - zur Kenntnis genommen
+- TOP 10.7: Einsatzfahrten aus der Polizeiwache Wersten - Beschluss der Bezirksvertretung 9 vom 27.06.2025; BV9/141/2025 - zur Kenntnis genommen
