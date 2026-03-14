@@ -1,4 +1,4 @@
-# Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst
+# Verordnung über die Führung der Personalakten durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Geltungsbereich](0001.md)
