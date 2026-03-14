@@ -81,6 +81,17 @@ Herstellung, Abgabe und Anwendung
 | § 33 | Werbung |
 | § 34 | Pharmakovigilanz |
 | § 35 | Überwachung |
+Unterabschnitt 4
+Vorschriften für inaktivierte immunologische Tierarzneimittel
+nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6
+| § 35a | Verschreibungspflicht |
+| § 35b | Herstellungserlaubnis; Ruhen und Widerruf der Erlaubnis |
+| § 35c | Anzeige der Abgabe |
+| § 35d | Einfuhr, Ausfuhr und Verbringen |
+| § 35e | Kennzeichnung der Verpackung und Packungsbeilage |
+| § 35f | Abgabe |
+| § 35g | Wartezeit |
+| § 35h | Verordnungsermächtigungen für inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6 |
 Abschnitt 4
 Gemeinsame Vorschriften
 Unterabschnitt 1
@@ -105,7 +116,7 @@ von Arzneimitteln und veterinärmedizintechnischen Produkten
 | § 47 | Abgabe verschreibungspflichtiger Tierarzneimittel und veterinärmedizintechnischer Produkte |
 | § 48 | Bezug und Abgabe von Stoffen und Zubereitungen aus Stoffen, die bei Tieren angewendet werden dürfen |
 | § 49 | Bezug von Arzneimitteln und veterinärmedizintechnischen Produkten |
-| § 50 | Anwendung von Tierarzneimitteln |
+| § 50 | Anwendung von Tierarzneimitteln; Verordnungsermächtigung |
 | § 51 | Befugnisse tierärztlicher Bildungsstätten |
 | § 52 | Verordnungsermächtigungen zur Regelung von Verfahrensvorschriften auf Grundlage der Verordnung (EU) 2019/6 |
 Unterabschnitt 4
@@ -137,7 +148,7 @@ Sicherung und Kontrolle der Qualität
 Unterabschnitt 8
 Zuständigkeit
 | § 64 | Zuständige Behörde |
-| § 65 | Zuständige Bundesoberbehörde, Verordnungsermächtigung |
+| § 65 | Zuständige Bundesoberbehörde; Verordnungsermächtigung |
 Unterabschnitt 9
 Überwachung
 | § 66 | Gegenseitige Information |
@@ -182,6 +193,7 @@ Abschnitt 6
 | § 93 | Weitere Anwendung von Vorschriften |
 | § 94 | Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln und zur Änderung weiterer Vorschriften |
 | § 95 | Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes |
+| § 95a | Übergangsvorschriften aus Anlass des Gesetzes zur Änderung des Tiergesundheitsgesetzes, des Tierarzneimittelgesetzes und des Tiergesundheitsrechtlichen Bußgeldgesetzes |
 | § 96 | Evaluierung |
 | Anlage 1 | Einteilung der Nutzungsarten |
 | Anlage 2 | Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten |

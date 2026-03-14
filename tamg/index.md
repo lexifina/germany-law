@@ -82,6 +82,17 @@
 - [§ 34 Pharmakovigilanz](0034.md)
 - [§ 35 Überwachung](0035.md)
 
+### Unterabschnitt 4 Vorschriften für inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6
+
+- [§ 35a Verschreibungspflicht](0035a.md)
+- [§ 35b Herstellungserlaubnis; Ruhen und Widerruf der Erlaubnis](0035b.md)
+- [§ 35c Anzeige der Abgabe](0035c.md)
+- [§ 35d Einfuhr, Ausfuhr und Verbringen](0035d.md)
+- [§ 35e Kennzeichnung der Verpackung und Packungsbeilage](0035e.md)
+- [§ 35f Abgabe](0035f.md)
+- [§ 35g Wartezeit](0035g.md)
+- [§ 35h Verordnungsermächtigungen für inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6](0035h.md)
+
 ## Abschnitt 4 Gemeinsame Vorschriften
 
 
@@ -108,7 +119,7 @@
 - [§ 47 Abgabe verschreibungspflichtiger Tierarzneimittel und veterinärmedizintechnischer Produkte](0047.md)
 - [§ 48 Bezug und Abgabe von Stoffen und Zubereitungen aus Stoffen, die bei Tieren angewendet werden dürfen](0048.md)
 - [§ 49 Bezug von Arzneimitteln und veterinärmedizintechnischen Produkten](0049.md)
-- [§ 50 Anwendung von Tierarzneimitteln](0050.md)
+- [§ 50 Anwendung von Tierarzneimitteln; Verordnungsermächtigung](0050.md)
 - [§ 51 Befugnisse tierärztlicher Bildungsstätten](0051.md)
 - [§ 52 Verordnungsermächtigungen zur Regelung von Verfahrensvorschriften auf Grundlage der Verordnung (EU) 2019/6](0052.md)
 
@@ -140,7 +151,7 @@
 ### Unterabschnitt 8 Zuständigkeit
 
 - [§ 64 Zuständige Behörde](0064.md)
-- [§ 65 Zuständige Bundesoberbehörde, Verordnungsermächtigung](0065.md)
+- [§ 65 Zuständige Bundesoberbehörde; Verordnungsermächtigung](0065.md)
 
 ### Unterabschnitt 9 Überwachung
 
@@ -190,6 +201,7 @@
 - [§ 93 Weitere Anwendung von Vorschriften](0093.md)
 - [§ 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln und zur Änderung weiterer Vorschriften](0094.md)
 - [§ 95 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes](0095.md)
+- [§ 95a Übergangsvorschriften aus Anlass des Gesetzes zur Änderung des Tiergesundheitsgesetzes, des Tierarzneimittelgesetzes und des Tiergesundheitsrechtlichen Bußgeldgesetzes](0095a.md)
 - [§ 96 Evaluierung](0096.md)
 - [Anlage 1 (zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)Einteilung der Nutzungsarten](anlage-1.md)
 - [Anlage 2 (zu § 57 Absatz 3 Satz 3)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2.md)
