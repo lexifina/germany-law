@@ -8,6 +8,8 @@
 | § 3 | Aufgaben und Befugnisse der Börsenaufsichtsbehörde |
 | § 3a | Aufgaben und Befugnisse der Börsenaufsichtsbehörde zur Ausführung der Verordnung (EU) 2015/2365 |
 | § 3b | Meldung von Verstößen |
+| § 3c | Abberufungsverlangen beim Börsenträger |
+| § 3d | Abberufungsverlangen bei der Börse |
 | § 4 | Erlaubnis |
 | § 4a | Geschäftsleitung des Börsenträgers |
 | § 4b | Verwaltungs- oder Aufsichtsorgan des Börsenträgers |
@@ -30,7 +32,7 @@
 | § 20 | Sicherheitsleistungen |
 | § 21 | Externe Abwicklungssysteme |
 | § 22 | Sanktionsausschuss |
-| § 22a | Synchronisierung von im Geschäftsverkehr verwendeten Uhren |
+| § 22a | (weggefallen) |
 | § 22b | Verarbeitung personenbezogener Daten |
 |  |
 | Abschnitt 2 |
@@ -44,9 +46,10 @@
 | § 26b | Mindestpreisänderungsgröße |
 | § 26c | Market-Making-Systeme |
 | § 26d | Algorithmische Handelssysteme und elektronischer Handel |
-| § 26e | Informationen über die Ausführungsqualität |
+| § 26e | (weggefallen) |
 | § 26f | Positionsmanagementkontrollen |
 | § 26g | Übermittlung von Daten |
+| § 26h | Datenübermittlungsverlangen; Satzungsermächtigung |
 |  |
 | Abschnitt 3 |
 | Skontroführung und Transparenzanforderungen an Wertpapierbörsen |
@@ -103,3 +106,4 @@
 | § 51 | Geltung für Wechsel und ausländische Zahlungsmittel |
 | § 52 | Übergangsregelungen |
 | § 53 | Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz |
+| § 54 | Übergangsregelung zum Standortfördergesetz |

@@ -24,7 +24,7 @@
 - [§ 5 Organe, Satzung](0005.md)
 - [§ 6 Leitung](0006.md)
 - [§ 7 Verwaltungsrat](0007.md)
-- [§ 8 Fachbeirat](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 8a Verbraucherbeirat](0008a.md)
 
 ## Dritter Abschnitt Personal

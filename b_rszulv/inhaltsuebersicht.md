@@ -8,7 +8,7 @@
 |  |
 | § 1 | Rechtsgrundlage des Emittenten |
 | § 2 | Mindestbetrag der Wertpapiere |
-| § 3 | Dauer des Bestehens des Emittenten |
+| § 3 | (weggefallen) |
 | § 4 | Rechtsgrundlage der Wertpapiere |
 | § 5 | Handelbarkeit der Wertpapiere |
 | § 6 | Stückelung der Wertpapiere |
@@ -29,7 +29,7 @@
 | § 49 | (weggefallen) |
 | § 50 | Zeitpunkt der Zulassung |
 | § 51 | Veröffentlichung der Zulassung |
-| § 52 | Einführung |
+| § 52 | (weggefallen) |
 |  |
 | Zweites Kapitel |
 | Pflichten des Emittenten zugelassener Wertpapiere |

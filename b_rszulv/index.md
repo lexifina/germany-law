@@ -10,7 +10,7 @@ regulierten Notierung
 
 - [§ 1 Rechtsgrundlage des Emittenten](0001.md)
 - [§ 2 Mindestbetrag der Wertpapiere](0002.md)
-- [§ 3 Dauer des Bestehens des Emittenten](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Rechtsgrundlage der Wertpapiere](0004.md)
 - [§ 5 Handelbarkeit der Wertpapiere](0005.md)
 - [§ 6 Stückelung der Wertpapiere](0006.md)
@@ -30,7 +30,7 @@ einer Emission](0007.md)
 - [§ 49 (weggefallen)](0049.md)
 - [§ 50 Zeitpunkt der Zulassung](0050.md)
 - [§ 51 Veröffentlichung der Zulassung](0051.md)
-- [§ 52 Einführung](0052.md)
+- [§ 52 (weggefallen)](0052.md)
 
 ## Zweites Kapitel Pflichten des Emittenten zugelassener
 Wertpapiere

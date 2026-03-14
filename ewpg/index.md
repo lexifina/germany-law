@@ -28,7 +28,7 @@
 - [§ 17 Registerangaben im Kryptowertpapierregister](0017.md)
 - [§ 18 Änderungen des Registerinhalts](0018.md)
 - [§ 19 Registerauszug](0019.md)
-- [§ 20 Liste der Kryptowertpapiere bei der Aufsichtsbehörde](0020.md)
+- [§ 20 (weggefallen)](0020.md)
 - [§ 21 Pflichten des Emittenten](0021.md)
 - [§ 22 Wechsel des Wertpapierregisters](0022.md)
 - [§ 23 Verordnungsermächtigung in Bezug auf Kryptowertpapierregister](0023.md)

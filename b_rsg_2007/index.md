@@ -10,6 +10,8 @@ ihre Organe
 - [§ 3 Aufgaben und Befugnisse der Börsenaufsichtsbehörde](0003.md)
 - [§ 3a Aufgaben und Befugnisse der Börsenaufsichtsbehörde zur Ausführung der Verordnung (EU) 2015/2365](0003a.md)
 - [§ 3b Meldung von Verstößen](0003b.md)
+- [§ 3c Abberufungsverlangen beim Börsenträger](0003c.md)
+- [§ 3d Abberufungsverlangen bei der Börse](0003d.md)
 - [§ 4 Erlaubnis](0004.md)
 - [§ 4a Geschäftsleitung des Börsenträgers](0004a.md)
 - [§ 4b Verwaltungs- oder Aufsichtsorgan des Börsenträgers](0004b.md)
@@ -32,7 +34,7 @@ ihre Organe
 - [§ 20 Sicherheitsleistungen](0020.md)
 - [§ 21 Externe Abwicklungssysteme](0021.md)
 - [§ 22 Sanktionsausschuss](0022.md)
-- [§ 22a Synchronisierung von im Geschäftsverkehr verwendeten Uhren](0022a.md)
+- [§ 22a (weggefallen)](0022a.md)
 - [§ 22b Verarbeitung personenbezogener Daten](0022b.md)
 
 ## Abschnitt 2 Börsenhandel und Börsenpreisfeststellung
@@ -45,9 +47,10 @@ ihre Organe
 - [§ 26b Mindestpreisänderungsgröße](0026b.md)
 - [§ 26c Market-Making-Systeme](0026c.md)
 - [§ 26d Algorithmische Handelssysteme und elektronischer Handel](0026d.md)
-- [§ 26e Informationen über die Ausführungsqualität](0026e.md)
+- [§ 26e (weggefallen)](0026e.md)
 - [§ 26f Positionsmanagementkontrollen](0026f.md)
 - [§ 26g Übermittlung von Daten](0026g.md)
+- [§ 26h Datenübermittlungsverlangen; Satzungsermächtigung](0026h.md)
 
 ## Abschnitt 3 Skontroführung und Transparenzanforderungen
 an Wertpapierbörsen
@@ -100,3 +103,4 @@ Schlussvorschriften
 - [§ 51 Geltung für Wechsel und ausländische Zahlungsmittel](0051.md)
 - [§ 52 Übergangsregelungen](0052.md)
 - [§ 53 Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz](0053.md)
+- [§ 54 Übergangsregelung zum Standortfördergesetz](0054.md)

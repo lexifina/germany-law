@@ -85,9 +85,9 @@
 ## Abschnitt 7 Aufsicht, Zusammenarbeit, Bußgeldvorschriften, Datenschutz
 
 - [§ 50 Zuständige Aufsichtsbehörde](0050.md)
-- [§ 51 Aufsicht](0051.md)
+- [§ 51 Aufsicht, Verordnungsermächtigung](0051.md)
 - [§ 51a Verarbeitung personenbezogener Daten durch Aufsichtsbehörden](0051a.md)
-- [§ 52 Mitwirkungspflichten](0052.md)
+- [§ 52 Mitwirkungspflichten; Verordnungsermächtigung](0052.md)
 - [§ 53 Hinweise auf Verstöße](0053.md)
 - [§ 54 Verschwiegenheitspflicht](0054.md)
 - [§ 55 Zusammenarbeit mit anderen Behörden](0055.md)

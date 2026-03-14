@@ -4,7 +4,7 @@
 ## Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 1 Wesen der REIT-Aktiengesellschaften](0001.md)
-- [§ 2 Vor-REIT](0002.md)
+- [§ 2 (weggefallen)](0002.md)
 - [§ 3 Begriffsbestimmung](0003.md)
 - [§ 4 Mindestnennbetrag des Grundkapitals](0004.md)
 - [§ 5 Form der Aktien](0005.md)

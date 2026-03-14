@@ -26,7 +26,7 @@
 - [§ 14 Zurverfügungstellung des verwendeten Quellcodes und der Beschreibung des Aufzeichnungssystems](0014.md)
 - [§ 15 Rückgängigmachung von Änderungen des Registerinhalts](0015.md)
 - [§ 16 Anforderungen an kryptografische Verfahren und sonstige Methoden der Transformation von Daten; Überprüfung der Integrität der niedergelegten Emissionsbedingungen](0016.md)
-- [§ 17 Liste der Kryptowertpapiere bei der Bundesanstalt](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Teilnahme an einem Kryptowertpapierregister; Beschwerde](0018.md)
 - [§ 19 Schnittstellen](0019.md)
 - [§ 20 Dokumentation der Vorkehrungen und Verfahren für die Übertragung des Wertpapierregisters nach § 21 Absatz 2 und § 22 des Gesetzes über elektronische Wertpapiere](0020.md)

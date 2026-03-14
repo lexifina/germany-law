@@ -46,9 +46,7 @@ Prüfungsfeststellungen:
 | 19 | § 81 Abs. 1 − 4 WpHG | Pflichten für Geschäftsleiter |  |  |
 | 20 | § 81 Abs. 5 WpHG | Beauftragter für die Einhaltung der Verpflichtungen in Bezug auf den Schutz von Finanzinstrumenten und Geldern von Kunden |  |  |
 | 21 | § 84 WpHG; § 10 WpDVerOV; Art. 49, 63 Del. VO (EU) 2017/565 | Schutz der Finanzinstrumente und Gelder von Kunden, Verbot bestimmter Finanzsicherheiten |  |  |
-| 22 | Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, von Mitarbeitern in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance-Beauftragte |
-| 22a | § 87 Abs. 1 S. 1, Abs. 2 − 4 S. 1, Abs. 5 S. 1 WpHG; §§ 1, 1a, 1b, 2, 3, 6 WpHGMaAnzV | Erforderliche Sachkunde und Zuverlässigkeit der Mitarbeiter in der Anlageberatung, der Vertriebsmitarbeiter, der Mitarbeiter in der Finanzportfolioverwaltung, der Vertriebsbeauftragten und der Compliance-Beauftragten |  |  |
-| 22b | § 87 Abs. 1 S. 2 − 4, Abs. 4 S. 2, 3, Abs. 5 S. 2, 3 WpHG; §§ 7, 8, 10 WpHGMaAnzV | Anzeigen der Mitarbeiter in der Anlageberatung, der Vertriebsbeauftragten und der Compliance-Beauftragten; Anzeigen der Beschwerden |  |  |
+| 22 | § 87 Abs. 1 – 5 WpHG; §§ 14 – 18, 21 WpDVerOV | Erforderliche Sachkunde und Zuverlässigkeit der Mitarbeiter in der Anlageberatung, der Vertriebsmitarbeiter, der Mitarbeiter in der Finanzportfolioverwaltung, der Vertriebsbeauftragten und der Compliance-Beauftragten |  |  |
 | 23 | § 80 Abs. 6 WpHG; Art. 30 − 32 Del. VO (EU) 2017/565 | Anforderungen an die Auslagerung von Aktivitäten, Prozessen und Finanzdienstleistungen |  |  |
 | 24 | Art. 31 Abs. 2, 3 VO (EU) Nr. 600/2014 i. V. m. Art. 17 Abs. 2 − 6, Art. 18 Del. VO (EU) 2017/567 | Anforderungen für die Durchführung einer Portfoliokomprimierung |  |  |
 | Berichts- und Aufzeichnungspflichten |
@@ -58,8 +56,8 @@ Prüfungsfeststellungen:
 | 28 | § 83 Abs. 6 WpHG | Schriftliche Aufzeichnung über persönliche Gespräche in Bezug auf Geschäfte und Dienstleistungen nach § 83 Abs. 3 Satz 1 WpHG |  |  |
 | Transparenzanforderungen; Handelspflicht |
 | 29 | § 79 WpHG | Mitteilungspflicht von systematischen Internalisierern |  |  |
-| 30 | Art. 27 VO (EU) Nr. 600/2014 | Bereitstellung von Referenzdaten durch systematische Internalisierer |  |  |
-| 31 | Art. 14, 15, 17, 18 VO (EU) Nr. 600/2014; Art. 6 − 14 Del. VO (EU) 2017/567 und Art. 9 Del. VO (EU) 2017/587 | Transparenzanforderungen an systematische Internalisierer |  |  |
+| 30 | Art. 27 VO (EU) Nr. 600/2014 | Bereitstellung durch benannte veröffentlichende Einrichtungen |  |  |
+| 31 | Art. 14, 15, 17 VO (EU) Nr. 600/2014; Art. 6 – 14 Del. VO (EU) 2017/567 und Art. 9 Del. VO (EU) 2017/587 | Transparenzanforderungen an systematische Internalisierer |  |  |
 | 32 | Art. 20, 21 VO (EU) Nr. 600/2014 i. V. m. Art. 12, 15 Del. VO (EU) 2017/587 und Art. 7, 8 Del. VO (EU) 2017/583 | Veröffentlichung des Volumens, des Kurses und des Zeitpunktes des Abschlusses von Geschäften durch Wertpapierdienstleistungsunternehmen, die außerhalb eines Handelsplatzes handeln |  |  |
 | 33 | Art. 23 VO (EU) Nr. 600/2014 i. V. m. Art. 2 Del. VO (EU) 2017/587 | Pflicht zum Handel von Aktien an einem Handelsplatz |  |  |
 | Meldung von Geschäften mit Finanzinstrumenten und von Positionen in Warenderivaten |

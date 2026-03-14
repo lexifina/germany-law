@@ -21,7 +21,7 @@
 | § 5 | Organe, Satzung |
 | § 6 | Leitung |
 | § 7 | Verwaltungsrat |
-| § 8 | Fachbeirat |
+| § 8 | (weggefallen) |
 | § 8a | Verbraucherbeirat |
 | Dritter Abschnitt |
 |  | Personal |

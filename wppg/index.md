@@ -12,7 +12,7 @@
 - [§ 3 Ausnahmen von der Verpflichtung zur Veröffentlichung eines Prospekts](0003.md)
 - [§ 4 Wertpapier-Informationsblatt; Verordnungsermächtigung](0004.md)
 - [§ 5 Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt](0005.md)
-- [§ 6 Einzelanlageschwellen für nicht qualifizierte Anleger](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7 Werbung für Angebote, für die ein Wertpapier-Informationsblatt zu veröffentlichen ist](0007.md)
 
 ## Abschnitt 3 Prospekthaftung und Haftung bei Wertpapier-Informationsblättern

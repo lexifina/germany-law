@@ -24,7 +24,7 @@
 
 - [§ 4 Inhalt der Veröffentlichung](0004.md)
 - [§ 5 (weggefallen)](0005.md)
-- [§ 6 Berechtigte Interessen für eine verzögerte Veröffentlichung](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7 Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung (EU) Nr. 596/2014](0007.md)
 - [§ 8 Inhalt der Mitteilung](0008.md)
 - [§ 9 Art und Form der Mitteilungen](0009.md)
