@@ -243,7 +243,7 @@ der Herstellung der Einheit Deutschlands
 ### Art 100
 
 
-### Art 101 Berlin-Klausel
+### Art 101 Übergangsvorschrift zum Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
 
 
 ### Art 102 Inkrafttreten

@@ -43,6 +43,7 @@
 
 - [§ 25 Datenübermittlung im innerstaatlichen Bereich](0025.md)
 - [§ 26 Datenübermittlung an Mitgliedstaaten der Europäischen Union](0026.md)
+- [§ 26a Datenübermittlung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten im Anwendungsbereich der Richtlinie (EU) 2023/977](0026a.md)
 - [§ 27 Datenübermittlung im internationalen Bereich](0027.md)
 - [§ 28 Übermittlungsverbote und Verweigerungsgründe](0028.md)
 

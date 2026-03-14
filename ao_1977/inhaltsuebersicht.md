@@ -203,11 +203,18 @@ Rechts- und Amtshilfe
 | § 115 | Kosten der Amtshilfe |
 | § 116 | Anzeige von Steuerstraftaten |
 | § 117 | Zwischenstaatliche Rechts- und Amtshilfe in Steuersachen |
-| § 117a | Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union |
-| § 117b | Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten |
-| § 117c | Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten |
-| § 117d | Statistiken über die zwischenstaatliche Amts- und Rechtshilfe |
-| § 117e | Besondere Formen der Amtshilfe mit Drittstaaten |
+| § 117a | Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten; Verordnungsermächtigung |
+| § 117b | Besondere Formen der Amtshilfe mit Drittstaaten |
+| § 117c | Übermittlung von Informationen einschließlich personenbezogener Daten auf Ersuchen an einen anderen Mitgliedstaat der Europäischen Union zur Verhütung von Straftaten |
+| § 117d | Inhalt des Ersuchens |
+| § 117e | Ablehnungsgründe |
+| § 117f | Zusammenarbeit mit zentralen Kontaktstellen |
+| § 117g | Informationsübermittlung ohne Ersuchen |
+| § 117h | Verpflichtung zur Informationsübermittlung ohne Ersuchen |
+| § 117i | Informationsübermittlung an Schengen-assoziierte Staaten |
+| § 117j | Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union |
+| § 117k | Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen |
+| § 117l | Statistiken über die zwischenstaatliche Amts- und Rechtshilfe |
 Zweiter Abschnitt
 Verwaltungsakte
 | § 118 | Begriff des Verwaltungsakts |
@@ -611,7 +618,7 @@ Bußgeldvorschriften
 | § 381 | Verbrauchsteuergefährdung |
 | § 382 | Gefährdung der Einfuhr- und Ausfuhrabgaben |
 | § 383 | Unzulässiger Erwerb von Steuererstattungs- und Vergütungsansprüchen |
-| § 383a | (weggefallen) |
+| § 383a | Verstöße gegen innerstaatlich anwendbare völkerrechtliche Vereinbarungen zur Förderung der Steuerehrlichkeit |
 | § 383b | Pflichtverletzung bei Übermittlung von Vollmachtsdaten |
 | § 384 | Verfolgungsverjährung |
 | § 384a | Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679 |

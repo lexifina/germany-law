@@ -20,9 +20,7 @@
 
 - [§ 10 Zollamtliche Überwachung](0010.md)
 - [§ 10a Zollbedienstete in den Vollzugsbereichen der Zollverwaltung; Befugnisse bei Sicherungs- und Schutzmaßnahmen](0010a.md)
-- [§ 11 Datenübermittlung ins Ausland sowie an über- oder zwischenstaatliche Stellen](0011.md)
-- [§ 11a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union](0011a.md)
-- [§ 11b Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten](0011b.md)
+- [§ 11 Datenübermittlung mit dem Ausland sowie an und von über- oder zwischenstaatlichen Stellen](0011.md)
 - [§ 11c Datenübermittlung zu Zwecken des Risikomanagements](0011c.md)
 - [§ 12 Weiterleitungsbefugnis](0012.md)
 - [§ 12a Überwachung des grenzüberschreitenden Verkehrs mit Barmitteln und gleichgestellten Zahlungsmitteln](0012a.md)
