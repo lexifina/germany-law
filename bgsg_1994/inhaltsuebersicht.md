@@ -55,6 +55,7 @@
 |  |  | § 32a | Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union |
 |  |  | § 33 | Ergänzende Regelungen für die Übermittlung |
 |  |  | § 33a | Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten |
+|  |  | § 33b | Datenübermittlung und -bereitstellung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977 |
 |  |  | § 34 | Abgleich personenbezogener Daten |
 |  |  | § 35 | Berichtigung, Löschung und Sperrung personenbezogener Daten |
 |  |  | § 36 | Errichtungsanordnung |
