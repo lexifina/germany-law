@@ -41,4 +41,4 @@
 1. Der Aushang kann durch eine elektronische Anzeige auf einem Bildschirm ersetzt werden. Der verwendete Bildschirm muss so angebracht sein, dass der die Aufmerksamkeit der Verbraucher in gleicher Weise erweckt wie ein Aushang.
 2. Der Bildschirm muss eine Bildschirmdiagonale von mindestens 17 Zoll haben. Die Informationen können unter Verwendung von Rolltechniken (Scrolling) gezeigt werden.
 3. Die unter Teil I Nummer 2 bis 8 für den Aushang gestellten Anforderungen gelten bei Verwendung eines Bildschirms entsprechend mit der Maßgabe, dass sicherzustellen ist, dass die in Anlage 1 Teil I Nummer 9 aufgeführten Hinweise ständig sichtbar sind.
-4. Die Angaben sind mindestens alle drei Monate zu aktualisieren. Die Angaben sind mindestens alle drei Monate zu aktualisieren. Das Datum der letzten Aktualisierung ist anzugeben.
+4. Die Angaben sind mindestens alle drei Monate zu aktualisieren. Das Datum der letzten Aktualisierung ist anzugeben.

@@ -67,6 +67,6 @@ Die folgenden Muster 1 bis 5 visualisieren die Anforderungen an die vorgeschrieb
 3. Muster 3 für Personenkraftwagen mit extern aufladbarem hybridelektrischen Antrieb:
   [Bild: bgbl1_2024_j00500_0030.jpg]
 4. Muster 4 für Personenkraftwagen mit rein elektrischem Antrieb:
-  [Bild: bgbl1_2024_j00500_0040.jpg]
+  [Bild: bgbl1_2026_j00550_0010.jpg]
 5. Muster 5 für ein Brennstoffzellenfahrzeug:
-  [Bild: bgbl1_2024_j00500_0050.jpg]
+  [Bild: bgbl1_2026_j00550_0020.jpg]
