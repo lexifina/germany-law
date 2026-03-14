@@ -1,0 +1,17 @@
+# Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag
+
+- [Präambel](praeambel.md)
+- [§ 1 Errichtung, Betrieb und Weiterentwicklung eines gemeinsamen Nationalen Once-Only-Technical-Systems (NOOTS)](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Governance](0003.md)
+- [§ 4 Betriebsverantwortliche Stelle](0004.md)
+- [§ 5 Anschluss und Nutzung des NOOTS](0005.md)
+- [§ 6 Anschluss an das EU-OOTS](0006.md)
+- [§ 7 Datenschutzrechtliche Bestimmungen](0007.md)
+- [§ 8 Finanzierung](0008.md)
+- [§ 9 Beginn der Anschluss- und Nutzungspflicht](0009.md)
+- [§ 10 Ratifikation und Inkrafttreten](0010.md)
+- [§ 11 Beitritt weiterer Länder](0011.md)
+- [§ 12 Geltungsdauer, Änderung und Kündigung](0012.md)
+- [§ 13 Salvatorische Klausel](0013.md)
+- [Schlussformel](schlussformel.md)

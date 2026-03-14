@@ -1,0 +1,71 @@
+# Anlage 1 Seuchen, die nach § 3 zu melden sind
+
+Teil 1 – Landtiere
+| 1 | 2 | 3 |
+| Nr. | Seuchen | Arten und Artengruppen |
+| Abschnitt 1 |
+| Nach Artikel 5 Absatz 1 der Verordnung (EU) 2016/429 in der Fassung vom 25. Juli 2018 gelistete Seuchen |
+| 1. | Maul- und Klauenseuche | Paarhufer, Rüsseltiere Artiodactyla, Proboscidea |
+| 2. | Klassische Schweinepest | Schweine, Nabelschweine Suidae, Tayassuidae |
+| 3. | Afrikanische Schweinepest | Schweine Suidae |
+| 4. | Hochpathogene Aviäre Influenza (Geflügelpest) | Vögel, Säugetiere Aves, Mammalia |
+| 5. | Afrikanische Pferdepest | Equiden Equidae |
+| 6. | Infektion mit Brucella abortus, B. melitensis, B. suis | Rinder, Schafe, Ziegen, Schweine Bison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp., Suidae |
+| 7. | Infektion mit dem Mycobacterium-tuberculosis-Komplex (M. bovis, M. caprae, M. tuberculosis) | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 8. | Infektion mit dem Tollwut-Virus (RABV) | Säugetiere Mammalia |
+| 9. | Infektiöse Bovine Rhinotracheitis/Infektiöse Pustulöse Vulvovaginitis | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 10. | Bovine Virus Diarrhoe | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 11. | Enzootische Leukose der Rinder | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 12. | Infektion mit dem Virus der Aujeszkyschen Krankheit | Schweine Suidae |
+| 13. | Milzbrand | Unpaarhufer, Paarhufer, Rüsseltiere Perissodactyla, Artiodactyla, Proboscidea |
+| 14. | Ebola-Virus-Infektion | Menschenaffen, Schweine Nichtmenschliche Primaten, Suidae |
+| 15. | Infektion mit dem Rinderpest-Virus | Paarhufer Artiodactyla |
+| 16. | Infektion mit dem Rifttal-Fieber-Virus | Unpaarhufer, Gabelhornträger, Hornträger, Kamele, Hirsche, Giraffenartige, Flusspferde, Moschustiere, Rüsseltiere Perissodactyla, Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Hippopotamidae, Moschidae, Proboscidea |
+| 17. | Infektion mit dem Virus der Pest der kleinen Wiederkäuer | Schafe, Ziegen, Kamele, HirscheOvisssp., Capra ssp., Camelidae, Cervidae |
+| Nach Artikel 11 der Verordnung (EG) Nr. 999/2001 in der Fassung vom 19. Februar 2025 |
+| 18. | Transmissible spongiforme Enzephalopathie | Alle Tierarten |
+| Nicht nach EU-Recht gelistete Seuchen |
+| 19. | Mpox | Säugetiere Mammalia |
+| Abschnitt 2 |
+| Nach Artikel 5 Absatz 1 der Verordnung (EU) 2016/429 in der Fassung vom 25. Juli 2018 gelistete Seuchen |
+| 1. | Infektion mit dem Virus der Epizootischen Hämorrhagie | Gabelhornträger, Hornträger, Kamele, Hirsche, Giraffenartige, Moschustiere, Hirschferkel Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae |
+| 2. | Infektion mit dem Virus der Blauzungenkrankheit (Serotypen 1-24) | Gabelhornträger, Hornträger, Kamele, Hirsche, Giraffenartige, Moschustiere, Hirschferkel Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae |
+| 3. | Surra (Trypanosoma evansi) | Equiden, Paarhufer Equidae, Artiodactyla |
+| 4. | Japanische Enzephalitis | Equiden, Vögel, Schweine Equidae, Aves, Suidae |
+| 5. | West-Nil-Fieber | Equiden, Vögel Equidae, Aves |
+| 6. | Infektion mit dem Virus der Lumpy-skin-Krankheit | Rinder, Schafe, ZiegenBison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp. |
+| 7. | Infektion mit Mycoplasma mycoides subsp.mycoides SC (Lungenseuche der Rinder) | Rinder, Kaffernbüffel (Afrikanischer Büffel)Bison ssp., Bos ssp., Bubalus ssp., Syncerus caffer |
+| 8. | Bovine Genitale Campylobakteriose | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 9. | Trichomonadose | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 10. | Pockenseuche der Schafe und Ziegen | Gabelhornträger, Hornträger, Kamele, Hirsche, Giraffenartige, Moschustiere, Hirschferkel Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae |
+| 11. | Infektion mit Mycoplasma capricolum subsp. capripneumoniae (Lungenseuche der Ziegen) | Schafe, Ziegen, GazellenOvis ssp., Capra ssp., Gazella ssp. |
+| 12. | Infektion mit Burkholderia mallei (Rotz) | Equiden, Ziegen, Kamele Equidae, Capra ssp., Camelidae |
+| 13. | Ansteckende Blutarmut der Einhufer | Equiden Equidae |
+| 14. | Beschälseuche | Equiden Equidae |
+| 15. | Venezolanische Pferdeenzephalomyelitis | Equiden Equidae |
+| 16. | Östliche und Westliche Pferdeenzephalomyelitis | Equiden Equidae |
+| 17. | Infektion mit dem Virus der Newcastle-Krankheit | Vögel Aves |
+| 18. | Infektion mit den niedrigpathogenen Viren der Aviären Influenza | Vögel (gehaltene Tiere) Aves (gehaltene Tiere) |
+| 19. | Befall mit Aethina tumida (Kleiner Bienenbeutenkäfer) | Honigbienen, Hummeln Apis, Bombus ssp. |
+| 20. | Amerikanische Faulbrut | Honigbienen Apis |
+| 21. | Befall mit der Tropilaelaps ssp. | Honigbienen Apis |
+| Nicht nach EU-Recht gelistete Seuchen |
+| 22. | Infektion mit anderen Lyssaviren als dem Tollwut-Virus (EBLV etc.) | Säugetiere Mammalia |
+Teil 2 – Wassertiere
+| 1 | 2 | 3 |
+| Nr. | Seuchen | Arten und Artengruppen |
+| Nach Artikel 5 Absatz 1 der Verordnung (EU) 2016/429 in der Fassung vom 25. Juli 2018 gelistete Seuchen |
+| 1. | Epizootische Hämatopoetische Nekrose | Ameiurus melas, Bidyanus bidyanus, Esox lucius, Galaxias olidus, Gambusia affinis, Gambusia holbrooki, Macquaria australasica, Melanotaenia fluviatilis, Oncorhynchus mykiss, Perca fluviatilis, Sander lucioperca |
+| 2. | Virale Hämorrhagische Septikämie | Alosa immaculata, Ameiurus nebulosus, Ambloplites rupestris, Ammodytes hexapterus, Aplodinotus grunniens, Centrolabrus exoletus, Clupea harengus, Clupea pallasii pallasii, Coregonus artedii, Coregonus clupeaformis, Coregonus lavaretus, Ctenolabrus rupestris, Cyclopterus lumpus, Cymatogaster aggregata, Dorosoma cepedianum, Danio rerio, Engraulis encrasicolus, Esox lucius, Esox masquinongy, Fundulus heteroclitus, Gadus macrocephalus, Gadus morhua, Gaidropsarus vulgaris, Gasterosteus aculeatus, Labrus bergylta, Labrus mixtus, Lampetra fluviatilis, Lepomis gibbosus, Lepomis macrochirus, Limanda limanda, Merlangius merlangus, Micropterus dolomieu, Micropterus salmoides, Micromesistius poutassou, Morone americana, Morone chrysops, Morone saxatilis, Mullus barbatus, Neogobius melanostomus, Notropis atherinoides, Notropis hudsonius, Oncorhynchus kisutch, Oncorhynchus mykiss, Oncorhynchus mykiss x Oncorhynchus kisutch Hybriden, Oncorhynchus tshawytscha, Paralichthys olivaceus, Perca flavescens, Pimephales notatus, Pimephales promelas, Platichthys flesus, Pleuronectes platessa, Pomatoschistus minutus, Pomoxis nigromaculatus, Raja clavata, Salmo marmoratus, Salmo salar, Salmo trutta, Salvelinus namaycush, Sander vitreus, Sardina pilchardus, Sardinops sagax, Scomber japonicus, Scophthalmus maximus, Solea senegalensis, Sprattus sprattus, Symphodus melops, Thaleichthys pacificus, Trachurus mediterraneus, Trisopterus esmarkii, Thymallus thymallus, Uranoscopus scaber |
+| 3. | Infektiöse Hämatopoetische Nekrose | Esox lucius, Onchorynchus clarkii, Oncorhynchus keta, Oncorhynchus kisutch, Oncorhynchus masou, Oncorhynchus mykiss, Oncorhynchus nerka, Oncorhynchus tshawytscha, Salmo marmoratus, Salvelinus namaycush, Salmo salar, Salmo trutta, Salvelinus alpinus, Salvelinus fontinalis |
+| 4. | Infektion mit dem HPR-deletierten Virus der Ansteckenden Blutarmut der Lachse | Oncorynchus mykiss, Salmo salar,Salmo trutta |
+| 5. | Infektion mit Microcytos mackini | Crassostrea gigas, Crassostrea sikamea, Ostrea edulis |
+| 6. | Infektion mit Perkinsus marinus | Crassostrea gigas, Crassostreavirginica |
+| 7. | Infektion mit dem Taura-Syndrom-Virus | Metapenaeus ensis, Penaeus aztecus, Penaeus monodon, Penaeus setiferus, Penaeus stylirostris, Penaeus vannamei |
+| 8. | Infektion mit dem Virus der Gelbkopf-Krankheit | Metapenaeus affinis, Penaeus monodon, Palaemonetes pugio, Penaeus stylirostris, Penaeus vannamei |
+| 9. | Infektion mit dem Virus der Weißpünktchenkrankheit | Alle zehnfüßigen Krebstiere (Ordnung der Dekapoden) |
+Teil 3 – Sonstige Tiere
+| 1 | 2 | 3 |
+| Nr. | Seuchen | Arten und Artengruppen |
+| Nach Artikel 5 Absatz 1 der Verordnung (EU) 2016/429 in der Fassung vom 25. Juli 2018 gelistete Seuchen |
+| 1. | Infektion mit Batrachochytrium salamandrivorans | Schwanzlurche Caudata |

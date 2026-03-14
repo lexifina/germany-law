@@ -1,0 +1,45 @@
+# Anlage 3 Seuchen, die nach § 4 zu melden sind
+
+Landtiere
+| 1 | 2 | 3 |
+| Nr. | Seuchen | Arten und Artengruppen |
+| Zoonosen in Übereinstimmung mit Richtlinie 2003/99/EG |
+| 1. | Infektion mit SARS-CoV-2 | Alle Tierarten |
+| 2. | Tuberkulose (Infektion mit M. microti, M. africanum, M. pinnipedii, M. orygis, M. mungi, M. suricattae) | Säugetiere, Vögel Mammalia, Aves |
+| 3. | Salmonellose/Salmonella ssp. (außer Salmonellen, für die eine Mitteilungspflicht nach § 4 der Geflügel-Salmonellen-Verordnung oder Anlage 2 Nr. 12 besteht) | Säugetiere, Vögel Mammalia, Aves |
+| 4. | Campylobacteriose (thermophile Campylobacter) | Säugetiere, Vögel Mammalia, Aves |
+| 5. | Leptospirose | Säugetiere Mammalia |
+| 6. | Befall mit Echinococcus multilocularis | Säugetiere außer Hundeartige Mammalia außer Canidae |
+| 7. | Echinokokkose (außer Befall mit E. multilocularis) | Säugetiere Mammalia |
+| 8. | Bornavirus-Infektionen der Säugetiere | Säugetiere Mammalia |
+| 9. | Säugerpocken (Orthopoxinfektion) | Säugetiere Mammalia |
+| 10. | Listeriose (Listeria monocytogenes) | Huftiere Ungulata |
+| 11. | Infektion mit Verotoxin bildenden Escherichia coli | Paarhufer Artiodactyla |
+| 12. | Toxoplasmose | Rinder, Schafe, Ziegen, Kamele, Hirsche, Schweine, Katzen, Hasenartige, Huhn, Truthuhn, Enten, GänseBison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp., Camelidae, Cervidae, Suidae, Felidae, Leporidae, Gallus gallus, Meleagris gallopavo, Anas ssp., Anser ssp. |
+| 13. | Infektion mit CCHFV (Krim-Kongo Hämorrhagisches Fieber) | Rind, Schaf, ZiegeBison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp. |
+| 14. | Q-Fieber | Hirsche (gehaltene Tiere), Kamele (gehaltene Tiere) Cervidae (gehaltene Tiere), Camelidae (gehaltene Tiere) |
+| 15. | Infektion mit MERS-CoV (Middle East respiratory syndrome coronavirus) | Kamele Camelidae |
+| 16. | Leishmaniose | Hunde Canidae |
+| 17. | Tularämie | Hasenartige und andere Tierarten Lagomorpha und andere Tierarten |
+| 18. | Infektion mit dem Mycobacterium-tuberculosis-Komplex (M. bovis, M. caprae, M. tuberculosis) | Vögel Aves |
+| 19. | Tuberkulose des Geflügels(M. avium subsp.avium, M. avium subsp.hominissuis, M. genavense) | Vögel Aves |
+| 20. | Chlamydiose der Vögel | Vögel außer Papageienartige Aves außer Psittaciformes |
+| Nicht nach EU-Recht gelistete Seuchen |
+| 21. | Hämorrhagische Septikämie (Pasteurella multocida Serotypen 6:b und 6:e) | Rinder, Schafe, Ziegen, Schweine, Equiden, Kamele, HirscheBison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp., Suidae, Equidae, Camelidae, Cervidae |
+| 22. | Infektion mit dem Virus der Aujeszkyschen Krankheit | Rinder, Schafe, Ziegen, Hirsche, RaubtiereBison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp., Cervidae, Carnivora |
+| 23. | Rauschbrand | Rinder, Schafe, ZiegenBison ssp., Bos ssp., Bubalus ssp., Ovis spp., Capra ssp. |
+| 24. | Infektion mit dem Schmallenberg-Virus | Rinder, Schafe, ZiegenBison ssp., Bos ssp., Bubalus ssp., Ovis ssp., Capra ssp. |
+| 25. | Anaplasmose der Rinder | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 26. | Babesiose der Rinder | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 27. | Infektion mit Theileria annulata, Theileria orientalis und Theileria parva | RinderBison ssp., Bos ssp., Bubalus ssp. |
+| 28. | Chlamydiose der Schafe und Ziegen (Chlamydia abortus) | Schafe, Ziegen Ovis ssp., Capra ssp. |
+| 29. | Caprine arthritis/encephalitis (CAE) | Schafe, ZiegenOvis ssp., Capra ssp. |
+| 30. | Maedi-Visna | Schafe, ZiegenOvis ssp., Capra ssp. |
+| 31. | Infektion mit dem Equinen Herpesvirus-1 (Equine Rhinopneumonitis) | Equiden Equidae |
+| 32. | Infektion mit dem Virus der Equinen Influenza | Equiden Equidae |
+| 33. | Stomatitis vesicularis | Schweine, Equiden, Rinder Suidae, Equidae, Bison ssp., Bos ssp., Bubalus ssp. |
+| 34. | Vesikuläre Schweinekrankheit | Schweine Suidae |
+| 35. | Transmissible virale Gastroenteritis des Schweines (TGE) | Schweine Suidae |
+| 36. | Hämorrhagische Kaninchenkrankheit (Rabbit Haemorrhagic Disease (RHD)) | Hasenartige Lagomorpha |
+| 37. | Gumboro-Krankheit | Huhn, Truthuhn Gallus gallus, Meleagris gallopavo |
+| 38. | Infektiöse Laryngotracheitis des Geflügels (ILT) | Huhn Gallus gallus |
