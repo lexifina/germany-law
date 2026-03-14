@@ -15,6 +15,7 @@ Litauen
 Luxemburg
 Malta
 Niederlande
+Nordirland
 Österreich
 Polen
 Portugal
@@ -24,5 +25,4 @@ Slowenien
 Spanien
 Tschechische Republik
 Ungarn
-Vereinigtes Königreich sowie die Kanalinseln und die Insel Man
 Zypern
