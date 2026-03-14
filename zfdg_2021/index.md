@@ -42,12 +42,17 @@
 
 - [§ 21 Datenübermittlung im innerstaatlichen Bereich](0021.md)
 - [§ 22 Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union](0022.md)
-- [§ 23 Datenübermittlung im internationalen Bereich](0023.md)
-- [§ 24 Übermittlungsverbote und Verweigerungsgründe](0024.md)
+- [§ 22a Datenübermittlung im internationalen Bereich](0022a.md)
+- [§ 23 Übermittlungsverbote und Verweigerungsgründe](0023.md)
 
-#### Unterabschnitt 3 Steuerungsbefugnis der Zentralstelle
+#### Unterabschnitt 3 Ausgehende Ersuchen des Zollkriminalamtes als benannte Strafverfolgungsbehörde nach Artikel 2 Absatz 2 der Richtlinie (EU) 2023/977
 
-- [§ 25 Weisungsrecht](0025.md)
+- [§ 24 Ersuchen an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union um Übermittlung von Informationen einschließlich personenbezogener Daten](0024.md)
+- [§ 24a Ersuchen um Informationsübermittlung an Schengen-assoziierte Staaten](0024a.md)
+
+#### Unterabschnitt 4 Steuerungsbefugnis der Zentralstelle
+
+- [§ 25 Übermittlungsverbote und Verweigerungsgründe](0025.md)
 
 ### Abschnitt 2 Befugnisse der Behörden des Zollfahndungsdienstes bei der Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten sowie im Rahmen von Sicherungs- und Schutzmaßnahmen
 
