@@ -96,6 +96,6 @@
 | Zwölftes Kapitel | Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal ....... | §§ 384 bis 395 |
 | Dreizehntes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 396 bis 399 |
 | Vierzehntes Kapitel | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands ....... | §§ 400 bis 402 |
-| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 426 |
+| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 428 |
 Anlage 1 (zu § 135d)
 Anlage 2 (zu § 307 Absatz 1 Satz 3)
