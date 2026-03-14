@@ -1,7 +1,7 @@
 # Anlage 5 Besonderheiten für das Befahren von Abschnitten des Rheins, die als Binnenwasserstraßenabschnitte mit besonderen Risiken ausgewiesen wurden
 
 Teil A: Anforderungen für Rheinabschnitte mit besonderem Risiko
-1. Wer ein Fahrzeug auf den Abschnitten zwischen km 335,92 (Schleusen Iffezheim) und km 857,40 (Spyck’sche Fähre) führt, benötigt hierfür eine besondere Berechtigung für das Befahren von Binnenwasserstraßen mit besonderen Risiken.
+1. Wer ein Fahrzeug auf den Abschnitten zwischen km 335,66 (Straßenbrücke Wintersdorf) und km 425,00 (Mannheim) oder zwischen km 498,45 (Straßenbrücke Mainz/Mainz-Kastel) und km 592,00 (Koblenz, Moselmündung) führt, benötigt hierfür eine besondere Berechtigung für das Befahren von Binnenwasserstraßen mit besonderen Risiken.
 2. Die erforderliche Prüfung wird von der zuständigen Behörde als behördliche Befähigungsprüfung (Kapitel 7) abgenommen. Die Prüfung kann als Multiple-Choice- oder mündliche Prüfung durchgeführt werden. Es werden folgende Kenntnisse des Kandidaten geprüft:
   a) Beschreibung des Fahrwegs in der Berg- und in der Talfahrt;
   b) Detaillierte Kenntnisse der Streckencharakteristika, insbesondere hinsichtlich der örtlichen Strömungsverhältnisse und der sich daraus ergebenden Anforderungen an die sichere Navigation des Fahrzeuges durch den Rheinabschnitt;
@@ -13,7 +13,7 @@ Teil A: Anforderungen für Rheinabschnitte mit besonderem Risiko
 5. Die Durchführung der Streckenfahrten weist der Kandidat anhand des Schifferdienstbuches nach. Hat der Bewerber zum Zeitpunkt der Anmeldung zur Prüfung noch nicht alle erforderlichen Streckenfahrten absolviert, wird der Bewerber unter der Bedingung zur Prüfung zugelassen, dass alle Streckenfahrten bis zum Tag der Prüfung erbracht werden.
 6. Der Schiffsführer hat dem Bewerber die Durchführung von Streckenfahrten – im Rahmen eines sicheren Schiffsbetriebes – zu ermöglichen und ihn hierbei zu unterstützen.
 Teil B: Teile des Rheins, für die zusätzliche Befähigungen des Schiffsführers gefordert werden
-I. Rhein von Rhein-km 335,92 (Schleuse Iffezheim) bis Rhein-km 352,07 (deutsch-französische Grenze)
+I. Rhein von Rhein-km 335,66 (Straßenbrücke Wintersdorf) bis Rhein-km 352,07 (deutsch-französische Grenze)
 Zusätzliche Befähigung
 Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
 1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
@@ -52,30 +52,8 @@ Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, b
     (5)
     die Vielzahl von Gefahrenstellen.
 II. Rhein von Rhein-km 352,07 (deutsch-französische Grenze) bis Rhein-km 425,00 (Mannheim)
-Die zusätzliche Befähigung entspricht der zusätzlichen Befähigung der Nummer I (Rhein von Rhein-km 335,92 (Schleuse Iffezheim) bis Rhein-km 352,07 (deutsch-französische Grenze)).
-Zusätzliche Befähigung
-III. Rhein von Rhein-km 425,00 (Mannheim) bis Rhein-km 498 (Mainz, Mainspitze)
-Zusätzliche Befähigung
-Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-2. Er muss zusätzlich verfügen über
-  a. detaillierte Kenntnisse der Streckencharakteristika,
-  b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße,
-  c. Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-3. Zusätzlich muss der Schiffsführer
-  a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
-    • schwankende Wasserstände um mehr als 6 m an einigen Streckenabschnitten
-    • Verlauf der Fahrrinne im Strom bei Hochwasser
-    • Lage aller Fehltiefen und -breiten bei Niedrigwasser
-    • Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
-    • Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
-    • Querströmungen,
-  b) die hydromorphologischen Eigenschaften dieses Rheinabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über
-    • Fehltiefen,
-    • Geschiebebewirtschaftung,
-    • nautisch anspruchsvolle Streckenabschnitte,
-  c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen.
-IV. Rhein von Rhein-km 498,00 (Mainz, Mainspitze) bis Rhein-km 592,00 (Koblenz, Moselmündung)
+Die zusätzliche Befähigung entspricht der zusätzlichen Befähigung der Nummer I (Rhein von Rhein-km 335,66 (Straßenbrücke Wintersdorf) bis Rhein-km 352,07 (deutsch-französische Grenze)).
+III. Rhein von Rhein-km 498,00 (Mainz, Mainspitze) bis Rhein-km 592,00 (Koblenz, Moselmündung)
 Zusätzliche Befähigung
 Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
 1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
@@ -94,37 +72,3 @@ Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, b
     • Verkehrsregelung in der Gebirgsstrecke
     • Wartepositionen
     • Überholverbote.
-V. Rhein von Rhein-km 592,00 (Koblenz, Moselmündung) bis Rhein-km 769,00 (Krefeld)
-Zusätzliche Befähigung
-Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-2. Er muss zusätzlich verfügen über
-  a. detaillierte Kenntnisse der Streckencharakteristika,
-  b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße.
-3. Zusätzlich muss der Schiffsführer
-  a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
-    • schwankende Wasserstände um teils mehr als 7 m
-    • Verlauf der Fahrrinne im Strom bei Hochwasser
-    • Lage aller Fehltiefen und -breiten bei Niedrigwasser
-    • Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
-    • Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
-    • Querströmungen,
-  b) die hydromorphologischen Eigenschaften dieses Rheinabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über die örtlichen Gegebenheiten bezüglich Geschiebebewirtschaftung und nicht gekennzeichnete Fehltiefen und -breiten.
-VI. Rhein von Rhein-km 769,00 (Krefeld) bis Rhein-km 857,40 (Spyck’sche Fähre/Grenze zu den Niederlanden)
-Zusätzliche Befähigung
-Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-2. Er muss zusätzlich verfügen über
-  a. detaillierte Kenntnisse der Streckencharakteristika,
-  b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße,
-  c. Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-3. Zusätzlich muss der Schiffsführer
-  a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über:
-    • Verlauf der Fahrrinne im Strom
-    • Auswirkungen von Hoch- und Niedrigwasser auf das Fluss- und Landschaftsbild und die Abflussmengen und -geschwindigkeiten
-    • Querströmungen,
-  b) die hydromorphologischen Eigenschaften dieses Rheinabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über:
-    • den Verlauf der Fahrrinne: Sie verlagert sich in dem deutlich breiteren Fluss nach jeder Kurve auf eine andere Seite. Für Begegnungsverkehre und Überholvorgänge sind ausreichende Erfahrung und rechtzeitige Absprachen über Rheinfunk Kanal 10 nötig
-    • Lage aller Fehltiefen und -breiten, insbesondere der nicht gekennzeichnete Fehlbreiten sowie Geschiebebewirtschaftung
-    • schwierige Streckenabschnitte.
-  c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen.

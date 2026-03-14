@@ -4,7 +4,7 @@
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-- [§ 1 Anwendungsbereich](0001.md)
+- [§ 1 Zweck und Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten
@@ -12,7 +12,7 @@
 - [§ 3 Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt](0003.md)
 - [§ 4 Harmonisierte Normen](0004.md)
 - [§ 5 Normen und andere technische Spezifikationen](0005.md)
-- [§ 6 Zusätzliche Anforderungen an die Bereitstellung von Verbraucherprodukten auf dem Markt](0006.md)
+- [§ 6 Sprache der Informationen, Sicherheitsinformationen, Anweisungen und Warnhinweise](0006.md)
 - [§ 7 CE-Kennzeichnung](0007.md)
 - [§ 8 Ermächtigung zum Erlass von Rechtsverordnungen](0008.md)
 
@@ -51,4 +51,8 @@
 
 - [§ 28 Bußgeldvorschriften](0028.md)
 - [§ 29 Strafvorschriften](0029.md)
+
+## Abschnitt 8 Schlussbestimmungen
+
+- [§ 30 Geändertes Unionsrecht; Verordnungsermächtigung](0030.md)
 - [Anlage Gestaltung des GS-Zeichens](anlage.md)

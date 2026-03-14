@@ -1,4 +1,4 @@
-# Anhang 3
+# Anlage 3
 
 Abschnitt 1
 Formale Anforderungen an die Einträge in Ausweisen im Sinne des § 2 Absatz 1 des Personalausweisgesetzes

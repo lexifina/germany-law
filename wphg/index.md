@@ -112,10 +112,11 @@
 ## Abschnitt 11 Verhaltenspflichten, Organisationspflichten, Transparenzpflichten
 
 - [§ 63 Allgemeine Verhaltensregeln; Verordnungsermächtigung](0063.md)
+- [§ 63a Besondere Verhaltens- und Informationsregeln für die Nutzung und Verbreitung von Analysen und emittentenfinanzierten Analysen](0063a.md)
 - [§ 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung](0064.md)
 - [§ 64a Form der Kundenkommunikation](0064a.md)
 - [§ 65 Selbstauskunft bei der Vermittlung des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes](0065.md)
-- [§ 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes](0065a.md)
+- [§ 65a (weggefallen)](0065a.md)
 - [§ 65b Veräußerung nachrangiger berücksichtigungsfähiger Verbindlichkeiten und relevanter Kapitalinstrumente an Privatkunden](0065b.md)
 - [§ 66 Ausnahmen für Immobiliar-Verbraucherdarlehensverträge](0066.md)
 - [§ 67 Kunden; Verordnungsermächtigung](0067.md)
@@ -163,12 +164,12 @@
 
 - [§ 101 Schiedsvereinbarungen](0101.md)
 
-## Abschnitt 15 Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union
+## Abschnitt 15 (weggefallen)
 
-- [§ 102 Erlaubnis; Verordnungsermächtigung](0102.md)
-- [§ 103 Versagung der Erlaubnis](0103.md)
-- [§ 104 Aufhebung der Erlaubnis](0104.md)
-- [§ 105 Untersagung](0105.md)
+- [§ 102 (weggefallen)](0102.md)
+- [§ 103 (weggefallen)](0103.md)
+- [§ 104 (weggefallen)](0104.md)
+- [§ 105 (weggefallen)](0105.md)
 
 ## Abschnitt 16 Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten
 
@@ -217,6 +218,7 @@
 - [§ 128 Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten zur Wahl des Herkunftsstaats](0128.md)
 - [§ 129 (weggefallen)](0129.md)
 - [§ 130 Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten für Inhaber von Netto-Leerverkaufspositionen nach § 30i in der Fassung dieses Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2481)](0130.md)
+- [§ 130a Anwendungsbestimmung für § 32a Absatz 1 Satz 1](0130a.md)
 - [§ 131 Übergangsregelung für die Verjährung von Ersatzansprüchen nach § 37a der bis zum 4. August 2009 gültigen Fassung dieses Gesetzes](0131.md)
 - [§ 132 Anwendungsbestimmung für das Transparenzrichtlinie-Umsetzungsgesetz](0132.md)
 - [§ 133 Anwendungsbestimmung für § 34 der bis zum 2. Januar 2018 gültigen Fassung dieses Gesetzes](0133.md)

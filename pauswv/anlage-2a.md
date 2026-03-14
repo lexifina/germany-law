@@ -1,4 +1,4 @@
-# Anhang 2a Muster des Ersatz-Personalausweises
+# Anlage 2a Muster des Ersatz-Personalausweises
 
 Vorderseite
 [Bild: bgbl1_2015_j1101-1_0010.jpg]

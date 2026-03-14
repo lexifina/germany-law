@@ -19,6 +19,7 @@ Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Ta
 |  | □ 07 Beschränkt auf ein einzelnes Fahrzeug namens ______________________ |
 |  | □ 08 Beschränkter Bereich _________________________ |
 |  | □ 09 Beschränkte Aufgabe _________________________ |
+| □ Tauglich, sofern das Schifferpatent nach Richtlinie 96/50/EG vor dem 1. April 2004 ausgestellt wurde |
 |  |  |  |  | Stempel |
 |  |  |  |  |  |
 |  |  |  |  |  |

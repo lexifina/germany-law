@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Kapitel 1 Allgemeine Vorschriften
+## Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](0002.md)
@@ -11,7 +11,7 @@
 - [§ 4 Dokumentationspflichten](0004.md)
 - [§ 5 Speicherung und Löschung](0005.md)
 
-## Kapitel 2 Übermittlung des Lichtbilds durch Dienstleister
+## Abschnitt 2 Übermittlung des Lichtbilds durch Dienstleister
 
 - [§ 5a Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren](0005a.md)
 - [§ 5b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters](0005b.md)
@@ -19,7 +19,7 @@
 - [§ 5d Pflichten des Cloudanbieters](0005d.md)
 - [§ 5e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters](0005e.md)
 
-## Kapitel 3 Übermittlung der Ausweisantragsdaten
+## Abschnitt 3 Übermittlung der Ausweisantragsdaten
 
 - [§ 6 Erfassung der Anschrift](0006.md)
 - [§ 6a Fertigung des Lichtbilds durch die Personalausweisbehörde](0006a.md)
@@ -27,7 +27,7 @@
 - [§ 8 Übermittlung](0008.md)
 - [§ 9 Qualitätsstatistik](0009.md)
 
-## Kapitel 4 Produktion des Personalausweises
+## Abschnitt 4 Produktion des Personalausweises
 
 - [§ 10 Eingang der Antragsdaten](0010.md)
 - [§ 11 Muster für den Personalausweis](0011.md)
@@ -39,25 +39,26 @@
 - [§ 16 Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber](0016.md)
 - [§ 17 Erhalt der Geheimnummer und der Entsperrnummer](0017.md)
 
-## Kapitel 5 Ausgabe und Versand des Personalausweises; Braille-Aufkleber
+## Abschnitt 5 Ausgabe und Versand des Personalausweises; Braille-Aufkleber
 
 - [§ 18 Ausgabe und Versand des Personalausweises und des Sperrkennworts](0018.md)
-- [§ 18a Aufkleber mit Brailleschrift](0018a.md)
+- [§ 18a Einsicht in die auslesbaren personenbezogenen Daten des Personalausweises](0018a.md)
+- [§ 18b Aufkleber mit Brailleschrift](0018b.md)
 
-## Kapitel 6 Änderung von Daten des Personalausweises; nachträgliches Einschalten
+## Abschnitt 6 Änderung von Daten des Personalausweises; nachträgliches Einschalten
 
 - [§ 19 Änderung der Anschrift](0019.md)
 - [§ 20 Neusetzung und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit dem Personalausweis](0020.md)
 - [§ 21 Nachträgliches Einschalten](0021.md)
 
-## Kapitel 7 Elektronischer Identitätsnachweis mit einem mobilen Endgerät
+## Abschnitt 7 Elektronischer Identitätsnachweis mit einem mobilen Endgerät
 
 - [§ 22 Einrichtung](0022.md)
 - [§ 23 Speicherung von personenbezogenen Daten; Zugriffsschutz](0023.md)
 - [§ 23a Neusetzen und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit einem mobilen Endgerät](0023a.md)
 - [§ 23b Gültigkeitsdauer](0023b.md)
 
-## Kapitel 8 Sperrung und Entsperrung des elektronischen Identitätsnachweises
+## Abschnitt 8 Sperrung und Entsperrung des elektronischen Identitätsnachweises
 
 - [§ 24 Referenzliste; allgemeine Sperrliste](0024.md)
 - [§ 25 Sperrung des elektronischen Identitätsnachweises mit dem Personalausweis](0025.md)
@@ -66,14 +67,14 @@
 - [§ 26a Entsperrung des elektronischen Identitätsnachweises mit mobilem Endgerät](0026a.md)
 - [§ 27 Auskunft über Sperrung](0027.md)
 
-## Kapitel 9 Beantragung von Berechtigungen
+## Abschnitt 9 Beantragung von Berechtigungen
 
 - [§ 28 Antrag auf Erteilung einer Berechtigung für Vor-Ort-Diensteanbieter und sonstige Diensteanbieter](0028.md)
 - [§ 29 Antrag auf Erteilung einer Berechtigung für Identifizierungsdiensteanbieter; Vorgaben zu Datenschutz und Datensicherheit bei Identifizierungsdiensteanbietern](0029.md)
 - [§ 29a Einholung von Stellungnahmen der Datenschutzaufsichtsbehörden](0029a.md)
 - [§ 30 Öffentliche Liste der Berechtigungen](0030.md)
 
-## Kapitel 10 Ausgabe von Berechtigungszertifikaten
+## Abschnitt 10 Ausgabe von Berechtigungszertifikaten
 
 - [§ 31 Angaben vor der Ausgabe von Berechtigungszertifikaten](0031.md)
 - [§ 32 Beachtung der Anforderungen des Inhabers der Wurzelzertifikate](0032.md)
@@ -83,24 +84,24 @@
 - [§ 36 Ausgabe von hoheitlichen Berechtigungszertifikaten](0036.md)
 - [§ 36a Ausgabe von Berechtigungszertifikaten für öffentliche Stellen anderer Mitgliedstaaten](0036a.md)
 
-## Kapitel 11 eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
+## Abschnitt 11 eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
 
 - [§ 36b Entsprechende Anwendung der Vorschriften über den Personalausweis](0036b.md)
 - [§ 36c Nicht auf die eID-Karte entsprechend anwendbare Vorschriften](0036c.md)
 - [§ 36d Abweichende Regelung für die eID-Karte](0036d.md)
 - [§ 36e Muster der eID-Karte](0036e.md)
 
-## Kapitel 12 Schlussvorschriften
+## Abschnitt 12 Schlussvorschriften
 
 - [§ 37 Übergangsregelungen](0037.md)
 - [§ 38 Inkrafttreten](0038.md)
 - [Schlussformel](schlussformel.md)
-- [Anhang 1 Muster des Personalausweises](anhang-1.md)
-- [Anhang 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises](anhang-1a.md)
-- [Anhang 1b Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes](anhang-1b.md)
-- [Anhang 1c Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte](anhang-1c.md)
-- [Anhang 2 Muster des vorläufigen Personalausweises](anhang-2.md)
-- [Anhang 2a Muster des Ersatz-Personalausweises](anhang-2a.md)
-- [Anhang 3](anhang-3.md)
-- [Anhang 3a Muster der eID-Karte](anhang-3a.md)
-- [Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten](anhang-4.md)
+- [Anlage 1 Muster des Personalausweises](anlage-1.md)
+- [Anlage 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises](anlage-1a.md)
+- [Anlage 1b Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes](anlage-1b.md)
+- [Anlage 1c Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte](anlage-1c.md)
+- [Anlage 2 Muster des vorläufigen Personalausweises](anlage-2.md)
+- [Anlage 2a Muster des Ersatz-Personalausweises](anlage-2a.md)
+- [Anlage 3](anlage-3.md)
+- [Anlage 3a Muster der eID-Karte](anlage-3a.md)
+- [Anlage 4 Übersicht über die zu zertifizierenden Systemkomponenten](anlage-4.md)

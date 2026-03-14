@@ -1,4 +1,4 @@
-# Anlage 8 (zu § 4 Absatz 2)Anforderungen an das Lichtbild für den Pass im Sinne des § 1 Absatz 2 des Passgesetzes
+# Anlage 8 (zu § 16 Absatz 2)Anforderungen an das Lichtbild für den Pass im Sinne des § 1 Absatz 2 des Passgesetzes
 
 |  | Das Foto zeigt das Gesicht von der Kinnspitze bis zum oberen Kopfende. Beide Gesichtshälften sind deutlich erkennbar. Das Gesicht nimmt 70 bis 80 % der Höhe des Fotos ein. |  |  |  |
 |  | Ausleuchtung Das Gesicht ist an allen Stellen gleichmäßig ausgeleuchtet und reflektiert nicht. Rote Augen sind zu vermeiden. |  |  |  |

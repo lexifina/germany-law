@@ -34,7 +34,7 @@ Gegenständen](0004b.md)
 - [§ 6a Innergemeinschaftliche Lieferung](0006a.md)
 - [§ 6b Konsignationslagerregelung](0006b.md)
 - [§ 7 Lohnveredelung an Gegenständen der Ausfuhr](0007.md)
-- [§ 8 Umsätze für die Seeschiffahrt und für die Luftfahrt](0008.md)
+- [§ 8 Umsätze für die Seeschifffahrt und für die Luftfahrt](0008.md)
 - [§ 9 Verzicht auf Steuerbefreiungen](0009.md)
 
 ## Dritter Abschnitt Bemessungsgrundlagen

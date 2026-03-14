@@ -194,7 +194,6 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 54a.1 |  | – mit Behinderung | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 22 (Zeichen 340) Spalte 3 Nummer 3 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5 | 70 € |
 | 54a.2 |  | – mit Gefährdung |  | 80 € |
 | 54a.3 |  | – mit Sachbeschädigung |  | 100 € |
-| 54a.2.1 |  | (weggefallen) |  |  |
 | 55 | Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2 StVO) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314) Spalte 3 Nummer 1, 2d, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1 Satz 2, Nummer 2d § 49 Absatz 3 Nummer 5 | 55 € |
 | 55a | Unberechtigt auf einem Parkplatz für elektrisch betriebene Fahrzeuge geparkt (§ 12 Absatz 2 StVO; Zeichen 314, 315) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen 1010-66) Spalte 3 Nummer 1, 3a, lfd. Nr. 10 (Zeichen 315 mit Zusatzzeichen 1010-66) Spalte 3 Nummer 1 Satz 2, Nummer 3a § 49 Absatz 3 Nummer 5 | 55 € |
 | 55b | Unberechtigt auf einem Parkplatz für Carsharingfahrzeuge geparkt (§ 12 Absatz 2 StVO; Zeichen 314, 315) | § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen 1010-70) Spalte 3 Nummer 1, 4a, lfd. Nr. 10 (Zeichen 315 mit Zusatzzeichen 1010-70) Spalte 3 Nummer 1 Satz 2, Nummer 4a § 49 Absatz 3 Nummer 5 | 55 € |

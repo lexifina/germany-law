@@ -2,7 +2,7 @@
 
 Abschnitt 1
 Allgemeine Vorschriften
-| § 1 | Anwendungsbereich |
+| § 1 | Zweck und Anwendungsbereich |
 | § 2 | Begriffsbestimmungen |
 Abschnitt 2
 Voraussetzungen für die
@@ -11,7 +11,7 @@ sowie für das Ausstellen von Produkten
 | § 3 | Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt |
 | § 4 | Harmonisierte Normen |
 | § 5 | Normen und andere technische Spezifikationen |
-| § 6 | Zusätzliche Anforderungen an die Bereitstellung von Verbraucherprodukten auf dem Markt |
+| § 6 | Sprache der Informationen, Sicherheitsinformationen, Anweisungen und Warnhinweise |
 | § 7 | CE-Kennzeichnung |
 | § 8 | Ermächtigung zum Erlass von Rechtsverordnungen |
 Abschnitt 3
@@ -49,4 +49,7 @@ Abschnitt 7
 Straf- und Bußgeldvorschriften
 | § 28 | Bußgeldvorschriften |
 | § 29 | Strafvorschriften |
+Abschnitt 8
+Schlussbestimmungen
+| § 30 | Geändertes Unionsrecht; Verordnungsermächtigung |
 | Anlage | Gestaltung des GS-Zeichens |

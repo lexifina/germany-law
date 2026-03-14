@@ -1,6 +1,7 @@
 # Anlage (zu § 1 Absatz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. 2025 I Nr. 187, S. 2 – 5)
+(Fundstelle: BGBl. 2025 I Nr. 187, S. 2 – 5;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Nr. | Gebührentatbestand | Gebühr in Euro |
 | Abschnitt 1 Elektro- und Elektronikgerätegesetz (ElektroG) |
 | Registrierung (§ 37 Absatz 1 ElektroG) |

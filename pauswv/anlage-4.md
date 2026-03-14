@@ -1,4 +1,4 @@
-# Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten
+# Anlage 4 Übersicht über die zu zertifizierenden Systemkomponenten
 
 (Fundstelle: BGBl. I 2010, 1476;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

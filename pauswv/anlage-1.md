@@ -1,4 +1,4 @@
-# Anhang 1 Muster des Personalausweises
+# Anlage 1 Muster des Personalausweises
 
 Vorderseite
 [Bild: bgbl1_2024_j01250_1010.jpg]

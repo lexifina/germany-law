@@ -1,4 +1,4 @@
-# Anhang 2 Muster des vorläufigen Personalausweises
+# Anlage 2 Muster des vorläufigen Personalausweises
 
 Vorderseite
 [Bild: bgbl1_2020_j2744-1_0040.jpg]

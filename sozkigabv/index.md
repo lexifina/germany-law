@@ -6,3 +6,4 @@
 - [§ 3 Verfahren und Umfang des Datenabrufs](0003.md)
 - [§ 4 Prüfungs- und Dokumentationspflichten](0004.md)
 - [§ 5 Inkrafttreten](0005.md)
+- [Schlussformel](schlussformel.md)
