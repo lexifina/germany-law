@@ -297,13 +297,27 @@ Mitgliedstaat der Europäischen Union
 - [§ 91i Rechtsbehelfe; Aufschub der Übermittlung von Beweismitteln](0091i.md)
 - [§ 91j Ausgehende Ersuchen](0091j.md)
 
-### Abschnitt 3 Besondere Formen der Rechtshilfe
+### Abschnitt 3 Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
 
-- [§ 92 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten der Europäischen Union](0092.md)
+
+#### Unterabschnitt 1 Übermittlung von Informationen an einen anderen Mitgliedstaat der Europäischen Union
+
+- [§ 92 Übermittlung von Informationen einschließlich personenbezogener Daten auf Ersuchen an Mitgliedstaaten der Europäischen Union](0092.md)
 - [§ 92a Inhalt des Ersuchens](0092a.md)
-- [§ 92b Verwendung von nach dem Rahmenbeschluss 2006/960/JI übermittelten Informationen einschließlich personenbezogener Daten](0092b.md)
-- [§ 92c Datenübermittlung ohne Ersuchen](0092c.md)
-- [§ 92d Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung](0092d.md)
+- [§ 92b Ablehnungsgründe](0092b.md)
+- [§ 92c Zusammenarbeit mit zentralen Kontaktstellen](0092c.md)
+- [§ 92d Informationsübermittlung ohne Ersuchen](0092d.md)
+- [§ 92e Verpflichtung zur Informationsübermittlung ohne Ersuchen](0092e.md)
+
+#### Unterabschnitt 2 Übermittlung von Informationen aus einem anderen Mitgliedstaat der Europäischen Union
+
+- [§ 92f Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von benannten Strafverfolgungsbehörden an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union](0092f.md)
+- [§ 92g Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von Polizei-, Finanz- und Zollbehörden an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union](0092g.md)
+- [§ 92h Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen](0092h.md)
+
+### Abschnitt 4 Besondere Formen der Rechtshilfe
+
+- [§ 92i Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung](0092i.md)
 - [§ 93 Gemeinsame Ermittlungsgruppen](0093.md)
 - [§ 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung](0094.md)
 - [§ 95 Sicherungsunterlagen](0095.md)
