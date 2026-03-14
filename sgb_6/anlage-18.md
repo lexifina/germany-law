@@ -1,3 +1,3 @@
-# Anlage 18
+# Anlage 18 (weggefallen)
 
-(weggefallen)
+

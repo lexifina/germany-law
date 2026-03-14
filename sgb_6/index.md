@@ -358,7 +358,7 @@ Versicherungsträger
 #### Siebter Unterabschnitt Datenstelle der Rentenversicherung
 
 - [§ 145 Aufgaben der Datenstelle der Rentenversicherung](0145.md)
-- [§ 146](0146.md)
+- [§ 146 (weggefallen)](0146.md)
 
 ### Zweiter Abschnitt Datenschutz und Datensicherheit
 
@@ -483,7 +483,6 @@ besonderen Fällen
 Mitteilungspflichten
 
 - [§ 196 Auskunfts- und Mitteilungspflichten](0196.md)
-- [§ 196a (weggefallen)](0196a.md)
 
 ##### Dritter Titel Wirksamkeit der
 Beitragszahlung
@@ -534,7 +533,7 @@ und Finanzausgleich
 
 - [§ 216 Nachhaltigkeitsrücklage](0216.md)
 - [§ 217 Anlage der Nachhaltigkeitsrücklage](0217.md)
-- [§ 218](0218.md)
+- [§ 218 (weggefallen)](0218.md)
 - [§ 219 Finanzverbund in der allgemeinen Rentenversicherung](0219.md)
 - [§ 220 Aufwendungen für Leistungen zur Teilhabe, Verwaltung und Verfahren](0220.md)
 - [§ 221 Ausgaben für das Verwaltungsvermögen](0221.md)
@@ -563,8 +562,6 @@ Aufwendungen
 #### Erster Unterabschnitt Grundsatz
 
 - [§ 228 Grundsatz](0228.md)
-- [§ 228a (weggefallen)](0228a.md)
-- [§ 228b (weggefallen)](0228b.md)
 
 #### Zweiter Unterabschnitt Versicherter
 Personenkreis
@@ -644,7 +641,6 @@ im Beitrittsgebiet](0249a.md)
 - [§ 256b Entgeltpunkte für glaubhaft gemachte Beitragszeiten](0256b.md)
 - [§ 256c Entgeltpunkte für nachgewiesene Beitragszeiten
 ohne Beitragsbemessungsgrundlage](0256c.md)
-- [§ 256d (weggefallen)](0256d.md)
 - [§ 257 Entgeltpunkte für Berliner Beitragszeiten](0257.md)
 - [§ 258 Entgeltpunkte für saarländische
 Beitragszeiten](0258.md)
@@ -654,20 +650,16 @@ Sachbezug](0259.md)
 Geburtsjahrgänge vor 1937](0259a.md)
 - [§ 259b Besonderheiten bei Zugehörigkeit zu einem Zusatz- oder
 Sonderversorgungssystem](0259b.md)
-- [§ 259c](0259c.md)
 - [§ 260 Beitragsbemessungsgrenzen](0260.md)
 - [§ 261 Beitragszeiten ohne Entgeltpunkte](0261.md)
 - [§ 262 Mindestentgeltpunkte bei geringem Arbeitsentgelt](0262.md)
 - [§ 263 Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten](0263.md)
-- [§ 263a (weggefallen)](0263a.md)
 - [§ 264 Zuschläge oder Abschläge beim Versorgungsausgleich](0264.md)
 - [§ 264a (weggefallen)](0264a.md)
 - [§ 264b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung](0264b.md)
 - [§ 264c Zuschlag bei Hinterbliebenenrenten](0264c.md)
 - [§ 264d Zugangsfaktor](0264d.md)
 - [§ 265 Knappschaftliche Besonderheiten](0265.md)
-- [§ 265a (weggefallen)](0265a.md)
-- [§ 265b](0265b.md)
 
 #### Sechster Unterabschnitt Zusammentreffen von
 Renten und Einkommen
@@ -709,7 +701,6 @@ Datenverarbeitung und Datenschutz
 - [§ 273 Zuständigkeit der Deutschen Rentenversicherung
 Knappschaft-Bahn-See](0273.md)
 - [§ 273a Zuständigkeit in Zweifelsfällen](0273a.md)
-- [§ 273b](0273b.md)
 
 ##### Zweiter Titel Datenverarbeitung und Datenschutz
 
@@ -720,7 +711,6 @@ Knappschaft-Bahn-See](0273.md)
 ##### Dritter Titel Übergangsvorschriften zur Zuständigkeit der Rentenversicherungsträger
 
 - [§ 274c Ausgleichsverfahren](0274c.md)
-- [§ 274d (weggefallen)](0274d.md)
 
 #### Elfter Unterabschnitt Finanzierung
 
@@ -731,13 +721,9 @@ Knappschaft-Bahn-See](0273.md)
 
 ##### Zweiter Titel Beiträge
 
-- [§ 275a (weggefallen)](0275a.md)
-- [§ 275b (weggefallen)](0275b.md)
-- [§ 275c (weggefallen)](0275c.md)
 - [§ 276 Übergangsregelung für Auszubildende in einer außerbetrieblichen Einrichtung](0276.md)
 - [§ 276a Arbeitgeberanteil bei Versicherungsfreiheit](0276a.md)
 - [§ 276b Übergangsregelung für Beschäftigte in Privathaushalten im Übergangsbereich](0276b.md)
-- [§ 276c (weggefallen)](0276c.md)
 - [§ 277 Beitragsrecht bei Nachversicherung](0277.md)
 - [§ 277a Durchführung der Nachversicherung im Beitrittsgebiet](0277a.md)
 - [§ 278 Mindestbeitragsbemessungsgrundlage
@@ -764,7 +750,6 @@ Beitrittsgebiet](0279a.md)
 - [§ 282 Nachzahlung nach Erreichen der Regelaltersgrenze](0282.md)
 - [§ 283 (weggefallen)](0283.md)
 - [§ 284 Nachzahlung für Vertriebene, Flüchtlinge und Evakuierte](0284.md)
-- [§ 284a](0284a.md)
 - [§ 285 Nachzahlung bei Nachversicherung](0285.md)
 - [§ 286 Versicherungskarten](0286.md)
 - [§ 286a Glaubhaftmachung der Beitragszahlung und Aufteilung von Beiträgen](0286a.md)
@@ -814,9 +799,7 @@ Kindererziehung an Mütter der Geburtsjahrgänge vor 1921
 - [§ 294 Anspruchsvoraussetzungen](0294.md)
 - [§ 294a Besonderheiten für das Beitrittsgebiet](0294a.md)
 - [§ 295 Höhe der Leistung](0295.md)
-- [§ 295a (weggefallen)](0295a.md)
 - [§ 296 Beginn und Ende](0296.md)
-- [§ 296a](0296a.md)
 - [§ 297 Zuständigkeit](0297.md)
 - [§ 298 Durchführung](0298.md)
 - [§ 299 Anrechnungsfreiheit](0299.md)
@@ -833,7 +816,6 @@ neuen Rechts
 Teilhabe
 
 - [§ 301 Leistungen zur Teilhabe](0301.md)
-- [§ 301a (weggefallen)](0301a.md)
 
 #### Dritter Unterabschnitt Anspruchsvoraussetzungen
 für einzelne Renten
@@ -886,13 +868,12 @@ vor dem 1. Januar 1979](0312.md)
 - [§ 315 Zuschuss zur Krankenversicherung](0315.md)
 - [§ 315a Auffüllbetrag](0315a.md)
 - [§ 315b Renten aus freiwilligen Beiträgen des Beitrittsgebiets](0315b.md)
-- [§ 316](0316.md)
+- [§ 316 (weggefallen)](0316.md)
 
 #### Siebter Unterabschnitt Leistungen an
 Berechtigte im Ausland
 
 - [§ 317 Grundsatz](0317.md)
-- [§ 317a (weggefallen)](0317a.md)
 - [§ 318 (weggefallen)](0318.md)
 - [§ 319 Zusatzleistungen](0319.md)
 
@@ -916,7 +897,6 @@ für Renten nach den Vorschriften des Beitrittsgebiets
 
 - [§ 320 Bußgeldvorschriften](0320.md)
 - [§ 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0321.md)
-- [§ 322 (weggefallen)](0322.md)
 - [Anlage 1 Durchschnittsentgelt in Euro/DM/RM](anlage-1.md)
 - [Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM](anlage-2.md)
 - [Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM](anlage-2a.md)
@@ -940,12 +920,9 @@ Bestandsrenten des Beitrittsgebiets](anlage-12.md)
 - [Anlage 16 Höchstverdienste bei glaubhaft gemachten Beitragszeiten ohne
 freiwillige Zusatzrentenversicherung](anlage-16.md)
 - [Anlage 17](anlage-17.md)
-- [Anlage 18](anlage-18.md)
+- [Anlage 18 (weggefallen)](anlage-18.md)
 - [Anlage 19](anlage-19.md)
 - [Anlage 20](anlage-20.md)
-- [Anlage 21 (weggefallen)](anlage-21.md)
-- [Anlage 22 (weggefallen)](anlage-22.md)
-- [Anlage 23 (weggefallen)](anlage-23.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III
 
 (BGBl. II 1990, 889, 1060)
