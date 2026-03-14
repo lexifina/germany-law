@@ -8,7 +8,7 @@ Einleitende Vorschriften
 Teil 2
 Berufsförderung und Dienstzeitversorgung
 Abschnitt 1
-Berufsförderung und Dienstzeitversorgung der Soldatinnen auf Zeit und Soldaten auf Zeit
+Berufsförderung und Dienstzeitversorgung der Soldatinnen auf Zeit und Soldaten auf Zeit; Berufsförderung der freiwilligen Wehrdienst nach § 58b des Soldatengesetzes Leistenden
 Unterabschnitt 1
 Allgemeine Vorschriften
 | § 4 | Zweck und Arten |
@@ -96,9 +96,9 @@ Abschnitt 3
 Versorgung
 der Hinterbliebenen
 von Soldatinnen und Soldaten
-| § 56 | Bezüge für den Sterbemonat und Sterbegeld für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten |
+| § 56 | Bezüge für den Sterbemonat und Sterbegeld für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten |
 | § 57 | Laufende Unterstützung für Hinterbliebene von Soldatinnen auf Zeit und Soldaten auf Zeit |
-| § 58 | Versorgung der Hinterbliebenen nach einem Einsatzunfall von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz oder nach dem Vierten Abschnitt des Soldatengesetzes leisten |
+| § 58 | Versorgung der Hinterbliebenen nach einem Einsatzunfall von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, nach § 58b oder nach dem Vierten Abschnitt des Soldatengesetzes leisten |
 | § 59 | Hinterbliebene von Berufssoldatinnen und Berufssoldaten |
 | § 60 | Bezüge bei Verschollenheit |
 | § 61 | Hinterbliebene von Soldatinnen |
@@ -201,5 +201,4 @@ Schlussvorschriften
 | § 133 | Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen |
 | § 134 | Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit |
 | § 135 | Übergangsregelung aus Anlass des Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr |
-| § 136 | Übergangsregelung aus Anlass des Wehrdienst-Modernisierungsgesetzes |
 | Anlage | Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags |
