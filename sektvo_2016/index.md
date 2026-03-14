@@ -1,4 +1,4 @@
-# Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung
+# Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
