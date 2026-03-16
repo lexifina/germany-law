@@ -1,0 +1,86 @@
+# 4. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-16T17:00:00+01:00
+- Ende: 2026-03-16T19:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34040
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34040
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Beschlussvorlagen zu Eingaben
+- TOP 3.1.1: Bürgereingabe nach § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW) - „Entfernen der Steine auf dem Meisenweg zwischen den Hausnummern 33-47“, Aktenzeichen 113/25 - ungeändert beschlossen
+- TOP 3.2: Mitteilungen zu Eingaben
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - vertagt
+- TOP 6.2: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - vertagt
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - vertagt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche AN/0769/2023 - Sache ist erledigt
+- TOP 6.4.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung 4 (Ehrenfeld) vom 03.02.2025 (AN/0147/2025) betreffend "Anfrage der SPD-Fraktion, betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche AN/ - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Klimaanpassungsmaßnahmen an der Äußeren Kanalstraße - vertagt
+- TOP 6.6: Anfrage der AfD-Fraktion, betr.: Sicherheit und Diskriminierungsfreiheit im Ehrenfelder Nachtleben - vertagt
+- TOP 6.7: Anfrage der SPD-Fraktion, betr.: Sachstand Flächenbedarf der Feuerwehr auf dem Gelände „Neues Quartier Bickendorf“ - Sache ist erledigt
+- TOP 6.7.1: Beantwortung einer Anfrage der SPD-Fraktion, betr.: Sachstand Flächenbedarf der Feuerwehr auf dem Gelände "Neues Quartier Bickendorf" - Kenntnis genommen
+- TOP 6.8: Anfrage der SPD-Fraktion, betr.: Wie geht es mit der Bezirkssportanlage Prälat-Ludwig-Wolker in Ehrenfeld weiter? - vertagt
+- TOP 6.9: Anfrage von Marlis Pöttgen (FDP), betr.: Elektroladesäule Subbelrather Straße 533 - Sache ist erledigt
+- TOP 6.9.1: Beantwortung der Anfrage AN/0179/2026 von Marlis Pöttgen, FDP-Fraktion, bezüglich der Elektroladesäule an der Subbelrather Straße 533, 50827 Köln - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke, betr.: Erneuerungsbedarfe der Sportstätten im Stadtbezirk - vertagt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion und der Fraktion Die Linke - ungeändert beschlossen
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - vertagt
+- TOP 8.3: Antrag von Marlis Pöttgen (FDP), betr.: Poller im Heinzelmännchenweg - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Die Kreuzung Vogelsanger Straße / Ehrenfeldgürtel für alle Verkehrsteilnehmer*innen sicher umgestalten - vertagt
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Instandsetzung der Mauer Josef-Hamacher Platz / Vogelsang - ungeändert beschlossen
+- TOP 8.6: Antrag der Fraktion Die Linke, betr.: Einrichtung einer Lichtsignalanlage für Fußgänger.innen am Ehrenfeldgürtel zwischen Höhe „Balloni“ und Höhe „Penny“-Parkplatz. - vertagt
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Sichere und durchgehende Radverkehrsführung im Stadtbezirk Ehrenfeld - vertagt
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Schulneubau Lindweiler Hof - vertagt
+- TOP 8.9: Antrag der Fraktion Die Linke, betr.: Errichtung einer Infrastruktur für öffentliche Toiletten im Stadtbezirk Ehrenfeld - vertagt
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Querung des Parkplatzes Fuchsstraße / Bezirkssportanlage - ungeändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion, betr.: Sicherstellung der sanitären Grundversorgung Neuehrenfeld – Errichtung einer öffentlichen Toilettenanlage - vertagt
+- TOP 8.12: Antrag der SPD-Fraktion, betr.: Prüfung von Quartiersgaragen und Feierabendparken im Umfeld der Feltenstraße - ungeändert beschlossen
+- TOP 8.13: Gemeinsamer Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke, CDU-Fraktion, Regina Bensch (Volt) u. Marlis Pöttgen (FDP), betr.: Vergabe der bezirksorientierten Mittel gem. § 37 GO für das Jahr 2026 - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Herstellung einer Querungshilfe über die Hugo-Eckener-Straße - ungeändert beschlossen
+- TOP 9.2: Bürgerschaftshaus Bocklemünd/Mengenich e.V., Wahl der Parteienvertreter*innen in den Vorstand des Bürgerschaftshauses - geändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke zu TOP 10.1 - ungeändert beschlossen
+- TOP 10.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII, hier: "Aktion Nachbarschaft e. V." - ungeändert beschlossen
+- TOP 10.3: Konzept für die SeniorenNetzwerke Köln - geändert beschlossen
+- TOP 10.4: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 10.5: Vorentwurf Hybridpark - Variantenentscheid - ungeändert beschlossen
+- TOP 10.6: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ungeändert beschlossen
+- TOP 10.7: Kleingärten östlich Maarweg in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 12.2: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Kenntnis genommen
+- TOP 12.3: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 12.4: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.6: Veröffentlichung der Stationen aus dem Carsharing Konzept - Kenntnis genommen
+- TOP 12.7: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 12.8: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.9: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - Kenntnis genommen
+- TOP 12.10: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 12.11: Stadtradeln 2026 - Kenntnis genommen
+- TOP 12.12: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 12.13: Niederschrift zur 20. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 03.02.2026 - Kenntnis genommen
+- TOP 12.14: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 12.15: Stellungnahme zu einem Antrag des Bündnis 90 Die Grünen, betr.: Bennenung des Coty-Geländes im Rahmen einer Bürgerbeteiligung - Kenntnis genommen
+- TOP 12.16: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.:Überarbeitung der bezirklichen Busteilnetze - Kenntnis genommen
+- TOP 12.17: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 12.18: Soziale Erhaltungssatzungen in Köln: Sachstandsbericht zur Umsetzungspraxis für den Berichtszeitraum 01.01.2025 bis 31.12.2025 - Kenntnis genommen
+- TOP 12.19: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 12.20: Neues Quartier Bickendorf: Betr. Aufgabenstellung zum Qualifizierungsverfahren - Kenntnis genommen
+- TOP 13: mündliche Anfragen
