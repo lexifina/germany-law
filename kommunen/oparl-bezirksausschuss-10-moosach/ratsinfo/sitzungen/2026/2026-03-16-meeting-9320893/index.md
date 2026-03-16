@@ -1,0 +1,70 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-03-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9320893
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9320893
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 23.02.2026
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Eilantrag auf Verbesserung des Baumschutzes in der Karlingersiedlung
+- TOP 2.2.: Wohn- und Hofsituation in der Wohnanlage Höchstädter Weg bis Leipheimer Weg
+- TOP 2.3.: Gefährliche Verkehrssituation an der Ecke Agnes-Pockels-Bogen / Emmy-Noether-Straße
+- TOP 2.4.: Antrag auf Prüfung der Anpassung einer Verkehrsinsel in der Haylerstraße
+- TOP 2.5.: Errichtung eines Bauzaunes am Spielplatz in der Hanauer Straße
+- TOP 2.6.: Erneuerung des Spielplatzes an der Borstei
+- TOP 2.7.: Antrag auf Einsicht in die Planungen des Grünstreifens an der Lampadiusstraße / Hengelerstraße neben der SWM-Zentrale
+- TOP 2.8.: Projekt "Kastanienpaten" im Grünstreifen Lampadiusstraße / Hengelerstraße; Antrag auf finanzielle und technische Unterstützung durch die Stadt
+- TOP 2.9.: Winterliche Sicherungspflicht auf dem Gehweg in der Pelkovenstraße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Rigaer Straße 4
+- TOP 3.3.1.2.: Hanauer Straße 64
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Pflegezentrum Moosach Archenoris GmbH Senioren besuchen Museen vom 12.03.-27.12.2026 2.160,00€; Az. 0262.100-10-0459
+- TOP 5.2.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen -Tennisabteilung Trainingslager zur Vorbereitung der Punktspielsaison und Teambildung vom 28.03. -04.04.2026 13.626,20€; Az. 0262.100-10-0462
+- TOP 5.3.: (E) Stadtbeziksbudget Chor soundsationell St. Martin Moosach Bayerische Ostergschicht am 25.04.26 1 809,62€ Az.: 0262.100-10-0460
+- TOP 5.4.: (E) Stadtbezirksbudget Kultur und Spielraum e.V. „Für Kinder in den Sommerferien : Spielstadt Mini-München vom 03.08.2026 - 21.08.2026“ 4.590,00 € / AZ: 0262.100-10-0461
+- TOP 5.5.: (E) Einrichtung eines verkehrsberuhigten Bereichs zwischen Rothschwaigestraße und Wilhelmshavener Straße
+- TOP 5.6.: (E) Verkehrsregelung Andernacher Straße
+- TOP 5.7.: (E) Prüfung von verkehrsrechtlichen Maßnahmen gegen die Zustände in der Donauwörther Straße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Veranstaltungen auf öffentlichen Straßen und Plätzen; hier: Straße.Oase von CultureClouds e.V.; Untermenzinger Straße; vom 24.04.-09.07.26
+- TOP 6.2.: Bettfedernreinigung auf städt. Grund: Ecke Allacher Straße / Waldhornstraße vom 01.06. bis 03.06.2026
+- TOP 6.3.: Errichtung einer Mobilfunksendeanlage im Bereich Moosach-Süd
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Antrag auf Einrichtung eines kleinen Fußballfeldes auf einem Spielplatz in Moosach (Allacher Straße / Untermenzinger Straße)
+- TOP 7.2.: In den Kirschen; Anfrage bezüglich Grundschulsprengel
+- TOP 7.3.: Ampelanlage von der Nederlinger Straße stadtauswärts über den Wintrichring
+- TOP 7.4.: Bestellung städtischer Leistung: Aufstellung eines Dialogdisplays in der Feldmochinger Straße 55-59
+- TOP 7.5.: Feldmochinger Straße - Entfernung missverständlicher Gehwegmarkierungen; 2. Antwortschreiben zu BA-Antrag 20-26 / B 08362
+- TOP 7.6.: Fachgerechter Rückschnitt der Kastanienbäume in der Lampadiusstraße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Pflanzentauschbörse am Simmerleinplatz am 09.05.2026
+- TOP 8.2.: Vollzug der Grünanlagensatzung vom 15.06.2012 hier: Baustelleneinrichtung zwischen Memminger Platz und Berta-Hummel-Straße
+- TOP 8.3.: Stadtbezirksbudget effizient nutzen – Mittelreste aus Vorjahren vorrangig einsetzen
+- TOP 8.4.: Vollzug der Erhaltungssatzung "Moosach"; Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen -nicht öffentlich-
+- TOP 8.5.: (U) Mobilitätsstrategie 2035 Fortschreibung der Teilstrategie Wirtschaftsverkehr – Vorstellung der Roadmap Urbane Logistik
+- TOP 8.6.: Mehrjahresinvestitionsprogramm (MIP) 2025 - 2029 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.7.: Keine börsennotierten Energieverträge Keine börsengekoppelten Energieverträge
+- TOP 6.4.: Sammelbeschluss des Mobilitätsreferates zu offenen Bezirksausschussangelegenheiten
+- TOP 3.3.1.3.: Wintrichring
+- TOP 3.3.1.4.: Untermenzinger Straße 71
+- TOP 3.3.1.5.: Seydlitzstraße 4
