@@ -1,0 +1,164 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2026-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8925930
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8925930
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 24.02.2026
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Bewilligte Vermögensgegenstande des Familienbaum e.V. hier: Zweckentsprechende Weiternutzung (Spielturm)
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Stiftung Kulturator ROOKIE, Candidplatz für alle. Vom 01.07. - 31.12.2026 8.294,40 €; Az. 0262.100-18-0456
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Kreisjugendring München Stadt Fromundstraßenfest am 17.07.2026 5.000,00 €; Az. 0262.100-18-0455
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Mobil und sicher im Alltag e. V. Stadtbezirkskarte mit den barrierefreien TOP 100 Orten des täglichen Bedarfs vom 01.05. - 31.12.2026 3.550,00 €; Az. 0262.100-18-0457
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Luma e. V. Kulturelles Kinderprogramm vom 01.04. - 31.12.2026 8.948,00 €; Az. 0262.100-18-0458
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Maibaumverein Untergiesing e.V. „Platzfest für alle Bürgerinnen und Bürger am 01.05.2026“ 4.517,50 € / AZ: 0262.100-18-0460
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Kostenübernahme für Plakate mit Nutzungshinweisen in der Fromundstraße
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise für vom BA 18 geförderte Budgetanträge
+- TOP 3.1.6.2.: Stadtbezirksbudget effizient nutzen – Mittelreste aus Vorjahren vorrangig einsetzen
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Skate Mobil und Kurse von High Five e.V. Skatekurse in städtischen Grünanlagen / Skateparks im Zeitraum 12.04 – 25.10.2026
+- TOP 3.2.4.2.: Spielaktion "Straße.Oase" von CultureClouds e.V. zwischen Park am Hollerbusch und Grundschule Rotbuchenstraße vom 30.06 - 02.07.2026
+- TOP 3.2.4.3.: Workshops - Parkour on Tour Veranstaltung im Freien innerhalb einer städtischen Anlage am Candidplatz - Lohstr. 70 (unterhalb der Brücke) an 4 Wochenenden vom 15.05 – 04.10.2026
+- TOP 3.2.4.4.: Flohmarkt des Kirschbaumkindergarten e.V. Veranstaltung auf öffentlichem Verkehrsgrund am 26.04.2026 am Hans-Mielich-Platz
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.2.7.1.: Teilnahmemöglichkeit der Bezirksausschüsse am Stadtgeburtstag
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Sammelbeschluss - offene Bezirksausschussangelegenheiten des 18. Stadtbezirkes Untergiesing-Harlaching
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Änderung der Beschilderung in der Tempo-30-Zone in der Birkenau; Bürgeranliegen
+- TOP 3.3.3.2.: Provisorischer Zebrastreifen in der Pilgersheimer Straße (in Höhe Cannabichstraße); Grünen-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Aufhebung einer Schulbushaltestelle sowie des absoluten Haltverbotes in der Wunderhornstraße/Reinekestraße
+- TOP 3.3.4.2.: Neues Parklizenzgebiet Mangfallplatz - Entwurf der verkehrsrechtlichen Anordnung
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Antwort der Verwaltung zur Verkehrssituation vor der Bäckerei an der Einmündung Pilgersheimer Straße/Winterstraße
+- TOP 3.3.5.2.: Maßnahmen zur Behebung der Einschränkungen der Verkehrsstraßen auf die Fahrzeiten des ÖPNV
+- TOP 3.3.5.3.: Antwort der Verwaltung zur Verkehrssicherheit in der Harthauser Straße
+- TOP 3.3.5.4.: Antwort der Verwaltung zum Bürgerantrag Dooring-Schutzstreifen und Verschwenkung der Fahrbahn in der Säbener Straße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Anordnung einer PKW-Parken-Zone in der Lohstraße (südlich Kupferhammerstraße)
+- TOP 3.3.6.2.: Anordnung einer PKW-Parken-Zone in der Grünwalder Straße (südlich Bozener Straße)
+- TOP 3.3.6.3.: Instandhaltungsmaßnahmen an den Gleisen zwischen Authariplatz und Theodolindenplatz in den Nächten vom 23.03 bis einschließlich 26.03.
+- TOP 3.3.6.4.: Schulwegsperrung durch die Kleingartenanlage an der Schönstr. 93
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Maßnahmen und Veranstaltungen zur Förderung der Biodiversität und Lebensqualität in den Quartieren; Bürgeranliegen
+- TOP 3.4.3.2.: Vermüllung in Untergiesing; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Bumfällanträge (Anhörungen): - Geiselgasteigstr. 120 - Griechenplatz 4 - Harthauser Str. 91 - Hermine-Bland-Str. 5 - Münchner-Kindl-Weg 14 - Naupliastr. 74 - Sabine-Schmitt-Str. 9 - Sanatoriumsplatz 2
+- TOP 3.4.4.2.: Infoveranstaltung zum Thema zur Isar und Biber auf einer Grünanlage im Landschaftsschutzgebiet am südlichen Ende des Flaucherstegs (bei den Kiesbänken) am 10.05.2026
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Auskunft der Verwaltung zur Müllreinigung auf Rad- und Gehwegen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällbescheide (Unterrichtungen): - Geiselgasteigstr. 120 - Harthauser Str. 91 - Rotdornstr. 3 - Sanatoriumsplatz 2
+- TOP 3.4.6.2.: Gehölzrückschnitt zur Sanierung des Brückenbauwerks an der Marienklause
+- TOP 3.4.6.3.: Informationen über die derzeit anstehenden und laufenden Strom-Projekte der Stadtwerke München
+- TOP 3.4.6.4.: SWM-Baumaßnahme: Strom-Projekt in der Claude-Lorrain-Straße 19
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Umweltbildung jetzt stärken – Budget 2025 für KI‑Recycling in Ihrem Stadtteil (BA18) nutzen; Bürgeranliegen
+- TOP 3.5.3.2.: Mehr Müllbeseitigung damit die Tiere mehr Platz haben; Antrag aus der Kinder- und Jugendversammlung 2025
+- TOP 3.5.3.3.: Entwicklungen auf dem südlichen Candidplatz; Bürgeranliegen
+- TOP 3.5.3.4.: Vorschlag für eine kostenfreie Nutzung der Toilette im U-Bahnhof Kolumbusplatz; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Auskunft der Verwaltung zur Vermietung der Wohnungen in der Säbener Straße 88
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: AKIM Jahresbericht 2025
+- TOP 3.5.6.2.: Reparatur des Aufzugs in der Unterführung Otkerstraße
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Anfrage von AKIM zu einem Austausch für ein zufriedenstellendes Wohnen in der Reichenhaller Straße
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Vorstellung des Entwurfes zur Nicht-Bebauung des südlichen Candidplatzes durch Nachbarinnen und Nachbarn aus Untergiesing
+- TOP 3.6.3.2.: Zwischennutzung der Fläche am Candidplatz durch ein Wohn- und Kulturprojekt in der Form eines Wagenplatzes; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Aretinstraße 16: Neubau Mehrfamilienhaus - VORBESCHEID
+- TOP 3.6.4.1.2.: Gabriel-Max-Straße 62: Neubau eines Einfamilienhauses mit Einliegerwohnung und Tiefgarage
+- TOP 3.6.4.1.3.: Elilandstraße 16: Neubau von 2 Balkonanlagen mit 2 neuen Dachgauben
+- TOP 3.6.4.1.4.: Lorenzonistraße 70a: Umbau mit Teilaufstockung, energetischer Sanierung, sowie Gaubeneinbau eines Eckwohnhauses in Einem geschlossenem Vierspänner
+- TOP 3.6.4.1.5.: Reisachstraße 9: Neubau eines Mehrfamilienhauses (5WE) mit Tiefgarage
+- TOP 3.6.4.1.6.: Humboldtstraße 32: Dachgeschossausbau Vordergebäude für 2 Wohnungen, Abbruch Rückgebäude, Anbau Vordergebäude in Richtung Innenhof für 5 Wohnungen, Nutzungsänderung von Ladenraum in Gaststätte im Vordergebäude und Einbau Aufzug im Vordergebäude
+- TOP 3.6.4.1.7.: Arminiusstraße 7: Errichtung eines nicht unterkellerten Wohngebäudes mit 3 Etagen und einem Terrassengeschoß an das Rückgebäude - VORBESCHEID
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Zwischennachricht zur Förderung des vom BA 18 eingereichten Projekts "Zukunft Mangfallplatz: Stadtteilzentrum mit Aufenthaltsqualität"
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.2.4.5.: Kranzniederlegung am Perathoner Stein Grünanlage Kuntersweg am Tiroler Platz am 10.04.2026
+- TOP 3.3.3.3.: Straßenverengende Baustelle in der Grünwalder Straße/Tauernstraße; Bürgeranliegen
+- TOP 3.6.4.1.8.: Seybothstraße 36: Erdgeschossiger Anbau an ein bestehenden Zweifamilienhauses zur Wohnraumerweiterung
+- TOP 3.6.4.1.9.: Weyarner Straße 11: Anbau einer Spindeltreppe zur Erschließung des Dachgeschosses zur eigenständigen Wohnung
+- TOP 3.2.4.6.: "Fun Run" von Outdoor Against Cancer gGmbH am Isargrünstreifen Veranstaltung innerhalb einer städtischen Grünanlage und Landschaftsschutzgebiet Start- und Zielpunkt und Workshops: am Bewegungsparcours Entenweiher am Freitag 03.07.2026 von 6:00 – 12:00 Uhr
+- TOP 3.1.2.7.: (E) Stadtbezirksbudget Init. "Selbstbehauptungskurs" „Finanzielle Unterstützung für einen Selbstbehauptungskurs für Mädchen Schuljahr 2025/ 2026“ 950,00 € / AZ: 0262.100-18-0459
+- TOP 3.2.7.2.: Beschluss über Ort und Termin des vom BA geförderten Budgetantrags "die Urbanauten: Spiel mich!" vom 15.12.2025 - 14.12.2026
