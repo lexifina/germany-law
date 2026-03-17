@@ -1,0 +1,50 @@
+# Anlage 2 (zu § 10 Absatz 1)Eingerichtete Vorbereitungsdienste
+
+| Nr. | Laufbahn | Fachspezifischer Vorbereitungsdienst | Oberste Dienstbehörde(n) |
+|  | 1 | 2 | 3 |
+| 1 | Mittlerer nichttechnischer Verwaltungsdienst |  |  |
+| 2 |  | Mittlerer Dienst im Bundesnachrichtendienst und mittlerer Dienst im Verfassungsschutz des Bundes | Bundeskanzleramt undBundesministerium des Innern |
+| 3 |  | Mittlerer Zolldienst des Bundes | Bundesministerium der Finanzen |
+| 4 |  | Mittlerer Steuerdienst des Bundes | Bundesministerium der Finanzen |
+| 5 |  | Mittlerer nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes | Bundesministerium des Innern |
+| 6 |  | Mittlerer nichttechnischer Verwaltungsdienst in der Bundeswehrverwaltung | Bundesministerium der Verteidigung |
+| 7 | Mittlerer technischer Verwaltungsdienst |  |  |
+| 8 |  | Mittlerer technischer Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz | Bundesministerium der Verteidigung |
+| 9 |  | Mittlerer technischer Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik | Bundesministerium der Verteidigung |
+| 10 |  | Mittlerer technischer Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung | Bundesministerium der Verteidigung |
+| 11 |  | Mittlerer technischer Dienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | Bundesministerium für Verkehr |
+| 12 | Mittlerer naturwissenschaftlicher Dienst |  |  |
+| 13 |  | Mittlerer Wetterdienst des Bundes | Bundesministerium für Verkehr |
+| 14 | Gehobener nichttechnischer Verwaltungsdienst |  |  |
+| 15 |  | Gehobener Dienst im Bundesnachrichtendienst und gehobener Dienst im Verfassungsschutz des Bundes | Bundeskanzleramt undBundesministerium des Innern |
+| 16 |  | Gehobener nichttechnischer Dienst des Bundes in der Sozialversicherung | Vorstand der Deutschen Rentenversicherung Bund im Einvernehmen mit dem Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See |
+| 17 |  | Gehobener nichttechnischer Dienst des Bundes in der Landwirtschaftlichen Sozialversicherung | Vorstand der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau |
+| 18 |  | Gehobener nichttechnischer Dienst in der Sozialversicherung bei der Berufsgenossenschaft Verkehr | Vorstand der Berufsgenossenschaft Verkehr |
+| 19 |  | Gehobener nichttechnischer Zolldienst des Bundes | Bundesministerium der Finanzen |
+| 20 |  | Gehobener Steuerdienst des Bundes | Bundesministerium der Finanzen |
+| 21 |  | Gehobener Archivdienst des Bundes | Der Beauftragte der Bundesregierung für Kultur und Medien |
+| 22 |  | Gehobener Verwaltungsinformatikdienst des Bundes | Bundesministerium der Finanzen |
+| 23 |  | Gehobener nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes | Bundesministerium des Innern |
+| 24 |  | Gehobener nichttechnischer Verwaltungsdienst des Bundes– Fachrichtung digitale Verwaltung und Cyber-Sicherheit – | Bundesministerium des Innern |
+| 25 |  | Gehobener nichttechnischer Verwaltungsdienst in der Bundeswehrverwaltung | Bundesministerium der Verteidigung |
+| 26 | Gehobener technischer Verwaltungsdienst |  |  |
+| 27 |  | Gehobener bautechnischer Verwaltungsdienst des Bundes | Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen |
+| 28 |  | Gehobener technischer Dienst – Fachrichtung Bahnwesen – | Bundesministerium für Verkehr |
+| 29 |  | Gehobener technischer Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | Bundesministerium für Verkehr |
+| 30 |  | Gehobener technischer Verwaltungsdienst in der Straßenbauverwaltung des Bundes | Bundesministerium für Verkehr |
+| 31 |  | Gehobener technischer Verwaltungsdienst im Informationstechnikzentrum Bund | Bundesministerium der Finanzen |
+| 32 |  | Gehobener technischer Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik | Bundesministerium der Verteidigung |
+| 33 |  | Gehobener technischer Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz | Bundesministerium der Verteidigung |
+| 34 |  | Gehobener technischer Dienst bei der Unfallversicherung Bund und Bahn | Vorstand der Unfallversicherung Bund und Bahn |
+| 35 |  | Gehobener technischer Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung | Bundesministerium der Verteidigung |
+| 36 | Gehobener naturwissenschaftlicher Dienst |  |  |
+| 37 |  | Gehobener Wetterdienst des Bundes | Bundesministerium für Verkehr |
+| 38 | Höherer nichttechnischer Verwaltungsdienst |  |  |
+| 39 |  | Höherer Archivdienst des Bundes | Der Beauftragte der Bundesregierung für Kultur und Medien |
+| 40 |  | Höherer Dienst an wissenschaftlichen Bibliotheken des Bundes | Bundesministerium des Innern |
+| 41 | Höherer technischer Verwaltungsdienst |  |  |
+| 42 |  | Höherer technischer Verwaltungsdienst des Bundes, Fachrichtungen Bauingenieurwesen, Bahnwesen, Maschinen- und Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik der Wasserstraßen, Luftfahrttechnik, Straßenwesen | Bundesministerium für Verkehr |
+| 43 |  | Höherer technischer Verwaltungsdienst des Bundes, Fachrichtungen Hochbau, Maschinen- und Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik in der Verwaltung | Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen |
+| 44 |  | Höherer technischer Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik | Bundesministerium der Verteidigung |
+| 45 |  | Höherer technischer Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz | Bundesministerium der Verteidigung |
+| 46 |  | Höherer technischer Dienst bei der Unfallversicherung Bund und Bahn | Vorstand der Unfallversicherung Bund und Bahn |

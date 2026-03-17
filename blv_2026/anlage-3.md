@@ -1,0 +1,13 @@
+# Anlage 3 (zu § 10 Absatz 2 Satz 2)Prüfungsnoten
+
+In den Rechtsverordnungen nach § 10 Absatz 1 sind folgende Prüfungsnoten vorzusehen:
+| Nr. | Note | Notendefinition |
+|  | 1 | 2 |
+| 1 | sehr gut (1) | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 2 | gut (2) | eine Leistung, die den Anforderungen voll entspricht |
+| 3 | befriedigend (3) | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 4 | ausreichend (4) | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 5 | mangelhaft (5) | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 6 | ungenügend (6) | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+Zur Bildung der Prüfungsnoten können die Einzelleistungen und die Gesamtleistung der Prüfung nach einem System von Punktzahlen bewertet werden.
+Bei Vorbereitungsdiensten, die mit einem Bachelor abschließen, sind neben der Note zusätzlich die Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen auszuweisen.

@@ -1,0 +1,147 @@
+# Anlage 4 (zu § 60 Absatz 1)Übergeleitete Laufbahnen
+
+Tabelle 1
+Entsprechungstabelle zu den Laufbahnen nach Anlage 1 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist:
+| Nr. | Laufbahn nach der BLV 2002 | Entsprechende Laufbahn |
+|  | 1 | 2 |
+| 1 | Ärztlicher Dienst | Höherer ärztlicher und gesundheitswissenschaftlicher Dienst |
+| 2 | Archäologischer Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 3 | Bibliotheksdienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 4 | Biologischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 5 | Chemischer Dienst einschließlich der Fachrichtungen physikalische Chemie, Bio- und Geochemie | Höherer naturwissenschaftlicher Dienst |
+| 6 | Ethnologischer Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 7 | Forst- und holzwirtschaftlicher Dienst | Bis 26. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 8 | Gartenbaulicher Dienst einschließlich der Fachrichtung Landespflege | Bis 26. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 9 | Geographischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 10 | Geologischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 11 | Geophysikalischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 12 | Gesellschafts- und sozialwissenschaftlicher Dienst | Höherer nichttechnischer Verwaltungsdienst |
+| 13 | Haus- und ernährungswissenschaftlicher Dienst | Bis 26. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 14 | Historischer Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 15 | Informationstechnischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 16 | Kryptologischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 17 | Kunsthistorischer Dienst | Höherer kunstwissenschaftlicher Dienst |
+| 18 | Landwirtschaftlicher Dienst | Bis 26. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 19 | Lebensmittelchemischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 20 | Mathematischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 21 | Medien- und kommunikationswissenschaftlicher Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 22 | Mineralogischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 23 | Musikwissenschaftlicher Dienst | Höherer kunstwissenschaftlicher Dienst |
+| 24 | Orientalischer Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 25 | Ozeanographischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 26 | Pharmazeutischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 27 | Physikalischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 28 | Raumordnungsdienst | Bei Vorliegen der akademischen Grade Diplom-Betriebswirtin/Diplom-Betriebswirt, Diplom-Kauffrau/Diplom-Kaufmann, Diplom-Soziologin/Diplom-Soziologe oder Diplom-Volkswirtin/Diplom-Volkswirt: höherer nichttechnischer Verwaltungsdienst Bei Vorliegen der akademischen Grade Diplom-Agraringenieurin/ Diplom-Agraringenieur oder Diplom-Ingenieurin/Diplom-Ingenieur: höherer technischer Verwaltungsdienst Bei Vorliegen der akademischen Grade Diplom-Geographin/Diplom-Geograph: höherer naturwissenschaftlicher Dienst Bei Vorliegen der akademischen Grade Diplom-Forstwirtin/Diplom-Forstwirt: Bis 26. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 29 | Romanistischer Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 30 | Slawistischer Dienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 31 | Sprachendienst | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 32 | Statistischer Dienst | Höherer naturwissenschaftlicher Dienst |
+| 33 | Stenographischer Dienst in der Parlamentsverwaltung | Höherer nichttechnischer Verwaltungsdienst |
+| 34 | Technischer Dienst nach Maßgabe des § 37 | Höherer technischer Verwaltungsdienst |
+| 35 | Tierärztlicher Dienst | Bis 26. Januar 2017: Höherer tierärztlicher Dienst Seit 27. Januar 2017: Höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 36 | Wetterdienst | Höherer naturwissenschaftlicher Dienst |
+| 37 | Wirtschaftsverwaltungsdienst | Höherer nichttechnischer Verwaltungsdienst |
+| 38 | Zahnärztlicher Dienst | Höherer ärztlicher und gesundheitswissenschaftlicher Dienst |
+Tabelle 2
+Entsprechungstabelle zu den Laufbahnen nach Anlage 2 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist:
+| Nr. | Laufbahn nach der BLV 2002 | Entsprechende Laufbahn |
+|  | 1 | 2 |
+| 1 | Bibliotheksdienst | Gehobener sprach- und kulturwissenschaftlicher Dienst |
+| 2 | Dienst in der gesetzlichen Krankenversicherung, Krankenkassendienst | Gehobener nichttechnischer Verwaltungsdienst |
+| 3 | Dienst in der gesetzlichen Unfallversicherung | Gehobener nichttechnischer Verwaltungsdienst |
+| 4 | Dienst als Sozialarbeiterinnen und Sozialarbeiter und als Sozialpädagoginnen und Sozialpädagogen | Gehobener nichttechnischer Verwaltungsdienst |
+| 5 | Dokumentationsdienst | Gehobener sprach- und kulturwissenschaftlicher Dienst |
+| 6 | Gartenbaulicher Dienst einschließlich der Fachrichtung Landespflege | Bis 26. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 7 | Informationstechnischer Dienst | Gehobener naturwissenschaftlicher Dienst |
+| 8 | Land- und forstwirtschaftlicher Dienst nach Maßgabe des § 37 | Bis 26. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 9 | Landwirtschaftlich-hauswirtschaftlicher Dienst | Bis 26. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 10 | Nautischer Dienst | Gehobener technischer Verwaltungsdienst |
+| 11 | Raumordnungsdienst | Gehobener technischer Verwaltungsdienst |
+| 12 | Seevermessungstechnischer Dienst | Gehobener technischer Verwaltungsdienst |
+| 13 | Schiffsmaschinendienst | Gehobener technischer Verwaltungsdienst |
+| 14 | Technischer Dienst nach Maßgabe des § 37 | Gehobener technischer Verwaltungsdienst |
+| 15 | Weinbaulicher Dienst | Bis 26. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 16 | Wirtschaftsverwaltungsdienst | Gehobener nichttechnischer Verwaltungsdienst |
+Tabelle 3
+Entsprechungstabelle zu den Laufbahnen nach Anlage 3 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist:
+| Nr. | Laufbahn nach der BLV 2002 | Entsprechende Laufbahn |
+|  | 1 | 2 |
+| 1 | Technischer Dienst nach Maßgabe des § 35 Absatz 2 Satz 2 und 4 und des § 37 bei Abschluss der Berufsausbildung als: –Technische Assistentinnen und Assistenten mit staatlicher Anerkennung–staatlich geprüfte Chemotechnikerinnen und Chemotechniker–Handwerksmeisterinnen, Handwerksmeister, Industriemeisterinnen und Industriemeister in ihrem jeweiligen Beruf–Kartographinnen und Kartographen–Laborantinnen und Laboranten–Landkartentechnikerinnen und Landkartentechniker–Operateurinnen und Operateure in Kernforschungseinrichtungen–staatlich geprüfte Technikerinnen und Techniker–Technikerinnen und Techniker mit staatlicher Anerkennung–Strahlenschutztechnikerinnen und Strahlenschutztechniker in Kernforschungseinrichtungen–Vermessungstechnikerinnen und Vermessungstechniker–Werkstoffprüferinnen und Werkstoffprüfer–Zeichnerinnen und Zeichner | Mittlerer technischer Verwaltungsdienst |
+| 2 | Archivdienst bei Abschluss der Berufsausbildung als Fachangestellte für Medien- und Informationsdienste– Fachrichtung Archiv – | Mittlerer nichttechnischer Verwaltungsdienst |
+| 3 | Bibliotheksdienst bei Abschluss der Berufsausbildung als: –Bibliotheksassistentinnen und Bibliotheksassistenten,–Fachangestellte für Medien- und Informationsdienste – Fachrichtung Bibliothek, Information und Dokumentation, Bildagentur – | Mittlerer sprach- und kulturwissenschaftlicher Dienst |
+| 4 | Nautischer Dienst | Mittlerer technischer Verwaltungsdienst |
+Tabelle 4
+Entsprechungstabelle zu den Laufbahnen nach Anlage 5 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist:
+| Nr. | Laufbahn nach der BLV 2002 | Entsprechende Laufbahn |
+|  | 1 | 2 |
+| 1 | Einfacher Zolldienst des Bundes | Einfacher nichttechnischer Verwaltungsdienst |
+| 2 | Einfacher nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes | Einfacher nichttechnischer Verwaltungsdienst |
+| 3 | Amtsgehilfendienst in der Bundeswehrverwaltung | Einfacher nichttechnischer Verwaltungsdienst |
+| 4 | Einfacher Lagerverwaltungsdienst in der Bundeswehrverwaltung | Einfacher nichttechnischer Verwaltungsdienst |
+| 5 | Einfacher technischer Dienst bei der Museumsstiftung Post und Telekommunikation | Einfacher technischer Verwaltungsdienst |
+| 6 | Einfacher technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost | Einfacher technischer Verwaltungsdienst |
+| 7 | Einfacher technischer Dienst bei der Unfallkasse Post und Telekom | Einfacher technischer Verwaltungsdienst |
+| 8 | Einfacher technischer Dienst bei der Unfallversicherung Bund und Bahn | Einfacher technischer Verwaltungsdienst |
+| 9 | Mittlerer Auswärtiger Dienst | Mittlerer Auswärtiger Dienst |
+| 10 | Mittlerer Dienst im Bundesnachrichtendienst | Mittlerer nichttechnischer Verwaltungsdienst |
+| 11 | Mittlerer nichttechnischer Dienst des Bundes in der Sozialversicherung | Mittlerer nichttechnischer Verwaltungsdienst |
+| 12 | Mittlerer Forstdienst in der Bundesverwaltung | Bis 26. Januar 2017: Mittlerer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: Mittlerer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 13 | Mittlerer nautischer und maschinentechnischer Zolldienst des Bundes | Mittlerer technischer Verwaltungsdienst |
+| 14 | Mittlerer Zolldienst des Bundes | Mittlerer nichttechnischer Verwaltungsdienst |
+| 15 | Mittlerer Steuerdienst des Bundes | Mittlerer nichttechnischer Verwaltungsdienst |
+| 16 | Mittlerer Dienst an wissenschaftlichen Bibliotheken des Bundes | Mittlerer sprach- und kulturwissenschaftlicher Dienst |
+| 17 | Mittlerer Dienst im Verfassungsschutz des Bundes | Mittlerer nichttechnischer Verwaltungsdienst |
+| 18 | Mittlerer nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes | Mittlerer nichttechnischer Verwaltungsdienst |
+| 19 | Mittlerer nichttechnischer Dienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | Mittlerer nichttechnischer Verwaltungsdienst |
+| 20 | Mittlerer technischer Dienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | Mittlerer technischer Verwaltungsdienst |
+| 21 | Mittlerer Wetterdienst des Bundes | Mittlerer naturwissenschaftlicher Dienst |
+| 22 | Mittlerer Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes | Mittlerer nichttechnischer Verwaltungsdienst |
+| 23 | Mittlerer feuerwehrtechnischer Dienst in der Bundeswehr | Mittlerer technischer Verwaltungsdienst |
+| 24 | Mittlerer nichttechnischer Verwaltungsdienst in der Bundeswehrverwaltung | Mittlerer nichttechnischer Verwaltungsdienst |
+| 25 | Mittlerer technischer Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – | Mittlerer technischer Verwaltungsdienst |
+| 26 | Mittlerer technischer Dienst bei der Museumsstiftung Post und Telekommunikation | Mittlerer technischer Verwaltungsdienst |
+| 27 | Mittlerer technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost | Mittlerer technischer Verwaltungsdienst |
+| 28 | Mittlerer technischer Dienst bei der Unfallkasse Post und Telekom | Mittlerer technischer Verwaltungsdienst |
+| 29 | Mittlerer technischer Dienst bei der Unfallversicherung Bund und Bahn | Mittlerer technischer Verwaltungsdienst |
+| 30 | Gehobener Auswärtiger Dienst | Gehobener Auswärtiger Dienst |
+| 31 | Gehobener nichttechnischer Dienst in der Bundesagentur für Arbeit | Gehobener nichttechnischer Verwaltungsdienst |
+| 32 | Gehobener Dienst im Bundesnachrichtendienst | Gehobener nichttechnischer Verwaltungsdienst |
+| 33 | Gehobener nichttechnischer Dienst des Bundes in der Sozialversicherung | Gehobener nichttechnischer Verwaltungsdienst |
+| 34 | Gehobener Forstdienst des Bundes | Bis 26. Januar 2017: Gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: Gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 35 | Gehobener nichttechnischer Dienst der Bundesvermögensverwaltung | Gehobener nichttechnischer Verwaltungsdienst |
+| 36 | Gehobener nichttechnischer Zolldienst des Bundes | Gehobener nichttechnischer Verwaltungsdienst |
+| 37 | Gehobener Steuerdienst des Bundes | Gehobener nichttechnischer Verwaltungsdienst |
+| 38 | Gehobener Archivdienst des Bundes | Gehobener nichttechnischer Verwaltungsdienst |
+| 39 | Gehobener Dienst im Verfassungsschutz des Bundes | Gehobener nichttechnischer Verwaltungsdienst |
+| 40 | Gehobener nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes | Gehobener nichttechnischer Verwaltungsdienst |
+| 41 | Gehobener Schuldienst in der Bundespolizei | Gehobener sprach- und kulturwissenschaftlicher Dienst |
+| 42 | Gehobener bautechnischer Verwaltungsdienst des Bundes | Gehobener technischer Verwaltungsdienst |
+| 43 | Gehobener technischer Dienst– Fachrichtung Bahnwesen – | Gehobener technischer Verwaltungsdienst |
+| 44 | Gehobener technischer Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | Gehobener technischer Verwaltungsdienst |
+| 45 | Gehobener Wetterdienst des Bundes | Gehobener naturwissenschaftlicher Dienst |
+| 46 | Gehobener feuerwehrtechnischer Dienst in der Bundeswehr | Gehobener technischer Verwaltungsdienst |
+| 47 | Gehobener Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes | Gehobener nichttechnischer Verwaltungsdienst |
+| 48 | Gehobener Fachschuldienst an Bundeswehrfachschulen | Gehobener sprach- und kulturwissenschaftlicher Dienst |
+| 49 | Gehobener nichttechnischer Verwaltungsdienst in der Bundeswehrverwaltung | Gehobener nichttechnischer Verwaltungsdienst |
+| 50 | Gehobener technischer Dienst in der Bundeswehrverwaltung– Fachrichtung Wehrtechnik – | Gehobener technischer Verwaltungsdienst |
+| 51 | Gehobener technischer Dienst bei der Museumsstiftung Post und Telekommunikation | Gehobener technischer Verwaltungsdienst |
+| 52 | Gehobener technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost | Gehobener technischer Verwaltungsdienst |
+| 53 | Gehobener technischer Dienst bei der Unfallkasse Post und Telekom | Gehobener technischer Verwaltungsdienst |
+| 54 | Gehobener technischer Dienst bei der Unfallversicherung Bund und Bahn | Gehobener technischer Verwaltungsdienst |
+| 55 | Höherer Auswärtiger Dienst | Höherer Auswärtiger Dienst |
+| 56 | Höherer nichttechnischer Dienst in der Bundesagentur für Arbeit | Höherer nichttechnischer Verwaltungsdienst |
+| 57 | Höherer Dienst im Bundesnachrichtendienst | Höherer nichttechnischer Verwaltungsdienst |
+| 58 | Höherer Forstdienst des Bundes | Bis 26. Januar 2017: Höherer agrar-, forst- und ernährungswissenschaftlicher Dienst Seit 27. Januar 2017: Höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst |
+| 59 | Höherer Zolldienst des Bundes | Höherer nichttechnischer Verwaltungsdienst |
+| 60 | Höherer allgemeiner Verwaltungsdienst des Bundes | Höherer nichttechnischer Verwaltungsdienst |
+| 61 | Höherer Archivdienst des Bundes | Höherer nichttechnischer Verwaltungsdienst |
+| 62 | Höherer Dienst an wissenschaftlichen Bibliotheken des Bundes | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 63 | Höherer Dienst im Verfassungsschutz des Bundes | Höherer nichttechnischer Verwaltungsdienst |
+| 64 | Höherer Schuldienst in der Bundespolizei | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 65 | Höherer technischer Verwaltungsdienst des Bundes | Höherer technischer Verwaltungsdienst |
+| 66 | Höherer Fachschuldienst an Bundeswehrfachschulen | Höherer sprach- und kulturwissenschaftlicher Dienst |
+| 67 | Höherer technischer Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – | Höherer technischer Verwaltungsdienst |
+| 68 | Höherer technischer Dienst bei der Museumsstiftung Post und Telekommunikation | Höherer technischer Verwaltungsdienst |
+| 69 | Höherer technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost | Höherer technischer Verwaltungsdienst |
+| 70 | Höherer technischer Dienst bei der Unfallkasse Post und Telekom | Höherer technischer Verwaltungsdienst |
+| 71 | Höherer technischer Dienst bei der Unfallversicherung Bund und Bahn | Höherer technischer Verwaltungsdienst |

@@ -1,0 +1,26 @@
+# Anlage 1 (zu § 9 Absatz 1)Zu den Laufbahnen gehörende Ämter; Amtsbezeichnungen
+
+| Nr. | Laufbahngruppe | Zu den Laufbahnender Laufbahngruppe gehörende Ämter | Amtsbezeichnungen |
+|  | 1 | 2 | 3 |
+| 1 | Einfacher Dienst |  |  |
+| 2 |  | Besoldungsgruppe A 3 | Hauptamtsgehilfin/Hauptamtsgehilfe; Oberaufseherin/Oberaufseher; Oberwachtmeisterin/Oberwachtmeister |
+| 3 |  | Besoldungsgruppe A 4 | Amtsmeisterin/Amtsmeister; Hauptaufseherin/Hauptaufseher; Hauptwachtmeisterin/Hauptwachtmeister |
+| 4 |  | Besoldungsgruppe A 5 | Betriebsassistentin/Betriebsassistent; Erste Hauptwachtmeisterin/Erster Hauptwachtmeister; Oberamtsmeisterin/Oberamtsmeister |
+| 5 |  | Besoldungsgruppe A 6 | Betriebsassistentin/Betriebsassistent; Erste Hauptwachtmeisterin/Erster Hauptwachtmeister; Oberamtsmeisterin/Oberamtsmeister |
+| 6 | Mittlerer Dienst |  |  |
+| 7 |  | Besoldungsgruppe A 6 | Sekretärin/Sekretär |
+| 8 |  | Besoldungsgruppe A 7 | Brandmeisterin/Brandmeister; Obersekretärin/Obersekretär |
+| 9 |  | Besoldungsgruppe A 8 | Hauptsekretärin/Hauptsekretär; Oberbrandmeisterin/Oberbrandmeister |
+| 10 |  | Besoldungsgruppe A 9 | Amtsinspektorin/Amtsinspektor; Hauptbrandmeisterin/Hauptbrandmeister |
+| 11 | Gehobener Dienst |  |  |
+| 12 |  | Besoldungsgruppe A 9 | Inspektorin/Inspektor; Kapitänin/Kapitän |
+| 13 |  | Besoldungsgruppe A 10 | Oberinspektorin/Oberinspektor; Seekapitänin/Seekapitän |
+| 14 |  | Besoldungsgruppe A 11 | Amtfrau/Amtmann; Seeoberkapitänin/Seeoberkapitän |
+| 15 |  | Besoldungsgruppe A 12 | Amtsrätin/Amtsrat; Rechnungsrätin/Rechnungsrat; Seehauptkapitänin/Seehauptkapitän |
+| 16 |  | Besoldungsgruppe A 13 | Fachschuloberlehrerin/Fachschuloberlehrer; Oberamtsrätin/Oberamtsrat; Oberrechnungsrätin/Oberrechnungsrat; Seehauptkapitänin/Seehauptkapitän |
+| 17 | Höherer Dienst |  |  |
+| 18 |  | Besoldungsgruppe A 13 | Akademische Rätin/Akademischer Rat; Fachschuloberlehrerin/Fachschuloberlehrer; Kustodin/Kustos; Militärrabbinerin/Militärrabbiner; Pfarrerin/Pfarrer; Rätin/Rat; Studienrätin/Studienrat |
+| 19 |  | Besoldungsgruppe A 14 | Akademische Oberrätin/Akademischer Oberrat; Fachschuloberlehrerin/Fachschuloberlehrer; Militärrabbinerin/Militärrabbiner; Oberkustodin/Oberkustos; Oberrätin/Oberrat; Oberstudienrätin/Oberstudienrat; Pfarrerin/Pfarrer; Regierungsschulrätin/Regierungsschulrat |
+| 20 |  | Besoldungsgruppe A 15 | Akademische Direktorin/Akademischer Direktor; Dekanin/Dekan; Direktorin/Direktor; Direktorin/Direktor einer Fachschule; Koordinierende Militärrabbinerin/Koordinierender Militärrabbiner; Museumsdirektorin und Professorin/ Museumsdirektor und Professor; Regierungsschuldirektorin/Regierungsschuldirektor; Studiendirektorin/Studiendirektor |
+| 21 |  | Besoldungsgruppe A 16 | Abteilungsdirektorin/Abteilungsdirektor; Abteilungspräsidentin/Abteilungspräsident; Leitende Dekanin/Leitender Dekan; Direktorin/Direktor; Leitende Akademische Direktorin/ Leitender Akademischer Direktor; Leitende Direktorin/Leitender Direktor; Leitende Militärrabbinerin/Leitender Militärrabbiner; Leitende Regierungsschuldirektorin/ Leitender Regierungsschuldirektor; Ministerialrätin/Ministerialrat; Museumsdirektorin und Professorin/ Museumsdirektor und Professor; Oberstudiendirektorin/Oberstudiendirektor |
+| 22 |  | Ämter der Besoldungsordnung B | Amtsbezeichnungen der Ämter der Bundesbesoldungsordnung B |
