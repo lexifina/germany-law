@@ -1,0 +1,7 @@
+# TOP 7.1.4: SPD: Preisverleihungen im Rhein-Kreis Neuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Finanzausschusses (2026-03-17)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/45979
+- Ergebnis: mehrheitlich abgelehnt
