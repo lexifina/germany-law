@@ -1,0 +1,8 @@
+# TOP 3: Bestellung der Schriftführung und der stellvertretenden Schriftführung für den Rechnungsprüfungsausschuss
+
+- Sitzung: 1. Sitzung (2026-03-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/282946
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/90353
