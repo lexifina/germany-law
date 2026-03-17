@@ -1,0 +1,72 @@
+# 3. Sitzung des Ausschusses für Stadtentwicklung und regionale Zusammenarbeit
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-17T17:42:00+01:00
+- Ende: 2026-03-17T19:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/200
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34185
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34185
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Präsentation betreffend "Region Köln/Bonn: aktuelle Entwicklungen und Perspektiven der Kooperation" - Kenntnis genommen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Kosten und Verfahren zur Umbenennung von Straßen, Plätzen und Parks in der aktuellen Wahlperiode 2020 - 2025 - Kenntnis genommen
+- TOP 2.1.1: Weitere Fragen an die Verwaltung zu Kosten und Verfahren zur Umbenennung von Straßen, Plätzen und Parks in der Wahlperiode 2020 - 2025 - Kenntnis genommen
+- TOP 2.2: Betreff: Sachstand Bauvorhaben ehemalige Baumwollbleicherei in Köln-Mülheim sowie weitere brach liegende Bauprojekte - vertagt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für den Neubau eines Südlichen Zuführungsgleises zur Abstellanlage der DB in Köln-Nippes - vertagt
+- TOP 5.2: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Luxemburger Straße und Zülpicher Straße - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ohne Votum behandelt
+- TOP 6.2: Integriertes Stadtentwicklungskonzept Porz-Mitte - vertagt
+- TOP 6.3: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - vertagt
+- TOP 6.4: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - vertagt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Bebauungsplan "Leipziger Platz" in Köln-Nippes - vertagt
+- TOP 10.2: Bebauungsplan "Vorgärten Afrikaviertel" in Köln-Nippes - vertagt
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung eines städtebaulichen Qualifizierungsverfahrens - geändert beschlossen
+- TOP 10.4: Kleingärten östlich Maarweg in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Helenenwallstraße in Köln-Deutz - vertagt
+- TOP 10.6: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Kleine Spitzengasse in Köln Altstadt-Süd - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren mit dem Arbeitstitel "Moorslede" in Köln-Dellbrück - ungeändert beschlossen
+- TOP 11.2: Beschluss über die Aufhebung des Aufstellungsbeschlusses zu dem Bebauungsplanverfahren Arbeitstitel: Subbelrather Straße 385 (Hinterland) und 387 bis 407 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 11.3: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: "Bebauungsplan (Entwurf) Nr. 68439/04 "Deutzer Hafen - Teilplan A" in Köln-Deutz - Kenntnis genommen
+- TOP 17.2: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 200. Änderung des Flächennutzungsplanes (FNP); Arbeitstitel: "Südliche Schmiedegasse" in Köln-Weidenpesch - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Sofortmaßnahmen gegen die Wohnungsnot von Studierenden - Zwischennutzung städtischer Flächen für Wohnraum und sofortiger Ausbau alternativer Wohnformen - Kenntnis genommen
+- TOP 18.2: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2025 - Kenntnis genommen
+- TOP 18.3: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung": Umgestaltung der Pipinstraße und Herstellung einer Freitreppe an St. Maria im Kapitol - Kenntnis genommen
+- TOP 18.4: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 18.5: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - Kenntnis genommen
+- TOP 18.6: Bericht zur Abwicklung des Großmarktbetriebes - Kenntnis genommen
+- TOP 18.7: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 18.8: Öffentliche Niederschrift zur 20. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 03.02.2026 - Kenntnis genommen
+- TOP 18.9: Deutzer Hafen, hier: Stellungnahme zum StEA-Beschluss vom 26.06.2025 zum InfoPoint (AN/0769/2025) - Kenntnis genommen
+- TOP 18.10: Soziale Erhaltungssatzungen in Köln: Sachstandsbericht zur Umsetzungspraxis für den Berichtszeitraum 01.01.2025 bis 31.12.2025 - Kenntnis genommen
+- TOP 18.11: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren" - Kenntnis genommen
+- TOP 18.12: Neues Quartier Bickendorf: Betr. Aufgabenstellung zum Qualifizierungsverfahren - Kenntnis genommen
+- TOP 18.13: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Mitteilung zum Sachstand der Technischen Masterplanung und zum weiteren Vorgehen in Bezug auf die Bewerbung um die Olympischen und Paralympischen Spiele - Kenntnis genommen
+- TOP 18.14: Planfeststellungsbeschluss für das Vorhaben DUSS-Terminal Köln-Eifeltor - Kapazitätserweiterung für Sattelauflieger und Trailer - Kenntnis genommen
+- TOP 18.15: Kölner Statistische Nachrichten 2/2026 Kraftfahrzeuge in Köln am 31.12.2025 - Kenntnis genommen
+- TOP 18.16: Sachstandsbericht Räumliches Entwicklungskonzept LiebigQuartier - Kenntnis genommen
+- TOP 18.17: Jahresbericht 2025 zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
