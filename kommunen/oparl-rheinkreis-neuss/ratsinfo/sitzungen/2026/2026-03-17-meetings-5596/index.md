@@ -1,0 +1,96 @@
+# öffentliche/nicht öffentliche Sitzung des Finanzausschusses
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2026-03-17T15:19:00+01:00
+- Ende: 2026-03-17T16:15:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/5596
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/5596
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit - Feststellung Beschlussfähigkeit
+- TOP 2: Verpflichtung von sachkundigen Bürgerinnen und Bürgern
+- TOP 3: Bestellung einer Schriftführerin und eines stellvertretenden Schriftführers - einstimmig beschlossen
+- TOP 4: Beschlusskontrolle der Finanzausschüsse seit 2023 - zur Kenntnis genommen
+- TOP 5: Über-/ und außerplanmäßige Aufwendungen/Auszahlungen gemäß § 53 KrO NRW i. V. m. § 83 GO NRW - zur Kenntnis genommen
+- TOP 6: Ermächtigungsübertragungen von 2025 nach 2026 im Rahmen des Jahresabschlusses 2025 gemäß § 22 KomHVO NRW - zur Kenntnis genommen
+- TOP 7: Kreishaushalt 2026: Beratung über den Entwurf
+- TOP 7.1: Anträge der Fraktionen
+- TOP 7.1.1: Die Linke/Die PARTEI: Einstellung des Jugendkreistages - mehrheitlich beschlossen
+- TOP 7.1.1.1: Tischvorlage: Die Linke/Die PARTEI: Einstellung des Jugendkreistages
+- TOP 7.1.2: Bündnis 90/Die Grünen: Einführung von Hybrid-Ausschusssitzungen - einstimmig beschlossen
+- TOP 7.1.3: SPD: Finanzierung der Partnerschaft mit dem Kreis Mikolów - einstimmig beschlossen
+- TOP 7.1.4: SPD: Preisverleihungen im Rhein-Kreis Neuss - mehrheitlich abgelehnt
+- TOP 7.1.5: SPD: Veranstaltungen des Rhein-Kreises Neuss - einstimmig beschlossen
+- TOP 7.1.6: CDU & FDP: Bevölkerungsschutz Portal - mehrheitlich beschlossen
+- TOP 7.1.7: CDU & FDP: Begrenzung externer Gutachten und Beratungsleistungen - einstimmig beschlossen
+- TOP 7.1.8: CDU & FDP: Befristetes Stellenmoratorium - mehrheitlich beschlossen
+- TOP 7.1.9: SPD: Schaffung einer Stabsstelle „Fördermittelmanagement“ - einstimmig beschlossen
+- TOP 7.1.10: UWG/FW-Zentrum: Bilanz der Fördermittelakquise - einstimmig beschlossen
+- TOP 7.1.11: SPD: „Kostenwahrheit“ bei öffentlich geförderten Projekten im Rhein-Kreis Neuss herstellen - einstimmig beschlossen
+- TOP 7.1.12: SPD: Fort- und Weiterbildungen der Kreisverwaltung - Demokratie & Verwaltung - mehrheitlich beschlossen
+- TOP 7.1.13: SPD: Urban Sports Club - einstimmig beschlossen
+- TOP 7.1.14: Bündnis 90/Die Grünen: Wasser sparen – Ressourcen schonen und Haushalt entlasten - mehrheitlich beschlossen
+- TOP 7.1.14.1: Tischvorlage: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen zum FA am 17.03.2026 zum Thema „Wasser sparen – Ressourcen schonen und Haushalt entlasten“
+- TOP 7.1.15: SPD: Stärkung der IT-Sicherheit in der Kreisverwaltung - mehrheitlich beschlossen
+- TOP 7.1.16: UWG/FW-Zentrum: Unterstützung der Tierheime im Rhein-Kreis Neuss - mehrheitlich abgelehnt
+- TOP 7.1.17: UWG/FW-Zentrum: Bereitstellung von Mitteln zur erforderlichen weiteren Katzenkastration im Kreisgebiet - mehrheitlich beschlossen
+- TOP 7.1.18: CDU & FDP: Rettungswesen – Jugendfeuerwehr - einstimmig beschlossen
+- TOP 7.1.19: SPD: Erhöhung des Zuschusses der Jugendorganisation der Feuerwehren im Rhein-Kreis Neuss
+- TOP 7.1.20: CDU & FDP: Rettungswesen – Nachwuchsförderung Hilfsorganisationen - einstimmig beschlossen
+- TOP 7.1.21: CDU & FDP: Rettungswesen – Kreisweite Übung - einstimmig beschlossen
+- TOP 7.1.22: Die Linke/Die PARTEI: Förderung für christliche Schulen - zurückgestellt
+- TOP 7.1.23: Bündnis 90/Die Grünen: Bereitstellung von Mitteln für Schulsozialarbeit an der Förderschule "Schule am Nordpark" - mehrheitlich beschlossen
+- TOP 7.1.24: SPD: Leitung des Kulturzentrums im Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 7.1.25: UWG/FW-Zentrum: Bezahlbare Pflegeheimplätze - mehrheitlich abgelehnt
+- TOP 7.1.26: CDU & FDP: Erstellung eines Sozialplans - mehrheitlich beschlossen
+- TOP 7.1.27: SPD: Erstellung einer Sozialplanung für den Rhein-Kreis Neuss
+- TOP 7.1.28: Bündnis 90/Die Grünen: Verstetigung der Förderung für das Heldennetzwerk des Vereins Interkulturelle Projekthelden e.V. - mehrheitlich beschlossen
+- TOP 7.1.29: Die Linke/Die PARTEI: Prüfauftrag „Konzept kostenfreie Periodenprodukte im Rhein-Kreis Neuss“ - mehrheitlich abgelehnt
+- TOP 7.1.30: CDU & FDP: Expertenveranstaltung Drogenprävention - einstimmig beschlossen
+- TOP 7.1.31: UWG/FW-Zentrum: Erhalt der Eissporthalle Neuss - mehrheitlich abgelehnt
+- TOP 7.1.32: SPD: Sportförderung im Rhein-Kreis Neuss - mehrheitlich abgelehnt
+- TOP 7.1.33: SPD: Fortschreibung der Wohnungsbedarfsanalyse des Rhein-Kreises Neuss - einstimmig beschlossen
+- TOP 7.1.34: SPD: Neuausrichtung des Nachhaltigkeitsmanagements im Rhein-Kreis Neuss - zurückgestellt
+- TOP 7.1.35: Die Linke/Die PARTEI: Prüfauftrag „Kostenfreier ÖPNV im Rhein-Kreis Neuss“ - zurückgestellt
+- TOP 7.1.35.1: Tischvorlage: Die Linke/Die PARTEI: Prüfauftrag "Kostenfreier ÖPNV im Rhein-Kreis Neuss"
+- TOP 7.1.36: Bündnis 90/Die Grünen: Umsetzung des Biotopverbundkonzepts für das Rheinische Revier auf den Flächen im Rhein-Kreis Neuss - zurückgestellt
+- TOP 7.1.37: CDU & FDP: Sammelantrag Einsparungen - mehrheitlich beschlossen
+- TOP 7.1.37.1: Bettenbeschaffung (Katastrophenschutz) - mehrheitlich beschlossen
+- TOP 7.1.37.2: Gruppenprophylaxe: Zahnärztlicher Dienst - mehrheitlich beschlossen
+- TOP 7.1.37.3: Projekt Doppelt Gesund - zurückgestellt
+- TOP 7.1.37.4: Freizeitmaßnahmen für Behinderte - zurückgestellt
+- TOP 7.1.37.5: Zuschuss Frauenhäuser - mehrheitlich beschlossen
+- TOP 7.1.37.6: EGH – Angemessene Schulausbildung - zurückgestellt
+- TOP 7.1.37.7: Aufwand Inklusion - zurückgestellt
+- TOP 7.1.37.8: Förderung ambulanter Pflegeeinrichtungen - zurückgestellt
+- TOP 7.1.37.9: Soziales Handlungskonzept - mehrheitlich beschlossen
+- TOP 7.1.37.10: Einzelhandelskonzept (Stadträume) - mehrheitlich beschlossen
+- TOP 7.1.37.11: Klimabäume - mehrheitlich beschlossen
+- TOP 7.1.37.12: Umsetzung Förderprogramme für die Wirtschaft - mehrheitlich beschlossen
+- TOP 7.1.37.13: Leasing Gebühren (Endgeräte Schulen) - mehrheitlich beschlossen
+- TOP 7.1.37.14: Verein für Sport und Bildung (Sponsoring) - mehrheitlich beschlossen
+- TOP 7.1.37.15: Olympiastützpunkt - mehrheitlich beschlossen
+- TOP 7.1.38: CDU & FDP: RWE-Aktien - zurückgestellt
+- TOP 7.1.39: UWG/FW-Zentrum: Bilanzierungshilfe NKF-CUIG - zurückgestellt
+- TOP 7.1.40: UWG/FW-Zentrum: Kreisumlagehebesatz - zurückgestellt
+- TOP 7.1.41: SPD: Umsetzung eines globalen Minderaufwands - mehrheitlich beschlossen
+- TOP 7.1.42: Antrag zur Förderung der Teilnahme an den SO-Nationalen Spielen 2026 - mehrheitlich beschlossen
+- TOP 7.1.43: AFD: Warengruppen- und Vetragsmanagement - mehrheitlich abgelehnt
+- TOP 7.1.44: AFD: Einführung eines kreisweiten Energiemanagementsystems - mehrheitlich abgelehnt
+- TOP 7.1.44.1: Tischvorlage: Antrag der AfD Fraktion „Energiemanagementsystem“ vom 10.03.2026
+- TOP 7.1.45: AFD: Software und Lizenzkostensteuerung - mehrheitlich abgelehnt
+- TOP 7.1.45.1: Tischvorlage: Antrag der AfD Fraktion „Software und Lizenzkostensteuerung“ vom 10.03.2026
+- TOP 7.1.46: AFD: Sozialtransfersteuerung und verwandte Leistungen - mehrheitlich abgelehnt
+- TOP 7.1.47: AFD: Zuwendungs- und Subventionsreview im Kreis - mehrheitlich abgelehnt
+- TOP 7.2: Wunschlistenanträge - einstimmig abgelehnt
+- TOP 7.2.1: Wunschlistenantrag „Frauen helfen Frauen e.V.“ - Gewährung eines Zuschusses zu den Betriebskosten der Beratungsstelle für Frauen im Rhein-Kreis Neuss sowie für die Fortführung der Präventionsarbeit gegen sexualisierte Gewalt im RKN - einstimmig abgelehnt
+- TOP 7.2.2: Wunschlistenantrag „Frauen beraten/donum vitae e.V. Rhein-Kreis Neuss“ - Gewährung eines Zuschusses zu den ungedeckten Personalkosten der Schwangerschaftskonfliktberatung - einstimmig abgelehnt
+- TOP 7.2.3: Wunschlistenantrag des SKM Neuss e.V. - Förderung einer Vollzeitstelle plus Sachkostenpauschale für eine "Anlaufstelle für von Gewalt betroffene Männer und Männer in Krisen im Rhein-Kreis Neuss" - einstimmig abgelehnt
+- TOP 7.2.4: Wunschlistenantrag zur Finanzierungsanpassung der Schuldnerberatungsstellen - einstimmig abgelehnt
+- TOP 8: Kreishaushalt 2026: Beteiligungsrechte der kreisangehörigen Städte und der Gemeinde - zur Kenntnis genommen
+- TOP 9: Mitteilungen und Anfragen
