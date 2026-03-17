@@ -91,5 +91,8 @@ Aufsicht
 Teil 8
 Bußgeldvorschriften
 | § 65 | Bußgeldvorschriften |
+Teil 9
+Anwendungsbestimmungen; Übergangsregelungen
+| § 66 | Anwendungsbestimmungen und Übergangsregelungen |
 | Anlage 1 | Sektoren besonders wichtiger und wichtiger Einrichtungen |
 | Anlage 2 | Sektoren wichtiger Einrichtungen |

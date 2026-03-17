@@ -12,6 +12,7 @@
 - [§ 9 Sektor Transport und Verkehr](0009.md)
 - [§ 10 Sektor Siedlungsabfallentsorgung](0010.md)
 - [§ 11 Evaluierung](0011.md)
+- [§ 12 Außerkrafttreten](0012.md)
 - [Anhang 1 (zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie](anhang-1.md)
 - [Anhang 2 (zu § 1 Absatz 1 Nummer 2 und 3, § 3 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Wasser](anhang-2.md)
 - [Anhang 3 (zu § 1 Absatz 1 Nummer 2 und 3, § 4 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Ernährung](anhang-3.md)
