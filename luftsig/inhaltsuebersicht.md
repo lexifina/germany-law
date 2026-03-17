@@ -25,6 +25,7 @@
 | § 13 | Entscheidung der Bundesregierung |
 | § 14 | Einsatzmaßnahmen, Anordnungsbefugnis |
 | § 15 | Sonstige Maßnahmen |
+| § 15a | Gefahrenabwehr gegen unbemannte Luftfahrzeuge |
 | Abschnitt 4 |
 |  | Zuständigkeit und Verfahren |
 | § 16 | Zuständigkeiten |

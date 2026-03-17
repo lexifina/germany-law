@@ -61,4 +61,5 @@
 ## Kapitel 3 Schlussbestimmungen
 
 - [§ 31 Besteuerung](0031.md)
+- [§ 31a Übergangsbestimmung](0031a.md)
 - [§ 32 Inkrafttreten](0032.md)

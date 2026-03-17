@@ -19,6 +19,7 @@
 | § 5c | IT-Sicherheit im Anlagen- und Netzbetrieb, Festlegungskompetenz |
 | § 5d | Dokumentations-, Melde-, Registrierungspflicht |
 | § 5e | Umsetzungs-, Überwachungs-, und Schulungspflicht für Geschäftsleitungen |
+| § 5f | Nachweise und behördliche Anordnungen zu Resilienzpflichten nach dem KRITIS-Dachgesetz; Festlegungskompetenz |
 |  |
 | Teil 2 |
 | Entflechtung |
@@ -65,7 +66,7 @@
 | § 12d | Monitoring und Controlling der Umsetzung des Netzentwicklungsplans |
 | § 12e | Bundesbedarfsplan |
 | § 12f | Herausgabe von Daten |
-| § 12g | Schutz europäisch kritischer Anlagen, Verordnungsermächtigung |
+| § 12g | (weggefallen) |
 | § 12h | Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen |
 | § 12i | Systemstabilitätsbericht, Monitoring der Systemstabilität |
 | § 12j | Infrastrukturgebieteplan im Übertragungsnetz |

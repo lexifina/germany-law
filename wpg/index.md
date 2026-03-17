@@ -65,6 +65,7 @@
 
 - [§ 33 Verordnungsermächtigungen](0033.md)
 - [§ 34 Zentrale Veröffentlichung von Wärmeplänen im Internet](0034.md)
+- [§ 34a Übergangsbestimmung](0034a.md)
 - [§ 35 Evaluation](0035.md)
 - [Anlage 1 (zu § 15)Daten und Informationen für die Bestandsanalyse](anlage-1.md)
 - [Anlage 2 (zu § 23)Darstellungen im Wärmeplan](anlage-2.md)

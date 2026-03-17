@@ -1,4 +1,4 @@
-# Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+# Verordnung über den Vorbereitungsdienst für den höheren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -29,7 +29,7 @@
 
 - [§ 9 Gliederung des Vorbereitungsdienstes](0009.md)
 - [§ 10 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“](0010.md)
-- [§ 11 Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes](0011.md)
+- [§ 11 Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des höheren technischen Verwaltungsdienstes](0011.md)
 - [§ 12 Lehrgänge „Bundeswehr und Sicherheitspolitik“, „Wirtschaftlichkeit im Projektmanagement“, „Technisches Projektmanagement“ und „Führungs- und Lenkungsaufgaben“](0012.md)
 - [§ 13 Lehrgang „Systemtechnik“](0013.md)
 - [§ 14 Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“](0014.md)

@@ -31,7 +31,7 @@ Berufspraktische Studienzeit
 | § 23 | Lehrpläne; Durchführung der Lehrgänge |
 | § 24 | Lehrgang „Technische Aufklärung I“ |
 | § 25 | Lehrgänge „Technische Aufklärung II Bundeswehr“ und „Technische Aufklärung II Bundesnachrichtendienst“ |
-| § 26 | Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ |
+| § 26 | Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung“ |
 | § 27 | Lehrgänge „Auswertung Technische Aufklärung Bundeswehr“ und „Auswertung Technische Aufklärung Bundesnachrichtendienst“ |
 | § 28 | Praktische Ausbildung |
 Abschnitt 4

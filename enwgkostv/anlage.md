@@ -86,10 +86,10 @@
 | 21.3 | Bestätigung der Finanzierung für die Errichtung von Windenergieanlagen nach § 17d Absatz 7 Satz 1 EnWG | 3 500 |
 | 21.4 | Festlegung nach § 29 Absatz 1 i. V. m. § 17d Absatz 10 EnWG | 1 000 – 100 000 |
 | 21.5 | Aufsichtsmaßnahmen nach § 17d Absatz 11 EnWG | 13 500 – 77 500 |
-| 22 | Amtshandlungen nach § 12g Absatz 3 EnWG |  |
-| 22.1 | Bestätigung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 1 Satz 1 und 2 ÜNSchutzV | 500 – 5 000 |
-| 22.2 | Beanstandung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 1 Satz 1 und 3 ÜNSchutzV | 500 – 5 000 |
-| 22.3 | Aufforderung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 3 ÜNSchutzV | 500 |
+| 22 | (weggefallen) |  |
+| 22.1 | (weggefallen) |  |
+| 22.2 | (weggefallen) |  |
+| 22.3 | (weggefallen) |  |
 | 23 | Entscheidung nach § 29 Absatz 1 EnWG i. V. m. § 12g Absatz 1 EnWG | 500 – 50 000 |
 | 24 | Entscheidung nach § 29 Absatz 1 EnWG i. V. m. § 118 Absatz 6 EnWG | 500 – 15 000 |
 | 25 | Festlegung nach § 29 Absatz 1 EnWG i. V. m. § 19a Absatz 2 Satz 2 EnWG | 500 – 50 000 |

@@ -1,4 +1,4 @@
-# Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+# Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

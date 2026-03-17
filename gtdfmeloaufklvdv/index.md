@@ -1,4 +1,4 @@
-# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -36,7 +36,7 @@
 - [§ 23 Lehrpläne; Durchführung der Lehrgänge](0023.md)
 - [§ 24 Lehrgang „Technische Aufklärung I“](0024.md)
 - [§ 25 Lehrgänge „Technische Aufklärung II Bundeswehr“ und „Technische Aufklärung II Bundesnachrichtendienst“](0025.md)
-- [§ 26 Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“](0026.md)
+- [§ 26 Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Verwaltungsdienst im Verwendungsbereich Fernmelde- und Elektronische Aufklärung“](0026.md)
 - [§ 27 Lehrgänge „Auswertung Technische Aufklärung Bundeswehr“ und „Auswertung Technische Aufklärung Bundesnachrichtendienst“](0027.md)
 - [§ 28 Praktische Ausbildung](0028.md)
 

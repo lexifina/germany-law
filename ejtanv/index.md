@@ -1,5 +1,4 @@
-# Verordnung über die Benennung und Einrichtung der nationalen
-Eurojust-Anlaufstelle für Terrorismusfragen
+# Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufstelle für Terrorismusfragen
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Nationale Anlaufstelle für Terrorismusfragen](0001.md)

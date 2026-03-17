@@ -54,6 +54,7 @@ Teil 4
 Schlussbestimmungen
 | § 33 | Verordnungsermächtigungen |
 | § 34 | Zentrale Veröffentlichung von Wärmeplänen im Internet |
+| § 34a | Übergangsbestimmung |
 | § 35 | Evaluation |
 | Anlage 1 | Daten und Informationen für die Bestandsanalyse |
 | Anlage 2 | Darstellungen im Wärmeplan |

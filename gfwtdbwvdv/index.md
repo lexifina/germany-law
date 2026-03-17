@@ -1,4 +1,4 @@
-# Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -38,7 +38,7 @@
 - [§ 18 Ausbildungsrahmenplan](0018.md)
 - [§ 19 Ausbildungsplan](0019.md)
 - [§ 20 Ausbildungsabschnitte](0020.md)
-- [§ 21 Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“](0021.md)
+- [§ 21 Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“](0021.md)
 - [§ 22 Lehrgang „Menschenführung“](0022.md)
 - [§ 23 Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“](0023.md)
 - [§ 24 Lehrgang „Gruppenführung“](0024.md)

@@ -21,6 +21,7 @@
 - [§ 5c IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz](0005c.md)
 - [§ 5d Dokumentations-, Melde-, Registrierungspflicht](0005d.md)
 - [§ 5e Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen](0005e.md)
+- [§ 5f Nachweise und behördliche Anordnungen zu Resilienzpflichten nach dem KRITIS-Dachgesetz; Festlegungskompetenz](0005f.md)
 
 ## Teil 2 Entflechtung
 
@@ -67,7 +68,7 @@
 - [§ 12d Monitoring und Controlling der Umsetzung des Netzentwicklungsplans](0012d.md)
 - [§ 12e Bundesbedarfsplan](0012e.md)
 - [§ 12f Herausgabe von Daten](0012f.md)
-- [§ 12g Schutz europäisch kritischer Anlagen, Verordnungsermächtigung](0012g.md)
+- [§ 12g (weggefallen)](0012g.md)
 - [§ 12h Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen](0012h.md)
 - [§ 12i Systemstabilitätsbericht, Monitoring der Systemstabilität](0012i.md)
 - [§ 12j Infrastrukturgebieteplan im Übertragungsnetz](0012j.md)

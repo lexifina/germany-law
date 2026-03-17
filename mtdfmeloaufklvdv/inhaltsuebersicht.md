@@ -45,7 +45,7 @@ Fachtheoretische Ausbildungsabschnitte
 | § 32 | Lehrgang „Informationssysteme und Informationsgewinnung“ |
 | § 33 | Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“ |
 | § 34 | Lehrgang „Technische Aufklärung“ |
-| § 35 | Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ |
+| § 35 | Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung“ |
 Unterabschnitt 3
 Praktische Ausbildung
 | § 36 | Berufspraktische Fremdsprachenausbildung |

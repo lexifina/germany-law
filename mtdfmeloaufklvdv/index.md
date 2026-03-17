@@ -1,4 +1,4 @@
-# Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+# Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -51,7 +51,7 @@
 - [§ 32 Lehrgang „Informationssysteme und Informationsgewinnung“](0032.md)
 - [§ 33 Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“](0033.md)
 - [§ 34 Lehrgang „Technische Aufklärung“](0034.md)
-- [§ 35 Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“](0035.md)
+- [§ 35 Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Verwaltungsdienst im Verwendungsbereich Fernmelde- und Elektronische Aufklärung“](0035.md)
 
 ### Unterabschnitt 3 Praktische Ausbildung
 
