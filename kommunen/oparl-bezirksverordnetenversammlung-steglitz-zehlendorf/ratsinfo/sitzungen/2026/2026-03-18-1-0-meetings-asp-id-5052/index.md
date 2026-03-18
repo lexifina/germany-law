@@ -1,0 +1,82 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-03-18T17:00:00+01:00
+- Ende: 2026-03-18T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5052
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5052
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Weiträumige Absperrungen in Dahlem - beantwortet
+- TOP 3.2: Integration noch möglich? - beantwortet
+- TOP 3.3: Aktueller Stand Personalsituation bei den Jugendverkehrsschulen - beantwortet
+- TOP 3.4: Der Schlangenbader Tunnel wird gebraucht?! - beantwortet
+- TOP 3.5: Können Straftaten auch im Bezirksamt vertuscht werden? - schriftlich beantwortet
+- TOP 3.6: Leerstand bei Vonovia/Deutsche Wohnen in Schönow und Zehlendorf-Süd - schriftlich beantwortet
+- TOP 3.7: „Mäusebunker“ - schriftlich beantwortet
+- TOP 3.8: Entwicklung der Ferdinandstraße - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Umgehende Umsetzung des BVV-Beschlusses 717/VI „Handlungskonzept Obdachlosigkeit" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für den ANASA e.V - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Sondermittel der BVV für den Berliner Yacht-Club e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Ergänzungsplan Steglitz-Zehlendorf für die Haushaltsjahre 2026 und 2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Keine Vermietung bezirklicher Räume an Vorfeldvereine von Terrorregimen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Lindwerder retten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Kein Verkauf des Bierpinsels - in der BVV abgelehnt
+- TOP 4.9: Parkplätze im Jenbacher Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Verkehrsspiegel in der Sundgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Begrünung durch Pflanzung von Brombeerbüschen zum Schutz der Grünanlage an der Wannseebrücke und der Fläche unterhalb der Wannseebrücke - in der BVV abgelehnt
+- TOP 4.12: Abreißzettel „Hilfetelefon Gewalt gegen Frauen" in Toiletten in bezirklichen Einrichtungen anbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Platz in Nikolassee nach Helene Stöcker (1869–1943) benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Lorenzstraße Tempo 30 durchgängig anordnen/Querungshilfen Kreuzung Lorenzstraße/Jägerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Gedenken an den 7. Oktober 2023 jährlich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Eine Gedenk- und Informationsstele für die ehemalige Steglitzerin Hannah Arendt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Denkmal für die Gefallenen des 1. Weltkriegs auf dem Dahlemer Dorfanger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Baustellenabsperrungen nicht weiter im Straßenraum lagern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Schulwegsicherheit Berliner Straße 8-14 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Vom Blackout geschädigte Unternehmen nicht alleine lassen - in der BVV abgelehnt
+- TOP 4.21: Bessere Beleuchtung für den Asternplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Würdigung von Baumscheibenpatenschaften - in der BVV abgelehnt
+- TOP 4.23: Menschlichkeit zuerst – humanity first - in der BVV abgelehnt
+- TOP 4.24: S-Bahn gegen Stromausfall sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Stromversorgung Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Gedenktafel für "arisiertes" jüdisches Kaufhaus pflegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Resolution: Femizide verhindern und geschlechtsspezifische Gewalt nachhaltig bekämpfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Heizung im Rathaus Lankwitz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Instandhaltung und Pflege von Einrichtungen am S-Bahnhof Wannsee - überwiesen
+- TOP 5.2: Verbesserung der Reinigung in stark frequentierten Bereichen des S-Bahnhofs Wannsee - überwiesen
+- TOP 5.3: Transparente und einheitliche Übersicht der Öffnungszeiten von Kindertagesstätten (Kitas) im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.4: Schwerpunktkontrollen zur Sauberkeit und Einhaltung ordnungsrechtlicher Vorschriften an touristischen Hotspots an Wochenenden – Nutzung der neuen Einnahmemöglichkeiten aus Bußgeldern - überwiesen
+- TOP 5.5: Verbesserung der Sicherheit und Beleuchtung am S-Bahnhof Wannsee - überwiesen
+- TOP 5.6: Stromunabhängige bzw. stromarme Heizsysteme bei der Sanierung von Gebäuden mit Bedeutung für den Katastrophenschutz - überwiesen
+- TOP 5.7: Aktion zum Schutz bei Medienkonsum von Klein- und Schulkindern - überwiesen
+- TOP 5.8: Müll ist mehr als ein Ordnungsproblem – Runder Tisch im Bezirk - überwiesen
+- TOP 5.9: Räume für alle – Aufenthalt im öffentlichen Raum ohne Konsumzwang sicherstellen - überwiesen
+- TOP 5.10: Mögliche Alternativen zu Granitblöcken im Straßenverkehr prüfen - überwiesen
+- TOP 5.11: Radeln ohne durchgeschüttelt zu werden: Kopfsteinpflaster flächendeckend abfräsen - überwiesen
+- TOP 5.12: Gehwegparken an der Haltestelle Appenzeller Straße unterbinden - überwiesen
+- TOP 5.13: Seminare „How-to Bezirksamt" anbieten - überwiesen
+- TOP 5.14: Umbenennung eines Abschnitts der Drygalskistraße zwischen Peter-Lenné-Straße und Podbielskiallee in Jina-Amini-Straße - überwiesen
+- TOP 5.15: Stadtbad Lankwitz retten: Weiteres Schwimmbadsterben in Steglitz-Zehlendorf verhindern - überwiesen
+- TOP 5.16: Kein Schwein schreibt mich an - überwiesen
+- TOP 5.17: Mehr und sichere Fahrradbügel für die Freie Universität - überwiesen
+- TOP 5.18: Verkehrsinsel mit Potenzial – Ein neuer Platz an der Ringstraße - überwiesen
+- TOP 5.19: Modernere Verkehrsführung in der Argentinischen und Lindenthaler Allee - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Meldung leerstehender Gewerbeimmobilien - in der BVV abgelehnt
+- TOP 6.1.2: Keine Unterbrechung des Livestreams bei Sitzungen der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Leerstand gemeinsam entgegenwirken: Einen Leerstandsmelder für Gewerberäume für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Bänke an der Wilma-Rudolph-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Die Bezirksverordnetenversammlung Steglitz-Zehlendorf bürger*innenfreundlicher gestalten - in der BVV abgelehnt
