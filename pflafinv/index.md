@@ -1,9 +1,9 @@
-# Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
+# Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Teil 1 Finanzierung der Ausbildung in der Pflege
+## Teil 1 Finanzierung der Ausbildungen in der Pflege
 
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Rechtsträgerschaft bei staatlichen Pflegeschulen](0002.md)
