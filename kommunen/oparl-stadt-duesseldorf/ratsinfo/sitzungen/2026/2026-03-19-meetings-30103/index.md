@@ -1,0 +1,143 @@
+# Eingereichte Haushaltsanträge zu den Etatberatungen 2026 (Hier sind die eingereichten Haushaltsanträge zur Ratssitzung am 19.03.2026 aufgeführt. Es handelt sich um keine eigene Sitzung.)
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-19T00:00:00+01:00
+- Ende: 2026-03-19T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/400224
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/30103
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/30103
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsanträge der Liste B http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581120.pdf
+- Ergebnisprotokoll: Haushaltsanträge der Liste B http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581120.pdf
+- Wortprotokoll: Haushaltsanträge der Liste B http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581120.pdf
+
+## Tagesordnung
+
+- TOP 1: Haushaltsantrag der AfD-Ratsfraktion: Streichung der Ausgaben für den Neubau des Technischen Verwaltungsgebäudes (TVG) im Haushaltsplan 2026 - mehrheitlich abgelehnt
+- TOP 2: Haushaltsantrag der AfD-Ratsfraktion: Ausgabenmoratorium für den gesamten Haushaltsplan 2026 - mehrheitlich abgelehnt
+- TOP 3: Haushaltsantrag der SPD/Volt-Ratsfraktion: Wo ist der Plan? – Kluge Personalentwicklung für eine leistungsstarke Stadtverwaltung - mehrheitlich abgelehnt
+- TOP 4: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Einleitung aller rechtlichen Mittel und Schritte gegen das Land Nordrhein-Westfalen zur Erlangung der finanziellen Mindestausstattung - mehrheitlich abgelehnt
+- TOP 5: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: städtisches Inkasso durch externe Inkassomöglichkeiten ergänzen - mehrheitlich abgelehnt
+- TOP 6: Haushaltsantrag der AfD-Ratsfraktion: Streichung von sog. „Transferaufwendungen“ im Ausschuss für Wirtschaftsförderung, regionale und internationale Zusammenarbeit im Haushaltsplan 2026 (S.14) - mehrheitlich abgelehnt
+- TOP 7: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für den Heimat- und Bürgerverein Lohausen-Stockum e.V. - mehrheitlich abgelehnt
+- TOP 8: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 25.000,- Euro für Tiernotruf e.V. - mehrheitlich abgelehnt
+- TOP 9: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Initiative Angermund e.V. - mehrheitlich abgelehnt
+- TOP 10: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Hans-Rönn-Stiftung - Menschen für Tiere - mehrheitlich abgelehnt
+- TOP 11: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für den Katzenschutzbund Düsseldorf e.V. - mehrheitlich abgelehnt
+- TOP 12: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für PAKT e.V. - mehrheitlich abgelehnt
+- TOP 13: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Siedlergemeinschaft Düsseldorf-Nord (seit 1931) - mehrheitlich abgelehnt
+- TOP 14: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für "Die Eulen e.V." - mehrheitlich abgelehnt
+- TOP 15: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Tiertafel Düsseldorf e.V. - mehrheitlich abgelehnt
+- TOP 16: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Tierhilfe Düsseldorf e.V. - mehrheitlich abgelehnt
+- TOP 17: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Initiative "Rettet die Wildvögel im Hofgarten" - mehrheitlich abgelehnt
+- TOP 18: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Interessengemeinschaft Tannenhof e.V. - mehrheitlich abgelehnt
+- TOP 19: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die KG Jrön Wisse Jonges 1959 e.V. - mehrheitlich abgelehnt
+- TOP 20: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für den Kreisverband Düsseldorf im Verband Wohneigentum e.V. - mehrheitlich abgelehnt
+- TOP 21: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für die Ortsgruppe Fuss e.V. Düsseldorf - mehrheitlich abgelehnt
+- TOP 22: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Einmalig 150.000,- Euro für das Tierheim Düsseldorf - stark gestiegene Kosten für Energie und Einkauf von Futter, Streu etc. - mehrheitlich abgelehnt
+- TOP 23: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Prüfung der Jahresabschlüsse der Landeshauptstadt Düsseldorf und der Holding erfolgen durch Externe - mehrheitlich abgelehnt
+- TOP 24: Haushaltsantrag der FDP-Ratsfraktion: Nicht noch einmal fünf verlorene Jahre – Düsseldorfs Verwaltung digital neu aufstellen - mehrheitlich abgelehnt
+- TOP 25: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 6.000,- Euro für die Lesben- und Schwulenbibliothek Düsseldorf (LuSBD) - mehrheitlich abgelehnt
+- TOP 26: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Ertüchtigung des Ordnungs- und Servicedienstes für Einsätze in den Außenbezirken - mehrheitlich abgelehnt
+- TOP 27: Haushaltsantrag der FDP-Ratsfraktion: Keine Mittelkürzung im Bevölkerungsschutz - mehrheitlich abgelehnt
+- TOP 28: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Einrichtung einer Risikorücklage für Fördermittel im Schulhaushalt - mehrheitlich abgelehnt
+- TOP 29: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Mehrjähriges Energieeffizienzprogramm für Schulgebäude - mehrheitlich abgelehnt
+- TOP 30: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Preissteigerungsreserve Bau und Energie im Schulbereich - mehrheitlich abgelehnt
+- TOP 31: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Außerschulisches Bildungsprogramm „Adventure School“ - mehrheitlich beschlossen
+- TOP 31.1: Änderungsantrag der Ratsfraktion Die Linke - mehrheitlich abgelehnt
+- TOP 31.2: Änderungsantrag der AfD-Ratsfraktion
+- TOP 32: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Wiedereinführung von Bücherbussen in 2026 - mehrheitlich abgelehnt
+- TOP 33: Haushaltsantrag der AfD-Ratsfraktion: Streichung der Ausgaben für die zakk gGmbH - mehrheitlich abgelehnt
+- TOP 34: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Kunstkommission – Kunst am Bau - mehrheitlich beschlossen
+- TOP 35: Haushaltsantrag der AfD-Ratsfraktion: Sämtliche Ausgaben für die Beteiligung am Bündnis „Sicherer Hafen“ streichen - mehrheitlich abgelehnt
+- TOP 36: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 2.000.000,- Euro für Pflegebedürftige und Menschen mit Behinderung - mehrheitlich abgelehnt
+- TOP 37: Haushaltsantrag der SPD/Volt-Ratsfraktion: Wo ist der Plan? – Mehr Sicherheit und soziale Hilfsangebote im Bahnhofs-Brennpunkt - mehrheitlich abgelehnt
+- TOP 38: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Duschbus für Obdachlose - mehrheitlich abgelehnt
+- TOP 39: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für den Verband der Sinti und Roma in Düsseldorf - mehrheitlich abgelehnt
+- TOP 40: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für den Bund der Vertriebenen in Düsseldorf - mehrheitlich abgelehnt
+- TOP 41: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Für Bildung und Integration von in Düsseldorf lebenden Migranten 1.000.000,- Euro zusätzlich - mehrheitlich abgelehnt
+- TOP 42: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Betreiber von Großtagespflegen in Düsseldorf finanziell gleichstellen - mehrheitlich abgelehnt
+- TOP 43: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: JHA-Beschlüsse vom 02. März 2026 - mehrheitlich beschlossen
+- TOP 44: Haushaltsantrag der FDP-Ratsfraktion: Gesunde Ernährung in Düsseldorfer Kindertageseinrichtungen (KiTas) - mehrheitlich abgelehnt
+- TOP 45: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Durchführung tiergestützter Pädagogik für Kindergarten- und Vorschulkinder - mehrheitlich abgelehnt
+- TOP 46: Haushaltsantrag der AfD-Ratsfraktion: Streichung der Ausgaben für Förderungen der Jung und Queer gGmbH im Haushaltsplan 2026 - mehrheitlich abgelehnt
+- TOP 47: Haushaltsantrag der AfD-Ratsfraktion: Moratorium der automatischen Dynamisierung für den gesamten Haushaltsplan 2026 - mehrheitlich abgelehnt
+- TOP 48: Haushaltsantrag der FDP-Ratsfraktion: Ausbau der Suchtprävention für CROSSPOINT - die Düsseldorfer Suchtprävention der Trägerkooperation Caritasverband, Diakonie Düsseldorf und Düsseldorfer Drogenhilfe e. V. - mehrheitlich abgelehnt
+- TOP 49: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 100.000,- Euro für das Kinder- und Jugendhospiz Düsseldorf - mehrheitlich abgelehnt
+- TOP 50: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Einmalig 50.000,- Euro für den Wiederaufbau der Giants Düsseldorf - mehrheitlich abgelehnt
+- TOP 51: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 10.000,- Euro für den FC Tannenhof 1950 e.V. - mehrheitlich abgelehnt
+- TOP 52: Haushaltsantrag der FDP-Ratsfraktion: Wohneigentum und Genossenschaften stärken – Wohnen für die Mitte der Gesellschaft - mehrheitlich abgelehnt
+- TOP 53: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Stärkung der Wohnungsaufsicht - mehrheitlich beschlossen
+- TOP 53.1: Änderungsantrag der Ratsfraktion Die Linke - mehrheitlich abgelehnt
+- TOP 54: Haushaltsantrag der FDP-Ratsfraktion: Barrierefreiheit der City-Toiletten konsequent umsetzen – Nachrüstung von Braille-Bedienelementen und taktilem Leitsystem - mehrheitlich abgelehnt
+- TOP 54.1: Änderungsantrag der Ratsfraktion Die Linke
+- TOP 55: Haushaltsantrag der FDP-Ratsfraktion: Bikesharing – Connected Mobility - mehrheitlich abgelehnt
+- TOP 56: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Initiative zur teilweisen Abschaltung der Gasbeleuchtung in der Nacht - mehrheitlich abgelehnt
+- TOP 57: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Acht helfende Hände für die Tiere, Tierpflege und Fütterung - mehrheitlich abgelehnt
+- TOP 58: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Wildpark 30.000,- Euro jährlich für die Verbesserung der Lebensumstände der Tiere und für die Aufklärung der Besucher - mehrheitlich abgelehnt
+- TOP 59: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Bessere Ausstattung der Hundeauslaufplätze bzw. der Hundefreilaufflächen - mehrheitlich abgelehnt
+- TOP 60: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Streichelzoo - 30.000,- Euro jährlich für die Verbesserung der Lebensumstände der Tiere und für die Aufklärung der Besucher - mehrheitlich abgelehnt
+- TOP 61: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Der Tierfriedhof Düsseldorf beerdigt gestorbene, nicht gechipte oder registrierte Haustiere und legt eine Fotokartei an - mehrheitlich abgelehnt
+- TOP 62: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Im Tierheim Düsseldorf und vergleichbaren Einrichtungen verstorbene Haustiere werden beim Tierfriedhof Aderräuscherweg beerdigt - mehrheitlich abgelehnt
+- TOP 63: Haushaltsantrag der SPD/Volt-Ratsfraktion: Wo ist der Plan? – Klimaschutz konsequent finanzieren und Verantwortung für kommende Generationen übernehmen - mehrheitlich abgelehnt
+- TOP 64: Haushaltsantrag der AfD-Ratsfraktion: Sämtliche Ausgaben für das Klimaschutzprogramm der Landeshauptstadt Düsseldorf streichen - mehrheitlich abgelehnt
+- TOP 65: Haushaltsantrag der FDP-Ratsfraktion: Effektiver Klimaschutz - mehrheitlich abgelehnt
+- TOP 66: Haushaltsantrag der FDP-Ratsfraktion: Anonyme Frequenzmessung via LiDAR-Technologie für eine datenbasierte Wirtschafts- und Tourismussteuerung - mehrheitlich abgelehnt
+- TOP 67: Haushaltsantrag der Ratsfraktion Die Linke: Rücknahme der Investitionssumme 4.394.601 Euro für den Open Air Park sowie die damit zusammenhängenden Baumfällungen - mehrheitlich abgelehnt
+- TOP 68: Haushaltsantrag der SPD/Volt-Ratsfraktion: Wo ist der Plan? – Mehr Einnahmen durch die Einführung einer Zweitwohnungssteuer - mehrheitlich abgelehnt
+- TOP 69: Haushaltsantrag der Ratsfraktion Die Linke: Ein gerechter und sozialer Haushalt für Düsseldorf - mehrheitlich abgelehnt
+- TOP 70: Haushaltsantrag der AfD-Ratsfraktion: Streichung der Ausgaben für den Neubau der Oper im Haushaltsplan 2026 - mehrheitlich abgelehnt
+- TOP 71: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Konsolidierung der Personalkostenbudgets – Transparenz und politische Begleitung - mehrheitlich beschlossen
+- TOP 72: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Klimaneutral 2035 - mehrheitlich beschlossen
+- TOP 73: Haushaltsantrag der FDP-Ratsfraktion: Wiedereinführung einer Schuldenbremse in der Hauptsatzung - mehrheitlich abgelehnt
+- TOP 74: Haushaltsantrag der FDP-Ratsfraktion: Ansprechpartner für Filmproduktionen in Düsseldorf – Expertise an einer Stelle bündeln - mehrheitlich abgelehnt
+- TOP 75: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Initiative zur umweltfreundlichen Rheinschifffahrt - mehrheitlich abgelehnt
+- TOP 76: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Sitzungen des Rechnungsprüfungsausschusses finden öffentlich statt - mehrheitlich abgelehnt
+- TOP 77: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Verkauf von nicht zwingend für die kommunale Daseinsvorsorge notwendigen Vermögens - mehrheitlich abgelehnt
+- TOP 78: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Ernennung einer/s ehrenamtlichen Tierschutzbeauftragte/n - mehrheitlich abgelehnt
+- TOP 79: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Bürgerbeteiligungsverfahren zum städtischen Haushalt - mehrheitlich abgelehnt
+- TOP 80: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Kammern, Verbände, Vereine, Gewerkschaften, freie Initiativen und Beiräte als beratende Mitglieder in den Fachgremien und Ausschüssen - mehrheitlich abgelehnt
+- TOP 81: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: "quak-quak"-Geräusche am Übergang von der Autobahn 44 auf die Flughafenbrücke - mehrheitlich abgelehnt
+- TOP 82: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Ausbau naturnaher Grünpflege (z.B. Blühstreifen, Wildwiesen und dauerhafte Staudenpflanzen) und teilweiser Umbau bei nicht denkmalgeschützten Parks - mehrheitlich abgelehnt
+- TOP 83: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Initiative zur Änderung des Tierschutzgesetzes, damit es Kommunen erlaubt ist, Zirkusbetrieben Auftritte mit Wildtieren zu untersagen - mehrheitlich abgelehnt
+- TOP 84: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Bestandsaufnahme und -analyse aller städtischen Gebäude hinsichtlich ihres barrierefreien Zugangs - mehrheitlich abgelehnt
+- TOP 85: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: vollständiger Ausstieg aus Tierversuchen aller Art - mehrheitlich abgelehnt
+- TOP 86: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Konzept zur Sicherstellung von Ruhe- bzw. Schutzzonen für die in Düsseldorf wildlebenden Tiere - mehrheitlich abgelehnt
+- TOP 87: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Arbeitnehmerparkausweise in Bewohnerparkausweisezonen prüfen - mehrheitlich abgelehnt
+- TOP 88: Haushaltsantrag der SPD/Volt-Ratsfraktion: Wo ist der Plan? – Mehr bezahlbare Wohnungen durch eine aktivere kommunale Wohnungspolitik - mehrheitlich abgelehnt
+- TOP 89: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Umwelthaus muss unverzüglich erbaut, errichtet oder in ein Gebäude einziehen - mehrheitlich abgelehnt
+- TOP 90: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Stadtplanung und Bebauungsverfahren, Bürgerdialoge auch in einfacher Sprache, in englisch, in arabisch, in Braille und weiteren Sprachen veröffentlichen - mehrheitlich abgelehnt
+- TOP 91: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Walk of Fame, entweder an einen zentralen Ort für Gesamt-Düsseldorf oder mehrere, z.B. einen je Stadtbezirk - mehrheitlich abgelehnt
+- TOP 92: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 18, 28, 74, 84, 88 und 444 werden in der politischen Bearbeitung nicht mehr verwendet - mehrheitlich abgelehnt
+- TOP 93: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: 50% der Umrüstkosten von Ölheizungen aus alternative, nachhaltige, ökologisch verträgliche Heizungsarten werden von der Stadt Düsseldorf bezahlt - mehrheitlich abgelehnt
+- TOP 94: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Verpflichtende Folgekostenanalyse bei Investitionen im Schulbereich - mehrheitlich abgelehnt
+- TOP 95: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Einführung eines sozialindexbasierten Verteilungsmodells für Schulmittel - mehrheitlich abgelehnt
+- TOP 96: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Jährlicher Bericht zur Einnahmestrategie im Schulbereich - mehrheitlich abgelehnt
+- TOP 97: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Controllingbericht Digitalisierung im Schulbereich - mehrheitlich abgelehnt
+- TOP 98: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Personalfolgekostenbericht im Schulbereich - mehrheitlich abgelehnt
+- TOP 99: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Evaluationsklausel für neue Programme im Schulbereich - mehrheitlich abgelehnt
+- TOP 100: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Bericht zur Bildungsgerechtigkeit im Schulbereich - mehrheitlich abgelehnt
+- TOP 101: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Fördermittel-Akquisestrategie im Schulbereich - mehrheitlich abgelehnt
+- TOP 102: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Fachverwaltung und Tierfriedhof schauen sich gemeinsam die Lage vor Ort rund um den blickdichten Holzzaun zwischen Südfriedhof und dem Tierfriedhof an - mehrheitlich abgelehnt
+- TOP 103: Haushaltsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI: Marionettentheater Düsseldorf wird 2026 mit 315.000.- Euro oder 372.000,- Euro unterstützt - mehrheitlich abgelehnt
+- TOP 104: Haushaltsantrag der Ratsfraktion Die Linke: Forcierter Ausbau der Radleitroute - mehrheitlich abgelehnt
+- TOP 105: Haushaltsantrag der Ratsfraktion Die Linke: Einstellung von Mitteln zur Umsetzung der Familienstartzeit – Zehn Tage bezahlte Freistellung für den zweiten Elternteil - mehrheitlich abgelehnt
+- TOP 106: Haushaltsantrag der Ratsfraktion Die Linke: Erhöhung der Honorare für Dozierendentätigkeiten an der VHS - mehrheitlich abgelehnt
+- TOP 107: Haushaltsantrag der Ratsfraktion Die Linke: Bezahlbares Wohnen ermöglichen, Grundstücks- und Wohnungsbestand der SWD vergrößern - mehrheitlich abgelehnt
+- TOP 108: Haushaltsantrag der Ratsfraktion Die Linke: Einrichtung eines solidarischen Mietkautionsfonds - mehrheitlich abgelehnt
+- TOP 109: Haushaltsantrag der Ratsfraktion Die Linke: SozialTicket für 29 Euro anbieten - mehrheitlich abgelehnt
+- TOP 110: Haushaltsantrag der Ratsfraktion Die Linke: Kostenfreies Mittagessen in Kindertagesstätten und Schulen - mehrheitlich abgelehnt
+- TOP 111: Haushaltsantrag der Ratsfraktion Die Linke: Förderung Werkstatt Lebenshunger „Förderung Beratung- und Gruppenangebote“ / „Popchor / Lebenshungerkonzerte“ - mehrheitlich abgelehnt
+- TOP 112: Haushaltsantrag der Ratsfraktion Die Linke: Förderung STAY! Medizinische Versorgung / Clearingstelle / Notfallfonds - mehrheitlich abgelehnt
+- TOP 113: Haushaltsantrag der Ratsfraktion Die Linke: Förderung SKFM „Rahab - Beratung Ausstieg Prostitution“ - mehrheitlich abgelehnt
+- TOP 114: Haushaltsantrag der Ratsfraktion Die Linke: Düsselpass auch für Wohngeldberechtigte - mehrheitlich abgelehnt
+- TOP 115: Haushaltsantrag der Ratsfraktion Die Linke: Städtische Beschäftigte stärken - mehrheitlich abgelehnt
+- TOP 116: Haushaltsantrag der Ratsfrau Dufhues: Einsetzen einer Summe in Höhe der Gewerbesteuereinnahmen von Rheinmetall für humanitäre Soforthilfe für die Zivilbevölkerung im Gazastreifen - mehrheitlich abgelehnt
+- TOP 117: Haushaltsantrag der Ratsfraktion Die Linke: Förderung „Beratungsstelle stop mutilation Deutschland e.V.“ - mehrheitlich abgelehnt
+- TOP 118: Haushaltsantrag der Ratsfraktion Die Linke: Förderung „Queer im Alter“ - mehrheitlich abgelehnt
+- TOP 119: Haushaltsantrag der Ratsfraktion Die Linke: Rücknahme der Kürzungen bei der Unterhaltung von Radwegen - mehrheitlich abgelehnt
+- TOP 120: Haushaltsantrag der Ratsfraktion Die Linke: Rücknahme Kürzungen im Klimaschutz - mehrheitlich abgelehnt
+- TOP 121: Haushaltsantrag der Ratsfraktion Die Linke: Rücknahme der Kürzungen bei der Trans*beratung - mehrheitlich abgelehnt
+- TOP 122: Haushaltsantrag der Ratsfraktion Die Linke: Einrichtung einer Stabstelle für bezahlbares Wohnen - mehrheitlich abgelehnt
