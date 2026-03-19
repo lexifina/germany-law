@@ -1,22 +1,22 @@
-# Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln beschlossen durch den Rat am 4. September 2025
+# Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln beschlossen durch den Rat am 19. März 2026
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2025-09-04 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/geschaeftsordnung-rat-und-bezirklsvertretungen-2025-09-04.pdf
+- Datum: 2026-03-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/geschaeftsordnung-rat-und-bezirksvertretungen_20260319.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln
-beschlossen durch den Rat am 4. September 2025
+beschlossen durch den Rat am 19. März 2026
 Inhaltsverzeichnis
 I. Rat
 § 1 Einberufung des Rates § 2 Aufstellung der Tagesordnung § 3 Anträge § 4 Anfragen § 5 Aktuelle Stunde § 6 Anzeigepflicht bei Verhinderung § 7 Informationsrecht des Rates § 8 Vorsitz § 9 Nichtöffentliche Sitzung § 10 Befangenheit von Mitgliedern des Rates § 11 Stimmzähler § 12 Änderung und Erweiterung der Tagesordnung § 13 Zusatz- und Änderungsanträge § 14 Zurückgezogene oder behandelte Anträge und Anfragen § 15 Redeordnung und Redezeit § 16 Redeordnung bei Anträgen und aktuellen Stunden § 17 Anträge und Ausführungen zur Geschäftsordnung § 18 Übergang zum nächsten Punkt der Tagesordnung (Erledigung) § 19 Schluss der Beratung oder Rednerliste § 20 Vertagung und Unterbrechung § 21 Persönliche Bemerkungen § 22 Tatsächliche und persönliche Erklärungen § 23 Abstimmungen § 24 Abstimmungsverfahren § 25 Wahlen § 26 Verweisung zur Sache § 27 Rüge, Ordnungsruf und Wortentziehung § 28 Ausschluss von der Sitzung und Entzug der Sitzungsentschädigung § 29 Unterbrechung und Aufhebung der Sitzung § 30 Ordnung im Zuhörerraum § 31 Niederschrift und stenographischer Bericht § 32 Unterrichtung der Öffentlichkeit
-Seite 1 von 27
+Seite 1 von 26
 
 II. Fraktionsvorsitzendenbesprechung § 33 Fraktionsvorsitzendenbesprechung III. Ausschüsse § 34 Besonderheiten des Verfahrens der Ausschüsse § 35 Durchführung von Beschlüssen entscheidungsbefugter Ausschüsse IV. Fraktionen § 36 Fraktionen § 37 Informationsrecht der Fraktionen V. Bezirksvertretungen § 38 Allgemeines § 39 Einwohnerfragestunde VI. Sonstige Bestimmungen § 40 Akteneinsichtsrecht § 41 Unterrichtung des Rates gemäß § 113 Absatz 5 GO § 42 Bericht über die Beschlüsse des Rates, der Ausschüsse und der Bezirksvertretungen § 43 Ratsferien § 44 Kommunalverfassungsrechtliche Streitigkeiten § 45 Auslegung der Geschäftsordnung § 46 Inkrafttreten
-Seite 2 von 27
+Seite 2 von 26
 
 I. Rat
 § 1 Einberufung des Rates (§ 47 GO)
@@ -29,7 +29,7 @@ Wenn eine digitale Bereitstellung nicht möglich ist oder ein Ratsmitglied dies 
 (1) Die Oberbürgermeisterin/der Oberbürgermeister setzt die Tagesordnung fest. Bei Einwohneranträgen sind § 15 Absätze 3 und 5 der Hauptsatzung der Stadt Köln zu beachten.
 (2) Die Reihenfolge der Anträge nach § 3 Absatz 1 dieser Geschäftsordnung auf der Tagesordnung bestimmt sich nach der Größe der antragstellenden Fraktion bzw. bei gemeinsamen Anträgen nach der Größe der antragstellenden Fraktionen. In jedem Durchgang des Größenvergleichs wird nur ein Antrag je Fraktion berücksichtigt. Gemeinsame Anträge werden den Fraktionen jeweils gegenseitig zugerechnet. Dieses Verfahren gilt auch für Anträge, die in einer der letzten Sitzungen zurückgestellt worden sind oder deren Dringlichkeit abgelehnt worden ist.
 (3) Gegenstände, die die Oberbürgermeisterin/der Oberbürgermeister zur Behandlung in öffentlicher Sitzung nicht für geeignet hält, können auf die Tagesordnung der nichtöffentlichen Sitzung gesetzt werden.
-Seite 3 von 27
+Seite 3 von 26
 
 (4) In der Regel sollen in nichtöffentlicher Sitzung behandelt werden:
 a) Personalangelegenheiten mit Ausnahme der Wahl der Beigeordneten sowie der Bestellung von Mitgliedern der Betriebsleitung der Eigenbetriebe bzw. eigenbetriebsähnlichen Einrichtungen,
@@ -46,7 +46,7 @@ i) Mitteilungen gemäß § 113 Absatz 5 GO (Unterrichtungspflicht von Gemeindeve
 § 3 Anträge
 (1) Jedes Ratsmitglied, jede Gruppe und jede Fraktion ist berechtigt, Anträge zu stellen. Anträge können auch gemeinsam gestellt werden.
 (2) Anträge sind mit schriftlicher Begründung und einem Beschlussentwurf spätestens am 8. Arbeitstag vor der Sitzung (bis 12 Uhr) beim Sitzungsdienst im Amt der Oberbürgermeisterin/des Oberbürgermeisters einzureichen. Die Anträge dürfen keinen beleidigenden Inhalt i. S. der §§ 185 bis 189 StGB haben.
-Seite 4 von 27
+Seite 4 von 26
 
 (3) Anträge einer Fraktion sind durch die Fraktionsvorsitzende/ den Fraktionsvorsitzenden bzw. eine Stellvertreterin/ einen Stellvertreter oder die Fraktionsgeschäftsführerin/ den Fraktionsgeschäftsführer zu unterzeichnen und mittels des bei der Stadt Köln eingeführten elektronischen SitzungsmanagementProgramms zu übermitteln; Anträge einzelner Mitglieder des Rates sind durch diese selbst zu unterzeichnen und ebenso zu übermitteln. Ausnahmen sind nur in begründeten Fällen zulässig. In diesen Fällen ist eine Übermittlung mittels des bei der Stadt Köln eingeführten elektronischen Sitzungsmanagement-Programms nachzuholen. Die Unterzeichnung der Anträge erfolgt, sofern die Voraussetzungen dafür geschaffen sind, mittels elektronischer Signatur. Die Unterzeichner/innen sind bei Bedarf der Oberbürgermeisterin/dem Oberbürgermeister gegenüber nachweispflichtig.
 (4) Anträge können nur beschlossen werden, wenn die notwendigen einmaligen und/oder laufenden Ausgaben dafür zur Verfügung stehen. Erfordert ein Antrag Mittel, die im Haushaltsplan nicht vorgesehen sind, kann über ihn nur beraten und abgestimmt werden, wenn er gleichzeitig einen ausreichenden und gesetzlich zulässigen Deckungsvorschlag enthält. Für die Bezirksvertretungen gilt dies nur, wenn sie von ihrem Entscheidungsrecht nach § 19 Absatz 1 Sätze 2 und 3 Hauptsatzung in Verbindung mit § 2 Absatz 1 Zuständigkeitsordnung im Rahmen der ihnen vom Rat bereitgestellten Haushaltsmittel Gebrauch machen.
@@ -55,7 +55,7 @@ Seite 4 von 27
 (2) Anfragen an die Oberbürgermeisterin/den Oberbürgermeister müssen spätestens am 3. Arbeitstag vor der Sitzung (bis 12.00 Uhr) beim Sitzungsdienst im Amt der Oberbürgermeisterin/des Oberbürgermeisters eingereicht werden. Die Fragen dürfen keinen beleidigenden Inhalt i. S. der §§ 185 bis 189 StGB haben.
 (3) Anfragen einer Fraktion sind durch die Fraktionsvorsitzende/den Fraktionsvorsitzenden bzw. eine Stellvertreterin/einen Stellvertreter oder die Fraktionsgeschäftsführerin/den Fraktionsgeschäftsführer zu unterzeichnen und mittels des bei der Stadt Köln eingeführten elektronischen SitzungsmanagementProgramms zu übermitteln; Anfragen einzelner Mitglieder des Rates sind durch diese selbst zu unterzeichnen und ebenso zu übermitteln. Ausnahmen sind nur in begründeten Fällen zulässig. In diesen Fällen ist eine Übermittlung mittels des bei der Stadt Köln eingeführten elektronischen Sitzungsmanagement-Programms nachzuholen. Die Unterzeichnung der Anfragen erfolgt, sofern die Voraussetzungen dafür geschaffen sind, mittels elektronischer Signatur. Die Unterzeichner/innen sind bei Bedarf der Oberbürgermeisterin/dem Oberbürgermeister gegenüber nachweispflichtig.
 (4) Für jede Ratssitzung können pro Fraktion, Gruppe oder Einzelmandatsträger nicht mehr als zwei Anfragen mit jeweils höchstens fünf Unterfragen gestellt werden.
-Seite 5 von 27
+Seite 5 von 26
 
 (5) Für die Beantwortung der Anfragen steht je Ratssitzung maximal eine Stunde zur Verfügung.
 (6) Die Beantwortung von Anfragen durch die Verwaltung soll in der Regel schriftlich zu der Sitzung erfolgen, zu der die Anfrage fristgemäß gestellt wurde. In von der Verwaltung zu begründenden Ausnahmefällen erfolgt die Beantwortung in einer späteren Sitzung. Offene Anfragen werden in der Tagesordnung aufgeführt.
@@ -69,7 +69,7 @@ Seite 5 von 27
 (4) An einem Sitzungstag findet nur eine aktuelle Stunde statt. Über Ausnahmen entscheidet der Rat mit der Mehrheit der Stimmen der Ratsmitglieder.
 (5) Sind für eine Ratssitzung mehrere Anträge für eine aktuelle Stunde eingegangen, so versuchen die Fraktionsgeschäftsführerinnen/Fraktionsgeschäftsführer zunächst, eine Einigung herbeizuführen, welches Thema behandelt werden soll. Dabei soll beachtet werden, ob es sich um Themen handelt, die
 a) unter einem anderen Tagesordnungspunkt bereits in der Tagesordnung enthalten sind;
-Seite 6 von 27
+Seite 6 von 26
 
 b) bei unveränderter Sachlage bereits in einer der drei vorausgegangenen Sitzungen im Rat behandelt wurden;
 c) bei fristgemäßer Einbringung Gegenstand eines Antrages gemäß § 3 Geschäftsordnung hätten sein können.
@@ -85,7 +85,7 @@ Anträge zur Sache können nicht gestellt werden.
 § 6 Anzeigepflicht bei Verhinderung
 (1) Kann ein Ratsmitglied zu einer Sitzung des Rates nicht oder nicht rechtzeitig erscheinen, ist es verpflichtet, seine Verhinderung bis 12.00 Uhr am Sitzungstag der Oberbürgermeisterin/dem Oberbürgermeister schriftlich anzuzeigen. Der Zeitpunkt des verspäteten Erscheinens ist schriftlich gegenüber der/dem Vorsitzenden zu dokumentieren.
 (2) Wer die Sitzung vorzeitig oder vorübergehend verlassen will, hat dieses der/dem Vorsitzenden schriftlich mitzuteilen, unterbleibt die Mitteilung, so kann sich die/der Betreffende nicht darauf berufen, sie/er sei bei einer Abstimmung tatsächlich nicht anwesend gewesen.
-Seite 7 von 27
+Seite 7 von 26
 
 § 7 Informationsrecht des Rates (§ 55 GO)
 (1) Zur Vorbereitung der Beratungen des Rates können die Ratsmitglieder im Rahmen ihrer Aufgaben von der Oberbürgermeisterin/dem Oberbürgermeister Auskünfte über die von dieser/diesem oder in ihrem/seinem Auftrag gespeicherten Daten verlangen, soweit der Datenübermittlung nicht Rechtsvorschriften, insbesondere Bestimmungen der Datenschutzgesetze, entgegenstehen.
@@ -98,7 +98,7 @@ Seite 7 von 27
 (1) Mitglieder der Ausschüsse, die nicht zugleich dem Rat angehören, und Mitglieder der Bezirksvertretungen können an den nichtöffentlichen Sitzungen des Rates teilnehmen. Die/der Vorsitzende des Ausschusses für Chancengerechtigkeit und Integration oder ein anderes durch diesen benanntes Mitglied können bei Angelegenheiten i. S. d. § 27 Absatz 7 Satz 4 GO am nichtöffentlichen Teil der Sitzungen des Rates teilnehmen.
 (2) Die gesetzlichen Vertreterinnen/Vertreter rechtlich selbständiger Unternehmen, an denen die Stadt Köln mittelbar oder unmittelbar zu mehr als 50 vom Hundert beteiligt ist, dürfen auf Verwaltungsseite an den Beratungen der nichtöffentlichen Sitzungen des Rates teilnehmen.
 (3) Die Verhandlungen der nichtöffentlichen Sitzungen sind stets vertraulich. Die nichtöffentlichen Sitzungsunterlagen sind vertraulich zu behandeln und vor unbefugtem Zugriff zu schützen.
-Seite 8 von 27
+Seite 8 von 26
 
 § 10 Befangenheit von Mitgliedern des Rates (§ 43 Absatz 2, § 31 GO)
 (1) Muss ein Mitglied des Rates annehmen, nach § 43 Absatz 2, § 31 GO von der Mitwirkung an der Beratung und Entscheidung ausgeschlossen zu sein, so hat es den Ausschließungsgrund vor Eintritt in die Verhandlung unaufgefordert der Sitzungsleiterin/dem Sitzungsleiter anzuzeigen und den Sitzungsraum zu verlassen. In der Niederschrift wird ihre/seine Nichtteilnahme wegen Befangenheit während des betreffenden Tagesordnungspunktes ausgewiesen. Bei einer öffentlichen Sitzung kann sich das Mitglied des Rates in dem für die Zuhörerinnen und Zuhörer bestimmten Teil des Sitzungsraumes aufhalten.
@@ -113,7 +113,7 @@ b) Tagesordnungspunkte zu teilen oder miteinander zu verbinden,
 c) Tagesordnungspunkte abzusetzen, zu verweisen oder zu vertagen,
 d) die Tagesordnung zu erweitern.
 (2) Anträge zu § 12 Absatz 1 lit c) (Absetzungen/Verweisungen/Vertagungen) bedürfen einer Begründung. Einer Rednerin/einem Redner der hiervon betroffenen Antragstellerinnen/Antragsteller ist Gelegenheit zu geben, die Notwendigkeit der Behandlung der Angelegenheit darzulegen. Die Redezeit beträgt fünf Minuten. Soll eine Vorlage der Oberbürgermeisterin/des Oberbürgermeisters von der Tagesordnung abgesetzt werden, so ist der Oberbürgermeisterin/dem Oberbürgermeister Gelegenheit zu geben, die Notwendigkeit der Behandlung der Vorlage darzulegen.
-Seite 9 von 27
+Seite 9 von 26
 
 (3) Die Tagesordnung kann nur erweitert werden, wenn es sich um Angelegenheiten handelt, die keinen Aufschub dulden oder die von äußerster Dringlichkeit sind (§ 48 Absatz 1 Satz 5 GO). Entsprechende Anträge oder Beschlussvorschläge der Verwaltung sind vor Eintritt in die Tagesordnung der Oberbürgermeisterin/dem Oberbürgermeister, den Fraktionen und den nicht einer Fraktion angehörenden Ratsmitgliedern schriftlich zu übergeben, sofern sie nicht im Ratsinformationssystem verfügbar sind. Die Dringlichkeit soll schriftlich begründet werden; ist dies nicht erfolgt, so hat die Antragstellerin/der Antragsteller bzw. die Oberbürgermeisterin/der Oberbürgermeister die Dringlichkeit auf Verlangen eines Ratsmitgliedes vor Eintritt in die Tagesordnung mündlich zu begründen.
 § 13 Zusatz- und Änderungsanträge
@@ -125,7 +125,7 @@ Zusatz- und Änderungsanträge können jederzeit vor Schluss der Verhandlung ges
 § 15 Redeordnung und Redezeit
 (1) Bei Eintritt in die sachliche Beratung hat zunächst die Oberbürgermeisterin/der Oberbürgermeister das Wort.
 (2) Die Sitzungsleiterin/der Sitzungsleiter erteilt das Wort zunächst nach der größenmäßigen Gewichtung im Rat und in einer zweiten Beratungsrunde nach dem
-Seite 10 von 27
+Seite 10 von 26
 
 Eingang der Wortmeldungen. In Bezug auf Anträge und aktuelle Stunden gilt § 16 dieser Geschäftsordnung.
 (3) Ein Ratsmitglied soll nicht mehr als zweimal zu demselben Punkt der Tagesordnung das Wort erhalten.
@@ -135,10 +135,9 @@ Eingang der Wortmeldungen. In Bezug auf Anträge und aktuelle Stunden gilt § 16
 (7) Bei der Beratung einer Angelegenheit, in der eine Bezirksvertretung im Wege der Anhörung beteiligt wird, kann die Bezirksbürgermeisterin/der Bezirksbürgermeister im Anschluss an die Worterteilung nach Absatz 2 das Ergebnis der Beratung in der Bezirksvertretung mündlich begründen, wenn die Bezirksvertretung bei ihrer Beschlussempfehlung an den Rat grundsätzlich vom Vorschlag der Oberbürgermeisterin/des Oberbürgermeisters abweicht. Will die Bezirksbürgermeisterin/der Bezirksbürgermeister von der Möglichkeit der mündlichen Begründung Gebrauch machen, so hat sie/er dies der Sitzungsleiterin/dem Sitzungsleiter rechtzeitig anzuzeigen. Bestehen Zweifel, ob die Abweichung gemäß Satz 1 grundsätzlich ist, so entscheidet hierüber der Rat. Die Redezeit der Bezirksbürgermeisterin/des Bezirksbürgermeisters ist begrenzt auf fünf Minuten.
 (8) Bei der sachlichen Beratung eines Einwohnerantrages (§ 15 Absatz 5 der Hauptsatzung der Stadt Köln) und bei der sachlichen Beratung eines Bürgerbegehrens (§ 26 GO) ist zunächst einer/einem Antragstellerin/Antragsteller bzw. einer/einem Vertretungsberechtigten für insgesamt maximal 15 Minuten das Wort zu erteilen. Anschließend erteilt die Sitzungsleiterin/der Sitzungsleiter den Fraktionen, Gruppen und Einzelmandatsträgern entsprechend Absatz 2 das Wort. Abschießend erhalten noch einmal die/der Antragstellerin/Antragsteller bzw. ein/e Vertretungsberechtigte/r das Wort für insgesamt maximal zehn Minuten, um diesen Gelegenheit zu geben, sich mit den Redebeiträgen der Fraktionen auseinander zu setzen.
 § 16 Redeordnung bei Anträgen und aktuellen Stunden
-(1) Dem antragstellenden Ratsmitglied bzw. der oder den antragstellenden Fraktion/en oder Gruppe/n ist zur Begründung ihres Antrages an erster Stelle das Wort zu erteilen. Ist der Antrag von mehreren Antragstellerinnen/Antragstellern im Sinne von § 3 Absatz 1 dieser Geschäftsordnung gemeinsam gestellt worden, ist je einem Redner der einzelnen Antragstellerinnen/Antragsteller nacheinander nach der
-Seite 11 von 27
+(1) Dem antragstellenden Ratsmitglied bzw. der oder den antragstellenden Fraktion/en oder Gruppe/n ist zur Begründung ihres Antrages an erster Stelle das Wort zu erteilen. Ist der Antrag von mehreren Antragstellerinnen/Antragstellern im Sinne von § 3 Absatz 1 dieser Geschäftsordnung gemeinsam gestellt worden, ist je einem Redner der einzelnen Antragstellerinnen/Antragsteller nacheinander nach der größenmäßigen Gewichtung im Rat das Wort zu erteilen. Auf das Wort kann verzichtet werden.
+Seite 11 von 26
 
-größenmäßigen Gewichtung im Rat das Wort zu erteilen. Auf das Wort kann verzichtet werden.
 (2) Im Anschluss an die Antragsbegründung gemäß Absatz 1 erteilt die Sitzungsleiterin/der Sitzungsleiter das Wort nach der größenmäßigen Gewichtung im Rat. Die Begründung von etwaigen Zusatz- und Änderungsbeiträgen erfolgt im Rahmen dieses Redebeitrages. Ratsmitglieder, Fraktionen oder Gruppen, die bei der Antragsbegründung von gemeinsamen Anträgen auf das Wort verzichtet haben, bleiben in dieser ersten Beratungsrunde unberücksichtigt.
 (3) Sind alle Fraktionen, Gruppen und Ratsmitglieder in der ersten Beratungsrunde zu Wort gekommen und besteht ein Bedürfnis zur Durchführung einer zweiten Beratungsrunde, erfolgt die Worterteilung in der Reihenfolge der Wortmeldung. Hat eine Fraktion, eine Gruppe oder ein Ratsmitglied in der ersten Beratungsrunde auf das Rederecht bei der Begründung eines gemeinsamen Antrages verzichtet, ist es zu Beginn der zweiten Beratungsrunde zu erteilen.
 (4) Vor der Abstimmung hat die Oberbürgermeisterin/der Oberbürgermeister Gelegenheit zur Stellungnahme.
@@ -154,9 +153,10 @@ g) auf Verweisung an einen Ausschuss oder an die Oberbürgermeisterin/den Oberb�
 h) auf Ausschluss oder Wiederherstellung der Öffentlichkeit,
 i) auf namentliche oder geheime Abstimmung und auf zahlenmäßige Feststellung des Abstimmungsergebnisses, § 23 Absatz 2 und Absatz 3 Geschäftsordnung.
 (2) Über Geschäftsordnungsanträge nach Absatz 1 Satz 2 lit. a bis h ist in der Reihenfolge lit. a, b, c usw. abzustimmen.
-Seite 12 von 27
+(3) Wird ein Antrag zur Geschäftsordnung gestellt, so dürfen noch je ein Ratsmitglied pro Fraktion und die fraktionslosen Ratsmitglieder für oder gegen diesen Antrag sprechen, ausgenommen im Fall des Absatz 1 Satz 2 lit. b. Sodann ist über den
+Seite 12 von 26
 
-(3) Wird ein Antrag zur Geschäftsordnung gestellt, so dürfen noch je ein Ratsmitglied pro Fraktion und die fraktionslosen Ratsmitglieder für oder gegen diesen Antrag sprechen, ausgenommen im Fall des Absatz 1 Satz 2 lit. b. Sodann ist über den Antrag durch die Mitglieder des Rates abzustimmen. In den Fällen des Absatz 1 Satz 2 lit. i bedarf es keiner Abstimmung.
+Antrag durch die Mitglieder des Rates abzustimmen. In den Fällen des Absatz 1 Satz 2 lit. i bedarf es keiner Abstimmung.
 (4) In den Fällen des Absatz 1 Satz 2 lit. a bis h hat die Oberbürgermeisterin/der Oberbürgermeister vor der Abstimmung Gelegenheit zur Stellungnahme.
 (5) Ausführungen zur Geschäftsordnung dürfen sich nur auf das Verfahren bei der Behandlung des Beratungsgegenstandes, nicht aber auf die Sache beziehen. Sie dürfen nicht länger als drei Minuten dauern.
 § 18 Übergang zum nächsten Punkt der Tagesordnung (Erledigung)
@@ -167,10 +167,10 @@ Seite 12 von 27
 (1) Die Sitzungsleiterin/der Sitzungsleiter schließt die Beratung, wenn sich niemand mehr zu Wort gemeldet hat.
 (2) Wird Schluss der Beratung oder Schluss der Rednerliste beantragt, nennt die Sitzungsleiterin/der Sitzungsleiter die Namen derer, die sich noch zu Wort gemeldet haben, und lässt unmittelbar darauf über diesen Antrag abstimmen. Der Antrag kann nur von einem Mitglied des Rates gestellt werden, das sich nicht an der Beratung mit einem Redebeitrag beteiligt hat.
 (3) Nach Schluss der Beratung darf das Wort nur noch zur persönlichen Bemerkung oder zur Geschäftsordnung erteilt werden.
-Seite 13 von 27
-
 § 20 Vertagung und Unterbrechung
 (1) Vertagungsanträge sind nach § 19 Absatz 2 Satz 1 dieser Geschäftsordnung zu behandeln. Bei Annahme von Vertagungsanträgen sind die eingegangenen Wortmeldungen erledigt. Dieser Antrag ist erst zulässig, nachdem jeder Fraktion Gelegenheit gegeben wurde, zur Sache zu sprechen.
+Seite 13 von 26
+
 (2) Auf Antrag einer Fraktion oder eines einzelnen Mitglieds des Rates kann der Rat oder die Sitzungsleiterin/der Sitzungsleiter beschließen, die Sitzung für eine bestimmte Zeitdauer zu unterbrechen.
 § 21 Persönliche Bemerkungen
 (1) Zu persönlichen Bemerkungen wird erst nach Schluss der Beratung, aber vor der Abstimmung das Wort erteilt. Wird die Beratung in derselben Ratssitzung nicht abgeschlossen, muss die Sitzungsleiterin/der Sitzungsleiter schon am Ende dieser Sitzung das Wort erteilen.
@@ -180,30 +180,32 @@ Seite 13 von 27
 Vor Eintritt in die Tagesordnung oder nach Schluss der Beratung zu einem Tagesordnungspunkt kann die Sitzungsleiterin/der Sitzungsleiter das Wort zu einer tatsächlichen oder persönlichen Erklärung erteilen. Ihre Dauer darf nicht mehr als drei Minuten betragen.
 § 23 Abstimmungen (§ 50 GO)
 (1) Abgestimmt wird durch stillschweigende Zustimmung, Handheben oder Erheben von den Sitzen. Wenn über das Ergebnis der Abstimmung weder durch die Sitzungsleiterin/den Sitzungsleiter noch anschließend durch die Stimmzählerinnen/Stimmzähler - auch nach Gegenprobe und nach Feststellung der Stimmenthaltungen - Eindeutigkeit erzielt werden kann, wird durch Namensaufruf abgestimmt. Die Namen werden in alphabetischer Reihenfolge aufgerufen; die Oberbürgermeisterin/der Oberbürgermeister stimmt zuletzt ab.
-(2) Auf Verlangen von mindestens einem Fünftel der Mitglieder des Rates erfolgt geheime Abstimmung, auf Verlangen von mindestens einem Zehntel der Mitglieder des Rates namentliche Abstimmung zu Protokoll. Das Verlangen ist vor der
-Seite 14 von 27
+(2) Auf Verlangen von mindestens einem Fünftel der Mitglieder des Rates erfolgt geheime Abstimmung, auf Verlangen von mindestens einem Zehntel der Mitglieder des Rates namentliche Abstimmung zu Protokoll. Das Verlangen ist vor der Abstimmung an die Sitzungsleiterin/den Sitzungsleiter zu richten. Die geheime Abstimmung geht der namentlichen vor.
+(3) Soweit ein Mitglied des Rates es vor der Abstimmung verlangt, ist das zahlenmäßige Ergebnis festzustellen.
+Seite 14 von 26
 
-Abstimmung an die Sitzungsleiterin/den Sitzungsleiter zu richten. Die geheime Abstimmung geht der namentlichen vor. (3) Soweit ein Mitglied des Rates es vor der Abstimmung verlangt, ist das zahlenmäßige Ergebnis festzustellen.
-§ 24 Abstimmungsverfahren (1) Die Frage soll von der Sitzungsleiterin/dem Sitzungsleiter so gefasst werden, dass sie mit Ja oder Nein beantwortet werden kann. (2) Über den weitergehenden Antrag wird zuerst abgestimmt. Welcher Antrag der weitergehende ist, entscheidet im Zweifelsfalle die Sitzungsleiterin/der Sitzungsleiter. Bei Geschäftsordnungsanträgen ist § 17 Absatz 2 dieser Geschäftsordnung zu beachten. Über Anträge und Vorlagen, die aus mehreren Teilen bestehen, wird im Ganzen abgestimmt, es sei denn, eine Fraktion beantragt eine Einzelabstimmung; nach der Einzelabstimmung wird abschließend über den Gesamtantrag in der eventuell geänderten Form abgestimmt.
-§ 25 Wahlen (§ 50 GO) (1) Wahlen werden durch offene Abstimmung vollzogen. Die Abstimmung erfolgt im Regelfall durch Handzeichen. (2) Wenn das Gesetz es bestimmt oder wenn ein Fünftel der Mitglieder des Rates der offenen Abstimmung widerspricht, erfolgt die Wahl geheim. Bei Wahlen durch die Abgabe von Stimmzetteln nach § 50 Absatz 2 GO ist auf dem Stimmzettel der Name der/des zu Wählenden - bei nur einer vorgeschlagenen Person kann statt des Namens auch „Ja“ stehen - oder „Nein“ anzukreuzen. Unbeschriftete Stimmzettel gelten als Stimmenthaltung. Stimmzettel, die Zusätze jeglicher Art enthalten, sind ungültig.
-Seite 15 von 27
-
-§ 26 Ordnung in den Sitzungen (§ 51 GO)
-Zur Handhabung der Ordnung in den Sitzungen stehen der Oberbürgermeisterin/dem Oberbürgermeister die Rechte aus § 51 Absatz 2 bis 5 GO zu.
+§ 24 Abstimmungsverfahren
+(1) Die Frage soll von der Sitzungsleiterin/dem Sitzungsleiter so gefasst werden, dass sie mit Ja oder Nein beantwortet werden kann. (2) Über den weitergehenden Antrag wird zuerst abgestimmt. Welcher Antrag der weitergehende ist, entscheidet im Zweifelsfalle die Sitzungsleiterin/der Sitzungsleiter. Bei Geschäftsordnungsanträgen ist § 17 Absatz 2 dieser Geschäftsordnung zu beachten. Über Anträge und Vorlagen, die aus mehreren Teilen bestehen, wird im Ganzen abgestimmt, es sei denn, eine Fraktion beantragt eine Einzelabstimmung; nach der Einzelabstimmung wird abschließend über den Gesamtantrag in der eventuell geänderten Form abgestimmt.
+§ 25 Wahlen (§ 50 GO)
+(1) Wahlen werden durch offene Abstimmung vollzogen. Die Abstimmung erfolgt im Regelfall durch Handzeichen. (2) Wenn das Gesetz es bestimmt oder wenn ein Fünftel der Mitglieder des Rates der offenen Abstimmung widerspricht, erfolgt die Wahl geheim. Bei Wahlen durch die Abgabe von Stimmzetteln nach § 50 Absatz 2 GO ist auf dem Stimmzettel der Name der/des zu Wählenden - bei nur einer vorgeschlagenen Person kann statt des Namens auch „Ja“ stehen - oder „Nein“ anzukreuzen. Unbeschriftete Stimmzettel gelten als Stimmenthaltung. Stimmzettel, die Zusätze jeglicher Art enthalten, sind ungültig.
+§ 26 Ordnung in den Sitzungen (§ 51 GO) Zur Handhabung der Ordnung in den Sitzungen stehen der Oberbürgermeisterin/dem Oberbürgermeister die Rechte aus § 51 Absatz 2 bis 5 GO zu.
 § 27 (entfällt)
 § 28 (entfällt)
 § 29 Unterbrechung und Aufhebung der Sitzung
 Bei störender Unruhe in der Versammlung kann die Sitzungsleiterin/der Sitzungsleiter die Sitzung auf bestimmte oder unbestimmte Zeit unterbrechen, die Fraktionsvorsitzendenbesprechung einberufen oder die Sitzung aufheben.
+Seite 15 von 26
+
 § 30 Ordnung im Zuhörerraum
 (1) Wer im Zuhörerraum Beifall oder Missbilligung äußert oder die Ordnung oder den Anstand verletzt, kann von der Sitzungsleiterin/dem Sitzungsleiter zur Ordnung gerufen und auf ihre/seine Anordnung notfalls mit Gewalt entfernt werden.
 (2) Das Mitführen, Anbringen und Zeigen von Plakaten o. ä. im Zuhörerraum ist nicht gestattet. Bei störender Unruhe im Zuhörerraum kann die Sitzungsleiterin/der Sitzungsleiter die Sitzung unterbrechen und notfalls nach vorheriger Abmahnung den Zuhörerraum räumen lassen, wenn die störende Unruhe auf andere Weise nicht zu beseitigen ist.
 § 31 Niederschrift und Wortprotokoll (§ 52 Absatz 1 GO)
 (1) Zu Beginn der Ratsperiode bestellt der Rat auf Vorschlag der Oberbürgermeisterin/ des Oberbürgermeisters je eine städtische Bedienstete/einen städtischen Bediensteten zur Schriftführerin/zum Schriftführer bzw. stellvertretenden Schriftführerin/Schriftführer. Im Falle der Verhinderung wird zu Beginn der Sitzung eine Schriftführerin/ein Schriftführer auf Vorschlag der Oberbürgermeisterin/des Oberbürgermeisters durch den Rat ernannt.
 (2) Die Niederschrift wird von der Schriftführerin/dem Schriftführer angefertigt und unterschrieben. Anschließend wird sie der/dem Vorsitzenden zur Schlusszeichnung vorgelegt. Aus der Niederschrift soll das Abstimmungsverhalten der Oberbürgermeisterin/ des Oberbürgermeisters, der Ratsfraktionen und der nicht einer Fraktion angehörenden Ratsmitglieder hervorgehen.
-Seite 16 von 27
-
-(3) Außer der Niederschrift über die im Rat gefassten Beschlüsse (§ 52 Absatz 1 GO) wird über jede öffentliche Ratssitzung ein Wortprotokoll gefertigt. Die Verwaltung kann zur Erleichterung der Erstellung des Wortprotokolls und der Niederschrift die Verhandlungen auf Tonband aufnehmen. Das Tonband darf nicht für andere Zwecke verwendet werden und ist spätestens drei Monate nach Erstellung der Niederschrift zu löschen. (4) Jede Rednerin/jeder Redner erhält eine Ausfertigung ihrer/seiner Ausführungen, die sie/er nach Prüfung innerhalb von zehn Arbeitstagen an die Oberbürgermeisterin/den Oberbürgermeister zurückgibt. Andernfalls können Änderungen nicht berücksichtigt werden. (5) Redaktionelle Korrekturen sind zulässig, jedoch darf hierdurch nicht der Sinn der Rede geändert werden. (6) Die Niederschriften und Wortprotokolle werden im Ratsinformationssystem bereitgestellt.
-Seite 17 von 27
+(3) Außer der Niederschrift über die im Rat gefassten Beschlüsse (§ 52 Absatz 1 GO) wird über jede öffentliche Ratssitzung ein Wortprotokoll gefertigt. Die Verwaltung kann zur Erleichterung der Erstellung des Wortprotokolls und der Niederschrift die Verhandlungen auf Tonband aufnehmen. Das Tonband darf nicht für andere Zwecke verwendet werden und ist spätestens drei Monate nach Erstellung der Niederschrift zu löschen.
+(4) Jede Rednerin/jeder Redner erhält eine Ausfertigung ihrer/seiner Ausführungen, die sie/er nach Prüfung innerhalb von zehn Arbeitstagen an die Oberbürgermeisterin/den Oberbürgermeister zurückgibt. Andernfalls können Änderungen nicht berücksichtigt werden.
+(5) Redaktionelle Korrekturen sind zulässig, jedoch darf hierdurch nicht der Sinn der Rede geändert werden.
+(6) Die Niederschriften und Wortprotokolle werden im Ratsinformationssystem bereitgestellt.
+Seite 16 von 26
 
 § 32 Unterrichtung der Öffentlichkeit (§ 52 Absatz 2 GO)
 Der Inhalt der vom Rat gefassten Beschlüsse wird der Öffentlichkeit durch die Oberbürgermeisterin/den Oberbürgermeister zugänglich gemacht. Die Oberbürgermeisterin/der Oberbürgermeister stellt der Presse die erforderlichen Unterlagen zur Verfügung.
@@ -215,10 +217,9 @@ III. Ausschüsse
 (1) Auf das Verfahren in den Ausschüssen finden die für den Rat geltenden Vorschriften entsprechende Anwendung, soweit nicht in den folgenden Absätzen abweichende Regelungen getroffen werden oder sich aus den besonderen Umständen etwas anderes ergibt.
 (2) Mitglieder des Rates, eines Ausschusses oder einer Bezirksvertretung sowie sachkundige Bürgerinnen/ Bürger, die zu stellvertretenden Mitgliedern des Ausschusses gewählt worden sind, können an den nichtöffentlichen Sitzungen eines anderen Ausschusses als Zuhörerinnen/Zuhörer teilnehmen.
 (3) Die Ausschüsse können Unterausschüsse bilden. Das Ergebnis der Beratung in diesen Unterausschüssen bedarf der Bestätigung durch den Ausschuss.
-(4) Die Ausschüsse können Sachverständige und Vertreterinnen/Vertreter derjenigen Bevölkerungsgruppen, die von ihrer Entscheidung vorwiegend betroffen werden, zu den Beratungen zuziehen. Einen Beschluss hierüber muss der jeweilige Ausschuss vor Eintritt in die Tagesordnung fassen. Erfolgt die Anhörung zu einer Angelegenheit, die im nichtöffentlichen Teil der Sitzung behandelt wird, so ist zur Wahrung der Nichtöffentlichkeit die Anhörung deutlich von der Beratung und Beschlussfassung zu
-Seite 18 von 27
+(4) Die Ausschüsse können Sachverständige und Vertreterinnen/Vertreter derjenigen Bevölkerungsgruppen, die von ihrer Entscheidung vorwiegend betroffen werden, zu den Beratungen zuziehen. Einen Beschluss hierüber muss der jeweilige Ausschuss vor Eintritt in die Tagesordnung fassen. Erfolgt die Anhörung zu einer Angelegenheit, die im nichtöffentlichen Teil der Sitzung behandelt wird, so ist zur Wahrung der Nichtöffentlichkeit die Anhörung deutlich von der Beratung und Beschlussfassung zu trennen. Insbesondere muss die/der Betroffene den Sitzungsraum verlassen, wenn der Ausschuss von der Anhörung zur Beratung oder Beschlussfassung übergeht.
+Seite 17 von 26
 
-trennen. Insbesondere muss die/der Betroffene den Sitzungsraum verlassen, wenn der Ausschuss von der Anhörung zur Beratung oder Beschlussfassung übergeht.
 (5) Der Ausschuss ist unverzüglich einzuberufen, wenn ein Fünftel der Ausschussmitglieder oder eine Fraktion unter Angabe der zur Beratung zu stellenden Gegenstände es verlangt.
 (6) § 8 Absatz 2 dieser Geschäftsordnung ist entsprechend anzuwenden auf die Ausschussvorsitzende/ den Ausschussvorsitzenden und ihre/seine Stellvertreterinnen/Stellvertreter.
 (7) Die Verwaltung kann zur Erleichterung der Erstellung der Niederschrift die Verhandlungen des Ausschusses auf Tonband aufnehmen, wenn der Ausschuss es beschließt. Das Tonband darf nicht für andere Zwecke verwendet werden und ist spätestens drei Monate nach Erstellung der Niederschrift zu löschen. Die Ausschussniederschriften sollen zwei Wochen nach der Sitzung der/dem Ausschussvorsitzenden zur Unterschrift vorgelegt werden. Ein Wortprotokoll wird nicht gefertigt. Die Niederschriften über die Sitzungen der Ausschüsse sind innerhalb von drei Wochen der Oberbürgermeisterin/dem Oberbürgermeister, den Fraktionen, den nicht einer Fraktion angehörenden Ratsmitgliedern, den Ausschussmitgliedern und ihren Stellvertreterinnen/Stellvertretern zu übersenden.
@@ -226,10 +227,10 @@ trennen. Insbesondere muss die/der Betroffene den Sitzungsraum verlassen, wenn d
 (9) Von mindestens einem Fünftel der Ausschussmitglieder kann Abstimmung gemäß § 23 Absatz 2 dieser Geschäftsordnung verlangt werden. Dem Rat ist das genaue Abstimmungsergebnis bei der Übermittlung von Ausschussbeschlüssen in den entsprechenden Vorlagen schriftlich mitzuteilen.
 (10) Eine Stellvertretungsregelung für verhinderte Ausschussmitglieder wird zu Beginn einer Ratsperiode mit der Mehrheit der Stimmen der Ratsmitglieder beschlossen. In der Regel entspricht die Vertretungsreihenfolge der alphabetischen Reihenfolge der Fraktionsmitglieder. Dies gilt jedenfalls dann nicht, wenn eine persönliche Stellvertretung gesetzlich oder anderweitig vorgeschrieben ist.
 (11) Mündliche Anfragen an die Oberbürgermeisterin/den Oberbürgermeister, die in einer Ausschusssitzung gestellt werden, sollen bis zur nächsten Ausschusssitzung beantwortet werden.
-(12) Gemeinsame Sitzungen zweier oder mehrerer Ausschüsse können einberufen werden, wenn die in Frage kommenden Ausschüsse durch Beschluss zustimmen oder der Rat dies mit der Mehrheit der Stimmen der Ratsmitglieder beschließt. Zur gemeinsamen Sitzung laden die Ausschussvorsitzenden ein. Zu Beginn wird eine/einer der Ausschussvorsitzenden durch gemeinsame Abstimmung zur Sitzungsleiterin/zum Sitzungsleiter für die gemeinsame Sitzung bestimmt. Ebenso wird eine Schriftführerin bzw. ein Schriftführer benannt. Sonstige Abstimmungen
-Seite 19 von 27
+(12) Gemeinsame Sitzungen zweier oder mehrerer Ausschüsse können einberufen werden, wenn die in Frage kommenden Ausschüsse durch Beschluss zustimmen oder der Rat dies mit der Mehrheit der Stimmen der Ratsmitglieder beschließt. Zur gemeinsamen Sitzung laden die Ausschussvorsitzenden ein. Zu Beginn wird eine/einer der Ausschussvorsitzenden durch gemeinsame Abstimmung zur Sitzungsleiterin/zum Sitzungsleiter für die gemeinsame Sitzung bestimmt. Ebenso wird eine Schriftführerin bzw. ein Schriftführer benannt. Sonstige Abstimmungen erfolgen getrennt. Ein Ausschuss oder mehrere Ausschüsse können auch gemeinsam mit einer Bezirksvertretung tagen, soweit Angelegenheiten betroffen sind, die Entscheidungs- oder Anhörungsrechte der Bezirksvertretung berühren. Die vorstehenden Regelungen für gemeinsame Sitzungen von zwei oder mehreren
+Seite 18 von 26
 
-erfolgen getrennt. Ein Ausschuss oder mehrere Ausschüsse können auch gemeinsam mit einer Bezirksvertretung tagen, soweit Angelegenheiten betroffen sind, die Entscheidungs- oder Anhörungsrechte der Bezirksvertretung berühren. Die vorstehenden Regelungen für gemeinsame Sitzungen von zwei oder mehreren Ausschüssen geltend entsprechend mit der Maßgabe, dass auch die Bezirksvertretung der gemeinsamen Sitzung zustimmen muss und die Sitzung nur in dem Stadtbezirk stattfinden darf, für den die Bezirksvertretung zuständig ist.
+Ausschüssen geltend entsprechend mit der Maßgabe, dass auch die Bezirksvertretung der gemeinsamen Sitzung zustimmen muss und die Sitzung nur in dem Stadtbezirk stattfinden darf, für den die Bezirksvertretung zuständig ist.
 (13) Bei der Beratung über Anregungen und Beschwerden i. S. d. § 24 GO im Ausschuss für Anregungen und Beschwerden ist zunächst der Antragstellerin/dem Antragsteller für maximal fünf Minuten das Wort zu erteilen. Auf Wunsch kann die Antragstellerin/dem Antragsteller das Wort vor der Abstimmung erneut für maximal fünf Minuten erteilt werden. Bei mehreren Antragstellerinnen/Antragstellern erhält das Wort grundsätzlich eine von diesen zu benennende Vertreterin/ein von diesen zu benennender Vertreter; der Ausschuss für Anregungen und Beschwerden kann im Einzelfall beschließen, dass und wie die maximalen Redezeiten auf mehrere Antragstellerinnen/Antragsteller verteilt werden.
 § 35 Durchführung von Beschlüssen entscheidungsbefugter Ausschüsse (§ 57 Absatz 4 GO)
 (1) Beschlüsse von Ausschüssen mit Entscheidungsbefugnis können erst durchgeführt werden, wenn innerhalb einer Frist von vier Arbeitstagen nach der Sitzung weder von der Oberbürgermeisterin/vom Oberbürgermeister noch von einem Fünftel der Ausschussmitglieder schriftlich Einspruch eingelegt worden ist.
@@ -238,9 +239,10 @@ erfolgen getrennt. Ein Ausschuss oder mehrere Ausschüsse können auch gemeinsam
 IV. Fraktionen
 § 36 Fraktionen (§ 56 GO)
 (1) Ratsmitglieder und Mitglieder der Bezirksvertretungen können sich auf der Grundlage grundsätzlicher politischer Übereinstimmung zu möglichst gleichgerichtetem Wirken zu Fraktionen vereinigen. Ein Ratsmitglied bzw. ein Mitglied einer Bezirksvertretung kann nur einer Fraktion angehören.
-Seite 20 von 27
+(2) Die Bildung einer Fraktion ist der Oberbürgermeisterin/dem Oberbürgermeister von der/dem Fraktionsvorsitzenden schriftlich anzuzeigen. Die Mitteilung muss die genaue Bezeichnung der Fraktion, den Namen der/des Fraktionsvorsitzenden und der Stellvertreterinnen/Stellvertreter sowie aller der Fraktion angehörenden Ratsmitglieder enthalten. Die Fraktionen haben das Statut, welches sie sich nach
+Seite 19 von 26
 
-(2) Die Bildung einer Fraktion ist der Oberbürgermeisterin/dem Oberbürgermeister von der/dem Fraktionsvorsitzenden schriftlich anzuzeigen. Die Mitteilung muss die genaue Bezeichnung der Fraktion, den Namen der/des Fraktionsvorsitzenden und der Stellvertreterinnen/Stellvertreter sowie aller der Fraktion angehörenden Ratsmitglieder enthalten. Die Fraktionen haben das Statut, welches sie sich nach § 56 Absatz 2 Satz 3 GO geben müssen, der Oberbürgermeisterin/dem Oberbürgermeister binnen vier Wochen nach Gründung zu übersenden. Fraktionen in den Bezirksvertretungen übersenden die Anzeige nach Satz 1 und 2 und das Statut nach Satz 3 an die Bezirksbürgermeisterin/den Bezirksbürgermeister und die Oberbürgermeisterin/den Oberbürgermeister.
+§ 56 Absatz 2 Satz 3 GO geben müssen, der Oberbürgermeisterin/dem Oberbürgermeister binnen vier Wochen nach Gründung zu übersenden. Fraktionen in den Bezirksvertretungen übersenden die Anzeige nach Satz 1 und 2 und das Statut nach Satz 3 an die Bezirksbürgermeisterin/den Bezirksbürgermeister und die Oberbürgermeisterin/den Oberbürgermeister.
 (3) Ratsmitglieder und Mitglieder der Bezirksvertretungen, die keiner Fraktion angehören, können von einer Fraktion als Hospitantinnen/Hospitanten aufgenommen werden.
 (4) Die Auflösung einer Fraktion, der Wechsel im Fraktionsvorsitz, stellvertretenden Fraktionsvorsitz, die Aufnahme und das Ausscheiden von Mitgliedern sowie alle sonstigen Änderungen sind der Oberbürgermeisterin/dem Oberbürgermeister bzw. ihr/ihm und der Bezirksbürgermeisterin/dem Bezirksbürgermeister von der/dem Fraktionsvorsitzenden ebenfalls schriftlich anzuzeigen.
 (5) Ebenso teilen die Fraktionen der Oberbürgermeisterin/dem Oberbürgermeister unverzüglich die Namen der von ihnen gemäß § 58 Absatz 5 GO bestimmten Ausschussvorsitzenden mit.
@@ -248,11 +250,10 @@ Seite 20 von 27
 (1) Zur Vorbereitung ihrer Beratungen können die Fraktionen im Rahmen ihrer Aufgaben von der Oberbürgermeisterin/dem Oberbürgermeister Auskünfte über die von dieser/diesem oder in ihrem/seinem Auftrag gespeicherten Daten verlangen, soweit der Datenübermittlung nicht Rechtsvorschriften, insbesondere Bestimmungen der Datenschutzgesetze, entgegenstehen.
 (2) Ferner können die Fraktionen zur Vorbereitung ihrer Beratungen von der Oberbürgermeisterin/dem Oberbürgermeister schriftliche Auskünfte über von dieser/diesem eingebrachte Vorlagen verlangen.
 (3) Die Auskunftsersuchen nach den Absätzen 1 und 2 sind durch die/den Vorsitzenden der Fraktion bzw. die/den Geschäftsführer schriftlich unter wörtlicher Wiedergabe des Fraktionsbeschlusses an die Oberbürgermeisterin/den Oberbürgermeister zu richten. Der Bezirksbürgermeisterin/dem Bezirksbürgermeister des jeweiligen Bezirks ist durch die/den Vorsitzenden der Fraktion bzw. die Geschäftsführerin/den Geschäftsführer eine Kopie des Auskunftsersuchens zuzuleiten.
-(4) Die Bezirksbürgermeisterin/der Bezirksbürgermeister ist durch die Oberbürgermeisterin/den Oberbürgermeister über die einer Fraktion erteilten Auskünfte entsprechend zu informieren. Von schriftlich erteilten Auskünften erhalten
-Seite 21 von 27
-
-die anderen Fraktionen und die nicht einer Fraktion angehörenden Rats- bzw. Bezirksvertretungsmitglieder je eine Kopie.
+(4) Die Bezirksbürgermeisterin/der Bezirksbürgermeister ist durch die Oberbürgermeisterin/den Oberbürgermeister über die einer Fraktion erteilten Auskünfte entsprechend zu informieren. Von schriftlich erteilten Auskünften erhalten die anderen Fraktionen und die nicht einer Fraktion angehörenden Rats- bzw. Bezirksvertretungsmitglieder je eine Kopie.
 (5) Für die Verwertung der übermittelten Daten gelten die jeweiligen datenschutzrechtlichen Bestimmungen, insbesondere die Bestimmungen des Datenschutzgesetzes Nordrhein-Westfalen.
+Seite 20 von 26
+
 V. Bezirksvertretungen
 § 38 Allgemeines
 (1) Auf das Verfahren in den Bezirksvertretungen finden die für den Rat geltenden Bestimmungen entsprechende Anwendung, soweit sich nicht aus den nachfolgenden Absätzen oder den besonderen Umständen etwas anderes ergibt.
@@ -260,25 +261,26 @@ V. Bezirksvertretungen
 (2) Für jede Sitzung der Bezirksvertretung können pro Fraktion oder pro fraktionslosem Mitglied der Bezirksvertretung nicht mehr als drei Anfragen mit jeweils höchstens fünf Unterfragen gestellt werden. Anfragen sind spätestens am 3. Arbeitstag vor der Sitzung (bis 12 Uhr) bei der Schriftführung der Bezirksvertretung einzureichen; im Übrigen gilt § 4 dieser Geschäftsordnung entsprechend. Die Beantwortung einer Anfrage erfolgt spätestens in der übernächsten darauffolgenden Sitzung der Bezirksvertretung.
 (3) Die Bezirksvertretungen können Sachverständige und Einwohnerinnen/Einwohner zu einzelnen Punkten der Tagesordnung hören. § 34 Absatz 4 Sätze 2 bis 4 dieser Geschäftsordnung gilt entsprechend.
 (4) Rats- und Ausschussmitglieder können an den nichtöffentlichen Sitzungen der Bezirksvertretungen als Zuhörerinnen/Zuhörer teilnehmen.
+(4a) Von mindestens einem Viertel der Mitglieder der Bezirksvertretung kann Abstimmung nach § 23 Absatz 2 Satz 1 dieser Geschäftsordnung verlangt werden.
 (5) Die Beschlüsse der Bezirksvertretungen werden unverzüglich im Ratsinformationssystem dokumentiert.
 (6) § 8 Absatz 2 und 3 dieser Geschäftsordnung ist entsprechend anzuwenden auf die Bezirksbürgermeisterin/ den Bezirksbürgermeister und ihre/seine Stellvertreterinnen/Stellvertreter.
 (7) Ein Wortprotokoll über die Sitzungen der Bezirksvertretungen wird nicht gefertigt.
-(8) Bei Angelegenheiten, in denen eine oder mehrere Bezirksvertretungen ein Anhörungsrecht (§ 19 Absatz 1 Sätze 2, 3 und Absatz 4 der Hauptsatzung der Stadt
-Seite 22 von 27
+(8) Bei Angelegenheiten, in denen eine oder mehrere Bezirksvertretungen ein Anhörungsrecht (§ 19 Absatz 1 Sätze 2, 3 und Absatz 4 der Hauptsatzung der Stadt Köln in Verbindung mit § 2 Absatz 2 Zuständigkeitsordnung) haben, werden die Vorlagen der Bezirksvertretung gleichzeitig mit der Bereitstellung für den Rat bzw. die Ausschüsse im Ratsinformationssystem zugänglich gemacht.
+(9) Die Bezirksvertretung muss innerhalb von sechs Wochen nach Bereitstellung der Vorlage im Ratsinformationssystem die Angelegenheit erörtern. Findet innerhalb der Frist keine Sitzung der Bezirksvertretung statt, verlängert sich die Frist bis zur
+Seite 21 von 26
 
-Köln in Verbindung mit § 2 Absatz 2 Zuständigkeitsordnung) haben, werden die Vorlagen der Bezirksvertretung gleichzeitig mit der Bereitstellung für den Rat bzw. die Ausschüsse im Ratsinformationssystem zugänglich gemacht.
-(9) Die Bezirksvertretung muss innerhalb von sechs Wochen nach Bereitstellung der Vorlage im Ratsinformationssystem die Angelegenheit erörtern. Findet innerhalb der Frist keine Sitzung der Bezirksvertretung statt, verlängert sich die Frist bis zur nächsten Sitzung. Erfolgt eine Stellungnahme der Bezirksvertretung nicht innerhalb der Sechs-Wochen-Frist, gilt dies als Zustimmung. Wenn der Fachausschuss die Vorlage vertagt, verlängert sich die Beratungsfrist bis zur nächsten Sitzung der Bezirksvertretung. In begründeten Fällen kann mit Zustimmung der Oberbürgermeisterin/des Oberbürgermeisters und der Bezirksbürgermeisterin/des Bezirksbürgermeisters von der Sechs-Wochen-Frist abgewichen werden. Dieses Verfahren gilt nicht für die Anhörung der Bezirksvertretungen im Rahmen der Haushaltsplanberatungen. Bei dringlichen Angelegenheiten kann die Anhörung der Bezirksvertretung als Dringlichkeitsentscheidung erfolgen, § 36 Absatz 5 GO. In diesen Fällen endet die Frist nach Satz 1 mit dem Beschluss des entscheidungsbefugten Gremiums.
+nächsten Sitzung. Erfolgt eine Stellungnahme der Bezirksvertretung nicht innerhalb der Sechs-Wochen-Frist, gilt dies als Zustimmung. Wenn der Fachausschuss die Vorlage vertagt, verlängert sich die Beratungsfrist bis zur nächsten Sitzung der Bezirksvertretung. In begründeten Fällen kann mit Zustimmung der Oberbürgermeisterin/des Oberbürgermeisters und der Bezirksbürgermeisterin/des Bezirksbürgermeisters von der Sechs-Wochen-Frist abgewichen werden. Dieses Verfahren gilt nicht für die Anhörung der Bezirksvertretungen im Rahmen der Haushaltsplanberatungen. Bei dringlichen Angelegenheiten kann die Anhörung der Bezirksvertretung als Dringlichkeitsentscheidung erfolgen, § 36 Absatz 5 GO. In diesen Fällen endet die Frist nach Satz 1 mit dem Beschluss des entscheidungsbefugten Gremiums.
 (10) Die Anhörungsfrist ruht während der Ratsferien gemäß § 43 dieser Geschäftsordnung. Über den Antrag einer Bezirksbürgermeisterin/eines Bezirksbürgermeisters auf Verlängerung der Sechs-Wochen-Frist entscheidet die Oberbürgermeisterin/der Oberbürgermeister.
 (11) Das Ergebnis der Anhörung teilt die Oberbürgermeisterin/der Oberbürgermeister dem Rat bzw. dem entscheidungsbefugten Ausschuss schriftlich oder mündlich mit.
 (12) Über die Frage, ob eine bestimmte Anregung oder ein bestimmter Vorschlag eingebracht werden soll, entscheidet die Bezirksvertretung durch Beschluss mit einfacher Mehrheit. Bei der Übermittlung von Beschlüssen der Bezirksvertretung an den Rat und die Ausschüsse teilt die Verwaltung das genaue Abstimmungsergebnis in den entsprechenden Vorlagen mit.
 (13) Beschlüsse der Bezirksvertretungen, die Anregungen an den Rat oder einen Fachausschuss zum Inhalt haben, leitet die Oberbürgermeisterin/der Oberbürgermeister unverzüglich dem jeweiligen Gremium zu. Das Gremium nimmt durch Beschluss zur Anregung Stellung oder verweist sie an die zuständige Stelle. Die Oberbürgermeisterin/der Oberbürgermeister teilt den Bezirksvertretungen das Ergebnis der Behandlung ihrer Anregung in einer Mitteilung mit.
 (14) Zu Beschlüssen der Bezirksvertretungen, die Anregungen oder Vorschläge an die Oberbürgermeisterin/ den Oberbürgermeister zum Inhalt haben, also Geschäfte der laufenden Verwaltung betreffen, nimmt diese/dieser innerhalb von drei Monaten in einer Mitteilung Stellung.
 (15) Bei der Beratung über Anregungen und Beschwerden i. S. d. § 24 GO gilt § 34 Absatz 13 dieser Geschäftsordnung entsprechend.
-Seite 23 von 27
-
 (16) Für die Bezirksvertreterinnen/Bezirksvertreter besteht weiterhin die Möglichkeit der schriftlichen Eingabe von Anträgen und Anfragen, die die Bürgerämter bei Bedarf in das elektronische Sitzungsmanagement-Programm eingeben.
 § 39 Einwohnerfragestunde
 (1) Die Sitzungen der Bezirksvertretungen enthalten den obligatorischen Tagesordnungspunkt 1 „Einwohnerfragestunde“.
+Seite 22 von 26
+
 (2) Berechtigt, schriftliche Einwohnerfragen an die Verwaltung zu stellen, sind die Einwohnerinnen/Einwohner des Stadtbezirks. Bezirksvertreterinnen/Bezirksvertreter sind nicht berechtigt, Einwohnerfragen zu stellen, soweit sie diese auch als Anfragen nach § 4 dieser Geschäftsordnung stellen könnten.
 (3) Die Fragen müssen eine Angelegenheit zum Gegenstand haben, die den Stadtbezirk betrifft. Nicht zulässig sind Fragen, die
 a) eine Angelegenheit betreffen, die in nichtöffentlicher Sitzung zu behandeln ist,
@@ -289,11 +291,10 @@ c) laufende Verwaltungsverfahren betreffen, in denen der Fragestellerin/dem Frag
 (6) Die schriftliche Beantwortung der Fragen durch die Verwaltung wird an die Fragenden übermittelt und soll innerhalb von höchstens vier Wochen erfolgen. Die Fragen und die Beantwortungen werden im Ratsinformationssystem bereitgestellt.
 VI. Sonstige Bestimmungen
 § 40 Akteneinsichtsrecht
-(1) Bei der Akteneinsicht nach § 55 GO werden die Akten in der Regel für die Dauer einer Woche von der Oberbürgermeisterin/dem Oberbürgermeister zur Verfügung
-Seite 24 von 27
-
-gestellt, wenn nicht in den Fällen des § 55 Absatz 4 GO jeweils der Rat, die Bezirksvertretung oder der Ausschuss eine längere Frist beschließt. Die Akteneinsicht findet im Rathaus in einem von der Oberbürgermeisterin/dem Oberbürgermeister festzulegenden Raum statt. Das Akteneinsichtsrecht schließt das Recht zur Vervielfältigung nicht ein.
+(1) Bei der Akteneinsicht nach § 55 GO werden die Akten in der Regel für die Dauer einer Woche von der Oberbürgermeisterin/dem Oberbürgermeister zur Verfügung gestellt, wenn nicht in den Fällen des § 55 Absatz 4 GO jeweils der Rat, die Bezirksvertretung oder der Ausschuss eine längere Frist beschließt. Die Akteneinsicht findet im Rathaus in einem von der Oberbürgermeisterin/dem Oberbürgermeister festzulegenden Raum statt. Das Akteneinsichtsrecht schließt das Recht zur Vervielfältigung nicht ein.
 (2) Die Vornahme der Akteneinsicht nach § 55 Absätze 2, 3 und 4 und 5 GO wird von den jeweils Einsichtnehmenden bescheinigt.
+Seite 23 von 26
+
 (3) Die Oberbürgermeisterin/der Oberbürgermeister berichtet halbjährlich dem Hauptausschuss wann, durch wen und in welcher Sache Akteneinsicht genommen worden ist.
 § 41 Unterrichtung des Rates gemäß § 113 Absatz 5 GO
 (1) Die Unterrichtung des Rates gemäß § 113 Absatz 5 GO erfolgt im Finanzausschuss in nichtöffentlicher Sitzung.
@@ -305,27 +306,23 @@ gestellt, wenn nicht in den Fällen des § 55 Absatz 4 GO jeweils der Rat, die B
 ● Eckdaten der Jahresrechnung, Verwendung von Bilanzgewinnen
 ● Erhöhungen und Herabsetzungen des Stamm- bzw. Grundkapitals
 ● wesentliche Umstrukturierungsmaßnahmen
-Seite 25 von 27
-
 ● Personalentscheidungen auf Vorstands- bzw. Geschäftsführerebene
 ● erstmalige Beteiligungen und Veränderungen bestehender Beteiligungen an anderen juristischen Personen oder Personenvereinigungen.
-(5) Die Unterrichtung hat so rechtzeitig zu erfolgen, dass - soweit dem nicht zwingende Vorschriften insbesondere des Gesellschaftsrechts entgegenstehen – eine Willensbildung im Rat und eine diesbezügliche Einflussnahme auf die Entscheidung in dem jeweiligen Organ der juristischen Person oder Personenvereinigung, an der die Stadt Köln beteiligt ist, noch möglich ist.
+(5) Die Unterrichtung hat so rechtzeitig zu erfolgen, dass - soweit dem nicht zwingende Vorschriften insbesondere des Gesellschaftsrechts entgegenstehen – eine Willensbildung im Rat und eine diesbezügliche Einflussnahme auf die
+Seite 24 von 26
+
+Entscheidung in dem jeweiligen Organ der juristischen Person oder Personenvereinigung, an der die Stadt Köln beteiligt ist, noch möglich ist.
 (6) Wenn die/der zur Unterrichtung Verpflichtete gemäß § 113 Absatz 5 GO zu unterrichten hat, so teilt sie/er dies unverzüglich der/dem Ausschussvorsitzenden mit. Die/der Ausschussvorsitzende nimmt die Unterrichtung in die Tagsordnung für die nächste Sitzung des Finanzausschusses auf. Sie/er lädt die/den zur Unterrichtung Verpflichtete/Verpflichteten bei Bedarf zu dieser Sitzung ein, sofern diese/dieser nicht Mitglied des Finanzausschusses ist. Teilt die/der zur Unterrichtung Verpflichtete der/dem Ausschussvorsitzenden erst nach Ablauf der Einladungsfrist für die nächste Sitzung des Finanzausschusses mit, dass sie/er gemäß § 113 Absatz 5 GO zu unterrichten hat und teilt sie/er der/dem Ausschussvorsitzenden zugleich mit, dass die Unterrichtung keinen Aufschub duldet oder aber von äußerster Dringlichkeit ist, so entscheidet der Finanzausschuss in seiner nächsten Sitzung, ob die Tagesordnung um die Unterrichtung erweitert wird oder die Unterrichtung in der folgenden Sitzung erfolgt. Hält die/der zur Unterrichtung Verpflichtete die Unterrichtung nicht für unaufschiebbar bzw. dringlich, so erfolgt die Unterrichtung in der übernächsten Sitzung des Finanzausschusses.
 (7) Die Unterrichtung erfolgt schriftlich. Nachfragen sind möglich.
 § 42 Bericht über die Beschlüsse des Rates, der Ausschüsse und der Bezirksvertretungen
 Die Oberbürgermeisterin/der Oberbürgermeister berichtet dem Rat bzw. den Bezirksvertretungen einmal im Jahr sowie fortlaufend im Ratsinformationssystem über den Ausführungsstand der Beschlüsse des Rates und seiner Ausschüsse bzw. der Bezirksvertretungen soweit diese Beschlüsse auf Anträgen der Fraktionen im Rat oder den Bezirksvertretungen zurückzuführen sind. Diejenigen Beschlüsse, die in nichtöffentlicher Sitzung gefasst wurden, sowie die Beschlüsse der Unterausschüsse, sind von der Berichtspflicht ausgenommen.
 § 43 Ratsferien
-Ratsferien sind die sitzungsfreien Zeiten während der Schulferien in NordrheinWestfalen. In dieser Zeit finden außer evtl. notwendiger Sondersitzungen oder den Sitzungen des Hauptausschusses keine Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen statt. Die Ratsferien beginnen in der Regel mit dem ersten
-Seite 26 von 27
-
-Tag und enden mit dem letzten Tag der Schulferien. Sie können bei Bedarf erweitert werden.
+Ratsferien sind die sitzungsfreien Zeiten während der Schulferien in NordrheinWestfalen. In dieser Zeit finden außer evtl. notwendiger Sondersitzungen oder den Sitzungen des Hauptausschusses keine Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen statt. Die Ratsferien beginnen in der Regel mit dem ersten Tag und enden mit dem letzten Tag der Schulferien. Sie können bei Bedarf erweitert werden.
 § 44 Kommunalverfassungsrechtliche Streitigkeiten
-(1) Entstehen Streitigkeiten darüber, ob Rechte einer Bezirksvertretung durch den Rat, einen entscheidungsbefugten Ausschuss oder die Oberbürgermeisterin/den Oberbürgermeister verletzt worden sind, ist vor Anrufung des Verwaltungsgerichtes die Angelegenheit dem Hauptausschuss in der Form eines Antrages gemäß § 3 dieser Geschäftsordnung zu unterbreiten. Das Gleiche gilt, wenn Rechte einer Fraktion in der Bezirksvertretung oder eines Mitgliedes einer Bezirksvertretung verletzt worden sind. Der Hauptausschuss soll durch weitestgehende Klärung der Rechtslage und Vermittlung zwischen den Betroffenen die Führung eines Rechtsstreites zu verhindern suchen.
-(2) Bei Streitigkeiten der Bezirksvertretungen untereinander und zwischen Bezirksvertretungen und den Ausschüssen über Zuständigkeiten im Einzelfall entscheidet der Hauptausschuss.
-(3) Entstehen Streitigkeiten darüber, ob Rechte einer Ratsfraktion oder eines Ratsmitgliedes durch den Rat oder die Oberbürgermeisterin/den Oberbürgermeister verletzt wurden, findet Absatz 1 entsprechende Anwendung.
-(4) Bei der Erörterung von Streitigkeiten i. S. d. Absätze 1, 2 und 3 ist den Beteiligten Gelegenheit zur Darlegung ihres Standpunktes einzuräumen. Soweit die Streitigkeit die Rechte einer Bezirksvertretung, eines Ausschusses oder einer Fraktion betrifft, erfolgt die Stellungnahme im Hauptausschuss durch die/den Vorsitzenden des jeweiligen Gremiums. Geht es um die Rechte einer Einzelnen/eines Einzelnen, kann die/der Betroffene selbst Stellung nehmen.
-§ 45 Auslegung der Geschäftsordnung
-In Zweifelsfragen berät der Hauptausschuss über die Auslegung und Anwendung dieser Geschäftsordnung. Kann keine Einigung erzielt werden entscheidet der Hauptausschuss.
-§ 46 Inkrafttreten
-Diese Geschäftsordnung tritt zum 1. November 2025 in Kraft. Zugleich tritt die seit dem 1. Juli 2020 geltende Geschäftsordnung außer Kraft.
-Seite 27 von 27
+(1) Entstehen Streitigkeiten darüber, ob Rechte einer Bezirksvertretung durch den Rat, einen entscheidungsbefugten Ausschuss oder die Oberbürgermeisterin/den Oberbürgermeister verletzt worden sind, ist vor Anrufung des Verwaltungsgerichtes
+Seite 25 von 26
+
+die Angelegenheit dem Hauptausschuss in der Form eines Antrages gemäß § 3 dieser Geschäftsordnung zu unterbreiten. Das Gleiche gilt, wenn Rechte einer Fraktion in der Bezirksvertretung oder eines Mitgliedes einer Bezirksvertretung verletzt worden sind. Der Hauptausschuss soll durch weitestgehende Klärung der Rechtslage und Vermittlung zwischen den Betroffenen die Führung eines Rechtsstreites zu verhindern suchen. (2) Bei Streitigkeiten der Bezirksvertretungen untereinander und zwischen Bezirksvertretungen und den Ausschüssen über Zuständigkeiten im Einzelfall entscheidet der Hauptausschuss. (3) Entstehen Streitigkeiten darüber, ob Rechte einer Ratsfraktion oder eines Ratsmitgliedes durch den Rat oder die Oberbürgermeisterin/den Oberbürgermeister verletzt wurden, findet Absatz 1 entsprechende Anwendung. (4) Bei der Erörterung von Streitigkeiten i. S. d. Absätze 1, 2 und 3 ist den Beteiligten Gelegenheit zur Darlegung ihres Standpunktes einzuräumen. Soweit die Streitigkeit die Rechte einer Bezirksvertretung, eines Ausschusses oder einer Fraktion betrifft, erfolgt die Stellungnahme im Hauptausschuss durch die/den Vorsitzenden des jeweiligen Gremiums. Geht es um die Rechte einer Einzelnen/eines Einzelnen, kann die/der Betroffene selbst Stellung nehmen.
+§ 45 Auslegung der Geschäftsordnung In Zweifelsfragen berät der Hauptausschuss über die Auslegung und Anwendung dieser Geschäftsordnung. Kann keine Einigung erzielt werden entscheidet der Hauptausschuss.
+§ 46 Inkrafttreten Diese Geschäftsordnung tritt zum 20. März 2026 in Kraft. Zugleich tritt die seit dem 1. November 2025 geltende Geschäftsordnung außer Kraft.
+Seite 26 von 26
