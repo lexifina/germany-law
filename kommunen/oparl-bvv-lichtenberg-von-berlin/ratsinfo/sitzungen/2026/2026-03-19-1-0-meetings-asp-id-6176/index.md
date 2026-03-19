@@ -1,0 +1,60 @@
+# 50. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-03-19T17:00:00+01:00
+- Ende: 2026-03-19T22:05:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6176
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6176
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=447716
+
+## Tagesordnung
+
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Erholungsgrundstücke am Grünen Gleisbogen nicht schleifen! - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Dathepromenade aufwerten – Heinrich Dathe würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Slam Dunk statt Stolperfalle - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Transparenz und Beteiligung beim Bibliotheksstandort Neu-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Schluss mit der Rattenplage - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Müll in der Judith-Auer-Straße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Höhere Verkehrssicherheit für Alle am Bahnhof Karlshorst und entlang der Treskowallee - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Sondermittelantrag 29. Hohenschönhausener Gartenlauf - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Untersuchung und konzeptionelle Umgestaltung der Rheinsteinstraße zur Verbesserung der Verkehrssituation und Erhöhung der Verkehrssicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Verkehrssicherheit jetzt - Mehr Verkehrssicherheit für die Kreuzung Marksburgstraße / Lisztstraße / Sangeallee aus dem Sondervermögen finanzieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Vom Bretterzaun ins Internet: Bauinformationen per QR-Code zugänglich machen - überwiesen
+- TOP 5.11: Bitte ziehen Sie eine Nummer – und nehmen Sie ein Glas Wasser - überwiesen
+- TOP 5.12: Wenden auf der Treskowallee in Höhe der Rheinsteinstraße erneut ermöglichen - überwiesen
+- TOP 5.13: Bahnhof Lichtenberg: Ordnung herstellen, Verantwortung wahrnehmen - überwiesen
+- TOP 5.14: Ordnung und Sauberkeit auf der Straße Am Wasserwerk - überwiesen
+- TOP 5.15: Verkehrssituation und Dialog mit der islamischen Gemeinde an der Straße Am Wasserwerk - überwiesen
+- TOP 5.16: Sicherung und Weiterentwicklung des Künstlerstandorts Gaswerksiedlung Rummelsburg - überwiesen
+- TOP 5.17: Sanierung und Neugestaltung des Schulhofs der Richard-Wagner-Grundschule - überwiesen
+- TOP 5.18: Nachhaltige Instandsetzung des Fußweges Landsberger Allee / Zechliner Straße - überwiesen
+- TOP 5.19: Versorgung und Begegnung im Mühlengrund stärken - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 8.1: Wahl eines Mitglieds des Bezirksamtes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 10.1: Resolution: Nein zum Volksbegehren „Berlin autofrei“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Wahrnehmung des Wahlrechts durch obdachlose und wohnungslose Menschen unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Grünen Gleisbogen mit naturnahen Kleingärten gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Grüner Gleisbogen: 3,5 Millionen Euro Fördergeld für einen neuen Park mit Natur- und Spielflächen jetzt nutzen - in der BVV abgelehnt
+- TOP 10.5: Kommunale Zusammenarbeit des Bezirks Lichtenberg mit dem Landkreis Barnim intensivieren - in der BVV abgelehnt
+- TOP 10.6: Stille Stunden im lauten Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Gemeinsam statt einsam: Bezirkliche Räume für Advents-, Weihnachts- und Silvesterangebote bereitstellen und bewerben - überwiesen
+- TOP 13.1: Verkehrsfluss optimieren: Lichtenberg als Pilotbezirk für „Google Green Light“ - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Sondermittelantrag Familienfest zum Lichtenberger Familienrenntag am 06.09.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 14.1: Endlich Sicherheit für Beschäftigte der Musikschulen schaffen - überwiesen
+- TOP 14.2: Mietwucher in Lichtenberg bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Hitzeschutz im Bezirk stärken – Wo sind die kühlen Orte? - überwiesen
+- TOP 14.4: Lichtenberg krisenfest machen – Katastrophenschutz wirksam stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Moderne Verwaltung: KI-Unterstützung bei der Bearbeitung von Wohngeldanträgen - in der BVV abgelehnt
+- TOP 14.6: Europas Freiheit bewahren – öffentliche Unterstützung der Petition „Bargeld in Europa gesetzlich schützen!“ - in der BVV abgelehnt
+- TOP 14.7: Gesellschaftliche Teilhabe ohne Hürden – bezirkliche Unterstützung der Petition „Leben ohne Digitalzwang ins Grundgesetz!“ - in der BVV abgelehnt
+- TOP 14.8: Spielplatz Freiaplatz wieder freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Resolution: Existenzrecht Israels und Schutz jüdischen Lebens sind unantastbar - vertagt
