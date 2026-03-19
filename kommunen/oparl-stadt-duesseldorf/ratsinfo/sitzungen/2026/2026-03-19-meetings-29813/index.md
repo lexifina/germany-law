@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-19T09:00:00+01:00
+- Ende: 2026-03-19T17:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29813
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29813
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 19.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581002.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 19.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581002.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 19.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581002.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 11.12.2025 (SI-RAT/008/2025) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Theodor-Heuss-Brücke und noch heute auffindbarer Silvestermüll - zurückgewiesen
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Gedenken an den am 14. März 2026 verstorbenen Philosophen und Soziologen Jürgen Habermas - schriftlich beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Ausscheiden der DEG in den Preplayoffs und den Folgen für den Hallen-Betreiber, die Caterer, die Nahrungsmittelverkäufer im Dome, etc. - schriftlich beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Entscheidung, dass NHL-Eishockeyspiele im PSD Bank Dome in Düsseldorf ausgetragen werden - schriftlich beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Blumen, Blumengestecke, Kränze, etc. die von der Landeshauptstadt Düsseldorf bei vielen Gelegenheiten genutzt werden - schriftlich beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Rheinbahnen und -busse, die aus unterschiedlichen Gründen nicht für den Fahrbetrieb zur Verfügung stehen - schriftlich beantwortet
+- TOP 4.3: Anfrage der AfD-Ratsfraktion: Detaillierte Aufschlüsselung der Kosten für die Unterbringung abgelehnter Asylbewerber in Düsseldorf - schriftlich beantwortet
+- TOP 4.4: Anfrage der AfD-Ratsfraktion: Anlaufstellen für Frauen in Not während der Karnevals-Session 2026 - schriftlich beantwortet
+- TOP 4.5: Anfrage der Ratsfrau Dufhues: Finanzielle Risiken, Haftungsumfang und Vereinbarkeit mit dem Haushaltsrecht im Rahmen der Bewerbung um die Olympischen und Paralympischen Spiele - schriftlich beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Lemmer: städtische Bedienstete, die über das PEM in Ämtern und städtischen Betrieben eingesetzt werden - schriftlich beantwortet
+- TOP 4.7: Anfrage des Ratsherrn Lemmer: "Insektenschau - Kunstwerke der Evolution" in Düsseldorf - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfrau Mirus: Gasnetz und Gebäudemodernisierungsgesetz - schriftlich beantwortet
+- TOP 5: Anwendung der Novelle des Baugesetzbuches („Bau-Turbo") - Grundsatzbeschluss - abweichend beschlossen
+- TOP 5.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/007/2026 - mehrheitlich beschlossen
+- TOP 5.2: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage APS/007/2026 - mehrheitlich abgelehnt
+- TOP 5.3: mündlicher Änderungsantrag der FDP-Ratsfraktion
+- TOP 6: Grundstücksangelegenheit - abweichend beschlossen
+- TOP 6.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage APS/145/2025 - mehrheitlich abgelehnt
+- TOP 6.2: Änderungsantrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU zur Vorlage APS/145/2026 - mehrheitlich beschlossen
+- TOP 7: Zweckverband Verkehrsverbund Rhein Ruhr - Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2026 - einstimmig beschlossen
+- TOP 8: Kinder- und Jugendförderplan 2026 - 2030 - mehrheitlich beschlossen
+- TOP 9: Gestaltungskonzept der Oberflächen Königsallee Westseite - mehrheitlich beschlossen
+- TOP 10: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses: „Errichtung einer Traglufthalle (Dreifachsporthalle) an der Heidelberger Straße 4 als Interim zur Aufrechterhaltung des Schulsports der Dieter-Forte-Gesamtschule“ - einstimmig beschlossen
+- TOP 11: Entsendung von Mitgliedern des Ausschusses für Chancengerechtigkeit und Integration als sachkundige Einwohner*innen in die Ratsausschüsse - zurückgezogen
+- TOP 12: Jugendhilfeausschuss -Wahl von stellvertretenden Mitgliedern und Bestellung beratender Mitglieder- - einstimmig beschlossen
+- TOP 13: Besetzung der Ausschüsse durch den Jugendrat - einstimmig beschlossen
+- TOP 14: Einkünfte aus Nebentätigkeiten im Jahr 2025 für Herrn Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 15: Etatberatung 2026
+- TOP 15.1: Veränderungsverzeichnis der Beschlüsse der etatberatenden Fachausschüsse zum Haushaltsplan-Entwurf 2026 - mehrheitlich beschlossen
+- TOP 15.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Jahr 2026 mit Anlagen - mehrheitlich beschlossen
+- TOP 15.3: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2026 - mehrheitlich beschlossen
+- TOP 15.4: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2026 mit Anlagen - mehrheitlich beschlossen
+- TOP 16: Landtagswahl 2027 – Wahl der Mitglieder und stellvertretenden Mitglieder des Kreiswahlausschusses - einstimmig beschlossen
