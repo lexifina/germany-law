@@ -1,0 +1,97 @@
+# 7. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-03-19T15:30:00+01:00
+- Ende: 2026-03-19T21:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33687
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33687
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag Bündnis 90/Die Grünen, SPD, Die Linke, Volt, FDP/KSG, BSW und RM Jüde betreffend" Kürzungen bei den Integrations- und Sprachkursen gefährden unsere Integrationsarbeit!" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Antrag der AfD-Fraktion betreffend "Olympische Träume auf maroden Treppchen" - endgültig abgelehnt
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Antrag Bündnis 90/Die Grünen, CDU, SPD, Die Linke Volt, FDP/KSG, BSW, Die PARTE und RM Jüde betreffend "Beantragung einer Ausnahmegenehmigung gemäß § 129 GO NRW zur Besetzung der Ratsausschüsse mit sachkundigen Einwohnerinnen und Einwohnern" - ungeändert beschlossen
+- TOP 3.2: Antrag der AfD-Fraktion betreffend "Unerträgliche Zustände in Kölner Kindertagesstätten – Maßnahmenpaket zur sofortigen Entlastung von Familien und Personal" - endgültig abgelehnt
+- TOP 3.3: Antrag der Fraktionen CDU und FDP/KSG betreffend "Baustellenumsetzungsmanagement stärken! Effizienz, Koordination und Transparenz – mit KI verbessern" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag der Volt-Fraktion - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.4: Antrag der AfD-Fraktion betreffend "Der Kampf gegen Antisemitismus ist Chefsache – Einrichtung des Amtes eines Antisemitismusbeauftragten der Stadt Köln in Person des Oberbürgermeisters" - endgültig abgelehnt
+- TOP 3.5: Antrag der Gruppe BSW betreffend "Aufhebung des Schließungsbeschlusses des Kölner Stadtrats vom 15.6.2023 für das Krankenhauses Holweide und die Kinderklinik Amsterdamer Straße, Erhalt der flächendeckenden Krankenhausversorgung in Köln" - endgültig abgelehnt
+- TOP 3.6: Antrag der Gruppe Die PARTEI betreffend "Vorzeitiges Hissen der Flagge „Mayors for Peace“ ab dem 6.2.2026" - endgültig abgelehnt
+- TOP 3.7: Antrag der Fraktion FDP/KSG betreffend "Unverzügliche Öffnung der Trankgasse Richtung Westen für den MIV" - endgültig abgelehnt
+- TOP -: Änderungsantrag der CDU-Fraktion - endgültig abgelehnt
+- TOP 3.8: Dringlichkeitsantrag der Gruppe BSW betreffend "Fair Play bei Olympia: Barrierefreie und neutrale Veröffentlichung der Abstimmungsempfehlungen" - vertagt
+- TOP 3.9: Dringlichkeitsantrag Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt, FDP/KSG, BSW, Die PARTEI und RM Jüde betreffend "Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen" - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der AfD-Fraktion betreffend "Linke Vereinsstrukturen in Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - Kenntnis genommen
+- TOP 4.2: Anfrage der AfD-Fraktion betreffend "Kindertagespflege in Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 05.02.2026 - Kenntnis genommen
+- TOP 4.3: Anfrage der Gruppe BSW betreffend "Veröffentlichung der Corona-Protokolle der Stadt Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.03.2026 - Kenntnis genommen
+- TOP 4.4: Anfrage der Gruppe BSW betreffend "Finanzielle Risiken, Haftungsumfang und Vereinbarkeit mit dem Haushaltsrecht im Rahmen der Bewerbung um die Olympischen und Paralympischen Spiele" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 19.03.2026 - Kenntnis genommen
+- TOP 4.5: Anfrage der FDP/KSG-Fraktion betreffend "Implementierung der IHRA bei der Stadtverwaltung" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 16.03.2026 - Kenntnis genommen
+- TOP 4.6: Anfrage der AfD-Fraktion betreffend "Baurechtliche Entscheidung zum geplanten Suchthilfezentrum im Pantaleonsviertel" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 19.03.2026 - Kenntnis genommen
+- TOP 4.7: Anfrage der Gruppe Die PARTEI betreffend "Zubetonierung des Ebertplatzes" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 19.03.2026 - Kenntnis genommen
+- TOP 5: Anregungen
+- TOP 5.1: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.5: Anregungen und Stellungnahmen des Ausschusses für Chancengerechtigkeit und Integration gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Änderung der Betriebssatzung für das Gürzenich-Orchester Köln - ungeändert beschlossen
+- TOP 6.1.2: Aufstellungsbeschluss zur 14. Änderung des Landschaftsplans Köln zur Ausweisung des Naturschutzgebietes N 25 "Auf dem Dreißiger" - ungeändert beschlossen
+- TOP 6.1.3: Satzung über die abweichende Herstellung der Erschließungsanlage Von-der-Leyen-Straße/Marthastraße von Dellbrücker Hauptstraße bis Von-Quadt-Straße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Änderungsverordnung zum Kölner Taxitarif - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Volt und FDP/KSG - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen CDU und SPD - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.3.1: Brüsseler Platz: Ordnungsbehördliche Verordnung über ein nächtliches Alkoholkonsumverbot und Alkoholmitführverbot - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und SPD - ungeändert beschlossen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtungen des Rates gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW sowie § 25 KomHVO
+- TOP 7.1: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung": Umgestaltung der Pipinstraße und Herstellung einer Freitreppe an St. Maria im Kapitol - Kenntnis genommen
+- TOP 7.2: Ergebnis der Antragstellung zum Entschuldungsprogramm des Landes NRW - Altschuldenentlastungsgesetz NRW (ASEG NRW) - Kenntnis genommen
+- TOP 7.3: Generalinstandsetzung der Mönchsgasse zwischen Jesuitengasse und Simonskaul - Kenntnis genommen
+- TOP 7.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55, 50769 Köln-Merkenich - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 7.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich, hier: Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 7.6: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 8: Über- und außerplanmäßige Aufwendungen
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Grundsatzbeschluss und Leitlinien zum "Bau-Turbo" - ungeändert beschlossen
+- TOP -: Änderungsantrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 10.2: Vorgehensmodell für die dauerhafte Regelung „Straßenmusik im Domumfeld“ - ungeändert beschlossen
+- TOP 10.3: Digitale Rekonstruktion und Formierung Kölner Fragmente (DRUF-KF) - ungeändert beschlossen
+- TOP 10.4: RheinEnergie AG hier: Energieversorgung Leverkusen Verwaltungs- und Beteiligungsgesellschaft mbH - Anpassung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 10.5: Prüfbeschluss betreffend Integration des Museum Selma in das Kulturzentrum am Neumarkt (KAN) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 10.6: KölnBäder GmbH - Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 11: Bauplanungsrechtliche Vorlagen
+- TOP 12: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 13: Gremienbesetzungen
+- TOP 13.1: Benennung von (stellvertretenden) Mitgliedern für die Kommunale Gesundheitskonferenz Köln durch den Rat der Stadt Köln - ungeändert beschlossen
+- TOP 13.2: Mitgliederwechsel im Jugendhilfeausschuss: Polizeipräsidium Köln - ungeändert beschlossen
+- TOP 13.3: Integriertes Stadtentwicklungskonzept Porz-Mitte - vertagt
+- TOP 13.4: Mitgliederwechsel im Jugendhilfeausschuss: Neues stellvertretend beratendes Pflichtmitglied für die katholische Kirche - ungeändert beschlossen
+- TOP 13.5: Bestellung von nicht dem Rat angehörenden Mitgliedern für den Umlegungsausschuss der Stadt Köln - ungeändert beschlossen
+- TOP 13.6: Mitgliederwechsel im Jugendhilfeausschuss: Handwerkerinnenhaus - ungeändert beschlossen
+- TOP 13.7: Antrag der Fraktion Bündnis 90/Die Grünen betreffend" Umbesetzung Beirat der Justizvollzugsanstalt Köln" - ungeändert beschlossen
+- TOP 13.8: Antrag der SPD-Fraktion betreffend "Umbesetzung Vertreter für den Polizeibeirat beim Polizeipräsidium Köln" - ungeändert beschlossen
+- TOP 14: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 14.1: Überplanmäßiger Aufwand für das Gamescom City Festival 2026 in der Produktgruppe - 1501 Wirtschaft und Tourismus - ungeändert beschlossen
+- TOP 15: -
