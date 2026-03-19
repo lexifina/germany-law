@@ -126,6 +126,5 @@
 - [§ 65 Verordnungsermächtigung zur Besonderen Ausgleichsregelung](0065.md)
 - [§ 66 Allgemeine Übergangsbestimmungen](0066.md)
 - [§ 67 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung](0067.md)
-- [§ 68 (weggefallen)](0068.md)
 - [Anlage 1 (zu § 2)Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs](anlage-1.md)
 - [Anlage 2 (zu § 31)Stromkosten- oder handelsintensive Branchen](anlage-2.md)

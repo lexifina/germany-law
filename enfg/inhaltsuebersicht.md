@@ -112,6 +112,6 @@ Verordnungsermächtigungen, Schlussbestimmungen
 | § 65 | Verordnungsermächtigung zur Besonderen Ausgleichsregelung |
 | § 66 | Allgemeine Übergangsbestimmungen |
 | § 67 | Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung |
-| § 68 | (weggefallen) |
+|  |
 | Anlage 1 | Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs |
 | Anlage 2 | Stromkosten- oder handelsintensive Branchen |
