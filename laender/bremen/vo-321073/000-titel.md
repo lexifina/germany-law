@@ -1,1 +1,1 @@
-# Verordnung über das Sühneverfahren in Privatklagesachen vom 30. Dezember 1958
+# Bremische Verordnung über das Sühneverfahren in Privatklagesachen vom 16. März 2026
