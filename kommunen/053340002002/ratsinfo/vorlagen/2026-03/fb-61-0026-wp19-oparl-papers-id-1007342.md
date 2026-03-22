@@ -1,0 +1,23 @@
+# Änderung Nr. 2 des Flächennutzungsplans AACHEN*2030 - Windenergiegebiete - hier: Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB, - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 Abs. 1 BauGB, - erneuter Aufstellungsbeschluss und Beschluss über die Veröffentlichung im Internet sowie die öffentliche Auslegung gemäß § 3 Abs. 2 i.V.m § 4 Abs. 2 BauGB
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0026/WP19
+- Art: Entscheidungsvorlage
+- Datum: 2026-03-22
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=1007342
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=1007342
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1494908&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000573 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000572 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000574 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000715 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000590 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000598 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000732 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000605 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000613 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000620 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000619 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000583 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000489 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
