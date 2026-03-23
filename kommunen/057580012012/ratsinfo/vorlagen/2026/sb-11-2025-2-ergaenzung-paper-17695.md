@@ -1,0 +1,13 @@
+# Mitwirkung des Seniorenbeirates in städtischen Ausschüssen hier: Entsendung von beratenden und stellvertretenden beratenden Mitgliedern des Seniorenbeirates in städtische Ausschüsse gem. § 3 der Satzung des Seniorenbeirates
+
+- Körperschaft: Stadt Herford
+- Drucksache/Vorlage: SB/11/2025 2. Ergänzung
+- Art: Vorlage
+- Datum: 2026-03-23
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZWd7gw1PPVwaBCQm8oEVnmU
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17695
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage (Mitwirkung des Seniorenbeirates in städtischen Ausschüssen
+hier: Entsendung von beratenden und stellvertretenden beratenden Mitgliedern des Seniorenbeirates in städtische Ausschüsse gem. § 3 der Satzung des Seniorenbeirates) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR3O-WGAuh4uel0N25q7Q-7b0h_MsRvpe4w3RoAcWrew/Vorlage_SB-11-2025_2._Ergaenzung.pdf
+- Beratung:  https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5387 https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-15
+- underDirectionOf: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-218
