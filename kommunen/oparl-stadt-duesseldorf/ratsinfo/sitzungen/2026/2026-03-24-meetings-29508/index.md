@@ -1,0 +1,62 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-24T17:00:00+01:00
+- Ende: 2026-03-24T20:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29508
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29508
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581289.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581289.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581289.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Austausch mit Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift vom 24.02.2026 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4.2: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4.3: Errichtung von Düsselbike-Stationen im Stadtbezirk 7 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 4.4: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 4.5: Muttertagsmarkt Gerricusplatz 2026 - einstimmig beschlossen
+- TOP 4.6: Landpartie Grafenberg auf der Galopprennbahn im Jahre 2026 - einstimmig beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2026) - einstimmig beschlossen
+- TOP 4.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2026) - einstimmig beschlossen
+- TOP 4.9: Verwendung von Haushaltsmitteln - abweichend beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Angaben der Kosten für die Wiederherstellung der Fahrbahnoberfläche auf der Vereinsstraße und auf der Ottostraße - Eingabe nach § 24 Gemeindeordnung NRW - - mehrheitlich abgelehnt
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Pirnarer Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.5: Behutsame Erweiterung der Ausstattung der „Hasenwiese“ - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Entfernung der Poller am Alten Markt / Steinweg - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Blumenkübel an der Bergischen Landstraße - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 5.11: Verkleinerung der Baumscheibe vor Haus Nr. 64 auf der Benderstraße, Gerresheim - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 6: Anfragen
+- TOP 6.1: 2021 zerstörter Damm im Rotthäuser Bachtal an der Teichanlage unweit der Hofschaft Rotthäuser Weg 106 - 110 - Anfrage der AfD-Fraktion - - vertagt
+- TOP 6.2: Verkehrsführung historisches Zentrum Gerresheim - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 7.2: Haushalt 2026: Erhöhung der Haushaltsmittel zur Fahrbahnwiederherstellung der Otto- und Vereinsstraße - Informationsvorlage zum Beschluss der BV 7 vom 27.01.2026 - - zur Kenntnis genommen
+- TOP 7.3: Umpflanzung des Jugendpavillons im Park „Alter Gerresheimer Friedhof“ - Informationsvorlage zum Beschluss der BV 7 vom 24.02.2026 - zur Kenntnis genommen
+- TOP 7.4: Sachstandsbericht zu nicht umgesetzten Maßnahmen des Amtes für Verkehrsmanagement - Informationsvorlage zum Beschluss der BV 7 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 7.5: Wegerecht und Zufahrtsbeschränkungen am Sauerweg / Abshof - Informationsvorlage zum Beschluss der BV 7 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 7.6: Sanierung der Toilettenanlage obere Kapelle des Gerresheimer Waldfriedhofs - Informationsvorlage zum Beschluss der BV7 vom 27.01.2026 - - zur Kenntnis genommen
+- TOP 7.7: Fußgänger- und Radverkehr an der Grafenberger Allee 395 - 413 entschärfen - Informationsvorlage zum Beschluss der BV 7 vom 27.01.2026 - - zur Kenntnis genommen
+- TOP 7.8: Errichtung einer Parkverbotszone Marthastraße/Ecke B7 - Informationsvorlage zum Beschluss der BV 7 vom 24.02.2026 - zur Kenntnis genommen
+- TOP 7.9: Austausch der Kleinkinderschaukel Ratinger Weg - Informationsvorlage zum Beschluss der BV 7 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 7.10: Sicherung des Wasserstands im Ostparkweiher - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021, sowie dem Bedarfsbeschluss vom 28.05.2024 (Anhörung in der BV 7) und 03.06.2024 (Entscheidung im AÖE) - - zur Kenntnis genommen
+- TOP 7.11: Parkraumkonzept im Umfeld des Staufenplatzes in Grafenberg - Informationsvorlage zum Beschluss der BV 7 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 7.12: Verkehrsuntersuchung für den historischen Ortskern Gerresheim - zur Kenntnis genommen
+- TOP 7.13: Anpassung des Parkraums in der Hardenbergstraße - Informationsvorlage zum Beschluss der BV 7 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 7.14: Sachstandsbericht zur Unfallhäufigkeit auf der Grafenberger Allee im Stadtbezirk 7 nach Ergänzung der Fahrbahnmarkierungen - Informationsvorlage zum Beschluss der BV 7 vom 27.01.2026 - - zur Kenntnis genommen
+- TOP 7.15: Verkehrsberuhigung und eventueller Einrichtung einer Fahrradzone im Quartier Schönau-/Heye-/Sichelstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.06.2025 - - zur Kenntnis genommen
+- TOP 8: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
