@@ -28,7 +28,7 @@
 
 ## Abschnitt 5 Verbringung aus einem anderen Mitgliedstaat in das Inland und aus dem Inland in einen anderen Mitgliedstaat, Eingang in die Union, Ausfuhr, Durchfuhr
 
-- [§ 13 Verbringungs-,Eingangs-, Ausfuhr- und Durchfuhrverbote](0013.md)
+- [§ 13 Verbringungs-, Eingangs-, Ausfuhr- und Durchfuhrverbote](0013.md)
 - [§ 14 Verordnungsermächtigungen zur Regelung der Verbringung aus einem anderen Mitgliedstaat in das Inland, der Verbringung aus dem Inland in einen anderen Mitgliedstaat, des Eingangs in die Union, der Ausfuhr, der Durchfuhr](0014.md)
 
 ## Abschnitt 6 Entschädigung für Tierverluste
