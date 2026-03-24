@@ -1,0 +1,25 @@
+# Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel 2026
+
+- Körperschaft: Stadt Bad Münstereifel
+- Drucksache/Vorlage: 93-XII
+- Art: Beschlussvorlage
+- Datum: 2026-03-24
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZe7mpBljlUC9FoLD1NBFr4c
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/paper/47515
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel 2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQjSIGCjxY-QOwMjfyHS4YYHe7kU9OlTANh8lknQ6vVz/Beschlussvorlage_93-XII.pdf
+- Anlage: Beschlussvorlage (prognose_familienfest_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXz4KaPmD8bZx0LG_Ll59PL04nZkB-MjFB6XmbM37TOl/prognose_familienfest_2026.pdf
+- Anlage: Beschlussvorlage (prognose_fruehlingsmarkt_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfczn1yuSzFi1506BhynMAf_YAGSf_0Zq9JJqWfdw9cG/prognose_fruehlingsmarkt_2026.pdf
+- Anlage: Beschlussvorlage (prognose_herbstfest_streetfood_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaYie2LJMGHWF4wIxo_97mtXyz0QvamDREJMxC4REHaA/prognose_herbstfest_streetfood_2026.pdf
+- Anlage: Beschlussvorlage (prognose_kirmes_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6AjevwPdqzxPhTdNL1_cB59z6OM0Vmk6trzz_FbKPH/prognose_kirmes_2026.pdf
+- Anlage: Beschlussvorlage (prognose_Kräutertag_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXD8ocvFBIeNVCELEURxmYy2glhOfd1JXFQiuUfl-JgH/prognose_Kra--utertag_2026.pdf
+- Anlage: Beschlussvorlage (prognose_Lifestylemarkt_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbk-h-NHedWhWyji6iI5xlq84B3p9Bl476hjGldE5TZt/prognose_Lifestylemarkt_2026.pdf
+- Anlage: Beschlussvorlage (prognose_michaels_und_bauernmarkt_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXImvV7KnMVWq6G4KSdmNMC2-SIJNkeEo13Wx4XEhxLY/prognose_michaels_und_bauernmarkt_2026.pdf
+- Anlage: Beschlussvorlage (prognose_weihnachtsmarkt_2026) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZf_le0dbJhX6weZcDg5Uw-hH3xQST6V6-P6FWCm2r12/prognose_weihnachtsmarkt_2026.pdf
+- Anlage: Beschlussvorlage (Industrie-und Handelskammer) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb-f_UuH9RLy0Tmst44siOfV1QVf3t2DAdG8M5gIj6a4/Industrie-und_Handelskammer.pdf
+- Anlage: Beschlussvorlage (Handwerkskammer Aachen) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQF19ooANvp_7vLugyfLTLa2xUBardUzKTSWcNt5aMt0/Handwerkskammer_Aachen.pdf
+- Anlage: Beschlussvorlage (Verdi) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZDYjoizT3p-NNSjlJ4Ijgjok1HkGcW0IlU2h79i4cQR/Verdi.pdf
+- Anlage: Beschlussvorlage (Entwurf Satzung VOS 2026 Bad Münstereifel) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXyrUTgflR6hlCAhzMptYvc7e4LBjir6popvIScHRbBa/Entwurf_Satzung_VOS_2026_Bad_Muenstereifel.pdf
+- Beratung:  https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21675 https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21678 https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/3-392
