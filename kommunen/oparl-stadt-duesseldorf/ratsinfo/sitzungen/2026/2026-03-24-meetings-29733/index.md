@@ -1,0 +1,67 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-24T17:00:00+01:00
+- Ende: 2026-03-24T18:20:00+01:00
+- Ort: Sitzungssaal Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29733
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29733
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581287.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581287.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581287.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Zulassung von Vertreterinnen und Vertretern des Jugendrates - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.2: Berichterstattung Stadtteilteam Garath 2.0 - zur Kenntnis genommen
+- TOP 4.3: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Stadtteil Bücherei Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Förderverein der Jugendfußballer des Garather Sportvereins 2007 e.V. - Beschlussvorlage der Bezirksvertretung 10 - - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an das Kinderparlament Garath - Beschlussvorlage der Bezirksvertretung 10 - - einstimmig beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt 2026 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Haushalt 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Bezirklicher Bauunterhalt 2026 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Haushalt 2026 - Liste A) Schulen 21 211 01 52416000 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Gefahr durch widerrechtliches Abstellen von Einkaufswagen an Straßenrändern im Stadtbezirk 10 - Anfrage der AfD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Umsetzungsstand der Sanierung der A 59 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.4: Fortführung der Sanierungsarbeiten der A 59 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Entwicklung der Anmeldezahlen der Schülerinnen und Schüler im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Betrieb der S 68 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Neue Pflanzbeete vor den Häusern Dresdener Str. 50 bis 58 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Intelligente Straßenbeleuchtung in Garath/Hellerhof - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.6: Errichtung eines Wetterschutzes an der Bushaltestelle des SB 57 Eichsfelder Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.7: Baustelle Josef-Kleesattel-Straße 20a (Ecke „Altes Zentrum Garath“) - Anfrage der AfD-Fraktion - - vertagt
+- TOP 6.8: Überwiegender Leerstand der Geschäftsflächen in den Erdgeschossen der Gebäude Josef-Kleesattel-Straße 12–20 („Altes Zentrum Garath“) - Anfrage der AfD-Fraktion - - vertagt
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Stand des Programms Garath 2.0/ISEK - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Reinigung der Wände der Brückenunterführung Koblenzer Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Farbliche Gestaltung der Brückenunterführung Koblenzer Straße - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 7.6: Realisierung Wetterschutz für die Bushaltestellen des SB 57 am Hellerhofer S-Bahnhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.7: Dringliche Ausbesserung der Gehwege - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.8: Prüfung der Beauftragung eines externen Dienstleisters zur Entfernung von Stickern und Aufklebern im Stadtteil Garath - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.9: Kriminalitäts- und Unfallentwicklung 2025 im Stadtbezirk 10 - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 8.2: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2026, hier: Finanzierung von Schulwegmaßnahmen im Haushalt 2026, Fußgängerüberweg Carlo-Schmid-Straße - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.3: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2026, hier: Planungsmittel Kreisverkehr - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.4: Errichtung von Düsselbike-Stationen im Stadtbezirk 10 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 8.5: Erweiterung der bereits bestehenden Tempo-30-Zone in der "Koblenzer Straße" - Informationsvorlage zum Beschluss BV10/032/2026 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 8.6: Glasfaserausbau im Stadtteil Hellerhof - Informationsvorlage zum Beschluss BV10/024/2026 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
