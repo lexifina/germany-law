@@ -1,0 +1,51 @@
+# Hauptausschuss (2. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2026-03-24T18:00:00+01:00
+- Ende: 2026-03-24T19:45:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZfbXcf-Hr8cpJjRUk2lQvo
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6339
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrXEPPKpkhqahohKbpFboUrYTApG2auBLewfOk3c9XX/Einladung_Hauptausschuss_24.03.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc9jaEkyY_-Ow9HmtosHyLWdyvukgvd5U3fwX6IBpnH9/Oeffentliche_Niederschrift_Hauptausschuss_24.03.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnendenfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Beratung über den Entwurf der Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2026/2027 inklusive Haushaltssicherungskonzept
+- TOP 6.1.: Beratung des Haushaltsentwurfs für die Haushaltsjahre 2026/27 für Wirtschaftsförderung, IT-Service und Digitalisierung
+- TOP 6.1.1.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Stellen IT Service
+- TOP 6.1.2.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Ausbau Server-Infrastruktur
+- TOP 6.1.3.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Leistungen kdvz
+- TOP 6.1.4.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: IT-Support
+- TOP 6.1.5.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Anschaffung Lizenzen
+- TOP 6.1.6.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Cybersecurity-Maßnahmen
+- TOP 6.1.7.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Ausstattung mobile Arbeitsplätze
+- TOP 6.1.8.: Anfrage der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Erfolge Software
+- TOP 6.1.9.: Anfragen der AfD-Fraktion zum Haushaltsentwurf 2026/2027, hier: Stellungnahme der Verwaltung
+- TOP 6.2.: Beratung des Haushaltsentwurfs für die Haushaltsjahre 2026/2027 für das Amt 50 - Amt für Soziales und Wohnen, 550 - Städtisches Beratungszentrum Älterwerden, Behinderung und Rente und 560 - Fachstelle Integration
+- TOP 6.3.: Beratung des Haushaltsentwurfs für die Haushaltsjahre 2026/27 für den Bereich Integration
+- TOP 6.3.1.: Antrag von Albatros International zur Beratung des Haushaltsentwurfs für die Haushaltsjahre 2026/27 für den Bereich Integration - 18 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5.: Beratung des Haushaltsentwurfes des Produktbereiches Sportförderung und des Wirtschaftsplans der Sportstätten für die Haushaltsjahre 2026/2027
+- TOP 6.6.: Beratung des Haushaltsentwurfes des Produktbereiches Kultur und Wissenschaft und des Wirtschaftsplans der Kulturbetriebe für die Haushaltsjahre 2026/2027
+- TOP 6.6.1.: Beratung des Haushaltsentwurfes des Produktbereiches Kultur und Wissenschaft; hier: Entscheidung Stadtfest 2026 - Einstimmig, 0 Enthaltungen
+- TOP 7.: 4. Änderungssatzung zur Satzung der Stadt Wesseling über die Erhebung von Verwaltungsgebühren - Verwaltungsgebührensatzung - vom 22. November 1996 und deren Anlage - 17 Ja-Stimmen, 1 Nein-Stimme, 1 Enthaltung
+- TOP 8.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2020, Behandlung des Jahresergebnisses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Heimatpreis der Stadt Wesseling - Abstimmung Teilbeschlüsse 1-3: Einstimmig, 0 EnthaltungenAbstimmung Teilbeschluss 4: 12 Ja-Stimmen, 7 Nein-Stimmen, 0 Enthaltungen
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Haushalt 2026/2027: Stellenplan - Einstimmig, 1 Enthaltung
+- TOP 2.: Grundstückserwerb im Bereich Bonner Straße in Wesseling - 16 Ja-Stimmen, 3 Nein-Stimmen, 0 Enthaltungen
+- TOP 3.: Grundstückserwerb im Bereich „Fuchskaul“ in Wesseling-Urfeld - 13 Ja-Stimmen, 3 Nein-Stimmen, 2 Enthaltungen
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 5.: Unterrichtung der Öffentlichkeit
