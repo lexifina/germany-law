@@ -1,0 +1,72 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2026-03-24T18:00:00+01:00
+- Ende: 2026-03-24T22:18:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX6B6hqrryCObuAqRke_s3Y
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21678
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe2PvEK_Yc5sgUvvMcZ0YiMIMEi1SaDU96ND3rm9fZc3/Bekanntmachung_Rat_24.03.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeFoclruExsMWmHwYcFoaVIfu7-Q4CxRK2EI2jKq95Ea/Oeffentliche_Niederschrift_Rat_24.03.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 10.02.2026 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Vorstellung Hochwasserschutzkonzept hier: Vorstellung durch die Firma Okeanos - Einstimmiger Beschluss:
+- TOP 5.: Antrag auf Errichtung eines kommunalen bzw. erweiterten E-Bike-Verleihsystems; Reaktivierung der Station am Bahnhof BAM/City Outlet; Errichtung einer zusätzlichen Station am Bahnhof Arloff hier: Antrag nach § 24 GO NRW vom 03.12.2025 - Beschluss siehe RD-NR. 104-XII/Z-2.
+- TOP -: Antrag auf Errichtung eines kommunalen bzw. erweiterten E-Bike-Verleihsystems; Reaktivierung der Station am Bahnhof BAM/City Outlet; Errichtung einer zusätzlichen Station am Bahnhof Arloff hier: Stellungnahme der Verwaltung - Beschluss siehe RD-Nr. 104-XII/Z-2.
+- TOP -: Antrag auf Errichtung eines kommunalen bzw. erweiterten E-Bike-Verleihsystems; Reaktivierung der Station am Bahnhof BAM/City Outlet; Errichtung einer zusätzlichen Station am Bahnhof Arloff hier: Sachstand nach Beratung im Ausschuss für Umwelt, Tourismus und Mobilität - Einstimmiger Beschluss:
+- TOP 6.: Ausschussbesetzung durch den Beirat für Menschen mit Behinderung hier: Antrag nach § 24 GO NRW - Mehrheitlicher Beschluss mit 21 Ja- und 11 Nein-Stimmen:Hier wirkt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 7.: Erweiterung der Verlegung von Stolpersteinen in Bad Münstereifel hier: Antrag der SPD-Fraktion vom 23.11.2025 - Beschluss siehe RD-Nr. 88-XII/Z-1.
+- TOP -: Erweiterung der Verlegung von Stolpersteinen in Bad Münstereifel hier: Ausführungen der Verwaltung zum Antrag der SPD-Fraktion vom 23.11.2025 - Einstimmiger Beschluss:
+- TOP 8.: Ausarbeitung eines Konzeptes für den städt. Bauhof hier: gemeinschaftlicher Antrag der FDP-,UWV-,SPD- und CDU-Fraktion vom 16.12.2025 - Beschluss siehe RD-Nr. 96-XII/Z-2.
+- TOP -: Ausarbeitung eines Konzeptes für den städt. Bauhof hier: Stellungnahme der Verwaltung - Beschluss siehe RD-Nr. 96-XII/Z-2.
+- TOP -: Ausarbeitung eines Konzeptes für den städt. Bauhof hier: Sachstand aufgrund der Beratungen aus dem Bau- und Feuerwehrausschuss - Einstimmiger Beschluss:
+- TOP 9.: Erarbeitung eines Verkehrs- und Sicherheitskonzeptes in der Kernstadt hier: Antrag der CDU-Fraktion sowie der FDP-Fraktion vom 17.12.2025 - Beschluss siehe RD-NR. 97-XII/Z-2.
+- TOP -: Erarbeitung eines Verkehrs- und Sicherheitskonzeptes in der Kernstadt hier: Stellungnahme der Verwaltung - Beschluss siehe RD-Nr. 97-XII/Z-2.
+- TOP -: Erarbeitung eines Verkehrs- und Sicherheitskonzeptes in der Kernstadt hier: Sachstand aufgrund der Beratungen aus der Sitzung des Ausschusses für Umwelt, Tourismus und Mobilität - Einstimmiger Beschluss:
+- TOP 10.: Hallennutzungsentgelte und Hallennutzung für gemeinnützige Vereine im Stadtgebiet Bad Münstereifel hier: Antrag der SPD-Fraktion vom 03.01.2026 - Beschluss siehe RD-Nr. 102-XII/Z-1.
+- TOP -: Hallennutzungsentgelte und Hallennutzung für gemeinnützige Vereine im Stadtgebiet Bad Münstereifel hier: Ausführung der Verwaltung zum Antrag der SPD-Fraktion vom 03.01.2026 - Einstimmiger Beschluss:
+- TOP 11.: Attraktivität- und Einnahmensteigerung des eifelbades durch Abschluss von Kooperationen und Partnerschaften hier: Antrag der SPD-Fraktion vom 15.02.2026 - Beschluss siehe RD-NR. 139-XII/Z-1.
+- TOP -: Attraktivität- und Einnahmensteigerung des eifelbades durch Abschluss von Kooperationen und Partnerschaften hier: Ausführung der Verwaltung zum Antrag der SPD-Fraktion vom 15.02.2026 - Einstimmiger Beschluss:
+- TOP 12.: Um- und Neubesetzung von Ausschüssen sowie der Kommission zur Begleitung des Auswahlverfahrens der Allgemeinen Vertretung des Bürgermeisters (Beigeordnete/r) hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.03.2026 - Einstimmiger Beschluss:Hier wirkt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 13.: Sportstättenkonzept 2022 Wiederaufbau Sportanlage Bad Münstereifel - Mehrheitlicher Beschluss mit 29 Ja- und 3 Nein-Stimmen:
+- TOP 14.: Barrierefreier Haltestellenausbau - Beschluss siehe RD-Nr. 142-XII/Z-4.
+- TOP -: Barrierefreier Haltestellenausbau hier: Anfrage der SPD-Fraktion vom 17.02.2026 - Beschluss siehe RD-Nr. 142-XII/Z-4.
+- TOP -: Barrierefreier Haltestellenausbau hier: Antrag der SPD-Fraktion vom 26.02.2026 - Beschluss siehe RD-Nr. 142-XII/Z-4.
+- TOP -: Barrierefreier Haltestellenausbau hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 15.: Prüfung und Einrichtung einer provisorischen und dauerhaften zweiten Zuwegung für den Ortsteil Bad Münstereifel-Rodert hier: Antrag der CDU-Fraktion vom 10.03.2026 - Beschluss siehe RD-Nr. 178-XII/Z-1.
+- TOP -: Prüfung und Einrichtung einer provisorischen und dauerhaften zweiten Zuwegung für den Ortsteil Bad Münstereifel-Rodert hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss:
+- TOP 16.: Altschuldenentlastungsgesetz Nordrhein-Westfalen (ASEG NRW) Hier: Festsetzung des Umfangs der Übernahme von übermäßigen Verbindlichkeiten zur Liquiditätssicherung nach § 6 Abs. 3 ASEG NRW
+- TOP 17.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel 2026 - Einstimmiger Beschluss:
+- TOP 18.: Ergänzung des Sirenenwarnnetzes als Bestandteil des Bevölkerungs- und Katastrophenschutzes hier: Fortführende Planungs- und Ausführungsarbeiten zum Sirenenwarnsystem der Phase 2
+- TOP 19.: Beteiligung der Stadt Bad Münstereifel an der Energiewende RheinEifel eG Hier: Wahl der Vertretung der Stadt Bad Münstereifel in die Energiewende RheinEifel eG - Einstimmiger Beschluss:
+- TOP 20.: Beteiligung der Stadt Bad Münstereifel an der Energiewende RheinEifel eG Gründung der Energiewende RheinEifel eG und Beitritt der e-regio GmbH & Co. KG / Stadt Bad Münstereifel zur Genossenschaft Hier: Anzeigeverfahren gem. § 115 GO NRW - Einstimmiger Beschluss:
+- TOP 21.: 4. Satzung zur Änderung der Betriebssatzung der Stadt Bad Münstereifel für den "Forstbetrieb der Stadt Bad Münstereifel" hier: § 4 Betriebsausschuss - Einstimmiger Beschluss:
+- TOP 22.: Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung – „Bau-Turbo-Gesetz“/“Bauturbo“ hier: Rechtlicher Rahmenbedingungen und kommunale Handlungs- und Umsetzungsoptionen - Einstimmiger Beschluss:
+- TOP 23.: Anfrage zur baulichen Entwicklung auf den Flurstücken Gem. Münstereifel, Flur 6, Flurstück Nrn. 844, 53, 1069 (tlw.) und 1068 (tlw.), Bad Münstereifel, Bergstraße hier: Entscheidung zur möglichen Anwendung des § 246e BauGB („Bauturbo“) - Mehrheitlicher Beschluss mit 19 Ja- und 6 Nein-Stimmen sowie 8 Enthaltungen:
+- TOP 24.: Feststellung Jahresabschluss zum 31.12.2024 des Forstbetriebes Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 25.: Entlastung für das Wirtschaftsjahr 2024 Hier: Entlastung des Betriebsausschusses "Forstbetrieb" durch den Rat - Einstimmiger Beschluss:Ohne Mitwirkung der Mitglieder des Betriebsausschusses „Forstbetrieb der Stadt Bad Münstereifel“
+- TOP 26.: Jahresabschluss 2024 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie die Feststellung des Jahresabschlusses 2024 und Entlastung gem. § 96 Abs. 1 GO NRW - Einstimmiger Beschluss:
+- TOP 27.: Besetzung einer Beigeordnetenstelle hier: Sachstand und weitere Vorgehensweise - Einstimmiger Beschluss:
+- TOP 28.: Stellenplan für das Haushaltsjahr 2026 - Beschluss siehe RD-Nr. 115-XII/Z-2.
+- TOP -: Stellenplan für das Haushaltsjahr 2026 Hier: Sachstand nach Einbringung des Haushaltes - Beschluss siehe RD-Nr. 115-XII/Z-2.
+- TOP -: Stellenplan für das Haushaltsjahr 2026 Hier: weitere Erläuterungen aufgrund Anfragen im Haupt- und Finanzausschuss - Einstimmiger Beschluss:
+- TOP 29.: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Planung und Errichtung einer neuen Grundschule in der Kernstadt - Beschluss siehe RD-Nr. 70-XII/Z-8.
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Planung und Errichtung einer neuen Grundschule in der Kernstadt; Sachstand nach der Sitzung des Haupt- und Finanzausschusses am 17.03.2026 - Mehrheitlicher Beschluss mit 17 Ja- und 13 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP 30.: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Beschlussfassung - Mehrheitlicher Beschluss mit 21 Ja- und 11 Nein-Stimmen:
+- TOP 31.: Anfragen und Mitteilungen
+- TOP 31.1: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und des Bürgermeisters
+- TOP 31.2: Sachstand Wiederaufbau hier: Stand 11.03.2026
+- TOP 31.3: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 31.4: Rodungsmaßnahmen durch den städtischen Bauhof hier: Anfrage des Stadtverordneten Bernhard Ohlert
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Beteiligungsangelegenheiten der e-regio GmbH & Co. KG hier: Beschluss zur Gründung und Beteiligung an Projektgesellschaften und zur Gründung von Zwischenholdinggesellschaften zur Bündelung der Projektgesellschaften - Einstimmiger Beschluss:
+- TOP 2.: Anfragen und Mitteilungen
+- TOP 2.1: Stromliefervertrag für die Straßenbeleuchtung im Stadtgebiet für die Jahre 2026 - 2028 hier: Ergebnisbericht
