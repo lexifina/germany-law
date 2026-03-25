@@ -1,0 +1,96 @@
+# 4. Sitzung (Etatsitzung)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-03-25T16:25:00+01:00
+- Ende: 2026-03-25T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14294
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14294
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00582635.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Klimaanpassung - Maßnahmenkatalog zur schrittweisen Entsiegelung
+- TOP 1.2: Schutz vor Hitzebelastung für Schul- und Kitakinder - proaktive Maßnahmen in Neu- und Bestandsbauten
+- TOP 2: Aktuelle Stunde
+- TOP 2.1: Mangel an Gewerbeflächen in Münster - Risiken für Arbeitsplätze, Wertschöpfung und städtische Finanzen
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Erhöhung der Taktung der Buslinie 9 (Sprakel - Münster) am Vormittag
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8: Anregungen des Jugendrates
+- TOP 9: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung
+- TOP 10: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP -: Beratungen zum Haushalt 2026 und 2027 - Reden der Vorsitzenden der Fraktionen, der Gruppen und des Einzelmitgliedes
+- TOP 11: Haushaltssatzung für die Jahre 2026 und 2027 - mehrheitlich beschlossen
+- TOP 11.1: Haushaltssatzung für die Jahre 2026 und 2027
+- TOP 12: Erlass einer Hebesatzsatzung ab dem 01. Januar 2026 - mehrheitlich geändert beschlossen
+- TOP 13: Änderungen der Satzungen für die Benutzungsgebühren - mehrheitlich beschlossen
+- TOP 14: Feststellung des Jahresabschlusses der Stadt Münster zum 31.12.2024 - einstimmig beschlossen
+- TOP 14.1: Feststellung des Jahresabschlusses der Stadt Münster zum 31.12.2024
+- TOP 15: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2023 - einstimmig beschlossen
+- TOP 15.1: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2023
+- TOP 16: Verfahren zur Wahl der Kommunalen Seniorenvertretung Münster 2026 - einstimmig beschlossen
+- TOP 17: Neubestellung eines Stadtheimatpflegers - einstimmig beschlossen
+- TOP 18: Entsendung von sachkundigen Einwohner/innen in die Ausschüsse des Rates - einstimmig beschlossen
+- TOP 18.1: Entsendung von sachkundigen Einwohner/innen in die Ausschüsse des Rates
+- TOP 19: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 10.05.2026, Sonntag, den 23.05.2027 und Sonntag, den 14.05.2028 in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 20: Gründung einer Trägergemeinschaft zur gemeinsamen Aufgabenwahrnehmung des bodengebundenen Intensivtransports als Teil der öffentlichen Notfallrettung - einstimmig beschlossen
+- TOP 21: Sachstandsbericht zur Einrichtung des Bauinvestitionscontrollings - zur Kenntnis genommen
+- TOP 22: Integrationsmonitoring 2024/2025 - zur Kenntnis genommen
+- TOP 23: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2026 - einstimmig beschlossen
+- TOP 24: Innenstadt stärken: Umgestaltung und -nutzung Apostelgarten - Ergebnisse des partizipativen Planungsprozesses - einstimmig beschlossen
+- TOP 25: Von-Esmarch-Straße/Busso-Peus-Straße/Roxeler Straße - von der Tagesordnung abgesetzt
+- TOP 26: Direktvergabe eines öffentlichen Dienstleistungsauftrages durch die Stadt Münster an eine Tochtergesellschaft der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 27: Tarifstrukturreform WestfalenTarif - zur Kenntnis genommen
+- TOP 28: Strukturelle Weiterentwicklung des NWL: Auswirkungen der ÖPNVG-Novellierung und geplante Satzungsänderung - zur Kenntnis genommen
+- TOP 29: Neuordnung der Gesellschafterstruktur der WestfalenTarif GmbH - zur Kenntnis genommen
+- TOP 30: Einführung einer Besucherparkregelung für Bewohnerparkzonen im Mischprinzip - mehrheitlich geändert beschlossen
+- TOP 30.1: Einführung einer Besucherparkregelung für Bewohnerparkzonen im Mischprinzip
+- TOP 31: Strategische Schulbauplanung der Stadt Münster - mehrheitlich beschlossen
+- TOP 32: Verstetigung des Schulversuchs PRIMUS als dauerhaftes Schulangebot der Stadt Münster - einstimmig beschlossen
+- TOP 33: Neubau eines 3-zügigen Schulgebäudes für die Matthias- Claudius- Grundschule Handorf - Baubeschluss - - einstimmig geändert beschlossen
+- TOP 34: Errichtung von drei Bildungsgängen an Berufskollegs zum Schuljahr 2026/2027 - einstimmig beschlossen
+- TOP 35: Strategien zur zukünftigen Planung der Kindertageseinrichtungen der Stadt Münster – Maßnahmen für ein stabiles und nachhaltiges Bildungs- und Betreuungsangebot. - einstimmig geändert beschlossen
+- TOP 36: Maßnahmen für ein stabiles und nachhaltiges Bildungs- und Betreuungsangebot der Kinderbetreuungseinrichtungen durch die Stadt Münster als Trägerin - mehrheitlich beschlossen
+- TOP 36.1: Maßnahmen für ein stabiles und nachhaltiges Bildungs- und Betreuungsangebot der Kinderbetreuungseinrichtungen durch die Stadt Münster als Trägerin
+- TOP 37: Sunset-Klausel umsetzen - Planungssicherheit für den Träger schaffen - einstimmig beschlossen
+- TOP 38: Neubau einer Beachvolleyballhalle zur Absicherung des Bundesstützpunktes Volleyball - einstimmig beschlossen
+- TOP 39: Anpassung der Parkentgeltordnung der privatwirtschaftlich betriebenen Parkfläche vor dem Stadtbad Mitte im Zuständigkeitsbereich des Sportamtes Münster - einstimmig beschlossen
+- TOP 40: Rücknahme Projektskizze Egelshove aus dem Bundesprogramm "Sanierung kommunaler Sportstätten" (SKS), Projektaufruf 2025/2026 - einstimmig beschlossen
+- TOP 41: Beitritt zur interkommunalen Genossenschaft K4K „Kompetenz für kommunale Innovation und Digitalisierung eG“ - einstimmig beschlossen
+- TOP 42: NS-Raubgut: Abgabe eines „stehenden Angebots“ zum Abschluss einer Schiedsvereinbarung - einstimmig beschlossen
+- TOP 43: Baugebiet "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - Anpassung des Quartierskonzepts durch die Wohn und Stadtbau GmbH - mehrheitlich beschlossen
+- TOP 43.1: Baugebiet "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - Anpassung des Quartierskonzepts durch die Wohn und Stadtbau GmbH
+- TOP 44: Baubeschluss Begegnungs- und Demokratieort im Yorkquartier - einstimmig beschlossen
+- TOP 45: Umbau und Sanierung der Bestandsgebäude für die 3. städtische Gesamtschule - mehrheitlich geändert beschlossen
+- TOP 46: Darlehensprogramm zur Förderung genossenschaftlicher Wohnprojekte / Wohnprojekte des Mietshäusersyndikats in Münster - mehrheitlich beschlossen
+- TOP 47: Bauleitplanung
+- TOP 47.1: Stadtbezirk Münster-Mitte
+- TOP 47.1.1: 143. FNP-Änderung - Beschluss zur Änderung / Bebauungsplans Nr. 658 - Beschluss zur Aufstellung - einstimmig geändert beschlossen
+- TOP 47.2: Stadtbezirk Münster-Hiltrup
+- TOP 47.2.1: Bebauungsplan Hiltrup Nr. 13 - Aufhebung - Satzung - einstimmig beschlossen
+- TOP 47.3: Stadtbezirk Münster-Südost
+- TOP 47.3.1: 85. Änd. FNP - Änderung und Bebauungsplan Nr. 660 - Aufstellung - mehrheitlich geändert beschlossen
+- TOP 48: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 48.1: Sanierung des Theaters Münster: Variantenvergleich und Ausweichmöglichkeiten - verwiesen
+- TOP 48.2: Digitaloffensive Münster: Zusätzliches Digitalbudget für die Stadtverwaltung einrichten - verwiesen
+- TOP 48.3: Das ganze Spielfeld im Blick: ein Umsetzungskonzept für eine vollständig digitale Sportstättenvergabe - verwiesen
+- TOP 48.4: Vorkaufsrechtssatzung für Kinderhaus-Brüningheide und Berg Fidel - verwiesen
+- TOP 48.5: Planungen für die Umgestaltung des Busbahnhofs und Neuordnung der Verkehrssteuerung am Hauptbahnhof - verwiesen
+- TOP 48.6: Weiterentwicklung der Gebäudeenergiestandards in Münster: Baukosten senken, Klimaschutz sozialverträglich umsetzen - verwiesen
+- TOP 48.7: Einführung des Deutschlandtickets Sozial - verwiesen
+- TOP 48.8: Teilhabechancen verbessern, Armutsfolgen abmildern und Kinder, Jugendliche und ihre Familien stärken - ein "Aktionsplan gegen Kinder- und Jugendarmut" für Münster - verwiesen
+- TOP 48.9: Frühkindliche Bildung in Stadtteilen mit besonderen sozialen Herausforderungen stärken: Modellprojekt für Kitas in Coerde - verwiesen
+- TOP 49: Entsendung von Vertretungen der Stadt Münster in die Mitgliederversammlung des Städtetages Nordrhein-Westfalen - einstimmig geändert beschlossen
+- TOP 50: Umbesetzungen und Besetzung in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 50.1: Umbesetzungen und Besetzung in Ausschüssen des Rates und sonstigen Gremien
+- TOP 51: Verschiedenes
