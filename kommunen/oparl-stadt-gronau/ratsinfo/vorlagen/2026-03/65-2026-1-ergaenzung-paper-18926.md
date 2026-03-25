@@ -1,0 +1,26 @@
+# Kita Haus Buterland – Informationsveranstaltung vom 02.03.2026
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 65/2026 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2026-03-25
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYk5j_qDAGLN4oL7NEcbYmQ
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/18926
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Kita Haus Buterland – Informationsveranstaltung vom 02.03.2026) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcuQ63zVT5y9OiNgjrq9TLmkJBSdv0n-IuDZtM_tGaRY/Beschlussvorlage_65-2026_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Betriebserlaubnis v. 02.01.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfhFP0FzkIgK6cGhvPn-ft1dUsfzhFamhEWRcoR9mlqk/Betriebserlaubnis_v._02.01.2024.pdf
+- Anlage: Beschlussvorlage (Begehungsprotokoll LWL vom 14.02.2026) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1xYp3b2Az9UVptn_QHEE4EQtIjO_AI343wARJmehCz/Begehungsprotokoll_LWL_vom_14.02.2026.pdf
+- Anlage: Beschlussvorlage (Ergänzung Betriebserlaubnis v. 19.04.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa0YPB86VZCpDKMd9BjoM-5SVpiatAqrl37mg3cYUW4e/Ergaenzung_Betriebserlaubnis_v._19.04.2024.pdf
+- Anlage: Beschlussvorlage (Präsentation FD 465) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbGH0PdRE_Dx5Ki_s3-MfTS6P3FcbJ4yIcQM9U0nx2ME/Praesentation_FD_465.pdf
+- Anlage: Beschlussvorlage (Präsentation FD 351) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcNhooaA_uAipYOTCVrq4PcTbsSG9iF_BYE39PF4KYom/Praesentation_FD_351.pdf
+- Anlage: Beschlussvorlage (Befragung der Eltern) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdLUdys1bREwttg-zOlGV6kG1B4tiAmV4o0orTG-PAfR/Befragung_der_Eltern.pdf
+- Anlage: Beschlussvorlage (Bericht zur Brandverhütungsschau vom 18.03.2025) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeTCXHGY3-xqpFbkQL8YwXERZ3SqNF8Qfos0gpBalcA1/Bericht_zur_Brandverhuetungsschau_vom_18.03.2025.pdf
+- Anlage: Beschlussvorlage (Vermerk des FD 463) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZq0PgAq7vS5WUI6TOGlJBU4l69uzM2z9pq4RK0psZDm/Vermerk_des_FD_463.pdf
+- Anlage: Beschlussvorlage (Stellungnahme der Schulleitung Buterlandschule) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZr0enPx_2I7C_6C7ux1F5CQ8bsQpjKmWY0_EiyFIdIs/Stellungnahme_der_Schulleitung_Buterlandschule.pdf
+- Anlage: Beschlussvorlage (Auszug PBD v. 18.03.2026 TOP 2.1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfvxjYe3v2Xe_Z2_zNGAeDjM6dMi04UcAd-EGr-g_yAN/Auszug_PBD_v._18.03.2026_TOP_2.1.pdf
+- Anlage: Beschlussvorlage (Auszug JHA v. 18.03.2026 TOP 2.1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdfehOhXcDvxCyaRlG010_a8K-gOCxi33K9wVeqQm1Ut/Auszug_JHA_v._18.03.2026_TOP_2.1.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6624 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6797 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6671 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6636 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-53
