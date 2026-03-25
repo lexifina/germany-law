@@ -1,0 +1,70 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-03-25T16:03:00+01:00
+- Ende: 2026-03-25T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14346
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14346
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00582624.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (institutionelle Förderung 2026) - einstimmig beschlossen
+- TOP 3: Evaluation Solaranlagen in Erhaltungssatzungsgebieten - zur Kenntnis genommen
+- TOP 4: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2026 für den Betrieb des LVM-Preußenstadions - mehrheitlich beschlossen
+- TOP 5: Arbeitsmarkt- und Integrationsprogramm 2026 des Jobcenters der Stadt Münster - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Haushaltssatzung für die Jahre 2026 und 2027 - ohne Beschlussfassung geschoben
+- TOP 6.1: Haushaltssatzung für die Jahre 2026 und 2027
+- TOP 7: Erlass einer Hebesatzsatzung ab dem 01. Januar 2026 - ohne Beschlussfassung geschoben
+- TOP 8: Änderungen der Satzungen für die Benutzungsgebühren - ohne Beschlussfassung geschoben
+- TOP 9: Feststellung des Jahresabschlusses der Stadt Münster zum 31.12.2024 - einstimmig beschlossen
+- TOP 9.1: Feststellung des Jahresabschlusses der Stadt Münster zum 31.12.2024
+- TOP 10: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2023 - einstimmig beschlossen
+- TOP 10.1: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2023
+- TOP 11: Verfahren zur Wahl der Kommunalen Seniorenvertretung Münster 2026 - einstimmig beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 10.05.2026, Sonntag, den 23.05.2027 und Sonntag, den 14.05.2028 in Münster-Hiltrup - einstimmig beschlossen
+- TOP 13: Gründung einer Trägergemeinschaft zur gemeinsamen Aufgabenwahrnehmung des bodengebundenen Intensivtransports als Teil der öffentlichen Notfallrettung - einstimmig beschlossen
+- TOP 14: Sachstandsbericht zur Einrichtung des Bauinvestitionscontrollings - zur Kenntnis genommen
+- TOP 15: Integrationsmonitoring 2024/2025 - zur Kenntnis genommen
+- TOP 16: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2026 - einstimmig beschlossen
+- TOP 17: Innenstadt stärken: Umgestaltung und -nutzung Apostelgarten - Ergebnisse des partizipativen Planungsprozesses - einstimmig beschlossen
+- TOP 18: Von-Esmarch-Straße/Busso-Peus-Straße/Roxeler Straße - von der Tagesordnung abgesetzt
+- TOP 19: Direktvergabe eines öffentlichen Dienstleistungsauftrages durch die Stadt Münster an eine Tochtergesellschaft der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 20: Tarifstrukturreform WestfalenTarif - zur Kenntnis genommen
+- TOP 21: Strukturelle Weiterentwicklung des NWL: Auswirkungen der ÖPNVG-Novellierung und geplante Satzungsänderung - zur Kenntnis genommen
+- TOP 22: Neuordnung der Gesellschafterstruktur der WestfalenTarif GmbH - zur Kenntnis genommen
+- TOP 23: Einführung einer Besucherparkregelung für Bewohnerparkzonen im Mischprinzip - ohne Beschlussfassung geschoben
+- TOP 23.1: Einführung einer Besucherparkregelung für Bewohnerparkzonen im Mischprinzip
+- TOP 24: Strategische Schulbauplanung der Stadt Münster - einstimmig beschlossen
+- TOP 25: Verstetigung des Schulversuchs PRIMUS als dauerhaftes Schulangebot der Stadt Münster - einstimmig beschlossen
+- TOP 26: Neubau eines 3-zügigen Schulgebäudes für die Matthias- Claudius- Grundschule Handorf - Baubeschluss - - ohne Beschlussfassung geschoben
+- TOP 27: Errichtung von drei Bildungsgängen an Berufskollegs zum Schuljahr 2026/2027 - einstimmig beschlossen
+- TOP 28: Strategien zur zukünftigen Planung der Kindertageseinrichtungen der Stadt Münster – Maßnahmen für ein stabiles und nachhaltiges Bildungs- und Betreuungsangebot. - einstimmig beschlossen
+- TOP 29: Maßnahmen für ein stabiles und nachhaltiges Bildungs- und Betreuungsangebot der Kinderbetreuungseinrichtungen durch die Stadt Münster als Trägerin - einstimmig beschlossen
+- TOP 29.1: Maßnahmen für ein stabiles und nachhaltiges Bildungs- und Betreuungsangebot der Kinderbetreuungseinrichtungen durch die Stadt Münster als Trägerin
+- TOP 30: Sunset-Klausel umsetzen - Planungssicherheit für den Träger schaffen - einstimmig beschlossen
+- TOP 31: Neubau einer Beachvolleyballhalle zur Absicherung des Bundesstützpunktes Volleyball - einstimmig beschlossen
+- TOP 32: Anpassung der Parkentgeltordnung der privatwirtschaftlich betriebenen Parkfläche vor dem Stadtbad Mitte im Zuständigkeitsbereich des Sportamtes Münster - einstimmig beschlossen
+- TOP 33: Rücknahme Projektskizze Egelshove aus dem Bundesprogramm "Sanierung kommunaler Sportstätten" (SKS), Projektaufruf 2025/2026 - einstimmig beschlossen
+- TOP 34: Beitritt zur interkommunalen Genossenschaft K4K „Kompetenz für kommunale Innovation und Digitalisierung eG“ - einstimmig beschlossen
+- TOP 35: NS-Raubgut: Abgabe eines „stehenden Angebots“ zum Abschluss einer Schiedsvereinbarung - einstimmig beschlossen
+- TOP 36: Baugebiet "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - Anpassung des Quartierskonzepts durch die Wohn und Stadtbau GmbH - einstimmig beschlossen
+- TOP 36.1: Baugebiet "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - Anpassung des Quartierskonzepts durch die Wohn und Stadtbau GmbH
+- TOP 37: Baubeschluss Begegnungs- und Demokratieort im Yorkquartier - einstimmig beschlossen
+- TOP 38: Umbau und Sanierung der Bestandsgebäude für die 3. städtische Gesamtschule - ohne Beschlussfassung geschoben
+- TOP 39: Darlehensprogramm zur Förderung genossenschaftlicher Wohnprojekte / Wohnprojekte des Mietshäusersyndikats in Münster - einstimmig beschlossen
+- TOP 40: Bauleitplanung
+- TOP 40.1: Stadtbezirk Mitte
+- TOP 40.1.1: 143. FNP-Änderung - Beschluss zur Änderung / Bebauungsplans Nr. 658 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 40.2: Stadtbezirk Hiltrup
+- TOP 40.2.1: Bebauungsplan Hiltrup Nr. 13 - Aufhebung - Satzung - einstimmig beschlossen
+- TOP 40.3: Stadtbezirk Südost
+- TOP 40.3.1: 85. Änd. FNP - Änderung und Bebauungsplan Nr. 660 - Aufstellung - ohne Beschlussfassung geschoben
+- TOP 41: Verschiedenes
