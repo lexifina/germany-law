@@ -1,0 +1,92 @@
+# Öffentliche Sitzung der BVV Friedrichshain-Kreuzberg
+
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Beginn: 2026-03-25T18:00:00+01:00
+- Ende: 2026-03-25T22:16:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- Ratsinformationssystem: https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=11807
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=11807
+- Quelle: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen des Bezirksverordnetenvorstehers - erledigt
+- TOP 2: Abstimmung über die Dringlichkeiten - gegenstandslos
+- TOP 3: Beschlussfassung zur Konsensliste des Ältestenrates - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bestätigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 5: Initiativen von Kindern und Jugendlichen (JuKG) - erledigt
+- TOP 6: Einwohner*innenanfragen - (offen)
+- TOP 6.1: EA150 - Markthalle Neun und Umfeld - beantwortet
+- TOP 6.2: EA151 - Soziale Härte des Autoverbots bei fast 30 Jahren Arbeit am Kotti und Grabpflege - gegenstandslos
+- TOP 6.3: EA152 - Dringende Sanierung der unteren Liebigstraße - beantwortet
+- TOP 7: Resolutionen - (offen)
+- TOP 7.1: Demokraten stehen zusammen - von Kreuzberg bis Kadiköy - ohne Änderungen in der BVV beschlossen
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Neuordnung der Schuleinzugsgebiete in Friedrichshain mit umfassender Beteiligung aller Schulgemeinschaften gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Die Ludwig-Hoffmann-Grundschule (02G07) wird voraussichtlich im Jahr 2029 an den neu errichteten Schulstandort Langenbeckstraße am ehemaligen SEZ umziehen.Die Temple-Grandin-Schule (02K11) wird an ihrem Standort in der Lasdehner Straße verbleiben und das bisherige Gebäude der L.-Hoffmann-Grundschule übernehmen, um sukzessive zur Gemeinschaftsschule aufzuwachsen und eine Sekundarstufe I auszubilden. Das Schul- und Sportamt wird beide Schulgemeinschaften im weiteren Prozess kontinuierlich begleit - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Unterzeichnung der Zielvereinbarung „Auf dem Weg zu sauberen Schulen – Qualitätsverbesserung Schulreinigung" 2024-2025 durch den Bezirk Friedrichshain-Kreuzberg - ohne Änderungen in der BVV beschlossen
+- TOP 10: Mündliche Anfragen I - (offen)
+- TOP 10.1: Gefährdeter Schutz und blockierte Hilfe - eine Krise im Jugendamt? - beantwortet
+- TOP 10.2: Warum wird die BVV nicht bei der alternativen Planung für das SEZ beteiligt, die die BVV angestoßen hatte - beantwortet
+- TOP 10.3: Musikschulen Friedrichshain-Kreuzberg - beantwortet
+- TOP 10.4: Bearbeitungs- und Verfahrensdauer bei Bau- und Bebauungsplanverfahren in Friedrichshain-Kreuzberg - beantwortet
+- TOP 10.7: Bearbeitungszeit Wohngeld- & WBS-Anträge - schriftlich beantwortet
+- TOP 10.8: Bürgergarten Laskerwiese - schriftlich beantwortet
+- TOP 10.9: Dienstreisen der Bezirksbürgermeisterin - schriftlich beantwortet
+- TOP 10.10: Priorisierung Baumschutz Hochbauvorhaben - schriftlich beantwortet
+- TOP 10.11: Stärkung des Ordnungsamtes gegen Müll - schriftlich beantwortet
+- TOP 10.12: Maßnahmen des Hitzeschutzes auf Sportanlagen des Bezirks - schriftlich beantwortet
+- TOP 10.13: Verfahren für die neue Jugendamtsleitung - schriftlich beantwortet
+- TOP 10.14: Barrierefreie Wahllokale - schriftlich beantwortet
+- TOP 10.15: Dauerproblem Aufzug: Wie steht es um die Barrierefreiheit am Bahnhof Warschauer Straße? - schriftlich beantwortet
+- TOP 10.16: Parkbänke für alle: Plan zur Reparatur und zur Aufstellung 100 neuer Bänke - schriftlich beantwortet
+- TOP 10.17: 23 Monate and counting: Wann gewährt der Jugendstadtrat endlich Akteneinsicht zur Kündigung von Frieda e.V.? - schriftlich beantwortet
+- TOP 10.18: Zentrale Landesbibliothek nicht am Blücherplatz - schriftlich beantwortet
+- TOP 10.19: EDEKA-Areal in der Eckertstraße - schriftlich beantwortet
+- TOP 10.20: Beginn der Bauarbeiten an der U7 - Gneisenaustr. - schriftlich beantwortet
+- TOP 10.21: Schließung der Kita Dresdener Straße 128 - schriftlich beantwortet
+- TOP 10.22: Europas größtes Hostel entsteht am Checkpoint Charlie - mit Änderungen in der BVV beschlossen
+- TOP 10.23: Müll und Schmutz am unteren Fußweg des May-Ayim-Ufers - schriftlich beantwortet
+- TOP 11: Mündliche Anfragen II - (offen)
+- TOP 11.1: Mündliche Anfragen II - spontane Fragestunde - beantwortet
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Sieben Jahre Stillstand auf dem RAW-Gelände - beantwortet
+- TOP 13: Konsensliste des Ältestenrates - (offen)
+- TOP 13.1: Jährlich zwei Prozent der Auto-Parkplätze entsiegeln und begrünen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Autonomes Fahren fördern - überwiesen
+- TOP 13.3: Bessere und sichere Zugangsmöglichkeiten für mobilitätseingeschränkte Menschen an Ärztehäusern und Gesundheitszentren - hier beispielhaft Ärztehaus Matthiasstraße 7 und Gesundheitszentrum Bergmannstraße 5 - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Kulturstätte erhalten - Lido bei Parkfläche für Bands unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Zugangsbarrieren zu den Bootsliegeplätzen am Bartholomäusufer abbauen. - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Geregelte Müllentsorgung für Bootsanlieger am Bartholomäusufer ermöglichen. - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Verwaltung der Bootsliegeplätze am Bartholomäusufer erleichtern. - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Verbesserung der Barrierefreiheit im ÖPNV durch Umbau von Bushaltestellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Räume für Nachbarschaft und Jugendarbeit statt Leerstand - Nutzung des Karstadt-Gebäudes am Hermannplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Blutspenden in Friedrichshain-Kreuzberg niedrigschwellig und regelmäßig ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Unterbrechung der Linie der Tram 21 schnell beenden - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Erste Folge-Zielvereinbarung zur gesamtstädtischen Steuerung der Familienservicebüros - ohne Änderungen in der BVV beschlossen
+- TOP 13.13: Umsetzungskonzept Leitlinien für Bürger*innen-Beteiligung - überwiesen
+- TOP 13.14: Aufteilung von Infrastrukturinvestitionen aus dem Sondervermögen des Bundes - überwiesen
+- TOP 13.15: Bebauungsplan 2-56B - Geänderter neuer Titel: Bebauungsplan 2-56E für die Grundstücke Modersohnstraße 33, 35, 37, 39, 41, 43, 45, 47, Markgrafendamm 24, 25, Laskerstraße 1A, 1, 5, Bödikerstraße 25, Bödikerstraße 26/ Persiusstraße 6, Persiusstraße 7 im Bezirk Friedrichshain-Kreuzberg, Ortsteil Friedrichshain. - überwiesen
+- TOP 13.16: Unterzeichnung der Fortschreibung der Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Fachstellen Soziale Wohnhilfe 2026 – 2027 - überwiesen
+- TOP 13.17: Unterzeichnung der Zielvereinbarung 2026 / 2027 für die Berliner Bürgerämter zur gesamtstädtischen Steuerung der Bürgerämter zur Verbesserung der Servicequalität - überwiesen
+- TOP 13.18: Unterzeichnung der Zielvereinbarung zur gesamtstädtischen Steuerung der Berliner Standesämter 2026 und 2027 - überwiesen
+- TOP 13.19: Kiezkantine im Rathaus Kreuzberg - überwiesen
+- TOP 13.20: Umsetzung des Gesetzes zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (sog. "Bau-Turbo") im Bezirk Friedrichshain-Kreuzberg - überwiesen
+- TOP 13.21: Prioritäten richtig setzen: Keine Olympia-Bewerbung - Investitionen sofort in den Breitensport und die Schulsanierung lenken - überwiesen
+- TOP 13.22: Legale Free Open Air Fläche im Gleisdreieckpark - überwiesen
+- TOP 13.23: Ganzjähriges Böllerverbot im gesamten Bezirk Friedrichshain-Kreuzberg - überwiesen
+- TOP 13.24: Anschaffung von barrierefreien Spielgeräten auf den Spielplätzen im Bezirk durch den Aktionsplan Teilhabe und Barrierefreiheit - überwiesen
+- TOP 13.25: Integrierter Planungsprozess Großraum Ostkreuz - ohne Änderungen in der BVV beschlossen
+- TOP 13.26: Vorhandenes pflegen anstatt immer neuer Prestigeprojekte - Prioritäten beim Sondervermögen anpassen - überwiesen
+- TOP 13.27: Keine Poller und Radbügel im Zuge der Einführung der Parkzonen 54 (Friedenstraße) und 68 (Alexandrinenviertel) - überwiesen
+- TOP 13.28: Für mehr Sicherheit: Jessnerstraße besser beleuchten - überwiesen
+- TOP 13.29: Bedarfsbeschreibung und Konzept für Räume für Jugendliche im Mehringkiez - überwiesen
+- TOP 13.30: Das Zebra hat Scheuklappen - überwiesen
+- TOP 13.31: Fortführung der bezirklichen Antidiskriminie-rungsstelle für Schulen und Kitas: Anlauf- und Fachstelle für Diskriminierungsschutz an Schulen und Kitas in Friedrichshain-Kreuzberg (AuF-FK) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.32: Konzept „Herausforderungen der Mobilitätswende im urbanen Raum am Beispiel des Denkmalensembles Karl-Marx-Allee / Frankfurter Allee“ - überwiesen
+- TOP 13.33: Sichtbarkeit alevitischen Lebens im Bezirk - überwiesen
+- TOP 13.34: Wahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern für den Ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 13.35: Bebauungsplan VI-150g-2a VE „Wohnhochhaus (WoHo)“ mit dem Geltungsbereich Grundstück Schöneberger Straße 22 (Flurstück 2340, Flur Nr. 5) sowie grundstücksangrenzende Verkehrsflächen der Schöneberger Straße (Flurstück 2357, Flur Nr. 5) bis zur Mitte des Straßenraumes im Bezirk Friedrichshain-Kreuzberg, Ortsteil Kreuzberg - überwiesen
