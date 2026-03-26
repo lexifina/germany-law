@@ -1,0 +1,117 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-03-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9337993
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9337993
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2026 bis 2030; Frist: 20.04.2026
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Bericht Ortstermin Geplante Baumstandorte im Rahmen der Innenstadtbegrünung
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Herzog-Wilhelm-Str. 16 Sanierung und bauliche Erweiterung eines gewerblich genutzten Gebäudes mit Aufstockung und Balkonen (Herzog-Wilhelm-Str. 16 / Sonnenstr. 21); Frist: 16.04.2026
+- TOP 3.1.2.: Damenstiftstr. 9 Energetische Sanierung der Landesgeschäftsstelle sowie eine umfassende Umgestaltung der Büroflächen und Wohnungen. Bestandsgebäude, Nutzung bleibt unverändert; Frist: 16.04.2026
+- TOP 3.1.3.: Maffeistr. 4 Nutzungsänderung von Einheiten im 2. und 3. OG (Maffeistr. 4/ Theatinerstr. 7); Frist: 16.04.2026
+- TOP 3.1.4.: Promenadepl. 15 Umbau und Teilabbruch eines Bankgebäudes und Neubau eines Wohnhauses mit Büronutzung und Garage unter Erhalt der denkmalgeschützten Straßenfassade - ÄNDERUNGSANTRAG zu 1.1-2022-16256-21); Frist: 16.04.2026
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Fällungsantrag, Stollbergstr., Frist: 20.04.2026
+- TOP 3.2.2.: Fällungsantrag, Emil-Riedel-Str. 6, Frist: 23.04.2026
+- TOP 3.2.3.: Fällungsantrag, Prinzregentenstr. 11, Frist: 25.04.2026
+- TOP 3.2.4.: Fällungsantrag, Blumenstr. 39, Frist: 23.04.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag FW/FDP Fraktion: Ausnahmeregelung: Zufahrt Hotel und Grundschule St. Anna, TOP 2026.02 C 1.3
+- TOP 1.2.: Bürger*innenanliegen: Massive Verkehrsgefährdung und Gehwegblockade Roßmarkt 4-6/ Nähe Oberanger
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Altkleidersammelstelle Knöbelstr. / Karl-Scharnagl-Ring
+- TOP 2.2.: Änderung der Regelung des Taxistandplatzes in der Alexandrastraße (Ostseite)
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Karl-Scharnagl-Ring – Westseite – zwischen Maximilianstraße und Signalbereich Querung zur Bürkleinstraße; Aufhebung des Zweirichtungsradwegs (Anpassung der Beschilderung mit ergänzender Markierung eines Sicherheitstrennstreifens) auf einer Länge von ca. 80 m
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Anliegen BA: Konfetti Faschingsumzug Damische Ritter, TOP 2026.02 A 3
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget FC Englischer Garten e. V. Erstausstattung für den Trainings- und Spielbetrieb des FC Englischer Garten e. V. vom 13.04.2026-04.04.2027 8.758,04 Euro, Az.: 0262.100-1-0450
+- TOP 2.1.2.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. Für Kinder in den Sommerferien: Spielstadt Mini-München 4.590,00€; Az.: 0262.100-1-0452
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "Münchner G&#039;schichten" CVC x Münchner G&#039;schichten vom 28.08. -06.09.2026 4.000,00€; Az. 0262.100-1-0453
+- TOP 2.1.4.: (E) Stadtbezirksbudget Evang. Familienbildungsstätte Elly Heus-Knapp München gGmbH KUCKUCK-Festival (Kindertheater für Anfänger von 0-5Jahren) vom 13. -23.03.2026 2.845,87€; Az. 0262.100-1-0448
+- TOP 2.1.5.: (E) Stadtbezirksbudget Init. Ausstellung im EAREAR Meeting Room vom 16.04. -30.04.2026 2.625,00€; Az. 0262.100-1-0455
+- TOP 2.1.6.: (E) Stadtbezirksbudget z`sam Zentrum für freiwilliges Engagement, Diakonie München und Oberbayern Freiwilligentag München Mitte vom 15.03. -04.07.2026 1.000€; Az. 0262.100-1-0447
+- TOP 2.1.7.: (E) Stadtbezirksbudget Theater des hölzernen Gelächters Sommertheaterproduktion 2026 im Amphitheater des Englischen Gartens vom 20.06. -31.10.2026 2.300,00€; Az. 0262.100-1-0454
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Odeonsplatz 8-10: Änderung/ Erweiterung einer bestehenden Fläche
+- TOP 2.2.2.: Zweibrückenstr. 17: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.3.: Maximilianstr. 47: Genehmigung einer Freischankfläche
+- TOP 2.2.4.: Tal 42: Genehmigung einer Freischankfläche
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: Straßenfest Einweihung Fußgängerzone St.-Anna-Straße, 2026.01 C 2.2
+- TOP 3: Anhörungen
+- TOP 3.1.: Strandveranstaltung am Vater-Rhein-Brunnen, 01.05. - 14.09.26 (Termin: 07.04.2026)
+- TOP 3.2.: Digitales, partizipatives Namensdenkmal für alle Todesopfer des NS-Regimes in München, Sitzungsvorlage Nr. 20-26 / V 18682
+- TOP 3.3.: Kulturstrand am Maximiliansplatz / Grünfläche hinter dem Wittelsbacherbrunnen ab 01.05.26 -14.09.26 (Termin: 31.03.2026)
+- TOP 3.4.: Münchner Brauertag am 20.06.2026 (Termin: 24.04.2026)
+- TOP 3.5.: Aufstellung Gehölztröge und mobiles Grün 2026 und darüber hinaus; Schreiben KVR, TOP 2026.02 C 4.10
+- TOP 3.6.: "StrokeArtFair" vom 01.-03-05.2026 (Termin: 20.04.2026)
+- TOP 3.7.: Lesung aus verbrannten Büchern am 10.05.2026 auf dem sog. Odeonsplatz (Termin: 27.03.2026)
+- TOP 3.8.: Max-Joseph-Platz "Reisenede Internationale Folklore Festival" am 17.05.2026 (Termin: 24.04.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Abdruck Antwortschreiben zu BA-Antrag 20-26/B08516 "Stadtbezirksbudget effizient nutzen"
+- TOP A 7.2.: Hinweise zur Konstituierung der Bezirksausschüsse in der kommenden Amtsperiode
+- TOP A 7.3.: Broschüre Mehrjahresinvestitionsprogramm 2025 bis 2029
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Lerchenauer Straße (östlich) Preußenstraße (südlich) Riesenfeldstraße (westlich) Petuelring (nördlich) BMW Werk München - Stammgelände A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbs B) Entwicklungsperspektive BMW Werk München Stadtbezirk 11 - Milbertshofen-Am Hart
+- TOP B 4.4.: Keine börsennotierten Energieverträge Keine börsengekoppelten Energieverträge
+- TOP B 4.5.: Offener Brief des Mietervereins München e. V. und der LH München / Geplante Verkäufe von Caritas-Immobilien in München
+- TOP B 4.6.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP B 4.7.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP B 4.8.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Taxistandort Alexandrastraße
+- TOP C 4.3.: Bürger*innenanliegen Anordnung von Temposchwellen in der Galeriestraße, TOP 2025.12 C 1.4, Antwortschreiben Kreisverwaltungsreferat
+- TOP C 4.4.: Bürger*innenanliegen Ampelschaltung am Thomas-Wimmer-Ring, TOP 2025.10 C 1.2, Antwortschreiben Mobilitätsreferat
+- TOP C 4.5.: Bürger*innenanliegen Bedarfsampel Emil-Riedel-Straße, TOP 2025.10 C 1.1, Antwortschreiben Mobilitätsreferat
+- TOP C 4.6.: Interne Weisung - Spielplatz Hochbrückenstraße - Sperrung
+- TOP C 4.7.: Verkehrsberuhigung, Neugestaltung und Neuaufteilung des öffentlichen Raumes im Umgriff des Neubaus Hildegardstraße
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: temp. Kunstaktion "Curiosity Killed the Cat" am 29.06.-19.07.2026
+- TOP D 4.5.: Unterstützung für Mini-München aus dem Stadtbezirksbudget; BA 12
+- TOP D 4.6.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose
+- TOP 5.1.: Bezirksausschusssitzung April 2026
+- TOP 3.9.: Griech. orthodoxe Karfreitagsprozession, Auferstehungsfeier Salvatorpl. bis Marienplatz am 10. und 11.04.26 (Termin: 02.04.2026)
