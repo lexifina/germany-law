@@ -1,0 +1,51 @@
+# Gemeinderat (7. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2026-03-26T18:00:00+01:00
+- Ende: 2026-03-26T20:09:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZY2t5z_kFXrYu_qKfdt4NW0
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2110
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX_r2-worG7heND2Xi-ReFtbqHTAr_ix_PR48TocGoBI/Bekanntmachung_Gemeinderat_26.03.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRlY01Pb89k7CJgxemBVs5qNrjFIroXT63SmncEqnckZ/Oeffentliche_Niederschrift_Gemeinderat_26.03.2026.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Planungs- und Entwicklungsausschusses
+- TOP 3.1: 1) 53. Änderung des Flächennutzungsplans - Am Aldenhovener Gässchen - 2) Bebauungsplan 88 D - Am Aldenhovener Gässchen - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4 Abs. 1 BauGB, der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB und der erneuten Offenlage gem. § 4a Abs. 3 BauGB i.V.m. §§ 3 Abs. 2 und 4 Abs. 2 BauGB zu 1. und 2. b.) Feststellungsbeschluss zu 1. c.) Satzungsbeschluss zu 2. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Städtebaulicher Vertrag gem. § 11 Abs. 2 Nr. 2 BauGB über die Durchführung artenschutzfachlicher Maßnahmen und des Ausgleichs im Sinne des § 1a Abs. 3 BauGB - Kita Römerpark - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: 1.) 59. Änderung des Flächennutzungsplans - Erweiterung Kita Römerpark - 2.) Bebauungsplan 8 A 13. Änderung - Erweiterung Kita Römerpark - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4 Abs. 1 BauGB, der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB und der wiederholten Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB zu 1. und 2. b.) Feststellungsbeschluss zu 1. c.) Satzungsbeschluss zu 2. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Vorstellung des Projekts „GrünGestalten“ der Entwicklungsgesellschaft indeland GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: 2. Änderung der 23. Änderung des Bebauungsplans 15 A - Autohaus Chorus - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage und der erneuten Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB i.V.m. § 4a Abs. 3 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Satzungen, Ortsrecht
+- TOP 4.1: Anpassung der Satzung über die erforderlichen Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder und deren Ablösebeträge (Stellplatzsatzung) - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der CDU-Fraktion hier: Errichtung einer Bocciabahn in Niedermerz zur Förderung des gesellschaftlichen Miteinanders und der Dorfkultur - Für den Antrag der SPD-Fraktion gibt es die folgenden Stimmen:6 Ja-Stimme(n), 17 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.2: Antrag der CDU-Fraktion hier: Reaktivierung und teilweise Neugestaltung des Bolzplatzes in Niedermerz - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.3: Antrag der CDU-Fraktion hier: Kleinkinderspielplatz im Bereich des Hauses Pattern - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.4: Antrag der CDU-Fraktion hier: Prüfung eines geeigneten Standortes für ein Spiel- und Bewegungsangebot für Kinder in Aldenhoven - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.5: Antrag der CDU-Fraktion hier: Modernisierung des Spiel- und Sportplatzes in Dürboslar - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.6: Antrag der CDU-Fraktion hier: Ergänzung des Spielplatzes in Schleiden für Jugendliche - Abgesetzt
+- TOP 5.7: Antrag der CDU-Fraktion hier: Spielplatz in Freialdenhoven und Dorftreffpunkt in Engelsdorf - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Vermarktungskriterien der Grundstücke im Neubaugebiet "Niedermerzer Straße" - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Verifizierte Machbarkeitsstudie zur Grund- und Gesamtschule in Aldenhoven - Für den Antrag der AfD-Fraktion gibt es die folgenden Stimmen:6 Ja-Stimme(n), 17 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Beschluss über die Empfehlungen des Planungs- und Entwicklungsausschusses
+- TOP 2.1: Grunderwerb von Grünflächen in der Gemarkung Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Berichte aus den Gremien
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Verkauf einer Zwickelfläche in der Gemarkung Siersdorf, Flur 4, Flurstück 185 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Mitteilung des Bürgermeisters gemäß Korruptionsbekämpfungsgesetz - Kenntnisnahme
+- TOP 6.: Verschiedenes
