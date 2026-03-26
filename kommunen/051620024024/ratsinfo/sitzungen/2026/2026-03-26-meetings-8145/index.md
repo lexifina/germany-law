@@ -1,0 +1,51 @@
+# Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-03-26T17:00:00+01:00
+- Ende: 2026-03-26T19:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/233
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8145
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8145
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal am 26.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00242119.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal am 26.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00242119.pdf
+- Wortprotokoll: Sitzungsunterlagen Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal am 26.03.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00242119.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Verpflichtung sachkundiger Bürger*innen
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - zur Kenntnis genommen
+- TOP -: Empfehlungen an Fachausschüsse
+- TOP 5: Bonner Straße, Bushaltestelle Werresweg, Fahrtrichtung West (stadteinwärts): barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 6: Vorschläge zur Berufung weiterer beratender Mitglieder des Bezirksausschusses - mit Änderungen mehrheitlich zugestimmt
+- TOP 7: Einsatz von Dialog Displays im Bezirk VI - Gnadental, Grimlinghausen, Erfttal - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 8: Antrag der Mitglieder der CDU betr.: Übersicht über den Umsetzungsstand der Beschlüsse und Empfehlungen aus der vergangenen Wahlperiode - einstimmig zugestimmt
+- TOP 9: Antrag der Mitglieder der CDU betr.: Sanierung und Aufwertung des Kirmesplatzes Grimlinghausen - Aufnahme mit Priorität in ein städtische Sanierungskonzept - einstimmig zugestimmt
+- TOP 10: Antrag der Mitglieder der CDU betr.: Stand der Planungen zum Glasfaserausbau im Stadtteil Grimlinghausen durch die OXG Glasfaser GmbH - beraten ohne Abstimmung
+- TOP 11: Antrag der Mitglieder der CDU betr.: Umsetzung des Sicherheitskonzeptes an der Pestalozzischule - beraten ohne Abstimmung
+- TOP 12: Antrag der Mitglieder der SPD betr.: Berichterstattung zum Lärmaktionsplan (Maßnahme 17): Tempo 30 auf der Bonner Straße - beraten ohne Abstimmung
+- TOP 13: Antrag der Mitglieder der SPD betr.: Berichterstattung zum Radwege-Lückenschluss auf der Bonner Straße - mit Änderungen einstimmig zugestimmt
+- TOP 14: Antrag der Mitglieder der SPD betr.: Auswirkungen der Einrichtung von Schulstraßen in Grimlinghausen - beraten ohne Abstimmung
+- TOP 15: Antrag der Mitglieder der SPD betr.: Verkehrsregulierungsmaßnahmen auf der B9 (Bonner Straße/Kölner Straße) bei Stauereignissen - einstimmig zugestimmt
+- TOP 16: Antrag der Mitglieder der CDU betr.: Grünpflege am Schießstand Gnadental - beraten ohne Abstimmung
+- TOP 17: Antrag der Mitglieder der CDU betr.: Ampelanlage Berghäuschensweg auf der Höhe Konradstr. sicherer gestalten - einstimmig zugestimmt
+- TOP 18: Antrag der Mitglieder der SPD betr.: Schaffung einer Querungshilfe oder eines Zebrastreifens vor dem "Bürgerhaus Erfttal" - mehrheitlich zugestimmt
+- TOP 19: Anregung zur Tagesordnung betr.: LEG, Parkplätze Neuss-Erfttal, Verkehrssicherung L 142 - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP 20: Bericht und Austausch
+- TOP -: Mitteilungen der Verwaltung
+- TOP 21: Angsträume- Ergebnisse der ergänzenden Prüfungen - zur Kenntnis genommen
+- TOP 22: Unterstützung der LEG-Mieter*innen in Erfttal - zur Kenntnis genommen
+- TOP 23: Bundesautobahn A 46 - Mitteilung der Autobahn GmbH über einer Vorzugsvariante für den Ersatzneubau der Rheinbrücke Düsseldorf-Flehe - zur Kenntnis genommen
+- TOP 24: Ergebnisse von Verkehrsmessungen durch Dialog Displays - zur Kenntnis genommen
+- TOP 25: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 26: Ergebnisse zu Anregungen und Vorschlägen des Bezirksausschusses - zur Kenntnis genommen
+- TOP 27: Einwohner*innenfragestunde - zur Kenntnis genommen
