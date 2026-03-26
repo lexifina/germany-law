@@ -1,0 +1,59 @@
+# Rat der Gemeinde Ladbergen (69. Sitzung)
+
+- Körperschaft: Gemeinde Ladbergen
+- Beginn: 2026-03-26T19:00:00+01:00
+- Ende: 2026-03-26T21:45:00+01:00
+- Ort: Rathaus, Jahnstraße 5, 49549 Ladbergen, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ladbergen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfSMQOHtKjoY27eEZ8H6s9g
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2158
+- Quelle: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYezL_Gf7IwINF1AGLgaSKCmVgJwaWIpHlBjG_ee6GlS/Bekanntmachung_Rat_der_Gemeinde_Ladbergen_26.03.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWQppSfpgUWdt89_sh6nZOBOCYunsiVIbtSU50imy9ry/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Ladbergen_26.03.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Bericht der Verwaltung über die Durchführung von Beschlüssen
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Bürgerantrag gem. § 24 GO hier: Antrag auf Wiederherstellung des Spielplatzes Waldweg - (kein Text vorhanden)
+- TOP 3.1: Bürgerantrag gem. § 24 GO hier: Antrag auf Wiederherstellung des Spielplatzes Waldweg - 13 Ja, 9 Nein, 0 Enthaltung(en)
+- TOP 4: Antrag der FDP-Fraktion vom 27.02.2026 hier: Antrag zur Umnutzung der Spielplätze „Auf dem Kamp“ und „Waldweg“ - 13 Ja, 8 Nein, 1 Enthaltung(en)
+- TOP 5: Antrag der SPD-Fraktion vom 02.02.2026 Errichtung von Notinseln - Einstimmig
+- TOP 6: Förderantrag der Spielkiste Ladbergen e.V. - Einstimmig
+- TOP 7: Antrag der FDP-Fraktion hier: Antrag zu Flüchtlingsunterkünften - Einstimmig
+- TOP 8: Antrag der CDU-Fraktion hier: Antrag zum Haushalt 2026 - 8 Ja, 14 Nein, 0 Enthaltung(en)
+- TOP 9: Antrag der SPD-Fraktion zum Haushalt 2026 hier: Berücksichtigung von zu übertragenden Haushaltsmitteln aus dem Produktbereich 55 - 14 Ja, 8 Nein, 0 Enthaltung(en)
+- TOP 10: Antrag der CDU-Fraktion hier: Antrag zum Haushalt 2026 - Abgesetzt
+- TOP 11: Antrag der SPD-Fraktion hier: Errichtung öffentlicher Toiletten im Bereich der Spielarena 12+ - Einstimmig
+- TOP 12: Optimierung Spielarena 12+ Vorstellung der Planung und weiteres Vorgehen - 14 Ja, 8 Nein, 0 Enthaltung(en)
+- TOP 13: Antrag der SPD-Fraktion zum Haushalt 2026 hier: Abänderung des Hebesatzes für die Grundsteuer A auf den fiktiven Hebesatz - 9 Ja, 13 Nein, 0 Enthaltung(en)
+- TOP 14: Antrag der SPD-Fraktion hier: Antrag zum Haushalt 2026 - 11 Ja, 10 Nein, 1 Enthaltung(en)
+- TOP 15: Haushaltssatzung nebst Anlagen für das Haushaltsjahr 2026 - 14 Ja, 8 Nein, 0 Enthaltung(en)
+- TOP 16: Haushalt 2025 Ermächtigungsübertragungen gem. § 22 KomHVO - (kein Text vorhanden)
+- TOP 17: Antrag der FDP-Fraktion hier: Künftige Vergabe von kommunalen Wohnungsbaugrundstücken - 12 Ja, 10 Nein, 0 Enthaltung(en)
+- TOP 18: Antrag der Fraktion Bündnis 90/Die Grünen vom 13.01.2026: Organisatorische Weiterentwicklung der gemeindlichen Müllsammelaktion - Einstimmig
+- TOP 19: Antrag der CDU-Fraktion hier: Kreisverkehr Grevener Straße / Zur Königsbrücke / Linnenkampstraße - Einstimmig
+- TOP 20: Antrag der CDU-Fraktion Hier: Kreisverkehr Telgter Damm / Abzweig Ostbeverner Damm - 11 Ja, 11 Nein, 0 Enthaltung(en)
+- TOP 21: Antrag der CDU-Fraktion vom 09.02.2026 Vereinfachung des Wegemähplanes der Randstreifen an den Gemeindestraßen - 15 Ja, 6 Nein, 1 Enthaltung(en)
+- TOP 22: Antrag der Fraktion Bündnis 90/Die Grünen hier: Entschärfung der Kreuzung Kattenvenner Str. / Telgter Damm / Dorfstraße durch den Umbau zu einem Kreisverkehr - Einstimmig
+- TOP 23: Antrag der Fraktion Bündnis 90 / Die Grünen hier: Nutzung der Wassermühle (nördliches Gebäude) sowie der Stauanlage - Einstimmig
+- TOP 24: Vorstellung der Planung Straßenendausbau B-Plan Nr. 120 „Espenhof“ – 2. Änderung / Erweiterung - Einstimmig
+- TOP 25: 46. Änderung des Flächennutzungsplanes und Bebauungsplan Nr. 126 “Solarpark Ladbergen A-1” hier: Beschluss zur Aufhebung - Einstimmig
+- TOP 26: 49. Änderung des Flächennutzungsplanes der Gemeinde Ladbergen hier: Beschluss über den Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB und § 2 Abs. 4 BauGB - Einstimmig
+- TOP 27: 1. Ergänzung des Bebauungsplanes Nr. 31 „In der Laake“ der Gemeinde Ladbergen hier: Beschluss über den Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB und § 2 Abs. 4 BauGB - Einstimmig
+- TOP 28: 51. Änderung des Flächennutzungsplanes der Gemeinde Ladbergen hier: a) Beratung von Anregungen b) Feststellungsbeschluss - 18 Ja, 3 Nein, 1 Enthaltung(en)
+- TOP 29: Vorhabenbezogener Bebauungsplan Nr. 127 „Freiflächen Photovoltaikanlage Zur Königsbrücke“ hier: Erneute Beteiligung der Öffentlichkeit und Behörden gem. § 4a Abs. 3 in Verbindung mit § 3 Abs. 2 BauGB - 17 Ja, 4 Nein, 1 Enthaltung(en)
+- TOP 30: Befreiung von den Festsetzungen des Bebauungsplanes Nr. 26 „Stieneckers Esch“ - Einstimmig
+- TOP 31: Kooperationsvereinbarung über die Wahrnehmung der Aufgaben zur Erfüllung des Rechtsanspruches auf Förderung von Kindern im schulpflichtigen Alter nach § 24 Abs. 4 SGB VIII - Einstimmig
+- TOP 32: Mittelbare Beteiligung der Stadtwerke Lengerich GmbH über die Trianel GmbH an der Trianel Wasserstoffkraftwerk Hamm GmbH & Co. KG - (kein Text vorhanden)
+- TOP 32.1: Mittelbare Beteiligung der Stadtwerke Lengerich GmbH über die Trianel GmbH an der Trianel Wasserstoffkraftwerk Hamm GmbH & Co. KG - Einstimmig
+- TOP 33: Mittelbare Beteiligung der Stadtwerke Lengerich GmbH über die Trianel GmbH an der Trianel Gas-/Wasserstoffkraftwerk Hamm Verwaltungs GmbH - Abgesetzt
+- TOP 34: Vorlage des Prüfungsberichtes der Gemeindeprüfungsanstalt (GPA) über die überörtliche Prüfung der Gemeinde Ladbergen von Mai 2024 bis Juli 2025 - Einstimmig
+- TOP 35: Bestellung der allgemeinen Vertreterinnen des Bürgermeisters - Einstimmig
+- TOP 36: Benennung von Vertretern in sonstigen Einrichtungen - Einstimmig
+- TOP 37: Mitteilungen und Anfragen
+- TOP 37.1: Baufortschritt Grundschule
+- TOP 37.2: Veröffentlichung nach dem Korruptionsbekämpfungsgesetz
+- TOP 37.3: Baumpflanzungen "Zur Königsbrücke"
