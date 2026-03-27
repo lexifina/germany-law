@@ -1,0 +1,77 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-03-27T14:00:00+01:00
+- Ende: 2026-03-27T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29603
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29603
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581213.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581213.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00581213.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die gemeinsame öffentliche Sitzung der Bezirksvertretung 1 und Bezirksvertretung 4 vom 12.01.2026 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sitzung vom 27.02.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 3.1: Zulassung einer Vertretung des Behindertenrats - einstimmig beschlossen
+- TOP 3.2: Zulassung einer Vertretung des Jugendrats - einstimmig beschlossen
+- TOP 4: Eingaben nach § 24 GO NRW
+- TOP 4.1: Unterstützung für eine Fahrradquartiersgarage in der Mozartstraße - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Projektvorstellung 'Jugend checkt Düsseldorf' - zur Kenntnis genommen
+- TOP 5.2: Sachstandsbericht Worringer Platz - zur Kenntnis genommen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 01/032 - Kennedydamm 55/Roßstraße - Empfehlung mehrheitlich beschlossen
+- TOP 5.5: Tempo 30 auf "An der Piwipp" - Empfehlung mehrheitlich beschlossen
+- TOP 5.6: Tempo 30 von 22-6 Uhr auf der Worringer Straße - Empfehlung mehrheitlich beschlossen
+- TOP 5.7: Inbetriebnahme U80/U81 - Empfehlung mehrheitlich beschlossen
+- TOP 5.8: Altstadt – Anpassung des Sanierungskonzeptes für die vorhandenen Oberflächen - Empfehlung einstimmig beschlossen
+- TOP 5.9: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 5.10: Errichtung von Düsselbike-Stationen im Stadtbezirk 1 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 5.11: Bereitstellung von Mitteln für den Jahresempfang 2026 - mehrheitlich beschlossen
+- TOP 5.12: Mobilitätsstationen im Förderprojekt Multi-Mo-DUS zur Förderung von Nahmobilität und Intermodalität im Alltag – Realisierungsphase 3.1 - Empfehlung mehrheitlich beschlossen
+- TOP 5.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2026 - abweichend beschlossen
+- TOP 5.14: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Aktueller Planungs- und Umsetzungsstand des Förderprojekts EKISO Bismarckstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 6.2: Stellplatzablöse im Stadtbezirk 1 - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Ruhende Baustelle Tannenstraße 2-6/Ecke Roßstraße (ehemaliges Gebäude des Forschungszentrums der Zementindustrie) - Anfrage - zur Kenntnis genommen
+- TOP 6.4: Platz vor der Kapelle an der Ulmenstraße 97 - - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Parkraumentwicklung innerhalb des Stadtbezirk 1 - Anfrage der AfD-Fraktion
+- TOP 7.2: Sichere und überdachte Fahrradabstellanlagen in Tiefgaragen in der Altstadt - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7.3: Schulstraßen und Schulwegsicherheit im Stadtbezirk 1 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7.4: Leerstand Kennedydamm 9 - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Einrichtung einer Lieferzone in der Worringer Straße vor den Hausnummern 82 und 86 – überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.2: Schulwegsicherung auf der Gerresheimer Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Installation von Fahrradabstellmöglichkeiten an der Kreuzung Adlerstraße/Beuthstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.4: Temporäre Sicherungsmaßnahme für einen Fußgänger-Überweg auf der Rather Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Ampelschaltung Ost-/Immermannstraße - überfraktioneller Antrag - abweichend beschlossen
+- TOP 8.6: Begehung der Tempo 30 Zone zwischen Toulouser Allee, Adlerstraße und Bagelstraße – überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.7: Umgestaltung des Kolonialkriegerdenkmals auf dem Frankenplatz - überfraktioneller Antrag - abweichend beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Sicherung der freien Ausfahrtmöglichkeit von Einsatzfahrzeugen der Feuerwache auf der Münsterstraße; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/023/2026 - zur Kenntnis genommen
+- TOP 9.2: Darstellung des Zeitplans zur Umgestaltung des Grabbeplatzes und der angrenzenden Parkhäuser - Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/025/2026 - zur Kenntnis genommen
+- TOP 9.3: Verkehrskonzept Weihnachtssamstage – Evaluation und Folgerungen für 2026/2027; Beschluss der Bezirksvertretung 1 vom 27.02.2026; BV1/039/2026 - zur Kenntnis genommen
+- TOP 9.4: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.5: Änderung der Verkehrsführung am Carlsplatz; Beschluss der Bezirksvertretung 1 vom 27.06.2025; BV1/171/2025 - zur Kenntnis genommen
+- TOP 9.6: Darstellung der Planungen zur Umgestaltung des Bolker Sterns; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/027/2026 - zur Kenntnis genommen
+- TOP 9.7: Ermöglichung des Linksabbiegens von der Schwerinstraße Richtung Nord in die Klever Straße Richtung West; beschluss der Bezirksvertretung 1 vom 27.02.2026; BV1/054/2026 - zur Kenntnis genommen
+- TOP 9.8: Einrichtung einer Ladezone für die ansässigen Gewerbetreibenden des Carlsplatzes; Beschluss der Bezirksvertretung 1 vom 27.02.2026; BV1/038/2026 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Büdchentag e.V. - vertagt
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Elternbeirat KiTa Klosterstraße - einstimmig beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - KG Tills Freunde Düsseldorf-Derendorf e.V. - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Alde Düsseldorfer Bürgergesellschaft von 1920 e.V. - einstimmig beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Kunstverein für die Rheinlande und Westfalen - einstimmig abgelehnt
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Freundeskreis des Goethe-Museums Düsseldorf e.V. - abweichend beschlossen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - einEUROhilft e.V. - vertagt
+- TOP 11: Verschiedenes - zur Kenntnis genommen
