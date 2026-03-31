@@ -1203,6 +1203,7 @@ bisherigen Nutzung](0590.md)
 
 - [§ 650u Bauträgervertrag; anwendbare Vorschriften](0650u.md)
 - [§ 650v Abschlagszahlungen](0650v.md)
+- [§ 651 (jetzt § 650)](0651.md)
 
 ##### Untertitel 4 Pauschalreisevertrag, Reisevermittlung und Vermittlung verbundener Reiseleistungen
 

@@ -32,6 +32,7 @@ Inhaltsübersicht
 | 29 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierinstitutsgesetzes (WpIG) |
 | 30 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858 |
 | 31 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditzweitmarktgesetzes (KrZwMG) |
+| 31a | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2015/61 |
 | 32 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2023/1114 und des Kryptomärkteaufsichtsgesetzes |
 | 33 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/2554 |
 | Nr. | Gebührentatbestand | Gebühr in Euro |
@@ -117,7 +118,6 @@ Inhaltsübersicht
 | 5.1.4.4 | Anordnung nach § 10a KWG | nach Zeitaufwand |
 | 5.1.5 | Individuell zurechenbare öffentliche Leistungen in Bezug auf Institutsgruppen und Finanzholding-Gruppen sowie gemischte Finanzholding-Gesellschaften |  |
 | 5.1.5.1 | Bestimmung eines anderen gruppenangehörigen Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft als übergeordnetes Unternehmen (§ 10a Absatz 1 Satz 5 oder Satz 6 KWG; § 10a Absatz 2 Satz 1, Satz 2 oder Satz 3 KWG) | nach Zeitaufwand |
-| 5.1.5.2 | Zustimmung zur weiteren Nutzung des Verfahrens nach § 10a Absatz 4 KWG zur Ermittlung der zusammengefassten Eigenmittelausstattung einer Institutsgruppe, Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe (§ 10a Absatz 6 KWG) | nach Zeitaufwand |
 | 5.1.6 | Individuell zurechenbare öffentliche Leistungen in Bezug auf Kapitalpuffer und Liquiditätsanforderungen |  |
 | 5.1.6.1 | Individuell zurechenbare öffentliche Leistungen in Bezug auf Kapitalpuffer nach den §§ 10c bis 10g KWG |  |
 | 5.1.6.1.1 | Anordnung eines Kapitalpuffers für systemische Risiken für alle Institute, bestimmte Arten oder Gruppen von Instituten nach § 10e Absatz 1 Satz 1, Absatz 4 Satz 1 und 3 oder Absatz 5 Satz 1 und 2 KWG | nach Zeitaufwand |
@@ -128,6 +128,11 @@ Inhaltsübersicht
 | 5.1.6.1.5.1 | Anordnung nach § 10i Absatz 8 Satz 1 Nummer 1 KWG | nach Zeitaufwand |
 | 5.1.6.1.5.2 | Anordnung nach § 10i Absatz 8 Satz 1 Nummer 2 KWG | nach Zeitaufwand |
 | 5.1.6.1.5.3 | Anordnung nach § 10i Absatz 8 Satz 2 KWG | nach Zeitaufwand |
+| 5.1.6.1.6 | Genehmigung eines Kapitalerhaltungsplanes nach § 10j Absatz 7 Satz 1 KWG | nach Zeitaufwand |
+| 5.1.6.1.7 | Anordnung nach § 10j Absatz 9 KWG |  |
+| 5.1.6.1.7.1 | Anordnung nach § 10j Absatz 9 Satz 1 Nummer 1 KWG | nach Zeitaufwand |
+| 5.1.6.1.7.2 | Anordnung nach § 10j Absatz 9 Satz 1 Nummer 2 KWG | nach Zeitaufwand |
+| 5.1.6.1.7.3 | Anordnung nach § 10j Absatz 9 Satz 2 KWG | nach Zeitaufwand |
 | 5.1.6.2 | Individuell zurechenbare öffentliche Leistungen in Bezug auf Liquidität nach § 11 KWG |  |
 | 5.1.6.2.1 | Anordnung höherer Liquiditätsanforderungen nach § 11 Absatz 3 KWG | nach Zeitaufwand |
 | 5.1.6.2.2 | Anordnung häufigerer oder umfangreicherer Meldungen zur Liquidität nach § 11 Absatz 4 KWG | nach Zeitaufwand |
@@ -162,7 +167,6 @@ Inhaltsübersicht
 | 5.1.12.3 | Erteilung einer Erlaubnis zur Erbringung von Finanzdienstleistungen und zum Betreiben von Bankgeschäften | nach Zeitaufwand |
 | 5.1.12.4 | Erlaubnis zur Tätigkeit als Datenbereitstellungsdienst |  |
 | 5.1.12.4.1 | Erlaubnis zur Tätigkeit als Datenbereitstellungsdienst im Sinne von § 1 Absatz 3a KWG | nach Zeitaufwand |
-| 5.1.12.4.2 | Feststellung nach § 32 Absatz 1f Satz 4 KWG | nach Zeitaufwand |
 | 5.1.12.5 | Erlaubniserweiterung Nachträgliche Erweiterung des Umfangs einer bestehenden Erlaubnis |  |
 | 5.1.12.5.1 | Erlaubniserweiterung, sofern sie sich nur auf die Erbringung von Finanzdienstleistungen bezieht | 3 262 |
 | 5.1.12.5.2 | Erlaubniserweiterung, sofern sie sich nur auf das Betreiben von Bankgeschäften bezieht | 10 114 |
@@ -220,14 +224,16 @@ Inhaltsübersicht
 | 5.2.1 | Gestattung zur Einbeziehung von Tochterunternehmen in die Berechnung nach Artikel 6 Absatz 1 der Verordnung (EU) Nr. 575/2013 (Artikel 9 Absatz 1 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
 | 5.2.2 | Verzicht auf die Einbeziehung einzelner Institute, Finanzinstitute oder Anbieter von Nebendienstleistungen, die Tochterunternehmen sind oder an denen eine Beteiligung gehalten wird, in die Konsolidierung (Artikel 19 Absatz 2 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
 | 5.2.3 | Erteilung der Erlaubnis |  |
-| 5.2.3.1 | zur Verwendung des IRB-Ansatzes, eines Ratingsystems, einschließlich eines Ansatzes für Schätzungen der LGD und Umrechnungsfaktoren, eines auf internen Modellen basierenden Ansatzes für Beteiligungspositionen (Artikel 143 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
+| 5.2.3.1 | zur Verwendung des IRB-Ansatzes, eines Ratingsystems, einschließlich eines Ansatzes für Schätzungen der LGD und Umrechnungsfaktoren (Artikel 143 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
 | 5.2.3.2 | für wesentliche Änderungen nach Artikel 143 Absatz 3 der Verordnung (EU) Nr. 575/2013 oder zur Rückkehr zu einem weniger anspruchsvollen Ansatz für das Kreditrisiko nach Artikel 149 der Verordnung (EU) Nr. 575/2013 | 3 632 |
-| 5.2.4 | Untersagung der Nutzung des Standardansatzes für das operationelle Risiko (§ 6 KWG in Verbindung mit Artikel 312 und 320 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
-| 5.2.5 | Gestattung zur Verwendung eines alternativen maßgeblichen Indikators im Standardansatz für das operationelle Risiko (Artikel 312 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
-| 5.2.6 | Genehmigung zum beantragten Wechsel zu einem weniger komplizierten Ansatz für das operationelle Risiko (Artikel 313 Absatz 3 Buchstabe b der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
-| 5.2.7 | Gestattung der teilweisen Anwendung eines fortgeschrittenen Messansatzes in Kombination mit dem Basisindikator- oder Standardansatz (Artikel 314 Absatz 2 in Verbindung mit Absatz 1 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
-| 5.2.8 | Genehmigung oder Erlaubnis zur eigenen Berechnung des Delta-Faktors unter Verwendung eines geeigneten Modells (Artikel 329 Absatz 1 Satz 4, Artikel 352 Absatz 1 Satz 3 oder Artikel 358 Absatz 3 Satz 4 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
-| 5.2.9 | Fristeinräumung bei Großkreditüberschreitung; Festsetzung einer höheren Großkreditobergrenze im Einzelfall (Artikel 396 Absatz 1 Unterabsatz 1 und 2 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
+| 5.2.3.3 | zur Anwendung eines Risikogewichts von 100 Prozent auf Beteiligungsrisikopositionen nach Artikel 133 Absatz 5 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
+| 5.2.4 | Genehmigung oder Erlaubnis zur eigenen Berechnung des Delta-Faktors unter Verwendung eines geeigneten Modells (Artikel 329 Absatz 1 Satz 4, Artikel 352 Absatz 1 Satz 3 oder Artikel 358 Absatz 3 Satz 4 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
+| 5.2.5 | Fristeinräumung bei Großkreditüberschreitung; Festsetzung einer höheren Großkreditobergrenze im Einzelfall (Artikel 396 Absatz 1 Unterabsatz 1 und 2 der Verordnung (EU) Nr. 575/2013) | nach Zeitaufwand |
+| 5.2.6 | Genehmigung der Zuordnung einer Position von Instrumenten zum Nichthandelsbuch in Abweichung von Artikel 104 Absatz 2 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
+| 5.2.7 | Genehmigung der Zuordnung einer Position von Instrumenten zum Handelsbuch in Abweichung von Artikel 104 Absatz 3 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
+| 5.2.8 | Genehmigung zur Ausnahme von strukturellen Fremdwährungspositionen von der Berechnung der Eigenmittelanforderungen nach Artikel 325 Absatz 1 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
+| 5.2.9 | Genehmigung von Änderungen im Risikomanagementrahmenwerk mit Bezug auf Ausnahmen von strukturellen Fremdwährungspositionen von der Berechnung der Eigenmittelanforderungen nach Artikel 325 Absatz 1 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
+| 5.2.10 | Genehmigung der Ausnahme von Instrumenten aus der Berechnung der Aufschläge für Restrisiken aufgrund von Hedgebeziehungen nach Artikel 325u Absatz 4a der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
 | 5.3 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 1024/2013 |  |
 | 5.3.1 | Mitteilung des Beschlussentwurfs über die Zulassung zum Betreiben des Einlagen- und Kreditgeschäfts an ein CRR-Kreditinstitut (Artikel 14 Absatz 2 Satz 2 Verordnung (EU) Nr. 1024/2013; § 32 Absatz 7 in Verbindung mit Absatz 1 Satz 1 KWG) | nach Zeitaufwand |
 | 5.3.2 | Vorlage eines Beschlussentwurfs über den Entzug einer Zulassung zum Einlagen- und Kreditgeschäft, das von einem CRR-Kreditinstitut betrieben wird (Artikel 14 Absatz 5 Unterabsatz 2 Satz 1 Verordnung (EU) Nr. 1024/2013) | nach Zeitaufwand |
@@ -236,15 +242,25 @@ Inhaltsübersicht
 | 5.5 | Einschreiten gegen ungesetzliche Geschäfte |  |
 | 5.5.1 | Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden (§ 37 Absatz 1 Satz 1 und 2 KWG) | 4 120 |
 | 5.5.2 | Verwaltungsakte im Sinne von Nummer 5.5.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben (§ 37 Absatz 1 Satz 4 KWG, auch in Verbindung mit § 37 Absatz 1 Satz 1 und 2 KWG) | 1 323 |
+| 5.6 | Genehmigung von Ausnahmen der Liquiditätsregulierung |  |
+| 5.6.1 | Genehmigung der vollständigen oder teilweisen Befreiung der Anwendung des Teils 6 der Verordnung (EU) 575/2013 für ein Institut und alle oder einige seiner Tochterunternehmen nach Artikel 8 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
+| 5.6.2 | Zustimmung zur Behandlung von einem Aktivum und einer Verbindlichkeit als interdependent nach Artikel 428f nach vorangehender Prüfung der Kriterien aus Artikel 428f Absatz 1 der Verordnung (EU) Nr. 575/2013 | nach Zeitaufwand |
 | 6 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Liquiditätsverordnung (LiqV) |  |
 | 6.1 | Zustimmung zur Verwendung interner Liquiditätsrisikomess- und -steuerungsverfahren (§ 10 Absatz 1 Satz 1 und Absatz 4 Satz 1 LiqV) | nach Zeitaufwand |
 | 6.2 | Zustimmung zu einem beantragten Wechsel zum Verfahren nach den §§ 2 bis 8 LiqV zur Feststellung ausreichender Liquidität (§ 10 Absatz 1 Satz 1 LiqV) | nach Zeitaufwand |
 | 7 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Solvabilitätsverordnung (SolvV) |  |
-| 7.1 | Verwendung interner Risikomessverfahren |  |
-| 7.1.1 | Zustimmung zur Verwendung der IMM (§ 18 SolvV) | nach Zeitaufwand |
-| 7.1.2 | Zulassung eines fortgeschrittenen Messansatzes (§ 20 SolvV) | nach Zeitaufwand |
-| 7.1.3 | Erteilung der Erlaubnis, die Eigenmittelanforderungen für eine oder mehrere Risikokategorien mit Hilfe eines internen Modells gemäß Artikel 363 Absatz 1 der Verordnung (EU) Nr. 575/2013 zu berechnen (§ 21 SolvV) | nach Zeitaufwand |
-| 7.2 | Zustimmung zur beantragten Ermittlung der Eigenmittelanforderungen nach Artikel 326 bis 361 der Verordnung (EU) Nr. 575/2013 nach erteilter Zustimmung zur Verwendung interner Modelle für Marktrisiken (§ 21 Absatz 3 SolvV) | nach Zeitaufwand |
+| 7.1 | Erlaubnis zur Verwendung eines internen Ansatzes |  |
+| 7.1.1 | Erlaubnis zur Verwendung der auf einem internen Modell beruhenden Methode (IMM) (§ 18 Absatz 1 SolvV) | nach Zeitaufwand |
+| 7.1.2 | Erlaubnis zur Anwendung eines internen Einstufungsverfahrens (§ 19 Absatz 2 SolvV) | nach Zeitaufwand |
+| 7.1.3 | Erlaubnis zur Anwendung eines internen Modells für Netting-Rahmenvereinbarungen (§ 20 Absatz 1 SolvV) | nach Zeitaufwand |
+| 7.1.4 | Erlaubnis zur Anwendung eines alternativen auf einem internen Modell beruhenden Ansatzes (§ 21 Absatz 1 SolvV) | nach Zeitaufwand |
+| 7.2 | Erlaubnis zur Verwendung einer wesentlichen Änderung eines internen Ansatzes oder zur Verwendung eines weniger anspruchsvollen Ansatzes |  |
+| 7.2.1 | Erteilung der Erlaubnis für wesentliche Änderungen nach § 18 Absatz 2 SolvV oder zur Ermittlung der Risikopositionswerte für das Gegenparteiausfallrisiko nach einem weniger anspruchsvollen Ansatz für das Gegenparteiausfallrisiko nach § 18 Absatz 3 SolvV | nach Zeitaufwand |
+| 7.2.2 | Erteilung der Erlaubnis für wesentliche Änderungen nach § 19 Absatz 4 SolvV oder zur Ermittlung der Eigenmittelanforderungen nach einem weniger anspruchsvollen Ansatz nach § 19 Absatz 5 SolvV | nach Zeitaufwand |
+| 7.2.3 | Erteilung der Erlaubnis für wesentliche Änderungen nach § 20 Absatz 2 SolvV oder zur Ermittlung des vollständig angepassten Risikopositionswerts (E*) einer Netting-Rahmenvereinbarung nach einem weniger anspruchsvollen Ansatz nach § 20 Absatz 3 SolvV | nach Zeitaufwand |
+| 7.2.4 | Erteilung der Erlaubnis für wesentliche Änderungen oder Erweiterungen nach § 21 Absatz 1 Satz 2 SolvV oder zur beantragten Ermittlung der Eigenmittelanforderungen nach einem weniger anspruchsvollen Ansatz (§ 21 Absatz 3 SolvV) | nach Zeitaufwand |
+| 7.3 | Verlangen eines Plans zur zeitnahen Rückkehr des Instituts zur Regelkonformität oder eines Nachweises des Instituts, dass die Auswirkungen des Nichteinhaltens der Anforderungen unwesentlich sind, nach § 4 Absatz 3 SolvV | nach Zeitaufwand |
+| 7.4 | Verlangen einer Nachbesserung eines Plans zur zeitnahen Rückkehr des Instituts zur Regelkonformität nach § 4 Absatz 4 SolvV | nach Zeitaufwand |
 | 8 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Anlegerentschädigungsgesetzes (AnlEntG) |  |
 | 8.1 | Gebühr für die Zurückweisung eines Widerspruchs gegen einen Beitragsbescheid nach § 8 AnlEntG | bis zu 10 % des streitigen Betrages; mindestens 50 Euro |
 | 9 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Gesetzes über die Bundesanstalt für Finanzdienstleistungsaufsicht (FinDAG) |  |
@@ -546,6 +562,9 @@ Inhaltsübersicht
 | 29.6.6 | Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem Wertpapierinstitut bestimmt sind (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG) | nach Zeitaufwand |
 | 29.6.7 | Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen (§ 79 Absatz 2 WpIG) | nach Zeitaufwand |
 | 29.7 | Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG | nach Zeitaufwand |
+| 29.8 | Zulassung als Datenbereitstellungsdienst |  |
+| 29.8.1 | Zulassung nach § 78e Absatz 1 WpIG i. V. m. Artikel 27b Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 600/2014 | nach Zeitaufwand |
+| 29.8.2 | Feststellung nach § 78e Absatz 4 WpIG i. V. m. Artikel 27b Absatz 2 Satz 1 der Verordnung (EU) Nr. 600/2014 | nach Zeitaufwand |
 | 30 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858 |  |
 | 30.1 | Erteilung einer besonderen Genehmigung, einer Ausnahme oder einer Änderung einer Genehmigung oder Ausnahme nach Artikel 8, 9 oder 10 der Verordnung (EU) 2022/858 | nach Zeitaufwand |
 | 31 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditzweitmarktgesetzes (KrZwMG) |  |
@@ -571,6 +590,9 @@ Inhaltsübersicht
 | 31.9 | Einschreiten gegen unerlaubte Geschäfte |  |
 | 31.9.1 | Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden (§ 38 Absatz 1 Satz 1 und 2 KrZwMG) | 4 120 |
 | 31.9.2 | Verwaltungsakte im Sinne der Nummer 31.9.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben (§ 38 Absatz 1 Satz 4 i. V. m. Satz 1 und 2 KrZwMG) | 1 323 |
+| 31a | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2015/61 |  |
+| 31a.1 | Festlegung einer Abflussrate von Produkten und Dienstleistungen nach Artikel 23 der Delegierten Verordnung (EU) 2015/61 | nach Zeitaufwand |
+| 31a.2 | Genehmigung der Berechnung von mit Zuflüssen einhergehenden Abflüssen nach Artikel 26 der Delegierten Verordnung (EU) 2015/61 | nach Zeitaufwand |
 | 32 | Individuell zurechenbare öffentliche Leistung auf der Grundlage der Verordnung (EU) 2023/1114 und des Kryptomärkteaufsichtsgesetzes |  |
 | 32.1 | Erteilung einer Zulassung |  |
 | 32.1.1 | Erteilung einer Zulassung zum Emittieren vermögenswertreferenzierter Token (Artikel 16 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114) | nach Zeitaufwand |
@@ -593,8 +615,8 @@ Inhaltsübersicht
 | 32.5.4 | Maßnahmen zur Produktintervention (Artikel 105 der Verordnung (EU) 2023/1114) | 13 379 |
 | 32.6 | Individuell zurechenbare öffentliche Leistungen in Bezug auf die Übernahme (Titel III Kapitel 4 und Titel V Kapitel 4 der Verordnung (EU) 2023/1114) |  |
 | 32.6.1 | Einspruch gegen die Übernahme (Artikel 42 Absatz 2, Artikel 82 Absatz 2 der Verordnung (EU) 2023/1114) | nach Zeitaufwand |
-| 32.6.2 | Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf (§ 25 Absatz 7 Satz 1 KMAG) | nach Zeitaufwand |
-| 32.6.3 | Beauftragung eines Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen (§ 25 Absatz 7 Satz 4 KMAG) | nach Zeitaufwand |
+| 32.6.2 | Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf (§ 25 Absatz 9 Satz 1 KMAG) | nach Zeitaufwand |
+| 32.6.3 | Beauftragung eines Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen (§ 25 Absatz 9 Satz 4 KMAG) | nach Zeitaufwand |
 | 32.7 | Maßnahmen in Bezug auf die laufende Aufsicht von Instituten |  |
 | 32.7.1 | Anordnung der Berichterstattung durch Emittenten vermögenswertreferenzierter Token (Artikel 22 Absatz 3 der Verordnung (EU) 2023/1114) | nach Zeitaufwand |
 | 32.7.2 | Maßnahmen zur Beschränkung der Ausgabe vermögenswertreferenzierter Token (Artikel 23 der Verordnung (EU) 2023/1114) in Verbindung mit § 28 KMAG | nach Zeitaufwand |
