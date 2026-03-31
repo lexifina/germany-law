@@ -1,0 +1,111 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-03-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967641
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967641
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 27.01.2026
+- TOP 1.2.2.: Protokoll der Sitzung vom 24.02.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 24.02.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Kreillerstr. 20 - Neubau einer Wohnanlage mit einer Kindertagesstätte und Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Guffertstr. 32 - Neubau von zwei Mehrfamilienhäusern mit einer Tiefgarage - VORBESCHEID
+- TOP 3.1.3.: Inzeller Weg 1 - Teilabbruch und Errichtung von Nebenanlagen in den Außenanlagen dreier Mehrfamilienhäuser, Erstellung der Feuerwehrzufahrt
+- TOP 3.1.4.: Inzeller Weg 7 - Errichtung von Nebenanlagen in den Außenanlagen dreier Mehrfamilienhäuser, Erstellung der Feuerwehrzufahrt
+- TOP 3.1.5.: Riedgaustr. 4 - Neubau eines Gebäudes für Rettungswache mit Fahrzeughalle, Mitarbeiterwohnungen, Wohnungen für betreutes Wohnen, Demenztagespflege und einer Tiefgarage - vertagt aus der Plenumssitzung vom 24.02.2026 -
+- TOP 3.1.6.: Hundeverbots-Poller rund um den Waldgarten; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Aktion: Container für Sperrmüllentsorgung im Bereich Achtentalstr./ Pertisaustr.; Anliegen aus der Bürgerschaft
+- TOP 3.1.8.: Einsparung der mobilen Toilette freitags auf dem Berg am Laimer Wochenmarkt; Antrag der Freien Wähler/ÖDP-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Austausch einer Lichtsignalanlage - Standort Else-Rosenfeld-/ Josephsburgstr.; Anhörung des Mobilitätsreferat, Frist bis zum 16.04.2026
+- TOP 3.2.2.: Einführung "Pkw-Parken" an der Josephsburgstr. Nordseite westlich der Einmündung Baumkirchner Str.; Anhörung des Mobilitätsreferats, Frist bis zum 22.04.2026
+- TOP 3.2.3.: In der Verlängerung der Trostberger Str. nach Norden der begrünte Mittelstreifen durch eine Mittelinsel für Fußgänger als Übergang ersetzen; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Erweiterung des ÖPNV Angebots am Innsbrucker Ring; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Beschilderung Annabrunner Str. 17; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Einrichtung eines absoluten Haltverbot in der Truderinger Str. 172-182; Anhörung des Mobilitätsreferats, Frist bis zum 27.04.2026
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage: St. Veit-Str. - RioArtistik (Zirkus-Musical-Theater) vom 15.05.2026 bis 17.05.2026; Anhörung des Kreisverwaltungsreferats, Frist bis zum 22.04.2026
+- TOP 3.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage: RioArtistik (Zirkus-Musical-Theater) vom 15.05.2026 bis 17.05.2026; Anhörung des Kreisverwaltungsreferats, Frist bis zum 22.04.2026
+- TOP 3.3.3.: Veranstaltung im Freien in einer städtischen Grünanlage: Baumkirchner Str. 22-26, Grüner Markt - Maifeier am 01.05.2026; Anhörung des Kreisverwaltungsreferats, Frist bis zum 20.04.2026
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Frauenhaus in Berg am Laim
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Stiftung Kulturator | Gute-Dinge-Stiftung Tanz für Alle im Wohnprojekt vom 01.03. - 31.12.2026 2.400,00 €; Az. 0262.100-14-0488
+- TOP 3.5.2.: (E) Stadtbezirksbudget AKA - Aktiv für interKultrellen Austausch e. V. Formularservice vom 01.03. - 31.12.2026 2.979,75 €; Az. 0262.100-14-0490
+- TOP 3.5.3.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit in München e. V. Frühlingsralley RamBal - Ramersdorf und Berg am Laim gemeinsam entdecken am 24.04.2026 2.575,00 €; Az. 0262.100-14-0491
+- TOP 3.5.4.: (E) Stadtbezirksbudget Kultur & Spielraum e. V. Für Kinder in den Sommerferien: Spielstadt Mini-München vom 03. - 21.08.2026 4.590,00 €; Az. 0262.100-14-0492
+- TOP 3.5.5.: (E) Stadtbezirksbudget Isarlust e.V. Alle Plätze fertig los vom 01.05.-31.12.2026 4.820,00€ ;Az.: 0262.100-14-0494
+- TOP 3.5.6.: (E) Stadtbezirksbudget Urbaner Waldgarten München e.V. Pflanzung eines Waldgartens in Berg-am-Laim vom 01.03.2026 - 28.02.2027 5.000,00€; Az. 0262.100-14-0493
+- TOP 3.5.7.: Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2026 bis 2030; Anhörung der Stadtkämmerei, Frist bis zum 20.04.2026
+- TOP 3.5.8.: Streaming von Bürgerversammlungen ermöglichen (live und/oder als Aufzeichnung); Antrag der Freien Wähler/ÖDP-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kreillerstr. 20
+- TOP 3.6.2.: Freilassinger Str. 15
+- TOP 3.6.3.: Blombergstr. 65
+- TOP 3.6.4.: Riedgaustr. 4 - vertagt aus der Plenumssitzung vom 24.02.2026 -
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Februar 2026
+- TOP 4.1.2.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Stellungnahme der Landeshauptstadt München im zweiten Beteiligungsverfahren Informationen über die Windkraftanlagen im Forstenrieder Park
+- TOP 4.1.3.: Taubensituation am Marktplatz an der Baumkirchner Str.; Antwort des Baureferats
+- TOP 4.1.4.: Keine lärmenden, kraftstoffbetriebenen Laubbläser mehr in städtischen Wohnanlagen
+- TOP 4.1.5.: Keine börsennotierten Energieverträge Keine börsengekoppelten Energieverträge
+- TOP 4.1.6.: Trinkgelegenheiten für Wildtiere auf versiegelten Flächen im Stadtteil Berg am Laim - vertagt aus der Plenumssitzung vom 24.02.2026 -
+- TOP 4.1.7.: Haager Str. 4 - 10a: Neubau eines Gewerbehofs und Technologiezentrums mit Gastronomie und Mittelgarage im Untergeschoss - Vorbescheid - Rückmeldung der LBK -
+- TOP 4.1.8.: Sperlingsbrutplätze aufstellen
+- TOP 4.1.9.: Lärmschutzwand Mittlerer Ring/Hornsteinstraße
+- TOP 4.1.10.: Einrichtung eines betreuten Taubenschlags in der Nähe des Behrparks, Rückschreiben KVR
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Haltverbotsschild mit Zusatz am Innsbrucker Ring; Antwort des Mobilitätsreferats
+- TOP 4.2.2.: Unterrichtung über die unveränderte Fortführung des Gaststättenbetriebes: a) Heinrich-Wieland-Straße b) Atelierstraße
+- TOP 4.2.3.: Gewerbeflächenentwicklungsprogramm
+- TOP 4.2.4.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP 4.2.5.: (U) Mobilitätsstrategie 2035 Fortschreibung der Teilstrategie Wirtschaftsverkehr – Vorstellung der Roadmap Urbane Logistik
+- TOP 4.2.6.: Verkehrssituation Kreillerstraße / Ecke St.-Veit- Straße; Antwort des Mobilitätsreferats
+- TOP 4.2.7.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Berlingerweg 1 und Bertschstraße Ost Anordnung des Gefahrzeichens „Kinder“ (Z. 136 StVO)
+- TOP 4.2.8.: Aufstellung des Verkehrszeichens 136 „Kinder“ an Beginn der Vinzenz-von-Paul-Str.
+- TOP 4.2.9.: Friedenstraße bei Baustellen zweispurig befahrbar halten
+- TOP 4.2.10.: Aufstellen eines Verkehrsspiegels - eingeschränkte Sicht durch parkende Fahrzeuge (TG-Ausfahrt Streitfeldstraße 23) - Rückmeldung des Mobilitätsreferats -
+- TOP 4.2.11.: Stromausfallvorsorge im Stadtbezirk Berg am Laim – Sachstandsanfrage zu Anlaufstellen und Lehren aus dem Stromausfall 2021
+- TOP 4.2.12.: Antrag auf Anbringen von Absperrpfosten auf Fußwegnasen - Rückmeldung des Baureferats zu einem Anliegen aus der Bürgerschaft aus der Sitzung 02/26 -
+- TOP 4.2.13.: Mehr Zebrastreifen in Berg am Laim
+- TOP 4.2.14.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage am Standort Streitfeldstr. 33
+- TOP 4.2.15.: Stromprojekt Hansjakobstr.
+- TOP 4.2.16.: Grüne Welle für Radverkehr auf der Berg-am-Laim-Straße zwischen Ampfing-und Dinglolfinger Straße
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Stadtbezirksbudget effizient nutzen – Mittelreste aus Vorjahren vorrangig einsetzen BA-Antrags-Nr. 20-26 / B 08516 des Bezirksausschusses des Stadtbezirkes 24 - Feldmoching-Hasenbergl vom 16.12.2025
+- TOP 4.5.3.: Hinweise zur Konstituierung der Bezirksausschüsse in der kommenden Amtsperiode
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Dornbergstr. 7 - Aufstockung bestehender Wohngebäude mit Wohnungen Anbau Aufzug und Terrassen mit Fällung einer Thuje Vorabstellungnahme des BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung
+- TOP 4.6.2.: Nadelbaum an der Baumkirchner Straße 18 pflanzen - vertagt aus der Plenumssitzung vom 24.02.2026 -
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.3.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Echardinger Grünstreifen POP UP STAGE am 15.05.2026; Anhörung des Kreisverwaltungsreferats, Frist bis zum 22.04.2026
