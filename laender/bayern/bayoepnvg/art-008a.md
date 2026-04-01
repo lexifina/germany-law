@@ -1,0 +1,2 @@
+# Art. 8a Festsetzung landesweit einheitlicher Tarife
+Das Staatsministerium wird ermächtigt, durch Rechtsverordnung oder Allgemeinverfügung für das gesamte Staatsgebiet allgemeine Vorschriften im Sinne von Art. 3 Abs. 2 der Verordnung (EG) Nr. 1370/2007 zu erlassen. Soweit es von dieser Befugnis Gebrauch macht, ist es zuständige Behörde im Sinn dieser Verordnung. Das Staatsministerium wird ermächtigt, die Zuständigkeit für die Gewährung von Ausgleichsleistungen durch Rechtsverordnung auf eine oder mehrere Regierungen zu übertragen.
