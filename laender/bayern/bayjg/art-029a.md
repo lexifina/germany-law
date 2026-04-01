@@ -1,0 +1,8 @@
+# Art. 29a Jagd mit Fallen
+(1) Die Fallenjagd darf nur ausüben, wer die hierfür erforderlichen Kenntnisse nachweisen kann.
+(2) Die verwendeten Fallen müssen ihrer Bauart nach Mindestanforderungen erfüllen, die ein sofortiges Töten oder einen unversehrten Lebendfang gewährleisten. Fangeisen dürfen nur verwendet werden, wenn zusätzlich
+1. ihre Betriebssicherheit regelmäßig überprüft wird und
+2. sie dauerhaft so gekennzeichnet sind, daß ihr Besitzer feststellbar ist.
+(3) Fangeisen dürfen nur in geschlossenen Räumen, Fangbunkern oder Fanggärten, in denen die Schlagfalle nach oben verblendet ist, so aufgestellt werden, daß von ihnen keine Gefährdung von Menschen, geschützten Tieren und Haustieren ausgeht. Art. 42 Abs. 1 Nr. 2 bleibt unberührt.
+(4) Die Verwendung von Schlagfallen ist der Jagdbehörde anzuzeigen.
+(5) Die oberste Jagdbehörde wird ermächtigt, im Einvernehmen mit dem Staatsministerium für Umwelt und Verbraucherschutz das Nähere durch Rechtsverordnung zu regeln. Die oberste Jagdbehörde kann zudem durch Rechtsverordnung nähere Bestimmungen betreffend die Erlangung und den Nachweis der erforderlichen Fachkenntnis zur Ausübung der Fallenjagd treffen. Mit einer Durchführung von Lehrgängen zur Erlangung der Fachkenntnis zur Ausübung der Fallenjagd (Abs. 1), der Überprüfung der Fangeisen auf ihre Betriebssicherheit, ihrer Kennzeichnung und Registrierung (Abs. 2 Satz 2 Nr. 1 und 2) kann der Landesjagdverband Bayern e. V. betraut werden; in diesem Fall hat der Landesjagdverband Bayern e. V. oder dessen zuständige Kreisgruppe der Jagdbehörde auf Verlangen die Ergebnisse der Funktionsprüfung sowie die Namen und Anschriften der Besitzer der gekennzeichneten Fangeisen mitzuteilen.
