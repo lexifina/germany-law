@@ -1,13 +1,19 @@
 # § 26a Asylstreitigkeiten
-(1) Für den Bezirk des Sächsischen Oberverwaltungsgerichts ist für Streitigkeiten nach dem Asylgesetz zuständig
-1. das Verwaltungsgericht Chemnitz hinsichtlich der Herkunftsstaaten Albanien, Angola, Armenien, Belarus, Bosnien-Herzegowina, Ghana, Guinea, Jemen, Kosovo, Mali, Moldau, Montenegro, Nordmazedonien, Serbien, Sudan, Tadschikistan und Ukraine;
-2. das Verwaltungsgericht Dresden hinsichtlich der Herkunftsstaaten Ägypten, Aserbaidschan, Äthiopien, Bangladesch, Benin, Eritrea, Gambia, Jordanien, Myanmar, Senegal, Sierra Leone, Sri Lanka, Turkmenistan, Usbekistan, Vereinigte Staaten und Vietnam;
-3. das Verwaltungsgericht Leipzig hinsichtlich des Herkunftsstaats Türkei.
-(2) Die Zuweisungen nach Absatz 1 Nummer 1 und 2 umfassen auch die am 30. April 2024 anhängigen Verfahren, mit Ausnahme der Verfahren,
-1. die bereits terminiert sind,
-2. für die ein Gerichtsbescheid oder ein Urteil, welches ohne mündliche Verhandlung ergangen ist, bereits der Geschäftsstelle übermittelt worden ist,
-3. für die ein Urteil bereits verkündet worden ist,
-4. für die ein Urteil ohne Tatbestand, Entscheidungsgründe und Rechtsmittelbelehrung der Geschäftsstelle übermittelt worden ist oder die Frist des § 116 Absatz 2 zweiter Halbsatz der Verwaltungsgerichtsordnung noch nicht abgelaufen ist.
-(3) Die Zuweisung nach Absatz 1 Nummer 3 umfasst auch die bis zum 30. Juni 2023 eingegangenen und am 30. April 2024 noch anhängigen Verfahren; Absatz 2 gilt entsprechend.
-(4) Absatz 1 Nummer 3 und Absatz 3 treten am 1. Mai 2026 außer Kraft.
-(5) Herkunftsstaat im Sinne des Absatzes 1 ist der Staat, dessen Staatsangehörigkeit die klagende oder antragstellende Person besitzt. Bei Staatenlosen sowie bei Personen mit mehreren oder ungeklärten Staatsangehörigkeiten ist der Staat Herkunftsstaat, in dem die Person ihren letzten gewöhnlichen Aufenthalt hatte.
+(1) Für den Bezirk des Sächsischen Oberverwaltungsgerichts ist für Streitigkeiten nach dem Asylgesetz zuständig:
+1. das Verwaltungsgericht Chemnitz hinsichtlich der folgenden Herkunftsstaaten
+a)
+des europäischen Kontinents: Albanien, Andorra, Belarus, Bosnien und Herzegowina, Island, Kosovo, Liechtenstein, Monaco, Montenegro, Nordmazedonien, Norwegen, Republik Moldau, San Marino, Schweiz, Serbien, Ukraine, Vatikanstadt, Vereinigtes Königreich und die Mitgliedstaaten der Europäischen Union,
+b)
+des asiatischen Kontinents: Armenien, Bahrain, Bhutan, Brunei Darussalam, China, Demokratische Volksrepublik Korea, Demokratische Volksrepublik Laos, Indien, Indonesien, Japan, Jemen, Kambodscha, Kasachstan, Katar, Kirgisistan, Kuwait, Malaysia, Malediven, Mongolei, Nepal, Oman, Pakistan, Philippinen, Republik Korea, Saudi-Arabien, Singapur, Tadschikistan, Thailand, Timor-Leste und Vereinigte Arabische Emirate,
+c)
+des afrikanischen Kontinents: Angola, Ghana, Guinea, Sudan und Südsudan,
+2. das Verwaltungsgericht Dresden hinsichtlich der folgenden Herkunftsstaaten
+a)
+des afrikanischen Kontinents: Ägypten, Algerien, Äquatorialguinea, Äthiopien, Benin, Botsuana, Burkina Faso, Burundi, Cabo Verde, Côte d’Ivoire, Demokratische Republik Kongo, Dschibuti, Eritrea, Eswatini, Gabun, Gambia, Guinea-Bissau, Kenia, Komoren, Kongo, Lesotho, Liberia, Madagaskar, Malawi, Mali, Marokko, Mauretanien, Mauritius, Mosambik, Namibia, Niger, Nigeria, Ruanda, Sambia, São Tomé und Príncipe, Senegal, Seychellen, Sierra Leone, Simbabwe, Südafrika, Togo, Tschad, Tunesien, Uganda, Vereinigte Republik Tansania und Zentralafrikanische Republik,
+b)
+des asiatischen Kontinents: Aserbaidschan, Bangladesch, Jordanien, Myanmar, Sri Lanka, Turkmenistan, Usbekistan und Vietnam,
+c)
+des amerikanischen Kontinents: Kanada und Vereinigte Staaten,
+3. das Verwaltungsgericht Leipzig hinsichtlich der Herkunftsstaaten Georgien und Türkei.
+(2) Herkunftsstaat im Sinne des Absatzes 1 ist der Staat, dessen Staatsangehörigkeit die klagende oder antragstellende Person besitzt. Bei Staatenlosen sowie bei Personen mit mehreren oder ungeklärten Staatsangehörigkeiten ist der Staat Herkunftsstaat, in dem die Person ihren letzten gewöhnlichen Aufenthalt hatte.
+(3) Für Streitigkeiten, die vor dem 1. April 2026 anhängig gemacht wurden, gilt § 26a in der bis zum 31. März 2026 geltenden Fassung fort.
