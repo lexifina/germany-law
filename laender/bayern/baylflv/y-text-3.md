@@ -1,0 +1,1 @@
+erlässt das Bayerische Staatsministerium für Landwirtschaft und Forsten, hinsichtlich § 5 Abs. 2 Nr. 2 im Einvernehmen mit dem Bayerischen Staatsministerium für Umwelt, Gesundheit und Verbraucherschutz, folgende Verordnung:
