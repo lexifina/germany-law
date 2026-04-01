@@ -1,0 +1,2 @@
+# Art. 5c Bayerisches Vertragsnaturschutzprogramm Wald
+Zur kooperativen Umsetzung natur- und artenschutzschutzfachlicher Ziele im Privat- und Körperschaftswald können im Rahmen der verfügbaren Haushaltsmittel insbesondere in den in Art. 5b genannten Teilen der Natur und Landschaft ökologisch besonders wertvolle Nutzungsformen des Waldes und der Erhalt ökologisch besonders wertvoller Strukturen und Standorte gefördert werden.

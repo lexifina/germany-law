@@ -1,0 +1,2 @@
+# Art. 5d Biodiversitätsberatung
+An den unteren Naturschutzbehörden werden im Rahmen der zur Verfügung stehenden Stellen Biodiversitätsberater eingesetzt. Sie sollen helfen, in Zusammenarbeit mit den Eigentümern und Landbewirtschaftern, Kommunen, Erholungssuchenden, Verbänden und sonstigen Betroffenen in ökologisch wertvollen Teilen der Natur und Landschaft gemäß Art. 5b die natur- und artenschutzfachlichen Ziele und Maßnahmen umzusetzen, und den Aufbau des Biotopverbunds nach Art. 19 Abs. 1 begleiten.
