@@ -1,0 +1,1 @@
+Auf Grund von Art. 41j, Art. 70 Abs. 2 und Art. 77 Abs. 2 Satz 2 des Bayerischen Wassergesetzes (BayWG) in der Fassung der Bekanntmachung vom 19. Juli 1994 (GVBl S. 882, BayRS 753–1–U), zuletzt geändert durch § 54 des Gesetzes vom 24. April 2001 (GVBl S. 140), erlässt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen folgende Verordnung:
