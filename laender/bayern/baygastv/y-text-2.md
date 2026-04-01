@@ -1,0 +1,2 @@
+– des § 14 Satz 1 und 2, des § 18 Abs. 1, des § 21 Abs. 2 Satz 1, des § 26 Abs. 1 Satz 2 und des § 30 des Gaststättengesetzes in der Fassung der Bekanntmachung vom 20. November 1998 (BGBl. I S. 3418), das zuletzt durch Art. 286 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und
+– des § 155 Abs. 2 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Art. 2 des Gesetzes vom 22. Dezember 2015 (BGBl. I S. 2572) geändert worden ist,
