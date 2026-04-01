@@ -1,0 +1,1 @@
+Auf Grund des Art. 6 Abs. 3 Satz 6 des Gesetzes über das öffentliche Versorgungswesen (VersoG) vom 25. Juni 1994 (GVBl S. 466, BayRS 763-1-I) erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
