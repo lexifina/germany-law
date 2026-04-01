@@ -36,6 +36,7 @@
 
 - [§ 28 Landwirtschaft](0028.md)
 - [§ 29 Energiewirtschaft](0029.md)
+- [§ 29a Kraftstoffmärkte](0029a.md)
 - [§ 30 Presse](0030.md)
 - [§ 31 Verträge der Wasserwirtschaft](0031.md)
 - [§ 31a Wasserwirtschaft, Meldepflicht](0031a.md)

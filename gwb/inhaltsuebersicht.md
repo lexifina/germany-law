@@ -38,6 +38,7 @@
 |  |
 | § 28 | Landwirtschaft |
 | § 29 | Energiewirtschaft |
+| § 29a | Kraftstoffmärkte |
 | § 30 | Presse |
 | § 31 | Verträge der Wasserwirtschaft |
 | § 31a | Wasserwirtschaft, Meldepflicht |
