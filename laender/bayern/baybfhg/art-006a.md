@@ -1,0 +1,3 @@
+# Art. 6a Vertretung des Präsidenten
+(1) Der ständige Vertreter des Präsidenten wird durch das Staatsministerium ernannt und bestellt. Zum ständigen Vertreter des Präsidenten kann bestellt werden, wer der HföD als Fachbereichsleiter oder Leiter der Zentralverwaltung angehört. Der ständige Vertreter nimmt daneben die bisherigen Aufgaben als Fachbereichsleiter gemäß Art. 12 Abs. 2 oder Leiter der Zentralverwaltung wahr.
+(2) Der ständige Vertreter unterstützt den Präsidenten bei der Wahrnehmung der Aufgaben nach Art. 6 Abs. 2 und 3 und vertritt ihn bei Verhinderung. Der Präsident kann dem ständigen Vertreter bestimmte Aufgaben zur selbstständigen Erledigung übertragen.
