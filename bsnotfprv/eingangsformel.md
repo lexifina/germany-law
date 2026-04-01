@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verordnet aufgrund des § 53 Absatz 1 und 2, des § 53a Absatz 1 Nummer 1 und des § 53b des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 16. April 2025 (BGBl. 2025 I Nr. 117; 2025 I Nr. 129) in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
