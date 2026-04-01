@@ -58,6 +58,6 @@ Teil 3 Verwaltungsaufgaben
 § 29e Gerichtsbarkeit in Steuerberatungs- und Steuerbevollmächtigtensachen
 Teil 4 Verzeichnis über Gebühren in Justizverwaltungsangelegenheiten
 § 30 Gebührenverzeichnis
-Teil 5 Übergangs- und Schlussvorschriften
-§ 31 Übergangsvorschriften
-§ 32 Inkrafttreten und Außerkrafttreten
+Teil 5 Erprobung eines Online-Verfahrens, Übergangsvorschriften
+§ 31 Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit
+§ 32 Übergangsvorschriften
