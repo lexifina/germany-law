@@ -169,6 +169,11 @@ DLT-Pilotregelung nach der Verordnung (EU) 2022/858
 | § 78a | Zuständigkeit |
 | § 78b | Ausnahmen von der Erlaubnispflicht nach § 15 |
 | § 78c | Unterlagen und Anträge nach der Verordnung (EU) 2022/858 |
+Kapitel 7b
+Zulassung von Datenbereitstellungsdiensten
+| § 78d | Zulassungsverfahren; Ausnahmen |
+| § 78e | Versagung der Zulassung; Entzug der Zulassung |
+| § 78f | Unterrichtung der ESMA |
 Kapitel 8
 Maßnahmen bei Gefahr
 | § 79 | Maßnahmen bei Gefahr |

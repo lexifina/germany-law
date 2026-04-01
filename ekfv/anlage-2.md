@@ -1,4 +1,4 @@
-# Anlage (zu § 7 Nummer 1)Prüfanforderungen und Anforderungen an die Fahrdynamik
+# Anlage 2 (zu § 7 Nummer 1)Prüfanforderungen und Anforderungen an die Fahrdynamik
 
 1. Allgemeine Prüfbedingungen
 1.1 Die Prüfungen sind auf einer Fahrbahn mit ebener, trockener und griffiger Beton- oder Asphaltoberfläche durchzuführen. In Längsrichtung darf die Prüfstrecke keine größere Steigung als 1 % und keine größere Schrägneigung als 3 % aufweisen.
@@ -7,7 +7,7 @@
 1.4 Bei den Prüfungen muss der Akkuladestand des Fahrzeugs mindestens 75 % betragen.
 1.5 Bei Luftreifen ist vor den Prüfungen der vom Hersteller für den normalen Betrieb vorgesehene Fülldruck einzustellen.
 1.6 Die Masse des Fahrzeugs muss der Masse in fahrbereitem Zustand entsprechen.
-1.7 Bei den Prüfungen ist ein Fahrer mit einer Masse von 70 kg bis 100 kg vorzusehen.
+1.7 Die Prüfungen sind mit der zulässigen Gesamtmasse des Fahrzeuges durchzuführen.
 2. Prüfverfahren
 2.1 Bauartbedingte Höchstgeschwindigkeit
 2.1.1 Zur Ermittlung der bauartbedingten Höchstgeschwindigkeit muss das zu prüfende Fahrzeug über eine Strecke von mindestens 50 m mit maximaler Antriebsleistung gefahren werden. Dabei ist die gefahrene Höchstgeschwindigkeit zu ermitteln. Die Prüfung ist im Anschluss in die entgegengesetzte Richtung der Strecke zu wiederholen.
@@ -27,6 +27,7 @@
 2.2.5 Zur Überprüfung der Mindestverzögerung bei Ausfall einer Bremseinrichtung wird:
   a) bei unabhängig voneinander bedienbaren Bremsen der obige Fahrversuch wiederholt, jedoch mit dem Unterschied, dass jeweils nur eine Bremse jeweils in mindestens drei aufeinanderfolgenden Prüfungen betätigt wird;
   b) bei kombinierten Bremseinrichtungen je eine der Bremsen geeignet außer Funktion gesetzt und der obige Fahrversuch wiederholt.
+2.2.6 Die Messungen sind unter Nassbedingungen zu wiederholen.
 2.3 Fahrdynamik
 2.3.1 Ergänzend zu Nummer 1.1 muss die Fahrbahn für die Fahrdynamikprüfungen jeweils die in den nachfolgenden Prüfungen beschriebenen Fahrbahnelemente aufweisen.
 2.3.2 In den Prüfungen sind die Fahrbahnelemente jeweils mit der bauartbedingten Höchstgeschwindigkeit und mit einer Geschwindigkeit von 8 ± 2 km/h zu befahren. Zusätzlich sind die Fahrbahnelemente bei den Prüfungen 1 und 2 (je nur an den Auffahrstufen) und 4 (mit direktem Kontakt des in Fahrtrichtung vorderen Rades an die Auffahrstufe/Bordsteinkante) jeweils aus dem Stillstand anzufahren.
@@ -54,7 +55,7 @@
   Eine Bordsteinkante mit Profil wie in Bild 4 dargestellt und einem Höhenunterschied zwischen Fahrbahnniveau und Bordsteinoberkante von 3 cm.
   |  |
   | Bild 4: Bordsteinprofil |
-2.3.7.2 Mit dem zu prüfenden Fahrzeug ist die Bordsteinkante aufwärts unter einem Winkel von 90 Grad und unter einem Winkel von 45 Grad zu überfahren.
+2.3.7.2 Mit dem zu prüfenden Fahrzeug ist die Bordsteinkante aufwärts und abwärts unter einem Winkel von 90 Grad und unter einem Winkel von 45 Grad zu überfahren.
 2.4 Antriebsdeaktivierung
 2.4.1 Das Fahrzeug wird auf der Prüfstrecke mit Schrittgeschwindigkeit gefahren. Die fahrende Person steigt bei dieser Geschwindigkeit gezielt vom Fahrzeug ab und nimmt die Hände von der Lenk- oder Haltestange.
 2.4.2 Es muss erkennbar sein, dass der Fahrzeugantrieb innerhalb von 1,0 s nach dem Absteigen automatisch deaktiviert wird und das Fahrzeug nicht motorisch betrieben weiter- oder losrollt.

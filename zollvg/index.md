@@ -61,11 +61,12 @@
 ## Teil VIII Sonstige Ermächtigungen
 
 - [§ 28 Rechtsverordnungsermächtigungen für Verfahrensregelungen](0028.md)
+- [§ 28a Verfahrensermächtigung für die elektronische Kommunikation](0028a.md)
 - [§ 29 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit](0029.md)
-- [§ 30 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit zur Förderung der Luft- und Schiffahrt](0030.md)
+- [§ 30 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit zur Förderung der Luft- und Schifffahrt](0030.md)
 
-## Teil IX Steuerordnungswidrigkeiten, Steuerstraftaten und Steuerordnungswidrigkeiten im Reiseverkehr
+## Teil IX Bußgeldvorschriften und Einziehung
 
-- [§ 31 Steuerordnungswidrigkeiten](0031.md)
-- [§ 31a Bußgeldvorschriften](0031a.md)
+- [§ 31 Bußgeldvorschriften](0031.md)
+- [§ 31a Einziehung](0031a.md)
 - [§ 32 Nichtverfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten, Erhebung eines Zuschlags](0032.md)

@@ -13,6 +13,7 @@ Anzeige von Personen
 | § 7 | Bestätigung durch das anzeigende Wertpapierinstitut |
 | § 8 | Führungszeugnis der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen |
 | § 9 | Auszug aus dem Gewerbezentralregister der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen |
+| § 9a | Anzeigen nach § 66 Absatz 3 und 4 des Wertpapierinstitutsgesetzes |
 | § 10 | Ersatzperson im Verhinderungsfall |
 | § 11 | Anzeigen nach § 67 Absatz 1 des Wertpapierinstitutsgesetzes |
 Abschnitt 3
@@ -21,7 +22,7 @@ Tätigkeit im Drittstaat und Auslagerungen
 | § 13 | Anzeigen nach § 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes (wesentliche Auslagerungen) |
 Abschnitt 4
 Beteiligungsanzeigen, Vereinigungsanzeige
-| § 14 | Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 2 Satz 2 des Wertpapierinstitutsgesetzes |
+| § 14 | Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 3 des Wertpapierinstitutsgesetzes |
 | § 15 | Anzeigen nach § 64 Absatz 1 Nummer 9 oder Absatz 4 Nummer 2 des Wertpapierinstitutsgesetzes |
 | § 16 | Anzeigen nach § 64 Absatz 1 Nummer 14 des Wertpapierinstitutsgesetzes |
 | § 17 | Mitteilung über Unterlagen nach § 76 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes durch Kleine und Mittlere Wertpapierinstitute |

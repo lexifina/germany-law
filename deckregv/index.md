@@ -27,12 +27,9 @@ Registerführung
 - [§ 13 Eintragung von Derivategeschäften](0013.md)
 - [§ 14 Eintragung von Deckungswerten der barwertigen sichernden Überdeckung sowie anderer weiterer Deckungswerte](0014.md)
 
-## Teil 4 Aufzeichnungen und Bestätigungen nach § 5 Abs. 2 des
-Pfandbriefgesetzes
+## Teil 4 (weggefallen)
 
-- [§ 15 Umfang der Aufzeichnung und Form der Übermittlung](0015.md)
-- [§ 16 Treuhänderbestätigung](0016.md)
-- [§ 17 Aufbewahrung durch die Bundesanstalt](0017.md)
+- [(XXXX) §§ 15 bis 17 (weggefallen)](xxxx-15-bis-17.md)
 
 ## Teil 5 Schlussbestimmungen
 

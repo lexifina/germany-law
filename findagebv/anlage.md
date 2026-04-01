@@ -102,20 +102,22 @@ Inhaltsübersicht
 | 5.1.3.3 | Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen (§ 2c Absatz 2 Satz 4 KWG) | nach Zeitaufwand |
 | 5.1.3.4 | Maßnahmen gegen Personen im Sinne des § 2d Absatz 1 KWG (§ 2d Absatz 2 KWG) |  |
 | 5.1.3.4.1 | Verlangen auf Abberufung |  |
-| 5.1.3.4.1.1 | von Personen, die die Geschäfte einer Finanzholding-Gesellschaft tatsächlich führen | nach Zeitaufwand |
-| 5.1.3.4.1.2 | von Personen, die die Geschäfte einer gemischten Finanzholding-Gesellschaft tatsächlich führen | nach Zeitaufwand |
+| 5.1.3.4.1.1 | von Geschäftsleitern einer Finanzholding-Gesellschaft | nach Zeitaufwand |
+| 5.1.3.4.1.2 | von Geschäftsleitern einer gemischten Finanzholding-Gesellschaft | nach Zeitaufwand |
 | 5.1.3.4.2 | Untersagung der Ausübung der Tätigkeit |  |
-| 5.1.3.4.2.1 | von Personen, die die Geschäfte einer Finanzholding-Gesellschaft tatsächlich führen | nach Zeitaufwand |
-| 5.1.3.4.2.2 | von Personen, die die Geschäfte einer gemischten Finanzholding-Gesellschaft tatsächlich führen | nach Zeitaufwand |
+| 5.1.3.4.2.1 | von Geschäftsleitern einer Finanzholding-Gesellschaft | nach Zeitaufwand |
+| 5.1.3.4.2.2 | von Geschäftsleitern einer gemischten Finanzholding-Gesellschaft | nach Zeitaufwand |
 | 5.1.3.4.3 | Zulassung nach § 2f KWG |  |
 | 5.1.3.4.3.1 | Zulassung einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft (§ 2f Absatz 1 in Verbindung mit Absatz 3 KWG) | nach Zeitaufwand |
-| 5.1.3.4.3.2 | Maßnahmen nach § 2f Absatz 6 Satz 1 Nummer 1 bis 6 oder Satz 2 KWG | nach Zeitaufwand |
+| 5.1.3.4.3.2 | Erteilung einer Befreiung von der Zulassungspflicht durch die Aufsichtsbehörde auf Grundlage eines Befreiungsantrags (§ 2f Absatz 4 KWG) | nach Zeitaufwand |
+| 5.1.3.4.3.3 | Maßnahmen nach § 2f Absatz 6 Satz 1 Nummer 1 bis 6 oder Satz 2 KWG | nach Zeitaufwand |
 | 5.1.3.4.4 | Genehmigung einer Einrichtung von zwei zwischengeschalteten Mutterunternehmen nach § 2g Absatz 2 KWG | nach Zeitaufwand |
 | 5.1.4 | Ermittlung und Festsetzung der Eigenmittel |  |
 | 5.1.4.1 | Festsetzung eines Korrekturpostens auf die Eigenmittel (§ 10 Absatz 7 Satz 1 KWG) | nach Zeitaufwand |
 | 5.1.4.2 | Anordnung von zusätzlichen Eigenmittelanforderungen nach § 10 Absatz 3 Satz 1, auch in Verbindung mit Satz 2 KWG | 939 |
 | 5.1.4.3 | Anordnung von zusätzlichen Eigenmittelanforderungen nach § 6c Absatz 1 KWG | 939 |
 | 5.1.4.4 | Anordnung nach § 10a KWG | nach Zeitaufwand |
+| 5.1.4.5 | Ausnahme einzelner Finanzholding-Gesellschaften oder gemischter Finanzholding-Gesellschaften, die von der Zulassungspflicht nach § 2f Absatz 1 befreit wurden, aus dem Konsolidierungskreis (§ 10a Absatz 3 KWG) | nach Zeitaufwand |
 | 5.1.5 | Individuell zurechenbare öffentliche Leistungen in Bezug auf Institutsgruppen und Finanzholding-Gruppen sowie gemischte Finanzholding-Gesellschaften |  |
 | 5.1.5.1 | Bestimmung eines anderen gruppenangehörigen Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft als übergeordnetes Unternehmen (§ 10a Absatz 1 Satz 5 oder Satz 6 KWG; § 10a Absatz 2 Satz 1, Satz 2 oder Satz 3 KWG) | nach Zeitaufwand |
 | 5.1.6 | Individuell zurechenbare öffentliche Leistungen in Bezug auf Kapitalpuffer und Liquiditätsanforderungen |  |

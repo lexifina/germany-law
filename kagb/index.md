@@ -22,7 +22,7 @@
 - [§ 11 Besondere Vorschriften für die Zusammenarbeit bei grenzüberschreitender Verwaltung und grenzüberschreitendem Vertrieb von AIF](0011.md)
 - [§ 12 Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an die das Unternehmensregister führende Stelle](0012.md)
 - [§ 13 Informationsaustausch mit der Deutschen Bundesbank](0013.md)
-- [§ 14 Auskünfte und Prüfungen](0014.md)
+- [§ 14 Auskunfts- und Vorlegungsersuchen, Prüfungen, Durchsuchungen und Sicherstelllungen](0014.md)
 - [§ 15 Einschreiten gegen unerlaubte Investmentgeschäfte](0015.md)
 - [§ 16 Verfolgung unerlaubter Investmentgeschäfte](0016.md)
 
@@ -128,7 +128,7 @@
 - [§ 84 Zustimmungspflichtige Geschäfte](0084.md)
 - [§ 85 Interessenkollision](0085.md)
 - [§ 86 Informationspflichten gegenüber der Bundesanstalt](0086.md)
-- [§ 87 Anwendbare Vorschriften für Publikums-AIF](0087.md)
+- [§ 87 Anwendbare Vorschriften für Publikums-AIF und bestimmte Spezial-AIF](0087.md)
 - [§ 88 Haftung](0088.md)
 - [§ 89 Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung](0089.md)
 - [§ 89a Vergütung, Aufwendungsersatz](0089a.md)

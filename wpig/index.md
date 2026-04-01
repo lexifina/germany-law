@@ -164,6 +164,12 @@
 - [§ 78b Ausnahmen von der Erlaubnispflicht nach § 15](0078b.md)
 - [§ 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858](0078c.md)
 
+## Kapitel 7b Zulassung von Datenbereitstellungsdiensten
+
+- [§ 78d Zulassungsverfahren; Ausnahmen](0078d.md)
+- [§ 78e Versagung der Zulassung; Entzug der Zulassung](0078e.md)
+- [§ 78f Unterrichtung der ESMA](0078f.md)
+
 ## Kapitel 8 Maßnahmen bei Gefahr
 
 - [§ 79 Maßnahmen bei Gefahr](0079.md)

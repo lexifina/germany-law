@@ -29,9 +29,9 @@
 
 ## Dritter Abschnitt Personal
 
-- [§ 9 Rechtsstellung der Mitglieder des Direktoriums](0009.md)
-- [§ 9a Beamte](0009a.md)
-- [§ 10 Angestellte, Arbeiter und Auszubildende](0010.md)
+- [§ 9 Rechtsstellung der Mitglieder des Direktoriums; Verordnungsermächtigung](0009.md)
+- [§ 9a Beamte; Verordnungsermächtigung](0009a.md)
+- [§ 10 Angestellte, Arbeiter und Auszubildende; Verordnungsermächtigung](0010.md)
 - [§ 10a Stellenzulage](0010a.md)
 - [§ 10b Personalgewinnungs- und Personalbindungsprämie](0010b.md)
 - [§ 11 Verschwiegenheitspflicht](0011.md)

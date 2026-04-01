@@ -23,49 +23,42 @@
 
 #### Abschnitt 2 Ergänzende Regelungen zum IRB-Ansatz
 
-- [§ 7 IRB-Ansatz-Eignungsprüfungen für interne Ratingsysteme und Beteiligungsrisikomodelle](0007.md)
-- [§ 8 Zeitraum für die Umsetzung des IRB-Ansatzes](0008.md)
-- [§ 9 Anforderungen an die Umsetzung des IRB-Ansatzes](0009.md)
-- [§ 10 IRB-Ansatz-Schwellen; aufsichtlicher Referenzpunkt](0010.md)
-- [§ 11 Berechnung des Abdeckungsgrads](0011.md)
-- [§ 12 Im Zähler für den Abdeckungsgrad zu berücksichtigende IRB-Ansatz-Positionen](0012.md)
-- [§ 13 Im Nenner für den Abdeckungsgrad zu berücksichtigende Positionen; Grundgesamtheit für den Abdeckungsgrad](0013.md)
-- [§ 14 Auslaufender Geschäftsbereich; Neugeschäft; zu berücksichtigendes Bestandsgeschäft](0014.md)
-- [§ 15 Dauerhafte Ausnahme von der Anwendung des IRB-Ansatzes für steuererhebende Kirchen und Religionsgesellschaften](0015.md)
+- [§ 7 IRB-Ansatz-Eignungsbeurteilungen für interne Ratingsysteme](0007.md)
+- [(XXXX) §§ 8 bis 15 (weggefallen)](xxxx-8-bis-15.md)
 - [§ 16 Erheblichkeitsschwelle für den 90-Tage-Verzug](0016.md)
-- [§ 17 Berücksichtigungsfähige Arten von Beteiligungen für die Ausnahme von der Anwendung des IRB-Ansatzes bis 31. Dezember 2017](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 
 #### Abschnitt 3 Ergänzende Regelungen zur IMM
 
-- [§ 18 IMM-Eignungsprüfung](0018.md)
+- [§ 18 IMM-Eignungsbeurteilung](0018.md)
 
 #### Abschnitt 4 Ergänzende Regelungen zu internen Einstufungsverfahren
 
-- [§ 19 Eignungsprüfungen für interne Einstufungsverfahren](0019.md)
+- [§ 19 Eignungsbeurteilung für interne Einstufungsverfahren](0019.md)
 
-#### Abschnitt 5 Ergänzende Regelungen zu operationellen Risiken
+#### Abschnitt 5 Ergänzende Regelungen zu Netting-Rahmenvereinbarungen
 
-- [§ 20 AMA-Eignungsprüfung](0020.md)
+- [§ 20 Interne Modelle für Netting-Rahmenvereinbarungen](0020.md)
 
 #### Abschnitt 6 Ergänzende Regelungen zu internen Modellen für Marktrisiken
 
-- [§ 21 Interne Modelle-Eignungsprüfung](0021.md)
+- [§ 21 Interne-Modelle-Eignungsbeurteilung](0021.md)
 
-### Kapitel 2 Vorgaben für die Bemessung des Beleihungswerts
+### Kapitel 2 (weggefallen)
 
-- [§ 22 Vorgaben für die Bemessung des Beleihungswerts von Immobilien](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 
-### Kapitel 3 Nähere Bestimmungen zu den Übergangsvorschriften für die Eigenmittelanforderungen
+### Kapitel 3 (weggefallen)
 
-- [§ 23 Prozentsätze für die Kapitalquoten](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 
 ## Teil 3 Nähere Bestimmungen zur Ermittlung der Eigenmittel
 
 
 ### Kapitel 1 Nähere Bestimmungen zu den Übergangsvorschriften für die Ermittlung der Eigenmittel
 
-- [§ 24 Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Verlusten aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden](0024.md)
-- [§ 25 Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Gewinnen aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden](0025.md)
+- [§ 24 (weggefallen)](0024.md)
+- [§ 25 (weggefallen)](0025.md)
 - [§ 26 Prozentsätze für die Abzüge vom harten Kernkapital, zusätzlichen Kernkapital und Ergänzungskapital](0026.md)
 - [§ 27 Prozentsätze für die Anerkennung von nicht als Minderheitenbeteiligungen geltenden Instrumenten und Positionen im konsolidierten harten Kernkapital](0027.md)
 - [§ 28 Faktoren für die Anerkennung von Minderheitsbeteiligungen und qualifiziertem zusätzlichem Kernkapital sowie Ergänzungskapital](0028.md)
@@ -101,5 +94,5 @@
 
 ## Teil 5 Übergangs- und Schlussbestimmungen
 
-- [§ 38 Übergangsvorschriften](0038.md)
+- [§ 38 (weggefallen)](0038.md)
 - [§ 39 Inkrafttreten, Außerkrafttreten](0039.md)

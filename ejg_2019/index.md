@@ -7,7 +7,7 @@
 - [§ 5 Befugnisse des nationalen Mitglieds](0005.md)
 - [§ 6 Eurojust-Anlaufstellen und nationales Eurojust-Koordinierungssystem; Verordnungsermächtigung](0006.md)
 - [§ 7 Informationsaustausch nach Artikel 21 der Eurojust-Verordnung](0007.md)
-- [§ 8 Verwaltung von Arbeitsdateien und Index des Fallbearbeitungssystems von Eurojust durch das nationale Mitglied](0008.md)
+- [§ 8 Verwaltung des Fallbearbeitungssystems von Eurojust durch das nationale Mitglied](0008.md)
 - [§ 9 Nationale Kontrollbehörden](0009.md)
 - [§ 10 Zustimmungen durch die zuständigen deutschen Stellen](0010.md)
 - [§ 11 Mitteilung von Einschränkungen und Bedingungen](0011.md)

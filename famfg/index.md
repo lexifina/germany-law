@@ -284,6 +284,7 @@
 - [§ 183 Kosten bei Anfechtung der Vaterschaft](0183.md)
 - [§ 184 Wirksamkeit des Beschlusses; Ausschluss der Abänderung; ergänzende Vorschriften über die Beschwerde](0184.md)
 - [§ 185 Wiederaufnahme des Verfahrens](0185.md)
+- [§ 185a Wiederaufnahme bei Anfechtung durch den leiblichen Vater](0185a.md)
 
 ### Abschnitt 5 Verfahren in Adoptionssachen
 

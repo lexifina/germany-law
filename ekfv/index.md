@@ -2,6 +2,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Anforderungen an das Inbetriebsetzen](0002.md)
+- [§ 2a Inbetriebsetzen von Elektrokleinstfahrzeugen mit gewöhnlichem Standort im Ausland](0002a.md)
 - [§ 3 Berechtigung zum Führen](0003.md)
 - [§ 4 Anforderungen an die Verzögerungseinrichtung](0004.md)
 - [§ 5 Anforderungen an die lichttechnischen Einrichtungen](0005.md)
@@ -15,4 +16,5 @@
 - [§ 13 Lichtzeichen](0013.md)
 - [§ 14 Ordnungswidrigkeiten](0014.md)
 - [§ 15 Übergangsbestimmungen](0015.md)
-- [Anlage (zu § 7 Nummer 1)Prüfanforderungen und Anforderungen an die Fahrdynamik](anlage.md)
+- [Anlage 1 (zu § 2 Absatz 1 Satz 1 Nummer 3)Fahrzeug-Identifizierungsnummer und Fabrikschild](anlage-1.md)
+- [Anlage 2 (zu § 7 Nummer 1)Prüfanforderungen und Anforderungen an die Fahrdynamik](anlage-2.md)

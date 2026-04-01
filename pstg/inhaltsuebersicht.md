@@ -92,6 +92,7 @@
 | § 42 | (weggefallen) |
 | § 43 | Erklärungen zur Namensangleichung |
 | § 44 | Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft |
+| § 44a | Nachweise nach einer Anerkennung trotz bestehender Vaterschaft |
 | § 45 | Erklärungen zur Namensführung des Kindes |
 | § 45a | Erklärung zur Reihenfolge der Vornamen |
 | § 45b | Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag |

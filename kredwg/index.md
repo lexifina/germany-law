@@ -7,7 +7,7 @@
 
 ### 1. Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen
 
-- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 1 Begriffsbestimmungen; Verordnungsermächtigung](0001.md)
 - [§ 1a Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute](0001a.md)
 - [§ 1b Unzuverlässigkeit von sanktionierten Personen](0001b.md)
 - [§ 2 Ausnahmen](0002.md)
@@ -17,7 +17,7 @@
 - [§ 2d Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften](0002d.md)
 - [§ 2e Ausnahmen für gemischte Finanzholding-Gesellschaften](0002e.md)
 - [§ 2f Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften](0002f.md)
-- [§ 2g Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat](0002g.md)
+- [§ 2g Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung](0002g.md)
 - [§ 3 Verbotene Geschäfte](0003.md)
 - [§ 4 Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht](0004.md)
 
@@ -61,7 +61,7 @@
 - [§ 10h Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute](0010h.md)
 - [§ 10i Kombinierte Kapitalpufferanforderung](0010i.md)
 - [§ 10j Anforderung an den Puffer der Verschuldungsquote](0010j.md)
-- [§ 11 Liquidität](0011.md)
+- [§ 11 Liquidität; Verordnungsermächtigung](0011.md)
 - [§ 12 Potentiell systemrelevante Institute](0012.md)
 - [§ 12a Begründung von Unternehmensbeziehungen](0012a.md)
 
@@ -72,7 +72,7 @@
 - [§ 13c Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften](0013c.md)
 - [§ 13d (weggefallen)](0013d.md)
 - [§ 14 Millionenkredite](0014.md)
-- [§ 15 Organkredite](0015.md)
+- [§ 15 Organtransaktionen](0015.md)
 - [§ 16](0016.md)
 - [§ 17 Haftungsbestimmung](0017.md)
 - [§ 18 Kreditunterlagen](0018.md)
@@ -88,7 +88,7 @@
 - [§ 22a Registerführendes Unternehmen](0022a.md)
 - [§ 22b Führung des Refinanzierungsregisters für Dritte](0022b.md)
 - [§ 22c Refinanzierungsmittler](0022c.md)
-- [§ 22d Refinanzierungsregister](0022d.md)
+- [§ 22d Refinanzierungsregister; Verordnungsermächtigung](0022d.md)
 - [§ 22e Bestellung des Verwalters](0022e.md)
 - [§ 22f Verhältnis des Verwalters zur Bundesanstalt](0022f.md)
 - [§ 22g Aufgaben des Verwalters](0022g.md)
@@ -98,7 +98,7 @@
 - [§ 22k Beendigung und Übertragung der Registerführung](0022k.md)
 - [§ 22l Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens](0022l.md)
 - [§ 22m Bekanntmachung der Bestellung des Sachwalters](0022m.md)
-- [§ 22n Rechtsstellung des Sachwalters](0022n.md)
+- [§ 22n Aufgaben und Rechtsstellung des Sachwalters](0022n.md)
 - [§ 22o Bestellung des Sachwalters bei Insolvenzgefahr](0022o.md)
 
 ### 3. Kundenrechte
@@ -112,7 +112,7 @@
 
 ### 5. Besondere Pflichten der Institute, ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften
 
-- [§ 24 Anzeigen](0024.md)
+- [§ 24 Anzeigen; Verordnungsermächtigung](0024.md)
 - [§ 24a Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums](0024a.md)
 - [§ 24b Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen](0024b.md)
 - [§ 24c Automatisierter Abruf von Kontoinformationen](0024c.md)
@@ -281,7 +281,7 @@
 - [§ 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0060a.md)
 - [§ 60b Bekanntmachung von Maßnahmen](0060b.md)
 - [§ 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554](0060c.md)
-- [§ 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten](0060d.md)
+- [§ 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen](0060d.md)
 
 ## Achter Abschnitt Übergangs- und Schlußvorschriften
 

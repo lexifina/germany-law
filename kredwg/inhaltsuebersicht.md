@@ -5,7 +5,7 @@
 |  |
 |  | 1.Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen |
 |  |
-| § 1 | Begriffsbestimmungen |
+| § 1 | Begriffsbestimmungen; Verordnungsermächtigung |
 | § 1a | Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute |
 | § 1b | Unzuverlässigkeit von sanktionierten Personen |
 | § 2 | Ausnahmen |
@@ -15,7 +15,7 @@
 | § 2d | Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
 | § 2e | Ausnahmen für gemischte Finanzholding-Gesellschaften |
 | § 2f | Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
-| § 2g | Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat |
+| § 2g | Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung |
 | § 3 | Verbotene Geschäfte |
 | § 4 | Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht |
 |  |
@@ -59,7 +59,7 @@
 | § 10h | Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute |
 | § 10i | Kombinierte Kapitalpufferanforderung |
 | § 10j | Anforderung an den Puffer der Verschuldungsquote |
-| § 11 | Liquidität |
+| § 11 | Liquidität; Verordnungsermächtigung |
 | § 12 | Potentiell systemrelevante Institute |
 | § 12a | Begründung von Unternehmensbeziehungen |
 |  |
@@ -70,7 +70,7 @@
 | § 13c | Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften |
 | § 13d | (weggefallen) |
 | § 14 | Millionenkredite |
-| § 15 | Organkredite |
+| § 15 | Organtransaktionen |
 | § 16 | (aufgehoben) |
 | § 17 | Haftungsbestimmung |
 | § 18 | Kreditunterlagen |
@@ -86,7 +86,7 @@
 | § 22a | Registerführendes Unternehmen |
 | § 22b | Führung des Refinanzierungsregisters für Dritte |
 | § 22c | Refinanzierungsmittler |
-| § 22d | Refinanzierungsregister |
+| § 22d | Refinanzierungsregister; Verordnungsermächtigung |
 | § 22e | Bestellung des Verwalters |
 | § 22f | Verhältnis des Verwalters zur Bundesanstalt |
 | § 22g | Aufgaben des Verwalters |
@@ -96,7 +96,7 @@
 | § 22k | Beendigung und Übertragung der Registerführung |
 | § 22l | Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens |
 | § 22m | Bekanntmachung der Bestellung des Sachwalters |
-| § 22n | Rechtsstellung des Sachwalters |
+| § 22n | Aufgaben und Rechtsstellung des Sachwalters |
 | § 22o | Bestellung des Sachwalters bei Insolvenzgefahr |
 |  |
 |  | 3.Kundenrechte |
@@ -110,7 +110,7 @@
 |  |
 |  | 5.Besondere Pflichten der Institute und ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften |
 |  |
-| § 24 | Anzeigen |
+| § 24 | Anzeigen; Verordnungsermächtigung |
 | § 24a | Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums |
 | § 24b | Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen |
 | § 24c | Automatisierter Abruf von Kontoinformationen |
@@ -284,7 +284,7 @@
 | § 60a | Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen |
 | § 60b | Bekanntmachung von Maßnahmen |
 | § 60c | Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554 |
-| § 60d | Bekanntmachung von Sanktionen und Maßnahmen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten |
+| § 60d | Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen |
 |  |
 | Achter Abschnitt |
 |  | Übergangs- und Schlußvorschriften |
@@ -296,7 +296,7 @@
 | § 64 | Nachfolgeunternehmen der Deutschen Bundespost |
 | § 64a | Übergangsvorschrift zum Risikoreduzierungsgesetz |
 | § 64b | Übergangsvorschrift zu § 24 Absatz 1d |
-| § 64c | (weggefallen) |
+| § 64c | Übergangsvorschriften zum Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetz |
 | § 64d | (weggefallen) |
 | § 64e | Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen |
 | § 64f | Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz |

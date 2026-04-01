@@ -25,9 +25,9 @@
 | § 8a | Verbraucherbeirat |
 | Dritter Abschnitt |
 |  | Personal |
-| § 9 | Rechtsstellung der Mitglieder des Direktoriums |
-| § 9a | Beamte |
-| § 10 | Angestellte, Arbeiter und Auszubildende |
+| § 9 | Rechtsstellung der Mitglieder des Direktoriums; Verordnungsermächtigung |
+| § 9a | Beamte; Verordnungsermächtigung |
+| § 10 | Angestellte, Arbeiter und Auszubildende; Verordnungsermächtigung |
 | § 10a | Stellenzulage |
 | § 10b | Personalgewinnungszuschlag |
 | § 11 | Verschwiegenheitspflicht |
