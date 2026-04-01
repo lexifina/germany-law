@@ -1,0 +1,3 @@
+# Art. 16a Geltungsdauer der Erlaubnisse
+(1) Sind in den Erlaubnissen nach Art. 9 Abs. 2, Art. 14 Abs. 3 und Art. 16 Abs. 1 keine anderen Fristen bestimmt, so erlöschen diese Erlaubnisse, wenn innerhalb von fünf Jahren nach Erteilung der Erlaubnis mit der Ausführung des Vorhabens nicht begonnen wurde oder diese fünf Jahre unterbrochen worden ist; die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Erlaubnis.
+(2) Die Frist nach Abs. 1 kann jeweils bis zu drei Jahren verlängert werden, wenn der Antrag hierzu vor Ablauf der Erlaubnis der nach Art. 39 zuständigen Behörde zugegangen ist.

@@ -1,0 +1,3 @@
+# Art. 12a Naturwaldreservate und Naturwaldflächen
+(1) Natürliche oder weitgehend naturnahe Waldflächen können auf Antrag des Waldbesitzers als Naturwaldreservate eingerichtet werden. Sie sollen die natürlichen Waldgesellschaften landesweit repräsentieren und der Erhaltung und Erforschung solcher Wälder sowie der Sicherung der biologischen Vielfalt dienen. Abgesehen von notwendigen Maßnahmen des Waldschutzes und der Verkehrssicherung finden in Naturwaldreservaten keine Bewirtschaftung und keine Holzentnahme statt.
+(2) Bis zum Jahr 2023 wird im Staatswald ein grünes Netzwerk eingerichtet, das 10 Prozent des Staatswaldes umfasst und aus naturnahen Wäldern mit besonderer Bedeutung für die Biodiversität besteht (Naturwaldflächen). Abs. 1 Satz 3 gilt entsprechend.
