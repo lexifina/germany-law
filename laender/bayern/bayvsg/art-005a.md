@@ -1,0 +1,4 @@
+# Art. 5a Beobachtung
+(1) Voraussetzung für die Sammlung und Auswertung von Informationen ist, dass tatsächliche Anhaltspunkte für beobachtungsbedürftige Bestrebungen oder Tätigkeiten nach Art. 4 Abs. 2 vorliegen.
+(2) Das Landesamt darf zur Erforschung, ob die Voraussetzungen des Abs. 1 vorliegen, nur Informationen einschließlich personenbezogener Daten aus allgemein zugänglichen Quellen verarbeiten.
+(3) Die Beobachtung ist zu beenden, wenn ihre Dauer zur Einstufung der Beobachtungsbedürftigkeit nach Art. 4 Abs. 2 und dem Gewicht der hierfür gesammelten Informationen außer Verhältnis steht. Sie ist in der Regel spätestens zu beenden, wenn binnen fünf Jahren keine weiteren tatsächlichen Anhaltspunkte hinzugetreten sind. Die Einstufung der Beobachtungsbedürftigkeit nach Art. 4 Abs. 2 ist vor jedem Einsatz nachrichtendienstlicher Mittel unter Berücksichtigung der Dauer der Beobachtung und des Gewichts der dabei gewonnenen Informationen zu überprüfen.
