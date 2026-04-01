@@ -1,0 +1,2 @@
+# Art. 9a Zulassung während des Aufbaus der Medizinischen Fakultät der Universität Augsburg
+Die Zulassung zum Studiengang Medizin an der Universität Augsburg erfolgt nur, soweit ein Studienangebot vorhanden ist, und jeweils nur zum Wintersemester. Zu den ersten vier Wintersemestern ab Aufnahme des Studienbetriebes werden jeweils 84, zu den darauf folgenden weiteren drei Wintersemestern jeweils 168 Bewerberinnen oder Bewerber zum Medizinstudium zugelassen.
