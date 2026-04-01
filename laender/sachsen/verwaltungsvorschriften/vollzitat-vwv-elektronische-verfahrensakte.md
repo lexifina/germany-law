@@ -1,8 +1,8 @@
 # Vollzitat: VwV Elektronische Verfahrensakte
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2026-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/21481.1
+- Datum: 2026-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/21481.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2026
+01.04.2026
 bis
-31.03.2026
+30.04.2026
 
 VwV Elektronische Verfahrensakte
 
@@ -367,7 +367,24 @@ Die Leitung des jeweils aktenführenden Gerichts oder eine von dieser bestimmte 
 V.
 Besonderheiten in Straf- und Bußgeldverfahren
 
+1.
+
 In Straf- und Bußgeldverfahren finden die Ziffern II, III und IV Nummer 2 keine Anwendung.
+
+2.
+
+Gemäß § 14 Absatz 2 Satz 1 der Sächsischen E-Justizverordnung werden bei den in der Anlage benannten
+
+Bußgeld- und Strafsachenstellen der Finanzämter und Bußgeldbehörden die Akten in Straf- und Bußgeldverfahren
+
+vom 1. April 2026 bis einschließlich 31. August 2026 weiterhin in Papierform angelegt sowie von anderer Stelle
+
+übermittelte elektronische Akten in Papierform geführt oder weitergeführt. Die Anordnung hinsichtlich der Nummern
+
+5 bis 96 der Anlage umfasst auch die Aufgabenwahrnehmung einer Kommune als erfüllende Kommune für
+
+eine Verwaltungsgemeinschaft im Sinne des Sächsischen Gesetzes über kommunale Zusammenarbeit.
+
 
 VI.
 Arbeitsgerichtliches Mahnverfahren
@@ -389,6 +406,470 @@ Dresden, den 19. Dezember 2025
 Die Staatsministerin der Justiz
 Prof. Constanze Geiert
 
+Anlage
+(zu Ziffer V Nummer 2)
+
+1.
+
+Landkreis Bautzen
+
+2.
+
+Landkreis Leipzig
+
+3.
+
+Landkreis Mittelsachsen
+
+4.
+
+Landkreis Sächsische Schweiz-Osterzgebirge
+
+5.
+
+Stadt Altenberg
+
+6.
+
+Stadt Annaberg-Buchholz
+
+7.
+
+Stadt Bad Düben
+
+8.
+
+Stadt Bad Gottleuba-Berggießhübel
+
+9.
+
+Stadt Bad Muskau
+
+10.
+
+Stadt Brandis
+
+11.
+
+Stadt Burgstädt
+
+12.
+
+Stadt Chemnitz
+
+13.
+
+Stadt Colditz
+
+14.
+
+Stadt Coswig
+
+15.
+
+Stadt Delitzsch
+
+16.
+
+Stadt Ebersbach-Neugersdorf
+
+17.
+
+Stadt Ehrenfriedersdorf
+
+18.
+
+Stadt Elsterberg
+
+19.
+
+Stadt Freiberg
+
+20.
+
+Stadt Frohburg
+
+21.
+
+Stadt Görlitz
+
+22.
+
+Stadt Grimma
+
+23.
+
+Stadt Gröditz
+
+24.
+
+Stadt Herrnhut
+
+25.
+
+Stadt Hoyerswerda
+
+26.
+
+Stadt Königstein
+
+27.
+
+Stadt Lichtenstein
+
+28.
+
+Stadt Löbau
+
+29.
+
+Stadt Lunzenau
+
+30.
+
+Stadt Marienberg
+
+31.
+
+Stadt Markkleeberg
+
+32.
+
+Stadt Netzschkau
+
+33.
+
+Stadt Neusalza-Spremberg
+
+34.
+
+Stadt Nossen
+
+35.
+
+Stadt Oelsnitz/Erzgebirge
+
+36.
+
+Stadt Oschatz
+
+37.
+
+Stadt Ostritz
+
+38.
+
+Stadt Penig
+
+39.
+
+Stadt Plauen
+
+40.
+
+Stadt Pockau-Lengefeld
+
+41.
+
+Stadt Rabenau
+
+42.
+
+Stadt Radeberg
+
+43.
+
+Stadt Radeburg
+
+44.
+
+Stadt Reichenbach/Oberlausitz
+
+45.
+
+Stadt Rothenburg/Oberlausitz
+
+46.
+
+Stadt Scheibenberg
+
+47.
+
+Stadt Schkeuditz
+
+48.
+
+Stadt Schlettau
+
+49.
+
+Stadt Schwarzenberg/Erzgebirge
+
+50.
+
+Stadt Strehla
+
+51.
+
+Stadt Taucha
+
+52.
+
+Stadt Torgau
+
+53.
+
+Stadt Treuen
+
+54.
+
+Stadt Waldenburg
+
+55.
+
+Stadt Waldheim
+
+56.
+
+Stadt Werdau
+
+57.
+
+Stadt Wilkau-Haßlau
+
+58.
+
+Stadt Wolkenstein
+
+59.
+
+Stadt Zwickau
+
+60.
+
+Gemeinde Amtsberg
+
+61.
+
+Gemeinde Arnsdorf
+
+62.
+
+Gemeinde Bannewitz
+
+63.
+
+Gemeinde Beilrode
+
+64.
+
+Gemeinde Boxberg/Oberlausitz
+
+65.
+
+Gemeinde Crottendorf
+
+66.
+
+Gemeinde Diera-Zehren
+
+67.
+
+Gemeinde Dürrröhrsdorf-Dittersbach
+
+68.
+
+Gemeinde Ebersbach
+
+69.
+
+Gemeinde Ellefeld
+
+70.
+
+Gemeinde Hirschstein
+
+71.
+
+Gemeinde Laußig
+
+72.
+
+Gemeinde Lichtenau
+
+73.
+
+Gemeinde Mittelherwigsdorf
+
+74.
+
+Gemeinde Mockrehna
+
+75.
+
+Gemeinde Muldenhammer
+
+76.
+
+Gemeinde Mülsen
+
+77.
+
+Gemeinde Neschwitz
+
+78.
+
+Gemeinde Niederwiesa
+
+79.
+
+Gemeinde Ottendorf-Okrilla
+
+80.
+
+Gemeinde Pöhl
+
+81.
+
+Gemeinde Priestewitz
+
+82.
+
+Gemeinde Raschau-Markersbach
+
+83.
+
+Gemeinde Reinsdorf
+
+84.
+
+Gemeinde Röderaue
+
+85.
+
+Gemeinde Rosenbach/Vogtland
+
+86.
+
+Gemeinde Schleife
+
+87.
+
+Gemeinde Schönfeld
+
+88.
+
+Gemeinde Schönheide
+
+89.
+
+Gemeinde Schwepnitz
+
+90.
+
+Gemeinde Sehmatal
+
+91.
+
+Gemeinde Spreetal
+
+92.
+
+Gemeinde Stauchitz
+
+93.
+
+Gemeinde Steinberg
+
+94.
+
+Gemeinde Stützengrün
+
+95.
+
+Gemeinde Thiendorf
+
+96.
+
+Gemeinde Weinböhla
+
+97.
+
+Gemeinde Zeithain
+
+98.
+
+Verwaltungsverband Jägerswald
+
+99.
+
+Verwaltungsverband Wildenstein
+
+100.
+
+Kommunaler Sozialverband
+
+101.
+
+Datenschutz- und Transparenzbeauftragte
+
+102.
+
+Landesdirektion
+
+103.
+
+Statistisches Landesamt
+
+104.
+
+Landesamt für Steuern und Finanzen
+
+105.
+
+Bußgeld- und Strafsachenstelle des Finanzamts Chemnitz-Süd
+
+106.
+
+Bußgeld- und Strafsachenstelle des Finanzamts Dresden-Nord
+
+107.
+
+Bußgeld- und Strafsachenstelle des Finanzamts Leipzig II
+
+108.
+
+Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen
+
+109.
+
+Handwerkskammer Chemnitz
+
+110.
+
+Handwerkskammer Dresden
+
+111.
+
+Handwerkskammer Leipzig
+
+112.
+
+Industrie- und Handelskammer Dresden
+
+113.
+
+Landeszahnärztekammer
+
+114.
+
+Ostdeutsche Psychotherapeutenkammer
+
+115.
+
+Deutsche Rentenversicherung Mitteldeutschland
+
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -399,9 +880,9 @@ Fsn-Nr.: 300
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2026
+Fassung gültig ab:  1. April 2026
 
-Fassung gültig bis: 31. März 2026
+Fassung gültig bis: 30. April 2026
 
 Drucken/Speichern
 
@@ -426,7 +907,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/21481.1
+https://www.revosax.sachsen.de/vorschrift/21481.2
 Stand vom
 18.11.2026
 
