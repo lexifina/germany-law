@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Landwirtschaft, Ernährung und Heimat verordnet aufgrund des § 5 Absatz 1 Nummer 1 Buchstabe b und Absatz 2 Nummer 1 und 1a sowie des § 22 Absatz 1 Nummer 4 und Absatz 3 des Saatgutverkehrsgesetzes in der Fassung der Bekanntmachung vom 16. Juli 2004 (BGBl. I S. 1673), das zuletzt durch Artikel 2 Absatz 14 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131):
