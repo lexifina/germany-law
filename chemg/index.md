@@ -35,9 +35,10 @@
 
 ## Abschnitt 2b Durchführung der Verordnung (EU) Nr. 517/2014
 
-- [§ 12i Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014](0012i.md)
-- [§ 12j Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014](0012j.md)
-- [§ 12k Verordnungsermächtigungen](0012k.md)
+- [§ 12i Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 2024/573](0012i.md)
+- [§ 12j Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) 2024/573](0012j.md)
+- [§ 12k Ergänzende Pflichten für vorbefüllte Einrichtungen und Erzeugnisse](0012k.md)
+- [§ 12l Verordnungsermächtigungen](0012l.md)
 
 ## Dritter Abschnitt Einstufung, Kennzeichnung und Verpackung
 
@@ -67,7 +68,7 @@
 
 ## Fünfter Abschnitt Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
 
-- [§ 17 Verbote und Beschränkungen](0017.md)
+- [§ 17 Verbote und Beschränkungen; Verordnungsermächtigung](0017.md)
 - [§ 18 Giftige Tiere und Pflanzen](0018.md)
 - [§ 19 Maßnahmen zum Schutz von Beschäftigten](0019.md)
 
@@ -87,7 +88,8 @@
 - [§ 21a Mitwirkung von Zollstellen](0021a.md)
 - [§ 22 Informationspflichten](0022.md)
 - [§ 23 Behördliche Anordnungen](0023.md)
-- [§ 24 Vollzug im Bereich der Bundeswehr](0024.md)
+- [§ 23a Vorübergehende Verbote](0023a.md)
+- [§ 24 Vollzug im Bereich der Landesverteidigung](0024.md)
 - [§ 25 Angleichung an Gemeinschaftsrecht oder Unionsrecht](0025.md)
 - [§ 25a Aufwendungen des Auskunftspflichtigen](0025a.md)
 - [§ 26 Bußgeldvorschriften, Verordnungsermächtigung](0026.md)

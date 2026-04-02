@@ -83,7 +83,7 @@
 
 - [§ 44 Vorschriften für besonders geschützte und bestimmte andere Tier- und Pflanzenarten](0044.md)
 - [§ 45 Ausnahmen; Ermächtigung zum Erlass von Rechtsverordnungen](0045.md)
-- [§ 45a Umgang mit dem Wolf](0045a.md)
+- [§ 45a (weggefallen)](0045a.md)
 - [§ 45b Betrieb von Windenergieanlagen an Land](0045b.md)
 - [§ 45c Repowering von Windenergieanlagen an Land](0045c.md)
 - [§ 45d Nationale Artenhilfsprogramme](0045d.md)

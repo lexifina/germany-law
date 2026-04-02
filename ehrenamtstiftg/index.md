@@ -13,5 +13,4 @@
 - [§ 10 Haushalt](0010.md)
 - [§ 11 Rechtsaufsicht](0011.md)
 - [§ 12 Auflösung](0012.md)
-- [§ 13 Evaluierung](0013.md)
 - [§ 14 Inkrafttreten](0014.md)

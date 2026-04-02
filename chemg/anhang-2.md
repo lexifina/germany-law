@@ -14,3 +14,4 @@ Unterschrift, Datum/Signature, Date
 Name and function of responsible person)
 (Name und Adresse der GLP-Überwachungsbehörde/
 Name and address of the GLP Monitoring Authority)
+Die Bescheinigung ist befristet bis zum … [Datum der Befristung]. Sofern vor Ablauf der Befristung der Bescheinigung ein neuer Antrag nach § 19b Absatz 1 Satz 1 ChemG gestellt wird, gilt die Bescheinigung bis zur Entscheidung über den Antrag fort.

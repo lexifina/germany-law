@@ -278,16 +278,17 @@
 |  | § 86 | Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen |
 |  | § 86a | Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen |
 |  | § 87 | Agententätigkeit zu Sabotagezwecken |
+|  | § 87a | Ausübung fremder Einflussnahme und darauf gerichtete Agententätigkeit |
 |  | § 88 | Verfassungsfeindliche Sabotage |
 |  | § 89 | Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane |
-|  | § 89a | Vorbereitung einer schweren staatsgefährdenden Gewalttat |
-|  | § 89b | Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat |
+|  | § 89a | Vorbereitung einer terroristischen Straftat; Versuch der Anstiftung und Androhung |
+|  | § 89b | Aufnahme von Beziehungen zur Begehung einer terroristischen Straftat |
 |  | § 89c | Terrorismusfinanzierung |
 |  | § 90 | Verunglimpfung des Bundespräsidenten |
 |  | § 90a | Verunglimpfung des Staates und seiner Symbole |
 |  | § 90b | Verfassungsfeindliche Verunglimpfung von Verfassungsorganen |
 |  | § 90c | Verunglimpfung von Symbolen der Europäischen Union |
-|  | § 91 | Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat |
+|  | § 91 | Anleitung zur Begehung einer terroristischen Straftat |
 |  | § 91a | Anwendungsbereich |
 |  |  |
 | Vierter Titel |

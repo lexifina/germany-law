@@ -29,10 +29,11 @@
 | § 12g | Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen |
 | § 12h | Verordnungsermächtigungen |
 |  | Abschnitt 2b |
-|  | Durchführung der Verordnung (EU) Nr. 517/2014 |
-| § 12i | Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014 |
-| § 12j | Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014 |
-| § 12k | Verordnungsermächtigungen |
+|  | Durchführung der Verordnung (EU) 2024/573 |
+| § 12i | Ergänzende Pflichten zu Kapitel III der Verordnung (EU) 2024/573 |
+| § 12j | Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) 2024/573 |
+| § 12k | Ergänzende Pflichten für vorbefüllte Einrichtungen und Erzeugnisse |
+| § 12l | Verordnungsermächtigungen |
 |  | Dritter Abschnitt |
 |  | Einstufung, Kennzeichnung und Verpackung |
 | § 13 | Einstufungs-, Kennzeichnungs- und Verpackungspflichten |
@@ -55,7 +56,7 @@
 | § 16l | Verordnungsermächtigungen |
 |  | Fünfter Abschnitt |
 |  | Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten |
-| § 17 | Verbote und Beschränkungen |
+| § 17 | Verbote und Beschränkungen; Verordnungsermächtigung |
 | § 18 | Giftige Tiere und Pflanzen |
 | § 19 | Maßnahmen zum Schutz von Beschäftigten |
 |  | Sechster Abschnitt |
@@ -73,7 +74,8 @@
 | § 21a | Mitwirkung von Zollstellen |
 | § 22 | Informationspflichten |
 | § 23 | Behördliche Anordnungen |
-| § 24 | Vollzug im Bereich der Bundeswehr |
+| § 23a | Vorübergehende Verbote |
+| § 24 | Vollzug im Bereich der Landesverteidigung |
 | § 25 | Angleichung an Gemeinschaftsrecht oder Unionsrecht |
 | § 25a | Aufwendungen des Auskunftspflichtigen |
 | § 26 | Bußgeldvorschriften, Verordnungsermächtigung |
