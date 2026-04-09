@@ -1,0 +1,55 @@
+# 45. öffentliche Sitzung des Ausschusses für Straßen und Verkehr
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2026-04-09T17:00:00+02:00
+- Ende: 2026-04-09T19:30:00+02:00
+- Ort: John-F.-Kennedy-Platz 1, 10825 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8104
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8104
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=494557
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung vorliegender Protokolle (41. Sitzung versandt, 32., 34., 39. offen durch Schriftführer, 42., 43., 44. Freigabe ausstehend) - im Ausschuss abgelehnt
+- TOP 3: Bericht aus der Verwaltung - im Ausschuss abgelehnt
+- TOP 4: Betriebsvignetten für die Parkraumbewirtschaftung - im Ausschuss abgelehnt
+- TOP 5: Kinder- und Jugendparlament - (offen)
+- TOP 5.1: Querungshilfen für die Kreuzung Halker Zeile Ecke Grimmstraße - vertagt
+- TOP 5.2: Zebrastreifen für die Fehlerstraße (am Nebeneingang der Ruppin-Grundschule) - vertagt
+- TOP 5.3: Radwege für die Akazien- und die Goltzstraße - vertagt
+- TOP 5.4: Zebrastreifen vor der Mascha-Kaléko-Grundschule errichten - vertagt
+- TOP 5.5: Bessere Sicht beim Linksabbiegen vom Lichtenrader Damm in die Fehlingstraße - vertagt
+- TOP 6: Anträge - (offen)
+- TOP 6.1: Deutsche Bahn am S-Bahnhof Tempelhof in die Pflicht nehmen - im Ausschuss abgelehnt
+- TOP 6.2: Aufwertung der Fahrradabstellplätze am S Bahnhof Lichtenrade - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Einrichtung von Behindertenparkplätze entlang des Tempelhofer Damms - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Begegnungszone Maaßenstraße wieder sichtbar machen - im Ausschuss abgelehnt
+- TOP 6.5: Fußgänger am Barbarossaplatz besser schützen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.6: Regelkonformes Befahren der südlichen Braunfelsstraße (Lichtenrade) - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.7: Sicher Abbiegen auf den Kirchhainer Damm - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.8: Berliner Kissen für die Goltzstraße – Geschwindigkeitsbegrenzung durchsetzen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.9: Fahrradsituation am S-Bahnhof Lichtenrade verbessern - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.10: Parkplatzmangel an der Bahnhofstraße kompensieren - im Ausschuss abgelehnt
+- TOP 6.11: Langenscheidtbrücke 2.0: Fahrspur für Radverkehr öffnen, Fußverkehr schützen, Brücke instand setzen - vertagt
+- TOP 6.12: Die Fahrbahn der Lichtenrader Lützowstraße auch im Bereich Hausnummer 16-33 sanieren - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.13: Verkehrskonzept Wohnquartier Albert-/Ebersstraße erstellen - vertagt
+- TOP 6.14: Sicher zur Schule im Bereich Friedrich-Karl-Straße Ecke Ottokarstraße - im Ausschuss abgelehnt
+- TOP 7: Mitteilungen zur Kenntnisnahme <span style="color: #888a85" title="Zusatzinfo">(aus der BVV überwiesene Mitteilungen zur Kenntnisnahme)</span> - (offen)
+- TOP 7.1: Platzbenennung nach Lucie Leydicke (II) - vertagt
+- TOP 7.2: Öffentliche Toiletten am Bayerischen Platz besser bekannt machen - vertagt
+- TOP 7.3: Mehr Verkehrssicherheit für die Germaniastraße und das Luise-Henriette-Gymnasium - vertagt
+- TOP 7.4: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Umgestaltung und Erweiterung des Friedrich-Wilhelm-Platzes – mehr Aufenthaltsqualität für alle! - vertagt
+- TOP 7.5: Dauerhafte Verkehrsberuhigung in der nördlichen Steinmetzstraße - vertagt
+- TOP 7.6: Abstandssicherheitskampagne zum Schutze von Radfahrer*innen – bezirkliche Fahrzeugflotte mit Aufklebern und Informationen zu den Regeln der StVO ausstatten - vertagt
+- TOP 7.7: Verbesserung der Verkehrssicherheit in der Rixdorfer Straße - vertagt
+- TOP 7.8: Fahrradabstellanlagen Buckower Chaussee/Mariendorfer Damm - vertagt
+- TOP 7.9: Gehwege sind für Fußgänger da! (I) - vertagt
+- TOP 7.10: Mehr Sicherheit für Fahrgäste vor Bushaltestellen - vertagt
+- TOP 7.11: Illegales Parken in der Fußgängerzone am KaDeWe beenden - vertagt
+- TOP 7.12: Fahrradbügel am Winterfeldtplatz versetzen - vertagt
+- TOP 8: Unerledigte Drucksachen - im Ausschuss abgelehnt
+- TOP 9: Verschiedenes - im Ausschuss abgelehnt
