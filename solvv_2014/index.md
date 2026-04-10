@@ -18,8 +18,8 @@
 
 - [§ 3 Prüfungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen](0003.md)
 - [§ 4 Maßnahmen bei Mängeln bei der Risikoerfassung oder der Nichteinhaltung der Anforderungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen](0004.md)
-- [§ 5 Berechnungen und Meldungen für das aufsichtliche Benchmarking bei der Anwendung interner Ansätze](0005.md)
-- [§ 6 Aufsichtliches Benchmarking interner Ansätze](0006.md)
+- [§ 5 Berechnungen und Meldungen für das aufsichtliche Benchmarking](0005.md)
+- [§ 6 Auswertung des aufsichtlichen Benchmarkings](0006.md)
 
 #### Abschnitt 2 Ergänzende Regelungen zum IRB-Ansatz
 

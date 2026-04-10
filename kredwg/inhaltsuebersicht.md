@@ -6,7 +6,7 @@
 |  | 1.Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen |
 |  |
 | § 1 | Begriffsbestimmungen; Verordnungsermächtigung |
-| § 1a | Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute |
+| § 1a | Geltung der Richtlinie 2013/36/EU und der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute |
 | § 1b | Unzuverlässigkeit von sanktionierten Personen |
 | § 2 | Ausnahmen |
 | § 2a | Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören |
@@ -14,8 +14,10 @@
 | § 2c | Inhaber bedeutender Beteiligungen |
 | § 2d | Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
 | § 2e | Ausnahmen für gemischte Finanzholding-Gesellschaften |
-| § 2f | Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
+| § 2f | Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften; Verordnungsermächtigung |
 | § 2g | Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung |
+| § 2h | Erwerb einer wesentlichen Beteiligung |
+| § 2i | Verschmelzungen und Spaltungen |
 | § 3 | Verbotene Geschäfte |
 | § 4 | Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht |
 |  |
@@ -108,7 +110,7 @@
 | § 23 | Werbung |
 | § 23a | Sicherungseinrichtung |
 |  |
-|  | 5.Besondere Pflichten der Institute und ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften |
+|  | 5.Besondere Pflichten |
 |  |
 | § 24 | Anzeigen; Verordnungsermächtigung |
 | § 24a | Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums |
@@ -119,7 +121,7 @@
 | § 25b | Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung |
 | § 25c | Geschäftsleiter |
 | § 25d | Verwaltungs- oder Aufsichtsorgan |
-| § 25e | Anforderungen bei vertraglich gebundenen Vermittlern |
+| § 25e | Anforderungen bei Inhabern von Schlüsselfunktionen und vertraglich gebundenen Vermittlern |
 | § 25f | Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung |
 |  |  |
 |  | 5a.Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute |
@@ -145,6 +147,11 @@
 |  |  |
 | § 26b | Vermögenstrennung |
 |  |
+|  | 5e.Besondere Pflichten in Bezug auf Umwelt-, Sozial- und Unternehmensführungsrisiken |
+|  |  |
+| § 26c | ESG-Risiken im Risikomanagement |
+| § 26d | ESG-Risikoplan |
+|  |  |
 |  | 6.Prüfung und Prüferbestellung |
 |  |
 | § 27 | (aufgehoben) |
@@ -189,7 +196,7 @@
 |  |
 |  | 4.Maßnahmen in besonderen Fällen |
 |  |
-| § 45 | Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität |
+| § 45 | Maßnahmen zur Sicherstellung einer dauerhaften Erfüllung der regulatorischen Anforderungen |
 | § 45a | Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften |
 | § 45b | Maßnahmen bei organisatorischen Mängeln |
 | § 45c | Sonderbeauftragter |
@@ -216,7 +223,7 @@
 |  | 5.Vollziehbarkeit, Zwangsmittel, Umlage und Kosten |
 |  |
 | § 49 | Sofortige Vollziehbarkeit |
-| § 50 | (weggefallen) |
+| § 50 | Periodische Zwangsgelder |
 | § 51 | Umlage und Kosten |
 |  |
 | Vierter Abschnitt |
@@ -231,10 +238,27 @@
 |  |
 | § 52 | Sonderaufsicht |
 | § 52a | Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten |
-| § 53 | Zweigstellen von Unternehmen mit Sitz im Ausland |
+| § 53 | Zweigstellen von Unternehmen mit Sitz im Ausland; Verordnungsermächtigung |
 | § 53a | Repräsentanzen von Instituten mit Sitz im Ausland |
 | § 53b | Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums |
-| § 53c | Unternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung |
+| § 53c | Besondere Anforderungen an CRD-Drittstaatenzweigstellen |
+| § 53ca | Einstufung von CRD-Drittstaatenzweigstellen in Risikoklassen |
+| § 53cb | Qualifizierte CRD-Drittstaatenzweigstellen |
+| § 53cc | Voraussetzungen der Erlaubniserteilung |
+| § 53cd | Versagungs-, Erlöschens- und Aufhebungsgründe |
+| § 53ce | Kapitalausstattung |
+| § 53cf | Liquiditätsanforderungen |
+| § 53cg | Interne Unternehmensführung und Risikomanagement |
+| § 53ch | Buchungs- und Rechnungslegungsvorschriften |
+| § 53ci | Verpflichtung zur Gründung eines Tochterunternehmens |
+| § 53cj | Bewertung der Systemrelevanz |
+| § 53ck | Meldepflichten |
+| § 53cl | Häufigkeit der Meldung |
+| § 53cm | Aufsichtliches Prüfungsprogramm |
+| § 53cn | Aufsichtliche Überprüfung und Beurteilung |
+| § 53co | Aufsichtsmaßnahmen |
+| § 53cp | Zusammenarbeit und Aufsichtskollegien |
+| § 53cq | Meldung an die Europäische Bankenaufsichtsbehörde |
 | § 53d | Mutterunternehmen mit Sitz in einem Drittstaat |
 |  |
 | Sechster Abschnitt |
