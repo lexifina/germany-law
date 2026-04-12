@@ -1,0 +1,6 @@
+# Anlage 2
+
+| InternationalNonproprietaryNames (INN) der Weltgesundheits-organisation | Eigenschaftendes Stoffes oderder Zubereitung | Eigenschaftendes neuenpsychoaktivenStoffes | Andere nichtgeschützte oderTrivialnamen | Chemische Namen nach der Nomenklaturder InternationalUnion of Pure andApplied Chemistry(IUPAC) | European-Community-(EC)-Nummer |
+| 1,4-Butandiol | Stoff: Reinstoff Zubereitungen:jede Zubereitung mit einem Gehalt von mehr als 20 Prozent des in Spalte 1 genannten Stoffes | jeder Stoff | BDO, Tetramethylenglycol, 1,4-Butylenglykol, 1,4-Dihydroxybutan, B1D, Sucol B, Diol 14B, 1,4-BD | Butan-1,4-diol | 203-786-5 |
+| γ-Butyrolacton | Stoff: Reinstoff Zubereitung:jede Zubereitung mit einem Gehalt von mehr als 20 Prozent des in Spalte 1 genannten Stoffes | jeder Stoff | Gamma-Butyrolacton, GBL, Butyro-1,4-lacton, Dihydrofuran-2-on, 1-Oxa-cyclopentan-2-on, 4-Butanolid | Oxolan-2-on | 202-509-5 |
+| Distickstoffmonoxid | Stoff: Reinstoff Zubereitungen:jede Zubereitung | Verpackung ineinem Behälter mit einer Füllmenge des in Spalte 1 genannten Stoffes von mehr als 8,4 Gramm; pro Verkaufsvorgang die Abgabe von mehr als zehn Behältern mit einer Füllmenge von jeweils bis zu 8,4 Gramm des in Spalte 1 genannten Stoffes | Lachgas, Distickstoffoxid, Stickoxydul, Azooxid, E 942 | Distickstoffmonoxid | 233-032-0 |

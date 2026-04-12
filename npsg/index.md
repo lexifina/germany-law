@@ -7,4 +7,5 @@
 - [§ 5 Einziehung](0005.md)
 - [§ 6 Datenübermittlung](0006.md)
 - [§ 7 Verordnungsermächtigung](0007.md)
-- [Anlage](anlage.md)
+- [Anlage 1](anlage-1.md)
+- [Anlage 2](anlage-2.md)

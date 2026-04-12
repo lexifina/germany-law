@@ -1,4 +1,4 @@
-# Anlage
+# Anlage 1
 
 Vorbemerkungen
 Die Stoffgruppendefinitionen der Nummern 1 bis 9 schließen alle denkbaren geladenen Formen, Stereoisomere, Salze und isotopensubstituierte Verbindungen eines erfassten Stoffes ein. Die festgelegten Molekülmassenbegrenzungen gelten bei geladenen Formen und Salzen nur für den Molekülteil ausschließlich des Gegen-Ions. Ein Wasserstoffatom ist ein möglicher Substituent.
