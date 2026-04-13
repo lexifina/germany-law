@@ -1,0 +1,86 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9320943
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9320943
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 16.03.2026
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Haltverbotszonen Ehrenbreitsteiner Straße
+- TOP 2.2.: Beschwerde über die Errichtung eines Dialogpunktes in der Bunzlauerstraße
+- TOP 2.3.: Entsorgung von Wahlplakattafeln am Containerplatz Holledauer/Moosburgerstraße
+- TOP 2.4.: Vermüllung Müllcontainer in der Ehrenbreitsteiner Straße
+- TOP 2.5.: Umbau Kreuzung Wintrichring / Georg-Brauchle-Ring – Antrag auf ergänzende Heckenbepflanzung zum Schutz der Anwohner und Fußgänger
+- TOP 2.6.: Neubau Karlingersiedlung: ungeklärte Fragen zu Standsicherheit; offensichtliche Defizite beim Brandschutz
+- TOP 2.7.: Einsparpotential nutzen und Umweltverträglichkeit verbessern: Antrag auf Verbesserung des konstruktiven Holzschutzes und Umsetzung der ursprünglich geplanten Holzverkleidung beim Neubau Karlingersiedlung
+- TOP 2.8.: Hoffnung für die Mieter der Karlingersiedlung in Höhe von 90.000 € - Antrag auf Einforderung einer entsprechenden sozialen Spende von Oberbürgermeister Reiter
+- TOP 2.9.: Überraschend kleine Neubauten anstatt der angekündigten Wohnflächenverdoppelung in der Karlingersiedlung; Antrag auf Quantifizierung des Wohnraumverlusts durch deutlich kleinere Neubauten im Vergleich zum Bestand
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Protokoll zur Vorstellung des Planungsstandes zum MCube-Projekt MOSAIQ
+- TOP 3.2.2.: Gefährliche Verkehrssituation an der Ecke Agnes-Pockels-Bogen / Emmy-Noether-Straße
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Wildermuthstraße 63
+- TOP 3.3.1.2.: Hanauer Straße 101
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Info von Telekom zum Glasfaserausbau
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Equip Station am Memminger Platz
+- TOP 4.1.2.: Anfrage zur nachhaltigen Verbesserung der allgemeinen hygienischen Verhältnisse in Moosacher Schulen
+- TOP 4.1.3.: Pilotprojekt barrierearme Sitzbänken für ältere sowie mobilitätseingeschränkte Personen in Moosach
+- TOP 4.1.4.: Regelmäßige Reinigung Franz-Mader-Straße und ein weiterer Mülleimer
+- TOP 4.1.5.: Anfrage zum Kunstwerk im U-Bahnhof Moosacher St.-Martins-Platz
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Obst- und Gartenbauverein Hartmannshofen e.V. 100-Jahr-Feier des OGV Hartmannshofen am 27.06.2026 500,00€; Az. 0262.100-10-0458
+- TOP 5.2.: (E) Stadtbezirksbudget Schachfestival München e.V. 4. Schachfestival München vom 23. -29.05.2026 9.900,00€; Az. 0262.100-10-0463
+- TOP 5.3.: (E) Stadtbezirksbudget Post-Sportverein München e.V. 100-Jahr-Feier am 24. und 25.07.2026 19.973,28€; Az. 0262.100-10-0464
+- TOP 5.4.: (E) Stadtbezirksbudget REGSAM, Trägerverein für regionale soziale Arbeit e.V. 28. Moosacher StadtteilKulturtage vom 27.06. -05.07.2026 5.015,75€; Az. 0262.100-10-0465
+- TOP 6.: Anhörungen
+- TOP 6.1.: Mehrjahresinvestitionsprogramm – Fortschreibung für die Jahre 2026 bis 2030
+- TOP 6.2.: Neueröffnung einer dezentralen kommunalen Unterkunft zur Unterbringung Geflüchteter am Standort Drygalski-Allee (Flst.Nr. 272/2, Gemarkung Forstenried) sowie Verlängerung bestehender dezentraler kommunaler Unterkünfte für Geflüchtete
+- TOP 6.3.: Neues Radverkehrsnetz für München; stadtbezirksübergreifende Radverkehrsverbindungen
+- TOP 6.4.: Veranstaltung im Freien in einer städtischen Grünanlage; Amphionpark – „Tag der Städtebauförderung“ am 09.05.2026
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO und städtischen Privatgrund: Moosacher Dorffest am Moosacher St.-Martins-Platz am 18.07.2026
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Spielplatz auf der Schwimmbadwiese und nahe der Hanauer Straße, Schreiben Baureferat vom 17.03.2026
+- TOP 7.2.: Antrag für Maßnahmen zur Reduzierung der Verkehrslast in der Trinkl-Siedlung
+- TOP 7.3.: Mehr Sicherheit für zu Fuß gehende, Schulkinder und Trambahn-Fahrgäste im Bereich zwischen den Haltestellen Olympiapark West, Borstei und Hanauer Straße
+- TOP 7.4.: Sicherung von Fahrgästen gegen Unfälle – Ertüchtigung der Tramhaltestellen entlang der Tram 20/21 in Moosach
+- TOP 7.5.: Sicher im Verkehr unterwegs – Wiederherstellung einer Haltelinie im Bereich der freilaufenden Rechtsabbiegespur von der Dachauer Straße zum Wintrichring
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Mitteilung über den Baubeginn zur Erweiterung des Mobilfunkstandortes in der Ligasalz Straße
+- TOP 8.2.: Aktualisierung der Liste sowie Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose
+- TOP 8.3.: Realisierung eines Mobilfunkstandortes im Bereich der Postillonstraße
+- TOP 8.4.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO): --> Einrichtung eines personenbezogenen Behindertenparkplatzes in der Meggendorferstraße
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: --> Teilaufhebung der PKW-Parkbeschränkung in der Allacher Straße
+- TOP 8.6.: Verkehrsrechtliche Anordnung nach § 45 Straßenverkehrsordnung (StVO): --> Erweiterung des Parklizenzgebietes "Seydlitzplatz"
+- TOP 8.7.: Stellungnahme sowie Bescheid des Referates für Stadtplanung und Bauordnung zu Bauvorhaben Donaustaufer Straße 30
+- TOP 8.8.: Vollzug der Erhaltungssatzung "Moosach"; Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen -nicht öffentlich-
+- TOP 8.9.: Bundesprogramm "Sanierung kommunaler Sportstätten" Münchner Sportclub e.V., Eberwurzstraße 28, Bewerbung für das Bundesprogramm, Hallenabriss sowie Errichtung einer Kaltlufthalle
+- TOP 8.10.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau
+- TOP 3.3.1.3.: Scharnhorststraße 43
+- TOP 5.7.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht über eine Warenauslage in der Dachauer Str. 421
+- TOP 6.7.: Verkauf einer städtischen Immobilie in der Dachauer Straße -nicht öffentlich-
+- TOP 8.11.: Realisierung eines Mobilfunkstandortes im Bereich der Dachauer Straße
+- TOP 5.5.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V., Nachbarschaftstreff Karlingerstraße Gartenfest für&#039;s Viertel am 23.06.2026 1.450,00€; Az. 0262.100-10-0467
+- TOP 5.6.: (E) Stadtbezirksbudget Kinder- und Jugendtreff Mooskito, KJR München-Stadt Niedrigseil-Parcours vom 07.07. -18.07.2026 500,00€; Az. 0262.100-10-0466
+- TOP 6.6.: Antrag für eine Hol- und Bringzone für die Kita Gubestr. 35 auf öffentlichem Grund
+- TOP 8.12.: Fortführung einer Gaststätte in der Feldmochinger Straße
+- TOP 3.3.1.4.: Pelkovenstraße 148
+- TOP 3.3.2.1.: Quedlinburger Straße 14
+- TOP 7.6.: Bedarfsermittlung und Beantragung einer weiteren Pflegeeinrichtung in Moosach
