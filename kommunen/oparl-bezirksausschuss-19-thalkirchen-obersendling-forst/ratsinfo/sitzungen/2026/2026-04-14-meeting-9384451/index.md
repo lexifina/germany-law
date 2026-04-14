@@ -1,0 +1,82 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-04-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384451
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384451
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 10.03.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Mehrjahresinvestitionsprogramm für die Jahre 2026 bis 2030
+- TOP 3.3.: (E) Stadtbezirksbudget Pong&Pengo e.V. Hocker bauen an der SchlaU Schule vom 01.05.26 - 24.05.26 (inkl. Vor- und Nachbereitung), Workshoptage 18. - 20.05.26 1.700,00€; Az:. 0262.100-19-0627
+- TOP 3.4.: (E) Stadtbezirksbudget Guter Hirte St. Gabriel München gGmbH Erweiterung Kinderspielplatz von Mai -September 2026 24.000,00€; Az. 0262.100-19-0628
+- TOP 3.5.: (E) Stadtbezirksbudget Ev.-Luth. Passionskirche München Obersendling Thalkirchen Öffentlicher Bücherschrank vom 01.04. -31.05.2026 7.790,48€; Az. 0262.100-19-0631
+- TOP 3.6.: (E) Stadtbezirksbudget Maibaumverein Forstenried e.V. Aufstellen des Maibaums im Dorfkern M-Forstenrieds vom 01.04. -01.05.2026 11.639,95€; Az. 0262.100-19-0630
+- TOP 3.7.: (E) Stadtbezirksbudget Evang. -Luth Kirchengemeinde München-Solln Felix Mendelssohn-Bartholdy: Lobgesang (op.52) Ludwig van Beethoven: Chorfantasie am 09.05.2026 8.648,75€; Az. 0262.100-19-0632
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Prüfung und Sicherstellung des Gesundheitsschutzes bei Sanierungen asbestverdächtiger Gebäuden in Fürstenried-West
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Ausweisung der Wilhelm-Leibl-Straße zwischen Melchiorstraße und Wolfratshauser Straße als Fahrradstraße
+- TOP 5.2.: (A) Neues Radverkehrsnetz für München Stadtbezirksübergreifende Radverkehrsverbindungen; Sitzungsvorlage Nr. 20-26 / V 18641
+- TOP 5.3.: (E) Nachrüstung Aufzugsanlage am U-Bahnhof Obersendling
+- TOP 5.4.: (E) Radweg Forstenrieder Allee
+- TOP 5.5.: (E) Errichtung Zebrastreifen in der Winterthurer Ecke Züricher Straße
+- TOP 5.6.: (E) Halteverbot mit Zusatzschild „Feuerwehrzufahrt“ im Bereich der Engadiner Straße / Solothurner Straße
+- TOP 5.7.: (E) Kennzeichnung Tempo-30-Zone in der Schaffhauser Straße
+- TOP 5.8.: (E) Verkehrsberuhigungsmaßnahmen in der Melchiorstraße
+- TOP 5.9.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hofmannstraße
+- TOP 5.10.: (A) Verkehrsrechtliche Anordnung: Beschilderung eines baulichen Gehwegs in der Filchnerstraße
+- TOP 5.11.: (A) Verkehrsrechtliche Anordnung: Erleichterte streckenbezogene Anordnung von 30 km/h vor sensiblen Einrichtungen in der Wolfratshauser Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Sendlinger Getränkemarkt aus der Schaidlerstraße 1
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: -abgesetzt-
+- TOP 6.2.2: Rupert-Mayer-Straße 46
+- TOP 6.2.3: Gysisstraße 15 (VB)
+- TOP 6.2.4: -abgesetzt-
+- TOP 6.2.5: Spitzelbergstraße 3a
+- TOP 6.2.6: Glötzleweg 27 (VB)
+- TOP 6.2.7: Mühlthaler Straße 93b (VB)
+- TOP 6.2.8: Sollner Straße 59
+- TOP 6.2.9: Graubündener Straße 107 (VB)
+- TOP 6.2.10: Hermann-Hahn-Platz 23 (T)
+- TOP 6.2.11: Wolfratshauser Straße 268
+- TOP 6.2.12: Wilbrechtstraße 72 (VB)
+- TOP 6.3.: (A) PaketPost-Areal Bürgerentscheid zu Maßnahmen der Stadtentwicklung - Hochhaus-Stopp; BV-Empfehlung Nr. 20-26 / E 00916
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (E) Beleuchtung und verkehrssichere Gestaltung des Schulwegs Hofmannstraße – Aidenbachstraße
+- TOP 7.3.: (A) Unterkünfte zur Unterbringung von Geflüchteten Drygalski-Allee (Flst.Nr. 272/2, Gemarkung Forstenried)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Straßenbennenungen
+- TOP 8.2.: (A) Veranstaltung: "Thalkirchner Sommerfest" auf dem Thalkirchner Platz vom 03.07. bis 05.07.2026
+- TOP 8.3.: Tag des offenen Denkmals am 13.09.2026
+- TOP 8.4.: (A) Veranstaltung: "Nachbarschaftsfest mit Flohmarkt" auf der Grünanlage Christel-Küpper-Platz/Eleonore-Romberg-Str am 13.06.2026
+- TOP 8.5.: (A) Informationsstele Kriegerdenkmal Forstenried
+- TOP 8.6.: Veranstaltung am 09. November 2026
+- TOP 9: Verschiedenes
+- TOP 5.12.: (Antrag) Rückverlegung der beiden Behindertenparkplätze der Diefenbachstraße an den Fellererplatz 2
+- TOP 5.13.: (E) Sondernutzungserlaubnis: Foodtruck an der Floßlände
+- TOP 8.7.: (A) Veranstaltung: Stadtteilwoche Sendling-Obersendling in der Grünanlage Neuhofen Süd und im Neuhofener Park vom 11.-17.06.2026
+- TOP 3.8.: (E) Stadtbezirksbudget Thalkirchner Burschen e.V. Sommerfest vom 03. -05.07.2026 16.094,81€; Az. 0262.100-19-0629
