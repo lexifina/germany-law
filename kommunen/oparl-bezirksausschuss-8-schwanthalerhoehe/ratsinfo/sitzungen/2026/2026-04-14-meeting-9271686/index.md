@@ -1,0 +1,105 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-04-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9271686
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9271686
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Parkmöglichkeiten Lehrkräfte Grundschule Bergmannstraße
+- TOP 4.2.: Zufahrt und Nutzung des MK2-Geländes, Ganghoferstraße 47; Zuschuss für das Projekt "Westend-Kulturgrube"
+- TOP 4.2.1: Bautätigkeiten auf dem MK2-Gelände an der Ganghoferstraße 47 - Antwort Kommunalreferat
+- TOP 4.3.: Verkehrsberuhigung durch Baumpflanzung in der Fahrbahnmitte der Schwanthalerstraße auf Höhe Einkaufszentrum / Ecke Westendstraße
+- TOP 4.4.: Errichtung eines Brunnens am Schneckenplatz
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Guldeinstraße 46
+- TOP 6.2.2.: Bauvorhaben Ridlerstraße 57
+- TOP 6.2.3.: Bauvorhaben Gollierstraße 23
+- TOP 6.2.4.: Bauvorhaben Bergmannstraße 13
+- TOP 6.2.5.: Bauvorhaben Bergmannstraße 8
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Leistungsbilanzen Baureferat Hauptabteilungen Tiefbau und Gartenbau
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Unterkunftsstandorte für Geflüchtete und Wohnungslose
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: BA8-Tischtennisturnier u.a. am Georg-Freundorfer-Platz am 11.07.2026
+- TOP 8.2.2.: Spielaktion des MobilSpiel e.V. am Georg-Freundorfer-Platz von 12.10.2026 bis 15.10.2026
+- TOP 8.2.3.: Veranstaltung "Eröffnung Quartiersbüro Parkstr.", Parkstraße 18 am 08.05.2026
+- TOP 8.2.4.: Veranstaltung "Empfang 24h Tour" am Platz am Bavariapark am 28.06.2026
+- TOP 8.2.5.: Spendenlauf der Grundschule Pfeuferstraße im Bavariapark am 15.05.2026
+- TOP 8.3: Unterrichtungen
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: BA-Anhörung I Neues Radverkehrsnetz für München, stadtbezirksübergreifende Radverkehrsverbindungen - Sitzungsvorlage Nr. 20-26 / V 18641 I Termin 05.05.26
+- TOP 9.2.2.: KITA Anfahrtszone Westendstraße 157
+- TOP 9.2.3.: Baumfällung Kazmairstraße 66
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Überwachung der Haltverbotsregelung am Übergang Ganghoferstraße / Anglerstraße
+- TOP 9.3.2.: Meldeliste Bauvorhaben SWM sowie Flyer Fernwärmebaustellen
+- TOP 9.3.3.: Diverse Fristverlängerungen BV-Empfehlungen und BA-Anträge
+- TOP 9.3.4.: Lieferzone Landsberger Straße 119; Anpassung Zeitzusatz (TOP 9.2.4 aus 03/26)
+- TOP 9.3.5.: Baumpflanzungen (Ersatzpflanzungen) an der Westendstraße 160
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Isarlust e.V. Alle Plätze fertig los vom 01.05.-31.12.2026 4.820,00;Az.: 0262.100-8-0484
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. Saloon Edit Saloon Edit vom 20.02. - 15.08.2026 8.386,00 €; Az. 0262.100-8-0483
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. Besties Besties - Auf der Suche nach der geheimen Freundschaftsformel vom 21.04.- 2.08.2026 2.392,00€; Az.: 0262.100-8-0482
+- TOP 10.1.3.1: Rückmeldung Schule: Budgetantrag "Besties - Auf der Suche nach der geheimen Freundschaftsformel"
+- TOP 10.1.3.2: Rückmeldung Antragstellerin: Budgetantrag "Besties - Auf der Suche nach der geheimen Freundschaftsformel"
+- TOP 10.1.4.: (E) Stadtbezirksbudget D&#039;Schwanthalerhöh&#039; Trägerverein Kultur- und Vereinskeller Westendstraße 76 e.V. Rahmenprogramm zu Kunst- und Kulturtage "Westend hat viele Gesichter 2026" vom 12.06.- 08.08.2026 4.100,00€; Az. 0262.100-8-0485
+- TOP 10.1.5.: (E) Stadtbezirksbudget United Cultures Initiative e.V. Sidewalk Cultures Festival vom 24. -26.07.2026 5.400,00€; Az. 0262.100-8-0479
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Dauerhaft Flächen verfügbar machen für legales Graffiti am MK2-Gelände
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2026 bis 2030
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Hinweise zur Konstituierung der Bezirksausschüsse in der kommenden Amtsperiode
+- TOP 12.3.2.: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 10.1.6.: (E) Stadtbezirksbudget Werksend e.V. Parkstraßen-Frühlingsfest am 02.05.2026 1.515,00€; Az. 0262.100-8-0486
+- TOP 6.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.7.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. KiKS einfangen: Mobiles Schreib- und Soundquartier vom 12. -14.06.2026 3.300,00€; Az. 0262.100-8-0487
+- TOP 4.5.: Zustand des Wertstoffcontainerstandortes am Gollierplatz
+- TOP 6.2.6.: Bauvorhaben Alter Messeplatz 6
+- TOP 7.3.2.: Leistungsbilanz des Sozialreferates 2026
+- TOP 9.2.4.: Tempo 30 auf den Nebenfahrbahnen Theresienhöhe
+- TOP 4.6.: Verkehrsbehinderung durch Falschparken vor dem Schanigarten Tulbeckstraße 52
+- TOP 4.7.: Öffentlicher Mülleimer und Hundekotbeutelspender am Max-Hirschberg-Weg
+- TOP 4.8.: Baumscheiben Herzog-Ernst-Platz - Altes Messegelände - Bebauungsplan 1819b
+- TOP 4.9.: Streaming von Bürgerversammlungen und BA-Sitzungen (live und/oder als Aufzeichnung)
+- TOP 8.2.6.: Fahrradsicherheitscheck Am Bavariapark, Verkehrsmuseum am 06.06.2026
+- TOP 2.1.: Dauerhaft abgestelltes Wohnmobil Anglerstraße
+- TOP 2.2.: Veranstaltung "Proschnecki Rave" Am Bavariapark am 09.05.2026
+- TOP 2.3.: Blade Night; Start- und Zielort
+- TOP 2.4.: Freischankfläche Astallerstraße 18 - Schanigarten
