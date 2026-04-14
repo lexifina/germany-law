@@ -1,0 +1,109 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2026-04-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9224303
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9224303
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA
+- TOP 2.2.1.: Situation an der Bank Manzostr./Reuterstr.
+- TOP 3.: Berichte und Protokolle aus den Unterausschüssen
+- TOP 3.1: Budget
+- TOP 3.2: Familie, Bildung, Soziales und Sport
+- TOP 3.3: Kultur
+- TOP 3.4: Planung und Bau
+- TOP 3.5: Umwelt und Verkehr
+- TOP 4.: Berichte und Protokolle der Beauftragten
+- TOP 4.1: Baumschutz
+- TOP 5.: Anträge
+- TOP 5.1.: Auskunft über den Zustand der Brücke an der Allacher Straße, den Stand der geplanten Sanierung und die zu erwartenden Auswirkungen
+- TOP 6.: Entscheidungen
+- TOP 6.1.: (E) Stadtbezirksbudget Bühne 23 e.V. Open Air Konzert BluBanda BigBand am 18.07.2026 847,00 Euro, Az.: 0262.100-23-0270
+- TOP 7.: Anhörungen
+- TOP 7.1.: Schreiben Stadtkämmerei vom 09.03.2026: Mehrjahresinvestitionsprogramm - Anhörungsverfahren: Fortschreibung für die Jahre 2026 bis 2030
+- TOP 7.2.: Schreiben Mobilitätsreferat vom 16.03.26: Einrichten eines absoluten Haltverbots Am Lochholz zur Verbesserung des Linienbusverkehrs der Buslinie 164
+- TOP 7.3.: Schreiben Mobilitätsreferat vom 26.03.26: Vesaliusstraße, zwischen Anwesen ggü. Nr. 8 und Anwesen Nr. 3-5 Änderung des Zeitzusatzes der bestehenden Kurzparkzone
+- TOP 7.4.: Schreiben Mobilitätsreferat vom 24.03.26: Neues Radverkehrsnetz für München, stadtbezirksübergreifende Radverkehrsverbindungen (Frist: 05.05.26)
+- TOP 7.5.: Schreiben Mobilitätsreferat vom 16.03.26: Schulwegsicherheit Thea-Knorr-Straße
+- TOP 7.6.: Schreiben Referat für Klima- und Umweltschutz vom 20.03.26: Siemens Mobility GmbH - Antrag auf Genehmigung gemäß § 4 BImSchG, Nr. 3.19 Errichtung und Betrieb einer Anlage zum Bau von Schienenfahrzeugen - Az. 824-G/25-01 - Brandschutz
+- TOP 7.7.: Schreiben Baureferat vom 24.03.26: Erinnerungsverfahren Sanierung Vesaliusstr 16-34
+- TOP 7.8.: Schreiben Baureferat vom 27.03.26: Erinnerungsverfahren Sanierung Reschenbachstr.
+- TOP 7.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.03.26: Esmarchstraße - Neubau von 2 Wohngebäuden mit insgesamt 256 Wohneinheiten für Studierende und gemeinsamer Tiefgarage, Allgemein zugängliche Gemeinschaftsräume: Multifunktions- und Fitnessraum, Studierzimmer, Aufenthaltsraum mit Küche und Dachterrasse, Radwerkstatt, Abstellraum, 2 Waschräume (Az.1.1-2025-21230-42)
+- TOP 7.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.03.26: Drieschstr. 12, Grundstück 1101/2-Untermenzing Abbruch Bungalow und Garage sowie Neubau eines Mehrfamilienhauses mit 4 Wohneinheiten und 2 Doppelgaragen (Aktenzeichen 1.23-2026-125-42)
+- TOP 7.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.03.26: Dachauer Str. 665, Grundstück 1409/1-Allach Neuerrichtung einer Hochtrasse für Kabel von Gebäude 201 bis Gebäude 214 (Aktenzeichen 1.2-2026-3540-42)
+- TOP 7.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.03.26: Dachauer Str. 665, Grundstück 1409/1-Allach Umbau und Modernisierungsmaßnahmen am Geb. 208 Verdichterprüfstand (Aktenzeichen 1.1-2026-3876-42)
+- TOP 7.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.03.26: Riederstr. 24, Grundstück 315/2-Allach Neubau eines Mehrfamilienhauses mit 6 NE und Garage mit Hebeparkern (Aktenzeichen 1.23-2026-4483-42)
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Informationsschreiben Direktorium vom 09.03.26: Hinweise zur Konstituierung der Bezirksausschüsse in der kommenden Amtsperiode
+- TOP 8.2.: Bericht AKIM zur Situation rund um dem Diamaltpark
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: Save-the-Date: Nahmobilitätskonzept 23. StBez. am 20.05.26, 18:30-20:00 Uhr
+- TOP 8.5.: Schreiben Sozialreferat vom 30.03.26: Mehrgenerationenanteil im Neubaugebiet Kirschgärten
+- TOP 9.: Umlauf
+- TOP 9.1: Baureferat
+- TOP 9.1.1.: Schreiben vom 12.03.26: Loch im Fahrbahnbelag auf der Stieglstraße
+- TOP 9.1.2.: Antwortschreiben Baureferat vom 19.03.26 und Referat für Stadtplanung, Bauordnung vom 20.03.26 und Mobilitätsreferat vom 01.04.26: Pasinger Heuweg
+- TOP 9.1.3.: Antwortschreiben Baureferat vom 09.03.26: Schlaglöcher Kleselstraße und Siberstraße
+- TOP 9.1.4.: Antwortschreiben Baureferat vom 26.03.26: Heckenüberstand in der Finsterwalder Straße
+- TOP 9.1.5.: Schreiben Baureferat vom 13.03.26: Geplante Straßenbauarbeiten durch den Straßenunterhalt im Jahr 2026
+- TOP 9.1.6.: Schreiben Baureferat vom 31.03.26 und 01.04.26: Wendehammer Diamaltpark zunehmend als KFZ-Parkfläche missbraucht
+- TOP 9.2: Direktorium
+- TOP 9.2.1.: Schreiben vom 23.03.26 und N - 08.04.26: Verwendungsnachweis Stadtbezirksbudget: - Interessengemeinschaft der Allacher und Untermenzinger Vereine N - Pfarrei Maria Himmelfahrt
+- TOP 9.3: Gesundheitsreferat
+- TOP 9.4: Kommunalreferat
+- TOP 9.4.1.: Schreiben Kommunalreferat vom 24.03.26: Informationen zum GeoPortal
+- TOP 9.5: Kreisverwaltungsreferat
+- TOP 9.5.1.: Schreiben vom 04.03.26: Mitteilung über eine unveränderte Fortführung des Gaststättenbetriebs: "Elivaria Eatery", Eversbuschstr. 37
+- TOP 9.5.2.: Antwortschreiben Baureferat vom 28.01.26 und Kreisverwaltungsreferat vom 13.03.26: Gefahrenlage durch offen abgestellte Lachgas-Druckbehälter in Allach
+- TOP 9.5.3.: Antwortschreiben Kreisverwaltungsreferat vom 26.03.26 und Antwortschreiben Mobilitätsreferat vom 01.04.26: Verkehrs- und Parksituation Siemens
+- TOP 9.6: Mobilitätsreferat
+- TOP 9.6.1.: Schreiben Mobilitätsreferat vom 17.03.26: Arbeiten im Straßenraum; Allacher Str. 273-279: Verlegung von Fernwärmeleitungen
+- TOP 9.6.2.: Antwortschreiben Mobilitätsreferat vom 25.03.26: Anfrage Carsharing Allach-Untermenzing
+- TOP 9.6.3.: Antwortschreiben Mobilitätsreferat vom 16.03.26: Schulwegsicherheit Pasteurstraße/ Thea-Knorr-Straße
+- TOP 9.6.4.: Antwortschreiben Mobilitätsreferat vom 18.03.26: Gefährliche Falschanzeige Tempo 30 – Manzostraße (Schulweg & Altenheim betroffen)
+- TOP 9.7: Referat für Arbeit und Wirtschaft
+- TOP 9.8: Referate für Bildung und Sport
+- TOP 9.8.1.: Schreiben vom 10.03.26 und N - 14.04.26: Sachstand zur Begehung der Sporthalle an der Eversbuschstr. 124
+- TOP 9.8.2.: Antwortschreiben Referat für Bildung und Sport vom 12.03.26: Straßenzustand an der MVG Haltestelle Pfarrer -Grimm-Straße
+- TOP 9.9: Referat für Klima- und Umweltschutz
+- TOP 9.10: Referat für Stadtplanung und Bauordnung
+- TOP 9.10.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.03.26: Fällungsantrag Ernst-von-Beling-Str. 24
+- TOP 9.11: Sozialreferat
+- TOP 9.11.1.: Schreiben vom 09.03.26: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose
+- TOP 9.12: Stadtkämmerei
+- TOP 9.12.1.: Schreiben vom 05.03.26: Broschüre Mehrjahresinvestitionsprogramm 2025 - 2029
+- TOP 9.13: Sonstiges
+- TOP 9.13.1.: Schreiben vom 11.03.26: Wertstoffinsel in Allach - Rueßstraße
+- TOP 9.13.2.: Schreiben Stadtwerke München GmbH vom 25.03.26 und N 08.04.26 : Baumaßnahmen
+- TOP 9.13.3.: Schreiben Stadtwerke München GmbH vom 16.03.26: SWM Strom Projekt Theodor-Kitt-Straße
+- TOP 9.13.4.: Schreiben Stadtwerke München GmbH vom 18.03.26: SWM FW Projekt Abschnitt Hintermeierstraße / Elly-Staegmeyr-Straße 4
+- TOP 10.: Stadtrats-und Ausschussbeschlüsse
+- TOP 10.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.26:
+- TOP 10.1.1.: Keine börsennotierten Energieverträge, keine börsengekoppelten Energieverträge
+- TOP 10.2: Beschluss der Vollversammlung des Stadtrates vom 04.02.26:
+- TOP 10.2.1.: Vollzug der Naturschutzgesetze; Erlass der Verordnung über den Schutz des Landschaftsbestandteils „Weiherkette und Kalkflachmoorreste in der Moosschwaige“
+- TOP 11.: Nichtöffentlicher Teil
+- TOP 7.14.: N - Schreiben KVR vom 07.04.26: Antrag auf Erteilung einer öffentlich-rechtlichen Sondernuztungserlaubnis: "Fahrradsicherheitscheck" und „Mobile Fahrradwerkstatt“ am Oertelplatz am 16.09.26 und 18.09.26
+- TOP 9.1.7.: N - Schreiben vom 27.03.26: Dauertrinkwasserbrunnen nach südeuropäischen Vorbild auf dem Oertelplatz - Nachfrage
+- TOP 9.6.5.: N - Schreiben vom 01.04.26: Verkehrsrechtliche Anordnung: Paula-Hahn-Weinheimer-Weg / Gerberau - Anordnung eines gemeinsamer Geh- und Radwegs
+- TOP 9.5.4.: N - Schreiben vom 07.04.26: Unveränderte Fortführung des Gaststättenbetriebes: Cafe & Restaurant Bambusgarten, Goteboldstr. 9
+- TOP 2.2.2.: N - Diamaltpark – Sachstand und Unterstützungsanfrage
+- TOP 9.6.6.: N - Schreiben vom 08.04.26: Arbeiten im Straßenraum; Esmarchstr. 27-29 und gegenüber und Elly-Staegmeyr-Str. bei Flurnummer 562: Erneuerung der Hauptwasserleitung für Elly-Staegmeyr-Str. und Verlegung einer neuen Gasleitung
+- TOP 9.11.2.: N - Schreiben vom 09.04.26: Aktualisierte Übersicht über die Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand: 31.12.2025
+- TOP 9.13.5.: N - Schreiben SWM vom 08.04.26: Nahwärmeprojekt Kirschgärten (Abschnitt Allacher Straße) ab Mai 2026
+- TOP 3.4.1.: vom 11.04.26
+- TOP 3.5.1.: vom 11.04.26
+- TOP 4.1.1.: vom 11.04.26
