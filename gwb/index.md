@@ -383,4 +383,5 @@
 ## Teil 6 Übergangs- und Schlussbestimmungen
 
 - [§ 186 Anwendungsbestimmung zu § 47k](0186.md)
+- [§ 186a Fusionskontrolle im Krankenhausbereich](0186a.md)
 - [§ 187 Übergangs- und Schlussbestimmungen](0187.md)

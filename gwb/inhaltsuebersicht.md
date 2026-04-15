@@ -405,4 +405,5 @@
 | Übergangs- und Schlussbestimmungen |
 |  |
 | § 186 | Anwendungsbestimmung zu § 47k |
+| § 186a | Fusionskontrolle im Krankenhausbereich |
 | § 187 | Übergangs- und Schlussbestimmungen |
