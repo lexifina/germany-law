@@ -1,0 +1,1 @@
+Auf Grund des Art. 10 Abs. 1 Nr. 2, 6 und 10 des Integrierte Leitstellen-Gesetzes (ILSG) vom 25. Juli 2002 (GVBl. S. 318, BayRS 215-6-1-I), das zuletzt durch die §§ 1 und 2 des Gesetzes vom 23. Dezember 2024 (GVBl. S. 636) geändert worden ist, verordnet das Bayerische Staatsministerium des Innern, für Sport und Integration:
