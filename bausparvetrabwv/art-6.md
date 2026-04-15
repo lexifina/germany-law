@@ -1,3 +1,0 @@
-# Art 6
-
-Diese Verordnung tritt mit Wirkung vom 16. Juni 1932 in Kraft. Unberührt bleiben Anerkenntnisse, Vergleiche und rechtskräftige Urteile. Rückständig gewesene Spar- und Verwaltungskostenbeiträge, die entgegen der Regelung des Artikels 2 nachgezahlt worden sind, können nicht zurückverlangt werden. Eine Kürzung von Bausparguthaben nach Artikel 2 Satz 2 Halbsatz 2 unterbleibt, wenn bei Verkündung dieser Verordnung ein die Rechte der Bausparer für die vereinfachte Abwicklung festlegender Plan aufgestellt ist, der eine solche Kürzung nicht vorsieht, und eine Änderung des Plans eine offenbar unverhältnismäßige Mühewaltung verursachen würde.
