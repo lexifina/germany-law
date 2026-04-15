@@ -1,0 +1,130 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-04-15T17:00:00+02:00
+- Ende: 2026-04-15T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7381
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7381
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=620960
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=625465
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Übergabe Unterschriften/Fällungen Bäume Schäfersee - beantwortet
+- TOP 3.2: Interkulturelles "Fastenbrechen" im Rathaus - beantwortet
+- TOP 3.3: Ollenhauerstraße: Veraltete Radwegeführung als Bäume-Killer? - beantwortet
+- TOP 3.4: Kontrolle der Jugendeinrichtungen - beantwortet
+- TOP 3.5: Bau eines Hubschrauberlandeplatzes neben der neu zu bauenden Schule in der Rue Racine - beantwortet
+- TOP 3.6: Klärung des Korruptionsverdachts im Bezirksamt aus dem Jahr 2021 - vertagt
+- TOP 3.7: Radfahrstreifen in der Ollenhauerstraße - beantwortet
+- TOP 3.8: Ollenhauerstraße: Neubauvarianten ohne und mit Baumerhalt - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 52. Sitzung der BVV am 15.04.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Bauvorhaben an der Bettina-von-Arnim-Schule - beantwortet
+- TOP 5.2: Auswirkungen des verlorenen Verfahrens im Zusammenhang mit dem Reitverein Tegel auf den geplanten Schulneubau - beantwortet
+- TOP 5.3: Unterlagen Akteneinsicht Ollenhauerstr. - beantwortet
+- TOP 5.4: Wiederholte Schließungen im Sozialamt - beantwortet
+- TOP 5.5: Baustelle Frohnauer Straße - beantwortet
+- TOP 5.6: Auswirkungen des Entwurfs des Nahverkehrsplans 2026-2028 des Senats auf Reinickendorf - Stärkung des ÖPNV? Fehlanzeige! - beantwortet
+- TOP 5.7: Plauderkasse - schriftlich beantwortet
+- TOP 5.8: Bezirkliche Ehrenamtsbörse - schriftlich beantwortet
+- TOP 5.9: Virtuelle Parkplätze für E-Scooter - schriftlich beantwortet
+- TOP 5.10: Abbau von öffentlichen Toiletten im Bezirk - schriftlich beantwortet
+- TOP 5.11: Perspektivische Nutzung des Altbaus der Münchhausen Grundschule - schriftlich beantwortet
+- TOP 5.12: Remise Hermsdorf - schriftlich beantwortet
+- TOP 5.13: Baustellenregister - schriftlich beantwortet
+- TOP 5.14: Folgen der Verlegung des Notarztwagens - schriftlich beantwortet
+- TOP 5.15: Rodungen in der Cité Guynemer - schriftlich beantwortet
+- TOP 5.16: Baggerarbeiten am Ufer des Bärbelweges - schriftlich beantwortet
+- TOP 6: Erneute Behandlung von zurückgestellten Tagesordnungspunkten wegen Beschlussunfähigkeit in der vorherigen Sitzung - (offen)
+- TOP 6.1: Religiöse Vielfalt in Reinickendorf - in der BVV abgelehnt
+- TOP 6.2: Kein Podium für Erdogan - aber ein Platz für religiöse Vielfalt - (offen)
+- TOP 6.3: Kriterien für zukünftige Genehmigungsverfahren für das Tegeler Hafenfest - mit Änderungen in der BVV beschlossen
+- TOP 6.4: Absolutes Haltverbot für LKW in einem Teilbereich der Gotthardstraße - in der BVV abgelehnt
+- TOP 6.5: Neuaufteilung und städtebauliche Integration der Berliner Straße - in der BVV abgelehnt
+- TOP 6.6: Beschlussfassung über die Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 52 Sach- und Ordnungsruf - ohne Änderungen in der BVV beschlossen
+- TOP 6.7: Beschlussfassung über die Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 20 Abs. 5 Verfahren in den Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 6.8: Änderung der Verteilung in den Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Denkmalschutz "Alter Anstaltsfriedhof" KBoN - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Mobilfunkversorgung in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Schnelle Anbindung in den Norden sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Soforthilfe des Landes Berlin für Unwetterschäden in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Nachhaltigkeitsstrategie Berlin-Reinickendorf - überwiesen
+- TOP 8.6: Erlass der Verordnung über die Festsetzung des Bebauungsplans XX-277a vom 01.08.2024 für eine Fläche südlich des Packereigrabens, begrenzt durch die Grundstücksflächen Jean-Jaurès-Straße 3/7, 7 A und 21, Hermsdorfer Straße 55, die GrundstücksflächenHermsdorfer Straße 56-69 und östlich des Steinbergparks (Rosentreterbecken) sowie einen Abschnitt der Jean-Jaurès-Straße und der Hermsdorfer Straße im Bezirk Reinickendorf, Ortsteile Wittenau und Waidmannslust (Teilfläche der Cité Foch) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Schutz vor sexualisierter Gewalt in Jugendfreizeiteinrichtungen in Reinickendorf - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2024 - überwiesen
+- TOP 10.2: Berufung eines beratenden Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Verbesserung der Situation im Bereich Breitenbachstraße - Soltauer Straße / ehemalige Gartenpachtflächen - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Bäume bewahren - Moratorium zur Ollenhauer Straße - vertagt
+- TOP 11.3: Querungshilfe Reinickendorf-Ost II - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Austausch des Verkehrszeichen 136 StVO gegen 238 StVO in Alt-Lübars - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Ampel-Countdown für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Unterbrochener Schlaf in Reinickendorf und darüber hinaus - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Größere lichte Höhen für neue Bahnbrücken über die Klemkestraße - in der BVV abgelehnt
+- TOP 11.8: Zukunftsperspektive für die Ausstellung "totgeschwiegen" sichern - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Mieterberatung in Reinickendorf verbessern III - überwiesen
+- TOP 11.10: Die Sechserbrücke "sichtbarer" machen - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Parkplätze in der Königshorster Straße auch für die Anwohnerschaft öffnen - in der BVV abgelehnt
+- TOP 11.12: Mehr P+R-Parkplätze an den Umlandsbahnhöfen im Norden schaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: BVG setzt auf mehr Sicherheit - auch für Reinickendorf! Führungen für besonders Schutzbedürftige - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Lärmblitzer auch für Reinickendorf - der frühe Vogel ...! - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Durchgängiges Tempo 30 zwischen 22 und 6 Uhr auf der Bernauer Straße als Lärmschutz für Anwohner in Tegel-Süd - mit Änderungen in der BVV beschlossen
+- TOP 11.16: Sanierung und sichere Gestaltung von Rad- und Gehwegen entlang der Roedernallee - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Fußgänger und Fahrradfahrer schützen - vertagt
+- TOP 11.18: Freie Fahrt nach 22.00 Uhr - vertagt
+- TOP 11.19: Baumaudit: Ollenhauerstraße - vertagt
+- TOP 11.20: Baumaudit als Planungsvorgabe - vertagt
+- TOP 11.21: Kostenloses Parken für Trainerinnen und Trainer von Schwimmgruppen am Schwimmbad Märkisches Viertel ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Ki in der Straßenunterhaltung im Land Berlin einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Alt Tegel fit machen für die Zukunft - Jetzt handeln - erledigt
+- TOP 11.24: Flugblatt Katastrophenschutz - erledigt
+- TOP 11.25: Üben für den Ernstfall - Resilienz-Tag für Reinickendorf - in der BVV abgelehnt
+- TOP 11.26: Umbenennung der Walderseestraße - vertagt
+- TOP 11.27: Schulbuch Baukultur - ohne Änderungen in der BVV beschlossen
+- TOP 11.28: Hinweise Sportanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kopftuchverbote im öffentlichen Dienst - vertagt
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Benennung der namenlosen Grünfläche am Ludolfingerweg / Ecke Alemannenstraße in der Gartenstadt Frohnau als "Familie-Rudolphson-Platz" - überwiesen
+- TOP 13.2: Uferkonzept für Reinickendorf - überwiesen
+- TOP 13.3: Anspruch auf Beteiligung für das Kinder- und Jugendparlament - überwiesen
+- TOP 13.4: Vergewaltigung ist ein Schwerverbrechen! Kein "Kulturbonus" für Migranten! Straftaten konsequent verfolgen - Berliner Jugendhäuser müssen vom Angstraum zu sicheren Orten werden - überwiesen
+- TOP 13.5: Verbesserung der Abbiegeführung an der Kreuzung Eichhorster Weg / Schorfheidestraße / Wilhelmsruher Damm - überwiesen
+- TOP 13.6: Letteallee für Radfahrende in beide Richtungen freigeben - überwiesen
+- TOP 13.7: SpOrt365 - überwiesen
+- TOP 13.8: Verkehrschaos im Öschelbronner Weg - überwiesen
+- TOP 13.9: Schönheitskur für die Greenwichpromenade - überwiesen
+- TOP 13.10: Mehr Kontrollen für den Schutz der Lübarser Felder und ihrer Tierwelt während der Brutzeit - überwiesen
+- TOP 13.11: Brunnen vor dem Rathaus Reinickendorf wieder in Betrieb nehmen - überwiesen
+- TOP 13.12: "Achtung, Kinder!" - Schulwegsicherheit in der Letteallee - überwiesen
+- TOP 13.13: Altglas-Upgrade für Reinickendorf: Zusätzliche Glascontainer-Standorte - überwiesen
+- TOP 13.14: "Achtung, Kinder" - Schulwegsicherheit im Medebacher Weg - überwiesen
+- TOP 13.15: Neue Perspektiven und langfristige Sicherung des Wochenmarkts Frohnau - überwiesen
+- TOP 13.16: Gefahr im Verzug: Gesetzliche Verkehrssicherungspflicht gegenüber den Kindertagesstätten Nordwest, Eigenbetrieb von Berlin für deren Liegenschaft in der Treuenbrietzener Str. 26 (ehemalige Kita) endlich durchsetzen! - erledigt
+- TOP 13.17: Interreligiöser Dialog auf Grundlage der Freiheitlich demokratischen Grundordnung weiterhin stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Sichere und und beleuchtete Zuwegungen zum S-Bahnhof Waidmannslust schaffen - überwiesen
+- TOP 14.2: Notstrom - überwiesen
+- TOP 14.3: Mehr Barrierefreiheit an den Bushaltestellen S+U Wittenau und Märkische Zeile - überwiesen
+- TOP 14.4: Nicht mehr genutzte Fahrräder am S- und U-Bahnhof Wittenau konsequent entfernen - überwiesen
+- TOP 14.5: Sichere Wege zum Sportplatz des FCK Frohnau - überwiesen
+- TOP 14.6: Beleuchtung und Sichtverhältnisse rund um den S- und U-Bahnhof Wittenau gezielt verbessern - überwiesen
+- TOP 14.7: Graffiti in Alt-Tegel Höhe Wilkestraße beseitigen - überwiesen
+- TOP 14.8: Müllproblem in der Rollbergesiedlung dauerhaft lösen - überwiesen
+- TOP 14.9: Notnetzplan für längerfristige streikbedingte Ausfälle im ÖPNV - überwiesen
+- TOP 14.10: Treppenstufen im Ausgang des S-Bahnhofs Wittenau (Wilhelmsruher Damm) erneuern - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - im Ausschuss abgelehnt
