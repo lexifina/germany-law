@@ -1,0 +1,1 @@
+Auf Grund von Art. 18 Abs. 7 und Art. 31 des Bayerischen Feuerwehrgesetzes (BayFwG) und § 1 der Verordnung über die Einrichtung der staatlichen Behörden erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
