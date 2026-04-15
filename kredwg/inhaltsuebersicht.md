@@ -216,7 +216,24 @@
 |  |
 |  | 4a.Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems |
 |  |
-| §§ 48a bis 48s | (weggefallen) |
+| § 48b | (weggefallen) |
+| § 48c | (weggefallen) |
+| § 48d | (weggefallen) |
+| § 48e | (weggefallen) |
+| § 48f | (weggefallen) |
+| § 48g | (weggefallen) |
+| § 48h | (weggefallen) |
+| § 48i | (weggefallen) |
+| § 48j | (weggefallen) |
+| § 48k | (weggefallen) |
+| § 48l | (weggefallen) |
+| § 48m | (weggefallen) |
+| § 48n | (weggefallen) |
+| § 48o | (weggefallen) |
+| § 48p | (weggefallen) |
+| § 48q | (weggefallen) |
+| § 48r | (weggefallen) |
+| § 48s | (weggefallen) |
 | § 48t | Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken |
 | § 48u | Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung |
 |  |
@@ -274,7 +291,7 @@
 | § 53j | Anzeigen; Verordnungsermächtigung |
 | § 53k | Auslagerung von Aktivitäten und Prozessen |
 | § 53l | Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln |
-| § 53m | Inhalt des Zulassungsantrags |
+| § 53m | Inhalt des Zulassungsantrags; Anforderung von Unterlagen; Verzicht auf die Anhörung |
 | § 53n | Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei |
 |  |  |
 |  | 2.Zentralverwahrer |

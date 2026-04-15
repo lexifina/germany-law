@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Ziel und Anwendungsbereich](0001.md)
 - [§ 2 Förderfähigkeit](0002.md)
-- [§ 3 Regelungen zu den einzelnen Fördertatbeständen nach § 12b Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes](0003.md)
+- [§ 3 Regelungen zu den einzelnen Fördertatbeständen nach § 12b Absatz 1 Satz 3 des Krankenhausfinanzierungsgesetzes](0003.md)
 - [§ 4 Antragstellung](0004.md)
 - [§ 5 Auszahlung der Fördermittel](0005.md)
 - [§ 6 Verwendung der Fördermittel](0006.md)

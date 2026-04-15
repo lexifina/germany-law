@@ -52,7 +52,7 @@
 - [§ 23 Verordnungsermächtigung](0023.md)
 - [§ 24 Überprüfung der Auswirkungen](0024.md)
 - [§ 25 Ausnahmen von Prüfungen bei Krankenhausbehandlung und von der Prüfung von Strukturmerkmalen, Verordnungsermächtigung](0025.md)
-- [§ 26 Zusatzentgelt für Testungen auf das Coronavirus SARS-CoV-2 im Krankenhaus](0026.md)
+- [§ 26 (weggefallen)](0026.md)
 - [§ 26a Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie](0026a.md)
 - [§ 26b Kostentragung für durch den Bund beschaffte Arzneimittel mit dem Wirkstoff Remdesivir](0026b.md)
 - [§ 26c Kostenerstattung für durch den Bund beschaffte Produkte](0026c.md)

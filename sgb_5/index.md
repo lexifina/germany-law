@@ -433,7 +433,7 @@ Leistungserbringung
 - [§ 136 Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung](0136.md)
 - [§ 136a Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung in ausgewählten Bereichen](0136a.md)
 - [§ 136b Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus](0136b.md)
-- [§ 136c Beschlüsse des Gemeinsamen Bundesausschusses zu Qualitätssicherung und Krankenhausplanung](0136c.md)
+- [§ 136c Beschlüsse des Gemeinsamen Bundesausschusses zur Erbringung onkochirurgischer Leistungen und zu Vorgaben bei Zuschlägen im Krankenhaus](0136c.md)
 - [§ 136d Evaluation und Weiterentwicklung der Qualitätssicherung durch den Gemeinsamen Bundesausschuss](0136d.md)
 - [§ 137 Durchsetzung und Prüfung der Qualitätsanforderungen des Gemeinsamen Bundesausschusses](0137.md)
 - [§ 137a Institut für Qualitätssicherung und Transparenz im Gesundheitswesen](0137a.md)
@@ -743,7 +743,7 @@ ihrer Verbände
 ### Erster Abschnitt Aufgaben
 
 - [§ 275 Begutachtung und Beratung](0275.md)
-- [§ 275a Prüfungen zu Qualitätskriterien, Strukturmerkmalen und Qualitätsanforderungen in Krankenhäusern](0275a.md)
+- [§ 275a Prüfungen zu Qualitätskriterien, Strukturmerkmalen, Qualitätsanforderungen und Vorgaben bei Zuschlägen im Krankenhaus](0275a.md)
 - [§ 275b Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege und außerklinischen Intensivpflege durch den Medizinischen Dienst und Verordnungsermächtigung](0275b.md)
 - [§ 275c Durchführung und Umfang von Prüfungen bei Krankenhausbehandlung durch den Medizinischen Dienst](0275c.md)
 - [§ 276 Zusammenarbeit](0276.md)

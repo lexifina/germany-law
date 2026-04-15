@@ -179,7 +179,6 @@ Verbandsaufgaben
 - [§ 55b Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern](0055b.md)
 - [§ 56 Beitragsfreiheit](0056.md)
 - [§ 57 Beitragspflichtige Einnahmen](0057.md)
-- [§ 57 Beitragspflichtige Einnahmen](0057-2.md)
 - [§ 58 Tragung der Beiträge bei versicherungspflichtig Beschäftigten](0058.md)
 - [§ 59 Beitragstragung bei anderen Mitgliedern](0059.md)
 - [§ 59a Berücksichtigung des Beitragsabschlags für Eltern bei der Beitragstragung](0059a.md)

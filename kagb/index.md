@@ -628,3 +628,4 @@
 - [§ 363 Übergangsvorschrift zum Gesetz zur weiteren Stärkung des Anlegerschutzes](0363.md)
 - [§ 364 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0364.md)
 - [§ 365 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz](0365.md)
+- [§ 366 Übergangsvorschrift zum Fondsrisikobegrenzungsgesetz](0366.md)
