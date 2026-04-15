@@ -1,0 +1,13 @@
+# Zu § 48 LPO I Geschichte (Unterrichtsfach)
+1. Alte Geschichte
+Von der Entstehung der griechischen Staatenwelt und ihrer Staatsformen bis zum Hellenismus; Römische Republik und Römisches Kaiserreich; Wirtschafts-, Sozial-, Religions- und Kulturgeschichte der griechischen und römischen Welt.
+2. Mittelalterliche Geschichte
+Von der Völkerwanderung bis zum Spätmittelalter; das Verhältnis von geistlicher und weltlicher Gewalt; Kirche und Kultur im Mittelalter; Wirtschaftsformen sowie Strukturen und Entwicklungen der Gesellschaft im Mittelalter.
+3. Neuere Geschichte
+Europäische Geschichte von der Entstehung des europäischen Staatensystems bis zur Aufklärung, Europa und die außereuropäische Welt in der Frühen Neuzeit, Wirtschaftsformen und Gesellschaft in der Frühen Neuzeit.
+4. Neueste Geschichte
+Vom Zeitalter der Revolutionen bis zur Gegenwart, Wirtschaft und Gesellschaft im 19. und 20. Jahrhundert, Kunst und Kultur im 19. und 20. Jahrhundert, politische Ideen im 19. und 20. Jahrhundert.
+5. Landesgeschichte
+Bayern in der Römerzeit, im Mittelalter und der frühen Neuzeit; Modernisierung in Staat und Gesellschaft in Bayern im 18. und 19. Jahrhundert; Bayerische Geschichte im 20. Jahrhundert; Aspekte der kulturellen Entwicklung Altbayerns, Frankens oder Schwabens.
+6. Fachdidaktik
+Geschichtsdidaktische Theorien und Forschungsansätze; alters- und schulartspezifische Überlegungen bezüglich der Orientierung durch Geschichte in der Geschichtskultur; kompetenzorientierte Modelle historischen Lernens; schulartspezifische Stufung von Anforderungen und Überprüfung von Kompetenzen; typische Lernformen des Geschichtsunterrichts unter Berücksichtigung fächerübergreifender Aspekte; systematische und lebensweltbezogene Kriterien für die Auswahl und Thematisierung historischer Fragestellungen im Geschichtsunterricht in schulart- und altersbezogener Ausprägung; kritische Analyse von Unterrichtskonzepten und -materialien mithilfe fachdidaktischer Erkenntnisse unter Einbeziehung fachwissenschaftlicher und erziehungswissenschaftlicher Einsichten; selbstständige Entwicklung von Unterrichtsvorschlägen zu ausgewählten Inhalten sowie zu fachspezifischen Arbeitsweisen unter Berücksichtigung geeigneter Methoden und Medien; Kriterien für die Schaffung sach-, adressaten- und medienadäquater historischer Narrationen; Kriterien für die Analyse von Quellen und Darstellungen sowie deren schulspezifische Wendung; Medien fachbezogenen Lernens und ihre schulart- und altersspezifische Nutzung; fachspezifische Arbeitsformen in schulart- und altersbezogener Ausprägung; kritische Analyse von Lehrplänen und Schulbüchern der jeweiligen Schulart unter Berücksichtigung aktueller Entwicklungen.

@@ -1,0 +1,15 @@
+# Zu § 41 LPO I Biologie (Unterrichtsfach)
+1. Bau und Leistung von Zellen
+Grundlagen der Struktur und Funktion von Biomolekülen (Nukleinsäuren, Lipide, Proteine, Kohlenhydrate), Kenntnis der Zytologie einschließlich Feinstruktur und molekularbiologischer Zusammenhänge, Grundlagen zentraler Stoffwechselprozesse bei Eukaryoten, Einblick in die Leistungen der Prokaryoten.
+2. Bau und Leistungen der Organismen
+Einblick in die Anatomie, Morphologie und Physiologie von Protisten, niederen Pflanzen/Algen, Pilzen, Bakterien und Viren; Grundlagen der Anatomie, Morphologie und Physiologie wichtiger Tiergruppen; Grundlagen der Anatomie, Histologie, Morphologie und Physiologie von höheren Pflanzen; Einblick in die Neurobiologie und Sinnesphysiologie; Einblick in die Fortpflanzungs- und Entwicklungsbiologie der wichtigsten Taxa; Grundlagen der klassischen und der molekularen Genetik; Grundlagen der Humangenetik; Kenntnis über Bau, Funktion und Entwicklung des menschlichen Körpers; Grundlagen der Gesunderhaltung des menschlichen Körpers.
+3. Verhaltensbiologie
+Grundlagen der Ethologie, Soziobiologie und Verhaltensökologie; Kenntnis der biologischen Grundlagen des Verhaltens und der Sexualität des Menschen.
+4. Biodiversität und Evolution
+Kenntnis wichtiger Organismen (einschließlich ihrer Biologie) unter besonderer Berücksichtigung der einheimischen Flora und Fauna, Grundlagen der Phylogenie und Einblick in die Taxonomie und ihre Methoden, Kenntnis der Evolutionstheorie (Belege, Mechanismen, Stammesgeschichte und Verwandtschaftsbeziehungen von Tieren und Pflanzen), Einblick in die Stammesgeschichte des Menschen.
+5. Organismus und Umwelt – Ökologie
+Grundlagen der Abhängigkeit der Organismen von und Anpassung an Umweltbedingungen; Einblick in natürliche Stoffkreisläufe und in Kausalzusammenhänge von Ökosystemen am Beispiel wichtiger Lebensräume; Einblick in die Folgen anthropogener Einflüsse auf Ökosysteme (Natur- und Umweltschutz, nachhaltige Entwicklung, Bevölkerungsentwicklung des Menschen).
+6. Bio- und Gentechnologie
+Grundlagen der Gentechnik und ihrer Methoden, Einblick in biotechnologische Verfahren einschließlich ihrer Nutzen und Risiken.
+7. Fachdidaktik
+Kenntnis biologiedidaktischer Theorien und deren Konsequenzen für die Unterrichtsplanung und -gestaltung; Kenntnis in der Auswahl und dem Einsatz von Experimenten im Biologieunterricht; Kenntnis der spezifischen Arbeitsmittel (Originale und Medien) für den Biologieunterricht und deren Bewertung (Medienkompetenz, Modellbildung); Kenntnis der jeweils gültigen Bildungsstandards und Lehrpläne und den daraus abgeleiteten Verfahren zur Leistungsbewertung (Aufgabenkultur); Kenntnisse zur Konzeption von Biologieunterricht, der auf kumulatives Lernen angelegt ist und verschiedene Kompetenzbereiche berücksichtigt; Grundlagen zum Einsatz außerschulischer Lehr- und Lernorte für Unterrichtszwecke; Grundlagen zur Theorie und Praxis fächerverbindenden naturwissenschaftlichen Unterrichts; Kenntnis der Ziele und Gestaltungsmöglichkeiten fächerübergreifender Bildungs- und Erziehungsaufgaben (Gesundheitsförderung, Suchtprävention, Familien- und Sexualerziehung sowie Umweltbildung).
