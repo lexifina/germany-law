@@ -1,0 +1,8 @@
+# TOP 7: Erweiterung der Einbahnstraße Donarstraße
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld-West (2026-04-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/139101
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/67025
