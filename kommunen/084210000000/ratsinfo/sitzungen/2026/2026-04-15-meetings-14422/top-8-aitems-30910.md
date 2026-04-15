@@ -1,0 +1,8 @@
+# TOP 8: Verwendung der Kontraktmittel des Innovations- und Sozialbudgets 2025
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2026-04-15)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/30910
+- Ergebnis: ohne Widerspruch
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/12796
