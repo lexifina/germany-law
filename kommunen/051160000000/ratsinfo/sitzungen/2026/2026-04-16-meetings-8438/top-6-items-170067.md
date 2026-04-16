@@ -1,0 +1,8 @@
+# TOP 6: Bericht über die Aufwertung des Spielplatzes Am Brückensteg / Vorstellung des Entwurfs
+
+- Sitzung: Bezirksvertretung Ost (2026-04-16)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/170067
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/38389
