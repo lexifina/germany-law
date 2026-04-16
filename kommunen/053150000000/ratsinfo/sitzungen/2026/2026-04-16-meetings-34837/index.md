@@ -1,0 +1,94 @@
+# Sondersitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-16T17:00:00+02:00
+- Ende: 2026-04-16T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34837
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34837
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Antrag auf Sondersitzung gem. § 36 und 47 GO NRW – Demokratie in der Bezirksvertretung VI Antrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sanierung der Alten Römerstraße zwischen Rheinkassel und Merkenich - Kenntnis genommen
+- TOP 7.1.2: Parkplatzbewirtschaftung von Supermärkten - Kenntnis genommen
+- TOP 7.1.3: Glasfaser Ausbau Langel - Kenntnis genommen
+- TOP 7.1.4: Pflege- und Reinigungsmaßnahmen für Grün- und Freiflächen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Anfrage zur Sicherung des Bolzplatzes in Blumenberg-Süd — Installation Ballfangzaun/Netz - Kenntnis genommen
+- TOP 7.1.6: Tiny House Siedlung im Kölner Norden - Kenntnis genommen
+- TOP 7.1.7: Wird unter TOP 12.1.1 behandelt
+- TOP 7.1.8: Sperrung mehrerer Parkflächen in Chorweiler-Nord und bei der Kontrollpraxis des Ordnungsamts - Kenntnis genommen
+- TOP 7.1.9: Sporthalle Henry-Ford-Realschule - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Verstöße gegen die Leinenpflicht rund um die Oxforder Passage Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Sanierung Bruchstraße, AN/1996/202
+- TOP 7.3.2: Beschilderung Parkplatzzufahrt Liverpooler Platz, AN/0148/2024
+- TOP 7.3.3: Anfrage zur Genehmigung und Gebührenpflicht des Trödelmarkts am Wochenmarkt Chorweiler, AN/1424/2025
+- TOP 7.3.4: Anfrage zur aktuellen und zukünftigen Verkehrssituation in Merkenich, AN/1428/2025
+- TOP 7.3.5: Parkplatzsituation Siedlung Chorweiler Nord, AN/1461/2025
+- TOP 7.3.6: Turbokreisel Emdenerstraße - Causemannstraße - Zufahrt Industriestraße, AN/1465/2025
+- TOP 7.3.7: Schulstrassen, AN/1466/2025
+- TOP 7.3.8: Aktueller Stand und Perspektiven der Drogenhilfe im Stadtbezirk Köln-Chorweiler, AN/0158/2026
+- TOP 7.3.9: Olympiafolgen für Köln, AN/0160/2026
+- TOP 7.3.10: Bushaltestellen/Wartehäuser, AN/0396/2026
+- TOP 7.3.11: Querungshilfe Kreuzung Mengenicher Str. /Johannesstr., AN/0399/2026
+- TOP 7.3.12: Wohnsituation von Seniorinnen und Senioren im Stadtbezirk Chorweiler, AN/0402/2026
+- TOP 7.3.13: Abriss der alten Hauptschule Holzheimer Weg in Worringen/Neubau der Gesamtschule, AN/0403/2026
+- TOP 7.3.14: Berücksichtigung des Kölner Nordens bei der Errichtung neuer Carsharing-Stationen, AN/0414/2026
+- TOP 7.3.15: Bedarf und Standortprüfung für eine öffentliche Toilettenanlage in Köln Heimersdorf, AN/0428/2026
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Abriss der Papageiensiedlung in Seeberg-Nord - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Sicherstellung der planmäßigen Bedienung aller S-Bahn-Haltepunkte im Kölner Norden Stadtbezirk Chorweiler (S6 und S11) und wirksame Durchsetzung der Haltepflicht Gemeinsamer Antrag der SPD-Fraktion, der Fraktion Bündnis´90/Die Grünen und Die Linke - ungeändert beschlossen
+- TOP 8.3.2: Einrichtung einer Jugendvertretung in der Bezirksvertretung Chorweiler Gemeinsamer Antrag der CDU-Fraktion und der FDP - ungeändert beschlossen
+- TOP 8.3.3: Platzkümmerer für Chorweiler Gemeinsamer Antrag der Fraktion Bündnsi´90/Die Grünen und der SPD-Fraktion - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktion Bündnis´90/Die Grünen - ungeändert beschlossen
+- TOP 8.3.4: Gesundheitsschutz und Wohnqualität sicherstellen- Lärmschutz an der B9 in Worringen Gemeinsamer Antrag der CDU-Fraktion und der FDP - ungeändert beschlossen
+- TOP 8.3.5: Aufstellung eines zusätzlichen Mülleimers im Bereich Worringen Süd-West Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis`90/Die Grünen - ungeändert beschlossen
+- TOP 9.2.2: Konzept für die SeniorenNetzwerke Köln - ungeändert beschlossen
+- TOP 9.2.3: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 10.2.2: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.3: Veröffentlichung der Stationen aus dem Carsharing Konzept - Kenntnis genommen
+- TOP 10.2.4: Änderungen zum Fahrplanwechsel 2025 (Fahrplanjahr 2026) - Kenntnis genommen
+- TOP 10.2.5: Wahl der Seniorenvertretung der Stadt Köln 2026 - Kenntnis genommen
+- TOP 10.2.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55, 50769 Köln-Merkenich - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 10.2.7: Sportentwicklungsplanung – Sachstand Interessenbekundungsverfahren Förderprogramm des Bundes „Sanierung kommunaler Sportstätten“ - Kenntnis genommen
+- TOP 10.2.8: Fühlinger See Veranstaltungsplanung 2026 - Kenntnis genommen
+- TOP 10.2.9: Mitteilung Gesundheitsregion Köln - Kenntnis genommen
+- TOP 10.2.10: Fördermittel vom Land NRW für ehrenamtliche Initiativen und Vereine – Sachstandsbericht 2025 - Kenntnis genommen
+- TOP 10.2.11: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung am 02.12.2025 (AN/1394/2025) betr.: Überarbeitung der bezirklichen Busteilnetze - Kenntnis genommen
+- TOP 10.2.12: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.13: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 10.2.14: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.15: Stadtradeln 2026 - Kenntnis genommen
+- TOP 10.2.16: Umsetzungskonzept der neuen Regeln Köln.Gestaltet.Außengastronomie - Kenntnis genommen
+- TOP 10.2.17: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.18: Einführung eines einheitlichen Schließtags im System der Stadtbibliothek - Kenntnis genommen
+- TOP 10.2.19: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Mitteilung zum Sachstand der Technischen Masterplanung und zum weiteren Vorgehen in Bezug auf die Bewerbung um die Olympischen und Paralympischen Spiele - Kenntnis genommen
+- TOP 10.2.20: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 10.2.21: Stand Bauvorhaben Querungshilfe Mercatorstraße - Kenntnis genommen
+- TOP 10.2.22: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Beleuchtung Parkanlage Köln Lindweiler, Aktenzeichen 184/25 - Kenntnis genommen
+- TOP 11: Anfragen der Seniorenvertretung
