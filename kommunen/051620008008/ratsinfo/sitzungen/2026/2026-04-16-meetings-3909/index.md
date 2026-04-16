@@ -1,0 +1,80 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2026-04-16T17:40:00+02:00
+- Ende: 2026-04-16T20:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3909
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3909
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Fragestunde der Einwohnenden
+- TOP 3: Vergleichsbericht 2024 - Ertrags- und Aufwandslage im interkommunalen Vergleich - Kenntnisnahme
+- TOP 4: Teilnahme am anteiligen Entschuldungsprogramm des Landes NRW nach ASEG NRW - Kenntnisnahme
+- TOP 5: Ortsrecht
+- TOP 5.1: Änderung Hauptsatzung 2025 i.S. Kostenübernahmeverträge - mehrheitlich beschlossen
+- TOP 5.2: Ordnungsbehördliche Verordnung der Stadt Grevenbroich über das Offenhalten von Verkaufsstellen aus besonderem Anlass - einstimmig beschlossen
+- TOP 5.3: 4. Änderungssatzung der Satzung über das Marktwesen in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 5.4: 7. Änderungsatzung zur Satzung über die Erhebung von Marktstandsgeld für die Wochen- und Jahrmärkte (Kirmessen) sowie sonstigen Märkte im Gebiet der Stadt Grevenbroich vom 06.04.1976 - einstimmig beschlossen
+- TOP 6: Gründung einer Wohnungsbaugenossenschaft "Kommunale Wohnraumversorgung Grevenbroich e.G" - mehrheitlich beschlossen
+- TOP 7: Verfahrensweise Fortschreibung Brandschutzbedarfsplan - einstimmig beschlossen
+- TOP 8: Vertretung der Stadt Grevenbroich in der Wahlversammlung des Erftverbandes für die 11. Wahlperiode - einstimmig beschlossen
+- TOP 9: Mittelbereitstellungen
+- TOP 9.1: Bewerbung der Stadt Grevenbroich als „Europäische Sportstadt 2027 - mehrheitlich beschlossen
+- TOP 9.2: Bewerbung der Stadt Grevenbroich als Ausrichterin der Eurogames 2027 - mehrheitlich beschlossen
+- TOP 9.3: Erweiterung der Gebrüder-Grimm-Schule Wevelinghoven zur Vorbereitung auf den OGS-Rechtsanspruch – Realisierung einer Gesamtlösung - einstimmig beschlossen
+- TOP 9.4: Beschluss über die einmalige Erhöhung des städtischen Zuschusses an den Partnerschaftsverein Grevenbroich e.V. - einstimmig beschlossen
+- TOP 9.5: Modernisierung der Gebäudehülle (Fassade, Fenster, Dach) der Grundschule St. Josef Südstadt – Vorziehen der Maßnahme aufgrund akuter Mängel - einstimmig beschlossen
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Beratungspunkte aus dem Ausschuss für Planung und Strukturwandel
+- TOP 10.1.1: BP G 242 "Gartenquartier Orken" - Ortsteil Orken (Aufstellungsbeschluss) - mehrheitlich beschlossen
+- TOP 10.2: Beratungspunkte aus dem Ausschuss für Arbeit und Soziales
+- TOP 10.2.1: Einrichtung eines Quartiersbüros "Integration" im Bahnhofsviertel (Antrag Nr.:66/2024) - einstimmig beschlossen
+- TOP 11: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 11.1: Anfrage zum Haushalt 2026 (Anfrage-Nr.: 3/2026) - Kenntnisnahme
+- TOP 11.2: Wie gestaltet sich das Hundesteueraufkommen in der Stadt Grevenbroich? (Anfrage-Nr.: 8/2026) - Kenntnisnahme
+- TOP 11.3: Antrag: Prüfung und Aktivierung der OParl-Schnittstelle für das Rats- und Gremieninformationssystem der Stadt Grevenbroich (Antrag-Nr.: 19/2026) - Kenntnisnahme
+- TOP 11.4: Mobilitätsmanagement - einstimmig beschlossen
+- TOP 11.5: Neuausrichtung der Stadtbetriebe Grevenbroich AöR - mehrheitlich beschlossen
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: Antrag auf Umbesetzung von Ausschüssen und Gremien (Antrag-Nr.: 32/2026) - einstimmig beschlossen
+- TOP 12.2: Ausschussumbesetzung (Antrag-Nr.: 38/2026) - einstimmig beschlossen
+- TOP 12.3: Antrag Ausschussumbesetzung (Antrag-Nr.: 54/2026) - einstimmig beschlossen
+- TOP 12.4: Umbesetzung (Antrag-Nr.: 57/2026) - einstimmig beschlossen
+- TOP 12.5: Antrag auf Umbesetzung des Ausschusses für Bauen und Umwelt (Antrag-Nr.: 61/2026) - einstimmig beschlossen
+- TOP 12.6: Umbesetzung von Ausschüssen und Gremien / Nachbesetzung (Antrag-Nr.: 62/2026) - einstimmig beschlossen
+- TOP 12.7: Rahmenbedingungen für ein Technologie- und Entwicklungszentrum in Grevenbroich erörtern (Antrag-Nr.: 31/2026) - einstimmig beschlossen
+- TOP 12.8: Einführung eines verbindlichen und einsehbaren Verzeichnisses der Ausschuss- und Gremienbesetzungen (Antrag-Nr.: 33/2026)
+- TOP 12.9: Überprüfung der Zuwegungen an die L116 - Ampelanlage zur Gefahrenreduktion an der L116, Anschlussstelle Gustorf, errichten (Antrag-Nr.: 34/2026) - einstimmig beschlossen
+- TOP 12.10: Änderung der Verteilungsregelung bei Einnahmen aus Bandenwerbung an städtischen Sportanlagen (Antrag-Nr.: 35/2026) - einstimmig beschlossen
+- TOP 12.11: Antrag betreffend der Beschlussvorlage 535/2025/1 (Park- und Halteverbot an der Hansendstraße) sowie Masterplan Kraftwerksdörfer Frimmersdorf und Neurath: Umgestaltung des Kirchplatzes St. Martin (Antrag-Nr.: 36/2026) - mehrheitlich abgelehnt
+- TOP 12.12: Antrag auf Beseitigung eines Angstraumes am Fußweg zum Frimmersdorfer Bahnhof (Antrag-Nr.: 37/2026)
+- TOP 12.13: Antrag zur Verkehrssicherung im KITA-Bereich der Karl-Oberbach-Straße (Antrag-Nr.: 43/2026) - einstimmig beschlossen
+- TOP 12.14: Fußgängerüberweg Dunantstraße / Im Pfarrgarten im Stadtteil Gustorf schaffen (Antrag-Nr.: 44/2026) - einstimmig beschlossen
+- TOP 12.15: Änderungsantrag zum Mobilitätskonzept der Stadt Grevenbroich (Antrag-Nr.: 45/2026) - von der Tagesordnung abgesetzt
+- TOP 12.16: "Campus Bildung & Kultur" (Antrag-Nr.: 46/2026) - einstimmig beschlossen
+- TOP 12.17: Mehr Anerkennung für Ehrenamt: Vergünstigtes Deutschlandticket für Ehrenamtskarte prüfen (Antrag-Nr.: 47/2026) - einstimmig beschlossen
+- TOP 12.18: Verkehrsberuhigung Bahnstraße konsequent umsetzen (Antrag-Nr.: 48/2026) - einstimmig beschlossen
+- TOP 12.19: Maßnahmen zur Vermeidung von Überflutungen in der Rübenstraße im Ortsteil Kapellen (Antrag-Nr.: 49/2026) - einstimmig beschlossen
+- TOP 12.20: Prüfauftrag zur Modernisierung der Sportanlage des SV Hemmerden, Grevenbroich (Antrag-Nr.: 50/2026) - einstimmig beschlossen
+- TOP 12.21: Maßnahmen zur Vermeidung von Überflutungen im Bereich der Straße Am Burgturm in Noithausen (Antrag-Nr.: 51/2026) - einstimmig beschlossen
+- TOP 12.22: Sicherheitsmaßnahmen Museum der Niederrheinischen Seele in der Villa Erckens, sowie der Leuchtbänke im Hans-Gottfried-Benrath-Park (Stadtpark) (Antrag-Nr.: 52/2026) - einstimmig beschlossen
+- TOP 12.23: Optimierung der Fußgänger-Grünphasen am Ostwall (Übergang Rathaus/Gesamtschule/Parkplatz) (Antrag-Nr.: 53/2026) - einstimmig beschlossen
+- TOP 12.24: Überarbeitung und Aktualisierung des Klimaschutzkonzeptes der Stadt Grevenbroich (Antrag-Nr.: 56/2026) - einstimmig beschlossen
+- TOP 12.25: Erneuerung der Bestuhlung des Museums (Antrag-Nr.: 64/2026) - einstimmig beschlossen
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfrage zur Grundsteuerreform 2025 (Anfrage-Nr.: 39/2026) - Kenntnisnahme
+- TOP 13.2: Anfrage zur Wiederkehrende Überflutung im Bereich Am Burgturm / Alte Zollstraße in Noithausen (Anfrage-Nr.: 40/2026) - Kenntnisnahme
+- TOP 13.3: Anfrage zum Sachstand der zukünftigen Fernwärmeversorgung in Frimmersdorf und Neurath über das Jahr 2030 hinaus (Anfrage-Nr.: 41/2026) - Kenntnisnahme
+- TOP 13.4: Rüstungszentrum und Militarisierung in Grevenbroich (Anfrage-Nr.: 42/2026) - Kenntnisnahme
+- TOP 13.5: Leistungsüberprüfung externe Dienstleistungen (Anfrage-Nr.: 55/2026) - Kenntnisnahme
+- TOP 13.6: Ausbaupotenziale und Fördermöglichkeiten für Photovoltaik auf öffentlichen Gebäuden in Grevenbroich (Anfrage-Nr.: 58/2026) - Kenntnisnahme
+- TOP 13.7: Prüfung einer Photovoltaik-Installation im Rahmen der Sanierung des Schlossstadions bzw. auf dem Vereinsheim des TuS Grevenbroich (Anfrage-Nr.: 59/2026) - Kenntnisnahme
+- TOP 13.8: Stand und Perspektiven des Fuhrparkmanagements der Stadt Grevenbroich und ihrer Tochtergesellschaften im Hinblick auf die Umstellung auf Elektromobilität (Anfrage-Nr.: 60/2026) - Kenntnisnahme
+- TOP 13.9: Anfrage zur Übersicht von Fördermitteln im Strukturwandel (Anfrage-Nr.: 63/2026) - Kenntnisnahme
+- TOP 14: Mitteilungen des Bürgermeisters
