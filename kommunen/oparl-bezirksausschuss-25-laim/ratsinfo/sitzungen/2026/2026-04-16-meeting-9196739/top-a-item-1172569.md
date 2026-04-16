@@ -1,0 +1,7 @@
+# TOP A): Verabschiedung ausscheidender BA-Mitglieder
+
+- Sitzung: BA 25 - Vollgremium (2026-04-16)
+- Körperschaft: Bezirksausschuss 25: Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1172569
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1172569
