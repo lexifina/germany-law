@@ -1,0 +1,56 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-04-16T17:01:00+02:00
+- Ende: 2026-04-16T19:01:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14418
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14418
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00583872.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Mündlicher Bericht - Aktuelle Entwicklungen in der Lützowkaserne (Oberstleutnant Maik Seifert)
+- TOP 4.2: Fortschreibung der kleinräumigen Bevölkerungsprognose (KBP) 2025 - 2035: Methodik, Annahmen und zentrale Ergebnisse im Überblick - zur Kenntnis genommen
+- TOP 5: Anhörungen
+- TOP 5.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026 - von der Tagesordnung abgesetzt
+- TOP 5.2: Maßnahmen gegen illegale Müllentsorgungen/Müllablagerungen im Stadtgebiet Münster - von der Tagesordnung abgesetzt
+- TOP 5.3: Budget zum Ausbau und Erhalt der Sportstätteninfrastruktur (ohne Turn- und Sporthallen sowie Großinvestitionen, z.B. Verlagerung von Sportanlagen), Maßnahmen in 2026 - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Unterhaltung der städtischen Immobilien 2026/2027 im Stadtbezirk Ost, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 6.2: Wiederwahl der Schiedsperson für den Bezirk 10 Münster-St.Mauritz - einstimmig beschlossen
+- TOP 6.3: Festlegung der Mittel für die Spielplätze - einstimmig beschlossen
+- TOP 7: Fristgerecht eingegangene Anträge
+- TOP 7.1: Umwidmung und Beschilderung im Bereich der Haskenau-Brücke - mehrheitlich beschlossen
+- TOP 8: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 8.1: Ergänzende Anfrage zu AnO/0018/2025 - Öffnung der neuen Haskenau-Brücke für ReiterInnen
+- TOP 8.2: Abgesperrte Fläche am Spielplatz „Am Hornbach“ - eingebracht
+- TOP 8.3: Auffüllen der Hundekotbeutel-Spender in Handorf und Münster-Ost - eingebracht
+- TOP 8.4: Schwarzer Asphalt auf der Baustelle im Kirschgarten - eingebracht
+- TOP 8.5: Prüfung von Maßnahmen für mehr Verkehrssicherheit - eingebracht
+- TOP 8.6: Umwandlung Taxistellplatz in Kurzzeitparkplatz an der Handorfer Straße - eingebracht
+- TOP 8.7: Hinweisschilder in Handorf - eingebracht
+- TOP 8.8: Basisausstattung der Schulsozialarbeit an allen Grundschulen in Münster beibehalten - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 9.1: Bootsanleger Stapelskotten revitalisieren (ursprüngliche Nr. A-O/0006/2023) - Stellungnahme zur Kenntnis genommen
+- TOP 9.2: Unterstützung für das Stadtfest "Handorfer Herbst" (ursprüngliche Nr. A-O/0006/2025) - Stellungnahme zur Kenntnis genommen
+- TOP 9.3: Sportboxen für die Stadtteile Handorf, Gelmer und Mauritz Ost - Stellungnahme zur Kenntnis genommen
+- TOP 9.4: Verkehrssicherheit auf dem Weg am Spielplatz Hans-Bredow-Weg erhöhen - Stellungnahme zur Kenntnis genommen
+- TOP 9.5: Sicherheit für RadfahrerInnen und FußgängerInnen bei der Querung der Warendorfer Straße - Stellungnahme zur Kenntnis genommen
+- TOP 9.6: Radverkehr ohne Absteigen auf den neuen Brücken am Laerer Landweg und am Pleistermühlenweg - Stellungnahme zur Kenntnis genommen
+- TOP 9.7: Öffnung der neuen Haskenau-Brücke für ReiterInnen - Stellungnahme zur Kenntnis genommen
+- TOP 9.8: Veloroute sicherer machen im Kreuzungsbereich Lauheider Straße - Stellungnahme zur Kenntnis genommen
+- TOP 9.9: Lärmbelästigung durch die Altglascontainer am Hugo-Pottebaum-Platz - Stellungnahme zur Kenntnis genommen
+- TOP 9.10: Untergrund an der Bushaltestelle "Rieselfelder" stadtauswärts befestigen - Stellungnahme zur Kenntnis genommen
+- TOP 9.11: Erhöhung der Verkehrssicherheit Warendorfer Straße/Am Pulverschuppen - Stellungnahme zur Kenntnis genommen
+- TOP 9.12: Raumerweiterung an der Kardinal-von-Galen-Schule Handorf - Stellungnahme zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 11: Verschiedenes
