@@ -1,0 +1,3 @@
+## Teil 3a Gemeinsam finanzierte Dienste
+# § 7a Gemeinsam finanzierte Dienste
+Die nach Maßgabe von Art. 55a BayDiG gemeinsam finanzierten Dienste bestimmen sich nach der Anlage zu dieser Verordnung. Soweit ein gemeinsam finanzierter Dienst abgrenzbare Verwaltungsleistungen enthält, die allein dem Freistaat Bayern zuzuordnen sind, trägt dieser die auf diese abgrenzbaren Verwaltungsleistungen entfallenden Kosten vollständig und eine gemeinsame Finanzierung erfolgt insoweit nicht. Die Auswahl der gemeinsam finanzierten Dienste wird jährlich gemeinsam durch den Freistaat Bayern und die kommunalen Spitzenverbände evaluiert und bei Bedarf angepasst.

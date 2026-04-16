@@ -1,0 +1,8 @@
+– die Bayerische Staatsregierung auf Grund
+– des Art. 57 Abs. 1 Nr. 1, 3, 7, 8, 10 und 11 sowie Abs. 10 des Bayerischen Digitalgesetzes (BayDiG) vom 22. Juli 2022 (GVBl. S. 374, BayRS 206-1-D), das durch Art. 57b des Gesetzes vom 22. Juli 2022 (GVBl. S. 374) geändert worden ist,
+– des Art. 3a Abs. 2 Satz 4 Nr. 4 des Bayerischen Verwaltungsverfahrensgesetzes (BayVwVfG) in der in der Bayerischen Rechtssammlung (BayRS 2010-1-I) veröffentlichten bereinigten Fassung, das zuletzt durch § 3 des Gesetzes vom 23. Dezember 2022 (GVBl. S. 718) geändert worden ist, und
+– des Art. 14 Abs. 1 Satz 2 des Bayerischen Behindertengleichstellungsgesetzes (BayBGG) vom 9. Juli 2003 (GVBl. S. 419, BayRS 805-9-A), das zuletzt durch die §§ 1 und 2 des Gesetzes vom 24. Juli 2020 (GVBl. S. 388) geändert worden ist,
+– das Bayerische Staatministerium für Digitales im Einvernehmen mit der Bayerischen Staatskanzlei auf Grund des Art. 57 Abs. 2 Nr. 2 des Bayerischen Digitalgesetzes (BayDiG) vom 22. Juli 2022 (GVBl. S. 374, BayRS 206-1-D), das durch Art. 57b des Gesetzes vom 22. Juli 2022 (GVBl. S. 374) geändert worden ist,
+– das Bayerische Staatministerium für Digitales im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen und für Heimat auf Grund des Art. 57 Abs. 5 des Bayerischen Digitalgesetzes (BayDiG) vom 22. Juli 2022 (GVBl. S. 374, BayRS 206-1-D), das durch Art. 57b des Gesetzes vom 22. Juli 2022 (GVBl. S. 374) geändert worden ist,
+und
+– das Bayerische Staatministerium für Digitales auf Grund des Art. 57 Abs. 3 Nr. 1 des Bayerischen Digitalgesetzes (BayDiG) vom 22. Juli 2022 (GVBl. S. 374, BayRS 206-1-D), das durch Art. 57b des Gesetzes vom 22. Juli 2022 (GVBl. S. 374) geändert worden ist:
