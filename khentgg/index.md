@@ -26,7 +26,7 @@
 ## Abschnitt 4 Vereinbarungsverfahren
 
 - [§ 9 Vereinbarung auf Bundesebene](0009.md)
-- [§ 10 Vereinbarung auf Landesebene](0010.md)
+- [§ 10 Vereinbarung auf Landesebene, Verordnungsermächtigung](0010.md)
 - [§ 11 Vereinbarung für das einzelne Krankenhaus](0011.md)
 - [§ 12 Vorläufige Vereinbarung](0012.md)
 - [§ 13 Schiedsstelle](0013.md)

@@ -21,7 +21,7 @@
 | Abschnitt 4 |
 |  | Vereinbarungsverfahren |
 | § 9 | Vereinbarung auf Bundesebene |
-| § 10 | Vereinbarung auf Landesebene |
+| § 10 | Vereinbarung auf Landesebene, Verordnungsermächtigung |
 | § 11 | Vereinbarung für das einzelne Krankenhaus |
 | § 12 | Vorläufige Vereinbarung |
 | § 13 | Schiedsstelle |

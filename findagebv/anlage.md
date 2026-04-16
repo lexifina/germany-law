@@ -338,8 +338,8 @@ Inhaltsübersicht
 | 15.1.2.7 | Maßnahmen bei Gefahr, je Maßnahme (§ 42 KAGB) | nach Zeitaufwand |
 | 15.1.2.8 | Befreiung von der jährlichen Prüfung der Einhaltung der Vorschriften des Wertpapierhandelsgesetzes (§ 38 Absatz 4 Satz 5 KAGB; § 51 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB; § 54 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB) | 665 |
 | 15.1.3 | Individuell zurechenbare öffentliche Leistungen in Bezug auf die Verwahrstelle und den Treuhänder |  |
-| 15.1.3.1 | Genehmigung der Auswahl der Verwahrstelle, Genehmigung oder Anordnung des Wechsels einer Verwahrstelle oder Prüfung der Benennung eines Treuhänders (§ 69 Absatz 1 und 2 KAGB; § 87 in Verbindung mit § 69 Absatz 1 und 2 KAGB; § 80 Absatz 4 KAGB; § 100b Absatz 4 KAGB) |  |
-| 15.1.3.1.1 | wenn die Verwahrstelle oder der Treuhänder bereits Gegenstand einer Genehmigung oder Prüfung war | 302 |
+| 15.1.3.1 | Genehmigung der Auswahl der Verwahrstelle, Genehmigung oder Anordnung des Wechsels einer Verwahrstelle oder Prüfung der Benennung eines Treuhänders (§ 69 Absatz 1 und 2 KAGB; § 87 Satz 1 in Verbindung mit § 69 Absatz 1 und 2 KAGB; § 80 Absatz 4 KAGB; § 100b Absatz 4 KAGB) |  |
+| 15.1.3.1.1 | wenn die OGAW-Verwahrstelle bereits Gegenstand einer Genehmigung oder Prüfung war | 302 |
 | 15.1.3.1.2 | wenn die Verwahrstelle oder der Treuhänder noch nicht Gegenstand einer Genehmigung oder Prüfung war | nach Zeitaufwand |
 | 15.1.3.2 | Genehmigung der Errichtung eines Sperrkontos bis zum Zeitpunkt der Beauftragung der neuen Verwahrstelle (§ 69 Absatz 4 KAGB) | nach Zeitaufwand |
 | 15.1.4 | Individuell zurechenbare öffentliche Leistungen in Bezug auf offene inländische Investmentvermögen |  |
