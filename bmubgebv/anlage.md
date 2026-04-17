@@ -40,6 +40,11 @@ zu dem Übereinkommen vom 1. Juni 1972
 zur Erhaltung der antarktischen Robben (RobErhÜbkG)
 Abschnitt 15
 Einwegkunststofffondsgesetz (EWKFondsG)
+Abschnitt 16
+Verordnung zur Anrechnung von strombasierten Kraftstoffen
+und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote (37. BImSchV)
+Abschnitt 17
+Verordnung zur Festlegung weitere Bestimmungen zur Treibhausgasminderung bei Kraftstoffen (38. BImSchV)
 Abschnitt 1
 Chemikaliengesetz (ChemG),
 auch in Verbindung mit der Verordnung (EU) Nr. 528/2012 und der Verordnung (EU) Nr. 649/2012
@@ -323,3 +328,36 @@ Einwegkunststofffondsgesetz (EWKFondsG)
 | 1.8 | Entscheidung über einen Widerspruch gegen sonstige Verwaltungsakte, soweit der Widerspruch erfolglos geblieben ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
 | 1.9 | Zurücknahme oder Erledigung eines Widerspruchs auf sonstige Weise, bevor ein Widerspruchsbescheid erlassen ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
 | 2 | Erlass eines Verwaltungsakts nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
+Abschnitt 16
+Verordnung zur Anrechnung von strombasierten Kraftstoffen
+und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote (37. BImSchV)
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren oder Auslagen in Euro |
+| 1 | Anerkennung von Zertifizierungsstellen |  |
+| 1.1 | Vorläufige Anerkennung einer Zertifizierungsstelle nach § 43 der 37. BImSchV | 1 190,00 – 1 780,00 |
+| 1.2 | Endgültige Anerkennung einer Zertifizierungsstelle nach § 31 Absatz 1 der 37. BImSchV | 2 230,00 – 11 000,00 |
+| 1.3 | Nachträgliche Erteilung von Auflagen bei endgültig anerkannten Zertifizierungsstellen nach § 31 Absatz 3 der 37. BImSchV | Nach Zeitaufwand |
+| 1.4 | Kosten für Dienstreisen |  |
+| 2 | Überwachung von Zertifizierungsstellen |  |
+| 2.1 | Basisbetrag pro Kontrolle einer Zertifizierungsstelle (Office Audit) im Rahmen der Überwachung von Zertifizierungsstellen nach § 42 Absatz 1 der 37. BImSchV | 3 770,00 |
+| 2.2 | Basisbetrag pro Begleitung einer Vor-Ort-Kontrolle einer Zertifizierungsstelle bei einer Schnittstelle oder einem Lieferanten im Rahmen der Kontrolle nach § 38 Absatz 1 Satz 1 der 37. BImSchV, auch im Fall einer Fernbegutachtung (Witness-Audit) | 725,00 |
+| 2.3 | zuzüglich je angefangenem Prüfungstag | 297,00 – 1 190,00 |
+| 2.4 | Kosten für Dienstreisen |  |
+| 3 | Kontrolle von Schnittstellen und Lieferanten |  |
+| 3.1 | Selbstvornahme der Kontrolle einer zertifizierten Schnittstelle oder eines zertifizierten Lieferanten nach § 38 Absatz 1 Satz 2 Nummer 2 der 37. BImSchV | 3 770,00 |
+| 3.2 | zuzüglich je angefangenem Prüfungstag | 297,00 – 1 190,00 |
+| 3.3 | Kosten für Dienstreisen |  |
+| 4 | Nutzung der elektronischen Datenbank nach § 16 Absatz 6 Satz 1 der 37. BImSchV |  |
+| 4.1 | Erstregistrierung (Kosten für die Erstanmeldung sowie Schulung) | 51,85 |
+| 4.2 | Schulung von neu oder zusätzlich in der Datenbank tätigen Personen eines Kontoinhabers (Gebühr je teilnehmende Person) | 63,95 |
+| 4.3 | Jahresgebühr für Schnittstellen nach § 2 Absatz 10 der 37. BImSchV, Lieferanten und Nachweispflichtige nach § 2 Absatz 9 der 37. BImSchV | 900,00 |
+| 4.4 | Jahresgebühr für sonstige Kontoinhaber | 120,00 |
+| 5 | Ausstellung von Nachweisen und Teilnachweisen sowie deren Übertragung |  |
+| 5.1 | Ausstellung eines Nachweises nach § 16 Absatz 1 und 2 der 37. BImSchV | 10,45 |
+| 5.2 | Ausstellung eines Teilnachweises nach § 22 Absatz 1 Satz 1 oder Absatz 2 der 37. BImSchV | 10,30 |
+| 5.3 | Übertragung eines Nachweises nach § 16 Absatz 1 und 2 der 37. BImSchV oder Teilnachweises nach § 22 Absatz 1 Satz 1 oder Absatz 2 der 37. BImSchV | 10,25 |
+| 5.4 | Mengenabhängige Kosten bei jeweils erster Registrierung von erneuerbarem Kraftstoff nicht biogenem Ursprung in der Datenbank, je 120 Megajoule Brennwert | bis 31.12.2027: 0,05 ab 01.01.2028: 0,01 – 0,05 |
+Abschnitt 17
+Verordnung zur Festlegung weiterer Bestimmungen
+zur Treibhausgasminderung bei Kraftstoffen (38. BImSchV)
+| Nummer | Gebührentatbestand | Gebühren in Euro |
+| 1 | Ausstellung einer Bescheinigung über mitgeteilte energetische Mengen elektrischen Stroms nach § 8 Absatz 1 Satz 1, Absatz 2 Satz 1 und 2 der 38. BImSchV | 94,60 – 6 500,00 |
