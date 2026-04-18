@@ -25,6 +25,7 @@
 - [§ 14 Auskunfts- und Vorlegungsersuchen, Prüfungen, Durchsuchungen und Sicherstelllungen](0014.md)
 - [§ 15 Einschreiten gegen unerlaubte Investmentgeschäfte](0015.md)
 - [§ 16 Verfolgung unerlaubter Investmentgeschäfte](0016.md)
+- [§ 16a Verbot von Verbraucherkrediten](0016a.md)
 
 ### Abschnitt 2 Verwaltungsgesellschaften
 
@@ -48,12 +49,15 @@
 - [§ 28 Allgemeine Organisationspflichten; Verordnungsermächtigung](0028.md)
 - [§ 28a Zusätzliche Organisationsanforderungen bei der Verwaltung von Entwicklungsförderungsfonds](0028a.md)
 - [§ 29 Risikomanagement; Verordnungsermächtigung](0029.md)
+- [§ 29a Risikomanagement bei Kreditvergabe durch AIF-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung](0029a.md)
+- [§ 29b Risikomanagement bei Kreditvergabe durch AIF-Kapitalverwaltungsgesellschaften; Einbehalt](0029b.md)
 - [§ 30 Liquiditätsmanagement; Verordnungsermächtigung](0030.md)
+- [§ 30a Auswahl von Liquiditätsmanagementinstrumenten; Verordnungsermächtigung](0030a.md)
 - [§ 31 Primebroker](0031.md)
 - [§ 32 Entschädigungseinrichtung](0032.md)
 - [§ 33 Werbung](0033.md)
 - [§ 34 Anzeigepflichten von Verwaltungsgesellschaften gegenüber der Bundesanstalt und der Bundesbank](0034.md)
-- [§ 35 Meldepflichten von AIF-Verwaltungsgesellschaften](0035.md)
+- [§ 35 Meldepflichten von Verwaltungsgesellschaften](0035.md)
 - [§ 36 Auslagerung; Verordnungsermächtigung](0036.md)
 - [§ 37 Vergütungssysteme; Verordnungsermächtigung](0037.md)
 - [§ 38 Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung](0038.md)
@@ -62,6 +66,10 @@
 
 - [§ 39 Erlöschen und Aufhebung der Erlaubnis](0039.md)
 - [§ 40 Maßnahmen gegen Geschäftsleiter und Aufsichtsorganmitglieder](0040.md)
+- [§ 40a Bestellung eines Sonderbeauftragten](0040a.md)
+- [§ 40b Rechte und Pflichten des Sonderbeauftragten](0040b.md)
+- [§ 40c Mögliche Aufgaben und Befugnisse des Sonderbeauftragten](0040c.md)
+- [§ 40d Haftung des Sonderbeauftragten](0040d.md)
 - [§ 41 Maßnahmen bei unzureichenden Eigenmitteln](0041.md)
 - [§ 42 Maßnahmen bei Gefahr](0042.md)
 - [§ 43 Insolvenzantrag, Unterrichtung der Gläubiger im Insolvenzverfahren](0043.md)
@@ -71,8 +79,8 @@
 - [§ 44 Registrierung und Berichtspflichten](0044.md)
 - [§ 45 Jahresabschluss und Lagebericht von registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften](0045.md)
 - [§ 45a Abschlussprüfung bei registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung](0045a.md)
-- [§ 46 Jahresabschluss und Lagebericht von extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden](0046.md)
-- [§ 47 Abschlussprüfung bei extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden; Verordnungsermächtigung](0047.md)
+- [§ 46 Jahresabschluss und Lagebericht von extern verwalteten kreditvergebenden Spezial-AIF](0046.md)
+- [§ 47 Abschlussprüfung bei extern verwalteten kreditvergebenden Spezial-AIF; Verordnungsermächtigung](0047.md)
 - [§ 48 (weggefallen)](0048.md)
 - [§ 48a (weggefallen)](0048a.md)
 
@@ -127,7 +135,7 @@
 - [§ 83 Kontrollfunktion](0083.md)
 - [§ 84 Zustimmungspflichtige Geschäfte](0084.md)
 - [§ 85 Interessenkollision](0085.md)
-- [§ 86 Informationspflichten gegenüber der Bundesanstalt](0086.md)
+- [§ 86 Informationspflichten gegenüber Aufsichtsbehörden](0086.md)
 - [§ 87 Anwendbare Vorschriften für Publikums-AIF und bestimmte Spezial-AIF](0087.md)
 - [§ 88 Haftung](0088.md)
 - [§ 89 Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung](0089.md)
@@ -149,7 +157,7 @@
 - [§ 95 Anteilscheine; Verordnungsermächtigung](0095.md)
 - [§ 96 Anteilklassen und Teilsondervermögen; Verordnungsermächtigung](0096.md)
 - [§ 97 Sammelverwahrung, Verlust von Anteilscheinen](0097.md)
-- [§ 98 Rücknahme von Anteilen, Aussetzung](0098.md)
+- [§ 98 Ausgabe und Rückgabe von Anteilen; Liquiditätsmanagementinstrumente; Verordnungsermächtigung](0098.md)
 - [§ 99 Kündigung und Verlust des Verwaltungsrechts](0099.md)
 - [§ 100 Abwicklung des Sondervermögens](0100.md)
 - [§ 100a Grunderwerbsteuer bei Übergang eines Immobilien-Sondervermögens](0100a.md)
@@ -412,6 +420,7 @@
 ### Abschnitt 1 Allgemeine Vorschriften für inländische Spezial-AIF
 
 - [§ 273 Anlagebedingungen](0273.md)
+- [§ 273a Kreditvergabe](0273a.md)
 - [§ 274 Begrenzung von Leverage](0274.md)
 - [§ 275 Belastung](0275.md)
 - [§ 276 Leerverkäufe](0276.md)
@@ -475,7 +484,7 @@
 - [§ 294 Auf den Vertrieb und den Erwerb von OGAW anwendbare Vorschriften](0294.md)
 - [§ 295 Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften](0295.md)
 - [§ 295a Widerruf des grenzüberschreitenden Vertriebs im Inland](0295a.md)
-- [§ 295b Informationspflichten nach Widerruf des grenzüberschreitenden Vertriebs im Inland](0295b.md)
+- [§ 295b Pflichten nach Widerruf des grenzüberschreitenden Vertriebs im Inland](0295b.md)
 - [§ 296 Vereinbarungen mit Drittstaaten zur OGAW-Konformität](0296.md)
 
 #### Unterabschnitt 2 Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf Privatanleger und für den Vertrieb und den Erwerb von OGAW
@@ -629,3 +638,4 @@
 - [§ 364 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0364.md)
 - [§ 365 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz](0365.md)
 - [§ 366 Übergangsvorschrift zum Fondsrisikobegrenzungsgesetz](0366.md)
+- [§ 367 Übergangsvorschrift zu den §§ 29a und 30 Absatz 3a](0367.md)
