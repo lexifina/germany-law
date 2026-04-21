@@ -1,0 +1,74 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2026-04-21T18:00:00+02:00
+- Ende: 2026-04-22T01:50:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZS-M14xnejYFIJ7O6zg9hKs
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6334
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdiavlHVRbFXJUVf8XvgPkGVQ-NXZUtIfEHMVRkvwQx/Einladung_Rat_21.04.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRIXy1wGhOcRXWVDmuHIFPsrUwOqqDN70C25f53r5qfK/Oeffentliche_Niederschrift_Rat_21.04.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnendenfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Haushalt 2026/2027: Stellenplan
+- TOP 1.1.: Haushalt 2026/2027: Stellenplan: Ergänzung um VN 1 - 32 Ja-Stimmen, 8 Nein-Stimmen, 3 Enthaltungen
+- TOP 1.1.1.: Antrag der Fraktionen CDU und SPD zum Stellenplan 2026/2027: Streichung des k.W.-Vermerks und Wiedereinplanung der Co-Dezernentenstelle - 32 Ja-Stimmen, 10 Nein-Stimmen, 1 Enthaltung
+- TOP 2.: Übertragung der Leitung des Amtes Ordnungsamt und Einwohnerwesen - Einstimmig, 0 Enthaltungen
+- TOP 3.: Mitteilungen und Anfragen
+- TOP 4.: Unterrichtung der Öffentlichkeit
+- TOP III.: ÖFFENTLICHE SITZUNG
+- TOP 6.: Einbringung des Entwurfs des Jahresabschlusses zum 31.12.2024 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2026/2027 inklusive Haushaltssicherungskonzept
+- TOP 7.1.: Haushaltsreden
+- TOP 7.2.: Einwendungen gegen den Entwurf der Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2026/2027 mit ihren Anlagen
+- TOP 7.3.: Durchführung des Wesselinger Weihnachtsmarktes 2026; hier: Ergänzung zum Konzept Indoor-Adventsbasar sowie Bewertung weiterer Alternativvorschläge - 30 Ja-Stimmen, 2 Nein-Stimmen, 11 Enthaltungen
+- TOP 7.4.: Haushalt 2026/2027: Stellenplan
+- TOP 7.4.1.: Haushalt 2026/2027: Stellenplan: Ergänzung um VN 1 - 31 Ja-Stimmen, 8 Nein-Stimmen, 3 Enthaltungen
+- TOP 7.5.: 2. Veränderungsnachweis und Feststellung der Budgets
+- TOP 7.5.1.: Änderungsantrag der AfD-Fraktion zum Haushaltsentwurf 2026/2027: Kosteneinsparungen im Bereich IT
+- TOP 7.5.2.: Änderungsantrag der Fraktion Die Linke zum Haushaltsentwurf 2026/2027: Beförderungsscheine Schwerbehinderte
+- TOP 7.5.3.: Antrag der Fraktionen CDU und SPD: Änderungen zur Haushaltssatzung 2026/2027
+- TOP 7.5.4.: Änderungsanträge und Anfragen der Fraktion B90/Die Grünen: Änderungen zur Haushaltssatzung 2026/2027
+- TOP 7.5.4.1: Änderungsanträge und Anfragen der Fraktion B90/Die Grünen: Änderungen zur Haushaltssatzung 2026/2027, hier: Stellungnahme der Verwaltung - Herr Bürgermeister Manzke erläutert, dass die Kämmerin nunmehr die - durch die zuvor gefassten Beschlüsse - geänderten Haushaltsansätze neu berechnen müsse. Er schlägt daher vor, zunächst mit den Tagesordnungspunkten 8 bis 24.4.1 fortzufahren und anschlie
+- TOP 7.6.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für die Wirtschaftsjahre 2026 und 2027 - 26 Ja-Stimmen, 6 Nein-Stimmen, 5 Enthaltungen
+- TOP 7.7.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für die Wirtschaftsjahre 2026 und 2027 - 26 Ja-Stimmen, 6 Nein-Stimmen, 5 Enthaltungen
+- TOP 7.8.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für die Wirtschaftsjahre 2026 und 2027 - 26 Ja-Stimmen, 6 Nein-Stimmen, 5 Enthaltungen
+- TOP 7.9.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für die Wirtschaftsjahre 2026 und 2027 - 26 Ja-Stimmen, 6 Nein-Stimmen, 5 Enthaltungen
+- TOP 7.10.: Leitentscheidungen
+- TOP 7.11.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2026/2027 inklusive Haushaltssicherungskonzept
+- TOP 8.: Kindertageseinrichtungen der Stadt Wesseling; Feststellung des Jahresabschlusses 2020, Behandlung des Jahresergebnisses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2020, Behandlung des Jahresergebnisses - Einstimmig, 0 Enthaltungen
+- TOP 10.: Sportstätten der Stadt Wesseling; Feststellung des Jahresabschlusses 2020, Behandlung des Jahresergebnisses - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2020, Behandlung des Jahresergebnisses - Einstimmig 0 Enthaltungen
+- TOP 12.: Einlage von Anlagevermögen in das Sondervermögen Kindertageseinrichtungen - Einstimmig, 0 Enthaltungen
+- TOP 13.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zur Änderung des Gesellschaftsvertrages der Stadtwerke Wesseling GmbH - 30 Ja-Stimmen, 8 Nein-Stimmen, 0 Enthaltungen
+- TOP 13.1.: Änderungsantrag der Fraktionen B90/Die Grünen, Die Linke und FDP: Änderung des Gesellschaftsvertrags der Stadtwerke Wesseling GmbH
+- TOP 14.: 4. Änderungssatzung zur Satzung der Stadt Wesseling über die Erhebung von Verwaltungsgebühren - Verwaltungsgebührensatzung - vom 22. November 1996 und deren Anlage - Einstimmig, 0 Enthaltungen
+- TOP 15.: Satzung für das Jugendamt - Einstimmig, 0 Enthaltungen
+- TOP 16.: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - Einstimmig, 0 Enthaltungen
+- TOP 17.: Schulentwicklungsplanung für die Grundschulen und die weiterführenden Schulen für die kommenden Schuljahre Vorstellung durch das Planungsbüro Gebit Münster GmbH & Co.KG - Einstimmig, 0 Enthaltungen
+- TOP 18.: Heimatpreis der Stadt Wesseling - Abstimmung Teilbeschlüsse 1-3: Einstimmig, 0 EnthaltungenAbstimmung Teilbeschluss 4: 23 Ja-Stimmen, 15 Nein-Stimmen, 0 Enthaltungen
+- TOP 19.: Richtlinie zum kommunalen Baulandmanagement in Wesseling hier: Aussetzen der Anwendung - 32 Ja-Stimmen, 3 Nein-Stimmen, 3 EnthaltungenDie Abstimmung über den Antrag der Fraktion B90/Die Grünen hat sich somit erledigt.
+- TOP 20.: Grundsatzbeschluss "Bauturbo" und Erweiterung § 8 der Zuständigkeitsordnung der Stadt Wesseling - 32 Ja-Stimmen, 5 Nein-Stimmen, 1 Enthaltung
+- TOP 21.: Geschäftsordnung der Seniorenvertretung
+- TOP 22.: Mitwirkung der Seniorenvertretung in den Ausschüssen der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 23.: Antrag der Fraktion Die Linke: Kommunale Selbstverwaltung verteidigen - Konnexitätsprinzip einhalten - 30 Ja-Stimmen, 8 Nein-Stimmen, 0 Enthaltungen
+- TOP 24.: Mitteilungen und Anfragen
+- TOP 24.1.: Bundesförderprogramm „Sanierung kommunaler Sportstätten“ hier: Projektaufruf 2026 – Schwimmbäder
+- TOP 24.2.: Anfrage der Fraktion B90/Die Grünen: Igel vor Mährobotern schützen - Fahrzeiten regulieren
+- TOP 24.2.1.: Anfrage der Fraktion B90/Die Grünen: Igel vor Mährobotern schützen - Fahrzeiten regulieren, hier: Stellungnahme der Verwaltung
+- TOP 24.3.: Anfrage der Fraktion B90/Die Grünen: Breitbandausbau in Wesseling-Keldenich
+- TOP 24.3.1.: Anfrage der Fraktion B90/Die Grünen: Breitbandausbau in Wesseling-Keldenich, hier: Stellungnahme der Verwaltung
+- TOP 24.4.: Anfrage der FDP-Fraktion: Auswirkungen des Inkrafttretens des NpSG auf die Ordnungsbehördliche Verordnung
+- TOP 24.4.1.: Anfrage der FDP-Fraktion: Auswirkungen des Inkrafttretens des NpSG auf die Ordnungsbehördliche Verordnung hier: Stellungnahme der Verwaltung - Im Anschluss wird die Sitzung von 1:03 Uhr bis 1:28 Uhr unterbrochen und hiernach mit der Beratung und Beschlussfassung zu den Tagesordnungspunkten 7.6 bis 7.11 fortgesetzt.
