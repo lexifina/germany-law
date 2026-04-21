@@ -1,0 +1,174 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2026-04-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9296789
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9296789
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Transparenz, Anwendung der Erhaltungssatzung und denkmalrechtliche Prüfung beim Bauvorhaben Schleißheimer Str. 75
+- TOP 6.2.: Jahrelanger Leerstand Mehrfamilienhaus Theresienstr. 150 endlich beenden
+- TOP 6.3.: Kinder- und Jugendversammlung: Sichere Querungen an Baustellenausfahrten
+- TOP 6.4.: Private Gelder im öffentlichen Raum
+- TOP 6.5.: Mehr Tempo 30 Maxvorstadt
+- TOP 6.6.: Denkmalschutz Schleißheimer Straße 75 prüfen Antwortschreiben des Bayerischen Landesamts für Denkmalpflege, vgl. BA-Antrag Nr. 20-26 / B 08472
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Beschwerde über tägliche Lärmbelästigung der Anlage Barerstr. 32-34
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag CSU vom 07.04.2026 Mietwucher im Erhaltungssatzungsgebiet entgegenwirken – WG-Zimmer Heßstr. 49
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten KW09, KW10, KW11, KW12, KW13
+- TOP 2.1.2.: WEB-Listen 16.02.-28.02.2026, 16.03. - 31.03.2026
+- TOP 2.1.3.: Amalienstr. 33, Generalsanierung und Erweiterung eines Bestandsgebäudes mit Großgarage - ÄNDERUNGSANTRAG zu 1.1-2021-24304-22
+- TOP 2.1.4.: Karlstraße 1, Umnutzung von zwei Büroeinheiten in zwei Wohnungen Flurstück 5647
+- TOP 2.1.5.: Nymphenburger Str. 17, Aufstockung des best. Rückgebäudes entsprechend der Darstellung in den beigefügten Plänen – VORBESCHEID
+- TOP 2.1.6.: Ottostraße 9, Neubau eines Wohn- und Geschäftsgebäudes mit Tiefgarage
+- TOP 2.1.7.: Rambergstraße 8, Sanierung und Änderung der Dachkonstruktion DG2, Umbau und Erweiterung DG-Wohnung (DG1+DG2), Anbindung DG2 an Treppenhaus und energetische Sanierung Dach (DG1+DG2)
+- TOP 2.1.8.: Isabellastraße 8, Nutzungsänderung von Lagerflächen in Büroflächen)
+- TOP 2.1.9.: Gabelsbergerstraße 28, ÄNDERUNGSANTRAG zu 1.1-2024-22893-22 - Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit Tiefgarage
+- TOP 2.1.10.: Enhuberstraße 4, Neubau eines Rückgebäudes mit Tiefgarage sowie Anbau und Aufstockung des Bestandsgebäudes - VORBESCHEID – GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.1.11.: Denisstraße 1, ÄNDERUNGSANTRAG zu 1.1-2024-21564-22 hier: 1 Obergeschoss: Änderung des Grundrisses, Zusammenlegung der 2 Mieteinheiten in 1 Mieteinheit, 2 Obergeschoss: Änderung des Grundrisses, Zusammenlegung der 2 Mieteinheiten in 1 Mieteinheit, 3 Obergeschosses: Änderung des Grundrisses, Teilung der Mietfläche in 3 Mieteinheiten)
+- TOP 2.1.12.: Enhuberstraße 4, Neubau eines Mehrfamilienhauses mit Mobilitätskonzept – VORBESCHEID
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Ludwigstr. 2 l 28.04.2026
+- TOP 3.2.2.: Schellingstr. 22 l 28.04.2026
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP 5.2.: (Sektoraler) Bebauungsplan Nr. 2199 Arcisstraße (westlich, Heßstraße (nördlich), Luisenstraße (östlich), Schellingstraße (südlich) - Satzungsbeschluss - Stadtbezirk 03 - Maxvorstadt
+- TOP 5.3.: Justizzentrum erhalten: Stadt stellt geförderten Wohnraum und soziokulturelle Nutzung im Bestand sicher
+- TOP 5.4.: Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP 5.5.: PERSPEKTIVE MÜNCHEN Fortschreibung des Innenstadtkonzeptes als integriertes Handlungsraumkonzept Münchner Innenstadt StR-Antrag und Bürgerversammlungsempfehlungen
+- TOP 5.6.: Barer Straße, Nutzungsänderung Lebensmittelgeschäft in Bar/Cafe
+- TOP 5.7.: Verwendungsnachweis Green City
+- TOP 5.8.: Nutzungsmischung bei der Schaffung von Gewerbebaurecht; Auftrag „Gewerbe-SoBoN“ A) Stadtplanerischer Ansatz und städtebauliche Verträge bei der Schaffung gewerblichen Baurechts B) Anträge
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Restrukturierung Nymphenburgerstraße
+- TOP 1.1.2.: Asphaltierung des Fußgänger- und Radwegs am Königsplatz zwischen Luisenstraße und Arcisstraße
+- TOP 1.1.3.: Ampelschaltung Maßmannstrasse
+- TOP 1.1.4.: Barrierefreiheit in der Schellingstraße
+- TOP 1.1.5.: Beschwerde und Antrag auf unverzügliches ordnungsrechtliches Einschreiten; Unzulässige Gehwegblockierung durch Außengastronomie - Gefährdung des Fußgängerverkehrs - Über-prüfung der Sondernutzung und der gaststättenrechtlichen Situation
+- TOP 1.1.6.: Beschwerde und Antrag auf unverzügliches ordnungsrechtliches Einschreiten; Unzulässige Gehwegblockierung durch Außengastronomie - Gefährdung des Fußgängerverkehrs - Überprüfung der Sondernutzung und der gaststättenrechtlichen Situation- Ergänzung zu C 1.1.5
+- TOP 1.1.7.: Stellplätze Amalienstraße / Theresienstraße
+- TOP 1.1.8.: Sperrung Durchfahrt Ottostraße Karlstraße
+- TOP 1.1.9.: Antrag auf Fahrradstellplätze vor der Nordendstr. 7
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) Antrag zur Verkehrsberuhigung Türkenstraße Nord/ Georgenstraße
+- TOP 2.1.2.: Neues Radverkehrsnetz für München; Stadtbezirksübergreifende Radverkehrsverbindungen (Anhörung zum Beschlussentwurf) l Frist: 05.05.2026
+- TOP 2.1.3.: (E) Erhöhung der Anzahl der reinen Anwohnerparkplätze in den Parklizenzgebieten Pinakotheken und Akademieviertel
+- TOP 2.1.4.: (E) Fahrradabstellung Nordendstraße
+- TOP 2.1.5.: (E) Einrichtung einer neuen Tempo 30 Zone in der Theresienstraße zwischen Amalienstraße und Türkenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung- Bez. 3- Geschwister-Scholl-Platz, Wimbledon Public Viewing vom 06.07.-12.07.2026 - Anhörung bis zum 24.04.2026
+- TOP 2.4.2.: Anhörung | Bez. 3, „ Petanque Turnier“ im Arnulfpark (Helmholzstr. 15) am 14.06.2026 | Frist: 21.04.2026
+- TOP 2.4.3.: Bez. 3, Wittelsbacherplatz, Odeonsplatz und Umgriff | Anhörungsverfahren VA auf öff. Verkehrsgrund: "Roadshow - 80 Jahre Bay. Polizei" am 18.07.2026 (Aufbau ab 17.07., Abbau bis 19.07.2026) | Anhörungsfrist: 06.05.2026
+- TOP 2.4.4.: Bez. 3, Neptunbrunnen | Anhörung für "Kult(ur)Biergarten Neptunbrunnen" vom 09.06. - 30.08.2026 | Frist: 30.04.2026
+- TOP 2.4.5.: Anhörung (Bez. 1, 3, 4, 5, 7, 8, 9, 14, 17, 18, 23) für SoNu, hier "Fahrradsicherheitscheck" und „Mobile Fahrradwerkstatt“ ab 06.06.2026 | Frist: 12.05.2026
+- TOP 2.4.6.: Anhörung (Bez. 3) Open-Air-Konzert mit „Solomun“ am 30.05.2026 auf dem Königsplatz | Frist 30.04.2026
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Baumaßnahmen- SWM und andere
+- TOP 3.3.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.4.: Unveränderte Gaststättenfortführungen
+- TOP 3.5.: Verkehrsrechtliche Anordnungen
+- TOP 3.6.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.7.: Eilentscheide Veranstaltungen
+- TOP 3.8.: Antworten MOR zu Bürger*innenanliegen Sicherung des Fußgängerüberwegs Nymphenbur-ger Straße / Adamstraße
+- TOP 3.9.: OB-Entscheidung - Fahrradständer in der Dachauer Str. 44
+- TOP 3.10.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BIm-Sch
+- TOP 3.11.: Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.12.: Verwendungsnachweis Parklet
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Lebensbilder Münchner Schulen" Lebensbilder Münchner Schulen, HIER: Die Amalienschule (Maxvorstadt) vom 03.01. - 31.12.2026 696,00 Euro, Az.: 0262.100-3-0649
+- TOP 2.2.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. Spielstadt Mini-München vom 03. - 21.08.2026 4.590,00 Euro, Az.: 0262.100-3-0657
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "Ciné Vélo Cité" Ciné Vélo Cité @Dok.Fest: Trickfilm Workshop für Kids und Teens 3.100,00 Euro, Az.: 0262.100-3-0660
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Bildungsbauoffensive – Maßnahmenbeschluss 2025; Ergebnisse gemäß Auftrag aus dem Beschluss zum Interfraktionellen Arbeitskreis Schul- und Kitabau und zur investiven Konsolidierung im Bildungsbau
+- TOP 4.2.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget MUCA Foundation KULAB -der Nachwuchs-Kunstmarkt vom 07. -08.11.2026 2.506,00 Euro, Az.: 0262.100-3-0650
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "ArtSchnitzel Festival" ArtSchnitzel Festival 2026 - Die Kunst ist im Weg vom 20.06. - 30.06.2026 3.000,00 Euro, Az.: 0262.100-3-0658
+- TOP 2.3.: (E) Stadtbezirksbudget AlmResidency e.V. AlmResicency Ausstellung "after the map was drawn" vom 15. - 30.05.2026 2.700,00 Euro, Az.: 0262.100-3-0661
+- TOP 2.4.: (E) Stadtbezirksbudget GEDOK München e.V. Kol/labor/atorium vom 13. - 20.10.2026 4.410,00 Euro, Az.: 0262.100-3-0655
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Aktiv und Bunt für München" Unsere Stadt, unsere Stimmen - Migrantische Perspektiven für den Koalitionsvertrag am 17.04.2026 1.095,10 Euro, Az.: 0262.100-3-0662
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative "Maria & Elisabeth" Maria & Elisabeth - Orgelkonzert mit Gesang und Tanz - Abendvorstellung am 17.07.2026 2.688,00 Euro, Az.: 0262.100-3-0666
+- TOP 2.7.: (E) Stadtbezirksbudget Initiative "Maria & Elisabeth" Maria & Elisabeth - Orgelkonzert mit Gesang und Tanz für Schüler*innen am 20.07.2026 2.514,00 Euro, Az.: 0262.100-3-0667
+- TOP 2.8.: (E) Stadtbezirksbudget Internationale Stiftung zur Förderung von Kultur und Zivilisation Musik auf Rädern am 07.07.2026 3.000,00 Euro, Az.: 0262.100-3-0668
+- TOP 2.9.: (E) Stadtbezirksbudget Park Café München GmbH Neptunbrunnen vom 02.06. - 23.08.2026 3.800,00€; Az. 0262.100-3-0669
+- TOP 2.10.: (E) Stadtbezirksbudget Stella Bildung Bewegt e.V. Lets move the kids am 04.07. und 18.07.2026 1.027,50 Euro, Az.: 0262.100-3-0659
+- TOP 2.11.: (E) Stadtbezirksbudget Studentischer Verein zur Förderung von Erinnerungskultur e.V. Studentischer Stadtführer im Kurzvideoformat für SocialMedia vom 30.04. - 17.07.2026 1.738,87 Euro, Az.: 0262.100-3-0663
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Wiederholte Vorfälle im „Import Export“ – erneute Eskalation und ausbleibende Konsequenzen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: KI-Unterstützung für die BA-Arbeit – Datenschutzkonform und freiwillig
+- TOP 1.2.: Stadtbezirksbudget I. Quartal 2026 Übersicht BA 03
+- TOP 1.3.: Informationen zum GeoPortal für BA-V
+- TOP 1.4.: Fortschreibung des Mehrjahresinvestitionsprogramms die Jahre 2026 bis 2030 (Anhörungsverfahren) | verlängerte Frist: 24.04.2026
+- TOP 1.5.: Mehrjahresinvestitionsprogramm 2025 bis 2029
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.1.10.: Entfernen der Spaß-Fahrräder vom Mobilitätspunkt vor Gebäude Tengstr. 3
+- TOP 2.3.1.: Augustenstr. 21: Antrag auf Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Adalbertstr. 23: Antrag auf Genehmigung einer Freischankfläche auf Parkständen („Schanigarten“)
+- TOP 2.3.3.: Adalbertstr. 23: Antrag auf Genehmigung einer Freischankfläche
+- TOP 2.4.7.: Verkehrszeichenplan: Bez. 3, Wittelsbacherplatz, Odeonsplatz und Umgriff | Anhörungsverfahren VA auf öff. Verkehrsgrund: "Roadshow - 80 Jahre Bay. Polizei" am 18.07.2026 (Aufbau ab 17.07., Abbau bis 19.07.2026) | Anhörungsfrist: 06.05.2026 – Ergänzung zu TOP C 2.4.3
+- TOP 2.4.8.: Bez. 03, Wittelsbacherplatz | Anhörung Marktveranstaltung öff. Grund "Hamburger Fischmarkt" am 14.05. - 25.05.2026 | Anhörungsfrist: 30.04.2026
+- TOP 3.13.: OB-Entscheidung - Freischankfläche in der Dachauer Str. 25
+- TOP 1.1.2.: Konstante Lärmbelästigung durch Auto-Alarmanlagen
+- TOP 3.2.3.: Amalienstr. 9b | 28.04.2026
+- TOP 1.1.11.: Fahrradstellplätze an der TU München Ecke Luisenstr./ Gabelsbergerstr.
+- TOP 2.1.6.: Eingeschränktes Haltverbot zur Sicherstellung der Leerung der Wertstoffcontainer in der Zieblandstraße (Anhörung zur verkehrsrechtlichen Anordnung) | Frist: 25.05.2026
+- TOP 5.9.: Keine börsennotierten Energieverträge Keine börsengekoppelten Energieverträge
+- TOP 1.1.12.: Scooter- und Sharing-Parkplätze Theresienstr. Ecke Amalienstr.
+- TOP 2.1.7.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Arnulf-/ Marsstr.
+- TOP 6.7.: Prüfen Möbliertes Wohnen auf Zeit
+- TOP 6.8.: Heizung im Bürgerbüro modernisieren
+- TOP 6.9.: Maßnahmen der Landeshauptstadt München zur Kontrolle und Eindämmung von möbliertem Wohnen in der Maxvorstadt
+- TOP 2.1.8.: Einhuberstraße 1.Behindertenparkplatz
+- TOP 2.2.1.: Kulturstrand auf dem Prof. Huber Platz
