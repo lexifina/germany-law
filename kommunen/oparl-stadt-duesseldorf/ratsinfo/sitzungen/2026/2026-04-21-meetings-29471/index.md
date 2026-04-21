@@ -1,0 +1,72 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-04-21T17:00:00+02:00
+- Ende: 2026-04-21T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29471
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29471
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00583754.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00583754.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00583754.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Mündliche Berichte
+- TOP 4.1: Kinderkonferenz Oberbilk (mdl. Bericht der Verwaltung) - zur Kenntnis genommen
+- TOP 4.2: Ersatzneubau Rheinbrücke Flehe (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Abbruchantrag, Linienstraße 36, 38 – Antrag auf Abbruch eines Mehrfamilienhauses - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: B-Plan Nr. 03/046 Entwicklung Umfeld Bilker Bahnhof - Empfehlung abweichend beschlossen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Wohngebiet zwischen Völklinger Straße und Erasmusstraße – Einrichtung von drei Bewohnerparkgebieten (BS, AC, VS) - Empfehlung einstimmig beschlossen
+- TOP 6.2: Errichtung von Düsselbike-Stationen im Stadtbezirk 3 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 6.3: Burghofstraße - Errichtung der Mobilitätsstation Bilk S im Kontext zur Förderrichtlinie Nachhaltige Städtische Mobilität - zur Kenntnis genommen
+- TOP 6.4: Errichtung von Sharingstationen im Stadtbezirk 3 - Lückenschluss Friedrichstadt und Oberbilk - zur Kenntnis genommen
+- TOP 6.5: Aachener Straße / Volmerswerther Straße – Optimierung Straßenraum zur Schulwegsicherung sowie Optimierung ÖPNV-Streckenmarkierung - zur Kenntnis genommen
+- TOP 6.6: Hinter der Böck - Einrichtung von baulichen Parkständen und Anlegen eines Gehweges im Zuge des Bauvorhabens Haus-Nr. 8 - einstimmig beschlossen
+- TOP 6.7: Maßnahme Einrichtung einer Fahrradstraße auf der Himmelgeister Landstraße im Bereich der Zufahrt zur Himmelgeister Landstraße 1 (Wasserwerk Flehe) - abweichend beschlossen
+- TOP 6.8: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 6.9: Angebotsausweitung Linien 708 und 709 - Empfehlung einstimmig beschlossen
+- TOP 6.10: Vereinssportanlage Fährstraße/Völklinger Straße Umbau Tennenspielfeld in Kunstrasen - Empfehlung einstimmig beschlossen
+- TOP 6.11: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - Haushalt 2026 Liste A Schulen - abweichend beschlossen
+- TOP 7.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Nutzungsperspektive des Musikpavillons im Stadtbezirk 3 (Anfrage Hr. Pennekamp FDP) - zur Kenntnis genommen
+- TOP 8.1.2: Schließung der Papierfabrik in Bilk – Begleitung des Gesamtprozesses (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Abbau des letzten frei zugänglichen Briefkastens auf der Friedrichstraße – Verschlechterung der Nahversorgung im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.2: PFAS-Belastung im Stadtbezirk 3, inklusive des Hafengebietes (Anfrage AfD) - vertagt
+- TOP 8.2.3: Qualitäts- und Gestalt verbessernde Maßnahmen am Bertha-von-Suttner-Platz (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.4: Ableitung des LKW-Verkehrs aus Flehe / Volmerswerth / Bilk-SW (Anfrage Dr. Graeßner - Bezirksbürgermeister) - vertagt
+- TOP 8.2.5: Anpassung der Bewirtschaftungszeiten im Bewohnerparkgebiet Unterbilk-Ost (Anfrage Dr. Graeßner - Bezirksbürgermeister) - zur Kenntnis genommen
+- TOP 8.2.6: Städtische Brunnen sollen laufen (Anfrage SPD/Volt-Fraktion) - vertagt
+- TOP 8.2.7: Umbau des ehemaligen Post/Telekomgebäude Kruppstraße 51 (Anfrage DIE LINKE-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.8: Neubau des Gebäude Kölner Straße 241 (Woolworth am Oberbilker Markt) (Anfrage DIE LINKE-Fraktion) - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 9.1: Parken an E Ladeinfrastruktur zwischen 22:00 und 07:00 Uhr (Antrag Hr. Pennekamp FDP) - abweichend beschlossen
+- TOP 9.2: Ausstattung mit Sitzgelegenheiten an der Bushaltestelle (Linie 723) Aderkirchweg (Antrag Fr. Eichenauer CDU) - einstimmig beschlossen
+- TOP 9.3: Zügige Neuvermietung von Kurhaus und Bootshaus im Volksgarten (Antrag BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.4: Sanierung 3x3-Sportfeld im Sonnenpark und Einrichtung Jugendtreffpunkt (Antrag BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.5: Anordnung einer zulässigen Höchstgeschwindigkeit von 30 km/h in der Friedrichstraße (Antrag BÜNDNIS 90/DIE GRÜNEN) - mehrheitlich beschlossen
+- TOP 9.6: Entfernung von Graffiti an einem öffentlichen Gebäude (Antrag AfD) - zurückgezogen
+- TOP 9.7: Aufstellen einer mobilen Geschwindigkeitsanzeigetafel an der Suitbertusstraße (Antrag SPD/Volt-Fraktion) - mehrheitlich beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Ausbau Querung Volmerswerther Str./Südring für Radfahrende - zur Kenntnis genommen
+- TOP 10.2: Einrichtung eines Bewohnerparkgebietes entlang der Siegburger Str./Oberbilk Südost - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
