@@ -1,0 +1,95 @@
+---
+ecli: "ECLI:DE:BGH:2026:210426UIIZR50.25.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "II ZR 50/25"
+decided: "2026-04-21"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE300112026.xml"
+neuris_doknr: "KORE300112026"
+---
+
+# Bundesgerichtshof, II ZR 50/25 vom 2026-04-21
+
+## Leitsatz
+
+Ein Interesse an der Feststellung der materiell-rechtlichen Gesellschafterstellung gegenüber einer Gesellschaft mit beschränkter Haftung entfällt grundsätzlich nicht dadurch, dass der Gesellschafter in der in das Handelsregister aufgenommenen Gesellschafterliste eingetragen ist.18
+
+## Tenor
+
+Die Revision der Beklagten gegen das Urteil des 12. Zivilsenats des Kammergerichts vom 27. März 2025 wird auf ihre Kosten zurückgewiesen.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Alleingesellschafterin der Beklagten, einer GmbH, war bis 2022 die A. Unternehmensbeteiligungs- und Verwaltungsgesellschaft mbH (im Folgenden: A. GmbH). Die A. GmbH schloss mit der Klägerin gemäß notarieller Urkunde vom 29. Juni 2022 einen Kauf- und Abtretungsvertrag über 75 % der Gesellschaftsanteile an der Beklagten, dessen Wirksamkeit zwischen den Parteien streitig ist.
+
+2 Die auf der Grundlage dieses Vertrags erstellte neue Gesellschafterliste, welche die Beteiligung der Klägerin an der Beklagten mit 75 % auswies, wurde am 1. Juli 2022 zum Handelsregister eingereicht und in das Handelsregister aufgenommen.
+
+3 Unter dem 8. Februar 2023 wurde zum Handelsregister eine Gesellschafterliste vom 10. Januar 2023 eingereicht, die die A. GmbH als Alleingesellschafterin der Beklagten auswies.
+
+4 Am 13. Februar 2023 wurde eine Gesellschafterliste vom 13. Januar 2023 zum Handelsregister eingereicht, wonach die D. GmbH neue Alleingesellschafterin der Beklagten war.
+
+5 Die Klägerin begehrt unter anderem die Feststellung, dass sie an der Beklagten zu 75 % beteiligte Gesellschafterin und die Gesellschafterliste entsprechend dieser Feststellung beim zuständigen Handelsregister zu korrigieren ist.
+
+6 Das Landgericht hat der Klage auch insoweit am 17. Mai 2024 stattgegeben.
+
+7 Am 19. Juni 2024 ist eine Gesellschafterliste durch einen Notar zum Handelsregister eingereicht und in das Handelsregister aufgenommen worden, die die Klägerin als zu 75 % an der Beklagten beteiligte Gesellschafterin ausweist.
+
+8 Das Berufungsgericht hat die Berufung der Beklagten mit Versäumnisurteil insgesamt zurückgewiesen. Auf den Einspruch der Beklagten hat das Berufungsgericht das Versäumnisurteil aufrechterhalten, soweit die Berufung der Beklagten gegen das landgerichtliche Urteil in Bezug auf die Feststellung zurückgewiesen worden ist, dass die Klägerin als Gesellschafterin zu 75 % an der Beklagten beteiligt ist. Im Übrigen hat es das Versäumnisurteil aufgehoben und die Klage unter Abänderung des landgerichtlichen Urteils abgewiesen.
+
+9 Mit der vom Senat zugelassenen Revision verfolgt die Beklagte ihren Antrag auf vollständige Abweisung der Klage weiter.
+
+## Entscheidungsgründe
+
+10 Die Revision der Beklagten hat keinen Erfolg.
+
+11 Die Klägerin war im Verhandlungstermin vor dem Senat nicht vertreten. Gleichwohl ist über die Revision der Beklagten nicht durch Versäumnisurteil, sondern durch Endurteil (unechtes Versäumnisurteil) zu entscheiden, da sie sich auf der Grundlage des von dem Berufungsgericht festgestellten Sachverhalts als unbegründet erweist (vgl. BGH, Urteil vom 23. Januar 2026 - V ZR 91/25, NZM 2026, 318 Rn. 6; Urteil vom 23. Februar 2021 - II ZR 48/20, NZG 2021, 737 Rn. 6; jeweils mwN).
+
+12 I. Das Berufungsgericht (KG, NZG 2026, 320) hat seine Entscheidung im Wesentlichen wie folgt begründet:
+
+13 Das Landgericht habe zu Recht festgestellt, dass die Klägerin als Gesellschafterin zu 75 % an der Beklagten beteiligt sei. Die Klage sei als Feststellungsklage zulässig, insbesondere habe die Klägerin ein Feststellungsinteresse. Die Parteien stritten nicht nur über die Frage, ob die Beklagte verpflichtet gewesen sei, eine geänderte Gesellschafterliste einzureichen, was auch im Verlauf des Rechtsstreits erfolgt sei. Die Klägerin begehre vielmehr die darüberhinausgehende Feststellung, dass sie ihre Gesellschafterstellung nicht verloren habe, sondern aufgrund des wirksamen notariellen Vertrags vom 29. Juni 2022 weiterhin Gesellschafterin der Beklagten sei. Mit dieser Feststellung solle verhindert werden, dass die Beklagte in Zukunft erneut zu Unrecht veranlasse, die Gesellschafterstellung der Klägerin durch Einreichung einer abweichenden Gesellschafterliste zu korrigieren, soweit ihre Mitgesellschafterin A. GmbH weiterhin die Auffassung vertreten sollte, sie könne sich über den notariellen Kauf- und Abtretungsvertrag vom 29. Juni 2022 hinwegsetzen. Der betroffene Gesellschafter habe ein Interesse daran, seine Gesellschafterstellung umfassend gerichtlich klären zu lassen, wenn die Gesellschaft bereits durch Einreichung einer unrichtigen Gesellschafterliste zum Ausdruck gebracht habe, ihn nicht (mehr) als Gesellschafter anzuerkennen. Die formelle Legitimationswirkung der Gesellschafterliste gemäß § 16 Abs. 1 Satz 1 GmbHG stehe unter dem Vorbehalt von Treu und Glauben; die Gesellschaft könne sich nicht auf diese Wirkung berufen, wenn sie durch unredliches Verhalten die Aufnahme der unzutreffenden Gesellschafterliste herbeigeführt habe. Dementsprechend stehe dem Gesellschafter das Recht zu, durch Feststellungsklage seine Gesellschafterstellung klären zu lassen, um der Legitimationswirkung einer zukünftig möglicherweise nochmals zu seinen Lasten geänderten Liste entgegenzutreten. Die Klägerin sei auch nicht verpflichtet gewesen, zunächst einen Rechtsstreit mit der Anteilsverkäuferin darüber zu führen, ob sie den Gesellschaftsanteil von 75% an der Beklagten durch den notariellen Kaufvertrag vom 29. Juni 2022 wirksam erworben habe. Dies würde sie nicht hinreichend schützen, da der Geschäftsführer einer GmbH auch gegen den ausdrücklichen Widerspruch des bislang eingetragenen Gesellschafters berechtigt sei, eine korrigierte Gesellschafterliste beim Handelsregister einzureichen.
+
+14 Die Klage sei auch begründet. Einer Zustimmung der Beklagten zum Kauf- und Abtretungsvertrag habe es nach ihrer damaligen Satzung nicht bedurft, jedenfalls sei diese erfolgt. Dass ein Gesellschafterbeschluss der A. GmbH gefehlt habe, sei nicht zu erkennen. Der notarielle Vertrag vom 29. Juni 2022 sei schließlich weder sittenwidrig gemäß § 138 BGB noch sonst unwirksam.
+
+15 II. Das Berufungsurteil hält der revisionsrechtlichen Nachprüfung stand.
+
+16 1. Die Feststellungsklage der Klägerin ist zulässig.
+
+17 a) Der Klageantrag ist hinreichend bestimmt, § 253 Abs. 2 Nr. 2 ZPO. Ein Klageantrag ist grundsätzlich hinreichend bestimmt, wenn er den erhobenen Anspruch konkret bezeichnet und dadurch den Rahmen der gerichtlichen Entscheidungsbefugnis (§ 308 ZPO) absteckt (st. Rspr., BGH, Urteil vom 21. November 2017 - II ZR 180/15, ZIP 2018, 419 Rn. 8 mwN). Dies ist bei dem Antrag der Klägerin festzustellen, dass sie als Gesellschafterin zu 75 % an der Beklagten beteiligt ist, der Fall. Entgegen der Ansicht der Revision begehrt die Klägerin nicht die Zuweisung bestimmter Geschäftsanteile.
+
+18 b) Das Berufungsgericht hat zu Recht angenommen, dass die Klägerin ungeachtet ihrer Eintragung in die Gesellschafterliste ein Interesse an der Feststellung hat, dass sie als Gesellschafterin zu 75 % an der Beklagten beteiligt ist. Das Interesse an der Feststellung der materiell-rechtlichen Gesellschafterstellung gegenüber einer Gesellschaft mit beschränkter Haftung entfällt grundsätzlich nicht dadurch, dass der Gesellschafter in der in das Handelsregister aufgenommenen Gesellschafterliste eingetragen ist.
+
+19 aa) Nach § 16 Abs. 1 Satz 1 GmbHG gilt im Verhältnis zur Gesellschaft im Fall einer Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung als Inhaber eines Geschäftsanteils nur, wer als solcher in der im Handelsregister aufgenommenen Gesellschafterliste (§ 40 GmbHG) eingetragen ist. Es ist umstritten, ob der GmbH-Gesellschafter ungeachtet der Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG ein Interesse gemäß § 256 Abs. 1 ZPO an der Feststellung seiner Gesellschafterstellung gegenüber der Gesellschaft hat.
+
+20 Nach einer Ansicht kann nach dem Inkrafttreten des Gesetzes zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen (MoMiG) vom 23. Oktober 2008 (BGBl. I S. 2026) der Mitgliedschaftsstreit nicht mehr im Wege der Feststellungsklage gegen die Gesellschaft geklärt werden. Aufgrund der Aufwertung der Gesellschafterliste könne das Rechtsschutzziel nicht mehr erreicht werden. Die Gesellschaftereigenschaft richte sich im Innenverhältnis nach Maßgabe des § 16 Abs. 1 Satz 1 GmbHG ausschließlich nach der Eintragung des Gesellschafters in der Gesellschafterliste. Dementsprechend fehle einer auf Feststellung der Gesellschafterstellung gegen die Gesellschaft gerichteten Klage das nach § 256 Abs. 1 ZPO notwendige Feststellungsinteresse, weil ein etwaiges Feststellungsurteil sich nicht über die Legitimationswirkung des § 16 Abs. 1 GmbHG hinwegsetzen könne (OLG Hamm, Urteil vom 13. Februar 2012 - 8 U 118/11, juris Rn. 51, 53; OLG Hamm, NZG 2014, 783, 784; MHLS/Lieder, GmbHG, 4. Aufl., § 13 Rn. 222; Bayer in Lutter/Hommelhoff, GmbHG, 21. Aufl., § 40 Rn. 102; MünchKommGmbHG/Merkt, 5. Aufl., § 13 Rn. 325; BeckOKGmbHG/Wilhelmi, Stand 1.8.2025, § 16 Rn. 17; MünchKommGmbHG/Heidinger, 5. Aufl., § 16 Rn. 157; Lieder, GmbHR 2016, 189, 193; Krauss, GWR 2014, 260). Hingegen nimmt eine andere Ansicht ein Feststellungsinteresse im Mitgliedschaftsstreit mit der Gesellschaft auch nach dem Inkrafttreten des MoMiG weiterhin an (Rowedder/Pentz/Pentz, GmbHG, 7. Aufl., § 13 Rn. 135; Raiser/Veil in Habersack/Casper/Löbbe, GmbHG, 4. Aufl., § 14 Rn. 123; Altmeppen, GmbHG, 11. Aufl., § 16 Rn. 13; MHdB GesR VII/Wiegand-Schneider, 6. Aufl., § 36 Rn. 90; MHdB GesR III/Böhm/Breier, 6. Aufl., § 31 Rn. 39; MünchKommZPO/Becker-Eberhard, 7. Aufl., § 256 Rn. 40). Der Senat musste die Streitfrage bislang nicht entscheiden (vgl. BGH, Urteil vom 8. November 2022 - II ZR 91/21, BGHZ 235, 57 Rn. 57).
+
+21 bb) Zutreffend hat das Berufungsgericht ein Interesse der Klägerin an der Feststellung ihrer Gesellschafterstellung gegenüber der Beklagten bejaht. Dieses entfällt nicht dadurch, dass eine die Klägerin als Gesellschafterin ausweisende Gesellschafterliste in das Handelsregister aufgenommen worden ist.
+
+22 (1) Ein Feststellungsinteresse im Sinne von § 256 Abs. 1 ZPO ist gegeben, wenn dem Recht oder der Rechtsposition des Klägers eine gegenwärtige Gefahr oder Unsicherheit droht und das erstrebte Urteil geeignet ist, diese Gefahr zu beseitigen (st. Rspr., vgl. nur BGH, Urteil vom 25. Juli 2017 - II ZR 235/15, ZIP 2017, 1902 Rn. 16 mwN). Das ist in der Regel (schon) dann anzunehmen, wenn der Beklagte das Recht des Klägers ernstlich bestreitet (BGH, Urteil vom 25. Juli 2017 - II ZR 235/15, ZIP 2017, 1902 Rn. 16 mwN) oder sich eines Anspruchs gegen den Kläger berühmt (vgl. BGH, Urteil vom 22. Juli 2021 - VII ZR 113/20, WM 2022, 842 Rn. 14 mwN; Urteil vom 10. Dezember 2024 - II ZR 37/23, NZG 2025, 402 Rn. 40).
+
+23 (2) Die materiell-rechtliche Gesellschafterstellung in einer Gesellschaft mit beschränkter Haftung ist ein feststellungsfähiges Rechtsverhältnis im Sinne des § 256 Abs. 1 ZPO, an dessen Feststellung ein rechtliches Interesse gegenüber der Gesellschaft bestehen kann (BGH, Urteil vom 9. Juli 1990 - II ZR 194/89, BGHZ 112, 103, 106; vgl. auch BGH, Urteil vom 14. Mai 1990 - II ZR 125/89, NJW 1990, 2627, 2628). Dieses rechtliche Interesse wird grundsätzlich nicht dadurch beseitigt, dass der Gesellschafter in der im Handelsregister aufgenommenen Gesellschafterliste eingetragen ist. Denn die Eintragung kann nicht in jedem Fall eine der Rechtsposition des Gesellschafters durch das Bestreiten der Gesellschaft drohende gegenwärtige Gefahr oder Unsicherheit beseitigen. Die gegenteilige Auffassung verkennt die Reichweite der formellen Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG.
+
+24 Nach § 16 Abs. 1 Satz 1 GmbHG gilt im Verhältnis zur Gesellschaft im Fall einer Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung als Inhaber eines Geschäftsanteils zwar nur, wer als solcher in der im Handelsregister aufgenommenen Gesellschafterliste eingetragen ist. Greift diese Vermutung, stehen dem als Inhaber eines Geschäftsanteils in die Gesellschafterliste Eingetragenen sämtliche Mitgliedschaftsrechte zu, ohne dass es auf seine wahre Berechtigung ankommt (vgl. BGH, Urteil vom 20. November 2018 - II ZR 12/17, BGHZ 220, 207 Rn. 23; Urteil vom 2. Juli 2019 - II ZR 406/17, BGHZ 222, 323 Rn. 35; Urteil vom 10. November 2020 - II ZR 211/19, ZIP 2020, 2513 Rn. 14).
+
+25 Die materiell-rechtliche Gesellschafterstellung, deren Feststellung die Klägerin begehrt, ist aber unabhängig von der Eintragung in der Gesellschafterliste (BGH, Urteil vom 18. Oktober 2016 - II ZR 314/15, ZIP 2017, 14 Rn. 10; Urteil vom 20. November 2018 - II ZR 12/17, BGHZ 220, 207 Rn. 35; Urteil vom 2. Juli 2019 - II ZR 406/17, BGHZ 222, 323 Rn. 39, 43; Urteil vom 10. November 2020 - II ZR 211/19, ZIP 2020, 2513 Rn. 17; ferner zu § 16 Abs. 1 GmbHG aF BGH, Urteil vom 18. September 2018 - II ZR 312/16, BGHZ 219, 327 Rn. 38 mwN) und kann damit ungeachtet der Eintragung Gegenstand einer Feststellungsklage sein. Ein berechtigtes Interesse an der Feststellung dieser Rechtsposition gegenüber der Gesellschaft besteht dann, wenn ihr eine gegenwärtige Gefahr oder Unsicherheit droht. Das ist nach allgemeinen Grundsätzen in der Regel bereits dann anzunehmen, wenn die Gesellschaft die materiell-rechtliche Gesellschafterstellung des Klägers entgegen dem Listeneintrag ernstlich bestreitet.
+
+26 cc) So liegt es hier. Die Beklagte hat durch die Einreichung einer die Klägerin nicht mehr aufführenden Gesellschafterliste zum Ausdruck gebracht, diese nicht mehr als Gesellschafterin anzuerkennen, worauf das Berufungsgericht maßgeblich abgestellt hat. Die Beklagte hat im Berufungsverfahren bis zum Schluss der mündlichen Verhandlung am 13. März 2025 den wirksamen Anteilserwerb und damit die Gesellschafterstellung der Klägerin weiter infrage gestellt, wie auch im Nichtzulassungsbeschwerde- und Revisionsverfahren, was sich aus der Formulierung ihrer Rechtsfragen ergibt.
+
+27 dd) Das erstrebte Urteil ist geeignet, die durch das Bestreiten hervorgerufene Unsicherheit zu beseitigen. Der Eintrag in die Gesellschafterliste reicht hierfür nicht aus.
+
+28 Die Beklagte wäre, selbst wenn sie entgegen der Feststellung der Gesellschafterstellung der Klägerin, eine davon abweichende Gesellschafterliste einreichen würde, nach Treu und Glauben gehindert, sich auf die formelle Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG zu berufen (vgl. BGH, Urteil vom 2. Juli 2019 - II ZR 406/17, BGHZ 222, 323 Rn. 42).
+
+29 Die durch das Bestreiten hervorgerufene Unsicherheit hinsichtlich der materiell-rechtlichen Gesellschafterstellung wird durch die während des Rechtsstreits erfolgte Eintragung in die Gesellschafterliste und deren Aufnahme in das Handelsregister nicht beseitigt. Das Rechtsschutzbegehren der Klägerin ist dadurch nicht erschöpft, weshalb ihrer Feststellungsklage der Vorrang der Leistungsklage in Gestalt einer vorbeugenden Unterlassungsklage gegen die Einreichung einer sie nicht mehr als Gesellschafterin ausweisenden Gesellschafterliste nicht entgegensteht (vgl. BGH, Urteil vom 20. Januar 2016 - VIII ZR 311/14, NJW 2016, 1086 Rn. 17; Stein/Roth, ZPO, 24. Aufl., § 256 Rn. 76). Zwar kann die Klägerin gestützt auf die Gesellschafterliste ihre Mitgliedschaftsrechte gegenüber der Beklagten geltend machen. Daneben kann es sich aber in vielerlei Hinsicht nachteilig für den Gesellschafter einer Gesellschaft mit beschränkter Haftung auswirken, wenn die Gesellschaft entgegen dem Listeneintrag behauptet, dieser sei nicht ihr Gesellschafter. Zum einen kann dadurch die Position des Gesellschafters innerhalb der Gesellschaft gegenüber Mitgesellschaftern oder Geschäftsführern geschwächt werden. Zum anderen kann es zu nachteiligen Auswirkungen im Geschäftsleben kommen, etwa bei dem Versuch einer gesellschaftsbezogenen Kreditaufnahme bzw. bei der Veräußerung oder Belastung des Geschäftsanteils (vgl. BGH, Urteil vom 21. September 1987 - II ZR 20/87, NJW-RR 1988, 445). Das Berufungsgericht hat somit zu Recht darauf abgestellt, dass der Klägerin an einer umfassenden Klärung ihrer Gesellschafterstellung gelegen ist.
+
+30 2. Die Feststellungsklage ist nach den rechtsfehlerfreien Ausführungen des Berufungsgerichts, gegen die sich die Revision nicht wendet, auch begründet. Die Klägerin ist zu 75 % an der Beklagten beteiligt.
+
+Born
+
+Wöstmann
+
+Bernau
+
+von Selle
+
+C. Fischer
