@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Girod (2026-04-21)
+- Körperschaft: Ortsgemeinde Girod
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2026-06OGR-72%7Czt_2%7C2
