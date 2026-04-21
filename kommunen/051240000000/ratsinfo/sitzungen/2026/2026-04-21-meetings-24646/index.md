@@ -1,0 +1,56 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Soziales, Gleichstellung und Inklusion
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-04-21T16:05:00+02:00
+- Ende: 2026-04-21T17:49:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/271
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24646
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24646
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00362093.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00363077.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung der sachkundigen Einwohner
+- TOP 1: Einführung und Verpflichtung der sachkundigen Einwohner
+- TOP 2: Entgegennahme ohne Beschluss
+- TOP 2: Entgegennahme ohne Beschluss - Entgegennahme ohne Beschluss
+- TOP 2.1: Jahresbericht 2025 der Selbsthilfekontaktstelle
+- TOP 2.1: Jahresbericht 2025 der Selbsthilfekontaktstelle - Entgegennahme ohne Beschluss
+- TOP 2.2: Vorstellung der alten Bundesbahndirektion als barrierefreies Bürgeramt
+- TOP 2.2: Vorstellung der alten Bundesbahndirektion als barrierefreies Bürgeramt - Entgegennahme ohne Beschluss
+- TOP 2.3: Initiative für mehr Mädchen und Frauen in MINT am 13.04.2026 bei der Berger Gruppe, Kohlfurth, Wuppertal
+- TOP 2.3: Initiative für mehr Mädchen und Frauen in MINT am 13.04.2026 bei der Berger Gruppe, Kohlfurth, Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.4: Mikroprojekte zur Beteiligung an der Betroffenenbefragung „Diskriminierungserfahrungen in Deutschland 2025/2026“
+- TOP 2.4: Mikroprojekte zur Beteiligung an der Betroffenenbefragung „Diskriminierungserfahrungen in Deutschland 2025/2026“ - Entgegennahme ohne Beschluss
+- TOP 2.5: Empfang für Frauen in Führung und Unternehmerinnen im Bergischen Städtedreieck
+- TOP 2.5: Empfang für Frauen in Führung und Unternehmerinnen im Bergischen Städtedreieck - Entgegennahme ohne Beschluss
+- TOP 2.6: Girls´Day und Boys´Day am 23.04.2026
+- TOP 2.6: Girls´Day und Boys´Day am 23.04.2026 - Entgegennahme ohne Beschluss
+- TOP 2.7: Bericht zur Veranstaltung Mehr Mädchen und Frauen in MINT
+- TOP 2.7: Bericht zur Veranstaltung Mehr Mädchen und Frauen in MINT - Entgegennahme ohne Beschluss
+- TOP 2.8: Bericht zum Netzwerk bergisch-kompetent
+- TOP 2.8: Bericht zum Netzwerk bergisch-kompetent - Entgegennahme ohne Beschluss
+- TOP 2.9: Bericht zum Netzwerk der betrieblichen Pflegeguides
+- TOP 2.9: Bericht zum Netzwerk der betrieblichen Pflegeguides - Entgegennahme ohne Beschluss
+- TOP 2.10: Bericht zur Bundesweite Aktion „Gesichter gegen Rechts“
+- TOP 2.10: Bericht zur Bundesweite Aktion „Gesichter gegen Rechts“ - Entgegennahme ohne Beschluss
+- TOP 2.11: Bericht zum Internationalen Frauentag
+- TOP 2.11: Bericht zum Internationalen Frauentag - Entgegennahme ohne Beschluss
+- TOP 2.12: Bericht zu den Internationalen Wochen gegen Rassismus
+- TOP 2.12: Bericht zu den Internationalen Wochen gegen Rassismus - Entgegennahme ohne Beschluss
+- TOP 2.13: Bericht zur Kampagne „Vielfalt verdient Respekt“
+- TOP 2.13: Bericht zur Kampagne „Vielfalt verdient Respekt“ - Entgegennahme ohne Beschluss
+- TOP 2.14: Sachstandsbericht Schließfächer für Obdachlose und Sachstandsbericht Pflegekonferenz - mündlicher Bericht der Verwaltung
+- TOP 2.14: Sachstandsbericht Schließfächer für Obdachlose und Sachstandsbericht Pflegekonferenz - mündlicher Bericht der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 3: Gesundheitskiosk; Große Anfrage der SPD vom 27.3.2026
+- TOP 3: Gesundheitskiosk; Große Anfrage der SPD vom 27.3.2026 - Entgegennahme ohne Beschluss
+- TOP 3.1: Gesundheitskiosk - Antwort auf die große Anfrage der SPD-Ratsfraktion vom 27.03.2026 - VO/0378/26
+- TOP 3.1: Gesundheitskiosk - Antwort auf die große Anfrage der SPD-Ratsfraktion vom 27.03.2026 - VO/0378/26 - Entgegennahme ohne Beschluss
+- TOP 4: Situation der Schuldnerberatung in Wuppertal
+- TOP 4: Situation der Schuldnerberatung in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4.1: Antwort auf die große Anfrage der CDU-Fraktion zur Situation der Schuldnerberatung in Wuppertal
+- TOP 4.1: Antwort auf die große Anfrage der CDU-Fraktion zur Situation der Schuldnerberatung in Wuppertal - Entgegennahme ohne Beschluss
