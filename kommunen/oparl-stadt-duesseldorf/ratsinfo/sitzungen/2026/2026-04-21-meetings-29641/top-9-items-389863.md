@@ -1,0 +1,8 @@
+# TOP 9: Änderung der Satzung für Übergangsheime und Obdachlosenunterkünfte der Landeshauptstadt Düsseldorf vom 14.01.2008 mit Wirkung zum Tag nach der öffentlichen Bekanntmachung.
+
+- Sitzung: Ausschuss für Gesundheit und Soziales (2026-04-21)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/389863
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/138837
