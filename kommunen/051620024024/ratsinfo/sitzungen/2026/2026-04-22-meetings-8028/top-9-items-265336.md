@@ -1,0 +1,8 @@
+# TOP 9: Werkstattverfahren "Neue Baugebiete in Grefrath"
+
+- Sitzung: Ausschuss für Planung, Stadtentwicklung und Innenstadtstärkung (2026-04-22)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/265336
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/38620
