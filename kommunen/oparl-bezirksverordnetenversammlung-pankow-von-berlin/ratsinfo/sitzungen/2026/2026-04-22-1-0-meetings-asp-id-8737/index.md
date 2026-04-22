@@ -1,0 +1,118 @@
+# 38. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2026-04-22T17:30:00+02:00
+- Ende: 2026-04-22T22:07:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8737
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8737
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=351602
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5.1: Illegale Müllablagerungen zwischen Heinersdorf und dem Blankenburger Süden - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Bezirksstadtrats - in der BVV abgelehnt
+- TOP 1.9: Technische Fortschreibung zum Investitionsprogramm für 2026 bis 2030 des Bezirks Pankow - vertagt
+- TOP 1.10: Ergänzungsplan 2026 für den Bezirk Pankow von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.12: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 1 im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 2 im Bezirk Pankow - gewählt
+- TOP 1.14: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 3 im Bezirk Pankow - gewählt
+- TOP 1.15: Wahl einer Schiedsperson für den Schiedsamtsbezirk 4 im Bezirk Pankow - gewählt
+- TOP 1.16: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 5 im Bezirk Pankow - gewählt
+- TOP 1.17: Wahl einer Schiedsperson für den Schiedsamtsbezirk 6 im Bezirk Pankow - gewählt
+- TOP 1.18: NSG Bogenseekette und Lietzengrabenniederung - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: U-Bahnhof Eberswalder Straße für Inklusionssportpark fit machen. Zweiten Fahrstuhl am Nordende planen jetzt! - in der BVV abgelehnt
+- TOP 1.20: Keine Kürzungen bei der Beförderung behinderter Kinder - Diskriminierung beenden - Folgekosten abwenden - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Helmholtzplatz als Oase der Naherholung dauerhaft sichern und erhalten - in der BVV abgelehnt
+- TOP 1.22: Entsiegelung und Begrünung durch Umgestaltung des Parkplatzes am Senefelder Platz zur Steigerung der Aufenthaltsqualität - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Blankenburger Süden – Tram-Anschluss zum S-Bahnhof Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Verkehrssicherheit an der Einmündung Malchower Straße Ecke Blankenburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Leichtere Zugänglichkeit unter dem Magistratsschirm - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Schluss mit Feierabendraserei durch Heinersdorfer Wasserturmsiedlung! - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Digitalisierung jetzt – Personal effizient einsetzen - in der BVV abgelehnt
+- TOP 1.29: Aufenthaltsqualität statt Ruine – Gastronomie im Bürgerpark ermöglichen - überwiesen
+- TOP 1.30: Keine Inbetriebnahme der Flüchtlingsunterkunft in der Elsa-Brändström-Straße 51-53 - in der BVV abgelehnt
+- TOP 1.31: Ein Großprojekt sollte auch Groß informieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Rechtswidriges Parken im Göhrener Ei verhindern - vertagt
+- TOP 1.33: Resilienz des Bezirks Pankow sicherstellen - überwiesen
+- TOP 1.34: Verstetigung der Bauampeln an der Kreuzung Pasewalker Straße Ecke Bahnhofstraße in Franz. Buchholz - überwiesen
+- TOP 1.35: Bäume schützen – Ordnungswidrigkeiten verhindern! Auch in der Storkower Straße! - vertagt
+- TOP 1.36: Mehr Praxis, mehr Chancen: „Unternehmen mit Klasse“ nach Pankow holen - überwiesen
+- TOP 1.37: Dialogdisplays für Pankows Schulwegsicherheit - überwiesen
+- TOP 1.38: Bahnhofstraße in Blankenburg für Radfahrende sicherer machen - überwiesen
+- TOP 1.39: Errichtung einer temporären Lichtsignalanlage (Ampel) an der Grundschule Am Sandhaus zur Verbesserung der Schulwegsicherheit - vertagt
+- TOP 1.40: Klimaanpassung im öffentlichen Raum durch Sonnensegel - überwiesen
+- TOP 1.41: Schneller zum Dokument im Rathaus Pankow - überwiesen
+- TOP 1.42: Aufstellung von Hinweisschildern zu Bußgeldern bei illegaler Müllablagerung im öffentlichen Raum und in Grünanlagen in Prenzlauer Berg - vertagt
+- TOP 1.43: Verbesserung der Schulwegsicherheit und Verkehrsberuhigung im Wohngebiet Straße 52 und angrenzenden Straßen - überwiesen
+- TOP 1.44: Verkehrssicherheit in der Hadlichstraße erhöhen - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Entwicklung des Gewerbegebietes Pankow-Nord - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Mobilitätsgesetz umsetzen – Sicheren Radverkehr auf der Berliner Allee ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Otto-Ostrowski-Straße für den Durchgangsverkehr schließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Verkehrssicherheit im Bereich der Grell- und Hosemannstraße gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Rahmenplan für Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Informationen zu Hilfsmöglichkeiten bei häuslicher Gewalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Weiterentwicklung Brennerberg (Tiroler Viertel) - vertagt
+- TOP 2.8: Baumpatenschaften in Pankow einfach und verständlich ermöglichen - vertagt
+- TOP 2.9: Abstellmöglichkeiten für Fahrräder an Pankower Parks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Keine Kompromisse zu Lasten der Schüler:innen: Schulwegsicherheit an der Werneuchener Wiese gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Endlich Schulwegsicherheit im Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Schadensersatz in der Botanischen Anlage Blankenfelde - vertagt
+- TOP 2.13: Achtung Fußgänger – mehr Sicherheit beim Wechsel des öffentlichen Verkehrsmittels! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Fördermittel aus dem Bundesprogramm „Anpassung urbaner Räume an den Klimawandel“ zur überfälligen Sanierung des Volksparks Prenzlauer Berg beantragen - vertagt
+- TOP 2.15: Ein Platz für Hunde in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Eine "La Panchina Rossa" auch für Pankow - vertagt
+- TOP 2.17: Ein Kontingent an Schutzplätzen für von Gewalt betroffenen Frauen und ihren Kindern bei allen landeseigenen Neubauprojekten festlegen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Tierfreundliches Blankenburg – Runder Tisch zum Wildgehege - vertagt
+- TOP 2.19: Gedenken an die „Aktion wider den undeutschen Geist“ und Bücherverbrennungen 1933 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Sicherung der Stillen Straße - Planungssicherheit schaffen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Biotopholz für Pankower Grünflächen - vertagt
+- TOP 2.22: Ausstellung „Was hattest du an?“ in Pankow zeigen - vertagt
+- TOP 2.23: Weltweit Leben retten: Informationsoffensive zur Möglichkeit der Stammzellenspende gegen Blutkrebs in Pankow starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Mehr Schutzplätze für Frauen und Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bänke in Pankow mit der Botschaft „Hier ist kein Platz für Gewalt an Frauen“ versehen - vertagt
+- TOP 2.26: Notbetten für obdachlose Frauen schaffen, mit einer neuen 24/7 Unterkunft in Pankow! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Schließfächer für obdachlose Menschen einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Straßenfeger retten – Ersatzimmobilie finden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Zappen duster im Mauerpark? Kulturort einer Metropole stärken statt abschalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Zurück zur Prävention - Kooperation mit Krankenkassen erneuern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Abreißzettel „Hilfetelefon Gewalt gegen Frauen“ in Toiletten in bezirklichen Einrichtungen - vertagt
+- TOP 2.32: UNAIDS vor Ort in Pankow stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Rauchfrei auf den Bus warten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Sichtbarkeit und direkte Kontaktmöglichkeiten der Bürgerdeputierten im Bezirk Pankow erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.35: Verdrängung von Senior*innen im Prenzlauer Berg stoppen! - vertagt
+- TOP 2.36: Hofzeichen in Karow sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.37: „Internationaler Tag der älteren Menschen“ am 1. Oktober - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.38: Gedenken an entrechtete Bezirksverordnete während des Nationalsozialismus - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.39: Öffentlichkeitskampagne „Für ein Zuhause ohne Gewalt“ in Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Kein Lohndumping in der Sozial- und Jugendhilfe - Tarifmittel für freie Träger sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.41: Selbstverwaltetes Stammesheim für den Pfadfinder*innenstamm Plejaden in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Es werde Licht! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.43: Verkehrsberuhigende Maßnahmen in der Zeuschelstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Mehr Parkbänke am Garibalditeich in Wilhelmsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Wirksame Verkehrsberuhigung und Verkehrssicherheit auf die gesamte Bötzowstraße ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.46: Auch im Komponistenviertel soll man schlafen können – Tempo 30 auf der Indira-Gandhi-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.47: Fahrradfahrende in Niederschönhausen schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.48: Bebauungsplan 3-35 „Breite Straße“ für die Grundstücke Breite Straße 35, 35A, Schulstraße 5-7 sowie eine Teilfläche des Bleichröder Parks zwischen Breite Straße und Schulstraße im Bezirk Pankow, Ortsteil Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.49: Außerordentliche Kündigung des Kooperationsvertrages zwischen dem Schul- und Sportamt Pankow, der Grundschule am Falkplatz und dem Bürgerverein Gleimviertel e.V. vom Mai 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.50: Aufteilung der Mittel für Freiwilliges Engagement in Nachbarschaften (FEIN)-Einzelmaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.51: Beförderung der integrierten und ämterübergreifenden Planung von sozialer Infrastruktur im Bezirk Pankow und Einrichtung einer bezirklichen Koordinierungsstruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.52: Kiezblock Arnimkiez im Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.53: Kiezblock Komponistenviertel im Bezirk Pankow von Berlin - vertagt
+- TOP 2.54: Neufassung der Geschäftsverteilung und Vertretungsregelung des Bezirksamtes (in der BA-Sitzung am 14.04.2026 vom Einreicher zurückgezogen) - zurückgezogen
+- TOP 2.55: Vorschlag zur Ernennung der stellv. Bezirkswahl- und Abstimmungsleitung für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.56: Gesamtflächenbilanz, Bedarfsplanung und Optimierungskonzepte auf Grundlage von Auflage Nr. 3 und 4 zum Haushaltsgesetz 2024/2025 für das Jahr 2025 - mit Abschlussbericht zur Kenntnis genommen
