@@ -1,0 +1,57 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-04-22T17:00:00+02:00
+- Ende: 2026-04-22T23:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5068
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5068
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Wiederherstellung und Erhalt des Nahversorgungszentrums Brieger Straße (Lankwitz) - überwiesen
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Zahnärztliche Vorsorge in den Schulen - beantwortet
+- TOP 4.2: Bebauung des ehemaligen Tanklagers Lankwitz – Stand der Abstimmungen und weitere Perspektiven - beantwortet
+- TOP 4.3: Verwendung des Sondervermögens für Infrastruktur und Klimaneutralität - beantwortet
+- TOP 4.4: Wasserverschmutzung im Bassinbecken des Lilienthalparks - beantwortet
+- TOP 4.5: Erhalt des Abenteuer-Hügels auf dem Spielplatz Elfi-Wiese möglich? - beantwortet
+- TOP 4.6: Fehlende Umsetzung von BVV-Beschlüssen zur Sicherheit für Radfahrer*innen in der Goerzallee - beantwortet
+- TOP 4.7: Umstellungsprobleme bei Buchungssoftware - schriftlich beantwortet
+- TOP 4.8: Studentisches Wohnen in der Martin-Buber-Straße - schriftlich beantwortet
+- TOP 4.9: Hostels in leerstehenden Bürohäusern? - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Etablierung einer bezirklichen Spendenaktion „Wasser für Obdachlose" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Verkehrsberuhigung im Ortlerweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Verkehrsberuhigung Am Rohrgarten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Instandhaltung und Pflege von Einrichtungen am S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Verbesserung der Reinigung in stark frequentierten Bereichen des S-Bahnhofs Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Verbesserung der Sicherheit und Beleuchtung am S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Mehr Verkehrssicherheit und Komfort durch verbesserte Parkregelungen am Kreuzungspunkt Brüderstraße/Baseler Straße/Potsdamer Straße - überwiesen
+- TOP 6.2: Schulweg im Nieritzweg - überwiesen
+- TOP 6.3: Einrichtung von Pop-up-Zebrastreifen im Nieritzweg zur Sicherung des Schulwegs - überwiesen
+- TOP 6.4: Anordnung eines Stoppschildes in der Gutzmannstraße/Ecke Machnower Straße - überwiesen
+- TOP 6.5: Gewährleistung der Fußwegsicherheit durch verstärkte ordnungsrechtliche Kontrolle von E-Scooter-Betreibern - überwiesen
+- TOP 6.6: Hände weg vom Kranoldmarkt – Alle Marktstände erhalten - überwiesen
+- TOP 6.7: Mehr Wohnungsbau auf dem Gelände des ehemaligen Tanklagers Lankwitz - überwiesen
+- TOP 6.8: Anschaffung eines mobilen Notstromerzeugers für die Leuchtturm-Rathäuser im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 6.9: Festlegung der Erhaltungsgebiete Gasbeleuchtung zeitgemäß anpassen - überwiesen
+- TOP 6.10: Nein zum Volksbegehren "Berlin autofrei" - überwiesen
+- TOP 6.11: Vorhandene Solaranlagen auf Schulen und Sporthallen für Katastrophenschutz nutzen - überwiesen
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Kinder- und Jugendparlament in der Geschäftsordnung implementieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Einrichtung eines Kinder- und Jugendparlaments für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Warum verschenkt die Bezirksbürgermeisterin Geld? - beantwortet
+- TOP 8.2: Baulicher Zustand, Nutzung und Entwicklungsperspektive der Mercator-Grundschule - beantwortet
+- TOP 8.3: Was bedeutet „Berlin autofrei“ für unser Steglitz-Zehlendorf? - beantwortet
+- TOP 8.4: Schutz vor sexualisierter Gewalt in Einrichtungen der Kinder- und Jugendarbeit im Bezirk Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Umbenennung der Wolzogenstraße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
