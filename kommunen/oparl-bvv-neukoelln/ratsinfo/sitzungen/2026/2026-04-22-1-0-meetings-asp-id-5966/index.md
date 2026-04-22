@@ -1,0 +1,99 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2026-04-22T17:00:00+02:00
+- Ende: 2026-04-22T22:15:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5966
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5966
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Illegale Müllablagerungen und Ahnung mit Bußgeldern - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 2381/XXI - Abschluss der Zielvereinbarung zur gesamtstädtischen Steuerung „Stabilisierung des Bestandes an Straßenbäumen in bezirklicher Verwaltung“ (Fortschreibung 2026) - erledigt
+- TOP 3.2: 2402/XXI - Festlegung der Investitionsplanung für Bauprojekte in Quartiersmanagement-Gebieten sowie Anmeldung von ausgewählten Bauvorhaben zur Förderung im Programm „Sozialer Zusammenhalt“ ab dem Programmjahr 2027 - erledigt
+- TOP 3.3: 2403/XXI - Anmeldung städtebaulicher Maßnahmen im Förderprogramm Lebendige Zentren (Karl-Marx-Straße / Sonnenallee und Schillerpromenade) für das Programmjahr 2027 - erledigt
+- TOP 3.4: 2404/XXI - Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - erledigt
+- TOP 3.5: Tödlicher Unfall am Buckower Damm - BVV ist tief bestürzt und bekennt sich zur Vision Zero - in der BVV abgelehnt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Mehr Mülleimer im Bezirk Neukölln - überwiesen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Kinder und Jugendliche vor sexualisierter Gewalt wirksam schützen: Betroffene fachgerecht unterstützen und die Berlin Fachrunde ernst nehmen. Die politische Instrumentalisierung der CDU nicht mitmachen! - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Abschluss der Zielvereinbarung zur gesamtstädtischen Steuerung „Stabilisierung des Bestandes an Straßenbäumen in bezirklicher Verwaltung“ (Fortschreibung 2026) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Festlegung der Investitionsplanung für Bauprojekte in Quartiersmanagement-Gebieten sowie Anmeldung von ausgewählten Bauvorhaben zur Förderung im Programm „Sozialer Zusammenhalt“ ab dem Programmjahr 2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Anmeldung städtebaulicher Maßnahmen im Förderprogramm Lebendige Zentren (Karl-Marx-Straße / Sonnenallee und Schillerpromenade) für das Programmjahr 2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - erledigt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Aufklärungskommission Wutzkyallee - beantwortet
+- TOP 10.2: Wie weiter mit dem Abenteuerspielplatz Wildhüterweg? - beantwortet
+- TOP 10.3: Nachfragen zu Konsequenzen aus der Causa "Wutzkyallee" - beantwortet
+- TOP 10.4: Überbelegung von ASOG-Unterkünften - beantwortet
+- TOP 10.5: Aushangkasten am Rathaus Neukölln defekt – wann handelt das Bezirksamt? - beantwortet
+- TOP 10.6: Wie unabhängig ist die Aufklärungskommission zu sexueller Gewalt in Sarah Nagels Jugendeinrichtungen? - beantwortet
+- TOP 10.7: Volksentscheid mit neuen Regeln? - beantwortet
+- TOP 10.8: Jugendberatungshaus sichern - beantwortet
+- TOP 10.9: Will der Senat die Bezirke beim Konnexitätsprinzip über den Tisch ziehen? - beantwortet
+- TOP 10.10: Werden kritische Stimmen von der Jugendstadträtin verschwiegen? - schriftlich beantwortet
+- TOP 10.11: Runder Tisch Müllproblematik Körnerkiez - schriftlich beantwortet
+- TOP 10.12: Judenhass an der Hermannstraße? - schriftlich beantwortet
+- TOP 10.13: Erfolgreiche Umweltbildung in der Hasenheide sichern und weiterdenken - schriftlich beantwortet
+- TOP 10.14: Alter Bahnhof Rudow - schriftlich beantwortet
+- TOP 10.15: Was unternahm das Bezirksamt gegen den Leerstand an der Ecke Hermannstraße / Kienitzer Straße? - schriftlich beantwortet
+- TOP 10.16: Straßenreinigungsklassen: Welche Änderungen schlägt Neukölln der dieses Jahr tagenden StEK (Straßeneingruppierungskommission) vor? - schriftlich beantwortet
+- TOP 10.17: Wann erfuhr das Bezirksamt vom Leerstand an der Ecke Hermannstraße / Kienitzer Straße? - schriftlich beantwortet
+- TOP 10.18: Weiternutzung von Mobilen Unterrichtsräumen - schriftlich beantwortet
+- TOP 10.19: Auswirkung der Abschaffung des Bürgergelds in Neukölln - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: KI-gestützte Software Unterstützung bei Wohngeldanträgen in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Schulwegsicherheit an der Oskar-Heinroth-Schule verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.2: Parkmanagement finanziell sichern - Arbeit der Parkläufer*innen langfristig erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Anträge I - (offen)
+- TOP 13.1: Abberufung Bezirksstadträtin Sarah Nagel - vertagt
+- TOP 13.2: Bezirksverordnetenversammlung Neukölln missbilligt das Handeln von Stadträtin Sarah Nagel - in der BVV abgelehnt
+- TOP 14: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 14.1: Gute Arbeit für Langzeiterwerbslose statt Arbeitszwang für Asylbewerbende - beantwortet
+- TOP 14.2: Kein Forum für die Kriegslobbyisten des European Leadership Network (ELNET) im Neuköllner Rathaus - in der BVV abgelehnt
+- TOP 14.3: BVV beschließt über Sondervermögen für Infrastruktur und Klimaneutralität - in der BVV abgelehnt
+- TOP 14.4: Eine langfristige Perspektive für die Werkschule Löwenherz in Neukölln? - beantwortet
+- TOP 14.5: Gewerbebezogene Ordnungsprobleme im Bezirk Neukölln - beantwortet
+- TOP 14.6: Papier zur Reduzierung der Budgetverluste im Bereich der Schulträgerschaft - beantwortet
+- TOP 15: Beschlussempfehlungen - (offen)
+- TOP 15.1: Endlich Transparenz zu fehlenden Schulplätzen herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Ausweitung des Pilotprojekts zur Optimierung von Heizkreisen und Aufbau eines sich selbst verstärkenden Finanzierungskreislaufs für Energiesparmaßnahmen im Bezirk Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Defibrillatoren können Leben retten (2) - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Nebelduschen für Neuköllns heiße Plätze - ohne Änderungen in der BVV beschlossen
+- TOP 16: Große Anfragen - (offen)
+- TOP 16.1: Kinderschutz in Neukölln - vertagt
+- TOP 16.2: Karstadt-Gebäude am Hermannplatz – droht Entmietung und Abriss? - vertagt
+- TOP 16.3: Missbrauch der Mittel aus dem sogenannten Sondervermögen des Bundes? - vertagt
+- TOP 16.4: Schutzkonzepte in der Jugendarbeit - vertagt
+- TOP 16.5: Ehrenlosigkeit bei der Ehrennadel eines Neuköllner Ehrennadelträgers? - vertagt
+- TOP 17: Große Anfragen - schriftlich - erledigt
+- TOP 18: Anträge II - (offen)
+- TOP 18.1: Mähfreier Mai - auch in Neukölln - überwiesen
+- TOP 18.2: Kaufhaus am Hermannplatz erhalten - überwiesen
+- TOP 18.3: Dialogdisplay in der Waßmannsdorfer Chaussee - überwiesen
+- TOP 18.4: Ringbahnhöfe: Ja, aber besser! - überwiesen
+- TOP 18.5: Entkorbten Sportplatz Rütli-Campus / Pflügerstraße wieder zum offenen Basketball-Platz machen - überwiesen
+- TOP 18.6: Informationsveranstaltung Tannenhof-Schule - überwiesen
+- TOP 18.7: Neuauflage der Broschüre „Das Frauenviertel Rudow“ anlässlich des 30. Geburtstages des Frauenviertels - überwiesen
+- TOP 18.8: Dialogdisplay an der Schönefelder Straße - überwiesen
+- TOP 18.9: Mehr Wohnungen beim Bauprojekt Ringbahnhöfe - überwiesen
+- TOP 18.10: Weiterfahren statt warten - überwiesen
+- TOP 18.11: Ausbesserung der Fahrradverbindung durch die Grünfläche - überwiesen
+- TOP 18.12: Schulwegsicherung Grundschule am Koppelweg - überwiesen
+- TOP 18.13: Verbesserung der statistischen Erfassung zur wirksamen Steuerung der Maßnahmen gegen Vermüllung im öffentlichen Raum - überwiesen
+- TOP 18.14: Einwohner*innenantrag: Donaukiezblock für eine lebenswerte Nachbarschaft ohne Durchgangsverkehr - überwiesen
+- TOP 18.15: Aberkennung Ehrennadel - überwiesen
