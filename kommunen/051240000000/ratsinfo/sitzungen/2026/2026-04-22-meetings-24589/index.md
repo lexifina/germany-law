@@ -1,0 +1,58 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-04-22T18:30:00+02:00
+- Ende: 2026-04-22T20:38:00+02:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24589
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24589
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00362707.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00362924.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Jugendrat
+- TOP 2: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Innenstadtmanagement Elberfeld (Büro Stadt + Handel)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Bürgerantrag gemäß §24 GO NRW - Aufhebung des Radwegs Hofkamp - ungeändert beschlossen
+- TOP 7: Bürgerantrag gemäß §24 GO NRW - Abstufung Fuhlrottstraße Abschnitt Max-Horkheimer-Str bis Oberer Grifflenberg, Situation Radverkehr - ungeändert beschlossen
+- TOP 8: Bürgerantrag gemäß §24 GO NRW - Grundsätzliche Vorgehensweise zur Anordnung von Haltverboten und Radfreigaben in engen Straßen - ungeändert beschlossen
+- TOP 9: Durchführung der Veranstaltung "Lokalzeit Stadtgespräch/Podiumsdiskussion" am 25.04.2026 auf dem Döppersberg (Bahnhofsvorplatz) - ungeändert beschlossen
+- TOP 10: Errichtung von Anlehnbügeln im Bereich Calvinstraße - ungeändert beschlossen
+- TOP 11: Vorplatz Mirker Bahnhof (2. Bauabschnitt): Durchführungsbeschluss und Widmung der Fläche als öffentliche Verkehrsfläche - zurückgezogen
+- TOP 12: Bebauungsplan 798A - Markomannenstraße / Ludwigstraße - - ungeändert beschlossen
+- TOP 13: Freigabe der Einbahnstraße Alsenstraße für den gegenläufigen Radverkehr - ungeändert beschlossen
+- TOP 14: Abschlussbericht Schulentwicklungsplanung - ungeändert beschlossen
+- TOP 15: Kommunale Wärmeplanung für Wuppertal - ungeändert beschlossen
+- TOP 16: Nachtrag zur Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2026/27 - ungeändert beschlossen
+- TOP 17: Konzept zur Verbesserung der Infrastruktur öffentlicher Toiletten - ungeändert beschlossen
+- TOP 18: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2026/2027 - ungeändert beschlossen
+- TOP 19: Aufstellen eines Wetterschutzes im Rahmen des Schienenersatzverkehrs vor der Historischen Stadthalle - ungeändert beschlossen
+- TOP 20: Entgegennahmen ohne Beschluss
+- TOP 20.1: Erneute Prüfung zur Einbahnstraßenfreigabe Robertstraße - Entgegennahme ohne Beschluss
+- TOP 20.2: Information über Fahrplanwechsel im ÖPNV - Entgegennahme ohne Beschluss
+- TOP 20.3: STADTRADELN 2026 - Aufruf zur Teilnahme und Bewerbung durch das Kommunalparlament - Entgegennahme ohne Beschluss
+- TOP 20.4: Handlungsprogramm Brachflächen 2025 - Entgegennahme ohne Beschluss
+- TOP 20.5: Projektstand Kooperationsmaßnahme Elberfeld 2030 - Entgegennahme ohne Beschluss
+- TOP 20.6: Der Wuppertal-Plan - Entgegennahme ohne Beschluss
+- TOP 21: Anträge
+- TOP 21.1: Parkplatzanordnung im Bereich Wiesenstraße zwischen Hochstraße und Malerstraße - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 21.2: Verbesserungen für den Schusterplatz und Otto-Böhne-Platz - Antrag der Fraktion Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 21.3: Barrierefreiheit rund um den Laurentiusplatz herstellen - geändert beschlossen
+- TOP 22: Anfragen
+- TOP 22.1: Motorisierter Individualverkehr auf der Straße Wall – Einfahrtsregelungen, Kontrollen und verkehrstechnische Auswirkungen - Große Anfrage der CDU Fraktion - vertagen
+- TOP 22.1.1: Große Anfrage der CDU Fraktion vom 23.03.26 zum motorisierten Individualverkehr auf der Straße Wall - vertagen
+- TOP 22.2: Hundekotbeutelspender im Stadtbezirk Elberfeld - Große Anfrage der Fraktion Bündnis90/ Die Grünen - Entgegennahme ohne Beschluss
+- TOP 22.3: Straßen- oder Platzbenennung nach Helmut Hesse - Große Anfrage der Fraktion Bündnis90/ Die Grünen - Entgegennahme ohne Beschluss
+- TOP 22.3.1: Beantwortung der Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN Straßen- oder Platzbenennung nach Helmut Hesse - Entgegennahme ohne Beschluss
+- TOP 23: Freie Mittel (Es liegt noch keine rechtskräftige Haushaltssatzung vor)
+- TOP 23.1: Mitgliedsbeiträge der Bezirksvertretung
+- TOP 23.2: Antrag der Angelo-Roncalli-Schule
+- TOP 23.3: Antrag der evangelischen Allianz Wuppertal - Veranstaltung "Deutschland singt"
+- TOP 23.4: Antrag der Taekwondo Sportschule Cinar e.V. - vertagen
+- TOP 23.5: Antrag der IG Luisenstraße
