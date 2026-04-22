@@ -1,0 +1,55 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-04-22T17:00:00+02:00
+- Ende: 2026-04-22T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000440
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000440
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1517991&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 11.02.2026 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 11.03.2026 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Präsentation der Planungen für die Wehmeyer-Immobilien in der Adalbertstraße hier: Tagesordnungsantrag der CDU-Fraktion vom 23.02.2026 - zur Kenntnis genommen
+- TOP 6: Ergebnisfeststellung Ratsbürgerentscheid Olympiabewerbung 19.04.2026 - ungeändert beschlossen
+- TOP 7: Städtepartnerschaftsgesuch der guineischen Stadt Lélouma (Republik Guinea) - ungeändert beschlossen
+- TOP 8: Bericht über die Prüfung des Jahresabschlusses 2024 - ungeändert beschlossen
+- TOP 9: Geprüfter Jahresabschluss 2023/2024 von Stadttheater und Musikdirektion Aachen per 31.07.2024 - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan für die Spielzeit 2026/27 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 11: Vorläufiger Wirtschaftsplan für die Spielzeit 2027/28 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen für das Jahr 2026 - ungeändert beschlossen
+- TOP 13: Altstadtquartier Büchel: Abschluss der vorbereitenden Untersuchungen (VU) nach § 141 Baugesetzbuch - ungeändert beschlossen
+- TOP 14: Satzung über die förmliche Festsetzung des Sanierungsgebietes „Altstadtquartier Büchel“ nach § 142 Baugesetzbuch (BauGB) - ungeändert beschlossen
+- TOP 14.1: Satzung über die förmliche Festsetzung des Sanierungsgebietes „Altstadtquartier Büchel“ nach § 142 Baugesetzbuch (BauGB) - zur Kenntnis genommen
+- TOP 15: Sanierungssatzung Innenstadt: Ergänzendes Verfahren nach § 214 Abs. 4 Baugesetzbuch (BauGB) betreffend die Satzung über die förmliche Festlegung des Sanierungsgebietes „Innenstadt“ vom 08.10.2002; Heilung des räumlichen Geltungsbereiches des 1. Nachtrags vom 22.03.2015 - ungeändert beschlossen
+- TOP 16: „Bau-Turbo“ – Grundstücksermittlung, Ratsantrag Nr. 006/19 der SPD-Fraktion - zur Kenntnis genommen
+- TOP 17: 3. Änderung des Landesentwicklungsplanes Nordrhein-Westfalen (LEP NRW) für eine nachhaltigere Flächennutzung (zweites Beteiligungsverfahren) hier: Stellungnahme der Stadt Aachen im Rahmen der Beteiligung gemäß § 13 Landesplanungsgesetz und § 9 Raumordnungsgesetz - ungeändert beschlossen
+- TOP 18: Stellenausschreibung für die Position der Stadtdirektorin und Beigeordneten für Finanzen, Recht und Ordnung (Dezernat II); hier: Tagesordnungsantrag der Grüne-Fraktion vom 08.04.2026 - geändert beschlossen
+- TOP 19: Entsendung von Mitgliedern des Ausschusses für Chancengerechtigkeit und Integration in den Kinder- und Jugendausschuss - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 21: Ratsanträge - ungeändert beschlossen
+- TOP 22: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 22.1: Umbesetzungsantrag der AfD-Fraktion vom 21.04.2026 - geändert beschlossen
+- TOP 22.2: Umbesetzungsantrag der Fraktion DIE LINKE vom 22.04.2026 - ungeändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
