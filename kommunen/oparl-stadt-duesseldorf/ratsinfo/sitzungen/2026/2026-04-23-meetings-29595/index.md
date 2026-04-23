@@ -1,0 +1,72 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-04-23T18:00:00+02:00
+- Ende: 2026-04-23T20:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29595
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29595
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 23.04.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584762.pdf
+- Ergebnisprotokoll: NachtragsTO vom 23.04.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584762.pdf
+- Wortprotokoll: NachtragsTO vom 23.04.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584762.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 09.04.2026 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Auswertung Verkehrsaufkommen/Stausituation Kreuzung Bernburger Straße/Heidelberger Straße/Karlsruher Straße (Bericht der Verwaltung)
+- TOP 4: Europäisches/afrikanisches Radioprojekt 'Nasem online Radio Düsseldorf' (Bericht)
+- TOP 5: Am Hackenbruch 35 - Initiierungsbeschluss - Empfehlung abweichend beschlossen
+- TOP 6: Spezialmarkt "Düsseldorfer Herbstfestival" im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2026 - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2026 - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Haushalt 2026 Liste A Schulen 2121101/52415800 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2026 - einstimmig beschlossen
+- TOP 10: Verkehrssicherheit an der Einfahrt zum Supermarkt Aldi, Vennhauser Allee – Prüfung von Maßnahmen zur Gefahrenreduzierung (Anfrage SPD-Fraktion) - beantwortet
+- TOP 11: Überprüfung der Entscheidung zur Nichtinstallation einer Rotlicht- und Geschwindigkeitsüberwachungsanlage an der Vennhauser Allee Höhe Hausnummer 248 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 12: Kamper Weg - Aufstellen von Blumenkübeln (Anfrage SPD-Fraktion) - beantwortet
+- TOP 13: Grundstück ehemalige Tankstelle Reisholzer Straße / Am Hackenbruch (Anfrage SPD-Fraktion) - beantwortet
+- TOP 14: Einfahrt Heimgarten vom Gatherweg aus (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Unterbacher See (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Barrierefreies Eller (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 17: Eckgrundstück Reisholzer Straße 59 / Am Hackenbruch (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Querungssituation Sandträger Weg auf Höhe der Südlichen Düssel (Anfrage CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Ausstattung von Haltestellen mit Wartehäuschen und Begrünung von Wartehäuschen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Reisholzer Straße (zwischen Posener Straße und Gatherweg) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Alter Schützenplatz Eller (Sodener Weg) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 24: Kiosk Schlosspark Eller und Überplanung Schlossallee (Anfrage CDU-Fraktion) - beantwortet
+- TOP 25: Sachstand Sanierungsobjekt Gumbertstraße 172 (Ecke Alt-Eller) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 26: Sofortmaßnahmen gegen Vermüllung und Rattenbefall im Bereich Lassallestraße / Wohnpark der LEG (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Sanierung des Geh- und Radwegs Vennhauser Allee (Höhe Hausnummern 226–228) (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Einrichtung einer Tempo-30-Zone vor der Kita Königsberger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 29: Park am Stufstock (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 30: Neustädter Weg - Parkverbot (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 31: Wegesanierung vor der Düsselbrücke am Eller Friedhof (Antrag Fraktion Liste Zukunft 08) - einstimmig beschlossen
+- TOP 32: Haltestelle Am Eller Forst (Antrag Fraktion Liste Zukunft 08) - einstimmig beschlossen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - vertagt
+- TOP 39: Errichtung von Düsselbike-Stationen im Stadtbezirk 8 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 40: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 41: Hol- und Bringsituation an der GGS Richardstraße - zur Kenntnis genommen
+- TOP 42: Kissinger Straße - Erneuerung des Asphaltbelags - zur Kenntnis genommen
+- TOP 43: Containerstandort Neusalzer Weg - zur Kenntnis genommen
+- TOP 44: Tempo 30 auf einem Teilstück der Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 45: Überprüfung und Ausbesserung der Oberfläche des Gertrudisplatzes - zur Kenntnis genommen
+- TOP 46: Einrichtung Sitzplätze Bushaltestelle Reichenbacher Weg - zur Kenntnis genommen
+- TOP 47: Ludwigshafener Straße (Kanalsanierung) - zur Kenntnis genommen
+- TOP 48: Planungen zur künftigen Situation um Eller Süd S - zur Kenntnis genommen
+- TOP 49: Instandhaltung der Verkehrswege an der S-Bahnstation Eller Süd - zur Kenntnis genommen
+- TOP 50: Aufwertung Schloßallee - zur Kenntnis genommen
+- TOP 51: Überprüfung der Entscheidung zur Nichtinstallation einer Rotlicht- und Geschwindigkeitsüberwachungsanlage an der Vennhauser Allee Höhe Hausnummer 248 - zur Kenntnis genommen
+- TOP 52: An der Schützenwiese - zur Kenntnis genommen
+- TOP 53: Leerstand von Wohn- und Gewerbeimmobilien im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Genehmigung der Niederschriften vom 05.03.2026 - einstimmig beschlossen
+- TOP 55: Verschiedenes
