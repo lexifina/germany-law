@@ -1,0 +1,8 @@
+# TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion AN/0277/2026 betreffend: "Kosten der Unterkunft 2026: Was ist angemessener Wohnraum in Köln" vom 14.02.2026
+
+- Sitzung: 4. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren (2026-04-23)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/440571
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/202412
