@@ -1,0 +1,80 @@
+# 4. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-23T15:35:00+02:00
+- Ende: 2026-04-23T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/199
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34190
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34190
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zur Sicherung des Strukturförderfonds und der sozialen Strukturen in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 2: Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt - Kenntnis genommen
+- TOP 3: Mündlicher Bericht des Leiters des Rettungsdienstes der Berufsfeuerwehr Köln zu Hilfsleistungen im Zusammenhang mit der Brandkatastrophe von Crans-Montana - Kenntnis genommen
+- TOP 4: Gleichstellungsrelevante Themen
+- TOP 4.1: Förderprogramm Gleichstellung von Frauen und Männern 2026 - Kenntnis genommen
+- TOP 5: Integration und Vielfalt
+- TOP 5.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 5.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 5.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 5.3.1: Dokumentation zur Konferenz Interkulturelles Köln 2025 - Kenntnis genommen
+- TOP 5.3.2: Drittes Kölner Diskriminierungsmonitoring - Kenntnis genommen
+- TOP 6: Aktuelle Situation von Geflüchteten in Köln
+- TOP 6.1: Entwicklung der Unterbringungsressourcen für Geflüchtete bei der Stadt Köln bis einschließlich 2027 - Kenntnis genommen
+- TOP 6.2: Achter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 6.3: 46. und 47. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 6.4: I., II. und III. Quartalsbericht der Ombudsstelle für Flüchtlinge in Köln für 2025 - Kenntnis genommen
+- TOP 6.5: Zweiter Zwischenbericht über die Umsetzung des Chancen- Aufenthaltsrechts nach § 104 c AufenthG - Kenntnis genommen
+- TOP 6.6: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2025 - Kenntnis genommen
+- TOP 6.7: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 7: Arbeit
+- TOP 7.1: Jobcenter Köln
+- TOP 7.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 7.2: Arbeitsmarktförderung
+- TOP 8: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 9: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1: Konzept für die SeniorenNetzwerke Köln - geändert beschlossen
+- TOP 9.2: Anerkennung zweier neuer Interkultureller Zentren in Köln, hier: Europolis Köln e.V. und GIISH e.V. - ungeändert beschlossen
+- TOP 9.3: Förderung von Selbsthilfegruppen im Sozialbereich für das Jahr 2026 - ungeändert beschlossen
+- TOP 9.4: Verteilung der Fördermittel 2026 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 10: Ausschussempfehlungen an den Rat
+- TOP 10.1: Neufassung der Wahlordnung für die Wahl der Seniorenvertretung der Stadt Köln - vertagt
+- TOP 10.2: Neue Kölner Wohnraumschutzsatzung zum 01.07.2026 - ungeändert empfohlen
+- TOP 10.3: Rückbau der Grundstücksinfrastruktur im Hardtgenbuscher Kirchweg 104, 51107 Köln nach Abbau der Leichtbauhallen zur Unterbringung von geflüchteten Menschen - ungeändert empfohlen
+- TOP 10.4: Neue Entgeltordnung Desinfektorenschule - vertagt
+- TOP 11: Ausschussempfehlungen an andere Ausschüsse
+- TOP 12: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 12.1: Anfragen und Beantwortungen aus früheren Sitzungen
+- TOP 12.1.1: Kosten der Unterkunft 2026: Was ist angemessener Wohnraum in Köln? - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion AN/0277/2026 betreffend: "Kosten der Unterkunft 2026: Was ist angemessener Wohnraum in Köln" vom 14.02.2026 - Kenntnis genommen
+- TOP 12.1.2: Beantwortung einer mündlichen Anfrage zu den Kürzungen bei Integrationskursen aus der Sitzung vom 26.02.26 unter TOP 11.4 - Kenntnis genommen
+- TOP 12.2: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 12.2.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Umwelt, Klima und Grün vom 22.01.2026 betr. "Verwendung Kölner Stadtholz" (AN/0093/2026) - Kenntnis genommen
+- TOP 12.2.2: Beantwortung einer Anfrage im Ausschuss für Chancengerechtigkeit und Integration des Mitglieds Ali Esen zum Thema Ausländeramt (AN/0228/2026) - Kenntnis genommen
+- TOP 12.3: Aktuelle Anfragen und Beantwortungen
+- TOP 12.3.1: Transparenz über die Sicherstellung und Verwahrung digitaler Geräte von ausreisepflichtigen Personen - vertagt
+- TOP 12.3.2: Bearbeitungszeit im Ausländeramt der Stadt Köln - vertagt
+- TOP 12.3.3: Informations- und Unterstützungsangebote im Bereich Opferschutz - vertagt
+- TOP 12.3.4: Verhinderung von Obdachlosigkeit: Anfrage zu Einfachhotels und Belegrechtswohnungen - vertagt
+- TOP 12.3.5: Schwangerschaftsabbrüche in Köln – Aktuelle Versorgungslage - vertagt
+- TOP 12.3.6: Kennzahlen der Sozialpsychiatrischen Zentren in Köln - vertagt
+- TOP 12.3.7: Pflichtaufgaben im Dezernat V und ihre Auswirkungen auf den städtischen Haushalt - vertagt
+- TOP 13: Mündliche Anfragen aus aktuellem Anlass
+- TOP 14: Mitteilungen
+- TOP 14.1: Umsetzung des Ratsbeschlusses AN/1056/2025 vom 03.07.2025 - Mieten runter! Mietpreisüberhöhung und Mietwucher effektiv bekämpfen und verhindern - Kenntnis genommen
+- TOP 14.2: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2025 - Kenntnis genommen
+- TOP 14.3: Sofortmaßnahmen gegen die Wohnungsnot von Studierenden - Zwischennutzung städtischer Flächen für Wohnraum und sofortiger Ausbau alternativer Wohnformen - Kenntnis genommen
+- TOP 14.4: Jahresbericht 2025 zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 14.5: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2025 - Kenntnis genommen
+- TOP 14.6: Bewilligung des Förderantrags „kinderstark – NRW schafft Chancen“ 2026 vom Ministerium für Kinder, Jugend, Familie, Gleichstellung, Flucht und Integration des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 14.7: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 14.8: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2025 - Kenntnis genommen
+- TOP 14.9: Umgang mit rückständigen, sozialleistungsrechtlich nicht erstattungsfähigen Nutzungsgebühren von städtisch untergebrachten Geflüchteten in Folge der Satzungsänderung 2024 - Kenntnis genommen
+- TOP 14.10: Mitteilung zum Jahresbericht 2025 Substitutionsambulanz Neumarkt - Kenntnis genommen
+- TOP 14.11: Strukturförderfonds 2026 - Kenntnis genommen
+- TOP 14.12: Auswertung der Kölner Bautätigkeitsstatistik 2025: Viele Baufertigstellungen bei schwachen Baugenehmigungszahlen - Kenntnis genommen
