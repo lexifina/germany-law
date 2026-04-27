@@ -1,0 +1,85 @@
+# 5.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-27T17:00:00+02:00
+- Ende: 2026-04-27T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34105
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34105
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Frau Stadtdirektorin Andrea Blome
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Fragen zur Nettobilanz der Stadtbäume im Bezirk Mülheim im Zeitraum 2019 bis 2025 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Installation beheizter Einhausungen zur Installationen "Blitzeranlagen" auf der Zoobrücke - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Mülheim vom 12.05.2025 (AN/0493/2025) betreffend "Wann wird der Geh- und Radweg am Peter-Baum-Weg endlich umgesetzt?" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung eine schriftlichen Anfrage des Einzelmandatsträgers Hengstenberg (AfD) aus der Sitzung der Bezirksvertretung Mülheim vom 27.11.2023 (AN/1924/2023) - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage des Einzelmandatsträgers Hengstenberg (AfD) aus der Sitzung der Bezirksvertretung Mülheim vom 17.04.2023 (AN/0619/2023) betreffend "Erstellung des Fahrradnetz, Kosten" - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer schriftlichen Anfrage der DIE LINKE zur Sitzung der Bezirksvertretung Mülheim am 15.05.2023 - Kenntnis genommen
+- TOP 7.1.6: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der BV Mülheim vom 08.12.2025 (AN/1420/2025) betreffend "Einrichtung einer wassergebundenen Wegedecke am Gut Klosterhof und Seniorenzentrum Herz-Jesu-Stift" - Kenntnis genommen
+- TOP 7.1.7: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Mülheim vom - Kenntnis genommen
+- TOP 7.1.8: Beantwortung der Anfrage AN/0392/2026 der AfD-Fraktion zum Thema "marode Schulen" - Kenntnis genommen
+- TOP 7.1.9: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Mülheim vom 16.03.2026 betreffend "Details zum barrierefreien Ausbau der S-Bahn-Haltestelle Dellbrück & Holweide" (AN/0369/2026) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Wasserspender auf der TreffArena in Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.2: Der Carlsgarten muss bleiben ! - Kenntnis genommen
+- TOP 7.2.3: Sachstand Leih-E-Scooter im Bezirk Mülheim - Kenntnis genommen
+- TOP 7.2.4: Sachstand ehemalige LEG-Siedlung in Köln-Höhenhaus - Kenntnis genommen
+- TOP 7.2.5: Entfernung von Treibgut auf dem Stammheimer Ufer - Kenntnis genommen
+- TOP 7.2.6: Personalbemessung Schulhausmeister KGS Urnenstraße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Prüfung und Neuordnung der Nutzung der Freifläche am Grafenmühlenweg gegenüber Hausnummer 88 - vertagt
+- TOP 8.1.2: Verzicht auf Errichtung eines Windrads am Großklärwerk in Köln-Stammheim - vertagt
+- TOP 8.1.3: Prüfauftrag – Abfallbehälter auch in Bussen und Bahnen der KVB zur Verfügung stellen - ungeändert beschlossen
+- TOP 8.1.4: Regelmäßige Säuberung und Instandhaltung von steinernen Sitzmöglichkeiten und Bepflanzung dreier Baumscheiben im Bereich der Rampe Buchheimer Straße - ungeändert beschlossen
+- TOP 8.1.5: Erforderliche Verkehrssicherheit für Fahrradfahrende auf der Mülheimer Freiheit überprüfen und herstellen - ungeändert beschlossen
+- TOP 8.1.6: Sichere Alternative für die Schranke an der Einmündung Zeisbuschweg und Dünnwalder Mauspfad zeitnah prüfen und umsetzen - ungeändert beschlossen
+- TOP 8.1.7: Begrünung und Sitzmöglichkeiten auf der Dellbrücker Hauptstraße für mehr Lebens- und Aufenthaltsqualität - vertagt
+- TOP 8.1.8: Umgehende Nachbesetzung der Hausmeisterstelle am Grundschulstandort Urnenstraße in Köln-Dellbrück sicherstellen ! - ungeändert beschlossen
+- TOP 8.1.9: Carlsgarten erhalten ! - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Baubeschluss für den Rückbau der Straßenbrücke "Am Flachsrosterweg" - geändert beschlossen
+- TOP -: Baubeschluss für den Rückbau der Straßenbrücke "Am Flachsrosterweg" - geändert beschlossen
+- TOP 9.1.2: Aufstellung von Fahrgastunterständen (FGU) im Busbereich hier: Umsetzung des Werbenutzungsvertrages und weiteres Vorgehen - ungeändert beschlossen
+- TOP 9.1.3: Vergabe der bezirksorientierten Mittel für das Haushaltsjahr 2026 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ungeändert empfohlen
+- TOP 9.2.2: Berufung Mitglieder der Ständigen Jury Mülheimer Süden - ungeändert empfohlen
+- TOP 9.2.3: Aufstellungsbeschluss zur 15. Änderung des Landschaftsplans Köln - ungeändert empfohlen
+- TOP 9.2.4: Konzept Öffentlichkeitsbeteiligung für den Grünzug Flittard - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Fahrbahnerhöhung am Zebrastreifen vor dem Erich-Gutenberg-Berufskolleg Köln, Aktenzeichen 172/25 - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO– „Beleuchtung des Thymianweg sowie im gesamten Park“, Aktenzeichen 06/26 - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - „Einrichtung einer Warnampel Frankfurter Straße“, Aktenzeichen 16/26 - Kenntnis genommen
+- TOP 10.2.7: Sachstandsbericht zur temporären Beschilderung der RadPendlerRoute 2 anlässlich der aktuellen Sperrung der S11 - Kenntnis genommen
+- TOP 10.2.8: Niederschrift zur 11.Sitzung der Ständigen Jury Mülheimer Süden am 15.12.2025 - Kenntnis genommen
+- TOP 10.2.9: Niederschrift zur 21. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 17.03.2026 - Kenntnis genommen
+- TOP 10.2.10: Prüfergebnis der Verwaltung zur Wiederherstellung des Mülheimer Anlegers - Kenntnis genommen
+- TOP 10.2.11: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 10.2.12: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.13: Nachhaltiger Mobilitätsplan „Besser durch Köln“ – Bisherige Ergebnisse und weiterer Prozess - vertagt
+- TOP 10.2.14: Bauvorhaben "Circus-Roncalli-Weg 7 - Kenntnis genommen
+- TOP 10.2.15: Sanierungen städtische Rheinbrücken – aktueller Sachstand - Kenntnis genommen
+- TOP 10.2.16: Machbarkeitsstudie für ein Expressbusnetz in Köln - Kenntnis genommen
+- TOP 10.2.17: Ampelkoordination Clevischer Ring / Von-Lohe-Straße optimieren - Kenntnis genommen
+- TOP 10.2.18: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2025 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
