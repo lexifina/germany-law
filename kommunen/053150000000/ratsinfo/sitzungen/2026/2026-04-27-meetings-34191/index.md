@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-27T15:00:00+02:00
+- Ende: 2026-04-27T16:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34191
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34191
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01093768.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01093768.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01093768.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Gymnasiale Nutzung des Standorts Lotharstr. 14-18, 50937 Köln Lindenthal, hier: Bedarfslage - Kenntnis genommen
+- TOP 2.2: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2025 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion Bündnis 90/Die Grünen vom 22.04.2026 betreffend "Nutzung Turmstraße 5-7" - vertagt
+- TOP 4.2: Anfrage der Fraktion Die Linke vom 22.04.2026 betreffend "Partizipationsmöglichkeiten von Schulgemeinschaften und Anwohner*innen bei Bauprojekten" - vertagt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und SPD vom 22.04.2026 betreffend "Sachstand Entlastung der Förderschulen Geistige Entwicklung" - vertagt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 25.02.2026 betreffend "Konzept zum KLASSE-Projekt" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 24.04.2026 - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 25.02.2026 betreffend "Schüler*innenströme in den Stadtbezirken" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 24.03.2026 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Ergänzende Mitteilung zur Beantwortung der Anfrage AN/0302/2026 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.3: Anfrage der Fraktion SPD vom 24.02.2026 betreffend "Sachstand Neubau Helios-Schulcampus nach Vertragsaufhebung Architekturbüro" - vertagt
+- TOP 6: Empfehlungen
+- TOP 6.1: Bildung eines Teilstandortes für das Friedrich-Wilhelm-Gymnasium, Severinstr. 241, 50676 Köln - ungeändert empfohlen
+- TOP 6.2: Aktualisierung der Satzung für die Rheinische Musikschule - ungeändert empfohlen
+- TOP 6.3: Anmietung eines Modulbaus und Sanierung der naturwissenschaftlichen Unterrichtsräume im Bestandsgebäude des Erich-Kästner-Gymnasiums, Castroper Straße 7 - ungeändert empfohlen
+- TOP 6.4: Erweiterung des Bildungsgangs Berufsfachschule Typ I am Berufskolleg Porz von einem auf zwei Züge - ungeändert empfohlen
+- TOP 6.5: Schulrechtliche Änderung der Kapazität der GHS Bilderstöckchen, Reutlinger Str. 49, 50739 Köln-Bilderstöckchen, von 3,5 auf 2 Züge ab Sj. 2027/2028 - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand SJ 2024/25 - Kenntnis genommen
+- TOP -: Nachfragen zu TOP 8.1 Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage im Ausschuss Schule und Weiterbildung am 19.01.2026 der Fraktion Bündnis 90/DIE GRÜNEN zu TOP 8.1 "Bildungsmonitoring Inklusionsentwicklung an Kölner Schulen" (AN/0053/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer mündlichen Anfrage der SPD-Fraktion im ASW am 19.01.2026 betreffend "TOP 8.1 (AN/0053/2026) Bildungsmonitoring Inklusonsentwicklung an Kölner Schulen (2914/2025) - Kenntnis genommen
+- TOP 8.2: Beantwortung einer Anfrage (AN/0300/2026) der FDP-Fraktion im Sportausschuss bezüglich des Sachstands der geschlossenen Schulschwimmbäder - Kenntnis genommen
+- TOP 8.3: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2025 - Kenntnis genommen
+- TOP 8.4: Gestaltung der Schullandschaft im Stadtbezirk Innenstadt betreffend Gymnasium Neustadt-Nord - Katholische Hauptschule am Rhein - Weiterbildungskollegs - Kenntnis genommen
+- TOP 8.5: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 8.6: Dokumentation zur Konferenz Interkulturelles Köln 2025 - Kenntnis genommen
+- TOP 8.7: Beantwortung einer mündlichen Anfrage von RM Aengenvoort aus der Sitzung des Ausschusses Schule und Weiterbildung vom 19.01.2026 bezüglich eines Sachstands zur Mängelbeseitigung an der Grundschule Am Portzenacker - Kenntnis genommen
+- TOP 8.8: Evaluation in neun Kölner Familiengrundschulzentren - Kenntnis genommen
+- TOP 8.9: Kinderbefragung als Teilschritt der Evaluation in neun Kölner Familiengrundschulzentren - Kenntnis genommen
+- TOP 8.10: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 8.11: Schulentwicklungspreis 2026 "Gute gesunde Schule" für James-Krüss-Schule, GGS Zehnthofstraße in Köln-Ostheim - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.12: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.13: Prävention von Kinderarmutsfolgen in Köln - Kenntnis genommen
+- TOP 8.14: Beantwortung einer mündlichen Anfrage von Constanze Aengenvoort (CDU) aus der Sitzung des ASW vom 02.03.2026 betreffend "Sachstandsbericht Lernmittelfreiheit" - Kenntnis genommen
+- TOP 8.15: Beantwortung der mündlichen Anfrage der Ausschussvorsitzenden Frau Bürgermeister aus der Sitzung des Ausschusses Kunst und Kultur vom 29.01.2026 bezüglich der Interimsnutzung an der Lotharstraße 14-18 - Kenntnis genommen
+- TOP 8.16: Fonds Kubik Juryentscheid aus der KuK-Sitzung vom 12.03.2026 - Kenntnis genommen
+- TOP 8.17: Schulhoföffnung an Kölner Schulen - Aktueller Stand - Kenntnis genommen
+- TOP 8.18: Beantwortung einer schriftlichen Anfrage (AN/0269/2026) betreffend "Mehrsprachigkeit in Köln - Schwerpunkt Herkunftssprachlicher Unterricht" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
