@@ -955,6 +955,7 @@ In der nachstehenden Tabelle bedeuten:
 | 5.1.2.2.2 | Erhöhung der Gebühr nach Nummer 5.1.2.1, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird | Nach Zeitaufwand |
 | 5.1.2.3 | Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.1.2.1 und 5.1.2.2 | 858 |
 | 5.1.2.4 | Standardänderungen (Standard timetable) | 2 400 |
+| 5.1.2.4.1 | Standardänderungen G.I.18 | 1 200 |
 | 5.1.2.5 | Beteiligung des Umweltbundesamtes |  |
 | 5.1.2.5.1 | Erhöhung der Gebühr nach Nummer 5.1.2.4, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird | Um 3 627 |
 | 5.1.2.5.2 | Erhöhung der Gebühr nach Nummer 5.1.2.4, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird | Nach Zeitaufwand |
@@ -1035,7 +1036,10 @@ In der nachstehenden Tabelle bedeuten:
 |  | Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummern a)1.1 bis 1.9,b)2.1.1.1 bis 2.1.5.2,c)2.2.1.1 bis 2.2.3.2,d)3.1.1.1 bis 3.1.9,e)3.2.1.1 bis 3.2.8,f)5.1.1 bis 5.3.3,g)6 undh)7 | In tatsächlich entstandener Höhe |
 Tabelle 2
 Vorbemerkung:
-Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf Tierarzneimittel und veterinärmedizintechnische Produkte im Anwendungsbereich des Tierarzneimittelgesetzes. Für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf immunologische Tierarzneimittel im Sinne des § 11 Absatz 1 Satz 1 des Tiergesundheitsgesetzes, die gemäß § 3 Absatz 4 Nummer 1 des Tierarzneimittelgesetzes vom Anwendungsbereich des Tierarzneimittelgesetzes ausgenommen sind, gilt die Besondere Gebührenverordnung BMEL.
+Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf Tierarzneimittel und veterinärmedizintechnische Produkte im Anwendungsbereich des Tierarzneimittelgesetzes. Die Besondere Gebührenverordnung BMEL ist anzuwenden für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf immunologische Tierarzneimittel nach Artikel 4 Nummer 5 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022, die bestimmt sind zur
+1. Vorbeugung von Seuchen oder Heilung von Seuchen,
+2. Erkennung von Seuchen oder
+3. Erzeugung einer unspezifischen Reaktion des Immunsystems.
 | Gebührenerhebende Behörde: Paul-Ehrlich-Institut (PEI) |
 | Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
 | 1 | Nationale Zulassung |  |
