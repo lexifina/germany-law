@@ -1,0 +1,103 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-04-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379305
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379305
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 31.03.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 31.03.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Einziehung einer Teilstrecke der Halserspitzstraße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Heinrich-Wieland-Str. 27 - Errichtung eines Mehrfamilienhauses (12 WE) mit Tiefgarage (12 STPL)
+- TOP 3.1.2.: Kranzhornstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Doppelhauses- ÄNDERUNGSANTRAG
+- TOP 3.1.3.: Truderinger Str. 76 - Neubau einer Wohnanlage (201 WE) sowie einer Kindertagesstätte und Tiefgarage - ÄNDERUNGSANTRAG
+- TOP 3.1.4.: Kreillerstr. 51 - Aufstockung auf bestehende Wohngebäude mit einem Vollgeschoss
+- TOP 3.1.5.: Michaeliburgstr. 21 - Nutzungsänderung von Hotel in Kindertagesstätte
+- TOP 3.1.6.: Pilotversuch für Tauben- und Krähenvergrämung am Grünen Markt und Teilen des Behrparks; Antrag der Freien Wähler/ÖDP-Fraktion
+- TOP 3.1.7.: Bedenken zur weiteren Einschränkung nutzbarer Grünflächen für Hundehalter in Berg am Laim; Anliegen aus der Bürgerschaft
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Neues Radverkehrsnetz für München, stadtbezirksübergreifende Radverkehrsverbindungen; Anhörung des Mobilitätsreferats, Frist bis zum 05.05.2026
+- TOP 3.2.2.: Änderung Haltverbot und PKW-Parken in der Berg-am-Laim-Str.; Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: Einsatz platzsparender und gestalterisch integrierter Ladeinfrastruktur für E-Autos im öffentlichen Raum; Antrag der CSU-Fraktion
+- TOP 3.2.4.: Bus 195: Halten auf Wunsch nach 21 Uhr wieder am Hochbunker (Waldstr./Ecke Sonnwendjochstr.) ermöglichen; Antrag der Freien Wähler/ÖDP-Fraktion
+- TOP 3.2.5.: Verlegung von Carsharing-Parkplätzen in der Bad-Kreuther-Straße 2; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Buserweiterung am Innsbrucker Ring; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage: Offene, kostenlose Spielaktion des BiLoks und FreizeitSports für Kids und Teens am Piusplatz vom 27.-29.05.2026; Anhörung des Kreisverwaltungsreferats, Frist bis zum 12.05.2026
+- TOP 3.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage: "Fahrradsicherheitscheck" und „Mobile Fahrradwerkstatt“ am 29.06.2026 an der St. Michael Str./Heinrich-Wieland-Str.; Anhörung des Kreisverwaltungsreferats, Frist bis zum 12.05.2026
+- TOP 3.3.3.: Veranstaltung im Freien in einer städtischen Grünanlage: "Graffiti-Workshop für Jugendliche" am 12.06.2026 in der Virgilstraße 9; Anhörung des Kreisverwaltungsreferats, Frist bis zum 26.05.2026
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Verlängerung bestehender dezentraler kommunaler Unterkünfte für Geflüchtete an Standorten; Anhörung des Sozialreferats, Frist bis zum 30.04.2026
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Interkultureller Kindertag am 09.05.2026 823,50 €; Az. 0262.100-14-0497
+- TOP 3.5.2.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. Garderobenständer für persönliche Schutzausrüstung 1.227,18 €; Az. 0262.100-14-0499
+- TOP 3.5.3.: (E) Stadtbezirksbudget Kindertheater Fraunhofer - GbR "Tischgeschichten" (Arbeitstitel) vom 15.06. - 02.07.2026 2.000,00 €; Az. 0262.100-14-0500
+- TOP 3.5.4.: (E) Stadtbezirksbudget AKA e.V. - Aktiv für Interkulturellen Austausch e.V. Ferienfreizeit Venetien: Gemeinschaft, Kultur und Bewegung vom 25.05. - 28.05.2026 6.240,00 Euro, Az.: 0262.100-14-0496
+- TOP 3.5.5.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e. V. Maifeier 2026 am 01.05.2026 2.047,00 €; Az. 0262.100-14-0498
+- TOP 3.5.6.: Amtsblatt der Landeshauptstadt München bereits am Erscheinungstag Allen gratis zugänglich machen und als Newsletter-Abo anbieten; Antrag der Freien Wähler/ÖDP-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kreillerstr. 51
+- TOP 3.6.2.: Michaeliburgstr. 21
+- TOP 3.6.3.: Fehwiesenstr. 53
+- TOP 3.6.4.: Hansjakobstr. 48a
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten März 2026
+- TOP 4.1.2.: Begrünung der neu asphaltierten Fläche vor der Feuerwache in der Anzinger Str., Rückmeldung vom Baureferat
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Antrag des BA 14 zu erlaubtem und abmarkiertem Gehwegparken in der Großvenedigerstraße
+- TOP 4.2.2.: 100 Jahre Trambahn Berg am Laim angemessen feiern
+- TOP 4.2.3.: Hermann-Weinhauser-Straße: Was ist mit dem eingefärbten Fahrbahnbelag passiert?
+- TOP 4.2.4.: Grüne Welle für Radverkehr auf der Berg-am-Laim-Straße zwischen Ampfing-und Dinglolfinger Straße - vertagt aus der Plenumssitzung vom 31.03.2026 -
+- TOP 4.2.5.: Ungenutzte Flächen an der Tram-Wendeschleife St.-Veit-Straße zugänglich machen
+- TOP 4.2.6.: Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP 4.2.7.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP 4.2.8.: Absolutes Haltverbot in der Trausnitzstr. Ecke Gammelsdorfer Str.
+- TOP 4.2.9.: Einseitiges absolutes Haltverbot in der Großvenedigerstr. zwischen Heinrich-Wieland-Str. und Hachinger-Bach-Str.
+- TOP 4.2.10.: Zweckentfremdung
+- TOP 4.2.11.: Zusätzlicher Abstellplatz für E-Roller in der Langkofelstr.
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Bestätigung und Flächenreservierung im Behrpark, Sommerfest Eltern-Kind-Initiative AliBaba e.V. am 11.07.2026
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Nadelbaum an der Baumkirchner Straße 18 pflanzen - vertagt aus der Plenumssitzung vom 31.03.2026 -
+- TOP 4.6.2.: Freilassinger Str. 15
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.8.: Anbau eines Wintergartens; Anliegen aus der Bürgerschaft
+- TOP 3.6.5.: Heinrich-Wieland-Str. 27
+- TOP 4.1.3.: Einrichtung eines betreuten Taubenschlags, Rückschreiben KVR
+- TOP 1.1.1.: Nachtrag TOP 2.2: August-Everding-Str. 24 - Beschlussvorlage zur Erteilung einer Sondernutzungserlaubnis (Freischankfläche)
+- TOP 1.1.2.: Nachtrag TOP 3.1.8: Anbau eines Wintergartens; Anliegen aus der Bürgerschaft
+- TOP 1.1.3.: Nachtrag TOP 3.6.5: Heinrich-Wieland-Str. 27
+- TOP 1.1.4.: Nachtrag TOP 4.1.3: Einrichtung eines betreuten Taubenschlags, Rückschreiben KVR
+- TOP 2.2.: August-Everding-Str. 24 - Beschlussvorlage zur Erteilung einer Sondernutzungserlaubnis (Freischankfläche)
+- TOP 1.1.5.: Nachtrag TOP 3.5.7: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park 2026 vom 06.05. - 26.08.2026 2.528,36 €; Az. 0262.100-14-0503
+- TOP 3.5.7.: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park 2026 vom 06.05. - 26.08.2026 2.528,36 €; Az. 0262.100-14-0503
