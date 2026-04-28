@@ -1,0 +1,8 @@
+# TOP -: Radpendlerroute statt Radschnellweg Köln-Frechen
+
+- Sitzung: 4. Sitzung des Mobilitätsausschusses (2026-04-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/442929
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/202910
