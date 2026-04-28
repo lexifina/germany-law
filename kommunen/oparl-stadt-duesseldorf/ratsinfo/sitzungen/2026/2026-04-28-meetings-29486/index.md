@@ -1,0 +1,61 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-04-28T17:00:00+02:00
+- Ende: 2026-04-28T18:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29486
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29486
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584271.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584271.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584271.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 24. Februar 2026 - öffentlicher Teil - einstimmig beschlossen
+- TOP 3: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - einstimmig beschlossen
+- TOP 4: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - Behindertenrat - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - mündlicher Bericht der Polizei
+- TOP -: Verwaltungsvorlagen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2026 (Liste B), Maßnahmen an diversen Kita-Einrichtungen - einstimmig beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2026 (Liste B), Beseitigung von Graffiti und Bewuchs an Kunstgegenständen und Denkmälern im öffentlichen Straßenraum und in Grünanlagen des Stadtbezirks 5 - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2026 (Liste B), Errichtung einer Terrasse an der Freiwilligen Feuerwehr Angermund, Freiheitshagen 33 - einstimmig beschlossen
+- TOP 16: Trödelmärkte auf dem Messeparkplatz P1 am 24. Mai 2026 und 28. Juni 2026 - einstimmig beschlossen
+- TOP 17: Marktveranstaltung "Trödel & Genuss" am 6. September 2026 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 18: Wohnungsbau im Stadtbezirk 5 - beantwortet
+- TOP 19: Einsatzlage im Zusammenhang mit Feuerwerk in den Silvesternächten 2024/25 und 2025/26 im Stadtbezirk 5 - beantwortet
+- TOP 20: Erhebliche Störung des Verkehrs des Düsseldorfer Nordens durch mangelhafte Koordinierung von Baustellen - vertagt
+- TOP -: Neue Anfragen
+- TOP 21: Wird eine Grundwasser Förderung und Grundwasser Nutzung ab 1.10.2027 in Kaiserswerth und Lohausen wieder möglich sein trotz PFT Verbleibens im Grundwasser? - beantwortet
+- TOP 22: Führt die Benennung der neuen U 80 nicht zu Missverständnissen und zu großen Problemen in der Bevölkerung? - vertagt
+- TOP 23: Nachnutzung Leuchtenberger Hof und Nagelshof in Lohausen - beantwortet
+- TOP 24: Zustand mehrerer Straßenbäume an der Arnheimer Straße - beantwortet
+- TOP 25: Wie ist der Stand der Planung für den Supermarkt in Kaiserswerth? - beantwortet
+- TOP 26: Wann und wie wird die Straßenoberfläche in der Unterdorfstraße wieder hergestellt? - beantwortet
+- TOP 27: Herstellung von Markierungen der Parkstände in der Straße Zum Hohen Bröhl - beantwortet
+- TOP 28: Graffitis und Verschmutzungen an der Toilettenanlage im Nordpark - beantwortet
+- TOP -: Anträge
+- TOP 29: Gewerbe und Infrastruktur in Lohausen erhalten - abweichend beschlossen
+- TOP 30: Tempo 30 auf der Heltorfer Schlossallee - mehrheitlich abgelehnt
+- TOP 31: Herstellung der Barrierefreiheit an den Räumlichkeiten für Beerdigungen auf dem Friedhof Angermund - einstimmig beschlossen
+- TOP 32: Sicherstellung der Pflege, Verkehrssicherheit und Gewässerunterhaltung im öffentlich zugänglichen Schlosspark Kalkum - einstimmig beschlossen
+- TOP 33: Zugangsregelung verbessern und Sicherung des Parkplatzes am Stadionweg im Bereich der Kleingartenanlagen gewährleisten! - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 34: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 35: Errichtung von Düsselbike-Stationen im Stadtbezirk 5 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 36: Düsseldorfer Zukunftspreis 2026: Handlungsfeld "Bekämpfung von Armutsfolgen" im Fokus - zur Kenntnis genommen
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes
+- TOP 39: Zuschuss an den Tennisclub Rheinstadion e.V. - einstimmig beschlossen
