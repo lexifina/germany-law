@@ -1,0 +1,76 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-04-28T16:00:00+02:00
+- Ende: 2026-04-28T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29635
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29635
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584769.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584769.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584769.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/002/2026 vom 10.03.2026 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Fußgänger-Beauftragte - mündlicher Bericht zum Beschluss der Bezirksvertretung 2, Vorlage BV2/126/2025 - zur Kenntnis genommen
+- TOP 4.2: Errichtung von Düsselbike-Stationen im Stadtbezirk 2 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 4.3: Wohngebiet rund um den Lindenplatz – Einrichtung eines Bewohnerparkgebietes (LI) - Empfehlung mehrheitlich beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Abbruch der Garagen, Werkhalle und zweigeschossiges Gebäude auf der Bruchstraße 70 - mehrheitlich beschlossen
+- TOP 4.9: Abbruchantrag, Hoffeldstraße 43 – Abbruch des vorhandenen Wohn- und Geschäftshauses - mehrheitlich abgelehnt
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2026 Liste A Schulen 2121101/52415200 - einstimmig beschlossen
+- TOP 4.11: Bezirkssportanlage Windscheidstraße – Modernisierung der Wettkampfanlage - einstimmig beschlossen
+- TOP 4.12: Radschlägermarkt an der Metro im 2. Halbjahr des Jahres 2026 - einstimmig beschlossen
+- TOP 4.13: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für das Straßenfest auf der Birkenstraße - mehrheitlich beschlossen
+- TOP 4.14: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag des Integrationszentrum Leben und Lernen - mehrheitlich beschlossen
+- TOP 4.15: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag der Montessori-Grundschule (NEIN-Tonne) - einstimmig beschlossen
+- TOP 4.16: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für Flingern Lichtspiele - mehrheitlich beschlossen
+- TOP 4.17: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für das Projekt Young Film Lab - mehrheitlich beschlossen
+- TOP 4.18: Masterplan Jugend- und Bolzplätze, Umgestaltung Hermannplatz - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Übersicht über Leerstände von Ladenlokalen im Stadtbezirk 2 und mögliche Maßnahmen zur Belebung der Geschäftsstraßen - Antrag der AFD-Fraktion - mehrheitlich abgelehnt
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Verbesserung für Fußgänger*innen an der LSA Schlüterstraße/Grafenberger Allee - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 5.4: Erweiterung Kabawil - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.5: Begrünung des Kioskgebäudes auf dem Hermannplatz - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.6: Sicherheit für Fußgehende im Bereich der Kreuzung Grunerstraße / Mathildenstraße - Antrag der Fraktion BÜNDNIS 90)DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.7: Konzept und Realisierung des Pocketpark-Vorhabens im Bereich des Stadtbezirks 2 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.8: Beseitigung der Farbreste im Bereich der Nachbarschaftszone am Paulusplatz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5.9: Telefonzelle Rethelstraße - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 5.10: Hundekotbeutel Höherweg - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 5.11: Parkmarkierungen für die Holbeinstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 5.12: Einrichtung eines Zebrastreifens am Übergang Bruchstraße vor REWE - Antrag der Fraktion Die Linke - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Sperrmüll hinter dem Eisstadion an der Brehmstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.5: Sachstand zur Verlegung des Drogenhilfezentrums an der Flurstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.6: Haltestellen Engerstraße -Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Baustelleneinrichtung Kettwiger Straße 16-22 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 7.4: Sachstand und Zeitplanung zur Umsetzung der Radleitroute 2 -- Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 7.5: Feierabendparken auf dem Lidl-Parkplatz an der Bruchstraße - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Leerstandsmelder - Anfrage der Fraktion Die Linke - beantwortet
+- TOP 7.9: Kontrolle Hol- und Bringzone Brehmschule - Anfrage der Fraktion Die Linke - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Baumpflanzung am Brehmplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/179/2025 - zur Kenntnis genommen
+- TOP 8.2: Radwege an Haltestellen - Beschluss der Bezirksvertretung 2, Vorlage BV2/072/2026 - zur Kenntnis genommen
+- TOP 8.3: Vorschläge und Anregungen der Bezirksvertretung 2 zum Haushalt 2026 - zur Kenntnis genommen
+- TOP 8.4: Instandsetzung des Bolzplatzes an der Eduard-Schloemann-Straße 55 - Beschluss der Bezirksvertretung 2, Vorlage BV2/051/2026 - zur Kenntnis genommen
+- TOP 8.5: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 8.6: Aufstellung von Tischtennisplatten an der Kühlwetterstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/057/2026 - zur Kenntnis genommen
