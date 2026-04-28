@@ -1,0 +1,90 @@
+# 4. Sitzung des Mobilitätsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-28T16:00:00+02:00
+- Ende: 2026-04-28T18:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34375
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34375
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Radpendlerroute statt Radschnellweg Köln-Frechen - endgültig zurückgezogen
+- TOP -: Radpendlerroute statt Radschnellweg Köln-Frechen - Kenntnis genommen
+- TOP 1.2: Parkplatz-Dashboard - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 1.3 – Parkplatz-Dashboard - geändert beschlossen
+- TOP -: Parkplatz-Dashbord hier: Antrag der Fraktion der Fraktion Bündnis 90/die Grünen vom 19.02.2026 TOP 1.3 - Kenntnis genommen
+- TOP 1.3: Baustellenumsetzungsmanagement stärken! Effizienz, Koordination und Transparenz – mit KI verbessern - vertagt
+- TOP -: Änderungsantrag zu TOP 3.3. “Baustellenumsetzungsmanagement stärken! - endgültig zurückgezogen
+- TOP -: Änderungsantrag zum Antrag AN/0446/2026: „Baustellenumsetzungsmanagement stärken!" - vertagt
+- TOP 1.4: Nacht-Fußverkehrschecks durchführen – Angsträume beseitigen - geändert beschlossen
+- TOP 1.5: Sichere Kreuzungen und Querungen durch vorgezogene Seitenräume (Gehwegna-sen/“freie Ecken“ und „freie Strecken“) – Prioritäre Umsetzung als zentrales Instrument der Erhöhung der Verkehrssicherheit für ungeschützte Verkehrsteilnehmende - geändert beschlossen
+- TOP -: Sichere Kreuzungen und Querungen durch vorgezogene Seitenräume (Gehwegnasen/“freie Ecken“ und „freie Strecken“) – Umsetzung auch als Instrument für die Ordnung der Fahrrad-Leihsysteme - endgültig zurückgezogen
+- TOP -: Ergänzungsantrag zu AN/0598/2026 – Sichere Kreuzungen und Querungen (...) - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Mobilitätsausschuss)
+- TOP 3.1: Bedarfsfeststellungsbeschluss: Verkehrsuntersuchung zur Verträglichkeit einer geänderten Radverkehrsführung auf der Mülheimer Brücke – Vergabe einer freiberuflichen Leistung: MIKROSIMULATION - Von der Verwaltung abgesetzt
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - mit Änderungen empfohlen
+- TOP -: Machbarkeitsstudie einer vereinfachten Variante zur Stadion-Sonderhaltestelle - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu 0515/2025 - Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - mit Änderungen empfohlen
+- TOP -: Sonderhaltestelle Stadion: Weitere Prüfaufträge für einfachere Varianten - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu 0515/2025 - Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - ungeändert empfohlen
+- TOP 4.2: Satzung über die abweichende Herstellung der Erschließungsanlage Hitzelerstraße von Hitzelerstraße (in östliche Richtung) bis Wendebereich in Köln-Raderthal - ungeändert empfohlen
+- TOP 4.3: Satzung über die abweichende Herstellung der Erschließungsanlage Unter Buschweg von Rodderweg bis Industriestraße in Köln-Sürth - ungeändert empfohlen
+- TOP 4.4: 296. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Baubeschluss für den Neubau des Anschlusses der Militärringstraße/Stolberger Straße, des Kreisverkehrsplatzes Stolberger Straße/Wendelinstraße/Vitalisstraße, für die Umgestaltung der Anschlüsse d. Militärringstraße/Aachener Straße und Militärringstr. - ohne Votum behandelt
+- TOP 4.6: Grundsatzbeschluss zur Festlegung der ÖPNV-Erschließung für das Stadtentwicklungsprojekt Parkstadt Süd - vertagt
+- TOP -: Grundsatzbeschluss zur Festlegung der ÖPNV-Erschließung für das Stadtentwicklungsprojekt Parkstadt Süd - vertagt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Beantwortung einer schriftl. Anfrage der SPD-Fraktion aus der Sitzung des Mobilitätsausschusses am 20.01.2026 betr. "Auswirkungen und Gegenmaßnahmen der Stadt Köln bei der drohenden Doppelsperrung der linksrh. Bahnverbindung Köln-Bonn 2028-2030" - Kenntnis genommen
+- TOP 5.1.2: Beantwortung einer schriftl. Anfrage der CDU-Fraktion aus der Sitzung des Mobilitätsausschusses am 03.03.2026 betr. „Umgestaltung der Deutzer Freiheit“ (AN/0306/2026) - Kenntnis genommen
+- TOP 5.1.3: Auswertung des Adventsverkehrs 2025 in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der FDP/KSG Fraktion vom 13.01.2026 aus der Sitzung des MA vom 20.01.2026 betreffend „Auswertung des Adventsverkehrs 2025 in Köln“ - Kenntnis genommen
+- TOP 5.1.4: Sachstand L 82n, Umfahrungsstraße Zündorf - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Mobilitätsausschusses vom 03.03.2026 betreffend "Sachstand L 82n, Umfahrungsstrße Zündorf", AN/0303/2026 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.1.5: Sicherheit im Straßenverkehr durch Geschwindigkeitsanzeigetafeln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion SPD aus der Sitzung vom 03.03.2026 (AN/0311/2026) betreffend "Sicherheit im Straßenverkehr durch Geschwindigkeitsanzeigetafeln" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.1.6: Einrichtung von Schulstraßen in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung Mobilitätsausschuss vom 03.03.2026 (AN/0313/2026) betreffend "Einrichtung von Schulstraßen" - Kenntnis genommen
+- TOP 5.1.7: Beantwortung einer mündlichen Anfrage von RM Borchers aus der Sitzung des Mobilitätsausschusses vom 03.03.2026 (AN/1741/2022) betreffend „Sachstand zur Verkehrssituation in und an der Steyler Straße in Holweide“ - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Warnstreik in ganz NRW - doch nur in Köln stehen die Bahnen still! - vertagt
+- TOP 5.2.2: Politisches Begleitgremium Ost-West-Achse und Sachstände - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE im Mobilitätsausschuss vom 28.04.2026 betreffend "Politisches Begleitgremium Ost-West-Achse und Sachstände", AN/0582/2026 - Kenntnis genommen
+- TOP 5.2.3: Unterhaltskosten von Stadtbahntunneln - vertagt
+- TOP 5.2.4: Geschwindigkeitskontrollen auf Kölner Stadt-/Autobahnen und Schnellstraßen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen betreffend "Geschwindigkeitskontrollen auf Kölner Stadt-/Autobahnen und Schnellstraßen"(0654/2026) - vertagt
+- TOP 5.2.5: Sanierung der Neusser Landstraße (B9) in Köln-Worringen - vertagt
+- TOP 5.2.6: Zufahrt Dom Hotel - vertagt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: ÖPNV-Netzentwicklung - Sachstand 2025 - Kenntnis genommen
+- TOP 6.2.2: Inhalt und Ablauf von Planfeststellungsverfahren - Kenntnis genommen
+- TOP 6.2.3: Betriebsqualität im Schienenpersonennahverkehr in der Region Köln - Kenntnis genommen
+- TOP 6.2.4: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 6.2.5: Verwendung der Stellplatzablösemittel in den Jahren 2023 und 2024 - Kenntnis genommen
+- TOP 6.2.6: Sachstandsbericht Räumliches Entwicklungskonzept LiebigQuartier - Kenntnis genommen
+- TOP 6.2.7: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 6.2.8: Kölner Statistische Nachrichten 2/2026 Kraftfahrzeuge in Köln am 31.12.2025 - Kenntnis genommen
+- TOP 6.2.9: Bürgereingabe nach § 24 GO– „Maßnahmen zum Schutz Erholungssuchender in städtischen Grünanlagen-Tempo Lastenräder“, Aktenzeichen 37/24 S - Kenntnis genommen
+- TOP 6.2.10: Sachstandsbericht zur temporären Beschilderung der RadPendlerRoute 2 anlässlich der zu erwartenden Sperrungen der S11 - Kenntnis genommen
+- TOP 6.2.11: Vorlaufbetrieb S 13 – Betriebskonzept im Jahresfahrplan 2027 - Kenntnis genommen
+- TOP 6.2.12: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 6.2.13: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand: Wenig Abweichung auf gesamtstädtischer Ebene - Kenntnis genommen
+- TOP 6.2.14: Sanierungen städtische Rheinbrücken – aktueller Sachstand - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 6.2.15: Machbarkeitsstudie für ein Expressbusnetz in Köln - vertagt
+- TOP 6.2.16: Start der Beteiligung zum Modellprojekt „Lebenswertes Winzerveedel – Gut unterwegs, gerne da!“ - Kenntnis genommen
+- TOP 6.2.17: Adventsverkehr 2025: - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Sachstand zur Auslieferung der Niederflurbahnen von Alstom - Sache ist erledigt
+- TOP 7.2: Positionspapier zur Reform der ÖPNV-Finanzierung - Sache ist erledigt
+- TOP 7.3: Logistikzentrum Frankfurter Straße/Maarhäuser Weg - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.4: Beschluss zur Einführung einer Nahverkehrsabgabe - Sache ist erledigt
