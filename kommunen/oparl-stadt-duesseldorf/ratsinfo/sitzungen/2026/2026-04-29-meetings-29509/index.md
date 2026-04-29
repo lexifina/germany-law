@@ -1,0 +1,56 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-04-29T15:00:00+02:00
+- Ende: 2026-04-29T18:29:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29509
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29509
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 29.04.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584317.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung am 29.04.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584317.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung am 29.04.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584317.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/002/2026 vom 18.03.2025 - einstimmig beschlossen
+- TOP 3: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - Jugendrat - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 6: Verkehrliche Auswirkungen Rheinkirmes 2026 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 7: Errichtung einer Mobilitätsstation auf der Hansaallee vor dem Philippus-Platz - mehrheitlich beschlossen
+- TOP 8: Umgestaltung Simon-Gatzweiler-Platz - zur Kenntnis genommen
+- TOP 9: Ladesäule Hansaallee (zwischen Niederkasseler Kirchweg und Schwalmstraße) in Fahrtrichtung Lörick - Alter, Kosten und Ersatzplanung, Anfrage der AfD-Fraktion
+- TOP 10: Regelmäßige Lärmbelästigung des Heerdter Sandbergs, Anfrage der AfD-Fraktion
+- TOP 11: Wie sieht der Zeitplan für die Bebauung des Kirchengrundstücks St. Anna in Düsseldorf-Niederkassel aus?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 12: Instandsetzung von Gehwegen und Straßen: Brückenunterführung Brüsseler Straße (B7) und Löricker Deich, Anfrage der CDU-Fraktion
+- TOP 13: Löricker Wochenmarkt erhalten und Angebot verbessern - Attraktivität für Händler erhöhen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 14: Stillstehende Baustelle Greifweg 4 in unmittelbarer Nähe zum Belsenplatz - aktueller Sachstand und weiteres Vorgehen, Anfrage der Bezirksvertreterin Heidrun Leinenbach, CDU
+- TOP 15: Baumvandalismus im Feldmühlepark?, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 16: Neubau der linksrheinischen Feuerwache, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 17: Verkehrliche Auswirkungen durch den vorhabenbezogenen Bebauungsplan Nr. 25 „Südlich Böhlerstraße" in Meerbusch-Büderich?, Anfrage des Bezirksvertreters Marco Staack
+- TOP 18: Ladesäulen für E-Mobilität im linksrheinischen Düsseldorf?, Anfrage des Bezirksvertreters Marco Staack
+- TOP 19: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2026 Liste A Schulen 2121101/52415400 - einstimmig beschlossen
+- TOP 21: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2016 - Liste B) Sonstige Gebäude SAP-Konten 11111105001/1000/52415400/72415400, 1111105002/1000/52415400/72415400 und 1111105/1000/1000/53175400/7317500 - einstimmig beschlossen
+- TOP 22: Herstellung von Gleichbehandlung, Transparenz und Ausgewogenheit bei der Gestaltung öffentlicher Sitzbänke in Düsseldorf-Heerdt, Antrag der AfD-Fraktion - mehrheitlich abgelehnt
+- TOP 23: Außengastronomie, Antrag der AfD-Fraktion - mehrheitlich abgelehnt
+- TOP 24: Parken an E-Ladeinfrastruktur zwischen 22.00 Uhr und 07.00 Uhr, Antrag des Bezirksvertreters Brien Dorenz, FDP - abweichend beschlossen
+- TOP 25: Fahrradstellplätze auf der Schorlemerstraße, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 26: Bäume pflanzen auf der Niederkasseler Straße zwischen Kanalstraße und Beim Dorf, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 27: Sockel des Denkmals "Abschied" sanieren, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 28: Soziale Erhaltungssatzung für die Neuwerker Straße in Heerdt, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 29: Einrichtung von beidseitigen Parkbeschränkungen am Kaiser-Friedrich-Ring zur Vermeidung von Dauer- und Großparkern (LKW, Wohnwagen, Transporter, Werbeanhänger, Bootsanhänger), Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 30: Vorstellung des Verkehrskonzeptes "Theodor-Heuss-Brücke" zur nächsten Sitzung der Bezirksvertretung 4 am 08.07.2026, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 31: Sanierung Verbindungsweg zwischen Schiessstraße und Krefelder Straße, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 32: Entsiegelung öffentlicher Flächen, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 33: Einrichtung einer Geschwindigkeitsmessanlage (Blitzer) auf der Kevelaerer Straße in Düsseldorf-Heerdt - zur Kenntnis genommen
+- TOP 34: Lärmbelastung der Rheinkniebrücke reduzieren - Sinnvolle Möglichkeiten suchen und umsetzen - zur Kenntnis genommen
+- TOP 35: Kommunale Wärmeplanung für den Stadtbezirk 4 - zur Kenntnis genommen
+- TOP 36: Entfernung Altpapiercontainer Comeniusplatz - zur Kenntnis genommen
+- TOP 37: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Instandsetzung des Gehwegs Düsseldorfer Straße / Pariser Straße, Anfrage der Bezirksvertreterin Isolde Maessen
+- TOP 39: Instandsetzung des Grünverbindungsweges Peter-Steinhauer-Weg - einstimmig beschlossen
