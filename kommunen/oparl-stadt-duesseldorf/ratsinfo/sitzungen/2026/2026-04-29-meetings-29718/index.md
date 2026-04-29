@@ -1,0 +1,64 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-04-29T16:00:00+02:00
+- Ende: 2026-04-29T17:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29718
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29718
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584292.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584292.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00584292.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 04.02.2026 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 11.03.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übermittelt)
+- TOP 7: Anfrage der Fraktion BÜ90/Die Grünen: Regelungen für den Einsatz von Bodenschwellen (auf der Krahnenburgstraße) - schriftlich beantwortet
+- TOP 8: Anfrage des Luca Meyer (Die Linke): Sachstand zum Wohnvorhaben Rather Broich 154/Ecke Frobenstraße - schriftlich beantwortet
+- TOP 9: Anfrage der CDU-Fraktion: Verhinderung der Blockade von Geh- und Radwegen durch Gewerbetreibende im Stadtbezirk 6 - vertagt
+- TOP 10: Anfrage der CDU-Fraktion: Optimierung der Kreuzungssituation Beedstraße/Im Huferfeld in die Hamborner Straße - schriftlich beantwortet
+- TOP 11: Anfrage der SPD-Fraktion: Querungshilfe Volkardeyer Weg - vertagt
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Verbot von"'fliegenden Händlern" auf dem Unterrather Wochenmarkt - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 13: Anfrage der CDU-Fraktion: Tarifzonen der neuen Parkausweisregelung - vertagt
+- TOP 14: Anfrage des Luca Meyer (Die Linke): Übersicht der Tempo-30-Regelungen im Stadtbezirk 6 - vertagt
+- TOP 15: Anfrage der Fraktion BÜ90/Die Grünen: Fahrradabstellanlage am Bahnhof Düsseldorf-Flughafen / Ahrensplatz - vertagt
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Reparatur des Turnhallenbodens in der Grundschule Max-Halbe-Straße - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage der AfD-Fraktion: Bewässerte Bäume und Bewässerungsverfahren im Stadtbezirk 6 - vertagt
+- TOP 19: Anfrage der AfD-Fraktion: Kriterien der Baumbewässerung im Stadtbezirk 6 - vertagt
+- TOP 20: Anfrage der SPD-Fraktion: Wickel- und Versorgungseinrichtungen für Familien mit Kleinkindern - vertagt
+- TOP 21: Anfrage der SPD-Fraktion: Zustand der Sportstätten, Hallen und Bäder im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 23: Antrag des Luca Meyer (Die Linke): Einführung einer Live-Übertragung des öffentlichen Teils der Sitzungen der Bezirksvertretung 6 - abweichend beschlossen
+- TOP 24: Antrag der Fraktion BÜ90/Die Grünen: Freigabe des Fußweges für Radfahrende vom Mörsenbroicher Weg bis Zur Alten Kaserne in beide Fahrrichtungen - einstimmig beschlossen
+- TOP 25: Antrag der Fraktion BÜ90/Die Grünen: Beseitigung der Wurzelschäden auf dem Boskampweg - einstimmig beschlossen
+- TOP 26: Antrag der Fraktion BÜ90/Die Grünen: Umwidmung der Wilhelm-Raabe-Straße zu einer Fahrradstraße im Bereich von der Artusstraße bis zur Derflinger Straße - vertagt
+- TOP 27: Antrag der Fraktion BÜ90/Die Grünen: Prüfung und Kennzeichnung möglicher Sperrflächen vor der öffentlichen Toilette in Oberrath sowie deren Kontrolle - einstimmig beschlossen
+- TOP 28: Antrag der SPD-Fraktion: Behinderung von Radfahrenden auf der Westfalenstraße - abweichend beschlossen
+- TOP 29: Antrag der SPD-Fraktion: Falschparker auf dem Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 30: Antrag der SPD-Fraktion: Benennung eines Platzes nach OB a.D. Marie Luise Smeets - zurückgezogen
+- TOP -: Verwaltungsvorlagen
+- TOP 31: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Tambour-Corps Derendorf e. V., Ges. Freischütz Mörsenbroich, Ges. 1 von Hindenburg, Ges. St. Paulus - Jubiläumsfestabend - einstimmig beschlossen
+- TOP 32: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des St. Seb. Schützenvereins Derendorf 1655 e. V. - Bunter Kindernachmittag im Rahmen des Schützenfestes 2026 - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Maßnahmenvorschläge 2026: Überholungsanstrich – Jugendfreizeiteinrichtung - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Maßnahmenvorschläge 2026: Sportamt - einstimmig beschlossen
+- TOP 35: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Projekt Blumenoasen und -schiffchen - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 36: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 37: Errichtung von Düsselbike-Stationen im Stadtbezirk 6 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 38: Baumfällungen im Stadtbezirk 6 ab der 10. Kalenderwoche 2026 - zur Kenntnis genommen
+- TOP 39: Entsiegelung und Begrünung des ehemaligen Schulhofs an der Kalkumer Straße - BV6/039/2026 - zur Kenntnis genommen
+- TOP 40: Beschlusskontrolle der Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
