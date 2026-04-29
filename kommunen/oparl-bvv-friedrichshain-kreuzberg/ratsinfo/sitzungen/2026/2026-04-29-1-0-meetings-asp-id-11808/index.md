@@ -1,0 +1,112 @@
+# Öffentliche Sitzung der BVV Friedrichshain-Kreuzberg
+
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Beginn: 2026-04-29T18:00:00+02:00
+- Ende: 2026-04-29T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- Ratsinformationssystem: https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=11808
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=11808
+- Quelle: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen des Bezirksverordnetenvorstehers - (offen)
+- TOP 2: Abstimmung über die Dringlichkeiten - erledigt
+- TOP 2.1: Barrierefreiheit - Mängelbeseitigung - gegenstandslos
+- TOP 2.2: Neues Quartiersmanagement-Gebiet „Askanischer Platz“ - gegenstandslos
+- TOP 3: Beschlussfassung zur Konsensliste des Ältestenrates - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bestätigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 5: Initiativen von Kindern und Jugendlichen (JuKG) - gegenstandslos
+- TOP 6: Einwohner*innenanfragen - (offen)
+- TOP 6.1: EA153 - Eva Mamlok Platz - gegenstandslos
+- TOP 6.2: EA154 - Kernsanierung - gegenstandslos
+- TOP 6.3: EA155 - Berücksichtigung der Sportbedarfe im Verfahren zum SEZ - beantwortet
+- TOP 7: Resolutionen - (offen)
+- TOP 7.1: Erhalt der Görlitzer Brücke als Wegeverbindung - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Eine Frage des politischen Willens - die Görlitzer Brücken zwischen Kreuzberg und Treptow-Köpenick sowie angrenzende Flächen unbedingt erhalten! - zurückgezogen
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Außer Kontrolle: Müllberge am ehemaligen Hostel Georghof / Gürtelstraße - überwiesen
+- TOP 8.2: Gefahrenherd "Georghof" in der Gürtelstraße entschärfen: Illegale Müllhalde beseitigen und Gebäude-Verwahrlosung stoppen - überwiesen
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Einrichtung von Lieferzonen in der Pücklerstraße zur Erhöhung der Verkehrssicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Prioritäten richtig setzen: Keine Olympia-Bewerbung - Investitionen sofort in den Breitensport und die Schulsanierung lenken - mit Änderungen in der BVV beschlossen
+- TOP 9.3: Bääm da sind die Ratten!!! Abbau des Gender-Klos 2.0 - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Kiezkantine im Rathaus Kreuzberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Vorhandenes pflegen anstatt immer neuer Prestigeprojekte - Prioritäten beim Sondervermögen anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Für mehr Sicherheit: Jessnerstraße besser beleuchten - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Konzept „Herausforderungen der Mobilitätswende im urbanen Raum am Beispiel des Denkmalensembles Karl-Marx-Allee / Frankfurter Allee“ - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Antrag auf Bürgerbeteiligungsmittel - überwiesen
+- TOP 10: Mündliche Anfragen I - (offen)
+- TOP 10.1: 16 Jahre - und viele mehr? Hotelneubau am ://about blank - beantwortet
+- TOP 10.2: Was wird aus der Kotti-Kita? - beantwortet
+- TOP 10.3: Gesundheitsgefährdende Zustände am ehemaligen Hotel und Hostel Georghof in der Gürtelstraße - beantwortet
+- TOP 10.4: I LOVE POLLY-Sticker - beantwortet
+- TOP 10.5: Wirksam statt wohlklingend: Was erreicht der Bezirk am Kottbusser Tor? - beantwortet
+- TOP 10.6: "Das tritt... nach meiner... Kenntnis... ist das sofort. Unverzüglich." - Anwendung von § 13 Absatz 1 BezVwG im Geschäftsbereich Soziales - (offen)
+- TOP 10.7: Bettenburg Xhain? Zur Genehmigung von Hotels und Hostels im Bezirk Friedrichshain-Kreuzberg - (offen)
+- TOP 10.8: Wann bekommt unser Bezirk endlich eine*n Verfahrenslots*in wie gesetzlich vorgeschrieben? - (offen)
+- TOP 10.9: Verkehrsberuhigung und -sicherheit in der Auerstraße - (offen)
+- TOP 10.10: Parkzone 54: Wie läuft es mit der Parkraumbewirtschaftung? - (offen)
+- TOP 10.11: Freude über den Erhalt der Reinhardswald-Grundschule - weiteres Vorgehen - (offen)
+- TOP 10.12: Baustellen-Wasserrohre Modersohnbrücke - (offen)
+- TOP 10.13: 24 Monate and counting: Wann gewährt der Jugendstadtrat endlich Akteneinsicht zur Kündigung von Frieda e.V.? - (offen)
+- TOP 10.14: Wer arbeitet im Bezirksamt von morgen? - Girls'- und Boys'-Day in Xhain - (offen)
+- TOP 10.15: Bauarbeiten Kopernikusstraße - (offen)
+- TOP 10.16: Baustelle Gitschiner Straße 59 - (offen)
+- TOP 10.17: Fortführung der klimafreundlichen Toilette auf Stralau - (offen)
+- TOP 10.18: Schulsportplatz an der Galileischule - (offen)
+- TOP 10.19: Kommerzielle Werbung in den Schulen in Friedrichshain-Kreuzberg - (offen)
+- TOP 10.20: Baumfällungen trotz Sommerrodungsverbot - (offen)
+- TOP 10.21: Wohnverhältnisse Oppelner Straße 42 - (offen)
+- TOP 10.22: Sachstand Alpha Bündnis - (offen)
+- TOP 10.23: Die Straßenschilder in der Oranienstraße 180 - (offen)
+- TOP 10.24: Das kaputte Infoschild (U-Bahnhof Prinzenstraße) - (offen)
+- TOP 10.25: Ladestation ohne Ladebox - (offen)
+- TOP 11: Mündliche Anfragen II - (offen)
+- TOP 11.1: Mündliche Anfragen II - spontane Fragestunde - (offen)
+- TOP 12: Konsensliste des Ältestenrates - (offen)
+- TOP 12.1: Sitzbänke am Mehringdamm nach der Sanierung wieder installieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Lärmschutz: Tempo 30 auf der Frankfurter Allee umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schulwegsicherheit und Klimaschutz im Friedenstraßen-Kiez - überwiesen
+- TOP 12.4: Autonomes Fahren fördern - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: EwA - für einen verkehrsberuhigten Modersohn-Kiez und die Forderung, die Verkehrssicherheit zu verbessern, Fuß- und Radverkehr zu stärken, das Zusammenwachsen von Rudolf- und Laskerkiez zu ermöglichen und die Lebens- und Aufenthaltsqualität zu erhöhen! - überwiesen
+- TOP 12.6: Kleinräumige Grünflächen schaffen - überwiesen
+- TOP 12.7: Entsiegelung von alten Radwegen - überwiesen
+- TOP 12.8: Entsiegelung bei Straßenarbeiten - überwiesen
+- TOP 12.9: Eine ergänzende Tennishalle für den BSC Eintracht/Südring 1931 e.V. - überwiesen
+- TOP 12.10: EwA - Für sichere (Schul-)wege zwischen Yorck- und Kreuzbergstraße - überwiesen
+- TOP 12.11: Begegnungszone Bergmannstraße zu wörtlich genommen!? - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Zebrastreifen auf der Wilhelmstraße am Übergang der Rahel-Varhagen-Promenade - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.13: Modellprojekt zur Schaffung inklusiver Arbeitsplätze in der Verwaltung - überwiesen
+- TOP 12.14: Erweiterung der Parkraumbewirtschaftung auf die Blücherstraße - überwiesen
+- TOP 12.15: Anwohnende in der Zossener- und Friesenstraße vor Lärm schützen - Verkehrssicherheit erhöhen - überwiesen
+- TOP 12.16: Der Kiezhausmeister am Mehringplatz soll bleiben! - überwiesen
+- TOP 12.17: Es ist höchste Zeit - Das Berliner Klimaanpassungsgesetz (KAnGBln) vom 7. November 2025 - Erforderliche Strukturen und Mittel zeitnah bereitstellen - Bäume pflanzen für eine klimaresistente und lebenswerte Stadt - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Verbreitung des Ratgebers "Vorsorgen für Krisen und Katastrophen" des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe im Bezirk. - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.19: Unterzeichnung der Fortschreibung der Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Fachstellen Soziale Wohnhilfe 2026 – 2027 - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Unterzeichnung der Zielvereinbarung 2026 / 2027 für die Berliner Bürgerämter zur gesamtstädtischen Steuerung der Bürgerämter zur Verbesserung der Servicequalität - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Unterzeichnung der Zielvereinbarung zur gesamtstädtischen Steuerung der Berliner Standesämter 2026 und 2027 - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Umsetzung des Gesetzes zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung (sog. "Bau-Turbo") im Bezirk Friedrichshain-Kreuzberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Keine Poller und Radbügel im Zuge der Einführung der Parkzonen 54 (Friedenstraße) und 68 (Alexandrinenviertel) - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Das Zebra hat Scheuklappen - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Sichtbarkeit alevitischen Lebens im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Ostbahnhof zum Ort machen, an dem man sich gern aufhält! - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Anträge zu Safe-Places endlich umsetzen! - überwiesen
+- TOP 12.28: Umsetzung des Gender-Mainstreaming-Prozesses im Sport im Bezirk - überwiesen
+- TOP 12.29: Prüfauftrag der Nutzung der Rollläden am ehemaligen Rathaus Kreuzberg (Yorckstraße) - überwiesen
+- TOP 12.30: Prüfauftrag für Nutzung bezirklicher Flächen für Street Art und Graffiti - überwiesen
+- TOP 12.31: Aktuelle Kinderschutzkonzepte in allen Einrichtungen für Kinder und Jugendliche sicherstellen - Zentrale Anlaufstelle für Prävention und Intervention prüfen - überwiesen
+- TOP 12.32: Reparatur des Fahrstuhls im Rathaus Kreuzberg für Personen mit Rollstühlen, Rollatoren und Kinderwagen - überwiesen
+- TOP 12.33: Soziale Angebote für die Bedarfe des Sozialraums - Nachnutzung der Dresdener Straße 128 zügig vorantreiben - Ein "Haus der Hilfe am Kotti" - überwiesen
+- TOP 12.34: Tulpenförmige Windkraftturbinen für Xhain - überwiesen
+- TOP 12.35: Unterzeichnung der Fortschreibung der Zielvereinbarung zur gesamtstädtischen Steuerung der Freiwilligenagenturen 2026 – 2027 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.36: "Gut gewickelt im Kiez - auch auf dem Spielplatz" - überwiesen
+- TOP 12.37: Bezug zur Drucksache/1980/VI Aufteilung von Investitionsmitteln des Bundes - Auch Mittel für mehr Schulwegsicherheit bereitstellen - überwiesen
+- TOP 12.38: Entsiegelung Marchlewskistraße (jeweils Ecke Wedekindstraße bis Fredersdorferstraße) - überwiesen
+- TOP 12.39: Verstärkte Kontrollen und Maßnahmen gegen dauerhaft abgestellte Wohnmobile in der Lilienthalstraße - überwiesen
+- TOP 12.40: Wegebeleuchtung im Theodor-Wolff-Park - überwiesen
+- TOP 12.41: Verkehrsfluss am Frankfurter Tor sichern - Wohngebiete entlasten, Linksabbieger wiederherstellen - überwiesen
+- TOP 12.42: Die Widerstandskämpferin Eva Mamlok angemessen ehren - Umbenennung des Blücherplatzes in Eva-Mamlok-Platz - überwiesen
+- TOP 12.43: Bebauungsplan 2-17 für das Grundstück Köpenicker Straße 21 – 29 im Bezirk Friedrichshain-Kreuzberg, Ortsteil Kreuzberg. - überwiesen
