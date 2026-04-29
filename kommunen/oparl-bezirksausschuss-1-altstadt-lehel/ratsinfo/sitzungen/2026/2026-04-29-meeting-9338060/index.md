@@ -1,0 +1,142 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9338060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9338060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Dienerstr. 12 Nutzungsänderung von Laden zu einer Gaststätte mit Errichtung einer Freischankfläche auf öffentlichem Grund; Frist: 21.05.2026
+- TOP 3.1.2.: Perusastr. 7 Umbau und Sanierung eines Büro- und Geschäftsgebäudes (VGB) sowie Neubau eines Büro- und Geschäftsgebäudes (RGB)- ÄNDERUNGSANTRAG zu 1.1-2022-24260-21; Frist: 21.05.2026
+- TOP 3.1.3.: Klosterhofstr. 4 Sanierung mit Aufstockung eines Mehrfamilienhauses, Neuaufteilung von 9 zu 19 Wohneinheiten, Balkonanbau mit Fluchtleiter, Photovoltaik auf flachem Dachteil, Aufzugsanbau; Frist: 21.05.2026
+- TOP 3.1.4.: Seitzstr. 10 Aufstockung Mehrfamilienhaus, Anbau Balkone, Einbau Aufzug, Nutzungsänderung OG 1: Wohnen zu Werkstatt, Zusammenlegung Gewerbe Mitte und Rechts, Einbau Treppe EG + OG 1, Erweiterung Gewerbe durch Anbau, Umbau OG 3 – GENEHMIGUNGVERLÄNGER-UNG; Frist: 21.05.2026
+- TOP 3.1.5.: Sporerstr. 2 Nutzungsänderung Büroräume in Praxis und ein neuer Büroraum für die vorhandene Gastronomie im 3. Obergeschoss; Frist: 21.05.2026
+- TOP 3.1.6.: Thierschstr. 20 Nutzungsänderung von Co-Working Space zu Nachbarschafts-Fitnessstudio; Frist: 21.05.2026
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Fällungsantrag Siegmundstr. 1, Frist: 10.05.2026
+- TOP 3.2.2.: Fällungsantrag Blumenstr. 26, Frist: 04.06.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Kreuzung Oettingen- Prinzregentenstraße
+- TOP 1.2.: Bürger*innenanliegen: Gefährliche Verkehrssituation in der Widemeyerstraße / Robert-Koch-Straße
+- TOP 1.3.: Bürger*innenanliegen: Antrag auf Installation eines Hundekotbehälters Unterer Anger
+- TOP 1.4.: Bürger*innenanliegen: permanenter Stau durch Einspurigkeit in der Sternstraße
+- TOP 1.5.: Bürger*innenanliegen: Kothaufen vor der Tür eines Lokals in der Herzogspitalstraße und den Verfall des Münchner Stachus, TOP 2026.03 A 3.1
+- TOP 1.6.: Bürger*innenanliegen: Fahrrad-Abstellplätze Max-Joseph-Platz
+- TOP 1.7.: Bürger*innenanliegen: Massive Lärmbelästigung durch missbräuchliches Hupen in der Reichenbachstr. 5
+- TOP 1.8.: Bürger*innenanliegen: Antrag vom 03.02.26 - Prälat-Zistl-Straße Fußgängerzone
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Radfahrer auf Bürgersteigen, Bürkleinstraße, Herzog- Rudolf-Straße, Maximilianstraße
+- TOP 2.2.: (E) Endgültige Wiederherstellung des Bürgersteigs an der Trambahnhaltestelle Maxmonument
+- TOP 2.3.: (E) Installation Gepäck-Schließfächer
+- TOP 2.4.: (E) Vorbeifahrstreifen, Rechtsabbiegerpfeil für Radfahrende, Aufstellbereiche, Radfahrende an Kreuzung
+- TOP 2.5.: (E) Radverkehr, Durchfahrt Hochbrückenstraße zur Maximilianstraße
+- TOP 2.6.: (E) Sammelbeschluss offene Bezirksausschussangelegenheiten – Altstadt für Alle
+- TOP 2.7.: (E) Empfehlungen für die zukünftigen Umplanungen des innerstädtischen Straßenraums
+- TOP 2.7.1: Empfehlungen für die zukünftigen Umplanungen des innerstädtischen Straßenraums
+- TOP 2.8.: Entscheidung über Sondernutzungserlaubnis: Theatiner Str., Antrag auf einen Obstverkaufsstandplatz im Turnus
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Parklizenzgebiet Mittleres Lehel: Änderung der Parkregel in der Liebigstraße (zw. St.-Anna-Straße und Triftstraße)
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Neues Radverkehrsnetz für München, stadtbezirksübergreifende Radverkehrsverbindungen - Sitzungsvorlage Nr. 20-26 / V 18641 /Termin: 05.05.2026)
+- TOP 3.2.2.: Wiederherstellung der Hochwassersicherheit durch Verlagerung von Kies von der Großen Isar in die Kleine Isar zwischen der Reichenbach- und der Praterwehrbrücke; Frist: 27.05.2026
+- TOP 3.2.3.: Erinnerungsverfahren: Herzog-Wilhelm-Straße von HsNr. 28 bis Einmündung Josephspitalstraße
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Lärmbelästigung Viktualienmarkt
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Herrnstraße Medienprojekt 2026 ab 07.05.2026 720,00€; Az. 0262.100-1-0457
+- TOP 2.1.2.: (E) Stadtbezirksbudget die urbanauten Kinder und Jugendprogramm am Kulturstrand vom 11.05. -14.09.2026 2.250,00€; Az. 0262.100-1-0458
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Pfarrstr. 16: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.2.: Rosental 7: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.3.: Rosental 9: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.4.: Dienerstr.12: Genehmigung einer Freischankfläche
+- TOP 2.2.5.: Odeonsplatz 8-10: Änderung/ Erweiterung einer bestehenden Fläche, TOP 2026.03 D 2.2.1
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Lange Nacht der Musik am 09.05.2026 auf dem sog. Odeonsplatz (Termin: 01.05.2026)
+- TOP 3.2.: Fest zur Wiedereröffnung VKM am 09./10.07.2026 (Termin: 20.05.2026)
+- TOP 3.3.: Fahrradsicherheitscheck am 28.07.2026 (Termin: 12.05.2026)
+- TOP 3.4.: Tag der Ersten Hilfe 2026 am 11.07.2026 (Termin: 31.05.2026)
+- TOP 3.5.: Meisterfeier des FC Bayern München am 17.05.2026 (Termin: 01.05.2026)
+- TOP 3.6.: Informationsveranstaltung zum Thema Brustkrebs am 06.06.2026 auf dem sog. Odeonsplatz (Termin: 30.04.2026)
+- TOP 3.7.: 160 Jahre FFW München - Blaulichttag am 16.05.2026 auf dem sog. Odeonsplatz (Termin: 11.05.2026)
+- TOP 3.8.: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienpl. über Ludwigstr. am 04.06.2026 (Termin: 19.05.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Infoschreiben Zugang zum GeoPortal München für BA-Mitglieder
+- TOP A 7.2.: Straßensperrung in der Gewürzmühlsstr., TOP 2026.02 A3, Antwortschreiben Mobilitätsreferat
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Unterrichtung – Wohnraum: Mariannenstr. 5, 2. OG mitte und 4. OG rechts, TOP 2026.02 B 4.3, Antwortschreiben Amt für Wohnen und Migration
+- TOP B 4.4.: Bescheid Fällungsantrag vom 01.12.2025 auf dem Grundstück Knöbelstr. 24
+- TOP B 4.5.: Antrag des BA1: sofortige Nachpflanzung des gefällten Gefahrenbaums am Radspielerbrunnen im Frühjahr 2026
+- TOP B 4.6.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP B 4.7.: PERSPEKTIVE MÜNCHEN Fortschreibung des Innenstadtkonzeptes als integriertes Handlungsraumkonzept Münchner Innenstadt StR-Antrag und Bürgerversammlungsempfehlungen
+- TOP B 4.8.: Stellungnahme Geplante Baumstandorte Altstadt (Petersplatz)
+- TOP B 4.9.: Fällungsgenehmigung Blumenstraße 39
+- TOP B 4.10.: Dienststellenverständigung Pädagogisches Institut in der Herrnstr. 19
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Errichtung von Fahrradabstellplätzen in der Oettingenstraße 61-63, TOP 2025.12 C 1.2, Antwortschreiben Baureferat
+- TOP C 4.3.: Shared Mobility im BA 1
+- TOP C 4.4.: Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP C 4.5.: (U) Begrünung Fußgängerzone Gesamtkonzept Ergebnis der vertieften Untersuchung Durchgehendes taktiles Leitsystem Pilotversuch „Unterflurabfallbehälter in der Sendlinger Straße“ im 1. Stadtbezirk Altstadt - Lehel
+- TOP C 4.6.: Bürger*innenanliegen Ampelschaltung Fußgängerampel am Isartor, TOP 2026.02 C 1.5, Antwortschreiben Mobilitätsreferat
+- TOP C 4.7.: Fahrradabstellanlagen Rosenbuschstraße
+- TOP C 4.8.: Bürger*innenanliegen Platz am Gries, Antwortschreiben Baureferat
+- TOP C 4.9.: Bürger*innenanliegen Zebrastreifen Frauenstraße, TOP 26.02 C 1.1, Antwortschreiben Mobilitätsreferat
+- TOP C 4.10.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV);Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram, Stadtwerke München GmbH
+- TOP C 4.11.: Bürger*innenanliegen Vandalismus, Verwahrlosung, Schreiben Baureferat
+- TOP C 4.12.: Unterrichtungen Mobilfunkstandorte
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Bürger*innenanliegen Vermüllung der Gehwege durch Gäste der Bar Oberanger, TOP 2026.01 D 1.3, Antwortschreiben Bezirksinspektion Mitte
+- TOP D 4.5.: Eilentscheidung Informationsveranstaltung BMW-Open Aktivierung im Zeitraum 11./12.04.2026 auf dem sog. Odeonsplatz
+- TOP D 4.6.: Kulturstrand am Maximiliansplatz / Grünfläche hinter dem Wittelsbacherbrunnen ab 01.05.26 -14.09.26, Antwortschreiben Kreisverwaltungsreferat
+- TOP D 4.7.: Strandveranstaltung am Vater-Rhein-Brunnen 01.05. - 14.09.26, Antwortschreiben Kreisverwaltungsreferat
+- TOP D 4.8.: Eilentscheidung DGB-Veranstaltung (Kulturfest laut.stark in Koop mit Kulturreferat) am 30.04.2026 auf dem Marienplatz
+- TOP 3.9.: Israeltag am 18.06.2026 auf dem sog. Odeonsplatz (Termin: 22.05.2026)
+- TOP 3.10.: Straßenfest Kultur im Block am 20.06.2026 (Ersatztermin 10.07.2026) (Termin: 31.05.2026)
+- TOP 2.9.: TOP C 4.7: Fahrradabstellanlagen Rosenbuschstraße, BA-Antrag Nr. 20-26 / B 08299
+- TOP 2.10.: (E) Altkleidersammelstelle Knöbelstr. / Karl-Scharnagl-Ring
+- TOP 3.11.: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 13.06.2026 (Ersatztermin: 20.06.2026) auf der lsarpromenade entlang der Widenmayerstr. (zwischen Maximilianstr. und Liebigstraße bis zur Praterinsel)
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 1.1.: Bürger*innenanliegen Widenmayerstr. 1
+- TOP 0.1.: Bericht OT Umgriff Stadtmuseum am 28.04.2026, gemeinsam von Polizei, MOR, BAU, BA
+- TOP 1.9.: Bürger*innenanliegen: Sperrungen Pilotystraße, Sigmundstraße, Bruderstraße und Seitzstraße => Parkplatznot
+- TOP 1.10.: Bürger*innenanliegen Parksituation Widenmayerstr.
+- TOP 1.11.: aus 02/2026 TOP C1.4 Antrag SPD Fraktion: Fahrrad Nord-Süd- Querung der Altstadt über das Rosental wieder ermöglichen
