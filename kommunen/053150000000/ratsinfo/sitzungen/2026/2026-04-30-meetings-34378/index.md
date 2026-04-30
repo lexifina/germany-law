@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses für Wirtschaft und Digitalisierung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-30T17:01:00+02:00
+- Ende: 2026-04-30T18:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/198
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34378
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34378
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeine Beschlussvorlagen
+- TOP 1.1: Freigabe von Mitteln zur Förderung des „Film Festival Cologne 2026“ - ungeändert beschlossen
+- TOP 2: Präsentation, anschließend Meinungsaustausch
+- TOP 2.1: Präsentation zur Leerstandserhebung und Veedelsbefragung - Kenntnis genommen
+- TOP 2.2: Präsentation: "Das 3D Stadtmodell in KölnGIS - ein Blick in die Werkstatt" - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 05.03.2026 betreffend „Darstellung des Sachstandes bei der Firma Ford“ (0486/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 22.01.2026 betreffend "Glasfaserausbau in Köln" - Kenntnis genommen
+- TOP 4: Mitteilungen
+- TOP 4.1: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 4.2: Erlass einer Allgemeinverfügung der Stadt Köln über die Festsetzung eines Mindestbeförderungsentgelts für den Verkehr mit Mietwagen - Kenntnis genommen
+- TOP 4.3: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren" - Kenntnis genommen
+- TOP 4.4: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 4.5: Gewerbeflächenbereitstellungskonzept (GFBK); Stand 31.12.2025 - Kenntnis genommen
+- TOP 4.6: Sachstandsbericht Räumliches Entwicklungskonzept LiebigQuartier - Kenntnis genommen
+- TOP 4.7: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 4.8: Mitteilung zum Beschluss der Bezirksvertretung 7 Porz betreffend "Verbesserung des Zugriffs aufs Ratsinformationssystem" (AN/0324/2026) - Kenntnis genommen
+- TOP 4.9: Umsetzungsstand Stadtentwicklungskonzept für die produzierende Wirtschaft - Kenntnis genommen
+- TOP 4.10: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 4.11: Sachstandsmitteilung über die Umsetzung des Förderprogramms "Unterstützung Handel 2026 " - Kenntnis genommen
+- TOP 4.12: Mitteilung zur Prüfung möglicher Alternativstandorte für ein Frische- und Ernährungszentrum (FEZ) - Kenntnis genommen
+- TOP 4.13: Sachstandsbericht zur Zukunft des Abendmarktes auf dem Rudolfplatz - Kenntnis genommen
+- TOP 4.14: Adventsverkehr 2025: - vertagt
+- TOP 4.15: Teilnahme der Stadt Köln am Projekt „Cyberdome“ des Bundesamtes für Sicherheit in der Informationstechnik und der DCSO Deutsche Cyber-Sicherheitsorganisation GmbH - Kenntnis genommen
+- TOP 4.16: Arbeitsmarkt Köln - Rückblick 2025, bisherige Entwicklung und Ausblick 2026: Trotz schwacher Konjunktur stabile Beschäftigung am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten
+- TOP 6: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 6.1: Wirtschaftliche Bedeutung des Cologne Pride - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates der Stadt Köln der SPD-Fraktion zur Wirtschaftlichen Bedeutung des Cologne Pride (AN/0092/2026) - Kenntnis genommen
+- TOP 6.2: Auswirkungen der Schließung des Großmarktes in Raderberg auf Händlerstruktur und Gewerbesteuereinnahmen - vertagt
+- TOP 6.3: Reservierungen von Gewerbeflächen in Köln - vertagt
+- TOP 7: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 7.1: Abhängigkeiten reduzieren, Alternativen schaffen: Exit-Strategie für Microsoft 365 - vertagt
+- TOP -: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates vom 06.02.2026 betreffend "Abhängigkeiten reduzieren, Alternativen schaffen: Exit-Strategie für Microsoft 365" (AN/0246/2026) - vertagt
+- TOP 7.2: Baustellenumsetzungsmanagement stärken! Effizienz, Koordination und Transparenz – mit KI verbessern - vertagt
+- TOP -: Änderungsantrag zu TOP 7.2 “Baustellenumsetzungsmanagement stärken! - vertagt
+- TOP -: Änderungsantrag zum Antrag AN/0446/2026: „Baustellenumsetzungsmanagement stärken!" - vertagt
+- TOP 8: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 9: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 10: Marktwesen
+- TOP 11: "koeln.de"
+- TOP 12: Medien- und Internetwirtschaft in Köln
+- TOP 13: Wirtschafts- und Arbeitsmarktsituation
+- TOP 14: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 15: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 16: Mündliche Anfragen
