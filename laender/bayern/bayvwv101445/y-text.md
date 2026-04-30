@@ -1,0 +1,1 @@
+Nachfolgend wird die von der Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB) am 3. Mai 2007 beschlossene und vom Staatsministerium des Innern am 2. Oktober 2007 nach § 3 Satz 2 der Verordnung über die Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB) genehmigte Satzung bekannt gemacht:
