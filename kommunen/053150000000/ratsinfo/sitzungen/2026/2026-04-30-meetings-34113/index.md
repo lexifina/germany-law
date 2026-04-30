@@ -1,0 +1,65 @@
+# 5. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-30T17:00:00+02:00
+- Ende: 2026-04-30T19:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34113
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34113
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Zukunft des Museums Selma und Perspektiven für den Kulturstandort Kalk; Gem. Antrag Aktuelle Stunde der Fraktionen SPD, CDU, Bündnis90/Die Grünen und Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 30.04.2026 - ungeändert beschlossen
+- TOP -: B - Besuch des Beigeordneten Robert Voigtsberger Dezernat IV - Bildung, Jugend und Sport - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung "KGS Olpener Str. - Schenkungsannahme" - ungeändert beschlossen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung Kalk am 30.04.2026: "Parken in Ladezonen stärker sanktionieren" - ungeändert beschlossen
+- TOP 7.2: Antrag der CDU-Fraktion zur Sitzung der Bezirksvertretung Kalk am 30.04.2026: "Behebung einer gefährlichen Querungssituation auf der Olpener Straße (Höhe Hausnummer 830)" - ungeändert beschlossen
+- TOP 7.3: Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung Kalk am 30.04.2026: "Schutz einer Grünfläche zwischen Kalk-Mülheimer-Str. und Wipperfürther Str." - ungeändert beschlossen
+- TOP 7.4: Antrag der CDU-Fraktion zur Sitzung der Bezirksvertretung Kalk am 30.04.2026: "Aufstellung eines Schildes „Feuerwehraufstellfläche“ in Neubrück" - ungeändert beschlossen
+- TOP 7.5: Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung Kalk am 30.04.2026:: "Aufgesetztes Parken im Stadtteil Kalk" - ungeändert beschlossen
+- TOP 7.6: Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung Kalk am 30.04.2026: "Entsiegelung Gothaer Platz in Köln-Höhenberg" - geändert beschlossen
+- TOP 7.7: Gem. Dringlichkeitsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die LINKE. und Volt und Hooghoughi in der Bezirksvertreung Kalk: "Vergabe weiterer bezirksorientierter Mittel 2026" - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Aufstellung von Fahrgastunterständen (FGU) im Busbereich hier: Umsetzung des Werbenutzungsvertrages und weiteres Vorgehen - ungeändert beschlossen
+- TOP 8.1.2: Wirtschaftszonen für Handwerks-, Pflege- und Lieferdienste – Umsetzung von drei Wirtschaftszonen im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ungeändert beschlossen
+- TOP 8.2.2: Anhörung zu den Ergebnissen der frühzeitige Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (vorhabenbezogener Bebauungsplan) Nr. 70453/02 Kalker Hauptstraße/Barcelona-Allee in Köln/Kalk - vertagt
+- TOP 8.2.3: Aufstellungsbeschluss zur 15. Änderung des Landschaftsplans Köln - ungeändert beschlossen
+- TOP 8.2.4: Rückbau der Grundstücksinfrastruktur im Hardtgenbuscher Kirchweg 104, 51107 Köln nach Abbau der Leichtbauhallen zur Unterbringung von geflüchteten Menschen - ungeändert beschlossen
+- TOP 8.2.5: Satzung über die abweichende Herstellung der Erschließungsanlage Dillenburger Straße (ringförmige Umfahrung von Dillenburger Straße bis Dillenburger Straße) in Köln-Kalk - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage (AN/0433/2026) der Fraktion AfD betreffend "Unzureichende Verpflegung von Schülern in Kalk" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung der Anfrage gem. § 4 (Die Linke) vom 13.01.2026 betreffend „Sachstand Vorlage 1499/2020 (Smarte Sitzbänke im Stadtbezirk Kalk)" (AN/0010/2026) aus der Sitzung der BV8 vom 22.01.2026 - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer schriftlichen Anfrage der AFD-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 12.03.2026 (AN/0423/2026) betreffend "Sanierungsmaßnahmen auf der Frankfurter Straße" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Kalk vom 12.03.2025 (AN/0455/2026) betreffend " - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der AFD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 30.04.2026: "Durchfahrtsproblematik für Rettungsfahrzeuge im Stadtteil Ostheim" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 30.04.2026: "Baumpflanzungen auf der geplanten Strassenbahntrasse in Neubrück" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der AFD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 30.04.2026: "Ordnungsamtseinsätze in der Trimbornstraße 28" - Kenntnis genommen
+- TOP 9.2.4: Anfrage der AFD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 30.04.2026: "Wiederkehrende Sachbeschädigungen durch Fäkalien - langjährige Problemlage in Kalk" - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vorlaufbetrieb S 13 – Betriebskonzept im Jahresfahrplan 2027 - Kenntnis genommen
+- TOP 10.2.2: Schulentwicklungspreis 2026 "Gute gesunde Schule" für James-Krüss-Schule, GGS Zehnthofstraße in Köln-Ostheim - Kenntnis genommen
+- TOP 10.2.3: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.4: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand: Wenig Abweichung auf gesamtstädtischer Ebene - Kenntnis genommen
+- TOP 10.2.5: Nachhaltiger Mobilitätsplan „Besser durch Köln“ – Bisherige Ergebnisse und weiterer Prozess - Kenntnis genommen
+- TOP 10.2.6: Machbarkeitsstudie für ein Expressbusnetz in Köln - Kenntnis genommen
+- TOP 10.2.7: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2025 - Kenntnis genommen
+- TOP 10.2.8: Voreinschätzung zur Zustimmungsfähigkeit eines Vorhabens für Verfahrenserleichterungen des „Wohnungsbau-Turbos“: Olpener Straße 460 in Köln-Merheim - Kenntnis genommen
+- TOP 10.2.9: Erweiterung der Öffnungszeiten in der Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP -: B - Besuch des Beigeordneten Robert Voigtsberger Dezernat IV - Bildung, Jugend und Sport
