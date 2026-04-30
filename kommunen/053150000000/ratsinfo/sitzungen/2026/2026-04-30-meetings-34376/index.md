@@ -1,0 +1,64 @@
+# 4. Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-04-30T16:05:00+02:00
+- Ende: 2026-04-30T16:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34376
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34376
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Vortrag/Präsentation
+- TOP -: C Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betr. „Wasser muss zum Baum“ - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 22.01.2026 (AN/0090/2026) betreffend "Wasser muss zum Baum" - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betr. "Verwendung Kölner Stadtholz" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Umwelt, Klima und Grün vom 22.01.2026 betr. "Verwendung Kölner Stadtholz" (AN/0093/2026) - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Linke, betr. "Koloniales Erbe des Botanischen Gartens der Stadt Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 05.03.2026 (AN/0252/2026) betreffend "Koloniales Erbe des Botanischen Gartens der Stadt Köln" - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Einsatz von Pferden im Karneval 2026" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Grünen aus der Sitzung Klima, Umwelt und Grün (AN/0331/2026) betr. "Einsatz von Pferden im Karneval 2026" - Kenntnis genommen
+- TOP 1.5: Anfrage der CDU-Fraktion betr. "Sachstand zur Umsetzung eines stadtweiten Entsiegelungskatasters" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 05.03.2026 (AN/0330/2026) betreffend "Umsetzung eines stadtweiten Entsiegelungskatasters" - Kenntnis genommen
+- TOP 1.6: Anfrage der Fraktion FDP/KSG betr. "Sachstand Generalsanierung der Trauerhalle auf dem Friedhof Melaten" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0536/2026 der FDP-Fraktion bezüglich der Generalsanierung der Trauerhalle auf dem Melaten Friedhof - Kenntnis genommen
+- TOP 1.7: Anfrage der Fraktion FDP/KSG betr. "Sachstand sanierungsbedürftiger Trauerhallen und Kühlräume" - vertagt
+- TOP 1.8: Anfrage der Fraktion Die Linke betr. Umsetzung des Ratsbeschlusses: „Verankerung des Ziels der gesamtstädtischen Klimaneutralität in Köln bis 2035" - vertagt
+- TOP 1.9: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Betriebsausschusses Gebäudewirtschaft bezüglich des Photovoltaik-Ausbaus auf städtischen Liegenschaften - AN/0263/2026 - Kenntnis genommen
+- TOP 1.10: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Haushaltsabweichung im Hpl. 2025/2026 – Produktbereich 13 und 14" - vertagt
+- TOP 1.11: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Sachstand zu Positivplanung Windenergie" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktionen Bündnis 90/Die Grünen, SPD, Die Linke, Volt und FDP/KSG betr. "Förderaufruf 1000 Moore: Klimamoorschutz auch in Köln" - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ohne Votum behandelt
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - vertagt
+- TOP 4.1.2: Stilllegung der städtischen Altdeponie Linder Mauspfad in Porz-Lind - vertagt
+- TOP 4.1.3: Konzept Öffentlichkeitsbeteiligung für den Grünzug Flittard - ungeändert empfohlen
+- TOP 4.1.4: Teilnahme der Stadt Köln am Interessenbekundungsverfahren am Bundesprogramm „Anpassung urbaner und ländlicher Räume an den Klimawandel“ des BMWSB – Projekte „GrünZug Nippes“, „Hybridpark“ und "Wasser muss zum Baum" - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Vorentwurf Hybridpark - Variantenentscheid - ungeändert beschlossen
+- TOP 4.2.2: Fällung eines geschützten Straßenbaumes an der Senefelder Str. 84-86, Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 4.2.3: Beleuchtung Rautenstrauchkanal hier: Ergebnis des Prüfauftrages aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 07.10.2021 (AN/2063/2021) - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 7.2: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 7.3: Sachstandsbericht Räumliches Entwicklungskonzept LiebigQuartier - Kenntnis genommen
+- TOP 7.4: Kölner Statistische Nachrichten 2/2026 Kraftfahrzeuge in Köln am 31.12.2025 - Kenntnis genommen
+- TOP 7.5: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 7.6: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 7.7: Energiebericht 2025: Energieverbrauchs- und Kostenstatistik 2024 / Sachstand Energiemanagementkonzept 2025 - vertagt
+- TOP 7.8: RheinEnergie AG: Energieerzeugungsbericht 2022 bis 2024 - vertagt
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der Fraktionen Bündnis 90/Die Grünen und SPD in der Sitzung des Ausschusses Klima, Umwelt und Grün vom 05.03.2026 betreffend "Kompensationszahlung für Flugreisen 2025" (0012/2026) - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Nachfrage in der Sitzung des Ausschusses Klima Umwelt und Grün vom 05.03.2026, betr. "Klimaschutz-Monitoring, hier: Neuveröffentlichung der Treibhausgas-Bilanzen der Bilanzjahre 2022 und 2023" (3579/2025) - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
