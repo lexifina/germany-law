@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Niederelbert (2026-04-30)
+- Körperschaft: Ortsgemeinde Niederelbert
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2026-17OGR-102%7CMAnoe%7C2
