@@ -893,10 +893,11 @@ für Renten nach den Vorschriften des Beitrittsgebiets
 
 - [§ 319d Berücksichtigung von Versorgungskrankengeld](0319d.md)
 
-## Sechstes Kapitel Bußgeldvorschriften
+## Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden
 
 - [§ 320 Bußgeldvorschriften](0320.md)
 - [§ 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0321.md)
+- [§ 322 Unterrichtung durch die Träger der Rentenversicherung zum Zwecke der Sicherung der Tariftreue](0322.md)
 - [Anlage 1 Durchschnittsentgelt in Euro/DM/RM](anlage-1.md)
 - [Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM](anlage-2.md)
 - [Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM](anlage-2a.md)
