@@ -340,7 +340,7 @@
 ### - Zu § 66 Abs. 1 Nr. 17 des Gesetzes
 
 - [§ 109 Vermischungen von versteuerten Energieerzeugnissen](0109.md)
-- [§ 109a (weggefallen)](0109a.md)
+- [§ 109a Zeitlich begrenzte Fassungen einzelner Verordnungsvorschriften](0109a.md)
 - [§ 109b (weggefallen)](0109b.md)
 
 ### - Zu § 66 Abs. 1 Nr. 13 des Gesetzes

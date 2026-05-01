@@ -117,5 +117,5 @@ Schlussbestimmungen
 | § 66b | (weggefallen) |
 | § 66c | Bußgeldvorschriften |
 | § 67 | Übergangsvorschriften |
-| § 68 | (weggefallen) |
+| § 68 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
 | Anlage | (weggefallen) |
