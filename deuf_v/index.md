@@ -23,11 +23,12 @@
 - [§ 11 Grundstruktur der berufsbezogenen Deutschsprachförderung und Berufssprachkurse](0011.md)
 - [§ 12 Basisberufssprachkurse](0012.md)
 - [§ 13 Spezialberufssprachkurse](0013.md)
-- [§ 14 Lerninhalte und Lernziele](0014.md)
-- [§ 15 Zertifikatsprüfungen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen](0015.md)
+- [§ 14 Lerninhalte und Lernziele; Umfang der Kurse](0014.md)
+- [§ 15 Zertifikatsprüfungen](0015.md)
 - [§ 16 Kombination der berufsbezogenen Deutschsprachförderung mit Maßnahmen der aktiven Arbeitsmarktpolitik](0016.md)
 - [§ 17 Lehr- und Lernmittel](0017.md)
-- [§ 18 Lehrkräfte](0018.md)
+- [§ 18 Lehrkräfte und Prüfende](0018.md)
+- [§ 18a Experimentierklausel](0018a.md)
 
 ## Teil 4 Zulassung der Kursträger; Beauftragung von Prüfstellen
 
@@ -36,6 +37,7 @@
 - [§ 21 Prüfung und Entscheidung des Bundesamts](0021.md)
 - [§ 22 Widerruf und Erlöschen der Zulassung](0022.md)
 - [§ 23 Beauftragung von Prüfungsstellen](0023.md)
+- [§ 23a Zulassung von Prüfungsstellen](0023a.md)
 
 ## Teil 5 Expertengremium; Kostenerstattung
 
