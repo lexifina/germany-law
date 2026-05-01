@@ -1,0 +1,30 @@
+# Gesetz zum Schutz und zur Pflege der Denkmäler
+(Bayerisches Denkmalschutzgesetz – BayDSchG)
+Vom 25. Juni 1973
+(BayRS IV S. 354)
+BayRS 2242-1-WK
+Bayerisches Denkmalschutzgesetz (BayDSchG) in der in der Bayerischen Rechtssammlung (BayRS 2242-1-WK) veröffentlichten bereinigten Fassung, das zuletzt durch § 4 des Gesetzes vom 23. April 2026 (GVBl. S. 190) geändert worden ist
+Änderungen
+1. § 5 G zur Vereinfachung und Beschleunigung bau- und wasserrechtlicher Verfahren vom 12.4.1994 (GVBl. S. 210)
+2. § 1 ÄndG vom 23.7.1994 (GVBl. S. 622)
+3. § 17 G zur Ausführung des G zur Abschaffung des Bayerischen Senates vom 16.12.1999 (GVBl. S. 521)
+4. § 8 G zur Umsetzung der Richtlinie 85/337/EWG über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten vom 27.12.1999 (GVBl. S. 532)
+5. § 43 Zweites G zur Anpassung des Landesrechts an den Euro vom 24.4.2001 (GVBl. S. 140)
+6. § 6 Bayerisches BehindertengleichstellungsG und ÄndG vom 9.7.2003 (GVBl. S. 419)
+7. § 1 G zur Änd. denkmalrechtlicher Vorschriften vom 24.7.2003 (GVBl. S. 475; 2017 S. 70)
+8. § 9 G zur Änd. des Bayerischen AbgrabungsG und anderer Rechtsvorschriften vom 20.12.2007 (GVBl. S. 958)
+9. § 3 G zur Änd. der Bayerischen Bauordnung, des BaukammernG und des DenkmalschutzG vom 27.7.2009 (GVBl. S. 385)
+10. § 1 ÄndG vom 17.12.2014 (GVBl. S. 548)
+11. § 2 Nr. 44 G zur Änd. des Bayerischen StatistikG und anderer Rechtsvorschriften vom 12.5.2015 (GVBl. S. 82)
+12. G zur Änderung des Denkmalschutzgesetzes vom 4.4.2017 (GVBl. S. 70)
+13. G zur Änderung des Bayerischen Denkmalschutzgesetzes vom 22.3.2018 (GVBl. S. 187)
+14. § 3 G zur Änderung der Bayerischen Bauordnung und weiterer Rechtsvorschriften vom 10.7.2018 (GVBl. S. 523)
+15. § 1 Abs. 255 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 26.3.2019 (GVBl. S. 98)
+16. G zur Änderung des Bayerischen Denkmalschutzgesetzes vom 23.4.2021 (GVBl. S. 199)
+17. § 7 G zur Änderung des Bayerischen Gesetzes zur Ausführung des Bundesmeldegesetzes und weiterer Rechtsvorschriften vom 10.3.2023 (GVBl. S. 91)
+18. Art. 14 Haushaltsgesetz 2023 vom 21.4.2023 (GVBl. S. 128)
+19. § 1 G zur Änderung des Bayerischen Denkmalschutzgesetzes und weiterer Rechtsvorschriften vom 23.6.2023 (GVBl. S. 251)
+20. § 3 G zur Förderung der Bundeswehr in Bayern vom 23.7.2024 (GVBl. S. 257)
+21. § 13 Abs. 3 Zweites ModernisierungsG Bayern vom 23.12.2024 (GVBl. S. 619)
+22. § 1 Gesetz zur Änderung des Bayerischen Denkmalschutzgesetzes und weiterer Rechtsvorschriften vom 23.12.2025 (GVBl. S. 657)
+23. § 4 Gesetz zur Förderung der Verteidigungsindustrie in Bayern vom 23.4.2026 (GVBl. S. 190)
