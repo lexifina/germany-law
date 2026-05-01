@@ -347,7 +347,6 @@ zum Schutz der Pflegebedürftigen
 - [§ 113b Qualitätsausschuss](0113b.md)
 - [§ 113c Personalbemessung in vollstationären Pflegeeinrichtungen](0113c.md)
 - [§ 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen](0113d.md)
-- [§ 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen](0113d-2.md)
 - [§ 114 Qualitätsprüfungen](0114.md)
 - [§ 114a Durchführung der Qualitätsprüfungen](0114a.md)
 - [§ 114b Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen](0114b.md)
