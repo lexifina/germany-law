@@ -1,0 +1,4 @@
+# Art. 82c Bau-Turbo
+(1) Ist zu einem Vorhaben die Zustimmung der Gemeinde nach § 36a BauGB erforderlich, fordert die Bauaufsichtsbehörde die Gemeinde unverzüglich zur Entscheidung über ihre Zustimmung auf. In diesem Fall endet die Frist zur Entscheidung nach Art. 68 Abs. 2 frühestens einen Monat nach dem Eingang der Entscheidung der Gemeinde bei der Bauaufsichtsbehörde oder dem Ablauf der Frist nach § 36a Abs. 1 Satz 4 oder § 36a Abs. 2 Satz 2 BauGB.
+(2) Abs. 1 gilt für Vorhaben, zu denen die Zustimmung der Gemeinde nach § 246e Abs. 1 und 2 BauGB in Verbindung mit § 36a BauGB erforderlich ist, entsprechend. In den Fällen des § 246e Abs. 1 Satz 2 oder Satz 3 BauGB kann die Bauaufsichtsbehörde den Lauf der Frist des Art. 68 Abs. 2 aufheben, wenn die Wahrung der Frist auch bei sachgerechter Beschleunigung nicht möglich erscheint.
+(3) Die Bauaufsichtsbehörde informiert den Bauherrn unverzüglich über eintretende Änderungen nach den Abs. 1 und 2.
