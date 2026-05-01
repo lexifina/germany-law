@@ -1,8 +1,8 @@
 # Vollzitat: VwV Elektronische Verfahrensakte
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2026-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/21481.2
+- Datum: 2026-05-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/21481.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.04.2026
+01.05.2026
 bis
-30.04.2026
+31.08.2026
 
 VwV Elektronische Verfahrensakte
 
@@ -373,17 +373,21 @@ In Straf- und Bußgeldverfahren finden die Ziffern II, III und IV Nummer 2 keine
 
 2.
 
-Gemäß § 14 Absatz 2 Satz 1 der Sächsischen E-Justizverordnung werden bei den in der Anlage benannten
+Gemäß § 14 Absatz 2 Satz 1 der Sächsischen E-Justizverordnung werden bei den in der Anlage
 
-Bußgeld- und Strafsachenstellen der Finanzämter und Bußgeldbehörden die Akten in Straf- und Bußgeldverfahren
+benannten Bußgeldbehörden vom 1. April 2026 bis einschließlich 31. August 2026 die
 
-vom 1. April 2026 bis einschließlich 31. August 2026 weiterhin in Papierform angelegt sowie von anderer Stelle
+Akten weiterhin in Papierform angelegt sowie von anderer Stelle übermittelte
 
-übermittelte elektronische Akten in Papierform geführt oder weitergeführt. Die Anordnung hinsichtlich der Nummern
+elektronische Akten in Papierform geführt oder weitergeführt. Die Anordnung
 
-5 bis 96 der Anlage umfasst auch die Aufgabenwahrnehmung einer Kommune als erfüllende Kommune für
+hinsichtlich der Nummern 5 bis 103 der Anlage umfasst auch die
 
-eine Verwaltungsgemeinschaft im Sinne des Sächsischen Gesetzes über kommunale Zusammenarbeit.
+Aufgabenwahrnehmung einer Gemeinde als erfüllende Gemeinde für eine
+
+Verwaltungsgemeinschaft im Sinne des Sächsischen Gesetzes über kommunale
+
+Zusammenarbeit.
 
 
 VI.
@@ -435,437 +439,449 @@ Stadt Annaberg-Buchholz
 
 7.
 
-Stadt Bad Düben
+Stadt Aue-Bad Schlema
 
 8.
 
-Stadt Bad Gottleuba-Berggießhübel
+Stadt Bad Düben
 
 9.
 
-Stadt Bad Muskau
+Stadt Bad Gottleuba-Berggießhübel
 
 10.
 
-Stadt Brandis
+Stadt Bad Muskau
 
 11.
 
-Stadt Burgstädt
+Stadt Brandis
 
 12.
 
-Stadt Chemnitz
+Stadt Burgstädt
 
 13.
 
-Stadt Colditz
+Stadt Chemnitz
 
 14.
 
-Stadt Coswig
+Stadt Colditz
 
 15.
 
-Stadt Delitzsch
+Stadt Coswig
 
 16.
 
-Stadt Ebersbach-Neugersdorf
+Stadt Delitzsch
 
 17.
 
-Stadt Ehrenfriedersdorf
+Stadt Ebersbach-Neugersdorf
 
 18.
 
-Stadt Elsterberg
+Stadt Ehrenfriedersdorf
 
 19.
 
-Stadt Freiberg
+Stadt Elsterberg
 
 20.
 
-Stadt Frohburg
+Stadt Freiberg
 
 21.
 
-Stadt Görlitz
+Stadt Frohburg
 
 22.
 
-Stadt Grimma
+Stadt Görlitz
 
 23.
 
-Stadt Gröditz
+Stadt Grimma
 
 24.
 
-Stadt Herrnhut
+Stadt Gröditz
 
 25.
 
-Stadt Hoyerswerda
+Stadt Herrnhut
 
 26.
 
-Stadt Königstein
+Stadt Hoyerswerda
 
 27.
 
-Stadt Lichtenstein
+Stadt Königstein
 
 28.
 
-Stadt Löbau
+Stadt Lichtenstein
 
 29.
 
-Stadt Lunzenau
+Stadt Limbach-Oberfrohna
 
 30.
 
-Stadt Marienberg
+Stadt Löbau
 
 31.
 
-Stadt Markkleeberg
+Stadt Lunzenau
 
 32.
 
-Stadt Netzschkau
+Stadt Marienberg
 
 33.
 
-Stadt Neusalza-Spremberg
+Stadt Markkleeberg
 
 34.
 
-Stadt Nossen
+Stadt Netzschkau
 
 35.
 
-Stadt Oelsnitz/Erzgebirge
+Stadt Neusalza-Spremberg
 
 36.
 
-Stadt Oschatz
+Stadt Nossen
 
 37.
 
-Stadt Ostritz
+Stadt Oelsnitz/Erzgebirge
 
 38.
 
-Stadt Penig
+Stadt Oschatz
 
 39.
 
-Stadt Plauen
+Stadt Ostritz
 
 40.
 
-Stadt Pockau-Lengefeld
+Stadt Penig
 
 41.
 
-Stadt Rabenau
+Stadt Plauen
 
 42.
 
-Stadt Radeberg
+Stadt Pockau-Lengefeld
 
 43.
 
-Stadt Radeburg
+Stadt Rabenau
 
 44.
 
-Stadt Reichenbach/Oberlausitz
+Stadt Radeberg
 
 45.
 
-Stadt Rothenburg/Oberlausitz
+Stadt Radeburg
 
 46.
 
-Stadt Scheibenberg
+Stadt Reichenbach/Oberlausitz
 
 47.
 
-Stadt Schkeuditz
+Stadt Rothenburg/Oberlausitz
 
 48.
 
-Stadt Schlettau
+Stadt Scheibenberg
 
 49.
 
-Stadt Schwarzenberg/Erzgebirge
+Stadt Schkeuditz
 
 50.
 
-Stadt Strehla
+Stadt Schlettau
 
 51.
 
-Stadt Taucha
+Stadt Schwarzenberg/Erzgebirge
 
 52.
 
-Stadt Torgau
+Stadt Strehla
 
 53.
 
-Stadt Treuen
+Stadt Taucha
 
 54.
 
-Stadt Waldenburg
+Stadt Torgau
 
 55.
 
-Stadt Waldheim
+Stadt Treuen
 
 56.
 
-Stadt Werdau
+Stadt Waldenburg
 
 57.
 
-Stadt Wilkau-Haßlau
+Stadt Waldheim
 
 58.
 
-Stadt Wolkenstein
+Stadt Werdau
 
 59.
 
-Stadt Zwickau
+Stadt Wilkau-Haßlau
 
 60.
 
-Gemeinde Amtsberg
+Stadt Wolkenstein
 
 61.
 
-Gemeinde Arnsdorf
+Stadt Zwickau
 
 62.
 
-Gemeinde Bannewitz
+Gemeinde Amtsberg
 
 63.
 
-Gemeinde Beilrode
+Gemeinde Arnsdorf
 
 64.
 
-Gemeinde Boxberg/Oberlausitz
+Gemeinde Bannewitz
 
 65.
 
-Gemeinde Crottendorf
+Gemeinde Beilrode
 
 66.
 
-Gemeinde Diera-Zehren
+Gemeinde Bennewitz
 
 67.
 
-Gemeinde Dürrröhrsdorf-Dittersbach
+Gemeinde Boxberg/Oberlausitz
 
 68.
 
-Gemeinde Ebersbach
+Gemeinde Crottendorf
 
 69.
 
-Gemeinde Ellefeld
+Gemeinde Diera-Zehren
 
 70.
 
-Gemeinde Hirschstein
+Gemeinde Dürrröhrsdorf-Dittersbach
 
 71.
 
-Gemeinde Laußig
+Gemeinde Ebersbach
 
 72.
 
-Gemeinde Lichtenau
+Gemeinde Ellefeld
 
 73.
 
-Gemeinde Mittelherwigsdorf
+Gemeinde Hirschstein
 
 74.
 
-Gemeinde Mockrehna
+Gemeinde Kottmar
 
 75.
 
-Gemeinde Muldenhammer
+Gemeinde Laußig
 
 76.
 
-Gemeinde Mülsen
+Gemeinde Lichtenau
 
 77.
 
-Gemeinde Neschwitz
+Gemeinde Mittelherwigsdorf
 
 78.
 
-Gemeinde Niederwiesa
+Gemeinde Mockrehna
 
 79.
 
-Gemeinde Ottendorf-Okrilla
+Gemeinde Muldenhammer
 
 80.
 
-Gemeinde Pöhl
+Gemeinde Mülsen
 
 81.
 
-Gemeinde Priestewitz
+Gemeinde Neschwitz
 
 82.
 
-Gemeinde Raschau-Markersbach
+Gemeinde Niederwiesa
 
 83.
 
-Gemeinde Reinsdorf
+Gemeinde Olbersdorf
 
 84.
 
-Gemeinde Röderaue
+Gemeinde Ottendorf-Okrilla
 
 85.
 
-Gemeinde Rosenbach/Vogtland
+Gemeinde Pöhl
 
 86.
 
-Gemeinde Schleife
+Gemeinde Priestewitz
 
 87.
 
-Gemeinde Schönfeld
+Gemeinde Raschau-Markersbach
 
 88.
 
-Gemeinde Schönheide
+Gemeinde Reinsdorf
 
 89.
 
-Gemeinde Schwepnitz
+Gemeinde Röderaue
 
 90.
 
-Gemeinde Sehmatal
+Gemeinde Rosenbach/Vogtland
 
 91.
 
-Gemeinde Spreetal
+Gemeinde Schleife
 
 92.
 
-Gemeinde Stauchitz
+Gemeinde Schönfeld
 
 93.
 
-Gemeinde Steinberg
+Gemeinde Schönheide
 
 94.
 
-Gemeinde Stützengrün
+Gemeinde Schwepnitz
 
 95.
 
-Gemeinde Thiendorf
+Gemeinde Sehmatal
 
 96.
 
-Gemeinde Weinböhla
+Gemeinde Spreetal
 
 97.
 
-Gemeinde Zeithain
+Gemeinde Stauchitz
 
 98.
 
-Verwaltungsverband Jägerswald
+Gemeinde Steinberg
 
 99.
 
-Verwaltungsverband Wildenstein
+Gemeinde Stützengrün
 
 100.
 
-Kommunaler Sozialverband
+Gemeinde Thiendorf
 
 101.
 
-Datenschutz- und Transparenzbeauftragte
+Gemeinde Weinböhla
 
 102.
 
-Landesdirektion
+Gemeinde Weischlitz
 
 103.
 
-Statistisches Landesamt
+Gemeinde Zeithain
 
 104.
 
-Landesamt für Steuern und Finanzen
+Verwaltungsverband Jägerswald
 
 105.
 
-Bußgeld- und Strafsachenstelle des Finanzamts Chemnitz-Süd
+Verwaltungsverband Wildenstein
 
 106.
 
-Bußgeld- und Strafsachenstelle des Finanzamts Dresden-Nord
+Kommunaler Sozialverband
 
 107.
 
-Bußgeld- und Strafsachenstelle des Finanzamts Leipzig II
+Die Sächsische Datenschutz- und Transparenzbeauftragte
 
 108.
 
-Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen
+Landesdirektion
 
 109.
 
-Handwerkskammer Chemnitz
+Statistisches Landesamt
 
 110.
 
-Handwerkskammer Dresden
+Landesamt für Steuern und Finanzen
 
 111.
 
-Handwerkskammer Leipzig
+Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen
 
 112.
 
-Industrie- und Handelskammer Dresden
+Handwerkskammer Chemnitz
 
 113.
 
-Landeszahnärztekammer
+Handwerkskammer Dresden
 
 114.
 
-Ostdeutsche Psychotherapeutenkammer
+Handwerkskammer Leipzig
 
 115.
+
+Industrie- und Handelskammer Dresden
+
+116.
+
+Landeszahnärztekammer
+
+117.
+
+Ostdeutsche Psychotherapeutenkammer
+
+118.
 
 Deutsche Rentenversicherung Mitteldeutschland
 
@@ -880,9 +896,9 @@ Fsn-Nr.: 300
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. April 2026
+Fassung gültig ab:  1. Mai 2026
 
-Fassung gültig bis: 30. April 2026
+Fassung gültig bis: 31. August 2026
 
 Drucken/Speichern
 
@@ -907,7 +923,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/21481.2
+https://www.revosax.sachsen.de/vorschrift/21481.3
 Stand vom
 18.11.2026
 
