@@ -1,0 +1,3 @@
+– des Art. 12 Abs. 1 des vom 21. März bis 4. April 2019 unterzeichneten Staatsvertrags über die Hochschulzulassung (GVBl. S. 528, BayRS 02-24-WK),
+– des Art. 7 Abs. 3 Nr. 2 bis 4, des Art. 9 Abs. 1 und des Art. 9b des Bayerischen Hochschulzulassungsgesetzes (BayHZG) vom 9. Mai 2007 (GVBl. S. 320, BayRS 2210-8-2-WK), das zuletzt durch §§ 1, 2, 3 und 4 des Gesetzes vom 23. Dezember 2019 (GVBl. S. 737) geändert worden ist, und
+– des Art. 47 Abs. 1 Satz 3 des Bayerischen Hochschulgesetzes (BayHSchG) vom 23. Mai 2006 (GVBl. S. 245, BayRS 2210-1-1-WK), das zuletzt durch § 1 Abs. 186 der Verordnung vom 26. März 2019 (GVBl. S. 98) geändert worden ist,
