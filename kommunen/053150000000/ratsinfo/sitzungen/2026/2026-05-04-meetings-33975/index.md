@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-05-04T16:00:00+02:00
+- Ende: 2026-05-04T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33975
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33975
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch Dezernent Andree Haack
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO – Sielsdorfer Straße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage AN/0377/2026 der CDU-Fraktion bezüglich der Sanierungsmaßnahmen an der Grundschule Lohrbergstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Sachstand der Sozialhäuser in der Geisbergstraße 47a-53c - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.2: Anfrage Turnhallen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.3: Geschwindigkeitsanzeiger im Stadtraum - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Erweiterung Vorhaben bezogener Bebauungsplan „Stüttgenweg in Köln Lindenthal" (Vorlage 0818/2023) - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 8.1.1 FDP/Volt - ungeändert beschlossen
+- TOP 8.1.2: 1. Änderung des Bebauungsplan 5946/02-01 in Köln Widdersdorf "öffentlich zugängliche Golfanlage" - ungeändert beschlossen
+- TOP 8.1.3: Antrag Zugangspoller Stadtwald Friedrich-Schmidt-Straße
+- TOP -: Ersetzungsantrag 8.1.3 - ungeändert beschlossen
+- TOP 8.1.4: Trinkwasserspender an Schulen
+- TOP -: Ersetzungsantrag 8.1.4 - ungeändert beschlossen
+- TOP 8.1.5: Fahrrad-Grünpfeil auf der Luxemburger Str./Eifelwall - ungeändert beschlossen
+- TOP 8.1.6: Unrechtmäßige Abstellung von E-Scootern - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag 8.1.6 - endgültig zurückgezogen
+- TOP 8.1.7: Fußgängerüberwege an der Geibelstraße - ungeändert beschlossen
+- TOP 8.1.8: Überprüfung der Fußgängerampeln auf der Luxemburger Str. - ungeändert beschlossen
+- TOP 8.1.9: Verbesserung der Fahrbahnoberfläche auf der Lotharstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Baubeschluss für die Sanierung des Carl-von-Linné-Wegs im Abschnitt Belvederestraße bis Militärringstraße - ungeändert beschlossen
+- TOP 9.1.2: Aufstellung von Fahrgastunterständen (FGU) im Busbereich hier: Umsetzung des Werbenutzungsvertrages und weiteres Vorgehen - ungeändert beschlossen
+- TOP 9.1.3: Stadtverschönerungsmittel Lindenthal 2026 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Aufhebung des Einleitungsbeschlusses zur Teilaufhebung des Bebauungsplanes Nr.63450/03 Arbeitstitel: Maarweg/Scheidtweilerstraße in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 9.2.2: 296. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - geändert beschlossen
+- TOP 9.2.4: Baubeschluss für den Neubau des Anschlusses der Militärringstraße/Stolberger Straße, des Kreisverkehrsplatzes Stolberger Straße/Wendelinstraße/Vitalisstraße, für die Umgestaltung der Anschlüsse d. Militärringstraße/Aachener Straße und Militärringstr. - geändert beschlossen
+- TOP -: Ergänzungsantrag 1 Anschluss Stolberger Straße Bedarfsampel und sicherer Radweg - ungeändert beschlossen
+- TOP -: Ergänzungsantrag 2 Baubeschluss Neubau Anschluss Militärring an die Stolberger Straße , hier Aachender Straße - ungeändert beschlossen
+- TOP -: Ergänzungsantrag 3 Eingriff in die Böschung - ungeändert beschlossen
+- TOP -: Ergänzungsantrag 4 Aachener Straße Südseite - endgültig abgelehnt
+- TOP -: Ergänzungsantrag 5 Stellplätze im Bereich der Einmündung Stolberger Straße in den Kreisverkehr - endgültig abgelehnt
+- TOP 9.2.5: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 23. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.1.2: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Mitteilung zum Antrag AN/1324/2025, einen Weg nach Hans Kelsen zu benennen - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Neuaufstellungsverfahren für den Regionalplan Köln und Aufstellungsverfahren für den Sachlichen Teilplan Nichtenergetische Rohstoffe (Lockergesteine) sowie für den Sachlichen Teilplan Erneuerbare Energien abgeschlossen - Kenntnis genommen
+- TOP 11.3.2: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 11.3.3: Gymnasiale Nutzung des Standorts Lotharstr. 14-18, 50937 Köln Lindenthal, hier: Bedarfslage - Kenntnis genommen
+- TOP 11.3.4: Nachhaltiger Mobilitätsplan „Besser durch Köln“ – Bisherige Ergebnisse und weiterer Prozess - Kenntnis genommen
+- TOP 11.3.5: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 11.3.6: Machbarkeitsstudie für ein Expressbusnetz in Köln - Kenntnis genommen
+- TOP 11.3.7: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2025 - Kenntnis genommen
+- TOP 11.3.8: Städtebauliches Qualifizierungsverfahren "Oskar-Jäger-Straße südlich Low Line" - Aufgabenstellung - Kenntnis genommen
+- TOP 11.3.9: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung vom 03.03.2026 (AN/0311/2026) betreffend "Sicherheit im Straßenverkehr durch Geschwindigkeitsanzeigetafeln" - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
