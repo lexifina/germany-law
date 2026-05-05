@@ -1,0 +1,86 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Controlling & Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-05-05T16:04:00+02:00
+- Ende: 2026-05-05T16:55:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24696
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24696
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00363112.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00364294.pdf
+
+## Tagesordnung
+
+- TOP -: Strategische Themen
+- TOP 1: Kommunale Wärmeplanung für Wuppertal - ungeändert beschlossen
+- TOP -: Teil A- Angelegenheiten des Finanzausschusses
+- TOP 2: Doppelhaushalt 2026/2027
+- TOP -: Fraktionsanträge zum Haushalt
+- TOP 2.1: KI für die Schwimmoper - zur Beratung und Entscheidung verwiesen
+- TOP 2.2: Haushaltsplanberatungen; Gemeinsamer Antrag der Fraktionen von SPD und CDU - zur Beratung und Entscheidung verwiesen
+- TOP -: Weitere Anträge von Dritten zum Haushalt
+- TOP 2.3: Antrag auf Zuschusserhöhung für die Wicked Woods - zur Beratung und Entscheidung verwiesen
+- TOP 2.4: Antrag auf Zuschusserhöhung profamilia - zur Beratung und Entscheidung verwiesen
+- TOP 2.5: Antrag auf Zuschusserhöhung für Die Börse und Wuppertaler Kinder- und Jugendtheater - zur Beratung und Entscheidung verwiesen
+- TOP 2.6: Antrag der Kinder- und Jugendfarm Wuppertal e. V. - zur Beratung und Entscheidung verwiesen
+- TOP 2.7: Anträge auf Finanzierung sozialer Träger - zur Beratung und Entscheidung verwiesen
+- TOP 2.8: Anträge auf Institutionelle Förderung der Freien Szene - zur Beratung und Entscheidung verwiesen
+- TOP -: Verwaltungsvorlagen zum Haushalt
+- TOP 2.9: Umsetzung des Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz – LuKIFG sowie des NRW-Infrastrukturgesetzes 2025 bis 2036 - ungeändert beschlossen
+- TOP 2.10: Erhöhung Projektbudget SAP S/4 HANA - ungeändert beschlossen
+- TOP 2.11: Ausbuchung der Bilanzierungshilfe nach dem NKF-COVID-19-Ukraine-Isolierungsgesetz (NKF-CUIG) - ungeändert beschlossen
+- TOP 2.12: Weiterfinanzierung von diversen Beschäftigungsprojekten - ungeändert beschlossen
+- TOP 2.13: Verstetigung der Ehrenamtspauschale - ungeändert beschlossen
+- TOP 2.14: Neuveranschlagung der Bedarfe der Feuerwehr im Haushaltsplan 2026/2027 im Rahmen der Veränderungen zum Haushaltsplanentwurf - ungeändert beschlossen
+- TOP 2.15: Mehrkostenbeschluss Sanierung Freibad Mirke und Sachstandsbericht - ungeändert beschlossen
+- TOP 2.16: Weiterführung Sonntagsöffnung der Bibliothek - ungeändert beschlossen
+- TOP 2.17: Kalktrichterofen - Weiteres Vorgehen und Mittelbereistellung – Veränderungen zum Haushaltsplanentwurf 2026/2027 - ungeändert beschlossen
+- TOP 2.18: Mittelbereitstellung Schloss Burg – Veränderungen zum Haushaltsplanentwurf 2026/2027 - ungeändert beschlossen
+- TOP 2.19: Rekommunalisierung der von der Stadtsparkasse Wuppertal gehaltenen Anteile an der gwg in den städtischen Konzern - ungeändert beschlossen
+- TOP 2.20: Empfehlungen der Bezirksvertretungen und Ratsgremien zum Entwurf des Haushaltsplanes 2026/2027 und zum Entwurf des Haushaltssicherungskonzeptes 2026/2027 - Entgegennahme ohne Beschluss
+- TOP 2.21: 1. Veränderungsnachweisung zum Haushaltsplanentwurf 2026/2027 - ungeändert beschlossen
+- TOP 2.22: 2. Veränderungsnachweisung zum Haushaltsplanentwurf 2026/2027 (Haushaltssicherungskonzept) - ungeändert beschlossen
+- TOP 3: Aktuelle Finanzlage/Controlling
+- TOP 3.1: Prognose des Jahresergebnisses 2025 - Entgegennahme ohne Beschluss
+- TOP 4: Laufende Bewirtschaftung des Haushaltes
+- TOP 4.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 01.01.2026 - 17.04.2026 - Entgegennahme ohne Beschluss
+- TOP 4.2: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Cronenberg - Durchführungsbeschluss - ungeändert beschlossen
+- TOP 4.3: Zusatzvereinbarung zur öffentlich-rechtlichen Vereinbarung zur gemeinsamen Stufenausbildung Feuerwehr der Städte Wuppertal, Remscheid und Solingen - ungeändert beschlossen
+- TOP 4.4: Kostenerhöhung und überplanmäßige Mittelbereitstellung im Projekt "Neugestaltung Werth" - ungeändert beschlossen
+- TOP 4.5: Sanierung des Stadtbades Uellendahl, Röttgen 149 - ungeändert beschlossen
+- TOP 4.6: Kinderspielplatz Dorfwiese – Sozialer Zusammenhalt Heckinghausen/Langerfeld-West - ungeändert beschlossen
+- TOP 4.7: Durchführungsbeschluss – Vorhangzuganlage im Opernhaus - ungeändert beschlossen
+- TOP 4.8: Austritt der Stadt Wuppertal aus dem Verein der IG Zeltplätze Bever-Talsperre e.V. - ungeändert beschlossen
+- TOP 4.9: Zuschüsse zur Förderung der Jugendverbandsarbeit 2026 - ungeändert beschlossen
+- TOP 4.10: Überplanmäßige Mittelbereitstellung für Rückstellungen bei den Personalaufwendungen - ungeändert beschlossen
+- TOP -: Teil B-Angelegenheiten der Beteiligungssteuerung
+- TOP 5: Städtische Beteiligungen
+- TOP -: APH-Alten-und Altenpflegeheime der Stadt Wuppertal
+- TOP 5.1: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Inve - Entgegennahme ohne Beschluss
+- TOP 5.2: Zustimmung der vom Landschaftsverband beschieden gesondert berechnungsfähigen betriebsbedingten - ungeändert beschlossen
+- TOP -: GMW-Gebäudemanagement der Stadt Wuppertal
+- TOP 5.3: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 5.3.1: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2024 - Entlastung des Betriebsausschusses - ungeändert beschlossen
+- TOP 5.4: Einbringung Wirtschaftsplan GMW 2026 - geändert beschlossen
+- TOP 5.4.1: Ergänzungsantrag zu TOP 5.4 - Einbringung Wirtschaftsplan GMW 2026 - VO/0204/26 - ungeändert beschlossen
+- TOP 5.5: Antwort auf den Ergänzungsantrag der CDU an den Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW zu TOP 6.14. „Schulbauoffensive 2035 – Wuppertal baut Bildung“ (VO/0476/25) - Entgegennahme ohne Beschluss
+- TOP -: Quppertaler Bühnen und Sinfonieorchester GmbH
+- TOP 5.6: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2024/2025 - ungeändert beschlossen
+- TOP 5.6.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2024/2025 - ungeändert beschlossen
+- TOP 5.7: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2026/2027 - ungeändert beschlossen
+- TOP 5.8: Eintrittspreise der Wuppertaler Bühnen und Sinfonieorchester GmbH - Entgegennahme ohne Beschluss
+- TOP -: AWG-Abfallwirtschaftsgesellschaft mbH
+- TOP 5.9: Jahresabschluss der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 5.9.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: BuGa-Bundesgartenschau Wuppertal 2031 gGmbH
+- TOP 5.10: Jahresabschluss der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 5.10.1: Entlastung des Aufsichtsrates der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 5.11: Wirtschaftsplan der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2026 - ungeändert beschlossen
+- TOP -: Delphin-Delphin Vermögensverwaltung GmbH
+- TOP 5.12: Bestellung des Liquidators für die Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP -: Teil C-Betriebsausschuss des Eigenbetriebes Wasser und Abwasser (WAW)
+- TOP 6: Allgemeine Vorlagen
+- TOP 6.1: Aktualisierung der Abwasserbeseitigungssatzung der Stadt Wuppertal; Gemeinsamer Antrag der Fraktionen von SPD, CDU, Bündnis 90/Die Grünen, Die Linke und FDP/WfW - ungeändert beschlossen
