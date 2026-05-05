@@ -1,2451 +1,1384 @@
-# Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz über die Gewährung von Zuwendungen für einzelbetriebliche Investitionen in landwirtschaftlichen Unternehmen im Land Brandenburg und Berlin (EBI-Richtlinie)
+# Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz über die Gewährung von Zuwendungen für die Förderung der ländlichen Entwicklung im Rahmen von LEADER (LEADER-Richtlinie)
 
 - Herausgeber: Land Brandenburg
-- Datum: 2022-09-06 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ebi_richtlinie_2022
+- Datum: 2026-05-05 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/leader_2023
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz über die Gewährung von Zuwendungen für einzelbetriebliche Investitionen in landwirtschaftlichen Unternehmen im Land Brandenburg und Berlin (EBI-Richtlinie)
+Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz über die Gewährung von Zuwendungen für die Förderung der ländlichen Entwicklung im Rahmen von LEADER (LEADER-Richtlinie)
 
-vom 6. September 2022
+vom 12. Juni 2023
 
-(ABl./22, [Nr. 47S], S.940-2)
+(ABl./23, [Nr. 30], S.703)
 
-Inhaltsübersicht
+zuletzt geändert durch Erlass des MLUK vom 5. Mai 2026
 
-Teil I Einzelbetriebliche Förderung von Investitionen zur Erzeugung, Verarbeitung und Direktvermarktung
+(ABl./26, [Nr. 29], S.643)
 
-| 1
-
-| Zuwendungszweck, Rechtsgrundlage
-
-| 940/3
-
-
-| 2
-
-| Gegenstand der Förderung
-
-| 940/3
-
-
-| 3
-
-| Zuwendungsempfangende
-
-| 940/4
-
-
-| 4
-
-| Zuwendungsvoraussetzungen
-
-| 940/5
-
-
-| 5
-
-| Art und Umfang, Höhe der Zuwendung
-
-| 940/6
-
-
-| 6
-
-| Sonstige Bestimmungen
-
-| 940/8
-
-
-Teil II Einzelbetriebliche Förderung von Investitionen im Bereich Gartenbau und Imkerei
-
-| 1
-
-| Zuwendungszweck, Rechtsgrundlage
-
-| 940/9
-
-
-| 2
-
-| Gegenstand der Förderung
-
-| 940/9
-
-
-| 3
-
-| Zuwendungsempfangende
-
-| 940/11
-
-
-| 4
-
-| Zuwendungsvoraussetzungen
-
-| 940/11
-
-
-| 5
-
-| Art und Umfang, Höhe der Zuwendung
-
-| 940/12
-
-
-| 6
-
-| Sonstige Bestimmungen
-
-| 940/13
-
-
-Teil III Einzelbetriebliche Förderung von Investitionen zur Diversifizierung
-
-| 1
-
-| Zuwendungszweck, Rechtsgrundlage
-
-| 940/14
-
-
-| 2
-
-| Gegenstand der Förderung
-
-| 940/14
-
-
-| 3
-
-| Zuwendungsempfangende
-
-| 940/15
-
-
-| 4
-
-| Zuwendungsvoraussetzungen
-
-| 940/15
-
-
-| 5
-
-| Art und Umfang, Höhe der Zuwendung
-
-| 940/16
-
-
-| 6
-
-| Sonstige Bestimmungen
-
-| 940/16
-
-
-Teil IV Verfahren und Geltungsdauer
-
-| 7
-
-| Verfahren
-
-| 940/17
-
-
-| 8
-
-| Geltungsdauer
-
-| 940/18
-
-
-Begriffsbestimmungen
-
-Verarbeitung eines landwirtschaftlichen Erzeugnisses
-
-Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses ist die Einwirkung auf ein Erzeugnis zu verstehen, das im Anhang I des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) genannt ist und bei dem auch das daraus entstehende Erzeugnis ein Anhang I-Erzeugnis ist.
-
-Kooperationen
-
-Kooperationen im Rahmen der Einzelbetrieblichen Investi­tionsförderung sind Zusammenschlüsse im Sinne von Artikel 17 Absatz 3 der Verordnung (EU) Nr. 1305/20131 (ELER-Verordnung) von mindestens zwei landwirtschaftlichen Betrieben („kollektive Investitionen“), im Sinne von Artikel 35 der Verordnung (EU) Nr. 1305/2013 von Landwirten oder Unternehmen der Verarbeitung und Vermarktung, die mit weiteren Landwirten und Einrichtungen zusammenarbeiten. Die Organisationen und Einrichtungen der Land- und Ernährungswirtschaft müssen überwiegend von Mitgliedern aus land- und ernährungswirtschaftlichen Unternehmen getragen werden und auf vertraglicher Grundlage zusammenarbeiten.
-
-Operationelle Gruppen
-
-Operationelle Gruppen (OG) gemäß Artikel 56 der Verordnung (EU) Nr. 1305/2013 sind Teil der Europäischen Innovationspartnerschaft „Landwirtschaftliche Produktivität und Nachhaltigkeit“ (EIP Agri). Sie werden von Landwirten und/oder Unternehmen der Verarbeitung und Vermarktung in Verbindung mit anderen Interessengruppen, wie zum Beispiel Forschern und Beratern, mit dem Ziel gegründet, innovative Erzeugnisse, Verfahren, Prozesse und Technologien zu entwickeln, durchzuführen und zu begleiten.
-
-Nichtproduktive Investitionen
-
-Nichtproduktive Investitionen im Sinne von Artikel 17 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 1305/2013 sind Investitionen, die nicht zu einer erheblichen Steigerung des Wertes des Betriebes oder seiner Rentabilität führen. Sie dienen zur Verwirklichung von im Rahmen der ELER-Verordnung (EU) Nr. 1305/2013 verfolgten Agrarumwelt- und Klimazielen.
-
-Kleinst-, kleine und mittlere Unternehmen (KMU)
-
-Die Größenklassen der Kleinst-, kleinen und mittleren Unternehmen (KMU) setzen sich laut Definition des Anhangs 1 der Verordnung (EU) Nr. 702/20142 aus Unternehmen zusammen, die weniger als 250 Personen beschäftigen und die entweder einen Jahresumsatz von höchstens 50 Millionen Euro erzielen oder deren Jahresbilanzsumme sich auf höchstens 43 Millionen Euro beläuft.
-
-Teil I Einzelbetriebliche Förderung von Investitionen zur Erzeugung, Verarbeitung und Direktvermarktung
+Teil I Allgemeine Regelungen
 
 1 Zuwendungszweck, Rechtsgrundlage
 
-1.1 Zuwendungszweck
+1.1 Das Land gewährt auf der Grundlage der Verordnung (EU) Nr. 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (ABl. L 435 vom 6.12.2021, S. 1) sowie der Verordnung (EU) Nr. 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187), des Nationalen Strategieplans für die 1. und die 2. Säule der Gemeinsamen Agrarpolitik für die Bundesrepublik Deutschland (Interventionsnummer EL-0703) in der jeweils geltenden Fassung, nach Maßgabe dieser Richtlinie und der Verwaltungsvorschriften zu § 44 der Landeshaushaltsordnung (LHO) Zuwendungen zur Förderung von Maßnahmen zur nachhaltigen Sicherung und Entwicklung der ländlichen Räume als Lebens-, Arbeits-, Erholungs- und Naturräume. Für die Vorhaben gemäß dieser Richtlinie findet das Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik (GAP-Finanzinteressen-Schutz-Gesetz - GAPFinISchG) in der jeweils geltenden Fassung entsprechende Anwendung.
 
-Die Förderung erfolgt mit dem Ziel, die Entwicklung einer wettbewerbsfähigen, nachhaltigen, besonders umwelt- und klimaschonenden, besonders tiergerechten, multifunktionalen und witterungsbedingten Risiken vorbeugenden Landwirtschaft durch investive Maßnahmen in landwirtschaftlichen Unternehmen zu unterstützen. Dies soll insbesondere durch die Förderung der
+1.2 Beihilferechtliche Vorbemerkungen
 
-Verbesserung der Haltungsbedingungen durch besonders tiergerechte Investitionsmaßnahmen,
+1.2.1 Die nach Nummer A.1.1 bis Nummer D.1.1 und Nummer E.1.1 dieser Richtlinie gewährten Förderungen stellen keine Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) dar.
 
-Verbesserung des effizienten Ressourceneinsatzes,
+1.2.2 Die nach Nummer D.1.2.1 (Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau von Kultureinrichtungen und des Erhalts von Kulturerbe) dieser Richtlinie gewährten Förderungen stellen Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) dar, die nach Artikel 53 der Allgemeinen Gruppenfreistellungsverordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 (AGVO) in der jeweils geltenden Fassung mit dem Binnenmarkt vereinbar und von der Anmeldepflicht gemäß Artikel 108 Absatz 3 AEUV freigestellt sind.
 
-Vorbeugung von Schäden durch Naturkatas­trophen gleichzusetzende widrige Witterungsverhältnisse,
+1.2.3 Die nach Nummer D.1.2.2 (Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau von Sport- und/oder multifunktionalen Freizeitinfrastrukturen) dieser Richtlinie gewährten Förderungen stellen Beihilfen im Sinne von Artikel 107 Absatz 1 AEUV dar, die nach Artikel 55 AGVO in der jeweils geltenden Fassung mit dem Binnenmarkt vereinbar und von der Anmeldepflicht gemäß Artikel 108 Absatz 3 AEUV freigestellt sind.
 
-Verbesserung der Lebens-, Arbeits- und Produk­tionsbedingungen
+1.2.4 Die nach Nummer D.1.2.3 (Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau sonstiger Infrastrukturen) dieser Richtlinie gewährten Förderungen stellen Beihilfen im Sinne von Artikel 107 Absatz 1 AEUV dar, die nach Artikel 56 AGVO in der jeweils geltenden Fassung mit dem Binnenmarkt vereinbar und von der Anmeldepflicht gemäß Artikel 108 Absatz 3 AEUV freigestellt sind.
 
-erfolgen.
+1.2.5 Die nach der Nummer D.1.3 (beihilferelevante Vorhaben zur Förderung der Wirtschaft) dieser Richtlinie gewährten Förderungen stellen Beihilfen im Sinne von Artikel 107 Absatz 1 AEUV dar, die nach Artikel 19 b AGVO in der jeweils geltenden Fassung mit dem Binnenmarkt vereinbar und von der Anmeldepflicht gemäß Artikel 108 Absatz 3 AEUV freigestellt sind.
 
-1.2 Rechtsgrundlage
+1.3 Vergaberechtliche Vorschriften
 
-Das Land gewährt auf der Grundlage der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der länd­lichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des länd­lichen Raums (ELER) sowie der Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit gemeinsamen Bestimmungen über den EFRE, ESF, den Kohäsionsfonds, den ELER und den EMFF sowie mit allgemeinen Bestimmungen über den EFRE, den ESF, den Kohäsionsfonds und den EMFF und zur Aufhebung der Verordnung (EG) Nr. 1083/2006 des Rates, des Entwicklungsprogramms für den ländlichen Raum Brandenburgs und Berlins 2014-2020 (Ziffer 8.2.3.3) und des Rahmenplans der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes (GAK)“ in der jeweils geltenden Fassung, nach Maßgabe dieser Richtlinie und der Verwaltungsvorschriften zu § 44 der Landeshaushaltsordnung (LHO) Zuwendungen zur Förderung von Maßnahmen.
+In Bezug auf die Anwendung der vergaberechtlichen Vorschriften gelten die einschlägigen Festlegungen der Allgemeinen Nebenbestimmungen für Zuwendungen für aus den EU-Fonds im Rahmen von ESF+, EFRE (inklusive Interreg A), JTF und EMFAF finanzierte Vorhaben in der Förderperiode 2021 bis 2027 sowie aus dem EU-Fonds ELER finanzierte Vorhaben in der Förderperiode 2023 bis 2027 (ANBest-EU 21) zu § 44 LHO. Somit sind auch Aufträge, die nach der Mitteilung der EU-Kommission zu Auslegungsfragen 2006/C 179/02 (Mitteilung) für den Europäischen Binnenmarkt relevant sind, entsprechend bekannt zu machen und zu vergeben (Transparenzpflicht).
 
-1.3 Anspruch auf Förderung
+Für die Zuwendungsempfangenden gemäß Nummer 3.1 ANBest-EU 21 (Lesefassung für den ELER) gilt Folgendes:
 
-Ein Anspruch auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsstelle aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Bei Vergaben als Direktauftrag (gemäß Nummer 3.2 beziehungsweise Nummer 3.4 VV zu § 55 LHO) sind - entsprechend den Haushaltsgrundsätzen der Wirtschaftlichkeit und Sparsamkeit - ab einem Auftragswert von mehr als 2 500 Euro (ohne Umsatzsteuer) vor der Auftragsvergabe mindestens drei vergleichbare Angebote oder Preisvergleiche einzuholen. Dabei ist die Binnenmarktrelevanz des jeweiligen Auftrages zu prüfen und zu dokumentieren (gemäß Nummer 2.4 VV zu § 55 LHO).
+
+Auf den „Leitfaden Vergabe für private und öffentliche Auftraggeber im Rahmen von ELER-Förderprojekten“ in der jeweils geltenden Fassung wird verwiesen.
+
+1.4 Projektauswahl
+
+Auf der Grundlage des Erlasses der Verwaltungsbehörde ELER zur Auswahl der Vorhaben in Brandenburg und Berlin 2023-2027 im Rahmen des GAP-Strategieplans in der jeweils geltenden Fassung werden Prioritäten bei der Entscheidung zur Bewilligung von Maßnahmen gesetzt (siehe auch Nummer 7.1.2 der Richtlinie).
+
+Die Projektauswahl erfolgt durch die jeweilige lokale Aktionsgruppe (LAG) auf Basis der in der genehmigten Regionalen Entwicklungsstrategie (RES) festgelegten Auswahlkriterien.
+
+1.5 Zweck der Förderung
+
+LEADER1 soll als wesentlicher Entwicklungsansatz der ländlichen Entwicklung nachhaltig Impulse verleihen. Bei umfassender Beteiligung der Akteure vor Ort ist ein möglichst großer Beitrag für einen erfolgreichen Umgang mit den Herausforderungen der Entwicklung im ländlichen Raum zu leisten.
+
+Im Vordergrund steht die Weiterentwicklung der ländlichen Regionen unter Berücksichtigung ihrer Potenziale als Lebens- und Wirtschaftsräume. Die Herstellung der Gleichwertigkeit der Lebensbedingungen in allen Landesteilen ist übergeordnete Zielstellung.
+
+1.6 Anspruch auf Förderung
+
+Ein Anspruch der oder des Antragstellenden auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 2 Gegenstand der Förderung
 
-Gegenstand der Förderung sind Investitionen zur:
+2.1 Regionalmanagement zur umsetzungsorientierten Initiierung, Begleitung und Koordinierung regionaler Entwicklungsprozesse auf Grundlage regionaler Entwicklungsstrategien (RES) (Teil II A)
 
-Erzeugung, Verarbeitung und Direktvermarktung landwirtschaftlicher Produkte.
+2.2 Umsetzung von nicht-investiven (immateriellen) Vorhaben im Rahmen der RES (Teil II B)
 
-2.1 Förderfähige Investitionen
+2.3 Nationale und transnationale Kooperationen lokaler Aktionsgruppen sowie Vorbereitung von Kooperationen im Rahmen der RES (Teil II C)
 
-Förderfähig sind Investitionen in langlebige Wirtschaftsgüter, welche der Erzeugung, Verarbeitung oder Direktvermarktung von Anhang I-Erzeugnissen dienen und durch Schaffung der baulichen und technischen Voraussetzungen einem oder mehreren der folgenden Ziele zur Verbesserung der Wettbewerbsfähigkeit dienen:
+2.4 Umsetzung von investiven (materiellen) Vorhaben im Rahmen der RES (Teil II D)
 
-Verbesserung der Produktions- und Arbeitsbedingungen,
+2.5 Regionalbudget (Teil II E)
 
-Rationalisierung und Senkung der Produktionskosten,
+2.6 Von der Förderung sind ausgeschlossen:
 
-Erhöhung der betrieblichen Wertschöpfung unter besonderer Berücksichtigung der Verbesserung des Verbraucher-, Tier-, Umwelt- und Klimaschutzes,
+2.6.1 Erwerb von Immobilien,
 
-Verbesserung der spezifischen Umwelt- und Klimaschutzleistungen der landwirtschaftlichen Unternehmen, insbesondere zur Emissionsminderung, sowie
+2.6.2 Kauf von Lebendinventar (Tiere, einjährige Pflanzen inklusive deren Anpflanzung),
 
-Vorbeugung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse.
+2.6.3 Kosten des laufenden Betriebs und Unterhaltungskosten,
 
-Nachfolgende Maßnahmen können gefördert werden:
+2.6.4 Erwerb von Produktions- und Lieferrechten sowie von Gesellschaftsanteilen, Ablösung von Verbindlichkeiten, Erbabfindungen, Kreditbeschaffungskosten, Bank- und Kontoführungsgebühren,
 
-Errichtung, Erwerb oder Modernisierung von unbeweglichem Vermögen
+2.6.5 Buchführungskosten, Leasingkosten, Kosten für Mietkauf, Pachten, Erbbauzinsen und vergleichbare Aufwendungen sowie gewährte Skonti,
 
-Der Erwerb von unbeweglichem Vermögen, ausgenommen Landankauf, ist nur förderfähig, soweit er den Betrag von 10 Prozent der förderfähigen investiven Ausgaben nicht überschreitet und nur im Zusammenhang mit der Durchführung einer zur Förderung beantragten Investition steht.
+2.6.6 Kosten für Rechts-, Versicherungs- und Steuerberatung, außer für Vorhaben nach Nummer 2.1 (Regionalmanagement),
 
-Die Förderung von Neuinvestitionen, welche der Lagerung von Silage dienen, ist nur möglich bei einem nachweislich ermittelten Bedarf in einem engen Bezug zu den im antragstellenden Unternehmen gehaltenen Tierarten und deren Kapazitäten. Ersatzinvestitionen sind nicht förderfähig.
+2.6.7 Bußgelder, Geldstrafen und Prozesskosten,
 
-Investitionen in Modernisierungsmaßnahmen zur Umstellung der Haltung von Jung- oder Zucht­sauen im Deckzentrum oder Abferkelbereich sind förderfähig, sobald mindestens die Anforderungen der Tierschutz-Nutztierhaltungsverordnung (TierSchNutztV) in der Fassung der Bekanntmachung vom 22. August 2006 (BGBl. I S. 2043), die zuletzt durch Artikel 1a der Verordnung vom 29. Januar 2021 (BGBl. I S. 146) geändert worden ist, in der jeweils geltenden Fassung in den hierfür möglichen Übergangsfristen eingehalten werden. Die Förderung dieser Maßnahme ist befristet bis zum 31. Dezember 2025.
+2.6.8 Umsatzsteuer für natürliche Personen und Personen des privaten und öffentlichen Rechts, die - auch anteilig - nach § 15 des Umsatzsteuergesetzes (UStG) vorsteuerabzugsberechtigt sind beziehungsweise in­nerhalb des Bewilligungszeitraumes werden. Das betrifft auch die Umsatzsteuer für pauschalierende Unternehmen nach § 24 UStG und wenn von den Ausnahmeregelungen des Umsatzsteuerrechts (zum Beispiel Kleinunternehmerregelung nach § 19 UStG) Gebrauch gemacht wird.
 
-Güllelager (ausschließlich mit festen Abdeckungen) sowie Festmistlagerstätten sind nur in Verbindung mit Stallbauten förderfähig. Die Lagerung von Festmist ist nur außerhalb des Stallgebäudes förderfähig.
+2.6.9 Forschungs- und Entwicklungsvorhaben,
 
-Investitionen zur Aufstockung der Lagerkapazität von Gülle oder Jauche sind auf mindestens acht bis zwölf Monate mit ausschließlich fester Abdeckung förderfähig. Die Förderung der genannten Aufstockungen ist bis zum 31. Dezember 2024 ausgesetzt.
+2.6.10 Ersatzbeschaffungen,
 
-Investitionen in Bewässerungsanlagen
+2.6.11 Kauf, Installation und Inbetriebnahme von Photovoltaik- und Solaranlagen sowie eigenständiger Heizkessel, die mit fossilen Brennstoffen betrieben werden und hybrid zu betreibende Heizkessel, welche unter anderem mit fossilen Brennstoffen betrieben werden können,
 
-Investitionen in Bewässerungsanlagen sind nur förderfähig, wenn eine Wassereinsparung von mindestens 15 Prozent erreicht wird. Bei der Erst­anschaffung oder Modernisierung kann nur wassersparende Technik gefördert werden.
-
-Investitionen in Frostschutzberegnungsanlagen
-
-Investitionen in Frostschutzberegnungsanlagen sind nur zur Vorbeugung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse in Sonderkulturen zuwendungsfähig. Die Vorgaben von Artikel 14 Absatz 6 der Agrarfreistellungsverordnung sind zu beachten.
-
-Kauf von neuen Maschinen und Anlagen der Innenwirtschaft, einschließlich der für den unmittelbaren Produktionsprozess notwendigen Computersoftware, bis zum marktüblichen Wert des Wirtschaftsgutes
-
-Der Erwerb mobiler Technik für die Innenwirtschaft wird ausschließlich als Futterlade- und Futterverteilwagen, Ausrüstung zur Exkrement­entfernung, Geräte zur Ferkelkastration sowie als Stallarbeitsmaschine und als Spezialmaschine zur Direktvermarktung gefördert.
-
-Bei Brennereien sind nur Investitionen im Bereich der Direktvermarktung von Abfindungs- sowie Verschlusskleinbrennereien (höchstens 10 Hektoliter jährliche Alkoholproduktion) förderfähig, wenn Äthylalkohol und Sprit, vergällt und unvergällt, mit einem beliebigen Äthylalkoholgehalt aus landwirtschaftlichen Erzeugnissen, die in Anhang I des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) aufgeführt sind, hergestellt werden (ausgenommen Branntwein, Likör und andere alkoholische Getränke, zusammengesetzte alkoholische Zubereitungen, Essenzen zur Herstellung von Getränken).
-
-Kauf von neuen Maschinen und Geräten der Außenwirtschaft, die zu einer deutlichen Minderung von Emissionen bei der Ausbringung von Wirtschaftsdüngern oder zu einer deutlichen Minderung von Umweltbelastungen bei der Anwendung von Pflanzenschutzmitteln oder zu einer deutlichen Minderung von Umweltbelastungen durch gezielte Unkrautbekämpfung mittels neuartiger mechanischer Verfahren führen. Die Förderung der genannten Maschinen und Geräte ist bis zum 31. Dezember 2024 ausgesetzt.
-
-2.2 Förderausschluss
-
-Von der Förderung sind ausgeschlossen:
-
-Landankauf,
-
-der Erwerb von Produktionsrechten und Gesellschaftsanteilen, Tieren, Pflanzrechten oder Pflanzen, es sei denn, sie dienen der Anlage von Dauerkulturen,
-
-Ersatzinvestitionen,
-
-Investitionen zur Anpassung an neue Anforderungen des Unionrechtes nach Artikel 17 Absatz 5 und 6 der ELER-Verordnung,
-
-Maschinen und Geräte für die Außenwirtschaft mit Ausnahme der unter Nummer 2 genannten Maschinen und Geräte,
-
-laufende Betriebsausgaben, Erwerb von Produktions- und Lieferrechten sowie von Gesellschafts­anteilen, Ablösung von Verbindlichkeiten, Erbabfindungen, Kreditbeschaffungskosten und Gebühren für eine Beratung in Rechtssachen, Pachten, Erbbauzinsen und vergleichbare Aufwendungen,
-
-Umsatzsteuer und unbare Eigenleistungen,
-
-Investitionen in Wohnungen und Verwaltungsgebäude,
-
-Maschinen- und Erntelagerhallen mit Ausnahme klimatisierter Lagerräume für Obst, Gemüse und Sonderkulturen, wenn sie die besonderen Anforderungen an den Ressourcenschutz erfüllen, sowie mit Ausnahme von Lagerräumen für Grobfutter im Zusammenhang mit der eigenbetrieblichen Umsetzung besonders tiergerechter oder standortangepasster Produktionsverfahren,
-
-Energiegewinnungsanlagen sowie damit zusammenhängende bauliche Anlagen und technische Einrichtungen, die durch das Erneuerbare-Energien-Gesetz oder das Kraft-Wärme-Kopplungsgesetz begünstigt werden können,
-
-Investitionen in die Herstellung von Erzeugnissen zur Imitation oder Substitution von Milch oder Milch­erzeugnissen,
-
-Gärrestebehälter,
-
-Erwerb von Wirtschaftsgütern von verbundenen Unternehmen,
-
-Planungsarbeiten, die gesetzlich vorgeschrieben sind und nicht im unmittelbaren Zusammenhang mit dem Vorhaben stehen,
-
-Erwerb von gebrauchten technischen Anlagen und technischen Ausrüstungsgegenständen,
-
-Erwerb von nicht inventarisierungspflichtigen Gegen­ständen bis zu einem Wert von 800 Euro (ohne Umsatzsteuer) im investiven Bereich,
-
-Investitionen in den Bereichen Aquakultur und Binnenfischerei,
-
-behördlich festgesetzte Ausgleichs- und Ersatzmaßnahmen, insbesondere im Zusammenhang mit Genehmigungsverfahren nach Bundes-Immissionsschutz­gesetz (BImSchG) oder Baurecht für beantragte Investitionsmaßnahmen,
-
-Reit- und Bewegungshallen.
+2.6.12 Ausgaben für die Beantragung, Betreuung und Abrechnung der Fördervorhaben, außer für Vorhaben nach Nummer A.1.1.
 
 3 Zuwendungsempfangende
 
-3.1 Zuwendungsberechtigte
-
-Zuwendungsempfangende sind Unternehmen der Landwirtschaft, unbeschadet der gewählten Rechtsform, welche im Sinne des Anhangs I der Agrarfreistellungsverordnung zu den Kleinst-, kleinen oder mittleren Unternehmen gehören, wenn entweder
-
-deren Geschäftstätigkeit zu mehr als 25 Prozent der Umsatzerlöse darin besteht, durch Bodenbewirtschaftung oder durch mit Bodenbewirtschaftung verbundene Tierhaltung pflanzliche oder tierische Erzeugnisse zu gewinnen, und
-
-die die in § 1 Absatz 2 des Gesetzes über die Alterssicherung der Landwirte (ALG) genannte Mindestgröße erreichen oder überschreiten
-
-oder
-
-ein landwirtschaftlicher Betrieb bewirtschaftet wird und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgt werden.
-
-Als Tierhaltung im Sinne des ersten Spiegelstriches gilt auch die Wanderschäferei.
-
-Antragsberechtigt sind darüber hinaus auch vorgenannte Unternehmen, welche die beantragte Investition durchführen und diese nach Fertigstellung im Rahmen einer Kooperation oder anderer Formen der Zusammenarbeit zur landwirtschaftlichen Tätigkeit nutzen werden.
-
-Existenzgründer werden im Rahmen des erstmaligen Aufbaus eines landwirtschaftlichen Unternehmens, dessen Gründung maximal zwei Jahre vom Zeitpunkt der Antragstellung an zurückliegt, gefördert.
-
-Alle Bedingungen müssen grundsätzlich zum Zeitpunkt der Antragstellung erfüllt sein.
-
-3.2 Ausschluss von der Förderung
-
-Nicht gefördert werden Unternehmen,
-
-bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25 Prozent vom Eigenkapital des Unternehmens beträgt,
-
-die sich in Schwierigkeiten befinden im Sinne der „Leitlinien der Gemeinschaft für staatliche Beihilfen zur Rettung und Umstrukturierung von Unternehmen in Schwierigkeiten“ (ABl. C 249 vom 31.7.2014, S. 1),
-
-die einer Rückforderung aufgrund einer Rückforderungsanordnung auf Basis eines früheren Beschlusses der Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht Folge geleistet haben.
+Siehe Teil II „Spezifische Regelungen“.
 
 4 Zuwendungsvoraussetzungen
 
-4.1 Fördergebietskulisse
+4.1 Die Förderung von Vorhaben nach den Nummern 2.2 bis 2.5 erfolgt grundsätzlich in der für den ELER definierten Gebietskulisse „ländlicher Raum Brandenburg“2 sowie in der Gebietskulisse der jeweiligen LEADER-Region.
 
-Die Betriebsstätte des antragstellenden Unternehmens, für welche eine Förderung von Investitionen im Rahmen dieser Richtlinie beantragt wird, muss im Land Brandenburg oder Berlin liegen.
+4.2 Das Vorhaben trägt zur Erreichung der Ziele des GAP-Strategieplans sowie der Zielsetzungen der jeweiligen LEADER-Region, beschrieben in deren Regionalen Entwicklungsstrategien (RES) im Sinne von Artikel 32 der Verordnung (EU) 2021/1060, bei.
 
-4.2 Investitionskonzept
+4.3 Grundlage für die Förderung eines Vorhabens ist ein positiver Beschluss der lokalen Aktionsgruppe (LAG) auf Basis der genehmigten RES. Für Vorhaben nach den Nummern 2.2 bis 2.5 ist vor der Antragstellung ein positives Votum der LAG im Rahmen des Projektauswahlverfahrens der LAG einzuholen.
 
-Es ist ein Nachweis in Form eines für das Land Brandenburg oder Berlin formgebundenen Investitionskonzeptes über die Wirtschaftlichkeit des Unternehmens und die Finanzierbarkeit der durchzuführenden Maßnahmen zu erbringen. Das Investitionskonzept soll eine Abschätzung über die Entwicklung der Wirtschaftlichkeit des Unternehmens aufgrund der durchzuführenden Maßnahmen zulassen. Im Falle von Investitionen mit einem förderfähigen Investitionsvolumen von nicht mehr als 150 000 Euro kann ein vereinfachtes Investitionskonzept verwendet werden. Abweichend ist bei spezifischen Investitionen zum Umwelt- und Klimaschutz mindestens die Finanzierbarkeit der geplanten Maßnahme nachzuweisen.
+4.4 Die Sicherung der Gesamtfinanzierung ist nachzuweisen.
 
-4.3 Prosperitätsregelung
+5 Art, Umfang und Höhe der Zuwendung
 
-Prüfkriterium ist die Kennziffer Ordentliches Ergebnis plus Personalaufwand gemäß dem letzten vorliegenden Jahresabschluss. Diese Kennziffer darf den Wert von 120 000 Euro je Arbeitskraft nicht überschreiten.
+5.1 Zuwendungsart:            Projektförderung
 
-Bei neu gegründeten Unternehmen der Antragstellenden sind die positiven Einkünfte des letzten erlassenen Steuer­bescheides, einschließlich die der Ehepartner, für die Prüfung der Einkommensprosperität heranzuziehen. Die posi­tiven Einkünfte dürfen zum Zeitpunkt der Antragstellung 110 000 Euro je Jahr bei Ledigen und 150 000 Euro je Jahr bei Ehepartnern nicht überschreiten.
+5.2 Finanzierungsart:          Anteilfinanzierung
 
-Bei juristischen Personen und Personengesellschaften einschließlich der GmbH & Co. KG gelten die oben genannten Grenzen für alle Unternehmen und Personen mit einem Kapitalanteil von mehr als 5 Prozent.
+5.3 Form der Zuwendung:  Zuschuss/Zuweisung
 
-4.4 Genehmigungen
+5.4 Bemessungsgrundlage, Höhe der Zuwendung
 
-Die zur Durchführung der zur Förderung beantragten Investitionen erforderlichen Genehmigungen sind mit der Antragstellung vorzulegen. Bei öffentlichen Genehmigungen gilt der formell bestandskräftige Bescheid der Genehmigungsbehörde als Zuwendungsvoraussetzung.
+5.4.1 Für Vorhaben nach den Nummern 2.1 bis 2.5:
 
-4.5 Projektauswahl
+Siehe Teil II „Spezifische Regelungen“.
 
-Auf der Grundlage des Erlasses der Verwaltungsbehörde ELER zur Auswahl der Vorhaben in Brandenburg und Berlin 2014-2020 im Rahmen des ELER in der jeweils geltenden Fassung erfolgt die Auswahl der zu bewilligenden Vorhaben anhand vorab festgelegter vorhabenspezifischer Projektauswahlkriterien mittels festgelegten Punktesystemen. Das Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg (MLUK) legt in Abhängigkeit von aktuellen agrarpolitischen Erfordernissen und Zielstellungen Prioritäten bei den Fördergegenständen fest. Die Kriterien zur Auswahl der zu bewilligenden Projekte sind auf der Internetseite des Ministeriums www.mluk.brandenburg.de oder auf der Internetseite www.eler.brandenburg.de veröffentlicht. Anträge unterhalb der veröffentlichten Mindestschwelle sind im Rahmen der Projektauswahl von einer Förderung ausgeschlossen.
+5.4.2 Die Zuwendung je Einzelvorhaben darf nicht mehr als 20 Prozent des Gesamtbudgets der LAG betragen. Das gilt nicht für Vorhaben nach Nummer 2.1 (Regionalmanagement).
 
-4.6 Berufliche Fähigkeiten
+5.4.3 Der Eigenanteil kann ganz oder teilweise durch zweckgebundene Mittel Dritter dargestellt werden, wenn es sich bei diesen Mitteln nicht um Mittel der Europäischen Union handelt.
 
-Das antragstellende Unternehmen hat berufliche Fähigkeiten im Agrarbereich zur ordnungsgemäßen Führung des Betriebes nachzuweisen. Bei juristischen Personen oder Personengesellschaften muss mindestens ein Mitglied der Unternehmensleitung diese Voraussetzung erfüllen.
+Bei Körperschaften und Stiftungen des öffentlichen Rechts darf es sich bei diesen Eigenmitteln nur um Mittel anderer öffentlicher Stellen handeln.
 
-4.7 Vorwegbuchführung
+Hinzutretende Deckungsmittel, die über den Eigenanteil hinausgehen, reduzieren die Zuwendung.
 
-Das antragstellende Unternehmen hat grundsätzlich eine Vorwegbuchführung für mindestens zwei Jahre vorzu­legen, aus der sich der Erfolg der bisherigen Bewirtschaftung des Unternehmens nachweisen lässt.
+5.4.4 Zuwendungen werden abweichend von § 44 LHO nur gewährt, wenn der Zuwendungsbetrag bei juristischen Personen des öffentlichen Rechts 10 000 Euro und bei natürlichen und juristischen Personen des privaten Rechts 5 000 Euro nicht unterschreitet (Bagatellgrenze).
 
-4.8 Existenzgründung
+5.4.5 Die vorhabenbezogenen Ausgaben sind förderfähig, wenn diese ab dem 1. Januar 2023 entstanden sind.
 
-Bei Unternehmen, die während eines Zeitraumes von höchstens zwei Jahren vor Antragstellung gegründet wurden und die auf eine erstmalige selbstständige Existenzgründung zurückgehen, gelten die genannten Zuwendungsvoraussetzungen mit der Maßgabe, dass
+6 Sonstige Zuwendungsbestimmungen
 
-ein angemessener Eigenkapitalanteil am Unternehmen und am zu fördernden Vorhaben sowie
+6.1 Der Aspekt der Geschlechtergleichstellung ist bei der Umsetzung des Vorhabens zu berücksichtigen und zu fördern. Eine Diskriminierung aufgrund des Geschlechts, der ethnischen Herkunft, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Ausrichtung ist auszuschließen. Insbesondere die Zugänglichkeit für Menschen mit Behinderungen ist dabei zu berücksichtigen.
 
-die Wirtschaftlichkeit der durchzuführenden Maßnahmen durch eine differenzierte Planungsrechnung
+6.2 Die Förderung nach dieser Richtlinie erfolgt unter dem Vorbehalt des Widerrufs für den Fall, dass die
 
-nachzuweisen ist.
+geförderten Bauten und baulichen Anlagen,
 
-Diese Bestimmungen gelten nicht für Unternehmen, die infolge einer Betriebsteilung oder im Rahmen der Hofnachfolge neu gegründet werden.
+geförderten Maschinen, Anlagen, Geräte und Einrichtungen,
 
-4.9 Junglandwirtinnen und Junglandwirte
+geförderte Hard- und Software für die Nutzung moderner Informations- und Kommunikationstechnologien sowie
 
-Junglandwirtinnen und Junglandwirte, die zum Zeitpunkt der Antragstellung höchstens 40 Jahre alt sind, die nach der Junglandwirteförderung dieser Richtlinie gefördert werden, müssen zusätzlich zu den allgemeinen Anforderungen der genannten Zuwendungsvoraussetzungen nachweisen, dass die geförderte Investition während eines Zeitraumes von fünf Jahren nach der erstmaligen Niederlassung als Allein- oder Mitunternehmer in einem landwirtschaftlichen Betrieb getätigt wird.
+Investitionen nach Nummer E.1.1
 
-4.10 Kooperationen
+innerhalb eines Zeitraumes von fünf Jahren nach Abschlusszahlung an die Zuwendungsempfangenden veräußert oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
 
-Im Falle von Kooperationen hat das antragstellende Unternehmen den Kooperationsvertrag sowie nach Artikel 35 der ELER-Verordnung zusätzlich den Geschäftsplan sowie sonstige Unterlagen, die die Konzeption und die Ziele der Kooperation aufzeigen, vorzulegen.
+Die Zweckbindungsfrist beginnt am 1. Januar, der auf das Kalenderjahr folgt, in welchem die Abschlusszahlung der oder des Zuwendungsempfangenden getätigt worden ist.
 
-4.11 Operationelle Gruppen
+Die oder der Zuwendungsempfangende hat die zur Erfüllung des Zuwendungszweckes beschafften Ge­genstände, deren Anschaffungs- oder Herstellungswert 800 Euro (ohne Umsatzsteuer) übersteigt, zu inventarisieren. Für Anschaffungen geringwertiger Wirtschaftsgüter mit einem Wert bis zu 800 Euro (ohne Umsatzsteuer) findet die Zweckbindungsfrist von fünf Jahren keine Anwendung.
 
-Im Falle einer Förderung im Rahmen von Operationellen Gruppen (EIP Agri) hat das antragstellende Unternehmen den Bewilligungsbescheid, Projektplan, Geschäftsplan sowie sonstige Unterlagen, welche die Erfordernisse für die Investition des Zuwendungsempfangenden im Rahmen des EIP-Projektes aufzeigen, vorzulegen. Der Zuwendungsempfangende muss Mitglied der Operationellen Gruppe sein.
+6.3 Der Europäische Rechnungshof, die Europäische Kommission, der Landesrechnungshof, das Fachministerium, die Zahlstelle und die Bescheinigende Stelle sowie deren beauftragte Dritte und alle an der Förderung beteiligten öffentlichen Mittelgebenden sind berechtigt, bei der oder dem Zuwendungsempfangenden beziehungsweise bei Weiterleitung von Mitteln an Dritte auch bei dieser oder diesem zu prüfen.
 
-4.12 Tierbesatz
+6.4 Die oder der Zuwendungsempfangende ist verpflichtet, die jeweils geltenden Bestimmungen der EU über die von den Mitgliedstaaten zu treffenden Informations- und Sichtbarkeitsvorschriften für die Interventionen des ELER einzuhalten (siehe unter https://eler.brandenburg.de/eler/de/kommunikation/beguenstigte/foerderperiode-20232027/).
 
-Der Tierbesatz darf zwei Großvieheinheiten (GV) je Hektar selbst bewirtschafteter landwirtschaftlich genutzter Fläche nicht überschreiten.
+Teil II Spezifische Regelungen
 
-4.13 Gesamtfinanzierung
+A Regionalmanagement nach Teil I Nummer 2.1
 
-Die Sicherung der Gesamtfinanzierung ist durch Bestätigung der Hausbank beziehungsweise durch eine Kreditbereitschaftserklärung zu erbringen.
+A.1 Gegenstand der Förderung
 
-5 Art und Umfang, Höhe der Zuwendung
+A.1.1 Regionalmanagement zur umsetzungsorientierten Initiierung, Begleitung und Koordinierung regionaler Entwicklungsprozesse auf Grundlage der regionalen Entwicklungsstrategien.
 
-5.1 Zuwendungsart
+A.1.2 Von der Förderung ausgeschlossen sind:
 
-Die Zuwendungsart ist die Projektförderung.
+A.1.2.1 Leistungen der öffentlichen Verwaltung,
 
-5.2 Finanzierungsart
+A.1.2.2 einzelbetriebliche Beratung,
 
-Die Finanzierungsart ist die Anteilfinanzierung.
+A.1.2.3 Planungen, die gesetzlich vorgeschrieben sind oder nicht in unmittelbarem Zusammenhang mit den nach dieser Richtlinie förderfähigen Vorhaben stehen.
 
-5.3 Form der Zuwendung
+A.2 Zuwendungsempfangende
 
-Die Zuwendungen werden in Form des Zuschusses oder als Bürgschaft für Kapitalmarktdarlehen gewährt.
+Lokale Aktionsgruppen als rechtsfähige Zusammenschlüsse von Akteuren im ländlichen Raum (LAG)
 
-5.4 Bemessungsgrundlage
+A.3 Weitere Zuwendungsvoraussetzungen
 
-Bemessungsgrundlage sind investive Ausgaben für Vorhaben, die den Fördergegenständen entsprechen.
+A.3.1 Die Aufgaben eines Regionalmanagements sind durch Angestellte der lokalen Aktionsgruppe oder durch Stellen außerhalb der öffentlichen Verwaltung wahrzunehmen.
 
-Allgemeine Aufwendungen
+A.3.2 Das Regionalmanagement ist mit mindestens 2,0 Vollzeitäquivalenten zu besetzen.
 
-Allgemeine Aufwendungen etwa für Architekten- und Ingenieurleistungen sowie für die Betreuung von baulichen Investitionen sind bis zu einem Anteil von maximal 12 Prozent der förderfähigen investiven Ausgaben zuwendungsfähig.
+A.4 Bemessungsgrundlage und Höhe der Zuwendung
 
-Gebühren für die Betreuung von Investitionsvorhaben sind bei einem zuwendungsfähigen baulichen Investitionsvolumen von mehr als 100 000 Euro zuwendungsfähig.
+A.4.1 Bis zu 90 Prozent der förderfähigen Gesamtausgaben.
 
-Investitionskonzepte sind mit einem förderfähigen Volumen von maximal 500 Euro (ohne Umsatzsteuer) zuwendungsfähig.
+A.4.2 Die Gesamtzuwendungen für das Regionalmanagement in der geltenden Förderperiode dürfen 25 Prozent des zugewiesenen LEADER-Budgets der jeweiligen LAG nicht überschreiten.
 
-Erschließungskosten
+A.4.3 Zuwendungsfähig sind Ausgaben zur Umsetzung des Regionalmanagements wie
 
-Erschließungskosten sind bis zu einem Anteil von maximal 12 Prozent der förderfähigen investiven Ausgaben zuwendungsfähig, wenn und soweit die Erschließung einer Verlegung des Betriebes oder wesentlicher Betriebsteile in den Außenbereich dient und die Betriebsverlegung im erheblichen öffentlichen Interesse liegt. Das öffentliche Interesse ist im Antrag zu dokumentieren.
+Personalkosten,
 
-5.5 Investitionsvolumen und Förderobergrenzen
+Sachkosten einschließlich Honorarkosten und
 
-Das Mindestinvestitionsvolumen beträgt 20 000 Euro. Abweichend hiervon beträgt das Mindestinvestitions­volumen für Investitionen zur Installation eines weichen oder elastisch verformbaren Liegebereichs bei der Kälberhaltung 10 000 Euro.
+Gemeinkosten in Höhe von 15 Prozent der direkten förderfähigen Personalkosten (gemäß Artikel 83 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 2021/2115),
 
-Die Förderung ist begrenzt auf ein förderfähiges Investitionsvolumen von 5 Millionen Euro je Unternehmen. Diese Obergrenze des festgelegten Investitionsvolumens kann im Rahmen der Geltungsdauer der Förderperiode höchstens einmal pro Zuwendungsempfangenden ausgeschöpft werden. Dies gilt auch bei Betriebszusammenschlüssen, Unternehmensteilungen und bei einem Wechsel der Rechtsform des Unternehmens. Soweit das antragstellende Unternehmen oder dessen Teilhaberschaft mit einer Kapitalbeteiligung von mehr als 25 Prozent eine Förderung im Rahmen der „Gemeinschaftsaufgabe Verbesserung der Agrarstruktur und des Küstenschutzes“ außerhalb des Landes Brandenburg oder nach diesem Richtlinienteil erhalten hat, ist diese, dem Kapitalanteil entsprechend, anzurechnen.
+insbesondere Ausgaben für
 
-Bei einer Überschreitung der Prosperitätsgrenze wird das förderfähige Investitionsvolumen für die beantragte Investition anteilig entsprechend dem Kapitalanteil gekürzt.
+Entwicklungs- und Projektmanagement,
 
-5.6 Höhe der Zuwendungen
+Unterstützung von Projektträgern und Interessierten,
 
-Der Gesamtwert der gewährten Beihilfen darf, ausgedrückt als Prozentsatz der Bemessungsgrundlage, den Wert von 40 Prozent nicht übersteigen. Bei Kooperationen und Operationellen Gruppen darf sich der Wert um 10 beziehungsweise 20 Prozentpunkte erhöhen. Bei nichtproduktiven Investitionen darf der Wert bis zu 100 Prozent betragen.
+Finanz- und Fördermittelmanagement,
 
-Für Investitionen zur Verhütung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse kann ein Zuschuss von bis zu 40 Prozent gewährt werden.
+Prozesssteuerung, Moderation, Förderung der Kommunikation zwischen Beteiligten,
 
-Für die Förderung von spezifischen Investitionen zum Umwelt- und Klimaschutz nach Anlage 1 kann ein Zuschuss von 40 Prozent der Bemessungsgrundlage gewährt werden.
+Unterstützung von Gremien der LAG, insbe­sondere bei der Vorbereitung von Entscheidungen, und für
 
-Für Investitionen in Bewässerungsanlagen nach Anlage 2 kann ein Zuschuss von bis zu 30 Prozent der förderfähigen Ausgaben gewährt werden.
+Öffentlichkeitsarbeit.
 
-Für die Verbesserung der Wettbewerbsfähigkeit sowie für Erschließungsmaßnahmen kann ein Zuschuss von 20 Prozent der Bemessungsgrundlage gewährt werden.
+A.5 Sonstige Zuwendungsbestimmungen
 
-Für die Schaffung oder Erfüllung besonderer Anforderungen an eine tiergerechte Haltung nach Anlage 3 dieser Richtlinie kann ein Zuschuss von 40 Prozent der Bemessungsgrundlage gewährt werden. Im Falle von Stallneubauten erfolgt bei Überschreitung der in der Anlage 4 ausgewiesenen tierartspezifischen Anzahlen von Tierplätzen eine anteilige Reduzierung des Zuschusses.
+A.5.1 Über die Arbeit des Regionalmanagements und die Einbeziehung der Akteure in den lokalen Aktionsgruppen ist ein jährlicher Nachweis (Tätigkeitsbericht) zu führen und bis zum 28. Februar des Folgejahres dem Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz, Referat „Ländliche Entwicklung“ vorzulegen.
 
-Für nichtproduktive Investitionen nach den Nummern 1.1 und 3 der Anlage 1 kann ein Zuschuss von bis zu 100 Prozent der förderfähigen Ausgaben gewährt werden3.
+A.5.2 Bei der Förderung von Publikationen dürfen diese erst veröffentlicht werden, nachdem die Bewilligungsbehörde zugestimmt hat.
 
-Im Rahmen der Vorgaben zur Junglandwirteförderung nach dieser Richtlinie kann zusätzlich ein Zuschuss von 10 Prozent der förderfähigen Ausgaben, maximal 20 000 Euro im Förderzeitraum von 2014 bis einschließlich 2023 gewährt werden. Der Subventionswert aller Zuwendungen darf auch unter Berücksichtigung der Junglandwirteförderung 40 Prozent der Bemessungsgrundlage nicht überschreiten.
+B Umsetzung von nicht-investiven (immateriellen) Vorhaben im Rahmen der RES nach Teil I Nummer 2.2
 
-Gebühren für die Betreuung nach Anlage 5 von Investi­tionsvorhaben sind erst ab einem förderfähigen bau­lichen Investitionsvolumen von mehr als 100 000 Euro förderfähig.
+B.1 Gegenstand der Förderung
 
-Betreuungsgebühren können in einer Höhe von
+B.1.1 Vernetzungs- und Informationsaktivitäten (inklusive softwaregestützter Lösungen),
 
-2,5 Prozent des förderfähigen baulichen Investitionsvolumens, wenn dieses zwischen 240 000 und 500 000 Euro liegt, und
+B.1.2 Machbarkeitsstudien und lokale Konzepte.
 
-1,5 Prozent für das 500 000 Euro überschreitende förderfähige bauliche Investitionsvolumen anerkannt werden.
+B.1.3 Von der Förderung sind ausgeschlossen:
 
-Der Sockelbetrag der förderfähigen Betreuungsgebühren beträgt 6 000 Euro für den Fall, dass das bauliche Investitionsvolumen zwischen 100 000 und 240 000 Euro liegt.
+B.1.3.1 Personalausgaben für bereits vertraglich gebundenes Personal,
 
-Der Höchstbetrag für die förderfähige Betreuungsgebühr beträgt 17 500 Euro.
+B.1.3.2 Planungen, die gesetzlich vorgeschrieben sind oder nicht in unmittelbarem Zusammenhang mit den nach dieser Richtlinie förderfähigen Vorhaben stehen,
 
-Für die Betreuung kann ein Zuschuss von 50 Prozent der förderfähigen Betreuungsgebühren gewährt werden. Eine weitere Förderung der Betreuung ist ausgeschlossen.
+B.1.3.3 Schulungsvorhaben, die Teile von Programmen und Ausbildungsgängen im Primär-, Sekundärbereich oder höheren Bereichen sind,
 
-Investitionen, die im Rahmen einer Kooperation durchgeführt werden, können einen Aufschlag von 10 Prozent erhalten.
+B.1.3.4 Vorhaben für eigenwirtschaftliche Zwecke sowie Vorhaben ausschließlich zugunsten eines Unternehmens oder einer vorab bestimmbaren Unternehmensgruppe, welche ein wirtschaftliches Eigeninteresse an der Durchführung haben und in Bezug auf diese individualisiert sind,
 
-Investitionen, die im Rahmen der europäischen Innovationspartnerschaft „Produktivität und Nachhaltigkeit in der Landwirtschaft“ durchgeführt werden, können einen Aufschlag von 20 Prozent auf die genannten Zuschusssätze erhalten. Der Subventionswert aller Zuwendungen beträgt jedoch höchstens 50 Prozent.
+B.1.3.5 Vorhaben zur Umweltsensibilisierung in Natura 2000-Gebieten und für Arten der FFH- und Vogelschutzrichtlinie und deren Betreuung auf Grundlage von Natura 2000-Managementplänen,
 
-Für förderfähige Investitionen zur Aufstockung der Lagerkapazität von Gülle oder Jauche, die nach ihrer Durchführung zur deutlichen Emissionsminderung durch feste Abdeckungen beitragen, kann ein Zuschuss von bis zu 40 Prozent der Bemessungsgrundlage gewährt werden. Die Förderung der genannten Aufstockungen ist bis zum 31. Dezember 2024 ausgesetzt.
+B.1.3.6 Pflege- und Bewirtschaftungskonzepte für Natura 2000-Gebiete sowie FFH- und Vogelschutzgebiete.
 
-Für Investitionen zur Umstellung der Haltung von Jung- oder Zuchtsauen im Deckzentrum oder Abferkelbereich oder zur Installation eines weichen oder elastisch verformbaren Liegebereichs bei der Kälberhaltung, mindestens auf die Anforderungen der TierSchNutztV in den hierfür möglichen Übergangsfristen, kann ein Zuschuss von bis zu 30 Prozent der Bemessungsgrundlage gewährt werden. Diese Teilmaßnahme ist befristet bis zum 31. Dezember 2025. Die Umstellungsinvestitionen sind von den Bestimmungen der Richtlinie zum Tierbesatz ausgenommen.
+B.2 Zuwendungsempfangende
 
-5.7 Bürgschaften
+B.2.1 Gemeinden und Gemeindeverbände,
 
-Für Kapitalmarktdarlehen, die zur Sicherstellung der Gesamtfinanzierung der zur Förderung beantragten Investitionen erforderlich sind, können gemäß Anlage 6 dieser Richtlinie anteilige modifizierte Ausfallbürgschaften vom Land übernommen werden.
+B.2.2 lokale Aktionsgruppen als rechtsfähige Zusammenschlüsse von Akteuren im ländlichen Raum (LAG),
 
-5.8 Haftung
+B.2.3 eingetragene Vereine,
 
-Bei haftungsbeschränkter Gesellschaftsform des antragstellenden Unternehmens ist ein etwaiger Erstattungs­anspruch des Landes grundsätzlich durch selbstschuldnerische Bürgschaften der Beteiligten mit mehr als 25 Prozent Anteil zu besichern. Dies gilt für Zuschüsse in Höhe von über 100 000 Euro. Ist die Eigenkapitalausstattung des Unternehmens größer als der zu bewilligende Zuschuss, kann von einer Besicherung abgesehen werden.
+B.2.4 sonstige gemeinnützige juristische Personen des privaten Rechts und öffentlichen Rechts.
 
-6 Sonstige Bestimmungen
+B.3 Weitere Zuwendungsvoraussetzungen
 
-6.1 Verbraucher-, Umwelt- und Klimaschutz
+B.3.1 Für Vorhaben nach Nummer B.1.1
 
-Darüber hinaus sind besondere Anforderungen im gesamten Unternehmen in mindestens einem der Bereiche Verbraucher-, Umwelt- oder Klimaschutz gemäß Anlage 7 dieser Richtlinie zu erfüllen.
+B.3.1.1 Die Mindestanzahl von Teilnehmenden bei Informationsveranstaltungen beträgt acht Personen.
 
-Bei Neugründungen von Unternehmen beziehungsweise Aufbau neuer Betriebszweige ist die Erfüllung dieser besonderen Anforderungen spätestens mit Fertigstellung der Investition nachzuweisen.
+B.3.1.2 Es ist der Nachweis über die fachliche und methodisch-didaktische Qualifikation3 der oder des Antragstellenden beziehungsweise der mit der Umsetzung des Vorhabens betrauten Personen erforderlich.
 
-Maßnahmen zur Vorbeugung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse sind von den besonderen Anforderungen ausgenommen.
+B.3.1.3 Dem Antrag ist ein Konzept beizufügen, aus dem ersichtlich ist, welche Zielgruppe mit welchen methodisch-didaktischen Grundsätzen durch das beantragte Vorhaben erreicht werden soll. Das Konzept muss unter anderem darlegen, wie das Ziel der Gleichstellung und Nichtdiskriminierung erreicht und welche Methodenwahl angewandt werden soll. Zudem muss das Konzept die Inhalte und Kompetenzen, die vermittelt werden sollen, sowie den Terminplan enthalten.
 
-6.2 Buchführungspflicht
+B.3.1.4 Bei Vorhaben mit Veranstaltungen ist dem Antrag ein Veranstaltungskalender mit Angaben zur Anzahl der geplanten Aktivitäten und der Nennung des Handlungsschwerpunktes/Themenfeldes beizufügen.
 
-Nach der Bewilligung des Vorhabens ist das Unternehmen verpflichtet, für mindestens fünf weitere Jahre eine Buchführung, die dem Jahresabschluss des Bundes­ministeriums für Ernährung und Landwirtschaft (BMEL) entspricht, fortzuführen und bei der zuständigen Landes­behörde bis spätestens neun Monate nach Abschluss des Wirtschaftsjahres als csv-Datei vorzulegen.
+B.4 Bemessungsgrundlage und Höhe der Zuwendung
 
-6.3 Bewässerungsanlagen
+B.4.1 Bis zu 80 Prozent der förderfähigen Gesamtausgaben.
 
-Im Falle von Investitionen in Bewässerungsanlagen sind die besonderen Anforderungen gemäß Anlage 2 zu erfüllen.
+Die Höhe des Fördersatzes sowie die maximale Höhe der Zuwendung wird von der LAG festgelegt.
 
-6.4 Stallbauinvestitionen
+B.4.2 Zuwendungsfähig sind Ausgaben zur Umsetzung von Vorhaben nach den Nummern B.1.1 bis B.1.2 wie folgt:
 
-Investitionen in den Stallbau sind nur förderfähig, wenn die Anforderungen der Anlage 3 erfüllt sind.
+bei Zuwendungsempfangenden nach den Nummern B.2.1, B.2.3 und B.2.4
 
-6.5 Betreuung
+Sachkosten einschließlich Honorarkosten,
 
-Bei Beantragung von baulichen Vorhaben in Höhe von mehr als 100 000 Euro ist ein Betreuungsunternehmen heranzuziehen.
+bei Zuwendungsempfangenden nach Nummer B.2.2
 
-Die Zusammenarbeit mit diesem Betreuungsunternehmen ist vertraglich entsprechend der Anlage 8 zu regeln. Nur der formgebundene Vertrag mit Mindestanforderungen an die Betreuung bildet die Voraussetzung zur möglichen Gewährung von Zuwendungen für die Betreuung.
+Personalkosten für eine Dauer von maximal drei Jahren und unter der Voraussetzung, dass vorab eine öffentliche Stellenausschreibung erfolgt ist,
 
-6.6 Zweckbindung
+Gemeinkosten in Höhe von 15 Prozent der direkten förderfähigen Personalkosten gemäß Artikel 83 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 2021/2115,
 
-Die Förderung von Investitionen erfolgt unter dem Vorbehalt des Widerrufs für den Fall, dass die geförderten
+Sachkosten einschließlich Honorarkosten,
 
-Grundstücke, Bauten und baulichen Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Abschlusszahlung an den Zuwendungsempfangenden,
+bei Zuwendungsempfangenden nach den Nummern B.2.3 und B.2.4
 
-Maschinen, technischen Einrichtungen und Geräte sowie Computersoftware innerhalb eines Zeitraumes von fünf Jahren ab Abschlusszahlung an den Zuwendungsempfangenden
+Personalkosten zur einmaligen Finanzierung in Verbindung mit einem über diese Richtlinie nach Nummer 2.4 unterstützten Investitionsvorhaben für eine Dauer von maximal drei Jahren und unter der Voraussetzung, dass vorab eine öffentliche Stellenausschreibung erfolgt ist, mit nachfolgender degressiver Staffelung:
 
-veräußert, vermietet, verpachtet, verleast oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
+bis zu 80 Prozent der förderfähigen Personalausgaben im ersten Jahr,
 
-Der Tierbesatz darf innerhalb der festgelegten Zweckbindungsfrist zwei Großvieheinheiten (GV) je Hektar selbst bewirtschafteter landwirtschaftlich genutzter Fläche nicht überschreiten.
+bis zu 70 Prozent der förderfähigen Personalausgaben im zweiten Jahr,
 
-6.7 Inventarisierung
+bis zu 60 Prozent der förderfähigen Personalausgaben im dritten Jahr,
 
-Der Zuwendungsempfangende hat die zur Erfüllung des Zuwendungszweckes beschafften Gegenstände, deren Anschaffungs- oder Herstellungswert 800 Euro (ohne Umsatzsteuer) übersteigt, im Anlagevermögen zu inventarisieren.
+In Abhängigkeit des beantragten Zeitraumes zur einmaligen Unterstützung von Personalkosten wird der Gesamtfördersatz errechnet.
 
-6.8 Kumulierbarkeit
+Gemeinkosten in Höhe von 15 Prozent der direkten förderfähigen Personalkosten gemäß Artikel 83 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 2021/2115.
 
-Eine Kumulation mit Mitteln der Landwirtschaftlichen Rentenbank, COSME (Programm für die Wettbewerbsfähigkeit von Unternehmen und für KMU) des Europä­ischen Investitionsfonds (EIF) oder der Förderbanken der Länder ist möglich.
+B.4.3 Für Vorhaben nach der Nummer B.1.1 kann der Eigenanteil ganz oder teilweise durch Beiträge von Teilnehmenden dargestellt werden. In dem Zusammenhang werden hinzutretende Deckungsmittel, die über den Eigenanteil hinausgehen, nicht anteilig, sondern in voller Höhe von der Zuwendung abgezogen.
 
-Neben einer investiven Förderung nach diesem Richtlinien­teil I ist in demselben Bereich eine Förderung nach der Maßnahme „Markt- und standortangepasste sowie umweltgerechte Landbewirtschaftung einschließlich Vertragsnaturschutz und Landschaftspflege (MSUL)“, Teilmaßnahme F, möglich.
+B.4.4 Tagessätze für Honorare werden grundsätzlich für höchstens acht volle Stunden anerkannt.
 
-Die Förderobergrenzen dürfen bei einer Kumulation nicht überschritten werden.
+B.5 Sonstige Zuwendungsbestimmungen
 
-Vorhaben, die aus Mitteln anderer öffentlicher Förderungsprogramme gefördert werden, dürfen nicht gleichzeitig nach diesen Grundsätzen gefördert werden.
+B.5.1 Konzepte zur gemeindlichen Entwicklung sind mit bereits vorhandenen oder beabsichtigten Planungen, Konzepten oder Strategien in der Region abzustimmen. Der vorgesehene Abstimmungsprozess ist mit der Antragstellung darzustellen.
 
-6.9 Vergabe
+B.5.2 Bei allen Veranstaltungen ist eine Liste von Teilnehmenden zu führen. Veranstaltungstermine beziehungsweise Terminänderungen sind der Bewilligungsbehörde unverzüglich vor Durchführung mitzuteilen, um die Möglichkeit einer Teilnahme an der Veranstaltung für Kontrollzwecke zu gewährleisten.
 
-Die Gewährung einer Zuwendung erfolgt unter der Maßgabe des wirtschaftlichen und sparsamen Mitteleinsatzes. Aufträge sind nur an fachkundige und leistungsfähige Anbietende nach wettbewerblichen Gesichtspunkten zu wirtschaftlichen Bedingungen zu vergeben. Bei der Durchführung aller Vorhaben sind dazu vor Auftragsvergabe ab einem Auftragswert von mehr als 2 500 Euro (ohne Umsatzsteuer) mindestens drei vergleichbare Angebote einzuholen.
+B.5.3 Bei der Förderung von Publikationen dürfen diese erst veröffentlicht werden, nachdem die Bewilligungsbehörde zugestimmt hat.
 
-6.10 Publizität
+C Nationale und transnationale Kooperationen lokaler Aktionsgruppen sowie Vorbereitung von Kooperationen gemäß Teil I Nummer 2.3
 
-Der Zuwendungsempfangende ist verpflichtet, die jeweils geltenden Bestimmungen der EU über die von den Mitgliedstaaten zu treffenden Informations- und Publizitätsvorschriften für die Interventionen des ELER zu beachten (siehe unter www.eler.brandenburg.de).
+C.1 Gegenstand der Förderung
 
-6.11 Evaluierung
+C.1.1 Vorbereitung von Kooperationen lokaler Aktionsgruppen,
 
-Die zur Evaluierung dieses Programmes und zur Prüfung der Zuwendungsfähigkeit erforderlichen Daten und Unterlagen sind in geeigneter Form und Qualität zur Verfügung zu stellen.
+C.1.2 nationale und transnationale Kooperationen lokaler Aktionsgruppen.
 
-6.12 Prüfungen
+C.1.3 Von der Förderung sind ausgeschlossen:
 
-Der Europäische Rechnungshof, die Europäische Kommission, der Bundesrechnungshof (bei einer Beteiligung mit Bundesmitteln), der Landesrechnungshof, das Fachministerium, die Verwaltungsbehörde ELER, die Zahlstelle und bescheinigende Stelle sowie deren beauftragte Dritte und alle an der Förderung beteiligten öffentlichen Mittelgeber sind berechtigt, bei dem Zuwendungsempfangenden beziehungsweise wenn Mittel an Dritte weitergeleitet wurden auch bei diesem zu prüfen.
+C.1.3.1 Aktivitäten gemäß Nummer C.1.1, die von Beginn bis zum Abschluss länger als zwölf Monate dauern,
 
-6.13 Änderung der Anforderungen
+C.1.3.2 Kooperationsvorhaben, die dem alleinigen Austausch von Erfahrungen und Informationen dienen,
 
-Werden den Zuwendungsempfangenden durch Unionsrecht neue Anforderungen auferlegt, so kann die Förderung zur Erfüllung dieser Anforderungen für einen Zeitraum von höchstens zwölf Monaten ab dem Zeitpunkt gewährt werden, zu dem die Anforderungen für den landwirtschaftlichen Betrieb obligatorisch werden.
+C.1.3.3 Investitionen für Belange der gesetzlichen Aufgaben des Brand- und Katastrophenschutzes,
 
-Teil II Einzelbetriebliche Förderung von Investitionen im Bereich Gartenbau und Imkerei
+C.1.3.4 Investitionen, die ausschließlich der Erfüllung gesetzlicher Standards und Auflagen dienen.
 
-1 Zuwendungszweck, Rechtsgrundlage
+C.2 Zuwendungsempfangende
 
-1.1 Zuwendungszweck
+C.2.1 Lokale Aktionsgruppen als rechtsfähiger Zusammenschluss von Akteuren im ländlichen Raum (LAG).
 
-Die Förderung erfolgt mit dem Ziel, die Entwicklung einer wettbewerbsfähigen, nachhaltigen, besonders umwelt- und klimaschonenden, multifunktionalen und witterungsbedingten Risiken vorbeugenden Landwirtschaft durch investive Maßnahmen in gartenbaulichen Unternehmen und der Imkerei zu unterstützen. Dies soll insbesondere durch die Förderung der
+C.3 Weitere Zuwendungsvoraussetzungen
 
-Verbesserung des effizienten Ressourceneinsatzes,
+C.3.1 Für Vorhaben nach Nummer C.1.1:
 
-Vorbeugung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse,
+Vorlage einer von allen Kooperationspartnern unterzeichneten Absichtserklärung.
 
-Verbesserung der Lebens-, Arbeits- und Produktionsbedingungen
+C.3.2 Für Vorhaben nach Nummer C.1.2:
 
-erfolgen.
+Vorlage einer Kooperationsvereinbarung, die Details zur Umsetzung wie unter anderem Finanzierung, Aufgabenteilung, Inhalte und Ziele beschreibt.
 
-1.2 Rechtsgrundlage
+Für gebietsübergreifende, überregionale und/oder transnationale Kooperationen gilt:
 
-Das Land gewährt auf der Grundlage der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des länd­lichen Raums (ELER) sowie der Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit gemeinsamen Bestimmungen über den EFRE, ESF, den Kohäsionsfonds, den ELER und den EMFF sowie mit allgemeinen Bestimmungen über den EFRE, den ESF, den Kohäsionsfonds und den EMFF und zur Aufhebung der Verordnung (EG) Nr. 1083/2006 des Rates und des Entwicklungsprogramms für den ländlichen Raum Brandenburgs und Berlins 2014-2020 (Ziffer 8.2.3.3) in der jeweils geltenden Fassung, nach Maßgabe dieser Richtlinie und der Verwaltungsvorschriften zu § 44 der Landeshaushaltsordnung (LHO) Zuwendungen zur Förderung von Maßnahmen.
+In der Kooperationsvereinbarung der betei­ligten LAG beziehungsweise sonstigen von der regionalen Verwaltungsbehörde zulässigen LEADER-ähnlichen Gruppen oder Regionen (im Folgenden nur LAG genannt) ist eine federführende LAG festzulegen.
 
-1.3 Anspruch auf Förderung
+Für nicht teilbare Vorhaben gelten die für die federführende LAG maßgeblichen Regeln.
 
-Ein Anspruch auf Gewährung der Zuwendungen besteht nicht. Vielmehr entscheidet die Bewilligungsstelle aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Bei nicht teilbaren Vorhaben in überregionalen und transnationalen Kooperationen ist die für die federführende LAG zuständige Bewilligungsbehörde für die Durchführung der erforderlichen Verwaltungskontrollen und Kontrollen vor Ort zuständig. Die Entscheidungen dieser federführenden Bewilligungsbehörde werden von den nicht federführenden, beteiligten anderen Bewilligungsbehörden auf Basis von Vereinbarungen ohne eigene Prüfung anerkannt. Sofern die Förderung des nicht teilbaren Vorhabens aus mehreren EU-Fonds erfolgt, stimmen sich die jeweiligen zuständigen Stellen direkt ab.
 
-2 Gegenstand der Förderung
+C.4 Bemessungsgrundlage und Höhe der Zuwendung
 
-Gegenstand der Förderung sind Investitionen zur:
+C.4.1 Bis zu 90 Prozent der förderfähigen Gesamtausgaben (Aufwendungen von Zuwendungsempfangenden aus dem Land Brandenburg).
 
-Erzeugung, Verarbeitung und Direktvermarktung von Produkten des Gartenbaus und der Imkerei.
+Die Höhe des Fördersatzes sowie die maximale Höhe der Zuwendung wird von der federführenden LAG festgelegt.
 
-2.1 Förderfähige Investitionen
+C.4.2 Zuwendungsfähig sind Ausgaben zur Umsetzung von Vorhaben nach den Nummern C.1.1 und C.1.2.
 
-Förderfähig sind Investitionen in langlebige Wirtschaftsgüter, welche der Erzeugung, Verarbeitung oder Direktvermarktung von Anhang I-Erzeugnissen dienen und durch Schaffung der baulichen und technischen Voraussetzungen einem oder mehreren der folgenden Ziele zur Verbesserung der Wettbewerbsfähigkeit dienen:
+Zuwendungsfähige Ausgaben für Vorhaben nach Nummer C.1.1 umfassen insbesondere Reisekosten, Kosten für Übersetzungen und Dolmetscher, Kosten für Machbarkeitsstudien.
 
-Verbesserung der Produktions- und Arbeitsbedingungen,
+Die zuwendungsfähigen Ausgaben für Vorhaben nach Nummer C.1.2 umfassen insbesondere
 
-Rationalisierung und Senkung der Produktionskosten,
+Sachkosten einschließlich Honorarkosten,
 
-Erhöhung der betrieblichen Wertschöpfung,
+anteilige Personalkosten,
 
-Erzielung gesicherter Erträge und Verbesserung der Qualität der pflanzlichen Erzeugung unter besonderer Berücksichtigung der Ressourcenschonung durch effiziente Bewässerungs- und Beregnungsverfahren,
+Gemeinkosten in Höhe von 15 Prozent der direkten förderfähigen Personalkosten (gemäß Artikel 83 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 2021/2115),
 
-Vorbeugung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse.
+Ausgaben für Studien, Konzepte, Veranstaltungen, Planung, Betreuung sowie
 
-Nachfolgende Maßnahmen können gefördert werden:
+materielle Investitionen.
 
-Errichtung und Modernisierung von unbeweglichem Vermögen
+C.5 Sonstige Zuwendungsbestimmungen
 
-Kauf von neuen Maschinen und Anlagen der Innenwirtschaft, einschließlich der für den unmittelbaren Produktionsprozess notwendigen Computersoftware, bis zum marktüblichen Wert des Wirtschaftsgutes
+C.5.1 Bei allen Veranstaltungen ist eine Liste von Teilnehmenden zu führen. Veranstaltungstermine beziehungsweise Terminänderungen sind der Bewilligungsbehörde unverzüglich vor Durchführung mitzuteilen, um die Möglichkeit einer Teilnahme an der Veranstaltung für Kontrollzwecke zu gewährleisten.
 
-Bei Brennereien sind nur Investitionen im Bereich der Direktvermarktung von Abfindungs- sowie Verschlusskleinbrennereien (höchstens 10 Hekto­liter jährliche Alkoholproduktion) förderfähig, wenn Äthylalkohol und Sprit, vergällt und unvergällt, mit einem beliebigen Äthylalkoholgehalt aus landwirtschaftlichen Erzeugnissen, die in Anhang I des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) aufgeführt sind, hergestellt werden (ausgenommen Branntwein, Likör und andere alkoholische Getränke, zusammengesetzte alkoholische Zubereitungen, Es­senzen zur Herstellung von Getränken).
+C.5.2 Bei der Förderung von Publikationen dürfen diese erst veröffentlicht werden, nachdem die Bewilligungsbehörde zugestimmt hat.
 
-Kauf von neuen Spezialmaschinen der Außenwirtschaft
+D Umsetzung von investiven (materiellen) Vorhaben im Rahmen der RES nach Teil I Nummer 2.4
 
-Investitionen in Lagerung, Kühlung, Trocknung, Aufbereitung und Vermarktung.
+D.1 Gegenstand der Förderung
 
-Nachfolgende Maßnahmen können ausschließlich in Unternehmen des Gartenbaus gefördert werden:
+D.1.1 Beihilfefreie Vorhaben zur Steigerung der Lebensqualität für die lokale Bevölkerung
 
-Investitionen in Bewässerungsanlagen
+D.1.1.1 Investitionsvorhaben kommunaler Antragstellender zur Schaffung, Erhaltung oder für den Um- und Ausbau der innerörtlichen kommunalen Infrastruktur inklusive Freiflächen, Gewässer und Ortsränder,
 
-Investitionen in Bewässerungsanlagen sind nur förderfähig, wenn eine Wassereinsparung von mindestens 25 Prozent nach Artikel 46 Absatz 4 der ELER-Verordnung erreicht wird. Bei der Erst­anschaffung kann nur wassersparende Technik gefördert werden.
+D.1.1.2 Investitionsvorhaben zur Schaffung, Erhaltung oder für den Um- und Ausbau der touristischen öffentlichen Infrastruktur,
 
-Investitionen in Frostschutzberegnungsanlagen
+D.1.1.3 Investitionsvorhaben zur Schaffung, Erhaltung oder für den Um- und Ausbau von Mehrfunktionshäusern, Sport-/Freizeiteinrichtungen und dorfgemäßen Gemeinschaftseinrichtungen ohne überregionale Bedeutung,
 
-Investitionen in Frostschutzberegnungsanlagen sind nur zur Vorbeugung von Schäden durch Naturkatastrophen gleichzusetzende widrige Witterungsverhältnisse in Sonderkulturen zuwendungs­fähig. Die Vorgaben von Artikel 14 Absatz 6 der Agrarfreistellungsverordnung sind zu beachten.
+D.1.1.4 Investitionsvorhaben zur Schaffung, Erhaltung oder für den Um- und Ausbau von Bildungs-, Kinder- und Jugendeinrichtungen,
 
-2.2 Förderausschluss
+D.1.1.5 Investitionsvorhaben zur Schaffung, Erhaltung oder für den Um- und Ausbau von sozialen Einrichtungen,
 
-Von der Förderung sind ausgeschlossen:
+D.1.1.6 Investitionsvorhaben für die Erhaltung von Kulturerbe und zur Erhaltung oder für den Um- und Ausbau von ortsbildprägenden Gebäuden und baulichen Anlagen,
 
-Landankauf,
+D.1.1.7 Abriss oder Teilabriss im Innenbereich bei Vorhaben kommunaler Antragstellender,
 
-der Erwerb von Produktionsrechten und Gesellschaftsanteilen, Pflanzrechten oder Pflanzen, es sei denn, sie dienen der Anlage von Dauerkulturen,
+D.1.1.8 Investitionsvorhaben zur Verbesserung der Infrastruktur außerhalb von Siedlungsgebieten einschließlich Straßen und Wege sowie der entsprechenden Begleitmaßnahmen.
 
-Ersatzinvestitionen,
+D.1.2 Beihilferelevante Vorhaben mit überregionaler Bedeutung zur Förderung von Einrichtungen in den Bereichen Kulturerbe, Sport und Freizeit sowie von sonstigen Einrichtungen
 
-Investitionen zur Anpassung an neue Anforderungen des Unionrechtes nach Artikel 17 Absatz 5 und 6 der ELER-Verordnung,
+D.1.2.1 Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau von Kultureinrichtungen und des Erhalts von Kulturerbe,
 
-Ausgaben, die für Neuimker auf der Grundlage der Verordnung (EU) Nr. 1308/2013 bereits gefördert wurden,
+D.1.2.2 Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau von Sport- und/oder multifunktionalen Freizeitinfrastrukturen,
 
-die erstmalige Anlage von Spargel auf einer Fläche über 10 Hektar je Unternehmen ist nicht förderfähig,
+D.1.2.3 Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau sonstiger Infrastrukturen.
 
-Erweiterung von im Unternehmen vorhandenen Anbauflächen für Spargel ist ausgeschlossen,
+D.1.3 Beihilferelevante Vorhaben zur Förderung der Wirtschaft
 
-laufende Betriebsausgaben, Erwerb von Lieferrechten, Ablösung von Verbindlichkeiten, Erbabfindungen, Kreditbeschaffungskosten und Gebühren für eine Beratung in Rechtssachen, Pachten, Erbbauzinsen und vergleichbare Aufwendungen,
+D.1.3.1 Vorhaben zur Stärkung des lokalen Gewerbes, lokaler Dienstleistungen oder des lokalen Handwerks,
 
-Umsatzsteuer und unbare Eigenleistungen,
+D.1.3.2 Vorhaben zur Schaffung neuer oder zur Modernisierung bestehender Gästezimmer, Ferienwohnungen oder -häuser zum Zwecke der touristischen Vermietung.
 
-Investitionen in Wohnungen und Verwaltungsgebäude,
+D.1.4 Von der Förderung sind ausgeschlossen:
 
-Energiegewinnungsanlagen sowie damit zusammenhängende bauliche Anlagen und technische Einrichtungen, die durch das Erneuerbare-Energien-Gesetz, das Kraft-Wärme-Kopplungsgesetz, KFW-Programme oder andere begünstigt werden können,
+D.1.4.1 Investitionen zur alleinigen beziehungsweise überwiegenden Erfüllung der gesetzlichen Aufgaben des Brand- und Katastrophenschutzes,
 
-Erwerb von Wirtschaftsgütern von verbundenen Unternehmen,
+D.1.4.2 Investitionen zur alleinigen Erfüllung gesetzlicher Standards und Auflagen,
 
-Planungsarbeiten, die gesetzlich vorgeschrieben sind und nicht im unmittelbaren Zusammenhang mit dem Vorhaben stehen,
+D.1.4.3 Vorhaben, die Universitäten und gleichgestellte Hochschulen, Berufsschulen oder Schulen des Sekundarbereichs I und/oder II betreffen,
 
-Erwerb von gebrauchten technischen Anlagen und technischen Ausrüstungsgegenständen,
+D.1.4.4 Auf- und Ausbau von Tages-, Nacht- und Kurzzeitpflegeangeboten sowie der Neubau und Umbau vorhandener baulicher Anlagen für gemeinschaftliche Wohnformen mit ambulanten Pflege- und Betreuungsangeboten, wenn eine öffentliche Förderung nach § 9 des Elften Buches Sozialgesetzbuch (SGB XI) erfolgt oder erfolgen könnte,
 
-Erwerb von nicht inventarisierungspflichtigen Gegenständen bis zu einem Wert von 800 Euro (ohne Umsatzsteuer) im investiven Bereich,
+D.1.4.5 Neubau von Mietwohngebäuden und Wohneigentum sowie Um- und Ausbau von Mietwohngebäuden, welche nicht der Erhaltung von Kulturerbe dienen oder ortsbildprägend sind,,
 
-Investitionen in den Bereichen Aquakultur und Binnenfischerei,
+D.1.4.6 Innenausbau zu Wohnzwecken,
 
-behördlich festgesetzte Ausgleichs- und Ersatzmaßnahmen, insbesondere im Zusammenhang mit Genehmigungsverfahren nach Bundes-Immissionsschutzgesetz (BImSchG) oder Baurecht für beantragte Investitionsmaßnahmen,
+Innenausbau zu Wohnzwecken ist nur förderfähig bei Revitalisierung ungenutzter und leerstehender ortsbildprägender Gebäude, die nach Abschluss der Maßnahme durch die oder den Antragstellenden oder Verwandtschaft ersten Grades als Hauptwohnsitz bewohnt werden.
 
-Erwerb von unbeweglichem Vermögen,
+Ausgaben für den Innenausbau zu Wohnzwecken sind ausnahmsweise förderfähig, wenn ungenutzte und leerstehende ortsbildprägende Gebäude um- und ausgebaut und nach Abschluss der Maßnahme durch die oder den Antragstellenden oder durch Verwandtschaft ersten Grades als Hauptwohnsitz bewohnt werden. Diese Ausnahme gilt nicht für Ausgaben für:
 
-Kauf von Lebendinventar (Tiere und einjährige Pflan­zen inklusive deren Anpflanzung),
+baukonstruktive Einbauten (Kostengruppe 370, gemäß DIN 276),
 
-Betriebs- und Folgekosten im Zusammenhang mit investiven Maßnahmen,
+nutzungsspezifische Anlagen (Kostengruppe 470, gemäß DIN 276),
 
-Maschinen- und Erntelagerhallen mit Ausnahme klimatisierter Lagerräume für Obst, Gemüse und Sonderkulturen, wenn sie die besonderen in Anlage 7 der Richtlinie genannten Anforderungen an den Ressourcenschutz erfüllen, sowie mit Ausnahme von Lagerräumen für Grobfutter im Zusammenhang mit der eigenbetrieblichen Umsetzung besonders tiergerechter oder standortangepasster Produktionsverfahren,
+Ausstattung (Kostengruppe 600, gemäß DIN 276)..
 
-Investitionen, die ausschließlich der Anpassung an Normen der Union, des Bundes oder des Landes dienen.
+D.1.4.7 Investitionen zur Unterbringung und Betreuung straffällig gewordener Personen sowie delinquenter Kinder und Jugendlicher,
 
-3 Zuwendungsempfangende
+D.1.4.8 Einrichtungen der medizinischen Versorgung, die über die lokalen Bedürfnisse der Bevölkerung in ländlichen Orten hinausgehen,
 
-3.1 Zuwendungsberechtigte
+D.1.4.9 Investitionen zur Schaffung, Erhaltung oder für den Um- und Ausbau von kommunalen Verwaltungsgebäuden inklusive Ausstattung,
 
-Zuwendungsempfangende sind Unternehmen des Gartenbaus oder der Imkerei, unbeschadet der gewählten Rechtsform, welche im Sinne des Anhangs I der Agrarfreistellungsverordnung zu den Kleinst-, kleinen oder mittleren Unternehmen gehören, wenn entweder
+D.1.4.10 Gemeinde-, Kreis-, Landes- oder Bundesstraßen,
 
-die in § 1 Absatz 2 des Gesetzes über die Alterssicherung der Landwirte (ALG) genannte Mindestgröße erreicht oder überschritten wird und entweder
+Gemeindestraßeninfrastruktur ist nur förderfähig, wenn es sich nicht um eine verkehrswichtige öffentliche Straße gemäß § 2 Absatz 2 des Brandenburgischen Straßengesetzes (BbgStrG) oder die Erhaltung von Infrastruktur für den Rad- und Fußverkehr in kommunaler Baulast im Sinne der Richtlinie des Ministeriums für Infrastruktur und Landesplanung zur Förderung von Investitionen im kommunalen Straßenbau zur Verbesserung der Verkehrsverhältnisse in den Gemeinden des Landes Brandenburg (Rili KStB Bbg 2021) in der jeweils geltenden Fassung handelt und das Vorhaben
 
-deren Geschäftstätigkeit im Falle von Unternehmen des Gartenbaus mindestens zu 50 Prozent der Umsatzerlöse darin besteht, durch Bodenbewirtschaftung und damit verbundenen Handel oder Dienstleistungen pflanzliche oder tierische Erzeugnisse zu gewinnen, oder
+Teil eines integrierten Vorhabens ist oder
 
-deren Geschäftstätigkeit im Falle von Unternehmen der Imkerei zu mehr als 25 Prozent der Umsatzerlöse darin besteht, durch mit Bodenbewirtschaftung verbundene Tierhaltung tierische Erzeugnisse zu gewinnen,
+einen durch die LAG begründeten gemeinschaftlichen Mehrwert durch die Erfüllung der in der RES formulierten Ziele aufweist oder
 
-oder
+sich durch einen besonderen Innovationsgehalt auszeichnet.
 
-das Unternehmen einen gartenbaulichen Betrieb oder eine Imkerei bewirtschaftet und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgt.
+D.1.4.11 Überregionale Radwege gemäß Anlage 3 zur Richtlinie des Ministeriums für Wirtschaft, Arbeit und Energie zur Förderung der wirtschaftsnahen kommunalen Infrastruktur im Rahmen der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ - GRW - in der jeweils geltenden Fassung,
 
-Als Tierhaltung im Sinne des dritten Spiegelstriches gilt auch die Imkerei.
+D.1.4.12 Vorhaben nach den Nummern D.1.2 und D.1.3, welche in den Anwendungsbereich des Artikels 1 Absatz 2 bis 5 AGVO sowie Vorhaben, die unter die Begriffsbestimmung nach Artikel 2 Nummer 144 bis 165 AGVO (Regionalflughäfen sowie Häfen) fallen,
 
-Alle Bedingungen müssen grundsätzlich zum Zeitpunkt der Antragstellung erfüllt sein.
+D.1.4.13 Vorhaben, deren Gesamtkosten 20 Millionen Euro übersteigen.
 
-3.2 Ausschluss von der Förderung
+D.2 Zuwendungsempfangende
 
-Nicht gefördert werden Unternehmen,
+D.2.1 Für Vorhaben nach den Nummern D.1.1 und D.1.2
 
-bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25 Prozent vom Eigenkapital des Unternehmens beträgt,
+D.2.1.1 Juristische Personen des öffentlichen und privaten Rechts, natürliche Personen und Personengesellschaften.
 
-die sich in Schwierigkeiten befinden im Sinne der „Leitlinien der Gemeinschaft für staatliche Beihilfen zur Rettung und Umstrukturierung von Unternehmen in Schwierigkeiten“ (ABl. C 249 vom 31.7.2014, S. 1),
+D.2.1.2 Antragsberechtigt für Vorhaben nach Nummer D.1.2 sind Antragstellende, wenn es sich bei den Antragstellenden nicht um Unternehmen in Schwierigkeiten im Sinne von Artikel 2 Absatz 18 der Verordnung (EU) Nr. 651/2014 handelt. Ausgenommen von der Förderung nach Nummer D.1.2 sind Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer von demselben Mitgliedstaat gewährten Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
 
-die einer Rückforderung aufgrund einer Rückforderungsanordnung auf Basis eines früheren Beschlusses der Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht Folge geleistet haben.
+D.2.2 Für Vorhaben zur Förderung der Wirtschaft nach Nummer D.1.3
 
-4 Zuwendungsvoraussetzungen
+D.2.2.1 juristische Personen des privaten Rechts, natürliche Personen und Personengesellschaften,
 
-4.1 Fördergebietskulisse
+D.2.2.2 Die Zuwendungsempfangenden müssen der Definition der Kleinst- oder Kleinunternehmen (Empfehlung 2003/361/EG gemäß Anhang I der Verordnung (EU) Nr. 651/2014 in der jeweils geltenden Fassung) entsprechen.
 
-Die Betriebsstätte des antragstellenden Unternehmens, für welche eine Förderung von Investitionen im Rahmen dieser Richtlinie beantragt wird, muss im Land Brandenburg oder Berlin liegen.
+Landwirtschaftliche Unternehmen sind als Zuwendungsempfangende ausgeschlossen, es sei denn, es besteht keine Fördermöglichkeit zum jeweiligen Vorhaben nach einer weiteren Richtlinie des Ministeriums für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg, die im Rahmen des ELER oder der GAK einzelbetriebliche Investitionen zum Inhalt hat.
 
-4.2 Investitionskonzept
+D.3 Weitere Zuwendungsvoraussetzungen
 
-Es ist ein Nachweis in Form eines für das Land Brandenburg oder Berlin formgebundenen Investitionskonzeptes über die Wirtschaftlichkeit des Unternehmens und die Finanzierbarkeit der durchzuführenden Maßnahmen zu erbringen. Das Investitionskonzept soll eine Abschätzung über die Entwicklung der Wirtschaftlichkeit des Unternehmens aufgrund der durchzuführenden Maßnahmen zulassen. Im Falle von Investitionen mit einem förderfähigen Investitionsvolumen von nicht mehr als 50 000 Euro kann ein vereinfachtes Investitionskonzept verwendet werden.
+D.3.1 Zur Verringerung der Inanspruchnahme von Grund und Boden sowie des Leerstandes von Gebäuden ist im Zusammenhang mit einer Investition vorrangig vorhandene Bausubstanz zu nutzen. Bei Neubau ist darzulegen, warum kein geeignetes Gebäude zur Verfügung steht und/oder genutzt werden soll.
 
-4.3 Prosperitätsregelung
+D.3.2 Für Vorhaben zur Schaffung, Erhaltung oder für den Um- und Ausbau von baulichen Anlagen zur wirtschaftlichen oder öffentlichen Nutzung ist ein tragfähiges Nutzungskonzept vorzulegen. Das schließt ein Bewirtschaftungs- und Betreiberkonzept ein. Für Vorhaben zur Förderung der regionalen Wirtschaft sind zusätzlich eine Rentabilitätsvorschau und gegebenenfalls die letzten drei vorhandenen Betriebsbilanzen vorzulegen.
 
-Prüfkriterium ist die Kennziffer Ordentliches Ergebnis plus Personalaufwand gemäß dem letzten vorliegenden Jahresabschluss. Diese Kennziffer darf den Wert von 120 000 Euro je Arbeitskraft nicht überschreiten.
+D.3.3 Es ist eine Erklärung zur Übernahme der Folgekosten vorzulegen und die Erreichung der Nutzungsfähigkeit des Objektes nach Fertigstellung nachzuweisen.
 
-Bei neu gegründeten Unternehmen der Antragstellenden sind die positiven Einkünfte des letzten erlassenen Steuer­bescheides, einschließlich die der Ehepartner, für die Prüfung der Einkommensprosperität heranzuziehen. Die positiven Einkünfte dürfen zum Zeitpunkt der Antragstellung 110 000 Euro je Jahr bei Ledigen und 150 000 Euro je Jahr bei Ehepartnern nicht überschreiten.
+D.3.4 Von allen Antragstellenden ist der Nachweis des Eigentums und/oder des uneingeschränkten Nutzungsrechts am Gegenstand der Förderung zu erbringen. Für Vorhaben, welche die Neuerrichtung und/oder die Erweiterung von Gebäuden und baulichen Anlagen beinhalten, ist von den Antragstellenden eine dingliche Berechtigung durch einen Grundbuchauszug vorzulegen. Der Nachweis der dinglichen Sicherung entfällt, wenn der betroffene Grundstückseigentümer oder die betroffene Grundstückseigentümerin eine Körperschaft des öffentlichen Rechts ist.
 
-Bei juristischen Personen und Personengesellschaften einschließlich der GmbH & Co. KG gelten die oben genannten Grenzen für alle Unternehmen und Personen mit einem Kapitalanteil von mehr als 5 Prozent.
+D.3.5 Investitionen zur Erhaltung ortsbildprägender Gebäude oder zum Erhalt des Kulturerbes sind zuwendungsfähig, wenn diese sich durch ihren baukulturellen Wert und/oder durch ihr Erscheinungsbild auf das Ortsbild in besonderem Maße auswirken. Die entsprechenden Gebäude müssen vor 1960 erbaut worden oder denkmalgeschützt sein.
 
-4.4 Genehmigungen
+D.3.6 Der alleinige Rückbau von nicht mehr genutzten baulichen Anlagen und Wohnbauten im Innenbereich des Ortes (Nummer D.1.1.7) ist zuwendungsfähig, wenn diese nicht mehr sanierungs- oder umnutzungsfähig sind, derzeit eine Beeinträchtigung des Ortsbildes vorliegt, nach dem Abriss eine Folgenutzung (auch Freifläche) für mindestens fünf Jahre gewährleistet wird und - soweit zutreffend - Belange des Denkmalschutzes beachtet werden. Der Rückbau im Zusammenhang mit Neubau von Wohngebäuden ist gemäß Förderausschluss nach Nummer D.1.4.6 nicht zuwendungsfähig.
 
-Die zur Durchführung der zur Förderung beantragten Investitionen erforderlichen Genehmigungen sind mit der Antragstellung vorzulegen. Bei öffentlichen Genehmigungen gilt der formell bestandskräftige Bescheid der Genehmigungsbehörde als Zuwendungsvoraussetzung.
+D.3.7 Bei Vorhaben nach Nummer D.1.2.1
 
-4.5 Projektauswahl
+Bei Kultureinrichtungen sind jährlich mindestens 80 Prozent der verfügbaren Nutzungszeiten oder Räumlichkeiten für kulturelle Zwecke zu nutzen.
 
-Die Auswahl der zu bewilligenden Vorhaben erfolgt anhand vorab festgelegter vorhabenspezifischer Projektauswahlkriterien mittels festgelegten Punktesystemen. Das Ministerium für Landwirtschaft, Umwelt- und Klimaschutz des Landes Brandenburg (MLUK) legt in Abhängigkeit von aktuellen agrarpolitischen Erfordernissen und Zielstellungen Prioritäten bei den Fördergegenständen fest. Die Kriterien zur Auswahl der zu bewilligenden Projekte sind auf der Internetseite des Ministeriums www.mluk.brandenburg.de oder auf der Internetseite www.eler.brandenburg.de veröffentlicht. Anträge unterhalb der veröffentlichten Mindestschwelle sind im Rahmen der Projektauswahl von einer Förderung ausgeschlossen.
+D.3.8 Bei Vorhaben nach Nummer D.1.2.2
 
-4.6 Berufliche Fähigkeiten
+Das Vorhaben steht mehreren Nutzenden zu transparenten und diskriminierungsfreien Bedingungen offen.
 
-Das antragstellende Unternehmen hat berufliche Fähigkeiten im Agrarbereich zur ordnungsgemäßen Führung des Betriebes nachzuweisen. Bei juristischen Personen oder Personengesellschaften muss mindestens ein Mitglied der Unternehmensleitung diese Voraussetzung erfüllen.
+Die Erteilung von Konzessionen oder Aufträgen für den Bau und/oder Betrieb der Infrastruktur durch Dritte hat zu offenen, transparenten und diskriminierungsfreien Bedingungen und unter Einhaltung des Vergaberechts zu erfolgen.
 
-4.7 Vorwegbuchführung
+Handelt es sich bei dem Vorhaben um Sportinfrastruktur, darf diese nicht ausschließlich von einer oder einem einzigen Profisportnutzenden genutzt werden. Auf die Nutzung der Sportinfrastruktur durch andere Profi- oder Amateursportnutzende entfallen jährlich mindestens 20 Prozent der verfügbaren Nutzungszeiten.
 
-Das antragstellende Unternehmen hat grundsätzlich eine Vorwegbuchführung für mindestens zwei Jahre vorzulegen, aus der sich der Erfolg der bisherigen Bewirtschaftung des Unternehmens nachweisen lässt.
+Multifunktionale Freizeitinfrastrukturen umfas­sen Einrichtungen, die insbesondere mehrere Kultur- und Freizeitdienstleistungen innerhalb einer Einrichtung anbieten; ausgenommen sind Freizeitparks und Hotels.
 
-4.8 Existenzgründung
+D.3.9 Bei Vorhaben nach Nummer D.1.2.3
 
-Bei Unternehmen, die während eines Zeitraumes von höchstens zwei Jahren vor Antragstellung gegründet wurden und die auf eine erstmalige selbstständige Existenzgründung zurückgehen, gelten die genannten Zuwendungsvoraussetzungen mit der Maßgabe, dass
+Die Infrastruktur steht interessierten Nutzenden zu offenen, transparenten und diskriminierungsfreien Bedingungen zur Verfügung.
 
-ein angemessener Eigenkapitalanteil am Unternehmen und am zu fördernden Vorhaben sowie
+Der für die Nutzung der Infrastruktur in Rechnung gestellte Preis entspricht dem Marktpreis.
 
-die Wirtschaftlichkeit der durchzuführenden Maßnahmen durch eine differenzierte Planungsrechnung
+Die Erteilung von Konzessionen oder Aufträgen für den Betrieb der Infrastruktur durch Dritte muss zu offenen, transparenten und diskriminierungsfreien Bedingungen und unter Einhaltung der geltenden Vergabevorschriften erfolgen.
 
-nachzuweisen ist.
+Es handelt sich nicht um eine gewidmete Infrastruktur (Infrastruktur, die für im Voraus ermittelbare Unternehmen errichtet wird und auf deren Bedarf zugeschnitten ist).
 
-Diese Bestimmungen gelten nicht für Unternehmen, die infolge einer Betriebsteilung oder im Rahmen der Hofnachfolge neu gegründet werden.
+D.4 Bemessungsgrundlage und Höhe der Zuwendung
 
-4.9 Gesamtfinanzierung
+D.4.1 Für Vorhaben nach den Nummern D.1.1 und D.1.2
 
-Die Sicherung der Gesamtfinanzierung ist durch Bestätigung der Hausbank beziehungsweise durch eine Kreditbereitschaftserklärung zu erbringen.
+bis zu 80 Prozent der förderfähigen Gesamtausgaben
 
-5 Art und Umfang, Höhe der Zuwendung
+und nicht mehr als 2 Millionen Euro bei Vorhaben nach Nummer D.1.2.
 
-5.1 Zuwendungsart
+Bei Vorhaben nach Nummer D.1.2.3 darf die Zuwendung nicht höher sein als die Differenz zwischen den förderfähigen Kosten und dem Betriebsgewinn der Investition.
 
-Die Zuwendungsart ist die Projektförderung.
+Die Höhe des Fördersatzes sowie die maximale Höhe der Zuwendung werden von der LAG festgelegt.
 
-5.2 Finanzierungsart
+Für Vorhaben gemäß Informationsblatt zur Anwendung von Einheitskosten4 erfolgt die Bestimmung der förderfähigen Ausgaben auf Grundlage von Einheitskosten gemäß Artikel 83 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 2021/2015.
 
-Die Finanzierungsart ist die Anteilfinanzierung.
+D.4.2 Für Vorhaben nach Nummer D.1.3
 
-5.3 Form der Zuwendung
+bis zu 65 Prozent der förderfähigen Gesamtausgaben, maximal 200 000 Euro.
 
-Die Zuwendungen werden in Form des Zuschusses oder als Bürgschaft für Kapitalmarktdarlehen gewährt.
+Die Höhe des Fördersatzes sowie die maximale Höhe der Zuwendung wird von der LAG festgelegt.
 
-5.4 Bemessungsgrundlage
+Für Vorhaben gemäß Informationsblatt zur Anwendung von Einheitskosten4 erfolgt die Bestimmung der förderfähigen Ausgaben auf Grundlage von Einheitskosten gemäß Artikel 83 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 2021/2015.
 
-Bemessungsgrundlage sind investive Ausgaben für Vorhaben, die den Fördergegenständen entsprechen.
+D.4.3 Für juristische Personen des öffentlichen Rechts ist eine kumulative Förderung in Verbindung mit privaten Mitteln Dritter zulässig. Die Gesamtsumme der staatlichen Zuwendungen darf 80 Prozent der förderfähigen Gesamtausgaben nicht überschreiten.
 
-Weiterhin sind allgemeine Aufwendungen etwa für Architekten- und Ingenieurleistungen sowie für die Betreuung von baulichen Investitionen bis zu einem Anteil von maximal 12 Prozent der förderfähigen investiven Ausgaben zuwendungsfähig.
+Für Vorhaben nach Nummer D.1.2 gilt bei Kumulation mit anderen Zuwendungen, welche auch die Eigenmittel darstellen können, dass die Beihilfe einen Betrag von insgesamt 2 Millionen Euro nicht überschreiten darf.
 
-Investitionskonzepte sind mit einem förderfähigen Volumen von maximal 500 Euro (ohne Umsatzsteuer) zuwendungsfähig.
+D.4.4 Zuwendungsfähig sind Ausgaben zur Realisierung von Vorhaben, die der Umsetzung und der Zielerreichung der regionalen Entwicklungsstrategie dienen, diese umfassen insbesondere
 
-5.5 Investitionsvolumen und Förderobergrenzen
+Ausgaben gemäß DIN 276 für bauliche Maßnahmen,
 
-Das Mindestinvestitionsvolumen beträgt 5 000 Euro.
+Ausgaben für bauliche Anlagen, öffentliche Plätze und Parkanlagen, Straßen und Wege, Beschilderung, Bepflanzungen einschließlich einer anschließenden dreijährigen Herstellungspflege (Fertigstellungs- und Entwicklungspflege im Zeitraum der Durchführung des Vorhabens),
 
-Die Förderung ist begrenzt auf ein förderfähiges Investitionsvolumen von 2 Millionen Euro je Unternehmen4. Diese Obergrenze des festgelegten Investitionsvolumens kann im Rahmen der Geltungsdauer der Förderperiode höchstens einmal pro Zuwendungsempfangenden ausgeschöpft werden. Dies gilt auch bei Betriebszusammenschlüssen, Unternehmensteilungen und bei einem Wechsel der Rechtsform des Unternehmens. Soweit das antragstellende Unternehmen oder dessen Teilhaberschaft mit einer Kapitalbeteiligung von mehr als 25 Prozent eine Förderung nach diesem Richtlinienteil erhalten hat, ist diese, dem Kapitalanteil entsprechend, anzurechnen.
+Ausgaben für Maschinen, technische Anlagen sowie Einrichtungen,
 
-Des Weiteren gilt, dass bei einer Überschreitung der Prosperitätsgrenze das förderfähige Investitionsvolumen für die beantragte Investition anteilig entsprechend dem Kapitalanteil gekürzt wird.
+allgemeine Aufwendungen, insbesondere Ausgaben für freiberufliche Leistungen im Zusammenhang mit baulichen Investitionen sind bis zu einem Höchstsatz von insgesamt 20 Prozent der förderfähigen Bauausgaben zuwendungsfähig,
 
-5.6 Höhe der Zuwendungen
+Ausgaben für Hardware zur Nutzung moderner Informations- und Kommunikationstechnologien und
 
-Für Unternehmen des Gartenbaus, die mindestens 50 Prozent der Umsatzerlöse aus Gartenbau und damit verbundenem Handel oder Dienstleistungen erzielen, kann ein Zuschuss von maximal 45 Prozent der Bemessungsgrundlage gewährt werden.
+Ausgaben für IT- und softwaregestützte Lösungen.
 
-Für Unternehmen der Imkerei kann ein Zuschuss von maximal 20 Prozent der Bemessungsgrundlage gewährt werden.
+D.5 Sonstige Zuwendungsbestimmungen
 
-5.7 Haftung
+D.5.1 Bei Vorhaben im Bereich der Beherbergung nach Nummer D.1.3.2 sind zum Verwendungsnachweis Nachweise einer geeigneten, digitalen und überregionalen Vermarktung vorzulegen.
 
-Bei haftungsbeschränkter Gesellschaftsform des antragstellenden Unternehmens ist ein etwaiger Erstattungs­anspruch des Landes grundsätzlich durch selbstschuldnerische Bürgschaften der Beteiligten mit mehr als 25 Prozent Anteil zu besichern. Dies gilt für Zuschüsse in Höhe von über 100 000 Euro. Ist die Eigenkapitalausstattung des Unternehmens größer als der zu bewilligende Zuschuss, kann von einer Besicherung abgesehen werden.
+E Regionalbudget im Rahmen der RES nach Teil I Nummer 2.5
 
-6 Sonstige Bestimmungen
+E.1 Gegenstand der Förderung
 
-6.1 Buchführungspflicht und Betriebsvergleich
+E.1.1 Unterstützung einer engagierten und aktiven eigenverantwortlichen ländlichen Entwicklung sowie Stärkung der Identität vor Ort in Form eines Regionalbudgets
 
-Nach der Bewilligung des Vorhabens ist das Unternehmen verpflichtet, entweder für mindestens fünf weitere Jahre eine Buchführung, die dem Jahresabschluss des Bundesministeriums für Ernährung und Landwirtschaft (BMEL) entspricht, fortzuführen und bei der zuständigen Landesbehörde bis spätestens neun Monate nach Abschluss des Wirtschaftsjahres als csv-Datei vorzulegen oder ihre Beteiligung am Betriebsvergleich des Zentrums für Betriebswirtschaft im Gartenbau e. V. Hannover (Betriebsdatenerfassung) für mindestens fünf Jahre nach Abschluss des Vorhabens nachzuweisen und bei der zuständigen Landesbehörde bis spätestens neun Monate nach Abschluss des Wirtschaftsjahres vorzulegen.
+E.2 Zuwendungsempfangende
 
-6.2 Bewässerungsanlagen
+E.2.1 Lokale Aktionsgruppen als rechtsfähige Zusammenschlüsse von Akteuren im ländlichen Raum (LAG)
 
-Im Falle von Investitionen in Bewässerungsanlagen sind die besonderen Anforderungen gemäß Anlage 2 zu erfüllen.
+E.3 Weitere Zuwendungsvoraussetzungen
 
-6.3 Beratung
+E.3.1 Dem Antrag ist ein Aktionsplan beizufügen, welcher im Ergebnis eines thematischen Projektauswahlverfahrens gemäß den Regularien der jeweiligen RES durch die LAG aufgestellt wurde. Der Aufruf und die Auswahlkriterien für die Förderung von Kleinprojekten sind auf der Website der LAG zu veröffentlichen.
 
-Unternehmen des Gartenbaus haben bei Überschreitung eines Investitionsvolumens von 100 000 Euro einen Beratungsvertrag mit einem Spezialberatungsunternehmen oder einer Beraterin oder einem Berater mit Berufserfahrungen in der fachlichen Beratung von Gartenbauunternehmen (unter anderem Obst, Gemüse, Baumschule, Zierpflanzen) vorzulegen. Dieser Vertrag beinhaltet mindestens:
+E.3.2 Dem Antrag ist eine Übersicht aller Projektträger, die Mitglieder der LAG sind, beizufügen. Für alle anderen Projektträger ist bezogen auf die Umsetzung des Aktionsplans zu erklären, wann eine Vereinbarung zwischen der LAG und den Projekttragenden unterzeichnet wurde und wer das Projekt beauftragt und abrechnet.
 
-die fachliche Beratung zur geplanten Investition und kann die
+E.3.3 Kleinprojekte eines Aktionsplans müssen Vorhaben sein, welche innerhalb der Gebietskulisse „Ländlicher Raum“ liegen, lokal wirken und keine Handelsbeeinträchtigung nach sich ziehen beziehungsweise keine wirtschaftliche Tätigkeit darstellen.
 
-betriebswirtschaftliche Beratung zur geplanten Investition beinhalten.
+E.4 Bemessungsgrundlage und Höhe der Zuwendung
 
-Im Rahmen der fachlichen Beratung zu produktionstechnischen Details kann das Beratungsunternehmen auf die Sachkunde Dritter zurückgreifen.
+E.4.1 Für Vorhaben nach Nummer E.1.1
 
-6.4 Zweckbindung
+100 Prozent der förderfähigen Gesamtausgaben eines Regionalbudgets zur Umsetzung von Kleinprojekten gemäß Aktionsplan,
 
-Die Förderung von Investitionen erfolgt unter dem Vorbehalt des Widerrufs für den Fall, dass die geförderten
+maximal 200 000 Euro jährlich pro Regionalbudget.
 
-Grundstücke, Bauten und baulichen Anlagen innerhalb eines Zeitraumes von fünf Jahren ab Abschlusszahlung an den Zuwendungsempfangenden,
+Die förderfähigen Gesamtkosten eines Kleinprojekts müssen mindestens 500 Euro und dürfen maximal 20 000 Euro betragen.
 
-Maschinen, technischen Einrichtungen und Geräte sowie Computersoftware innerhalb eines Zeitraumes von fünf Jahren ab Abschlusszahlung an den Zuwendungsempfangenden
+E.4.2 Förderfähig im Rahmen des Regionalbudgets sind Kleinprojekte im Rahmen des jeweiligen Aktionsplans zur
 
-veräußert, vermietet, verpachtet, verleast oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
+Unterstützung des bürgerschaftlichen Engagements,
 
-6.5 Inventarisierung
+Begleitung von Veränderungsprozessen auf örtlicher Ebene,
 
-Der Zuwendungsempfangende hat die zur Erfüllung des Zuwendungszweckes beschafften Gegenstände, deren Anschaffungs- oder Herstellungswert 800 Euro (ohne Umsatzsteuer) übersteigt, im Anlagevermögen zu inventarisieren.
+Kommunikation und Öffentlichkeitsarbeit,
 
-6.6 Kumulierbarkeit
+Verbesserung der Lebensverhältnisse der ländlichen Bevölkerung,
 
-Eine Kumulation mit Mitteln der Landwirtschaftlichen Rentenbank, COSME (Programm für die Wettbewerbsfähigkeit von Unternehmen und für KMU) des Europä­ischen Investitionsfonds (EIF) oder der Förderbanken der Länder ist möglich.
+Umsetzung von dem ländlichen Charakter angepassten Infrastrukturmaßnahmen,
 
-Die Förderobergrenzen dürfen bei einer Kumulation nicht überschritten werden.
+Sicherung und Verbesserung der Grundversorgung der ländlichen Bevölkerung.
 
-Vorhaben, die aus Mitteln anderer öffentlicher Förderungsprogramme gefördert werden, dürfen nicht gleichzeitig nach diesen Grundsätzen gefördert werden.
+E.4.3 Förderfähige Kosten im Rahmen des Regionalbudgets sind Ausgaben zur Umsetzung von Kleinprojekten laut Aktionsplan wie Investitionsausgaben inklusive Sachkosten einschließlich Honorarkosten.
 
-6.7 Vergabe
-
-Die Gewährung einer Zuwendung erfolgt unter der Maßgabe des wirtschaftlichen und sparsamen Mitteleinsatzes. Aufträge sind nur an fachkundige und leistungsfähige Anbietende nach wettbewerblichen Gesichtspunkten zu wirtschaftlichen Bedingungen zu vergeben. Bei der Durchführung aller Vorhaben sind dazu vor Auftragsvergabe ab einem Auftragswert von mehr als 2 500 Euro (ohne Umsatzsteuer) mindestens drei vergleichbare Angebote einzuholen.
-
-6.8 Publizität
-
-Der Zuwendungsempfangende ist verpflichtet, die jeweils geltenden Bestimmungen der EU über die von den Mitgliedstaaten zu treffenden Informations- und Publizitätsvorschriften für die Interventionen des ELER zu beachten (siehe unter www.eler.brandenburg.de).
-
-6.9 Evaluierung
-
-Die zur Evaluierung dieses Programmes und zur Prüfung der Zuwendungsfähigkeit erforderlichen Daten und Unterlagen sind in geeigneter Form und Qualität zur Verfügung zu stellen.
-
-6.10 Prüfungen
-
-Der Europäische Rechnungshof, die Europäische Kommission, der Landesrechnungshof, das Fachministerium, die Verwaltungsbehörde ELER, die Zahlstelle und Bescheinigende Stelle sowie deren beauftragte Dritte und alle an der Förderung beteiligten öffentlichen Mittel­geber sind berechtigt, bei dem Zuwendungsempfangenden beziehungsweise wenn Mittel an Dritte weitergeleitet wurden auch bei diesem zu prüfen.
-
-6.11 Änderung der Anforderungen
-
-Werden den Zuwendungsempfangenden durch Unionsrecht neue Anforderungen auferlegt, so kann die Förderung zur Erfüllung dieser Anforderungen für einen Zeitraum von höchstens zwölf Monaten ab dem Zeitpunkt gewährt werden, zu dem die Anforderungen für den landwirtschaftlichen Betrieb obligatorisch werden.
-
-Teil III   Einzelbetriebliche Förderung von Investitionen zur Diversifizierung
-
-1 Zuwendungszweck, Rechtsgrundlage
-
-1.1 Zuwendungszweck
-
-Die gesamtwirtschaftlichen und sektoralen Rahmenbedingungen für die Landwirtschaft bedingen deren stetigen Strukturwandel. Nicht alle Inhaber landwirtschaft­licher Unternehmen werden auch in Zukunft ein ausreichendes Einkommen aus der landwirtschaftlichen Produktion erwirtschaften können. Die Schaffung zusätzlicher Einkommensquellen aus selbstständiger Tätigkeit wird unterstützt und damit ein Beitrag zur Erhaltung der Wirtschaftskraft des ländlichen Raumes geleistet. Dies soll insbesondere durch die Förderung der
-
-Schaffung zusätzlicher Einkommensquellen aus selbstständiger Tätigkeit im außerlandwirtschaftlichen Bereich erfolgen.
-
-1.2 Rechtsgrundlage
-
-Das Land gewährt auf der Grundlage der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER), der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die durch Verordnung (EU) 2020/972 (ABl. L 215 vom 7.7.2020, S. 3) genehmigt wurde, der Verordnung (EU) Nr. 702/2014 sowie der Verordnung (EU) Nr. 1303/2013 des Europä­ischen Parlaments und des Rates vom 17. Dezember 2013 mit gemeinsamen Bestimmungen über den EFRE, ESF, den Kohäsionsfonds, den ELER und den EMFF sowie mit allgemeinen Bestimmungen über den EFRE, den ESF, den Kohäsionsfonds und den EMFF und zur Aufhebung der Verordnung (EG) Nr. 1083/2006 des Rates, des Entwicklungsprogramms für den ländlichen Raum Brandenburgs und Berlins 2014-2020 (Ziffer 8.2.5.3) und des Rahmenplans der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes (GAK)“ in der jeweils geltenden Fassung, nach Maßgabe dieser Richt­linie und der Verwaltungsvorschriften zu § 44 der Landeshaushaltsordnung (LHO) Zuwendungen zur Förderung von Maßnahmen.
-
-1.3 Anspruch auf Förderung
-
-Ein Anspruch auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsstelle aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
-
-2 Gegenstand der Förderung
-
-Gegenstand der Förderung sind Investitionen zur:
-
-Diversifizierung hin zu nicht landwirtschaftlicher Tätigkeit.
-
-2.1 Förderfähige Investitionen
-
-Förderfähig sind Investitionen zur Schaffung zusätz­licher Einkommensquellen im ländlichen Raum, die die Bedingungen des Artikels 19 der Verordnung (EU) Nr. 1305/2013 sowie die Bedingungen der Verordnung (EU) Nr. 1407/2013 der Kommission über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) auf De-minimis-Beihilfen erfüllen.
-
-Nachfolgende Maßnahmen können gefördert werden:
-
-Errichtung oder Modernisierung von unbeweglichem Vermögen
-
-Investitionen im Beherbergungsbereich sind nur mit einer Gesamtkapazität von höchstens 25 Gäs­tebetten förderfähig.
-
-Erstanschaffung von neuen Maschinen und Anlagen, einschließlich Computersoftware, bis zum markt­üblichen Wert des Wirtschaftsgutes
-
-Bei Brennereien sind nur Investitionen im Bereich der Direktvermarktung von Branntwein, Likör und anderen alkoholischen Getränken und zusammengesetzten alkoholischen Zubereitungen und Essenzen zur Herstellung von Getränken, die aus der Produktion von Abfindungs- sowie Verschlusskleinbrennereien (jährlich höchstens 10 Hektoliter Alkoholproduktion) hervorgehen, förderfähig. Dabei dürfen die Produkte nicht direkt aus landwirtschaftlichen Erzeugnissen, die im Anhang I des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) aufgeführt sind, hergestellt sein.
-
-Brennereigeräte sind nur förderfähig, wenn es sich um Modernisierung bestehender Brennereien handelt.
-
-2.2 Förderausschluss
-
-Von der Förderung ausgeschlossen sind:
-
-Investitionen, die ausschließlich die Erzeugung, Verarbeitung und Direktvermarktung von Anhang I-Erzeugnissen des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) betreffen,
-
-Erwerb von Produktionsrechten und Gesellschaftsanteilen,
-
-Ersatzinvestitionen,
-
-genehmigungspflichtige Vorhaben, für die keine Genehmigung vorliegt und die nicht im Einklang mit den für das Vorhaben einschlägigen umweltrechtlichen Vorgaben stehen,
-
-Investitionen zur Anpassung an neue Anforderungen des Unionsrechts nach Artikel 17 Absatz 5 und 6 der Verordnungen (EU) Nr. 1305/2013 und 1306/2013,
-
-Maschinen und Geräte für die Außenwirtschaft,
-
-Zinsen, laufende Betriebsausgaben, Ablösung von Verbindlichkeiten, Erbabfindungen, Kreditbeschaffungskosten und Gebühren für eine Beratung in Rechtssachen,
-
-Investitionen in Wohnungen, Verwaltungsgebäude und separate Gebäude mit Sozialräumen,
-
-Umsatzsteuer, Skonti, Beiträge, unbare Eigenleistungen und sonstige Preisnachlässe,
-
-Anlageinvestitionen für die Produktion von erneuerbaren Energien, die durch das Erneuerbare-Energien-Gesetz förderfähig sind,
-
-Landankauf,
-
-behördlich festgesetzte Ausgleichs- und Ersatzmaßnahmen, insbesondere im Zusammenhang mit Genehmigungsverfahren nach Bundes-Immissionsschutzgesetz (BImSchG) oder Baurecht für beantragte Investitionsmaßnahmen.
-
-3 Zuwendungsempfangende
-
-3.1 Zuwendungsberechtigte
-
-Zuwendungsempfangende sind Unternehmen, unbeschadet der gewählten Rechtsform, welche im Sinne des Anhangs I der Agrarfreistellungsverordnung zu den Kleinst-, kleinen oder mittleren Unternehmen gehören, wenn entweder
-
-deren Geschäftstätigkeit zu mehr als 25 Prozent der Umsatzerlöse darin besteht, durch Bodenbewirtschaftung oder durch mit Bodenbewirtschaftung verbundene Tierhaltung pflanzliche oder tierische Erzeugnisse zu gewinnen, und
-
-die die in § 1 Absatz 2 des Gesetzes über die Alterssicherung der Landwirte (ALG) genannte Mindestgröße erreichen oder überschreiten
-
-oder
-
-ein landwirtschaftlicher Betrieb bewirtschaftet wird und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgt werden
-
-oder
-
-deren Inhaberinnen und Inhaber landwirtschaftliche Einzelunternehmen oder mitarbeitende Familienange­hörige gemäß § 1 Absatz 8 ALG, soweit sie in räumlicher Nähe zum landwirtschaftlichen Betrieb erstmalig eine selbstständige Existenz gründen oder entwickeln, sind.
-
-Als Tierhaltung im Sinne des ersten Spiegelstriches gelten auch die Imkerei und Wanderschäferei.
-
-Alle Bedingungen müssen grundsätzlich zum Zeitpunkt der Antragstellung erfüllt sein.
-
-3.2 Ausschluss von der Förderung
-
-Nicht gefördert werden Unternehmen,
-
-bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25 Prozent vom Eigenkapital des Unternehmens beträgt,
-
-die sich in Schwierigkeiten im Sinne der „Leitlinien der Gemeinschaft für staatliche Beihilfen zur Rettung und Umstrukturierung von Unternehmen in Schwierigkeiten“ befinden (ABl. C 249 vom 31.7.2014, S. 1).
-
-4 Zuwendungsvoraussetzungen
-
-4.1 Fördergebietskulisse
-
-Die Betriebsstätte des antragstellenden Unternehmens, für welche eine Förderung von Investitionen im Rahmen dieser Richtlinie beantragt wird, muss im Land Brandenburg oder Berlin liegen.
-
-4.2 Investitionskonzept
-
-Es ist ein Nachweis in Form eines für das Land Brandenburg oder Berlin formgebundenen Investitionskonzeptes über die Wirtschaftlichkeit des Unternehmens und die Finanzierbarkeit der durchzuführenden Maßnahmen zu erbringen. Das Investitionskonzept soll eine Abschätzung über die Entwicklung der Wirtschaftlichkeit des Unternehmens aufgrund der durchzuführenden Maßnahmen zulassen.
-
-4.3 Prosperitätsregelung
-
-Prüfkriterium ist die Kennziffer Ordentliches Ergebnis plus Personalaufwand gemäß dem letzten vorliegenden Jahresabschluss. Diese Kennziffer darf den Wert von 120 000 Euro je Arbeitskraft nicht überschreiten.
-
-Bei neu gegründeten Unternehmen der Antragstellenden sind die positiven Einkünfte des letzten erlassenen Steuer­bescheides, einschließlich die der Ehepartner, für die Prüfung der Einkommensprosperität heranzuziehen. Die positiven Einkünfte dürfen zum Zeitpunkt der Antragstellung 110 000 Euro je Jahr bei Ledigen und 150 000 Euro je Jahr bei Ehepartnern nicht überschreiten.
-
-Bei juristischen Personen und Personengesellschaften einschließlich der GmbH & Co. KG gelten die oben genannten Grenzen für alle Unternehmen und Personen mit einem Kapitalanteil von mehr als 5 Prozent.
-
-4.4 Genehmigungen
-
-Die zur Durchführung der zur Förderung beantragten Investitionen erforderlichen Genehmigungen sowie alle zum Errichten und Betreiben notwendigen Verträge sind mit der Antragstellung vorzulegen. Bei öffentlichen Genehmigungen gilt der formell bestandskräftige Bescheid der Genehmigungsbehörde als Zuwendungsvoraussetzung.
-
-4.5 Projektauswahl
-
-Die Auswahl der zu bewilligenden Vorhaben erfolgt anhand vorab festgelegter vorhabenspezifischer Projektauswahlkriterien mittels festgelegten Punktesystemen. Das Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg (MLUK) legt in Abhängigkeit von aktuellen agrarpolitischen Erfordernissen und Zielstellungen Prioritäten bei den Fördergegenständen fest. Die Kriterien zur Auswahl der zu bewilligenden Projekte sind auf der Internetseite des Ministeriums www.mluk.brandenburg.de oder auf der Internetseite www.eler.brandenburg.de veröffentlicht. Anträge unterhalb der veröffentlichten Mindestschwelle sind im Rahmen der Projektauswahl von einer Förderung ausgeschlossen.
-
-4.6 Vorwegbuchführung
-
-Das antragstellende Unternehmen hat grundsätzlich eine Vorwegbuchführung für mindestens zwei Jahre vorzulegen, aus der sich der Erfolg der bisherigen Bewirtschaftung des Unternehmens nachweisen lässt.
-
-4.7 Gesamtfinanzierung
-
-Die Sicherung der Gesamtfinanzierung ist durch Bestätigung der Hausbank beziehungsweise durch eine Kreditbereitschaftserklärung zu erbringen.
-
-5 Art und Umfang, Höhe der Zuwendung
-
-5.1 Zuwendungsart
-
-Die Zuwendungsart ist die Projektförderung.
-
-5.2 Finanzierungsart
-
-Die Finanzierungsart ist die Anteilfinanzierung.
-
-5.3 Form der Zuwendung
-
-Die Zuwendungen werden in Form des Zuschusses oder als Bürgschaft für Kapitalmarktdarlehen gewährt.
-
-5.4 Bemessungsgrundlage
-
-Bemessungsgrundlage sind investive Ausgaben für Vorhaben, die den Fördergegenständen entsprechen.
-
-Weiterhin sind allgemeine Aufwendungen etwa für Architekten- und Ingenieurleistungen sowie für die Betreuung von baulichen Investitionen bis zu einem Anteil von maximal 12 Prozent der förderfähigen investiven Ausgaben zuwendungsfähig.
-
-Investitionskonzepte sind mit einem förderfähigen Volumen von maximal 500 Euro (ohne Umsatzsteuer) zuwendungsfähig.
-
-5.5 Investitionsvolumen und Förderobergrenzen
-
-Das Mindestinvestitionsvolumen beträgt 10 000 Euro.
-
-Die Unterstützung der Vorhaben erfolgt unter Beachtung der Verordnung (EU) Nr. 1407/2013 vom 18. Dezember 2013 (De-minimis-Beihilfen) über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV). Danach dürfen die im Rahmen der De-minimis-Beihilfen gewährten Zuwendungen 200 000 Euro innerhalb eines Zeitraumes von drei Jahren nicht überschreiten.
-
-Des Weiteren gilt, dass bei einer Überschreitung der Pro­s­peritätsgrenze das förderfähige Investitionsvolumen für die beantragte Investition anteilig entsprechend dem Kapitalanteil gekürzt wird.
-
-5.6 Höhe der Zuwendungen
-
-Es kann ein Zuschuss von maximal 25 Prozent der Bemessungsgrundlage gewährt werden.
-
-6 Sonstige Bestimmungen
-
-6.1 Berichtspflicht
-
-Der Bewilligungsstelle ist im zweiten Wirtschaftsjahr nach Abschlusszahlung ein Bericht über die Ergebnisse des Vorhabens vorzulegen.
-
-6.2 Eintragungspflicht
-
-Ein Nachweis über die Eintragung der geförderten Diver­sifizierungsmaßnahme in einschlägige Verzeichnisse, wie zum Beispiel Beherbergungsverzeichnis oder Gaststättenverzeichnis, ist zum Verwendungsnachweis vorzulegen.
-
-6.3 Geschlechterspezifische Situationen
-
-Bei der Planung, Durchführung, Begleitung und Bewertung der Fördermaßnahme sind die Barrierefreiheit und die Auswirkungen auf die geschlechterspezifischen Situa­tionen, Bedürfnisse und Interessen von Männern und Frauen entsprechend dem Vorhaben angemessen umzusetzen.
-
-6.4 Zweckbindung
-
-Die Förderung von Investitionen erfolgt unter dem Vorbehalt des Widerrufs für den Fall, dass die geförderten
-
-Grundstücke, Bauten und baulichen Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Abschlusszahlung an den Zuwendungsempfangenden,
-
-Maschinen, technischen Einrichtungen und Geräte sowie Computersoftware innerhalb eines Zeitraumes von fünf Jahren ab Abschlusszahlung an den Zuwendungsempfangenden
-
-veräußert, vermietet, verpachtet, verleast oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
-
-6.5 Inventarisierung
-
-Der Zuwendungsempfangende hat die zur Erfüllung des Zuwendungszweckes beschafften Gegenstände, deren Anschaffungs- oder Herstellungswert 800 Euro (ohne Umsatzsteuer) übersteigt, im Anlagevermögen zu inventarisieren.
-
-6.6 Kumulierbarkeit
-
-Eine Kumulation mit Mitteln der Landwirtschaftlichen Rentenbank, COSME (Programm für die Wettbewerbsfähigkeit von Unternehmen und für KMU) des Europä­ischen Investitionsfonds (EIF) oder der Förderbanken der Länder ist möglich.
-
-Die Förderobergrenzen dürfen bei einer Kumulation nicht überschritten werden.
-
-Vorhaben, die aus Mitteln anderer öffentlicher Förderungsprogramme gefördert werden, dürfen nicht gleichzeitig nach diesen Grundsätzen gefördert werden.
-
-6.7 Vergabe
-
-Die Gewährung einer Zuwendung erfolgt unter der Maßgabe des wirtschaftlichen und sparsamen Mitteleinsatzes. Aufträge sind nur an fachkundige und leistungsfähige Anbietende nach wettbewerblichen Gesichtspunkten zu wirtschaftlichen Bedingungen zu vergeben. Bei der Durchführung aller Vorhaben sind dazu vor Auftragsvergabe ab einem Auftragswert von mehr als 2 500 Euro (ohne Umsatzsteuer) mindestens drei vergleichbare Angebote einzuholen.
-
-6.8 Publizität
-
-Der Zuwendungsempfangende ist verpflichtet, die jeweils geltenden Bestimmungen der EU über die von den Mitgliedstaaten zu treffenden Informations- und Publizitätsvorschriften für die Interventionen des ELER zu beachten (siehe unter www.eler.brandenburg.de).
-
-6.9 Evaluierung
-
-Die zur Evaluierung dieses Programmes und zur Prüfung der Zuwendungsfähigkeit erforderlichen Daten und Unterlagen sind in geeigneter Form und Qualität zur Verfügung zu stellen.
-
-6.10 Prüfungen
-
-Der Europäische Rechnungshof, die Europäische Kommission, der Bundesrechnungshof (bei einer Beteiligung mit Bundesmitteln), der Landesrechnungshof, das Fachministerium, die Verwaltungsbehörde ELER, die Zahlstelle und Bescheinigende Stelle sowie deren beauftragte Dritte und alle an der Förderung beteiligten öffentlichen Mittelgeber sind berechtigt, bei dem Zuwendungsempfangenden beziehungsweise wenn Mittel an Dritte weitergeleitet wurden auch bei diesem zu prüfen.
-
-6.11 Änderung der Anforderungen
-
-Werden den Zuwendungsempfangenden durch Unionsrecht neue Anforderungen auferlegt, so kann die Förderung zur Erfüllung dieser Anforderungen für einen Zeitraum von höchstens zwölf Monaten ab dem Zeitpunkt gewährt werden, zu dem die Anforderungen für den landwirtschaftlichen Betrieb obligatorisch werden.
-
-Teil IV Verfahren und Geltungsdauer
+Teil III Verfahren und Geltungsdauer
 
 7 Verfahren
 
-7.1 Antragstellung
+7.1 Antragsverfahren
 
-Der Förderantrag ist schriftlich, vollständig und formgebunden mittels Antragsvordruck bei der Investitionsbank des Landes Brandenburg (Bewilligungsstelle) einzureichen. Dem Antrag ist eine formgebundene Stellungnahme des zuständigen Amtes für Landwirtschaft des Landkreises/der kreisfreien Stadt beizufügen. Die Erfüllung sämtlicher Zuwendungsvoraussetzungen muss mit Antragseingang gegeben sein. Förderanträge können ausschließlich im Rahmen der zuvor veröffentlichten Antragstermine gestellt werden. Die Antragstermine eines jeden Haushaltsjahres werden auf den Internetseiten des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg (MLUK) und der Bewilligungsstelle veröffentlicht. Stehen weitere Haushaltsmittel zur Verfügung, können weitere Antragstermine des laufenden Haushaltsjahres festgelegt und veröffentlicht werden.
+7.1.1 Anträge sind vollständig und formgebunden über das digitale Antragssystem bei der Bewilligungsbehörde, dem Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung (LELF) einzureichen. Anträge haben dabei die Mindestanforderungen des digitalen Antragsformulars zu erfüllen (alle erforderlichen Angaben und Anlagen müssen vorliegen und vollständig sein). Im Falle unvollständiger, fehlender oder nicht fristgemäß eingereichter beziehungsweise nachgereichter Unterlagen wird der Antrag abgelehnt.
 
-7.2 Bewilligung
+7.1.2 Das Verfahren zur Auswahl der Vorhaben ist in den RES geregelt und obliegt der Verantwortung der jeweiligen LAG. Das Auswahlverfahren durch die LAG muss vor der Antragstellung beim LELF abgeschlossen sein. Für Vorhaben nach den Nummern 2.2 bis 2.5 sind die Anträge spätestens innerhalb von sechs Monaten nach dem positiven Beschluss der LAG (Nummer 4.3) einzureichen. Fristbeginn ist der Tag nach der Beschlussfassung. Voten verlieren nach Ablauf dieser Frist ihre Gültigkeit.
 
-Die Bewilligungsstelle ist die Investitionsbank des Landes Brandenburg. Die Bewilligung der Förderanträge erfolgt in absteigender Reihenfolge anhand der festgelegten Projektauswahlkriterien bis zur Ausschöpfung der zur Verfügung stehenden Haushaltsmittel. Hat ein Antrag das Auswahlverfahren erfolgreich durchlaufen, wird dieser von der Bewilligungsstelle zeitnah bewilligt. War ein Antrag im Auswahlverfahren nicht erfolgreich, ist dies der antragstellenden Person mitzuteilen. Ein nicht erfolgreicher Antrag kann zu einem neuen Antragstermin erneut eingereicht werden.
+7.1.3 Der förderunschädliche Vorhabenbeginn wird abweichend von Nummer 1.3 VV zu § 44 Absatz 1 LHO mit dem Tag der Einreichung eines formgebundenen Förderantrages bei der Bewilligungsbehörde inklusive positivem Beschluss nach Nummer 4.3 zugelassen. Dieser Vorhabenbeginn erfolgt auf eigenes Risiko der oder des Antragstellenden, da eine Zuwendung nur in Abhängigkeit der durchzuführenden Kontrollen und im Rahmen der bereitgestellten Haushaltsmittel gewährt werden kann.
 
-7.3 Auszahlungsantrag
+7.2 Bewilligungsverfahren
 
-Auszahlungsanträge sind bei der Bewilligungsstelle einzureichen. Die Auszahlung der Mittel erfolgt im Wege der Erstattung. Mit dem Auszahlungsantrag hat das geförderte Unternehmen eine Übersicht über die bezahlten Rechnungen einschließlich der Originalrechnungen und der Zahlungsbelege sowie eine Dokumentation der Auftragsvergabe einzureichen. Die Auszahlung des letzten Teilbetrages in Höhe von mindestens 10 Prozent beziehungsweise des Einmalbetrages der Gesamtzuwendung erfolgt erst nach abschließender Prüfung des Verwendungsnachweises entsprechend den Bestimmungen des Zuwendungsbescheides.
+Die Anträge werden durch die Bewilligungsbehörde, das LELF, entschieden.
 
-7.4 Verwendungsnachweis
+7.3 Anforderungs- und Auszahlungsverfahren
 
-Der Verwendungsnachweis ist der Bewilligungsstelle vorzulegen.
+7.3.1 Die Auszahlung der Fördermittel erfolgt im Wege der Erstattung. Mit dem über das digitale Antragssystem einzureichenden Auszahlungsantrag hat die oder der Zuwendungsempfangende eine Übersicht über die bezahlten Rechnungen (digitale Rechnungsliste) einschließlich der Rechnungs- und Zahlungsbelege sowie eine Dokumentation der Auftragsvergabe einzureichen.
 
-7.5 Einschlägige Vorschriften
+7.3.2 Für Vorhaben, bei denen die Bestimmung der förderfähigen Ausgaben auf Grundlage von Einheitskosten gemäß Artikel 83 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 2021/2015 erfolgt, sind durch die oder den Zuwendungsempfangenden mit dem über das digitale Antragssystem einzureichenden Auszahlungsantrag entsprechende Nachweise für die Umsetzung des (Teil-)Vorhabens einzureichen.
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die VV zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind. Aufgrund des Einsatzes von EU-Mitteln gelten vorrangig zur Landeshaushaltsordnung die einschlägigen europäischen Vorschriften für die Förderperiode 2014 bis 2022, aus der die jeweils eingesetzten Fondsmittel stammen. Daraus ergeben sich Besonderheiten insbesondere hinsichtlich der Auszahlung, des Abrechnungsverfahrens und der Aufbewahrungspflichten.
+7.3.3 Die Auszahlung eines letzten Teilbetrages in Höhe von 10 Prozent beziehungsweise des Einmalbetrages der bewilligten Zuwendungssumme erfolgt erst nach abschließender Prüfung des Verwendungsnachweises.
 
-7.6 Kontrollen
+7.4 Verwendungsnachweisverfahren
 
-Die Gewährung einer Zuwendung nach dieser Richtlinie umfasst Verwaltungskontrollen, Vor-Ort-Kontrollen und Expost-Kontrollen, welche die Einhaltung der Zuwendungsvoraussetzungen sowie Bestimmungen laut Zuwendungsbescheid überprüfen. Die Rechtsgrundlage für Kontrollen bilden die entsprechenden Kontrollvorschriften der Verordnung (EU) Nr. 809/2014 in der jeweils geltenden Fassung.
+7.4.1 Der Verwendungsnachweis ist gegenüber der Bewilligungsbehörde über das digitale Antragssystem zu erbringen. Er besteht aus einem Sachbericht und einem zahlenmäßigen Nachweis ohne erneute Vorlage von Belegen.
 
-7.7 Kürzungen und Sanktionen
+7.4.2 In dem zahlenmäßigen Nachweis sind die Einnahmen und Ausgabenpositionen (tatsächliche Ausgaben, Pauschalbetrag etc.) voneinander getrennt und entsprechend der Gliederung des Finanzierungsplans auszuweisen. Der zahlenmäßige Nachweis muss alle mit dem Zuwendungszweck zusammenhängenden Einnahmen (Zuwendungen, Leistungen Dritter, eigene Mittel) und Ausgabenpositionen enthalten. Werden im Rahmen des Verwendungsnachweises neue Ausgaben geltend gemacht, die nicht bereits im Rahmen vorheriger Auszahlungsanträge berücksichtigt wurden, so sind die Nachweispflichten für die Einreichung eines Auszahlungsantrages gemäß Nummer 7.3 der Richtlinie einzuhalten.
 
-Die Europäische Kommission hat die Rücknahme beziehungsweise Kürzungen der Förderungen sowie die Anwendung von Verwaltungssanktionen bei Verstößen im Bereich der Agrarfonds EGFL und ELER grundsätzlich in Artikel 63 und 64 der Verordnung (EU) Nr. 1306/2013 geregelt. Für investive ELER-Maßnahmen werden diese Regelungen ergänzt durch Artikel 63 der Durchführungsverordnung (EU) Nr. 809/2014 sowie Artikel 35 der Delegierten Verordnung (EU) Nr. 640/2014. Danach wird zwischen Kürzungen und Sanktionen aufgrund von Verstößen gegen die Förderfähigkeitsregeln (Förderfähigkeit von zur Erstattung beantragten Kosten) und Sanktionen aufgrund von Verstößen gegen die Förderkriterien, Verpflichtungen und sonstigen Auflagen unterschieden. Zu Unrecht gezahlte Beträge sind gemäß Artikel 7 der Verordnung (EU) Nr. 809/2014 zurückzufordern. Für die Aufhebung und Erstattung ist außerdem das Verwaltungsverfahrensgesetz für das Land Brandenburg, insbesondere die §§ 48, 49 und 49a VwVfGBbg, anzuwenden. Bei Verstößen gegen die Einhaltung von einschlägigen Vorschriften sind Kürzungen der Zuwendung oder Verwaltungssanktionen durch die Bewilligungsstelle vorzunehmen.
+7.5 Zu beachtende Vorschriften
+
+7.5.1 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendungen sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die VV/VVG zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen zugelassen sind.
+
+7.5.2 Aufgrund des Einsatzes von EU-Mitteln gelten neben der Landeshaushaltsordnung die einschlägigen europäischen Vorschriften für die Förderperiode 2023-2027, aus der die jeweils eingesetzten Fondsmittel stammen. Daraus ergeben sich Besonderheiten insbesondere hinsichtlich der Auszahlung, des Abrechnungsverfahrens, der Aufbewahrungspflichten und der Prüfrechte.
+
+7.5.3 Die Gewährung einer Zuwendung nach dieser Richtlinie beinhaltet Verwaltungs- und gegebenenfalls Vor-Ort- sowie Ex-post-Kontrollen, welche die Einhaltung der Zuwendungsvoraussetzungen sowie Bestimmungen im Zuwendungsbescheid überprüfen.
+
+7.6 Kürzungen und Verwaltungssanktionen
+
+7.6.1 Bei Verstößen gegen die Einhaltung von einschlägigen Vorschriften der EU, des Bundes oder des Landes sowie dieser Richtlinie sind Kürzungen der Zuwendung (aufgrund von nicht förderfähigen Ausgaben) oder Verwaltungssanktionen zu prüfen. Auf Grundlage von Artikel 59 der Verordnung (EU) 2021/2116 und in Umsetzung des GAP-Strategieplans der Bundesrepublik Deutschland werden Verwaltungssanktionen in Abhängigkeit von Ausmaß, Dauer, Häufigkeit und Schwere angewendet, wenn das Vorhaben nicht wie bewilligt umgesetzt wurde beziehungsweise Auflagen oder Verpflichtungen nicht eingehalten werden.
+
+7.6.2 Die Bewilligungsbehörde lehnt in der Regel die beantragte Förderung ganz ab beziehungsweise hebt die Bewilligung ganz auf, wenn die oder der
+
+Begünstigte vorsätzlich falsche Angaben macht beziehungsweise vorsätzlich falsche Belege vorlegt,
+
+Begünstigte Voraussetzungen für den Erhalt von Vorteilen künstlich, den Zielen dieser Förderrichtlinie und der Verordnung (EU) Nr. 2021/2115 zuwiderlaufend geschaffen hat,
+
+Begünstigte die Durchführung einer Kontrolle vor Ort verhindert hat.
+
+7.6.3 Bei öffentlichen Auftraggebenden orientiert sich die Sanktionierung bei Verstößen gegen die Vorschriften der öffentlichen Auftragsvergabe grundsätzlich an den „Leitlinien für die Festsetzung von Finanzkorrekturen, die bei Verstößen gegen die Vorschriften für die Vergabe öffentlicher Aufträge auf von der Union finanzierte Ausgaben anzuwenden sind“ der Kommission in der jeweils geltenden Fassung.
+
+7.6.4 Jede Kürzung aufgrund von nicht förderfähigen Ausgaben sowie jede Verwaltungssanktion wirkt sich direkt auf die im Bewilligungsbescheid festgesetzte Gesamtbewilligung aus, da jede Kürzung und jede Verwaltungssanktion zu einem Teilwiderruf führt und die bewilligte Fördersumme reduziert. Die Kürzungen und Verwaltungssanktionen führen somit zu einem verringerten zahlbaren Bewilligungsbetrag, da in Umsetzung des Artikels 57 der Verordnung (EU) Nr. 2021/2116 gestrichene Mittel nicht zu Vorhaben zurückgeleitet (also wieder ausgezahlt) werden dürfen, bei denen eine finanzielle Berichtigung vorgenommen wurde. Demzufolge stehen die im Rahmen eines Auszahlungsantrages gekürzten oder sanktionierten Beträge für weitere Auszahlungen nicht wieder zur Verfügung.
+
+7.6.5 Die Kürzungs- und Sanktionsregelungen beziehungsweise vollständige oder teilweise Rückzahlung der Zuwendung finden keine Anwendung, wenn der Verstoß beziehungsweise die Nichteinhaltung der Verpflichtung auf höhere Gewalt oder außergewöhnliche Umstände zurückzuführen ist. In Fällen höherer Gewalt oder außergewöhnlicher Umstände kann ganz oder teilweise auf die Rückzahlung der Beihilfe verzichtet werden.
+
+Als „höhere Gewalt“ und „außergewöhnliche Umstände“ können gemäß Artikel 3 der Verordnung (EU) 2021/2116 insbesondere folgende Einzelfälle beziehungsweise Umstände anerkannt werden:
+
+eine Naturkatastrophe oder ein schweres Wetterereignis, das das Unternehmen erheblich in Mitleidenschaft zieht beziehungsweise eine Nutzung der geförderten Investition erheblich oder vollkommen beeinträchtigt;
+
+eine unfallbedingte Zerstörung der geförderten Investition oder sonstigen für die Nutzung dieser Investition erforderlichen Einrichtungen;
+
+eine Tierseuche, der Ausbruch einer Pflanzenkrankheit oder das Auftreten eines Pflanzenschädlings, die beziehungsweise der den gesamten Tier- beziehungsweise Pflanzenbestand der oder des Begünstigten oder einen Teil davon betrifft;
+
+die Enteignung des gesamten Unternehmens oder eines wesentlichen Teils davon, soweit diese Enteignung am Tag der Einreichung des Antrages nicht vorherzusehen war;
+
+Pandemien oder andere ungewöhnliche, vom Willen der Beteiligten unabhängige Umstände;
+
+Tod der oder des Begünstigten;
+
+länger andauernde Berufsunfähigkeit, Arbeitsunfähigkeit oder Krankheit der oder des Begünstigten.
+
+Fälle „höherer Gewalt“ oder „außergewöhnlicher Umstände“ sind der Bewilligungsbehörde in Textform und mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt anzuzeigen, ab dem die oder der Zuwendungsempfangende (oder eine bevollmächtigte Person) hierzu in der Lage ist.
+
+7.7 Veröffentlichungspflicht
+
+Die Daten der Zuwendungsempfangenden werden elektronisch gespeichert und verarbeitet. Es wird darauf hingewiesen, dass Informationen über alle Begünstigten gemäß Artikel 98 der Verordnung (EU) 2021/2116 auf der speziellen - von Bund und Ländern gemeinsam betriebenen - Internetseite der Bundesanstalt für Landwirtschaft und Ernährung (BLE) unter der Internetadresse
+
+https://www.agrarzahlungen.de/
+
+veröffentlicht werden.
+
+Es wird darauf hingewiesen, dass jedes veröffentlichungspflichtige Vorhaben nach den Fördergegenständen D.1.2 auf einer ausführlichen Beihilfen-Website (https://webgate.ec.europa.eu/competition/transparency/public?lang=de) der Europäischen Kommission veröffentlicht wird, wenn folgende Schwellenwerte überschritten werden:
+
+10 000 Euro bei Beihilfeempfangenden, die in der landwirtschaftlichen Primärproduktion beziehungsweise in der Fischerei und der Aquakultur tätig sind, sowie
+
+100 000 Euro bei Beihilfeempfangenden,
+
+die in der Verarbeitung oder Vermarktung landwirtschaftlicher Erzeugnisse oder
+
+in der Forstwirtschaft tätig sind oder
+
+Tätigkeiten ausüben, die nicht unter Artikel 42 AEUV (one window approach) fallen beziehungsweise
+
+für Einzelbeihilfen, die unter die AGVO fallen.
 
 8 Geltungsdauer
 
-Diese Richtlinie tritt mit Wirkung vom 1. September 2022 in Kraft und setzt die Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz über die Gewährung von Zuwendungen für einzelbetriebliche Investitionen in landwirtschaftlichen Unternehmen im Land Brandenburg und Berlin vom 26. April 2021 (im Amtsblatt nicht veröffentlicht) außer Kraft.
+Diese Richtlinie tritt am 1. Juli 2023 in Kraft und gilt bis zum 30. Juni 2027. Mit Inkrafttreten dieser Richtlinie tritt die Richtlinie des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft über die Gewährung von Zuwendungen für die Förderung der ländlichen Entwicklung im Rahmen von LEADER vom 25. September 2018 (ABl. S. 1045), die zuletzt durch den Erlass vom 28. September 2021 (ABl. S. 811) geändert worden ist, außer Kraft.
 
-Die Laufzeit des Teils I und des Teils II dieser Förderrichtlinie ist bis zum 31. Dezember 2025 befristet.
+Anlage
 
-Die Laufzeit des Teils III ist bis zum Zeitpunkt des Auslaufens der Verordnung (EU) Nr. 1407/2014, mithin bis zum 31. Dezember 2023, befristet. Sollte die zeitliche Anwendung der Verordnung (EU) Nr. 1407/2014 ohne die Beihilferegelung betreffende relevante inhaltliche Veränderungen verlängert werden, verlängert sich die Laufzeit des Teils III entsprechend, aber nicht über den 31. Dezember 2025 hinaus. Sollte die Verordnung (EU) Nr. 1407/2014 nicht verlängert und durch eine neue De-minimis-Verordnung ersetzt werden oder sollten relevante inhaltliche Veränderungen der derzeitigen Verordnung (EU) Nr. 1407/2014 vorgenommen werden, wird eine entsprechend geänderte Förderrichtlinie mit einer Geltungsdauer bis zum 31. Dezember 2025 in Kraft gesetzt werden.
+Ergänzende Hinweise und Begriffsbestimmungen
 
-Anlagen
+Teil 1 - Beizufügende Anlagen
 
-| Anlage 1: 
+Mindestanforderungen für eine Antragstellung gemäß Nummer 7.1 der Richtlinie
 
-| Spezifische Investitionen zum Umwelt- und Klimaschutz inklusive der nichtproduktiven Investitionen
+Votum der LAG zur Einordnung des Vorhabens in die Regionale Entwicklungsstrategie gemäß Nummer 4.3 der Richtlinie (siehe https://mleuv.brandenburg.de/mleuv/de/service/foerderung/laendliche-entwicklung/foerderung-leader/)
 
+Nachweise bei Bauvorhaben:
 
-| Anlage 2: 
+Bau- und/oder Raumprogramm und Erläuterungsbericht mit Beschreibung des Bauvorhabens und Ausführungsart (einschließlich Fotos) und vollständige Entwurfszeichnungen,
 
-| Besondere Anforderungen im Bereich der Bewässerungsanlagen
+Nutzungskonzept,
 
+Auszug aus Flurkarte, Lageplan und Bauzeitplan,
 
-| Anlage 3: 
+Baugenehmigung bei Um- und Ausbau, Erweiterungs- oder Neubauvorhaben oder Umnutzungsgenehmigung, (wenn nicht zutreffend: Aussage, dass keine Genehmigung erforderlich ist).
 
-| Bauliche Anforderungen an eine besonders tier­gerechte Haltung
+Gesamtkosten:
 
+bei Einbindung Architektin/Architekt beziehungsweise Bauvorlageberechtigte/Bauvorlageberechtigter
 
-| Anlage 4: 
+Aufschlüsselung der baulichen Investitionen nach DIN 276 und Erläuterung (Aufgliederung bis zur 2. Ebene inklusive Menge und Einzelpreise) und/oder Wohn- und Nutzflächenberechnung nach DIN 283,
 
-| Tierartspezifische Anzahlen von Tierplätzen bei Stallneubauten
+ohne Einbindung Architektin/Architekt beziehungsweise Bauvorlageberechtigte/Bauvorlageberechtigter
 
+sonstiger Nachweis der kalkulierten Projektkosten inklusive Personalkosten,
 
-| Anlage 5: 
+zum Beispiel durch Vorlage von einem Angebot oder Preisvergleich (online) oder Erfahrungen aufgrund vergleichbarer Vorhaben
 
-| Aufgaben der Betreuung von baulichen Investitionen gemäß Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg über die Gewährung von Zuwendungen für einzelbetriebliche Investitionen in der jeweils geltenden Fassung
+Hinweis: Spätestens zur Auszahlung müssen der Bewilligungsbehörde zur Plausibilisierung der Kosten mindestens drei vergleichbare Angebote, Preisvergleiche, Erfahrungen aufgrund vergleichbarer Vorhaben oder das Ergebnis und die Dokumentation eines durchgeführten Vergabeverfahrens vorgelegt werden.
 
+Nachweis der Gesamtfinanzierung zur Bestätigung des Eigenanteils:
 
-| Anlage 6: 
+kommunale Antragstellende
 
-| Übernahme von Bürgschaften
+entsprechender Beschluss der kommunalen Vertretung (mit Bekenntnis zur finanziellen Umsetzung des geplanten Vorhabens).
 
+sonstige Antragstellende
 
-| Anlage 7: 
+Notwendige Eigenmittel sind durch dementsprechende Nachweise zu belegen (zum Beispiel Kontoauszüge, Darlehensverträge, Bestätigung der Hausbank et cetera).
 
-| Besondere Anforderungen in den Bereichen Verbraucherschutz, Umwelt- und Klimaschutz
+Bei Darlehen über 50 000 Euro liegt eine Kreditbereitschaftserklärung der Hausbank vor, die mindestens dem erforderlichen Darlehensbetrag entspricht.
 
+Eigentumsnachweis:
 
-| Anlage 8: 
+Grundbuchauszug, Erbbaurechtsvertrag beziehungsweise
 
-| Vertrag über Betreuungsleistungen für bauliche Maßnahmen im Rahmen der einzelbetrieblichen Förderung des Landes Brandenburg
+Nachweis des Verfügungsrechts (längerfristige Miet-/Pachtverträge)
 
+Bei Einsatz von Bevollmächtigten:
 
-Anlage 1
+Vollmacht, sofern die Beantragung durch den Vertretungsberechtigten oder die Vertretungsberechtigte erfolgt
 
-Spezifische Investitionen zum Umwelt- und Klimaschutz inklusive der nichtproduktiven Investitionen
+Bei Vorhaben nach Nummer E der Richtlinie
 
-Förderfähig sind folgende Investitionen in bauliche und sonstige Anlagen zur:
+Aktionsplan mit Auflistung der umzusetzenden Kleinprojekte
 
-1 Emissionsminderung in Stallbauten
+Weitere Anlagen in Abhängigkeit des beantragten Vorhabens (wenn für das Projekt zutreffend)
 
-1.1 Abluftreinigungsanlagen (nichtproduktive Investition)
+Erklärungen/Bestätigungen:
 
-1.2 Kot-Harn-Trennung
+bei Vorhaben nach den Nummern B.1.1 und B.1.2 der Richtlinie
 
-1.3 Verkleinerte Güllekanäle
+aktuelle Bestätigung des Finanzamtes zur Anerkennung der Gemeinnützigkeit
 
-1.4 Emissionsarme Stallböden
+bei Vorhaben nach Nummer D.1.3 der Richtlinie
 
-1.5 Fütterungssysteme für nährstoffreduzierte Phasenfütterung
+Erklärung, dass der/die Antragstellende der Definition „Klein- bzw. Kleinstunternehmen“ gemäß der Verordnung (EU) Nr. 651/2014 entspricht (Bestätigung durch ein externes Steuerbüro beziehungsweise durch ein externes Wirtschaftsprüfungsbüro)
 
-1.6 Güllekühlung
+bei Vorhaben nach Nummer D.1.2 der Richtlinie
 
-2 Emissionsminderung in Verbindung mit Stallbauten
+Erklärung „Unternehmen in Schwierigkeiten“ (Bestätigung durch ein externes Steuerbüro beziehungsweise ein externes Wirtschaftsprüfungsbüro)
 
-2.1 Lagerstätten für flüssige Wirtschaftsdünger
+Nachweis zur Nicht-Vorsteuerabzugsberechtigung bei Beantragung der Mehrwertsteuer als förderfähige Kosten entweder
 
-Die Investitionen müssen zu einer deutlichen Minderung von Emissionen bei der Lagerung von flüssigen Wirtschaftsdüngern außerhalb des Stallgebäudes beitragen. Für eine deutliche Minderung von Emissionen bei der Lagerung von flüssigen Wirtschaftsdüngern müssen die Lagerstätten über eine feste Abdeckung und zudem über eine Mindestlagerkapazität verfügen, die zwei Monate über die betriebsindividuellen ordnungsrechtlichen Vorgaben hinausgeht.
+durch eine Bestätigung des zuständigen Finanzamtes oder
 
-2.2 Festmistlagerstätten
+Erklärung eines externen Steuerbüros beziehungsweise eines externen Wirtschaftsprüfungsbüros (bei Gemeinden und Gemeindeverbänden ist auch eine Bestätigung des jeweiligen Rechnungsprüfungsamtes möglich)
 
-Die Investitionen müssen zu einer deutlichen Minderung von Emissionen bei der Lagerung von Festmist außerhalb des Stallgebäudes beitragen. Sie haben über eine Mindestlagerkapazität zu verfügen, die zwei Monate über die betriebsindividuellen ordnungsrechtlichen Vorgaben hinausgeht. Lagerstätten für Geflügelmist müssen, alle anderen Festmistarten können, zudem über eine feste Überdachung verfügen.
+Nachweise zu den Angaben zur Rechts- und Betriebsform bei Änderung der Stammdaten im digitalen Antragssystem:
 
-3 Emissionsminderung unabhängig von Stallbauten
-
-Nachrüstung von Abdeckungen für in Betrieb befindliche Lagerstätten für flüssige Wirtschaftsdünger.
-
-(nichtproduktive Investition)
-
-4 Ressourcenschonende Einrichtung zum Umweltschutz
-
-4.1 Geschlossene, rezirkulierende Bewässerungssysteme für Sonderkulturen im Freiland
-
-4.2 Reinigungsplätze für Pflanzenschutzgeräte mit integriertem System zur Vermeidung von Pflanzenschutzmittel­einträgen
-
-4.3 „Biobett“-System zur Vermeidung von Pflanzenschutzmitteleinträgen
-
-Anlage 2
-
-Besondere Anforderungen im Bereich der Bewässerungs­anlagen
-
-Die besonderen Anforderungen der Bewässerungsanlagen sind erfüllt, wenn im Falle der Erstanschaffung oder im Falle von Modernisierungsmaßnahmen in wassersparende Technik laut dieser Anlage investiert wird und eine Wassereinsparung von mindestens:
-
-15 Prozent bei Förderanträgen landwirtschaftlicher Unternehmen nach Richtlinienteil I oder
-
-25 Prozent bei Förderanträgen gartenbaulicher Unternehmen nach Richtlinienteil II
-
-erreicht wird.
-
-Die zuständige Landesbehörde prüft unter Beachtung von Artikel 14 Ziffer 6 der Verordnung (EU) Nr. 702/2014 und der Anforderungen der Wasserrahmenrichtlinie, ob für das Gebiet, in dem die Investition getätigt werden soll, eine weitere Genehmigung zur Wasserextraktion erteilt werden kann (dies beinhaltet den Bewirtschaftungsplan für das Flusseinzugsgebiet gemäß den Anforderungen der Wasserrahmenrichtlinie, Wasserzähler sowie auch eine entsprechende Umweltanalyse).
-
-Dies gilt nicht für eine Investition
-
-in bestehende Anlagen, die sich ausschließlich auf die Energieeffizienz auswirkt,
-
-zum Bau eines Speicherbeckens,
-
-zur Nutzung von aufbereitetem Wasser ohne Auswirkung auf Grund- oder Oberflächenwasser.
-
-Investitionen in neue Maschinen und Anlagen zum Zwecke der Bewässerung sind nur förderfähig, wenn folgende wassersparende Technik zum Einsatz kommt und damit gleichzeitig die vorgeschriebene prozentuale Wasserersparnis erreicht wird:
-
-| 
-
-
-Nach- und Umrüstung von Bewässerungsanlagen
-
-(Vergleichswert ist eine Beregnungsmaschine ohne Regelung mit Einzelregler)
-
-| 
-
-
-Mögliche Wassereinsparung (%)
-
-| 
-
-
-Nachrüstung einer Beregnungsmaschine
-
-mit Düsenwagen
-
-mit Beregnungscomputer
-
-mit Überwachungssystem mit GPS und Drucksensoren
-
-| 
-
-
-15
-
-20
-
-15
-
-| 
-
-
-Nachrüstung einer Bewässerungsanlage
-
-mit Bewässerungscomputer/Überwachungssystem
-
-mit Mess- und Steuergeräten
-
-| 
-
-
-20
-
-15
-
-| 
-
-
-Wasser- und energiesparende Bewässerungsanlagen
-
-(Vergleichswert ist eine Beregnungsmaschine mit Einzelregler beziehungsweise
-
-eine hohe Rohr- oder Düsenrohrbewässerung)
-
-| 
-
-
-Mögliche Wassereinsparung (%)
-
-| 
-
-
-Beregnungsmaschine mit Düsenwagen und Beregnungscomputer inklusive
-
-Überwachungssystem
-
-| 
-
-
-30
-
-| 
-
-
-(mobile) Tropfbewässerungsanlage inklusive Wasserzuführungsleitungen
-
-auf der Parzelle, Steuer- und Automatisierungseinrichtungen
-
-| 
-
-
-50
-
-| 
-
-
-Unterkronenbewässerung mit Sprinkler beziehungsweise Mikrosprinkler im Obstbau
-
-| 
-
-
-40
-
-| 
-
-
-Teilmobile Kreis- und Linearberegnungsmaschinen inklusive gewöhnlicher
-
-Kreisberegnungsanlagen
-
-| 
-
-
-30
-
-| 
-
-
-Geräte und Anlagen zur Verbesserung des Bewässerungsmanagements
-
-| 
-
-
-Mögliche Wassereinsparung (%)
-
-| 
-
-
-Software und Ausstattung für bedarfsgerechte Bewässerungssteuerung, zum Beispiel:
-
-Beregnungsplaner nach Wasserbilanz
-
-Niederschlags- und Klima-Messstationen
-
-| 
-
-
-15
-
-| 
-
-
-Mess- und Steuergeräte zur bedarfsgerechten Wasserversorgung, zum Beispiel:
-
-Tensiometer
-
-Feuchtefühler anderer Bauarten
-
-| 
-
-
-15
-
-| 
-
-
-Pumpen
-
-(Vergleichswert IE3 zu IE2)
-
-| 
-
-
-Mögliche Energieeinsparung (%)
-
-| 
-
-
-Förderfähig sind besonders energiesparende, strombetriebene Pumpen
-
-mit einem Elektromotor der EU-Effizienzklasse IE3 mit Drehzahlregelung
-
-| 
-
-
-8,5
-
-| 
-
-
-Folgende Maschinen und Anlagen zur Bewässerung sind nicht förderfähig:
-
-alle Arten von Beregnungskanonen.
-
-| 
-
-
-Anlage 3
-
-Bauliche Anforderungen an eine besonders tiergerechte Haltung
-
-Mit den zu fördernden Investitionen sind sowohl die nachfolgenden baulichen und technischen Voraussetzungen der Basisförderung (B) als auch die nachfolgenden Anforderungen der Premiumförderung (P) zu schaffen oder zu erfüllen:
-
-Allgemeine Anforderungen
-
-| 
-
-
-(B)
-
-| 
-
-
-Die Ställe müssen so beschaffen sein, dass deren tageslichtdurchlässige Flächen mindestens
-
-3 Prozent der Stallgrundfläche bei Schweinen und Geflügel sowie
-
-5 Prozent bei allen übrigen Tierarten
-
-betragen.
-
-Anforderungen an Laufställe für Milchkühe und Aufzuchtrinder
-
-| (B)
-
-| Förderfähig sind Laufställe. Die spaltenfreie Liegefläche muss so bemessen sein, dass alle Tiere gleichzeitig liegen können.
-
-| (B)
-
-| Im Falle von Liegeboxen ist für jedes Tier eine Liegebox bereitzustellen.
-
-| (B)
-
-| Liegeplätze müssen ausreichend mit geeigneter trockener Einstreu oder anderem Komfort schaffenden Material (Komfortmatten geprüfter und anerkannter Qualität) versehen werden. Bei Hochboxen können Komfortmatten eingesetzt werden.
-
-| (B)
-
-| Die nutzbare Stallfläche muss mindestens 5,5 m2 je Großvieheinheit (GV) betragen.
-
-| (B)
-
-| Bei Stallneubauten müssen die Lauf-/Fressgänge bei Milchkühen mindestens 3,5 m und Laufgänge 2,5 m breit sein, so dass sich die Tiere stressfrei begegnen können.
-
-| 
-
-
-(P)
-
-| 
-
-
-Laufställe müssen über einen Auslauf für mindestens ein Drittel der Milchkühe (4,5 m2 je GV) verfügen. Auf einen Auslauf kann verzichtet werden:
-
-bei regelmäßigem Sommerweidegang aller Kühe oder
-
-bei einer Stallmodernisierung, wenn ein Auslauf aufgrund der Stalllage nicht möglich ist und mindestens 7 m2 je GV Stallfläche zur Verfügung gestellt werden.
-
-| (P)
-
-| Für jedes Tier ist ein Grundfutterfressplatz bereitzustellen, dessen Breite dazu ausreicht, dass alle Tiere gleichzeitig fressen können. Wenn die Tiere ständig Zugang zum Futter haben, ist ein Tier-Fressplatz-Verhältnis von maximal 1,2 : 1 zulässig. Werden Melkverfahren angewendet, bei denen die Kühe über den Tag verteilt gemolken werden (zum Beispiel automatische Melksysteme), ist ein Tier-Fressplatz-Verhältnis von maximal 1,5 : 1 zulässig.
-
-
-Anforderungen an die Kälberhaltung
-
-| (B)
-
-| Der Stall muss so beschaffen sein, dass die Kälber ab der 5. Lebenswoche in Gruppen gehalten werden können.
-
-| (B)
-
-| Die Liegefläche muss so bemessen sein, dass alle Tiere einer Gruppe gleichzeitig liegen können.
-
-| (B)
-
-| Die Liegefläche muss ausreichend mit geeigneter Einstreu versehen werden (ausgenommen weiche oder elastisch verformbare Liegebereiche).
-
-| (P)
-
-| Die Anlage muss so beschaffen sein, dass den Tieren entweder während der Weideperiode täglich ein Auslauf mit freiem Zugang zu einer Tränkvorrichtung geboten werden kann oder die Tiere im Offenstall (einschließlich Kälberhütten) gehalten werden.
-
-
-Anforderungen an Haltungsformen in der Rindermast (außer Mutterkuhhaltung)
-
-| (B)
-
-| Die Liegefläche muss so bemessen sein, dass alle Tiere gleichzeitig liegen können.
-
-
-| (B)
-
-| Die Liegefläche muss ausreichend mit geeigneter trockener Einstreu oder anderem Komfort schaffenden Material (Komfortmatten geprüfter und anerkannter Qualität) versehen werden.
-
-
-| (B)
-
-| Perforierte Böden (mit einer Spaltenbreite von maximal 3,5 cm) dürfen höchstens 50 Prozent der nutzbaren Stallfläche ausmachen, es sei denn, die Liegefläche ist mit einer perforierten Gummimatte ausgelegt, die mindestens 50 Prozent der Stallfläche ausmacht.
-
-
 | 
 
 
-(P)
+Bei Vereinen, Stiftungen oder Verbänden
 
 | 
 
 
-Die verfügbare Fläche muss
+Bei Unternehmen
 
-bis 350 kg Lebendgewicht mindestens 3,5 m2 je Tier und
-
-über 350 kg Lebendgewicht mindestens 4,5 m2 je Tier
-
-betragen.
-
-| (P)
-
-| Für jedes Tier ist ein Grundfutterfressplatz bereitzustellen, dessen Breite ausreicht, dass alle Tiere gleichzeitig fressen können. Bei Vorratsfütterung ist ein Tier-Fressplatz-Verhältnis von 1,2 : 1 zulässig. Sofern den Tieren ein permanenter Zugang zum Futter ermöglicht wird, ist ein Tier-Fressplatz-Verhältnis von maximal 1,5 : 1 zulässig.
-
-
-Anforderungen an die Haltung von Mutterkühen
-
-| (B) 
-
-| Die Liegefläche muss so bemessen sein, dass alle Tiere gleichzeitig liegen können.
-
-
-| (B) 
-
-| Die Liegefläche muss ausreichend mit geeigneter Einstreu versehen werden.
-
-
-| (B) 
-
-| Die nutzbare Stallfläche muss mindestens 5,5 m2 je Großvieheinheit (GV) betragen.
-
-
 | 
 
 
-(P)
+Registerauszug,
 
 | 
-
-
-Der Stall muss über einen Auslauf für mindestens ein Drittel der Mutterkühe (4,5 m2 je GV) verfügen.
 
-Auf einen Auslauf kann verzichtet werden:
 
-bei regelmäßigem Sommerweidegang und
+Handelsregisterauszug,
 
-bei einer Stallmodernisierung, wenn ein Auslauf aufgrund der Stalllage nicht möglich ist und mindestens 7 m2 je GV Stallfläche zur Verfügung gestellt werden.
-
-Anforderungen an die Haltung von Absatzferkeln, Zuchtläufern und Mastschweinen
-
 | 
 
 
-(B)
+Statut,
 
 | 
-
-
-Der Liegebereich muss
-
-ausreichend mit geeigneter trockener Einstreu versehen werden oder
-
-mit Tiefstreu versehen werden oder
-
-mit einer Komfortliegefläche ausgestattet sein.
-
-| (B) 
-
-| Im Stall muss für alle Tiere jederzeit zugänglich organisches und faserreiches Beschäftigungsmaterial angeboten werden (Vorgaben nach TierSchNutztV). Zudem müssen in einer ausreichenden Anzahl Raufutterraufen vorhanden sein, mittels derer die Dauer der Futteraufnahme bei den Tieren ausgedehnt und eine Beschäftigung induziert werden kann. Das organische Beschäftigungsmaterial soll bewühlbar, kaubar und essbar sein und einen ernährungsphysiologischen Nutzen haben. Besonders geeignet hierfür sind Heu, Stroh, Silage und Pellets.
-
-
-| (P)
-
-| Für Absatzferkel, Zuchtläufer und Mastschweine muss eine uneingeschränkt nutzbare Bodenfläche zur Verfügung stehen, die mindestens 20 Prozent größer ist, als nach der TierSchNutztV vorgeschrieben.
 
 
-| (P)
+Gesellschaftervertrag/
 
-| Zusätzlich zu den nach der TierSchNutztV vorgeschriebenen Tränken ist im Stall allen Tieren mittels geeigneter Schalen- oder Beckentränken permanent das Saufen aus einer offenen Fläche zu ermöglichen. Zulässig ist ein Tier-Tränke-Verhältnis von einer offenen Tränke bis zu jeweils zwölf Tieren.
+GbR-Vertrag,
 
-
-Anforderungen an die Haltung von Jung- und Zuchtsauen und Zuchtebern
-
-| (B) 
-
-| Im Falle der Trogfütterung ist je Sau beziehungsweise je Jungsau ein Fressplatz bereitzustellen, dessen Breite es zulässt, dass alle Tiere gleichzeitig fressen können.
-
-
 | 
 
 
-(B)
+Satzung.
 
 | 
-
-
-Der Liegebereich muss für Eber, Zucht- und Jungsauen in der Gruppenhaltung
-
-planbefestigt sein und ausreichend mit geeigneter trockener Einstreu versehen werden oder
-
-mit Tiefstreu versehen werden oder
-
-mit einer Komfortliegefläche ausgestattet sein.
-
-| (B)
-
-| Für Zucht- und Jungsauen im Abferkelbereich muss mindestens ein Teil des Liegebereichs als Komfortliege­fläche (zum Beispiel Gummimatten im Schulterbereich) ausgestattet sein.
-
-
-| (B)
-
-| Im Stall muss für alle Tiere jederzeit zugänglich organisches und faserreiches Beschäftigungsmaterial angeboten werden (Vorgaben nach TierSchNutztV). Zudem müssen in einer ausreichenden Anzahl Raufutterraufen vorhanden sein, mittels derer die Dauer der Futteraufnahme bei den Tieren ausgedehnt und eine Beschäftigung induziert werden kann. Das organische Beschäftigungsmaterial soll bewühlbar, kaubar und essbar sein und einen ernährungsphysiologischen Nutzen haben. Besonders geeignet hierfür sind Heu, Stroh, Silage und Pellets.
-
-
-| (B)
-
-| Für Zucht- und Jungsauen muss bei Einzelhaltung im Abferkelbereich mindestens ein Beschäftigungselement zur Verfügung gestellt werden. Geeignet hierfür ist eine besondere Fütterungstechnik, die die Dauer der Futteraufnahme beim Tier ausdehnt und eine Beschäftigung induziert, Raufutter oder vergleichbare organische Elemente.
-
-
-| (B)
-
-| Für Zucht- und Jungsauen muss bei Einzelhaltung ab Einstallen in den Abferkelbereich bis zum Abferkeln Nestbaumaterial zur Verfügung gestellt werden. Geeignet hierfür sind langfaserige, organische Materialien, die am Boden verändert und mit dem Maul erfasst und getragen werden können. § 30 Absatz 7 Satz 2, 2. Halbsatz TierSchNutztV findet keine Anwendung.
-
-
-| (B)
-
-| Im Falle von Stallneubauten ist das Güllesystem derart auszugestalten, dass es durch langfaserige, organische Materialien insgesamt nicht beeinträchtigt werden kann.
-
-
-| (P)
-
-| Die Haltungseinrichtung für Eber muss eine Fläche aufweisen, die mindestens 20 Prozent größer ist, als nach der TierSchNutztV vorgeschrieben.
-
-
-| (P)
-
-| Für Jungsauen und Sauen muss im Zeitraum nach dem Decken bis eine Woche vor dem voraussichtlichen Abferkeltermin eine uneingeschränkt nutzbare Bodenfläche zur Verfügung stehen, die mindestens 20 Prozent größer ist, als nach der TierSchNutztV vorgeschrieben.
-
-
-| (P)
-
-| Zusätzlich zu den nach der TierSchNutztV vorgeschriebenen Tränken ist im Stall allen Tieren mittels geeigneter Schalen- oder Beckentränken permanent das Saufen aus einer offenen Fläche zu ermöglichen. Zulässig ist ein Tier-Tränke-Verhältnis von einer offenen Tränke bis zu jeweils zwölf Tieren.
-
-
-Anforderungen an die Haltung von Ziegen
-
-| (B) 
-
-| Für jedes Tier ist ein Fressplatz bereitzustellen, dessen Breite dazu ausreicht, dass alle Tiere gleichzeitig fressen können.
-
-
-| (B) 
-
-| Der Stallraum muss mit einem planbefestigten Boden sowie einer Ablamm- beziehungsweise Absonderungsbucht ausgestattet sein.
-
-
-| (B) 
-
-| Neben der nutzbaren Stallfläche sind zusätzlich pro Ziege mindestens 0,5 m2 nutzbare Liegeflächen zu schaffen, die gegenüber der übrigen Stallfläche erhöht sind.
-
-
-| (B) 
-
-| Liegeplätze müssen ausreichend mit geeigneter trockener Einstreu versehen werden.
-
-
-| (B) 
-
-| Es müssen Aufzuchtbuchten für Zicklein vorhanden sein, die so bemessen sind, dass alle Zicklein gleichzeitig liegen können.
-
-
-| (B)
-
-| In Stall und Auslauf müssen ausreichend Bürsten und Reibungsflächen zur Verfügung stehen.
-
-
-| (P) 
-
-| Die nutzbare Stallfläche muss mindestens 1,5 m2 je Ziege und 0,35 m2 je Zicklein betragen.
-
-
-| (P) 
-
-| Die Anlage muss so beschaffen sein, dass den Tieren ganzjährig ein Auslauf zur Verfügung steht. Im Stall oder Auslaufbereich sind geeignete Klettermöglichkeiten zu schaffen.
-
-
-Anforderungen an die Haltung von Schafen
 
-| (B) 
 
-| Der Stallraum muss mit einem planbefestigten Boden sowie einer Ablamm- beziehungsweise Absonderungsbucht ausgestattet sein.
+Gewerbeanmeldung.
 
+Weitere Stellungnahmen, Darlegungen, Nachweise
 
-| (B) 
+Bei Vorhaben nach den Nummern D und E der Richtlinie:
 
-| Liegeplätze müssen ausreichend mit geeigneter trockener Einstreu versehen werden.
+Darlegung zur Notwendigkeit eines Neubaus,
 
+denkmalrechtliche Erlaubnis und/oder wasserrechtliche Erlaubnis/Genehmigung und/oder naturschutzrechtliche Genehmigung,
 
-| (B) 
+Stellungnahme der oder des Behindertenbeauftragten des Landkreises bei baugenehmigungsfreien Investitionen, die öffentlich zugängliche Gebäude und bauliche Anlagen betreffen und keine Aspekte des barrierefreien Bauens berücksichtigen. Entbehrlich, bei baulichen Maßnahmen, die nicht im unmittelbaren Zusammenhang mit dem Zugang zur als auch innerhalb der baulichen Anlage (zum Beispiel Dach) stehen.
 
-| Ein Klauenband einschließlich Zutriebeinrichtung muss vorhanden sein.
+Bei Vorhaben nach den Nummern D.1.2 und D.1.3 der Richtlinie
 
+Rentabilitätsvorschau und, wenn vorhanden, die letzten drei vorhandenen Betriebsbilanzen
 
-| (P) 
+Weitere Unterlagen können in Abhängigkeit des beantragten Vorhabens von der Bewilligungsbehörde abgefordert werden.
 
-| Die nutzbare Stallfläche muss mindestens 1,5 m2 je Schaf und 0,35 m2 je Lamm betragen.
+Teil 2 - Hinweise und Begriffsbestimmungen
 
+Beihilferechtliche Bestimmungen
 
-| (P)
+Auf die Ausführungen im Teil 3 wird verwiesen.
 
-| Die Anlage muss so beschaffen sein, dass den Tieren ein Auslauf zur Verfügung steht, der so bemessen und gestaltet ist, dass er für die Sammlung und den Aufenthalt der Herde ausreicht.
+Dorfgemäße Gemeinschaftseinrichtungen
 
+Einrichtungen für soziale und kulturelle Zwecke wie Begegnungsstätten für die ländliche Bevölkerung.
 
-Anforderungen an die Freilandhaltung von Legehennen
+Einheitskosten
 
-| (B)
+Siehe Informationen unter https://mleuv.brandenburg.de/mleuv/de/service/foerderung/laendliche-entwicklung/foerderung-leader/.
 
-| Im Außenbereich müssen für alle Tiere ausreichende Schutzeinrichtungen natürlicher oder baulicher Art (zum Beispiel Unterstände, Bäume, Sträucher) zur Verfügung stehen, die ausreichend breit und so verteilt und zusammenhängend angelegt sind, dass sie von den Hühnern von jeder Stelle des Außenbereichs schnell erreicht werden können.
+Die Einheitskosten umfassen jeweils die Bauwerkskosten inklusive Baunebenkosten nach DIN 276 mit den Kostengruppen (KG) 300, 400 und 700 und anteilige förderfähige Kosten der KG 200 sowie Kosten für Außenanlagen der KG 500, 700 und anteilige förderfähige Kosten der KG 200.
 
+Einrichtungen der medizinischen Versorgung, die über die lokalen Bedürfnisse der ländlichen Bevölkerung hinausgehen
 
-| (P)
+Krankenhäuser der Grundversorgung, der Regelversorgung, der qualifizierten Regelversorgung und der Schwerpunktversorgung sowie Fachkrankenhäuser gemäß dem Vierten Krankenhausplan des Landes Brandenburg.
 
-| Soweit die Einrichtung eines Kaltscharrraumes aus baulichen oder rechtlichen Gründen nicht möglich ist, muss der Stall über einen Dachüberstand von mindestens 2 m Breite/Tiefe über die gesamte mit Ausschlupflöchern versehene Stallseite verfügen. Die gesamte Fläche unter dem Dachüberstand muss befestigt sein. Für Mobilställe sind kein Dachüberstand und keine Befestigung erforderlich.
+Ersatzbeschaffungen
 
+Bau- und funktionsgleiche Geräte (ohne Kapazitäts-/Effizienzerweiterung)
 
-| (P)
+Gemeinkosten
 
-| Für ökologische Stallneubauten gilt zusätzlich, dass je Gebäude die maximale Anzahl von 3 000 Legehennen nicht überschritten werden darf. Der Mindestabstand zwischen den einzelnen Gebäuden muss mindestens 20 Meter betragen. Die Auslaufentfernung darf maximal 150 Meter ab der nächstgelegenen Auslauföffnung betragen.
+Geschäftsbedarf, Kommunikation, Verbrauchsmaterialien, sonstige Betriebskosten des Arbeitsplatzes, Personalkosten der allgemeinen Verwaltung und Geschäftsführung, welche nicht durch externe Rechnungen oder gleichwertige Unterlagen belegt werden können, werden im Rahmen der Gemeinkostenpauschale in Höhe von 15 Prozent der förderfähigen Personalausgaben gefördert. Eine über die Pauschale hinausgehende Förderung kann für diese indirekten Ausgaben nicht erfolgen.
 
+Dazu zählen Ausgaben für
 
-Anforderungen an die Bodenhaltung von Jung- und Legehennen
+den Betrieb von Räumlichkeiten des allgemeinen Geschäftsbetriebs,
 
-| (B)
+standardmäßigen Bürobedarf, Unterhalt für Büroausstattung des allgemeinen Geschäftsbetriebs (Vorhabenspezifische IT-Systeme beziehungsweise spezielle Softwarelizenzen sind hiervon ausgenommen.),
 
-| Der Stall muss mit einem befestigten Kaltscharrraum verbunden sein, der den Tieren ab der 10. Lebenswoche zur Verfügung steht.
+allgemeine Leistungen des allgemeinen Geschäftsbetriebs wie auch Verwaltungs- und Managementausgaben des allgemeinen Geschäftsbetriebs inklusive der Aufwendungen für genutzte Dienst-Personenkraftwagen,
 
+Beiträge, Versicherungen, Steuern, Gebühren und Abgaben, Pflichtprüfungskosten des allgemeinen Geschäftsbetriebs,
 
-| (B)
+Aus- und Fortbildungskosten des allgemeinen Geschäftsbetriebs (Vorhabenspezifische Weiterbildungen sind hiervon ausgenommen.),
 
-| Im Stall müssen den Tieren ab der 3. Lebenswoche erhöhte Sitzstangen angeboten werden. Die Sitzstangenlänge muss für Junghennen ab der 10. Lebenswoche mindestens 12 cm je Tier aufweisen. Die Sitzstangen müssen für Jung- und Legehennen so installiert sein, dass auf ihnen ein ungestörtes, gleichzeitiges Ruhen aller Tiere möglich ist.
+Abschreibungen für Abnutzung, Leasing von Sachgütern für die allgemeine Verwaltung und für allgemeines Management.
 
+Gemeinnützigkeit
 
-| (B)
+Unter dem Begriff „Gemeinnützigkeit“ werden alle steuerbegünstigten Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung (AO) gefasst.
 
-| Im Stall müssen den Tieren ab der 3. Lebenswoche erhöhte Sitzstangen angeboten werden. Die Sitzstangenlänge muss für Junghennen ab der 10. Lebenswoche mindestens 12 cm je Tier aufweisen. Die Sitzstangen müssen für Jung- und Legehennen so installiert sein, dass auf ihnen ein ungestörtes, gleichzeitiges Ruhen aller Tiere möglich ist.
+Zum Nachweis der Berechtigung ist eine Bescheinigung des Finanzamtes vorzulegen, die die Einhaltung der satzungsgemäßen Voraussetzungen nach den §§ 51, 59, 60 und 61 AO bescheinigt (Einräumung einer Steuervergünstigung, wenn unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke, also steuerbegünstigte Zwecke, verfolgt werden). Kirchengemeinden und sonstige kirchliche Einrichtungen als Körperschaften des öffentlichen Rechts gemäß Artikel 140 GG in Verbindung mit Artikel 137 Absatz 5 der Weimarer Verfassung sind in der Regel von Steuerzahlungen befreit und bedürfen für Vorhaben, die der Allgemeinheit dienen, keiner entsprechenden Anerkennung durch das Finanzamt.
 
+Grundversorgung
 
-| (B)
+Grundversorgung ist die Deckung der Bedürfnisse der Bevölkerung mit Gütern oder Dienstleistungen des täglichen bis wöchentlichen sowie des unregelmäßigen, aber unter Umständen dringlich vor Ort zu erbringenden oder lebensnotwendigen Bedarfs. Bei Gütern oder Dienstleistungen, die ihrer Art nach überwiegend regional, das heißt innerhalb eines Radius von 50 Kilometern von der Gemeinde, in der die Betriebsstätte liegt, angeboten oder erbracht werden, wird unterstellt, dass diese regelmäßig der Grundversorgung dienen. Ansonsten ist der Beitrag zur Grundversorgung im Einzelfall zu begründen.
 
-| Neben Vorrichtungen zur Regulierung des Lichteinfalls für tageslichtdurchlässige Flächen muss bei künstlicher Beleuchtung eine an die unterschiedlichen Funktionsbereiche der Haltungseinrichtung angepasste Abstufung der Lichtintensität möglich sein. Die Beleuchtung muss für die Tiere flackerfrei sein.
+Eigenständig betriebene Heizkessel
 
+Bei einem eigenständig betriebenen Heizkessel handelt es sich um die kombinierte Einheit aus Gehäuse und Brenner zur Abgabe der Verbrennungswärme an Flüssigkeiten. Unter dem Begriff fossile Brennstoffe wird verstanden, dass es sich um nicht erneuerbare kohlenstoffhaltige Energiequellen, wie feste Brennstoffe, Erdgas und Erdöl handelt.
 
-| (B)
+Weitere Informationen sind der Bekanntmachung der Kommission über das Auslaufen finanzieller Anreize für eigenständige mit fossilen Brennstoffen betriebene Heizkessel im Rahmen der Neufassung der Richtlinie über die Gesamtenergieeffizienz von Gebäuden (https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:52024XC06206) zu entnehmen.
 
-| Der Einstreubereich (inklusive Kaltscharrraum) ist so zu strukturieren und auszustatten, dass den Tieren zusätzlich zur Einstreu verschiedenartig manipulierbares und auswechselbares Beschäftigungsmaterial (zum Beispiel Heuraufen, Pickblöcke, Stroh- oder Luzerneballen) zur Verfügung steht.
+Infrastruktur außerhalb der Siedlungsgebiete
 
+Auf die Ausführungen im Teil 3 Buchstabe a wird verwiesen.
 
-| (P)
+Innerörtliche kommunale Infrastruktur
 
-| Der Kaltscharrraum muss mindestens einem Drittel der nutzbaren Stallgrundfläche entsprechen und mit geeigneter manipulierbarer Einstreu sowie ausreichend bemessenen und gleichmäßig verteilten Staub- oder Sandbädern ausgestattet sein.
+Auf die Ausführungen im Teil 3 Buchstabe a wird verwiesen.
 
+Kooperationsprojekt
 
-| (P)
+Die Zusammenarbeit zwischen den ländlichen Gebieten soll sich nicht auf die Vermittlung von Erfahrungen beschränken, sondern in der Durchführung gemeinsamer Projekte münden.
 
-| Die Grundfläche des Kaltscharrraums darf nicht in die Berechnung der maximalen Besatzdichte einbezogen werden.
+Erhalt des Kulturerbes und ortsbildprägender Gebäude
 
+Zeitgemäßer Umgang mit der regionalen Baukultur durch Erhaltung oder Wiederherstellung von historischen, baulichen Elementen und/oder Neugestaltung in Anlehnung an die historische Material- und Formensprache.
 
-| (P)
+Mehrfunktionshäuser
 
-| In der Volierenhaltung muss für Junghennen der Zugang zu den einzelnen Ebenen regulierbar sein.
+Einrichtungen mit mehreren Zweckbestimmungen zur Grundversorgung der ländlichen Bevölkerung sowie für soziale und kulturelle Zwecke.
 
+Nutzungskonzept und finanzielle Tragbarkeit (Folgekosten)
 
-Anforderungen an die Haltung von Mastputen
+Es muss ein Konzept zur nachhaltigen finanziellen Tragbarkeit des Projekts vorliegen, aus dem hervorgeht, wie Nutzung, Unterhalt und Betrieb während der Zweckbindung sichergestellt werden.
 
-| (B) 
+Neben dem Nutzungskonzept kann es sich dabei beispielsweise um ein Betriebskonzept, eine Vereinbarung mit Gemeinde(n) oder mit Vereinen zu Betrieb/Unterhalt oder Patenschaften zum Unterhalt et cetera handeln. Dafür sollten auch geeignete Zielindikatoren Anwendung finden wie zum Beispiel Angaben zu geplanten Öffnungszeiten, erwarteten Besucherzahlen, geplante Veranstaltungen/Ausstellungen, gegebenenfalls Gewinne/Erlöse. Bei immateriellen Vorhaben ohne Zweckbindungsfrist genügt der Finanzierungsplan im Förderantrag.
 
-| Der Stall muss gemäß den bundeseinheitlichen Eckwerten für eine freiwillige Vereinbarung zur Haltung von Mastputen vom März 2013 (online verfügbar auf der Internetseite des Verbandes Deutscher Putenerzeuger e. V.) ausgestattet sein.
+Personalausgaben
 
+Als Personalkosten können Ausgaben für projektbezogene Lohn- und Lohnnebenkosten anerkannt werden (zum Nachweis und zur Prüfung zur Angemessenheit sind Tätigkeitsbeschreibungen, Ausbildungs- und/oder Qualifizierungsnachweise et cetera einzureichen).
 
-| (B) 
+Hinweise zur Einhaltung des Besserstellungsverbots
 
-| Stall und Kaltscharrraum beziehungsweise Wintergarten sind mit Vorrichtungen für Rückzugsmöglichkeiten und Beschäftigung (erhöhte Ebenen, Sichtbarrieren, Stroh­raufen) auszustatten.
+(gilt für Antragstellende, deren Gesamtausgaben überwiegend aus Zuwendungen der öffentlichen Hand bestritten werden):
 
+Gemäß Nummer 1.3 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-EU) darf die oder der Zuwendungsempfangende sich und seine Beschäftigten nicht besserstellen als Landesbedienstete mit entsprechenden Tätigkeiten. Höhere Vergütungen als nach dem TV-L sowie sonstige über- oder außertarifliche Leistungen dürfen nicht gewährt werden.
 
-| (B) 
+Planungen
 
-| Für Mobilställe ist kein Kaltscharrraum erforderlich, die Bodenfläche muss aber je nach Zustand (Trockenheit) ausreichend mit geeigneter Einstreu versehen werden.
+Planungen und Konzepte, die Voraussetzungen für eine Gewährung von Zuwendungen aus anderen Förderprogrammen sind, werden im Sinne der Nummer B.1.3.2 im Rahmen von LEADER nicht gefördert. Hierzu zählen beispielsweise Integrierte Stadtentwicklungskonzepte (INSEK), Naturschutz-Fachplanungen oder Nutzungskonzeptionen für Besucherinformationszentren.
 
+Plausibilisierung der Kosten als Nachweis eines wirtschaftlichen und sparsamen Einsatzes von Haushaltsmitteln
 
-| (P)
+Die Darstellung der beantragten grundsätzlich zuwendungsfähigen Ausgaben muss vollständig sowie plausibel sein und ausreichende Informationen zu Art, Umfang sowie (Einzel-)Preis enthalten.
 
-| Der Stall muss so bemessen sein, dass die Besatzdichte während der Endmastphase bei Putenhennen maximal 35 kg und bei Putenhähnen maximal 40 kg Lebend­gewicht je m2 nutzbarer Stallfläche nicht überschreitet.
+Ausgaben, die nicht nachvollziehbar und plausibel sind (zum Beispiel „Sicherheitszuschläge“, „Aufrundungsbeträge“, „Unvorhergesehenes“) können nicht anerkannt werden.
 
+Die voraussichtlich tatsächlichen entstehenden Kosten/Ausgaben sind durch kostenbegründende Unterlagen zu plausibilisieren wie
 
-| (P)
+Angebote,
 
-| Der Kaltscharrraum beziehungsweise Wintergarten muss mindestens 800 cm2 je Putenhahn und 500 cm2 je Putenhenne umfassen und mit geeigneten, ausreichend bemessenen und gleichmäßig verteilten Staubbädern ausgestattet sein.
+Kostenvoranschläge,
 
+Internetausdrucke,
 
-| (P)
+detaillierte Kostenberechnung nach DIN 276 von Architekten/Architektinnen, Bauplanern/
 
-| Der Stall muss mit einem befestigten Kaltscharrraum beziehungsweise Wintergarten verbunden sein.
+-planerinnen,
 
+sonstige detaillierte Kostenberechnung beziehungsweise Stellungnahme einer unabhängigen Stelle oder Gutachten,
 
-Anforderungen an die Haltung von Masthühnern
+Erfahrungswerte (mit Nachweisen).
 
-| (B)
+Profisport
 
-| Die nutzbare Bodenfläche muss planbefestigt und ausreichend mit geeigneter trockener Einstreu versehen werden.
+Ausübung von Sport als entgeltliche Arbeits- oder Dienstleistung (ungeachtet dessen, ob zwischen dem Profisportler oder der Profisportlerin und dem betreffenden Sportverband ein formeller Arbeitsvertrag geschlossen wurde), bei der der Ausgleich höher ist als die Teilnahmekosten und einen erheblichen Teil des Einkommens des Sportlers oder der Sportlerin ausmacht. Reise- und Übernachtungskosten für die Teilnahme an Sportveranstaltungen werden für die Zwecke dieser Verordnung nicht als Ausgleich betrachtet (Artikel 2 Nummer 143 AGVO, https://eur-lex.europa.eu/DE/legal-content/summary/general-block-exemption-regulation.html).
 
+Regionalbudget
 
-| (B)
+Antragsberechtigt gegenüber der Bewilligungsbehörde ist die lokale Aktionsgruppe (LAG). Sie ist für die Umsetzung der einzelnen Kleinprojekte des Aktionsplans verantwortlich. Die LAG kann keine Zuwendungen an Dritte5 weiterleiten.
 
-| Für Mobilställe muss die Bodenfläche nicht planbefestigt sein, aber je nach Zustand (Trockenheit) ausreichend mit geeigneter Einstreu versehen werden.
+Der Aktionsplan, welcher der Bewilligungsbehörde mit dem Förderantrag vorgelegt werden muss, enthält:
 
+eine Übersicht über die geplanten Kleinprojekte inklusive Kurzbeschreibungen und Benennung des Kleinprojektträgers beziehungsweise der Kleinprojektträgerin,
 
-| (P)
+Gesamtkosten und Zuschüsse je Kleinprojekt.
 
-| Der Stall muss so bemessen sein, dass die Besatzdichte während der Endmastphase maximal 25 kg Lebendgewicht je m2 nutzbarer Stallfläche nicht überschreitet.
+Änderungen des Aktionsplans, zum Beispiel bei Rücknahme von Kleinprojekten oder bei Veränderungen der Gesamtkosten der Kleinprojekte, sind der Bewilligungsbehörde durch die LAG mitzuteilen. Mehrkosten, die über den Maximalbetrag von 20 000 Euro hinausgehen, sind vom Kleinprojektträger oder von der Kleinprojektträgerin zu tragen.
 
+Zur Auswahl von Kleinprojekten im Rahmen des Aktionsplans gilt nachfolgendes Verfahren:
 
-Anforderungen an die Haltung von Enten oder Gänsen
+Der thematische Aufruf sowie die Auswahlkriterien für die Förderung der Kleinprojekte sind auf der Website der LAG zu veröffentlichen.
 
-| (B)
+Die Auswahl der Kleinprojekte erfolgt durch das Entscheidungsgremium der LAG gemäß den Festlegungen in der regionalen Entwicklungsstrategie (RES).
 
-| Der Stall muss so beschaffen sein, dass den Tieren ein Auslauf und jederzeit zugängliche, ausreichend bemessene Bademöglichkeiten zur Verfügung stehen.
+Dabei ist zu gewährleisten, dass weder der Bereich Behörde im Sinne des § 1 Absatz 2 des Verwaltungsverfahrensgesetzes für das Land Brandenburg (VwVfGBbg) noch eine einzelne Interessensgruppe mehr als 49 Prozent der Stimmrechte hat.
 
+Für die Kleinprojekte eines Aktionsplans ist das Formular „Votum der LAG für Kleinprojekte im Rahmen des Regionalbudgets“ einzureichen.
 
-| (B)
+Träger/Trägerin von Kleinprojekten können natürliche sowie juristische Personen des öffentlichen und privaten Rechts sein. Voraussetzung ist eine Mitgliedschaft in der LAG oder eine privatrechtliche Vereinbarung zwischen der LAG und dem Träger beziehungsweise der Trägerin des Kleinprojektes.
 
-| Die Bademöglichkeiten müssen so gestaltet sein, dass die Enten oder Gänse den ganzen Kopf ins Wasser stecken können. Es müssen Einrichtungen vorhanden sein, die die Bereitstellung von klarem Wasser für das Baden gewährleisten.
+Für Leistungen von Kleinprojektträgern beziehungsweise Kleinprojektträgerinnen, die von Dritten erbracht werden, inklusive Materialbeschaffungen gelten die jeweiligen Vergabebestimmungen (https://eler.brandenburg.de/eler/de/ueberblick/beratung-und-adressen/) entsprechend dem Status des Kleinprojektträgers oder der Kleinprojektträgerin. Eine Unterstützung durch die LAG ist möglich. Zahlungsanträge der LAG unterliegen dem Erstattungsprinzip.
 
+Regionalmanagement
 
-| (P)
+Die Personalstärke und Qualifikation des Regionalmanagements muss der Komplexität der Strategie, der Einwohnenden-Zahl und der Größe der LEADER-Region sowie der Höhe des Budgets und dem Umfang der daraus resultierenden Aufgaben angemessen sein. Zur sachgerechten Wahrnehmung der Aufgaben des Regionalmanagements sind mindestens 2,0 Vollbeschäftigteneinheiten (VbE) mit dementsprechender Qualifikation (unter anderem abgeschlossenes [Fach-]Hochschulstudium, Studium im Bereich der Regionalentwicklung, Geografie oder verwandten Fachgebieten oder Referenzen et cetera) nachzuweisen.
 
-| Der Stall muss so bemessen sein, dass die Besatzdichte während der Endmastphase bei Mastenten maximal 25 kg und bei Mastgänsen maximal 30 kg Lebendgewicht je m2 nutzbarer Stallfläche nicht überschreiten.
+Regionale Partnerschaften haben als Öffentliche Auftraggeber im Sinne der §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen (GWB) gemäß Nummer 3.1 ANBest-EU die Regelungen der Verwaltungsvorschriften zur Landeshaushaltsordnung (VV-LHO) zu § 55 LHO in der jeweils geltenden Fassung verpflichtend anzuwenden und im Einzelnen zu beachten. Auf den Leitfaden Vergabe für private und öffentliche Auftraggeber im Rahmen von ELER-Förderprojekten wird verwiesen.
 
+Gemäß Nummer 1.3 der derzeit geltenden ANBest-EU darf die regionale Partnerschaft als Zuwendungsempfängerin ihre Beschäftigten nicht besserstellen als Landesbedienstete mit entsprechenden Tätigkeiten. Bemessungsgrundlage ist der Tarifvertrag für den öffentlichen Dienst der Länder (TV-L). Als Obergrenze für die Förderung von Personalkosten gilt die vom Ministerium der Finanzen festgelegte Höhe der Personaldurchschnittskosten für Tarifbeschäftigte in der jeweils geltenden Fassung.
 
-| (P)
+Sachkosten
 
-| Der Außenbereich muss so bemessen sein, dass ein Weide­auslauf von mindestens 2 m2 je Mastente beziehungsweise 4 m2 je Mastgans zur Verfügung steht.
+Projektbezogene Sachgüter und Dienstleistungen,
 
+welche durch externe Rechnungen belegt werden können, unter anderem:
 
-Anforderungen an die Haltung von Pferden
+Reisekosten (zum Beispiel Fahrkarten, Hotel),
 
-| (B)
+Kosten für Öffentlichkeitsarbeit (Broschüren, Faltblätter, Informationsveranstaltungen, Standgebühren, Standaufbau et cetera),
 
-| Förderfähig sind Anlagen/Systeme zur Haltung in Gruppen mit Auslauf.
+vorhabenspezifische IT-Systeme und spezielle Softwarelizenzen,
 
+Kosten für externe Experten/Expertinnen beziehungsweise Dozenten/Dozentinnen und Dienstleistungen sowie
 
-| (B)
+Bewirtungskosten,
 
-| Für jedes Pferd ist ein Fressplatz bereitzustellen, dessen Breite dazu ausreicht, dass alle Tiere gleichzeitig fressen können.
+welche durch gleichwertige Unterlagen belegt werden können, wie
 
+Aufwendungen für genutzte Privat-Personenkraftwagen für vorhabenbezogene Dienstreisen. Für die Abrechnung von Fahrtkosten sind die Bestimmungen des Bundesreisekostengesetzes (BRKG) in der jeweils geltenden Fassung mit folgenden Einschränkungen anzuwenden:
 
-| (B)
+Fahrtkosten für die Benutzung öffentlicher Verkehrsmittel werden nur bis zur Höhe der 2. Wagenklasse erstattet.
 
-| Der Stallraum muss mit einem planbefestigten Boden ausgestattet sein, der ausreichend mit geeigneter trockener Einstreu versehen wird.
+Bei Benutzung eines Kraftfahrzeuges wird grundsätzlich eine pauschale Entschädigung („kleine Wegstreckenentschädigung“) nach den Bestimmungen des BRKG gezahlt (zurzeit 0,20 Euro je Kilometer, höchstens jedoch 130,00 Euro für die Hin- und Rückfahrt).
 
+Aufwendungen für Preisgelder/Prämien bei Wettbewerben im Rahmen der Öffentlichkeitsarbeit des Regionalmanagements.
 
-| (B)
+Soziale Einrichtungen
 
-| Ein besonderes Abteil für kranke, verletzte, unverträglich oder neu eingestallte Tiere muss bei Bedarf eingerichtet werden können. Dieses muss mindestens Sicht-, Hör- und Riechkontakt zu einem anderen Pferd gewährleisten.
+Soziale Einrichtungen sind öffentliche Einrichtungen, welche für jeden zugänglich sind und Aufgaben des Sozialsystems erfüllen wie zum Beispiel Kindereinrichtungen, Seniorenheime, Einrichtungen für Menschen mit Behinderung, Kultur-, Integrations- oder Familienzentren oder Einrichtungen für die Sozialberatung.
 
+Touristische öffentliche Infrastruktur
 
-| (B)
+Vorhaben zur Entwicklung touristischer Potenziale in der Region, wenn diese kostenlos der Öffentlichkeit zugänglich gemacht werden und keine weitere mit der Einrichtung zusammenhängende wirtschaftliche Tätigkeit verbunden ist. Auf die Ausführungen im Teil 3 Buchstabe a wird verwiesen.
 
-| Die Anlage muss so beschaffen sein, dass den Tieren jederzeit ein geeigneter Auslauf zur Verfügung steht.
+Vergabe
 
+Informationen zu Bestimmungen hinsichtlich der Vergabe von Aufträgen können unter https://eler.brandenburg.de/eler/de/ueberblick/beratung-und-adressen/ eingesehen werden.
 
-| (B)
+Weitere Informationen inklusive Kontaktdaten sind bei der Beratungsstelle für Vergaberecht für private und öffentliche Auftraggeber im Rahmen von ELER-Förderprojekten (https://eler.brandenburg.de/eler/de/ueberblick/beratung-und-adressen/) zu finden.
 
-| Im Sommer wird den Pferden zusätzlich regelmäßig Weidegang angeboten.
+Für Vorhaben nach den Nummern 2.1 bis 2.5 sind Kosten für die Durchführung von Vergabeverfahren zuschussfähig.
 
+Es ist zu beachten, dass bei Anwendung von Direktaufträgen von öffentlichen Auftraggebern oder bei Direktbeschaffungen bei privaten Auftraggebern die Zuwendungsempfangenden - entsprechend den Haushaltsgrundsätzen der Wirtschaftlichkeit und Sparsamkeit - verpflichtet sind, ab einem Auftragswert von mehr als 2 500 Euro (ohne Umsatzsteuer) vor der Auftragsvergabe beziehungsweise Beschaffung mindestens drei vergleichbare Angebote oder Preisvergleiche einzuholen und die Auswahlgründe zu dokumentieren. Der Bewilligungsbehörde ist die Dokumentation nachzuweisen.
 
-| (P)
+Für öffentliche Auftraggeber ist die Binnenmarktrelevanz des jeweiligen Auftrages zu prüfen und zu dokumentieren (gemäß Nummer 2.4 VV zu § 55 LHO).
 
-| Die nutzbare Liegefläche muss mindestens 9 m2 je Pferd und mindestens 7 m2 je Pony betragen.
+Verkehrswichtige öffentliche Straßen
 
+Verkehrswichtige öffentliche Straßen im Sinne dieser Richtlinie sind grundsätzlich alle Bundes-, Landes- und Kreisstraßen sowie Gemeindestraßen, die dem überörtlichen Verkehr beziehungsweise dem örtlichen Hauptverkehrsnetz dienen, sowie unmittelbare Anbindungen von ÖPNV-Verknüpfungsstellen an dieses Verkehrsnetz.
 
-Anlage 4
+Indiz für eine verkehrswichtige Straße ist, wenn sie gemäß § 5 Absatz 2 Nummer 3 des Baugesetzbuches im Flächennutzungsplan als Hauptverkehrsstraße ausgewiesen ist oder dem ÖPNV mit einer durchschnittlichen Linientaktung an Werktagen zwischen 6 und 22 Uhr von mindestens 1 Mal pro Stunde dient. Kommunen ohne gültigen Flächennutzungsplan haben die Funktion der Straße als Hauptverkehrsstraße der Bewilligungsbehörde durch andere geeignete Unterlagen nachzuweisen.
 
-Tierartspezifische Anzahlen von Tierplätzen bei Stallneubauten
+Für nicht dem oben genannten Förderausschluss unterliegende Investitionen gilt:
 
-Im Falle von Stallneubauten erfolgt eine anteilige Reduzierung des Zuschusses bei Überschreitung der nachfolgend genannten tierartspezifischen Anzahlen von Tierplätzen:
+Gefördert wird grundsätzlich der grundständige Ausbau beziehungsweise die Wiederherstellung der ortsüblichen Nutzungsfähigkeit von Straßen, Geh- und Radwegen, Beleuchtungen und Begrünungen sowie Plätzen unter Beachtung der Straßenbaulast gemäß dem Brandenburgischen Straßengesetz (BbgStrG) und deren bedarfs- und altersgerechte Ausgestaltung/Dimensionierung (Breite und Verwendung von ortsüblichen dorftypischen Materialien und vorhandenen Befestigungen). Nach § 9a Absatz 2 BbgStrG (https://bravors.brandenburg.de/gesetze/bbgstrg#2) sind Geh- und Radwege bei Ortsdurchfahrten grundsätzlich förderfähig.
 
-| 
-
-
-Tierart
-
-| 
-
-
-Tierplätze
-
-| 
-
-
-Hennen
-
-| 
-
-
-12 000
-
-| 
-
-
-Junghennen
-
-| 
-
-
-30 000
-
-| 
-
-
-Mastgeflügel
-
-| 
-
+Als Nachweis, dass ein Vorhaben einen gemeinschaftlichen Mehrwert aufweist, dient das positive Votum der LAG.
 
-30 000
+Vorhabenbeginn
 
-| 
-
-
-Truthühner
-
-| 
-
-
-15 000
-
-| 
-
-
-Milchkühe
-
-| 
-
-
-600
+Vorhabenbezogene Ausgaben sind nur dann zuwendungsfähig, wenn diese frühestens mit dem Tag des Einreichens eines formgebundenen Förderantrages über das digitale Antragssystem (IAP) inklusive positivem Beschluss der zuständigen lokalen Aktionsgruppe im Rahmen des Projektauswahlverfahrens und nicht vor dem 1. Januar 2023 entstanden sind. Das heißt, die Auftragsvergabe, der Abschluss eines Liefer- und Leistungsvertrages und die Bezahlung darf nicht vor Einreichung des Förderantrages erfolgt sein.
 
-| 
-
-
-Mastrinder
-
-| 
-
-
-600
+Zuwendungsfähige Ausgaben
 
-| 
-
+Zuwendungsfähig sind die durch Rechnungen (die auf die Begünstigten ausgestellt sind) nachgewiesenen, projektbezogenen Ausgaben abzüglich Preisnachlässe wie Skonti, Boni, Rabatte und gegebenenfalls die Umsatzsteuer. Das Konto, von dem die Überweisung erfolgt, muss den Begünstigten zugeordnet sein. Gemeinsame Konten von Ehepartnern können bei Nachweis der Zugriffsberechtigung anerkannt werden.
 
-Kälber
-
-| 
+Teil 3 - Beihilferechtliche Bestimmungen
 
+Das europäische Beihilfenrecht verbietet Subventionen und andere Vergünstigungen aus staatlichen Mitteln, die den Wettbewerb verzerren könnten.
 
-500
+Als Beihilfe im EU-rechtlichen Sinn gelten gemäß Artikel 107 Absatz 1 AEUV grundsätzlich alle Arten staatlicher oder aus staatlichen Mitteln gewährten Vorteile, die durch eine Begünstigung einzelner Unternehmen oder ganzer Produktionszweige den Wettbewerb innerhalb der EU verfälschen oder zu verfälschen drohen und somit zu einer Beeinträchtigung des Handels zwischen den Mitgliedstaaten führen.
 
-| 
+Eine staatliche Beihilfe liegt vor, wenn folgende Kriterien kumulativ erfüllt sind:
 
+Gewährung der Maßnahme an ein Unternehmen,
 
-Mastschweine
+Finanzierung aus staatlichen Mitteln,
 
-| 
+Gewährung eines Vorteils,
 
+Selektivität der Maßnahme und
 
-3 000
+Auswirkungen auf den Wettbewerb und Auswirkungen auf den Handel zwischen den Mitgliedstaaten.
 
-| 
+Als Unternehmen im Sinne von Artikel 107 Absatz 1 AEUV gilt - unabhängig von seiner Rechtsform - jede Einheit, die eine wirtschaftliche Tätigkeit ausübt.
 
+Das entscheidende Kriterium ist die wirtschaftliche Tätigkeit (Angebot einer Ware oder Dienstleistung am Markt). Eine Gewinnerzielungsabsicht ist nicht erforderlich. Grundsätzlich sind sowohl private als auch öffentliche Unternehmen erfasst.
 
-Sauen
+Auch folgende Einheiten können dem Unternehmensbegriff unterliegen:
 
-| 
+Gebietskörperschaften oder kommunale Unternehmen beziehungsweise Eigenbetriebe,
 
+freiberuflich Tätige,
 
-900
+eingetragene Vereine,
 
-| 
+natürliche Personen et cetera.
 
+Eine Beihilfe kann ausgeschlossen werden, wenn eine der nachfolgenden Voraussetzungen vorliegt:
 
-Aufzuchtferkel
+nichtwirtschaftliche Tätigkeit
 
-| 
+Lokalität/keine Handelsbeeinträchtigung
 
+keine Begünstigung von Eigentümern, Betreibenden oder Endbegünstigten
 
-9 000
+Beihilfefreie Vorhaben zur Steigerung der Lebensqualität für die lokale Bevölkerung (Nummer D.1.1 der LEADER-Richtlinie)6
 
-Die anteilige Reduzierung des Zuschusses im Falle einer Überschreitung lässt sich an folgenden Beispielen rechnerisch ableiten:
+a) Beihilfefreie Vorhaben aufgrund nichtwirtschaftlicher Tätigkeit
 
-| 
+Vorhaben des Staates als „Öffentliche Hand“:
 
+Dies betrifft unter anderem die Errichtung öffentlicher Infrastrukturmaßnahmen beziehungsweise allgemeiner Infrastruktur.
 
-Beispiel-tierart
+Der Zugang muss für eine breite Öffentlichkeit möglich und kostenlos sein.
 
-| 
+Allgemeine innerörtliche kommunale Infrastruktur (Nummer D.1.1.1 der Richtlinie), un-
 
+ter anderem
 
-Anzahl von
+Straßen, Geh-/Radwege,
 
-Tierplätzen
+Anger/Plätze, Spiel- und Bolzplätze, unentgeltliche Parkplätze,
 
-im
+Grün im öffentlichen Bereich inklusive Wiederherstellung von Alleen, Parkanlagen, innerörtlichen Gewässern, Gestaltung von Ortsrändern und sonstigen öffentlichen Gärten, Grünanlagen, Rabatten sowie dazugehörige bauliche Anlagen.
 
-beantragten
+Nicht einnahmeschaffende touristische öffentliche Infrastruktur (Nummer D.1.1.2 der Richtlinie), unter anderem
 
-Stallneubau
+Wander-, Rad-, Reitwege, Lehr-, Erlebnis- und Naturpfade, Kurparks und Kurparkwege, Promenaden,
 
-| 
+unentgeltliche Park-/Rastplätze, öffentliche Toiletten,
 
+unentgeltliche touristische Informationszentren und ähnliche Einrichtungen,
 
-Beantragte
+unentgeltliche Bootsanlegestellen und Wasserwanderrastplätze, Seebrücken,
 
-förderfähige
+Schwimmsteganlagen, Badestellen und Wassertretanlagen,
 
-Gesamtkosten für
+Skiloipen, Rodelstrecken, Skaterwege, Naturbühnen, Gradierwerke.
 
-Stallneubau
+Vorhaben zur Förderung der öffentlichen Bildung, welche überwiegend vom Staat finanziert und beaufsichtigt werden:
 
-| 
+Kinder- und Jugendeinrichtungen (Nummer D.1.1.4 der Richtlinie), wie Grundschulen, Schulhorte, Kindertagesstätten et cetera, welche überwiegend staatlich finanziert sind.
 
+Die nichtwirtschaftliche Natur der Bildung wird nicht beeinträchtigt, wenn finanzielle Beiträge erhoben werden, die zur Deckung von laufenden Kosten beitragen.
 
-Zuschuss
+Vorhaben zur Finanzierung von Kultur oder dem Erhalt des kulturellen Erbes
 
-ohne
+(Nummer D.1.1.6 der Richtlinie), wenn die Vorhaben für die Öffentlichkeit kostenlos zugänglich gemacht werden und diese rein soziale und kulturelle Zwecke erfüllen, die nichtwirtschaftlicher Natur sind. Eine gegebenenfalls kommerzielle Nutzung ist als Nebentätigkeit einzustufen7.
 
-Reduzierung
+Das betrifft unter anderem nachfolgende Vorhaben des Erhalts von:
 
-| 
+Kleindenkmalen wie Ehrenmalen, Gedenksteinen, Grenzsteinen, Wegkreuzen, Monumente et cetera,
 
+Kirchen/Klöstern,
 
-Tierart­spezifische
+archäologischen Stätten und/oder Denkmalen.
 
-Anzahl von
+Ländliche Infrastruktur außerhalb des Siedlungsbereichs
 
-Tier­plätzen
+einschließlich Straßen und Wege (Nummer D.1.1.8 der Richtlinie):
 
-(s. oben)
+Verbindungswege und Wirtschaftswege,
 
-| 
+Erhalt historischer Wegebefestigungen mit Bedeutung für die Kulturlandschaft,
 
+Einbindung der ländlichen Infrastruktur in das Landschaftsbild (Begleitpflanzung),
 
-Differenz zwischen
+sonstige ländliche Wege mit Mehrfachnutzung (Fahrzeug- und Radverkehr, Fußgänger/Wanderer) oder Infrastruktur.
 
-der Anzahl von
+Infrastruktureinrichtungen mit einer gemischten Nutzung8
 
-Tierplätzen im
+(nichtwirtschaftliche Tätigkeit und wirtschaftliche Tätigkeit der oder des Zuwendungsempfangenden), wenn die Infrastruktur fast ausschließlich für eine nichtwirtschaftliche Tätigkeit genutzt wird.
 
-beantragten
+Von einer nichtwirtschaftlichen Tätigkeit ist auszugehen, wenn diese als Nebentätigkeit angesehen werden kann und nicht mehr als 20 Prozent der jährlichen Gesamtkapazität der Infrastruktur9 für wirtschaftliche Tätigkeiten genutzt werden.
 
-Stallneubau und der
+b) Beihilfefreie Vorhaben aufgrund der Lokalität beziehungsweise der fehlenden Handelsbeeinträchtigung
 
-tierartspezifischen
+Nach aktueller Rechtsprechung liegt keine Handelsbeeinträchtigung vor, wenn es sich bei dem Vorhaben um eine rein lokale Maßnahme handelt.
 
-Höchstgrenze
+Die Voraussetzung für eine lokale Maßnahme ist gegeben, wenn (kumulativ):
 
-| 
+Waren oder Dienstleistungen in einem geografisch begrenzten Gebiet angeboten werden,
 
+nur marginale Auswirkungen auf grenzübergreifende Investitionen vorliegen (es liegt dadurch kein Hindernis vor, dass ein ausländischer Investor im Gebiet investieren könnte) und
 
-Anteilige Redu-
+es unwahrscheinlich ist, dass Kunden aus anderen Mitgliedstaaten gewonnen werden.
 
-zierung des beantragten Zuschusses
+Vorhaben, deren Einzugsbereich und Nutzungsziel auf die lokale Bevölkerung abstellen (Gemeindegebiete, Ortsteile einer Gemeinde und/oder angrenzende Gebiete im Rahmen der Regionalen Entwicklungsstrategie), können hierunter subsumiert werden. Einer gesonderten Prüfung bedarf es bei Vorhaben, welche sich unmittelbar (weniger als 20 Kilometer vom nächsten Grenzübergang) im Grenzbereich zu Polen befinden.
 
-(%)
+Zu den beihilfefreien Vorhaben aufgrund Lokalität beziehungsweise fehlender Handelsbeeinträchtigung zählen insbesondere:
 
-| 
+Begegnungszentren für die örtliche Bevölkerung wie Jugend- und Seniorenclubs oder Vereins- beziehungsweise Dorfgemeinschaftshäuser (Nummer D.1.1.3 der Richtlinie),
 
+dorfgemäße Gemeinschaftseinrichtungen für soziale und kulturelle Zwecke zur Förderung der Dorfgemeinschaft und der Dorfkultur, wie unter anderem traditionelles Brauchtum und Handwerk, auch Heimat-/Dorfmuseum (Nummer D.1.1.3 der Richtlinie),
 
-Reduzierter zu bewilligender Zuschuss
+Freizeit- und Naherholungseinrichtungen mit Grundausstattung ohne überregionale Bedeutung (Nummer D.1.1.3 der Richtlinie),
 
-| 
+Vorhaben des Breitensports (ausschließlich Freizeitsport) (Nummer D.1.1.3 der Richtlinie),
 
+Erhalt von ortsbildprägenden Gebäuden oder Ensembles (Nummer D.1.1.6 der Richtlinie),
 
-Hennen
+Abriss10 oder Teilabriss kommunaler Bausubstanz im Innenbereich (Nummer D.1.1.7 der Richtlinie),
 
-| 
+sonstige Vorhaben, die lokal beziehungsweise regional wirken (unter anderem Nummer D.1.1.5 der Richtlinie).
 
+c) Beihilfefreie Vorhaben aufgrund Ausschlusses einer Begünstigung auf der Eigentümer-, Betreiber- und Endnutzerebene
 
-18.000
+Bei Infrastrukturvorhaben kann die Gewährung eines Vorteils auf verschiedenen Ebenen erfolgen.
 
-| 
+Bei Infrastrukturvorhaben gibt es oft mehrere Arten von Beteiligten. Etwaige staatliche Beihilfen für solche Vorhaben können der Förderung des Baus einschließlich Ausbau oder Verbesserung (Eigentümerebene), des Betriebs (Betreiberebene) oder der Nutzung (Endnutzerebene) der Infrastruktur dienen.
 
+Kann auf allen drei Ebenen eine Begünstigung (Gewährung eines Vorteils) ausgeschlossen werden, so handelt es sich um ein beihilfefreies Vorhaben. Um die Beihilfefreiheit eines Vorhabens zu gewährleisten, sind Wertabschöpfungsklauseln bei Betriebsgewinnen, getrennte Buchführung, Ausschreibung zur Nutzung der Infrastruktur sowie Marktpreis zu beachten.
 
-1.000.000 EUR
+Beihilferelevante Vorhaben zur Steigerung der Lebensqualität (Nummern D.1.2 und D.1.3 der LEADER-Richtlinie)
 
-| 
+Eine Unterstützung von Vorhaben, die nicht als beihilfefrei im oben genannten Sinne anzusehen sind, erfolgt gemäß Artikel 19b, 53, 55 oder 56 der Allgemeinen Gruppenfreistellungsverordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 (ABl. L 187 vom 26.6.2014, S. 1, im Folgenden AGVO - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02014R0651-20230701&qid=1707986826655) in der jeweils geltenden Fassung.
 
+Eine Antragstellung erfolgt entsprechend den Erfordernissen gemäß Artikel 6 AGVO. Die Förderausschlüsse gemäß Artikel 1 Absatz 2 bis 5 AGVO sind zu beachten11.
 
-400.000 EUR
+a) Schaffung, Erhaltung und Ausbau von Kultureinrichtungen und Erhalt von Kulturerbe (Nummer D.1.2.1 der Richtlinie):
 
-| 
+Die Unterstützung dieser Vorhaben erfolgt gemäß Artikel 53 AGVO in der jeweils geltenden Fassung.
 
+Hierzu zählen insbesondere:
 
-12.000
+Vorhaben im Bereich des materiellen Kulturerbes, wie Denkmäler, historische Stätten und Gebäude mit überregionalem Einzugsbereich,
 
-| 
+Museen, Kulturzentren, Freilichtbühnen und Theater mit überregionalem Einzugsbereich.
 
+Die Kosten für Bau, Modernisierung, Erwerb, Erhaltung oder Verbesserung der Kulturinfrastruktur sind nur dann förderfähig, wenn mindestens 80 Prozent der verfügbaren Nutzungszeiten (zum Beispiel Zahl der Veranstaltungen) oder Räumlichkeiten für kulturelle Zwecke genutzt werden.
 
-18.000 - 12.000
+b) Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau von Sport- und/oder multifunktionalen Freizeitinfrastrukturen (Nummer D.1.2.2 der Richtlinie):
 
-= 6.000
+Die Unterstützung dieser Vorhaben erfolgt gemäß Artikel 55 AGVO in der jeweils geltenden Fassung.
 
-| 
+Zu Sportinfrastrukturen und multifunktionalen Freizeiteinrichtungen zählen insbesondere:
 
+überregionale Freizeit- und Begegnungszentren sowie multifunktionale Allwetterplätze,
 
-(6.000 : 18.000)
+entgeltliche Wasserwanderrastplätze,
 
-* 100 = 33,33 %
+Kletterhallen, Hochseilgärten, Baumkronenwege, Sommerrodelbahnen, Schwimmbäder et cetera mit überregionalem Einzugsbereich.
 
-| 
+Die oben genannten Einrichtungen müssen mehreren Nutzern zu transparenten und diskriminierungsfreien Bedingungen offen zur Verfügung stehen. Vergünstigungen für allgemeine soziale Gruppen (zum Beispiel für Kinder, Senioren/Seniorinnen) sind in diesem Sinne als diskriminierungsfreie Bedingungen anzusehen.
 
+Handelt es sich bei dem Vorhaben um Sportinfrastruktur, darf diese nicht ausschließlich von einem einzigen Profisportnutzenden genutzt werden. Auf die Nutzung der Sportinfrastruktur durch andere Profi- oder Amateursportnutzende müssen jährlich mindestens 20 Prozent der verfügbaren Nutzungszeiten entfallen.
 
-400.000 * (100 - 33,33)
+c) Investitionsvorhaben zur Schaffung, Erhaltung oder zum Ausbau lokaler Infrastrukturen (Nummer D.1.2.3 der Richtlinie):
 
-: 100 = 266.680 EUR
+Die Unterstützung dieser Vorhaben erfolgt gemäß Artikel 56 AGVO in der jeweils geltenden Fassung.
 
-| 
+Hierzu zählen insbesondere Vorhaben, die auf lokaler Ebene einen Beitrag zur Verbesserung der Rahmenbedingungen für Unternehmen und Verbrauchende leisten.
 
+Beispiele sind:
 
-Milchkühe
+Informationszentren und ähnliche Einrichtungen mit wirtschaftlicher Tätigkeit,
 
-| 
+wirtschaftliche Einrichtungen mit überregionalem Einzugsbereich,
 
+sonstige Infrastruktur für Unternehmen (Gebäude, Straßen, Wege et cetera).
 
-1.000
+Die lokale Infrastruktur muss interessierten Nutzenden zu offenen, transparenten und diskriminierungsfreien Bedingungen zur Verfügung gestellt werden. Vergünstigungen für allgemeine soziale Gruppen (zum Beispiel Kinder, Senioren/Seniorinnen) sind in diesem Sinne als diskriminierungsfreie Bedingungen anzusehen.
 
-| 
+Der für die Nutzung der Infrastruktur in Rechnung gestellte Preis muss dem Marktpreis entsprechen.
 
+Gewidmete Infrastrukturen12 sind im Rahmen der Freistellung nach Artikel 56 AGVO nicht förderfähig.
 
-1.500.000 EUR
+d) Investitionsvorhaben zur Förderung der Wirtschaft (Nummer D.1.3 der Richtlinie)
 
-| 
+Trägt das beantragte Vorhaben nach der Projektbeschreibung unmittelbar zur Stärkung der regionalen Wirtschaft bei, so sind die Bestimmungen laut Artikel 19b AGVO relevant.
 
+Dies betrifft:
 
-600.000 EUR
+Vorhaben zur Stärkung des lokalen Gewerbes, lokaler Dienstleistungen oder des lokalen Handwerks,
 
-| 
+Vorhaben zur Schaffung neuer oder die umfassende Modernisierung bestehender Gästezimmer oder Ferienwohnungen zum Zwecke der Privatzimmervermietung.
 
+Zuwendungsempfangende müssen der Definition der Kleinst- oder Kleinunternehmen gemäß Artikel 2 Absatz 2 des Anhangs I AGVO entsprechen (sogenannte KMU-Regelung - https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02014R0651-20170710).
 
-600
+Die Einstufung eines Unternehmens als Kleinst- oder Kleinunternehmen ist abhängig von der Zahl der Mitarbeitenden und dem Umsatz oder der Bilanzsumme  (siehe Formular https://lelf.brandenburg.de/sixcms/media.php/9/Erklaerung-Kleinst-und-Kleinunternehmen.pdf):
 
 | 
-
 
-1.000 - 600
 
-= 400
+Unternehmenskategorie
 
 | 
 
 
-(400 : 1.000)
+Mitarbeitende
 
-* 100 = 40,00 %
-
 | 
-
 
-600.000 * (100 - 40)
 
-: 100 = 360.000 EUR
+Umsatz oder Bilanzsumme
 
 | 
 
 
-Mast-schweine
+Kleinunternehmen
 
 | 
 
 
-6.000
+< 50
 
 | 
 
 
-2.000.000 EUR
+≤ 10 Mio. EUR
 
 | 
 
 
-800.000 EUR
+≤ 10 Mio. EUR
 
 | 
 
 
-3.000
+Kleinstunternehmen13
 
 | 
 
 
-6.000 - 3.000
+< 10
 
-= 3.000
-
 | 
-
 
-(3.000 : 6.000)
 
-* 100 = 50,00 %
+≤ 2 Mio. EUR
 
 | 
-
-
-800.000 * (100 - 50)
-
-: 100 = 400.000 EUR
-
-Anlage 5
-
-Aufgaben der Betreuung von baulichen Investitionen gemäß Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg über die Gewährung von Zuwendungen für einzelbetriebliche Investitionen in der jeweils geltenden Fassung
-
-Das Land Brandenburg gewährt nach der oben genannten Richtlinie Zuwendungen für nachfolgend aufgeführte Tätigkeiten bei der Betreuung von baulichen Investitionen:
-
-Information des den Antrag stellenden Unternehmens über die Grundsätze dieser Richtlinie, einschließlich der entsprechenden haushaltsrechtlichen Regelungen,
-
-Erarbeitung und Einreichung des Antrages auf Zuwendung, einschließlich des Nachweises der gesicherten Gesamt­finanzierung,
-
-Freigabe des Vorhabens, wenn die Finanzierung gesichert ist und festgestellt ist, dass die im Plan angegebenen Verhältnisse zutreffen,
-
-Auszahlungsantrag entsprechend den haushaltsrechtlichen Vorschriften und Bestimmungen des Zuwendungsbescheides,
-
-Überwachung des Vorhabens auf antragsgemäße Durchführung,
-
-prüfungsfähige Aktenführung und Aufbewahrung der Unterlagen entsprechend den Nebenbestimmungen im Zuwendungsbescheid,
-
-Sicherung eines ordnungsgemäßen Abschlusses des Investitionsvorhabens,
-
-Aufstellung und Vorlage des Verwendungsnachweises einschließlich Sachbericht, innerhalb von drei Monaten nach dem Abschluss des Durchführungszeitraumes,
-
-Prüfung der Rechnungen auf sachliche Richtigkeit.
-
-Die Aufgaben, Rechte und Pflichten des den Antrag stellenden Unternehmens sowie des Betreuungsunternehmens sind in einem Vertrag gemäß Anlage 8 der oben genannten Richtlinie zu regeln.
-
-Dem Vertrag als Anlage zum Förderantrag sind ein Nachweis der fachlichen Eignung des Betreuungsunternehmens, wenn dieses nicht bis 31. Dezember 2006 vom MLUK Brandenburg zugelassen war, sowie der Abschluss einer Berufshaftpflichtversicherung beizufügen.
-
-Anlage 6
-
-Übernahme von Bürgschaften
-
-Für Kapitalmarktdarlehen, die zur Sicherstellung der Gesamtfinanzierung der förderungsfähigen Investitionen erforderlich sind, können anteilige modifizierte Ausfallbürgschaften von den Ländern übernommen werden, soweit das Darlehen nicht durch bankübliche Sicherheiten gedeckt und mit der Zahlung der vertraglich vereinbarten Zins- und Tilgungsleistungen gerechnet werden kann.
-
-Der Bund übernimmt hierfür befristet bis zum 31. Dezember 2022 mit gesonderter Erklärung eine Garantie von 60 Prozent.
-
-Bürgschaften können nur für Darlehen übernommen werden, die bei Antragstellung auf Bürgschaftsübernahme noch nicht gewährt oder verbindlich zugesagt worden sind. Eine Darlehenszusage unter dem ausdrücklichen Vorbehalt der Bürgschaftsgewährung ist unschädlich.
-
-Die Bürgschaften decken höchstens 70 Prozent des Ausfalls an der Hauptforderung, den marktüblichen Zinsen sowie den Kosten der Kündigung und Rechtsverfolgung, für die Kosten jedoch nur 2 Prozent des Bürgschaftshöchstbetrages für die Hauptforderung. Ab Eintritt des Verzuges des Kreditnehmers ist der Zinssatz in die Bürgschaft einbezogen, der gegenüber dem Kreditnehmer als Schadensersatz­anspruch geltend gemacht werden kann. Die Höhe des Schadensersatzanspruches ist auf den Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuches zuzüglich 5 Prozent p. a. begrenzt, es sei denn, im Schadensfall wird ein höherer Ersatzanspruch nachgewiesen. In keinem Fall darf jedoch der vertraglich vereinbarte und von dem bürgenden Land gebilligte Regelzinssatz überschritten werden. Sonstige Verzugsschäden, Zinseszinsen, Stundungszinsen, Provisionszinsen, Strafzinsen, Überziehungszinsen, Bearbeitungsgebühren und Prüfungskosten sind von der Bürgschaft nicht erfasst und dürfen auch nicht mittelbar gegenüber dem bürgenden Land in die Ausfallberechnung einbezogen werden. Der Selbstbehalt der Hausbanken beträgt mindestens 30 Prozent, er darf nicht gesondert oder vorrangig besichert oder auf Dritte übertragen werden.
-
-Der Darlehensnehmer hat eine marktübliche Provision (einschließlich Risikoentgelt) für die Gewährung der Bürgschaft zu entrichten und so weit wie möglich Sicherheiten - vorrangig Grundpfandrechte - zur Verfügung zu stellen. Dies gilt auch, wenn er nachträglich dafür geeignetes Vermögen erlangt. Zu den Sicherheiten, die vor Feststellen des Ausfalls zu verwerten sind, gehören auch etwaige für das Darlehen gegebene Bürgschaften Dritter. Bei haftungsbeschränkenden Rechtsformen ist Voraussetzung für die Vergabe einer Ausfallbürgschaft, dass alle Gesellschafter, die einen wesentlichen Einfluss auf den Darlehensnehmer ausüben können, für das Darlehen mithaften, zumindest aber eine selbstschuldnerische Bürgschaft in Darlehenshöhe abgeben.
-
-Die Verbürgung von Haushaltsmitteln des Bundes sowie die Übernahme von Bürgschaften in Sanierungsfällen sind ausgeschlossen.
-
-Anlage 7
-
-Besondere Anforderungen in den Bereichen Verbraucherschutz, Umwelt- und Klimaschutz
-
-Bereich Verbraucherschutz
-
-Besondere Anforderungen an den Verbraucherschutz werden erfüllt, wenn die Herstellung der Produkte nach den Anforderungen eines anerkannten Lebensmittelqualitätsprogramms, wie zum Beispiel Qualitätszeichen Brandenburg „Gesicherte Qualität“, QS, QM, KAT, GLOBALG.A.P., EuRePGAP nach Artikel 16 der Verordnung (EU) Nr. 1305/2013 oder im Rahmen der Stärkung regionaler oder ökologischer Wertschöpfungsketten erfolgt. Aktuell gültige Zertifikate sind der Bewilligungsbehörde vorzulegen.
-
-Bereich Umwelt- und Klimaschutz
-
-Besondere Anforderungen des Umwelt- und Klimaschutzes sind bei Einhaltung von mindestens eines der nachfolgend genannten Kriterien auf Ebene des gesamten Unternehmens in geeigneter Weise, insbesondere durch eine Verbesserung der Effizienz des Ressourceneinsatzes, zum Beispiel von Wasser und/oder Energie, oder durch eine Verringerung der Stoffaus­träge oder der Emissionen, nachzuweisen:
-
-Lagerkapazität für Gülle liegt bei mindestens acht Monaten,
 
-Abdeckung aller Flüssigmistlager,
 
-Einsatz von Abluftreinigungsanlagen Tierhaltung,
+≤ 2 Mio. EUR
 
-Teilnahme an Agrarumweltmaßnahmen mit mindestens 15 Prozent der Landwirtschaftlichen Nutzfläche,
+Diese Schwellenwerte gelten nicht nur für die Zahlen einzelner Gesellschaften:
 
-Grünlandanteil an der Landwirtschaftlichen Nutzfläche liegt bei über 50 Prozent,
+Bei der Berechnung der Mitarbeitenden-Zahlen und der finanziellen Schwellenwerte sind verbundene Unternehmen sowie Partnerunternehmen zu berücksichtigen (vergleiche Artikel 3 Anhang I AGVO)
 
-Unterglasanbau - geschlossene Bewässerungssysteme/geschlossene Düngesysteme,
+Antragstellende, welche Teil einer größeren Unternehmensgruppe sind beziehungsweise weitere Standorte/Niederlassungen haben, müssen Daten zur Mitarbeitenden-Zahl, zum Umsatz und zur Bilanzsumme mit einbeziehen.
 
-Einsatz von Energiesparschirmen,
+Das Herauslösen von Unternehmensteilen (Niederlassung und so weiter) zum Zweck der Erfüllung der Schwellenwerte ist nicht zulässig.
 
-Regenwassernutzung,
+Teilzeit- und Saison-Arbeitnehmende werden nur entsprechend ihrem Anteil an den Jahresarbeitseinheiten berücksichtigt, Auszubildende nicht.
 
-Nutzung von Abwärme,
+Hinweis
 
-Einsatz effizienter Kühltechnik,
+Als Kleinst- oder Kleinunternehmen kann ein Unternehmen nicht angesehen werden, wenn 25 Prozent oder mehr seines Kapitals oder seiner Stimmrechte direkt oder indirekt von der öffentlichen Hand kontrolliert werden (vergleiche Artikel 3 Absatz 4 Anhang I AGVO).
 
-Einsatz bereits vorhandener Maschinen und Geräte der Außenwirtschaft, die zu einer deutlichen Minderung von Emissionen bei der Ausbringung von Wirtschaftsdüngern oder zu einer deutlichen Minderung von Umweltbelastungen bei der Anwendung von Pflanzenschutzmitteln oder zu einer deutlichen Minderung von Umweltbelastungen durch gezielte Unkrautbekämpfung mittels neuartiger mechanischer Verfahren führen,
+1 „Liaison Entre Actions de Développement de l‘Économie Rurale“ (Verbindung von Aktionen zur Entwicklung der ländlichen Wirtschaft).
 
-bei Investitionen in Frostschutzanlagen Einsatz energie­effizienter Pumpen oder anderer Techniken zum Umwelt- und Klimaschutz.
+2 Aktuelle Informationen zur Gebietskulisse sind unter https://mleuv.brandenburg.de/mleuv/de/land-und-ernaehrungswirtschaft/laendliche-entwicklung/leader/ verfügbar.
 
-Anlage 8
+3 Nachweis zum Beispiel durch Berufs- und/oder Studienabschlüsse, Fortbildungsnachweise, Referenzen, langjährige Erfahrungen.
 
-V E R T R A G
+4 Aktuelle Informationen zur Höhe der Einheitskosten sind unter https://mleuv.brandenburg.de/mleuv/de/service/foerderung/laendliche-entwicklung/foerderung-leader/ verfügbar.
 
-über Betreuungsleistungen für bauliche Maßnahmen im Rahmen der einzelbetrieblichen Förderung des Landes Brandenburg
+5 Dritte, das heißt: außerhalb der Mitgliedschaft in der LAG oder keine privatrechtliche Vereinbarung zwischen LAG und Kleinprojektträger oder -trägerin
 
-Dieser Vertrag regelt die Mindestanforderungen für Betreuungsleistungen bei der Durchführung geförderter baulicher Vorhaben auf der Grundlage der Richtlinie des Ministeriums für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg über die Gewährung von Zuwendungen für einzelbetriebliche Investitionen in landwirtschaftlichen Unternehmen in der jeweils geltenden Fassung.
-
-Der Vertrag wird zwischen
-
-- nachfolgend Auftraggeber/Auftraggeberin genannt -
-
-und
-
-- nachfolgend Auftragnehmer/Auftragnehmerin genannt -
-
-für die bauliche Maßnahme
-
-geschlossen und regelt folgende Punkte:
-
-1 Leistungen des Auftragnehmers/der Auftragnehmerin (Betreuungsunternehmen)
-
-Bei der Vorbereitung und Durchführung von baulichen Investitionen übernimmt der Auftragnehmer/die Auftragnehmerin die in der Anlage 5 - Aufgaben der Betreuung von baulichen Investitionen - der oben genannten Richtlinie aufgeführten Tätigkeiten.
-
-2 Pflichten des Auftraggebers/der Auftraggeberin
-
-2.1 Der Auftraggeber/die Auftraggeberin verpflichtet sich zur Gewährleistung der ordnungsgemäßen Durchführung der Baumaßnahme zum Abschluss eines Vertrages über Architekten- und Ingenieurleistungen gemäß Honorarordnung für Architekten und Ingenieure (HOAI). Dieser Vertrag enthält mindestens folgende Grundleistungen gemäß § 15 HOAI: Entwurfs- und Genehmigungsplanung, Vorbereitung und Mitwirkung bei der Vergabe, Abnahme der Bauleistungen, Überwachung der Beseitigung festgestellter Mängel sowie Erstellung und Vorlage der Kostenfeststellung.
-
-2.2 Der Auftraggeber/die Auftraggeberin verpflichtet sich, dem Auftragnehmer/der Auftragnehmerin alle bereits vorhandenen und für das Investitionsvorhaben noch anzufertigenden Bauunterlagen, inklusive Baupläne, zwecks Einsichtnahme zur Verfügung zu stellen.
-
-2.3 Der Auftraggeber/die Auftraggeberin verpflichtet sich, dem Auftragnehmer/der Auftragnehmerin zur Antragstellung einen Nachweis über die Sicherung der Gesamtfinanzierung des Vorhabens (Bestätigung der Hausbank) vorzulegen.
-
-2.4 Der Auftraggeber/die Auftraggeberin verpflichtet sich, erst nach Bestätigung des Vorhabenbeginns durch den Auftragnehmer/die Auftragnehmerin mit dem Vorhaben zu beginnen.
-
-2.5 Der Auftraggeber/die Auftraggeberin verpflichtet sich, Aufträge über sämtliche Lieferungen und Leistungen, die mit dem Vorhaben in Verbindung stehen, erst nach Abstimmung mit dem/der beauftragten Architekten/Architektin und dem Auftragnehmer/der Auftragnehmerin zu vergeben sowie keine Wechsel auszustellen, keine Abtretungen vorzunehmen und keine Forderungen anzuerkennen.
-
-2.6 Der Auftraggeber/die Auftraggeberin verpflichtet sich, spätestens bei Baubeginn eine Bauherrenhaftpflicht-, eine Bauwesen- sowie eine Feuer- und Sturmschadenversicherung abzuschließen und bei unbaren Eigenleistungen eine Anzeige bei der landwirtschaft­lichen Berufsgenossenschaft vorzunehmen.
-
-3 Vergütung
-
-3.1 Für die Leistungen nach Nummer 1 dieses Vertrages erhält der Auftragnehmer/die Auftragnehmerin vom Auftraggeber/von der Auftraggeberin bei Bewilligung der beantragten Zuwendung eine Betreuungsgebühr.
-
-Die Betreuungsgebühr wird in einer Höhe von
-
-2,5 Prozent des förderfähigen baulichen Investitionsvolumens, wenn dieses 500 000 Euro nicht überschreitet, und
-
-1,5 Prozent des den Betrag von 500 000 Euro überschreitenden förderfähigen baulichen Investitionsvolumens
-
-als förderfähig anerkannt.
-
-Der Mindestbetrag der förderfähigen Betreuungsgebühren beträgt 6 000 Euro, das gilt auch für ein förderfähiges Investitionsvolumen zwischen 100 000 und 240 000 Euro. Der Höchstbetrag für die Betreuungsgebühr darf 17 500 Euro nicht überschreiten. Hier­auf kann ein Zuschuss in Höhe von 50 Prozent gewährt werden.
-
-Davon erhält der Auftragnehmer/die Auftragnehmerin vom Auftraggeber/von der Auftraggeberin
-
-bei Bewilligung der Baumaßnahme                           20 %
-
-bei Baubeginn                                                            40 %
-
-für die Erstellung des Verwendungsnachweises      40 %.
-
-3.2 Wird der eingereichte Förderantrag durch die Bewilligungsstelle abgelehnt, so sind die bis dahin erbrachten Leistungen des Auftragnehmers/der Auftragnehmerin durch den Auftraggeber/die Auftraggeberin abzugelten.
-
-4 Zusätzliche Leistungen des Auftragnehmers/der Auftragnehmerin
-
-Über den Umfang nach Nummer 1 dieses Vertrages hinaus vereinbarte Betreuungsleistungen übernimmt der Auftragnehmer/die Auftragnehmerin folgende zusätzliche Leistungen:
-
-(Euro)
-
-(Euro)
-
-5 Rechnungslegung und -begleichung
-
-5.1 Die Rechnungslegung für die jeweiligen Teilleistungen erfolgt nach Erbringung derselben durch den Auftragnehmer/die Auftragnehmerin, jeweils zuzüglich gesetzlicher Mehrwertsteuer.
-
-5.2 Der Auftraggeber/die Auftraggeberin begleicht die nach den Nummern 1 und 4 erbrachten Leistungen des Auftragnehmers/der Auftragnehmerin unmittelbar nach Rechnungslegung, auch wenn
-
-beantragte Zuwendungen nicht oder noch nicht im vollen Umfang bewilligt wurden,
-
-sonstige vorgesehene Finanzierungsmittel nicht zur Verfügung stehen,
-
-das Investitionsvorhaben aus sonstigen Gründen nicht zur Durchführung kommt.
-
-6 Auftragserweiterung
-
-Sollen dem Auftragnehmer/der Auftragnehmerin nach Abschluss dieses Vertrages weitere Leistungen übertragen werden, so ist ein gesonderter Vertrag abzuschließen.
-
-7 Kündigung
-
-Dieser Vertrag ist entsprechend den gesetzlichen Regelungen kündbar. Eine Kündigung nach erfolgter Bewilligung des zugrunde liegenden Förderantrages verändert die Bewilligungsvoraussetzungen und ist bei der Bewilligungsstelle anzuzeigen. Bis zur Kündigung erbrachte Leistungen des Auftragnehmers/der Auftragnehmerin sind durch den Auftraggeber/die Auftraggeberin zu vergüten, gegebenenfalls sind Teilleistungen zu berechnen. Nummer 3.2 dieses Vertrages bleibt hiervon unberührt.
-
-8 Vollmacht
-
-Der Auftraggeber/die Auftraggeberin erteilt dem Auftragnehmer/der Auftragnehmerin hiermit die für die Durchführung des Vorhabens notwendigen Vollmachten. Der Auftragnehmer/die Auftragnehmerin hat das Recht, Untervollmacht zu erteilen. Der Auftraggeber/die Auftragnehmerin bevollmächtigt den Auftragnehmer/die Auftragnehmerin hiermit auch zur Entgegennahme von Schriftstücken und Bescheiden sowie zur Beantwortung derselben, auch, wenn diese dem Datenschutz unterliegen.
-
-9 Haftung
-
-Die Haftung des Auftragnehmers/der Auftragnehmerin richtet sich nach den hierfür geltenden gesetzlichen Bestimmungen.
-
-10 Datenschutz
-
-Der Auftraggeber/die Auftraggeberin wird darauf hingewiesen, dass die zur Durchführung des Vorhabens notwendigen Daten unter Einhaltung des Datenschutzes durch den Auftragnehmer/die Auftragnehmerin gespeichert werden.
-
-11 Schlussbestimmung
-
-Änderungen, Ergänzungen und Nebenabreden zu diesem Vertrag bedürfen der Schriftform.
-
-| ………………..………., den .……………………
-
-Ort
-
-| ………………..………., den .……………………
-
-Ort
-
-
-| 
-
-
-……………………………………………..…..............................
-
-Unterschrift Auftraggeber/Auftraggeberin
-
-| 
+6 Grundlage: Notion of state Aid - Bekanntmachung der Kommission zum Begriff der staatlichen Beihilfe im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52016XC0719%2805%29)
 
+7 Wenn von Nutzern einer kulturellen Einrichtung beziehungsweise einer kulturellen oder für die Erhaltung des kulturellen Erbes bestimmten Aktivität ein finanzieller Beitrag erhoben wird, der nur einen Bruchteil der tatsächlichen Kosten (weniger als 50 Prozent) deckt, so ändert dies nichts an der nichtwirtschaftlichen Natur dieser Aktivität, da das erhobene Entgelt nicht als echte Vergütung für die erbrachte Dienstleistung angesehen werden kann.
 
-……………………………………………..…..............................
+8 Voraussetzung: getrennte Buchhaltungssysteme
 
-Unterschrift Auftragnehmer/Auftragnehmerin
+9 Wie diese Kapazität und die jeweiligen Nutzungsanteile zu bestimmen sind, wird von der Kommission nicht abschließend vorgegeben. Die Maßstäbe werden sich je nach zu betrachtender Infrastruktur unterscheiden (etwa nach Personen, Quadratmetern, Nutzungstagen, sonstigen Volumina usw.).
 
-1 Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487).
+10 Abriss = Revitalisierung von öffentlichem Gelände (Erschließung beziehungsweise Baureifmachung von Grundstücken), Schaffung von Bauland im Innenbereich - Vermeidung der Flächeninanspruchnahme (übergeordnetes Ziel der Bundesregierung)
 
-2 Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarung bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1).
+11 https://eur-lex.europa.eu/DE/legal-content/summary/general-block-exemption-regulation.html beziehungsweise https://eur-lex.europa.eu/eli/reg/2014/651/2021-08-01
 
-3  Unter Vorbehalt der Aktualisierung der Nationalen Rahmenregelung der Bundesrepublik Deutschland - ELER (NRR) 2014-2022.
+12 Maßgeschneiderte Infrastruktur, die ausschließlich auf die Bedürfnisse eines Unternehmens oder einer bestimmten Unternehmensgruppe ausgerichtet ist und so weit in Bezug auf diese individualisiert ist, dass ihre Nutzung durch andere nicht möglich ist. Eine gewidmete Infrastruktur ist damit ein Gegenpol zu Infrastrukturen, die der gesamten Bevölkerung (öffentliche Infrastruktur) oder einer großen Gruppe von Nutzern (frei zugängliche Infrastruktur) zugutekommen.
 
-4 Unter Vorbehalt der Änderung des Entwicklungsprogramms für den länd­lichen Raum in Brandenburg und Berlin für die Förderperiode 2014 - 2022.
+13 Hierzu zählen auch Einzelunternehmen.
