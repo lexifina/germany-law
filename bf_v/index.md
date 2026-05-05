@@ -1,7 +1,6 @@
 # Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 
 - [Eingangsformel](eingangsformel.md)
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Allgemeine Vorschriften und Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
 
@@ -31,10 +30,8 @@
 ## Teil 4 Förderung der beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes
 
 - [§ 15 Gegenstand der beruflichen Bildung](0015.md)
-- [§ 16 Durchführung der Förderung der beruflichen Bildung](0016.md)
 - [§ 17 Antragstellung](0017.md)
 - [§ 18 Persönliche Förderungsvoraussetzungen](0018.md)
-- [§ 19 Kosten der beruflichen Bildung](0019.md)
 - [§ 20 Lehrgangs- und Studiengebühren](0020.md)
 - [§ 21 Kosten für Ausbildungsmittel](0021.md)
 - [§ 22 (weggefallen)](0022.md)
@@ -53,8 +50,6 @@
 - [§ 32 Einarbeitungszuschuss](0032.md)
 - [§ 32a Lohnkostenzuschuss](0032a.md)
 - [§ 33 Erstattung von Kosten für Vorstellungsreisen](0033.md)
-- [§ 34 Berufsorientierungspraktika nach § 9 Absatz 2 des Soldatenversorgungsgesetzes](0034.md)
-- [§ 35 Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes](0035.md)
 - [§ 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen](0036.md)
 - [§ 36a Eingliederungsseminar nach § 9 Absatz 5 des Soldatenversorgungsgesetzes](0036a.md)
 - [§ 37 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung](0037.md)

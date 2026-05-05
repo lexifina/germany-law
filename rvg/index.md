@@ -1,6 +1,5 @@
 # Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
@@ -57,7 +56,6 @@
 - [§ 31a Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz](0031a.md)
 - [§ 31b Gegenstandswert bei Zahlungsvereinbarungen](0031b.md)
 - [§ 32 Wertfestsetzung für die Gerichtsgebühren](0032.md)
-- [§ 33 Wertfestsetzung für die Rechtsanwaltsgebühren](0033.md)
 
 ## Abschnitt 5 Außergerichtliche Beratung und Vertretung
 
@@ -105,7 +103,6 @@
 
 - [§ 59b Bekanntmachung von Neufassungen](0059b.md)
 - [§ 60 Übergangsvorschrift](0060.md)
-- [§ 61 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0061.md)
 - [§ 62 Verfahren nach dem Therapieunterbringungsgesetz](0062.md)
 - [Anlage 1 (zu § 2 Absatz 2)Vergütungsverzeichnis](anlage-1.md)
 - [Anlage 2 (zu § 13 Absatz 1 Satz 3)](anlage-2.md)

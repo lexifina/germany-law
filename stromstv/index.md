@@ -1,7 +1,6 @@
 # Verordnung zur Durchführung des Stromsteuergesetzes
 
 - [Eingangsformel](eingangsformel.md)
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## - Allgemeines
 
@@ -9,8 +8,6 @@
 
 ## - zu § 2 des Gesetzes
 
-- [§ 1a Versorger](0001a.md)
-- [§ 1b (weggefallen)](0001b.md)
 - [§ 1c Elektromobilität](0001c.md)
 
 ## - Zu § 2a des Gesetzes
@@ -20,28 +17,15 @@
 
 ## - zu § 4 des Gesetzes
 
-- [§ 2 Antrag auf Erlaubnis](0002.md)
-- [§ 3 Erteilung, Überprüfung und Erlöschen der Erlaubnis](0003.md)
-- [§ 4 Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers](0004.md)
 
 ## - zu § 8 des Gesetzes
 
 - [§ 5 Anmeldung der Steuer und Überprüfung](0005.md)
-- [§ 6 Vorauszahlungen](0006.md)
 - [§ 7 Mengenermittlung](0007.md)
 
 ## - Zu § 9 des Gesetzes
 
-- [§ 8 Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme](0008.md)
 - [§ 9 Erteilung, Überprüfung und Erlöschen der Erlaubnis](0009.md)
-- [§ 10 Allgemeine Erlaubnis](0010.md)
-- [§ 11 Pflichten des Erlaubnisinhabers](0011.md)
-- [§ 11a Zeitgleichheit, Mengenermittlung](0011a.md)
-- [§ 12 Strom zur Stromerzeugung](0012.md)
-- [§ 12a Steuerentlastung für Strom zur Stromerzeugung](0012a.md)
-- [§ 12b Anlagenbegriff und räumlicher Zusammenhang](0012b.md)
-- [§ 12c Steuerentlastung für Strom aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft](0012c.md)
-- [§ 12d Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen](0012d.md)
 - [§ 13 Verkehr mit Oberleitungsomnibussen oder Schienenbahnen](0013.md)
 - [§ 13a Differenzversteuerung](0013a.md)
 - [§ 14 Wasserfahrzeuge und Schifffahrt](0014.md)
@@ -49,17 +33,14 @@
 
 ## - Zu § 2 Nummer 3 bis 6 und den §§ 9a und 9b des Gesetzes
 
-- [§ 15 Zuordnung von Unternehmen](0015.md)
 - [§ 16 (weggefallen)](0016.md)
 - [§ 17 (weggefallen)](0017.md)
 
 ## - Zu § 9a des Gesetzes
 
-- [§ 17a Steuerentlastung für bestimmte Prozesse und Verfahren](0017a.md)
 
 ## - Zu § 9b des Gesetzes
 
-- [§ 17b Steuerentlastung für Unternehmen](0017b.md)
 - [§ 17c Verwendung von Nutzenergie durch andere Unternehmen](0017c.md)
 
 ## - Zu § 9c des Gesetzes
@@ -69,11 +50,9 @@
 
 ## - Zu § 9d des Gesetzes
 
-- [§ 17f Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)](0017f.md)
 
 ## - Zu § 9e des Gesetzes
 
-- [§ 17g Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)](0017g.md)
 
 ## - (weggefallen)
 
@@ -89,5 +68,3 @@
 - [§ 20 Ordnungswidrigkeiten](0020.md)
 
 ## - Schlussbestimmungen
-
-- [§ 21 Übergangsregelung](0021.md)

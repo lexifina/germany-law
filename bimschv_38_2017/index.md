@@ -6,7 +6,6 @@
 ## Teil 1 Allgemeine Bestimmungen
 
 - [§ 1 Anwendungsbereich](0001.md)
-- [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Teil 2 Berechnung der Treibhausgasemissionen und weitere Optionen zur Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen
 
@@ -19,8 +18,6 @@
 
 ### Abschnitt 2 Straßenfahrzeuge mit Elektroantrieb
 
-- [§ 5 Anrechnung von in Straßenfahrzeugen mit Elektroantrieb genutztem elektrischem Strom](0005.md)
-- [§ 6 Energetische Menge des elektrischen Stroms aus öffentlich zugänglichen Ladepunkten](0006.md)
 - [§ 7 Energetische Menge des elektrischen Stroms in anderen Fällen](0007.md)
 - [§ 8 Mitteilung der energetischen Menge](0008.md)
 - [§ 9 Nachweis durch den Verpflichteten](0009.md)

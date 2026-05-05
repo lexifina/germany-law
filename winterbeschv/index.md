@@ -4,7 +4,6 @@
 - [§ 1 Leistungen](0001.md)
 - [§ 2 Umlage](0002.md)
 - [§ 3 Höhe und Aufbringung der Umlage](0003.md)
-- [§ 3a Befristete Absenkung des Umlagesatzes im Baugewerbe](0003a.md)
 - [§ 4 Einzugsstellen](0004.md)
 - [§ 5 Zahlung](0005.md)
 - [§ 6 Melde- und Auskunftspflicht](0006.md)

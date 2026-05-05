@@ -177,8 +177,6 @@ Anpassung
 - [§ 60 Datenverarbeitung bei der landwirtschaftlichen Alterskasse](0060.md)
 - [§ 61 Versicherungskonto](0061.md)
 - [§ 61a Überprüfung von Beitragszuschüssen](0061a.md)
-- [§ 62 Dateisysteme der landwirtschaftlichen Sozialversicherung](0062.md)
-- [§ 63 Auskünfte der Deutschen Post AG](0063.md)
 - [§ 64 Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner](0064.md)
 - [§ 65 Verordnungsermächtigung](0065.md)
 

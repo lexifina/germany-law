@@ -34,7 +34,6 @@
 #### Unterabschnitt 1 Allgemeines
 
 - [§ 9 Ziel des Studiums](0009.md)
-- [§ 10 Dauer des Studiums](0010.md)
 - [§ 11 Gliederung des Studiums und Teilnahmepflicht](0011.md)
 
 #### Unterabschnitt 2 Module

@@ -1,6 +1,5 @@
 # Neunte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
 
-- [§ 1](0001.md)
 - [§ 2](0002.md)
 - [§ 3](0003.md)
 - [§ 4](0004.md)

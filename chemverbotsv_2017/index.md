@@ -8,8 +8,6 @@
 
 ## Abschnitt 2 Verbote und Beschränkungen
 
-- [§ 3 Verbote und Beschränkungen des Inverkehrbringens](0003.md)
-- [§ 4 Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006](0004.md)
 
 ## Abschnitt 3 Regelungen zur Abgabe
 

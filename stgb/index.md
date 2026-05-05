@@ -1,6 +1,5 @@
 # Strafgesetzbuch
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Allgemeiner Teil
 
@@ -14,8 +13,6 @@
 - [§ 2 Zeitliche Geltung](0002.md)
 - [§ 3 Geltung für Inlandstaten](0003.md)
 - [§ 4 Geltung für Taten auf deutschen Schiffen und Luftfahrzeugen](0004.md)
-- [§ 5 Auslandstaten mit besonderem Inlandsbezug](0005.md)
-- [§ 6 Auslandstaten gegen international geschützte Rechtsgüter](0006.md)
 - [§ 7 Geltung für Auslandstaten in anderen Fällen](0007.md)
 - [§ 8 Zeit der Tat](0008.md)
 - [§ 9 Ort der Tat](0009.md)
@@ -212,7 +209,6 @@ Sicherung
 - [§ 74f Grundsatz der Verhältnismäßigkeit](0074f.md)
 - [§ 75 Wirkung der Einziehung](0075.md)
 - [§ 76 Nachträgliche Anordnung der Einziehung des Wertersatzes](0076.md)
-- [§ 76a Selbständige Einziehung](0076a.md)
 - [§ 76b Verjährung der Einziehung von Taterträgen und des Wertes von Taterträgen](0076b.md)
 
 ### Vierter Abschnitt Strafantrag, Ermächtigung,
@@ -268,17 +264,12 @@ Rechtsstaates
 - [§ 86 Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen](0086.md)
 - [§ 86a Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen](0086a.md)
 - [§ 87 Agententätigkeit zu Sabotagezwecken](0087.md)
-- [§ 87a Ausübung fremder Einflussnahme und darauf gerichtete Agententätigkeit](0087a.md)
 - [§ 88 Verfassungsfeindliche Sabotage](0088.md)
 - [§ 89 Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane](0089.md)
-- [§ 89a Vorbereitung einer terroristischen Straftat; Versuch der Anstiftung und Androhung](0089a.md)
-- [§ 89b Aufnahme von Beziehungen zur Begehung einer terroristischen Straftat](0089b.md)
-- [§ 89c Terrorismusfinanzierung](0089c.md)
 - [§ 90 Verunglimpfung des Bundespräsidenten](0090.md)
 - [§ 90a Verunglimpfung des Staates und seiner Symbole](0090a.md)
 - [§ 90b Verfassungsfeindliche Verunglimpfung von Verfassungsorganen](0090b.md)
 - [§ 90c Verunglimpfung von Symbolen der Europäischen Union](0090c.md)
-- [§ 91 Anleitung zur Begehung einer terroristischen Straftat](0091.md)
 - [§ 91a Anwendungsbereich](0091a.md)
 
 #### Vierter Titel Gemeinsame Vorschriften
@@ -298,7 +289,6 @@ Rechtsstaates
 - [§ 97a Verrat illegaler Geheimnisse](0097a.md)
 - [§ 97b Verrat in irriger Annahme eines illegalen Geheimnisses](0097b.md)
 - [§ 98 Landesverräterische Agententätigkeit](0098.md)
-- [§ 99 Geheimdienstliche Agententätigkeit](0099.md)
 - [§ 100 Friedensgefährdende Beziehungen](0100.md)
 - [§ 100a Landesverräterische Fälschung](0100a.md)
 - [§ 101 Nebenfolgen](0101.md)
@@ -366,12 +356,9 @@ Landesverteidigung
 - [§ 124 Schwerer Hausfriedensbruch](0124.md)
 - [§ 125 Landfriedensbruch](0125.md)
 - [§ 125a Besonders schwerer Fall des Landfriedensbruchs](0125a.md)
-- [§ 126 Störung des öffentlichen Friedens durch Androhung von Straftaten](0126.md)
 - [§ 126a Gefährdendes Verbreiten personenbezogener Daten](0126a.md)
-- [§ 127 Betreiben krimineller Handelsplattformen im Internet](0127.md)
 - [§ 128 Bildung bewaffneter Gruppen](0128.md)
 - [§ 129 Bildung krimineller Vereinigungen](0129.md)
-- [§ 129a Bildung terroristischer Vereinigungen](0129a.md)
 - [§ 129b Kriminelle und terroristische Vereinigungen im Ausland; Einziehung](0129b.md)
 - [§ 130 Volksverhetzung](0130.md)
 - [§ 130a Anleitung zu Straftaten](0130a.md)
@@ -383,7 +370,6 @@ Landesverteidigung
 - [§ 135 (weggefallen)](0135.md)
 - [§ 136 Verstrickungsbruch; Siegelbruch](0136.md)
 - [§ 137 (weggefallen)](0137.md)
-- [§ 138 Nichtanzeige geplanter Straftaten](0138.md)
 - [§ 139 Straflosigkeit der Nichtanzeige geplanter Straftaten](0139.md)
 - [§ 140 Belohnung und Billigung von Straftaten](0140.md)
 - [§ 141 (weggefallen)](0141.md)
@@ -709,14 +695,9 @@ Straftaten
 - [§ 306e Tätige Reue](0306e.md)
 - [§ 306f Herbeiführen einer Brandgefahr](0306f.md)
 - [§ 307 Herbeiführen einer Explosion durch Kernenergie](0307.md)
-- [§ 308 Herbeiführen einer Sprengstoffexplosion](0308.md)
 - [§ 309 Mißbrauch ionisierender Strahlen](0309.md)
-- [§ 310 Vorbereitung eines Explosions- oder Strahlungsverbrechens](0310.md)
 - [§ 311 Freisetzen ionisierender Strahlen](0311.md)
 - [§ 312 Fehlerhafte Herstellung einer kerntechnischen Anlage](0312.md)
-- [§ 313 Herbeiführen einer Überschwemmung](0313.md)
-- [§ 314 Gemeingefährliche Vergiftung](0314.md)
-- [§ 314a Tätige Reue](0314a.md)
 - [§ 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr](0315.md)
 - [§ 315a Gefährdung des Bahn-, Schiffs- und Luftverkehrs](0315a.md)
 - [§ 315b Gefährliche Eingriffe in den Straßenverkehr](0315b.md)
@@ -732,7 +713,6 @@ Straftaten
 - [§ 318 Beschädigung wichtiger Anlagen](0318.md)
 - [§ 319 Baugefährdung](0319.md)
 - [§ 320 Tätige Reue](0320.md)
-- [§ 321 Führungsaufsicht](0321.md)
 - [§ 322 Einziehung](0322.md)
 - [§ 323 (weggefallen)](0323.md)
 - [§ 323a Vollrausch](0323a.md)

@@ -9,7 +9,6 @@
 - [§ 6 Bescheinigung](0006.md)
 - [§ 7 Kumulierung mit anderen Förderungen oder staatlichen Beihilfen](0007.md)
 - [§ 8 Begünstigungszeitraum](0008.md)
-- [§ 9 Anzuwendende Rechtsvorschriften der Europäischen Union](0009.md)
 - [§ 10 Festsetzung und Leistung der Forschungszulage](0010.md)
 - [§ 11 Verzinsung des Rückforderungsanspruchs](0011.md)
 - [§ 12 Anwendung der Abgabenordnung](0012.md)

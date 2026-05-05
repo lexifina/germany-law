@@ -250,7 +250,6 @@
 
 - [§ 151 Geltungsbereich](0151.md)
 - [§ 152 Feststellung der Behinderung, Ausweise](0152.md)
-- [§ 153 Verordnungsermächtigung](0153.md)
 - [§ 153a Sachverständigenbeirat, Verfahren](0153a.md)
 
 ### Kapitel 2 Beschäftigungspflicht der Arbeitgeber
@@ -290,7 +289,6 @@
 - [§ 177 Wahl und Amtszeit der Schwerbehindertenvertretung](0177.md)
 - [§ 178 Aufgaben der Schwerbehindertenvertretung](0178.md)
 - [§ 179 Persönliche Rechte und Pflichten der Vertrauenspersonen der schwerbehinderten Menschen](0179.md)
-- [§ 180 Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung](0180.md)
 - [§ 181 Inklusionsbeauftragter des Arbeitgebers](0181.md)
 - [§ 182 Zusammenarbeit](0182.md)
 - [§ 183 Verordnungsermächtigung](0183.md)

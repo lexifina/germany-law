@@ -18,10 +18,8 @@ Befugnisse
 - [§ 8 Antrag auf Beurkundung der Geburt oder des Todes eines Deutschen](0008.md)
 - [§ 9 Überführung Verstorbener und Nachlaßfürsorge](0009.md)
 - [§ 9a ...](0009a.md)
-- [§ 10 Beurkundungen im allgemeinen](0010.md)
 - [§ 11 Besonderheiten für Verfügungen von Todes wegen](0011.md)
 - [§ 12 Entgegennahme von Erklärungen](0012.md)
-- [§ 13 Legalisation ausländischer öffentlicher Urkunden](0013.md)
 - [§ 14 Bestätigung der Echtheit inländischer öffentlicher Urkunden](0014.md)
 - [§ 15 Vernehmungen und Anhörungen](0015.md)
 - [§ 16 Zustellungen](0016.md)
@@ -48,7 +46,6 @@ Befugnisse
 - [§ 25c Wertgebühren](0025c.md)
 - [§ 25d Zuschläge](0025d.md)
 - [§ 25e Auslagen](0025e.md)
-- [§ 26 Erstattungsansprüche bei Amtshilfe](0026.md)
 
 ## 6. Abschnitt Übergangs- und Schlußvorschriften
 

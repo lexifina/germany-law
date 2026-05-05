@@ -1,32 +1,22 @@
 # Gesetz über den Zivildienst der Kriegsdienstverweigerer
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Aufgaben und Organisation des Zivildienstes
 
 - [§ 1 Aufgaben des Zivildienstes](0001.md)
-- [§ 1a Anwendung dieses Gesetzes](0001a.md)
-- [§ 2 Organisation des Zivildienstes](0002.md)
-- [§ 2a Beirat für den Zivildienst](0002a.md)
 - [§ 3 Dienststellen](0003.md)
-- [§ 4 Anerkennung von Beschäftigungsstellen](0004.md)
-- [§ 5 Aufstellung der Dienstgruppen](0005.md)
 - [§ 5a Übertragung von Verwaltungsaufgaben](0005a.md)
-- [§ 6 Kosten](0006.md)
 
 ## Abschnitt 2 Tauglichkeit, Zivildienstausnahmen
 
 - [§ 7 Tauglichkeit](0007.md)
 - [§ 8 Zivildienstunfähigkeit](0008.md)
 - [§ 9 Ausschluss vom Zivildienst](0009.md)
-- [§ 10 Befreiung vom Zivildienst](0010.md)
 - [§ 11 Zurückstellung vom Zivildienst](0011.md)
-- [§ 12 Befreiungs- und Zurückstellungsanträge](0012.md)
 - [§ 13 Verfahren bei der Zurückstellung](0013.md)
 - [§ 14 Zivilschutz oder Katastrophenschutz](0014.md)
 - [§ 14a Entwicklungsdienst](0014a.md)
 - [§ 14b Andere Dienste im Ausland](0014b.md)
-- [§ 14c Freiwilligendienst](0014c.md)
 - [§ 15 Sondervorschriften für Angehörige des Polizeivollzugsdienstes](0015.md)
 - [§ 15a Freies Arbeitsverhältnis](0015a.md)
 - [§ 16 Unabkömmlichstellung](0016.md)
@@ -35,13 +25,10 @@
 
 ## Abschnitt 3 Heranziehung zum Zivildienst
 
-- [§ 19 Einberufung](0019.md)
 - [§ 19a Verlegung des ständigen Aufenthaltes](0019a.md)
 - [§ 20 Vernehmung von Zeuginnen, Zeugen und Sachverständigen](0020.md)
 - [§ 21 Widerruf des Einberufungsbescheides](0021.md)
 - [§ 22 Anrechnung anderen Dienstes](0022.md)
-- [§ 22a Anrechnung von Wehr- und Zivildienst anderer Staaten](0022a.md)
-- [§ 23 Zivildienstüberwachung](0023.md)
 - [§ 23a Zuführung](0023a.md)
 
 ## Abschnitt 4 Rechtsstellung der Dienstpflichtigen
@@ -49,11 +36,9 @@
 - [§ 24 Dauer des Zivildienstes](0024.md)
 - [§ 25 Beginn des Zivildienstes](0025.md)
 - [§ 25a Einweisung in der Dienststelle](0025a.md)
-- [§ 25b Einführung und Begleitung](0025b.md)
 - [§ 25c Staatsbürgerliche Rechte](0025c.md)
 - [§ 26 Achtung der demokratischen Grundordnung](0026.md)
 - [§ 27 Grundpflichten](0027.md)
-- [§ 28 Verschwiegenheit](0028.md)
 - [§ 29 Politische Betätigung](0029.md)
 - [§ 30 Dienstliche Anordnungen](0030.md)
 - [§ 30a Pflichten der Vorgesetzten](0030a.md)
@@ -62,14 +47,10 @@
 - [§ 32a Verwendung bei Arbeitskämpfen](0032a.md)
 - [§ 33 Nebentätigkeit](0033.md)
 - [§ 34 Haftung](0034.md)
-- [§ 35 Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub](0035.md)
-- [§ 36 Personalakten und Beurteilungen](0036.md)
 - [§ 36a (weggefallen)](0036a.md)
 - [§ 37 Beteiligung der Dienstleistenden](0037.md)
 - [§ 38 Seelsorge](0038.md)
 - [§ 39 Ärztliche Untersuchung](0039.md)
-- [§ 40 Erhaltung der Gesundheit; ärztliche Eingriffe](0040.md)
-- [§ 41 Anträge und Beschwerden](0041.md)
 - [§ 41a Freiwilliger zusätzlicher Zivildienst](0041a.md)
 
 ## Abschnitt 5 Ende des Zivildienstes; Versorgung
@@ -78,7 +59,6 @@
 - [§ 43 Entlassung](0043.md)
 - [§ 44 Zeitpunkt der Beendigung des Zivildienstes](0044.md)
 - [§ 45 Ausschluss](0045.md)
-- [§ 45a Mitteilungen in Strafsachen](0045a.md)
 - [§ 46 Dienstzeitbescheinigung und Dienstzeugnis](0046.md)
 - [§ 47 (weggefallen)](0047.md)
 - [§ 47a (weggefallen)](0047a.md)
@@ -129,7 +109,6 @@
 
 ## Abschnitt 8 Schlussvorschriften
 
-- [§ 78 Entsprechende Anwendung weiterer Rechtsvorschriften](0078.md)
 - [§ 79 Vorschriften für den Spannungs- oder Verteidigungsfall](0079.md)
 - [§ 80 Einschränkung von Grundrechten](0080.md)
 - [§ 81 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0081.md)

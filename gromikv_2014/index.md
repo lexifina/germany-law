@@ -8,7 +8,6 @@
 
 ### Kapitel 1 Ausnahmen von der Anwendung der Obergrenze für Großkredite
 
-- [§ 1 Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013](0001.md)
 - [§ 2 Weitere Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten](0002.md)
 - [§ 2a Gleichzeitige Anwendung von mehreren Ausnahmen auf eine Risikoposition](0002a.md)
 

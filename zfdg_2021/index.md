@@ -1,6 +1,5 @@
 # Gesetz über das Zollkriminalamt und die Zollfahndungsämter
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Kapitel 1 Organisation
 
@@ -9,7 +8,6 @@
 
 ## Kapitel 2 Aufgaben
 
-- [§ 3 Aufgaben des Zollkriminalamtes als Zentralstelle](0003.md)
 - [§ 4 Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt](0004.md)
 - [§ 5 Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch die Zollfahndungsämter](0005.md)
 - [§ 6 Behördlicher Eigenschutz](0006.md)
@@ -25,10 +23,6 @@
 
 - [§ 8 Allgemeine Datenverarbeitung](0008.md)
 - [§ 9 Befragung und Auskunftspflicht](0009.md)
-- [§ 10 Bestandsdatenauskunft](0010.md)
-- [§ 11 Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen](0011.md)
-- [§ 12 Daten zu anderen Personen](0012.md)
-- [§ 13 Daten zur Beobachtung bestimmter Verkehre](0013.md)
 - [§ 14 Daten für Zwecke der Ausschreibung](0014.md)
 - [§ 14a Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle](0014a.md)
 - [§ 15 Zollfahndungsinformationssystem](0015.md)
@@ -40,19 +34,7 @@
 
 #### Unterabschnitt 2 Datenübermittlung durch die Zentralstelle
 
-- [§ 21 Datenübermittlung im innerstaatlichen Bereich](0021.md)
 - [§ 22 Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union](0022.md)
-- [§ 22a Datenübermittlung im internationalen Bereich](0022a.md)
-- [§ 23 Übermittlungsverbote und Verweigerungsgründe](0023.md)
-
-#### Unterabschnitt 3 Ausgehende Ersuchen des Zollkriminalamtes als benannte Strafverfolgungsbehörde nach Artikel 2 Absatz 2 der Richtlinie (EU) 2023/977
-
-- [§ 24 Ersuchen an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union um Übermittlung von Informationen einschließlich personenbezogener Daten](0024.md)
-- [§ 24a Ersuchen um Informationsübermittlung an Schengen-assoziierte Staaten](0024a.md)
-
-#### Unterabschnitt 4 Steuerungsbefugnis der Zentralstelle
-
-- [§ 25 Übermittlungsverbote und Verweigerungsgründe](0025.md)
 
 ### Abschnitt 2 Befugnisse der Behörden des Zollfahndungsdienstes bei der Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten sowie im Rahmen von Sicherungs- und Schutzmaßnahmen
 
@@ -117,7 +99,6 @@
 
 #### Unterabschnitt 7 Datenübermittlung durch die Behörden des Zollfahndungsdienstes
 
-- [§ 65 Datenübermittlung im innerstaatlichen Bereich](0065.md)
 - [§ 66 Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union](0066.md)
 - [§ 67 Datenübermittlung im internationalen Bereich](0067.md)
 - [§ 68 Übermittlungsverbote und Verweigerungsgründe](0068.md)
@@ -140,7 +121,6 @@
 - [§ 73 Kernbereich privater Lebensgestaltung](0073.md)
 - [§ 74 Gerichtliche Anordnung und Zuständigkeit](0074.md)
 - [§ 75 Verarbeitungs- und Durchführungsvorschriften](0075.md)
-- [§ 76 Übermittlung von personenbezogenen Daten durch das Zollkriminalamt](0076.md)
 - [§ 77 Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten](0077.md)
 - [§ 78 Identifizierung und Lokalisierung von Mobilfunkkarten und Telekommunikationsendgeräten](0078.md)
 - [§ 79 Verschwiegenheitspflicht](0079.md)

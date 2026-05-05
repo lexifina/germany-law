@@ -24,13 +24,11 @@ für Meldungen der Arbeitgeber
 - [§ 11 Meldung von einmalig gezahltem Arbeitsentgelt](0011.md)
 - [§ 11a Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen](0011a.md)
 - [§ 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle](0011b.md)
-- [§ 12 Sonstige Meldungen](0012.md)
 - [§ 13 Meldungen für geringfügig Beschäftigte](0013.md)
 
 ### Zweiter Unterabschnitt Korrektur von Meldungen
 
 - [§ 14 Stornierung](0014.md)
-- [§ 15 Korrektur von Meldungen durch die Einzugsstellen](0015.md)
 
 ## Dritter Abschnitt Meldungen der Arbeitgeber
 durch Datenübertragung
@@ -45,7 +43,6 @@ durch Datenübertragung
 
 - [§ 18 (weggefallen)](0018.md)
 - [§ 19 Antrag](0019.md)
-- [§ 20 Systemprüfung](0020.md)
 - [§ 21 Zulassungsbescheid](0021.md)
 - [§ 22 Gemeinsame Grundsätze](0022.md)
 - [§ 22a Testverfahren](0022a.md)
@@ -54,7 +51,6 @@ durch Datenübertragung
 
 - [§ 23 Annahmestelle, Zeitpunkt](0023.md)
 - [§ 24 (weggefallen)](0024.md)
-- [§ 25 (weggefallen)](0025.md)
 
 ## Vierter Abschnitt Beitragsnachweisverfahren
 
@@ -75,18 +71,10 @@ der Meldungen durch die Sozialversicherungsträger
 - [§ 35 (weggefallen)](0035.md)
 - [§ 36 Aufgaben der Datenstelle der Rentenversicherung](0036.md)
 - [§ 37 (weggefallen)](0037.md)
-
-## Siebter Abschnitt Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes, Zeiten einer besonderen Auslandsverwendung und Zeiten des Bezugs von Übergangsgebührnissen
-
-- [§ 38 Entgeltersatzleistungen](0038.md)
 - [§ 39 Anrechnungszeiten, Sperrzeiten](0039.md)
-- [§ 40 Zeiten des Wehr- und Zivildienstes](0040.md)
-- [§ 40a Zeiten einer besonderen Auslandsverwendung](0040a.md)
-- [§ 40b Zeiten des Bezuges von Übergangsgebührnissen](0040b.md)
 
 ## Achter Abschnitt Ordnungswidrigkeiten
 
-- [§ 41 (weggefallen)](0041.md)
 
 ## Neunter Abschnitt Beitragsnachweisverfahren für sonstige Beiträge
 

@@ -4,7 +4,6 @@
 
 ## Teil 1 Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes
 
-- [§ 1 Aufgaben mit vergleichbarer Sicherheitsempfindlichkeit](0001.md)
 
 ## Teil 2 Feststellung der lebens- oder verteidigungswichtigen Einrichtungen im Sinne des § 1 Absatz 4 des Sicherheitsüberprüfungsgesetzes
 

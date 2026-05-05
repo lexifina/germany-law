@@ -73,7 +73,6 @@
 
 ## Abschnitt 6 Schlussbestimmungen
 
-- [§ 40 Übergangsregelungen](0040.md)
 - [§ 41 Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union](0041.md)
 - [§ 42 Evaluierung](0042.md)
 - [§ 43 Inkrafttreten](0043.md)

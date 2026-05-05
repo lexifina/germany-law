@@ -5,7 +5,6 @@
 
 ## Abschnitt 1 Organisation, Befugnisse
 
-- [§ 1 Leitung, Aufsicht, Übertragung von Verordnungsermächtigungen](0001.md)
 - [§ 2 Prüfungsstellen und Patentabteilungen](0002.md)
 - [§ 3 Gebrauchsmusterstelle und Gebrauchsmusterabteilungen](0003.md)
 - [§ 4 Topografiestelle und Topografieabteilung](0004.md)

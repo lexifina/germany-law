@@ -1,7 +1,6 @@
 # Anlegerentschädigungsgesetz
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Sicherungspflicht der Institute](0002.md)
 - [§ 3 Entschädigungsanspruch](0003.md)
 - [§ 4 Umfang des Entschädigungsanspruchs](0004.md)

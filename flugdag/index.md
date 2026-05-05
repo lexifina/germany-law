@@ -12,7 +12,6 @@
 
 ## Abschnitt 3 Verarbeitung von Fluggastdaten durch die Fluggastdatenzentralstelle
 
-- [§ 4 Voraussetzungen für die Datenverarbeitung](0004.md)
 - [§ 5 Depersonalisierung von Daten](0005.md)
 
 ## Abschnitt 4 Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle

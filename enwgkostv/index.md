@@ -6,4 +6,3 @@
 - [§ 3 Übergangsregelung](0003.md)
 - [§ 4 Inkrafttreten](0004.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage (zu § 2)Gebührenverzeichnis](anlage.md)

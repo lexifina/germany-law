@@ -1,7 +1,6 @@
 # Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 
 - [Eingangsformel](eingangsformel.md)
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Pensionsfonds
 
@@ -33,7 +32,6 @@
 ### Kapitel 4 Anlagen
 
 - [§ 16 Anlagegrundsätze und Anlagemanagement](0016.md)
-- [§ 17 Anlageformen](0017.md)
 - [§ 18 Mischung](0018.md)
 - [§ 19 Streuung](0019.md)
 - [§ 20 Kongruenz](0020.md)
@@ -51,20 +49,14 @@
 - [§ 26 Mindestkapitalanforderung und Mindestbetrag der Mindestkapitalanforderung](0026.md)
 - [§ 27 Eigenmittel](0027.md)
 - [§ 28 Berichtspflicht gegenüber der Aufsichtsbehörde](0028.md)
-
-### Kapitel 7 Lebenslange Zahlungen und Raten einer Kapitalzahlung im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
-
 - [§ 29 Anfängliche Höhe der lebenslangen Zahlung](0029.md)
 - [§ 30 Mindesthöhe der lebenslangen Zahlung](0030.md)
 - [§ 31 Anpassung der lebenslangen Zahlungen](0031.md)
-- [§ 31a Kapitalzahlung in Raten](0031a.md)
-- [§ 32 Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe](0032.md)
 
 ## Teil 2 Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 
 - [§ 33 Anwendungsbereich](0033.md)
 - [§ 34 Vermögensanlage](0034.md)
-- [§ 35 Deckungsrückstellung](0035.md)
 - [§ 36 Kapitaldeckungsgrad](0036.md)
 - [§ 37 Anfängliche Höhe der lebenslangen Zahlung](0037.md)
 - [§ 38 Anpassung der lebenslangen Zahlungen](0038.md)

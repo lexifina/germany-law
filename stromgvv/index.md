@@ -1,11 +1,9 @@
 # Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Elektrizität aus dem Niederspannungsnetz
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Allgemeine Bestimmungen
 
 - [§ 1 Anwendungsbereich, Begriffsbestimmungen](0001.md)
-- [§ 2 Vertragsschluss](0002.md)
 - [§ 3 Ersatzversorgung](0003.md)
 
 ## Teil 2 Versorgung
@@ -36,11 +34,8 @@ Mitteilungspflichten](0007.md)
 
 ## Teil 5 Beendigung des Grundversorgungsverhältnisses
 
-- [§ 19 Unterbrechung der Versorgung in besonderen Fällen](0019.md)
 - [§ 20 Kündigung](0020.md)
-- [§ 21 Fristlose Kündigung](0021.md)
 
 ## Teil 6 Schlussbestimmungen
 
 - [§ 22 Gerichtsstand](0022.md)
-- [§ 23 (weggefallen)](0023.md)

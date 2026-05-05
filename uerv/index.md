@@ -20,7 +20,6 @@
 
 ### Abschnitt 1 Antragsstellung, Zustimmung, Sicherheitsleistung
 
-- [§ 7 Antrag auf Zustimmung](0007.md)
 - [§ 8 Projektdokumentation](0008.md)
 - [§ 9 Überwachungsplan](0009.md)
 - [§ 10 Erteilung der Zustimmung](0010.md)
@@ -56,7 +55,6 @@
 - [§ 28 Entwertungskonto](0028.md)
 - [§ 29 Ausbuchungskonto](0029.md)
 - [§ 30 Kontobevollmächtigte Personen](0030.md)
-- [§ 31 Kontosperrung](0031.md)
 
 ### Abschnitt 4 Validierungsstellen und Verifizierungsstellen
 

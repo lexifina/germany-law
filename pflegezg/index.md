@@ -1,7 +1,6 @@
 # Gesetz über die Pflegezeit
 
 - [§ 1 Ziel des Gesetzes](0001.md)
-- [§ 2 Kurzzeitige Arbeitsverhinderung](0002.md)
 - [§ 3 Pflegezeit und sonstige Freistellungen](0003.md)
 - [§ 4 Dauer der Inanspruchnahme](0004.md)
 - [§ 4a Erneute Pflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie](0004a.md)

@@ -1,6 +1,5 @@
 # Gesetz zum Schutz der Kulturpflanzen
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Bestimmungen
 
@@ -20,7 +19,6 @@
 
 - [§ 9 Persönliche Anforderungen](0009.md)
 - [§ 10 Anzeige bei Beratung und Anwendung](0010.md)
-- [§ 11 Aufzeichnungspflichten](0011.md)
 
 ## Abschnitt 4 Anwendung von Pflanzenschutzmitteln
 
@@ -33,7 +31,6 @@
 - [§ 18 Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen](0018.md)
 - [§ 19 Ausbringung oder Verwendung von mit Pflanzenschutzmitteln behandeltem Saatgut, Pflanzgut oder Kultursubstrat](0019.md)
 - [§ 20 Versuchszwecke](0020.md)
-- [§ 21 Erhebung von Daten über die Anwendung von Pflanzenschutzmitteln](0021.md)
 - [§ 22 Weitergehende Länderbefugnisse](0022.md)
 
 ## Abschnitt 5 Abgabe, Rückgabe und Ausfuhr von Pflanzenschutzmitteln
@@ -100,7 +97,6 @@
 ## Abschnitt 12 Auskunfts- und Meldepflichten, Übermittlung von Daten, Geheimhaltung
 
 - [§ 63 Auskunftspflicht](0063.md)
-- [§ 64 Meldepflicht](0064.md)
 - [§ 65 Geheimhaltung](0065.md)
 - [§ 66 Übermittlung von Daten](0066.md)
 - [§ 67 Außenverkehr](0067.md)

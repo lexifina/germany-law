@@ -47,7 +47,6 @@
 
 - [§ 23 Allgemeines](0023.md)
 - [§ 24 Besondere Zuordnungsregelungen](0024.md)
-- [§ 25 Dotationskapital inländischer Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht](0025.md)
 - [§ 26 Dotationskapital ausländischer Versicherungsbetriebsstätten inländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht](0026.md)
 - [§ 27 Zuordnung von Einkünften aus Vermögenswerten](0027.md)
 - [§ 28 Rückversicherung innerhalb eines Unternehmens](0028.md)

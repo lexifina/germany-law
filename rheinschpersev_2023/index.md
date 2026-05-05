@@ -2,11 +2,9 @@
 
 - [§ 1 Inkraftsetzung](0001.md)
 - [§ 2 Anwendung der Binnenschiffspersonalverordnung](0002.md)
-- [§ 3 Ausnahmen von der Patentpflicht; Befreiungen](0003.md)
 - [§ 4 Zuständige Behörden](0004.md)
 - [§ 5 Zuständigkeit für die Durchführung von Tauglichkeitsuntersuchungen](0005.md)
 - [§ 6 Befähigungszeugnisse](0006.md)
-- [§ 7 Ausbildungsprogramme, Lehrgänge, Prüfungen, Sicherheitsausbildung](0007.md)
 - [§ 8 Pflichten der Eigentümer, Ausrüster, Schiffsführer und Besatzungsmitglieder](0008.md)
 - [§ 9 Ordnungswidrigkeiten](0009.md)
 - [§ 10 Übergangsbestimmungen für Tauglichkeitsuntersuchungen](0010.md)

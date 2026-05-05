@@ -8,9 +8,7 @@
 ### Kapitel 1 Allgemeine Bestimmungen für Teile I, II und III
 
 - [§ 1.01 Geltungsbereich](0001-01.md)
-- [§ 1.02 Begriffsbestimmungen](0001-02.md)
 - [§ 1.03 Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt](0001-03.md)
-- [§ 1.04 Dienstanweisungen](0001-04.md)
 - [§ 1.05 Überwachung](0001-05.md)
 - [§ 1.06 Evaluierung](0001-06.md)
 
@@ -27,20 +25,16 @@
 #### Kapitel 3 Allgemeine Bestimmungen
 
 - [§ 3.01 Bezeichnung der Funktionen](0003-01.md)
-- [§ 3.02 Geltung von Besatzungsdokumenten](0003-02.md)
 - [§ 3.03 Ersatzausfertigung](0003-03.md)
 - [§ 3.04 Kosten](0003-04.md)
 
 #### Kapitel 4 Tauglichkeit
 
 - [§ 4.01 Tauglichkeit der Besatzungsmitglieder](0004-01.md)
-- [§ 4.02 Regelmäßige Überprüfung der Tauglichkeit](0004-02.md)
 - [§ 4.03 Tauglichkeit des Maschinisten](0004-03.md)
 
 #### Kapitel 5 Schifferdienstbuch und Fahrzeiten
 
-- [§ 5.01 Schifferdienstbuch](0005-01.md)
-- [§ 5.02 Nachweis von Fahrzeiten und Streckenfahrten](0005-02.md)
 
 #### Kapitel 6 Zugelassene Ausbildungsprogramme
 
@@ -76,7 +70,6 @@
 
 #### Kapitel 11 Patentpflicht und Patentarten
 
-- [§ 11.01 Patentpflicht](0011-01.md)
 - [§ 11.02 Patentarten](0011-02.md)
 
 #### Kapitel 12 Erwerb der Patente
@@ -86,13 +79,11 @@
 - [§ 12.03 Behördenpatent](0012-03.md)
 - [§ 12.04 Antrag auf Zulassung zur behördlichen Befähigungsprüfung](0012-04.md)
 - [§ 12.05 Befreiungen und Erleichterungen bei der Prüfung](0012-05.md)
-- [§ 12.06 Prüfung im Rahmen eines zugelassenen Ausbildungsprogramms](0012-06.md)
 - [§ 12.07 Gültigkeit und Ausstellung der Befähigungszeugnisse als Schiffsführer](0012-07.md)
 - [§ 12.08 Vorläufiges Rheinpatent](0012-08.md)
 
 #### Kapitel 13 Erwerb der Besonderen Berechtigungen
 
-- [§ 13.01 Besondere Berechtigungen](0013-01.md)
 - [§ 13.02 Besondere Berechtigung für Radarfahrten](0013-02.md)
 - [§ 13.03 Besondere Berechtigung für das Befahren von Wasserstraßen, die als Binnenwasserstraßenabschnitte mit besonderen Risiken ausgewiesen sind](0013-03.md)
 - [§ 13.04 Besondere Berechtigung für das Befahren von Binnenwasserstraßen mit maritimen Charakter](0013-04.md)
@@ -108,7 +99,6 @@
 
 #### Kapitel 15 Sicherheitspersonal auf mit Flüssigerdgas (LNG) betriebenen Fahrzeugen
 
-- [§ 15.01 Sachkunde und Einweisung](0015-01.md)
 - [§ 15.02 Befähigungszeugnis](0015-02.md)
 - [§ 15.03 Lehrgang und Prüfung](0015-03.md)
 - [§ 15.04 Zulassung von Lehrgängen](0015-04.md)
@@ -118,15 +108,11 @@
 #### Kapitel 16 Sicherheitspersonal auf Fahrgastschiffen
 
 - [§ 16.01 Sicherheitspersonal auf Fahrgastschiffen](0016-01.md)
-- [§ 16.02 Erwerb des Befähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt](0016-02.md)
-- [§ 16.03 Prüfung für Sachkundige für die Fahrgastschifffahrt](0016-03.md)
-- [§ 16.04 Lehrgang für Sachkundige für die Fahrgastschifffahrt](0016-04.md)
 - [§ 16.05 Zulassung von Lehrgängen für Sachkundige](0016-05.md)
 - [§ 16.06 Kriterien zur Zulassung von Lehrgängen](0016-06.md)
 - [§ 16.07 Ersthelfer](0016-07.md)
 - [§ 16.08 Atemschutzgeräteträger](0016-08.md)
 - [§ 16.09 Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger](0016-09.md)
-- [§ 16.10 Nachweise der Befähigung](0016-10.md)
 - [§ 16.11 Anzahl des Sicherheitspersonals](0016-11.md)
 - [§ 16.12 Pflichten des Schiffsführers und des Sachkundigen](0016-12.md)
 - [§ 16.13 Aufsicht](0016-13.md)
@@ -136,7 +122,6 @@
 
 ### Kapitel 17 Allgemeines
 
-- [§ 17.01 Allgemeines](0017-01.md)
 - [§ 17.02 Gleichwertigkeit und Abweichungen](0017-02.md)
 
 ### Kapitel 18 Betriebsformen, Mindestruhezeit, Bordbuch
@@ -144,7 +129,6 @@
 - [§ 18.01 Betriebsformen](0018-01.md)
 - [§ 18.02 Mindestruhezeit](0018-02.md)
 - [§ 18.03 Wechsel oder Wiederholung der Betriebsform](0018-03.md)
-- [§ 18.04 Bordbuch – Fahrtenschreiber](0018-04.md)
 
 ### Kapitel 19 Mindestbesatzungen an Bord
 
@@ -154,7 +138,6 @@
 - [§ 19.04 Mindestbesatzung der Fahrgastschiffe](0019-04.md)
 - [§ 19.05 Nichterfüllung des Ausrüstungsstandards nach § 19.01](0019-05.md)
 - [§ 19.06 Mindestbesatzung der übrigen Fahrzeuge](0019-06.md)
-- [§ 19.07 Mindestbesatzung von Seeschiffen](0019-07.md)
 - [§ 19.08 Mindestbesatzung von Kanalpenichen](0019-08.md)
 - [§ 19.09 Mindestbesatzung von Sportfahrzeugen](0019-09.md)
 - [§ 19.10 Ausnahme](0019-10.md)
@@ -164,22 +147,13 @@
 
 ### Kapitel 20 Übergangsbestimmungen
 
-- [§ 20.01 Gültigkeit der Schifferdienstbücher](0020-01.md)
-- [§ 20.02 Gültigkeit der Bordbücher](0020-02.md)
-- [§ 20.03 Gültigkeit der bisherigen Rheinpatente](0020-03.md)
 - [§ 20.04 Gültigkeit der Behörden- und Sportpatente](0020-04.md)
 - [§ 20.05 Gültigkeit der bisherigen Streckenkunde](0020-05.md)
-- [§ 20.06 Gültigkeit der bisherigen Streckenzeugnisse](0020-06.md)
-- [§ 20.07 Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter](0020-07.md)
-- [§ 20.08 Gültigkeit von Zeugnissen nach dem STCW-Übereinkommen](0020-08.md)
-- [§ 20.09 Gültigkeit der Radarpatente](0020-09.md)
 - [§ 20.10 Gültigkeit der Qualifikation als Sicherheitspersonal auf Fahrgastschiffen oder als Sachkundiger für LNG](0020-10.md)
 - [§ 20.11 Anrechnung von Fahrzeiten](0020-11.md)
-- [Anlage 1 Tauglichkeitsnachweis in der Binnenschifffahrt (Muster)](anlage-1.md)
 - [Anlage 2 Prüfungsprogramm für den Erwerb eines Sportpatentes und Behördenpatentes](anlage-2.md)
 - [Anlage 3 Sportpatent](anlage-3.md)
 - [Anlage 4 Behördenpatent](anlage-4.md)
-- [Anlage 5 Besonderheiten für das Befahren von Abschnitten des Rheins, die als Binnenwasserstraßenabschnitte mit besonderen Risiken ausgewiesen wurden](anlage-5.md)
 - [Anlage 6 Bescheinigung Ersthelfer in der Fahrgastschifffahrt (Muster)](anlage-6.md)
 - [Anlage 7 Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt (Muster)](anlage-7.md)
 - [Anlage 8 Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 18.03 Nummer 2 bis 6 (Muster)](anlage-8.md)

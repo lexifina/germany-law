@@ -103,7 +103,6 @@
 
 ### Kapitel 4 Aufsicht und Prüfungsrechte
 
-- [§ 50 Aufsicht über Einlagensicherungssysteme](0050.md)
 - [§ 51 Prüfung durch die Bundesanstalt](0051.md)
 - [§ 52 Prüfung der Einlagensicherungssysteme](0052.md)
 - [§ 53 Prüfungsbericht](0053.md)

@@ -7,7 +7,6 @@ anderen Verstößen
 - [§ 1 Unterlassungs- und Widerrufsanspruch
 bei Allgemeinen Geschäftsbedingungen](0001.md)
 - [§ 1a Unterlassungsanspruch wegen der Beschränkung der Haftung bei Zahlungsverzug](0001a.md)
-- [§ 2 Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken](0002.md)
 - [§ 2a Unterlassungsanspruch bei Verstößen innerhalb der Europäischen Union](0002a.md)
 - [§ 2b Unterlassungsanspruch nach dem Urheberrechtsgesetz](0002b.md)
 - [§ 2c Missbräuchliche Geltendmachung von Ansprüchen](0002c.md)
@@ -54,7 +53,6 @@ bei Allgemeinen Geschäftsbedingungen](0001.md)
 
 ## Abschnitt 5 Außergerichtliche Schlichtung
 
-- [§ 14 Schlichtungsverfahren und Verordnungsermächtigung](0014.md)
 
 ## Abschnitt 6 Anwendungsbereich
 

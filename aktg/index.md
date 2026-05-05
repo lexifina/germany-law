@@ -15,7 +15,6 @@
 - [§ 5 Sitz](0005.md)
 - [§ 6 Grundkapital](0006.md)
 - [§ 7 Mindestnennbetrag des Grundkapitals](0007.md)
-- [§ 8 Form und Mindestbeträge der Aktien](0008.md)
 - [§ 9 Ausgabebetrag der Aktien](0009.md)
 - [§ 10 Aktien und Zwischenscheine](0010.md)
 - [§ 11 Aktien besonderer Gattung](0011.md)

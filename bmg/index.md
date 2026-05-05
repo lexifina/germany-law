@@ -6,7 +6,6 @@
 
 - [§ 1 Meldebehörden](0001.md)
 - [§ 2 Aufgaben und Befugnisse der Meldebehörden](0002.md)
-- [§ 3 Speicherung von Daten](0003.md)
 - [§ 4 Ordnungsmerkmale](0004.md)
 - [§ 5 Zweckbindung der Daten](0005.md)
 - [§ 6 Richtigkeit und Vollständigkeit des Melderegisters](0006.md)
@@ -57,14 +56,12 @@
 - [§ 34 Datenübermittlungen an andere öffentliche Stellen](0034.md)
 - [§ 34a Personensuche und freie Suche im automatisierten Abruf](0034a.md)
 - [§ 35 Datenübermittlungen an ausländische Stellen](0035.md)
-- [§ 36 Regelmäßige Datenübermittlungen](0036.md)
 - [§ 37 Datenweitergabe](0037.md)
 - [§ 38 Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen](0038.md)
 - [§ 39 Verfahren des automatisierten Abrufs](0039.md)
 - [§ 39a Datenbestätigung für öffentliche Stellen](0039a.md)
 - [§ 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung](0040.md)
 - [§ 41 Zweckbindung übermittelter Daten und Hinweise](0041.md)
-- [§ 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften](0042.md)
 - [§ 43 (weggefallen)](0043.md)
 
 ### Unterabschnitt 2 Melderegisterauskunft
@@ -76,7 +73,6 @@
 - [§ 48 Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten](0048.md)
 - [§ 49 Automatisierte Melderegisterauskunft](0049.md)
 - [§ 49a Datenbestätigung](0049a.md)
-- [§ 50 Melderegisterauskünfte in besonderen Fällen](0050.md)
 - [§ 51 Auskunftssperren](0051.md)
 - [§ 52 Bedingter Sperrvermerk](0052.md)
 

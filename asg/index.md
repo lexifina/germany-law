@@ -1,6 +1,5 @@
 # Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 - [Eingangsformel](eingangsformel.md)
 
 ## Erster Abschnitt Grundsätzliche Vorschriften
@@ -9,9 +8,7 @@
 - [§ 2 Maßnahmen der Sicherstellung von Arbeitsleistungen](0002.md)
 - [§ 3 Voraussetzungen für die Sicherstellung von
 Arbeitsleistungen](0003.md)
-- [§ 4 Anwendungsbereich](0004.md)
 - [§ 5 Befreiungen](0005.md)
-- [§ 6 Abgrenzung zum Wehrdienst und anderen Dienstleistungen](0006.md)
 
 ## Zweiter Abschnitt Beschränkung der Beendigung
 eines Arbeitsverhältnisses im Verteidigungsfall und in
@@ -78,21 +75,11 @@ Bereithaltungsbescheid
 ### 3. Unterabschnitt Sonderregelungen
 
 - [§ 31 Zumutung von Gefahren](0031.md)
-
-## Sechster Abschnitt Datenverarbeitung
-
-- [§ 31a Datenübermittlung von den Meldebehörden](0031a.md)
-- [§ 31b Datenübermittlung durch die Jobcenter; Verordnungsermächtigung](0031b.md)
-- [§ 31c Zweck der Verarbeitung und Löschung der Daten](0031c.md)
-
-## Siebter Abschnitt Schlussvorschriften
-
 - [§ 32 Verletzung von Sicherstellungsvorschriften](0032.md)
 - [§ 33](0033.md)
 - [§ 34 Koordinierung und Bedarfsdeckung](0034.md)
 - [§ 35 Weisungsrecht gegenüber der Bundesagentur für Arbeit](0035.md)
 - [§ 36 Begriffsbestimmung](0036.md)
 - [§ 37 Öffentlich-rechtliche Dienstverhältnisse](0037.md)
-- [§ 38 Rechtsverordnung](0038.md)
 - [§ 39 Einschränkung von Grundrechten](0039.md)
 - [§ 40 Inkrafttreten](0040.md)

@@ -5,12 +5,10 @@
 
 - [§ 1 Anwendungsbereich, Begriffsbestimmungen](0001.md)
 - [§ 2 Europäisches Sitzland](0002.md)
-- [§ 3 Herkunftslandprinzip](0003.md)
 - [§ 4 Zulassungsfreiheit](0004.md)
 
 ## Teil 2 Informationspflichten
 
-- [§ 5 Allgemeine Informationspflichten](0005.md)
 - [§ 6 Besondere Pflichten bei kommerziellen Kommunikationen](0006.md)
 
 ## Teil 3 Rechtsverletzungen von Nutzern
@@ -65,7 +63,6 @@
 
 ## Teil 8 Bußgeldvorschriften
 
-- [§ 33 Bußgeldvorschriften](0033.md)
 
 ## Teil 9 Übergangs- und Schlussvorschriften
 

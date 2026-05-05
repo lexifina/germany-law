@@ -11,7 +11,6 @@ Glastechnik/zur Verfahrensmechanikerin Glastechnik
 - [§ 7 Zwischenprüfung](0007.md)
 - [§ 8 Abschlussprüfung](0008.md)
 - [§ 9 Übergangsregelung](0009.md)
-- [§ 10 Außerkrafttreten](0010.md)
 - [Anlage (zu § 4)
 
 Ausbildungsrahmenplan für die Berufsausbildung zum

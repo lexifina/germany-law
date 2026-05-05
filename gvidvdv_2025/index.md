@@ -65,7 +65,6 @@
 - [§ 43 Modulprüfungen in den Praxisstudien](0043.md)
 - [§ 44 Anforderungen an Prüfungsformate bei Modulprüfungen](0044.md)
 - [§ 45 Verfahren zur Bewertung der Modulprüfungen](0045.md)
-- [§ 46 Wiederholung von Modulprüfungen](0046.md)
 
 ### Unterabschnitt 3 Bachelorarbeit
 

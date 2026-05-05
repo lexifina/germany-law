@@ -17,7 +17,6 @@
 - [§ 6 Interessenkonflikt](0006.md)
 - [§ 7 Datenverarbeitung](0007.md)
 - [§ 8 Sachverständige](0008.md)
-- [§ 9 Auswertungsbericht](0009.md)
 
 ## Abschnitt 3 Beirat
 
@@ -50,7 +49,6 @@
 
 ## Abschnitt 7a Vergütungsminderung
 
-- [§ 23a Vergütungsminderung](0023a.md)
 
 ## Abschnitt 8 Inkrafttreten
 

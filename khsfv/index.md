@@ -17,10 +17,8 @@
 
 ## Teil 2 Förderung nach § 12a des Krankenhausfinanzierungsgesetzes
 
-- [§ 11 Förderungsfähige Vorhaben](0011.md)
 - [§ 12 Förderungsfähige Kosten](0012.md)
 - [§ 13 Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung](0013.md)
-- [§ 14 Antragstellung](0014.md)
 - [§ 15 Auszahlungsbescheide des Bundesamtes für Soziale Sicherung](0015.md)
 - [§ 16 Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln](0016.md)
 - [§ 17 Auswertung der Wirkungen der Förderung](0017.md)

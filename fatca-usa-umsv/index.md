@@ -23,11 +23,9 @@
 
 - [§ 8 Erhebungs- und Übermittlungspflichten in Bezug auf US-amerikanische meldepflichtige Konten](0008.md)
 - [§ 9 Weiterleitung von Daten an die Bundessteuerbehörde der Vereinigten Staaten von Amerika und Entgegennahme von Meldungen](0009.md)
-- [§ 10 Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016](0010.md)
 
 ## Abschnitt 5 Ordnungswidrigkeiten
 
-- [§ 11 Ordnungswidrigkeiten](0011.md)
 
 ## Abschnitt 6 Schlussbestimmung
 

@@ -25,7 +25,6 @@
 - [§ 15 Dienstlicher Wohnsitz](0015.md)
 - [§ 16 Amt, Dienstgrad](0016.md)
 - [§ 17 Aufwandsentschädigungen](0017.md)
-- [§ 17a Zahlungsweise](0017a.md)
 - [§ 17b Lebenspartnerschaft](0017b.md)
 
 ## Abschnitt 2 Grundgehalt, Leistungsbezüge an Hochschulen
@@ -80,7 +79,6 @@
 - [§ 42a Prämien und Zulagen für besondere Leistungen](0042a.md)
 - [§ 42b Prämie für besondere Einsatzbereitschaft](0042b.md)
 - [§ 43 Personalgewinnungs- und Personalbindungsprämie](0043.md)
-- [§ 43a Prämien für Angehörige der Spezialkräfte der Bundeswehr](0043a.md)
 - [§ 44 Verpflichtungsprämie für Soldaten auf Zeit](0044.md)
 - [§ 45 Zulage für die Wahrnehmung befristeter Funktionen](0045.md)
 - [§ 46 (weggefallen)](0046.md)

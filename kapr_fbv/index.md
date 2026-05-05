@@ -7,7 +7,6 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Risikoorientierung und Wesentlichkeit](0002.md)
-- [§ 3 Allgemeine Prüfungs- und Berichtsgrundsätze](0003.md)
 - [§ 4 Anlagen und Unzulässigkeit von Verweisungen](0004.md)
 
 ## Kapitel 2 Externe Kapitalverwaltungsgesellschaft

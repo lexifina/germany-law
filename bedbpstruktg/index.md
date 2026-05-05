@@ -4,6 +4,5 @@
 - [§ 2 Förderung der anderweitigen Verwendung](0002.md)
 - [§ 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des 
 Bundeseisenbahnvermögens](0003.md)
-- [§ 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen](0004.md)
 - [§ 5 Beamtinnen und Beamte der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost](0005.md)
 - [Anlage (zu § 4 Abs. 4)](anlage.md)

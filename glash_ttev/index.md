@@ -6,5 +6,4 @@
 - [§ 3 Uhren](0003.md)
 - [§ 4 Herstellungsstufen](0004.md)
 - [§ 5 Herstellung im Herkunftsgebiet](0005.md)
-- [§ 6 Außerkrafttreten](0006.md)
 - [Schlussformel](schlussformel.md)

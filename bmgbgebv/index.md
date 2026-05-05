@@ -6,4 +6,3 @@
 - [§ 3 Zeitgebühr](0003.md)
 - [§ 4 Übergangsvorschrift](0004.md)
 - [§ 5 Inkrafttreten](0005.md)
-- [Anlage (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis](anlage.md)

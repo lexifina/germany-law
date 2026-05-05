@@ -2,7 +2,6 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich, Anlagegrundsätze und Anlagemanagement](0001.md)
-- [§ 2 Anlageformen](0002.md)
 - [§ 3 Mischung](0003.md)
 - [§ 4 Streuung](0004.md)
 - [§ 5 Kongruenz](0005.md)

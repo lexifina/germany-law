@@ -1,6 +1,5 @@
 # Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Allgemeine Bestimmungen
 
@@ -20,12 +19,8 @@
 
 - [§ 9 Befähigungszeugnisse für Besatzungsmitglieder auf Einstiegsebene und Betriebsebene](0009.md)
 - [§ 10 Befähigungszeugnisse für das Maschinenpersonal](0010.md)
-- [§ 11 Befähigungszeugnisse für Besatzungsmitglieder auf Führungsebene](0011.md)
-- [§ 12 Ausnahme von der Pflicht zum Besitz eines Befähigungszeugnisses für die Besatzungsmitglieder auf Führungsebene](0012.md)
 - [§ 13 Amtlicher Berechtigungsschein](0013.md)
 - [§ 14 Befreiungsmöglichkeiten](0014.md)
-- [§ 15 Geltungsbereich der Befähigungszeugnisse auf Führungsebene](0015.md)
-- [§ 15a Erweiterung des Geltungsbereichs der Befähigungszeugnisse auf Führungsebene](0015a.md)
 - [§ 16 Besondere Berechtigungen für das Führen von Fahrzeugen](0016.md)
 - [§ 17 Befähigungszeugnisse für das Sicherheitspersonal](0017.md)
 - [§ 18 Erfassung der Befähigungszeugnisse und Schifferdienstbücher im Befähigungsregister](0018.md)
@@ -61,7 +56,6 @@
 
 - [§ 37 Erwerb des Unionspatentes](0037.md)
 - [§ 38 Behördliche Befähigungsprüfung zum Unionspatent](0038.md)
-- [§ 39 Erwerb des Schifferzeugnisses](0039.md)
 - [§ 40 Behördliche Befähigungsprüfung zum Erwerb des Schifferzeugnisses](0040.md)
 
 #### Abschnitt 4 Voraussetzungen für besondere Berechtigungen
@@ -85,8 +79,6 @@
 #### Abschnitt 6 Zulassung von Lehrgängen, Ausbildungsprogrammen und Weiterbildungsprogrammen
 
 - [§ 53 Lehrgänge für die grundlegende Sicherheitsausbildung](0053.md)
-- [§ 54 Lehrgänge für Maschinenkundige](0054.md)
-- [§ 55 Ausbildungsprogramme und Weiterbildungsprogramme](0055.md)
 - [§ 56 Voraussetzungen für die Zulassung von Lehrgängen für Sachkundige](0056.md)
 - [§ 57 Verfahren zur Zulassung von Lehrgängen für Sachkundige](0057.md)
 - [§ 58 Lehrgänge für atemschutzgerättragende Personen](0058.md)
@@ -154,10 +146,7 @@
 
 ## Teil 3 Besatzung
 
-- [§ 96 Allgemeines zu den Besatzungsvorschriften](0096.md)
 - [§ 97 Ausrüstung der Schiffe und anwendbare Vorschriften für die Fahrt auf dem Rhein](0097.md)
-- [§ 98 Allgemeines zu den Besatzungsvorschriften auf Wasserstraßen der Zonen 1 bis 4](0098.md)
-- [§ 99 Nutzung neuer Technologien](0099.md)
 - [§ 100 Aufgaben auf Fahrgastschiffen](0100.md)
 - [§ 101 Betriebsformen](0101.md)
 - [§ 102 Bordbuch](0102.md)
@@ -189,32 +178,20 @@
 ## Teil 6 Qualitätssicherung und Evaluierung
 
 - [§ 121 Überwachung](0121.md)
-- [§ 122 Evaluierung](0122.md)
 
 ## Teil 7 Übergangs- und Schlussbestimmungen
 
 - [§ 123 Gültigkeit und Umtausch der Schifferdienstbücher](0123.md)
-- [§ 124 Entsprechungsübersicht der bisherigen und der neuen Befähigungen](0124.md)
 - [§ 125 Gültigkeit der Fahrtenbücher und Bordbücher](0125.md)
-- [§ 126 Gültigkeit der bisherigen Befähigungszeugnisse für Schiffsführer und Schiffsführerinnen](0126.md)
 - [§ 127 Anerkennung von Befähigungszeugnissen nach dem STCW-Übereinkommen](0127.md)
 - [§ 128 Anerkennung von Befähigungszeugnissen, Schifferdienstbüchern und Bordbüchern aus Drittstaaten](0128.md)
-- [§ 129 Umtausch in ein neues Befähigungszeugnis für Schiffsführer und Schiffsführerinnen](0129.md)
-- [§ 130 Übergangsbestimmungen für Sportfahrzeuge und für Fahrzeuge unter 20 Metern Länge](0130.md)
 - [§ 131 Gültigkeit und Umtausch der Radarpatente und Radarbescheinigungen](0131.md)
 - [§ 132 Gültigkeit der bisherigen Streckenkunde](0132.md)
 - [§ 133 Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter](0133.md)
 - [§ 134 Gültigkeit der Befähigungszeugnisse für Sachkundige für die Fahrgastschifffahrt und für Sachkundige für LNG](0134.md)
 - [§ 135 Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen](0135.md)
 - [§ 136 Geltung von Besatzungsdokumenten nach der Schiffspersonalverordnung-Rhein](0136.md)
-- [§ 137 Sicherheitspersonal auf Fahrgastschiffen](0137.md)
-- [§ 138 Anrechnung und Nachweis von Fahrzeiten](0138.md)
-- [§ 139 Umtausch von Radarbescheinigungen](0139.md)
-- [§ 140 Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren](0140.md)
-- [§ 141 Umschreibung von Fahrerlaubnissen der Klassen D1 und D2](0141.md)
-- [§ 142 Erwerb der besonderen Berechtigung Großverbände beim Umtausch](0142.md)
 - [Anlage 1 (zu § 12 Absatz 1 Satz 1 Nummer 2)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist](anlage-1.md)
-- [Anlage 2 (zu § 16 Absatz 1 Satz 1 Nummer 2)Binnenwasserstraßenabschnitte mit besonderen Risiken](anlage-2.md)
 - [Anlage 3 (zu § 17 Absatz 6 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person](anlage-3.md)
 - [Anlage 4 (zu § 20)Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)](anlage-4.md)
 - [Anhang 1 zu Anlage 4 Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00–59](anhang-1-zu-anlage-4.md)
@@ -234,7 +211,6 @@
 - [Anlage 12 (zu § 40 Absatz 2)Prüfungsprogramm Schifferzeugnis](anlage-12.md)
 - [Anlage 13 (zu § 41 Absatz 2)Befähigungsstandards für das Führen von Fahrzeugen unter Radar](anlage-13.md)
 - [Anlage 14 (zu § 41 Absatz 3)Standards für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar](anlage-14.md)
-- [Anlage 15 (zu § 42 Absatz 2)Kompetenzen für besondere Berechtigung für Risikostrecken](anlage-15.md)
 - [Anlage 16 (zu § 43 Absatz 2)Befähigungsstandards für das Befahren von Binnenwasserstraßen mit maritimem Charakter](anlage-16.md)
 - [Anlage 17 (zu § 47 Absatz 1)Befähigungsstandards für Sachkundige für Flüssigerdgas (liquified natural gas – LNG)](anlage-17.md)
 - [Anlage 18 (zu § 47 Absatz 4)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für Flüssigerdgas (LNG)](anlage-18.md)
@@ -243,7 +219,6 @@
 - [Anlage 21 (zu § 53)Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung](anlage-21.md)
 - [Anhang 1 zu Anlage 21 Bescheinigung über die Teilnahme an einer grundlegenden Sicherheitsausbildung in der Binnenschifffahrt](anhang-1-zu-anlage-21.md)
 - [Anhang 2 zu Anlage 21 Lernziele](anhang-2-zu-anlage-21.md)
-- [Anlage 22 (zu § 54)Zulassung von Lehrgängen für Maschinenkundige](anlage-22.md)
 - [Anlage 23 (zu § 58)Zulassung von Lehrgängen für atemschutzgerättragende Personen](anlage-23.md)
 - [Anhang 1 zu Anlage 23 Bescheinigung über die Teilnahme an einem Grundlehrgang/Wiederholungslehrgang für atemschutzgerättragende Personen in der Binnenschifffahrt](anhang-1-zu-anlage-23.md)
 - [Anhang 2 zu Anlage 23](anhang-2-zu-anlage-23.md)

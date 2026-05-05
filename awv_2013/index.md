@@ -122,7 +122,6 @@
 #### Unterabschnitt 1 Sektorübergreifende Prüfung von Unternehmenserwerben
 
 - [§ 55 Anwendungsbereich der sektorübergreifenden Prüfung](0055.md)
-- [§ 55a Voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit](0055a.md)
 - [§ 56 Stimmrechtsanteile](0056.md)
 - [§ 57 (weggefallen)](0057.md)
 - [§ 58 Unbedenklichkeitsbescheinigung](0058.md)
@@ -171,14 +170,10 @@
 
 ### Abschnitt 1 Ausfuhr-, Handels- und Vermittlungsverbote
 
-- [§ 74 Ausfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern](0074.md)
-- [§ 75 Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter](0075.md)
-- [§ 76 Ausnahmen von § 74 Absatz 1 und § 75](0076.md)
 - [§ 76a Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen](0076a.md)
 
 ### Abschnitt 2 Einfuhr- und Verbringungsverbote
 
-- [§ 77 Einfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern aus bestimmten Ländern](0077.md)
 
 ### Abschnitt 3 Besondere Genehmigungserfordernisse
 
@@ -198,11 +193,9 @@
 ### Abschnitt 2 Ordnungswidrigkeiten
 
 - [§ 81 Ordnungswidrigkeiten – Verstöße gegen Bestimmungen der Außenwirtschaftsverordnung](0081.md)
-- [§ 82 Ordnungswidrigkeiten – Verstöße gegen Rechtsakte der Europäischen Union](0082.md)
 
 ## Kapitel 10 Übergangsbestimmungen, Evaluierung und Inkrafttreten, Außerkrafttreten
 
-- [§ 82a Übergangsbestimmungen](0082a.md)
 - [§ 82b Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung](0082b.md)
 - [§ 83 Inkrafttreten, Außerkrafttreten](0083.md)
 - [Anlage 1 Anlage AL zur Außenwirtschaftsverordnung](anlage-1.md)

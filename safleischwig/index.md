@@ -7,6 +7,4 @@
 - [§ 5 Berechnung und Zahlung des Arbeitsentgelts, Aufrechnungsverbot](0005.md)
 - [§ 6 Erstellen von Dokumenten](0006.md)
 - [§ 6a Einschränkungen des Einsatzes von Fremdpersonal](0006a.md)
-- [§ 6b Prüfung und Befugnisse der Behörden der Zollverwaltung](0006b.md)
-- [§ 7 Bußgeldvorschriften](0007.md)
 - [§ 8 Evaluation](0008.md)

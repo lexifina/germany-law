@@ -2,7 +2,6 @@
 
 - [§ 1 Anordnung, Zweck](0001.md)
 - [§ 2 Periodizität, Berichtszeitraum](0002.md)
-- [§ 3 Erhebungsbereich](0003.md)
 - [§ 4 Erhebungsmerkmale](0004.md)
 - [§ 5 Hilfsmerkmale](0005.md)
 - [§ 6 Auskunftspflicht](0006.md)

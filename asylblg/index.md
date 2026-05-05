@@ -1,8 +1,5 @@
 # Asylbewerberleistungsgesetz
 
-- [§ 1 Leistungsberechtigte](0001.md)
-- [§ 1a Anspruchseinschränkung](0001a.md)
-- [§ 2 Leistungen in besonderen Fällen](0002.md)
 - [§ 3 Grundleistungen](0003.md)
 - [§ 3a Bedarfssätze der Grundleistungen](0003a.md)
 - [§ 4 Leistungen bei Krankheit, Schwangerschaft und Geburt](0004.md)
@@ -12,7 +9,6 @@
 - [§ 6 Sonstige Leistungen](0006.md)
 - [§ 6a Erstattung von Aufwendungen anderer](0006a.md)
 - [§ 6b Einsetzen der Leistungen](0006b.md)
-- [§ 7 Einkommen und Vermögen](0007.md)
 - [§ 7a Sicherheitsleistung](0007a.md)
 - [§ 7b (weggefallen)](0007b.md)
 - [§ 8 Leistungen bei Verpflichtung Dritter](0008.md)

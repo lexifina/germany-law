@@ -6,8 +6,6 @@
 
 - [§ 1 Stellung in der Rechtspflege](0001.md)
 - [§ 2 Beruf des Patentanwalts](0002.md)
-- [§ 3 Recht zur Beratung und Vertretung](0003.md)
-- [§ 4 Auftreten vor den Gerichten](0004.md)
 - [§ 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe](0004a.md)
 
 ## Zweiter Teil Zulassung und allgemeine Vorschriften
@@ -57,7 +55,6 @@
 - [§ 32 Zustellung](0032.md)
 - [§ 33 Bestellung eines Vertreters im Verwaltungsverfahren](0033.md)
 - [§ 34 Ermittlung des Sachverhalts und Übermittlung von Daten](0034.md)
-- [§ 35 Ersetzung der Schriftform](0035.md)
 - [(XXXX) §§ 36 bis 38 (weggefallen)](xxxx-36-bis-38.md)
 
 ## Dritter Teil Rechte und Pflichten des Patentanwalts und berufliche Zusammenarbeit der Patentanwälte
@@ -76,7 +73,6 @@
 - [§ 41c Erlöschen und Änderung der Zulassung als Syndikuspatentanwalt](0041c.md)
 - [§ 41d Besondere Vorschriften für Syndikuspatentanwälte](0041d.md)
 - [§ 42 Patentanwälte im öffentlichen Dienst](0042.md)
-- [§ 43 Pflicht zu Übernahme der Vertretung](0043.md)
 - [§ 43a Vergütung](0043a.md)
 - [§ 43b Erfolgshonorar](0043b.md)
 - [§ 44 Handakten](0044.md)

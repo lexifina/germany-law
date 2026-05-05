@@ -15,4 +15,3 @@
 - [§ 13 Anwendung der bisherigen Gebührensätze](0013.md)
 - [§ 14 Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes](0014.md)
 - [§ 15 (weggefallen)](0015.md)
-- [Anlage (zu § 2 Abs. 1)Gebührenverzeichnis](anlage.md)

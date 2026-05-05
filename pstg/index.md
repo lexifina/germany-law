@@ -1,6 +1,5 @@
 # Personenstandsgesetz
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
@@ -96,8 +95,6 @@ Beurkundungsfälle
 - [§ 41 Erklärungen zur Namensführung von Ehegatten](0041.md)
 - [§ 42 (weggefallen)](0042.md)
 - [§ 43 Erklärungen zur Namensangleichung](0043.md)
-- [§ 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft](0044.md)
-- [§ 44a Nachweise nach einer Anerkennung trotz bestehender Vaterschaft](0044a.md)
 - [§ 45 Erklärungen zur Namensführung des Kindes](0045.md)
 - [§ 45a Erklärung zur Reihenfolge der Vornamen](0045a.md)
 - [§ 45b Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag](0045b.md)
@@ -108,7 +105,6 @@ Beurkundungsfälle
 ### Abschnitt 1 Berichtigungen ohne Mitwirkung des Gerichts
 
 - [§ 46 Änderung einer Anzeige](0046.md)
-- [§ 47 Berichtigung nach Abschluss der Beurkundung](0047.md)
 
 ### Abschnitt 2 Gerichtliches Verfahren
 
@@ -137,7 +133,6 @@ Personenstandsregister
 
 - [§ 61 Allgemeine Vorschriften für die Benutzung](0061.md)
 - [§ 62 Urkundenerteilung, Auskunft, Einsicht](0062.md)
-- [§ 63 Benutzung in besonderen Fällen](0063.md)
 - [§ 64 Sperrvermerke](0064.md)
 - [§ 65 Benutzung durch Behörden und Gerichte](0065.md)
 - [§ 66 Benutzung für wissenschaftliche Zwecke](0066.md)

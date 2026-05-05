@@ -8,11 +8,9 @@
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 2 Studienziele](0002.md)
 - [§ 3 Akademischer Grad](0003.md)
-- [§ 4 Zulassung](0004.md)
 
 ## Abschnitt 2 Studienordnung
 
-- [§ 5 Dauer des Studiums, Freistellung](0005.md)
 - [§ 6 Anerkennung von Studien- und Prüfungsleistungen](0006.md)
 - [§ 7 Studieninhalte, Module](0007.md)
 - [§ 8 Leitung des Studiums](0008.md)
@@ -35,7 +33,6 @@
 
 ## Abschnitt 4 Berufspraktische Einführung
 
-- [§ 22 Berufspraktische Einführung](0022.md)
 
 ## Abschnitt 5 Schlussvorschriften
 

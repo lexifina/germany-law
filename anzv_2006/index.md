@@ -9,7 +9,6 @@
 - [§ 5a Lebenslauf der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person](0005a.md)
 - [§ 5b Erklärungen der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Personen und des anzeigenden Instituts](0005b.md)
 - [§ 5c Führungszeugnis der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person](0005c.md)
-- [§ 5d Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person](0005d.md)
 - [§ 5e Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)](0005e.md)
 - [§ 5f Geschäftsleiter-Vertreter im Verhinderungsfall](0005f.md)
 - [§ 6 Anzeigen nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes (Zweigstelle und
@@ -18,7 +17,6 @@ Zweigstelle im Drittstaat)](0006.md)
 - [§ 7 Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 des Kreditwesengesetzes (bedeutende Beteiligungen an anderen Unternehmen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)](0007.md)
 - [§ 8 Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen an dem eigenen Institut und passivische enge Verbindungen)](0008.md)
 - [§ 9 Sammelanzeigen nach § 24 Abs. 1a Nr. 4 des Kreditwesengesetzes (Anzahl inländischer Zweigstellen)](0009.md)
-- [§ 9a Anzeigen nach § 24 Absatz 1a Nummer 5 und 6, Absatz 1c und 1d des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)](0009a.md)
 - [§ 10 Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von
 Instituten)](0010.md)
 - [§ 10a Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes (Weitere Tätigkeiten der Mitglieder eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts von erheblicher Bedeutung)](0010a.md)

@@ -1,6 +1,5 @@
 # Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Buch 1 Allgemeiner Teil
 
@@ -20,7 +19,6 @@
 - [§ 11 Verfahrensvollmacht](0011.md)
 - [§ 12 Beistand](0012.md)
 - [§ 13 Akteneinsicht](0013.md)
-- [§ 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung](0014.md)
 - [§ 14a Formulare; Verordnungsermächtigung](0014a.md)
 - [§ 14b Nutzungspflicht für Rechtsanwälte, Notare und Behörden](0014b.md)
 - [§ 15 Bekanntgabe; formlose Mitteilung](0015.md)
@@ -86,7 +84,6 @@
 - [§ 58 Statthaftigkeit der Beschwerde](0058.md)
 - [§ 59 Beschwerdeberechtigte](0059.md)
 - [§ 60 Beschwerderecht Minderjähriger](0060.md)
-- [§ 61 Beschwerdewert; Zulassungsbeschwerde](0061.md)
 - [§ 62 Statthaftigkeit der Beschwerde nach Erledigung der Hauptsache](0062.md)
 - [§ 63 Beschwerdefrist](0063.md)
 - [§ 64 Einlegung der Beschwerde](0064.md)
@@ -269,22 +266,16 @@
 
 - [§ 169 Abstammungssachen](0169.md)
 - [§ 170 Örtliche Zuständigkeit](0170.md)
-- [§ 171 Antrag](0171.md)
 - [§ 172 Beteiligte](0172.md)
 - [§ 173 Vertretung eines Kindes durch einen Beistand](0173.md)
 - [§ 174 Verfahrensbeistand](0174.md)
-- [§ 175 Erörterungstermin; persönliche Anhörung](0175.md)
-- [§ 176 Anhörung des Jugendamts](0176.md)
 - [§ 177 Eingeschränkte Amtsermittlung; förmliche Beweisaufnahme](0177.md)
 - [§ 178 Untersuchungen zur Feststellung der Abstammung](0178.md)
 - [§ 179 Mehrheit von Verfahren](0179.md)
-- [§ 180 Erklärungen zur Niederschrift des Gerichts](0180.md)
 - [§ 181 Tod eines Beteiligten](0181.md)
-- [§ 182 Inhalt des Beschlusses](0182.md)
 - [§ 183 Kosten bei Anfechtung der Vaterschaft](0183.md)
 - [§ 184 Wirksamkeit des Beschlusses; Ausschluss der Abänderung; ergänzende Vorschriften über die Beschwerde](0184.md)
 - [§ 185 Wiederaufnahme des Verfahrens](0185.md)
-- [§ 185a Wiederaufnahme bei Anfechtung durch den leiblichen Vater](0185a.md)
 
 ### Abschnitt 5 Verfahren in Adoptionssachen
 
@@ -499,7 +490,6 @@
 
 - [§ 342 Begriffsbestimmung](0342.md)
 - [§ 343 Örtliche Zuständigkeit](0343.md)
-- [§ 344 Besondere örtliche Zuständigkeit](0344.md)
 
 ### Abschnitt 2 Verfahren in Nachlasssachen
 
@@ -562,7 +552,6 @@
 ### Abschnitt 1 Begriffsbestimmung
 
 - [§ 374 Registersachen](0374.md)
-- [§ 375 Unternehmensrechtliche Verfahren](0375.md)
 
 ### Abschnitt 2 Zuständigkeit
 
@@ -731,4 +720,3 @@
 - [§ 490 Landesrechtliche Aufgebotsverfahren](0490.md)
 - [§ 491 Landesrechtliche Vorbehalte bei Verfahren zur Kraftloserklärung von Urkunden](0491.md)
 - [§ 492 Anwendbare Vorschriften bei Zuständigkeit von Notaren](0492.md)
-- [§ 493 Übergangsvorschriften](0493.md)

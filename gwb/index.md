@@ -1,6 +1,5 @@
 # Gesetz gegen Wettbewerbsbeschränkungen
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Wettbewerbsbeschränkungen
 
@@ -36,7 +35,6 @@
 
 - [§ 28 Landwirtschaft](0028.md)
 - [§ 29 Energiewirtschaft](0029.md)
-- [§ 29a Kraftstoffmärkte](0029a.md)
 - [§ 30 Presse](0030.md)
 - [§ 31 Verträge der Wasserwirtschaft](0031.md)
 - [§ 31a Wasserwirtschaft, Meldepflicht](0031a.md)
@@ -53,7 +51,6 @@
 - [§ 32c Kein Anlass zum Tätigwerden](0032c.md)
 - [§ 32d Entzug der Freistellung](0032d.md)
 - [§ 32e Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen](0032e.md)
-- [§ 32f Maßnahmen nach einer Sektoruntersuchung](0032f.md)
 - [§ 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)](0032g.md)
 
 #### Abschnitt 2 Schadensersatz und Vorteilsabschöpfung
@@ -100,16 +97,12 @@
 - [§ 47b Aufgaben](0047b.md)
 - [§ 47c Datenverwendung](0047c.md)
 - [§ 47d Befugnisse](0047d.md)
-- [§ 47e Mitteilungspflichten](0047e.md)
 - [§ 47f Verordnungsermächtigung](0047f.md)
-- [§ 47g Festlegungsbereiche](0047g.md)
 - [§ 47h Berichtspflichten, Veröffentlichungen](0047h.md)
-- [§ 47i Zusammenarbeit mit anderen Behörden und Aufsichtsstellen](0047i.md)
 - [§ 47j Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz](0047j.md)
 
 #### Abschnitt 2 Markttransparenzstelle für Kraftstoffe
 
-- [§ 47k Marktbeobachtung im Bereich Kraftstoffe](0047k.md)
 
 #### Abschnitt 3 Evaluierung
 
@@ -122,7 +115,6 @@
 
 - [§ 48 Zuständigkeit](0048.md)
 - [§ 49 Bundeskartellamt und oberste Landesbehörde](0049.md)
-- [§ 50 Vollzug des europäischen Rechts](0050.md)
 
 ### Kapitel 2 Behördenzusammenarbeit
 
@@ -131,7 +123,6 @@
 - [§ 50c Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden](0050c.md)
 - [§ 50d Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden](0050d.md)
 - [§ 50e Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden](0050e.md)
-- [§ 50f Zusammenarbeit mit anderen Behörden](0050f.md)
 
 ### Kapitel 3 Bundeskartellamt
 
@@ -149,7 +140,6 @@
 
 - [§ 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit](0054.md)
 - [§ 55 Vorabentscheidung über Zuständigkeit](0055.md)
-- [§ 56 Anhörung, Akteneinsicht, mündliche Verhandlung](0056.md)
 - [§ 57 Ermittlungen, Beweiserhebung](0057.md)
 - [§ 58 Beschlagnahme](0058.md)
 - [§ 59 Auskunftsverlangen](0059.md)
@@ -164,7 +154,6 @@
 - [§ 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit](0063.md)
 - [§ 64 Anwaltszwang](0064.md)
 - [§ 65 Mündliche Verhandlung](0065.md)
-- [§ 66 Aufschiebende Wirkung](0066.md)
 - [§ 67 Anordnung der sofortigen Vollziehung](0067.md)
 - [§ 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren](0068.md)
 - [§ 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0069.md)
@@ -191,7 +180,6 @@
 
 #### Abschnitt 1 Bußgeldvorschriften
 
-- [§ 81 Bußgeldtatbestände](0081.md)
 - [§ 81a Geldbußen gegen Unternehmen](0081a.md)
 - [§ 81b Geldbußen gegen Unternehmensvereinigungen](0081b.md)
 - [§ 81c Höhe der Geldbuße](0081c.md)
@@ -212,7 +200,6 @@
 
 #### Abschnitt 3 Bußgeldverfahren
 
-- [§ 82 Zuständigkeiten in Kartellbußgeldsachen](0082.md)
 - [§ 82a Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung](0082a.md)
 - [§ 82b Besondere Ermittlungsbefugnisse](0082b.md)
 - [§ 83 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren](0083.md)
@@ -257,9 +244,6 @@
 - [§ 97 Grundsätze der Vergabe](0097.md)
 - [§ 98 Auftraggeber](0098.md)
 - [§ 99 Öffentliche Auftraggeber](0099.md)
-- [§ 100 Sektorenauftraggeber](0100.md)
-- [§ 101 Konzessionsgeber](0101.md)
-- [§ 102 Sektorentätigkeiten](0102.md)
 - [§ 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe](0103.md)
 - [§ 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge](0104.md)
 - [§ 105 Konzessionen](0105.md)
@@ -268,7 +252,6 @@
 - [§ 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit](0108.md)
 - [§ 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln](0109.md)
 - [§ 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben](0110.md)
-- [§ 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen](0111.md)
 - [§ 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen](0112.md)
 - [§ 113 Verordnungsermächtigung](0113.md)
 - [§ 114 Monitoring und Vergabestatistik](0114.md)
@@ -279,7 +262,6 @@
 ##### Unterabschnitt 1 Anwendungsbereich
 
 - [§ 115 Anwendungsbereich](0115.md)
-- [§ 116 Besondere Ausnahmen](0116.md)
 - [§ 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen](0117.md)
 - [§ 118 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge](0118.md)
 
@@ -289,7 +271,6 @@
 - [§ 120 Besondere Methoden und Instrumente in Vergabeverfahren](0120.md)
 - [§ 121 Leistungsbeschreibung](0121.md)
 - [§ 122 Eignung](0122.md)
-- [§ 123 Zwingende Ausschlussgründe](0123.md)
 - [§ 124 Fakultative Ausschlussgründe](0124.md)
 - [§ 125 Selbstreinigung](0125.md)
 - [§ 126 Zulässiger Zeitraum für Ausschlüsse](0126.md)
@@ -301,7 +282,6 @@
 - [§ 132 Auftragsänderungen während der Vertragslaufzeit](0132.md)
 - [§ 133 Kündigung von öffentlichen Aufträgen in besonderen Fällen](0133.md)
 - [§ 134 Informations- und Wartepflicht](0134.md)
-- [§ 135 Unwirksamkeit](0135.md)
 
 #### Abschnitt 3 Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen
 
@@ -383,5 +363,3 @@
 ## Teil 6 Übergangs- und Schlussbestimmungen
 
 - [§ 186 Anwendungsbestimmung zu § 47k](0186.md)
-- [§ 186a Fusionskontrolle im Krankenhausbereich](0186a.md)
-- [§ 187 Übergangs- und Schlussbestimmungen](0187.md)
