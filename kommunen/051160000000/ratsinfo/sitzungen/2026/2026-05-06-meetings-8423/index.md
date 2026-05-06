@@ -1,0 +1,52 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-05-06T18:30:00+02:00
+- Ende: 2026-05-06T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8423
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8423
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00265038.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00265038.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00265038.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Hauptschusses vom 25.02.2026 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Änderung der Verarbeitung von Personalaktendaten - Mit Stimmenmehrheit empfohlen
+- TOP 3: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2025 bis 31.12.2025 - Kenntnisnahme
+- TOP 4: Beteiligung der Städtische Kliniken Mönchengladbach GmbH; hier: Anpassung des Gesellschaftsvertrages der MVZ an den Städtischen Kliniken Mönchengladbach GmbH - Einstimmig empfohlen
+- TOP 5: Bereitstellung von Haushaltsmitteln für die Finanzierung des Eigenanteils zu den investiven Förderanträgen der Wissens- und Innovationscampus GmbH (WICMG) aus dem Stadtentwicklungsprogramm „Rheinisches Revier der Zukunft„ (STEP RR) - Mit Stimmenmehrheit empfohlen
+- TOP 6: Ausschüttungsverzicht für den Betrieb gewerblicher Art (BGA) Verpachtung von Wohnungen - Einstimmig empfohlen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (6. Nachweisung) - Kenntnisnahme
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2026 (1. Nachweisung) - Kenntnisnahme
+- TOP 9: Wiederwahl der Schiedsfrau für den Schiedsamtsbezirk Ost II - Einstimmig empfohlen
+- TOP 10: Feststellung des endgültigen Wahlergebnisses des Ratsbürgerentscheids "Olympia" - Einstimmig empfohlen
+- TOP 11: Bildung eines Kreiswahlausschusses für die Landtagswahl 2027 - An den Rat verwiesen
+- TOP 12: Fortführung des vergünstigten Deutschlandtickets für alle SuS in MG - Einstimmig empfohlen
+- TOP 13: Aktualisierung der Kooperationsverträge mit den Trägern der offenen Ganztagsschulen; hier: Ergänzungen zur Vorlage 4102/X Neue Kooperationsvereinbarung für offene Ganztagsschulen - Einstimmig empfohlen
+- TOP 14: Satzung der Stadt Mönchengladbach über die Erhebung von Elternbeiträgen für die Inanspruchnahme von Kindertageseinrichtungen, Kindertagespflege und LENA-Gruppen (Elternbeitragssatzung) - Mit Stimmenmehrheit empfohlen
+- TOP 15: Satzung der Stadt Mönchengladbach über die Erhebung von Beiträgen für die Inanspruchnahme von außerunterrichtlichen Angeboten der offenen Ganztagsschule - Mit Stimmenmehrheit empfohlen
+- TOP 16: Zuwendungen für Angebote der Jugendarbeit in Hardterbroich-Pesch und Rheydt-West - Mit Stimmenmehrheit empfohlen
+- TOP 17: Zuwendung an den Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an Skateanlagen in Mönchengladbach - Einstimmig empfohlen
+- TOP 18: Zweiter Nachtrag zur Satzung für den Seniorenrat der Stadt Mönchengladbach - Einstimmig empfohlen
+- TOP 19: Bestellung Ombudsperson - Einstimmig empfohlen
+- TOP 20: Strukturwandelförderung Empowerment Tagebauumfeld: Von der Webschulstraße zum Campusboulevard - Mit Stimmenmehrheit empfohlen
+- TOP 21: Satzung über die erste Verlängerung einer Veränderungssperre in Mönchengladbach - Einstimmig empfohlen
+- TOP 22: Der Verwaltungsrat mags AöR soll öffentlich tagen - Vom Antragsteller zurückgezogen
+- TOP 23: Sonderposten für die Sanierung von Schultoiletten aus dem Sondervermögen Infrastruktur - Mit Stimmenmehrheit nicht empfohlen
+- TOP 24: Effizienzorientierte Weiterentwicklung der städtischen Beteiligungen - hier: gemeinsamer Fraktionsantrag von CDU und SPD vom 18.04.2026 - Mit Stimmenmehrheit empfohlen
+- TOP 25: Änderung der Zuständigkeitsordnung der Stadt Mönchengladbach vom 16. Dezember 2020 (Abl. MG S. 434) - Umbenennung des Ausschusses für Feuerwehr, öffentliche Ordnung und Katastrophenschutz in Ausschuss für Sicherheit und öffentliche Ordnung - Mit Stimmenmehrheit nicht empfohlen
+- TOP 26: Schaffung weiterer Grillzonen zur Entlastung des Stadtwald so wie zum Ausbau des Freizeitangebot - Mit Stimmengleichheit nicht empfohlen
+- TOP 26.1: Rückbau der Grillzone im Stadtwald sowie Verzicht auf die Ausweisung weiterer Grillflächen im Stadtgebiet; hier - Mit Stimmenmehrheit nicht empfohlen
+- TOP 27: Einführung sozial ausgewogener und ortsbezogener Vergabekriterien für öffentlich geförderten Wohnraum in Mönchengladbach - Mit Stimmenmehrheit nicht empfohlen
+- TOP 28: Mieterschutz stärken und Missstände bei Problemimmobilien effektiv bekämpfen - Mit Stimmenmehrheit beschlossen
+- TOP 28.1: Fraktionsantrag Nr. 0593/XI „Mieterschutz stärken und Missstände bei Problemimmobilien effektiv bekämpfen“; Hier: gemeinsamer Antrag der Ratsfraktionen CDU und SPD; hier: Antrag der Ratsfraktion BÜNDNIS 90 / DIE GRÜNEN vom 05.05.2026 - Mit Stimmenmehrheit nicht empfohlen
+- TOP 28.2: Änderungsantrag zum Tagesordnungspunkt " Mieterschutz stärken und Missstände bei Problemimmobilien effektiv bekämpfen" Antrag der CDU/SPD Kooperation vom 08.04.2026 - Vorlagennummer 0593/XI - Mit Stimmenmehrheit nicht empfohlen
+- TOP 29: Einführung einer Nahverkehrsabgabe; hier: Antrag der Fraktion DIE LINKE / Die PARTEI vom 14.04.2026 - Mit Stimmenmehrheit nicht empfohlen
+- TOP 30: Bahnanbindung Nordpark - Wenn Olympia, dann richtig - mehr CDU wagen!; hier: Fraktionsantrag der Fraktion DIE LINKE / Die PARTEI vom 21.04.2026 - Mit Stimmenmehrheit nicht empfohlen
+- TOP 31: Anfragen und Mitteilungen
+- TOP 31.1: Anfrage RH Wyen (FDP/VOLT)
