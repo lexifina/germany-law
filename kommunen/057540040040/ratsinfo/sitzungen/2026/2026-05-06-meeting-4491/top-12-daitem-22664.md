@@ -1,0 +1,7 @@
+# TOP 12.: Grundstücks- und Vertragsangelegenheiten
+
+- Sitzung: Rat (5. Sitzung) (2026-05-06)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/22664
+- Ergebnis: Abstimmungsergebnis:Einstimmig
