@@ -1,0 +1,52 @@
+# Ausschuss für Umwelt, Grünflächen und Klimaschutz
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-05-06T17:04:00+02:00
+- Ende: 2026-05-06T19:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/225
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8017
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8017
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket AUGK v. 06.05.2026 (stand 24.04.2026) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00243774.pdf
+- Ergebnisprotokoll: Sitzungspaket AUGK v. 06.05.2026 (stand 24.04.2026) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00243774.pdf
+- Wortprotokoll: Sitzungspaket AUGK v. 06.05.2026 (stand 24.04.2026) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00243774.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Verpflichtung der sachkundigen Bürger*innen - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: Vermittlungskonzept Niedergermanischer Limes als UNESCO Welterbe - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 6: Beauftragung einer Wirtschaftsprüfungsgesellschaft mit der Prüfung des Jahresabschlusses 2025 von Stadtgrün Neuss - einstimmig zugestimmt
+- TOP 7: Bonner Straße, Entnahme eines Baumes zur Realisierung einer Ausfahrt der geplanten Privatstraße (wird zurückgezogen) - zurückgezogen
+- TOP -: Anträge
+- TOP 8: Antrag der CDU v. 22.04.2026 bezgl. "Biodiversität in Neuss verbessern – Gewässer im Selikumer Park renaturieren" - mit Änderungen mehrheitlich zugestimmt
+- TOP 9: Antrag von Tierschutz/Aktiv/ Neuss Jetzt! v. 21.04.2026 bezgl. "Antrag auf Bericht zur Versorgung verletzter Wildtiere" - mehrheitlich zugestimmt
+- TOP 10: Antrag der CDU v. 22.04.2026 bezgl. "Zukunft des ehemaligen Damwildgeheges im Selikumer Park - Nachnutzung" - mit Änderungen einstimmig zugestimmt
+- TOP 11: Antrag von Tierschutz/Aktiv/ Neuss Jetzt! v. 21.04.2026 bezgl. "Antrag auf Prüfung zur Nachnutzung des Damwildgeheges" - mit Änderungen einstimmig zugestimmt
+- TOP 11.1: Antrag der SPD v. 20.04.2026 bezgl. "Zukünftige Nutzung/Konzeption des Damwildgehege in Selikum" - mit Änderungen einstimmig zugestimmt
+- TOP 12: Antrag von Tierschutz/Aktiv/ Neuss Jetzt! v. 21.04.2026 bezgl. "Antrag auf Bericht zu Spielplätzen" - mit Änderungen einstimmig zugestimmt
+- TOP 12.1: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN v. 18.04.2026 bezgl. "Kooperatives Mehrwegkonzept für städtische Veranstaltungen" - mehrheitlich abgelehnt
+- TOP 12.2: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN v. 19.04.2026 bezgl. "Ernennung von Vertretern des Stadtverbandes der Kleingartenvereine e.V. Neuss als beratende Mitglieder" - einstimmig zugestimmt
+- TOP 12.3: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN v. 06.04.2026 bezgl. "Torffreie Bewirtschaftung städtischer Grünflächen und Förderung nachhaltiger Blumenerde" - mit Änderungen einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 13: Anfrage der FDP/UWG Fraktion v. 19.04.2026 bezgl. " Versorgung und Betreuung von Wildtieren im Stadtgebiet Neuss" - zur Kenntnis genommen
+- TOP 14: Anfrage von Tierschutz/Aktiv/ Neuss Jetzt! v. 21.04.2026 bezgl. "Anfrage zur Beeinträchtigung einer öffentlichen Grünfläche und ihrer ökologischen Funktion" - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 15: Sachstand der Klimaanpassungsmaßnahmen - zur Kenntnis genommen
+- TOP 16: Sachstandsbericht zur Umsetzung der kommunalen Wärmestrategie der Stadt Neuss - zur Kenntnis genommen
+- TOP 17: PV-Offensive der Stadt Neuss: Ausbau erneuerbarer Energien auf kommunalen Gebäuden - zur Kenntnis genommen
+- TOP 18: Sachstandsbericht 2026 zum Integrierten Klimaschutzkonzept (IKK) - zur Kenntnis genommen
+- TOP 19: Konzeption einer Energieberatungsagentur in Neuss - zur Kenntnis genommen
+- TOP 20: Sachstand zu geplanten Artenschutzmaßnahmen rund um den Krötentunnel an der Morgensternsheide - zur Kenntnis genommen
+- TOP 21: Sachstand zum Gebäudekataster-Grundwasser - zur Kenntnis genommen
+- TOP 22: Neuausrichtung des Damwildgeheges im Selikumer Park - zur Kenntnis genommen
+- TOP 23: Quartalsbericht für Stadtgrün Neuss zum 31.03.2026 - zur Kenntnis genommen
+- TOP 24: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 25: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
