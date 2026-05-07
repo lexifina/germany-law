@@ -77,7 +77,7 @@
 ## Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen
 
 - [§ 42 Allgemeine Vorschriften](0042.md)
-- [§ 42a Verstöße gegen die Vorschriften des Systems zur Kennzeichnung und Registrierung von Rindern, Mutterschafen und Mutterziegen](0042a.md)
+- [§ 42a (weggefallen)](0042a.md)
 - [§ 43 Sanktion bei der Nichtanmeldung aller Flächen](0043.md)
 - [§ 44 Sanktionen bei Übererklärungen bei flächenbezogenen Direktzahlungen](0044.md)
 - [§ 45 Sanktionen bei gekoppelten Einkommensstützungen](0045.md)
