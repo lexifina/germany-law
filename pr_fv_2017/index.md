@@ -1,6 +1,7 @@
 # Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüssen und den Solvabilitätsübersichten von Versicherungsunternehmen
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten
 
@@ -13,12 +14,16 @@
 
 ### Abschnitt 1 Allgemeines
 
+- [§ 4 Gegenstand der Berichterstattung](0004.md)
 - [§ 5 Grundsätze zur Berichterstattung](0005.md)
 - [§ 6 Besondere Hinweispflichten](0006.md)
+- [§ 7 (weggefallen)](0007.md)
 
 ### Abschnitt 2 Ansatz und Bewertung
 
 - [§ 8 Ansatz der Vermögenswerte und Verbindlichkeiten](0008.md)
+- [§ 9 Bewertung](0009.md)
+- [§ 10 Erleichterungen bei der Bewertung](0010.md)
 - [§ 11 Eventualverbindlichkeiten](0011.md)
 
 ### Abschnitt 3 Besondere Prüfungsgebiete
@@ -81,6 +86,10 @@
 
 ### Abschnitt 8 Weitere regulatorische Vorgaben
 
+- [§ 40 Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012](0040.md)
+- [§ 40a Einhaltung der Pflichten gemäß der Verordnung (EU) 2019/2088 und gemäß der Verordnung (EU) 2020/852](0040a.md)
+- [§ 40b Berücksichtigung der Informations- und Kommunikationstechnologie des Versicherungsunternehmens bei der Prüfung](0040b.md)
+- [§ 41 Berichterstattung über die Verwendung von Ratings](0041.md)
 - [§ 42 Anzeigewesen](0042.md)
 - [§ 43 Anordnungen der Bundesanstalt nach dem Wertpapierhandelsgesetz](0043.md)
 
@@ -106,8 +115,10 @@
 
 - [§ 51 In die Konsolidierung einzubeziehende Unternehmen](0051.md)
 - [§ 52 Mindestanforderungen an den Konzernprüfungsbericht](0052.md)
+- [§ 53 Ort der Berichterstattung](0053.md)
 
 ## Kapitel 5 Schlussvorschriften
 
+- [§ 54 Übergangsvorschrift](0054.md)
 - [§ 55 Inkrafttreten](0055.md)
 - [Anlage (zu § 43b Absatz 9)Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung](anlage.md)
