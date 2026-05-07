@@ -11,5 +11,5 @@
 - [§ 6 Verantwortung für die Datenübermittlung und die Datenrichtigkeit](0006.md)
 - [§ 7 Organisatorische und technische Leitlinien und Maßnahmen](0007.md)
 - [§ 8 Ordnungswidrigkeiten](0008.md)
-- [Schlussformel](schlussformel.md)
 - [§ 9 Inkrafttreten](0009.md)
+- [Schlussformel](schlussformel.md)
