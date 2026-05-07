@@ -1,0 +1,81 @@
+# 5. Sitzung des Ausschusses für Stadtentwicklung und regionale Zusammenarbeit
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-05-07T15:28:00+02:00
+- Ende: 2026-05-07T17:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/200
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34198
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34198
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündlichen Anfrage von RM Jüde und RM Dr. Bell zur Mitteilung Kreuzfeld/ Olympia 0500/2026 - Kenntnis genommen
+- TOP 1.2: Soziale Erhaltungssatzungen in Köln: Nachfragen zum Sachstandsbericht zur Umsetzungspraxis für den Berichtszeitraum 01.01.2025 bis 31.12.2025 (Vorlagen-Nr. 0457/2026) - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Betreff: Sachstand Bauvorhaben ehemalige Baumwollbleicherei in Köln-Mülheim sowie weitere brach liegende Bauprojekte - Kenntnis genommen
+- TOP 2.1.1: Beantwortung einer Anfrage AN/0505/2026 Sachstand Bauvorhaben ehemalige Baumwollbleicherei in Köln Mülheim - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2: Verknüpfung Linie 18 mit Bahnhof Köln-Süd - vertagt
+- TOP 2.3: Sachstand zu Positivplanung Windenergie - Kenntnis genommen
+- TOP 2.3.1: Beantwortung einer schriftlichen Anfrage der Grünen vom 27.04.2026 (AN/0691/2026) betreffend "Sachstand Positivplanung Windenergie" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anträge
+- TOP 3.1: Dringlichkeitsantrag zur Integration einer ergänzenden Nutzung im Rahmen des Vorhabens Olpener Straße 460, Köln-Merheim - Sache ist erledigt
+- TOP 3.2: Änderung des Bebauungsplans 67469.03.000.00 „Eigelstein, Im Stavenhof, Gereonswall, Weidengasse, Krefelder Straße, Maybachstraße, Sudermanplatz, Melchiorstraße“ – hier: Zulässigkeit nur bestimmter Arten von Vergnügungsstätten - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für den Neubau eines Südlichen Zuführungsgleises zur Abstellanlage der DB in Köln-Nippes - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Neue Kölner Wohnraumschutzsatzung zum 01.07.2026 - ungeändert empfohlen
+- TOP 6.2: Kommunale Wärmeplanung (KWP): Kenntnisnahme und Beschluss - ohne Votum behandelt
+- TOP 6.3: Integriertes Stadtentwicklungskonzept Porz-Mitte - mit Änderungen empfohlen
+- TOP 6.4: Berufung Mitglieder der Ständigen Jury Mülheimer Süden - geändert beschlossen
+- TOP 6.4.1: Berufung Mitglieder der Ständigen Jury Mülheimer Süden - ungeändert beschlossen
+- TOP 6.5: Grundsatzbeschluss zur Festlegung der ÖPNV-Erschließung für das Stadtentwicklungsprojekt Parkstadt Süd - vertagt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Anhörung zu den Ergebnissen der frühzeitige Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (vorhabenbezogener Bebauungsplan) Nr. 70453/02 Kalker Hauptstraße/Barcelona-Allee in Köln/Kalk - unter Vorbehalt beschlossen
+- TOP 9.1.1: TOP 9.1 Anhörung der Bezirksvertretung 8 (Kalk) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (vorhabenbezogener Bebauungsplan) Nr. 70453/02 Arbeitstitel: K - ungeändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept "Am Höfenweg" in Köln-Merkenich; Anhörung der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Bebauungsplan "Leipziger Platz" in Köln-Nippes - ungeändert beschlossen
+- TOP 10.2: Bebauungsplan "Vorgärten Afrikaviertel" in Köln-Nippes - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogenen Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Helenenwallstraße in Köln-Deutz - vertagt
+- TOP 10.4: Beschluss über die Aufstellung und Einleitung eines vorhabenbezogen Bebauungsplanverfahrens und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Gartenweg in Köln-Porz-Zündorf - ungeändert beschlossen
+- TOP 10.5: Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (vorhabenbezogener Bebauungsplan) Nr. 70453/ 02 Arbeitstitel: Kalker Hauptstraße/ Barcelona-Allee in Köln Kalk
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren Nördlich Graacher Straße in Köln-Zollstock - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss des Bebauungsplanentwurfs (vorhabenbezogener Bebauungsplan) Nr. 76367/03, Arbeitstitel: Am Bahnhof in Köln-Porz-Wahn - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplanentwurf Nr. 664373/02, Arbeitstitel Trierer Straße in Köln-Neustadt/Süd - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren Nördlich Graacher Straße in Köln-Zollstock
+- TOP 13.2: Aufhebung des Einleitungsbeschlusses zur Teilaufhebung des Bebauungsplanes Nr.63450/03 Arbeitstitel: Maarweg/Scheidtweilerstraße in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Veröffentlichungen (ehem. Offenlage von Bauleitplänen)
+- TOP 17.1: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch des Bebauungsplanentwurfes Nr. 74401/02 Arbeitstitel "Hauptstraße/ Urbacher Weg" in Köln-Porz - Kenntnis genommen
+- TOP 17.2: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 247. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 4, Köln-Ehrenfeld – Arbeitstitel: „Entwicklungsraum Max-Becker-Areal“ in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP -: Präsentation betreffend "Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums." - Kenntnis genommen
+- TOP 18.1: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 18.2: Niederschrift zur 11.Sitzung der Ständigen Jury Mülheimer Süden am 15.12.2025 - Kenntnis genommen
+- TOP 18.3: Niederschrift zur 21. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023-2029 am 17.03.2026 - Kenntnis genommen
+- TOP 18.4: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 18.5: Gewerbeflächenbereitstellungskonzept (GFBK); Stand 31.12.2025 - Kenntnis genommen
+- TOP 18.6: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 18.7: Umsetzungsstand Stadtentwicklungskonzept für die produzierende Wirtschaft - Kenntnis genommen
+- TOP 18.8: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 18.9: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 18.10: Auswertung der Kölner Bautätigkeitsstatistik 2025: Viele Baufertigstellungen bei schwachen Baugenehmigungszahlen - Kenntnis genommen
+- TOP 18.11: Evaluation des ersten Kölner Bürgerrats „Mobil im lebenswerten Quartier“ - Kenntnis genommen
+- TOP 18.12: Voreinschätzung zur Zustimmungsfähigkeit eines Vorhabens für Verfahrenserleichterungen des „Wohnungsbau-Turbos“: Olpener Straße 460 in Köln-Merheim - Kenntnis genommen
+- TOP 18.13: Neubesetzung von Mitgliedern des Gestaltungsbeirates - vertagt
+- TOP 18.14: Städtebauliches Qualifizierungsverfahren "Oskar-Jäger-Straße südlich Low Line" - Aufgabenstellung - Kenntnis genommen
+- TOP 18.15: Sanierungen städtische Rheinbrücken – aktueller Sachstand - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
