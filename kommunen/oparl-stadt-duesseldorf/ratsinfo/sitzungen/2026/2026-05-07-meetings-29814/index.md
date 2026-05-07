@@ -1,0 +1,109 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-07T14:00:00+02:00
+- Ende: 2026-05-07T20:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29814
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29814
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 07.05.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00585943.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 07.05.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00585943.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 07.05.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00585943.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 11.02.2026 (SI-RAT/001/2026) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Erdbeben bei Betriebsratswahl Rheinbahn - Auswirkungen auf Stadtverwaltung? - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Soll allgemeiner Verkehr auf der Rheinkniebrücke zur Rheinkirmes 2026 ausgebremst werden? - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Sicherheitslage und Schutzmaßnahmen beim Israel-Tag auf dem Schadowplatz - beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Koordination der Arbeiten im Rheinufertunnel – Durchführung notwendiger Instandsetzungsarbeiten bei Minimierung der Tunnelsperrzeiten - zurückgewiesen
+- TOP 3.5: Anfrage aus aktuellem Anlass der Ratsfraktion Die Linke: Heinrich-Heine-Platz: Dauerbaustelle seit 2023 - zurückgewiesen
+- TOP 3.6: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Israeltag am 3. Mai 2026 - beantwortet
+- TOP 3.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Wie wird die frisch entfachte Flamme der Sportbegeisterung am Brennen gehalten – bis Olympia 2036, 2040 oder 2044? - zurückgewiesen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Beitritt der Rheinbahn in die Allianz von Berliner Verkehrsbetrieben (BVG), der Hamburger Hochbahn AG (HOCHBAHN) und der Münchner Verkehrsgesellschaft mbH (MVG) - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: RRX und die Kosten, die die Landehauptstadt Düsseldorf im Zeitraum 2014 bis 2030 getragen bzw. zu tragen hat - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Umsetzung der Public-Viewing-Verordnung während der Fußball-WM 2026 - beantwortet
+- TOP 4.4: Anfrage der AfD-Ratsfraktion: Kosten, Organisation und religiöse Ausgestaltung des Fastenbrechens im Rathaus am 13.03.2026 - beantwortet
+- TOP 4.5: Anfrage der AfD-Ratsfraktion: Hygienische Zustände in den Toilettenanlagen des Rathauses während Rats- und Ausschusssitzungen - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion SPD/Volt: Glasmacherviertel - Warum hat die Stadt die Chance auf den Ankauf verpasst? - beantwortet
+- TOP 4.7: Anfrage der Ratsfraktion SPD/Volt: Düsseldorf - Ein Platz zum Altwerden in Gemeinschaft? - beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion Die Linke: Militärisch-zivile Zusammenarbeit zwischen Rheinmetall und der Rheinbahn AG - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfraktion Die Linke: Kosten der Olympia-Abstimmung - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Tscholl: Förderung des Düsseldorfer Reiter- und Rennvereins: Transparenz, Steuerung und Zielsetzung - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Vogt: Sachstand Rheinbahn/Nutzung der Partybahn bzw. der sogenannten Oldie-Bahnen und -busse - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Maniera: Umgang der Stadt Düsseldorf mit ungeklärter Identität im Leistungsbezug - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Maniera: Vandalismus und Sachbeschädigung im öffentlichen Raum - schriftlich beantwortet
+- TOP 4.14: Anfrage des Ratsherrn Lemmer: Rheinbahn, technischer Vorstand, gerichtliche Auseinandersetzungen und nicht zugelassene Schienen - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Krüger: Rheinbahn Sammelschließanlagen für Fahrräder und E-Bikes inklusive der insbesondere in Kaiserswerth sich ergebenden Verschärfungen und Verschlechterungen im direktem Umfeld - schriftlich beantwortet
+- TOP 4.16: Anfrage des Ratsherrn Krüger: Theodor-Heuss-Brücke und noch heute auffindbarer Silvestermüll - schriftlich beantwortet
+- TOP 4.17: Anfrage des Ratsherrn Tscholl: Neukonzeption Kleine Kommissionen - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau Dufhues: Finanzielle Risiken im Rahmen der Bewerbung um die Olympischen und Paralympischen Spiele. Teil 2 - schriftlich beantwortet
+- TOP 4.19: Anfrage der Ratsfrau Dufhues: Finanzielle Benachteiligungen bei Barzahlung - schriftlich beantwortet
+- TOP 4.20: Anfrage des Ratsherrn Lemmer: Keine Igeltore in Düsseldorf? - schriftlich beantwortet
+- TOP 4.21: Anfrage der Ratsfrau Marmulla: Aktive Bekämpfung von Mietpreisüberhöhungen nach § 5 Wirtschaftsstrafgesetz (WiStrG) - schriftlich beantwortet
+- TOP 4.22: Anfrage des Ratsherrn Eberhardt-Köster: Konzessionsvertrag Gas - schriftlich beantwortet
+- TOP 4.23: Anfrage der Ratsfrau Lehmann: Abschiebungen der Düsseldorfer Ausländerbehörde 2025 - schriftlich beantwortet
+- TOP 5: Mitgliedschaft der Landeshauptstadt Düsseldorf in der Bundesarbeitsgemeinschaft Wohnungslosenhilfe e. V. (BAG W) - mehrheitlich beschlossen
+- TOP 6: Verlängerung der Mitgliedschaft der Landeshauptstadt Düsseldorf im European Healthy Cities Network der Weltgesundheitsorganisation (WHO) zur Teilnahme an Phase VIII (2026-2030) - mehrheitlich beschlossen
+- TOP 7: Änderung der Satzung für Übergangsheime und Obdachlosenunterkünfte der Landeshauptstadt Düsseldorf vom 14.01.2008 - Ergänzung eines Betretungsrechtes - einstimmig beschlossen
+- TOP 8: Abfallwirtschaftskonzept für die Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 8.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage AÖE/016/2026 - mehrheitlich beschlossen
+- TOP 9: Grundstücksangelegenheit - mehrheitlich beschlossen
+- TOP 9.1: Änderungsantrag der Ratsfraktionen von SPD/Volt und Die Linke zur Vorlage APS/001/2026 - mehrheitlich abgelehnt
+- TOP 9.2: Änderungsantrag der FDP-Ratsfraktion zu Vorlage APS/001/2026 - mehrheitlich abgelehnt
+- TOP 9.3: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/001/2026 - mehrheitlich beschlossen
+- TOP 10: Sechster Bericht zum Ratsbeschluss „Saubere Luft für Düsseldorf – Reduzierung von NOx-Emissionen vorantreiben - zur Kenntnis genommen
+- TOP 11: Akademiestraße 2 - Erhaltung des Standorts durch Modernisierung, Teilumbau und Anpassung der Gebäudestruktur - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 12: Benennung von Mitgliedern des Behindertenrates zur Entsendung in die Ausschüsse des Rates - einstimmig beschlossen
+- TOP 13: D.LIVE GmbH & Co. KG - Zuschüsse zur Finanzierung von Investitionen und Betriebskosten in Bezug auf die verschiedenen Veranstaltungsstätten - mehrheitlich beschlossen
+- TOP 14: Aufstellung der genehmigten über- und außerplanmäßigen Mittelbereitstellungen des Haushaltsjahres 2025 - zur Kenntnis genommen
+- TOP 15: Entwurf Jahresabschluss 2025 - mehrheitlich beschlossen
+- TOP 16: 17. Ordnung zur Änderung der Benutzungsordnung der Stadtbüchereien Düsseldorf - mehrheitlich beschlossen
+- TOP 17: Anpassung der Eintrittspreise im Aquazoo Löbbecke Museum - mehrheitlich beschlossen
+- TOP 18: Inbetriebnahme U80/U81 - mehrheitlich beschlossen
+- TOP 18.1: Ergänzungsantrag der Ratsfraktion SPD/Volt zur Vorlage OVA/008/2026 - mehrheitlich abgelehnt
+- TOP 19: Wahl einer Schiedsperson für den Schiedsamtsbezirk 14 – Gerresheim - einstimmig beschlossen
+- TOP 20: Wahl einer Schiedsperson für den Schiedsamtsbezirk 17 -Vennhausen,Unterbach und In der Elb - einstimmig beschlossen
+- TOP 21: Wahl einer Schiedsperson für den Schiedsamtsbezirk 20 – Garath und Hellerhof - mehrheitlich beschlossen
+- TOP 22: Änderung der Gebührenfestlegung für Ausnahmegenehmigungen - mehrheitlich beschlossen
+- TOP 22.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage OVA/046/2026/1
+- TOP 23: Brandschutztechnische Ertüchtigung von acht U-Bahnhöfen im Bestand bis 2044 - mehrheitlich beschlossen
+- TOP 24: Abberufungen und Bestellungen von Prüferinnen und Prüfern für das Amt für kommunale Prüfung - einstimmig beschlossen
+- TOP 25: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2022 - Bestätigung des Gesamtabschlusses - - einstimmig beschlossen
+- TOP 26: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" - mehrheitlich beschlossen
+- TOP 27: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 28: Besetzung der Ausschüsse durch den Jugendrat - einstimmig beschlossen
+- TOP 29: Änderungsbeschluss Deutsches Tischtenniszentrum - Erweiterung Küche und Speiseraum, Mehrkosten - einstimmig beschlossen
+- TOP 30: Vereinssportanlage Fährstraße/Völklinger Straße Umbau Tennenspielfeld in Kunstrasen - einstimmig beschlossen
+- TOP 31: Vereinssportanlage Scheideweg/Dechenweg – Umbau Tennenspielfeld in Kunstrasen - einstimmig beschlossen
+- TOP 32: Bezirkssportanlage Windscheidstraße – Modernisierung der Wettkampfanlage - einstimmig beschlossen
+- TOP 33: Anträge
+- TOP 33.1: Antrag der AfD-Ratsfraktion: Sicherheitsbedenken ernst nehmen – Standort Eisenstraße 49 für Drogenzentrum aufgeben! - mehrheitlich abgelehnt
+- TOP 33.2: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Prüfung der Einrichtung einer Städtepartnerschaft mit einer palästinensischen Kommune - mehrheitlich abgelehnt
+- TOP 33.3: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Gewährleistung der öffentlichen Sicherheit und Ordnung zum Jahreswechsel – Prüfung und Umsetzung eines stadtweiten Verbots von pyrotech. Gegenständen - mehrheitlich abgelehnt
+- TOP 33.4: Antrag der Ratsfraktion DIE LINKE: Vorrangschaltung für Busse über die Theodor- Heuss - Brücke - zurückgezogen
+- TOP 33.5: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Zwischennutzung des ehemaligen Kaufhofs am Wehrhahn als Kulturraum - mehrheitlich beschlossen
+- TOP 33.5.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/054/2026 - mehrheitlich abgelehnt
+- TOP 33.6: Antrag der AfD-Ratsfraktion: Durchführung eines Ratsbürgerentscheids gemäß § 26 I 2 GO NRW - mehrheitlich abgelehnt
+- TOP 33.7: Antrag der Ratsfraktion SPD/Volt: Endlich Wohnraum mit Perspektive – mehr bezahlbare Wohnungen durch eine aktive kommunale Ankaufspolitik - mehrheitlich abgelehnt
+- TOP 33.8: Antrag der FDP-Ratsfraktion: Beendigung der Städtepartnerschaft mit Moskau - mehrheitlich abgelehnt
+- TOP 33.8.1: mündlicher Änderungsantrag des Ratsherrn Lemmer - mehrheitlich abgelehnt
+- TOP 33.9: Antrag der AfD-Ratsfraktion: Rückerstattung Kosten Deutschlandticket im Falle von mehrtägigen Streiks der Rheinbahn - mehrheitlich abgelehnt
+- TOP 33.10: Antrag der AfD-Ratsfraktion: Einrichtung einer zentralen Koordinierungsstelle für konsequentes Rückkehr- und Aufenthaltsmanagement / Remigration - mehrheitlich abgelehnt
+- TOP 33.11: Antrag der Ratsfraktion SPD/Volt: Mehr Wahlmöglichkeiten und digitale Souveränität: Europäischen Bezahldienst Wero für städtische Dienstleistungen prüfen - verwiesen
+- TOP 33.12: Antrag der AfD-Ratsfraktion: Einführung eines regelmäßigen kommunalen Abwasserscreenings auf illegale Drogen und deren Metaboliten in Düsseldorf - mehrheitlich abgelehnt
+- TOP 33.13: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Krüger und Ratsherrn Lemmer: Brandschutz nicht überbewerten, früher hat‘s auch gebrannt! - mehrheitlich abgelehnt
+- TOP 33.14: Antrag der Ratsfraktion SPD/Volt: Sicherung des Papierfabrik-Areals in Bilk als Gewerbestandort – Maßnahmen gegen Bodenspekulation - verwiesen
+- TOP 33.15: Antrag der Ratsfraktion Die Linke: Dreijähriges Moratorium für die weitere Planung und Realisierung eines Neubaus der Düsseldorfer Oper / DOR
+- TOP 33.15.1: Änderungsantrag der Ratsfrau Mirus zur Vorlage RAT/257/2026
+- TOP 33.16: Antrag der Ratsfraktion Die Linke: Keine Uran- und Castor-Transporte durch Düsseldorf
+- TOP 33.17: Antrag der Ratsfraktion Die Linke: Düsselferien kostenfrei für Düsselpass-Kinder
+- TOP 34: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 35: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 36: Feststellung amtliches Endergebnis Ratsbürgerentscheid vom 19.04.2026 - Beteiligung der Landeshauptstadt Düsseldorf an der gemeinsamen Bewerbung der Region Rhein/Ruhr um die Olympischen und Paralympischen Spiele im Jahr 2036, 2040 oder 2044 - einstimmig beschlossen
