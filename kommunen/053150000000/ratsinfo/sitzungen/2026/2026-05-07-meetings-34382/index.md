@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-05-07T15:35:00+02:00
+- Ende: 2026-05-07T19:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34382
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34382
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf aktuelle Stunde der Fraktion Bündnis 90/Die Grünen betreffend "Museum Selma" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Tanz und Zeitgenössischer Zirkus - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktion Bündnis 90/Die Grünen, CDU, Die Linke, FDP/KSG betreffend "Kulturelle Bildung" - ungeändert beschlossen
+- TOP 3.2: Antrag der Fraktion Bündnis 90/Die Grünen, SPD, Die Linke, FDP/KSG betreffend "Zeughaus und Alte Wache für interimistische Nutzung der Freien Szene öffnen" - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.2 – „Zeughaus und Alte Wache für interimistische Nutzung der Freien Szene öffnen“ - geändert beschlossen
+- TOP 3.3: Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen, SPD, FDP/KSG betreffend "Konzeptionsförderung für freie Gruppen sicherstellen" - ungeändert beschlossen
+- TOP 3.4: Dringlichkeitsantrag der Fraktion Die Linke betreffend "Nutzung und Gestaltung des Ebertplatzes" - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Freigabe von Mitteln zur Förderung des „Film Festival Cologne 2026“ - ungeändert beschlossen
+- TOP 4.2: Gemeinnützigkeitssatzung für das NS-Dokumentationszentrum der Stadt Köln - ungeändert beschlossen
+- TOP 4.3: Bestellung der politischen Vertreter*innen für die Jurys zur Vergabe der Förderstipendien für junge Kunst der Stadt Köln - geändert beschlossen
+- TOP 4.4: Mittelerhöhung Landesförderprogramm NRW "Kulturrucksack" für 2026 - ungeändert beschlossen
+- TOP 4.5: Vergabe der Förderungen für Produktionen und Sonderprojekte sowie Cologne Music Export in der Sparte Popkultur 2026 - ungeändert beschlossen
+- TOP 4.6: Zuschuss für das Edelweißpiratenfestival 2026 an den Edelweißpiratenclub e.V. - ungeändert beschlossen
+- TOP 4.7: Einrichtung eines Kunstbeirates für die Ratsperiode 2025-2030 - vertagt
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Kulturelle Infrastruktur, Strategie, Belange der Freien Szene - Jahresbericht 2025 - Kenntnis genommen
+- TOP 8.2: Sonderausstellung Hans Georg Esch - Der architektonische Blick - Kenntnis genommen
+- TOP 8.3: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - Kenntnis genommen
+- TOP 8.4: Beantragung von Mitteln für die Regionale Kulturförderung des Landschaftverbandes Rheinland für 2027 - Kenntnis genommen
+- TOP 8.5: Strukturförderfonds 2026 - Kenntnis genommen
+- TOP 8.6: Museumsnacht 2026 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 15. April 2026 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 13. April 2026 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 15. April 2026 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten/Termin-Darstellung (Zeitstrahl) - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der SPD-Fraktion betreffend "Sachstand Standortfrage Kunst- und Museumsbibliothek (KMB)"
+- TOP 10.2: Beantwortung einer mündlichen Anfrage von RM Frau von Bülow aus der Sitzung des Ausschusses Kunst und Kultur vom 29.01.2026 betreffend "Hohe Kosten für Werbung und Didaktik" im Rahmen von Sonderausstellungen des RJM und MOK - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung einer mündlichen Anfrage von Maria Helmis-Arend (SPD) aus der Sitzung des Ausschusses für Kunst und Kultur vom 29.01.2026 - Kenntnis genommen
+- TOP 10.5: Mündliche Anfrage zum Sachstandsbericht zur Zentralbibliothek Köln in der Sitzung am 09.12.2025 - Kenntnis genommen
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7: Beantwortung einer schriftlichen Anfrage von Robert Schallehn, MdR, vom 19.März 2026 betreffend "Besucherzahlen, Kosten und Sanierung Museen" - Kenntnis genommen
+- TOP 10.8: Erweiterung der Öffnungszeiten in der Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP 10.9: Fahrradparkplätze vor dem Interim der Zentralbibliothek in der Hohe Str. - Kenntnis genommen
+- TOP 10.10: Beantwortung einer mündlichen Anfrage von RM von Bülow, Fraktion Bündnis90/Grüne aus der Sitzung des Ausschus für Kunst und Kultur vom 12.3.2026 zur Studie „Queer durch NRW – Lebenslage und Erfahrungen von LSBTIQ+" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der Fraktion Die Linke betreffend "Finanzierung Museum Selma" - Kenntnis genommen
+- TOP 11.2: Anfrage der Fraktion SPD betreffend "Zukunft des inklusiven Kunsthauses Kalk (KUBiST e.V.) in den Hallen Kalk"
+- TOP 11.3: Anfrage der Fraktion Die Linke betreffend "Nutzung und Gestaltung des Ebertplatzes" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion ‚Die Linke‘ zur Nutzung und Gestaltung des Ebertplatzes aus dem Ausschuss Kunst und Kultur am 12.03.2026 (AN/0450/2026) - Kenntnis genommen
+- TOP 11.4: Anfrage der Fraktion Die Linke betreffend "Finanzsituation Fördermittelempfangende Kunst und Kultur" - Kenntnis genommen
+- TOP 11.5: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "MiQua: Abwasserkanal" - vertagt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen "MiQua: Abwasserkanal" (AN/0746/2026) - vertagt
+- TOP 11.6: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Atelierhaus Flittard"
+- TOP 11.7: Anfrage der Fraktion Volt betreffend "Kulturelle Teilhabe, Sichtbarkeit und ein „Köln für Alle"
+- TOP 12: Mündliche Anfragen
