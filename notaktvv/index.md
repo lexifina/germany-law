@@ -6,16 +6,19 @@
 
 - [§ 1 Verzeichnisse](0001.md)
 - [§ 2 Akten](0002.md)
+- [§ 3 Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden](0003.md)
 - [§ 4 Form und Übergabe elektronischer Aufzeichnungen](0004.md)
 - [§ 5 Sicherheit elektronischer Aufzeichnungen](0005.md)
 - [§ 6 Technische und organisatorische Maßnahmen](0006.md)
 
 ## Abschnitt 2 Urkundenverzeichnis
 
+- [§ 7 Urkundenverzeichnis](0007.md)
 - [§ 8 Führung des Urkundenverzeichnisses](0008.md)
 - [§ 9 Angaben im Urkundenverzeichnis](0009.md)
 - [§ 10 Ortsangabe](0010.md)
 - [§ 11 Angaben zur Amtsperson](0011.md)
+- [§ 12 Angabe der Beteiligten](0012.md)
 - [§ 13 Angabe des Geschäftsgegenstands](0013.md)
 - [§ 14 Angabe der Urkundenart](0014.md)
 - [§ 15 Angaben zu Ausfertigungen](0015.md)
@@ -40,11 +43,13 @@
 
 ## Abschnitt 4 Urkundensammlung, Erbvertragssammlung
 
+- [§ 31 Urkundensammlung](0031.md)
 - [§ 32 Erbvertragssammlung](0032.md)
 - [§ 33 Sonderbestimmungen für Verfügungen von Todes wegen](0033.md)
 
 ## Abschnitt 5 Elektronische Urkundensammlung, Sondersammlung
 
+- [§ 34 Elektronische Urkundensammlung](0034.md)
 - [§ 35 Einstellung von Dokumenten](0035.md)
 - [§ 36 Löschung von Dokumenten](0036.md)
 - [§ 37 Sondersammlung](0037.md)
