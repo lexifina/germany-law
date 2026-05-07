@@ -1,0 +1,62 @@
+# Haushalts-Sondersitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-05-07T16:00:00+02:00
+- Ende: 2026-05-07T18:50:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24955
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24955
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00363133.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00364632.pdf
+
+## Tagesordnung
+
+- TOP 1: Haushalt
+- TOP 1.1: Haushaltsreden
+- TOP 1.2: Fraktionsanträge zum Haushalt
+- TOP 1.2.1: KI für die Schwimmoper - ungeändert beschlossen
+- TOP 1.2.2: Organisations- und Personalsteuerung der Stadt Wuppertal - geändert beschlossen
+- TOP 1.2.3: Haushaltsplanberatungen; Neufassung Gemeinsamer Antrag der Fraktionen von SPD und CDU - ungeändert beschlossen
+- TOP 1.2.4: Städtischer Haushalt Wuppertal 2026/27, Haushaltsplanberatungen - abgelehnt
+- TOP 1.2.5: Änderungsantrag der FDP/WFW-Fraktion zum Haushaltssicherungskonzept (HSK)hier: Maßnahmen I (demografiebedingte Personalfluktuation) und III (strategische Organisationsentwicklung) - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.2.6: Digitalisierung und Einsatz von Künstlicher Intelligenz Änderungsantrag der FDP/WFW-Fraktion zu Maßnahme 8 (HSK) - abgelehnt
+- TOP 1.2.7: Interkommunale Zusammenarbeit im Bergischen Städtedreieck ausbauen Ergänzungsantrag der FDP/WFW-Fraktion im Rat der Stadt Wuppertal zum Haushaltsicherungskonzept (HSK) - ungeändert beschlossen
+- TOP 1.2.8: Ergänzungsantrag der FDP/WFW-Fraktion im Rat der Stadt Wuppertal zum Haushaltsicherungskonzept (HSK) - abgelehnt
+- TOP 1.2.9: Ergänzungsantrag zum Haushaltssicherungskonzept„Strategische Neuordnung und Effizienzsteigerung im Konzern Stadt“ - abgelehnt
+- TOP 1.2.10: Ergänzungsantrag zum Haushaltsplan 20926/27 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.2.11: Änderungsantrag der Ratsgruppe BSW zum Haushaltssicherungskonzept (HSK): Maßnahmen I demografiebedingte Personalfluktuation und III strategische Organisationsentwicklung - abgelehnt
+- TOP 1.2.12: Änderungsantrag Haushaltsplan 2026/2027 - abgelehnt
+- TOP 1.2.13: Änderungsantrag Haushaltssicherungskonzept - ungeändert beschlossen
+- TOP 1.2.14: Änderungsantrag Haushalt - ungeändert beschlossen
+- TOP 1.2.15: Haushaltsplanberatungen; Antrag der FDP/FW- Fraktion - abgelehnt
+- TOP 1.3: Weitere Anträge zum Haushalt
+- TOP 1.3.1: Antrag auf Zuschusserhöhung für Die Börse und Wuppertaler Kinder- und Jugendtheater - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.2: Antrag auf Zuschusserhöhung für die Wicked Woods - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.3: Anträge auf Finanzierung sozialer Träger - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.4: Antrag auf Zuschusserhöhung profamilia - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.5: Die Kulturverwaltung empfiehlt dem Kulturausschuss, den Beschluss vom 12.02.2025 zu den Ergebnissen der Arbeitsgruppe Institutionelle Förderung (VO/0084/25) unverändert in den Finanzausschuss, Hauptausschuss und Rat einzubringen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.6: Antrag der Kinder- und Jugendfarm Wuppertal e. V. - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.4: Verwaltungsvorlagen zum Haushalt
+- TOP 1.4.1: Erhöhung Projektbudget SAP S/4 HANA - ungeändert beschlossen
+- TOP 1.4.2: Weiterfinanzierung von diversen Beschäftigungsprojekten - ungeändert beschlossen
+- TOP 1.4.3: Umsetzung des Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz – LuKIFG sowie des NRW-Infrastrukturgesetzes 2025 bis 2036 - ungeändert beschlossen
+- TOP 1.4.4: Mehrkostenbeschluss Sanierung Freibad Mirke und Sachstandsbericht - ungeändert beschlossen
+- TOP 1.4.5: Neuveranschlagung der Bedarfe der Feuerwehr im Haushaltsplan 2026/2027 im Rahmen der Veränderungen zum Haushaltsplanentwurf - ungeändert beschlossen
+- TOP 1.4.6: Ausbuchung der Bilanzierungshilfe nach dem NKF-COVID-19-Ukraine-Isolierungsgesetz (NKF-CUIG) - ungeändert beschlossen
+- TOP 1.4.7: Verstetigung der Ehrenamtspauschale - ungeändert beschlossen
+- TOP 1.4.8: Weiterführung Sonntagsöffnung - ungeändert beschlossen
+- TOP 1.4.9: Kalktrichterofen - Weiteres Vorgehen und Sachstand - ungeändert beschlossen
+- TOP 1.4.10: Rekommunalisierung der von der Stadtsparkasse Wuppertal gehaltenen Anteile an der gwg in den städtischen Konzern - ungeändert beschlossen
+- TOP 1.4.11: Einbringung Wirtschaftsplan GMW 2026 - geändert beschlossen
+- TOP 1.4.12: Überplanmäßige Mittelbereitstellung Schloss Burg - ungeändert beschlossen
+- TOP 1.4.14: Kommunales Gesamtkonzept Kulturelle Bildung (KGKB) - vertagen
+- TOP 1.5: Empfehlungen der Bezirksvertretungen und Ratsgremien zum Entwurf des Haushaltsplanes 2026/2027 und zum Entwurf des Haushaltssicherungskonzeptes 2026/2027 - geändert beschlossen
+- TOP 1.6: Empfehlungen der Bezirksvertretungen und Ratsgremien zum Entwurf des Haushaltsplanes 2026/2027 und zum Entwurf des Haushaltssicherungskonzeptes 2026/2027 - geändert beschlossen
+- TOP 1.7: 1. Veränderungsnachweisung zum Haushaltsplanentwurf 2026/2027 - geändert beschlossen
+- TOP 1.7.1: Antrag zur Tagesordnung, TOP 1.7: „1. Veränderungsnachweisung zum Haushaltsplanentwurf 2026/2027 - ungeändert beschlossen
+- TOP 1.8: 2. Veränderungsnachweisung zum Haushaltssicherungskonzept (HSK) 2026/2027 - ungeändert beschlossen
+- TOP 1.9: 3. Veränderungsnachweisung zum Haushaltsplanentwurf 2026/2027 - ungeändert beschlossen
+- TOP 1.10: Haushaltssatzung 2026/2027 - ungeändert beschlossen
