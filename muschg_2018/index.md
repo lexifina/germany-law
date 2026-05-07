@@ -41,6 +41,7 @@
 
 - [§ 18 Mutterschutzlohn](0018.md)
 - [§ 19 Mutterschaftsgeld](0019.md)
+- [§ 20 Zuschuss zum Mutterschaftsgeld](0020.md)
 - [§ 21 Ermittlung des durchschnittlichen Arbeitsentgelts](0021.md)
 - [§ 22 Leistungen während der Elternzeit](0022.md)
 - [§ 23 Entgelt bei Freistellung für Untersuchungen und zum Stillen](0023.md)

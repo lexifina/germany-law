@@ -1,5 +1,4 @@
-# Gesetz zur Vereinheitlichung und Änderung familienrechtlicher
-Vorschriften
+# Gesetz zur Vereinheitlichung und Änderung familienrechtlicher Vorschriften
 
 
 ## -

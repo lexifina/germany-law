@@ -25,6 +25,7 @@
 - [§ 10 Besonderes elektronisches Bürger- und Organisationenpostfach](0010.md)
 - [§ 11 Identifizierung und Authentisierung des Postfachinhabers](0011.md)
 - [§ 12 Änderung von Angaben und Löschung des Postfachs](0012.md)
+- [§ 13 Elektronische Kommunikation über den Postfach- und Versanddienst eines Nutzerkontos](0013.md)
 - [§ 13a Datenverarbeitung](0013a.md)
 
 ## Kapitel 5 Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Strafgerichten

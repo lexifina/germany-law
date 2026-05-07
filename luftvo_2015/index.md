@@ -47,6 +47,7 @@
 - [§ 21e Benannte und anerkannte Stellen](0021e.md)
 - [§ 21f Regelungen für den Betrieb von Flugmodellen im Rahmen von Luftsportverbänden nach der Durchführungsverordnung (EU) 2019/947](0021f.md)
 - [§ 21g Regelungen für die Erteilung einer Genehmigung nach der Durchführungsverordnung (EU) 2019/947 an Luftsportverbände](0021g.md)
+- [§ 21h Regelungen für den Betrieb von unbemannten Fluggeräten in geografischen Gebieten nach der Durchführungsverordnung (EU) 2019/947](0021h.md)
 - [§ 21i Erteilung einer Genehmigung](0021i.md)
 - [§ 21j Ausweisung und Veröffentlichung geografischer Gebiete nach Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947](0021j.md)
 - [§ 21k Betrieb von unbemannten Fluggeräten durch Behörden und Organisationen mit Sicherheitsaufgaben](0021k.md)

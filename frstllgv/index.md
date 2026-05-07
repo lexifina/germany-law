@@ -1,5 +1,4 @@
-# Verordnung über die Befreiung bestimmter Beförderungsfälle von den
-Vorschriften des Personenbeförderungsgesetzes
+# Verordnung über die Befreiung bestimmter Beförderungsfälle von den Vorschriften des Personenbeförderungsgesetzes
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)

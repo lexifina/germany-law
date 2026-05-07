@@ -1,5 +1,4 @@
-# Verordnung über Verkehrsleistungen der Eisenbahnen für die
-Streitkräfte
+# Verordnung über Verkehrsleistungen der Eisenbahnen für die Streitkräfte
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Umfang der Leistungspflicht](0001.md)

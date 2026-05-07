@@ -1,7 +1,4 @@
-# Verordnung zur Einführung eines Vordrucks für die Erklärung über die
-persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie
-eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von
-Prozesskostenhilfe im grenzüberschreitenden Verkehr
+# Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden Verkehr
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Vordrucke](0001.md)

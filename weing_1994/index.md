@@ -1,5 +1,6 @@
 # Weingesetz
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## 1. Abschnitt Allgemeine Bestimmungen
 
@@ -14,6 +15,7 @@
 
 - [§ 4 Rebanlagen](0004.md)
 - [§ 5 Anerkennung der für Qualitätswein, Prädikatswein, Qualitätslikörwein b. A., Qualitätsperlwein b.A. und Sekt b.A. geeigneten Rebflächen](0005.md)
+- [§ 6 Wiederbepflanzungen](0006.md)
 - [§ 6a Umwandlung bestehender Pflanzungsrechte](0006a.md)
 - [§ 7 Festsetzung eines Prozentsatzes für Neuanpflanzungen](0007.md)
 - [§ 7a Genehmigungsfähigkeit](0007a.md)
@@ -47,10 +49,14 @@
 - [§ 20 Qualitätsprüfung der Prädikatsweine](0020.md)
 - [§ 21 Ermächtigungen](0021.md)
 - [§ 22 Landwein](0022.md)
+- [§ 22a Jährliche Kontrollen der Produktspezifikationen](0022a.md)
 
 ## 5. Abschnitt Geografische Bezeichnungen und Kennzeichnung
 
+- [§ 22b Schutz geografischer Bezeichnungen](0022b.md)
+- [§ 22c Finanzielle Beiträge an anerkannte Erzeugervereinigungen; Verordnungsermächtigung](0022c.md)
 - [§ 22d Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe](0022d.md)
+- [§ 23 Angabe kleinerer und größerer geografischer Einheiten](0023.md)
 - [§ 24 Bezeichnungen und sonstige Angaben](0024.md)
 - [§ 24a Besondere Bezeichnungen für Qualitätsschaumwein](0024a.md)
 - [§ 25 Verbote zum Schutz vor Täuschung](0025.md)
@@ -90,6 +96,8 @@
 ## 9. Abschnitt Straf- und Bußgeldvorschriften
 
 - [§ 48 Strafvorschriften](0048.md)
+- [§ 49 Strafvorschriften](0049.md)
+- [§ 50 Bußgeldvorschriften](0050.md)
 - [§ 51 Ermächtigungen](0051.md)
 - [§ 52 Einziehung](0052.md)
 
@@ -103,6 +111,7 @@
 - [§ 53 Rechtsverordnungen zur Durchführung des Gemeinschaftsrechts oder Unionsrechts](0053.md)
 - [§ 54 Übertragung von Ermächtigungen](0054.md)
 - [§ 55 (weggefallen)](0055.md)
+- [§ 56 Übergangsregelungen](0056.md)
 - [§ 57 Fortbestehen anderer Vorschriften](0057.md)
 - [§ 57a Ermächtigung zur Aufhebung von Rechtsvorschriften](0057a.md)
 - [§ 57b Geändertes Unionsrecht](0057b.md)

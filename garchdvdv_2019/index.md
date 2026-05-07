@@ -12,6 +12,7 @@
 ## Abschnitt 2 Einstellung in den Vorbereitungsdienst und Auswahlverfahren
 
 - [§ 5 Einstellungsvoraussetzungen](0005.md)
+- [§ 6 Auswahlverfahren](0006.md)
 - [§ 7 Auswahlkommission](0007.md)
 - [§ 8 Bestandteile des Auswahlverfahrens](0008.md)
 - [§ 9 Schriftlicher Teil des Auswahlverfahrens](0009.md)

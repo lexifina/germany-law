@@ -13,6 +13,7 @@
 
 ## Abschnitt 2 Datenmeldungen, Versichertenklassifikationsmodell und Gutachten
 
+- [§ 7 Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs](0007.md)
 - [§ 8 Auswahl und Anpassung des Versichertenklassifikationsmodells](0008.md)
 - [§ 9 Datenmeldungen für den monatlichen Ausgleich](0009.md)
 - [§ 10 Gutachten des Wissenschaftlichen Beirates zu Zuweisungen für das Krankengeld](0010.md)

@@ -5,10 +5,12 @@
 
 ## Teil 1 Allgemeiner Teil
 
+- [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs
 
+- [§ 3 Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs](0003.md)
 - [§ 4 Anerkennung von Strom, der über einen Direktanschluss von Stromerzeugungsanlagen bezogen wird](0004.md)
 - [§ 5 Anerkennung von Strom aus dem Netz](0005.md)
 - [§ 6 Zusätzliche Stromerzeugung](0006.md)
@@ -35,6 +37,7 @@
 
 - [§ 16 Ausstellung von Nachweisen](0016.md)
 - [§ 17 Inhalt und Form der Nachweise](0017.md)
+- [§ 18 Dokumentation der Lieferung in Massenbilanzsystemen](0018.md)
 - [§ 19 Anforderungen an Massenbilanzsysteme](0019.md)
 - [§ 20 Fehlende oder nicht ausreichende Angaben](0020.md)
 - [§ 21 Weitere anerkannte Nachweise](0021.md)
@@ -81,6 +84,7 @@
 
 ## Teil 5 Zentrales Register und elektronische Datenbank
 
+- [§ 44 Register für erneuerbare Kraftstoffe nicht biogenen Ursprungs](0044.md)
 - [§ 45 Datenabgleich](0045.md)
 
 ## Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren

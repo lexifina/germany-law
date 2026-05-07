@@ -15,6 +15,8 @@
 - [§ 12 Übergangsregelung zum Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten](0012.md)
 - [§ 13 Übergangsvorschrift zum Gesetz zur Novellierung des Rechts der Unterbringung in einem psychiatrischen Krankenhaus gemäß § 63 des Strafgesetzbuches und zur Änderung anderer Vorschriften](0013.md)
 - [§ 14 Übergangsregelung zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung](0014.md)
+- [§ 15 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung](0015.md)
 - [§ 16 Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens](0016.md)
 - [§ 17 Übergangsregelung zum Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 und zu § 76 des Bundesdatenschutzgesetzes vom 30. Juni 2017](0017.md)
 - [§ 18 Übergangsregelung zum Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität](0018.md)
+- [§ 19 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen](0019.md)

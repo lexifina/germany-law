@@ -4,6 +4,7 @@
 
 ## Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren
 
+- [§ 1 Anwendungsbereich; Verhältnis zum Verbraucherrechtedurchsetzungsgesetz](0001.md)
 - [§ 2 Musterverfahrensantrag](0002.md)
 - [§ 3 Entscheidung über den Musterverfahrensantrag](0003.md)
 - [§ 4 Bekanntmachung des Musterverfahrensantrags](0004.md)

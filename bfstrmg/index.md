@@ -17,6 +17,7 @@
 - [§ 4j Nutzerlisten](0004j.md)
 - [§ 5 Nachweispflicht des Mautschuldners](0005.md)
 - [§ 6 Einrichtungen zur Erhebung der Maut](0006.md)
+- [§ 7 Kontrolle](0007.md)
 - [§ 8 Nachträgliche Mauterhebung](0008.md)
 - [§ 8a Bekanntgabe von Verwaltungsakten im Ausland](0008a.md)
 - [§ 8b Aufrechnungsverbot](0008b.md)

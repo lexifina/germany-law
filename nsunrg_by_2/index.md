@@ -1,2 +1,1 @@
-# Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in
-der Strafrechtspflege
+# Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege

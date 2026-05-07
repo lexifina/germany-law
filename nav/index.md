@@ -27,6 +27,7 @@
 
 - [§ 16 Nutzung des Anschlusses](0016.md)
 - [§ 17 Unterbrechung der Anschlussnutzung](0017.md)
+- [§ 18 Haftung bei Störungen der Anschlussnutzung](0018.md)
 
 ## Teil 4 Gemeinsame Vorschriften
 

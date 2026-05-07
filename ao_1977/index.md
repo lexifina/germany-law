@@ -1,5 +1,6 @@
 # Abgabenordnung
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Erster Teil Einleitende Vorschriften
 
@@ -54,6 +55,7 @@
 - [§ 29c Verarbeitung personenbezogener Daten durch Finanzbehörden zu anderen Zwecken](0029c.md)
 - [§ 30 Steuergeheimnis](0030.md)
 - [§ 31 Mitteilung von Besteuerungsgrundlagen](0031.md)
+- [§ 31a Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs](0031a.md)
 - [§ 31b Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung](0031b.md)
 - [§ 31c Verarbeitung besonderer Kategorien personenbezogener Daten durch Finanzbehörden zu statistischen Zwecken](0031c.md)
 
@@ -107,10 +109,13 @@
 ### Dritter Abschnitt Steuerbegünstigte Zwecke
 
 - [§ 51 Allgemeines](0051.md)
+- [§ 52 Gemeinnützige Zwecke](0052.md)
 - [§ 53 Mildtätige Zwecke](0053.md)
 - [§ 54 Kirchliche Zwecke](0054.md)
+- [§ 55 Selbstlosigkeit](0055.md)
 - [§ 56 Ausschließlichkeit](0056.md)
 - [§ 57 Unmittelbarkeit](0057.md)
+- [§ 58 Steuerlich unschädliche Betätigungen](0058.md)
 - [§ 58a Vertrauensschutz bei Mittelweitergaben](0058a.md)
 - [§ 59 Voraussetzung der Steuervergünstigung](0059.md)
 - [§ 60 Anforderungen an die Satzung](0060.md)
@@ -119,9 +124,11 @@
 - [§ 61 Satzungsmäßige Vermögensbindung](0061.md)
 - [§ 62 Rücklagen und Vermögensbildung](0062.md)
 - [§ 63 Anforderungen an die tatsächliche Geschäftsführung](0063.md)
+- [§ 64 Steuerpflichtige wirtschaftliche Geschäftsbetriebe](0064.md)
 - [§ 65 Zweckbetrieb](0065.md)
 - [§ 66 Wohlfahrtspflege](0066.md)
 - [§ 67 Krankenhäuser](0067.md)
+- [§ 67a Sportliche Veranstaltungen](0067a.md)
 - [§ 68 Einzelne Zweckbetriebe](0068.md)
 
 ### Vierter Abschnitt Haftung
@@ -178,6 +185,7 @@
 - [§ 89a Vorabverständigungsverfahren](0089a.md)
 - [§ 89b Internationale Risikobewertungsverfahren](0089b.md)
 - [§ 90 Mitwirkungspflichten der Beteiligten](0090.md)
+- [§ 91 Anhörung Beteiligter](0091.md)
 - [§ 92 Beweismittel](0092.md)
 
 ##### II. Beweis durch Auskünfte und Sachverständigengutachten
@@ -226,6 +234,18 @@
 - [§ 115 Kosten der Amtshilfe](0115.md)
 - [§ 116 Anzeige von Steuerstraftaten](0116.md)
 - [§ 117 Zwischenstaatliche Rechts- und Amtshilfe in Steuersachen](0117.md)
+- [§ 117a Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten; Verordnungsermächtigung](0117a.md)
+- [§ 117b Besondere Formen der Amtshilfe mit Drittstaaten](0117b.md)
+- [§ 117c Übermittlung von Informationen einschließlich personenbezogener Daten auf Ersuchen an einen anderen Mitgliedstaat der Europäischen Union zur Verhütung von Straftaten](0117c.md)
+- [§ 117d Inhalt des Ersuchens](0117d.md)
+- [§ 117e Ablehnungsgründe](0117e.md)
+- [§ 117f Zusammenarbeit mit zentralen Kontaktstellen](0117f.md)
+- [§ 117g Informationsübermittlung ohne Ersuchen](0117g.md)
+- [§ 117h Verpflichtung zur Übermittlung von Informationen ohne Ersuchen](0117h.md)
+- [§ 117i Informationsübermittlung an Schengen-assoziierte Staaten](0117i.md)
+- [§ 117j Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union](0117j.md)
+- [§ 117k Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen](0117k.md)
+- [§ 117l Statistiken über die zwischenstaatliche Amts- und Rechtshilfe](0117l.md)
 
 ### Zweiter Abschnitt Verwaltungsakte
 
@@ -233,6 +253,7 @@
 - [§ 119 Bestimmtheit und Form des Verwaltungsakts](0119.md)
 - [§ 120 Nebenbestimmungen zum Verwaltungsakt](0120.md)
 - [§ 121 Begründung des Verwaltungsakts](0121.md)
+- [§ 122 Bekanntgabe des Verwaltungsakts](0122.md)
 - [§ 122a Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf](0122a.md)
 - [§ 123 Bestellung eines Empfangsbevollmächtigten](0123.md)
 - [§ 124 Wirksamkeit des Verwaltungsakts](0124.md)
@@ -265,6 +286,7 @@
 - [§ 138c Verordnungsermächtigung](0138c.md)
 - [§ 138d Pflicht zur Mitteilung grenzüberschreitender Steuergestaltungen](0138d.md)
 - [§ 138e Kennzeichen grenzüberschreitender Steuergestaltungen](0138e.md)
+- [§ 138f Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Intermediäre](0138f.md)
 - [§ 138g Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Nutzer](0138g.md)
 - [§ 138h Mitteilungen bei marktfähigen grenzüberschreitenden Steuergestaltungen](0138h.md)
 - [§ 138i Information der Landesfinanzbehörden](0138i.md)
@@ -275,6 +297,7 @@
 #### 3. Unterabschnitt Identifikationsmerkmal
 
 - [§ 139a Identifikationsmerkmal](0139a.md)
+- [§ 139b Identifikationsnummer](0139b.md)
 - [§ 139c Wirtschafts-Identifikationsnummer](0139c.md)
 - [§ 139d Verordnungsermächtigung](0139d.md)
 - [§ 139e Direktauszahlungsmechanismus](0139e.md)
@@ -353,6 +376,7 @@
 
 ##### IV. Kosten
 
+- [§ 178 Kosten bei besonderer Inanspruchnahme der Zollbehörden](0178.md)
 
 #### 2. Unterabschnitt Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 
@@ -423,6 +447,7 @@
 - [§ 212 Durchführungsvorschriften](0212.md)
 - [§ 213 Besondere Aufsichtsmaßnahmen](0213.md)
 - [§ 214 Beauftragte](0214.md)
+- [§ 215 Sicherstellung im Aufsichtsweg](0215.md)
 - [§ 216 Überführung in das Eigentum des Bundes](0216.md)
 - [§ 217 Steuerhilfspersonen](0217.md)
 
@@ -674,6 +699,7 @@
 - [§ 370 Steuerhinterziehung](0370.md)
 - [§ 371 Selbstanzeige bei Steuerhinterziehung](0371.md)
 - [§ 372 Bannbruch](0372.md)
+- [§ 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel](0373.md)
 - [§ 374 Steuerhehlerei](0374.md)
 - [§ 375 Nebenfolgen](0375.md)
 - [§ 376 Verfolgungsverjährung](0376.md)
@@ -682,11 +708,14 @@
 
 - [§ 377 Steuerordnungswidrigkeiten](0377.md)
 - [§ 378 Leichtfertige Steuerverkürzung](0378.md)
+- [§ 379 Steuergefährdung](0379.md)
 - [§ 380 Gefährdung der Abzugsteuern](0380.md)
 - [§ 381 Verbrauchsteuergefährdung](0381.md)
 - [§ 382 Gefährdung der Einfuhr- und Ausfuhrabgaben](0382.md)
 - [§ 383 Unzulässiger Erwerb von Steuererstattungs- und Vergütungsansprüchen](0383.md)
+- [§ 383a Verstöße gegen innerstaatlich anwendbare völkerrechtliche Vereinbarungen zur Förderung der Steuerehrlichkeit](0383a.md)
 - [§ 383b Pflichtverletzung bei Übermittlung von Vollmachtsdaten](0383b.md)
+- [§ 384 Verfolgungsverjährung](0384.md)
 - [§ 384a Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679](0384a.md)
 
 ### Dritter Abschnitt Strafverfahren

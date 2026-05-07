@@ -1,6 +1,10 @@
 # Gesetz über das gesellschaftsrechtliche Spruchverfahren
 
+- [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Zuständigkeit](0002.md)
+- [§ 3 Antragsberechtigung](0003.md)
+- [§ 4 Antragsfrist und Antragsbegründung](0004.md)
+- [§ 5 Antragsgegner](0005.md)
 - [§ 5a Vertretung durch einen Rechtsanwalt](0005a.md)
 - [§ 6 Gemeinsamer Vertreter](0006.md)
 - [§ 6a Gemeinsamer Vertreter bei Gründung einer SE](0006a.md)
@@ -15,6 +19,7 @@
 - [§ 11a Ermittlung der Kompensation durch das Gericht](0011a.md)
 - [§ 12 Beschwerde](0012.md)
 - [§ 13 Wirkung der Entscheidung](0013.md)
+- [§ 14 Bekanntmachung der Entscheidung](0014.md)
 - [§ 15 Kosten](0015.md)
 - [§ 16 Zuständigkeit bei Leistungsklage](0016.md)
 - [§ 17 Allgemeine Bestimmungen; Übergangsvorschrift](0017.md)

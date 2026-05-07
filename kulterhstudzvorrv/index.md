@@ -1,6 +1,4 @@
-# Verordnung über die Gewährung von Vorrechten und Befreiungen an die
-"Internationale Studienzentrale für die Erhaltung und Restaurierung von
-Kulturgut" in Rom
+# Verordnung über die Gewährung von Vorrechten und Befreiungen an die "Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)

@@ -14,9 +14,11 @@
 - [§ 5 Durchführende Behörde](0005.md)
 - [§ 6 Zweck des Auswahlverfahrens](0006.md)
 - [§ 7 Zulassung zum Auswahlverfahren](0007.md)
+- [§ 8 Auswahlkommission](0008.md)
 - [§ 9 Bestandteile des Auswahlverfahrens](0009.md)
 - [§ 10 Verwaltungsvorschriften zum Auswahlverfahren](0010.md)
 - [§ 11 Bestehen des Auswahlverfahrens](0011.md)
+- [§ 12 Gesamtergebnis und Rangfolge](0012.md)
 
 ## Abschnitt 3 Ausbildung
 

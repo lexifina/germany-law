@@ -1,5 +1,4 @@
-# Verordnung über die Verjährungshemmung
-bei Abgeltungsdarlehen
+# Verordnung über die Verjährungshemmung bei Abgeltungsdarlehen
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Beendigung der Verjährungshemmung bei

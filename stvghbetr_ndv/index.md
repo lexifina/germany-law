@@ -1,2 +1,1 @@
-# Gesetz zur Änderung der Haftungshöchstbeträge nach dem
-Straßenverkehrsgesetz
+# Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz

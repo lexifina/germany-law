@@ -15,6 +15,7 @@
 Waffen- und Munitionserlaubnisse
 
 - [§ 4 Voraussetzungen für eine Erlaubnis](0004.md)
+- [§ 5 Zuverlässigkeit](0005.md)
 - [§ 6 Persönliche Eignung](0006.md)
 - [§ 6a Nachbericht](0006a.md)
 - [§ 6b Mitteilungspflichten der Waffenbehörden an die Jagdbehörden](0006b.md)

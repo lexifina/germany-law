@@ -10,5 +10,5 @@
 - [§ 6 (weggefallen)](0006.md)
 - [§ 7 (weggefallen)](0007.md)
 - [§ 8 (weggefallen)](0008.md)
-- [§ 9](0009.md)
+- [§ 9 (weggefallen)](0009.md)
 - [Anlage 1 (zu § 1 Nr. 1 und § 5)Stoffe und Zubereitungen nach § 1 Nr. 1](anlage-1.md)

@@ -1,5 +1,4 @@
-# Dritte Verordnung über Ausnahmen von straßenverkehrsrechtlichen
-Vorschriften
+# Dritte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)

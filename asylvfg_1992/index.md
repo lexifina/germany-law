@@ -1,5 +1,6 @@
 # Asylgesetz
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Geltungsbereich
 
@@ -26,6 +27,7 @@
 
 - [§ 5 Bundesamt](0005.md)
 - [§ 6 Verbindlichkeit asylrechtlicher Entscheidungen](0006.md)
+- [§ 7 Erhebung personenbezogener Daten](0007.md)
 - [§ 8 Übermittlung personenbezogener Daten](0008.md)
 - [§ 9 Hoher Flüchtlingskommissar der Vereinten Nationen](0009.md)
 - [§ 10 Zustellungsvorschriften](0010.md)
@@ -51,6 +53,7 @@
 ### Unterabschnitt 2 Einleitung des Asylverfahrens
 
 - [§ 18 Aufgaben der Grenzbehörde](0018.md)
+- [§ 18a Verfahren bei Einreise auf dem Luftwege](0018a.md)
 - [§ 19 Aufgaben der Ausländerbehörde und der Polizei](0019.md)
 - [§ 20 Weiterleitung an eine Aufnahmeeinrichtung](0020.md)
 - [§ 21 Verwahrung und Weitergabe von Unterlagen](0021.md)
@@ -68,7 +71,10 @@
 - [§ 27a (weggefallen)](0027a.md)
 - [§ 28 Nachfluchttatbestände](0028.md)
 - [§ 29 Unzulässige Anträge](0029.md)
+- [§ 29a Sichere Herkunftsstaaten im Sinne des Artikels 16a Absatz 3 des Grundgesetzes; Bericht; Verordnungsermächtigung](0029a.md)
+- [§ 29b Sichere Herkunftsstaaten im Sinne der Richtlinie 2013/32/EU; Verordnungsermächtigung](0029b.md)
 - [§ 30 Offensichtlich unbegründete Asylanträge](0030.md)
+- [§ 30a Beschleunigte Verfahren](0030a.md)
 - [§ 31 Entscheidung des Bundesamtes über Asylanträge](0031.md)
 - [§ 32 Entscheidung bei Antragsrücknahme oder Verzicht](0032.md)
 - [§ 32a Ruhen des Verfahrens](0032a.md)
@@ -95,6 +101,7 @@
 - [§ 44 Schaffung und Unterhaltung von Aufnahmeeinrichtungen](0044.md)
 - [§ 45 Aufnahmequoten](0045.md)
 - [§ 46 Bestimmung der zuständigen Aufnahmeeinrichtung](0046.md)
+- [§ 47 Aufenthalt in Aufnahmeeinrichtungen](0047.md)
 - [§ 48 Beendigung der Verpflichtung, in einer Aufnahmeeinrichtung zu wohnen](0048.md)
 - [§ 49 Entlassung aus der Aufnahmeeinrichtung](0049.md)
 - [§ 50 Landesinterne Verteilung](0050.md)
@@ -113,6 +120,7 @@
 - [§ 59a Erlöschen der räumlichen Beschränkung](0059a.md)
 - [§ 59b Anordnung der räumlichen Beschränkung](0059b.md)
 - [§ 60 Auflagen](0060.md)
+- [§ 61 Erwerbstätigkeit](0061.md)
 - [§ 62 Gesundheitsuntersuchung](0062.md)
 - [§ 63 Bescheinigung über die Aufenthaltsgestattung](0063.md)
 - [§ 63a Bescheinigung über die Meldung als Asylsuchender](0063a.md)
@@ -142,6 +150,7 @@
 - [§ 74 Klagefrist, Zurückweisung verspäteten Vorbringens, Verhandlung durch den abgelehnten Richter](0074.md)
 - [§ 75 Aufschiebende Wirkung der Klage](0075.md)
 - [§ 76 Einzelrichter](0076.md)
+- [§ 77 Entscheidung des Gerichts](0077.md)
 - [§ 78 Rechtsmittel](0078.md)
 - [§ 79 Besondere Vorschriften für das Berufungsverfahren](0079.md)
 - [§ 80 Ausschluss der Beschwerde](0080.md)
@@ -167,7 +176,9 @@
 - [§ 87b Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen](0087b.md)
 - [§ 87c Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen](0087c.md)
 - [§ 87d Übergangsvorschrift aus Anlass der am 23. Dezember 2023 in Kraft getretenen Änderung](0087d.md)
+- [§ 88 Verordnungsermächtigungen](0088.md)
 - [§ 88a Bestimmungen zum Verwaltungsverfahren](0088a.md)
+- [§ 89 Einschränkung von Grundrechten](0089.md)
 - [§ 90 (weggefallen)](0090.md)
 - [Anlage I (zu § 26a)](anlage-i.md)
 - [Anlage II (zu § 29a)](anlage-ii.md)

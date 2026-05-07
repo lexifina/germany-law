@@ -3,8 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Auszubildende](0001.md)
 - [§ 2 Kostenbestandteile für die Festlegung der Kostensätze](0002.md)
-- [§ 3 Ermittlung der Personen-Kilometer für die Berechnung des
-Ausgleichs](0003.md)
+- [§ 3 Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs](0003.md)
 - [§ 4 Ermittlung der Erträge](0004.md)
 - [§ 5 Sonderregelung bei Einnahmeaufteilungsverträgen](0005.md)
 - [§ 6 Länderüberschreitender Verkehr](0006.md)

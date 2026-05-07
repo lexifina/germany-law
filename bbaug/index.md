@@ -81,6 +81,7 @@
 - [§ 32 Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen](0032.md)
 - [§ 33 Zulässigkeit von Vorhaben während der Planaufstellung](0033.md)
 - [§ 34 Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile](0034.md)
+- [§ 35 Bauen im Außenbereich](0035.md)
 - [§ 36 Einvernehmen der Gemeinde und Zustimmung der höheren Verwaltungsbehörde](0036.md)
 - [§ 36a Zustimmung der Gemeinde](0036a.md)
 - [§ 37 Bauliche Maßnahmen des Bundes und der Länder](0037.md)

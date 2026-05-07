@@ -1,7 +1,4 @@
-# Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten
-Staaten von Amerika über die von der Bundesrepublik zu gewährenden
-Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der
-gemeinsamen Verteidigung geleisteten Ausgaben
+# Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
 
 - [Eingangsformel](eingangsformel.md)
 - [Art I](art-i.md)

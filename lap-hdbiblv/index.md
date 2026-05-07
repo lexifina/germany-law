@@ -32,6 +32,7 @@
 
 ## Kapitel 3 Aufstieg
 
+- [§ 22 Aufstieg, Auswahlverfahren](0022.md)
 - [§ 23 Einführung](0023.md)
 - [§ 24 Rechtsstellung nach bestandener Aufstiegsprüfung](0024.md)
 

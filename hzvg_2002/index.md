@@ -35,6 +35,7 @@
 - [§ 23 Zusammentreffen von Zusatzrenten und von Einkommen](0023.md)
 - [§ 24 Anpassung der Zusatzrenten](0024.md)
 - [§ 25 Abfindung](0025.md)
+- [§ 26 Beginn und Erstattung](0026.md)
 - [§ 27 Wahlrecht auf Übertragung von Anwartschaften](0027.md)
 - [§ 28 Übertragung von Anwartschaften](0028.md)
 - [§ 29 Durchführung der Übertragung von Anwartschaften](0029.md)

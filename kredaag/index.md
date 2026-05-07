@@ -1,5 +1,4 @@
-# Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie
-über Ausgleichsleistungen an Kreditnehmer
+# Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über Ausgleichsleistungen an Kreditnehmer
 
 - [§ 1](0001.md)
 - [§ 2](0002.md)

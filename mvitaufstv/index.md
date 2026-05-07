@@ -6,6 +6,7 @@
 ## Abschnitt 1 Allgemeines
 
 - [§ 1 Regelungsgegenstand](0001.md)
+- [§ 2 Zulassung zum Aufstieg](0002.md)
 
 ## Abschnitt 2 Masterstudium „Verwaltungsinformatik“
 
@@ -29,6 +30,7 @@
 
 ## Abschnitt 4 Abschluss des Aufstiegsverfahrens
 
+- [§ 17 Verlängerung des Aufstiegsverfahrens](0017.md)
 - [§ 18 Erwerb der Laufbahnbefähigung](0018.md)
 
 ## Abschnitt 5 Schlussvorschrift

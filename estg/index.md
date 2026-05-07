@@ -1,5 +1,6 @@
 # Einkommensteuergesetz
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## I. Steuerpflicht
 
@@ -16,12 +17,14 @@
 
 ### 2. Steuerfreie Einnahmen
 
+- [§ 3](0003.md)
 - [§ 3a Sanierungserträge](0003a.md)
 - [§ 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit](0003b.md)
 - [§ 3c Anteilige Abzüge](0003c.md)
 
 ### 3. Gewinn
 
+- [§ 4 Gewinnbegriff im Allgemeinen](0004.md)
 - [§ 4a Gewinnermittlungszeitraum, Wirtschaftsjahr](0004a.md)
 - [§ 4b Direktversicherung](0004b.md)
 - [§ 4c Zuwendungen an Pensionskassen](0004c.md)
@@ -31,17 +34,20 @@
 - [§ 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3](0004g.md)
 - [§ 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)](0004h.md)
 - [§ 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug](0004i.md)
+- [§ 4j (weggefallen)](0004j.md)
 - [§ 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen](0004k.md)
 - [§ 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden](0005.md)
 - [§ 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr](0005a.md)
 - [§ 5b Elektronische Übermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen](0005b.md)
 - [§ 6 Bewertung](0006.md)
 - [§ 6a Pensionsrückstellung](0006a.md)
+- [§ 6b Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter](0006b.md)
 - [§ 6c Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter bei der Ermittlung des Gewinns nach § 4 Absatz 3 oder nach Durchschnittssätzen](0006c.md)
 - [§ 6d Euroumrechnungsrücklage](0006d.md)
 - [§ 6e Fondsetablierungskosten als Anschaffungskosten](0006e.md)
 - [§ 7 Absetzung für Abnutzung oder Substanzverringerung](0007.md)
 - [§ 7a Gemeinsame Vorschriften für erhöhte Absetzungen und Sonderabschreibungen](0007a.md)
+- [§ 7b Sonderabschreibung für Mietwohnungsneubau](0007b.md)
 - [(XXXX) §§ 7c bis 7d (weggefallen)](xxxx-7c-bis-7d.md)
 - [§ 7e (weggefallen)](0007e.md)
 - [§ 7f (weggefallen)](0007f.md)
@@ -53,6 +59,8 @@
 ### 4. Überschuss der Einnahmen über die Werbungskosten
 
 - [§ 8 Einnahmen](0008.md)
+- [§ 9 Werbungskosten](0009.md)
+- [§ 9a Pauschbeträge für Werbungskosten](0009a.md)
 
 ### 4a. Umsatzsteuerrechtlicher Vorsteuerabzug
 
@@ -62,6 +70,7 @@
 
 - [§ 10](0010.md)
 - [§ 10a Zusätzliche Altersvorsorge](0010a.md)
+- [§ 10b Steuerbegünstigte Zwecke](0010b.md)
 - [§ 10c Sonderausgaben-Pauschbetrag](0010c.md)
 - [§ 10d Verlustabzug](0010d.md)
 - [§ 10e Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus](0010e.md)
@@ -144,6 +153,7 @@
 - [§ 32 Kinder, Freibeträge für Kinder](0032.md)
 - [§ 32a Einkommensteuertarif](0032a.md)
 - [§ 32b Progressionsvorbehalt](0032b.md)
+- [§ 32c Tarifermäßigung bei Einkünften aus Land- und Forstwirtschaft](0032c.md)
 - [§ 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen](0032d.md)
 - [§ 33 Außergewöhnliche Belastungen](0033.md)
 - [§ 33a Außergewöhnliche Belastung in besonderen Fällen](0033a.md)
@@ -170,6 +180,7 @@
 
 #### 2b. Steuerermäßigung bei Zuwendungen an politische Parteien und an unabhängige Wählervereinigungen
 
+- [§ 34g](0034g.md)
 
 ### 3. Steuerermäßigung bei Einkünften aus Gewerbebetrieb
 
@@ -210,11 +221,15 @@
 - [§ 39d (weggefallen)](0039d.md)
 - [§ 39e Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale](0039e.md)
 - [§ 39f Faktorverfahren anstelle Steuerklassenkombination III/V](0039f.md)
+- [§ 40 Pauschalierung der Lohnsteuer in besonderen Fällen](0040.md)
 - [§ 40a Pauschalierung der Lohnsteuer für Teilzeitbeschäftigte und geringfügig Beschäftigte](0040a.md)
 - [§ 40b Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen](0040b.md)
+- [§ 41 Aufzeichnungspflichten beim Lohnsteuerabzug](0041.md)
 - [§ 41a Anmeldung und Abführung der Lohnsteuer](0041a.md)
+- [§ 41b Abschluss des Lohnsteuerabzugs](0041b.md)
 - [§ 41c Änderung des Lohnsteuerabzugs](0041c.md)
 - [(XXXX) §§ 42 und 42a (weggefallen)](xxxx-42-und-42a.md)
+- [§ 42b Lohnsteuer-Jahresausgleich durch den Arbeitgeber](0042b.md)
 - [§ 42c (weggefallen)](0042c.md)
 - [§ 42d Haftung des Arbeitgebers und Haftung bei Arbeitnehmerüberlassung](0042d.md)
 - [§ 42e Anrufungsauskunft](0042e.md)
@@ -268,6 +283,7 @@
 - [§ 50j Versagung der Entlastung von Kapitalertragsteuern in bestimmten Fällen](0050j.md)
 - [§ 51 Ermächtigungen](0051.md)
 - [§ 51a Festsetzung und Erhebung von Zuschlagsteuern](0051a.md)
+- [§ 52 Anwendungsvorschriften](0052.md)
 - [§ 52a (weggefallen)](0052a.md)
 - [§ 52b (weggefallen)](0052b.md)
 - [§ 53 (weggefallen)](0053.md)
@@ -332,6 +348,7 @@
 
 ## XIII. Mobilitätsprämie
 
+- [§ 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie](0101.md)
 - [§ 102 Anspruchsberechtigung](0102.md)
 - [§ 103 Entstehung der Mobilitätsprämie](0103.md)
 - [§ 104 Antrag auf die Mobilitätsprämie](0104.md)

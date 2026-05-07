@@ -1,11 +1,14 @@
 # Bundesberggesetz
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Erster Teil Einleitende Bestimmungen
 
 - [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Sachlicher und räumlicher Geltungsbereich](0002.md)
+- [§ 3 Bergfreie und grundeigene Bodenschätze](0003.md)
+- [§ 4 Begriffsbestimmungen](0004.md)
 - [§ 5 Anwendung des Verwaltungsverfahrensgesetzes](0005.md)
 - [§ 5a Öffentliche Bekanntgabe](0005a.md)
 
@@ -27,6 +30,7 @@ Bergwerkseigentum
 - [§ 12 Versagung der Bewilligung](0012.md)
 - [§ 13 Versagung der Verleihung von Bergwerkseigentum](0013.md)
 - [§ 14 Vorrang](0014.md)
+- [§ 15 Beteiligung anderer Behörden](0015.md)
 - [§ 16 Form, Inhalt und Nebenbestimmungen](0016.md)
 - [§ 17 Entstehung des Bergwerkseigentums](0017.md)
 - [§ 18 Widerruf](0018.md)
@@ -65,6 +69,7 @@ Bodenschätze](0034.md)
 ### Drittes Kapitel Zulegung
 
 - [§ 35 Voraussetzungen](0035.md)
+- [§ 36 Verfahren](0036.md)
 - [§ 37 Entschädigung](0037.md)
 - [§ 38 Inhalt der Zulegung, Aufhebung, Förderabgabe](0038.md)
 
@@ -102,15 +107,19 @@ innerhalb der Küstengewässer](0049.md)
 ### Zweites Kapitel Anzeige, Betriebsplan
 
 - [§ 50 Anzeige](0050.md)
+- [§ 51 Betriebsplanpflicht](0051.md)
+- [§ 52 Betriebspläne für die Errichtung und Führung des Betriebes](0052.md)
 - [§ 53 Betriebsplan für die Einstellung des Betriebes,
 Betriebschronik](0053.md)
 - [§ 54 Zulassungsverfahren](0054.md)
 - [§ 55 Zulassung des Betriebsplanes](0055.md)
+- [§ 56 Form und Inhalt der Zulassung, Sicherheitsleistung](0056.md)
 - [§ 57 Abweichungen von einem zugelassenen Betriebsplan](0057.md)
 - [§ 57a Planfeststellungsverfahren, Umweltverträglichkeitsprüfung](0057a.md)
 - [§ 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang](0057b.md)
 - [§ 57c Verordnungsermächtigung](0057c.md)
 - [§ 57d Zulassungsverfahren für störfallrelevante Vorhaben](0057d.md)
+- [§ 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff](0057e.md)
 
 ### Drittes Kapitel Verantwortliche Personen
 
@@ -257,6 +266,7 @@ Verkehrsanlagen
 ## Achter Teil Sonstige Tätigkeiten und Einrichtungen
 
 - [§ 126 Untergrundspeicherung](0126.md)
+- [§ 127 Bohrungen](0127.md)
 - [§ 128 Alte Halden](0128.md)
 - [§ 129 Versuchsgruben, Bergbauversuchsanstalten](0129.md)
 - [§ 130](0130.md)
@@ -293,6 +303,7 @@ Durchführung
 ## Elfter Teil Rechtsweg, Bußgeld- und Strafvorschriften
 
 - [§ 144 Klage vor den ordentlichen Gerichten](0144.md)
+- [§ 145 Ordnungswidrigkeiten](0145.md)
 - [§ 146 Straftaten](0146.md)
 - [§ 147 Erforschung von Straftaten](0147.md)
 - [§ 148 Tatort, Gerichtsstand](0148.md)

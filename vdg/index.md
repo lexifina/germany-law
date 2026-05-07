@@ -5,6 +5,7 @@
 ## Teil 1 Allgemeine Bestimmungen
 
 - [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Aufsichtsstelle; zuständige Stelle für die Informationssicherheit](0002.md)
 - [§ 3 Verfahren über eine einheitliche Stelle](0003.md)
 - [§ 4 Aufsichtsmaßnahmen; Untersagung des Betriebs](0004.md)
 - [§ 5 Mitwirkungspflichten der Vertrauensdiensteanbieter](0005.md)

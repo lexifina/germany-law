@@ -25,12 +25,14 @@
 - [§ 9 Prüfungstermine und Frist für den Antrag auf Zulassung](0009.md)
 - [§ 10 Antragsformular](0010.md)
 - [§ 11 Antrag auf Zulassung](0011.md)
+- [§ 12 Erforderliche Unterlagen für den Antrag auf Zulassung](0012.md)
 - [§ 13 Entscheidung über die Zulassung](0013.md)
 - [§ 14 Ausschluss von der Mitwirkung bei der Entscheidung über die Zulassung](0014.md)
 
 ### Unterabschnitt 3 Durchführung der Abschlussprüfung
 
 - [§ 15 Gliederung der Abschlussprüfung](0015.md)
+- [§ 16 Leitung der Abschlussprüfung](0016.md)
 - [§ 17 Prüfungsaufgaben](0017.md)
 - [§ 18 Digitale Durchführung von schriftlich zu bearbeitenden Aufgaben und digitales Prüfungssystem](0018.md)
 - [§ 19 Nichtöffentlichkeit](0019.md)
@@ -66,6 +68,7 @@
 - [§ 40 Zeitpunkt für die Feststellung des Gesamtergebnisses der Abschlussprüfung](0040.md)
 - [§ 41 Mitteilung über Bestehen und Nichtbestehen der Abschlussprüfung](0041.md)
 - [§ 42 Bescheinigung über das Bestehen](0042.md)
+- [§ 43 Prüfungszeugnis](0043.md)
 - [§ 44 Bescheid über die nichtbestandene Abschlussprüfung](0044.md)
 - [§ 45 Einsicht in die Prüfungsunterlagen und in die Ergebnisniederschriften zur Feststellung der Bewertung der Prüfungsleistungen](0045.md)
 

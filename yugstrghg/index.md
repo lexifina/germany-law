@@ -1,5 +1,4 @@
-# Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof
-für das ehemalige Jugoslawien
+# Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof für das ehemalige Jugoslawien
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Pflicht zur Zusammenarbeit](0001.md)

@@ -7,6 +7,7 @@
 - [§ 1 Ziel des Gesetzes](0001.md)
 - [§ 1a Zeitliche Transformation](0001a.md)
 - [§ 2 Besondere Bedeutung der erneuerbaren Energien](0002.md)
+- [§ 3 Begriffsbestimmungen](0003.md)
 - [§ 4 Ausbaupfad](0004.md)
 - [§ 4a Strommengenpfad](0004a.md)
 - [§ 5 Ausbau im In- und Ausland](0005.md)
@@ -22,9 +23,12 @@
 - [§ 8a Flexible Netzanschlussvereinbarungen](0008a.md)
 - [§ 8b Mitteilung des Einspeiseortes](0008b.md)
 - [§ 9 Technische Vorgaben](0009.md)
+- [§ 10 Ausführung und Nutzung des Anschlusses](0010.md)
 - [§ 10a Messstellenbetrieb; Übergangsregelung für Steckersolargeräte](0010a.md)
+- [§ 10b Vorgaben zur Direktvermarktung](0010b.md)
 - [§ 10c Zuordnung geringfügiger Verbräuche](0010c.md)
 - [§ 11 Abnahme, Übertragung und Verteilung](0011.md)
+- [§ 11a Recht zur Verlegung von Leitungen](0011a.md)
 - [§ 11b Recht zur Überfahrt während der Errichtung und des Rückbaus](0011b.md)
 
 ### Abschnitt 2 Kapazitätserweiterung und Einspeisemanagement
@@ -49,6 +53,8 @@
 - [§ 20 Marktprämie](0020.md)
 - [§ 21 Einspeisevergütung und Mieterstromzuschlag](0021.md)
 - [§ 21a Sonstige Direktvermarktung](0021a.md)
+- [§ 21b Zuordnung zu einer Veräußerungsform, Wechsel](0021b.md)
+- [§ 21c Verfahren für die Zuordnung und den Wechsel](0021c.md)
 
 ### Abschnitt 2 Allgemeine Bestimmungen zur Zahlung
 
@@ -263,10 +269,12 @@
 - [§ 88e Verordnungsermächtigung zu den Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung](0088e.md)
 - [§ 88f Verordnungsermächtigung zu den Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0088f.md)
 - [§ 89 Verordnungsermächtigung zur Stromerzeugung aus Biomasse](0089.md)
+- [§ 90 Verordnungsermächtigung zu Nachhaltigkeitsanforderungen für Biomasse](0090.md)
 - [§ 91 Verordnungsermächtigung zum Ausgleichsmechanismus](0091.md)
 - [§ 92 Verordnungsermächtigung zu Herkunftsnachweisen und Regionalnachweisen](0092.md)
 - [§ 93 Verordnungsermächtigung zu Anforderungen an Grünen Wasserstoff](0093.md)
 - [§ 94 Verordnungsermächtigung zu systemdienlichem Anlagenbetrieb](0094.md)
+- [§ 95 Weitere Verordnungsermächtigungen](0095.md)
 - [§ 96 Gemeinsame Bestimmungen](0096.md)
 
 ### Abschnitt 2 Kooperationsausschuss, Monitoring, Berichte

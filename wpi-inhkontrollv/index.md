@@ -12,6 +12,7 @@
 ## Abschnitt 2 Anzeige des Erwerbs oder der Erhöhung einer bedeutenden Beteiligung
 
 - [§ 5 Anzeigeformulare, Vollständigkeit der Anzeige](0005.md)
+- [§ 6 Erfüllung unionsrechtlicher Vorgaben](0006.md)
 - [§ 7 Änderung der angezeigten Absicht, des angezeigten Erwerbs und der angezeigten Angaben](0007.md)
 - [§ 8 Abweichende Vorlage- und Nachweispflichten](0008.md)
 

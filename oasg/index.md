@@ -1,5 +1,4 @@
-# Gesetz zur Sicherung der zivilrechtlichen Ansprüche
-der Opfer von Straftaten
+# Gesetz zur Sicherung der zivilrechtlichen Ansprüche der Opfer von Straftaten
 
 - [§ 1 Gesetzliches Forderungspfandrecht](0001.md)
 - [§ 2 Mehrere Geschädigte](0002.md)

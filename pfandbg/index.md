@@ -12,8 +12,10 @@
 ## Abschnitt 2 Allgemeine Vorschriften über die
 Pfandbriefemission
 
+- [§ 4 Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen](0004.md)
 - [§ 4a Umschuldungsklauseln in Staatsanleihen](0004a.md)
 - [§ 4b Deckungsgeeignete Derivategeschäfte](0004b.md)
+- [§ 5 Deckungsregister](0005.md)
 - [§ 6 Inhalt der Pfandbriefe](0006.md)
 - [§ 7 Treuhänder und Stellvertreter](0007.md)
 - [§ 8 Aufgaben](0008.md)

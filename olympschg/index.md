@@ -1,5 +1,4 @@
-# Gesetz zum Schutz des olympischen Emblems und der olympischen
-Bezeichnungen
+# Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen
 
 - [§ 1 Gegenstand des Gesetzes](0001.md)
 - [§ 2 Inhaber des Schutzrechts](0002.md)

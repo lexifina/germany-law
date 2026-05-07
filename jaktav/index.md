@@ -12,3 +12,4 @@
 - [§ 9 Aussetzung der Aussonderung](0009.md)
 - [§ 10 Übergangsbestimmung](0010.md)
 - [§ 11 Inkrafttreten](0011.md)
+- [Anlage (zu § 3 Absatz 1 Satz 1)Aufbewahrungs- und Speicherungsfristen](anlage.md)

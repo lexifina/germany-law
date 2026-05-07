@@ -1,10 +1,13 @@
 # Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
 
 - [§ 1 Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten](0001.md)
 - [§ 2 Zentralstelle](0002.md)
+- [§ 3 Internationale Zusammenarbeit](0003.md)
+- [§ 4 Strafverfolgung](0004.md)
 - [§ 5 Abwehr von Gefahren des internationalen Terrorismus](0005.md)
 - [§ 6 Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes](0006.md)
 - [§ 7 Zeugenschutz](0007.md)
@@ -22,6 +25,7 @@
 
 ### Unterabschnitt 2 Weiterverarbeitung von Daten
 
+- [§ 12 Zweckbindung, Grundsatz der hypothetischen Datenneuerhebung](0012.md)
 - [§ 13 Informationssystem des Bundeskriminalamtes](0013.md)
 - [§ 14 Kennzeichnung](0014.md)
 - [§ 15 Regelung von Zugriffsberechtigungen](0015.md)
@@ -39,14 +43,20 @@
 
 - [§ 25 Datenübermittlung im innerstaatlichen Bereich](0025.md)
 - [§ 26 Datenübermittlung an Mitgliedstaaten der Europäischen Union](0026.md)
+- [§ 26a Datenübermittlung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten im Anwendungsbereich der Richtlinie (EU) 2023/977](0026a.md)
 - [§ 27 Datenübermittlung im internationalen Bereich](0027.md)
+- [§ 28 Übermittlungsverbote und Verweigerungsgründe](0028.md)
 
 ## Abschnitt 3 Zentralstelle
 
+- [§ 29 Polizeilicher Informationsverbund, Verordnungsermächtigung](0029.md)
 - [§ 30 Verbundrelevanz](0030.md)
 - [§ 30a Besondere Regelungen für die Weiterverarbeitung personenbezogener Daten im polizeilichen Informationsverbund](0030a.md)
 - [§ 31 Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund](0031.md)
+- [§ 32 Unterrichtung der Zentralstelle](0032.md)
 - [§ 33 Ausschreibungen bei der Zusammenarbeit im internationalen Bereich](0033.md)
+- [§ 33a Schengener Informationssystem (SIS)](0033a.md)
+- [§ 33b Auf das SIS zugriffsberechtigte Stellen](0033b.md)
 
 ## Abschnitt 4 Befugnisse im Rahmen der Strafverfolgung
 
@@ -122,6 +132,7 @@
 - [§ 74 Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen](0074.md)
 - [§ 75 Benachrichtigung über die Speicherung personenbezogener Daten von Kindern](0075.md)
 - [§ 76 Nachträgliche Benachrichtigung über Ausschreibungen zur polizeilichen Beobachtung im Schengener Informationssystem](0076.md)
+- [§ 77 Aussonderungsprüffrist; Mitteilung von Löschungsverpflichtungen](0077.md)
 - [§ 78 Berichtigung personenbezogener Daten sowie die Einschränkung der Verarbeitung in Akten sowie Vernichtung von Akten](0078.md)
 - [§ 79 Löschung von durch Maßnahmen zur Abwehr von Gefahren des internationalen Terrorismus oder vergleichbaren Maßnahmen erlangten personenbezogenen Daten](0079.md)
 - [§ 80 Verzeichnis von Verarbeitungstätigkeiten](0080.md)

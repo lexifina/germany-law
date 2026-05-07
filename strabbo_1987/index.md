@@ -86,8 +86,7 @@
 - [§ 61 Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen](0061.md)
 - [§ 62 Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge](0062.md)
 
-## Achter Abschnitt Ordnungswidrigkeiten,
-Schluß- und Übergangsvorschriften
+## Achter Abschnitt Ordnungswidrigkeiten, Schluß- und Übergangsvorschriften
 
 - [§ 63 Ordnungswidrigkeiten](0063.md)
 - [§ 64 Übergangsvorschrift](0064.md)

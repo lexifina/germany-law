@@ -19,6 +19,9 @@
 ### Abschnitt 2 Ausnahmen von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises bei Fahrzeugen aus anderen Vertragsstaaten des Europäischen Wirtschaftsraums und aus Drittstaaten
 
 
+### Art 1
+
+
 ## Art 2
 
 
@@ -26,6 +29,9 @@
 
 
 ## Art 4 Inkrafttreten
+
+
+## -
 
 
 ## -

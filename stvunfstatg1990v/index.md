@@ -1,5 +1,4 @@
-# Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit
-Sachschaden im Sinne des Straßenverkehrsunfallstatistikgesetzes
+# Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit Sachschaden im Sinne des Straßenverkehrsunfallstatistikgesetzes
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)

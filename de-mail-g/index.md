@@ -29,6 +29,7 @@
 ## Abschnitt 4 Akkreditierung
 
 - [§ 17 Akkreditierung von Diensteanbietern](0017.md)
+- [§ 18 Voraussetzungen der Akkreditierung; Nachweis](0018.md)
 - [§ 19 Gleichstellung ausländischer Dienste](0019.md)
 
 ## Abschnitt 5 Aufsicht

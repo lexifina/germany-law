@@ -27,6 +27,7 @@
 - [§ 13 Verwendung und Berichtigung personenbezogener Daten in Akten](0013.md)
 - [§ 14 Dateianordnungen](0014.md)
 - [§ 15 Auskunft an den Betroffenen](0015.md)
+- [§ 16 Verfassungsschutz durch Aufklärung der Öffentlichkeit](0016.md)
 
 ## Dritter Abschnitt Übermittlungsvorschriften
 

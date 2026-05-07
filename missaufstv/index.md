@@ -5,11 +5,13 @@
 
 ## Abschnitt 1 Zulassung zum Aufstieg
 
+- [§ 1 Zulassungsvoraussetzungen](0001.md)
 
 ## Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“
 
 - [§ 2 Ziele](0002.md)
 - [§ 3 Vollzeitstudium](0003.md)
+- [§ 4 Regelstudienzeit](0004.md)
 - [§ 5 Prüfungsordnung](0005.md)
 - [§ 6 Module](0006.md)
 - [§ 7 Allgemeine Module](0007.md)
@@ -22,6 +24,7 @@
 
 ## Abschnitt 3 Berufspraktische Einführung
 
+- [§ 14 Zeitpunkt, Dauer und Ziel](0014.md)
 - [§ 15 Aufgaben und Verwendungsbereiche](0015.md)
 
 ## Abschnitt 4 Schlussvorschrift

@@ -17,6 +17,7 @@
 - [§ 7 Auswahlverfahren](0007.md)
 - [§ 8 Einstellung in den Vorbereitungsdienst](0008.md)
 - [§ 9 Rechtsstellung während des Vorbereitungsdienstes](0009.md)
+- [§ 10 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes](0010.md)
 - [§ 11 Urlaub während des Vorbereitungsdienstes](0011.md)
 - [§ 12 Ausbildungsakte](0012.md)
 - [§ 13 Schwerbehinderte Menschen](0013.md)

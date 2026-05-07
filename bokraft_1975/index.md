@@ -33,8 +33,7 @@
 - [§ 14 Verhalten der Fahrgäste](0014.md)
 - [§ 15 Beförderung von Sachen](0015.md)
 
-## 3. Abschnitt Ausrüstung und Beschaffenheit der
-Fahrzeuge
+## 3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge
 
 
 ### 1. Titel Bestimmungen für alle Fahrzeuge
@@ -42,8 +41,7 @@ Fahrzeuge
 - [§ 16 Anzuwendende Vorschriften](0016.md)
 - [§ 17 Zulässige Fahrzeuge](0017.md)
 - [§ 18 Ausrüstung](0018.md)
-- [§ 19 Beschaffenheit und Anbringung von Zeichen und
-Ausrüstungsgegenständen](0019.md)
+- [§ 19 Beschaffenheit und Anbringung von Zeichen und Ausrüstungsgegenständen](0019.md)
 
 ### 2. Titel Obusse und Kraftomnibusse
 
@@ -67,13 +65,11 @@ Ausrüstungsgegenständen](0019.md)
 ## 4. Abschnitt Sondervorschriften
 
 
-### 1. Titel Obusverkehr und Linienverkehr mit
-Kraftfahrzeugen
+### 1. Titel Obusverkehr und Linienverkehr mit Kraftfahrzeugen
 
 - [§ 32 Haltestellen](0032.md)
 - [§ 33 Kennzeichnung und Beschilderung](0033.md)
-- [§ 34 Sitzplätze für behinderte und andere sitzplatzbedürftige
-Personen](0034.md)
+- [§ 34 Sitzplätze für behinderte und andere sitzplatzbedürftige Personen](0034.md)
 - [§ 35 Übersicht über Linienverlauf und Haltestellen](0035.md)
 - [§ 36 Ausnahmen für Sonderformen des Linienverkehrs](0036.md)
 
@@ -87,8 +83,7 @@ Personen](0034.md)
 
 - [§ 40 Beförderungsentgelte](0040.md)
 
-## 5. Abschnitt Sondervorschriften über die
-Untersuchungen der Fahrzeuge
+## 5. Abschnitt Sondervorschriften über die Untersuchungen der Fahrzeuge
 
 - [§ 41 Hauptuntersuchungen](0041.md)
 - [§ 42 Außerordentliche Hauptuntersuchungen](0042.md)

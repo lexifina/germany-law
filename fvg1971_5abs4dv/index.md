@@ -1,5 +1,4 @@
-# Verordnung zur Durchführung von § 5 Abs. 4 des
-Finanzverwaltungsgesetzes
+# Verordnung zur Durchführung von § 5 Abs. 4 des Finanzverwaltungsgesetzes
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Abrechnung durch das Bundeszentralamt für Steuern](0001.md)

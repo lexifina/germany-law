@@ -14,5 +14,7 @@
 - [§ 10 Weitere Übergangsregelungen](0010.md)
 - [§ 11 Weiterentwicklung der Pkw-Energieverbrauchskennzeichnungsverordnung](0011.md)
 - [Schlussformel](schlussformel.md)
+- [Anlage 1 Hinweis über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen](anlage-1.md)
+- [Anlage 2 (zu § 3 Abs. 1 Nr. 2)Aushang am Verkaufsort über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen](anlage-2.md)
 - [Anlage 3 (zu § 4 Abs. 2 Satz 1)Leitfaden über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen](anlage-3.md)
 - [Anlage 4 (zu § 5)Angaben in der Werbung über den Energieverbrauch und die CO2-Emissionen von neuen Personenkraftwagen](anlage-4.md)

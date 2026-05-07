@@ -1,5 +1,4 @@
-# Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des
-Güterkraftverkehrsgesetzes
+# Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des Güterkraftverkehrsgesetzes
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)

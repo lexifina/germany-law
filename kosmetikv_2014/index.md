@@ -6,5 +6,6 @@
 - [§ 4 Sprache](0004.md)
 - [§ 5 Kennzeichnung nicht vorverpackter kosmetischer Mittel](0005.md)
 - [§ 6 Informations- und Behandlungszentren für Vergiftungen](0006.md)
+- [§ 7 Ausnahmen für die Einfuhr](0007.md)
 - [§ 8 Straftaten](0008.md)
 - [§ 9 Ordnungswidrigkeiten](0009.md)

@@ -5,16 +5,21 @@
 
 ## Abschnitt 1 Allgemeines
 
+- [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Abschnitt 2 Allgemeine Anforderungen an Vergütungssysteme
 
+- [§ 3 Verantwortlichkeiten; Beteiligung der Kontrolleinheiten](0003.md)
+- [§ 4 Ausrichtung an der Strategie des Instituts](0004.md)
+- [§ 5 Angemessenheit der Vergütung und der Vergütungssysteme](0005.md)
 - [§ 6 Verhältnis von variabler zu fixer Vergütung; Billigung einer höheren Obergrenze gemäß § 25a Absatz 5 Satz 5 des Kreditwesengesetzes](0006.md)
 - [§ 7 Voraussetzungen für die Festsetzung des Gesamtbetrags der variablen Vergütung und die Erdienung zurückbehaltener Vergütungsbestandteile](0007.md)
 - [§ 8 Verbot der Einschränkung oder Aufhebung der Risikoadjustierung](0008.md)
 - [§ 9 Zusätzliche Anforderungen an die Vergütung der Mitarbeiter und Mitarbeiterinnen der Kontrolleinheiten](0009.md)
 - [§ 10 Zusätzliche Anforderungen an die Vergütung von Geschäftsleitern und Geschäftsleiterinnen](0010.md)
 - [§ 11 Grundsätze zu den Vergütungssystemen in den Organisationsrichtlinien; Dokumentationspflichten](0011.md)
+- [§ 12 Überprüfung und Anpassung der Vergütungssysteme](0012.md)
 - [§ 13 Information über die Vergütungssysteme](0013.md)
 - [§ 14 Anpassung bestehender Vereinbarungen](0014.md)
 - [§ 15 Aufgaben des Vergütungskontrollausschusses](0015.md)

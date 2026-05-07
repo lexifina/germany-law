@@ -1,6 +1,7 @@
 # Verordnung zur Ausführung des Markengesetzes
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Anwendungsbereich
 
@@ -103,6 +104,12 @@ und Eintragungen
 ### Abschnitt 1 Eintragungsverfahren
 
 - [§ 47 Eintragungsantrag](0047.md)
+- [§ 48 Veröffentlichung des Antrags](0048.md)
+- [§ 49 Nationaler Einspruch](0049.md)
+
+### Abschnitt 2 Zwischenstaatliches Einspruchsverfahren
+
+- [§ 50 Einspruch](0050.md)
 - [§ 51 Einspruchsverfahren](0051.md)
 
 ### Abschnitt 3 Änderungen der Spezifikation; Löschung; Akteneinsicht
@@ -116,4 +123,5 @@ und Eintragungen
 
 - [§ 56 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung](0056.md)
 - [§ 57 Übergangsregelung für künftige Änderungen](0057.md)
+- [§ 57a (weggefallen)](0057a.md)
 - [§ 58 Inkrafttreten, Außerkrafttreten](0058.md)

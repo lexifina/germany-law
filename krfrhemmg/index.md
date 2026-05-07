@@ -1,5 +1,4 @@
-# Gesetz über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften
-gehemmten Fristen
+# Gesetz über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen
 
 - [§ 1](0001.md)
 - [§ 2](0002.md)

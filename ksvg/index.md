@@ -76,6 +76,7 @@ Künstlersozialkasse
 - [§ 17a](0017a.md)
 - [§ 18](0018.md)
 - [§ 19](0019.md)
+- [§ 20](0020.md)
 
 ##### Dritter Unterabschnitt Erstattungen
 

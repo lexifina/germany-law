@@ -4,6 +4,7 @@
 
 ## Abschnitt 1 Anwendungsbereich
 
+- [§ 1 Anwendungsbereich](0001.md)
 
 ## Abschnitt 2 Bürgerliche Streitigkeiten
 
@@ -60,6 +61,7 @@
 
 ## Abschnitt 4 Entgegennahme von Erklärungen; Aneignungsrecht
 
+- [§ 31 Entgegennahme von Erklärungen](0031.md)
 - [§ 32 Aneignungsrecht](0032.md)
 
 ## Abschnitt 5 Europäisches Nachlasszeugnis

@@ -1,5 +1,4 @@
-# Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte
-für Arbeitssicherheit
+# Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit
 
 - [Eingangsformel](eingangsformel.md)
 

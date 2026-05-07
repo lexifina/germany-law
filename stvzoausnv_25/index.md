@@ -1,5 +1,4 @@
-# Fünfundzwanzigste Verordnung über Ausnahmen von den Vorschriften der
-Straßenverkehrs-Zulassungs-Ordnung
+# Fünfundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)
