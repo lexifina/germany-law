@@ -1,0 +1,56 @@
+# 54. öffentliche Sitzung des Ausschusses für Haushalt, Personal, Europa, Klima
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-05-07T17:30:00+02:00
+- Ende: 2026-05-07T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=75
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5090
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5090
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Genehmigung des Protokolls vom 05.03.2026 - erledigt
+- TOP 2: Sondermittelanträge - erledigt
+- TOP 2.1: Sondermittelantrag 4/2026 Royal Rangers-Stamm 590 - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.2: Sondermittelantrag 5/2026 Freundeskreis der Musikschule Steglitz-Zehlendorf e.V. - vertagt
+- TOP 2.3: Sondermittelantrag 6/2026 Verein der Bayern in Berlin e.V. - im Ausschuss abgelehnt
+- TOP 2.4: Sondermittelantrag 8/2026 Change & More gUG - vertagt
+- TOP 2.5: Sondermittelantrag 9/2026 Brains and Bridges e.V. - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.6: Sondermittelantrag 10/2026 Vajswerk e.V. - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.7: Sondermittelantrag 11/2026 Bildung und Gesellschaft e.V. - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Jahresbericht Rechtsamt 2024 (BVV-Beschluss 688/IV) - erledigt
+- TOP 4: Bericht über die Stellensituation im Bezirksamt (BVV-Beschluss 620/IV) - erledigt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verwendung der Gembus-Mittel - erledigt
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Erarbeitung einer Strategie zur Sensibilisierung der Arbeitgeber*innen für Menschen in der Menopause - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Durchführung eines Planspiels zur Stärkung der bezirklichen Resilienz gegen hybride Bedrohungen - mit Änderungen im Ausschuss beschlossen
+- TOP 7.4: Schluss mit dem Dauerskandal am Steglitzer Kreisel: Das Bezirksamt soll die Adler Group zum Bauen bewegen - vertagt
+- TOP 7.5: Informations- und Erinnerungsort für die Familie Silberstein, das ehemalige jüdische Kaufhaus Boga und die „Arisierung" jüdischer Betriebe in der NS-Zeit - vertagt
+- TOP 7.6: Veteranentag in Steglitz-Zehlendorf begehen - vertagt
+- TOP 7.7: Errichtung eines Parkhauses für Pendler am S-Bahnhof Wannsee - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.8: Gedenken an den 7. Oktober 2023 - vertagt
+- TOP 7.9: Durchgehende vollwertige Fußwege entlang der Thielallee auf Höhe des Corrensplatzes - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.10: Einrichtung eines Auszubildenden-Dorfes in Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.11: Sofortprogramm für eine krisenfeste Energieversorgung in Steglitz-Zehlendorf und Berlin - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.12: Vorbereitet für Notstromversorgung? - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.13: Standort Stadtbad Steglitz für soziale Zwecke erweitern - im Ausschuss abgelehnt
+- TOP 7.14: Jugendliche erarbeiten Nutzungskonzept für Bierpinsel - im Ausschuss abgelehnt
+- TOP 7.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.16: Gaslaternenmoratorium - vertagt
+- TOP 7.17: Kaulbachstraße in Lankwitz in Fahrradstraße umwandeln - im Ausschuss abgelehnt
+- TOP 7.18: Krisenprävention gemeinsam mit unseren Nachbargemeinden in Brandenburg - vertagt
+- TOP 7.19: Gesamte BVV in die weitere Entwicklung des ehemaligen „Pop Inns" in der Ahornstraße 15 einbeziehen - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.20: Aufnahme des PrimaVita-Bades in ein geignetes Förderprogramm - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.21: Einweihung der Ronnebypromenade unter Beteiligung lokaler Akteure - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.22: Stromunabhängige bzw. stromarme Heizsysteme bei der Sanierung von Gebäuden mit Bedeutung für den Katastrophenschutz - im Ausschuss abgelehnt
+- TOP 7.23: Aktion zum Schutz bei Medienkonsum von Klein- und Schulkindern - vertagt
+- TOP 7.24: Räume für alle – Aufenthalt im öffentlichen Raum ohne Konsumzwang sicherstellen - im Ausschuss abgelehnt
+- TOP 7.25: Gehwegparken an der Haltestelle Appenzeller Straße unterbinden - im Ausschuss abgelehnt
+- TOP 7.26: Seminare „How-to Bezirksamt" anbieten - im Ausschuss abgelehnt
+- TOP 7.27: Mehr und sichere Fahrradbügel für die Freie Universität - ohne Änderungen im Ausschuss beschlossen
+- TOP 8: Verschiedenes - erledigt
