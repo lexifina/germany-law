@@ -733,7 +733,6 @@ Vorsätzlich begangene Ordnungswidrigkeiten
 | 249 | (weggefallen) |  |  |
 |  | Genehmigungs- oder Erlaubnisbescheid |  |  |
 | 250 | Genehmigungs- oder Erlaubnisbescheid auf Verlangen nicht ausgehändigt | § 46 Absatz 3 Satz 3 § 49 Absatz 4 Nummer 5 | 10 € |
-|  | b) Fahrerlaubnis-Verordnung |  |  |
 |  | Verkehrseinrichtungen zum Schutz der Infrastruktur |  |  |
 | 250a | Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3 StVO) gekennzeichnet ist. | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29 (Zeichen 251) Spalte 3, lfd. Nr. zu 36 bis 40, lfd. Nr. 39 (Zeichen 265) § 43 Absatz 3 Satz 2 § 49 Absatz 3 Nummer 4, 6 | 500 €Fahrverbot 2 Monate |
 |  | b) Fahrerlaubnis-VerordnungAushändigen von Führerscheinen und Bescheinigungen |  |  |
