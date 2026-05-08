@@ -1,0 +1,59 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-05-08T16:00:00+02:00
+- Ende: 2026-05-08T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8047
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8047
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 08.05.2026 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00243963.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 08.05.2026 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00243963.pdf
+- Wortprotokoll: Sitzungspaket RAT 08.05.2026 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00243963.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 5: Cranachstraße (Ringstraße): Straßenwiederherstellung nach Arbeiten an Versorgungsleitungen - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 6: Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2026/27 - einstimmig zugestimmt
+- TOP -: Ausschuss für Chancengerechtigkeit und Integration
+- TOP 7: Einführung einer Vorbereitungsgruppe zur Fördermittelvergabe durch den Ausschuss für Chancengerechtigkeit und Integration - einstimmig zugestimmt
+- TOP -: Haupt-, Sicherheits- und Gleichstellungsausschuss
+- TOP 8: Neuerlass der Satzung für die Durchführung von Bürgerentscheiden in der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 9: 4. Änderung des Flächennutzungsplanes - Aufstellungsbeschluss - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 10: Wiederwahl einer Schiedsperson und einer stellvertretenden Schiedsperson - einstimmig zugestimmt
+- TOP 11: Vorschläge zur Berufung weiterer beratender Mitglieder der Bezirksausschüsse - mit Änderungen einstimmig zugestimmt
+- TOP 12: Verleihung Heimat-Preis 2026 - einstimmig zugestimmt
+- TOP 13: Fortführung des DeutschlandTickets als Schülerticket - einstimmig zugestimmt
+- TOP 14: 1. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen im Rahmen außerunterrichtlicher Betreuungsangebote außerhalb der OGS an städtischen Neusser Schulen - einstimmig zugestimmt
+- TOP 15: Anhörung Leiter der Feuerwehr Neuss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 16: Antrag der AfD-Fraktion betr.: Konsolidierungskonzept für das Rheinische Landestheater - mehrheitlich abgelehnt
+- TOP 17: Antrag der AfD-Fraktion betr.: Erstellung eines Konzepts zur Refinanzierung der Sanierung und Instandhaltung des Sporthafens - mehrheitlich abgelehnt
+- TOP 18: Antrag der CDU-Fraktion betr.: Aktuelle Planungen zur Mittelverwendung aus dem NRW-Infrastrukturgesetz (NRW-Plan) - verwiesen
+- TOP 19: Antrag der CDU-Fraktion betr.: Gütezeichen "Mittelstandsorientierte Kommunalverwaltung" - verwiesen
+- TOP 20: Antrag der AfD-Fraktion betr.: Verwendung einer regelkonformen deutschen Sprache im Amts- und Dienstverkehr der Stadt Neuss - mehrheitlich abgelehnt
+- TOP 21: Antrag der Fraktion DIE LINKE betr.: Einrichtung eines Drogenkonsumraums in Neuss - mit Änderungen mehrheitlich zugestimmt
+- TOP 22: Antrag der Fraktion Tierschutz/Aktiv/Neuss Jetzt! betr.: Prüfung eines Immobilienankaufs - beraten ohne Abstimmung
+- TOP 23: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Stärkung und Weiterentwicklung des Wochenmarktes auf dem Münsterplatz - verwiesen
+- TOP -: Anfragen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Sachstandsbericht 2026 zum Integrierten Klimaschutzkonzept (IKK) - zur Kenntnis genommen
+- TOP 29: Bundesprogramm "Sanierung kommunaler Sportstätten", hier: Sachstand Stadtbad - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
