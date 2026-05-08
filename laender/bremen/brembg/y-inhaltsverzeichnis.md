@@ -9,7 +9,7 @@ Abschnitt 2 Beamtenverhältnis
 § 5 | Beamtinnen und Beamte auf Probe in Ämtern mit leitender Funktion (§§ 4, 22 des Beamtenstatusgesetzes)
 § 6 | Ehrenbeamtinnen und Ehrenbeamte (§ 5 des Beamtenstatusgesetzes)
 § 7 | Beamtinnen und Beamte auf Zeit (§ 6 des Beamtenstatusgesetzes)
-§ 8 | Zulassung von Ausnahmen für die Berufung in das Beamtenverhältnis (§ 7 des Beamtenstatusgesetzes)
+§ 8 | Überprüfung der Verfassungstreue und Ausnahmen von der Staatsangehörigkeit (§ 7 des Beamtenstatusgesetzes)
 § 9 | Zuständigkeit für die Ernennung, Wirkung der Ernennung (§ 8 des Beamtenstatusgesetzes)
 § 10 | Stellenausschreibung, Feststellung der gesundheitlichen Eignung (§ 9 des Beamtenstatusgesetzes)
 § 11 | Feststellung der Nichtigkeit der Ernennung, Verbot der Führung der Dienstgeschäfte (§ 11 des Beamtenstatusgesetzes)
@@ -60,7 +60,7 @@ Unterabschnitt 1 Allgemeines
 § 47 | Diensteid (§ 38 des Beamtenstatusgesetzes)
 § 48 | Verbot der Führung der Dienstgeschäfte (§ 39 des Beamtenstatusgesetzes)
 § 49 | Verbot der Annahme von Belohnungen und Geschenken (§ 42 des Beamtenstatusgesetzes)
-§ 50 | Dienstvergehen von Ruhestandsbeamtinnen und Ruhestandsbeamten (§ 47 des Beamtenstatusgesetzes)
+§ 50 | Dienstvergehen von Ruhestandsbeamtinnen und Ruhestandsbeamten sowie von früheren Beamtinnen und Beamten (§ 47 des Beamtenstatusgesetzes)
 § 51 | Schadensersatz (§ 48 des Beamtenstatusgesetzes)
 § 52 | Übergang von Schadensersatzansprüchen
 § 53 | Ausschluss und Befreiung von Amtshandlungen
@@ -101,7 +101,7 @@ Unterabschnitt 4 Fürsorge
 § 81 | Mutterschutz, Elternzeit (§ 46 des Beamtenstatusgesetzes)
 § 82 | Arbeitsschutz
 § 83 | Ersatz von Sachschäden
-§ 83a | Erfüllungsübernahme bei Schmerzensgeldansprüchen
+§ 83a | Erfüllungsübernahme von Ansprüchen und Entschädigung bei immateriellen Schäden
 § 84 | Reise- und Umzugskosten
 Unterabschnitt 5 Personalakten (§ 50 des Beamtenstatusgesetzes)
 § 85 | Verarbeitung personenbezogener Daten, Führung und Inhalt der Personalakten sowie Zugang zu Personalakten
@@ -169,3 +169,5 @@ Abschnitt 11 Übergangs- und Schlussvorschriften
 § 131 | Entpflichtung
 § 132 | Übergangsvorschriften für Beamtinnen und Beamte an Hochschulen
 § 133 | Übergangsvorschrift für dienstliche Beurteilungen
+§ 134 | Übergangsregelung für am 1. Juli 2026 teilzeitbeschäftigte Beamtinnen und Beamte
+§ 135 | Evaluation

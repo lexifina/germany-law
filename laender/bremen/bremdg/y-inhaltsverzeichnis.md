@@ -106,3 +106,4 @@ Teil 6 Besondere Bestimmungen für Ruhestandsbeamte
 Teil 7 Übergangs- und Schlussbestimmungen
 § 82 | Übergangsbestimmungen
 § 83 | Verwaltungsvorschriften
+§ 84 | Evaluation
