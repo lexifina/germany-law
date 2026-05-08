@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium des Innern verordnet aufgrund des § 132a Absatz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160), das zuletzt durch Artikel 8 des Gesetzes vom 11. Januar 2026 (BGBl. 2026 I Nr. 6) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131) im Benehmen mit dem Bundeskanzleramt, dem Bundesministerium der Finanzen, dem Auswärtigen Amt, dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium der Verteidigung und dem Bundesministerium für Verkehr:

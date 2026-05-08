@@ -1,0 +1,16 @@
+# Verordnung über die allgemeine Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an der Hochschule des Bundes für öffentliche Verwaltung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Geltungsbereich; Verhältnis zu besonderen Lehrverpflichtungsverordnungen](0001.md)
+- [§ 2 Anwendungsbestimmung; Fortgeltung von Lehrverpflichtungsrichtlinien](0002.md)
+- [§ 3 Umfang der Jahreslehrverpflichtung; Anrechnung von Leistungen](0003.md)
+- [§ 4 Anrechnung von Lehrveranstaltungsstunden](0004.md)
+- [§ 5 Anrechnung von Leistungen zur Abnahme laufbahnrechtlicher Prüfungsleistungen](0005.md)
+- [§ 6 Nichtanrechnung lehrimmanenter Nebenpflichten](0006.md)
+- [§ 7 Ermäßigungen der Jahreslehrverpflichtung für Forschungs- und Entwicklungsaufgaben sowie für weitere Aufgaben und Funktionen in der Hochschule des Bundes für öffentliche Verwaltung](0007.md)
+- [§ 8 Anrechnung für Sonderaufträge](0008.md)
+- [§ 9 Ermäßigungen für Aufgaben im öffentlichen Interesse außerhalb der Hochschule des Bundes für öffentliche Verwaltung](0009.md)
+- [§ 10 Ermäßigungen bei Schwerbehinderung](0010.md)
+- [§ 11 Weitere Anrechnungen](0011.md)
+- [§ 12 Evaluierung](0012.md)
+- [§ 13 Inkrafttreten](0013.md)
