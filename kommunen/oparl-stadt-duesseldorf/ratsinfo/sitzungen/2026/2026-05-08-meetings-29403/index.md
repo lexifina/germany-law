@@ -1,0 +1,62 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-08T16:00:00+02:00
+- Ende: 2026-05-08T18:28:00+02:00
+- Ort: Bürgerhaus Benrath, Telleringstraße 56
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29403
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29403
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 13.03.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Mitgliedern des Jugendrates - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Gänsemanagement Schlosspark Benrath - Vortrag - zur Kenntnis genommen
+- TOP 6.2: Vierte Anpassung des Friedhofsentwicklungskonzeptes im Bereich des Friedhofs Itter - Empfehlung einstimmig beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Werstener Feld 63 - Errichtung des Gebäudes der Rumänisch-Orthodoxen Kirche als Neubau - einstimmig beschlossen
+- TOP 6.5: Errichtung von Düsselbike-Stationen im Stadtbezirk 9 für das kommunale Düsseldorfer Mietradsystem - zur Kenntnis genommen
+- TOP 6.6: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 6.7: Angebotsausweitung SB57 - Empfehlung einstimmig beschlossen
+- TOP 6.8: Maßnahme Einrichtung einer Fahrradstraße auf der Himmelgeister Landstraße im Bereich der Zufahrt zur Himmelgeister Landstraße 1 (Wasserwerk Flehe) - einstimmig beschlossen
+- TOP 6.9: Vereinssportanlage Scheideweg/Dechenweg – Umbau Tennenspielfeld in Kunstrasen - Empfehlung einstimmig beschlossen
+- TOP 6.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 - Haushalt 2026 Liste A Schulen - einstimmig beschlossen
+- TOP 6.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - einstimmig beschlossen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: On-Demand-Service „flexy“ für Itter, Himmelgeist und Urdenbach - Anfrage der CDU- und SPD-Fraktion - schriftlich beantwortet
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Behebung von drei Problemstellen aus der Mängelliste des Radwegetests des ADFC im Stadtbezirk 9 - Antrag der CDU- und SPD-Fraktion - einstimmig beschlossen
+- TOP 9.5: Verschiebung des Beginns der Sanierungsarbeiten für die A59 in Fahrtrichtung Köln/Düsseldorf - Antrag der CDU- und SPD-Fraktion - einstimmig beschlossen
+- TOP 9.6: Priorisierung und Umsetzung der Mängelliste nach dem Radwegetest des ADFC im Stadtbezirk 9 - Antrag der Fraktion Bündnis 90/ Die Grünen - mehrheitlich abgelehnt
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Verfügungsmittel
+- TOP 10.1: Kunst im Hafen e.V. - Gruppenausstellung "Das Atmen der Wände" 2026 - einstimmig beschlossen
+- TOP 10.2: Wäschte 161 Kultur Bud Wersten gUG - Bandcontest 2026 - einstimmig beschlossen
+- TOP 10.3: KGS Hermann Gmeiner Grundschule - Präventionstheater "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 10.4: KG Räbbelchen 1962 e.V. - Neuanschaffung von Uniformen 2026 - einstimmig beschlossen
+- TOP 10.5: Griechisch-orthodoxe Pfarrgemeinde Hl. Ap. Andreas - Straßenabsperrung für Osterfeier 2026 - einstimmig beschlossen
+- TOP 10.6: Interessengemeinschaft Pauls-Mühler Jecken e.V. - Veranstaltung "Bunker Blast Vol. 1" 2026 - einstimmig beschlossen
+- TOP 10.7: St.-Elisabeth-Schule - Präventionsprojekt "Mein Körper gehört mir" und "Die große Nein-Tonne" 2026 - einstimmig beschlossen
+- TOP 10.8: Werkstatt für angepasste Arbeit GmbH - Karnevalsumzug Südpark 2027 - einstimmig beschlossen
+- TOP 10.9: Chorverband Düsseldorf e.V. - Unterstützung der 4 Mitglieds-Chöre im Stadtbezirk 9 2026 - einstimmig beschlossen
+- TOP 10.10: Heimatgemeinschaft Groß-Benrath e.V. - Sommerfest 2026 - einstimmig beschlossen
+- TOP 10.11: Gemeinschaft Schlossparksiedlung Urdenbach - Reparatur des Erntedankwagens 2026 - einstimmig beschlossen
+- TOP 10.12: Regiments-Tambourcorps-Grün-Weiß-Wersten 1926 - Anschaffung einer Lyra 2026 - einstimmig beschlossen
+- TOP 10.13: Albrecht-Dürer-Berufskolleg - Vortrag zur Suchtprävention 2026 - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Errichten eines Bouleplatzes auf der Grünfläche in Höhe des Werstener Felds 102 - 110 - Beschluss der Bezirksvertretung 9 vom 26.09.2025; BV9/170/2026 - zur Kenntnis genommen
+- TOP 11.2: Lärmschutz und Geschwindigkeitsreduzierung auf der Kappeler Straße zwischen Brücke Münchener Straße und Marbacher Straße - Beschluss der Bezirksvertretung 9 vom 03.03.2024; BV9/078/2024 - zur Kenntnis genommen
+- TOP 11.3: Spurensuche im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 13.03.2026; BV9/065/2026 - zur Kenntnis genommen
