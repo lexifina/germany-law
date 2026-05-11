@@ -1,0 +1,53 @@
+# 4. Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-05-11T17:00:00+02:00
+- Ende: 2026-05-11T18:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/176
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34386
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34386
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01094681.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01094681.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01094681.pdf
+
+## Tagesordnung
+
+- TOP -: A Brigitte Schäfer, Vorstandsfrau im Verein BeginenVilla, und Ulrike Graupner, Projektfrau im Verein BeginenVilla, stellen die Arbeit des Vereins und die feministische Gesprächsreihe "BeginenSalon" vor
+- TOP 1: Schriftliche Anfragen und deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Aktueller Sachstand Gender Budgeting" - Kenntnis genommen
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Aktueller Sachstand Gender Budgeting" - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betreffend "Wohnungslose Frauen und Kinder in Köln – aktuelle Zahlen, Versorgungslage und Handlungsbedarf" - vertagt
+- TOP -: Antwort der Verwaltung vom 8. Mai 2026 - vertagt
+- TOP 1.3: Anfrage der Fraktion Die Linke betreffend "Bedeutung der aktuellen Bewirtschaftungsverfügung für den Erhalt und die Arbeit der Frauenprojekte" - vertagt
+- TOP 1.4: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Häusliche Gewalt verhindern - bevor sie entsteht" - vertagt
+- TOP 1.5: Anfrage der SPD-Fraktion betreffend "Prävention von sexualisierter Gewalt und Schutz vor häuslicher Gewalt in Köln – Umsetzung der Istanbul-Konvention" - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Gleichstellungsausschusses vom 16.03.2026 "Prävention von sexualisierter Gewalt in Köln - Umsetzung Istanbul-Konvention" - vertagt
+- TOP 1.6: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Fehlende Bereitstellung zugesagter Finanzmittel zur Umsetzung des Pilotprojekts Kostenlose Menstruationsartikel" - vertagt
+- TOP 1.7: Anfrage der Fraktion Die Linke betreffend "Finanzierung der Beratung von Stalkingopfern – linksrheinisch und rechtsrheinisch" - vertagt
+- TOP -: Antwort der Verwaltung vom 11. Mai 2026 - vertagt
+- TOP 1.8: Anfrage der Fraktion Die Linke betreffend "Sexuelle Übergriffe während des Karnevals und der Schutz davor" - vertagt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktion Die Linke betreffend "Sexuelle Übergriffe während des Karnevals und der Schutz davor" (AN/0480/2026) - vertagt
+- TOP 1.9: Anfrage der SPD-Fraktion betreffend "Veranstaltungen zum Internationalen Frauentag" - vertagt
+- TOP -: Antwort der Verwaltung vom 7. Mai 2026 - vertagt
+- TOP 1.10: Anfrage der CDU-Fraktion betreffend "Sachstand zur Umsetzung des Projekts und zur Ermächtigungsübertragung „Frauen-gesundheit sichtbar machen – Frauengesundheitstag im Kölner Stadtgebiet“" - vertagt
+- TOP 1.11: Anfrage der SPD-Fraktion betreffend "Verbesserung der Datengrundlagen für Gender Budgeting" - vertagt
+- TOP 1.12: Anfrage der SPD-Fraktion betreffend "Stand der Umsetzung der Gendergerechtigkeit bei Straßennamen" - vertagt
+- TOP 2: Anträge
+- TOP 2.1: Antrag der Fraktionen Volt und Die Linke betreffend "Sichere öffentliche Räume für alle – Schluss mit Catcalling" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, Die Linke, Volt, FDP/KSG vom 11. Mai 2026 - ungeändert beschlossen
+- TOP 2.2: Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und Die Linke betreffend "Awareness-Konzept" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und FDP/KSG vom 11. Mai 2026 - endgültig abgelehnt
+- TOP 3: Allgemeine Vorlagen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Drittes Kölner Diskriminierungsmonitoring - Kenntnis genommen
+- TOP 4.2: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 4.3: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 4.4: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand: Wenig Abweichung auf gesamtstädtischer Ebene - Kenntnis genommen
+- TOP 4.5: Girls´Day und Boys´Day 2026 - Kenntnis genommen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Beantwortungen zu mündlichen Anfragen aus früheren Sitzungen
+- TOP 6.2: Neue mündliche Anfragen
