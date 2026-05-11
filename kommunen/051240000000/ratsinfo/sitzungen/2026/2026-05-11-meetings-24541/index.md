@@ -1,0 +1,82 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-05-11T16:00:00+02:00
+- Ende: 2026-05-11T18:35:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24541
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24541
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00363007.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00364633.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Entwicklung der Gewaltmeldungen in städtischen Kindertagesstätten während der Jahre 2024 und 2025 sowie Wirksamkeit von Schutzkonzepten gemäß Kinder- und Jugendstärkungsgesetz (KJSG) - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf Anfrage AFD Fraktion Gewaltmeldung in Kitas - Entgegennahme ohne Beschluss
+- TOP 2.2: Öffnung des Einwohnermelde- und des Straßenverkehrsamts an Samstagen - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Öffnung des Einwohnermelde- und des Straßenverkehrsamts an Samstagen - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Limitierung der Auszahlung von Sitzungsgeldern bei Teilnahmen von sachkundigen Bürgern an Fraktionssitzungen - abgelehnt
+- TOP 4.2: Hoheitliche Beflaggung und sichtbare Staatssymbole an städtischen Dienstgebäuden und im Ratssaal - abgelehnt
+- TOP 4.3: Aktualisierung der Abwasserbeseitigungssatzung der Stadt Wuppertal; Gemeinsamer Antrag der Fraktionen von SPD, CDU, Bündnis 90/Die Grünen, Die Linke und FDP/WfW - ungeändert beschlossen
+- TOP 4.4: Bundesinnenminister gefährdet unsere Integrationsarbeit! - ungeändert beschlossen
+- TOP 4.5: Antrag auf Anpassung der Beitragsbemessungsgrenze - zurückgezogen
+- TOP 4.6: Resolution Honorarkürzungen in der ambulanten Psychotherapie - ungeändert beschlossen
+- TOP 4.7: Erweiterung des Dialog-Beirats Neubau Moschee um einen Sitz für das Autonome Zentrum Wuppertal - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Fußgänger schützen, E-Scooter klar reglementieren - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 01.01.2026 - 17.04.2026 - Entgegennahme ohne Beschluss
+- TOP 7.2: Zuschüsse zur Förderung der Jugendverbandsarbeit 2026 - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Mittelbereitstellung für Rückstellungen bei den Personalaufwendungen - ungeändert beschlossen
+- TOP 7.4: Kommunales Gesamtkonzept Kulturelle Bildung (KGKB) - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) für das Geschäftsjahr 2024 - Entlastung des Betriebsausschusses - ungeändert beschlossen
+- TOP 8.3: Abberufung der stellvertretenden Betriebsleitung des GMW - ungeändert beschlossen
+- TOP 8.4: Austritt der Stadt Wuppertal aus dem Verein der IG Zeltplätze Bever-Talsperre e.V. - ungeändert beschlossen
+- TOP 8.5: Zustimmung der vom Landschaftsverband beschieden gesondert berechnungsfähigen betriebsbedingten - ungeändert beschlossen
+- TOP 8.6: Bestellung des Liquidators für die Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1021/1 - Uellendahler Straße / Am Haken - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 798A - Markomannenstraße / Ludwigstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Cronenberg - Durchführungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Sanierung des Stadtbades Uellendahl, Röttgen 149 - ungeändert beschlossen
+- TOP 10.3: Kostenerhöhung und überplanmäßige Mittelbereitstellung im Projekt "Neugestaltung Werth" - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Radring - Planungsauftrag Abschnitt Herderstraße/Goetheplatz/Mondstraße - ungeändert beschlossen
+- TOP 11.2: Kommunale Wärmeplanung für Wuppertal - ungeändert beschlossen
+- TOP 11.3: STADTRADELN 2026 - Aufruf zur Teilnahme und Bewerbung durch das Kommunalparlament - Entgegennahme ohne Beschluss
+- TOP 11.4: Konzept zur Verbesserung der Infrastruktur öffentlicher Toiletten - ungeändert beschlossen
+- TOP 11.5: Antrag auf Erhöhung der Zügigkeit am Berufskolleg Barmen gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.6: Nachtrag zur Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2026/27 - ungeändert beschlossen
+- TOP 11.7: Der Wuppertal-Plan - Entgegennahme ohne Beschluss
+- TOP 11.8: Jahresbericht 2025 der Stabsstelle Bürgerbeteiligung und Förderung bürgerschaftlichen Engagements - Entgegennahme ohne Beschluss
+- TOP 11.9: Handlungsprogramm Brachflächen 2025 - Entgegennahme ohne Beschluss
+- TOP 11.10: Vorgezogenes Anmeldeverfahren für die Sekundarstufe I - ungeändert beschlossen
+- TOP 11.11: Kinderspielplatz Dorfwiese – Sozialer Zusammenhalt Heckinghausen/Langerfeld-West - ungeändert beschlossen
+- TOP 11.12: Abschlussbericht Schulentwicklungsplanung - ungeändert beschlossen
+- TOP 11.13: Zusatzvereinbarung zur öffentlich-rechtlichen Vereinbarung zur gemeinsamen Stufenausbildung Feuerwehr der Städte Wuppertal, Remscheid und Solingen - ungeändert beschlossen
+- TOP 11.14: Durchführungsbeschluss – Vorhangzuganlage im Opernhaus - ungeändert beschlossen
+- TOP 11.15: Ratsbürgerentscheid für die Bewerbung um die Olympischen und Paralympischen Spiele - Ergebnisfeststellung - ungeändert beschlossen
+- TOP 11.16: Antwort auf den Ergänzungsantrag der CDU an den Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW zu TOP 6.14. „Schulbauoffensive 2035 – Wuppertal baut Bildung“ (VO/0476/25) - Entgegennahme ohne Beschluss
+- TOP 11.16.1: Schulbauoffensive 2035 - energetischer Standard, Wirtschaftlichkeit und haushaltsrechtliche Verantwortung - Entgegennahme ohne Beschluss
+- TOP 11.16.1.1: Antwort auf die große Anfrage zur Schulbauoffensive 2035 - energetischer Standard, Wirtschaftlichkeit und haushaltsrechtliche Verantwortung
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Benennung der Vertretung der Stadt Wuppertal in der Mitgliederversammlung des Vereins Metropolregion Rheinland e.V. - ungeändert beschlossen
+- TOP 12.2: Nachbesetzungen im Beirat der Justizvollzugsanstalt Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 12.3: Wahl weiterer Sachkundiger Einwohnerinnen und Einwohner für die Kommunalwahlperiode 2025-2030 - ungeändert beschlossen
+- TOP 12.4: Besetzung des Kuratoriums der Dr.-Alfred-Springorum-Stiftung - ungeändert beschlossen
+- TOP 12.5: Bestellung der Delegierten für die Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Ruhr-Wupper e.V. - ungeändert beschlossen
+- TOP 12.6: Umbesetzung Ausschussmitglied im Betriebsausschuss APH und KIJU - ungeändert beschlossen
+- TOP 12.7: Bestellung von Mitgliedern des Dialog-Beirates Neubau Moschee - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung; Antrag der SPD-Fraktion - ungeändert beschlossen
