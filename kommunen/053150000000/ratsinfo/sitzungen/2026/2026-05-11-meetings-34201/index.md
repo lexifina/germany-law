@@ -1,0 +1,66 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-05-11T14:35:00+02:00
+- Ende: 2026-05-11T16:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34201
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34201
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Beantwortung von mündlichen Nachfragen von RM Joisten und RM Kossen aus der Sitzung des Finanzausschusses vom 02.02.2026 bezüglich der Anmietung Leonhard-Tietz-Straße 1, 50676 Köln - Kenntnis genommen
+- TOP 2.3: Beantwortung einer mündlichen Anfrage der Fraktion Volt aus der Sitzung des Finanzausschusses vom 16.03.2026 (zu TOP 6.2) betreffend Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes - Kenntnis genommen
+- TOP 2.4: Bevölkerung in Köln 2025 – weiter leichtes Wachstum - Kenntnis genommen
+- TOP 2.5: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand - Kenntnis genommen
+- TOP 2.6: 48. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.7: Umgang mit rückständigen, sozialleistungsrechtlich nicht erstattungsfähigen Nutzungsgebühren von städtisch untergebrachten Geflüchteten in Folge der Satzungsänderung 2024 - Kenntnis genommen
+- TOP 2.8: Sachstandsbericht zur Erstellung des Jahresabschlusses 2024/25 - Kenntnis genommen
+- TOP 2.9: Sachstandsbericht zum Cash Pooling / Liquiditätsverbund - Kenntnis genommen
+- TOP 2.10: RheinEnergie AG: Energieerzeugungsbericht 2022 bis 2024 - Kenntnis genommen
+- TOP 2.11: Grundsteuerreform: Urteil des Verwaltungsgerichts Düsseldorf - Kenntnis genommen
+- TOP 2.12: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Finanzausschusses vom 16.03.2026 betr.: "Klärschlammverbrennung bei der KLAR GmbH" - Kenntnis genommen
+- TOP 2.13: Auswirkung der Steuerschätzung aus Mai 2026 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Ansätze zur Verbesserung der Ertragsbasis - vertagt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung": Umgestaltung der Pipinstraße und Herstellung einer Freitreppe an St. Maria im Kapitol - Kenntnis genommen
+- TOP 6.3: Ermächtigungsübertragungen in das Haushaltsjahr 2026 - vertagt
+- TOP 6.4: Mitteilung über eine Kostenerhöhung gem § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln: Generalsanierung und Erweiterung der Feuerwehrhauptzentrale Köln Weidenpesch - Kenntnis genommen
+- TOP 6.5: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - vertagt
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Vorentwurf Hybridpark - Variantenentscheid - ungeändert beschlossen
+- TOP 7.2: Umgestaltung der Spielfläche Gut Leidenhausen in Köln-Eil - unter Vorbehalt beschlossen
+- TOP 7.3: Mittelfreigabe für die Ausstattung der Zentralbibliothek nach der Generalsanierung am Josef-Haubrich-Hof - vertagt
+- TOP 8: Über- und außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 9.1: Jahresabschluss 2024 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert empfohlen
+- TOP 9.2: Wirtschaftsplan 2026 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaft der Stadt Köln - ungeändert empfohlen
+- TOP 9.3: Wirtschaftsplan 2026 der Gebäudewirtschaft der Stadt Köln - Von der Verwaltung abgesetzt
+- TOP 9.4: Jahresabschluss Wirtschaftsjahr 2024/2025 des Gürzenich-Orchesters Köln - Von der Verwaltung abgesetzt
+- TOP 9.5: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2026/27 - Von der Verwaltung abgesetzt
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Bedarfsfeststellungs- und Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Haltestelle Rheinenergie-Stadion (nur Haltestelle für den Sonderverkehr) - mit Änderungen empfohlen
+- TOP 10.2: Baubeschluss für den Neubau des Anschlusses der Militärringstraße/Stolberger Straße, des Kreisverkehrsplatzes Stolberger Straße/Wendelinstraße/Vitalisstraße, für die Umgestaltung der Anschlüsse d. Militärringstraße/Aachener Straße und Militärringstr. - Von der Verwaltung abgesetzt
+- TOP 10.3: Gemeinnützigkeitssatzung für das NS-Dokumentationszentrum der Stadt Köln - ungeändert empfohlen
+- TOP 10.4: Anmietung eines Modulbaus und Sanierung der naturwissenschaftlichen Unterrichtsräume im Bestandsgebäude des Erich-Kästner-Gymnasiums, Castroper Straße 7 - ungeändert empfohlen
+- TOP 10.5: Stilllegung der städtischen Altdeponie Linder Mauspfad in Porz-Lind - Von der Verwaltung abgesetzt
+- TOP 10.6: Weiterentwicklung BIC, Investitionskorridor und Priorisierungsmatrix - ungeändert empfohlen
+- TOP 10.6.1: Änderungsantrag zu TOP 10.6 "“Weiterentwicklung BIC, Investitionskorridor und Priorisierungsmatrix” - endgültig abgelehnt
+- TOP 10.7: Neue Entgeltordnung Desinfektorenschule - ungeändert empfohlen
+- TOP 10.8: Kölner Verkehrs-Betriebe AG, hier: Liquidation der Westigo GmbH - ungeändert empfohlen
+- TOP 10.9: Suchthilfezentrum am Perlengraben Baubeschluss - ohne Votum behandelt
+- TOP 10.10: Verlängerung der Betrauung der modernen stadt GmbH - ungeändert empfohlen
+- TOP 10.11: Zuschuss für das Edelweißpiratenfestival 2026 an den Edelweißpiratenclub e.V. - ungeändert beschlossen
+- TOP 10.12: Erweiterung der Öffnungszeiten des Drogenkonsumraums Kalk - ungeändert empfohlen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
