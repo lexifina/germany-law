@@ -1,0 +1,49 @@
+---
+ecli: "ECLI:DE:BGH:2026:120526B3STR3.26.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "3 StR 3/26"
+decided: "2026-05-12"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE611242026.xml"
+neuris_doknr: "KORE611242026"
+---
+
+# Bundesgerichtshof, 3 StR 3/26 vom 2026-05-12
+
+## Tenor
+
+1. Auf die Revision der Angeklagten wird das Urteil des Landgerichts Koblenz vom 25. Juli 2025 im Adhäsionsausspruch dahin
+
+a) geändert, dass Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz an den Adhäsionskläger A. ab dem 24. Mai 2025 und an den Adhäsionskläger B. ab dem 12. Juni 2025 zu zahlen sind;
+
+b) ergänzt, dass im Übrigen von einer Adhäsionsentscheidung abgesehen wird.
+
+2. Die weitergehende Revision wird verworfen.
+
+3. Die Beschwerdeführerin hat die Kosten des Rechtsmittels, die insoweit durch das Adhäsionsverfahren entstandenen besonderen Kosten und die den Adhäsionsklägern und den Nebenklägern im Rechtsmittelverfahren erwachsenen notwendigen Auslagen zu tragen.
+
+## Gründe
+
+1 Das Landgericht hat die Angeklagte wegen Mordes in zwei Fällen jeweils in Tateinheit mit Raub mit Todesfolge zu einer lebenslangen Freiheitsstrafe als Gesamtstrafe verurteilt sowie die besondere Schwere der Schuld festgestellt. Daneben hat es Einziehungs- und Adhäsionsentscheidungen getroffen. Die gegen ihre Verurteilung gerichtete, auf die Rüge der Verletzung materiellen Rechts gestützte Revision der Angeklagten erzielt den aus der Beschlussformel ersichtlichen geringen Teilerfolg (§ 349 Abs. 4 StPO); im Übrigen erweist sich das Rechtsmittel als unbegründet im Sinne des § 349 Abs. 2 StPO.
+
+2 1. Die auf die Sachrüge veranlasste Überprüfung des Urteils führt zur teilweisen Änderung der Adhäsionsentscheidung. Im Übrigen hat dessen Überprüfung keinen Rechtsfehler zum Nachteil der Angeklagten ergeben.
+
+3 a) Die zugesprochene Verzinsung bedarf der Korrektur entsprechend § 354 Abs. 1 StPO, soweit das Landgericht eine solche des Schmerzensgeldes, betreffend den Adhäsionskläger B. ferner der Beerdigungskosten, im Falle des Adhäsionsklägers A. ab dem 19. Mai 2025 und betreffend den Adhäsionskläger B. ab dem 9. Juni 2025 gewährt hat. Ein Adhäsionskläger hat Anspruch auf - wie hier beantragt - Prozesszinsen gemäß § 404 Abs. 2 StPO, § 291 Satz 1, entsprechend § 187 Abs. 1 BGB erst ab dem Tag, der auf den Eintritt der Rechtshängigkeit folgt (vgl. BGH, Beschluss vom 9. September 2025 - 2 StR 363/25, juris Rn. 9 mwN). Die mit Schriftsätzen vom 7. April 2025 und 6. Mai 2025 jeweils unter dem Vorbehalt der Bewilligung von Prozesskostenhilfe gestellten Adhäsionsanträge sind nicht geeignet gewesen, Prozessrechtsverhältnisse zwischen der Angeklagten und den Adhäsionsklägern zu begründen. Denn das Prozesskostenhilfeverfahren hat weder zur Rechtshängigkeit der Anträge geführt noch die Fristenregelung in § 404 Abs. 1 Satz 1 StPO gegenstandslos gemacht. Erst die am 23. Mai 2025 bzw. 11. Juni 2025 bei Gericht eingegangenen unbedingten Adhäsionsanträge haben die Prozessrechtsverhältnisse entstehen lassen (vgl. BGH, Beschlüsse vom 1. November 2023 - 6 StR 431/23, juris Rn. 3 mwN; vom 9. September 2025 aaO); mit ihnen haben die beiden Adhäsionskläger ihren Willen zur unbedingten Antragstellung erklärt (vgl. BGH, Beschluss vom 11. Oktober 2016 - 4 StR 352/16, StV 2017, 509). Insoweit ist gemäß § 404 Abs. 2 Satz 2 StPO entgegen der Ansicht des Landgerichts der Eingang des Antrags bei Gericht, nicht seine Zustellung maßgeblich.
+
+4 Da die Adhäsionskläger ausdrücklich die Gewährung von Rechtshängigkeitszinsen begehrt haben, entspricht eine Verzinsung (erst) ab den vorgenannten Zeitpunkten ihrem jeweiligen Antrag, ohne dass Anlass bestünde, in einem (weiteren, vgl. nachfolgend unter b) geringen Umfang nach § 406 Abs. 1 Satz 3 StPO von einer Entscheidung im Adhäsionsverfahren abzusehen (vgl. BGH, Beschluss vom 9. September 2025 - 2 StR 363/25, juris Rn. 9).
+
+5 b) Daneben bedarf der Adhäsionsausspruch der Ergänzung. Die Adhäsionsklägerin S. hat einen unbezifferten Klageantrag gestellt, gerichtet auf Hinterbliebenengeld und Schmerzensgeld in einer Größenordnung von jeweils mindestens 15.000 €. Soweit hierauf das Landgericht das - rechtsfehlerfrei vorrangig gewährte, umfassende (zum Verhältnis von Hinterbliebenenentschädigung zum Schmerzensgeld vgl. BGH, Urteil vom 6. Dezember 2022 - VI ZR 73/21, NJW 2023, 1438 Rn. 17 ff.) - Schmerzensgeld mit lediglich 20.000 € bemessen hat, war das darin liegende Absehen von einer Entscheidung (§ 406 Abs. 1 Satz 3 StPO) zur Verdeutlichung in die Urteilsformel aufzunehmen (vgl. BGH, Beschluss vom 1. Juli 2025 - 5 StR 175/25, juris Rn. 4 f. mwN). Der Senat holt dies nach (vgl. BGH, Beschluss vom 5. September 2019 - 3 StR 306/19, juris Rn. 5).
+
+6 c) Entgegen den Ausführungen des Generalbundesanwalts ist die Feststellung der Pflicht der Angeklagten zur Erstattung zukünftiger Schäden betreffend die Adhäsionsklägerin S. und den Adhäsionskläger A. nicht auf künftige materielle Schadensfolgen zu erstrecken. Die Klageanträge dieser beiden Beteiligten umfassen ein solches Begehren nicht (§ 308 Abs. 1 ZPO).
+
+7 2. Angesichts des geringen Erfolgs der Revision ist es nicht unbillig, die Angeklagte mit den gesamten Kosten ihres Rechtsmittels und den notwendigen Auslagen der Nebenkläger zu belasten (§ 473 Abs. 4 StPO). Gleiches gilt für die durch das Adhäsionsverfahren entstandenen Kosten und notwendigen Auslagen der Adhäsionskläger (§ 472a Abs. 2 StPO).
+
+Schäfer
+
+Berg
+
+Erbguth
+
+Kreicker
+
+Munk
