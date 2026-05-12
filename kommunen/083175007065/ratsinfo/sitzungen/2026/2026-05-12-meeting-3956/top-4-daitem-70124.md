@@ -1,0 +1,6 @@
+# TOP 4.: Vorstellung neuer Mitarbeiter der Gemeinwesenarbeit (GWA) A. Diener
+
+- Sitzung: Ortschaftsrat Kippenheimweiler (5. Sitzung) (2026-05-12)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/70124
