@@ -1,0 +1,143 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2026-05-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9194937
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9194937
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.7: Bildung eines Wahlvorstandes durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des BA-Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6.: Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7.: Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8.: Wahl einer Kassiererin / eines Kassierers
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1.: Beschluss über die 1. Anzahl 2. Zuständigkeit / Ressortverteilung 3. Größe der Unterausschüsse 4. Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2.: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3.: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4.: Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 4.: Bildung eines Ferienausschusses
+- TOP 4.1.: Beschlussfassung, dass die für den Stadtrat geltende Ferienzeit auch für den BA gelten soll + Bildung eines Ferienausschusses
+- TOP 4.2.: Beschlussfassung über die Größe
+- TOP 4.3.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 4.4.: Wahl der / des Vorsitzenden
+- TOP 4.5.: Benennung der / des stellvertretenden Vorsitzenden
+- TOP 5.: Benennung von Beauftragten
+- TOP 5.1.: Benennung einer / eines Kinderbeauftragten
+- TOP 5.2.: Benennung einer / eines Jugendbeauftragten
+- TOP 5.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 5.4.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 5.5.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 5.6.: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 5.7.: Benennung weiterer Beauftragter
+- TOP 6.: Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 6.1.: - Kronwinklerstr. 25, Bezirkssportanlage - Waidachanger – Langwied - Altostr. 16, Kindergarten - Schussenrieder Str. 5 - Henschelstr. - Federsee-/Erlbachstr., Bushaltestelle - Pretzfelder-/Colmdorfstr. südl. Grünfläche vor Pretzfelder Str. 14 - Sponeckplatz - Kunreuthstr. 80 - Ecke Radolfzeller Str. / Sipplinger Str. - S-Bahnhof Westkreuz / westl. Aubinger Str. - Ubostr. 9 - Quartier Freiham - S-Bahnhof Freiham
+- TOP 7.: Verschiedenes
+- TOP 7.1.: Grundsatzbeschlüsse
+- TOP 7.1.1: - Durchführung von Hybridsitzungen - Durchführung von Live-Streams
+- TOP 7.2.: Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP 7.3.: BA-Newsletter
+- TOP II-B: Teil B - Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung (Teil B)
+- TOP 1.3: Genehmigung der Sitzungsniederschrift vom 15.04.26
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Bahnschranke Brunhamstraße (2 Bürger)
+- TOP 2.1.2.: Lärmbelästigung durch Waschanlage in der Bodenseestraße
+- TOP 2.1.3.: Einrichtung einer Parklizenzzone in der Thierlsteinerstraße
+- TOP 2.1.4.: Bitte um Hilfe durch die Baugemeinschaft "Gemeinsam Freiham"
+- TOP 2.1.5.: Aktivitäten für Kinder - Nutzung vorhandener Gruppen/Infrastruktur
+- TOP 2.1.6.: Baustelle Mühlangerstraße
+- TOP 2.1.7.: Gräberbewässerung auf dem Neuaubinger Friedhof
+- TOP 2.1.8.: Ausgleichsflächen Harthauser Weg
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Allinger Str. 19 - Aubinger Str. 97 - Altostr. 99
+- TOP 3.1.2.: Baumfällungsbescheid, hier: Lindacher Str. 23, Schr. Planungsreferat vom 28.04.26
+- TOP 4.: Anträge
+- TOP 4.1.: Gelände EDEKA Bodenseestr. 253 (Grünen-Fraktion)
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung einer Veranstaltung auf öffentl. Verkehrsgrund, hier: Kulturfest "Lohe X Kultur", Ziegeleistr. Parkplatz am 13.06.26 von 14.00-22.00 Uhr, Anhörung KVR vom 14.04.26
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Geschwindigkeitsanzeige Aubing-Ost-Straße, Schr. Mobilitätsreferat vom 21.04.26
+- TOP 6.3.2.2.: Austausch einer Lichtsignalanlage - Standort Lochhausener Str. / BAB Ausfahrt West, Schr. Mobilitätsreferat vom 21.04.26
+- TOP 6.3.2.3.: Austausch einer Lichtsignalanlage - Standort Lochhausener Str. Ausfahrt Ost, Schr. Mobilitätsreferat vom 21.04.26
+- TOP 6.3.2.4.: Autos blockieren Übergang Roman-Herzog-Straße, Schr. KVR vom 20.04.26 u. Schr. Mobilitätsreferat vom 13.04.26
+- TOP 6.3.2.5.: Parksituation Roman-Herzog-Straße, Schr. Mobilitätsreferat vom 16.04.26 u. Bürgerschr. vom 18.04.26
+- TOP 6.3.2.6.: Verkehrssituation von Supermarkt in Lochhausen, Schr. Mobilitätsreferat vom 16.04.26
+- TOP 6.3.2.7.: Verkehrssicherheit auf der Eichenauer Straße/Ecke Gotzmannstraße, Schr. Mobilitätsreferat vom 08.04.26
+- TOP 6.3.2.8.: Störungen im S-Bahnbetrieb – Streckenunterhalt der S- Bahnlinie S4, Schr. Mobilitätsreferat vom 14.04.26
+- TOP 6.3.2.9.: Pirolstraße - Gehwegmarkierung zur Verbesserung der Schulwegsicherheit anbringen, Schr. Mobilitätsreferat vom 15.04.26
+- TOP 6.3.2.10.: Einbahnstraßenregelung in der Mathilde-Berghofer-Weichner-Straße, Schr. Mobilitätsreferat vom 14.04.26
+- TOP 6.3.2.11.: Arbeitsstelle im Straßenraum, hier: Kainacher Str. 9, Terminverschiebung vom 17.04.-31.07.26, Schr. Mobilitätsreferat vom 17.04.26
+- TOP 6.3.2.12.: Tempo-30-Zone Altostraße, Schr. Mobilitätsreferat vom 27.04.26 + Schr. Bürger vom 27.04.26
+- TOP 6.3.2.13.: Sanierung des Treppenzugangs zum Skatepark Freiham, Schr. Baureferat vom 17.04.26
+- TOP 6.3.2.14.: Freilandstraße / Am Aubinger Feld, Tägliche Missachtung StVO Vorschriftenzeichen 240, Schr. Mobilitätsreferat vom 27.04.26 und Bürgerschr. vom 26.04.26
+- TOP 6.3.2.15.: Barrierefreier Ausbau Bushaltestelle Kunreuthstraße / Riesenburgstraße, Schr. Baureferat vom 31.03.26
+- TOP 6.3.2.16.: Sicherer Schulweg über die Wiesenfelser Straße - geplante Maßnahmen, Schr. Mobilitätsreferat vom 24.04.26 und Schr. Bürger vom 28.04.26
+- TOP 6.3.2.17.: Einbahnstraßenregelung in der Fritz-Bauer-Straße, Schr. Mobilitätsreferat vom 14.04.26
+- TOP 6.3.2.18.: Parklizenzmanagement Fritz-Bauer-Straße, Schr. Mobilitätsreferat vom 14.04.26
+- TOP 6.3.2.19.: Verkehrsrechtliche Anordnung, hier: - Bodenseestr. 166-168 und gegenüber; Freigabe eines Zweirichtungsradweges, Schr. Mobilitätsreferat vom 23.04.26
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Bacherbreite 6, Betriebshof mit Werkshallen und Parkplätzen und Abstellflächen, Vorbescheid, Anhörung Planungsreferat vom 21.04.26
+- TOP 6.4.1.2.: Ersatz-Neubau eines Nahbereichszentrums u.a. mit Verbrauchermarkt, Lebensmitteldiscountmarkt, Einzelhandel, Bäckerei und Café, Wohnungen, Ärztehaus, Apotheke, Bibliothek, Kita und Tiefgarage / BA II (Radolfzeller Str. 5 + 5 a + 11 - 15) - ÄNDERUNGSANTRAG zu 1.1-2016-28275-43 hier: Erweiterungsanbau an Bauteil IV (Bäckerei-Filiale u. Café-Gastronomie), Anhörung Planungsreferat vom 21.04.26
+- TOP 6.4.1.3.: Neubau 2 Mehrfamilienhäuser mit jeweils 5 WE und einer Tiefgarage mit 10 STPL, Abbruch Bestand, Anhörung Planungsreferat vom 15.04.26
+- TOP 6.4.1.4.: Bebauungsplan Nr. 114 Stadt Karlsfeld, Rothschwaige - westl. der Münchner Straße, südöstl. der Reschenbachstraße, Anhörung Planungsreferat vom 24.04.26
+- TOP 6.4.1.5.: Änderung des Bebauungsplan Nr. 110 Stadt Karlsfeld zwischen Lärchenweg und Bayernwerkstraße, Anhörung Planungsreferat vom 24.04.26
+- TOP 6.4.1.6.: Bebauungsplan-Vorentwurf Stadt Germering, Vorhabenbezogener Bebauungsplan IG 7.1 - Wohngemeinschaft für Demenzerkrankte, Anhörung Planungsreferat vom 24.04.26
+- TOP 6.4.1.7.: Altostr. 38, Errichtung eines Mehrfamilienhauses - Vorbescheid, Anhörung Planungsreferat vom 22.04.26
+- TOP 6.4.1.8.: Ubostr. 42, Abbruch und Neubau der Gebäudeteile A und B, Anhörung Planungsreferat vom 22.04.26
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 30.03.-05.04.26, 13.04.-19.04.26, 20.04.-26.04.26
+- TOP 6.4.2.2.: Stromprojekt, hier: - Hans-Clarin-Weg von Anfang Mai-Ende Juli 2026, Flyer SWM vom 27.04.26 - Fabrikstraße von Ende April-Ende Juni 2026, Flyer SWM vom 24.04.26 - Industriestraße von Ende April-Ende Juli 2026, Flyer SWM vom 24.04.26
+- TOP 6.4.2.3.: Planfeststellungsverfahren und die 2-Wochen-Frist, Schr. Planungsreferat vom 17.04.26
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Bauausschuss vom 14.04.26 - Bund-Länder-Städtebauförderungsprogramm „Sozialer Zusammenhalt“ Sanierungsgebiet Aubing - Neuaubing - Westkreuz Aufwertung der öffentlichen Grünfläche am Ravensburger Ring im 22. Stadtbezirk Aubing - Lochhausen - Langwied Ausführungsgenehmigung
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 15.04.26 - Keine börsennotierten Energieverträge Keine börsengekoppelten Energieverträge
+- TOP 9.2.1: - Ausbau der S4 als Tunnel-Lösung
+- TOP 9.2.2: - „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP 9.2.3: - Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP 9.3.: Mobilitätsausschuss vom 22.04.26 - Sammelbeschluss zur Behandlung offener Anträge im Bereich Bahnverkehr
+- TOP 9.4.: Vollversammlung vom 29.04.26 - Kommunale Wärmeplanung - Ergebnisbericht
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: „Müllwoche" im 22. Stadtbezirk vom 18.5. – 24.5.2026, Infos unter https://zerowaste-muenchen.de/istdasmuelloderkanndasweg2026/
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 17.06.26 um 19.00 Uhr im Campus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.9.: (N) - Absperrung Feuerhausstraße ändern
+- TOP 2.1.10.: (N) - Absperrung Baken an der Bergsonstraße von Aubing Richtung Bahnhof Langwied
+- TOP 2.1.11.: (N) - Geschwindigkeitsbegrenzung Helmut-Schmidt-Allee Ost
