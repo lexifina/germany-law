@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-05-13T15:00:00+02:00
+- Ende: 2026-05-13T17:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00265718.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00265718.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00265718.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 04.03.2026 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: Änderung der Verarbeitung von Personalaktendaten - Mit Stimmenmehrheit beschlossen
+- TOP 3: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2025 bis 31.12.2025 - Kenntnisnahme
+- TOP 4: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge (Berichtszeitraum 2024) - Kenntnisnahme
+- TOP 5: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge (Berichtszeitraum 2025) - Kenntnisnahme
+- TOP 6: Beteiligung der Städtische Kliniken Mönchengladbach GmbH; hier: Anpassung des Gesellschaftsvertrages der MVZ an den Städtischen Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 7: Bereitstellung von Haushaltsmitteln für die Finanzierung des Eigenanteils zu den investiven Förderanträgen der Wissens- und Innovationscampus GmbH (WICMG) aus dem Stadtentwicklungsprogramm „Rheinisches Revier der Zukunft„ (STEP RR) - Einstimmiger Beschluss
+- TOP 8: Ausschüttungsverzicht für den Betrieb gewerblicher Art (BGA) Verpachtung von Wohnungen - Einstimmiger Beschluss
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2025 (6. Nachweisung) - Kenntnisnahme
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2026 (1. Nachweisung) - Kenntnisnahme
+- TOP 11: Genehmigung der Bestellung eines Vorstandsmitgliedes der Stadtsparkasse Mönchengladbach - Einstimmiger Beschluss
+- TOP 12: Entsendung von Mitgliedern der Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (RSGV) - Mit Stimmenmehrheit beschlossen
+- TOP 13: Wiederwahl der Schiedsfrau für den Schiedsamtsbezirk Ost II - Einstimmiger Beschluss
+- TOP 14: Feststellung des endgültigen Wahlergebnisses des Ratsbürgerentscheids "Olympia" - Einstimmiger Beschluss
+- TOP 15: Bildung eines Kreiswahlausschusses für die Landtagswahl 2027 - Gewählt nach Hare Niemeyer
+- TOP 16: Fortführung des vergünstigten Deutschlandtickets für alle SuS in MG - Einstimmiger Beschluss
+- TOP 17: Aktualisierung der Kooperationsverträge mit den Trägern der offenen Ganztagsschulen; hier: Ergänzungen zur Vorlage 4102/X Neue Kooperationsvereinbarung für offene Ganztagsschulen - Einstimmiger Beschluss
+- TOP 18: Satzung der Stadt Mönchengladbach über die Erhebung von Beiträgen für die Inanspruchnahme von außerunterrichtlichen Angeboten der offenen Ganztagsschule - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 19: Satzung der Stadt Mönchengladbach über die Erhebung von Elternbeiträgen für die Inanspruchnahme von Kindertageseinrichtungen, Kindertagespflege und LENA-Gruppen (Elternbeitragssatzung) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Zuwendungen für Angebote der Jugendarbeit in Hardterbroich-Pesch und Rheydt-West - Mit Stimmenmehrheit beschlossen
+- TOP 21: Zuwendung an den Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an Skateanlagen in Mönchengladbach - Einstimmiger Beschluss
+- TOP 22: Entsendung sachkundiger Einwohner*innen in Ausschüsse der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 23: Zweiter Nachtrag zur Satzung für den Seniorenrat der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 24: Bestellung Ombudsperson - Einstimmiger Beschluss
+- TOP 25: Strukturwandelförderung Empowerment Tagebauumfeld: Von der Webschulstraße zum Campusboulevard - Mit Stimmenmehrheit beschlossen
+- TOP 26: Satzung über die erste Verlängerung einer Veränderungssperre in Mönchengladbach - Einstimmiger Beschluss
+- TOP 27: Ersatzwahl eines Vorstandsmitglieds und eines stellvertretenden Vorstandsmitglieds im Schwalmverband. - Einstimmiger Beschluss
+- TOP 28: Sonderposten für die Sanierung von Schultoiletten aus dem Sondervermögen Infrastruktur - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Effizienzorientierte Weiterentwicklung der städtischen Beteiligungen - hier: gemeinsamer Fraktionsantrag von CDU und SPD vom 18.04.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 30: Änderung der Zuständigkeitsordnung der Stadt Mönchengladbach vom 16. Dezember 2020 (Abl. MG S. 434) - Umbenennung des Ausschusses für Feuerwehr, öffentliche Ordnung und Katastrophenschutz in Ausschuss für Sicherheit und öffentliche Ordnung - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Schaffung weiterer Grillzonen zur Entlastung des Stadtwald so wie zum Ausbau des Freizeitangebot - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Rückbau der Grillzone im Stadtwald sowie Verzicht auf die Ausweisung weiterer Grillflächen im Stadtgebiet; hier - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Einführung sozial ausgewogener und ortsbezogener Vergabekriterien für öffentlich geförderten Wohnraum in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Mieterschutz stärken und Missstände bei Problemimmobilien effektiv bekämpfen - Mit Stimmenmehrheit beschlossen
+- TOP 34.1: Fraktionsantrag Nr. 0593/XI „Mieterschutz stärken und Missstände bei Problemimmobilien effektiv bekämpfen“; Hier: gemeinsamer Antrag der Ratsfraktionen CDU und SPD; hier: Antrag der Ratsfraktion BÜNDNIS 90 / DIE GRÜNEN vom 05.05.2026 - Ohne Abstimmung
+- TOP 34.2: Änderungsantrag zum Tagesordnungspunkt " Mieterschutz stärken und Missstände bei Problemimmobilien effektiv bekämpfen" Antrag der CDU/SPD Kooperation vom 08.04.2026 - Vorlagennummer 0593/XI - Ohne Abstimmung
+- TOP 35: Einführung einer Nahverkehrsabgabe; hier: Antrag der Fraktion DIE LINKE / Die PARTEI vom 14.04.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Bahnanbindung Nordpark - Wenn Olympia, dann richtig - mehr CDU wagen!; hier: Fraktionsantrag der Fraktion DIE LINKE / Die PARTEI vom 21.04.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Resolution: Solidarität mit dem Queeren Zentrum - Null Toleranz für Gewalt und Extremiusmus; hier Fraktionsantrag der Fraktion DIE LINKE / Die PARTEI vom 30.04.2026 - Ohne Abstimmung
+- TOP 37.1: Änderungsantrag zu 0642/XI; Resolution: Solidarität mit dem Queeren Zentrum - Null Toleranz für Gewalt und Extremismus; hier: Antrag der Ratsfraktionen SPD und CDU vom 12.05.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 38: Antrag auf Berichterstattung: EU-Fördermittel für Mönchengladbach – Überblick, nicht; hier: Antrag der FDP/VOLT-Ratsfraktion vom 30.03.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Umbesetzung von Gremien; hier: Antrag der AfD-Ratsfraktion vom 16.03.2026 - Vom Antragsteller zurückgezogen
+- TOP 40: Umbesetzung von Gremien; hier: Antrag der AfD-Ratsfraktion vom 19.03.2026
+- TOP 41: Umbesetzung im Aufsichtsrat der Flughafengesellschaft Mönchengladbach mbH; hier: Antrag der Fraktion DIE LINKE / Die PARTEI vom 24.03.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 42: Umbesetzung im Beirat des BIS – Zentrum für offene Kulturarbeit e.V.; hier Antrag der Fraktion DIE LINKE/ DIE PARTEI vom 24.03.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 43: Anfragen und Mitteilungen
+- TOP 43.1: Anfrage Ratsherr Zabi (DIE LINKE/DIE PARTEI)
+- TOP 43.2: Anfrage Ratsfrau Manske (BÜNDNIS 90/DIE GRÜNEN)
+- TOP 43.3: Anfrage Ratsherr Dr. Wolkowski (BÜNDNIS 90/DIE GRÜNEN)
+- TOP 43.4: Anfrage Ratsfrau Kunkel-Laws (BÜNDNIS 90/DIE GRÜNEN)
+- TOP 43.5: Anfrage Ratsherr Meisterling-Riecks (BÜNDNIS 90/DIE GRÜNEN)
+- TOP 43.6: Anfrage Ratsfrau Steeger-Franke (BÜNDNIS 90/DIE GRÜNEN)
+- TOP 43.7: Anfrage Ratsfrau Gehrig (AfD)
+- TOP 43.8: Mitteilung des Oberbürgermeisters aus der Verwaltung
+- TOP 43.9: Persönliche Erklärung des Ratsherrn Immel (AfD)
+- TOP 43.10: Persönliche Erklärung des Ratsherrn Karl (AfD)
+- TOP 43.11: Persönliche Erklärung des Ratsherrn Dr. Wolkowski (BÜNDNIS 90/DIE GRÜNEN)
