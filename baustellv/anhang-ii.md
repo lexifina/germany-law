@@ -8,7 +8,6 @@ Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
     aa) Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff,
     bb) Entzündbare Flüssigkeiten oder Akute Toxizität (jeweils Kategorie 1 oder 2) oder
     cc) Keimzellmutagenität, Karzinogenität oder Reproduktionstoxizität (jeweils Kategorie 1A oder 1B),
-  der Gefahrstoffverordnung,
 3. Arbeiten mit ionisierenden Strahlungen, die die Festlegung von Kontroll- oder Überwachungsbereichen im Sinne des Strahlenschutzgesetzes und der auf dessen Grundlage erlassenen Rechtsverordnungen erfordern,
 4. Arbeiten in einem geringeren Abstand als 5 m von Hochspannungsleitungen,
 5. Arbeiten, bei denen die unmittelbare Gefahr des Ertrinkens besteht,
