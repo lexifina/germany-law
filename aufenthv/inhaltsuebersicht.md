@@ -17,6 +17,7 @@
 | § 9 | Räumlicher Geltungsbereich des Reiseausweises für Ausländer |
 | § 10 | Sonstige Beschränkungen im Reiseausweis für Ausländer |
 | § 11 | Verfahren der Ausstellung oder Verlängerung des Reiseausweises für Ausländer im Ausland |
+| § 11a | Ausstellung von Reiseausweisen für Ausländer für Schülerreisen in das Vereinigte Königreich Großbritannien und Nordirland |
 | § 12 | Grenzgängerkarte |
 | § 13 | Notreiseausweis |
 | § 13a | EU-Rückkehrausweis |
