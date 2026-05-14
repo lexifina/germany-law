@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium des Innern verordnet aufgrund des § 4 Absatz 6 Satz 2 des Häftlingshilfegesetzes in der Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 838), das zuletzt durch Artikel 2 des Gesetzes vom 25. Februar 2025 (BGBl. 2025 I Nr. 63) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131) im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit und Soziales sowie im Benehmen mit der Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag:
