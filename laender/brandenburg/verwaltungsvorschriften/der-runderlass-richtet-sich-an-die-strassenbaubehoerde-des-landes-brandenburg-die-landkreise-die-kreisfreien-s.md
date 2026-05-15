@@ -1,18 +1,18 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 24/20
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 10/20
 
 - Herausgeber: Land Brandenburg
-- Datum: 2026-04-15 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/merkblatt_winterdienst_2025
+- Datum: 2026-05-15 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tl_fug_stb_24
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Merkblatt für den Winterdienst auf Straßen, Ausgabe 2025
+Außerkrafttreten technischer Regelwerke für das Straßenwesen im Land Brandenburg -  Technische Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)
 
-vom 18. Dezember 2025
+vom 15. Mai 2026
 
-(ABl./26, [Nr. 1], S.26)
+(ABl./26, [Nr. 22], S.487)
 
 Der Runderlass richtet sich an
 
@@ -20,18 +20,12 @@ die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 24/2025 vom 23. Oktober 2025 hat das Bundesministerium für Digitales und Verkehr (BMDV) das „Merkblatt für den Winterdienst auf Straßen“, Ausgabe 2025 amtlich bekanntgegeben (VkBl. 2025 S. 617).
+Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 10/2024 vom 2. April 2024 (VkBl. S. 362) hat das Bundesministerium für Digitales und Verkehr die „Technischen Lieferbedingungen für Fugenfüllstoffe und Fugenfüllsysteme in Verkehrsflächen, Ausgabe 2024 (TL Fug-StB 24)“ bekannt gegeben.
 
-Hiermit wird das „Merkblatt für den Winterdienst auf Straßen“, Ausgabe 2025 für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Bundesfernstraßen und Landesstraßen verbindlich eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+Gemäß Runderlass des Ministeriums für Infrastruktur und Landesplanung „Einführung technischer Regelwerke und Erlasse des Bundes im Straßenbau des Landes Brandenburg; Sachgebiete Erd- und Grundbau, Entwässerung, Straßenbefestigungen, Straßenbaustoffe, Straßenerhaltung“ vom 12. April 2021 (ABl. S. 378) gilt das Allgemeine Rundschreiben Nummer 10/2024 automatisch einen Monat nach Veröffentlichung im Amtsblatt des Bundesministeriums für Digitales und Verkehr (Verkehrsblatt) als verbindlich eingeführt für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Bundesfernstraßen und Landesstraßen. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen. Gesonderte brandenburgische Regelungen werden nicht getroffen.
 
-Über die Erfahrungen mit der Anwendung des Merkblattes ist dem Ministerium für Infrastruktur und Landesplanung bis zum 15. April 2026 zu berichten.
+Die TL Fug-StB 24 ersetzen die bisherigen „Technischen Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)“ zum Stichtag 1. Juni 2026.
 
-Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+Der folgende Runderlass wird hiermit zum 1. Juni 2026 aufgehoben:
 
-Der Runderlass ersetzt den
-
-Runderlass „Merkblatt für den Winterdienst auf Straßen - Ausgabe 2020“ vom 20. Dezember 2022 (ABl. 2023 S. 26) sowie
-
-Runderlass „Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Merkblatt für den Winterdienst auf Straßen, Ausgabe 2020 - Austausch: Streudichte-Tabelle für den Straßenwinterdienst“ vom 29. November 2024 (ABl. S. 1457).
-
-Das „Merkblatt für den Winterdienst auf Straßen“, Ausgabe 2025 ist bei der FGSV Verlag GmbH, Wesselinger Straße 17, 50999 Köln zu beziehen.
+„Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)“ vom 20. Dezember 2016 (ABl. 2017 S. 34).
