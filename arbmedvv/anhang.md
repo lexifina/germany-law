@@ -49,7 +49,7 @@ wenn
   e) Tätigkeiten mit einer Exposition mit Gesundheitsgefährdung durch Labortierstaub in Tierhaltungsräumen und -anlagen,
   f) Tätigkeiten mit Benutzung von Naturgummilatexhandschuhen mit mehr als 30 Mikrogramm Protein je Gramm im Handschuhmaterial,
   g) Tätigkeiten mit dermaler Gefährdung oder inhalativer Exposition mit Gesundheitsgefährdung, verursacht durch Bestandteile unausgehärteter Epoxidharze, insbesondere durch Versprühen von Epoxidharzen,
-  h) Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Überschreitung einer Luftkonzentration von 0,075 Milligramm pro Kubikmeter,
+  h) Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Überschreitung einer Luftkonzentration von 15 Mikrogramm pro Kubikmeter,
   i) Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung eingestufte Faserstäube freigesetzt werden können,
   j) Tätigkeiten mit Exposition gegenüber Mehlstaub bei Überschreitung einer Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft.
 (2)
@@ -66,7 +66,7 @@ Angebotsvorsorge bei:
   f) Schweißen und Trennen von Metallen bei Einhaltung einer Luftkonzentration von 3 Milligramm pro Kubikmeter Schweißrauch,
   g) Tätigkeiten mit Exposition gegenüber Getreide- und Futtermittelstäuben bei Überschreitung einer Luftkonzentration von 1 Milligramm je Kubikmeter einatembarem Staub,
   h) Tätigkeiten mit Exposition gegenüber Isocyanaten, bei denen ein Hautkontakt nicht ausgeschlossen werden kann oder eine Luftkonzentration von 0,05 Milligramm pro Kubikmeter eingehalten wird,
-  i) Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Einhaltung einer Luftkonzentration von 0,075 Milligramm pro Kubikmeter,
+  i) Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Einhaltung einer Luftkonzentration von 15 Mikrogramm pro Kubikmeter, insbesondere für weibliche Beschäftigte im gebärfähigen Alter, für die der Arbeitgeber keine Pflichtvorsorge nach Absatz 1 Nummer 2 Buchstabe h zu veranlassen hat,
   j) Tätigkeiten mit Exposition gegenüber Mehlstaub bei Einhaltung einer Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft,
   k) Tätigkeiten mit Exposition gegenüber sonstigen atemwegssensibilisierend oder hautsensibilisierend wirkenden Stoffen, für die nach Absatz 1, Nummer 1 oder Buchstabe a bis j keine arbeitsmedizinische Vorsorge vorgesehen ist.
 3. (weggefallen)
