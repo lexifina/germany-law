@@ -1,0 +1,93 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9320993
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9320993
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Konstituierende Sitzung des Bezirksausschusses
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Bei Bedarf: erneut Feststellung der Beschlussfähigkeit des BAs
+- TOP 1.7: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.8: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2: BA-Vorstand
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.6: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8: Ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 2.9: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 3: Bildung der Unterausschüsse
+- TOP 3.1: Beschluss über die
+- TOP 3.1.1: Anzahl
+- TOP 3.1.2: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3: Größe der Unterausschüsse
+- TOP 3.1.4: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4: Ggf. Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 3.5: Ggf. BA-Beschluss: Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 Ge-schO-Stadtrat) sowie Bildung eines Ferienausschusses (§ 22a BA-Satzung) mit
+- TOP 3.5.1: Beschlussfassung über Größe
+- TOP 3.5.2: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.5.3: Wahl der / des Vorsitzenden
+- TOP 3.5.4: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4: Benennung der Beauftragten
+- TOP 4.1: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 4.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 4.7: Ggf. Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO)
+- TOP 5: Ggf. Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 5.1: Schaukasten Riesstraße
+- TOP 5.2: Schaukasten Andernacher-/Meggendorfer Straße
+- TOP 5.3: Schaukasten Untermenzinger-/Lauinger Straße
+- TOP 5.4: Schaukasten Borstei
+- TOP 5.5: Schaukasten S- und U-Bahnhof, Moosach Bhf
+- TOP 5.6: Schaukasten U-Bahnhof, St.-Martins-Platz
+- TOP 5.7: Schaukasten U-Bahnhof, Westfriedhof
+- TOP 6: Verschiedenes
+- TOP 6.1: Grundsatzbeschlüsse
+- TOP 6.2: Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP B: Arbeitssitzung des Bezirksausschusses
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 13.04.2026
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Defizite bei der Überwachung des Parklizenzgebiets Seydlitzplatz
+- TOP 2.2.: Anfrage zur Gründung eines Naturkindergartens im Stadtbezirk 10 Moosach
+- TOP 2.3.: Anfrage Fahrradweg Untermenzinger Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Einrichtung eines Zebrastreifens in der Donauwörther Straße
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Gärtnerstraße 39
+- TOP 3.3.1.2.: Alfred-Drexel-Straße 3
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Quedlinburger Straße 14 (vertagt aus der Sitzung am 13.04.2026)
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
