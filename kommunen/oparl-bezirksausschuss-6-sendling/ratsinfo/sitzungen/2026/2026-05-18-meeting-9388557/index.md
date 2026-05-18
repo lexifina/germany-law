@@ -1,0 +1,160 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-05-18T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9388557
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9388557
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP Teil A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Sitzungseröffnung
+- TOP 1.2.: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3.: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4.: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5.: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6.: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.7.: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des BA-Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 2.7.: Wahl der / des 2. Beisitzerin / Beisitzers (optional)
+- TOP 2.8.: Wahl einer Kassiererin / eines Kassiers (optional)
+- TOP 2.9.: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines "erweiterten BA-Vorstandes"
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1.: Beschluss über die 1.1 Anzahl 1.2 Zuständigkeit / Ressortverteilung 1.3 Größe der Unterausschüsse 1.4 Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2.: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3.: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4.: Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden (optional)
+- TOP 4.: Bildung eines Ferienausschusses (optional)
+- TOP 4.1.: Übernahme der für den Stadtrat geltenden Ferienzeiten auch für den BA6
+- TOP 4.2.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 4.3.: Benennung der Mitglieder des Ferienausschusses und ihrer Stellvertreter*innen
+- TOP 4.4.: Wahl der / des Vorsitzenden des Ferienausschusses
+- TOP 4.5.: Benennung der / des stellvertretenden Vorsitzenden des Ferienausschusses (optional)
+- TOP 5.: Benennung von Beauftragten
+- TOP 5.1.: Benennung einer / eines Kinderbeauftragten
+- TOP 5.2.: Benennung einer / eines Jugendbeauftragten (optional)
+- TOP 5.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 5.4.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 5.5.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 5.6.: Benennung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus
+- TOP 5.7.: Benennung weiterer Beauftragter (optional)
+- TOP 6.: Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 6.1.: Schaukasten 1: Harras
+- TOP 6.2.: Schaukasten 2: Herzog-Ernst-Platz
+- TOP 6.3.: Schaukasten 3: Meindlstraße
+- TOP 6.4.: Schaukasten 4: Implerstraße
+- TOP 6.5.: Schaukasten 5: Resi-Huber-Platz
+- TOP 7.: Verschiedenes
+- TOP 7.1.: Bestellung von Zeichnungsberechtigten für die Kontoführung des Bezirksausschusses
+- TOP 7.2.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen bzw. zur Durchführung von Live-Streams für die BA-Sitzungen
+- TOP 7.3.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen in den Unterausschüssen
+- TOP 7.4.: Grundsatzbeschluss BA-Vorstand über die Delegation der Ladung und Ergänzung der Tagesordnung an die / den BA-Vorsitzenden bzw. an die / den UA-Vorsitzenden (§ 7a BA-GeschO)
+- TOP Teil B: Teil B - 1. Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 13.04.2026
+- TOP 2.: Bürger*innensprechstunde (2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Wahlplakate
+- TOP 2.2.: Verbindungsweg Neubauprojekt: Karwendelstrasse/ Plinganserstraße
+- TOP 2.3.: Erhebliches Gehwegparken und Behinderung der Müllabfuhr in der Kidlerstr. 1, 81371 München
+- TOP 2.4.: Anfrage zu studentischem Planungsprojekt (TUM) – Thalkirchnerstraße
+- TOP 2.5.: Haltverbote ohne ausreichenden Grund
+- TOP 2.6.: Reinigung der künstlichen Grünflächen und Sitzbänke am Quartiersplatz Theresienhöhe Ostseite
+- TOP 2.7.: KARUSO: Ausschreibung Impler-/Poccistraße
+- TOP 2.8.: Zur Kenntnis: Beschwerde Ruhestörung - Großmarkthalle
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Daiserstr. 26b Fällungsantrag vom 09.04.2026 I Frist: 22.05.2026
+- TOP 4.2.2.: Implerstr. 51 Fällungsantrag vom 14.04.2026 I Frist: 29.05.2026
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP 4.3.2.: Neue Baumbepflanzung Danklstraße/München Antwort des BAU auf Bürger*innenanliegen TOP 2.3 aus 11/25
+- TOP 4.3.3.: Planfeststellungsverfahren und die Zwei-Wochen-Frist
+- TOP 4.3.4.: Baumentfernung Flaucher Süd
+- TOP 4.3.5.: Planungsstand U9 Antwort der MVG auf Bürger*innenanliegen TOP 2.2 aus 03/26
+- TOP 4.3.6.: Heckenschnitt an der Mauer zum Pfarrgarten Antwort des BAU auf Bürger*innenanliegen TOP 2.3 aus 02/26
+- TOP 4.3.7.: Kommunale Wärmeplanung - Ergebnisbericht
+- TOP 4.3.8.: Mini-Pilot: Blumenwiese statt Betonscheiben an Sortieranlage
+- TOP 4.3.9.: Baumfällungen Großer Stadtbach - Infos von RKU-UNB
+- TOP 4.3.10.: Seismik-Messungen für die Geothermie – Information zur Anpassung des Zeitplans
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Zusammenschrift aus dem Termin im März mit der Abteilung Gartenbau
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Oberländerstr. 4
+- TOP 5.1.2.: Antrag für ein neues Zeitungsentnahmegerät, Lindwurmstraße 199
+- TOP 5.1.3.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Implerstraße 23
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Bez. 6 - Anhörung VA Grünanlage: Sommerfest und 10-jähriges Bestehen KiGa Singende Matschknödel Am Isarkanal/Ecke Schäftlarnstr. am 19.06.2026; TERMIN: 29.05.2026
+- TOP 5.2.2.: Bez. 6 - Anhörung VA Grünanlage: Geländepraktikum Studierende der LMU Geographie in den Isarauen Flaucheranlagen vom 17.07.-01.08.2026; TERMIN: 10.06.2026
+- TOP 5.2.3.: KJR-Graffiti-Workshop Brudermühlbrücke am 19.6.26 (Ersatz 26.6.26)
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.2.: Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP 5.3.3.: Situation für Fußgänger und Radfahrer Ecke Stemmerhof - Jägerwirtstraße/Pfeuferstraße/Plinganserstraße Antwort des MOR zu Bürger*innenanliegen TOP 5.5.1 aus 11/25
+- TOP 5.3.4.: Einführung einer Sperrzone für E-Roller am Harras (SPD)
+- TOP 5.3.5.: Parklets Genehmigungsbescheide zur Kenntnis
+- TOP 5.3.6.: Monatelange Halteverbote Isartalstraße im dritten Jahr; Bürger*innenanliegen aus dem BA 2 zur Kenntnis
+- TOP 5.3.7.: Dauerblitzer Implerstraße Antwort des MOR auf Bürger*innenanliegen TOP 2.21b aus 12/25
+- TOP 5.3.8.: (U) Sammelbeschluss zur Behandlung offener Anträge im Bereich Bahnverkehr
+- TOP 5.3.9.: Arbeiten im Straßenraum; Gotzinger Str. 46-56, Oberländerstr. 1-3a, Thalkirchner Str. 130, Gotzinger Platz 4-6; Verlegung Fernwärmeanschluss– Phase 1 und 2
+- TOP 5.3.10.: Parklizenzgebiet für Mittersendling, Nachfrage Antwort des MOR auf Bürger*innenanliegen TOP 2.11 aus 03/26
+- TOP 5.3.11.: MVG-Information zum Busangebot der Linien 62 und 63 ab 18.5.2026
+- TOP 5.3.12.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung und Zufahrt Bohrpunkte 4 und 5
+- TOP 5.3.13.: Dreimühlenstraße – nordöstlich Einmündung Lagerhausstraße; Kurven-Haltverbote
+- TOP 5.3.14.: Entwicklung des Fahrzeugbestandes in Sendling: Woher kommt die Zunahme an gewerblichen Fahrzeugen (Bündnis 90/Die Grünen)
+- TOP 5.3.15.: Tempo 30 dauerhaft am Herzog-Ernst-Platz umsetzen (SPD)
+- TOP 5.3.16.: Stadtteilspaziergänge Antwort des BAU auf Schreiben des BAs TOP 9.5 aus 03/26
+- TOP 5.3.17.: Verkehrsgefährdung/Lärmbelastung Bavariastraße, Sendling Antwort des MOR auf Bürger*innenanliegen TOP 2.1 aus 11/25
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Culture Clouds e.V. „Pop-UP 2027 1 Projekt Zirkus Pumpernudl vom 01.01.2027 - 31.12.2027“ 4.812,00 € / AZ: 0262.100-6-0608
+- TOP 6.1.2.: (E) Stadtbezirksbudget Rosa Stern Space e.V. „Aufzucht und (Un-)Ordnung vom 15.05.2026 - 05.07.2025“ 2.625,00 € / AZ: 0262.100-6-0620
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kunst in Sendling e.V. „Offene Ateliers und Infopoint vom 09.10.2026 - 11.10.2026“ 4.485,00 € / AZ: 0262.100-6-0613
+- TOP 6.1.4.: (E) Stadtbezirksbudget Tarzanmäuse e.V. „30-Jahrfeier: 30-jähriges Bestehen der Elternkindinitiative am 11.07.2026“ 590,00 € / AZ: 0262.100-6-0612
+- TOP 6.1.5.: (E) Stadtbezirksbudget RAD.Filmfest München (Initiative) „RAD.Filmfest München vom 17.07.2026 - 18.07.2026“ 5.000,00 € / AZ: 0262.100-6-0621
+- TOP 6.1.6.: (E) Stadtbezirksbudget Init. "Straßenfest in der Schöttlstr." „Straßenfest in der Schöttlstr. Juli 2026“ 2.410,00 € / AZ: 0262.100-6-0622
+- TOP 6.1.7.: (E) Stadtbezirksbudget Freundeskreis Dante Gymnasium München e.V. „Allgemeine Suchtprävention für vier 8. Klassen vom 14.07.2026 - 15.07.2026“ 1.838,20 € / AZ: 0262.100-6-0623
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.1.1.: Einladung zur Infoveranstaltung der Sozialreferentin für die Bezirksausschüsse am 09.06.2026 I Nennung von bis zu drei Teilnehmenden bis zum 22.05.2026
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Aktualisierte Übersicht über die Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand: 31.12.2025
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.1.1.: Sitzungstermine 2027
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Beschlossene Sitzungstermine Juni bis Dezember 2026 für die neuen BA-Mitglieder zur Kenntnis
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
