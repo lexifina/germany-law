@@ -1,0 +1,7 @@
+# TOP 6.c): Einrichtung einer barrierefreien Wohnanlage in Willingen – Veräußerung von Grundstücksflächen
+
+- Sitzung: Gemeindevertretung (2. Sitzung) (2026-05-18)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/4509
+- Ergebnis: (kein Text vorhanden)
