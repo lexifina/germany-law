@@ -1,0 +1,131 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Sitzungseröffnung
+- TOP 1.2.: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3.: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4.: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5.: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6.: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.7.: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des BA-Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 2.7.: Wahl der / des 2. Beisitzerin / Beisitzers (optional)
+- TOP 2.8.: Wahl einer Kassiererin / eines Kassiers (optional)
+- TOP 2.9.: Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1.: Beschluss über die
+- TOP 3.1.1: Anzahl
+- TOP 3.1.2: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3: Größe der Unterausschüsse
+- TOP 3.1.4: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2.: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3.: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4.: Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden (optional)
+- TOP -: Bildung eines Ferienausschusses (optional)
+- TOP 5.: Übernahme der für den Stadtrat geltenden Ferienzeiten auch für den BA8
+- TOP 6.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 7.: Benennung der Mitglieder des Ferienausschusses und ihrer Stellvertreter*innen
+- TOP 8.: Wahl der / des Vorsitzenden des Ferienausschusses
+- TOP 9.: Benennung der / des stellvertretenden Vorsitzenden des Ferienausschusses (optional)
+- TOP 4.: Benennung von Beauftragten
+- TOP 4.1.: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2.: Benennung einer / eines Jugendbeauftragten (optional)
+- TOP 4.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6.: Benennung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus
+- TOP 4.7.: Benennung weiterer Beauftragter (optional)
+- TOP 5.: Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 5.1.: BA-Schaukasten Bergmannstraße 33
+- TOP 5.2.: BA-Schaukasten Karl-Spengler-Straße / Oda-Schaefer-Weg
+- TOP 5.3.: Kinder- und Jugendschaukasten Ganghoferstraße 41
+- TOP 6.: Verschiedenes
+- TOP 6.1.: Bestellung von Zeichnungsberechtigten für die Kontoführung des Bezirksausschusses
+- TOP 6.2.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen bzw. zur Durchführung von Live-Streams für die BA-Sitzungen
+- TOP 6.3.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen in den Unterausschüssen
+- TOP 6.4.: Grundsatzbeschluss BA-Vorstand über die Delegation der Ladung und Ergänzung der Tagesordnung an die / den BA-Vorsitzenden bzw. an die / den UA-Vorsitzenden (§ 7a BA-GeschO)
+- TOP 6.5.: BA-Sitzungstermine 2027
+- TOP -: Teil B - 1. Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Errichtung von Fahrradabstellbügeln und Lastenradplätzen vor der Ligsalzstraße 31a
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Warenstellage Gollierplatz 12
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ligsalzstraße 17
+- TOP 6.2.2.: Bauvorhaben Theresienhöhe 1
+- TOP 6.2.3.: Bebauungsplan mit Grünordnung - Bahnlinie Hauptbahnhof-Pasing - Donnersberger Brücke
+- TOP 6.2.4.: Mobilfunksuchkreismeldung Heimeranstraße
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Planfeststellungsverfahren und die zwei-Wochen-Frist
+- TOP 6.3.4.: Instandsetzungsarbeiten Donnerbergerbrücke
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Leistungsbilanz des Sozialreferates 2026
+- TOP 7.3.2.: Unterkunftsstandorte Geflüchtete und Wohnungslose
+- TOP 7.3.3.: "Affenspielplatz" Georg-Freundorfer-Platz; Zustand, Abflüsse, Verbesserungsmöglichkeiten - Antwortschreiben
+- TOP 7.3.4.: Einladung zur Informationsveranstaltung des Sozialreferates am 09.06.2026
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: "GoodLifeFestival" Ganghoferstraße 41 und Fläche zwischen Linus-Pauling-Straße und Ben-Chorin-Straße am 11.06.2026
+- TOP 8.2.2.: Kinder- und Jugendfest im Rahmen der Stadtteiltage am Georg-Freundorfer-Platz am 26.06.2026
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung Am Bavariapark am 17.05.2026
+- TOP 8.3.2.: Veranstaltung "Launchevent zum Systemstart des regionalen Bikesharing" Am Bavariapark am 07.05.2026
+- TOP 8.3.3.: Veranstaltung "Proschnecki Rave" Am Bavariapark am 09.05.2026 - Anpassung erwartete Besucherzahl
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Linus-Pauling-Straße; Beschilderung als Gehweg mit Freigabe für gegenläufigen Radverkehr und Zufahrtsmöglichkeit zu Anwesen Ganghoferstr. 43
+- TOP 9.2.2.: Gollierstraße Höhe Anwesen Nr. 56; Parkregelung für Fahrzeuge der Münchner Tafel
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Tauben füttern und WC am Gollierplatz - Antwortschreiben
+- TOP 9.3.2.: Unangeleinte Hunde am Sinti-Roma-Platz - Antwortschreiben
+- TOP 9.3.3.: MVG-Information zum Busangebot der Linien 62 und 63 ab 18.05.2026
+- TOP 9.3.4.: Rad-Beschilderung am Fußgängerüberweg Landsberger Straße / Schrenkstraße
+- TOP 9.3.5.: Meldeliste Baumaßnahmen SWM
+- TOP 9.3.6.: Seismik-Messungen für die Geothermie – Zeitraum August bis Dezember 2026
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
