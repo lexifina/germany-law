@@ -1,0 +1,154 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2026-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9117136
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9117136
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Bei Bedarf: erneut Feststellung der Beschlussfähigkeit des BAs
+- TOP 1.7: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.8: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8: Ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 2.9: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines "erweiterten BA-Vorstandes
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1: Beschluss über die
+- TOP 3.1.1: Anzahl
+- TOP 3.1.2: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3: Größe der Unterausschüsse
+- TOP 3.1.4: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4: Ggf. Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 3.5: Ggf. BA-Beschluss: Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 Ge-schO-Stadtrat) sowie Bildung eines Ferienausschusses (§ 22a BA-Satzung)
+- TOP 3.5.1: Beschlussfassung über Größe
+- TOP 3.5.2: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.5.3: Wahl der / des Vorsitzenden
+- TOP 3.5.4: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4.: Benennung von Beauftragten
+- TOP 4.1: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 4.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 4.7: Ggf. Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO)
+- TOP 5.: Verschiedenes
+- TOP 5.1: Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP 5.1.1.: Bestätigung des Sitzungslokals und der restlichen Sitzungstermine 2026
+- TOP 5.2: Grundsatzbeschlüsse ( z.B. zu Hypridsitzungen, zur Durchführung von Live-Streams; Delegationsbefugnis des Vorstands, § 7a BA-GeschO Neufassung, BA-Newsletter)
+- TOP II-B: Teil B - Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr. 2 i.V.m. §46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO) hier: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Minnewitstr. 3
+- TOP 6.3.3.2.: Vormerkung und verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO): hier: Herzogstandstraße (Deisenhofener Str. 28): Änderung Zeitzusatz
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund /Grünanlage hier: Veranstaltung "Workshop zur Umgestaltung St.-Quirin-Platz" am 27.06.2026
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachtrag TOP 6.5.3.2 Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/Grünanlage hier: Weißenseepark "Kinderfestveranstaltung" am 27-28.05.2026 (Ersatztermin 30.05.2026)
+- TOP 6.5.3.2.: Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/Grünanlage hier: Weißenseepark "Kinderfestveranstaltung" am 27-28.05.2026 (Ersatztermin 30.05.2026) (Frist 20.05.2026)
