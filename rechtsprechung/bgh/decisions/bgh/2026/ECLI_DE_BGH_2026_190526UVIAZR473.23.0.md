@@ -1,0 +1,71 @@
+---
+ecli: "ECLI:DE:BGH:2026:190526UVIAZR473.23.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "VIa ZR 473/23"
+decided: "2026-05-19"
+typ: "Urteil"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE615202026.xml"
+neuris_doknr: "KORE615202026"
+---
+
+# Bundesgerichtshof, VIa ZR 473/23 vom 2026-05-19
+
+## Tenor
+
+Auf die Revision des Klägers wird das Urteil des 11. Zivilsenats des Oberlandesgerichts Koblenz vom 21. März 2023 aufgehoben.
+
+Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.
+
+Der Streitwert für das Revisionsverfahren wird auf bis 45.000 € festgesetzt.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Der Kläger nimmt die Beklagte wegen der Verwendung unzulässiger Abschalteinrichtungen in einem Kraftfahrzeug auf Schadensersatz in Anspruch. Er erwarb im September 2014 von einem Dritten ein neues Wohnmobil Knaus BoxStar Lifetime 2 BE 600. Das von der Beklagten hergestellte Basisfahrzeug Fiat Ducato ist mit einem 2,3-Liter Dieselmotor (Schadstoffklasse Euro 5) ausgerüstet.
+
+2 Der Kläger hat mit seiner in beiden Instanzen erfolglosen Klage im Wesentlichen verlangt, ihn im Wege des Schadensersatzes so zu stellen, als habe er den Kaufvertrag nicht abgeschlossen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt er seine Berufungsanträge weiter.
+
+## Entscheidungsgründe
+
+3 Die Revision des Klägers hat Erfolg.
+
+I.
+
+4 Das Berufungsgericht hat seine Entscheidung - soweit für das Revisionsverfahren von Bedeutung - im Wesentlichen wie folgt begründet:
+
+5 Ein Schadensersatzanspruch ergebe sich mangels schlüssiger Darlegung eines schadensursächlichen, vorsätzlich sittenwidrigen Verhaltens der Beklagten nicht aus §§ 826, 31 BGB. Die Beklagte hafte auch nicht gemäß § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV. Das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, liege nicht im Schutzbereich dieser Bestimmungen. Ferner treffe die Beklagte kein Verschulden, weil sie einem unvermeidbaren Verbotsirrtum unterlegen gewesen sei. Unabhängig davon sei bei dem Kläger kein Schaden eingetreten, weil weder eine Stilllegung noch eine sonstige Betriebsbeschränkung für das klägerische Fahrzeug drohe.
+
+II.
+
+6 Diese Erwägungen halten der Überprüfung im Revisionsverfahren nicht in allen Punkten stand.
+
+7 1. Allerdings begegnet es keinen revisionsrechtlichen Bedenken, dass das Berufungsgericht eine Haftung der Beklagten aus §§ 826, 31 BGB abgelehnt hat. Die Revision erhebt insoweit auch keine konkreten Einwände.
+
+8 2. Die Revision wendet sich aber mit Erfolg dagegen, dass das Berufungsgericht eine Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit §§ 6, 27 EG-FGV aus Rechtsgründen abgelehnt hat.
+
+9 a) Wie der Senat nach Erlass des angefochtenen Urteils entschieden hat, sind die Bestimmungen der § 6 Abs. 1, § 27 Abs. 1 EG-FGV Schutzgesetze im Sinne des § 823 Abs. 2 BGB, die das Interesse des Fahrzeugkäufers gegenüber dem Fahrzeughersteller wahren, nicht durch den Kaufvertragsabschluss eine Vermögenseinbuße im Sinne der Differenzhypothese zu erleiden, weil das Fahrzeug entgegen der Übereinstimmungsbescheinigung eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 aufweist (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 29 bis 32).
+
+10 Das Berufungsgericht hat daher zwar zu Recht einen Anspruch des Klägers auf die Gewährung sogenannten "großen" Schadensersatzes verneint (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 22 bis 27). Es hat jedoch nicht berücksichtigt, dass dem Kläger nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV ein Anspruch auf Ersatz eines erlittenen Differenzschadens zustehen kann (vgl. BGH, Urteil vom 26. Juni 2023, aaO, Rn. 28 bis 32; ebenso BGH, Urteile vom 20. Juli 2023 - III ZR 267/20, NJW 2024, 361 Rn. 21 ff.; - III ZR 303/20, juris Rn. 16 f.; Urteil vom 12. Oktober 2023 - VII ZR 412/21, juris Rn. 20).
+
+11 b) Mit den von dem Berufungsgericht angestellten Erwägungen zur Frage eines die Beklagte entlastenden unvermeidbaren Verbotsirrtums kann ein Anspruch des Klägers auf Ersatz des Differenzschadens gemäß § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV nicht verneint werden. Dem steht - wie der Senat nach Erlass des Berufungsurteils entschieden hat - schon entgegen, dass der Fahrzeughersteller, will er sich zur Widerlegung der Verschuldensvermutung (BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 59 f.) auf einen unvermeidbaren Verbotsirrtum berufen, einen Irrtum konkret darlegen und beweisen muss (BGH, Urteil vom 26. Juni 2023, aaO, Rn. 63), und zwar in Bezug auf die nach § 31 BGB Verantwortlichen (vgl. BGH, Urteil vom 25. September 2023 - VIa ZR 1/23, NJW 2023, 3796 Rn. 14). Feststellungen hierzu sind dem Berufungsurteil nicht zu entnehmen.
+
+12 Erst im Anschluss an die Darlegung und den Nachweis dieser Umstände konnte aber für die Frage der Unvermeidbarkeit eines festgestellten Verbotsirrtums Bedeutung gewinnen, ob - worauf das Berufungsgericht abstellen möchte - eine festgestellte Abschalteinrichtung entweder in all ihren für die Bewertung nach Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 maßgebenden Einzelheiten von der damit befassten nationalen Behörde genehmigt war oder genehmigt worden wäre (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 64 ff.; Urteil vom 16. Dezember 2025 - VIa ZR 1355/22, juris Rn. 14).
+
+13 c) Schließlich hält die Annahme des Berufungsgerichts, der Kläger habe keinen nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV ersatzfähigen Schaden erlitten, der rechtlichen Nachprüfung ebenfalls nicht stand. Mit Rücksicht auf den geldwerten Vorteil der jederzeitigen Verfügbarkeit eines Fahrzeugs genügt für einen Schadenseintritt die im Zeitpunkt des Vertragsschlusses bestehende rechtliche Möglichkeit einer Nutzungsbeschränkung, die schon wegen der Verwendung einer unzulässigen Abschalteinrichtung gegeben ist (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 41 f.; Urteil vom 27. November 2023 - VIa ZR 1425/22, DAR 2024, 204 Rn. 26; Urteil vom 14. Mai 2024 - VIa ZR 716/23, juris Rn. 13; Urteil vom 16. Dezember 2025 - VIa ZR 1355/22, juris Rn. 16; Urteil vom 21. Januar 2026 - VIa ZR 726/22, juris Rn. 8).
+
+III.
+
+14 Die angefochtene Entscheidung ist demnach aufzuheben (§ 562 Abs. 1 ZPO), weil sie sich nicht aus anderen Gründen als richtig darstellt (§ 561 ZPO). Der Senat kann nicht in der Sache selbst entscheiden, weil diese nicht zur Endentscheidung reif ist (§ 563 Abs. 3 ZPO). Sie ist daher zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1 ZPO).
+
+15 Das Berufungsgericht wird auf der Grundlage der mit Urteil des Senats vom 26. Juni 2023 in der Sache VIa ZR 335/21 aufgestellten Grundsätze die erforderlichen Feststellungen zu einer Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV zu treffen haben, nachdem es dem Kläger Gelegenheit gegeben hat, den Differenzschaden zu berechnen und dazu vorzutragen.
+
+C. Fischer
+
+Messing
+
+Katzenstein
+
+F. Schmidt
+
+Pastohr
