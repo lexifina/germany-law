@@ -1,0 +1,171 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2026-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9036859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9036859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Sitzungseröffnung
+- TOP 1.2.: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.4.: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 1.5.: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.6.: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.7.: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.8.: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des BA-Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzenden
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 2.7.: Wahl der / des 2. Beisitzerin / Beisitzers (optional)
+- TOP 2.8.: Wahl einer Kassiererin / eines Kassierers (optional)
+- TOP 2.9.: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes"
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1.: Beschlüsse zu den Unterausschüssen
+- TOP 3.1.1: Anzahl der Unterausschüsse
+- TOP 3.1.2: Zuständigkeit / Ressortverteilung der Unterausschüsse
+- TOP 3.1.3: Größe der Unterausschüsse
+- TOP 3.2.: Besetzung der Unterausschüsse
+- TOP 3.2.1: Beschluss über die Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.2.2: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.2.3: Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden (optional)
+- TOP 3.3.: Bildung eines Ferienausschusses (optional)
+- TOP 3.3.1: Übernahme der für den Stadtrat geltenden Ferienzeiten auch für den BA 18
+- TOP 3.3.2: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 3.3.3: Benennung der Mitglieder des Ferienausschusses und ihrer Stellvertreter*innen
+- TOP 3.3.4: Wahl der / des Vorsitzenden des Ferienausschusses
+- TOP 3.3.5: Benennung der / des stellvertretenden Vorsitzenden des Ferienausschusses (optional)
+- TOP 4.: Benennung von Beauftragten
+- TOP 4.1.: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2.: Benennung einer / eines Jugendbeauftragten (optional)
+- TOP 4.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6.: Benennung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus
+- TOP 4.7.: Benennung einer / eines Internetbeauftragten
+- TOP 4.8.: Benennung weiterer Beauftragter (optional)
+- TOP 5.: Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 5.1.: BA-Schaukasten Authariplatz
+- TOP 5.2.: BA-Schaukasten Candidplatz
+- TOP 5.3.: BA-Schaukasten Mangfallplatz
+- TOP 5.4.: BA-Schaukasten Pilgersheimer Straße / Winterstraße
+- TOP 5.5.: BA-Schaukasten Quirinplatz
+- TOP 5.6.: BA-Schaukasten Wettersteinplatz
+- TOP 6.: Verschiedenes
+- TOP 6.1.: Bestellung von Zeichnungsberechtigten für die Kontoführung des Bezirksausschusses
+- TOP 6.2.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen bzw. zur Durchführung von Live-Streams für die BA-Sitzungen
+- TOP 6.3.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen in den Unterausschüssen
+- TOP 6.4.: Grundsatzbeschluss BA-Vorstand über die Delegation der Ladung und Ergänzung der Tagesordnung an die / den BA-Vorsitzenden bzw. an die / den UA-Vorsitzenden (§ 7a BA-GeschO)
+- TOP 6.5.: Termine für die BA-Sitzungen und die Bürgerversammlung 2027
+- TOP II-B: Teil B - 1. Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 21.04.2026
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Sommerfest der Anwohner Veranstaltung im Freien in städtischer Grünanlage/Straßenbegleitgrün auf dem Grünsteifen am Rondell Steingadener Str. (7-9) am 04.07.2026, 14-22 Uhr
+- TOP 3.2.4.2.: Mühlbachtage Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO in der Mondstraße vom 24.07.2026 - 25.07.2026
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: KJR-Graffiti-Workshop unter der Brudermühlbrücke am 19.6.26 auf einer Grünanlage im Landschaftsschutzgebiet – Isarauen
+- TOP 3.2.6.2.: Elternstraßenfest am 12.05.26 Am Perlacher Forst 186
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Mailänder Str. 5 - Waidbrucker Str. 12
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Entscheidung über eine Sondernutzungserlaubnis: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund für den Münchner Merkur vor der Geschäftsadresse in der Säbener Straße 2 am Wettersteinplatz
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Einladung zur Infoveranstaltung der Sozialreferentin für die Bezirksausschüsse
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Harthauser Str. 127 , Fl.Nr. 12853/40, Gemarkung Sektion VII Nachtrag in die Denkmalliste – Teil A: Baudenkmäler – Landeshauptstadt München; im Vollzug des Bayerischen Denkmalschutzgesetzes (BayDSchG)
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Bewilligungsbescheid für das Projekt "Zukunft Mangfallplatz"
+- TOP 3.6.6.2.: Baumaßnahmen am Trainingsgelände Säbener Straße
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
