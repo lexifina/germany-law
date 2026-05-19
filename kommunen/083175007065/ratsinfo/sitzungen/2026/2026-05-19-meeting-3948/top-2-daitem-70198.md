@@ -1,0 +1,6 @@
+# TOP 2.: Haushalt 2027 Mittelanmeldungen
+
+- Sitzung: Ortschaftsrat Kuhbach (4. Sitzung) (2026-05-19)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/70198
