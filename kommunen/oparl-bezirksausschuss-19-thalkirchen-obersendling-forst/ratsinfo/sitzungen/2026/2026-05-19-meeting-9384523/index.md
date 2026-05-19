@@ -1,0 +1,105 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-05-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384523
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384523
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1: Allgemeines
+- TOP 1.1.: Begrüßung, Sitzungseröffnung
+- TOP 1.2.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.3.: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4.: Abfrage von Fraktionszusammenschlüssen / Ausschussgemeinschaften
+- TOP 1.5.: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.6.: Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.7.: Festlegung der endgültigen Tagesordnung – Teil A
+- TOP 1.8.: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2: BA-Vorstand
+- TOP 2.1.: Wahl der / des BA-Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.6.: Wahl der / des 1. Beisitzerin / Beisitzers (optional)
+- TOP 2.7.: Wahl der / des 2. Beisitzerin / Beisitzers (optional)
+- TOP 2.8.: Wahl einer Kassiererin / eines Kassiers (optional)
+- TOP 3: Bildung der Unterausschüsse
+- TOP 3.1.: Beschlussfassung über die Anzahl, Größe und Ressortverteilung der Unterausschüsse
+- TOP 3.2.: Beschluss über Benennung der Unterausschuss-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3.: Wahl der Vorsitzenden der Unterausschüsse
+- TOP 3.4.: Bestellung der stellvertretenden Vorsitzenden der Unterausschüsse (optional)
+- TOP 4: Bildung eines Ferienausschusses (optional)
+- TOP 4.1.: Übernahme der für den Stadtrat geltenden Ferienzeiten auch für den BA19
+- TOP 4.2.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 4.3.: Benennung der Mitglieder des Ferienausschusses und ihrer Stellvertreter*innen
+- TOP 4.4.: Wahl der / des Vorsitzenden des Ferienausschusses
+- TOP 4.5.: Benennung der / des stellvertretenden Vorsitzenden des Ferienausschusses
+- TOP 5: Benennung von Beauftragten
+- TOP 5.1.: Beschluss über Anzahl und die Zuständigkeit der Beauftragten
+- TOP 5.2.: Benennung einer / eines Kinderbeauftragten
+- TOP 5.3.: Benennung einer / eines Jugendbeauftragten (optional)
+- TOP 5.4.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 5.5.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 5.6.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 5.7.: Benennung einer / eines Beauftragten oder mehrerer Beauftragter gegen Rechtsextremismus
+- TOP 5.8.: Benennung einer/eines Beauftragten für Internet (BA-Homepage) (optional)
+- TOP 5.9.: Benennung einer/eines Beauftragten für Baumschutz (optional)
+- TOP 5.10.: Benennung einer/eines Beauftragten für REGSAM / RAG (optional)
+- TOP 5.11.: Benennung weiterer Beauftragter (optional)
+- TOP 5.12.: Benennung von Betreuerinnen / Betreuern für die BA-Schaukästen (optional)
+- TOP 6: Verschiedenes
+- TOP 6.1.: Bestellung von Zeichnungsberechtigten für die Kontoführung des Bezirksausschusses
+- TOP 6.2.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen bzw. zur Durchführung von Live-Streams für die BA-Sitzungen
+- TOP 6.3.: Grundsatzbeschluss über die Durchführung von Hybridsitzungen in den Unterausschüssen
+- TOP 6.4.: Grundsatzbeschluss BA-Vorstand über die Delegation der Ladung und Ergänzung der Tagesordnung an die / den BA-Vorsitzenden bzw. an die / den UA-Vorsitzenden (§ 7a BA-GeschO)
+- TOP 6.5.: BA-Sitzungstermine Juni bis Dezember 2026
+- TOP -: Teil B - Arbeitssitzung
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung – Teil B
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 14.04.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Münchner Buchmacher Münchner Buchfest 2026 – Ein literarisches Sommerfest im Stadtbezirk 19 am 20.06.2026 1.050,00€; Az. 0262.100-19-0633
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Prüfung und Sicherstellung des Gesundheitsschutzes bei Sanierungen asbestverdächtiger Gebäuden in Fürstenried-West
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatz im Bereich Zuger Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatz in der Bellinzonastraße 7
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Possenhofener Straße 31
+- TOP 6.2.2: Zentralländstraße 4 (T)
+- TOP 6.2.3: Herterichstraße 67a
+- TOP 6.2.4: Unterbrunner Straße 7
+- TOP 6.2.5: Baierbrunner Straße 28 (VB)
+- TOP 6.2.6: Spitzelbergstraße FlNr 372/7
+- TOP 6.2.7: Buchauerstraße 24
+- TOP 6.2.8: Derfflingerstraße 4
+- TOP 6.3.: (A) Kauf und langfristige Verpachtung der Flächen vom Reitverein Corona München Solln e. V.; BV-Empfehlung Nr. 20-26 / E 03108
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Spielplatz an der Allescherstraße Lärmdämmung der Tunnelrutsche
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Tag des offenen Denkmals am 13.09.2026
+- TOP 8.3.: Veranstaltung am 09. November 2026
+- TOP 8.4.: (A) Veranstaltung: Forstenrieder Dorffest in der Grünanlage Herterichstraße am 12./13.09.2026
+- TOP 9: Verschiedenes
