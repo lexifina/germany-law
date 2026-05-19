@@ -1,0 +1,140 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2026-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967160
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967160
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Bei Bedarf: erneut Feststellung der Beschlussfähigkeit des BAs
+- TOP 1.7: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.8: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6: ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7: ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8: ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 2.9: ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1: Beschluss über die
+- TOP 3.1.1.: Anzahl
+- TOP 3.1.2.: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3.: Größe der Unterausschüsse
+- TOP 3.1.4.: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4: Ggf. Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 3.5: Ggf. BA-Beschluss: Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 Ge-schO-Stadtrat) sowie Bildung eines Ferienausschusses (§ 22a BA-Satzung) mit
+- TOP 3.5.1.: Beschlussfassung über Größe
+- TOP 3.5.2.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.5.3.: Wahl der / des Vorsitzenden
+- TOP 3.5.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4.: Benennung von Beauftragten
+- TOP 4.1: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 4.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 4.7: Ggf. Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO)
+- TOP 5.: Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 5.1.: Herkomerplatz, Bushaltestelle Denninger Str.
+- TOP 5.2.: Oberföhringer Str/Stadtsparkasse
+- TOP 5.3.: Freischützstr. 11, Eingang zum Ladenzentrum
+- TOP 5.4.: Cosimastr., Bushaltestelle Fritz-Meyer-Weg l
+- TOP 5.5.: Preziosastr., Supermarkt
+- TOP 5.6.: Ostpreußenstr. 16
+- TOP 5.7.: Rennbahnstr/Schichtlstr. l
+- TOP 5.8.: Michael-Hartig-Weg bzw. Kardinal-Wendel-Str.
+- TOP 5.9.: Ina-Seidel-Bogen (Zamilapark)
+- TOP 5.10.: Rosenkavalierplatz/Städt. Bücherei
+- TOP 5.11.: Freischützstr./Johanneskirchnerstr., Bushaltestelle
+- TOP 5.12.: Weltenburger Str./Moselstr.
+- TOP 5.13.: Stuntzstr./Steinhauserstr., neben Ladeneingang
+- TOP 5.14.: Prinzregentenplatz 12 am U-Bahnhof-U-Bahnaufgang
+- TOP 5.15.: Bereich Fürkhofstr. 9
+- TOP 6.: Verschiedenes
+- TOP 6.1.: Grundsatzbeschlüsse (z.B. zu Hybridsitzungen, zur Durchführung von Live-Streams; Delegationsbefugnis des Vorstands, § 7a BA-GeschO Neufassung, BA-Newsletter)
+- TOP 6.2.: Festlegung / Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP I-B: Teil B - Arbeitssitzung
+- TOP 1: Allgemeines
+- TOP 1.1: Beschlussfassung des BA über die endgültige TO (Teil B)
+- TOP 1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.2.1.: Protokoll der Sitzung vom 21.04.2026
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.2.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.2.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.2.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.2.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.2.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: An der Cosimastr. / Englschakinger Str.: Nutzung für ein Weinfestival Mitte 2027 - Rückmeldung des Kommunalreferats zum BA-Beschluss aus der Sitzung 04/26 -
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP 7.7.2.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP 7.7.3.: 2. Änderung des Flächennutzungsplans Unterföhring; Abwägungsbeschluss gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Kommunale Wärmeplanung - Ergebnisbericht
+- TOP 7.15.2.: Galileiplatz: Realisierung eines Mobilfunkstandortes
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.18.1.: SWM Baumaßnahmen: - Stromprojekt Weltenburger Straße - Stromprojekt Elektrastraße
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
