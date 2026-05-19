@@ -76,6 +76,7 @@ Genehmigung bedürfen
 - [§ 34h Honorar-Finanzanlagenberater](0034h.md)
 - [§ 34i Immobiliardarlehensvermittler](0034i.md)
 - [§ 34j Verordnungsermächtigung](0034j.md)
+- [§ 34l Verordnungsermächtigung](0034l.md)
 - [§ 35 Gewerbeuntersagung wegen Unzuverlässigkeit](0035.md)
 - [(XXXX) §§ 35a und 35b (weggefallen)](xxxx-35a-und-35b.md)
 - [§ 36 Öffentliche Bestellung von Sachverständigen](0036.md)

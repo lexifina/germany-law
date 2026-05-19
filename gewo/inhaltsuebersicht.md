@@ -62,6 +62,7 @@
 | § 34h | Honorar-Finanzanlagenberater |
 | § 34i | Immobiliardarlehensvermittler |
 | § 34j | Verordnungsermächtigung |
+| § 34l | Verordnungsermächtigung |
 | § 35 | Gewerbeuntersagung wegen Unzuverlässigkeit |
 | §§ 35a und 35b | (weggefallen) |
 | § 36 | Öffentliche Bestellung von Sachverständigen |
