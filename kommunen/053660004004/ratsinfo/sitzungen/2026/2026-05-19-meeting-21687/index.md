@@ -1,0 +1,73 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2026-05-19T18:00:00+02:00
+- Ende: 2026-05-19T21:16:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa8_IT7bx-s_fQrBHksZEDQ
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21687
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZigziWlDpSBkZAzqSrcl21SrKuxAwja685V7w5q7tV8/Bekanntmachung_Rat_19.05.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYuBjgrGEtcy4LU7M0ZorNLF743yBkBMQA9r6thUJRvP/Oeffentliche_Niederschrift_Rat_19.05.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 24.03.2026 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Bericht über den Sachstand des Genehmigungsverfahrens - Einstimmiger Beschluss:
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Beschluss einer Haushaltssperre - Beschluss mit 12 Ja- und 24 Nein-Stimmen und somit abgelehnt:
+- TOP 5.: Ausschussbesetzung durch den Beirat für Menschen mit Behinderung hier: Benennung der Mitglieder aus der Sitzung des Behindertenbeirates - Einstimmiger Beschluss:Hier wirkt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit. 
+- TOP 6.: Starkregenvorsorge in den Ortschaften Eschweiler und Iversheim hier: Antrag der CDU-Fraktion vom 10.03.2026 - Beschluss siehe RD-Nr. 179-XII/Z-2.
+- TOP -: Starkregenvorsorge in den Ortschaften Eschweiler und Iversheim hier: Antrag der CDU-Fraktion vom 10.03.2026 - Beschluss siehe RD-Nr. 179-XII/Z-2.
+- TOP -: Starkregenvorsorge in den Ortschaften Eschweiler und Iversheim hier: geänderter Beschlussvorschlag aus dem Stadtentwicklungsausschuss am 06.05.2026 - Einstimmiger Beschluss:
+- TOP 7.: Videoüberwachung / Sicherheitskonzept von öffentlichen Plätzen hier: Antrag der FDP-Fraktion vom 29.04.2026 - Beschluss mit 33 Ja- und 2 Nein-Stimmen sowie 1 Enthaltung:
+- TOP -: Videoüberwachung / Sicherheitskonzept von öffentlichen Plätzen hier: Ausarbeitung der Verwaltung - Beschluss siehe RD-Nr. 231-XII.
+- TOP 8.: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel - Sondernutzungssatzung - hier: Neufassung - Beschluss siehe RD-Nr. 221-XII/Z-1.
+- TOP -: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel - Sondernutzungssatzung - hier: Neufassung - Einstimmiger Beschluss:
+- TOP 9.: Einbringung einer Resolution in Bezug auf die Aufstellung des Sachlichen Teilplans Erneuerbare Energien zum Regionalplan hier: Antrag der FDP- und UWV-Fraktion vom 20.03.2026 - Beschluss siehe RD-Nr. 233-XII/Z-1.
+- TOP -: Einbringung einer Resolution in Bezug auf die Aufstellung des Sachlichen Teilplans Erneuerbare Energien zum Regionalplan hier: Ausarbeitung der Verwaltung - Beschluss mit 14 Ja-und 18 Nein-Stimmen sowie 4 Enthaltungen und somit abgelehnt:Hier erfolgt die Abstimmung namentlich wie nachfolgend aufgeführt.Blaeser, MichaelCDUNeinBraun, MichaelSPDEnthaltungBrück, Achim HerbertAfDJaBühl, AndreasUWVJaDaniel, Jakob E
+- TOP -: Einbringung einer Resolution in Bezug auf die Aufstellung des Sachlichen Teilplans Erneuerbare Energien zum Regionalplan hier: Mail der Bürgerinitiativen im Kreis Euskirchen vom 15.05.2026 - Beschluss siehe RD-Nr. 233-XII/Z-1.
+- TOP 10.: 38. Änderung des Flächennutzungsplans "Freiflächenphotovoltaik Gierscheid“ in der Gemarkung Nöthen hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Die Abwägungsbeschlüsse werden alle einstimmig gefasst.Hier wirkt der Stadtverordnete Peter Schallenberg, Bündnis 90/Die Grünen bei den Abwägungsbeschlüssen zu 01.7 bis 13 nicht mit, da nicht im Saal anwesend.
+- TOP 11.: Bebauungsplan Nr. 105 "Nöthen-Freiflächenphotovoltaik Gierscheid" in der Gemarkung Nöthen hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse werden alle einstimmig gefasst. Bei 01.1 erfolgen 3 Enthaltungen, bei den übrigen 5 Enthaltungen.Der Stadtverordnete Martin Mehrens, CDU-Fraktion, wirkt bei den Abwägungsbeschlüssen 01.1 bis einschl. 01.6 (§ 3 Abs. 1 BauG) nicht mi
+- TOP 12.: Anfrage zur baulichen Entwicklung auf den Flurstücken Gem. Münstereifel, Flur 6, Flurstück Nrn. 844, 53, 1069 (tlw.) und 1068 (tlw.), Bad Münstereifel, Bergstraße hier: Entscheidung zur möglichen Anwendung des § 246e BauGB („Bauturbo“) - Beschluss mit 29 Nein-Stimmen und 5 Enthaltungen und somit abgelehnt:
+- TOP -: Anfrage zur baulichen Entwicklung auf den Flurstücken Gem. Münstereifel, Flur 6, Flurstück Nrn. 844, 53, 1069 (tlw.) und 1068 (tlw.), Bad Münstereifel, Bergstraße hier: Entscheidung zur möglichen Anwendung des § 246e BauGB („Bauturbo“) - Beschluss siehe RD-Nr. 176-XII/Z-1.
+- TOP 13.: Erarbeitung eines Verkehrs- und Sicherheitskonzeptes in der Kernstadt hier: Einrichtung einer Arbeitsgruppe - Beschluss siehe RD-Nr. 200-XII/Z-2.:
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Erarbeitung eines Verkehrs- und Sicherheitskonzeptes in der Kernstadt hier: Einrichtung einer Arbeitsgruppe-Mitteilung des Beschlusses aus dem UmToMo - Einstimmiger Beschluss:
+- TOP 14.: Beschaffung von Feuerwehrfahrzeugen - Veröffentlichung eines Leistungsverzeichnisses; Drehleiter Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 15.: 2. Änderung der Nutzungsordnung für den FriedWald Bad Münstereifel vom 07.03.2006 - Einstimmiger Beschluss:
+- TOP 16.: Einführung einer Satzung zur Erhebung einer Übernachtungssteuer im Gebiet der Stadt Bad Münstereifel (Übernachtungssteuersatzung) - Beschluss siehe RD-Nr. 203-XII/Z-1.
+- TOP -: Einführung einer Satzung zur Erhebung einer Übernachtungssteuer im Gebiet der Stadt Bad Münstereifel (Übernachtungssteuersatzung) - Einstimmiger Beschluss:
+- TOP 17.: Gedenktafel für bisher unbekannte Opfer des 2. Weltkrieges in Bad Münstereifel, hier: Umsetzung - Beschluss siehe RD-Nr. 193-XII/Z-1.
+- TOP -: Gedenktafel für bisher unbekannte Opfer des 2. Weltkrieges in Bad Münstereifel, hier: Änderung des Beschlussvorschlages - Beschluss mit 26 Ja- und 8 Nein-Stimmen: 
+- TOP 18.: Aufnahmeverfahren an weiterführenden Schulen der Stadt Bad Münstereifel Hier: Auftrag zur Erarbeitung eines Satzungsentwurfes - Einstimmiger Beschluss:
+- TOP -: Aufnahmeverfahren an weiterführenden Schulen der Stadt Bad Münstereifel - Beschluss siehe RD-Nr. 197-XII/Z-1.
+- TOP 19.: Kostenfreie Mitgliedschaft im Kneipp-Verein Bad Münstereifel e.V. - Einstimmiger Beschluss:
+- TOP 20.: Beteiligung der Nordeifel Tourismus GmbH an der VR Bank Nordeifel eG - Beschluss mit 29 Ja- und 5 Nein-Stimmen:
+- TOP 21.: Kostenneutrale Umsetzung der Jugendbeteiligung - Einrichtung eines "Jugendforum Bad Münstereifel" hier. Antrag der SPD-Fraktion vom 29.03.2026, eingegangen am 13.04.2026 - Beschluss siehe RD-Nr. 206-XII/Z-2.
+- TOP -: Kostenneutrale Umsetzung der Jugendbeteiligung - Einrichtung eines "Jugendforum Bad Münstereifel" hier. Stellungnahme der Verwaltung - Beschluss siehe RD-Nr. 206-XII/Z-2.
+- TOP -: Kostenneutrale Umsetzung der Jugendbeteiligung - Einrichtung eines "Jugendforum Bad Münstereifel" hier. Änderung des Beschlussvorschlages - Einstimmiger Beschluss:
+- TOP 22.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen- und Hochwasserkatastrophe im Jui 2021; hier: Auftragsvergaben für die Maßnahmen des Wiederaufbauplans - Einstimmiger Beschluss:Der Bürgermeister wirkt hier nicht mit.
+- TOP 23.: Widmung eines Teilstücks der Straße "Im Floting" in Bad Münstereifel-Arloff - Beschluss mit 29 Ja- und 4 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 24.: Feststellung Jahresabschluss zum 31.12.2024 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 25.: Feststellung Jahresabschluss zum 31.12.2024 des Eigenbetriebs Stadtwerke - Betriebszweig Abwasser- - Einstimmiger Beschluss:
+- TOP 26.: Besetzung einer Beigeordnetenstelle hier: Wahl eines Beigeordneten - Einstimmiger Beschluss bei 1 Enthaltung: 
+- TOP 27.: Bestellung des allgemeinen Vertreters des Bürgermeisters und weiterer Vertreter - Beschluss siehe TOP 2 nichtöffentlicher Teil:
+- TOP 28.: Bestellung eines Kämmerers - Einstimmiger Beschluss:
+- TOP 29.: Anfragen und Mitteilungen
+- TOP 29.1: 3. Änderung des Landesentwicklungsplans NRW hier: erneute Beteiligung der Öffentlichkeit und der in ihren Belangen berührten Stellen gemäß § 9 Abs. 2 Raumordnungsgesetz (ROG) und § 13 Landesplanungsgesetz (LPlG)
+- TOP 29.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i. V. m. § 17 Abs. 2 der Hauptsatzung der Stadt Bad Münstereifel für das Haushaltsjahr 2025
+- TOP 29.3: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 29.4: Zusätzliche Ratssitzung am 02.06.2026
+- TOP 29.5: Rodungsmaßnahmen durch den städtischen Bauhof hier: Anfrage des Stadtverordneten Bernhard Ohlert, CDU-Fraktion
+- TOP 29.6: Pflasterarbeiten Kernstadt hier: Anfrage des Stadtverordneten Bernhard Ohlert, CDU-Fraktion
+- TOP 29.7: Ausschreibung Fußgängerbrücke in Arloff, Nähe Grundschule hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion
+- TOP 29.8: Mitgliedschaften der Stadt hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Kauf Hausgrundstück in Bad Münstereifel, Kölner Straße - Beschluss mit 31 Ja- und 2 Nein-Stimmen: 
+- TOP 2.: Bestellung des allgemeinen Vertreters des Bürgermeisters und weiterer Vertreter - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
