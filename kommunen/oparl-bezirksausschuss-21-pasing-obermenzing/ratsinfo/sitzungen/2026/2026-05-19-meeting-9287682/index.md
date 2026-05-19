@@ -1,0 +1,91 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2026-05-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9287682
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9287682
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I-A: Teil A - Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung
+- TOP 1.2.: Feststellung der ordnungsgemäßen Ladung und Beschlussfähigkeit, Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.3.: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4.: Beschlussfassung zur Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 1.5.: Beschlussfassung über die endgültige Tagesordnung (Teil A)
+- TOP 1.6.: Beschlussfassung über die Bildung eines Wahlgremiums
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des BA-Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzenden
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.6.: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7.: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8.: Ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1.: Beschlussfassung über die Anzahl, Zuständigkeit / Ressortverteilung und Größe der Unterausschüsse
+- TOP 3.2.: Bekanntgabe von Fraktionszusammenschlüssen / Ausschussgemeinschaften
+- TOP 3.3.: Beschlussfassung über die Benennung der jeweiligen UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.4.: Wahl der / des Vorsitzenden des jeweiligen Unterausschusses
+- TOP 3.5.: Beschlussfassung über die Benennung der / des stellvertretenden Vorsitzenden des jeweiligen Unterausschusses
+- TOP 4.: Weitere Gremien
+- TOP 4.1.: Beschlussfassung über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 4.2.: Beschlussfassung über die Bildung sowie personelle Zusammensetzung des Runden Tisches zur Verlängerung der U 5 nach Pasing
+- TOP 5.: Benennung von Beauftragten
+- TOP 5.1.: Benennung einer / eines Kinderbeauftragten
+- TOP 5.1.1: Benennung einer / eines stellvertretenden Kinderbeauftragten
+- TOP 5.2.: Benennung einer / eines Jugendbeauftragten
+- TOP 5.2.1: Benennung einer / eines stellvertretenden Jugendbeauftragten
+- TOP 5.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 5.4.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 5.5.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 5.6.: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 5.7.: Benennung einer / eines Beauftragten für Internet
+- TOP 5.8.: Benennung einer / eines Beauftragten für Senioren
+- TOP 5.9.: Benennung einer / eines Beauftragten für Klimaschutz
+- TOP 5.10.: Benennung einer / eines Beauftragten für Denkmalschutz
+- TOP 5.11.: Benennung einer / eines Beauftragten für den Bürgerbeirat Verdistr. 45
+- TOP 5.12.: Benennung einer / eines Beauftragten für den Beirat Jugendhilfezentrum Scapinellistraße
+- TOP 5.13.: Benennung einer / eines REGSAM-Beauftragten
+- TOP 5.14.: Benennung einer / eines Beauftragten für das Regionalmanagement München Südwest
+- TOP 5.14.1: Benennung einer / eines stellvertretenden Beauftragten für das Regionalmanagement München Südwest
+- TOP 6.: Verschiedenes
+- TOP 6.1.: Berufung von Betreuer*innen für die BA-Schaukästen: - Planegger Str. 34 /36 - Verdistr. 45 / Frauendorferstr. 1 - Weinbergerstraße / Westbad - Bergsonstraße / Mooswiesenstraße - Rüttenauerplatz - Alte Allee 35 / Rubensstraße - Zehentstadel - Bahnhof Pasing Nordseite - Passionistenstraße
+- TOP 6.2.: Festlegung / Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP 6.3.: Bekanntgabe der Termine der UA-Sitzungen für Juni 2026
+- TOP 6.4.: Benennung Kontobevollmächtigte
+- TOP 6.5.: Grundsatzbeschlüsse
+- TOP 6.5.1: BA-Newsletter
+- TOP II-B: Teil B - Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Beschlussfassung über die endgültige Tagesordnung (Teil B)
+- TOP 2.: Bericht des bisherigen UA Umwelt, Natur und Klimaschutz und Beschlussfassung über Empfehlungen
+- TOP 1.: Vollzug der Baumschutzverordnung
+- TOP 1.1.: Rathochstr. 18a: 1 Walnuss
+- TOP 1.2.: Hofbauernstr. 7c: 1 Kiefer
+- TOP 1.3.: Fritz-Wunderlich-Platz: 1 Ahorn
+- TOP 1.4.: Samerhofstr. 12: 1 Waldkiefer
+- TOP 1.5.: Josef-Schlicht-Str. 41: 1 Weide
+- TOP 1.6.: Rathochstr. 58: 1 Walnuss
+- TOP 1.7.: Thuillestr. 49: 1 Kiefer
+- TOP 1.8.: Benedikterstr. 23: 1 Kirschbaum
+- TOP 1.9.: Zacharias-Werner-Str. 16: Baumbestandsplan
+- TOP 1.10.: Eugen-Papst-Str. 1: Baumbestandsplan
+- TOP 1.11.: Willibaldstr. 30b: 1 Kirsche
+- TOP 3.: Bericht des bisheringen UA Bau und verkehrliche Einzelmaßnahmen und Beschlussfassung über Empfehlungen
+- TOP 4.: Anhörungen
+- TOP 4.1.: Zacharias-Werner-Str. 16: Neubau 2 Einfamilienhäuser / Vorbescheid
+- TOP 4.2.: Eugen-Papst-Str. 1: Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 4.3.: Landsberger Str. 430: Ausbau von 3 Wohnungen im Dachgeschoss mit Erneuerung des Dachstuhls, Anbau Balkon 1.-3. OG, Anbau Fahrstuhl, Anbau Vordach im Erdgeschoss
+- TOP 4.4.: Bodenseestr. 67: Neubau von einem Wohnhaus / Vorbescheid
+- TOP 5.: Post an den Bezirksausschuss
+- TOP 1.: Baureferat
+- TOP 1.1.: Information über geplante Straßenbauarbeiten durch den Straßenunterhalt im Jahr 2026 (Vertagung aus der BA-Sitzung am 14.04.26)
+- TOP 1.2.: Avenariusplatz - Bepflanzung
+- TOP 6.: Verschiedenes
