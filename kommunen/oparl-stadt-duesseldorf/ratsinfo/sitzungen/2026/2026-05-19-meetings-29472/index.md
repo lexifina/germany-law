@@ -1,0 +1,53 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-19T17:00:00+02:00
+- Ende: 2026-05-19T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29472
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29472
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00586928.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00586928.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00586928.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 03.03.2026 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 21.04.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Zukunftsviertel Friedrichstadt (mdl. Bericht der Verwaltung) - zur Kenntnis genommen
+- TOP 5.2: Präsentation der Kriminalitäts- und Unfallstatistik 2025 (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.3: Harkortstraße – Barrierefreier Ausbau der Haltestelle Mintropplatz - einstimmig beschlossen
+- TOP 5.4: Neugestaltung östliche Königsallee - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 7.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Abbau des letzten frei zugänglichen Briefkastens auf der Friedrichstraße – Verschlechterung der Nahversorgung im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.2: PFAS-Belastung im Stadtbezirk 3, inklusive des Hafengebietes (Anfrage AfD) - vertagt
+- TOP 8.1.3: Ableitung des LKW-Verkehrs aus Flehe / Volmerswerth / Bilk-SW (Anfrage Dr. Graeßner - Bezirksbürgermeister) - zur Kenntnis genommen
+- TOP 8.1.4: Städtische Brunnen sollen laufen (Anfrage SPD/Volt-Fraktion) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Hundekotbeutelspender im Bereich MedienHafen und im südlichen Stadtbezirk (Anfrage AfD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.2: Verkehrssituation Volmerswerther Deich (Anfrage Bündnis 90/Die Grünen) - vertagt
+- TOP 8.2.3: Notanlaufpunkte im Stadtbezirk 3 – Planung, Kommunikation und Einbindung der Bevölkerung (Anfrage Bündnis 90/Die Grünen) - vertagt
+- TOP 8.2.4: Wie geht es am Tetelberg weiter? (Anfrage SPD/Volt-Fraktion) - vertagt
+- TOP 8.2.5: Wie geht es beim Abenteuerspielplatz weiter? (Anfrage SPD/Volt-Fraktion) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Prüfantrag – Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der Volmerswerther Straße auf der Höhe der KiTa Viehfahrtsweg 2 (Antrag Bündnis 90/Die Grünen) - abweichend beschlossen
+- TOP 9.2: Tempo 30 auf der Aachener Straße (Antrag Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Optimierung der Ampelschaltung Bilker Allee/Bachstraße/Weberstraße - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
