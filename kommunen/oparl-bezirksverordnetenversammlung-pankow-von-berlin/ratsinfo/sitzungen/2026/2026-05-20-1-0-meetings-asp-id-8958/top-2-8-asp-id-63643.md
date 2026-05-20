@@ -1,0 +1,8 @@
+# TOP 2.8: Baumpatenschaften in Pankow einfach und verständlich ermöglichen
+
+- Sitzung: Fortsetzung 38. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin (2026-05-20)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=63643
+- Ergebnis: mit Zwischenbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/consultations.asp?typ=i&id=63643
