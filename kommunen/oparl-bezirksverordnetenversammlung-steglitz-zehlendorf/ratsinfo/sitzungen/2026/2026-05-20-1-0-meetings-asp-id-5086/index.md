@@ -1,0 +1,102 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-05-20T17:00:00+02:00
+- Ende: 2026-05-20T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5086
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5086
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Einsatz von Mitteln des Jugendamts - beantwortet
+- TOP 3.2: Brand in einer Unterkunft für wohnungslose Menschen in Lichterfelde-West - beantwortet
+- TOP 3.3: LoGiK – Lots*innen für Gesundes Aufwachsen in Kinderärztlichen Praxen - beantwortet
+- TOP 3.4: Prozedere zur Umgestaltung des Kranoldplatzes - beantwortet
+- TOP 3.5: Schutz des Uferstreifens und der Stützmauer am Schlachtensee? - schriftlich beantwortet
+- TOP 3.6: Es waren einmal zwei Beschlüsse der BVV Steglitz-Zehlendorf zu Ampelschaltungen - schriftlich beantwortet
+- TOP 3.7: Baustellenkontrollgruppe für das Straßenland in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.8: Vorbereitung Hitzeschutz Sommer 2026 - schriftlich beantwortet
+- TOP 3.9: Wie ist der Stand der Dinge bei der „Umdeutung“ der Spanischen Allee? - schriftlich beantwortet
+- TOP 3.10: Baulicher Zustand des Springbrunnens am Ludwig-Beck-Platz - schriftlich beantwortet
+- TOP 3.11: Sprachförderpflicht vor der Einschulung - schriftlich beantwortet
+- TOP 3.12: Umsetzung des Beschlusses 867/VI, Drs. 1355/VI Hitzeschutz für die Schülerinnen und Schüler der Dreilinden-Grundschule - schriftlich beantwortet
+- TOP 3.13: Nachfragen zur Schriftlichen Anfrage 413/VI "Ergänzungsplan 2026/2027 und Konsolidierungskonzept - Plausibilität, Erfolgswahrscheinlichkeit und Prioritätensetzung" - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Sondermittel der BVV für den Royal Rangers-Stamm 590 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Sondermittel der BVV für den Brains and Bridges - Knowledge connects e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für den Vajswerk e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Sondermittel der BVV für den Bildung und Gesellschaft e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Bebauungsplan 6-30 Lichterfelde-Süd (Dritter Nachtrag zum Städtebaulichen Vertrag vom 31.07.2018 in Verbindung mit dem Städtebaulichen Ergänzungsvertrag vom 29.07.2022 mit dem zugehörigen ersten Nachtrag vom 20.02.2024 und zweitem Nachtrag vom 24.04.2024) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.7: Reinigung der Areale rund um die Unterstützungskonstruktion unter der Autobahnbrücke A 103 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Erarbeitung einer Strategie zur Sensibilisierung der Arbeitgeber*innen für Menschen in der Menopause - in der BVV abgelehnt
+- TOP 4.9: Durchführung von Katastrophenschutzübungen zur Stärkung der bezirklichen Resilienz gegen hybride Bedrohungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Errichtung eines Parkhauses für Pendler am S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Informationstafel zum „Stein des 30. Hartung“ und zum Fruchtbarkeitsschrein von Volkmar Haase - in der BVV abgelehnt
+- TOP 4.12: Zebrastreifen Breisgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Pilotprojekt Wahlpflichtfach Retten und Schützen einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Boule-Platz am Flensburger Löwen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Durchgehende vollwertige Fußwege entlang der Thielallee auf Höhe des Corrensplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Einrichtung eines Auszubildenden-Dorfes in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.17: Mehr Aschenbecher für die Steglitzer Woche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Sofortprogramm für eine krisenfeste Energieversorgung in Steglitz-Zehlendorf und Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Vorbereitet für Notstromversorgung? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Technologie erleben – Messebesuch Hannover für Schulen und Jugendgruppen - in der BVV abgelehnt
+- TOP 4.21: Standort Stadtbad Steglitz für soziale Zwecke erweitern - in der BVV abgelehnt
+- TOP 4.22: Jugendliche erarbeiten Nutzungskonzept für Bierpinsel - in der BVV abgelehnt
+- TOP 4.23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.24: Anna Sabine Halle (1921–2014) in die bezirkliche Straßenbenennungsliste aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Kaulbachstraße in Lankwitz in Fahrradstraße umwandeln - in der BVV abgelehnt
+- TOP 4.26: Gesamte BVV in die weitere Entwicklung des ehemaligen „Pop Inns" in der Ahornstraße 15 einbeziehen - in der BVV abgelehnt
+- TOP 4.27: Aufnahme des PrimaVita-Bades in ein geeignetes Förderprogramm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Einweihung der Ronnebypromenade unter Beteiligung lokaler Akteure - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: RB37 verlängern für attraktive Umsteigemöglichkeiten - in der BVV abgelehnt
+- TOP 4.30: Räume für alle – Aufenthalt im öffentlichen Raum ohne Konsumzwang sicherstellen - in der BVV abgelehnt
+- TOP 4.31: Gehwegparken an der Haltestelle Appenzeller Straße unterbinden - in der BVV abgelehnt
+- TOP 4.32: Seminare „How-to Bezirksamt" anbieten - in der BVV abgelehnt
+- TOP 4.33: Mehr und sichere Fahrradbügel für die Freie Universität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Schulweg im Nieritzweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Anordnung eines Stoppschildes in der Gutzmannstraße/Ecke Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: Mehr Wohnungsbau auf dem Gelände des ehemaligen Tanklagers Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.37: Festlegung der Erhaltungsgebiete Gasbeleuchtung zeitgemäß anpassen - in der BVV abgelehnt
+- TOP 4.38: Schutz vor sexualisierter Gewalt in Einrichtungen der Kinder- und Jugendarbeit im Bezirk Steglitz-Zehlendorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Regelmäßige Katastrophenschutz-Übungen im Bezirk durchführen - überwiesen
+- TOP 5.2: Alarm- und Einsatzplan für den Katastrophenschutz entwickeln - überwiesen
+- TOP 5.3: Anzahl der Kältehilfeplätze im Bezirk erhöhen - überwiesen
+- TOP 5.4: Fahrradbügel vor der Hellenischen Gemeinde - überwiesen
+- TOP 5.5: Rik De Lisle auf die Straßenbenennungsliste aufnehmen und eine vorzeitige Benennung des bisher namenlosen Platzes an der Scheelestraße prüfen - überwiesen
+- TOP 5.6: Feste Ansprechperson für gute Arbeit auch in unserem Bezirk - überwiesen
+- TOP 5.7: Wirksam gegen Vermüllung im öffentlichen Raum vorgehen - überwiesen
+- TOP 5.8: Krisenprävention und Katastrophenschutz in Steglitz-Zehlendorf jetzt verbindlich stärken - überwiesen
+- TOP 5.9: Zebrastreifen Morgensternstraße/Höhe Schillerstraße erhalten - überwiesen
+- TOP 5.10: Wiederstationierung eines zweiten Rettungswagens - überwiesen
+- TOP 5.11: Bezirkliches Gehwegeprogramm - überwiesen
+- TOP 5.12: Mindestens ein zusätzlicher Basketballkorb auf der Elfi-Wiese - überwiesen
+- TOP 5.13: Gedenkfeier anlässlich des 90. Jahrestages des Angriffs auf Guernika - überwiesen
+- TOP 5.14: Arbeiten am U-Bahnhof Schloßstraße abschließen - überwiesen
+- TOP 5.15: Interessenbekundungsverfahren alte Spinnstofffabrik Zehlendorf - überwiesen
+- TOP 5.16: BVG-Haltestelle „Krankenhaus Hubertus“ in „Krankenhaus Hubertus/Guernicaplatz“ umbenennen - überwiesen
+- TOP 5.17: Eine zweite Gemeinschaftsschule für Steglitz-Zehlendorf - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: (nichtöffentlich)
+- TOP 6.2: Zukunft der Nahversorgung Brieger Straße/Wedellstraße in Lankwitz - beantwortet
+- TOP 6.3: Zwischen Urteil und Unterricht: Wie schafft der Bezirk verlässliche Perspektiven für Lehrkräfte an der Leo-Borchard-Musikschule? - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Eine erste Schulstraße für Steglitz-Zehlendorf - überwiesen
+- TOP 7.2: Unübersichtliche und gefährliche Verkehrssituation vor der Wilma-Rudolph-Oberschule (Am Hegewinkel) entschärfen - überwiesen
+- TOP 7.3: Ästhetische Kultivierung des Otto-Hahn-Platzes in Dahlem durch Entfernung und Verlagerung von vier Entsorgungsbehältern - überwiesen
+- TOP 7.4: Verkehrsführung Schlangenbader Straße/Breitenbachplatz - überwiesen
+- TOP 7.5: Das Stadtbad Lankwitz darf nicht untergehen - im Ausschuss abgelehnt
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Stärkung der Prävention von Antisemitismus in Schulen und Jugendarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Stromunabhängige bzw. stromarme Heizsysteme bei der Sanierung von Gebäuden mit Bedeutung für den Katastrophenschutz - in der BVV abgelehnt
+- TOP 9: Vorlagen zur Kenntnisnahme - Beantwortung Große Anfrage - (offen)
+- TOP 9.1: Die Wohnungsaufsicht Steglitz-Zehlendorf: Personal, Ausstattung, Aufgaben und Workflow - zur Kenntnis genommen (Beratungsfolge beendet)
