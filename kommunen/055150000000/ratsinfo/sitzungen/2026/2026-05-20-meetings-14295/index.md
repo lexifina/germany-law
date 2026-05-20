@@ -1,0 +1,63 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-05-20T17:04:00+02:00
+- Ende: 2026-05-20T19:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14295
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14295
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00585267.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Gleichstellung der Geschlechter
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Baumverpflanzungen am Schulzentrum Wolbeck vermeiden - die geltende Baumschutzsatzung beachten - mehrheitlich abgelehnt
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8: Anregungen des Jugendrates
+- TOP 9: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung
+- TOP 10: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11: Beanstandung des Beschlusses des Rates in seiner Sitzung vom 25.03.2026 zur Vorlage V/0197/2026/1 über die Haushaltssatzung 2026/2027 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Haushaltssatzung für die Jahre 2026 und 2027 - mehrheitlich beschlossen
+- TOP 13: Kommunale Wärmeplanung der Stadt Münster - mehrheitlich beschlossen
+- TOP 13.1: Kommunale Wärmeplanung der Stadt Münster
+- TOP 14: Gleichstellungsplan 2026 - 2029 - einstimmig beschlossen
+- TOP 15: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 30.08.2026 anlässlich des Nordrhein-Westfalen-Tages in Münster-Mitte, Altstadt - mehrheitlich beschlossen
+- TOP 16: Bericht zur Gigabit- und Mobilfunkkoordination - zur Kenntnis genommen
+- TOP 17: Intensivierung der Zusammenarbeit kommunaler IT-Dienstleister im Münsterland - zur Kenntnis genommen
+- TOP 18: Wirtschaftsplan 2026 der citeq - einstimmig beschlossen
+- TOP 19: Bericht über die Beteiligungen der Stadt Münster im Jahr 2024 (Beteiligungsbericht 2024) - zur Kenntnis genommen
+- TOP 20: Stadtwerke Münster GmbH: Änderung des Tarifs für die Wasserversorgung zum 01.07.2026 - mehrheitlich beschlossen
+- TOP 21: Fortschreibung der kleinräumigen Bevölkerungsprognose (KBP) 2025 - 2035: Methodik, Annahmen und zentrale Ergebnisse im Überblick - zur Kenntnis genommen
+- TOP 22: Von-Esmarch-Straße/Busso-Peus-Straße/Roxeler Straße - mehrheitlich beschlossen
+- TOP 23: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2023/2024 - zur Kenntnis genommen
+- TOP 24: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2024/2025 - einstimmig beschlossen
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Münster-West
+- TOP 25.1.1: 133. FNP-Änderung - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 25.1.2: Bebauungsplan Nr. 648 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25.1.3: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 409 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25.2: Stadtbezirk Münster-Nord
+- TOP 25.2.1: 129. FNP-Änderung - Beschluss zur Änderung - VBP Nr. 653 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 25.3: Stadtbezirk Münster-Südost
+- TOP 25.3.1: 142. FNP-Änderung - Beschluss zur Änderung / Bebauungsplans Nr. 657 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 26.1: Einführung eines zentralen Fördermittelmanagements und Stärkung der strategischen Fördermittelakquise - verwiesen
+- TOP 26.2: Vorfahrt für die Pflege: Busspuren für Pflegekräfte freigeben! - verwiesen
+- TOP 26.3: Konsequent gegen Diskriminierung - Eine Antidiskriminierungsstelle für Münster - verwiesen
+- TOP 26.4: Wärmedämmung an Gehwegen bürgerfreundlich ermöglichen - verwiesen
+- TOP 26.5: Unfallhäufungslinie Hammer Straße kurzfristig sicherer gestalten - verwiesen
+- TOP 27: Festsetzung der Anzahl von sachkundigen Einwohner*innen in den Ausschüssen des Rates und Entsendung von sachkundigen Einwohner*innen in die Ausschüsse des Rates - einstimmig beschlossen
+- TOP 27.1: Festsetzung der Anzahl von sachkundigen Einwohner*innen in den Ausschüssen des Rates und Entsendung von sachkundigen Einwohner*innen in die Ausschüsse des Rates
+- TOP 28: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 29: Verschiedenes
