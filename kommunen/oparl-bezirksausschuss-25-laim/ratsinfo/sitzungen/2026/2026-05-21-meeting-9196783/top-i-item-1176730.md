@@ -1,0 +1,7 @@
+# TOP I.: Konstituierende Sitzung des Bezirksausschusses
+
+- Sitzung: BA 25 - Vollgremium (2026-05-21)
+- Körperschaft: Bezirksausschuss 25: Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1176730
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1176730
