@@ -1,0 +1,69 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2026-05-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9317132
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9317132
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Bei Bedarf: erneut Feststellung der Beschlussfähigkeit des BAs
+- TOP 1.7: Beschluss des BA über die endgültige TO
+- TOP 1.8: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschluss über die weitere Zusammensetzung des Vorstands
+- TOP 2.6: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8: Ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 2.9: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1: Beschluss über die
+- TOP 3.1.1.: Anzahl
+- TOP 3.1.2.: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3.: Größe der Unterausschüsse
+- TOP 3.1.4.: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4: Ggf. Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 3.5: Ggf. Beschluss des BA, dass die für den Stadtrat geltende Ferienzeit gemäß § 7 Abs. 2 Satz 1 GeschO des Stadtrats für den BA gelten soll + Bildung eines Ferienausschusses (§ 22a BA-Satzung) mit
+- TOP 3.5.1.: Beschluss über Größe
+- TOP 3.5.2.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.5.3.: Wahl der / des Vorsitzenden
+- TOP 3.5.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4.: Benennung von Beauftragten
+- TOP 4.1: Beschluss über die Begrenzung von Beauftragungen auf zwei Jahre
+- TOP 4.2: Benennung einer / eines Kinderbeauftragten
+- TOP 4.3: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 4.4: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.5: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.6: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.7: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 4.8: Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO)
+- TOP 4.8.1.: Benennung einer / eines Seniorenbeauftragten
+- TOP 4.8.2.: Benennung einer / eines Digital- und Internetbeauftragten
+- TOP 4.8.3.: Benennung einer / eines REGSAM-Beauftragten
+- TOP 4.8.4.: Benennung einer / eines Mittelstand- und Gewerbebeauftragten
+- TOP 4.8.5.: Benennung von Baumschutzbeauftragten (1 oder mehrere)
+- TOP 4.8.6.: Benennung einer / eines Tierschutzbeauftragten
+- TOP 4.8.7.: Benennung einer / eines Vereinsbeauftragten
+- TOP 4.8.8.: Ggf. weitere Beauftragte
+- TOP 4.9: Benennung von Beiräten
+- TOP 5.: Verschiedenes
+- TOP 5.1: Grundsatzbeschluss zu Hybridsitzungen
+- TOP 5.2: Ggf. weitere Grundsatzbeschlüsse
+- TOP 5.3: Bestätigung der Sitzungstermine und Sitzungslokale
