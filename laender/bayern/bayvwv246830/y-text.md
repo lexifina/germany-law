@@ -1,0 +1,1 @@
+Auf Grund des Art. 119 Abs. 1 Bayerisches Beamtengesetz (BayBG) vom 29. Juli 2008 (GVBl S. 500, BayRS 2030-1-1-F), zuletzt geändert durch § 4 des Gesetzes vom 5. August 2010 (GVBl S. 410, 605, ber. S. 764), erlässt der Landespersonalausschuss folgende allgemeine Regelungen:
