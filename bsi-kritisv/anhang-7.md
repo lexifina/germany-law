@@ -46,7 +46,7 @@ Grundsätze und Fristen
   1.21 Verkehrssteuerungs- und Leitsystem im kommunalen Straßenverkehr
     ein System für die kommunale Steuerung und Überwachung von Lichtsignalanlagen, von Verkehrsbeeinflussungsanlagen sowie von Verkehrswarn- und Informationssystemen.
   1.22 Intelligentes Verkehrssystem
-    ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des Intelligente Verkehrssysteme Gesetz.
+    ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des Intelligente-Verkehrssysteme-Gesetzes.
   1.23 Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs (ÖSPV)
     das schienengebundene Netz des ÖSPV im Sinne des § 4 Absatz 1 bis 3 des Personenbeförderungsgesetzes einschließlich der zu diesen Strecken und Haltestellen gehörenden Stellwerke und Beeinflussungsanlagen sowie der Fahrstromversorgung.
   1.24 Leitzentrale des ÖSPV
