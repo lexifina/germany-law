@@ -1,0 +1,64 @@
+# 52. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-05-21T17:00:00+02:00
+- Ende: 2026-05-21T21:40:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6213
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6213
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=453571
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - gegenstandslos
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 4.1: Platz für Radfahrer mit weniger Wegfall von Parkplätzen durch Gehwegparken entlang der Hauptstraße in der Rummelsburger Bucht - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Abberufungen von Mitgliedern aus dem ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Verkehrssituation und Dialog mit der islamischen Gemeinde an der Straße Am Wasserwerk - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Gemeinsam statt einsam: Bezirkliche Räume für Advents-, Weihnachts- und Silvesterangebote bereitstellen und bewerben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Sondermittelantrag Projekt "Ukrajina Cinema" - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Sondermittelantrag 3. Paul-Püschel-Gedenkturnier - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Sondermittelantrag 125 Jahre Freiwillige Feuerwehr Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Sondermittelantrag Wurzeln, Wachstum, Wir - 30 Jahre "Kietzoase" - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Sondermittelantrag 21. Stadionfest - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Sondermittelantrag Sportmädchen-Wochenende - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Sicherheit erlebbar machen - Blaulichttag im Bezirk dauerhaft etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Soziale und sportliche Angebotsstruktur für Kinder am Prerower Platz stärken - überwiesen
+- TOP 5.12: Finanzierung der Statikprüfung für den Taubenschlag auf dem Dach des CineMotion - überwiesen
+- TOP 5.13: Wiederaufnahme der Kooperationsvereinbarungen zwischen dem Berliner Mieterverein und der Berliner Sozialverwaltung - überwiesen
+- TOP 5.14: Kunst, die keiner kennt, kann keiner bewahren - Fliesenmosaik in der Siegfriedstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Sitzgelegenheiten im öffentlichen Straßenland - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitglieds - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der BVV - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - gegenstandslos
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Entwicklung des Hans-Zoschke-Stadions endlich aus dem Schlafwagen holen und klaren Plan vorlegen - überwiesen
+- TOP 10.2: Familienfreundliches Lichtenberg, familienfreundliches Jugendamt: Ein Spielplatz als Ort der Begegnung und niedrigschwelligen Zugangs am Jugendamt schaffen - überwiesen
+- TOP 10.3: Mehr Wohnungen für die Gartenstadt Karlshorst! - überwiesen
+- TOP 10.4: Jährliche Information der Bürger über die bezirklichen Daten der "Polizeilichen Kriminalitätsstatistik" und der "Politisch motivierten Kriminalität" - in der BVV abgelehnt
+- TOP 10.5: Kleingärten auf privaten Flächen jetzt sichern - überwiesen
+- TOP 10.6: Zeit- und Maßnahmenplan zum Schutz der grünen Innenhöfe in der Ilsestraße vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Katastrophenschutz in Lichtenberg - Anspruch und Realität - schriftlich beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 12.1: Schulentwicklungsplanung (SEP) für die Schuljahre 2024/2025 - 2030/2031 - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Ein neuer Nachbarschaftstreff - für mehr Gemeinsamkeit statt Einsamkeit in Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Investitionen anschieben - mit Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Endlich eine öffentliche Übersicht, wer wo wann für den Winterdienst zuständig ist - in der BVV abgelehnt
+- TOP 14.2: Erinnerungskultur stärken: Bezirkliches Gedenken zum 8. Mai - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Lichtenberg wird "Live Peace City 2026" - in der BVV abgelehnt
+- TOP 14.4: Unsere Demokratie braucht Glasnost und Perestroika - Gleichbehandlung aller BVV-Fraktionen gewährleisten - in der BVV abgelehnt
+- TOP 14.5: Konzept für Gedenken an 17. Juni erarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 15: VzK/Aufhebungsanträge - gegenstandslos
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
