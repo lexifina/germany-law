@@ -1,0 +1,57 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2026-05-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9196783
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9196783
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I.: Konstituierende Sitzung des Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung und Sitzungseröffnung
+- TOP 1.2.: Feststellung der ordnungsgemäßen Ladung des BA und Feststellung der Beschlussfähigkeit
+- TOP 1.3.: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4.: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5.: Beschluss über die Bestimmung einer vorläufigen Sitzungsleitung
+- TOP 1.6.: Beschlussfassung über die endgültige Tagesordnung
+- TOP 1.7.: Bildung eines Wahlgremiums
+- TOP 2.: BA-Vorstand
+- TOP 2.1.: Wahl der / des Vorsitzenden
+- TOP 2.2.: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzenden
+- TOP 2.3.: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4.: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5.: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.6.: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7.: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8.: Ggf. Wahl einer Kassiererin / eines Kassiers
+- TOP 2.9.: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1.: Beschluss über die - Anzahl - Zuständigkeit / Ressortverteilung - Größe der Unterausschüsse - Fraktionszusammenschlüsse / Ausschussgemeinschaften
+- TOP 3.2.: Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3.: Wahl der / des Vorsitzenden des jeweiligen Unterausschusses
+- TOP 3.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden des jeweiligen Unterausschusses
+- TOP 4.: Ggf. Festlegung einer Ferienzeit und Bildung eines Ferienausschusses
+- TOP 4.1.: Beschlussfassung, dass die für den Stadtrat geltende Ferienzeit auch für den BA gelten soll + Bildung eines Ferienausschusses
+- TOP 4.2.: Beschlussfassung über die Größe
+- TOP 4.3.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 4.4.: Wahl der / des Vorsitzenden
+- TOP 4.5.: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 5.: Benennung von Beauftragten
+- TOP 5.1.: Benennung einer / eines Kinderbeauftragten
+- TOP 5.2.: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 5.3.: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 5.4.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 5.5.: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 5.6.: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 5.7.: Ggf. Benennung weiterer Beauftragter
+- TOP 6.: Verschiedenes
+- TOP 6.1.: Berufung von Betreuern für die BA-Schaukästen: 1. Fürstenrieder Str. 30 (Schule) 2. Fürstenrieder Str. 53 (Stadtbibliothek) 3. Reindlstraße / Saherrstraße (bei Namen Jesu) 4. Lautensackstraße/Straubinger Straße 5. Willibaldplatz (am westlichen Anfang der Grünfläche) 6. Laimer Bahnhof/Laimer Würfel
+- TOP 6.2.: Grundsatzbeschlüsse
+- TOP 6.3.: Bestätigung der Sitzungstermine und Sitzungslokale
+- TOP 6.4.: Dringlichkeitsantrag Seniorenresidenz am Westpark
