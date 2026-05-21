@@ -1,0 +1,17 @@
+# Gesetz über intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und über die Datenbereitstellung über den Nationalen Zugangspunkt
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Einführung intelligenter Verkehrssysteme](0003.md)
+- [§ 4 Vorrangige Bereiche](0004.md)
+- [§ 5 Pflicht zur Datenbereitstellung](0005.md)
+- [§ 6 Art der Datenbereitstellung](0006.md)
+- [§ 7 Nationaler Zugangspunkt](0007.md)
+- [§ 8 Datennutzung, Lizenzen](0008.md)
+- [§ 9 Nationale Stelle](0009.md)
+- [§ 10 Eigenerklärungen](0010.md)
+- [§ 11 Maßnahmen zur Verbesserung der Datenqualität](0011.md)
+- [§ 12 Berichtspflichten gegenüber der Europäischen Kommission](0012.md)
+- [§ 13 Verarbeitung personenbezogener Daten](0013.md)
+- [§ 14 Verordnungsermächtigungen](0014.md)
+- [§ 15 Evaluierung](0015.md)
