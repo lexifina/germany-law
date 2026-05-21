@@ -1,0 +1,56 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2026-05-21T17:00:00+02:00
+- Ende: 2026-05-21T20:33:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2026-RAT-162
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2026-RAT-162
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-RAT-162
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-RAT-162
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-RAT-162
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Konsensliste
+- TOP 2.1: Antrag der SPD-Ratsfraktion - Radwegelückenschluss zwischen Pöppinghausen und Herne Horsthausen
+- TOP 2.2: Antrag der Bündnis 90/ Die Grünen Ratsfraktion - Prüfung einer Einbahnstraßenregelung in Deininghausen zur Entlastung der Parkplatzsituation
+- TOP 2.3: Umbesetzung der wewole Stiftung im Ausschuss für Generationen, Inklusion und Diversität
+- TOP 2.4: Anpassung der Richtlinie zur Verleihung der Sport- und Jugendsportplakette
+- TOP 2.5: Antrag SPD-Ratsfraktion vom 03.02.2026 zur Entwicklung einer Ehrenamtsstrategie für die Stadt Castrop-Rauxel
+- TOP 2.6: Antrag CDU-Ratsfraktion vom 03.03.2026 zur Einführung des Demokratie-Wegweisers in Castrop-Rauxel
+- TOP 2.7: Antrag CDU-Ratsfraktion vom 20.04.2026 Mitteleinsatz Sanierung Schultoiletten
+- TOP 2.8: Novelle des Baugesetzbuchs 2025 (BauGB-Novelle 2025) - Beschleunigung des Wohnungsbaus ("Wohnungsbau-Turbo") - Anwendung in Castrop-Rauxel und Beschluss von Leitlinien
+- TOP 2.9: Antrag der CDU-Fraktion vom 19. April 2026; Tätigkeitsbericht zur SiKo Ruhr
+- TOP 2.10: Antrag Bündnis 90/Die Grünen-Ratsfraktion vom 20.04.2026 Prüfauftrag zur Fortführung und inhaltlichen Erweiterung des Beteiligungsprojekts "Nah dran. Für Teilhabe und gegen Armut"
+- TOP 2.11: Erklärung des Rates im Sinne einer integrierten nachhaltigen Mobilitätsentwicklung der Stadt Castrop Rauxel für die EFRE Förderung und die EU Leitlinien für Sustainable Urban Mobility Plans (SUMP)
+- TOP 3: Antrag der CDU-Fraktion vom 09.04.2026: Entwicklung des Grundstücks Karlstraße zu Wohnzwecken
+- TOP 3.1: Ergänzungsantrag der Fraktion DIE LINKE vom 20.05.2026_ Entwicklung des Grundstücks Karlstraße zu Wohnzwecken
+- TOP 4: Beteiligungsbericht 2024
+- TOP 5: Nebentätigkeit des Hauptverwaltungsbeamten im Jahr 2025 Vorlage gem. § 8 Korruptionsbekämpfungsgesetz
+- TOP 6: Neufassung der Benutzungssatzung der Stadtbibliothek
+- TOP 7: Neufassung der Gebührensatzung der Stadtbibliothek Castrop-Rauxel
+- TOP 8: Interessenbekundung im Rahmen des Bundesprogramms "Sanierung kommunaler Sportstätten" (Projektaufruf 2026 - Schwimmbäder); Sanierung des Freibades an der Recklinghauser Str. 208
+- TOP 8.1: Ergänzungsantrag der AfD-Fraktion vom 20.05.2026_Interessenbekundung im Rahmen des Bundesprogramms "Sanierung kommunaler Sportstätten" (Projektaufruf 2026 - Schwimmbäder); Sanierung des Freibades an der Recklinghauser Str. 208
+- TOP 9: Antrag Ratsfraktion Bündnis 90/Die Grünen_Unterstützung des Standortmarketings durch Initialkonferenz zur Beschleunigung der Ansiedlung Green Tech/IT
+- TOP 9.1: Ergänzungsantrag von Fraktion Die Linke vom 05.05.2026_Unterstützung des Standortmarketings durch Initialkonferenz zur Beschleunigung der Ansiedlung Green Tech/IT"
+- TOP 10: Antrag Ratsfraktion Bündnis 90/Die Grünen_Unternehmertag zur beschleunigten Vermittlung von Geflüchteten und Personen mit Vermittlungshemmnissen in sozialversicherungspflichtige Arbeitsverhältnisse
+- TOP 11: Antrag der Bündnis 90/ Die Grünen Ratsfraktion vom 16.04.2026 - Mehr Transparenz bei Baumfällungen und Rodungsmaßnahmen
+- TOP 12: Bestellung eines neuen stellvertretenden Leiters (stellvertretender Wehrführer) der Freiwilligen Feuerwehr der Stadt Castrop-Rauxel
+- TOP 13: Tempo 30 Bahnhofstraße K28
+- TOP 14: Tempo 30 Recklinghauser Straße L658
+- TOP 15: Hausordnung Obdachlosenunterkünfte
+- TOP 16: Benennung eines Mitglieds des Ausschusses für Chancengerechtigkeit und Integration in den Ausschuss für Wirtschaftsentwicklung und Digitalisierung
+- TOP 17: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 18: Resolution des Rates der Stadt der Stadt Castrop-Rauxel zur Novellierung des Ordnungsbehördengesetzes
+- TOP 19: Antrag der CDU-Fraktion vom 14.05.2026_Dringlichkeitsantrag_Sportförderprogramm
+- TOP 20: Benennung beratender Mitglieder für den Betriebsausschuss 2
+- TOP 21: Ausschussumbesetzungen
+- TOP 22: Anfragen der Ratsmitglieder
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
