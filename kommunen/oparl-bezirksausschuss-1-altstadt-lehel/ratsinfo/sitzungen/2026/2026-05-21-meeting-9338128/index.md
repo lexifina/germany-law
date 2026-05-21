@@ -1,0 +1,73 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-05-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9338128
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9338128
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Bei Bedarf: erneut Feststellung der Beschlussfähigkeit des BAs
+- TOP 1.7: Beschlussfassung des BA über die endgültige TO
+- TOP 1.8: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2.: BA-Vorstand
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8: Ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 3.: Bildung der Unterausschüsse
+- TOP 3.1: Beschluss über die
+- TOP 3.1.1.: Anzahl
+- TOP 3.1.2.: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3.: Größe der Unterausschüsse
+- TOP 3.1.4.: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4: Ggf. Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 3.5: Ggf. BA-Beschluss: Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 Ge-schO-Stadtrat) sowie Bildung eines Ferienausschusses (§ 22a BA-Satzung) mit
+- TOP 3.5.1.: Beschlussfassung über Größe
+- TOP 3.5.2.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.5.3.: Wahl der / des Vorsitzenden
+- TOP 3.5.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4.: Benennung von Beauftragten
+- TOP 4.1: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 4.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 4.7: Ggf. Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO)
+- TOP 5.: Ggf. Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 5.1: Schaukasten Mariannenplatz
+- TOP 5.2: Schaukasten Westenriederstraße 20
+- TOP 5.3: Schaukasten Prälat-Zistl-Straße
+- TOP 5.4: Schaukasten Altes Rathaus
+- TOP 5.5: Schaukasten Thierschplatz
+- TOP 5.6: Schaukasten Liebig-/Sternstraße
+- TOP 5.7: Schaukasten Müllerstraße
+- TOP 5.8: Schaukasten Haltestellte Paradiesstraße
+- TOP 5.9: Schaukasten St.-Anna-Straße 19
+- TOP 5.10: Schaukasten Herzog-Wilhelm-Straße 11
+- TOP 5.11: Schaukasten Maximilianstraße
+- TOP 6.: Verschiedenes
+- TOP 6.1: Festlegung bzw. Bestätigung der Sitzungstermine 2026
+- TOP 6.2: Ggf. Grundsatzbeschlüsse
+- TOP 6.2.1.: Redezeitbegrenzung
+- TOP 6.2.2.: Beschluss über den BA-Newsletter
+- TOP 6.2.3.: Delegationsbefugnis des Vorstands, § 7a BA-GeschO
+- TOP 6.2.4.: Hybridsitzungen
