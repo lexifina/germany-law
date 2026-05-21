@@ -1,0 +1,55 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-21T18:00:00+02:00
+- Ende: 2026-05-21T20:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29596
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29596
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 21.05.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587537.pdf
+- Ergebnisprotokoll: NachtragsTO 21.05.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587537.pdf
+- Wortprotokoll: NachtragsTO 21.05.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587537.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 07.05.2026 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Jugend checkt Düsseldorf - Bericht der Verwaltung
+- TOP 4: Kriminalitäts- und Unfallstatistik 2025 im Stadtbezirk 8 - Bericht
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2026 - zurückgezogen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2026 - zurückgezogen
+- TOP 8: Sachstand Schulwegsicherheit im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 9: Baustelle ehemaliges Haus Querling in Vennhausen (Anfrage SPD-Fraktion) - beantwortet
+- TOP 10: Parkplatzsituation in Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Verwahrlosung Grundstück Gerresheimer Landstraße 114 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Saal der Markuskirche als Teil eines Bürgersaalkonzepts (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Situation Gertrudisplatz (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 16: Verbesserung der Verkehrssituation auf dem Wormser Weg (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 17: Verbesserung der Barrierefreiheit und Verkehrssicherheit in der Unterführung am S-Bahnhof Eller-Süd (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 18: Optimierung der Steuerung von Bahnübergängen am Kamper Weg / Ellerkirchstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 19: Überprüfung der Ampelschaltung an der Kreuzung Vennhauser Allee / In den Kötten (Querung „In den Kötten“)(Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Verkehrssituation Bernburger Straße (Antrag Fraktion Liste Zukunft 08) - einstimmig beschlossen
+- TOP 23: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 24: Querungssituation Sandträgerweg auf Höhe der Südlichen Düssel - zur Kenntnis genommen
+- TOP 25: Ludwigshafener Straße - Kanalsanierung (Begleitmaßnahmen) - zur Kenntnis genommen
+- TOP 26: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 27: Sanierung des Geh- und Radwegs Vennhauser Allee (Höhe Hausnummern 226–228) - zur Kenntnis genommen
+- TOP 28: Verkehrssicherheit an der Einfahrt zum Supermarkt Aldi, Vennhauser Allee - Prüfung von Maßnahmen zur Gefahrenreduzierung - zur Kenntnis genommen
+- TOP 29: Barrierefreie Querung der Gumbertstraße auf Höhe Gertrudisplatz - zur Kenntnis genommen
+- TOP 30: Haltestelle Am Eller Forst - zur Kenntnis genommen
+- TOP 31: Neustädter Weg - Parkverbot - zur Kenntnis genommen
+- TOP 32: Radverkehrsführung Gubener Straße im Abschnitt Höherhofstraße / Sandträgerweg - zur Kenntnis genommen
+- TOP 33: Alter Schützenplatz Eller (Sodener Weg) - zur Kenntnis genommen
+- TOP 34: Fahrradstraße Alt-Eller und Ellerkirchstraße - zur Kenntnis genommen
+- TOP 35: GAT Auswertung an der Rathelbeckstraße - zur Kenntnis genommen
+- TOP 36: Reisholzer Straße (zwischen Posener Straße und Gatherweg) - zur Kenntnis genommen
+- TOP 37: Kostenermittlung Spieltische Unterbach - zur Kenntnis genommen
+- TOP 38: Park am Stufstock - zur Kenntnis genommen
