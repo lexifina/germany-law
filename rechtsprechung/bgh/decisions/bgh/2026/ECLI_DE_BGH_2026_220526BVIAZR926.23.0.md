@@ -1,0 +1,35 @@
+---
+ecli: "ECLI:DE:BGH:2026:220526BVIAZR926.23.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "VIa ZR 926/23"
+decided: "2026-05-22"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE625552026.xml"
+neuris_doknr: "KORE625552026"
+---
+
+# Bundesgerichtshof, VIa ZR 926/23 vom 2026-05-22
+
+## Tenor
+
+Die Nichtzulassungsbeschwerde des Klägers gegen den Beschluss des 3. Zivilsenats des Oberlandesgerichts Hamm vom 7. August 2023 wird zurückgewiesen, weil die Rechtssache weder grundsätzliche Bedeutung hat noch die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordern (§ 543 Abs. 2 Satz 1 ZPO).
+
+Die geltend gemachte Verletzung von Verfahrensgrundrechten hat der Senat geprüft, aber für nicht durchgreifend erachtet. Insbesondere hat der Kläger einen durchgreifenden Zulassungsgrund insoweit nicht dargetan, als sich die von ihm erhobene Gehörsrüge auf sein Vorbringen zu einem angeblich auf Täuschung angelegten Einsatz der "AdBlue"-Dosierungsstrategie und in diesem Zusammenhang zu einem zum Aktenzeichen 266 Js 48965/21 ergangenen Strafbefehl des Amtsgerichts Böblingen bezieht. Die hierzu vom Berufungsgericht angestellten Erwägungen lassen auch sonst keinen Zulassungsbedarf erkennen. Die Grundsätze, unter denen die an sich nicht darlegungs- und beweisbelastete Partei eine sekundäre Darlegungslast treffen kann, sind in der höchstrichterlichen Rechtsprechung - auch in "Dieselsachen" (vgl. etwa BGH, Urteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 24 ff.) - geklärt. Der Umstand, dass sich die Frage der Anwendung dieser Grundsätze im jeweiligen Fall hinsichtlich des erwähnten Strafbefehls in gleicher oder ähnlicher Weise in einer größeren Anzahl von "Dieselverfahren" stellen könnte, begründete ebenfalls keine Zulassungsrelevanz.
+
+Eine Vorlage an den Gerichtshof der Europäischen Union ist im Übrigen aus den in der Senatsentscheidung vom 26. Juni 2023 (VIa ZR 335/21, BGHZ 237, 245, insbesondere Rn. 24 ff., 35 ff., 73 ff.) näher ausgeführten Gründen nicht veranlasst (vgl. ferner BGH, Beschluss vom 2. September 2025 - VIa ZR 87/24, ZIP 2025, 2454).
+
+Von einer näheren Begründung wird gemäß § 544 Abs. 6 Satz 2 Halbsatz 2 ZPO abgesehen, weil sie nicht geeignet wäre, zur Klärung der Voraussetzungen beizutragen, unter denen eine Revision zuzulassen ist.
+
+Der Kläger trägt die Kosten des Beschwerdeverfahrens (§ 97 Abs. 1 ZPO).
+
+Der Gegenstandswert des Beschwerdeverfahrens beträgt bis 65.000 €.
+
+C. Fischer
+
+Katzenstein
+
+Ostwaldt
+
+Tausch
+
+Spielmann
