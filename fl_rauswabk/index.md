@@ -1,3 +1,0 @@
-# Abkommen betreffend die Ausstellung eines Reiseausweises an Flüchtlinge,
-die unter die Zuständigkeit des zwischenstaatlichen Ausschusses für die
-Flüchtlinge fallen

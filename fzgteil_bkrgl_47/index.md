@@ -1,3 +1,0 @@
-# Regelung Nr. 47 - Einheitliche Vorschriften für die Genehmigung der
-Fahrräder mit Hilfsmotor (Motorfahrräder, Mopeds) hinsichtlich der Emission
-luftverunreinigender Gase aus Motoren mit Fremdzündung

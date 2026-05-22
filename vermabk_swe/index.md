@@ -1,2 +1,0 @@
-# Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich
-Schweden über deutsche Vermögenswerte in Schweden

@@ -1,2 +1,0 @@
-# Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen
-Eidgenossenschaft zum deutschen Lastenausgleich
