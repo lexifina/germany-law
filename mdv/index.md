@@ -9,6 +9,6 @@
 - [§ 6 Registrierung von Dritten](0006.md)
 - [§ 7 Verwendung von Daten durch Dritte](0007.md)
 - [§ 8 Vorgaben zur technischen Ausgestaltung](0008.md)
-- [§ 9 Inkrafttreten](0009.md)
+- [§ 9 Außerkrafttreten](0009.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage (zu § 1 Nummer 1, §§ 3 und 5 Absatz 1)](anlage.md)
