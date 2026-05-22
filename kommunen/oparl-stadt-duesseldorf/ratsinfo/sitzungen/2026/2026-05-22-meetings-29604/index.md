@@ -1,0 +1,84 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-22T14:07:00+02:00
+- Ende: 2026-05-22T18:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29604
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29604
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587001.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587001.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587001.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung vom 27.03.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Mündlicher Bericht über die Kriminalitätsstatistik 2025 im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Harkortstraße – Barrierefreier Ausbau der Haltestelle Mintropplatz - mehrheitlich beschlossen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Weihnachtsmarkt auf der Nordstraße vom 19.11.2026 - 23.12.2026 - einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2026 Liste A Schulen 2121101/52415100 - abweichend beschlossen
+- TOP 5.8: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 5.9: Akademiestraße 2 - Erhaltung des Standorts durch Modernisierung, Teilumbau und Anpassung der Gebäudestruktur - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 5.10: Königsallee nördlich Graf-Adolf-Straße – Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h - mehrheitlich beschlossen
+- TOP 5.11: Königsallee – Markierung von Radschutzstreifen auf der Westseite - abweichend beschlossen
+- TOP 5.12: Neugestaltung östliche Königsallee - mehrheitlich beschlossen
+- TOP 5.13: Herbeiführen eines Bedarfsbeschlusses - Neugestaltung Konrad-Adenauer-Platz - mehrheitlich beschlossen
+- TOP 5.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2026 - mehrheitlich beschlossen
+- TOP 5.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.16: Weitere Veranstaltungen auf dem Burgplatz für das Jahr 2026 - einstimmig beschlossen
+- TOP 5.17: Thai Food Festival am Tonhallenufer im Juni 2026 - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Parkraumentwicklung innerhalb des Stadtbezirk 1 - Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Sichere und überdachte Fahrradabstellanlagen in Tiefgaragen in der Altstadt - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 6.3: Schulstraßen und Schulwegsicherheit im Stadtbezirk 1 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7: Anfragen
+- TOP 7.1: Terrassenverbreiterungen in den Fahrbahnbereich Schwerinstraße - Anfrage der AfD-Fraktion
+- TOP 7.2: Terrassenaufbau Stockkampstraße PKW-Stellplatz - Anfrage der AfD-Fraktion
+- TOP 7.3: Grundstück Ecke Roßstraße / Hans Böckler Straße (ehemals Esso Tankstelle) - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.4: Klimaschutz und Zukunft an der Gemeinschaftsgrundschule Lennéstraße - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Mehr Sicherheit auf der Radwegauffahrt Kaiserswerther Straße stadteinwärts auf Höhe der Robert Schumann Musikhochschule - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Fahrradständer auf der Goltsteinstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.3: Bücherschrank - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.4: Sicherung Radverkehr Jacobistraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.5: Nutzung Freifläche Tuchtinsel - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.6: Verbesserung der Radverkehrsführung im Kreuzungsbereich Prinz-Georg-Straße, Rochusstraße und Bagelstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.7: Ladebordsteine - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.8: Installation einer LED-Laterne am Gießerjungen auf der Zollstraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Verbesserung der Querungssituation für Fußgänger*innen an der Einmündung Prinz-Georg-Straße/Benedikt-Schmittmann-Straße; Beschluss der Bezirksvertretung 1 vom 27.02.2026; BV1/048/2026 - zur Kenntnis genommen
+- TOP 9.2: Ampelschaltung Ost-/Immermannstraße; Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/074/2026 - zur Kenntnis genommen
+- TOP 9.3: Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/072/2026; Installation von Fahrradabstellmöglichkeiten an der Kreuzung Adlerstraße/Beuthstraße - zur Kenntnis genommen
+- TOP 9.4: Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/073/2026; Temporäre Sicherungsmaßnahme für einen Fußgänger-Überweg auf der Rather Straße - zur Kenntnis genommen
+- TOP 9.5: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.6: Bessere Ausleuchtung des Weges von der Rheinbahnhaltestelle Ergo Platz/Klever Straße; Beschluss der Bezirksvertretung 1 vom 27.02.2026; BV1/052/2026 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Büdchentag e.V. - mehrheitlich beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - einEUROhilft e.V. - einstimmig abgelehnt
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an GGS Lennéstraße - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Bankstraßenfest - mehrheitlich beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Schäferstraßenfest - mehrheitlich beschlossen
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Start Art e.V. - mehrheitlich beschlossen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Verein der Freunde und Förderer des Görres-Gymnasiums - vertagt
+- TOP 10.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendort 1655 e.V. - einstimmig beschlossen
+- TOP 10.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Golzheimfest e.V. - vertagt
+- TOP 10.10: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Der Kinderschutzbund OV Düsseldorf e.V. - einstimmig beschlossen
+- TOP 10.11: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Georg-Büchner-Gymnasium - mehrheitlich beschlossen
+- TOP 10.12: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an 40 GRAD URBAN ART e.V. - einstimmig beschlossen
+- TOP 10.13: Verfügungsmittel der Bezirksvertretung 1 - FÜNFZEHNWOCHEN Golzheim - mehrheitlich beschlossen
+- TOP 10.14: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Eine Welt Forum Düsseldorf e.V. - mehrheitlich beschlossen
+- TOP 10.15: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Jugendetage an der Kreuzkirche - einstimmig beschlossen
+- TOP 11: Verschiedenes
