@@ -36,6 +36,7 @@
 | - | BB-22 (QUCHIC) | Chinolin-8-yl[1-(cyclohexylmethyl)-1H-indol-3-carboxylat] |
 | - | Benzylpiperazin (BZP) | 1-Benzylpiperazin |
 | - | Bromazolam | 8-Brom-1-methyl-6-phenyl-4H-[1,2,4]triazol[4,3-a][1,4]benzodiazepin |
+| - | 4-Brommethcathinon (4-BMC, Brephedron) | 1-(4-Bromphenyl)-2-(methylamino)propan-1-on |
 | - | Brorphin | 1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-on |
 | - | Buphedron | 2-(Methylamino)-1-phenylbutan-1-on |
 | Butalbital | - | 5-Allyl-5-isobutylbarbitursäure |
@@ -61,6 +62,8 @@
 | - | CUMYL-5F-PEGACLONE (5F-Cumyl-PeGaClone, 5F-SGT-151) | 5-(5-Fluorpentyl)-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-on |
 | Cyclobarbital | - | 5-(Cyclohex-1-en-1-yl)-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion |
 | - | Cyclopropylfentanyl | N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl] cyclopropancarboxamid |
+| - | N-Desethyletonitazen | 2-[(4-Ethoxyphenyl)methyl]-N-ethyl-5-nitro- 1H-benzimidazol-1-ethanamin |
+| - | N-Desethylisotonitazen | N-Ethyl-2-{[4-(1-methylethoxy)phenyl]methyl}-5-nitro-1H-benzimidazol-1-ethanamin |
 | - | Desoxypipradrol (2-DPMP) | 2-(Diphenylmethyl)piperidin |
 | - | Dextromethadon | (S)-6-Dimethylamino-4,4-diphenylheptan-3-on |
 | Dextromoramid | - | (S)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on |
@@ -89,9 +92,11 @@
 | Ethinamat | - | (1-Ethinylcyclohexyl)carbamat |
 | - | 3-O-Ethylmorphin(Ethylmorphin) | 4,5α-Epoxy-3-ethoxy-17-methylmorphin-7-en-6α-ol |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 2,5 vom Hundert oder je abgeteilte Form bis zu 100 mg Ethylmorphin, berechnet als Base, enthalten - |
+| - | N-Ethylnorpentedron (NEP) | 2-(Ethylamino)-1-phenylpentan-1-on |
 | - | N-Ethylnorpentylon(Ephylon, bk-EBDP,bk-Ethyl-K) | 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)pentan-1-on |
 | - | Ethylphenidat | Ethyl[2-(phenyl)-2-(piperidin-2-yl) acetat] |
 | Etilamfetamin | N-Ethylamphetamin | (Ethyl)(1-phenylpropan-2-yl)azan |
+| - | Etonitazepipne (N-Piperidinyl Etonitazen) | 2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-(2-piperidin-1-ylethyl)-1H-benzimidazol |
 | - | 5F-ABICA(5F-AMBICA, 5-Fluor-ABICA, 5-Fluor-AMBICA) | N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluorpentyl)-1H-indol-3-carboxamid |
 | - | 5F-AB-PINACA(5-Fluor-AB-PINACA) | N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluorpentyl)-1H-indazol-3-carboxamid |
 | - | 5F-ADB(5F-MDMB-PINACA) | Methyl{2-[1-(5-fluorpentyl)-1H-indazol-3-carboxamid]-3,3-dimethylbutanoat} |
@@ -124,6 +129,8 @@
 | - | 5F-SDB-006 | N-Benzyl-1-(5-fluorpentyl)-1H-indol-3-carboxamid |
 | - | FUB-PB-22 | Chinolin-8-yl{1-[(4-fluorphenyl)methyl]-1H-indol-3-carboxylat} |
 | - | Furanylfentanyl (FU-F) | N-Phenyl-N-[1-(2-phenylethyl) piperidin-4-yl]furan-2-carboxamid |
+| - | Hexahydrocannabinol (HHC) | 6a,7,8,9,10,10a-Hexahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol |
+| – ausgenommen, a) wenn es sich um Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken im Sinne des Medizinal-Cannabisgesetzes handelt oder b) wenn es sich um eine nichtsynthetische Form handelt, die zu nichtmedizinischen Zwecken im Verkehr ist – |
 | Glutethimid | - | 3-Ethyl-3-phenylpiperidin-2,6-dion |
 | - | Isocodein | 4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6ß-ol |
 | Isomethadon | - | 6-Dimethylamino-5-methyl-4,4-diphenylhexan-3-on |
@@ -149,6 +156,7 @@
 | - | MDMB-CHMCZCA (EGMB-CHMINACA) | Methyl{2-[9-(cyclohexylmethyl)- 9H-carbazol-3-carboxamido]-3,3- dimethylbutanoat} |
 | - | MDMB-CHMICA | Methyl{2-[1-(cyclohexylmethyl)-1H-indol-3-carboxamido]-3,3-dimethylbutanoat} |
 | - | MDMB-4en-PINACA | Methyl{2-[1-(pent-4-en-1-yl)-1H-indazol-3-carboxamido]-3,3-dimethylbutanoat} |
+|  | MDMB-FUBINACA (FUB-MDMB) | Methyl {2-[1-(4-fluorbenzyl)-1H-indazol-3- carboxamido]-3,3-dimethylbutanoat} |
 | Mefenorex | - | 3-Chlor-N-(1-phenylpropan-2-yl)propan-1-amin |
 | Meprobamat | - | (2-Methyl-2-propylpropan-1,3-diyl)dicarbamat |
 | Mesocarb | - | (Phenylcarbamoyl)[3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl]azanid |
@@ -165,6 +173,7 @@
 | - | Methylbenzylpiperazin (MBZP) | 1-Benzyl-4-methylpiperazin |
 | - | 3,4-Methylendioxypyrovaleron (MDPV) | 1-(Benzo[d][1,3]dioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-on |
 | - | 4-Methylethcathinon (4-MEC) | 2-(Ethylamino)-1-(4-methylphenyl)propan-1-on |
+|  | 2-Methylmethcathinon (2-MMC, Ortomephedron) | 2-(Methylamino)-1-(2-methylphenyl)propan-1-on |
 | - | Methylon (3,4-Methylendioxy-N-methcathinon, MDMC) | 1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)propan-1-on |
 | (RS;SR)-Methylphenidat | - | Methyl[(RS;SR)(phenyl)(2-piperidyl)acetat] |
 | Methyprylon | - | 3,3-Diethyl-5-methylpiperidin-2,4-dion |
@@ -199,6 +208,9 @@
 | Pyrovaleron | - | 2-(Pyrrolidin-1-yl)-1-(ρ-tolyl)pentan-1-on |
 | - | α-Pyrrolidinohexanophenon (Alpha-PHP, α-PHP, PV-7) | 1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-on |
 | - | α-Pyrrolidinoisohexanophenon (Alpha-PiHP, α-PiHP, 4-Methyl-α-PVP) | 4-Methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-on |
+| - | N-Pyrrolidinoisotonitazen (Isotonitazepyn) | 2-{[4-(1-Methylethoxy)phenyl]methyl}-5-nitro-1-[2-(1-pyrrolidinyl)ethyl]-1H-benzimidazol |
+| - | N-Pyrrolidinometonitazen (Metonitazepyn) | 2-[(4-Methoxyphenyl)methyl]-5-nitro-1- (2-pyrrolidin-1-ylethyl)-1H-benzimidazol |
+| - | N-Pyrrolidinoprotonitazen (Protonitazepyn) | 2-[(4-Propoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)-1H-benzimidazol |
 | - | α-Pyrrolidinovalerophenon (α-PVP) | 1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-on |
 | Racemoramid | - | (RS)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on |
 | Racemorphan | - | (9RS,13RS,14RS)-17-Methylmorphinan-3-ol |

@@ -23,6 +23,7 @@
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 0,02 vom Hundert oder je abgeteilte Form bis zu 0,25 mg Brotizolam enthalten - |
 | Buprenorphin | - | (5R,6R,7R,14S)-17-Cyclopropyl-methyl-4,5-epoxy-7-[(S)-2-hydroxy-3,3-dimethylbutan-2-yl]-6-methoxy-6,14-ethanomorphinan-3-ol |
 | Camazepam | - | (7-Chlor-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1H-1,4-enzodiazepin-3-yl)(dimethylcarbamat) |
+| Carisoprodol | - | (2RS)-2-[(Carbamoyloxy)methyl]-2-methylpentyl(1-methylethyl)carbamat |
 | Cathin | (+)-Norpseudoephedrin (D-Norpseudoephedrin) | (1S,2S)-2-Amino-1-phenylpropan-1-ol |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 5 vom Hundert als Lösung, jedoch nicht mehr als 1 600 mg je Packungseinheit oder je abgeteilte Form bis zu 40 mg Cathin, berechnet als Base, enthalten - |
 | Chlordiazepoxid | - | 7-Chlor-2-methylamino-5-phenyl-3H-1,4-benzodiazepin-4-oxid |
