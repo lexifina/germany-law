@@ -29,6 +29,7 @@ Acetylcystein
 Acetylsalicylsäure
 – zur parenteralen Anwendung –
 Aciclovir
+– ausgenommen als Buccaltablette in Konzentrationen von 50 mg je abgeteilter Arzneiform zur Anwendung bei rezidivierendem Herpes labialis bei immunkompetenten Erwachsenen in Packungsgrößen bis zu 100 mg –
 – ausgenommen in Zubereitungen als Creme zur Anwendung bei Herpes labialis in Packungsgrößen bis zu 2 g und einem Wirkstoffgehalt bis zu 100 mg Aciclovir je abgeteilter Arzneiform –
 – ausgenommen in Zubereitungen als Creme in Kombination mit Hydrocortison in einer Konzentration von 1 Prozent Hydrocortison zur Behandlung von Herpes labialis zur Verringerung des Risikos von ulzerativen Läsionen bei Erwachsenen und Kindern ab 12 Jahren, in Packungsgrößen bis zu 2 g und mit einem Wirkstoffgehalt bis zu 100 mg Aciclovir je abgeteilter Arzneiform –
 Acipimox
@@ -38,6 +39,7 @@ Aclidinium-Salze
 Aconitum : Arten der Gattung Aconitum, deren Pflanzenteile und Zubereitungen daraus sowie Aconitum-Alkaloide und deren Derivate
 - ausgenommen zum äußeren Gebrauch in Salben -
 - ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind -
+Acoramidis und seine Ester
 Adapalen
 Adefovir
 Ademetionin
@@ -190,6 +192,7 @@ Atazanavir
 Atenolol
 Atipamezol
 - zur Anwendung bei Tieren -
+Atogepant
 Atomoxetin
 Atorvastatin
 Atosiban
@@ -244,6 +247,7 @@ Belatacept
 Belladonnae folium und ihre Zubereitungen
 - ausgenommen zum äußeren Gebrauch -
 - ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind -
+Belzutifan und seine Ester
 Bemegrid
 Bemetizid
 Bemiparin
@@ -718,6 +722,7 @@ Desvenlafaxin und seine Ester
 Detajmiumbitartrat
 Detomidin
 Deucravacitinib
+Deutivacaftor
 Dexamethason und seine Ester
 – ausgenommen Dexamethasondihydrogenphosphat zur einmaligen parenteralen Anwendung in wässriger Lösung in Ampullen/Fertigspritzen mit 40 mg Wirkstoff und bis zu maximal 3 Packungseinheiten (entsprechend 120 mg Wirkstoff) für die Notfallbehandlung schwerer anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum Eintreffen des Rettungsdienstes –
 Dexibuprofen
@@ -835,6 +840,7 @@ Doramectin
 Doravirin
 Doripenem
 Dornase alfa
+Dorocubicel
 Dorzolamid
 Dosulepin
 Doxapram
@@ -922,6 +928,7 @@ Epinephrin
 – ausgenommen Autoinjektoren in Packungsgrößen von einer Einheit zur einmaligen parenteralen Anwendung für die Notfallbehandlung schwerer anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum Eintreffen des Rettungsdienstes –
 Epirubicin
 Eplerenon
+Eplontersen
 Epoetin alfa, beta, delta, theta und zeta
 Epoetin alfa, beta, delta, theta und zeta
 Epoprostenol und seine Derivate
@@ -1001,6 +1008,7 @@ Etozolin
 Etrasimod und seine Ester
 Etravirin
 Etretinat
+Etuvetidigen autotemcel
 Etynodiol und seine Ester
 Everolimus
 Exametazim
@@ -1126,6 +1134,7 @@ Fosamprenavir
 Fosaprepitant
 Foscarnet
 - zur cutanen und parenteralen Anwendung -
+Fosdenopterin und seine Ester
 Fosfestrol
 Fosfomycin
 Fosinopril
@@ -1166,6 +1175,7 @@ Gestonoron
 Gewebetransplantate, humane allogene und Produkte aus Gewebezüchtungen
 Gilteritinib
 Gitoformat
+Givinostat
 Givosiran
 Glafenin
 Glasdegib
@@ -1302,6 +1312,7 @@ Iloprost
 Imatinib
 Imepitoin
 – zur Anwendung bei Tieren –
+Imetelstat
 Imiclopazin
 Imidapril
 Imiglucerase
@@ -1312,6 +1323,7 @@ Imlifidase
 Imolamin
 Impfstoffe
 - zur Anwendung am oder im menschlichen Körper; die Vorschriften der Tierimpfstoff-Verordnung zur Verschreibungspflicht bleiben unberührt -
+Inavolisib
 Inclisiran
 Indacaterol
 Indapamid
@@ -1572,6 +1584,7 @@ Mefrusid
 Megestrol
 Melagatran
 Melatonin
+– ausgenommen in Konzentrationen von 3 mg je abgeteilter Arzneiform, einer Tagesmaximaldosis von 3 mg und einer Packungsgröße bis zu 30 mg zur oralen Anwendung bei Jetlag bei Erwachsenen –
 Melitracen
 Meloxicam
 Melperon
@@ -1611,6 +1624,8 @@ Methallenestril
 Methandriol und seine Ester
 Methantheliniumbromid
 Methazolamid
+Methenamin
+– ausgenommen zum Aufbringen auf die Haut –
 Methocarbamol
 Methohexital
 Methotrexat
@@ -1666,6 +1681,7 @@ Minocyclin
 Minoxidil
 - ausgenommen zur topischen Anwendung bei androgenetischer Alopezie in einer Konzentration von bis zu 5% -
 Mirabegron und seine Derivate
+Mirdametinib und seine Ester
 Mirtazapin
 Misoprostol
 Mitapivat
@@ -1783,6 +1799,7 @@ Nintedanib
 Niraparib
 Niridazol
 Nirmatrelvir
+Nirogacestat
 Nisoldipin
 Nitisinon
 Nitrendipin
@@ -1828,6 +1845,7 @@ Olanzapin
 Olaparib
 Oleander-Glykoside
 Oleandomycin
+Olezarsen
 Olipudase alfa
 Olmesartan und seine Ester
 Olodaterol
@@ -2226,6 +2244,7 @@ Repaglinid
 Repotrectinib
 Reproterol
 Reserpin
+Resmetirom
 Resocortol und seine Ester
 - zur Anwendung bei Tieren -
 Resorantel
@@ -2250,6 +2269,7 @@ Rilonacept
 Rilpivirin
 Riluzol
 Rimazolium
+Rimegepant
 Rimexolon
 Rimonabant
 Riociguat
@@ -2313,11 +2333,13 @@ Scilla-Glykoside
 Scopolamin
 Scopoliawurzelstock und seine Zubereitungen
 Sebelipase alfa
+Sebetralstat
 Secale-Alkaloide
 Secale cornutum und seine Zubereitungen
 Secnidazol
 Secretin
 - zur Anwendung als Diagnostikum -
+Seladelpar und seine Ester
 Selamectin
 Selegilin
 Selenverbindungen
@@ -2328,6 +2350,7 @@ Selinexor
 Semaglutid
 Selpercatinib und seine Ester
 Selumetinib und seine Ester
+Sepiapterin und seine Ester
 Sera und monoklonale Antikörper
 - zur Anwendung am oder im menschlichen oder tierischen Körper -
 Sermorelin
@@ -2448,6 +2471,7 @@ Tebentafusp
 Tedizolid und seine Ester
 Teduglutid
 Tegafur
+Tegomilfumarat
 Teicoplanin
 Telaprevir
 Telavancin
@@ -2676,6 +2700,7 @@ Valsartan
 Vamorolon und seine Ester
 Vancomycin
 Vandetanib
+Vanzacaftor
 Vardenafil
 Vareniclin
 Vasopressin und seine Analoga
@@ -2702,6 +2727,7 @@ Vigabatrin
 Vilanterol
 Vildagliptin
 Viloxazin
+Vimseltinib
 Vinblastin
 Vincamin
 Vincristin
@@ -2716,6 +2742,7 @@ Vismodegib
 Voclosporin und seine Ester
 Volanesorsen
 Vorapaxar
+Vorasidenib
 Voriconazol
 Vortioxetin
 Vosoritid
