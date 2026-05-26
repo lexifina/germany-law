@@ -1,0 +1,71 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-26T17:00:00+02:00
+- Ende: 2026-05-26T18:41:00+02:00
+- Ort: Sitzungssaal Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29734
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29734
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587876.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587876.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587876.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Angebotsausweitung SB57 - Empfehlung einstimmig beschlossen
+- TOP 4.4: Bezirklicher Bauunterhalt 2026 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Neue Pflanzbeete vor den Häusern Dresdener Str. 50 bis 58 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Intelligente Straßenbeleuchtung in Garath/Hellerhof - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.3: Baustelle Josef-Kleesattel-Straße 20a (Ecke „Altes Zentrum Garath“) - Anfrage der AfD-Fraktion - - schriftlich beantwortet
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Überwiegender Leerstand der Geschäftsflächen in den Erdgeschossen der Gebäude Josef-Kleesattel-Straße 12–20 („Altes Zentrum Garath“) - Anfrage der AfD-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Sachstand der Renovierungsmaßnahmen an der Gesamtschule Stettiner Straße - Anfrage der AfD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Schreiben der LEG wegen freiwilliger Mieterhöhungen (Anfrage der SPD-Fraktion) - schriftlich beantwortet
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Zukunft des Stadtteilteams in Garath - (Anfrage der SPD-Fraktion) - - schriftlich beantwortet
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Lage und Auswirkungen ehemaliger Baustraßen im Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Einladung eines Referenten der Feuerwehr zur Information über Aufgaben, Einsatz und Handlungsabläufe im Stör- und Katastrophenfall - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.2: Entfernung von Stickern und Aufklebern im Stadtteil Garath - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Neuer Standort für die Glascontainer am Haus Dresdner Straße 57a - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 7.5: Geschwindigkeitskontrollen auf der A 59 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Öffnungszeiten des Cafés im Kulturhaus-Süd - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Zusatzzeichen in der Tempo 30 Zone auf der Emil-Barth-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 8.2: Beschluss des Kinderparlaments Garath vom 05.11.2025, Projekt „Rauchfreie Zonen- keine Kippen auf dem Boden im Stadtbezirk 10, qualmfreie Zonen an Bushaltestellen im Stadtbezirk - Informationsvorlage zum Beschluss BV10/191/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 8.3: Beschluss des Kinderparlaments Garath vom 05.11.2025, Ergänzung zum Beschluss BV10/135/2025 Projekt „Rauchfreie Zonen- qualmfreie Zonen rund um Schulen im SB sowie dem Gymnasium Koblenzer Straße - Informationsvoralge zum Beschluss BV10/192/2025 - - zur Kenntnis genommen
+- TOP 8.4: Beschluss des Kinderparlamentes Garath vom 24.03.2026, Ergänzung des § 6 Düsseldorfer Straßenordnung (DStO) um das Wort „Qualmen/Rauchen“ - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.5: Informationen aus dem Datenblatt zum Düsseldorfer Wohnungsmarkt für den Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/025/2026 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 8.6: Garagen und Boxen für Fahrräder im öffentlichen Raum im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/048/2026 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 8.7: Dringliche Ausbesserung der Gehwege - Informationsvorlage zum Beschluss BV10/054/2026 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 8.8: Hinweisaufkleber zu der App „Düsseldorf bleibt sauber“ auf allen Altglas-, Altkleider-, und Altpapiercontainern im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/203/2025 vom 02.12.2025 - - zur Kenntnis genommen
+- TOP 8.9: Prüfung der Installation einer automatischen Türöffnungsanlage am Haupteingang des Kulturhauses Süd zur Verbesserung der Barrierefreiheit - Informationsvorlage zum Beschluss BV10/023/2026 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 8.10: Anwendung der Novelle des Baugesetzbuches („Bau-Turbo") - Informationsvorlage zum Beschluss BV10/064/2026 vom 24.04.2026 sowie der Anfragen BV10/185/2025 vom 04.11.2025 und BV10/021/2026 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
