@@ -1,0 +1,70 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-05-26T17:00:00+02:00
+- Ende: 2026-05-26T19:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29511
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29511
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587901.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587901.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00587901.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der öffentlichen und nichtöffentlichen Niederschrift vom 24.03.2026 - einstimmig beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Diepenstraße, Sammler (I-2030705024) - zur Kenntnis genommen
+- TOP 3.3: Bergische Landstraße, Doppelstockkanäle (I-2020305009) - Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 3.4: Weihnachtsmarkt auf dem Gerricusplatz im Jahr 2026 - einstimmig beschlossen
+- TOP 3.5: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 3.6: Änderungsbeschluss Deutsches Tischtenniszentrum - Erweiterung Küche und Speiseraum, Mehrkosten - zur Kenntnis genommen
+- TOP 3.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Haushalt 2026 Liste A Schulen 2121101/52415700 - einstimmig beschlossen
+- TOP 3.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2026) - einstimmig beschlossen
+- TOP 3.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2026) - einstimmig beschlossen
+- TOP 3.10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Grünpfeil für Radfahrende - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 4.3: Reduzierung des Durchgangsverkehrs im Zentrum von Gerresheim - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 4.4: Einrichtung eines Zebrastreifens auf der Ernst-Poensgen-Allee in Höhe der Graf-Recke-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 4.5: Erneuerung der Beschriftung „Tempo 30“ auf der Wildparkstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 4.6: Sachstand zum Ausbau der Glasfaserversorgung im Stadtbezirk 7 - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 4.7: Parkraumregelung Hardenbergstraße - Antrag der Fraktionen von CDU und SPD - - mehrheitlich beschlossen
+- TOP 4.8: Ausweisung des Eschbachwegs (Ostparksiedlung) als verkehrsberuhigter Bereich - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 4.9: Hinweisschilder für Fußgänger von den ÖPNV Haltestellen zum Wildpark und zur Rennbahn - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 4.10: Hinweisschilder zur neuen multifunktionalen Sportfläche im Diepenpark - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 4.11: Betrieb einer Geschwindigkeitsanzeigetafel in der Märkischen Straße - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 4.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13: Schulstraße Diepenstraße - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 4.14: Einführung kostenloser Menstruationshygieneprodukte im Bezirksrathaus - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5: Anfrage aus vorheriger Sitzung
+- TOP 5.1: 2021 zerstörter Damm im Rotthäuser Bachtal an der Teichanlage unweit der Hofschaft Rotthäuser Weg 106 - 110 - Anfrage der AfD-Fraktion - - vertagt
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Ladesäulen für Elektro-Autos auf mehreren Straßen in Gerresheim - Anfrage der AfD-Fraktion - - zur Kenntnis genommen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Grundstück Quadenhofstr.100, 40625 Düsseldorf mit ehemaligem Kindergarten - Anfrage der AfD-Fraktion - - zur Kenntnis genommen
+- TOP 6.5: Sportanlage Diepenpark - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.6: Leerstand Wohn-/Geschäftshaus Benderstraße 16 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.7: Betriebsstörung Unterflurcontainer am Apostelplatz in Gerresheim - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Standort der Bücherei Gerresheim - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Erneute Einrichtung einer Park-and-Ride-Fläche auf dem Glashüttengelände in Gerresheim - Informationsvorlage zum Beschluss der BV7 vom 04.11.2025 - - zur Kenntnis genommen
+- TOP 7.2: Hundeauslaufplatz Ernst-Poensgen-Allee - Informationsvorlage zum Beschluss der BV 7 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 7.3: Verbesserung der Parksituation Hahnenfurther Straße und Am Gallberg - Informationsvorlage zum Beschluss der BV 7 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 7.4: Hol- und Bringzone Heinrich-Könn-Str. 36a - Informationsvorlage zum Beschluss der BV 7 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 7.5: Fahrradspur auf der Ludenberger Straße - Informationsvorlage zum Beschluss der BV 7 vom 27.05.2025 - - zur Kenntnis genommen
+- TOP 7.6: Liegebänke Parkanlage, Alter Gerresheimer Friedhof - Informationsvorlage zum Beschluss der BV 7 vom 27.01.2026 - - zur Kenntnis genommen
+- TOP 7.7: Wanderparkplatz am Rotthäuser Weg - Informationsvorlage zum Beschluss der BV 7 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 7.8: Behutsame Erweiterung der Ausstattung der „Hasenwiese“ - Informationsvorlage zum Beschluss der BV 7 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 7.9: Pirnaer Straße - Informationsvorlage zum Beschluss der BV 7 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 7.10: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 7.11: Masterplan Kinderspielplätze Auswahl von Maßnahmen für das Haushaltsjahr 2027 - zur Kenntnis genommen
+- TOP 8: Mitteilung des Bezirksbürgermeisters - zur Kenntnis genommen
