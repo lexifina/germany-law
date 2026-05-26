@@ -1,0 +1,114 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-05-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967765
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967765
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Teil A - Konstituierende Sitzung
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Sitzungseröffnung
+- TOP 1.2: Feststellung der ordnungsgemäßen Ladung des BA, Feststellung der Beschlussfähigkeit
+- TOP 1.3: Bekanntgabe der Fraktionssprecher*innen
+- TOP 1.4: Bekanntgabe der vorliegenden Entschuldigungen
+- TOP 1.5: Beschluss über die Bestimmung der vorläufigen Sitzungsleitung
+- TOP 1.6: Bei Bedarf: erneut Feststellung der Beschlussfähigkeit des BAs
+- TOP 1.7: Beschlussfassung des BA über die endgültige TO (Teil A)
+- TOP 1.8: Bildung eines Wahlvorstands durch Beschluss des BA
+- TOP 2: BA-Vorstand
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung der noch nicht vereidigten Mitglieder durch die / den BA-Vorsitzende*n
+- TOP 2.3: Wahl der / des 1. stellvertretenden Vorsitzenden
+- TOP 2.4: Wahl der / des 2. stellvertretenden Vorsitzenden
+- TOP 2.5: Beschlussfassung über die weitere Zusammensetzung des Vorstands
+- TOP 2.6: Ggf. Wahl der / des 1. Beisitzerin / Beisitzers
+- TOP 2.7: Ggf. Wahl der / des 2. Beisitzerin / Beisitzers
+- TOP 2.8: Ggf. Wahl einer Kassiererin / eines Kassierers
+- TOP 2.9: Ggf. BA-Beschluss über die Bildung sowie personelle Zusammensetzung eines „erweiterten BA-Vorstandes“
+- TOP 3: Bildung der Unterausschüsse
+- TOP 3.1: Beschluss über die
+- TOP 3.1.1.: Anzahl
+- TOP 3.1.2.: Zuständigkeit / Ressortverteilung
+- TOP 3.1.3.: Größe der Unterausschüsse
+- TOP 3.1.4.: Fraktionszusammenschlüsse / Ausschussgemeinschaften abfragen
+- TOP 3.2: Beschluss über Benennung der UA-Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.3: Wahl der / des Vorsitzenden des jeweiligen UA
+- TOP 3.4: Ggf. Beschluss über die Benennung von stellvertretenden UA-Vorsitzenden
+- TOP 3.5: Ggf. Beschluss des BA, dass die für den Stadtrat geltende Ferienzeit gemäß § 7 Abs. 2 Satz 1 GeschO des Stadtrats für den BA gelten soll + Bildung eines Ferienausschusses (§ 22a BA-Satzung)
+- TOP 3.5.1.: Beschlussfassung über Größe
+- TOP 3.5.2.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 3.5.3.: Wahl der / des Vorsitzenden
+- TOP 3.5.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 4: Benennung von Beauftragten
+- TOP 4.1: Benennung einer / eines Kinderbeauftragten
+- TOP 4.2: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 4.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 4.4: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 4.5: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 4.6: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 4.7: Ggf. Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO)
+- TOP 5: Berufung von Betreuer*innen für die BA-Schaukästen
+- TOP 5.1: Schaukasten Piuskirche
+- TOP 5.2: Schaukasten Ampfingstraße
+- TOP 5.3: Schaukasten Baumkirchner Straße
+- TOP 6: Verschiedenes
+- TOP 6.1.: Bestätigung des Sitzungslokals und der restlichen Sitzungstermine 2026
+- TOP 6.2.: Grundsatzbeschlüsse (z.B. zu Hybridsitzungen, zur Durchführung von Live-Streams; Delegationsbefugnis des Vorstands, § 7a BA-GeschO Neufassung, BA-Newsletter)
+- TOP B: Arbeitssitzung des neuen Bezirksausschusses
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Josephsburgstr. 73a - Mehrfamilienhaus mit Tiefgarage (als Ersatzbau für baufälligen Bestandswohnungsbau)
+- TOP 3.1.2.: Plankensteinstr. 6 - Neubau eines Mehrfamilienwohnhauses mit Tiefgarage
+- TOP 3.1.3.: Sonnbergstr. 16 - Abriss des Bestandsgebäudes und Neubau eines Wohnhauses mit 2 Wohneinheiten in Holzbauweise
+- TOP 3.1.4.: Pilotprogramm von Mülleimern mit Hand- oder Fußöffnung in Berg am Laim; Anliegen aus der Bürgerschaft
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage: "Stadtteilwoche Berg am Laim - Stadtteilkulturfestival" vom 25.06. - 01.07.2026 an der St.-Veit-Straße; Anhörung des Kreisverwaltungsreferats, Frist bis zum 09.06.2026
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Regionales Netzwerk für soziale Arbeit in München (REGSAM) Wiedereröffnungsfest Jugendcontainer Berg am Laim am 12.06.2026 1.900,0 €; Az. 0262.100-14-0502
+- TOP 3.5.2.: Verankerung eines Tierschutzbeauftragten im Bezirksausschuss Berg am Laim ab der nächsten Amtsperiode; Antrag der CSU-Fraktion - vertagt aus der Plenumssitzung vom 24.02.2026 -
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Josephsburgstr. 73a
+- TOP 3.6.2.: Hansjakobstr. 119
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Trinkgelegenheiten für Wildtiere auf versiegelten Flächen im Stadtteil Berg am Laim, Rückschreiben vom Baureferat
+- TOP 4.1.2.: Kommunale Wärmeplanung - Ergebnisbericht
+- TOP 4.1.3.: Instandhaltung von Flurkreuzen
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Erhöhung der Verkehrssicherheit an der Kreuzung Kreillerstraße / St.-Veit-Straße
+- TOP 4.2.2.: Friedenstraße bei Baustellen zweispurig befahrbar halten - vertagt aus der Plenumssitzung vom 31.03.2026 -
+- TOP 4.2.3.: Baustelleneinrichtung und Zufahrt für die Grünfläche am Josef-Ritz-Weg
+- TOP 4.2.4.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage, Standort Aschheimer Str. 30
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Bestätigung und Flächenreservierung der Grünfläche an der Bad-Kreuther-Str. - „Kulturveranstaltung Kindertheatervorstellung“ am 10.07.2026
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Sturmiusweg 44
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
