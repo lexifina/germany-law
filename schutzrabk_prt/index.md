@@ -1,2 +1,0 @@
-# Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen
-Republik auf dem Gebiet des gewerblichen Rechtsschutzes

@@ -1,2 +1,0 @@
-# Übereinkommen über die Verhütung, Verfolgung und Bestrafung von
-Straftaten gegen völkerrechtlich geschützte Personen einschließlich Diplomaten

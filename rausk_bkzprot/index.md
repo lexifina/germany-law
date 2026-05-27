@@ -1,2 +1,0 @@
-# Zusatzprotokoll zum Europäischen Übereinkommen betreffend Auskünfte über
-ausländisches Recht

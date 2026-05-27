@@ -1,2 +1,0 @@
-# Abkommen zwischen der Bundesrepublik Deutschland und der Französischen
-Republik über die Beilegung von Streitigkeiten bei Direktbeschaffungen

@@ -1,2 +1,0 @@
-# Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der
-Niederlande über die Regelung der Zusammenarbeit in der Emsmündung

@@ -1,2 +1,0 @@
-# Internationales Übereinkommen über das Harmonisierte System zur
-Bezeichnung und Codierung der Waren

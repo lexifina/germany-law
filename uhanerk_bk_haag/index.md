@@ -1,2 +1,0 @@
-# Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen
-auf dem Gebiet der Unterhaltspflicht gegenüber Kindern

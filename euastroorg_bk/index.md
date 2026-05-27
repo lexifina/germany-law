@@ -1,2 +1,0 @@
-# Übereinkommen zur Gründung einer Europäischen Organisation für
-Astronomische Forschung in der Südlichen Hemisphäre

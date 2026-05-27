@@ -1,1 +1,0 @@
-# Protokoll über die Zentralisierung des Europäischen Patentsystems und seine Einführung

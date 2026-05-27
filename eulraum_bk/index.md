@@ -1,2 +1,0 @@
-# Übereinkommen über die Erhaltung der europäischen wildlebenden Pflanzen
-und Tiere und ihrer natürlichen Lebensräume

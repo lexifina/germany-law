@@ -1,2 +1,0 @@
-# Gesetz zu dem Europäischen Übereinkommen vom 10. Mai 1979 über den Schutz
-von Schlachttieren

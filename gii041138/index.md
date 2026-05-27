@@ -1,2 +1,0 @@
-# Gesetz zu dem Übereinkommen vom 9. September 2002 über die
-Vorrechte und Immunitäten des Internationalen Strafgerichtshofs

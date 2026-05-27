@@ -1,2 +1,0 @@
-# Europäisches Übereinkommen über Gewalttätigkeit und Fehlverhalten
-von Zuschauern bei Sportveranstaltungen und insbesondere bei Fußballspielen

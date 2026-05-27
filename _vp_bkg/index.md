@@ -1,2 +1,0 @@
-# Gesetz zu dem Übereinkommen vom 21. März 1983 über die Überstellung
-verurteilter Personen

@@ -1,2 +1,0 @@
-# Gesetz zu dem Übereinkommen vom 20. August 1971 über die Internationale
-Fernmeldesatellitenorganisation "INTELSAT"

@@ -1,1 +1,0 @@
-# Erklärungen zur Strafgerichtsbarkeit

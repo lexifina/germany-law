@@ -1,1 +1,0 @@
-# Schlußprotokoll zur Vollzugsordnung zum Postanweisungsübereinkommen

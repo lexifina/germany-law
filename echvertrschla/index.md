@@ -1,1 +1,0 @@
-# Schlußakte der Europäischen Energiechartakonferenz

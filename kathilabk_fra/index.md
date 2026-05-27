@@ -1,3 +1,0 @@
-# Abkommen zwischen der Bundesrepublik Deutschland und der Französischen
-Republik über die gegenseitige Hilfeleistung bei Katastrophen oder schweren
-Unglücksfällen

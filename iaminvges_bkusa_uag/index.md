@@ -1,2 +1,0 @@
-# Gesetz zu dem Übereinkommen vom 19. November 1984 zur Errichtung der
-Interamerikanischen Investitionsgesellschaft

@@ -1,1 +1,0 @@
-# Schlußprotokoll zum Postpaketabkommen
