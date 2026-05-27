@@ -1,31 +1,51 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 10/20
+# Der Runderlass richtet sich an: die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Nachrichtlich an:
 
 - Herausgeber: Land Brandenburg
-- Datum: 2026-05-15 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tl_fug_stb_24
+- Datum: 2026-05-27 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/hiu_4__fortschr_2026
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Außerkrafttreten technischer Regelwerke für das Straßenwesen im Land Brandenburg -  Technische Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU), 4. Fortschreibung 2025
 
-vom 15. Mai 2026
+vom 27. Mai 2026
 
-(ABl./26, [Nr. 22], S.487)
+(ABl./26, [Nr. 24], S.517)
 
-Der Runderlass richtet sich an
+Der Runderlass richtet sich an:
 
 die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 10/2024 vom 2. April 2024 (VkBl. S. 362) hat das Bundesministerium für Digitales und Verkehr die „Technischen Lieferbedingungen für Fugenfüllstoffe und Fugenfüllsysteme in Verkehrsflächen, Ausgabe 2024 (TL Fug-StB 24)“ bekannt gegeben.
+Nachrichtlich an:
 
-Gemäß Runderlass des Ministeriums für Infrastruktur und Landesplanung „Einführung technischer Regelwerke und Erlasse des Bundes im Straßenbau des Landes Brandenburg; Sachgebiete Erd- und Grundbau, Entwässerung, Straßenbefestigungen, Straßenbaustoffe, Straßenerhaltung“ vom 12. April 2021 (ABl. S. 378) gilt das Allgemeine Rundschreiben Nummer 10/2024 automatisch einen Monat nach Veröffentlichung im Amtsblatt des Bundesministeriums für Digitales und Verkehr (Verkehrsblatt) als verbindlich eingeführt für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Bundesfernstraßen und Landesstraßen. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen. Gesonderte brandenburgische Regelungen werden nicht getroffen.
+Landesrechnungshof Brandenburg
 
-Die TL Fug-StB 24 ersetzen die bisherigen „Technischen Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)“ zum Stichtag 1. Juni 2026.
+Städte- und Gemeindebund Brandenburg
 
-Der folgende Runderlass wird hiermit zum 1. Juni 2026 aufgehoben:
+Landkreistag Brandenburg
 
-„Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)“ vom 20. Dezember 2016 (ABl. 2017 S. 34).
+DEGES
+
+Die „Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU)“ sollen eine nachvollziehbare und auf den gleichen Grundsätzen aufbauende Vorgehensweise für die Erstellung und Prüfung von lärm- und luftschadstofftechnischen sowie erschütterungstechnischen Untersuchungen im Rahmen der Entwurfsplanung und Planfeststellung von Straßenbauvorhaben im Land Brandenburg gewährleisten.
+
+Der Aktualisierungsbedarf der 1999 erstmals eingeführten HiU ergibt sich fortlaufend durch die Änderung von Gesetzen, technischen Regelwerken, Methoden und neuen fachlichen Erkenntnissen. Diese nunmehr 4. Fortschreibung mit Stand 08/2025 wurde aufgrund folgender Punkte durchgeführt:
+
+Aktualisierung der bestehenden Themenkomplexe und Anpassung an neue Regelwerke und Vorschriften
+
+Ergänzung des Themenbereichs Lärm um Gesamtlärm und Lärm im nachgeordneten Netz
+
+Erweiterung um Themenkomplexe Baulärm an Verkehrsanlagen und (Bau-)Erschütterungen durch bauliche Tätigkeiten an Verkehrsanlagen
+
+Hiermit werden die „Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU)“, Stand 08/2025 für den Bereich der Bundes- und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+
+Der Runderlass „Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Immissionsschutz - Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU)“ vom 16. November 2016 (ABl. S. 1555) wird hiermit aufgehoben.
+
+Die HiU wird fortlaufend an neue Entwicklungen und Erkenntnisse angepasst. Der aktuelle Stand der HiU steht unter der Internetadresse des Landesbetriebs Straßenwesen Brandenburg https://www.ls.brandenburg.de als Download zur Verfügung.
+
+Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse https://bravors.brandenburg.de/de/vorschriften_schnellsuche eingestellt.
+
+Dieser Erlass tritt mit seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
