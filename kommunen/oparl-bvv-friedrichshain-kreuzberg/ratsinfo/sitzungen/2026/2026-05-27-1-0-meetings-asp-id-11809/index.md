@@ -1,0 +1,152 @@
+# Öffentliche Sitzung der BVV Friedrichshain-Kreuzberg
+
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Beginn: 2026-05-27T18:00:00+02:00
+- Ende: 2026-05-27T22:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- Ratsinformationssystem: https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=11809
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=11809
+- Quelle: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen des Bezirksverordnetenvorstehers - (offen)
+- TOP 2: Abstimmung über die Dringlichkeiten - gegenstandslos
+- TOP 3: Beschlussfassung zur Konsensliste des Ältestenrates - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bestätigung der Tagesordnung - erledigt
+- TOP 5: Initiativen von Kindern und Jugendlichen (JuKG) - erledigt
+- TOP 6: Einwohner*innenanfragen - (offen)
+- TOP 6.1: EA156 - Sicherung von Klimaschutz, Artenschutz und planungsrechtlicher Steuerung auf dem Ratiborgelände (Block 149) - gegenstandslos
+- TOP 6.2: EA157 - Straßenverkehr Kreuzung Boxhagener Str./Neue Bahnhofstrasse 10245 - gegenstandslos
+- TOP 6.3: EA158 - Wassertorstr 65 - beantwortet
+- TOP 6.4: EA159 - Rohre Modersohnbrücke - beantwortet
+- TOP 6.5: EA160 - Konzept Grillfläche Neuer hain im Friedrichshain - beantwortet
+- TOP 7: Resolutionen - (offen)
+- TOP 7.1: Keine Kürzungen bei der Jugendhilfe und Eingliederungshilfe - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Ausstattung des Neubaus des Hertz-Gymnasiums mit neuem Mobiliar sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplan VI-150g-2a VE „Wohnhochhaus (WoHo)“ mit dem Geltungsbereich Grundstück Schöneberger Straße 22 (Flurstück 2340, Flur Nr. 5) sowie grundstücksangrenzende Verkehrsflächen der Schöneberger Straße (Flurstück 2357, Flur Nr. 5) bis zur Mitte des Straßenraumes im Bezirk Friedrichshain-Kreuzberg, Ortsteil Kreuzberg - in der BVV abgelehnt
+- TOP 8.2: Vorhabenbezogener Bebauungsplan VI-150g-2a VE „Wohnhochhaus (WoHo)“ mit dem Geltungsbereich Grundstück Schöneberger Straße 22 (Flurstück 2340, Flur Nr. 5) sowie grundstücksangrenzende Verkehrsflächen der Schöneberger Straße (Flurstück 2357, Flur Nr.5) bis zur Mitte des Straßenraumes im Bezirk Friedrichshain-Kreuzberg, Ortsteil Kreuzberg - in der BVV abgelehnt
+- TOP 8.3: Vorhabenbezogener Bebauungsplan VI-150g-2a VE „Wohnhochhaus (WoHo)“ mit dem Geltungsbereich Grundstück Schöneberger Straße 22 (Flurstück 2340, Flur Nr. 5) sowie grundstücksangrenzende Verkehrsflächen der Schöneberger Straße (Flurstück 2357, Flur Nr.5) bis zur Mitte des Straßenraumes im Bezirk Friedrichshain-Kreuzberg, Ortsteil Kreuzberg Hier: Festsetzung des vorhabenbezogenen Bebauungsplans VI-150g-2a VE durch die BVV - vertagt
+- TOP 8.4: Keine WoHo-Entscheidung an der BVV vorbei - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: "Schlafende Riesen wecken": SEZ und Hafenplatz zu Modellprojekten des behutsamen Stadtumbaus im Programm der IBA 34/37 machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Mehringdamm - in Regenbogenfarben gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Modellprojekt zur Schaffung inklusiver Arbeitsplätze in der Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Task Force Schrottfahrrad einrichten - Fahrradleichen künftig verbindlich binnen sieben Tagen entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Aufteilung von Infrastrukturinvestitionen aus dem Sondervermögen des Bundes - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: "Gut gewickelt im Kiez - auch auf dem Spielplatz" - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Wegebeleuchtung im Theodor-Wolff-Park - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Ermöglichung Gedenkzeichen und Einweihung Eva-Mamlok-Platz gemäß Beschluss der BW DS/1448/VI vom 25.6.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - erledigt
+- TOP 11.1: Unterstützung für Careleaver*innen – wie geht es in Friedrichshain-Kreuzberg weiter für junge Menschen mit dem 18. Geburtstag, die unter Obhut der Jugendhilfe aufwachsen? - beantwortet
+- TOP 11.2: Abstimmung gemäß § 21 Abs. 9 GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Fortsetzung am 04.06.2026 - (offen)
+- TOP 12: Mündliche Anfragen I - (offen)
+- TOP 12.1: Görlitzer Brücken erhalten statt Zäune bauen. - beantwortet
+- TOP 12.2: Räumung Obdachloser ohne Sozialarbeit? - beantwortet
+- TOP 12.3: Drogen, Müll, ... am Halleschen Tor - beantwortet
+- TOP 12.4: Neuer Hain- Grillwiese außer Rand und Band - beantwortet
+- TOP 12.5: Verkehrschaos statt Verkehrsleitung: Abschaffung des Linksabbiegers am Frankfurter Tor - beantwortet
+- TOP 12.6: Es schimmelt in der Kinderdusche - beantwortet
+- TOP 12.7: Wie steht's um die Gartenarbeitsschule? - schriftlich beantwortet
+- TOP 12.8: Leerung der Glascontainer in ganz Friedrichshain-Kreuzberg - schriftlich beantwortet
+- TOP 12.9: Kundenberatung während der Reparaturphase der Fahrstühle im Rathaus Kreuzberg - schriftlich beantwortet
+- TOP 12.10: Veranstaltungen bzw. Versammlungen zum 1. Mai in Xhain - schriftlich beantwortet
+- TOP 12.11: Karl-Marx-Allee: Mittelstreifen für Parkplätze nutzen? - schriftlich beantwortet
+- TOP 12.12: Sitzbänke im öffentlichen Raum - auch barrierefrei - schriftlich beantwortet
+- TOP 12.13: Wann kommt das Gastarbeiter:innen-Denkmal nach Kreuzberg? - schriftlich beantwortet
+- TOP 12.14: Haushaltsdefizit - mit großen Schritten zum Konsolidierungsbezirk? - beantwortet
+- TOP 12.15: Entfernung von Plakaten im Zusammenhang mit den Volksbegehren "Berlin autofrei" und "Berlin werbefrei" - schriftlich beantwortet
+- TOP 12.16: Recht der Mitarbeiter:innen auf dienstliche Beurteilungen - schriftlich beantwortet
+- TOP 12.17: Geschäftsordnungsantrag - ohne Änderungen in der BVV beschlossen
+- TOP 13: Konsensliste des Ältestenrates - (offen)
+- TOP 13.1: Unkomplizierte Errichtung von Stromzugängen in Parks und an öffentlichen Plätzen! - überwiesen
+- TOP 13.2: Skulpturenweg „Menschenlandschaft“ - überwiesen
+- TOP 13.3: Lastenräderinfrastruktur verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Investitionsstopp nützlich gestalten – bezirkseigene Grundstücke am Ostbahnhof für Safe Place-Projekt verwenden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Umsetzung des Konzeptes „Safe Places“ im Bezirk nicht zu klein denken – schnelle Flächensuche gemeinsam betreiben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Schulwegsicherheit und Klimaschutz im Friedenstraßen-Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Sondernutzungsgebühren für den Betrieb von E-Rollern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Keine Sondernutzungen des öffentlichen Straßenlandes für Lieferdienste! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Denkmalschutzsonderprogramm XII für Baerwaldbad nutzen - überwiesen
+- TOP 13.10: Schüler*innenHaushalt jetzt schon mitdenken - Titel im Bezirkshaushalt 2024/25 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Wirtschaftsstrafgesetz gegen Mietwucher auch in Friedrichshain-Kreuzberg anwenden! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Bessere Absicherung von Fahrradstraßen - hier Fahrradstraße Palisadenstraße - Weidenweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.13: EwA - für einen verkehrsberuhigten Modersohn-Kiez und die Forderung, die Verkehrssicherheit zu verbessern, Fuß- und Radverkehr zu stärken, das Zusammenwachsen von Rudolf- und Laskerkiez zu ermöglichen und die Lebens- und Aufenthaltsqualität zu erhöhen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.14: Sachstand zum Neubau des Heinrich-Hertz-Gymnasiums am Ostbahnhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Carl-von-Ossietzky-Schule als Zentrum für bezahlbare, dezentrale, fossilfreie Quartierswärme - überwiesen
+- TOP 13.16: Rechtsgutachten zum Rahmenvertrag Urbane Mitte prüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Prüfung einer möglichen Fassadenbegrünung der Fichtelgebirge-Grundschule in Kooperation mit der Anwohnerschaft - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.18: Planungsrecht für den Bezirk - Neuanfang für Karstadt am Hermanplatz jetzt! - überwiesen
+- TOP 13.19: Sanierung des Sportplatzes bzw. Tennisplatzes an der Lohmühle - überwiesen
+- TOP 13.20: Gemeinschaftsschule auf dem ehemaligen SEZ-Gelände - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.21: Urbane Mitte neu denken: Bebauungsplanverfahren ergebnisoffen gestalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.22: Terminplanungen des Bezirksamts parallel zur BVV - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.23: Optimale Nutzung des SEZ-Gebäudes und Geländes für Schulbau, Wohnungsbau und soziale und sportliche Zwecke ermöglichen - überwiesen
+- TOP 13.24: Schulstandort Reinhardswald-Grundschule erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.25: Kynaststraße endlich sicher für alle Verkehrsteilnehmenden machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.26: Für Vielfalt - Queeres Leben in Friedrichshain-Kreuzberg verstärkt schützen und unterstützen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.27: Skulpturenweg "Menschenlandschaft" - Sondermittel der BVV - überwiesen
+- TOP 13.28: EwA - Für sichere (Schul-)wege zwischen Yorck- und Kreuzbergstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.29: Vielfältiger Bezirk = vielfältige Grundschulen? Vielfältige Einschulungsbereiche fördern! - überwiesen
+- TOP 13.30: Mehr Schulwegsicherheit im Comeniuskiez - Einrichtung Zebrastreifen Kreuzung Grünberger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.31: Fuß- und Radweg auf dem Postscheckamt-Areal aus dem B-Plan VI-46-1 streichen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.32: Pilotprojekt: Behutsame Stadterneuerung am Hafenplatz - überwiesen
+- TOP 13.33: Weisung zurücknehmen - Zuständigkeit des B-Plans Urbane Mitte Nord bei Bezirk belassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.34: E-Scooter sollen für Jelbi-Stationen zahlen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.35: Werbung am Baugerüst einschränken - Mieterinteressen schützen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.36: Was der Bezirk und Vermieter*innen wissen, müssen auch die Mieter*innen wissen - für mehr bezirkliche Informationen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.37: Keine Eröffnung des 16. Bauabschnitts der A100 vor Abschluss der Bauarbeiten an der Elsenbrücke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.38: Überprüfung des Denkmalschutzes beim SEZ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.39: Wohnhaus Reichenberger Str. 176 in die AG Problemimmobilien aufnehmen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.40: Temporäre Zwischennutzungen des Baerwaldbades ermöglichen - überwiesen
+- TOP 13.41: Bezirk lehnt Hochhaus in der Rudolfstraße ab! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.42: Spielstraßen gut ausstatten II. ! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.43: Zweite Briefwahlstelle einrichten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.44: Integriertes Entwicklungskonzept (iEK) Rudolfband - ohne Änderungen in der BVV beschlossen
+- TOP 13.45: Xhain braucht keine weiteren Hotels! Gegen den Hotelbau auf dem Grundstück Laskerstraße 1 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.46: A100-Chaos beenden: Sofortige Sperrung des 16. Abschnitts und Sicherstellung des umfassenden Busbetriebs - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.47: Erweiterung der Parkraumbewirtschaftung auf die Blücherstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.48: Einberufung einer Einwohner*innenversammlung zu den aktuellen Hochhausplanungen rund um die Warschauer Brücke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.49: Konservierende Maßnahmen an den Skulpturen der Menschenlandschaft Berlin - überwiesen
+- TOP 13.50: Konservierende Maßnahmen an den Skulpturen der Menschenlandschaft Berlin - überwiesen
+- TOP 13.51: Geschichts- und Lernort Kreuzberg (GLOX) auf dem Dragonerareal - überwiesen
+- TOP 13.52: Anwohnende in der Zossener- und Friesenstraße vor Lärm schützen - Verkehrssicherheit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 13.53: Dezentrale Beschulung geflüchteter Kinder und Jugendlicher aus der Unterkunft an der Hasenheide sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.54: Barrierefreiheit - Mängelbeseitigung - überwiesen
+- TOP 13.55: Blutspenden in Friedrichshain-Kreuzberg niedrigschwellig und regelmäßig ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.56: Unterstützung von Lieferdienst-Ridern durch Zugang zu Sanitäranlagen in gastronomischen Betrieben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.57: Sicherung des soziokulturellen L auf dem RAW und seiner Betreiber – Bebauungsplanverfahren zügig abschließen und Mietperspektiven schaffen - überwiesen
+- TOP 13.58: Bebauungsplan 2-56B - Geänderter neuer Titel: Bebauungsplan 2-56E für die Grundstücke Modersohnstraße 33, 35, 37, 39, 41, 43, 45, 47, Markgrafendamm 24, 25, Laskerstraße 1A, 1, 5, Bödikerstraße 25, Bödikerstraße 26/ Persiusstraße 6, Persiusstraße 7 im Bezirk Friedrichshain-Kreuzberg, Ortsteil Friedrichshain. - ohne Änderungen in der BVV beschlossen
+- TOP 13.59: Neuordnung der Schuleinzugsgebiete in Friedrichshain mit umfassender Beteiligung aller Schulgemeinschaften gestalten - überwiesen
+- TOP 13.60: Ganzjähriges Böllerverbot im gesamten Bezirk Friedrichshain-Kreuzberg - ohne Änderungen in der BVV beschlossen
+- TOP 13.61: Anschaffung von barrierefreien Spielgeräten auf den Spielplätzen im Bezirk durch den Aktionsplan Teilhabe und Barrierefreiheit - ohne Änderungen in der BVV beschlossen
+- TOP 13.62: Prüfauftrag der Nutzung der Rollläden am ehemaligen Rathaus Kreuzberg (Yorckstraße) - ohne Änderungen in der BVV beschlossen
+- TOP 13.63: Prüfauftrag für Nutzung bezirklicher Flächen für Street Art und Graffiti - ohne Änderungen in der BVV beschlossen
+- TOP 13.64: Reparatur des Fahrstuhls im Rathaus Kreuzberg für Personen mit Rollstühlen, Rollatoren und Kinderwagen - ohne Änderungen in der BVV beschlossen
+- TOP 13.65: Verstärkte Kontrollen und Maßnahmen gegen dauerhaft abgestellte Wohnmobile in der Lilienthalstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.66: Verkehrsfluss am Frankfurter Tor sichern - Wohngebiete entlasten, Linksabbieger wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.67: Die Widerstandskämpferin Eva Mamlok angemessen ehren - Umbenennung des Blücherplatzes in Eva-Mamlok-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 13.68: Rechtliche Bestimmungen Wahlwerbung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.69: Neues Quartiersmanagement-Gebiet „Askanischer Platz“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.70: Antrag auf Bürgerbeteiligungsmittel - ohne Änderungen in der BVV beschlossen
+- TOP 13.71: Sauberkeit erhöhen - Mehr öffentliche Müllbehälter in Xhain - überwiesen
+- TOP 13.72: Begradigung der Bezirksgrenze am Bethaniendamm - Baumhaus an der Mauer dem Bezirk Fried-richshain-Kreuzberg zuordnen - überwiesen
+- TOP 13.73: Erfahrungsberichte 2025 der Patientenfürsprecherin und Patientenfürsprecher - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.74: Benennung eines Platzes nach Kadiköy-Platz anlässlich des 30-jährigen Bestehens der Städtepartnerschaft - überwiesen
+- TOP 13.75: Informationstafel zur "Pamukkale"-Anlage im Görlitzer Park - überwiesen
+- TOP 13.76: Tempo 30 an hochfrequentierten Schulwegen und in unmittelbaren Bereichen von Schulen prüfen - überwiesen
+- TOP 13.77: Bessere Aufenthaltsqualität am Platz der Vereinten Nationen - überwiesen
+- TOP 13.78: Einrichtung von Zebrastreifen an der Kreuzung Ritterstraße / Lobeckstraße im Stadtteil Kreuzberg - überwiesen
+- TOP 13.79: Missbilligung des Stadtrats Florian Schmidt - ohne Änderungen in der BVV beschlossen
+- TOP 13.80: Energiekosten im Öffentlichen Wohnungsbau durch Balkonkraftwerke senken! - überwiesen
+- TOP 13.81: Verkehrssicherheit umsetzen - Zusagen einhalten! - überwiesen
+- TOP 13.82: Parkzone 54 am Platz der Vereinten Nationen anpassen - überwiesen
+- TOP 13.83: Baustellen und Sperrungen in Echtzeit sichtbar machen - Open Data für eine funktionierende Stadt im Alltag - überwiesen
+- TOP 13.84: Abschluss der trilateralen Zielvereinbarung 2026 für das Jobcenter Berlin Friedrichshain- Kreuzberg zwischen der Regionaldirektion Berlin-Brandenburg der Bundesagentur für Arbeit, der Agentur für Arbeit Berlin Mitte, dem kommunalen Träger im Land Berlin und dem Jobcenter Berlin Friedrichshain-Kreuzberg - überwiesen
+- TOP 13.85: Bezirkshaushaltsrechnung des Bezirks Friedrichshain-Kreuzberg für das Haushaltsjahr 2024 - überwiesen
+- TOP 13.86: Bibliotheksentwicklungsplan für Friedrichshain-Kreuzberg 2026-2029 - zur Kenntnis genommen (Beratungsfolge beendet)
