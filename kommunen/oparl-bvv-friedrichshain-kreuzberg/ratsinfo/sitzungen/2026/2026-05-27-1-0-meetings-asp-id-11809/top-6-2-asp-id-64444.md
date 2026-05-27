@@ -1,0 +1,8 @@
+# TOP 6.2: EA157 - Straßenverkehr Kreuzung Boxhagener Str./Neue Bahnhofstrasse 10245
+
+- Sitzung: Öffentliche Sitzung der BVV Friedrichshain-Kreuzberg (2026-05-27)
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/agendaItems.asp?id=64444
+- Ergebnis: gegenstandslos
+- Beratung: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=64444
