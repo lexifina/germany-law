@@ -1,0 +1,8 @@
+# TOP -: Beantwortung einer Anfrage der AfD in der Stadtarbeitsgemeinschaft Queerpolitik zu Absetzung eines ehrenamtlichen Gruppenleiters beim Verein rubicon e. V.
+
+- Sitzung: 2. Sitzung der Stadtarbeitsgemeinschaft Queerpolitik (2026-05-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/444372
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/203744
