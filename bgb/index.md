@@ -2408,9 +2408,6 @@ des Gesamtguts durch die Ehegatten
 
 - [§ 1519 Vereinbarung durch Ehevertrag](1519.md)
 - [(XXXX) §§ 1520 bis 1557 (weggefallen)](xxxx-1520-bis-1557.md)
-
-##### Untertitel 3 (weggefallen)
-
 - [(XXXX) §§ 1558 bis 1563 (weggefallen)](xxxx-1558-bis-1563.md)
 
 #### Titel 7 Scheidung der Ehe
