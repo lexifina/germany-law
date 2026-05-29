@@ -5,7 +5,7 @@
 - [§ 3 Unterrichtung bei Nichtkonformität eines Geräts oder einer Ausrüstung](0003.md)
 - [§ 4 Nichtkonformität eines Geräts oder einer Ausrüstung in einem anderen Mitgliedstaat der Europäischen Union](0004.md)
 - [§ 5 Unterrichtung bei Risiken trotz Konformität eines Geräts oder einer Ausrüstung](0005.md)
-- [§ 6 (weggefallen)](0006.md)
+- [§ 6 Notfallverfahren](0006.md)
 - [§ 7 Sprache der Gebrauchsanleitungen, der Sicherheitsinformationen und der EU-Konformitätserklärungen](0007.md)
 - [§ 8 Bußgeldvorschriften](0008.md)
 - [§ 9 Strafvorschriften](0009.md)
