@@ -1,0 +1,58 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2026-05-29T17:00:00+02:00
+- Ende: 2026-05-29T20:10:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZS88SuL5gS3rPgQALjqcb_k
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5379
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV7iMO9itOtfn29-HTabgc2P6ik1lWby8FdOCsMwfvmK/Einladung_Rat_29.05.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeEYtlhlt-2H2XlODRqltItIIKyTk7O7vQ1SlqQ8rMb2/Oeffentliche_Niederschrift_Rat_29.05.2026.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 13.04.2026
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.6a: Anregung zur Überprüfung der Festsetzung im Regionalplan - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6b: Antrag zur Einrichtung eines Stadttaubenmanagements - Nach einer längeren interfraktionellen Diskussion wird auf Antrag der SPD-Fraktion folgende Beschlussänderung mit 33 Stimmen dafür, elf Stimmen dagegen und zwei Enthaltungen beschlossen:
+- TOP A.7: Entscheidung zur Zulässigkeitsfeststellung des Bürgerbegehrens zur Mindener Str. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Prüfung und Bestätigung des Gesamtabschlusses 2021 der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Prüfung und Bestätigung des Gesamtabschlusses 2022 der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: Prüfung und Feststellung des Jahresabschlusses 2024, Ergebnisausgleich und Entlastung der Bürgermeisterin/ des Bürgermeisters - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Verpflichtung zur Aufstellung des Gesamtabschlusses zum 31. Dezember 2024 und des Gesamtlageberichtes für das Haushaltsjahr 2024 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Strategische Ziele der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12a: Antrag der Fraktion Die PARTEI/ UWG HBB: Ergänzung einer Überschrift zur Vorlage - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12b: Gemeinsamer Antrag der Fraktionen CDU und SPD: Aussetzung der bestehenden Planungen der GSS - Mit 28 Stimmen dafür, 17 Stimmen dagegen und ohne Enthaltung wird der Beschluss zu den strategischen Zielen wie folgt abgeändert:
+- TOP A.12c: Änderungsantrag der SPD-Fraktion zu den strategischen Zielen - Mit 38 Stimmen dafür, sieben Stimmen dagegen und ohne Enthaltung wird folgende Beschlussergänzung zu den strategischen Zielen beschlossen:
+- TOP A.13: Steuerung von Drittorganisationen:
+- TOP A.13a: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: Änderung des Gesellschaftsvertrages zur Teilnahme von beratenden Mitgliedern im Aufsichtsrat - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13b: Öffentlicher Personennahverkehr im Stadtgebiet Herford: 1) Neuordnung der Linienbündel im Kreis Herford 2) Anwendung des Deutschlandticket-Tarifs als Höchsttarif im Stadtgebiet Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13c: Anforderungen an die gesellschaftsrechtliche Organisationsstruktur der Westfalen Tarif GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13d: Westfalen Weser-Gruppe: Änderung der Rechtsform der Westfalen Weser Energieerzeugung GmbH & Co. KG sowie der Westfalen Weser Energiespeicher GmbH & Co. KG - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13e: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: Mögliche künftige Beteiligungsstrukturen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Gremienbesetzungen
+- TOP A.14a: Entsendung von beratenden und stellvertretenden beratenden Mitgliedern des Seniorenbeirates in städtische Ausschüsse gem. § 3 der Satzung des Seniorenbeirates. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14b: Nachbesetzung im Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14c: Gestaltungsbeirat des Rates der Hansestadt Herford - Mit 42 Stimmen dafür, vier Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14d: Benennung beratender Mitglieder des Schulausschusses: Besetzung der Vertretungen für die Evangelische Kirche - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14e: Antrag der Fraktion Bündnis 90/ Die Grünen: Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14f: Antrag der Fraktion Bündnis 90 / Die Grünen: Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14g: Gremienumbesetzung der FDP-Fraktion - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Stellungnahme der Verwaltung zu einer Herford-App
+- TOP A.16: Antrag auf Tonabbau und Wiederverfüllung in der Gemarkung Diebrock Hier: gemeindliches Einvernehmen gem. § 36 BauGB - Mit 36 Stimmen dafür, neun Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Sicherheit bei Veranstaltungen
+- TOP A.18: Neubau einer 2-fach–Sporthalle in Elverdissen hier: Totalunternehmerausschreibung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Anpassung der Benutzungs- und Entgeltordnung für die Vergabe von Räumen im Bürgerzentrum Haus unter den Linden (HudL) - Mit 44 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Bebauungsplan Nr. 7.69 „Am Hainkamp/Tilkerbrink“ Hier: Satzungsbeschluss - Mit 36 Stimmen dafür, acht Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Flächennutzungsplanänderung Nr. 3. 20 „Erweiterung Gewerbegebiet Diebrock" hier: Feststellungsbeschluss - Mit 36 Stimmen dafür, acht Stimmen dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Antrag der FDP zur Einführung eines kostenlosen Schülertickets für alle SuS - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22a: Ergänzungsantrag der Fraktion Bündnis 90/ Die Grünen zum kostenlosen Schülerticket - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.23: Mitteilungen
