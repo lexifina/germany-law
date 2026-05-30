@@ -1,0 +1,18 @@
+# Gesetz zur Anwendung und Durchsetzung der Datenverordnung
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Zuständige Behörde; Aufgaben](0002.md)
+- [§ 3 Zuständige Datenschutzaufsichtsbehörde und Zusammenarbeit mit der Bundesnetzagentur](0003.md)
+- [§ 4 Zusammenarbeit der Bundesnetzagentur mit anderen Behörden](0004.md)
+- [§ 5 Zulassung von Streitbeilegungsstellen; Verordnungsermächtigung](0005.md)
+- [§ 6 Befugnisse; Beschwerdeverfahren und sonstige Verfahren zur Durchsetzung von Verpflichtungen](0006.md)
+- [§ 7 Ermittlungen](0007.md)
+- [§ 8 Auskunftserteilung](0008.md)
+- [§ 9 Durchsetzung von Verpflichtungen](0009.md)
+- [§ 10 Geschäftsgeheimnisse](0010.md)
+- [§ 11 Vorläufige Anordnungen](0011.md)
+- [§ 12 Verfahrensabschluss; Gebühren](0012.md)
+- [§ 13 Information der Öffentlichkeit](0013.md)
+- [§ 14 Elektronische Kommunikation](0014.md)
+- [§ 15 Bußgeldvorschriften](0015.md)
+- [§ 16 Zuständige Bußgeldbehörde nach Artikel 40 Absatz 4 der Datenverordnung](0016.md)
