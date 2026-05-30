@@ -28,17 +28,25 @@
 - [§ 15 Konformitätsbewertungsverfahren für Aufzüge](0015.md)
 - [§ 16 Konformitätsbewertungsverfahren für Sicherheitsbauteile für Aufzüge](0016.md)
 
-## Abschnitt 4 Marktüberwachung
+## Abschnitt 4 Notfallverfahren
+
+- [§ 16a Anwendung der Notfallverfahren](0016a.md)
+- [§ 16b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Aufzügen und Sicherheitsbauteilen für Aufzüge](0016b.md)
+- [§ 16c Ausnahme von den Konformitätsbewertungsverfahren,bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist](0016c.md)
+- [§ 16d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen](0016d.md)
+- [§ 16e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden](0016e.md)
+
+## Abschnitt 5 Marktüberwachung
 
 - [§ 17 Korrekturmaßnahmen der Wirtschaftsakteure](0017.md)
 - [§ 18 Vorläufige Maßnahmen der Marktüberwachungsbehörde](0018.md)
 - [§ 19 Konforme Aufzüge oder Sicherheitsbauteile für Aufzüge, die ein Risiko darstellen](0019.md)
 - [§ 20 Formale Nichtkonformität](0020.md)
 
-## Abschnitt 5 Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 6 Ordnungswidrigkeiten und Schlussbestimmungen
 
 - [§ 21 Ordnungswidrigkeiten](0021.md)
-- [§ 22 Straftaten](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 - [§ 23 Übergangsvorschriften](0023.md)
 - [§ 24 Inkrafttreten, Außerkrafttreten](0024.md)
 - [Schlussformel](schlussformel.md)

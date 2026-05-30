@@ -14,6 +14,10 @@ Maschinen
 - [§ 5 Aufbewahrung und Übermittlung von Informationen aus der
 Konformitätsbewertung](0005.md)
 - [§ 6 Mitteilungspflichten](0006.md)
+- [§ 6a Anwendung der Notfallverfahren](0006a.md)
+- [§ 6b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Geräten und Maschinen](0006b.md)
+- [§ 6c Ausnahme von den Konformitätsbewertungsverfahren, bei denen die Einschaltung einer benannten Stelle vorgeschrieben ist](0006c.md)
+- [§ 6d Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden](0006d.md)
 
 ## Abschnitt 3 Betriebsregelungen für Geräte und
 Maschinen

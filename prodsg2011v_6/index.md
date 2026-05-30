@@ -20,15 +20,23 @@
 - [§ 11 Angabe der Wirtschaftsakteure](0011.md)
 - [§ 12 Konformitätsbewertungsverfahren](0012.md)
 
-## Abschnitt 3 Marktüberwachung
+## Abschnitt 3 Notfallverfahren
+
+- [§ 12a Anwendung der Notfallverfahren](0012a.md)
+- [§ 12b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Behältern](0012b.md)
+- [§ 12c Ausnahme von den Konformitätsbewertungsverfahren, bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist](0012c.md)
+- [§ 12d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen](0012d.md)
+- [§ 12e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden](0012e.md)
+
+## Abschnitt 4 Marktüberwachung
 
 - [§ 13 Korrekturmaßnahmen der Wirtschaftsakteure](0013.md)
 - [§ 14 Vorläufige Maßnahmen der Marktüberwachungsbehörde](0014.md)
 - [§ 15 Konforme einfache Druckbehälter, die ein Risiko darstellen](0015.md)
 - [§ 16 Formale Nichtkonformität](0016.md)
 
-## Abschnitt 4 Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 5 Ordnungswidrigkeiten und Schlussbestimmungen
 
 - [§ 17 Ordnungswidrigkeiten](0017.md)
-- [§ 18 Straftaten](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 - [§ 19 Übergangsvorschriften](0019.md)

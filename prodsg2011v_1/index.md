@@ -23,17 +23,23 @@
 - [§ 13 Einführer oder Händler als Hersteller](0013.md)
 - [§ 14 Angabe der Wirtschaftsakteure](0014.md)
 
-## Abschnitt 3 Marktüberwachung
+## Abschnitt 3 Notfallverfahren
+
+- [§ 14a Anwendung der Notfallverfahren](0014a.md)
+- [§ 14b Konformitätsvermutung auf der Grundlage von Normen und gemeinsamen Spezifikationen](0014b.md)
+- [§ 14c Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden](0014c.md)
+
+## Abschnitt 4 Marktüberwachung
 
 - [§ 15 Korrekturmaßnahmen der Wirtschaftsakteure](0015.md)
 - [§ 16 Vorläufige Maßnahmen der Marktüberwachungsbehörde](0016.md)
 - [§ 17 Konforme elektrische Betriebsmittel, die ein Risiko darstellen](0017.md)
 - [§ 18 Formale Nichtkonformität](0018.md)
 
-## Abschnitt 4 Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 5 Ordnungswidrigkeiten und Schlussbestimmungen
 
 - [§ 19 Ordnungswidrigkeiten](0019.md)
-- [§ 20 Straftaten](0020.md)
+- [§ 20 (weggefallen)](0020.md)
 - [§ 21 Übergangsvorschriften](0021.md)
 - [§ 22 Inkrafttreten, Außerkrafttreten](0022.md)
 - [Schlussformel](schlussformel.md)

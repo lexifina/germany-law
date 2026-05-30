@@ -1,4 +1,4 @@
-# Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)
+# Neunte Verordnung zum Produktsicherheitsgesetz
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
@@ -6,6 +6,11 @@
 - [§ 4 Konformitätsbewertungsverfahren für Maschinen](0004.md)
 - [§ 5 CE-Kennzeichnung](0005.md)
 - [§ 6 Voraussetzungen für die Bereitstellung von unvollständigen Maschinen auf dem Markt](0006.md)
+- [§ 6a Anwendung der Notfallverfahren](0006a.md)
+- [§ 6b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Maschinen](0006b.md)
+- [§ 6c Ausnahme von den Konformitätsbewertungsverfahren, bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist](0006c.md)
+- [§ 6d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen](0006d.md)
+- [§ 6e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden](0006e.md)
 - [§ 7 Marktüberwachung](0007.md)
 - [§ 8 Ordnungswidrigkeiten](0008.md)
 - [§ 9 Übergangsbestimmungen](0009.md)
