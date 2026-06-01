@@ -1,28 +1,28 @@
 # Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung
 
 - Herausgeber: Land Brandenburg
-- Datum: 2025-06-12 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2025
+- Datum: 2026-06-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreisindexzahl_2026
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Baupreisindexzahl für 2025
+Baupreisindexzahl für 2026
 
-vom 12. Juni 2025
+vom 19. Mai 2026
 
-(ABl./25, [Nr. 49], S.756)
+(ABl./26, [Nr. 23], S.507)
 
-Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch Verordnung vom 12. Mai 2021 (GVBl. II Nr. 50) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
+Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch Verordnung vom 25. November 2025 (GVBl. II Nr. 90) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
 
-Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,668.
+Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,575.
 
 Die sich daraus ergebenden fortgeschriebenen anrechenbaren Bauwerte werden in der nachstehenden Tabelle veröffentlicht.
 
 Tabelle der anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt
 
-gültig ab 1. Juni 2025
+gültig ab 1. Juni 2026
 
 | 
 
@@ -41,7 +41,7 @@ Anrechenbare Bauwerte
 
 in Euro/m3
 
-2025
+2026
 
 | 
 
@@ -56,7 +56,7 @@ Wohngebäude
 | 
 
 
-207
+228
 
 | 
 
@@ -71,7 +71,7 @@ Wochenendhäuser
 | 
 
 
-181
+200
 
 | 
 
@@ -81,12 +81,12 @@ Wochenendhäuser
 | 
 
 
-Büro- und Verwaltungsgebäude, Banken und Arztpraxen
+Büro- und Verwaltungsgebäude, Banken, Arztpraxen und therapeutische Praxen
 
 | 
 
 
-278
+306
 
 | 
 
@@ -101,7 +101,7 @@ Schulen
 | 
 
 
-263
+290
 
 | 
 
@@ -116,7 +116,7 @@ Kindertageseinrichtungen
 | 
 
 
-236
+260
 
 | 
 
@@ -131,7 +131,7 @@ Hotels, Pensionen, Wohnheime, Gebäude gemäß § 2 Absatz 4 Nummer 9 BbgBO, San
 | 
 
 
-236
+260
 
 | 
 
@@ -146,7 +146,7 @@ Hotels, Wohnheime, Gebäude gemäß § 2 Absatz 4 Nummer 9 BbgBO, Sanatorien üb
 | 
 
 
-274
+302
 
 | 
 
@@ -161,7 +161,7 @@ Krankenhäuser
 | 
 
 
-307
+339
 
 | 
 
@@ -176,7 +176,7 @@ Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 
 | 
 
 
-236
+260
 
 | 
 
@@ -191,7 +191,7 @@ Hallenbäder
 | 
 
 
-254
+280
 
 | 
 
@@ -201,7 +201,7 @@ Hallenbäder
 | 
 
 
-eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel-Konstruktionen sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19
+eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in Rahmen- oder Stiel-Riegel-Konstruktionen sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19
 
 | 
 
@@ -214,12 +214,12 @@ eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt-
 | 
 
 
-bis 5 000 m3 Brutto-Rauminhalt
+bis 5 000 m3 Brutto-Rauminhalt
 
 | 
 
 
-101
+110
 
 | 
 
@@ -229,12 +229,12 @@ bis 5 000 m3 Brutto-Rauminhalt
 | 
 
 
-der 5 000 m3 übersteigende Brutto-Rauminhalt bis 20 000 m3
+der 5 000 m3 übersteigende Brutto-Rauminhalt bis 20 000 m3
 
 | 
 
 
-86
+95
 
 | 
 
@@ -244,12 +244,12 @@ der 5 000 m3 übersteigende Brutto-Rauminhalt bis 20 000 m3
 | 
 
 
-der 20 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3
+der 20 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3
 
 | 
 
 
-71
+77
 
 | 
 
@@ -259,12 +259,12 @@ der 20 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3
 | 
 
 
-der 50 000 m3 übersteigende Brutto-Rauminhalt
+der 50 000 m3 übersteigende Brutto-Rauminhalt
 
 | 
 
 
-55
+61
 
 | 
 
@@ -274,12 +274,12 @@ der 50 000 m3 übersteigende Brutto-Rauminhalt
 | 
 
 
-andere eingeschossige Verkaufsstätten, Sportstätten
+konstruktiv andere eingeschossige Verkaufsstätten, Sportstätten
 
 | 
 
 
-155
+172
 
 | 
 
@@ -289,12 +289,12 @@ andere eingeschossige Verkaufsstätten, Sportstätten
 | 
 
 
-andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude
+konstruktiv andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude
 
 | 
 
 
-139
+153
 
 | 
 
@@ -309,7 +309,7 @@ mehrgeschossige Verkaufsstätten
 | 
 
 
-210
+232
 
 | 
 
@@ -324,7 +324,7 @@ mehrgeschossige Fabrik-, Werkstatt- und Lagergebäude
 | 
 
 
-183
+202
 
 | 
 
@@ -339,7 +339,7 @@ eingeschossige Garagen, ausgenommen offene Kleingaragen
 | 
 
 
-152
+167
 
 | 
 
@@ -354,7 +354,7 @@ mehrgeschossige Mittel- und Großgaragen
 | 
 
 
-183
+202
 
 | 
 
@@ -369,7 +369,7 @@ Tiefgaragen
 | 
 
 
-282
+310
 
 | 
 
@@ -384,7 +384,7 @@ Schuppen, Kaltställe, Nebengebäude für Abstellräume, offene Feldscheunen, of
 | 
 
 
-73
+80
 
 | 
 
@@ -407,12 +407,12 @@ Gewächshäuser
 | 
 
 
-bis 1 500 m3 Brutto-Rauminhalt
+bis 1 500 m3 Brutto-Rauminhalt
 
 | 
 
 
-55
+60
 
 | 
 
@@ -422,11 +422,11 @@ bis 1 500 m3 Brutto-Rauminhalt
 | 
 
 
-der 1 500 m3 übersteigende Brutto-Rauminhalt
+der 1 500 m3 übersteigende Brutto-Rauminhalt
 
 | 
 
 
-31
+35
 
-Zuschlag für Hallenbereiche mit Kranbahnen                                                               82 €/m2.
+Zuschlag bei Hallenbauten mit Kränen, bei denen der Standsicherheitsnachweis für die Kranbahnen geprüft werden muss, für den von den Kranbahnen erfassten Hallenbereich, vervielfacht mit der Indexzahl nach § 3 Absatz 1 Satz 2                                              91 €/m2.
