@@ -1,0 +1,5 @@
+# Zentralstelle Cybercrime Niedersachsen (ZCN AV)
+
+5.1 Für Ermittlungsverfahren betreffend Straftaten oder Ordnungswidrigkeiten nach den Nummern 2.1 bis 2.5, die zum Zeitpunkt des Inkrafttretens dieser AV bereits bei einer der vormals zuständigen Schwerpunktstaatsanwaltschaften in Göttingen, Osnabrück und Verden anhängig sind, ist die landesweite Zentralstelle ab dem 01.06.2026 zuständig.
+5.2 Straf- und Vollstreckungsverfahren, die zum Zeitpunkt des Inkrafttretens dieser AV bereits bei einer der vormals zuständigen Schwerpunktstaatsanwaltschaften in Göttingen, Osnabrück und Verden anhängig sind, werden bei der vormals zuständigen Schwerpunktstaatsanwaltschaft bis zum Abschluss der Vollstreckung weitergeführt.
+5.3. Für die Verwertung virtueller Währungen in Ermittlungs- und Vollstreckungsverfahren, die bis zum Zeitpunkt des Inkrafttretens dieser AV noch nicht abgeschlossen ist, bleibt die vormals zuständige Zentralstelle zur Verwertung virtueller Währungen in Göttingen, Osnabrück oder Verden bis zum Abschluss der Verwertung zuständig.
