@@ -159,7 +159,7 @@
 - [§ 62a Vollzug der Abschiebungshaft](0062a.md)
 - [§ 62b Ausreisegewahrsam](0062b.md)
 - [§ 62c Ergänzende Vorbereitungshaft](0062c.md)
-- [§ 62d Bestellung eines anwaltlichen Vertreters](0062d.md)
+- [§ 62d (weggefallen)](0062d.md)
 
 ## Kapitel 6 Haftung und Gebühren
 

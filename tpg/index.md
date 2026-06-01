@@ -8,7 +8,7 @@
 - [§ 1 Ziel und Anwendungsbereich des Gesetzes](0001.md)
 - [§ 1a Begriffsbestimmungen](0001a.md)
 - [§ 2 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweise](0002.md)
-- [§ 2a Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung](0002a.md)
+- [§ 2a Register für Erklärungen zur Organ- und Gewebespende](0002a.md)
 
 ## Abschnitt 2 Entnahme von Organen und Geweben bei toten Spendern
 
@@ -22,16 +22,18 @@
 ## Abschnitt 3 Entnahme von Organen und Geweben bei lebenden 
 Spendern
 
-- [§ 8 Entnahme von Organen und Geweben](0008.md)
-- [§ 8a Entnahme von Knochenmark bei minderjährigen Personen](0008a.md)
-- [§ 8b Entnahme von Organen und Geweben in besonderen Fällen](0008b.md)
-- [§ 8c Entnahme von Organen und Geweben zur Rückübertragung](0008c.md)
+- [§ 8 Entnahme von Organen und Geweben bei lebenden Spendern](0008.md)
+- [§ 8a Lebendspendekommissionen](0008a.md)
+- [§ 8b Entnahme von Knochenmark bei minderjährigen Personen](0008b.md)
+- [§ 8c Entnahme von Organen und Geweben in besonderen Fällen](0008c.md)
 
 ## Abschnitt 3a Gewebeeinrichtungen, Untersuchungslabore, Register
 
-- [§ 8d Besondere Pflichten der Gewebeeinrichtungen](0008d.md)
-- [§ 8e Untersuchungslabore](0008e.md)
+- [§ 8d Entnahme von Organen und Geweben zur Rückübertragung](0008d.md)
+- [§ 8e Besondere Pflichten der Gewebeeinrichtungen](0008e.md)
 - [§ 8f (weggefallen)](0008f.md)
+- [§ 8f Untersuchungslabore](0008f-2.md)
+- [§ 8g Meldung bestimmter Gewebeeinrichtungen](0008g.md)
 
 ## Abschnitt 4 Entnahme, Vermittlung und Übertragung von Organen, Zusammenarbeit bei der Entnahme von Organen und Geweben
 
@@ -42,7 +44,7 @@ Spendern
 - [§ 10 Transplantationszentren](0010.md)
 - [§ 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport](0010a.md)
 - [§ 11 Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle](0011.md)
-- [§ 12 Organvermittlung, Vermittlungsstelle](0012.md)
+- [§ 12 Organvermittlung, Vermittlungsstelle, Stelle zur Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende](0012.md)
 - [§ 12a Angehörigenbetreuung](0012a.md)
 
 ## Abschnitt 5 Meldungen, Dokumentation, Rückverfolgung, 
@@ -91,5 +93,5 @@ Wissenschaft zur Entnahme von Geweben und deren Übertragung](0016b.md)
 - [§ 22 Verhältnis zu anderen Rechtsbereichen](0022.md)
 - [§ 23 Bundeswehr](0023.md)
 - [§ 24](0024.md)
-- [§ 25 Übergangsregelungen](0025.md)
+- [§ 25 Übergangsregelung](0025.md)
 - [§ 26 (Inkrafttreten, Außerkrafttreten)](0026.md)

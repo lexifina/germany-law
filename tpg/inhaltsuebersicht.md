@@ -4,7 +4,7 @@
 | § 1 | Ziel und Anwendungsbereich des Gesetzes |
 | § 1a | Begriffsbestimmungen |
 | § 2 | Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweis |
-| § 2a | Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung |
+| § 2a | Register für Erklärungen zur Organ- und Gewebespende |
 |  |
 |  | Abschnitt 2Entnahme von Organenund Geweben bei toten Spendern |
 | § 3 | Entnahme mit Einwilligung des Spenders |
@@ -15,15 +15,16 @@
 | § 7 | Datenverarbeitung, Auskunftspflicht |
 |  |
 |  | Abschnitt 3Entnahme von Organenund Geweben bei lebenden Spendern |
-| § 8 | Entnahme von Organen und Geweben |
-| § 8a | Entnahme von Knochenmark bei minderjährigen Personen |
-| § 8b | Entnahme von Organen und Geweben in besonderen Fällen |
-| § 8c | Entnahme von Organen und Geweben zur Rückübertragung |
+| § 8 | Entnahme von Organen und Geweben bei lebenden Spendern |
+| § 8a | Lebendspendekommissionen |
+| § 8b | Entnahme von Knochenmark bei minderjährigen Personen |
+| § 8c | Entnahme von Organen und Geweben in besonderen Fällen |
+| § 8d | Entnahme von Organen und Geweben zur Rückübertragung |
 |  |
 |  | Abschnitt 3aGewebeeinrichtungen,Untersuchungslabore, Register |
-| § 8d | Besondere Pflichten der Gewebeeinrichtungen |
-| § 8e | Untersuchungslabore |
-| § 8f | (weggefallen) |
+| § 8e | Besondere Pflichten der Gewebeeinrichtungen |
+| § 8f | Untersuchungslabore |
+| § 8g | Meldung bestimmter Gewebeeinrichtungen |
 |  |
 |  | Abschnitt 4Entnahme, Vermittlung undÜbertragung von Organen, Zusammenarbeitbei der Entnahme von Organen und Geweben |
 | § 9 | Zulässigkeit der Organentnahme und -übertragung, Vorrang der Organspende |
@@ -33,7 +34,7 @@
 | § 10 | Transplantationszentren |
 | § 10a | Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport |
 | § 11 | Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle |
-| § 12 | Organvermittlung, Vermittlungsstelle |
+| § 12 | Organvermittlung, Vermittlungsstelle, Stelle zur Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende |
 | § 12a | Angehörigenbetreuung |
 |  |
 |  | Abschnitt 5Meldungen, Dokumentation,Rückverfolgung, Datenschutz, Fristen |
@@ -73,5 +74,5 @@
 | § 22 | Verhältnis zu anderen Rechtsbereichen |
 | § 23 | Bundeswehr |
 | § 24 | Änderung des Strafgesetzbuches |
-| § 25 | Übergangsregelungen |
+| § 25 | Übergangsregelung |
 | § 26 | Inkrafttreten, Außerkrafttreten |
