@@ -1,0 +1,52 @@
+# Mobilitäts- und Infrastrukturausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-06-02T17:00:00+02:00
+- Ende: 2026-06-02T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/270
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8068
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8068
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö (entspricht Druckexemplar) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00244993.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Vermittlungskonzept Niedergermanischer Limes als UNESCO Welterbe - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 5: Hammer Landstraße - Radverkehrsführung Wendersplatz - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 6: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Bericht zum Gutachten ÖPNV zur Vorbereitung auf die Sondersitzung - einstimmig zugestimmt
+- TOP 7: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Berichterstattung zum Ergebnis der Befragung Quartiersgarage für Fahrräder - beraten ohne Abstimmung
+- TOP 8: Antrag der FDP/UWG-Fraktion betr.: Anpassung der zulässigen Höchstgeschwindigkeit auf der Venloer Straße und Further Straße - mehrheitlich abgelehnt
+- TOP 9: Antrag der FDP/UWG-Fraktion betr.: Übersicht und Evaluation von Änderungen der zulässigen Höchstgeschwindigkeiten im Stadtgebiet - beraten ohne Abstimmung
+- TOP 10: Antrag der SPD-Fraktion betr.: Pflege und Unterhaltung von historischen Straßen- und Wegepflastersteinen - mit Änderungen einstimmig zugestimmt
+- TOP 11: Antrag der CDU-Fraktion betr.: Konsequente Durchsetzung und Weiterentwicklung der Regulierung von E-Scootern im öffentlichen Raum - einstimmig zugestimmt
+- TOP 12: Antrag der CDU-Fraktion betr.: Prüfung der Freigabe ausgewählter Radwege für S-Pedelecs in Neuss - beraten ohne Abstimmung
+- TOP 13: Antrag der CDU-Fraktion betr.: Beschilderung der Fietsallee am Nordkanal an heutige Anforderungen anpassen - beraten ohne Abstimmung
+- TOP 14: Antrag der Fraktion "Tierschutz/Aktiv/Neuss JETZT!" betr.: Umgang mit abgestellten E-Scootern im öffentlichen Raum - einstimmig zugestimmt
+- TOP 15: Antrag der Fraktion "Tierschutz/Aktiv/Neuss JETZT!" betr.: Schaffung zusätzlicher Parkplätze, August-Macke-Straße 65, 41470 Neuss und Teilentsiegelung der Restfläche durch Bepflanzung - verwiesen
+- TOP 15.1: Antrag der Fraktion FDP/UWG NEUSS betr.: Parkraumstrategie für das Stadtgebiet Neuss - beraten ohne Abstimmung
+- TOP 15.2: Antrag der Fraktion FDP/UWG NEUSS betr.: Anpassung der Anwohnerparkzone Dreikönigenviertel - beraten ohne Abstimmung
+- TOP 15.3: Antrag der Fraktion FDP/UWG NEUSS betr.: Geordnetes Abstellen von Leih-E-Scootern in der Neusser Innenstadt - einstimmig zugestimmt
+- TOP 15.4: Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN betr.: Bericht zur Radachse Innenstadt – Anbindung an Radschnellweg RS5 - einstimmig zugestimmt
+- TOP 15.5: Antrag der Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN betr.: Ernennung von Vertretern des ADFC Neuss als beratende Mitglieder - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 16: Sachstand "Hierarchisches Radverkehrsnetz" Neuss - zur Kenntnis genommen
+- TOP 17: Mobilitätskonzept (MOKO) - Landesgartenschau - zur Kenntnis genommen
+- TOP 18: Ergebnisse Bedarfsabfrage Fahrradquartiersgaragen im Gründerzeitviertel / Innenstadt - zur Kenntnis genommen
+- TOP 19: Überarbeitung Mobilitätsentwicklungskonzept - Bundesförderung SUMP - zur Kenntnis genommen
+- TOP 20: Sachstandsbericht zu den Mobilstationen 11-15 - zur Kenntnis genommen
+- TOP 21: Smart City Parking - Zwischenbericht zur Modernisierung des Parkraumbewirtschaftungskonzeptes - zur Kenntnis genommen
+- TOP 22: Sachstandsbericht zum Straßenzustand nach dem Winter 2025/2026 - zur Kenntnis genommen
+- TOP 23: Sachstandsbericht über offene Maßnahmen aus den Deckenernerungsprogrammen 2020 bis 2025 - zur Kenntnis genommen
+- TOP 24: Quartalsbericht des Tiefbaumanagements Neuss zum 31.03.2026 - zur Kenntnis genommen
+- TOP 25: Beschlusscontrolling zum Stichtag 31.03.2026 - zur Kenntnis genommen
+- TOP 26: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
