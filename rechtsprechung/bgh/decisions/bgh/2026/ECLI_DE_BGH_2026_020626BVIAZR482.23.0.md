@@ -1,0 +1,59 @@
+---
+ecli: "ECLI:DE:BGH:2026:020626BVIAZR482.23.0"
+court: "Bundesgerichtshof"
+aktenzeichen: "VIa ZR 482/23"
+decided: "2026-06-02"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE615402026.xml"
+neuris_doknr: "KORE615402026"
+---
+
+# Bundesgerichtshof, VIa ZR 482/23 vom 2026-06-02
+
+## Tenor
+
+Auf die Nichtzulassungsbeschwerde des Klägers wird das Urteil des 4. Zivilsenats des Brandenburgischen Oberlandesgerichts vom 29. März 2023 aufgehoben, soweit das Berufungsgericht hinsichtlich der Berufungsanträge zu 1 und 4 zum Nachteil des Klägers erkannt hat.
+
+Die Sache wird im Umfang der Aufhebung zur neuen Verhandlung und Entscheidung, auch über die Kosten der Nichtzulassungsbeschwerde, an das Berufungsgericht zurückverwiesen.
+
+Der Gegenstandswert des Beschwerdeverfahrens wird auf bis 30.000 € festgesetzt.
+
+## Gründe
+
+I.
+
+1 Der Kläger nimmt die Beklagte wegen der Verwendung unzulässiger Abschalteinrichtungen in einem Kraftfahrzeug auf Schadensersatz in Anspruch. Er erwarb im Januar 2015 von einem Dritten einen von der Beklagten hergestellten gebrauchten BMW X3 xDrive 20d, der mit einem Dieselmotor der Baureihe N47 (Schadstoffklasse Euro 5) ausgerüstet ist.
+
+2 Die zuletzt auf Zahlung "großen" Schadensersatzes Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs (Berufungsantrag zu 1), Zahlung von Deliktszinsen (Berufungsantrag zu 2), Feststellung des Annahmeverzugs (Berufungsantrag zu 3) sowie Freistellung von vorgerichtlichen Rechtsanwaltskosten (Berufungsantrag zu 4) gerichtete Klage hatte in den Vorinstanzen keinen Erfolg. Gegen die Berufungsentscheidung wendet sich der Kläger mit seiner Nichtzulassungsbeschwerde. Mit der beabsichtigten Revision möchte er seine Berufungsanträge im tenorierten Umfang weiterverfolgen.
+
+II.
+
+3 Die Nichtzulassungsbeschwerde des Klägers hat Erfolg. Sie führt im tenorierten Umfang gemäß § 544 Abs. 9 ZPO zur Aufhebung des angefochtenen Urteils und insoweit zur Zurückverweisung der Sache an das Berufungsgericht. Das Berufungsgericht hat den Anspruch des Klägers auf rechtliches Gehör in entscheidungserheblicher Weise verletzt.
+
+4 1. Das Berufungsgericht hat seine Entscheidung - soweit hier von Interesse - darauf gestützt, der Kläger habe keine hinreichenden Anhaltspunkte zum Vorhandensein einer unzulässigen Abschalteinrichtung in dem streitgegenständlichen Fahrzeug vorgetragen. Dies gelte namentlich für seine Behauptung, dass in dem Fahrzeug ein von der Außentemperatur abhängiges "Thermofenster" eingesetzt werde. Dies habe die Beklagte bestritten, ohne dass der darlegungs- und beweisbelastete Kläger dies zum Anlass genommen hätte, seinen Tatsachenvortrag durch greifbare tatsächliche Anhaltspunkte zu untermauern. Hinsichtlich einer Haftung nach § 826 BGB fehle es darüber hinaus an Vortrag zu den subjektiven Voraussetzungen dieser Vorschrift. Der Kläger habe keine hinreichenden Anknüpfungstatsachen dafür vorgetragen, dass die für die Beklagte handelnden Personen bei der Entwicklung oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein gehandelt hätten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf genommen hätten.
+
+5 2. Soweit das Berufungsgericht mit dieser Begründung Ansprüche des Klägers aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV verneint hat, liegt darin eine Verletzung des Anspruchs des Klägers auf rechtliches Gehör, was die Nichtzulassungsbeschwerde mit Erfolg rügt.
+
+6 a) Die Annahme des Berufungsgerichts, der Kläger habe zum Vorliegen eines Thermofensters im klägerischen Fahrzeug nicht substantiiert vorgetragen, beruht auf einer Verletzung rechtlichen Gehörs (Art. 103 Abs. 1 GG).
+
+7 aa) Der Kläger hat ausweislich der Feststellungen des Berufungsgerichts vorgetragen, es existiere ein Thermofenster, wodurch die Abgasreinigung nur in einem Temperaturbereich von 17 bis 33°C richtig funktioniere. Außerhalb dieses Temperaturbereichs werde die Wirkungsweise der Abgasrückführung dagegen iterativ reduziert und schließlich ganz abgeschaltet.
+
+8 bb) Damit aber hat der Kläger zum Vorliegen eines Thermofensters im streitgegenständlichen Fahrzeug hinreichend vorgetragen.
+
+9 Nach der Rechtsprechung des Senats (BGH, Urteil vom 25. September 2024 - VIa ZR 347/22, juris Rn. 14 f.) genügt dafür die Behauptung, die Abgasrückführung funktioniere nur innerhalb eines in der Motorsteuerungssoftware definierten Temperaturrahmens ohne Einschränkungen, werde im realen Betrieb hingegen abhängig von der Umgebungstemperatur bei in Deutschland herrschenden Außentemperaturen reduziert oder ausgeschaltet mit der Folge der Überschreitung der Grenzwerte für den Stickoxidausstoß. Weitergehender Vortrag zu den technischen Details und insbesondere dem exakten Temperaturbereich des Thermofensters kann dann nicht verlangt werden, sofern es auf das bloße, objektive Vorliegen einer unzulässigen Abschalteinrichtung im Sinne von Art. 3 Nr. 10, Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 ankommt und zwischen den Parteien lediglich streitig ist, bei welchen Umgebungstemperaturen die Abgasrückführung reduziert und deaktiviert wird. Dies gilt auch, soweit der Bezugspunkt dieser temperaturabhängigen Steuerung der Abgasrückführung streitig ist. Denn auch die Frage, ob eine temperaturabhängige Steuerung der Abgasrückführung anhand der Umgebungsluft-, Ansaugluft- oder Ladelufttemperatur erfolgt, stellt gleichermaßen lediglich ein technisches Detail dar (BGH, Beschluss vom 5. Mai 2026 - VIa ZR 1154/23, juris Rn. 10; Beschluss vom 12. Mai 2026 - VIa ZR 1155/23, juris Rn. 10).
+
+10 cc) Gemessen an diesen Grundsätzen hat das Berufungsgericht mit seiner Annahme, der Kläger habe zum Vorliegen einer unzulässigen Abschalteinrichtung nur unsubstantiiert vorgetragen, die Darlegungsanforderungen offenkundig und damit unter Verletzung von Art. 103 Abs. 1 GG (vgl. nur BGH, Beschluss vom 7. Juli 2020 - VI ZR 212/19, VersR 2021, 601 Rn. 10; Beschluss vom 11. Oktober 2022 - VI ZR 361/21, ZIP 2022, 2572 Rn. 8; jeweils mwN) überspannt. Indem das Berufungsgericht angesichts des (bloßen) Bestreitens der Außentemperaturabhängigkeit des Thermofensters durch die Beklagte den Kläger für verpflichtet gehalten hat, seinen Tatsachenvortrag durch greifbare tatsächliche Anhaltspunkte zu untermauern, hat es die Anforderungen an den substantiierten Vortrag einer unzulässigen Abschalteinrichtung in offenkundiger Weise überspannt.
+
+11 b) Die Gehörsverletzung ist entscheidungserheblich, soweit das Berufungsgericht einen Schadensersatzanspruch gemäß § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV verneint hat. Es erscheint nicht ausgeschlossen, dass das Berufungsgericht bei Berücksichtigung des übergangenen Vorbringens einen Schadensersatzanspruch des Klägers wegen der Verwendung einer unzulässigen Abschalteinrichtung für gegeben erachtet hätte.
+
+12 c) Soweit das Berufungsgericht eine Haftung der Beklagten aus §§ 826, 31 BGB mit der selbständig tragenden Begründung verneint hat, dass der Kläger ein sittenwidrig vorsätzliches Verhalten der für die Beklagte verantwortlich handelnden Personen nicht dargelegt habe, ist die dargelegte Gehörsverletzung hingegen nicht entscheidungserheblich. Die insoweit geltend gemachte Verletzung von Verfahrensgrundrechten hat der Senat geprüft, aber für nicht durchgreifend erachtet. Von einer Begründung wird gemäß § 564 Satz 1 ZPO abgesehen.
+
+Messing
+
+Ostwaldt
+
+Tausch
+
+Pastohr
+
+Spielmann
