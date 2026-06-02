@@ -1,0 +1,7 @@
+# TOP 6.: Beratung und Beschlussfassung über die Wahl der oder des Vorsitzenden des Haupt-, Finanz- und Bauausschusses
+
+- Sitzung: Haupt-, Finanz- und Bauausschuss (1. Sitzung) (2026-06-02)
+- Körperschaft: Stadt Schwarzenborn
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/schwarzenborn/webservice/oparl/v1.1/body/1/agendaitem/2566
+- Ergebnis: 7 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
