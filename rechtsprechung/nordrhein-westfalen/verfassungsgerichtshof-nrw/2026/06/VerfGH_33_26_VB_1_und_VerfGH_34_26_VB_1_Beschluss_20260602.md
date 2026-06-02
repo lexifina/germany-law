@@ -1,0 +1,42 @@
+# Verfassungsgerichtshof NRW, Beschluss vom 02.06.2026, VerfGH 33/26.VB-1 und VerfGH 34/26.VB-1
+
+- Gericht: Verfassungsgerichtshof NRW
+- Entscheidungsdatum: 2026-06-02
+- Aktenzeichen: VerfGH 33/26.VB-1 und VerfGH 34/26.VB-1
+- Spruchkörper: Kammer
+- Entscheidungsart: Beschluss
+- ECLI: ECLI:DE:VFGHNRW:2026:0602.VERFGH33.26VB1UND.00
+- Rechtskraft: rechtskräftig
+- Quelle: https://nrwe.justiz.nrw.de/ovgs/vgh_nrw/j2026/VerfGH_33_26_VB_1_und_VerfGH_34_26_VB_1_Beschluss_20260602.html (NRWE, Rechtsprechungsdatenbank der Gerichte in Nordrhein-Westfalen)
+
+---
+
+## Tenor
+
+Die Verfassungsbeschwerde wird als unzulässig zurückgewiesen.
+
+Mit der Entscheidung in der Hauptsache erledigt sich der Antrag auf Erlass einer einstweiligen Anordnung.
+
+## Entscheidungstext
+
+[1] G r ü n d e :
+
+[2] 1. Die Verfassungsbeschwerde wird gemäß § 58 Abs. 2 Satz 1, § 59 Abs. 2 Satz 1 VerfGHG durch die Kammer zurückgewiesen, weil sie unzulässig ist
+
+[3] a) Soweit sich die Verfassungsbeschwerde gegen drei Entscheidungen des Verwaltungsgerichts Düsseldorf (die Beschlüsse vom 7. Januar 2026 und vom 11. Februar 2026 sowie das Urteil vom 9. Februar 2026) richtet, ist sie jedenfalls mangels ausreichender Begründung unzulässig.
+
+[4] aa) Gemäß § 18 Abs. 1 Satz 2 und § 55 Abs. 1 Satz 1, Abs. 4 VerfGHG bedarf die Verfassungsbeschwerde einer substantiierten Begründung, die sich nicht lediglich in der Nennung des verletzten Rechts und in der Bezeichnung der angegriffenen Maßnahme erschöpfen darf. Vielmehr muss die Begründung formale und inhaltliche Anforderungen erfüllen. Erforderlich ist in formaler Hinsicht ein Vortrag, der dem Verfassungsgerichtshof eine umfassende Sachprüfung ohne weitere Nachforschungen etwa durch Beiziehung von Akten des Ausgangsverfahrens ermöglicht. Hierzu muss der Beschwerdeführer den Sachverhalt, aus dem er die Grundrechtsverletzung ableitet, sowohl aus sich heraus verständlich als auch hinsichtlich der für die gerügte Grundrechtsverletzung erheblichen Umstände vollständig wiedergeben. Die mit der Verfassungsbeschwerde angegriffenen Entscheidungen sowie die weiteren in Bezug genommenen Unterlagen wie Schriftsätze und Rechtsschutzanträge müssen entweder selbst vorgelegt oder zumindest ihrem wesentlichen Inhalt nach mitgeteilt werden. Inhaltlich muss ein Beschwerdeführer für eine ordnungsgemäße Begründung substantiiert darlegen, dass die von ihm behauptete Verletzung eines Grundrechts oder grundrechtsgleichen Rechts möglich ist. In einer Verfassungsbeschwerde gegen eine gerichtliche Entscheidung muss er sich dafür hinreichend mit der Begründung der angefochtenen gerichtlichen Entscheidung und den für den behaupteten Grundrechtsverstoß geltenden verfassungsrechtlichen Maßstäben auseinandersetzen. Insoweit erfordert es eine ins Einzelne gehende, argumentative Auseinandersetzung mit den Gründen der angefochtenen Entscheidung auf der Ebene des Verfassungsrechts am Maßstab der als verletzt gerügten grundrechtlichen Positionen (vgl. zum Ganzen VerfGH NRW, Beschluss vom 15. Juli 2025 - VerfGH 42/25.VB-3 u. a., juris, Rn. 3).
+
+[5] bb) Bereits den vorgenannten formalen Begründungsanforderungen wird die Verfassungsbeschwerde nicht gerecht. So haben die Beschwerdeführer die angegriffenen Entscheidungen des Verwaltungsgerichts Düsseldorf mit der Verfassungsbeschwerde weder selbst vorgelegt noch ihrem wesentlichen Inhalt nach mitgeteilt. Lediglich mit Blick auf das Urteil vom 9. Februar 2026 haben sie - außerhalb der nach ihren Angaben am 11. März 2026 endenden Monatsfrist des § 55 Abs. 1 VerfGHG - einen Ausschnitt zur Akte gereicht, der aus dem Rubrum und einem Teil des Tatbestands besteht (Seite 1 - 3 des Urteils; Blatt 877 - 879 der Akte). Damit fehlt dem Verfassungsgerichtshof bereits die für eine umfassende verfassungsrechtliche Sachprüfung erforderliche Tatsachengrundlage.
+
+[6] b) Soweit sich die Beschwerdeführer mit ihren Anträgen zu 5), 5a) und 6) gegen Unterlassungen der Bezirksregierung Düsseldorf und des Ministeriums für Schule und Bildung des Landes Nordrhein-Westfalen wenden, fehlt es jedenfalls an der erforderlichen Erschöpfung des Rechtsweges (§ 54 Satz 1 VerfGHG).
+
+[7] aa) Mit dem Antrag zu 5) wenden sich die Beschwerdeführer gegen die „fortdauernde Unterlassung“ der Bezirksregierung Düsseldorf, dem Beschwerdeführer zu 1) Einsicht in die Schulakte der Beschwerdeführerin zu 2) zu gewähren, ihm eine Datenkopie zu überlassen sowie verschiedene Berichtigungsanträge zu bearbeiten. Mit dem Antrag zu 6) rügen sie, das Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen unterlasse es fortdauernd, das Akteneinsichtsrecht des Beschwerdeführers zu 1) durch Maßnahmen der Fachaufsicht und die Setzung von Bearbeitungsfristen sicherzustellen. Die Beschwerdeführer bemängeln damit im Kern, ihnen zustehende einfachrechtliche Ansprüche - insbesondere Akteneinsichtsrechte - seien nicht erfüllt worden. Mit Blick auf dieses Begehren fehlt es jedenfalls an der Erschöpfung des Rechtsweges. Die Einsichtsrechte aus § 120 Abs. 9 SchulG NRW, Art. 15 Abs. 3 DS-GVO sowie der Berichtigungsanspruch aus Art. 16 DS-GVO können - wovon die Beschwerdeführer auch selbst ausgehen - im Wege der Klage vor den Verwaltungsgerichten durchgesetzt werden. Dass ihnen dies nicht möglich oder zumutbar ist, zeigen sie mit der Verfassungsbeschwerde nicht auf. Soweit sie argumentieren, die Erlangung fachgerichtlichen Rechtsschutzes sei „strukturell unmöglich“, da „in 5 Verfahren über 2 Instanzbefassungen“ keine Prüfung des § 120 Abs. 9 SchulG NRW erfolgt sei und eine sechste Klage „dasselbe Ergebnis produzieren“ werde, genügt dieser Vortrag nicht. So haben die Beschwerdeführer vorherige verwaltungsgerichtliche Entscheidungen weder vorgelegt noch ihrem wesentlichen Inhalt nach wiedergegeben, geschweige denn sich inhaltlich substantiiert mit diesen auseinandergesetzt. Dass einer noch zu erhebenden Klage von vornherein die Erfolgsaussicht fehlen könnte, ist damit nicht schlüssig dargelegt.
+
+[8] Angesichts des Vorgenannten kann offenbleiben, ob das Rechtsschutzinteresse der Beschwerdeführer mit Blick auf die geltend gemachte Grundrechtsverletzung durch unterbliebene Akteneinsicht bereits deshalb entfallen ist, weil der Beschwerdeführer zu 1) mit Schriftsatz vom 28. April 2026 (Blatt 3972 der Akte) mitgeteilt hat, inzwischen die Schulakte der Beschwerdeführerin zu 2) erhalten zu haben.
+
+[9] bb) Unzulässig mangels Rechtswegerschöpfung ist die Verfassungsbeschwerde schließlich, soweit die Beschwerdeführer ausweislich ihres Antrags zu 5a) eine Grundrechtsverletzung darin sehen, dass das Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen es unterlasse, „die Führung von Akten in den Schulaufsichtsbehörden zu regeln und auch technisch und personell zu untersetzen“. Soweit die Beschwerdeführer damit offenbar geltend machen wollen, die Regelungen der (aufgrund des § 122 Abs. 4 SchulG NRW erlassenen) Verordnung über die zur Verarbeitung zugelassenen Daten von Schülerinnen, Schülern und Eltern (VO-DV I) seien unzureichend, obliegt es ihnen zunächst Feststellungsklage gemäß § 43 VwGO vor den Verwaltungsgerichten zu erheben. Begehrt ein Beschwerdeführer - wie hier - die Änderung oder den Erlass einer Rechtsnorm im Range unterhalb eines förmlichen Gesetzes, ist nach der Rechtsprechung der Fachgerichte der Verwaltungsrechtsweg nach § 40 VwGO eröffnet (vgl. BVerwG, Urteil vom 4. Juli 2002 - 2 C 13.01, juris, Rn. 12, und vom 30. September 2009 - 8 CN 1.08, juris, Rn. 18). Die gerichtliche Kontrolle der Verwaltung, auch soweit diese - wie beim Erlass einer Rechtsverordnung - Recht setzend tätig wird, obliegt im Ausgangspunkt den Verwaltungsgerichten (vgl. BVerwG, Urteil vom 4. Juli 2002 - 2 C 13.01, juris, Rn. 12, und vom 30. September 2009 - 8 CN 1.08, juris, Rn. 18; vgl. auch Hellmann, in: Barczak, BVerfGG, 2018, § 90 Rn. 131; Lenz/Hansel, BVerfGG, 4. Aufl. 2024, § 90 Rn. 191). Dass sie eine entsprechende Feststellungsklage gemäß § 43 VwGO (vgl. zur statthaften Klageart: BVerwG, Urteil vom 4. Juli 2002 - 2 C 13.01, juris, Rn. 14, und vom 30. September 2009 - 8 CN 1.08, juris, Rn. 18) erhoben haben, legen die Beschwerdeführer mit der Verfassungsbeschwerde indes nicht dar.
+
+[10] c) Von einer weiteren Begründung wird gemäß § 58 Abs. 2 Satz 4 VerfGHG abgesehen.
+
+[11] 2. Der Antrag auf Erlass einer einstweiligen Anordnung, der auf eine vorläufige Regelung bis zur Entscheidung in der Hauptsache gerichtet ist, erledigt sich mit dem Beschluss über die Verfassungsbeschwerde.
