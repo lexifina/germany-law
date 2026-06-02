@@ -1,1 +1,0 @@
-# Gesetz zu dem Internationalen Fernmeldevertrag vom 12. November 1965
