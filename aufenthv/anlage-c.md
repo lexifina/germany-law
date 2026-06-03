@@ -1,6 +1,5 @@
 # Anlage C (zu § 26 Absatz 2 Satz 1)
 
-Indien
 Jordanien
 Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige Jordaniens, sofern sie
 a) im Besitz eines gültigen Visums Australiens, Israels oder Neuseelands sowie eines bestätigten Flugscheins oder einer gültigen Bordkarte für einen Flug sind, der in den betreffenden Staat führt, oder
