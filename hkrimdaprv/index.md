@@ -1,4 +1,4 @@
-# Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes
+# Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
