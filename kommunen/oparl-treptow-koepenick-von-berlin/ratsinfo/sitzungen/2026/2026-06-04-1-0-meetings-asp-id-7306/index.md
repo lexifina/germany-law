@@ -1,0 +1,81 @@
+# 44. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2026-06-04T17:00:00+02:00
+- Ende: 2026-06-04T20:28:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7306
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7306
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=471486
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Bezirksamtsmitglieder - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-42 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Parchwitzer Straße in Bohnsdorf grundhaft erneuern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Verkehrssicherheit vor der Müggelheimer Grundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Schließfächer für Obdachlose auch in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Aktion Schichtwechsel im Bezirksamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Zukunft Schulstraße im Blick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Kapazitäten der Buslinie 160 (Siriusstr. <-> Hasselwerderstr.) in den Morgenstunden erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Einstieg zu den Buslinien M11, X11 und 160 an der Haltestelle am Busbahnhof Schöneweide ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Nachpflanzung von Straßenbäumen gezielt angehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Mehr Fahrradabstellanlagen an den S-Bahnhöfen Hirschgarten und Wilhelmshagen errichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Ertüchtigung des Berlewitzweges - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Ehrenhain auf dem Friedhof Adlershof würdig gestalten - überwiesen
+- TOP 7.2.6: Für mehr Verkehrssicherheit an der Straße An der Wuhlheide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Lichtzeichenanlage Siriusstraße Ecke Schönefelder Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Hitzeschutzmaßnahmen auf dem Platz am Kaisersteg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Lichtzeichenanlage An der Wuhlheide Ecke Rathenaustraße erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Name ist Programm: Baumpflanzungen in der Chris-Gueffroy-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Informationen zur Organspende öffentlich auslegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Praxenbörse erweitern und für Trägerlandschaft im Bezirk öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: - Entwurf des vorhabenbezogenen Bebauungsplans 9-74 VE nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-74 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Sondermittel für den Sportverein Blau-Gelb Köpenick e. V. (SM 26-12) - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.3: Sondermittel für den Verein "FiPP e. V." (SM 26-14) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Verbesserung des Nutzerkomforts auf der Buslinie X 11 – Verlegung der Haltestelle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: "KiezRadar" nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Neue Wege wagen: E-Wasser-Shuttles für Berlins ÖPNV - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Umbenennung der Wagner-Régeny-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Verwahrlosung stoppen - Dorfkern Bohnsdorf nachhaltig entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Bäume statt Windräder – Krummendammer Heide schützen - überwiesen
+- TOP 10.7: Nachtfahrverbot für Mähroboter - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Für einen sicheren Jahreswechsel: Gezielte Regulierung von Silvesterfeuerwerk in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Legale Graffiti-Flächen in Treptow-Köpenick schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Am Wiesenrain: Jetzt ans Abwassernetz! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Soziale Unterstützung und ordnungsrechtliche Klarheit für Menschen auf und an den Gewässern in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Wahrnehmung des Wahlrechts durch obdachlose und wohnungslose Menschen unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Ampelschaltung optimieren – KI-Projekt "Green Light" anwenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Absolutes Halteverbot in der Winckelmannstraße zwischen Hausnummer 48 und Haeckelstraße aufheben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Verbesserung der Sauberkeit am S-Bahnhof Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Parkplätze am Strandbad Müggelsee besser beschildern - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Einrichtung einer Ombudsstelle nach § 9a SGB VIII - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Querverbindung zwischen Adlershof und Biesdorf schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: KI-Hackathon für bezirkliche Auszubildende - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Saubere Bezirksgebäude - KleanApp ausweiten - überwiesen
+- TOP 12.2: Sicherung der historischen Späth‘schen Baumschulen – Errichtung eines grünen Pufferbandes zum Schutz eines kulturellen Identitätsortes - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Persönliche Erreichbarkeit des Bezirksamtes, des Jobcenters und der Arbeitsagentur sicherstellen - überwiesen
+- TOP 12.4: Wirtschaftliche Vernunft im Innovationspark Wuhlheide: Planung für den Ausbau erneuerbarer Energien stoppen – Unternehmen schützen - überwiesen
+- TOP 12.5: Ursprüngliche Wegeführung des Radweges am S-Bahnhof Schöneweide wiederherstellen - überwiesen
+- TOP 12.6: Mehr Schliff im Straßenland - überwiesen
+- TOP 12.7: Späth´sche Baumschule schützen und Bürgerbeteiligung ernst nehmen - zurückgezogen
+- TOP 12.8: Finanzierung und Umsetzung des ÖPNV-Lückenschlusses zwischen Friedrichshagen und Hoppegarten unterstützen - überwiesen
+- TOP 12.9: Radweg am Müggelseedamm beleuchten - überwiesen
+- TOP 12.10: Regattastrecke Grünau bei Olympia berücksichtigen – Wassersportstandort stärken - überwiesen
+- TOP 12.11: Kurzzeitstellplätze Grünauer Straße 29 bis 46 in Altglienicke - überwiesen
+- TOP 13: Große Anfragen - (offen)
