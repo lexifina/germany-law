@@ -9,7 +9,7 @@
 
 ## Abschnitt 2 Ausnahmen von der Prospektpflicht und Regelungen zum Wertpapier-Informationsblatt
 
-- [§ 3 Ausnahmen von der Verpflichtung zur Veröffentlichung eines Prospekts](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Wertpapier-Informationsblatt; Verordnungsermächtigung](0004.md)
 - [§ 5 Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt](0005.md)
 - [§ 6 (weggefallen)](0006.md)
