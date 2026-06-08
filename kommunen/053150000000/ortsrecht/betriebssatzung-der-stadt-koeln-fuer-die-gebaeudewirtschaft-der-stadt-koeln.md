@@ -1,8 +1,8 @@
 # Betriebssatzung der Stadt Köln für die Gebäudewirtschaft der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2018-11-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/betriebssatzung_gebäudewirtschaft_15._Änd.__gültig_ab_23.04.2019___2_.pdf
+- Datum: 2026-06-08 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/betriebssatzung_gebaeudewirtschaft_2026_06_08.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -13,7 +13,7 @@ Betriebssatzung
 der Stadt Köln für die Gebäudewirtschaft der Stadt Köln
 
 vom 4. Dezember 1996 (Amtsblatt der Stadt Köln Nr. 64 vom 23. Dezember 1996)
-(Stand:22.11.2018)
+(Stand:08. Juni 2026)
 
 lfd.
 
@@ -61,14 +61,13 @@ Ergänzung, Änderung
 
 Amtsblatt Nr. 19 vom 27.04.2005, S.247
 Amtsblatt Nr. 24 vom 01.06.2005, S. 333
-
-§ 1 Abs. 3 S. 3; § 2 Abs.1 S. 3, 4 § 3 Abs. 1
-
 Amtsblatt Nr. 185 vom 19.07.2006, S. 513
 
+§ 1 Abs. 3 S. 3; § 2 Abs.1 S. 3, 4 § 3 Abs. 1
 § 1 Abs. 3, S. 1; § 2 Abs. 3; § 3 Abs. 2 lit. i; Abs. 3 S. 3, Abs. 4 S. 1; § 4 Abs. 1 lit. a, c; § 5 Abs. 5; § 6 Abs. 1 S. 1, 2;
 
-Ergänzung, Änderung Änderung
+Ergänzung, Änderung
+Änderung
 Ergänzung, Änderung
 
 10 10. Satzung zur Änderung der Betriebssatzung
@@ -77,13 +76,14 @@ Ergänzung, Änderung
 13 13. Satzung zur Änderung der Betriebssatzung
 14 14. Satzung zur Änderung der Betriebssatzung
 15 15. Satzung zur Änderung der Betriebssatzung
+16 16. Satzung zur Änderung der Betriebssatzung
 
 Betriebssatzung
 
 Seite 2
 
 17.12.2009
-28.06.2012 24.04.2014 28.09.2017 22.11.2018 23.04.2019
+28.06.2012 24.04.2014 28.09.2017 22.11.2018 23.04.2019 08.06.2026
 
 Amtsblatt Nr. 6 vom 10.02.2010, S. 109 - 110
 
@@ -101,26 +101,28 @@ Amtsblatt Nr.19 vom 30.04.2014, S. 278 - 282
 Ergänzung, Änderung
 Ergänzung, Änderung
 
-Amtsblatt Nr.54 vom 20.12.2017, S. 531 - 532 Amtsblatt Nr. 50 vom 12.12.2018, S. 560 Amtsblatt Nr. 17 vom 02.05.2019
+Amtsblatt Nr.54 vom 20.12.2017, S. 531 - 532 Amtsblatt Nr. 50 vom 12.12.2018, S. 560 Amtsblatt Nr. 17 vom 02.05.2019, S. 227
+Amtsblatt Nr. 23 vom 17.06.2026, S. 153
 
 § 4 lit. a; § 6 Abs. 1, 2; § 9 Abs. 1, 2 § 6 Abs. 3 S. 3 letzter Hs.
-§ 5 Abs. 3 lit c S.1; § 6 Abs. 3 S. 5, 6
+§ 5 Abs. 3 lit c S.1; § 6 Abs. 3 S. 5, 6 § 17 Abs. 2; § 18 Abs. 2
 
-Ergänzung, Änderung Wegfall
+Ergänzung, Änderung
+Wegfall
 Ergänzung
+Ergänzung, Änderung
 
-Der Rat der Stadt Köln hat in seiner Sitzung vom 04.04.2019 aufgrund der §§ 7, 107 Abs. 2 S. 2 und 114 Abs. 1 der Gemeindeordnung NRW i.d.F. der Bekanntmachung vom 14. Juli 1994 (GV NW S. 666) in Verbindung mit der Eigenbetriebsverordnung für das Land Nordrhein-Westfalen vom 16. November 2004 (GV NW S. 671; ber. 2005 S. 15) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - folgende Betriebssatzung beschlossen:
-
+Der Rat der Stadt Köln hat in seiner Sitzung vom 12.05.2026 aufgrund der §§ 7, 107 Absatz 2 Satz 2 und 114 Absatz 1 der Gemeindeordnung für das Land NordrheinWestfalen vom 14. Juli 1994 (GV NW S. 666; SGV NW 2023) in Verbindung mit der Eigenbetriebsverordnung für das Land Nordrhein-Westfalen vom 16. November 2004 (GV NW S. 671; ber. 2005 S. 15) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - folgende Betriebssatzung beschlossen:
 § 1 Gegenstand und Name des Betriebes
 (1) Die Gebäudewirtschaft der Stadt Köln wird als städtische Einrichtung ohne Rechtspersönlichkeit (Eigenbetriebsähnliche Einrichtung) nach den Vorschriften der Gemeindeordnung, den Bestimmungen dieser Betriebssatzung und der Eigenbetriebsverordnung geführt.
-(2) Der Betrieb führt den Namen „Gebäudewirtschaft der Stadt Köln“.
-(3) Die von dem Betrieb zu bewirtschaftenden Objekte werden - soweit sie im Eigentum der Stadt Köln stehen und nicht zum notwendigen Betriebsvermögen eines Betriebes
 
 Betriebssatzung
 
 Seite 3
 
-gewerblicher Art gehören - im Sondervermögen des Betriebes geführt. Das in der Eröffnungsbilanz ausgewiesene Sondervermögen wird jährlich im Rahmen der Feststellung des Jahresabschlusses auf der Basis der jeweils zur Bilanz erstellten Anlagennachweise fortgeschrieben.
+(2) Der Betrieb führt den Namen „Gebäudewirtschaft der Stadt Köln“.
+
+(3) Die von dem Betrieb zu bewirtschaftenden Objekte werden - soweit sie im Eigentum der Stadt Köln stehen und nicht zum notwendigen Betriebsvermögen eines Betriebes gewerblicher Art gehören - im Sondervermögen des Betriebes geführt. Das in der Eröffnungsbilanz ausgewiesene Sondervermögen wird jährlich im Rahmen der Feststellung des Jahresabschlusses auf der Basis der jeweils zur Bilanz erstellten Anlagennachweise fortgeschrieben.
 
 § 2 Zweck, Ziele und Aufgaben des Betriebs
 (1) Zweck des Betriebes ist es, die Dienstleistungsbedarfe der Fachdienststellen im Bereich der Bereitstellung, Verwaltung und Entwicklung der für die Verwaltung für ihre Dienstleistungen und Aufgaben benötigten Gebäude zu erfüllen.
@@ -132,14 +134,17 @@ gewerblicher Art gehören - im Sondervermögen des Betriebes geführt. Das in de
 (1) Aufgabe der Fachdienststellen ist es, die eigenen Bedarfe und Standards im Bereich der Gebäudewirtschaft zielgerichtet aufzubereiten und zu definieren. Sie können die Gebäudewirtschaft mit Planungsleistungen beauftragen.
 (2) Die Gebäudewirtschaft verantwortet nach Abschluss der Vorplanungen die weiteren Planungen und die Bauausführung, solange keine wesentlichen Projektziele gefährdet sind.
 (3) Die Gebäudewirtschaft erbringt die Leistungen und stellt die Informationen bereit, die die beauftragenden Fachdienststellen für die Erfüllung ihrer Aufgaben benötigen.
-(4) Abgesehen von der laufenden Betriebsführung erbringt die Gebäudewirtschaft ihre Leistungen ausschließlich aufgrund von Aufträgen des Rates und seiner Fachausschüsse, der Bezirksvertretungen sowie der Oberbürgermeisterin/des Oberbürgermeisters und der Fachdienststellen.
 
 Betriebssatzung
 
 Seite 4
 
+(4) Abgesehen von der laufenden Betriebsführung erbringt die Gebäudewirtschaft ihre Leistungen ausschließlich aufgrund von Aufträgen des Rates und seiner Fachausschüsse, der Bezirksvertretungen sowie der Oberbürgermeisterin/des Oberbürgermeisters und der Fachdienststellen.
+
 (5) Jede beauftragte Leistung bedarf einer gesicherten Finanzierung und ist durch die auftraggebende Fachdienststelle auf der Grundlage vereinbarter bzw. bekannter Preise und Zahlungsziele zu vergüten.
+
 (6) Für das Auftragsverfahren, die Auftragsabwicklung, die Leistungsabnahme und die Vergütung gelten die weitergehenden Vereinbarungen zwischen Verwaltung und Gebäudewirtschaft.
+
 (7) Die Gebäudewirtschaft ist verpflichtet, die Leistungen der übrigen innerstädtischen Dienstleister in Anspruch zu nehmen. Näheres, insbesondere die Vergütung, wird durch Vereinbarungen zwischen Verwaltung und Gebäudewirtschaft geregelt.
 
 § 4 Aufgaben des Rates
@@ -148,22 +153,56 @@ a. die Bestellung und Abberufung der geschäftsführenden Betriebsleitung, b. di
 Behandlung des Jahresverlustes und die Entlastung des Betriebsausschusses d. die Rückzahlung von Eigenkapital an die Stadt.
 
 § 5 Betriebsausschuss
+
 (1) Der Betriebsausschuss der Gebäudewirtschaft ist der Bauausschuss des Rates der Stadt Köln.
+
 (2) Der Betriebsausschuss berät die Beschlüsse des Rates nach § 4 vor. Er berät außerdem die Beschlüsse des Rates und der Fachausschüsse in baulichen Angelegenheiten vor. Zudem ist er zuständig für
+
 a. die Zustimmung zu erfolggefährenden Mehraufwendungen und zu Mehrzahlungen im Sinne der §§ 15, 16 EigVO;
 b. den Vorschlag einer Wirtschaftsprüferin oder eines Wirtschaftsprüfers oder einer Wirtschaftsprüfungsgesellschaft für den Jahresabschluss zur Vorlage an die Gemeindeprüfungsanstalt;
 c. die Entlastung der Betriebsleitung.
+
 (3) Der Rat überträgt darüber hinaus dem Ausschuss folgende Zuständigkeiten im Bereich der Betriebsführung, diese handelnd im Auftrag oder Interesse der Fachdienststellen:
-a. Erlass, Niederschlagung und Stundung von Forderungen, wenn sie im Einzelfall € 20 000 übersteigen;
-b. Erwerb, Veräußerung oder Belastung von Grundstücken, deren Bedeutung über einen Stadtbezirk hinausgeht, bei Beträgen von mehr als € 50.000;
-c. Zustimmung zu Grundstücksmiet- und -pachtverträgen bei Verträgen mit einer Laufzeit von mehr als fünf Jahren oder einer Miet- oder Pachtsumme von mehr als € 250.000 innerhalb der Laufzeit, sofern der Bedarf für die Anmietung nicht vom Fachausschuss oder Rat festgestellt wurde;
+
+a.
+
+Erlass, Niederschlagung und Stundung von Forderungen, wenn sie im
+
+Einzelfall
+
+€ 20 000 übersteigen;
+
+b. Erwerb, Veräußerung oder Belastung von Grundstücken, deren Bedeutung über
+
+einen Stadtbezirk hinausgeht, bei Beträgen von mehr als € 50.000;
 
 Betriebssatzung
 
 Seite 5
 
-d. Zustimmung zu sonstigen Verträgen, wenn der Wert im Einzelfall den Betrag von € 250 000 übersteigt;
-e. Auslobung von Architekturwettbewerben auf Vorschlag der auftraggebenden Fachdienststelle bzw. des Fachausschusses, auch bei Gebäuden, die durch Dritte errichtet werden.
+c. Zustimmung zu Grundstücksmiet- und -pachtverträgen bei Verträgen mit einer
+
+Laufzeit von mehr als fünf Jahren oder einer Miet- oder Pachtsumme von mehr als
+
+€ 250.000 innerhalb der Laufzeit, sofern der Bedarf für die Anmietung nicht vom
+
+Fachausschuss oder Rat festgestellt wurde;
+
+d.
+
+Zustimmung zu sonstigen Verträgen, wenn der Wert im Einzelfall den Betrag
+
+von
+
+€ 250 000 übersteigt;
+
+e.
+
+Auslobung von Architekturwettbewerben auf Vorschlag der auftraggebenden
+
+Fachdienststelle bzw. des Fachausschusses, auch bei Gebäuden, die durch Dritte er-
+
+richtet werden.
 
 (4) Der Betriebsausschuss entscheidet die Angelegenheiten, in denen der Rat nach § 4 zuständig ist, falls die Angelegenheit keinen Aufschub duldet. In Fällen äußerster Dringlichkeit kann die Oberbürgermeisterin/der Oberbürgermeister zusammen mit der/dem Vorsitzenden des Betriebsausschusses entscheiden (§ 60 Abs.1 S. 3 und 4 Gemeindeordnung).
 
@@ -177,13 +216,12 @@ In eigenen Angelegenheiten des Betriebsausschusses können Dringlichkeitsentsche
 (1) Die Betriebsleitung besteht aus der/dem für die Gebäudewirtschaft zuständigen Beigeordneten als Erste Betriebsleiterin/Erstem Betriebsleiter sowie einer kaufmännischen Betriebsleiterin/einem kaufmännischen Betriebsleiter und einer technischen Betriebsleiterin/einem technischen Betriebsleiter. Die beiden Betriebsleiterinnen/Betriebsleiter sind jeweils in eigener Verantwortung tätig und haben ein unmittelbares Vorspracherecht bei der Ersten Betriebsleitung. Sie bilden gemeinsam die geschäftsführende Betriebsleitung. Die Geschäftsverteilung innerhalb der Betriebsleitung regelt die Oberbürgermeisterin/der Oberbürgermeister mit Zustimmung des Betriebsausschusses durch Dienstanweisung.
 Bei Meinungsverschiedenheiten innerhalb der Betriebsleitung entscheidet die Erste Betriebsleiterin/der Erste Betriebsleiter.
 (2) Ist die Erste Betriebsleiterin/der Erste Betriebsleiter verhindert, so wird sie/er gemäß der geltenden Vertretungsregelung der Beigeordneten vertreten. Sind alle Betriebsleiterinnen/Betriebsleiter verhindert, wird der Betrieb von der jeweiligen Vertreterin/dem jeweiligen Vertreter der/des nach der Geschäftsverteilung des Rates für die Gebäudewirtschaft zuständigen Beigeordneten alleine vertreten.
-(3) Der Betrieb wird von der Betriebsleitung selbständig geführt, soweit nicht durch gesetzliche Vorschriften, insbesondere durch die Gemeindeordnung, diese Satzung oder die Eigenbetriebsverordnung etwas anderes bestimmt ist. Der Betriebsleitung obliegt insbesondere die laufende Betriebsführung nach den Regelungen dieser Satzung. Diese
 
 Betriebssatzung
 
 Seite 6
 
-Zuständigkeit umfasst alle im täglichen Betrieb ständig wiederkehrenden Maßnahmen, die zur Aufrechterhaltung des Betriebes, der Erhaltung des infrastrukturellen Immobilienbestandes sowie der Erfüllung der übertragenen Aufgaben notwendig sind. Dazu gehören insbesondere der Einsatz des Personals, die Anordnung der notwendigen Instandhaltungsarbeiten, die Beschaffung von Material und Betriebsstoffen sowie Investitionsgütern des laufenden Bedarfs, die Entscheidung über alle Maßnahmen im Rahmen der Betreiberverantwortung und der Abschluss von Werkverträgen.
+(3) Der Betrieb wird von der Betriebsleitung selbständig geführt, soweit nicht durch gesetzliche Vorschriften, insbesondere durch die Gemeindeordnung, diese Satzung oder die Eigenbetriebsverordnung etwas anderes bestimmt ist. Der Betriebsleitung obliegt insbesondere die laufende Betriebsführung nach den Regelungen dieser Satzung. Diese Zuständigkeit umfasst alle im täglichen Betrieb ständig wiederkehrenden Maßnahmen, die zur Aufrechterhaltung des Betriebes, der Erhaltung des infrastrukturellen Immobilienbestandes sowie der Erfüllung der übertragenen Aufgaben notwendig sind. Dazu gehören insbesondere der Einsatz des Personals, die Anordnung der notwendigen Instandhaltungsarbeiten, die Beschaffung von Material und Betriebsstoffen sowie Investitionsgütern des laufenden Bedarfs, die Entscheidung über alle Maßnahmen im Rahmen der Betreiberverantwortung und der Abschluss von Werkverträgen.
 
 Zu den Geschäften der laufenden Betriebsführung gehören ferner die Entscheidung über Vergaben nach VOB/VGV nach vorheriger Ausschreibung gemäß den städtischen Vergaberichtlinien sowie der Abschluss der entsprechenden Verträge mit den den Zuschlag erhaltenden Bietern. Die Betriebsleitung entscheidet selbständig über den Abschluss von Grundstücksgeschäften in den durch die Zuständigkeitsordnung der Stadt Köln für die Geschäfte der laufenden Verwaltung festgelegten Wertgrenzen sowie über den Abschluss von Verträgen zur Anmietung von Liegenschaften im Rahmen der vom Fachausschuss oder Rat festgestellten Bedarfe.
 
@@ -197,9 +235,9 @@ Zu den Geschäften der laufenden Betriebsführung gehören ferner die Entscheidu
 (1) Die Oberbürgermeisterin/der Oberbürgermeister ist Dienstvorgesetzter der Bediensteten des Betriebs. Sie/Er trifft die erforderlichen dienst- und arbeitsrechtlichen Entscheidungen. Die Betriebsleitung hat ein Vorschlagsrecht.
 (2) Im Interesse der Einheitlichkeit der Verwaltung sowie zur Erreichung gesamtstädtischer Ziele kann die Oberbürgermeisterin/der Oberbürgermeister der Betriebsleitung Weisungen erteilen.
 (3) Glaubt die Betriebsleitung nach pflichtgemäßem Ermessen die Verantwortung für die Durchführung einer Weisung nicht übernehmen zu können und führt ein Hinweis auf entgegenstehende Bedenken der Betriebsleitung nicht zu einer Änderung der Weisung, so hat sie sich an den Betriebsausschuss zu wenden. Wird keine Übereinstimmung zwischen der Oberbürgermeisterin/dem Oberbürgermeister und dem Betriebsausschuss erzielt, so ist die Entscheidung des Hauptausschusses herbeizuführen.
-(4) Die Oberbürgermeisterin/Der Oberbürgermeister bereitet im Benehmen mit der Betriebsleitung die Vorlagen für den Betriebsausschuss und den Rat vor.
 
 Betriebssatzung
+(4) Die Oberbürgermeisterin/Der Oberbürgermeister bereitet im Benehmen mit der Betriebsleitung die Vorlagen für den Betriebsausschuss und den Rat vor.
 
 Seite 7
 
@@ -211,7 +249,7 @@ Seite 7
 (1) Die Stadt Köln wird in Angelegenheiten der Gebäudewirtschaft durch die Erste Betriebsleiterin/den Ersten Betriebsleiter und einer geschäftsführenden Betriebsleiterin/einem geschäftsführenden Betriebsleiter oder von der geschäftsführenden Betriebsleitung jeweils gemeinschaftlich vertreten.
 (2) Die Erste Betriebsleiterin/der Erste Betriebsleiter sowie die/der zur gemeinschaftlichen Vertretung mit dieser/diesem befugte kaufmännische oder technische Betriebsleiter/Betriebsleiterin oder die gemeinschaftlich befugte geschäftsführende Betriebsleitung unterzeichnen unter dem Namen „Gebäudewirtschaft der Stadt Köln“ , Die jeweiligen Stellvertreter/Stellvertreterinnen unterzeichnet mit dem Zusatz „In Vertretung“.
 (3) Andere Bedienstete der Gebäudewirtschaft der Stadt Köln sind vertretungsberechtigt, wenn sie hierzu besonders bevollmächtigt sind. Sie unterzeichnen stets mit dem Zusatz „Im Auftrag“.
-(4) Formbedürftige Verpflichtungserklärungen im Sinne des § 64 Abs. 1 Gemeindeordnung werden - soweit sie nicht zu den Geschäften der laufenden Betriebsführung gehören von der Oberbürgermeisterin/vom Oberbürgermeister oder seiner allgemeinen Vertretung und einem Mitglied der Betriebsleitung unterzeichnet. Sie sind unter der Bezeichnung „Stadt Köln –Die Oberbürgermeisterin/Der OberbürgermeisterGebäudewirtschaft der Stadt Köln“ abzugeben. Die/Der Erste Betriebsleiterin/Betriebsleiter unterzeichnet mit dem Zusatz „In Vertretung“, die/der Geschäftsführende Betriebsleiterin/Betriebsleiter mit dem Zusatz „Im Auftrag“.
+(4) Formbedürftige Verpflichtungserklärungen im Sinne des § 64 Abs. 1 Gemeindeordnung werden - soweit sie nicht zu den Geschäften der laufenden Betriebsführung gehören von der Oberbürgermeisterin/vom Oberbürgermeister oder seiner allgemeinen Vertretung und einem Mitglied der Betriebsleitung unterzeichnet. Sie sind unter der Bezeichnung „Stadt Köln –Die Oberbürgermeisterin/Der Oberbürgermeister- Gebäudewirtschaft der Stadt Köln“ abzugeben. Die/Der Erste Betriebsleiterin/Betriebsleiter unterzeichnet mit dem Zusatz „In Vertretung“, die/der Geschäftsführende Betriebsleiterin/Betriebsleiter mit dem Zusatz „Im Auftrag“.
 (5) Der Kreis der Vertretungsberechtigten und der Umfang ihrer Vertretungsbefugnisse werden durch die Betriebsleitung im Amtsblatt der Stadt Köln bekanntgegeben.
 
 § 10 Personalvertretung Die Rechte der Personalvertretung bleiben unberührt.
@@ -221,11 +259,9 @@ Betriebssatzung
 Seite 8
 
 § 11 Stammkapital
-
 Das Stammkapital der Gebäudewirtschaft beträgt € 1.000.000 (in Worten: eine Million Euro).
-
-§ 12 Wirtschaftsjahr Wirtschaftsjahr ist das Haushaltsjahr der Stadt Köln.
-
+§ 12 Wirtschaftsjahr
+Wirtschaftsjahr ist das Haushaltsjahr der Stadt Köln.
 § 13 Wirtschaftsplan und Wirtschaftsführung
 (1) Der Wirtschaftsplan besteht aus dem Erfolgsplan, dem Vermögensplan und der Stellenübersicht. Ist der Wirtschaftsplan ausnahmsweise zu Beginn des Wirtschaftsjahres noch nicht aufgestellt, gilt § 82 Gemeindeordnung entsprechend.
 (2) Der Wirtschaftsplan ist unverzüglich zu ändern, wenn eine der in § 14 Abs. 2 Buchstabe a) bis d) der Eigenbetriebsverordnung genannten Voraussetzungen eintritt. Dabei gilt:
@@ -234,7 +270,6 @@ Das Stammkapital der Gebäudewirtschaft beträgt € 1.000.000 (in Worten: eine 
 (3) Erfolgsgefährdende Mindererträge oder Mehraufwendungen beim Erfolgsplan liegen im Sinne von § 15 Abs. 3 der Eigenbetriebsverordnung vor, wenn ein Planansatz (Summe Aufwand und Ertrag) um mehr als 10 % unter- bzw. überschritten werden muss.
 (4) Ausgaben für verschiedene Vorhaben des Vermögensplans, die sachlich eng zusammenhängen, sind gegenseitig deckungsfähig. Der Zustimmung des Betriebsausschusses gem. § 16 Absatz 5 Satz 2 Eigenbetriebsverordnung bedürfen Mehrausgaben für Einzelvorhaben, die 10 % des Ansatzes im Vermögensplan, mindestens jedoch € 100.000 überschreiten.
 (5) Als Ergänzung zum Erfolgsplan ist eine Spartenplanung aufzustellen, getrennt nach den Sparten „Kindertageseinrichtungen“, „Verwaltungsgebäude“ und „Schulgebäude“, letztere abermals nach Schulformen untergliedert (Unterspartenplanung). Geplante gemeinsame Aufwendungen und Erträge sind sachgerecht auf die Sparten und Untersparten aufzuteilen. Im Übrigen findet § 17 Abs. 3 und 4 auf die Erstellung des Erfolgsplanes sinngemäße Anwendung.
-
 § 14 Finanzplanung
 (1) Zusammen mit dem Wirtschaftsplan ist ein fünfjähriger Finanzplan vorzulegen. Das erste Jahr des Planungszeitraums ist das laufende Wirtschaftsjahr.
 
@@ -255,14 +290,15 @@ Die Betriebsleitung hat die Oberbürgermeisterin/den Oberbürgermeister und den 
 
 § 17 Jahresabschluss, Lagebericht
 (1) Jahresabschluss und Lagebericht sind bis zum Ablauf von drei Monaten nach Ende des Wirtschaftsjahres von der Betriebsleitung aufzustellen und über die Oberbürgermeisterin/den Oberbürgermeister dem Betriebsausschuss vorzulegen.
-(2) Aufstellung, Prüfung und Feststellung von Jahresabschluss und Lagebericht sind entsprechend den für große Kapitalgesellschaften geltenden Vorschriften des Dritten Buches des Handelsgesetzbuches vorzunehmen.
+(2) Aufstellung, Prüfung und Feststellung von Jahresabschluss und Lagebericht sind entsprechend den für große Kapitalgesellschaften geltenden Vorschriften des Dritten Buches des Handelsgesetzbuches vorzunehmen. Eine Pflicht zur Nachhaltigkeitsberichterstattung wird hiermit nicht begründet.
 (3) Überschüsse aus der Veräußerung von Vermögen sind im Jahresabschluss oder im Anhang dazu gesondert auszuweisen.
 (4) Für jede der Sparten “Kindertageseinrichtungen“, „Verwaltungsgebäude“ und „Schulgebäude“ ist eine Gewinn- und Verlustrechnung aufzustellen, die in den Anhang aufzunehmen ist (Spartenrechnung). Für die Sparte „Schulgebäude“ sind zusätzlich Gewinn- und Verlustrechnungen für jede einzelne Schulform aufzustellen (Unterspartenrechnung). Dabei sind gemeinsame Aufwendungen und Erträge sachgerecht auf die Sparten und Untersparten zu verteilen. Die für die Bauunterhaltung aufgewandten Mittel werden insgesamt und nach Sparten getrennt ausgewiesen.
 
 § 18 Kassenführung
-Für die Kassenführung der Gebäudewirtschaft wird eine Sonderkasse eingerichtet. Die Kassenführung richtet sich nach den Bestimmungen der Gemeindehaushaltsverordnung vom 16.11.2004 in der jeweils gültigen Fassung. Die Einzelheiten regelt eine gesonderte Dienstanweisung.
+Für die Kassenführung der Gebäudewirtschaft wird eine Sonderkasse eingerichtet. Die Kassenführung richtet sich nach den Bestimmungen der Gemeindeordnung (GO NRW) und der Verordnung über das Haushaltswesen der Gemeinden (KomHVO NRW) in der jeweils gültigen Fassung, soweit die Eigenbetriebsverordnung
 
 Betriebssatzung
+(EigVO NRW) nichts anderes bestimmt. Die Einzelheiten regelt eine gesonderte Dienstanweisung.
 
 Seite 10
 
