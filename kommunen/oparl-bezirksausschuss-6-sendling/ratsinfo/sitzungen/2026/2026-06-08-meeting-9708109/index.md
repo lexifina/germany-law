@@ -1,0 +1,159 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-06-08T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9708109
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9708109
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 18.05.2026
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Zunehmende Verschlechterung bei den Müll- und Glascontainern
+- TOP 2.2.: Lastwagenstopp in der Valleystraße/Krähen/Raben
+- TOP 2.3.: Bitte um Unterstützung zur Verkehrssicherheit vor der Kita Rauda am Harras – Plinganserstraße 63
+- TOP 2.4.: Behindertengerechte Überquerung Brudermühlstraße am Westportal
+- TOP 2.5.: Radverkehr in der Lindenschmittstraße
+- TOP 2.6.: Situation um den Quartiersplatz
+- TOP 2.7.: Bitte um Aufstellung von Abfalleimern und Hinweisschild auf öffentliche Toilette
+- TOP 2.8.: Spielplatz Dietramszeller Platz
+- TOP 2.9.: Zustand der Wertstoffinseln in Mittersendling - Zechstraße
+- TOP 2.10.: Grünfläche Wackersberger/Reutberger Straße
+- TOP 2.11.: Geplante Einführung von Kindergartengebühren in München
+- TOP 2.12.: Müllbehälter Aberlestraße/Oberländerstraße
+- TOP 2.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.14.: Lärmsituation am Flaucher
+- TOP 2.15.: Verlegung des Eingangs zur Stemmerwiese
+- TOP 2.16.: Implerstraße/Oberländerstraße - Verkehrssituation
+- TOP 2.17.: SEV Führung Implerstraße
+- TOP 2.18.: Sperrung der U-Bahn von der Implerstraße zum Sendlinger-Tor-Platz
+- TOP 2.19.: Parkplatzsituation um die Implerstraße
+- TOP 2.20.: Lärmsituation in Sendling
+- TOP 2.21.: Lückenschluss Tempo 30 in der Ganghoferstraße
+- TOP 2.22.: Grundversorgung um den Harras
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Berichte der BA-Vorsitzenden/des BA-Vorstands, Berichte v. Beauftragten (max. 2 Min Redezeit)
+- TOP 5.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Culture Clouds e.V. „Pop-UP 2027 1 Projekt Zirkus Pumpernudl vom 01.01.2027 - 31.12.2027“ 4.812,00 € / AZ: 0262.100-6-0608 Hinweis:vertagt aus 05/26
+- TOP 5.1.2.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. „Symphonisches Chorkonzert am 10.10.2026“ 5.000,00 € / AZ: 0262.100-6-0602
+- TOP 5.1.3.: (E) Stadtbezirksbudget Kurdische Gemeinde München e.V. „Kurdische Filmtage vom 20.05.2026 - 24.05.2026“ 2.932,50 € / AZ: 0262.100-6-0626
+- TOP 5.1.4.: (E) Stadtbezirksbudget Init. "Gitarrenfestival" Gitarrenfestival München vom 21.07.2026 - 25.07.2026 5.266,88€; Az. 0262.100-6-0629
+- TOP 5.1.5.: (E) Stadtbezirksbudget Nachbarschaftsinitiative Meindlstraße für alle „Parklet in der Meindlstraße 6 vom 15.05.2026 - 31.10.2026“ 614,99 € / AZ: 0262.100-6-0628
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Anträge
+- TOP 5.3.1.: Installation eines festen Bodenschach-Feldes mit Spielfiguren zwischen Valley- u. Implerpark
+- TOP 5.3.2.: Sanierung der Mauer an der Alten Sendlinger Kirche
+- TOP 5.4.: Unterrichtungen
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Mobilität
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: (E) Ausbau von Protected Bike Lanes wo immer im Stadtbezirk möglich
+- TOP 6.1.2.: (E) Verkehrsgefährdung/Lärmbelastung Bavariastraße, Sendling
+- TOP 6.1.3.: (E) Behinderten-Parkausweis
+- TOP 6.1.4.: Erneute Zustimmung nötig: Installation Fahrradabstellplätze Kraeler- / Ganghoferstraße (Wegfall 3 statt 2 KFZ-Stellplätze) TOP 5.2.4 / 11/25
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Plinganserstraße - BA-Anhörung
+- TOP 6.3.: Anträge
+- TOP 6.3.1.: 2-spurige Implerstraße (FDP)
+- TOP 6.3.2.: Optimierung der Platzverhältnisse an den SEV-Haltestellen - Implerstraße / Oberländerstraße (FDP)
+- TOP 6.3.3.: Leih-E-Tretroller und Leihräder dürfen nur noch auf geteilten Abstellflächen abgestellt werden (SPD-Fraktion)
+- TOP 6.4.: Unterrichtungen
+- TOP 6.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.2.: Entwicklung des Fahrzeugbestandes in Sendling: Woher kommt die Zunahme an gewerblichen Fahrzeugen (Bündnis 90/Die Grünen) Hinweis: vertagt aus 05/26
+- TOP 6.4.3.: Antrag mit ausführlicher Begründung zur dringend notwendigen Sanierung, Verbesserung und Neuorganisation des nördlichen Zugangs der Unterführung an der S-Bahn-Station
+- TOP 6.4.4.: Status Fahrradstellplatz Schäftlarnstraße 62 Antwort des MOR auf Bürger*innenanliegen TOP 2.2 aus 02/26
+- TOP 6.4.5.: Südbahnhof für München (SPD)
+- TOP 6.4.6.: Verkehrsrechtliche Anordnung Tempo 30: Lärmschutz im Umgriff Herzog-Ernst-Platz
+- TOP 6.4.7.: Anfrage zur Plinganserstraße in Sendling
+- TOP 6.4.8.: Beschwerde - Massives Verkehrs- und Parkchaos im Dreimühlenviertel durch Eid-Festival am Großmarkt (28/29.03.26) Antwort des KVR auf Bürger*innenanliegen TOP 2.18 aus 04/26
+- TOP 6.4.9.: Anliegen zur Verkehrssicherheit am Mehrzweckweg Jägerwirthstraße Antwort des MOR auf Bürger*innenanliegen TOP 2.17 aus 04/26
+- TOP 6.4.10.: Anfrage zu Dauer und Begründung des absoluten Halteverbots in der Alramstraße Antwort des MOR auf Bürger*innenanliegen TOP 2.7 aus 01/26
+- TOP 6.4.11.: Schäftlarnstraße Parklizenzgebiet „Brudermühlviertel“
+- TOP 6.4.12.: STADTRADELN 2026 - Einladung Bezirksausschüsse
+- TOP 6.4.13.: Überprüfung der Maßnahmen zur Verkehrssituation Interims-Gasteig
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Öffentlicher Raum, Begrünung und Gewerbe
+- TOP 7.1.: Entscheidungen
+- TOP 7.1.1.: Genehmigung eines Schanigartens in der Lindwurmstraße 205
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Bez. 6 - Anhörung VA öffentl. Grund: "Sommerfeierabend Daiserstraße" in der Daiserstr. (zwischen Alramstr. und Oberländerstr.) am 25.07.2026; TERMIN: 26.06.2026
+- TOP 7.3.: Anträge
+- TOP 7.3.1.: Neu-Aufstellung einer Sitzbank an der Ecke Alramstraße / Danklstraße (Antrag Seniorenvertretung)
+- TOP 7.3.2.: Neu-Aufstellung einer Sitzbank an der Ecke Roter-Turm-Platz / Esswurmstraße (Antrag Seniorenvertretung)
+- TOP 7.3.3.: Resilienz der Stadt München stärken: Baum-Biodiversität im Straßenraum (ÖDP)
+- TOP 7.4.: Unterrichtungen
+- TOP 7.4.1.: Dringende Bitte um Reinigung der Mülleimer an der Stemmerwiese, Sendling Antwort des BAU auf Bürger*innenanliegen TOP 2.4 aus 04/26
+- TOP 7.4.2.: Baustelleneinrichtung Wackersberger Straße 49
+- TOP 7.4.3.: Arbeiten im Straßenraum; Gotzinger Straße 46-56, Oberländerstraße 1-3a, Thalkirchner Straße 130, Gotzinger Platz 4-6; Verlegung Fernwärmeanschluss– Phase 1 und 2
+- TOP 7.4.4.: Aufwertung städtisches Grün zwischen Isartalstraße und Großem Stadtbach Info zu Bürger*innenanliegen TOP 2.15 aus 03/26
+- TOP 7.4.5.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV) Fällungsantrag vom 04.03.2026 auf dem Grundstück Albert-Roßhaupter-Str. 3 - 3b
+- TOP 7.4.6.: Baustelleneinrichtung Erweiterung Gotzinger Str. 46-56
+- TOP 7.4.7.: Projektidee MünchenBudget zur Isar
+- TOP 7.4.8.: Projektideen MünchenBudget zu Kultur
+- TOP 7.4.9.: Rundschreiben des Stadttaubenmanagements
+- TOP 7.4.10.: Baustelleneinrichtung Flaucher
+- TOP 7.4.11.: Taubenplage: Wohnanlage Implerstrasse 23, 25, 25a; Mailverlauf zwischen Bürger und Verwaltung
+- TOP 7.4.12.: Sofortmaßnahme zur Hitze-Resilienz: Modulare Verschattung für den Harras (Platzfolge); SPD-Antrag
+- TOP 7.4.13.: Ausnahmegenehmigung Grünanlage: Stadtteilwoche Sendling-Obersendling, Grünanlage Neuhofen Süd, Neuhofener Park (Alois-Johannes-Lippl-Weg) vom 11.-17.06.2026
+- TOP 7.4.15.: Fällungsantrag vom 14.04.2026 auf dem Grundstück Implerstr. 51 - 15a
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Soziales, Bildung und Kultur
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.2.: Sendlinger Bergweihnacht 2026
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Anträge
+- TOP 8.3.1.: Unterstützung für das H-Team in Sendling
+- TOP 8.3.2.: Sendling feiert 2027 150 Jahre Eingemeindung (SPD-Fraktion)
+- TOP 8.4.: Unterrichtungen
+- TOP 8.4.1.: Stellungnahmen zu Erfahrungsberichten der BAs zum Oktoberfest 2025
+- TOP 8.4.2.: Jubiläum 2032: Sendling = 1250 Jahre
+- TOP 8.4.3.: 150 Jahre Sendlinger Eingemeindung am 1.1.2027
+- TOP 8.4.4.: Bez. 6/19 - Anhörung VA Grünanlage: Stadtteilwoche Sendling-Obersendling, Grünanlage Neuhofen Süd, Neuhofener Park (Alois-Johannes-Lippl-Weg) vom 11.-17.06.2026; TERMIN: 19.05.2026
+- TOP 8.4.5.: Einladung zum BA-Austauschtreffen mit dem Baureferat am 17. Juni 2026
+- TOP 8.4.6.: Stadtteilwoche im Stadtbezirk 6/19 – Sendling-Obersendling Informationsmarkt auf dem Festplatz im Neuhofener Park 13.06.2026 von 12.00 – 18.00 Uhr
+- TOP 8.4.7.: Ausnahmegenehmigung Grünanlage: TREE RIVER Installation+Theater, diverse Grünflächen (Isarauen, Frühlingsanlagen, Luitpoldpark) am 20./21./27.06. und 28.06.2026 (Ersatztermin: 04.+05.07.)
+- TOP 8.4.8.: Lasst uns mal ran! Projektideen einreichen
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: LGBTIQ-Strategie der Landeshauptstadt München Anfrage der Koordinierungsstelle zur Gleichstellung zum Austausch mit dem BA
+- TOP 9.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Implerstr. 9a Aufstockung eines bestehenden Geschäftsgebäudes mit Einzelhandel um Bürogeschosse in zwei Varianten - VORBESCHEID I 19.06.2026
+- TOP 9.2.2.: Daiserstr. 1 Antrag auf Nutzungsänderung der Großtagespflege im EG der Daiserstr. 1 in eine Mini-Kita I 19.06.2026
+- TOP 9.2.3.: Matthias-Mayer-Str. 5 Aufstockung eines Bestandsgebäudes mit Umbau der Vorderfassade sowie Nutzungsänderung von Werkstattflächen zu Wohneinheiten - mit Mobilitätskonzept I 19.06.2026
+- TOP 9.3.: Anträge
+- TOP 9.4.: Unterrichtungen
+- TOP 9.4.1.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025 Hinweis: vertagt aus 05/26
+- TOP 9.4.2.: Planfeststellungsverfahren und die Zwei-Wochen-Frist Hinweis: vertagt aus 05/26
+- TOP 9.4.3.: Planungsstand U9 Antwort der MVG auf Bürger*innenanliegen TOP 2.2 aus 03/26
+- TOP 9.4.4.: Entschlossenes Durchgreifen bei spekulativem Leerstand Hinweis: vertagt aus 05/26
+- TOP 9.4.5.: Anpassung des Planungsauftrages zur Plinganserstraße
+- TOP 9.4.6.: Brandschaden Luise-Kiesselbach-Tunnel (Vorstellung im BA gewünscht?)
+- TOP 9.4.7.: -Zwischennachricht- Verbot gewerblich betriebener Vermietung von möblierten Kleinwohnungen Empfehlung der Bürgerversammlung des Stadtbezirkes 06 – Sendling vom 20.11.2025
+- TOP 9.4.8.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt" - Projektaufruf für das Förderjahr 2027
+- TOP 9.5.: Sonstiges
+- TOP 10.: Verschiedenes / Sonstiges
+- TOP 10.1.: Entscheidungen
+- TOP 10.2.: Anhörungen
+- TOP 10.3.: Anträge
+- TOP 10.4.: Unterrichtungen
+- TOP 10.5.: Sonstiges
+- TOP 9.4.9.: Kommunale Wärmeplanung - Ergebnisbericht
+- TOP 2.23.: Verbesserung der Verkehrssicherheit in der Brudermühlstraße zwischen Thalkirchner Straße und Schäftlarnstraße
+- TOP 6.4.14.: Nachfrage bzgl. Antrag vom 13.09.2025 (TOP 5.1.5 von 09/25) zur Verbesserung der Verkehrssicherheit in der Brudermühlstraße zwischen Thalkirchner Straße und Schäftlarnstraße
+- TOP 6.4.15.: Tempo 30 - Regelgeschwindigkeit in Sendling Antwort zu BA-Antrag Nr. 20-26 / B 02364
+- TOP 6.4.16.: (E) Verbesserung der Verkehrssicherheit für Kinder und Familien, Bewohner*innen des Stadtbezirks Sendling
+- TOP 6.5.1.: Erstellen einer zusätzlichen Fahrrad-Abstellmöglichkeit am Resi-Huber-Platz Bitte um einen Ortstermin zum BA-Antrag 20-26 / B 08834
+- TOP 7.4.14.: Ankündigung Wettbewerb "Mehr Grün für München" - Anmeldeschluss 30. Juni 2026
+- TOP 8.5.2.: Austausch zu möglichen Kooperationen & Programmideen für „im Dazwischen“ (Ganghoferstraße 47)
+- TOP 10.5.1.: Einladungen zum Oktoberfest 2026
+- TOP 7.2.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Konzert Sendlinger Kulturschmiede e.V. am Sendlinger Kirchplatz am 27.06.2026
+- TOP 6.2.2.: Anpassungsprogramms 2027 der Münchner Verkehrsgesellschaft mbH (MVG)
+- TOP 8.1.1.: Benennung Delegierte Nutzerbeirat LUISE
