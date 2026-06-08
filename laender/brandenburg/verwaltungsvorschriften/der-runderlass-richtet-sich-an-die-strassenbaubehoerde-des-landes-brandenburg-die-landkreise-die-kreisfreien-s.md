@@ -1,51 +1,33 @@
-# Der Runderlass richtet sich an: die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Nachrichtlich an:
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 07/20
 
 - Herausgeber: Land Brandenburg
-- Datum: 2026-05-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/hiu_4__fortschr_2026
+- Datum: 2026-06-08 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_re_12_2026
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU), 4. Fortschreibung 2025
+Außerkrafttreten technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Asphaltmischgut für den Bau von Verkehrsflächenbefestigungen, Ausgabe 2007/Fassung 2013 (TL Asphalt-StB 07/13)
 
-vom 27. Mai 2026
+vom 8. Juni 2026
 
-(ABl./26, [Nr. 24], S.517)
+(ABl./26, [Nr. 25], S.528)
 
-Der Runderlass richtet sich an:
+Der Runderlass richtet sich an
 
 die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Nachrichtlich an:
+Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 07/2026 vom 25. März 2026 (VkBl. S. 386) hat das Bundesministerium für Verkehr die „Technischen Lieferbedingungen für Asphaltmischgut für den Bau von Verkehrsflächenbefestigungen, Ausgabe 2026 (TL Asphalt-StB 2026)“ bekannt gegeben. Die TL Asphalt-StB 26 ersetzen die TL Asphalt-StB 07/13.
 
-Landesrechnungshof Brandenburg
+Gemäß Runderlass des Ministeriums für Infrastruktur und Landesplanung „Einführung technischer Regelwerke und Erlasse des Bundes im Straßenbau des Landes Brandenburg; Sachgebiete Erd- und Grundbau, Entwässerung, Straßenbefestigungen, Straßenbaustoffe, Straßenerhaltung“ vom 12. April 2021 (ABl. S. 378) gilt das Allgemeine Rundschreiben Nummer 07/2026 automatisch einen Monat nach Veröffentlichung im Amtsblatt des Bundesministeriums für Digitales und Verkehr (Verkehrsblatt) als verbindlich eingeführt für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Bundesfernstraßen und Landesstraßen. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-Städte- und Gemeindebund Brandenburg
+Die folgenden Runderlasse werden hiermit aufgehoben:
 
-Landkreistag Brandenburg
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - „Technische Lieferbedingungen für Asphaltmischgut für den Bau von Verkehrsflächenbefestigungen, Ausgabe 2007/Fassung 2013 (TL Asphalt-StB 07/13)“ vom 2. April 2014 (ABl. S. 606)
 
-DEGES
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - „Durchführung von Prüfungen an Straßenbau- und Polymermodifizierten Bitumen“ vom 19. September 2019 (ABl. S. 1100) im Hinblick auf die TL Asphalt-Stb StB 07/13.
 
-Die „Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU)“ sollen eine nachvollziehbare und auf den gleichen Grundsätzen aufbauende Vorgehensweise für die Erstellung und Prüfung von lärm- und luftschadstofftechnischen sowie erschütterungstechnischen Untersuchungen im Rahmen der Entwurfsplanung und Planfeststellung von Straßenbauvorhaben im Land Brandenburg gewährleisten.
-
-Der Aktualisierungsbedarf der 1999 erstmals eingeführten HiU ergibt sich fortlaufend durch die Änderung von Gesetzen, technischen Regelwerken, Methoden und neuen fachlichen Erkenntnissen. Diese nunmehr 4. Fortschreibung mit Stand 08/2025 wurde aufgrund folgender Punkte durchgeführt:
-
-Aktualisierung der bestehenden Themenkomplexe und Anpassung an neue Regelwerke und Vorschriften
-
-Ergänzung des Themenbereichs Lärm um Gesamtlärm und Lärm im nachgeordneten Netz
-
-Erweiterung um Themenkomplexe Baulärm an Verkehrsanlagen und (Bau-)Erschütterungen durch bauliche Tätigkeiten an Verkehrsanlagen
-
-Hiermit werden die „Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU)“, Stand 08/2025 für den Bereich der Bundes- und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
-
-Der Runderlass „Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Immissionsschutz - Hinweise zur Aufstellung und Prüfung von immissionstechnischen Untersuchungen (HiU)“ vom 16. November 2016 (ABl. S. 1555) wird hiermit aufgehoben.
-
-Die HiU wird fortlaufend an neue Entwicklungen und Erkenntnisse angepasst. Der aktuelle Stand der HiU steht unter der Internetadresse des Landesbetriebs Straßenwesen Brandenburg https://www.ls.brandenburg.de als Download zur Verfügung.
-
-Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse https://bravors.brandenburg.de/de/vorschriften_schnellsuche eingestellt.
-
-Dieser Erlass tritt mit seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
+Das Verzeichnis der gültigen technischen Regelwerke und Regelungen beziehungsweise zugehörigen Allgemeinen Rundschreiben Straßenbau des Bundesverkehrsministeriums wird auf der Internetseite des Landesbetriebes Straßenwesen Brandenburg geführt.
