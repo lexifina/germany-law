@@ -17,4 +17,9 @@ Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absat
 14. entkernte Maiskolben,
 15. Biomasse-Anteile von Abfällen und Reststoffen aus der Forstwirtschaft und forstbasierten Industrien, insbesondere Rinde, Zweige, vorkommerzielles Durchforstungsholz, Blätter, Nadeln, Baumspitzen, Sägemehl, Sägespäne, Schwarzlauge, Braunlauge, Faserschlämme, Lignin und Tallöl,
 16. anderes zellulosehaltiges Non-Food-Material im Sinne des Artikels 2 Nummer 42 der Richtlinie 2018/2001/EU in der jeweils geltenden Fassung,
-17. anderes lignozellulosehaltiges Material im Sinne des Artikels 2 Nummer 41 der Richtlinie 2018/2001/EU in der jeweils geltenden Fassung mit Ausnahme von Säge- und Furnierrundholz.
+17. anderes lignozellulosehaltiges Material im Sinne des Artikels 2 Nummer 41 der Richtlinie 2018/2001/EU in der jeweils geltenden Fassung mit Ausnahme von Säge- und Furnierrundholz,
+18. Fuselöle aus der Alkoholdestillation,
+19. Rohmethanol aus Kraftzellstoff, der aus der Zellstoffherstellung stammt,
+20. Zwischenfrüchte wie Zweitfrüchte und Deckpflanzen, die in Gebieten angebaut werden, in denen die Erzeugung von Nahrungs- und Futtermittelpflanzen aufgrund einer kurzen Vegetationszeit auf eine Ernte beschränkt ist, sofern ihre Nutzung keine Nachfrage nach zusätzlichen Flächen verursacht und der Gehalt an organischen Bodensubstanzen erhalten bleibt und soweit sie für die Herstellung von Biokraftstoffen für den Luftverkehrssektor verwendet werden,
+21. Pflanzen, die auf stark degradierten Flächen angebaut werden, mit Ausnahme von Nahrungs- und Futtermittelpflanzen, soweit sie für die Herstellung von Biokraftstoffen für den Luftverkehrssektor verwendet werden,
+22. Cyanobakterien.

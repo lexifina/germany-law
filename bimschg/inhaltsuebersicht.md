@@ -72,22 +72,27 @@ Treibhausgasminderung bei Kraftstoffen
 Erster Abschnitt
 Beschaffenheit von Anlagen, Stoffen,
 Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen
-| § 32 | Beschaffenheit von Anlagen |
-| § 33 | Bauartzulassung |
-| § 34 | Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen |
-| § 35 | Beschaffenheit von Stoffen und Erzeugnissen |
+| § 32 | Beschaffenheit von Anlagen; Verordnungsermächtigung |
+| § 33 | Bauartzulassung; Verordnungsermächtigung |
+| § 34 | Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen; Verordnungsermächtigung |
+| § 35 | Beschaffenheit von Stoffen und Erzeugnissen; Verordnungsermächtigung |
 | § 36 | Ausfuhr |
-| § 37 | Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union |
+| § 37 | Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union; Verordnungsermächtigung |
 Zweiter Abschnitt
 Treibhausgasminderung bei Kraftstoffen
 | § 37a | Pflichten für Inverkehrbringer von Kraftstoffen |
-| § 37b | Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen |
+| § 37b | Begriffsbestimmungen und Anrechenbarkeit von erneuerbaren Kraftstoffen |
 | § 37c | Mitteilungs- und Abgabepflichten |
 | § 37d | Zuständige Stelle, Rechtsverordnungen |
 | § 37e | Gebühren und Auslagen; Verordnungsermächtigung |
 | § 37f | Berichte über Kraftstoffe und Energieerzeugnisse |
 | § 37g | Bericht der Bundesregierung |
 | § 37h | Mechanismus zur Anpassung der Treibhausgasminderungs-Quote; Verordnungsermächtigung |
+| § 37i | Eintragung in die Unionsdatenbank |
+| § 37j | Flugkraftstoffanbieter |
+| § 37k | Überwachung von Flugkraftstoffanbietern |
+| § 37l | Abgabepflicht bei Flugkraftstoffen; Bericht |
+| § 37m | Zuständige Stelle; Verordnungsermächtigung |
 Vierter Teil
 Beschaffenheit
 und Betrieb von Fahrzeugen, Bau und
@@ -124,7 +129,7 @@ Gemeinsame Vorschriften
 | § 51 | Anhörung beteiligter Kreise |
 | § 51a | Kommission für Anlagensicherheit |
 | § 51b | Sicherstellung der Zustellungsmöglichkeit |
-| § 52 | Überwachung |
+| § 52 | Überwachung, Einschränkung von Grundrechten |
 | § 52a | Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie |
 | § 52b | Mitteilungspflichten zur Betriebsorganisation |
 | § 53 | Bestellung eines Betriebsbeauftragten für Immissionsschutz |
@@ -142,8 +147,10 @@ Gemeinsame Vorschriften
 | § 60 | Ausnahmen für Anlagen der Landesverteidigung |
 | § 61 | Berichterstattung an die Europäische Kommission |
 | § 62 | Ordnungswidrigkeiten |
+| § 62a | Bußgeldvorschriften zur Verordnung (EU) 2023/2405 |
 | § 63 | Rechtsbehelfe und Entfall der aufschiebenden Wirkung |
-| §§ 64 bis 65 | (weggefallen) |
+| § 64 | Datenübermittlung |
+| § 65 | (weggefallen) |
 Achter Teil
 Schlussvorschriften
 | § 66 | Fortgeltung von Vorschriften |

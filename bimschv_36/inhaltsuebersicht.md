@@ -10,4 +10,4 @@
 | § 8 | Zuständige Stelle |
 | § 9 | Tierische Fette und Öle |
 | § 10 | Zugänglichkeit der DIN-Normen |
-| § 11 | Anpassung der Treibhausgasminderungs-Quote |
+| § 11 | (weggefallen) |

@@ -80,23 +80,28 @@
 
 ### Erster Abschnitt Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen
 
-- [§ 32 Beschaffenheit von Anlagen](0032.md)
-- [§ 33 Bauartzulassung](0033.md)
-- [§ 34 Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen](0034.md)
-- [§ 35 Beschaffenheit von Stoffen und Erzeugnissen](0035.md)
+- [§ 32 Beschaffenheit von Anlagen; Verordnungsermächtigung](0032.md)
+- [§ 33 Bauartzulassung; Verordnungsermächtigung](0033.md)
+- [§ 34 Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen; Verordnungsermächtigung](0034.md)
+- [§ 35 Beschaffenheit von Stoffen und Erzeugnissen; Verordnungsermächtigung](0035.md)
 - [§ 36 Ausfuhr](0036.md)
-- [§ 37 Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union](0037.md)
+- [§ 37 Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union; Verordnungsermächtigung](0037.md)
 
 ### Zweiter Abschnitt Treibhausgasminderung bei Kraftstoffen
 
 - [§ 37a Pflichten für Inverkehrbringer von Kraftstoffen](0037a.md)
-- [§ 37b Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen](0037b.md)
+- [§ 37b Begriffsbestimmungen und Anrechenbarkeit von erneuerbaren Kraftstoffen](0037b.md)
 - [§ 37c Mitteilungs- und Abgabepflichten](0037c.md)
 - [§ 37d Zuständige Stelle, Rechtsverordnungen](0037d.md)
 - [§ 37e Gebühren und Auslagen; Verordnungsermächtigung](0037e.md)
 - [§ 37f Berichte über Kraftstoffe und Energieerzeugnisse](0037f.md)
 - [§ 37g Bericht der Bundesregierung](0037g.md)
 - [§ 37h Mechanismus zur Anpassung der Treibhausgasminderungs-Quote; Verordnungsermächtigung](0037h.md)
+- [§ 37i Eintragung in die Unionsdatenbank](0037i.md)
+- [§ 37j Flugkraftstoffanbieter](0037j.md)
+- [§ 37k Überwachung von Flugkraftstoffanbietern](0037k.md)
+- [§ 37l Abgabepflicht bei Flugkraftstoffen; Bericht](0037l.md)
+- [§ 37m Zuständige Stelle; Verordnungsermächtigung](0037m.md)
 
 ## Vierter Teil Beschaffenheit und Betrieb von Fahrzeugen, Bau und Änderung von Straßen und Schienenwegen
 
@@ -134,7 +139,7 @@
 - [§ 51 Anhörung beteiligter Kreise](0051.md)
 - [§ 51a Kommission für Anlagensicherheit](0051a.md)
 - [§ 51b Sicherstellung der Zustellungsmöglichkeit](0051b.md)
-- [§ 52 Überwachung](0052.md)
+- [§ 52 Überwachung, Einschränkungen von Grundrechten](0052.md)
 - [§ 52a Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie](0052a.md)
 - [§ 52b Mitteilungspflichten zur Betriebsorganisation](0052b.md)
 - [§ 53 Bestellung eines Betriebsbeauftragten für Immissionsschutz](0053.md)
@@ -152,8 +157,10 @@
 - [§ 60 Ausnahmen für Anlagen der Landesverteidigung](0060.md)
 - [§ 61 Berichterstattung an die Europäische Kommission](0061.md)
 - [§ 62 Ordnungswidrigkeiten](0062.md)
+- [§ 62a Bußgeldvorschriften zur Verordnung (EU) 2023/2405](0062a.md)
 - [§ 63 Rechtsbehelfe und Entfall der aufschiebenden Wirkung](0063.md)
-- [(XXXX) §§ 64 bis 65 (weggefallen)](xxxx-64-bis-65.md)
+- [§ 64 Datenübermittlung](0064.md)
+- [§ 65 (weggefallen)](0065.md)
 
 ## Achter Teil Schlussvorschriften
 

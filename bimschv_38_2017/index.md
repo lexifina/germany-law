@@ -13,9 +13,10 @@
 
 ### Abschnitt 1 Allgemeine Bestimmungen zur Berechnung
 
-- [§ 3 Basiswert](0003.md)
+- [§ 3 Basiswert, Treibhausgasemissionen fossiler Kraftstoffe](0003.md)
 - [§ 4 Erweiterung der Definition der Biokraftstoffe](0004.md)
 - [§ 4a Regelungen für die Verpflichtungsjahre 2024 bis 2027](0004a.md)
+- [§ 4b Vor-Ort-Kontrollen](0004b.md)
 
 ### Abschnitt 2 Straßenfahrzeuge mit Elektroantrieb
 
@@ -28,7 +29,7 @@
 ### Abschnitt 3 Kraftstoffe fossilen Ursprungs
 
 - [§ 10 Treibhausgasemissionen von fossilen Otto- und Dieselkraftstoffen](0010.md)
-- [§ 11 Treibhausgasemissionen von weiteren fossilen Kraftstoffen](0011.md)
+- [§ 11 (weggefallen)](0011.md)
 
 ### Abschnitt 4 Biokraftstoffe
 
@@ -40,6 +41,7 @@
 - [§ 13 Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Nahrungs- und Futtermittelpflanzen](0013.md)
 - [§ 13a Obergrenze für die Anrechenbarkeit von abfallbasierten Biokraftstoffen](0013a.md)
 - [§ 13b Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung](0013b.md)
+- [§ 13c Obergrenze für die Anrechenbarkeit von tierischen Fetten der Kategorie 3](0013c.md)
 - [§ 14 Mindestanteil fortschrittlicher Biokraftstoffe](0014.md)
 - [§ 15 Nachweis der Einhaltung der Regelungen zu indirekten Landnutzungsänderungen](0015.md)
 
@@ -54,9 +56,9 @@
 
 ## Teil 6 Übergangs- und Schlussbestimmungen
 
-- [§ 21 Übergangsbestimmung](0021.md)
+- [§ 21 Übergangsbestimmungen](0021.md)
 - [§ 22 Inkrafttreten](0022.md)
 - [Anlage 1 (zu § 1 Absatz 2 und § 14 Absatz 1)Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absatz 1](anlage-1.md)
-- [Anlage 2 (zu den §§ 11 und 13)Treibhausgasemissionen fossiler Kraftstoffe](anlage-2.md)
+- [Anlage 2 (weggefallen)](anlage-2.md)
 - [Anlage 3 (zu § 5 Absatz 3 und § 11 Absatz 2)Anpassungsfaktoren für die Antriebseffizienz](anlage-3.md)
 - [Anlage 4 (zu § 13a)Rohstoffe für die Herstellung von Biokraftstoffen nach § 13a](anlage-4.md)
