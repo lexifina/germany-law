@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses für Chancengerechtigkeit und Integration
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-09T14:00:00+02:00
+- Ende: 2026-06-09T14:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/193
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34203
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34203
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer mündlichen Anfrage zum Thema "Ausbau mehrsprachiges Angebot in Kölner Museen" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage zur Notunterkunft Vorgebirgsstraße - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage zur Zusammensetzung und Legitimität vom Amt für Integration und Vielfalt bzw. seines Kommunalen Integrationszentrums angesetzten Gremien - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Anfrage zu den offenen Fragen und aktueller Sachstand zum NSU-Mahnmal an der Keupstraße - Kenntnis genommen
+- TOP 3.5: Beantwortung einer schriftlichen Anfrage (AN/0268/2026) betreffend "Mehrsprachigkeit in Köln" - Kenntnis genommen
+- TOP 3.6: Beantwortung einer Anfrage betreffend " Verzögerungen bei der Bearbeitung von Einbürgerungsanträgen seitens der Ausländerbehörde Köln" (AN/0590/2026) - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Stadtweite Einbürgerungsfeiern – Sachstand
+- TOP 4.2: Sachstand Anerkennung ausländischer Berufs- und Bildungsabschlüsse
+- TOP 4.3: Anfrage zu den Arbeitsmarkt- und Teilhabechancen geflüchteter Frauen in Köln - Qualifizierung, Kinderbetreuung und kultursensible Begleitung
+- TOP 5: Mitteilungen
+- TOP 5.1: Information zu den Neuen Leitlinien zur Unterbringung und Betreuung Geflüchteter - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - vertagt
+- TOP 5.3: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand: Wenig Abweichung auf gesamtstädtischer Ebene - vertagt
+- TOP 5.4: Arbeitsmarkt Köln - Rückblick 2025, bisherige Entwicklung und Ausblick 2026: Trotz schwacher Konjunktur stabile Beschäftigung am Kölner Arbeitsmarkt - vertagt
+- TOP 5.5: Bericht der Geschäftsführung Mahnmal Kuratorium Keupstraße für die Jahre 2024 und 2025 - Kenntnis genommen
+- TOP 5.6: Sachstandsbericht Projekte gegen Rassismus und für Demokratie und Akzeptanz 2023 und 2024 - vertagt
+- TOP 5.7: Stellungnahme zum AN/0635/2026 - Mahnsperre und Säumniszuschläge - Kenntnis genommen
+- TOP 5.8: Bericht des Büros für Diversity Management 01/2026 - vertagt
+- TOP 5.9: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - vertagt
+- TOP 5.10: Bevölkerungsbewegungen in Köln 2025: Wanderungsplus trotz des Rückgangs der internationalen Zuzüge - vertagt
+- TOP 5.11: Sachbericht 2025 des Kölner Netzwerks Arbeits- und Erwerbslosenberatung zum Förderprogramm BOREA - vertagt
+- TOP 5.12: Jahresbericht 2025 Anonymer Krankenschein (AKS) in der Stadt Köln - Kenntnis genommen
+- TOP 5.13: Jahresbericht "Willkommen und Ankommen in Köln" 2025 - vertagt
+- TOP 5.14: Tätigkeitsbericht zum Integrationslots*innen-Projekt für das Jahr 2025 - vertagt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Prüfung der Änderung der Geschäftsordnung Präambel und § 10, Abs. 1 - vertagt
+- TOP 6.2: Änderungsantrag zum Antrag AN/1387/2025 - Änderung der Geschäftsordnung - vertagt
+- TOP 6.3: Änderungsantrag zu TOP 6.2: „Änderungsantrag zur Prüfung der Änderung der Geschäftsordnung Präambel und §10, Abs. 1“ - vertagt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner*innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Neufassung der Wahlordnung für die Wahl der Seniorenvertretung der Stadt Köln - Sache ist erledigt
+- TOP 8.2: Benennung von 2 Mitgliedern für die Jurysitzung Förderung Migrantische Organisationen in 2026 - ungeändert beschlossen
+- TOP 8.3: Änderung der Geschäftsordnung des Integrationsrates der Stadt Köln anlässlich der Umbenennung des Integrationsrates in „Ausschuss für Chancengerechtigkeit und Integration“ - vertagt
+- TOP 8.4: Verlängerung der Durchführung des EhAP Plus Projektes INKA – In Köln Ankommen – Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
