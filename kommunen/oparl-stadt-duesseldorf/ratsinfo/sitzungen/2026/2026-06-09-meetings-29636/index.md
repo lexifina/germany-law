@@ -1,0 +1,67 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-06-09T16:00:00+02:00
+- Ende: 2026-06-09T19:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29636
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29636
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Austausch mit Herrn Oberbürgermeister Dr. Keller
+- TOP 2: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift SI-BV2/003/2026 vom 28.04.2026 - zurückgezogen
+- TOP 5: Berichte und Verwaltungsvorlagen
+- TOP 5.1: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2025 für den Stadtbezirk 2 - mdl. Bericht zum Beschluss der Bezirksvertretung 2: Vorlage BV2/064/2026 - zur Kenntnis genommen
+- TOP 5.2: Abbruchantrag, Hoffeldstraße 43 - Abbruch des vorhandenen Wohn- und Geschäftshauses, Beschluss der Bezirksvertretung 2 vom 15.04.2026, Vorlage BV2/111/2025/1 - Beanstandung - - mehrheitlich abgelehnt
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Radverkehrsmaßnahme Grafenberger Allee zwischen den Knotenpunkten Hans-Sachs-Straße / Cranachstraße und Sohnstraße / Lichtstraße in Fahrtrichtung Lichtstraße - Empfehlung einstimmig beschlossen
+- TOP 5.5: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag der Ev. Emmaus-Kirchengemeinde - mehrheitlich beschlossen
+- TOP 5.6: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag zum Düsseldorfer Büdchentag - mehrheitlich beschlossen
+- TOP 5.7: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag des Netzwerkes Hellweg/Märchenland - einstimmig beschlossen
+- TOP 5.8: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag Hermann blüht auf - mehrheitlich beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Überprüfung der Hol- und Bringzone sowie des Schulbus-Halteverhaltens in der Sohnstraße im Umfeld der Brehmschule - Antrag der AFD-Fraktion - mehrheitlich abgelehnt
+- TOP 6.2: Müllentsorgung im Zoopark - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.3: Einladung des ADFC zum Bericht über den Radewegetest im Stadtbezirk 2 für die Sitzung der BV 2 am 07.07.2026 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 6.4: Neue Markierung Querung Hoffeldstraße an der Lindenstraße - Antrag der Fraktion Die Linke - einstimmig beschlossen
+- TOP 6.5: Anbringung von Haltelinien auf Fahrradweg vor ÖPNV-Haltestellen - Antrag der Fraktion Die Linke - mehrheitlich beschlossen
+- TOP 6.6: Barrierefreie Automaten für die Filialen der Stadtsparkasse Düsseldorf im Stadtbezirk 2 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 6.7: Mülleimer am Stadtwerkepark - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.8: Trinkbrunnen an der Jugendfreizeiteinrichtung Icklack - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Baustelleneinrichtung Kettwiger Straße 16-22 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 7.3: Sachstand und Zeitplanung zur Umsetzung der Radleitroute 2 -- Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 7.4: Feierabendparken auf dem Lidl-Parkplatz an der Bruchstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8: Anfragen zur aktuellen Sitzung
+- TOP 8.1: Nutzung und Zustand geöffneter Schulhofflächen außerhalb der Unterrichtszeiten im Stadtbezirk 2 - Anfrage der AFD-Fraktion - beantwortet
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Öffentlicher Parkraum Hellweg - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Einrichtung einer Fahrradstraße auf der Schlüterstraße im Bereich der Hausnummern 18 bis 109 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Hoffeldstr. 71 - Anfrage der Fraktion Die Linke - beantwortet
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Wohnungsleerstand im Bezirk 2 - Anfrage der Fraktion Die Linke - beantwortet
+- TOP 8.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.16: Baustelle gegenüber dem Höherweg 33 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8.17: Kosten und Erlöse Anwohnerparkausweiszonen im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Verbesserung für Fußgänger*innen an der LSA Schlüterstraße/Grafenberger Allee - Beschluss der Bezirksvertretung 2, Vorlage BV2/091/2026 - zur Kenntnis genommen
+- TOP 9.2: Beleuchtung für den Parcours-Trainingsplatz und den 3x3-Basketballplatz an der Luise-Rainer-Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/060/2026 - zur Kenntnis genommen
+- TOP 9.3: Telefonzelle Rethelstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/105/2026 - zur Kenntnis genommen
+- TOP 9.4: Beseitigung der Farbreste im Bereich der Nachbarschaftszone am Paulusplatz - Beschluss der Bezirksvertretung 2; Vorlage BV2/104/2026 - zur Kenntnis genommen
+- TOP 9.5: Einrichtung eines Zebrastreifens am Übergang Bruchstraße vor REWE - Beschluss der Bezirksvertretung 2,; Vorlage BV2/115/2026 - zur Kenntnis genommen
+- TOP 9.6: Sicherheit für Fußgehende im Bereich der Kreuzung Grunerstraße / Mathildenstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/095/2026 - zur Kenntnis genommen
