@@ -1,0 +1,6 @@
+# TOP 5: Kinder- und Jugendförderplan 2026-2030
+
+- Sitzung: Jugendrat (2026-06-10)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/393090
