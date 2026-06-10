@@ -1,0 +1,54 @@
+# Sitzung der Bezirksvertretung Aachen-Kornelimünster / Walheim
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-06-10T17:00:00+02:00
+- Ende: 2026-06-10T23:59:59+02:00
+- Ort: Bezirksamt Kornelimünster-Walheim
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000606
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000606
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1547379&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift - ungeändert beschlossen
+- TOP 3.1: Genehmigung der Niederschrift zur Sitzung vom 15.04.2026 (öffentlicher Teil) - geändert beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der Sitzung vom 21.05.2026 - ungeändert beschlossen
+- TOP 4: Konzept Ladeinfrastruktur E-Mobilität für den Bezirk Kornelimünster/Walheim - ungeändert beschlossen
+- TOP 5: Antrag auf Rückbau von zwei verkehrsbehindernden Ausbuchtungen auf der Albert-Einstein-Straße in Walheim; hier: Antrag der CDU-Bezirksfraktion vom 18.09.2019 - zur Kenntnis genommen
+- TOP 6: Verkehrssituation Sief - geändert beschlossen
+- TOP 7: Schulentwicklungsplan für den Bereich der Primarstufe für den Zeitraum 2025/2026 bis 2030/2031 - zur Kenntnis genommen
+- TOP 8: Hochwasserresilienz in Aachen - aktueller Stand - zur Kenntnis genommen
+- TOP 9: Neugestaltung des Sitzbereiches „Am Bahnhof“ in Kornelimünster / Walheim Sachstandsbericht - zur Kenntnis genommen
+- TOP 10: Spielplatz Raerener Straße Tagesordnungsantrag der CDU-Fraktion für den Rat und die Bezirksvertretung der Stadt Aachen vom 30.01.26 für die Sitzung der Bezirksvertretung Aachen – Kornelimünster/Walheim - vertagt
+- TOP 11: Einrichtung einer Freilauffläche / Hundetoilette in Walheim Antrag der SPD-Fraktion in der Bezirksvertretung Aachen – Kornelimünster/Walheim vom 05.03.2023 - vertagt
+- TOP 12: Bebauungsplan - Oberforstbacher Straße / Auf dem Anger -; hier: Aufstellungsbeschluss - vertagt
+- TOP 13: Aufhebung des Aufstellungsbeschlusses A 51 - Schleckheimer Straße - im Bereich zwischen Gabriele-Münter-Straße und August-Macke-Straße; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 14: Aufhebung des Aufstellungsbeschlusses A 57 - Lichtenbusch - im Bereich zwischen Autobahn, Monschauer Straße und Freyenter Wald; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 15: Aufhebung des Aufstellungsbeschluss A 79 - Bahnhof Walheim/Vennbahnstraße - für den Bereich des ehemaligen Bahnhofes Walheim; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 16: Aufhebung des Aufstellungsbeschlusses A 133 - Schmithof, Ardennenstraße - im Bereich zwischen Ardennenstraße und Frennetstraße; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 17: Aufhebung des Aufstellungsbeschlusses A 134 - Schleidener Straße - für den Bereich der Schleidener Straße, der Straße Auf der Kier und des ehemaligen Bahnhofs Walheim; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 18: Aufhebung der besonderen Vorkaufsrechtssatzung gemäß § 25 BauGB für den Bereich zwischen der Schleidener Straße, Prämienstraße und Auf der Kier; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 19: Einziehung einer Teilfläche des Augustinerweges als Verkehrsfläche - vertagt
+- TOP 20: Behandlung von Anträgen
+- TOP 20.1: Behandlung von Anträgen, hier: Antrag der CDU-Fraktion vom 29.01.2026 "Sachstandsbericht zu den in der Bezirksvertretung Aachen-Kornelimünster/Walheim gefassten Beschlüsse"
+- TOP 21: Behandlung von Anträgen: Antrag der SPD-Fraktion vom 24.05.2026, Verbesserung der Verkehrssicherheit im Neubaugebiet Kornelimünster
+- TOP 22: Behandlung von Anfragen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 24: Änderung Wochenmarktsatzung
+- TOP 25: Bürgeranträge nach § 24 GO NRW
+- TOP 25.1: Bürgerantrag nach § 24 GO NRW, hier: Aussetzung der Planungen und erneute Standortprüfung für die geplante Feuerwache Süd
+- TOP 25.2: Bürgerantrag nach § 24 GO NRW, hier: Verbesserung der Verkehrssicherheit im Lufter Weg sowie Schaffung einer sicheren Verbindung zum Spielplatz „Auf der Gallich“ und zum Vennbahnweg
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
