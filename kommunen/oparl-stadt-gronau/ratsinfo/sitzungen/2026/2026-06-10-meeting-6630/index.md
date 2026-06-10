@@ -1,0 +1,53 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2026-06-10T18:00:00+02:00
+- Ende: 2026-06-10T22:06:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZmDZMWo9HL5wCKzaL6GNsw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6630
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUiXNIKZjrNLIq6DumweGZqGPUt3ej6dt7ExWqx99WnM/Bekanntmachung_Rat_10.06.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT0JL46zPlUdxsoX5ZHFzATSNoha_zVXnmLQkzlJ10HU/Oeffentliche_Niederschrift_Rat_10.06.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Fragen des Einwohners Frank Kirste
+- TOP 3.: Niederschrift vom 29.04.2026
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Modell zur Neuausrichtung des ÖPNV in der Stadt Gronau - Einstimmig, 6 Enthaltungen
+- TOP 6.: Sauberes Stadtbild Baustein: Konzept gegen die Vermüllung von Containerstandorten - 39 Jastimmen, 4 Neinstimmen, 5 Enthaltungen
+- TOP 7.: Kita Haus Buterland – Aktualisierung des Ratsbeschlusses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Errichtung einer Unterkunft für Obdachlose am Standort Drosselweg 10 - 43 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 9.: Kenntnisnahme der Genehmigungsverfügung des Kreises Borken zum Haushalt 2026 der Stadt Gronau
+- TOP 10.: Vorstellung der fortgeschriebenen Schulentwicklungsplanung - Einstimmig, 0 Enthaltungen
+- TOP 11.: Zügigkeit der Fridtjof Nansen Realschule - Einstimmig, 1 Enthaltungen
+- TOP 12.: Stellungnahme des Rates der Stadt Gronau zum Bürgerantrag „Resolution zu Menschenrechtsverletzungen in der Region Rojava“ - Einstimmig, 0 Enthaltungen
+- TOP 13.: Aufwanddeckungsgrad der Euregio-Volkshochschule hier: Erhöhung der Teilnahmegebühren der Euregio-Volkshochschule - 20 Jastimmen, 26 Neinstimmen, 2 Enthaltungen
+- TOP 14.: Änderung der Beteiligungsrichtlinie und Gesamtabschlussrichtlinie der Stadt Gronau
+- TOP 14.1: Änderung der Beteiligungsrichtlinie und Gesamtabschlussrichtlinie der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 15.: Budgetbericht für das I. Quartal 2026
+- TOP 16.: Ermächtigungsübertragung von 2025 nach 2026 gemäß § 22 Kommunalhaushaltsverordnung NRW (KomHVO NRW)
+- TOP 17.: Entwurf des Jahresabschlusses 2025 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 18.: Wahl eines Mitgliedes für das Netzwerk "Europa fängt in der Gemeinde an" - Einstimmig, 1 Enthaltungen
+- TOP 19.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW und anderen Gremien - Einstimmig, 1 Enthaltungen
+- TOP 20.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Bundesprogramm "Sanierung kommunaler Sportstätten"
+- TOP 21.2: Planungen und Zeitschiene der Findungskommission
+- TOP 21.3: LKW-Durchfahrtsverbot Gronauer Straße und Oststraße
+- TOP 21.4: Containeranlage am Jöbkesweg
+- TOP 22.: Anfragen
+- TOP 22.1: Rechnung SG Gronau (Anfrage v. RM Greitenevert)
+- TOP 22.2: Phasenschieber (Anfrage v. RM Doetkotte)
+- TOP 22.3: Erreichbarkeit Ordnungsamt (Anfrage v. RM Doetkotte)
+- TOP 22.4: Sachstand Euregio-Geschäftsstelle (Anfrage v. RM Bohn)
+- TOP 22.5: Schaffung eines Radweges (Anfrage v. RM Dzietko)
+- TOP 22.6: Beschluss zur Investorensuche Germania (Anfrage v. RM Stenau-van Wüllen)
+- TOP 22.7: Baumschnitt an Schulen (Anfrage v. RM Schnittker)
+- TOP 22.8: Gelände ehem. Unterbringung Frauen (Anfrage v. RM Dr. Breuer)
