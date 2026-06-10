@@ -1,0 +1,132 @@
+# 54. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-06-10T17:00:00+02:00
+- Ende: 2026-06-10T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7383
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7383
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Vorarbeiten für den 3. Bauabschnitt im Schäferseepark - beantwortet
+- TOP 3.2: Fokus auf Sicherheit und Schutz der Gemeinden - beantwortet
+- TOP 3.3: Kosten und Anwohnerinformation zum Umbau der Ollenhauer Straße - beantwortet
+- TOP 3.4: Ollenhauerstraße: Kahlschlag aller 116 Straßenbäume für Luxus-Straßen-Neubau und Hochbordradweg - Eingeschränkte Akteneinsicht im SGA mit dem Ergebnis neuer Fragen und noch größerer Zweifel an der Rechtmäßigkeit der Planung - Fragwürdigkeit und fehlende Nachvollziehbarkeit der Kriterien der "Bewertungs-Matrix" zur Auswahl der "besten" Variante - Fachlich korrekte und valide Planung - ?! Hitzeschutz und Klimaschutz schützen Menschen und sichern das Überleben zukünftiger Generationen! - beantwortet
+- TOP 3.5: Strafrechtsrelevanter Missbrauch rechtswidrig hergestellter Sozialdaten, als Mittel gegen vorgebrachte Beanstandungen festgestellten widerrechtl. Verwaltungshandeln - beantwortet
+- TOP 3.6: Petition "Stoppt die Fällung gesunder Bäume im Schäfersee-Park!" - beantwortet
+- TOP 3.7: Niemand hat die Absicht, die Bäume in der Schildower Straße zu fällen - schriftlich beantwortet
+- TOP 3.8: Neubau Ollenhauerstraße: Mehrwert der Variante 1 mit Kahlschlag aller Bäume gegenüber der Variante 2 mit Baumerhalt? - schriftlich beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 54. Sitzung am 10.06.2026 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Kunstauktion gegen Einsamkeit - Bewertung und Perspektiven - beantwortet
+- TOP 5.2: Uferschutz in Reinickendorf - beantwortet
+- TOP 5.3: Bündnerring - beantwortet
+- TOP 5.4: Fehlende Bojenkette am Vogelschutzreservat des Flughafensees in Tegel - beantwortet
+- TOP 5.5: Brand in der Sporthalle der Lauterbach-Grundschule - beantwortet
+- TOP 5.6: Kontinuität des Verwaltungshandelns mit Blick auf den Denkmalschutz in Alt-Lübars? - beantwortet
+- TOP 5.7: Legionellenbefall in der Trinkwasseranlage am Spießweg 11-15 - beantwortet
+- TOP 5.8: Brand an Lauterbach-Schulen - beantwortet
+- TOP 5.9: Wann ist der Winter vorbei? Orangefarbene Bank gegen Gewalt an Frauen - beantwortet
+- TOP 5.10: Auswertung der Daten der Dialog-Displays - beantwortet
+- TOP 5.11: Umsetzungsstand der Drucksache 1951/XXI: Verkehrssicherheit am Öschelbronner Weg / Ecke Wittenauer Straße erhöhen - beantwortet
+- TOP 5.12: Wasser für die Straßenbäume - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Schulplatzmangel als Folge verfehlter CDU-Bildungspolitik? (Große Anfrage) - vertagt
+- TOP 6.2: Sicherheit auf dem EDEKA-Parkplatz am U-Bahnhof Wittenau (Beschlussempfehlung) - vertagt
+- TOP 6.3: Endlich wirksam gegen Taubendreck rund um die Gorkistraße vorgehen (Beschlussempfehlung) - vertagt
+- TOP 6.4: Flüchtlingsunterkunft in der Bernauer Straße 138a in Tegel jetzt wie geplant in normalen Wohnraum umwandeln (Beschlussempfehlung) - vertagt
+- TOP 6.5: Vergewaltigung ist ein Schwerverbrechen! Kein "Kulturbonus" für Migranten! Straftaten konsequent verfolgen - Berliner Jugendhäuser müssen vom Angstraum zu sicheren Orten werden (Beschlussempfehlung) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Kostenlose Menstruationsartikel in Schulen und anderen öffentlichen Gebäuden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Lautsprecheranlage im Strandbad Tegel installieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Barrierefreier Ausbau des quartiersinternen Weges von der Rue Montesquieu zur Nimrodstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Umfrage aktueller Sachstand zur Reinigung der Sporthallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Schulplätze und Freizeiteinrichtungen für ältere Jugendliche in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Stellplätze in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Mietergärten mitplanen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Mietergärten mitplanen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Raserei in Roedernallee und Flottenstraße beenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Bericht über die dem Bezirksamt Reinickendorf von Berlin im Haushaltsjahr 2025 zugegangenen privaten Zuwendungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Stand der Beseitigung der Sturmschäden 2025 und Ausblick auf zu erwartende Spätfolgen - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Berufung eines beratenden Mitglieds für den Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Kinderopernhaus Berlin und Reinickendorf auskömmlich finanzieren! - erledigt
+- TOP 11.2: Einrichtung eines muslimischen Abteils auf einem Reinickendorfer Friedhof - erledigt
+- TOP 11.3: WLAN in BVG-Bussen und U-Bahn ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Parkplätze am Tegeler Hafen reaktivieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Absolutes Halteverbot Hermsdorfer Straße II - in der BVV abgelehnt
+- TOP 11.6: Parkverbot für LKW in der Gotthardstr. konsequent kontrollieren und durchsetzen - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Fahrrad abstellen leicht gemacht. - vertagt
+- TOP 11.8: Zeitfenster nutzen - rechtzeitig planen - in der BVV abgelehnt
+- TOP 11.9: Tempo 30 nachts auf der Heiligenseestraße und Hennigsdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Erhöhung der Verkehrssicherheit und Verbesserung der Kennzeichnung der Tempo-30-Zone im Senftenberger Ring - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Fußgängerüberweg Falkenplatz - erledigt
+- TOP 11.12: MV-Blumenbeet - erledigt
+- TOP 11.13: Sauberkeit und intensive Kontrollen an bekannten Müllablagerungs-Hotspots im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Wiederherstellung und Schutz von Grünflächen nach Baumaßnahmen im Ortsteil Wittenau verbessern - vertagt
+- TOP 11.15: Zusätzliche Abfallbehälter im Umfeld des S- und U-Bahnhofs Wittenau prüfen - mit Änderungen in der BVV beschlossen
+- TOP 11.16: Häufigere Reinigung des Umfeldes des S-Bahnhofs Waidmannslust durch die BSR - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Bepflanzung des Antonyplatzes mit der Französischen Nationalflagge wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Erhalt der Parkplätze am Wilhelmsruher Damm im Bereich der zukünftigen Gewerbeflächen - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Glascontainer im öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Dem Titusweg geht ein Licht auf: Bessere Straßenbeleuchtung für den Titusweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Kampf gegen Wohnungslosigkeit aufnehmen III - erledigt
+- TOP 11.22: Kampf gegen Wohnungslosigkeit aufnehmen IV - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Kampf gegen Wohnungslosigkeit aufnehmen I - mit Änderungen in der BVV beschlossen
+- TOP 11.24: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2024 - mit Änderungen in der BVV beschlossen
+- TOP 11.25: Altglas-Upgrade für Reinickendorf: Zusätzliche Glascontainer-Standorte - vertagt
+- TOP 11.26: Brunnen vor dem Rathaus Reinickendorf wieder in Betrieb nehmen - erledigt
+- TOP 11.27: Sichere und und beleuchtete Zuwegungen zum S-Bahnhof Waidmannslust schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 11.28: Schönheitskur für die Greenwichpromenade - vertagt
+- TOP 11.29: Beleuchtung und Sichtverhältnisse rund um den S- und U-Bahnhof Wittenau gezielt verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 11.30: Graffiti in Alt-Tegel Höhe Wilkestraße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.31: Notstrom - mit Änderungen in der BVV beschlossen
+- TOP 11.32: Mehr Kontrollen für den Schutz der Lübarser Felder und ihrer Tierwelt während der Brutzeit - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Missbilligung des Verhaltens von Bezirksstadträtin Korinna Stephan (B90/Die Grünen) gegenüber dem Ausschuss für Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Zusätzliche Bushaltestelle des X33 für Saatwinkel in den Sommermonaten - überwiesen
+- TOP 13.2: Maßnahmenbündel Miraustraße: Gezielte Sanierung, Tonnagebeschränkung und Sicherheit für den Schulweg - überwiesen
+- TOP 13.3: Frauen- und Mädchensport in Reinickendorf fördern - überwiesen
+- TOP 13.4: Bekämpfung der illegalen Abfallablagerung in der Seidelstraße - überwiesen
+- TOP 13.5: Kanalsanierungen - überwiesen
+- TOP 13.6: Neue Mülleimer für Saatwinkel - überwiesen
+- TOP 13.7: Einrichtung eines zusätzlichen Abteils für muslimische Bestattungen in Reinickendorf - überwiesen
+- TOP 13.8: Verbesserung der Schulwegsicherheit in der Cité Foch - überwiesen
+- TOP 13.9: Zerstörtes Deckglas an den Fahrgastanzeigen am S-Bahnhof Heiligensee ersetzen - überwiesen
+- TOP 13.10: Mäckeritzwiesen über Flughafenstrasse von Norden verkehrlich anbinden - mit Änderungen im Ausschuss beschlossen
+- TOP 13.11: Sauberkeit am Primusweg - überwiesen
+- TOP 13.12: Verkehrssicherheit und - beruhigung in der Miraustr. - überwiesen
+- TOP 13.13: Borsig Damm in Tegel: Irritierende Fahrbahnmarkierung am neuen Hochbordradweg beseitigen - überwiesen
+- TOP 13.14: Keine Parkraumbewirtschaftung in Reinickendorf - Bürger und Einzelhandel entlasten - überwiesen
+- TOP 13.15: Fellbacher Platz - Einbahnstraßenregelung eindeutig kennzeichnen - überwiesen
+- TOP 13.16: Verlängerung der 30er Zone auf der Sandhauser Straße, Fahrtrichtung Alt-Heiligensee, vom Dorfanger bis zurück an die Sandhauser Brücke - überwiesen
+- TOP 13.17: Vorlage zur Beschlussfassung Milieuschutzgebiete - in der BVV abgelehnt
+- TOP 13.18: Wahrnehmung des Wahlrechts durch obdachlose und wohnungslose Menschen unterstützen - erledigt
+- TOP 14: Empfehlungen - überwiesen
+- TOP 14.1: Entsorgungsmöglichkeiten am Ausgang des Parks Alt-Wittenau / Ecke Techowpromenade verbessern - überwiesen
+- TOP 14.2: Mehr Verkehrssicherheit im Bereich Alt-Hermsdorf - überwiesen
+- TOP 14.3: Tageshändler auf dem Frohnauer Wochenmarkt stärken - überwiesen
+- TOP 14.4: Sicherheit, Beleuchtung und Nutzbarkeit der Fahrradabstellanlagen rund um den S- und U-Bahnhof Wittenau verbessern - überwiesen
+- TOP 14.5: Aufstellung von Mülleimern am Primusweg - überwiesen
+- TOP 14.6: Barrierefreiheit an Reinickendorfer Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Durchgängige Linienführung der Buslinie 220 bis Tegel - überwiesen
+- TOP 14.8: Entfernung oder Instandsetzung der defekten Telekom-Stele in der Grußdorfstraße - überwiesen
+- TOP 14.9: Verbesserung der Abendtaktung der Buslinie 124 prüfen - überwiesen
+- TOP 14.10: Mehr Sicherheit an der Kreuzung Ruppiner Chaussee/Kiefheider Weg/ Ausfahrt Edeka durch mehr Aufmerksamkeit für die Vorfahrtsregelungen - überwiesen
+- TOP 14.11: Verbesserung des Zustands des Spielplatzes und der Tischtennisanlagen am S-Bahnhof Tegel (Richtung Neu-Tegel) - überwiesen
+- TOP 14.12: Mehr BSR-Mülleimer auf der Frohnauer Brücke - überwiesen
+- TOP 14.13: Aufenthaltsbereiche im Ortsteil Waidmannslust durch zusätzliche Sitzgelegenheiten aufwerten - überwiesen
+- TOP 14.14: Zusätzliche Sitzgelegenheiten an den Umsteigebereichen des S- und U-Bahnhofs Wittenau - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - in der BVV abgelehnt
