@@ -1,0 +1,8 @@
+# TOP 8: Anfrage des Luca Meyer (Die Linke): Übersicht der Tempo-30-Regelungen im Stadtbezirk 6
+
+- Sitzung: Bezirksvertretung 6 (2026-06-10)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/393348
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/139175
