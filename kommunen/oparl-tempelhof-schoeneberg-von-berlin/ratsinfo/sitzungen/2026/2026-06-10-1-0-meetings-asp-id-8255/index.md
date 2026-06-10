@@ -1,0 +1,53 @@
+# 44. öffentliche Sitzung des Ausschusses für Stadtentwicklung
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2026-06-10T17:00:00+02:00
+- Ende: 2026-06-10T20:05:00+02:00
+- Ort: John-F.-Kennedy Platz 1, 10825 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8255
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8255
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=501772
+
+## Tagesordnung
+
+- TOP 1: Begrüßung - erledigt
+- TOP 2: Genehmigung der Tagesordnung - erledigt
+- TOP 3: Genehmigung vorliegender Protokolle - erledigt
+- TOP 3.1: Das Protokoll der 43. Sitzung vom 13.05.2026. - erledigt
+- TOP 4: Vorstellung der Unteren Denkmalschutzbehörde - erledigt
+- TOP 4.1: Denkmalschutz und Klimaschutz in Einklang bringen - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge - erledigt
+- TOP 5.1: Einzelhandel in der Lichtenrader Bahnhofstraße mit Augenmaß entwickeln – angemessene städtebauliche Ziele für das Projekt Q17, Bahnhofstraße 17-22 umsetzen - vertagt
+- TOP 5.2: Luitpoldstraße 23: Verfall stoppen – Überführung in landeseigenes Eigentum - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6: Bericht aus der Verwaltung - erledigt
+- TOP 7: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 7.1: Aufhebung des Bezirksamtsbeschlusses vom 01.09.1997 (Beschluss Nr. XII-595 des Bezirksamts Tempelhof) zur Aufstellung des Bebauungsplans XIII-295 für die Grundstücke Groß-Ziethener Straße 46/62, Im Domstift 1/ 7 G, die Flurstücke 65/1, 66/15, 66/30,die angrenzenden Abschnitte der Groß-Ziethener Straße und der Carl-Steffeck-Straße sowie das Flurstück 66/47 im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Einreichen der Anmeldung von Maßnahmen zur Förderung im Baufonds des Städtebauförderprogramms Sozialer Zusammenhalt - Quartiersmanagement - Programmjahr (PJ) 2027 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Aufstellung des Bebauungsplans 7-95-1 für die Grundstücke Attilastraße 52, 53-59 und Röblingstraße 138/142 im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Koalitionsversprechen einhalten: Gesundheitscampus als zentralen Ausbildungscampus realisieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: B-Plan 7-76 umsetzen und städtebauliche Entwicklung im Sinne der BVV-Beschlüsse einleiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.6: Zukunft des Tempelhofer Parkfriedhofs - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.7: Proaktiv: Lange leerstehende Büroflächen erfassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.8: Städtebauförderung transparent darstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.9: Bedarfsgerechten Wohnraum bei Nachverdichtungsvorhaben sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.10: Sachstandsbericht zur Umsetzung der städtebaulichen Einzelmaßnahmen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.11: Stadt der kurzen und sicheren Wege: Umsetzung des Leitbildes „15-Minuten-Stadt“ in Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.12: B-Plan 7-76: Soziale Nutzung möglich machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.13: Genehmigungen zum Leerstand und zum Abriss überprüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.14: Bebauungsplan 7-100 VE: Bedenken der Nachbarschaft ernstnehmen, Bauvorhaben auf dem Baufeld 6 anpassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.15: Online-Meldeformular für Verstöße in Milieuschutzgebieten einrichten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.16: Ehemaliges Straßenbahndepot: Unternutzung und Leerstand vermeiden – realistische Entwicklungsoptionen anregen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.17: Wohnungsbau An der Urania 4-10 planungsrechtlich ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.18: Übergabe des Hauses Odenwaldstraße 1 in ein Treuhändermodell voranbringen – und in einer öffentlichen Veranstaltung darüber informieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.19: „Geisterhaus Friedenau“ – das Treuhänder-Pilotprojekt des Senats – ein möglicher Weg gegen Leerstand oder eine Sackgasse? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.20: Gestaltungskonzept für den Wittenbergplatz aktualisieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.21: Teil-Funktionslosigkeit des Baunutzungsplans, Baustufe V/3, für das allgemeine Wohngebiet zwischen der Grunewaldstraße, Akazienstraße, Hauptstraße und Kufsteiner Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.22: Künstlerische Gestaltung der Unterführung in der Bahnhofstraße in Lichtenrade erweitern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.23: Beschluss über das integrierte städtebauliche Entwicklungskonzept (ISEK) Potsdamer Straße und Einbringung einer Vorlage - zur Kenntnisnahme - bei der Bezirksverordnetenversammlung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.24: Unterstützung zur Aufnahme des neuen Quartiersmanagement-Gebietes Tirschenreuther Ring in das Städtebauförderprogramm Sozialer Zusammenhalt ab dem 01.01.2028 sowie die Fortführung der bestehenden Quartiersmanagement-Gebiete Germaniagarten und Nahariyastraße. - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.25: Leerstehende Wohnungen im Luckeweg 31, 33, 35 und 37 (Marienfelde) wieder der Vermietung zuführen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Unerledigte Drucksachen siehe hierzu separate Liste - erledigt
+- TOP 9: Verschiedenes - erledigt
