@@ -1,0 +1,84 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-06-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384652
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384652
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 19.05.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Benennung von Betreuerinnen / Betreuern für die BA-Schaukästen
+- TOP 2.4.: BA-Sitzungstermine 2027
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Init. "Piano-Show" The Piano Rock-A-Boogie Show im Schloss am 14.11.2026 580,00€; Az. 0262.100-19-0634
+- TOP 3.3.: (E) Stadtbezirksbudget Condrobs e.V. Sprachkurse für die Teilnehmer*innen im sozialen Gastrobetrieb VIVA CLARA vom 01.07.2026 -30.06.2027 5.986,20€; Az. 0262.100-19-0635
+- TOP 3.4.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Umgang mit digitalen Medien vom 01. -23.12.2026 1.387,45€; Az. 0262.100-19-0636
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Prüfung und Sicherstellung des Gesundheitsschutzes bei Sanierungen asbestverdächtiger Gebäuden in Fürstenried-West
+- TOP 4.4.: (E) Sondernutzungserlaubnis: Foodtruck an der Floßlände
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Standortverlegung Lagerplatz Glasfaser-Ausbau Forstenried
+- TOP 5.1.2: Geteilte Abstellfläche E-Mobilität Zeismeringer Straße
+- TOP 5.1.3: Geteilte Abstellflächen
+- TOP 5.1.4: (Anfrage) Umgang mit E-Scootern im Stadtbezirk 19
+- TOP 5.2.: (E) Tempo 30 Lärmschutz für die Wolfratshauser Straße
+- TOP 5.3.: (E) Sondernutzungserlaubnis: Blumenstand Boschetsrieder Straße Ecke Plinganserstraße
+- TOP 5.4.: (E) Errichtung eines Fußgängerüberwegs an der Kreuzung Zennerstraße/Pognerstraße
+- TOP 5.5.: (E) Maßnahmen zur Verkehrsberuhigung in der Hofbrunnstraße
+- TOP 5.6.: (E) Verkehr auf der Königswieser Straße und Maxhofstraße
+- TOP 5.7.: (E) Übergeordnetes Verkehrskonzept für den Münchener Süden
+- TOP 5.8.: (E) Verlängerung der Regionalbuslinie 270 bis zur U3
+- TOP 5.9.: (E) Busverbindung zwischen der Haltestelle Thalkirchen und Alemannenstraße sowie zwischen der Haltestelle Thalkirchen und Tiroler Platz
+- TOP 5.10.: (E) Verbesserung der Stellplatzvermarktung im Parkhaus Schertlinstraße zur Entlastung der Anwohner der Kistlerhofstraße
+- TOP 5.11.: (E) Parkverbot für Schwerlaster und Anhänger auf der Graubündener Straße
+- TOP 5.12.: (E) Wunschstandorte für Ladeinfrastruktur im öffentlichen Raum
+- TOP 5.13.: (E) Beendigung des verkehrsbehindernden Abstellens von E-Scootern
+- TOP 5.14.: (Antrag) Wiederbegrünung des Seitenstreifens an der Forst-Kasten-Allee
+- TOP 5.15.: (E) Ablehnung der geplanten Ausdünnung des Busfahrplans der Linie 56
+- TOP 5.16.: (E) Neuordnung bzw. Herstellung der Verkehrssicherheit der Kreuzung Flößergasse / Tölzer Straße und Steinerstraße
+- TOP 5.17.: (A) Verkehrsrechtliche Anordnung: Errichtung eines absoluten Haltverbots als Bring- und Holzone für die Leonardo da Vinci Schule München in der Wolfratshauser Straße 84
+- TOP 5.18.: (Antrag) Einführung einer streckenbezogenen Geschwindigkeitsbegrenzung auf 30 km/h in der Pognerstraße (Abschnitt Pullacher Platz bis Schäftlarnstraße)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.3: Boschetsrieder Straße
+- TOP 6.2.4: Machtlfinger Straße 28
+- TOP 6.2.5: -abgesetzt-
+- TOP 6.2.6: Maxhofstraße 30a
+- TOP 6.2.8: Aufkirchener Straße 26
+- TOP 7: Unterausschuss Bildung, Sport und Gesundheit
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Sanierung der Toiletten in der Joseph-von-Fraunhofer Realschule
+- TOP 7.1.2: Spielbetrieb auf der Tennisanlage Forstenrieder Allee bis zum Baubeginn Realschule ermöglichen
+- TOP 8: Unterausschuss Kultur, Vereine und Soziales
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: "Kunst- und Bauworkshops am Kiosk PONG" auf der Grünanalage am Christel-Küpper-Platz/Eleonore-Romberg-Str vom 19.06. bis 21.06.26
+- TOP 8.3.: (A) Veranstaltung: Fahrradsicherheitscheck mit Infotheke am 17.06.2026; Ecke Aidenbachstraße 30 / Boschetsriederstraße
+- TOP 8.4.: (U) Gaststättenfortführung: Emil-Geis-Straße
+- TOP 8.5.: (U) Sondernutzungserlaubnis: Klaviere im öffentlichen Raum für die Aktion "Spiel mich! 2026" im Zeitraum vom 11.06.- 02.07.26
+- TOP 8.6.: Tag des offenen Denkmals am 13.09.2026
+- TOP 8.7.: (A) Veranstaltung: "Thalkirchner Sommerfest" auf dem Thalkirchner Platz vom 03.07. bis 05.07.2026
+- TOP 9: Verschiedenes
+- TOP 5.1.5: Antwortschreiben zur Beschlussvorlage BV-Empfehlung E01471"Beendigung des verkehrsbehindernden Abstellens von E-Scootern"
+- TOP 6.2.1: Ludwig-Werder-Weg Flurnummer 292/1
+- TOP 6.2.2: Baierbrunner Straße 32 (VB)
+- TOP 6.2.7: Drygalski-Allee 2 (VB)
+- TOP 5.19.: (A) MVG-Anpassungsprogramm 2027
