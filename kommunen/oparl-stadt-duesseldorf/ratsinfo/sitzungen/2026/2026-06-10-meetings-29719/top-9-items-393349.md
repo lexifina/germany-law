@@ -1,0 +1,8 @@
+# TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Fahrradabstellanlage am Bahnhof Düsseldorf-Flughafen / Ahrensplatz
+
+- Sitzung: Bezirksvertretung 6 (2026-06-10)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/393349
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/139182
