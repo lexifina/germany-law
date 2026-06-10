@@ -72,14 +72,14 @@
 - [§ 40 Risikoberichte](0040.md)
 - [§ 41 Laufende Informationspflichten gegenüber den Versorgungsanwärtern und Rentenempfängern](0041.md)
 - [§ 42 Berichterstattung gegenüber der Aufsichtsbehörde](0042.md)
+
+## Teil 3 Einreichungsvorgaben und Schlussbestimmungen
+
 - [§ 42a Elektronische Einreichungen gegenüber der Aufsichtsbehörde](0042a.md)
 - [§ 42b Datenformate und Einreichungsvorgaben](0042b.md)
 - [§ 42c Zusammen einzureichende Formularteile](0042c.md)
 - [§ 42d Korrekturmeldungen](0042d.md)
 - [§ 42e Zurückweisung von Daten](0042e.md)
-
-## Teil 3 Schlussbestimmungen
-
 - [§ 43 Übergangsvorschriften zu Teil 1](0043.md)
 - [Anlage 1 (zu § 12 Absatz 1)Die regionale Herkunft des Pensionsfondsgeschäfts und die dafür zu setzenden Kennzahlen](anlage-1.md)
 - [Anlage 2 (zu § 12 Absatz 2 und 3)Anwendung der Formulare](anlage-2.md)
