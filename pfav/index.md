@@ -73,7 +73,7 @@
 - [§ 41 Laufende Informationspflichten gegenüber den Versorgungsanwärtern und Rentenempfängern](0041.md)
 - [§ 42 Berichterstattung gegenüber der Aufsichtsbehörde](0042.md)
 
-## Teil 3 Einreichungsvorgaben und Schlussbestimmungen
+## Teil 3 Schlussbestimmungen
 
 - [§ 42a Elektronische Einreichungen gegenüber der Aufsichtsbehörde](0042a.md)
 - [§ 42b Datenformate und Einreichungsvorgaben](0042b.md)

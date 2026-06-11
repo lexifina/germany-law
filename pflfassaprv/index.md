@@ -9,7 +9,6 @@
 ### Abschnitt 1 (zukünftig in Kraft)
 
 - [(XXXX) §§ 1 bis 10 (zukünftig in Kraft)](xxxx-1-bis-10.md)
-- [(XXXX) Anlage 1 bis 11 (zukünftig in Kraft)](xxxx-anlage-1-bis-11.md)
 
 ## Teil 2 (zukünftig in Kraft)
 
@@ -86,3 +85,4 @@
 - [§ 95 Zusammenarbeit des Bundesinstituts für Berufsbildung mit dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben](0095.md)
 - [§ 96 Inkrafttreten](0096.md)
 - [Schlussformel](schlussformel.md)
+- [(XXXX) Anlagen 1 bis 11 (zukünftig in Kraft)](xxxx-anlagen-1-bis-11.md)
