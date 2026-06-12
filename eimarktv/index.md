@@ -7,7 +7,7 @@
 - [§ 3 Antrag auf Zulassung einer Packstelle](0003.md)
 - [§ 4 Marktnotierungen](0004.md)
 - [§ 5 Verfahren bei Direktlieferung ungekennzeichneter Eier](0005.md)
-- [§ 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern](0006.md)
+- [§ 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern, Zuständigkeit für Kommunikation](0006.md)
 - [§ 6a Anordnungen der zuständigen Behörden](0006a.md)
 - [§ 6b Datenverarbeitung und Datenübermittlung](0006b.md)
 - [§ 7 Ordnungswidrigkeiten](0007.md)
