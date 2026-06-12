@@ -1,2 +1,2 @@
 # Verordnung des Sächsischen Staatsministeriums der Justiz über die Organisation der Justiz (Sächsische Justizorganisationsverordnung – SächsJOrgVO)
-Rechtsbereinigt mit Stand vom 1. April 2026
+Rechtsbereinigt mit Stand vom 31. Mai 2026

@@ -34,7 +34,7 @@ Unterabschnitt 6 Besondere Sachgebiete
 § 19 Landwirtschaftssachen
 § 20 Baulandsachen
 § 21 Berggrundbuch
-§ 21a Abschiebehaft, Ausreisegewahrsam, Überstellungshaft und Durchsuchungsanordnungen nach dem Aufenthaltsgesetz
+§ 21a Haftentscheidungen und Durchsuchungsanordnungen im Asyl- und Aufenthaltsrecht
 § 21b Familiensachen
 Abschnitt 2 Straf- und Bußgeldsachen
 § 22 Zuständigkeit in Haftsachen
