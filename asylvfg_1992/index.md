@@ -8,20 +8,9 @@
 
 ## Abschnitt 2 Schutzgewährung
 
-
-### Unterabschnitt 1 Asyl
-
 - [§ 2 Rechtsstellung Asylberechtigter](0002.md)
-
-### Unterabschnitt 2 Internationaler Schutz
-
-- [§ 3 Zuerkennung der Flüchtlingseigenschaft](0003.md)
-- [§ 3a Verfolgungshandlungen](0003a.md)
-- [§ 3b Verfolgungsgründe](0003b.md)
-- [§ 3c Akteure, von denen Verfolgung ausgehen kann](0003c.md)
-- [§ 3d Akteure, die Schutz bieten können](0003d.md)
-- [§ 3e Interner Schutz](0003e.md)
-- [§ 4 Subsidiärer Schutz](0004.md)
+- [§ 3 Zuerkennung des internationalen Schutzes](0003.md)
+- [§ 4 (weggefallen)](0004.md)
 
 ## Abschnitt 3 Allgemeine Bestimmungen
 
@@ -29,7 +18,7 @@
 - [§ 6 Verbindlichkeit asylrechtlicher Entscheidungen](0006.md)
 - [§ 7 Erhebung personenbezogener Daten](0007.md)
 - [§ 8 Übermittlung personenbezogener Daten](0008.md)
-- [§ 9 Hoher Flüchtlingskommissar der Vereinten Nationen](0009.md)
+- [§ 9 (weggefallen)](0009.md)
 - [§ 10 Zustellungsvorschriften](0010.md)
 - [§ 11 Ausschluss des Widerspruchs](0011.md)
 - [§ 11a (weggefallen)](0011a.md)
@@ -41,9 +30,11 @@
 
 - [§ 12 Handlungsfähigkeit](0012.md)
 - [§ 12a Asylverfahrensberatung](0012a.md)
-- [§ 13 Asylantrag](0013.md)
-- [§ 14 Antragstellung](0014.md)
-- [§ 14a Familieneinheit](0014a.md)
+- [§ 12b Unentgeltliche Rechtsauskunft](0012b.md)
+- [§ 12c Beschränkung des Zugangs zu abgeschlossenen Bereichen, zu Hafteinrichtungen und zu Grenzübergangsstellen](0012c.md)
+- [§ 13 Stellung eines Asylantrags](0013.md)
+- [§ 13a Registrierung eines Asylantrags](0013a.md)
+- [§ 14 Einreichung eines Asylantrags](0014.md)
 - [§ 15 Allgemeine Mitwirkungspflichten](0015.md)
 - [§ 15a Auslesen und Auswerten von Datenträgern](0015a.md)
 - [§ 15b Nachträglicher biometrischer Abgleich mit allgemein öffentlich zugänglichen Daten aus dem Internet; Verordnungsermächtigung](0015b.md)
@@ -53,42 +44,41 @@
 ### Unterabschnitt 2 Einleitung des Asylverfahrens
 
 - [§ 18 Aufgaben der Grenzbehörde](0018.md)
-- [§ 18a Verfahren bei Einreise auf dem Luftwege](0018a.md)
+- [§ 18a Asylverfahren und Rückkehrverfahren an der Grenze](0018a.md)
 - [§ 19 Aufgaben der Ausländerbehörde und der Polizei](0019.md)
 - [§ 20 Weiterleitung an eine Aufnahmeeinrichtung](0020.md)
 - [§ 21 Verwahrung und Weitergabe von Unterlagen](0021.md)
 - [§ 22 Meldepflicht](0022.md)
-- [§ 22a Übernahme zur Durchführung eines Asylverfahrens](0022a.md)
+- [§ 22a Übernahme eines Antragstellers oder einer Person, der internationaler Schutz zuerkannt wurde](0022a.md)
 
 ### Unterabschnitt 3 Verfahren beim Bundesamt
 
-- [§ 23 Antragstellung bei der Außenstelle](0023.md)
-- [§ 24 Pflichten des Bundesamtes](0024.md)
-- [§ 25 Anhörung](0025.md)
-- [§ 26 Familienasyl und internationaler Schutz für Familienangehörige](0026.md)
-- [§ 26a Sichere Drittstaaten](0026a.md)
-- [§ 27 Anderweitige Sicherheit vor Verfolgung](0027.md)
+- [§ 23 Entscheidung über das Verbot der Abschiebung](0023.md)
+- [§ 24 (weggefallen)](0024.md)
+- [§ 25 Anhörung im Asylverfahren](0025.md)
+- [§ 26 Asylanträge von Familienangehörigen](0026.md)
+- [§ 26a Sichere Drittstaaten im Sinne des Artikels 16a Absatz 2 des Grundgesetzes](0026a.md)
+- [§ 27 Sichere Drittstaaten im Sinne der Verordnung (EU) 2024/1348](0027.md)
 - [§ 27a (weggefallen)](0027a.md)
 - [§ 28 Nachfluchttatbestände](0028.md)
 - [§ 29 Unzulässige Anträge](0029.md)
 - [§ 29a Sichere Herkunftsstaaten im Sinne des Artikels 16a Absatz 3 des Grundgesetzes; Bericht; Verordnungsermächtigung](0029a.md)
-- [§ 29b Sichere Herkunftsstaaten im Sinne der Richtlinie 2013/32/EU; Verordnungsermächtigung](0029b.md)
+- [§ 29b Sichere Herkunftsstaaten im Sinne der Verordnung (EU) 2024/1348](0029b.md)
 - [§ 30 Offensichtlich unbegründete Asylanträge](0030.md)
-- [§ 30a Beschleunigte Verfahren](0030a.md)
 - [§ 31 Entscheidung des Bundesamtes über Asylanträge](0031.md)
-- [§ 32 Entscheidung bei Antragsrücknahme oder Verzicht](0032.md)
+- [§ 32 Entscheidung bei ausdrücklicher oder stillschweigender Antragsrücknahme](0032.md)
 - [§ 32a Ruhen des Verfahrens](0032a.md)
-- [§ 33 Nichtbetreiben des Verfahrens](0033.md)
+- [§ 33 (weggefallen)](0033.md)
 
 ### Unterabschnitt 4 Aufenthaltsbeendigung
 
 - [§ 34 Abschiebungsandrohung](0034.md)
 - [§ 34a Abschiebungsanordnung](0034a.md)
-- [§ 35 Abschiebungsandrohung bei Unzulässigkeit des Asylantrags](0035.md)
-- [§ 36 Verfahren bei Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und bei offensichtlicher Unbegründetheit](0036.md)
-- [§ 37 Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung](0037.md)
-- [§ 38 Ausreisefrist bei sonstiger Ablehnung und bei Rücknahme des Asylantrags](0038.md)
-- [§ 39 (weggefallen)](0039.md)
+- [§ 35 (weggefallen)](0035.md)
+- [§ 36 Verfahren bei Fällen des Artikels 68 Absatz 3 der Verordnung (EU) 2024/1348](0036.md)
+- [§ 37 (weggefallen)](0037.md)
+- [§ 38 Ausreisefrist](0038.md)
+- [§ 39 Zuständigkeit der Ausländerbehörden bei Aufenthaltsbeendigung](0039.md)
 - [§ 40 Unterrichtung der Ausländerbehörde](0040.md)
 - [§ 41 (weggefallen)](0041.md)
 - [§ 42 Bindungswirkung ausländerrechtlicher Entscheidungen](0042.md)
@@ -98,7 +88,7 @@
 
 ## Abschnitt 5 Unterbringung und Verteilung
 
-- [§ 44 Schaffung und Unterhaltung von Aufnahmeeinrichtungen](0044.md)
+- [§ 44 Schaffung und Unterhaltung von Aufnahmeeinrichtungen; Aufnahmeeinrichtungen zur Durchführung von Verfahren bei Sekundärmigration](0044.md)
 - [§ 45 Aufnahmequoten](0045.md)
 - [§ 46 Bestimmung der zuständigen Aufnahmeeinrichtung](0046.md)
 - [§ 47 Aufenthalt in Aufnahmeeinrichtungen](0047.md)
@@ -123,32 +113,35 @@
 - [§ 61 Erwerbstätigkeit](0061.md)
 - [§ 62 Gesundheitsuntersuchung](0062.md)
 - [§ 63 Bescheinigung über die Aufenthaltsgestattung](0063.md)
-- [§ 63a Bescheinigung über die Meldung als Asylsuchender](0063a.md)
+- [§ 63a Ankunftsnachweis](0063a.md)
+- [§ 63b Ankunftsnachweis und Bescheinigung über die Aufenthaltsgestattung im Asylverfahren an der Grenze](0063b.md)
 - [§ 64 Ausweispflicht](0064.md)
 - [§ 65 Herausgabe des Passes](0065.md)
 - [§ 66 Ausschreibung zur Aufenthaltsermittlung](0066.md)
 - [§ 67 Erlöschen der Aufenthaltsgestattung](0067.md)
-- [§ 68 (weggefallen)](0068.md)
-- [§ 69 (weggefallen)](0069.md)
-- [§ 70 (weggefallen)](0070.md)
+- [§ 68 Beschränkung der Bewegungsfreiheit in Aufnahmeeinrichtungen zur Durchführung von Verfahren bei Sekundärmigration; Verordnungsermächtigung](0068.md)
+- [§ 68a Beschränkung der Bewegungsfreiheit in sonstigen Aufnahmeeinrichtungen; Verordnungsermächtigung](0068a.md)
+- [§ 69 Asylverfahrenshaft; Verordnungsermächtigung](0069.md)
+- [§ 70 Vollzug der Asylverfahrenshaft](0070.md)
+- [§ 70a Inhaftnahme von Ausländern mit besonderen Bedürfnissen](0070a.md)
+- [§ 70b Haft im Rückkehrgrenzverfahren](0070b.md)
 
-## Abschnitt 7 Folgeantrag, Zweitantrag
+## Abschnitt 7 Folgeantrag
 
 - [§ 71 Folgeantrag](0071.md)
-- [§ 71a Zweitantrag](0071a.md)
 
-## Abschnitt 8 Erlöschen, Widerruf und Rücknahme der Rechtsstellung
+## Abschnitt 8 Erlöschen, Entzug, Widerruf und Rücknahme der Rechtsstellung
 
 - [§ 72 Erlöschen](0072.md)
-- [§ 73 Widerrufs- und Rücknahmegründe](0073.md)
-- [§ 73a Gründe für einen Widerruf von Familienasyl und internationalem Schutz für Familienangehörige](0073a.md)
-- [§ 73b Widerrufs- und Rücknahmeverfahren](0073b.md)
+- [§ 73 (weggefallen)](0073.md)
+- [§ 73a (weggefallen)](0073a.md)
+- [§ 73b Gründe und Verfahren für Entzug, Widerruf und Rücknahme](0073b.md)
 - [§ 73c Ausländische Anerkennung als Flüchtling](0073c.md)
 
 ## Abschnitt 9 Gerichtsverfahren
 
 - [§ 74 Klagefrist, Zurückweisung verspäteten Vorbringens, Verhandlung durch den abgelehnten Richter](0074.md)
-- [§ 75 Aufschiebende Wirkung der Klage](0075.md)
+- [§ 75 Aufschiebende Wirkung der Klage, Recht auf Verbleib](0075.md)
 - [§ 76 Einzelrichter](0076.md)
 - [§ 77 Entscheidung des Gerichts](0077.md)
 - [§ 78 Rechtsmittel](0078.md)
@@ -176,6 +169,7 @@
 - [§ 87b Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen](0087b.md)
 - [§ 87c Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen](0087c.md)
 - [§ 87d Übergangsvorschrift aus Anlass der am 23. Dezember 2023 in Kraft getretenen Änderung](0087d.md)
+- [§ 87e Übergangsvorschrift aus Anlass der am 12. Juni 2026 in Kraft getretenen Änderung](0087e.md)
 - [§ 88 Verordnungsermächtigungen](0088.md)
 - [§ 88a Bestimmungen zum Verwaltungsverfahren](0088a.md)
 - [§ 89 Einschränkung von Grundrechten](0089.md)

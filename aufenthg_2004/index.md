@@ -32,8 +32,10 @@
 
 - [§ 13 Grenzübertritt](0013.md)
 - [§ 14 Unerlaubte Einreise; Ausnahme-Visum](0014.md)
+- [§ 14a Überprüfung an der Außengrenze](0014a.md)
 - [§ 15 Zurückweisung](0015.md)
 - [§ 15a Verteilung unerlaubt eingereister Ausländer](0015a.md)
+- [§ 15b Überprüfung im Bundesgebiet](0015b.md)
 
 ### Abschnitt 3 Aufenthalt zum Zweck der Ausbildung
 
@@ -165,7 +167,7 @@
 
 - [§ 63 Pflichten der Beförderungsunternehmer](0063.md)
 - [§ 64 Rückbeförderungspflicht der Beförderungsunternehmer](0064.md)
-- [§ 65 Pflichten der Flughafenunternehmer](0065.md)
+- [§ 65 Pflicht der Hafen- und Flughafenbetreiber](0065.md)
 - [§ 66 Kostenschuldner; Sicherheitsleistung](0066.md)
 - [§ 67 Umfang der Kostenhaftung](0067.md)
 - [§ 68 Haftung für Lebensunterhalt](0068.md)
@@ -178,11 +180,11 @@
 
 ### Abschnitt 1 Zuständigkeiten
 
-- [§ 71 Zuständigkeit](0071.md)
+- [§ 71 Zuständigkeit; Verordnungsermächtigung](0071.md)
 - [§ 71a Zuständigkeit und Unterrichtung](0071a.md)
 - [§ 72 Beteiligungserfordernisse](0072.md)
 - [§ 72a Abgleich von Visumantragsdaten zu Sicherheitszwecken](0072a.md)
-- [§ 73 Sonstige Beteiligungserfordernisse im Visumverfahren, im Registrier- und Asylverfahren und bei der Erteilung von Aufenthaltstiteln](0073.md)
+- [§ 73 Sonstige Beteiligungserfordernisse im Visumverfahren, im Registrier- und Asylverfahren und bei der Erteilung von Aufenthaltstiteln; Prüfung von Personen](0073.md)
 - [§ 73a Unterrichtung über die Erteilung von Visa](0073a.md)
 - [§ 73b Überprüfung der Zuverlässigkeit von im Visumverfahren tätigen Personen und Organisationen](0073b.md)
 - [§ 73c Zusammenarbeit mit externen Dienstleistungserbringern](0073c.md)
@@ -233,6 +235,8 @@
 - [§ 91f Auskünfte zur Durchführung der Richtlinie (EU) 2021/1883 innerhalb der Europäischen Union](0091f.md)
 - [§ 91g Auskünfte zur Durchführung der Richtlinie 2014/66/EU](0091g.md)
 - [§ 91h Datenübermittlung zur Durchführung der Verordnung (EU) 2017/2226](0091h.md)
+- [§ 91j Datenübermittlung zur Ausführung der Verordnung (EU) 2024/1358](0091j.md)
+- [§ 91k Auskunftsbeschränkung nach Artikel 43 der Verordnung (EU) 2024/1358](0091k.md)
 
 ## Kapitel 8 Beauftragte für Migration, Flüchtlinge und Integration
 
