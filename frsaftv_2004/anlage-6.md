@@ -1,4 +1,4 @@
-# Anlage 6 (zu § 2 Abs. 7)
+# Anlage 6 (zu § 2 Absatz 7)
 
 Mindestbrixwerte für
 wiederhergestellten Fruchtsaft und wiederhergestelltes Fruchtmark
@@ -7,6 +7,7 @@ wiederhergestellten Fruchtsaft und wiederhergestelltes Fruchtmark
 | Aprikose/Marille (**) | Prunus armeniaca L. | 11,2 |
 | Banane (**) | Musa x paradisiaca L. (außer Mehlbananen) | 21,0 |
 | Schwarze Johannisbeere/Ribisel (*) | Ribes nigrum L. | 11,0 |
+| Kokosnuss (*) | Cocos nucifera L. | 4,5 |
 | Weintraube (*) | Vitis vinifera L. oder deren HybrideVitis labrusca L. oder deren Hybride | 15,9 |
 | Grapefruit (*) | Citrus x paradisi Macfad. | 10,0 |
 | Guave (**) | Psidium guajava L. | 8,5 |

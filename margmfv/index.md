@@ -2,7 +2,7 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)
-- [§ 2](0002.md)
+- [§ 2 Zusatz von Vitamin A und D](0002.md)
 - [§ 3](0003.md)
 - [§ 4 Kennzeichnungsvorschriften](0004.md)
 - [§ 5](0005.md)

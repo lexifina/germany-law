@@ -15,5 +15,4 @@ Nach Herkunft, Gewinnungsart, Angebotsform oder Zweckbestimmung werden folgende 
 | 5. | Tropfhonig | durch Austropfen der entdeckelten, brutfreien Waben gewonnener Honig |
 | 6. | Schleuderhonig | durch Schleudern der entdeckelten, brutfreien Waben gewonnener Honig |
 | 7. | Presshonig | durch Pressen der brutfreien Waben ohne oder mit Erwärmung auf höchstens 45 Grad C gewonnener Honig |
-| 8. | gefilterter Honig | Honig, der gewonnen wird, indem anorganische oder organische Fremdstoffe so entzogen werden, dass Pollen in erheblichem Maße entfernt werden |
-| 9. | Backhonig | Honig, der für industrielle Zwecke oder als Zutat für andere Lebensmittel, die anschließend verarbeitet werden, geeignet ist |
+| 8. | Backhonig | Honig, der für industrielle Zwecke oder als Zutat für andere Lebensmittel, die anschließend verarbeitet werden, geeignet ist und der einen fremden Geschmack oder Geruch aufweisen kann oder in Gärung übergegangen sein oder gegoren haben kann oder überhitzt worden sein kann oder gewonnen worden sein kann, indem anorganische oder organische Fremdstoffe so entzogen wurden, dass Pollen in erheblichem Maße entfernt wurden. |

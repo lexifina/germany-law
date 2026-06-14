@@ -10,7 +10,7 @@ Allgemeine Vorschriften
 Abschnitt 2
 Probenahme und Transport der Proben
 | § 6 | Probenahme |
-| § 7 | Sachkunde der Probenehmer |
+| § 7 | Sachkundige Probenahme |
 | § 8 | Lehrgänge und Bescheinigungen über die Sachkunde |
 | § 9 | Nachweise über die Einführung in die ordnungsgemäße Probenahme |
 | § 10 | Pflicht zum Mitführen von Bescheinigungen und Nachweisen |
@@ -47,8 +47,9 @@ Schlussvorschriften
 | § 35 | Aufzeichnungspflichten der Abnehmer |
 | § 36 | Aufzeichnungspflichten der Veranstalter von Sachkundelehrgängen und der Untersuchungsstellen |
 | § 37 | Aufbewahrungspflichten |
-| § 38 | Ordnungswidrigkeiten |
-| § 39 | Anwendungs- und Übergangsbestimmungen |
-| Anlage 1 | Anforderungen an die Sachkunde der Probenehmer |
+| § 38 | Mitteilungspflichten der Abnehmer bezüglich der Übernahme von Rohmilch |
+| § 39 | Ordnungswidrigkeiten |
+| § 40 | Anwendungs- und Übergangsbestimmungen |
+| Anlage 1 | Anforderungen an eine sachkundige Probenahme |
 | Anlage 2 | Güteuntersuchung der Proben und Mittelwertbildung |
 | Anlage 3 | Untersuchungsverfahren zur Güteuntersuchung |

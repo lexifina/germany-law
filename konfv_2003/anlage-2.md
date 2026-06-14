@@ -1,8 +1,7 @@
-# Anlage 2 (zu § 2 Abs. 1 und § 4)
+# Anlage 2 (zu § 2 Absatz 1 und § 4)Ausgangserzeugnisse
 
-Ausgangserzeugnisse
-
-Fundstelle des Originaltextes: BGBl. I 2003, 2155
+(Fundstelle: BGBl. I 2003, 2155;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Abschnitt I
         Begriffsbestimmungen
 1. Frucht:
@@ -23,7 +22,7 @@ Abschnitt I
   d) brauner Zucker.
 Abschnitt II
         Behandlung der Ausgangserzeugnisse
-1. Die in Abschnitt I Nr. 1 bis 4 genannten Erzeugnisse dürfen folgenden Behandlungen unterzogen werden:
+1. Die in Abschnitt I Nummer 1 bis 4 genannten Erzeugnisse dürfen folgenden Behandlungen unterzogen werden:
   a) Wärme- und Kältebehandlungen;
   b) Gefriertrocknung; bei Aprikosen und Pflaumen, die zur Herstellung von Konfitüre bestimmt sind, auch anderen Trocknungsverfahren;
   c) Konzentrieren, sofern sie sich technisch dafür eignen.

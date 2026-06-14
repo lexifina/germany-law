@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 7 Absatz 2)Anforderungen an die Sachkunde der Probenehmer
+# Anlage 1 (zu § 7 Absatz 2)Anforderungen an eine sachkundige Probenahme
 
 A. Allgemeine Anforderungen (§ 7 Absatz 2 Satz 1)
   Bei jeder Probenahme sind folgende Anforderungen zu erfüllen:
@@ -13,7 +13,7 @@ A. Allgemeine Anforderungen (§ 7 Absatz 2 Satz 1)
       b) Verwechslung oder Unregelmäßigkeiten bei der Probenahme;
       c) technische Mängel oder qualitätsmindernde Einflüsse bei der Probenahme.
   II. Anforderungen hinsichtlich einzelner Schritte der Probenahme
-    1. Sicherstellung, dass die milchführenden Bestandteile einer Anlage zur Probenahme vor Beginn der Probenahme soweit wie technisch möglich frei von jeglicher Flüssigkeit sind, insbesondere von Wasser und Reinigungslösung.
+    1. Sicherstellung, dass die milchführenden Teile einer Anlage zur Probenahme vor Beginn der Probenahme soweit wie technisch möglich frei von jeglicher Flüssigkeit sind, insbesondere von Wasser und Reinigungslösung.
     2. Visuelle Prüfung, ob sich die Rohmilch in einwandfreiem Zustand (etwa nicht verfärbt, flockig oder veränderte Konsistenz) befindet, soweit es sich um ein geschlossenes System mit Prüfmöglichkeit handelt oder im Falle einer offenen Aufbewahrung eine Prüfung ohne besonderen Aufwand möglich ist.
     3. Feststellung, dass die Rohmilch vor Beginn der Probenahme durchmischt ist, soweit eine Prüfung entsprechend Nummer 2 möglich ist. Insbesondere darf die Rohmilch nicht aufgerahmt sein. Wird eine unzureichende Durchmischung festgestellt, hat eine ausreichende Durchmischung vor der Probenahme stattzufinden. In Rohmilchtanks mit Rührwerk ist für eine ausreichende Durchmischung der Rohmilch das Rührwerk für mindestens drei Minuten in Gang zu setzen.
     4. Feststellung, dass die Rohmilch vor Beginn der Probenahme entsprechend den Vorgaben des Lebensmittelhygienerechts gekühlt ist.
@@ -24,13 +24,14 @@ A. Allgemeine Anforderungen (§ 7 Absatz 2 Satz 1)
     9. Dokumentation jeder Probenahme: Die Dokumentation muss eine Zuordnung der Probe zum Erzeuger ermöglichen sowie das Probenahmedatum und den Probenahmezeitpunkt enthalten. Jede Unregelmäßigkeit und jede fehlerhafte Zuordnung zu einem Erzeuger ist unter Angabe desjenigen Erzeugers, von dem die Probe stammt, festzuhalten. Im Falle einer fehlerhaften Zuordnung ist zusätzlich derjenige Erzeuger, dem die Probe fehlerhaft zugeordnet wurde, anzuführen.
   III. Anforderungen an Reinigung, Desinfektion und allgemeine Kontrollen
     1. Verwendung der erforderlichen Schutzausrüstung.
-    2. Reinigung und Desinfektion milchführender Teile mindestens einmal in 24 Stunden.
+    2. Reinigung und Desinfektion aller milchführenden Teile, die mit der Probenahme zusammenhängen, mindestens einmal in 24 Stunden, wobei der Zeitraum um bis zu drei Stunden überschritten werden darf, wenn während der Überschreitung keine Probenahme erfolgt.
     3. Regelmäßige Kontrolle beweglicher und abnehmbarer Teile (Schraubverbindungen, Dichtungen, Schläuche und Ähnliches) und deren Austausch im Fall von Mängeln oder absehbaren Mängeln.
+    4. Ist beabsichtigt, eine Anlage zur Probenahme mehr als 72 Stunden nicht zu verwenden, ist sie spätestens zwölf Stunden nach dem letztmaligen Gebrauch sowie frühestens zwölf Stunden vor dem nächsten Gebrauch zu reinigen und zu desinfizieren.
 B. Besondere Anforderungen bei der Verwendung von Milchsammelwagen (§ 7 Absatz 2 Satz 2)
   Bei einem Milchsammelwagen ist zusätzlich zu den allgemeinen Anforderungen an jede Probenahme Folgendes zu beachten:
   I. Grundlegende Anforderungen
     1. Einhaltung der Touren- und Probenahmepläne, die vom Abnehmer erstellt wurden.
     2. Unmittelbare Rücksprache mit dem zuständigen Verantwortlichen des Abnehmers bei technischen Problemen.
   II. Anforderungen an Reinigung und Desinfektion
-    1. Die Reinigung und Desinfektion des Milchsammelwagens einschließlich der Anlage zur Probenahme umfasst insbesondere die Reinigung aller milchführenden Teile (Annahme- und Abtankvorrichtungen, Probenahme- und Leitungssysteme, Rohmilchtanks und Ähnliches). Reicht eine automatische Reinigung nicht aus (etwa bei Hähnen, Deckeldichtungen, Lanzen und Ähnlichem), sind die betreffenden Bereiche von Hand zu reinigen und zu desinfizieren.
-    2. Ist beabsichtigt, einen Milchsammelwagen mehr als 72 Stunden nicht zum Transport von Rohmilch zu verwenden, ist er spätestens zwölf Stunden nach dem letztmaligen Gebrauch sowie frühestens zwölf Stunden vor dem nächsten Gebrauch zu reinigen und zu desinfizieren.
+    1. Die Reinigung und Desinfektion nach Abschnitt A Unterabschnitt III Nummer 2 umfasst den gesamten Milchsammelwagen einschließlich der Anlage zur Probenahme und dabei insbesondere alle milchführenden Teile (Annahme- und Abtankvorrichtungen, Probenahme- und Leitungssysteme, Rohmilchtanks und Ähnliches). Reicht eine automatische Reinigung nicht aus (etwa bei Hähnen, Deckeldichtungen, Lanzen und Ähnlichem), sind die betreffenden Bereiche von Hand zu reinigen und zu desinfizieren.
+    2. Die Reinigung und Desinfektion nach Abschnitt A Unterabschnitt III Nummer 4 ist über die Anlage zur Probenahme hinaus auf den gesamten Milchsammelwagen zu erstrecken.

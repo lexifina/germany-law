@@ -13,7 +13,7 @@
 ## Abschnitt 2 Probenahme und Transport der Proben
 
 - [§ 6 Probenahme](0006.md)
-- [§ 7 Sachkunde der Probenehmer](0007.md)
+- [§ 7 Sachkundige Probenahme](0007.md)
 - [§ 8 Lehrgänge und Bescheinigungen über die Sachkunde](0008.md)
 - [§ 9 Nachweise über die Einführung in die ordnungsgemäße Probenahme](0009.md)
 - [§ 10 Pflicht zum Mitführen von Bescheinigungen und Nachweisen](0010.md)
@@ -53,8 +53,9 @@
 - [§ 35 Aufzeichnungspflichten der Abnehmer](0035.md)
 - [§ 36 Aufzeichnungspflichten der Veranstalter von Sachkundelehrgängen und der Untersuchungsstellen](0036.md)
 - [§ 37 Aufbewahrungspflichten](0037.md)
-- [§ 38 Ordnungswidrigkeiten](0038.md)
-- [§ 39 Anwendungs- und Übergangsbestimmungen](0039.md)
-- [Anlage 1 (zu § 7 Absatz 2)Anforderungen an die Sachkunde der Probenehmer](anlage-1.md)
+- [§ 38 Mitteilungspflichten der Abnehmer bezüglich der Übernahme von Rohmilch](0038.md)
+- [§ 39 Ordnungswidrigkeiten](0039.md)
+- [§ 40 Anwendungs- und Übergangsbestimmungen](0040.md)
+- [Anlage 1 (zu § 7 Absatz 2)Anforderungen an eine sachkundige Probenahme](anlage-1.md)
 - [Anlage 2 (zu § 17, § 22 Absatz 1 Satz 1, § 23, § 24 Absatz 1,§ 27 Absatz 3 Satz 1 und Absatz 5 sowie § 29 Absatz 1 Satz 2 und Absatz 2 Satz 2)Güteuntersuchung der Proben und Mittelwertbildung](anlage-2.md)
 - [Anlage 3 (zu § 3 Absatz 1 Nummer 15 und 16, § 17, § 21 Absatz 1 und 2 Satz 1 und 4,§ 25 Absatz 4 Satz 1, § 27 Absatz 1 Satz 2, § 29 Absatz 1 Satz 2 sowie Anlage 2)Untersuchungsverfahren zur Güteuntersuchung](anlage-3.md)

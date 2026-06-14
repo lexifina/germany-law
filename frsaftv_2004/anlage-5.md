@@ -1,4 +1,4 @@
-# Anlage 5 (zu § 2 Abs. 6)
+# Anlage 5 (zu § 2 Absatz 6)
 
 | Besondere Vorschriften für Fruchtnektar |
 | Fruchtnektar aus | Mindestgehalt an Fruchtsaft oder Fruchtmark (in Vol.-% des fertigen Erzeugnisses) |
@@ -24,7 +24,7 @@
 | Erdbeeren | 40 |
 | Brombeeren | 40 |
 | Kranbeeren/Cranberries | 30 |
-| Quitten | 50 |
+| Quitten (Cydonia oblonga L.) | 50 |
 | Zitronen und Limetten | 25 |
 | andere Früchte dieser Kategorie | 25 |
 | II. | säurearmen oder sehr aromatischen Früchten oder Früchten, die viel Fruchtfleisch enthalten, mit zum unmittelbaren Genuss nicht geeignetem Saft: |  |

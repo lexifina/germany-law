@@ -10,9 +10,5 @@
 - [§ 7 Inkrafttreten, Außerkrafttreten](0007.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu den §§ 1 bis 4)Erzeugnisse](anlage-1.md)
-- [Anlage 2 (zu § 2 Abs. 1 und § 4)
-
-Ausgangserzeugnisse](anlage-2.md)
-- [Anlage 3 (zu § 2 Abs. 2)
-
-Zutaten](anlage-3.md)
+- [Anlage 2 (zu § 2 Absatz 1 und § 4)Ausgangserzeugnisse](anlage-2.md)
+- [Anlage 3 (zu § 2 Absatz 2)Zutaten](anlage-3.md)

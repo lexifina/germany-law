@@ -1,6 +1,7 @@
-# Anlage I (zu § 4 Absatz 1 Satz 2)Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
+# Anlage I (zu § 4 Absatz 1 Satz 2)Liste für Preisnotierungen
 
-(Fundstelle: BGBl. I 2011, 1024)
+(Fundstelle: BGBl. I 2011, 1024;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 1. Markenbutter
   – geformt in Alu-Folie, 250 g
   – lose in 25 kg-Blocks

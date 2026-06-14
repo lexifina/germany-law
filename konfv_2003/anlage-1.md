@@ -1,25 +1,30 @@
 # Anlage 1 (zu den §§ 1 bis 4)Erzeugnisse
 
-| Abschnitt IBezeichnungen der Lebensmittel, Herstellungsanforderungen |
+Abschnitt I
+Bezeichnungen der Lebensmittel, Herstellungsanforderungen
 | Bezeichnung des Lebensmittels | Herstellungsanforderungen |
-| 1.Konfitüre extra | Konfitüre extra ist die streichfähige Zubereitung aus Zuckerarten, nicht konzentrierter Pülpe aus einer oder mehreren Fruchtarten und Wasser. Konfitüre extra von Hagebutten sowie kernlose Konfitüre extra von Himbeeren, Brombeeren, schwarzen Johannisbeeren, Heidelbeeren und roten Johannisbeeren darf jedoch ganz oder teilweise aus nicht konzentriertem Fruchtmark hergestellt werden. Konfitüre extra von Zitrusfrüchten darf aus der in Streifen und oder in Stücke geschnittenen ganzen Frucht hergestellt werden. Aus Mischungen der nachstehenden Früchte mit anderen Früchten darf keine Konfitüre extra hergestellt werden: Äpfel, Birnen, nicht steinlösende Pflaumen, Melonen, Wassermelonen, Trauben, Kürbisse, Gurken, Tomaten. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge Pülpe oder Fruchtmark beträgt mindestens |
-| a)350 g | bei roten Johannisbeeren, Vogelbeeren, Sanddorn, schwarzen Johannisbeeren, Hagebutten und Quitten, |
-| b)250 g | bei Ingwer, |
-| c)230 g | bei Kaschuäpfeln, |
-| d)80 g | bei Passionsfrüchten, |
-| e)450 g | bei anderen Früchten. |
-| 2.Konfitüre | Konfitüre ist die streichfähige Zubereitung aus Zuckerarten, Pülpe oder Fruchtmark einer oder mehrerer Fruchtarten und Wasser. Abweichend davon darf Konfitüre von Zitrusfrüchten aus der in Streifen oder in Stücke geschnittenen ganzen Frucht hergestellt werden. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge Pülpe oder Fruchtmark beträgt mindestens |
-| a)250 g | bei roten Johannisbeeren, Vogelbeeren, Sanddorn, schwarzen Johannisbeeren, Hagebutten und Quitten, |
-| b)150 g | bei Ingwer, |
-| c)160 g | bei Kaschuäpfeln, |
-| d)60 g | bei Passionsfrüchten, |
-| e)350 g | bei anderen Früchten. |
-| 3.Gelee extra | Gelee extra ist die streichfähige Zubereitung aus Zuckerarten sowie Saft oder wässrigen Auszügen einer oder mehrerer Fruchtarten. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge an Saft oder wässrigen Auszügen entspricht mindestens der für die Herstellung von Konfitüre extra vorgeschriebenen Menge. Die Mengenangaben gelten nach Abzug des Gewichts des für die Herstellung der wässrigen Auszüge verwendeten Wassers. Aus Mischungen der nachstehenden Früchte mit anderen Früchten darf kein Gelee extra hergestellt werden: Äpfel, Birnen, nicht steinlösende Pflaumen, Melonen, Wassermelonen, Trauben, Kürbisse, Gurken, Tomaten. |
-| 4.Gelee | Gelee ist streichfähige Zubereitung aus Zuckerarten sowie Saft oder wässrigen Auszügen einer oder mehrerer Fruchtarten. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge an Saft oder wässrigen Auszügen entspricht mindestens der für die Herstellung von Konfitüre vorgeschriebenen Menge. Die Mengenangaben gelten nach Abzug des Gewichts des für die Herstellung der wässrigen Auszüge verwendeten Wassers. |
-| 5.Marmelade | Marmelade ist die streichfähige Zubereitung aus Wasser, Zuckerarten und einem oder mehreren der nachstehenden, aus Zitrusfrüchten hergestellten Erzeugnisse: Pülpe, Fruchtmark, Saft, wässriger Auszug, Schale. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge Zitrusfrüchte beträgt mindestens 200 g, von denen mindestens 75 g dem Endokarp entstammen. |
-| 6.Gelee-Marmelade | Gelee-Marmelade ist eine Marmelade, aus der sämtliche unlöslichen Bestandteile mit Ausnahme etwaiger kleiner Anteile feingeschnittener Schale entfernt worden sind. |
-| 7.Maronenkrem | Maronenkrem ist die streichfähige Zubereitung aus Wasser, Zucker und mindestens 380 g Maronenmark (von Castanea sativa) je 1 000 g Enderzeugnis. |
-|  |
-| Abschnitt IIAllgemeine Anforderungen |
-1. Die in Abschnitt I definierten Erzeugnisse müssen mehr als 55 Prozent lösliche Trockenmasse (Refraktometerwert) enthalten; hiervon ausgenommen sind die Erzeugnisse, bei denen der Zucker ganz oder teilweise durch Süßungsmittel nach Maßgabe der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) in der jeweils geltenden Fassung ersetzt wurde.
+| 1. | Konfitüre extra | Konfitüre extra ist die streichfähige Zubereitung aus Zuckerarten, nicht konzentrierter Pülpe aus einer oder mehreren Fruchtarten und Wasser. Konfitüre extra von Hagebutten sowie kernlose Konfitüre extra von Himbeeren, Brombeeren, schwarzen Johannisbeeren, Heidelbeeren und roten Johannisbeeren darf jedoch ganz oder teilweise aus nicht konzentriertem Fruchtmark hergestellt werden. Konfitüre extra von Zitrusfrüchten darf aus der in Streifen oder in Stücke oder in Streifen und Stücke geschnittenen ganzen Frucht hergestellt werden. |
+|  |  | Aus Mischungen der nachstehenden Früchte mit anderen Früchten darf keine Konfitüre extra hergestellt werden: Äpfel, Birnen, nicht steinlösende Pflaumen, Melonen, Wassermelonen, Trauben, Kürbisse, Gurken, Tomaten. |
+|  |  | Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge Pülpe oder Fruchtmark beträgt mindestens |
+|  |  | a) | 450 g | bei roten Johannisbeeren, Vogelbeeren, Sanddorn, schwarzen Johannisbeeren, Hagebutten und Quitten, |
+|  |  | b) | 280 g | bei Ingwer, |
+|  |  | c) | 290 g | bei Kaschuäpfeln, |
+|  |  | d) | 100 g | bei Passionsfrüchten, |
+|  |  | e) | 500 g | bei anderen Früchten. |
+| 2. | Konfitüre | Konfitüre ist die streichfähige Zubereitung aus Zuckerarten, Pülpe oder Fruchtmark oder Pülpe und Fruchtmark einer oder mehrerer Fruchtarten und Wasser. Abweichend davon darf Konfitüre von Zitrusfrüchten aus der in Streifen oder in Stücke oder in Streifen und Stücke geschnittenen ganzen Frucht hergestellt werden. |
+|  |  | Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge Pülpe oder Fruchtmark oder Pülpe und Fruchtmark beträgt mindestens |
+|  |  | a) | 350 g | bei roten Johannisbeeren, Vogelbeeren, Sanddorn, schwarzen Johannisbeeren, Hagebutten und Quitten, |
+|  |  | b) | 180 g | bei Ingwer, |
+|  |  | c) | 230 g | bei Kaschuäpfeln, |
+|  |  | d) | 80 g | bei Passionsfrüchten, |
+|  |  | e) | 450 g | bei anderen Früchten. |
+| 3. | Gelee extra | Gelee extra ist die streichfähige Zubereitung aus Zuckerarten sowie Saft oder wässrigen Auszügen einer oder mehrerer Fruchtarten. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge an Saft oder wässrigen Auszügen entspricht mindestens der für die Herstellung von Konfitüre extra vorgeschriebenen Menge. Die Mengenangaben gelten nach Abzug des Gewichts des für die Herstellung der wässrigen Auszüge verwendeten Wassers. Aus Mischungen der nachstehenden Früchte mit anderen Früchten darf kein Gelee extra hergestellt werden: Äpfel, Birnen, nicht steinlösende Pflaumen, Melonen, Wassermelonen, Trauben, Kürbisse, Gurken, Tomaten. |
+| 4. | Gelee | Gelee ist die streichfähige Zubereitung aus Zuckerarten sowie Saft oder wässrigen Auszügen einer oder mehrerer Fruchtarten. Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge an Saft oder wässrigen Auszügen entspricht mindestens der für die Herstellung von Konfitüre vorgeschriebenen Menge. Die Mengenangaben gelten nach Abzug des Gewichts des für die Herstellung der wässrigen Auszüge verwendeten Wassers. |
+| 5. | Zitrusmarmelade | Zitrusmarmelade ist die streichfähige Zubereitung aus Wasser, Zuckerarten und einem oder mehreren der nachstehenden, aus Zitrusfrüchten hergestellten Erzeugnisse: Pülpe, Fruchtmark, Saft, wässriger Auszug, Schale. |
+|  |  | Die für die Herstellung von 1 000 g Enderzeugnis verwendete Menge Zitrusfrüchte beträgt mindestens 200 g, von denen mindestens 75 g dem Endokarp entstammen. |
+| 6. | Gelee-Marmelade | Gelee-Marmelade ist eine Zitrusmarmelade, aus der sämtliche unlöslichen Bestandteile mit Ausnahme etwaiger kleiner Anteile feingeschnittener Schale entfernt worden sind. |
+| 7. | Maronenkrem | Maronenkrem ist die streichfähige Zubereitung aus Wasser, Zucker und mindestens 380 g Maronenmark (von Castanea sativa) je 1 000 g Enderzeugnis. |
+Abschnitt II
+Allgemeine Anforderungen
+1. Die in Abschnitt I definierten Erzeugnisse müssen mehr als 55 Prozent lösliche Trockenmasse (Refraktometerwert) enthalten; hiervon ausgenommen sind die Erzeugnisse, die den Anforderungen der Verordnung (EG) Nr. 1924/2006 in Bezug auf einen reduzierten Zuckeranteil entsprechen, und die Erzeugnisse, bei denen Zucker ganz oder teilweise durch Süßungsmittel ersetzt wurde.
 2. Bei der Herstellung von Erzeugnissen nach Abschnitt I aus zwei oder mehr Früchten sind die vorgeschriebenen Mindestmengen anteilmäßig zu verwenden.

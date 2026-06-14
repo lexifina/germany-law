@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 2 Abs. 1)
+# Anlage 2 (zu § 2 Absatz 1)
 
 Ausgangserzeugnisse
 1. Frucht:
@@ -10,4 +10,4 @@ Ausgangserzeugnisse
 4. Fruchtfleisch oder Zellen:
   die aus den genießbaren Teilen von Früchten der gleichen Art ohne Abtrennung des Saftes gewonnenen Erzeugnisse; bei Zitrusfrüchten sind Fruchtfleisch oder Zellen ferner die aus dem Endokarp gewonnen Saftsäcke,
 5. Aroma:
-  unbeschadet der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34) werden fruchteigene Restaurationsaromen bei der Verarbeitung von Früchten mittels geeigneter physikalischer Verfahren gewonnen; diese physikalischen Verfahren können eingesetzt werden, um die Aromaqualität zu erhalten, zu bewahren oder zu stabilisieren, und umfassen vor allem Pressen, Extraktion, Destillation, Filtern, Adsorption, Evaporation, Fraktionieren und Konzentrieren; das Restaurationsaroma wird aus den genießbaren Teilen der Frucht gewonnen, kann jedoch auch kaltgepresstes Öl aus Zitrusschalen und Bestandteile der Steine enthalten.
+  unbeschadet der Verordnung (EG) Nr. 1334/2008 werden fruchteigene Restaurationsaromen bei der Verarbeitung von Früchten mittels geeigneter physikalischer Verfahren gewonnen; diese physikalischen Verfahren können eingesetzt werden, um die Aromaqualität zu erhalten, zu bewahren oder zu stabilisieren, und umfassen vor allem Pressen, Extraktion, Destillation, Filtern, Adsorption, Evaporation, Fraktionieren und Konzentrieren; das Restaurationsaroma wird aus den genießbaren Teilen der Frucht gewonnen, kann jedoch auch kaltgepresstes Öl aus Zitrusschalen und Bestandteile der Steine enthalten.

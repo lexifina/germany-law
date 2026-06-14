@@ -3,7 +3,7 @@
 Abschnitt I
 Allgemeine Anforderungen
 Honig dürfen keine anderen Stoffe als Honig zugefügt werden.
-Honig muss, soweit möglich, frei von organischen und anorganischen honigfremden Stoffen sein. Honig dürfen jedoch weder Pollen noch andere honigeigene Stoffe entzogen werden, soweit dies beim Entfernen von anorganischen oder organischen honigfremden Stoffen nicht unvermeidbar ist. Abweichend davon dürfen gefiltertem Honig Pollen entzogen worden sein.
+Honig muss, soweit möglich, frei von organischen und anorganischen honigfremden Stoffen sein. Honig dürfen jedoch weder Pollen noch andere honigeigene Stoffe entzogen werden, soweit dies beim Entfernen von anorganischen oder organischen honigfremden Stoffen nicht unvermeidbar ist. Abweichend davon dürfen Backhonig Pollen entzogen worden sein.
 Honig darf keinen künstlich veränderten Säuregrad aufweisen. Honig darf mit Ausnahme von Backhonig keinen fremden Geschmack oder Geruch aufweisen, nicht in Gärung übergegangen oder gegoren sein oder so stark erhitzt worden sein, dass die Enzyme erheblich oder vollständig inaktiviert wurden.
 Abschnitt II
 Spezifische Anforderungen
@@ -31,7 +31,7 @@ Spezifische Anforderungen
 | a) | Im Allgemeinen | höchstens 50 Milliäquivalente Säure pro kg, |
 | b) | Backhonig | höchstens 80 Milliäquivalente Säure pro kg. |
 | 6. | Hydroxymethylfurfuralgehalt (HMF), bestimmt nach Behandlung und Mischung |
-| a) | Im Allgemeinen, mit Ausnahme von Backhonig | höchstens 40 mg/kg (vorbehaltlich der Bestimmungen unter Nr. 7 Buchstabe b), |
+| a) | Im Allgemeinen, mit Ausnahme von Backhonig | höchstens 40 mg/kg (vorbehaltlich der Bestimmungen unter Nummer 7 Buchstabe b), |
 | b) | Honig mit angegebenem Ursprung in Regionen mit tropischem Klima und Mischungen solcher Honigarten untereinander | höchstens 80 mg/kg. |
 | 7. | Diastase-Zahl nach Schade, bestimmt nach Behandlung und Mischung |
 | a) | Im Allgemeinen mit Ausnahme von Backhonig | mindestens 8, |
