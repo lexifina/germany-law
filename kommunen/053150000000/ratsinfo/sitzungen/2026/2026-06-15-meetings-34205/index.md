@@ -1,0 +1,58 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-15T15:00:00+02:00
+- Ende: 2026-06-15T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34205
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34205
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01100724.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01100724.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01100724.pdf
+
+## Tagesordnung
+
+- TOP -: 0 Verpflichtung sachkundiger Bürger*innen oder Einwohner*innen - Kenntnis genommen
+- TOP -: A. Präsentation "Umsetzung des OGS-Rechtsanspruchs zum Schuljahr 2026/27" - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Girls´Day und Boys´Day 2026 - Kenntnis genommen
+- TOP 1.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2025 - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Dringlichkeitsantrag der Fraktionen SPD, Die Linke und Volt vom 15.06.2026 betreffend "Schulplatzversorgung im Stadtbezirk Kalk sichern und Gesamtschulbedarf am Standort Helene-Weber-Platz vorbereiten" - vertagt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion Die Linke vom 10.06.2026 betreffend "Reduzierung der DaF-Kurse (Deutsch als Fremdsprache) an der Volkshochschule" - vertagt
+- TOP 4.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt, FDP/KSG vom 10.06.2026 betreffend "GYOD/BYOD-Programm an Kölner Schulen" - vertagt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion SPD vom 24.02.2026 betreffend "Sachstand Neubau Helios-Schulcampus nach Vertragsaufhebung Architekturbüro" - vertagt
+- TOP 5.2: Anfrage der Fraktion Bündnis 90 / Die Grünen vom 25.02.2026 betreffend "Schüler*innenströme in den Stadtbezirken" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 24.03.2026 - Kenntnis genommen
+- TOP -: Ergänzende Mitteilung zur Beantwortung der Anfrage AN/0302/2026 - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktion Bündnis 90/Die Grünen vom 22.04.2026 betreffend "Nutzung Turmstraße 5-7" - vertagt
+- TOP 5.4: Anfrage der Fraktion Die Linke vom 22.04.2026 betreffend "Partizipationsmöglichkeiten von Schulgemeinschaften und Anwohner*innen bei Bauprojekten" - vertagt
+- TOP 5.5: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und SPD vom 22.04.2026 betreffend "Sachstand Entlastung der Förderschulen Geistige Entwicklung" - vertagt
+- TOP 6: Empfehlungen
+- TOP 6.1: Beschluss über die Feststellung der 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes, Arbeitstitel: "Südliche Schmiedegasse" in Köln-Weidenpesch - ungeändert empfohlen
+- TOP 6.2: Beschluss über die Aufstellung eines Bebauungsplanes Hans-Schulten-Straße in Köln-Merheim - vertagt
+- TOP 6.3: Eingangsklassen am Musikzweig des Humboldt-Gymnasium Kartäuserwall 40, 50676 Köln-Altstadt/Süd, Schulnummer 166649 - ungeändert empfohlen
+- TOP 6.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 66499/09 Arbeitstitel: Südliche Schmiedegasse in Köln-Weidenpesch - ungeändert empfohlen
+- TOP 6.5: Umsetzung des Bund-Länder-Startchancen-Programms für bessere Bildungschancen und mehr Bildungsgerechtigkeit an Kölner Schulen mit hohem Sozialindex - ungeändert empfohlen
+- TOP 6.6: Umwandlung von zwei Katholischen Grundschulen in Gemeinschaftsgrundschulen - ungeändert empfohlen
+- TOP 6.7: Änderung der Katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln, Schulnummer 140909 von 3 auf 2 Züge ab dem Schuljahr 2027/28 - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantwortung der Anfrage des Integrationsrates zur Förderung der natürlichen Mehrsprachigkeit als Instrument zur Verbesserung der Schulerfolge - Kenntnis genommen
+- TOP 8.2: Strukturförderfonds - Kenntnis genommen
+- TOP 8.3: Beantwortung der mündlichen Anfrage von Andre Burghardt (SPD) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 19.01.2026 zur Hausaufgabenhilfe für bildungsbenachteiligte Schüler*innen - Kenntnis genommen
+- TOP 8.4: Start des Präventionsprojekts "Diginautis" im KOMEZ Köln - Kenntnis genommen
+- TOP 8.5: Beantwortung der Nachfragen von RM Burghardt aus der Sitzung des Ausschusses Schule und Weiterbildung vom 02.03.2026 und dem sachkundigen Bürger Breite aus der Sitzung des Sportausschusses vom 18.03.2026 zum Lehrschwimmbecken an der Tiefenthalstraße - Kenntnis genommen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Kenntnis genommen
+- TOP 8.8: Mitteilung zur Schulentwicklung der Grundschulen Garthestr. 20-24 in Köln-Riehl - Kenntnis genommen
+- TOP 8.9: Auswertung des Anmeldeverfahrens an den Weiterführenden Schulen in städtischer Trägerschaft für das Schuljahr 2026/27 - Kenntnis genommen
+- TOP 8.10: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses für Schule und Weiterbildung am 27.04.2026 betreffend "GGS Hauptstr. 432, 51143 Köln" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
