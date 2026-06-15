@@ -4,9 +4,11 @@ Die durch das Bundesministerium für Gesundheit verbindlich festgelegten technis
 Datum (Inkrafttreten dieser Verordnung): 14.09.2024
 | ID | Titel | Kurz- beschreibung | Version | Kapitel | Datum Aufnahme (in Anlage) | Datum verbindliche Umsetzung bis | Rechts- grundlage | Anwendungs- bereich |
 | 001 | Implementierungs- leitfaden Primär- systeme – elektro- nische Patientenakte (ePA) | Leitfaden zur Um- setzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen den ePA-Akten- systemen und Primärsystemen hinsichtlich der Um- setzung der elektronischen Medika- tionsliste (eML) | 3.1.0 | 3.10.2 | 14.09.2024 | 15.01.2025 | § 355 Absatz 3 Satz 2 Nummer 1 Fünftes Buch Sozialgesetzbuch | 1. | Praxisverwaltungssysteme (PVS), |
+|  |  |
 | 2. | Zahnärzt- liche Praxisverwaltungssysteme (ZPVS), |
 | 3. | Krankenhausin- formationssysteme (KIS) und |
 | 4. | Apothekenverwaltungs- systeme (AVS) |
+| 002 | IOP-Anforderungen gemäß § 385 SGB V im Rahmen der Schnittstellen für informationstechnische Systeme in Krankenhäusern | Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen informationstechnischen Systemen im Krankenhaus (ISiK) Stufe 5 | 1.0.0 |  | 15.06.2026 | 31.05.2027 | § 373 Absatz 1 Satz 3 Fünftes Buch Sozialgesetzbuch |  | Krankenhausinformationssysteme (KIS) |
 Hinweis: Es können für ein Profil / einen Standard / einen Leitfaden / ein Informationsmodell / eine Referenzarchitektur / eine Softwarekomponente mehrere Versionen in die Anlage aufgenommen werden.
 Anmerkungen:
 ID: Identifikationsnummer der Schnittstelle, die sowohl auf der Wissensplattform als auch der Anlage vermerkt ist, um eine eindeutige Zuordnung zu gewährleisten.
