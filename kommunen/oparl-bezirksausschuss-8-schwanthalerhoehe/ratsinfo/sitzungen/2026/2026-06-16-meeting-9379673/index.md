@@ -1,0 +1,126 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379673
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379673
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Öffentliche Mülleimer und Hundekotbeutelspender im Bavariapark
+- TOP 4.2.: Lärmbelästigung durch Veranstaltungen am Schneckenplatz
+- TOP 4.3.: Parkplatzsituation aufgrund von Baustellen
+- TOP 4.4.: Neue Räumlichkeiten für Kims Kindertanz
+- TOP 4.5.: Rückbau illegaler Trampelpfade im Bavariapark
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Trappentreustraße 17
+- TOP 6.2.2.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 6.2.3.: Bauvorhaben Bergmannstraße 8
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Verschmutzung rund um die Baustelle Ganghoferstraße 29
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Meldelisten Bauvorhaben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2027
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Entschlossenes Durchgreifen bei spekulativem Leerstand; BV-Empfehlung Nr. 20-26 / E 03400 vom 22.04.2026
+- TOP 7.3.2.: Wiedereröffnung des Spielplatzes an der Westendstraße 74
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Straßenfest Griechisches Haus und Flohmarkt in der Bergmannstraße 35a-48 am 04.07.2026
+- TOP 8.2.2.: Schallplattenflohmarkt Am Bavariapark am 18.07.2026
+- TOP 8.2.3.: Lange Nacht der Museen 2026 - Rollendes Museum Am Bavariapark am 17.10.2026
+- TOP 8.2.4.: Georg-Freundorfer-Platz - Eröffnung Kunstprojekt "Nach:Leben" am 04.07.2026
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Erfahrungsbericht Oktoberfest 2025 - Antwortschreiben
+- TOP 8.3.2.: Hinweisschild "Weiße Rose" an der SWM-Trafostation Bergmannschule
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Sicherheit für Fußgänger*innen am Fußgängerüberweg Ganghoferstraße / Einmündung Anglerstraße verbessern
+- TOP 9.1.2.: (E) Sammelbeschluss offene Bürgerversammlungsempfehlungen – BA 08
+- TOP 9.1.3.: (E) Umwidmung der Bergmannstraße in eine Fahrradstraße
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Freigabe für den Elektrokleinstfahrzeuge Hans-Fischer-Straße / Max-Hirschberg-Weg
+- TOP 9.2.2.: MVG-Anpassungsprogramm 2027
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einrichtung von Taubenhäusern in den Stadtbezirken
+- TOP 9.3.2.: Abgestellte Lieferanten-Fahrzeuge in der Fußgängerzone Am Bavariapark
+- TOP 9.3.3.: Umsetzungsstand Nachbarschaftsviertel Westend
+- TOP 9.3.3.1: Sachstand Nachbarschaftsviertel Westend
+- TOP 9.3.3.2: Planungsstand Nachbarschaftsviertel Westend
+- TOP 9.3.4.: Nachpflanzung von Bäumen in der Hans-Fischer-Straße 25 und 37 sowie Carlamaria-Heim-Straße 5
+- TOP 9.3.5.: Wenig Aufwand, große Wirkung - mehr Aufenthaltsqualität für die Schnaderböckstraße
+- TOP 9.3.6.: Grünstreifen an der Astallerstraße (Westseite) bepflanzen
+- TOP 9.3.7.: Münchner STADTRADELN 2026
+- TOP 9.3.8.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.9.: Wiederherstellung der Grünfläche an der Ecke Hans-Dürrmeier-Weg / Am Bavariapark 4
+- TOP 9.3.10.: Ankündigung Wettbewerb "Mehr Grün für München" - Anmeldeschluss 30. Juni 2026
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Kinderhaus SchwanthalerFlöhe e.V. Anschaffung einer Gastro-Spülmaschine vom 15.07. -15.08.2026 3.408,00€; Az. 0262.100-8-0490
+- TOP 10.1.2.: (E) Stadtbezirksbudget Freunde der Parkstraße e.V. Parkstraßenfest am 05.09.2026 1.147,50€; Az. 0262.100-8-0491
+- TOP 10.1.3.: (E) Stadtbezirksbudget werksend e.V. werksend e.V. und Doktor Ink - Grand Opening am 27.06.2026 5.700,00€; Az. 0262.100-8-0492
+- TOP 10.1.4.: (E) Stadtbezirksbudget Münchner Initiative Nachhaltigkeit e.V. - Westendkiez Das Westend blüht auf -Teilprojekt: Stockrosenhochbeete vom 05.05. -31.12.2026 750,00€; Az. 0262.100-8-0489
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Sonntags- und Feiertagsruhe sichern – keine Raves an diesen Tagen am Schneckenplatz
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: BA-Sitzungstermine 2027
+- TOP 12.2.2.: Oktoberfest 2026 - Reservierung Ratsboxe
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Infoschreiben 07/2026; BA-Konto und Online-Banking
+- TOP 12.3.2.: Infoschreiben 08/2026; Internetbeauftragte
+- TOP 12.3.3.: BA-Infoschreiben 09/2026; Behandlung von an die BA-Mitglieder gerichteter Post durch die BA-Geschäftsstelle
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 7.3.3.: Neuerung zur Bestellung von Ferien- und Familienpässe als städtische Leistung
+- TOP 8.2.5.: Gottesdienst im Bavariapark am 26.07.2026
+- TOP 8.2.6.: "Sidewalk Cultures Festival" auf dem Georg-Freundorfer-Platz vom 24.07.2026 bis 26.07.2026
+- TOP 8.2.7.: 15tes Gollierstraßenfest, Gollierstr. 56 am 08.08.2026
+- TOP 8.2.8.: Internationales Fest am Gollierplatz am 11.07.2026
+- TOP 9.3.11.: Errichtung eines Brunnes am Schneckenplatz
+- TOP 9.3.12.: Sauberkeit im Bavariapark und am Bahndeckel
+- TOP 4.6.: Einrichtung eines Mülleimers im Umfeld der Guldeinschule an der Trappentreustraße
+- TOP 8.2.9.: „Flohmarkt & House“ Am Bavariapark am 04.07.2026
+- TOP 9.3.13.: Entfernung der Baumscheiben im Bereich des Alten Messegeländes
+- TOP 12.3.4.: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 11.2.: Verbesserung der Aufenthaltsqualität an der Kazmairstraße Ecke Ligsalzstraße (Jugendversammlung Antrag 1)
+- TOP 11.3.: Stärkung des Sicherheitsempfindens von Jugendlichen im öffentlichen Raum (Jungendversammlung Antrag 2)
+- TOP 11.4.: Schaffung von mehr Trainingsmöglichkeiten im öffentlichen Raum (Jugendversammlung Antrag 3)
+- TOP 11.5.: Verbesserungen auf den Sportflächen am Georg-Freundorfer-Platz (Jugendversammlung Antrag 4)
+- TOP 11.6.: Hinweisschilder oder Straßenmarkierungen für Fahrradfahrer (Jugendversammlung Antrag 5)
+- TOP 11.7.: Fahrradstraße am Gollierplatz (Jugendversammlung Antrag 6)
+- TOP 11.8.: Anzeigendisplay an der Bushaltestelle Trappentreustraße Ecke Kazmairstraße (Jugendversammlung Antrag 7)
+- TOP 11.9.: Zebrastreifen an der Trappentreustraße Ecke Gollierstraße (Jugendversammlung Antrag 9)
+- TOP 11.10.: Beleuchtung von Spielplätzen (Jugendversammlung Antrag 10)
+- TOP 11.11.: Sauberkeit auf Spielplätzen (Jugendversammlung Antrag 11)
+- TOP 8.2.10.: West and Hell e.V. Straßenfest, Westendstraße 15-21 am 01.08.2026
+- TOP 4.7.: Lärmbeschwerden MK2-Gelände Ganghoferstraße 47
+- TOP 4.8.: Campieren im Bavariapark
+- TOP 6.3.4.: Information zur Einbindung der Bezirksausschüsse beim Mobilfunkausbau
+- TOP 8.2.11.: Spendenlauf des Theresien-Gymnasiums im Bavariapark am 29.07.2026
+- TOP 4.9.: Lärmbeschwerde über eine Gaststätte in der Guldeinstraße
+- TOP 2.1.: Versammlung am Georg-Freundorfer-Platz am 23.06.2026
