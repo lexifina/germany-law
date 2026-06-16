@@ -1,0 +1,123 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2026-06-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9224424
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9224424
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA
+- TOP 2.2.1.: Lärmbelästigung im Bereich des Grünstreifen Theodor-Fischer-Straße / Kiesweg
+- TOP 2.2.2.: Aufstellung von Durchfahrtsverboten für Ausweichverkehr im Wohngebiet "Zum Lochholz" und Kontrolle durch die Polizei
+- TOP 2.2.3.: Anbringung von Tempo-30 Schilder im Bereich Paul-Ehrlich-Weg/Eversbuschstraße und Ernst-Haeckel-Straße/ Goteboldstraße sowie Installierung eines festen Blitzgerätes und N- eines Spiegels
+- TOP 2.2.4.: Ausstattung des Straßenabschnitts Rudorffstraße / Ecke Am Gemeindewald bis Naglerstraße / Ecke Lauthstraße mit einem Fußgängerweg und/oder Fahrradweg
+- TOP 2.2.5.: Verkehrsprobleme in der Willi-Wien-Straße
+- TOP 3.: Berichte und Protokolle aus den Unterausschüssen
+- TOP 3.1: Budget
+- TOP 3.2: Familie, Bildung, Soziales und Sport
+- TOP 3.3: Kultur
+- TOP 3.4: Planung und Bau
+- TOP 3.5: Umwelt und Verkehr
+- TOP 4.: Berichte und Protokolle der Beauftragten
+- TOP 4.1: Baumschutz
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1.: (E) Stadtbezirksbudget: Initiative "VIN" - VIN - Vermittlung in Nachbarschaften im Diamaltpark vom 01.07. - 30.09.2026, 4.640,00 Euro, Az.: 0262.100-23-0271
+- TOP 6.2.: (E) Stadtbezirksbudget: TSV Allach 09 e.V. - Anschaffung von Aluminium Minitoren ab 15.06.2026, 1.525,21 Euro, Az.: 0262.100-23-0273
+- TOP 6.3.: (E) Parkplätze für den 23. Stadtbezirk, Analyse Parkraumbedarf
+- TOP 6.4.: (E) Sicherer Radweg zum neuen Gymnasium München-Nord
+- TOP 6.5.: (E) Ausweitung der Busangebote der Linie X36, Taktverstärkung der S2
+- TOP 6.6.: (E) Fahrradweg zum Naherholungsgebiet Langwieder Seenplatte; Einrichtung einer Fahrradstraße (Antrag a) (Hinweis: Alte SV-Nr. 20-26 / V 18857)
+- TOP 7.: Anhörungen
+- TOP 7.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.05.26: Eversbuschstr. 85 - Abbruch von drei Gebäuden und zwei Garagen sowie Errichtung von 3 Wohngebäude mit Mischnutzung im EG und Tiefparterre und einer darunterliegender Tiefgarage- VORBESCHEID (Aktenzeichen: 1.7-2026-5781-42)
+- TOP 7.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.05.26: Esmarchstr. 2 - Neubau einer Wohnanlage mit Mehrfamilienhäusern mit Tiefgarage Variante 1,2 und 3- VORBESCHEID (Az. 1.7-2026-5681-42)
+- TOP 7.3.: Schreiben Referat für Stadplanung und Bauordnung vom 08.05.26: Esmarchstr. 2 - Neubau einer Wohnanlage mit Mehrfamilienhäusern mit Tiefgarage Variante 1 und 2 - VORBESCHEID (Az. 1.7-2026-5675-42)
+- TOP 7.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.05.26: Eversbuschstr. 65 - Nutzungsänderung eines Büro- und Gewerbegebäudes zu einem Mehrfamilienhaus (9 WE) mit Neubau von Balkonen- - ÄNDERUNGSANTRAG zu 1.2-2016-26708-42 hier: Die Wohneinheiten im Dachgeschoss werden in Einzimmerwohnungen unterteilt (Az. 1.232-2026-3289-42)
+- TOP 7.5.: Schreiben KVR vom 21.05.26 und N 08.06.26: Sondernutzung auf öffentlichem Verkehrsgrund: Aktion "Spiel mich! 2026“ im Zeitraum vom 11.06.- 02.07.2026 (Aufbau ab 08.06., Abbau bis 06.07.26), Klaviere bespielbar zwischen 9:00 Uhr bis 22:00 Uhr - Oertelplatz (Eilenscheidung durch BA-Vorsitzende)
+- TOP 7.6.: Schreiben KVR vom 13.05.26: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund; Gemeindefest der Kirchenstiftung Maria Himmelfahrt am 19.07.2026 im Pfarrhof Höcherstr. 14 und Pfarrheim Franz-Nißl-Str. 61, Aufbau ab 17.07.2026, Abbau bis 20.07.2026
+- TOP 7.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.05.26: Theodor-Fischer-Str. 44 - Neubau von 4 Einfamilienhäuser mit Garagen - (Haus 1 - Haus 4) - VORBESCHEID (Az. 1.7-2026-4789-42)
+- TOP 7.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.26: Theodor-Lipps-Str. 9 - Neubau eines Dreispänners mit Duplexparker und Garage - Haus 1 (Az: 1.23-2026-7987-42)
+- TOP 7.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.26: Theodor-Lipps-Str. 9 - Neubau eines Dreispänners mit Duplexparker und Garage - Haus 2 (Az: 1.23-2026-7990-42)
+- TOP 7.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.26 Theodor-Lipps-Str. 9 - Neubau eines Doppelhauses mit Garagen - Haus 1 (Az. 1.23-2026-7924-42)
+- TOP 7.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.26 Theodor-Lipps-Str. 9 - Neubau eines Doppelhauses mit Garagen - Haus 2 (Az. 1.23-2026-7928-42)
+- TOP 7.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.26: Theodor-Lipps-Str. 9 - Neubau eines Doppelhauses mit Garagen - Haus 3 (Az. 1.23-2026-7930-42)
+- TOP 7.13.: Schreiben MVG vom 02.06.26 und N - Stellungnahmen ProBahn, AAN und Straßenbahnfreunde vom 09.06.26 umd 11.06.26: MVG-Anpassungsprogramm für den Fahrplan 2027
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Schreiben Münchenstift vom 04.05.26: Einrichtung einer Bushaltestelle in der Nähe des künftigen Pflegeheims Franz-Nißl-Straße
+- TOP 8.2.: Schreiben Sozialreferat vom 28.05.26 und N - Antrag Bürger vom 11.06.26: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2027
+- TOP 8.3.: Schreiben Direktorium vom 28.05.26: Oktoberfest 2026 - Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.05.26: Ankündigung des Wettbewerbs "Mehr Grün für München"
+- TOP 9.: Umlauf
+- TOP 9.1: Baureferat
+- TOP 9.1.1.: Schreiben vom27.05.26: Neue Kiste für Bodenschach in der Grünanlage Hitlstraße
+- TOP 9.1.2.: Schreiben vom 22.05.26: Auskunft über den Zustand der Brücke an der Allacher Straße, den Stand der geplanten Sanierung und die zu erwartenden Auswirkungen
+- TOP 9.2: Direktorium
+- TOP 9.2.1.: Schreiben vom 13.05.26 und 27.05.26: Verwendungsnachweis über gewährten Zuschusses aus dem Stadtbezirksbudget für das Projekt: - Demokratie im Einsatz - Demokratiemobil - Ramadama
+- TOP 9.3: Gesundheitsreferat
+- TOP 9.4: Kommunalreferat
+- TOP 9.4.1.: Schreiben vom 07.05.26: Sanierung der Wohnung im Vereinsheim Eversbuschstr. 161
+- TOP 9.5: Kreisverwaltungsreferat
+- TOP 9.5.1.: Schreiben vom 07.05.26: Rundschreiben des Stadttaubenmanagements an die Bezirksausschüsse
+- TOP 9.5.2.: Schreiben vom 30.04.26 und 12.05.26: Antrag auf Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis: "Fahrradsicherheitscheck" und „Mobile Fahrradwerkstatt“ am Oertelplatz - Änderung des Termins - neu: 19.09.26 (statt 16.09.26)
+- TOP 9.5.3.: Schreiben vom 20.05.26: Bescheid zur Veranstaltung auf öffentlichem Verkehrsgrund, in Grünanlagen und auf Privatgrund; Blutenburglauf des Rotary Club (Benefiz-Laufveranstaltung) am 26.07.2026 ab Prof.-Eichmann-Straße (Start/Ziel Sportanlage SV Untermenzing)
+- TOP 9.5.4.: Schreiben vom 29.05.26: Entwicklung in der Behringstraße 27c – zunehmende Verdichtung und Verkehrsproblematik
+- TOP 9.6: Mobilitätsreferat
+- TOP 9.6.1.: Schreiben vom 20.05.26 und 29.05.26: Verkehrsrechtliche Anordnungen: - Zwiedineckstraße, Ostseite, zwischen Anwesen Nr. 14 und 16 - Anpassung des Zeitzusatzes zur Haltverbotsbeschilderung - Vesaliusstraße, zwischen Anwesen ggü. Nr. 8 und Anwesen Nr. 3-5 - Änderung des Zeitzusatzes der bestehenden Kurzparkzone - Am Lochholz - Einrichten eines absoluten Haltverbots Am Lochholz zur Verbesserung des Linienbusverkehrs der Buslinie 164
+- TOP 9.6.2.: Schreiben vom 13.05.26, 26.05.26 und 29.05.26: Arbeiten im Straßenraum; Allacher Str. 273-279: Verlegung von Fernwärmeleitungen – Anpassung der Absperrung
+- TOP 9.6.3.: Schreiben vom 01.06.26: Foto-/ Film- und / oder Tonaufnahmen auf öffentlichem Verkehrsgrund: Produktion / Genre: „Der Alte“ / TV-Produktion in der Auenbruggerstr. 98 am 10.06.26
+- TOP 9.7: Referat für Arbeit und Wirtschaft
+- TOP 9.8: Referate für Bildung und Sport
+- TOP 9.9: Referat für Klima- und Umweltschutz
+- TOP 9.9.1.: Schreiben vom 11.05.26 und Autobahn GmbH vom 08.05.26
+- TOP 9.9.2.: Schreiben vom 08.05.26: Vollzug des Bundes-Immissionsschutzgesetzes: MAN Truck & Bus SE - Antrag auf Errichtung und Betrieb einer Anlage zur physikalisch-chemischen Behandlung von gefährlichen Abfällen (Emulsionen) durch Verdampfen mit einer Durchsatzkapazität an gefährlichen Abfällen von 1 Tonne bis weniger als 10 Tonnen je Tag gemäß § 4 BImSchG am Standort Dachauer Str. 667, 80995 München
+- TOP 9.9.3.: Schreiben vom 28.04.26: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen: Genehmigung für die Abfallentsorgungsanlage der Schernthaner GmbH auf dem Anwesen Goteboldstr. 100 - Bescheid
+- TOP 9.10: Referat für Stadtplanung und Bauordnung
+- TOP 9.10.1.: Schreiben vom 11.05.26: Bescheides zum Vollzug der Baumschutzverordnung: Finsterwalderstr. 28
+- TOP 9.10.2.: Schreiben vom 15.05.26: Achwaldstr. 5 - Errichtung einer Reihenhausanlage best. aus zwei Reihenhauszeilen mit jeweils drei Wohneinheiten (insgesamt 6 WE) - Vorbescheid
+- TOP 9.10.3.: Schreiben vom 21.05.26: Planfeststellungsbeschluss zum Verfahren A92 München-Deggendorf, 6-streifiger Ausbau von AD München–Feldmoching bis AK Neufahrn
+- TOP 9.10.4.: Schreiben vom 26.05.26: Infoschreiben Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt" - Projektaufruf für das Förderjahr 2027
+- TOP 9.11: Sozialreferat
+- TOP 9.11.1.: Schreiben vom 04.05.26: Vollzug der Zweckentfremdungssatzung; Abbruch/Neubau: Mayrstraße
+- TOP 9.11.2.: N - Schreiben vom 22.05.26 und N - Schreiben PI 44 und Bürgerschreiben vom 09.06.26: Grundstücksvorschlag - Aufenthaltsgelegenheit für Jugendliche, Situation an der Bank Manzostr./Reuterstr.
+- TOP 9.12: Stadtkämmerei
+- TOP 9.13: Sonstiges
+- TOP 9.13.1.: Schreiben SWM vom 29.04.26: Seismik-Messungen für die Geothermie – Information zur Anpassung des Zeitplans
+- TOP 9.13.2.: Schreiben SWM vom 06.05.26: Baumaßnahmen der Stadtwerke München vom 21.04.-05.05.26
+- TOP 10.: Stadtrats-und Ausschussbeschlüsse
+- TOP 10.1: Ausschuss für Stadtplanung und Bauordnung vom 11.03.26:
+- TOP 10.1.1.: Preisreduzierter Mietwohnungsbau auf städtischen Grundstücken Ausschreibungsbeschluss für zwei Modellprojekte in Freiham Nord, WA 14 West, WA 14 Süd und ein Modellprojekt in Neufreimann, MU 1(6) mit insgesamt circa 380 preisreduzierten Mietwohnungen Stadtbezirk 22 Aubing-Lochhausen-Langwied Stadtbezirk 12 Schwabing-Freimann
+- TOP 10.2: Ausschuss für Stadtplanung und Bauordnung vom 10.06.26:
+- TOP 10.2.1.: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 10.2.2.: Geförderter Wohnungsbau, welcher Sinn?
+- TOP 11.: Nichtöffentlicher Teil
+- TOP 4.1.1.: Stellungnahmen Juni
+- TOP 7.14.: N - Schreiben Referat für Stadtplanung und Bauordnung vom 08.06.26: Offenlegung sämtlicher Bebauungspläne in Allach-Untermenzing (BV-Empfehlung Nr. 20-26 / E 02937 der Bürgerversammlung des Stadtbezirkes 23 – Allach-Untermenzing vom 22.07.2025)
+- TOP 7.15.: N - Schreiben Sozialreferat vom 02.06.26: Angebote im Sozialraum - Einrichtung eines Nachbarschaftstreffs im Quartier Kirschgärten, Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms
+- TOP 7.16.: N - Schreiben Referat für Stadtplanung und Bauordnung vom 03.06.26: Dachauer Str. 665 - MTU G036 - Stilllegung eines bedienungslosen Rechenzentrums mit Rückbau von zwei Zwischendecken sowie Abbruch einer Stahlbühne inkl. Anbau (Az. 1.1-2026-5101-42)
+- TOP 7.17.: N - Schreiben Kreisverwaltungsreferat vom 05.06.26: Veranstaltung in einer städtischen Grünanlage; Zirkus Pumerpnudl im Diamaltpark am 09.08.26
+- TOP 8.5.: N - Schreiben Kommunalreferat vom 05.06.26: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 9.6.4.: Schreiben vom 10.06.26: Schulwegsicherheit Pasteurstraße/ Thea-Knorr-Straße
+- TOP 8.6.: N - Gestaltung der BA-Schaukästen
+- TOP 7.18.: N - Schreiben Referat für Stadtplanung und Bauordnung vom 11.06.26: Dachauer Str. 667 - Halle F9 - Schleusenverbindung Ost (Az. 1.1-2026-6412-42)
+- TOP 9.6.5.: N - Schreiben vom 11.06.26: Arbeiten im Straßenraum; Allacher Str. 273-279: Verlegung von Fernwärmeleitungen;Anpassung der Absperrung – Verlängerung von N 01218/26
+- TOP 9.9.4.: N - Schreiben vom 10.06.26: Erweiterung des Mobilfunkstandortes mit der Standortbescheinigung (STOB) Nr. 531396, Standort August-Föppl-Str. 16, 80999 München; Netzbetreiberfirma: Telefónica
+- TOP 9.9.5.: N - Schreiben vom 10.06.26: Information zur Einbindung der Bezirksausschüsse beim Mobilfunkausbau
+- TOP 9.3.1.: N - Schreiben Gesundheitsreferat vom 11.06.26: Austausch zwischen den Bezirksausschüssen und dem Gesundheitsreferat - Präsentation
+- TOP 3.2.1.: vom 11.06.26
+- TOP 3.3.1.: vom 12.06.26
+- TOP 3.4.1.: vom 13.06.26
+- TOP 3.5.1.: vom 11.06.26
+- TOP 8.7.: Illegale Entsorgung des Kehrrichts zwischen S-Bahn-Haltestelle Allach und Karl-Gayerstraße.
+- TOP 8.8.: Handlungsraumkonzept
