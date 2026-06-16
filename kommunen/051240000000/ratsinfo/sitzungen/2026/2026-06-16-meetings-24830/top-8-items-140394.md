@@ -1,0 +1,8 @@
+# TOP 8: Beschluss zur wohnbaulichen Umnutzung der Reitanlage Dorner Weg im Rahmen des § 246e BauGB
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Ronsdorf (2026-06-16)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140394
+- Ergebnis: vertagen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/67949
