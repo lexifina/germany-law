@@ -1,0 +1,91 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2026-06-17T17:00:00+02:00
+- Ende: 2026-06-17T22:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5096
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=5096
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Wiederherstellung und Erhalt des Nahversorgungszentrums Brieger Straße (Lankwitz) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Fragwürdige Parkregelung in der Reiherbeize - beantwortet
+- TOP 4.2: Finanzierung der Achim Freyer Stiftung - beantwortet
+- TOP 4.3: Einrichtung des Klimaschutzbeirates - beantwortet
+- TOP 4.4: Pendlerparkplätze am S-Bahnhof Wannsee - schriftlich beantwortet
+- TOP 4.5: Offener Drogenhandel am Mexikoplatz in Zehlendorf? - schriftlich beantwortet
+- TOP 4.6: Sind das Baumscheiben, ein Radweg oder vielleicht doch eher ein Fußweg in der Leonorenstraße? - schriftlich beantwortet
+- TOP 4.7: Instandsetzung Rathaus Steglitz II - schriftlich beantwortet
+- TOP 4.8: Wann wächst zusammen, was zusammen gehört? - schriftlich beantwortet
+- TOP 4.9: Sachstand Bearbeitung der Hotelrechnungen im Zuge des Stromausfalls - schriftlich beantwortet
+- TOP 4.10: Wie ist der gegenwärtige Zustand der Brücken über den Teltow-Kanal in Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 4.11: Wann wird der teilweise jahrzehntelange Leerstand von Villen und Wohnhäusern in Lichterfelde West endlich beendet? - schriftlich beantwortet
+- TOP 4.12: Wer geht ein und aus in den Jugendverkehrsschulen? - schriftlich beantwortet
+- TOP 4.13: Welche B-Pläne schlummern in Steglitz-Zehlendorf noch? - schriftlich beantwortet
+- TOP 4.14: Aktueller Stand Kraftwerk Steglitz - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Sondermittel der BVV für den Freundeskreis der Musikschule Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Sondermittel der BVV für die Baltische Segler-Vereinigung Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Bebauungsplan 6-21VE (ehemalige Teltowwerft Zehlendorf), Bebauungsplan 6-37VE (Siemensstraße/Wiesenweg) und Bebauungsplan 6-46VE (Berliner Volksbank) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Parlamentarische Ferien 2026 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: "Auf die Sättel, fertig, los!" für die Bezirksverordneten von Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Keine Verdrängung der Wohnbevölkerung in sozialen Erhaltungsgebieten durch (möbliertes) Zeitwohnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Informations- und Erinnerungsort für die Familie Silberstein, das ehemalige jüdische Kaufhaus Boga und die „Arisierung" jüdischer Betriebe in der NS-Zeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Veteranentag in Steglitz-Zehlendorf begehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Neuorganisation des Musikschulunterrichts auch durch Honorarkräfte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Gedenken an den 7. Oktober 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Bücherbox am Lilienthal-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Ein neues Grobscreening zum Milieuschutz - in der BVV abgelehnt
+- TOP 5.14: Fester Tritt statt Rutschpartie - Tausalz bei Extremglätte erlauben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Pilotprojekt Shuttle-Service für den Kranoldmarkt - in der BVV abgelehnt
+- TOP 5.16: Krisenprävention gemeinsam mit unseren Nachbargemeinden in Brandenburg - in der BVV abgelehnt
+- TOP 5.17: Kinotag gegen Alterseinsamkeit im Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.18: Schwerpunktkontrollen zur Sauberkeit und Einhaltung ordnungsrechtlicher Vorschriften an touristischen Hotspots an Wochenenden – Nutzung der neuen Einnahmemöglichkeiten aus Bußgeldern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.19: Aktion zum Schutz bei Medienkonsum von Klein- und Schulkindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Müll ist mehr als ein Ordnungsproblem – Runder Tisch im Bezirk - in der BVV abgelehnt
+- TOP 5.21: Mögliche Alternativen zu Granitblöcken im Straßenverkehr prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.22: Radeln ohne durchgeschüttelt zu werden: Kopfsteinpflaster abfräsen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Verkehrsinsel mit Potenzial – Ein neuer Platz an der Ringstraße - in der BVV abgelehnt
+- TOP 5.24: Mehr Verkehrssicherheit und Komfort durch verbesserte Parkregelungen am Kreuzungspunkt Brüderstraße/Baseler Straße/Potsdamer Straße - in der BVV abgelehnt
+- TOP 5.25: Einrichtung von Pop-up-Zebrastreifen im Nieritzweg zur Sicherung des Schulwegs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.26: Gewährleistung der Fußwegsicherheit durch verstärkte ordnungsrechtliche Kontrolle von E-Scooter-Betreibern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.27: Rik De Lisle auf die Straßenbenennungsliste aufnehmen und eine vorzeitige Benennung des bisher namenlosen Platzes an der Scheelestraße prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.28: Zebrastreifen Morgensternstraße/Höhe Schillerstraße erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.29: Wiederstationierung eines zweiten Rettungswagens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Bordsteine im Umfeld des „Hintereingangs“ Botanischer Garten absenken - überwiesen
+- TOP 6.2: Eine Kiezkantine für Steglitz-Zehlendorf als Pilotprojekt - überwiesen
+- TOP 6.3: Hart durchgreifen gegen Mietwucher durch dreiste Vermieter*innen! - überwiesen
+- TOP 6.4: Mehr Fahrradbügel vor dem großen Outdoorladen in der Schloßstraße - überwiesen
+- TOP 6.5: Sicherheit für Radfahrer*innen vor dem Parkfriedhof Lichterfelde erhöhen - überwiesen
+- TOP 6.6: Errichtung von Straßenlaternen an den Bushaltestellen in der Friedenstraße - überwiesen
+- TOP 6.7: Annahme von Schadstoffen bei den BSR-Kieztagen - überwiesen
+- TOP 6.8: Verbesserung der Schulwegsicherheit im Bereich der Johanna-Gerdes-Grundschule - überwiesen
+- TOP 6.9: Parkplätze in der Reiherbeize wiederherstellen - überwiesen
+- TOP 6.10: Parkplätze in der Schütte-Lanz-Straße teilweise wiederherstellen - überwiesen
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Sachstand zur geplanten neuen Integrierten Sekundarschule am Ostpreußendamm - beantwortet
+- TOP 7.2: Auswirkungen der seit 2018 andauernden Straßensperrungen am Hindenburgdamm für Betriebe, Praxen, Läden, Geschäfte, die Charité, Kirchen und Kultureinrichtungen und weitere Schreckensszenarien in Steglitz-Zehlendorf - beantwortet
+- TOP 7.3: Umsetzungsstand des Beschlusses 1242/V „Klima-Maßnahmen sofort!“ und fachliche Neubewertung der zugrunde liegenden Annahmen - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Kein Platz für extremistische Freiheitsfeinde - überwiesen
+- TOP 8.2: Keine neue Horrorbaustelle wie am Hindenburgdamm – Bauvorhaben am Teltower Damm vorausschauender planen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Schluss mit dem Dauerskandal am Steglitzer Kreisel: Das Bezirksamt soll die Adler Group zum Bauen bewegen - in der BVV abgelehnt
+- TOP 9.3: Gaslaternenmoratorium - vertagt
+- TOP 9.4: Stadtbad Lankwitz retten: Weiteres Schwimmbadsterben in Steglitz-Zehlendorf verhindern - vertagt
+- TOP 9.5: Modernere Verkehrsführung in der Argentinischen und Lindenthaler Allee - vertagt
+- TOP 9.6: Anschaffung eines mobilen Notstromerzeugers für die Leuchtturm-Rathäuser im Bezirk Steglitz-Zehlendorf - vertagt
+- TOP 9.7: Regelmäßige Katastrophenschutz-Übungen im Bezirk weiterhin durchführen - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - erledigt
+- TOP 10.1: Drs. 1147/VI – Beschluss Nr. 732/VI der 33. Sitzung der BVV vom 11.12.2024 „Schulentwicklungsplan aktualisieren" Schulentwicklungsplan 2024/25-2029/30 für den Bezirk Steglitz-Zehlendorf, Fortschreibung zum SEP 2020/21-2029/30 - vertagt
