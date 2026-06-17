@@ -1,0 +1,6 @@
+# TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+
+- Sitzung: Bezirksausschuss I - Innenstadt (2026-06-17)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/268377
