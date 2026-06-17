@@ -1,0 +1,7 @@
+# TOP 9.: Einwohnerfragestunde
+
+- Sitzung: Gemeinderat Hüven (94. Sitzung) (2026-06-17)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37986
+- Beschluss (Datei): Infotext (Einwohnerfragestunde) https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeCsp1CXuKgOMtj8-BwDlIJEPuOPLJ53UZJYReOq7CM5/Infotext_TOP_9._-oeffentlich-_Gemeinderat_Hueven_17.06.2026.pdf
