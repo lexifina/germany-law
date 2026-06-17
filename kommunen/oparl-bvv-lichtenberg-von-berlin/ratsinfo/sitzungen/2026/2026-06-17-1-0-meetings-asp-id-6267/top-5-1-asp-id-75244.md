@@ -1,0 +1,7 @@
+# TOP 5.1: Vorstellung des Konzepts für das Mobile Bürgeramt
+
+- Sitzung: 50. Sitzung in der IX. Wahlperiode des Ausschusses Eingaben/Beschwerden und Bürger:innendienste (2026-06-17)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=75244
+- Ergebnis: erledigt
