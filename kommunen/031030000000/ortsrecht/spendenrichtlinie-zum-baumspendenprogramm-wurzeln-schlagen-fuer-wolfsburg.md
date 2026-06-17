@@ -1,0 +1,26 @@
+# Spendenrichtlinie zum Baumspendenprogramm „Wurzeln schlagen für Wolfsburg“
+
+- Gemeinde: Stadt Wolfsburg (ARS 031030000000)
+- Datum: 2026-06-17 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/satzungen_verordnungen/gruenflaechen_friedhoefe_naturschutz/ut_2026_spendenrichtlinie_baumspendenprogramm.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Spendenrichtlinie zum Baumspendenprogramm „Wurzeln schlagen für Wolfsburg“
+Aufgrund der §§ 11 Abs. 5 Nr. 1 i. V. m. 58 Abs. 1 Nr. 8 des Niedersächsischen Kommunalverfassungsgesetz (NKomVG) vom 17.12.2010 (zuletzt geändert am 29.01.2025 (Nds. GVBl. 2025 Nr. 3) hat der Rat der Stadt Wolfsburg in seiner Sitzung am 17.06.2026 folgende Richtlinie beschlossen:
+1. Ziel und Zweck Das Baumspendenprogramm „Wurzeln schlagen für Wolfsburg" bietet Bürgerinnen und Bürgern, Unternehmen sowie Institutionen die Möglichkeit, sich aktiv an der Begrünung des öffentlichen Raumes der Stadt Wolfsburg zu beteiligen. Das Programm umfasst sowohl die Pflanzung neuer Bäume als auch die Ersatzpflanzung für erkrankte oder gefällte Bäume und leistet damit einen wichtigen Beitrag zum Erhalt und zur Weiterentwicklung des städtischen Grüns. Ziel ist es, das Stadtklima zu verbessern, die Biodiversität zu fördern sowie die Identifikation mit der Stadt und das bürgerschaftliche Engagement zu stärken.
+2. Räumlicher Geltungsbereich Spenden können ausschließlich für Bäume geleistet werden, die auf öffentlichen Flächen im Stadtgebiet Wolfsburgs gepflanzt werden (z. B. Grünanlagen, Straßenräume oder Parks). Hierzu zählen sowohl neu zu pflanzende Bäume als auch Ersatzpflanzungen und bestehende Bestandsbäume.
+3. Spendenarten 3.1 Einzelbaumspende Einzelbaumspenden sind ab einer Summe von 400,00 Euro je Baum möglich. Die Spende wird zweckgebunden für die Pflanzung eines neuen Baumes in Baumschulqualität für eine nachträgliche Spende einer bereits erfolgten Pflanzung genutzt. Darin enthalten sind die Beschaffung des Baumes, erforderliches Pflanzmaterial, gegebenenfalls notwendige Bodenverbesserungen und Baumschutzmaßnahmen sowie eine vertraglich festgelegte Pflege durch die Stadt Wolfsburg. Die Pflege umfasst Bewässerung, Rückschnitt und Nachsorge.
+Die Stadt Wolfsburg übernimmt Auswahl, Pflanzung, Beschaffung und Pflege des Baumes. Die Baumart wird standortgerecht von der Stadt Wolfsburg vorgeschlagen. Die Pflanzung erfolgt im Herbst. Der konkrete Standort kann anhand einer interaktiven Standortkarte auf der städtischen Webseite https://www.wolfsburg.de/spendenbaum ausgewählt werden. Optional kann eine Widmung gegen einen Aufpreis erworben werden. Die Widmung erfolgt auf einer Edelstahlplatte, befestigt auf einer witterungsbeständigen Palisade.
+3.2 Sammelbaumspende
+Für Sammelbaumspenden (z. B. von Schulklassen, Vereinen, Nachbarschaften oder Einzelpersonen) sind Sammelbeiträge ab 20,00 Euro möglich. Diese Spenden fließen nach Erreichung der Summe in Höhe der Kosten einer Einzelbaumspende in einen gemeinschaftlich finanzierten Baum. Neupflanzungen erfolgen im darauffolgenden Herbst.
+
+Der Standort wird durch die Stadt Wolfsburg festgelegt. Eine Widmung ist bei einer Sammelbaumspende nicht möglich.
+4. Spendennachweis, Urkunden und Widmung Für Einzelbaumspenden ab 300,00 Euro stellt die Stadt Wolfsburg eine Spendenbescheinigung in Form der Spendenvereinbarung aus, welche zugleich den vertraglichen Rahmen bildet (§ 50 Abs. 4 EstDV). Bei Spenden über 300,00 Euro erfolgt neben der Spendenvereinbarung die Ausstellung einer gesonderten Spendenbescheinigung. Für Sammelbaumspenden gilt grundsätzlich der Kontoauszug als geeigneter nachweise der Spende. Auf Nachfrage kann zusätzlich eine Spendenbescheinigung ausgestellt werden.
+5. Verfahren a) Über das Spendenbaumprojekt wird auf www.wolfsburg.de/spendenbaum informiert. Bei Interesse an einer Spende, kann ein Antrag zur Baumspende auf https://rathausonline.wolfsburg.de gestellt werden. Dort kann auch ein konkreter Wunschstandort über die interaktive Karte ausgewählt und ein Widmungstext eingetragen werden. b) Nach Eingang des Spendenformulars prüft die Stadt Wolfsburg den Antrag hinsichtlich des Standortes, sowie Baumart und bestätigt den Spendenantragseingang. c) Eine Spendenvereinbarung, welche den Preis und weitere Vertragsbestandteile regelt, wird mit dem Spendenden geschlossen. d) Die Spendenzahlung erfolgt per Überweisung. e) Die Stadt informiert den Spender nach Abschluss der jeweiligen Pflanzsaison über die erfolgte Pflanzung.
+6. Pflege und Bestand Die Stadt Wolfsburg verpflichtet sich, die gepflanzten Spendenbäume über den in der Spendenvereinbarung geregelten Zeitraum zu pflegen (einschließlich Bewässerung, Rückschnitt und Nachsorge). Sollte ein Baum trotz fachgerechter Pflanzung und Pflege innerhalb dieses Zeitraumes eingehen, erfolgt eine Nachpflanzung. Sollte dies fachlicher Sicht nicht sinnvoll oder möglich sein, wird Kontakt zur weiteren Abstimmung mit dem Spender oder der Spenderin aufgenommen.
+7. Inkrafttreten Die Richtlinie tritt am Tag nach ihrer Bekanntmachung in Kraft.
+Wolfsburg, den _______________
+Stadt Wolfsburg Der Oberbürgermeister Dennis Weilmann
