@@ -1,0 +1,166 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2026-06-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9194999
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9194999
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Erweiterung der Tempo 30 Zone in der Limesstraße
+- TOP 2.1.2.: Freiham als Stadtteil aufwerten
+- TOP 2.1.3.: Gesundheitliche Belastung - Baustelle Aubinger Allee 42
+- TOP 2.1.4.: Dringende Verkehrssicherheit Kreuzung Lindacher Str. / Am Langwieder Bach
+- TOP 2.1.5.: Andauernde Ruhestörung im Forum am Westkreuz
+- TOP 2.1.6.: Dialog-Displays und Temopanzeige in der Helmut-Schmidt-Allee
+- TOP 2.1.7.: Umwidmung der beidseitigen Fußwege entlang der Amalie-Nacken-Straße zu einem (gemeinsamen) Geh- und Radweg
+- TOP 2.1.8.: Umwidmung des Fußwegs entlang der Margarete-Vollmar-Straße
+- TOP 2.1.9.: Neue Fahrradstellplätze am Bildungscampus Freiham
+- TOP 2.1.10.: (N) - Lärmbelästigung durch Waschanlage in der Bodenseestraße, Schr. Bürgerin vom 19.04.26, 08.06.26 + Schr. Bürger vom 10.06.26 + Schr. Planungsreferat vom 09.06.26
+- TOP 2.1.11.: Verkehrsüberwachung Eschenrieder Straße
+- TOP 2.1.12.: Baustelle Federseestr. / Spatzenwinkel
+- TOP 2.1.13.: Straßenbegleitgrün Bodenseestr. 304-308
+- TOP 2.1.14.: Neubau der Stadtsparkasse München an der Altostr. 11
+- TOP 2.1.15.: Wohnen in Freiham
+- TOP 2.1.16.: Krähen in der Gilchinger Straße
+- TOP 2.1.17.: Dauerhafte Lärmbelästigung durch Brummen
+- TOP 2.1.18.: Weg an der Negrellistraße
+- TOP 2.1.19.: Verkehrssituation Bahnübergang Brunhamstraße
+- TOP 2.1.20.: Überfüllte Mülleimer in Freiham - Mahatma-Gandhi-Platz und Golo-Mann-Weg
+- TOP 2.1.21.: Gefahrenstelle und Lärmbelästigung Limesstr. / Altenburgstr.
+- TOP 2.1.22.: Sicherstellung der pädagogischen Infrastruktur an der Grundschule Aubinger Allee
+- TOP 2.1.23.: München Budget - 10 Vorschläge zugelassen: Münchner Straßen klimafit
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP -: Baumfällungen im 22. Stadtbezirk:
+- TOP 2.: - Rohrsängerplatz 6
+- TOP 4.: Anträge
+- TOP 4.1.: Sichere Querung der Altostraße am Lochhausener Bahnhof (Schopohl, Stockmann, Spannagl, Kriesel)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: Entscheidung über die Sondernutzungserlaubnis gem. Vollmacht des OB, hier: - Genehmigung einer Freischankfläche für "Streat Food", Mahatma-Gandhi-Platz 5
+- TOP 5.2.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Alten- und Service-Zentrum Aubing Sommerfest am 16.07.2026 360,00 Euro, Az.: 0262.100-22-0319
+- TOP 5.3.: (E) Stadtbezirksbudget Initiative "Tischharfengruppe" Anschaffung von Harfenständern 1.312,50 Euro, Az.: 0262.100-22-0321
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Zuwendung aus dem Stadtbezirksbudget, Antrag Verein Feierwerk e.V., BoomBox Jugendkultursommer und -festival, Änderung Zuwendung, Schr. Direktorium vom 07.05.26
+- TOP 6.1.1.2.: Antrag auf Genehmigung einer Veranstaltung im Freien auf Privatgrund und öffentl. Grund; Dorfplatzfest, Ubostr. 7-9 am 04.07.26, Anhörung KVR vom 05.05.26 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Aufhebung der Einstellungssperre im SBH West, Schr. Sozialreferat vom 13.05.26
+- TOP 6.2.2.2.: Aktueller Stand Wiederaufbau Kindertagesstätte Rossittener Straße, Schr. Ref. f. Bildung u. Sport vom 21.05.26
+- TOP 6.2.2.3.: Wiedereröffnung Haus für Kinder in der Rossittener Straße, Schr. Ref. f. Bildung u. Sport vom 06.05.26
+- TOP 6.2.2.4.: Ausnahmegenehmigung Abstellen Imma-Bus Projekt "Rosa Parkt", Helmut-Schmidt-Allee 45, ganzjährige Aufstellung Dienstag von 15.30.-20.00 Uhr, Standplatz Campus Mensa, Schr. KVR vom 05.05.26
+- TOP 6.2.2.5.: SOS-Familien- und Kindertageszentrum Neuaubing; Übergabetermin, Schr. SOS-Kinderdorf vom 04.05.26
+- TOP 6.2.2.6.: Bewerbung: "Ran an den Stadtteilkoffer!" 2027, Projekt zur Beteiligung von Kindern und Jugendlichen von 3-14 Jahren an der Stadtteilgestaltung, Schr. Sozialreferat vom 20.05.26
+- TOP 6.2.2.7.: Campusmanager für Bildungscampus Freiham gefordert, Schr. Ref. f. Bildung u. Sport vom 20.05.26
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Hildegard-Hamm-Brücher-Str., Einrichtung eines Fußgängerüberwegs, Anhörung Mobilitätsreferat vom 13.05.26
+- TOP 6.3.1.2.: "Faires Parken in Freiham", Behandlung einer Petition der Intitiative Faires Parken Freiham, Beschlussvorlage für den Mobiitätsausschuss, Anhörung Mobilitätsreferat vom 20.04.26
+- TOP 6.3.1.3.: Anpassungsprogramms 2027 der Münchner Verkehrsgesellschaft mbH - Fahrplan 2027.
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Einbahnstraßenregelung in der Fritz-Bauer-Straße, Schr. Mobilitätsreferat vom 14.04.26 (vertagt aus 05/26)
+- TOP 6.3.2.2.: Tempo-30-Zone Altostraße, Schr. Mobilitätsreferat vom 27.04.26 + Schr. Bürger vom 27.04.26 (vertagt aus 05/26)
+- TOP 6.3.2.3.: Einbahnstraßenregelung in der Mathilde-Berghofer-Weichner-Straße, Schr. Mobilitätsreferat vom 14.04.26 (vertagt aus 05/26)
+- TOP 6.3.2.4.: Verkehrssicherheit auf der Eichenauer Straße/Ecke Gotzmannstraße, Schr. Mobilitätsreferat vom 08.04.26 (vertagt aus 05/26)
+- TOP 6.3.2.5.: Geschwindigkeitsanzeige Aubing-Ost-Straße, Schr. Baureferat vom 16.04.26 (vertagt aus 05/26)
+- TOP 6.3.2.6.: Widmung Negrellistraße zur öffentlichen Nutzung, Schr. Baureferat vom 12.05.26
+- TOP 6.3.2.7.: Ampel Lochhausener Straße / Krähenweg, Schr. Mobilitätsreferat vom 22.05.26 und Schr. KVR vom 05.05.26
+- TOP 6.3.2.8.: Maßnahmen Limesunterführung, Schr. Mobilitätsreferat vom 22.04.26
+- TOP 6.3.2.9.: Verkehrsrechtliche Anordnung, hier: - Pirolstr., Anordnung eine VZ 136 StVO, Schr. Mobilitätsreferat vom 22.05.26 - Industriestr. / Ostermoosstr., Anordnung VZ 136 StVO, Schr. Mobilitätsreferat vom 22.05.26 - Ziegeleistraße, Städt. Privatstraße in Grünanlage südlich Federseestraße, Anordnung von absoluten Haltverboten, Schr. Mobilitätsreferat vom 07.05.26
+- TOP 6.3.2.10.: Arbeiten im Straßenraum; hier: - Aubinger Allee 54-90, U5 Vorhaltemaßnahme Bahnhof Freiham v. 26.05.26-25.05.27; Umverlegung Aubinger Allee (Bauphase 3) mit vorbereitenden Arbeiten (Herstellung Fahrbahnanschlüsse, Bauphasen 1 und 2), Schr. Mobilitätsreferat vom 22.05.26 - Altostr. 11, Aufstellen von 2 Containern, Aufstellen Bauzaun, Bau-WC v. 08.05.26-27.04.27 - Riesenburgstr. zwischen Kunreuthstr. (Süd) und Kunreuthstr. (Nord): Ausbau Bushaltestelle Kunreuthstr. v. 15.06.-31.07.26, Schr. Mobilitätsreferat vom 29.05.26
+- TOP 6.3.2.11.: Gefahrenabwehr und Sachbeschädigung an Privatgrundstück Monica-Bleibtreu-Weg, Schr. Bürgerin v. 27.04.26 u. Schr. Baureferat vom 04.05.26
+- TOP 6.3.2.12.: Spiegel für Kreuzung Lindacher Str./ Am Langwieder Bach, Schr. Baureferat vom 21.05.26
+- TOP 6.3.2.13.: Gefährdung durch Falschparker in der Fritz-Bauer-Straße 31-33, Schr. Mobilitätsreferat vom 04.05.26 und Schr. Bürger vom 07.05.26
+- TOP 6.3.2.14.: Fußweg Am Langwieder Bach, Schr. Mobilitätsreferat vom 06.05.26 und Schr. Bürger vom 07.05.26
+- TOP 6.3.2.15.: Einrichtung einer Parklizenzzone in der Thierlsteinerstraße, Schr. Mobilitätsreferat vom 06.05.26
+- TOP 6.3.2.16.: Ausweichverkehr in der Ute-Strittmatter-Straße kanalisieren, Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.17.: Parkverbot für LKW Ecke Centa-Hafenbrädl-Str. und Anton-Böck-Str., Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.18.: Errichtung eines Fußgängerüberweges an der Mainaustraße, Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.19.: Absolutes Halteverbot auf dem Gehwegbereich Neubau Federseestraße 4 – 6, Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.20.: Sicherheit Gehweg und Fahrradstraße Freiham, Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.21.: Beschränkung der Geschwindigkeit auf der gesamten Mainaustraße (Westkreuz), Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.22.: Abbiegespur Mainaustraße rechts in die Radolfzeller Straße (vor dem Ärztehaus), Schr. Mobilitätsreferat vom 29.04.26
+- TOP 6.3.2.23.: Erhöhung der Betriebssicherheit der S-Bahnlinien im Münchner Westen durch regelmäßig verkehrende Züge zum Heimeranplatz, Schr. Mobilitätsreferat vom 05.05.26
+- TOP 6.3.2.24.: Parkzone nur für PKW Am Langwieder Bach, Schr. Mobilitätsreferat vom 04.05.26
+- TOP 6.3.2.25.: Verschmutzungen auf der Mühlangerstraße und An der Langwieder Haide, Schr. Mobilitätsreferat vom 04.05.26
+- TOP 6.3.2.26.: Sachstand bezüglich Ausweisung einer Tempo-30-Zone in der Lochhausener Straße, Schr. Mobilitätsreferat vom 26.05.26
+- TOP 6.3.2.27.: S4-West - Ausbau nach 2040 verschoben?, Schr. Mobilitätsreferat vom 27.05.26
+- TOP 6.3.2.28.: Barrierefreier Ausbau des S-Bahnhalts Aubing zur Westseite, Schr. Mobilitätsreferat vom 27.05.26
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Altostr. 38, Errichtung eines Mehrfamilienhauses - Vorbescheid, Anhörung Planungsreferat vom 22.04.26 (vertagt aus 05/26)
+- TOP 6.4.1.2.: Sanierungsgebiet "Aubing-Neuaubing-Westkreuz", Verlängerung des Stadtteilmanagements der Münchner Gesellschaft für Stadterneuerung mbH (MGS), Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung, Anhörung Planungsreferat vom 12.05.26
+- TOP 6.4.1.3.: Rothenfelser Str., Öffentliche Grünfläche "Spielplatz am Wasserturm" unterteilt sich in Kinderspiel-, Jugendspiel- und Sportplatzfläche. Die Sport- und Spielplatzflächen sind mit altersgerechten Geräten und Sitzmöglichkeiten ausgestattet. Die Sport-, Spiel- und Fitnessgeräte sollen alle Altersgruppen berücksichtigen und einbinden. Die Bestandsbäume werden geschützt und in das Konzept mit eingebunden. Der Spielplatz legt Wert auf barrierefreie Anbindung und Spielmöglichkeiten (Limesstr. / Rothenfelser Str. / Weißensteinstr.), Anhörung Planungsreferat vom 11.05.26
+- TOP 6.4.1.4.: Wiesentfelser Str. 47, Denkmalliste - Teil A, hier: Kath. Pfarrkirche St. Markus, Anhörung Planungsreferat vom 29.04.26
+- TOP 6.4.1.5.: Umlaufverfahren Beratungsgruppe Freiham Süd - GE14 "CQSE", Schr. Planungsreferat vom 27.05.26
+- TOP 6.4.1.6.: Austausch einer Lichtsignalanlage Lochhausener Str. / Rohrsängerplatz, Anhörung Mobilitätsreferat vom 27.05.26
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Arbeiten im Straßenraum, hier: - Dickensstr. 17, Neubau Fernwärmeleitung vom 23.05.-03.06.26, Schr. Mobilitätsreferat vom 19.05.26
+- TOP 6.4.2.2.: Flyer Stromprojekt Limesstr. 38 von Ende Mai - Mitte Juli 2026
+- TOP 6.4.2.3.: Wohnanlage Osterangerstraße, 4. Bauabschnitt, Schr. AWM vom 12.05.26
+- TOP 6.4.2.4.: Bauvorhaben im 22. Stadtbezirk: 27.04.-03.05.26, 04.05.-10.05.26. 11.05.-17.05.26, 18.05.-24.05.26, (N) 01.06.-07.06.26
+- TOP 6.4.2.5.: Kanalneubau im Umgriff des Bebauungsplans mit Grünordnung Nr. 2034, Lochhausener Str. / Spatzenwinkel, Schr. Münchner Stadtentwässerung vom 12.05.26
+- TOP 6.4.2.6.: Aubing-Ost-Straße, Hausmüll und Unratansammlung, Schr. Ref. f. Klima- u. Umweltschutz vom 15.05.26
+- TOP 6.4.2.7.: "Oase der Ruhe" im Bereich Roman-Herzog-Park, Schr. Baureferat vom 19.05.26
+- TOP 6.4.2.8.: Mitteilung über ein Grundstücksgeschäft, Kauf einer Teilfläche, Waidach (Osterangerstraße) Fl.St. 93/8, Schr. Kommunalreferat vom 30.04.26
+- TOP 6.4.2.9.: Einrichtung von Taubenhäusern in den Stadtbezirken, Schr. KVR vom 07.05.26
+- TOP 6.4.2.10.: Baumaßnahmen der Stadtwerke München, Stichtag: 21.04.-05.05.26
+- TOP 6.4.2.11.: Bauarbeiten in der Goteboldstraße, Schr. Ref. f. Arbeit u. Wirtschaft vom 04.05.26
+- TOP 6.4.2.12.: Seismik-Messungen für die Geothermie - Information zur Anpassung des Zeitplans, Schr. SWM vom 29.04.26
+- TOP 6.4.2.13.: Bodenseestr. 253, 255, Nähe Bodenseestraße, Vorkaufsrecht nach dem BauGB, Fl.St. Nrn. 3539/0, 3539/122, 3539/123, Schr. Kommunalreferat vom 29.04.26
+- TOP 6.4.2.14.: Flyer Stromprojekt Ranertstraße von Mitte Juni bis Ende September 2026
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung; hier: - Grillhaus, Bodenseestr. 222, Schr. KVR vom 20.05.26 - Cafe Derby, Limesstr. 112, Schr. KVR vom 21.05.26 - Cafe West, Limesstr. 112, Schr. KVR vom 21.05.26
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Industriestr., Schr. Sozialreferat vom 19.05.26 - Rabensteinstr., Schr. Sozialreferat vom 12.05.26 - Hohenesterstr., Schr. Sozialreferat vom 12.05.26 - Aubing-Ost-Str., Schr. Sozialreferat vom 21.05.26 - Zwernitzer Str., Schr. Sozialreferat vom 30.04.26
+- TOP 8.3.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln" - Projektaufruf für 2027, Schr. Planungsreferat vom 20.05.26
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 15.04.26 - Preisreduzierter Mietwohnungsbau auf städtischen Grundstücken Ausschreibungsbeschluss für zwei Modellprojekte in Freiham Nord, WA 14 West, WA 14 Süd und ein Modellprojekt in Neufreimann, MU 1(6) mit insgesamt circa 380 preisreduzierten Mietwohnungen Stadtbezirk 22 Aubing-Lochhausen-Langwied Stadtbezirk 12 Schwabing-Freimann
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 11.03.26 - Bebauungsplan mit Grünordnung Nr. 2154 Hörweg (südlich), Aubinger Allee (westlich), Annemarie-Renger-Straße (nördlich), zukünftiger Landschaftspark Freiham Aufstellungsbeschluss Nr. 2083 (östlich) (Teilverdrängung der Bebauungspläne mit Grünordnung Nr. 2068 und 2092) 1. Bauabschnitt des 2. Realisierungsabschnittes Freiham Nord - Satzungsbeschluss - Stadtbezirk 22 - Aubing-Lochhausen-Langwied
+- TOP 9.3.: Bauausschuss vom 14.04.26 - Bund-Länder-Städtebauförderungsprogramm „Sozialer Zusammenhalt“ Sanierungsgebiet Aubing - Neuaubing - Westkreuz Aufwertung der öffentlichen Grünfläche am Ravensburger Ring im 22. Stadtbezirk Aubing - Lochhausen - Langwied Ausführungsgenehmigung
+- TOP 9.4.: Ausschuss für Stadtplanung und Bauordnung am 10.06.26: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung am 10.06.26: Geförderter Wohnungsbau, welcher Sinn?
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: Bürgerversammlung Aubing-Lochhausen-Langwied am 21.07.26 um 19.00 Uhr im Bildungscampus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41
+- TOP 10.2.: Parkmeile Neuaubing im Grünzug L zwischen Überlinger Weg und Radolfzeller Straße - Information und Einladung zur Öffentlichkeitsbeteiligung
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 15.07.26 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 08.06.26 um 19.00 Uhr, im Bildungslokal, Radolfzeller Str. 11a - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Donnerstag, 11.06.26 um 19.00 Uhr, vorauss. im ASZ, Am Aubinger Wasserturm 30 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 10.06.26 um 19.00 Uhr im Bildungslokal, Radolfzellerstr. 11a - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 11.06.26, 20.00 Uhr, ASZ Am Aubinger Wasserturm 30
+- TOP 9.6.: Bauausschuss vom 09.06.26 - Neubau öffentliche Grünanlage Henschelstraße zwischen der Federseestraße und der Mettnauer Straße, teilweise im Geltungsbereich des Bebauungsplans mit Grünordnung Nr. 2084 im 22. Stadtbezirk Aubing - Lochhausen - Langwied Ausführungsgenehmigung
+- TOP 2.1.24.: (N) - Verkehr Fritz-Bauer-Str., Hedwig-Kämpfer-Str., Centa-Hafenbrädl-Str., Ria-Burkei-Str.
+- TOP 2.1.25.: (N) - Sichtbehinderung und Gefährdung im Bereich der Kita Ilse-Fehling-Str. 37
+- TOP 6.1.1.3.: (N) - Antrag auf Genehmigung einer Veranstaltung auf öffentl. Grund sowie städt. Grünanlage, hier: 4. Stadtteilfest Freiham am Samstag, 18.07.26, Hans-Clarin-Str. Ecke Gustl-Bayrhammer-Str., Anhörung KVR vom 08.06.26
+- TOP 2.1.26.: (N) - Zuweisung und Umnutzung einer Teilfläche in der Aubinger Lohe (Ziegeleistraße) für die soziale Natur-Begegnungsstätte "Zusammenwald"
+- TOP 6.2.1.1.: (N) - Antrag auf Genehmigung einer Veranstaltung in städt. Grünanlage, hier: Grünanlage an der Bienenheimstraße, Zirkus Pumpernudl am 11.10.26, Anhörung KVR vom 05.06.26
+- TOP 2.1.27.: (N) - Verlegung der Bushaltestelle Korbmacher Weg
+- TOP 1.: (N) - Roggensteiner Weg 13
+- TOP 6.3.2.29.: (N) - Absperrung Feuerhausstraße Änderung, Schr. Mobilitätsreferat vom 08.06.26
+- TOP 6.3.2.30.: (N) - Stellungnahme des Arbeitskreis Attraktiver Nahverkehr (AAN) im Münchner Forum e.V. zur MVG-Anpassungsprogramm 2027, Schr. AAN vom 09.06.26
+- TOP 6.3.2.31.: (N) - Tempo 30 in der Brunhamstraße, Schr. Mobilitätsreferat vom 09.06.26
+- TOP 6.3.2.32.: (N) - Stellungnahme ProBahn zum MVG-Anpassungsprogramm 2027, Schr. ProBahn vom 09.06.26
+- TOP 6.4.1.7.: (N) - Schönbrunner Str. 4, Neubau von zwei Doppelhäusern mit drei Carports und einem Stellplatz, Anhörung Planungsreferat vom 09.06.26
+- TOP 6.4.2.15.: (N) - Ausgleichsflächen Harthauser Weg, Schr. Ref. f. Klima- u. Umweltschutz vom 10.06.26
+- TOP 6.4.2.16.: (N) - Modernisierungsmaßnahmen einer bestehenden Mobilfunkanlage; Standort Kronwinklerstr. 24, Schr. Ref. f. Klima- und Umweltschutz vom 10.06.26
+- TOP 6.4.2.17.: (N) - Information zur Einbindung der BAs bei Mobilfunkausbau, Schr. Ref. f. Klima- und Umweltschutz vom 10.06.26
+- TOP 6.4.2.18.: (N) - Gräberbewässerung auf dem Neuaubinger Friedhof, Schr. Friedhofe und Bestattung München vom 09.06.26
+- TOP 8.4.: (N) - Zugang zum GeoPortal München für BA-Mitglieder, Schr. Kommunalreferat vom 01.06.26
