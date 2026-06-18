@@ -1,0 +1,24 @@
+# Integriertes Stadtentwicklungskonzept "Zukunft Forst"
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0074/WP19
+- Art: Entscheidungsvorlage
+- Datum: 2026-06-18
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=1010884
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=1010884
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1533394&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000489 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000544 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000545 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=107
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000627 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=90
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000505 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000577 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000578 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000468 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000563 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=16
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000445 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000444 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000676 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1000013
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000568 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=2, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=10, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=12, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=13, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=17, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=1000012, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=32, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=1000013, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=76, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=6, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=1000006
