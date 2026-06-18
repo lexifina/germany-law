@@ -54,25 +54,29 @@
 |  |  | § 42 | Verwendung personenbezogener Kennzeichnungen als Wahlausweise |
 |  |  | Zweiter Abschnitt |
 |  |  |  | Wahlhandlung |
+|  |  | Erster Unterabschnitt |
+|  |  |  | Briefwahl |
 |  |  | § 43 | Briefliche Stimmabgabe |
 |  |  | § 44 | Frist für die briefliche Stimmabgabe |
 |  |  | § 45 | Behandlung der Wahlbriefe |
 |  |  | § 46 | Räume zur Stimmabgabe bei der Briefwahl der Vertreterversammlungen oder der Verwaltungsräte |
-|  |  | § 47 | (weggefallen) |
-|  |  | § 48 | (weggefallen) |
-|  |  | § 49 | (weggefallen) |
-|  |  | § 50 | (weggefallen) |
-|  |  | § 51 | (weggefallen) |
-|  |  | § 52 | (weggefallen) |
-|  |  | § 53 | (weggefallen) |
-|  |  | § 54 | (weggefallen) |
-|  |  | § 55 | (weggefallen) |
+|  |  | Zweiter Unterabschnitt |  |
+|  |  |  | Online-Wahl |  |
+|  |  | § 47 | Technische Anforderungen an die Online-Wahl |
+|  |  | § 48 | Frist für die elektronische Stimmabgabe, Wahlzeitraum |
+|  |  | § 49 | Einrichtung und Freigabe des Online-Wahlsystems durch den Wahlausschuss |
+|  |  | § 50 | Elektronische Stimmabgabe |
+|  |  | § 51 | Entgegennahme der elektronischen Stimme |
+|  |  | § 52 | Abgleich der brieflich und der elektronisch abgegebenen Stimmen |
+|  |  | § 53 | Ungültige Stimmen |
 |  |  | Dritter Abschnitt |
 |  |  |  | Ermittlung und Bekanntmachung des Wahlergebnisses |
-|  |  | § 56 | Ungültige Stimmen |
+|  |  | § 54 | Ermittlung des Online-Wahlergebnisses durch die Online-Wahlleitung |
+|  |  | § 55 | Prüfung der Ordnungsmäßigkeit der Online-Wahl |
+|  |  | § 56 | (weggefallen) |
 |  |  | § 57 | Ermittlung des Wahlergebnisses durch die Briefwahlleitungen |
 |  |  | § 58 | Ermittlung des Wahlergebnisses durch den Wahlausschuss |
-|  |  | § 59 | (weggefallen) |
+|  |  | § 59 | Nachvollziehbarkeit des Wahlergebnisses |
 |  |  | § 60 | (weggefallen) |
 |  |  | § 61 | Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten |
 |  |  | § 62 | (weggefallen) |

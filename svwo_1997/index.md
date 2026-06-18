@@ -49,8 +49,7 @@ und Wahlbekanntmachung
 - [§ 28 Wahl ohne Wahlhandlung und Bekanntmachung des Ergebnisses](0028.md)
 - [§ 29](0029.md)
 - [§ 30](0030.md)
-- [§ 31 Bekanntmachung von Wahlen zu den Vertreterversammlungen
-und Verwaltungsräten](0031.md)
+- [§ 31 Bekanntmachung von Wahlen zu den Vertreterversammlungen und Verwaltungsräten](0031.md)
 - [§ 32](0032.md)
 
 #### Zweiter Unterabschnitt Wahlunterlagen
@@ -73,26 +72,32 @@ für andere Versicherte](0040.md)
 
 ### Zweiter Abschnitt Wahlhandlung
 
+
+#### Erster Unterabschnitt Briefwahl
+
 - [§ 43 Briefliche Stimmabgabe](0043.md)
 - [§ 44 Frist für die briefliche Stimmabgabe](0044.md)
 - [§ 45 Behandlung der Wahlbriefe](0045.md)
 - [§ 46 Behandlung der Wahlbriefe beim Arbeitgeber](0046.md)
-- [§ 47](0047.md)
-- [§ 48](0048.md)
-- [§ 49](0049.md)
-- [§ 50](0050.md)
-- [§ 51](0051.md)
-- [§ 52](0052.md)
-- [§ 53](0053.md)
-- [§ 54](0054.md)
-- [§ 55](0055.md)
+
+#### Zweiter Unterabschnitt Online-Wahl
+
+- [§ 47 Technische Anforderungen an die Online-Wahl](0047.md)
+- [§ 48 Frist für die elektronische Stimmabgabe, Wahlzeitraum](0048.md)
+- [§ 49 Einrichtung und Freigabe des Online-Wahlsystems durch den Wahlausschuss](0049.md)
+- [§ 50 Elektronische Stimmabgabe](0050.md)
+- [§ 51 Entgegennahme der elektronischen Stimme](0051.md)
+- [§ 52 Abgleich der brieflich und der elektronisch abgegebenen Stimmen](0052.md)
+- [§ 53 Ungültige Stimmen](0053.md)
 
 ### Dritter Abschnitt Ermittlung und Bekanntmachung des Wahlergebnisses
 
-- [§ 56 Ungültige Stimmen](0056.md)
+- [§ 54 Ermittlung des Online-Wahlergebnisses durch die Online-Wahlleitung](0054.md)
+- [§ 55 Prüfung der Ordnungsmäßigkeit der Online-Wahl](0055.md)
+- [§ 56 (weggefallen)](0056.md)
 - [§ 57 Ermittlung des Wahlergebnisses durch die Briefwahlleitungen](0057.md)
 - [§ 58 Ermittlung des Wahlergebnisses durch den Wahlausschuss](0058.md)
-- [§ 59](0059.md)
+- [§ 59 Nachvollziehbarkeit des Wahlergebnisses](0059.md)
 - [§ 60](0060.md)
 - [§ 61 Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten](0061.md)
 - [§ 62](0062.md)
