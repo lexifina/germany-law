@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses für Wirtschaft und Digitalisierung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-18T17:01:00+02:00
+- Ende: 2026-06-18T18:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/198
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34390
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34390
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeine Beschlussvorlagen
+- TOP 1.1: Bedarfsfeststellungs- und Mittelfreigabebeschluss zur Fortschreibung des Einzelhandels- und Zentrenkonzeptes der Stadt Köln „Stadtentwicklungskonzept Einzelhandel und Zentren (StEK EZ)“ - ungeändert beschlossen
+- TOP 1.2: Anpassung des Förderkonzepts "Unterstützung Handel" zur Ausschreibung einer zweiten Antragsmöglichkeit im Haushaltsjahr 2026 - ungeändert beschlossen
+- TOP 2: Präsentation, anschließend Meinungsaustausch
+- TOP 2.1: Vom Masterplan zur Praxis: Die Clearingstelle Handwerk als ein Schlüsselprojekt - Kenntnis genommen
+- TOP 2.2: Vortrag zur Registermodernisierung - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage von Bürgermeisterin Teresa De Bellis-Olinger aus der Sitzung des Ausschusses für Wirtschaft und Digitalisierung vom 30.04.2026 (0394/2026) betreffend "Gewerbebereitstellungskonzept (GFB), Stand 31.12.2025" - Kenntnis genommen
+- TOP 3.2: Entwicklung des Anordnungssolls der Gewerbesteuer - Kenntnis genommen
+- TOP 4: Mitteilungen
+- TOP 4.1: Adventsverkehr 2025: - Kenntnis genommen
+- TOP 4.2: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 4.3: Bevölkerungsbewegungen in Köln 2025: Wanderungsplus trotz des Rückgangs der internationalen Zuzüge - Kenntnis genommen
+- TOP 4.4: Sachbericht 2025 des Kölner Netzwerks Arbeits- und Erwerbslosenberatung zum Förderprogramm BOREA - Kenntnis genommen
+- TOP 4.5: Registermodernisierung in Deutschland – grundsätzlicher Überblick, Auswirkungen auf die Stadt Köln und aktueller Sachstand - Kenntnis genommen
+- TOP 4.6: Sachbericht für das Jahr 2025 zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 4.7: Berufung in das Preisgericht des bundesweiten Ideenwettbewerbs „HAL2027“ der „Agentur für Innovation in der Cybersicherheit GmbH“ (Cyberagentur) - Kenntnis genommen
+- TOP 4.8: Fokustrendprogramm Education Technology (EdTech) – Vorgehen und Wirkung der Initiativen von KölnBusiness zur Stärkung des EdTech-Standorts Köln - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten
+- TOP 6: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 6.1: Auswirkungen der Schließung des Großmarktes in Raderberg auf Händlerstruktur und Gewerbesteuereinnahmen - vertagt
+- TOP 6.2: Reservierungen von Gewerbeflächen in Köln - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates der Stadt Köln der CDU-Fraktion zu Reservierungen von Gewerbeflächen in Köln (AN/0702/2026) - Kenntnis genommen
+- TOP 6.3: Handwerkerhöfe im Gewerbegebiet Immendorf - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates der CDU-Fraktion zu Handwerkerhöfen im Gewerbegebiet Immendorf (AN/0976/2026) - Kenntnis genommen
+- TOP 6.4: Stand wichtiger Beschlüsse des Digitalisierungsausschusses aus der vergangenen Ratsperiode - vertagt
+- TOP 7: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 7.1: Abhängigkeiten reduzieren, Alternativen schaffen: Exit-Strategie für Microsoft 365 - Alternative beschlossen
+- TOP -: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates vom 06.02.2026 betreffend "Abhängigkeiten reduzieren, Alternativen schaffen: Exit-Strategie für Microsoft 365" (AN/0246/2026) - Kenntnis genommen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - ohne Votum behandelt
+- TOP 7.2: Baustellenumsetzungsmanagement stärken! Effizienz, Koordination und Transparenz – mit KI verbessern - Alternative beschlossen
+- TOP -: Änderungsantrag der Fraktion Volt - ohne Votum behandelt
+- TOP -: Änderungsantrag der Fraktionen CDU, Volt und FDP/KSG - geändert beschlossen
+- TOP -: Stellungnahme der Verwaltung zum Änderungsantrag AN/0718/2026: „Baustellenumsetzungsmanagement stärken!" - Kenntnis genommen
+- TOP -: Änderungsantrag der Fraktion Die Linke - ohne Votum behandelt
+- TOP -: Änderungsantrag zu AN/1079/2026 - ohne Votum behandelt
+- TOP 7.3: Einführung einer 72-Stunden-Genehmigung für einfache gewerbliche Vorhaben - vertagt
+- TOP -: Stellungnahme der Verwaltung zum Antrag Einführung einer 72-Stunden-Genehmigung für einfache gewerbliche Vorhaben (AN/0836/2026) - vertagt
+- TOP 8: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 9: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 10: Marktwesen
+- TOP 11: "koeln.de"
+- TOP 12: Medien- und Internetwirtschaft in Köln
+- TOP 13: Wirtschafts- und Arbeitsmarktsituation
+- TOP 14: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 15: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 16: Mündliche Anfragen
