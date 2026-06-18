@@ -1,0 +1,56 @@
+# 5. Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-18T16:05:00+02:00
+- Ende: 2026-06-18T17:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34388
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34388
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Einwohner*innen gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Präsentation: Jahresbericht 2025 zum Hitzeaktionsplan Köln - Kenntnis genommen
+- TOP -: C Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion FDP/KSG betr. "Sachstand sanierungsbedürftiger Trauerhallen und Kühlräume" - vertagt
+- TOP 1.2: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Haushaltsabweichung im Hpl. 2025/2026 – Produktbereich 13 und 14" - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.04.2026 betr.: "Haushaltsabweichung im Hpl. 2025/2026 - Produktbereich 13 und 14" - vertagt
+- TOP 1.3: Anfrage der AfD Fraktion betr. Bewilligte und ausgeschöpfte Mittel zur Förderrichtlinie „GRÜN hoch 3 Dächer | Fassaden | Höfe“ - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion zur Sitzung des Ausschusses Klima, Gesundheit und Grün am 18.06.2026 betr. Bewilligte und ausgeschöpfte Mittel zur Förderrichtlinie "Grün hoch 3 Dächer/Fassaden/Höfe" - Kenntnis genommen
+- TOP 1.4: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Grünen vom 27.04.2026 (AN/0691/2026) betreffend "Sachstand Positivplanung Windenergie" - Kenntnis genommen
+- TOP 1.5: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Alleen für Köln" - vertagt
+- TOP 1.6: Anfrage der Fraktion Die Linke betr.: "Grau raus, Grün rein: Entsiegelung einstiger Containerstandorte" - vertagt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag von Klima Freunde & Gut betr. "Jede Parzelle zählt! Bestandsschutz für alle Kleingärten" - vertagt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert empfohlen
+- TOP 4.1.2: Stilllegung der städtischen Altdeponie Linder Mauspfad in Porz-Lind - ungeändert empfohlen
+- TOP 4.1.3: Aufstellungsbeschluss zur 15. Änderung des Landschaftsplans Köln - ungeändert empfohlen
+- TOP 4.1.4: "Köln baut bezahlbar | Wohnen für alle" - vertagt
+- TOP 4.1.5: Entsendung der Vertreter*innen der Ratsfraktionen in die Jury des Umweltschutzpreises der Stadt Köln - ungeändert empfohlen
+- TOP 4.1.6: Überarbeitung und Erweiterung der Förderrichtlinie „GRÜN hoch 3 Dächer | Fassaden | Höfe“ - vertagt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Umsetzung einer Ganzjahresbeweidung im Naturschutzgebiet N 23 "Dellbrücker Heide" über einen Förderantrag "Grüne Infrastruktur" - ungeändert beschlossen
+- TOP 4.2.2: Öffentlichkeitsbeteiligung zur Neuaufstellung des Forsteinrichtungswerkes für den städtischen Wald - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: RheinEnergie AG: Energieerzeugungsbericht 2022 bis 2024 - vertagt
+- TOP 7.2: Energiebericht 2025: Energieverbrauchs- und Kostenstatistik 2024 / Sachstand Energiemanagementkonzept 2025 - vertagt
+- TOP 7.3: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 7.4: Jahresbericht über die Entwicklung des städtischen Baumbestands in 2025 - vertagt
+- TOP 7.5: Das Kölner Energiemobil als Informations- und Beratungsangebot - Kenntnis genommen
+- TOP 7.6: RheinEnergie AG: Erzeugungsbericht 2023 bis 2025 - vertagt
+- TOP 7.7: Kooperation mit dem Deutschen Institut für Urbanistik zur Einrichtung einer „Koordinationsstelle Kommunale Ressourceneffizienz" - Kenntnis genommen
+- TOP 7.8: Kölner Solarkataster: Aktualisierung und Weiterentwicklung in 2025 und 2026 und Einbettung in das Klimaschutz-Monitoring - Kenntnis genommen
+- TOP 7.9: GRÜNGÜRTEL Parkstadt Süd, hier: Öffentlichkeitsbeteiligung im Rahmen der Entwurfsplanung - Kenntnis genommen
+- TOP 7.10: Klimafestival 2026 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung der mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.04.2026 bezüglich des Photovoltaik-Ausbaus auf städtischen Liegenschaften - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
