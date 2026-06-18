@@ -1,0 +1,78 @@
+# 6. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-18T17:00:00+02:00
+- Ende: 2026-06-18T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34114
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34114
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Informationsangebot für die BV zum nachhaltigen Mobilitätsplan
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage vom 03.06.2026 betreff "Falschparker auf südlichem Gehweg Kalker Hauptstraße 38 - 60" - Kenntnis genommen
+- TOP 1.2: Einwohneranfrage Betreff "Erhalt der Bäume auf dem Grundstück Buchheimer Weg 34 bei einer Neubebauung zu Wohnzwecken" - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - hier: Beschilderung und Einrichtung einer Spielstraße in der Burgenlandstraße, Aktenzeichen 184/23 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Unterbindung von Ausweichverkehr über den Kratzweg zwischen Hohensyburgstraße und Kieskauler Weg in Köln-Merheim" - ungeändert beschlossen
+- TOP 7.2: Antrag der CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Widmung kleiner Marktplatz Ecke Rösrather Str./Eiler Str. in Köln-Rath/Heumar" - geändert beschlossen
+- TOP -: Gem. Änderungsantrag SPD-Fraktion und CDU-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Widmung kleiner Marktplatz Ecke Rösrather Str./Eiler Str. in Köln-Rath/Heumar" - ungeändert beschlossen
+- TOP 7.3: Antrag der Fraktion B90/Die Grünen in der Bezirksvertretung Kalk:"Überprüfung und Nachbesserung der:"Baustellenverkehrsführung an der Frankfurter Straße sowie flächendeckende Kontrolle und Optimierung aller Baustellen im Stadtbezirk" - geändert beschlossen
+- TOP 7.4: Antrag der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Verbesserung der Sicherheit an der Haltestelle Trimbornstraße" - ungeändert beschlossen
+- TOP 7.5: Gem. Antrag der Fraktionen SPD, CDU, B90/Die Grünen, Die LINKE, Volt u. Hooghoughi in der Bezirksvertretung Kalk: "Stadtklima-/Stadtverschönerungsprogramm 2026 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk" - ungeändert beschlossen
+- TOP 7.6: Gem. Dringlichkeitsantrag Fraktionen SPD, CDU, B90/ Die Grünen, Die LINKE + Volt u. Hoogh.: " weitere Mittel-Vergabe bezirksorientierter Mittel 2026" - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: TOP 8.1.1 wurde verschoben nach TOP 2.1
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anhörung zu den Ergebnissen der frühzeitige Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (vorhabenbezogener Bebauungsplan) Nr. 70453/02 Kalker Hauptstraße/Barcelona-Allee in Köln/Kalk - geändert beschlossen
+- TOP -: Ersetzungsantrag der Fraktion Die LINKE. zum Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (vorhabenbezogener Bebauungsplan) Nr. 70453/02 Arbeitstitel: Kalker Hauptstraße/Barcelona-Allee in Köln-Kalk - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion und Fraktion B90/Die Grünen in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Kalker Hauptstraße/ Barcelona Allee in Köln Kalk" - ungeändert beschlossen
+- TOP 8.2.2: Berufung der Kunstsachverständigen Vertreter*innen der Bezirksvertretungen für den Kunstbeirat, Ratsperiode 2025 - 2030 - geändert beschlossen
+- TOP 8.2.3: Genehmigung der DE: "Erweiterung der Öffnungszeiten des Drogenkonsumraums Kalk" - ungeändert beschlossen
+- TOP 8.2.4: Beschluss über die Aufstellung eines Bebauungsplanes Hans-Schulten-Straße in Köln-Merheim - vertagt
+- TOP 8.2.5: "Köln baut bezahlbar | Wohnen für alle" - vertagt
+- TOP 8.2.6: Anhörung zur Änderung von Busverkehrsleistungen - geändert beschlossen
+- TOP -: Gem. Änderungsantrag Fraktion Die LINKE. und Fraktion B90 Die Grünen: "Busverkehr auf der Schälsick stärken!" - endgültig abgelehnt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung der schriftlichen Anfrage AN/0109/2026 der CDU-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 22.1.2026 betreffend "Winterdienst" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer schriftl. Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung 8 “ vom 12.03.2026 betr. „Ausbaubeginn sowie Miteinbeziehung der Bürgerinnen und Bürger beim Baumbestand und den Parkplätzen in der Matthias-Müller-Straße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Realisierung zusätzlicher Park and Ride Kapazitäten in Köln Rath/Heumar – Erweiterung P+R Königsforst und Nutzung der festgesetzten Fläche am Röttgensweg" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Quartiersentwicklung Kalk Süd ohne Städtebauförderung und ISEK?" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen. in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026 "Überprüfung von Baustelleneinrichtungen" - Kenntnis genommen
+- TOP 9.2.4: TOP 9.2.4 wurde von der Tagesordnung genommen
+- TOP 9.2.5: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Kriterien zur Beurteilung von Verkehrssicherheit" - Kenntnis genommen
+- TOP 9.2.6: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk zur Sitzung am 18.06.2026: "Sachstand zum Beschluss der BV Kalk vom 15.05.2025 – Rather Mauspfad" - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 10.2.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung vom 03.03.2026 (AN/0311/2026) betreffend "Sicherheit im Straßenverkehr durch Geschwindigkeitsanzeigetafeln" - Kenntnis genommen
+- TOP 10.2.3: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung Mobilitätsausschuss vom 03.03.2026 (AN/0313/2026) betreffend "Einrichtung von Schulstraßen" - Kenntnis genommen
+- TOP 10.2.4: Sport in Metropolen in Kalk - Abschlussbericht - Kenntnis genommen
+- TOP 10.2.5: Beantwortung der mündlichen Anfrage zu den Vorlagen 0180/2026 und 0189/2026 in der Sitzung am 23.02.2026 - Kenntnis genommen
+- TOP 10.2.6: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2026„– Start des Sommerprogramms - Kenntnis genommen
+- TOP 10.2.7: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Kenntnis genommen
+- TOP 10.2.8: "Lebenswerte Veedel- Bürger*innen- und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms in den Jahren 2024 und 2025 - Kenntnis genommen
+- TOP 10.2.9: Zielvereinbarungen 2026 - Bürgerhaus Kalk und Bürgerzentrum Vingst - Kenntnis genommen
+- TOP 10.2.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Umwidmung der Wiehler Straße/Köln-Brück in eine Anliegerstraße, Aktenzeichen 67/25 - Kenntnis genommen
+- TOP 10.2.11: Einrichtung einer Fahrradstraße auf der Thumbstraße zwischen Eythstraße und Markt in Kalk - Kenntnis genommen
+- TOP 10.2.12: Wiersbergstraße - Wiederherstellung des blauen Tores - Kenntnis genommen
+- TOP 10.2.13: Jahresbericht "Willkommen und Ankommen in Köln" 2025 - Kenntnis genommen
+- TOP 10.2.14: Neue städtische Unterkunft für Geflüchtete in Kalk-Nord - Kenntnis genommen
+- TOP 10.2.15: Einrichtung von Schulstraßen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.17: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 72453/03 Arbeitstitel: Adalbertstraße in Köln-Höhenberg - Kenntnis genommen
+- TOP 10.2.18: Voreinschätzung zur Zustimmungsfähigkeit eines Vorhabens für Verfahrenserleichterungen des „Wohnungsbau-Turbos“: „Astrid-Lindgren-Allee” in Köln-Brück - Kenntnis genommen
+- TOP 10.2.19: Durchführung einer europaweiten Markterkundung / Osthof Hallen Kalk - Kenntnis genommen
