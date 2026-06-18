@@ -1,0 +1,8 @@
+# TOP 10: Geschichts- und Lernort Kreuzberg (GLOX) auf dem Dragonerareal
+
+- Sitzung: Öffentliche Sitzung des Ausschusses für Stadtentwicklung und Wohnen (StaWo) (2026-06-18)
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/agendaItems.asp?id=64654
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=64654
