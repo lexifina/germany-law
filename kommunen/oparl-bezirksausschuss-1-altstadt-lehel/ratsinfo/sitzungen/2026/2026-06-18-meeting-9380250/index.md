@@ -1,0 +1,173 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-06-18T19:45:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9380250
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9380250
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Reservierung Oktoberfest 2026; Frist: 30.06.2026
+- TOP 5.2.: Benennung von Beauftragten (Vertagung aus der konstituierenden Sitzung)
+- TOP 5.2.1: Benennung einer / eines Kinderbeauftragten
+- TOP 5.2.2: Ggf. Benennung einer / eines Jugendbeauftragten
+- TOP 5.2.3: Benennung einer / eines Beauftragten für Menschen mit Behinderungen
+- TOP 5.2.4: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 5.2.5: Benennung einer / eines Migrations- / Integrationsbeauftragten
+- TOP 5.2.6: Benennung von Beauftragten gegen Rechtsextremismus (1 oder mehrere)
+- TOP 5.2.7: Ggf. Benennung weiterer Beauftragter (§ 5 Abs. 2 BA-GeschO) Benennung einer / eines Baumschutzbeauftragten Benennung einer / eines Beauftragten für die Herrnschule Benennung einer / eines Beauftragten für Senior*innenbeauftragte*n Benennung einer / eines Beauftragten gegen Antisemitismus Benennung einer / eines Beauftragten für Erinnerungskultur Benennung einer / eines Beauftragten für Märkte + Tourismus Benennung einer / eines Beauftragten für IT Benennung einer / eines Beauftragten für Queere Angelegenheiten Benennung einer / eines Beauftragten für Baustellen in der Altstadt Benennung einer / eines Beauftragten für Baustellen im Lehel Benennung einer / eines Beauftragten für Schulwegsicherheit
+- TOP 5.3.: Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 GeschO-Stadtrat) sowie Bildung eines Ferienausschusses (§ 22a BA-Satzung) mit
+- TOP 5.3.1: Beschlussfassung über Größe
+- TOP 5.3.2: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 5.3.3: Wahl der / des Vorsitzenden
+- TOP 5.3.4: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 5.4.: Straßenfest Einweihung Fußgängerzone St.-Anna-Straße, 2026.01 C 2.2, TOP 2026.03 D 2.3.1
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Heiliggeiststr. 1 Nutzungsänderung einer Einheit im 3.Obergeschoss, ehemals Büro-Gewerbe in eine Ferienwohnung, ohne bauliche Eingriffe; Frist: 02.07.2026
+- TOP 3.1.2.: Rochusstr. 5 Umbau und Umnutzung eines Verwaltungsgebäudes in Büro mit Erneuerung der Dachgeschosse und Umnutzung von Schwesterwohnungen in Büro (Rochusstr. 5-7 / Pacellistr.); Frist: 02.07.2026
+- TOP 3.1.3.: Maximilianstr. 11 Revitalisierung des Innenhofes und der Portale inkl. der Erweiterung einer Ladeneinheit; Frist: 02.07.2026
+- TOP 3.1.4.: Promenadepl. 1 Sanierung, Abbruch und Neubau eines in Teilen denkmalgeschützten Gebäudeensembles - (Löwengrube 18 / Promenadepl. 1 und 3); Frist: 02.07.2026
+- TOP 3.1.5.: Steinsdorfstr. 19 Baunutzungsänderung zweier Bürors zu zwei Praxen; Frist: 02.07.2026
+- TOP 3.1.6.: Altheimer Eck 7 ÄNDERUNGSANTRAG zu 1.23-2025-21781-21 - Sanierung eines Wohngebäudes mit Gastronomienutzung, Dachausbau des Vordergebäudes (VGB), Aufstockung des Rückgebäudes (RGB) sowie Gastraumerweiterung im Hof (EG); Frist: 02.07.2026
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag Reitmorstr. 41, Frist: 24.07.2026
+- TOP 3.3: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: OT-Baumpflanzung Sendlinger Straße 45
+- TOP 0.2.: Bericht zum 2. Runden Tisch zur Verkehrssituation südliches Lehel
+- TOP 0.3.: Bericht OT Herrnschule Schulweg- / Baustellensituation
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Vermüllung am Isarufer im Bereich Steinsdorfstraße – Bitte um zusätzliche Mülleimer
+- TOP 1.2.: Bürger*innenanliegen: Müllerstraße 46-52, Antrag Zweirad-Fahrrad-Abstellplätze einrichten
+- TOP 1.3.: Bürger*innenanliegen: Antrag auf geschützten Gehweg Müllerstraße 46-50, um das „absolute Halteverbot“ durchzusetzen
+- TOP 1.4.: Bürger*innenanliegen: Flaschensammler - Halter anbringen
+- TOP 1.5.: Bürger*innenanliegen: Prälat-Zistl-Straße
+- TOP 1.6.: Antrag Fraktion Bündnis 90/ Die Grünen: Grüne Abbiegepfeile für den Radverkehr an signalisierten Kreuzungen in der Altstadt und im Lehel
+- TOP 1.7.: Bürger*innenanliegen: Lärm + Baustellenbelastung Hackenviertel
+- TOP 1.8.: Bürger*innenanliegen: Straßensanierung Pilotystraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) S-Bahnhof am Isartor
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: MVG-Anpassungsprogramm 2027, Frist: 01.07.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 0.1.: Ideen Budget der Stadtbezirke (Vorbereitung BA-Vorsitzendenrunde Juli), TOP 2026.03 A6
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Reduzierte Öffnungszeiten im Müller´schen Volksbad
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Bellevue di Monaco eG Straßenfest von der Glockenbachwerkstatt und Bellevue di Monaco am 17.05.2026 oder 14.06.2026 1.912,50€; Az. 0262.100-1-0460
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. "Ausstellung Standard Time" Standard Time vom 07.07. -06.09.2026 4.350,00€; Az. 0262.100-1-0461
+- TOP 2.1.3.: (E) Stadtbezirksbudget Kulturverstrickungen e.V. Bunte Handarbeiten am Kulturstrand von Mai -Juli 2026 1.100,00€; Az. 0262.100-1-0456
+- TOP 2.1.4.: (E) Stadtbezirksbudget Münchner Brahms-Chor e.V. Aufführung der Messa da Requiem von G. Verdi als deutsch-tschechische Kooperation am 13.06.2026 578,47€; Az. 0262.100-1-0462
+- TOP 2.1.5.: (E) Stadtbezirksbudget Revü GbR Lesung + Filmscreening "Nightcleaners" am 10.06.2026 800,00€; Az. 0262.100-1-0463
+- TOP 2.1.6.: (E) Stadtbezirksbudget Landslide e.V. Kultur im Block - Straßenfest am 20.06.2026 2.068,50€; Az. 0262.100-1-0464
+- TOP 2.2: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Theater für Alle am 08.07. und 15.07.2026 - Termin: 22.06.2026
+- TOP 3.2.: Munich Downunder Fest 2026 von 28.08.2026 bis 30.08.2026 (Termin: 30.06.2026)
+- TOP 3.3.: Information Isarinselfest 2026
+- TOP 3.4.: Infoveranstaltung „Kinderwünsche unterwegs" am 27.07.2026 (Termin: 30.06.2026)
+- TOP 3.5.: Zwingerstraße – Straßenfest am 16.08.2026 (Ersatztermin 23.08.2026) (Termin: 30.06.2026)
+- TOP 3.6.: Münchner Selbsthilfetag am 04.07.2026 (Termin: 19.06.2026)
+- TOP 3.7.: Bürgerevent Seismik GIGA-M auf dem Sendlinger-Tor-Platz am 16.07.2026 gem. §29 der StVO (Termin: 19.06.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP E: Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innenanliegen: Lärm Kulturstrand / Praterinsel
+- TOP 1.2.: Sitzbagatelle Theatinerstr.
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Herzogspitalstr. 9: Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Theatinerstr. 23: Änderung einer bestehenden Freischankfläche
+- TOP 2.1.3.: Sendlinger Str. 45: Antrag auf eine Freischankfläche in der Fußgängerzone Sendlinger Straße
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Isartorplatz: Antrag für einen Obstverkaufsstand (Neuantrag)
+- TOP 2.2.2.: Rosental 7: Antrag für die Aufstellung einer Sitzgelegenheit
+- TOP 2.2.3.: Petersplatz 9: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.4.: Westenriederstr. 37: Aufstellung von neuen Verkaufseinrichtungen (Glückwünschkarten- ständer) auf öffentlichem Grund
+- TOP 3: Anhörungen
+- TOP 3.1.: temporäre Kunstaktion "Nach:Leben" im Juli 2026, Anhörungsfrist: 23.06.2026
+- TOP 3.2.: Italienischer Markt vom 25.09. bis 04.10.2026 (Termin: 23.06.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Nutzung von x.com
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen + Infrastruktur
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Bürger*innenanliegen Widenmayerstr. 1, TOP 2026. 04 B 1.1, Antwortschreiben Sozialreferat
+- TOP B 4.4.: Geförderter Wohnungsbau, welcher Sinn?
+- TOP B 4.5.: Bescheid Fällungsantrag vom 01.12.2025 auf dem Grundstück Knöbelstr. 24, TOP 2026.04 B 4.4, Antwort Referat für Stadtplanung und Bauordnung
+- TOP B 4.6.: Bürger*innenanliegen St.-Anna-Straße, TOP 2026.02 A 3, Antwortschreiben Baureferat
+- TOP B 4.7.: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP C 4: Unterrichtungen - Mobilität, öffentlicher Raum + Umwelt
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP C 4.3.: Baustellen Liebherrstraße
+- TOP C 4.4.: (U) Begrünung Fußgängerzone Gesamtkonzept Ergebnis der vertieften Untersuchung Durchgehendes taktiles Leitsystem Pilotversuch „Unterflurabfallbehälter in der Sendlinger Straße“ im 1. Stadtbezirk Altstadt - Lehel
+- TOP C 4.5.: Ergebnisse des Versuchs mit Kleinbussen in der Altstadt
+- TOP C 4.6.: Zona traffico limitato
+- TOP C 4.7.: Einleitung des Umwidmungsverfahrens eines Teilbereiches am Kosttor
+- TOP C 4.8.: Falschparker und Blockierer von E-Ladesäulen - Statistik 2025 und Berichtspunkt
+- TOP C 4.9.: Antrag des BA1: gleichzeitiger Winterdienst für Straßen, Rad- und Fußwege
+- TOP C 4.10.: Ankündigung Baumaßnahme Tram zwischen Stachus und Sendlinger Tor
+- TOP C 4.11.: Bürger*innenanliegen Meldung weiterer Standorte für E-Ladestationen, Antwort Mobilitätsreferat
+- TOP C 4.12.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Standort: Damenstiftstr. 9
+- TOP C 4.13.: Bürger*innenanliegen Schrotträder Maxmonument, TOP 2026.03 A 3, Antwortschreiben Baureferat
+- TOP C 4.14.: Entfernung von Fahrradschrott außerhalb der offiziellen Abstellflächen
+- TOP C 4.15.: Ergänzung Ortstermin BA 1 zur aktuellen Baustellensituation Oberanger / Stadtmuseum / Rosental / St. Jakobsplatz
+- TOP C 4.16.: Dringender Handlungsbedarf – Verkehrschaos in der Altstadt (Bereich Blumen-/Sonnenstraße / Herzogspitalstraße)
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Bildung + Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Eilentscheidung Pfarrfest am 21.06.2026 - Termin: 31.05.2025
+- TOP D 4.4.: Eilentscheidung Infoveranstaltung zum Recycling am 24.06.2026 – Termin: 31.05.2026
+- TOP D 4.5.: Eilentscheidung Stadtgeburtstag am 13.-14.06.2026 in der Innenstadt rund um den Marienplatz - Termin: 29.05.2026
+- TOP D 4.6.: Eilentscheidung Bennofest Frauenplatz etc. am 13.06. und 14.06.26 - Termin: 26.05.2026
+- TOP D 4.7.: Eilentscheidung Brotmarkt in der Neuhauser Straße vom 08. – 13.06.2026 gem. §29 der StVO und § 69 GewO - Frist: 25.05.2026
+- TOP D 4.8.: Eilentscheidung CSD im Zeitraum 26.06. bis 28.06.2026 auf der Ludwigstraße (zwischen Odeonsplatz und Siegestor) sowie dem Wittelsbacher Platz - Rückmeldefrist: 15.06.2026
+- TOP D 4.9.: Eilentscheidung Zamanand / Corso Leopold am 20./21.06.26 (Aufbau in Fußgängerbereichen ab 19.06.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) – Rückmeldefrist: 11.06.26
+- TOP E 4: Unterrichtungen - Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP E 4.1.: Gaststättenfortführungen
+- TOP E 4.2.: Veranstaltungsgenehmigungen
+- TOP E 4.3.: Sondernutzungserlaubnis WC-Container und Abwassereinleitung Kulturstrand am Maximiliansplatz ab 27.04.26 -24.09.26
+- TOP E 4.4.: Vermüllung Wertstoffinsel Thomas-Wimmer-Ring
+- TOP E 4.5.: Eilentscheidung Anhörung für Sondernutzung auf öffentlichem Verkehrsgrund sowie auf Privatgrund für die Aktion "Spiel mich! 2026" im Zeitraum vom 11.06.- 02.07.26 (Aufbau ab 08.06., Abbau bis 06.07.) - Frist: 29.05.2026
+- TOP 3.8.: Klassik am Odeonsplatz am 11. und 12.07.2026 (Aufbau ab 04.07., Abbau bis 15.07., öffentl. Generalprobe am 10.07.) (Termin: 26.06.2026)
+- TOP 3.9.: Sommerlese Salvatorplatz am 1.7., 9.7., 15.7., 21.7.26; (Termin: 22.06.2026
+- TOP 1.9.: Bürger*innenanliegen: Fahrradabstellfläche vor dem Gymnasium in der Liebigstraße
+- TOP 1.10.: Bürger*innenanliegen: Busabstellfläche Frauenstraße + Grünfläche Zweibrückenstraße
+- TOP 2.2.: Durchfahrtsperre („Stöpsel“) am Beginn der Thalkirchner Straße von der Fliegenstraße bis zur Müllerstraße BA-Antrag Nr. 20-26 / B 08671 des Bezirksausschusses des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt
+- TOP 3.10.: Informationsveranstaltung Patiententag Herzinsuffizienz am 20.07.2026 auf dem sog. Odeonsplatz – Termin: 22.06.2026
+- TOP 1.3.: Bürger*innenanliegen: Sicherung einer bezahlbaren und vielfältigen Nahversorgung im Bereich Tal / Westenriederstraße
