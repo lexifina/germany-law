@@ -1,0 +1,78 @@
+# 53. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-06-18T17:00:00+02:00
+- Ende: 2026-06-18T21:05:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6219
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6219
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=455715
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Kein Werben fürs Sterben - Bundeswehr raus aus den Schulen! - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - mit Änderungen in der BVV beschlossen
+- TOP 5.1: Berufungen von Mitgliedern für den ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Hinweistafel auf dem Zentralfriedhof Friedrichsfelde aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Aenne-Saefkow-Park - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Endlich Sicherheit für Beschäftigte der Musikschulen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Bitte ziehen Sie eine Nummer – und nehmen Sie ein Glas Wasser - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Bahnhof Lichtenberg: Ordnung herstellen, Verantwortung wahrnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Sanierung und Neugestaltung des Schulhofs der Richard-Wagner-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Linksabbiegen von der Nöldnerstraße stadteinwärts bei gesperrter Schlichtallee - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Verkehrssicherheit im Kreuzungsbereich Gregoroviusweg / Horterweg und in der Robert-Siewert-Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Herstellung einer durchgehenden Rad- und Fußwegverbindung an der Wartenberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Sondermittelantrag Kunstkalender des Graphik-Collegiums 2027 - "Fragmente" - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Sondermittelantrag Stadtlichter - 10 Jahre Best of - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Kostenfreies WC am Hundeplatz gegenüber dem Ringcenter - überwiesen
+- TOP 5.14: Igelburgen für Lichtenberg - überwiesen
+- TOP 5.15: Mit Rücksicht und Vorausschau: Baustellenplanung auf Schlichtallee und Blockdammweg besser koordinieren - überwiesen
+- TOP 5.16: Modellpark Berlin-Brandenburg erhalten - Standortperspektive auch in Lichtenberg prüfen - überwiesen
+- TOP 5.17: Moonlightsports für Lichtenberg - überwiesen
+- TOP 5.18: Aufwertung des Umfeldes am Märkischen Brunnen - überwiesen
+- TOP 5.19: Wiederaufnahme und Realisierung eines Hundeauslaufgebiets an der Grünfläche Arnimstraße - überwiesen
+- TOP 5.20: Eine Schranke schützt vor Fahrradfahrern nicht - Kontrollen wirken - überwiesen
+- TOP 5.21: Neue Regeln, neue Wege: Das Mobilitätsgesetz entdeckt Rummelsburg - überwiesen
+- TOP 5.22: Konsequente Durchsetzung des Festmachverbots am ehemaligen Tagesliegeplatz - überwiesen
+- TOP 5.23: Wirtschaftliche Potentiale von Grünflächen zur Gemeinwohlorientierung nutzen - überwiesen
+- TOP 5.24: Keinen Schritt in den geschützten Ufer- und Schilfbereich - überwiesen
+- TOP 5.25: Nachhaltiges Wirtschaften durch Recycling - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Geschützten Radstreifen im Gewerbegebiet mit Nutzern abwägen - überwiesen
+- TOP 5.27: Grundschule an der Victoriastadt: Sanierung beschleunigen und Lernbedingungen verbessern - überwiesen
+- TOP 5.28: Stress reduzieren - auf Senatszug aufspringen und Baustellen endlich auch im Bezirk koordinieren - überwiesen
+- TOP 5.29: Keine Parkbänke mehr ohne Rückenlehne - überwiesen
+- TOP 5.30: Kunst am Bau und im Stadtraum: Transparent und aktuell informieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Quartiersmanagement-Gebiete: Sozialen Zusammenhalt in Lichtenberg fördern - überwiesen
+- TOP 5.32: Begegnungsort für den Mühlengrund - überwiesen
+- TOP 5.33: Resolution: Bekenntnis gegen politisch motivierte Gewalt und für eine gewaltfreie demokratische Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitgliedes des Bezirksamtes - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - gegenstandslos
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Resolution: Hohenschönhausen nicht schwächen - unsere Polizei muss im Abschnitt 31 bleiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Zugang zu Trinkbrunnen für alle! - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Außengastronomie stärken - überwiesen
+- TOP 10.4: Der Bezirk Lichtenberg bewirbt sich um eine Städtepartnerschaft mit der Stadt Lichtenberg - in der BVV abgelehnt
+- TOP 10.5: Ein Baumgesetz allein ist nicht genug: Straßen- und Grünflächenämter so ausstatten, dass das Baumgesetz auch umgesetzt werden kann - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Tierisch wichtig: Kostenloser Tierparkbesuch für Rentner mit Grundsicherung - überwiesen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Quartiersmanagement-Gebiete - schriftlich beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - gegenstandslos
+- TOP 13: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 13.1: Ehrenamtlichen Besuchsdienst für Krankenhäuser einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge zur Beschlussfassung - gegenstandslos
+- TOP 15: VzK/Aufhebungsanträge - (offen)
+- TOP 15.1: Rückbau von Parkplätzen in Rummelsburg aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Sicherstellung der Lebensmittelnahversorgung in Rummelsburg - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Ergänzungen zum Bebauungsplan XVII-5a-1 Hauptstraße 3A in Rummelsburg - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Sofortige Sicherung der Landesmittel für Sport- und Grünflächen an der Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
