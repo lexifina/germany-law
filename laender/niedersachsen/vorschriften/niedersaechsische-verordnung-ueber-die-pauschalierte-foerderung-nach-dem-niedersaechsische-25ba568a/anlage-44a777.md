@@ -1,0 +1,3437 @@
+# Niedersächsische Verordnung über die pauschalierte Förderung nach dem Niedersächsischen Kommunalfördergesetz im Bereich der Kindertagesstätten und der Kindertagespflege (Niedersächsische Förderverordnung im Bereich der Kindertagesbetreuung - NFöVO-KiTa)
+
+(zu § 2 und § 3 Abs. 1 und 2 Satz 3)
+1
+2
+3
+4
+5
+6
+7
+Hansestadt Lüneburg
+4 462
+3 356 949,95
+2 007 178,26
+Landeshauptstadt Hannover
+24 715
+18 594 132,25
+11 117 752,26
+Landkreis Ammerland
+6 145
+4 623 141,52
+2 764 256,02
+Apen
+594
+446 891,14
+267 203,92
+Bad Zwischenahn
+1 288
+969 016,48
+579 391,66
+Edewecht
+1 039
+781 683,33
+467 381,94
+Rastede
+1 262
+949 455,59
+567 695,87
+Westerstede, Stadt
+1 195
+899 048,68
+537 556,70
+Wiefelstede
+767
+577 046,31
+345 025,94
+Landkreis Aurich
+7 642
+5 749 397,48
+3 437 663,88
+Aurich, Stadt
+2 171
+1 633 334,46
+976 598,83
+Baltrum
+25
+18 808,55
+11 245,96
+Berumbur
+148
+111 346,61
+66 576,06
+Dornum
+134
+100 813,83
+60 278,33
+Großefehn
+534
+401 750,62
+240 213,62
+Großheide
+357
+268 586,09
+160 592,25
+Hage, Flecken
+218
+164 010,55
+98 064,74
+Hinte
+322
+242 254,12
+144 847,92
+Ihlow
+595
+447 643,48
+267 653,76
+Juist, Inselgemeinde
+40
+30 093,68
+17 993,53
+Krummhörn
+374
+281 375,90
+168 239,50
+Leezdorf
+50
+37 617,10
+22 491,91
+Marienhafe, Flecken
+130
+97 804,46
+58 478,97
+Norden, Stadt
+893
+671 841,40
+401 705,55
+Norderney, Stadt
+170
+127 898,14
+76 472,50
+Osteel
+46
+34 607,73
+20 692,56
+Rechtsupweg
+156
+117 365,35
+70 174,77
+Südbrookmerland
+711
+534 915,15
+319 834,99
+Upgant-Schott
+97
+72 977,17
+43 634,31
+Wiesmoor, Stadt
+421
+316 735,98
+189 381,90
+Wirdum
+50
+37 617,10
+22 491,91
+Landkreis Celle
+8 293
+6 239 172,11
+3 730 508,58
+Adelheidsdorf
+185
+139 183,27
+83 220,08
+Ahnsbeck
+83
+62 444,39
+37 336,57
+Beedenbostel
+40
+30 093,68
+17 993,53
+Bergen, Stadt
+583
+438 615,38
+262 255,70
+Bröckel
+130
+97 804,46
+58 478,97
+Celle, Stadt
+2 952
+2 220 913,55
+1 327 922,50
+Eicklingen
+213
+160 248,84
+95 815,55
+Eldingen
+105
+78 995,91
+47 233,02
+Eschede
+250
+188 085,50
+112 459,56
+Faßberg
+314
+236 235,38
+141 249,21
+Hambühren
+522
+392 722,52
+234 815,56
+Hohne
+65
+48 902,23
+29 239,49
+Lachendorf
+330
+248 272,86
+148 446,62
+Langlingen
+105
+78 995,91
+47 233,02
+Lohheide, gemeindefr. Bezirk
+40
+30 093,68
+17 993,53
+Nienhagen
+326
+245 263,49
+146 647,27
+Südheide
+581
+437 110,70
+261 356,02
+Wathlingen
+383
+288 146,98
+172 288,05
+Wienhausen, Klostergemeinde
+175
+131 659,85
+78 721,69
+Wietze
+348
+261 815,01
+156 543,71
+Winsen (Aller)
+563
+423 568,54
+253 258,93
+Landkreis Cloppenburg
+8 597
+6 467 884,08
+3 867 259,40
+Barßel
+611
+459 680,96
+274 851,17
+Bösel
+525
+394 979,54
+236 165,08
+Cappeln (Oldenburg)
+394
+296 422,74
+177 236,27
+Cloppenburg, Stadt
+1 592
+1 197 728,45
+716 142,49
+Emstek
+722
+543 190,92
+324 783,21
+Essen (Oldenburg)
+482
+362 628,84
+216 822,03
+Friesoythe, Stadt
+1 189
+894 534,62
+534 857,68
+Garrel
+766
+576 293,96
+344 576,10
+Lastrup
+367
+276 109,51
+165 090,64
+Lindern (Oldenburg)
+188
+141 440,29
+84 569,59
+Löningen, Stadt
+666
+501 059,76
+299 592,27
+Molbergen
+488
+367 142,89
+219 521,06
+Saterland
+607
+456 671,59
+273 051,82
+Landkreis Cuxhaven
+10 238
+7 702 477,28
+4 605 443,97
+Armstorf
+28
+21 065,58
+12 595,47
+Belum
+25
+18 808,55
+11 245,96
+Beverstedt
+759
+571 027,57
+341 427,23
+Bülkau
+25
+18 808,55
+11 245,96
+Cadenberge
+219
+164 762,90
+98 514,58
+Cuxhaven, Stadt
+2 575
+1 937 280,62
+1 158 333,48
+Geestland, Stadt
+1 506
+1 133 027,04
+677 456,40
+Hagen im Bremischen
+561
+422 063,86
+252 359,26
+Hechthausen
+146
+109 841,93
+65 676,38
+Hemmoor, Stadt
+493
+370 904,60
+221 770,26
+Hollnseth
+40
+30 093,68
+17 993,53
+Ihlienworth
+76
+57 177,99
+34 187,71
+Lamstedt
+231
+173 791,00
+103 912,63
+Loxstedt
+865
+650 775,82
+389 110,08
+Mittelstenahe
+25
+18 808,55
+11 245,96
+Neuenkirchen
+50
+37 617,10
+22 491,91
+Neuhaus (Oste), Flecken
+25
+18 808,55
+11 245,96
+Nordleda
+25
+18 808,55
+11 245,96
+Oberndorf
+40
+30 093,68
+17 993,53
+Osten
+36
+27 084,31
+16 194,18
+Otterndorf, Stadt
+426
+320 497,69
+191 631,09
+Schiffdorf
+924
+695 164,00
+415 650,54
+Steinau
+25
+18 808,55
+11 245,96
+Stinstedt
+25
+18 808,55
+11 245,96
+Wanna
+117
+88 024,01
+52 631,07
+Wingst
+100
+75 234,20
+44 983,82
+Wurster Nordseeküste
+871
+655 289,87
+391 809,11
+Landkreis Diepholz
+10 629
+7 996 643,00
+4 781 330,72
+Asendorf
+98
+73 729,51
+44 084,15
+Bahrenborstel
+90
+67 710,78
+40 485,44
+Barenburg, Flecken
+95
+71 472,49
+42 734,63
+Barnstorf, Flecken
+303
+227 959,62
+136 300,99
+Barver
+40
+30 093,68
+17 993,53
+Bassum, Stadt
+745
+560 494,78
+335 129,49
+Borstel
+80
+60 187,36
+35 987,06
+Brockum
+55
+41 378,81
+24 741,10
+Bruchhausen-Vilsen, Flecken
+357
+268 586,09
+160 592,25
+Diepholz, Stadt
+879
+661 308,61
+395 407,82
+Drebber
+131
+98 556,80
+58 928,81
+Drentwede
+43
+32 350,71
+19 343,04
+Ehrenburg
+36
+27 084,31
+16 194,18
+Eydelstedt
+58
+43 635,84
+26 090,62
+Hemsloh
+103
+77 491,22
+46 333,34
+Hüde
+71
+53 416,28
+31 938,52
+Kirchdorf
+75
+56 425,65
+33 737,87
+Lemförde, Flecken
+232
+174 543,34
+104 362,47
+Martfeld
+118
+88 776,35
+53 080,91
+Mellinghausen
+50
+37 617,10
+22 491,91
+Neuenkirchen
+65
+48 902,23
+29 239,49
+Rehden
+128
+96 299,77
+57 579,30
+Scholen
+75
+56 425,65
+33 737,87
+Schwaförden
+73
+54 920,97
+32 838,19
+Schwarme
+171
+128 650,48
+76 922,34
+Siedenburg, Flecken
+57
+42 883,49
+25 640,78
+Stuhr
+1 508
+1 134 531,72
+678 356,08
+Sudwalde
+45
+33 855,39
+20 242,72
+Sulingen, Stadt
+679
+510 840,21
+305 440,17
+Syke, Stadt
+1 389
+1 045 003,02
+624 825,32
+Twistringen, Stadt
+569
+428 082,59
+255 957,96
+Wagenfeld
+380
+285 889,96
+170 938,53
+Wehrbleck
+43
+32 350,71
+19 343,04
+Wetschen
+42
+31 598,36
+18 893,21
+Weyhe
+1 746
+1 313 589,11
+785 417,58
+Landkreis Emsland
+14 210
+10 690 779,66
+6 392 201,48
+Andervenne
+50
+37 617,10
+22 491,91
+Bawinkel
+178
+133 916,87
+80 071,21
+Beesten
+98
+73 729,51
+44 084,15
+Bockhorst
+65
+48 902,23
+29 239,49
+Börger
+145
+109 089,59
+65 226,55
+Breddenberg
+65
+48 902,23
+29 239,49
+Dersum
+77
+57 930,33
+34 637,54
+Dörpen
+293
+220 436,20
+131 802,61
+Dohren
+73
+54 920,97
+32 838,19
+Emsbüren
+599
+450 652,85
+269 453,11
+Esterwegen
+258
+194 104,23
+116 058,27
+Freren, Stadt
+256
+192 599,55
+115 158,59
+Geeste
+680
+511 592,55
+305 890,01
+Gersten
+87
+65 453,75
+39 135,93
+Groß Berßen
+79
+59 435,02
+35 537,22
+Handrup
+65
+48 902,23
+29 239,49
+Haren (Ems), Stadt
+1 125
+846 384,74
+506 068,03
+Haselünne, Stadt
+761
+572 532,25
+342 326,91
+Heede
+130
+97 804,46
+58 478,97
+Herzlake
+224
+168 524,61
+100 763,77
+Hilkenbrook
+48
+36 112,42
+21 592,24
+Kluse
+83
+62 444,39
+37 336,57
+Lähden
+221
+166 267,58
+99 414,25
+Lahn
+105
+78 995,91
+47 233,02
+Langen
+76
+57 177,99
+34 187,71
+Lathen
+351
+264 072,04
+157 893,22
+Lengerich
+138
+103 823,19
+62 077,68
+Lorup
+163
+122 631,74
+73 323,63
+Lünne
+105
+78 995,91
+47 233,02
+Meppen, Stadt
+1 724
+1 297 037,59
+775 521,14
+Messingen
+40
+30 093,68
+17 993,53
+Neubörger
+64
+48 149,89
+28 789,65
+Neulehe
+98
+73 729,51
+44 084,15
+Niederlangen
+137
+103 070,85
+61 627,84
+Papenburg, Stadt
+1 810
+1 361 739,00
+814 207,23
+Rastdorf
+50
+37 617,10
+22 491,91
+Rhede (Ems)
+243
+182 819,10
+109 310,69
+Salzbergen
+388
+291 908,69
+174 537,24
+Schapen
+123
+92 538,06
+55 330,10
+Sögel
+514
+386 703,78
+231 216,86
+Spahnharrenstätte
+94
+70 720,15
+42 284,80
+Spelle
+536
+403 255,31
+241 113,30
+Stavern
+83
+62 444,39
+37 336,57
+Surwold
+225
+169 276,95
+101 213,61
+Sustrum
+90
+67 710,78
+40 485,44
+Thuine
+98
+73 729,51
+44 084,15
+Twist
+507
+381 437,39
+228 067,99
+Vrees
+118
+88 776,35
+53 080,91
+Walchum
+73
+54 920,97
+32 838,19
+Werlte, Stadt
+442
+332 535,16
+198 828,50
+Werpeloh
+65
+48 902,23
+29 239,49
+Wippingen
+90
+67 710,78
+40 485,44
+Landkreis Friesland
+4 362
+3 281 715,75
+1 962 194,43
+Bockhorn
+413
+310 717,24
+185 783,20
+Jever, Stadt
+700
+526 639,39
+314 886,77
+Sande
+304
+228 711,96
+136 750,83
+Schortens, Stadt
+1 017
+765 131,80
+457 485,50
+Wangerland
+344
+258 805,64
+154 744,36
+Wangerooge, Nordseeheilbad
+40
+30 093,68
+17 993,53
+Varel, Stadt
+1 092
+821 557,45
+491 223,37
+Zetel
+452
+340 058,58
+203 326,89
+Landkreis Gifhorn
+9 453
+7 111 888,82
+4 252 320,94
+Adenbüttel
+97
+72 977,17
+43 634,31
+Barwedel
+65
+48 902,23
+29 239,49
+Bergfeld
+25
+18 808,55
+11 245,96
+Bokensdorf
+25
+18 808,55
+11 245,96
+Brome, Flecken
+115
+86 519,33
+51 731,40
+Calberlah
+327
+246 015,83
+147 097,11
+Didderse
+65
+48 902,23
+29 239,49
+Ehra-Lessien
+43
+32 350,71
+19 343,04
+Gifhorn, Stadt
+2 240
+1 685 246,05
+1 007 637,67
+Groß Oesingen
+141
+106 080,22
+63 427,19
+Hankensbüttel
+292
+219 683,86
+131 352,77
+Hillerse
+125
+94 042,75
+56 229,78
+Isenbüttel
+322
+242 254,12
+144 847,92
+Jembke
+155
+116 613,01
+69 724,93
+Leiferde
+261
+196 361,26
+117 407,78
+Meine
+460
+346 077,31
+206 925,59
+Meinersen
+453
+340 810,92
+203 776,73
+Müden (Aller)
+268
+201 627,65
+120 556,65
+Osloß
+68
+51 159,26
+30 589,00
+Parsau
+50
+37 617,10
+22 491,91
+Ribbesbüttel
+85
+63 949,07
+38 236,25
+Rötgesbüttel
+141
+106 080,22
+63 427,19
+Rühen
+438
+329 525,79
+197 029,15
+Sassenburg
+858
+645 509,43
+385 961,22
+Schönewörde
+93
+69 967,80
+41 834,96
+Schwülper
+421
+316 735,98
+189 381,90
+Sprakensehl
+58
+43 635,84
+26 090,62
+Steinhorst
+45
+33 855,39
+20 242,72
+Tappenbeck
+60
+45 140,52
+26 990,29
+Tiddische
+48
+36 112,42
+21 592,24
+Tülau
+130
+97 804,46
+58 478,97
+Ummern
+65
+48 902,23
+29 239,49
+Vordorf
+156
+117 365,35
+70 174,77
+Wagenhoff
+43
+32 350,71
+19 343,04
+Wahrenholz
+175
+131 659,85
+78 721,69
+Wasbüttel
+41
+30 846,02
+18 443,37
+Wesendorf
+245
+184 323,79
+110 210,37
+Weyhausen
+283
+212 912,78
+127 304,22
+Wittingen, Stadt
+471
+354 353,08
+211 873,81
+Landkreis Goslar
+5 142
+3 868 542,51
+2 313 068,26
+Bad Harzburg, Stadt
+910
+684 631,21
+409 352,80
+Braunlage, Stadt
+208
+156 487,13
+93 566,36
+CUG lno ais uvles trr hs,i atSät l-ta Zsdse ttl aledrtf eld, Berg- und
+448
+337 049,21
+201 527,53
+a
+2 002
+1 506 188,66
+900 576,17
+Langelsheim, Stadt
+492
+370 152,26
+221 320,42
+Liebenburg
+297
+223 445,57
+133 601,96
+Seesen, Stadt
+785
+590 588,46
+353 123,02
+Landkreis Göttingen
+8 458
+6 363 308,54
+3 804 731,89
+Adelebsen, Flecken
+243
+182 819,10
+109 310,69
+Bad Grund (Harz)
+271
+203 884,68
+121 906,16
+Bad Lauterberg im Harz, Stadt
+317
+238 492,41
+142 598,72
+Bad Sachsa, Stadt
+214
+161 001,19
+96 265,38
+Bilshausen
+106
+79 748,25
+47 682,85
+Bodensee
+65
+48 902,23
+29 239,49
+Bovenden, Flecken
+731
+549 961,99
+328 831,76
+Bühren
+20
+15 046,84
+8 996,76
+Dransfeld, Stadt
+212
+159 496,50
+95 365,71
+Duderstadt, Stadt
+859
+646 261,77
+386 411,05
+Ebergötzen
+91
+68 463,12
+40 935,28
+Elbingerode
+23
+17 303,87
+10 346,28
+Friedland
+310
+233 226,02
+139 449,86
+Gieboldehausen, Flecken
+164
+123 384,09
+73 773,47
+Gleichen
+413
+310 717,24
+185 783,20
+Hann. Münden, Stadt
+938
+705 696,79
+421 948,28
+Hattorf am Harz
+161
+121 127,06
+72 423,96
+Herzberg am Harz, Stadt
+539
+405 512,33
+242 462,81
+Hörden am Harz
+40
+30 093,68
+17 993,53
+Jühnde
+51
+38 369,44
+22 941,75
+Krebeck
+58
+43 635,84
+26 090,62
+Landolfshausen
+60
+45 140,52
+26 990,29
+Niemetal
+50
+37 617,10
+22 491,91
+Obernfeld
+125
+94 042,75
+56 229,78
+Osterode am Harz, Stadt
+877
+659 803,92
+394 508,14
+Rhumspringe
+123
+92 538,06
+55 330,10
+Rosdorf
+532
+400 245,94
+239 313,95
+Scheden
+50
+37 617,10
+22 491,91
+Seeburg
+105
+78 995,91
+47 233,02
+Seulingen
+80
+60 187,36
+35 987,06
+Staufenberg
+320
+240 749,44
+143 948,24
+Waake
+58
+43 635,84
+26 090,62
+Walkenried
+163
+122 631,74
+73 323,63
+Wulften am Harz
+89
+66 958,44
+40 035,60
+Landkreis Grafschaft Bentheim
+6 379
+4 799 189,55
+2 869 518,17
+Bad Bentheim, Stadt
+660
+496 545,71
+296 893,24
+Emlichheim
+423
+318 240,66
+190 281,58
+Esche
+25
+18 808,55
+11 245,96
+Georgsdorf
+50
+37 617,10
+22 491,91
+Halle
+25
+18 808,55
+11 245,96
+Hoogstede
+137
+103 070,85
+61 627,84
+Isterberg
+50
+37 617,10
+22 491,91
+Itterbeck
+90
+67 710,78
+40 485,44
+Laar
+80
+60 187,36
+35 987,06
+Lage
+50
+37 617,10
+22 491,91
+Neuenhaus, Stadt
+516
+388 208,47
+232 116,54
+Nordhorn, Stadt
+2 344
+1 763 489,62
+1 054 420,85
+Osterwald
+65
+48 902,23
+29 239,49
+Ringe
+98
+73 729,51
+44 084,15
+Samern
+115
+86 519,33
+51 731,40
+Schüttorf, Stadt
+543
+408 521,70
+244 262,17
+Uelsen
+263
+197 865,94
+118 307,46
+Wielen
+25
+18 808,55
+11 245,96
+Wietmarschen
+740
+556 733,07
+332 880,30
+Wilsum
+80
+60 187,36
+35 987,06
+Landkreis Hameln-Pyrmont
+6 743
+5 073 042,03
+3 033 259,30
+Aerzen, Flecken
+500
+376 170,99
+224 919,12
+Bad Münder am Deister, Stadt
+684
+514 601,92
+307 689,36
+Bad Pyrmont, Stadt
+673
+506 326,16
+302 741,14
+Coppenbrügge, Flecken
+234
+176 048,03
+105 262,15
+Emmerthal
+404
+303 946,16
+181 734,65
+Hameln, Stadt
+2 966
+2 231 446,34
+1 334 220,24
+Hessisch Oldendorf, Stadt
+938
+705 696,79
+421 948,28
+Salzhemmendorf, Flecken
+344
+258 805,64
+154 744,36
+Landkreis Harburg
+14 686
+11 048 894,45
+6 606 324,49
+Asendorf
+123
+92 538,06
+55 330,10
+Bendestorf
+160
+120 374,72
+71 974,12
+Brackel
+105
+78 995,91
+47 233,02
+Buchholz in der Nordheide, Stadt
+2 770
+2 083 987,31
+1 246 051,94
+Drage
+183
+137 678,58
+82 320,40
+Egestorf
+238
+179 057,39
+107 061,50
+Eyendorf
+61
+45 892,86
+27 440,13
+Garlstorf
+10
+7 523,42
+4 498,38
+Garstedt
+125
+94 042,75
+56 229,78
+Gödenstorf
+25
+18 808,55
+11 245,96
+Halvesbostel
+25
+18 808,55
+11 245,96
+Handeloh
+120
+90 281,04
+53 980,59
+Hanstedt
+397
+298 679,77
+178 585,78
+Heidenau
+128
+96 299,77
+57 579,30
+Hollenstedt
+354
+266 329,06
+159 242,74
+Jesteburg
+442
+332 535,16
+198 828,50
+Kakenstorf
+110
+82 757,62
+49 482,21
+Marschacht
+207
+155 734,79
+93 116,52
+Marxen
+80
+60 187,36
+35 987,06
+Moisburg
+90
+67 710,78
+40 485,44
+Neu Wulmstorf
+1 230
+925 380,65
+553 301,04
+Otter
+191
+143 697,32
+85 919,11
+Regesbostel
+36
+27 084,31
+16 194,18
+Rosengarten
+999
+751 589,65
+449 388,41
+Salzhausen
+306
+230 216,65
+137 650,50
+Seevetal
+2 018
+1 518 226,13
+907 773,58
+Stelle
+670
+504 069,13
+301 391,63
+Tespe
+208
+156 487,13
+93 566,36
+Toppenstedt
+91
+68 463,12
+40 935,28
+Tostedt
+780
+586 826,75
+350 873,83
+Vierhöfen
+35
+26 331,97
+15 744,34
+Welle
+50
+37 617,10
+22 491,91
+Wenzendorf
+43
+32 350,71
+19 343,04
+Winsen (Luhe), Stadt
+2 093
+1 574 651,78
+941 511,45
+Wistedt
+108
+81 252,93
+48 582,53
+Wulfsen
+75
+56 425,65
+33 737,87
+Landkreis Heidekreis
+6 387
+4 805 208,28
+2 873 116,88
+Ahlden (Aller), Flecken
+75
+56 425,65
+33 737,87
+Bad Fallingbostel, Stadt
+552
+415 292,78
+248 310,71
+Bispingen
+304
+228 711,96
+136 750,83
+Böhme
+25
+18 808,55
+11 245,96
+Buchholz (Aller)
+15
+11 285,13
+6 747,57
+Eickeloh
+25
+18 808,55
+11 245,96
+Essel
+40
+30 093,68
+17 993,53
+Gilten
+25
+18 808,55
+11 245,96
+Grethem
+25
+18 808,55
+11 245,96
+Hademstorf
+35
+26 331,97
+15 744,34
+Häuslingen
+25
+18 808,55
+11 245,96
+Hodenhagen
+243
+182 819,10
+109 310,69
+Lindwedel
+115
+86 519,33
+51 731,40
+Munster, Stadt
+612
+460 433,30
+275 301,01
+Neuenkirchen
+304
+228 711,96
+136 750,83
+Rethem (Aller), Stadt
+101
+75 986,54
+45 433,66
+Schneverdingen, Stadt
+837
+629 710,24
+376 514,61
+Schwarmstedt
+373
+280 623,56
+167 789,67
+Soltau, Stadt
+980
+737 295,15
+440 841,48
+Walsrode, Stadt
+1 420
+1 068 325,62
+638 770,31
+Wietzendorf
+256
+192 599,55
+115 158,59
+Landkreis Helmstedt
+4 499
+3 384 786,61
+2 023 822,27
+Bahrdorf
+148
+111 346,61
+66 576,06
+Danndorf
+130
+97 804,46
+58 478,97
+Frellstedt
+25
+18 808,55
+11 245,96
+Grafhorst
+100
+75 234,20
+44 983,82
+Grasleben
+168
+126 393,45
+75 572,83
+Groß Twülpstedt
+130
+97 804,46
+58 478,97
+Helmstedt, Stadt
+1 136
+854 660,50
+511 016,25
+Jerxheim
+110
+82 757,62
+49 482,21
+Königslutter am Elm, Stadt
+642
+483 003,56
+288 796,15
+Lehre
+667
+501 812,11
+300 042,11
+Mariental
+80
+60 187,36
+35 987,06
+Querenhorst
+25
+18 808,55
+11 245,96
+Räbke
+40
+30 093,68
+17 993,53
+Schöningen, Stadt
+458
+344 572,63
+206 025,92
+Söllingen
+50
+37 617,10
+22 491,91
+Süpplingen
+149
+112 098,96
+67 025,90
+Süpplingenburg
+25
+18 808,55
+11 245,96
+Velpke
+326
+245 263,49
+146 647,27
+Warberg
+50
+37 617,10
+22 491,91
+Wolsdorf
+40
+30 093,68
+17 993,53
+Landkreis Hildesheim
+12 975
+9 761 637,30
+5 836 651,25
+Alfeld (Leine), Stadt
+733
+551 466,68
+329 731,43
+Algermissen
+580
+436 358,35
+260 906,18
+Bad Salzdetfurth, Stadt
+546
+410 778,73
+245 611,68
+Bockenem, Stadt
+402
+302 441,48
+180 834,98
+Diekholzen
+298
+224 197,91
+134 051,80
+Duingen, Flecken
+153
+115 108,32
+68 825,25
+Eime, Flecken
+150
+112 851,30
+67 475,74
+Elze, Stadt
+386
+290 404,01
+173 637,56
+Freden (Leine)
+197
+148 211,37
+88 618,13
+Giesen
+525
+394 979,54
+236 165,08
+Gronau (Leine), Stadt
+375
+282 128,25
+168 689,34
+Harsum
+647
+486 765,27
+291 045,35
+Hildesheim, Stadt
+4 899
+3 685 723,40
+2 203 757,57
+Holle
+411
+309 212,56
+184 883,52
+Lamspringe
+285
+214 417,47
+128 203,90
+Nordstemmen
+560
+421 311,51
+251 909,42
+Sarstedt, Stadt
+875
+658 299,24
+393 608,47
+Schellerten
+406
+305 450,85
+182 634,33
+Sibbesse
+199
+149 716,06
+89 517,81
+Söhlde
+348
+261 815,01
+156 543,71
+Landkreis Holzminden
+2 969
+2 233 703,36
+1 335 569,75
+Bevern, Flecken
+158
+118 870,03
+71 074,44
+Bodenwerder, Münchhausenstad
+195
+146 706,69
+87 718,46
+Boffzen
+94
+70 720,15
+42 284,80
+Brevörde
+25
+18 808,55
+11 245,96
+Deensen
+50
+37 617,10
+22 491,91
+Delligsen, Flecken
+284
+213 665,12
+127 754,06
+Derental
+25
+18 808,55
+11 245,96
+Dielmissen
+43
+32 350,71
+19 343,04
+Eimen
+25
+18 808,55
+11 245,96
+Eschershausen, Stadt
+111
+83 509,96
+49 932,05
+Fürstenberg
+50
+37 617,10
+22 491,91
+Golmbach
+105
+78 995,91
+47 233,02
+Halle
+70
+52 663,94
+31 488,68
+Hehlen
+50
+37 617,10
+22 491,91
+Heinade
+24
+18 056,21
+10 796,12
+Heinsen
+40
+30 093,68
+17 993,53
+Heyen
+25
+18 808,55
+11 245,96
+Holzen
+24
+18 056,21
+10 796,12
+Holzminden, Stadt
+1 034
+777 921,62
+465 132,75
+Kirchbrak
+60
+45 140,52
+26 990,29
+Lauenförde, Flecken
+89
+66 958,44
+40 035,60
+Ottenstein, Flecken
+57
+42 883,49
+25 640,78
+Polle, Flecken
+39
+29 341,34
+17 543,69
+Stadtoldendorf, Stadt
+292
+219 683,86
+131 352,77
+Landkreis Leer
+7 534
+5 668 144,54
+3 389 081,35
+Borkum, Stadt
+156
+117 365,35
+70 174,77
+Bunde
+390
+293 413,38
+175 436,92
+Detern, Flecken
+108
+81 252,93
+48 582,53
+Filsum
+124
+93 290,41
+55 779,94
+Firrel
+35
+26 331,97
+15 744,34
+Hesel
+185
+139 183,27
+83 220,08
+Holtland
+160
+120 374,72
+71 974,12
+Jemgum
+173
+130 155,16
+77 822,02
+Leer (Ostfriesland), Stadt
+1 604
+1 206 756,55
+721 540,55
+Moormerland
+903
+679 364,82
+406 203,94
+Neukamperfehn
+75
+56 425,65
+33 737,87
+Nortmoor
+93
+69 967,80
+41 834,96
+Ostrhauderfehn
+522
+392 722,52
+234 815,56
+Rhauderfehn
+742
+558 237,76
+333 779,98
+Uplengen
+583
+438 615,38
+262 255,70
+Weener, Stadt
+630
+473 975,45
+283 398,10
+Westoverledingen
+1 051
+790 711,43
+472 780,00
+Landkreis Lüchow-Dannenberg*)
+2 083
+1 567 128,36
+937 013,07
+Landkreis Lüneburg
+5 401
+4 063 399,08
+2 429 576,37
+Adendorf
+460
+346 077,31
+206 925,59
+Amelinghausen
+190
+142 944,98
+85 469,27
+Amt Neuhaus
+294
+221 188,54
+132 252,44
+Artlenburg, Flecken
+138
+103 823,19
+62 077,68
+Bardowick, Flecken
+339
+255 043,93
+152 495,17
+Barendorf
+275
+206 894,05
+123 705,52
+Barum
+108
+81 252,93
+48 582,53
+Betzendorf
+45
+33 855,39
+20 242,72
+Bleckede, Stadt
+355
+267 081,41
+159 692,58
+Brietlingen
+164
+123 384,09
+73 773,47
+Dahlenburg, Flecken
+199
+149 716,06
+89 517,81
+Deutsch Evern
+238
+179 057,39
+107 061,50
+Echem
+20
+15 046,84
+8 996,76
+Embsen
+105
+78 995,91
+47 233,02
+Handorf
+70
+52 663,94
+31 488,68
+Hohnstorf (Elbe)
+115
+86 519,33
+51 731,40
+Kirchgellersen
+153
+115 108,32
+68 825,25
+Lüdersburg
+99
+74 481,86
+44 533,99
+Mechtersen
+20
+15 046,84
+8 996,76
+Melbeck
+263
+197 865,94
+118 307,46
+Nahrendorf
+15
+11 285,13
+6 747,57
+Neetze
+208
+156 487,13
+93 566,36
+Oldendorf (Luhe)
+25
+18 808,55
+11 245,96
+Radbruch
+165
+124 136,43
+74 223,31
+Rehlingen
+25
+18 808,55
+11 245,96
+Reppenstedt
+319
+239 997,09
+143 498,40
+Rullstorf
+115
+86 519,33
+51 731,40
+Scharnebeck
+214
+161 001,19
+96 265,38
+Soderstorf
+85
+63 949,07
+38 236,25
+Südergellersen
+100
+75 234,20
+44 983,82
+Thomasburg
+65
+48 902,23
+29 239,49
+Tosterglope
+50
+37 617,10
+22 491,91
+Vögelsen
+30
+22 570,26
+13 495,15
+Wendisch Evern
+123
+92 538,06
+55 330,10
+Westergellersen
+144
+108 337,25
+64 776,71
+Wittorf
+68
+51 159,26
+30 589,00
+Landkreis Nienburg (Weser)
+5 122
+3 853 495,67
+2 304 071,50
+Balge
+33
+24 827,29
+14 844,66
+Binnen
+62
+46 645,20
+27 889,97
+Bücken, Flecken
+105
+78 995,91
+47 233,02
+Diepenau, Flecken
+155
+116 613,01
+69 724,93
+Drakenburg, Flecken
+49
+36 864,76
+22 042,07
+Estorf
+83
+62 444,39
+37 336,57
+Eystrup
+163
+122 631,74
+73 323,63
+Haßbergen
+42
+31 598,36
+18 893,21
+Hassel (Weser)
+67
+50 406,91
+30 139,16
+Heemsen
+185
+139 183,27
+83 220,08
+Hilgermissen
+76
+57 177,99
+34 187,71
+Hoya, Stadt
+144
+108 337,25
+64 776,71
+Hoyerhagen
+23
+17 303,87
+10 346,28
+Husum
+120
+90 281,04
+53 980,59
+Landesbergen
+130
+97 804,46
+58 478,97
+Leese
+105
+78 995,91
+47 233,02
+Liebenau, Flecken
+120
+90 281,04
+53 980,59
+Linsburg
+30
+22 570,26
+13 495,15
+Marklohe
+170
+127 898,14
+76 472,50
+Nienburg (Weser), Stadt
+1 288
+969 016,48
+579 391,66
+Pennigsehl
+65
+48 902,23
+29 239,49
+Raddestorf
+40
+30 093,68
+17 993,53
+Rehburg-Loccum, Stadt
+414
+311 469,58
+186 233,03
+Rodewald
+158
+118 870,03
+71 074,44
+Steimbke
+128
+96 299,77
+57 579,30
+Steyerberg, Flecken
+216
+162 505,87
+97 165,06
+Stöckse
+57
+42 883,49
+25 640,78
+Stolzenau
+361
+271 595,46
+162 391,61
+Uchte, Flecken
+257
+193 351,89
+115 608,43
+Warmsen
+140
+105 327,88
+62 977,35
+Warpe
+31
+23 322,60
+13 944,99
+Wietzen
+105
+78 995,91
+47 233,02
+Landkreis Northeim
+5 509
+4 144 652,02
+2 478 158,90
+Bad Gandersheim, Stadt
+401
+301 689,14
+180 385,14
+Bodenfelde, Flecken
+102
+76 738,88
+45 883,50
+Dassel, Stadt
+353
+265 576,72
+158 792,90
+Einbeck, Stadt
+1 274
+958 483,69
+573 093,93
+Hardegsen, Stadt
+346
+260 310,33
+155 644,03
+Kalefeld
+290
+218 179,18
+130 453,09
+Katlenburg-Lindau
+370
+278 366,54
+166 440,15
+Moringen, Stadt
+250
+188 085,50
+112 459,56
+Nörten-Hardenberg, Flecken
+448
+337 049,21
+201 527,53
+Northeim, Stadt
+1 169
+879 487,78
+525 860,91
+Uslar, Stadt
+506
+380 685,05
+227 618,15
+Landkreis Oldenburg (Oldenburg)
+6 144
+4 622 389,18
+2 763 806,19
+Beckeln
+18
+13 542,16
+8 097,09
+Colnrade
+25
+18 808,55
+11 245,96
+Dötlingen
+351
+264 072,04
+157 893,22
+Dünsen
+55
+41 378,81
+24 741,10
+Ganderkesee
+1 454
+1 093 905,25
+654 064,81
+Groß Ippener
+25
+18 808,55
+11 245,96
+Großenkneten
+724
+544 695,60
+325 682,89
+Harpstedt, Flecken
+228
+171 533,97
+102 563,12
+Hatten
+574
+431 844,30
+258 207,15
+Hude (Oldb)
+703
+528 896,42
+316 236,29
+Kirchseelte
+18
+13 542,16
+8 097,09
+Prinzhöfte
+36
+27 084,31
+16 194,18
+Wardenburg
+921
+692 906,97
+414 301,03
+Wildeshausen, Stadt
+1 012
+761 370,09
+455 236,31
+Landkreis Osnabrück
+17 189
+12 932 006,44
+7 732 269,62
+Alfhausen
+245
+184 323,79
+110 210,37
+Ankum
+411
+309 212,56
+184 883,52
+Bad Essen
+768
+577 798,65
+345 475,77
+Bad Iburg, Stadt
+409
+307 707,87
+183 983,84
+Bad Laer
+446
+335 544,53
+200 627,86
+Bad Rothenfelde
+285
+214 417,47
+128 203,90
+Badbergen
+136
+102 318,51
+61 178,00
+Belm
+688
+517 611,29
+309 488,71
+Berge
+168
+126 393,45
+75 572,83
+Bersenbrück, Stadt
+436
+328 021,11
+196 129,48
+Bippen
+131
+98 556,80
+58 928,81
+Bissendorf
+912
+686 135,89
+410 252,48
+Bohmte
+636
+478 489,50
+286 097,12
+Bramsche, Stadt
+1 319
+992 339,08
+593 336,65
+Dissen am Teutoburger Wald
+564
+424 320,88
+253 708,77
+Eggermühlen
+116
+87 271,67
+52 181,24
+Fürstenau, Stadt
+517
+388 960,81
+232 566,37
+Gehrde
+200
+150 468,40
+89 967,65
+Georgsmarienhütte, Stadt
+1 221
+918 609,57
+549 252,50
+Glandorf
+352
+264 824,38
+158 343,06
+Hagen am Teutoburger Wald
+609
+458 176,27
+273 951,49
+Hasbergen
+553
+416 045,12
+248 760,55
+Hilter am Teutoburger Wald
+530
+398 741,25
+238 414,27
+Kettenkamp
+111
+83 509,96
+49 932,05
+Melle, Stadt
+2 144
+1 613 021,22
+964 453,20
+Menslage
+120
+90 281,04
+53 980,59
+Merzen
+220
+165 515,24
+98 964,41
+Neuenkirchen
+275
+206 894,05
+123 705,52
+Nortrup
+145
+109 089,59
+65 226,55
+Ostercappeln
+427
+321 250,03
+192 080,93
+Quakenbrück, Stadt
+765
+575 541,62
+344 126,26
+Rieste
+170
+127 898,14
+76 472,50
+Voltlage
+93
+69 967,80
+41 834,96
+Wallenhorst
+1 067
+802 748,90
+479 977,41
+Landkreis Osterholz
+5 809
+4 370 354,61
+2 613 110,37
+Axstedt
+60
+45 140,52
+26 990,29
+Grasberg
+482
+362 628,84
+216 822,03
+Hambergen
+246
+185 076,13
+110 660,21
+Holste
+54
+40 626,47
+24 291,27
+Lilienthal
+1 031
+775 664,59
+463 783,23
+Osterholz-Scharmbeck, Stadt
+1 544
+1 161 616,03
+694 550,25
+Ritterhude
+795
+598 111,88
+357 621,41
+Schwanewede
+1 040
+782 435,67
+467 831,78
+Vollersode
+130
+97 804,46
+58 478,97
+Worpswede
+427
+321 250,03
+192 080,93
+Landkreis Peine
+6 858
+5 159 561,36
+3 084 990,69
+Edemissen
+631
+474 727,79
+283 847,93
+Hohenhameln
+430
+323 507,06
+193 430,45
+Lengede
+835
+628 205,56
+375 614,94
+Peine, Stadt
+2 154
+1 620 544,64
+968 951,58
+Vechelde
+1 304
+981 053,95
+586 589,07
+Wendeburg
+681
+512 344,89
+306 339,85
+Ilsede
+823
+619 177,46
+370 216,88
+Landkreis Rotenburg (Wümme)
+7 937
+5 971 338,36
+3 570 366,16
+Ahausen
+90
+67 710,78
+40 485,44
+Alfstedt
+113
+85 014,64
+50 831,72
+Anderlingen
+25
+18 808,55
+11 245,96
+Basdahl
+65
+48 902,23
+29 239,49
+Bötersen
+70
+52 663,94
+31 488,68
+Bothel
+115
+86 519,33
+51 731,40
+Breddorf
+35
+26 331,97
+15 744,34
+Bremervörde, Stadt
+747
+561 999,47
+336 029,17
+Brockel
+138
+103 823,19
+62 077,68
+Bülstedt
+25
+18 808,55
+11 245,96
+Deinstedt
+25
+18 808,55
+11 245,96
+Elsdorf
+103
+77 491,22
+46 333,34
+Farven
+40
+30 093,68
+17 993,53
+Fintel
+120
+90 281,04
+53 980,59
+Gnarrenburg
+399
+300 184,45
+179 485,46
+Gyhum
+105
+78 995,91
+47 233,02
+Hassendorf
+65
+48 902,23
+29 239,49
+Heeslingen
+233
+175 295,68
+104 812,31
+Hellwege
+64
+48 149,89
+28 789,65
+Helvesiek
+36
+27 084,31
+16 194,18
+Hemsbünde
+65
+48 902,23
+29 239,49
+Hemslingen
+65
+48 902,23
+29 239,49
+Hepstedt
+60
+45 140,52
+26 990,29
+Hipstedt
+35
+26 331,97
+15 744,34
+Horstedt
+75
+56 425,65
+33 737,87
+Kirchtimke
+56
+42 131,15
+25 190,94
+Kirchwalsede
+102
+76 738,88
+45 883,50
+Klein Meckelsen
+108
+81 252,93
+48 582,53
+Lauenbrück
+143
+107 584,90
+64 326,87
+Oerel
+139
+104 575,54
+62 527,52
+Ostereistedt
+50
+37 617,10
+22 491,91
+Reeßum
+75
+56 425,65
+33 737,87
+Rhade
+51
+38 369,44
+22 941,75
+Rotenburg (Wümme), Stadt
+1 083
+814 786,37
+487 174,82
+Sandbostel
+25
+18 808,55
+11 245,96
+Scheeßel
+509
+382 942,07
+228 967,67
+Seedorf
+35
+26 331,97
+15 744,34
+Selsingen
+217
+163 258,21
+97 614,90
+Sittensen
+436
+328 021,11
+196 129,48
+Sottrum
+349
+262 567,35
+156 993,55
+Stemmen
+25
+18 808,55
+11 245,96
+Tarmstedt
+203
+152 725,42
+91 317,16
+Tiste
+103
+77 491,22
+46 333,34
+Vahlde
+40
+30 093,68
+17 993,53
+Visselhövede, Stadt
+471
+354 353,08
+211 873,81
+Vorwerk
+35
+26 331,97
+15 744,34
+Wilstedt
+98
+73 729,51
+44 084,15
+Wohnste
+50
+37 617,10
+22 491,91
+Zeven, Stadt
+621
+467 204,37
+279 349,55
+Landkreis Schaumburg
+7 313
+5 501 876,96
+3 289 667,10
+Apelern
+70
+52 663,94
+31 488,68
+Auetal
+290
+218 179,18
+130 453,09
+Auhagen
+65
+48 902,23
+29 239,49
+Bad Nenndorf, Stadt
+642
+483 003,56
+288 796,15
+Beckedorf
+65
+48 902,23
+29 239,49
+Bückeburg, Stadt
+937
+704 944,44
+421 498,44
+Hagenburg, Flecken
+173
+130 155,16
+77 822,02
+Haste
+127
+95 547,43
+57 129,46
+Heeßen
+260
+195 608,92
+116 957,94
+Hespe
+90
+67 710,78
+40 485,44
+Heuerßen
+40
+30 093,68
+17 993,53
+Hohnhorst
+160
+120 374,72
+71 974,12
+Hülsede
+15
+11 285,13
+6 747,57
+Lauenau, Flecken
+225
+169 276,95
+101 213,61
+Lauenhagen
+40
+30 093,68
+17 993,53
+Lindhorst
+149
+112 098,96
+67 025,90
+Lüdersfeld
+60
+45 140,52
+26 990,29
+Meerbeck
+65
+48 902,23
+29 239,49
+Niedernwöhren
+134
+100 813,83
+60 278,33
+Nienstädt
+260
+195 608,92
+116 957,94
+Nordsehl
+65
+48 902,23
+29 239,49
+Obernkirchen, Stadt
+410
+308 460,22
+184 433,68
+Pohle
+55
+41 378,81
+24 741,10
+Pollhagen
+25
+18 808,55
+11 245,96
+Rinteln, Stadt
+999
+751 589,65
+449 388,41
+Rodenberg, Stadt
+325
+244 511,15
+146 197,43
+Sachsenhagen, Stadt
+90
+67 710,78
+40 485,44
+Seggebruch
+238
+179 057,39
+107 061,50
+Stadthagen, Stadt
+1 059
+796 730,17
+476 378,70
+Suthfeld
+80
+60 187,36
+35 987,06
+Wiedensahl, Flecken
+50
+37 617,10
+22 491,91
+Wölpinghausen
+50
+37 617,10
+22 491,91
+Landkreis Stade
+8 926
+6 715 404,59
+4 015 256,19
+Agathenburg
+79
+59 435,02
+35 537,22
+Ahlerstedt
+303
+227 959,62
+136 300,99
+Apensen
+265
+199 370,63
+119 207,14
+Balje
+25
+18 808,55
+11 245,96
+Bargstedt
+158
+118 870,03
+71 074,44
+Beckdorf
+145
+109 089,59
+65 226,55
+Bliedersdorf
+83
+62 444,39
+37 336,57
+Brest
+40
+30 093,68
+17 993,53
+Burweg
+58
+43 635,84
+26 090,62
+Deinste
+95
+71 472,49
+42 734,63
+Dollern
+122
+91 785,72
+54 880,27
+Drochtersen
+611
+459 680,96
+274 851,17
+Düdenbüttel
+61
+45 892,86
+27 440,13
+Engelschoff
+35
+26 331,97
+15 744,34
+Estorf
+65
+48 902,23
+29 239,49
+Fredenbeck
+343
+258 053,30
+154 294,52
+Freiburg (Elbe), Flecken
+34
+25 579,63
+15 294,50
+Großenwörden
+25
+18 808,55
+11 245,96
+Hammah
+183
+137 678,58
+82 320,40
+Harsefeld, Flecken
+801
+602 625,93
+360 320,44
+Heinbockel
+65
+48 902,23
+29 239,49
+Himmelpforten
+328
+246 768,17
+147 546,94
+Hollern-Twielenfleth
+128
+96 299,77
+57 579,30
+Horneburg, Flecken
+406
+305 450,85
+182 634,33
+Jork
+734
+552 219,02
+330 181,27
+Kranenburg
+65
+48 902,23
+29 239,49
+Krummendeich
+25
+18 808,55
+11 245,96
+Kutenholz
+200
+150 468,40
+89 967,65
+Neuenkirchen
+110
+82 757,62
+49 482,21
+Nottensdorf
+130
+97 804,46
+58 478,97
+Oederquart
+25
+18 808,55
+11 245,96
+Oldendorf
+145
+109 089,59
+65 226,55
+Sauensiek
+195
+146 706,69
+87 718,46
+Stade, Hansestadt
+2 458
+1 849 256,61
+1 105 702,41
+Steinkirchen
+261
+196 361,26
+117 407,78
+Wischhafen
+120
+90 281,04
+53 980,59
+Landkreis Uelzen
+3 997
+3 007 110,93
+1 798 003,47
+Altenmedingen
+41
+30 846,02
+18 443,37
+Bad Bevensen, Stadt
+387
+291 156,35
+174 087,40
+Barum
+45
+33 855,39
+20 242,72
+Bienenbüttel
+313
+235 483,04
+140 799,37
+Bad Bodenteich, Flecken
+243
+182 819,10
+109 310,69
+Ebstorf, Klosterflecken
+277
+208 398,73
+124 605,19
+Eimke
+35
+26 331,97
+15 744,34
+Emmendorf
+24
+18 056,21
+10 796,12
+Gerdau
+57
+42 883,49
+25 640,78
+Hanstedt
+50
+37 617,10
+22 491,91
+Himbergen
+128
+96 299,77
+57 579,30
+Jelmstorf
+18
+13 542,16
+8 097,09
+Natendorf
+25
+18 808,55
+11 245,96
+Oetzen
+43
+32 350,71
+19 343,04
+Rosche
+120
+90 281,04
+53 980,59
+Schwienau
+25
+18 808,55
+11 245,96
+Suderburg
+228
+171 533,97
+102 563,12
+Suhlendorf
+120
+90 281,04
+53 980,59
+Uelzen, Hansestadt
+1 312
+987 072,69
+590 187,78
+Weste
+40
+30 093,68
+17 993,53
+Wrestedt
+378
+284 385,27
+170 038,86
+Wriedel
+88
+66 206,10
+39 585,77
+Landkreis Vechta
+8 168
+6 145 129,36
+3 674 278,80
+Bakum
+484
+364 133,52
+217 721,71
+Damme, Stadt
+910
+684 631,21
+409 352,80
+Dinklage, Stadt
+727
+546 952,63
+327 032,41
+Goldenstedt
+599
+450 652,85
+269 453,11
+Holdorf
+471
+354 353,08
+211 873,81
+Lohne (Oldenburg), Stadt
+1 403
+1 055 535,81
+631 123,06
+Neuenkirchen-Vörden
+544
+409 274,04
+244 712,01
+Steinfeld (Oldenburg)
+608
+457 423,93
+273 501,65
+Vechta, Stadt
+1 745
+1 312 836,77
+784 967,74
+Visbek
+677
+509 335,53
+304 540,49
+Landkreis Verden
+7 285
+5 480 811,39
+3 277 071,63
+Achim, Stadt
+1 917
+1 442 239,59
+862 339,92
+Blender
+120
+90 281,04
+53 980,59
+Dörverden
+445
+334 792,18
+200 178,02
+Emtinghausen
+68
+51 159,26
+30 589,00
+Kirchlinteln
+467
+351 343,71
+210 074,46
+Langwedel, Flecken
+760
+571 779,91
+341 877,07
+Ottersberg, Flecken
+655
+492 784,00
+294 644,05
+Oyten
+857
+644 757,08
+385 511,38
+Riede
+232
+174 543,34
+104 362,47
+Thedinghausen
+419
+315 231,29
+188 482,23
+Verden (Aller), Stadt
+1 345
+1 011 899,97
+605 032,44
+Landkreis Wesermarsch
+4 081
+3 070 307,66
+1 835 789,88
+Berne
+249
+187 333,16
+112 009,72
+Brake (Unterweser), Stadt
+690
+519 115,97
+310 388,39
+Butjadingen
+199
+149 716,06
+89 517,81
+Elsfleth, Stadt
+403
+303 193,82
+181 284,81
+Jade
+369
+277 614,19
+165 990,31
+Lemwerder
+386
+290 404,01
+173 637,56
+Nordenham, Stadt
+1 086
+817 043,40
+488 524,34
+Ovelgönne
+291
+218 931,52
+130 902,93
+Stadland
+408
+306 955,53
+183 534,00
+Landkreis Wittmund
+2 225
+1 673 960,92
+1 000 890,10
+Blomberg
+105
+78 995,91
+47 233,02
+Esens, Stadt
+327
+246 015,83
+147 097,11
+Eversmeer
+43
+32 350,71
+19 343,04
+Friedeburg
+498
+374 666,31
+224 019,45
+Holtgast
+50
+37 617,10
+22 491,91
+Langeoog
+58
+43 635,84
+26 090,62
+Moorweg
+50
+37 617,10
+22 491,91
+Neuharlingersiel
+25
+18 808,55
+11 245,96
+Neuschoo
+43
+32 350,71
+19 343,04
+Ochtersum
+45
+33 855,39
+20 242,72
+Spiekeroog
+38
+28 589,00
+17 093,85
+Stedesdorf
+35
+26 331,97
+15 744,34
+Utarp
+50
+37 617,10
+22 491,91
+Werdum
+34
+25 579,63
+15 294,50
+Westerholt
+105
+78 995,91
+47 233,02
+Wittmund, Stadt
+719
+540 933,89
+323 433,70
+Landkreis Wolfenbüttel
+6 114
+4 599 818,92
+2 750 311,04
+Baddeckenstedt
+145
+109 089,59
+65 226,55
+Börßum
+166
+124 888,77
+74 673,15
+Burgdorf
+132
+99 309,14
+59 378,65
+Cramme
+40
+30 093,68
+17 993,53
+Cremlingen
+700
+526 639,39
+314 886,77
+Dahlum
+25
+18 808,55
+11 245,96
+Denkte
+125
+94 042,75
+56 229,78
+Dettum
+87
+65 453,75
+39 135,93
+Dorstadt
+58
+43 635,84
+26 090,62
+Elbe
+133
+100 061,48
+59 828,49
+Erkerode
+60
+45 140,52
+26 990,29
+Evessen
+65
+48 902,23
+29 239,49
+Flöthe
+40
+30 093,68
+17 993,53
+Haverlah
+65
+48 902,23
+29 239,49
+Heere
+60
+45 140,52
+26 990,29
+Heiningen
+10
+7 523,42
+4 498,38
+Kissenbrück
+111
+83 509,96
+49 932,05
+Kneitlingen
+18
+13 542,16
+8 097,09
+Remlingen-Semmenstedt
+125
+94 042,75
+56 229,78
+Roklum
+25
+18 808,55
+11 245,96
+Schladen-Werla
+439
+330 278,13
+197 478,99
+Schöppenstedt, Stadt
+275
+206 894,05
+123 705,52
+Sickte
+383
+288 146,98
+172 288,05
+Uehrde
+25
+18 808,55
+11 245,96
+Veltheim (Ohe)
+45
+33 855,39
+20 242,72
+Winnigstedt
+51
+38 369,44
+22 941,75
+Wittmar
+51
+38 369,44
+22 941,75
+Wolfenbüttel, Stadt
+2 655
+1 997 467,98
+1 194 320,54
+Region Hannover
+23 582
+17 741 728,78
+10 608 085,53
+Barsinghausen, Stadt
+1 383
+1 040 488,97
+622 126,29
+Burgwedel, Stadt
+1 137
+855 412,84
+511 466,09
+Garbsen, Stadt
+3 043
+2 289 376,67
+1 368 857,78
+Gehrden, Stadt
+819
+616 168,09
+368 417,52
+Hemmingen, Stadt
+1 066
+801 996,56
+479 527,57
+Isernhagen
+1 474
+1 108 952,09
+663 061,58
+Neustadt am Rübenberge, Stadt
+2 535
+1 907 186,94
+1 140 339,95
+Pattensen, Stadt
+915
+688 392,92
+411 602,00
+Ronnenberg, Stadt
+1 266
+952 464,96
+569 495,22
+Seelze, Stadt
+1 581
+1 189 452,68
+711 194,27
+Sehnde, Stadt
+705
+530 401,10
+317 135,96
+Springe, Stadt
+1 348
+1 014 157,00
+606 381,96
+Uetze
+1 055
+793 720,80
+474 579,35
+Wedemark
+1 913
+1 439 230,22
+860 540,57
+Wennigsen (Deister)
+1 008
+758 360,72
+453 436,95
+Wunstorf, Stadt
+2 334
+1 755 966,20
+1 049 922,47
+Stadt Braunschweig
+13 112
+9 864 708,16
+5 898 279,09
+Stadt Burgdorf
+1 469
+1 105 190,38
+660 812,38
+Stadt Buxtehude
+1 598
+1 202 242,50
+718 841,52
+Stadt Delmenhorst
+2 918
+2 195 333,92
+1 312 628,00
+Stadt Emden
+2 147
+1 615 278,25
+965 802,72
+Stadt Göttingen
+5 863
+4 410 981,08
+2 637 401,64
+Stadt Laatzen
+2 260
+1 700 292,89
+1 016 634,44
+Stadt Langenhagen
+2 699
+2 030 571,03
+1 214 113,43
+Stadt Lehrte
+2 199
+1 654 400,03
+989 194,30
+Stadt Lingen (Ems)
+3 118
+2 345 802,32
+1 402 595,65
+Stadt Oldenburg (Oldb)
+8 158
+6 137 605,94
+3 669 780,41
+Stadt Osnabrück
+8 201
+6 169 956,65
+3 689 123,46
+Stadt Salzgitter
+4 599
+3 460 020,81
+2 068 806,10
+Stadt Wilhelmshaven
+2 554
+1 921 481,44
+1 148 886,88
+Stadt Wolfsburg
+6 307
+4 745 020,92
+2 837 129,82
+Datengrundlage: Statistik der Kinder- und Jugendhilfe
+Da der Landkreis selbst für die Aufgaben der Kindertagesbetreuung zuständig ist, wird hier von einer Auflistung der kreisangehörigen Gemeinden abgesehen.
+Außer Kraft am 1. August 2027 durch § 4 der Verordnung vom 18. Juni 2026 (Nds. GVBl. 2026 Nr. 41)
