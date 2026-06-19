@@ -1229,7 +1229,13 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 246a
 
 
-#### Art 246b Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen
+#### Art 246b Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen; Gestaltung der Online-Benutzeroberfläche
+
+
+#### Art 246b
+
+
+#### Art 246b
 
 
 #### Art 246b

@@ -302,4 +302,4 @@
 - [§ 214 Schlichtungsstelle](0214.md)
 - [§ 215 Gerichtsstand](0215.md)
 - [§ 216 Prozessstandschaft bei Versicherermehrheit](0216.md)
-- [Anlage (zu § 8 Absatz 4 Satz 1) Muster für die Widerrufsbelehrung](anlage.md)
+- [Anlage (zu § 8 Absatz 5 Satz 1) Muster für die Widerrufsbelehrung](anlage.md)
