@@ -10,7 +10,7 @@ Abschnitt 2 Beamtenverhältnis
 § 6 | Ehrenbeamtinnen und Ehrenbeamte (§ 5 des Beamtenstatusgesetzes)
 § 7 | Beamtinnen und Beamte auf Zeit (§ 6 des Beamtenstatusgesetzes)
 § 8 | Überprüfung der Verfassungstreue und Ausnahmen von der Staatsangehörigkeit (§ 7 des Beamtenstatusgesetzes)
-§ 9 | Zuständigkeit für die Ernennung, Wirkung der Ernennung (§ 8 des Beamtenstatusgesetzes)
+§ 9 | Zuständigkeit für die Ernennung, Wirkung der Ernennung, Informationen bei Begründung oder Umwandlung eines Beamtenverhältnisses (§ 8 des Beamtenstatusgesetzes)
 § 10 | Stellenausschreibung, Feststellung der gesundheitlichen Eignung (§ 9 des Beamtenstatusgesetzes)
 § 11 | Feststellung der Nichtigkeit der Ernennung, Verbot der Führung der Dienstgeschäfte (§ 11 des Beamtenstatusgesetzes)
 § 12 | Rücknahme der Ernennung (§ 12 des Beamtenstatusgesetzes)
@@ -29,7 +29,7 @@ Abschnitt 3 Laufbahnen
 § 24 | Laufbahnwechsel
 § 25 | Laufbahnverordnungen
 § 26 | Ausbildungs- und Prüfungsordnungen
-Abschnitt 4 Landesinterne Abordnung und Versetzung
+Abschnitt 4 Informationspflichten bei Abordnung und Versetzung, landesinterne Abordnung und Versetzung
 § 27 | Grundsatz (§ 13 des Beamtenstatusgesetzes)
 § 28 | Abordnung
 § 29 | Versetzung
