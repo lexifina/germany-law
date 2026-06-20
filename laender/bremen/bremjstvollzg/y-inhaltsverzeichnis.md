@@ -110,6 +110,7 @@ Abschnitt 15 Aufbau der Jugendstrafvollzugsanstalt
 § 100 | Einrichtungen zur schulischen und beruflichen Bildung, Arbeitsbetriebe
 § 101 | Anstaltsleitung
 § 102 | Bedienstete
+§ 102a | Hilfsbeamtinnen und Hilfsbeamte
 § 103 | Seelsorger
 § 104 | Medizinische Versorgung
 § 105 | Sozialtherapeutisches Angebot
