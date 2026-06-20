@@ -72,6 +72,7 @@ Erster Teil: Das Recht der Polizei
 § 55a | Informationsaustausch zwischen Mitgliedstaaten der Europäischen Union und Schengen-assoziierten Staaten gemäß der Richtlinie (EU) 2023/977
 § 56 | Bereitstellung von Daten an Kontrollgremien
 § 57 | Übermittlung von Daten durch nicht öffentliche Stellen an den Polizeivollzugsdienst
+§ 57a | Ersuchen auf Übermittlung von personenbezogenen Daten
 5. Unterabschnitt: Berichtigung, Löschung und Einschränkung der Datenverarbeitung
 § 58 | Berichtigung, Löschung und Einschränkung der Datenverarbeitung
 4. Abschnitt: Besondere Bestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680
