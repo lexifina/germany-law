@@ -17,6 +17,7 @@ Abschnitt 3 Speicherung und Nutzung, Aktenführung
 Abschnitt 4 Übermittlung
 § 12 | Übermittlung an öffentliche und nichtöffentliche Stellen, Einrichtung automatisierter Übermittlungsverfahren
 § 13 | Sicherheitsrelevante Erkenntnisse
+§ 13a | Zuverlässigkeitsüberprüfung von Beschäftigten im Justizvollzug
 § 14 | Überprüfung Gefangener
 § 15 | Überprüfung anstaltsfremder Personen
 § 16 | Fallkonferenzen
