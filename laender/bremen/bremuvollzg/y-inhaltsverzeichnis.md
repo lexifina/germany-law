@@ -93,6 +93,7 @@ Abschnitt 12 Aufbau der Anstalt
 § 78 | Arbeitsbetriebe, Einrichtungen zur schulischen und beruflichen Bildung
 § 79 | Anstaltsleitung
 § 80 | Bedienstete
+§ 80a | Hilfsbeamtinnen und Hilfsbeamte
 § 81 | Seelsorgerinnen und Seelsorger
 § 82 | Medizinische Versorgung
 § 83 | Mitverantwortung der Untersuchungsgefangenen
