@@ -2,9 +2,10 @@
 Inhaltsverzeichnis
 Abschnitt 1 Allgemeine Vorschriften
 § 1 | Anwendungsbereich und Zweck des Gesetzes
-§ 2 | Sicherheitsempfindliche Tätigkeiten
+§ 2 | Sicherheitsempfindliche Tätigkeiten, Verordnungsermächtigung
 § 3 | Betroffener Personenkreis
 § 4 | Zuständigkeit
+§ 4a | Geheim- und Sabotageschutzbeauftragte
 § 5 | Verschlußsachen
 § 6 | Sicherheitsrisiken, sicherheitserhebliche Erkenntnisse
 § 7 | Rechte und Pflichten der betroffenen und der einbezogenen Person
@@ -12,7 +13,7 @@ Abschnitt 2 Überprüfungsarten und Durchführungsmaßnahmen
 § 8 | Arten der Sicherheitsüberprüfung
 § 9 | Einfache Sicherheitsüberprüfung
 § 10 | Erweiterte Sicherheitsüberprüfung
-§ 11 | Erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+§ 11 | Erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen, Verordnungsermächtigung
 § 12 | Datenerhebung
 § 13 | Maßnahmen bei den einzelnen Überprüfungsarten
 Abschnitt 3 Verfahren
@@ -39,5 +40,5 @@ Abschnitt 5 Sonderregelungen bei Sicherheitsüberprüfungen für nicht-öffentli
 § 32 | Datenverarbeitung, -nutzung und -berichtigung in automatisierten Dateien
 Abschnitt 6 Reisebeschränkungen und Schlußvorschriften
 § 33 | Reisebeschränkungen
-§ 34 | Allgemeine Verwaltungsvorschriften
+§ 34 | Ausführungsbestimmungen
 § 35 | Inkrafttreten
