@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-22T17:00:00+02:00
+- Ende: 2026-06-22T18:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34207
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34207
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Girls´Day und Boys´Day 2026 - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Ukrainereise des Oberbürgermeisters - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung von mündlichen Anfragen zum Antrag "Ausweitung der bestehenden Böllerverbotszone" (AN/0108/2026) - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage zur Vorlage 0870/2026 - Sachstandsbericht zur Zukunft des Abendmarktes auf dem Rudolfplatz - vertagt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bericht der Behindertenbeauftragten der Stadt Köln 02/2026 - Kenntnis genommen
+- TOP 4.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - Kenntnis genommen
+- TOP 4.3: Stellenplan für die Jahre 2025/2026 Mitteilung der Verwaltung über die Entwicklung der Nachbesetzungsstrategie - Kenntnis genommen
+- TOP 4.4: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Kenntnis genommen
+- TOP 4.5: Überörtliche Prüfung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW 2024/2025 - Kenntnis genommen
+- TOP 4.6: Bericht für das 1. Halbjahr 2026 des Zentrums für Kriminalprävention und Sicherheit - Kenntnis genommen
+- TOP 4.7: Personalbericht 2025 - vertagt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion Die Linke betreffend "Anerkennung von Pässen, die durch die Taliban ausgestellt wurden" (AN/0832/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage zur Annerkenung von Pässen, die durch die Taliban ausgestellt wurden - Kenntnis genommen
+- TOP 6.2: Anfrage der AfD - Fraktion betreffend "Runder Tisch Kölner Karneval – Sachstand" (AN/0887/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der AfD - Fraktion betreffend "Runder Tisch Kölner Karneval – Sachstand" (AN/0887/2026) - Kenntnis genommen
+- TOP 6.3: Anfrage der SPD - Fraktion betreffend "Passbeschaffungspflicht für afghanische Staatsangehörige in Köln" (AN/1059/2026) - vertagt
+- TOP -: Beantwortung einer Anfrage der SPD - Fraktion betreffend "Passbeschaffungspflicht für afghanische Staatsangehörige in Köln" (AN/1059/2026) - vertagt
+- TOP 6.4: Anfrage der FDP / KSG - Fraktion betreffend "Der Fall „Marko M.“: Erfordernisse für das Bleiberechtsprogramm" (AN/0980/2026) - vertagt
+- TOP -: Beantwortung einer Anfrage der FDP/KSG-Fraktion betreffend "Der Fall Marko M.: Erfordernis für das Bleiberechtsprogramm" (AN/0980/2026) - vertagt
+- TOP 6.5: Anfrage der SPD - Fraktion betreffend "Sachstand der Abmietstrategie und zukünftige Verwaltungsstandorte" (AN/1060/2026) - vertagt
+- TOP -: Beantwortung einer Anfrage der SPD - Fraktion betreffend "Sachstand der Abmietstrategie und zukünftige Verwaltungsstandorte" (AN/1060/2026) - vertagt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion Bündnis 90 / Die Grünen betreffend "Ausweitung der bestehenden Böllerverbotszone und weitergehende Einschränkung privaten Feuerwerks ab Silvester 2026/2027" (AN/0108/2026) - vertagt
+- TOP 8.2: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU, SPD, Die Linke und Volt betreffend "Aktionswoche für Sauberkeit in den Veedeln" (AN/0924/2026) - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2026 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Abberufung der Geschäftsführenden Technischen Betriebsleitung der Gebäudewirtschaft der Stadt Köln - ungeändert empfohlen
+- TOP 10.2: Verlängerung der Durchführung des EhAP Plus Projektes INKA – In Köln Ankommen – Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert empfohlen
+- TOP 10.3: Konzept zur Vergabe des Offenbachplatzes sowie des angrenzenden Dirk-Bach-Platzes nach Fertigstellung und Wiedereröffnung des Bühnenensembles für Veranstaltungen und ähnlich geprägte Nutzungen - ungeändert beschlossen
+- TOP 10.4: Digitale Neuausrichtung der Fachverfahren im Gesundheitsamt – Einführung von GA-Lotse - ungeändert beschlossen
+- TOP 10.5: Bedarfsfeststellungsbeschluss Ebertplatz - Weiterführung eines Platzmanagements und -programms 2026-2030 - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
