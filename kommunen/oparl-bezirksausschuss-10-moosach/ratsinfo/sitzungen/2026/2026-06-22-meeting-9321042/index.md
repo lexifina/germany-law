@@ -1,0 +1,111 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-06-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9321042
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9321042
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.1.: Protokoll (Entwurf) der Konstituierenden Sitzung am 18.05.2026
+- TOP 1.2: Vertagungen aus dem konstituierenden Teil der Sitzung am 18.05.2026
+- TOP 1: Beschluss über die Benennung der stellvertretenden UA-Vorsitzenden
+- TOP 2: BA-Beschluss über die Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 Ge-schO-Stadtrat) sowie Bildung eines Ferienausschusses (§ 22a BA-Satzung)
+- TOP 2.1.: Beschlussfassung über Größe
+- TOP 2.2.: Benennung der Mitglieder und ihrer Stellvertreter*innen
+- TOP 2.3.: Wahl der / des Vorsitzenden
+- TOP 2.4.: Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Abrissmaßnahmen der Münchner Wohnen in der Karlingersiedlung: Antrag auf Schutz der direkt angrenzenden Mieter vor schadstoffbelasteten Stäuben und fehlender Ersatzwohnraum für die angestammten Mieter
+- TOP 2.2.: Missstände in der Andernacher Straße
+- TOP 2.3.: Mangelhafte Einkaufssituation Im Stadtteil Moosach
+- TOP 2.4.: Ausfall der Anzeige Haltestelle Pelkovenstraße
+- TOP 2.5.: Bitte um verkehrsrechtliche Prüfung der Parksituation in der Meißener Straße
+- TOP 2.6.: Müll am Bahnhof Moosach
+- TOP 2.7.: Streichung der Buslinie X35
+- TOP 2.8.: Anfrage zum Baulärm zu Ruhezeiten am Sozialbürgerhaus Neuhausen – Moosach
+- TOP 2.9.: Umweltverschmutzung im Grundstück Hanauerstraße 75
+- TOP 3.: Berichte
+- TOP 3.1: UA Soziales, Bildung und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau und Planung
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Gärtnerstraße 39 (vertagt aus der Sitzung 05/26)
+- TOP 3.3.1.2.: Alfred-Drexel-Straße 3 (vertagt aus der Sitzung 05/26)
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Quedlinburger Straße 14 Vertagt aus der Sitzung (05/26)
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: UA Gesundheit und Umwelt
+- TOP 3.4.1.: Antrag und Bericht des UA Umwelt und Gesundheit zum Lärmschutz beim HfK an der Gerastraße 5
+- TOP 3.5: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Instandsetzung eines Baumschutzrostes im Bereich des öffentlichen Fußwegs zwischen Karl-Lipp-Straße und Hugo-Troendle-Straße
+- TOP 4.1.2.: Fahrbahnsanierung der Baldurstraße zwischen Nederlinger Straße und Dantestraße
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Init. Percussion im Klassenzimmer "Percussion in Klassenzimmer" in der GS Dieselstraße vom 08.10. -17.12.2026 990,00; Az. 0262.100-10-0469
+- TOP 5.2.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas Moosach Aktion MVV/MVG-Fahrkarten für Moosacher Bürger*innen in einer Notlage vom 01.07.2026 -30.06.2027 1.231,20€; Az. 0262.100-10-0471
+- TOP 5.3.: (E) Stadtbezirksbudget Elternbeirat Grundschule Amphionpark Sicher und verantwortungsvoll digital -Medienkompetenz für Kinder und Eltern von Juni- Juli 2026 2.740,00€; Az. 0262.100-10-0470
+- TOP 5.4.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Ausbildung der neuen Streitschlichter vom 19.10. -22.10.2026 1.413,50€; Az. 0262.100-10-0472
+- TOP 5.5.: (E) Stadtbezirksbudget Initiative München OEZ erinnern Zehnter Jahrestag des rechten und rassistischen Anschlags am OEZ vom 10. -29.07.2026 5.140,00€; Az. 0262.100-10-0474
+- TOP 5.6.: (E) Einfahrtbeschränkungen im Bereich Dantebad
+- TOP 5.7.: (E) Einrichtung eines Zebrastreifens zur sicheren Überquerung der Donauwörther Straße
+- TOP 5.8.: (E) Anbringung Zusatzschild "Parken nur für Pkw" in der Merseburger Straße
+- TOP 5.9.: (E) Kennzeichnung des Radwegs am OEZ
+- TOP 5.10.: (E) Durchsetzung der Verkehrsregeln nach StVO am Memminger Platz
+- TOP 5.11.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht über eine Freischankfläche in der Dachauer Straße
+- TOP 5.12.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht über eine Freischankfläche in der Bunzlauer Straße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Verlängerung des Stadtteilmanagements in den Sanierungsgebieten Aubing-Neuaubing-Westkreuz und Moosach
+- TOP 6.2.: Anhörung zum Aufstellungs- und Eckdatenbeschluss "Moosanger"
+- TOP 6.3.: MVG-Anpassungsprogramm 2027
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sicher im Verkehr unterwegs - Behebung der missverständlichen Führung des baulichen Radwegs in der Riesstraße vor der Bushaltestelle Gärtnerstraße
+- TOP 7.2.: Errichtung eines Bauzaunes am Spielplatz in der Hanauer Straße
+- TOP 7.3.: Defizite bei der Überwachung des Parklizenzgebiets Seydlitzplatz
+- TOP 7.4.: Welche Vorschläge hat die Münchner Wohnen zur Verbesserung im Umgang mit Anliegen der Mieter*innen des sog. Bunten Block?
+- TOP 7.5.: Geteilte Abstellflächen für Mikromobilitätsangebote (GAF) Pelkovenstraße / Dachauer Straße
+- TOP 7.6.: Einrichtung verpflichtender Abstellflächen für E-Scooter im Bereich des Schulzentrums Moosach sowie regelmäßiger Abtransport
+- TOP 7.7.: Radverkehr im Bereich der Franz-Mader-Schule
+- TOP 7.8.: Haltverbotszonen Ehrenbreitsteiner Straße
+- TOP 7.9.: Bestellung städtischer Leistung: Müllproblem sowie weitere Missstände am Memminger Platz
+- TOP 7.10.: Winterliche Sicherungspflicht auf dem Gehweg in der Pelkovenstraße
+- TOP 7.11.: Pilotprojekt barrierearme Sitzbänken für ältere sowie mobilitätseingeschränkte Personen in Moosach
+- TOP 7.12.: Umbau Kreuzung Wintrichring / Georg-Brauchle-Ring – Antrag auf ergänzende Heckenbepflanzung zum Schutz der Anwohner und Fußgänger
+- TOP 7.13.: Gefährdungsreduzierung Radverkehr Canalettostr. Zwischen Nederlingerstr. und Dantestr. und Einmündung Dantestr./Waisenhausstr.
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Veranstaltung in städt. Grünanlagen; Hier: Aktion Spielwiese vom 18.06.-31.07.2026 auf der Grünfläche Welzenbachstraße 8-12/Nanga-Parbat-Straße -Vorabstellungnahme des BA-Vorsitzenden-
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO und auf Privatgrund; Hier: "Borstei Sommerfest" am 11.07.2026 von 13.00 – 23.00 Uhr, Franz-Marc-Straße 1-12 - Vorabstellungnahme des BA-Vorsitzenden-
+- TOP 8.3.: Veranstaltung in städt. Grünanlagen; Hier: Sponsorenlauf der staatl. Grundschule im Amphionpark Moosach/Wintrichring am 14.-15.07.2026 von 8.00 – 12.00 Uhr (Ersatztermin 16.07.2026) -Vorabstellungnahme des BA-Vorsitzenden-
+- TOP 8.4.: Veranstaltung auf Privatgrund und öffentl. Verkehrsgrund; Hier: Eröffnung der Stadtteilkulturtage im Kulturhaus Pelkovenschlössl, Moosacher St.-Martins-Platz 2 am 27.06.2026 von 15.00 bis19.00 Uhr -Vorabstellungnahme des BA-Vorsitzenden-
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO; Hier: Errichtung einer Hol- und Bringzone mit Zeichen 286 StVO
+- TOP 8.6.: Ausbau und Erneuerung der Straßenräume; Vergabeentscheidung für eine Baumaßnahme in der Franz-Mader-Straße
+- TOP 8.7.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Baldurstraße; Fahrbahnsanierung
+- TOP 8.8.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung und Zufahrt zwischen Memminger Platz und Berta-Hummel-Straße Grünfläche 8921.1 1. Verlängerung
+- TOP 8.9.: Informationen zum GeoPortal
+- TOP 8.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11.: (U) Sanierungsgebiet Moosach Fortschreibung der Sanierungsziele und Maßnahmen A) Sanierungsziele und Maßnahmen B) Aufgaben des Stadtteilmanagements C) Städtebauförderung D) Klimaprüfung E) Bürgerversammlungsempfehlungen
+- TOP 8.12.: „Wohnen in München VII“ Erfahrungsbericht für das Jahr 2025 Programm „Bezahlbares Wohnen und Leben in München“ Erfahrungsbericht für das Jahr 2025
+- TOP 8.13.: (U) Eggarten Empfehlungen
+- TOP 8.14.: Satzung zur Änderung der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung – FabS)
+- TOP 8.15.: Kommunale Wärmeplanung - Ergebnisbericht
+- TOP 8.16.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtung sonstiger Träger; Kindergarten an der Seydlitzstraße 58 im 10. Stadtbezirk Moosach Leistung eines Baukostenzuschusses
+- TOP 8.17.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 3 Kindergartengruppen an der Gubestr. 35 10. Stadtbezirk Moosach Genehmingung des Nutzer*innenbedarfsprogramms
+- TOP 8.18.: Bebauungsplan mit Grünordnung Nr. 2143 DB-Nordring (nördlich), Lassallestraße (östlich), Verlängerung der Goerdelerstraße (östlich), Verlängerung der Meineckestraße (südlich), Wilhelmine-Reichard-Straße (südlich), Bahnlinie zwischen DB-Nordring und Feldmoching (westlich) (Teilverdrängung des Bebauungsplans Nr. 22 sowie übergeleiteter Bebauungspläne gemäß § 173 Abs. 3 BBauG) - Eggarten-Siedlung – -Billigungsbeschluss- Stadtbezirk 10 – Moosach Stadtbezirk 24 – Feldmoching-Hasenbergl
+- TOP 8.19.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/67 DB-Nordring (nördlich), Lassallestraße und Verlängerung der Goerdelerstraße (östlich), Verlängerung der Meineckestraße, Wilhelmine-Reichard-Straße, Verlängerung der Grieserstraße (südlich), Bahnlinie zwischen DB-Nordring und Feldmoching (westlich) – Eggarten-Siedlung - Billigungsbeschluss und vorbehaltlicher endgültiger Beschluss Stadtbezirk 10 Moosach Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 8.20.: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 8.21.: Geförderter Wohnungsbau, welcher Sinn?
+- TOP 8.22.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch -nicht öffentlich-
+- TOP 8.23.: Mitteilung über ein Grundstücksgeschäft -nicht öffentlich-
+- TOP 8.24.: Vollzug der Erhaltungssatzung "Moosach"; Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen -nicht öffentlich-
+- TOP 8.25.: Vorkaufsrecht nach dem BauGB - Bingener Straße -nicht öffentlich-
+- TOP 8.26.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 3 Kindergartengruppen - nicht öffentlich -
+- TOP 3.2.1.: Einrichtung eines Zebrastreifens in der Donauwörther Straße
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO, in einer städt. Grünanlage und Privatgrund Hier: Sommerfest der Arche München am 02.07.2026 von 14.00-18.00 Uhr (Aufbau ab 8.00 Uhr, Abbau bis 21.00 Uhr) am Hartmannshofer Bächl 52, Manzostraße (Straßensperre 126 – bis zur Briegerstr.), Grünanlage gegenüber der Arche
