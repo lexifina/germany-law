@@ -1,0 +1,6 @@
+# TOP 2: Genehmigung der Niederschrift vom 12.05.2026
+
+- Sitzung: Schulausschuss (2026-06-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/393926
