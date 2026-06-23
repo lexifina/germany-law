@@ -1,0 +1,8 @@
+# TOP 5: Beckmannshof / Rudolf-Herzog-Straße - Werth
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen (2026-06-23)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/140345
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/67640
