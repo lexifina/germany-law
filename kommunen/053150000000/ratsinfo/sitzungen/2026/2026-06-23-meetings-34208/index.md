@@ -1,0 +1,78 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-23T14:00:00+02:00
+- Ende: 2026-06-23T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34208
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34208
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zum Kinder- und Jugendförderplan der Stadt Köln 2026-2030
+- TOP 1.3.2: Präsentation zum Rechtsanspruch auf ganztägige Betreuung ab 01.08.2026
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Kindertagespflege nach § 23 SGB VIII - Qualifizierung von Kindertagespflegepersonen - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung des Spiel- und Bolzplatzes Weichselring in Köln-Blumenberg - ungeändert beschlossen
+- TOP 3.2: Umgestaltung der Skateranlage Lohse-Rampe in Köln-Nippes - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: "Köln baut bezahlbar | Wohnen für alle" - ohne Votum behandelt
+- TOP 4.2: Verlängerung der Durchführung des EhAP Plus Projektes INKA – In Köln Ankommen – Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 4.3: Umsetzung des Bund-Länder-Startchancen-Programms für bessere Bildungschancen und mehr Bildungsgerechtigkeit an Kölner Schulen mit hohem Sozialindex - ungeändert beschlossen
+- TOP 4.4: Änderung der §§ 3 und 4 der Geschäftsordnung des Fachbeirates für Mädchenarbeit - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Investitionen in Bildungs- und Betreuungsinfrastrukturen - endgültig zurückgezogen
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Einführung einer Satzung über die Förderung der Kindertagespflege - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Einsatz von KI im Jugendamt zur Einschätzung von Kindeswohlgefährdungen - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0553/2026 der FDP/KSG-Fraktion zum Einsatz von KI im zur Einschätzung von Kindeswohlgefährdungen - Kenntnis genommen
+- TOP 6.1.2: Personalsituation in städtischen Kitas - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des JHA vom 05.05.2026, Session NR AN//0726/2026 - Kenntnis genommen
+- TOP 6.1.3: Statusbericht zum Ausbau der Kindertagesbetreuung - Kenntnis genommen
+- TOP -: Beantwortung (AN/0418/2026) - Kenntnis genommen
+- TOP -: Beantwortung (AN/0418/2026) - endgültig zurückgezogen
+- TOP 6.1.4: Kriseninterventionskonzepte in Kölner Jugendzentren - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0554/2026 "Kriseninterventionskonzepte in Kölner Jugendzentren" - Kenntnis genommen
+- TOP 6.1.5: Auswirkung der Bewirtschaftungsverfügung für die Förderungen im Dezernat IV, im Bereich Jugend und Bildung - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0735/2026 der Fraktion Die Linke. zu Auswirkungen der Bewirtschaftungsverfügung für die Trägerförderungen im Dezernat IV, im Bereich Jugend und Bildung - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Stand der Integration von Kindertagespflegepersonen in das System „LITTLE BIRD" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP/KSG Fraktion AN/0641/2026 zur Integration von Kindertagespflegepersonen in das System "LittleBird" - Kenntnis genommen
+- TOP 6.2.2: Planungsstand zum möglichen Weiterbetrieb der städtischen KiTa Karl-Korn-Straße - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1070/2026 der Fraktion Bündnis 90/Die Grünen sowie der Volt-Fraktion - Kenntnis genommen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 8.2.2: Bericht zur Kinder- und Jugendförderung in Köln 2021-2025 - Kenntnis genommen
+- TOP 8.2.3: plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - Halbjährliche Mitteilung - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Fachbeirat Mädchenarbeit - Interessenbekundungsverfahren - Kenntnis genommen
+- TOP 8.4.2: Jugendforum NRW auf der gamescom 2026 - Fachstelle Medienpädagogik und Partner*innen präsentieren barrierefreies Gaming, aktuelle Diskurse und medienpädagogische Projekte - Kenntnis genommen
+- TOP 8.4.3: Gesamtvorhaben Kinderfreundliche Kommune Köln – Aktueller Stand, Ankündigung Abschlussbericht „Aktionsplan kinder- und jugendfreundliches Köln 2022-2025“ und Ausblick - Kenntnis genommen
+- TOP 8.4.4: Update aus dem Kooperativen Kinder- und Jugendbüro: Rückblick 2. Halbjahr 2025/1. Halbjahr 2026 und Ausblick 2. Halbjahr 2026 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - Kenntnis genommen
+- TOP 8.5.2: Girls´Day und Boys´Day 2026 - Kenntnis genommen
+- TOP 8.5.3: "Lebenswerte Veedel- Bürger*innen- und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms in den Jahren 2024 und 2025 - Kenntnis genommen
+- TOP 8.5.4: NRWeltoffen Förderprogramm 2025 - Kenntnis genommen
+- TOP 8.5.5: GRÜNGÜRTEL Parkstadt Süd, hier: Öffentlichkeitsbeteiligung im Rahmen der Entwurfsplanung - Kenntnis genommen
