@@ -1,0 +1,51 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-06-23T17:00:00+02:00
+- Ende: 2026-06-23T19:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/573
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14471
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14471
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00587200.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 3: Erfordernis von Verwaltungspräsenz
+- TOP 4: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 19.05.2026
+- TOP 5: Eingänge und Eingaben aus der Politik
+- TOP 6: Mitteilungen und Berichte der Verwaltung
+- TOP 7: Vorstellung des Amtes für Immobilienmanagement (mündlicher Bericht)
+- TOP 8: Wirtschaft
+- TOP 8.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026 - einstimmig beschlossen
+- TOP 8.1.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026
+- TOP 8.1.2: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026
+- TOP 9: Finanzen
+- TOP 9.1: Entwurf des Jahresabschlusses 2025 der Stadt Münster - Ergebnis und wesentliche Zahlen - zur Kenntnis genommen
+- TOP 9.2: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster zum 1. April 2027 - mehrheitlich beschlossen
+- TOP 9.3: Messe und Congress Centrum Halle Münsterland GmbH (MCC Halle): Jahresabschluss 2025; Bestellung des Abschlussprüfers für den Jahresabschluss 2026 - einstimmig beschlossen
+- TOP 9.4: FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH): Jahresababschluss 2025 - einstimmig beschlossen
+- TOP 9.5: Westfälischer Zoologischer Garten Münster GmbH: Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 9.6: Westfälischer Zoologischer Garten Münster GmbH: Kündigung des Entgelttarifvertrages - mehrheitlich beschlossen
+- TOP 9.7: Stadtwerke Münster GmbH: Jahresabschluss 2025 und Gewinnausschüttung; Bestellung der Wirtschaftsprüfungsgesellschaft für das Geschäftsjahr 2026 - mehrheitlich beschlossen
+- TOP 9.8: AirportPark FMO GmbH: Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 9.9: Technologieförderung Münster GmbH: Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 9.10: Stadtnetze Münster GmbH: Jahresabschluss 2025 - einstimmig beschlossen
+- TOP 9.11: Bauwerke Münster GmbH: Jahresabschluss 2025; Bestellung des Abschlussprüfers für den Jahresabschluss 2026 - einstimmig beschlossen
+- TOP 9.12: Feststellung der Jahresabschlüsse 2025 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 9.13: Feststellung des Jahresabschlusses und Verwendung des Jahresergebnisses der citeq zum 31.12.2025 - einstimmig beschlossen
+- TOP 9.14: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2025 - einstimmig beschlossen
+- TOP 10: Sonstiges
+- TOP 10.1: Förderung von Einzelmaßnahmen an Baudenkmälern durch die Stadt Münster - einstimmig beschlossen
+- TOP 10.2: Beschluss über die Fortsetzung des Deutschlandtickets (ab 01.07.2026) und Änderung der "Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif" - einstimmig beschlossen
+- TOP 10.3: Weiterentwicklung der Strukturen des NWL (Trägerwechsel und Satzungsänderung) - einstimmig geändert beschlossen
+- TOP 10.4: Weiterentwicklung der Strukturen des Zweckverbandes Mobilität Münsterland (ZVM) einschließlich Satzungsänderung - einstimmig geändert beschlossen
+- TOP 10.5: Sicherungsmaßnahmen an städtischen Schulen - mehrheitlich geändert beschlossen
+- TOP 10.6: Nutzung der Bestandsimmobilie der Ludgerusschule Albachten - zur Kenntnis genommen
+- TOP 10.7: Errichtungsbeschluss: Neubau einer fünfgruppigen Kindertageseinrichtung an der Marga-Spiegel-Straße im Wohnbereich Albachten-Ost und Vergabe der Trägerschaft an die Stadt Münster - einstimmig beschlossen
+- TOP 10.8: Einführung einer Familien-App für Münster - mehrheitlich beschlossen
+- TOP 11: Verschiedenes
