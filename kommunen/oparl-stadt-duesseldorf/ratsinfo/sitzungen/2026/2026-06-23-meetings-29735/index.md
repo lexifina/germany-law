@@ -1,0 +1,74 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-06-23T17:04:00+02:00
+- Ende: 2026-06-23T19:10:00+02:00
+- Ort: Sitzungssaal Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29735
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29735
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590557.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590557.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590557.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an das Kulturhaus Süd und das Kinderparlament Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt 2026 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Pop-Up Artistik GbR - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Integriertes städtebauliches Entwicklungskonzept (ISEK) Garath 2.0 - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Neue Pflanzbeete vor den Häusern Dresdener Str. 50 bis 58 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Einrichtung eines Fluchtraumes im Bürgerbüro - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Pflasterschäden durch Baumwurzeln an Radwegen im Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Dynamisches Fahrgastinformationssystem (DFI) am S-Bahnhof in Hellerhof - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Konzept für Ausleuchtung des Zentrums - Anfrage der AfD-Fraktion - - vertagt
+- TOP 6.12: Betrieb von Brunnen- und Wasserspielanlagen im Stadtbezirk 10 - Anfrage der AfD-Fraktion - - vertagt
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Ausreichende Beleuchtung vor der Paketstation am Garather S-Bahnhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Künstlerische Aufwertung des Bahnhofsumfeldes durch ein Schulprojekt - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Einladung eines Vertreters der Düsseldorfer Wohnungsgenossenschaft (DWG) zur Berichterstattung über die Parkplatzsituation im Bereich Hermann-vom-Endt-Straße / Peter-Behrens-Straße - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Öffnungszeiten des Cafés im Kulturhaus-Süd - Informationsvorlage zum Beschluss BV10/096/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.2: Prüfung zur Installation von Stromtankstellen auf dem Parkplatz der Bezirkssportanlage des Garather SV - Informationsvorlage zum Beschluss BV10/097/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.3: Reinigung der Wände der Brückenunterführung Koblenzer Straße - Informationsvorlage zum Beschluss BV10/050/2026 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 8.4: Ansiedlung eines Lebensmittelvollsortimenters im Garather Zentrum - zur Kenntnis genommen
+- TOP 8.5: Erweiterung der Annahmebedingungen am Recyclinghof Garath - Informationsvorlage zum Beschluss BV10/041/2026 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 8.6: Vollsperrung der A 59 in der zweiten Bauphase - Informationsvorlage zum Beschluss BV10/092/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.7: Neuer Standort für Glascontainer am Haus Dresdener Straße 57 a - Informationsvorlage zum Beschluss BV10/083/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.8: Sachstand zur Neuaufstellung des Nahverkehrsplans und zum Beteiligungsprozess - Informationsvorlage des Amtes für Verkehrsmanagement - - zur Kenntnis genommen
+- TOP 8.9: Parken an E-Ladesäulen zwischen 22:00 und 07:00 Uhr - Informationsvorlage zum Beschluss BV10/062/2026 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
