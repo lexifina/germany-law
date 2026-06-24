@@ -1,0 +1,51 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-06-24T16:04:00+02:00
+- Ende: 2026-06-24T20:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29537
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29537
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590538.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590538.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590538.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Ordnungs- und Verkehrsausschusses vom 21.01.2026 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die öffentliche Sitzung des Ordnungs- und Verkehrsausschusses vom 25.02.2026 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Hubpolleranlage Mühlenstraße ein Dauerdesaster? - zur Kenntnis genommen
+- TOP 4.2: Anfrage des Seniorenrats: Planungen zur Umsetzung von Tempo 30 und Fortschreibung des Mobilitätsplan D - zur Kenntnis genommen
+- TOP 4.3: Anfrage der SPD/Volt-Ratsfraktion: Unfallaufarbeitung und -kommunikation im SPNV – Mehr Sicherheitsgefühl auf der Schiene durch eine transparente Aufarbeitung - zur Kenntnis genommen
+- TOP 4.4: Anfrage der Ratsfrau Elke Fobbe: Wann kommt endlich die Unterführung beim S-Bahnhof Gerresheim? - zur Kenntnis genommen
+- TOP 4.5: Anfrage der FDP-Ratsfraktion: Netzdienliches bidirektionales Laden in Düsseldorf - zur Kenntnis genommen
+- TOP 4.6: Anfrage der FDP-Ratsfraktion: Fahrbahndecke im Rheinufertunnel, Fahrtrichtung Norden - zur Kenntnis genommen
+- TOP 4.7: Anfrage der AfD-Ratsfraktion: Spitzenplätze im Stauranking – Maßnahmen gegen den drohenden Verkehrskollaps in Düsseldorf - zur Kenntnis genommen
+- TOP 4.8: Anfrage der AfD-Ratsfraktion: Klärung der Ursachen für wiederholte Verkehrsunfälle mit Rheinbahnstraßenbahnen - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktionen Die Linke und SPD/Volt: Effizientere Radverkehrsplanung durch Zusammenführung der ADFC-Mängelliste mit der städtischen Ausbauplanung des Radhauptnetzes, der Radleitrouten und des Radschnellweges - mehrheitlich abgelehnt
+- TOP 5.2: Antrag des Jugendrats: Einrichtung einer Tempo-30-Regelung auf der Ellerstraße - mehrheitlich beschlossen
+- TOP 5.3: Antrag der AfD-Ratsfraktion: Erweiterung der Abfahrt „Urdenbach“ von der Frankfurter Straße stadtauswärts - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Sachstand zum NVP
+- TOP 7.2: Bericht der Fußverkehrsbeauftragten
+- TOP 8: Weitere Veranstaltungen auf dem Burgplatz für das Jahr 2026 - einstimmig beschlossen
+- TOP 9: Herbeiführen eines Bedarfsbeschlusses - Neugestaltung Konrad-Adenauer-Platz - passieren lassen
+- TOP 10: Harkortstraße – Barrierefreier Ausbau der Haltestelle Mintropplatz - mehrheitlich beschlossen
+- TOP 11: Neugestaltung östliche Königsallee - passieren lassen
+- TOP 11.1: Änderungsantrag der FDP-Ratsfraktion zu OVA/062/2026: Neugestaltung östliche Königsallee - passieren lassen
+- TOP 12: Radverkehrsanlage Grafenberger Allee im Abschnitt Hans-Sachs-Straße / Lichtstraße 1. BA Südseite - mehrheitlich beschlossen
+- TOP 13: Angebotsausweitung SB57 - einstimmig beschlossen
+- TOP 14: Arbeitsprogramm Barrierefreier Haltestellenausbau – Schiene - zur Kenntnis genommen
+- TOP 15: Sicherungsmaßnahmen an der Theodor-Heuss-Brücke - Empfehlung mehrheitlich beschlossen
+- TOP 16: Sustainable Urban Mobility Plan (SUMP) für Düsseldorf – Sachstand - zur Kenntnis genommen
+- TOP 17: Verlängerung des Probebetriebs On Demand-Verkehr "Flexy" der Rheinbahn - einstimmig beschlossen
