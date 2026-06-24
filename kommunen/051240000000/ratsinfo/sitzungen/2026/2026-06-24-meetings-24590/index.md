@@ -1,0 +1,69 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-06-24T18:30:00+02:00
+- Ende: 2026-06-24T19:51:00+02:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24590
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24590
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00365650.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366592.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Jugendrat
+- TOP 2: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Sachstand zur Auswirkungsanalyse des Outletcenters Remscheid - Entgegennahme ohne Beschluss
+- TOP 6: Bürgerantrag gem. § 24 GO NRW - Parkplatzsituation Neviandtstraße/ Baumstraße - ungeändert beschlossen
+- TOP 7: Veranstaltung "Kultur verbindet" vom 03.07.2026- 05.07.2026 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 8: Veranstaltung "San Vino" vom 04.09.2026- 06.09.2026 auf dem Laurentiusplatz - geändert beschlossen
+- TOP 9: Gedenkveranstaltung zum Internationalen Gedenktag für verstorbene Drogengebrauchende am 21.07.2026 auf dem Von-der-Heydt-Platz - ungeändert beschlossen
+- TOP 10: Baumaßnahme Kerstenplatz - Ausnahme von den Verboten des §3, gem. §4 Absatz 3 der Baumschutzsatzung der Stadt Wuppertal
+- TOP 11: Gestaltung des Pocket Parks an der Kölner Straße - Baumpflanzungen
+- TOP 12: 6. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2027-2032) - ungeändert beschlossen
+- TOP 13: Stadtentwässerung - Maßnahmenkatalog 2027/Katalogentwurf 2028 - ungeändert beschlossen
+- TOP 14: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 15: Beschluss zur wohnbaulichen Umnutzung der Reitanlage Dorner Weg im Rahmen des § 246e BauGB - vertagen
+- TOP 16: Entgegennahmen ohne Beschluss
+- TOP 16.1: Sachstandsbericht Projekt Radring - Entgegennahme ohne Beschluss
+- TOP 16.2: Sachstandsbericht Straßenbaubeiträge - Entgegennahme ohne Beschluss
+- TOP 16.3: Hochstraße Tempo 30 Ecke Küferstraße bis Ecke Marienstraße - Entgegennahme ohne Beschluss
+- TOP 17: Anträge
+- TOP 17.1: Direkte Anbindung des Parkplatzes Ludwigstraße / Ecke Gathe - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 17.2: Optimierung der Ampelschaltung an der Kreuzung Opphofer Straße / Schwesterstraße zur Verbesserung der Verkehrssicherheit und des ÖPNV - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 17.3: Verbesserung der Beleuchtung im Schniewindschen Park zur Erhöhung der Sicherheit und zur Stärkung sicherer Schulwege - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 17.4: Einrichtung einer Lieferzone am Wall/Neumarkt - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 17.5: Freihaltung von Ladeplätzen für Elektrofahrzeuge - Antrag der Fraktion Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 17.6: Einrichtung von Fahrradabstellflächen an der Volkshochschule Elberfeld (Auer Schulstrasse) - Antrag der Fraktion Bündnis90/ Die Grünen - geändert beschlossen
+- TOP 17.7: Bekämpfung potentieller Angsträume durch Ausweitung der Straßenbeleuchtung im Gebiet Kluse - Antrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 17.8: Überprüfung der Mindestabstände von Spielstätten zu Schulen und Einrichtungen der Kinder- und Jugendhilfe im Stadtbezirk Elberfeld - Antrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 17.9: Einrichtung alternativer Aufenthaltsräume während der Umgestaltung des Deweerthschen Gartens - Antrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 17.10: Toilettenkonzept für Wuppertal - Einbeziehung einer Toilettenanlage im Bereich von-der-Heydt-Park - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 18: Anfragen
+- TOP 18.1: Motorisierter Individualverkehr auf der Straße Wall – Einfahrtsregelungen, Kontrollen und verkehrstechnische Auswirkungen - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 18.1.1: Große Anfrage der CDU Fraktion vom 23.03.26 zum motorisierten Individualverkehr auf der Straße Wall - Entgegennahme ohne Beschluss
+- TOP 18.2: Verkehrssituation Augustastraße – Maßnahmen zur Verkehrsberuhigung - Große Anfrage der SPD Fraktion
+- TOP 18.3: Ausweisung von Verbotszonen für das Abbrennen von Pyrotechnik zu Silvester im Stadtbezirk Elberfeld - Große Anfrage der Fraktion Die Linke - Entgegennahme ohne Beschluss
+- TOP 18.3.1: Antwort auf die Große Anfrage der Fraktion Die Linke Pyrotechnik im Stadtbezirk Elberfeld - Entgegennahme ohne Beschluss
+- TOP 18.4: Entwicklung der Breuer-Höfe am Laurentiusplatz - Große Anfrage der Fraktion Bündnis90/ Die Grünen
+- TOP 19: Freie Mittel (Es liegt noch keine rechtskräftige Haushaltssatzung vor)
+- TOP 19.1: Antrag der Taekwondo Sportschule Cinar e.V.
+- TOP 19.2: Antrag der Aidshilfe Wuppertal e.V.
+- TOP 19.3: Antrag der Jugendfeuerwehr Wuppertal-Hahnerberg
+- TOP 19.4: Antrag auf Förderung des Projektes „The Kids Are Alright“
+- TOP 19.5: Antrag der Utopiastadt gGmbH
+- TOP 19.6: Antrag des Vereins Hebebühne e.V.
+- TOP 19.7: Antrag der Internationalen Afrikanischen Mission e.V.
+- TOP 20: GFG Mittel (Es liegt noch keine rechtskräftige Haushaltssatzung vor)
+- TOP 20.1: Antrag des Fördervereins der Station Natur und Umwelt
+- TOP 20.2: Antrag des Ressorts 104 - Verbesserung der barrierefreien Mobilität an der Lichtzeichenalge Blücherbrücke
+- TOP 20.3: Antrag des Ressorts 103 - Weitere Bankstandorte in Elberfeld
+- TOP 20.4: Antrag des Ressorts 104 - GFG-Mittel für die sichere Führung des Radverkehrs entgegen der Fahrtrichtung auf der Friedrichstraße
+- TOP 20.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.5: Gemeinsamer Antrag von SPD, Die Linke, CDU, Bündnis90/ Die Grünen
