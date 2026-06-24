@@ -156,7 +156,7 @@ Allgemeiner Datenbestand
 | A | A1*) | B**) | C | D |
 | 8 (Teil I) | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3d in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 |  |  |  | §§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 23a des AZR-Gesetzes |
+| § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3d in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 | (1) |  |  | §§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 23a des AZR-Gesetzes |
 | a) | Asylantrag gestellt am | (1) | –Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis h, j bis m, o, p, r, s, u bis w–Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a, i, n, q bis y–Aufnahmeeinrichtungen zu Spalte A Buchstabe a und b–Bundespolizei zu Spalte A Buchstabe a–Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a | Die Daten zu Spalte A Buchstabe f und j jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der poli- zeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivoll- zugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Statistisches Bun- desamtII)–für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Vollzugseinrichtungen–Gerichte–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe u und v–die für die Durch- führung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter und die Unterhaltsvorschussstellen–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
 | b) | Asylantrag registriert am | (7) |
 | c) | Asylantrag eingereicht am | (7) |
@@ -197,10 +197,10 @@ Allgemeiner Datenbestand
 |  | aa) | zugestellt am |  | (5) |  |  |
 |  | bb) | unanfechtbar seit |  | (6) |  |  |
 | q) | subsidiärer Schutz erloschen am |  | (6) |  |  |
-| r) | Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG festgestellt am für den Zielstaat/die Zielstaaten | (2) | (2) |  |  |
+| r) | Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG festgestellt am für den Zielstaat/die Zielstaaten |  | (2) |  |  |
 |  | aa) | zugestellt am | (5) | – wie vorstehend –– wie vorstehend – | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
 |  | bb) | unanfechtbar seit | (6) |
-| s) | Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG widerrufen/zurückgenommen am | (3) | (2) |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
+| s) | Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG widerrufen/zurückgenommen am |  | (2) |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
 |  | aa) | zugestellt am | (5) | – wie vorstehend – | –nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
 |  | bb) | unanfechtbar seit | (6) |
 | t) | Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG erloschen am |  | (6) |  |  |
@@ -215,10 +215,10 @@ Allgemeiner Datenbestand
 |  | bb) | § 60 Absatz 2 Satz 1 Nummer 1 und 2 AsylG Ort erteilt am befristet bis |  | (7) |  |  |
 |  | cc) | § 60 Absatz 2 Satz 1 Nummer 3 AsylG Bezirk der Ausländerbehörde erteilt am befristet bis |  | (7) |  |  |
 | § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 2 |  |  |  |  |
-| Asyl |  |  |  |  |
+| Asyl | (2) |  |  |  |
 | – wie vorstehend ohne die Buchstaben f und j jeweils ohne die Doppelbuchstaben cc und dd – |  | – wie vorstehend – |  |  |
 | § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 2 |  |  |  |  |
-| Asyl |  |  |  |  |
+| Asyl | (3) |  |  |  |
 | – wie vorstehend ohne die Buchstaben f und j jeweils ohne die Doppelbuchstaben cc und dd – |  | – wie vorsteh- end – |  |  |
 | A | A1*) | B**) | C | D |
 | 8 (Teil II) | Personen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
