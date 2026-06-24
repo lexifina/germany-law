@@ -1,0 +1,52 @@
+# Ausschuss für Bauen und Umwelt der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2026-06-24T17:32:00+02:00
+- Ende: 2026-06-24T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/99
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/4030
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/4030
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Änderung der Schriftführung und Vertretung für die 11. Wahlperiode - einstimmig beschlossen
+- TOP 3: Preisverleihung Klimaschutzpreis 2026 - Preisübergabe an die Gewinner
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Zwischenstandsbericht Klimaschutzmanagement - Kenntnisnahme
+- TOP 6: Zwischenbericht NBuS-Projektgruppe – Informationsvorlage - Kenntnisnahme
+- TOP 7: Initiierung von "ÖKOPROFIT" gemäß Klimaschutzkonzept - einstimmig beschlossen
+- TOP 8: Nachkalkulation Winterdienstgebühren der Stadtbetriebe Grevenbroich für die Jahre 2019 bis 2025 - Kenntnisnahme
+- TOP 9: Sachstand zur Neukonzeptionierung der Friedhöfe - Kenntnisnahme
+- TOP 10: Weiteres Vorgehen zur Revitalisierung von Baumstandorten und Ersatzpflanzungen - Kenntnisnahme
+- TOP 11: Brückenbauwerk 18 Stadtpark - einstimmig beschlossen
+- TOP 12: Bau einer Mittelinsel an der Landstraße - Kenntnisnahme
+- TOP 13: Generalinstandsetzung „Am Schimmelsbusch“ - einstimmig beschlossen
+- TOP 14: Maßnahme Flex-Reserve "Erlebnisraum Perlenkette" - einstimmig beschlossen
+- TOP 15: Beantwortung von Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 15.1: Entwicklung und Einführung von Umwelt- und Naturbildungsangeboten auf der Vollrather Höhe (Antrag-Nr.: 117/2025) - Kenntnisnahme
+- TOP 15.2: Förderung und Einsatz von Parklets zur Belebung des öffentlichen Raumes in den Stadtteilen (Antrag Nr. 68/2025) - Kenntnisnahme
+- TOP 15.3: Zur Schulwegsicherung den Austausch der Bepflanzung „Am Stüßges End" in Frimmersdorf linker Hand Richtung Ortsausgang - Kenntnisnahme
+- TOP 15.4: Errichtung eines Kolumbariums auf dem Friedhof in Wevelinghoven - einstimmig beschlossen
+- TOP 15.5: Begrünung der Schallschutzwand des neuen Feuerwehrgerätehauses in Kapellen (Antrag Nr.:65/2026) - mehrheitlich abgelehnt
+- TOP 15.6: Fußgängerüberweg Dunantstraße / Im Pfarrgarten im Stadtteil Gustorf schaffen (Antrag-Nr.: 44/2026) - vertagt
+- TOP 15.7: Überprüfung der Zuwegungen an die L116 - Ampelanlage zur Gefahrenreduktion an der L116, Anschlussstelle - Kenntnisnahme
+- TOP 15.8: Rückbau von nicht mehr genutzten Fahrradwegen - einstimmig beschlossen
+- TOP 15.9: Naturschutzgebiet "an der Schwarzen Brücke" - Kenntnisnahme
+- TOP 15.10: Ausstattung der Kreuzung Elsbachtunnel / Am Hammerwerk sowie Elsbachtunnel / Bergheimerstraße mit Sitraffic Stream (Antrag Nr. 71/2025) - Kenntnisnahme
+- TOP 15.11: Verkehrsberuhigung Bahnstraße konsequent umsetzen - vertagt
+- TOP 15.12: Prüfauftrag Beleuchtung von Tunnel - einstimmig beschlossen
+- TOP 15.13: Barrierefreie, akustische Ampelanlagen im Stadtgebiet (Antrag Nr.: 113/2025) - einstimmig beschlossen
+- TOP 15.14: Erstellung einer Kommunalen Wärmeplanung - Kenntnisnahme
+- TOP 15.15: Naturnaher Umbau der Erft und der Erftauen – Zeit- und Maßnahmenplanung sowie Auswirkungen des Endes der Sümpfungswassereinleitungen (Tagebau Hambach) - Kenntnisnahme
+- TOP 15.16: Antrag zur Prüfung der Überdachung öffentlicher Parkplätze mit Photovoltaikanlagen - Kenntnisnahme
+- TOP 16: Schriftliche Anträge und Anfragen der Fraktionen
+- TOP 16.1: Umgestaltung des Stadtparks in Wevelinghoven zu einem „Aktiv-Park" - einstimmig beschlossen
+- TOP 16.2: Sanierung des Gebäudes "Wohnhaus Burg" inkl. Hinterhof, "An der Obermühle" Nr. 115 Wevelinghoven - einstimmig beschlossen
+- TOP 16.3: Zickzacklinie (Zeichen 299 StVO) vor dem Familienzentrum Zaubermühle im Stadtteil Gindorf - einstimmig beschlossen
+- TOP 16.4: Mehr Aufenthalt, mehr Umweltbildung: Multifunktionspavillon für das Umweltzentrum Schneckenhaus - einstimmig beschlossen
+- TOP 17: Mitteilungen der Verwaltung
+- TOP 18: Mitteilungen des Ausschussvorsitzenden
