@@ -1,0 +1,8 @@
+# TOP 8: Antrag der Mitglieder der SPD betr.: Sicherheit und Attraktivierung Vogelsagstraße
+
+- Sitzung: Bezirksausschuss II - Nordstadt (2026-06-24)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/269206
+- Ergebnis: beraten ohne Abstimmung
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/39013
