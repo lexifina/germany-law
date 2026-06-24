@@ -1,0 +1,51 @@
+# 57. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung und Facility Management
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2026-06-24T17:30:00+02:00
+- Ende: 2026-06-24T21:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=57
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6740
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6740
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=665249
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: Aktuelle Themen
+- TOP 6.1: Aktueller Stand: Projekt „Fountain“ (Brunnenstraße 105-109, Swinemünder Straße 64A) und ehemalige Pferdekoppel; Gäste: Vertreter*innen von Hines (Projektentwickler), Vertreter*innen von Max Dudler (Architekturbüro)
+- TOP 6.2: Bilanz Städtebauförderung 2025
+- TOP 7: Protokollgenehmigungen (Es liegen keine Protokolle zur Genehmigung vor)
+- TOP 8: Mitteilungen
+- TOP 8.1: der Vorsitzenden
+- TOP 8.2: des Bezirksamts
+- TOP 8.3: der Senior:innenvertretung
+- TOP 9: Aktuelle Viertelstunde
+- TOP 10: Beratung von Drucksachen
+- TOP 10.1: Status der Unterversorgung in den Bereichen Wohnbaupotenziale, Bibliotheken und Kunst- und Kultureinrichtungen
+- TOP 10.2: Arminiusmarkthalle – Sicherstellung einer funktionierenden Heizsituation
+- TOP 10.3: ISEK: Verkehrsfluss in und durch Mitte gewährleisten
+- TOP 10.4: Aufstockung von Wohngebäuden grundsätzlich genehmigen, auch im Milieuschutzgebiet
+- TOP 10.5: Unterstützung des Deutschen Familienverbands bei der Sicherung geeigneter Räumlichkeiten
+- TOP 10.6: Integriertes Handlungskonzept Leopoldplatz
+- TOP 10.7: Einrichtung eines Seniorentreffs im Haus der Statistik (WBM-Bau)
+- TOP 10.8: Habersaathstraße 40–48: Mieter:innen unterstützen – Sanierung statt Abriss
+- TOP 10.9: Sanierung der bezirkseigenen Fläche am Hansaplatz
+- TOP 10.10: Wegen Denkmalschutz müssen Besucher im Restaurant Kathmandu frieren – Windfang schon im Sommer beantragt
+- TOP 10.11: Zivilschutz in Berlin-Mitte wiederbeleben – Luftschutzräume definieren
+- TOP 10.12: Fall Cafe Moskau: Denkmalbehörde schießt über das Ziel und landet im Sandbett
+- TOP 10.13: Das Gerüst am Haus in der Brüsseler Straße 19 endlich abbauen!
+- TOP 10.14: Vom Papier aufs Dach: 50.000 Wohnungen für Mitte nun auch planungsrechtlich ermöglichen
+- TOP 10.15: Gendarmenmarkt
+- TOP 10.16: Kosten- und Finanzierungsübersicht (KoFi) die im Rahmen des Integrierten städtebaulichen Entwicklungskonzepts (ISEK) für das Fördergebiet BadPankStraße erstellt wurde
+- TOP 10.17: Mieter*innen in den Maxgärten schützen – Sozialvereinbarung für die Modernisierung verhandeln!
+- TOP 10.18: Nisthilfen bei bezirklichen Bauvorhaben berücksichtigen
+- TOP 10.19: Nachhaltiges Wohnen statt Bundestagsbauten – Luisenblock Ost II für Berlin sichern!
+- TOP 10.20: Graffiti an der orthodoxen Kirche der Mor Izozoel auf dem Weddingplatz
+- TOP 11: Verschiedenes Aktuelle Themen: • August 2026: Siemens Energy – Erweiterung Standort Moabit [B-Plan 1-124] Themenspeicher: • Humboldthafen – geplante Bebauung durch SenSBW • Luisenblock Ost • Gartendenkmalpflege • Prozess zur Aufstellung eines Bebauungsplanes • Denkmalschutz • Habersaathstr. – Wie geht es weiter? • Geschäftsstraßenmanagement im Sanierungsgebiet Müllerstraße • Facility Management: Vertragsmodelle der Berliner Stadtwerke für die PV-Anlagen • Pavillons in der Karl-Marx-Allee • Entwicklung des RKI Blocks und Neubau der Kinderklinik Charité CVK • Auslaufende Sanierungsgebiete (Rückblick und Ausblick)
