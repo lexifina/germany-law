@@ -1,0 +1,6 @@
+# TOP 6.: Vorstellen und Einweisung in die Heli App
+
+- Sitzung: Ortsbeirat Hopfelde (3. Sitzung) (2026-06-24)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/14304
