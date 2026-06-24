@@ -1,0 +1,7 @@
+# TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld (2026-06-24)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/139220
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
