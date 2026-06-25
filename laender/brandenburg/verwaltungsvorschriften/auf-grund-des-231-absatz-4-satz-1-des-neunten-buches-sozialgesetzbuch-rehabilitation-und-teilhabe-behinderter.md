@@ -1,8 +1,8 @@
 # Auf Grund des § 231 Absatz 4 Satz 1 des Neunten Buches Sozialgesetzbuch - Rehabilitation und Teilhabe behinderter Menschen - (Artikel 1 des Gesetzes zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen - Bundesteilhabegesetz
 
 - Herausgeber: Land Brandenburg
-- Datum: 2025-05-14 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/fahrgeld_2024
+- Datum: 2026-06-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/fahrgeld_2025
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -10,12 +10,12 @@
 
 Erstattung der Fahrgeldausfälle nach dem Neunten Buch Sozialgesetzbuch - Festsetzung des Prozentsatzes für die Erstattung der Fahrgeldausfälle im Nahverkehr -
 
-vom 14. Mai 2025
+vom 25. Juni 2026
 
-(ABl./25, [Nr. 22], S.401)
+(ABl./26, [Nr. 27], S.601)
 
 Auf Grund des § 231 Absatz 4 Satz 1 des Neunten Buches Sozialgesetzbuch - Rehabilitation und Teilhabe behinderter Menschen - (Artikel 1 des Gesetzes zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen - Bundesteilhabegesetz - vom 23. Dezember 2016, BGBl. I S. 3234) wird bekannt gemacht:
 
-Der Prozentsatz im Sinne des § 231 Absatz 1 des Neunten Buches Sozialgesetzbuch für die Erstattung der Fahrgeldausfälle im öffentlichen Personennahverkehr im Land Brandenburg beträgt für das Kalenderjahr 2024
+Der Prozentsatz im Sinne des § 231 Absatz 1 des Neunten Buches Sozialgesetzbuch für die Erstattung der Fahrgeldausfälle im öffentlichen Personennahverkehr im Land Brandenburg beträgt für das Kalenderjahr 2025
 
-2,57.
+2,56.
