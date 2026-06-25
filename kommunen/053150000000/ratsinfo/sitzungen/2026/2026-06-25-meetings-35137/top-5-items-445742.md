@@ -1,0 +1,6 @@
+# TOP 5: Bürgerfragestunde
+
+- Sitzung: Konstituierende Sitzung des Beirates Porz Mitte (2026-06-25)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/445742
