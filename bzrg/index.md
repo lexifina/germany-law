@@ -84,7 +84,7 @@ und allgemeinen Verwaltungsvorschriften](0042b.md)
 #### 4. Versagung der Auskunft zu Zwecken des
 Zeugenschutzes
 
-- [§ 44a Versagung der Auskunft](0044a.md)
+- [§ 44a Maßnahmen zu Zwecken des Zeugenschutzes](0044a.md)
 
 ### Vierter Abschnitt Tilgung
 

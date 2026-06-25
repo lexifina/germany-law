@@ -213,6 +213,7 @@
 | § 47 | Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014 |
 | § 47a | Besondere Befugnisse nach der Verordnung (EU) 2022/2554 |
 | § 48 | Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402 |
+| § 48a | Maßnahmen bei Risiko einer übermäßigen Konzentration von Risikopositionen gegenüber einer zentralen Gegenpartei |
 |  |
 |  | 4a.Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems |
 |  |

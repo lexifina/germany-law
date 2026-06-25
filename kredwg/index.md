@@ -218,6 +218,7 @@
 ### 4a. Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
 
 - [(XXXX) §§ 48a bis 48s (weggefallen)](xxxx-48a-bis-48s.md)
+- [§ 48a Maßnahmen bei Risiko einer übermäßigen Konzentration von Risikopositionen gegenüber einer zentralen Gegenpartei](0048a.md)
 - [§ 48t Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken](0048t.md)
 - [§ 48u Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung](0048u.md)
 
@@ -273,7 +274,7 @@
 - [§ 53j Anzeigen; Verordnungsermächtigung](0053j.md)
 - [§ 53k Auslagerung von Aktivitäten und Prozessen](0053k.md)
 - [§ 53l Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln](0053l.md)
-- [§ 53m Inhalt des Zulassungsantrags](0053m.md)
+- [§ 53m Inhalt des Zulassungsantrags; Anforderung von Unterlagen; Verzicht auf die Anhörung](0053m.md)
 - [§ 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei](0053n.md)
 
 ### 2. Zentralverwahrer
