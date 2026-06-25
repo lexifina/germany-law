@@ -1,0 +1,125 @@
+# 6. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-25T17:30:00+02:00
+- Ende: 2026-06-25T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33912
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33912
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung Nippes - Sache ist erledigt
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragen zu Sackgassen - vertagt
+- TOP 1.2: Einwohnerfrage zur Flächennutzung und Umgestaltung des Landschaftsschutzgebiets Johannes-Giesberts-Park
+- TOP -: Beantwortung einer Einwohneranfrage zur Sitzung der Bezirksvertretung Nippes am 25.06.2026 (0193/2026) betreffend Johannes-Giesberts-Park
+- TOP 1.3: Einwohnerfrage Flächennutzung Johannes-Giesberts-Park - vertagt
+- TOP 1.4: Einwohnerfrage Standortentscheidung Bolzplatz Johannes-Giesberts-Park - vertagt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Barrierefreie Haltestelle Slabystraße, Aktenzeichen 29/26 - Kenntnis genommen
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Anwohnerparken Niehler Straße, Aktenzeichen 47/26 - Kenntnis genommen
+- TOP 2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Beleuchtung im Lohsepark, Aktenzeichen 187/25 - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.4: Nutzung von Fahrradboxen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.5: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - vertagt
+- TOP 7.1.6: Baustellenabsperrung Lohsestraße und Holbeinstraße - vertagt
+- TOP 7.1.7: Verkehrskonzept Friedrich-Karl-Straße - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung Bezirksvertretung Nippes vom 29.01.2026 betreffend "Verkehrskonzept Friedrich-Karl-Straße" (AN/1494/2025) - vertagt
+- TOP 7.1.8: Fahrradabstellanlagen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.9: Sitzgelegenheiten/Pflanzkübel Geldernpark - vertagt
+- TOP 7.1.10: Ampelanlagen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.11: Hitzeschutz an Kitas und Schulen - vertagt
+- TOP 7.1.12: Sachstand Erhalt der Kita „An der Schanz“ - vertagt
+- TOP 7.1.13: Eingeschränkte E-Mail-Weiterleitungen an private Adressen: Ziel erreicht? - Kenntnis genommen
+- TOP -: Antwort der Verwaltung auf "Eingeschränkte E-Mail-Weiterleitungen an private Adressen: Ziel erreicht?" (AN/0781/2026) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Schließung des Frauenhauses Haus Rosalie Rendu - vertagt
+- TOP 7.2.2: Aggressives Betteln auf der Neusser Straße in Nippes - vertagt
+- TOP 7.2.3: Kapazitäten an Tiefgaragenplatzflächen im Bezirk Nippes - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Entsiegelung und Schutz von Straßenbäumen auf der Kempener Straße/Bushaltestelle St. Vinzenz-Krankenhaus - ungeändert beschlossen
+- TOP 8.1.2: Verbesserung der Querungssituation für Fußgängerinnen und Fußgänger an der Kreuzung Industriestraße/Amsterdamer Straße - geändert beschlossen
+- TOP 8.1.3: Wiederanbindung der Busbibliothek an den Sozialraum Bilderstöckchen - geändert beschlossen
+- TOP 8.1.4: Gedenkstele auf dem Platz im Afrika-Viertel: Festlegung des Ortes und des Themas - ungeändert beschlossen
+- TOP 8.1.5: Verkehrssicherheit auf der Graditzer Straße – „Rechts vor Links“ beachten - ungeändert beschlossen
+- TOP 8.1.6: Durchsetzung des Halteverbotes vor der Tiefgarageneinfahrt Niehler Str. 222 („Em Parkveedel“) - ungeändert beschlossen
+- TOP 8.1.7: Bewohnerparken im östlichen Mauenheim - ungeändert beschlossen
+- TOP 8.1.8: Wegeverbindung „Am Ausbesserungswerk“ – S-Bahnhof Geldernstraße/Parkgürtel - ungeändert beschlossen
+- TOP 8.1.9: Absenkung des Bürgersteigs an der Ampel Ecke Merheimer Straße/Bergstraße - ungeändert beschlossen
+- TOP 8.1.10: Nachhaltige Investitionen für die Zukunft – Bäume aus Stadtverschönerungs-Klimamitteln - ungeändert beschlossen
+- TOP 8.1.11: Bessere Kennzeichnung von gegenläufigem Radverkehr in Einbahnstraßen - ungeändert beschlossen
+- TOP 8.1.12: Verbesserung der Verkehrssicherheit und Schutz von Straßenbäumen auf der Kempener Straße/Bushaltestelle St. Vinzenz-Krankenhaus - ungeändert beschlossen
+- TOP 8.1.13: Verbesserung der Schulwegsicherheit für Schüler*innen der Carl-von-Ossietzky Gesamtschule im Bereich Kempener Straße/Etzelstraße - ungeändert beschlossen
+- TOP 8.1.14: Hitzeschutz in städtischen Kindertagesstätten sicherstellen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Teileinziehung Schulstraße Kretzerstraße - ungeändert beschlossen
+- TOP 9.1.2: Umgestaltung der Skateranlage Lohse-Rampe in Köln-Nippes - ungeändert beschlossen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an den Bürgerverein Köln-Longerich e.V. - geändert beschlossen
+- TOP 9.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an Lisa Maria Schaaf und an Noise and Needels e. V. - ungeändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an Nachbarschaft Clouth e.V. - ungeändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an den Bezirksrat des Stadtsportbundes Köln e.V. - ungeändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an den Kirchenchor St. Franziskus (1) - endgültig abgelehnt
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an den Kirchenchor St. Franziskus (2) - ungeändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an Frauen gegen Erwerbslosigkeit e.V. - ungeändert beschlossen
+- TOP 9.1.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an den Förderverein der Montessori-Schule Nippes e.V. - endgültig abgelehnt
+- TOP 9.1.16: Vergabe bezirksorientierter Mittel an die Sportjugend im Stadtsportbund e.V. - ungeändert beschlossen
+- TOP 9.1.17: Vergabe bezirksorientierter Mittel an die North Brigade e.V. - endgültig abgelehnt
+- TOP 9.1.18: Vergabe bezirksorientierter Mittel an Zug um Zug - Altenberger Hof - ungeändert beschlossen
+- TOP 9.1.19: Vergabe bezirksorientierter Mittel an das Seniorennetzwerk Weidenpesch, Haus Mobile e.V. - ungeändert beschlossen
+- TOP 9.1.20: Vergabe bezirksorientierter Mittel an die Ev. Kirchengemeinde Köln-Nippes - ungeändert beschlossen
+- TOP 9.1.21: Vergabe bezirksorientierter Mittel an den Kölner Flüchtlingsrat e.V. - ungeändert beschlossen
+- TOP 9.1.22: Vergabe bezirksorientierter Mittel an das Flora-Sinfonie-Orchester - geändert beschlossen
+- TOP 9.1.23: Vergabe bezirksorientierter Mittel an das Studio Trafique (Sir Gabriel Dellmann e.V.) - geändert beschlossen
+- TOP 9.1.24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.25: Vergabe bezirksorientierter Mittel an die Peter-Ustinov-Realschule - geändert beschlossen
+- TOP 9.1.26: Aufwandentschädigung für Jugendvertreter im ersten Schulhalbjahr 2026/2027 - geändert beschlossen
+- TOP 9.1.27: Vergabe bezirksorientierter Mittel an die Bürgerstiftung Köln - ungeändert beschlossen
+- TOP 9.1.28: Vergabe bezirksorientierter Mittel an den Humba e.V. - ungeändert beschlossen
+- TOP 9.1.29: Vergabe bezirksorientierter Mittel an die Stadtteilkonferenz der Sozialbetriebe Köln-Riehl - geändert beschlossen
+- TOP 9.1.30: Temporäre Ausweisung einer Hundefreilauffläche im Lis-Böhle-Park an der Grabbestraße aufgrund der Sperrung des Johannes-Giesberts-Parks - ungeändert beschlossen
+- TOP 9.1.31: Vergabe bezirksorientierter Mittel an die North Brigade - 2 - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Feststellung der 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes, Arbeitstitel: "Südliche Schmiedegasse" in Köln-Weidenpesch - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 66499/09 Arbeitstitel: Südliche Schmiedegasse in Köln-Weidenpesch - geändert beschlossen
+- TOP 9.2.3: Anhörung zur Änderung von Busverkehrsleistungen - geändert beschlossen
+- TOP -: Anhörung zur Änderung von Busverkehrsleistungen - ungeändert beschlossen
+- TOP 9.2.4: "Köln baut bezahlbar | Wohnen für alle" - vertagt
+- TOP 9.2.5: Beschluss über Planung und Durchführung des Abrisses von 15 Einfamilienhäusern, eines Mehrfamilienhauses sowie Rückbau versiegelter Flächen auf dem städtischen Grundstück Auf dem Ginsterberg 2-34, 50737 Köln-Weidenpesch - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Nachhaltiger Mobilitätsplan „Besser durch Köln“ – Bisherige Ergebnisse und weiterer Prozess - Kenntnis genommen
+- TOP 10.2.2: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 10.2.3: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung Mobilitätsausschuss vom 03.03.2026 (AN/0313/2026) betreffend "Einrichtung von Schulstraßen" - Kenntnis genommen
+- TOP 10.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.5: Beantwortung der mündlichen Anfrage zu den Vorlagen 0180/2026 und 0189/2026 in der Sitzung am 23.02.2026 - Kenntnis genommen
+- TOP 10.2.6: "Lebenswerte Veedel- Bürger*innen- und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms in den Jahren 2024 und 2025 - Kenntnis genommen
+- TOP 10.2.7: Beantwortung einer schriftlichen Nachfrage der Fraktion Bündnis 90/Die Grünen zur Sitzung der BV Nippes am 09.09.2025 (AN/1234/2025) betreffend "Anfrage Sicherheit auf der Fahrradstraße: Etzelstraße" - Kenntnis genommen
+- TOP 10.2.8: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 10.2.9: Zielvereinbarung 2026 - Bürgerzentrum Nippes - Kenntnis genommen
+- TOP 10.2.10: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2026„– Start des Sommerprogramms - Kenntnis genommen
+- TOP 10.2.11: Mitteilung zur Schulentwicklung der Grundschulen Garthestr. 20-24 in Köln-Riehl - Kenntnis genommen
+- TOP 10.2.12: Einrichtung von Schulstraßen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.13: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 246. Änderung des Flächennutzungsplanes (FNP); Arbeitstitel: "Städtebauliche Entwicklung Longericher Straße" in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.14: Bebauungsplan-(Entwurf) Nr. 65490/05; Arbeitstitel: "Städtebauliche Entwicklung Longericher Straße" in Köln-Bilderstöckchen hier: Mitteilung über die Veröffentlichung des Entwurfs nach § 3 Abs. 2 BauGB - Kenntnis genommen
+- TOP 10.2.15: Tagesordnungspunkt (betrifft Privatpersonen)
