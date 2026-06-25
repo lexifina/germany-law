@@ -1,0 +1,55 @@
+# 23. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-06-25T16:00:00+02:00
+- Ende: 2026-06-25T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/15823
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/15823
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00893906.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde: Veranstaltungen möglich machen! - Klarheit bei der Finanzierung von Zufahrtsschutz - erledigt
+- TOP 4: Rahmenbedingungen zu Finanzierung, Unterhalt und Überlassung von Sicherheitseinrichtungen - Ablehnung
+- TOP 5: Veranstaltungen möglich machen! - Klarheit bei der Finanzierung von Zufahrtsschutz - Zustimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Änderung der Haushaltssatzung 2026 gemäß Erlass des Sächsischen Staatsministerium des Innern vom 21. Juli 2025 - Ersetzung
+- TOP 8: Ideen- und Realisierungswettbewerb BUGA 2033 sowie Vorgehensvorschlag zur Planung und Errichtung der Badestelle am Kiessee Leuben – Südsee - Zustimmung
+- TOP 9: Umwidmung des Ankaufbudgets und Verwendung des Mehrkostenbudgets für Baumaßnahmen der WiD Wohnen in Dresden GmbH & Co. KG - Zustimmung
+- TOP 10: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen im Wirtschaftsjahr 2025 durch Übertragung von Liegenschaften - Zustimmung
+- TOP 11: Ersatzneubau Schwimmhalle Klotzsche - Zustimmung
+- TOP 12: Ausschreibung von Dienstleistungskonzessionen für Thematische Weihnachtsmärkte/-veranstaltungen der Landeshauptstadt Dresden 2027–2031 (Verlängerungsoption bis 2033); Änderung der Jahr- und Spezialmarktsatzung - punktweise Zustimmung
+- TOP 13: Erweiterung des Umgriffs des Fördergebietes „Dresden Südost“ - Zustimmung
+- TOP 14: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Verweisung
+- TOP 15: Vorübergehende Aufhebung und Fortschreibung der Stellplatzsatzung der Landeshauptstadt Dresden - zurückgezogen
+- TOP 16: Änderung und Verschlankung der Stellplatzsatzung der Landeshauptstadt Dresden - Ersetzung
+- TOP 17: Vertragungen aus der Stadtratssitzung vom 04.06.2026
+- TOP 17.1: Vertragsverlängerung und Sicherstellung der Finanzierung für die Sportgroßveranstaltung "City Biathlon" für die Jahre 2027 und 2028 - Zustimmung
+- TOP 17.2: Bewerbung um einen Etappenort bei der Deutschlandtour 2027 - Zustimmung mit Ergänzung
+- TOP 17.3: Bildung und Teilhabe qualitativ sichern - Ablehnung
+- TOP 17.4: Sicherheit für alle Mitarbeiter der Stadtverwaltung verbessern – Übergriffe verhindern - Ablehnung
+- TOP 17.5: Anhörung zum Thema „Bevölkerungsentwicklung in der Landeshauptstadt Dresden" - Zustimmung mit Änderung
+- TOP 17.6: Schwierige Haushaltslage transparent machen - Dresdnerinnen und Dresdner beteiligen! - erledigt
+- TOP 17.7: Projekttheater erhalten - Vertagung durch Einreicher
+- TOP 17.8: Nachhaltige Sicherung des Projekttheaters und Überprüfung der Finanzierungsverantwortung zwischen Stadt und Freistaat Sachsen - Vertagung durch Einreicher
+- TOP 18: Aufnahme des Hortes der Freien Gartenstadtschule Hellerau, Moritzburger Weg 67c in 01109 Dresden, in den Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2025/2026 rückwirkend zum 1. Oktober 2025 und Betreibung durch den Träger venabi e. V. - Zustimmung
+- TOP 19: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2026/2027 - Zustimmung
+- TOP 20: 1. Änderung der Fachförderrichtlinie der Landeshauptstadt Dresden zur Unterstützung der Mobilität für Menschen mit Behinderung (FFRL Mobilität MmBehind) vom 12. August 2021 - Zustimmung
+- TOP 21: Sanierung des Lotzebachstollens – Weiteres Vorgehen - Zustimmung
+- TOP 22: Verkehrssicherheit erhöhen: Radverkehrskonzept neu aufstellen - Ablehnung
+- TOP 23: Naturnahe Schulgeländegestaltung für Dresden - Vertagung durch Einreicher
+- TOP 24: Entwicklung und Anwendung eines Personalbemessungsinstruments für die Verwaltung des Jugendamtes - Ablehnung
+- TOP 25: Fernwärmeleitungsprovisorium auf der Augustusbrücke - Vertagung durch Einreicher
+- TOP 26: Bürokratieabbau und Kostenoptimierung in der Verwaltung durch Aufhebung der Beschlüsse zu "A0011/19, A0627/19, A0589/19, A0296/17, A0383/22, A0273/10 und V3794-SR71-04 - punktweise Zustimmung mit Ergänzung
+- TOP 27: Beschleunigung der Einbürgerungsverfahren in Dresden - Zustimmung
+- TOP 28: Planungen für S-Bahn-Haltepunkt am Richard-Strauss-Platz unterstützen - Zustimmung
+- TOP 29: "Dresdner Tatort" erhalten! Nicht kaputtsparen! - Keine Zuständigkeit
+- TOP 30: Finanzierung Kindertreff Moosmutzelhaus - erledigt
+- TOP 34: Startchancen-Programm (SCP) – Umsetzung Säule I – Investitionsprogramm an kommunalen Schulen der Landeshauptstadt Dresden, Inhalt und Terminplanung - erledigt
+- TOP 35: Stand der Katastrophenschutzvorsorge und -vorbereitung gemäß § 36 Absatz 2 SächsBRKG - erledigt
