@@ -1,0 +1,7 @@
+# TOP 3: Genehmigung der Tagesordnung
+
+- Sitzung: Bezirksausschuss VII - Uedesheim (2026-06-25)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/268396
+- Ergebnis: einstimmig zugestimmt
