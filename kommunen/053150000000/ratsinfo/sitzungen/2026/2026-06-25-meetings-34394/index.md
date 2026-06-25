@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-25T16:59:00+02:00
+- Ende: 2026-06-25T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34394
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34394
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohner*innen gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Bildende Kunst - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Einrichtung eines Kunstbeirates für die Ratsperiode 2025-2030 - geändert beschlossen
+- TOP 4.2: Maßnahme der Kulturentwicklungsplanung: Umsetzung des Leitbilds „In Vielfalt durch Vielfalt: Kulturelle Teilhabe an den Kulturinstitutionen der Stadt Köln“ – Implementierung des Kriteriums Vielfalt in den städtischen Kulturinstitutionen - ohne Votum behandelt
+- TOP -: Änderungsantrag TOP 4.2 – Maßnahme der Kulturentwicklungsplanung: Umsetzung des Leitbilds „In Vielfalt durch Vielfalt: Kulturelle Teilhabe an den Kulturinstitutionen der Stadt Köln“ – Implementierung des Kriteriums Vielfalt in die Organisationsstrukt - ohne Votum behandelt
+- TOP 4.3: Vorgabenbeschluss zur Ausarbeitung des Bebauungsplan-Entwurfs Nr.: 44603/03 Arbeitstitel Sicherung der Clubkultur im Bereich Lichtstraße/ Ehrenfeldgürtel` in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 4.4: Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2025 - ohne Votum behandelt
+- TOP 4.5: Vergabe zur Restaurierung und fotografischen Dokumentation von Urkunden - ungeändert beschlossen
+- TOP -: Änderungsantrag TOP 4.5 – Vergabe zur Restaurierung und fotografischen Dokumentation - Sache ist erledigt
+- TOP -: Stellungnahme zum Änderungsantrag der Fraktion Bündnis 90/Die Grünen betreffend "Vergabe zur Restaurierung und fotografischen Dokumentation" (AN/0494/2026) - Kenntnis genommen
+- TOP 4.6: Annahme der Schenkung der Sammlung von 30 europäischen Mörsern des 15. bis 19. Jahrhunderts von Dieter und Christel Schürzeberg an das Museum für Angewandte Kunst - ungeändert beschlossen
+- TOP 4.7: Renovierungsetat der Museen 2026 - ungeändert beschlossen
+- TOP 4.8: Bedarfsfeststellungsbeschluss Ebertplatz - Weiterführung eines Platzmanagements und -programms 2026-2030 - ohne Votum behandelt
+- TOP 4.9: Zuschuss zur Erhaltung des Kölner Domes - ungeändert beschlossen
+- TOP 4.10: Sanierung und Optimierung des Fotoarchivs und der Depotflächen auf der Ebene 5.0 im Rautenstrauch-Joest-Museum hier: Aufhebungsbeschluss - vertagt
+- TOP 4.11: Umbau Konzertsaal Stadtgarten Köln – Europäisches Zentrum für Jazz und Aktuelle Musik durch die Initiative Kölner Jazz Haus e.V. - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - Kenntnis genommen
+- TOP 8.2: In Vielfalt durch Vielfalt - Strukturanalyse kulturelle Teilhabe in den städtischen Kulturinstitutionen - Kenntnis genommen
+- TOP 8.3: NRWeltoffen Förderprogramm 2025 - Kenntnis genommen
+- TOP 8.4: Durchführung einer europaweiten Markterkundung / Osthof Hallen Kalk - Kenntnis genommen
+- TOP 8.5: Kulturentwicklungsplanung Sachstandsbericht 2025/26 - Kenntnis genommen
+- TOP 8.6: Zeughaus und Alte Wache für Interimistische Nutzung der Freien Szene öffnen - vertagt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 28. Mai 2026 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 28. Mai 2026 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 28. Mai 2026 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten/Termin-Darstellung (Zeitstrahl) - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die GRÜNEN von Brigitta von Bülow aus der Sitzung des Ausschusses Kunst und Kultur vom 07.05.2026 betreffend "Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML)" - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage der SPD-Fraktion betreffend "Flügelauto auf dem Turm des Zeughauses" - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung einer mündlichen Anfrage von RM von Bülow aus der Sitzung des Ausschusses Kunst und Kultur vom 07.05.2026 bezüglich der Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "MiQua: Abwasserkanal" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen "MiQua: Abwasserkanal" (AN/0746/2026) - Kenntnis genommen
+- TOP 11.2: Anfrage der Fraktion Volt betreffend "Erinnerung an die Verbrechen des Bosnienkrieges und den Genozid von Srebrenica" - vertagt
+- TOP 11.3: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Kulturraummanagement" - vertagt
+- TOP 11.4: Anfrage der Fraktion CDU betreffend "Szenebericht 2026 - Ateliersituation in Köln" - vertagt
+- TOP 11.5: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Stiftung Stadtgedächtnis" - vertagt
+- TOP 12: Mündliche Anfragen
