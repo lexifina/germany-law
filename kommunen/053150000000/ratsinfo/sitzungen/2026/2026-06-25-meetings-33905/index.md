@@ -1,0 +1,95 @@
+# 6. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-25T16:00:00+02:00
+- Ende: 2026-06-25T20:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33905
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33905
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohnerfrage - Fragen zur Nettobilanz der Stadtbäume im Bezirk - vertagt
+- TOP 1.2: Aktuelle Stunde - Hitzeschutz jetzt – Was tut die Stadt Köln zum Schutz der Menschen in der Innenstadt? Antrag B90/Die Grünen
+- TOP 1.3: Einwohneranfrage - Severinsbrücke/Helenenwallstraße - Sache ist erledigt
+- TOP -: Beantwortung der Einwohneranfrage für die BV Innenstadt betreffend "Gesamtinstandsetzung Severinsbrücke/Bebauung Helenenwallstraße" (AN/1870/2026) - Kenntnis genommen
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Eingangsklassen am Musikzweig des Humboldt-Gymnasium Kartäuserwall 40, 50676 Köln-Altstadt/Süd, Schulnummer 166649 - ungeändert beschlossen
+- TOP 3.2: "Köln baut bezahlbar | Wohnen für alle" - vertagt
+- TOP 3.3: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das Jahr 2026 - ungeändert empfohlen
+- TOP 3.4: Anhörung zur Änderung von Busverkehrsleistungen - ungeändert beschlossen
+- TOP 3.5: Genehmigung Dringlichkeitsentscheidung - Konzept zur Vergabe des Offenbachplatzes sowie des angrenzenden Dirk-Bach-Platzes nach Fertigstellung und Wiedereröffnung des Bühnenensembles für Veranstaltungen und ähnlich geprägte Nutzungen - ungeändert beschlossen
+- TOP 3.6: Teileinziehung der Lochnerstraße in Köln-Neustadt/Süd - Schulstraße - ungeändert beschlossen
+- TOP 3.7: Änderung der Katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln, Schulnummer 140909 von 3 auf 2 Züge ab dem Schuljahr 2027/28 - ungeändert beschlossen
+- TOP 3.8: Grundsatzbeschluss zur Festlegung der ÖPNV-Erschließung für das Stadtentwicklungsprojekt Parkstadt Süd - mit Änderungen empfohlen
+- TOP 3.9: Gewährung eines Zuschusses zum Belagswechsel des Uni-Kunststoffrasenspielfeldes - ungeändert beschlossen
+- TOP 3.10: Drehung Einbahnstraße Trankgassenwerft südlich der Bastei - vertagt
+- TOP 3.11: Beschluss über Anregungen/Stellungnahmen sowie Satzungsbeschluss Bebauungsplanentwurf Nummer 68439/04 Arbeitstitel: "Deutzer Hafen - Teilplan A" in Köln-Deutz - ungeändert empfohlen
+- TOP 3.12: Annahme einer Schenkung der Kölner Grün Stiftung für Aufwertungsmaßnahmen in der historischen Grünanlage Aachener Weiher im Inneren Grüngürtel - ungeändert beschlossen
+- TOP 3.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.14: Bedarfsfeststellungsbeschluss Ebertplatz - Weiterführung eines Platzmanagements und -programms 2026-2030 - ohne Votum behandelt
+- TOP 3.15: Baubeschluss für die Instandsetzung der Trogwände Stadtbahnrampe Barbarossaplatz - ungeändert empfohlen
+- TOP 3.16: Beschluss über die Änderung des Bebauungsplanes Nr. 67469/03 Arbeitstitel: Hansaring/Turiner Straße in Köln - Altstadt Nord / Neustadt Nord - ungeändert empfohlen
+- TOP 3.17: Genehmigung Dringlichkeitsentscheidung - Infrastrukturmaßnahmen im Bereich der Stadtbahnlinien 1, 7 und 9 in den Sommerferien 2026 - hier: Anhörung zum Schienenersatzkonzept - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO NRW - Autoparken am Appellhofplatz, Aktenzeichen 50/25 - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Maßnahmenpaket Severinstraße, gem. Antrag SPD und Volt - vertagt
+- TOP 5.1.2: Verkehrssicherheit auf der Fahrradstraße Pantaleonswall / Trierer Straße erhöhen, Antrag SPD - ungeändert beschlossen
+- TOP 5.1.3: Baumschutzsatzung anpassen: Höhere Ausgleichszahlungen, ortsnahe Ersatzpflanzungen, Schutz von Fassaden- und Dachbegrünungen., Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.1.4: Begrünung nach Wegfall von Parkplätzen, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.1.5: Verbesserung der Verkehrssicherheit Am Leystapel und Prüfung der Öffnung des Rheinufertunnels für den Radverkehr, gem. Antrag B90/Die Grünen, Die Linke und Volt - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Fahrradstellplätze gemäß Stellplatzsatzung am Humboldt-Gymasium, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.2.2: Finanzielle Ausstattung der Jugendvertretung in der Bezirksvertretung Innenstadt– gemeinsamer Antrag von: B90/Die Grünen, Die Linke, CDU, SPD, Volt (EV), FDP (EV) - ungeändert beschlossen
+- TOP 5.2.3: Spürbare Verbesserungen in der Kölner Drogenkrise, Antrag CDU - endgültig abgelehnt
+- TOP 5.2.4: Antrag zur Neuordnung des Parkraums und zur Prüfung einer Quartiersgarage in Köln-Deutz, gem. Antrag SPD und CDU - vertagt
+- TOP 5.2.5: Unterstützung des Tags des guten Lebens 2026, gemeinsamer Antrag von B90/Die Grünen, Die Linke, SPD, Volt (EV) - ungeändert beschlossen
+- TOP 5.2.6: Pragmatische Fahrradspur am Altstadtufer, Antrag CDU - endgültig abgelehnt
+- TOP 5.2.7: Tempo 30 auf der Neusser Straße zw. Ebertplatz und Innere Kanalstraße – gemeinsamer Antrag von: B90/Die Grünen, Die Linke, SPD, Volt (EV) - ungeändert beschlossen
+- TOP 5.2.8: Aufwertung einer Grünanlage mit einer Sitzbank, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.9: Sanierung und Aufwertung der Gedenkstätte für die Opfer der Gestapo im Hansapark – gemeinsamer Antrag von: B90/Die Grünen, Die Linke, CDU, SPD, Volt (EV), FDP (EV) - ungeändert beschlossen
+- TOP 5.2.10: Einbahnstraßenregelung Wolfstraße /Entlastung der Gertruden- und Apostelnstraße, gem. Dringlichkeitsantrag B90/Die Grünen, Die Linke, CDU und SPD - ungeändert beschlossen
+- TOP 5.2.11: Schutz von Großbäumen auf dem Gelände des Krankenhauses „Klösterchen“ – gemeinsamer Antrag von B90/Die Grünen, Die Linke, CDU, Volt - ungeändert beschlossen
+- TOP 5.2.12: Weiterbetrieb der Kita Karl-Korn-Straße – gemeinsamer Antrag von B90/Die Grünen, Die Linke, CDU, Volt - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP 6.1.3: Umfang und Ursachen kampfmittelbedingter Baumfällungen, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.4: Vermeidungsstrategien und Handlungsspielräume bei kampfmittelbedingten Baumfällungen, Anfrage B90/Die Grünen - vertagt
+- TOP -: Beantwortung der schriflichen Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Handlungsspielräume bei kampfmittelbedingten Baumfällungen" (AN/0173/2026) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der BV Innenstadt vom 29.01.2026 (AN/0170/2026) betreffend "Umfang und Ursachen kampfmittelbedingter Baumfällungen" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.1.5: Baumfällungen rund um die geplante Großunterkunft für Geflüchtete im Agnesviertel, Anfrage CDU - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung der BV 1 vom 29.01.2026 (AN/0176/2026) zu Baumfällungen rund um die geplante Großunterkunft für Geflüchtete im Agnesviertel - Kenntnis genommen
+- TOP 6.1.6: Großformatige Werbung in der Innenstadt, Anfrage Die Linke - vertagt
+- TOP 6.1.7: Dringende Sanierung und Neustart für die Bastei, Anfrage CDU - vertagt
+- TOP 6.1.8: Update Brüsseler Platz, Anfrage CDU - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Brand in der Severinstraße am 02.06.2026 - Rettungsfähigkeit bei engen Straßenprofilen, Antrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen zum Brandereignis in der Severinstraße - Kenntnis genommen
+- TOP 6.2.2: Umsetzung von Sofortmaßnahmen im Rahmen der Suchthilfe Innenstadt, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Grünen Fraktion aus der BV1 (AN/1112/2026) vom 25.06.2026 betreffend "Umsetzung von Sofortmaßnahmen im Rahmen der Suchthilfe Innenstadt - Kenntnis genommen
+- TOP 6.2.3: Sachstand Weiterführung der Kita Karl-Korn-Straße, Anfrage B90/Die Grünen - vertagt
+- TOP 7: Mitteilungen der Bezirksbürgermeisterin
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - vertagt
+- TOP 8.2: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2025) - Kenntnis genommen
+- TOP 8.3: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2026„– Start des Sommerprogramms - Kenntnis genommen
+- TOP 8.4: Beantwortung der mündlichen Anfrage zu den Vorlagen 0180/2026 und 0189/2026 in der Sitzung am 23.02.2026 - Kenntnis genommen
+- TOP 8.5: Zielvereinbarungen 2026 - Bürgerhaus Stollwerck, Bürgerzentrum Deutz, Bürgerzentrum Alte Feuerwache und Quäker Nachbarschaftsheim - vertagt
+- TOP 8.6: Angebotsänderung auf der Buslinie SB 40 - Kenntnis genommen
+- TOP 8.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Installation von Trinkwasserspendern im Grüngürtel, Aktenzeichen 64/26 - Kenntnis genommen
+- TOP 8.8: "Selbstwirksamkeit stärken - Resilienz fördern" - vertagt
+- TOP 8.9: Einrichtung von Schulstraßen im Kölner Stadtgebiet - vertagt
+- TOP 8.10: GRÜNGÜRTEL Parkstadt Süd, hier: Öffentlichkeitsbeteiligung im Rahmen der Entwurfsplanung - Kenntnis genommen
+- TOP 8.11: Sachstandsberichte - Kenntnis genommen
+- TOP 8.12: Straßenbaumaßnahme „Achterstraße“, hier: Mitteilung über notwendige Unterhaltungsmaßnahmen zur Erhaltung der Verkehrssicherheit - Kenntnis genommen
+- TOP 8.13: Antworten der Verwaltung zur Aktuellen Stunde aus der Sitzung vom 07.05.2026 betreffend "Innenstadt-Parkplätze erhalten - Lebensrealitäten anerkennen" (AN/0772/2026) - vertagt
+- TOP 8.14: Ergebnisse der Workshops zur Deutzer Freiheit - vertagt
