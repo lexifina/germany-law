@@ -184,7 +184,7 @@
 | Gewerbezentralregister |
 | § 149 | Einrichtung eines Gewerbezentralregisters |
 | § 150 | Auskunft auf Antrag der betroffenen Person |
-| § 150a | Auskunft an Behörden oder öffentliche Auftraggeber |
+| § 150a | Auskunft an Behörden |
 | § 150b | Auskunft für die wissenschaftliche Forschung |
 | § 150c | Auskunft an ausländische sowie über- und zwischenstaatliche Stellen |
 | § 150d | Protokollierungen |
@@ -201,7 +201,7 @@
 | § 154 | (weggefallen) |
 | § 154a | (weggefallen) |
 | § 155 | Landesrecht, Zuständigkeiten |
-| § 155a | Versagung der Auskunft zu Zwecken des Zeugenschutzes |
+| § 155a | Maßnahmen zu Zwecken des Zeugenschutzes |
 | § 156 | Übergangsregelungen zu den §§ 34d und 34e |
 | § 157 | Übergangsregelungen zu den §§ 34c und 34f |
 | § 158 | Übergangsregelung zu § 11b; Probebetrieb |

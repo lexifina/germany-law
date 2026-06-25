@@ -214,7 +214,7 @@ Handwerkskammern, Innungsverbände
 
 - [§ 149 Einrichtung eines Gewerbezentralregisters](0149.md)
 - [§ 150 Auskunft auf Antrag der betroffenen Person](0150.md)
-- [§ 150a Auskunft an Behörden oder öffentliche Auftraggeber](0150a.md)
+- [§ 150a Auskunft an Behörden](0150a.md)
 - [§ 150b Auskunft für die wissenschaftliche Forschung](0150b.md)
 - [§ 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen](0150c.md)
 - [§ 150d Protokollierungen](0150d.md)
@@ -232,7 +232,7 @@ Handwerkskammern, Innungsverbände
 - [§ 154](0154.md)
 - [§ 154a](0154a.md)
 - [§ 155 Landesrecht, Zuständigkeiten](0155.md)
-- [§ 155a Versagung der Auskunft zu Zwecken des Zeugenschutzes](0155a.md)
+- [§ 155a Maßnahmen zu Zwecken des Zeugenschutzes](0155a.md)
 - [§ 156 Übergangsregelungen zu den §§ 34d und 34e](0156.md)
 - [§ 157 Übergangsregelungen zu den §§ 34c und 34f](0157.md)
 - [§ 158 Übergangsregelung zu § 11b; Probebetrieb](0158.md)
