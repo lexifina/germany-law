@@ -1,0 +1,85 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-06-26T14:00:00+02:00
+- Ende: 2026-06-26T16:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29605
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29605
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590552.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590552.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590552.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung vom 22.05.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Eingaben nach § 24 GO NRW
+- TOP 4.1: Nachtruhe auf dem Maria-und-Josef-Otten-Platz - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Vorstellung des Verkehrskonzepts Großmarkt - zur Kenntnis genommen
+- TOP 5.2: Vorstellung des Projekts "Stiftung Nachhaltigkeit der Stadtsparkasse Düsseldorf" - zur Kenntnis genommen
+- TOP 5.3: Kooperatives Verfahren Nr. 01/033 - Schadowstraße/ Berliner Allee (Tuchtinsel) - zur Kenntnis genommen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Worringer Straße 2, 4 – Nutzungsänderung von Büro in Praxis für Physiotherapie - mehrheitlich beschlossen
+- TOP 5.7: Weihnachtsmarkt auf dem Münsterplatz 2026 - einstimmig beschlossen
+- TOP 5.8: Hippie-Markt am Tonhallenufer im Sommer 2026 - zurückgezogen
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Kaiserswerther Straße – Herstellung einer baulichen Mitteltrennung - einstimmig beschlossen
+- TOP 5.11: Errichtung der Fahrradstationen Schwanenmarkt, Prinz-Georg-Straße und Reeser Platz - mehrheitlich beschlossen
+- TOP 5.12: Errichtung von Sharingstationen in Pempelfort – Standorte im Rahmen des Förderprojekts Multi-Mo-DUS - zur Kenntnis genommen
+- TOP 5.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2026 - einstimmig beschlossen
+- TOP 5.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2026 Liste A Schulen 2121101/52415100 - abweichend beschlossen
+- TOP 5.15: Eat the Beat Ehrenhof - zur Kenntnis genommen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Schulstraßen und Schulwegsicherheit im Stadtbezirk 1 - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 6.2: Terrassenaufbau Stockkampstraße PKW-Stellplatz - Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Terrassenverbreiterungen in den Fahrbahnbereich Schwerinstraße - Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Zustand offener Bücherschrank im Berty-Albrecht-Park - Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 7.2: Bürgersteig auf der Thomasstraße - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 7.3: Quartiersmanagement Worringer Platz - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 7.4: Don Bosco Haus Klosterstraße – Anfrage der SPD-Fraktion
+- TOP 7.5: Überlange Fahrzeuge auf Schräg- und Querparkplätzen – Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.6: Situation im Bereich Akademiestraße 2 – Maßnahmen gegen dauerhafte Lagerbildung und Verschmutzungen - Anfrage der CDU-Fraktion
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Mehr Mülleimer auf der Berliner Allee - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Instandsetzung der Ausfahrt der Feuer- und Rettungswache 3 an der Münsterstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Prüfung von Maßnahmen zur Reduzierung des Durchgangsverkehrs in der Leopold- und Cantadorstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.4: Basketballkorb auf dem Spielplatz Stephanienstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Bordsteinabsenkung an der Schinkelstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.6: Übernahme der Kosten für die Installation eines Waschbeckens in einem Klassenraum der Matthias-Claudius-Grundschule aus Liste A - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Blumenkästen auf dem Plätzchen Kaiserswerther/Nord/Venloerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.8: Fahrradständer vor dem Röntgeninstitut Kaiserswerther Straße 89 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.9: Tempo 30 Piktogramme rund um den Stephanienspielplatz – überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.10: Entfernung von Telefonzellen in der Altstadt - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8.11: Sanierung des Straßenbelags Golzheimer Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.12: Tuning- und Poser-Szene an der Theodor-Heuss-Brücke - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Begehung der Tempo 30 Zone zwischen Toulouser Allee, Adlerstraße und Bagelstraße; Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/081/2026 - zur Kenntnis genommen
+- TOP 9.2: Verbesserung der Radverkehrsführung im Kreuzungsbereich Prinz-Georg-Straße, Rochusstraße und Bagelstraße; Beschluss der Bezirksvertretung 1 vom 22,05,2026; BV1/132/2026 - zur Kenntnis genommen
+- TOP 9.3: Mehr Sicherheit auf der Radwegauffahrt Kaiserswerther Straße stadteinwärts auf Höhe der Robert Schumann Musikhochschule; Beschluss der Bezirksvertretung 1 vom 22.05.2026; BV1/115/2026 - zur Kenntnis genommen
+- TOP 9.4: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.5: Sicherung Radverkehr Jacobistraße; Beschluss der Bezirksvertretung 1 vom 22.05.2026; BV1/128/2026 - zur Kenntnis genommen
+- TOP 9.6: Fahrradständer auf der Goltsteinstraße; Beschluss der Bezirksvertretung 1 vom 22.05.2026; BV1/125/2026 - zur Kenntnis genommen
+- TOP 9.7: Versetzung der Fahrradständer an der Hafenstraße 4 – Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/189/2022 - zur Kenntnis genommen
+- TOP 9.8: Prüfung der Wegebeziehung westliche Worringer Straße – Beschluss der Bezirksvertretung 1 vom 21.02.2025; BV1/035/2025: - zur Kenntnis genommen
+- TOP 9.9: Prüfung zur Einrichtung eines weiteren Anwohnerparkgebietes in Golzheim – Beschluss der Bezirksvertretung 1 vom 21.02.2025; BV1/033/2025 - zur Kenntnis genommen
+- TOP 9.10: Schulwegsicherung auf der Gerresheimer Straße, Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/071/2026 - zur Kenntnis genommen
+- TOP 9.11: Erhaltung des Schulstandortes Luisengymnasium; Beschluss der Bezirksvertretung 1 vom 11.10.2024; BV1/216/2024 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Verein der Freunde und Förderer des Görres-Gymnasiums - mehrheitlich beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Golzheimfest e.V. - mehrheitlich beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Heimatverein Derendorfer Jonges 1956 e.V. - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Schachklub 1914/25 e.V. - einstimmig beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mosaik e.V. - einstimmig abgelehnt
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Nachbarschaftsfest Feldstraße - einstimmig beschlossen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Kinder.Machen.Dinge - mehrheitlich beschlossen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
