@@ -14,5 +14,5 @@
 - [§ 12 Weitere Aufgaben der beauftragten Stelle](0012.md)
 - [§ 13 Bußgeldvorschriften](0013.md)
 - [§ 14 Anpassung von Rechtsverordnungen](0014.md)
-- [§ 15 Inkrafttreten](0015.md)
+- [§ 15 Außerkrafttreten](0015.md)
 - [Anlage (zu § 4 Abs. 1 Nr. 3)](anlage.md)

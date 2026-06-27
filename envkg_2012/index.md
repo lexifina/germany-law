@@ -1,4 +1,4 @@
-# Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
+# Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

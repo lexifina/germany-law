@@ -26,10 +26,10 @@ Spendern
 - [§ 8a Lebendspendekommissionen](0008a.md)
 - [§ 8b Entnahme von Knochenmark bei minderjährigen Personen](0008b.md)
 - [§ 8c Entnahme von Organen und Geweben in besonderen Fällen](0008c.md)
+- [§ 8d Entnahme von Organen und Geweben zur Rückübertragung](0008d.md)
 
 ## Abschnitt 3a Gewebeeinrichtungen, Untersuchungslabore, Register
 
-- [§ 8d Entnahme von Organen und Geweben zur Rückübertragung](0008d.md)
 - [§ 8e Besondere Pflichten der Gewebeeinrichtungen](0008e.md)
 - [§ 8f (weggefallen)](0008f.md)
 - [§ 8f Untersuchungslabore](0008f-2.md)
