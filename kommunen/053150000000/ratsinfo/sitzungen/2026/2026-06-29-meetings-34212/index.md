@@ -1,0 +1,79 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-29T14:35:00+02:00
+- Ende: 2026-06-29T15:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34212
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34212
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohner*innen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Überörtliche Prüfung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW 2024/2025 - Kenntnis genommen
+- TOP 2.3: Festsetzung Landschaftsumlage 2026 - Kenntnis genommen
+- TOP 2.4: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2025) - Kenntnis genommen
+- TOP 2.5: Beteiligungsbericht 2024 - Kenntnis genommen
+- TOP 2.6: RheinEnergie AG: Erzeugungsbericht 2023 bis 2025 - Kenntnis genommen
+- TOP 2.7: Stadtentwässerungsbetriebe Köln AöR: Rechtsnachfolge Wasser- und Bodenverband Wahn - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Ansätze zur Verbesserung der Ertragsbasis - vertagt
+- TOP 4.2: Sachstand und Kosten der Liquidation der GbR Historische Mitte - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Ermächtigungsübertragungen in das Haushaltsjahr 2026 - Kenntnis genommen
+- TOP 6.3: Mehrkosten für den Bau einer ebenerdigen barrierefreien Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barreierefreie Brücke - Kenntnis genommen
+- TOP 6.4: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2026 - Kenntnis genommen
+- TOP 6.5: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025/2026 - Kenntnis genommen
+- TOP 6.6: Überplanmäßiger Mehrbedarf im Bereich der Hilfen zur Erziehung in der Produktgruppe 0606, Hilfen für junge Menschen und ihre Familien, im Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 6.7: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.8: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Str. 219a, 51063 Köln-Mülheim, hier: Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 6.9: Unterrichtung des Rates über wesentliche Verschlechterungen des prognostizierten Jahresergebnisses 2026 (Berichte nach § 25 Abs. 1 Nr. 1 KomHVO) - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen für das Amt für Verkehrsmanagement - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Generalsanierung der Dransdorfer Straße zwischen Sinziger Straße und Hausnummer 60 sowie Freigabe einer investiven Auszahlungsermächtigung, hier: Finanzstelle: 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 7.3: Planungs- und Mittelfreigabebeschluss für die Umgestaltung des Knotenpunktes Bergerstraße/Kopenhagener Straße/Ohmstraße in Köln-Porz - ungeändert beschlossen
+- TOP 7.4: Umgestaltung der Skateranlage Lohse-Rampe in Köln-Nippes - ungeändert beschlossen
+- TOP 8: Über- und außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2025 - ohne Votum behandelt
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 9.1: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2024 - ungeändert empfohlen
+- TOP 9.2: Jahresabschluss Wirtschaftsjahr 2024/2025 des Gürzenich-Orchesters Köln - ungeändert empfohlen
+- TOP 9.3: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2026/27 - ungeändert empfohlen
+- TOP 9.4: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Jahresabschluss 2025 - ungeändert empfohlen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Umsetzung des Bund-Länder-Startchancen-Programms für bessere Bildungschancen und mehr Bildungsgerechtigkeit an Kölner Schulen mit hohem Sozialindex - ungeändert empfohlen
+- TOP 10.2: Baubeschluss für den Neubau des Anschlusses der Militärringstraße/Stolberger Straße, des Kreisverkehrsplatzes Stolberger Straße/Wendelinstraße/Vitalisstraße, für die Umgestaltung der Anschlüsse d. Militärringstraße/Aachener Straße und Militärringstr. - ungeändert empfohlen
+- TOP 10.3: Stilllegung der städtischen Altdeponie Linder Mauspfad in Porz-Lind - ungeändert empfohlen
+- TOP 10.4: Maßnahme der Kulturentwicklungsplanung: Umsetzung des Leitbilds „In Vielfalt durch Vielfalt: Kulturelle Teilhabe an den Kulturinstitutionen der Stadt Köln“ – Implementierung des Kriteriums Vielfalt in den städtischen Kulturinstitutionen - ohne Votum behandelt
+- TOP 10.5: Verlängerung der Durchführung des EhAP Plus Projektes INKA – In Köln Ankommen – Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert empfohlen
+- TOP 10.6: Stadtwerke Köln Konzern: Sicherstellung der finanziellen Handlungsfähigkeit - ohne Votum behandelt
+- TOP 10.7: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ohne Votum behandelt
+- TOP 10.7.1: Änderungsantrag zu TOP 10.10 - Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - ohne Votum behandelt
+- TOP 10.7.2: Änderungsantrag zur Vorlage 2446/2024 Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd (zu Ziffer 2) - ohne Votum behandelt
+- TOP 10.8: LuKIFG / NRW-Infrastrukturgesetz 2025-2036, Festlegung der Fördermaßnahmen - ohne Votum behandelt
+- TOP 10.9: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): StEB Köln als Gesellschafter in der Klärschlammkooperation Poolgesellschaft mbH - ungeändert empfohlen
+- TOP 10.10: RheinEnergie hier: RheinEnergie Solar GmbH und RheinEnergie Windkraft GmbH - Konsolidierung des Beteiligungsportfolios im Bereich der Erneuerbaren Energien und Änderung der Gesellschaftsverträge - ungeändert empfohlen
+- TOP 10.11: Renovierungsetat der Museen 2026 - ungeändert beschlossen
+- TOP 10.12: Baubeschluss für die Instandsetzung der Trogwände Stadtbahnrampe Barbarossaplatz - unter Vorbehalt beschlossen
+- TOP 10.13: Beschluss über Planung und Durchführung des Abrisses von 15 Einfamilienhäusern, eines Mehrfamilienhauses sowie Rückbau versiegelter Flächen auf dem städtischen Grundstück Auf dem Ginsterberg 2-34, 50737 Köln-Weidenpesch - ohne Votum behandelt
+- TOP 10.14: Zuschuss zur Erhaltung des Kölner Domes - ungeändert empfohlen
+- TOP 10.15: Denkmalpflegerische Sanierung des Trauerhallenensembles auf dem Melaten-Friedhof, Piusstraße durch ein Totalunternehmen - Bedarfsfestellungs- und Planungsbeschluss - ungeändert empfohlen
+- TOP 10.16: Feststellung des Wirtschaftsplans der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2026 - ungeändert empfohlen
+- TOP 10.17: Sanierung und Optimierung des Fotoarchivs und der Depotflächen auf der Ebene 5.0 im Rautenstrauch-Joest-Museum hier: Aufhebungsbeschluss - ohne Votum behandelt
+- TOP 10.18: Abbruch und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung von Obdachlosigkeit bedrohten Menschen auf dem Grundstück Cohnenhofstraße ohne Nummer, 50769 Köln-Chorweiler hier: Baubeschluss - ohne Votum behandelt
+- TOP 10.19: Umbau Konzertsaal Stadtgarten Köln – Europäisches Zentrum für Jazz und Aktuelle Musik durch die Initiative Kölner Jazz Haus e.V. - ungeändert empfohlen
+- TOP 10.20: Weiterentwicklung BIC, Teilbereich Schulbau und Budgetierung Schulmieten - ohne Votum behandelt
+- TOP 10.21: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2025 - ohne Votum behandelt
+- TOP 10.22: Einrichtung eines bedarfsgerechten Ausbildungsstellenpools bei der Feuerwehr Köln - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 11.1: Mittelfreigabe für die Ausstattung der Zentralbibliothek nach der Generalsanierung am Josef-Haubrich-Hof - ungeändert beschlossen
+- TOP 12: Mündliche Anfragen
