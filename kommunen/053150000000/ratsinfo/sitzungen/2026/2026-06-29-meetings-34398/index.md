@@ -1,0 +1,65 @@
+# 5. Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-29T17:00:00+02:00
+- Ende: 2026-06-29T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/176
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34398
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34398
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01102624.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01102624.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01102624.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung Sachkundiger Einwohner*innen
+- TOP -: B „Bestandsaufnahme zur Umsetzung der Istanbul Konvention in Köln“ – ein Vortrag von Christiane Erkens, Amt für Gleichstellung von Frauen und Männern
+- TOP 1: Schriftliche Anfragen und deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion betreffend "Wohnungslose Frauen und Kinder in Köln – aktuelle Zahlen, Versorgungslage und Handlungsbedarf" - vertagt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion (AN/0199/2026) betreffend „Wohnungslose Frauen und Kinder in Köln – aktuelle Zahlen, Versorgungslage" - vertagt
+- TOP 1.2: Bedeutung der aktuellen Bewirtschaftungsverfügung für den Erhalt und die Arbeit der Frauenprojekte - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 17. Juni 2026 - Kenntnis genommen
+- TOP 1.3: Häusliche Gewalt verhindern - bevor sie entsteht - vertagt
+- TOP 1.4: Anfrage der SPD-Fraktion betreffend "Prävention von sexualisierter Gewalt und Schutz vor häuslicher Gewalt in Köln – Umsetzung der Istanbul-Konvention" - vertagt
+- TOP -: Antwort der Verwaltung vom 8. Mai 2026 - vertagt
+- TOP 1.5: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Fehlende Bereitstellung zugesagter Finanzmittel zur Umsetzung des Pilotprojekts Kostenlose Menstruationsartikel" - vertagt
+- TOP 1.6: Anfrage der Fraktion Die Linke betreffend "Finanzierung der Beratung von Stalkingopfern – linksrheinisch und rechtsrheinisch" - vertagt
+- TOP -: Antwort der Verwaltung vom 11. Mai 2026 - vertagt
+- TOP 1.7: Anfrage der Fraktion Die Linke betreffend "Sexuelle Übergriffe während des Karnevals und der Schutz davor" - vertagt
+- TOP -: Antwort der Verwaltung vom 29. April 2026 - vertagt
+- TOP 1.8: Anfrage der SPD-Fraktion betreffend "Veranstaltungen zum Internationalen Frauentag" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 7. Mai 2026 - Kenntnis genommen
+- TOP 1.9: Anfrage der CDU-Fraktion betreffend "Sachstand zur Umsetzung des Projekts und zur Ermächtigungsübertragung „Frauengesundheit sichtbar machen – Frauengesundheitstag im Kölner Stadtgebiet“"“ - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 11.05.2026 betreffend "Frauengesundheit im Kölner Stadtgebiet" - Kenntnis genommen
+- TOP 1.10: Anfrage der SPD-Fraktion betreffend "Verbesserung der Datengrundlagen für Gender Budgeting" - vertagt
+- TOP -: Beantwortung der Anfrage der SPD-Frakton betreffend "Verbesserung der Datengrundlagen für Gender Budgeting" - vertagt
+- TOP 1.11: Anfrage der SPD-Fraktion betreffend "Stand der Umsetzung der Gendergerechtigkeit bei Straßennamen" - vertagt
+- TOP 1.12: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Strategien und Maßnahmen zum Schutz vulnerabler Personen in der Unterbringung von Geflüchteten" - vertagt
+- TOP -: Beantwortung einer Anfrage zum Schutz vulnerabler Personen bei der städtischen Unterbringung Geflüchteter - vertagt
+- TOP 1.13: Baulicher Zustand des zweiten Frauenhauses - vertagt
+- TOP 1.14: Anfrage der SPD-Fraktion betreffend "Schließung des Hauses Rosalie Rendu – Auswirkungen auf die Versorgung wohnungsloser und von Gewalt betroffener Frauen in Köln" - vertagt
+- TOP 2: Anträge
+- TOP 2.1: Respekt. Verantwortung. Zusammenhalt. - Präventionsworkshops für Jungen im Alter von 12-14 Jahren - geändert beschlossen
+- TOP 2.2: Schutz vor heimlichen Aufnahmen: Smart Glasses in Schwimmbädern wie Potsdam verbieten - ungeändert beschlossen
+- TOP -: Schutz vor heimlichen Aufnahmen: Smart Glasses in Schwimmbädern wie Potsdam verbieten
+- TOP 3: Allgemeine Vorlagen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Beantwortung der Anfrage der Fraktion FDP/KSG betreffend "Informations- und Unterstützungsangebote im Bereich Opferschutz" im Ausschuss Soziales, Gesundheit, Seniorinnen und Senioren am - Kenntnis genommen
+- TOP 4.2: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - Kenntnis genommen
+- TOP 4.3: Bericht der Behindertenbeauftragten der Stadt Köln 02/2026 - Kenntnis genommen
+- TOP 4.4: Sachbericht 2025 des Kölner Netzwerks Arbeits- und Erwerbslosenberatung zum Förderprogramm BOREA - Kenntnis genommen
+- TOP 4.5: Anfrage von Mai Grundmann, SCHLAU eV., in der Stadt-AG Queerpolitik am 28. Mail 2026 zur Auswirkung der olympischen Geschlechtertests - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage von SCHLAU Köln e.V. in der Sitzung der Stadtarbeitsgemeinschaft Queerpolitik am 28.05.2026 zum olympischen Geschlechtertests - Kenntnis genommen
+- TOP 4.6: Sachbericht für das Jahr 2025 zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 4.7: Fachbeirat Mädchenarbeit - Interessenbekundungsverfahren - Kenntnis genommen
+- TOP 4.8: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 4.9: Bestandsaufnahme zur Umsetzung der Istanbul Konvention - vertagt
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Beantwortungen zu mündlichen Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Beantwortung einer mündlichen Anfrage von Michelle Achour zu Drittes Kölner Diskriminierungsmonitoring 0506/2026 - Kenntnis genommen
+- TOP 6.1.2: Gründung des Fachbeirates für Mädchenarbeit , Beschluss über die Geschäftsordnung 0387/2026 - Kenntnis genommen
+- TOP 6.2: Neue mündliche Anfragen
