@@ -1,0 +1,89 @@
+# 6. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-29T17:00:00+02:00
+- Ende: 2026-06-29T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34042
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34042
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Neuwahl einer*eines stellvertretenden Bezirksbürgermeister*in
+- TOP -: Austausch mit Herrn Beigeordneten Andree Haack, Dezernent für Stadtentwicklung, Wirtschaft, Digitalisierung und Regionales
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Vergabe Grabeland Parzellen durch die Siedlergemeinschaft Köln-Vogelsang 1932 e.V. - vertagt
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Beschlussvorlagen zu Bürgereingaben
+- TOP 3.1.1: Bürgereingabe nach §24 GO NRW - Verkehrsberuhigte Straße Eichelhäher Weg, Köln-Vogelsang, Aktenzeichen 131/24 - Sache ist erledigt
+- TOP 3.2: Mitteilungen zu Bürgereingaben
+- TOP 3.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Findlinge Peter-Michels-Straße und Zufahrtsbegrenzung Butzweilerstraße, Aktenzeichen 23/26 - Kenntnis genommen
+- TOP 3.2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssicherheit im Bereich der REWE-Filiale mit Bushaltestelle und Parkplatzzufahrt in Köln-Bickendorf, Aktenzeichen 22/26 - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - Sache ist erledigt
+- TOP 6.1.1: Beantwortung einer schriftlichen Anfrage der FDP Fraktion aus der Sitzung des Bezirksvertretung Ehrenfeld vom 15.05.2025 (AN/0771/2023) betr. "Spielstraße Baumläuferweg in Vogelsang." TOP - Kenntnis genommen
+- TOP 6.2: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - vertagt
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Umsetzungsstand Alternative Begrünungslösungen im Stadtbezirk - vertagt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Wie geht es mit der Bezirkssportanlage Prälat-Ludwig-Wolker in Ehrenfeld weiter? - Sache ist erledigt
+- TOP 6.4.1: Beantwortung AN/0192/2026 / Wie geht es mit der Bezirkssportanlage Prälat Ludwig Wolker in Ehrenfeld weiter - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Die Linke, betr.: Erneuerungsbedarfe der Sportstätten im Stadtbezirk - vertagt
+- TOP 6.6: Anfrage der AfD-Fraktion, betr.: Massive Störung der öffentlichen Ordnung durch illegalen Verbleib des Kiosks "Azads Internationaler Kiosk"" – Sicherheit von Mandatsträgern und gewerberechtliche Konsequenzen - vertagt
+- TOP 6.7: Anfrage der Fraktion die Linken: Mittel aus dem Sport-Sondervermögen - vertagt
+- TOP 6.8: Anfrage der CDU Fraktion: Erfassung und Instandsetzung der baulichen Schäden an und in der Sporthalle auf der Bezirkssportanlage Bocklemünd - vertagt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Anfrage zum Beschluss 0078/2025 der SPD Fraktion Erlenweg Bickendorf - vertagt
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Problematik Café IMPI - vertagt
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Entfernte Verkehrszeichen 283 "Absolutes Halteverbot" in der Herbrandstraße - vertagt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Schulwald der Max-Ernst-Gesamtschule - Sache ist erledigt
+- TOP 7.4.1: Beantwortung der Anfrage AN/1158/2026 der SPD-Fraktion bezüglich des Schulwaldes an der Max-Ernst-Gesamtschule Görlinger Zentrum in Köln-Bocklemünd - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen: Physische Maßnahmen für Halteverbotszonen und zur Verhinderung von Gehwegparken - geändert beschlossen
+- TOP 8.2: Antrag der SPD Fraktion: Evaluation und Ausweitung des Modellprojekts „Feierabend-Parken“ im Stadtbezirk Ehrenfeld - vertagt
+- TOP 8.3: Gemeinsamer Antrag der Fraktion Die Linke und der Volt/FDP-Fraktion, betr.: Einrichtung einer Lichtsignalanlage für Fußgänger.innen am Ehrenfeldgürtel zwischen Höhe „Balloni“ und Höhe „Penny“-Parkplatz. - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag zu TOP 8.3 - ungeändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion, betr.: Piusstraße in Köln Ehrenfeld zur Sackgasse verändern und die Einbahnstraßenreglung aufheben - vertagt
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssicherheit an der Helmholtzstraße und im Kreuzungsbereich Äußere Kanalstraße verbessern - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion, betr.: Durchfahrt für Feuerwehr, Rettung und AWB in der Marienstraße sicherstellen - vertagt
+- TOP 8.7: Antrag der Fraktion Die Linke, betr.: WLAN–Hotspots durch NetCologne im Görlinger Zentrum - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag zu TOP 8.7 - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße Verkehrssicherheit schaffen - geändert beschlossen
+- TOP 8.9: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke, CDU-Fraktion, Volt/FDP-Fraktion betr.: Beratung mit dem Kinder- und Jugendforum Ehrenfeld - ungeändert beschlossen
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Radwegmarkierungen auf Gehwegen entfernen - vertagt
+- TOP 8.11: Antrag der CDU-Fraktion, betr.: Schutz und Ausstattung der Rolltreppen der U-Bahnzugänge in Ehrenfeld - vertagt
+- TOP 9: Entscheidungen
+- TOP 9.1: Schulhofgestaltung der KGS Baadenberger Str. 111, 50825 Köln - geändert beschlossen
+- TOP 9.2: Vergabe der bezirksorientierten Haushaltsmittel gem. § 37 Absatz 3 GO NRW für das Jahr 2026 - ungeändert beschlossen
+- TOP 9.3: Stadtklima-/Stadtverschönerungsprogramm für den Stadtbezirk Ehrenfeld 2026 - Vergabe - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Besetzung der Stelle Leitung des Bürgeramtes Ehrenfeld - ungeändert beschlossen
+- TOP 10.2: Anhörung zur Änderung von Busverkehrsleistungen - ungeändert beschlossen
+- TOP 10.3: 254. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk4, in Köln-Ehrenfeld Arbeitstitel: "Sicherung der Clubkultur im Bereich Lichtstraße/ Ehrenfeldgürtel" in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.4: "Köln baut bezahlbar | Wohnen für alle" - vertagt
+- TOP 10.5: Vorgabenbeschluss zur Ausarbeitung des Bebauungsplan-Entwurfs Nr.: 44603/03 Arbeitstitel Sicherung der Clubkultur im Bereich Lichtstraße/ Ehrenfeldgürtel` in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 12.2: Sanierung eines Teilstücks des Radweges auf dem Melatengürtel - Kenntnis genommen
+- TOP 12.3: Beantwortung der mündlichen Anfrage zu den Vorlagen 0180/2026 und 0189/2026 in der Sitzung am 23.02.2026 - Kenntnis genommen
+- TOP 12.4: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2026„– Start des Sommerprogramms - Kenntnis genommen
+- TOP 12.5: Stadtbahnvorhaben Köln – Bergheim-Niederaußem hier: Aktueller Sachstand zur Vorbereitung der Machbarkeitsstudie - Kenntnis genommen
+- TOP 12.6: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Kenntnis genommen
+- TOP 12.7: "Lebenswerte Veedel- Bürger*innen- und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms in den Jahren 2024 und 2025 - Kenntnis genommen
+- TOP 12.8: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen von Bezirksvertreter Ketelaer aus der Sitzung der Bezirksvertretung Ehrenfeld vom 16.03.2026 betreffend - Kenntnis genommen
+- TOP 12.9: Zielvereinbarung 2026 - Bürgerschaftshaus Bocklemünd und Bürgerzentrum Ehrenfeld - Kenntnis genommen
+- TOP 12.10: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 12.11: Einrichtung von Schulstraßen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 12.12: Aktueller Verfahrensstand des Vorhabens mit dem Arbeitstitel: "Lerchenweg/Schaffrathsgasse" in Köln-Bocklemünd - Kenntnis genommen
+- TOP 12.13: Mitteilung über die erneute Veröffentlichung gemäß § 3 Abs. 2 BauGB i.V.m § 4a Absatz 3 BauGB des Bebauungsplanentwurfs Nr. 66461/16 – Arbeitstitel: Franz-Geuer-Straße in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.14: Stellungnahme der Verwaltung zu einer Anregung der Bezirksvertretung Ehrenfeld an den Rat aus der Sitzung vom 03.07.2025, Session-Nr. 1568/2025, betreffend "Reformierung des Rahmenplanungsbeirats Braunsfeld, Müngersdorf, Ehrenfeld" - Kenntnis genommen
+- TOP 12.15: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 BauGB des Bebauungsplanentwurfs Nr. 63460/05 - Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.16: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 BauGB des Bebauungsplanentwurfs Nr. 63452/02, Arbeitstitel: "Widdersdorfer Straße 158 und 188a" in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.17: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der 3. Sitzung der BV 4 vom 02.02.2026 , AN/0111/2026 betreffend Möglichkeiten für Notschlafplätze prüfen - Kenntnis genommen
+- TOP 12.18: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 13: mündliche Anfragen
