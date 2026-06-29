@@ -1,0 +1,90 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-06-29T16:00:00+02:00
+- Ende: 2026-06-29T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33976
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33976
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingaben
+- TOP 5.2: Mitteilungen zu Bürgereingaben
+- TOP 5.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Installation von Trinkwasserspendern im Grüngürtel, Aktenzeichen 64/26 - Kenntnis genommen
+- TOP 5.2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrsüberwachung und Sicherheit in Sülz, Aktenzeichen 46/26 - Kenntnis genommen
+- TOP 5.2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Fahrradstraße in der Straße "Weyertal", Köln-Lindenthal, Aktenzeichen 167/25 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Die Linke in der BV Lindenthal zum Sachstand Sozialhäuser Geisbergstraße - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der Anfrage AN/0694/2026 der CDU-Fraktion bezüglich der Sporthallen im Bezirk Lindenthal - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 die Grünen aus der Sitzung vom 04.05.2026 (AN/0751/2026) betreffend "Geschwindigkeitsanzeiger im Stadtraum“ - Kenntnis genommen
+- TOP 7.1.4: Beantwortung der Anfrage AN/1050/2026 der FDP-Frakton und der Volt-Fraktion bezüglich des Baugerüsts an der Katholischen Grundschule Freiligrathstraße - Kenntnis genommen
+- TOP 7.1.5: Beantwortung der Anfrage AN/1072/2026 der Fraktion Bündnis 90/Die Grünen bezüglich dem Modulbau am Münstereifeler Platz - Kenntnis genommen
+- TOP 7.1.6: Beantwortung einer Anfrage zu leerstehenden Häusern in der Friedrich-Engels-Straße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baugerüst an der Katholischen Grundschule Freiligrathstraße - Kenntnis genommen
+- TOP 7.2.2: Friedrich-Engels-Straße in Köln Sülz - vertagt
+- TOP 7.2.3: Baucontainer Münstereifler Platz - Kenntnis genommen
+- TOP 7.2.4: Anfrage Musikschule Lotharstraße - vertagt
+- TOP 7.2.5: Anfrage Brücke Eifeltor - vertagt
+- TOP 8: Anträge
+- TOP 8.1.1: Zebrastreifen Stolberger Straße im Bereich der Schulen - ungeändert beschlossen
+- TOP 8.1.2: Wandmalerei von Klaus Paier - ungeändert beschlossen
+- TOP 8.1.3: Tempo 30 auf der Gleuler Straße zwischen Bachemer Straße und Zülpicher Straße - ungeändert beschlossen
+- TOP 8.1.4: Tempo 30 auf der Gleueler Straße das Teilstück von der Freiligrathstraße bis zur Mommsenstraße - endgültig zurückgezogen
+- TOP 8.1.5: Errichtung eines Fußgängerüberwegs an der Gleuler Straße am Leiblplatz - ungeändert beschlossen
+- TOP 8.1.6: als Anfrage unter 7.2.2
+- TOP 8.1.7: Sanierung und Aufwertung des Spielplatzes Mommsenstraße / Gleueler Straße - geändert beschlossen
+- TOP 8.1.8: Unrechtmäßige Abstellung von E-Scootern – Abstell- und Rücknahmekonzept für den Stadtbezirk Lindenthal - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag 8.1.8 - ungeändert beschlossen
+- TOP 8.1.9: Verbesserung und Erhöhung der Sicherheit der Fahrradstraße Weyertal / Arnulfstraße - vertagt
+- TOP 8.1.10: Öffentliche Trockentoiletten ohne Chemie - ungeändert beschlossen
+- TOP 8.1.11: Tempo 30 Goethestraße zwischen Bahnhof Lövenich und Aachener Straße - geändert beschlossen
+- TOP -: Änderungsantrag zu 8.1.11
+- TOP 8.1.12: Auswahl eines alternativen Standorts für den geplanten Skaterpark in Köln-Widdersdorf sowie Aussetzung der Umsetzung am derzeit vorgesehenen Standort - endgültig zurückgezogen
+- TOP 8.1.13: Fahrradservicesäulen - ungeändert beschlossen
+- TOP 8.1.14: Rahmenplanungsbeirat - ungeändert beschlossen
+- TOP 8.1.15: Erweiterung Parklet am Klettenplatz - ungeändert beschlossen
+- TOP 8.1.16: Schulstraße Biggestraße - vertagt
+- TOP 8.1.17: Kurzfristige Maßnahmen zur Verkehrssicherheit auf der Stolberger Straße in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 8.2.1: Erstellung eines stadtweiten, verbindlichen E-Scooterkonzepts
+- TOP -: Ersetzungsantrag 8.2.1 - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Nutzungsänderung eines Hochhauses in ein Beherbergungsbetrieb (Boarding House) auf der Eupener Str. 137
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Berufung der kunstsachverständigen Vertreter*innen der Bezirksvertretungen für den Kunstbeirat, Ratsperiode 2025 - 2030
+- TOP 9.2.2: "Köln baut bezahlbar | Wohnen für alle" - ungeändert beschlossen
+- TOP 9.2.3: Anhörung zur Änderung von Busverkehrsleistungen - geändert beschlossen
+- TOP -: Änderungsantrag zu 9.2.3 - ungeändert beschlossen
+- TOP 9.2.4: Umwandlung von zwei Katholischen Grundschulen in Gemeinschaftsgrundschulen - ungeändert beschlossen
+- TOP 9.2.5: Denkmalpflegerische Sanierung des Trauerhallenensembles auf dem Melaten-Friedhof, Piusstraße durch ein Totalunternehmen - Bedarfsfestellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 11.3.2: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung Mobilitätsausschuss vom 03.03.2026 (AN/0313/2026) betreffend "Einrichtung von Schulstraßen" - Kenntnis genommen
+- TOP 11.3.3: Beantwortung der mündlichen Anfrage zu den Vorlagen 0180/2026 und 0189/2026 in der Sitzung am 23.02.2026 - Kenntnis genommen
+- TOP 11.3.4: Mehrkosten für den Bau einer ebenerdigen barrierefreien Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barreierefreie Brücke - Kenntnis genommen
+- TOP 11.3.5: Stadtbahnvorhaben Köln – Bergheim-Niederaußem hier: Aktueller Sachstand zur Vorbereitung der Machbarkeitsstudie - Kenntnis genommen
+- TOP 11.3.6: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2026„– Start des Sommerprogramms - Kenntnis genommen
+- TOP 11.3.7: Einrichtung von Schulstraßen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 11.3.8: GRÜNGÜRTEL Parkstadt Süd, hier: Öffentlichkeitsbeteiligung im Rahmen der Entwurfsplanung - Kenntnis genommen
+- TOP 11.3.9: Stellungnahme der Verwaltung zu einer Anregung der Bezirksvertretung Ehrenfeld an den Rat aus der Sitzung vom 03.07.2025, Session-Nr. 1568/2025, betreffend "Reformierung des Rahmenplanungsbeirats Braunsfeld, Müngersdorf, Ehrenfeld" - Kenntnis genommen
+- TOP 11.3.10: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 BauGB des Bebauungsplanentwurfs Nr. 63460/05 - Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 11.3.11: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
