@@ -1,0 +1,75 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-06-30T17:02:00+02:00
+- Ende: 2026-06-30T21:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29473
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29473
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591259.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591259.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591259.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Mündliche Berichte
+- TOP 5.1: Projekt Sicherheit im Bahnhofsumfeld (SiBu) (mdl. Bericht der Verwaltung) - zur Kenntnis genommen
+- TOP 5.2: Flüchtlinge willkommen in Düsseldorf e. V. (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.3: Stiftung Nachhaltigkeit der Stadtsparkasse Düsseldorf (mdl. Bericht) - zur Kenntnis genommen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Bebauungsplan - Entwurf Nr. 03/029 - Planstraße Oberbilk - einstimmig beschlossen
+- TOP 6.4: Bebauungsplan-Entwurf Nr. 03/002 - Kesselstraße - einstimmig beschlossen
+- TOP 6.5: Plan Nr. 03/051 - Buysstraße/ Fruchtstraße / Mecumstraße / Düssel - einstimmig beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Weihnachtsmarkt vor den Düsseldorf Arcaden im Jahr 2026 - einstimmig beschlossen
+- TOP 7.2: Errichtung von Sharingstationen im Umfeld der Mobilitätsstation Bilk S - zur Kenntnis genommen
+- TOP 7.3: Errichtung der Fahrradstationen Lessingplatz, Gladbacher Straße und Eisenstraße - einstimmig beschlossen
+- TOP 7.4: Bilker Allee / Benzenbergstraße – Optimierter Zwischenzustand östlich Bilker Kirche (Aufwertung Sankt-Martin-Platz) – Erörterung der modifizierten Planung nach Abschluss Workshop - zur Kenntnis genommen
+- TOP 7.5: Viehfahrtsweg – Herstellung einer LKW-gerechten Umfahrung des denkmalgeschützten Wegekreuzes Volmerswerth - einstimmig beschlossen
+- TOP 7.6: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 7.7: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - einstimmig beschlossen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Abbau des letzten frei zugänglichen Briefkastens auf der Friedrichstraße – Verschlechterung der Nahversorgung im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 9.1.2: PFAS-Belastung im Stadtbezirk 3, inklusive des Hafengebietes (Anfrage AfD) - zur Kenntnis genommen
+- TOP 9.1.3: Verkehrssituation Volmerswerther Deich (Anfrage Bündnis 90/Die Grünen) - zur Kenntnis genommen
+- TOP 9.1.4: Notanlaufpunkte im Stadtbezirk 3 – Planung, Kommunikation und Einbindung der Bevölkerung (Anfrage Bündnis 90/Die Grünen) - vertagt
+- TOP 9.1.5: Wie geht es am Tetelberg weiter? (Anfrage SPD/Volt-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.6: Wie geht es beim Abenteuerspielplatz weiter? (Anfrage SPD/Volt-Fraktion) - zur Kenntnis genommen
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Prüfung des zeitweisen Abschaltens von Lichtsignalanlagen im Stadtbezirk 3 (Anfrage Hr. Pennekamp FDP) - zur Kenntnis genommen
+- TOP 9.2.2: Verbesserung der Beleuchtung und Prüfung intelligenter Sicherheitstechnik in Angsträumen des Stadtbezirks 3 (Anfrage Hr. Pennekamp FDP) - vertagt
+- TOP 9.2.3: Entwicklung der Parkplatzsituation im Stadtbezirk 3 (Anfrage AfD-Fraktion) - vertagt
+- TOP 9.2.4: Öffnung und Zustand von Schulhöfen als Spielflächen außerhalb der Unterrichtszeiten im Stadtbezirk 3 (Anfrage AfD-Fraktion) - zur Kenntnis genommen
+- TOP 9.2.5: Abgestellte Einkaufswagen im Stadtbezirk 3 (Anfrage Dr. Graeßner - Bezirksbürgermeister) - vertagt
+- TOP 9.2.6: Bußgelder für falsch geparkte E-Scooter (Anfrage Fraktion SPD/Volt) - vertagt
+- TOP 9.2.7: Ladezonen im Stadtbezirk 3 (Anfrage Fraktion SPD/Volt) - vertagt
+- TOP 9.2.8: Wann geht es Auf’m Hennekamp 70 weiter? (Anfrage Fraktion SPD/Volt) - vertagt
+- TOP 9.2.9: Öffentliche Toilette am Stresemannplatz (Anfrage Fraktion SPD/Volt) - zur Kenntnis genommen
+- TOP 10: Anträge
+- TOP 10.1: Verbesserung der Stadtsauberkeit und Abfallentsorgung (Antrag Hr. Pennekamp FDP) - zurückgezogen
+- TOP 10.2: Ausreichende Versorgung des Volksgartens mit Sondermülleimern sicherstellen (Antrag Fraktion Bündnis 90/Die Grünen) - zurückgezogen
+- TOP 10.3: Sportangebot für Jugendliche im Sternwartpark prüfen (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 10.4: Verkehrsteilnehmendeninformationen rund um den Schuljahresbeginn des Luisen-Gymnasium an neuen Standort Völklinger Straße durch geeignete Warnhinweise (Antrag Fraktion Bündnis 90/Die Grünen, CDU Fraktion, FDP) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Weiterentwicklung der Verkehrssicherheit und Neuplanung eines umfassenden Verkehrskonzepts im Bereich Fährstraße – Sparta Bilk – Aderkirchweg – Völklinger Straße - zur Kenntnis genommen
+- TOP 11.2: Aufstellung weiterer Radabstellanlagen und Bänke im Stadtbezirk - zur Kenntnis genommen
+- TOP 11.3: Herrichtung Zuwegung Luisen-Gymnasium ab Volmerswerther Straße - zur Kenntnis genommen
+- TOP 11.4: Rückverlängerung des stadtauswärtigen Radfahrstreifens auf der Himmel-geister Straße bis zur Einmündung Karolingerstraße - zur Kenntnis genommen
+- TOP 11.5: Ausstattung mit Sitzgelegenheiten an der Bushaltestelle (Linie 723) Ader-kirchweg - zur Kenntnis genommen
+- TOP 11.6: Aufstellen einer mobilen Geschwindigkeitsanzeigetafel an der Suitbertusstraße - zur Kenntnis genommen
+- TOP 11.7: Tempo 30 auf der Aachener Straße - zur Kenntnis genommen
+- TOP 11.8: Parken an E-Ladesäulen zwischen 22:00 und 07:00 Uhr - zur Kenntnis genommen
+- TOP 12: Mitteilung des Bezirksbürgermeisters - zur Kenntnis genommen
