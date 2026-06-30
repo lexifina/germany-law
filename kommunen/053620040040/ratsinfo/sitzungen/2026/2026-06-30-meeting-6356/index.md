@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung und Umweltschutz (3. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2026-06-30T18:00:00+02:00
+- Ende: 2026-06-30T21:17:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-127
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZLY8VaP4x56HhnpVwrK7kQ
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6356
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Ausschuss für Stadtentwicklung und Umweltschutz) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbw9VzhsgEP9lunRysXWeXricWhgMhgsKe-eBTmi3IMg/Einladung_Ausschuss_fuer_Stadtentwicklung_und_Umweltschutz_30.06.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung und Umweltschutz) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYuU0GBgxC6dHgCei777Z5bS98xmKneZyLVBA6Ac3sp6/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung_und_Umweltschutz_30.06.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnendenfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Fußverkehrs-Check Wesseling - 16 Ja-Stimmen, 4 Nein-Stimmen, 2 Enthaltungen
+- TOP 7.: Zweite Fortschreibung des „Masterplan Einzelhandel“ hier: Beschluss als städtebauliches Entwicklungskonzept gemäß § 1 Abs. 6 Nr. 11 BauGB - 16 Ja-Stimmen, 4 Nein-Stimmen, 2 Enthaltungen
+- TOP 8.: Antrag der Fraktionen von CDU und SPD vom 24.03.2026 hier: Ausweisung eines Nahversorgungszentrums in Wesseling-Berzdorf - 15 Ja-Stimmen, 5 Nein-Stimmen, 2 Enthaltungen
+- TOP 8.1.: Antrag der Fraktionen von CDU und SPD vom 24.03.2026 hier: Stellungnahme der Verwaltung - 16 Ja-Stimmen, 4 Nein-Stimmen, 2 Enthaltungen
+- TOP 8.2.: Änderungsantrag der Fraktionen CDU und SPD: Ausweisung eines Nahversorgungszentrums in Wesseling-Berzdorf, Berggeiststraße
+- TOP 9.: Bebauungsplan Nr. 4/102, 1. Änderung "Kreuz Knippchen" hier: Aufstellungsbeschluss gemäß §§ 1 Abs. 3, 2 Abs. 1 BauGB - 18 Ja-Stimmen, 4 Nein-Stimmen
+- TOP 10.: Neubau einer städtischen Unterkunft für die Unterbringung von Geflüchteten „Im Kleinen Mölchen“ - 18 Ja-Stimmen, 4 Nein-Stimmen
+- TOP 10.1.: Änderungsantrag der Fraktionen CDU und SPD zum Neubau einer städtischen Unterkunft für die Unterbringung von Geflüchteten „Im Kleinen Mölchen“
+- TOP 11.: Klimabeirat Wesseling hier: künftige Ausrichtung des Klimabeirats - 19 Ja-Stimmen, 3 Enthaltungen
+- TOP 12.: Beitritt der Stadt Wesseling zum Zweckverband Verkehrsverbund Rhein-Sieg (ZV VRS) hier: Aufhebung des Ratsbeschlusses 162/2025 vom 30.09.2025 - Einstimmig
+- TOP 13.: Antrag der Fraktionen von CDU und SPD vom 17.03.2026 hier: Rückbau Glascontainer Straße "Im Blauen Garn" - 21 Ja-Stimmen, 1 Enthaltung
+- TOP 13.1.: Antrag der Fraktionen CDU und SPD: Rückbau Glascontainer „Im Blauen Garn“, hier: Stellungnahme der Verwaltung
+- TOP 14.: Antrag der Fraktion Bündnis 90/ Die Grünen: Einführung Tempo 30 - Keldenicher Straße - 18 Nein-Stimmen, 4 Ja-Stimmen 
+- TOP 15.: Antrag der Fraktion Bündnis 90/ Die Grünen: Wiederherstellung/ Umgestaltung Fahrradweg Am Westring - 18 Nein-Stimmen, 2 Ja-Stimmen, 2 Enthaltungen
+- TOP 16.: Antrag der Fraktion Bündnis 90/Die Grünen: Fahrradstellplätze und Abstellmöglichkeiten im Stadtgebiet/Prüfung von Erweiterungen
+- TOP 17.: Antrag der Fraktionen CDU und SPD: Beschilderung von öffentlichen Parkplätzen zum Laden von Elektrofahrzeugen im Stadtgebiet Wesseling - Einstimmig
+- TOP 17.1.: Antrag der Fraktionen CDU und SPD: Beschilderung von öffentlichen Parkplätzen zum Laden von Elektrofahrzeugen im Stadtgebiet Wesseling, hier: Stellungnahme der Verwaltung
+- TOP 18.: Mitteilungen und Anfragen
+- TOP 19.: Anfrage der AFD-Fraktion zu aktuellen Maßnahmen und Planungen im Bereich Umwelt- und Klimaschutz in Wesseling
+- TOP 19.1.: Anfrage der AFD-Fraktion zu aktuellen Maßnahmen und Planungen im Bereich Umwelt- und Klimaschutz in Wesseling hier: Stellungnahme der Verwaltung
+- TOP 20.: Anfrage der AfD-Fraktion zur allgemeinen Wohnsituation in Wesseling
+- TOP 20.1.: Anfrage der AfD-Fraktion zur allgemeinen Wohnsituation in Wesseling, hier: Stellungnahme der Verwaltung
+- TOP 21.: Anfrage der Fraktion Bündnis 90/Die Grünen: Führung Fahrradweg Konrad-Adenauer-Straße
+- TOP 21.1.: Anfrage der Fraktion Bündnis 90/Die Grünen: Führung Fahrradweg Konrad-Adenauer-Straße, hier: Stellungnahme der Verwaltung
+- TOP 22.: Anfrage der Fraktionen CDU und SPD: Auswirkungen der Vollsperrung der Rheinbrücke A 565 auf die Verkehrssituation in Wesseling – kurzfristige Maßnahmen der Verwaltung
+- TOP 22.1.: Anfrage der Fraktionen CDU und SPD: Auswirkungen der Vollsperrung der Rheinbrücke A 565 auf die Verkehrssituation in Wesseling – kurzfristige Maßnahmen der Verwaltung, hier: Stellungnahme der Verwaltung
+- TOP 23.: Anfrage der Fraktion B90/Die Grünen: Funktionalität der Fahrradboxen in der Wesselinger Innenstadt
+- TOP 23.1.: Anfrage der Fraktion B90/Die Grünen: Funktionalität der Fahrradboxen in der Wesselinger Innenstadt, hier: Stellungnahme der Verwaltung
+- TOP 24.: Anfrage der Fraktion B90/Die Grünen: Unterführung am Bahnhof Wesseling
+- TOP 24.1.: Anfrage der Fraktion B90/Die Grünen: Unterführung am Bahnhof Wesseling, hier: Stellungnahme der Verwaltung
+- TOP 25.: Anfrage der FDP-Fraktion: Regelung bei Sondernutzung für Bürgersteigladen
+- TOP 25.1.: Anfrage der FDP-Fraktion: Regelung bei Sondernutzung für Bürgersteigladen, hier: Stellungnahme der Verwaltung
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Mitteilungen und Anfragen
+- TOP 2.: Unterrichtung der Öffentlichkeit
