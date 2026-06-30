@@ -1,0 +1,6 @@
+# TOP 8: Verschiedenes
+
+- Sitzung: Sitzung (verschoben vom 18.6.2026 nach Mitteilung von Herrn Dr. Erber vom 28.1.2026) (2026-06-30)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/286007
