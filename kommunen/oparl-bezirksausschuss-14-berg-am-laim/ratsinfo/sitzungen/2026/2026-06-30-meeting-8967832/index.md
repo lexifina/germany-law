@@ -1,0 +1,139 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-06-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967832
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967832
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 26.05.2026
+- TOP 1.2.2.: Protokoll der Sitzung vom 28.04.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 26.05.2026
+- TOP 1.3.2.: Nachbereitung der Sitzung vom 28.04.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Generelles Verbot des Verteilens von Visitenkarten für Kfz-Ankauf in der Hansjakobstraße und Nebenstraßen
+- TOP 2.2.: (E) Kontrollen im Behrpark zur Vermeidung von Krähenfütterungen
+- TOP 2.3.: (E) Größere Abfallbehälter mit Hand- oder Fußöffnung im Behrpark und am Baumkirchner Platz sowie Renovierung der Sitzbänke am Baumkirchner Platz
+- TOP 2.4.: (E) Gehwegbeleuchtung Schlüsselbergstraße
+- TOP 2.5.: August-Everding-Str. 24 - Beschlussvorlage zur Erteilung einer Sondernutzungserlaubnis (Freischankfläche)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 3.1.1.: Baumkirchner Str. 5 - Erweiterung der bestehenden Bebauung um zusätzliche Wohnflächen innerhalb der festgesetzten Grenzen des Bebauungsplanes sowie um eine zusätzliche Bebauung außerhalb des Bauraums, im rückwärtigen Bereich des Grundstücks. - VORBESCHEID
+- TOP 3.1.2.: Rofanstr. 34 - Neubau 2 Mehrfamilienhäuser mit je 5 WE und eine Tiefgarage mit 10 STPL
+- TOP 3.1.3.: Sonnwendjochstr. 39 - Neubau einer Wohnanlage bestehend aus 3 MFH mit insges. 12 WE und Tiefgarage (Sonnwendjochstr. 39 / Waldstr. 16)
+- TOP 3.1.4.: Friedenstr. 12 - Neubau von drei Reihenhäusern mit Garagen - ÄNDERUNGSANTRAG zu 1.23-2024-22676-32
+- TOP 3.1.5.: Überseepl. 13 - Errichtung eines Mehrfamilenhauses (5 WE) mit Tiefgarage (5 STPL)
+- TOP 3.1.6.: August-Everding-Str. - Neubau von Geschosswohnungen mit Büros, Gaststätte, Ladenlokal, Seniorenbetreuung, Mobilitätsstation und Tiefgarage
+- TOP 3.1.7.: Schildensteinstr. 15 - Nachträgliche Begründung zur Eintragung in die Denkmalliste und Benehmensherstellung; Anhörung des Planungsreferats, Frist bis 02.07.26
+- TOP 3.1.8.: Pilotprogramm von Mülleimern mit Hand- oder Fußöffnung in Berg am Laim; Anliegen aus der Bürgerschaft - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 3.1.9.: Neues Ausbauprogramm öffentlicher Toiletten auflegen: Weitere Standorte in Berg am Laim realisieren!; Antrag der CSU-Fraktion
+- TOP 3.1.10.: Perspektiven für den Grünen Markt als Veranstaltungsort – Prüfung baulicher Lösungen für die Überdachung von Veranstaltungen; Antrag der CSU-Fraktion
+- TOP 3.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 3.2.1.: Gögginger Str. / Vinzenz-von-Paul-Str. - Suche eines Mobilfunkstandortes; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 3.2.2.: Vinzenz-von-Paul-Str. - Ausweis einer T30-Zone in der Sackgasse; Anhörung des Mobilitätsreferats, Frist bis 03.07.26
+- TOP 3.2.3.: Aschheimer Str. - Einbau einer Werbevitrine statisch; Anhörung des Planungsreferats
+- TOP 3.2.4.: Großvenedigerstraße - Anordnung von temporären, einseitigen absoluten Haltverboten gegen Durchfahrtbehinderungen mit zeitlicher Beschränkung auf die Entleerungstage Montag und Donnerstag je von 7 - 14 Uhr; Anhörung des Mobilitätsreferats, Frist bis 01.07.26
+- TOP 3.2.5.: Ausstattung der beiden Haltestellen am Alten- und Pflegeheim St. Michael mit Sitzgelegenheiten für wartende Fahrgäste; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: MVG-Anpassungsprogramm 2027; Anhörung der MVG, Frist bis 01.07.26
+- TOP 3.2.7.: Aufstellung eines Stabmattenzauns an der Grundschule Grafinger Straße zur Erhöhung der Schulwegsicherheit; Anliegen aus der Bürgerschaft
+- TOP 3.2.8.: Gehwegparken auf der Fläche nahe der Kleingartenanlage SO1 in der Altöttinger Straße ermöglichen; Antrag der CSU-Fraktion
+- TOP 3.2.9.: Wildparken an der Kreuzung Baumkirchnerstr./Berg am Laim Str.; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 3.3.1.: Veranstaltung auf öffentlichem Verkehrsgrund und z.T. in städtischer Grünanlage: Bollerwagenkino in diversen Örtlichkeiten am 23.07. und 30.07.2026; Anhörung des Kreisverwaltungsreferats, Frist bis 30.06.26
+- TOP 3.3.2.: Veranstaltung in einer städtischen Grünanlage: Zirkus Pumpernudl vom 28.07. bis 18.10.2026 am Piusplatz; Anhörung des Kreisverwaltungsreferats, Frist bis 17.07.26
+- TOP 3.3.3.: Verbesserung und Umgestaltung des Platzes an der Virgilstr.; Anliegen aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 3.5.: Bereich Budget und Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Werksviertel-Mitte Stiftung-Projekte gGmbH Kinder- und Jugendfestival "JuKi - Da will ich hin!" am 27.09.2026 7.758,75 €, Az. 0262.100-14-0495
+- TOP 3.5.2.: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park 2026 vom 06.05. - 26.08.2026 2.528,36 €; Az. 0262.100-14-0503
+- TOP 3.5.3.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 Die KIKUS-Methode (Kinder in Kulturen und Sprachen), Deutsch als Zweitsprache von September 2026 - Januar 2027 4.000,00 €; Az. 0262.100-14-0504
+- TOP 3.5.4.: (E) Stadtbezirksbudget CultureClouds e.V. POP-UP 2026, 1 Projekt Zirkus Pumpernudl vom 01.07. - 31.12.2026 4.812,00 €; Az. 0262.100-14-0505
+- TOP 3.5.5.: (E) Stadtbezirksbudget SOS-Kinderdorf e. V., SOS-Beratungs- und Familienzentrum Sommerfest am 04.07.2026 2.015,95 €; Az. 0262.100-14-0508
+- TOP 3.5.6.: (E) Stadtbezirksbudget AKA e. V. - Aktiv für Interkulturellen Austausch e. V. Ferienfreizeit Mädchenpower in Italien (Partizipation, Chancengerechtigkeit, Kultur) vom 02. - 05.07.2026 7.709,00 €; Az. 0262.100-14-0507
+- TOP 3.5.7.: (E) Stadtbezirksbudget Working in Projects gUG WERTE durch netzWERKE vom 11. - 12.09.2026 3.002,00 €; Az. 0262.100-14-0506
+- TOP 3.5.8.: (E) Stadtbezirksbudget Atelierhaus streitfeld streitfeld offen 2026 am 27./28.06.2026 2.557,00 €; Az. 0262.100-14-510
+- TOP 3.5.9.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit in München e. V. Übersetzung der Broschüre Rund um die Geburt, ab Bewilligung bis 30.10.2026 892,50 €; Az. 0262.100-14-0511
+- TOP 3.5.10.: Änderung eines bewilligten Antrags - Ausbau der Teeküche im Vereinsheim vom ESV München-Ost e. V. Verringerung der Zuwendung von 9.822,14 € auf 9.821,21 €
+- TOP 3.5.11.: Verankerung eines Tierschutzbeauftragten im Bezirksausschuss Berg am Laim ab der nächsten Amtsperiode; Antrag der CSU-Fraktion - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 3.5.12.: Grundsatzbeschluss zur Durchführung eines Live-Streams - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 3.5.13.: Einführung Beauftragte für Klimaschutz als Pflichtbeauftragten in die BA-Satzung; Antrag der Grünen-Fraktion
+- TOP 3.5.14.: Schaffung der Position des ,,Beauftragten gegen Linksextremismus”; Antrag der CSU-Fraktion
+- TOP 3.5.15.: Erweiterung der Sitzungsniederschrift §15 BA-Geschäftsordnung; Antrag der Grünen-Fraktion
+- TOP 3.5.16.: Termine BA-Sitzungen 2027
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Baumkirchner Str. 5
+- TOP 3.6.2.: Rofanstr. 34
+- TOP 3.6.3.: Sonnwendjochstr. 39
+- TOP 3.6.4.: Überseepl. 13
+- TOP 3.6.5.: August-Everding-Str.
+- TOP 3.6.6.: Anne-Frank-Anger 6
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 4.1.1.: Baulisten April und Mai 2026
+- TOP 4.1.2.: Kommunale Wärmeplanung - Ergebnisbericht - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.1.3.: Instandhaltung von Flurkreuzen - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.1.4.: Trinkgelegenheiten für Wildtiere auf versiegelten Flächen im Stadtteil Berg am Laim, Rückschreiben vom Baureferat - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.1.5.: Informationsschreiben des Kreisverwaltungsreferats zum Taubenmanagement
+- TOP 4.1.6.: Rückbau tierschutzwidriger Taubenabwehrspikes an Gebäuden der Münchner Wohnen in Berg am Laim
+- TOP 4.1.7.: Aufstellen einer Bank oder zwei Hocker in der Hansjakobstraße
+- TOP 4.1.8.: Ist der Stadtverwaltung etwas über industrielle Verbrennungsprozesse in Berg am Laim bekannt?
+- TOP 4.1.9.: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 4.1.10.: Keine Fristverlängerung für die Plankensteinstr. 6 und Sonnbergstr. 16
+- TOP 4.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 4.2.1.: Erhöhung der Verkehrssicherheit an der Kreuzung Kreillerstraße / St.-Veit-Straße - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.2.2.: Friedenstraße bei Baustellen zweispurig befahrbar halten - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.2.3.: Baustelleneinrichtung und Zufahrt für die Grünfläche am Josef-Ritz-Weg - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.2.4.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage, Standort Aschheimer Str. 30 - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.2.5.: Überholverbot von Radfahrern in der St.-Veit-Straße zwischen Kreiller- und Josephsburgstr. (Folgeantrag)
+- TOP 4.2.6.: Evaluation der Nutzung der in Berg am Laim eingerichteten "Mobilitätspunkte", Carsharing-Flächen und "Geteilten Abstellflächen für Mikromobilität" sowie der zu "Fahrradparken" und "Lastenradparken" umgewandelten Stellplätze
+- TOP 4.2.7.: Verkehrsaufteilung im Gleisdreieck im Rahmen der Einhausung der zweigleisigen Spange Trudering-Daglfing
+- TOP 4.2.8.: Verkehrliche Auswirkungen des Projekts „Daglfinger/Truderinger Kurve“
+- TOP 4.2.9.: Tunnel Thomas-Hauser-Straße: Konzept für mehr Sicherheit
+- TOP 4.2.10.: Sozial gerechte Möglichkeit des Wohnungstausches bei der Münchner Wohnen
+- TOP 4.2.11.: Verbesserung der nächtlichen Sicherheit im ÖPNV - insbesondere für junge Frauen und Jugendliche
+- TOP 4.2.12.: Abriss der alten, nicht mehr benötigten "Branntweinbrücke" südlich des Leuchtenbergring-Tunnels Nicht behandelte Anhörung aufgrund zu knapper Fristsetzung
+- TOP 4.2.13.: Arbeiten im Straßenraum - Fahrbahnsanierung Innsbrucker Ring im Bereich Ulrichsbergstraße bis zur Kreuzung Bad-Schachener-Straße, Grafinger Straße, Schlüsselbergstraße vom 25.05.2026 bis 30.06.2026
+- TOP 4.2.14.: Neumarkter Str. - Baumaßnahme im Straßenraum bis August 2026 (Fernwärmeausbau)
+- TOP 4.2.15.: Verlegung der MVG-Haltestelle für die Linie 190 und 191 aus der Friedenstraße in die Haager Straße Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO
+- TOP 4.2.16.: Heinrich-Wieland-Straße 59-99 zwischen Corinth- und Heubergstraße - Fahrbahnasphaltierung auf einer Gesamtlänge von 800 m sowie teilweise Vollsperre vom 15.06.2026 bis 17.07.2026
+- TOP 4.2.17.: Geförderter Wohnungsbau, welcher Sinn?
+- TOP 4.2.18.: Beschränkung der zulässigen Höchstgeschwindigkeit für den stadtauswärtigen Fahrverkehr auf 30 km/h am Knotenpunkt zur St.-Veit-Str./Kreillerstr.
+- TOP 4.2.19.: Temporäre Geschwindigkeitsreduzierung auf 50 km/h in beiden Fahrtrichtungen am Leuchtenbergring Tunnel-Innsbrucker Ring
+- TOP 4.2.20.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BlmSchV: Jahresgenehmigung 2026 für Arbeiten an Anlagen des ÖPNV
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 4.3.1.: Bestätigung und Flächenreservierung der Grünfläche an der Bad-Kreuther-Str. - „Kulturveranstaltung Kindertheatervorstellung“ am 10.07.2026 - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 4.3.2.: Bestätigung und Flächenreservierung der Grünfläche Behrpark - Theateraufführungen am 05./06./12./13./19./20.06.2026
+- TOP 4.3.3.: Bestätigung und Flächenreservierung der Grünfläche Festwiese an der St.-Veit-Str. - Johannifeuer am 27.06.2026
+- TOP 4.3.4.: Bestätigung und Flächenreservierung der Grünfläche Behrpark - Serenade im Behrpark am 03.07.2026
+- TOP 4.3.5.: Sondernutzung auf öffentlichem Verkehrsgrund: Aktion "Spiel mich! 2026“ im Zeitraum vom 11.06.- 02.07.2026 in der Baumkirchnerstraße Vorabstellungnahme des BA-Vorsitzenden nach § 20 Abs. 1 BA-Satzung
+- TOP 4.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 4.4.1.: (U) Neueröffnung einer dezentralen kommunalen Unterkunft zur Unterbringung Geflüchteter am Standort Drygalski-Allee (Flst.Nr. 272/2, Gemarkung Forstenried) Verlängerung bestehender dezentraler kommunaler Unterkünfte für Geflüchtete an den Standorten • Elsenheimerstraße 48-50 • Gerty-Spies-Straße 9-11 (Leichtbauhallenstandort) • Maria-Goeppert-Mayer-Straße 21 (Leichtbau-hallenstandort) • Triebstraße 24 Wiedereröffnung einer Unterkunft mit einer geänderten Zielgruppe als dezentrale kommunale Unterkunft am Standort Planegger Straße 125 Betreiber- und Zielgruppenwechsel der staatlichen Gemeinschaftsunterkunft am Standort Karl-Schmid-Straße 8 Bekanntgabe über die Nichtverlängerung der dezentralen Erstanlaufstelle / Drehscheibe am Standort Dachauer Straße 122 und Helene-Weber-Allee 1 Bekanntgabe über die Nichtverlängerung bestehender dezentraler Unterkünfte für Geflüchtete an den Standorten • Hachinger-Bach-Straße 19 (Leichtbauhallenstandort) • Hansastraße 55 (Leichtbauhallenstandort) • Kronstadter Straße 36 (Leichtbauhallenstandort) Bekanntgabe über die Verlängerung einer bestehenden staatlichen Gemeinschaftsunterkunft am Standort Willy-Brandt-Allee 8
+- TOP 4.5.: Bereich Budget und Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln" - Projektaufruf für 2027
+- TOP 4.5.3.: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 4.5.4.: Information zur Einbindung der Bezirksausschüsse beim Mobilfunkausbau
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Sturmiusweg 44 - vertagt aus der Plenumssitzung vom 26.05.2026 -
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 5.1.2: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren und Familie
+- TOP 5.1.5: Bereich Budget und Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
