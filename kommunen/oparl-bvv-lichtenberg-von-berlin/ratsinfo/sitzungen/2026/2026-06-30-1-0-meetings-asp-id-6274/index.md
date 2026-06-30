@@ -1,0 +1,59 @@
+# 37. Sitzung in der IX. Wahlperiode Sitzung der Vorlagen zur Kenntnisnahme
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-06-30T00:00:00+02:00
+- Ende: 2026-06-30T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6274
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6274
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktualisierte Schulentwicklungsplanung zeitnah vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2: Informationsort zur Geschichte der Vertragsarbeiter*innen in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3: Praktische Schritte für die Pflege der Kunst im öffentlichen Raum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4: Register für Sportvereine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: Des 70. Jahrestags des 17. Juni 1953 angemessen gedenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Fahrradstraße für Hohenschönhausen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Schulcontainer für die Adam-Ries-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Verstärkte Kontrollen des Halteverbots vor dem Ärztezentrum in der Möllendorffstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Schulentwicklungsplanung Lichtenberg endlich aktualisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Wildblumenwiese für Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11: Lichtenberger Willkommen-in-Arbeit-Büro erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12: Kompensationsmanagement soll auch Daten erfassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Schulweg in der Nöldnerstraße sicherer gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14: Aufnahme von Verhandlungen mit der HOWOGE über den Ankauf einer Waldfläche in Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15: Information zum Kunstwerk Ruhendes Paar im Krummen Pfuhl - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16: Raum für Gespräche in Bibliotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17: Öffentliche Diskussion um Namensgebung der Bodo-Uhse-Bibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18: Skulpturenpark in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19: Ausstellung zur Historie des Wassersports auf dem Rummelsburger See im Museum Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 20: Verfahren Sondermittelanträge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 21: Lademöglichkeiten für E-Autos im Prinzenviertel und in der Parkstadt Karlshorst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 22: Unterstützung der Initiative "Alkoholfreie Kasse" im Bezirk Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 23: Kirschblütenfest am Hagenower Ring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 24: Zwieseler Straße von der Robert-Siewert-Straße bis zum Richard-Kolkwitz-Weg als Fahrradstraße ausweisen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 25: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2026/27 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 26: Veranstaltung mit Ulla Lachauer zum Leben in Litauen in einer Lichtenberger Bibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 27: Barrierefreie PDF-Dokumente für BVV und Bezirksamt Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 28: Sicherheitskonzept für den Zentralfriedhof in Berlin-Friedrichsfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 29: Slam Dunk statt Stolperfalle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 30: Klarheit über Ausgaben für die Umsetzung der Container aus der Salzmannstraße schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 31: Für saubere Schul-Toiletten in Lichtenberg: Beim Land Berlin ausreichende Mittel für Zwischenreinigung einfordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 32: Schulwegpläne für Grundschulen bei Auslagerung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 33: Transparenz und Beteiligung beim Bibliotheksstandort Neu-Hohenschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 34: Tiertafel am Standort Wustrower Straße sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 35: Privatparkplätze öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 36: Weiterentwicklung des bezirklichen Zentren- und Einzelhandelskonzepts - mit Zwischenbericht zur Kenntnis genommen
+- TOP 37: Queerfeindliche Gewalt nicht weiter unbeachtet lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 38: Grünen Gleisbogen mit naturnahen Kleingärten gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 39: Verwendung der Mittel für Infrastrukturinvestitionen aus dem Sondervermögen des Bundes (Kapitel 2980) in Höhe von 19,166 Mio. Euro für Maßnahmen in Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 40: Berichterstattung über die eingegangenen Verpflichtungen und die daraus resultierenden Vor-bindungen im 1. Halbjahr 2026 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 41: Bebauungsplan 11-165 – Städtebauliche Verträge Arbeitstitel: Quartier Gehrenseestraße / Wollenberger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 42: Der „Wohnungsbau-Turbo“ in Berlin-Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 43: Geschäftsordnung des Bezirklichen Präventionsrat Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 44: Veränderung der Einzugsbereiche von Grundschulen zum Schuljahr 2027/28 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 45: Vorhabenbezogener Bebauungsplan 11-193 - Aufstellungsbeschluss Arbeitstitel: Sonderzentrum Dong Xuan Center - zur Kenntnis genommen (Beratungsfolge beendet)
