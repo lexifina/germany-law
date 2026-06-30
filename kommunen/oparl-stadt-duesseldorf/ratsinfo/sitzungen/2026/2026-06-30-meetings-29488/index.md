@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-06-30T17:00:00+02:00
+- Ende: 2026-06-30T18:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29488
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29488
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590890.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590890.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00590890.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 26. Mai 2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Stiftung Nachhaltigkeit Stadtsparkasse Düsseldorf - Bericht und Vorstellung
+- TOP 5: Berichterstattung D.Live über Anwohnerschutz rund um die Eventfläche
+- TOP -: Verwaltungsvorlagen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Plan Nr. 05/022 - Stadtteilzentrum Angermund (Am Fettpott) - Empfehlung einstimmig beschlossen
+- TOP 10: Weihnachtsmarkt auf dem Klemensplatz im Jahr 2026 - einstimmig beschlossen
+- TOP 11: Trödelmärkte auf dem Messeparkplatz P1 im 2. Halbjahr 2026 - einstimmig beschlossen
+- TOP 12: Haushaltsmittel 2026 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfrage aus vorheriger Sitzung*
+- TOP 13: Warum soll die Haltestelle Freiligrathplatz erneut umgebaut werden und die Haltestellen Messe Ost/Stockumer Kirche und Aqua Zoo zusammengelegt werden? - beantwortet
+- TOP -: Neue Anfragen
+- TOP 14: Illegale Rennen und erhebliche Geschwindigkeitsüberschreitungen auf der B8n in den Nacht- und frühen Morgenstunden - vertagt
+- TOP 15: Stand zur Sanierung des Rathauses Kaiserswerth - beantwortet
+- TOP 16: Schloss Kalkum: Was unternimmt die Stadt für den Erhalt und Nachnutzung des Denkmals? - vertagt
+- TOP 17: Wann kommen die Markierungen der Parkstände in der Straße Zum Hohen Bröhl? - beantwortet
+- TOP 18: Beschädigte touristische Unterrichtungstafel „Historischer Stadtkern Kaiserswerth“ an der A52 - beantwortet
+- TOP 19: Wird das Schloss Kalkum und der dazu gehörige Park weiter verfallen oder wird das Schloss Kalkum bald umgebaut? - vertagt
+- TOP 20: Gullys im Stadtbezirk 5 müssen mehrfach im Jahr gesäubert und regelmäßig überprüft werden, um Überflutungen auf Straßen, in Unterführungen und in Keller zu vermeiden. - vertagt
+- TOP -: Anträge
+- TOP 21: Information der Bezirksvertretung über den Straßenrückbau der B8 -alt- - einstimmig beschlossen
+- TOP 22: Freihaltung der Zu- und Ausfahrt des Wendehammers am Neusser Weg in Düsseldorf-Lohausen - einstimmig beschlossen
+- TOP 23: Parksituation in der Carl-Sonnenschein-Straße / Areal Deiker Höfe - einstimmig beschlossen
+- TOP 24: Anbringung eines Piktogramms auf der Fahrbahn am Ende der Fliednerstraße, kurz vor der Kurve zur Straße „Am Mühlenturm“ - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 25: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 26: Eingabe an den Anregungs- und Beschwerdeausschuss - Verkehrsberuhigung Unterdorfstraße - zur Kenntnis genommen
+- TOP 27: Verschiedenes
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Kaiserfest mit Handwerkermarkt im Jahr 2026 - einstimmig beschlossen
