@@ -4,8 +4,8 @@
 ## I. Verkehrsvorschriften
 
 - [§ 1 Zulassung](0001.md)
-- [§ 1a Kraftfahrzeuge mit hoch- oder vollautomatisierter Fahrfunktion](0001a.md)
-- [§ 1b Rechte und Pflichten des Fahrzeugführers bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen](0001b.md)
+- [§ 1a Kraftfahrzeuge mit automatisierter Fahrfunktion](0001a.md)
+- [§ 1b Rechte und Pflichten des Fahrzeugführers bei Nutzung automatisierter Fahrfunktionen](0001b.md)
 - [§ 1c Evaluierung](0001c.md)
 - [§ 1d Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen](0001d.md)
 - [§ 1e Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion; Widerspruch und Anfechtungsklage](0001e.md)
@@ -24,6 +24,7 @@
 - [§ 4 Fahreignungs-Bewertungssystem](0004.md)
 - [§ 4a Fahreignungsseminar](0004a.md)
 - [§ 4b Evaluierung](0004b.md)
+- [§ 4c Verbot der Täuschung über den Beteiligten an einem Verkehrsverstoß](0004c.md)
 - [§ 5 Verlust von Dokumenten und Kennzeichen](0005.md)
 - [§ 5a](0005a.md)
 - [§ 5b Unterhaltung der Verkehrszeichen](0005b.md)
@@ -63,7 +64,7 @@
 - [§ 22 Kennzeichenmissbrauch](0022.md)
 - [§ 22a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von Kennzeichen](0022a.md)
 - [§ 22b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern](0022b.md)
-- [§ 23 (weggefallen)](0023.md)
+- [§ 23 Bußgeldvorschrift zum Verbot der Täuschung über den Beteiligten an einem Verkehrsverstoß](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)
 - [§ 24a 0,5 Promille-Grenze, Tetrahydrocannabinol-Grenzwert](0024a.md)
 - [§ 24b (weggefallen)](0024b.md)
@@ -110,7 +111,7 @@
 - [§ 43 Allgemeine Vorschriften für die Datenübermittlung an und die Verarbeitung der Daten durch den Empfänger](0043.md)
 - [§ 44 Löschung der Daten in den Fahrzeugregistern](0044.md)
 - [§ 45 Anonymisierte Daten](0045.md)
-- [§ 46](0046.md)
+- [§ 46 Auskunft über Fahrzeugdaten unter Verarbeitung personenbezogener Daten](0046.md)
 - [§ 47 Verordnungsermächtigungen, Ausführungsvorschriften](0047.md)
 
 ## VI. Fahrerlaubnisregister
@@ -121,7 +122,7 @@
 - [§ 51 Mitteilung an das Zentrale Fahrerlaubnisregister](0051.md)
 - [§ 52 Übermittlung](0052.md)
 - [§ 53 Direkteinstellung und Abruf im automatisierten Verfahren](0053.md)
-- [§ 54 Automatisiertes Mitteilungs-, Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt](0054.md)
+- [§ 54 (weggefallen)](0054.md)
 - [§ 55 Übermittlung von Daten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes](0055.md)
 - [§ 56 Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes](0056.md)
 - [§ 57 Übermittlung an und Verwendung durch den Empfänger für wissenschaftliche, statistische und gesetzgeberische Zwecke](0057.md)
@@ -134,12 +135,13 @@
 
 ## VIa. Datenverarbeitung
 
-- [§ 63a Datenverarbeitung bei Kraftfahrzeugen mit hoch- oder vollautomatisierter Fahrfunktion](0063a.md)
+- [§ 63a Datenverarbeitung bei Kraftfahrzeugen mit automatisierter Fahrfunktion](0063a.md)
 - [§ 63b Verordnungsermächtigungen](0063b.md)
 - [§ 63c Datenverarbeitung im Rahmen der Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten aufgrund immissionsschutzrechtlicher Vorschriften oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz vor Abgasen](0063c.md)
 - [§ 63d Informationen an die Halter](0063d.md)
 - [§ 63e Datenerhebung, Datenspeicherung und Datenverwendung für das Verkehrsmanagement](0063e.md)
 - [§ 63f Verkehrsunfallforschung, Verordnungsermächtigung](0063f.md)
+- [§ 63g Datenverarbeitung zur Kontrolle des ruhenden Verkehrs](0063g.md)
 
 ## VII. Gemeinsame Vorschriften, Übergangsbestimmungen
 

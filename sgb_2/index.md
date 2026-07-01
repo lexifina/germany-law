@@ -1,4 +1,4 @@
-# Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)
+# Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
@@ -7,6 +7,7 @@
 - [§ 1 Aufgabe und Ziel der Grundsicherung für Arbeitsuchende](0001.md)
 - [§ 2 Grundsatz des Forderns](0002.md)
 - [§ 3 Leistungsgrundsätze](0003.md)
+- [§ 3a Vorrang der Vermittlung](0003a.md)
 - [§ 4 Leistungsformen](0004.md)
 - [§ 5 Verhältnis zu anderen Leistungen](0005.md)
 - [§ 6 Träger der Grundsicherung für Arbeitsuchende](0006.md)
@@ -37,13 +38,13 @@
 
 - [§ 14 Grundsatz des Förderns](0014.md)
 - [§ 15 Potenzialanalyse und Kooperationsplan](0015.md)
-- [§ 15a Schlichtungsverfahren](0015a.md)
+- [§ 15a Verpflichtung](0015a.md)
 - [§ 16 Leistungen zur Eingliederung](0016.md)
 - [§ 16a Kommunale Eingliederungsleistungen](0016a.md)
 - [§ 16b Einstiegsgeld](0016b.md)
 - [§ 16c Leistungen zur Eingliederung von Selbständigen](0016c.md)
 - [§ 16d Arbeitsgelegenheiten](0016d.md)
-- [§ 16e Eingliederung von Langzeitarbeitslosen](0016e.md)
+- [§ 16e Eingliederung von Langzeitleistungsbeziehenden](0016e.md)
 - [§ 16f Freie Förderung](0016f.md)
 - [§ 16g Förderung bei Wegfall der Hilfebedürftigkeit](0016g.md)
 - [§ 16h Förderung schwer zu erreichender junger Menschen](0016h.md)
@@ -63,9 +64,9 @@
 
 #### Unterabschnitt 1 Leistungsanspruch
 
-- [§ 19 Bürgergeld und Leistungen für Bildung und Teilhabe](0019.md)
+- [§ 19 Grundsicherungsgeld und Leistungen für Bildung und Teilhabe](0019.md)
 
-#### Unterabschnitt 2 Bürgergeld
+#### Unterabschnitt 2 Grundsicherungsgeld
 
 - [§ 20 Regelbedarf zur Sicherung des Lebensunterhalts](0020.md)
 - [§ 21 Mehrbedarfe](0021.md)
@@ -73,7 +74,7 @@
 - [§ 22a Satzungsermächtigung](0022a.md)
 - [§ 22b Inhalt der Satzung](0022b.md)
 - [§ 22c Datenerhebung, -auswertung und -überprüfung](0022c.md)
-- [§ 23 Besonderheiten beim Bürgergeld für nicht erwerbsfähige Leistungsberechtigte](0023.md)
+- [§ 23 Besonderheiten beim Grundsicherungsgeld für nicht erwerbsfähige Leistungsberechtigte](0023.md)
 
 #### Unterabschnitt 3 Abweichende Leistungserbringung und weitere Leistungen
 
@@ -152,6 +153,7 @@
 
 - [§ 50 Datenübermittlung](0050.md)
 - [§ 50a Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung](0050a.md)
+- [§ 50b Zentral verwaltete Verfahren der Informationstechnik](0050b.md)
 - [§ 51 Verarbeitung von Sozialdaten durch nicht-öffentliche Stellen](0051.md)
 - [§ 51a Kundennummer](0051a.md)
 - [§ 51b Verarbeitung von Daten durch die Träger der Grundsicherung für Arbeitsuchende](0051b.md)
@@ -172,9 +174,10 @@
 - [§ 57 Auskunftspflicht von Arbeitgebern](0057.md)
 - [§ 58 Einkommensbescheinigung](0058.md)
 - [§ 59 Meldepflicht](0059.md)
-- [§ 60 Auskunftspflicht und Mitwirkungspflicht Dritter](0060.md)
+- [§ 60 Auskunfts-, Mitwirkungs- und Nachweispflicht Dritter](0060.md)
 - [§ 61 Auskunftspflichten bei Leistungen zur Eingliederung in Arbeit](0061.md)
 - [§ 62 Schadenersatz](0062.md)
+- [§ 62a Haftung des Arbeitgebers](0062a.md)
 
 ## Kapitel 9 Straf- und Bußgeldvorschriften
 
@@ -185,11 +188,12 @@
 ## Kapitel 10 Bekämpfung von Leistungsmissbrauch
 
 - [§ 64 Zuständigkeit und Zusammenarbeit mit anderen Behörden](0064.md)
+- [§ 64a Unterstützung durch die Bundesagentur bei der Bekämpfung von organisiertem Leistungsmissbrauch](0064a.md)
 
 ## Kapitel 11 Übergangs- und Schlussvorschriften
 
 - [§ 65 Übergangsregelungen aus Anlass des Zwölften Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0065.md)
-- [§ 65a (weggefallen)](0065a.md)
+- [§ 65a Übergangsregelung aus Anlass des Dreizehnten Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze](0065a.md)
 - [§ 65b (weggefallen)](0065b.md)
 - [§ 65c (weggefallen)](0065c.md)
 - [§ 65d Übermittlung von Daten](0065d.md)

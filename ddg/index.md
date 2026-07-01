@@ -48,7 +48,10 @@
 
 ## Teil 6 Sonstige Zuständigkeiten
 
-- [§ 22 Durchsetzung der Verordnung (EU) 2019/1150](0022.md)
+- [§ 22 Durchführung der Verordnung (EU) 2019/1150](0022.md)
+- [§ 22a Durchführung der Verordnung (EU) 2024/1028](0022a.md)
+- [§ 22b Behörden zur Durchsetzung von Pflichten nach der Verordnung (EU) 2024/1028](0022b.md)
+- [§ 22c Durchführung der Verordnung (EU) 2018/302 und Durchsetzung des Verbots diskriminierender Bestimmungen](0022c.md)
 - [§ 23 Verbindungsstelle nach Artikel 19 Absatz 2 der Richtlinie 2000/31/EG](0023.md)
 
 ## Teil 7 Befugnisse und Verfahren

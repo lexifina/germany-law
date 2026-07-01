@@ -66,7 +66,7 @@
 - [§ 38 Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen](0038.md)
 - [§ 39 Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen](0039.md)
 - [§ 40 Veröffentlichung von Bekanntmachungen](0040.md)
-- [§ 41 Bereitstellung der Vergabeunterlagen](0041.md)
+- [§ 41 Elektronische Bereitstellung von Vergabeunterlagen](0041.md)
 - [§ 42 Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog](0042.md)
 - [§ 43 Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen](0043.md)
 - [§ 44 Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen](0044.md)

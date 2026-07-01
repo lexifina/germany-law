@@ -270,6 +270,7 @@
 | Grundsätze, Definitionen und Anwendungsbereich |
 |  |
 | § 97 | Grundsätze der Vergabe |
+| § 97a | Losgrundsatz |
 | § 98 | Auftraggeber |
 | § 99 | Öffentliche Auftraggeber |
 | § 100 | Sektorenauftraggeber |
@@ -280,13 +281,13 @@
 | § 105 | Konzessionen |
 | § 106 | Schwellenwerte |
 | § 107 | Allgemeine Ausnahmen |
-| § 108 | Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit |
+| § 108 | Anwendbarkeit bei öffentlich-öffentlicher Zusammenarbeit |
 | § 109 | Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln |
 | § 110 | Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben |
 | § 111 | Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen |
 | § 112 | Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen |
 | § 113 | Verordnungsermächtigung |
-| § 114 | Monitoring und Vergabestatistik |
+| § 114 | Monitoring; Vergabestatistik; Datenservice Öffentlicher Einkauf |
 |  |
 | Abschnitt 2 |
 | Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber |
@@ -360,7 +361,7 @@
 | § 155 | Grundsatz |
 | § 156 | Vergabekammern |
 | § 157 | Besetzung, Unabhängigkeit |
-| § 158 | Einrichtung, Organisation |
+| § 158 | Einrichtung, Organisation, Form |
 | § 159 | Abgrenzung der Zuständigkeit der Vergabekammern |
 |  |
 | Abschnitt 2 |
@@ -387,7 +388,7 @@
 | § 174 | Beteiligte am Beschwerdeverfahren |
 | § 175 | Verfahrensvorschriften |
 | § 176 | Vorabentscheidung über den Zuschlag |
-| § 177 | Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts |
+| § 177 | (weggefallen) |
 | § 178 | Beschwerdeentscheidung |
 | § 179 | Bindungswirkung und Vorlagepflicht |
 | § 180 | Schadensersatz bei Rechtsmissbrauch |

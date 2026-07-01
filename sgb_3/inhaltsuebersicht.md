@@ -17,7 +17,8 @@
 | § 8b | (weggefallen) |
 | § 9 | Ortsnahe Leistungserbringung |
 | § 9a | Zusammenarbeit mit den für die Wahrnehmung der Aufgaben der Grundsicherung für Arbeitsuchende zuständigen gemeinsamen Einrichtungen und zugelassenen kommunalen Trägern |
-| § 10 | (weggefallen) |
+| § 9b | Zusammenarbeit mit den für die Förderung junger Menschen zuständigen Beteiligten |
+| § 10 | Jugendberufsagentur |
 | § 11 | (weggefallen) |
 |  |  |
 | Zweiter Abschnitt |
@@ -577,7 +578,7 @@
 | Bundesagentur für Arbeit |
 | § 367 | Bundesagentur für Arbeit |
 | § 368 | Aufgaben der Bundesagentur |
-| § 368a | (weggefallen) |
+| § 368a | Bekämpfung von organisiertem Leistungsmissbrauch |
 | § 369 | Besonderheiten zum Gerichtsstand |
 | § 370 | Beteiligung an Gesellschaften |
 |  |  |
@@ -716,3 +717,4 @@
 | § 457 | Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |
 | § 458 | Gesetz zur Stärkung der Aus- und Weiterbildungsförderung |
 | § 459 | Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024 |
+| § 460 | Dreizehntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze |

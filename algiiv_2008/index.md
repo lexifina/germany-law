@@ -1,4 +1,4 @@
-# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld
+# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Nicht als Einkommen zu berücksichtigende Einnahmen](0001.md)

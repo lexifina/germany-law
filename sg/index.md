@@ -10,7 +10,6 @@
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung](0002.md)
 - [§ 3 Ernennungs- und Verwendungsgrundsätze](0003.md)
-- [§ 3a Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen](0003a.md)
 - [§ 4 Ernennung, Dienstgradbezeichnungen, Uniform](0004.md)
 - [§ 4a (weggefallen)](0004a.md)
 - [§ 5 Gnadenrecht](0005.md)

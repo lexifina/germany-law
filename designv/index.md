@@ -39,10 +39,10 @@
 ## Abschnitt 5 Internationale Eintragungen
 
 - [§ 23 Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen](0023.md)
-- [§ 24 Umschreibung internationaler Eintragungen](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 Nachträgliche Schutzentziehung](0025.md)
 
 ## Abschnitt 6 Schlussvorschriften
 
-- [§ 26 Aufbewahrung der Wiedergabe des eingetragenen Designs](0026.md)
+- [§ 26 Aufbewahrung der Wiedergabe des Designs](0026.md)
 - [§ 27 Übergangsregelungen](0027.md)

@@ -4,7 +4,7 @@
 ## Erster Abschnitt Flaggenrecht der Seeschiffe
 
 
-### 1. Recht zur Führung der Bundesflagge
+### 1. Recht zum Führen der Bundesflagge
 
 - [§ 1](0001.md)
 - [§ 2](0002.md)
@@ -14,7 +14,7 @@ Bundesflagge
 
 - [§ 3](0003.md)
 - [§ 4](0004.md)
-- [§ 5](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 
 ### 3. Verbot anderer Nationalflaggen, Ausnahmen
 
@@ -34,36 +34,35 @@ Bundesflagge
 - [§ 10](0010.md)
 - [§ 11](0011.md)
 
-### 6. Internationales Seeschiffahrtsregister
+### 6. Flaggenregister und Internationales Seeschifffahrtsregister
 
 - [§ 12](0012.md)
-
-### 7. Stammdatendokumentation
-
 - [§ 13](0013.md)
 
-## Zweiter Abschnitt Flaggenführung der Binnenschiffe
+## Zweiter Abschnitt Flaggenbehörde
 
 - [§ 14](0014.md)
 
-## Dritter Abschnitt Straf- und Bußgeldvorschriften
+## Dritter Abschnitt Verordnungsermächtigungen
 
 - [§ 15](0015.md)
+
+## Vierter Abschnitt Straf- und Bußgeldvorschriften
+
 - [§ 16](0016.md)
 - [§ 17](0017.md)
 - [§ 18](0018.md)
-
-## Vierter Abschnitt Übergangs- und Schlußbestimmungen
-
 - [§ 19](0019.md)
+
+## Fünfter Abschnitt Übergangs- und Schlußbestimmungen
+
 - [§ 20](0020.md)
 - [§ 21](0021.md)
-- [§ 22](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 - [§ 22a (weggefallen)](0022a.md)
 - [§ 22b](0022b.md)
 - [§ 22c (weggefallen)](0022c.md)
 - [§ 23](0023.md)
-- [§ 24](0024.md)
 - [Anlage (zu § 7 Absatz 2 Satz 1)](anlage.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 

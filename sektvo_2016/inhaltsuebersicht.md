@@ -58,7 +58,7 @@ Veröffentlichung, Transparenz
 | § 38 | Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen |
 | § 39 | Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen |
 | § 40 | Veröffentlichung von Bekanntmachungen |
-| § 41 | Bereitstellung der Vergabeunterlagen |
+| § 41 | Elektronische Bereitstellung von Vergabeunterlagen |
 | § 42 | Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog |
 | § 43 | Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen |
 | § 44 | Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen |

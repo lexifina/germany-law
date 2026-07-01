@@ -6,7 +6,6 @@
 - [§ 1 Begriffsbestimmung](0001.md)
 - [§ 2 Dienstgrad](0002.md)
 - [§ 3 Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses](0003.md)
-- [§ 3a Sicherheitsüberprüfung auf Grund einer Beorderung oder bei Heranziehung zu einer Dienstleistung mit oder ohne vorherige Beorderung](0003a.md)
 
 ## Abschnitt 2 Reservewehrdienstverhältnis
 

@@ -17,7 +17,8 @@
 - [§ 8 Vereinbarkeit von Familie und Beruf](0008.md)
 - [§ 9 Ortsnahe Leistungserbringung](0009.md)
 - [§ 9a Zusammenarbeit mit den für die Wahrnehmung der Aufgaben der Grundsicherung für Arbeitsuchende zuständigen gemeinsamen Einrichtungen und zugelassenen kommunalen Trägern](0009a.md)
-- [§ 10 (weggefallen)](0010.md)
+- [§ 9b Zusammenarbeit mit den für die Förderung junger Menschen zuständigen Beteiligten](0009b.md)
+- [§ 10 Jugendberufsagentur](0010.md)
 - [§ 11 (weggefallen)](0011.md)
 
 ### Zweiter Abschnitt Berechtigte
@@ -583,7 +584,7 @@ zum Erlass von Verwaltungsvorschriften
 
 - [§ 367 Bundesagentur für Arbeit](0367.md)
 - [§ 368 Aufgaben der Bundesagentur](0368.md)
-- [§ 368a](0368a.md)
+- [§ 368a Bekämpfung von organisiertem Leistungsmissbrauch](0368a.md)
 - [§ 369 Besonderheiten zum Gerichtsstand](0369.md)
 - [§ 370 Beteiligung an Gesellschaften](0370.md)
 
@@ -732,3 +733,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0457.md)
 - [§ 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung](0458.md)
 - [§ 459 Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024](0459.md)
+- [§ 460 Dreizehntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze](0460.md)

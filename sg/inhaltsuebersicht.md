@@ -6,7 +6,6 @@
 | § 1 | Begriffsbestimmungen |
 | § 2 | Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung |
 | § 3 | Ernennungs- und Verwendungsgrundsätze |
-| § 3a | Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen |
 | § 4 | Ernennung, Dienstgradbezeichnungen, Uniform |
 | § 4a | (weggefallen) |
 | § 5 | Gnadenrecht |
@@ -96,9 +95,9 @@
 | Wehrdienst nachdem Wehrpflichtgesetz; Reservewehrdienstverhältnis; freiwilliger Wehrdienstals besonderes staatsbürgerliches Engagement |
 | 1. Wehrdienst nach dem Wehrpflichtgesetz |
 | § 58 | Wehrdienst nach dem Wehrpflichtgesetz |
-| 2. | Reservewehrdienstverhältnis |
+| 2. Reservewehrdienstverhältnis |
 | § 58a | Reservewehrdienstverhältnis |
-| 3. | Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement; Datenverarbeitung |
+| 3. Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement; Datenverarbeitung |
 | § 58b | Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement |
 | § 58c | Verwendung und Löschung von Daten bei der Übersendung von Informationsmaterial |
 | § 58d | Beratung und Untersuchung |

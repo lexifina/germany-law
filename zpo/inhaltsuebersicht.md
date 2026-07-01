@@ -150,7 +150,7 @@
 | § 99 | Anfechtung von Kostenentscheidungen |
 | § 100 | Kosten bei Streitgenossen |
 | § 101 | Kosten einer Nebenintervention |
-| § 102 | (weggefallen) |
+| § 102 | Änderung der Kostenentscheidung |
 | § 103 | Kostenfestsetzungsgrundlage; Kostenfestsetzungsantrag |
 | § 104 | Kostenfestsetzungsverfahren |
 | § 105 | Vereinfachter Kostenfestsetzungsbeschluss |
@@ -1379,7 +1379,7 @@
 | § 1118 | Zentralbehörde |
 | § 1119 | Verwaltungszusammenarbeit |
 | § 1120 | Mehrsprachige Formulare |
-|  |  |
+|  |
 | Buch 12 |
 | Erprobung und Evaluierung |
 |  |
@@ -1388,8 +1388,8 @@
 |  |
 | § 1121 | Zielsetzung und Anwendungsbereich |
 |  |
-| Abschnitt 2 |  |
-| Erprobung eines Online-Verfahrens |  |
+| Abschnitt 2 |
+| Erprobung eines Online-Verfahrens |
 |  |  |
 |  | Titel 1 |
 |  | Anwendungsbereich |
@@ -1416,8 +1416,9 @@
 |  | Evaluierung |
 | § 1134 | Evaluierung |
 |  |  |
-| Abschnitt 3 |  |
-| Erprobung weiterer digitaler Eingabesysteme |  |
+| Abschnitt 3 |
+| Erprobung weiterer digitaler Eingabesysteme |
 |  |  |
 | § 1135 | Umfang der Erprobung |
 | § 1136 | Evaluierung |
+|  |  |

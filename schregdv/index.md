@@ -107,11 +107,11 @@ Register und Abschriften hieraus
 - [§ 66](0066.md)
 - [§ 67](0067.md)
 
-### Unterabschnitt 4 Automatisierter Abruf von Daten
+### Unterabschnitt 4 Elektronischer Abruf von Daten
 
 - [§ 68](0068.md)
 - [§ 69](0069.md)
-- [§ 70](0070.md)
+- [§ 70 (weggefallen)](0070.md)
 
 ### Unterabschnitt 5 Zusammenarbeit mit Behörden
 der Seeschiffahrt
@@ -154,3 +154,4 @@ ergänzende Vorschriften des Landesrechts
 - [Anlage 5 (zu § 42)](anlage-5.md)
 - [Anlage 6 (zu § 44)](anlage-6.md)
 - [Anlage 6a (zu § 44)](anlage-6a.md)
+- [Anlage 7 (zu § 45)](anlage-7.md)

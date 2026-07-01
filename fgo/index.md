@@ -217,7 +217,8 @@ des Verfahrens
 - [§ 143](0143.md)
 - [§ 144](0144.md)
 - [§ 145](0145.md)
-- [(XXXX) §§ 146 bis 148 (weggefallen)](xxxx-146-bis-148.md)
+- [§ 146](0146.md)
+- [(XXXX) §§ 147 bis 148 (weggefallen)](xxxx-147-bis-148.md)
 - [§ 149](0149.md)
 
 ### Abschnitt II Vollstreckung

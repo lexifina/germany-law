@@ -297,7 +297,7 @@
 - [§ 210 Großrisiken, laufende Versicherung](0210.md)
 - [§ 210a Elektronische Transportversicherungspolice](0210a.md)
 - [§ 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen](0211.md)
-- [§ 212 Fortsetzung der Lebensversicherung nach der Elternzeit](0212.md)
+- [§ 212 Fortsetzung der Lebensversicherung nach einer Beschäftigungszeit ohne Entgelt](0212.md)
 - [§ 213 Erhebung personenbezogener Gesundheitsdaten bei Dritten](0213.md)
 - [§ 214 Schlichtungsstelle](0214.md)
 - [§ 215 Gerichtsstand](0215.md)

@@ -8,5 +8,5 @@
 - [§ 5 Dauer des Aufenthalts außerhalb des näheren Bereichs aus wichtigem Grund](0005.md)
 - [§ 6 Aufenthalt außerhalb des näheren Bereichs aufgrund der Ausübung einer Erwerbstätigkeit](0006.md)
 - [§ 7 Zustimmung bei Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund](0007.md)
-- [§ 8 Erreichbarkeit von Personen, die Arbeitslosengeld und Bürgergeld beziehen](0008.md)
+- [§ 8 Erreichbarkeit von Personen, die Arbeitslosengeld und Grundsicherungsgeld beziehen](0008.md)
 - [§ 9 Inkrafttreten](0009.md)

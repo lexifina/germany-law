@@ -255,6 +255,7 @@
 #### Abschnitt 1 Grundsätze, Definitionen und Anwendungsbereich
 
 - [§ 97 Grundsätze der Vergabe](0097.md)
+- [§ 97a Losgrundsatz](0097a.md)
 - [§ 98 Auftraggeber](0098.md)
 - [§ 99 Öffentliche Auftraggeber](0099.md)
 - [§ 100 Sektorenauftraggeber](0100.md)
@@ -265,13 +266,13 @@
 - [§ 105 Konzessionen](0105.md)
 - [§ 106 Schwellenwerte](0106.md)
 - [§ 107 Allgemeine Ausnahmen](0107.md)
-- [§ 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit](0108.md)
+- [§ 108 Anwendbarkeit bei öffentlich-öffentlicher Zusammenarbeit](0108.md)
 - [§ 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln](0109.md)
 - [§ 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben](0110.md)
 - [§ 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen](0111.md)
 - [§ 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen](0112.md)
 - [§ 113 Verordnungsermächtigung](0113.md)
-- [§ 114 Monitoring und Vergabestatistik](0114.md)
+- [§ 114 Monitoring; Vergabestatistik; Datenservice Öffentlicher Einkauf](0114.md)
 
 #### Abschnitt 2 Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber
 
@@ -342,7 +343,7 @@
 - [§ 155 Grundsatz](0155.md)
 - [§ 156 Vergabekammern](0156.md)
 - [§ 157 Besetzung, Unabhängigkeit](0157.md)
-- [§ 158 Einrichtung, Organisation](0158.md)
+- [§ 158 Einrichtung, Organisation, Form](0158.md)
 - [§ 159 Abgrenzung der Zuständigkeit der Vergabekammern](0159.md)
 
 #### Abschnitt 2 Verfahren vor der Vergabekammer
@@ -367,7 +368,7 @@
 - [§ 174 Beteiligte am Beschwerdeverfahren](0174.md)
 - [§ 175 Verfahrensvorschriften](0175.md)
 - [§ 176 Vorabentscheidung über den Zuschlag](0176.md)
-- [§ 177 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts](0177.md)
+- [§ 177 (weggefallen)](0177.md)
 - [§ 178 Beschwerdeentscheidung](0178.md)
 - [§ 179 Bindungswirkung und Vorlagepflicht](0179.md)
 - [§ 180 Schadensersatz bei Rechtsmissbrauch](0180.md)

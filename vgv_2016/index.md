@@ -51,7 +51,7 @@
 ### Unterabschnitt 3 Vorbereitung des Vergabeverfahrens
 
 - [§ 28 Markterkundung](0028.md)
-- [§ 29 Vergabeunterlagen](0029.md)
+- [§ 29 Vergabeunterlagen; Zahlung](0029.md)
 - [§ 30 Aufteilung nach Losen](0030.md)
 - [§ 31 Leistungsbeschreibung](0031.md)
 - [§ 32 Technische Anforderungen](0032.md)
@@ -66,7 +66,7 @@
 - [§ 38 Vorinformation](0038.md)
 - [§ 39 Vergabebekanntmachung; Bekanntmachung über Auftragsänderungen](0039.md)
 - [§ 40 Veröffentlichung von Bekanntmachungen](0040.md)
-- [§ 41 Bereitstellung der Vergabeunterlagen](0041.md)
+- [§ 41 Elektronische Bereitstellung der Vergabeunterlagen](0041.md)
 
 ### Unterabschnitt 5 Anforderungen an Unternehmen; Eignung
 
@@ -138,5 +138,5 @@
 
 - [§ 81 Übergangsbestimmungen](0081.md)
 - [§ 82 Fristenberechnung](0082.md)
-- [§ 83 Anwendungsbestimmungen aus Anlass der Einführung von eForms](0083.md)
+- [§ 83 (weggefallen)](0083.md)
 - [Anlage 1 (zu § 31 Absatz 2)Technische Anforderungen, Begriffsbestimmungen](anlage-1.md)

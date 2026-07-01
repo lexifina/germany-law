@@ -120,6 +120,7 @@
 - [§ 82 Zeitpunkt der Kostenentscheidung](0082.md)
 - [§ 83 Kostenpflicht bei Vergleich, Erledigung und Rücknahme](0083.md)
 - [§ 84 Rechtsmittelkosten](0084.md)
+- [§ 84a Änderung der Kostenentscheidung](0084a.md)
 - [§ 85 Kostenfestsetzung](0085.md)
 
 ### Abschnitt 8 Vollstreckung

@@ -1217,7 +1217,7 @@ Allgemeine Bestimmungen
   4. Kleinfahrzeug: ein Frachtschiff mit einer Länge unter 24 m;
   5. Sonderfahrzeug: ein Frachtschiff, einschließlich eines Kleinfahrzeuges, für einen besonderen Einsatzzweck, unterteilt in
     a) Schlepper: ein Frachtschiff, das zum Ziehen und Schieben von Wasserfahrzeugen, schwimmenden Arbeitsgeräten und anderen schwimmenden Objekten gebaut und bestimmt ist;
-    b) Behördenfahrzeug: ein Frachtschiff im Sinne des § 3 Buchstabe c des Flaggenrechtsgesetzes oder das zur Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines Landes oder einer Gemeinde oder eines Gemeindeverbandes eingesetzt ist und nicht Handelszwecken dient;
+    b) Behördenfahrzeug: ein Frachtschiff im Sinne des § 3 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes oder das zur Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines Landes oder einer Gemeinde oder eines Gemeindeverbandes eingesetzt ist und nicht Handelszwecken dient;
     c) Wasserfahrzeug ohne eigenen Antrieb: ein Frachtschiff, das gebaut ist, um von anderen Fahrzeugen gezogen oder geschoben zu werden, insbesondere Schuten oder Pontons;
     d) Schwimmendes Arbeitsgerät: ein Frachtschiff, das so gebaut ist, dass es nur ein bestimmtes Arbeitsgerät aufnehmen kann und keine anderweitige Lademöglichkeit aufweist, insbesondere Bagger, Schwimmkrane, Rammen, Hebefahrzeuge, Bohr- und Hubinseln und Produktionsplattformen;
     e) Errichterschiff: ein Frachtschiff, das zum Transport und zur Errichtung von Bauwerken auf See gebaut und bestimmt ist;

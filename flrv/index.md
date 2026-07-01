@@ -10,15 +10,12 @@
 Führung der Bundesflagge
 
 
-### 1. Schiffsvorzertifikate
+### 1. Allgemeine Antragsvoraussetzungen
 
 - [§ 2](0002.md)
-- [§ 3](0003.md)
-- [§ 4](0004.md)
-- [§ 5](0005.md)
+- [(XXXX) §§ 3 bis 5 (weggefallen)](xxxx-3-bis-5.md)
 
-### 1a. Beauftragte Personen nach § 2 Abs. 1 des
-Flaggenrechtsgesetzes
+### 1a. Beauftragte Personen nach § 2 Absatz 4 des Flaggenrechtsgesetzes
 
 - [§ 5a](0005a.md)
 - [§ 5b](0005b.md)
@@ -36,18 +33,18 @@ des Flaggenrechtsgesetzes, Flaggenscheine
 
 ### 3. Flaggenbescheinigungen
 
-- [§ 12](0012.md)
+- [§ 12 (weggefallen)](0012.md)
 - [§ 13](0013.md)
 
 ### 4. Flaggenzertifikate
 
-- [§ 14](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15](0015.md)
 - [§ 16](0016.md)
 - [§ 17](0017.md)
 - [§ 18](0018.md)
 
-## Dritter Abschnitt Genehmigung der Führung einer anderen Nationalflagge (§ 7 des Flaggenrechtsgesetzes)
+## Dritter Abschnitt Ausflaggungsgenehmigung (§ 7 des Flaggenrechtsgesetzes)
 
 - [§ 19](0019.md)
 - [§ 20](0020.md)
@@ -59,7 +56,7 @@ des Flaggenrechtsgesetzes, Flaggenscheine
 ### 1. Flaggenregister
 
 - [§ 21](0021.md)
-- [§ 22](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 
 ### 2. Internationales Seeschiffahrtsregister
 
@@ -70,7 +67,7 @@ des Flaggenrechtsgesetzes, Flaggenscheine
 ## Fünfter Abschnitt Ergänzende Vorschriften
 
 - [§ 26](0026.md)
-- [§ 27](0027.md)
+- [§ 27 (weggefallen)](0027.md)
 - [§ 28](0028.md)
 - [§ 29](0029.md)
 - [§ 30](0030.md)
@@ -81,4 +78,4 @@ des Flaggenrechtsgesetzes, Flaggenscheine
 
 - [§ 32](0032.md)
 - [§ 33](0033.md)
-- [Anlage (zu § 5 Abs. 1)](anlage.md)
+- [Anlage (zu § 19) Internationale Übereinkommen](anlage.md)

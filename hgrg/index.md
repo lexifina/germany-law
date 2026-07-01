@@ -49,7 +49,7 @@ Haushaltsplan
 - [§ 28 Personalwirtschaftliche Grundsätze](0028.md)
 - [§ 29 Baumaßnahmen, größere Beschaffungen, größere
 Entwicklungsvorhaben](0029.md)
-- [§ 30 Öffentliche Ausschreibung](0030.md)
+- [§ 30 Öffentliche Aufträge](0030.md)
 - [§ 31 Änderung von Verträgen, Veränderung von Ansprüchen](0031.md)
 
 ### Abschnitt IV Zahlungen, Buchführung und

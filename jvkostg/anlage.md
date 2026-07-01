@@ -7,7 +7,7 @@ Hauptabschnitt 1 Register- und Grundbuchangelegenheiten
 | Abschnitt 2 | (weggefallen) |
 | Abschnitt 3 | Bundeszentral- und Gewerbezentralregister |
 | Abschnitt 4 | (weggefallen) |
-| Abschnitt 5 | Einrichtung und Nutzung des automatisierten Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen |
+| Abschnitt 5 | Einrichtung und Nutzung des Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen |
 | Abschnitt 6 | Schutzschriftenregister |
 Hauptabschnitt 2 Verfahren des Bundesamts für Justiz
 | Abschnitt 1 | Ordnungsgeldverfahren |
@@ -39,9 +39,9 @@ Gebühren
 | 1132 | Auskunft nach § 150 Absatz 1 Satz 1 der Gewerbeordnung .......... | 13,00 € |
 | Abschnitt 4 (weggefallen) |
 |  |
-| Abschnitt 5 Einrichtung und Nutzung des automatisierten Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen |
+| Abschnitt 5 Einrichtung und Nutzung des Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen |
 | Vorbemerkung 1.1.5: (1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Grundbuchamt oder dem Registergericht geführten Datenbestand. Für den Aufruf von Daten und Dokumenten in der Geschäftsstelle des Grundbuchamts oder des Registergerichts werden keine Gebühren erhoben. Der Abruf von Daten aus den Verzeichnissen (§ 12a Abs. 1 der Grundbuchordnung, § 31 Abs. 1, § 55 Satz 2 SchRegDV, §§ 10 und 11 Abs. 3 Satz 2 LuftRegV) und der Abruf des Zeitpunkts der letzten Änderung des Grundbuchs oder Registers sind gebührenfrei. (2) Neben den Gebühren werden keine Auslagen erhoben. |
-| 1150 | Genehmigung der Landesjustizverwaltung zur Teilnahme am eingeschränkten Abrufverfahren (§ 133 Abs. 4 Satz 3 der Grundbuchordnung, auch i. V. m. § 69 Abs. 1 Satz 2 SchRegDV, und § 15 LuftRegV) .......... | 50,00 € |
+| 1150 | Genehmigung der Landesjustizverwaltung zur Teilnahme am eingeschränkten Abrufverfahren (§ 133 Abs. 4 Satz 3 der Grundbuchordnung und § 15 LuftRegV) .......... | 50,00 € |
 | Mit der Gebühr ist die Einrichtung des Abrufverfahrens für den Empfänger mit abgegolten. Mit der Gebühr für die Genehmigung in einem Land sind auch weitere Genehmigungen in anderen Ländern abgegolten. |  |
 | 1151 | Abruf von Daten aus dem Grundbuch oder Register: für jeden Abruf aus einem Grundbuch- oder Registerblatt .......... | 8,00 € |
 | 1152 | Abruf von Dokumenten, die zu den Grund- oder Registerakten genommen wurden: für jedes abgerufene Dokument .......... | 1,50 € |

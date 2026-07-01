@@ -158,7 +158,7 @@ Beistände
 - [§ 99 Anfechtung von Kostenentscheidungen](0099.md)
 - [§ 100 Kosten bei Streitgenossen](0100.md)
 - [§ 101 Kosten einer Nebenintervention](0101.md)
-- [§ 102](0102.md)
+- [§ 102 Änderung der Kostenentscheidung](0102.md)
 - [§ 103 Kostenfestsetzungsgrundlage; Kostenfestsetzungsantrag](0103.md)
 - [§ 104 Kostenfestsetzungsverfahren](0104.md)
 - [§ 105 Vereinfachter Kostenfestsetzungsbeschluss](0105.md)

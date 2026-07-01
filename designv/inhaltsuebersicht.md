@@ -33,9 +33,9 @@ Verfahren zur Feststellung oder Erklärung der Nichtigkeit
 Abschnitt 5
 Internationale Eintragungen
 | § 23 | Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen |
-| § 24 | Umschreibung internationaler Eintragungen |
+| § 24 | (weggefallen) |
 | § 25 | Nachträgliche Schutzentziehung |
 Abschnitt 6
 Schlussvorschriften
-| § 26 | Aufbewahrung der Wiedergabe des eingetragenen Designs |
+| § 26 | Aufbewahrung der Wiedergabe des Designs |
 | § 27 | Übergangsregelungen |

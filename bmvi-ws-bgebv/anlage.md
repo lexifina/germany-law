@@ -397,12 +397,12 @@ Vorbemerkungen
 | 21 | Sondervermessung nach spezifischen Regeln (Panama- und Suezkanal, Laderaumvermessung, Fischereifahrzeuge usw.) | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | nach Zeitaufwand |
 | 22 | Vermessung nach vereinfachten Verfahren (z. B. Sportfahrzeuge, Fischereifahrzeuge < 15 m) | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | 121 – 219 |
 | 23 | Ausstellung eines Schiffsmessbriefes oder einer Bescheinigung | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | 61 – 219 |
-| 24 | Einfache Prüfung von Ausrüstungsgeräten mit geringem Aufwand (Gerätekategorie A) | § 6 SchAusrV, § 8b SeeStrOV | 499 – 999 |
-| 25 | Prüfung von Ausrüstungsgeräten mit geringem Aufwand (Gerätekategorie B) | § 6 SchAusrV, § 8b SeeStrOV | 1 299 – 2 798 |
-| 26 | Einfache Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie C) | § 6 SchAusrV, § 8b SeeStrOV | 2 996 – 6 493 |
-| 27 | Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie D) | § 6 SchAusrV, § 8b SeeStrOV | 5 993 – 11 988 |
-| 28 | Prüfung von Ausrüstungsgeräten mit hohem Aufwand (Gerätekategorie E) | § 6 SchAusrV, § 8b SeeStrOV | 8 990 – 18 981 |
-| 29 | Prüfung von Ausrüstungsgeräten mit sehr hohem Aufwand (Gerätekategorie F) | § 6 SchAusrV, § 8b SeeStrOV | 14 984 – 29 970 |
+| 24 | Einfache Prüfung von Ausrüstungsgeräten mit geringem Aufwand (Gerätekategorie A) | § 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV | 499 – 999 |
+| 25 | Prüfung von Ausrüstungsgeräten mit geringem Aufwand (Gerätekategorie B) | § 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV | 1 299 – 2 798 |
+| 26 | Einfache Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie C) | § 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV | 2 996 – 6 493 |
+| 27 | Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie D) | § 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV | 5 993 – 11 988 |
+| 28 | Prüfung von Ausrüstungsgeräten mit hohem Aufwand (Gerätekategorie E) | § 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV | 8 990 – 18 981 |
+| 29 | Prüfung von Ausrüstungsgeräten mit sehr hohem Aufwand (Gerätekategorie F) | § 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV | 14 984 – 29 970 |
 | 30 | Gesonderte Ausstellung von Urkunden und Bescheinigungen | § 3 Absatz 3 Satz 2 SchSV | 386 |
 | 31 | Planprüfung der Aufstellung/Anbringung der Navigations- und Funkausrüstung Erteilung einer Ausnahmegenehmigung oder Befreiung | § 7 Absatz 1 SchSV | nach Zeitaufwand |
 | 32 | Prüfung der Aufstellung/Anbringung und Funktion der Navigations- und Funkausrüstung Erteilung einer Ausnahmegenehmigung oder Befreiung | § 7 Absatz 1 SchSV | nach Zeitaufwand |
@@ -528,14 +528,14 @@ Vorbemerkungen
 | 143 | Anlassbezogene Sonderbescheinigungen | § 4, Anlage A.I.11.1, 11.2 SchSG i. V. m. SOLAS Kapitel XI-1, XI-2 | 149 – 329 |
 | 144 | Zustimmung zu einer Sicherheitserklärung, bei der Beteiligte über einen längeren Zeitraum unter unveränderten Bedingungen zusammenwirken | § 9 Absatz 3 Satz 2 SeeEigensichV | 250 |
 | 145 | Besichtigungen an Bord für das ISSC | § 8 SeeEigensichV | 750 – 2 198 |
-| 146 | Anerkennung einer juristischen Person als benannte Konformitätsbewertungsstelle | § 3 Absatz 3a Satz 1 SchAusrV | 4 195 – 14 985 |
-| 147 | Prüfung der Erfüllung der Anforderungen an eine Konformitätsbewertungsstelle | § 4 Absatz 1 SchAusrV | 1 998 – 6 993 |
-| 148 | Prüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung | § 6 Absatz 2 SchAusrV | 85,35 – 449 |
-| 149 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung | § 6 Absatz 2 SchAusrV | 899 – 1 898 |
-| 150 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung und der Inanspruchnahme externer Prüflaboratorien, Sachverständiger oder Gutachter | § 6 Absatz 2 SchAusrV | 1 298 – 2 697 |
-| 151 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung mit Laborleistungen des BSH | § 6 Absatz 2 SchAusrV | 900 – 1 900 |
-| 152 | Anordnung von Maßnahmen bei Nichtkonformitäten | § 7 Absatz 1 und 2 SchAusrV | 85 – 600 |
-| 153 | Änderung des Eignungsumfanges der Konformitätsbewertungsstelle | § 3 Absatz 3a Satz 3 SchAusrV | 200 – 3 000 |
+| 146 | Anerkennung einer juristischen Person als benannte Konformitätsbewertungsstelle | § 19 Absatz 1 SchAusrV | 4 195 – 14 985 |
+| 147 | Prüfung der Erfüllung der Anforderungen an eine Konformitätsbewertungsstelle | § 23 Absatz 3 SchAusrV | 1 998 – 6 993 |
+| 148 | Prüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung | § 29 Absatz 5 SchAusrV | 85,35 – 449 |
+| 149 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung | § 29 Absatz 5 SchAusrV | 899 – 1 898 |
+| 150 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung und der Inanspruchnahme externer Prüflaboratorien, Sachverständiger oder Gutachter | § 29 Absatz 5 SchAusrV | 1 298 – 2 697 |
+| 151 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung mit Laborleistungen des BSH | § 29 Absatz 5 SchAusrV | 900 – 1 900 |
+| 152 | Anordnung von Maßnahmen bei Nichtkonformitäten | § 29 Absatz 2 und 3 SchAusrV | 85 – 600 |
+| 153 | Änderung des Eignungsumfanges der Konformitätsbewertungsstelle | § 19 Absatz 1, § 20 Absatz 1 SchAusrV | 200 – 3 000 |
 | 154 | Befreiung vom Befahrungsverbot | § 9 Absatz 2 Satz 3 SeeUmwVerhV | 578 |
 | 155 | Zulassung einer Ausnahme von der Verpflichtung des Ziehens einer Probe | § 15 Absatz 3 SeeUmwVerhV | 446 |
 | 156 | Gestattung eines nicht technischen emissionsmindernden Verfahrens | § 13 Absatz 5 SeeUmwVerhV | nach Zeitaufwand |

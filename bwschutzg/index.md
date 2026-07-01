@@ -1,13 +1,13 @@
 # Gesetz zur Stärkung des personellen Schutzes in der Bundeswehr
 
 
-## Abschnitt 1 (zukünftig in Kraft)
+## Abschnitt 1 Stärkung des personellen Schutzes
 
 
-### Unterabschnitt 1 (zukünftig in Kraft)
+### Unterabschnitt 1 Personenüberprüfung
 
 
-#### Titel 1 (zukünftig in Kraft)
+#### Titel 1 Unterstützte Verfassungstreueprüfung
 
 - [§ 1 Personenkreis](0001.md)
 - [§ 2 Inhalt der unterstützten Verfassungstreueprüfung](0002.md)
@@ -16,11 +16,12 @@
 
 #### Titel 2 Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
 
-- [(XXXX) §§ 5 und 6 (zukünftig in Kraft)](xxxx-5-und-6.md)
+- [§ 5 Personenkreis; Verordnungsermächtigung](0005.md)
+- [§ 6 Durchführung nach dem Sicherheitsüberprüfungsgesetz](0006.md)
 
 ### Unterabschnitt 2 Reisebeschränkungen
 
-- [§ 7 (zukünftig in Kraft)](0007.md)
+- [§ 7 Personenkreis](0007.md)
 - [§ 8 Reiseanzeigen, Zustimmungsvorbehalt, Reiseverbot](0008.md)
 - [§ 9 Anzeige eines Vorkommnisses](0009.md)
 - [§ 10 Verordnungsermächtigung](0010.md)
