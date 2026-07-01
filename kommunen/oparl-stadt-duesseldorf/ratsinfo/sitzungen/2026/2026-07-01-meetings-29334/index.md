@@ -1,0 +1,52 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-01T17:03:00+02:00
+- Ende: 2026-07-01T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29334
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29334
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591520.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591520.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591520.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 20.05.2026 - einstimmig beschlossen
+- TOP 4: Anfragen / Anträge
+- TOP 4.1: Antrag der Ratsfraktion SPD/Volt: Sicherung des Papierfabrik-Areals in Bilk als Gewerbestandort – Maßnahmen gegen Bodenspekulation - mehrheitlich abgelehnt
+- TOP 4.2: Anfrage der Ratsfraktion SPD/Volt: Sind die Würfel schon gefallen ? - Bauprojekte im Rahmen der Cube Real Estate Insolvenz - beantwortet
+- TOP -: Stadtentwicklung
+- TOP 5: Ansiedlung eines Lebensmittelvollsortimenters im Garather Zentrum - zur Kenntnis genommen
+- TOP 6: Plan Nr. 05/022 - Stadtteilzentrum Angermund (Am Fettpott) - einstimmig beschlossen
+- TOP 6.1: Integriertes städtebauliches Entwicklungskonzept (ISEK) Garath 2.0 - Empfehlung einstimmig beschlossen
+- TOP 6.2: Integriertes städtebauliches Entwicklungskonzept (ISEK) Rath/Mörsenbroich - Empfehlung mehrheitlich beschlossen
+- TOP -: Qualitätssichernde Verfahren
+- TOP 7: Kooperatives Verfahren Nr. 01/033 - Schadowstraße/ Berliner Allee (Tuchtinsel) - zur Kenntnis genommen
+- TOP -: Bauleitplanung
+- TOP 8: Bebauungsplan-Entwurf Nr. 04/024 - Niederkasseler Lohweg 16 - mehrheitlich beschlossen
+- TOP 9: Bebauungsplan - Entwurf Nr. 03/029 - Planstraße Oberbilk - Empfehlung einstimmig beschlossen
+- TOP 10: Bebauungsplan der Innenentwicklung Nr. 04/021 (Entwurf) - Niederkasseler Straße / Kanalstraße - einstimmig beschlossen
+- TOP 11: Bebauungsplan-Entwurf Nr. 03/002 - Kesselstraße - vertagt
+- TOP 12: Plan Nr. 03/051 - Buysstraße/ Fruchtstraße / Mecumstraße / Düssel - passieren lassen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Sonstiges
+- TOP 21: Herbeiführen eines Bedarfsbeschlusses - Neugestaltung Konrad-Adenauer-Platz - passieren lassen
+- TOP 21.1: Änderungsantrag der FDP-Ratsfraktion zu OVA/061/2026 - passieren lassen
+- TOP 22: Neugestaltung östliche Königsallee - passieren lassen
+- TOP 22.1: Änderungsantrag der FDP-Ratsfraktion zu OVA/062/2026 - passieren lassen
+- TOP 23: Entschädigungsregelung für die Mitglieder des Umlegungsausschusses - Empfehlung einstimmig beschlossen
