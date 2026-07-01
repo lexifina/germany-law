@@ -1,0 +1,56 @@
+# 4. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-07-01T16:01:00+02:00
+- Ende: 2026-07-01T18:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14371
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14371
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00587021.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2026) - einstimmig beschlossen
+- TOP 3: Kommunale Pflegeplanung für die Stadt Münster 2026 - zur Kenntnis genommen
+- TOP 4: Barrierefreie und inklusive gynäkologische Versorgung in Münster - einstimmig geändert beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Neufassung der Rechnungsprüfungsordnung der Stadt Münster - einstimmig beschlossen
+- TOP 6: Überörtliche Prüfung 2024/2025 durch die Gemeindeprüfungsanstalt NRW (ppaNRW) - Unterrichtung des Rates über die Beratungen des RPA zum Gesamtbericht der gpaNRW - einstimmig beschlossen
+- TOP 7: Zuschnitt des Bundestagswahlkreises - Antrag an den Rat Nr. A-R/0003/2026, CDU-Ratsfraktion "Keine Veränderung des Bundestagswahlkreiszuschnitts für die Stadt Münster" - ohne Beschlussfassung geschoben
+- TOP 8: Feststellung des Jahresabschlusses und Verwendung des Jahresergebnisses der citeq zum 31.12.2025 - einstimmig beschlossen
+- TOP 9: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster zum 1. April 2027 - ohne Beschlussfassung geschoben
+- TOP 10: Entwurf des Jahresabschlusses 2025 der Stadt Münster - Ergebnis und wesentliche Zahlen - zur Kenntnis genommen
+- TOP 11: Feststellung der Jahresabschlüsse 2025 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 12: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026 - ohne Beschlussfassung geschoben
+- TOP 12.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026
+- TOP 12.1.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026
+- TOP 13: Förderung von Einzelmaßnahmen an Baudenkmälern durch die Stadt Münster - einstimmig beschlossen
+- TOP 14: Münsterumfrage 2025 - Methodik und zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 15: Weiterentwicklung der Strukturen des NWL (Trägerwechsel und Satzungsänderung) - einstimmig beschlossen
+- TOP 15.1: Weiterentwicklung der Strukturen des NWL (Trägerwechsel und Satzungsänderung)
+- TOP 16: Weiterentwicklung der Strukturen des Zweckverbandes Mobilität Münsterland (ZVM) einschließlich Satzungsänderung - ohne Beschlussfassung geschoben
+- TOP 17: Beschluss über die Fortsetzung des Deutschlandtickets (ab 01.07.2026) und Änderung der "Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif" - einstimmig beschlossen
+- TOP 18: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2025 - einstimmig beschlossen
+- TOP 19: Modellprojekt Intensivpädagogische Gruppen – Schuljahr 2026/2027 - einstimmig beschlossen
+- TOP 20: Nutzung der Bestandsimmobilie der Ludgerusschule Albachten - zur Kenntnis genommen
+- TOP 21: Einrichtung von Familiengrundschulzentren - einstimmig beschlossen
+- TOP 22: Sicherungsmaßnahmen an städtischen Schulen - ohne Beschlussfassung geschoben
+- TOP 22.1: Sicherungsmaßnahmen an städtischen Schulen
+- TOP 23: Änderung der Richtlinienförderung - einstimmig beschlossen
+- TOP 24: Einführung einer Familien-App für Münster - einstimmig beschlossen
+- TOP 25: Errichtungsbeschluss: Neubau einer fünfgruppigen Kindertageseinrichtung an der Marga-Spiegel-Straße im Wohnbereich Albachten-Ost und Vergabe der Trägerschaft an die Stadt Münster - einstimmig beschlossen
+- TOP 26: Errichtungsbeschluss zum Neubau eines kommunalen Funktionsgebäudes auf der Bezirkssportanlage am Brandhoveweg in Münster-Wolbeck - einstimmig beschlossen
+- TOP 27: Interessenbekundungen zum Bundesprogramm Schwimmbäder für das Bundesprogramm „Sanierung kommunaler Sportstätten - Schwimmbäder" (SKS), Projektaufruf 2026 - einstimmig beschlossen
+- TOP 28: Bauliche Erweiterung des Schulzentrums Hiltrup; Errichtung einer Dreifach-Sporthalle und Erweiterungsneubau Johannes-Gutenberg-Realschule Hiltrup sowie Umsetzung von Maßnahmen im Bestand - einstimmig beschlossen
+- TOP 29: Satzung zur Änderung der Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau (Benennungsrechtssatzung) - ohne Beschlussfassung geschoben
+- TOP 30: Bauleitplanung
+- TOP 30.1: Stadtbezirk Mitte
+- TOP 30.1.1: 144. FNP-Änderung - Beschluss zur Änderung / Bebauungsplan Nr. 659 - Beschluss zur Aufstellung [Hauptpumpwerk] - einstimmig beschlossen
+- TOP 31: Besetzung der Kreiswahlausschüsse zur Landtagswahl am 25.04.2027 - einstimmig beschlossen
+- TOP 31.1: Besetzung der Kreiswahlausschüsse zur Landtagswahl am 25.04.2027
+- TOP 32: Verschiedenes
