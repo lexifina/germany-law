@@ -1,2 +1,2 @@
 # Sächsisches Personalvertretungsgesetz (SächsPersVG)
-Rechtsbereinigt mit Stand vom 1. Januar 2025
+Rechtsbereinigt mit Stand vom 1. Juli 2026
