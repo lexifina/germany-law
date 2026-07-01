@@ -1,0 +1,85 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-07-01T16:18:00+02:00
+- Ende: 2026-07-01T18:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14299
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14299
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00587022.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Gasometer - Bewertung der Nutzung des Geländes
+- TOP 1.2: Flächenentsiegelung
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Bürgergestützte Unterhaltung städtischer Brunnenanlagen - Pilotprojekt Marktallee-Brunnen Hiltrup - verwiesen
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8: Anregungen des Jugendrates
+- TOP 9: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung
+- TOP 10: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 10.1: Wohnkosten-TÜV einführen - Münster-Standards überprüfen und Kostenfolgen von Ratsentscheidungen sichtbar machen - verwiesen
+- TOP 10.2: Resolution des Rates der Stadt Münster zur B 51 zwischen Münster, Handorf und Telgte - einstimmig beschlossen
+- TOP 11: Neufassung der Rechnungsprüfungsordnung der Stadt Münster - einstimmig beschlossen
+- TOP 12: Überörtliche Prüfung 2024/2025 durch die Gemeindeprüfungsanstalt NRW (ppaNRW) - Unterrichtung des Rates über die Beratungen des RPA zum Gesamtbericht der gpaNRW - einstimmig beschlossen
+- TOP 13: Zuschnitt des Bundestagswahlkreises - Antrag an den Rat Nr. A-R/0003/2026, CDU-Ratsfraktion "Keine Veränderung des Bundestagswahlkreiszuschnitts für die Stadt Münster" - mehrheitlich geändert beschlossen
+- TOP 14: Feststellung des Jahresabschlusses und Verwendung des Jahresergebnisses der citeq zum 31.12.2025 - einstimmig beschlossen
+- TOP 15: Stadtwerke Münster GmbH: Anpassung der Fahrpreise im Gebiet der Stadt Münster zum 1. April 2027 - mehrheitlich beschlossen
+- TOP 16: Entwurf des Jahresabschlusses 2025 der Stadt Münster - Ergebnis und wesentliche Zahlen - zur Kenntnis genommen
+- TOP 17: Feststellung der Jahresabschlüsse 2025 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 18: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026 - einstimmig beschlossen
+- TOP 18.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026
+- TOP 18.1.1: Fortschreibung des Einzelhandels- und Zentrenkonzepts 2026
+- TOP 19: Förderung von Einzelmaßnahmen an Baudenkmälern durch die Stadt Münster - einstimmig beschlossen
+- TOP 20: Münsterumfrage 2025 - Methodik und zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 21: Weiterentwicklung der Strukturen des NWL (Trägerwechsel und Satzungsänderung) - einstimmig beschlossen
+- TOP 21.1: Weiterentwicklung der Strukturen des NWL (Trägerwechsel und Satzungsänderung)
+- TOP 22: Weiterentwicklung der Strukturen des Zweckverbandes Mobilität Münsterland (ZVM) einschließlich Satzungsänderung - einstimmig geändert beschlossen
+- TOP 23: Beschluss über die Fortsetzung des Deutschlandtickets (ab 01.07.2026) und Änderung der "Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif" - einstimmig beschlossen
+- TOP 24: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2025 - einstimmig beschlossen
+- TOP 25: Modellprojekt Intensivpädagogische Gruppen – Schuljahr 2026/2027 - einstimmig beschlossen
+- TOP 26: Nutzung der Bestandsimmobilie der Ludgerusschule Albachten - zur Kenntnis genommen
+- TOP 27: Einrichtung von Familiengrundschulzentren - einstimmig beschlossen
+- TOP 28: Sicherungsmaßnahmen an städtischen Schulen - mehrheitlich geändert beschlossen
+- TOP 28.1: Sicherungsmaßnahmen an städtischen Schulen
+- TOP 29: Änderung der Richtlinienförderung - einstimmig beschlossen
+- TOP 30: Einführung einer Familien-App für Münster - mehrheitlich beschlossen
+- TOP 31: Errichtungsbeschluss: Neubau einer fünfgruppigen Kindertageseinrichtung an der Marga-Spiegel-Straße im Wohnbereich Albachten-Ost und Vergabe der Trägerschaft an die Stadt Münster - einstimmig beschlossen
+- TOP 32: Errichtungsbeschluss zum Neubau eines kommunalen Funktionsgebäudes auf der Bezirkssportanlage am Brandhoveweg in Münster-Wolbeck - einstimmig beschlossen
+- TOP 33: Interessenbekundungen zum Bundesprogramm Schwimmbäder für das Bundesprogramm „Sanierung kommunaler Sportstätten - Schwimmbäder" (SKS), Projektaufruf 2026 - einstimmig beschlossen
+- TOP 34: Bauliche Erweiterung des Schulzentrums Hiltrup; Errichtung einer Dreifach-Sporthalle und Erweiterungsneubau Johannes-Gutenberg-Realschule Hiltrup sowie Umsetzung von Maßnahmen im Bestand - einstimmig geändert beschlossen
+- TOP 35: Satzung zur Änderung der Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau (Benennungsrechtssatzung) - einstimmig beschlossen
+- TOP 36: Bauleitplanung
+- TOP 36.1: Stadtbezirk Münster-Mitte
+- TOP 36.1.1: 144. FNP-Änderung - Beschluss zur Änderung / Bebauungsplan Nr. 659 - Beschluss zur Aufstellung [Hauptpumpwerk] - einstimmig geändert beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 37.1: Wohnbauflächen schneller in die Umsetzung bringen – Verfahren zur Vermarktung städtischer Baugrundstücke überprüfen - verwiesen
+- TOP 37.2: Jede Minute zählt – Ersthelfer App und kommunale Reanimationsstrategie - verwiesen
+- TOP 37.3: Mehrweg für Münster - Reduktion des Verpackungsmülls für Einweg-Außer-Haus-Verpackungen - verwiesen
+- TOP 37.4: Gleichstellung im Quartier - Gleichstellung stärker in den Stadtteilen verankern - Akzeptanz, Sichtbarkeit und Teilhabe vor Ort erhöhen - verwiesen
+- TOP 37.5: Förderprogramm "Münster entsiegelt - lebendige Vorgärten statt Schottergärten" - verwiesen
+- TOP 37.6: Schutz stärken - Perspektiven schaffen: Münster als Modellstadt für modernen Gewaltschutz - verwiesen
+- TOP 37.7: Zurzeit kein freier Termin für den neuen Führerschein verfügbar? Dann ab ins Bürgerbüro! - verwiesen
+- TOP 37.8: Einheitliches Anmeldeverfahren für mehr Chancengerechtigkeit! - verwiesen
+- TOP 37.9: Sichere öffentliche Räume für alle - Schluss mit Catcalling - verwiesen
+- TOP 37.10: Münster entlastet: Bürokratieabbau für Bürgerschaft, Vereine, Handwerk und Wirtschaft - verwiesen
+- TOP 37.11: Taxigewerbe schützen - Mindestbeförderungsentgelt für Fahrten mit Mietwagen - verwiesen
+- TOP 37.12: Eine KI-Strategie für Münster - verwiesen
+- TOP 37.13: Raumsituation für INDRO e. V. verbessern - verwiesen
+- TOP 37.14: Jedes Dach zählt - Solarenergieausbau auf städtischen Immobilien beschleunigen - verwiesen
+- TOP 37.15: Familienfördergarantie konkret umsetzen - Zugänge vereinfachen, Leistungen bündeln, Beratung stärken - verwiesen
+- TOP 37.16: Neues Verfahren für Anregungen und Beschwerden nach § 24 GO NRW: Partizipation stärken, Abläufe transparenter gestalten und Ausschuss für Einwohner*innenbeteiligung einbinden - verwiesen
+- TOP 38: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 38.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 39: Besetzung der Kreiswahlausschüsse zur Landtagswahl am 25.04.2027 - einstimmig beschlossen
+- TOP 39.1: Besetzung der Kreiswahlausschüsse zur Landtagswahl am 25.04.2027
+- TOP 40: Verschiedenes
