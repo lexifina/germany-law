@@ -1,0 +1,17 @@
+# Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kryptomärkteaufsichtsgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Einreichungsverfahren](0001.md)
+- [§ 2 Anzeigen bei grenzüberschreitendem Dienstleistungsverkehr und bei Errichtung einer Zweigniederlassung](0002.md)
+- [§ 3 Anzeigen bei bedeutenden Beteiligungen am eigenen Institut und bei passivischen engen Verbindungen](0003.md)
+- [§ 4 Anzeigen bei aktivischen engen Verbindungen](0004.md)
+- [§ 5 Anzeigen bei wesentlichen Auslagerungen](0005.md)
+- [§ 6 Anzeigen bei der Vereinigung von Instituten](0006.md)
+- [§ 7 Anzeigen bei Nebentätigkeiten und bei Beteiligungen](0007.md)
+- [§ 8 Vorlage von Jahresabschluss, Lagebericht und Abschlussprüfungsberichten](0008.md)
+- [§ 9 Inkrafttreten](0009.md)
+- [Anlage 1 (zu § 3 Absatz 1 und 2)Passivische Beteiligungsanzeige](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 4 Satz 3 und § 4 Absatz 3 Satz 2)Anlage für komplexe Beteiligungsstrukturen,](anlage-2.md)
+- [Anlage 3 (zu § 4 Absatz 1 und 2)Aktivische Beteiligungsanzeige](anlage-3.md)
+- [Anlage 4 (zu § 7 Absatz 1)Anzeige von Nebentätigkeiten von Geschäftsleitern](anlage-4.md)
+- [Anlage 5 (zu § 7 Absatz 2)Beteiligungen von Geschäftsleitern und den für die Geschäftsleitung des Instituts verantwortlichen Personen](anlage-5.md)

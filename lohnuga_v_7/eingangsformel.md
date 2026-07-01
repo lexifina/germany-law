@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des § 3a Absatz 1 bis 3 und 5 des Arbeitnehmerüberlassungsgesetzes in der Fassung der Bekanntmachung vom 3. Februar 1995 (BGBl. I S. 158), das zuletzt durch Artikel 10 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 369) geändert worden ist, nachdem es Verleihern und Leiharbeitnehmerinnen und Leiharbeitnehmern sowie den Gewerkschaften und Vereinigungen von Arbeitgebern, die im Geltungsbereich der Verordnung zumindest teilweise tarifzuständig sind, Gelegenheit zur schriftlichen Stellungnahme gegeben hat und der in § 5 Absatz 1 Satz 1 des Tarifvertragsgesetzes genannte Ausschuss befasst war:

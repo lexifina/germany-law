@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des § 11 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das zuletzt durch Artikel 5a des Gesetzes vom 3. Februar 2026 (BGBl. 2026 I Nr. 29) geändert worden ist, nachdem es den in den Geltungsbereich dieser Rechtsverordnung fallenden Arbeitgebern und Arbeitnehmerinnen und Arbeitnehmern sowie den Parteien von Tarifverträgen, die zumindest teilweise in den fachlichen Geltungsbereich dieser Rechtsverordnung fallen, und den paritätisch besetzten Kommissionen, die auf der Grundlage kirchlichen Rechts Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in der Pflegebranche festlegen, Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
