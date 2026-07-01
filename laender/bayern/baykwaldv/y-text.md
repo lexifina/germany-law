@@ -1,0 +1,1 @@
+Auf Grund des Art. 19 Abs. 6 des Waldgesetzes für Bayern (BayWaldG) in der Fassung der Bekanntmachung vom 22. Juli 2005 (GVBl S. 313, BayRS 7902-1-L) erlässt das Bayerische Staatsministerium für Landwirtschaft und Forsten im Einvernehmen mit den Bayerischen Staatsministerien des Innern und der Finanzen folgende Verordnung:
