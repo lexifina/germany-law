@@ -1,0 +1,6 @@
+# § 80b Vorsorgende Speicherung von zu Gefahrenabwehrzwecken erhobenen Daten
+(1) Die Polizei kann personenbezogene Daten, die sie auf der Grundlage dieses Gesetzes erhoben oder erlangt hat
+1. zu gefährdeten, hilflosen oder vermissten Personen vorsorgend speichern, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass wegen der Persönlichkeit der betroffenen Person oder sonstiger Erkenntnisse eine hinreichende Wahrscheinlichkeit dafür besteht, dass die vorsorgende Speicherung der Daten zur Abwehr einer Gefahr für die betroffene Person erforderlich ist, oder
+2. zu Anlasspersonen vorsorgend speichern, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass diese in naher Zukunft Straftaten von erheblicher Bedeutung begehen werden und die vorsorgende Speicherung der Daten zur Verhütung von Straftaten von erheblicher Bedeutung erforderlich ist.
+Zu Personen nach Satz 1 Nummer 1 dürfen die in § 80 Absatz 2 Satz 1 Nummer 1 bis 3 bezeichneten Daten sowie der Bezugssachverhalt, zu Personen nach Satz 1 Nummer 2 die in § 80 Absatz 2 bezeichneten Daten vorsorgend gespeichert werden.
+(2) Für die weitere Verarbeitung der Daten nach Absatz 1 Satz 1 Nummer 1 gilt § 79a Absatz 1, für die weitere Verarbeitung der Daten nach Absatz 1 Satz 1 Nummer 2 gilt § 79a.
