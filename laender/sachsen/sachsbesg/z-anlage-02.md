@@ -46,7 +46,7 @@ Polizeipräsidentin, Polizeipräsident
 Präsidentin, Präsident der Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen
 Präsidentin, Präsident des Landesamts für Geobasisinformation Sachsen
 Präsidentin, Präsident des Landesamts für Verfassungsschutz
-Präsidentin, Präsident des Polizeiverwaltungsamts
+Präsidentin, Präsident des Polizeipräsidiums für Service und IT
 Präsidentin, Präsident des Statistischen Landesamts
 Rektorin, Rektor der Hochschule der Sächsischen Polizei (FH)
 Vizepräsidentin, Vizepräsident bei der Landesdirektion Sachsen4)
