@@ -2,7 +2,7 @@
 Teil 1 Allgemeines
 § 1 Anwendungsbereich
 § 2 Aufgaben der Polizei
-§ 3 Tätigwerden für andere Stellen
+§ 3 Tätigwerden der Polizei für die Polizeibehörden oder andere Stellen
 § 4 Begriffsbestimmungen
 § 5 Grundsatz der Verhältnismäßigkeit
 § 6 Verantwortlichkeit für eigenes oder fremdes Verhalten
@@ -14,13 +14,14 @@ Teil 1 Allgemeines
 Teil 2 Allgemeine Befugnisse, Entschädigung
 Abschnitt 1 Maßnahmen
 § 12 Allgemeine Befugnisse
+§ 12a Einsatz technischer Mittel gegen unbemannte Fahrzeugsysteme
 § 13 Befragung, Auskunftspflicht
 § 14 Vorladung
 § 15 Identitätsfeststellung, Prüfung von Berechtigungsscheinen
 § 16 Erkennungsdienstliche Maßnahmen
 § 17 Medizinische und molekulargenetische Untersuchungen
 § 18 Platzverweisung
-§ 19 Wohnungsverweisung und Kontaktverbot
+§ 19 Maßnahmen zum Schutz vor häuslicher Gewalt und sonstigen Nachstellungen
 § 20 Meldeauflage
 § 21 Aufenthaltsanordnung und Kontaktverbot
 § 22 Gewahrsam
@@ -66,23 +67,27 @@ Unterabschnitt 1 Allgemeine Befugnisse zur Datenerhebung
 § 55 Grundsätze der Datenerhebung
 § 56 Befugnis zur Datenerhebung
 § 57 Offener Einsatz technischer Mittel zur Bild- und Tonaufnahme und -aufzeichnung
+§ 57a Anwendungen zur automatisierten Verarbeitung von an öffentlichen Orten und besonders gefährdeten öffentlichen Einrichtungen offen erhobenen personenbezogenen Daten, Verordnungsermächtigung
 Unterabschnitt 2 Besondere Befugnisse zur Datenerhebung und besondere Maßnahmen
 § 58 Anlassbezogene automatisierte Kennzeichenerkennung
-§ 59 Einsatz technischer Mittel zur Verhütung schwerer grenzüberschreitender Kriminalität
-§ 60 Ausschreibung zur polizeilichen Beobachtung und zur gezielten Kontrolle
+§ 59 (weggefallen)
+§ 60 Ausschreibung von Personen und Sachen
 § 61 Elektronische Aufenthaltsüberwachung
 § 62 Rasterfahndung
+§ 62a Anlassbezogener besonderer automatisierter Datenabgleich und anlassbezogene automatisierte Datenanalyse, Verordnungsermächtigung
+§ 62b Anlassbezogene nachträgliche Fernidentifizierung
 § 63 Längerfristige Observation und Einsatz besonderer technischer Mittel
 § 64 Einsatz Verdeckter Ermittlerinnen, Verdeckter Ermittler und von V-Personen
 § 65 Einsatz technischer Mittel zur Datenerhebung in oder aus Wohnungen
 § 66 Überwachung der Telekommunikation
+§ 66a Unterbrechung oder Verhinderung der Telekommunikation
 § 67 Erhebung von Verkehrs- und Nutzungsdaten
 § 68 Identifizierung und Lokalisierung von Telekommunikationsendgeräten
-§ 69 Unterbrechung oder Verhinderung der Telekommunikation
+§ 69 (weggefallen)
 § 70 Erhebung von Bestandsdaten
-§ 71 Standortermittlung von gefährdeten Personen
+§ 71 Einsatz von unbemannten Luftfahrtsystemen
 Unterabschnitt 3 Besondere Bestimmungen
-§ 72 Verpflichtung der Diensteanbieter
+§ 72 (weggefallen)
 § 73 Anordnung, gerichtliche Zuständigkeit
 § 74 Benachrichtigungspflichten
 § 75 Besondere Protokollierungspflichten
@@ -91,18 +96,27 @@ Unterabschnitt 3 Besondere Bestimmungen
 § 78 Löschung von durch besondere Maßnahmen erlangten personenbezogenen Daten
 Abschnitt 3 Befugnisse und Pflichten bei der weiteren Datenverarbeitung
 Unterabschnitt 1 Befugnisse zur weiteren Datenverarbeitung, Kennzeichnung
-§ 79 Zweckbindung, Zweckänderung, Grundsatz der hypothetischen Datenneuerhebung
-§ 80 Befugnis zur Datenweiterverarbeitung
+§ 79 Befugnis zur Datenverarbeitung
+§ 79a Zweckbindung, Zweckänderung, Hypothetische Datenneuerhebung
+§ 79b Weiterverarbeitung zu Aus- und Fortbildungszwecken, zu statistischen oder wissenschaftlichen Zwecken, Weiterverarbeitung von Vorgangsverwaltungs- und Protokolldaten
+§ 79c Entwicklung, Training und Testen von regelbasierten und lernenden IT-Systemen
+§ 80 Vorsorgende Speicherung von personenbezogenen Daten zu Verurteilten, Beschuldigten, Verdächtigen und Anlasspersonen
+§ 80a Vorsorgende Speicherung von personenbezogenen Daten zu Zeuginnen und Zeugen, Opfern, Hinweisgeberinnen und -gebern, Kontakt- und Begleitpersonen
+§ 80b Vorsorgende Speicherung von zu Gefahrenabwehrzwecken erhobenen Daten
+§ 80c Vorsorgende Speicherung von personenbezogenen Daten zu sonstigen Personen
+§ 80d Dauer der Speicherung, Aussonderungsprüffristen, Höchstspeicherfristen
 § 81 Kennzeichnung
 Unterabschnitt 2 Datenübermittlung, sonstige Datenverarbeitung
 § 82 Allgemeine Regelungen der Datenübermittlung
 § 83 Übermittlungsverbote und Verweigerungsgründe
 § 84 Datenübermittlung im innerstaatlichen Bereich
+§ 84a Öffentlichkeitsfahndung
 § 85 Automatisiertes Abrufverfahren
 § 86 Aufzeichnung von Notrufen und Anrufen
 § 87 Datenabgleich
-§ 88 Datenübermittlung zum Zweck einer Zuverlässigkeitsüberprüfung zum Schutz besonders gefährdeter Veranstaltungen
+§ 88 Zuverlässigkeitsüberprüfung zum Schutz von besonders gefährdeten Veranstaltungen
 § 89 Datenübermittlung an Mitgliedstaaten der Europäischen Union
+§ 89a Datenübermittlung und -bereitstellung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977
 § 90 Datenübermittlung im internationalen Bereich
 Unterabschnitt 3 Datenschutzpflichten der verantwortlichen Stellen, Kontrolle
 § 91 Berichtigung, Löschung und Einschränkung der Verarbeitung
@@ -124,5 +138,6 @@ Teil 4 Organisation der Polizei
 § 105 Amtshandlungen von Polizeibediensteten des Freistaates Sachsen außerhalb des Zuständigkeitsbereichs
 Teil 5 Sonstige Bestimmungen
 § 106 Strafvorschriften
+§ 106a Ordnungswidrigkeiten
 § 107 Berichtspflichten gegenüber dem Landtag
-§ 108 Außerkrafttreten
+§ 108 (weggefallen)
