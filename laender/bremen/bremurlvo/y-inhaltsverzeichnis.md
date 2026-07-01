@@ -27,3 +27,5 @@ Abschnitt 3 Sonderurlaub
 § 22 | Sonderurlaub im dienstlichen oder öffentlichen Interesse oder aus einem sonstigen wichtigen Grund
 Abschnitt 4 Bildungszeit
 § 23 | Urlaub nach den Vorschriften des Bremischen Bildungszeitgesetzes
+Abschnitt 5 Übergangsregelung
+§ 24 | Übergangsregelung auf Grund der Einführung der 41-Stunden-Woche am 1. Juli 2026
