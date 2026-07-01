@@ -88,8 +88,10 @@ vorläufige Amtsenthebung; Notariatsverwalter
 | § 47 | Erlöschen des Amtes |
 | § 48 | Entlassung |
 | § 48a | Altersgrenze |
-| § 48b | Amtsniederlegung zum Zweck der Betreuung oder Pflege |
-| § 48c | Amtsniederlegung aus gesundheitlichen Gründen |
+| § 48b | Antrag auf Verlängerung der Amtszeit bei Anwaltsnotaren |
+| § 48c | Entscheidung über Anträge nach § 48b |
+| § 48d | Amtsniederlegung zum Zweck der Betreuung oder Pflege |
+| § 48e | Amtsniederlegung aus gesundheitlichen Gründen |
 | § 49 | Strafgerichtliche Verurteilung |
 | § 50 | Amtsenthebung |
 | § 51 | Verwahrung bei Erlöschen des Amtes oder Verlegung des Amtssitzes |
@@ -225,5 +227,6 @@ Teil 4
 | § 118 | Übergangsvorschrift für Akten, Bücher und Verzeichnisse |
 | § 119 | Übergangsvorschrift für bereits verwahrte Urkundensammlungen |
 | § 120 | Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv |
+| § 121 | Übergangsvorschrift zu den §§ 48b und 48c |
 | Anlage 1 (zu § 18d Absatz 1) | Gebührenverzeichnis (Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken) |
 | Anlage 2 (zu § 111f Satz 1) | Gebührenverzeichnis (verwaltungsrechtliche Notarsachen) |
