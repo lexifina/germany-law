@@ -1,0 +1,1 @@
+Auf Grund des Art. 21 Abs. 1 Satz 1 des Kostengesetzes vom 20. Februar 1998 (GVBl. S. 43, BayRS 2013-1-1-F), zuletzt geändert durch Art. 8 des Gesetzes vom 26. Juli 2005 (GVBl. S. 287), erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
