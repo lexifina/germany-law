@@ -1,0 +1,1 @@
+7. Art. 12 Nr. 3 des Gesetzes über Zuständigkeiten im Verkehrswesen (ZustGVerk) vom 28. Juni 1990 (GVBl S. 220, BayRS 9210-1-I), zuletzt geändert durch § 1 Nr. 426 der Verordnung vom 22. Juli 2014 (GVBl S. 286),
