@@ -17,7 +17,7 @@ Abschnitt 4 Besondere Verarbeitungssituationen
 § 11 | Verarbeitung besonderer Kategorien personenbezogener Daten
 § 12 | Datenverarbeitung im Beschäftigungskontext
 § 13 | Verarbeitung besonderer Kategorien personenbezogener Daten zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken
-§ 14 | Sonderbestimmung für Radio Bremen
+§ 14 | (weggefallen)
 § 15 | Videoüberwachung
 Abschnitt 5 Die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit
 § 16 | Errichtung
