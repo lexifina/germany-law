@@ -65,10 +65,13 @@ Abschnitt 7 Besuche, Schriftwechsel und Telefongespräche
 § 56 | Pakete
 Abschnitt 8 Gelder der Gefangenen, Freistellung von der Arbeit
 § 57 | Ausbildungsbeihilfe, Arbeitsentgelt
+§ 57a | Überbrückungsgeld
 § 58 | Freistellung von der Arbeit
 § 59 | Taschengeld
 § 60 | Hausgeld
 § 61 | Eigengeld
+§ 61a | Zweckgebundene Einzahlungen
+§ 61b | Freiwillige Beitragszahlungen an die gesetzliche Rentenversicherung
 Abschnitt 9 Sicherheit und Ordnung
 § 62 | Grundsatz
 § 63 | Verhaltensvorschriften
@@ -123,5 +126,6 @@ Abschnitt 16 Aufsicht, Beirat
 § 111 | Beirat
 Abschnitt 17 Schlussbestimmungen
 § 112 | Einschränkung von Grundrechten
+§ 112a | Verhältnis zum Bundesrecht
 § 113 | Gleichstellungsbestimmung
 § 114 | In-Kraft-Treten

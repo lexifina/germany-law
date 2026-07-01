@@ -1,0 +1,3 @@
+# § 61b Freiwillige Beitragszahlungen an die gesetzliche Rentenversicherung
+(1) Auf Antrag kann die Anstalt aus der Vergütung nach § 57 oder aus sonstigen verfügbaren Mitteln für Gefangene freiwillige Beiträge an die gesetzliche Rentenversicherung entrichten. Die Höhe der monatlichen Beitragszahlungen ist grundsätzlich auf den geltenden Mindestbeitrag begrenzt. Über Ausnahmen entscheidet die Anstaltsleitung, insbesondere wenn keine vorrangigen Schulden bei Gläubigern bestehen oder die erforderlichen Mittel durch Dritte bereitgestellt werden.
+(2) Der Anspruch auf Auszahlung der nach Absatz 1 geleisteten Beiträge ist nicht übertragbar.
