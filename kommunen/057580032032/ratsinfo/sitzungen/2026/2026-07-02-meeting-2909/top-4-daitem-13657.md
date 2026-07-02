@@ -1,0 +1,9 @@
+# TOP 4: Stellenplan der Beamten und Tariflich Beschäftigten der Stadt Spenge für das Haushaltsjahr 2026
+
+- Sitzung: Hauptausschuss (5. Sitzung) (2026-07-02)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13657
+- Beratung: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4940
+- Beschluss (Datei): Beschlusstext (Stellenplan der Beamten und Tariflich Beschäftigten der Stadt Spenge für das Haushaltsjahr
+2026) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1_dS9gCXaBCmVOUKHKGTYAAz_rgWD9U0YWsiwr3JsY/Beschlusstext_85-2026_-oeffentlich-_Hauptausschuss_02.07.2026.pdf
