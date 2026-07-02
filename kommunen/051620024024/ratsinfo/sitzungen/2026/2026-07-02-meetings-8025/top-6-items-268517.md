@@ -1,0 +1,8 @@
+# TOP 6: Förderung von Mannschaften in den höchsten Wettkampfligen
+
+- Sitzung: Sportausschuss (2026-07-02)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/268517
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/38848
