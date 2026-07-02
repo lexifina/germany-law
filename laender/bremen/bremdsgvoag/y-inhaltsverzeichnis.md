@@ -19,6 +19,7 @@ Abschnitt 4 Besondere Verarbeitungssituationen
 § 13 | Verarbeitung besonderer Kategorien personenbezogener Daten zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken
 § 14 | (weggefallen)
 § 15 | Videoüberwachung
+§ 15a | Zuverlässigkeitsprüfungen bei Veranstaltungen von öffentlichen Stellen
 Abschnitt 5 Die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit
 § 16 | Errichtung
 § 17 | Unabhängigkeit
