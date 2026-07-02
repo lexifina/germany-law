@@ -1,0 +1,100 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2026-07-02T17:42:00+02:00
+- Ende: 2026-07-02T19:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3910
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3910
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 2.1: Genehmigung einer Dringlichkeitsentscheidung - Städtebaulicher Vertrag N 47 - einstimmig beschlossen
+- TOP 3: Gründung einer Wohnungsbaugenossenschaft - mehrheitlich beschlossen
+- TOP 4: Ortsrecht
+- TOP 4.1: Tarif zur Satzung der Stadt Grevenbroich über die abweichende Erhebung von Gebühren nach der Allgemeinen Verwaltungsgebührenordnung für das Land NRW (AVerwGebO NRW) für Amtshandlungen des Standesamtes nach dem Personenstandsgesetz (PStG) - mehrheitlich beschlossen
+- TOP 5: Mittelbereitstellungen
+- TOP 5.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung im Jahr 2026 für den Jahresabschluss 2025 - Kenntnisnahme
+- TOP 5.2: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Januar bis Mai 2026 - Kenntnisnahme
+- TOP 5.3: Neubau Feuerwehrhaus Neukirchen - einstimmig beschlossen
+- TOP 6: Aufstellung des Bebauungsplans Nr. G 227 "Wohngebiet An St. Georg" - Ortsteil Neu-Elfgen (Vorl. Abwägung und Beschluss zur Bet. der Öffentlichkeit gem. § 3 Abs. 2 BauGB) - einstimmig beschlossen
+- TOP 7: Beratungspunkte Ausschüsse
+- TOP 7.1: Beratungspunkte aus dem Rechnungsprüfungsausschuss
+- TOP 7.1.1: Prüfung des Jahresabschlusses der Stadt Grevenbroich zum 31.12.2024 - einstimmig beschlossen
+- TOP 7.2: Beratungspunkte aus dem Ausschuss für Planung und Strukturwandel
+- TOP 7.2.1: Aktueller Stand zu den verschiedenen Förderprojekten - Einreichung von Förderanträgen - Kenntnisnahme
+- TOP 7.2.2: Industriepark Elsbachtal-Ost - Grundsatzbeschluss „Go4Gewerbe“ - einstimmig beschlossen
+- TOP 7.2.3: Integriertes Stadtentwicklungskonzept (ISEK) „Flutgrabenquartier" - einstimmig beschlossen
+- TOP 7.2.4: BauGB-Novelle 2025: Anwendung des „(Wohnungs-)Bauturbos" - einstimmig beschlossen
+- TOP 7.2.5: 26. Änderung des Regionalplans (betrifft u.a. Bebauungsplan Nr. G 232 "Am Hammerwerk" im Ortsteil Elsen) hier: mündliche Information der Verwaltung
+- TOP 7.2.6: Änderungs- und Ergänzungsvertrag G 234 VEP Einzelhandel Am Rittergut - einstimmig beschlossen
+- TOP 7.2.7: 53. FNP-Änderung "Sondergebiet Erneuerbare Energien Frimmersdorfer Höhe" - Ortsteil Frimmersdorf (Aufstellungsbeschluss) - mehrheitlich beschlossen
+- TOP 7.2.8: 54. FNP-Änderung "Windtestfeld Aschedeponie" - Ortsteil Frimmersdorf (Aufstellungsbeschluss) - mehrheitlich beschlossen
+- TOP 7.2.9: Aufhebung BP F 15 "Windtestfeld Frimmersdorfer Höhe" - Ortsteil Frimmersdorf (Aufstellungsbeschluss) - einstimmig beschlossen
+- TOP 7.2.10: Aufstellung der Aufhebung der 2. Änd. des BP Nr. F 15 "Windtestfeld Frimmersdorfer Höhe" - Ortsteil Frimmersdorf (Aufstellungsbeschluss) - einstimmig beschlossen
+- TOP 7.2.11: Aufhebung BP Nr. G 112 (Abwägung und Satzungsbeschluss) - einstimmig beschlossen
+- TOP 7.2.12: BP N 49 "Feuerwehrgerätehaus Neukirchen" - Ortsteil Neukirchen (Aufstellungsbeschluss) - einstimmig beschlossen
+- TOP 7.3: Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 7.3.1: Rahmenvereinbarung für die Kindertageseinrichtung Heldenkids in der Coens Galerie - einstimmig beschlossen
+- TOP 8: Wahl eines hauptamtlichen Beigeordneten für den Geschäftskreis der technischen Bereiche Straße und Verkehr, Grünanlagen, Hochbau und Gebäudewirtschaft - mehrheitlich beschlossen
+- TOP 9: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Anfrage zum Sachstand der zukünftigen Fernwärmeversorgung in Frimmersdorf und Neurath über das Jahr 2030 hinaus (Anfrage-Nr.: 41/2026) - Kenntnisnahme
+- TOP 9.2: Überprüfung der Immisionswerte von Schienenverkehr (Anfrage-Nr.: 29/2026) - einstimmig beschlossen
+- TOP 9.3: Überprüfung der Feinstaubbelastung durch Güterverkehr (Anfrage-Nr.: 30/2026) - einstimmig beschlossen
+- TOP 9.4: Anfrage um Aufstellung eines Wartehaus Bushaltestelle "Platz der deutschen Einheit" an der Kaplan-Hahn-Straße (Anfrage Nr.:77/2025) - Kenntnisnahme
+- TOP 9.5: Anfrage auf Aufstellung behindertengerechter E-Ladesäulen im Stadtgebiet GV (Anfrage Nr.: 87/2025) - Kenntnisnahme
+- TOP 9.6: Dienstliche IPads an Schulen in städtischer Trägerschaft (Anfrage Nr.: 108/2025) - Kenntnisnahme
+- TOP 9.7: Gebührenentlastung für Vereine für nichtkommerzielle Veranstaltungen (Antrag-Nr.: 27/2026) - Kenntnisnahme
+- TOP 9.8: Anfrage zur Grundsteuerreform 2025 (Anfrage-Nr.: 39/2026) - Kenntnisnahme
+- TOP 9.9: Prüfung einer Photovoltaik-Installation im Rahmen der Sanierung des Schlossstadions bzw. auf dem Vereinsheim des TuS Grevenbroich (Anfrage-Nr.: 59/2026) - Kenntnisnahme
+- TOP 9.10: Vorsprung nutzen - Gindorf unbedingt weiter voranbringen: Erfolgreich initiierter Prozess zur Nachnutzung des Feuerwehrgerätehauses in Gindorf konkretisieren (Antrag Nr.:88/2025) - Kenntnisnahme
+- TOP 9.11: Antrag: Ergänzung der Abfallentsorgungssatzung (Antrag-Nr.: 119/2025) - mehrheitlich beschlossen
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Umbesetzung von Ausschüssen und Gremien (Antrag-Nr.: 70/2026) - einstimmig beschlossen
+- TOP 10.2: Ausschussumbesetzung (Antrag-Nr.: 77/2026) - einstimmig beschlossen
+- TOP 10.3: Umbesetzung von Ausschüssen und Gremien (Antrag-Nr.: 84/2026) - einstimmig beschlossen
+- TOP 10.4: Frühwarnsystem und Gegensteuerung im Jahr 2026 zur Vermeidung eines Haushaltssicherungskonzepts im Haushaltsjahr 2027 (Antrag-Nr.: 67/2026) - mehrheitlich abgelehnt
+- TOP 10.5: Antrag auf frühzeitigere Bereitstellung bereits vorliegender Sitzungsunterlagen im Ratsinformationssystem (Antrag-Nr.: 68/2026) - mehrheitlich abgelehnt
+- TOP 10.6: Streichung des Passus zur Zusammenlegung der Feuerwehrstandorte Neukirchen und Hülchrath (Antrag-Nr.: 71/2026)
+- TOP 10.7: Einrichtung einer zentralen E-Mail-Adresse "Ehrenamt@grevenbroich.de" zur Förderung des ehrenamtlichen Engagements in Grevenbroich (Antrag-Nr.: 73/2026) - von der Tagesordnung abgesetzt
+- TOP 10.8: Beitritt der Stadt in die Initiative "Mayors for Peace" (Antrag-Nr.: 74/2026) - einstimmig beschlossen
+- TOP 10.9: Resolution zur Stärkung der kommunalen Finanzen durch die Wiedereinführung einer rechtssicheren Vermögensteuer (Antrag-Nr.: 76/2026) - von der Tagesordnung abgesetzt
+- TOP 10.10: Unsachgemäß abgestellte LKW, massive Vermüllung und Schäden am öffentlichen Straßenraum im Bereich der Lindenstraße/Unterführung (Industriegebiet Ost) (Antrag-Nr.: 78/2026) - einstimmig beschlossen
+- TOP 10.11: Einrichtung einer E-Mail-Adresse für eine direkte Bürgerkommunikation mit dem Ordnungs- und Servicedienst (OSD) nach den regulären Öffnungszeiten der Verwaltung (Antrag-Nr.: 79/2026) - von der Tagesordnung abgesetzt
+- TOP 10.12: Konzept zur umfassenden Bürgerinformation und Beteiligung bei größeren Baumaßnahmen und konkrete Umsetzung der Maßnahmen (Antrag-Nr.: 80/2026) - einstimmig beschlossen
+- TOP 10.13: Temporäre Nutzungseinschränkung und Zutrittsbeschränkung des Platzes der Deutschen Einheit während der gesetzlichen Ruhezeit (Antrag-Nr.: 81/2026) - einstimmig beschlossen
+- TOP 10.14: Antrag zur Errichtung eines Flunkyballfeldes für Jugendliche (Antrag-Nr.: 87/2026) - einstimmig beschlossen
+- TOP 10.15: Barrierefreien Wohnraum auf- und ausbauen - kommunale Instrumente für inklusives Wohnen nutzen (Antrag-Nr.: 887/2026) - einstimmig beschlossen
+- TOP 10.16: Mehr Trinkwassersoender für Grevenbroich - gegen akute Trockenlegung der Bevölkerung (Antrag-Nr.: 89/2026) - einstimmig beschlossen
+- TOP 10.17: Verbesserung der Verkehrsführung für Radfahrer an der Kreuzung Bahnstraße (Antrag-Nr.: 91/2026) - einstimmig beschlossen
+- TOP 10.18: Aufstellung eines "Bücherschranks" an der Bushaltestelle in Langwaden (Antrag-Nr.: 94/2026) - einstimmig beschlossen
+- TOP 10.19: Verlegen eines geeigneten Bodenbelags für den Basketballkorb auf dem Spielplatz "In der Laag" in Frimmersdorf (Antrag-Nr.: 95/2026) - einstimmig beschlossen
+- TOP 10.20: Erneuerung der Fahrbahnmarkierungen zwischen "Morkener Straße" Nr. 117 und "Erftstraße" Nr. 97 zwischen Gindorf und Frimmersdorf (Antrag-Nr. 96/2026) - einstimmig beschlossen
+- TOP 10.21: Installierung eines öffentlich zugänglichen Defibrillators an der Bushaltestelle in Langwaden (Antrag-Nr.: 97/2026) - einstimmig beschlossen
+- TOP 10.22: Sukzessiver Austausch bzw. Reinigung von nicht mehr lesbaren Verkehrszeichen und Straßennamensschildern sowie die Entfernung von Hinweisschildern auf nicht mehr existente Gastronomie- und Hotelbetriebe (Antrag-Nr.: 98/2026) - einstimmig beschlossen
+- TOP 10.23: Versetzung der Straßenbeleuchtung "Weidenpeschstraße" und "Auf dem Broich" in Frimmersdorf (Antrag-Nr.: 99/2026) - einstimmig beschlossen
+- TOP 10.24: Freiwillige Aufwandsentschädigungen bei Betreuungsfällen in Kindertageseinrichtungen für die KiTa-Jahre 25/26 und 26/27 (Antrag-Nr.: 101/2026) - einstimmig beschlossen
+- TOP 10.25: Einrichtung von Mülleimern an öffentlichen Sitzbänken im Stadtgebiet (Antrag-Nr.: 102/2026) - einstimmig beschlossen
+- TOP 10.26: Interkommunale Zusammenarbeit im Strukturwandel - Bericht des Strukturwandelmanagements und Perspektiven für Grevenbroich (Antrag-Nr.: 103/2026) - einstimmig beschlossen
+- TOP 10.27: Kaufkraftbindung stärken - Konzept zur Weiterentwicklung des Einzelhandelsstandortes Grevenbroich (Antrag-Nr.:104/2026) - einstimmig beschlossen
+- TOP 10.28: Konzept zur Stärkung der Bestandspflege und Neuansiedlung von Unternehmen in Grevenbroich (Antrag-Nr.: 105/2026) - einstimmig beschlossen
+- TOP 10.29: Sachstandsbericht zum Glasfaser- und Breitbandausbau in Grevenbroich (Antrag-Nr.: 106/2026) - einstimmig beschlossen
+- TOP 10.30: Digitaler Bürgerservice - Sachstandsbericht zur Umsetzung des Onlinezugangsgesetzes (OZG) und der Digitalisierungsstrategie der Stadt Grevenbroich (Antrag-Nr.: 107/2026) - einstimmig beschlossen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Akuter Mangel an Inobhutnahmestellen (Anfrage-Nr.: 66/2026) - Kenntnisnahme
+- TOP 11.2: Anfrage zur geplanten Wasserinfrastruktur und zu den Auswirkungen auf die Trinkwasserversorgung in Grevenbroich (Anfrage-Nr.: 69/2026) - Kenntnisnahme
+- TOP 11.3: Anfrage "KI in der Grevenbroicher Verwaltung" (Anfrage-Nr. 72/2026) - Kenntnisnahme
+- TOP 11.4: Schwimmunterricht und Schwimmfähigkeit an Grevenbroicher Grundschulen (Anfrage-Nr.: 75/2026) - Kenntnisnahme
+- TOP 11.5: Sachstandsbericht Entwicklungsmaßnahme "Gierather Weg" (Anfrage-Nr.: 82/2026) - Kenntnisnahme
+- TOP 11.6: Starkregenabfluss und Straßenentwässerung im Bereich Am Rittergut / Kirmesplatz am westlichen Ortseingang von Noithausen (Anfrage-Nr.: 85/2026) - Kenntnisnahme
+- TOP 11.7: Anfrage zur Eigentumslage, Widmung, Zuständigkeit und Entwässerung im Bereich Am Burgturm (Anfrage-Nr.: 86/2026) - Kenntnisnahme
+- TOP 11.8: Raumtemperaturen in städtischen Kindertagesstätten (Anfrage-Nr.: 90/2026) - Kenntnisnahme
+- TOP 11.9: Unzuverlässige Sperrmüllabholung in mehreren Ortsteilen - Ursachen, Zuständigkeiten und Maßnahmen zur Verbesserung (Anfrage-Nr.: 92/2026) - Kenntnisnahme
+- TOP 11.10: Neubau bzw. Wiederherstellung der Fußgängerbrücke an der Erft zwischen Gruissem und Münchrath - Sachstand, Übergangslösung und Zeitplan (anfrage-Nr.: 93/2026) - Kenntnisnahme
+- TOP 11.11: Maßnahmen zur Entlastung der Südstadt auf Grund der stattfindenen Bauprojekte (Anfrage-Nr.: 100/2026) - Kenntnisnahme
+- TOP 12: Mitteilungen des Bürgermeisters
