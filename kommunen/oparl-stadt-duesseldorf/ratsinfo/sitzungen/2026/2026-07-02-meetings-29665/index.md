@@ -1,0 +1,59 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-02T15:00:00+02:00
+- Ende: 2026-07-02T17:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29665
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29665
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 27.11.2025 - einstimmig beschlossen
+- TOP 4: Mündliche Berichte
+- TOP 4.1: Aufarbeitung Kolonialismus in Düsseldorf
+- TOP 4.1.1: Vorstellung Arbeitskreis Düsseldorf postkolonial
+- TOP 4.1.2: Bericht Stadtarchiv zur Aufarbeitung des Kolonialismus in Düsseldorf
+- TOP 4.1.3: Bericht der Provenienzforschung zur Aufarbeitung des Kolonialismus in Düsseldorf
+- TOP 4.2: Vorstellung der Volkshochschule
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage SPD/Volt-Ratsfraktion: Wie sieht die Zukunft der freien Tanz- und Theaterszene in der Jahnstraße 3 aus - beantwortet
+- TOP 5.2: Anfrage Ratsfraktion Die Linke: Sammlung der Zukunft – Museum der Zukunft - beantwortet
+- TOP 6: Anträge
+- TOP 6.1: Antrag Ratsfraktionen CDU und BÜNDNIS 90/DIE GRÜNEN: Museum und Sammlung der Zukunft - mehrheitlich beschlossen
+- TOP 6.2: Antrag AfD-Ratsfraktion: Einbeziehung der Sprach- und Integrationskurse der Volkshochschule Düsseldorf in die Konsolidierungsmaßnahmen des Haushalts der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Wir 2030 – Visions- und Strategieprozess der Stadtbüchereien Düsseldorf - zur Kenntnis genommen
+- TOP 7.2: Ausstellungsprogramme 2. Halbjahr 2026
+- TOP 7.2.1: Stadtmuseum - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.2: Aquazoo Löbbecke Museum - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.3: SchifffahrtMuseum - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.4: Heinrich-Heine-Institut und Schumann-Haus - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.5: Theatermuseum und Dumont-Lindemann-Archiv - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.6: Mahn- und Gedenkstätte - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.7: Filmmuseum - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.8: Goethe-Museum / Anton-und-Katharina-Kippenberg-Stiftung - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.2.9: Hetjens - Deutsches Keramikmuseum - Ausstellungsprogramm 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 7.3: Änderung der Satzung der Volkshochschule - Empfehlung einstimmig beschlossen
+- TOP 7.4: Wahl eines Mitgliedes und dessen Stellvertretung in die Mitgliederversammlung und in die Bezirksarbeitsgemeinschaft - Empfehlung einstimmig beschlossen
+- TOP 7.5: Zuwendung für den Metzgerei Schnitzel e.V. für Betrieb des neuen Vereinsheims der Brause am Kirchplatz - mehrheitlich beschlossen
+- TOP 7.6: Kostenreduzierte Nutzung der Tonhalle für das Semesterabschlusskonzert des Chors und Orchesters der Heinrich-Heine-Universität im Februar 2027 - einstimmig beschlossen
+- TOP 7.7: Förderung des 24. Filmfests Düsseldorf - mehrheitlich beschlossen
+- TOP 7.8: Förderung der Verleihung des popNRW-Preises 2026 in Düsseldorf - einstimmig beschlossen
+- TOP 7.9: Erhöhung der Zuwendung für die Vorbereitungskosten des Festivals „düsseldorf photo+ 2027“ - zurückgestellt
+- TOP 7.10: Aufhebung des Sperrvermerks und Zuwendung an die New Fall Festival gGmbH zur Durchführung des Ehrenhof Village - mehrheitlich beschlossen
+- TOP 7.11: Literaturaustausch zwischen Düsseldorf und Czernowitz - mehrheitlich beschlossen
+- TOP 7.12: Besetzung Bernd-und-Hilla-Becher-Preisgerichtes 2025-2030 - Empfehlung einstimmig beschlossen
+- TOP 7.13: Beirat Darstellende Künste - Sitzung am 28.05.2026: Für die Förderung empfohlene Projekte - mehrheitlich beschlossen
+- TOP 7.14: Beirat für kulturelle Bildung - Sitzung am 27. und 29.05.2026: Für die Förderung empfohlene Projekte - mehrheitlich beschlossen
+- TOP 7.15: Beschlusskontrolle Januar 2026 bis Mai 2026 - zur Kenntnis genommen
+- TOP 7.16: Kunstkommission
+- TOP 7.16.1: Evaluation der 3. Kunstkommission - aktueller Sachstand - zurückgezogen
+- TOP 7.17: Evaluation der Kulturentwicklungsplanung (KEP) der Landeshauptstadt Düsseldorf - Abschlussbericht - zur Kenntnis genommen
+- TOP 8: Verschiedenes
