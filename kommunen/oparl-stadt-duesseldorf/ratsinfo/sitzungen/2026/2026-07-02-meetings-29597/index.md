@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-02T18:00:00+02:00
+- Ende: 2026-07-02T19:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29597
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29597
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 02.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592332.pdf
+- Ergebnisprotokoll: NachtragsTO vom 02.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592332.pdf
+- Wortprotokoll: NachtragsTO vom 02.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592332.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 18.06.2026 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 23.04.2026
+- TOP 3.2: Genehmigung der Niederschriften vom 21.05.2026
+- TOP 4: Vorstellung der Stiftung Nachhaltigkeit - Bericht
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Weihnachtsmarkt in Unterbach im Jahr 2026 - einstimmig beschlossen
+- TOP 7: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2026 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2026 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Kreuzungsbereich Karlsruher Straße / Bernburger Straße / Alt-Eller und Radwegeführung bis zum Friedhof Eller (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 12: Kissinger Straße: Umwandlung in eine Spielstraße (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 13: Beleuchtung und Sicherheit am Calisthenics-Park auf dem Spielplatz (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 14: Sachstand Fußgängerquerung Alt-Eller / Gertrudisstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Sachstand OGS-Verträge an den Grundschulen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Sachstand Hitze-/Regenschutz an Grundschulen (innen und außen) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Leerstand Wohnraum (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Sachstand der Umsetzung von Beschlüssen der Bezirksvertretung 8 aus den Jahren 2024 bis 2027 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Steuerung und Ordnung von E-Scootern in den Stadtteilen des Stadtbezirks 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Alkoholkonsum und Störungen auf dem Gertrudisplatz (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Umbau und Signalisierung Einmündung An der Schützenwiese/ Königsberger Straße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 23: Ampelschaltung an der Kreuzung Gerresheimer Landstraße / Dellestraße (Anfrage CDU-Fraktion) - beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Einmündung Kissinger Straße / Ludwigstraße (Antrag Fraktion Liste Zukunft 08) - einstimmig beschlossen
+- TOP 26: Versuchsweise Anpassung der Ampelschaltung an der Haltestelle Eller Forst (Antrag Fraktion Liste Zukunft 08) - einstimmig beschlossen
+- TOP 27: Prüfung einer sicheren Einleitung des Radverkehrs auf die Glashüttenstraße im Bereich Kreuzung Vennhauser Allee/ Rothenbergstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Erhalt/Rettung des großen Ahorn Grundstück Drosselstraße 14 (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 31: Baustelle ehemaliges Haus Querling in Vennhausen - zur Kenntnis genommen
+- TOP 32: Erneuerung Beschilderung Spielplatz Gertrudisplatz - zur Kenntnis genommen
+- TOP 33: Instandsetzung Schutzstreifenmarkierung Werstener Feld - zur Kenntnis genommen
+- TOP 34: Verkehrssituation Bernburger Straße - zur Kenntnis genommen
+- TOP 35: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Einhaltung § 8 BauO NRW: Schotter- und Steingärten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: GAT-Auswertung am Büllenkothenweg - zur Kenntnis genommen
+- TOP 38: GAT-Auswertung am Am Pflanzkamp - zur Kenntnis genommen
+- TOP 39: Sachstand zur Neuaufstellung des Nahverkehrsplans und zum Beteiligungsprozess - zur Kenntnis genommen
+- TOP 40: Überprüfung der Ampelschaltung an der Kreuzung Vennhauser Allee / In den Kötten (Querung „In den Kötten“) - zur Kenntnis genommen
+- TOP 41: Wegesanierung vor der Düsselbrücke am Eller Friedhof - zur Kenntnis genommen
+- TOP 42: Schulwegsicherheit Vennhauser Allee - zur Kenntnis genommen
+- TOP 43: Sofortmaßnahmen gegen Vermüllung und Rattenbefall im Bereich Lassallestraße / Wohnpark LEG - zur Kenntnis genommen
+- TOP 44: Umsetzung Düsselbike-Stationen - zur Kenntnis genommen
+- TOP 45: Parken an E-Ladesäulen zwischen 22:00 und 07:00 Uhr - zur Kenntnis genommen
+- TOP 46: Ausstattung von Haltestellen mit Wartehäuschen und Begrünung von Wartehäuschen - zur Kenntnis genommen
+- TOP 47: Verschiedenes
