@@ -1,0 +1,8 @@
+# TOP 3: Vorstellung und Bericht über die mags AöR - Mönchengladbacher Abfall-, Grün- und Straßenbetriebe – AöR
+
+- Sitzung: Ausschuss für Finanzen, Beteiligungen und Wirtschaft (2026-07-02)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/171855
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/39002
