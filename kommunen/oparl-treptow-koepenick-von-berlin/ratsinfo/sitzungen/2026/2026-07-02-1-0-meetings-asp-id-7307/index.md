@@ -1,0 +1,83 @@
+# 45. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2026-07-02T17:00:00+02:00
+- Ende: 2026-07-02T21:24:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7307
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7307
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=473472
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Berichte der Bezirksamtsmitglieder - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 1 - gewählt
+- TOP 6.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 2 - vertagt
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-43 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Spreepark ökologisch und sozial gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Sichere Querung Straßenbahnstation Nixenstraße endlich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Bussonderfahrstreifen auf der Elsenstraße verstetigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Mehr Parkplätze in Alt-Treptow durch Quer- / Schrägparken in der Bouchéstraße prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Kurpark: Der Abfall muss weg – nur wohin? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Sanierung der Feierhalle auf dem Friedhof Altglienicke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Ladestationen für E-Bikes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Tempo 30 auf dem Dammweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Geschwindigkeitskontrollen durch das Ordnungsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Festakt und BVV-Sitzung im Rathaus Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - schriftlich beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 9-30 VE ("Parkplatz Amtswäldchen") - Entwurf des vorhabenbezogenen Bebauungsplans 9-30 VE - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-30 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - vertagt
+- TOP 9.2: Gründung einer Grundschule am Standort Peenestraße 47, 12524 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Sondermittel für den Verein "BSG Bezirksamt Köpenick e. V." (SM 26-16) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für den Verein "Chorgemeinschaft "pro musica" Treptow e. V." (SM 27-01) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sondermittel für die Mosaizistas von Halle und Schock GbR (SM 26-15) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Gewerbe in der Dörpfeldstraße schützen - Umgestaltung bis zur Klärung der Belieferung stoppen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Verkehrssicherheit am Knotenpunkt Bohnsdorfer Weg verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Errichtung eines Verkehrsschutzgitters zwischen Gehweg und Fahrbahn vor der Mittelpunktbibliothek Alte Feuerwache - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Ursprüngliche Wegeführung des Radweges am S-Bahnhof Schöneweide wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Finanzierung und Umsetzung des ÖPNV-Lückenschlusses zwischen Friedrichshagen und Hoppegarten unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Mehr Schliff im Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Radweg am Müggelseedamm beleuchten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Regattastrecke Grünau bei Olympia berücksichtigen – Wassersportstandort stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Kurzzeitstellplätze Grünauer Straße 29 bis 46 in Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Wirtschaftliche Vernunft im Innovationspark Wuhlheide: Planung für den Ausbau erneuerbarer Energien stoppen – Unternehmen schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 11.1: Rahmenplan "Historischer Industrie- und Gewerbegürtel Oberschöneweide" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Bebauungsplan XVI-70 ("Bruno-Wille-Straße") hier: Einstellung des Bebauungsplanverfahrens im Bezirk Treptow-Köpenick von Berlin, Ortsteil Friedrichshagen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Bebauungsplan 9-103 E ("Wilhelminenhofstraße") hier: Anpassung des Geltungsbereichs im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - überwiesen
+- TOP 11.4: Namensänderung der Fritz-Kühn-Schule, Dahmestraße 45, 12526 Berlin - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Dauerhafter Erhalt des aktuellen Streckenverlaufs der Tramlinie 63 - überwiesen
+- TOP 12.2: Offizielle Anerkennung der Badestellen "Teppich" und "Kamerun" - überwiesen
+- TOP 12.3: Kantine im Kulturzentrum Alte Schule wiedereröffnen - überwiesen
+- TOP 12.4: Lehr- und Erlebnisweg Müggelberge und Teufelssee deutlich bekannter machen – heimatnahe Naturbildung im Bezirk stärken - überwiesen
+- TOP 12.5: Straßenbenennung zu Ehren von Margot Ebert - überwiesen
+- TOP 12.6: Sitzbänke am Köllnischen Platz (Köpenick) - überwiesen
+- TOP 12.7: Bürgerinformation und -beteiligung zur Parkraumbewirtschaftung in Alt-Treptow - überwiesen
+- TOP 12.8: Verkehrssicherheit an der Querungsstelle Forsthausallee / Mauerweg erhöhen - überwiesen
+- TOP 12.9: Bürgerhaus Altglienicke bekannter machen - überwiesen
+- TOP 12.10: Wiederherstellung der Parkplätze am Marktplatz in Adlershof - überwiesen
+- TOP 12.11: Einrichtung von Tempo 30 auf der Salvador-Allende-Straße - überwiesen
+- TOP 12.12: Leerung von Glascontainern optimieren - überwiesen
+- TOP 12.13: Raumnutzung vereinfachen, zivilgesellschaftliche Akteure unterstützen - überwiesen
+- TOP 12.14: Sichere Querung an der Kreuzung Baumschulenstraße / Glanzstraße gewährleisten - überwiesen
+- TOP 12.15: Skulpturen reinigen - überwiesen
+- TOP 12.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.17: Bessere Einsehbarkeit der Radverkehrsampel an der Müggelheimer Straße herstellen - überwiesen
+- TOP 12.18: Begrüßungsdampferfahrt nicht länger als One-Man-Show – gesamtes Bezirksamt einbeziehen - in der BVV abgelehnt
+- TOP 12.19: Gedenkstätte für die Opfer der Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Erinnerung an Wolfgang Hoffmann - Gedenktafel für ein Opfer der SED-Diktatur errichten - überwiesen
+- TOP 12.21: Zukunft des Görlitzer Bahndamms gemeinsam mit der Nachbarschaft gestalten - überwiesen
+- TOP 13: Große Anfragen - (offen)
