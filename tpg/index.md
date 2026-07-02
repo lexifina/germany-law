@@ -31,8 +31,7 @@ Spendern
 ## Abschnitt 3a Gewebeeinrichtungen, Untersuchungslabore, Register
 
 - [§ 8e Besondere Pflichten der Gewebeeinrichtungen](0008e.md)
-- [§ 8f (weggefallen)](0008f.md)
-- [§ 8f Untersuchungslabore](0008f-2.md)
+- [§ 8f Untersuchungslabore](0008f.md)
 - [§ 8g Meldung bestimmter Gewebeeinrichtungen](0008g.md)
 
 ## Abschnitt 4 Entnahme, Vermittlung und Übertragung von Organen, Zusammenarbeit bei der Entnahme von Organen und Geweben
